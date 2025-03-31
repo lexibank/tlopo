@@ -1,7 +1,1 @@
-# Source directory
-
-This directory contains the "raw" source data of the dataset from which the
-CLDF dataset in [`cldf/`](../cldf) is derived.
-
-txt files created running `pdftotext -layout`.
-
+Raw data downloaded 2025-03-31T05:39:53.338956+00:00

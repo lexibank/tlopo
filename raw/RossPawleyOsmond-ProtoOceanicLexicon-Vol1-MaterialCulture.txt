@@ -10,9 +10,6 @@
 
 
 
-Ross, M., Pawley, A. and Osmond, M. editors. The Lexicon of Proto Oceanic: The Culture and environment of ancestral Oceanic society 1: Material Culture.
-C-152, xxii + 371 pages. Pacific Linguistics, The Australian National University, 1998. DOI:10.15144/PL-C152.cover
-©1998 Pacific Linguistics and/or the author(s). Online edition licensed 2015 CC BY-SA 4.0, with permission of PL. A sealang.net/CRCL initiative.
                                 PACIFIC LINGUISTICS
 
 
@@ -89,7 +86,7 @@ Australia
 
 
 
-F irst published 1 998
+First published 1998
 
 Copyright © The authors
 
@@ -810,9 +807,6 @@ AUSTRALIA
                         Map 2: Geographic limits of historically known Oceanic speakers and
                                     of presently documented Lapita sites (after Kirch 1997: 1 7, 54)
                                                                                                                                                                                          �.
-Ross, M., Pawley, A. and Osmond, M. editors. The Lexicon of Proto Oceanic: The Culture and environment of ancestral Oceanic society 1: Material Culture.
-C-152, xxii + 371 pages. Pacific Linguistics, The Australian National University, 1998. DOI:10.15144/PL-C152.cover
-©1998 Pacific Linguistics and/or the author(s). Online edition licensed 2015 CC BY-SA 4.0, with permission of PL. A sealang.net/CRCL initiative.
                           1 Introduction
                                                   MALCOLM ROSS, ANDREW PAWLEY AND MEREDITH OSMOND
 
@@ -852,12 +846,6 @@ C-152, xxii + 371 pages. Pacific Linguistics, The Australian National University
                                 The listing in Tryon ed. ( 1 995) contains 466 Oceanic languages, many of which are subdivisible into
                                 dialects.
 
-                       Malcolm Ross, Andrew Pawley and MerediIh Osmond, eds '!be lexicon ofProto Oceanic, vol. 1: malerial culture, 1-14.
-                      PacijicLinguistiai, C-152, 1998.
-                       © Malcolm Ross, Andrew Pawley and MerediIh Osmond.
-Ross, M., Pawley, A. and Osmond, M. "Introduction". In Ross, M., Pawley, A. and Osmond, M. editors, The Lexicon of Proto Oceanic: The Culture and environment of ancestral Oceanic society 1: Material Culture.
-C-152:1-14. Pacific Linguistics, The Australian National University, 1998. DOI:10.15144/PL-C152.1
-©1998 Pacific Linguistics and/or the author(s). Online edition licensed 2015 CC BY-SA 4.0, with permission of PL. A sealang.net/CRCL initiative.
 2   Malcolm Ross, Andrew Pawley and Meredith Osmond
 
 degrees of latitude from its southernmost outpost, Stewart Island in New Zealand.
@@ -1529,9 +1517,6 @@ written in an orthography identical to our standard.
 
 
 
-Ross, M., Pawley, A. and Osmond, M. "Introduction". In Ross, M., Pawley, A. and Osmond, M. editors, The Lexicon of Proto Oceanic: The Culture and environment of ancestral Oceanic society 1: Material Culture.
-C-152:1-14. Pacific Linguistics, The Australian National University, 1998. DOI:10.15144/PL-C152.1
-©1998 Pacific Linguistics and/or the author(s). Online edition licensed 2015 CC BY-SA 4.0, with permission of PL. A sealang.net/CRCL initiative.
                       2 Proto Oceanic phonology and
                                                morphology
 
@@ -1568,12 +1553,6 @@ C-152:1-14. Pacific Linguistics, The Australian National University, 1998. DOI:1
                                                                                          *a
                     The paradigm reconstructed by Dempwolff ( 1 937) has been modified in various ways by
 
-                    Malcolm Ra;s, Andrew Pawley and Meredith Osmond, eds tbe /exiam ofProto Oceanic, vol. 1: material culture, 15-35.
-                   Padfic linguistics, C-152, 1998.
-                    e Malcolm Ra;s
-Ross, M. "Proto Oceanic Phonology and Morphology". In Ross, M., Pawley, A. and Osmond, M. editors, The Lexicon of Proto Oceanic: The Culture and environment of ancestral Oceanic society 1: Material Culture.
-C-152:15-36. Pacific Linguistics, The Australian National University, 1998. DOI:10.15144/PL-C152.15
-©1998 Pacific Linguistics and/or the author(s). Online edition licensed 2015 CC BY-SA 4.0, with permission of PL. A sealang.net/CRCL initiative.
 16      Malcolm Ross
 
 Haudricourt ( 1 9 5 1 ), Milke ( 1 968), Grace ( 1 969), Wolff ( 1 9 74), Blust ( 1 97 8b) and Ross
@@ -2594,30 +2573,29 @@ conventions referred to in the discussion above to speak for themselves.
 21
      For more detailed information the reader is referred to Pawley ( 1 973: 1 26- 1 40), Crowley ( 1 985), Ross
      ( 1 998).
-Ross, M. "Proto Oceanic Phonology and Morphology". In Ross, M., Pawley, A. and Osmond, M. editors, The Lexicon of Proto Oceanic: The Culture and environment of ancestral Oceanic society 1: Material Culture.
-C-152:15-36. Pacific Linguistics, The Australian National University, 1998. DOI:10.15144/PL-C152.15
-©1998 Pacific Linguistics and/or the author(s). Online edition licensed 2015 CC BY-SA 4.0, with permission of PL. A sealang.net/CRCL initiative.
-                        3 Architectural forms and
-                                                  settlement patterns
+                        3 Architectural forms and settlement patterns
+
+3 Architectural forms and settlement patterns
 
                                                  ROGER GREEN AND ANDREW PAWLEY
 
 
 
 
-                       1       Aims and methodological preliminaries
+3.1       Aims and methodological preliminaries
+
                          This chapter seeks to reconstruct something of the architectural elements and settlement
                       patterns of speakers of Proto Oceanic and its immediate descendants, speech communities
                       that many associate with the colonisation of south-west Oceania by bearers of the archaeological
                       culture known as Lapita in the second half of the 2nd millennium Be (Bellwood 1 97 8 ,
-                      Pawley & Ross 1 995, Shutler & Marck 1 975, Spriggs 1 995). '
+                      Pawley & Ross 1 995, Shutler & Marck 1 975, Spriggs 1 995).[1]
                          Some methodological questions are in order. Are such culture historical reconstructions
                       feasible? Which disciplines and methods can provide evidence relevant to this task? What is
                       each method good for, and to what extent, if at all, can evidence provided by different
                       methods be connected?
                          At least three distinct disciplines -historical linguistics, archaeology and comparative
                       ethnology-are used to do culture history. Each discipline has particular strengths and
-                      limitations.2 Although their combined testimonies are likely to reveal a fuller picture than any
+                      limitations.[2] Although their combined testimonies are likely to reveal a fuller picture than any
                       yielded by a single discipline, synthesising evidence from diverse disciplines and methods is
                       not a straightforward matter. A synthesiser can accept the testimony of different disciplines
                       but it is not easy to know when the witnesses are talking about the same historical events.
@@ -2626,28 +2604,23 @@ C-152:15-36. Pacific Linguistics, The Australian National University, 1998. DOI:
                          The richest primary data for culture historical reconstruction come from comparative
 
 
-                       , This chapter is based on a longer paper by Green and Pawley (in press, vol. 3) which correlates archaeological
+[1] This chapter is based on a longer paper by Green and Pawley (in press, vol. 3) which correlates archaeological
                          findings from Lapita sites with the linguistic work presented here. The current version includes some minor
                          revisions and the archaeological data are omitted here, as the aim of the present series is to reconstruct POc
                          lexicon without attempting to treat archaeological evidence in any detail. We are indebted to Meredith
                          Osmond for research assistance and comments. Peter Sheppard, Richard Walter, Janet Davidson, Patrick
                          Kirch, Malcolm Ross and Valerie Green also read the draft and suggested a number of improvements.
-                      2 Blust ( 1 976b) points out ways in which archaeological and linguistic evidence can be complementary,
+
+[2] Blust ( 1976b) points out ways in which archaeological and linguistic evidence can be complementary,
                         corroboratory or contradictory.
 
-                       Malcolm Ross, Andrew Pawley and Meredith Osmond, eds tbe iexiam ofProia Oceanic, vol. 1: malerial culture, 37�5.
-                      Pacific linguislics, C-152, 1998.
-                       © Roger Green and Andrew Pawley.
-Green, R. and Pawley, A. "Architectural Forms and Settlement Patterns". In Ross, M., Pawley, A. and Osmond, M. editors, The Lexicon of Proto Oceanic: The Culture and environment of ancestral Oceanic society 1: Material Culture.
-C-152:37-66. Pacific Linguistics, The Australian National University, 1998. DOI:10.15144/PL-C152.37
-©1998 Pacific Linguistics and/or the author(s). Online edition licensed 2015 CC BY-SA 4.0, with permission of PL. A sealang.net/CRCL initiative.
 38       Roger Green and Andrew Pawley
 
 ethnology (or comparative ethnography, if you prefer). This discipline has the advantage,
 under favourable circumstances, of starting with descriptions of contemporary or historical
 societies and cultures that are immensely more complete than anything the archaeologist can
 hope to recover. However, the historical method of comparative ethnology is a fairly blunt
-instrument.3 The method is based on general arguments from typology. From contemporary
+instrument.[3] The method is based on general arguments from typology. From contemporary
 reports of cultures the comparative ethnologist may arrive at a theory of earlier cultural types
 and their transformations or their directions of diffusion. The proofs for drawing such inferences
 are essentially statistical, based on the frequency and distribution of types and typological
@@ -2692,8 +2665,9 @@ tradition, (b) convergent development, or (c) diffusion.
 certain whether pile-built dwellings really belong to an early phase of Western Austronesian
 
 
-  The nature of the contrast between the historical methods of comparative ethnology and linguistics is
+[3]  The nature of the contrast between the historical methods of comparative ethnology and linguistics is
   discussed in Blust (1980a), Green (l 994a) and Pawley and Ross ( 1 993, 1 995).
+
                                          Architecturalforms and settlement patterns            39
 
 culture, or whether they have been diffused at a much later date... " (Bellwood 1 9 8 7:92). As
@@ -2762,7 +2736,7 @@ cumulative change wears away the evidence of common origin. There have been few 
 which the genetic comparative method has reliably penetrated much deeper than about 6,000
 years. No special mystique should be attached to this particular figure-it happens that
 several of the large, well-defined language families in the world are the outcome of dispersals
-that began within the last 5 ,000 to 6,000 years.4 When the relevant cognate sets survive, the
+that began within the last 5 ,000 to 6,000 years.[4] When the relevant cognate sets survive, the
 reconstructions for prehistoric 'artefacts' and 'ecofacts' accessible to historical linguistics
 cover an extremely wide range of cultural domains-so this discipline is well equipped to
 recover elements of the perishable material often unavailable to archaeologists as well as
@@ -2789,13 +2763,14 @@ Austronesian speakers. And if a site was occupied by Austronesian speakers, we m
 
 
 
-  It has been suggested that the expansion of many of the world's large, well-defined language groups was
+[4]  It has been suggested that the expansion of many of the world's large, well-defined language groups was
   associated with the spread of agriculture (Bellwood 1 99 1 , Renfrew 1 987, 1 992). Be that as it may,
   reconstruction of fairly remote protolanguages is certainly easiest when the number of descendants is large,
   as is the case with such well-known families as Indo-European (at least 1 40 languages) and Austronesian
   (about 1 ,000 languages). The conservativeness of a good many Austronesian languages is such that, if they
   were to change no more over the next 5,000 years than they have in the past 5 ,000 or so, their genetic
   relatedness would still be obvious, some 1 0,000 years after their divergence.
+
                                                   Architecturalforms and settlement patterns                     41
 
 how i t can be shown that the occupants were speakers of, say, stage A o r subgroup A of
@@ -2806,7 +2781,7 @@ factors.
     Our strategy, since the mid- 1 960s, has been to seek detailed, systematic points of connection
 between particular prehistoric cultures and cultural sequences in the Pacific I slands, as defined
 by archaeology and historical linguistics, respectively, always with an eye on the comparative
-ethnology.s The islands of the Polynesian Triangle, settled so late in human history, have been
+ethnology.[5] The islands of the Polynesian Triangle, settled so late in human history, have been
 an ideal laboratory to make such correlations. In Melanesia, a region with a far more complex
 prehistory, but receiving far less attention, the pieces have not come together nearly so well.
 But over the past 30 years it has gradually become increasingly evident that the settlement of
@@ -2840,7 +2815,7 @@ Tonga and Samoa.
 
 
 
-S   For example, Green ( 1 966, 1 967, 1 979, 1 98 1 , 1 986, 1 994a, 1 994b); Kirch and Green ( 1 987); Pawley
+[5]  For example, Green ( 1 966, 1 967, 1 979, 1 98 1 , 1 986, 1 994a, 1 994b); Kirch and Green ( 1 987); Pawley
     ( 1 98 1 , 1 982, 1 996a); Pawley and R.Green ( 1 973, 1 984); Pawley and K.Green ( 1 9 7 1 ); Pawley and Pawley
     ( 1 994); Pawley and Ross ( 1 993). We have not been alone in this enterprise. From the 1 920s on, Kenneth
     Emory was a pioneer in Polynesian culture history, when archaeological and historical linguistic studies in
@@ -2941,8 +2916,8 @@ Austronesian association (Green 1 997).
 
 
 
-2. Settlement patterns: evidence from archaeology and
-   comparative ethnology
+3.2. Settlement patterns: evidence from archaeology and comparative ethnology
+
     The archaeological record tells us much about the siting and size of Lapita sites. All 36
 sites of known size are on the coast (see Map 5), usually handy to lagoons and beaches that
 would have provided seafood and canoe landing and launching places. Settlements cover the
@@ -3120,7 +3095,7 @@ marae and by Green ( 1 986 :54) for a Kwaio settlement in relation to Polynesian
                                         Architecturalforms and settlement patterns          47
 
 
-2.1 Dwelling house architecture
+3.2.1 Dwelling house architecture
 
    Most Oceanic-speaking societies distinguish by name more than one design of dwelling
 house. Arosi speakers, of San Cristobal in the Solomons, for instance, first distinguish ruma
@@ -3155,9 +3130,9 @@ of Proto Oceanic speakers and their immediate descendants?
 
 
 
-3. Settlement patterns: evidence from comparative linguistics
+3.3. Settlement patterns: evidence from comparative linguistics
 
-3.1 Subgrouping
+3.3.1 Subgrouping
 
    Given the minimal subgrouping assumptions set out in the Introduction, we can reconstruct
 a Proto Oceanic etymon for any set of cognate lexical units that is regularly reflected in at
@@ -3189,7 +3164,7 @@ structure of the Nuclear Micronesian subgroup, as defined by Bender ( 1 97 1 ) a
 
 
 
-3.2 Lexical reconstructions
+3.3.2 Lexical reconstructions
 
    A number of cognate sets yield lexical reconstructions that tell something about early
 Austronesian settlement patterns. These are treated here under the headings: (a) kinds of
@@ -4146,16 +4121,13 @@ data sets opens up possibilities that are well worth exploring further. When bot
 they allow the construction of a far more rounded picture of a period of considerable foment
 in Pacific colonisation than either does alone.
 
-Green, R. and Pawley, A. "Architectural Forms and Settlement Patterns". In Ross, M., Pawley, A. and Osmond, M. editors, The Lexicon of Proto Oceanic: The Culture and environment of ancestral Oceanic society 1: Material Culture.
-C-152:37-66. Pacific Linguistics, The Australian National University, 1998. DOI:10.15144/PL-C152.37
-©1998 Pacific Linguistics and/or the author(s). Online edition licensed 2015 CC BY-SA 4.0, with permission of PL. A sealang.net/CRCL initiative.
                       4 Household artefacts
                                                 MEREDITH OSMOND AND MALCOLM ROSS
 
+4 Household artefacts
 
+4.1 Introduction
 
-
-                      1 Introduction
                         The artefacts considered here are mainly household items, used in the gathering and
                      storage of food, in the construction and maintenance of dwellings and gardens, and those
                      used for personal adornment. Some of the items--earthenware pots, stone adzes and axes,
@@ -4176,9 +4148,9 @@ C-152:37-66. Pacific Linguistics, The Australian National University, 1998. DOI:
                             during the preparation of trus chapter.
 
 
-                      2 Containers
+4.2 Containers
 
-                      2.1 Pottery containers
+4.2.1 Pottery containers
 
                          Pottery is one of the more distinctive features of the Lapita culture, here held to coincide
                       with and thus be an integral marker of the early dispersal of Proto Oceanic.[2] Pottery manufacture
@@ -4187,12 +4159,6 @@ C-152:37-66. Pacific Linguistics, The Australian National University, 1998. DOI:
 
 [2]     For a fuller account of POc pottery manufacture, see Ross (J 996c).
 
-                      Malcolm Ross , Andrew Pawley and Meredith Osmond, 00s 1be lexicon ofProto Oceanic, vol. 1: material culture, 67-1 14.
-                     Pacijic Linguistics, C-152, 1998.
-                      � Meredith Osmond and Malcolm Ross.
-Osmond, M. and Ross, M. "Household Artefacts". In Ross, M., Pawley, A. and Osmond, M. editors, The Lexicon of Proto Oceanic: The Culture and environment of ancestral Oceanic society 1: Material Culture.
-C-152:67-114. Pacific Linguistics, The Australian National University, 1998. DOI:10.15144/PL-C152.67
-©1998 Pacific Linguistics and/or the author(s). Online edition licensed 2015 CC BY-SA 4.0, with permission of PL. A sealang.net/CRCL initiative.
 68 Meredith Osmond and Malcolm Ross
 
 guarantee that pottery will be manufactured. Nor is its absence from the immediate locality a
@@ -4231,7 +4197,7 @@ cooking pot/generic term is the most soundly based.
 
 
 
-2. 1. 1 Cooking pot
+4.2. 1. 1 Cooking pot
 
 <
 
@@ -4256,7 +4222,7 @@ POc *kuran 'earthernware pot'
 
 >
 
-2. 1.2 Waterjar
+4.2. 1.2 Waterjar
 
     The best candidate for 'water jar' is POc *kalala(1J), reconstructed on the basis of Proto
 WMP *kalala1J 'narrow-necked water jar' (Tagalog kalala1J 'narrow-necked water jug'; Blust
@@ -4301,7 +4267,7 @@ The Motu and Lala items are either borrowed or simply bear a chance resemblance 
 
 70 Meredith Osmond and Malcolm Ross
 
-2. 1.3 Frying pan
+4.2. 1.3 Frying pan
 
 <
 
@@ -4319,7 +4285,7 @@ POc *palalJa 'frying pan'
 >
 
 
-2. 1.4 Large cooking pot
+4.2. 1.4 Large cooking pot
 
 <
 
@@ -4336,7 +4302,7 @@ PNGOc *(kuron) bWaIJa 'communal cooking pot'
 >
 
 
-2. 1.5 Dish
+4.2. 1.5 Dish
 
 <
 
@@ -4374,7 +4340,7 @@ forms attributed to POc *napu 'steam (?), boil (7)' (Ch. 6, §3 .4).
 
 >
 
-2. 1. 6 Lid
+4.2. 1. 6 Lid
 
    Both cooking pots and narrow-necked water jars may have utilised lids. In addition to
 those terms glossed 'plug, stopper', which are included with coconut or bamboo water carriers,
@@ -4402,7 +4368,7 @@ nominalisations in Chapter 2, §3 .2. 1 ).
 
 >
 
-2. 1. 7 Tools in pot manufacture
+4.2. 1. 7 Tools in pot manufacture
 
    Oceanic pots were typically made using the paddle-and-anvil technique, whereby a smooth
 stone (the 'anvil') is held against the inside of the pot while the outside is beaten with a flat
@@ -4414,9 +4380,9 @@ for beating clay into shape' with the proviso that the apparent reflexes may be 
 derived instrumental nominalisations of the PMP verb *tapik 'slap, pat lightly' (Blust 1 98 8).
 72 Meredith Osmond and Malcolm Ross
 
-2.2 Wooden or coconut-shell containers
+4.2.2 Wooden or coconut-shell containers
 
-2.2. 1 Wooden bowl
+4.2.2. 1 Wooden bowl
 
 <
 
@@ -4478,9 +4444,7 @@ outside the Southeast Solomons.
 
 <
 
-PCP *kumete 'large wooden bowl (used as a mortar in pounding, mashing food and/or in
-               ,
- stone-boiling) (Lichtenberk 1 994)
+PCP *kumete 'large wooden bowl (used as a mortar in pounding, mashing food and/or in stone-boiling) (Lichtenberk 1 994)
   Fij :   Rotuman          ?umefe           'bowl'
   Fij:    Bauan            kumete           'wooden bowl'
   Pn:     Tongan           kumete           'kava bowl'
@@ -4494,7 +4458,7 @@ PCP *kumete 'large wooden bowl (used as a mortar in pounding, mashing food and/o
 >
 
 
-2.2.2 Cup, liquid container
+4.2.2.2 Cup, liquid container
 
 <
 
@@ -4603,7 +4567,7 @@ POc *d(r)ag(i) (?) 'k.o. container' (?)
 
 >
 
-2.2.3 Water bottle
+4.2.2.3 Water bottle
 
 <
 
@@ -4637,7 +4601,7 @@ PEOc *tapaya '(gourd or coconut-shell) container, bottle'
 
 76 Meredith Osmond and Malcolm Ross
 
-2.2. 4 Stopper
+4.2.2. 4 Stopper
 
    A number of terms are reconstructable for the plug, probably of rolled leaves, used to stop
 up the mouth of a water bottle:
@@ -4689,7 +4653,7 @@ PEOc *bwalu 'cover, lid, stopper'
 >
 
 
-2.2.5 Lime pot
+4.2.2.5 Lime pot
 
    There is one other kind of container associated with Melanesians other than the inhabitants
 of Vanuatu and Fiji, and that is the lime pot of betel-nut users. The lime container is usually a
@@ -4705,7 +4669,7 @@ we lack any Western Oceanic reconstruction.
 
 
 
-2.2. 6 Lime spatula
+4.2.2. 6 Lime spatula
 
 <
 
@@ -4727,7 +4691,7 @@ perhaps 'add lime to a chew of betel nut'.
 
 
 
-2.3 Woven containers
+4.2.3 Woven containers
 
     Usable baskets or trays can be improvised in a few minutes from the wealth of leaves and
 fibres generally within easy reach. Baskets used today vary greatly in size, shape and function.
@@ -4866,9 +4830,9 @@ POc *la1)a 'basket or bag, small, used for personal effects'
 
 >
 
-3 Mats and cordage
+4.3 Mats and cordage
 
-3.1 Mats
+4.3.1 Mats
 
     Woven mats are made from the leaves of a range of palms, and frequently the same term
 is used for both tree and the article typically made from it. Thus we have POc *kiRe 'coastal
@@ -4948,7 +4912,7 @@ and *fiiliki 'cover floor with mats or grass; floor covering', both from Biggs (
 
 
 
-3. 1. 1 Weaving, plaiting
+4.3. 1. 1 Weaving, plaiting
 
    The distinction between weaving and plaiting is not clear even in English, although as a
 broad principle, weaving produces a fabric and plaiting a braid. Sometimes plaiting is used in
@@ -5061,7 +5025,7 @@ POc *raraYj, *raraYj-i- 'heat s.t. or warm oneself by fire'
 >
 
 
-3.2 Cord, twine
+4.3.2 Cord, twine
 
    The simplest material for tying would have been lengths of vine or rattan, or strips of
 suitable bark, such as hibiscus. (pOc *waRoc 'vine, creeper, rope, string'; POc *quwe 'rattan'
@@ -5237,7 +5201,7 @@ POc *buku 'node (as in bamboo or sugarcane); joint; knuckle; knot in wood, strin
 
 >
 
-3.2. 1 Sewing
+4.3.2. 1 Sewing
 
 <
 
@@ -5317,11 +5281,11 @@ PMP *zaRum 'needle' (Dempwolff 1 938)                                           
 
 >
 
-4 Tools
+4.4 Tools
 
-4.1 Cutting implements
+4.4.1 Cutting implements
 
-4. 1. 1 Axe, adze
+4.4. 1. 1 Axe, adze
 
    Oliver ( 1 989:88) identifies axe heads as having cutting ends bevelled on both sides, adzes
 as having cutting ends bevelled on one side only, and axe-adzes which are bevelled so as to be
@@ -5499,7 +5463,7 @@ reflexes show haplology.
 
 >
 
-4. 1.2 Knives
+4.4. 1.2 Knives
 
    Knives were typically made from bamboo. Shells also provided good cutting edges. Probably
 the very best cutting edge would have been a flake of obsidian, used as a razor or for
@@ -5563,7 +5527,7 @@ Biggs ( 1 993) includes one further reconstruction for 'bamboo knife' , PPn *koj
 >
 
 
-4. 1.3 Flint, obsidian
+4.4. 1.3 Flint, obsidian
 
     Obsidian, glass-hard volcanic stone found on Lou Island (Admiralties), on Fergusson
 Island in the D 'Entrecasteaux group, at Talasea (Willaumez Peninsula of New Britain) and
@@ -5634,7 +5598,7 @@ POc *m(W)ata 'cutting edge' (§4. 1 . 1 ).
 
 >
 
-4. 1. 4 Awl
+4.4. 1. 4 Awl
 
    MUlti-purpose piercing tools may have been carried, fashioned from bone, perhaps a pig's
 femur. These were useful for piercing shells, splitting fibres for weaving, splitting areca nuts,
@@ -5649,7 +5613,7 @@ and PEOc *paRo 'drill through, pierce, perforate' (see Chapter 9, §4.2, for the
 
 
 
-4. 1.5 Sharpening and grinding
+4.4. 1.5 Sharpening and grinding
 
    There is evidence that all three of the basic methods for shaping stone-flaking (also
 called chipping), pecking and grinding-were practised in POc times (Oliver 1 989: 1 44). We
@@ -5753,9 +5717,9 @@ abrasive.
 
 
 
-5 Bark-cloth, clothing, body decoration
+4.5 Bark-cloth, clothing, body decoration
 
-5.1 Bark-cloth (tapa)
+4.5.1 Bark-cloth (tapa)
 
    The material used to make bark-cloth or tapa in the Pacific area is obtained mainly from
 various species of trees belonging to the genera Broussonetia , Artocarpus, and Ficus, all of
@@ -5890,7 +5854,7 @@ Sulawesi also have a term totua for the wooden board on which the bark-cloth is 
 
 
 
-5.2 Clothing
+4.5.2 Clothing
 
    Over the region as a whole there is enormous variation in the degree and nature of body
 covering in these areas. Chowning ( 1 99 1 :46) points out that "although ornaments were worn
@@ -5901,7 +5865,7 @@ and to a lesser extent, grass, were used to fashion skirts, aprons and G-strings
 
 
 
-5.2. 1 Loincloth
+4.5.2. 1 Loincloth
 
    The following reconstruction of POc *malo is soundly based, although there is doubt as to
 whether the term can be traced back to an earlier stage. Blust ( 1 970: 1 3 3) proposes PMP
@@ -5961,7 +5925,7 @@ POc *tipi 'loincloth, man's garment'
 
 >
 
-5.2.2 Grass or leaf skirt
+4.5.2.2 Grass or leaf skirt
 
 <
 
@@ -6019,7 +5983,7 @@ cover the body (with a blanket)" PPn *kofu 'wrap up; clothing'.
 
 
 
-5.3 Paint, smear, anoint
+4.5.3 Paint, smear, anoint
 
    The practice of rubbing oil or grease on the body is known throughout the region, coconut
 and candlenut oil being favoured, rather than the pig fat used in the Highlands. The practice
@@ -6102,7 +6066,7 @@ preserve the teeth and prevent sore gums".
 
 
 
-5.4 Tattooing
+4.5.4 Tattooing
 
    Chowning ( 1 99 1 :48) points out that tattooing in New Guinea has only limited distribution,
 tending to be confined to people with relatively light skin. "Where it was practised, methods
@@ -6147,7 +6111,7 @@ PEOc *make (N, V ) 'tattoo'
 
 >
 
-5 .4. 1 Design
+4.5.4. 1 Design
 
 <
 
@@ -6179,7 +6143,7 @@ POc *mWati 'herringbone pattern'
 >
 
 
- 5.5 Ornaments
+4.5.5 Ornaments
 
    Chowning ( 1 99 1 :47) describes the situation in the New Guinea area:
 
@@ -6317,7 +6281,7 @@ POc *tuRi 'sew, thread, string together'
 >
 
 
-5.5. 1 Comb
+4.5.5. 1 Comb
 
                                Figure 14: POc *saRu 'comb'
 
@@ -6364,7 +6328,8 @@ POc *su(w)at, *su(w)a[t,rJ-i- 'comb (hair)'
 
 >
 
-6 Instruments of communication and music
+4.6 Instruments of communication and music
+
    These fall into two main categories, a) wind instruments, and b) drums. Apart from the
 conch shell trumpet, the wind instruments recorded in the ethnographic literature are usually
 of bamboo, although Blackwood ( 1 9 3 5 :4 1 3) describes a didgeridoo-type instrument, the
@@ -6378,7 +6343,7 @@ dancing sticks, a stringed bow and rattles made from seed pods or strings of she
 
 
 
-6. 1 Conch shell trumpet
+4.6. 1 Conch shell trumpet
 
 <
 
@@ -6412,7 +6377,7 @@ which in many languages is associated with concepts of blowing.
 
 
 
-6.2 Bamboo flute
+4.6.2 Bamboo flute
 
 <
 
@@ -6472,7 +6437,7 @@ POc *kopi 'bamboo; bamboo flute'
 
 >
 
-6.3 Hourglass or kundu drum
+4.6.3 Hourglass or kundu drum
 
 <
 
@@ -6506,7 +6471,7 @@ for either instrument, although there is a separate term for slitgong.
 
 >
 
-6.4 Slitgong
+4.6.4 Slitgong
 
 <
 
@@ -6584,7 +6549,7 @@ PPn *nafa 'a wooden drum'
 
 >
 
-6.5 Jew's-harp
+4.6.5 Jew's-harp
 
 <
 
@@ -6596,9 +6561,9 @@ PWOc *bogo-bogo 'Jew's-harp'
 
                                                                         Household artefacts    III
 
-7 Other artefacts
+4.7 Other artefacts
 
-7. 1   Broom
+4.7. 1   Broom
 
 <
 
@@ -6667,7 +6632,7 @@ POc *salap , *salap-i- 'sweep, broom '
 >
 
 
-7.2 Headrest
+4.7.2 Headrest
 
 <
 
@@ -6715,7 +6680,7 @@ POc *kalik 'native wooden pillow'
 
 >
 
-8. Conclusions
+4.8. Conclusions
    Our reconstructions are for items which draw on a range of raw materials. They include:
    • vegetable products (a variety of timbers, bamboo, coconut shell, leaves, vine, cane and
      bark)
@@ -6776,16 +6741,14 @@ will show, there is considerable variation in meaning from place to place, with 
 
 
 
-Osmond, M. and Ross, M. "Household Artefacts". In Ross, M., Pawley, A. and Osmond, M. editors, The Lexicon of Proto Oceanic: The Culture and environment of ancestral Oceanic society 1: Material Culture.
-C-152:67-114. Pacific Linguistics, The Australian National University, 1998. DOI:10.15144/PL-C152.67
-©1998 Pacific Linguistics and/or the author(s). Online edition licensed 2015 CC BY-SA 4.0, with permission of PL. A sealang.net/CRCL initiative.
                          5 Horticultural practices
                                                MEREDITH OSMOND
 
+5 Horticultural practices
 
 
+5.1 Introduction
 
-                     1 Introduction
                          It is claimed that one of the distinguishing features of the Lapita culture is the movement
                     out into the Pacific of a wide range of domesticated plants, and that Lapita represents, in the
                     Bismarcks and Solomons, the first clear evidence for an agricultural base to the economy, a
@@ -6811,13 +6774,6 @@ C-152:67-114. Pacific Linguistics, The Australian National University, 1998. DOI
 
 
 
-                    Malcolm Roo;, Andrew Pawley and Meredith Osmond, eds 1be Ie:ticon ofProto Oceanic, vol. I: material culture, 1 1 5-142.
-                   Pacific Iinguislics, C-152, 1998.
-                    © Practices".
-Osmond, M. "Horticultural MeredithIn Ross,Osmond
-                                           M., Pawley, A. and Osmond, M. editors, The Lexicon of Proto Oceanic: The Culture and environment of ancestral Oceanic society 1: Material Culture.
-C-152:115-142. Pacific Linguistics, The Australian National University, 1998. DOI:10.15144/PL-C152.115
-©1998 Pacific Linguistics and/or the author(s). Online edition licensed 2015 CC BY-SA 4.0, with permission of PL. A sealang.net/CRCL initiative.
 116 Meredith Osmond
 
 POc, some revision of his reconstructions has been necessary - usually involving downgrading
@@ -6830,7 +6786,8 @@ from POc to PEOc.
                           Chapter 3, § l .
 
 
-2 Background
+5.2 Background
+
     Almost all of Melanesia lies within the humid tropics and experiences high rainfall. Apart
 from areas round Port Moresby and the west coast of New Caledonia, which receive less than
 1 ,000 mm per annum, most of Melanesia averages above 2,500 mm, while south-west New
@@ -6895,12 +6852,13 @@ systems, permitting some continuous cultivation of the same plots.
 
 
 
-3 Land usage
+5.3 Land usage
+
    For swidden agriculturalists, land could be classified in one of three ways-as land under
 cultivation or ready for cultivation, as old garden land now lying fallow, and as uncleared
 'bush' or forest. The following reconstructions illustrate.
 
-3.1 Garden
+5.3.1 Garden
 
 <
 
@@ -6957,7 +6915,7 @@ final consonants only in borrowings from other PT languages, so *v<imayula point
 
 
 
-3.2 Fallow land
+5.3.2 Fallow land
 
 <
 
@@ -6976,7 +6934,7 @@ POc *talu(n) 'fallow land, land returning to secondary growth'
 
 >
 
-3.3 Uncultivated land
+5.3.3 Uncultivated land
 
 <
 
@@ -7018,7 +6976,7 @@ PEOc *wao 'forest' (French-Wright 1 983)
 
 >
 
-4. Soil
+5.4. Soil
 
 <
 
@@ -7074,7 +7032,8 @@ PCP *g(w)ele 'earth, soil'
 
 >
 
-5. Preparation of ground
+5.5. Preparation of ground
+
    New gardens are traditionally prepared along the following lines. First, the undergrowth
 and vines and small trees are cleared. Before the introduction of metal implements, this
 would have been done with a large digging stick used as a crowbar (§S.S) and perhaps a stone
@@ -7087,7 +7046,7 @@ removed, together with any weeds which have survived the burning.
 
 
 
-5.1 Clearing the land
+5.5.1 Clearing the land
 
   It seems from its reflexes that POc *quma meant 'clear land for a garden' (§3 . 1 ). I n
 addition, the following terms are reconstructable.
@@ -7172,7 +7131,7 @@ PEOc *kokoda 'gather weeds or rubbish, prepare a garden' (French-Wright 1 983)
 
 >
 
-5.2 Burning
+5.5.2 Burning
 
 <
 
@@ -7198,7 +7157,7 @@ to refer to burning off land for clearing.
 >
 
 
-5.3 Weeding
+5.5.3 Weeding
 
 <
 
@@ -7229,7 +7188,7 @@ See also POc *puti- 'pick, pluck (feathers), pull out (weeds +)' (Ch. 9, §6. 1 
 
                                                                            Horticultural practices           123
 
-5.4 Digging
+5.5.4 Digging
 
    Both *kali and *keli are reconstructable for POc, and both apparently refer to digging as a
 general activity, including planting and digging up (tubers)[3].
@@ -7310,7 +7269,7 @@ POc *suar, *suar-i- 'root up the ground, as pigs do'
 
 >
 
-5.5 Digging stick
+5.5.5 Digging stick
 
 <
 
@@ -7341,7 +7300,7 @@ stick' (Ch. 6, §5.5).
 
                                                                     Horticultural practices       125
 
-6 Fence
+5.6 Fence
    Great damage can be done to gardens wherever there are bush pigs or wallabies. Although
 wallabies are not found in the Solomons or places east, wild pigs are found throughout
 virtually all of Melanesia. In these places, preparation of a garden usually includes construction
@@ -7403,7 +7362,7 @@ POc *bayat 'fence, boundary marker', *bayat-i- 'make a garden boundary'
 
 >
 
-7    Food plants[5]
+5.7    Food plants[5]
 
 [5]   The reconstructions listed in this section are from Ross ( 1 996d). See also Food Plants, vol. 3.
 
@@ -7566,9 +7525,9 @@ ritual significance in many Oceanic societies.
                                                                Horticultural practices       129
 
 
-8 Planting
+5.8 Planting
 
-S.l Propagation material
+5.8.1 Propagation material
 
     Taro is propagated either by replanting the cut-off top of a tuber or by transplanting the
 suckers that grow around the 'mother' taro. Alternatively, these are simply left in the ground
@@ -7720,7 +7679,7 @@ POc *paji 'cut yams for planting'
 >
 
 
-8.2 Planting (tubers)
+5.8.2 Planting (tubers)
 
 <
 
@@ -7819,7 +7778,7 @@ POc *tanum, *tanum-i- 'bury, plant (tuber)
 
 >
 
-8.3 Yam mound
+5.8.3 Yam mound
 
    Barrau ( 1 955 :56) describes cultivation of yams in Melanesia:
 
@@ -7847,7 +7806,7 @@ POc *ta-(p,b)uk(i,e) 'yam mound'
 
 >
 
-8.4 Sow (seed)
+5.8.4 Sow (seed)
 
 <
 
@@ -7883,9 +7842,9 @@ reconstruction of appropriate terms.
 
 >
 
-9 Growth stages
+5.9 Growth stages
 
-9.1 Sprout, shoot
+5.9.1 Sprout, shoot
 
 <
 
@@ -7915,7 +7874,7 @@ PWOc *pusuk '(plant) grow'
 
 >
 
-9.2 Grow, swell
+5.9.2 Grow, swell
 
 <
 
@@ -7939,7 +7898,7 @@ POc *tubuq 'grow, swell'
 
 >
 
-9.3 Ripen
+5.9.3 Ripen
 
    Chapter 6, §3.9 contains two reconstructions, POc *ma-osak 'ready to be eaten (because
 ripe or cooked)" and POc *[ma-Jnoka 'be in good condition for eating; nicely ripe, well-cooked,
@@ -7947,7 +7906,7 @@ soft'.
 
 
 
-9.4 Wither
+5.9.4 Wither
 
 <
 
@@ -7985,7 +7944,7 @@ PEOc *palo 'wither, wilt' (ACD)
 
 136 Meredith Osmond
 
-10 Gathering, harvesting
+5.10 Gathering, harvesting
    We have not identified a reconstruction specifically for the digging up of tubers, either
 with or without the use of a digging stick, although *kaliJ*keli (§5 ,4) is apparently a general
 term whose meaning includes this activity. It is possible that terms included under the heading
@@ -8128,7 +8087,7 @@ POc *paRi 'cut or lop off branches' (ACD)
 
 >
 
-1 1 Storage: yam storehouse
+5.11 Storage: yam storehouse
      The yam is the only tropical tuber which is easily preserved, provided it is placed in an
 airy, dry, dark and cool spot. It was a community'S safeguard at times when the regular
 supply of foodstuffs was low. From New Guinea to New Caledonia, in areas where yam is
@@ -8143,7 +8102,7 @@ calledjok. In Nengone, Loyalty Islands, methuma is the term for a harvest hut fo
 
 
 
-12 Drainage and Irrigation
+5.12 Drainage and Irrigation
    Water control has two opposing functions: ( 1 ) to aid drainage in wet areas, and (2) to
 carry water to drier areas. The New Guinea area apparently concentrated its developments
 towards the former, particularly in yam gardens, through such means as mounding and
@@ -8255,7 +8214,7 @@ Oldest evidence for the Solomons remains the eye-witness report of the explorer 
 
 
 
-13 Gaps in reconstructions
+5.13 Gaps in reconstructions
     Other concepts for which we currently lack reconstructions include a term for the stakes
 or supports on which the yam vines were trained. French-Wright ( 1 98 3 :64-65) lists a variety
 of ways in which vines can be supported. In addition to stakes, they include, in the Admiralties
@@ -8284,7 +8243,7 @@ year'] by whatever is equivalent to the yam crop."
 
 
 
-14 Archaeological evidence
+5.14 Archaeological evidence
    Archaeological evidence in support of POc horticultural practices comes, not from discovery
 of items of material culture, but in the form of the products of horticulture, and, less directly,
 from apparent sudden and dramatic changes in land use following settlement by POc speakers.
@@ -8325,8 +8284,8 @@ by 1 200 BC (Kirch 1 997:222).
                            support the association of sophisticated irrigation practices with POc speakers (see § 1 2).
 
 
+5.15 Conclusion
 
-                             15 Conclusion
                                Proto Oceanic speakers cultivated their gardens with a minimum of implements other than
                             their hands. Apart from the axe (*kiRam ) and smaller cutting implements of bamboo or shell
                             such as *piso or PEOc *sele (Ch. 4, §4. 1 .2) used in clearing their plots, the only tools were a
@@ -8356,17 +8315,14 @@ by 1 200 BC (Kirch 1 997:222).
 
 
 
-
-Osmond, M. "Horticultural Practices". In Ross, M., Pawley, A. and Osmond, M. editors, The Lexicon of Proto Oceanic: The Culture and environment of ancestral Oceanic society 1: Material Culture.
-C-152:115-142. Pacific Linguistics, The Australian National University, 1998. DOI:10.15144/PL-C152.115
-©1998 Pacific Linguistics and/or the author(s). Online edition licensed 2015 CC BY-SA 4.0, with permission of PL. A sealang.net/CRCL initiative.
                       6 Food preparation
                                                 FRANTISEK LICHTENBERK AND MEREDITH OSMOND !
 
+6 Food preparation
 
 
+6.1 Introduction
 
-                      1 Introduction
                          Much of this chapter is reproduced from Lichtenberk ( 1 994), reordered and slightly revised
                      in the light of more stringent subgrouping assumptions. To that work have been added a
                      number of terms related to fire and its accompaniments. Organization of the chapter is ( 1 )
@@ -8374,7 +8330,7 @@ C-152:115-142. Pacific Linguistics, The Australian National University, 1998. DO
 
 
 
-                     2 Fire and the f1replace
+6.2 Fire and the fireplace
 
 <
 
@@ -8401,15 +8357,9 @@ POc *api 'fire'
                            the present volume and for some additional reconstructions in §2, Fire and the fireplace. Some data and
                            comments have been added from Malcolm Ross's verb analysis in Chapter 9.
 
-                    Malcolm Ross, Andrew Pawley and Meredith Osmond, eels 1be Iexiam ofProto Oceanic, vol. I: 1IUlIeriai culture, 143-171.
-                    Pacific linguistU:s, C-152, 1998.
-                    I!:l Frantisek Uchtenberk and Meredith Osmond
-Lichtenberk, F. and Osmond, M. "Food Preparation". In Ross, M., Pawley, A. and Osmond, M. editors, The Lexicon of Proto Oceanic: The Culture and environment of ancestral Oceanic society 1: Material Culture.
-C-152:143-172. Pacific Linguistics, The Australian National University, 1998. DOI:10.15144/PL-C152.143
-©1998 Pacific Linguistics and/or the author(s). Online edition licensed 2015 CC BY-SA 4.0, with permission of PL. A sealang.net/CRCL initiative.
 144       Frantisek Lichtenberk and Meredith Osmond
 
-2.1 Fire plough
+6.2.1 Fire plough
 
    Fire was produced throughout the Oceanic world by friction. Often this was achieved by
 rubbing a piece of wood rapidly to and fro along a long groove or furrow cut into a second
@@ -8498,7 +8448,7 @@ a traditional drill' (from POc *buru 'bore a hole, drill ' ; see Ch. 9, §4.2).
 
 
 
-2.2 Firewood
+6.2.2 Firewood
 
 <
 
@@ -8517,7 +8467,7 @@ PEOc *papia ' firewood, fuel'
 
 1 46    Frantisek Lichtenberk and Meredith Osmond
 
-2.3 Firebrand, torch
+6.2.3 Firebrand, torch
 
 <
 
@@ -8564,7 +8514,7 @@ POc *sulu 'dry coconut leaf torch' (Milke 1 96 1 )
 >
 
 
-2.4 Fireplace, hearth
+6.2.4 Fireplace, hearth
 
 <
 
@@ -8611,7 +8561,7 @@ POc *qapu 'ashes, dust'
 >
 
 
-2.5 Trivet
+6.2.5 Trivet
 
    We would expect to be able to reconstruct a term for a trivet, an arrangement of three
 stones on which the cooking pot is placed, but no clear reflex of PMP *dalikan , 'trivet' (Blust
@@ -8625,7 +8575,7 @@ and Fiji. For example:
  Fij: Yasawa              sue                'hearth, trivet'
 1 48    Frantisek Lichtenberk and Meredith Osmond
 
-2.6 Stone oven
+6.2.6 Stone oven
 
 <
 
@@ -8666,7 +8616,7 @@ Chowning ( 1 99 1 :55) argues that the gloss 'earth oven' is too restrictive, as
 >
 
 
-2.7 Covering and uncovering an oven
+6.2.7 Covering and uncovering an oven
 
 <
 
@@ -8777,7 +8727,7 @@ these have been located, e.g. Sudest (PT) yarumu 'cooking stones used for mumu',
 
 
 
-3 Cooking methods
+6.3 Cooking methods
    Lichtenberk quotes from Oliver ( 1 989:49) who has this to say about traditional cooking in
 Oceania: "Most cooking was by broiling, by boiling (where there were clay pots, which was
 not everywhere), and by baking (which was done in earth-pit ovens containing heated stones.)"
@@ -8795,7 +8745,7 @@ backgrounds of the authors rather than differences in cooking methods."
 
 
 
-3.1 Cooking in stone oven
+6.3.1 Cooking in stone oven
 
 <
 
@@ -8817,7 +8767,7 @@ his reconstruction PSS.
 
 
 
-3.2 Roasting, burning, branding
+6.3.2 Roasting, burning, branding
 
 <
 
@@ -8867,7 +8817,7 @@ POc *mwaRi 'roast, burn' (Grace 1969) [4]
 >
 
 
-3.3 Piercing, pricking
+6.3.3 Piercing, pricking
 
    When food was roasted, instead of simply being placed in the fire, it may have been
 skewered. The terms referring to skewering and skewers were also used to refer to testing
@@ -8877,7 +8827,7 @@ and Ch. 9, §4. 1 ).
 
 
 
-3.4 Boiling, steaming
+6.3.4 Boiling, steaming
 
     Two verbs are reconstructable for POc with the meaning 'boil'. The problem is that the
 sources of data do not usually distinguish between boiling and steaming, both of which are
@@ -8915,7 +8865,7 @@ also reflexes of *napu: see the discussion there.
 >
 
 
-3.5 Warming
+6.3.5 Warming
 
 <
 
@@ -8956,7 +8906,7 @@ POc *raraIJ, *raIJ-i- 'heat s.t. or warm oneself by fire'
 
 154     Frantisek Lichtenberk and Meredith Osmond
 
-3.6 Singeing
+6.3.6 Singeing
 
    A term can be reconstructed for the action of singeing food in preparation for cooking:
 
@@ -8976,7 +8926,7 @@ POc *sunu 'singe'
 >
 
 
-3.7 Wrapping prior to oven-cooking
+6.3.7 Wrapping prior to oven-cooking
 
    Two similar terms for wrapping food for cooking (baking or roasting), POc *kapu(t),
 *kaput-i- and POc *kopu, have been reconstructed. Mills ( 1 98 1 :7 3 ) has proposed PMP
@@ -9052,7 +9002,7 @@ PPn *kofu (N) 'clothing; leaf-wrapped parcel of food'; (V) 'wrap food in leaves'
 >
 
 
-3.8 Uncooked food
+6.3.8 Uncooked food
 
    Lichtenberk also considers terms for uncooked food. He proposes a general POc term
 *(a)mataq for raw food (possibly excluding certain foodstuffs) which also refers to unripe
@@ -9146,7 +9096,7 @@ POc *(k,q)oda , 'raw (meat, fish, shellfish); eat raw (meat, fish, shellfish)
 >
 
 
-3.9 Food cooked or ripe
+6.3.9 Food cooked or ripe
 
 <
 
@@ -9183,12 +9133,12 @@ POc *[maJnoka 'be in good condition for eating: nicely ripe, well-cooked, soft'
 >
 
 
-4 Preserving
+6.4 Preserving
     Lichtenberk (p.277) records two main ways of preserving food in Oceania. One is drying,
 either in the sun or above fire (the latter may involve smoking the food); the other is fermentation.
 158     Frantisek Lichtenberk and Meredith Osmond
 
-4.1 Drying, smoking
+6.4.1 Drying, smoking
 
 <
 
@@ -9225,7 +9175,7 @@ PNGOc *pa(r,R)a (V) 'dry by smoking'
 >
 
 
-4.2 Fermentation
+6.4.2 Fermentation
 
    Fermentation of food is geographically much more restricted. Small islands, particularly
 atolls, are susceptible to food shortages as a result of drought or prolonged stormy weather
@@ -9325,9 +9275,9 @@ POc *ma-qasin 'be salty, sharp, of taste'
 >
 
 
-5 Food processing
+6.5 Food processing
 
-5.1 Pounding
+6.5.1 Pounding
 
   We have terms for the action of pounding or crushing, but have been unable to reconstruct
 any term for the implement or implements involved apart from PWOc *walu 'sago beater'
@@ -9377,7 +9327,7 @@ Cognate sets for the following reconstructions are included in Chapter 9, §5 . 
 
 
 
-5.2 Grating, scraping
+6.5.2 Grating, scraping
 
    Foodstuffs such as tubers and coconut meat are often grated before further processing.
 Tubers also need to be scraped to remove dirt. Both processes can be carried out with a shell
@@ -9616,7 +9566,7 @@ PEOc *paro(s), *paros-i- 'chafe (skin)'; 'scrape'
 >
 
 
-5.3 Peeling
+6.5.3 Peeling
 
    Lichtenberk lists a number of terms for the action of peeling. The first is a transitive verb
 formed from the base *kulit 'skin'. See also POc *supi 'sharpen, shave, pare' (Ch. 9, §3.6)
@@ -9678,7 +9628,7 @@ POc *p("')ilit 'peel by hand (fruit, cooked food)'
 >
 
 
-5.4 Fish scaling
+6.5.4 Fish scaling
 
 <
 
@@ -9692,7 +9642,7 @@ POc *qunap-i- (V) 'scale fish' (from POc *qunap 'fish scale; turtle shell')
 
                                                                       Food preparation        167
 
-5.5 Husking
+6.5.5 Husking
 
 <
 
@@ -9756,7 +9706,7 @@ POc *potak, *potak-i- (VT) 'crack s.t. open, split s.t. open (such as nuts, coco
 >
 
 
-5.6 Straining
+6.5.6 Straining
 
    The most common method of straining, necessary for processing such foodstuffs as sago
 and coconut cream, and also used in the production of kava, is by using the fibrous spathe of
@@ -9799,7 +9749,7 @@ not completely surprising.
 
 
 
-5.7 Plucking
+6.5.7 Plucking
 
 <
 
@@ -9826,7 +9776,7 @@ POc *puti- 'pick, pluck (feathers), pull out (weeds +)' (cf. Ch. 9. §6. 1 )
 >
 
 
-5.S VVrUn�g, squeezing
+6.5.8 Wringing, squeezing
 
    Lichtenberk includes several terms for squeezing or wringing:
 
@@ -9937,7 +9887,7 @@ biri-yi 'squeeze coconut milk through fibre').
 
 
 
-5.9 Mixing
+6.5.9 Mixing
 
   Finally, Lichtenberk lists terms for mixing or stirring:
 
@@ -9984,18 +9934,15 @@ POc *quli 'knead, mix together'
 
 >
 
-Lichtenberk, F. and Osmond, M. "Food Preparation". In Ross, M., Pawley, A. and Osmond, M. editors, The Lexicon of Proto Oceanic: The Culture and environment of ancestral Oceanic society 1: Material Culture.
-C-152:143-172. Pacific Linguistics, The Australian National University, 1998. DOI:10.15144/PL-C152.143
-©1998 Pacific Linguistics and/or the author(s). Online edition licensed 2015 CC BY-SA 4.0, with permission of PL. A sealang.net/CRCL initiative.
                          7 Canoes and seafaring
                                      ANDREW PAWLEY AND MEDINA PAWLEY
 
 
+7 Canoes and seafaring
 
+7.1 Introduction
 
-                        1 Introduction
-
-                        1 . 1 Questions
+7.1 . 1 Questions
 
                           Between 3000 and 1 000 BC, speakers of Austronesian languages spread across I sland
                        Southeast Asia and western Melanesia and into the previously uninhabited islands of the
@@ -10040,7 +9987,7 @@ and fill a very large book.
 
 
 
-1.2 Reconstructions based on comparative typology: methodological
+7.1.2 Reconstructions based on comparative typology: methodological
     problems
 
    Describing the sailing craft and navigation techniques in the Indo-Pacific region, and
@@ -10167,7 +10114,7 @@ by archaeological evidence.
 
 
 
-1.3 The Genetic Comparative Method
+7.1.3 The Genetic Comparative Method
 
    There is a means of escape from the limitations of comparative typology. It is the special
 virtue of the comparative or genetic method of historical linguistics that it can, in principle,
@@ -10200,7 +10147,7 @@ Within these limitations, the genetic comparative method remains a powerful tool
 
 
 
-1 .4 Lexical sources
+7.1 .4 Lexical sources
 
      Many previous publications isolate Austronesian cognate sets referring to canoe parts and
 seafaring. However, works compiled by linguists only list such cognate sets as isolated items
@@ -10216,7 +10163,7 @@ Milke (1961, 1968), Pallesen (1985), Pawley (1972), Reid (1971), Ross (1988), Sn
 
 
 
-1.5 Organisation of reconstructions and cognate sets
+7.1.5 Organisation of reconstructions and cognate sets
 
      Some fifty cognate sets will be discussed. These are ordered by semantic domains, such as
 type of vessel, beginning with types of vessels and hull construction and going on to outrigger
@@ -10235,9 +10182,9 @@ we occasionally acknowledge sources when the evidence comes from Haddon ( 1 9 37
 
 
 
-2 Types of vessel and hull construction
+7.2 Types of vessel and hull construction
 
-2.1 Types of vessel
+7.2.1 Types of vessel
 
    Haddon and Hornell ( 1 93 8 :70-72) referred to ten or so putative cognate sets having the
 general sense of 'canoe' or 'boat' that go back to an early stage or stages of Austronesian.
@@ -10471,7 +10418,7 @@ This might be liable to conflation with reflexes of *tola also.
 >
 
 
-2.2 Double canoes
+7.2.2 Double canoes
 
 <
 
@@ -10628,7 +10575,7 @@ problematic:
 >
 
 
-2.3 Hull construction
+7.2.3 Hull construction
 
    In pre-European times three basic hull designs were found in Austronesian-speaking
 communities: (a) a dugout built from a single log; (b) a five-part canoe, composed of dug-out
@@ -10661,7 +10608,7 @@ the vocabulary of PMP and other interstages.
 
 
 
-2.4 Planking
+7.2.4 Planking
 
    The comparisons below and in §2.5 point to the use by speakers of PMP and its immediate
 descendants, of boats built up by planking and strengthened by thwarts:
@@ -10753,7 +10700,7 @@ metal tools, it is likely that this knowledge spread after the break-up of PAn a
      1 968): Motu dema-ia 'caulk'; E. Fijian sema 'splice, join, patch', sema-ta 'to splice, join, patch s.t.'
 
 
-2.5 Thwart, cross-seat
+7.2.5 Thwart, cross-seat
 
 <
 
@@ -10772,7 +10719,7 @@ POc *soka(r) ( 1 ) 'thwart '; (2) 'bracing timber, crossbeam ' (cf. Ch. 3, §3 .
 >
 
 
-2.6 Underbody, keel
+7.2.6 Underbody, keel
 
 <
 
@@ -10794,7 +10741,7 @@ PCP *takele 'keel or dugout underbody to which planking is added'
 
 188       Andrew and Medina Pawley
 
-2.7 Bilge, interior of hull
+7.2.7 Bilge, interior of hull
 
    A PPn term for 'bilge, interior of hull' is well supported but cognates have not been noted
 elsewhere. In some Polynesian languages the same term refers to the interior of any container,
@@ -10813,7 +10760,7 @@ PPn *liu 'bilge, interior of hull'
 >
 
 
-2.8 Bow and stern
+7.2.8 Bow and stern
 
    Two well-attested POc locative nouns having the general sense of 'rear, back part', and
 'front, front part', respectively, are reconstructable also with the specialised senses 'stern' and
@@ -10852,7 +10799,7 @@ See also PPn *tau-mu ?a 'foredeck ' (§2 . 1 0).
 
                                                                        Canoes and seafaring   189
 
- 2.9 Carved projecting end-pieces
+7.2.9 Carved projecting end-pieces
 
 
           Figure 25: POc *ijUIJ 'projecting headboard of prow' (from Nevermann 1 934:285)
@@ -10899,7 +10846,7 @@ sense 'projecting headboard'. No widespread cognate set for the stempiece has be
 
 1 90     Andrew and Medina Pawley
 
-2.10 Bow and stern covers, end-decking
+7.2.10 Bow and stern covers, end-decking
 
 <
 
@@ -10931,9 +10878,9 @@ indicate PPn *tau-mu?a 'foredeck' and *tau-muri 'afterdeck'.
 >
 
 
-3. Superstructure
+7.3. Superstructure
 
-3.1 Platform
+7.3.1 Platform
 
 <
 
@@ -10965,7 +10912,7 @@ POc *patar 'platform of any kind, including that erected over hull and outrigger
 >
 
 
-3.2 Cabin, deck hut
+7.3.2 Cabin, deck hut
 
    A deck hut is often added to large outrigger canoes but no widespread cognate set distinctively
 denoting such a structure has so far been noted. In a number of languages, reflexes of PMP
@@ -10975,9 +10922,9 @@ this may also have been the case in POco
 
 
 
-4. Outrigger structure
+7.4. Outrigger structure
 
-4. 1 Outrigger float, outrigger side of canoe
+7.4. 1 Outrigger float, outrigger side of canoe
 
 <
 
@@ -11031,7 +10978,7 @@ PMP verbal prefix *paR-, continued as POc *paRi-.[15]
 >
 
 
-4.2 Outrigger booms
+7.4.2 Outrigger booms
 
 <
 
@@ -11068,7 +11015,7 @@ crossbeams in a house may have been used as a synonym of *kiajo.
 >
 
 
-4.3 Connective sticks attaching float
+7.4.3 Connective sticks attaching float
 
      Three main methods of connecting the outrigger float to the booms can be distinguished:
 direct attachment, . in which all of the booms are curved and lashed directly to the outrigger;
@@ -11097,7 +11044,7 @@ POc *patoto 'connective sticks attaching float'
 
 >
 
-4.4 Starboard or hull side of outrigger canoe
+7.4.4 Starboard or hull side of outrigger canoe
 
     A POc term can be reconstructed with the sense 'starboard or free side of the canoe,
 opposite the outrigger side (*saman) . In Central Pacific languages this term was also applied
@@ -11136,7 +11083,7 @@ innovation which has been borrowed by a few other languages.
 >
 
 
-5. Sail and rigging
+7.5. Sail and rigging
     The characteristic Oceanic sail types are: (a) a triangular sprit sail with apex downwards
 and a spar along each of the two sides stemming from the apex, and (b) the (crab) claw
 sail-a triangular sail with the foreside fixed to a vertical mast and the afterside to a strongly
@@ -11162,7 +11109,7 @@ for parts of the rig are attributable to POc or to later interstages of Oceanic 
 
 
 
-5.1 Sail
+7.5.1 Sail
 
    A PMP term for 'sail' (the object) is continued in all the major subgroups:
 
@@ -11203,7 +11150,7 @@ For the cognate set, see Ch. 4, §3 . 1 .
 >
 
 
-5.2 Boom and yard of sail
+7.5.2 Boom and yard of sail
 
    The following form is well attested though its reflexes show a range of meanings:
 
@@ -11248,7 +11195,7 @@ booms as supporting and controlling the sail.
 >
 
 
-5.3 Mast or props supporting mast
+7.5.3 Mast or props supporting mast
 
 <
 
@@ -11296,7 +11243,7 @@ has been borrowed as v. There is a possible cognate in Mota.
 >
 
 
-5.4 Mast stays
+7.5.4 Mast stays
 
    The following cognate set appears to be confined to Central Pacific:
 
@@ -11315,7 +11262,7 @@ range of this cognate set makes it hard to rule out diffusion.
 >
 
 
-6. Steering oar
+7.6. Steering oar
 
 <
 
@@ -11350,11 +11297,11 @@ POc *qulifJ (N) 'rudder' ; (V) 'steer'
 >
 
 
-7.    Accessories
+7.7.    Accessories
   Under this heading fall objects used or carried on board, such as cargo, anchor, paddles,
 punting pole, bailer and Triton shell for use as a trumpet.
 
-7.1 Cargo
+7.7.1 Cargo
 
 <
 
@@ -11383,7 +11330,7 @@ POc *ujan, *ujan-i-, *lujan (v) 'load (a boat) ; (N) 'cargo, freight'
 >
 
 
-7.2 Paddles, paddling and punting
+7.7.2 Paddles, paddling and punting
 
      There are two well-established PMP terms to do with paddling, *be(R)(c,s)ay and *pa-luja:
 
@@ -11480,7 +11427,7 @@ PEOc *sua(C) (V) 'scull, row with oar held vertically'
 >
 
 
-7.3 Punting pole
+7.7.3 Punting pole
 
 <
 
@@ -11510,7 +11457,7 @@ POc *tokon 'staff, punting pole'; *tokon-i 'punt or pole (a boat)'
 >
 
 
-7.4 Bailer, bailing
+7.7.4 Bailer, bailing
 
     Three terms to do with bailing water from a vessel can be reconstructed at the PMP level,
 all of which are continued in PWMP, POc and PCP.
@@ -11578,7 +11525,7 @@ PMP *tata 'empty water from something'.
 >
 
 
-7.5 Portable fireplace
+7.7.5 Portable fireplace
 
 <
 
@@ -11604,14 +11551,14 @@ is less clear.
 >
 
 
-8. Launching and beaching, anchoring, sheltering vessels
+7.8. Launching and beaching, anchoring, sheltering vessels
    Outrigger canoes are normally launched from beaches and hauled ashore rather than
 anchored when not in use. Anchors are not carried on small canoes (which may be left to
 drift or tethered to the reef while fishing) but stone anchors were commonly carried aboard
 larger vessels.
                                                                   Canoes and seafaring            203
 
-8. 1 Rollers or skids
+7.8. 1 Rollers or skids
 
   A PMP term for canoe rollers or skids is well attested, with reflexes in Philippine, Maluku
 and Oceanic languages.
@@ -11639,7 +11586,7 @@ POc *laIJon (N) 'rollers' ; (V) 'place rollers under a canoe'
 >
 
 
-8.2 Anchoring
+7.8.2 Anchoring
 
 <
 
@@ -11668,7 +11615,7 @@ POc *jau(q) 'be anchored or moored, come to anchor or rest'
 
 204     Andrew and Medina Pawley
 
-8.3 Passage or channel, landing place
+7.8.3 Passage or channel, landing place
 
 <
 
@@ -11730,7 +11677,7 @@ POc *mata-sawalJ or *mata-nilqi-sawalJ 'landing place, channel in fringing reef 
 >
 
 
-8.4 Boatshed
+7.8.4 Boatshed
 
 <
 
@@ -11758,11 +11705,11 @@ PCP *(a)valau 'boatshed'
 >
 
 
-9. Seafaring terms
+7.9. Seafaring terms
    A number of terms can be reconstructed at PMP or lower levels for concepts to do with
 going to sea and navigation. The following is not an exhaustive list.
 
-9.1 Embark, ride
+7.9.1 Embark, ride
 
 <
 
@@ -11795,7 +11742,7 @@ This was the PMP/POc term for 'ascend, climb, mount'.
 >
 
 
-9.2 Voyaging
+7.9.2 Voyaging
 
 <
 
@@ -11873,7 +11820,7 @@ PCP *sua 'tack'
 >
 
 
-9.3 Expert sailor or fisherman
+7.9.3 Expert sailor or fisherman
 
 <
 
@@ -11899,7 +11846,7 @@ PEOc *tau-tasik 'expert fisherman or sailor, mariner'
 >
 
 
-9.4 Boat owner or captain
+7.9.4 Boat owner or captain
 
 <
 
@@ -11918,7 +11865,7 @@ POc *tau (ni) waga 'owner of a boat'
 >
 
 
-10. Conclusions
+7.10. Conclusions
     Upwards of twenty terms to do with watercraft and seafaring can be reconstructed for
 PMP. The comparative lexical evidence allows the following inferences. PMP speakers were
 familiar with outrigger sailing canoes. Various clues indicate that craft could be quite large.
@@ -11976,13 +11923,12 @@ corroborate each other's evidence on certain questions and to provide testimony 
 where the other disciplines are mute. It is, of course, important that each field of study
 contribute its own independent witness before synthesis is attempted. The challenge then
 becomes how to combine judiciously the evidence from different disciplines.
-Pawley, A. and Pawley, M. "Canoes and Seafaring". In Ross, M., Pawley, A. and Osmond, M. editors, The Lexicon of Proto Oceanic: The Culture and environment of ancestral Oceanic society 1: Material Culture.
-C-152:173-210. Pacific Linguistics, The Australian National University, 1998. DOI:10.15144/PL-C152.173
-©1998 Pacific Linguistics and/or the author(s). Online edition licensed 2015 CC BY-SA 4.0, with permission of PL. A sealang.net/CRCL initiative.
-                      8 Fishing and hunting
-                                               implements
 
-                                               MEREDITH OSMOND
+                      8 Fishing and hunting implements
+
+8 Fishing and hunting implements
+
+                                              MEREDITH OSMOND
 
 
 
@@ -11992,7 +11938,8 @@ C-152:173-210. Pacific Linguistics, The Australian National University, 1998. DO
                               ( 1995), which contains a wealth of information on fishing techniques in the Admiralties.
 
 
-                     1 Introduction
+8.1 Introduction
+
                         This chapter takes a close look at terms for fishing and hunting implements and processes
                      attributable to Proto Oceanic (POc), with a view to reconstructing a small portion of the
                                               1
@@ -12008,7 +11955,7 @@ C-152:173-210. Pacific Linguistics, The Australian National University, 1998. DO
 
 
 
-                     2 Nets
+8.2 Nets
                        Most Oceanic languages have a wide range of terms for different kinds of nets. These
                     include terms for hand nets, casting nets, seine nets, long-handled nets for catching flying
                     fish, and so on. Many languages have terms for nets for catching birds and occasionally
@@ -12222,7 +12169,7 @@ PCP *qava 'net gauge'
 
 216      Meredith Osmond
 
-3 Scareline
+8.3 Scareline
 
 <
 
@@ -12242,7 +12189,7 @@ than *raun.
 >
 
 
-4 Angling implements
+8.4 Angling implements
 
 <
 
@@ -12417,7 +12364,7 @@ above is unclear.
 >
 
 
-5 Fish trap
+8.5 Fish trap
 
 <
 
@@ -12445,7 +12392,7 @@ fish trap').
 
 
 
-6 Fish weir
+8.6 Fish weir
 
 <
 
@@ -12474,7 +12421,7 @@ He describes various types of weirs, for example, pa kiokio (roughly Z-shaped), 
 >
 
 
-7    Fish poison
+8.7    Fish poison
 
 <
 
@@ -12536,7 +12483,7 @@ but I have not been able to reconstruct a term for this.
 
 
 
-8 Torch fishing
+8.8 Torch fishing
 
 <
 
@@ -12563,7 +12510,8 @@ to indicate that it is carried out at night (e.g. lama fakasiosio 'go spear-fish
 >
 
 
-9 Pointed weapons
+8.9 Pointed weapons
+
     Most Oceanic languages contain a number of terms for spear, and it is probable that POc
 was no exception. There are various ways in which spears can be physically distinguished.
 There may be a distinction between fishing, fowling and fighting spears. Often, but not
@@ -12806,8 +12754,8 @@ something held so tautly that it distorts.
 
 >
 
+8.10 Club
 
-10 Club
     Across the Pacific, the kind of weapon that is labelled 'club' varies from the great knobbed,
 obsidian-studded roots that can be seen in the Bishop Museum in Honolulu, to the flat round
 stone clubs of the Motu (gahi), to the smaller, lighter throwing clubs of Fiji (i ula : Clunie
@@ -12860,7 +12808,7 @@ POc *gapi '(stone?) club'
 >
 
 
-11 Slingshot
+8.11 Slingshot
 
 
 <
@@ -12898,7 +12846,7 @@ documented a pointed-end Tridacna shell slingstone from Main Reef Islands circa 
 
 
 
-12 Trail and pitfall spikes
+8.12 Trail and pitfall spikes
 
 <
 
@@ -12919,7 +12867,7 @@ pigs and smaller ground animals like lizards.
 >
 
 
-13 Snare trap
+8.13 Snare trap
 
 <
 
@@ -12966,7 +12914,8 @@ PEOc *taRi 'noose, snare'
 >
 
 
-14 Birdlime
+8.14 Birdlime
+
    Another widespread method of catching birds involves the use of birdlime. Hooley describes
 the technique used by Mapos Buang speakers in the Huon Gulf region of New Guinea:
    The sap of this tree (dagXem) is used as birdlime for catching birds. The sap is collected in a
@@ -12998,7 +12947,8 @@ POc *bulit 'gum; resin'
 >
 
 
-1 5. Archaeological evidence
+8.15. Archaeological evidence
+
    Evidence comes both directly from the existence of artefacts themselves in archaeological
 sites-the fishhooks, trolling lures, stone fish traps, spear tips and so on -and indirectly
 230    Meredith Osmond
@@ -13136,12 +13086,9 @@ The pointed weapon terminology consists of:
 
 
 
+                         9 Acts of impact, force and change of state
 
-Osmond, M. "Fishing and Hunting Implements". In Ross, M., Pawley, A. and Osmond, M. editors, The Lexicon of Proto Oceanic: The Culture and environment of ancestral Oceanic society 1: Material Culture.
-C-152:211-232. Pacific Linguistics, The Australian National University, 1998. DOI:10.15144/PL-C152.211
-©1998 Pacific Linguistics and/or the author(s). Online edition licensed 2015 CC BY-SA 4.0, with permission of PL. A sealang.net/CRCL initiative.
-                         9 Acts of impact, force and
-                                                    change of state
+9 Acts of impact, force and change of state
 
                                                    MALCOLM ROSS, ROSS CLARK AND MEREDITH OSMOND !
 
@@ -13151,7 +13098,8 @@ C-152:211-232. Pacific Linguistics, The Australian National University, 1998. DO
                               partially reorganised the chapter and rewrote much of it.
 
 
-                         1 Introduction
+9.1 Introduction
+
                            The theme of this volume is material culture, and it is perhaps inevitable that a majority of
                         the reconstructions in the preceding chapters are of nouns denoting objects -mostly utensils
                         and some manufactured objects, especially buildings and seagoing vessels. A number of
@@ -13178,12 +13126,6 @@ C-152:211-232. Pacific Linguistics, The Australian National University, 1998. DO
 
 
 
-                        Malcolm Ross, Andrew Pawley and Meredith Osmond, eds tbe lexicon ofProto Oceanic, vol. 1: material culture, 233-295.
-                        Pacific linguistics, C-152, 1998.
-                        � Malcolm Ross, Ross Clark and Meredith Osmond
-Ross, M., Clark, R. and Osmond, M. "Acts of Impact, Force and Change of State". In Ross, M., Pawley, A. and Osmond, M. editors, The Lexicon of Proto Oceanic: The Culture and environment of ancestral Oceanic society 1: Material Culture.
-C-152:233-296. Pacific Linguistics, The Australian National University, 1998. DOI:10.15144/PL-C152.233
-©1998 Pacific Linguistics and/or the author(s). Online edition licensed 2015 CC BY-SA 4.0, with permission of PL. A sealang.net/CRCL initiative.
 234    Malcolm Ross, Ross Clark and Meredith Osmond
 
  2 Abrasion and friction
@@ -13271,14 +13213,15 @@ scrape, scrawl, scribble, scrimp.
 
 
 
-2 Abrasion and friction
+9.2 Abrasion and friction
+
    The verbs in this section refer to continuously repeated contact between an implement and
 an object to affect the surface of that object in some way, either by removing some of the
 substance of the object itself (file, rasp, sharpen, grind, scratch, scrape, grate) or by removing
 another substance from its surface (rub, brush, sweep).
 236      Malcolm Ross, Ross Clark and Meredith Osmond
 
-2.1 File, rasp, sharpen, grind
+9.2.1 File, rasp, sharpen, grind
 
    The generic term for any kind of wearing down by friction was pac *asa(q) *asaq-i- (Ch.
 4, §4. 1 .5). While it is possible to reconstruct several terms that refer just or primarily to the
@@ -13338,7 +13281,7 @@ PMP *kirkir (V) 'file, rasp' (Blust 1 977)
 
 
 
-2.2 Scratch, scrape, grate
+9.2.2 Scratch, scrape, grate
 
    Various activities are subsumed under this heading. They include the separation of coconut
 meat from the shell, the grating of foodstuffs (coconut meat, cassava etc.), the scraping of
@@ -13642,7 +13585,7 @@ PEOc *paro(s), *paros-i- 'chafe (skin); scrape'
 
 >
 
-2.3 Rub
+9.2.3 Rub
 
    Rubbing in Oceanic languages is roughly divisible into two semantic categories: rubbing in
 which abrasion is to the fore, as for example in making a fire, and rubbing for the purpose of
@@ -13712,7 +13655,7 @@ POc *pulu[-J 'rub to make clean, wash'
 >
 
 
-2.4 Brush, sweep
+9.2.4 Brush, sweep
 
    Of the verbs reconstructed below, POc *salap refers to the action performed with a
 broom, in Melanesia often made by tying together a bunch of palm-leaf midribs; POc *sapu(r),
@@ -13784,7 +13727,8 @@ POc *saRo[-J 'wipe, sweep'
 
                                         Acts of impact, force and change of state          245
 
-3 Cutting, peeling, separating, splitting and tearing
+9.3 Cutting, peeling, separating, splitting and tearing
+
    Prior to the introduction of steel blades, cutting of timber would have been achieved by
 stone axe or adze (replaced with Tridacna shell blade when suitable stone was unobtainable),
 and of softer materials by sharpened shell or piece of bamboo, or a piece of obsidian or flint.
@@ -13872,7 +13816,7 @@ whilst others we gloss simply as 'cut' as their more exact use is lost to us.
 
 
 
-3.1 Cut off, sever
+9.3.1 Cut off, sever
 
    A number of verbs referring to cutting something off or severing it can be reconstructed.
 In some cases it is reasonably clear that they were distinguished by the kinds of object which
@@ -14092,7 +14036,7 @@ POc *siba 'cut, slice'
 >
 
 
-3.2 Cut into two or more pieces
+9.3.2 Cut into two or more pieces
 
    The reconstructions below are separated from those of splitting in §3.8 largely because
 their meaning entailed cutting rather than other modes of separation.
@@ -14215,7 +14159,7 @@ POc *tapa(s), *tapas-i- 'cut into, incise'
 >
 
 
-3.3 Shape by cutting
+9.3.3 Shape by cutting
 
    The two verbs below refer to cutting wood or shell to shape it or carve it in the production
 of artefacts such as canoes or shell inlays in carvings.
@@ -14258,7 +14202,7 @@ POc *kala(s), *kalas-i- 'shape S.t. by cutting, cut S.t. out'
 >
 
 
-3.4 Incise the skin, circumcise
+9.3.4 Incise the skin, circumcise
 
    The two verbs below referred to cutting into parts of the human body. The PEOc term
 *tepe almost certainly referred to circumcision. If Motu se-sehai is cognate, then the term is
@@ -14293,7 +14237,7 @@ PEOc *soni, *sonit-i- 'incise, cut into'
 >
 
 
-3.5 Other cutting verbs
+9.3.5 Other cutting verbs
 
    The two verbs reconstructed below referred to cutting, but the glosses of their reflexes do
 not allow us to reach clear conclusions about the kinds of cutting they were used for.
@@ -14331,7 +14275,7 @@ POc *kolo(lJ) 'cut'
 
 
 
-3.6 Sharpen, pare, shave
+9.3.6 Sharpen, pare, shave
 
 <
 
@@ -14393,7 +14337,7 @@ POc *tajim, *tajim-i- 'sharpen to a point, trim (wood)'
 >
 
 
-3.7 Separate flesh from shell, skin from fruit, bark from tree, leaves from
+9.3.7 Separate flesh from shell, skin from fruit, bark from tree, leaves from
     branch or midrib
 
    This set of meanings is dealt with together because we often find Oceanic verbs with two
@@ -14637,7 +14581,7 @@ POc *pt')ilit 'peel by hand (fruit, cooked food)'
 >
 
 
-3.8 Split into two or more sections
+9.3.8 Split into two or more sections
 
    There are a number of verbs of splitting, apparently distinguished by the exact nature of
 the action, which in tum is often dependent on the texture of the object being split. POc
@@ -14786,7 +14730,7 @@ POc *waka(q) 'cut, split into sections, as yams for planting'
 
 
 
-3.9 Tear
+9.3.9 Tear
 
    Verbs of tearing refer basically to forcible separation.
 
@@ -14846,9 +14790,9 @@ cf. also:
 >
 
 
-4 Penetration with a pointed object
+9.4 Penetration with a pointed object
 
-4. 1 Pierce
+9.4. 1 Pierce
 
    The terms listed below entail formal and semantic overlaps to a seemingly embarassing
 degree. However, there is evidence that all these terms occurred in POc: *(su)suRi and
@@ -14997,7 +14941,7 @@ POc *sua (N, v) 'spear (weapon'retained in the hand)'
 
 >
 
-4.2 Drill, bore
+9.4.2 Drill, bore
 
    Drilling or boring was performed by rotating a harder implement, e.g. one with a shark 's
 tooth head, on softer material. Reflexes of drilling terms are occasionally used of igniting a
@@ -15090,9 +15034,9 @@ POc (?) *paRo[-] 'drill through, pierce, perforate' (ACD)
 >
 
 
-5 Forceful impact
+9.5 Forceful impact
 
-5.1 Hit, beat, strike
+9.5.1 Hit, beat, strike
 
    A number of terms for hitting are reconstructable, with meanings which vary particularly
 according to the manner of hitting, like English clout, slap, punch, pound, knock and so on:
@@ -15471,7 +15415,7 @@ PCP *(v,b)asu 'a drum'; (V ) 'drum, thump'
 >
 
 
-5.2 Break, smash, shatter
+9.5.2 Break, smash, shatter
 
     The first two reconstructions below, POc *pwosa(k), *pwosak-i- and POc *pwara(s), *pwaras-
 i-, refer to the breaking of brittle objects, among them the shell of an egg when a chick
@@ -15639,9 +15583,9 @@ POc *rabo(k) 'break, smash'
 
                                             Acts of impact, force and change of state              277
 
-6 Removal of object from source by hand
+9.6 Removal of object from source by hand
 
-6.1 Pluck, pick
+9.6.1 Pluck, pick
 
    The verbs reconstructed in this subsection fall into two formal and semantic sets, according
 to the PAn roots they reflect. Thus the first set reflects the PAn root *-buC 'weed, pull,
@@ -15797,7 +15741,7 @@ POc *paki 'pluck, break off Oeaves) with the hand'
 >
 
 
-6.2 Break off, snap off
+9.6.2 Break off, snap off
 
 <
 
@@ -15827,7 +15771,7 @@ POc *lopa(k) 'break'
 >
 
 
-6.3 Pinch, nip
+9.6.3 Pinch, nip
 
 PMP *kinit 'pinch, nip, pluck' (ACD)
 ( 1 ) POc *kinit, *kinit-i- 'pinch off with fingers, nip with fingernails'
@@ -15863,7 +15807,7 @@ PMP *kinit 'pinch, nip, pluck' (ACD)
 
 
 
-6.4 Unhook, hook
+9.6.4 Unhook, hook
 
 <
 
@@ -15911,7 +15855,7 @@ PMP *kawit 'hook' (Dempwolff 1 938)
 
 
 
-7 Wringing and squeezing
+9.7 Wringing and squeezing
 
    POc evidently had a substantial number of verbs used of squeezing or wringing something
 to extract liquid. The substance to which this probably applied with the greatest frequency
@@ -16168,7 +16112,7 @@ POc *gumu(t), *gumut-i- 'hold tight'
 
 286        Malcolm Ross, Ross Clark and Meredith Osmond
 
-8 Twisting, plaiting, braiding
+9.8 Twisting, plaiting, braiding
    The verbs in this section have to do with twisting, plaiting and braiding in general, and
 more specifically with twisting or rolling fibres to make various kinds of string or cord. The
 reflexes of some of these verbs overlap in their semantics with those in §7. Other verbs are
@@ -16407,7 +16351,7 @@ POc *wiri(t) 'twist, tum, revolve'
 >
 
 
-9 Bending and folding
+9.9 Bending and folding
 
 <
 
@@ -16434,7 +16378,8 @@ Sursurunga and Wayan items above.
 >
 
 
-10 Fastening and lashing together
+9.10 Fastening and lashing together
+
    Terms for materials used for cordage or string are reconstructed in Chapter 4, §3 .2. As
 well as the verbs listed below, reflexes of POc *patu(R), *patuR-i- 'tie, plait, weave (mats,
 baskets +)' (Ch. 4, §3. 1 . 1 ) and POc verb *saqi(t) 'sew' (Ch. 4, §3.2. 1 ) are also used for tying.
@@ -16590,7 +16535,8 @@ POc *kiti[-J 'tie, bind'
 >
 
 
-1 1 Applying heat and burning
+9.11 Applying heat and burning
+
    POc had a number of verbs expressing the various ways in which heat can be applied. The
 reflexes of some of these, like POc *mwaRi 'roast, burn' (Ch. 6, §3.2), are used almost
 exclusively in the context of cooking, and are therefore presented in Chapter 6. The reflexes
@@ -16712,9 +16658,6 @@ POc *tuIJi 'light, set fire to'
 >
 
 
-Ross, M., Clark, R. and Osmond, M. "Acts of Impact, Force and Change of State". In Ross, M., Pawley, A. and Osmond, M. editors, The Lexicon of Proto Oceanic: The Culture and environment of ancestral Oceanic society 1: Material Culture.
-C-152:233-296. Pacific Linguistics, The Australian National University, 1998. DOI:10.15144/PL-C152.233
-©1998 Pacific Linguistics and/or the author(s). Online edition licensed 2015 CC BY-SA 4.0, with permission of PL. A sealang.net/CRCL initiative.
                                               Appendix 1: Data sources and
                                               collation
 
@@ -16755,9 +16698,7 @@ C-152:233-296. Pacific Linguistics, The Australian National University, 1998. DO
                              Mokilese                                                                                                       Harrison and Albert ( 1 977)
                              Mota                                                                                                           Codrington ( 1896)
                              Motu                                                                                                           Lister-Turner and Clark ( 1 954) (2nd ed)
-(back matter) Ross, M., Pawley, A. and Osmond, M. editors. The Lexicon of Proto Oceanic: The Culture and environment of ancestral Oceanic society 1: Material Culture.
-C-152, xxii + 371 pages. Pacific Linguistics, The Australian National University, 1998. DOI:10.15144/PL-C152.back
-©1998 Pacific Linguistics and/or the author(s). Online edition licensed 2015 CC BY-SA 4.0, with permission of PL. A sealang.net/CRCL initiative.
+
 298    Appendix 1
 
     Mussau                                 Blust ( 1 984)
@@ -18438,33 +18379,6 @@ Zorc, R.D.P., 1 977, The Bisayan dialects of the Philippines: subgrouping and
          Index
 
 
-Proto Austronesian (PAn)                              *kuluR 'breadfruit, Artocarpus' 96
-?*ba(f))ka(q) 'outrigger canoe, dugout                *laSud 'sea, ocean 207
-          canoe' 1 79                                 *ma-qataq 'raw, unripe' 1 55
-*bubu 'conical bamboo basket trap for                 *nasuk, *Nasu 'cook by boiling' 1 52
-         fish' 21 9                                  *pa 'go, towards' 207
-*buCbuC 'pull up (weeds +), pluck                     *peRes 'squeeze out' 169, 283
-         (feathers +)' 25, 1 36, 168, 277            *qabu 'ash, cinder, powder' 1 47
-*buNuq 'throw at, hit with a projectile'              *qa(l,R)ad 'fence, palisade' 6 1 , 1 25
-          268                                         *qamataq 'raw, uncooked' 1 56
-*busuR 'hunting bow' 225                              *qasin 'salty' 1 59
-*Capa (V) 'smoke fish or meat for                     *qataq 'eat s.t. raw' 1 56
-          preservation' 1 5 8                         *qauR 'bamboo sp.' 1 08
-*CuNuh 'roast food over a fire' 1 5 1 ,               *quCaN 'fallow land?', 'scrubland,
-          293                                                  bush' 64, 1 1 8
-*CuSuR 'string together (beads +)' 1 05,             *qumah 'swidden; work a swidden' 1 1 7
-          264                                        *Rumaq 'dwelling house' 48
-*da(n)daf) 'heat s.t. or warm oneself by             *sel}Sef) 'cork, stopper, plug' 76
-          fire' 1 53, 294                            *suliq 'tendril, sucker' 1 29
-*deles 'bowstring' 226                               *SadiRi 'house post, pillar' 5 5
-*kali 'dig' 1 23                                     *Sapuy 'fire' 1 43
-*karut 'scrape, rasp' 237                            *Sasaq 'whet, sharpen' 94, 165, 236
-*keskes 'scratch, scrape' 24 1                       ?*tazim 'sharpen' 255
-*kulit (N) 'skin'; (V) 'peel, remove skin            *tebaS 'cut, clear vegetation' 1 20
-          of s.t.' 165, 255                         *tektek 'hack off' 25, 250
-
-
-
     This index lists all forms reconstructed in this volume, together with any existing higher-level
 proto forms. Reconstructions for proto languages of lower order than Proto Oceanic are
 included when significant to the discussion, or innovatory to their antecedent in some way.
@@ -18478,50 +18392,144 @@ listed in alphabetical order, with the following additions:
    Parentheses and hyphens are ignored in alphabetisation. When a reconstruction contains
 parenthesised alternants, e.g. *(b,p)ulit, only the first alternant is counted for alphabetisation
 purposes.
-338     Index
 
-*testes 'tear, tear up' 258                              268
-*tuqtuq 'hammer, pound, crush' 25, 98,         *bu(IJ)kas 'expose, unveil' 1 50
-           270                                 *buTuk 'knock, pound, beat' 27 1
-                                               *(c,s)a(R)man 'outrigger float' 1 8 1 , 1 9 1
-Proto Malayo-Polynesian (PMP)                  *(c,s)uk(c,s)uk 'skewer' 25, 86, 1 52,
-*aluten 'firebrand, unconsumed wood in                   263
-          a fire; charred wood' 1 46           *dakit (N) 'raft'; (V) 'join along the
-*anam 'plait (mats, baskets +)' 82                       length' 1 84
-*aIJsu 'scoop or bail out' 75, 201             *dalikan 'trivet' 1 47
-*babaw 'weed (a garden +)' 1 22                *damaR 'resin, torch, light' 221
-*bakbak 'peel off, of skin; remove bark        *dapuR 'hearth, fireplace' 59, 1 47
-          of tree' 258                         *daSun 'leaf' 54
-*ba(l,r,R)a 'pen, enclosure for domestic       *daya 'landwards, towards the interior
-          animals' 60                                    (from the sea or coast)' 207
-*balaIJa 'shallow earthenware cooking          *deIJeR 'hear' 29
-          pot or pan' 70                       *gapgap 'stammer' 1 7, 20
-*balay 'house or building, probably with       *gasgas 'scratch' 16 2, 240
-          open sides' 48, 49, 205              *gatgat 'chew up' 259
-*banua 'inhabited territory, where a           *gemgem 'make a fist' 20, 285
-        community's gardens, houses            *hapen 'fishing line' 216
-        etc. are' 62                           *hasek 'dibble, plant seeds with a dibble
-*baqeRuh 'new' 1 9-20                                    stick' 1 32
-*batuR 'plait, weave (mats, baskets +)'        *ike 'tapa-beating mallet' 97
-          81                                   *kabut 'mist' 20
-*baIJaq 'pot, cooking vessel' 70               *kamaliR 'men's house' 1 4, 1 7, 48, 50
-*baIJi 'bait' 21 9                            *kambuR 'sprinkle, scatter (seed +)' 1 3 3
-*baIJkaw 'barbless spear' 223                  *ka(n)tuIJ 'basket, pocket in clothing' 77
-*belaq 'split (s.t.); part of something        *ka(IJ)bu(q) 'ladle, dipper' 74
-          split' 260                           *kapat 'cotton, thread' 8 5
-*beIJkaq 'split in two' 275                    *kapit 'fasten thatch with battens or
-*be(R)(c,s)ay (N) '(canoe) paddle'; (V)                  slats' 55
-          'paddle' 1 98                        *kaput 'close, cover' 1 54
-*beRek 'pig' 20                                *karis 'scratch mark' 163 , 239
-*beRIJi 'night' 1 7                            *kasaw 'rafter' 55, 1 93
-*beTak 'split, cleave' 167, 260               *katiR '(small) outrigger canoe or canoe
-*biluk 'tack, sail to windward'? 207                     hull '? 1 80
-*biseqak 'split' 26 1                          *kawil 'hook, fish hook' 1 3 6, 216, 28 1
-*bitak 'break, split' 275                      *kelelJ (db!. *gele'1) 'cut into pieces' 254
-*bubuIJ 'ridgepole, ridge of the roof' 53      *kemes 'take in the hand, clasp, grasp'
-*buku 'node (as in bamboo or                             285
-          sugarcane); joint; knuckle; knot     *kinit 'pinch, nip, pluck' 280
-          in wood or rope' 85                  *kiRam 'axe or adze' 88, 1 87
+
+
+
+
+Proto Austronesian (PAn)
+
+?*ba(f))ka(q) 'outrigger canoe, dugout canoe' 1 79
+*bubu 'conical bamboo basket trap for fish' 21 9
+*buCbuC 'pull up (weeds +), pluck
+         (feathers +)' 25, 1 36, 168, 277
+*buNuq 'throw at, hit with a projectile'
+          268
+*busuR 'hunting bow' 225
+*Capa (V) 'smoke fish or meat for
+          preservation' 1 5 8
+*CuNuh 'roast food over a fire' 1 5 1 ,
+          293
+*CuSuR 'string together (beads +)' 1 05,
+          264
+*da(n)daf) 'heat s.t. or warm oneself by
+          fire' 1 53, 294
+*deles 'bowstring' 226
+*kali 'dig' 1 23
+*karut 'scrape, rasp' 237
+*keskes 'scratch, scrape' 24 1
+*kulit (N) 'skin'; (V) 'peel, remove skin
+          of s.t.' 165, 255
+*kuluR 'breadfruit, Artocarpus' 96
+*laSud 'sea, ocean 207
+*ma-qataq 'raw, unripe' 1 55
+*nasuk, *Nasu 'cook by boiling' 1 52
+*pa 'go, towards' 207
+*peRes 'squeeze out' 169, 283
+*qabu 'ash, cinder, powder' 1 47
+*qa(l,R)ad 'fence, palisade' 6 1 , 1 25
+*qamataq 'raw, uncooked' 1 56
+*qasin 'salty' 1 59
+*qataq 'eat s.t. raw' 1 56
+*qauR 'bamboo sp.' 1 08
+*quCaN 'fallow land?', 'scrubland,
+                    bush' 64, 1 1 8
+*qumah 'swidden; work a swidden' 1 1 7
+*Rumaq 'dwelling house' 48
+*sel}Sef) 'cork, stopper, plug' 76
+*suliq 'tendril, sucker' 1 29
+*SadiRi 'house post, pillar' 5 5
+*Sapuy 'fire' 1 43
+*Sasaq 'whet, sharpen' 94, 165, 236
+?*tazim 'sharpen' 255
+*tebaS 'cut, clear vegetation' 1 20
+*tektek 'hack off' 25, 250, 268
+*testes 'tear, tear up' 258
+*tuqtuq 'hammer, pound, crush' 25, 98,
+           270
+
+
+
+
+Proto Malayo-Polynesian (PMP)
+
+*bu(IJ)kas 'expose, unveil' 1 50
+*buTuk 'knock, pound, beat' 27 1
+*(c,s)a(R)man 'outrigger float' 1 8 1 , 1 9 1
+*(c,s)uk(c,s)uk 'skewer' 25, 86, 1 52, 263
+*aluten 'firebrand, unconsumed wood in
+          a fire; charred wood' 1 46
+*dakit (N) 'raft'; (V) 'join along the
+          length' 1 84
+*anam 'plait (mats, baskets +)' 82
+*aIJsu 'scoop or bail out' 75, 201
+*dalikan 'trivet' 1 47
+*babaw 'weed (a garden +)' 1 22
+*damaR 'resin, torch, light' 221
+*bakbak 'peel off, of skin; remove bark
+          of tree' 258
+*dapuR 'hearth, fireplace' 59, 1 47
+*daSun 'leaf' 54
+*ba(l,r,R)a 'pen, enclosure for domestic
+          animals' 60
+*daya 'landwards, towards the interior
+          (from the sea or coast)' 207
+*balaIJa 'shallow earthenware cooking
+          pot or pan' 70
+*deIJeR 'hear' 29
+*gapgap 'stammer' 1 7, 20
+*balay 'house or building, probably with
+          open sides' 48, 49, 205
+*gasgas 'scratch' 16 2, 240
+*gatgat 'chew up' 259
+*banua 'inhabited territory, where a
+        community's gardens, houses
+        etc. are' 62
+*gemgem 'make a fist' 20, 285
+*hapen 'fishing line' 216
+*hasek 'dibble, plant seeds with a dibble
+          stick' 1 32
+*baqeRuh 'new' 1 9-20
+*batuR 'plait, weave (mats, baskets +)'
+          81
+*ike 'tapa-beating mallet' 97
+*kabut 'mist' 20
+*baIJaq 'pot, cooking vessel' 70
+*kamaliR 'men's house' 1 4, 1 7, 48, 50
+*baIJi 'bait' 21 9
+*kambuR 'sprinkle, scatter (seed +)' 1 3 3
+*baIJkaw 'barbless spear' 223
+*ka(n)tuIJ 'basket, pocket in clothing' 77
+*belaq 'split (s.t.); part of something
+          split' 260
+*ka(IJ)bu(q) 'ladle, dipper' 74
+*kapat 'cotton, thread' 8 5
+*beIJkaq 'split in two' 275
+*kapit 'fasten thatch with battens or
+          slats' 55
+*be(R)(c,s)ay (N) '(canoe) paddle'; (V)
+          'paddle' 1 98
+*kaput 'close, cover' 1 54
+*beRek 'pig' 20
+*karis 'scratch mark' 163 , 239
+*beRIJi 'night' 1 7
+*kasaw 'rafter' 55, 1 93
+*beTak 'split, cleave' 167, 260
+*katiR '(small) outrigger canoe or canoe
+          hull '? 1 80
+*biluk 'tack, sail to windward'? 207
+*biseqak 'split' 26 1
+*kawil 'hook, fish hook' 1 3 6, 216, 28 1
+*bitak 'break, split' 275
+*kelelJ (db!. *gele'1) 'cut into pieces' 254
+*bubuIJ 'ridgepole, ridge of the roof' 53
+*kemes 'take in the hand, clasp, grasp'
+          285
+*buku 'node (as in bamboo or
+          sugarcane); joint; knuckle; knot
+          in wood or rope' 85
+*kinit 'pinch, nip, pluck' 280
+*kiRam 'axe or adze' 88, 1 87
 *buliq 'cowrie shell' 21 5                    *kirkir (V ) 'file, rasp' 95, 236
 *(b,p)ulit 'caulk, fill up a hole or crack     *kuDen 'clay cooking pot' 20, 68
           with viscous material' 229           *kuDkuD 'rasp, file' 16 1
@@ -19144,7 +19152,4 @@ Proto Central Pacific (PCP)                             1 55
 
 
 
-(back matter) Ross, M., Pawley, A. and Osmond, M. editors. The Lexicon of Proto Oceanic: The Culture and environment of ancestral Oceanic society 1: Material Culture.
-C-152, xxii + 371 pages. Pacific Linguistics, The Australian National University, 1998. DOI:10.15144/PL-C152.back
-©1998 Pacific Linguistics and/or the author(s). Online edition licensed 2015 CC BY-SA 4.0, with permission of PL. A sealang.net/CRCL initiative.
 
