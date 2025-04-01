@@ -140,418 +140,8 @@ School of Pacific Studies, The
 Australian National University.)
         Contents overview
 
+toc.txt
 
-
-            Chapter contents in detail                          ix
-            List of maps                                        xv
-            List of tables                                      xv
-            List of figures                                     xv
-            Acknowledgements                                  xvii
-            List of abbreviations                             xviii
-
-
-Chapter 1   Introduction
-            Malcolm Ross, Andrew Pawley and Meredith Osmond      1
-
-Chapter 2   Proto Oceanic Phonology and Morphology
-            Malcolm Ross                                        15
-
-Chapter 3   Architectural Forms and Settlement Patterns
-            Roger Green and Andrew Pawley                      37
-
-Chapter 4   Household Artefacts
-            Meredith Osmond and Malcolm Ross                   67
-
-Chapter 5   Horticultural Practices
-            Meredith Osmond                                   1 15
-
-Chapter 6   Food Preparation
-            Frantisek Lichtenberk and Meredith Osmond         143
-
-Chapter 7   Canoes and Seafaring
-            Andrew Pawley and Medina Pawley                   173
-
-Chapter 8   Fishing and Hunting Implements
-            Meredith Osmond                                   21 1
-
-Chapter 9   Acts of Impact, Force and Change of State
-            Malcolm Ross, Ross Clark and Meredith Osmond      233
-viii   Contents overview
-
-
-
-Appendix 1 :   Data sources and collation   297
-
-Appendix 2:    Languages                    301
-
-               References                   319
-
-               Index                        337
-              Chapter contents in detail
-
-
-
-     1   Introduction                                                                  1
-         1 Aims                                                                        1
-         2 The relation of the current project to previous work                        2
-��
-         3 Reconstructing the lexicon                                                  4
-           3 . 1 Terminological reconstruction                                         4
-           3 .2 Subgrouping and reconstruction                                         7
-           3.3 Sound correspondences                                                  11
-           3.4 Proto Oceanic phonology                                                11
-         4 Conventions                                                                12
-           4. 1 Chapter format                                                        12
-           4.2 Data                                                                   13
-           4.3 Conventions used in representing reconstructions                       13
-
-     2   Proto Oceanic phonology and morphology                                       15
-         1 Introduction                                                               15
-         2 Phonology                                                                  15
-           2. 1 Phonemes                                                              15
-           2.2 Phonotactics                                                           17
-           2.3 Stress                                                                 18
-           2.4 Phonological innovations and Proto Oceanic orthographies               18
-         3 Word classes                                                               20
-           3 . 1 Verbs                                                                20
-                 3 . 1 . 1 Verb classes                                               21
-                 3. 1 .2 Derivational morphology of verbs                             23
-                 3 . 1 .3 Fossilised verbal morphology                                27
-           3.2 Nouns                                                                  32
-                 3.2. 1 Derivational morphology of nouns                              32
-           3.3 Adjectival classes                                                     34
-         4 Assigning reconstructions to word classes                                  35
-
-     3   Architectural forms and settlement patterns                                  37
-         1 Aims and methodological preliminaries                                      37
-         2 Settlement patterns: evidence from archaeology and comparative ethnology   43
-           2. 1 Dwelling house architecture                                           47
-x      Chapter contents in detail
-
-    3 Settlement patterns: evidence from comparative linguistics           47
-      3.1 Subgrouping                                                      47
-      3.2 Lexical reconstructions                                          48
-      3.3 Kinds of buildings                                               48
-      3.4 House site and main structural components of house               51
-      3.5 Other structures associated with buildings                       57
-      3.6 Other structures associated with settlements                     59
-      3.7 Settlement patterns                                              62
-    4 On  variation and change in early Oceanic architectural styles and
-      settlement patterns                                                  64
-    5 Conclusion                                                           65
-
-
-4   Household Artefacts                                                    67
-    1 Introduction                                                         67
-    2 Containers                                                           67
-      2.1 Pottery containers                                               67
-           2.1.1 Cooking pot                                               68
-           2.1.2 Water jar                                                 69
-           2.1.3 Frying pan                                                70
-           2.1.4 Large cooking pot                                         70
-           2.1.5 Dish                                                      70
-           2.1.6 Lid                                                       71
-           2.1.7 Tools in pot manufacture                                  71
-      2.2 Wooden or coconut-shell containers                               72
-            2.2.1 Wooden bowl                                              72
-            2.2.2 Cup, liquid container                                    73
-            2.2.3 Water bottle                                             75
-            2.2.4 Stopper                                                  76
-            2.2.5 Lime pot                                                 76
-            2.2.6 Lime spatula                                             77
-      2.3 Woven containers                                                 77
-    3 Mats and cordage                                                     80
-      3.1 Mats                                                             80
-            3.1.1 Weaving, plaiting                                        81
-       3.2 Cord, twine                                                     83
-            3.2.1 Sewing                                                   86
-    4 Tools                                                                87
-       4.1 Cutting implements                                              87
-            4.1.1 Axe, adze                                                87
-            4.1.2 Knives                                                   91
-            4.1.3 Flint, obsidian                                          92
-            4.1.4 Awl                                                      93
-            4.1.5 Sharpening and grinding                                  94
-    5 Bark-cloth, clothing, body decoration                                95
-       5.1 Bark-cloth (tapa )                                              95
-       5.2 Clothing                                                        98
-            5.2.1 Loincloth                                                 98
-            5.2.2 Grass or leaf skirt                                       99
-                                               Chapter contents in detail     xi
-
-
-       5.3 Paint, smear, anoint                                             100
-       5.4 Tattooing                                                        1 01
-            5.4.1 Design                                                    1 02
-       5.5 Ornaments                                                        103
-           5.5.1 Comb                                                       105
-    6 Instruments of communication and music                                106
-       6.1 Conch shell trumpet                                              106
-       6.2 Bamboo flute                                                     1 07
-       6.3 Hourglass or kundu drum                                          108
-       6.4 Slitgong                                                         109
-       6.5 Jew's harp                                                       110
-    7 Other artefacts                                                       111
-       7.1 Broom                                                            111
-       7.2 Headrest                                                         1 12
-    8. Conclusions                                                          113
-
-5   Horticultural practices                                                 115
-    1 Introduction                                                          115
-    2 Background                                                            116
-    3 Land usage                                                            117
-       3.1 Garden                                                           117
-       3.2 Fallow land                                                      118
-       3.3 Uncultivated land                                                118
-    4 Soil                                                                  119
-    5 Preparation of ground                                                 120
-       5.1 Clearing the land                                                1 20
-       5.2 Burning                                                          122
-       5.3 Weeding                                                          122
-       5.4 Digging                                                          123
-       5.5 Digging stick                                                    124
-    6 Fence                                                                 125
-    7 Food plants                                                           126
-    8 Planting                                                              1 29
-       8.1 Propagation material                                             129
-       8.2 Planting (tubers)                                                131
-       8.3 Yam mound                                                        133
-       8.4 Sow (seed)                                                       133
-    9 Growth stages                                                         134
-       9.1 Sprout, shoot                                                    134
-       9.2 Grow, swell                                                      134
-       9.3 Ripen                                                            135
-       9.4 Wither                                                           135
-    10 Gathering, harvesting                                                136
-    11 Storage: yam storehouse                                              138
-    12 Drainage and irrigation                                              138
-    13 Gaps in reconstructions                                              140
-    14 Archaeological evidence                                              1 41
-    15 Conclusion                                                           142
-xii      Chapter contents in detail
-
-
-
-6     Food preparation                                                      143
-      1 Introduction                                                        143
-      2 Fire and the fireplace                                              143
-        2.1 Fire plough                                                     144
-        2.2 Firewood                                                        145
-        2.3 Firebrand, torch                                                146
-        2.4 Fireplace, hearth                                               146
-        2.5 Trivet                                                          147
-        2.6 Stone oven                                                      148
-        2.7 Covering and uncovering an oven                                 148
-      3 Cooking methods                                                     150
-        3.1 Cooking in stone oven                                           151
-        3.2 Roasting, burning, branding                                     151
-        3.3 Piercing, pricking                                              152
-        3.4 Boiling, steaming                                               152
-        3.5 Warming                                                         153
-        3.6 Singeing                                                        154
-        3.7 Wrapping prior to oven-cooking                                  154
-        3.8 Uncooked food                                                   155
-        3.9 Food cooked or ripe                                             157
-      4 Preserving                                                          157
-        4.1 Drying, smoking                                                 158
-        4.2 Fermentation                                                    158
-      5 Food processing                                                     160
-        5.1 Pounding                                                        160
-        5.2 Grating, scraping                                               161
-        5.3 Peeling                                                         165
-        5.4 Fish scaling                                                    166
-        5.5 Husking                                                         167
-        5.6 Straining                                                       168
-        5.7 Plucking                                                        168
-        5.8 Wringing, squeezing                                             169
-        5.9 Mixing                                                          171
-
-
-7     Canoes and seafaring                                                  173
-      1 Introduction                                                        173
-        1.1 Questions                                                       173
-        1.2 Reconstructions based on comparative typology: methodological
-             problems                                                       174
-        1.3 The Genetic Comparative Method                                  176
-        1.4 Lexical sources                                                 177
-        1.5 Organization of reconstructions and cognate sets                177
-      2 Types of vessel and hull construction                               177
-        2.1 Types of vessel                                                 177
-        2.2 Double canoes                                                   182
-        2.3 Hull construction                                               185
-                                                     Chapter contents in detail    xiii
-
-       2.4 Planking                                                               185
-       2.5 Thwart, cross-seat                                                     187
-       2.6 Underbody, keel                                                        187
-       2.7 Bilge, interior of hull                                                188
-       2.8 Bow and stern                                                          188
-       2.9 Carved projecting end-pieces                                           189
-       2.10 Bow and stern covers, end-decking                                     190
-    3 Superstructure                                                              190
-       3.1 Platform                                                               190
-       3.2 Cabin, deck hut                                                        191
-    4 Outrigger structure                                                         191
-       4.1 Outrigger float, outrigger side of canoe                               191
-       4.2 Outrigger booms                                                        192
-       4.3 Connective sticks attaching float                                      193
-       4.4 Starboard or hull side of outrigger canoe                              193
-    5 Sail and rigging                                                            194
-       5.1 Sail                                                                   194
-       5.2 Boom and yard of sail                                                  195
-       5.3 Mast or props supporting mast                                          196
-       5.4 Mast stays                                                             197
-    6 Steering oar                                                                197
-    7 Accessories                                                                 198
-       7.1 Cargo                                                                  198
-       7.2 Paddles, paddling and punting                                          198
-       7.3 Punting pole                                                           200
-       7.4 Bailer, bailing                                                        201
-       7.5 Portable fireplace                                                     202
-    8 Launching and beaching, anchoring, sheltering vessels                       202
-       8.1 Rollers or skids                                                       203
-       8.2 Anchoring                                                              203
-       8.3 Passage or channel, landing place                                      204
-       8.4 Boatshed                                                               205
-    9 Seafaring terms                                                             205
-       9.1 Embark, ride                                                           205
-       9.2 Voyaging                                                               206
-       9.3 Expert sailor or fisherman                                             207
-       9.4 Boat owner or captain                                                  208
-    10 Conclusions                                                                208
-
-8   Fishing and hunting implements                                                211
-    1   Introduction                                                              211
-    2   Nets                                                                      211
-    3   Scareline                                                                 216
-    4   Angling implements                                                        216
-    5   Fish trap                                                                 219
-    6   Fish weir                                                                 220
-    7   Fish poison                                                               220
-    8   Torch fishing                                                             221
-xiv      Chapter contents in detail
-
-      9 Pointed weapons                                                            222
-      10 Club                                                                      226
-      11 Slingshot                                                                 227
-      12 Trail and pitfall spikes                                                  228
-      1 3 Snare trap                                                               228
-      1 4 Birdlime                                                                 229
-      15 Archaeological evidence                                                   229
-
-9     Acts of impact, force and change of state                                    233
-      1 Introduction                                                               233
-      2 Abrasion and friction                                                      235
-          2.1 File, rasp, sharpen, grind                                           236
-          2.2 Scratch, scrape, grate                                               237
-          2.3 Rub                                                                  242
-          2.4 Brush, sweep                                                         243
-      3 Cutting, peeling, separating, splitting and tearing                        245
-          3.1 Cut off, sever                                                       246
-          3.2 Cut into two or more pieces                                          250
-          3.3 Shape by cutting                                                     252
-          3.4 Incise the skin, circumcise                                          253
-          3.5 Other cutting verbs                                                  253
-          3.6 Sharpen, pare, shave                                                 254
-          3.7 Separate flesh from shell, skin from fruit, bark from tree, leaves
-               from branch or midrib                                               255
-          3.8 Split into two or more sections                                      259
-          3.9 Tear                                                                 262
-      4 Penetration with a pointed object                                          263
-          4.1 Pierce                                                               263
-          4.2 Drill, bore                                                          265
-      5 Forceful impact                                                            267
-          5.1 Hit, beat, strike                                                    267
-          5.2 Break, smash, shatter                                                274
-      6 Removal of object from source by hand                                      277
-          6.1 Pluck, pick                                                          277
-          6.2 Break off, snap off                                                  279
-          6.3 Pinch, nip                                                           280
-          6.4 Unhook, hook                                                         280
-      7 Wringing, squeezing                                                        281
-      8 Twisting, plaiting, braiding                                               286
-      9 Bending and folding                                                        290
-      1 0 Fastening and lashing together                                           290
-      11 Applying heat and burning                                                 293
-           Maps, tables and figures
-
-
-
-Maps
-Map 1       The Austronesian phylum and major language groups                     xx
-Map 2       Geographic limits of historically known Oceanic speakers and of
-            presently documented Lapita sites (after Kirch 1997:17, 54)          xxi
-Map 3       Higher-order subgroups of Oceanic languages used in this work
-            for the purposes of reconstruction                                     8
-Map 4       Groups of Oceanic languages in northwest Melanesia:
-            the Admiralties and St Matthias groups and the subgroups
-            of Western Oceanic                                                    10
-Map 5       Lapita sites in the southwest Pacific (after Spriggs 1995: 113)       42
-Map 6       Locations of Western Oceanic and other languages in
-            northwest Melanesia                                                  315
-Map 7       Locations of Admiralties (Adm) languages                             316
-Map 8       Locations of Southeast Solomonic (SES) languages                     316
-Map 9       Locations of North/Central Vanuatu (NCV),
-            Southern Vanuatu (SV) and New Caledonia (NCal) languages             317
-Map 10      Locations of Nuclear Micronesian (Mic), Fijian (Fij)
-            and Polynesian (pn) languages                                        318
-
-
-Tables
-Table 1     The phoneme systems of Proto Malayo-Polynesian and Proto Oceanic     19
-Table 2     Classes of intransitive verb in Proto Oceanic                        21
-
-
-Figures
-Figure 1    Schematic diagram of the diversification of Austronesian languages     6
-Figure 2    Typical Baegu (Malaita, Solomon Islands) dwelling
-            and community layout (from Oliver 1989:335)                          46
-Figure 3a   POc *Rumaq 'house'                                                   52
-Figure 3b   POc *Rumaq 'house'                                                   53
-Figure 4    Typical pot shapes (from Ross 1996c)                                 68
-xvi    Chapter contents in detail
-
-Figure 5    POc *tabiRa 'wooden bowl'                                                    72
-Figure 6    POc *bCW)ilo, POc *lasa, POc *ubil*ibu 'coconut shell cup'                   74
-Figure 7    POc *kulopi 'cup, ladle' (from Nevermann 1934:179)                           74
-Figure 8    POc *d(r)amut 'lime spatula'                                                 77
-Figure 9    Reconstructions (non-specific) include: POc *katu (m,1]), POc *laka 'basket',
-            POc *tabCW)e 'basket, probably small', POc *ta1]a 'basket or bag, small,
-            used for personal effects' (after Koch 1986:104 and n.d.:59)                  79
-Figure 10   POc *kiRam 'stone adze, axe', POc *matau 'axe',
-            POc *taku, POc *taRa(q) 'adze'                                               88
-Figure 11   POc *nad(r)i 'flint, obsidian, stone with a cutting edge';
-            POc *koto 'obsidian knife or blade'                                          92
-Figure 12   POc *ike 'tapa beater'                                                       96
-Figure 13   POc *bara 'plaited cane armlet' (from Nevermann 1934:151)                   103
-Figure 14   POc *saRu 'comb'                                                            105
-Figure 15   POc *tapuRi(q) 'triton shell trumpet' (from Nevermann 1933:21 8)
-            POc *kauR 'bamboo wind instrument'                                          1 07
-Figure 16   POc *kude 'hourglass drum'                                                  1 09
-Figure 17   POc *salap 'broom'                                                          1 11
-Figure 18   POc *qulu1]-an 'wooden headrest' (from Nevermann 1934:271)                  113
-Figure 19   POc *suka, *suka-i 'make fire with fire plough'                             144
-Figure 20   POc *sulu 'dry coconut leaf torch'                                          146
-Figure 21   POc *kapit 'tongs' (from Nevermann 1933:102)                                149
-Figure 22   taro stamper (no reconstruction) (from Nevermann 1934: 192)
-            PWOc *walu 'sago beater' (from Nevermann 1934:174)                          161
-Figure 23   POc *kaRi, POc *koRi 'bivalve used as food scraper'                         1 62
-Figure 24   POc *waga 'canoe' (from Koch n.d.147), POc *kati(R) '(small)
-            outrigger canoe or canoe hull'                                              181
-Figure 25   POc *iju1] 'projecting headboard of prow' (from Nevermann 1934:285)         1 89
-Figure 26   POc *lima(s) or *nima(s), POc *asu 'bailer'                                 201
-Figure 27a POc *kupCW)ena 'fishing net' - generic term (from Nevermann 1933:89)         213
-Figure 27b Possibly POc *pukot 'seine net', with wooden floats (pOc *ut01])
-           and stone sinkers (pOc *patu) (from Nevermann 1933:89)                       214
-Figure 27c Another kind of *kupCW)ena (from Nevermann 1933:89)                          21 4
-Figure 28   POc *sika 'netting needle'                                                  215
-Figure 29   POc *kawil 'fish hook', POc *ta(g,k)o '(barbless?) fish hook';
-            coconut shell fish hook, wooden two-piece fish hook                         217
-Figure 30   POc *bayan 'trolling lure, trolling hook'                                   218
-Figure 31   POc *pupu 'basketry fish trap' (from Nevermann 1934:226)                    220
-Figure 32   POc *qio(r,R), POc *sao(t), POc *bako all 'spear' or 'k.o. spear'
-            (from Nevermann 1934:345)                                                   223
-Figure 33   POc *kuj(u,i)r, POc *tara 'fish spear'                                      224
                                                                                         xvii
 
 
@@ -658,165 +248,22 @@ VI        intransitive verb
 VT        transitive verb
 W.Guad.   West Guadalcanal
 WMP       Western Malayo-Polynesian
-                                                                                                                                                                 "0
-                                                                                                                                                             Hawaii
 
 
+Map 1: The Austronesian phylum and major language groups
 
-                                                     Guam
-                                                                  01 Micronesia ..
-                                                                 Federated Slales .
-                                                                                                   ·
-                                                                                           ··t
+Map 2: Geographic limits of historically known Oceanic speakers and of presently documented Lapita sites (after Kirch 1997: 1 7, 54)
 
 
-                                                                                                   .� Islands
-                                                                                                   0;   Marshalf
-
-
-
-
-                                                                                                         " Kiribati                                                                                                      Equator ao
-                                                                                       Nauru
-                                                                                               .                                        o c ·E A N                                             c
-
-                                                                                                          Tuvalu .'                                                                           ..
-                                                                                                                          Tokelau''.                                                            ... Marquesas
-
-                                                                                                                                                                                   FRENCH POL YNESIA
-                                                                                                                   & FUh.f.na-
-                                                                                                        Rotuma .    Wallis
-                                                                                                                                       Samoa
-                                                                                                                                      ......
-
-                                                                               vanuaIU"'.                  Fiji�\
-                                                                                                                                                                      ....
-                                                                                                                                                                             ffl
-                                                                                                                                                                                   .
-                                                                                                                                                                                                      Tuamotu
-                                                                                                                                                                                                     �chipe/ago
-                                                                                                                                        Njue
-                                                                                                                                                                                                ".
-                                                                                      .��····                                    ,T
-                                                                                                                                                                      Tah
-
-                                                                            . N
-                                                                             Caledonia
-                                                                                                                             . "onga           Rarotonga '   .
-                                      AUSTRALIA
-
-
-                                                                                                                                                                                   Rapa . .
-
-
-
-
-                                                         .   ,
-
-
-• Non-Austronesian languages in areas shown as Austronesi    Y                                                                                                                                                    120"
-        , .                  1 •                   10·                                                                                                 , .                                    , .
-
-
-                                                 Map 1: The Austronesian phylum and major language groups
-                                                                                                                              ."
-
-                                                                                                                                            o
-                                                                                                                                           'p
-
-
-                                                                                                                                           HSW8H
-
-
-
-                     Guom
-                                                                       . ',,
-                                                                               '
-
-  Palau;       Ya�
-                 '
-
-                                                                               , Marshall
-                                                                               .� Islands
-           ,
-
-
-
-
-                                     Federaled Slates
-                                                                                   :� Kiribati
-                                                                                                                                                                            Equator 0°
-                                      of Micronesia
-
-                       --=--�.:--:---- __..                      Nauru'
-                                                  .        :,
-                                                      ......
-                            I    .J) :
-                                �       � ,S;'omon ,;.,
-                                 .� ..
-                                ......         . "
-                                               "" �\' '.�,
-                                                                      Tuvalu,'
-                                                                                           Tokelau' ·,
-                                                                                                                                                             ··.·�rqufsas
-                                                                                       I              .
-                                      �
-                                        ......
-                                      '. "                 •'.    ,\ RoII.m,· ... ...-!
-                                    .'.            , ""=>
-                                                                                         -
-                                                                                         !
-                                                                               ....... FutUM
-                                                                                            -7Sa"moa'.                                             FRENCH POL YNESIA
-                                                 \          ',"' ,
-                                                  \\,vanuatu\!
-                                                                     _ ........ of
-
-                                                                                      A
-                                                                                         :.
-                                                                                                           J
-                                                                                                            .>
-                                                                          Fiji "0/:,'\         ,�      /, Ni�
-                                                                                               Y /
-                                                                •
-
-                                                      , .
-AUSTRALIA
-                                                               , �".                               n a
-                                                                                                   \,T0 g        RarotOl'lO'·          .
-
-                                                        Ca     �e nia._·_'.:..     _____   -...v
-                                                                                     "-- Known limit of Lapita sites
-                                                                                                                     R.tpa                                                    E,ster '
-                                                                                                                                                                              'sJo""
-                                                                                                                                                       • •
-
-
-
-
-                                                                                                 Limit of Oceanic languages,,--
-
-
-                        \j
-                                                                                                                                   °                         1 0°
-                1 0°                                                                                                      1
-
-
-
-
-                        Map 2: Geographic limits of historically known Oceanic speakers and
-                                    of presently documented Lapita sites (after Kirch 1997: 1 7, 54)
-                                                                                                                                                                                         �.
                           1 Introduction
                                                   MALCOLM ROSS, ANDREW PAWLEY AND MEREDITH OSMOND
 
+1 Introduction
 
-
-
-                       1 Aims
+1.1 Aims
 
                           This is the first of a set of five volumes bringing together the results of recent work on the
-                       lexicon of the Proto Oceanic (POc) language. I Volume 1 deals with material culture, volume
+                       lexicon of the Proto Oceanic (POc) language.[1] Volume 1 deals with material culture, volume
                        2 with the physical world including landscape and conceptions of location, meteorology,
                        astronomy and time, volume 3 with flora and fauna, volume 4 with terminologies centring on
                        human beings, including the body and basic human conditions and activities, and social
@@ -827,7 +274,7 @@ AUSTRALIA
                           Proto Oceanic is the immediate ancestor of the Oceanic subgroup of the Austronesian
                        language family (see Map 1). This subgroup consists of all the Austronesian languages of
                        Melanesia east of 136 'E, together with those of Polynesia and (with two exceptions) those of
-                       Micronesia-more than 450 languages in all? Extensive arguments for the existence of
+                       Micronesia-more than 450 languages in all.[2] Extensive arguments for the existence of
                        Oceanic as a clearly demarcated branch of Austronesian were first put forward by Otto
                        Dempwolff in the 1920s (cf. Ch. 2, §2.4) and the validity of the subgroup is now recognised
                        by virtually all scholars working in Austronesian historical linguistics.
@@ -840,10 +287,11 @@ AUSTRALIA
                        of a world apart, and its northernmost extensions, Hawaii and Taiwan, are separated by 70
 
 
-                                The project has been jointly directed by Andrew Pawley and Malcolm Ross, with research assistance from
+[1] The project has been jointly directed by Andrew Pawley and Malcolm Ross, with research assistance from
                                 Meredith Osmond, in the Department of Linguistics, Research School of Pacific and Asian Studies at the
                                 Australian National University.
-                                The listing in Tryon ed. ( 1 995) contains 466 Oceanic languages, many of which are subdivisible into
+
+[2] The listing in Tryon ed. ( 1 995) contains 466 Oceanic languages, many of which are subdivisible into
                                 dialects.
 
 2   Malcolm Ross, Andrew Pawley and Meredith Osmond
@@ -855,7 +303,7 @@ when Austronesian speakers from the Cenderawasih Bay area moved eastwards along 
 north coast of New Guinea or into the Bismarck Archipelago. There is a strong school of
 opinion that associates the subsequent break-up of POc with the rapid colonisation of Island
 Melanesia and the central Pacific by bearers of the Lapita culture between about 1 500 and
- 1000 BC (see Map 2)?
+ 1000 BC (see Map 2).[3]
    The present project aims to bring together a large corpus of lexical reconstructions for
 POc, together with supporting cognate sets, organised according to semantic fields and using
 a standard orthography for POco The symposium entitled Austronesian terminologies:
@@ -863,13 +311,24 @@ continuity and change held at the Australian National University in October 1990
 that there was considerable interest among scholars in such a project (the proceedings were
 published as Pawley & Ross 1994).
    We hope that this thesaurus will be a useful resource for culture historians, archaeologists
-and others interested in the prehistory of the Pacific region.4 The comparative lexical material
+and others interested in the prehistory of the Pacific region.[4] The comparative lexical material
 should also be a rich source of data for various kinds of purely linguistic research, e.g. on
 semantic change and subgrouping in the more than 400 daughter languages.
 
+[3] For accounts of this colonisation from archaeological and linguistic viewpoints respectively, see Bellwood
+    (1978, 1 987), Green ( 1 979), Kirch (1997), Kirch and Hunt ( 1 988), Pawley and Ross ( 1 995), and Spriggs
+    (1995). Pawley and Green ( 1984), Pawley and Ross (1993), and Ross (1995b) provide accounts of various
+    aspects of the spread of Austronesian speakers into the Pacific in the wider context of the Austronesian
+    dispersal as a whole.
+
+[4] The proper relationship between the three disciplines in doing prehistory is a controversial matter. In Ch.
+    3, §1, Green and Pawley discuss (and adopt) the approach of the culture historian in drawing on diverse
+    lines of evidence. In Ch. 7, § 1 , Pawley and Pawley discuss the important distinction between the comparative
+    typological method of historical reconstruction, drawing on ethnographic evidence, and the genetic
+    comparative method used by historical linguists.
 
 
-2 The relation of the current project to previous work
+1.2 The relation of the current project to previous work
    Reconstructions of POc phonology and lexicon began with Dempwolff's pioneering work
 in the 1920s and 1930s. Dempwolff's dictionary of reconstructions attributed to 'PAn'
 (Dempwolff 1938)-but equivalent in modern terms to 'PMP' -contains some 600
@@ -887,17 +346,6 @@ supporting data are problematic in various respects and we have made only limite
 them.
 
 
-
-    For accounts of this colonisation from archaeological and linguistic viewpoints respectively, see Bellwood
-    (1978, 1 987), Green ( 1 979), Kirch (1997), Kirch and Hunt ( 1 988), Pawley and Ross ( 1 995), and Spriggs
-    (1995). Pawley and Green ( 1984), Pawley and Ross (1993), and Ross (1995b) provide accounts of various
-    aspects of the spread of Austronesian speakers into the Pacific in the wider context of the Austronesian
-    dispersal as a whole.
-    The proper relationship between the three disciplines in doing prehistory is a controversial matter. In Ch.
-    3, §1, Green and Pawley discuss (and adopt) the approach of the culture historian in drawing on diverse
-    lines of evidence. In Ch. 7, § 1 , Pawley and Pawley discuss the important distinction between the comparative
-    typological method of historical reconstruction, drawing on ethnographic evidence, and the genetic
-    comparative method used by historical linguists.
                                                                                 Introduction      3
 
     Comparative lexical studies have been carried out for several lower-order subgroups of
@@ -961,7 +409,7 @@ editors than would otherwise be normal in a composite volume.
 
 
 
-3 Reconstructing the lexicon
+1.3 Reconstructing the lexicon
    The lexical reconstructions presented in these volumes are arrived at using the standard
 methods of comparative linguistics, which require as preliminaries a theory of subgrouping
 (§3.2) and the working out of systematic sound correspondences among cognate vocabulary
@@ -974,7 +422,7 @@ as parts of terminologies.
 
 
 
-3.1 Terminological reconstruction
+1.3.1 Terminological reconstruction
 
     Our method of doing 'terminological reconstruction' is as follows. First, the term inologies
 of present-day speakers of Oceanic languages are used as the basis for constructing a hypothesis
@@ -1050,73 +498,14 @@ for all spears, or perhaps all pointed projectiles including arrows and darts? O
 6     Malcolm Ross, Andrew Pawley and Meredith Osmond
 
 
+../../etc/tree.txt
 
-    Proto Austronesian (pAn)
-
-      /�
-Formosan           Proto
-languages Malayo-Polynesian (PMP)
-
-             ��
-              Proto CentrallEastern
-         Western
-    Malayo-Polynesian          Malayo­
-        languages        Polynesian (pCEMP)
-
-                        �
-                  CentralProto Eastern
-             Malayo-Polynesian         Malayo­
-                 languages        Polynesian (PEMP)
-
-                               �
-                   Proto South Halmahera/ Proto Oceanic
-                      West New Guinea         (POc)
-
-
-                   Proto          Proto Admiralty        Proto
-              Western Oceanic
-                   (PWOc)                                   �
-                                                    Eastern Oceanic
-                                                        (PE
-
-         �
-         Proto
-    Proto NorthProto                                   Proto Remote      Proto Southeast
-    New Guinea    Papuan Tip Meso-Melanesian             Oceanic           Solomonic
-
-
-
-
-                                                            /�
-                       Proto          Proto        North and     Proto Central          Proto
-                        New           South      Central Vanuatu    Pacific            Nuclear
-                     Caledonian      Vanuatu
-
-                                                             I
-                                                    W"'""                                    �i,"
-
-
-                                                          Rotuman      Proto Tokelau- West Fijian
-                                                                           Fijian      dialects
-
-                                                                      �Proto Polynesian
-                                                                East Fijian
-                                                                 dialects           (pPn)
-
-                                                                         �
-                                                                      Proto
-                                                                          Proto
-                                                                      Tongic                 Nuclear
-                                                                                            Polynesian
-
-
-
-
-          Figure 1: Schematic diagram of the diversification of Austronesian languages
+Figure 1: Schematic diagram of the diversification of Austronesian languages
                                (see the text with regard to its interpretation)
 Note: Italics are used to indicate a group of languages or a language which have no exclusively shared common
 ancestor. Thus Formosan languages indicates a collection of languages descended (along with Proto Malayo­
             Polynesian) from Proto Austronesian. It is assumed that there was no 'Proto Formosan'.
+
                                                                                       Introduction        7
 
 a particular kind of spear? Is it noun or verb or both? If a noun, does it refer to both the
@@ -1132,7 +521,7 @@ Did etymon y refer to the slingshot or to the action of turning round and round?
 
 
 
-3.2 Subgrouping and reconstruction
+1.3.2 Subgrouping and reconstruction
 
    The strength of a lexical reconstruction rests crucially on the distribution of the supporting
 cognate sets across subgroups. The distribution of cognate forms and agreements in their
@@ -1151,93 +540,34 @@ protolanguage was spoken where remain somewhat controversial, it is impossible t
 without making some assumptions about these matters.. Figure 1 is an approximate rendering
 of our subgrouping assumptions, and also serves as a key to abbreviations of names of
 language groups and protolanguages. The upper part of the tree (as far down as POc) is due
-to Blu�t, originally presented in Blust (1977) and repeated with additional supporting evidence
-in subsequent publications (Blust 1978a, 1982, 1983-84b, 1993).5
+to Blust, originally presented in Blust (1977) and repeated with additional supporting evidence
+in subsequent publications (Blust 1978a, 1982, 1983-84b, 1993).[5]
     Within Oceanic we assume a minimum of three primary subgroups: Western Oceanic,
 Admiralties (Adm), and Eastern Oceanic (see Map 3). Western Oceanic and Admiralties are
 reasonably well founded, and have been defined by Ross (1988). The St Matthias group, also
 a possible primary subgroup (represented here only by Mussau), is here included with
-Admiralties.6 Eastern Oceanic (,CentralJEastern Oceanic' in the terminology of Ross 1994b)
-includes all other Oceanic languages.? Eastern Oceanic does not meet normal subgrouping
+Admiralties.[6] Eastern Oceanic (,CentralJEastern Oceanic' in the terminology of Ross 1994b)
+includes all other Oceanic languages.[7] Eastern Oceanic does not meet normal subgrouping
 criteria (i.e. no shared innovations define the whole group), but treating them as a unit ensures
 a rigorous criterion for recognising a reconstruction as POc: it must have reflexes in at least
 
 
-S
-    For a commentary on Austronesian subgrouping, see Ross ( 1995b).
-    On the position of Mussau, see Ross ( 1988:3 15-3 1 6, 3 3 1 ) .
-    The term 'Eastern Oceanic' has been used in different ways b y various authors. OUTS i s more inclusive
+[5]  For a commentary on Austronesian subgrouping, see Ross ( 1995b).
+
+[6]  On the position of Mussau, see Ross ( 1988:3 15-3 1 6, 3 3 1 ) .
+
+[7]  The term 'Eastern Oceanic' has been used in different ways b y various authors. OUTS i s more inclusive
     than most, resembling more closely the "CentralJEastem Oceanic" set up by Lynch and Tryon ( 1983). The
     published version of the latter ( 1985), presents a less inclusive version of CentralJEastem Oceanic.
                                                                                                                          .'
-                                                                                                                                  ."
-                                                                                                                                   D
-                                  N U C L E A R                                                                                   Hawaii
 
-                                  C R O N E S I A N
+Map 3: Higher-order subgroups of Oceanic languages used in this work for the purposes of reconstruction
 
-                          Caroline Islands
-                                                          . I' ., Marshall
-   PaJa
-        �
-                                                           •    . � Islands
-                                                      .
-
-
-
-
-                                                                   " Kiribati
-                                                                                                                                                                             Equator   00
-
-
-                                                                    Tuvalu :
-                                                                                       Tokelau' · ·
-                                                                                                                                                        · rquesas
-                                                                                                                                                      ·. �
-                                                                                 I
-                                                               /Rotuma ' .....
-                                                                   ... .
-                                                                                           . Samoa                                         FRENCH POL YNESIA
-
-                                                               iFI J IAN ��?,na . ' "-' "                                                                        Tuamotu
-                                                               �           Fij;'�'\\        ..        . Niue             ".
-                                                                                                                                                              .�(chipeJago
-
-                                                                                 ...:/                         Rarolonga '    .
-                                                                                           !Tonga
-A US TRALIA
-                                                                      SOUTH
-                                                                      VANUATU
-                                                                                                                                           Rapa • •                            Easter '
-                                                                                                                                                                               Island
-
-
-                                                                                          p 0 L Y N E S                                                  A N
-
-                     .
-                                                     �NEW
-                                                    ZEALAND
-
-                         tJ
-              '1
-                °0
-                                             '1
-                                               °0   d                           ' o
-                                                                                f
-                                                                                   o
-
-                                                                                                                       '1
-                                                                                                                         °0                           ' jO
-                                                                                                                                                          O
-
-
-                              Map 3: Higher-order subgroups of Oceanic languages used in this work
-                                                             for the purposes of reconstruction
                                                                                            Introduction        9
 
  two of the subgroups that are generally regarded as primary, or possibly primary, branches of
- Oceanic. g Both here and at the interstages described below, no reconstruction is made if there
-are grounds to infer borrowing from one subgroup to another.9 Occasionally, we make use of
+ Oceanic.[8] Both here and at the interstages described below, no reconstruction is made if there
+are grounds to infer borrowing from one subgroup to another.[9] Occasionally, we make use of
 data from Yapese, which may also be a single-member primary subgroup of Oceanic (Ross
 1996a), but we have not treated it as a subgroup for the purpose of reconstruction (i.e.
 reflexes of an etymon in Yapese and in just one of the three primary subgroups listed above
@@ -1260,7 +590,7 @@ subgroup is assumed to consist of Southeast Solomonic (SES), North/Central Vanua
 South Vanuatu (SV), New Caledonia (NCal), Nuclear Micronesian (Mic), and Central Pacific
 (divided for convenience into Fijian [Fij] and Polynesian [pn]) (see Map 3). Reflexes in any
 two of these groups are enough to justify reconstruction of a Proto Eastern Oceanic (PEOc)
-etymon. 1 0
+etymon. [10]
    As noted above, it is likely that Eastern Oceanic is not a primary subgroup, but a collection
 of primary subgroups resulting from the very rapid dispersal of POc speakers (pawley &
 Ross 1995).
@@ -1271,57 +601,25 @@ case. One can find more convincing evidence for some parts of this tree than for
 although these differences are not important to our reconstructions, we would not wish
 
 
-
-
-     A result of this process is that much of the data available to us remains unused because it cannot be
+[8] A result of this process is that much of the data available to us remains unused because it cannot be
      attributed to a cognate set. An increase in available dictionaries would probably allow more cognate sets
      to be identified and, therefore, more reconstructions to be made, but it is reasonable to assume that there
      would always be a large proportion of the available data which would not fall into cognate sets because of
      the vocabulary innovation which goes on in all languages, although at varying speeds.
-     Cases where such an inference can be made in regard to primary subgroups occur mostly at the boundary
+
+[9] Cases where such an inference can be made in regard to primary subgroups occur mostly at the boundary
      (in the Solomon Islands) between wac and EOc. Where an etymon occurs ( 1 ) in wac and only in the
      Southeast Solomonic languages of EOc or (2) in EOc and only in the Northwest Solomonic languages of
      wac, borrowing is likely (and is often reflected in unexpected sound correspondences).
-10
-     This subgrouping may well prove to be somewhat inaccurate, especially with regard to North/Central
+
+[10] This subgrouping may well prove to be somewhat inaccurate, especially with regard to North/Central
      Vanuatu (see Lynch ( 1995» , but will not invalidate any reconstructions made here. The 'Fijian' grouping
      is used only for presentational purposes, and is not assumed to be a discrete subgroup within Central
      Pacific.
                                                                                                                                  ......
-                                                                                                                                 o
 
+Map 4: Groups of Oceanic languages in north-west Melanesia: the Admiralties and St Matthias groups and the subgroups of Western Oceanic
 
-
-
-                                                  �
-                                                  "t.
-                                               St M
-                                                                                           Approxlmato boundaries of
-                                                                                           subgroups of Westem Oceanic
-
-
-                                                  \V                                       Approximate boundaries of
-                                                 gr
-
-                                                                                           putative first-order Oceank: groups
-
-
-
-
-                °0
-                                                               Papuan Tip linkage                                          '0"
-
-
-
-
-                                                                        "� a
-    '40"                     '45'                       ,SO'                        '56'
-
-
-
-
-Map 4: Groups of Oceanic languages in north-west Melanesia: the Admiralties and St Matthias groups
-                             and the subgroups of Western Oceanic
                                                                           Introduction     11
 
 Figure 1 to be taken as a definitive representation of our current assumptions about Oceanic
@@ -1332,7 +630,7 @@ language belongs.
 
 
 
-3.3 Sound correspondences
+1.3.3 Sound correspondences
 
     As we noted above, reconstruction depends on working out the systematic sound
 correspondences among cognate vocabulary in contemporary languages and on having a
@@ -1360,7 +658,7 @@ account for, irregularities in cognate sets.
 
 
 
-3.4 Proto Oceanic phonology
+1.3.4 Proto Oceanic phonology
 
    Work based on the sound correspondences of both Oceanic and non-Oceanic languages
 has resulted in the following reconstructed paradigm of POc phonemes:
@@ -1368,7 +666,7 @@ has resulted in the following reconstructed paradigm of POc phonemes:
            P           t            c           k           q
            b           d            j           g
                        s
-                       n            it          f)
+                       n            it          ŋ
                        r                                    R
                        dr
                        I
@@ -1383,9 +681,9 @@ with the addition of *pw. pac phonology is discussed in greater detail in Chapte
 
 
 
-4 Conventions
+1.4 Conventions
 
-4.1 Chapter format
+1.4.1 Chapter format
 
     Each of the contributions to the present volumes (except Chapter 2 of this volume) concerns
 a particular Proto Oceanic 'terminology'. Generally, each contribution begins with an
@@ -1423,7 +721,7 @@ the end of each volume and in the final volume are intended to make it easier to
 volumes collectively as a work of reference.
                                                                                        Introduction        13
 
-4.2 Data
+1.4.2 Data
 
     The sources of our data are listed in Appendix 1.
     For most reconstructed etyma, only a representative sample of reflexes is given. We have
@@ -1435,7 +733,7 @@ is adopted of prefixing each language name with the abbreviation for the group o
 to which the language belongs, so that the distribution of a cognate set is more immediately
 obvious. These groups are genetic except, perhaps, North/Central Vanuatu (abbreviated 'NCV')
                                ,
-and Fijian (abbreviated 'Fij: ). l l We have sought to be consistent in always listing these
+and Fijian (abbreviated 'Fij: ).[11] We have sought to be consistent in always listing these
 groups in the same order, but contributors vary in the ordering of languages within groups.
    Although there are accepted or standard orthographies for a number of the languages from
 which data are cited here, all data are transcribed into a standard orthography (see Ross
@@ -1451,9 +749,13 @@ and prefixed reflexes of the POc article *na in scattered languages. When a refl
 polymorphemic (i.e. the morphemes reflect morphemes present in the reconstructed etymon)
 or contains a reduplication, the morphemes or reduplicates are also separated by a hyphen.
 
+[11] An argument that North/Central Vanuatu does not constitute a genetic subgroup is made b y Lynch ( 1 995)
+     and summarised in Lynch, Ross and Crowley (forthcoming, Ch. 5). The argument that Fijian does not
+     constitute a genetic subgroup was made by Geraghty ( 1983) and is incorporated into Figure 1 , where
+     'Fijian' comprises Rotuman, the East Fijian dialects, and West Fijian (also a dialect network).
 
 
-4.3 Conventions used in representing reconstructions
+1.4.3 Conventions used in representing reconstructions
 
    POc reconstructions, and also PWOc, PEOc and PNGOc reconstructions, are given in the
 orthography of §3.4. For reconstructions at higher-order interstages the orthographies are
@@ -1469,11 +771,6 @@ written in an orthography identical to our standard.
 
 
 
-11
-     A n argument that North/Central Vanuatu does not constitute a genetic subgroup is made b y Lynch ( 1 995)
-     and summarised in Lynch, Ross and Crowley (forthcoming, Ch. 5). The argument that Fijian does not
-     constitute a genetic subgroup was made by Geraghty ( 1983) and is incorporated into Figure 1 , where
-     'Fijian' comprises Rotuman, the East Fijian dialects, and West Fijian (also a dialect network).
                           14              Malcolm Ross, Andrew Pawley and Meredith Osmond
 
                                                      [x,y]                      the item is reconstructable in two forms, one with x and one with y
@@ -1517,24 +814,21 @@ written in an orthography identical to our standard.
 
 
 
-                      2 Proto Oceanic phonology and
-                                               morphology
+                      2 Proto Oceanic phonology and morphology
 
                                                MALCOLM ROSS
 
+2 Proto Oceanic phonology and morphology
 
-
-
-                     1       Introduction
+2.1       Introduction
                        This chapter is intended largely for historical linguists who have an interest in the
                     reconstruction of POc phonology and grammar. The non-linguist reader who chooses to skip
                     it will miss little that diminishes understanding of the chapters which follow.
 
 
+2.2 Phonology
 
-                    2 Phonology
-
-                    2.1 phonemes
+2.2.1 phonemes
 
                        Work based on the sound correspondences (Ch. 1 , §3.3) of both Oceanic and non-Oceanic
                     languages has resulted in the following reconstructed paradigms of POc consonants and
@@ -1542,7 +836,7 @@ written in an orthography identical to our standard.
                     *pW                               *p                                *t                                    *c                               *k                                 *q
                     *bW                               *b                                *d                                    *j                               *g
                                                                                         *s
-                    *mw                               *m                                *n                                    *ii                              *f)
+                    *mw                               *m                                *n                                    *ii                              *ŋ
                                                                                         *r                                                                                                        *R
                                                                                         *dr
                                                                                         *1
@@ -1562,23 +856,23 @@ addition of *pw.
 used in reconstructions by Ross ( 1 994a, 1 996d). The POc consonant inventory reconstructed
 by Ross ( 1 9 8 8:9 3-94), as well as its orthographically somewhat different predecessor
 reconstructed by Grace ( 1 969; see §2.4), included the pairs *p and *b, *t and *d, and *k and
-*g/ but only the single velarised bilabial *bw (Grace's *1Jp); so the conclusion that *pw is also
+*g/[1] but only the single velarised bilabial *bw (Grace's *1Jp); so the conclusion that *pw is also
 required by the data is not surprising. However, the reflexes of *pw have not been worked out
 as fully as those of other POc consonants (they are generally missing from the sources listed
 in Chapter 1 , §3.3 ), and unexplained inconsistencies remain among the small number of
 widely reflected items in which it is reconstructed. Reflexes which signal its presence are:
 a)     velarised bilabials (usually PJ in contexts where they do not reflect *bw;
        see *pwaraq, *pwararaq 'thunder', *pwatik 'potato yam, aerial yam, Dioscorea bulbifera ',
-       *kuprw)ena 'fishing net';
+       *ku(p,pʷ)ena 'fishing net';
 b)     apparent fortis reflexes of *p in Western Oceanic and SES languages in environments
        where a lenis reflex is usually found;
-       see *prw)ilak 'lightning', *pwaraq, *pwararaq 'thunder', *pWatik 'potato yam, aerial yam,
-       Dioscorea bulbifera ', *pwita 'snare; to snare', *prw)aRaRa 'handle' ;
+       see *(p,pʷ)ilak 'lightning', *pwaraq, *pwararaq 'thunder', *pWatik 'potato yam, aerial yam,
+       Dioscorea bulbifera ', *pwita 'snare; to snare', *(p,pʷ)aRaRa 'handle' ;
 c)     apparent reflexes of *b or *bw in Polynesian or Nuclear Micronesian (and occasionally
        other) languages;
-       see *laprw)a(r,R) 'lightning, phosphorescence', *pwaraq, *pwararaq 'thunder', *kuprw)ena
-       'fishing net', *prw)aRaRa 'handle'.
-In some cases we reconstruct *prw) as we are unsure whether the protophoneme was *pw or
+       see *la(p,pʷ)a(r,R) 'lightning, phosphorescence', *pwaraq, *pwararaq 'thunder', *ku(p,pʷ)ena
+       'fishing net', *(p,pʷ)aRaRa 'handle'.
+In some cases we reconstruct *(p,pʷ) as we are unsure whether the protophoneme was *pw or
 whether we are confronted by one of several other phenomena, including (i) borrowing, (ii)
 Western Oceanic and SES fortis reflexes of *p, or (iii) velarisation before a rounded vowel in
 certain languages. As Blust ( 1 98 1 ) remarks with regard to POc *bw and *mw, velarisation
@@ -1598,7 +892,7 @@ Admiralties and Fiji. The phoneme *c is assumed to have been a voiceless palatal
 because this is the articulation one would predict on the basis of non-Oceanic cognates and of
 
 
-     These pairs are derived from PMP pairs of which the first member was an obstruent, the second a nasal +
+[1]     These pairs are derived from PMP pairs of which the first member was an obstruent, the second a nasal +
      obstruent sequence, and so, viewed diachronically, the POc pairs *r and *dr, *s and *j, and *c and *j (sic)
      belong here too.
                                                                       Phonology and grammar                17
@@ -1617,7 +911,7 @@ widespread reflexes, it is likely that *[<1>, 13] and *[x, y] occurred as alloph
 
 
 
-2.2 Phonotactics
+2.2.2 Phonotactics
 
     POc words were made up of (C)V syllables, with the option of a word-final consonant.
 These word-final consonants are lost in the majority of Oceanic languages, but retained in a
@@ -1641,7 +935,7 @@ word-finally. The consonant *d seems to have occurred only intervocalically: if 
 word-initially, these occurrences were extremely rare.
     POc vowel sequences have, to my knowledge, never been systematically investigated, but
 they seem not to have been particularly common. A check of several geographically and
-genetically well distributed languages which are otherwise phonologically conservative2 reveals
+genetically well distributed languages which are otherwise phonologically conservative[2] reveals
 a consistency which probably reflects the POc pattern, namely that each vowel in a sequence
 is the nucleus of a separate syllable. Although some Oceanic languages contrast long vowels
 with short or contrast a sequence of two identical vowels with a single vowel, this kind of
@@ -1650,7 +944,7 @@ POc *e is derived from PMP word-final *-ay (§2.4), and this historical origin a
 
 
 
-2   The languages and sources are: Loniu (Admiralties, Hamel 1 994:7-8), Manam ryvOc, NNG, Lichtenberk
+[2]   The languages and sources are: Loniu (Admiralties, Hamel 1 994:7-8), Manam ryvOc, NNG, Lichtenberk
     1 98 3 :2 1 -32), Tawala ryvOc, PT, Ezard 1 997), Nakanai ryvOc, MM, Johnston 1 980:247-248), Kwaio
     (EOc, SES, Keesing 1 985 :8-9), Longgu (EOc, SES, Hill 1 992), Nguna(EOc, NeV, Schiitz 1 969: 1 1 - 1 2),
     Boumaa Fijian (EOc, Fij, Dixon 1 988: 1 5- 1 6).
@@ -1666,7 +960,7 @@ things on it', *qio(r, R) 'spear, arrow'. It is probable, incidentally, that the
 
 
 
-2.3 Stress
+2.2.3 Stress
 
    POc stress also remains uninvestigated, but phonologically conservative languages generally
 agree in displaying primary stress on the penultimate syllable and secondary stress on every
@@ -1674,7 +968,7 @@ second syllable preceding the penultimate, and this was probably the basic POc p
 
 
 
-2.4 Phonological innovations and Proto Oceanic orthographies
+2.2.4 Phonological innovations and Proto Oceanic orthographies
 
      Oceanic languages reflect a set of shared innovations relative to PMP, and it was on the
 basis of some of these that Dempwolff ( 1 937) first recognised Oceanic as a major Austronesian
@@ -1740,7 +1034,7 @@ d)      The labio-velars *pw, *bw and *mw entered the language. Most of the item
         'man, husband', derived from *tau 'body, person' + *mataq 'unripe, immature, young',
         but we cannot be sure whether this or *taumata(q) was the POc form.
 e)      PMP *h was lost in POc.
-f)      PMP *e, phonetically [;)], became POc *0, and the PMP word-final diphthongs *_uy(_),3
+f)      PMP *e, phonetically [;)], became POc *0, and the PMP word-final diphthongs *_uy(_),[3]
         *-aw and *-ay were simplified to POc *-i, *-0 and *-e respectively, the first two thereby
         merging with plain vowels.
 The combined effect of (a) and (c) is that each of the PMP pairs *p, *b and *k, *g first
@@ -1752,7 +1046,7 @@ PMP *punay              'wild pigeon'               POc *bune
 
 
 
-3    The notation *-uy(-) reflects the fact that there is one known case where the change to *i occured
+[3]    The notation *-uy(-) reflects the fact that there is one known case where the change to *i occured
                                                                                                      r word-medially:
      PMP *kamuihu (independent 2PL pronoun) > *kamuyu > POc *kamiu.
 20   Malcolm Ross
@@ -1763,25 +1057,31 @@ Similarly, either PMP *k or PMP *g could become either POc *k or POc *g. For exa
 PMP *kuDen           'cooking pot'            POc *kuron
 PMP *kabut           'mist'                   POc *gabu
 PMP *gapgap          'stammer'                POc *kaka(p)
-PMP *gemgem          'make a fist'            POc *gugu(m) 'grasp in fist, clench fist'.4
+PMP *gemgem          'make a fist'            POc *gugu(m) 'grasp in fist, clench fist'.[4]
+
+[4]  PMP etyma with an unambiguous initial *g- are rare, and this example shows a mismatch between the
+  vowels of PMP and pac (see Ch. 9, §7).
 
 
 
-3 Word classes
+2.3 Word classes
    The remarks below on POc word classes and derivational morphology are rather brief,
 largely because these remain somewhat poorly explored areas. More detail is provided by
 Lynch, Ross and Crowley (forthcoming), but there is a great deal about POc morpho syntax
 that we do not know and which is perhaps irretrievable. The major publication on POc
-grammar is Pawley ( 1 973). 5
+grammar is Pawley ( 1 973). [5]
    Ideally, the reconstruction of a Proto Oceanic etymon should include not only its form and
 meaning, but also its word class membership. POc had just two open lexerne classes: nouns
 and verbs. POc was a head-marking language, and each valent (dependent) noun phrase was
 cross-referenced on its head noun or verb by a clitic or suffix. Both nouns and verbs fell into
 two subclasses on the basis of valency.
 
+[5]  Pawley's ( 1 972) reconstruction of PEOc grammar is also relevant to pac reconstruction, particularly as it is
+  not clear that EOc was a discrete interstage, and features reconstructed for PEOc may consequently be
+  attributable to POc.
 
 
-3.1 Verbs6
+2.3.1 Verbs[6]
 
    POc verbs had a valency of either one or two, that is, they were either intransitive or
 transitive. There were probably no trivalentlditransitive verbs, i.e., verbs whose role structures
@@ -1789,16 +1089,9 @@ required or allowed three noun phrases without case marking, but we cannot be ce
 this, as some modem languages do have trivalent verbs (Manam, Hoava).
    Verbs apparently took a proclitic cross-referencing their subject and, if transitive, an
 enclitic cross-referencing their object (in many daughter languages these are a prefix and a
-suffix), e.g. POc *i-kiniti-au 'he pinched me' (cf. Manam Pint-a).? To judge from descriptions
+suffix), e.g. POc *i-kiniti-au 'he pinched me' (cf. Manam Pint-a).[7] To judge from descriptions
 
-
-
-  PMP etyma with an unambiguous initial *g- are rare, and this example shows a mismatch between the
-  vowels of PMP and pac (see Ch. 9, §7).
-  Pawley's ( 1 972) reconstruction of PEOc grammar is also relevant to pac reconstruction, particularly as it is
-  not clear that EOc was a discrete interstage, and features reconstructed for PEOc may consequently be
-  attributable to pac.
-  In order to reconstruct the pac verbal system, I have consulted grammars which (a) are sufficiently detalled
+[6]  In order to reconstruct the pac verbal system, I have consulted grammars which (a) are sufficiently detalled
   and (b) describe languages which seem phonologically and morphologically quite conservative. There are not
   many of these: I have consulted descriptions of Manam (yIOc, NNG) (Lichtenberk 1 983), Hoava (yIOc,
   MM) (Davis 1 997), Kwaio (Keesing 1 985) and Longgu (Hill ( 992) (both EOc, SES), Ambae (Catriona
@@ -1806,7 +1099,12 @@ suffix), e.g. POc *i-kiniti-au 'he pinched me' (cf. Manam Pint-a).? To judge fro
   1 988). The criterion of morphological conservatism is the sharing of morphosyntactic features across djfferent
   Oceanic subgroups. Unfortunately, we have no grammar of an Admiralties language which is sufficiently
   detalled.
-  It is not clear how complete the pac clitic sets were. Evidence is strong that an object enclitic occurred only
+
+[7]  It is not clear how complete the pac clitic sets were. Evidence is strong that an object enclitic occurred only
+    if the object was singular or third person non-singular. If it was first or second person non-singular, the
+    object was probably an independent pronoun (Evans 1 995). Something similar may have been true of subject
+    proclitics.
+
                                                                             Phonology and grammar                   21
 
 of verbs in modern Oceanic languages (e.g. Dixon 1 9 8 8 :20 1 -202), a majority of POc verb
@@ -1816,7 +1114,7 @@ Hoava (WOc, MM), all verbs in the corpus have transitive and intransitive altern
 
 
 
-3. 1. 1 Verb classes
+2.3. 1. 1 Verb classes
 
    We can reconstruct three major classes of POc intransitive verb on the basis of semantic
 and morphological criteria, as shown in Table 2.
@@ -1828,7 +1126,7 @@ and morphological criteria, as shown in Table 2.
                                                 2                     3                   4
                        inherently stative  intransitive            forms a             forms a
                     or inherently dynamic?   subject             transitive?          causative?
-A verbs                   dynamic s                A                 yes                 yes
+A verbs                   dynamic[8]                A                 yes                 yes
 U verbs                    neither                 U                 yes                 yes
 U-stative verbs            stative                 U                 no                  yes
 
@@ -1837,7 +1135,7 @@ U-stative verbs            stative                 U                 no         
 is a semantic one: is the intransitive verb inherently dynamic, inherently stative, or inherently
 neither (column I )? However, I follow Oceanist convention by using labels which refer to the
 macrorole of the intransitive subject: A for actor, U for undergoer (column 2) , even though
-this leads to the partially redundant 'U-stative' label where 'stative' would do. 9
+this leads to the partially redundant 'U-stative' label where 'stative' would do.[9]
     Fijian preserves the classification in Table 2 quite clearly, although individual verb forms
 in modern Fijian are not always in the same classes as the POc etyma they reflect. Intransitive
 verbs with an actor subject, i.e. A verbs, are necessarily dynamic (Table 2, columns 1 and 2).
@@ -1849,12 +1147,10 @@ Boumaa Fijian clauses in ( 1 ) illustrate:
 
 
 
-    if the object was singular or third person non-singular. If it was first or second person non-singular, the
-    object was probably an independent pronoun (Evans 1 995). Something similar may have been true of subject
-    proclitics.
-8   I use the term 'dynamic' (rather than 'active') in contrast with 'stative' simply because 'active' also contrasts
+
+[8]   I use the term 'dynamic' (rather than 'active') in contrast with 'stative' simply because 'active' also contrasts
     in a quite different sense with 'passive'.
-9   The terms 'actor' and 'undergoer' are from Foley and van Valin ( 1 984). Dixon ( 1 988) uses A and O. Arms
+[9]   The terms 'actor' and 'undergoer' are from Foley and van Valin ( 1 984). Dixon ( 1 988) uses A and O. Arms
     ( l 974a), Foley ( 1 976) and others use A (actor/agent) and P (patient), but this labelling is infelicitous in
     today's terms as it confuses macrorole (A, U) and role (agent, patient, experiencer, theme etc.). The distinctions
     between the three classes were first demonstrated systematically by Pawley (1 973: 1 26- 1 40) with data from
@@ -1889,10 +1185,10 @@ languages, including Fijian, appropriate aspect marking can force a dynamic inte
 an U-stative (e.g. of 'black' as 'become black '). There does, however, seem to be a semantic
 difference between the two classes: intransitive U verbs imply some unmentioned agent or
 instrument, whereas U-statives do not.
-   There is a tendency both in the reconstruction of POc (pawley 1 973 Y o and in descriptions
+   There is a tendency both in the reconstruction of POc (pawley 1 973)[10] and in descriptions
 of modem Oceanic languages to regard all intransitives with an U subject as stative. In some
 modern languages this is seems to be correct, but in others, and apparently in POc, they
-are/were distributed between the classes I have labelled U and U-stative. 1 1
+are/were distributed between the classes I have labelled U and U-stative. [11]
    Although it is not difficult to identify the three verb classes in many modern Oceanic
 languages, it can often be difficult to determine which class a given POc verb belonged to.
 The reasons for this are: (i) languages which retain the three classes do not always agree on
@@ -1901,13 +1197,13 @@ Kwaio) more than others (e.g. Longgu), a verb may belong to more than one class,
 some verbs may have belonged to two classes in POc; (iii) particularly in north-west Melanesia
 
 
-10   Pawley ( 1 973:1 28) has A-class statives and B-class statives, corresponding respectively to my U-stative and
+[10]   Pawley ( 1 973:1 28) has A-class statives and B-class statives, corresponding respectively to my U-stative and
      U classes. His Intradirectives are members of my A class, which also includes the intransitive alternants of
      his Spontaneous Transitives and Deliberate Transitives. The differences among the subclasses of A intransitives
      are not morphological but lie in the exact semantic roles of their subjects and of the objects of their transitive
      alternants.
-II
-     Thus, this example from Hoava is labelled "stative" by Davis ( 1 997) but the verb appears to be an U verb, at
+
+[11]     Thus, this example from Hoava is labelled "stative" by Davis ( 1 997) but the verb appears to be an U verb, at
      least in this usage (sa leboto is the subject of intransitive tuke):
       Tuke                sa       leboto.
       be.thrown.away ART:SG bushknife
@@ -1921,7 +1217,7 @@ class.
 
 
 
-3. 1.2 Derivational morphology of verbs
+2.3. 1.2 Derivational morphology of verbs
 
    POc transitivising morphology was rather different from that of its Fijian reflexes above.
 POc verb roots were mostly disyllabic and, in line with POc phonotactics (§2.2), either
@@ -1931,7 +1227,7 @@ final root was formed by adding the suffix *-i- between the root and the object 
 suffix is known in the Oceanic literature as the '(close) transitive suffix' and was the same
 regardless of whether the root was A or U :
 (5)                 intransitive                        corresponding transitive
-       A verbs      *kinif2          'pinch'            *kinit-i-      'pinch (s.o/s.t)'       (Ch. 9, §6.3)
+       A verbs      *kinif[12]         'pinch'            *kinit-i-      'pinch (s.o/s.t)'       (Ch. 9, §6.3)
                     *inum            'drink '           *inum-i-       'drink (s.t.)'
        U verbs      *pwosa(k) 'crack open'              *pwosak-i- 'crack (s.t.) open'         (Ch. 9, §5.2)
                     *lofJoR   'be audible'              *lofJoR-i- 'hear, listen to'
@@ -1958,8 +1254,7 @@ Fijian reflexes. The POc transitive includes the third person object enclitic *a
        *inum-i-a        'drink it'                  unu-m-a
 
 
-12
-     Note that *kinit is reconstructed with final *-t but *pwosa(k) with parenthesised *-k simply because we have a
+[12] Note that *kinit is reconstructed with final *-t but *pwosa(k) with parenthesised *-k simply because we have a
      reflex of *kinit in a language which retains POc final consonants, but none for *pwosa(k). Following the
      convention outlined in §2.2, final *(-k) is inferred from reflexes of transitive *pwosak-i-.
 24    Malcolm Ross
@@ -1980,7 +1275,7 @@ such that the intransitive form is treated as the root in Fijian, the POc final 
 becomes the transitive marker, and the POc transitive suffix *-i- is lost. Because the POc
 consonant is no longer part of the Fijian root but an allomorph of the transitive suffix, the
 etymological consonant is sometimes replaced by another or a consonant has been inserted
-where none is expected (Arms 1 974b). 13 This is the case with rOfjo-o-a 'hear it' above, where
+where none is expected (Arms 1 974b).[13] This is the case with rOfjo-o-a 'hear it' above, where
 the normal Fijian reflex of POc *R is zero or occasionally r, but never o.
     Fijian-like restructuring has occurred in many Oceanic languages because of the loss of
 the POc final consonant. In most of these languages (and in some Fijian dialects), *-i- has not
@@ -2005,7 +1300,7 @@ form reflects a single monosyllabic root plus an *-i- which by POc times was no 
 
 
 
-13 A special case of non-etymological consonant insertion occurs with (A) verbs of motion and posture, where
+[13] A special case of non-etymological consonant insertion occurs with (A) verbs of motion and posture, where
    the transitive form takes a location as its object. For example, Longgu eno 'lie down' « POc *qeno) vs
    eno-vi- 'lie on', dio 'fall' « POc *sipo 'descend') vs dio-TJi- 'fall on'; Boumaa la?o 'go' « POc *lako) vs
    la?o-vi- 'go for'. To date I have found such cases only in EOc languages and do not reconstruct this feature
@@ -2015,7 +1310,7 @@ form reflects a single monosyllabic root plus an *-i- which by POc times was no 
 separable, so that the transitive forms were similar in their behaviour to the transitive forms
 of vowel-final roots like *kati- 'husk with teeth'.
 (9)                                                         Proto Oceanic
-                                                      intransitive  transitive         Ch. 914
+                                                      intransitive  transitive         Ch. 9[14]
         PAn *tektek 'hack off'                       *toto(k)           *toki-         3 .2
         PMP *(c,s)uk(c,s)uk 'skewer'                 *(su)su(k)         *suki-         4. 1
         PAn *tuqtuq 'hammer, pound'                  *tutuk             *tuki-         5.1
@@ -2036,7 +1331,7 @@ and from which either an A or an U intransitive could be formed.
 verb was apparently POc *kani- 'eat (s.t.)', whose corresponding intransitive was *kani-kani.
 Hence we find Malo (NCV) hani- 'eat (s.t.)' vs han-hani 'eat' and Motu (PT) ani- vs ani-ani.
 A Boumaa Fijian example is ?usi- 'wipe (s.t.) with a cloth' vs ?usi-?usi 'wipe hands after
-washing them at the end of a meal' .15
+washing them at the end of a meal' .[15]
     An U or U-stative intransitive was apparently formed by prefixing the anti-causative
 prefix *ma- to the transitive root, reflected, e.g., in Malo ma-duru 'be split' from duru 'split
 (s.t.)' and ma-mbila 'be shattered' from bila 'shatter (s.t.)" and in Arosi ma-hita 'be split,
@@ -2054,9 +1349,10 @@ in POc, illustrated in ( 1 0), the first two being the most widely represented:
 
 
 
-14   These reconstructions are drawn from Ch. 9. Glosses are abbreviated or omitted here for the sake of clarity,
+[14]   These reconstructions are drawn from Ch. 9. Glosses are abbreviated or omitted here for the sake of clarity,
      and cross-references are to the full presentations in Ch. 9.
-15   Possible counterevidence is provided by Longgu, where reduplication forms both A and U intransitives: ale-a
+
+[15]   Possible counterevidence is provided by Longgu, where reduplication forms both A and U intransitives: ale-a
      'bite him' vs ale-ale 'bite', but ?ave-a 'bend it' vs ?ave-?ave 'be bent'. But comparative evidence suggests that
      ?ave was originally an U verb ('be bent') from which ?ave-a was derived, and that ?ave-?aveis the result of
      pattern extension.
@@ -2076,7 +1372,7 @@ final hyphen. If an intransitive/transitive pair is reconstructed, it will be sh
 would require us to show this as *wase[-], that is, as reconstructable with and without a
 following object enclitic. This convention is followed in Chapter 9, but not in other chapters;
 it is in any case often very difficult to determine whether a vowel-final root was used both
-transitively and intransitively in POC. 16 Where a pair of verbs is reconstructed without and
+transitively and intransitively in POC.[16] Where a pair of verbs is reconstructed without and
 with *-i-, the supporting cognate sets are usually combined. Occasionally, where the cognate
 sets supporting the intransitive and transitive forms are of considerable size, they are given as
 separate lists.
@@ -2101,17 +1397,16 @@ forms are reconstructable, and the difference between them needs more research).
 formed with this prefix was a transitive verb whose subject was alway the causer and whose
 object was the same as the subject of the corresponding intransitive verb (Table 2, column 2).
 Thus an U-stative verb like POc *ponuq 'be full' could be causativised (= transitivised) with
-*pa[kaJ- to give *pa[kaj-ponuq-i- 'cause (s.t.) to be full, make (s.t.) full' (object=U). 1 7 An U
+*pa[kaJ- to give *pa[kaj-ponuq-i- 'cause (s.t.) to be full, make (s.t.) full' (object=U). [17] An U
 verb like *wase 'be shared out' gave *pa[kaJ-wase- 'cause (s.t.) to be shared out' (object=U),
 and an A verb like *inum 'drink' gave *pa[kaJ-inum-i- 'cause (s.o.) to drink' (object=A).
 
 
 
-16
-     It could be said that consistency requires us to put a hyphen before every verb to mark the presence of the
+[16] It could be said that consistency requires us to put a hyphen before every verb to mark the presence of the
      subject proclitic, but we find this redundant since in this regard every verb behaves in the same way.
-17
-     The fact that U-stative roots could only be transitivised with *pa[kaj- was one of the features of this verb
+
+[17] The fact that U-stative roots could only be transitivised with *pa[kaj- was one of the features of this verb
      class recognised by Pawley (Pawley 1 973: 1 28- 1 29) and used to distinguish it from what I have here called
      the U class.
                                                                            Phonology and grammar                  27
@@ -2140,7 +1435,7 @@ only with consonant-final or *-a- final roots. The applicative *-aki[niJ was not
 limitation. In Boumaa Fijian, like other languages, an apparently non-etymological thematic
 consonant is in many cases inserted between a vowel-final root (including one in -a-) and the
 reflex of *-aki[niJ to form oo?a-ta?in-a, vuni-ta?in-a and so on. The inserted thematic
-consonant is apparently a lexically determined choice between -t- and V 1 8 This gives rise to
+consonant is apparently a lexically determined choice between -t- and -v- [18] This gives rise to
                                                                                          _   _
                                                                                                  .
 
@@ -2149,9 +1444,12 @@ consonant is apparently a lexically determined choice between -t- and V 1 8 This
 the reconstructive difficulty seen in ( 1 1 ): we do not have enough information to know what
 happened in POc when *-aki[niJ followed a root ending in a vowel.
 
+[18] Cf. dusi-a 'point it out (nearby)' vs dusi-va?in-a 'point it out (far off)'; te-a 'plant (crop)' vs tee-va?in-a
+     'plant (land)'; tala-a 'send herlhim' vs tala-va?in-a 'send for s.o.'.
 
 
-3. 1.3 Fossilised verbal morphology
+
+2.3. 1.3 Fossilised verbal morphology
 
    The morphology described in §3. 1 .2 was largely productive when POc diversified into
 daughter languages. There are a few patterns in our reconstructions of verbs, however, which
@@ -2160,16 +1458,12 @@ reflect morphology that was already dead by this stage.
 reduplicated monosyllabic roots correspond with transitive forms reflecting the unreduplicated
 root plus inseparable *-i-. PAn monosyllabic roots have been investigated in some detail by
 Blust ( 1 988) and are also often reflected as the second syllable of POc CVCVC intransitive
-roots. 1 9 As a result, consonant-final disyllables with related meanings often share their second
+roots.[19] As a result, consonant-final disyllables with related meanings often share their second
 syllable. Thus in Chapter 9, §6. 1 we find the following reconstructions forming the following
 set:
 
 
-
-18
-     Cf. dusi-a 'point it out (nearby)' vs dusi-va?in-a 'point it out (far off)'; te-a 'plant (crop)' vs tee-va?in-a
-     'plant (land)'; tala-a 'send herlhim' vs tala-va?in-a 'send for s.o.'.
-19   A tentative explanation of the origin of PAn monosyllabic roots is offered by Ross ( 1 995b:95-96).
+[19]   A tentative explanation of the origin of PAn monosyllabic roots is offered by Ross ( 1 995b:95-96).
 28      Malcolm Ross
 
 ( 1 2) PAn root *-buC 'weed, pull, pluck out' (Blust 1 988 :86-87)
@@ -2178,7 +1472,7 @@ set:
      pac      *tapu(t), *taput-i                      'strip (crops), pull off'
 The pair *pupu(t), *puti- reflects PAn *buC-buC in accordance with the paradigm in (9),
 whilst the intransitive roots *(s, j)apu(t) and *taput apparently reflect PAn fonns **sa-buC
-and **ta-buC. 2° 0ther such sets are:
+and **ta-buC.[20] 0ther such sets are:
 
 ( 1 3) PAn root *-pak 'break, crack, split' (Blust 1 98 8 : 1 35-1 36)
      POc *sapaki 'pluck off, break off (leaves) with the hand' (Ch. 9, §6. 1 )
@@ -2213,14 +1507,14 @@ changes first, then the instances of them, partly because the systemic changes a
 bearing on POc nominal morphology, discussed in §3.2. 1 .
    The essence of the focus system is that the semantic role of the 'topic' (alias 'subject',
 'nominative', 'pivot', 'trigger') of a verbal clause is indicated by an affix or affixes on the
-verb? l The morphology of the PMP focus system was, at least roughly, as in ( 1 6).
+verb.[21] The morphology of the PMP focus system was, at least roughly, as in ( 1 6).
 
 
-20
-     The double asterisks indicate that I do not know of non-Oceanic cognates which would independently
+[20] The double asterisks indicate that I do not know of non-Oceanic cognates which would independently
      support the PAn reconstructions.
-21
-     The question of how 'focus' systems should best be described has a long and controversial history. A good
+
+[21] The question of how 'focus' systems should best be described has a long and controversial history. A good
+     basic description of such a system is provided by Schachter ( 1 987).
                                                                              Phonology and grammar   29
 
 ( 1 6) The PMP verbal system (based on Wolff 1 973 and Ross 1 995a)
@@ -2237,7 +1531,7 @@ The symbol .J represents the verb root and (. . . > an infix after the root-init
 -N- represents an underlying velar nasal which combined with a root-initial voiceless obstruent
 to give the homorganic nasal, and with a root-initial voiced obstruent to give either the
 homorganic nasal or a nasal + obstruent sequence:
-( l 7) *paN- + *takaw 'steal'          -?      *panakaw 'steal (actor focus)'
+( 17) *paN- + *takaw 'steal'          -?      *panakaw 'steal (actor focus)'
        *paN- + *deIJeR 'hear'          -?      *pandeIJeR 'hear (actor focus)'
 The systemic features relevant to this discussion are that (i) there were two sets of verb
 forms, the first used i n indicative independent clauses and the other in non-indicative
@@ -2268,7 +1562,6 @@ c)     The PMP indicative independent verbal forms lost their verbal functions a
 
 
 
-     basic description of such a system is provided by Schachter ( 1 987).
 30      Malcolm Ross
 
         only as nominalisers, leaving the erstwhile non-indicative/dependent verbal fonns as the
@@ -2277,7 +1570,7 @@ c)     The PMP indicative independent verbal forms lost their verbal functions a
    Note that the verbal morphology reconstructed in the rightmost column of ( 1 8) is what has
 been described in § 3 . 1 .2. The only additions are the parenthesised fonns, representing possible
 fossils. Evidence for these is given in ( 1 9).
-( l 9) POc relic verb fonns (Ross 1 98 8 :4 1 -42 gives supporting data)
+( 19) POc relic verb fonns (Ross 1 98 8 :4 1 -42 gives supporting data)
         PMP                                  POc
         root            *[paJN-root
         *takaw          *panakaw             *panako             'steal'
@@ -2292,7 +1585,7 @@ shortly before the break-up of POc, *pa'1an reflecting the actor focus in this s
 patient focus. This in turn allows us to intepret the POc pairs *sopi, *nopi etc. in ( 1 9) as
 patient/actor pairs. Note, however, that this interpretation is not watertight. First, the expected
 outcome of *-N-ra'1 is **dra'1, not *na'1. Second, *nopi 'suck' displays both initial *n- and
-suffixed *-i-, i.e. the morphology of both actor and patient focus simultaneously. 22
+suffixed *-i-, i.e. the morphology of both actor and patient focus simultaneously.[22]
    A third set of morphological fossils also seems to date from the pre-POc period and may
 also be associated with the focus system. We find a number of POc verbs, mainly in Chapter
 9, where the data support the reconstruction of a pair of fonns differing in the grade (oral or
@@ -2312,14 +1605,13 @@ indicate that there may also have been a POc fonn with a nasal-grade initial.
                                                            Wayan bote(ki) 'split or crack S.t. open '
 
 
-22
-     This doubling up of morphology has at least two possible explanations. One, *-i- was added to **iiop by
+[22] This doubling up of morphology has at least two possible explanations. One, *-i- was added to **iiop by
      analogy after the focus system had collapsed. Two, the system reconstructed in (2 1 ) is wrong and the
      pre-POc system was more like that of a number of Indonesian languages, where reflexes of *maN- and *-i
      co-occur in a single verb form. The evidence to date is too thin to permit a choice.
                                                                  Phonology and grammar              31
 
-        *p("')ipCW)i(t) 'press, wring, squeeze s.t.'   Gumawana bibi 'squeeze (boil +)'
+        *p("')i(p,pʷ)i(t) 'press, wring, squeeze s.t.'   Gumawana bibi 'squeeze (boil +)'
                                                        Arosi bibi 'crush, squeeze, crowd'
         *kili(s), *kilis-i- 'twist, bore, rotate'      Bauan gili- 'twist or rub in the hands'
                                                        Nadroga gili- 'braid'
@@ -2373,18 +1665,24 @@ This means that instead of the pair *kiril*giri, for example, descended from PMP
 initial *kirkir, we would expect a pair *kiril**1Jiri, corresponding to the pairs in the lower half
 of ( 1 9). But the only such pairs I have found are those in ( 1 9). Thus, although I cannot
 exclude the possibility that the pairs in ( 1 6) and (1 8) reflect a feature of the focus system, I
-am unable to give a principled account of them. 23
+am unable to give a principled account of them. [23]
+
+[23] Explanations might include (i) errors in the association of POc and PMP reconstructions, i.e. more items in
+   (23) and (24) are descended from voiced-initial PMP roots than is apparent (unlikely, as PMP *g- had a very
+   low functional load); (ii) some unrecognised developments had occurred in the pre-POc focus system; (iii)
+   the nasal feature came not from PMP *-N- but from PMP *<um) in ( 1 9), i.e. the POc system in (2 1 ) is
+   incorrectly reconstructed.
 
 
 
-3.2 Nouns
+2.3.2 Nouns
 
    Nouns had a valency of either one or zero. A monovalent noun normally took a suffix
 which cross-referenced the person and number of the dependent noun phrase, usually its
 possessor, e.g. POc *tama-gu 'my father', *tama-na 'herlhis father' (cf. Bali-Vitu, Tolai,
 Fijian tama-gu, tama-na), *tama-na tamWata 'the man's father'. I assume that, as in many
 modem languages, the dependent noun phrase usually occurred only if it was third person,
-and was optionally omissible even there?4 A zero-valency noun had no affixation, e.g. POc
+and was optionally omissible even there.[24] A zero-valency noun had no affixation, e.g. POc
 *Rumaq 'house' (Ch. 3, §3. 3). Monovalent nouns were nouns that are possessed by default:
 they included kin terms (like *tama- 'father'), body parts (e.g. POc *qaqe- 'leg') or parts of
 wholes (e.g. POc *gabWari- 'area underneath a raised house' (Ch. 3, §3 .4)), and are shown in
@@ -2394,9 +1692,16 @@ to in grammars either by the semantic labels 'inalienable noun' and 'alienable n
 Lichtenberk ( 1 985), by the syntactic labels 'directly possessed noun' and 'indirectly possessed
 noun'.
 
+[24] When a monovalent noun had a non-specific possessor, it was evidently linked to the latter by the preposition
+   *qi, e.g. *natu qi boRok 'piglet' (lit. 'child of pig'), but there is considerable evidence that *qi was bound to
+   the preceding monovalent noun (cf, for example, Seimat [Admiralties) nat-i pou 'piglet'; see Hooper 1 985
+   for further evidence).
+   A description of the (quite complex) POc possessive system is beyond our scope. The interested reader is
+   referred to Pawley ( 1 973:1 53-1 69), Lichtenberk ( 1 985), Hooper ( 1 985), Lynch ( 1 996a).
 
 
-3.2. 1 Derivational morphology of nouns
+
+2.3.2. 1 Derivational morphology of nouns
 
    Morphemes which derive nouns have rather a complex history in Oceanic. As noted above
 (§3 . 1 .3), PMP nominalisations were identical to certain independent indicative forms of the
@@ -2407,18 +1712,6 @@ had other senses too.
 
 
 
-
-23 Explanations might include (i) errors in the association of POc and PMP reconstructions, i.e. more items in
-   (23) and (24) are descended from voiced-initial PMP roots than is apparent (unlikely, as PMP *g- had a very
-   low functional load); (ii) some unrecognised developments had occurred in the pre-POc focus system; (iii)
-   the nasal feature came not from PMP *-N- but from PMP *<um) in ( 1 9), i.e. the POc system in (2 1 ) is
-   incorrectly reconstructed.
-24 When a monovalent noun had a non-specific possessor, it was evidently linked to the latter by the preposition
-   *qi, e.g. *natu qi boRok 'piglet' (lit. 'child of pig'), but there is considerable evidence that *qi was bound to
-   the preceding monovalent noun (cf, for example, Seimat [Admiralties) nat-i pou 'piglet'; see Hooper 1 985
-   for further evidence).
-   A description of the (quite complex) POc possessive system is beyond our scope. The interested reader is
-   referred to Pawley ( 1 973:1 53-1 69), Lichtenberk ( 1 985), Hooper ( 1 985), Lynch ( 1 996a).
                                                                          Phonology and grammar       33
 
 (23) PMP              nominalisation
@@ -2453,7 +1746,7 @@ where it was in competition with initial-syllable reduplication, which also form
    I noted in §3 . 1 .3 that the function of location focus forms was extended to include patient
 focus. This also happened to a degree with nominalisations, in that � -on survives only in
 fossils. However, its perfective counterpart *dm."j survives as patient and general nominaliser
-in Mussau and the Meso-Melanesian cluster.25 I n Roviana and Hoava (MM) the general
+in Mussau and the Meso-Melanesian cluster.[25] I n Roviana and Hoava (MM) the general
 nominaliser is <im, e.g. Roviana k<imera 'song' from kera 'sing', whilst *-an retains its local
 meaning, e.g. Roviana huhuve-ana 'bathing place, bath' from huhuve 'bathe' (Roviana preserves
 POc final consonants with a following echo vowel, so -ana is the regular reflex of *-an). In
@@ -2466,8 +1759,8 @@ Epi (central Vanuatu) (Tryon 1 976:289).
 *kana'1 and *kano'1 above indicate, forms in final *-'1 occurred in POc alongside those in
 
 
+[25] Zero-derivation or reduplication is also used to form deverbal nouns in a number of languages.
 
-25 Zero-derivation or reduplication is also used to form deverbal nouns in a number of languages.
 34      Malcolm Ross
 
 final *-n, so *V-an and *V-a1J apparently coexisted, a fact for which I have no explanation.
@@ -2480,7 +1773,7 @@ instrumental formative (e.g. puno-1J (N) 'fight', puno-1J-a 'weapon ', both from
 POc final consonants faithfully, and in fact only two such languages are known to reflect
 *V-an. These are Roviana and Hoava, as illustrated above. However, if reflexes of *V -ana
 are also taken as evidence of POc *V -an, then there are a number of these in the Admiralties,
-e.g. Seimat paku-an26 (N) 'dance', from pak (V) 'dance', and in Central and South Vanuatu,
+e.g. Seimat paku-an[26] (N) 'dance', from pak (V) 'dance', and in Central and South Vanuatu,
 e.g. Paamese sau-ene 'singing' from sau 'sing', Lenakel akar 'talk' from n-akar-aan 'talking'
 (where n- reflects a POc article *na).
     Forms reflecting *V-a1J are found in languages of the NNG cluster. Here, however, there
@@ -2511,17 +1804,16 @@ forms. In such cases we reconstruct, e.g., POc *mate ('die') + NOMINALISER 'deat
 cannot tell which form was in fact lexicalised in POco
 
 
+[26] The presence of -n attests the earlier presence of a following vowel.
 
-3.3 Adjectival classes
+
+
+2.3.3 Adjectival classes
 
    POc had no separate adjective class. Instead, it had a large class of adjectival verbs and a
 small class of adjectival nouns (Ross 1 998). The class of adjectival verbs appears to have
 included all U-statives, and at least some U intransitives (§3 . 1 . 1). Many reconstructed adjectival
 
-
-
-26
-     The presence of -n attests the earlier presence of a following vowel.
                                                                          Phonology and grammar                35
 
 verbs include the U intransitive prefix *ma- (§3 . 1 .2). Both adjectival verbs and adjectival
@@ -2548,9 +1840,9 @@ preceded by the article a and means 'a new one'.
 
 
 
-4 Assigning reconstructions to word classes
+2.4 Assigning reconstructions to word classes
    Although we know with reasonable certainty what the open word classes were in POc and
-what their major subclasses were, 27 we cannot always assign a reconstructed etymon to a
+what their major subclasses were, [27] we cannot always assign a reconstructed etymon to a
 single word class or subclass. Some items, of course, like *tama- 'father', *Rumaq 'house'
 and *kinit-i- , are easily assigned: they are, respectively, a monovalent noun, a zero-valency
 noun and a transitive verb. Quite a number of the items we reconstruct are derived items, and
@@ -2569,9 +1861,7 @@ conventions referred to in the discussion above to speak for themselves.
 
 
 
-
-21
-     For more detailed information the reader is referred to Pawley ( 1 973: 1 26- 1 40), Crowley ( 1 985), Ross
+[27] For more detailed information the reader is referred to Pawley ( 1 973: 1 26- 1 40), Crowley ( 1 985), Ross
      ( 1 998).
                         3 Architectural forms and settlement patterns
 
@@ -3088,7 +2378,7 @@ marae and by Green ( 1 986 :54) for a Kwaio settlement in relation to Polynesian
 
 
 
-     Figure 2: Typical Baegu (Malaita, Solomon Islands) dwelling and community layout
+Figure 2: Typical Baegu (Malaita, Solomon Islands) dwelling and community layout
                                          (from Oliver 1 989:335)
         (Baegu terms are luma 'dwelling house, laiD 'women's sleeping quarters', beu 'men's house',
                                            bisi 'menstrual hut')
@@ -3385,7 +2675,7 @@ on which offerings and sacrifices to the gods were presented.
 
 
 
-                                Figure 3a: POc *Rumaq 'house'
+Figure 3a: POc *Rumaq 'house'
      POc *qatop 'thatch, roof' , POc *kataman 'doorway', POc *tete 'ladder or log bridge',
                             POc *gabWari 'area underneath house'
 
@@ -3412,29 +2702,29 @@ probably blocked off by a barricade.
 
 
 
-                             Figure 3b: POc *Rumaq 'house'
-POc *pupu1)-an 'ridgepole', POc *kaso 'rafter', POc *aRiRi 'post', POc *turu(s) 'post', POc
+Figure 3b: POc *Rumaq 'house'
+POc *pup uŋ-an 'ridgepole', POc *kaso 'rafter', POc *aRiRi 'post', POc *turu(s) 'post', POc
    *bou 'main bearers supporting raised floor/roof or centre post supporting ridgepole,
                         POc *soko(r) 'bracing timber, crossbeam'
 
    The following group of ten cognate sets indicate that early Austronesian dwelling houses
 were built with a robust and fairly heavy superstructure, including ridgepole, thatched roof,
-rafters and crossbeams. Those sets indicating POc *pupu1)-an 'ridgepole ' and POc *qatop
+rafters and crossbeams. Those sets indicating POc *pup uŋ-an 'ridgepole ' and POc *qatop
 'thatch, roof' are consistent with ethnographic evidence indicating that gabled houses with a
 ridgepole supporting a thatched, probably two-section roof were built by both PMP and POc
 speakers.
 
 <
 
-PMP *bubu1) (Dempwolff 1 9 3 8 , Zorc 1 994); *buhu1)buhu1) (Blust 1 972b) 'ridgepole, ridge
- of the roof'
-POc *pupu1)-an 'ridgepole' (Blust 1 983-84a)
- Adm: Mussau            pU1)ana
- NNG: Takia             fu1), Ju1)an      'roof top'
+PMP *bubuŋ (Dempwolff 1938 , Zorc 1994) 'ridgepole, ridge of the roof'
+PMP *buhuŋbuhuŋ (Blust 1972b) 'ridgepole, ridge of the roof'
+POc *pupuŋ-an 'ridgepole' (Blust 1 983-84a)
+ Adm: Mussau            puŋana
+ NNG: Takia             fuŋ, Juŋan      'roof top'
  NNG: Numbami           bomboa1)a
  PT:  Misima            ponan
- MM: Sursurunga         pU1)an            'cover ridgepole with grass'
- MM: Halia (Haku)       pU1)ana           'thatch'
+ MM: Sursurunga         puŋan            'cover ridgepole with grass'
+ MM: Halia (Haku)       puŋana           'thatch'
  SES:         Gela         vuvu!Ja
  SES:         Arosi        (abWa)hu!Ja      'the ridge of a house'
                            hunga-           'roof top, centre-post of a round house'
@@ -3815,8 +3105,8 @@ POc *qurnun 'oven made with hot stones; cook in a stone or earth oven' (Chowning
 
 <
 
-PMP *liaf) 'hole, pit, cave'
-POc *lua(f)) 'hole, pit, cave'
+PMP *liaŋ 'hole, pit, cave'
+POc *lua(ŋ) 'hole, pit, cave'
   Mic:     Kiribati         rua                'pit, ditch, trench'
   Pn:      E. Futunan       lua                'hole, pit, tomb, grave'
   Pn:      Takuu            rua                'depression, hole in ground'
@@ -3836,7 +3126,7 @@ POc *giRu or *guRi 'deep pit, (?) for grave or well'
   SES:     Arosi            giru               'hole (in ground), grave'
 
 The PT and SES forms in the above set are cognate on the assumption that metathesis
-occurred in one set or the other. In many Oceanic languages a reflex of *lua(f)) is the general
+occurred in one set or the other. In many Oceanic languages a reflex of *lua(ŋ) is the general
 term for any sort of hole, including pits used for cooking or for storing breadfruit and certain
 other crops. POc *giRu or *guRi may have referred to deep pits dug for graves or wells.
 
@@ -3862,7 +3152,8 @@ POc *baRa 'fence' (ACD)
 
 <
 
-POc *bayat 'fence, boundary marker', POc *bayat-i 'make a garden boundary'
+POc *bayat 'fence, boundary marker'
+POc *bayat-i 'make a garden boundary'
     PT:     Gumawana         bayata               'garden boundary made by terracing rocks '
                              bayasi              'make a garden boundary'
     PT:     Iduna            bai                 'stick used as garden boundary; roof baton'
@@ -3905,11 +3196,11 @@ evidence in Chapter 5, § 6 .
 PMP *zalan 'path, road' (Dahl 1 976)
 POc *jalan 'path'
     Adm: Nauna               cal
-    Adm: Drehet              sal)                'trail, path, road'
+    Adm: Drehet              saŋ                'trail, path, road'
     NNG: Mangap              zala
     NNG: Manam               zala                'path, road, door'
     PT:  Motu                dala
-    MM: Bali                 dalal)a
+    MM: Bali                 dalaŋa
     MM: Tigak                salan
     MM: Tinputz              hanan
     MM: Banoni               sanana
@@ -4192,7 +3483,7 @@ cooking pot/generic term is the most soundly based.
 
 
 
-                                   Figure 4: Typical pot shapes
+Figure 4: Typical pot shapes
                                         (from Ross 1 996c)
 
 
@@ -4413,7 +3704,7 @@ POc *tabiRa 'wooden bowl'
 >
 
 
-                            Figure 5 : POc *tabiRa 'wooden bowl'
+Figure 5 : POc *tabiRa 'wooden bowl'
 
 
 This last set could be taken to reflect a POc **tabili, but their formal and semantic similarity
@@ -4465,7 +3756,7 @@ PCP *kumete 'large wooden bowl (used as a mortar in pounding, mashing food and/o
    One of the most widely-used containers was the coconut-shell cup, for which we have
 several reconstructions. The term for a gourd also refers to a water bottle in some languages.
 
-POc *bCW)ilo 'coconut shell used as liquid container'
+POc *(b,bʷ)ilo 'coconut shell used as liquid container'
   Adm: Lou                 pil             'coconut shell used for soup'
   Adm: Titan               pWe_pwil        'coconut shell'
   Adm: Drehet              pWi_pwil)       'coconut shell'
@@ -4516,9 +3807,13 @@ POc *ubi/*ibu 'half coconut shell used as a drinking cup'[3]
 >
 
 
-   Figure 6: POc *bi)ilo 'coconut shell                       Figure 7: POc *kuLopi 'cup, ladle'
-   used as liquid container', POc *Lasa,                      (from Nevermann 1 934: 1 79)
+Figure 6: POc *bi)ilo 'coconut shell
+   used as liquid container', POc *Lasa,
    POc *ubi/*ibu 'coconut half shell-cup'
+
+Figure 7: POc *kuLopi 'cup, ladle'
+(from Nevermann 1 934: 1 79)
+
 
 <
 
@@ -4619,9 +3914,9 @@ This is a nominalisation of the verb below (cf. Ch. 2, §3 .2. 1 ):
 <
 
 PAn *sefjsefj 'cork, stopper, plug' (Blust 1 986)
-POc *jojOfj, *jofji 'plug, stop, caulk'
+POc *jojoŋ, *joŋi 'plug, stop, caulk'
   NNG: Gitua               zozon              (V) 'plug, stop'
-  NNG: Tarni               jojOfj             (N, V) 'cork'
+  NNG: Tarni               jojoŋ             (N, V) 'cork'
   NNG: Gedaged             dod                'cork, stopper made out of leaves rolled together
                                               to stop the hole in the coconut-shell water
                                               container'
@@ -4687,7 +3982,7 @@ perhaps 'add lime to a chew of betel nut'.
 >
 
 
-                           Figure 8: POc *d(r)amut 'lime spatula'
+Figure 8: POc *d(r)amut 'lime spatula'
 
 
 
@@ -4741,7 +4036,7 @@ POc *laka 'basket'
 >
 <
 
-POc *tabCW)e 'basket, probably small'
+POc *ta(b,bʷ)e 'basket, probably small'
   Adm: Loniu             tapwa             'basket, string bag'
   NNG: Bing              tlib              'mat woven from coconut fronds'
   MM: Lavongai           tape, tepe        'basket'
@@ -4789,8 +4084,8 @@ association with one of the two *k-initial forms above.
 
 
 
-   Figure 9: Reconstructions (non-specific) include: POc *kalu (m,1)) 'basket', POc *laka
- 'basket ', POc *tabt')e 'basket, probably small', POc *la1)a 'basket or bag, small, used for
+Figure 9: Reconstructions (non-specific) include: POc *kalu (m,1)) 'basket', POc *laka
+ 'basket ', POc *tabt')e 'basket, probably small', POc *laŋa 'basket or bag, small, used for
                         personal effects' (after Koch 1 986: 1 04 and n.d.:59)
 
    Biggs ( 1 993) lists two further terms for PPn, *llipola 'basket plaited from a single coconut
@@ -4810,9 +4105,9 @@ has come to refer to a net bag in parts of western Oceania.
 
 <
 
-POc *la1)a 'basket or bag, small, used for personal effects'
-  NNG: Lukep (pono)      ta1)a              'net bag, womb'
-  NNG: Gedaged           ta1)               'net bag used by women'
+POc *laŋa 'basket or bag, small, used for personal effects'
+  NNG: Lukep (pono)      taŋa              'net bag, womb'
+  NNG: Gedaged           taŋ               'net bag used by women'
   PT:  Kilivila          (va)laga           'small basket (very simply plaited)'
   PT:  Dobu              lana               'dilly bag' (Grant)
   MM:    Meramera       taIJa             'netbag; nest; web; basket'
@@ -5003,8 +4298,8 @@ POc *pai 'weave'
 
 <
 
-   Ann Chowning (pers.comm.) has offered an additional sense to POc *rara1), *rara1)-i­
-(from PAn *da(n)da1)), which Lichtenberk glosses as 'warm oneself by fire'; 'warm up,
+   Ann Chowning (pers.comm.) has offered an additional sense to POc *raraŋ, *raraŋ-i­
+(from PAn *da(n)daŋ), which Lichtenberk glosses as 'warm oneself by fire'; 'warm up,
 reheat (esp. food)' (see Chapter 6, §3 . 5 , for the full cognate set). She contributes cognates
 from Molima, Kove and Nakanai which all refer to the preparation of pandanus leaves for
 mat making by softening them over a fire, and accord closely with the gloss of the single
@@ -5262,7 +4557,8 @@ POc *(su)suRi 'bone (needle); sew' (cf. POc *suRi 'bone')
    The following term for needle, POc *saRum, evidently had specific reference to a tattooing
 needle, in addition to a more general meaning.
 
-PMP *zaRum 'needle' (Dempwolff 1 938)                                                                 POc *saRum 'needle, tattooing needle (typically made from wing-bone of flying fox)
+PMP *zaRum 'needle' (Dempwolff 1 938)
+POc *saRum 'needle, tattooing needle (typically made from wing-bone of flying fox)
   Adm: Mussau       raum                   'needle'
   Adm: Lou          sou-                   'needle'
   NNG: Lukep (pono) sar                    'needle (traditionally made of bat bone or fish
@@ -5301,8 +4597,7 @@ stone.
 
 
 
-
-         Figure 10: POc *kiRam 'stone adze, axe', POc *matau 'axe', POc *taku,
+Figure 10: POc *kiRam 'stone adze, axe', POc *matau 'axe', POc *taku,
                                  POc *taRa(q) 'adze'
 
 <
@@ -5350,7 +4645,7 @@ POc *matau 'axe'
 >
 <
 
-POc *mrw)ata- 'point, cutting edge, sharp projection ' (Grace 1 969)
+POc *(m,mʷ)ata- 'point, cutting edge, sharp projection ' (Grace 1 969)
     Adm: Loniu                   mata-n          'blade'
     Adm: Bipi                    mata-n          'sharp'
     NNG: Takia                   mala-n [5]        'sharp, bright; (knife) edge'
@@ -5369,7 +4664,7 @@ POc *mrw)ata- 'point, cutting edge, sharp projection ' (Grace 1 969)
 
 The following are possibly related to the set above but all reflect an extra *i (Loniu and
 Tawala reflect a possible POc *mWati, the NNG items a putative *mCW)aita). It is possible that
-this *i reflects the incorporation into *mrw)ata of the generic possessive preposition *qi,
+this *i reflects the incorporation into *(m,mʷ)ata of the generic possessive preposition *qi,
 which would frequently have occurred immediately after it (e.g. POc **mCW)ata-qi kiRam
 'axe blade') and is reflected in Mota matai above.
     Adm: Loniu                   mWati           'axe'
@@ -5431,7 +4726,7 @@ ethnographers (e.g. Oliver 1 974: 1 35-1 37 for Tahiti).
 <
 
 PMP *paRada 'axe-adze handle' (Blust 1 989)
-POc *pr,w)aRara 'handle' (Milke 1 968: *paRaRa)
+POc *(p,pʷ)aRara 'handle' (Milke 1 968: *paRaRa)
   NNG: Lukep (pono) parere                 'handle: used of axe, hammer; not of machete,
                                            shovel'
   NNG: Gedaged           palal             'handle (of broom, hammer, but not of cups +) '
@@ -5538,7 +4833,7 @@ material and suggest that its primary meaning was 'obsidian cutting edge':
 
 
 
-              Figure 1 1 : POc *nad(r)i 'flint, obsidian, stone with a cutting edge' ;
+Figure 1 1 : POc *nad(r)i 'flint, obsidian, stone with a cutting edge' ;
                               POc *koto 'obsidian knife or blade'
                                                                         Household artefacts     93
 
@@ -5622,16 +4917,16 @@ the PCP term for a whetstone.
 
 <
 
-PCP *vuqa(i)f)a 'whetstone, grindstone'
-  Fij:   Wayan           vuaif)o           'pumice stone, pumice; used for scouring coconut­
+PCP *vuqa(i)ŋa 'whetstone, grindstone'
+  Fij:   Wayan           vuaiŋo           'pumice stone, pumice; used for scouring coconut­
                                            shell cups'
-  Pn:    Tongan          fu?o-fu?af)a      'pumice'
-  Pn:    Samoan          foaf)a            'grindstone'
-  Pn:    Rarotongan      ?oaf)a            'grindstone'
+  Pn:    Tongan          fu?o-fu?aŋa      'pumice'
+  Pn:    Samoan          foaŋa            'grindstone'
+  Pn:    Rarotongan      ?oaŋa            'grindstone'
   Pn:    Mangareva       hoaga             'volcanic stone used as hone or sharpener'
-  Pn:    Maori           hOaf)a            'sandstone used in grinding stone'
+  Pn:    Maori           hOaŋa            'sandstone used in grinding stone'
 
-From its form it is clear that PCP *vuqa(i)f)a is a nominalisation. The corresponding verb
+From its form it is clear that PCP *vuqa(i)ŋa is a nominalisation. The corresponding verb
 occurs in Polynesian languages with somewhat altered meaning (Samoan foa 'break rock or
 shell', Hawaiian hoa 'strike with stick or club'). Together with the WOc cognates, Iduna (PT)
 fua- 'crush' , Motu (PT) huari 'smash, as pottery' and Tolai puar 'break (cup, glass +)' they
@@ -5749,7 +5044,7 @@ the Melanesia/Polynesia border area.
 
 
 
-                                 Figure 12: POc *ike 'tapa beater'
+Figure 12: POc *ike 'tapa beater'
 
    Although terms can be located in WOc, none are cognate, and no POc term is reconstructable,
 apart from terms for the sources of raw material, POc *m("')ase 'wild mulberry, paper
@@ -6161,7 +5456,7 @@ POc *bara 'plaited cane armlet '
 >
 
 
-              Figure 13: POc *bara 'pla ited cane armlet' (from Nevermann 1 934: 1 5 1 )
+Figure 13: POc *bara 'pla ited cane armlet' (from Nevermann 1 934: 1 5 1 )
 
    Spriggs ( 1 9 9 7 a : 8 8 ) l ists the distinctive range of shell ornaments recovered from Lapita
 sites such as Eloaua in the Admiralties, Balof (New I reland) and Arawe I s lands south-west of
@@ -6283,7 +5578,7 @@ POc *tuRi 'sew, thread, string together'
 
 4.5.5. 1 Comb
 
-                               Figure 14: POc *saRu 'comb'
+Figure 14: POc *saRu 'comb'
 
 <
 
@@ -6369,8 +5664,10 @@ POc *tapuRi(q) 'triton shell: Charonia tritonis, used as trumpet'
 
 
 
-      Figure 15: POc *tapuRi(q)                                            POc *kauR 'bamboo wind
-       'triton shell trumpet' (from Nevermann 1 93 3:2 1 8)                instrument'
+Figure 15: POc *tapuRi(q)
+       'triton shell trumpet' (from Nevermann 1 93 3:2 1 8)
+      POc *kauR 'bamboo wind
+      instrument'
 
   In Polynesia the triton shell trumpet is generally known as puu, an onomatopaeic word
 which in many languages is associated with concepts of blowing.
@@ -6453,7 +5750,7 @@ found on Mala [Malaita] and Ulawa".
 
 
 
-                            Figure 1 6 : POc *kude 'hourglass drum'
+Figure 1 6 : POc *kude 'hourglass drum'
 
 POc *kude 'hourglass drum'
   NNG: Kilenge            kure               'slitgong drum'
@@ -6586,7 +5883,7 @@ POc *sapu(r), *sapur-i- 'brush (dirt +) off (s.t.)' (where 's.t . ' is the objec
 >
 
 
-                                   Figure 17: POc *salap 'broom'
+Figure 17: POc *salap 'broom'
 
 <
 
@@ -6667,7 +5964,7 @@ POc *quLu1J-an 'rest the head on; wooden headrest' (ACD)
 
 
 
-           Figure 1 8 : POc *qulu1J-an 'wooden headrest' (from Nevermann 1 934:27 1 )
+Figure 1 8 : POc *qulu1J-an 'wooden headrest' (from Nevermann 1 934:27 1 )
 
 <
 
@@ -6896,9 +6193,9 @@ following item betrays a similar pattern.
 
 <
 
-POc *brv)aku(r,R) 'work a garden ' (Dempwolff 1 9 3 8 : POc *(p,b)agur (V) 'hoe')
+POc *(b,bʷ)aku(r,R) 'work a garden ' (Dempwolff 1 9 3 8 : POc *(p,b)agur (V) 'hoe')
   PT:    Gumawana        bagula            'work in a garden'
-                         baguli            'plant (s.L)' (perhaps < POc **brv)aku(r,R)-i)
+                         baguli            'plant (s.L)' (perhaps < POc **(b,bʷ)aku(r,R)-i)
   PT:    Kalokalo        bagula            'garden'
   PT:    Bwaidoga        bakula            'garden'
   PT:    Sudest          bakubaku          'ground (cleared near house)'
@@ -6910,8 +6207,8 @@ POc *brv)aku(r,R) 'work a garden ' (Dempwolff 1 9 3 8 : POc *(p,b)agur (V) 'hoe'
 Ross ( 1 994a) has reconstructed Proto Central Papuan *vdmayula 'do work ' (Hula ina yulu ,
 Lala vinaula , Kuni bilaula , East Mekeo pinauna). Central Papuan languages reflect POc
 final consonants only in borrowings from other PT languages, so *v<imayula points to PPT
-*bdmaqura, POc *brv)dmaku(r,R). The presence of the nominaliser * <im suggests that
-*brv)aku(r,R) was a verb.
+*bdmaqura, POc *(b,bʷ)dmaku(r,R). The presence of the nominaliser * <im suggests that
+*(b,bʷ)aku(r,R) was a verb.
 
 
 
@@ -7179,7 +6476,7 @@ POc *papo 'weed (a garden +)' (ACD)
 >
 <
 
-POc *rabutl*rubat 'uproot' (French-Wright 1 983 has *(R,d)amput 'uproot ')
+POc *rabut/*rubat 'uproot' (French-Wright 1 983 has *(R,d)amput 'uproot ')
   MM: Tolai               rubat              'root up, pull up by the roots, raise taro +'
   MM: Roviana             rabutu             'pull out by the roots'
   SES: 'Are'are           rahu-i             'pull out, down, of grass, shrubs, trees, plants'
@@ -7348,7 +6645,8 @@ POc *kaRi 'garden fence or partition'
 >
 <
 
-POc *bayat 'fence, boundary marker', *bayat-i- 'make a garden boundary'
+POc *bayat 'fence, boundary marker'
+POc *bayat-i- 'make a garden boundary'
     PT:    Gumawana         bayata              'garden boundary made by terracing rocks '
                             bayasi             'make a garden boundary'
     PT: Iduna               bai                'stick used as garden boundary; roof baton'
@@ -7540,7 +6838,7 @@ suckers that grow around the 'mother' taro. Alternatively, these are simply left
 after the mature taro has been harvested. Reconstructed terms for this propagation material
 may refer to other plants in addition to taro. They are POc *(sJ)uli(q) 'banana or taro sucker,
 slip, cutting, shoot (i.e. propagation material)'; POc *wasi 'taro stem, used for planting'; POc
-*bwal)o 'taro tops, top shoots of areca nut, coconut' and POc *up(e,a) 'taro seedling'.
+*bʷaŋo 'taro tops, top shoots of areca nut, coconut' and POc *up(e,a) 'taro seedling'.
 
 <
 
@@ -7577,11 +6875,11 @@ POc *wasi 'taro stem' (Ross 1 996d)
 >
 <
 
-POc *bwal)o 'new leaves or shoots, (or taro tops for planting?)' (Ross 1 996d)
-  NNG: Manam             bal)              'taro'
+POc *bʷaŋo 'new leaves or shoots, (or taro tops for planting?)' (Ross 1 996d)
+  NNG: Manam             baŋ              'taro'
   PT:  Tawala            pam               'edible green leaves (e.g. taro leaves)'
-  SES: Lau               gWal)o            'taro tops (for planting)'
-  SES: Arosi             bWal)o-bwal)o     'the top shoots of betel nut/coconut, taro for
+  SES: Lau               gWaŋo            'taro tops (for planting)'
+  SES: Arosi             bʷaŋo-bʷaŋo     'the top shoots of betel nut/coconut, taro for
                                            planting'
 >
 
@@ -7625,7 +6923,7 @@ Southeast Solomons and Micronesia have also come to apply specifically to the ac
 cutting off tuber tops.
 
 POc *koti 'cut off (hair, taro tops +)'
-  NNG: Manam              ?oti(f))         'cut off taro tops for planting'
+  NNG: Manam              ?oti(ŋ)         'cut off taro tops for planting'
   NNG: Sengseng           kot              'cut leaves for roof material or bark from a tree'
   MM: Nakanai             koti             'cut hair'
   SES: Gela               goti             'cut off, as taro head in planting'
@@ -7665,7 +6963,7 @@ Ross suggests that this can probably be combined with the cognate set below.
 
 <
 
-PNGOc *kCW)apii 'k.o. yam'
+PNGOc *(k,kʷ)apii 'k.o. yam'
     NNG: Tami                 kWapil              'k.o. yam, Dioscorea vulg. '
     NNG: Numbami              kowila              'greater yam'
     NNG: Yabem                kili                'greater yam'
@@ -8375,7 +7673,7 @@ Note that the Central Pacific terms have unexplained vowel fronting.
 
 
 
-                    Figure 19: POc *suka, *suka-i 'make fire with fire plough '
+Figure 19: POc *suka, *suka-i 'make fire with fire plough '
 
 <
 
@@ -8489,7 +7787,7 @@ POc *alito(n) 'firebrand'
 >
 
 
-                        Figure 20: POc *sulu 'dry coconut leaf torch'
+Figure 20: POc *sulu 'dry coconut leaf torch'
 
    A burning brand, typically made from coconut fronds, served as a torch.
 
@@ -8636,7 +7934,7 @@ POc *kapit 'tongs' ; *kapi(t), *kapit-i- 'grasp (with tongs)' (Grace 1 969). (A 
  show unexpected-s, via palatisation before* -i; Lichtenberk reconstructs *kapis.)
   Adm: Loniu               (pele)'lip          'tongs made from bamboo strips'
   Adm: Lou               klp-klplt           'tongs, forceps '
-  NNG: Bing              kap-kapi(I))        'tongs (made of bamboo)' (- I) NOM)
+  NNG: Bing              kap-kapi(ŋ)        'tongs (made of bamboo)' (- I) NOM)
   NNG: Yabem             kapi(l))            'clamp made of two pieces of wood tied together
                                             (used in sago washing); scissors, pincers, tweezers'
                                             (- I] NOM)
@@ -8660,7 +7958,7 @@ POc *kapit 'tongs' ; *kapi(t), *kapit-i- 'grasp (with tongs)' (Grace 1 969). (A 
 
 
 
-                  Figure 21: POc *kapit 'tongs' (from Nevermann 1 9 3 3 : 1 02)
+Figure 21: POc *kapit 'tongs' (from Nevermann 1 9 3 3 : 1 02)
 
   Lichtenberk adds a number of other terms which, as well as being used in relation to oven
 cooking, probably also have more general reference:
@@ -9321,8 +8619,11 @@ designed so that water could run off from one end. Only isolated terms have been
 
 
 
-Figure 2 2 : taro stamper (no reconstruction)           PWOc *walu 'sago beater'
-(from Nevermann 1 934: 1 92)                            (from Nevermann 1 934: 1 74)
+Figure 2 2 : taro stamper (no reconstruction)
+(from Nevermann 1 934: 1 92)
+PWOc *walu 'sago beater'
+(from Nevermann 1 934: 1 74)
+
 
    As Blust (ACD) notes, terms dealing with the action of pounding frequently contain the
 root *-tuk. A number of reconstructions have been made which evidently refer to hitting,
@@ -9403,7 +8704,8 @@ PEOc *kaRi 'scraper; bivalve sp., used as a scraper' (Geraghty 1 990)
 
 
 
-                 Figure 23: POc *kaRi, POc *koRi 'bivalve used as food scraper'
+Figure 23: POc *kaRi, POc *koRi 'bivalve used as food scraper'
+
                                                                                    Food preparation     163
 
 <
@@ -9729,7 +9031,7 @@ POc *Runutl *nuRut 'sheath around base of coconut frond, used as strainer'
        NCV : Mota             nir
        SES: Sa'a              unu              'fibrous spathe of a coconut frond, used for
                                                straining cream from grated coconuts'
-       Mic :   Kiribatese     if)              'coconut cloth '
+       Mic :   Kiribatese     iŋ              'coconut cloth '
        Mic:    Puluwat        wvn              'coconut cloth '
        Mic:    Ulithi         vi               'coconut cloth '
        Fij:    Bauan          unu              'straining cloth for kava, traditionally a fibrous
@@ -10370,7 +9672,7 @@ an earlier meaning such as 'canoe hull' or 'small outrigger canoe'.
 
 
 
-                    Figure 2 4 :  POc *waga 'canoe' (after Koch n.d.: 1 47)
+Figure 2 4 :  POc *waga 'canoe' (after Koch n.d.: 1 47)
  POc *kati(R) '(small) outrigger canoe or canoe hull',  POc *(q)oRa 'topstrake',  POc *soka(r)
  'thwart',  POc *muri- 'stern ',  POc *muqa- 'front, bow',  POc *patar 'platform, decking',
  POc *saman 'outrigger float',  POc *kiajo 'outrigger boom',  POc *patoto 'connective sticks
@@ -10708,10 +10010,10 @@ metal tools, it is likely that this knowledge spread after the break-up of PAn a
 
 <
 
-PMP *sef)kar 'cross-seat in boat, thwart' (after Blust 1 972b)
- WMP: Iban                sef)ka
- WMP: Malay               sef)kar
- WMP: Tagalog             saf)kal
+PMP *seŋkar 'cross-seat in boat, thwart' (after Blust 1 972b)
+ WMP: Iban                seŋka
+ WMP: Malay               seŋkar
+ WMP: Tagalog             saŋkal
 POc *soka(r) ( 1 ) 'thwart '; (2) 'bracing timber, crossbeam ' (cf. Ch. 3, §3 .4)
      Mic:     Kiribatese        oka                  'rafter of house going from horizontal beam to
                                                      ridgepole'
@@ -10728,7 +10030,7 @@ POc *soka(r) ( 1 ) 'thwart '; (2) 'bracing timber, crossbeam ' (cf. Ch. 3, §3 .
 <
 
    There is no well-supported PMP reconstruction for 'dugout underbody of canoe (to which
-planking is added)' or for 'keel of built-up canoe' although *ba(f))ka(q) (§2 . 1 ) is a candidate
+planking is added)' or for 'keel of built-up canoe' although *ba(ŋ)ka(q) (§2 . 1 ) is a candidate
 for the former. Such a term is, however, clearly reconstructable for PCP:
 
 PCP *takele 'keel or dugout underbody to which planking is added'
@@ -10788,7 +10090,7 @@ See also PPn *tau-muri 'afterdeck' (§2. 1 0)
 
 POc *muqa- 'front, bow of boat'
      Adm:    Mussau           mua            'bow'
-     NNG:    Gedaged          muga(f))       'front part, bow of boat' [12]
+     NNG:    Gedaged          muga(ŋ)       'front part, bow of boat' [12]
      MM:     Roviana          (ke)mua        'bow'
      Fij :   Bauan            mua            'tip, point, front'
                               mua (e liu)    'prow of boat'
@@ -10806,7 +10108,7 @@ See also PPn *tau-mu ?a 'foredeck ' (§2 . 1 0).
 7.2.9 Carved projecting end-pieces
 
 
-          Figure 25: POc *ijUIJ 'projecting headboard of prow' (from Nevermann 1 934:285)
+Figure 25: POc *ijUIJ 'projecting headboard of prow' (from Nevermann 1 934:285)
 
 <
 
@@ -11484,7 +10786,7 @@ POc *Lima(s), *nima(s) 'bailer'
 >
 
 
-                   Figure 26: POc *Lima(s) or *nima(s), POc *asu 'bailer'
+Figure 26: POc *Lima(s) or *nima(s), POc *asu 'bailer'
 
 <
 
@@ -12042,7 +11344,7 @@ POc *kup(IV)ena 'fishing net' (Blust 1981)
      Pn:      Tongan              kupel)a[2]           'fishing net: generic '
      Pn:      Rennellese          kupel)a[2]             'net: generic' (usually refers to fishing net)
 
-      The fourth term, *kupi)ena, is the most widespread term of the four, and arguably the
+      The fourth term, *ku(p,pʷ)ena, is the most widespread term of the four, and arguably the
 best bet for a POc generic term for fishing nets. Our files list more than forty cognates from
 a l l major subgroups. In Tuvalu (Koch n.d. : 3 0 ) the kupeIJa is "a primitive kind of net .. . large
 and heavy and knotted from rolled coconut fibre twine . . . affixed to two poles tied together at
@@ -12065,7 +11367,7 @@ kupel)a fukifuki 'pole net for reef work') a n d mala kupel)a referring t o net 
 
 
 
-                            Figure 27a: POc *kup(IV)ena 'fishing net' - generic term.
+Figure 27a: POc *kup(IV)ena 'fishing net' - generic term.
                                               ( from Nevermann 193 3:89)
 
 
@@ -12074,13 +11376,13 @@ kupel)a fukifuki 'pole net for reef work') a n d mala kupel)a referring t o net 
 
 
 
-  Figure 27b : Possibly POc *pukot 'a seine net ', with wooden floats (POc *utof)) and stone
+Figure 27b : Possibly POc *pukot 'a seine net ', with wooden floats (POc *utoŋ) and stone
                         sinkers (POc *patu ) (from Nevermann 1933:89)
 
 
 
 
- Figure 27c: Another kind of *kup(W)ena . We lack a specific reconstruction for a handnet.
+Figure 27c: Another kind of *kup(W)ena . We lack a specific reconstruction for a handnet.
                                 (from Nevermann 193 3:89)
 
 <
@@ -12088,7 +11390,7 @@ kupel)a fukifuki 'pole net for reef work') a n d mala kupel)a referring t o net 
    The techniques that involve large nets usually requ ire use of floats and sinkers. We have a
 reconstruction for net float:
 
-POc *utof) 'float of fishing net'
+POc *utoŋ 'float of fishing net'
  NNG: Gitua              uton
  PT:  Bwa idoga          utoya
  MM: Nakanai             uto               'handle or stick of fish net'
@@ -12138,7 +11440,7 @@ POc *sika 'netting needle'
 
 
 
-                             Figure 28: POc *sika 'netting needle'
+Figure 28: POc *sika 'netting needle'
 
 <
 
@@ -12248,7 +11550,7 @@ crook' (Ch. 5, § l O), but the origin of this relationship is not understood.
 
 
 
- Figure 29: POc *kawil 'fish hook ', POc *ra(g,k)o '(barbless?) fish hook '. On the left is a
+Figure 29: POc *kawil 'fish hook ', POc *ra(g,k)o '(barbless?) fish hook '. On the left is a
             coconut shell fish hook; on the right is a wooden two-piece fish hook
 
 <
@@ -12297,7 +11599,7 @@ scales.
 
 
 
-                      Figure 30: POc *bayan 'trolling lure, trolling hook'
+Figure 30: POc *bayan 'trolling lure, trolling hook'
 
 <
    We have evidence, both archaeological and linguistic, that trolling lures were also widely
@@ -12348,7 +11650,7 @@ similar but, it appears, not cognate.
 
 <
 
-PCEMP *panif) 'bait; fodder' (ACD)
+PCEMP *paniŋ 'bait; fodder' (ACD)
 POc *bani 'bait'
  NNG: Gitua                 bani
  PT:   Tawala               bani
@@ -12357,8 +11659,8 @@ POc *bani 'bait'
  MM: Ramoaaina              ban                    'bait; use for bait'
  Mic: Ponapean             pan                    'bait, lure'
 
-A form PMPIPOc *baf)i 'bait', is reconstructable on the basis of Javanese baf)i 'bait' and the
-obsolete Samoan paf)i 'coconut bait for flying fish' . Its relationship to the reconstructions
+A form PMPIPOc *baŋi 'bait', is reconstructable on the basis of Javanese baŋi 'bait' and the
+obsolete Samoan paŋi 'coconut bait for flying fish' . Its relationship to the reconstructions
 above is unclear.
 
 [3]   Chowning (pers.comm.) points out that the Molima, and also the inhabitants of Goodenough Island, traditionally
@@ -12388,7 +11690,7 @@ POc *pupu 'basketry fish trap'
 
 
 
-              Figure 3 1 : POc *pupu 'basketry fish trap' (from Nevermann 1934:226)
+Figure 3 1 : POc *pupu 'basketry fish trap' (from Nevermann 1934:226)
 
 The term is widely attested. It is noteworthy that we have no Polynesian cognates. Instead we
 find PPn *finaki ([ongan finaki, Rarotongan ?inaki 'fish trap'; Hawaiian hina?i 'k.o. basket
@@ -12579,7 +11881,7 @@ POc *qio(r,R) 'spear, arrow' (Ross 1994a:464)
 
 
 
-         Figure 32: POc *qio(r,R), POc *sao(t), POc *bako all 'spear' or 'k.o. spear'
+Figure 32: POc *qio(r,R), POc *sao(t), POc *bako all 'spear' or 'k.o. spear'
                     (the above are Admiralties spears from Nevermann 1934:345)
 
 As a subset of the above, certain NNG languages have inserted a medial consonant derived
@@ -12622,9 +11924,7 @@ indeed referred to a multi-pronged fish spear.
 
 
 
-
-   -===�
-                      Figure 33: POc *kuj(u,i)r, POc *tara 'fish spear'
+Figure 33: POc *kuj(u,i)r, POc *tara 'fish spear'
 
 <
 
@@ -12735,7 +12035,7 @@ POc *tibWa(lJ) 'dart, arrow (not a fighting weapon)' (Ross 1994a:464), *tibwalJ-
   Pn:     Maori          teka              'dart used in a traditional game'
   Pn:     Hawaiian       ke?a              'dart, bow; shoot with bow and arrow'
 
-The glosses of the reflexes of POc *tibWa(f)) suggest strongly that it referred prototypically to
+The glosses of the reflexes of POc *tibWa(ŋ) suggest strongly that it referred prototypically to
 small, arrow-like objects or darts that did not have a killing function. The initial-consonant
 voicing of the PT forms (other than Dobu tupu, which may not be cognate) is unexplained.
 
@@ -12901,9 +12201,9 @@ POc *pWita, *pWita-i- (N) 'snare', (V) 'tie by encircling, ensnare'
   SES:   W. Guad.        piti                 'tie'
   SES:   Longgu          piti-                'trap an animal's leg; tie s.t. around ankle or wrist'
   Pn:    Tokelau         fi-fita              '(garments) be too tight'
-  Pn:    Maori           ¢ita                 'firm, secure, fast'
+  Pn:    Maori           ɸita                 'firm, secure, fast'
 
-With regard to the reconstruction of *p�) , see Chapter 2, §2. 1 .
+With regard to the reconstruction of *(p,pʷ), see Chapter 2, §2. 1 .
 
 >
                                                       Fishing and hunting implements            229
@@ -13182,7 +12482,7 @@ by the first two reconstructions in §2. 1 . In the first pattern, the intransit
 and ends in a consonant (shown in brackets if it is not reflected in the supporting data), and
 the transitive alternant has an added *-i-. e.g. POc *asa(q), *asaq-i- 'grate, sharpen by grating
 or rubbing'. The hyphen on the transitive means that it was usually followed by an enclitic
-object pronoun. In the second pattern, represented by POc *kiri[-J 'file, rasp, saw', there is no
+object pronoun. In the second pattern, represented by POc *kiri[-] 'file, rasp, saw', there is no
 final consonant, and the intransitive and transitive are identical, with two syllables. The
 hyphen in square brackets indicates that nothing follows the intransitive alternant, but that an
 enclitic object pronoun follows the transitive.
@@ -13197,8 +12497,8 @@ cognate set what verb class a given intransitive verb belonged to. This means th
 of intransitive verb reconstructions are sometimes vague, because we do not know whether
 the actor or the undergoer was the subject.
     Another alternation that occurs, but has nothing to do with transitivity, is between a
-reconstruction with an oral-grade initial consonant, like POc *kiri[-J 'file, rasp, saw', and one
-with a nasal-grade initial consonant, like POc *giri[-J 'file, rasp'. Where such an alternation
+reconstruction with an oral-grade initial consonant, like POc *kiri[-] 'file, rasp, saw', and one
+with a nasal-grade initial consonant, like POc *giri[-] 'file, rasp'. Where such an alternation
 is reconstructed, the alternant reconstructions are labelled ( 1 ) and (2). The possible origins of
 this alternation are discussed in Chapter 2, §3 . 1 . 3.
     A practical problem in the analysis for this chapter was that it is often necessary to
@@ -13266,7 +12566,7 @@ POc *i-asa(q) 'grater; anything used to grate, grind' (Lichtenberk 1 994)
 <
 
 PMP *kirkir (V) 'file, rasp' (Blust 1 977)
-(1) POc *kiri{-] 'file, rasp, saw'
+(1) POc *kiri[-] 'file, rasp, saw'
    NNG: Roinji              kiri-              'bore (hole)'
    NNG: Manam               kuiri-             'bore (hole)'
    PT:  Iduna               kili-Ii            'pumice stone'
@@ -13278,7 +12578,7 @@ PMP *kirkir (V) 'file, rasp' (Blust 1 977)
 >
 <
 
-(2) POc *giri{-] 'file, rasp'
+(2) POc *giri[-] 'file, rasp'
    NNG: Mangseng            kir                'rub, file'
                             kir(o1Ja)          (N) 'file' (-o1Ja NOM)
    SES:        Gela          gi-giri           (N) 'rasp; a saw'
@@ -13484,7 +12784,7 @@ PEOc *kaRi 'scraper; bivalve sp., used as a scraper' (Geraghty 1 990)
 >
 <
 
-POc *koRi[-J 'scraper; bivalve sp., used as a scraper; scrape with a shell'
+POc *koRi[-] 'scraper; bivalve sp., used as a scraper; scrape with a shell'
    NNG: Manam              'Iori(lJ)          'scrape coconuts'
                            'Iori-'Iori        'pearlshell, traditionally used to scrape coconuts;
                                               coconut grater, scraper'
@@ -13537,7 +12837,7 @@ POc *kasi[-} 'k.o. mussel, used as food scraper; scratch, scrape out or off' (Li
 <
 
 PAn *keskes 'scratch, scrape' (ACD)
-POc *kosi[-J 'scrape, scratch (to mark s.t.)'
+POc *kosi[-] 'scrape, scratch (to mark s.t.)'
    SES:    Gela            kohi                 'scrape'
    Pn:     Tongan          kohi                 'scratch with a sharp point'
    Pn:     Samoan          'losi                'scratch'
@@ -13548,7 +12848,7 @@ POc *kosi[-J 'scrape, scratch (to mark s.t.)'
    There are three other reconstructions which overlap semantically with those above. They
 are:
 
-POc *rasi[-J             'grate, scrape (tubers, coconuts); scratch'
+POc *rasi[-]             'grate, scrape (tubers, coconuts); scratch'
 PEOc *saqalo             'scrape, clean by scraping; rub smooth'
 PEOc *paro(s), *paros-i- 'chafe, of skin; scrape'
 
@@ -13667,7 +12967,7 @@ POc *quju(r), *qujur-i- 'rub, make smooth by rubbing'
 <
 
 PMP *bulu 'wash' (Dempwolff 1 938)
-POc *pulu[-J 'rub to make clean, wash'
+POc *pulu[-] 'rub to make clean, wash'
   SES:    Lau            fulu, fulu-        'clean, wipe, rub off dirt, wash away earth (of
                                             rain'
   SES:    Tolo           vuli(a)            'wash (hands, clothes +)'
@@ -13725,7 +13025,7 @@ POc *sapu(r), *sapur-i- 'brush (dirt +) off (s.L)' (where 's.t.' is the object)
 >
 <
 
-POc *tapi[-J 'dust off, brush lightly'
+POc *tapi[-] 'dust off, brush lightly'
    PT:     Motu             tahi-               'dig out; (fowls +) scratch'
    PT:     Minaveha         tapi-               'dust off (ashes from food +)'
    MM:     Sursurunga       tahi                'sweep out, clean out'
@@ -13740,7 +13040,7 @@ POc *tapi[-J 'dust off, brush lightly'
 >
 <
 
-POc *saRo[-J 'wipe, sweep'
+POc *saRo[-] 'wipe, sweep'
    PT:     Motu             daro                'sweep; adze a plank'
    PT:     Lala             dalo                'sweep'
                                                                               ,
@@ -13814,7 +13114,7 @@ POc *taRa(q) (N. V) 'adze'; *taRaq-i- 'chop with adze'
 as a verb in some languages. It is possible that the verb *koti (§3. 1 ) is derived from this, but
 we cannot be sure.
 
-POc *koto[-J 'obsidian head of spear, obsidian knife or blade; cut (across)'
+POc *koto[-] 'obsidian head of spear, obsidian knife or blade; cut (across)'
    NNG:    Dami            oto                   'spear'
    NNG:    Lukep           koto                  'cut across grain'
    NNG:    Wab             kot                   'cut'
@@ -13848,13 +13148,13 @@ were cut. In other cases it is difficult to reconstruct semantic distinctions. R
 verbs are:
 
 POc  *utu(s), *utus-i­           'sever, separate'
-POc  *kutu[-J                    'cut'
+POc  *kutu[-]                    'cut'
 POc  *ma-utus, *motus            'become, be broken off, severed'
 POc  *muju                       'be clipped off'
      *mujuki-                    'clip off (protruding growth close to the surface)'
-POc *koti[-J                     'cut off (hair, taro tops +)'
-POc *paRi[-J                     'cut or lop off branches'
-POc *pwuti[-J                    'cut off'
+POc *koti[-]                     'cut off (hair, taro tops +)'
+POc *paRi[-]                     'cut or lop off branches'
+POc *pwuti[-]                    'cut off'
 POc *siba                        'cut, slice'
 PEOc *polos, *polos-i            'cut across , sever'
                                           Acts oj impact, Jorce and change oj state             247
@@ -13888,7 +13188,7 @@ POc *utu(s), *utus-i- 'sever, separate'
 >
 <
 
-POc *kutu[-J 'cut'
+POc *kutu[-] 'cut'
    NNG:      Singorakai    kuta
    NNG:      Kis           (a)kuto            'cut (meat +)'
    MM:       Vitu          yutu(valayi)       'split (wood)'
@@ -13976,7 +13276,7 @@ POc *muju 'be clipped off', *mujuki- 'clip off (protruding growth close to the s
 
 <
 
-POc *koti[-J 'cut off (hair, taro tops +)'
+POc *koti[-] 'cut off (hair, taro tops +)'
    NNG:    Manam           ?oti(1))            'cut off taro tops for planting'
    MM:     Nakanai         koti               'cut or shave off hair (with obsidian)'
    MM :    Siar            kot                'cut'
@@ -14014,7 +13314,7 @@ POc *paRi[-] 'cut or lop off branches' (ACD)
 >
 <
 
-POc *pWuti[-J 'cut off'
+POc *pWuti[-] 'cut off'
   NNG:     Malai           (i)but             'cut (meat +)'
   NNG:     Megiar          (i)Juti            'chop'
   MM:      Madak           pit                'cut (meat +)'
@@ -14093,7 +13393,7 @@ POc *toki 'cut, chop'
 >
 <
 
-POc *p("')asi[-J 'cut up, cut off, cut lengthwise'
+POc *p("')asi[-] 'cut up, cut off, cut lengthwise'
    Adm:       Mussau       pasi                'cut (meat +), split (wood)'
    NNG:       Takia        pasi                'cut away tree branches'
    MM :       Torau        pa-pasi             'chop'
@@ -14303,7 +13603,7 @@ POc *kolo(lJ) 'cut'
 
 <
 
-POc *supi[-J 'pare, shave, sharpen'
+POc *supi[-] 'pare, shave, sharpen'
    Adm: Mussau              supi               'sharpen the point (of a stick +)'
                                                                  ,
    NNG: Kove                supi-              'sharpen (stick)
@@ -14410,7 +13710,7 @@ POc *kulit, *kulit-i- (N) 'skin'; (V) 'peel, remove skin of s.t., bark (a tree)'
    The three items below have obvious formal and semantic similarities. The reconstructed
 forms and meanings are:
 POc *isi[-]  'scoop out (flesh from coconut +); peel off (skin, bark +)'
-POc *sisi[-J 'scoop out (flesh from coconut +); peel off (skin, bark +)'
+POc *sisi[-] 'scoop out (flesh from coconut +); peel off (skin, bark +)'
 POc *Risi(q) 'remove by tearing, tear or peel off (bark +) in long narrow strips'
 
   Blust (ACD) notes CMP cognates of POc *isi (Roti isi 'peel onion +, scale fish', Kei isi(n)
@@ -14507,7 +13807,7 @@ e.g. as a preliminary to splitting (i.e. *Risi(q) above) pandanus leaves.
 <
 
 PAn *testes 'tear, tear up' (Blust 1 977)
-POc *tosi[-J 'score, split, pull apart lengthwise'
+POc *tosi[-] 'score, split, pull apart lengthwise'
    SES:       Arosi         osi                'cut, score'
    SES:       Lau           osi                'pull to pieces, as a house'
    Fij :      Wayan         tooi-               'cut (e.g. pandanus leaves) into fine strips, trim,
@@ -14529,7 +13829,7 @@ POc *tosi[-J 'score, split, pull apart lengthwise'
 >
 <
 
-POc *sali[-J 'strip leaves from branch, frond'
+POc *sali[-] 'strip leaves from branch, frond'
    NNG:       Lukep        sali                'strip leaves from a branch or palm frond'
    SES:       Gela         sali                'tear downwards'
    SES:       Arosi        tari                'strip off'
@@ -14544,7 +13844,7 @@ POc *sali[-J 'strip leaves from branch, frond'
 adze), whittle', is referred to in §3.3. Note, however, that Gela sapi formally reflects *sapwi
 rather than *sapi, and is included below on semantic grounds:
 
-PEOc *sapi[-J 'strip (leaves); pluck (fruit, nuts)
+PEOc *sapi[-] 'strip (leaves); pluck (fruit, nuts)
    SES:       Gela         sapi                'pluck fruit from a bunch; strip off leaves'
    SES:       Lau          taJi                'lop off; take off midrib of sago palm leaf'
    SES:       'Are'are     tahi                'strip off leaves; cut into slices'
@@ -14569,7 +13869,7 @@ POc *papak 'peel bark'
 <
 
 PMP *gatgat 'chew up' (Blust 1 977)
-POc *kati[-J 'husk with the teeth '
+POc *kati[-] 'husk with the teeth '
    Adm: Titan              at                 'chew, bite'
    NNG: Kaiwa              ati                'bite'
    MM: Tolai               kat                'gnaw, pull the husk of a coconut or bete1nut
@@ -14622,7 +13922,7 @@ sometimes also mean 'split', but this was not its primary meaning.
 <
 
 PMP *belaq 'split (s.t.); part of something split' (ACD)
-POc *prw)olaq, *pCW)ola(q)-i- 'split (wood +)'
+POc *(p,pʷ)olaq, *(p,pʷ)ola(q)-i- 'split (wood +)'
    PT:       Motu           pola(i)           (VT) 'split a log into two or four pieces'
    MM:       Nakanai        (sulu)pola        'split (wood)'
    MM:       Meramera       (val)pole         'split (wood)'
@@ -14829,9 +14129,9 @@ other terms.
 
 POc       *(su)su(k)        'anything used to pierce, prick; (V) pierce, prick, sew'; *suki­
                             'pierce, prick, sew (mats)'
-POc       *tuRi[-J          'sew, thread, string together'
+POc       *tuRi[-]          'sew, thread, string together'
 POc       *(su)suRi[-]      'bone (needle); sew'
-POc       *s(u,i)ri[-J      'pierce, poke' (Blust 1 998)
+POc       *s(u,i)ri[-]      'pierce, poke' (Blust 1 998)
 POc       *soka, soka-i-    (V) 'pierce; stab, poke hole in (s.t.)'
 POc       *sua              (N, v) 'spear (weapon retained in the hand)'
 
@@ -14853,7 +14153,7 @@ POc *(su)su(k) 'anything used to pierce, prick'; (V) 'pierce, prick, sew'
 >
 <
 
-POc *suki[-J 'pierce, prick, sew (mats)'
+POc *suki[-] 'pierce, prick, sew (mats)'
   Adm:      Titan           sus, su-suwi        'sew up, stitch, plait'
   Adm:      Mussau          sui                 'sew'
   NNG:      Bing            suk                 'throw (a spear)'
@@ -14879,7 +14179,7 @@ POc *suki[-J 'pierce, prick, sew (mats)'
 <
 
 PAn *CuSuR 'string together (beads +)' (ACD)
-POc *tuRi[-J 'sew, thread, string together'
+POc *tuRi[-] 'sew, thread, string together'
   PT:   Motu               turi                 'plait an armlet, sew, string fish together'
   PT:   Magori             turi                 (V) 'thread, sew'
   PT:   Lala               kuli(kuli)           'sew (with thread)'
@@ -14898,7 +14198,7 @@ POc *tuRi[-J 'sew, thread, string together'
 >
 <
 
-POc *(su)suRi[-J 'bone (needle); sew'
+POc *(su)suRi[-] 'bone (needle); sew'
    Adm: Mussau             sui                  'sew (mats), thatch'
    MM: Roviana             susuri(na)           'bone'
    SES: Sa'a               suli(teru)           'bone needle' (suli 'bone')
@@ -14909,7 +14209,7 @@ POc *(su)suRi[-J 'bone (needle); sew'
 >
 <
 
-POc *s(u,i)ri[-J 'pierce, poke' (Blust 1 998)
+POc *s(u,i)ri[-] 'pierce, poke' (Blust 1 998)
    Adm:     Mussau         suli                 'sew (mats), thatch'
    Adm:     Lou            sur                  'pierce'
    NNG:     Mangseng       sir                  'poke, puncture, drill'
@@ -15306,7 +14606,7 @@ PMP *buTuk 'knock, pound, beat' (ACD)
 
 <
 
-POc *qatu(I)), qatul)-i- 'strike from above, pound' (ACD: *qatu)
+POc *qatu(ŋ), qatuŋ-i- 'strike from above, pound' (ACD: *qatu)
    NNG: Kove               watu               'break a nut by hitting it with a stone' (watu
                                               lJani patu)
    NNG:    Malalamai       atu                'hit'
@@ -15323,7 +14623,7 @@ POc *qatu(I)), qatul)-i- 'strike from above, pound' (ACD: *qatu)
    MM:     Banoni       cum                   'hit'
     MM:      Maringe           aknu                'hit, beat'
     SES:     Lau               sau(kata)           'pound in a mortar'
-    SES:     Baegu             sauf)i-             'kill'
+    SES:     Baegu             sauŋi-             'kill'
     SES:     'Are'are          rauni-              'kill'
     SES:     Sa'a              sau                 'kill, pound (taro), ram, (wind) blow strong;
                                                    pound (taro and canarium nuts at a feast)'
@@ -15331,7 +14631,7 @@ POc *qatu(I)), qatul)-i- 'strike from above, pound' (ACD: *qatu)
                                                    coconut frond'
     NCV: Mota                  atu                 'give single strokes in drumming while the
                                                    other performer is using both drum sticks'
-    NCV:     Nguna             atuf)i              'hit with stick or club; kill'
+    NCV:     Nguna             atuŋi              'hit with stick or club; kill'
     SV:      Lenakel           aru                 'hit, strike'
     Mic:     Woleaian          siu-siu             'pound (breadfruit +)'
     Mic:     Mokilese          wossou              'pound soaking breadfruit in preparation for
@@ -15456,7 +14756,7 @@ PCP *(v,b)asu 'a drum'; (V ) 'drum, thump'
     The first two reconstructions below, POc *pwosa(k), *pwosak-i- and POc *pwara(s), *pwaras-
 i-, refer to the breaking of brittle objects, among them the shell of an egg when a chick
 hatches. It is possible that these were intransitive verbs in POc and that their subject was the
-breaking object, e.g., the egg. POc *pCW)oga(q) (VI) 'burst open, split open' and POc *momo(k)
+breaking object, e.g., the egg. POc *(p,pʷ)oga(q) (VI) 'burst open, split open' and POc *momo(k)
 'break into small pieces' similarly seem to have been intransitive, and the latter may also
 have been used to refer to potsherds, crumbs, and so on.
     The remaining verbs in this subsection all appear to have been used transitively, with an
@@ -15512,7 +14812,7 @@ POc *pWara(s), *pwaras-i- '(egg) hatch; hatch out (chick), break (coconut +)'
 <
 
 PMP *beIJkaq 'split in two' (Dempwolff 1 938)
-POc *p�)oga(q) (VI) 'burst open, split open'
+POc *(p,pʷ)oga(q) (VI) 'burst open, split open'
    Adm: Drehet             pWok              'crack, split open (s.t. hard)
    NNG: Mangap             pok               'burst forth into the open, appear, come into
                                              view, break'
@@ -15781,7 +15081,7 @@ POc *paki 'pluck, break off Oeaves) with the hand'
 
 <
 
-POc *pati[-J 'break, snap s.t. off'
+POc *pati[-] 'break, snap s.t. off'
    Adm: Loniu                hat          'break up (firewood), pick or break off (corn,
                                                         ,
                                          but not fruit)
@@ -15853,7 +15153,7 @@ PMP *kinit 'pinch, nip, pluck' (ACD)
 
 <
 
-PEOc *suqi[-J 'take S.t. down (from a hook or branch) ,
+PEOc *suqi[-] 'take S.t. down (from a hook or branch) ,
       SES:    Gela           hui                 'take down from or off, as off a peg on the wall;
                                                  to unclothe'
       SES:    Bugotu         hui                 'take down, let down; cease'
@@ -15912,9 +15212,9 @@ extracted by squeezing. The last two items listed here referred to squeezing som
 holding it tight. There are several formal overlaps among the items in this section, and these
 are discussed below.
 
-POc *pr,w)ipr,w)i(t), *pr,w)iti­ 'press, wring, squeeze S.t. (e.g. in order to extract liquid)'
+POc *(p,pʷ)i(p,pʷ)i(t), *(p,pʷ)iti­ 'press, wring, squeeze S.t. (e.g. in order to extract liquid)'
 POc *popo(s), *pos-i­            'squeeze, press out'
-PNNG *pCW)isa(k), *pr,w)isak-i­ 'squeeze (grated coconut +)'
+PNNG *(p,pʷ)isa(k), *(p,pʷ)isak-i­ 'squeeze (grated coconut +)'
 POc *poRo(s), *poRos-i           'squeeze out, wring out (liquid)'
 POc *momo(s)                     'squeeze'
 282      Malcolm Ross, Ross Clark and Meredith Osmond
@@ -15926,7 +15226,7 @@ POc *gumu(t), *gumut-i-              'hold tight'
 <
 
 PMP *pitpit 'clamp, jam, pinch' (Dempwolff 1 93 8)
-POc *pCW)ipCW)i(t) 'press, wring, squeeze s.t. (e.g. in order to extract liquid)'
+POc *(p,pʷ)i(p,pʷ)i(t) 'press, wring, squeeze s.t. (e.g. in order to extract liquid)'
    NNG: Kove                vivi                   'squeeze (grated coconut +)'
    NNG: Poeng               viv(pele-)             'squeeze (grated coconut +)'
                             (kam)vivi-             'squeeze (out liquid,i.e. coconut), squeeze (in the
@@ -15949,7 +15249,7 @@ POc *pCW)ipCW)i(t) 'press, wring, squeeze s.t. (e.g. in order to extract liquid)
 >
 <
 
-POc *pCW)iti- 'press, wring, squeeze s.t. (e.g. in order to extract liquid)'
+POc *(p,pʷ)iti- 'press, wring, squeeze s.t. (e.g. in order to extract liquid)'
    Adm:        Lou          pit                    'squeeze juice out'
    Adm:        Drehet       peh                    'squeeze'
    NNG:        Kis          pti-ti                 'squeeze (grated coconut +)'
@@ -16059,7 +15359,7 @@ POc *poRos-i- 'squeeze out, wring out (liquid)'
    MM:     Siar           poros              'squeeze (grated coconut +)'
 
 It seems likely that in some languages reflexes of POc *poRo(s) 'squeeze out, wring out
-(liquid) and POc *piro[-J 'twist together' or PEOc *pilo(s), *pilos-i- 'make a cord by twisting
+(liquid) and POc *piro[-] 'twist together' or PEOc *pilo(s), *pilos-i- 'make a cord by twisting
 fibres on the thigh' have been conflated. Thus the items below have meanings usually associated
 with reflexes of *poRo(s) but their forms reflect *piro or *pilo(s), *pilos-i-:
    PT:     Iduna          vilo-              'twist, wring (of clothes)'
@@ -16071,7 +15371,7 @@ with reflexes of *poRo(s) but their forms reflect *piro or *pilo(s), *pilos-i-:
                            vilooi-           'squeeze and strain s.t.; wring out wet clothes'
 
 Note that the reflexes of *poRos-i- above are all WOc, whilst those of *pilos-i- are EOc. This
-distribution suggests that conflation occurred in PEOc, with reflexes of POc *piro[-J 'twist
+distribution suggests that conflation occurred in PEOc, with reflexes of POc *piro[-] 'twist
 together' and POc *poRo(s) 'squeeze out, wring out (liquid) becoming conflated both formally
 and semantically, giving rise to pilos-i- in place of *poRos-i-.
 
@@ -16170,13 +15470,13 @@ following, presented in Chapter 4, §3.2:
 POc       *patu(R), *patuR-i- 'tie, plait, weave (mats, baskets +)'
 POc       *aiia               'woven, braided'
 POc       *paus, *paus-i-     'weave, plait'
-POc       *tiki[-J (V)        'plait (mat +)' (ACD)
+POc       *tiki[-] (V)        'plait (mat +)' (ACD)
 POc       *pai                'weave'
 
 <
 
 PMP *piri(c,t) 'twist, plait' (Blust 1 970)
-POc *piri[-J 'plait a cord, twist, wrap around'[7]
+POc *piri[-] 'plait a cord, twist, wrap around'[7]
    Adm: Mussau                lrl                   'tie, bind by wrapping around'
    NNG: Gedaged               pili                  'weave (mats, sails +), (V) braid, knot (the
                                                     strands of grass skirts)'
@@ -16239,7 +15539,7 @@ discussion associated with POc *poRo(s), *poRos-i- above (§7).
 
 <
 
-POc *piro[-J 'twist together' (Bethwyn Evans pers.comm.)
+POc *piro[-] 'twist together' (Bethwyn Evans pers.comm.)
      PT:        Gapapaiwa       (tura)viro(a)         'twist'
      PT:        Molima          vilo-                 'twist'
      PT:        Iduna           vilo-                 'twist, wring (of clothes)'
@@ -16572,7 +15872,7 @@ which only the latter is attested:
 <
 
 PAn root *-kit 'join along the length' (Blust 1 98 8 : 1 1 1-1 1 2)
-POc *kiti[-J 'tie, bind'
+POc *kiti[-] 'tie, bind'
    NNG: Yabem                ki?                  'tie'
    MM: Nakanai               kisi                 'fasten; tie, tie up'
                              kisi                 'tie'
@@ -16621,20 +15921,20 @@ POc *tunu 'roast on embers or in fire; burn (s.t.); make decorative cicatrices b
 
 <
 
-PAn *da(n)dal) 'heat S.t. . or warm oneself by fire' (Dempwolff 1938)[10]
-POc *raral), *ral)-i- 'heat S.t. or warm oneself by fire' (see ChA, §3 . 1 . 1 )
-     NNG: Manam                 raral)                'warm up (food that has become cold), warm up
+PAn *da(n)daŋ 'heat S.t. . or warm oneself by fire' (Dempwolff 1938)[10]
+POc *raraŋ, *raŋ-i- 'heat S.t. or warm oneself by fire' (see ChA, §3 . 1 . 1 )
+     NNG: Manam                 raraŋ                'warm up (food that has become cold), warm up
                                                       again'
      PT:       Molima            lala                 'wilt pandanus leaves over a fire in order to
                                                       soften them for mat-making'
      MM:       Nakanai           lala                 'wilt pandanus leaves over a fire in order to
                                                       soften them for mat-making'
-     SES:      Sa'a             ra-ral)i              'warm oneself at the fire'
-     NCV :     Raga             ra-ral)i              'roast on embers'
-     SV:       Kwamera          (a)ral)i              'singe, bum (hair off pig), warm, dry by fire'
+     SES:      Sa'a             ra-raŋi              'warm oneself at the fire'
+     NCV :     Raga             ra-raŋi              'roast on embers'
+     SV:       Kwamera          (a)raŋi              'singe, bum (hair off pig), warm, dry by fire'
      Mic:      Mokilese         r:Jl)-r:J1)           'warm oneself'
-     Mic:      Marshallese      ral)-ral)             'warm oneself by the fire'
-     Fij:      Bauan            ra-ral)-              'warm oneself at a fire; of pain, smart slightly'
+     Mic:      Marshallese      raŋ-raŋ             'warm oneself by the fire'
+     Fij:      Bauan            ra-raŋ-              'warm oneself at a fire; of pain, smart slightly'
      Pn:       Pukapukan        lala                  'bleach pandanus leaves by passing them over a
                                                       fire'
      Pn:       Hawaiian          lala                 'warm up, cook over fire; warm oneself by a
@@ -17703,7 +17003,7 @@ points of phonology or derivation.
     Reconstructions are listed by proto language from highest-order to lowest, and in a rough
 geographical sequence from west to east. Within each proto language, reconstructions are
 listed in alphabetical order, with the following additions:
-    n is followed by n , f)                     s is followed by S
+    n is followed by n , ŋ                     s is followed by S
    r is followed by R
    Parentheses and hyphens are ignored in alphabetisation. When a reconstruction contains
 parenthesised alternants, e.g. *(b,p)ulit, only the first alternant is counted for alphabetisation
