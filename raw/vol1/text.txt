@@ -1532,7 +1532,7 @@ The symbol .J represents the verb root and (. . . > an infix after the root-init
 to give the homorganic nasal, and with a root-initial voiced obstruent to give either the
 homorganic nasal or a nasal + obstruent sequence:
 ( 17) *paN- + *takaw 'steal'          -?      *panakaw 'steal (actor focus)'
-       *paN- + *deIJeR 'hear'          -?      *pandeIJeR 'hear (actor focus)'
+       *paN- + *deŋeR 'hear'          -?      *pandeŋeR 'hear (actor focus)'
 The systemic features relevant to this discussion are that (i) there were two sets of verb
 forms, the first used i n indicative independent clauses and the other in non-indicative
 independent and dependent clauses; and (ii) those in the first set were formally identical with
@@ -1685,7 +1685,7 @@ modem languages, the dependent noun phrase usually occurred only if it was third
 and was optionally omissible even there.[24] A zero-valency noun had no affixation, e.g. POc
 *Rumaq 'house' (Ch. 3, §3. 3). Monovalent nouns were nouns that are possessed by default:
 they included kin terms (like *tama- 'father'), body parts (e.g. POc *qaqe- 'leg') or parts of
-wholes (e.g. POc *gabWari- 'area underneath a raised house' (Ch. 3, §3 .4)), and are shown in
+wholes (e.g. POc *gabʷari- 'area underneath a raised house' (Ch. 3, §3 .4)), and are shown in
 reconstructions and supporting data with a final hyphen. Zero-valency nouns were all other
 nouns. These two subclasses are reflected in numerous Oceanic languages, and are referred
 to in grammars either by the semantic labels 'inalienable noun' and 'alienable noun' or, since
@@ -2631,7 +2631,7 @@ Although so far attested only in languages of NW Melanesia, the witnesses are wi
 dispersed and belong to two distinct high-order (probably first order) subgroups of Oceanic
 (Ross 1 98 8), so that the POc reconstruction looks secure.
 
-POc *gabWari- 'the area underneath a raised house'
+POc *gabʷari- 'the area underneath a raised house'
   Adm: Titan              kapʷaliIJ
   NNG: Mapos Buang        gbine
   PT:  Tawala             gaboli-
@@ -2639,7 +2639,7 @@ POc *gabWari- 'the area underneath a raised house'
   PT:  Duau               gabule-
   PT:  Sinaugoro          gabule-
 
-*gabWari- evidently took inalienable possessive marking, with 3rd person singular suffix
+*gabʷari- evidently took inalienable possessive marking, with 3rd person singular suffix
 marking it as an integral part of a larger entity, namely, the house.
 
 >
@@ -2677,7 +2677,7 @@ on which offerings and sacrifices to the gods were presented.
 
 Figure 3a: POc *Rumaq 'house'
      POc *qatop 'thatch, roof' , POc *kataman 'doorway', POc *tete 'ladder or log bridge',
-                            POc *gabWari 'area underneath house'
+                            POc *gabʷari 'area underneath house'
 
 <
 
@@ -2726,7 +2726,7 @@ POc *pupuŋ-an 'ridgepole' (Blust 1 983-84a)
  MM: Sursurunga         puŋan            'cover ridgepole with grass'
  MM: Halia (Haku)       puŋana           'thatch'
  SES:         Gela         vuvu!Ja
- SES:         Arosi        (abWa)hu!Ja      'the ridge of a house'
+ SES:         Arosi        (abʷa)hu!Ja      'the ridge of a house'
                            hunga-           'roof top, centre-post of a round house'
  Mic:         Carolinian   u!J-wu!J         'large pole of traditional house'
  Pn:          Tongan       (to?u)fufu       'inner ridge-pole'
@@ -2788,7 +2788,7 @@ POc *rau(n) 'leaf; thatch'
 <
 
 PMP *sasa(h,q) 'cut or collect palm leaves for roofing' (Blust 1 980b: 1 43 )
-POc *saja(q ) 'prepare thatching materials or begin to thatch a roof'
+POc *saja(q) 'prepare thatching materials or begin to thatch a roof'
   SES:    Gela            sada               'tie the thatch in beginning a roof'
 
 >
@@ -2890,7 +2890,7 @@ floor or roof timbers.
    The next term, POc *soka(IJ), evidently referred to any sort of bracing timber in a house or
 boat.
 
-PMP *seIJkar 'cross-seat in boat, thwart' (Blust 1 972b: *soka)
+PMP *seŋkar 'cross-seat in boat, thwart' (Blust 1 972b: *soka)
 POc *soka(r) 'bracing timber, crossbeam' (cf. Ch. 7, §2.5)
   SES:    'Are'are        oka              'cross beam' (irreg. for expected *toka)
   Mic:    Kiribati        oka              'rafter of house going from horizontal beam to
@@ -2966,7 +2966,7 @@ POc *patar 'platform of any kind, including a bed frame of planks' (see also Ch.
 
 <
 
-PMP *pa(I,R)a 'shelf, rack'
+PMP *pa(l,R)a 'shelf, rack'
 POc *pa(r,R)a 'rack or shelf above hearth for storing or smoking food'
  Adm: Nauna                   pay                'shelf above the hearth (for storing food, betel +,
                                                  but not firewood)'
@@ -3133,7 +3133,7 @@ other crops. POc *giRu or *guRi may have referred to deep pits dug for graves or
 >
 <
 
-PMP *ba(I,r,R)a 'pen, enclosure for domestic animals' (ACD)
+PMP *ba(l,r,R)a 'pen, enclosure for domestic animals' (ACD)
 POc *baRa 'fence' (ACD)
   Adm:     Mussau           bala , bala-bala   'fence'
   MM:      Ramoaaina        bala(da)           'fence round a house'
@@ -3377,7 +3377,7 @@ Berbetti & Allen 1 972, Horton 1 994).[8]
 piles in the Bismarck Archipelago and New Guinea area to houses built on the ground in the
 Solomons and Remote Oceania. It is significant that the term *apu 'mound, mound made for
 a house site' appears to be confined to languages of the Southeast Solomons and Remote
-Oceania. Conversely, it is not surprising that reflexes of POc *gabWari- 'area underneath a
+Oceania. Conversely, it is not surprising that reflexes of POc *gabʷari- 'area underneath a
 house' are confined to Western Oceanic.
    In interstages postdating the break-up of POc a number of changes can be discerned in
 terms for houses and their parts. For example, POc *bou probably meant 'main bearer or
@@ -3562,12 +3562,12 @@ The Motu and Lala items are either borrowed or simply bear a chance resemblance 
 
 <
 
-  The best candidate for 'frying pan', POc *palalJa, has been noted by Blust (ACD). Again,
+  The best candidate for 'frying pan', POc *palaŋa, has been noted by Blust (ACD). Again,
 Oceanic reflexes are not plentiful, but here there can hardly be any doubt that they reflect the
 PMP term.
 
-PMP *balaIJa 'shallow earthenware cooking pot or pan' (ACD)
-POc *palalJa 'frying pan'
+PMP *balaŋa 'shallow earthenware cooking pot or pan' (ACD)
+POc *palaŋa 'frying pan'
   NNG: Bilibil            (bodi) palan      'sago frying bowl, made by cutting down a broken
                                             pot' (bodi 'cooking pot')
   NNG: Gedaged            palalJ            'potsherd, used to render fat and to cook oil;
@@ -3580,13 +3580,13 @@ POc *palalJa 'frying pan'
 
 <
 
-   One other Proto Oceanic term for a type of pot is reconstructable, namely *bwaIJa. This
+   One other Proto Oceanic term for a type of pot is reconstructable, namely *bwaŋa. This
 seems to have referred to a large pot, perhaps a communal cooking pot:
 
-PMP *b6.IJaq 'pot, cooking vessel'
-POc *bwalJa 'k.o. large pot '
-PNGOc *(kuron) bWaIJa 'communal cooking pot'
-  NNG: Adzera             (gur) baIJa       'common cooking pot for meat' (gur 'clay pot')
+PMP *báŋaq 'pot, cooking vessel'
+POc *bwaŋa 'k.o. large pot '
+PNGOc *(kuron) bWaŋa 'communal cooking pot'
+  NNG: Adzera             (gur) baŋa       'common cooking pot for meat' (gur 'clay pot')
   PT:  Misima             (ulun) bWana      'cooking pot about 60 cm high, used as a
                                             community cooking pot' (ulun 'clay pot')
 
@@ -3650,11 +3650,11 @@ POc *tutup 'cover' (Lichtenberk 1 994)
 <
 
 PMP *tub-an 'lid, cover' (Mills 1 98 1 , glossed as a verb)
-POc *tup-a((n,IJ)) 'lid, cover'
+POc *tup-a((n,ŋ)) 'lid, cover'
   Adm: Loniu              tu-tuha             'cover, lid, leaf used as lid'
   NNG: Turnleo            cup                 'lid'
 
-Note that *tup-a((n,IJ)) is a nominalised form derived from *[tuJtup, *tupi (see discussion of
+Note that *tup-a((n,ŋ)) is a nominalised form derived from *[tuJtup, *tupi (see discussion of
 nominalisations in Chapter 2, §3 .2. 1 ).
 
 >
@@ -4005,7 +4005,7 @@ of old terms. The likelihood of borrowing is also high.
 <
 
 PMP *ka(n}tulJ 'basket, pocket in clothing' (Dempwolff 1 9 38)
-POc *katu(m,IJ} 'basket'
+POc *katu(m,ŋ} 'basket'
   SES: Arosi             kaso              'basket without a handle'
   NCV : Lonwolwol        aro(bol)          'basket, container; sack, bag' (-bol from POc
                                            *bola 'coconut leaves woven together')
@@ -4110,15 +4110,15 @@ POc *laŋa 'basket or bag, small, used for personal effects'
   NNG: Gedaged           taŋ               'net bag used by women'
   PT:  Kilivila          (va)laga           'small basket (very simply plaited)'
   PT:  Dobu              lana               'dilly bag' (Grant)
-  MM:    Meramera       taIJa             'netbag; nest; web; basket'
-  MM:    Tangga         taIJ              'netbag, basket'
-  SES:   Arosi          a IJa(na)         'plaited bag with string handles, generic'
-  NCV:   Raga           taIJa             'small basket made of plaited pandanus leaves'
-  NCV:   Ambae          taIJa             'small basket, woven from pandanus, used like a
+  MM:    Meramera       taŋa             'netbag; nest; web; basket'
+  MM:    Tangga         taŋ              'netbag, basket'
+  SES:   Arosi          aŋa(na)         'plaited bag with string handles, generic'
+  NCV:   Raga           taŋa             'small basket made of plaited pandanus leaves'
+  NCV:   Ambae          taŋa             'small basket, woven from pandanus, used like a
                                           handbag for small personal items'
-  Fij:   Bauan           taIJa            'bag, pocket, sack '
-  Pn:    Tongan          ta IJa (i)       'bag, sack '
-  Pn:    Tikopia         taIJa            'small basket in which betel or other effects are
+  Fij:   Bauan           taŋa            'bag, pocket, sack '
+  Pn:    Tongan          taŋa (i)       'bag, sack '
+  Pn:    Tikopia         taŋa            'small basket in which betel or other effects are
                                           kept '
 
 >
@@ -4161,7 +4161,7 @@ POc *qebal 'pandanus mat, possibly sleeping mat'
 POc *tabakau 'mat woven from coconut leaves'
   NNG: Lukep (pono) pakau                 'trash mat: a woven coconut-leaf mat used to
                                           carry trash and sand'
-  NCV : Mota             tapa IJa u       'mat of coconut leaves, large, coarsely woven'
+  NCV : Mota             tapaŋau       'mat of coconut leaves, large, coarsely woven'
   SV:   Anejom           (nicip)akau      'chief's single thickness coconut mat with large
                                           spine'
   Fij:   Wayan           tabakau          'coarsely woven mat of coconut leaves'
@@ -4416,7 +4416,7 @@ transitive (see Ch. 2, §3 . 1 .2).
 
 <
 
-PEOc *pilos, pilos-i- 'make a cord by twisting fibres on the thigh' (Bethwyn Evans pers.comm.)
+PEOc *pilos, *pilos-i- 'make a cord by twisting fibres on the thigh' (Bethwyn Evans pers.comm.)
   SES: Lau           filo, filosi-        'twist together (strands), twist round'
   SES: Kwaio         filosi-              'twist, wring'
   SES: 'Are'are      hirosi-              'wring, twist, roll'
@@ -4679,7 +4679,7 @@ which would frequently have occurred immediately after it (e.g. POc **mCW)ata-qi
 
 <
 
-PMP *ta(IJ)kub 'adze' (Dahl 1 98 1 )
+PMP *ta(ŋ)kub 'adze' (Dahl 1 98 1 )
 POc *taku 'adze'
  Adm: Loniu             taku(wen)      'dig (s.t.) with adze'
 PCP *taku 'cutting implement made from shell of turtle or Tridacna shell'
@@ -4982,7 +4982,7 @@ POc *kiri 'file, rasp, saw'
 
 POc *giri 'file, rasp, saw'
   NNG: Mangseng           kir                'rub, file'
-                          kir(01Ja)          (N) 'file' (-oIJa NOM)
+                          kir(01Ja)          (N) 'file' (-oŋa NOM)
   SES:    Gela            gi-giri            (N) 'rasp; a saw'
   SES:    Lau             giri-giri          'roughen, as a stick with notches, or in making a
                                              file'
@@ -5238,7 +5238,7 @@ POc (?) *nai(V) 'woman's grass (shredded leaf?) skirt'
 Along much of that coast, reflexes of POc *jiRi 'cordyline' are used for 'grass-skirt':
 
 POc *jiRi 'cordyline'
-  NNG: Bariai             (daIJasi)sid            'grass-skirt'
+  NNG: Bariai             (daŋasi)sid            'grass-skirt'
   NNG: Kilenge            na-Slr                  'grass-skirt'
   NNG: Mangap             sere(kini)              'grass-skirt'
   NNG: Lukep              sere(k)                 'grass-skirt'
@@ -5902,7 +5902,7 @@ POc *tapi 'dust off, brush lightly'
 >
 <
 
-POc *salap , *salap-i- 'sweep, broom '
+POc *salap, *salap-i- 'sweep, broom '
   NNG: Yabem               salep              'broom, originally the fruit stem of the nipa palm'
   NNG: Gedaged             salai              'inflorescence of coconut'
   PT:  Misima              hala               'sweep'
@@ -6444,7 +6444,7 @@ POc *soko(t), *sokot-i- 'bum (grass , rubbish +)'
  MM: Bulu                 royo              '(fire) bum'
  MM: Lihir                so                '(fire) burn'
                           sakt              'bum (grass)'
- MM: Barok                sOIJot            'bum (grass); bake (on fire)'
+ MM: Barok                soŋot            'bum (grass); bake (on fire)'
  MM: Tangga               sok               '(fire) bum'
  MM: Nehan                suk               (ADJ) 'burnt' ; (v ) 'singe'
   cf. also:
@@ -6610,7 +6610,7 @@ may apply more specifically to garden enclosures made of logs or stakes.
 
 <
 
-PAn *qa(I,R)ad 'fence, palisade' (Ross 1 994a:459)[4]
+PAn *qa(l,R)ad 'fence, palisade' (Ross 1 994a:459)[4]
 POc *qaRa(r) 'fence'
                                                                             ,
     NNG: Numbami            ala                'fence (e.g. garden fence)
@@ -6807,7 +6807,7 @@ nut trees
 
 *raqu(p) 'New Guinea walnut, Dracontomelon dao ' (syn. D. mangiferum , D. edule);
 *(w,v)ele 'cut nut, Barringtonia sp.';
-*[kaJIJaRi 'canarium almond, Canarium spp.';
+*[ka]ŋaRi 'canarium almond, Canarium spp.';
 *qalip 'canarium almond, Canarium sp.';
 *talise 'Java almond, Indian almond, Terminalia catappa';
 *qipi 'Tahitian chestnut, Pacific chestnut, Inocarpus fagifer' (syn. Inocarpus edulis).';
@@ -6815,7 +6815,7 @@ nut trees
 No garden is complete or likely to succeed without an abundance of colourful and aromatic
 herbs and shrubs. In addition to their ornamental qualities, these herbs and shrubs play a
 major role in various forms of garden magic and ritual. Reconstructions for two such are
-*laqia 'ginger, Zingiber officinale', whose role is magical rather than culinary, and *yaIJo
+*laqia 'ginger, Zingiber officinale', whose role is magical rather than culinary, and *yaŋo
 'turmeric, Curcuma longa' , which has both an edible root and a rich orange pigment, of
 ritual significance in many Oceanic societies.
 
@@ -7217,15 +7217,15 @@ soft'.
   Although any plant may become dry and droop through lack of water, it is a feature of
 yam vines that the leaves turn yellow and drop off when the tubers are ready to harvest.
 
-POc *[ma-JraIJo 'become withered (of vegetation)
- NNG: Manam              ma-raIJo          'dry, arid'
- MM: Tolai               ma-raIJa          'withered, dry (leaves, husk, tree)'
- MM: Halia (Selau)       raIJo             'dry'
- SES: Bugotu             raIJo             'wither (leaves, yam vines)'
+POc *[ma-]raŋo 'become withered (of vegetation)
+ NNG: Manam              ma-raŋo          'dry, arid'
+ MM: Tolai               ma-raŋa          'withered, dry (leaves, husk, tree)'
+ MM: Halia (Selau)       raŋo             'dry'
+ SES: Bugotu             raŋo             'wither (leaves, yam vines)'
                                                                                            ,
- SES: Sa'a               raIJo             'be withered, dry (esp. yams when vine withers)
- SES: Arosi              raIJo             'withered, dead (of grass, green boughs +)'
- NCV: Mota               raIJo             'become dried up in the course of nature'
+ SES: Sa'a               raŋo             'be withered, dry (esp. yams when vine withers)
+ SES: Arosi              raŋo             'withered, dead (of grass, green boughs +)'
+ NCV: Mota               raŋo             'become dried up in the course of nature'
 
 >
 <
@@ -7991,7 +7991,7 @@ POc *taqo(n), *taqon-i- 'press down, weigh down with a weight, cover over with t
 
 <
 
-PMP *bu(IJ)kas 'expose, unveil' (Blust 1 983-84a)
+PMP *bu(ŋ)kas 'expose, unveil' (Blust 1 983-84a)
 POc *puke(s), *pukes-i- 'uncover, open (stone oven; probably other things as well)'
   MM: Nakanai           pue                'remove food from the oven and open the bundle
                                            for eating; open any k.o. bundle; to prepare any
@@ -8008,8 +8008,8 @@ POc *puke(s), *pukes-i- 'uncover, open (stone oven; probably other things as wel
 >
 <
 
-PMP *uruIJ 'collect, gather' (Blust 1 972b)
-POc *uru(IJ) 'take food and/or hot stones out of stone oven or fire'; more generally 'collect,
+PMP *uruŋ 'collect, gather' (Blust 1 972b)
+POc *uru(ŋ) 'take food and/or hot stones out of stone oven or fire'; more generally 'collect,
  gather'
   PT:     Motu           uru               'cook in hot ashes'
   MM:     Tolai          ur                'remove, take away (food off fire +)'
@@ -8179,27 +8179,27 @@ reheat (esp. food)' . Ann Chowning has added cognates from Kove, Molirna and Nak
 which, like the Pukapuka term, refer to heating of leaves in preparation for mat making (see
 Chapter 4, §3. 1 . 1 ).The POc gloss has been generalised accordingly.
 
-PAn *da(n)daIJ 'heat s.t. or warm oneself by fire' (Dempwolff 1 93 8 )
-POc *raraIJ, *raIJ-i- 'heat s.t. or warm oneself by fire'
- NNG: Manam              raraIJ             'warm up (food that has become cold), warm up
+PAn *da(n)daŋ 'heat s.t. or warm oneself by fire' (Dempwolff 1 93 8 )
+POc *raraŋ, *raŋ-i- 'heat s.t. or warm oneself by fire'
+ NNG: Manam              raraŋ             'warm up (food that has become cold), warm up
                                             again'
  NNG: Kove               lala               'wilt pandanus leaves over a fire in order to soften
                                             them for mat making'
- NNG: Numbami            lalaIJi            'singe, scorch'
+ NNG: Numbami            lalaŋi            'singe, scorch'
  PT:  Molirna            lala               'wilt pandanus leaves over a fire in order to soften
                                             them for mat making'
  MM: Nakanai             lala               'wilt pandanus leaves over a fire in order to soften
                                             them for mat making'
- SES: Gela               raraIJ(asi)        'dry up by heat'
- SES: Sa'a               ra-raIJi           'warm oneself at the fire'
- NCV: Mota               raIJ(ai)           'roast or bake over embers, without a wrapper'
- NCV: Raga               ra-raIJi           'roast on embers'.
- SV: Kwamera             (a)rdIJi           'singe, burn (hair off pig), warm, dry by fire'
- Mic: Mokilese           r:JIJ-r:JIJ        'warm oneself'
- Mic: Marshallese        raIJ-raIJ          'warm oneself by the fire'
+ SES: Gela               raraŋ(asi)        'dry up by heat'
+ SES: Sa'a               ra-raŋi           'warm oneself at the fire'
+ NCV: Mota               raŋ(ai)           'roast or bake over embers, without a wrapper'
+ NCV: Raga               ra-raŋi           'roast on embers'.
+ SV: Kwamera             (a)rdŋi           'singe, burn (hair off pig), warm, dry by fire'
+ Mic: Mokilese           r:Jŋ-r:Jŋ        'warm oneself'
+ Mic: Marshallese        raŋ-raŋ          'warm oneself by the fire'
  Fij: Rotuman            rara               'warm, toast'
- Fij: Bauan              ra-raIJ-           'warm oneself at a fire; of pain, smart slightly'
-                         (vaka)ra-raIJ-     'warm food again by placing it near a fire; sear up
+ Fij: Bauan              ra-raŋ-           'warm oneself at a fire; of pain, smart slightly'
+                         (vaka)ra-raŋ-     'warm food again by placing it near a fire; sear up
                                             banana leaves around food'
   Pn:    Pukapukan       lala               'bleach pandanus leaves by passing them over a
                                             fire'
@@ -8365,7 +8365,7 @@ Oceanic languages.
 <
 
 PAn *qataq 'eat s.t. raw' (ACD)
-POc *qata(q) )oung, raw'
+POc *qata(q) 'Young, raw'
   NNG: Dami               ata                'green'
   NNG: Yabem              ata?-ata?          'green'
   PT:   Motu              ata-ata            'young'
@@ -8378,7 +8378,7 @@ Alongside *qataq, PAn also had a term *qetaq, which retained its verbal use in P
 specifically to raw meat, fish and shellfish, and to the eating of such foods:
 
 PAn *qetaq 'eat s.t. raw' (ACD)
-POc *(k,q)oda , 'raw (meat, fish, shellfish); eat raw (meat, fish, shellfish)
+POc *(k,q)oda 'raw (meat, fish, shellfish); eat raw (meat, fish, shellfish)
    PT: Molima             oda                '(animals) eat raw food'
    PT: Kilivila           koda               'eat s.t. uncooked'
    MM: Roviana            oda                'eat fish without baso (relish) or vegetables; eat
@@ -8630,7 +8630,7 @@ root *-tuk. A number of reconstructions have been made which evidently refer to 
 pounding, beating, breaking open, and so on, not just of foodstuffs, but with general application.
 Cognate sets for the following reconstructions are included in Chapter 9, §5 . 1 : POc *tutuk
 'pound, mash by pounding, hammer, crack by hammering' (from PAn *tuqtuq); POc *tuki­
-'pound'; POc *putu(k) 'knock, pound, beat' (ACD) (from PMP *buTuk); and POc *qatulJ-i
+'pound'; POc *putu(k) 'knock, pound, beat' (ACD) (from PMP *buTuk); and POc *qatuŋ-i
 'strike from above, pound'.
 
 
@@ -8785,7 +8785,7 @@ POc *gora(s), *goras-i- 'scrape out (coconut meat +); dregs of strained coconut 
 <
 
 POc *koRi 'scraper; bivalve sp., used as a scraper; scrape with a shell'
-    NNG: Manam                ?ori(IJ)             'scrape coconuts'
+    NNG: Manam                ?ori(ŋ)             'scrape coconuts'
                               ?ori-'1ori           'pearlshell , traditionally used to scrape coconuts;
                                                    coconut grater, scraper'
     PT:   Dobu                koli                 'scrape, as coconut, wood'
@@ -9584,7 +9584,7 @@ and:
 
 <
 
-PAn *ba(1J)ka(q) ? 'outrigger canoe, dugout canoe'
+PAn *ba(ŋ)ka(q) ? 'outrigger canoe, dugout canoe'
  Fma: Kuvalan            bafJka           'canoe'[7]
     WMP: Aklanon               ba1Jca                'canoe'
     WMP: Balangaw              bafJka                'canoe'
@@ -9596,7 +9596,7 @@ PAn *ba(1J)ka(q) ? 'outrigger canoe, dugout canoe'
  WMP: Tausug          ba1Jkaq                        'dugout canoe (without outrigger)
  WMP: Laiyolo         bi1Jka                         'canoe, boat'
  WMP: Tolaki          ba1Jga                         'canoe'
-PCEMP *ba(1J)ka 'canoe'
+PCEMP *ba(ŋ)ka 'canoe'
  CMP: Larike                   haka
  CMP: S. Nuaulu                haka
  CMP: Kola                     boka
@@ -10108,7 +10108,7 @@ See also PPn *tau-mu ?a 'foredeck ' (§2 . 1 0).
 7.2.9 Carved projecting end-pieces
 
 
-Figure 25: POc *ijUIJ 'projecting headboard of prow' (from Nevermann 1 934:285)
+Figure 25: POc *ijUŋ 'projecting headboard of prow' (from Nevermann 1 934:285)
 
 <
 
@@ -10121,7 +10121,7 @@ example, in eastern Polynesia, the Solomon Islands, the Massim, the north coast 
 Guinea and the Bismarck Archipelago. A POc reconstruction can be made for the name of
 the headboard:
 
-POc *ijuIJ 'projecting headboard of prow, often with ornately carved figurehead'
+POc *ijuŋ 'projecting headboard of prow, often with ornately carved figurehead'
      Adm: Mussau      uru(giLa)         'beak like projection on bow, in shape of bird'
      MM: New Georgia language (unspecified) (Haddon 1 937: 1 04, 1 06)
                       (toto)ishu        'figurehead on canoe prow'
@@ -10136,14 +10136,14 @@ POc *ijuIJ 'projecting headboard of prow, often with ornately carved figurehead'
      Pn:  Hawaiian    ihu              'prow'
                       (La?au) ihu      'end-piece at head' (vs La?au hope 'end-piece at
                                        stern')
-PWOc *IJuju 'carved prow'
+PWOc *ŋuju 'carved prow'
      PT:      Iduna             mudu                 'carved prow'
-     MM:      Roviana           IJuzu-IJuzu          'figurehead of a tomoko war canoe'
+     MM:      Roviana           ŋuzu-ŋuzu          'figurehead of a tomoko war canoe'
 
 
-The central meaning of POc *ijuIJ was 'nose' and that of *IJuju 'beak, snout, mouth'. Reflexes
+The central meaning of POc *ijuŋ was 'nose' and that of *ŋuju 'beak, snout, mouth'. Reflexes
 of both commonly have the extended sense 'projecting point '. The conjunction of Southeast
-Solomonic and Polynesian evidence suggests *ijuIJ as the more likely POc form carrying the
+Solomonic and Polynesian evidence suggests *ijuŋ as the more likely POc form carrying the
 sense 'projecting headboard'. No widespread cognate set for the stempiece has been noted.
 
 [13]   Also called tau ihu vs tau rapa 'carved ornament on stern'.
@@ -10363,7 +10363,7 @@ POc *katae, *katea [16] 'free side of canoe, opposite the outrigger'
                                                 outrigger'
      NNG:    Barirn          kat                'platform of canoe'
      NNG:    Manam           ete?a              'port side of canoe'
-     NNG:    Tami            kataIJ
+     NNG:    Tami            kataŋ
      MM:     Vitu            kata
      NCV :   Mota            gatae
   Mic:     Kiribatese      katea               'leeward side of canoe'
@@ -10671,7 +10671,7 @@ POc *pose (N) '(canoe) paddle', (V) 'paddle'
 
 <
 
-PMP *pa -luja (V) 'paddle'; ( N) 'paddle'
+PMP *pa-luja (V) 'paddle'; ( N) 'paddle'
   WMP: Nias              aluxa               (N) 'paddle'
   WMP: Sichule           luga                (N) 'paddle'
                          Jeluxa              (V) 'paddle'
@@ -10871,23 +10871,23 @@ and Oceanic languages.
 
 <
 
-PMP *laIJen 'rollers, skids or blocks to move or raise a boat'
- WMP: Maranao              laIJen              'rollers'
+PMP *laŋen 'rollers, skids or blocks to move or raise a boat'
+ WMP: Maranao              laŋen              'rollers'
  CMP: Asilulu              lane-t              'rollers'
- CMP: Buru                 laIJe               'rollers'
-POc *laIJon (N) 'rollers' ; (V) 'place rollers under a canoe'
-  SES:    Arosi           (i)raIJo           (N) 'roller for canoe'; (V) 'place rollers under a
+ CMP: Buru                 laŋe               'rollers'
+POc *laŋon (N) 'rollers' ; (V) 'place rollers under a canoe'
+  SES:    Arosi           (i)raŋo           (N) 'roller for canoe'; (V) 'place rollers under a
                                              canoe' (i- < POc *i- INS)
-  Mic:    Kiribatese      naIJo              'rollers for canoe'
-  Mic:    Marshallese     lWaIJ              'rollers for canoe'
-  Mic:    Woleaian        laIJo              'rollers for canoe'
-  Fij :   Bauan           laIJo              'place rollers (for canoe +)'
-                          laIJoni ni waga    'canoe rollers'
-  Pn:     Tongan          laIJo              'supporting block or beam'
-  Pn:     Samoan          laIJo              (N) 'support, prop, pilloW, bolster'
-  Pn:     Rennellese      gaIJo              'coaster (butt ends of coconut fronds or sticks)
+  Mic:    Kiribatese      naŋo              'rollers for canoe'
+  Mic:    Marshallese     lWaŋ              'rollers for canoe'
+  Mic:    Woleaian        laŋo              'rollers for canoe'
+  Fij :   Bauan           laŋo              'place rollers (for canoe +)'
+                          laŋoni ni waga    'canoe rollers'
+  Pn:     Tongan          laŋo              'supporting block or beam'
+  Pn:     Samoan          laŋo              (N) 'support, prop, pilloW, bolster'
+  Pn:     Rennellese      gaŋo              'coaster (butt ends of coconut fronds or sticks)
                                              for dragging a canoe over the beach'
-  Pn:     Tikopia         raIJo              (N) 'canoe skid or block'; (V) 'support (canoe +)'
+  Pn:     Tikopia         raŋo              (N) 'canoe skid or block'; (V) 'support (canoe +)'
 
 >
 
@@ -10938,7 +10938,7 @@ POc *sawalJ 'channel in reef giving passage to boats, landing place, anchorage'
   Adm:    Wuvulu        tawa              'channel, passage between islands'
   NNG:    Yabem         sawa              'space, empty area'
   PT:     Motu          dava              'lagoon in atoll, water in chasm or ditch'
-  MM:     Roviana       savalJa           'strait between two islands'
+  MM:     Roviana       savaŋa           'strait between two islands'
   SES:    'Are'are      tawa              'channel in reef, landing place'
   SES:    Sa'a          tawa              'landing place'
   Mic:    Kiribatese    rawa              'channel in reef'
@@ -11346,7 +11346,7 @@ POc *kup(IV)ena 'fishing net' (Blust 1981)
 
       The fourth term, *ku(p,pʷ)ena, is the most widespread term of the four, and arguably the
 best bet for a POc generic term for fishing nets. Our files list more than forty cognates from
-a l l major subgroups. In Tuvalu (Koch n.d. : 3 0 ) the kupeIJa is "a primitive kind of net .. . large
+a l l major subgroups. In Tuvalu (Koch n.d. : 3 0 ) the kupeŋa is "a primitive kind of net .. . large
 and heavy and knotted from rolled coconut fibre twine . . . affixed to two poles tied together at
 one end forming a n acute angle; large cowrie shells are fixed under the edge of the third
 side". Two men hold the poles, and the net is tilted so the fish can swim into it. In parts of
@@ -11356,13 +11356,13 @@ Dye lists kupel)a fakamamaha 'netting with the ebbing tide ' ; kupel)a 'lava 'ne
 ( m i lkfish)'; kupel)a hokohoka , in which a handled net is used in rough surf; kupel)a sili
 pulou , where the common throw net, about three metres across, is used to catch bait fish; and
 so on. In Renne l l , the term evidently subsumes all kinds of nets. A lthough Elbert ( 1975)
-defines kupeIJa a s 'fine-meshed fishing net', h e includes kupel)a tape peka 'flying fox snaring
+defines kupeŋa a s 'fine-meshed fishing net', h e includes kupel)a tape peka 'flying fox snaring
 net ' , as well as six k i nds of fishing nets labelled with compound terms beginning with
 kupel)a. The same general term kupel)a 'net, traditionally of h ibiscus fibre ' is found in
 Tikopia, with particular types named as compounds (kupel)a la save 'pole net for flying fish ' ,
 kupel)a fukifuki 'pole net for reef work') a n d mala kupel)a referring t o net mesh.
 
-[2] I) for expected n.
+[2] ŋ for expected n.
 >
 
 
@@ -12324,7 +12324,7 @@ trochus shell, which are associated with Lapita sites. They note (p.243) that:
   *reke                   'fishing net, seine net'
   *lawa((n,q))            'k.o. fishnet'
   *kupr')ena              'net, generic term (?)'
-  *utOIJ                  'net float'
+  *utOŋ                  'net float'
   *buli(q)                'cowrie shell used as net sinker'
   *sika                   'netting needle'
   *mata-                  'mesh of net'
@@ -13328,7 +13328,7 @@ POc *pWuti[-] 'cut off'
 >
 <
 
-PEOc *polos, polos-i 'cut across, sever' (ACD)
+PEOc *polos, *polos-i 'cut across, sever' (ACD)
    SES: Lau                 Jolo               'across; cross over; cut across, sever'
    SES: Kwaio               Jolosi(a)          'cut crosswise, across'
    SES: Sa'a                holo, holosi       'cross, divide; cut a piece off, sever a pig's head'
@@ -14072,7 +14072,7 @@ POc *saRe(k) 'become, be torn up, uprooted', *saRek-i- (VT) 'tear off, uproot' (
    Mic:     Marshallese      car                'torn off'
    Mic:     Ponapean         san-sara-          'uprooted'
                              sarek              'uproot, peel, pry'
-   Mic:     Woleaian         tari(IJa)          (VT) 'rip, tear'
+   Mic:     Woleaian         tari(ŋa)          (VT) 'rip, tear'
    Fij :    Rotuman          sae                'open out, separate'
    Fij :    Wayan            sei, seiti-        'break (cut, tear) s.t. into two portions'
    Fij:     Bauan            se                 'rend, tear in two; split, cut or saw lengthwise'
@@ -14137,7 +14137,7 @@ POc       *sua              (N, v) 'spear (weapon retained in the hand)'
 
 <
 
-PMP *cukcuk, suksuk 'skewer' (ACD)
+PMP *cukcuk, *suksuk 'skewer' (ACD)
 POc *(su)su(k) 'anything used to pierce, prick'; (V) 'pierce, prick, sew'
    NNG: Gitua                zuzu               'sharpened stick used like cooking fork'
    PI:  Motu                 dudu               'prod with a stick'
@@ -14224,7 +14224,7 @@ POc *s(u,i)ri[-] 'pierce, poke' (Blust 1 998)
 <
 
 PCEMP *seka 'pierce, stab'[5]
-POc *soka, soka-i- (VT) 'pierce; stab, poke hole in (s.t.)'
+POc *soka, *soka-i- (VT) 'pierce; stab, poke hole in (s.t.)'
    Adm: Lou                   s:Jk(mat)             'shoot'
                               s:Jk(tep)             'throw spear, sticks into ground'
    NNG:       Kove            soka-soka             'sharpened stake set where a pig jumps'
@@ -14378,7 +14378,7 @@ POc      *tutuk, *tuki[-]            'pound, mash by pounding, hammer, crack by
                                      hammering'
 POc  *putu(k) and
      *butu(k), *butuk-i-             'repeatedly knock, pound, beat'
-POc *qatu('1), *qatu'J-i-            'strike from above, pound'
+POc *qatu(ŋ), *qatuŋ-i-            'strike from above, pound'
 POc *babak, *baki[ -]                'strike one against another, knock '
 POc *tupu, *tupu-i-                  'knock against, knock over, stub (toe), stumble against'
 POc *pʷasa(r,R), *pʷasa(r,R)-i­      'slap, hit'
@@ -14405,7 +14405,7 @@ POc *punu(q), *punuq-i- 'hit, strike, fight, kill'
    NNG:    Poeng           pune                'kill by sorcery'
    NNG:    Mangap          pun                 'hit'
    NNG:    Takia           fini                'hit her/hirn'
-   NNG:    Manam           UIJ                 'fight'
+   NNG:    Manam           Uŋ                 'fight'
                            um                  (VT) 'hit'
    SJ:     Sobei           fun                 'kill '
    MM:     Tigak           punuk               'kill'
@@ -14606,7 +14606,7 @@ PMP *buTuk 'knock, pound, beat' (ACD)
 
 <
 
-POc *qatu(ŋ), qatuŋ-i- 'strike from above, pound' (ACD: *qatu)
+POc *qatu(ŋ), *qatuŋ-i- 'strike from above, pound' (ACD: *qatu)
    NNG: Kove               watu               'break a nut by hitting it with a stone' (watu
                                               lJani patu)
    NNG:    Malalamai       atu                'hit'
@@ -14669,7 +14669,7 @@ POc *baki- (VT) 'strike one against another, knock, clap'
 <
 
 PMP *tu(m)buk 'pound [6]
-POc *tupu(k), tupu(k)-i- 'knock against, knock over, stub (toe), stumble against'
+POc *tupu(k), *tupu(k)-i- 'knock against, knock over, stub (toe), stumble against'
     Adm:     Drehet            tupʷi(yi)            'push; knock over; set loose, adrift'
     NNG:     Mangseng          tup                  'stub, hit'
     PT:      Gumawana          tupu(we)             'knock someone down with force'
@@ -14811,7 +14811,7 @@ POc *pʷara(s), *pʷaras-i- '(egg) hatch; hatch out (chick), break (coconut +)'
 >
 <
 
-PMP *beIJkaq 'split in two' (Dempwolff 1 938)
+PMP *beŋkaq 'split in two' (Dempwolff 1 938)
 POc *(p,pʷ)oga(q) (VI) 'burst open, split open'
    Adm: Drehet             pWok              'crack, split open (s.t. hard)
    NNG: Mangap             pok               'burst forth into the open, appear, come into
@@ -14855,7 +14855,7 @@ POc *momo(k) 'break into small pieces'
 PMP *bitak 'break, split'
 POc *pita(k), *pitak-i- 'break, split'
    NNG:    Lukep           pit               'break'
-   NNG:    Mangap          pit(IJana)        'knock, tap, snap off, break off'
+   NNG:    Mangap          pit(ŋana)        'knock, tap, snap off, break off'
    NNG:    Mangseng        (mo)pit           'chipped, broken'
    NNG:    Poeng           pite              'squeeze, press (s.t. to break it)'
    NNG: Takia               fite            (VT) 'break up, break open, split'
@@ -15888,10 +15888,10 @@ POc *kiti[-] 'tie, bind'
    POc had a number of verbs expressing the various ways in which heat can be applied. The
 reflexes of some of these, like POc *mwaRi 'roast, burn' (Ch. 6, §3.2), are used almost
 exclusively in the context of cooking, and are therefore presented in Chapter 6. The reflexes
-of others, like POc *tunu 'roast, burn' (Ch. 6, §3 .2), POc *raraIJ, *raraIJ-i- 'warm s.t.Is.o.'
+of others, like POc *tunu 'roast, burn' (Ch. 6, §3 .2), POc *raraŋ, *raraŋ-i- 'warm s.t.Is.o.'
 (Ch. 4, §3 . 1 . 1 ), and POc *sunu 'singe' (Ch. 6, §3.6), are used both for cooking and for other
 kinds of heat application, and so are given here with reduced cognate sets. Two further terms,
-POc *soko(t), *sokot-i- 'burn (grass +)' and POc *tutu(IJ), * tUIJi 'light, set fire to', were used
+POc *soko(t), *sokot-i- 'burn (grass +)' and POc *tutu(ŋ), * tUŋi 'light, set fire to', were used
 for burning but apparently did not apply to cookery.
 
 <
@@ -15979,8 +15979,8 @@ POc *soko(t), *sokot-i- 'bum (grass, rubbish +)'
 
 <
 
-PMP *tutuIJ 'set on fire, burn' (Dempwolff 1938)[11]
-POc *tutu(IJ) 'light, set fire to' (Blust 1 972b)
+PMP *tutuŋ 'set on fire, burn' (Dempwolff 1938)[11]
+POc *tutu(ŋ) 'light, set fire to' (Blust 1 972b)
   NNG: Poeng                  to                       (vI) 'burn'
   Fij :    Wayan              tutu                     'be alight, lit, started, going'
   Fij :    Bauan              tutu                     'light a lamp, set fire to a thing'
@@ -15992,16 +15992,16 @@ POc *tutu(IJ) 'light, set fire to' (Blust 1 972b)
 >
 <
 
-POc *tuIJi 'light, set fire to'
-      Adm:     Drehet            sUIJ                  'burn'
-      NNG:     Bing              tUIJ                  'burn '
-      NNG:     Poeng             tOIJe                 (VT) 'burn'
+POc *tuŋi 'light, set fire to'
+      Adm:     Drehet            sUŋ                  'burn'
+      NNG:     Bing              tUŋ                  'burn '
+      NNG:     Poeng             tOŋe                 (VT) 'burn'
       Fij :    Wayan             tuni                  'light (fire, lamp +)'
-      Pn:      Tongan            tUIJi(a)              'set fire to'
-      Pn:      Samoan            tUIJi(a)              'be set alight'
-      Pn:      Maori             tUIJi                 'set light to'
-      SES:     Kwaio             sUIJi-                'burn (s.t.)'
-      SES:     Arosi             sUIJi-                'burn (s.t.)'
+      Pn:      Tongan            tUŋi(a)              'set fire to'
+      Pn:      Samoan            tUŋi(a)              'be set alight'
+      Pn:      Maori             tUŋi                 'set light to'
+      SES:     Kwaio             sUŋi-                'burn (s.t.)'
+      SES:     Arosi             sUŋi-                'burn (s.t.)'
 
 >
 
