@@ -833,8 +833,8 @@ written in an orthography identical to our standard.
                        Work based on the sound correspondences (Ch. 1 , §3.3) of both Oceanic and non-Oceanic
                     languages has resulted in the following reconstructed paradigms of POc consonants and
                     vowels:
-                    *pW                               *p                                *t                                    *c                               *k                                 *q
-                    *bW                               *b                                *d                                    *j                               *g
+                    *pʷ                               *p                                *t                                    *c                               *k                                 *q
+                    *bʷ                               *b                                *d                                    *j                               *g
                                                                                         *s
                     *mw                               *m                                *n                                    *ii                              *ŋ
                                                                                         *r                                                                                                        *R
@@ -1008,8 +1008,8 @@ c)   PMP and a number of its descendants had word-medial homorganic nasal + obst
 PMP                               p, b                       t         d, r         s, z, Z        j       k, g
 POc       oral grade               p            pw           t         dlr             s           j         k
 Grace etc nasal grade             mp         I]p/mpw         nt       ndlnr                   nj            I]k
-POc            oral grade          p           pW            t         r              s            c         k
-Ross           nasal grade         b           bW            d         dr                     j              g
+POc            oral grade          p           pʷ            t         r              s            c         k
+Ross           nasal grade         b           bʷ            d         dr                     j              g
 
 
 PMP                m                     n    fi.       I]        w     Y              q           h        R
@@ -1397,9 +1397,9 @@ forms are reconstructable, and the difference between them needs more research).
 formed with this prefix was a transitive verb whose subject was alway the causer and whose
 object was the same as the subject of the corresponding intransitive verb (Table 2, column 2).
 Thus an U-stative verb like POc *ponuq 'be full' could be causativised (= transitivised) with
-*pa[kaJ- to give *pa[kaj-ponuq-i- 'cause (s.t.) to be full, make (s.t.) full' (object=U). [17] An U
-verb like *wase 'be shared out' gave *pa[kaJ-wase- 'cause (s.t.) to be shared out' (object=U),
-and an A verb like *inum 'drink' gave *pa[kaJ-inum-i- 'cause (s.o.) to drink' (object=A).
+*pa[ka]- to give *pa[ka]-ponuq-i- 'cause (s.t.) to be full, make (s.t.) full' (object=U). [17] An U
+verb like *wase 'be shared out' gave *pa[ka]-wase- 'cause (s.t.) to be shared out' (object=U),
+and an A verb like *inum 'drink' gave *pa[ka]-inum-i- 'cause (s.o.) to drink' (object=A).
 
 
 
@@ -3585,9 +3585,9 @@ seems to have referred to a large pot, perhaps a communal cooking pot:
 
 PMP *báŋaq 'pot, cooking vessel'
 POc *bʷaŋa 'k.o. large pot '
-PNGOc *(kuron) bWaŋa 'communal cooking pot'
+PNGOc *(kuron) bʷaŋa 'communal cooking pot'
   NNG: Adzera             (gur) baŋa       'common cooking pot for meat' (gur 'clay pot')
-  PT:  Misima             (ulun) bWana      'cooking pot about 60 cm high, used as a
+  PT:  Misima             (ulun) bʷana      'cooking pot about 60 cm high, used as a
                                             community cooking pot' (ulun 'clay pot')
 
 >
@@ -3758,10 +3758,10 @@ several reconstructions. The term for a gourd also refers to a water bottle in s
 
 POc *(b,bʷ)ilo 'coconut shell used as liquid container'
   Adm: Lou                 pil             'coconut shell used for soup'
-  Adm: Titan               pWe_pʷil        'coconut shell'
+  Adm: Titan               pʷe_pʷil        'coconut shell'
   Adm: Drehet              pʷi_pʷil)       'coconut shell'
   MM: Tolai                bilo            'cup'
-  SES: Longgu              bWilo
+  SES: Longgu              bʷilo
   SV:  Lenakel             (ui)pt/l         'container'
   SV : Anejom              ne-pce-          'container'
                            (inhu)pec        'container'
@@ -4482,7 +4482,7 @@ POc *buku 'node (as in bamboo or sugarcane); joint; knuckle; knot in wood, strin
                           buki-narora        'reef jutting out at end of land'
   Mic:    Kosraean        fuku-ne            'ankle'
                           puku-n ne          'shank, shin'
-  Mic:    Trukese         pW_pwuk            'knot'
+  Mic:    Trukese         pʷ-pʷuk            'knot'
   Fij:    Bauan           buku               'the raised end of a shell + ; knot, protuberance'
                           (i)buku            'a knot'
                           buku ni kai        'hinge of a bivalve'
@@ -6200,7 +6200,7 @@ POc *(b,bʷ)aku(r,R) 'work a garden ' (Dempwolff 1 9 3 8 : POc *(p,b)agur (V) 'h
   PT:    Bwaidoga        bakula            'garden'
   PT:    Sudest          bakubaku          'ground (cleared near house)'
   PT:    Kilivila        bagula            'work in a garden, make a garden'
-  SES:   Arosi           bWa?u             'tableland above the shore where the gardens are'
+  SES:   Arosi           bʷa?u             'tableland above the shore where the gardens are'
 
 >
 
@@ -6308,8 +6308,8 @@ POc *tano(q) 'earth, soil'
 
 POc *pʷaya '(cultivable) soil'
  NNG: Poeng              pae              'soil used to blacken teeth'
- PT:  Kilivila           pWe_pʷaya        'real soil'
- PT:  Muyuw              pWe_pʷay         'ground, land, earth, soil, dirt '
+ PT:  Kilivila           pʷe-pʷaya        'real soil'
+ PT:  Muyuw              pʷe_pʷay         'ground, land, earth, soil, dirt '
  PT:  Molima             pʷaya-pʷaya      'dust'
  MM: Tolai               pia              'earth, land, dirt'
  MM: Ramoaaina           pia              'plantation'
@@ -7747,7 +7747,7 @@ method in which rattan or vine is sawn rapidly around a piece of wood:
 
 Another north coast language, Gedaged, has a term, wol, referring to a bow string. Fire is
 produced by pulling a bow string rapidly back and forth over a piece of wood. The action
-implied may be the same as in Carolinian bWuru-bWur 'make a fire by generating friction with
+implied may be the same as in Carolinian bʷuru-bʷur 'make a fire by generating friction with
 a traditional drill' (from POc *buru 'bore a hole, drill ' ; see Ch. 9, §4.2).
 
 
@@ -12005,7 +12005,7 @@ POc *(p,pʷ)anaq 'bow', *(p,pʷ)anaq, *(p,pʷ)anaq-i- 'shoot'[4]
 
 With regard to the reconstruction of *(p,pʷ), see Chapter 2, §2. 1 .
 
-[4] Tuam, Medebur, Tolai, Kiribatese po, which normally reflects POc *b or bW, is unexplained.
+[4] Tuam, Medebur, Tolai, Kiribatese po, which normally reflects POc *b or bʷ, is unexplained.
 
 >
 <
@@ -12018,8 +12018,8 @@ POc *tibʷa(ŋ) 'dart, arrow (not a fighting weapon)' (Ross 1994a:464), *tibʷa�
     PT:   Motu               diba                 'arrow'
     MM: Notsi                tipi                 'shoot'
     MM: Roviana              tupi                 'arrow or dart' (vowel metathesis)
-    NCV : Mota               tigWa                'blunt arrow for birds; shoot (not in fighting)'
-                             tigWaŋ              'shoot and hit'
+    NCV : Mota               tigʷa                'blunt arrow for birds; shoot (not in fighting)'
+                             tigʷaŋ              'shoot and hit'
     NCV : Tamambo            tibua                'shoot an arrow'
     NCV : Raga               tibʷa                'shoot'
  NCV : Atchin            cip               'blunt arrow'
@@ -12028,7 +12028,7 @@ POc *tibʷa(ŋ) 'dart, arrow (not a fighting weapon)' (Ross 1994a:464), *tibʷa�
  NCV : Nguna             na-tipʷa          'arrow, (fish) spine, (pine) needle'
                          ripe-             'shoot with bow'
  Fij:     Bauan          riga              'reed dart, used in game of veitiqa '
- Fij:     Wayan          tigWe             'throw reed or dart horizontally controlled by end
+ Fij:     Wayan          tigʷe             'throw reed or dart horizontally controlled by end
                                            of forefinger, with aim of making dart skip up
                                            when it hits ground'
   Pn:     Tikopia        tika              'k.o. arrow thrown in game'
@@ -12045,10 +12045,10 @@ voicing of the PT forms (other than Dobu tupu, which may not be cognate) is unex
 <
 
 PAn *deles 'bowstring' (ACD)
-POc *Iolo(s) 'bowstring'
+POc *lolo(s) 'bowstring'
   SES:    'Are'are       i-roro
-  SES:    Sa'a           i-Iolo
-  Fij:    Wayan          1010               'bend, flex; bent, flexed'
+  SES:    Sa'a           i-lolo
+  Fij:    Wayan          lolo               'bend, flex; bent, flexed'
   Fij:    Bauan          (ka)lolo           'bent to one side by excessive burden on shoulder'
   Pn:     Tikopia        (ka)roro
   Pn:     Tahitian       (a)roro            'stay to mast of canoe'
@@ -13314,7 +13314,7 @@ POc *paRi[-] 'cut or lop off branches' (ACD)
 >
 <
 
-POc *pWuti[-] 'cut off'
+POc *pʷuti[-] 'cut off'
   NNG:     Malai           (i)but             'cut (meat +)'
   NNG:     Megiar          (i)Juti            'chop'
   MM:      Madak           pit                'cut (meat +)'
@@ -13413,7 +13413,7 @@ POc *(p,pʷ)asi[-] 'cut up, cut off, cut lengthwise'
 
 PMP *peka 'separate, disconnect' (ACD )
 POc *poka 'divide, separate, cut up'; PMM 'cut up (Pig +)'
-    Adm:        Drehet          pWok                   '(glass, wood +) crack open, split open'
+    Adm:        Drehet          pʷok                   '(glass, wood +) crack open, split open'
     MM :        Bulu            poka                   'cut (meat +)'
     MM:         Tolai           poka, poko             'cut, cut up (Pig +)'
     MM:         Sursurunga      pok(oi)                'cut up (pig +)'
@@ -13912,7 +13912,7 @@ the action, which in tum is often dependent on the texture of the object being s
 *pt')olaql*pʷalaq seems to have been the generic term for splitting or sometimes tearing
 something into two. It was evidently the verb used of splitting a log for firewood. POc
 *potak, *potak-i- was the verb used of splitting something, e.g. a coconut, open. POc *kakas,
-*[kaJkas-i- and *pt')asi were perhaps more generic terms for 'split', but it is difficult to be
+*[ka]kas-i- and *pt')asi were perhaps more generic terms for 'split', but it is difficult to be
 sure of this from the available reflexes. Its Longgu and Bauan reflexes suggest that POc
 *pisak may have referred to splitting wood finely. POc *wakaq has few reflexes, but they
 refer to splitting or cutting up items less hard than wood. Reflexes of POc *Risi(q) (§3.7)
@@ -14006,7 +14006,7 @@ POc *botak, *botak-i- 'crack open, split open (nuts, coconuts +), make incision'
 >
 <
 
-POc *kakas, *[kaJkas-i- 'split'
+POc *kakas, *[ka]kas-i- 'split'
    NNG: Malalamai           (i)kasa            'split (wood)'
    MM: Ramoaaina            kai                'scrape; point; scratch; chop up small (taro,
                                                coconut)'
@@ -14311,8 +14311,8 @@ all refer to actions which entail turning an instrument in order to make a hole.
    MM :        Maringe       bi-biru              'drill or dig out a small hole, such as preparing a
                                                   coconut for drinking'
                                                                                          ,
-   Mic:        Carolinian    bWura                'bore holes in wood (esp. of insects)
-                             bWuru-bwur           'make a fire by generating friction with a
+   Mic:        Carolinian    bʷura                'bore holes in wood (esp. of insects)
+                             bʷuru-bʷur           'make a fire by generating friction with a
                                                   traditional drill '
    cf. also:
    PT:      Tawala           buhu                 'bore' « PPT *busu)
@@ -14372,7 +14372,7 @@ POc (?) *paRo[-] 'drill through, pierce, perforate' (ACD)
 according to the manner of hitting, like English clout, slap, punch, pound, knock and so on:
 
 POc      *punu(q), *punuq-i-         'hit, strike, fight, kill'
-POc      *qubu, *qubWi-              'hit with fist or with a weapon'
+POc      *qubu, *qubʷi-              'hit with fist or with a weapon'
 POc      *rapu(t), *raput-i-         'hit with hand or stick, slash'
 POc      *tutuk, *tuki[-]            'pound, mash by pounding, hammer, crack by
                                      hammering'
@@ -14422,8 +14422,8 @@ POc *punu(q), *punuq-i- 'hit, strike, fight, kill'
 >
 <
 
-POc *qubu, *qubWi- 'hit with fist or with a weapon'
-   Adm: Nyindrou           ubWiy               'hit, beat'
+POc *qubu, *qubʷi- 'hit with fist or with a weapon'
+   Adm: Nyindrou           ubʷiy               'hit, beat'
    Adm: Titan              upʷi                'hit, strike, spank, punch'
    Adm: Drehet             ?upʷi(p)            'hit'
    Adm: Mussau             ubi                 'kill; fight'
@@ -14444,8 +14444,8 @@ POc *qubu, *qubWi- 'hit with fist or with a weapon'
    MM:     Hahon         ibi                   'hit'
    MM:     Tinputz       ip                    'kill'
 
-The morphological relationship between intransitive *qubu and transitive *qubWi- does not
-conform to any of the patterns described in Chapter 2, §3. 1 .2. Transitive*qubWi- appears to
+The morphological relationship between intransitive *qubu and transitive *qubʷi- does not
+conform to any of the patterns described in Chapter 2, §3. 1 .2. Transitive*qubʷi- appears to
 be derived from intransitive *qubu plus transitive suffix *-i- , but intransitive roots ending in a
 vowel other than *-a- did not take the transitive suffix, so the history of this pair remains
 unclear.
@@ -14676,7 +14676,7 @@ POc *tupu(k), *tupu(k)-i- 'knock against, knock over, stub (toe), stumble agains
     MM:      Nakanai           tubu                 'stick to; hit with spear; hit a mark'
     NCV:     Mota              tipa                 'knock, strike downwards, beat one stone on
                                                     another, knock roughly'
-    NCV: Lonwolwol             tebWi-               'kick, kick against, stumble over'
+    NCV: Lonwolwol             tebʷi-               'kick, kick against, stumble over'
    NCV: Nguna              tipʷa(e)           'hit with fist, fight, be against'
                            timʷa-timʷa        'knock'
    SV:     Kwamera         (*)rupʷi           'clap, applaud, pat'
@@ -14813,7 +14813,7 @@ POc *pʷara(s), *pʷaras-i- '(egg) hatch; hatch out (chick), break (coconut +)'
 
 PMP *beŋkaq 'split in two' (Dempwolff 1 938)
 POc *(p,pʷ)oga(q) (VI) 'burst open, split open'
-   Adm: Drehet             pWok              'crack, split open (s.t. hard)
+   Adm: Drehet             pʷok              'crack, split open (s.t. hard)
    NNG: Mangap             pok               'burst forth into the open, appear, come into
                                              view, break'
    NNG: Takia              puk               'erupt, break through, break with noise, burst
@@ -15597,20 +15597,20 @@ for string-making (by rubbing between hands or on thigh); prepared fibre' (Biggs
 
 <
 
-POc *Loqi 'make thread by rolling fibres on the thigh' (Chowning 1 99 1 : *loi 'thread made')
-   MM:       Nakanai        Loi                   'rub between the hands'
-   MM:       Tolai          Loe                   (V) 'twist, coil'
+POc *loqi 'make thread by rolling fibres on the thigh' (Chowning 1 99 1 : *loi 'thread made')
+   MM:       Nakanai        loi                   'rub between the hands'
+   MM:       Tolai          loe                   (V) 'twist, coil'
                                                                                             ,
-                            Lo-Loi                (V) 'roll or coil (strips of shell money)
-   SES: Kwaio               Loi                   'weave a net, knit'
-   NCV: Nguna               Lo-Lo                 'thread'
+                            lo-loi                (V) 'roll or coil (strips of shell money)
+   SES: Kwaio               loi                   'weave a net, knit'
+   NCV: Nguna               lo-lo                 'thread'
    Pn:  Maori               roi(roki)             'secured, tied up; knot, bind'
 
 >
 <
 
 PWOc *mwali[-] 'braid large ropes (for use with canoes +)' (Chowning 1 99 1 )
-   NNG:       Lukep         moL-                  'twist into a loop'
+   NNG:       Lukep         mol-                  'twist into a loop'
    NNG:       Manam         moli                  'plait'
    PT:        Sudest        mʷana(basi)           'twist (s.t.)'
    MM:        Nakanai       mali                  'plait (mat)'
@@ -15765,7 +15765,7 @@ POc *bukuti (VT) 'tie (a knot); fasten'
    MM:     Babatana        pukiti             'tie'
    Mic:    Marshallese     pʷiwciy            (VT) 'knot'
    Mic:    Woleaian        ¢ugosii            (VT) 'knot'
-   Mic:    Trukese         pWukeey            (VT) 'knot'
+   Mic:    Trukese         pʷukeey            (VT) 'knot'
    Fij :   Bauan           bukuti             (VT) 'knot'
 
 >
@@ -15842,7 +15842,7 @@ glosses, 'weave, plait' and 'bind, lash, fasten', and it seems judicious to keep
 >
 <
 
-POc *pisi{-J 'bind up, tie up, wind round, wrap'
+POc *pisi[-] 'bind up, tie up, wind round, wrap'
     MM: Bali           vizi                             'tie'
     MM: Minigir        visi                             'tie'
     MM: Mono-Alu       pi-pisi                          'tie (parcel +)'
