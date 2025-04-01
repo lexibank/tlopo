@@ -1,10 +1,13 @@
+"""
+What about the ca. 50 food plants reconstructions - without witnesses?
+"""
 import re
 import pathlib
 import itertools
 import dataclasses
 
 """
-1) -> ŋ
+[uUa]1) -> [ua]ŋ
 IJ -> ŋ
 6.IJ -> áŋ
 bwalJ -> b-raised-w-aŋ
@@ -12,47 +15,49 @@ brv) -> b(raised-w)
 """
 
 GROUPS = [
-    "Adm",
-    "CMP",
-    "Fij",
-    "Fma",
-    "IJ",
-    "Mic",
-    "MM",
-    "NCaI",
-    "NCal",
-    "NCV",
-    "NNG",
-    "Pn",
-    "PT",
-    "SES",
-    "SJ",
-    "SV",
-    "Yap",
-    "PI",
-    "WMP",
+    # Oceanic:
+    "Adm",  # Admiralty
+    "Fij",  # Fijian
+    "Mic",  # Micronesian
+    "MM",  # Meso-Melanesian
+    "NCal",  # New Caledonia
+    "NCV",  # North and Central Vanuatu
+    "NNG",  # North New Guinea
+    "Pn",  # Polynesian
+    "PT",  # Papuan Tip
+    "SES",  # Southeast Solomons
+    "SJ",  # Sarmi/Jayapura
+    "SV",  # South Vanuatu
+    "Yap",  # Yapese
+    # Other Austronesian:
+    "CMP",  # Central Malayo-Polynesian
+    "Fma",  # Formosan
+    "IJ",  # Irin Jaya
+    "WMP",  # Western Malayo-Polynesian
 ]
 PROTO = [
+    # Oceanic:
+    "POc",  # Yap
+    "PEAd", # Adm
+    "Proto Eastern Admiralty",  # FIXME: identify with PEAd
+    "PWOc",  # MM, SJ
+      "PNGOc",  # Proto New Guinea Oceanic, i.e. PWOc without reflexes from MM
+        "PNNG", # NNG
+        "PPT", # PT
+    "PEOc",  # NCal
+      "Proto Southeast Solomonic",  # FIXME: identify with PSS
+      "PSS", # SES
+      "Proto Remote Oceanic", # NCV, SV, Mic
+        "PCP",  # Proto Central Pacific, Fij
+          "PPn",  # PN
+            "PCEPn",  # Proto Central Eastern Polynesian; Hawaiian, Maori, Tuamotuan
+    # Other Austronesian:
     "PAn",
     "PMP",
     "PWMP",
-    "PEMP",
     "PCEMP",
-    "PEOc",
-    "POc",
-    "PNGOc",
-    "PNNG",
-    "PCP",
-    "PPn",
-    "PPT",
-    "Proto South HalmaheralWest New Guinea",
-    "PWOc",
-    "PEAd",
-    "Proto Eastern Admiralty",
-    "Proto Remote Oceanic",
-    "PSS",
-    "Proto Southeast Solomonic",
-    "PCEPn",
+    "PEMP",
+    "Proto South Halmahera/West New Guinea",
 ]
 proto_pattern = re.compile(r'(\((?P<relno>[0-9])\)\s*)?'
                            r'(?P<pl>{})\s+'
@@ -60,6 +65,92 @@ proto_pattern = re.compile(r'(\((?P<relno>[0-9])\)\s*)?'
                            r'(?P<pldoubt>\((POC)?\?\)\s*)?'
                            r'(?P<fn>\[[0-9]+]\s+)?'
                            r'(?P<pfdoubt>\?)?\*'.format('|'.join(re.escape(g) for g in PROTO)))
+PHONEMES = "w p b m i e t d s n r dr l a c j y u o k g q R ŋ ñ pʷ bʷ mʷ"
+
+
+def iter_phoenemes(s):
+    c, comb, prev = None, 'ʷ', None
+    for c in s:
+        if c == comb:
+            assert prev
+            yield prev + c
+            prev = None
+            continue
+        if prev:
+            yield prev
+        prev = c
+    if c:
+        yield c
+
+
+def parse_protoform(f, pl):
+    """
+    (x)       it cannot be determined whether x was present
+    (x,y)     either x or y was present
+    [x]       the item is reconstructable in two forms, one with and one without x
+    [x,y]     the item is reconstructable in two forms, one with x and one with y
+    x-y       x and y are separate morphemes
+    x-        x takes an enclitic or a suffix
+    <x>       x is an infix
+    """
+    if '((' in f:
+        assert '))' in f
+        f = f.replace('))', ')')
+        f = f.replace('((', '(')
+    in_bracket = False
+    in_sbracket = False
+    in_abracket = False
+    phonemes = PHONEMES.split()
+    phonemes.append('-')
+    if pl in ['PAn', 'PMP']:
+        phonemes.extend(['á', 'C', 'D', 'h', 'N', 'S', 'R', 'T', 'z'])
+    if pl in ['PWMP']:
+        phonemes.extend(['S'])
+    if pl in ['PEOc']:
+        phonemes.extend(['C'])
+    if pl in ['PCP']:
+        phonemes.extend(['v', 'ā'])
+    if pl in ['PPn']:
+        phonemes.extend(['f'])
+    if pl in ['PNGOc']:
+        phonemes.extend(['kʷ'])
+    form = ''
+
+
+    chunks = f.split(', ')
+    for c in iter_phoenemes(chunks[0]):
+        if c == '(':
+            in_bracket = True
+        elif c == ')':
+            assert in_bracket, f
+            in_bracket = False
+        elif c == '[':
+            in_sbracket = True
+        elif c == ']':
+            assert in_sbracket, f
+            in_sbracket = False
+        elif c == '<':
+            in_abracket = True
+        elif c == '>':
+            assert in_abracket, f
+            in_abracket = False
+        elif c == ',':
+            assert in_bracket or in_sbracket, f
+        elif c == ' ':
+            break
+        elif c in phonemes:
+            pass
+        else:
+            raise ValueError(c, f)
+        form += c
+
+    if form != f:
+        if f[len(form) + 1:].strip()[0] not in '(*?[':
+            print("{}\t{}".format(form, f[len(form) + 1:]))
+
+    for chunk in chunks[1:]:
+        if chunk.startswith('*'):
+            parse_protoform(chunk[1:], pl)
 
 
 @dataclasses.dataclass
@@ -79,12 +170,36 @@ class Protoform:
         kw = {}
         m = proto_pattern.match(line)
         assert m
+
         kw['protolanguage'] = m.group('pl')
         kw['pfdoubt'] = bool(m.group('pfdoubt'))
         kw['pldoubt'] = bool(m.group('pldoubt'))
         pl, _, rem = line.partition('*')
         assert "'" in rem, line
+        #
+        # 1. Find matching end-quote.
+        # 2. consume everything in parens after that, iteratively.
+        #
         pf, _, rem = rem.partition("'")
+        #if not re.fullmatch('[A-Za-z]+', pf.strip()):
+        #    print(pf)
+        parse_protoform(pf.strip(), kw['protolanguage'])
+        #if kw['protolanguage'] == 'PMP':
+        #    print(line, pf)
+        #if '1)' in pf:
+        #    print(pf.strip())
+        """
+        usu(q,p), *usu(p)-i 
+ubi/*ibu 
+tuRi[-J 
+tup-a((n,IJ))
+tuki- (v)
+titey (also *teytey)
+tau (ni) waga         - multiple words
+taRa(q) (N, V)
+sauq ? (N) 
+*rabut/*rubat
+        """
         kw['form'] = pf.strip()
         kw['glosses'], kw['note'] = Protoform.glosses_and_note(rem)
         return cls(**kw)

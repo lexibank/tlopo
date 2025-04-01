@@ -1,0 +1,412 @@
+
+
+            Chapter contents in detail                          ix
+            List of maps                                        xv
+            List of tables                                      xv
+            List of figures                                     xv
+            Acknowledgements                                  xvii
+            List of abbreviations                             xviii
+
+
+Chapter 1   Introduction
+            Malcolm Ross, Andrew Pawley and Meredith Osmond      1
+
+Chapter 2   Proto Oceanic Phonology and Morphology
+            Malcolm Ross                                        15
+
+Chapter 3   Architectural Forms and Settlement Patterns
+            Roger Green and Andrew Pawley                      37
+
+Chapter 4   Household Artefacts
+            Meredith Osmond and Malcolm Ross                   67
+
+Chapter 5   Horticultural Practices
+            Meredith Osmond                                   1 15
+
+Chapter 6   Food Preparation
+            Frantisek Lichtenberk and Meredith Osmond         143
+
+Chapter 7   Canoes and Seafaring
+            Andrew Pawley and Medina Pawley                   173
+
+Chapter 8   Fishing and Hunting Implements
+            Meredith Osmond                                   21 1
+
+Chapter 9   Acts of Impact, Force and Change of State
+            Malcolm Ross, Ross Clark and Meredith Osmond      233
+viii   Contents overview
+
+
+
+Appendix 1 :   Data sources and collation   297
+
+Appendix 2:    Languages                    301
+
+               References                   319
+
+               Index                        337
+              Chapter contents in detail
+
+
+
+     1   Introduction                                                                  1
+         1 Aims                                                                        1
+         2 The relation of the current project to previous work                        2
+��
+         3 Reconstructing the lexicon                                                  4
+           3 . 1 Terminological reconstruction                                         4
+           3 .2 Subgrouping and reconstruction                                         7
+           3.3 Sound correspondences                                                  11
+           3.4 Proto Oceanic phonology                                                11
+         4 Conventions                                                                12
+           4. 1 Chapter format                                                        12
+           4.2 Data                                                                   13
+           4.3 Conventions used in representing reconstructions                       13
+
+     2   Proto Oceanic phonology and morphology                                       15
+         1 Introduction                                                               15
+         2 Phonology                                                                  15
+           2. 1 Phonemes                                                              15
+           2.2 Phonotactics                                                           17
+           2.3 Stress                                                                 18
+           2.4 Phonological innovations and Proto Oceanic orthographies               18
+         3 Word classes                                                               20
+           3 . 1 Verbs                                                                20
+                 3 . 1 . 1 Verb classes                                               21
+                 3. 1 .2 Derivational morphology of verbs                             23
+                 3 . 1 .3 Fossilised verbal morphology                                27
+           3.2 Nouns                                                                  32
+                 3.2. 1 Derivational morphology of nouns                              32
+           3.3 Adjectival classes                                                     34
+         4 Assigning reconstructions to word classes                                  35
+
+     3   Architectural forms and settlement patterns                                  37
+         1 Aims and methodological preliminaries                                      37
+         2 Settlement patterns: evidence from archaeology and comparative ethnology   43
+           2. 1 Dwelling house architecture                                           47
+x      Chapter contents in detail
+
+    3 Settlement patterns: evidence from comparative linguistics           47
+      3.1 Subgrouping                                                      47
+      3.2 Lexical reconstructions                                          48
+      3.3 Kinds of buildings                                               48
+      3.4 House site and main structural components of house               51
+      3.5 Other structures associated with buildings                       57
+      3.6 Other structures associated with settlements                     59
+      3.7 Settlement patterns                                              62
+    4 On  variation and change in early Oceanic architectural styles and
+      settlement patterns                                                  64
+    5 Conclusion                                                           65
+
+
+4   Household Artefacts                                                    67
+    1 Introduction                                                         67
+    2 Containers                                                           67
+      2.1 Pottery containers                                               67
+           2.1.1 Cooking pot                                               68
+           2.1.2 Water jar                                                 69
+           2.1.3 Frying pan                                                70
+           2.1.4 Large cooking pot                                         70
+           2.1.5 Dish                                                      70
+           2.1.6 Lid                                                       71
+           2.1.7 Tools in pot manufacture                                  71
+      2.2 Wooden or coconut-shell containers                               72
+            2.2.1 Wooden bowl                                              72
+            2.2.2 Cup, liquid container                                    73
+            2.2.3 Water bottle                                             75
+            2.2.4 Stopper                                                  76
+            2.2.5 Lime pot                                                 76
+            2.2.6 Lime spatula                                             77
+      2.3 Woven containers                                                 77
+    3 Mats and cordage                                                     80
+      3.1 Mats                                                             80
+            3.1.1 Weaving, plaiting                                        81
+       3.2 Cord, twine                                                     83
+            3.2.1 Sewing                                                   86
+    4 Tools                                                                87
+       4.1 Cutting implements                                              87
+            4.1.1 Axe, adze                                                87
+            4.1.2 Knives                                                   91
+            4.1.3 Flint, obsidian                                          92
+            4.1.4 Awl                                                      93
+            4.1.5 Sharpening and grinding                                  94
+    5 Bark-cloth, clothing, body decoration                                95
+       5.1 Bark-cloth (tapa )                                              95
+       5.2 Clothing                                                        98
+            5.2.1 Loincloth                                                 98
+            5.2.2 Grass or leaf skirt                                       99
+                                               Chapter contents in detail     xi
+
+
+       5.3 Paint, smear, anoint                                             100
+       5.4 Tattooing                                                        1 01
+            5.4.1 Design                                                    1 02
+       5.5 Ornaments                                                        103
+           5.5.1 Comb                                                       105
+    6 Instruments of communication and music                                106
+       6.1 Conch shell trumpet                                              106
+       6.2 Bamboo flute                                                     1 07
+       6.3 Hourglass or kundu drum                                          108
+       6.4 Slitgong                                                         109
+       6.5 Jew's harp                                                       110
+    7 Other artefacts                                                       111
+       7.1 Broom                                                            111
+       7.2 Headrest                                                         1 12
+    8. Conclusions                                                          113
+
+5   Horticultural practices                                                 115
+    1 Introduction                                                          115
+    2 Background                                                            116
+    3 Land usage                                                            117
+       3.1 Garden                                                           117
+       3.2 Fallow land                                                      118
+       3.3 Uncultivated land                                                118
+    4 Soil                                                                  119
+    5 Preparation of ground                                                 120
+       5.1 Clearing the land                                                1 20
+       5.2 Burning                                                          122
+       5.3 Weeding                                                          122
+       5.4 Digging                                                          123
+       5.5 Digging stick                                                    124
+    6 Fence                                                                 125
+    7 Food plants                                                           126
+    8 Planting                                                              1 29
+       8.1 Propagation material                                             129
+       8.2 Planting (tubers)                                                131
+       8.3 Yam mound                                                        133
+       8.4 Sow (seed)                                                       133
+    9 Growth stages                                                         134
+       9.1 Sprout, shoot                                                    134
+       9.2 Grow, swell                                                      134
+       9.3 Ripen                                                            135
+       9.4 Wither                                                           135
+    10 Gathering, harvesting                                                136
+    11 Storage: yam storehouse                                              138
+    12 Drainage and irrigation                                              138
+    13 Gaps in reconstructions                                              140
+    14 Archaeological evidence                                              1 41
+    15 Conclusion                                                           142
+xii      Chapter contents in detail
+
+
+
+6     Food preparation                                                      143
+      1 Introduction                                                        143
+      2 Fire and the fireplace                                              143
+        2.1 Fire plough                                                     144
+        2.2 Firewood                                                        145
+        2.3 Firebrand, torch                                                146
+        2.4 Fireplace, hearth                                               146
+        2.5 Trivet                                                          147
+        2.6 Stone oven                                                      148
+        2.7 Covering and uncovering an oven                                 148
+      3 Cooking methods                                                     150
+        3.1 Cooking in stone oven                                           151
+        3.2 Roasting, burning, branding                                     151
+        3.3 Piercing, pricking                                              152
+        3.4 Boiling, steaming                                               152
+        3.5 Warming                                                         153
+        3.6 Singeing                                                        154
+        3.7 Wrapping prior to oven-cooking                                  154
+        3.8 Uncooked food                                                   155
+        3.9 Food cooked or ripe                                             157
+      4 Preserving                                                          157
+        4.1 Drying, smoking                                                 158
+        4.2 Fermentation                                                    158
+      5 Food processing                                                     160
+        5.1 Pounding                                                        160
+        5.2 Grating, scraping                                               161
+        5.3 Peeling                                                         165
+        5.4 Fish scaling                                                    166
+        5.5 Husking                                                         167
+        5.6 Straining                                                       168
+        5.7 Plucking                                                        168
+        5.8 Wringing, squeezing                                             169
+        5.9 Mixing                                                          171
+
+
+7     Canoes and seafaring                                                  173
+      1 Introduction                                                        173
+        1.1 Questions                                                       173
+        1.2 Reconstructions based on comparative typology: methodological
+             problems                                                       174
+        1.3 The Genetic Comparative Method                                  176
+        1.4 Lexical sources                                                 177
+        1.5 Organization of reconstructions and cognate sets                177
+      2 Types of vessel and hull construction                               177
+        2.1 Types of vessel                                                 177
+        2.2 Double canoes                                                   182
+        2.3 Hull construction                                               185
+                                                     Chapter contents in detail    xiii
+
+       2.4 Planking                                                               185
+       2.5 Thwart, cross-seat                                                     187
+       2.6 Underbody, keel                                                        187
+       2.7 Bilge, interior of hull                                                188
+       2.8 Bow and stern                                                          188
+       2.9 Carved projecting end-pieces                                           189
+       2.10 Bow and stern covers, end-decking                                     190
+    3 Superstructure                                                              190
+       3.1 Platform                                                               190
+       3.2 Cabin, deck hut                                                        191
+    4 Outrigger structure                                                         191
+       4.1 Outrigger float, outrigger side of canoe                               191
+       4.2 Outrigger booms                                                        192
+       4.3 Connective sticks attaching float                                      193
+       4.4 Starboard or hull side of outrigger canoe                              193
+    5 Sail and rigging                                                            194
+       5.1 Sail                                                                   194
+       5.2 Boom and yard of sail                                                  195
+       5.3 Mast or props supporting mast                                          196
+       5.4 Mast stays                                                             197
+    6 Steering oar                                                                197
+    7 Accessories                                                                 198
+       7.1 Cargo                                                                  198
+       7.2 Paddles, paddling and punting                                          198
+       7.3 Punting pole                                                           200
+       7.4 Bailer, bailing                                                        201
+       7.5 Portable fireplace                                                     202
+    8 Launching and beaching, anchoring, sheltering vessels                       202
+       8.1 Rollers or skids                                                       203
+       8.2 Anchoring                                                              203
+       8.3 Passage or channel, landing place                                      204
+       8.4 Boatshed                                                               205
+    9 Seafaring terms                                                             205
+       9.1 Embark, ride                                                           205
+       9.2 Voyaging                                                               206
+       9.3 Expert sailor or fisherman                                             207
+       9.4 Boat owner or captain                                                  208
+    10 Conclusions                                                                208
+
+8   Fishing and hunting implements                                                211
+    1   Introduction                                                              211
+    2   Nets                                                                      211
+    3   Scareline                                                                 216
+    4   Angling implements                                                        216
+    5   Fish trap                                                                 219
+    6   Fish weir                                                                 220
+    7   Fish poison                                                               220
+    8   Torch fishing                                                             221
+xiv      Chapter contents in detail
+
+      9 Pointed weapons                                                            222
+      10 Club                                                                      226
+      11 Slingshot                                                                 227
+      12 Trail and pitfall spikes                                                  228
+      1 3 Snare trap                                                               228
+      1 4 Birdlime                                                                 229
+      15 Archaeological evidence                                                   229
+
+9     Acts of impact, force and change of state                                    233
+      1 Introduction                                                               233
+      2 Abrasion and friction                                                      235
+          2.1 File, rasp, sharpen, grind                                           236
+          2.2 Scratch, scrape, grate                                               237
+          2.3 Rub                                                                  242
+          2.4 Brush, sweep                                                         243
+      3 Cutting, peeling, separating, splitting and tearing                        245
+          3.1 Cut off, sever                                                       246
+          3.2 Cut into two or more pieces                                          250
+          3.3 Shape by cutting                                                     252
+          3.4 Incise the skin, circumcise                                          253
+          3.5 Other cutting verbs                                                  253
+          3.6 Sharpen, pare, shave                                                 254
+          3.7 Separate flesh from shell, skin from fruit, bark from tree, leaves
+               from branch or midrib                                               255
+          3.8 Split into two or more sections                                      259
+          3.9 Tear                                                                 262
+      4 Penetration with a pointed object                                          263
+          4.1 Pierce                                                               263
+          4.2 Drill, bore                                                          265
+      5 Forceful impact                                                            267
+          5.1 Hit, beat, strike                                                    267
+          5.2 Break, smash, shatter                                                274
+      6 Removal of object from source by hand                                      277
+          6.1 Pluck, pick                                                          277
+          6.2 Break off, snap off                                                  279
+          6.3 Pinch, nip                                                           280
+          6.4 Unhook, hook                                                         280
+      7 Wringing, squeezing                                                        281
+      8 Twisting, plaiting, braiding                                               286
+      9 Bending and folding                                                        290
+      1 0 Fastening and lashing together                                           290
+      11 Applying heat and burning                                                 293
+           Maps, tables and figures
+
+
+
+Maps
+Map 1       The Austronesian phylum and major language groups                     xx
+Map 2       Geographic limits of historically known Oceanic speakers and of
+            presently documented Lapita sites (after Kirch 1997:17, 54)          xxi
+Map 3       Higher-order subgroups of Oceanic languages used in this work
+            for the purposes of reconstruction                                     8
+Map 4       Groups of Oceanic languages in northwest Melanesia:
+            the Admiralties and St Matthias groups and the subgroups
+            of Western Oceanic                                                    10
+Map 5       Lapita sites in the southwest Pacific (after Spriggs 1995: 113)       42
+Map 6       Locations of Western Oceanic and other languages in
+            northwest Melanesia                                                  315
+Map 7       Locations of Admiralties (Adm) languages                             316
+Map 8       Locations of Southeast Solomonic (SES) languages                     316
+Map 9       Locations of North/Central Vanuatu (NCV),
+            Southern Vanuatu (SV) and New Caledonia (NCal) languages             317
+Map 10      Locations of Nuclear Micronesian (Mic), Fijian (Fij)
+            and Polynesian (pn) languages                                        318
+
+
+Tables
+Table 1     The phoneme systems of Proto Malayo-Polynesian and Proto Oceanic     19
+Table 2     Classes of intransitive verb in Proto Oceanic                        21
+
+
+Figures
+Figure 1    Schematic diagram of the diversification of Austronesian languages     6
+Figure 2    Typical Baegu (Malaita, Solomon Islands) dwelling
+            and community layout (from Oliver 1989:335)                          46
+Figure 3a   POc *Rumaq 'house'                                                   52
+Figure 3b   POc *Rumaq 'house'                                                   53
+Figure 4    Typical pot shapes (from Ross 1996c)                                 68
+xvi    Chapter contents in detail
+
+Figure 5    POc *tabiRa 'wooden bowl'                                                    72
+Figure 6    POc *bCW)ilo, POc *lasa, POc *ubil*ibu 'coconut shell cup'                   74
+Figure 7    POc *kulopi 'cup, ladle' (from Nevermann 1934:179)                           74
+Figure 8    POc *d(r)amut 'lime spatula'                                                 77
+Figure 9    Reconstructions (non-specific) include: POc *katu (m,1]), POc *laka 'basket',
+            POc *tabCW)e 'basket, probably small', POc *ta1]a 'basket or bag, small,
+            used for personal effects' (after Koch 1986:104 and n.d.:59)                  79
+Figure 10   POc *kiRam 'stone adze, axe', POc *matau 'axe',
+            POc *taku, POc *taRa(q) 'adze'                                               88
+Figure 11   POc *nad(r)i 'flint, obsidian, stone with a cutting edge';
+            POc *koto 'obsidian knife or blade'                                          92
+Figure 12   POc *ike 'tapa beater'                                                       96
+Figure 13   POc *bara 'plaited cane armlet' (from Nevermann 1934:151)                   103
+Figure 14   POc *saRu 'comb'                                                            105
+Figure 15   POc *tapuRi(q) 'triton shell trumpet' (from Nevermann 1933:21 8)
+            POc *kauR 'bamboo wind instrument'                                          1 07
+Figure 16   POc *kude 'hourglass drum'                                                  1 09
+Figure 17   POc *salap 'broom'                                                          1 11
+Figure 18   POc *qulu1]-an 'wooden headrest' (from Nevermann 1934:271)                  113
+Figure 19   POc *suka, *suka-i 'make fire with fire plough'                             144
+Figure 20   POc *sulu 'dry coconut leaf torch'                                          146
+Figure 21   POc *kapit 'tongs' (from Nevermann 1933:102)                                149
+Figure 22   taro stamper (no reconstruction) (from Nevermann 1934: 192)
+            PWOc *walu 'sago beater' (from Nevermann 1934:174)                          161
+Figure 23   POc *kaRi, POc *koRi 'bivalve used as food scraper'                         1 62
+Figure 24   POc *waga 'canoe' (from Koch n.d.147), POc *kati(R) '(small)
+            outrigger canoe or canoe hull'                                              181
+Figure 25   POc *iju1] 'projecting headboard of prow' (from Nevermann 1934:285)         1 89
+Figure 26   POc *lima(s) or *nima(s), POc *asu 'bailer'                                 201
+Figure 27a POc *kupCW)ena 'fishing net' - generic term (from Nevermann 1933:89)         213
+Figure 27b Possibly POc *pukot 'seine net', with wooden floats (pOc *ut01])
+           and stone sinkers (pOc *patu) (from Nevermann 1933:89)                       214
+Figure 27c Another kind of *kupCW)ena (from Nevermann 1933:89)                          21 4
+Figure 28   POc *sika 'netting needle'                                                  215
+Figure 29   POc *kawil 'fish hook', POc *ta(g,k)o '(barbless?) fish hook';
+            coconut shell fish hook, wooden two-piece fish hook                         217
+Figure 30   POc *bayan 'trolling lure, trolling hook'                                   218
+Figure 31   POc *pupu 'basketry fish trap' (from Nevermann 1934:226)                    220
+Figure 32   POc *qio(r,R), POc *sao(t), POc *bako all 'spear' or 'k.o. spear'
+            (from Nevermann 1934:345)                                                   223
+Figure 33   POc *kuj(u,i)r, POc *tara 'fish spear'                                      224

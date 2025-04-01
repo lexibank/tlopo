@@ -696,7 +696,7 @@ is not new, we have tried to give its earliest source, but this is difficult whe
 differ in form and meaning from ours, so the decision as to whether a particular reconstruction
 is 'new' is rather subjective.
     In general, the contributions to these volumes are concerned with items reconstructable in
-pac, PWOc, PEOc and occasionally PNGOc. Etyma for PWOc, PNGOc and PEOc are
+POc, PWOc, PEOc and occasionally PNGOc. Etyma for PWOc, PNGOc and PEOc are
 reconstructed because these may well also be pac etyma for which known reflexes are not
 well distributed. The contributors to this volume vary in the degree to which they reconstruct
 etyma for interstages further down the tree. Reconstructions for lower-order interstages are
@@ -2493,7 +2493,7 @@ POc *Rumaq 'house'
  NCV : Tasiriki          ima
  NCV: Lewo               yuma
  SV :  Lenakel           n-imʷa
- NCaI: Dehu              uma
+ NCal: Dehu              uma
  Mic : Ponapean          imw               'building, house, home, dwelling'
  Mic: Kiribati           uma               'any kind of dwelling'
 
@@ -3869,7 +3869,7 @@ POc *d(r)ag(i) (?) 'k.o. container' (?)
    Water may be carried and stored in bamboo or coconut-shell bottles stoppered with leaves.
 Blust has reconstructed a term for a coconut-shell bottle:
 
-Proto South HalmaheralWest New Guinea *waip 'water container' (ACD)
+Proto South Halmahera/West New Guinea *waip 'water container' (ACD)
 POc *wai(p) 'coconut shell water bottle'
   SES:    Arosi           wai
   Fij :   Rotuman         vai              'cask'
@@ -4735,7 +4735,7 @@ POc *(p,pʷ)aRara 'handle' (Milke 1 968: *paRaRa)
                                            made from the makas tree (Pidgin) (Hibiscus
                                            tiliaceus). They heat the handle over a fire in
                                            order to shape it. '
-    PI:      Motu              parara               'handle'
+    PT:      Motu              parara               'handle'
     MM:      Roviana           varara               'wooden handle (of axe +)'
     SES:     Gela              valala               'handle; cross handle of an adze'
     SES:     Sa 'a             halala               'helve an axe'
@@ -6944,10 +6944,10 @@ previous year's crop, or by slices of larger yams. Ross has reconstructed PWOc *
 yam'.
 
 PWOc *kapul 'seed yam' [7]
-    PI:     Dobu              awona
-    PI:     Kakabai           ko-koya             'yam'
-    PI:     Misima            ka-ka;mn
-    PI:     Kilivila          kaula               'yam'
+    PT:     Dobu              awona
+    PT:     Kakabai           ko-koya             'yam'
+    PT:     Misima            ka-ka;mn
+    PT:     Kilivila          kaula               'yam'
     MM:     Tiang             ko                  'lesser yam'
     MM:     Kara (East)       ko-kau              'lesser yam, Dioscorea esculenta '
     MM:     Patpatar          kau-kau             'lesser yam, Dioscorea esculenta '
@@ -6968,14 +6968,14 @@ PNGOc *(k,kʷ)apii 'k.o. yam'
     NNG: Numbami              kowila              'greater yam'
     NNG: Yabem                kili                'greater yam'
     NNG: Mapos Buang          ker                 'yam'
-    PI:  Dobu                 kWaleya             'yam'
-    PI:  Iduna                kWavi-kwavi         'greater yam variety'
+    PT:  Dobu                 kWaleya             'yam'
+    PT:  Iduna                kWavi-kwavi         'greater yam variety'
 
 >
 <
 
 POc *paji 'cut yams for planting'
-    PI:    Dobu               yadi                'cut seed yams for planting'
+    PT:    Dobu               yadi                'cut seed yams for planting'
     Fij:   Wayan              viioi, vaoiti       'snatch or grab at s.t.; pluck or break off s.t. '
     Fij:   Bauan              vaoi                'cut yams for planting; a piece of yam cut for
                                                   planting'
@@ -6992,10 +6992,10 @@ It is impossible to know from the available reflexes, however, whether the activ
 to was specific or general.
 
 POc *sopu 'prepare yams for planting'
-    PI:    Kilivila           sopu                'the whole activity of planting, including preparing
+    PT:    Kilivila           sopu                'the whole activity of planting, including preparing
                                                   the hole, planting the seed or tuber, covering and
                                                   mounding the soil ' (Malinowski 1 9 3 5 : 1 32)
-    PI:    Muyuw              sopw                'planting (yams)'
+    PT:    Muyuw              sopw                'planting (yams)'
     SES:   Gela               sovu                'cut off slices of yams for planting'
     SES:   Lau                tofu(a)             'chop'
     SES:   Kwaio              tofu(a)             (v) 'cut things up'
@@ -7279,7 +7279,7 @@ POc *kawi(t), *kawit-i- (V) 'hook, catch hold of; fruit crook' (French-Wright ( 
 For the implement, Polynesian languages use terms derived from PPn *lohu 'fruit-plucking
 pole, hook something with a pole' (Biggs 1 993).
 
-   The set above bears a formal and semantic resemblance to PMPIPOc *kawil 'hook, fish
+   The set above bears a formal and semantic resemblance to PMP/POc *kawil 'hook, fish
 hook' (Ch. 8, §4), but it is unclear what historical connection (if any) exists between them.
 
 >
@@ -7539,7 +7539,7 @@ frequently carried out by the whole community at the one time and typically acco
 certain rituals. It does seem, however, that POc speakers associated the period of yam
 harvest with the conclusion of an annual cycle. In a number of widespread localities, past and
 future events are placed in time by referring to yam crop cycles, thus according the terms a
-meaning equivalent to our concept of 'year' (PI': Kilivila tetu 'small yam (the main staple);
+meaning equivalent to our concept of 'year' (PT: Kilivila tetu 'small yam (the main staple);
 year'; NNG: Mapos Buang ta 'year; a complete cycle of yam growing'; NCV: Paamese ouh
 'a yam; a year'). Similarly, Ivens ( 1 927:358) writes, "Our [English] word year would be
 rendered in a Melanesian language (Sa'a halisi, Lau, Kwaiofalisi 'yam harvest, yam season,
@@ -8085,8 +8085,8 @@ POc *tunu 'roast on embers or in fire; bum (s.t.); make decorative cicatrices by
                                               fire'
   NNG: Sengseng            tun                'bum; bum shells or limestone to make lime; bum
                                               cicatrices; set fire to'
-  PI: Minaveha             tunu               'roast, bum, ignite'
-  PI: Motu                 tunu-              'bake pottery'
+  PT: Minaveha             tunu               'roast, bum, ignite'
+  PT: Motu                 tunu-              'bake pottery'
   MM: Tolai                tun                'bum, cook, roast, broil'
   MM: Roviana              tunu               'bum scars on the arm (as is often done by young
                                               boys)'
@@ -11099,7 +11099,7 @@ original sense (e.g. Mota lau 'seawards, coastwards') but evidently reanalysed t
 PEMP *ta(d,R)i 'steer a course (in navigating)'
  IJ:    Numfor           kar              'row (while facing one's destination)'
 POc *taRi ? 'steer a course'
-  PI:     Motu          tari              (N) 'rudder, steer oar'; (v) 'steer a canoe'
+  PT:     Motu          tari              (N) 'rudder, steer oar'; (v) 'steer a canoe'
 
 The sound correspondences are regular, but one would like further cognates to strengthen the
 comparison. Lau tari 'steer, keep straight on' and 'Are'are tarilroro 'steer a canoe (the
@@ -11659,7 +11659,7 @@ POc *bani 'bait'
  MM: Ramoaaina              ban                    'bait; use for bait'
  Mic: Ponapean             pan                    'bait, lure'
 
-A form PMPIPOc *baŋi 'bait', is reconstructable on the basis of Javanese baŋi 'bait' and the
+A form PMP/POc *baŋi 'bait', is reconstructable on the basis of Javanese baŋi 'bait' and the
 obsolete Samoan paŋi 'coconut bait for flying fish' . Its relationship to the reconstructions
 above is unclear.
 
@@ -13693,7 +13693,7 @@ POc *kulit, *kulit-i- (N) 'skin'; (V) 'peel, remove skin of s.t., bark (a tree)'
      NNG: Sengseng            kul                 'remove a bandage or shoes; come undone, of
                                                   s.t. wrapped'
      NNG:    Manam            kuli                'peel'
-   PI:       Dobu          kuli-kuli          'rash on skin'
+   PT:       Dobu          kuli-kuli          'rash on skin'
    MM:       Tolai         kulit              (V) 'peel off, remove bark, remove skin'
    MM:       Simbo         guli, guli-        (V) 'skin, pare skin off'
    SES:      Gela          guli, guliti-      (V) 'skin, bark (shin or a tree +); take the scab
@@ -13738,8 +13738,8 @@ meaning shift to 'cut a piece off s.t. ').
 PCEMP *isi 'peel, strip off; scrape (coconut)' (ACD)
 POc *isi[-] 'scoop out (flesh from coconut +); peel off (skin, bark +) '
    NNG: Poeng              lSI                'strip bark from tree or vine'
-   PI:  Molirna            isi, isi-          'grate (on a grater), rub (s.t.)'
-   PI:  Motu               idi                'prise meat from coconut, press or squeeze with
+   PT:  Molima            isi, isi-          'grate (on a grater), rub (s.t.)'
+   PT:  Motu               idi                'prise meat from coconut, press or squeeze with
                                               an implement'
    MM :       Nakanai      isi                'scrape, grate (coconut); scrape wood smooth'
    Pn:        Rennellese   isi                'scoop, scrape (coconut meat from shell)'
@@ -14104,7 +14104,7 @@ POc *sir(i,e) 'tear in two, tear into strips'
 <
 
 POc *sika 'split, tear (in strips)'
-   PI:       Dobu            sPa                'split, tear into strips'
+   PT:       Dobu            sPa                'split, tear into strips'
    MM:       Patpatar        sik                'strip (bark, skin)'
    MM:       Tangga          sia(n)             'split down'
    SES:      Lau             seka               'tear, rend'
@@ -14140,7 +14140,7 @@ POc       *sua              (N, v) 'spear (weapon retained in the hand)'
 PMP *cukcuk, *suksuk 'skewer' (ACD)
 POc *(su)su(k) 'anything used to pierce, prick'; (V) 'pierce, prick, sew'
    NNG: Gitua                zuzu               'sharpened stick used like cooking fork'
-   PI:  Motu                 dudu               'prod with a stick'
+   PT:  Motu                 dudu               'prod with a stick'
                                                                                         ,
    MM : Nakanai              susu(toLa)         'pierce the footprint (kind of sorcery)
    SES: Gela                 susu(ihu)          'hole in septum in nose; nose stick; strengthening
@@ -14710,7 +14710,7 @@ POc *pʷasa(r,R), *pʷasa(r,R)-i- 'slap, hit'
 
 PMP *sa(m)puk 'collide, bump into' (ACD: PWMP)
 POc *sapu(k), *sapu(k)-i- 'hit'
-   PI:     Gumawana        sap(i)             'slap'
+   PT:     Gumawana        sap(i)             'slap'
    MM:     Kara (West)     saup               'fight'
    MM:     Nalik           sop                'kill'
    MM :    Notsi           cap                'kill; fight'
@@ -15309,7 +15309,7 @@ the latter.
 
 <
 
-   Also reconstructable is PNNG *pr)isa(k), *(p,pʷ)isak-i- 'squeeze (grated coconut +)'. It
+   Also reconstructable is PNNG *(p,pʷ)isa(k), *(p,pʷ)isak-i- 'squeeze (grated coconut +)'. It
 seems probable that this is a reflex of POc *pisa(k), *pisak-i- 'split' (§3.8) which has undergone
 a change in meaning (essentially from 'split a coconut to obtain its flesh' to 'squeeze the
 coconut flesh to obtain its sap'). The partial formal similarity of this item to those above may
@@ -16132,11 +16132,11 @@ changes more quickly. This orthography is retained in the citation of data in th
 
 
 1. Introduction
-    Maps 6- 1 0, showing location of languages referred to in the volume, are included at the
+    Maps 6- 10, showing location of languages referred to in the volume, are included at the
 end of Appendix 2. In §2 we list these languages in their putative subgroups . The higher-order
 subgroups are those described in Ch. 1 , §3.2. Lower-order groups, except where indicated,
 are drawn from the classification in Lynch, Ross and Crowley (forthcoming), and also, for
-Western Oceanic, from Ross ( 1 988). In §3 we provide an index to §2. Polynesian subgrouping
+Western Oceanic, from Ross ( 1988). In §3 we provide an index to §2. Polynesian subgrouping
 is based on Marck (forthcoming).
 
    Square brackets enclose the subgroup abbreviations used in the data. Parentheses include
@@ -16147,395 +16147,8 @@ language.
 
 2. Languages by subgroups
 
+languages.csv
 
-1 . Yapese
-2. Admiralties [Adm]
-    2.1 St Matthias
-         Emira
-         Mussau
-    2.2 Admiralties proper
-         2.2.1 Western Admiralties
-                 Aua
-                 Seirnat (= Ninigo)
-                 Wuvulu
-         2.2.2 Eastern Admiralties
-               2.2.2 .1 Manus
-                          Andra
-                          Bipi
-                          Bohuai
-                          Drehet (= Ndrehet, Khehek, Levei-Tulu)
-                          Ere
-302     Appendix 2
-
-                                 Koro
-                                 Lele
-                                 Likum
-                                 Loniu
-                                 Mondropolon
-                                 Nali
-                                 Nyindrou
-                                 Ponam
-                                 Titan
-                   2.2.2.2       South-East Admiralties
-                                 Baluan
-                                 Lou
-                                 Nauna
-                                 Penchal
-3. Western Oceanic
-      3 . 1 SarmilJayapura [SJ]
-           3 . 1 . 1 Sarmi
-                   Bongo
-                   Sobei
-      3.2 North New Guinea [NNG]
-           3.2 . 1 Schouten
-                   3.2 . 1 . 1   ManamiKairiru
-                                 Bam
-                                 Kaiep
-                                 Kairiru
-                                 Kis
-                                 Manam
-                                 Medebur
-                                 Wogeo
-                   3.2. 1 .2     Siau
-                                 Ali
-                                 Sissano
-                                 Tumleo
-                                 Ulau-Suain
-           3.2.2 Huon Gulf
-                   3.2.2.1       North Huon Gulf
-                                 Yabem
-                                                       Languages   303
-
-      3.2.2.2    Markham
-                 Adzera
-                 Labu
-      3.2.2.3    South Huon Gulf
-                 Hote
-                 Kaiwa
-                 M apos Buang
-
-                 Numbarni
-                 Patep
-                 Vehes
-3.2.3 NgerolVitiaz
-      3.2.3.1    Ngero
-                 Bariai
-                 Gitua
-                 Kove
-                 Malai
-                 Malalamai
-                 Mandok
-                 Mutu
-                 Tuam
-      3.2.3.2    Bel
-                 Bilibil (= Bilbil)
-                 Bing
-                 Darni
-                 Gedaged
-                 Megiar
-                 Mindiri
-                 Takia
-                 Wab
-      3 .2.3.3   Vitiaz Strait (areal grouping only)
-                 Amara
-                 Barim
-                 Kilenge
-                 Lukep (pono) (= Arop-Lokep)
-                 Lukep
-                 Malasanga
-                 Mangap (= Mangap-Mbula, Kaimanga)
-                 Roinji
-                 Singorakai
-                 Sio
-                 Tarni
-304    Appendix 2
-
-                3. 2.3.4      Southwest New Britain
-                              Akolet
-                              Arawe
-                              Aria
-                              Atui
-                              Bebeli
-                              Mangseng
-                              Rauto
-                              Sengseng
-                3.2.3.5 Mengen family
-                              Poeng
-                              Uvol
-      3.3 Papuan Tip [PT]
-          3.3.1 Nuclear Papuan Tip
-                3.3 . 1 . 1   Suauic
-                              Suau
-                3.3. 1 . 2    North MainlandlD 'Entrecasteaux
-                              3.3. 1 .2 . 1   Gumawana (= Gumasi)
-                              3.3. 1 . 2.2    Dobu/Duau
-                                              Dobu
-                                              Duau
-                                              Sewa Bay
-                              3.3. 1 . 2.3    Bwaidoga
-                                              Bwaidoga
-                                              Iduna (= dialect of Bwaidoga?)
-                                              Kalokalo
-                                              Motima
-                              3.3.1 .2.4      Anuki
-                              3.3. 1 .2.5     Kakabai
-                              3.3. 1 .2.6     ArelTaupota
-                                              Are
-                                              Arifama
-                                              Gapapaiwa (= Paiwa)
-                                              Minaveha (= Kukuya)
-                                              Tawala
-                                              Ubir
-                                              Wedau
-                                                 Languages   305
-
-    3.3.2 KilivilaiMisima
-             3.3.2 . 1    Kilivila
-                         Kilivila (= Kiriwina)
-                         Muyuw
-             3.3.2.2      Misima
-    3 .3.3 NimoaiSudest
-             Nimoa
-             Sudest
-    3.3.4 Central Papuan
-             Balawaia (= dialect of Sinaugoro)
-             Gabadi
-             Hula (= dialect of Keapara)
-             Kuni
-             Lala (= Nara, 'Ala'ala, Pokau)
-             Magori
-             Maopa (= dialect of Keapara)
-             Motu
-             Roro
-             Sinaugoro
-             Taboro (= dialect of Sinaugoro)
-3.4 Meso-Melanesian [MM ]
-    3.4. 1   Bali- Vitu
-             Bali
-             Vitu
-    3.4.2    Willaumez
-             Bola
-             Bulu
-             Meramera
-             Nakanai (= Lakalai)
-    3.4.3 New Ireland/Northwest Solomonic
-             3 .4.3.1    TungaglNalik family
-                         Kara (East)
-                         Kara (West)
-                         Lavongai
-                         Nalik
-                         Tiang
-                         Tigak
-             3 .4.3.2    Tabar linkage
-                         Lihir
-                         Notsi
-                         Tabar
-306   Appendix 2
-
-             3 .4.3.3   Madak linkage
-                        Barok
-                        Lamasong
-                        Madak
-             3.4.3.4    St George linkage
-                        3.4.3 .4. 1   South New Ireland
-                                      Bilur
-                                      Kandas
-                                      Konomala
-                                      Label
-                                      Minigir
-                                      Patpatar
-                                      Ramoaaina (= Duke of York)
-                                      Siar
-                                      Sursurunga
-
-                                      Tangga (= Tanga)
-                                      Tolai (= Kuanua, Raluana, Tuna)
-                        3.4.3.4.2     Northwest Solomonic linkage
-                                      3.4.3 .4. 2 . 1
-                                                    NehaniNorth Bougainville
-                                                    Hahon
-                                                    Halia (= Hanahan), Halia (Haku), Halia
-                                                    (Selau)
-                                                    Nehan (= Nissan)
-                                                    Petats
-                                                    Solos
-                                                    Taiof
-                                                    Teop
-                                                    Tinputz
-                                      3.4.3.4.2.2
-                                                    Banoni
-                                      3.4.3.4.2.3
-                                                    M ono-AluiTorau
-                                                    Mono-Alu
-                                                    Torau
-                                      3.4.3.4.2.4
-                                                    Choiseul
-                                                    Babatana
-                                                    Ririo
-                                                    Sisiqa (= Sengga)
-                                                    Vaghua
-                                                    Varisi
-                                                                               Languages      307
-
-                                               3.4.3.4.2.5
-                                                            New Georgia
-                                                            Hoava
-                                                            Nduke
-                                                            Roviana
-                                                            Simbo
-                                               3.4.3.4.2.6
-                                                            Ysabel
-                                                            Kia
-                                                            Laghu
-                                                            Maringe (= Cheke Holo, Hograno)
-4. Eastern Oceanic
-   4.1 Southeast Solomonic [SES]
-       4. 1 . 1 BugotuiGelaiGuadalcanal
-              4. 1 . 1 . 1   Bugotu
-              4. 1 . 1.2     GelaiGuadalcanal
-                             Gela
-                             Lengo
-                             Ghari
-                             Malango
-                             Talise
-                             Tolo
-                             West Guadalcanal
-              4. 1 . 1 .3    LonggulMalaitaiMakira
-                             4. 1 . 1 .3 . 1   Longgu
-                             4. 1 . 1.3.2      MalaitalMakira
-                                               'Are'are
-                                               Arosi
-                                               Baegu
-                                               Bauro
-                                               Fagani
-                                               Kwai
-                                               Kwaio
-                                               Lau
-                                               Sa'a
-                                               To'aba'ita
-                                               Ulawa
-  4.2 North/Central Vanuatu [NCV] (groupings are areal, based on Clark 1 994)
-       4.2. 1 Banks & Torres, Maewo, Ambae, North Pentecost
-             Ambae (= N. E. Aoba)
-             Hiw
-             Mota
-             Raga
-308     Appendix 2
-
-          4.2.2 Espiritu Santo
-                 Fortsenal
-                 Kiai
-                 Tarnarnbo (= Malo)
-                 Tangoa
-                 Tasiriki
-                 Wusi
-          4.2.3 Afalekula
-                 Atchin
-                 Big Narnbas
-                 Labo
-                 Mae
-                 Port Sandwich
-                 Uripiv
-          4.2.4 South Pentecost, Ambrym, Paama, Epi
-                 Lewo
-                 Lonwolwol
-                 Paarnese
-                 S.E. Arnbryrn
-
-
-          4.2.5 EJate-Shepherds
-                 Narnakir (= Narnakura)
-                 Nguna
-                 South Efate
-      4.3 South Vanuatu [SV]
-          Anejorn (= Aneityurn)
-          Kwarnera
-          Lenakel
-          N. Tanna
-          S.W. Tanna
-          Sye (= Sie, Erornango)
-          Ura
-      4.4 New Caledonia [NCaI]
-          4.4.1 New Caledonia proper
-                 Fwai
-                 Pije
-                 Pwapwa
-                 Nerni
-                 Nyelayu
-                 Xaracuu
-          4.4.2 Loyalties
-                 Dehu
-                 Nengone
-                                                                    Languages   309
-
-4.5 Nuclear Micronesian [Mic]
-    Carolinian
-    Kiribatese (= Kiribati, Gilbertese)
-    Kosraean (= Kusaeian)
-    Marshallese
-    Mokilese
-    Mortlockese
-    Ponapean
-    Puluwatese
-    Satawalese
-    Trukese
-    Ulithian
-    Woleaian
-4.6 Central Pacific [Fij and Pn]
-     4.6 . 1   Rotuman
-     4.6.2     Western Fijian
-               Nadroga
-               Wayan
-               Yasawa
-     4.6.3 Eastern Fijian
-               Bauan Fijian (= Standard Fijian)
-               Boumaa
-     4.6.4 Polynesian (subgrouping based on Marck forthcoming)
-               4.6.4. 1   Tongic
-                          Niuean
-                          Tongan
-               4.6.4.2 Nuclear Polynesian
-                          Anutan
-                          East Uvean
-                          East Futunan
-                          Pukapukan
-                          Rennellese
-                          Tikopia
-                          West Uvean
-                          West Futunan (= Futuna-Aniwa)
-                          Ifira-Mele (= Mele-Fila)
-                          Emae
-                          4.6.4.2 . 1   Samoan!Ellicean!Eastern Polynesian
-                                        4.6.4.2. 1 . 1
-                                                     Samoan
-310   Appendix 2
-
-                   4.6.4.2. 1 .2
-                               ElliceanlEastern Polynesian
-                               A) Ellicean
-                                   Kapingamarangi
-                                   Luangiua
-                                   Nanumean (dialect of Tuvalu)
-                                   Nukuoro
-                                   Nukuria
-                                   Takuu
-                                   Tokelauan
-                                   Tuvalu (= Ellicean)
-                               B) Eastern Polynesian
-                                   a) Rapanui (= Easter Island)
-                                   b) Central Eastern Polynesian
-                                      l.   Marquesic
-                                           Hawaiian
-                                           Mangareva
-                                           Marquesan
-                                      ii. Tahitic
-                                           Manihiki
-                                           Maori
-                                           Rapa
-                                           Rarotongan
-                                           Tahitian
-                                           Tongareva (= Penrhyn)
-                                           Tuamotuan
                                                                         Languages       31 1
 
 
@@ -16545,196 +16158,6 @@ language.
    Languages are listed alphabetically below with a numeric reference to their position in
 the subgrouping hierarchy in §2.
 
-
-Adzera 3.2.2.2                                   Bing 3.2.3.2
-Akolet 3 .2. 3.4                                 Bipi 2.2.2. 1
-'Ala'ala (see Lala)                              Bohuai 2.2.2. 1
-Ali 3.2. 1 .2                                    Bola 3.4.2
-Amara 3.2.3.3                                    Bongo 3 . 1 . 1
-Ambae 4.2 . 1                                    Boumaa 4.6.3
-Andra 2.2.2. 1                                   Bugotu 4. 1 . 1 . 1
-Aneityum (see Anejom)                            Bulu 3.4.2
-Anejom 4.3                                       Bwaidoga 3 . 3 . 1 .2.3
-Anuki 3 . 3 . 1 .2.4                             Carolinian 4.5
-Anutan 4.6.4.2                                   Cheke Holo (see Maringe)
-Aoba (see Ambae)                                 Dami 3.2.3.2
-Arawe 3.2.3.4                                    Dehu 4.4.2
-Are 3 .3. 1 .2.6                                 Dobu 3 .3 . 1 .2.2
-'Are'are 4. 1 . 1 .3.2                           Drehet 2.2.2. 1
-Aria 3.2.3.4                                     Duau 3.3. 1 .2.2
-Arifama 3 .3. 1 .2.6                             East Futunan 4.6.4.2
-Arop-Lokep (see Lukep (pono))                    East Uvean 4.6.4.2
-Arosi 4. 1 . 1 .3.2                              Ellicean (see Tuvalu)
-Atchin 4.2.3                                     Emae 4.6.4.2
-Atui 3.2.3.4                                     Emira 2. 1
-Aua 2.2. 1                                       Ere 2.2.2. 1
-Babatana 3.4.3 .4.2.4                            Eromango (see Sye)
-Baegu 4 . 1 . 1 .2                               Fagani 4. 1 . 1 .3.2
-Balawaia 3 .3 .4                                 Fijian (see Bauan Fijian)
-Bali 3.4 . 1                                     Fortsenal 4.2.2
-Baluan 2.2.2.2                                   Futuna-Aniwa (see West Futunan)
-Bam 3.2. 1 . 1                                   Fwai 4.4 . 1
-Banoni 3.4.3.4.2.2                               Gabadi 3.3.4
-Bariai 3.2.3 . 1                                 Gapapaiwa 3.3. 1 .2.6
-Barim 3.2.3.3                                    Gedaged 3 .2.3.2
-Barok 3 .4.3.3                                   Gela 4. 1 . 1 .2
-Bauan Fijian 4.6.3                               Ghari 4. 1 . 1 .2
-Bauro 4. 1 . 1 .3.2                              Gitua 3.2.3 . 1
-Bebeli 3.2.3.4                                   Gumasi (see Gumawana)
-Big Nambas 4.2.3                                 Gumawana 3 .3 . 1 . 2 . 1
-Bilbil (see Bilibil)                             Hahon 3 .4.3 .4.2. 1
-Bilibil 3.2.3.2                                  Haku (see Halia)
-Bilur 3.4.3.4. 1                                 Halia 3 .4.3.4.2. 1
-312   Appendix 2
-
-Hanahan (see Halia)              Lau 4. 1 . 1 .3.2
-Hawaiian 4.6.4.2 . 1 .2.B.b.i    Lavongai 3.4.3 . 1
-Hiw 4.2 . 1                      Lele 2.2.2. 1
-Hoava 3 .4.3 .4.2.5              Lenakel 4.3
-Hograno (see Maringe)            Lengo 4. 1 . 1 .2
-Hote 3 .2.2.3                    Levei-Tulu (see Drehet)
-Hula 3.3.4                       Lewo 4.2.4
-Iduna 3 . 3 . 1 .2.3             Lihir 3.4.3.2
-Ifira-Mele 4.6.4.2               Likum 2.2.2. 1
-Kaiep 3.2. 1 . 1                 Longgu 4.1 . 1 .3 . 1
-Kairnanga (see Mangap)           Loniu 2.2.2. 1
-Kairiru 3.2. 1 . 1               Lonwolwol 4.2.4
-Kaiwa 3 .2.2.3                   Lou 2.2.2.2
-Kakabai 3 .3. 1 .2.5             Luangiua 4.6.4.2. 1 .2.A
-Kalokalo 3 . 3 . 1 .2.3          Lukep (pono) 3 .2.3.3
-Kandas 3.4.3.4. 1                Lukep 3.2.3.3
-Kapingamarangi 4.6.4.2. 1 .2.A   Madak 3.4.3.3
-Kara (East) 3.4.3 . 1            Mae 4.2.3
-Kara (West) 3.4. 3 . 1           Magori 3.3.4
-Keapara (see Hula)               Malai 3.2. 3 . 1
-Keapara (see Maopa)              Malalamai 3 .2.3 . 1
-Khehek (see Drehet)              Malango 4. 1 . 1 .2
-Kia 3 .4.3.4.2.6                 Malasanga 3 .2.3.3
-Kiai 4.2.2                       Malo (see Tamambo)
-Kilenge 3 .2.3.3                 Manam 3.2. 1 . 1
-Kilivila 3.3 .2. 1               Mandok 3.2. 3 . 1
-Kiribatese (see Gilbertese)      Mangap 3.2.3.3
-Kiribatese (see Kiribati)        Mangap-Mbula (see Mangap)
-Kiribatese 4.5                   Mangareva 4.6 .4.2. 1 .2.B.b.i
-Kiriwina (see Kilivila)          Mangseng 3.2.3.4
-Kis 3.2. 1 . 1                   Manihiki 4.6.4.2. 1 .2.B.b.ii
-Konomala 3.4.3.4 . 1             Maopa 3. 3.4
-Koro 2.2.2.1                     Maori 4.6.4.2. 1 .2.B.b.ii
-Kosraean (see Kusaeian)          Mapos Buang 3.2.2.3
-Kosraean 4.5                     Maringe 3 .4.3.4.2.6
-Kove 3.2.3 . 1                   Marquesan 4.6.4.2. 1 .2.B.b.i
-Kuanua (see Tolai)               Marshallese 4.5
-Kukuya (see Minaveha)            Mbula (see Mangap)
-Kuni 3.3.4                       Medebur 3.2. 1 . 1
-Kwai 4. 1 . 1 .3 .2              Megiar 3.2.3.2
-Kwaio 4. 1 . 1 .3.2              Mele-Fila (see Ifira-Mele)
-Kwamera 4.3                      Meramera 3 .4.2
-Label 3.4.3.4. 1                 Minaveha 3 .3 . 1 .2.6
-Labo 4.2.3                       Mindiri 3 .2.3.2
-Labu 3 .2.2.2                    Minigir 3 .4.3 .4. 1
-Laghu 3 .4.3 .4.2.6              Misirna 3.3.2.2
-Lala 3.3.4                       Mokilese 4.5
-Lamasong 3 .4.3.3                Molima 3 . 3 . 1 .2.3
-                                                 Languages      313
-
-Mondropolon 2.2.2. 1       Pukapukan 4.6.4.2
-Mono-Alu 3.4.3.4.2.3       Puluwatese 4.5
-Mortlockese 4.5            Pwapwa 4.4. 1
-Mota 4.2 . 1               Raga 4.2. 1
-Motu 3 .3.4                Raluana (see Tolai)
-Mussau 2 . 1               Ramoaaina (see Duke of York)
-Mutu 3.2. 3 . 1            Ramoaaina 3 .4.3.4. 1
-Muyuw 3.3 .2. 1            Rapa 4.6.4.2. 1 .2.B.b.ii
-N. E. Aoba (see Ambae)     Rapanui (see Easter Island)
-N. Tanna 4.3               Rapanui 4.6.4.2 . 1 .2.B.a.
-Nadroga 4.6.2              Rarotongan 4.6.4.2. 1 .2.B.b.ii
-Nakanai (see Lakalai)      Rauto 3.2.3.4
-Nakanai 3.4.2              Rennellese 4.6.4.2
-Nali 2.2.2. 1              Ririo 3.4.3 .4.2.4
-Nalik 3.4. 3 . 1           Roinji 3.2.3.3
-Namakir (see Namakura)     Roro 3. 3.4
-Namakir 4.2.5              Rotuman 4.6. 1
-Nanumean 4.6.4.2. 1 .2.A   Roviana 3.4.3.4.2.5
-Nara (see Lala)            S.E. Ambrym 4.2.4
-Nauna 2.2.2.2              S.W. Tanna 4.3
-Ndrehet (see Drehet)       Sa'a 4. 1 . 1 .3.2
-Nduke 3.4.3.4.2.5          Samoan 4.6.4.2. 1 . 1
-Nehan 3.4.3.4.2. 1         Satawalese 4.5
-Nemi 4.4 .1                Seimat 2.2. 1
-Nengone 4.4.2              Selau (see Halia)
-Nguna 4.2.5                Sengga (see Sisiqa)
-Nimoa 3.3.3                Sengseng 3 .2.3.4
-Ninigo (see Seimat)        Sewa Bay 3.3. 1 .2.2
-Niuean 4.6.4. 1            Siar 3.4.3.4. 1
-Notsi 3 .4.3.2             Sie (see Sye)
-Nukuoro 4.6.4.2. 1 .2.A    Simbo 3.4.3 .4.2 . 5
-Nukuria 4.6.4.2. 1 .2.A    Sinaugoro 3.3.4
-Numbarni 3 .2.2.3          Singorakai 3.2.3 .3
-Nye1ayu 4.4. 1             Sio 3.2.3.3
-Nyindrou 2.2.2. 1          Sisiqa 3.4.3 .4.2.4
-Paamese 4.2.4              Sissano 3.2. 1 .2
-Paiwa (see Gapapaiwa)      Sobei 3. 1 . 1
-Patep 3.2.2.3              Solos 3.4.3.4.2 . 1
-Patpatar 3 .4.3.4. 1       South Efate 4.2.5
-Penchal 2.2.2.2            Standard Fijian (see Bauan Fijian)
-Penrhyn (see Tongareva)    Suau 3.3. 1 . 1
-Petats 3 .4.3.4.2. 1       Sudest 3.3.3
-Pije 4.4. 1                Sursurunga 3.4.3.4. 1
-Poeng 3 .2.3.5             Sye 4.3
-Pokau (see Lala)           Tabar 3.4.3.2
-Ponam 2.2.2. 1             Taboro 3 .3.4
-Ponapean 4.5               Tahitian 4.6.4.2. 1 .2 .B.b.ii
-Port Sandwich 4.2.3        Taiof 3.4.3.4.2. 1
-314   Appendix 2
-
-Takia 3.2.3.2                     Wusi 4.2.2
-Takuu 4.6.4.2 . 1 .2.A            Wuvulu 2.2. 1
-Talise 4. 1 . 1 .2                Xaracuu 4.4. 1
-Tamambo 4.2.2                     Yabem 3.2.2. 1
-Tami 3 .2.3.3                     Yapese 1
-Tanga (see Tangga)                Yasawa 4.6.2
-Tangga 3.4.3.4. 1
-Tangoa 4.2.2
-Tasiriki 4.2.2
-Tawala 3 . 3 . 1 .2.6
-Teop 3.4.3.4.2. 1
-Tiang 3.4.3 . 1
-Tigak 3 .4.3 . 1
-Tikopia 4.6.4.2
-Tinputz 3.4.3 .4.2. 1
-Titan 2.2.2. 1
-To'aha'ita 4. 1 . 1 .3.2
-Tokelauan 4.6.4.2 . 1 .2.A
-Tolai 3 .4.3.4. 1
-Tolo 4. 1 . 1 .2
-Tongan 4.6.4 . 1
-Tongareva 4.6.4.2 . 1 .2.B.h.ii
-Torau 3 .4.3.4.2.3
-Trukese 4.5
-Tuam 3.2.3. 1
-Tuamotuan 4.6.4.2. 1 .2.B.h.ii
-Tumleo 3.2. 1 .2
-Tuna (see Tolai)
-Tuvalu 4.6.4.2. 1 .2.A
-lJbir 3 .3 . 1 .2.6
-Ulau-Suain 3.2. 1 .2
-Ulawa 4. 1 . 1 .3.2
-Ulithian 4.5
-Ura 4.3
-Uripiv 4.2.3
-Uvol 3.2.3.5
-Vaghua 3 .4.3 .4.2.4
-Varisi 3.4.3.4.2.4
-Vehes 3 .2.2.3
-Vitu 3.4. 1
-Wah 3 .2.3.2
-Wayan 4.6.2
-Wedau 3.3 . 1 .2.6
-West Futunan 4.6.4.2
-West Guadalcanal
-West Uvean 4.6.4.2
-Wogeo 3.2. 1 . 1
-Woleaian 4.5
                                                                                      Meso-Melanesian
                         Admiralties                                                  1 Ramoaaina   5 Hahon
                                                                                      2 Millgir     6 TlIoI
