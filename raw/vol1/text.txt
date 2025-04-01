@@ -468,7 +468,7 @@ For example, it proved possible to reconstruct the following POc terms for tying
 (Ch. 9, §10):
 
 POc *buku 'tie (a knot); fasten'
-POc *pWita 'tie by encircling'
+POc *pʷita 'tie by encircling'
 POc *paqu(s), *paqus-i- 'bind, lash; construct (canoe +) by lashing together'
 POc *pisi 'bind up, tie up, wind round, wrap'
 POc *kiti 'tie, bind'
@@ -478,7 +478,7 @@ about the specific denotation of the item, and in the case of *kiti this prevent
 of a more specific meaning. The verb *buku can be identified as the generic term for tying a
 knot because of its derivational relationship (by zero derivation) with a noun whose denotation
 is clearly generic, *buku 'node (as in bamboo or sugarcane); joint; knuckle; knot in wood,
-string or rope' (Ch. 4, §3.2). Reconstruction of the meaning of *pWita as 'tie by encircling' is
+string or rope' (Ch. 4, §3.2). Reconstruction of the meaning of *pʷita as 'tie by encircling' is
 supported by the meanings of the Lukep, Takia and Longgu reflexes, respectively 'tie by
 encircling', 'tie on (as grass-skirt)" and 'trap an animal's leg; tie s.t. around ankle or wrist':
 Lukep and Takia are North New Guinea languages, whilst Longgu is Southeast Solomonic.
@@ -862,15 +862,15 @@ as fully as those of other POc consonants (they are generally missing from the s
 in Chapter 1 , §3.3 ), and unexplained inconsistencies remain among the small number of
 widely reflected items in which it is reconstructed. Reflexes which signal its presence are:
 a)     velarised bilabials (usually PJ in contexts where they do not reflect *bw;
-       see *pwaraq, *pwararaq 'thunder', *pwatik 'potato yam, aerial yam, Dioscorea bulbifera ',
+       see *pʷaraq, *pʷararaq 'thunder', *pʷatik 'potato yam, aerial yam, Dioscorea bulbifera ',
        *ku(p,pʷ)ena 'fishing net';
 b)     apparent fortis reflexes of *p in Western Oceanic and SES languages in environments
        where a lenis reflex is usually found;
-       see *(p,pʷ)ilak 'lightning', *pwaraq, *pwararaq 'thunder', *pWatik 'potato yam, aerial yam,
-       Dioscorea bulbifera ', *pwita 'snare; to snare', *(p,pʷ)aRaRa 'handle' ;
+       see *(p,pʷ)ilak 'lightning', *pʷaraq, *pʷararaq 'thunder', *pʷatik 'potato yam, aerial yam,
+       Dioscorea bulbifera ', *pʷita 'snare; to snare', *(p,pʷ)aRaRa 'handle' ;
 c)     apparent reflexes of *b or *bw in Polynesian or Nuclear Micronesian (and occasionally
        other) languages;
-       see *la(p,pʷ)a(r,R) 'lightning, phosphorescence', *pwaraq, *pwararaq 'thunder', *ku(p,pʷ)ena
+       see *la(p,pʷ)a(r,R) 'lightning, phosphorescence', *pʷaraq, *pʷararaq 'thunder', *ku(p,pʷ)ena
        'fishing net', *(p,pʷ)aRaRa 'handle'.
 In some cases we reconstruct *(p,pʷ) as we are unsure whether the protophoneme was *pw or
 whether we are confronted by one of several other phenomena, including (i) borrowing, (ii)
@@ -1783,7 +1783,7 @@ the strongly CV canonic shape of early Oceanic (§2.2). This is evidently a loca
 Thus we find, for example, Lukep-Pono kani-1J 'yam' (from *kani 'eat'), Gitua gururu-1J (N)
 'thunder' (from *guru (v) 'thunder').
     Forms reflecting *V-a1Ja and *V-1Ja are well scattered, for example, Poeng (NNG) mate-1Ja
-'death' (from *mate 'die'), Mussau palapala-1Ja (N) 'thunder' (from *pwaraq (V) 'thunder',
+'death' (from *mate 'die'), Mussau palapala-1Ja (N) 'thunder' (from *pʷaraq (V) 'thunder',
 Samoan (pn) inum-a1Ja 'draught, dose' (from *inum 'drink'), tafi-1Ja 'removal' (from tafi
 'remove'), and throughout Polynesia.
     There is a wealth of languages in which final consonants are lost, so that both *V-an and
@@ -2395,7 +2395,7 @@ ruma (Fox 1 978):
 ruma huri, a round house, taller than the well-known Santa Cruz round house
 ruma gaura , a double, oblong house
 ruma ora, a house with ten posts or more (five pairs of posts)
-ruma pWarapwara, a house roughly built, with roof of whole fronds instead of thatching
+ruma pʷarapʷara, a house roughly built, with roof of whole fronds instead of thatching
 ruma rangi, a house with two roofs, the second roof only above the upper part of the first
     roof, made by extending the rafters upwards
 ruma rokera , like ruma rangi but the two roofs close together
@@ -2632,7 +2632,7 @@ dispersed and belong to two distinct high-order (probably first order) subgroups
 (Ross 1 98 8), so that the POc reconstruction looks secure.
 
 POc *gabWari- 'the area underneath a raised house'
-  Adm: Titan              kapwaliIJ
+  Adm: Titan              kapʷaliIJ
   NNG: Mapos Buang        gbine
   PT:  Tawala             gaboli-
   PT:  Dobu               gabura
@@ -3758,8 +3758,8 @@ several reconstructions. The term for a gourd also refers to a water bottle in s
 
 POc *(b,bʷ)ilo 'coconut shell used as liquid container'
   Adm: Lou                 pil             'coconut shell used for soup'
-  Adm: Titan               pWe_pwil        'coconut shell'
-  Adm: Drehet              pWi_pwil)       'coconut shell'
+  Adm: Titan               pWe_pʷil        'coconut shell'
+  Adm: Drehet              pʷi_pʷil)       'coconut shell'
   MM: Tolai                bilo            'cup'
   SES: Longgu              bWilo
   SV:  Lenakel             (ui)pt/l         'container'
@@ -4037,7 +4037,7 @@ POc *laka 'basket'
 <
 
 POc *ta(b,bʷ)e 'basket, probably small'
-  Adm: Loniu             tapwa             'basket, string bag'
+  Adm: Loniu             tapʷa             'basket, string bag'
   NNG: Bing              tlib              'mat woven from coconut fronds'
   MM: Lavongai           tape, tepe        'basket'
   MM: Tigak              tape              'basket'
@@ -5865,7 +5865,7 @@ PWOc *bogo-bogo 'Jew's-harp'
 <
 
 POc *sapu(r), *sapur-i- 'brush (dirt +) off (s.t.)' (where 's.t . ' is the object)
-  Adm: Titan               sapwi            'wipe, wipe off'
+  Adm: Titan               sapʷi            'wipe, wipe off'
   NNG: Mapos Buang         rvu              'wipe, dry, clean'
   PT:  Muyuw               (katu)sap        'brush dirt off'
   PT:  Misima              hapul            'brush down (e.g. with coconut husk); brush; brush
@@ -6306,14 +6306,14 @@ POc *tano(q) 'earth, soil'
 
 <
 
-POc *pWaya '(cultivable) soil'
+POc *pʷaya '(cultivable) soil'
  NNG: Poeng              pae              'soil used to blacken teeth'
- PT:  Kilivila           pWe_pWaya        'real soil'
- PT:  Muyuw              pWe_pWay         'ground, land, earth, soil, dirt '
- PT:  Molima             pWaya-pWaya      'dust'
+ PT:  Kilivila           pWe_pʷaya        'real soil'
+ PT:  Muyuw              pWe_pʷay         'ground, land, earth, soil, dirt '
+ PT:  Molima             pʷaya-pʷaya      'dust'
  MM: Tolai               pia              'earth, land, dirt'
  MM: Ramoaaina           pia              'plantation'
- SES: Sa'a               pWai(nii)        'the garden ground just above the beach'
+ SES: Sa'a               pʷai(nii)        'the garden ground just above the beach'
 
 >
 <
@@ -6744,11 +6744,11 @@ taro
 yams
 
 *qupi 'greater yam, Dioscorea alata ; also used as yam generic';
-*pwatik 'potato yam, aerial yam, Dioscorea bulbifera' ;
+*pʷatik 'potato yam, aerial yam, Dioscorea bulbifera' ;
 (?) *mamis 'k.o. yam' ;
 *mwaruqen 'k.o. yam: wild yam (??)';
 *udu(r,R) 'k.o. greater yam ';
-*pwasepe 'greater yam',
+*pʷasepe 'greater yam',
 PWOc *gobu 'potato yam, Dioscorea bulbifera (?)',
 PWOc *(q,k)amisa 'lesser yam, Dioscorea esculenta ' ;
 PEOc *damu 'k.o. yam' ;
@@ -8613,7 +8613,7 @@ areca nuts', from the verb mumu 'crush in a mortar'. Lichtenberk write (p.277) t
    A large wooden bowl (POc *tabiRa, PCP *kumete, see Ch. 4, §2.2 . 1 ) was traditionally
 used as a mortar. Sago was pounded in a trough, stronger and hea vier than a bowl, and
 designed so that water could run off from one end. Only isolated terms have been located
-(Muyuw kas 'trough for sago-making'; Loniu kupwi 'trough in which sago is pounded').
+(Muyuw kas 'trough for sago-making'; Loniu kupʷi 'trough in which sago is pounded').
                                                                       Food preparation        161
 
 
@@ -12025,7 +12025,7 @@ POc *tibWa(lJ) 'dart, arrow (not a fighting weapon)' (Ross 1994a:464), *tibwalJ-
  NCV : Atchin            cip               'blunt arrow'
  NCV : Paamese           a-tuvo            'arrow'
                          tuvo              'shoot'
- NCV : Nguna             na-tipWa          'arrow, (fish) spine, (pine) needle'
+ NCV : Nguna             na-tipʷa          'arrow, (fish) spine, (pine) needle'
                          ripe-             'shoot with bow'
  Fij:     Bauan          riga              'reed dart, used in game of veitiqa '
  Fij:     Wayan          tigWe             'throw reed or dart horizontally controlled by end
@@ -12182,7 +12182,7 @@ was both a noun and a verb. Terms reflecting **piti in MM and SES languages seem
 local inventions formed from a noun **pit (after loss of POc *-a) with the addition of the
 transitive suffix * -i- .
 
-POc *pWita, *pWita-i- (N) 'snare', (V) 'tie by encircling, ensnare'
+POc *pʷita, *pʷita-i- (N) 'snare', (V) 'tie by encircling, ensnare'
   NNG: Lukep               wit                  'tie by encircling'
                            wit(kala)            'tie together'
                            pit                  'snare, trap; to trap'
@@ -12380,7 +12380,7 @@ The pointed weapon terminology consists of:
                               The trail and pitfall spikes, the snare trap and the birdlime lack any supporting evidence
                            from archaeology.
                                 *suja                                                            'sharpened stake set in ground'
-                                *pWita, *pwita-i­                                                (N, V) 'snare'
+                                *pʷita, *pʷita-i­                                                (N, V) 'snare'
                                                                                                                          ,
                                 *bulit                                                           'gum, resin (birdlime?)
                               Although we can look to archaeology to confirm the hypothesis that durable artefacts will
@@ -13007,7 +13007,7 @@ POc *salap, *salap-i- 'sweep, broom'
 <
 
 POc *sapu(r), *sapur-i- 'brush (dirt +) off (s.L)' (where 's.t.' is the object)
-   Adm: Titan       sapwi                       'wipe, wipe off'
+   Adm: Titan       sapʷi                       'wipe, wipe off'
    NNG: Mapos Buang rvu                         'wipe, dry, clean'
    PT:  Muyuw       (katu)sap                   'brush dirt off'
    PT:  Misima      hapul                       'brush down (e.g. with coconut husk); brush;
@@ -13487,13 +13487,13 @@ POc *tapa(s), *tapas-i- 'cut into, incise'
 
    The two verbs below refer to cutting wood or shell to shape it or carve it in the production
 of artefacts such as canoes or shell inlays in carvings.
-   The reconstruction of POc *sapwi, as distinct from *sapi (§3. 7), is justified by the semantic
+   The reconstruction of POc *sapʷi, as distinct from *sapi (§3. 7), is justified by the semantic
 contrast between the two sets, and by unambiguous reflexes of POc *_pw_ (Tawala, Dobu,
 Tolai, Bauro -p-, Port Sandwich _VW_).
 
 <
 
-POc *sapWi[-] 'carve into shape,trim (with axe or adze), whittle'
+POc *sapʷi[-] 'carve into shape,trim (with axe or adze), whittle'
    Adm:    Loniu    sah                         (VT) 'chop, carve, sharpen, whittle'
                     sehi                        (VT) 'chip, carve, sharpen, whittle'
                     sehi-sah                    (VI) 'carve, whittle'
@@ -13840,8 +13840,8 @@ POc *sali[-] 'strip leaves from branch, frond'
 >
 <
 
-   The contrast between PEOc *sapi and POc *sapwi 'carve into shape, trim (with axe or
-adze), whittle', is referred to in §3.3. Note, however, that Gela sapi formally reflects *sapwi
+   The contrast between PEOc *sapi and POc *sapʷi 'carve into shape, trim (with axe or
+adze), whittle', is referred to in §3.3. Note, however, that Gela sapi formally reflects *sapʷi
 rather than *sapi, and is included below on semantic grounds:
 
 PEOc *sapi[-] 'strip (leaves); pluck (fruit, nuts)
@@ -13909,7 +13909,7 @@ POc *pt')ilit 'peel by hand (fruit, cooked food)'
 
    There are a number of verbs of splitting, apparently distinguished by the exact nature of
 the action, which in tum is often dependent on the texture of the object being split. POc
-*pt')olaql*pwalaq seems to have been the generic term for splitting or sometimes tearing
+*pt')olaql*pʷalaq seems to have been the generic term for splitting or sometimes tearing
 something into two. It was evidently the verb used of splitting a log for firewood. POc
 *potak, *potak-i- was the verb used of splitting something, e.g. a coconut, open. POc *kakas,
 *[kaJkas-i- and *pt')asi were perhaps more generic terms for 'split', but it is difficult to be
@@ -13940,7 +13940,7 @@ POc *(p,pʷ)olaq, *(p,pʷ)ola(q)-i- 'split (wood +)'
 >
 <
 
-POc *pwalaq 'split (wood +)'
+POc *pʷalaq 'split (wood +)'
    NNG:        Kove         (i)pala           'split (wood +)'
    NNG:        Gitua        pala              'chop'
    NNG:        Mangap       paala             (VT) 'break, cut, split into two'
@@ -13948,7 +13948,7 @@ POc *pwalaq 'split (wood +)'
                                               different manners of splitting)
    NNG: Gedaged             fale              'split, cleave, chop open, divide'
    NNG: Poeng               pale              (VT) 'split into strips'
-   PT:  Misima              pWal              'strip (sago or coconut leaves from main leaf
+   PT:  Misima              pʷal              'strip (sago or coconut leaves from main leaf
                                               stem)'
    MM:         Vitu         (yutu )valay(i)   'split (wood)'
    MM:         Bilur        parak             'split (wood)'
@@ -13956,7 +13956,7 @@ POc *pwalaq 'split (wood +)'
    MM:         Patpatar     paa-pal           'cut grass'
    SES:        Longgu       pala-             'cut cloth; cut straight across'
                             pala-pala(i)      'straight line of cloth which has been cut'
-   SES:        Sa'a         pwa               'break, crack; hatch'
+   SES:        Sa'a         pʷa               'break, crack; hatch'
    Mic:         Woleaian     fela              (VT) 'cut, hew with an axe'
    Mic:        Carolinian   fala              (VT) 'chop, split, cut wood or other relatively
                                               large objects with machete, axe or hand'
@@ -13966,7 +13966,7 @@ POc *pwalaq 'split (wood +)'
 
 The forms above suggest the following history. The POc form was (on MP evidence) *polaq.
 Initial *po- first became *pwo_ through spread of lip-rounding from vowel to consonant, then
-*pwo_ dissimilated to *pwa_. Either each of these forms occurred in the speech of the POc
+*pwo_ dissimilated to *pʷa_. Either each of these forms occurred in the speech of the POc
 community, or (less plausibly) independent parallel changes occurred in various daughter
 languages. Bauan bola also points to a POc doublet *bolaq (Ch. 2 , §3. 1 .3).
 
@@ -14381,7 +14381,7 @@ POc  *putu(k) and
 POc *qatu('1), *qatu'J-i-            'strike from above, pound'
 POc *babak, *baki[ -]                'strike one against another, knock '
 POc *tupu, *tupu-i-                  'knock against, knock over, stub (toe), stumble against'
-POc *pwasa(r,R), *pwasa(r,R)-i­      'slap, hit'
+POc *pʷasa(r,R), *pʷasa(r,R)-i­      'slap, hit'
 PWOc *sapu[-]                        'hit'
 PCP *sau, *sauti-                    'strike, beat, chop'
 PCP *(v,b)asu                        'a drum ' ; (V) 'drum, thump'
@@ -14424,8 +14424,8 @@ POc *punu(q), *punuq-i- 'hit, strike, fight, kill'
 
 POc *qubu, *qubWi- 'hit with fist or with a weapon'
    Adm: Nyindrou           ubWiy               'hit, beat'
-   Adm: Titan              upwi                'hit, strike, spank, punch'
-   Adm: Drehet             ?upWi(p)            'hit'
+   Adm: Titan              upʷi                'hit, strike, spank, punch'
+   Adm: Drehet             ?upʷi(p)            'hit'
    Adm: Mussau             ubi                 'kill; fight'
    PT:  Iduna              ?ubu(na)            'punch, hit with clenched fist'
    MM: Vitu                yubi                'kill'
@@ -14670,16 +14670,16 @@ POc *baki- (VT) 'strike one against another, knock, clap'
 
 PMP *tu(m)buk 'pound [6]
 POc *tupu(k), tupu(k)-i- 'knock against, knock over, stub (toe), stumble against'
-    Adm:     Drehet            tupWi(yi)            'push; knock over; set loose, adrift'
+    Adm:     Drehet            tupʷi(yi)            'push; knock over; set loose, adrift'
     NNG:     Mangseng          tup                  'stub, hit'
     PT:      Gumawana          tupu(we)             'knock someone down with force'
     MM:      Nakanai           tubu                 'stick to; hit with spear; hit a mark'
     NCV:     Mota              tipa                 'knock, strike downwards, beat one stone on
                                                     another, knock roughly'
     NCV: Lonwolwol             tebWi-               'kick, kick against, stumble over'
-   NCV: Nguna              tipWa(e)           'hit with fist, fight, be against'
+   NCV: Nguna              tipʷa(e)           'hit with fist, fight, be against'
                            timWa-timWa        'knock'
-   SV:     Kwamera         (*)rupwi           'clap, applaud, pat'
+   SV:     Kwamera         (*)rupʷi           'clap, applaud, pat'
 
 [6] Murut manumbuk, Minagkabau tumbu7, Sikka tubi, all 'pound with fist'.
 
@@ -14687,12 +14687,12 @@ POc *tupu(k), tupu(k)-i- 'knock against, knock over, stub (toe), stumble against
                                          Acts of impact, force and change of state           273
 
 
-A number of Eastern Oceanic items reflect a PEOc form *tipwa , and it is just possible that
+A number of Eastern Oceanic items reflect a PEOc form *tipʷa , and it is just possible that
 this is descended from a separate POc etymon.
 
 <
 
-POc *pwasa(r,R), *pwasa(r,R)-i- 'slap, hit'
+POc *pʷasa(r,R), *pʷasa(r,R)-i- 'slap, hit'
    Adm:    Mussau        posala               'hit'
    MM:     Sursurunga    posar, posri         'slap, clap, hit with the open palm'
    MM :    Patpatar      pasar                'slap; beat drum'
@@ -14753,7 +14753,7 @@ PCP *(v,b)asu 'a drum'; (V ) 'drum, thump'
 
 9.5.2 Break, smash, shatter
 
-    The first two reconstructions below, POc *pwosa(k), *pwosak-i- and POc *pwara(s), *pwaras-
+    The first two reconstructions below, POc *pwosa(k), *pwosak-i- and POc *pʷara(s), *pʷaras-
 i-, refer to the breaking of brittle objects, among them the shell of an egg when a chick
 hatches. It is possible that these were intransitive verbs in POc and that their subject was the
 breaking object, e.g., the egg. POc *(p,pʷ)oga(q) (VI) 'burst open, split open' and POc *momo(k)
@@ -14801,7 +14801,7 @@ POc *pwosa(k) (VI) 'break, shatter, crack open; (egg) hatch', *pwosak-i- (VT) 'b
 
 <
 
-POc *pWara(s), *pwaras-i- '(egg) hatch; hatch out (chick), break (coconut +)'
+POc *pʷara(s), *pʷaras-i- '(egg) hatch; hatch out (chick), break (coconut +)'
    PT:     Sudest          vWara             'hatch, break (egg, coconut)'
    MM:     Nakanai         (tutu)pola        '(egg) hatch, be broken'
                            (vali)pola        'hatch out (chick)'
@@ -15309,13 +15309,13 @@ the latter.
 
 <
 
-   Also reconstructable is PNNG *pr)isa(k), *pi)isak-i- 'squeeze (grated coconut +)'. It
+   Also reconstructable is PNNG *pr)isa(k), *(p,pʷ)isak-i- 'squeeze (grated coconut +)'. It
 seems probable that this is a reflex of POc *pisa(k), *pisak-i- 'split' (§3.8) which has undergone
 a change in meaning (essentially from 'split a coconut to obtain its flesh' to 'squeeze the
 coconut flesh to obtain its sap'). The partial formal similarity of this item to those above may
 have abetted this shift.
 
-PNNG *pi)isa(k), *pi)isak-i- 'squeeze (grated coconut +)'
+PNNG *(p,pʷ)isa(k), *(p,pʷ)isak-i- 'squeeze (grated coconut +)'
    NNG:       Gitua         pisa                'squeeze'
    NNG:       Kilenge       pise                'squeeze (grated coconut +)'
    NNG:       Atui          pis                 'squeeze (grated coconut +)'
@@ -15733,7 +15733,7 @@ well as the verbs listed below, reflexes of POc *patu(R), *patuR-i- 'tie, plait,
 baskets +)' (Ch. 4, §3. 1 . 1 ) and POc verb *saqi(t) 'sew' (Ch. 4, §3.2. 1 ) are also used for tying.
 This was evidently one of the POc meanings of the former, but probably not of the latter.
 Other verbs for various kinds of tying are listed below. POc *buku 'tie (a knot); fasten' was
-probably a generic term for tying, whilst POc *pwita 'tie by encircling', POc *paqu(s), *paqus-i­
+probably a generic term for tying, whilst POc *pʷita 'tie by encircling', POc *paqu(s), *paqus-i­
 'bind, lash; construct (canoe +) by tying together', and POc *pisi 'bind up, tie up, wind round,
 wrap' had more specialised meanings. There is insufficient information about POc *kiti 'tie,
 bind' to attribute a more specific meaning to it.
@@ -15763,7 +15763,7 @@ POc *buku 'tie (a knot); fasten'
 POc *bukuti (VT) 'tie (a knot); fasten'
    MM:     Ririo           pukici             'tie'
    MM:     Babatana        pukiti             'tie'
-   Mic:    Marshallese     pWiwciy            (VT) 'knot'
+   Mic:    Marshallese     pʷiwciy            (VT) 'knot'
    Mic:    Woleaian        ¢ugosii            (VT) 'knot'
    Mic:    Trukese         pWukeey            (VT) 'knot'
    Fij :   Bauan           bukuti             (VT) 'knot'
@@ -15771,10 +15771,10 @@ POc *bukuti (VT) 'tie (a knot); fasten'
 >
 <
 
-   The verb POc *pWita 'tie by encircling' was evidently used of tying a cord around, e.g., a
+   The verb POc *pʷita 'tie by encircling' was evidently used of tying a cord around, e.g., a
 limb (see also Ch. 8, § 1 3):
 
-POc *pWita, *pWita-i- 'tie by encircling, ensnare'
+POc *pʷita, *pʷita-i- 'tie by encircling, ensnare'
   NNG: Lukep                wit                'tie by encircling'
                             wit(kala)          'tie together'
                             pit                'snare, trap; to trap'
