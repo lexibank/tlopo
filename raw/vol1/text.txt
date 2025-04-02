@@ -856,7 +856,7 @@ addition of *pw.
 used in reconstructions by Ross ( 1 994a, 1 996d). The POc consonant inventory reconstructed
 by Ross ( 1 9 8 8:9 3-94), as well as its orthographically somewhat different predecessor
 reconstructed by Grace ( 1 969; see §2.4), included the pairs *p and *b, *t and *d, and *k and
-*g/[1] but only the single velarised bilabial *bw (Grace's *1Jp); so the conclusion that *pw is also
+*g/[1] but only the single velarised bilabial *bw (Grace's *ŋp); so the conclusion that *pw is also
 required by the data is not surprising. However, the reflexes of *pw have not been worked out
 as fully as those of other POc consonants (they are generally missing from the sources listed
 in Chapter 1 , §3.3 ), and unexplained inconsistencies remain among the small number of
@@ -993,7 +993,7 @@ c)   PMP and a number of its descendants had word-medial homorganic nasal + obst
      sequences (not in Table 1 ). Some instances of the pre-POc word-initial obstruents *p, *t,
      *k, *dlr, *s and *j also acquired a preceding homorganic nasal (the occurrence of this
      process is unpredictable and its causes largely unknown; cf. §3. 1 .3). These sequences
-     became the unitary early pre-POc phonemes *mp, *nt, *1Jk, *ndlnr and *nj, subsequently
+     became the unitary early pre-POc phonemes *mp, *nt, *ŋk, *ndlnr and *nj, subsequently
      the POc prenasalised voiced obstruents *b, *d, *g, *dr, and *j (pMP nasal + *s and nasal
      + *j merged as pre-POc *nj, POc *j). It is possible that pre-POc *nt, POc *d never
      occurred word-initially.
@@ -1419,9 +1419,9 @@ suffix, is attached to an A or U root to form a transitive verb. In its canonic 
 of this verb is a referent which would appear as an oblique with the corresponding direct
 transitive. For example:
 ( 1 1)     POc                                                  Boumaa Fijian
-           *ta1Jis                 'weep'                       ta1Ji
-           *ta1Jis-i-a             'weep for it'                ta1Ji-o-a
-           *ta1Jis-akini-a         'weep about it'              ta1Ji-oaʔin-a
+           *taŋis                 'weep'                       taŋi
+           *taŋis-i-a             'weep for it'                taŋi-o-a
+           *taŋis-akini-a         'weep about it'              taŋi-oaʔin-a
            *soka             'stab, spear'                      ooʔa
            *soka-i-a         'stab, spear it'                   ooʔa-
            *soka-(C)-akini-a 'stab, spear with it'              ooʔa-taʔin-a
@@ -1642,7 +1642,7 @@ that an oral grade-initial root occurred but is not reflected in our data.
      If the suggestion of the previous paragraph is correct, then we are looking for a morphological
 alternation that ceased to be productive shortly before the break-up of POCo I nitial nasal-grade
 consonants (which did not occur in this position in PMP) arose from a sequence of nasal +
-obstruent. That is, *b, *g, *dr, *j developed from pre-POc *mp, *1Jk, *nr, *ns (and *nc)
+obstruent. That is, *b, *g, *dr, *j developed from pre-POc *mp, *ŋk, *nr, *ns (and *nc)
 (§2.4). It is only a short step to infer that this nasal feature was the actor focus morpheme
 *-N- seen in ( 1 6) and ( 1 8) and that these pairs are systemically parallel to those in ( 1 9). But
 we should be wary of making this inference too quickly. PMP nasal + obstruent sequences
@@ -1662,7 +1662,7 @@ they often have a voiceless initial obstruent:
         *kinit, *kinit-i- 'pinch off'                         *kinit
         *kawit, kawit-i- 'hook, catch hold of'                *kawit
 This means that instead of the pair *kiril*giri, for example, descended from PMP voiceless­
-initial *kirkir, we would expect a pair *kiril**1Jiri, corresponding to the pairs in the lower half
+initial *kirkir, we would expect a pair *kiri/**ŋiri, corresponding to the pairs in the lower half
 of ( 1 9). But the only such pairs I have found are those in ( 1 9). Thus, although I cannot
 exclude the possibility that the pairs in ( 1 6) and (1 8) reflect a feature of the focus system, I
 am unable to give a principled account of them. [23]
@@ -1763,41 +1763,41 @@ Epi (central Vanuatu) (Tryon 1 976:289).
 
 34      Malcolm Ross
 
-final *-n, so *V-an and *V-a1J apparently coexisted, a fact for which I have no explanation.
+final *-n, so *V-an and *V-aŋ apparently coexisted, a fact for which I have no explanation.
 Secondly, there is good evidence that both also occurred with an additional *-a, i.e. as *V -ana
-and *V -a1Ja. The only known language where a contrast has been found between forms
-without and with -a is Mangseng (NNG), where -1J is the general nominaliser, -1J-a the
-instrumental formative (e.g. puno-1J (N) 'fight', puno-1J-a 'weapon ', both from pun (V )
+and *V -aŋa. The only known language where a contrast has been found between forms
+without and with -a is Mangseng (NNG), where -ŋ is the general nominaliser, -ŋ-a the
+instrumental formative (e.g. puno-ŋ (N) 'fight', puno-ŋ-a 'weapon ', both from pun (V )
 'fight'). This suggests that the forms with *-a may have had a separate function in POco
-   Forms reflecting *V -an and *V-a1J can be disambiguated only in languages which preserve
+   Forms reflecting *V -an and *V-aŋ can be disambiguated only in languages which preserve
 POc final consonants faithfully, and in fact only two such languages are known to reflect
 *V-an. These are Roviana and Hoava, as illustrated above. However, if reflexes of *V -ana
 are also taken as evidence of POc *V -an, then there are a number of these in the Admiralties,
 e.g. Seimat paku-an[26] (N) 'dance', from pak (V) 'dance', and in Central and South Vanuatu,
 e.g. Paamese sau-ene 'singing' from sau 'sing', Lenakel akar 'talk' from n-akar-aan 'talking'
 (where n- reflects a POc article *na).
-    Forms reflecting *V-a1J are found in languages of the NNG cluster. Here, however, there
-is a different complication, namely that *V-a1J and *V-a1Ja are reflected as *V-1J and *V-1Ja,
-e.g. *mate-a1Ja 'death' is replaced by *mate-1Ja , getting rid of the vowel sequence in favour of
+    Forms reflecting *V-aŋ are found in languages of the NNG cluster. Here, however, there
+is a different complication, namely that *V-aŋ and *V-aŋa are reflected as *V-ŋ and *V-ŋa,
+e.g. *mate-aŋa 'death' is replaced by *mate-ŋa , getting rid of the vowel sequence in favour of
 the strongly CV canonic shape of early Oceanic (§2.2). This is evidently a local innovation.
-Thus we find, for example, Lukep-Pono kani-1J 'yam' (from *kani 'eat'), Gitua gururu-1J (N)
+Thus we find, for example, Lukep-Pono kani-ŋ 'yam' (from *kani 'eat'), Gitua gururu-ŋ (N)
 'thunder' (from *guru (v) 'thunder').
-    Forms reflecting *V-a1Ja and *V-1Ja are well scattered, for example, Poeng (NNG) mate-1Ja
-'death' (from *mate 'die'), Mussau palapala-1Ja (N) 'thunder' (from *pʷaraq (V) 'thunder',
-Samoan (pn) inum-a1Ja 'draught, dose' (from *inum 'drink'), tafi-1Ja 'removal' (from tafi
+    Forms reflecting *V-aŋa and *V-ŋa are well scattered, for example, Poeng (NNG) mate-ŋa
+'death' (from *mate 'die'), Mussau palapala-ŋa (N) 'thunder' (from *pʷaraq (V) 'thunder',
+Samoan (pn) inum-aŋa 'draught, dose' (from *inum 'drink'), tafi-ŋa 'removal' (from tafi
 'remove'), and throughout Polynesia.
     There is a wealth of languages in which final consonants are lost, so that both *V-an and
   V
-* -a1J are regularly reflected as -a, leaving us with no way of knowing which form was
+* -aŋ are regularly reflected as -a, leaving us with no way of knowing which form was
 ancestral (e.g. Loniu he-ya 'washing' from he 'wash'; Malo dule-a 'clearing bush' from dule
 'clear bush'). The Bali dialect of Bali-Vitu retains final consonants with a following echo
-vowel, but neutralises POc *-n and *-1J as -1J-, so that the ancestral consonant is again
-ambiguous (e.g. m01Je-a1Ja 'sleeping' from m01Je 'sleep').
+vowel, but neutralises POc *-n and *-ŋ as -ŋ-, so that the ancestral consonant is again
+ambiguous (e.g. moŋe-aŋa 'sleeping' from moŋe 'sleep').
     I n the light of these complications-and because we do not understand them well-we
-reconstruct each nominalisation as the data require, with *V-an, *V -a1J, *V-ana or *V -a1Ja (or
-on occasion *V-1J or *V-1Ja), but recognising that this is probably not an accurate rendering of
+reconstruct each nominalisation as the data require, with *V-an, *V -aŋ, *V-ana or *V -aŋa (or
+on occasion *V-ŋ or *V-ŋa), but recognising that this is probably not an accurate rendering of
 the POc form. As I noted above, however, we find cognate sets which allow the reconstruction
-of, say, both *mate-an (or *mate-a1J or whatever) and *mdmate 'death'. These pairs occur
+of, say, both *mate-an (or *mate-aŋ or whatever) and *mdmate 'death'. These pairs occur
 almost certainly because the reflex of one of *V-an (etc.) or *dm.../ has extended its productivity
 at the expense of the other in various languages, creating the appearance that POc had both
 forms. In such cases we reconstruct, e.g., POc *mate ('die') + NOMINALISER 'death', as we
@@ -3515,8 +3515,8 @@ POc *kuran 'earthernware pot'
 
 4.2. 1.2 Waterjar
 
-    The best candidate for 'water jar' is POc *kalala(1J), reconstructed on the basis of Proto
-WMP *kalala1J 'narrow-necked water jar' (Tagalog kalala1J 'narrow-necked water jug'; Blust
+    The best candidate for 'water jar' is POc *kalala(ŋ), reconstructed on the basis of Proto
+WMP *kalalaŋ 'narrow-necked water jar' (Tagalog kalalaŋ 'narrow-necked water jug'; Blust
  1 980b). However, only one Oceanic reflex , in the PT language Iduna, has been found: kalala
 'cooking pot made in Wedau'. Even this reflex is problematic, since POc *l is reflected as
 Iduna n in directly inherited items, and we must therefore assume that the item has been
@@ -3843,7 +3843,7 @@ POc *kulopi 'ladle, bailer'
 >
 
    An additional reconstruction, POc *asu (V) 'scoop or ladle out' ; (N) 'ladle, bailer', from
-PMP *a1Jsu 'scoop or bail out' is included in Chapter 7, §7.4.
+PMP *aŋsu 'scoop or bail out' is included in Chapter 7, §7.4.
 
 <
 
@@ -4283,14 +4283,14 @@ POc *pai 'weave'
   NNG: Gitua              va-vai
   NNG: Numbami           wa-wai
   NNG: Kove               wal               'make a basket, plait a door'
-                          wa-wai1Ja         'string figures'
+                          wa-waiŋa         'string figures'
   PT:    Misima           vel               'plait'
   MM:    Vitu             vai
   MM:    Lavongai         pai
   MM:    Label            hai
   NCV:   Paamese          hai               (VT) 'weave, make fence'
 
-   Biggs ( 1 993) adds one lower-level reconstruction: PPn *la1Ja 'plait (mat, basket) .
+   Biggs ( 1 993) adds one lower-level reconstruction: PPn *laŋa 'plait (mat, basket) .
 
 >
 
@@ -4656,7 +4656,7 @@ POc *(m,mʷ)ata- 'point, cutting edge, sharp projection ' (Grace 1 969)
                                                  preposition ')
     Mic:     Puluwat             mah             '(pencil, spear +) point'
     Mic:     Mokilese            mac             'spearhead'
-    Fij:     Wayan               1Jata           'be sharp'
+    Fij:     Wayan               ŋata           'be sharp'
     Pn:      Tongan              mata            'blade, cutting edge, point'
     Pn:      Tahitian            mata            'edge of a tool'
 
@@ -4982,7 +4982,7 @@ POc *kiri 'file, rasp, saw'
 
 POc *giri 'file, rasp, saw'
   NNG: Mangseng           kir                'rub, file'
-                          kir(01Ja)          (N) 'file' (-oŋa NOM)
+                          kir(oŋa)          (N) 'file' (-oŋa NOM)
   SES:    Gela            gi-giri            (N) 'rasp; a saw'
   SES:    Lau             giri-giri          'roughen, as a stick with notches, or in making a
                                              file'
@@ -5070,7 +5070,7 @@ PCP *taba 'bark'
     SES:    Lau                'laba                'hand, arm, wing; leaf, frond, cloth; portion, part'
     SES:    Arosi              'laba                'wing, limb; leaf (of banana +)'
 
-   Note that although the general term for bark-cloth in Tonga is 1Jatu and in Samoa is siapo,
+   Note that although the general term for bark-cloth in Tonga is ŋatu and in Samoa is siapo,
 the term tapa does exist in both places. In Tonga today it refers more generally to 'edge, rim,
 border, boundary', and in Samoa it refers to the uncoloured border of the coloured bark-cloth
 sheet or siapo. Biggs ( 1 993) lists these as apparently unrelated homonyms. Alternatively, if
@@ -5099,8 +5099,8 @@ PPn *siapo 'paper-mulberry plant (Broussonetia sp.); bark-cloth' (Biggs 1 993)
 
     A number of reconstructions have been made at PCP or PPn level, but the similarity of
 gloss indicates the likelihood of more subtleties of meaning than we have been able to
-identify here. They include: PCP *1Jatu 'old or worn bark-cloth', PCP *leu-leu '(old) tapa
-cloth', and PPn *1Jafi-1Jafi 'old mat or bark-cloth' (Biggs 1 993).
+identify here. They include: PCP *ŋatu 'old or worn bark-cloth', PCP *leu-leu '(old) tapa
+cloth', and PPn *ŋafi-ŋafi 'old mat or bark-cloth' (Biggs 1 993).
     The only term reconstructable for the Southeast Solomons is apparently limited to the
 island of Malaita.
     SES:    Lau                maku    'bark-cloth'
@@ -5964,7 +5964,7 @@ POc *quluŋ-an 'rest the head on; wooden headrest' (ACD)
 
 
 
-Figure 1 8 : POc *qulu1J-an 'wooden headrest' (from Nevermann 1 934:27 1 )
+Figure 1 8 : POc *quluŋ-an 'wooden headrest' (from Nevermann 1 934:27 1 )
 
 <
 
@@ -9566,9 +9566,9 @@ canoes, but evidently excluded canoes without outriggers or sails.
 
     Cognates belonging to the set above are sometimes placed together with forms listed
 below:
-    WMP: Malay       wa1JkafJ                        'Chinese junk'
-    WMP: Javanese    wa1JkafJ                        'Chinese junk'
-    WMP: Ngaju Dayak va 1Jka 1J                      'Chinese junk'
+    WMP: Malay       waŋkaŋ                        'Chinese junk'
+    WMP: Javanese    waŋkaŋ                        'Chinese junk'
+    WMP: Ngaju Dayak vaŋkaŋ                      'Chinese junk'
 
 >
                                                                              Canoes and seafaring        1 79
@@ -9579,17 +9579,17 @@ and:
 <
 
 PAn *ba(ŋ)ka(q) ? 'outrigger canoe, dugout canoe'
- Fma: Kuvalan            bafJka           'canoe'[7]
-    WMP: Aklanon               ba1Jca                'canoe'
-    WMP: Balangaw              bafJka                'canoe'
-    WMP: Cebuano               ba1Jka?               'one-piece dugout between 5 and 15 metres,
+ Fma: Kuvalan            baŋka           'canoe'[7]
+    WMP: Aklanon               baŋca                'canoe'
+    WMP: Balangaw              baŋka                'canoe'
+    WMP: Cebuano               baŋka?               'one-piece dugout between 5 and 15 metres,
                                                      optionally with one or two masts and outrigger'
- WMP: Ilongot        ba1Jka                         'canoe'
- WMP: Tagalog         ba1Jka?                        'canoe'
+ WMP: Ilongot        baŋka                         'canoe'
+ WMP: Tagalog         baŋka?                        'canoe'
                                                                                        ,
- WMP: Tausug          ba1Jkaq                        'dugout canoe (without outrigger)
- WMP: Laiyolo         bi1Jka                         'canoe, boat'
- WMP: Tolaki          ba1Jga                         'canoe'
+ WMP: Tausug          baŋkaq                        'dugout canoe (without outrigger)
+ WMP: Laiyolo         biŋka                         'canoe, boat'
+ WMP: Tolaki          baŋga                         'canoe'
 PCEMP *ba(ŋ)ka 'canoe'
  CMP: Larike                   haka
  CMP: S. Nuaulu                haka
@@ -9859,7 +9859,7 @@ PMP *dakit (N) 'raft'; (V) 'join along the length' (Blust 1 986)
   WMP: Sika               dakit (wii)        '(earth, flour, resin) cleave, stick together'
   WMP: Maloh              daʔit              'raft'
                           dakit              'join along the length'
- CMP: Taliabo             (ka)ha1Jki?        'raft' (Charles Grimes, pers.comm.)
+ CMP: Taliabo             (ka)haŋki?        'raft' (Charles Grimes, pers.comm.)
 POc *raki(t) ?'raft; join outrigger, join two hulls'
   PT:     Motu            rai                'prepare a canoe for the sea; tie the outrigger on;
                                              tie two canoes to make an irai (double-hulled
@@ -10235,12 +10235,12 @@ languages the reflex of POc *saman also has the sense of 'outrigger side of the 
 contrast to *katae 'free side of canoe' (§4.4).
 
 PMP *(c,s)a(R)man 'outrigger float'
-  WMP: Sangir            sahema1J
+  WMP: Sangir            sahemaŋ
   WMP: Tonsea            sareman            ? 'paddle'
   WMP: Chamorro          sakman             ' large canoe from Polynesia or Papua. No
                                             outrigger, capable of carrying over 1 00 people'
   WMP: Ambonese Malay
-                         sema1J             'wooden strut which supports float'
+                         semaŋ             'wooden strut which supports float'
  CMP: Buru             seman                'wooden strut which supports float'
  CMP: Larike           simanu               'wooden strut which supports float'
  CMP: Kola             ama                  'wooden strut which supports float'
@@ -11017,7 +11017,7 @@ PMP *sakay 'embark, be aboard, ride (on a vessel +)'
   WMP: Cebuano            sakay              'travel by sea, embark, ride on (a boat +')
   WMP: Ilokano            sakay              'ride in a boat'
   WMP: Bikol              (mag)-sakay        'ride in a boat'
-  WMP: Sangir             sakae1J            'boat' (from PMP *sakay-an lit. 'thing to ride
+  WMP: Sangir             sakaeŋ            'boat' (from PMP *sakay-an lit. 'thing to ride
                                              on')
   CMP: Asilulu            saka               'ascend, climb'
   CMP: Selaru             sai                'climb, go up, ride, mount'
@@ -11188,7 +11188,7 @@ certainty a PMP name for 'outrigger sailing canoe', we can reconstruct PMP terms
 therefore safely be inferred that PMP speakers were familiar with outrigger sailing canoes.
 Furthermore, it seems that all Oceanic languages have a general name for outrigger sailing
 canoes (as well as, usually, a variety of terms for specific types). It would be very surprising
-if such a name did not exist in PMP, even if it was not cognate with the term *wa1Jka/*waga
+if such a name did not exist in PMP, even if it was not cognate with the term *waŋka/*waga
 that has been reconstructed for PEMP and POc. The same reasoning applies, say, to 'canoe
                                                                  Canoes and seafaring         209
 
@@ -12277,7 +12277,7 @@ the following POc reconstructions:
   *ta(g,k)o               'barbless (?) fishhook'
   *qunap                  'turtle shell; fishhook'
   *bayan                  'trolling lure'
-  *bani, *ba1Ji           'bait; fodder'
+  *bani, *baŋi           'bait; fodder'
 
 Of these items, fishhooks have proved the most useful in developing local culture sequences.
 One-piece fishhooks made from several kinds of shell are now well documented from a
@@ -12574,7 +12574,7 @@ PMP *kirkir (V) 'file, rasp' (Blust 1 977)
 
 (2) POc *giri[-] 'file, rasp'
    NNG: Mangseng            kir                'rub, file'
-                            kir(o1Ja)          (N) 'file' (-o1Ja NOM)
+                            kir(oŋa)          (N) 'file' (-oŋa NOM)
    SES:        Gela          gi-giri           (N) 'rasp; a saw'
    SES:        Lau           giri-giri         'roughen, as a stick with notches or in making a
                                                file'
@@ -13457,17 +13457,17 @@ POc *taba(s), *taba(s)-i- 'cut'
 <
 
 POc *tapa(s), *tapas-i- 'cut into, incise'
-   NNG: Bing                taJa(hat)           'break in the middle'
+   NNG: Bing                tafa(hat)           'break in the middle'
    PT:   Muyuw              tav                 'cut down the middle'
    MM: Patpatar             tahe                'split open (nuts with stone, knife +)'
    MM: Teop                 tava-tava           'scar from decorative cuts, tattoo'
    SES: Gela                tavahi              'castrate'
-   SES: Lau                 aJa                 'cut, incise, mark, notch'
+   SES: Lau                 afa                 'cut, incise, mark, notch'
    SES: Arosi               aha                 'cut, sever, score, notch'
    NCV: Mota                tov                 'begin cutting a canoe into shape'
    NCV: Raga                tava                'cut'
-   Mic: Woleaian            teJa                (VT) 'cut, slice'
-   Mic: Trukese             saJeti              'peel or take the skin from a roasted breadfruit'
+   Mic: Woleaian            tefa                (VT) 'cut, slice'
+   Mic: Trukese             safeti              'peel or take the skin from a roasted breadfruit'
    Fij : Bauan              tava                '(of flesh of living or dead body) make a long
                                                 but superficial cut' (Milner); (VT) 'cut with a
                                                 knife, as meat from a carcass' (Capell)
@@ -13492,7 +13492,7 @@ POc *sapʷi[-] 'carve into shape,trim (with axe or adze), whittle'
                     sehi                        (VT) 'chip, carve, sharpen, whittle'
                     sehi-sah                    (VI) 'carve, whittle'
    NNG: Mangap      sap                         'chop, hew'
-   NNG: Adzera      saJ-                        'cut'
+   NNG: Adzera      saf-                        'cut'
    NNG: Mapos Buang sap                         'cut, slice, slash; to cut across the grain at an
                                                 angle with an adze or knife'
    PT:     Tawala           hapi                'chop, hew'
@@ -13501,9 +13501,9 @@ POc *sapʷi[-] 'carve into shape,trim (with axe or adze), whittle'
    PT:     Muyuw         sav                    'cut bushes with a bush knife'
    MM:     Tolai         api                    (VT) 'dress wood by chipping it; to level'
    SES:    Bauro         tapi-                  'cut (wood)'
-   NCV:    Port Sandwich savWi                  'carve, cut flat with axe, trim, sharpen'
+   NCV:    Port Sandwich savʷi                  'carve, cut flat with axe, trim, sharpen'
    NCV:    Paamese       (mu)sahi               'carve, cut into shape'
-   NCal:   Nemi          f'avi                  'chop, hew'
+   NCal:   Nemi          tʰavi                  'chop, hew'
 
 >
 <
@@ -13544,7 +13544,7 @@ POc (?) *tepa-i- 'slice (flesh), circumcise'
 <
 
 PEOc *soni, *sonit-i- 'incise, cut into'
-   SES:    Arosi           tOŋii               'prick a boil'
+   SES:    Arosi           toŋi               'prick a boil'
    Fij :   Wayan           soni(ti)            'cut S.t. open, make a small cut in (body part)'
    Fij :   Bauan           soni(ta)            'make a small incision, as for piercing a boil'
    Pn:     Tongan          soni                'make a small incision, lance'
@@ -13565,11 +13565,11 @@ not allow us to reach clear conclusions about the kinds of cutting they were use
 PMP *qiris 'cut, slice' (ACD)
 POc *qiri(s) 'cut'
    PT:     Misima           il                 'strip (bark from wood, leaves from frond)
-   MM :    Vitu             yiri               'cut (string +)'
-                            yiri(via)          'cut (string +)'
+   MM :    Vitu             ɣiri               'cut (string +)'
+                            ɣiri(via)          'cut (string +)'
    MM :    Nakanai          hili(li)           'strip off (leaves)'
-   SES:    Gela             yiri               'cut with sawing motion'
-   SES:    Lau              ?iri               'chop, cut'
+   SES:    Gela             ɣiri               'cut with sawing motion'
+   SES:    Lau              ʔiri               'chop, cut'
    SES:    Arosi            kiri               'slice, cut open'
 
 >
@@ -13580,12 +13580,12 @@ POc *qiri(s) 'cut'
 
 PMP *keleŋi (db!. *geleŋi) 'cut into pieces' (Blust 1 989)
 POc *kolo(ŋi) 'cut'
-   MM:        Nakanai       oLo, 01010         'cut, scarify' (common tattoo word)
-   SES:       Longgu        olo(?ia)           'cut (string)'
-   SES:       Lau           ?olo(fita)         'cut up (fruit +)' (fita 'split, divide')
+   MM:        Nakanai       olo, ololo         'cut, scarify' (common tattoo word)
+   SES:       Longgu        olo(ʔia)           'cut (string)'
+   SES:       Lau           ʔolo(fita)         'cut up (fruit +)' (fita 'split, divide')
    SES:       'Are'are      oro(ia)            'cut the head off'
-   SES:       Sa'a          010                (VT) 'cut the ends off' (oLo pwau 'cut hair')
-   SES:       Arosi         ?oro               'cut up, as for planting'
+   SES:       Sa'a          olo                (VT) 'cut the ends off' (oLo pwau 'cut hair')
+   SES:       Arosi         ʔoro               'cut up, as for planting'
    cf. also
    PT:        Motu          koro               'break off twigs or blaze trees to mark the road;
                                                to notch, carve'
@@ -13692,7 +13692,7 @@ POc *kulit, *kulit-i- (N) 'skin'; (V) 'peel, remove skin of s.t., bark (a tree)'
    MM:       Simbo         guli, guli-        (V) 'skin, pare skin off'
    SES:      Gela          guli, guliti-      (V) 'skin, bark (shin or a tree +); take the scab
                                               off a sore'
-   SES:       Arosi         ?uri               (V) 'peel'
+   SES:       Arosi         ʔuri               (V) 'peel'
    Fij :     Bauan         kuli               (N) 'skin, bark, peel'
                            kulit-             'peel cooked taro or food cooked in water; strip
                                               off the skin or bark of a tree'
@@ -13731,7 +13731,7 @@ meaning shift to 'cut a piece off s.t. ').
 
 PCEMP *isi 'peel, strip off; scrape (coconut)' (ACD)
 POc *isi[-] 'scoop out (flesh from coconut +); peel off (skin, bark +) '
-   NNG: Poeng              lSI                'strip bark from tree or vine'
+   NNG: Poeng              isi                'strip bark from tree or vine'
    PT:  Molima            isi, isi-          'grate (on a grater), rub (s.t.)'
    PT:  Motu               idi                'prise meat from coconut, press or squeeze with
                                               an implement'
@@ -13758,9 +13758,9 @@ POc *sisi[-] 'scoop out (flesh from coconut +); peel off (skin, bark +)'
                                                     can)'
      SES:      Gela             hihi                 (VT) 'scoop out the white flesh of a coconut;
                                                     push out, prise out; open (tin +)'
-    NCV:      Mota             SIS                  'rub or knock off skin or bark, flay'
+    NCV:      Mota             sis                  'rub or knock off skin or bark, flay'
     Fij :     Rotuman          sisi                 'peel or strip off'
-    Fij :     Bauan            oioi                 'separate pulp from coconut'
+    Fij :     Bauan            ðiði                 'separate pulp from coconut'
     Pn:       Tongan           hihi                 'scoop out, gouge out (clams)'
 
 
@@ -13785,7 +13785,7 @@ POc *Risi(q) 'remove by tearing, tear or peel off (bark +) in long narrow strips
     Pn:       Samoan           isi                  'split'
     Pn:       Niuean           ihi                  'split, divide, rip open'
     Pn:       Takuu            isi                  'remove skin or bark in long strips'
-    Pn:       Nukuria          lSI                  'peel off in long thin strips'
+    Pn:       Nukuria          isi                  'peel off in long thin strips'
     Pn:       Maori            ihi                  'split, divide; separate; strip bark off a tree'
     Pn:       Hawaiian         ihi                  'strip, peel, as bark or fruit; tear off, remove'
 
@@ -13804,9 +13804,9 @@ PAn *testes 'tear, tear up' (Blust 1 977)
 POc *tosi[-] 'score, split, pull apart lengthwise'
    SES:       Arosi         osi                'cut, score'
    SES:       Lau           osi                'pull to pieces, as a house'
-   Fij :      Wayan         tooi-               'cut (e.g. pandanus leaves) into fine strips, trim,
+   Fij :      Wayan         toði-               'cut (e.g. pandanus leaves) into fine strips, trim,
                                                cut thorns off'
-   Fij :      Bauan         tooi(a)            'remove thorns of voivoi pandanus leaves with a
+   Fij :      Bauan         toði(a)            'remove thorns of voivoi pandanus leaves with a
                                                shell; split voivoi leaves in long narrow strips
                                                with a shell; plane board or plank away from
                                                oneself with a sharp blade or edge used endwise'
@@ -13868,12 +13868,12 @@ POc *kati[-] 'husk with the teeth '
    NNG: Kaiwa              ati                'bite'
    MM: Tolai               kat                'gnaw, pull the husk of a coconut or bete1nut
                                               with the teeth'
-   SES:    Tolo            yeti(a)            'bite off the husk of betelnut'
+   SES:    Tolo            ɣeti(a)            'bite off the husk of betelnut'
    Mic:    Woleaian        gei-gei            'bite with teeth, husk coconut husks into smaller
                                               layers'
    Fij:    Boumaa          ʔati[-]            'bite'
    Pn:     Niuean          eti                'bite off, as rind of sugarcane + '
-   Pn:     Rennellese      ?eti               'husk a coconut'
+   Pn:     Rennellese      ʔeti               'husk a coconut'
    Pn:     Mangareva       eti                'tear with teeth'
 
 The item above shows a sporadic change from POc *a to PEOc *e. This resembles the
@@ -13884,7 +13884,7 @@ forms with both vowels must be reconstructed for POco
 <
 
 POc *pt')ilit 'peel by hand (fruit, cooked food)'
-   NNG: Mangap             plli               (v) 'husk (com, pitpit +)'
+   NNG: Mangap             pīli               (v) 'husk (com, pitpit +)'
    NNG: Kairiru            pil                'peel skin off (cooked vegetable) by hand' (PL
                                               OBI)
                            pli                'peel skin off (cooked vegetable) by hand' (SG
@@ -13944,7 +13944,7 @@ POc *pʷalaq 'split (wood +)'
    NNG: Poeng               pale              (VT) 'split into strips'
    PT:  Misima              pʷal              'strip (sago or coconut leaves from main leaf
                                               stem)'
-   MM:         Vitu         (yutu )valay(i)   'split (wood)'
+   MM:         Vitu         (ɣutu )valaɣ(i)   'split (wood)'
    MM:         Bilur        parak             'split (wood)'
    MM:         Bola         pala              'cut (meat +)'
    MM:         Patpatar     paa-pal           'cut grass'
@@ -13971,9 +13971,9 @@ POc *potak, *potak-i- 'crack open, split open (nuts, coconuts +), make incision'
    Adm: Loniu               pot               (VI) 'be broken, be chopped down'
    Adm: Titan               pot               (VI) '(wooden objects) be broken'
   NNG:         Malasanga    pota               'split (wood)'
-  NNG:         Manam        ota?               'crack S.t. open (coconuts, canarium nuts +)'
-  MM:          Notsi        Pdt                'chop'
-  MM:          Teop         potii              'cut open (Pig belly); split (open)'
+  NNG:         Manam        otaʔ               'crack S.t. open (coconuts, canarium nuts +)'
+  MM:          Notsi        pət                'chop'
+  MM:          Teop         potā              'cut open (Pig belly); split (open)'
   MM:          Varisi       pota               'cut (string)'
   SES:         Bugotu       fota               'break, smash up, be broken'
   SES:         Tolo         vota               'separate (e.g. strings of rattan)'
@@ -14020,7 +14020,7 @@ POc *kakas, *[ka]kas-i- 'split'
 PMP *biseqak 'split' (ACD)
 POc *pisa(k), *pisak-i- 'split'
    PT:        Dobu          pisa(ri)          'smash'
-   SES:       Longgu        vita?(ai)         'split (firewood, kindling)'
+   SES:       Longgu        vitaʔ(ai)         'split (firewood, kindling)'
    SES:       Lau           fita              'split, divide'
    SES:       'Are'are      hita              'split, hit, struck'
    SES:        Sa'a          hite              (VI) 'split; to hit, strike, arrive at'
@@ -14463,7 +14463,7 @@ POc *rapu(t), *raput-i- 'hit with hand or stick, slash'
                            lau(tafi)          'cut grass using grass knife' (PL SUBJ)
    PT:     Ubir            rabi-              'hit'
   PT:      Tawala          lau(ni)            'hit, shoot'
-  MM:      Lavongai        rau(1J)            'kill'
+  MM:      Lavongai        rau(ŋ)            'kill'
   MM:      Sursurunga      raps(i)            'hit, spank, beat'
   MM:      Ramoaaina       rapu               'hit (with a stick +)'
   MM:      Teop            ravu-ravu          'pound, mash'
@@ -14856,7 +14856,7 @@ POc *pita(k), *pitak-i- 'break, split'
                             (gi)fte         'split, as result of sharp blow'
    MM:         Patpatar     pit             'break away a part; slice open belly of pig to
                                             remove bowels'
-   SES:        Longgu       vita?(ai)       'split firewood, kindling'
+   SES:        Longgu       vitaʔ(ai)       'split firewood, kindling'
 
 >
 276        Malcolm Ross, Ross Clark and Meredith Osmond
@@ -14922,7 +14922,7 @@ to the PAn roots they reflect. Thus the first set reflects the PAn root *-buC 'w
 pluck out' (Ch. 2, §3. 1 . 3):
 
 POc *pupu(t), *puti                'pick (fruit +), pluck (feathers +)'
-POc *sapu(t), *saput-i­            'pull out, pull up, pluck (fruit, nuts)'
+POc *sapu(t), *saput-i-            'pull out, pull up, pluck (fruit, nuts)'
 POc *tapu(t), *taput-i             'strip (crops), pull off'
 
 PPn *lohu 'fruit-plucking pole, hook something with a pole' (Biggs 1 993), probably also
@@ -14964,9 +14964,9 @@ POc *puti- 'pick, pluck (feathers), pull out (weeds +)'
   MM:      Ramoaaina       ut                    'clean away the fibre from coconut; pluck
                                                  (chicken feathers)'
    SES:    Bugotu         vuti                   'pluck out by roots'
-   SES:    Lau            Jusi                   'pluck leaves, flowers, fruit; twitch off fruit
+   SES:    Lau            fusi                   'pluck leaves, flowers, fruit; twitch off fruit
                                                  with a pole'
-                           Ju-Jusi               'pluck'
+                           fu-fusi               'pluck'
    SES:    Sa'a            hu-husi               'pluck, pick off'
   NCV: Mota          vut                       'dig, heaving up the soil as with digging stick'
   NCV: Port Sandwich pilei                     'pluck'
@@ -14976,13 +14976,13 @@ POc *puti- 'pick, pluck (feathers), pull out (weeds +)'
   Mic:        Ponapean      us                 'pull out, pluck'
   Fij :       Wayan         vuti               (VI) 'be plucked, picked' (VT) 'pick or pluck
                                                things, do the picking or plucking'
-   Fij :      Bauan         vuti­              'pluck hair or feathers, pull up weeds'
-   Pn:        Tongan        Jusi               'pull or tug; pull or haul in; pull up or hoist (a
+   Fij :      Bauan         vuti-              'pluck hair or feathers, pull up weeds'
+   Pn:        Tongan        fusi               'pull or tug; pull or haul in; pull up or hoist (a
                                                flag); pull up or weigh (an anchor); pluck'
-                            Ju-Jusi            'pull roughly or forcibly or too hard or without
+                            fu-fusi            'pull roughly or forcibly or too hard or without
                                                due care; overstretch'
-   Pn:        Samoan        Juri               'pull off (weeds, hair +); pluck (hen +)'
-                            Ju-Juti            'play a fish (in reeling it in)'
+   Pn:        Samoan        futi               'pull off (weeds, hair +); pluck (hen +)'
+                            fu-futi            'play a fish (in reeling it in)'
 
  POc *puti- above bears a close formal resemblance to POc *pwuri[_J 'cut off' (§3 . 1 ), but we
 reconstruct them separately on the basis of (i) the difference in initial correspondence sets (cf.
@@ -15043,8 +15043,8 @@ PEOc *tau(s,t), *tau(s,t)-i- 'pluck (fruit, leaves)' (French-Wright 1 983)
 
 PAn root *-pak 'break, crack, split' (Blust 1 98 8 : 135- 136)
 POc *sapaki 'pluck off, break off Oeaves) with the hand' (French-Wright 1 983)
-   NNG:        Manam         sapa?               'pluck off'
-   MM:         Kara (East)   stJpak              'cut, gather; sago leaves for roofing'
+   NNG:        Manam         sapaʔ               'pluck off'
+   MM:         Kara (East)   səpak              'cut, gather; sago leaves for roofing'
    MM:         Patpatar      sapak               'cut meat of animal into edible portions; break'
    MM :        Sursurunga    sapki               'pull apart; pick (leaves, not fruit)'
    MM :        Tolai         apak                'break off leaves from a tree, as for cooking or
