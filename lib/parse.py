@@ -257,7 +257,7 @@ class Reflex:
         if word.endswith(','):
             word = word[:-1]
         for c in word:
-            if c not in PHONEMES + 'ɸháāfzʔðᵑg()-ūɣɔvøʷəо̄öītʰxɨθ':
+            if c not in PHONEMES + 'ɸháāfzʔðᵑg()-ūɣɔvøʷəо̄öītʰxɨīθbˠŋɛūčēæ':
                 print(rem, line)
         assert lang, line
         return cls(group=group.strip(), lang=' '.join(lg), form=rem)
