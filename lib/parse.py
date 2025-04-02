@@ -106,6 +106,9 @@ def parse_protoform(f, pl):
         phonemes.extend(['f'])
     if pl in ['PNGOc']:
         phonemes.extend(['kʷ'])
+    # Tahitian, Arosi: "ʔ"
+    # Bauan: "ð"
+    # Raga: "ᵑg"
     form = ''
 
 
@@ -137,7 +140,7 @@ def parse_protoform(f, pl):
         form += c
 
     if form != f:
-        if f[len(form) + 1:].strip()[0] not in '(*?[':
+        if f[len(form) + 1:].strip()[0] not in '(*?[ʔ':
             assert ' or ' in f or '(kuron)' in f, f
             #print("{}\t{}".format(form, f[len(form) + 1:]))
 
@@ -239,15 +242,25 @@ class Reflex:
     def from_line(cls, langs, line):
         lang = None
         group, _, rem = line.partition(':')
-        rem = rem.strip().split()
+        rem_words = rem.strip().split()
         for lg in sorted(langs, key=lambda l: -len(l)):
             lg = lg.split()
-            if rem[:len(lg)] == lg:
+            if rem_words[:len(lg)] == lg:
                 lang = ' '.join(lg)
+                for word in lg:
+                    rem = rem.lstrip(' ')
+                    assert rem.startswith(word), rem
+                    rem = rem[len(word):].strip()
                 break
-        if not lang:
-            print(line.partition(':')[2].strip())
-        return cls(group=group.strip(), lang=' '.join(lg), form='')
+        # get the next word:
+        word = rem.split()[0]
+        if word.endswith(','):
+            word = word[:-1]
+        for c in word:
+            if c not in PHONEMES + 'ɸháāfzʔðᵑg()-ūɣɔvøʷəо̄öītʰxɨθ':
+                print(rem, line)
+        assert lang, line
+        return cls(group=group.strip(), lang=' '.join(lg), form=rem)
 
 
 @dataclasses.dataclass
