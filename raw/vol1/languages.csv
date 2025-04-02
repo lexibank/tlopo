@@ -1,4 +1,61 @@
 ID,Name,Group,Classification,Alternative_Names,Note
+malay,Malay,,,,mala1479
+cebuano,Cebuano,,,,cebu1242
+buru,Buru,,,,buru1303
+tagalog,Tagalog,,,,taga1270
+maranao,Maranao,,,,mara1404
+sangir,Sangir,,,,sang1336
+tausug,Tausug,,,,taus1251
+javanese,Javanese,,,,java1254
+numfor,Numfor,,,,biak1248
+aklanon,Aklanon,,,,akla1240
+tobabatak,Toba Batak,,,,bata1289
+wolio,Wolio,,,,woli1241
+tubetube,Tubetube,,,,bwan1241
+balangaw,Balangaw,,,,bala1310
+larike,Larike,,,,lari1256
+komodo,Komodo,,,,komo1261
+manggarai,Manggarai,,,,mang1405
+mor,Mor,IJ,,,morb1239
+dusner,Dusner,IJ,,,dusn1237
+waropen,Waropen,,,,waro1242
+kuvalan,Kuvalan,Fma,,,kava1241
+tolaki,Tolaki,WMP,,,tola1247
+madurese,Madurese,WMP,,,nucl1460
+sundanese,Sundanese,WMP,,,sund1252
+tukangbesi,Tukang Besi,WMP,,,tuka1247
+ngajudayak,Ngaju Dayak,WMP,,,ngaj1237
+ilokano,Ilokano,WMP,,,ilok1237
+selaru,Selaru,CMP,,,sela1259
+asilulu,Asilulu,CMP,,,asil1242
+chamorro,Chamorro,WMP,,,cham1312
+boano,Boano,CMP,,,boan1243
+nias,Nias,WMP,,,nias1242
+sichule,Sichule,WMP,,,siku1242
+bikol,Bikol,WMP,,,biko1240
+hova,Hova,WMP,,,
+isneg,Isneg,WMP,,,isna1241
+taliabo,Taliabo,CMP,,,tali1262
+buginese,Buginese,WMP,,,bugi1244
+makassarese,Makassarese,WMP,,,maka1311
+roti,Roti,CMP,,,
+bajau,Bajau,WMP,,,
+ujir,Ujir (Aru Is.),CMP,,,ujir1237
+dobel,Dobel,CMP,,,dobe1238
+kola,Kola,CMP,,,kola1285
+ambonesemalay,Ambonese Malay,WMP,,,ambo1250
+tonsea,Tonsea,WMP,,,tons1240
+iban,Iban,WMP,,,iban1264
+maloh,Maloh,WMP,,,emba1238
+sika,Sika,WMP,,,sika1262
+kankanay,Kankanay,WMP,,,kank1243
+ivatan,Ivatan,WMP,,,ibat1238
+gaddang,Gaddang,WMP,,,gadd1244
+sasak,Sasak,WMP,,,sasa1249
+snuaulu,S. Nuaulu,CMP,,,sout2895
+laiyolo,Laiyolo,WMP,,,laiy1246
+ilongot,Ilongot,WMP,,,ilon1239
+uma,Uma,WMP,,,umaa1242
 yapese,Yapese,Yap,,
 emira,Emira,Adm,Admiralties [Adm] | St Matthias,,
 mussau,Mussau,Adm,Admiralties [Adm] | St Matthias,,
@@ -25,6 +82,7 @@ nauna,Nauna,Adm,Admiralties [Adm] | Admiralties proper | Eastern Admiralties | S
 penchal,Penchal,Adm,Admiralties [Adm] | Admiralties proper | Eastern Admiralties | South-East Admiralties,,
 bongo,Bongo,SJ,Western Oceanic | Sarmi/Jayapura [SJ] | Sarmi,,
 sobei,Sobei,SJ,Western Oceanic | Sarmi/Jayapura [SJ] | Sarmi,,
+tarpia,Tarpia,SJ,Western Oceanic | Sarmi/Jayapura [SJ] | Sarmi,,
 bam,Bam,NNG,Western Oceanic | North New Guinea [NNG] | Schouten | ManamiKairiru,,
 kaiep,Kaiep,NNG,Western Oceanic | North New Guinea [NNG] | Schouten | ManamiKairiru,,
 kairiru,Kairiru,NNG,Western Oceanic | North New Guinea [NNG] | Schouten | ManamiKairiru,,
@@ -42,7 +100,7 @@ labu,Labu,NNG,Western Oceanic | North New Guinea [NNG] | Huon Gulf | Markham,,
 hote,Hote,NNG,Western Oceanic | North New Guinea [NNG] | Huon Gulf | South Huon Gulf,,
 kaiwa,Kaiwa,NNG,Western Oceanic | North New Guinea [NNG] | Huon Gulf | South Huon Gulf,,
 maposbuang,Mapos Buang,NNG,Western Oceanic | North New Guinea [NNG] | Huon Gulf | South Huon Gulf,,
-numbarni,Numbarni,NNG,Western Oceanic | North New Guinea [NNG] | Huon Gulf | South Huon Gulf,,
+numbami,Numbami,NNG,Western Oceanic | North New Guinea [NNG] | Huon Gulf | South Huon Gulf,,
 patep,Patep,NNG,Western Oceanic | North New Guinea [NNG] | Huon Gulf | South Huon Gulf,,
 vehes,Vehes,NNG,Western Oceanic | North New Guinea [NNG] | Huon Gulf | South Huon Gulf,,
 bariai,Bariai,NNG,Western Oceanic | North New Guinea [NNG] | Ngero/Vitiaz | Ngero,,
@@ -83,6 +141,7 @@ sengseng,Sengseng,NNG,Western Oceanic | North New Guinea [NNG] | Ngero/Vitiaz | 
 poeng,Poeng,NNG,Western Oceanic | North New Guinea [NNG] | Ngero/Vitiaz | Mengen family,,
 uvol,Uvol,NNG,Western Oceanic | North New Guinea [NNG] | Ngero/Vitiaz | Mengen family,,
 suau,Suau,PT,Western Oceanic | Papuan Tip [PT] | Nuclear Papuan Tip | Suauic,,
+sariba,Sariba,PT,Western Oceanic | Papuan Tip [PT] | Nuclear Papuan Tip | Suauic,,"= Saliba, dialect of Suau"
 anuki,Anuki,PT,Western Oceanic | Papuan Tip [PT] | Nuclear Papuan Tip | North Mainland/D'Entrecasteaux,,
 kakabai,Kakabai,PT,Western Oceanic | Papuan Tip [PT] | Nuclear Papuan Tip | North Mainland/D'Entrecasteaux,,
 gumawana,Gumawana,PT,Western Oceanic | Papuan Tip [PT] | Nuclear Papuan Tip | North Mainland/D'Entrecasteaux,Gumasi,= Gumasi
@@ -108,6 +167,7 @@ sudest,Sudest,PT,Western Oceanic | Papuan Tip [PT] | Nimoa/Sudest,,
 balawaia,Balawaia,PT,Western Oceanic | Papuan Tip [PT] | Central Papuan,,= dialect of Sinaugoro
 gabadi,Gabadi,PT,Western Oceanic | Papuan Tip [PT] | Central Papuan,,
 hula,Hula,PT,Western Oceanic | Papuan Tip [PT] | Central Papuan,Keapara,= dialect of Keapara
+aroma,Aroma,PT,Western Oceanic | Papuan Tip [PT] | Central Papuan,,= dialect of Keapara
 kuni,Kuni,PT,Western Oceanic | Papuan Tip [PT] | Central Papuan,,
 lala,Lala,PT,Western Oceanic | Papuan Tip [PT] | Central Papuan,'Ala'ala; Nara; Pokau,"= Nara, 'Ala'ala, Pokau"
 magori,Magori,PT,Western Oceanic | Papuan Tip [PT] | Central Papuan,,
@@ -166,6 +226,7 @@ hoava,Hoava,MM,Western Oceanic | Meso-Melanesian [MM] | New Ireland/Northwest So
 nduke,Nduke,MM,Western Oceanic | Meso-Melanesian [MM] | New Ireland/Northwest Solomonic | St George linkage | Northwest Solomonic linkage | New Georgia,,
 roviana,Roviana,MM,Western Oceanic | Meso-Melanesian [MM] | New Ireland/Northwest Solomonic | St George linkage | Northwest Solomonic linkage | New Georgia,,
 simbo,Simbo,MM,Western Oceanic | Meso-Melanesian [MM] | New Ireland/Northwest Solomonic | St George linkage | Northwest Solomonic linkage | New Georgia,,
+ngl,"New Georgia language (unspecified) (Haddon 1937: 104, 106)",MM,Western Oceanic | Meso-Melanesian [MM] | New Ireland/Northwest Solomonic | St George linkage | Northwest Solomonic linkage | New Georgia,,
 kia,Kia,MM,Western Oceanic | Meso-Melanesian [MM] | New Ireland/Northwest Solomonic | St George linkage | Northwest Solomonic linkage | Ysabel,,
 laghu,Laghu,MM,Western Oceanic | Meso-Melanesian [MM] | New Ireland/Northwest Solomonic | St George linkage | Northwest Solomonic linkage | Ysabel,,
 maringe,Maringe,MM,Western Oceanic | Meso-Melanesian [MM] | New Ireland/Northwest Solomonic | St George linkage | Northwest Solomonic linkage | Ysabel,Cheke Holo; Hograno,"= Cheke Holo, Hograno"
@@ -176,10 +237,10 @@ ghari,Ghari,SES,Eastern Oceanic | Southeast Solomonic [SES] | Bugotu/Gela/Guadal
 malango,Malango,SES,Eastern Oceanic | Southeast Solomonic [SES] | Bugotu/Gela/Guadalcanal | Gela/Guadalcanal,,
 talise,Talise,SES,Eastern Oceanic | Southeast Solomonic [SES] | Bugotu/Gela/Guadalcanal | Gela/Guadalcanal,,
 tolo,Tolo,SES,Eastern Oceanic | Southeast Solomonic [SES] | Bugotu/Gela/Guadalcanal | Gela/Guadalcanal,,
-westguadalcanal,West Guadalcanal,SES,Eastern Oceanic | Southeast Solomonic [SES] | Bugotu/Gela/Guadalcanal | Gela/Guadalcanal,,
+westguadalcanal,West Guadalcanal,SES,Eastern Oceanic | Southeast Solomonic [SES] | Bugotu/Gela/Guadalcanal | Gela/Guadalcanal,W. Guad.,
 longgu,Longgu,SES,Eastern Oceanic | Southeast Solomonic [SES] | Bugotu/Gela/Guadalcanal | Longgu/Malaita/Makira,,
 areare,'Are'are,SES,Eastern Oceanic | Southeast Solomonic [SES] | Bugotu/Gela/Guadalcanal | Longgu/Malaita/Makira | Malaita/Makira,,
-arosi,Arosi,SES,Eastern Oceanic | Southeast Solomonic [SES] | Bugotu/Gela/Guadalcanal | Longgu/Malaita/Makira | Malaita/Makira,,
+arosi,Arosi,SES,Eastern Oceanic | Southeast Solomonic [SES] | Bugotu/Gela/Guadalcanal | Longgu/Malaita/Makira | Malaita/Makira,E. Arosi,
 baegu,Baegu,SES,Eastern Oceanic | Southeast Solomonic [SES] | Bugotu/Gela/Guadalcanal | Longgu/Malaita/Makira | Malaita/Makira,,
 bauro,Bauro,SES,Eastern Oceanic | Southeast Solomonic [SES] | Bugotu/Gela/Guadalcanal | Longgu/Malaita/Makira | Malaita/Makira,,
 fagani,Fagani,SES,Eastern Oceanic | Southeast Solomonic [SES] | Bugotu/Gela/Guadalcanal | Longgu/Malaita/Makira | Malaita/Makira,,
@@ -193,6 +254,7 @@ ambae,Ambae,NCV,"Eastern Oceanic | North/Central Vanuatu [NCV] (groupings are ar
 hiw,Hiw,NCV,"Eastern Oceanic | North/Central Vanuatu [NCV] (groupings are areal, based on Clark 1994) | Banks & Torres, Maewo, Ambae, North Pentecost",,
 mota,Mota,NCV,"Eastern Oceanic | North/Central Vanuatu [NCV] (groupings are areal, based on Clark 1994) | Banks & Torres, Maewo, Ambae, North Pentecost",,
 raga,Raga,NCV,"Eastern Oceanic | North/Central Vanuatu [NCV] (groupings are areal, based on Clark 1994) | Banks & Torres, Maewo, Ambae, North Pentecost",,
+marino,Marino,NCV,"Eastern Oceanic | North/Central Vanuatu [NCV] (groupings are areal, based on Clark 1994) | Banks & Torres, Maewo, Ambae, North Pentecost",Sunwadia,= Sunwadia
 fortsenal,Fortsenal,NCV,"Eastern Oceanic | North/Central Vanuatu [NCV] (groupings are areal, based on Clark 1994) | Espiritu Santo",,
 kiai,Kiai,NCV,"Eastern Oceanic | North/Central Vanuatu [NCV] (groupings are areal, based on Clark 1994) | Espiritu Santo",,
 tamambo,Tamambo,NCV,"Eastern Oceanic | North/Central Vanuatu [NCV] (groupings are areal, based on Clark 1994) | Espiritu Santo",Malo,= Malo
@@ -234,10 +296,10 @@ marshallese,Marshallese,Mic,Eastern Oceanic | Nuclear Micronesian [Mic],,
 mokilese,Mokilese,Mic,Eastern Oceanic | Nuclear Micronesian [Mic],,
 mortlockese,Mortlockese,Mic,Eastern Oceanic | Nuclear Micronesian [Mic],,
 ponapean,Ponapean,Mic,Eastern Oceanic | Nuclear Micronesian [Mic],,
-puluwatese,Puluwatese,Mic,Eastern Oceanic | Nuclear Micronesian [Mic],,
+puluwatese,Puluwatese,Mic,Eastern Oceanic | Nuclear Micronesian [Mic],Puluwat,
 satawalese,Satawalese,Mic,Eastern Oceanic | Nuclear Micronesian [Mic],,
 trukese,Trukese,Mic,Eastern Oceanic | Nuclear Micronesian [Mic],,
-ulithian,Ulithian,Mic,Eastern Oceanic | Nuclear Micronesian [Mic],,
+ulithian,Ulithian,Mic,Eastern Oceanic | Nuclear Micronesian [Mic],Ulithi,
 woleaian,Woleaian,Mic,Eastern Oceanic | Nuclear Micronesian [Mic],,
 rotuman,Rotuman,Fij,Eastern Oceanic | Central Pacific [Fij and Pn],,
 nadroga,Nadroga,Fij,Eastern Oceanic | Central Pacific [Fij and Pn] | Western Fijian,,
@@ -248,13 +310,13 @@ boumaa,Boumaa,Fij,Eastern Oceanic | Central Pacific [Fij and Pn] | Eastern Fijia
 niuean,Niuean,Pn,Eastern Oceanic | Central Pacific [Fij and Pn] | Polynesian (subgrouping based on Marck forthcoming) | Tongic,,
 tongan,Tongan,Pn,Eastern Oceanic | Central Pacific [Fij and Pn] | Polynesian (subgrouping based on Marck forthcoming) | Tongic,,
 anutan,Anutan,Pn,Eastern Oceanic | Central Pacific [Fij and Pn] | Polynesian (subgrouping based on Marck forthcoming) | Nuclear Polynesian,,
-eastuvean,East Uvean,Pn,Eastern Oceanic | Central Pacific [Fij and Pn] | Polynesian (subgrouping based on Marck forthcoming) | Nuclear Polynesian,,
-eastfutunan,East Futunan,Pn,Eastern Oceanic | Central Pacific [Fij and Pn] | Polynesian (subgrouping based on Marck forthcoming) | Nuclear Polynesian,,
+eastuvean,East Uvean,Pn,Eastern Oceanic | Central Pacific [Fij and Pn] | Polynesian (subgrouping based on Marck forthcoming) | Nuclear Polynesian,E. Uvean,
+eastfutunan,East Futunan,Pn,Eastern Oceanic | Central Pacific [Fij and Pn] | Polynesian (subgrouping based on Marck forthcoming) | Nuclear Polynesian,E. Futunan,
 pukapukan,Pukapukan,Pn,Eastern Oceanic | Central Pacific [Fij and Pn] | Polynesian (subgrouping based on Marck forthcoming) | Nuclear Polynesian,,
 rennellese,Rennellese,Pn,Eastern Oceanic | Central Pacific [Fij and Pn] | Polynesian (subgrouping based on Marck forthcoming) | Nuclear Polynesian,,
 tikopia,Tikopia,Pn,Eastern Oceanic | Central Pacific [Fij and Pn] | Polynesian (subgrouping based on Marck forthcoming) | Nuclear Polynesian,,
-westuvean,West Uvean,Pn,Eastern Oceanic | Central Pacific [Fij and Pn] | Polynesian (subgrouping based on Marck forthcoming) | Nuclear Polynesian,,
-westfutunan,West Futunan,Pn,Eastern Oceanic | Central Pacific [Fij and Pn] | Polynesian (subgrouping based on Marck forthcoming) | Nuclear Polynesian,Futuna-Aniwa,= Futuna-Aniwa
+westuvean,West Uvean,Pn,Eastern Oceanic | Central Pacific [Fij and Pn] | Polynesian (subgrouping based on Marck forthcoming) | Nuclear Polynesian,W. Uvean,
+westfutunan,West Futunan,Pn,Eastern Oceanic | Central Pacific [Fij and Pn] | Polynesian (subgrouping based on Marck forthcoming) | Nuclear Polynesian,Futuna-Aniwa; W. Futunan,= Futuna-Aniwa
 ifiramele,Ifira-Mele,Pn,Eastern Oceanic | Central Pacific [Fij and Pn] | Polynesian (subgrouping based on Marck forthcoming) | Nuclear Polynesian,Mele-Fila,= Mele-Fila
 emae,Emae,Pn,Eastern Oceanic | Central Pacific [Fij and Pn] | Polynesian (subgrouping based on Marck forthcoming) | Nuclear Polynesian,,
 samoan,Samoan,Pn,Eastern Oceanic | Central Pacific [Fij and Pn] | Polynesian (subgrouping based on Marck forthcoming) | Nuclear Polynesian | Samoan/Ellicean/Eastern Polynesian,,
@@ -264,7 +326,7 @@ nanumean,Nanumean,Pn,Eastern Oceanic | Central Pacific [Fij and Pn] | Polynesian
 nukuoro,Nukuoro,Pn,Eastern Oceanic | Central Pacific [Fij and Pn] | Polynesian (subgrouping based on Marck forthcoming) | Nuclear Polynesian | Samoan/Ellicean/Eastern Polynesian | Ellicean/Eastern Polynesian | Ellicean,,
 nukuria,Nukuria,Pn,Eastern Oceanic | Central Pacific [Fij and Pn] | Polynesian (subgrouping based on Marck forthcoming) | Nuclear Polynesian | Samoan/Ellicean/Eastern Polynesian | Ellicean/Eastern Polynesian | Ellicean,,
 takuu,Takuu,Pn,Eastern Oceanic | Central Pacific [Fij and Pn] | Polynesian (subgrouping based on Marck forthcoming) | Nuclear Polynesian | Samoan/Ellicean/Eastern Polynesian | Ellicean/Eastern Polynesian | Ellicean,,
-tokelauan,Tokelauan,Pn,Eastern Oceanic | Central Pacific [Fij and Pn] | Polynesian (subgrouping based on Marck forthcoming) | Nuclear Polynesian | Samoan/Ellicean/Eastern Polynesian | Ellicean/Eastern Polynesian | Ellicean,,
+tokelauan,Tokelauan,Pn,Eastern Oceanic | Central Pacific [Fij and Pn] | Polynesian (subgrouping based on Marck forthcoming) | Nuclear Polynesian | Samoan/Ellicean/Eastern Polynesian | Ellicean/Eastern Polynesian | Ellicean,Tokelau; Tokelauanan,
 tuvalu,Tuvalu,Pn,Eastern Oceanic | Central Pacific [Fij and Pn] | Polynesian (subgrouping based on Marck forthcoming) | Nuclear Polynesian | Samoan/Ellicean/Eastern Polynesian | Ellicean/Eastern Polynesian | Ellicean,Ellicean,= Ellicean
 rapanui,Rapanui,Pn,Eastern Oceanic | Central Pacific [Fij and Pn] | Polynesian (subgrouping based on Marck forthcoming) | Nuclear Polynesian | Samoan/Ellicean/Eastern Polynesian | Ellicean/Eastern Polynesian | Eastern Polynesian,Easter Island,= Easter Island
 hawaiian,Hawaiian,Pn,Eastern Oceanic | Central Pacific [Fij and Pn] | Polynesian (subgrouping based on Marck forthcoming) | Nuclear Polynesian | Samoan/Ellicean/Eastern Polynesian | Ellicean/Eastern Polynesian | Eastern Polynesian | Central Eastern Polynesian | Marquesic,,
@@ -275,5 +337,5 @@ maori,Maori,Pn,Eastern Oceanic | Central Pacific [Fij and Pn] | Polynesian (subg
 rapa,Rapa,Pn,Eastern Oceanic | Central Pacific [Fij and Pn] | Polynesian (subgrouping based on Marck forthcoming) | Nuclear Polynesian | Samoan/Ellicean/Eastern Polynesian | Ellicean/Eastern Polynesian | Eastern Polynesian | Central Eastern Polynesian | Tahitic,,
 rarotongan,Rarotongan,Pn,Eastern Oceanic | Central Pacific [Fij and Pn] | Polynesian (subgrouping based on Marck forthcoming) | Nuclear Polynesian | Samoan/Ellicean/Eastern Polynesian | Ellicean/Eastern Polynesian | Eastern Polynesian | Central Eastern Polynesian | Tahitic,,
 tahitian,Tahitian,Pn,Eastern Oceanic | Central Pacific [Fij and Pn] | Polynesian (subgrouping based on Marck forthcoming) | Nuclear Polynesian | Samoan/Ellicean/Eastern Polynesian | Ellicean/Eastern Polynesian | Eastern Polynesian | Central Eastern Polynesian | Tahitic,,
-tongareva,Tongareva,Pn,Eastern Oceanic | Central Pacific [Fij and Pn] | Polynesian (subgrouping based on Marck forthcoming) | Nuclear Polynesian | Samoan/Ellicean/Eastern Polynesian | Ellicean/Eastern Polynesian | Eastern Polynesian | Central Eastern Polynesian | Tahitic,Penrhyn,= Penrhyn
+tongareva,Tongareva,Pn,Eastern Oceanic | Central Pacific [Fij and Pn] | Polynesian (subgrouping based on Marck forthcoming) | Nuclear Polynesian | Samoan/Ellicean/Eastern Polynesian | Ellicean/Eastern Polynesian | Eastern Polynesian | Central Eastern Polynesian | Tahitic,Penrhyn; Tongarevan,= Penrhyn
 tuamotuan,Tuamotuan,Pn,Eastern Oceanic | Central Pacific [Fij and Pn] | Polynesian (subgrouping based on Marck forthcoming) | Nuclear Polynesian | Samoan/Ellicean/Eastern Polynesian | Ellicean/Eastern Polynesian | Eastern Polynesian | Central Eastern Polynesian | Tahitic,,

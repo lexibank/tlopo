@@ -6,14 +6,6 @@ import pathlib
 import itertools
 import dataclasses
 
-"""
-[uUa]1) -> [ua]ŋ
-IJ -> ŋ
-6.IJ -> áŋ
-bwalJ -> b-raised-w-aŋ
-brv) -> b(raised-w)
-"""
-
 GROUPS = [
     # Oceanic:
     "Adm",  # Admiralty
@@ -146,7 +138,8 @@ def parse_protoform(f, pl):
 
     if form != f:
         if f[len(form) + 1:].strip()[0] not in '(*?[':
-            print("{}\t{}".format(form, f[len(form) + 1:]))
+            assert ' or ' in f or '(kuron)' in f, f
+            #print("{}\t{}".format(form, f[len(form) + 1:]))
 
     for chunk in chunks[1:]:
         if chunk.startswith('*'):
@@ -236,17 +229,43 @@ sauq ? (N)
 
 
 @dataclasses.dataclass
+class Reflex:
+    group: str
+    lang: str
+    form: str
+    gloss: str = None
+
+    @classmethod
+    def from_line(cls, langs, line):
+        lang = None
+        group, _, rem = line.partition(':')
+        rem = rem.strip().split()
+        for lg in sorted(langs, key=lambda l: -len(l)):
+            lg = lg.split()
+            if rem[:len(lg)] == lg:
+                lang = ' '.join(lg)
+                break
+        if not lang:
+            print(line.partition(':')[2].strip())
+        return cls(group=group.strip(), lang=' '.join(lg), form='')
+
+
+@dataclasses.dataclass
 class Reconstruction:
     protoforms: list
-    witnesses: list = None
+    reflexes: list = None
     cat1: str = ''
     cat2: str = ''
     page: int = 0
     desc: list = None
 
     @classmethod
-    def from_data(cls, **kw):
-        kw['protoforms'] = [Protoform.from_line(pf) for pf in kw['protoforms'] ]
+    def from_data(cls, langs, **kw):
+        #if any('*soka, *soka-i-' in line for line in kw['protoforms']):
+        #    for l in kw['reflexes']:
+        #        print(l)
+        kw['protoforms'] = [Protoform.from_line(pf) for pf in kw['protoforms']]
+        kw['reflexes'] = [Reflex.from_line(langs, line) for line in kw['reflexes']]
         return cls(**kw)
 
     def __str__(self):
@@ -256,15 +275,15 @@ class Reconstruction:
 {}
 {}
 
-{}""".format(self.cat1, self.cat2, self.page, self.annotation, self.protoform, '\n'.join('  {}'.format(w.strip()) for w in self.witnesses), '\n\n'.join(self.desc))
+{}""".format(self.cat1, self.cat2, self.page, self.annotation, self.protoform, '\n'.join('  {}'.format(w.strip()) for w in self.reflexes), '\n\n'.join(self.desc))
 
 
 h1_pattern = re.compile(r'([0-9]+)\.?\s+(?P<title>[A-Z].+)')
 h2_pattern = re.compile(r'([0-9]+)(\.|\s)\s*([0-9]+)\.?\s+(?P<title>[A-Z].+)')
 h3_pattern = re.compile(r'([0-9]+)(\.|\s)\s*([0-9]+)(\.|\s)\s*([0-9]+)\.?\s+(?P<title>[A-Z].+)')
 
-witness_pattern = re.compile(r'\s+({})(\s*\:\s+|\s+Marino)'.format('|'.join(re.escape(g) for g in GROUPS)))
-figure_pattern = re.compile(r'Figure\s+[0-9]+[a-z]*\:')
+witness_pattern = re.compile(r'\s+({})(\s*:\s+)'.format('|'.join(re.escape(g) for g in GROUPS)))
+figure_pattern = re.compile(r'Figure\s+[0-9]+[a-z]*:')
 
 
 def iter_lines(lines):
@@ -336,7 +355,7 @@ def iter_etyma(lines):
         para.append(line)
 
 
-def iter_witness(lines):
+def iter_reflexes(lines):
     witness = ''
     for line in lines:
         m = witness_pattern.match(line)
@@ -381,10 +400,10 @@ def iter_protoforms(lines):
         yield protoform, nlines
 
 
-def parse(p):
+def parse(p, langs):
     for h1, h2, h3, pageno, paras in iter_etyma(p.read_text(encoding='utf8').split('\n')):
         protoforms = []
-        witnesses = []
+        reflexes = []
         desc = []
         for para in paras:
             if proto_pattern.match(para[0]):
@@ -398,12 +417,14 @@ def parse(p):
                 except IndexError:
                     print(para)
                     raise
-                witnesses = list(iter_witness(lines))
+                reflexes = list(iter_reflexes(lines))
             else:
                 desc.append(' '.join(para).strip())
         assert protoforms, paras
         # FIXME: three!
-        yield Reconstruction.from_data(cat1=h1, cat2=h2, protoforms=protoforms, witnesses=witnesses, page=pageno, desc=desc)
+        yield Reconstruction.from_data(
+            langs,
+            cat1=h1, cat2=h2, protoforms=protoforms, reflexes=reflexes, page=pageno, desc=desc)
     # FIXME: yield last reconstruction!
 
 
