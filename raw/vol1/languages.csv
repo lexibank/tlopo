@@ -179,6 +179,7 @@ taboro,Taboro,PT,Western Oceanic | Papuan Tip [PT] | Central Papuan,,= dialect o
 bali,Bali,MM,Western Oceanic | Meso-Melanesian [MM] | Bali- Vitu,,
 vitu,Vitu,MM,Western Oceanic | Meso-Melanesian [MM] | Bali- Vitu,,
 bola,Bola,MM,Western Oceanic | Meso-Melanesian [MM] | Willaumez,,
+bola,Bola (Harua),MM,Western Oceanic | Meso-Melanesian [MM] | Willaumez,,= dilect of Bola
 bulu,Bulu,MM,Western Oceanic | Meso-Melanesian [MM] | Willaumez,,
 meramera,Meramera,MM,Western Oceanic | Meso-Melanesian [MM] | Willaumez,,
 nakanai,Nakanai,MM,Western Oceanic | Meso-Melanesian [MM] | Willaumez,Lakalai,= Lakalai
@@ -207,8 +208,7 @@ tangga,Tangga,MM,Western Oceanic | Meso-Melanesian [MM] | New Ireland/Northwest 
 tolai,Tolai,MM,Western Oceanic | Meso-Melanesian [MM] | New Ireland/Northwest Solomonic | St George linkage | South New Ireland,Kuanua; Raluana; Tuna,"= Kuanua, Raluana, Tuna"
 banoni,Banoni,MM,Western Oceanic | Meso-Melanesian [MM] | New Ireland/Northwest Solomonic | St George linkage | Northwest Solomonic linkage,,
 hahon,Hahon,MM,Western Oceanic | Meso-Melanesian [MM] | New Ireland/Northwest Solomonic | St George linkage | Northwest Solomonic linkage | Nehan/North Bougainville,,
-halia,Halia,MM,Western Oceanic | Meso-Melanesian [MM] | New Ireland/Northwest Solomonic | St George linkage | Northwest Solomonic linkage | Nehan/North Bougainville,Haku; Hanahan; Selau,"= Hanahan, Halia (Haku, Halia"
-selau,(Selau),MM,Western Oceanic | Meso-Melanesian [MM] | New Ireland/Northwest Solomonic | St George linkage | Northwest Solomonic linkage | Nehan/North Bougainville,,
+halia,Halia,MM,Western Oceanic | Meso-Melanesian [MM] | New Ireland/Northwest Solomonic | St George linkage | Northwest Solomonic linkage | Nehan/North Bougainville,Haku; Hanahan; Selau; Halia (Selau); Halia (Haku),"= Hanahan, Halia (Haku, Halia"
 nehan,Nehan,MM,Western Oceanic | Meso-Melanesian [MM] | New Ireland/Northwest Solomonic | St George linkage | Northwest Solomonic linkage | Nehan/North Bougainville,,= Nissan
 petats,Petats,MM,Western Oceanic | Meso-Melanesian [MM] | New Ireland/Northwest Solomonic | St George linkage | Northwest Solomonic linkage | Nehan/North Bougainville,,
 solos,Solos,MM,Western Oceanic | Meso-Melanesian [MM] | New Ireland/Northwest Solomonic | St George linkage | Northwest Solomonic linkage | Nehan/North Bougainville,,
@@ -285,8 +285,8 @@ fwai,Fwai,NCal,Eastern Oceanic | New Caledonia [NCal] | New Caledonia proper,,
 pije,Pije,NCal,Eastern Oceanic | New Caledonia [NCal] | New Caledonia proper,,
 pwapwa,Pwapwa,NCal,Eastern Oceanic | New Caledonia [NCal] | New Caledonia proper,,
 nemi,Nemi,NCal,Eastern Oceanic | New Caledonia [NCal] | New Caledonia proper,,
-nyelayu,Nyelayu,NCal,Eastern Oceanic | New Caledonia [NCal] | New Caledonia proper,,
-xaracuu,Xaracuu,NCal,Eastern Oceanic | New Caledonia [NCal] | New Caledonia proper,,
+nyelayu,Nyelâyu,NCal,Eastern Oceanic | New Caledonia [NCal] | New Caledonia proper,,
+xaracuu,Xârâcùù,NCal,Eastern Oceanic | New Caledonia [NCal] | New Caledonia proper,,
 dehu,Dehu,NCal,Eastern Oceanic | New Caledonia [NCal] | Loyalties,,
 nengone,Nengone,NCal,Eastern Oceanic | New Caledonia [NCal] | Loyalties,,
 carolinian,Carolinian,Mic,Eastern Oceanic | Nuclear Micronesian [Mic],,
