@@ -253,11 +253,14 @@ class Reflex:
                     rem = rem[len(word):].strip()
                 break
         # get the next word:
+        if re.match(r'\s*\[[0-9]]\s*', rem):
+            fnref, _, rem = rem.partition(']')
+            # FIXME: handle footnote.
         word = rem.split()[0]
         if word.endswith(','):
             word = word[:-1]
         for c in word:
-            if c not in PHONEMES + 'ɸháāfzʔðᵑg()[]-ūɣɔvøʷəо̄öītʰxɨīθbˠŋɛūčēæñ':
+            if c not in PHONEMES + 'ɸháāfzʔðᵑg()[]<>-ūɣɔvøʷəо̄öītʰxɨīθbˠŋɛūčēæñIéȴò':
                 print(rem, line)
         assert lang, line
         return cls(group=group.strip(), lang=' '.join(lg), form=rem)
