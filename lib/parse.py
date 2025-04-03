@@ -240,6 +240,11 @@ class Reflex:
 
     @classmethod
     def from_line(cls, langs, line):
+        pos_pattern = re.compile(r'\s*\((?P<pos>v|V|VT|VI|vI|N|ADJ|ADV|VT,\s*VI|N, V|N, v)\)\s*')
+
+        fn_pattern = None  # [2]
+        gloss_number_pattern = re.compile(r'\s*\(\s*1\s*\)\s*') # ( 1 )
+
         lang = None
         group, _, rem = line.partition(':')
         rem_words = rem.strip().split()
@@ -256,12 +261,26 @@ class Reflex:
         if re.match(r'\s*\[[0-9]]\s*', rem):
             fnref, _, rem = rem.partition(']')
             # FIXME: handle footnote.
-        word = rem.split()[0]
-        if word.endswith(','):
-            word = word[:-1]
-        for c in word:
-            if c not in PHONEMES + 'ɸháāfzʔðᵑg()[]<>-ūɣɔvøʷəо̄öītʰxɨīθbˠŋɛūčēæñIéȴò':
-                print(rem, line)
+        rem = rem.strip()
+        if rem.startswith('|'):
+            # multi word marker
+            assert rem.count('|') == 2, rem
+        else:
+            word, comma = rem.split()[0], None
+            if word.endswith(','):
+                word = word[:-1]
+                comma = True
+            for c in word:
+                if c not in PHONEMES + 'ɸháāfzʔðᵑg()[]<>-ūɣɔvøʷəо̄öītʰxɨīθbˠŋɛūčēæñIéȴò':
+                    raise ValueError(rem, line)
+            maybe_gloss = ' '.join(rem.split()[1:])
+            if "'" in maybe_gloss:
+                assert maybe_gloss.count("'") >= 2
+            words, _, gloss = maybe_gloss.partition("'")
+            if words.strip():
+                if not pos_pattern.fullmatch(words) and not gloss_number_pattern.fullmatch(words):
+                    if not comma:  # FIXME: if comma, get another word!
+                        print(words, line)
         assert lang, line
         return cls(group=group.strip(), lang=' '.join(lg), form=rem)
 
