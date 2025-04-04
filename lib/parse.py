@@ -1,5 +1,19 @@
 """
 What about the ca. 50 food plants reconstructions - without witnesses?
+
+comparing with data from Mae:
+
+>>> s1 = "ūŋ-wūŋ"
+>>> s2 = "ūŋ-wūŋ"
+>>> len(s1)
+8
+>>> len(s2)
+6
+>>> import unicodedata
+>>> unicodedata.normalize('NFC', s1) == s2
+True
+>>> unicodedata.normalize('NFD', s2) == s1
+True
 """
 import re
 import pathlib
@@ -242,7 +256,7 @@ class Reflex:
     gloss: str = None
 
     def __str__(self):
-        return "\t{}: {}\t{}\t'{}'".format(self.group, self.lang, self.form, self.gloss)
+        return "\t{}: {}\t{}\t'{}'".format(self.group, self.lang, self.form, self.gloss or '')
 
     @classmethod
     def from_line(cls, langs, line):
@@ -279,9 +293,9 @@ class Reflex:
             if word.endswith(','):
                 word = word[:-1]
                 comma = True
-            #for c in word:
-            #    if c not in PHONEMES + 'ɸháāfzʔðᵑg()[]<>-ūɣɔvøʷəо̄öītʰxɨīθbˠŋɛūčēæñIéȴò':
-            #        raise ValueError(rem, line)
+            for c in word:
+                if c not in PHONEMES + 'ɸháāfzʔðᵑg()[]<>-ūɣɔvøʷəо̄öītʰxɨīθbˠŋɛūčēæñIéȴòr̃íṣṛêɒčü':
+                    raise ValueError(rem, line)
             if comma:
                 word += ', {}'.format(rem_comps.pop(0))
             maybe_gloss = ' '.join(rem_comps)
