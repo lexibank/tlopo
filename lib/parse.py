@@ -161,6 +161,9 @@ class Protoform:
     pfdoubt: bool = False
     pldoubt: bool = False
 
+    def __str__(self):
+        return "{} *{} '{}'".format(self.protolanguage, self.form, self.glosses[0] if self.glosses else "")
+
     @classmethod
     def from_line(cls, line):
         kw = {}
@@ -213,7 +216,7 @@ sauq ? (N)
             if rem.startswith(","):
                 rem = rem[1:].strip()
             if rem.startswith("'"):
-                assert "'" in rem[1:]
+                assert "'" in rem[1:], s
                 rem = rem[1:].strip()
             #
             # FIXME: parse nested protoforms ...
@@ -238,6 +241,9 @@ class Reflex:
     form: str
     gloss: str = None
 
+    def __str__(self):
+        return "\t{}: {}\t{}\t'{}'".format(self.group, self.lang, self.form, self.gloss)
+
     @classmethod
     def from_line(cls, langs, line):
         pos_pattern = re.compile(r'\s*\((?P<pos>v|V|VT|VI|vI|N|ADJ|ADV|VT,\s*VI|N, V|N, v)\)\s*')
@@ -245,7 +251,7 @@ class Reflex:
         fn_pattern = None  # [2]
         gloss_number_pattern = re.compile(r'\s*\(\s*1\s*\)\s*') # ( 1 )
 
-        lang = None
+        lang, word, gloss = None, None, None
         group, _, rem = line.partition(':')
         rem_words = rem.strip().split()
         for lg in sorted(langs, key=lambda l: -len(l)):
@@ -265,24 +271,32 @@ class Reflex:
         if rem.startswith('|'):
             # multi word marker
             assert rem.count('|') == 2, rem
+            word, _, rem = rem[1:].strip().partition('|')
+            rem = rem.strip()
         else:
-            word, comma = rem.split()[0], None
+            rem_comps = rem.split()
+            word, comma = rem_comps.pop(0), None
             if word.endswith(','):
                 word = word[:-1]
                 comma = True
-            for c in word:
-                if c not in PHONEMES + 'ɸháāfzʔðᵑg()[]<>-ūɣɔvøʷəо̄öītʰxɨīθbˠŋɛūčēæñIéȴò':
-                    raise ValueError(rem, line)
-            maybe_gloss = ' '.join(rem.split()[1:])
+            #for c in word:
+            #    if c not in PHONEMES + 'ɸháāfzʔðᵑg()[]<>-ūɣɔvøʷəо̄öītʰxɨīθbˠŋɛūčēæñIéȴò':
+            #        raise ValueError(rem, line)
+            if comma:
+                word += ', {}'.format(rem_comps.pop(0))
+            maybe_gloss = ' '.join(rem_comps)
             if "'" in maybe_gloss:
                 assert maybe_gloss.count("'") >= 2
-            words, _, gloss = maybe_gloss.partition("'")
-            if words.strip():
-                if not pos_pattern.fullmatch(words) and not gloss_number_pattern.fullmatch(words):
-                    if not comma:  # FIXME: if comma, get another word!
-                        print(words, line)
+            stuff, _, maybe_gloss = maybe_gloss.partition("'")
+            if maybe_gloss.strip():
+                gloss = Protoform.glosses_and_note(maybe_gloss)[0][0]
+            if stuff.strip():
+                if not pos_pattern.fullmatch(stuff) and not gloss_number_pattern.fullmatch(stuff):
+                    # next part is a question mark, a footnote reference or a comment.
+                    assert stuff[0] in '?[(', stuff
+                    #print(words, line)
         assert lang, line
-        return cls(group=group.strip(), lang=' '.join(lg), form=rem)
+        return cls(group=group.strip(), lang=' '.join(lg), form=word, gloss=gloss)
 
 
 @dataclasses.dataclass
@@ -308,9 +322,11 @@ class Reconstruction:
 {} / {} / Page {}
 {}
 {}
-{}
-
-{}""".format(self.cat1, self.cat2, self.page, self.annotation, self.protoform, '\n'.join('  {}'.format(w.strip()) for w in self.reflexes), '\n\n'.join(self.desc))
+""".format(self.cat1, self.cat2, self.page,
+             '\n'.join(str(pf) for pf in self.protoforms),
+             '\n'.join(str(w) for w in self.reflexes),
+           #'\n\n'.join(self.desc)
+           )
 
 
 h1_pattern = re.compile(r'([0-9]+)\.?\s+(?P<title>[A-Z].+)')
