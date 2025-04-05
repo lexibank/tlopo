@@ -439,8 +439,9 @@ def iter_reflexes(lines):
             # FIXME: cf sets!
             continue
         else:
-            assert line.startswith('     '), line
-            witness += line
+            if line.strip() and line.startswith('     '):
+                raise ValueError(line)
+            #witness += line
     yield witness
 
 
