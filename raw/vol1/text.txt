@@ -2506,7 +2506,7 @@ POc *gabʷari- 'the area underneath a raised house'
   PT:  Duau               gabule-
   PT:  Sinaugoro          gabule-
 
-*gabʷari- evidently took inalienable possessive marking, with 3rd person singular suffix
+_*gabʷari-_ evidently took inalienable possessive marking, with 3rd person singular suffix
 marking it as an integral part of a larger entity, namely, the house.
 
 >
@@ -2554,7 +2554,7 @@ POc *kataman 'entrance to house, doorway'
   NCV: Marino             ɣatama            'door'
   Mic: Woleaian          gatama
 
-*kataman probably referred to an entrance with its wooden framework. From ethnographic
+_*kataman_ probably referred to an entrance with its wooden framework. From ethnographic
 evidence we infer that true doors were not used: when entrances were to be closed they were
 probably blocked off by a barricade.
 
@@ -2618,12 +2618,12 @@ POc *qatop 'thatch, roof'
      Mic:     Mokilese     ɔc
      Pn:      Tongan       ʔato
 
-   Dutton (1994) has reviewed in detail cognate sets referring to sago palms (PMP *Rambia
-or *rumbia) and their uses. Ethnographic descriptions show that, where available, the leaves
+   Dutton (1994) has reviewed in detail cognate sets referring to sago palms (PMP _*Rambia_
+or _*rumbia_) and their uses. Ethnographic descriptions show that, where available, the leaves
 of sago palms (esp. Metroxylon spp.) are preferred by Austronesian speakers as roofing
 materials, several leaves being sewn together before being lashed to the ridge-pole and stringers.
-However, we suggest that 'thatch of sago palm leaves' is too narrow a gloss for PMP *qatep
-and POc *qatop. Leaves of other palms (e.g. coconut, nipa) and grass are also widely used as
+However, we suggest that 'thatch of sago palm leaves' is too narrow a gloss for PMP _*qatep_
+and POc _*qatop_. Leaves of other palms (e.g. coconut, nipa) and grass are also widely used as
 thatch. The more general gloss 'thatch, roof' allows for variation in roofing materials.
 
 >
@@ -2648,7 +2648,7 @@ POc *rau(n) 'leaf; thatch'
 
 <
 
-PMP *sasa(h,q) 'cut or collect palm leaves for roofing' (Blust 1980b: 1 43 )
+PMP *sasa(h,q) 'cut or collect palm leaves for roofing' (Blust 1980b: 143)
 POc *saja(q) 'prepare thatching materials or begin to thatch a roof'
   SES:    Gela            sada               'tie the thatch in beginning a roof'
 
@@ -2691,7 +2691,7 @@ POc *aRiRi 'post'
  SES: Sa'a                lili-             'door posts'
 
 There are some formal problems with the previous set. Some Oceanic forms show unexpected
-absence of initial *a- . Assimilation of the first consonant to the second apparently occurred
+absence of initial _*a-_. Assimilation of the first consonant to the second apparently occurred
 in POc.
 
 >
@@ -2712,8 +2712,7 @@ POc *turu(s) 'post'
 
 <
 
-POc *bou '(?) main bearers supporting raised floor or roof structure, or centre post supporting
- ridgepole'
+POc *bou '(?) main bearers supporting raised floor or roof structure, or centre post supporting ridgepole'
  PT:      Bwaidoga       lou               'main bearers of a house'
  PT:      Misima         popou             'floor bearers, running from one end of house to the other'
   SES:    Arosi          boʔu              'the crossbeam or stay in the roof to strengthen the house; sometimes the main-post in the centre rests on this; a cross' (_boʔu_ for expected _bou_)
@@ -2731,11 +2730,11 @@ POc *bou '(?) main bearers supporting raised floor or roof structure, or centre 
   SES:    Lau             bou              'seasoned log'
   SES:    Gela            bou              '(timber) hard or seasoned'
 
-   The Papuan Tip (Bwaidoga, Misima) forms point to POc *pou , other forms to *bou. No
-non-Oceanic cognates of this set have been found. The precise meanings of PMP *Sadiri and
-*turus (and their POc reflexes) and of POc *bou are unclear. Reflexe of *turus most often
+   The Papuan Tip (Bwaidoga, Misima) forms point to POc _*pou_, other forms to _*bou_. No
+non-Oceanic cognates of this set have been found. The precise meanings of PMP _*Sadiri_ and
+_*turus_ (and their POc reflexes) and of POc _*bou_ are unclear. Reflexe of _*turus_ most often
 refer to a main weight-bearing post, supporting either the top plates or ridge-pole. Reflexes of
-POc *bou, except in Central Pacific, usually refer to a main bearer supporting the raised
+POc _*bou_, except in Central Pacific, usually refer to a main bearer supporting the raised
 floor or roof timbers.
 
 >
@@ -2780,7 +2779,7 @@ POc *logi 'partition, partitioned area '
   cf. also:
   SES:    Gela            voki               'room, partition in a house'
 
-The meaning of *logi is not entirely clear. The weight of the ethnographic and linguistic
+The meaning of _*logi_ is not entirely clear. The weight of the ethnographic and linguistic
 evidence suggests that it probably referred to an inner room or partition containing a bed or
 sleeping platform screened off from the outer and more public area of a house. In contemporary
 societies the inner room is generally used as a bedroom for husband and wife and for storing
@@ -2790,8 +2789,8 @@ and could be applied to any partitioned area, whether house or garden (see also 
 >
 <
 
-PMP *pa(n)tar 'shelf; bed-frame of wooden or bamboo laths' (Blust 1980b: 1 23 )
-POc *patar 'platform of any kind, including a bed frame of planks' (see also Ch. 7, §3. 1 )
+PMP *pa(n)tar 'shelf; bed-frame of wooden or bamboo laths' (Blust 1980b: 123)
+POc *patar 'platform of any kind, including a bed frame of planks' (see also Ch. 7, §3.1)
  Adm: Seimat             paca               'canoe platform'
  Adm: Lou                 put-put            'upper shelf'
  PT:  Motu                pata               'shelf, table'
@@ -2874,10 +2873,10 @@ POc *pako 'wooden peg or pin'
   Pn:     Tongan          faʔo              'nail'
   Pn:     Tahitian        fao               'nail, chisel'
 
-The Polynesian forms reflect PPn glottal stop rather than expected *k, a development found
+The Polynesian forms reflect PPn glottal stop rather than expected _*k_, a development found
 in several other words (Geraghty 1983 , 1986).
 
-    As metal tools were almost certainly unknown to the early Austronesians, POc *pako and
+    As metal tools were almost certainly unknown to the early Austronesians, POc _*pako_ and
 its PMP source presumably referred to wooden pegs or pins. In many languages the reflex of
 this term was later applied to iron nails. Terms for stone woodworking tools can be reconstructed
 for PAn and later interstages (see Ch. 4, §4. 1 ), indicating a woodworking tradition continuing
@@ -2912,11 +2911,10 @@ POc *rapu(R) 'hearth, fireplace; ashes'
 >
 <
 
-   A term for an oven made with hot stones, POc *qurnun is widely attested (see Ch. 6, §2.6,
+   A term for an oven made with hot stones, POc _*qurnun_ is widely attested (see Ch. 6, §2.6,
 for further discussion).
 
-POc *qurnun 'oven made with hot stones; cook in a stone or earth oven' (Chowning 1991 ,
- Lichtenberk 1994)
+POc *qurnun 'oven made with hot stones; cook in a stone or earth oven' (Chowning 1991, Lichtenberk 1994)
   Adm: Seimat             um               'earth oven'
   NNG: Kairiru            umu-i, um       'cook in earth oven' (singular/plural object)
   PT:  Molima            ʔumula           'stone oven'
@@ -2962,9 +2960,9 @@ POc *giRu or *guRi 'deep pit, (?) for grave or well'
   SES:     Arosi            giru               'hole (in ground), grave'
 
 The PT and SES forms in the above set are cognate on the assumption that metathesis
-occurred in one set or the other. In many Oceanic languages a reflex of *lua(ŋ) is the general
+occurred in one set or the other. In many Oceanic languages a reflex of _*lua(ŋ)_ is the general
 term for any sort of hole, including pits used for cooking or for storing breadfruit and certain
-other crops. POc *giRu or *guRi may have referred to deep pits dug for graves or wells.
+other crops. POc _*giRu_ or _*guRi_ may have referred to deep pits dug for graves or wells.
 
 >
 <
@@ -3018,13 +3016,13 @@ POc *qaRa(r) 'fence'
 
 >
 
-One further reconstruction, POc *kaRi 'garden fence or partition', is given with supporting
+One further reconstruction, POc _*kaRi_ 'garden fence or partition', is given with supporting
 evidence in Chapter 5, § 6 .
    Also included here i s a reconstruction for a path.
 
-[7]   Reconstruction of PMP *-R- is based on Manobo (S. Philippines) data: Tigwa Manobo, Binukid, Kinamigin,
-    Sarangani Manobo, Western Bukidnon Manobo, llianen Manobo ʔa/ad; Obo, Dibabawon ʔaad; Tagabawa
-    alad (Elkins 1974:607).
+[7]   Reconstruction of PMP _*-R-_ is based on Manobo (S. Philippines) data: Tigwa Manobo, Binukid, Kinamigin,
+    Sarangani Manobo, Western Bukidnon Manobo, Ilianen Manobo _ʔalad_; Obo, Dibabawon _ʔaad_; Tagabawa
+    _alad_ (Elkins 1974:607).
 
 <
 
@@ -3066,10 +3064,8 @@ four cognate sets.
 
 <
 
-PMP *banua 'inhabited territory, where a community's gardens, houses and other possessions
- are' (Blust 1987)
-POc *panua '(1) inhabited area or territory, (2) community together with its land and things
- on it, (3) land, not sea, (4) (with reference to weather) the visible world, land and sky'
+PMP *banua 'inhabited territory, where a community's gardens, houses and other possessions are' (Blust 1987)
+POc *panua '(1) inhabited area or territory, (2) community together with its land and things on it, (3) land, not sea, (4) (with reference to weather) the visible world, land and sky'
   Adm: Mussau            anua              'land'
   Adm: Penchal           panu              'village'
   NNG: Gedaged           panu              'village, settlement, hamlet'
@@ -3092,14 +3088,14 @@ POc *panua '(1) inhabited area or territory, (2) community together with its lan
   Pn:     Tongan          fonua             'land, country, territory, place; people (of the land)'
   Pn:     Hawaiian        honua             'land, earth'
 
-   Although reflexes of PMP *banua carry the meaning 'village' in a number of languages
+   Although reflexes of PMP _*banua_ carry the meaning 'village' in a number of languages
 belonging to different high-order subgroups (or at least are given this gloss in the dictionaries)
 a host of other evidence, summarised in Blust (1987 :94-95 , 99- 1 00) suggests that PMP
-*banua and its reflex in POc referred primarily to an inhabited territory; not only to the land
+_*banua_ and its reflex in POc referred primarily to an inhabited territory; not only to the land
 but to the human population and dwellings and all plant and animal life and other elements
 that contribute to the maintenance of the human community-a complex concept with no
 simple equivalent in European languages (but compare the many senses of 'land' and 'country').
-Indeed, the single word glosses that bilingual dictionaries give for reflexes of *banua should
+Indeed, the single word glosses that bilingual dictionaries give for reflexes of _*banua_ should
 generally be regarded not as accurate descriptions of their meaning in the source language,
 but as shorthand translations designed to fit the categories of the target language.
 
@@ -3125,14 +3121,14 @@ POc *pera '(?) settlement, open space associated with a house or settlement'
  NCV: Raga                a-vare            'outside the house'
  NCV: Nguna               varea            'men's house'
 
-   The term *pera is well-attested in both major subgroups of Southeast Solomonic (i.e.
+   The term _*pera_ is well-attested in both major subgroups of Southeast Solomonic (i.e.
 Cristobal-Malaitan and Guadalcanal-Gelic) but has only one secure external cognate, in
 Manam. The range of meanings or glosses associated with this cognate set makes it impossible
 to make a firm semantic reconstruction either for POc or for Proto Southeast Solomonic. Our
 best guess is that *pera referred to some sort of settlement or space associated with this.
 
-   For POc *malaqai, Milke (1968) proposed the gloss 'village'. However, that gloss applies
-only to its few Western Oceanic reflexes. PPn *mala'te clearly denoted an open space in the
+   For POc _*malaqai_, Milke (1968) proposed the gloss 'village'. However, that gloss applies
+only to its few Western Oceanic reflexes. PPn _*malaʔe_ clearly denoted an open space in the
 centre of a settlement, used for communal activities.
 
 >
@@ -3146,8 +3142,8 @@ PPn *malaqe 'open, cleared space used as meeting place or ceremonial place' (Big
  Pn:    Samoan          malae            'open space in the middle of a village, meeting-ground'
  Pn:   Maori            marae            'enclosed space before house, courtyard'
 
-   Rotuman maraʔe 'open space in centre of village' is indicated to be a loan from Polynesian
-by the presence of r and glottal stop for expected l and zero. Kiribati marae 'empty space,
+   Rotuman _maraʔe_ 'open space in centre of village' is indicated to be a loan from Polynesian
+by the presence of _r_ and glottal stop for expected _l_ and zero. Kiribati _marae_ 'empty space,
 clear place, public place, sports ground' is probably borrowed from Polynesian.
 
 >
@@ -3156,7 +3152,7 @@ clear place, public place, sports ground' is probably borrowed from Polynesian.
 <
 
    Another POc term whose reflexes in a few daughter languages now mean 'village' is
-*mwalala . Once again, however, the balance of the evidence suggests that it did not have this
+_*mwalala_. Once again, however, the balance of the evidence suggests that it did not have this
 meaning in POco
 
 POc *mwalala 'cleared land, land free of encumbrances, i.e. cleared of vegetation but not built on or planted'
@@ -3346,14 +3342,14 @@ borrowed, as its gloss would imply.
 
 <
 
-    Another possible, PNGOc, term for water jar is *bʷad(r)i, for which the evidence is given
+    Another possible, PNGOc, term for water jar is _*bʷad(r)i_, for which the evidence is given
 below. All reflexes except one are from the north coast of New Guinea, and mean 'pot
-(generic), cooking pot', where they have ousted reflexes of POc *kuron in this role, but there
+(generic), cooking pot', where they have ousted reflexes of POc _*kuron_ in this role, but there
 is evidence that this is the result of post-Proto Oceanic genericisation. The characteristic
 Oceanic cooking pot and water jar are quite similar in form, differing only in the narrowness
 of the neck of the water jar, so that genericisation of the water jar term is quite likely. The
 facts that the one non-north coast term, from Misima, means 'water pot' and that there are
-indications (in Mindiri and Bilibil) that reflexes of *bʷad(r)i also mean 'water pot' suggest
+indications (in Mindiri and Bilibil) that reflexes of _*bʷad(r)i_ also mean 'water pot' suggest
 that this was its original meaning.
 
 PNGOc *bʷad(r)i 'k.o. large pot, possibly for water storage'
@@ -4741,7 +4737,7 @@ POc *giri 'file, rasp, saw'
   NNG: Takia              riri                 'grate, pulverise by rubbing against s.t. rough; rasp'
   PT:     Motu            riri               'grate (yams +)'
 
-Both *kiri and *giri are reconstructable, the latter perhaps a verb from *N-kiri; the Polynesian
+Both _*kiri_ and _*giri_ are reconstructable, the latter perhaps a verb from _*N-kiri_; the Polynesian
 reflexes are attributable to either.
 
 >
@@ -5633,8 +5629,7 @@ POc *salap, *salap-i- 'sweep, broom '
 
   Use of a wooden headrest as a pillow is widespread. Terms can be traced back to PMP:
 
-PMP *qulun-an 'place where one rests the head: wooden headrest' (> PMP *qulun 'rest the
- head on') (ACD)
+PMP *qulun-an 'place where one rests the head: wooden headrest' (> PMP *qulun 'rest the head on') (ACD)
 POc *quluŋ-an 'rest the head on; wooden headrest' (ACD)
  Adm: Loniu            kaluŋ           'pillow, orig. a wooden block'
  Adm: Seimat           ul-uluŋ         'rest the head'
@@ -13021,7 +13016,7 @@ POc *isi[-]  'scoop out (flesh from coconut +); peel off (skin, bark +)'
 POc *sisi[-] 'scoop out (flesh from coconut +); peel off (skin, bark +)'
 POc *Risi(q) 'remove by tearing, tear or peel off (bark +) in long narrow strips'
 
-  Blust (ACD) notes CMP cognates of POc *isi (Roti isi 'peel onion +, scale fish', Kei isi(n)
+  Blust (ACD) notes CMP cognates of POc _*isi_ (Roti _isi_ 'peel onion +, scale fish', Kei _isi(n)_
 (VT) 'skin, peel off'), supporting the gloss 'peel off (skin, bark +)'. PAn had a noun *isi?
 whose meanings included 'flesh (of humans, animals, fruits, tubers); contents; blade of a
 knife; inhabitants'. It is possible that POc *isi, at least in its meaning 'scoop out (flesh from
