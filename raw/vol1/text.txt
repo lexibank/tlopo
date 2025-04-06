@@ -1873,10 +1873,12 @@ conventions referred to in the discussion above to speak for themselves.
                       that many associate with the colonisation of south-west Oceania by bearers of the archaeological
                       culture known as Lapita in the second half of the 2nd millennium Be (Bellwood 1978 ,
                       Pawley & Ross 1995, Shutler & Marck 1975, Spriggs 1995).[1]
+
                          Some methodological questions are in order. Are such culture historical reconstructions
                       feasible? Which disciplines and methods can provide evidence relevant to this task? What is
                       each method good for, and to what extent, if at all, can evidence provided by different
                       methods be connected?
+
                          At least three distinct disciplines -historical linguistics, archaeology and comparative
                       ethnology-are used to do culture history. Each discipline has particular strengths and
                       limitations.[2] Although their combined testimonies are likely to reveal a fuller picture than any
@@ -1885,7 +1887,21 @@ conventions referred to in the discussion above to speak for themselves.
                       but it is not easy to know when the witnesses are talking about the same historical events.
                       One is reminded of the story of the six blind philosophers each of whom touched a different
                       part of an elephant and then equated the parts with six unrelated objects.
+
                          The richest primary data for culture historical reconstruction come from comparative
+ethnology (or comparative ethnography, if you prefer). This discipline has the advantage,
+under favourable circumstances, of starting with descriptions of contemporary or historical
+societies and cultures that are immensely more complete than anything the archaeologist can
+hope to recover. However, the historical method of comparative ethnology is a fairly blunt
+instrument.[3] The method is based on general arguments from typology. From contemporary
+reports of cultures the comparative ethnologist may arrive at a theory of earlier cultural types
+and their transformations or their directions of diffusion. The proofs for drawing such inferences
+are essentially statistical, based on the frequency and distribution of types and typological
+associations in contemporary societies: often the most common and/or most widely distributed
+type is assumed to be the oldest. A problem familiar to archaeologists and linguists who use
+ethnographic analogy is that the reconstructed past becomes simply an extension and reflection
+of one's knowledge of present-day traditional societies. Quite different pasts are not easily
+recognised.
 
 
 [1] This chapter is based on a longer paper by Green and Pawley (in press, vol. 3) which correlates archaeological
@@ -1900,43 +1916,30 @@ conventions referred to in the discussion above to speak for themselves.
 
 38       Roger Green and Andrew Pawley
 
-ethnology (or comparative ethnography, if you prefer). This discipline has the advantage,
-under favourable circumstances, of starting with descriptions of contemporary or historical
-societies and cultures that are immensely more complete than anything the archaeologist can
-hope to recover. However, the historical method of comparative ethnology is a fairly blunt
-instrument.[3] The method is based on general arguments from typology. From contemporary
-reports of cultures the comparative ethnologist may arrive at a theory of earlier cultural types
-and their transformations or their directions of diffusion. The proofs for drawing such inferences
-are essentially statistical, based on the frequency and distribution of types and typological
-associations in contemporary societies: often the most common and/or most widely distributed
-type is assumed to be the oldest. A problem familiar to archaeologists and linguists who use
-ethnographic analogy is that the reconstructed past becomes simply an extension and reflection
-of one's knowledge of present-day traditional societies. Quite different pasts are not easily
-recognised.
    The following remarks by Waterson (1993 :221) about the antiquity of houses on piles and
 roof styles are fairly typical of the kinds of argumentation used by historical ethnologists:
 
-     Architectural styles can change rapidly-but they can also maintain continuity over surprisingly
-     long periods. The antiquity of some aspects of architectural style in the Austronesian world
-     is undoubted. Elements such as pile building and the saddle roof with its extended ridge line
-     are fIrst to be seen on the bronze drums of the Dong Son era, but to judge from their
-     appearance in regions as distant from the [Southeast Asian] mainland as Micronesia and
-     New Guinea, it is reasonable to assume they are much older than their earliest surviving
-     pictorial representations; in other words, that this style is a genuinely Austronesian invention.
+|     Architectural styles can change rapidly-but they can also maintain continuity over surprisingly
+|     long periods. The antiquity of some aspects of architectural style in the Austronesian world
+|     is undoubted. Elements such as pile building and the saddle roof with its extended ridge line
+|     are fIrst to be seen on the bronze drums of the Dong Son era, but to judge from their
+|     appearance in regions as distant from the [Southeast Asian] mainland as Micronesia and
+|     New Guinea, it is reasonable to assume they are much older than their earliest surviving
+|     pictorial representations; in other words, that this style is a genuinely Austronesian invention.
 
-In her two-volume work, Kulthauser in Nordneuguinea , Hauser-Schaublin (1989:6 1 8) writes
+In her two-volume work, Kulthauser in Nordneuguinea , Hauser-Schaublin (1989:618) writes
 as follows of houses in a region that contains hundreds of non-Austronesian languages as
 well as a smaller number of Austronesian languages:
 
-     The hut on piles with supports carrying both the roof and the built-in floor seems to belong
-     to Austronesian cultures. On the North Coast both elements are combined: the fIrst floor
-     platform is supported by its own poles, whereas the upper floors are slotted into the horizontal
-     beams. In areas settled by non-Austronesian groups, all parts of the building are traditionally
-     lashed with lianas. Pin and peg techniques are only known in those regions where Austronesian
-     languages are spoken. The Middle Sepik cultures took over the idea of buildings with
-     projecting gables from the Austronesians who settled at certain places on the North Coast.
-     They adapted it to their own technology and architectural experience, giving it a new expression.
-     [translated from the German, in Waterson 1993]
+|     The hut on piles with supports carrying both the roof and the built-in floor seems to belong
+|     to Austronesian cultures. On the North Coast both elements are combined: the fIrst floor
+|     platform is supported by its own poles, whereas the upper floors are slotted into the horizontal
+|     beams. In areas settled by non-Austronesian groups, all parts of the building are traditionally
+|     lashed with lianas. Pin and peg techniques are only known in those regions where Austronesian
+|     languages are spoken. The Middle Sepik cultures took over the idea of buildings with
+|     projecting gables from the Austronesians who settled at certain places on the North Coast.
+|     They adapted it to their own technology and architectural experience, giving it a new expression.
+|     [translated from the German, in Waterson 1993]
 
    Note the temporal priorities assigned in these two accounts. The conclusions about what is
 older and younger based on ethnological distributions may well be valid, but how much
@@ -1945,8 +1948,11 @@ of diffusion. A serious weakness of comparative ethnology, as an instrument for 
 prehistory, is that it has no very reliable way of distinguishing between shared resemblances
 among a set of contemporary cultures that are due to (a) retention from a common ancestral
 tradition, (b) convergent development, or (c) diffusion.
+
    In a different context, Bellwood has remarked that "only archaeology will tell us for
 certain whether pile-built dwellings really belong to an early phase of Western Austronesian
+culture, or whether they have been diffused at a much later date... " (Bellwood 1987:92). As
+we shall see, in that particular matter, historical linguistics can also provide crucial evidence.
 
 
 [3]  The nature of the contrast between the historical methods of comparative ethnology and linguistics is
@@ -1954,8 +1960,6 @@ certain whether pile-built dwellings really belong to an early phase of Western 
 
                                          Architecturalforms and settlement patterns            39
 
-culture, or whether they have been diffused at a much later date... " (Bellwood 1987:92). As
-we shall see, in that particular matter, historical linguistics can also provide crucial evidence.
     Granted these caveats, the evidence of comparative ethnology can at times be very suggestive.
 Thus it forms one of the more fruitful sources of testable interpretations about the recent past
 and of analogical inferences employed by archaeologists in their reconstructions. Such evidence
@@ -1968,6 +1972,7 @@ meeting and sleeping place and for ritual activities is common among Austronesia
 only in parts of Melanesia. Fox (1993 : 1 2) suggests, reasonably, that the institution of a
 men's house was not part of original Austronesian or Malayo-Polynesian culture, but was
 borrowed by early Oceanic speakers from non-Austronesian speaking peoples of Melanesia.
+
    The great advantage of prehistoric archaeology over comparative ethnology and historical
 linguistics is that it can locate particular assemblages of structural and portable artefacts
 more precisely in space and time. However, archaeologists must generally make do with
@@ -1977,6 +1982,7 @@ the remnants of structures and the below-ground imprints of features. Often only
 small sample of the range of a society's entire material culture is recovered and inferences
 about the rest of the culture-including its systems of beha viour and belief -must be made on
 indirect grounds.
+
    The strengths and weaknesses of historical linguistics are largely complementary to those
 of archaeology and comparative ethnology. Like ethnologists, linguists draw their primary
 data from reports of contemporary or historical language-culture systems. They lack truly
@@ -1993,6 +1999,7 @@ been borrowing between them. Languages, like organisms, are highly integrated sy
 certain elements in the system-particular sounds and particular morphemes-show a continuity
 over time that may usefully be called 'genetic '. These continuities are traceable in spite of
 changes in the form of these elements across generations of speakers.
+
    The special nature of linguistic systems and linguistic change gives linguists a powerful
 method for reconstructing the histories of related words (cognates) shared by sister languages.
 In any language the sounds and meanings of the words of a language undergo constant,
@@ -2002,19 +2009,21 @@ this fragility of linguistic artefacts, together with the regular nature of one 
 change, which makes it possible (i) to distinguish genetic relationship from other kinds of
 resemblances and (ii) to determine subgrouping or family tree relationships within genetic
 stocks. Regular change is characteristic of sound systems. In a socially homogeneous speech
-40      Roger Green and Andrew Pawley
-
 community, pronunciations tend to change regularly, such that if in some words the sound x
 changes to y under certain structural conditions, say [t] to [s] before [iI, or [p] to [v] between
 vowels, that change will generally extend to all words that meet those structural conditions.
 However, words borrowed from a sister language or dialect after the change x to y is
 complete usually will not undergo that change and, in that case, will be detectable as anomalous.
+40      Roger Green and Andrew Pawley
+
+
    The weakest link in linguistic reconstructions is meaning. Semantic change is not regular
 or systematic in the way that sound change is, and when cognates in languages A, B, C, etc.
 exhibit a diverse range of meanings, it may be difficult to determine the original meaning(s).
 Some of the procedures linguists adopt to constrain semantic reconstruction are discussed in
 Blust (1987). How linguists approach these issues and the problems they pose for archaeologists
 who wish to use such reconstructions is discussed in Green (1994a).
+
    The linguistic comparative method works well only at fairly shallow time depths because
 cumulative change wears away the evidence of common origin. There have been few cases in
 which the genetic comparative method has reliably penetrated much deeper than about 6,000
@@ -2027,6 +2036,7 @@ recover elements of the perishable material often unavailable to archaeologists 
 cognitive aspects of social organisation, beliefs, and ideology that archaeologists find difficult
 to infer. However, historical linguistics must look to archaeology to supplement its relatively
 weak methods for locating reconstructed prehistoric languages in space and in absolute time.
+
    But here an old problem arises: How can reconstructed languages be correlated with
 archaeological assemblages? For instance, how can one make a strong claim about whether a
 particular Lapita site was occupied by Austronesian speakers or by non-Austronesian speakers?
@@ -2042,9 +2052,13 @@ case in, say, the area of Central Papua around Port Moresby 2,000 years ago; (b)
 is well-established continuity between the prehistoric site or sites in question and recent,
 historically documented Austronesian-speaking communities in the region; (c) in the case of
 regions known to have been inhabited by both Austronesian and non-Austronesian speakers,
-when the material culture of Austronesian speakers is sharply distinct from that of non­
-Austronesian speakers. And if a site was occupied by Austronesian speakers, we may ask
-
+when the material culture of Austronesian speakers is sharply distinct from that of non-Austronesian
+speakers. And if a site was occupied by Austronesian speakers, we may ask
+how it can be shown that the occupants were speakers of, say, stage A or subgroup A of
+Austronesian rather than stage B or subgroup B. The short answer is that this is a complicated
+business that involves taking account of the distribution of subgroups, continuities and
+discontinuities in the archaeological sequence, and geographic, demographic and political
+factors.
 
 
 [4]  It has been suggested that the expansion of many of the world's large, well-defined language groups was
@@ -2057,11 +2071,6 @@ Austronesian speakers. And if a site was occupied by Austronesian speakers, we m
 
                                                   Architecturalforms and settlement patterns                     41
 
-how i t can be shown that the occupants were speakers of, say, stage A o r subgroup A of
-Austronesian rather than stage B or subgroup B. The short answer is that this is a complicated
-business that involves taking account of the distribution of subgroups, continuities and
-discontinuities in the archaeological sequence, and geographic, demographic and political
-factors.
     Our strategy, since the mid- 1960s, has been to seek detailed, systematic points of connection
 between particular prehistoric cultures and cultural sequences in the Pacific I slands, as defined
 by archaeology and historical linguistics, respectively, always with an eye on the comparative
@@ -2071,6 +2080,7 @@ prehistory, but receiving far less attention, the pieces have not come together 
 But over the past 30 years it has gradually become increasingly evident that the settlement of
 Near Oceania by Austronesian speakers preceded the first Austronesian settlement of Remote
 Oceania by only a few hundred years.
+
     Between 1500 and 1000 BC variants of a culture known as Lapita appear in the
 archaeological record across a wide belt in the Southwest and Central Pacific (Allen &
 Gosden 1991 , Galipaud 1992, Green 1967, 1979, 1994a, Kirch & Hunt 1988 , Spriggs
@@ -2084,6 +2094,7 @@ and shell adzes; obsidian and chert flake tools, often imported from remote sour
 shell fishhooks; pearlshell knives and scrapers; various kinds of conus shell disks and pendants;
 earth ovens; and middens full of lagoon fish and turtle bones and also containing the bones of
 dog, chicken and pig.
+
     The earliest Lapita sites are in the Bismarck Archipelago. There the distinctive pottery
 style appears suddenly, full blown, around 1500 BC. No exact match has yet been found
 outside of Oceania but the ultimate antecedents of Lapita probably lie further west, in
@@ -2117,6 +2128,7 @@ subgroup was the Bismarck Archipelago (pawley & Ross 1993 , 1995, Ross 1988 ; cf
 Grace 1961 , 1964). This conclusion is consistent with the view that the break -up of Proto
 Oceanic (POc) was associated with the dispersal of the Lapita culture beyond the Bismarcks
 after about 1300 BC.
+
    Throughout Remote Oceania the appearance of the Lapita culture can be associated with
 the first arrival in the region of Austronesian languages, specifically members of the Oceanic
 subgroup. The connections are easiest to make in Fiji and Western Polynesia, regions that
@@ -2143,16 +2155,18 @@ only a few sites have been extensively excavated. Thus, reconstructions of the i
 organisation of Lapita settlements rest mainly on a few large-scale investigations of portions
 of settlement areas (e.g. Best 1984, Frimigacci 1974, 1980, Kirch 1988 , Poulsen 1987,
 Sheppard & Green 1991 ).
+
    The ethnological record on settlement patterns and architecture in Austronesian-speaking
 societies is far too extensive to review here. Our remarks must be very brief and selective.
 We will use selected ethnological evidence and a comparative approach mainly to generate
 hypotheses that might be tested against evidence from archaeology and/or linguistics.
+
    For example, certain features of Austronesian settlements in Oceania were so widespread
 at first European contact, that one may reasonably ask whether these directly continued
 traditions established during the initial dispersal of Oceanic languages. Recurrent features
 noted in the literature (Forge 1972, Hogbin & Wedgewood 1953, Oliver 1989) include those
 set out below.
-(1 ) There is a preference for coastal settlements, handy to reef/lagoon systems and beaches
+(1) There is a preference for coastal settlements, handy to reef/lagoon systems and beaches
        with landing places for boats, and to garden land in the interior.
 (2) Both dispersed and nucleated settlements are common. Dispersed settlements, sometimes
      containing hamlets inhabited by a few extended families, are commonest where land is
@@ -2161,9 +2175,9 @@ set out below.
      situated in inaccessible places with defences constructed.
 44     Roger Green and Andrew Pawley
 
-(3) I n villages where the terrain allows, main dwellings are generally arranged in parallel lines
+(3) In villages where the terrain allows, main dwellings are generally arranged in parallel lines
       on each side of a rectangular space that serves as a ceremonial centre for the settlement.
-(4) V illages divide into sections or wards each belonging to a single lineage (or section of a
+(4) Villages divide into sections or wards each belonging to a single lineage (or section of a
      lineage) and containing one or more households.
 (5) The sections are not physically bounded but each lineage owns certain house sites and
      these sites have considerable ritual importance.
@@ -2176,25 +2190,25 @@ set out below.
 (8) There is a porch in the front of raised houses and often on those built on the ground.
 (9) The interior of the main dwelling is divided into compartments with an inner room or
      compartment for sleeping and an outer 'living room'.
-(1 0) While main houses serve as sleeping places and as storage places for valuables, much
+(10) While main houses serve as sleeping places and as storage places for valuables, much
        daily life takes place in smaller, less durable structures erected on the ground near the
        main dwelling and used for various daytime activities such as preparing food, cooking,
        eating, weaving mats, conversation with neighbours and sometimes for sleeping in at
        night. These structures, including kitchen and day-houses, are less well built, being
        open-sided or only partly walled, often with flat roofs of coconut leaves or rough thatching.
-(1 1 ) Coastal settlements have open-sided boat houses, each usually belonging to an extended
+(11) Coastal settlements have open-sided boat houses, each usually belonging to an extended
         family.
-(1 2) In yam-growing areas there are storage houses with raised platforms for keeping yams;
+(12) In yam-growing areas there are storage houses with raised platforms for keeping yams;
       similar structures often occur elsewhere.
-(1 3) In parts of Melanesia a men's house is commonly part of the hamlet or village, providing
+(13) In parts of Melanesia a men's house is commonly part of the hamlet or village, providing
        a centre where men and boys may congregate and perform certain rituals from which
        women are barred.
-(1 4) A menstrual hut is sometimes built near the main dwelling of a family.
-(1 5) Ovens made with heated stones, including both earth ovens (where the food is cooked in
+(14) A menstrual hut is sometimes built near the main dwelling of a family.
+(15) Ovens made with heated stones, including both earth ovens (where the food is cooked in
        pits) and above-ground ovens, occur close to the dwellings.
-(1 6) Graves, often marked by piles of stones, may be sited under or close to the main
+(16) Graves, often marked by piles of stones, may be sited under or close to the main
       dwelling house.
-(1 7) The ritual activity of kin groups is focused in dwelling houses. The principal ritual foci
+(17) The ritual activity of kin groups is focused in dwelling houses. The principal ritual foci
        within the house are the posts, entrance, ridge-pole and hearth.
 
    In a passage cited earlier, Hauser-Schaublin (1989) discussed features of house design
@@ -2208,27 +2222,27 @@ regions. Yet they exhibit most of the basic structural features of dwelling hous
 coastal Austronesian-speaking peoples living throughout the New Guinea area. The following
 description (cited in Young 1993 : 1 82) applies to the early contact period of 1911 - 1 2.
 
-    All houses ... are erected on four poles forked at the top to hold the plates . . . Two plates run
-   horizontally from the front to the back posts of the house, and from them a series of poles
-   and rafters lead up and support the ridge pole. Everything is firmly lashed together with
-   vines ... Thus the framework of the house is provided; for walls it is covered with overlapping
-   layers of sago-leaf matting. Back and front are sometimes covered in the same way, but
-   often the matting is here replaced by planks on which the native can display his artistic
-   powers. The back wall is unbroken but a gap is left in the front by which the inmates can
-   enter; it can be closed at will by native mats. A platform is often built in front, usually as a
-   mere extension of the floor, though sometimes a foot or so lower. This . . . offers a very
-   convenient place to sit and gossip, especially when the roof and sides are made to project as
-    well and so ward off both sun and rain. Propped up against the platform. . . will be found a
-   ladder, which is simply the stem of a small tree with notches cut for steps at intervals of a
-   few inches. The floor is made of transverse poles or rough boards resting on the plates, and
-   is generally covered with mats of coconut leaves. The interior is sometimes divided into an
-   inner and an outer compartment, with a gap in the dividing wall similar to that in the front of
-   the house. In some houses there is a low bench running along one side, for the inmates to
-   sleep on, but this is not very common .
-        ... A medium sized hut that we measured had a front of 22' 6" (6.9 m) and a depth of 26'
-   (8 m). The platform, which extended 6' (1 .8 m) outwards from the floor, was 5' (1 .5 m) above
-   the ground, and the height of the room inside from floor to ridge-pole was only 4' 8" (1 .4 m)
-   (Jenness & Ballantyne 1920: 1 82- 1 83).
+|    All houses ... are erected on four poles forked at the top to hold the plates ... Two plates run
+|   horizontally from the front to the back posts of the house, and from them a series of poles
+|   and rafters lead up and support the ridge pole. Everything is firmly lashed together with
+|   vines ... Thus the framework of the house is provided; for walls it is covered with overlapping
+|   layers of sago-leaf matting. Back and front are sometimes covered in the same way, but
+|   often the matting is here replaced by planks on which the native can display his artistic
+|   powers. The back wall is unbroken but a gap is left in the front by which the inmates can
+|   enter; it can be closed at will by native mats. A platform is often built in front, usually as a
+|   mere extension of the floor, though sometimes a foot or so lower. This . . . offers a very
+|   convenient place to sit and gossip, especially when the roof and sides are made to project as
+|    well and so ward off both sun and rain. Propped up against the platform. . . will be found a
+|   ladder, which is simply the stem of a small tree with notches cut for steps at intervals of a
+|   few inches. The floor is made of transverse poles or rough boards resting on the plates, and
+|   is generally covered with mats of coconut leaves. The interior is sometimes divided into an
+|   inner and an outer compartment, with a gap in the dividing wall similar to that in the front of
+|   the house. In some houses there is a low bench running along one side, for the inmates to
+|   sleep on, but this is not very common .
+|        ... A medium sized hut that we measured had a front of 22' 6" (6.9 m) and a depth of 26'
+|   (8 m). The platform, which extended 6' (1 .8 m) outwards from the floor, was 5' (1 .5 m) above
+|   the ground, and the height of the room inside from floor to ridge-pole was only 4' 8" (1 .4 m)
+|   (Jenness & Ballantyne 1920: 182-183).
 
    In his overview of domicile arrangements in Island Melanesia, Oliver (1989:3 3 3) chose a
 community of the Austronesian-speaking Baegu (Malaita, Solomon I slands) to "typify,
@@ -2237,12 +2251,14 @@ communities are given separate treatment). Given his extensive ethnographic know
 the region, and his objective in setting up a model to characterise most communities in it, the
 selection of Baegu is, one would believe, no accident. And it suits well the need for a general
 ethnographic guideline within which to work.
+
    Baegu communities consist of one or more /era (or hamlets) (Ross 1973). Although/era
 "had no visible boundaries and little symbolic identity, they remained more or less localised
 and were distinctly perceptible in terms of social interactions of the members". Baegu local
 communities become more 'solidary' under the influence of 'focal' men, clan seniors and
 priests whose statuses were ascribed by birth, and feast givers and war leaders whose positions
 were achieved.
+
    Note also the gender arrangements and symbolic structures of relations within and without
 the /era, shown in Figure 2. Strikingly similar parallelism of inside-outside structural relations,
 physical and symbolic, were noted by Goodenough (1983) for Malekula and the Polynesian
@@ -2264,16 +2280,15 @@ Figure 2: Typical Baegu (Malaita, Solomon Islands) dwelling and community layout
 house. Arosi speakers, of San Cristobal in the Solomons, for instance, first distinguish ruma
 'a house, oblong in shape' from hare 'a shed for yams, a house with roof thatched on one side
 only, a shrine (a small house on poles)' and then distinguish at least the following kinds of
-ruma (Fox 1978):
-ruma huri, a round house, taller than the well-known Santa Cruz round house
-ruma gaura , a double, oblong house
-ruma ora, a house with ten posts or more (five pairs of posts)
-ruma pʷarapʷara, a house roughly built, with roof of whole fronds instead of thatching
-ruma rangi, a house with two roofs, the second roof only above the upper part of the first
-    roof, made by extending the rafters upwards
-ruma rokera , like ruma rangi but the two roofs close together
-ruma sinakuhi, house with rounded end
-ruma waiho, simplest form of oblong house with six posts (three pairs).
+_ruma_ (Fox 1978):
+- _ruma huri_, a round house, taller than the well-known Santa Cruz round house
+- _ruma gaura_, a double, oblong house
+- _ruma ora_, a house with ten posts or more (five pairs of posts)
+- _ruma pʷarapʷara_, a house roughly built, with roof of whole fronds instead of thatching
+- _ruma rangi_, a house with two roofs, the second roof only above the upper part of the first roof, made by extending the rafters upwards
+- _ruma rokera_, like ruma rangi but the two roofs close together
+- _ruma sinakuhi_, house with rounded end
+- _ruma waiho_, simplest form of oblong house with six posts (three pairs).
 
 Are there significant structural differences between the houses and settlements of Austronesian
 and non-Austronesian speakers in Melanesia? It is hazardous to generalise -in these matters
@@ -2286,7 +2301,8 @@ gabled roof requiring strong crossbeams and centre-posts. Instead, the roof is r
 and flat or domed with the support of centre poles. (4) Timbers are lashed, and seldom
 secured by wooden pins or pegs. (5) There is no projecting gable. (6) There is no porch or
 raised open platform outside the room. (7) There is often a men's house. (8) Boat houses are
-absent. (1 0) Stone heated ovens, including earth ovens, are made close to the dwellings.
+absent. (10) Stone heated ovens, including earth ovens, are made close to the dwellings.
+
    The ethnological evidence suggests various questions for culture history. Can we show by
 linguistic or archaeological evidence that these features were part of the settlement patterns
 of Proto Oceanic speakers and their immediate descendants?
@@ -2302,6 +2318,7 @@ a Proto Oceanic etymon for any set of cognate lexical units that is regularly re
 least one language in any two of the following subgroups or sets: (a) the Admiralties, (b)
 Western Oceanic, (c) Eastern Oceanic, or in at least one Oceanic language and one non-Oceanic
 Austronesian language.
+
 48     Roger Green and Andrew Pawley
 
     Interstages later than Proto Oceanic are also of interest. Of particular concern are those
@@ -2313,6 +2330,7 @@ Lapita spoke hardly differentiated dialects of Oceanic when they spread to the m
 archipelagos of SW Melanesia, it should occasion no surprise that it is hard to find evidence
 for subgroups that span different archipelagos in that region. What we do find is a number of
 fairly well-defined subgroups confined to particular island groups of Remote Oceania.
+
     There are two prominent exceptions to this prevalence of geographically compact major
 subgroups. Each of the Polynesian and Nuclear Micronesian groups is spread over a number
 of far-flung archipelagos. The many innovations defining the Polynesian subgroup indicate a
@@ -2338,7 +2356,7 @@ others that have considerable antiquity but cannot be reconstructed for Proto Oc
 
 
 
-3.3 Kinds of buildings
+3.3.3 Kinds of buildings
 
    Blust (1987) compared four widely distributed cognate sets whose members generally
 name types of domestic buildings. He attributed the reconstruction *Rumaq 'dwelling house'
@@ -2356,18 +2374,18 @@ PAn *Rumaq 'dwelling house' (Blust 1987)
 POc *Rumaq 'house'
   Adm: Lou                um
   NNG: Arawe              a-rumuk           'village'
- NNG: Vehes               yumak
+ NNG: Vehes               ɣumak
  PT:   Motu              ruma
  MM: Bali                rumaka
  MM: Petats              luma
  SES: Lau                luma               'family house'
  SES: Arosi              ruma
- NCV: Mota               lma
+ NCV: Mota               ima
  NCV : Tasiriki          ima
  NCV: Lewo               yuma
  SV :  Lenakel           n-imʷa
  NCal: Dehu              uma
- Mic : Ponapean          imw               'building, house, home, dwelling'
+ Mic : Ponapean          imʷ               'building, house, home, dwelling'
  Mic: Kiribati           uma               'any kind of dwelling'
 
    The central sense of PAn, PMP and POc _*Rumaq_ is uncontroversial: in contemporary
@@ -2480,7 +2498,7 @@ or as a store house.
                                          Architectural forms and settlement patterns           51
 
 
-3.4 House site and main structural components of house
+3.3.4 House site and main structural components of house
 
     In I ndonesia and western Melanesia, contemporary dwelling houses are often raised on
 piles, but as one moves east, and especially in Remote Oceania, dwellings are usually constructed
@@ -2759,7 +2777,7 @@ POc *soka(r) 'bracing timber, crossbeam' (cf. Ch. 7, §2.5)
 
                                            Architecturalforms and settlement patterns           57
 
-3.5 Other structures associated with buildings
+3.3.5 Other structures associated with buildings
 
    Under this heading we include terms for partitions, shelves, steps, and so on.
 
@@ -2885,7 +2903,7 @@ from PAn times.
 >
 
 
-3.6 Other structures associated with settlements
+3.3.6 Other structures associated with settlements
 
 <
 
@@ -3053,7 +3071,7 @@ POc *jalan 'path'
 
 
 
-3.7 Settlement patterns
+3.3.7 Settlement patterns
 
    Some contemporary Oceanic societies live in villages of up to several hundred people in
 size; others live in scattered hamlets or homesteads containing one or two extended families.
@@ -3180,8 +3198,8 @@ and gardens close to village' which goes back to PAn *quCan 'fallow land' (Blust
 
 
 
-4 On variation and change in early Oceanic architectural styles
-   and settlement patterns
+3.4 On variation and change in early Oceanic architectural styles and settlement patterns
+
    Contact with Papuan (non-Austronesian) speaking communities may have led to local
 variation and change in the architectural forms and settlement patterns of Proto Oceanic
 speakers or their immediate descendants. Earlier we touched on the possibility that the concept
@@ -3192,12 +3210,14 @@ Oceania and Australia than in Southeast Asia (Allen, Gosden & White 1989 : 5 50-
                                                  Architecturalforms and settlement patterns                   65
 
 Berbetti & Allen 1972, Horton 1994).[8]
+
    The ethnographic and linguistic evidence point to a shift from dwelling houses built on
 piles in the Bismarck Archipelago and New Guinea area to houses built on the ground in the
 Solomons and Remote Oceania. It is significant that the term *apu 'mound, mound made for
 a house site' appears to be confined to languages of the Southeast Solomons and Remote
 Oceania. Conversely, it is not surprising that reflexes of POc *gabʷari- 'area underneath a
 house' are confined to Western Oceanic.
+
    In interstages postdating the break-up of POc a number of changes can be discerned in
 terms for houses and their parts. For example, POc *bou probably meant 'main bearer or
 cross beam', but its Fijian reflexes now mean 'the tall or centre posts of a house' while in PPn
@@ -3212,7 +3232,8 @@ can be correlated with transformations in house forms in the eastern Fiji-Polyne
 
 
 
-5. Conclusion
+3.5. Conclusion
+
    Where comparable evidence is available, the testimonies of archaeology, ethnology and
 comparative linguistics are generally consistent regarding the architecture and settlement
 patterns of the Austronesian speakers who colonised the SW Pacific in the late 2nd millennium
@@ -3231,6 +3252,7 @@ data sets opens up possibilities that are well worth exploring further. When bot
 they allow the construction of a far more rounded picture of a period of considerable foment
 in Pacific colonisation than either does alone.
 
+
                       4 Household artefacts
                                                 MEREDITH OSMOND AND MALCOLM ROSS
 
@@ -3246,6 +3268,7 @@ in Pacific colonisation than either does alone.
                      baskets, string bags, mats and bamboo knives -seldom leave any trace in the archaeological
                      record. For these we are dependent on linguistic reconstruction interpreted in the light of
                      current ethnographic practice. [1]
+
                         Artefacts are organised under the following headings: (1) containers; (2) mats and cordage;
                      (3) tools; (4) items of body decoration and clothing, and (5) instruments of communication
                      and music. Terms for relevant processes are included. Thus, within the section on mats and
@@ -3266,24 +3289,25 @@ in Pacific colonisation than either does alone.
                       with and thus be an integral marker of the early dispersal of Proto Oceanic.[2] Pottery manufacture
                       in Oceania is geographically discontinuous. By no means all Oceanic speakers make pottery.
                       Obviously, pottery can only be made where suitable clay is available, but its availability is no
-
-[2]     For a fuller account of POc pottery manufacture, see Ross (1996c).
-
-68 Meredith Osmond and Malcolm Ross
-
 guarantee that pottery will be manufactured. Nor is its absence from the immediate locality a
 guarantee that pottery will not be made: the Gumawana speakers of the Amphlett group
 transport their clay some distance by sea from Fergusson Island. As a result of this discontinuity,
 pots were traditionally important trade items. A linguistic spin-off of this trade is that words
 for pots are not infrequently loan words, especially in the languages of the people who are not
 potters.
+
+[2]     For a fuller account of POc pottery manufacture, see Ross (1996c).
+
+68 Meredith Osmond and Malcolm Ross
+
+
    Ross (1996c:69) writes that most Oceanic languages have quite a simple pot terminology
 with three or four main terms.
 
-   There is generally a term for cooking pot, which often also doubles as the term for pottery in
-   general. . . Secondly, there is a term for water pot or water jar. Thirdly, there is a term for a
-   bowl or dish with a variety of functions, and finally a term for a frying dish or frying pan (in
-   some societies the object itself is actually the large sherd of a broken pot).
+|   There is generally a term for cooking pot, which often also doubles as the term for pottery in
+|   general ... Secondly, there is a term for water pot or water jar. Thirdly, there is a term for a
+|   bowl or dish with a variety of functions, and finally a term for a frying dish or frying pan (in
+|   some societies the object itself is actually the large sherd of a broken pot).
 
     There is fair agreement across Oceanic languages about the structure of the
 terminology -Ross provides evidence from NNG, PT, Admiralties and Fijian languages which
@@ -3294,20 +3318,15 @@ cooking pot/generic term is the most soundly based.
 
 
 
-
-                                                                                  '---_--'-_7
-      (a) cooking pot          (b) water jar             (c) bowl                   (d) frying pan
-      POc *kuran               POc * kalala(fj)          PPT *na(q)u(q)             POc *palafja
-      POc *bʷafja              PNGOc *bʷad(r)i
-
-
-
-Figure 4: Typical pot shapes
-                                        (from Ross 1996c)
+Figure 4: Typical pot shapes (from Ross 1996c)
+(a) cooking pot: POc _*kuran_, POc _*bʷafja_
+(b) water jar: POc _*kalala(ŋ)_, PNGOc _*bʷad(r)i_
+(c) bowl: PPT _*na(q)u(q)_
+(d) frying pan: POc _*palafja_
 
 
 
-4.2. 1. 1 Cooking pot
+4.2.1.1 Cooking pot
 
 <
 
@@ -3331,7 +3350,7 @@ POc *kuran 'earthernware pot'
                                                                    Household artefacts         69
 
 
-4.2. 1.2 Waterjar
+4.2.1.2 Waterjar
 
     The best candidate for 'water jar' is POc *kalala(ŋ), reconstructed on the basis of Proto
 WMP *kalalaŋ 'narrow-necked water jar' (Tagalog kalalaŋ 'narrow-necked water jug'; Blust
@@ -3395,7 +3414,7 @@ POc *palaŋa 'frying pan'
 
 <
 
-   One other Proto Oceanic term for a type of pot is reconstructable, namely *bʷaŋa. This
+   One other Proto Oceanic term for a type of pot is reconstructable, namely _*bʷaŋa_. This
 seems to have referred to a large pot, perhaps a communal cooking pot:
 
 PMP *báŋaq 'pot, cooking vessel'
@@ -3803,6 +3822,7 @@ region or community. Baskets may be with or without handles; carried over the sh
 from the head or hand or under the arm; used by men only or women only; strictly utilitarian
 or finely decorated, multi-purpose or highly specific in their use. Different styles may be
 distinguished by name.
+
    Perhaps surprisingly, in view of the widespread use of bags and baskets and the large
 number of terms collected, it has proved difficult to locate clear cognate sets with broad
 distribution. Any proliferation of types and styles would require new terms or reinterpretation
@@ -3894,6 +3914,7 @@ Figure 9: Reconstructions (non-specific) include: POc *kalu (m,1)) 'basket', POc
    Biggs (1993) lists two further terms for PPn, *llipola 'basket plaited from a single coconut
 frond' (from POc *bola 'coconut leaves woven together for any purpose'. See under §3 . 1
 Mats); and *qora 'fishing basket'.
+
    Bags, typically of twine made from fibres rolled together on the thigh and then knotted
 into a mesh, are more likely to be used for carrying than for storage. They are a prominent
 item among western Oceanic peoples, the women carrying them slung from a band round the
@@ -4768,6 +4789,7 @@ or paper mulberry tree was used for the highest quality cloth. It is not native 
 but to eastern Asia, whence migrants carried it to Indonesia and the Pacific. The only other
 significant source is the Pipturus species, used for tapa particularly in Hawaii (Kooijman
  1972: 1 ).
+
     Bark-cloth is a significant item in Indonesia and in the eastern Oceanic region, particularly
 Polynesia, but also Santa Cruz, New Caledonia and Fiji. However, it does not feature strongly
 in the western Oceanic region. Ivens wrote (1918 : 1 86) that although bark-cloth (tapa) was
@@ -4845,6 +4867,7 @@ PPn *siapo 'paper-mulberry plant (Broussonetia sp.); bark-cloth' (Biggs 1993)
 gloss indicates the likelihood of more subtleties of meaning than we have been able to
 identify here. They include: PCP *ŋatu 'old or worn bark-cloth', PCP *leu-leu '(old) tapa
 cloth', and PPn *ŋafi-ŋafi 'old mat or bark-cloth' (Biggs 1993).
+
     The only term reconstructable for the Southeast Solomons is apparently limited to the
 island of Malaita.
     SES:    Lau                maku    'bark-cloth'
@@ -5158,13 +5181,13 @@ POc *mʷati 'herringbone pattern'
 
    Chowning (1991 :47) describes the situation in the New Guinea area:
 
-   Perhaps the most common everyday ornaments were necklaces of shell or animal teeth,
-   bracelets and armbands of a variety of materials, most often worn above the elbow, and ear
-   ornaments. Noses were usually pierced, but it is not clear how often nose ornaments were
-   worn. The other very common ornaments were leg bands, worn below the knee, and anklets;
-   belts and girdles; and hair ornaments, including ornamental combs. Aromatic herbs were
-   commonly stuck onto armbands and into the hair; feathers too, unmodified or made into
-   simple ornaments, were often stuck into the hair.
+|   Perhaps the most common everyday ornaments were necklaces of shell or animal teeth,
+|   bracelets and armbands of a variety of materials, most often worn above the elbow, and ear
+|   ornaments. Noses were usually pierced, but it is not clear how often nose ornaments were
+|   worn. The other very common ornaments were leg bands, worn below the knee, and anklets;
+|   belts and girdles; and hair ornaments, including ornamental combs. Aromatic herbs were
+|   commonly stuck onto armbands and into the hair; feathers too, unmodified or made into
+|   simple ornaments, were often stuck into the hair.
 
 <
 
@@ -5343,6 +5366,7 @@ often simply referred to by the term for bamboo. The drums are typically wooden;
 occasionally lighter drums are made from larger varieties of bamboo. Where a skin head is
 required, as in the hourglass drums, the skin of the monitor lizard is used where available. I n
 Polynesia (Rarotonga), sharkskin has been recorded a s a drum skin.
+
    Other musical instruments mentioned in the ethnographic literature include Jew's-harps,
 dancing sticks, a stringed bow and rattles made from seed pods or strings of shells.
 
@@ -5454,7 +5478,7 @@ found on Mala [Malaita] and Ulawa".
 
 
 
-Figure 1 6 : POc *kude 'hourglass drum'
+Figure 16 : POc *kude 'hourglass drum'
 
 POc *kude 'hourglass drum'
   NNG: Kilenge            kure               'slitgong drum'
@@ -5668,13 +5692,13 @@ POc *kalik 'native wooden pillow'
 >
 
 4.8. Conclusions
-   Our reconstructions are for items which draw on a range of raw materials. They include:
-   • vegetable products (a variety of timbers, bamboo, coconut shell, leaves, vine, cane and
-     bark)
-   • stone (of variable quality, the most useful being obsidian, flint and basalt)
-   • coral and shell (Tridacna, Trochus, Conus, clam, pearlshell and others; turtle shell)
-   • animal products (bone, skin)
-   • earth products (pigments, earth, clay).
+
+Our reconstructions are for items which draw on a range of raw materials. They include:
+- vegetable products (a variety of timbers, bamboo, coconut shell, leaves, vine, cane and bark)
+- stone (of variable quality, the most useful being obsidian, flint and basalt)
+- coral and shell (Tridacna, Trochus, Conus, clam, pearlshell and others; turtle shell)
+- animal products (bone, skin)
+- earth products (pigments, earth, clay).
 
 While most of these would be readily available throughout the western Oceanic region, two
 in particular -obsidian and clay of good, workable quality -are limited in their distribution.
@@ -5689,18 +5713,21 @@ in Polynesia early in the first millenium AD (Kirch 1997:68). Fiji is the most e
 where pottery manufacture survives in the Pacific. In the Solomons, archaeologists have
 found few traces of pottery other than some scattered remains on Buka Island (Kirch 1997:5 3),
 and, more recently, in Marovo Lagoon, western Solomons (Peter Shepherd, pers.comm.).
+
    Nor has reconstructing a term for obsidian been straightforward. As a glance at the glosses
 will show, there is considerable variation in meaning from place to place, with the obsidian
                            114 Meredith Osmond and Malcolm Ross
 
                           term being used at times for other sharp stones, for a razor, for the head of a spear or an
                           arrow, and as a cutting verb.
+
                               As one moves east, from N.W. Melanesia and the Solomons out into the Pacific, the range
                           of plant and animal life becomes less, with coral atolls having the most restricted environments.
                           Shell increases in importance, while hard stone capable of taking an edge becomes rare.
                           Terms to do with mats and weaving and bark-cloth manufacture increase in number and
                           show increased specialization. Tattooing becomes more widespread. These are most likely
                           indicators of developing elaborations after the break-up of POco
+
                               Household artefacts varied greatly in the degree to which they were manufactured. A
                           few--coconut-shell containers and shell scrapers-would have been functional more or less in
                           their natural state. Most items were manufactured to some degree, either with use of tools or
@@ -5709,6 +5736,7 @@ will show, there is considerable variation in meaning from place to place, with 
                           versions of the tools used in canoe manufacture. Mats and baskets ranged from the very
                           simple to the intricately shaped and patterned, serving not only as domestic items but also as
                           house walls and canoe sails. Cordage produced not only bags but also a range of fishing nets.
+
                               Pottery would seem to be the household artefact requiring the most complex stages of
                           manufacture. There would have been little need of tools beyond paddle (POc *tapi) and anvil
                           (POc *patu 'stone'). However, stages would include preparation of the clay involving tempering
@@ -5717,6 +5745,7 @@ will show, there is considerable variation in meaning from place to place, with 
                           a long period of trial and error, and probably passed down as an integrated procedure. We
                           know that in more recent times the skill of making pots was a jealously guarded trade secret,
                           not one that could simply be copied by examining the final product.
+
                               One further point that can be made about POc artefacts is that at least some of them
                           demonstrated a desire by their makers to produce something that was more than simply
                           functional. Although this point is illustrated most vividly by archaeological findings dating
@@ -5740,6 +5769,7 @@ will show, there is considerable variation in meaning from place to place, with 
                     out into the Pacific of a wide range of domesticated plants, and that Lapita represents, in the
                     Bismarcks and Solomons, the first clear evidence for an agricultural base to the economy, a
                     base apparently little changed until this century (see Pawley & Green 1973 , Shutler & Marck 1975, Spriggs 1997a).[1]
+
                          Early this century, ethnographers such as Malinowski (1935) for the Trobriands, Blackwood
                     (1935) for north Bougainville and Ivens (1927 (reissued 1972)) for the Southeast Solomons,
                     described communities in which the people were, above all, gardeners. Their gardens provided
@@ -5749,11 +5779,13 @@ will show, there is considerable variation in meaning from place to place, with 
                     food scarcity, and their trading currency. Reciprocal obligations to kin were expressed in
                     foodstuffs exchanged. Years were calculated in terms of annual crop cycles-an event might
                     have ocurred two yam crops ago or could be expected after the next galip nut harvest.
+
                          Over one hundred POc food plant terms have now been reconstructed (see Food Plants in
                     vol 3 , an earlier version of which has been published as Ross 1996d). Here, however, we are
                     concerned, not with the terms for the plants themselves (these are listed where relevant, but
                     without supporting data) but rather, with terms for gardens and for activities associated with
                     gardening.
+
                         A considerable debt is owed to the unpublished 1983 thesis of Renwick French-Wright,
                     Proto Oceanic Horticultural Practices, a work which travelled much the same road as this
                     chapter does, and many of whose cognate sets have been included here. Because more
@@ -5787,6 +5819,7 @@ temperatures are around 30-3 2 °C, with minima around 2 3 °C. Associated with 
 are high humidity and cloudiness (McAlpine, Keig & Falls 1983 : 3 , 6 1 -66). The natural
 vegetation cover is tropical forest. Even in the drier areas, savanna woodland is the natural
 plant cover.
+
     There is broad general agreement that the Austronesian-speaking people who first ventured
 into Melanesia practised a swidden style of gardening, centred on the cultivation of tubers,
 particularly taro (Colocasia esculenta) in the wetter areas and various varieties of yam
@@ -5795,7 +5828,7 @@ however, may have been adopted from Papuan speakers who had practised agricultur
 New Guinea for millennia before Austronesian speakers arrived. Brookfield and Hart (1971 )
 made an exhaustive survey of forty-four places, fourteen of which are Austronesian
 settlements[2], in order to identify, as best they could, the environment and land use in 'Old
-Melanesia ', the region as it was before external forces began to radically modify the man­
+Melanesia ', the region as it was before external forces began to radically modify the man-
 environment systems. These provide a good representative sample of traditional methods
 across the region, and incidentally cover the major linguistic subgroups from New Guinea to
 Fiji, together with the Samoic outlier of Tikopia. The factors they considered were location
@@ -5805,25 +5838,25 @@ and crop segregation. With the exception of the locations in Fiji, New Caledonia
 which have developed more intensive systems, all these places employed what was 'a set of
 variations on the classic swidden or shifting cultivation system.' (p. 108)
 
-   All gardens are mixed, although usually dominated by a single staple, and crops are planted
-   by making only small holes in the soil, sometimes with limited spot-tillage by levering the
-   soil with a stick before inserting the seed tuber or cutting, or occasionally, as at Roviana,
-   making small mounds. Gardens are generally used only once, though sometimes subsidiary
-   crops are planted after the main crop, and remain longer in the ground. Useful trees continue
-   to provide fruit for some time after the garden has been relinquished to wild growth. Crops
-   are usually planted among the fallen trees and ash . . . [although] ash is sometimes thrown out
+|   All gardens are mixed, although usually dominated by a single staple, and crops are planted
+|   by making only small holes in the soil, sometimes with limited spot-tillage by levering the
+|   soil with a stick before inserting the seed tuber or cutting, or occasionally, as at Roviana,
+|   making small mounds. Gardens are generally used only once, though sometimes subsidiary
+|   crops are planted after the main crop, and remain longer in the ground. Useful trees continue
+|   to provide fruit for some time after the garden has been relinquished to wild growth. Crops
+|   are usually planted among the fallen trees and ash . . . [although] ash is sometimes thrown out
+|   of the garden before planting, or else piled around stumps where it is of no direct use to the
+|   plant. Occasionally ash is piled around particular plants which are thought to benefit from
+|   such treatment, but not around others.
+|       There is sometimes a little crop segregation, but it is quite subsidiary . . . Most gardens are
+|   untidy, littered with the fallen trunks of trees and quickly invaded by weeds. Because of wild
+|   and domesticated pigs, most gardens are fenced. Weeding is sometimes done in the early
+|   months but is never continued beyond the lifting of the main crop. (Brookfield & Hart
+|   1971 : 107-108)
 
 
                                                                      Horticultural practices         117
 
-   of the garden before planting, or else piled around stumps where it is of no direct use to the
-   plant. Occasionally ash is piled around particular plants which are thought to benefit from
-   such treatment, but not around others.
-       There is sometimes a little crop segregation, but it is quite subsidiary . . . Most gardens are
-   untidy, littered with the fallen trunks of trees and quickly invaded by weeds. Because of wild
-   and domesticated pigs, most gardens are fenced. Weeding is sometimes done in the early
-   months but is never continued beyond the lifting of the main crop. (Brookfield & Hart
-   1971 : 107-108)
 
    Rarer techniques within what was still essentially a swidden system included tillage in
 some grassland areas to eradicate grassroots and aerate the soil; the planting of yams in
@@ -6342,56 +6375,58 @@ activities, although the degree to which each is cultivated and the varieties fa
 from place to place. The two follow a different growth cycle. Malinowski (1935 :296) describes
 the situation in the Trobriands:
 
-     Taro differs considerably from both yams and taytu [small yams] in the time it takes to
-     mature, the conditions in which it thrives and in its capacity for being stored. Its period of
-     growth is much shorter. .. There can. . . be three taro crops in a year, as against one for both
-     yams and taytu.
+|     Taro differs considerably from both yams and taytu [small yams] in the time it takes to
+|     mature, the conditions in which it thrives and in its capacity for being stored. Its period of
+|     growth is much shorter. .. There can. . . be three taro crops in a year, as against one for both
+|     yams and taytu.
 
 Ivens (1927 (reissued 1972):355) describes the practice at Sa'a and Ulawa, in the Southeast
 Solomons, where the staple crops are yams, hana (a prickly yam regarded as distinct from a
 yam) and taro, the latter being grown in a separate plot.
 
-     The bush (inland) people grow taro and hana... My lists contain names of sixty varieties of
-     yams, twenty of hanas and a hundred and twenty of taro, the large number of taro showing
-     that the people were originally dwellers of the high lands. All of these varieties are cultivated
-     and the differences between them recognised. In a taro garden the tubers are pulled as
-     required, the tops are replanted, the suckers are planted out and clearing goes on all the year
-     through, but yams and hanas have a regular season and only one crop. New ground is cleared
-     for the yams and hanas every year, and the same ground is never planted twice, fertilizers
-     being unknown. The old yam gardens serve for bananas and pawpaws, and for the planting of
-     betel pepper, and the edible reed awalosi. Different words are used to denote the clearing for
-     a yam garden, and the clearing for taro.
+|     The bush (inland) people grow taro and hana... My lists contain names of sixty varieties of
+|     yams, twenty of hanas and a hundred and twenty of taro, the large number of taro showing
+|     that the people were originally dwellers of the high lands. All of these varieties are cultivated
+|     and the differences between them recognised. In a taro garden the tubers are pulled as
+|     required, the tops are replanted, the suckers are planted out and clearing goes on all the year
+|     through, but yams and hanas have a regular season and only one crop. New ground is cleared
+|     for the yams and hanas every year, and the same ground is never planted twice, fertilizers
+|     being unknown. The old yam gardens serve for bananas and pawpaws, and for the planting of
+|     betel pepper, and the edible reed awalosi. Different words are used to denote the clearing for
+|     a yam garden, and the clearing for taro.
 
      In a description of traditional gardens on Manus Island in the Admiralties, McEldowney
 (1995:98) describes the yams Dioscorea esculenta (suwe) and D. alata (meyen) as completely
 dominating, with only limited amounts of taro (Colocasia esculenta) sometimes found along
 the boundary walls of the garden.
+
     Food plants other than tubers would require little labour. The most significant are breadfruit
 (also a staple in some places), some banana varieties, sugarcane and greens. Sago is eaten in
 the absence of other staples. The coconut might also be regarded as a staple, the plant's use,
 as with sago, extending beyond that of a foodstuff. Together with other fruit and nut trees,
 all of these are found in the wild, sometimes 'managed' as semi-wild, but also planted in
 garden plots, where they remain while the plots undergo their cycle of fallow.
+
      William Clarke (1994: 1 3) has commented on the importance of arboriculture to Oceanic
 peoples:
 
-     A striking characteristic of what can now be interpreted as an independent origin of agriculture
-     in western Melanesia is its emphasis on arboriculture-the culture of trees-Qrchards. Trees
-     were transported Pacific-wide, carried by the itinerant colonist-cultivators, incorporated into
-     all production systems and begot the typical village environs of Polynesia and Micronesia
+|     A striking characteristic of what can now be interpreted as an independent origin of agriculture
+|     in western Melanesia is its emphasis on arboriculture-the culture of trees-Qrchards. Trees
+|     were transported Pacific-wide, carried by the itinerant colonist-cultivators, incorporated into
+|     all production systems and begot the typical village environs of Polynesia and Micronesia
+|   (Yen 1990). Some nut and fruit trees and sago dropped out before reaching the farther islands
+|   of the eastern and northern Pacific. Archaeological evidence for a well-developed arboriculture
+|   at least 3,500 years ago comes from the Mussau Islands, north of New Ireland (Kirch 1989).
+|   Arboreal species existing at this considerable time depth included: coconut, two or three
+|   species of Pandanus, Inocarpus fag ife r (the 'Tahitian chestnut' , which remains one of the
+|   most important Oceanic arboricultural species), Canarium indicum (a nutritionally substantial
+|   'almond' -producing tree in Melanesia), Spondias dulcis (the vi-apple, now of very wide
+|   distribution in the tropical Pacific), Pometia, Pangium, Terminalia, Burckella, Calophyllum,
+|   and others, including hardwood trees widely prized for woodworking.
 
 
                                                                   Horticultural practices        127
 
-   (Yen 1990). Some nut and fruit trees and sago dropped out before reaching the farther islands
-   of the eastern and northern Pacific. Archaeological evidence for a well-developed arboriculture
-   at least 3,500 years ago comes from the Mussau Islands, north of New Ireland (Kirch 1989).
-   Arboreal species existing at this considerable time depth included: coconut, two or three
-   species of Pandanus, Inocarpus fag ife r (the 'Tahitian chestnut' , which remains one of the
-   most important Oceanic arboricultural species), Canarium indicum (a nutritionally substantial
-   'almond' -producing tree in Melanesia), Spondias dulcis (the vi-apple, now of very wide
-   distribution in the tropical Pacific), Pometia, Pangium, Terminalia, Burckella, Calophyllum,
-   and others, including hardwood trees widely prized for woodworking.
 
    We have reconstructions going back at least as far as PMP for two kinds of taro (Colocasia
 esculenta and Alocasia macrorrhiza), the greater yam, bananas, breadfruit and sago. Other
@@ -6399,88 +6434,89 @@ food plants, such as sugar cane, may have been indigenous to New Guinea. The swe
 is of South American origin, and was probably introduced into New Guinea-north-west
 Melanesia after AD 1550, though it was introduced into Polynesia in pre-contact times (Yen
 1973).
+
    Ross (1996d) includes the following POc reconstructions for items he classifies as "staples
 and related food plants":
 
-taro
+__taro__
 
-*talo(s) 'taro, Colocasia esculenta' ;
-*mwapo(q) 'taro';
-*piRaq 'giant taro, elephant ear taro, Alocasia macrorrhiza ' ;
-*bulaka 'swamp taro, Cyrtosperma chamissonis ' ;
-*kamwa 'k.o. wild taro (?)';
-*(b,p)oso 'k.o. taro' ;
+- *talo(s) 'taro, Colocasia esculenta' ;
+- *mwapo(q) 'taro';
+- *piRaq 'giant taro, elephant ear taro, Alocasia macrorrhiza ' ;
+- *bulaka 'swamp taro, Cyrtosperma chamissonis ' ;
+- *kamwa 'k.o. wild taro (?)';
+- *(b,p)oso 'k.o. taro' ;
 
-yams
+__yams__
 
-*qupi 'greater yam, Dioscorea alata ; also used as yam generic';
-*pʷatik 'potato yam, aerial yam, Dioscorea bulbifera' ;
-(?) *mamis 'k.o. yam' ;
-*mwaruqen 'k.o. yam: wild yam (??)';
-*udu(r,R) 'k.o. greater yam ';
-*pʷasepe 'greater yam',
-PWOc *gobu 'potato yam, Dioscorea bulbifera (?)',
-PWOc *(q,k)amisa 'lesser yam, Dioscorea esculenta ' ;
-PEOc *damu 'k.o. yam' ;
+- *qupi 'greater yam, Dioscorea alata ; also used as yam generic';
+- *pʷatik 'potato yam, aerial yam, Dioscorea bulbifera' ;
+- (?) *mamis 'k.o. yam' ;
+- *mwaruqen 'k.o. yam: wild yam (??)';
+- *udu(r,R) 'k.o. greater yam ';
+- *pʷasepe 'greater yam',
+- PWOc *gobu 'potato yam, Dioscorea bulbifera (?)',
+- PWOc *(q,k)amisa 'lesser yam, Dioscorea esculenta ' ;
+- PEOc *damu 'k.o. yam' ;
 
-coconut (Cocos nucifera)
+__coconut (Cocos nucifera)__
 
-*niuR 'ripe coconut; coconut (generic)'
+- *niuR 'ripe coconut; coconut (generic)'
 
-breadfruit (Artocarpus and Parartocarpus spp.)
+__breadfruit (Artocarpus and Parartocarpus spp.)__
 
-*kuluR 'breadfruit, Artocarpus altilis';
-*baReqo 'breadfruit fruit (?)';
-*beta 'k.o. breadfruit';
-PEOc *ma(R)i 'breadfruit' ;
+- *kuluR 'breadfruit, Artocarpus altilis';
+- *baReqo 'breadfruit fruit (?)';
+- *beta 'k.o. breadfruit';
+- PEOc *ma(R)i 'breadfruit' ;
 
-bananas
+__bananas__
 
-*pudi 'banana, Musa cultivars';
-*joRaga 'banana, A ustralimusa group';
-*sakup 'k.o. cooking banana';
-*bwera 'banana type';
-*baqapun 'k.o. banana';
-*tawai 'k.o. banana';
-PWOc *bʷatiq 'k.o. banana' ;
+- *pudi 'banana, Musa cultivars';
+- *joRaga 'banana, A ustralimusa group';
+- *sakup 'k.o. cooking banana';
+- *bwera 'banana type';
+- *baqapun 'k.o. banana';
+- *tawai 'k.o. banana';
+- PWOc *bʷatiq 'k.o. banana' ;
 
-sugarcane
+__sugarcane__
 
-*topu 'sugarcane, Saccharum officinarum ' ;
-*pijo 'k.o. edible wild cane or reed, possibly Saccharum spontaneum';
+- *topu 'sugarcane, Saccharum officinarum ' ;
+- *pijo 'k.o. edible wild cane or reed, possibly Saccharum spontaneum';
 
 128 Meredith Osmond
 
-sago
+__sago__
 
-*Rabia 'sago, Metroxylon spp.';
+- *Rabia 'sago, Metroxylon spp.';
 
-greens
+__greens__
                                                                               ,
-*bele 'shrub species, Abelmoschus manihot (syn. Hibiscus manihot);
+- *bele 'shrub species, Abelmoschus manihot (syn. Hibiscus manihot);
 
 No doubt a variety of green leaves were eaten but other reconstructions (e.g. *kusa(q)) do
 not permit a definition more precise than 'k.o. edible greens'.
 
-otherfruit trees
+__otherfruit trees__
 
-*wai, *waiwai 'mango (generic)';
-*pau(q) 'mango, probably Mangifera indica '[6];
-*koRa 'wild mango, Mangifera minor';
-*quRis 'Polynesian plum, hog plum, Tahitian apple, golden apple, Spondias Cytherea (syn. Spondias dulcis)';
-*molis 'citrus fruit or citrus-like fruit';
-*kapika 'Malay apple and rose apple, Eugenia spp.';
-*tawan 'Pometia pinnata ';
-*natu(q) 'k.o. tree with avocado-like fruit and hard wood, Burckella obovata ';
+- *wai, *waiwai 'mango (generic)';
+- *pau(q) 'mango, probably Mangifera indica '[6];
+- *koRa 'wild mango, Mangifera minor';
+- *quRis 'Polynesian plum, hog plum, Tahitian apple, golden apple, Spondias Cytherea (syn. Spondias dulcis)';
+- *molis 'citrus fruit or citrus-like fruit';
+- *kapika 'Malay apple and rose apple, Eugenia spp.';
+- *tawan 'Pometia pinnata ';
+- *natu(q) 'k.o. tree with avocado-like fruit and hard wood, Burckella obovata ';
 
-nut trees
+__nut trees__
 
-*raqu(p) 'New Guinea walnut, Dracontomelon dao ' (syn. D. mangiferum , D. edule);
-*(w,v)ele 'cut nut, Barringtonia sp.';
-*[ka]ŋaRi 'canarium almond, Canarium spp.';
-*qalip 'canarium almond, Canarium sp.';
-*talise 'Java almond, Indian almond, Terminalia catappa';
-*qipi 'Tahitian chestnut, Pacific chestnut, Inocarpus fagifer' (syn. Inocarpus edulis).';
+- *raqu(p) 'New Guinea walnut, Dracontomelon dao ' (syn. D. mangiferum , D. edule);
+- *(w,v)ele 'cut nut, Barringtonia sp.';
+- *[ka]ŋaRi 'canarium almond, Canarium spp.';
+- *qalip 'canarium almond, Canarium sp.';
+- *talise 'Java almond, Indian almond, Terminalia catappa';
+- *qipi 'Tahitian chestnut, Pacific chestnut, Inocarpus fagifer' (syn. Inocarpus edulis).';
 
 No garden is complete or likely to succeed without an abundance of colourful and aromatic
 herbs and shrubs. In addition to their ornamental qualities, these herbs and shrubs play a
@@ -6746,10 +6782,10 @@ POc *tanum, *tanum-i- 'bury, plant (tuber)
 
    Barrau (1955 :56) describes cultivation of yams in Melanesia:
 
-   As a general rule, yams flourish on light, deep and well-drained soils. These requirements
-   have led the natives to perfect cultural techniques which are often most ingenious. The
-   simplest consists of carefully earthing up the plant. Sometimes a large ridge of well-worked
-   soil is made... surrounded by draining ditches.
+|   As a general rule, yams flourish on light, deep and well-drained soils. These requirements
+|   have led the natives to perfect cultural techniques which are often most ingenious. The
+|   simplest consists of carefully earthing up the plant. Sometimes a large ridge of well-worked
+|   soil is made... surrounded by draining ditches.
 
 <
 
@@ -6906,6 +6942,7 @@ PEOc *palo 'wither, wilt' (ACD)
 136 Meredith Osmond
 
 5.10 Gathering, harvesting
+
    We have not identified a reconstruction specifically for the digging up of tubers, either
 with or without the use of a digging stick, although *kaliJ*keli (§5 ,4) is apparently a general
 term whose meaning includes this activity. It is possible that terms included under the heading
@@ -7037,6 +7074,7 @@ POc *paRi 'cut or lop off branches' (ACD)
 >
 
 5.11 Storage: yam storehouse
+
      The yam is the only tropical tuber which is easily preserved, provided it is placed in an
 airy, dry, dark and cool spot. It was a community'S safeguard at times when the regular
 supply of foodstuffs was low. From New Guinea to New Caledonia, in areas where yam is
@@ -7052,6 +7090,7 @@ calledjok. In Nengone, Loyalty Islands, methuma is the term for a harvest hut fo
 
 
 5.12 Drainage and Irrigation
+
    Water control has two opposing functions: (1 ) to aid drainage in wet areas, and (2) to
 carry water to drier areas. The New Guinea area apparently concentrated its developments
 towards the former, particularly in yam gardens, through such means as mounding and
@@ -7061,16 +7100,17 @@ increased. For various reasons, including the fact that a more restricted enviro
 crop choice, irrigated taro fields are more a feature of eastern Oceanic than of the west.
 Kirch and Lepofsky (1993 : 1 8 5) have written:
 
-   As archaeological and ethnobotanical data on the distribution of Oceanic irrigation technology
-   accumulated, it became evident that the widespread distribution of both pondfield and raised-bed
-   agricultural technologies in Polynesia was not matched by an equall y extensive distribution
-   in Melanesia. . . Although there are 'pockets' of highly intensive taro pondfield irrigation in
+|   As archaeological and ethnobotanical data on the distribution of Oceanic irrigation technology
+|   accumulated, it became evident that the widespread distribution of both pondfield and raised-bed
+|   agricultural technologies in Polynesia was not matched by an equall y extensive distribution
+|   in Melanesia. . . Although there are 'pockets' of highly intensive taro pondfield irrigation in
+|      Melanesia (notably i n the New Georgia group o f the western Solomons, o n Anejom in
+|      Vanuatu (Spriggs 1981 ), and in New Caledonia (Barrau 1956)), on most of the intervening
+|      islands (including the large island of New Guinea [but presumably excluding the Western
+|      Highlands systems of the Papuans mentioned below (m.o.)] ) irrigation is absent.
+
                                                                            Horticultural practices      139
 
-      Melanesia (notably i n the New Georgia group o f the western Solomons, o n Anejom in
-      Vanuatu (Spriggs 1981 ), and in New Caledonia (Barrau 1956)), on most of the intervening
-      islands (including the large island of New Guinea [but presumably excluding the Western
-      Highlands systems of the Papuans mentioned below (m.o.)] ) irrigation is absent.
 
    The question to be resolved is whether the early Oceanic gardeners were familiar with
 what might be called more sophisticated irrigation techniques, or whether the knowledge was
@@ -7085,12 +7125,12 @@ northern Philippines, south-west Sulawesi and Java (Spriggs 1981 : 1 73).
   Kirch and Lepofsky (1993: 1 96) considered both linguistic and archaeological evidence
 and concluded that:
 
-      neither body of evidence lends support to the... model for the origins of Polynesian irrigation
-      technology, [which proposes] a direct transfer or diffusion from Southeast Asia via the
-      migrations of Austronesian-speaking peoples. Rather, all of the evidence suggests that there
-      have been multiple local sequences of innovation and development of complex irrigation or
-      swamp drainage technology, or both, for Colocasia taro cultivation within eastern Melanesia
-      and Polynesia.
+|      neither body of evidence lends support to the... model for the origins of Polynesian irrigation
+|      technology, [which proposes] a direct transfer or diffusion from Southeast Asia via the
+|      migrations of Austronesian-speaking peoples. Rather, all of the evidence suggests that there
+|      have been multiple local sequences of innovation and development of complex irrigation or
+|      swamp drainage technology, or both, for Colocasia taro cultivation within eastern Melanesia
+|      and Polynesia.
 
     Working from our own linguistic sources, which include possibly more data from Western
 Oceanic languages than were available to Kirch and Lepofsky, we have noLbeen able to add
@@ -7162,6 +7202,7 @@ Oldest evidence for the Solomons remains the eye-witness report of the explorer 
 
 
 5.13 Gaps in reconstructions
+
     Other concepts for which we currently lack reconstructions include a term for the stakes
 or supports on which the yam vines were trained. French-Wright (1983 :64-65) lists a variety
 of ways in which vines can be supported. In addition to stakes, they include, in the Admiralties
@@ -7171,12 +7212,14 @@ arrangement rather like an upturned basket is used, and on Efate, Vanuatu, a tre
 structure is built over the yam mounds. French-Wright suggests that perhaps the lack of
 cognates denoting this basic feature of yam cultivation is due to the wide variety of support
 systems used, in other words, that each cultural adaptation has led to changes in terminology.
+
     Gardens in the Trobriands (Malinowski 1935 :55, 1 2 1 ) and in Malaita, Southeast Solomons
 (I vens 1927 (reissued 1972):3 56), and elsewhere, are divided into sub-plots by means of
                                                                    Horticultural practices        141
 
 criss-crossing logs laid on the ground, but we have been unable to reconstruct terms for either
 the plots or the dividing logs, although these are named in their own communities.
+
    A term must surely have existed for the period or activity of yam harvesting, which was
 frequently carried out by the whole community at the one time and typically accompanied by
 certain rituals. It does seem, however, that POc speakers associated the period of yam
@@ -7191,23 +7234,24 @@ year'] by whatever is equivalent to the yam crop."
 
 
 5.14 Archaeological evidence
+
    Archaeological evidence in support of POc horticultural practices comes, not from discovery
 of items of material culture, but in the form of the products of horticulture, and, less directly,
 from apparent sudden and dramatic changes in land use following settlement by POc speakers.
 
 Kirch (1997 :203-205) writes:
 
-   Direct archaeobotanical evidence for horticulture, in the form of preserved plant remains,
-   largely eluded prior generations of Oceanic archaeologists. . . Then, during the 1986 excavation
-   season at the waterlogged Talepakemalai site in the Mussau Islands, we were suddenly
-   confronted with an unprecedented array of well-preserved (non-carboni sed) plant remains.
-   Sealed in an anaerobic , wet environment, the literally thousands of seed cases, endocarps,
-   husks, syncarps, and other plant material, along with wood (including adzed wood chips)
-   opened up a new window on Lapita relations to the plant world. Subsequently, a similar
-   assemblage of preserved plant parts was also recovered by Chris Gosden . . . at his Arawe
-   Island sites. The plant parts preserved. . . are primarily woody or fibrous, such as seed cases,
-   fibrous husks, and wood. Soft, fleshy materials such as tubers or the soft flesh of fruits have
-   not survived.
+|   Direct archaeobotanical evidence for horticulture, in the form of preserved plant remains,
+|   largely eluded prior generations of Oceanic archaeologists. . . Then, during the 1986 excavation
+|   season at the waterlogged Talepakemalai site in the Mussau Islands, we were suddenly
+|   confronted with an unprecedented array of well-preserved (non-carboni sed) plant remains.
+|   Sealed in an anaerobic , wet environment, the literally thousands of seed cases, endocarps,
+|   husks, syncarps, and other plant material, along with wood (including adzed wood chips)
+|   opened up a new window on Lapita relations to the plant world. Subsequently, a similar
+|   assemblage of preserved plant parts was also recovered by Chris Gosden . . . at his Arawe
+|   Island sites. The plant parts preserved. . . are primarily woody or fibrous, such as seed cases,
+|   fibrous husks, and wood. Soft, fleshy materials such as tubers or the soft flesh of fruits have
+|   not survived.
 
 Among the food plants identified from archaeological sites are Canarium almond (Canarium
 indicum), Indian almond (Terminalia catappa), the New Guinea walnut (Dracontomelon
@@ -7242,6 +7286,7 @@ by 1200 BC (Kirch 1997:222).
                             activities: clearing, burning, weeding, digging, planting, picking and gathering. Also represented
                             are the processes undergone by the plants themselves-sprouting, growing, swelling, ripening,
                             withering.
+
                                We have no evidence that any form of fertilising was used, apart from the occasional
                             spreading of ash from the burning off of new garden plots. There is no tradition of composting
                             the soil with human waste, for instance. Mulching and digging-in of decomposed vegetable
@@ -7249,9 +7294,11 @@ by 1200 BC (Kirch 1997:222).
                             reconstructions for these activities. Nor has linguistics shed any light on ways in which they
                             may have attempted to control pests or diseases. Weight was given rather to magic, as a
                             means of ensuring healthy crops.
+
                                Finally, we have no evidence from reconstructions that Proto Oceanic speakers irrigated
                             their crops in any systematic way. Current archaeological findings support the view that
                             elaborate systems are a more recent, independent development.
+
                                Brookfield and Hart (1971 :8 1 ) observe that "cultivation techniques move less easily than
                             crops, for while the latter can be transmitted from hand to hand, the former generally require
                             migrants to carry their skills and adapt them to a new environment". It is likely that the
@@ -7651,6 +7698,7 @@ these have been located, e.g. Sudest (PT) _ɣərumu_ 'cooking stones used for mu
 
 
 6.3 Cooking methods
+
    Lichtenberk quotes from Oliver (1989:49) who has this to say about traditional cooking in
 Oceania: "Most cooking was by broiling, by boiling (where there were clay pots, which was
 not everywhere), and by baking (which was done in earth-pit ovens containing heated stones.)"
@@ -7660,6 +7708,7 @@ be steamed. In baking and roasting, the food is often, though not necessarily, w
                                                                           Food preparation         151
 
 usually in leaves, sometimes i n bark."
+
    He has listed terms for a range of cooking methods, with a word of warning as to the
 reliability of precision in English glosses ('roast', 'grill', 'broil ', 'cook in fire' etc.). He writes
 (p.273), "Even though more than one term for roasting may be reconstructable for POc, the
@@ -8184,10 +8233,10 @@ Lithgow lists Muyuw (PT) kilakil 'stone-headed sago pounder', and Chowning (pers
 records a Nakanai (MM) term mulumu 'pestle of wood or bone used for crushing almonds or
 areca nuts', from the verb mumu 'crush in a mortar'. Lichtenberk write (p.277) that:
 
-      Pounded foods are widespread in Oceania (Yen 1975). In Pidgin and in English they are
-      referred to as 'puddings' (although not all puddings require pounding). The usual main
-      ingredient is tubers (taro, yam), cooked and pounded, mashed into a paste together with
-      other ingredients such as coconut cream or nuts, and then usually recooked.
+|      Pounded foods are widespread in Oceania (Yen 1975). In Pidgin and in English they are
+|      referred to as 'puddings' (although not all puddings require pounding). The usual main
+|      ingredient is tubers (taro, yam), cooked and pounded, mashed into a paste together with
+|      other ingredients such as coconut cream or nuts, and then usually recooked.
 
    A large wooden bowl (POc *tabiRa, PCP *kumete, see Ch. 4, §2.2.1) was traditionally
 used as a mortar. Sago was pounded in a trough, stronger and hea vier than a bowl, and
@@ -8397,6 +8446,7 @@ POc *rasi 'grate, scrape (tubers, coconuts); scratch' (Lichtenberk : *(r,R)asik)
 
    Yet another reconstruction is POc *asa(q) 'grate, sharpen by grating or rubbing' from PAn
 *Sasaq 'whet, sharpen' (see Ch. 4, §4. 1 .S).
+
    Lichtenberk comments (pp. 280-28 1 ) on the recurring sound symbolism evident in these
 items, a feature which Blust has identified with PAn forms meaning 'rub, scrape, scratch'.
 Terms with similar sound symbolism readily undergo conflation. Lichtenberk also refers to
@@ -8693,18 +8743,18 @@ biri-yi 'squeeze coconut milk through fibre').
 
    Lichtenberk writes (p.28 3):
 
-       It is not possible to detennine fully what the distinctions were among the various terms for
-       extracting liquid, but a number of contrasts can be postulated. Items *pipik, *pisak, *poji,
-        *losi took as their direct object a noun phrase referring to the object out of which liquid is
-       extracted, whereas *poRos and *pirik took as their direct object a noun phrase referring to
-       the liquid extracted. *pipik and *pisak referred to squeezing by pressing, while *poji and
-       *losi referred to squeezing by wringing. The item *pirik referred specifically to a wringing
-       action, while *poRos may have been an unmarked term whose meaning subsumed both
-       pressing and wringing. (As Ann Chowning has pointed out [pers.comm.] there are two
-                                                                      Food preparation       171
+|       It is not possible to detennine fully what the distinctions were among the various terms for
+|       extracting liquid, but a number of contrasts can be postulated. Items *pipik, *pisak, *poji,
+|        *losi took as their direct object a noun phrase referring to the object out of which liquid is
+|       extracted, whereas *poRos and *pirik took as their direct object a noun phrase referring to
+|       the liquid extracted. *pipik and *pisak referred to squeezing by pressing, while *poji and
+|       *losi referred to squeezing by wringing. The item *pirik referred specifically to a wringing
+|       action, while *poRos may have been an unmarked term whose meaning subsumed both
+|       pressing and wringing. (As Ann Chowning has pointed out [pers.comm.] there are two
+|    basic ways used to extract coconut cream: wringing coconut gratings through coconut
+|    'cloth', or squeezing them in one's hands.)
 
-    basic ways used to extract coconut cream: wringing coconut gratings through coconut
-    'cloth', or squeezing them in one's hands.)
+                                                                      Food preparation       171
 
 
 
@@ -8769,6 +8819,7 @@ POc *quli 'knead, mix together'
                        of the 15th-20th centuries AD, must have been based on a fairly efficient sailing technology.
                        What was this technology? When and where did it develop? To what extent was it modified
                        during the Austronesian diaspora?
+
                           There is already an extensive literature on these questions, much of it by culture historians
                        who apply the typological comparative and distributional methods (discussed in § 1 .2) to
                        sailing craft and sailing techniques. Our contribution will be to see what light can be thrown
@@ -8799,7 +8850,7 @@ and fill a very large book.
                              Malcolm Ross also offered valuable comments or data.
 
 [2] See e.g. Shutler and Marck (1975), Bellwood (1978, 1988), Pawley and Green (1973, 1984), Spriggs (1984,
-                          1989, 1990) for discussion of the dating of the Austronesian diaspora, using C 1 4 dating of archaeological
+                          1989, 1990) for discussion of the dating of the Austronesian diaspora, using C14 dating of archaeological
                           assemblages that can be associated with Austronesian speakers.
 
 
@@ -8812,6 +8863,7 @@ theorising about their origins and development have been popular pastimes among 
 scholars since the first European explorers visited the region.[3] The fairly close correlation
 between the distribution of outrigger canoes and that of the Austronesian language family
 has not escaped the attention of culture historians.
+
    Those writers who have drawn conclusions about the nature of early Austronesian sailing
 craft and navigation have generally relied on the 'typological comparative method' of historical
 reconstruction. The typological method is a theory of structural types, making assumptions
@@ -8826,12 +8878,13 @@ among widely scattered peoples speaking related languages can be taken as eviden
 complex was present in a common ancestral culture. On the other hand, if such a complex
 has a more restricted but continuous geographic distribution it is likely to have been an
 innovation that diffused over this region after the dispersal of the ancestral population.
+
    In his Sailing Craft of Indonesia Adrian Horridge (1986:2-3) employs a distributional
 argument when he writes:
 
-   The very wide distribution of their homogeneous cultural heritage shows that [the ancestral
-   Malayo-Polynesians][4] had an excellent knowledge of outrigger canoes for transporting flre,
-   family, pigs, chickens and dogs, not to mention dozens of useful plants, by sea.
+|   The very wide distribution of their homogeneous cultural heritage shows that [the ancestral
+|   Malayo-Polynesians][4] had an excellent knowledge of outrigger canoes for transporting flre,
+|   family, pigs, chickens and dogs, not to mention dozens of useful plants, by sea.
 
    Other passages in the same book present some fairly detailed conclusions about the design
 of the vessels. These are based partly on the logic of technology -what is possible and what is
@@ -8842,35 +8895,38 @@ engineering knowledge, navigational knowledge, climatic conditions, etc. -and pa
 
 distributional grounds.
 
-   The signs are that the original Malayo-Polynesian rig was a two-boom triangular sail fixed
-   by the point (tack) in the bows of the boat and held up by a loose prop, with a rope to the
-   outriggers to prevent it falling sideways. (p.56)
-        All Malayo-Polynesian rigs therefore had the fundamental property that the sail could be
-   tilted fore and aft to balance the sail with reference to the balance of the hull and load on the
-   steering paddle. In principle they could all be steered like a windsurfer, simply by tilting the
-   sail fore and aft. These rigs, like the outrigger canoes for which they were adapted, were
-   invented in Island South-East Asia, and spread with the Malayo-Polynesian expansion,
-   although they may have been known in Indonesia before that time. (p.58)
-        The idea of a boat built from sewn planks was known to the Polynesian migrants into
-   the Pacific, and perhaps came from mainland Asia before 5000 Be, but the idea of fixing
-   the planks edge-to-edge with dowels seems to have spread later from the mainland, with the
-   same distribution as the use of metal for boat-building tools ... All the techniques needed to
-   make a lashed-lug boat, sewn of course, were known to the earliest Polynesians, and the
-   projecting lugs carved in situ are a feature of many traditional Polynesian, Micronesian and
-   Melanesian boats. (pp.57-58)
+|   The signs are that the original Malayo-Polynesian rig was a two-boom triangular sail fixed
+|   by the point (tack) in the bows of the boat and held up by a loose prop, with a rope to the
+|   outriggers to prevent it falling sideways. (p.56)
+
+|        All Malayo-Polynesian rigs therefore had the fundamental property that the sail could be
+|   tilted fore and aft to balance the sail with reference to the balance of the hull and load on the
+|   steering paddle. In principle they could all be steered like a windsurfer, simply by tilting the
+|   sail fore and aft. These rigs, like the outrigger canoes for which they were adapted, were
+|   invented in Island South-East Asia, and spread with the Malayo-Polynesian expansion,
+|   although they may have been known in Indonesia before that time. (p.58)
+
+|        The idea of a boat built from sewn planks was known to the Polynesian migrants into
+|   the Pacific, and perhaps came from mainland Asia before 5000 Be, but the idea of fixing
+|   the planks edge-to-edge with dowels seems to have spread later from the mainland, with the
+|   same distribution as the use of metal for boat-building tools ... All the techniques needed to
+|   make a lashed-lug boat, sewn of course, were known to the earliest Polynesians, and the
+|   projecting lugs carved in situ are a feature of many traditional Polynesian, Micronesian and
+|   Melanesian boats. (pp.57-58)
 
 In the following passage, Horridge combines structural and distributional arguments with
 archaeological evidence:
 
-   The earliest evidence of trading by boats that could beat against the wind is provided by
-   pottery with a particular design, known as Lapita, that spread rapidly from Western Melanesia
-   far into what is now Polynesia about 3000 years ago. The vessels carrying the potters were
-   probably double canoes because nothing else in the region is sufficiently seaworthy. (p.4)
+|   The earliest evidence of trading by boats that could beat against the wind is provided by
+|   pottery with a particular design, known as Lapita, that spread rapidly from Western Melanesia
+|   far into what is now Polynesia about 3000 years ago. The vessels carrying the potters were
+|   probably double canoes because nothing else in the region is sufficiently seaworthy. (p.4)
 
    The strength of technology-based comparative studies is in the detailed historical inferences
 concerning design and construction which they yield. That is not to say such inferences are
 necessarily reliable. There are some serious methodological weaknesses associated with all
 reconstructions based purely on the logic of types and the distributional method.
+
    Because innovations in material culture sometimes spread and replace older usages and
 because some innovations are made independently in different places, the widespread geographic
 distribution of a feature or even a complex of features does not guarantee its great antiquity.
@@ -8883,32 +8939,35 @@ tradition from outside since that point in time. The method is also unable to di
 reliably between 'retentions' and 'innovations' within the same tradition, that is, between
 features that have been part of a tradition since a given point in time and those that were
 developed later.
+
    In Indonesia and contiguous regions of Island Southeast Asia the problems of distinguishing
 retentions, innovations and borrowings in sailing technology are particularly acute. There, the
 local sailing traditions of Austronesian-speaking communities have not only diversified and
 influenced one another but have been exposed to numerous alien traditions coming from
 mainland Asia. Horridge acknowledges this point:
 
-   The Malayo-Polynesians diversified as they spread, and from them are descended the
-   specialized boat-building and boat-loving maritime groups of Indonesia, namely the B ajau
+|   The Malayo-Polynesians diversified as they spread, and from them are descended the
+|   specialized boat-building and boat-loving maritime groups of Indonesia, namely the Bajau
+|   or Sea Gypsies, the Buginese from the Gulf of Bone, the Makassarese, the Mandar people
+|   from West Sulawesi, and the Butungese from South-east Sulawesi, and the Madurese ... [and]
+|   the fishennen of the islands of Bawean, Masalembu and Sepudi in the Java Sea, the traders
+|   of Bonerate and Pulau Palu'e in the Flores Sea, the whalers of Lamalerap on Lomblen in the
+|   Timor Straits, the men of Luang in the Barat Daya Islands, and the numerous Buginese
+|   colonies which control a wide network of trade in miscellaneous goods. All these very
+|   diverse groups have inherited the Malayo-Polynesian seafaring tradition, and methods of
+|   building outrigger canoes which over the past two millenia have been mixed with traditions
+|  from the Indian Ocean and the West to give the modern hatch-patch of boat and canoe
+|  styles. (pp.3-4) [our italics: AP & MP.]
+
 1 76   A ndrew and Medina Pawley
 
-   or Sea Gypsies, the Buginese from the Gulf of Bone, the Makassarese, the Mandar people
-   from West Sulawesi, and the Butungese from South-east Sulawesi, and the Madurese. . . [and]
-   the fishennen of the islands of Bawean, Masalembu and Sepudi in the Java Sea, the traders
-   of Bonerate and Pulau Palu' e in the Flores Sea, the whalers of Lamalerap on Lomblen in the
-   Timor Straits, the men of Luang in the Barat Daya Islands, and the numerous Buginese
-   colonies which control a wide network of trade in miscellaneous goods. All these very
-   diverse groups have inherited the Malayo-Polynesian seafaring tradition, and methods of
-   building outrigger canoes which over the past two millenia have been mixed with traditions
-  from the Indian Ocean and the West to give the modern hatch-patch of boat and canoe
-  styles. (pp.3-4) [our italics: AP & MP.]
 
    Horridge's remarks remind us that the testimony of central Pacific cultures is likely to be
 crucial in reconstructing early Austronesian sailing technology. The relative isolation of the
 peoples of the more remote Pacific islands may have allowed some of them to continue the
 early Austronesian sailing culture with fewer changes than most peoples in Island Southeast
 Asia.
+
    A problem arises when students of comparative technology dabble in comparative linguistics
 without underpinning them by the careful studies of sound correspondences and subgroupings
 needed to distinguish between cognates, accidental resemblances and borrowings or to determine
@@ -8986,6 +9045,7 @@ Milke (1961, 1968), Pallesen (1985), Pawley (1972), Reid (1971), Ross (1988), Sn
 type of vessel, beginning with types of vessels and hull construction and going on to outrigger
 structure, superstructure, sail and rigging, accessories, launching, beaching and anchoring
 and ending with terms for seafaring and seafarers.
+
      Each reconstructed word or etymon is attributed to a certain level of the Austronesian
 family tree, the highest level justified by the distribution of the cognate set across subgroups.
 Below it are listed the cognates from contemporary languages. These are ordered according
@@ -9011,6 +9071,7 @@ of Haddon and Hornell's etymologies are false. Only one of their putative cognat
 178      Andrew and Medina Pawley
 
 attributed to an early Austronesian interstage-that pointing to PCEMP _*waŋka_, POc _*waga_.
+
    POc _*waga_ (phonetically [waŋga] with [ŋg] being a single phoneme) is widely reflected
 within Oceanic as a general term for a canoe or boat with a hull, as opposed to a raft. In
 many Oceanic languages, however, the reflex of _*waga_ refers chiefly to large sailing canoes
@@ -9128,14 +9189,15 @@ century other kinds of craft including double outriggers were in use. Scott (198
 an eighteenth century Chinese observer, Huang Shi-ching, describing a built-up dugout canoe
 called a manka [or banka] as follows:
 
-   A manka is a single tree trunk hollowed out, with wooden planks fastened on both sides
-   with rattans; since they have no putty for caulking and water easily enters, the barbarians
-   keep baling with a ladle.
+|   A manka is a single tree trunk hollowed out, with wooden planks fastened on both sides
+|   with rattans; since they have no putty for caulking and water easily enters, the barbarians
+|   keep baling with a ladle.
 
 It is likely (Mark Donohue, pers.comm.) that the Chinese characters in question are from the
 Hokkien dialect and should be read as banka, not manka as reported by Scott. The form
 *ba(fj)ka is however reflected both in CMP and Oceanic, and must be attributed to their
 common ancestor, which Blust (1993) labels PCEMP.
+
     The next term is reconstructable as far back as PMP. But note the disagreement between
 WMP and Oceanic witnesses as to its meaning.
 
@@ -9380,24 +9442,25 @@ crutch-shaped pieces at each end; and (c) a built-up canoe, in which a number of
 strakes are added to a keel. The keel may consist of a thick plank or a dugout underbody (or
 sometimes two or even three dugouts joined).
    Ethnologists have argued on logical grounds that types (b) and (c) developed from the
-dugout prototype. I n his account of Philippine boat-building in the sixteenth and seventeenth
+dugout prototype. In his account of Philippine boat-building in the sixteenth and seventeenth
 centuries, Scott (1982 :337-3 3 8) sketches a theory of the evolution of the hull of Philippine
 boats:
 
-   In the ship-building technique [developed in China and Europe in the Middle Ages) . . . a rigid
-   framework of keel and ribs is first constructed. . . and the wooden planking of the hull then
-   nailed to it with metal spikes or wooden trenails. The older technique was to build the hull
-   first, plank by plank carved to fit, and to fasten the ribs in afterwards. This technique is
-   probably a natural development of the one-log dugout canoe by adding one board to each
-   side to obtain higher freeboard.
-        By increasing the number of such additional planks, a fully developed boat or ship is
-    produced. But as the sides of the canoe, or banca, are thinned, some transverse strengthening
-   is required, and this can be provided by running strut-like thwarts across the vessel, securing
-   them to the sides without nails by means of tambukos [lugs] and lashing. For this purpose a
-    flexible rib can be pressed down across all of them and lashed securely to the matching
-   tambukos carved on each plank. Finally a combination of such thwarts and ribs lashed
-   together ... produces a sturdy vessel whose hull and other structural parts are held firm under
-   prestressed tension.
+|   In the ship-building technique [developed in China and Europe in the Middle Ages) . . . a rigid
+|   framework of keel and ribs is first constructed. . . and the wooden planking of the hull then
+|   nailed to it with metal spikes or wooden trenails. The older technique was to build the hull
+|   first, plank by plank carved to fit, and to fasten the ribs in afterwards. This technique is
+|   probably a natural development of the one-log dugout canoe by adding one board to each
+|   side to obtain higher freeboard.
+
+|        By increasing the number of such additional planks, a fully developed boat or ship is
+|    produced. But as the sides of the canoe, or banca, are thinned, some transverse strengthening
+|   is required, and this can be provided by running strut-like thwarts across the vessel, securing
+|   them to the sides without nails by means of tambukos [lugs] and lashing. For this purpose a
+|    flexible rib can be pressed down across all of them and lashed securely to the matching
+|   tambukos carved on each plank. Finally a combination of such thwarts and ribs lashed
+|   together ... produces a sturdy vessel whose hull and other structural parts are held firm under
+|   prestressed tension.
 
    The question arises as to whether any or all of these features of hull design are attested in
 the vocabulary of PMP and other interstages.
@@ -9464,17 +9527,18 @@ as they could also reflect POc *tola 'large canoe'.
 Austronesian communities used stone or metal tools, as the following remarks by Scott
 (1982:338-3 39) make clear:
 
-   Historically there are two methods by which the planks in [Philippine] plank-built boats are
-   fastened together - sewing and edge-pegging. Sewing - or, better said, lacing - the
-   boards together is done by drilling a matching row of holes through the two boards near
-   their adjoining edges, and running rattan strips through them in the manner of lacing up a
-   shoe or basketball. This is the older technique and it can be performed with even a simple
-   stone or bone drill, as was still being done in remote Pacific islands . . . Stone tools are
-   probably inadequate for drilling deep holes in the thin edges of boards, and it is therefore
+|   Historically there are two methods by which the planks in [Philippine] plank-built boats are
+|   fastened together - sewing and edge-pegging. Sewing - or, better said, lacing - the
+|   boards together is done by drilling a matching row of holes through the two boards near
+|   their adjoining edges, and running rattan strips through them in the manner of lacing up a
+|   shoe or basketball. This is the older technique and it can be performed with even a simple
+|   stone or bone drill, as was still being done in remote Pacific islands . . . Stone tools are
+|   probably inadequate for drilling deep holes in the thin edges of boards, and it is therefore
+|      not surprising that edge-pegging does not appear in those distant Pacific islands whose
+|      inhabitants presumably migrated there without metal.
+
                                                                             Canoes and seafaring             187
 
-      not surprising that edge-pegging does not appear in those distant Pacific islands whose
-      inhabitants presumably migrated there without metal.
 
    We can reconstruct PMP *kiRam 'adze/axe' and *taRaqi (V) 'adze, carve' (Ch. 4, §4. 1 . 1 ),
 with reflexes in Oceanic as well as in WMP witnesses, but there are no secure PMP or POc
@@ -9861,6 +9925,7 @@ innovation which has been borrowed by a few other languages.
 
 
 7.5. Sail and rigging
+
     The characteristic Oceanic sail types are: (a) a triangular sprit sail with apex downwards
 and a spar along each of the two sides stemming from the apex, and (b) the (crab) claw
 sail-a triangular sail with the foreside fixed to a vertical mast and the afterside to a strongly
@@ -9870,19 +9935,19 @@ I ndonesia and in the Pacific Islands. The pole is stepped in a socket or on a t
 and can be rotated and raked towards either end by means of running stays.
     We give here a further quote from Horridge (1986:56-57):
 
-   It is my belief, based on distribution, comparative vocabularies and engineering principles,
-   that the fixed mast with a halyard spread into Malayo-Polynesian communities from the
-   Indian Ocean along with the introduction of the pulley. A large sail of matting could not be
-   raised at sea without a pulley unless it was pushed up by a loose pole. There are no signs
-   that even the last Austronesian-speaking migrants to move out into the Pacific knew about
-   the tripod mast, the tilted rectangular sail, the pulley or the quarter rudder lashed to a rudder
-   support. All of these features also spread only a little way up the mainland coast towards
-   China . . . The tilted rectangular sail seems to have spread from the Indian Ocean, perhaps
-   even from. . . Egypt, and to have arrived in Indonesia about 2,000 years ago. . . It has spread
-   eastwards about as far as the quarter rudder and the pulley.
+|   It is my belief, based on distribution, comparative vocabularies and engineering principles,
+|   that the fixed mast with a halyard spread into Malayo-Polynesian communities from the
+|   Indian Ocean along with the introduction of the pulley. A large sail of matting could not be
+|   raised at sea without a pulley unless it was pushed up by a loose pole. There are no signs
+|   that even the last Austronesian-speaking migrants to move out into the Pacific knew about
+|   the tripod mast, the tilted rectangular sail, the pulley or the quarter rudder lashed to a rudder
+|   support. All of these features also spread only a little way up the mainland coast towards
+|   China ... The tilted rectangular sail seems to have spread from the Indian Ocean, perhaps
+|   even from ... Egypt, and to have arrived in Indonesia about 2,000 years ago ... It has spread
+|   eastwards about as far as the quarter rudder and the pulley.
 
 On some of these points the linguistic evidence appears to be silent. However, several terms
-for parts of the rig are attributable to POc or to later interstages of Oceanic :
+for parts of the rig are attributable to POc or to later interstages of Oceanic:
 
 
 
@@ -10618,18 +10683,21 @@ POc *tau (ni) waga 'owner of a boat'
 
 
 7.10. Conclusions
+
     Upwards of twenty terms to do with watercraft and seafaring can be reconstructed for
 PMP. The comparative lexical evidence allows the following inferences. PMP speakers were
 familiar with outrigger sailing canoes. Various clues indicate that craft could be quite large.
 Hulls could be built up with planking. Skids or rollers were used to move vessels on land. A
 steering paddle was used. Large canoes probably carried anchors. Cargo and paddles, punting
 poles and bailers were carried on board.
+
     Virtually all the reconstructable PMP canoe and seafaring terms were continued in POc
 and PCP. I n addition, around ten terms can be attributed to POc and PCP that have not so far
 been reconstructed for PMP. While these figures are impressive, they probably represent only
 a small proportion of the total body of terms for canoes and seafaring used by the speech
 communities in question. In contemporary societies where large sailing canoes remain in use,
 it is usual for a language to have over one hundred terms for parts of the vessel alone.
+
     Some of the POc and PCP terms which do not have known sources in PMP may be formal
 innovations. It seems likely, however, that in most cases the innovative forms replaced
 functionally equivalent PMP terms whose forms are not recoverable on present evidence.
@@ -10653,6 +10721,7 @@ familiarity with built-up canoes, no term for the end-decking of a built-up cano
 triangular end-pieces abutting the topstrake fore and aft-is attributable to PMP. But as
 end-decking of some sort is a functional necessity in built-up seagoing outrigger canoes, it is
 unlikely that PMP seagoing canoes would have lacked these essential parts.
+
     Further work will undoubtedly add to the body of relevant lexical reconstructions. However,
 it is unlikely to fill all the gaps. Often the lexical evidence is not fine-grained enough to allow
 us to recover certain details of vessel design. For example, the lexical reconstructions for the
@@ -10668,6 +10737,7 @@ such a craft was unknown to POc speakers? Certainly not. Inability to reconstruc
 a certain referent in Proto X does not prove that the referent itself, and a term for it, were
 unknown to speakers of Proto X. The term may have been lost in all or most daughter
 languages and its former existence obscured.
+
     The moral we might draw at this point is a rather obvious one: that for doing culture
 history several disciplines are, ultimately, better than one. Linguistics and comparative
 technology need each other, just as both need archaeology and comparative ethnography, to
@@ -10694,8 +10764,7 @@ becomes how to combine judiciously the evidence from different disciplines.
 
                         This chapter takes a close look at terms for fishing and hunting implements and processes
                      attributable to Proto Oceanic (POc), with a view to reconstructing a small portion of the
-                                              1
-                     culture of POc speakers. There is ample linguistic evidence that these people were fishermen
+                     culture of POc speakers.[1] There is ample linguistic evidence that these people were fishermen
                      and seafarers. The Oceanic Lexicon Project has collected cognate sets supporting POc
                      reconstructions for over eighty fish names and an additional forty terms for shellfish (see vol.
                      3). This paper adds a further twenty terms for various fishing techniques used, both for
@@ -10708,6 +10777,7 @@ becomes how to combine judiciously the evidence from different disciplines.
 
 
 8.2 Nets
+
                        Most Oceanic languages have a wide range of terms for different kinds of nets. These
                     include terms for hand nets, casting nets, seine nets, long-handled nets for catching flying
                     fish, and so on. Many languages have terms for nets for catching birds and occasionally
@@ -10940,12 +11010,13 @@ than *raun.
 
   Use of fishhooks was evidently not an automatic 'given' in western Oceanic communities.
 Ann Chowning (pers.comm.) has commented that
-   at the time of European contact, a number of societies did not use fish hooks, even though
-   the archaeological evidence makes it clear that they can be attributed to POc culture. The
-   Nakanai were a case in point. In some other societies, such as Sengseng, line and bait fishing
-   were done only by using a gorge, pointed at both ends, or sometimes, as I have seen the
-   Molima do, bait was simply tied to a line and the fish pulled out when it swallowed the bait.
-   In many places fishing with hook and line is a post-contact phenomenon.
+
+|   at the time of European contact, a number of societies did not use fish hooks, even though
+|   the archaeological evidence makes it clear that they can be attributed to POc culture. The
+|   Nakanai were a case in point. In some other societies, such as Sengseng, line and bait fishing
+|   were done only by using a gorge, pointed at both ends, or sometimes, as I have seen the
+|   Molima do, bait was simply tied to a line and the fish pulled out when it swallowed the bait.
+|   In many places fishing with hook and line is a post-contact phenomenon.
 
 Nonetheless, the linguistic evidence leaves us in no doubt that POc speakers were familiar
 with the technique.
@@ -11148,11 +11219,12 @@ sometimes of sticks. ([he Lou (Admiralties) term pas 'stone fish corral' has une
 and at this stage cannot be accepted as a cognate.) In Oceania, walls of stone or coral are
 constructed across channels in the reef to catch fish on a falling tide. In the Cook Islands
 (Rarotonga), pii has become a generic. Buck (1927:298) writes that:
-     Most of the pa are very old, having been laid down far back in pre-European times. The
-     channels were studied and the course taken by fish observed. The lines of the walls were laid
-     down with such skil l and accuracy that any departure from them ends in failure. The wall s
-     are made o f loose coral rock. The most important weirs are named, and are owned by
-     particular families. No outsider can use a weir without permission from the hereditary owners.
+
+|     Most of the pa are very old, having been laid down far back in pre-European times. The
+|     channels were studied and the course taken by fish observed. The lines of the walls were laid
+|     down with such skil l and accuracy that any departure from them ends in failure. The wall s
+|     are made o f loose coral rock. The most important weirs are named, and are owned by
+|     particular families. No outsider can use a weir without permission from the hereditary owners.
 
 He describes various types of weirs, for example, pa kiokio (roughly Z-shaped), pa tute
 (temporary), and pa tuakirua 01-shaped with opening towards the sea).
@@ -11207,13 +11279,15 @@ The method of stunning fish by throwing pounded Derris root into pools is widesp
 the three terms seem to have identical reference, although Derris eliptica is not mentioned
 specifically in relation to *puna . Describing the technique used by Sa'a speakers, a Southeast
 Solomons language, Ivens (1927 (reissued 1972):389) writes that:
-   . . . fish in streams are poisoned by a preparation. The bark of the edible B arringtonia tree, the
-   one with red flowers, is stripped off and heated in the fue to bring out its bitter qualities. It is
-   then beaten into shreds with stones in water and thrown into the place chosen. Along with it
-   they use the grated nuts of the barringtonia speciosa [sic.], a littoral tree. A third ingredient is
-   made from pounded sections of a creeper called uhe, the juices of which are very bitter.
+
+|   ... fish in streams are poisoned by a preparation. The bark of the edible B arringtonia tree, the
+|   one with red flowers, is stripped off and heated in the fue to bring out its bitter qualities. It is
+|   then beaten into shreds with stones in water and thrown into the place chosen. Along with it
+|   they use the grated nuts of the barringtonia speciosa [sic.], a littoral tree. A third ingredient is
+|   made from pounded sections of a creeper called uhe, the juices of which are very bitter.
 
 The last ingredient is obviously a variant of uha , a reflex of POc *tupa .
+
    The kernel of the fruit of Barringtonia asiatica (pOc *putun) is used for poisoning water
 in Samoa, while the Fijians use the outer portion of the same fruit (Blackwood 1935:354-355),
 but I have not been able to reconstruct a term for this.
@@ -11478,6 +11552,7 @@ warding off a spear, making a thrust, or wielding as a club (Hudson I 84 1 , quo
 1986:249), which might equally be classified as a shield or lance. I consider these to be more
 or less marginal examples of what is basically a blunt, heavy instrument, wielded in the hand
 for bludgeoning.
+
     In the Southeast Solomons, Fiji and Polynesia at least (I have little information from
 Western Oceania), clubs have an importance beyond that of simply weapons. They often
 carry ceremonial weight. Many are heirlooms with names and magical powers. Special reverence
@@ -11625,11 +11700,12 @@ PEOc *taRi 'noose, snare'
 
    Another widespread method of catching birds involves the use of birdlime. Hooley describes
 the technique used by Mapos Buang speakers in the Huon Gulf region of New Guinea:
-   The sap of this tree (dagXem) is used as birdlime for catching birds. The sap is collected in a
-   length of bamboo and is then heated over a flre. When it is boiling a stick is dipped in and
-   twisted and the sap adhering to it is chewed to make it soft and then wrapped in cordyline
-   leaves. The sap is then spread on a suitable tree branch so that when birds come to eat the
-   fruit of that tree they are caught. (from word list held on computer file at ANU)
+
+|   The sap of this tree (dagXem) is used as birdlime for catching birds. The sap is collected in a
+|   length of bamboo and is then heated over a flre. When it is boiling a stick is dipped in and
+|   twisted and the sap adhering to it is chewed to make it soft and then wrapped in cordyline
+|   leaves. The sap is then spread on a suitable tree branch so that when birds come to eat the
+|   fruit of that tree they are caught. (from word list held on computer file at ANU)
 
 <
 
@@ -11660,13 +11736,15 @@ sites-the fishhooks, trolling lures, stone fish traps, spear tips and so on -and
 
 through analysis of remains in Lapita middens, which provide evidence of Lapita people 's
 diet and (indirectly) for food procurement techniques.
+
    Spriggs (1997a: 1 1 4) summarises non-vegetable food traces from an Eloaue site on Mussau,
 east of the Admiralties, believed to have been occupied between about 3 , 500 and 2, 500
 years ago. (Eloaue is a low, flat, coral island south-east of the high island of Mussau.)
-   Large quantities of shell rllidden occurred in the site .. .The three Oceanic domesticates, pig,
-   dog and chicken, were present but only in smal l numbers. 95 per cent of the bone was of fish,
-   mainly inshore species, and turtle. Present too in small quantities were porpoise, reptiles,
-   birds, rats and also the phalanger Spilocuscus maculatus (p. 1 1 7).
+
+|   Large quantities of shell rllidden occurred in the site .. .The three Oceanic domesticates, pig,
+|   dog and chicken, were present but only in smal l numbers. 95 per cent of the bone was of fish,
+|   mainly inshore species, and turtle. Present too in small quantities were porpoise, reptiles,
+|   birds, rats and also the phalanger Spilocuscus maculatus (p. 1 1 7).
 
     A similar range of fauna to Mussau's occurs in the Lapita sites in the Arawe Islands, off
 the south-west of New Britain, with the addition of a wallaby, Thylogale browni and the
@@ -11677,6 +11755,7 @@ show a decline in the range and diversity of animal life available for food, a d
 increases as one moves progressively further out into the Pacific. Spriggs records that "hunting
 took place of what local species of birds, bats and sea creatures such as turtles and dugongs
 there were, as well as collecting of reef and lagoon fish and shellfish". (p. 135)
+
    Artefacts are considered alongside the linguistic evidence. With regard to angling, we have
 the following POc reconstructions:
   *apon                   'fishing line'
@@ -11700,9 +11779,11 @@ from Mussau sites come examples of carefully crafted lures made from Trochus she
 trolling lures "are streamlined for hydrodynamic lift in the water, and have finely carved
 grooves for attaching both the line and hackles (probably feathers or pig bristles) near the
 recurved point". (pp.200-201 )
+
    More elaborate two-piece fishhooks with separate shank and point were apparently a later
 development, appearing in Eastern Polynesia and possibly originating in the Marquesas Islands
 (Bellwood 1987:58).
+
    A pertinent observation on the connection between present-day fishing techniques and
 those of the early Lapita settlers is made by Kirch and Yen (1982) in their study of the
 prehistory of Tikopia (initial settlement dates to around 2875-2750 BP). They have assembled
@@ -11710,15 +11791,16 @@ prehistory of Tikopia (initial settlement dates to around 2875-2750 BP). They ha
 
 a collection of one-piece fishhooks and three distinctive early trolling hooks made from
 trochus shell, which are associated with Lapita sites. They note (p.243) that:
-   While we must be cautious in interpreting archaeological fishhooks on the basis of ethnographic
-   observations of the use of modem metal hooks, the data are suggestive that Tikopia utilised a
-   similarly broad range of angling strategies in prehistoric times. Group I hooks would have
-   been best suited to catching small fry on the fringing reefs. Group II hooks, the most varied,
-   were likely used for more than one strategy, and towline and bottom-fishing techniques,
-   among others, seem likely. The largest specimens, Group III, would seem to have been
-   intended for towline capture of carniverous pelagic fish or bottom fishing for large groupers,
-   Ruvettus, and the like. Such an interpretation of the angling gear is consistent with the range
-   of fish taxa identified in the Tikopia faunal material.
+
+|   While we must be cautious in interpreting archaeological fishhooks on the basis of ethnographic
+|   observations of the use of modem metal hooks, the data are suggestive that Tikopia utilised a
+|   similarly broad range of angling strategies in prehistoric times. Group I hooks would have
+|   been best suited to catching small fry on the fringing reefs. Group II hooks, the most varied,
+|   were likely used for more than one strategy, and towline and bottom-fishing techniques,
+|   among others, seem likely. The largest specimens, Group III, would seem to have been
+|   intended for towline capture of carniverous pelagic fish or bottom fishing for large groupers,
+|   Ruvettus, and the like. Such an interpretation of the angling gear is consistent with the range
+|   of fish taxa identified in the Tikopia faunal material.
 
    We have eight POc terms that relate to netting:
   *pukot                   'fishing net, seine'
@@ -11733,11 +11815,12 @@ trochus shell, which are associated with Lapita sites. They note (p.243) that:
 Although netting itself will not endure, we have limited physical evidence of dragnetting
 from Tikopia in the form of cowrie shell net weights. Kirch and Yen (p.245) have been able
 to identify shells and stones from a Lapita site as net weights and line sinkers:
-   Tikopia women frequently scour the reef flats with small two-handled dip nets, te kuti, the
-   edge of which is weighted with small Cypraea shells. Such shells have the dorsum removed
-   to facilitate lashing . . . Two line sinkers were [also] found, each consisting of a natural
-   cobble. . . with an artificially pecked groove running laterally round the stone. Such grooved
-   cobbles are still used on occasion by Tikopia fishermen.
+
+|   Tikopia women frequently scour the reef flats with small two-handled dip nets, te kuti, the
+|   edge of which is weighted with small Cypraea shells. Such shells have the dorsum removed
+|   to facilitate lashing . . . Two line sinkers were [also] found, each consisting of a natural
+|   cobble. . . with an artificially pecked groove running laterally round the stone. Such grooved
+|   cobbles are still used on occasion by Tikopia fishermen.
 
    It is unlikely that the remainder of our fishing terminology, with the possible exception of
 the stone fish weirs, can ever be supported by archaeological evidence:
@@ -11769,6 +11852,7 @@ The pointed weapon terminology consists of:
                           (Spriggs 1997a:163). They were manufactured in the vicinity of the main obsidian sources in
                           the Lou Island area by 21 00 BP (pp. 162-164). Green (1979:39) documents a bone spear-point
                           from Main Reef Islands circa 3 1 00 BP.
+
                               I can find no archaeological evidence for any kind of club, our two (weakly supported)
                            terms notwithstanding:
                                 *paru                                                            (N, V) 'club'
@@ -11784,6 +11868,7 @@ The pointed weapon terminology consists of:
                                 *pʷita, *pʷita-i­                                                (N, V) 'snare'
                                                                                                                          ,
                                 *bulit                                                           'gum, resin (birdlime?)
+
                               Although we can look to archaeology to confirm the hypothesis that durable artefacts will
                            be found in sites associated with Oceanic-speaking communities, there is little hope of
                            archaeological recovery of the perishable artefacts in question. Here, linguistics adds an extra
@@ -11798,8 +11883,8 @@ The pointed weapon terminology consists of:
                                                    MALCOLM ROSS, ROSS CLARK AND MEREDITH OSMOND !
 
 
-[1] Ross Clark did the initial co\1ation and classification of data, Meredith Osmond wrote the first draft, also
-                              co\1ating reconstructions drawn from other chapters, and Malcolm Ross refined and added reconstructions,
+[1] Ross Clark did the initial collation and classification of data, Meredith Osmond wrote the first draft, also
+                              collating reconstructions drawn from other chapters, and Malcolm Ross refined and added reconstructions,
                               partially reorganised the chapter and rewrote much of it.
 
 
@@ -11817,6 +11902,7 @@ The pointed weapon terminology consists of:
                         cross-references to earlier chapters. In the interests of space, however, we have generally not
                         repeated here those verbs whose meanings fit neatly enough under the subtheme of another
                         chapter, and we have sometimes reduced the cognate sets given as supporting evidence.
+
                            Some system of classification was necessary to give coherence to our work, and we
                         started with a classification based on what we thought were sensible but somewhat ad hoc
                         semantic classes. Interestingly, as work progressed and the glosses of cognate set members
@@ -11825,6 +11911,7 @@ The pointed weapon terminology consists of:
                         were not part of our original classification. In this way, we believe we have gained some
                         insight into the semantic classification of acts of impact, force and change of state used by
                         POc speakers.
+
                            The final classification of reconstructions, with section numbers, is as follows:
 
 
@@ -11874,6 +11961,7 @@ seems to be on the separation itself, not the manner in which it is done. Becaus
 we found ourselves impelled to combine different manners of separation -cutting, peeling,
 separating, splitting and tearing-into a single higher-order grouping, as they seem not to
 have been as important for classifiying actions in POc as they are in European languages.
+
    The formal categories of POc verbs are particularly salient in this chapter. They are
 explained in greater detail in Chapter 2, §3 . 1 . 1 . Many verbs can be reconstructed with both
 an intransitive and a transitive alternant. Two patterns commonly occur. They are illustrated
@@ -11887,21 +11975,26 @@ object pronoun. In the second pattern, represented by POc *kiri[-] 'file, rasp, 
 final consonant, and the intransitive and transitive are identical, with two syllables. The
 hyphen in square brackets indicates that nothing follows the intransitive alternant, but that an
 enclitic object pronoun follows the transitive.
+
     With verbs of the first pattern, we sometimes present the intransitive and transitive alternants
 separately with their supporting data if these form long lists, and sometimes together.
+
     There is a third pattern represented in the reconstructions in this chapter. Here, the intransitive
 consists of a single-syllable 'root' with a reduplication of the initial consonant-vowel sequence,
 as in POc *toto(k) 'cut, chop' (§3.2), where the root is *tok. The transitive consists of the root
 with added *-i- as in POc *toki.
+
     Sometimes, as explained in Chapter 2, §3 . 1 . 1 , we are unable to determine from the
 cognate set what verb class a given intransitive verb belonged to. This means that the glosses
 of intransitive verb reconstructions are sometimes vague, because we do not know whether
 the actor or the undergoer was the subject.
+
     Another alternation that occurs, but has nothing to do with transitivity, is between a
 reconstruction with an oral-grade initial consonant, like POc *kiri[-] 'file, rasp, saw', and one
 with a nasal-grade initial consonant, like POc *giri[-] 'file, rasp'. Where such an alternation
 is reconstructed, the alternant reconstructions are labelled (1 ) and (2). The possible origins of
 this alternation are discussed in Chapter 2, §3 . 1 . 3.
+
     A practical problem in the analysis for this chapter was that it is often necessary to
 reconstruct two or more formally similar verbs. There are some quite principled reasons for
 this, and some which are more ad hoc. The more principled explanations are that (i) a verb
@@ -12802,6 +12895,7 @@ POc *tapa(s), *tapas-i- 'cut into, incise'
 
    The two verbs below refer to cutting wood or shell to shape it or carve it in the production
 of artefacts such as canoes or shell inlays in carvings.
+
    The reconstruction of POc *sapʷi, as distinct from *sapi (§3. 7), is justified by the semantic
 contrast between the two sets, and by unambiguous reflexes of POc *_pw_ (Tawala, Dobu,
 Tolai, Bauro -p-, Port Sandwich _VW_).
@@ -12974,12 +13068,13 @@ POc *tajim, *tajim-i- 'sharpen to a point, trim (wood)'
 or more meanings from this list. That is, POc seems to have verbs whose meaning was
 essentially 'separate one layer or part of an object from another', where the object was
 usually a plant, fruit or vegetable.
+
    Not surprisingly, there is an overlap between these meanings and some of those of verbs in
 other sections of this chapter. For example, POc *kara(s), *karas-i- 'peel or scrape skin off
 tubers' (§2.2) and POc *supi 'pare, shave, sharpen' (§3.6) also refer to peeling.
+
    We may divide the verbs in this subsection into three groups:
-1)    POc *kulit, *kulit-i- 'skin', derived from the noun *kulit in a way analogous to the
-      English verb to skin;
+1)    POc *kulit, *kulit-i- 'skin', derived from the noun *kulit in a way analogous to the English verb to skin;
 2)    the three formally similar verbs *isi, *sisi and *Risi(q);
 3)    verbs with meanings related to those in (2), namely:
       POc     *sali       'strip leaves from branch, frond'
@@ -13024,6 +13119,7 @@ coconut +)" was derived from this noun. Thus *isi is fairly well supported by ex
 evidence, as well as the Oceanic reflexes listed below. Since coconut flesh is grated straight
 out of the shell, the Molima and Nakanai reflexes are easily derived semantically from
 'scoop out (flesh from coconut +)'.
+
    POc *Risi(q) is also supported by external (Philippine) cognates with meanings associated
 with tearing. POc *sisi and *isi are supported by CMP cognates. Since POc *isi and *sisi
 appear to be reconstructable with the same meaning, we suspect that the latter is simply
@@ -13032,9 +13128,9 @@ associated with stripping bark from a tree, and we wonder whether there has been
 conflation with reflexes of *Risi(q), which clearly meant 'remove by tearing, tear or peel off
 (bark +) in long narrow strips' (in SES languages, reflexes of *Risi(q) have undergone a
 meaning shift to 'cut a piece off s.t. ').
+
    Of the Polynesian reflexes, we have, on grounds of meaning, attributed Rennellese isi
-                                           ,
-'scoop, scrape (coconut meat from shell) to  POc *isi but Samoan isi etc to  POc *Risi(q).
+'scoop, scrape (coconut meat from shell)' to  POc *isi but Samoan isi etc to  POc *Risi(q).
 
 <
 
@@ -13957,6 +14053,7 @@ hatches. It is possible that these were intransitive verbs in POc and that their
 breaking object, e.g., the egg. POc *(p,pʷ)oga(q) (VI) 'burst open, split open' and POc *momo(k)
 'break into small pieces' similarly seem to have been intransitive, and the latter may also
 have been used to refer to potsherds, crumbs, and so on.
+
     The remaining verbs in this subsection all appear to have been used transitively, with an
 agent subject and a patient object. It is possible that the forms without final *-i- were used
 intransitively with the patient (rather than the agent) as their subject. That is, they meant
@@ -14117,6 +14214,7 @@ POc *tapu(t), *taput-i             'strip (crops), pull off'
 
 PPn *lohu 'fruit-plucking pole, hook something with a pole' (Biggs 1993), probably also
 reflects PAn *-buC via an otherwise unattested POc **loput.
+
    The second set also seems to reflect a single PAn root, namely *-pak 'break, crack, split',
 although their POc meanings both refer to plucking leaves off a branch by hand. POc *paki
 has only Fijian and Polynesian reflexes, but is reconstructed for POc on the basis of the
@@ -14545,7 +14643,7 @@ POc *losi(t) 'squeeze, wring'
                                            Acts of impact, force and change of state            285
 
 
-   The derivational relationship between the pair of verbs below, PEOc *gugu(m), *gum-i­
+   The derivational relationship between the pair of verbs below, PEOc *gugu(m), *gum-i-
 'grasp in fist, clench fist', evidently still subsists in some Pn languages. Although PEOc
 *gugu(m) is to our knowledge only reflected in Pn languages, this relationship persists and
 must go back to PEOc and probably to POc. There is an obvious historical relationship
@@ -14596,6 +14694,7 @@ POc *gumu(t), *gumut-i- 'hold tight'
 286        Malcolm Ross, Ross Clark and Meredith Osmond
 
 9.8 Twisting, plaiting, braiding
+
    The verbs in this section have to do with twisting, plaiting and braiding in general, and
 more specifically with twisting or rolling fibres to make various kinds of string or cord. The
 reflexes of some of these verbs overlap in their semantics with those in §7. Other verbs are
@@ -14659,6 +14758,7 @@ PEOc *piri-piri 'twine round and round; thing made by braiding'[8]
 
 Reduplication was regularly used to form intransitive verbs from verbs which were implicitly
 transitive (Ch 2, §3 . 1 .2).
+
    The two terms below have undoubtedly been conflated in some languages, but the data
 justify separate reconstructions. With regard to the origin of PEOc *pilo(s), *pilos-i, see the
 discussion associated with POc *poRo(s), *poRos-i- above (§7).
@@ -14852,14 +14952,16 @@ well as the verbs listed below, reflexes of POc *patu(R), *patuR-i- 'tie, plait,
 baskets +)' (Ch. 4, §3. 1 . 1 ) and POc verb *saqi(t) 'sew' (Ch. 4, §3.2. 1 ) are also used for tying.
 This was evidently one of the POc meanings of the former, but probably not of the latter.
 Other verbs for various kinds of tying are listed below. POc *buku 'tie (a knot); fasten' was
-probably a generic term for tying, whilst POc *pʷita 'tie by encircling', POc *paqu(s), *paqus-i­
+probably a generic term for tying, whilst POc *pʷita 'tie by encircling', POc *paqu(s), *paqus-i-
 'bind, lash; construct (canoe +) by tying together', and POc *pisi 'bind up, tie up, wind round,
 wrap' had more specialised meanings. There is insufficient information about POc *kiti 'tie,
 bind' to attribute a more specific meaning to it.
+
    The first POc verb reconstructed below is identical to POc *buku 'node . . .' (Ch. 4, §3 .2), a
 noun which referred among other things to knots. It is possible that the verbs listed below
 under *buku are independent developments from the POc noun. However, since many POc
 roots seem to have functioned as both noun and verb, we reconstruct the verb here.
+
    The second verb, *bukuti, is odd, in that it implies a PMP root **bukut, but the reconstructable
 PMP form is *buku (Ch. 4, §3.2) without final *-t. We assume that *-t- was inserted by
 analogy with other transitive verbs.
