@@ -2779,11 +2779,11 @@ POc *rau(n) ‘flat land’
  PT:   Bwaidoga         lau(beùmanata) ‘flat area without any mountains’
  PT:   Bwaidoga         lau(beùya)     ‘(on the) plain (of flat coastal strip)’
 PPn *rau ‘flat land’ *rau-lalo ‘lowland’
- Pn:    Tongan          āu lalo          ‘low-lying land’ (lalo ‘place lower down’)
+ Pn:    Tongan         | āu lalo |         ‘low-lying land’ (lalo ‘place lower down’)
  Pn:    Samoan          lau              ‘level area of land, plain’
  Pn:    Samoan          lau(fanua)       ‘flat land’
  Pn:   Tikopia          rau-rau          ‘flat expanse’
- Pn:   Tikopia          rau raro         ‘lowland in vicinity of shore’ (lalo LOC ‘down, below’)
+ Pn:   Tikopia         | rau raro |        ‘lowland in vicinity of shore’ (lalo LOC ‘down, below’)
 >
 
 3.5 Land defined by vegetation
@@ -2813,7 +2813,7 @@ POc *qutan ‘bushland, hinterland’ (vol. 1, p.118)
  NCV: SE Ambrym ut                       ‘place, area, land, shore, island, homeland, weather’
  NCV: Paamese          ut                ‘shore, when contrasted with sea’
  NCal: Nemi            kuc               ‘forest’
- Mic:   Kosraean         w¡t             ‘area inland or towards the mountains’
+ Mic:   Kosraean         wʌt             ‘area inland or towards the mountains’
  Fij:   Rotuman          ufa             ‘land (from the sea); interior (from the coast)’
  Pn:    Tongan           ʔuta            ‘land (not sea); interior or inland (not coast)’
  Pn:    Niuean           uta             ‘inland, shore, ashore’
@@ -2846,11 +2846,12 @@ distinct terms at the time of POc or a little later, albeit with a possible comm
 <
     The next POc reconstruction contrasts with *quma ‘garden, cultivated land’ (vol. 1,
 p.117)
+
 PMP *talun ‘fallow land’ (Dempwolff 1938)
 POc *talu(n) ‘old garden, fallow land, land returning to secondary growth’ (vol. 1, p.118)
  SES: Gela              talu             ‘forest land which has been previously cultivated’
  SES: Kwaio             alu              ‘garden of second or third crop’
- SES: Kwaio             alu (sīsī)       ‘an old garden plot returning to secondary growth, beginning to be overgrown’
+ SES: Kwaio            | alu (sīsī) |      ‘an old garden plot returning to secondary growth, beginning to be overgrown’
  SES: Lau               alu              ‘garden ground, last year’s garden’
  SES: Sa’a              elu              ‘last year’s yam garden’
  SES: Arosi             aru              ‘an overgrown garden; land formerly used for a garden; a dug garden’
@@ -2958,11 +2959,11 @@ gardens.
 PEOc *bʷela ‘taro swamp’
  SES: Kwaio           gʷele-gʷele(na) ‘bottom of taro corm’
  SES: Arosi           bʷera           ‘swamp’
- NCal: Cèmuhî         bʷ İlİ         ‘irrigated taro field’
+ NCal: Cèmuhî         bʷɛ̄lɛ̄         ‘irrigated taro field’
  NCal: Pwapwâ         gʷala           ‘irrigated taro field’
  Mic: Mokilese        pʷɛl            ‘taro swamp’
  Mic: Puluwatese      pʷə̄l           ‘swamp garden’
- Mic: Ponapean        (lİ)pʷ ɛl       ‘taro patch, bog; large swamp’
+ Mic: Ponapean        (lɛ̄)pʷɛl       ‘taro patch, bog; large swamp’
  Pn:   Rennellese     pega            ‘mud, mud puddle, swamp’
  Pn:      Tikopia            pera               ‘mud; swampy lake shore land in which taro planted’
  Pn:      W Futunan          pera               ‘mud, mire’
@@ -3109,6 +3110,7 @@ POc *topu(R), *tupu(R) ‘freshwater spring on the beach, often brackish’
                                                                       The landscape    61
 
 
+<
    Polynesian languages have a well-attested term for ‘spring’ which continues a PMP
 form meaning ‘source’. Curiously, no reflexes have been found in other Oceanic
 languages.
@@ -3129,7 +3131,8 @@ PPn *puna (N) ‘a spring’; (V) ‘bubble or well up (of water)’
  Pn:   Maori              puna           ‘spring, well up, flow’
  Pn:   Tuamotuan          puna           ‘spring, well up, flow’
  Pn:   Hawaiian           puna           ‘spring (of water)’
-
+>
+<
    The next reconstruction, in its simple form *pura(q), was primarily a verb ‘bubble up’.
 Its reduplicated form may have served as a noun denoting a spring as it does in several
 Southeast Solomonic witnesses and in Bauan Fijian. Among several similar forms (see
@@ -3142,18 +3145,18 @@ POc *pura(q), *pura-pura(q) (V) ‘bubble up, as spring of water’, (N) ‘spri
  Adm: Mussau            ula-ula        ‘bubble up’
  PT:    Kiriwina        ūla            ‘source’
  SES: Gela              vura           ‘bubble up’
-                        vuraɣa ni beti (N) ‘spring’ (beti ‘water’)
+ SES: Gela              vuraɣa ni beti (N) ‘spring’ (beti ‘water’)
  SES: Tolo              vura-vura(na) ‘fountain, spring of water’
  SES: Longgu            vula-vula      ‘spring’
  SES: Kwaio             fula-fula      ‘spring of water’
  SES: Arosi              hura              ‘(water from a spring) gush out’
-                         hura-hura         ‘a spring’
+ SES: Arosi              hura-hura         ‘a spring’
  NCV: Mota               vura              ‘(water) spring forth, rise up’
-                         vuro              ‘volcanic vent, hot spring’
+ NCV: Mota               vuro              ‘volcanic vent, hot spring’
  Fij:     Bauan          vure              ‘(water) spring up’
-                         i-vure-vure       ‘a spring, source of water’
- Fij:     Wayan          vure              (V) ‘spring up, well up’; (N) (i) ‘spring’;
-                                             (ii) ‘source of things’
+ Fij:     Bauan          i-vure-vure       ‘a spring, source of water’
+ Fij:     Wayan          vure              (V) ‘spring up, well up’; (N) (i) ‘spring’; (ii) ‘source of things’
+>
 
 62      Meredith Osmond, Andrew Pawley and Malcolm Ross
 
@@ -3168,6 +3171,7 @@ POc *mata waiR ‘spring of water, source of a river’
  Fij: Wayan           mata ni wai
  Pn:  Tongan          mata-vai
  Pn:  Samoan          mata-vai
+
 Other compounds retaining reflexes of POc *mata ‘eye’ but varying in their term for
 ‘water’ include the following:
  NNG: Kaulong            eki maran
@@ -3179,6 +3183,7 @@ Other compounds retaining reflexes of POc *mata ‘eye’ but varying in their t
 
 3.6.3 Waterfall
 
+<
   The following reconstruction, POc *sa[p,b]u(q), is used both as a verb ‘fall, trickle
 down, of water’ and a noun ‘waterfall’.
 
@@ -3192,16 +3197,19 @@ POc *sa[p,b]u(q) (N) ‘waterfall’, (V) ‘(water) fall’
  Pn:   Tongan           hafu              ‘trickle down; small waterfall’
  Pn:   Rennellese       sahu              ‘to drip, flow, as water or blood’
  Pn:   Samoan           āfu               ‘waterfall’
+>
                                                                         The landscape     63
 
+<
    POc *tape has been reconstructed in Chapter 4 as both a noun and verb meaning ‘flow’,
 with reference to ocean currents. However, it is also reconstructable, possibly reduplicated,
 with the meaning ‘waterfall’.
+
 POc *tape-tape ‘waterfall; flow’
  Adm: Lou              tapet              ‘waterfall’
  PT:    Tawala         tapa-tapana        ‘waterfall/rapids’
  MM: Tolai             tavit              (VI) ‘to run, of water’ (tava ‘water’)
-
+>
 
 3.7 Mineral substances (stone, obsidian, lime, pumice, sand, earth, salt)
 
@@ -3216,6 +3224,7 @@ millennium BC (Kirch 1997, Spriggs 1997, Summerhayes 2000a).
 
   The generic term for ‘stone’ or ‘rock’ was POc *patu.
 
+<
 PAn *batu ‘stone’ (Blust 1999)
 POc *patu ‘stone, rock’
  Adm: Mussau            atu               ‘stone, rock’
@@ -3255,10 +3264,12 @@ POc *patu ‘stone, rock’
  Pn:   Mele-Fila         fatu             ‘stone, rock’
  Pn:   Maori             atu             ‘stone, rock’
  Pn:   Hawaiian          haku             ‘stone, rock’
+>
 
 64   Meredith Osmond, Andrew Pawley and Malcolm Ross
 
 
+<
    The form below is a reduplication of POc *maga ‘stone; slingshot’ (vol. 1, p.227). It
 probably referred to gravel or pebbles, as its reflexes do in Polynesian and Micronesian
 languages. Western Oceanic cognates show a semantic shift to ‘sand’.
@@ -3276,13 +3287,14 @@ POc *maga-maga ‘small stones, pebbles, gravel’
  Mic: Sonsorolese    (fatü)maka        ‘gravel, pebble’
  Pn:   Tongan        maka-maka         ‘little stones, pebbles’
  Pn:   Samoan        maʔa-maʔa         ‘small stones, pebbles’
-
+>
 
 3.7.2 Flint, obsidian
 
   Two reconstructions for obsidian were proposed in volume 1 (p.93), one at POc level
 and one at PWOc. They are:
 
+<
 POc *na[d,dr]i ‘flint, obsidian, stone with a cutting edge’
  NNG: Takia              nad               ‘obsidian, volcanic glass’
  PT:   Motu              nadi              ‘stone’
@@ -3291,6 +3303,8 @@ POc *na[d,dr]i ‘flint, obsidian, stone with a cutting edge’
  SES:    Bugotu          nadi              ‘flint’
  SES:    Lau             (fou)nagi         ‘flint’
  SES:    Arosi           nagi              ‘flint, obsidian’
+>
+<
 PWOc *qa[r,R]iŋ ‘obsidian’
  NNG: Kove            ali-ali              ‘obsidian’
  NNG: Lusi            ali-ali              ‘obsidian’
@@ -3299,6 +3313,7 @@ PWOc *qa[r,R]iŋ ‘obsidian’
  PT:  Sudest          kayina               ‘knife’
  MM: Nakanai          hali                 ‘obsidian, razor, formerly made from obsidian’
  MM: Meramera         ali                  ‘obsidian’
+>
 
                                                                             The landscape   65
 
@@ -3313,6 +3328,7 @@ are included in Chapter 4, §3.1.
    Dead coral was evidently valued as coral rubble (POc *giri-giri), and as a source of the
 lime (POc *qapu(R)), taken with betelnut.
 
+<
 POc *giri-giri ‘coral, coral rubble’
  PT:    Motu              giri-giri        ‘coral’
  PT:    Iduna             gili-gili        ‘coral’
@@ -3326,7 +3342,8 @@ POc *giri-giri ‘coral, coral rubble’
  Pn:    Samoan            ʔili-ʔili        ‘gravel’
  Pn:    Maori             kiri-kiri        ‘gravel’
  Pn:    Hawaiian          ʔili-ʔili        ‘pebble’
-
+>
+<
 The chewing of betelnut, combined with lime and pepper as a stimulant, is widespread in
 northwest Melanesia and the Solomons, but is not practised further east. Lime could be
 obtained by burning shells as well as coral.
@@ -3344,19 +3361,20 @@ POc *qapu(R) ‘lime, burnt coral or limestone’
  PT:  Roro              abu                ‘lime, burnt coral or limestone’
  PT:  Motu              ahu                ‘lime, burnt coral or limestone’
  MM: Bali               kavu               ‘betel lime’ (k for ɣ unexpected)
- MM: Nakanai            havu               ‘lime for chewing with areca nut,
-                                              made from clam shell’
+ MM: Nakanai            havu               ‘lime for chewing with areca nut, made from clam shell’
  SES:   Gela            avu                ‘lime holder; slaked lime’
  SES:   Lau             safu               ‘lime, burnt coral or limestone’
  SES:   ’Are’are        sahu               ‘lime, burnt coral or limestone’
  SES:   Arosi           ahu                ‘lime; branching coral’
  SES:   Bauro           ahu                ‘lime, burnt coral or limestone’
+>
 
 66   Meredith Osmond, Andrew Pawley and Malcolm Ross
 
 
 3.7.4 Pumice
 
+<
   Pumice is a porous solidified lava that floats and is also useful as an abrasive. A
 compound term reflecting POc *patu + maqañur (‘stone’ + ‘float’) is reconstructable for
 
@@ -3367,10 +3385,12 @@ PEOc *patu maqañur ‘pumice’ (lit. ‘floating stone’)
  SES: Lau           fou manu-manu         ‘pumice’
  SES: Arosi         hau manu-manu ‘pumice’
  Pn:   Tikopia      fatu manu             ‘pumice’
+>
 
 Other compound terms include Roviana (MM) patu ale and Gela (SES) vatu ali, exhibiting
 reflexes of POc *qaliR ‘drift, float’ rather than POc *maqañur ‘floating, adrift’.
 
+<
    Proto Micronesian had its own term for pumice, probably preposed by *fatu ‘stone’.
 
 PMic *(fatu) wāni ‘pumice’ (Marck 1994)
@@ -3379,7 +3399,9 @@ PMic *(fatu) wāni ‘pumice’ (Marck 1994)
  Mic: Mokilese         wİn             ‘pumice’
  Mic: Satawalese       (wu)wan          ‘pumice’
  Mic: Woleaian         (u)wāri          ‘lava rock’
+>
 
+<
  A distinctive term, PCP *vuqa(i)ŋa, is reflected in Fijian and Polynesian. This term also
 referred to grindstones, reflecting the use of pumice as an abrasive.
 
@@ -3388,19 +3410,20 @@ PCP *vuqa(i)ŋa ‘pumice; whetstone, grindstone’ (vol. 1, p.94)
                                            coconut-shell cups’
  Pn:   Tongan         fuʔo-fuʔaŋa        ‘pumice’
  Pn:   E Futunan      fuʔaŋa             ‘grindstone, whetstone’
-                                                                     The landscape    67
-
  Pn:    Tikopia        fuaŋa           ‘whetstone’
  Pn:    Mele-Fila      foaŋa           ‘pumice’
  Pn:    Mangareva      hoaŋa           ‘volcanic stone used as hone or sharpener’
  Pn:    Maori          hōaŋa           ‘sandstone used in grinding stone’
+>
+                                                                     The landscape    67
 
 
 3.7.5 Sand
 
+<
   There is a well-attested POc term for ‘sand’ which continues a PAn etymon (see also
-
 POc *nuku ‘sandy ground’, p.45).
+
 PAn *qenay ‘sand’ (ACD)
 POc *qone ‘sand, sandy beach’ (ACD)
  Adm: Lou              kone            ‘sand, beach’
@@ -3430,11 +3453,12 @@ POc *qone ‘sand, sandy beach’ (ACD)
  Pn:    Rarotongan     one             ‘general name for soil, earth, sand, gravel’
  Pn:    Maori          one             ‘beach; sand, mud; in various names for different kinds of soil’
  Pn:    Hawaiian       one             ‘sand; sandy; silt; poetic name for land’
+>
+68     Meredith Osmond, Andrew Pawley and Malcolm Ross
 
+<
 A reduplicated form of the above can also be reconstructed. This may have denoted the
 property ‘sandy’ as well as ‘sand’.
-
-68     Meredith Osmond, Andrew Pawley and Malcolm Ross
 
 PMP *qenay qenay ‘sandy’ (ACD)
 POc *qone qone ‘sand, sandy’
@@ -3450,7 +3474,7 @@ POc *qone qone ‘sand, sandy’
  Pn:     Tikopia          one-one            ‘sandy; sand-coloured’
  Pn:     Rarotongan       one-one            ‘sandy, dirty, gritty’
  Pn:     Maori            one-one            ‘earth, soil; land’
-
+>
 
 3.7.6 Earth, soil
 
@@ -3465,6 +3489,7 @@ reconstruct terms. Teeth-blackening was practised among Western Oceanic speakers
 (PWOc *tapal ‘substance used to blacken teeth’; vol. 1, p.101), but it is unclear from the
 literature whether the substance was mineral or vegetable matter .
 
+<
 POc *pway(a) ‘soil, earth’
  Adm: Titan              pwa(ñ)              ‘ground, down, land’
  NNG: Poeng              pae                 ‘soil used to blacken teeth’
@@ -3477,10 +3502,13 @@ POc *pway(a) ‘soil, earth’
 In the cognate set above, final -a is reflected only in PT languages, where it is often added
 after a POc final consonant. It is thus unclear whether *y was final in this POc item. The
 Titan final -ñ and Sa’a final -nā are also not understood.
+>
 
+                                                                        The landscape    69
+
+<
    There is also a POc form, *pwiRa, whose reflexes are, geographically, apparently in
 complementary distribution with the above set.
-                                                                        The landscape    69
 
 POc *pwiRa ‘earth’
  NNG: Numbami            puta
@@ -3494,24 +3522,25 @@ POc *pwiRa ‘earth’
  MM: Lamasong            pua
  MM: Barok               pu
  Fij:  Rotuman           pera             ‘earth, soil’ (Schmidt)
-
+>
+<
 Central Pacific shows an innovation in replacing *tano(q) with gwele.
 
 PCP *gwele ‘earth, soil’
  Fij:  Bauan             gele             ‘earth, soil’
  Fij:  Wayan             gwele            ‘earth’
  Pn:   Niuean            kele-kele        ‘earth, soil’
-                         kele             ‘to be dirty, muddy; residue’
- Pn:   Tongan            kele             ‘mud, dirt or clay, in water or left behind
-                                            as a sediment’
-                         kele-kele        ‘land, soil, dirt, earth, ground’
+ Pn:   Niuean            kele             ‘to be dirty, muddy; residue’
+ Pn:   Tongan            kele             ‘mud, dirt or clay, in water or left behind as a sediment’
+ Pn:   Tongan            kele-kele        ‘land, soil, dirt, earth, ground’
  Pn:    E Futunan        kele             ‘earth’
  Pn:    Rennellese       kege             ‘earth, ground, dirt, land, soil, world’
  Pn:    Samoan           ʔele             ‘k.o. compact brown or red soil or stone’
-                         ʔele-ʔele        ‘earth, soil’
+ Pn:    Samoan           ʔele-ʔele        ‘earth, soil’
  Pn:    Tikopia          kere             ‘earth, ground, soil; ritual uncleanliness’
-                         kere-kere        ‘soiled, muddy’
+ Pn:    Tikopia          kere-kere        ‘soiled, muddy’
  Pn:    Maori            kere-            ‘earth (in compounds only)’
+>
 
 Another cognate set may share ancestry with PCP *gwele. It includes Dami (NNG) gele
 ‘swamp, soft ground’, certain Papuan Tip terms for ‘beach, sand’ (Wagawaga gele-gele
@@ -3523,6 +3552,9 @@ Sisiqa, Babatana ke-kele). In this case PCP *gw- would be an irregular reflex (f
 
 3.7.7 Clay
 
+70   Meredith Osmond, Andrew Pawley and Malcolm Ross
+
+<
    Clay was used in pot manufacture, which was practised by POc speakers (see vol. 1,
 pp.67–71). Although non-Oceanic cognates of POc *raRo(q) refer to ground or earth, e.g.
 Formosan Bunun dalaq ‘ground (earth, land, place, soil)’; WMP Ilocano daga ‘earth, land,
@@ -3530,7 +3562,6 @@ soil’, and CMP Buru rahe ‘ground’, we can infer that in POc, *raRo(q) refe
 specifically to ‘clay’. In NNG and Papuan Tip witnesses, reflexes refer to clay. Meso-
 Melanesian reflexes refer to clay cooking pots, but not, apparently, to the clay itself. New
 Caledonian reflexes refer to both clay and pots.
-70   Meredith Osmond, Andrew Pawley and Malcolm Ross
 
 PAn *daReq ‘soil, clay’
 POc *raRo(q) ‘clay; cooking pot’ (Milke 1965, Ross 1996d gloss ‘clay’ only)
@@ -3542,10 +3573,11 @@ POc *raRo(q) ‘clay; cooking pot’ (Milke 1965, Ross 1996d gloss ‘clay’ on
  MM: Roviana            raro            ‘pot, cooking vessel’
  NCal: Yuanga           d̙ō             ‘soil, clay; cooking pot’
  NCal: Nyelâyu          dō              ‘soil, earth; cooking pot’
-
+>
 
 3.7.8 Salt
 
+<
    POc *maqasin seems to have been both a stative verb meaning ‘be salty’ (vol. 1, p.159)
 and a noun meaning ‘salt’. Its PMP antecedent *ma-qasin, however, was purely a stative
 verb meaning ‘be salty’, derived from the noun *qasin ‘salty taste, salt’ (ACD). Like a
@@ -3569,13 +3601,15 @@ POc *maqasin (V) ‘be salty’, (N) ‘salt’
  Pn:   Samoan          māsi(ma)         ‘salt’ (origin of -ma unknown)
  Pn:   Samoan          masi             ‘k.o. food made with breadfruit fermented in pit’
  Pn:   Tahitian        mahi             ‘acid, fermented, breadfruit preserved by fermenting’
+>
+                                                                          The landscape     71
 
+<
    PAn *qasiRa ‘salt’ has Oceanic reflexes. Despite the formal resemblance to PAn
 *qasiN/PMP *qasin ‘salt’, the supporting data in the ACD show clearly that these are
 distinct etyma. Blust (ACD) interprets the SES reflexes as reflexes of *tasik ‘sea’ (see Ch.4,
 §2.1) with an added suffix -la, but it seems far more likely that they reflect POc *qasiRa
 ‘salt’.
-                                                                          The landscape     71
 
 PAn *qasiRa ‘salt’ (ACD)
 POc *qasiRa ‘salt’
@@ -3583,7 +3617,7 @@ POc *qasiRa ‘salt’
  SES: Lau              asila               ‘salt’
  SES: Kwaio            asila               ‘salt’
  NCV: Lewo             sī                  ‘salt’
-
+>
 
 3.8 Fire
 
@@ -3642,7 +3676,8 @@ completely’.
 
 3.8.1 Fire
 
-     The PAn name for fire,*Sapuy, is among the more stable terms in the lexicon.
+<
+     The PAn name for fire, *Sapuy, is among the more stable terms in the lexicon.
 
 PAn *Sapuy ‘fire’ (ACD)
 POc *api ‘fire’
@@ -3662,10 +3697,11 @@ POc *api ‘fire’
 In some Oceanic languages reflexes of POc *api are also used as a verb meaning ‘be on
 fire, burn’. However, this does not appear to have been the case in POc. There are stronger
 candidates for the verbal meaning (see §8.3 below).
-
+>
 
 3.8.2 Stages of reduction of wood by burning
 
+<
     Blust (ACD) reconstructs PMP *luten ‘firewood’ based on WMP: LongWat luten ‘fire’,
 Kayan luten ‘firebrand, partly burnt stick’, Bisaya Bukit luton ‘burning brand’, CMP:
 Tetum haʔi lutan ‘burning brand’, SHWNG Sawai luten ‘fire’, Oceanic: Mota lito
@@ -3691,9 +3727,11 @@ PEO *lito ‘(?) firebrand’
  NNG: Tami                kalit           ‘ashes’ (indicating earlier *(q,k)alitV)
  NNG: Dami                galit           ‘embers’
  NNG: Ulau-Suain          yalit           ‘grey ash’
+>
 
                                                                         The landscape     73
 
+<
    It appears that most Oceanic languages use a single term to refer to both ‘hot coals’ and
 ‘embers’. At any rate most dictionaries of Oceanic languages do not record such a
 distinction. POc *koran appears to have been used both as a noun denoting ‘fragments of
@@ -3709,6 +3747,7 @@ POC *koran (N) ‘(?) embers, glowing coals’, (V) ‘(?) burn brightly’
  SES: Ulawa           ora              (i) ‘ashes’; (ii) ‘to flame, burn brightly’
  SES: Arosi           ʔora, ʔora-ʔora ‘blaze’
  Pn:   Maori          kora             (N) ‘spark; fire, fuel’, (V) ‘gleam’
+>
 
 PMP *baRah ‘live coal’ may be reconstructed from, e.g. Tagalog baga, Malay bara,
 Ngadju-Dayak barah ‘live coal’. This is possibly continued in Ramoaaina para ‘bake on
@@ -3717,13 +3756,13 @@ but the meaning differences leave a question. There is already a distinct, well-
 POc reconstruction for ‘cook over an open fire, roast over embers’, namely *tunu (vol. 1,
 pp.293–294).
 
+74   Meredith Osmond, Andrew Pawley and Malcolm Ross
+
+<
    The following cognate set is tentatively attributed to a POc etymon glossed ‘low-
 burning remnants of a fire’. The Meso-Melanesian reflexes suggest ‘ash’ or ‘charcoal’.
 However, the meaning ‘ash’ can be eliminated because there are much stronger candidates
-for this. The partial agreement between Tolai, Wayan Fijian and Gela points to low-
-burning residue of some sort.
-74   Meredith Osmond, Andrew Pawley and Malcolm Ross
-
+for this. The partial agreement between Tolai, Wayan Fijian and Gela points to low-burning residue of some sort.
 
 POc *kapuru ‘low-burning remnants of a fire’
  MM: Vitu             ɣabulo           ‘grey ash’
@@ -3739,7 +3778,8 @@ POc *kapuru ‘low-burning remnants of a fire’
  SES: Gela            ko-kovuru        ‘soot’
  SES: Bugotu          kou-kovuru       ‘ember’
  Fij:  Wayan          kavuru           ‘burning end of piece of wood’
-
+>
+<
    Charcoal is likely to have been distinctively named in Proto Oceanic. Carbonised wood
 was widely used in Pacific Island communities for drawing marks or, pounded and mixed
 with oil and water, for smearing on the skin. PMP *uRiŋ ‘charcoal, wood that is charred
@@ -3765,7 +3805,7 @@ PEO *malala ‘charcoal, charred wood’; ‘(?) coals, embers’
  MM: Vangunu           ŋgalala          ‘flame’
  MM: Babatana          ŋgala            ‘flame’
  Fij:    Rotuman       mahala           ‘cinders, charcoal’
-
+>
    POc used at least two terms to denote ashes. These had distinct but overlapping
 meanings. It appears that *rapu(R) referred specifically to ‘ashes of a fire’; the same term
 was also used for ‘hearth, fireplace’. A second term, *qapu or *kapu, denoted ‘ash, dust,
@@ -3776,6 +3816,7 @@ second term may also have been applied to volcanic ash and cinders. Several Ocea
 languages reflect both *rapu(R) and a reduplicated form *rapu-rapu(R); but the
 dictionaries generally specify no difference in meaning between reflexes of the two.
 
+<
 PAn, PMP *dapuR ‘hearth, fireplace’
 POc *rapu(R) (i) ‘ashes’; (ii) ‘fireplace, hearth’, *rapu-rapu(R) ‘ashes’
  PT:   Motu             rahu-rahu           (i) ‘ashes’; (ii) ‘fireplace’
@@ -3783,18 +3824,19 @@ POc *rapu(R) (i) ‘ashes’; (ii) ‘fireplace, hearth’, *rapu-rapu(R) ‘ash
  SES: Longgu            ravu                ‘ashes’
  SES Arosi              rahu(-na)           ‘ashes’
  Fij:  Bauan            dravu               ‘ashes, slacked lime’
-                        dravu(sā)           ‘ashes of wood’
-                        (mata)dravu         ‘fireplace, hearth’
+ Fij:  Bauan            dravu(sā)           ‘ashes of wood’
+ Fij:  Bauan            (mata)dravu         ‘fireplace, hearth’
  Fij:  Wayan            ravu                ‘ashes’
 PPn *refu, *refurefu ‘ashes’
  Pn:    Tongan           efu-efu          ‘ashes’
  Pn:    Niuean           efu              ‘ash’
-                         efu-efu          ‘ashes’
+ Pn:    Niuean           efu-efu          ‘ashes’
  Pn:    Samoan           lefu-lefu        ‘ashes’
  Pn:    Maori            rehu             ‘fine dust, haze, mist, spray
-                         (puŋa)rehu       ‘ashes’
-                         (ŋa)rahu         ‘charcoal; any black pigment; cinders’
-
+ Pn:    Maori            (puŋa)rehu       ‘ashes’
+ Pn:    Maori            (ŋa)rahu         ‘charcoal; any black pigment; cinders’
+>
+<
 Blust (ACD) attributes, to varying Austronesian interstages, a number of fairly similar
 forms whose gloss includes one or more of the following: ‘ash’, ‘dust’, ‘cinders’,
 ‘powder’. These forms include PAn *qabu ‘ash, cinders, powder’, PMP *abus ‘ashes’,
@@ -3818,9 +3860,10 @@ POc *qapu ‘ashes, dust’
  Pn:   Tongan           efu               ‘dust’
  Pn:   Samoan           efu-efu           ‘dust’
  Pn:   Hawaiian         ehu               ‘dust’
+>
 76   Meredith Osmond, Andrew Pawley and Malcolm Ross
 
-
+<
 However, many Western Oceanic languages have forms that point to a form *kapu
 meaning ‘ash, dust’, with initial *k rather than *q.
 
@@ -3832,7 +3875,7 @@ PWOc *kapu ‘ash, dust, cinders’
  PT:  Motu              kahu                 ‘ashes’
  PT:  Hula              kavu                 ‘ashes’
  PT:  Dobu              kau                  ‘dust’
-                        (kari)kau            ‘ashes’
+ PT:  Dobu              (kari)kau            ‘ashes’
  MM: Tolai              kabu                 ‘dust, ashes, cinders’
  MM: Sisiqa             kau                  ‘ashes’
  MM: Babatana           kau                  ‘dust’
@@ -3845,6 +3888,7 @@ languages all show an unexpected fortis reflex of *k rather than the usual lenis
 possible explanation for this is that, at some stage, perhaps in PWOc, reflexes of POc
 *qapu were contaminated by association with reflexes of POc *(g,k)abu ‘burn, firewood’
 (see §8.3 below).
+>
 
     In some Oceanic languages reflexes of POc *qapu ‘ashes, dust’ fell together formally
 with reflexes of *qapu(R) ‘lime’ (see §7.3 above). Because lime is a powdery substance
@@ -3858,6 +3902,7 @@ meaning may have been regarded as related to ‘dust’ and ‘ashes’.
    A number of terms for the general process of burning or being on fire can be
 reconstructed.
 
+<
 POc *(k,g)abu (V) ‘burn, be on fire’, (N) ‘(?) firewood’
  NNG: Wab                gabu                ‘smoke’
  PT:    Motu             gabu-(a)            ‘burn’
@@ -3870,16 +3915,17 @@ POc *(k,g)abu (V) ‘burn, be on fire’, (N) ‘(?) firewood’
  NCV: Sesake             (na)kapu            ‘fire, firewood’
  SV: Kwamera             (N)apw              ‘fire’
  SV: Anejom              (N)ɣap  w           ‘fire’
-                                                                          The landscape   77
-
  cf. also:
  NNG: Dami             kau                ‘smoke’
  MM: Tolai             kabu               ‘ashes, cinders’
  Fij: Bauan            buka               ‘firewood’ (? metathesis)
+>
+                                                                          The landscape   77
+
+<
 POc *bula ‘(?) burn, be alight’, PEOc *bula ‘burn, be on fire, in flames’
  NNG: Manam            bula             (V) ‘light (a fire)’
- Mic: Puluwatese pwil                   (V) ‘burn, be lighted, in flames’
-                                        (N) ‘flame’
+ Mic: Puluwatese pwil                   (V) ‘burn, be lighted, in flames’ (N) ‘flame’
  Mic: Woleaian           w
                        p ura            ‘burn, light up
                          w   w
@@ -3887,31 +3933,33 @@ POc *bula ‘(?) burn, be alight’, PEOc *bula ‘burn, be on fire, in flames�
  Fij:    Bauan         bula             (V) ‘be on fire, burn’
  Fij:    Wayan         bula             (V) ‘be on fire, burn’, (N) ‘conflagration’
                        bula-ni-a        ‘burn s.t., set s.t. ablaze’
- Fij:    Rotuman       pula             (V) ‘catch alight, burn, flare up suddenly’,
-                                        (N) ‘flame, (lightning) flash’
+ Fij:    Rotuman       pula             (V) ‘catch alight, burn, flare up suddenly’; (N) ‘flame, (lightning) flash’
  cf. also:
 PPn *mula ‘burst into flame’
  Pn:   Niuean           mumula            ‘flare up’
  Pn:   Maori            mura              ‘flame, blaze’
-                        mura-mura         ‘burst into flame’
+ Pn:   Maori            mura-mura         ‘burst into flame’
  Pn:   Rarotongan mura                    ‘burn, glow, flame; show red’
 PPn *pula ‘shine, glow’
  Pn:   Niuean         pula                ‘shine, glow (of new moon)’
  Pn:   Samoan         pula                ‘shine, glow’
-                      pupula              ‘shine, glow’
-
+ Pn:   Samoan         pupula              ‘shine, glow’
+>
+<
 POc *udra ‘be on fire, alight, flaming’
  MM: Torau             uda                ‘fire’
  Mic: Kiribati         ura                (i) ‘flame’; (ii) ‘passion’
-                       ura maka           ‘flaming, blazing’
+ Mic: Kiribati         ura maka           ‘flaming, blazing’
  Fij:  Bauan           (ða)udre           ‘alight, burning, flaming’
-                       (ða)udra(-va)      ‘set s.t. alight’
+ Fij:  Bauan           (ða)udra(-va)      ‘set s.t. alight’
  Fij:  Wayan           udre               ‘alight, burning’
 PPn *ula ‘burn brightly’
  Pn:    Tongan         ulo                ‘burn, be alight, catch fire; shine’
  Pn:    Rennellese     uga                (V) ‘flame; shine, flash; be very red’
  Pn:    Luangiua       ula                ‘flame’
  Pn:    Tikopia        ura                (V) ‘blaze, flame, burn brightly, glow’
+>
+
 78   Meredith Osmond, Andrew Pawley and Malcolm Ross
 
 3.8.4 Emissions from burning materials: smoke, vapour, flames, light
@@ -3919,6 +3967,7 @@ PPn *ula ‘burn brightly’
    POc, like some of its daughter languages, seems to have distinct terms for smoke as a
 thing (*qasu) and the process of emitting smoke or vapour (*kupu(k)).
 
+<
 PMP *qasu ‘smoke’
 POc *qasu ‘smoke’
  Adm: Mussau               asu
@@ -3942,7 +3991,8 @@ POc *qasu ‘smoke’
  Pn:   Samoan              asu
  Pn:   Maori               au, au-ahi
  Pn:   Rarotongan          au
-
+>
+<
    In the following cognate set, Polynesian languages show unexpected o for *u in the first
 syllable.
 
@@ -3959,25 +4009,27 @@ POc *kupu(k) (V) ‘emit smoke or steam’
 PPn *kofu (V)‘emit smoke’, (N) ‘(?) smoke’
  Pn:    Tongan           kofu             ‘emit smoke’
  Pn:    Rennellese       kohu             ‘emit smoke or steam’
-                                                                           The landscape      79
-
  Pn:     Sikaiana         (au)kohu          (N) ‘smoke’
  Pn:     Tikopia          kofu              ‘emit smoke’
  Pn:     Anutan           ko-kopu           (N) ‘smoke’
+>
+                                                                           The landscape      79
 
+<
    PCP *kobulu, possibly meaning ‘thick smoke or cloud’ is indicated by reflexes in Fijian
 and Maori. The existence of a probable cognate in Javanese kəbul ‘smoke’ allows the
 tentative reconstruction of PMP *kəbul, POc *kobul(u) ‘smoke’.
 
 PCP *kobulu ‘(?) thick smoke, heavy cloud’
- Fij:    Bauan          kubou           (N) ‘smoke’ (metathesis and irregular loss
-                                           of l in context oū)
+ Fij:    Bauan          kubou           (N) ‘smoke’ (metathesis and irregular loss of _l_ in context _oū_)
  Fij:    Wayan          kōbulu          (N) ‘smoke’
  Pn:     Maori          kōpuru          (i) ‘heavy passing clouds’; (ii) ‘fusty, mouldy’
  cf. also:
  MM: Ughele             ɣambuzu         ‘smoke’
  NCal: Ajie             kemnru          ‘fire’
+>
 
+<
    Widely scattered languages use a reflex of POc *maya ‘tongue’ (either alone, or in a
 compound meaning ‘tongue of fire’) to refer to flames. Given that ‘flame’ is a natural
 metaphorical extension of ‘tongue’ it is difficult to know whether *maya had this
@@ -3993,12 +4045,15 @@ POc (?) *maya (ni api) ‘flame’ (N) (lit. ‘tongue’ or ‘tongue of fire�
  SV: Sye             (nelwa)me                        ‘tongue, flame’
  SV: Anejom          (nalua)me                        ‘flame’
  Fij:   Bauan        yame-yame (ni buka)              ‘flame’
-Compare also the following, where there is semantic correspondence even though one or
+cf. also: the following, where there is semantic correspondence even though one or
 more of the elements does not reflect the POc forms:
  PT:    Kiriwina        mayela kova        ‘flames’ (‘tongues of fire’)
  NNG: Takia             yai bale-na        ‘flame’ (‘tongue of fire’)
  NNG: Mapos Buang daɣen                    (i) ‘tongue’; (ii) ‘flame’
  SV: Kwamera            nəami napw         ‘flame’ (‘tongue of fire’)
+>
+
+<
 POc *puruŋ, *puru-puruŋ ‘(?) glow or flame of fire’
  NNG: Adzera          bururuŋ           ‘burn, be on fire’
  PT:   Motu           hururu            ‘blaze’
@@ -4006,46 +4061,56 @@ POc *puruŋ, *puru-puruŋ ‘(?) glow or flame of fire’
  MM: Tolai            puluŋ             ‘flame’
  MM: Kia              buruŋu            ‘sparks’
  MM: Ghanongga        vuru-vuruŋu       ‘flame’
-80   Meredith Osmond, Andrew Pawley and Malcolm Ross
-
  SES:   Talise          vuru              ‘burn’
  SES:   Malagheti       vuru              ‘burn’
  Pn:    Maori           huru              (V & N) ‘glow’
                         huru-huru         ‘diffused glow’
+
 Certain Papuan languages of the central and western Solomons show resemblant forms that
 are presumably borrowed from an Oceanic source.
   Papuan: Lavukaleve huluhuluru          ‘flame’
   Papuan: Baniata      vuvuru            ‘flame’
+
+>
+80   Meredith Osmond, Andrew Pawley and Malcolm Ross
+
+
    There are several cognate sets pointing to PEOc forms denoting burning with a
 particular kind of light.
+
+<
 PEOc *maka ‘burn brightly’
  SES: Kwaio           mā                  ‘flame’
  Mic: Kiribati        maka                ‘power, force, ardour’
  Fij:  Bauan          kama                ‘burn’ (metathesis)
-                      maka(liva)          ‘flash upon’ (liva ‘lightning’)
-                      (rā)maka            ‘shining from a distance’
+ Fij:  Bauan          maka(liva)          ‘flash upon’ (liva ‘lightning’)
+ Fij:  Bauan          (rā)maka            ‘shining from a distance’
  Fij:  Wayan          maka                ‘alight with glow, burn without flame’
-                      makalo maka         ‘glowing embers’
+ Fij:  Wayan          makalo maka         ‘glowing embers’
  Pn:   Tahitian       ʔama                ‘burn’ (metathesis)
  cf. also:
  SES: Arosi             maga-raha         ‘glowing coals, live embers’
+>
+<
 PEOc *makalo ‘burn with glow’ (cf. *kalo-kalo ‘glimmer’)
- Mic: Kiribati        mwākaro          ‘embers, live coals, charoal; burning
-                                         without flames’
+ Mic: Kiribati        mwākaro          ‘embers, live coals, charoal; burning without flames’
  Fij:  Wayan          makalo           ‘turn to embers; glow, be red hot’
 PPn: *makala (V) ‘(of fire) crackle and spark’
  Pn:   Tongan            makala           ‘emit sparks with a crackling noise’
  Pn    E Uvean           makala           ‘(of fire) crackle’
  Pn:   Rennellese        makaga           ‘crackle, rattle, rumble’
-                         makago-kago ‘emit sparks, as a fire’
+ Pn:   Rennellese        makago-kago ‘emit sparks, as a fire’
  Pn:   Maori             makaro           ‘be dimly visible’
+>
+<
 PEOc *kalo-kalo ‘glimmer’ (cf. *makalo ‘burn with glow’)
  Mic: Kiribati        -karo-karo       base in 3 words, all meaning ‘glimmer, glow’
  Fij:  Bauan          kalo-kalo        ‘star’
  Pn:   Pukapukan      kalo-kalo(awi) ‘sparks of fire’
  Pn:   Samoan         ʔalo-i-afi       ‘sparks’
-                      ʔalo-ʔalo        ‘(red) flower of Erythrina tree’
+ Pn:   Samoan         ʔalo-ʔalo        ‘(red) flower of Erythrina tree’
  Pn:   Tikopia        kalo-kalo        ‘(red) flower of Erythrina tree’
+>
                                                                         The landscape    81
 
    Although contemporary languages generally have names for ‘soot’, ‘spark’ (V, N), and
@@ -4083,6 +4148,7 @@ volcanic features. A single lower-level reconstruction for ‘volcano’ comes f
 Central Vanuatu, with a possible cognate from North New Guinea which suggests a rather
 tentative POc reconstruction.
 
+<
 POc *banoi ‘volcano’; ‘(?) matter emitted from volcano’
  NNG: Takia             banai            ‘to spring up out of a hole, of liquid’
 PNCV *banoi ‘volcano, volcanic ash’ (Clark 1996)
@@ -4093,9 +4159,12 @@ PNCV *banoi ‘volcano, volcanic ash’ (Clark 1996)
  NCV: Namakura        bane             ‘volcano’
  NCV: Nguna           na-panoi         ‘volcano’
  NCV: SE Ambrym venu                   ‘volcano’
+>
+
 82   Meredith Osmond, Andrew Pawley and Malcolm Ross
                                                                           The landscape     83
 
+<
    The next reconstruction belongs to a set of formally similar items with meanings
 relating to bubbling, frothing and foaming (see *pura(q) on p.60). The semantic change
 evident between the Tolai and Mota glosses may perhaps be explained as transfer of
@@ -4108,6 +4177,7 @@ POc *puro ‘bubble up, boil, as hot spring’
  MM: Tolai             vuru               ‘pumice, volvanic dust, lava’
  SES: Arosi            huro-huro          (V) ‘bubble, boil, be churned up’
  NCV: Mota             vuro               ‘volcanic vent, hot spring’
+>
 
 It is notable that in both cognate sets above, there is a tendency for the glosses to vary from
 one volcanic feature to another.
@@ -4118,23 +4188,25 @@ one volcanic feature to another.
    While the following two cognate sets are presumably related, we cannot unite them into
 a single set.
 
+<
 POc *drike-drike ‘earthquake’
  Adm: Mussau            ruke-ruke          ‘earthquake’
  MM: Tinputz            rik-rik            ‘earthquake’; (V) ‘quake’
  cf. also:
  PT:     Molima          (mwa)niʔi-niʔi    ‘earthquake’
-
+>
+<
 POc *Rike ‘earthquake’
  NNG: Manam            rike                ‘earthquake’
-                       (mwa)rike           (N, V) ‘earthquake, quake’
+ NNG: Manam            (mwa)rike           (N, V) ‘earthquake, quake’
 PPn *mafu-ike ‘earthquake’ (the etymology of mafu- is unknown)
  Pn:   Niuean          mafuike          ‘earthquake’
  Pn:   Tongan          mofuike          ‘earthquake’
  Pn:   Rennellese      mahuike          ‘deity who causes earthquakes’
  Pn:   Samoan          mafuiʔe          ‘earthquake; deity from whom fire was obtained’
  Pn:   E Futunan       mafuike          ‘earthquake’
- Pn:   Maori           mahuika          ‘deity from whom fire was obtained by
-                                          Maaui-tikitiki’
+ Pn:   Maori           mahuika          ‘deity from whom fire was obtained by Maaui-tikitiki’
+>
 
    In several of the following cognate sets, the term for earthquake is closely related to the
 verb meaning ‘to shake’. Some form of onomatopoeic wordplay may explain the similarity
@@ -4143,6 +4215,7 @@ in West New Guinea, both record nuni ‘earthquake’ while Yotafa on the north 
 nioni ‘earthquake’ (Smits & Voorhoeve 1992:34).
 84   Meredith Osmond, Andrew Pawley and Malcolm Ross
 
+<
 PMP *ninih ‘shake, tremble, rock’ (ACD)
 POc *[ni]nir (V) ‘shake, quake’
  NNG: Gedaged           nini            ‘swing, oscillate, shake, rock’
@@ -4151,13 +4224,15 @@ POc *[ni]nir (V) ‘shake, quake’
  MM: Patpatar           ninir           ‘shake, quake’
  Fij:  Bauan            nini            ‘tremble, quake with fear or anger’
  Pn:   Tongan           nini-nini       ‘shiver with cold’
+>
 
 In a number of northwest and southeast Solomons languages, the term for earthquake is
-nunu. PMP *uyuŋ ‘shake; earthquake’ would give POc *iu(ŋ). The actor pivot PMP form
-*ŋ-uyuŋ would give POc *ŋ-iu(ŋ). This may be ancestral to the form niu or ñu ‘to shake,
+nunu. PMP _*uyuŋ_ ‘shake; earthquake’ would give POc _*iu(ŋ)_. The actor pivot PMP form
+_*ŋ-uyuŋ_ would give POc _*ŋ-iu(ŋ)_. This may be ancestral to the form _niu_ or _ñu_ ‘to shake,
 hence ‘an earthquake’, found in two MM languages, Hoava and Roviana, as well as to
-nunu by regular depalatalisation.
+_nunu_ by regular depalatalisation.
 
+<
 PMP *uyuŋ ‘shake; earthquake’ (ACD)
 POc *ŋ-iu(ŋ) (V) ‘shake, quake’; (N) ‘earthquake’
  MM: Halia              nun               ‘earthquake’
@@ -4168,21 +4243,26 @@ POc *ŋ-iu(ŋ) (V) ‘shake, quake’; (N) ‘earthquake’
  SES: ’Are’are          nu-nunu           ‘earthquake’
  SES: Sa’a              nunu              ‘earthquake’
  SES: Kwaio             nunu              ‘earthquake’
+>
+<
 PSS *añu (V) ‘shake’, *añu-añu (N) ‘earthquake’
  SES: Gela              anu              ‘shake’
-                        anu-anu          ‘earthquake’
+ SES: Gela              anu-anu          ‘earthquake’
  SES: Bugotu            añu              ‘shake, of earthquake; earthquake’
  SES: Lau               anu              ‘shake, quake’
-                        anu-anu          ‘earthquake’
+ SES: Lau               anu-anu          ‘earthquake’
  SES: Kwaio             anu(leʔeni)      shake, jostle, knock down by shaking’
  SES: ’Are’are          anu(i)           ‘shake, move’
  SES: Sa’a              enu, enu-enu     ‘be loose, unstable’
  SES: Arosi             anu(kaʔa)        ‘tremble and go cold with fear’
+>
+<
 PNCV *ruru (V) ‘shake’; (N) ‘earthquake’
  NCV: Mota            rir              (V) ‘quake’; ‘earthquake’
  NCV: Raga            ruru(i)          ‘shake’
  NCV: Paamese         (a)lū            ‘earthquake’
  NCV: Nguna           (na)ruru         ‘earthquake’
+>
                                                                          The landscape     85
 
 3.9.3 Landslide
@@ -4191,6 +4271,7 @@ PNCV *ruru (V) ‘shake’; (N) ‘earthquake’
 daughter languages. They are also found in Puluwatese (Mic), linked to star names, to refer
 to stars sinking towards the horizon (see Ch. 6, §5.4.2).
 
+<
 POc *solo ‘sink down, subside; landslide’
  MM: Marovo            (ta)ju-julu        ‘landslide’
  MM: Babatana          jolo               ‘subside’
@@ -4207,6 +4288,8 @@ POc *solo ‘sink down, subside; landslide’
  Pn:   Tahitian        horo               ‘landslide’
  Pn:   Maori           horo               ‘landslide’
  Pn:   Hawaiian        holo               ‘landslide’
+>
+<
 PEOc *to(b,p)a (VI) ‘(land) slip’, *ma-to(b,p)a ‘landslip’
  SES: Gela              matoba            ‘landslip’
  SES: Bugotu            matoba            ‘landslip’
@@ -4214,7 +4297,7 @@ PEOc *to(b,p)a (VI) ‘(land) slip’, *ma-to(b,p)a ‘landslip’
  SES: Arosi             maoba             ‘landslip’
  NCV: Raga              matova            ‘landslip, flood’
  NCV: Paamese           matehe            ‘landslide, slip’
-
+>
 
 3.9.4 Tidal wave
 
@@ -4226,13 +4309,12 @@ high tide and strong wind. In any case, catastrophic tidal waves probably occur 
 or twice a century, and affect only localised places. Although a number of terms for ‘tidal
 wave’ have been collected, and are listed below, cognates exist only within low level
 subgroups.
+
   Adm: Mussau            manu gagaga ‘tidal wave’ (manu ‘water’)
   Adm: Lou               ultum             ‘tidal wave’
   MM: Nakanai            karoro            ‘tidal wave’
   MM: Tolai              roro              ‘tidal wave’
   MM: Ramoaaina          tai-gugu          ‘tidal wave’ (tai ‘sea’)
-86      Meredith Osmond, Andrew Pawley and Malcolm Ross
-
  SES: Gela               gogo            ‘tidal wave’
                          lua-lua         ‘flood, tidal wave’ (lua ‘full tide’)
  SES: Bugotu             gogovi          ‘tidal wave’
@@ -4247,9 +4329,12 @@ subgroups.
  Pn:      Niuean         peau afi        ‘tidal wave’ (lit. ‘wave fire’)
  Pn:      Hawaiian       kai hōʔeʔe      ‘tidal wave’
 
+86      Meredith Osmond, Andrew Pawley and Malcolm Ross
+
 
 3.9.5 Flood, submerging tide
 
+<
     A PMP term for ‘flood’ (V and N) is continued in two known Oceanic witnesses. In Sa’a
 its reflex is a noun referring to a high spring tide. In Tongan it is a verb denoting the state
 or process of a river being in flood.
@@ -4258,12 +4343,16 @@ PMP *bahaq ‘a flood; overflow, be in flood’, (ACD, Dempwolff 1938)
 POc *pa(a)q ‘overflow, flood’ (ACD)
  SES: Sa’a             (lua) hā         ‘high spring tide’
  Pn:   Tongan          fā               ‘(of a river) to overflow, be in flood’
+>
 
+<
    As a compound with the term for fresh water, POc waiR pa(a)q ‘river floodwaters’, is
 traceable back to PMP, although the Tongan form is our only Oceanic reflex.
+
 PMP *wahir bahaq ‘floodwaters’ (ACD)
 POc *waiR pa(a)q ‘river floodwaters’
  Pn:   Tongan          vai fā        ‘flood (from a river), river in flood’
+>
 
    Flooding for coastal dwellers on small Oceanic islands is likely to be the result of an
 unusually high tide (POc *[u]Ruap ‘high tide; to flow in of tide’, see Ch.4, §2.6), rather
@@ -4274,24 +4363,27 @@ form (*[ma-]uRua(p) ‘flood, be flooded’) (Sa’a lua hā ‘high spring tide
 ‘large tide’, Bauan Fijian ua luvu ‘submerging tide’). Other POc terms include reflexes of
 *lolo (V) ‘flood’, and *lomak (N,V) ‘flood, of sea’.
 
+<
 POc [*ma-]uRua(p) ‘flood, be flooded’
  NNG: Manam           urua                 ‘flood, torrent’
  PT:   Molima         moluva               ‘flood’
  PT:   Dobu           muluwa               ‘flood’
  NCV: Tamambo         moruae               ‘flood, big river’
+>
                                                                         The landscape      87
 
+<
 PMP *lebleb (V) ‘flood’
 POc *lolo (V) ‘flood’
  Adm: Andra             lolo(mat)        ‘windward part of reef flat, covered at high tide’
- NNG: Gedaged           lolo(ani)        (V) ‘inundate, flood, drown, stream over, flow
-                                           over, cause to sink under water’
+ NNG: Gedaged           lolo(ani)        (V) ‘inundate, flood, drown, stream over, flow over, cause to sink under water’
  Fij:   Bauan           lolo             ‘beginning to rise, of the tide’
  Pn:    Samoan          lolo             (V) ‘overflow’, (N) ‘flood’
+>
+<
 POc *lomak (N,V) ‘flood, of sea’
  NNG: Takia             lom              ‘flood’
- NNG: Gedaged           lom, lom-lom     ‘the dirty water that flows off after rain, the
-                                            water that lies around after rain’
+ NNG: Gedaged           lom, lom-lom     ‘the dirty water that flows off after rain, the water that lies around after rain’
  MM: Sursurunga         lom-lom          ‘high tide, flood’
 PPn *lo(o)ma, *lo(o)maki ‘flood caused by high seas or tides’ (Biggs & Clark 1993)
  Pn:    Tongan          lōmaki           (N) ‘flood, deluge’
@@ -4299,14 +4391,18 @@ PPn *lo(o)ma, *lo(o)maki ‘flood caused by high seas or tides’ (Biggs & Clark
  Pn:    W Uvean         lo-loma          ‘sea flood, tide’
  Pn:    Maori           roma             ‘flood, flood tide, stream, current’
  Pn:    Tuamotuan       roma             ‘flood’
+>
+
+<
 The reconstruction below appears to have referred to flooding or gushing.
+
 POc *ñoro ‘flood, gush, flow everywhere’ (Blust 1998b)
  Adm: Lou               noro           ‘flood’
  NNG: Mangap-M.         no-nor         ‘tidal wave, flood’
  MM: Halia              nolo           ‘flood’
  MM: Tolai              noro           ‘to pour forth, gush, flow quickly’
  SV: Anejom             ya             ‘flow everywhere, out of control’
-
+>
 
 3.9.6 Storm, hurricane
 
@@ -4323,10 +4419,11 @@ are regarded in many Austronesian-speaking communities as supernatural occurrenc
 are sometimes treated as a natural category, ‘taboo thing’ or similar. Accordingly we
 sometimes find ‘rainbow’ and ‘whirlwind’ within the same cognate set, or even, as in
 Mortlockese (Mic) awúniyar ‘whirlwind, tornado, rainbow’, referred to by the same word.
-   The meanings of the prefix *qā-, and the alternative form *pua- (blowing?) in the
-following set are uncertain.
 88   Meredith Osmond, Andrew Pawley and Malcolm Ross
 
+<
+   The meanings of the prefix *qā-, and the alternative form *pua- (blowing?) in the
+following set are uncertain.
 
 PEOc *siosio ‘(?) whirlwind, rainbow’
  NCV: Mota              ga-siosio        ‘rainbow’ (see note above)
@@ -4341,8 +4438,11 @@ PPn *qā-siosio ‘whirlwind, waterspout’
  Pn:   Tahitian        pua-hiohio      ‘whirlwind, cyclone’
  Pn:   Maori           ā-fiofio        ‘whirlwind’
  Pn:   Hawaiian        pua-hiohio      ‘whirlwind’
+>
+<
    The next item may be associated in some way with POc *piro ‘twist together’ (vol. 1,
 p.287).
+
 POc *piru-piru ‘whirlwind, waterspout’
  NNG: Kove             vili-viliu        ‘small whirlwind’
  PT:    Kiriwina       vi-vilu(wa)       ‘whirlwind, waterspout’
@@ -4355,6 +4455,7 @@ PEOc *libo ‘eddy, whirlpool’
  Pn:   Tikopia         (mā)ripo-ripo     ‘whirl’
  Pn:    Tahitian       ripo-ripo         ‘wavelets in a ring’
  Pn:    Maori          ripo              ‘eddy, whirlpool’
+>
 
 
 3.10 Conclusion
@@ -4584,7 +4685,7 @@ POc *laur ‘sea, seawards’
                                        approached from land’
  NCV: Raga             (a)lau        ‘on beach, on lee side’
 PMic *lau ‘pool, pond’ (Marck 1994:313)
- Mic: Kosraean          l¡-l¡        ‘pond, shallow lagoon’
+ Mic: Kosraean          lʌ-lʌ        ‘pond, shallow lagoon’
  Mic: Kiribati          nei          ‘pond, pool, swamp, marsh’
  Mic: Satawalese        lə̄          ‘pool, pond’
  Mic: Carolinian        lə̄lə        ‘all manner of standing water (puddles, pools,
@@ -4790,7 +4891,7 @@ POc *ŋalu(n) ‘mounting wave, ocean wave’
  NNG: Manam            (ma)ŋalu          ‘breakers, surf’
  PT:   Tubetube        yalu              ‘backwash from wave breaking on the beach’
  SES: Lau              ŋalu-ŋalua        ‘a rough confused sea’
- Mic: Marshallese      ŋ¡l               ‘ocean swell, mounting wave which does
+ Mic: Marshallese      ŋʌl               ‘ocean swell, mounting wave which does
                                             not break, billow’
  Mic: Mokilese         ŋal-ŋal           ‘low tide’
  Pn:   Tongan          ŋalu              ‘wave (when rolling in), breaker or surf’
@@ -5287,7 +5388,7 @@ POc *sakaRu ‘reef, shoal’
  NCV: Mota               sakaru          ‘rough coral stones between surf and beach’
  NCV: Namakir            hako            ‘reef’
  Mic: Kiribati           rakai           ‘block of coral rocks; rock; reef’
- Mic: Kosraean           t¡ka            ‘island, atoll’
+ Mic: Kosraean           tʌka            ‘island, atoll’
  Mic: Marshallese        təkæ, təkɛr̡    ‘strip of reef; long reef between two islets’
  Mic: Ponapean           teke            ‘small island’
  Mic: Puluwatese         tə̄             ‘uninhabited reef island’
@@ -6976,7 +7077,7 @@ POc *[ka]dapuR ‘rain, rain cloud’
  MM: Banoni                  ɣarau     ‘rain’
  MM: Piva                    ɣaravu    ‘rain’
  Mic: Kiribati               karau     ‘rain, heaven, sky’
- Mic: Kosraean               k¡s̡ao    ‘sky, heaven’
+ Mic: Kosraean               kʌs̡ao    ‘sky, heaven’
  Mic: Marshallese            ker̡aw    ‘cloud, overcast’
  Mic: Ponapean               kec̡ew    ‘rain, to rain’
  Mic: Mokilese               kosow     ‘cloud’
@@ -7157,6 +7258,7 @@ to be associated with the onomatopaeic nature of the etyma. Thirdly, it seems th
 foregoing forms were (at least sometimes) verbal, and we find apparent nominalisations:
 *guru-ŋ(a), *gururu-ŋ(a), and *para-ŋ(a).
 
+<
 PMP *guruq ‘noise, tumult’ (ACD)
 POc *kuru, *kururu ‘thunder’
  NNG: Kove             ku-kururu           ‘thunder’
@@ -7166,7 +7268,8 @@ POc *kuru, *kururu ‘thunder’
  SES: Kahua            (ɣu)ɣuru(hia)       ‘thunder’
  Fij:  Bauan           kuru                (N, V) ‘thunder’
  Fij:  Wayan           kuru-kuru           (N, V) ‘thunder’
-
+>
+<
 PMP *guruq ‘noise, tumult’ (ACD)
 POc *guru, *gururu ‘thunder, make loud noise’
  Adm: Drehet           kuruh           ‘thunder’
@@ -7183,14 +7286,16 @@ POc *guru, *gururu ‘thunder, make loud noise’
  MM: Ramoaaina         (pa)guru        ‘(thunder, wind in stomach) make a rumbling
                                           noise’
  MM: Teop              guru            ‘thunder’
-152     Malcolm Ross
-
  MM:     Haku           gururu          ‘it thunders’
  MM:     Tinputz        guguruh         (V) ‘thunder’
  MM:     Maringe        gu-gulu         ‘thunder’
  SES:    Gela           guru            ‘(thunder) rumble’
  SES:    Lengo          gururu          ‘thunder’
  SES:    Arosi          guru-guru       ‘thunder’
+>
+152     Malcolm Ross
+
+<
 POc *guru-ŋ(a), *gururu-ŋ(a), *gururu-aŋ ‘thunder’
  NNG: Gitua            gururuŋ         ‘thunder’
  NNG: Sengseng         kulu-ŋ          ‘thunder’
@@ -7199,10 +7304,9 @@ POc *guru-ŋ(a), *gururu-ŋ(a), *gururu-aŋ ‘thunder’
  NNG: Bebeli           gu-gurun        ‘thunder’
  NNG: Uvol             kuruŋ           ‘thunder’
  MM: Tigak             guŋ             ‘thunder’
- SES: Longgu           gururua         ‘thunder, small thunder, clap of thunder heard
-                                          in the late afternoon when you get late
-                                          afternoon rain; a storm’
-
+ SES: Longgu           gururua         ‘thunder, small thunder, clap of thunder heard in the late afternoon when you get late afternoon rain; a storm’
+>
+<
 POc *pwaraq, *pwararaq ‘thunder’
  NNG: Gitua           palaki            ‘thunder’
  PT:   Gumawana       (lo)pala-pala     (V) ‘thunder’
@@ -7217,14 +7321,16 @@ POc *pwaraq, *pwararaq ‘thunder’
  MM: Patpatar         par-parara        ‘thunder’
  SES: Arosi           pwararā           ‘thunder’
  Mic: Kiribati        pā                ‘thunder’
- Mic: Kosraean        p¡læl             ‘thunder’
+ Mic: Kosraean        pʌlæl             ‘thunder’
  Mic: Mokilese        palar             ‘thunder’
  Mic: Puluwatese      pac̡c̡            ‘thunder’
  Mic: Carolinian      pac̡c̡            ‘thunder’
+>
+<
 POc *para-ŋ(a) ‘thunder’
  Adm: Mussau           pala-palaŋa      ‘thunder’
  Adm: Drehet           palaŋ            ‘thunder accompanied by lightning’
-
+>
 
 5.6 Concluding remarks
 
@@ -7355,6 +7461,7 @@ early navigators, the fundamental sources of position finding were the heavenly 
 
 6.2.1 Sky, heavens
 
+<
   The most soundly based reconstruction for sky is POc *laŋit (see also p.142). In some
 Oceanic languages its meaning has been extended to include weather, apparently both as a
 general category and as a specific reference to kinds of weather, rain, wind etc.
@@ -7379,29 +7486,30 @@ POc *laŋit ‘sky’
  Fij:  Bauan          (lomā)laŋi                  ‘sky, heavens’ (loma ‘inside’)
  Pn:   Tongan         laŋi                        ‘sky, heavens’
  Pn:   Samoan         laŋi                        ‘sky, heavens’
+>
 
    The sky was typically conceptualised as something spanning a flat world from horizon
 to horizon. In both Micronesia and Polynesia it was regarded as a dome or a series of
 domes resting on the earth and forming concentric horizons on its surface (Lewis
 1978:121). Tongans identified both laŋi, the sky, and vavā, which was the space between
 earth and sky. Some communities referred to the sky in legendary terms, conceiving it, for
-instance, as the home of the ancestors or of the Polynesian demigod, Maui.3 In Kiribati the
+instance, as the home of the ancestors or of the Polynesian demigod, Maui.[3] In Kiribati the
 heavens, karawa, could be subdivided into a lower heaven of birds and clouds where
 things appear small, karawa merimeri; and a heaven of the stars, karawa uatao. For a
 Kiribati navigator, however, the night sky was a vast roof. He never called it karawa, the
 usual Micronesian term for the heavens, but referred to it as uma ni borau ‘the roof of
 voyaging’ (Grimble 1931:197).
 
+[3] For instance, a Kiribati creation myth describes how the face of heaven was originally like hard rock stuck
+  to the earth, but was prised apart and then held up by four women, who became like mighty trees (Grimble
+  1972:39–41). The legend is echoed in Hawaii, where the sky dome is supported by four pillars and in
+  Tahiti where the sky rests on ten pillars (Makemson 1941:199).
 
 6.2.2 Horizon
 
   The line where sea meets sky is commonly referred to by a compound—either
 edge/walls/ base of sky, edge of sea, or similar. I have located two sets of cognates, one
 
-[3] For instance, a Kiribati creation myth describes how the face of heaven was originally like hard rock stuck
-  to the earth, but was prised apart and then held up by four women, who became like mighty trees (Grimble
-  1972:39–41). The legend is echoed in Hawaii, where the sky dome is supported by four pillars and in
-  Tahiti where the sky rests on ten pillars (Makemson 1941:199).
 158     Meredith Osmond
 
 limited to Polynesia, the other to Micronesia. The first reflects PEOc *tapa ‘side’ (p.255) +
@@ -7409,6 +7517,7 @@ limited to Polynesia, the other to Micronesia. The first reflects PEOc *tapa ‘
 borrowing of that form reflect the replacement of the PPn preposition *ʔi by an
 unexplained ʔaki.
 
+<
 PPn *(tafa)tafa-qaki-laŋi, *(tafa)tafa-qi-laŋi ‘horizon’ (*tafa ‘side, edge’, laŋi ‘sky’)
  Pn: Tongan           (tafa)tafa-ʔaki-laŋi
  Pn: E Uvean          tafa-ʔaki laŋi         ‘horizon, limit, edge’
@@ -7416,7 +7525,7 @@ PPn *(tafa)tafa-qaki-laŋi, *(tafa)tafa-qi-laŋi ‘horizon’ (*tafa ‘side, e
  Pn: Maori            taha(a)-raŋi
  Pn: Tikopia          tafa-tafā-raŋi
  Pn: Tokelauan        tafa-tafā-laŋi
-
+>
 <
     Similarly, PChk *pai-laŋi may be from POc *baRa ‘fence’(see vol.1, p.60) + qi + laŋit
 lit. ‘fence of sky’.
@@ -7515,7 +7624,8 @@ sun’. Here we have opted for ‘sun’ as the primary meaning of POc *qaco, an
 extension, ‘daytime’. There is evidence both within and without the Oceanic region that
 the senses of ‘day/daylight/daytime’ and ‘sun’ were commonly interchanged.
 
-PMP *qajaw or *qalejaw ‘sun, daylight’ (ACD)9
+<
+PMP *qajaw or *qalejaw ‘sun, daylight’ (ACD)[9]
  WMP: Itbayat         araw              ‘sun’
  WMP: Cham            atdaw             ‘sun’
  WMP: Saban           sieu              ‘day’
@@ -7531,16 +7641,15 @@ POc *qaco ‘sun, daytime’
  Adm: Seimat           al                          ‘sun’
  NNG: Bariai           ado                         ‘day, sun’
  NNG: Takia            ad                          ‘sun’
-                       ad-ad                       ‘daytime’
+ NNG: Takia            ad-ad                       ‘daytime’
  NNG: Kaiwa            as                          ‘daytime’
  PT:    Molima         ʔasu                        ‘sun’
  MM: Nakanai           haro                        ‘sun; day’
  MM: Tigak             ias                         ‘sun’
-                       (gan)ias                    ‘daytime’
+ MM: Tigak             (gan)ias                    ‘daytime’
  MM: Nalik             ias                         ‘sun’
  SES: Bugotu           aho                         ‘sun’
- SES: Gela             aho                         ‘sun; good weather; put in the sun;
-                                                     experience good weather’
+ SES: Gela             aho                         ‘sun; good weather; put in the sun; experience good weather’
     SES:    Lau               sato                 ‘sun’
     SES:    ’Are’are          rato                 ‘sun, sunshine, no rain, good weather’
     SES:    Sa’a              sato                 ‘sun, sunshine, fine weather’
@@ -7551,10 +7660,12 @@ POc *qaco ‘sun, daytime’
     Mic:    Marshallese       al                  ‘sun’
     Mic:    Woleaian          yaro                 ‘sun’
 
-
 [9]    Blust (ACD) glosses this ‘day’, but the gloss given here appears more consonant with the data.
+>
+
                                                     Navigation and the heavens    161
 
+<
 PPn *qaso ‘day, as period of time’
  Pn:    Tongan          ʔaho          (N) ‘day’; (V) ‘be day or daylight’
  Pn:    Rennellese      ʔaso          ‘time, day, season’
@@ -7562,16 +7673,19 @@ PPn *qaso ‘day, as period of time’
  Pn:    Tokelauan       aso           ‘day’
  Pn:    Tuvalu          aho           ‘day (as time span)’
  Pn:    Tikopia         aso           ‘day (as time span)’
+>
+<
 Proto Nuclear Polynesian shows a split between *qaso ‘day, as a period of time’ and
 *qaho ‘daytime, daylight’.
+
 PNPn *qaho ‘daytime, daylight’
  Pn:   Samoan         ao              ‘day (contrasted with night); daylight’
  Pn:   Rennellese     ʔao             (N) ‘day, daylight’; (V) ‘be daylight’
  Pn:   Rarotongan     ao              ‘day, daylight, dawn; world’
  Pn:   Tikopia        ao              ‘daylight’
- Pn:   Maori          ao              (N) ‘daytime as opposed to night’; (VI)’ dawn,
-                                        become day’
-
+ Pn:   Maori          ao              (N) ‘daytime as opposed to night’; (VI)’ dawn, become day’
+>
+<
 PAn *daqaNi ‘day’ (ACD)
 POc *raqani ‘daytime, daylight’
  Adm: Ponam            ran            ‘day’
@@ -7593,16 +7707,12 @@ POc *raqani ‘daytime, daylight’
  SES: Kwaio            dani, daŋi     ‘day’ (ŋ for n unexplained)
  SES: ’Are’are         tani           ‘daylight’
  SES: Arosi            daŋi           ‘daylight, day’ (ŋ for n unexplained)
- NCV: Mota             (ma)ran        ‘light, daylight, morning, day; be light;
-                                         tomorrow’s light; the morrow’
+ NCV: Mota             (ma)ran        ‘light, daylight, morning, day; be light; tomorrow’s light; the morrow’
  NCV: Raga              rani          ‘day, light, become day; morning’
-                        (ma)rani      ‘morning light’
+ NCV: Raga              (ma)rani      ‘morning light’
  NCV: Tamambo           rani          ‘daylight’
  NCV: Big Nambas        na-ran        ‘daytime’
-162    Meredith Osmond
-
- NCV: Lonwolwol              ren              ‘be light (of sky, weather etc.); weather, light,
-                                                daylight’
+ NCV: Lonwolwol              ren              ‘be light (of sky, weather etc.); weather, light, daylight’
  NCV:     Paamese            lani             ‘daybreak’
  SV:      Lenakel            n-ian            ‘day’
  SV:      Kwamera            (ia)ran          ‘day’
@@ -7613,28 +7723,29 @@ POc *raqani ‘daytime, daylight’
  Pn:      Maori              raŋi             ‘day, as period of time’ (ŋ for n unexplained)
 
 The Southeast Solomonic forms above are irregular, initial d- reflecting *drani.
+>
+162    Meredith Osmond
 
+
+<
    The preceding cognate set may ultimately be connected with the following one.
 However, it is clear that reflexes of POc *raqani ‘daytime, daylight’ are synchronically
 distinct from reflexes of POc *[dr,r]aqā ‘sun’s heat, sunlight’; ‘(sun) shine; *[dr,r]aqa-ŋi
 ‘shine on, be hot, be bright’, in contemporary Oceanic languages which reflect both etyma.
 
-POc *[dr,r]aqā (N) ‘sun’s heat, sunlight’; (VI) ‘(sun) shine, be hot, be bright’; *[dr,r]aqa-
- ŋi (VT) ‘shine on’
- NNG: Mapos Buang rŋ(ah)                  ‘daytime’10
+POc *[dr,r]aqā (N) ‘sun’s heat, sunlight’; (VI) ‘(sun) shine, be hot, be bright’; *[dr,r]aqa-ŋi (VT) ‘shine on’
+ NNG: Mapos Buang rŋ(ah)                  ‘daytime’[10]
  PT:      Motu           rarai(a)         (VT) ‘shine, of sun and moon’
  MM: Tigak               gan(ias)         ‘daytime’
  SES: Bugotu             raŋi             (VI) ‘shine, of sun’
  SES: Lau                rā               ‘sunlight’
-                         rara             (VI) ‘shine, be hot, warm’
-                         raraŋi           (VT) ‘shine upon’
+ SES: Lau                rara             (VI) ‘shine, be hot, warm’
+ SES: Lau                raraŋi           (VT) ‘shine upon’
  SES: ’Are’are           rārā             ‘scorch, singe, of sun and fire’
- SES: Sa’a               rā, rārā         (V) ‘shine brightly’; (N) ‘the sun’s light,
-                                            radiance’
+ SES: Sa’a               rā, rārā         (V) ‘shine brightly’; (N) ‘the sun’s light, radiance’
  SES: Arosi              rā               (V) ‘be hot, bright; shine’
-                         rārā(na)         (N) ‘sunshine, heat of sun or fire’; (VI) ‘shine,
-                                            be hot’
-                         rāŋi             (VT) ‘shine on’
+ SES: Arosi              rārā(na)         (N) ‘sunshine, heat of sun or fire’; (VI) ‘shine, be hot’
+ SES: Arosi              rāŋi             (VT) ‘shine on’
  Fij:     Wayan          drā              (VI) ‘(sun, moon, star) shine’
 PPn *laqā ‘sun’
  Pn:    Tongan               laʔā             (N) ‘sun’; (VI) ‘be sunny’
@@ -7646,14 +7757,14 @@ PPn *laqā ‘sun’
  Pn:    Rapanui              ra               ‘sun’
 
 
-
 [10] The Mapos Buang and Tigak etyma are possibly from *raqaŋi qaco ‘shine on + sun’.
-                                                                 Navigation and the heavens   163
-
 
    Evidence for the transitive form *raqa-ŋi above comes from the Bugotu, Lau and Arosi
 forms as well as the Motu, where *ŋ is regularly reflected by Ø.
+>
+                                                                 Navigation and the heavens   163
 
+<
    The following set focuses on effects of the sun’s heat as opposed to its light, and
 extends to heat from fire.
 
@@ -7680,15 +7791,16 @@ POc *raraŋ (VI) ‘be warm, hot, of sun; be warmed or heated by fire or sun’,
                                               a fire’
  Pn:    Rarotongan        rara              ‘dry (leaves) in sun, dry over a fire; smoke fish
                                               over a fire’
-
+>
+<
    Yet another contender for the POc term for sun is *sinaR, which Blust (1998) glosses as
 ‘shine’. While some reflexes from across Oceania support ‘shine’, others lean towards the
 meaning ‘sun’. This may, however, be the result of independent parallel development.
 
 PMP *sinaR ‘ray of light’ (Dempwolff 1938)
 POc *sinaR (V) ‘shine’; (N) (?) ‘sun’
- Adm: Mussau            sinaka11       ‘sun’
- Adm: Tench             sinaka         ‘sun’
+ Adm: Mussau            sinaka[11]       ‘sun’
+ Adm: Tench             sinaka[11]         ‘sun’
  Adm: Lou               sinsin         ‘sun’
  PT:    Motu            dina           ‘sun; day’
  MM: Lavongai           sinaŋ          (N) ‘sun’; (V) ‘(sun) shine’
@@ -7697,11 +7809,6 @@ POc *sinaR (V) ‘shine’; (N) (?) ‘sun’
  SES: Kwaio             sina           ‘sun’
  SES: ’Are’are          sina           (V) ‘shine, brighten’; (N) ‘light, brightness’
  SES: Sa’a              sineli         ‘shine’
-
-
-[11] Mussau/Tench -k- as a reflex of POc final *-R is irregular.
-164    Meredith Osmond
-
  SES:    Arosi             sina             ‘sun’
  NCV:    Mota              siŋa             ‘shine’
  Mic:    Chuukese          ttira            (V) ‘shine’; (N) ‘ray, brightness, beam’
@@ -7712,6 +7819,11 @@ POc *sinaR (V) ‘shine’; (N) (?) ‘sun’
  Fij:    Wayan             siŋa             ‘day, daylight, sun’
  Fij:    Bauan             ðina             ‘lamp, torch’
 
+[11] Mussau/Tench -k- as a reflex of POc final *-R is irregular.
+>
+164    Meredith Osmond
+
+<
    Building on its ‘shine’ meaning, POc *sinaR has given rise to a number of Polynesian
 terms which, with the addition of mā-, a stativising prefix, refer to the moon:
 
@@ -7722,10 +7834,11 @@ PPn *mā -sina ‘moon, month’
  Pn:    E Futunan      māsina               ‘moon, month’
  Pn:    E Uvean        māhina               ‘moon, month’
  Pn:    Maori          māhina               ‘moon, month’
-
+>
 
 6.4 Moon
 
+<
    The moon is of little value as a navigational aid. Its typical role is as a marker of periods
 of time. Reflexes of POc *pulan ‘moon’ are widespread throughout the Admiralties, the
 Western Oceanic region, Southeast Solomons, Vanuatu and Fiji.
@@ -7742,23 +7855,21 @@ POc *pulan ‘moon, month’ (ACD)
  SES: Gela            vula            ‘moon, month’
  SES: Lau             fula            ‘the moon (but only in naming a month)’
  SES: Kwaio           fula            ‘moon (mainly in compounds)’
-                      fula(bala)      ‘full moon, night when it is light from
-                                         moonrise to dawn’
-                      fula(ʔalo)      ‘rainbow’
+ SES: Kwaio           fula(bala)      ‘full moon, night when it is light from moonrise to dawn’
+ SES: Kwaio           fula(ʔalo)      ‘rainbow’
  SES: Sa’a            hule            ‘phases of the moon; full moon’
-                      hule i lade     ‘name of a month, July’
- SES: Ulawa           hula(ahola)     ‘six nights of the moon’s course, including the
-                                         full moon and two nights each way’
-                                                         Navigation and the heavens     165
-
+ SES: Sa’a            hule i lade     ‘name of a month, July’
+ SES: Ulawa           hula(ahola)     ‘six nights of the moon’s course, including the full moon and two nights each way’
  SES:    ’Are’are        hura             ‘moon, lunar month’
-                         hura(ʔaro)       ‘rainbow’
- SES:    Arosi           hura             ‘moon, month. It is said there were twelve
-                                             native months beginning July (the planting)
-                                             and ending in the following June’
+ SES:    ’Are’are        hura(ʔaro)       ‘rainbow’
+ SES:    Arosi           hura             ‘moon, month. It is said there were twelve native months beginning July (the planting) and ending in the following June’
  NCV: Mota               vula             ‘moon, month, season marked by moon’
  Fij: Bauan              vula             ‘moon, month’
+>
+                                                         Navigation and the heavens     165
 
+
+<
 In Polynesia *pulan is reflected as a verb, PPn *pula ‘to glow’ (with PPn *p instead of
 expected *f), and the moon is referred to by reflexes of PEOc *ma[d]rama.
 
@@ -7771,7 +7882,7 @@ PEOc *ma[d]rama ‘moon’
  Pn:   Rarotongan   marama                ‘moon’
  Pn:   Tikopia      marama                ‘moon’
  Pn:   Tahitian     marama                ‘moon’
-
+>
 
 6.5 Stars
 
@@ -7810,6 +7921,7 @@ particular stars to the naming community.
 
 6.5.1 Star (generic)
 
+<
 PAn *bituqen ‘star’ (ACD)
 POc *pituqun ‘star’
  Adm: Titan               pítuy                   ‘star’
@@ -7824,8 +7936,7 @@ POc *pituqun ‘star’
  NCV: SE Ambrym           hitu                    ‘star’
  Mic: Kiribati            itoi                    ‘star, constellation’
  Mic: Woleaian            fisi                    ‘star’
- Mic: Puluwatese          fū                      ‘star; point of the compass; canoe course
-                                                     plotted by the stars’
+ Mic: Puluwatese          fū                      ‘star; point of the compass; canoe course plotted by the stars’
  Mic:      Marshallese          icu               ‘star, comet, planet’
  Mic:      Mokilese             ucu               ‘star’
  Mic:      Ponapean             usu               ‘star’
@@ -7835,7 +7946,7 @@ POc *pituqun ‘star’
  Pn:       Hawaiian             hōkū              ‘star’
  Pn:       Tikopia              fetū              ‘star, constellation’
  Pn:       Anutan               petū              ‘star’
-
+>
 
 6.5.2 Individual stars and star groups12
 
@@ -7853,6 +7964,7 @@ etymon.
                                                                      Navigation and the heavens              167
 
 
+<
 PMP *mantalaq ‘the morning (evening) star: Venus’ (ACD)
 PMP *(t)ala(q) ‘star’ (Dempwolff 1938)
 POc *ma-dala ‘the morning star’ (Blust 1972)
@@ -7866,6 +7978,8 @@ POc *ma-dala ‘the morning star’ (Blust 1972)
  SES: Sa’a              madala          ‘the morning star’
  SES: Arosi             madara          ‘the morning star’
  Mic: Mokilese          mālāl           ‘the morning star’
+>
+
    As in English, Venus often appears to have separate identities as Morning and Evening
 Star. The following illustrate:
 
@@ -7886,26 +8000,21 @@ PMic *fitū rāni ‘Morning Star’ ( > POc *raqani ‘daytime, daylight’)
  Mic: Chuukese         fū rā4            ‘Venus as Morning Star’
 
 (ii) other compounds
-  NNG: Gedaged                boi tinan             ‘Morning Star’ (boi ‘star’, tinan ‘mother’
-                                                      or ‘big’; cf. p.195)13
+  NNG: Gedaged                boi tinan             ‘Morning Star’ (boi ‘star’, tinan ‘mother’ or ‘big’; cf. p.195)13
  NNG: Manam                   goai zama             ‘Morning Star’ (goai ‘star’, zama ‘tomorrow’)
  PT:  Motu                    hisiu bada            ‘Morning Star’ (hisiu ‘star’, bada ‘large’)
 
 Evening Star (various compounds):
- MM: Roviana           govete pisi                  ‘Evening Star, Venus’ (govete ‘to flee, run
-                                                      away’, pisi ‘to sting or bite, as insects’)
+ MM: Roviana           govete pisi                  ‘Evening Star, Venus’ (govete ‘to flee, run away’, pisi ‘to sting or bite, as insects’)
  SES:      To’aba’ita         bubufaŋa              ‘Evening Star’ (bubu ‘look at’, faŋa ‘eat; food’
 
 
 [13] POc *tina, literally ‘mother’, sometimes carries the interpretation ‘big’ in contrast to ‘child/small’.
 168     Meredith Osmond
 
- SES:      Lau              būbūfaŋa       ‘Evening Star’ (būbū ‘look at, gaze’, faŋa
-                                             ‘to have a meal, food’)
+ SES:      Lau              būbūfaŋa       ‘Evening Star’ (būbū ‘look at, gaze’, faŋa ‘to have a meal, food’)
  SES:      Arosi            maŋai ŋau      ‘Evening Star’ (maŋa ‘eat’, ŋau ‘eat food’
- Pn:       Tikopia          fetū ramaŋa    Alternative name for evening star when standing
-                                             in west, in monsoon nights (lit. ‘torchlight
-                                             fishing star’)
+ Pn:       Tikopia          fetū ramaŋa    Alternative name for evening star when standing in west, in monsoon nights (lit. ‘torchlight fishing star’)
  Pn:       Hawaiian         hōkū-kau-ʔōpae ‘Evening Star’ (lit. ‘star for placing shrimp’)
 
 
@@ -7926,8 +8035,7 @@ marked by a star probably Monocerus.14
 
 PMP *manuk ‘bird’
 POc *manuk ‘bird, Bird constellation’
- Adm: Ninigo            mān         ‘(constellation incl.) Canopus, Sirius, Procea’
-                                      (Lewis, 1994:406)
+ Adm: Ninigo            mān         ‘(constellation incl.) Canopus, Sirius, Procea’ (Lewis, 1994:406)
  Mic: Kiribati          man         ‘Canopus’
  Mic: Mortlockese       man         ‘Sirius’
  Mic: Satawalese        mān         ‘(constellation incl.) Sirius’
@@ -7935,9 +8043,7 @@ POc *manuk ‘bird, Bird constellation’
  Mic: Woleaian          mar         ‘Sirius-Procyon-Canopus star’
  Mic: Carolinian        mān         ‘Sirius’
  Pn:   Tikopia          manu        ‘Rigel’ (part for whole) (Lewis, 1978:33)
- Pn:   Anutan           manu        ‘Bird constellation, consisting of Sirius (Manu’s
-                                      body), Canopus (east wing), Procyon (north wing)
-                                      and a few stars in between’
+ Pn:   Anutan           manu        ‘Bird constellation, consisting of Sirius (Manu’s body), Canopus (east wing), Procyon (north wing) and a few stars in between’
 
 We also have various references to particular stars as Manuk’s head, Manuk’s body etc.
 
@@ -7952,39 +8058,29 @@ We also have various references to particular stars as Manuk’s head, Manuk’s
                                                               Navigation and the heavens         169
 
  Adm: Ninigo              mānifono                    ‘Sirius’ (fono ‘head’)
-                          mānitola                    ‘Procyon’
-                          mānihaiup                   ‘Canopus’ (Lewis 1994:406)
+ Adm: Ninigo              mānitola                    ‘Procyon’
+ Adm: Ninigo              mānihaiup                   ‘Canopus’ (Lewis 1994:406)
  Mic:    Kiribati         pwāpwā-ni-man               ‘Sirius’ (pwāpwā ‘chest’)
-                          man-ati                     ‘Rigel’ (ati ‘heart’)
+ Mic:    Kiribati         man-ati                     ‘Rigel’ (ati ‘heart’)
  Mic:    Puluwatese       yinekin-mān                 ‘Sirius’ (yinek ‘body, trunk’)
- Pn:     Rennellese       te tino-manu                ‘three bright stars at the end of Taurus’
-                                                        (tino ‘body’)
- Pn:     Anutan           te kaokao o manu            ‘Manuk’s armpit: a group of four small
-                                                        stars near Sirius; said to pass almost
-                                                        directly over Tikopia when approaching
-                                                        from Anuta’
-                          te tino a manu              ‘Sirius’ (tino ‘body’)
- Pn:     Tikopia          te opiŋa o manu             ‘Manuk’s armpit’ (Feinberg 1988:101)
-                                                        A Tikopian name but commonly used
-                                                        on Anuta.
+ Pn:     Rennellese      | te tino-manu |               ‘three bright stars at the end of Taurus’ (tino ‘body’)
+ Pn:     Anutan          | te kaokao o manu |           ‘Manuk’s armpit: a group of four small stars near Sirius; said to pass almost directly over Tikopia when approaching from Anuta’
+ Pn:     Anutan          | te tino a manu |             ‘Sirius’ (tino ‘body’)
+ Pn:     Tikopia         | te opiŋa o manu |            ‘Manuk’s armpit’ (Feinberg 1988:101) A Tikopian name but commonly used on Anuta.
 
 Procyon (or Betelgeuse) and Canopus are widely referred to as the north wing and
 south/east wing respectively in Micronesian Satawalese, where reference to Manuk is
 included, and in the Polynesian Outliers of Anuta, Tikopia and Pileni, where the Manuk
 reference has been dropped. 15
+
  Mic: Satawalese paīne-māne-mefuŋ             ‘Procyon (lit. ‘northern wing of Manuk’)
-                     paīne-māne-meir          ‘Canopus (lit. ‘southern wing of Manuk’)
- Pn: Anutan          te kapakau paka-tokerau ‘Procyon, the ‘north wing (of Manuk
-                                                constellation)’ (kapakau ‘wing’,
-                                                tokerau ‘north’
-                     te kapakau paka-toŋa     ‘Canopus, Manuk’s east wing’
-                                                (kapakau ‘wing’, toŋa ‘south/east’
+ Mic: Satawalese     paīne-māne-meir          ‘Canopus (lit. ‘southern wing of Manuk’)
+ Pn: Anutan          te kapakau paka-tokerau ‘Procyon, the ‘north wing (of Manuk constellation)’ (kapakau ‘wing’, tokerau ‘north’)
+ Pn: Anutan          te kapakau paka-toŋa     ‘Canopus, Manuk’s east wing’ (kapakau ‘wing’, toŋa ‘south/east’)
  Pn: Tikopia         kapakau faka-tokerau     ‘Betelgeuse’
-                     kapakau faka-toŋa        ‘probably Canopus’
- Pn: Pileni          trekapekau ki taumako    ‘Betelgeuse’(Taumako is an island east
-                                                northeast of Pileni)
-                     trekapekau ki ndeni      ‘Canopus’(Ndeni is an island southwest
-                                                of Pileni) (Lewis 1994:408)
+ Pn: Tikopia         kapakau faka-toŋa        ‘probably Canopus’
+ Pn: Pileni          trekapekau ki taumako    ‘Betelgeuse’(Taumako is an island east northeast of Pileni)
+ Pn: Pileni          trekapekau ki ndeni      ‘Canopus’(Ndeni is an island southwest of Pileni) (Lewis 1994:408)
 
    Individual stars within a constellation are frequently named because of their
 significance as seasonal or navigational markers, and at times because of a mythical
@@ -8001,30 +8097,31 @@ references are typically to Sirius.
    constellation Aquila.
 170    Meredith Osmond
 
-
+<
 PPn *takulua ‘a bright star’
  Pn: Tongan           takulua-tua-ʔalofi    ‘name of a large star’
-                      takulua-tua-fanua     ‘name of a large star’
+ Pn: Tongan           takulua-tua-fanua     ‘name of a large star’
  Pn: Tahitian         taʔurua-faupapa       ‘Sirius’
  Pn: Tuamotuan        takurūa               ‘star name: may be Venus, Jupiter or Saturn’
  Pn: Maori            takurua               ‘Sirius; winter’ (Åkerblom 1968:19)
  Pn: Marquesan        takuʔua               ‘Sirius; July’
  Pn: Hawaiian         kaulua                ‘Sirius; June-July or February-March’
+>
 
 In Hawaii, Sirius is also known as hōkū-hoʔokele-waʔa, literally ‘canoe-guiding star’.
 
+<
    We have another PPn reconstruction whose reference is apparently to a star or stars
 within the constellation of Orion.
 
 PPn *tākelo ‘name of a star or stars, possibly in Orion constellation’
- Pn: Tongan          takelo                ‘two stars in the northern sky’ (Makemson
-                                              1941:253)
+ Pn: Tongan          takelo                ‘two stars in the northern sky’ (Makemson 1941:253)
  Pn: Tahitian        taʔero                ‘Mercury’
  Pn: Maori           tākero                ‘an unidentified star; Mercury’
  Pn: Tuamotuan       takero                ‘Orion’s Belt’ (Makemson 1941:253)
  Pn: Marquesan       takeo                 ‘a star; June-July’
- Pn: Hawaiian        kāʔelo                ‘a star, perhaps Betelgeuse; name of a wet
-                                              month’
+ Pn: Hawaiian        kāʔelo                ‘a star, perhaps Betelgeuse; name of a wet month’
+>
 
 A Kiribati name for Betelgeuse is kāma-n-nuka. Kāma is the name of a mythical being,
 nuka ‘middle’ (Grimble 1931:241). Rigel is known there as te taubuki literally ‘ridge of
@@ -8079,6 +8176,7 @@ Maori term for the constellation is ao kai ‘season of food’ (Makemson 1941:2
 also recognizes two seasons, one marked by the appearance of the Pleiades, the other by
 Antares (Grimble 1972:223).
 
+<
    Blust has reconstructed PMP *buluq, POc *puluq ‘a constellation, the Pleiades’ with a
 single WMP reflex (from Sundanese) in addition to the Oceanic reflexes below. Many
 Polynesian languages use reflexes of PPn *mataliki.
@@ -8097,6 +8195,7 @@ POc *bulu(q) ‘a constellation, the Pleiades’ (ACD has *puluq)
    Ann Chowning (pers. comm.) has pointed out that, in common with the Southeast
 Solomonic terms above, an alternative Nakanai name for the Pleiades, matatabu, and their
 Sengseng name (li-m(e)lek), although unrelated, also denote fireflies.
+>
 
    In Polynesia and Micronesia a different term, translatable literally as ‘small face’ or
 ‘small eyes’ is widespread (POc *mata ‘eye’, *liki ‘small’). The Micronesian reflexes,
@@ -8108,10 +8207,9 @@ however, refer not to the Pleiades but probably to Sagittarius.
    being the term for their yellow feathered headdress.
 172    Meredith Osmond
 
-
+<
 PEOc *mataliki ‘name given to a significant star cluster’
- Mic: Marshallese     m4cɛt-r̡ikr̡ik ‘a constellation, stars in Sagittarius’
-                                          (lit. ‘small face/eyes’)
+ Mic: Marshallese     m4cɛt-r̡ikr̡ik ‘a constellation, stars in Sagittarius’ (lit. ‘small face/eyes’)
  Mic: Mortlockese     meisik            ‘stars in Hercules’
  Mic: Lamotrek        mairik            ‘name for the fourth month’
 PPn *mataliki ‘Pleiades’
@@ -8121,20 +8219,16 @@ PPn *mataliki ‘Pleiades’
  Pn: Samoan              mataliʔi          ‘Pleiades’
  Pn: Tuvalu              mataliki          ‘Pleiades’
  Pn: Anutan              matariki          ‘Pleiades’
- Pn: Tikopia             matariki          ‘Pleiades (sign of advent of trade wind season
-                                             when appears on eastern horizon before dawn,
-                                             also sign for turmeric extraction)’
+ Pn: Tikopia             matariki          ‘Pleiades (sign of advent of trade wind season when appears on eastern horizon before dawn, also sign for turmeric extraction)’
  Pn:   Tahitian           matariʔi         ‘Pleiades’
- Pn:   Maori              matariki         ‘Pleiades, the first appearance of which before
-                                             sunrise indicated the beginning of the Maori
-                                             year (about the middle of June)’
+ Pn:   Maori              matariki         ‘Pleiades, the first appearance of which before sunrise indicated the beginning of the Maori year (about the middle of June)’
  Pn:   Marquesan          mataʔiʔi         ‘Pleiades; June’
- Pn:   Hawaiian           makaliʔi         ‘Pleiades; month name; the six summer months
-                                             collectively’
+ Pn:   Hawaiian           makaliʔi         ‘Pleiades; month name; the six summer months collectively’
 
    A number of similar terms for the Pleiades in Micronesian languages (Mortlockese
 mariker, Puluwatese mwariker, Woleaian mwexaz̡ixez̡, Carolinian mw4rixær) are not
 reflexes of the above, reflecting instead PChk *mwakariker.
+>
 
 
 6.5.2.5 Southern Cross
@@ -8153,12 +8247,13 @@ same term denotes both the Southern Cross and a triggerfish, also seen as simila
 constellation in shape. The Samoan term for the Southern Cross, sumu, although not
 cognate, is also the term for a triggerfish.
 
+                                                        Navigation and the heavens     173
+
+<
    Although the Southern Cross is typically associated with the southern hemisphere,
 it is visible in the lower latitudes of the northern hemisphere, and is a significant
 navigational constellation for Micronesia. Specific terms indicate whether it is seen as
 upright, on either diagonal or lying horizontally on either side (Lewis 1994:103–106). A
-                                                        Navigation and the heavens     173
-
 PEOc reconstruction is proposed. The Hawaiian term, newe, may be a borrowing from the
 upright position Carolinian form (see below).
 
@@ -8176,21 +8271,18 @@ PEOc *bubu ‘Southern Cross; triggerfish’
                                            fish’
  Mic: Carolinian      bwūbw              ‘Southern Cross; triggerfish’
                       wenewenūbw         ‘Southern Cross in upright position’
+>
+
    Other terms are descriptive, with the net metaphor and the cross shape or crucifix
 recurring.
- SES: Sa’a          ʔape                ‘Southern Cross’ (lit. ‘large square fishing
-                                          net fixed on four upright poles’)
- Fij: Bauan         kalokalo-ni-ðeva ‘Southern Cross’ (kalokalo ‘star’, ðeva
-                                          ‘the south or southeast wind’)
+ SES: Sa’a          ʔape                ‘Southern Cross’ (lit. ‘large square fishing net fixed on four upright poles’)
+ Fij: Bauan         kalokalo-ni-ðeva ‘Southern Cross’ (kalokalo ‘star’, ðeva ‘the south or southeast wind’)
  Pn: Anutan         te kupeŋa           ‘The Net: Southern Cross’
- Pn: Tikopia        te kau kupeŋa       ‘pole-net handle’ (kau ‘handle’ probably
-                                          refers to the Pointers rather than the Cross,
-                                          which is the net.)
+ Pn: Tikopia        te kau kupeŋa       ‘pole-net handle’ (kau ‘handle’ probably refers to the Pointers rather than the Cross, which is the net.)
  Pn: Rennellese     kau-kupeŋa          ‘Southern Cross; net handle, net frame’
  Pn: K’marangi      tina ti raŋi        ‘Southern Cross’ (lit. ‘sky mother’)
  Pn: Tikopia        te uru a taŋata     ‘Southern Cross’ (lit. ‘man’s head’)
-                    rakau tapu          ‘Southern Cross’ (lit. ‘sacred timber’)
-                                          (Lewis 1994:407)
+                    rakau tapu          ‘Southern Cross’ (lit. ‘sacred timber’) (Lewis 1994:407)
   Pn: Hawaiian      hōkū-keʔa           ‘Southern Cross’ (keʔa ‘cross, crucifix’)
 
 
@@ -8237,29 +8329,25 @@ PEOc *u(C)unu ‘Aldebaran’
  Mic: Kiribati      un                    ‘the name of a star’
  Mic: Mortlockese   un(allual)            ‘Aldebaran and Orion’
  Mic: Puluwatese    wūn                   ‘Aldebaran; month about late July’
- Mic: Woleaian      ūru                   ‘Aldebaran. Also the name for a kind of dorfin’
-                                             (dorsal fin also triangular [MO])
+ Mic: Woleaian      ūru                   ‘Aldebaran. Also the name for a kind of dorfin’ (dorsal fin also triangular [MO])
  Mic: Lamotrek         ul                 ‘Aldebaran’
  Mic: Satawalese       ul                 ‘Aldebaran’
- Mic: Carolinian       wūn                ‘the star Aldebaran; synodic month, approx.
-                                             July–August’
+ Mic: Carolinian       wūn                ‘the star Aldebaran; synodic month, approx. July–August’
  Pn:   K’marangi       ūnu te             ‘star name’ (Pukui & Elbert 1973)
 Other names located for Aldebaran include:
- Mic: Kiribati         te boto-n-aiai   ‘Aldebaran (in Taurus)’ (lit. ‘base of ribs (aiai)
-                                           of canoe’, because it stands in the V-shaped
-                                           portion of Taurus) (Grimble 1931:241)
+ Mic: Kiribati         te boto-n-aiai   ‘Aldebaran (in Taurus)’ (lit. ‘base of ribs (aiai) of canoe’, because it stands in the V-shaped portion of Taurus) (Grimble 1931:241)
  Mic: Marshallese      l oc-l apl ap ‘Aldebaran in Taurus’ (lit. ‘big bonito’)
                                 
 
- Pn: Tahitian          ana muri         ‘Aldebaran’ (Lewis 1994:403) (‘rear pillar
-                                           supporting the sky’; cf. ana mua ‘front pillar,
-                                           Antares)
+ Pn: Tahitian          ana muri         ‘Aldebaran’ (Lewis 1994:403) (‘rear pillar supporting the sky’; cf. ana mua ‘front pillar, Antares)
  Pn: Maori             wero-i-te-kokota ‘Aldebaran’ (‘herald of the digging season’)
+
                                                           Navigation and the heavens     175
 
 
 6.5.2.8 Polaris
 
+<
    Polaris marks the centre of the North Celestial Pole. From the viewpoint of a stationary
 observer it never moves. It is also a good indicator of how far north of the Equator you
 happen to be. In Western terminology, if Polaris is 15° above the horizon, then your
@@ -8274,14 +8362,14 @@ PChk *fitū mwakut ‘Polaris’ (lit. ‘star not moving’)
  Mic: Satawalese      fuese magut             ‘Polaris’
  Mic: Carolinian      fise m oxut
                              w                ‘Polaris’
- Mic: Woleaian          werewereri iyefaŋi ‘Polaris’ (werewere ‘straight, steady, still’,
-                                             iyefaŋi ‘north’)
+ Mic: Woleaian          werewereri iyefaŋi ‘Polaris’ (werewere ‘straight, steady, still’, iyefaŋi ‘north’)
  Pn:   Tahitian         ana-niʔa           ‘Polaris’ (Lewis 1994:403)
  Pn:   Hawaiian         hōkū-paʔa          ‘Polaris or North Star’ (paʔa ‘firm, steadfast’)
-
+>
 
 6.5.2.9 Altair
 
+<
    The only cognate set located is from Micronesia. References may be at times to the
 constellation of Aquila rather than its most prominent star, Altair. The five Chuukic
 languages reflect ‘PEOc/PMic *maRi/*mai ‘breadfruit’ while the Marshallese term,
@@ -8292,11 +8380,9 @@ PChk *mai-lapa ‘Altair’ (lit. ‘big/old breadfruit’)
                                               ‘breadfruit’, l4p ‘big, old’ (Appearance of
                                               Altair marks the season of old breadfruit,
                                               northeast winds and much sailing.
-                                              m4yl4p4nef4ŋ is the name given to the
-                                              season) (Elbert 1972)
+                                              m4yl4p4nef4ŋ is the name given to the season) (Elbert 1972)
  Mic: Mortlockese      meilap              ‘the constellation Aquila’
- Mic: Woleaian         māirapa             ‘Altair, the most prominent star in Carolinian
-                                              navigation, a winter month’
+ Mic: Woleaian         māirapa             ‘Altair, the most prominent star in Carolinian navigation, a winter month’
  Mic: Carolinian       m4ilap             ‘the star Altair’
  Mic: Satawalese       mailap              ‘Altair’ (McCoy 1976)
  cf. also:
@@ -8304,11 +8390,14 @@ PChk *mai-lapa ‘Altair’ (lit. ‘big/old breadfruit’)
 
   The Maori name for Altair is poutu-te-raŋi ‘pillar of heaven’, a reference to a creation
 myth in which the sky is supported on pillars (Makemson 1941:64).
+>
+
 176   Meredith Osmond
 
 
 6.5.2.10 Antares
 
+<
    Antares, in the western constellation of Scorpio, ranks with the Pleiades as the most
 important of the calendar stars throughout the whole Pacific area (Makemson 1941:98). I
 have located cognate sets from both Micronesia and Polynesia, terms from the latter
@@ -8341,58 +8430,60 @@ PNPn *mele-mele ‘Venus or Antares’
 The Tahitians called Antares ana mua. For them it represented the front pillar, the parent
 pillar of the sky (Makemson 1941:36). The Rennellese term for the constellation Scorpio is
 tugā-gupe, literally ‘flock of pigeons’.
-
+>
 
 6.5.2.11 Pegasus
 
   The star names listed from this point onward are reconstructable only for Proto
 Micronesian or for the lower-order Micronesian interstage of Proto-Chuukic.
 
+<
 PMic *lakV ‘stars in Pegasus’
  Mic: Marshallese        lak               ‘stars in Pegasus’
  Mic: Mortlockese        la                 ‘Pegasus’
  Mic: Puluwatese         la                 ‘star in Pegasus; month at beginning of
                                               breadfruit season, about May’
-                                                           Navigation and the heavens         177
-
  Mic: Satawalese           na               ‘Alpheratz; about May’
  Mic: Woleaian             rax              ‘Pegasus’ (Alkire 1970:39)
+>
+                                                           Navigation and the heavens         177
 
 
 6.5.2.12 Dolphin constellation (including Cassiopeia)
 
+<
 PMic *kua ‘Dolphin constellation incl. Cassiopeia’ (approximately equivalent to Aries)
- Mic: Kiribati          kua              ‘constellation incl. Andromeda, Perseus and
-                                           Cassiopeia’ (kua ‘whale, porpoise’)
+ Mic: Kiribati          kua              ‘constellation incl. Andromeda, Perseus and Cassiopeia’ (kua ‘whale, porpoise’)
  Mic: Mortlockese       ku               ‘Aries’
  Mic: Puluwatese        kūw              ‘Cassiopeia, plus some other stars; porpoise’
- Mic: Woleaian          xu               ‘huge constellation including Cassiopeia and
-                                           Cetus; porpoise’
+ Mic: Woleaian          xu               ‘huge constellation including Cassiopeia and Cetus; porpoise’
  Mic: Carolinian        xūw              ‘constellation Aries’
- Mic: Satawalese        xu               ‘Dolphin constellation, whose tail is marked
-                                           by Cassiopeia’
+ Mic: Satawalese        xu               ‘Dolphin constellation, whose tail is marked by Cassiopeia’
+>
+<
 PChk *ukulīk ‘Cassiopeia’ (lit. ‘tail of fish’) (POc *ikuR ‘tail’, *ikan ‘fish’)
  Mic: Puluwatese        wikinlik             ‘Cassiopeia’ (lit. ‘fish tail’)
  Mic: Woleaian          ixirīx               ‘Cassiopeia’
  Mic: Carolinian        ikkinīx              ‘star or stars in constellation of Cassiopeia’
  Mic: Satawalese        exulix               ‘Cassiopeia’
  cf. also:
- Mic: Marshallese     lokwan lakeke ‘Cassiopeia’ (lit. ‘tail of porpoise’. Lakeke
-                                                is a constellation shaped like a porpoise)
-
+ Mic: Marshallese     lokwan lakeke ‘Cassiopeia’ (lit. ‘tail of porpoise’. Lakeke is a constellation shaped like a porpoise)
+>
 
 6.5.2.13 Delphinus
 
+<
 PMic *tapia ‘Bowl constellation, approximately Delphinus’ (POc *tabiRa ‘wooden bowl’)
  Mic: Marshallese       c4pe            ‘constellation: stars in Delphinus; bowl’
  Mic: Puluwatese        h4piy           ‘bowl, calabash’
  Mic: Carolinian        s4pi            ‘constellation approximately Delphinus’
  Mic: Satawalese        sepie           ‘Delphinus: represents a carved wooden bowl’
  Mic: Woleaian          tapiy           ‘Delphinus star; bowl’
-
+>
 
 6.5.2.14 Arcturus
 
+<
 PMic *aremoi ‘Arcturus’ (brightest star of Bootes constellation)
  Mic: Marshallese       ar̡              ‘Arcturus’
  Mic: Mortlockese       aramoi           ‘Arcturus’
@@ -8402,10 +8493,11 @@ PMic *aremoi ‘Arcturus’ (brightest star of Bootes constellation)
  Mic: Satawalese        aremoi           ‘Arcturus’
  Mic: Woleaian          yaz̡emōi         ‘Arcturus’
  Mic: Lamotrek          aramoi           ‘Arcturus’
-178    Meredith Osmond
 
 In Tuamotuan and Hawaiian, Arcturus and possibly the whole constellation of Bootes, is
 known by the term for a frigate bird, kiva and ʔiwa respectively (Makemson 1941:221).
+>
+178    Meredith Osmond
 
 
 6.5.2.15 Corvus, Leo, Vega, Corona Borealis, Ursa Major, Equeleus
@@ -8413,6 +8505,7 @@ known by the term for a frigate bird, kiva and ʔiwa respectively (Makemson 1941
   The following star reconstructions are limited to Proto Chuukic, a subgroup of
 Micronesian.
 
+<
 PChk *taropwolu ‘constellation Corvus’
  Mic: Mortlockese        soropuel      ‘Corvus’
  Mic: Puluwatese         h4repwəl      ‘Corvi’
@@ -8421,39 +8514,42 @@ PChk *taropwolu ‘constellation Corvus’
  Mic: Woleaian           saz̡eer      ‘Corvus; a summer month’
  Mic: Lamotrek           sorabol       ‘Corvus’ (lit. ‘viewer of the taro patches’)
  Mic: Sonsorolese        talebwər     ‘name of a star’
+>
+<
 PChk *ici ‘constellation Leo’
  Mic: Mortlockese         yis            ‘constellation Leo’
  Mic: Puluwatese          yic̡c̡         ‘name for three unidentified stars’
  Mic: Woleaian            ic̡            ‘star in Leo (Hydra or Regulus)’
+>
+<
 PChk *mul ‘Vega, brightest star in constellation Lyra’
  Mic: Puluwatese        mə̄l             ‘Vega; a month about February’
  Mic: Carolinian        mə̄l             ‘star Vega’
  Mic: Satawalese        mun              ‘Vega’
  Mic: Woleaian          mer              ‘Vega’
+>
+<
 PChk *caw ‘Dip net constellation, approximately Corona Borealis’
- Mic: Puluwatese        r̡ōw           ‘star and a month at the end of the breadfruit
-                                         season, about December; hand net’
- Mic: Carolinian        s̡ōw           ‘constellation approximately equivalent
-                                         to Corona Borealis; dipping net’
- Mic: Satawalese        roe            ‘Corona Borealis, shaped like a dip net’
-                                         (roe lit. ‘dip net’)
+ Mic: Puluwatese        r̡ōw           ‘star and a month at the end of the breadfruit season, about December; hand net’
+ Mic: Carolinian        s̡ōw           ‘constellation approximately equivalent to Corona Borealis; dipping net’
+ Mic: Satawalese        roe            ‘Corona Borealis, shaped like a dip net’ (roe lit. ‘dip net’)
  Mic: Woleaian          s̡oū           ‘a Corona Borealis star’
+>
+<
 PChk *wuleko ‘stars in Ursa Major’
  Mic: Puluwatese         wələ            ‘stars in big Dipper, Ursa Major’
- Mic: Satawalese         wulego          ‘four stars of Ursa Major (Dubhe, Megrez,
-                                         Phaeda, Merak) which constitute the cup of
-                                           the Big Dipper’s ladle’
+ Mic: Satawalese         wulego          ‘four stars of Ursa Major (Dubhe, Megrez, Phaeda, Merak) which constitute the cup of the Big Dipper’s ladle’
  Mic: Woleaian             werexe        ‘star in Ursa Major’
+>
+<
 PChk *tə̄(d,z)a ‘constellation Equeleus’ (tiny constellation between Pegasus and Aquila)
  Mic: Mortlockese          sota           ‘Equeleus’
  Mic: Puluwatese           hə̄ta          ‘Equeleus; month about April’
-                                                          Navigation and the heavens      179
-
- Mic: Carolinian       sƝta               ‘month in the traditional siderial calendar,
-                                            about April’
- Mic: Satawalese       ceuta              ‘stars in Equeleus; month about April’
-                                            (Thomas 1987:239, 270)
+ Mic: Carolinian       sƝta               ‘month in the traditional siderial calendar, about April’
+ Mic: Satawalese       ceuta              ‘stars in Equeleus; month about April’ (Thomas 1987:239, 270)
  Mic: Woleaian         sita               ‘Aquarius, a winter month’
+>
+                                                          Navigation and the heavens      179
 
 
 6.5.2.16 Magellanic Clouds
@@ -8464,9 +8560,7 @@ Magellanic Clouds, which appear as two distinct nebulae, sometimes distinguished
 ‘flying’ or ‘stationary’ respectively.
 
 PPn *maqafu ‘Magellanic Clouds’
- Pn: Tongan        maʔafu                 ‘Magellanic Clouds, a primary reference point
-                                           for Tongan orientation. maʔafu lele ‘flying
-                                           fire’ and maʔafu toka ‘stationary fire’’
+ Pn: Tongan        maʔafu                 ‘Magellanic Clouds, a primary reference point for Tongan orientation. _maʔafu lele_ ‘flying fire’ and _maʔafu toka_ ‘stationary fire’’
  Pn:   Pileni          lua mafu           ‘Magellanic Clouds’ (Lewis 1994:406)
  Pn:   Manihiki        rua mafu           ‘Magellanic Clouds’ (Lewis 1994:407)
 
@@ -8485,6 +8579,7 @@ changing position of the Milky Way. She quotes a Hawaiian expression huli ke au
 literally ‘[the handle of] the Milky Way has turned’ as equivalent to ‘it is now past
 midnight’. The following cognate set is from Polynesia.
 
+<
 PPn *kaniwa ‘the Milky Way’
  Pn: Tongan         kaniva
  Pn: Samoan         ʔaniva
@@ -8492,6 +8587,7 @@ PPn *kaniwa ‘the Milky Way’
  Pn: Tikopia        te kau tu keniva      ‘the Milky Way’ (lit. ‘handle of keniva’)
  Pn: Tokelauan      kaniva
   Pn: W Futunan     kaniva
+>
 
     In Gedaged (NNG) the Milky Way is wat-dadeŋ (wat ‘driftwood, flotsam’, dadeŋ
 ‘trade, barter’). The association is not explained. In Lau (SES), it is simply tala ‘the path’,
@@ -8500,11 +8596,11 @@ while in Carolinian the galaxy is mesal fúú, literally ‘the face of stars’
    Makemson (1941:183–186) lists a range of picturesque terms used by the Polynesians
 for the Milky Way which include Mangaian moko-roa-i-ata, literally ‘long lizard of
 morning’ Hawaiian kuamoʔo ‘backbone of lizard’, Tuamotuan vaero-o-te-moko ‘tail of the
-180    Meredith Osmond
-
 lizard’ and a group of Maori terms, ika-nui ‘great fish’, ika-roa ‘long fish’ and maŋo-roa
 ‘long shark’. Still another Maori term for the Milky Way is pae-roa-o-whanui, literally
 ‘the long threshold of wide space’.
+
+180    Meredith Osmond
 
 
 6.5.3 Star path
@@ -8520,13 +8616,12 @@ Lewis records identical advice given to him by a Tongan navigator in 1965, who r
 ‘kaveinga, the star path’ (1978:18). This term has a well-supported PPn antecedent and
 etymology.
 
+<
 PPn *kaweiŋa ‘that which is steered for (usually a star)’ (From PPn *kawe ‘to carry’+ -i
  ‘verbal suffix from POc transitive marker *i’ + -ŋa ‘nominaliser’)
   Pn: Tongan            kaveiŋa          ‘star or other object for which one steers’
-  Pn: Pukapukan         kaveiŋa          ‘a group of stars on the same declination,
-                                            thought of as a constellation’
-  Pn: Tikopia           kaveŋa           ‘carrier; esp. navigational aid by sequence
-                                            of stars, star path’
+  Pn: Pukapukan         kaveiŋa          ‘a group of stars on the same declination, thought of as a constellation’
+  Pn: Tikopia           kaveŋa           ‘carrier; esp. navigational aid by sequence of stars, star path’
   Pn: Tahitian          aveiʔa           ‘star path’
   Pn: Tuamotuan         kave(e)iŋa       ‘guiding star’
   Pn: Rarotongan        kaveiŋa          ‘that which is steered for’
@@ -8538,14 +8633,15 @@ moment. A star path or sequence of stars that is followed from one island to the
 including those stars not yet risen or already set, is a kau panoŋa porau.’ (lit. ‘company or
 group for voyaging’). Feinberg describes this as the Anutans’ single most important
 navigational tool.
+>
 
    For Tikopia, Firth offers a purely literal term of ara fetū ‘star path’, and compares it
-with ara a vaka ‘canoe path’, the latter presumably referring to the actual sea route.
+with _ara a vaka_ ‘canoe path’, the latter presumably referring to the actual sea route.
 According to Grimble (1972:296), the Maori term for star path is also ara fetū.
 
    The Micronesians followed successive rising or falling stars in the same way. The name
-given to star courses learnt by navigators on Woleai was wōfariw (Alkire 1970:45), and on
-Satawal, wofanu, literally ‘gaze at the island’ (Thomas 1988:261).
+given to star courses learnt by navigators on Woleai was _wōfariw_ (Alkire 1970:45), and on
+Satawal, _wofanu_, literally ‘gaze at the island’ (Thomas 1988:261).
 
    Beatrice Blackwood documents a voyage in the northwest Solomons from Buka to
 Nissan made by Hanahan speakers which agrees in every respect with Firth’s description
@@ -8563,6 +8659,7 @@ compound forms have become lexicalised.
 
 6.5.4.1 Rising
 
+<
    POc *sake had as its primary sense ‘rise, go up’. But it also had the sense of ‘ride on
 something, e.g. a canoe, catch a ride’. Both senses go back to PMP *sa(ŋ)kay. POc reflexes
 can also carry the directional ‘east’.
@@ -8571,7 +8668,7 @@ PMP *sa(ŋ)kay ‘catch a ride, ride on something’ (ACD)
 POc *sake ‘rise, go up; upwards’ (see also p.273)
  Adm: Mussau             (sae)sae(na)    ‘upwards’
  NNG: Kove               rae             ‘rise’ (Chowning)
-                         sae             ‘up, eastwards along the coast’ (Chowning)
+ NNG: Kove               sae             ‘up, eastwards along the coast’ (Chowning)
  PT:   Motu              dae             ‘ascend’
  MM: Bali-Vitu           ðaɣe            ‘(sun) rise’
  MM: Nakanai             sae             ‘rise’
@@ -8585,25 +8682,20 @@ POc *sake ‘rise, go up; upwards’ (see also p.273)
  Mic: Ponapean           tak             ‘rise, of the sun and moon’
  Mic: Mokilese           tak             ‘rise (of sun); to shine’
  Mic: Kosraean           tak             ‘rise’
- Mic: Woleaian           tax             ‘upward, eastward, up’ (xetaxe-fis (N),
-                                            ‘rising stars’ eg taxari-pwu ‘Crux rising’,
-                                            taxrli-metaz̡iwa ‘Scorpio rising’. Also
-                                            taxari-yaro ‘sunrise’)
- Mic: Puluwatese         t4n            ‘(star) rise in the east’ e.g. tānupw ‘rising
-                                            Southern Cross’, tāni mə̄l ‘rising Vega’.
-                                            Lewis refers to (uncorrected spelling) daane
-                                            elüüel ‘rising Orion’s Belt, 90°’, daane
-                                            mailöb ‘rising Altair, 83°’, and daan uun
-                                            ‘rising Aldebaran, 75°’ (Lewis 1994:404)
+ Mic: Woleaian           tax             ‘upward, eastward, up’ (xetaxe-fis (N), ‘rising stars’ eg taxari-pwu ‘Crux rising’, taxrli-metaz̡iwa ‘Scorpio rising’. Also taxari-yaro ‘sunrise’)
+ Mic: Puluwatese         t4n            ‘(star) rise in the east’ e.g. tānupw ‘rising Southern Cross’, tāni mə̄l ‘rising Vega’. Lewis refers to (uncorrected spelling) daane elüüel ‘rising Orion’s Belt, 90°’, daane mailöb ‘rising Altair, 83°’, and daan uun ‘rising Aldebaran, 75°’ (Lewis 1994:404)
  Mic: Carolinian         t4n            ‘rising (esp. heavenly bodies)’
  Fij:  Bauan             ðake            ‘east; upwards’
  Pn:   Tongan            hake            ‘go up, esp. from the sea to the land’
-                         ha-hake         ‘east’
+ Pn:   Tongan            ha-hake         ‘east’
+>
+
 182    Meredith Osmond
 
 
 6.5.4.2 Setting
 
+<
    The POc term usually contrasted with *sake ‘to go up, upwards’ is *sipo ‘go down,
 downwards’. Reflexes sometimes refer as well to the directional ‘west’ just as *sake
 reflexes refer to ‘east’.
@@ -8611,7 +8703,7 @@ reflexes refer to ‘east’.
 POc *sipo ‘go down, downwards’ (see also p.271)
  Adm: Lou             si              ‘down; descend’
  NNG: Kove            rio             ‘descend, lie down, be swallowed’
-                      sio             ‘down, westward along the coast’
+ NNG: Kove            sio             ‘down, westward along the coast’
  PT:    Motu          diho            ‘go down, descend’
  MM: Bali-Vitu        (va)ðiɣo(ni)    ‘downwards’
  MM: Nakanai          sivo            ‘go down’
@@ -8625,15 +8717,14 @@ POc *sipo ‘go down, downwards’ (see also p.271)
                       tub u           ‘sink, go down, set (of sun, moon, stars)’.
                           w
                       tub ul          (N) ‘setting, setting position of stars etc.’
- Mic: Woleaian        tuu            ‘set, of heavenly bodies’ (e.g. tuuri-werexe
-                                        ‘Ursa Major setting’, tuuri-yaro ‘setting
-                                         sun’)
+ Mic: Woleaian        tuu            ‘set, of heavenly bodies’ (e.g. tuuri-werexe ‘Ursa Major setting’, tuuri-yaro ‘setting sun’)
  Fij:   Bauan         ðivo-ðivo       ‘wind sweeping down from hills’
  Pn:    Samoan        ifo             ‘downwards’
  Pn:    Tongan        hifo            ‘downwards’
  Pn:    Tikopia       ifo             ‘down, come down, descend’
  Pn:    Maori         iho             ‘downwards’
  Pn:    Hawaiian      iho             ‘downwards’
+>
 
     In Chapter 3 (p.85) we reconstructed POc *solo ‘sink down, subside’, with reflexes
 from the Solomons and Polynesia referring to landslides. In Puluwatese (Mic), a reflex of
@@ -9324,9 +9415,9 @@ with no obvious difference in meaning (e.g. *[ma]lago ‘long, tall’ (p.204); 
 *ma-,5 (Huang 2000, Zeitoun & Huang 2000); *pa- and *paka-, the productive POc
 
 
-3 The story of *ma- in Evans and Ross (2001) is better founded than that in vol. 1, p.25.
-4 This circumstance is discussed at length by Evans and Ross (2001).
-5 At a very early period (PAn/PMP), *ka- was a morpheme that derived statives, whilst *ma- was the
+[3] The story of *ma- in Evans and Ross (2001) is better founded than that in vol. 1, p.25.
+[4] This circumstance is discussed at length by Evans and Ross (2001).
+[5] At a very early period (PAn/PMP), *ka- was a morpheme that derived statives, whilst *ma- was the
   corresponding finite form (from *‹um› + *ka-; with regard to *‹um› see vol. 1, p.29). Thus Huang
   (2000:378) shows that in Mayrinax Atayal (Formosan) statives that take ma- in their declarative
   affirmative form take *ka- in their negative form. Zeitoun and Huang (2000) show that in Pazeh, ma-
@@ -9358,6 +9449,7 @@ lavu, Marshallese lap-lap) and one of a reduplicated plural form *la-lapuat
 (Marshallese l-lap). Both reduplication strategies characterised adjectival nouns in POc
 (Ross 1998a).
 
+<
     Elsewhere I have reconstructed the term for ‘big’ as *labwat (Ross 1998a:109), as the
 medial consonant in many of the forms below seems to reflect either *b or *bw. The Loniu
 and SV forms offer apparent disambiguation in favour of *bw. Whilst *labwat must have
@@ -9365,9 +9457,12 @@ occurred in the history of many of the forms below, it is not reflected by the R
 Hoava, SES, Mota or Raga forms, where the medial consonant appears to reflect *p The
 form *lapuat accounts for apparent reflexes of both *-bw- and *-p-. The forms which
 appear to reflect *-p- do just that. Moreover, Tigak lavu, West Kara labu, Raga lavoa and
-Bauan levu directly reflect medial *-pu-.6 The forms which appear to reflect *-bw- also do
+Bauan levu directly reflect medial *-pu-.[6] The forms which appear to reflect *-bw- also do
 just that, but this *-bw- reflects a later interstage: POc medial *-pua- became first *-pwa-,
 then *-bwa-.
+
+[6] For Tigak and W. Kara the interstages *-pwu-, then *-bu- must be posited. For Bauan, where we find levu
+  for expected **lavua, we must infer irregular raising of *-a- to -e- and loss of later final *-a.
 
     The sound changes in the paragraph above remain tentative, as there are few cases to
 compare this cognate set with. However, the least obvious step proposed above is that
@@ -9379,23 +9474,17 @@ reflects POc *-R, *-k or *-q.
 
 POc *lapuat ‘big, important’ (Lichtenberk 1986:350: *la(m)pat ‘(be) big, great’)
  Adm: Seimat              la-lap             ‘big, important’
- Adm: Loniu                   w
-                          lap a(na-n)        ‘big, important’
+ Adm: Loniu               lapʷa(na-n)        ‘big, important’
  Adm: Koro                laba-n             ‘chieftain’
  Adm: Mussau              (kula)laba         ‘big, important’
-
-[6] For Tigak and W. Kara the interstages *-pwu-, then *-bu- must be posited. For Bauan, where we find levu
-  for expected **lavua, we must infer irregular raising of *-a- to -e- and loss of later final *-a.
-198    Malcolm Ross
-
  NNG: Manam                     laba                   ‘big, wide’
-                                labata-                ‘width’
+ NNG: Manam                     labata-                ‘width’
  NNG:     Terebu                labi                   ‘big, important’
  NNG:     Kairiru               (wo)lab                ‘big, important’
  NNG:     Ulau-Suain            laba                   ‘big, important’
  MM:      Lavongai              lava                   ‘big, important’
  MM:      Tigak                 lavu                   ‘big, important’
-                                lap-lavu               ‘very big’
+ MM:      Tigak                 lap-lavu               ‘very big’
  MM:      Kara (West)           labu                   ‘big, important’
  MM:      Nalik                 laba                   ‘big, important’
  MM:      Roviana               lavata                 ‘great’
@@ -9413,13 +9502,16 @@ POc *lapuat ‘big, important’ (Lichtenberk 1986:350: *la(m)pat ‘(be) big, g
  SV:      Whitesands            epwət                  ‘big, important’
  SV:      Anejom                (a)lpwas               ‘big, important’
  Mic:     Marshallese           lap                   ‘great, large’
-                                l-lap                ‘great, large (PL)’
-                                lap-lap              ‘very great, very large’
+ Mic:     Marshallese           l-lap                ‘great, large (PL)’
+ Mic:     Marshallese           lap-lap              ‘very great, very large’
  Mic: Woleaian                  rap                    ‘big, important’
  Fij:      Bauan                levu                   ‘big, important’
  cf. also:
  NNG: Mapos Buang               levk                   ‘big, important’
  NNG: Patep                     lɛvak                  ‘big, important’
+>
+198    Malcolm Ross
+
 
    Inherited POc terms for ‘small’ were *qitik, with a variant *qitek, and *riki(t,q)/*ri-
 riki(t,q). There is reasonable evidence in the cognate set below that POc *ri-riki(t,q) was a
@@ -9441,13 +9533,16 @@ occurred at an earlier interstage. This contrast is reflected in the following c
 which reflect PPn *tama ‘child’ (from POc *tama- ‘father’):
       PPn                      *tama-qiti                 *tama-riki
                                ‘child’                    ‘chidren’
-      Tongan                   (tama-siʔi)8               tama-iki
+      Tongan                   (tama-siʔi)[8]               tama-iki
       E Uvean                  (tama-siʔi)                tama-liki
       Rennellese               tama-ʔiti-ʔiti             tama-giki
       Hawaiian                 kama-iki (rare)            kama-liʔi
       Tahitian                 tama-iti                   tama-riʔi
       Rarorongan               tama-iti                   tama-riki
       Maori                    tama-iti                   tama-riki
+
+[8] Tongan and E. Uvean -siʔi would reflect apparent PPn *tiqi, and are therefore perhaps metathesised
+  reflexes of PPn *qiti.
 
 The reconstruction of PPn *riki is complicated by the fact that Tongan has two forms: iki,
 reflecting *riki, and liki, which occurs only in compounds. The latter may be a borrowing.
@@ -9469,6 +9564,7 @@ have been expressed about this kind of sound symbolism (Hinton, Nichols & Ohala
 1994:4), that Oceanic speakers have a preference for the high front vowel in terms for
 ‘little’, a phenomenon which is common in other areas of the world too (Ultan 1978).
 
+<
 PMP *qitik ‘small, little; few’ (Blust 1986; ACD)
 POc *qitik, *qitek ‘small’
  Yap: Yapese              ʔacīg
@@ -9482,18 +9578,17 @@ POc *qitik, *qitek ‘small’
  Mic: Carolinian          xit
  Pn:    Rapanui           ʔiti-ʔiti
  Pn:    Samoan            iti-iti
-
-[8] Tongan and E. Uvean -siʔi would reflect apparent PPn *tiqi, and are therefore perhaps metathesised
-  reflexes of PPn *qiti.
-200    Malcolm Ross
-
  Pn:      Rennellese       ʔiti-ʔiti      ‘be small, not much, nor many’
  Pn:      Hawaiian         iki
  Pn:      Tahitian         iti
  Pn:      Tuamotuan        iti
  Pn:      Rarotongan       iti
  Pn:      Maori            iti
+>
 
+200    Malcolm Ross
+
+<
 PAn *diki[t,q] ‘little, few, small in amount’ (ACD)
 POc *riki(t,q) ‘small’, *ri-riki(t,q) ‘small (PL)’
  MM: Bali                  (ma)ri-(ma)riki ‘small (PL)’ (cf. kakauku SG)
@@ -9502,46 +9597,52 @@ POc *riki(t,q) ‘small’, *ri-riki(t,q) ‘small (PL)’
  NCV: Raga                 -rigi             ‘small’
  Fij:   Rotuman            ri-riʔi           ‘small, young (PL)’ (cf. meʔa-meʔa SG)
  Pn:    Tongan             iki               ‘small’
-                           i-iki             ‘small (non-singular)’
+ Pn:    Tongan             i-iki             ‘small (non-singular)’
  Pn:    Niuean             iki-iki           ‘small’
  Pn:    Tokelauan          liki              ‘small-sized’
  Pn:    Tuvalu             liki              ‘small (of person or chicken)’
  Pn:    Rennnellese giki                     ‘small’
  Pn:    Tikopia            riki              ‘small’
  Pn:    Sikaiana           liki-liki         ‘small’
-                           li-liki           ‘small (PL)’
+ Pn:    Sikaiana           li-liki           ‘small (PL)’
  Pn:    Hawaiian           liʔi              ‘small’
  Pn:    Tahitian           riʔi              ‘small (PL)’ (cf. iti SG)
  Pn:    Rarotongan         riki              ‘small’
  Pn:    Maori              riki              ‘small’
-                           ri-riki           ‘small (PL)’
+ Pn:    Maori              ri-riki           ‘small (PL)’
  Pn:    Tuamotuan          riki              ‘small’
  Pn:    Futuna-Aniwa rik-riki                ‘small (PL)’ (cf. sisi SG)
+>
+<
 POc *drik(i(t,q)) ‘small’
  NNG: Amara               di-dik          ‘small’
  Mic: Kosraean            s̡ik            ‘small’
  Mic: Carolinian          -s̡ix           ‘small, little, weak (in compounds only)’
  Mic: Marshallese r̡ik                    ‘lowly, small’
-                          r̡-r̡ik         ‘lowly, small (PL)’
-                          r̡ik-r̡ik       ‘very lowly, very small’
+ Mic: Marshallese         r̡-r̡ik         ‘lowly, small (PL)’
+ Mic: Marshallese         r̡ik-r̡ik       ‘very lowly, very small’
  Mic: Puluwatese          r̡ik            ‘be small (usually as a qualifier)’
-                          r̡irrik         ‘small’
+ Mic: Puluwatese          r̡irrik         ‘small’
+>
+<
 POc *liki ‘small’ (perhaps only in compounds)
  NNG: Arove             (tu)lik-lik     ‘small’
  MM: Lavongai           lik             ‘small’
  MM: Tigak              (lak)lik        ‘small’
  MM: Lihir              (ia)lik         ‘small’
-                                                       Properties of inanimate objects   201
-
  MM:     Madak             (kaka)lik       ‘small’
  MM:     Tolai             (iki)lik        ‘small’
  MM:     Minigir           (siki)liki      ‘small’
  MM:     Label             (si-sik)lik     ‘small’
-                           (kak)lik        ‘boy’
+ MM:     Label             (kak)lik        ‘boy’
  Pn:     Tongan            -liki           ‘small (in compounds only)’
  Pn:     Samoan            liʔi            ‘scattered in small fragments’
  Pn:     Ifira-Mele        -riki           ‘small’
  Pn:     Takuu             -riki           diminutive
+>
+                                                       Properties of inanimate objects   201
+
+<
 POc *kiki ‘small’
  MM: Torau                 kiki-(na)
  SES: Gela                 kiki
@@ -9555,6 +9656,7 @@ PWOc *siki ‘small’
  MM: Minigir               siki(liki)
  MM: Label                 si-sik(lik)
  MM: Babatana              (va)siki
+>
 
    There is good evidence that POc had at least two lexicalised possessee-like attribute
 constructions, whereby ‘mother of an X’ meant ‘big X’, and ‘child of an X’ meant ‘small
@@ -9562,6 +9664,7 @@ X’. A number of Oceanic languages in all three primary subgroups use reflexes 
 of’ and ‘child of’ as the usual adjectives meaning ‘big’ and ‘small’, or perhaps ‘biggest’
 and ‘smallest’, respectively.
 
+<
 POc *tina-ña ‘her/his mother; big, biggest’
  Adm: Bipi               tinan            ‘big’
  Adm: Nyindrou           tinan            ‘large, big’
@@ -9576,6 +9679,8 @@ POc *natu-ña ‘her/his child; small, smallest’
  MM: Patpatar            nat              ‘small’
  MM: Tolai               nat              ‘small’
  NCV: Lewo               nari-            ‘child, smallest’
+>
+
 202      Malcolm Ross
 
 
@@ -9666,6 +9771,8 @@ the Lou, Titan, Takia, Gumawana and Torau reflexes. Alternatively, in many Weste
 Oceanic languages of the NNG and PT linkages, there is a locative postposition -i or -ai
 (relecting the POc locative proform *iai), and forms like Sio malawa-e and Bing malwe-i
 suggest that some instances of -e may reflect final *-a-i resulting from its capture.
+
+<
 POc *b(w)arapu ‘long, tall’
  PT:    Kiriwina        -vanau              ‘long’
  MM: Kara (East)        vaiaf               ‘long’
@@ -9679,14 +9786,19 @@ POc *b(w)arapu ‘long, tall’
  SV:    Anejom          (o)pra              ‘long’
  NCal: Cèmuhî           pílİ̅hͅ˷-           ‘tall, big, enormous; size’
  Fij:   Bauan           balavu              ‘long, tall’ (l for expected *r)
+>
+
 204   Malcolm Ross
 
+<
 PMP *[ma]laŋkaw ‘high, tall’10 (ACD: *laŋkaw)
 POc *[ma]lago ‘long, tall’
  NNG: Amara            melak            ‘far away’
  NNG: Arove            malak            ‘long, far away’
  NNG: Kaulong          (no)malak        ‘long’
  MM: Meramera          lago             ‘long’
+>
+<
 PMP *lawa ‘wide’ (ACD)
 POc *[ma]lawa ‘(?) long, tall, far away; wide’
  Adm: Lou              ɛlɛwɛ-n            ‘long, tall’
@@ -9696,7 +9808,7 @@ POc *[ma]lawa ‘(?) long, tall, far away; wide’
  NNG: Malai            malau              ‘long; far away’
  NNG: Mangap           molo               ‘long, tall’
  NNG: Sio              malawa             ‘a long time’
-                       malawa(e)          ‘a long way’
+ NNG: Sio              malawa(e)          ‘a long way’
  NNG: Bebeli           lo-loi             ‘long’
  NNG: Bing             malwe(i)           ‘long’
  NNG: Takia            milae-n            ‘long’
@@ -9715,6 +9827,7 @@ POc *[ma]lawa ‘(?) long, tall, far away; wide’
  Pn:   Niuean          loa                ‘long, tall’
  Pn:   Samoan          loa                ‘be old, ancient; be a long time’
  Pn:   Maori           loa                ‘long, tall’
+>
 
 7.2.2.2 ‘short’
 
@@ -9728,6 +9841,7 @@ vintage.
    ‘tall’ (data from Tryon, ed. 1995).
                                                     Properties of inanimate objects      205
 
+<
 POc *tuku ‘short’
  Adm: Mussau            tuku            ‘short’
  NNG: Mutu              tuku            ‘short’
@@ -9735,6 +9849,8 @@ POc *tuku ‘short’
  NNG: Manam             -tuku(ra)       ‘short’
  MM: Label              tuk             ‘short’
  MM: Babatana           tuko            ‘short’
+>
+<
 POc *botoŋ ‘short’
  MM: Bali               botoŋo          ‘short’
  MM: Meramera           boto            ‘short’
@@ -9745,6 +9861,7 @@ POc *botoŋ ‘short’
  Pn:    Mele-Fila       pō-poto         ‘short’
  Pn:    Rapanui         poto-poto       ‘short’
  Pn:    Maori           poto            ‘short’
+>
 
 7.2.2.3 ‘far’/‘near’
 
@@ -9757,6 +9874,7 @@ receives some support from the fact that reflexes of POc *[ma]lago ‘long, tall
 
    A POc verbal root *sauq (V) ‘be far away’ is reconstructable.
 
+<
 PMP *Zauq ‘far away’ (Dempwolff 1938)
 POc *sauq (V) ‘be far away’, *sau-sauq (ADV) ‘far away’
  PT:    Tawala          dau             (V) ‘be far’
@@ -9771,8 +9889,6 @@ POc *sauq (V) ‘be far away’, *sau-sauq (ADV) ‘far away’
  SES: Talise            sau-na          ‘far’
  SES: Birao             sau             ‘far’
  SES: Longgu            tau             (V) ‘be far’
-206   Malcolm Ross
-
  SES:    Kwaio           tau              ‘far’
  SES:    Sa’a            tau              ‘far off, distant’
  NCV:    Raga            hau(tu)          (ADV) ‘far’
@@ -9785,6 +9901,10 @@ POc *sauq (V) ‘be far away’, *sau-sauq (ADV) ‘far away’
  Mic:    Carolinian      tāw              ‘far’
  Mic:    Woleaian        ttāw             (ADV) ‘far’
  Fij:    Rotuman         sou-sou          (ADV) ‘far’
+>
+206   Malcolm Ross
+
+<
 PMP *ma-Zauq ‘far away’ (Blust 1981)
 POc *ma-sauq (V) ‘be far away’
  Adm: Mussau           masau         ‘far away’
@@ -9795,6 +9915,7 @@ PWOc *ka-sauq (V) ‘be far away’
  MM: Babatana         köu                 ‘far’
  MM: Sisiqa           kəu                 ‘far’
  MM: Nduke            (ɣa)sau             ‘far’
+>
 
 In Ysabel (MM) languages, POc *sauq is reflected with the reciprocal prefix *paRi-, as in
 Kia (vari)hau ‘far’ and Laghu (vari)hau ‘far’. I take it that the sense was formerly ‘far
@@ -9811,13 +9932,14 @@ is not reflected without verb-deriving prefixes and is thus not reconstructable 
 Most commonly it is reflected with *ga-, a prefix that I do not recognise: it may be a
 variant of *ka-, which also occurs with *raŋi.
 
+                                                            Properties of inanimate objects      207
+
+<
     POc *raŋi appears to be descended from PMP *dani. The replacement of *-n- by *-ŋ-
 evidently occurred earlier than POc, as we find Buru (Central Malayo-Polynesian) b-raŋi-n
 (ADV) ‘near’.
-                                                            Properties of inanimate objects      207
 
-
-PMP *dani, *Sa-dani, *ma-dani ‘be near’11
+PMP *dani, *Sa-dani, *ma-dani ‘be near’[11]
 PCEMP *daŋi ‘be near’
 POc *garaŋi ‘be near’
  NNG: Takia           giriŋe-n                     ‘close, near by’
@@ -9827,6 +9949,14 @@ POc *garaŋi ‘be near’
                       galani-a, galaŋi-a           (V) ‘be near’
  SES: Arosi           garaŋi                       ‘near’
  SES: Fagani          karaŋi                       ‘near’
+
+[11] Supporting evidence for PMP *dani is Kagayanen Manobo dani (ADV) ‘near’, Dobel ren (ADV) ‘near’.
+   Evidence for *Sa-dani is Isneg (N. Cordilleran) adanni (ADV) ‘near’, Limos Kalinga (C. Cordilleran)
+   adaní (ADV) ‘near’, N. Samareño, Samar-Leyte, Waray (Bisayan) ha-ráni, Masbateño, Sorsogon, Gubat
+   (Danaw) ha-raní. Evidence for *ma-dani is Maranao, Iranun (Danaw) ma-rani, Ata, Dibabwon, Tigwa
+   (Manobo) ma-dani, Ilianen mi-rani.
+>
+<
 POc *karaŋi ‘be near’
  Adm: Mussau          kala-kalangi-na              (ADV) ‘near’
  NNG: Mangap          kolouŋa-na                   (ADV) ‘near’
@@ -9834,11 +9964,17 @@ POc *karaŋi ‘be near’
  SES: Gela            ɣaraŋi                       ‘near’
  SES: Bugotu          ɣarani                       ‘near’
  SES: Talise          ɣaraŋi                       ‘near’
+>
+<
 POc *pa-raŋi, *paka-raŋi ‘be near’
  SES: W Guad.         va-raŋi                      ‘near’
  SES: Bauro           haɣa-raŋi                    ‘near’
  SES: Kahua           haɣa-raŋi                    ‘near’
+>
+
+<
   There was also a POc term *tata ‘near’, perhaps an adverb:
+
 POc *tata (ADV) ‘near’
  MM: Lungga            tata                        ‘near’
  MM: Nduke             tata                        ‘near’
@@ -9847,26 +9983,22 @@ POc *tata (ADV) ‘near’
  Pn:    Tongan         tata                        ‘be near’
  Pn:    Tahitian       fa-tata                     (ADV) ‘near’
  Pn:    Maori          tata                        ‘be near, close’
-
+>
 
 7.2.2.4 ‘wide, spread out’
 
+<
 PMP *belaj ‘spread out to dry’ (ACD)
 POc (?) *ta-pola(s) ‘spread out (as of a mat); wide’
  NNG: Poeng             (sasa)pola             ‘wide’
  SES: Bugotu            tavoða                 ‘wide’
-
-[11] Supporting evidence for PMP *dani is Kagayanen Manobo dani (ADV) ‘near’, Dobel ren (ADV) ‘near’.
-   Evidence for *Sa-dani is Isneg (N. Cordilleran) adanni (ADV) ‘near’, Limos Kalinga (C. Cordilleran)
-   adaní (ADV) ‘near’, N. Samareño, Samar-Leyte, Waray (Bisayan) ha-ráni, Masbateño, Sorsogon, Gubat
-   (Danaw) ha-raní. Evidence for *ma-dani is Maranao, Iranun (Danaw) ma-rani, Ata, Dibabwon, Tigwa
-   (Manobo) ma-dani, Ilianen mi-rani.
-208    Malcolm Ross
-
  SES:     Lau            afola               ‘wide’
  SES:     Arosi          ahora               ‘wide’
  NCV:     Raga           tavola              ‘flat, wide, smooth’
  Pn:      Tongan         tafola              (VI) ‘be spread out, scattered about’
+>
+208    Malcolm Ross
+
 
 This term is related derivationally to POc *polas, *polas-i- ‘spread (s.t.) out’, reflected in
 (NCV) Tamambo vuolasi ‘spread (mat)’, Paamese hoosi ‘lay out (mat)’ and in (Pn)
@@ -9880,6 +10012,7 @@ probable that -pola in Poeng sasapola is derived independently from a reflex of 
    Three forms can be reconstructed for ‘thick’. The third, *[tubu]tubu[-ka], is derived
 from *tubuq ‘grow’.
 
+<
 PCEMP *telu ‘thick’
 POc *ma-tolu ‘thick’ (Clark 1996)
  NNG: Manam             matoli
@@ -9894,21 +10027,26 @@ POc *ma-tolu ‘thick’ (Clark 1996)
  Mic: Ponapean          mosul
  Fij:  Rotuman          mafolu
  Pn:   Tongan           matolu
-PMP *[ma-]kumba ‘thick (in dimension)’12
+>
+<
+PMP *[ma-]kumba ‘thick (in dimension)’[12]
 POc *kuba ‘thick (in dimension)’
  Fij:  Nadrogaa         kuba
  SV:    Kwamera         -kum-kum
+
+[12] The reconstruction of PMP *[ma]-kumba ‘thick’ is supported by the Oceanic data listed here and by
+   Da’a na-kumba, Uma mo-kumpa, Buginese ma-umpəʔ.
+>
+<
 POc *[tubu]tubu[-ka] ‘thick (in dimension)’
  MM: Tolai             tubu
  SES: Lau              ūbu-ūbu-a
  SES: Kwaio            ubu-ubu
  SES: Arosi            ub-ubu-ʔa
+>
 
 
 
-
-[12] The reconstruction of PMP *[ma]-kumba ‘thick’ is supported by the Oceanic data listed here and by
-   Da’a na-kumba, Uma mo-kumpa, Buginese ma-umpəʔ.
                                                               Properties of inanimate objects        209
 
 
@@ -9920,11 +10058,17 @@ the two forms evidently reflect the same PAn monosyllabic root *-pis ‘thin, te
 (Blust 1988; see vol. 1, pp.27–28) and presumably differed in meaning by some subtlety
 which is not clear from their reflexes.
 
-PMP *tipis ‘thin’13
+<
+PMP *tipis ‘thin’[13]
 POc *ma-tipi(s) ‘thin’
  SES: Talise                matipi              ‘thin’
  SES: Birao                 matipi              ‘thin’
-PAn *[ma]Lipis ‘thin’14
+
+[13] The reconstruction of PMP *tipis ‘thin’ is supported by the Oceanic data listed here and by Indonesian,
+   Javanese and Balinese tipis ‘thin’.
+>
+<
+PAn *[ma]Lipis ‘thin’[14]
 POc *manipis ‘thin’
  NNG: Malai             manipi                  ‘thin’
  NNG: Manam             manipi                  ‘thin’
@@ -9939,9 +10083,14 @@ POc *manipis ‘thin’
  Mic: Ponapean          menipi-nip              ‘thin’
  Fij:  Rotuman          mahini                  ‘thin’ (metathesis)
  Pn:   Tongan           manifi                  ‘thin’
-                        manifi-nifi             ‘comparatively thin’
+ Pn:   Tongan           manifi-nifi             ‘comparatively thin’
  Pn:   Samoan           manifi                  ‘thin’
-                        mānifi-nifi             ‘thin’
+ Pn:   Samoan           mānifi-nifi             ‘thin’
+
+[14] Tsuchida (1976:139) reconstructs PAn *Nix1epis, in the orthography of Ross (1992) *Lihepis. However,
+   the only reflex of *-h- occurs in Saisiat (Taiwan) lih-lihpih-an, which may be the result of modifying
+   *-li- to rhyme with *-pih. Accordingly I reconstruct PAn *Lipis, PMP *nipis.
+>
 
 
 7.3 Age
@@ -9952,17 +10101,9 @@ was also applied to animate beings in the sense of ‘young’ (Pawley 1982), an
 languages, it must be reconstructed as POc. Meso-Melanesian reflexes of the latter reflect
 *-l-, North and Central Vanuatu reflexes reflect *-r-.
 
-
-
-[13] The reconstruction of PMP *tipis ‘thin’ is supported by the Oceanic data listed here and by Indonesian,
-   Javanese and Balinese tipis ‘thin’.
-[14] Tsuchida (1976:139) reconstructs PAn *Nix epis, in the orthography of Ross (1992) *Lihepis. However,
-                                               1
-   the only reflex of *-h- occurs in Saisiat (Taiwan) lih-lihpih-an, which may be the result of modifying
-   *-li- to rhyme with *-pih. Accordingly I reconstruct PAn *Lipis, PMP *nipis.
 210     Malcolm Ross
 
-
+<
 PAn *baqeRuh ‘new’ (ACD)
 POc *paqoRu ‘new; young, recent’
 PNGOc *paqu, *paqoRu ‘new, young’
@@ -9983,15 +10124,14 @@ PNGOc *paqu, *paqoRu ‘new, young’
  SJ:    Sobei        fe-fou                        ‘new’
  PT:    Tawala       wou-na                        ‘new’
  PT:    Misima       va-valu-na                    ‘new’
- PT:    Kiriwina     -vau15                        ‘new’
+ PT:    Kiriwina     -vau[15]                        ‘new’
  MM: Bali            vaɣoru                        ‘new’
  MM: Nalik           fakur                         ‘new’
  MM: Tabar           vouru                         ‘new’
  MM: Teop            von                           ‘new’
  MM: Mono            haolu-na                      ‘new’
  MM: Zabana          fo-foru                       ‘new’
- SES: Gela           vaolu                         ‘new; young, fresh, beautiful, in one’s
-                                                     prime; renew’
+ SES: Gela           vaolu                         ‘new; young, fresh, beautiful, in one’s prime; renew’
  SES:      Arosi             haoru                 ‘new, recent, youthful, vigorous’
  NCV:      Paamese           hāu                   ‘new’
  NCV:      Nguna             vau                   ‘new’
@@ -10004,20 +10144,24 @@ PNGOc *paqu, *paqoRu ‘new, young’
  Pn:       Samoan            fou                   ‘new; fresh’
 
 
-
-
 [15] This form is always suffixed to a classifier.
+>
+
                                                       Properties of inanimate objects   211
 
+<
 POc *ka(l,r)abwa ‘new’
  MM: Bulu              kalaba(ka)         ‘new’
- MM: Nakanai           halaba16           ‘new’
+ MM: Nakanai           halaba [16]           ‘new’
  MM: Tolai             kalama             ‘new’
  NCV: Tamambo          haramba            ‘new’
  NCV: Mota             garagwa            ‘new’
  NCV: Raga             gara               ‘new’ (unexpected loss of final syllable)
  NCV: Tolomako         garavu             ‘new’
  NCV: Nduindui         karaᵑgwa           ‘new’
+
+[16] Nakanai h reflects POc *q, not *k.
+>
 
    The antonym of *paqoRu ‘new, young’ was evidently *[ma]tuqa ‘ripe, mature, adult,
 old’. A difficulty in reconstructing this term is its formal and semantic similarity to POc
@@ -10038,6 +10182,7 @@ Tabar ma-cari where *tuqaRi is expected.
 *rapu-ka (with adjectival-noun suffix *-ka added to an unidentified root *rapu) apparently
 modified nouns referring to lifeless objects.
 
+<
 PAn *CuqaS ‘mature, elder’ (ACD)
 POc *[ma]tuqa ‘ripe, mature, adult, old’
  Adm: Lou             matak            ‘old person’
@@ -10056,10 +10201,6 @@ POc *[ma]tuqa ‘ripe, mature, adult, old’
  SV:   Anejom         metou            ‘(fruit) ripe, mature, ready to pick’
  Fij:  Wayan          mātua            ‘mature, full-grown, adult, ripe’
  Fij:  Rotuman        mafua            ‘old’
-
-[16] Nakanai h reflects POc *q, not *k.
-212    Malcolm Ross
-
  Pn:      Tongan            motuʔa           ‘old’
  Pn:      Samoan            matua            ‘old (person)’
 POc *tuqaRi ‘(be) long ago, take a long time, old (of inanimates)’
@@ -10073,7 +10214,7 @@ POc *tuqaRi ‘(be) long ago, take a long time, old (of inanimates)’
  MM: Mono               tuali-na       ‘old’
  MM: Ririo              cuer           ‘old (thing)’
  SES: Bugotu            tuali          ‘(thing) old’
- SES: Lau               kwali          ‘be old, worn out (house, net, etc.); descendant’17
+ SES: Lau               kwali          ‘be old, worn out (house, net, etc.); descendant’[17]
  SES: Arosi             wari           ‘old, chiefly of living things; old man’
  NCV: Mota              tuai           ‘of long duration, old’
  NCV: Tamambo           tuai           ‘of old’
@@ -10088,11 +10229,18 @@ POc *tuqaRi ‘(be) long ago, take a long time, old (of inanimates)’
  Fij:   Wayan           tuei           ‘take a long time, be slow, tardy, late’
  Pn:    Tongan          tuai           ‘be late, be late, take a long time’
  Pn:    Samoan          tuai           ‘be late, be delayed, take a long time’
+
+[17] Blust (ACD) attributes these reflexes to *waRi ‘past (of time)’, but the current attribution is better
+   supported by the set as a whole.
+>
+212    Malcolm Ross
+
+<
 POc *rapu-ka ‘old (of inanimates)’
  MM: Bulu               rapu-rapu-ka
  SES: ’Are’Are          rahu-ʔa
  SES: Sa’a              lahu-ʔa
-
+>
 
 7.4 Colour
 
@@ -10103,9 +10251,6 @@ reflecting earlier *ma- + ROOT and adjectival nouns with either a reduplicated r
     PMP terms were of the form *ma- + ROOT. Blust (ACD) concludes that PMP had a
 classic three-term colour system, i.e. terms for black, white and red. Other terms were
 derived from terms for natural objects or, in the case of ‘green’, unripeness (see vol. 1,
-
-[17] Blust (ACD) attributes these reflexes to *waRi ‘past (of time)’, but the current attribution is better
-   supported by the set as a whole.
                                                      Properties of inanimate objects   213
 
 p.155). The same comments evidently applied to POc. The three PMP terms were *ma-
@@ -10114,6 +10259,7 @@ first two are continued in POc *maqeto(m) and POc *meRaq. Until recently, I thou
 *ma-putiq had been lost in POc and replaced by a plethora of terms, but two reflexes have
 been found.
 
+<
 PMP *[ma]qitem ‘black, deep blue’ (ACD)
 PCMP *ma-qitom, *ma-qetom ‘black; dirty’
 POc *maqeto(m) ‘black’
@@ -10126,6 +10272,8 @@ POc *maqeto(m) ‘black’
  NCV: Raga            meto            ‘black’
  NCV: Paamese         (na)meto        ‘k.o. black fish’
  NCV: Nguna           maeto           ‘angry’
+>
+<
 PMP *ma-iRaq ‘red’ (Blust 1980b)
 POc *meRaq ‘red’
  NNG: Kaulong         mhe                ‘red’
@@ -10141,20 +10289,22 @@ POc *meRaq ‘red’
  Pn:   Tongan         mea                ‘reddish’
  Pn:   Rapanui        mea-mea            ‘red’
                       mea                ‘light red, pink’
+>
+<
 PMP *ma-putiq ‘white, light in colour’ (ACD)
 POc *maputi(q) ‘white’
  SES: Arosi            mahui             ‘white’
  NCV: NE Ambae         mavute            ‘to be white, whiten’
+>
 
    One colour term of the form *ma- + ROOT has no known non-Oceanic cognates. In the
 southeast Solomons and Micronesia we find *marawa ‘green’ competing with
 *[ma]karawa, indicating that both are derived from a base *rawa of unknown meaning.
 
+<
 POc *[ma]karawa ‘green, blue’
  PT:   Suau          ʔala-ʔalawa         ‘green’
  MM: Tigak           makago              ‘green’
-214     Malcolm Ross
-
  MM:      Nalik            marakaua            ‘green’ (metathesised)
  MM:      Sursurunga       məkrau              ‘green’
  MM:      Maringe          ka-kahra            ‘green, light blue’
@@ -10162,8 +10312,11 @@ POc *[ma]karawa ‘green, blue’
  Fij:     Rotuman          þarava              ‘blue’
  Fij:     Bauan            kara-karawa         ‘blue; k.o. blue-green fish’
  Fij:     Wayan            karawa              (V) ‘be blue, blue-green, green’
-                           kara-karawa         (V, ADJ) ‘blue, blue-green, green’
+ Fij:     Wayan            kara-karawa         (V, ADJ) ‘blue, blue-green, green’
+>
+214     Malcolm Ross
 
+<
 PEOc *marawa ‘green, blue’
  SES: Talise          marao                    ‘green, blue’
  SES: Longgu          mwarawa                  ‘green, blue’
@@ -10171,15 +10324,16 @@ PEOc *marawa ‘green, blue’
  SES: Arosi           marawā                   ‘green, blue (if bright)’
  Mic: Kiribati        māwawa                   ‘green, blue’
  Mic: Marshallese mar̡or̡o                   ‘green’
+>
 
    Blust (2001) observes that colour terms with a reduplicated root are common in Oceanic
 languages. Generally, but not always, the initial CVCV- is copied. He infers that this
 reduplication reflects the unmarking of an earlier use of reduplication to express intensity.
 Whatever its origin, however, in many Oceanic languages reduplication is a derivational
 process whereby a colour term is derived from a noun, and in some it appears to be a
-productive process.18 Blust’s examples are drawn from twenty-four languages. Among
+productive process.[18] Blust’s examples are drawn from twenty-four languages. Among
 them we find the following:
-Mussau (Adm):19
+Mussau (Adm):[19]
  bo-boŋi-e-na          ‘black’                            bo      ‘night’
  rae-rae-a-na          ‘red’                              rae     ‘blood’
  usou-usou-e-na        ‘white’                            (no unreduplicated root)
@@ -10227,6 +10381,7 @@ derivations. We can arrange cases on a rough cline. At one extreme is POc *[yaŋ
 not to reconstruct it. The base form was POc *yaŋo ‘turmeric, Curcuma longa’ (Ross
 1996c:216).
 
+<
 POc *[yaŋo]yaŋo ‘yellow’
  Adm: Seimat             aŋo-aŋ                 ‘yellow’
  Adm: Kele               aŋw-an                 ‘yellow’
@@ -10249,14 +10404,15 @@ POc *[yaŋo]yaŋo ‘yellow’
  NCV: Mota               aŋo-aŋo                ‘yellow’ (aŋo ‘turmeric’)
  NCV: Raga               aŋo-ɣa                 ‘yellow, become yellow’
  SV:    Sye              (mel)yeŋ               ‘yellow’
-216     Malcolm Ross
-
  SV:      Ura                (mel)yeŋ, (un)iaŋ       ‘yellow’
  SV:      Anejom             yaŋ                     ‘yellow’
  Mic:     Ponapean           oŋoŋ                   ‘yellow’ (oŋ ‘turmeric’)
  Mic:     Woleaian           yaŋo-yaŋ                ‘yellow’ (yaŋ ‘ginger’)
  Fij:     Wayan              aŋo-aŋo                 (V, ADJ) ‘(be) yellow’
  Pn:      Tongan             eŋa-eŋa                 ‘yellow’ (eŋa ‘turmeric’)
+>
+216     Malcolm Ross
+
 
 Nearer the other extreme are reduplicated reflexes of POc *draRaq ‘blood’ (e.g. Mussau
 rae-rae-ana ‘red’ and Manam dara-dara ‘red’ above). Here, reflexes have a much spottier
@@ -11311,7 +11467,7 @@ POc (N)*qutan ‘bushland, hinterland’, (N LOC) *qutan, (ADV) *qa-qutan ‘in 
  NCV: Nguna            uta        ‘inland’
  SV:     Lenakel       -ət, -it   (DIR) ‘upwards’
  SV:     Kwamera       (p)uta     (N LOC) ‘up, upwards, on top of’
- Mic:    Kosraean      w¡t        (N) ‘area inland or towards the mountains’
+ Mic:    Kosraean      wʌt        (N) ‘area inland or towards the mountains’
  Mic:    Marshallese (e)bc       (N) ‘interior of an island’
  Mic:    Mokilese      (e)wic     (N) ‘inland’
  Fij:    Rotuman       ufa        ‘land (from the sea); interior (from the coast’)
@@ -11340,7 +11496,7 @@ POc (N) *loŋa ‘inland’, (N LOC) *loŋa ‘inland’
  SES:    Gela               loŋa, (i)loŋa         ‘landwards, inland’
  SES:    Longgu             loŋa                  (N LOC) ‘direction towards bush’
  SES:    Kwaio              (i ka)loŋa            ‘in the forest’
- Mic:    Marshallese        -l¡ŋ                  (DIR) ‘upward’
+ Mic:    Marshallese        -lʌŋ                  (DIR) ‘upward’
  Mic:    Puluwatese         -loŋ                  (DIR) ‘inland’
  Mic:    Woleaian           roŋ                   (DIR) ‘inland’
 PPn *luŋa ‘top, space above, up top’ (-u- for expected *-o-)
@@ -11537,7 +11693,7 @@ POc (N) *laŋit ‘sky, weather’, (N LOC) *laŋit ‘up top, high up’
  SES: Kwaio                 laŋi-           ‘space above’
  NCV: Mota                  laŋ             ‘upwards, heavenwards’
  NCV: Nguna                 (e)laŋi         ‘up, high, above, top’
- Mic:    Marshallese        l¡ŋ             ‘up, above’
+ Mic:    Marshallese        lʌŋ             ‘up, above’
 
    The meanings above overlap with the adverb reflexes of POc *sake ‘go upward’, (ADV)
 ‘upwards, up top’, but *atas and *laŋit were nouns, *sake a verb (and perhaps adverb,
@@ -12355,7 +12511,7 @@ POc (N)*mata[-] ‘eye; face’, (N LOC) ‘front’
                         (i)mā            ‘outside’
  NCal: Tinrin           (Öā)m a¿`a¿
                                w         ‘front’
- Mic:   Kosraean        m¡t¡-            ‘eye; front’
+ Mic:   Kosraean        mʌtʌ-            ‘eye; front’
  Fij:   Wayan           mata-            ‘face, front of head, face of object with
                                            both front and back side’
                         (i)mata          ‘in front’
@@ -13285,7 +13441,7 @@ adnominally, except where shown (they may also have other language-specific uses
  SV:     Anejom PRO SG         niñ[ki], nī       nā[nai]             nai[kou]
  NCal:   Tinrin                =ha               =mwã                =r̡a
  NCal:   Iaai                  āŋ                e                  e-le
- Mic:    Kosraean              ¡                 an                  o
+ Mic:    Kosraean              ʌ                 an                  o
  Mic:    Ulithian              -e               -lā                 -lāy
  Fij:    Boumaa                yai, ī            yā                  mayā
  Fij:    Wailevu               ɣā                ɣāri                ɣaðei
@@ -14491,7 +14647,7 @@ Marshallese (Mic)
    sunrise                  takinal (al ‘sun’)
    daybreak, dawn           okr̡ān V (okar̡ ‘root’, r̡ān ‘day’), r̡āntak V (r̡ān ‘day’, tak
                             ‘upward’), cir̡ān (r̡ān ‘day’), corāntak V (co ‘appear’, r̡āntak
-                            ‘daybreak’), məcaw¡nene N, V
+                            ‘daybreak’), məcawʌnene N, V
  noon                       raɛlɛp V
    hottest time of day      pwiltəŋtəŋ N (pwil ‘hot’, təŋtəŋ ‘most’)
  evening                    cota V
