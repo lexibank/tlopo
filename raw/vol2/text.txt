@@ -10468,6 +10468,7 @@ that both members of each pair actually occurred in POc. The Tamambo reflex of t
 *keja refers to a kind of blue-green fish, and this may have been its POc meaning. POc
 *biRiŋ perhaps meant ‘dirt’.
 
+<
 POc *keja-ka, *[keja]keja ‘green’
  NNG: Mangap            kes-keeze(ŋa-)   ‘green’
  NNG: Sio               kenza            ‘green’
@@ -10480,8 +10481,9 @@ POc *keja-ka, *[keja]keja ‘green’
  NCV: Raga              geha(ga)         ‘blue-green’
  NCV: Tamambo           ɣenja(ɣa)        ‘blue-green’ (ɣenja ‘k.o. blue-green fish’)
  NCV: Nguna             kesa-kesa        ‘blue’
- Pn:    Tikopia         kesa             ‘green, yellow-green, with suggestion of
-                                           off-colour; greyish-green’
+ Pn:    Tikopia         kesa             ‘green, yellow-green, with suggestion of off-colour; greyish-green’
+>
+<
 PMP *biRiŋ ‘dark hue, dark red (?)’ (ACD)
 POc *biRiŋ-(k)a, *[biRi]biRiŋ ‘dark hue, dirty’
  NNG: Kove              vihi-vihiŋa      ‘green’
@@ -10491,18 +10493,22 @@ POc *biRiŋ-(k)a, *[biRi]biRiŋ ‘dark hue, dirty’
  MM: Patpatar           biliŋe           ‘dirty’
  SES: Gela              bili-bilia       ‘dirty’
  SES: Kwaio             bili-biliʔa      ‘dirty’
+>
 
    There is one other reduplicated colour term which may be reconstructable, POc
 *[pula]pula-n ‘white’, probably derived from *pulan ‘moon’. However, the dangers of
 reconstructing reduplicated colour terms in POc apply here too, and these terms may be
 independent innovations.
 
+<
 PMP *bulan ‘white’ (Blust 1989)
 POc *[pula]pula-n ‘white’
  NNG: Sissano         owul-wul           ‘white’
  NNG: Psohoh          vul-vul            ‘white’
  Fij:   Bauan         vula-vula          ‘white’
  NCal: Nemi           pulo               ‘white’
+>
+
 218    Malcolm Ross
 
 7.5 Physical property
@@ -10516,6 +10522,7 @@ reconstructable. The main term for ‘flat’ was probabaly POc *baban ‘flat; 
 canoe strake; flat shelf of rock’, and we can be reasonably confident that it was a noun
 denoting a flat surface or flat plank-like object (vol. 1, pp.58, 185).
 
+<
 POc *baban ‘flat; board, plank; canoe strake; flat shelf of rock’
  NNG: Mutu              babaga            ‘wide’
  NNG: Mangap            baba(ŋa-n)        ‘wide, broad’
@@ -10525,17 +10532,16 @@ POc *baban ‘flat; board, plank; canoe strake; flat shelf of rock’
  MM: Teop               babana(o)         ‘wide’
  SES: Kwaio             baba              ‘flat’
  SES: Lau               baba              ‘flat; long side board of canoe’
- Pn:    Tongan          papa              ‘flat hard sandstone forming a layer or bed
-                                             at the coast in certain places; flat and smooth
-                                             and hard, as a well-trodden track; board’
- Pn:    Samoan          papa              ‘rock; floor mat; plain, level, flat, as a rock,
-                                             board, nose, etc.’
+ Pn:    Tongan          papa              ‘flat hard sandstone forming a layer or bed at the coast in certain places; flat and smooth and hard, as a well-trodden track; board’
+ Pn:    Samoan          papa              ‘rock; floor mat; plain, level, flat, as a rock, board, nose, etc.’
+>
 
    The term *raba(r) may have denoted the property ‘flat’, but there are too few Oceanic
 reflexes to be certain. Indeed, if the Tongan reflex is regularly descended from a POc
 forebear, then the latter had initial *l-, not *r-. This suggests that the Polynesian terms may
 not reflect POc *raba(r).
 
+<
 PMP *da(m)paD ‘flat, level’ (ACD)
 POc *raba(r) ‘flat, wide, broad’
  Fij:     Bauan         raba               (N) ‘breadth, width’, (ADJ) ‘broad, wide’
@@ -10543,7 +10549,9 @@ POc *raba(r) ‘flat, wide, broad’
  cf. also:
  Pn:       Tongan       lafa-lafa          ‘flat’
  Pn:       Samoan       lafa-lafa          ‘flat; the level top of a mountain’
+>
 
+<
   No term for ‘rough’ is reconstructable, but ‘smooth’, also with the sense ‘slippery’ was
 POc *madrali(s,t).
 
@@ -10553,6 +10561,8 @@ POc *madrali(s,t) ‘smooth, slippery’
  MM: Siar              ma-madal         ‘smooth’
  SES: Gela             madali           ‘slippery’
  SES: Arosi            madari           ‘wet and slippery, as rocks’
+>
+
                                                           Properties of inanimate objects      219
 
 
@@ -10563,47 +10573,46 @@ vice versa.
 
     The data require that we reconstruct two variants for each of the three terms. Thus we
 reconstruct not only *[ma]koto, whose canonic shape suggests that it is the inherited term,
-but also *ta-kodos, which is derived from *kodos ‘go straight; straighten’ (see p.196).21
+but also *ta-kodos, which is derived from *kodos ‘go straight; straighten’ (see p.196).[21]
 I suspect that the verbs *[ma]koto and *kodos were separately inherited into POc (although
 no non-Oceanic cognates have been found) and that their formal similarity is attributable to
 derivation at an earlier stage, as POc *-t- and *-d- reflect PMP *-t- and *-nt- respectively.
 The Polynesian reflexes are attributed to the set with *-t- because of their similarity in
 meaning to Bauan koto. Formally, they could at least as well reflect POc *ta-kodos.
 
+[21] The Southeast Solomonic reflexes show unexplained loss of *k.
+
+<
 POc *[ma]koto ‘straight’
  MM: Vitu              maɣoto               ‘straight; (ground) flat’
  MM: Tolai             ot                   ‘straight’
- SES: Gela             oto                  ‘go directly, straight; set face to do, stare straight
-                                              at’ (for expected *ɣoto)
+ SES: Gela             oto                  ‘go directly, straight; set face to do, stare straight at’ (for expected *ɣoto)
  SES:     W Guad.         ɣoto              ‘straight, correct’
  Fij:     Bauan           koto              (V) ‘lie down’; (ADJ) ‘extended, stretched out’
  Pn:      Tongan          to-koto           (V) ‘lie down’
  Pn:      Samoan          ta-ʔoto           (V) ‘lie down’
  Pn:      Maori           ta-koto           (V) ‘lie down’
+>
+<
 POc *kodos ‘go straight; straighten’, *ta-kodos ‘straight’
  MM: Lavongai           koroŋ             ‘straight’
  MM: Lamasong           tokodos           ‘straight’
  MM: Patpatar           takodas           ‘straight’
  MM: Tolai              kodo              ‘straighten’
-                        takodo            ‘straight’
+ MM: Tolai              takodo            ‘straight’
  MM: Nehan              kod-kodoh         ‘straight’
  SES: Lau               odo-odo           ‘go in a direct line, straight’
  SES: Kwaio             odo               ‘straight, correct’
- SES: Sa’a              odo-odo           ‘be straight, go straight forward; be correct
-                                            and proper’
+ SES: Sa’a              odo-odo           ‘be straight, go straight forward; be correct and proper’
  SES: Arosi             odo-odo           ‘straight’
-POc *[t,d]onu(p) ‘straight’22
+>
+<
+POc *[t,d]onu(p) ‘straight’[22]
  NNG: Malai             dunu(ŋa)            ‘straight’
  NNG: Numbami           tonowa              ‘straight’
  MM: Laghu              to-tonu             ‘straight’
  NCV: Kiai              tu-tunu             ‘good, straight, sweet’
  NCV: Labo              tən                 ‘straighten an arrow in the fire’
-
-[21] The Southeast Solomonic reflexes show unexplained loss of *k.
-[22] The final *-(p) of *[t,d]onu(p) is tentatively reconstructed to account for Numbami tonowa, where
-   paragogic -a indicates the presence of a final consonant and -w- reflects *-p.
-220     Malcolm Ross
-
  SV:     Kwamera             (a)tuən            verbal adjunct: implies straightening
  Fij:    Bauan               donu               ‘(be) straight, true, correct’
  Fij:    Wayan               donu               ‘(be) right, correct, true’
@@ -10611,13 +10620,21 @@ POc *[t,d]onu(p) ‘straight’22
  Pn:     Samoan              tonu               ‘(be) exact, correct, just’
  Pn:     Mele-Fila           tō-tonu            ‘right, correct’
 
+[22] The final *-(p) of *[t,d]onu(p) is tentatively reconstructed to account for Numbami tonowa, where
+   paragogic -a indicates the presence of a final consonant and -w- reflects *-p.
+>
+
+220     Malcolm Ross
+
+
    I have no explanation for the pair *mwane-mwane and *wane-wane. Reflexes of the
 former occur in the Admiralties, Southeast Solomonic and New Caledonia, of the latter in
 the Schoutens and Micronesia. However, if the Ali reflex were non-cognate, then *wane-
 wane would simply be a Nuclear Micronesian innovation.
 
+<
 POc *mwane-mwane ‘straight, direct; flat, level’ (ACD)
- Adm: Aua              wane-wane          ‘smooth, level; straight’23
+ Adm: Aua              wane-wane          ‘smooth, level; straight’[23]
  Adm: Pak              mwane-n             ‘straight’
  Adm: Nyindrou         mone-n              ‘straight’
  Adm: Loniu              w
@@ -10626,17 +10643,24 @@ POc *mwane-mwane ‘straight, direct; flat, level’ (ACD)
  SES: Lau              ma-mana             ‘true’
  NCal: Cèmuhî          mó-m on
                              w             ‘straight, right, correct’
+
+[23] Aua initial w- could reflect either *mw- or *w-, but I have assumed the Aua reflex to reflect *mwane-
+   mwane, as this is reflected elsewhere in the Admiralties.
+>
+<
 POc *wane-wane ‘straight, direct; flat, level’ (ACD)
  NNG: Ali               wane(ŋ)            ‘straight’
  Mic: L. Mortlockese wane-wan              ‘straight, steady, direct’
- Mic: Puluwatese        wene-wen           ‘be directly above; straight, direct, honest,
-                                             exactly’, ‘greatly’
+ Mic: Puluwatese        wene-wen           ‘be directly above; straight, direct, honest, exactly’, ‘greatly’
  Mic: Woleaian          were-were          ‘straight, steady, still’
+>
+
    The only antonym of the terms above is PWOc *kalis ‘crooked’, which is only weakly
 attested.
 PWOc *kalis ‘crooked’
  NNG: Takia                  kael(a-n)          ‘crooked
  MM: Sursurunga              kalis              ‘crooked
+
 
 7.5.2 Weight
 
@@ -10645,15 +10669,16 @@ POc *ma-pat and *mamat reflect prefixation with *ma- and *maN- respectively (the
 function of *maN- in this context is unclear; cf. vol. 1, p.29). The term for ‘light’ (in
 weight) is *[ma]Raqan.
 
+<
 POc *[pa]pat ‘heavy’
  NNG: Gitua                  pat(aŋa-n)         ‘heavy’
  NNG: Maleu                  -pat(aŋa)          ‘heavy’
  NNG: Yabem                  (ŋa)wapaʔ          ‘heavy’
+>
 
-[23] Aua initial w- could reflect either *mw- or *w-, but I have assumed the Aua reflex to reflect *mwane-
-   mwane, as this is reflected elsewhere in the Admiralties.
                                                       Properties of inanimate objects    221
 
+<
 POc *mapat ‘heavy’ (ACD)
  Adm: Nyindrou        mahaʔ(an)          ‘heavy’
  SJ:   Sobei          mafo               ‘heavy’
@@ -10663,15 +10688,18 @@ POc *mapat ‘heavy’ (ACD)
  NCV: NE Ambae        mava               ‘be/become heavy’
  Fij:  Rotuman        maha               ‘heavy’
  Pn:   Tongan         ma-mafa            ‘heavy’
-                      mafas-ia           ‘(be) weighed down, burdened’
-                      mafat-aki          ‘(rain) be heavy; (work) be heavy, difficult’
+ Pn:   Tongan         mafas-ia           ‘(be) weighed down, burdened’
+ Pn:   Tongan         mafat-aki          ‘(rain) be heavy; (work) be heavy, difficult’
  Pn:   Samoan         ma-mafa            ‘heavy’
-                      mafat-ia           ‘exhausted, overcome’
-
+ Pn:   Samoan         mafat-ia           ‘exhausted, overcome’
+>
+<
 POc *mamat ‘heavy’
  Adm: Mussau             mamāta(na)      ‘heavy’
  MM: Tolai               mamat           ‘heavy’
  MM: Roviana             mamata          ‘heavy’
+>
+<
 PMP *[ma]Raqan ‘light in weight’ (ACD)
 POc *[ma]Raqan ‘light in weight’
  PT:   Motu           haraɣa         ‘easy, light (in weight)’
@@ -10690,7 +10718,7 @@ POc *[ma]Raqan ‘light in weight’
  Fij:  Wayan          mā-mā          ‘be light (in weight)’
  Pn:   Tongan         maʔa-maʔa      ‘light in weight’
  Pn:   Samoan         mā-mā          ‘light in weight’
-
+>
 
 7.5.3 Strength, toughness and speed
 
@@ -10704,15 +10732,22 @@ entirely to Blust (ACD), are POc *paka(s) and *laga(s), neither of them particul
 both quite stable and thus widely reflected. The latter is also used of calm weather in
 eastern Oceanic languages (see Ch. 5, §5.1).
 
+<
 PMP *ba(ŋ)kas ‘swift, strong, energetic, fast’ (ACD)
 POc *paka(s) ‘have strength, energy’ (ACD)
  NCV: Mota              vaka              ‘have strength, energy’
+>
+<
 PMP *la(ŋ)kas ‘spirited, energetic’ (ACD)
 POc *laga(s) ‘spirited, energetic’ ACD
  MM: Sursurunga          lak-lak          ‘hard, stubborn’
  SES: Gela               laga             ‘strong, strength; energetic’
  SES: Arosi              raga             ‘strong, strengthened, invigorated’
+>
+
   Two POc terms, *[ma]lumu and *ma-luas, express ‘soft, gentle’.
+
+<
 PMP *[ma]lumu ‘soft, tender, gentle’ (ACD)
 POc *[ma]lumu ‘soft, gentle, easy’
  NNG: Bariai           marum            ‘soft’
@@ -10731,7 +10766,6 @@ POc *[ma]lumu ‘soft, gentle, easy’
  NCV: Raga             lumu-lumu        ‘soft’
  NCV: Tamambo          ma-lu-lum        ‘soft’
  Fij:  Bauan           malumu           ‘weak, faint, sick, soft’
-
 PPn *malū ‘soft (of a substance), calm (of day, sea)’ (irregular loss of *-m- in all
  Polynesian reflexes)
  Pn:    Tongan        malū            ‘soft, tender, flexible; (weather) mild,
@@ -10742,8 +10776,11 @@ PPn *malū ‘soft (of a substance), calm (of day, sea)’ (irregular loss of *-
  Pn:    E Futunan     malū            ‘soft’
  Pn:    Rennellese    magū            ‘be soft, be slack’
  Pn:    Tahitian      marū            ‘soft, gentle, easy’
+>
+
                                                       Properties of inanimate objects    223
 
+<
 POc *ma-luas ‘soft’
  NNG: Sio                  malbe             ‘limp, squishy, soft’
  MM: Notsi                 məlus             ‘soft’
@@ -10756,10 +10793,9 @@ POc *ma-luas ‘soft’
  Mic: Ponapean             malu-n            ‘calm, of the sea’
  Mic: Mokilese             molu-n            ‘calm or fine, of weather’
  Mic: L. Mortlockese       maləwa-ləw        ‘peaceful’
- Mic: Puluwatese           maliwa-li         ‘to be easy or slow, to be calm (as the sea),
-                                               to be gentle’
+ Mic: Puluwatese           maliwa-li         ‘to be easy or slow, to be calm (as the sea), to be gentle’
  Fij:    Bauan             mālua             ‘gently, slowly, quietly’
-
+>
 
 7.5.4 Content
 
@@ -10769,6 +10805,7 @@ However, *puŋu may simply be a doublet of *ponuq. The term *poju seems to be a 
 of PMP *besuR ‘satiated’. The opposite meaning, ‘empty’, seems to have been expressed
 by *[ma]maca ‘dry’ (p.226), at least when ‘empty of liquid’ was intended.
 
+<
 PMP *ponuq ‘full’
 POc *ponuq ‘full’
  NNG: Bariai               -won
@@ -10790,10 +10827,12 @@ POc *ponuq ‘full’
  SES: Kwaio                fonu
  SES: Arosi                honu
  NCal: Nemi                punuk
-224     Malcolm Ross
-
  Mic:     Kiribati       on
  Pn:      Tongan         fonu
+>
+224     Malcolm Ross
+
+<
 POc *puŋu ‘full’
  NNG: Maleu              -uŋ
  NNG: Silisili           (ri)fuᵑg
@@ -10802,6 +10841,8 @@ POc *puŋu ‘full’
  MM: Patpatar            huŋ
  SES: Lau                fuŋu
  SES: Kwai               fuŋu
+>
+<
 PAn *besuR ‘satisfied from having eaten enough, satiated’ (ACD)
 POc *poju ‘full’
  Adm: Mussau             pasu               ‘full’
@@ -10810,7 +10851,7 @@ POc *poju ‘full’
  MM: Tabar               vosu               ‘full’
  MM: Teop                (ha)pus            ‘full’
  MM: Maringe             fodu               ‘full’
-
+>
 
 7.5.5 Temperature
 
@@ -10818,6 +10859,7 @@ POc *poju ‘full’
 was probably the general term, to judge from its distribution, whilst *maŋini(t) probably
 had some specialised sense.
 
+<
 PMP *[ma]panas ‘be/become warm, hot (of fire, sun, fever, water)’ (ACD)
 POc *[ma]panas ‘warm, hot’
  Adm: Mussau          anasa               ‘(s.o.) hot’
@@ -10836,12 +10878,15 @@ POc *[ma]panas ‘warm, hot’
  Fij:  Rotuman        mah-mahana          ‘warm’
  Pn:   Tongan         māfana              ‘warm’
  Pn:   Samoan         māfana-fana        ‘warm’
+>
                                                      Properties of inanimate objects   225
 
+<
 PMP *maN-qinit ‘hot, warm’ (*qinit ‘heat, warmth’) (ACD)
 POc *maŋini(t) ‘(?) become hot, warm’
  MM: Roviana            maŋini              ‘warm’
  MM: Hoava              maŋini              ‘warm’
+>
 
    There are several POc forms for ‘cold’ which are derived from PMP *diŋin ‘cold’.
 However, the expected POc reflex of PMP *diŋin is **riŋi(n), and we do not find this.
@@ -10855,6 +10900,7 @@ person, i.e. ‘I feel cold’, rather than to the temperature of inanimate obje
     The other cognate set meaning ‘cold’ appears to reflect both *malaso ‘cold (verb)’ and
 *malaso-ŋ ‘cold (noun)’ .
 
+<
 PMP *diŋin ‘cold’
 POc *ma-ri(d)ri(ŋ) ‘(s.o.) cold’
  NNG: Mutu                  marir          ‘(s.o.) cold’
@@ -10869,6 +10915,8 @@ POc *ma-ri(d)ri(ŋ) ‘(s.o.) cold’
  NCV: Merlav                marir          ‘(s.o.) cold’
  Mic: Kiribati              mariri         ‘feel cold’
  Fij:  Rotuman              matiti         ‘cold’
+>
+<
 POc *madri(d)riŋ ‘(s.o.) become cold’
  Adm: Aua                  maxixi          ‘cold’
  Adm: Mondropolon          madri           ‘cold’
@@ -10878,14 +10926,18 @@ POc *madri(d)riŋ ‘(s.o.) become cold’
  MM: Tolai                 madiriŋ         ‘cold (water, food)’
  MM: Haku                  maririŋ         ‘(s.o.) cold’
  NCV: Paamese              madil           ‘cold’
+>
+<
 POc *makaridriŋ ‘(s.o.) cold’
  MM: Notsi                 makadil         ‘(s.o.) cold’
  SES: Bauro                maɣārisi        ‘cold’
  NCV: Tamambo              maɣariri        ‘cold’
  Pn:   Niuean              makalili        ‘cold, chilly’
  Pn:   Samoan              maʔalili        ‘(be) cold’
+>
 226   Malcolm Ross
 
+<
 POc *malaso ‘be cold’, *malaso-ŋ (N) ‘cold’
  NNG: Roinji           malasu(na)       ‘(s.o.) cold’
  NNG: Wab              malsuŋ           ‘cold’
@@ -10897,6 +10949,7 @@ POc *malaso ‘be cold’, *malaso-ŋ (N) ‘cold’
  NCV: Uripiv           melas            (N) ‘cold’
  SV:   Lenakel         mhal             ‘have a cold sore’
  SV:   SW Tanna        (ə)mla           ‘be cold’
+>
 
 
 7.5.6 Wet and dry
@@ -10907,16 +10960,17 @@ such meanings are reconstructed below. POc presumably also had words for various
 meanings of ‘wet’, but I have been able to reconstruct only POc *buluk, in the meaning
 ‘soaked, waterlogged’.
 
+<
 POc *buluk ‘be wet, soaked, waterlogged’
  NNG: Bilibil          polo             ‘wet’
  MM: Lavongai          vuluk            ‘wet’
  MM: Ramoaaina         polo             (V) ‘wet, muddy, swampy’; (N) ‘liquid, fluid’
- Fij:   Wayan          bulu-bulu        ‘be sticky, gluey, adhesive, cloggy, e.g. of clay
-                                          or cloggy soil, too wet and lumpy to dig’
+ Fij:   Wayan          bulu-bulu        ‘be sticky, gluey, adhesive, cloggy, e.g. of clay or cloggy soil, too wet and lumpy to dig’
  Pn:    Niuean         (faka)pulu       ‘steep in water, ferment’
  Pn:    Mangareva      puru             ‘soaked’
  Pn:    Tahitian       puru             ‘soaked, waterlogged’
  Pn:    Hawaiian       pulu             ‘soaked’
+>
 
    The most widely reflected POc term with a ‘dry’ meaning is *[ma]maca, which denoted
 states in which otherwise present liquid was absent. Thus it was used among other things
@@ -10928,14 +10982,13 @@ meant ‘withered, dry’ (vol. 1, p.135).
 meanings both of this and of *[ma]maca. POc *goRu appears to have been a synonym of
 *[ma](r,R)aŋo.
 
+<
 PMP *maja ‘be dry’
 POc *[ma]maca (V) ‘dry up, evaporate, be empty of liquid’; (N) ‘low tide’
  Adm: Aua            mamaha            ‘dry’
  NNG: Kove           mamasa            ‘dry’
  NNG: Mutu           mamas             ‘(food +) dry up’
  NNG: Mangap         mamāza-ŋana ‘dry’
-                                                              Properties of inanimate objects        227
-
  NNG: Tami                  mamat               ‘dry’
  NNG: Roinji                mamasa-na           ‘dry’
  NNG: Bing                  mas-mamasa          ‘low tide’
@@ -10963,7 +11016,11 @@ POc *[ma]maca (V) ‘dry up, evaporate, be empty of liquid’; (N) ‘low tide�
  SV:      Kwamera           maha                ‘lowtide, empty of liquid’
  Pn:      Tongan            mamaha              ‘lowtide’
  Pn:      Samoan            masa                ‘be shallow’
+>
+                                                              Properties of inanimate objects        227
 
+
+<
 POc *[ma-](r,R)aŋo displays a phonological problem. Apparent non-Oceanic cognates of
 the root *raŋo reflect PMP *Raŋaw, so we would expect the reconstructable POc form to
 be **Raŋo. But Oceanic languages which reflect POc *r and *R differently are not in
@@ -10973,20 +11030,12 @@ identically.) I assume tentatively that POc had *[ma]Raŋo and that forms with *
 innovative.
 
 PMP *[ma]Raŋaw ‘dry’, *[ma]Raŋuʔ ‘dry’ (Blust 1981, 1986)
-POc *[ma]Raŋo ‘become withered (of vegetation)’24
+POc *[ma]Raŋo ‘become withered (of vegetation)’[24]
  Adm: Mussau         malaŋo          ‘dry’
  NNG: Manam          maraŋo          ‘dry, arid’
  NNG: Kairiru        maraŋ           ‘ripe coconut’
  MM: Nalik           maraŋ           ‘ripe coconut’
-
-[24] In Ross (1996c) I reconstructed POc *[ma]Raŋ(o,u) ‘dry; coconut growth stage 8: dry and ready to fall’.
-   However, its POc status rested on Baelelea (SES) maleŋa ‘coconut’. I no longer think this is cognate
-   with the NNG and MM forms which refer to a withered coconut, and take the latter simply to be an
-   extension of meaning of reflexes of *[ma-](r,R)aŋo.
-228    Malcolm Ross
-
- MM:     Susurunga       maraŋ           ‘(be) old, dry; (old) coconut with lots of meat
-                                           and little milk’
+ MM:     Susurunga       maraŋ           ‘(be) old, dry; (old) coconut with lots of meat and little milk’
  MM:     Patpatar        maraŋa          ‘dry coconut’
  MM:     Tolai           ma-raŋa         ‘withered, dry (leaves, husk, tree)’
  MM:     Halia (Selau)   raŋo            ‘dry’
@@ -10996,23 +11045,34 @@ POc *[ma]Raŋo ‘become withered (of vegetation)’24
  NCV:    Mota            raŋo            ‘become dried up in the course of nature’
  Pn:     Samoan          maŋo            ‘dry up; be dry (of wood, clothes)’``
  Pn:     Niuean          maŋo            ‘dry (of wood, trees)’
+
+[24] In Ross (1996c) I reconstructed POc *[ma]Raŋ(o,u) ‘dry; coconut growth stage 8: dry and ready to fall’.
+   However, its POc status rested on Baelelea (SES) maleŋa ‘coconut’. I no longer think this is cognate
+   with the NNG and MM forms which refer to a withered coconut, and take the latter simply to be an
+   extension of meaning of reflexes of *[ma-](r,R)aŋo.
+>
+
+228    Malcolm Ross
+
+<
 POc *ka-(r,R)aŋo ‘be dry; be low tide’
  NNG: Yabem            (ŋa)kɛlɛŋ         ‘dry (of a cloth etc)’
  MM: Zabana            karaŋo            ‘be dry; be low tide’
  SES: Gela             karaŋo            ‘dry up; reef, low tide, harvest time’
  SES: Lengo            karaŋo            ‘low tide’
-
+>
+<
 POc *goRu ‘dry, of vegetation; coconut growth stage 8: dry and ready to fall’ (Ross
  1996c)
  NNG: Mutu           gor-gori        ‘dry’
  NNG: Malai          gor-gori        ‘dry , ripe coconut’
  NNG: Kakuna         kolu-ŋana       ‘ripe coconut’
  SES: Lengo          golu            ‘coconut flesh’
- NCV: Mota           kor             ‘become dry, with heat or time; coconut in
-                                       its last condition before it falls from the tree;
-                                       dry (of other things too)’
+ NCV: Mota           kor             ‘become dry, with heat or time; coconut in its last condition before it falls from the tree; dry (of other things too)’
  NCV: Tamambo        koru            ‘dry, dying (of tree)’
  NCV: Raga            ᵑgoru           ‘dry’
+>
+
 
 
 8                 Talking about space: terms of location and direction
@@ -11174,13 +11234,13 @@ they are assigned to more than one subclass.
 2.    Common: human nouns and non-human animates when not used of known
       individuals, as well as inanimates and abstract nouns. A common noun with a specific
       referent was in most cases preceded by the common article *a or *na, as in POc *a/na
-      Rumaq ‘a/the house’.5 The construction is reflected in Taiof a numa ‘a/the house’, a
+      Rumaq ‘a/the house’.[5] The construction is reflected in Taiof a numa ‘a/the house’, a
       patu-re (ART head-P:3PL) ‘their heads’; Longgu a komu-i (ART village-SG) ‘the
-      village’6. If such a noun was used in an adjunct construction it was preceded by the
-      sequence *i ta-, as in POc *i ta-ña Rumaq (PREP *ta-P:3SG house) ‘at a/the house’.7 In
+      village’[6]. If such a noun was used in an adjunct construction it was preceded by the
+      sequence *i ta-, as in POc *i ta-ña Rumaq (PREP *ta-P:3SG house) ‘at a/the house’.[7] In
       this construction *ta- was a monovalent semantically empty noun. In most Oceanic
       languages where this latter construction is reflected, however, *i has dropped out,
-      leaving *ta- as a preposition.8 Hence Taiof ta-na patu-na tober (PREP-P:3SG head-
+      leaving *ta- as a preposition.[8] Hence Taiof ta-na patu-na tober (PREP-P:3SG head-
       P:3SG hill) ‘on top of the hill’, Longgu ta-na iola-i (PREP-P:3SG canoe-SG).
 3.    Local: nouns used with reference to a specific location, a time, or an intrinsically
       located part of something. The POc local construction consisted of the preposition *i
@@ -11214,7 +11274,7 @@ they are assigned to more than one subclass.
     (d) monovalent relational nouns, e.g. nouns denoting intrinsic parts, like ‘inside’,
         ‘upper surface or space above’, ‘lower surface’, ‘space beneath’ and so on;
      In Taiof a local noun may form a locative expression without a preposition (i.e. *i has
-     been lost), like koma-na matan below.9 A locative expression with a common noun
+     been lost), like koma-na matan below.[9] A locative expression with a common noun
      must be formed with a preposition.
          E    Maras to         noŋos no-n koma=na matan.
          ART Maras REAL dwell IMPF-P:3SG inside=ART ditch
@@ -11337,11 +11397,12 @@ languages do not have a relative spatial system (p.230).
 
 8.2.1 The preposition *i and the prefix *qa-
 
+236   Malcolm Ross
+
+<
    The preposition *i, which occurred before local nouns, is widely reflected in Oceanic
 languages, but there are also many languages in which a local noun occurs without a
 preposition.
-236   Malcolm Ross
-
 
 PAn *i (PREP) locative (ACD)
 POc *i (PREP w PLC, N LOC) locative
@@ -11385,7 +11446,6 @@ POc *i (PREP w PLC, N LOC) locative
  Pn:     Samoan              i        (PREP) locative
  Pn:     Pileni              i        (PREP) locative
  Pn:     Marquesan           ʔi       (PREP) locative
-                                Talking about space: terms of location and direction      237
 
 Tongan, Niuafo’ou and East Uvean ʔi are phonologically problematic, as they reflect POc
 *qi, the form of the genitive preposition governing a non-specific inalienable possessor
@@ -11399,7 +11459,12 @@ in some other Tongan grammatical formatives.
    There are a number of languages in which the reflex of *i is the general locative
 preposition. I take these to be cases where an extension of meaning has occurred, as there
 are ample and widely distributed languages where *i is attested only with local nouns.
+>
 
+                                Talking about space: terms of location and direction      237
+
+
+<
    As mentioned above, a number of local nouns also formed POc local adverbs with the
 prefix *qa-. Jauncey (1997) notes for Tamambo that the prefix a- means ‘location in/at a
 place’, and must be prefixed to a noun signifying a place in relation to the speaker, i.e. a
@@ -11424,7 +11489,7 @@ POc *qa- local adverb formative
 
 There also seems to have been an alternant *ŋa-, reflected in Poeng (NNG) ŋa-, Nakanai
 (MM) ga-, Longgu (SES) ŋa- and Samoan, Tikopia (Pn) ŋa-, but it is not strongly attested.
-
+>
 
 8.2.2 Familiar-place and geographic local nouns
 
@@ -11447,6 +11512,7 @@ local-noun (N LOC) meanings.
 
 8.2.2.1 ‘Inland, bush’
 
+<
    As a common noun POc *qutan meant ‘bushland, hinterland’ (vol. 1, p.118; this
 volume, Ch. 3, §5.1). As a local noun, however, *qutan denoted the direction of the bush,
 namely ‘inland’. By extension, this has come to mean ‘upwards’ in a number of languages,
@@ -11455,10 +11521,9 @@ Pacific islands.
 
 PAn *quCaN ‘scrubland, bush’ (ACD)
 PMP *qutan ‘small wild herbaceous plants; scrubland, bush’ (ACD; Dempwolff 1938)
-POc (N)*qutan ‘bushland, hinterland’, (N LOC) *qutan, (ADV) *qa-qutan ‘in the bush,
- inland’
+POc (N)*qutan ‘bushland, hinterland’, (N LOC) *qutan, (ADV) *qa-qutan ‘in the bush, inland’
  NNG: Manam            -uta       (root of adverbials) ‘inland’
-                       (a)uta     (N) ‘inland’
+ NNG: Manam            (a)uta     (N) ‘inland’
  NCV: Mota             uta        ‘bush, forest, unoccupied land; the inland country
  NCV: NE Ambae         (a)ute     (ADV) ‘up in the bush’
  NCV: Tamambo          (a)uta     (ADV) ‘inland direction’
@@ -11473,22 +11538,22 @@ POc (N)*qutan ‘bushland, hinterland’, (N LOC) *qutan, (ADV) *qa-qutan ‘in 
  Fij:    Rotuman       ufa        ‘land (from the sea); interior (from the coast’)
  Pn:     Tongan        ʔuta       (N LOC) ‘inland (from shore); shore, land (from sea)’
  Pn:     Niuafo’ou     (ŋā)ʔuta   (N LOC) ‘upland’
- Pn:     Samoan        uta        (ADV) ‘on shore, inland’; (N LOC) i uta ‘on the side
-                                    facing the land’ as opposed to i tai ‘on the side
-                                    facing the sea’
-                       (ŋā)ʔuta   (ADV) ‘to shore, in an inland direction’
+ Pn:     Samoan        uta        (ADV) ‘on shore, inland’; (N LOC) i uta ‘on the side facing the land’ as opposed to i tai ‘on the side facing the sea’
+ Pn:     Samoan        (ŋā)ʔuta   (ADV) ‘to shore, in an inland direction’
  Pn:     Pileni        (ɣa)uta    (N LOC) ‘shore, village location on shore, inland’
  Pn:     Tikopia       (ŋa)uta    ‘inland, landwards’
  Pn:     Hawaiian      uka        ‘inland (from shore); shore, land (from sea)’
  Pn:     Marquesan     uta        (N LOC) ‘towards the mountain’
+>
+                                Talking about space: terms of location and direction      239
 
+
+<
    The cognate set below has fewer members that the one above, but appears to reflect a
 local noun with similar meanings. Polynesian reflexes display a vowel change and a
 change in meaning from ‘inland’ to ‘top, space above, up top’, a change presumably
 mediated by the fact that on a high island (as opposed to atoll) the inland of the island was
 also its ‘top’.
-                                Talking about space: terms of location and direction      239
-
 
 POc (N) *loŋa ‘inland’, (N LOC) *loŋa ‘inland’
  NNG: Bariai                loŋa                  ‘bush people’
@@ -11504,6 +11569,7 @@ PPn *luŋa ‘top, space above, up top’ (-u- for expected *-o-)
  Pn:     Niuafo’ou          (ʔo)luŋa             (N LOC) ‘up’
  Pn:     Samoan             luŋa                 (N LOC) ‘top, space above, up top’
  Pn:     Pileni             luŋa                 (N LOC) ‘top, up, east’
+>
 
 
 8.2.2.2 ‘Seaward, towards the beach, at sea’
@@ -11523,26 +11589,27 @@ POc *laur, but most mean ‘at sea’, and this was presumably its POc meaning.
 reflexes have been found (Mussau [Adm] lamana ‘beach’, Tigak [MM] laman ‘down
 there, at the beach’).
 
+<
 PMP *lahud ‘downriver, towards the sea’ (Dempwolff 1938, Blust 1997)
 POc (N LOC)*laur ‘sea, seawards’; (ADV) *qa-laur ‘in a seaward direction’
  Yap:   Yapese           lʔāy         ‘seaward’
  NNG: Manam              -lau         (root of adverbials) ‘seawards’
-                         (i)lau       (N) ‘seawards’
+ NNG: Manam              (i)lau       (N) ‘seawards’
  MM: Nakanai             (go)lau      ‘go toward the sea’
  MM: Meramera            -lau         (root of adverbials) ‘beach’
  MM: Kokota              rauru        ‘seaward’
- SES:   Bugotu           lau, (i)lau  ‘seawards’ (as opposed to i-loŋa ‘landwards,
-                                         inland, towards land’)
- SES:   Gela             lau, (i)lau  ‘seawards, shorewards from a speaker inland,
-                                         (river) bank’ (as opposed to i-loŋa ‘landwards,
-                                          inland, towards land’)
+ SES:   Bugotu           lau, (i)lau  ‘seawards’ (as opposed to i-loŋa ‘landwards, inland, towards land’)
+ SES:   Gela             lau, (i)lau  ‘seawards, shorewards from a speaker inland, (river) bank’ (as opposed to i-loŋa ‘landwards, inland, towards land’)
  SES:   Lau              lau          ‘north; open sea to the north’
-240    Malcolm Ross
-
  NCV:     Mota            lau             ‘the beach, as approached from the land’
  NCV:     NE Ambae        (a)lau          (ADV) ‘down by the sea’
  NCV:     Tamambo         (a)lau          (ADV) ‘seawards, shore direction’
  NCV:     Paamese         (a)lau          ‘seawards’
+>
+240    Malcolm Ross
+
+
+<
 PMP *tasik ‘sea’ (Dempwolff 1938)
 POc (N)*tasik ‘sea, salt water’, (N LOC) *tasik ‘at sea’
  MM: Lihir                (i) tes         ‘at sea’
@@ -11551,13 +11618,12 @@ POc (N)*tasik ‘sea, salt water’, (N LOC) *tasik ‘at sea’
  SES:    Longgu           asi             (N LOC) ‘seawards’
  SES:    Kwaio            (i) asi         ‘at the coast’
  SV:     Lenakel          (i)rhe          (ADV)‘ at/to sea’
- Fij:    Wayan            taði            (N LOC) ‘coast, seashore, sea, from the
-                                            perspective of the land’
+ Fij:    Wayan            taði            (N LOC) ‘coast, seashore, sea, from the perspective of the land’
  Pn:     Niuafo’ou        (ŋā)tai         (N LOC) ‘outer sea’
- Pn:     Samoan           tai             (ADV) ‘at sea’, (i tai ‘on the side facing the sea’,
-                                            as opposed to i uta ‘on the side facing the land’)
-                          (ŋā)tai         (ADV) ‘to sea’
+ Pn:     Samoan           tai             (ADV) ‘at sea’, (i tai ‘on the side facing the sea’, as opposed to i uta ‘on the side facing the land’)
+ Pn:     Samoan           (ŋā)tai         (ADV) ‘to sea’
  Pn:     Marquesan        tai             (N LOC) ‘sea’
+>
 
 
 8.2.2.3 Directions along the coastline
@@ -11570,15 +11636,18 @@ widely separated languages supports their reconstruction. The Nalik glosses ‘s
 and ‘north-west’ are equivalent respectively to ‘to one’s left when facing the sea’ and ‘to
 one’s right when facing the sea’ if one is on the west coast of New Ireland.
 
+<
 PWOc (N LOC) *pa, (ADV) *qa-pa ‘to one’s left when facing the sea’
  NNG: Manam           (a)wa          (N) ‘to one’s left when facing the sea’
  MM:     Vitu         (ɣe)va         (ADV) ‘downwards’
  MM:     Nalik        pa             (N LOC) ‘south-east’
-
+>
+<
 PWOc (N LOC) *ta, (ADV) *qa-ta ‘to one’s right when facing the sea’
  NNG: Manam            (a)ta          (N) ‘to one’s right when facing the sea’
  MM:    Vitu           (ɣe)ta         (ADV) ‘upwards’
  MM:    Nalik          ta             (N LOC) ‘north-west’
+>
 
    Nakanai (MM) has the non-cognate pair of roots (used in directional and local verbs)
 -ale ‘to one’s left when facing the sea’ and -muli ‘to one’s right when facing the sea’.
@@ -11591,6 +11660,7 @@ PWOc (N LOC) *ta, (ADV) *qa-ta ‘to one’s right when facing the sea’
 reasonably clear that it also functioned as a local noun in the phrase *i Rumaq ‘at home’,
 and apparently also in the adverb *qa-Rumaq.
 
+<
 PAn *Rumaq ‘dwelling house’ (Blust 1987)
 POc (N)*Rumaq ‘house’, (N LOC) *Rumaq, (ADV) *qa-Rumaq ‘at home’
  PT:    Saliba         numa          (N LOC) ‘home’
@@ -11603,10 +11673,12 @@ POc (N)*Rumaq ‘house’, (N LOC) *Rumaq, (ADV) *qa-Rumaq ‘at home’
  NCV: Lewo             um aw         (N LOC) ‘home’
  SV:    Lenakel           w
                        īm a          ‘at home, homewards’ (cf. nimwa ‘house’)
+>
 
 
 8.2.2.5 ‘Down below’
 
+<
    POc *tanoq is reconstructed as a common noun meaning ‘earth, soil, ground; land’ in
 vol. 1, p.119 and in this volume, p.41. However, there is well distributed evidence that as a
 local noun it meant ‘down below’. This is not surprising when one considers that POc
@@ -11614,8 +11686,7 @@ speakers must generally have lived in stilt houses (vol. 1, Ch. 3) for whose inh
 ground was indeed ‘down below’.
 
 PMP *taneq ‘earth, land’ (Dempwolff 1938)
-POc (N)*tanoq ‘earth, soil, ground; land’, (N LOC) *tanoq, (ADV) *qa-tanoq ‘down on the
- ground, down below’
+POc (N)*tanoq ‘earth, soil, ground; land’, (N LOC) *tanoq, (ADV) *qa-tanoq ‘down on the ground, down below’
  Adm: Loniu              tan            (ADV) ‘down’
  NNG: Takia              tan (na)       (N + POSTPOSITION) ‘on the ground, down below’
  PT:     Gumawana        tono           ‘down’
@@ -11628,6 +11699,7 @@ POc (N)*tanoq ‘earth, soil, ground; land’, (N LOC) *tanoq, (ADV) *qa-tanoq �
  SV:     Kwamera         təna           ‘earth, ground; land, island, country’
  NCal: Iaai              kono           ‘earth, ground’
  NCal: Nengone           ten            ‘under’
+>
 
    The meanings above overlap with the adverb reflexes of POc *sipo ‘go downward’,
 (ADV) ‘down below’, but *tanoq, a noun, and *sipo a verb (and perhaps adverb), belonged
@@ -11637,6 +11709,7 @@ to different word classes (§3.3.1).
 
 8.2.2.6 ‘Up above’
 
+<
    A few of the reflexes of POc *atas ‘top, space above’ are monovalent relational nouns.
 However, the vast majority of reflexes are geographic, not relational, nouns, and it seems
 that POc *atas was also a geographic noun. It also seems that it was not a common noun
@@ -11654,35 +11727,37 @@ POc (N)*atas ‘top; space above’, (N LOC) *atas ‘up top’
  PT:      Gapapaiwa         yata           ‘on top’
  PT:      Sinaugoro         iata(na-i)     ‘on top of it’ (N-P:3SG-POSTP)
  PT:      Motu              lata-          ‘summit, top’
-                            ata(i)         ‘on top’ (N-POSTP)
+ PT:      Motu              ata(i)         ‘on top’ (N-POSTP)
  MM:      Bali              ɣata           ‘up (there)’
  MM:      Nakanai           (go)ata        ‘go upwards’
  MM:      Meramera          uata           ‘upwards’
  MM:      Lavongai          (la)kat        ‘top’
  MM:      Nalik             uata           ‘top’
  MM:      Sursurunga        (u-ram)iet     ‘upwards’
-                            ieti           ‘top’
+ MM:      Sursurunga        ieti           ‘top’
  MM:      Tangga            (l)iat         ‘up (there)’
-                            (ua)yat        ‘upwards’
+ MM:      Tangga            (ua)yat        ‘upwards’
  Mic:     Kiribati          (i)eta         ‘up, on high, above, top, upper, heavens’
  Mic:     Marshallese       ec             ‘upper, eastern’
  Mic:     Chuukese          ās             ‘upper part, top, summit, eastern side’
-                            asa-           ‘upper part’
+ Mic:     Chuukese          asa-           ‘upper part’
  Mic:     Woleaian          yat            ‘up, top’
- Fij:     Wayan             ata            (N LOC) ‘top, above; interior of a mountainous
-                                             island, up the hill, inland’
+ Fij:     Wayan             ata            (N LOC) ‘top, above; interior of a mountainous island, up the hill, inland’
  cf. also
  MM:      Solos             yas            ‘top’
-                            (i)yas         ‘up (there)’
+ MM:      Solos             (i)yas         ‘up (there)’
  MM:      Petats            (i)yas         ‘up (there)’
-                            yas            ‘topside; upwards’
+ MM:      Petats            yas            ‘topside; upwards’
  MM:      Halia (Haku)      (i)yasa        ‘up (there)’
-                            (pal)yasa      ‘upwards’
+ MM:      Halia (Haku)      (pal)yasa      ‘upwards’
  MM:      Halia (Selau)     (i)yasa        ‘up (there)’
  MM:      Taiof             yas            ‘up (there); upwards’
+>
+
                                  Talking about space: terms of location and direction   243
 
 
+<
    POc *laŋit ‘sky, weather’ is reconstructed as a common noun in Chapter 5, but the
 reflexes below suggest that it was also used as a POc local noun.
 
@@ -11698,7 +11773,9 @@ POc (N) *laŋit ‘sky, weather’, (N LOC) *laŋit ‘up top, high up’
    The meanings above overlap with the adverb reflexes of POc *sake ‘go upward’, (ADV)
 ‘upwards, up top’, but *atas and *laŋit were nouns, *sake a verb (and perhaps adverb,
 p.277).
+>
 
+<
    It is less clear whether POc *laka ‘up above’ was a noun or a verb. In Takia its reflex is
 a zero-valency noun, in Mapos Buang and Kiriwina a local adverb. These could be derived
 from either a noun or a directional verb. Monovalent noun reflexes occur in the two New
@@ -11723,17 +11800,18 @@ POc (N LOC) *laka ‘up above’, (ADV) *qa-laka ‘in an upward direction’
 
 There was also a POc verb *laka, which meant ‘walk’ and apparently had no directional
 meaning.
-
+>
 
 8.2.2.7 ‘In the middle, between’
 
+244       Malcolm Ross
+
+<
    There is well distributed evidence that POc *liwaŋ, *liwa-/*liwaŋa- was a local noun
 meaning ‘open space, space between, middle’, and that it had at least one relational
 alternant. The form we would expect to find reflected in most languages with relational
 forms is POc *liwa-. However, we also find reflexes of *liwaŋa-. This may be the result of
 local developments, and this in turn may suggest that there was no relational form in POc.
-244       Malcolm Ross
-
 
    The forms listed below under ‘cf. also’ are similar in form to those listed here.
 However, the fact that they share a formal irregularity—they seem to reflect POc *lua—
@@ -11741,8 +11819,7 @@ and a different meaning—‘outside’—suggests that POc *lua ‘outside’ m
 separate etymon, and also a local noun.
 
 PMP *liwaŋ ‘open space’ (ACD: Proto Western Malayo-Polynesian)
-POc (N) *liwaŋ, *liwa-/*liwaŋa- ‘open space, space between, middle’, (N LOC) *liwaŋ ‘in
- the middle’
+POc (N) *liwaŋ, *liwa-/*liwaŋa- ‘open space, space between, middle’, (N LOC) *liwaŋ ‘in the middle’
  Adm: Loniu                (loho)luwa-          ‘middle’
  NNG: Mangap               lwo-                 ‘torso; middle’
  NNG: Manam                luʔaŋa-              ‘space in middle’
@@ -11751,22 +11828,21 @@ POc (N) *liwaŋ, *liwa-/*liwaŋa- ‘open space, space between, middle’, (N LO
  PT:       Sudest          luɣawo-luɣawo-       ‘middle’ (metathesis of **luwaɣo-)
  MM:       Ramoaaina       (nə)liwən            ‘between’
  MM:       Tolai           (na)livuan           ‘in the middle’
-                           livuan               ‘(be) in the middle’
+ MM:       Tolai           livuan               ‘(be) in the middle’
  SES:      Longgu          levua-               ‘middle, centre’
  NCV: NE Ambae             livuge-              ‘middle’
  NCV: Tamambo              livuɣa-              ‘middle part of s.t.’
  NCV: Paamese              luhi, luhu           ‘middle’
  SV:       Sye             (i)lvuɣ(teve)-       ‘between, in the middle of’
  Mic:      Woleaian        riwan-               ‘between, among’
- Fij:      Bauan           liwa                 (N) ‘ocean far from land’, (ADV) ‘far
-                                                  from habitation’
-                           (mā)liwa             (N) ‘space between, interstice’
+ Fij:      Bauan           liwa                 (N) ‘ocean far from land’, (ADV) ‘far from habitation’
+ Fij:      Bauan           (mā)liwa             (N) ‘space between, interstice’
  cf. also:
  MM:       Minigir         (na)lua              ‘outside’
  MM:       Tolai           (na)lua              ‘outside’
  SV:       Lenakel         (i)lua               ‘outside’
  SV:       Kwamera         (i)rua               ‘outside’
-
+>
 
 8.2.3 Relational local nouns
 
@@ -11810,7 +11886,7 @@ space above’ (§2.3.3), ‘side’ (§2.3.4), ‘outside’ (§2.3.5), ‘fron
 ‘back, space behind, time after’ (§2.3.7). Although the nearest semantic equivalents of
 Oceanic relational nouns are English prepositions, I have used nouns and noun phrases in
 the titles of these subsections in an attempt to replicate the meanings of the reconstructed
-Oceanic terms.11
+Oceanic terms.[11]
 
    In their monovalent form, relational local nouns are reconstructed below like other
 monovalent nouns, i.e. without their final consonant, on the assumption that it was lost
@@ -11825,15 +11901,16 @@ context, so that, e.g., POc *lalo-ña in the reconstructed example above may hav
 
 8.2.3.1 ‘Inside’
 
+246     Malcolm Ross
+
+<
    The most widely reflected POc term for ‘inside’ is *lalo-/*lalom. This reflects PMP
 *Daləm with assimilation of the initial liquid to the intervocalic liquid: the expected POc
 form is **ralo-/**ralom. Reconstruction of unsuffixed *lalom is supported by just one
-reflex, Mussau e-lom-e.12
+reflex, Mussau e-lom-e.[12]
 
 [12] Initial e- reflects the POc local preposition *i. Final -e is also found on another Mussau relational noun,
    pak-e, reflecting POc *pak ‘underside’. Its origin is not known.
-246     Malcolm Ross
-
 
    In Polynesian languages reflexes of *lalo-/*lalom denote the region underneath
 something. Blust (1997) suggests that this meaning change comes from the use of *lalom
@@ -11850,7 +11927,7 @@ POc (N, N LOC) *lalo-, *lalom ‘inside’
  NNG: Ulau-Suain             lulua-       ‘room’
  NNG: Ali                    lal          ‘room’
  NNG: Numbami                (tae)lalo    ‘intestines ’
-                             (weni)lalo   ‘forest ’
+ NNG: Numbami                (weni)lalo   ‘forest ’
  NNG: Yabem                  (ŋa)lelom    ‘inside’
  NNG: Kela                   raro         ‘inside’
  PT:     Motu                lalo-        ‘inside, within’
@@ -11866,22 +11943,18 @@ POc (N, N LOC) *lalo-, *lalom ‘inside’
  SES:    Lau                 (i)lalo      ‘inside, in’
  SES:    Sa’a                lalo         ‘inside’
  SES:    Arosi               raro         ‘in’
- NCV: Mota                   lolo-        ‘the inner part; a hollow; the inward part
-                                            of man, heart, affections’
+ NCV: Mota                   lolo-        ‘the inner part; a hollow; the inward part of man, heart, affections’
  NCV:     Raga               lolo-        ‘inside, middle; body, stomach’
  NCV:     Uripiv             lolo-        ‘inside’
  NCV:     Port Sandwich      nalö-n       ‘inside; seat of feelings’
- SV:      Kwamera            reri-        ‘internal portion, insides, heart, mind,
-                                            feeling, emotion’
+ SV:      Kwamera            reri-        ‘internal portion, insides, heart, mind, feeling, emotion’
  SV:      Anejom             lele-        ‘inside; heart, seat of feelings’
  NCal:    Tinrin             ñw-        ‘inside’
  Mic:     Kiribati           (i)nano-n    ‘inside, in’
  Mic:     Kosraean           lwal         ‘deep’
  Mic:     Marshallese        i-lowa       ‘inside, in’
-                             lal         ‘down, bottom, below, earth, world’
+ Mic:     Marshallese        lal         ‘down, bottom, below, earth, world’
  Mic:     Ponapean           lolɛ         ‘inside (it)’
-                               Talking about space: terms of location and direction    247
-
  Mic:     Chuukese            44o4          ‘inside of’
  Mic:     Puluwatese          llon          ‘in it’
  Mic:     Woleaian            raro          ‘inside’
@@ -11889,6 +11962,9 @@ PPn *lalo ‘region underneath’
  Pn:     Tongan              lalo           ‘below, under’
  Pn:     Samoan              lalo           ‘under, down, below’
  Pn:     Pileni              lalo           ‘bottom, down, west’
+>
+                               Talking about space: terms of location and direction    247
+
 
    There is evidence that POc *lalo- had two short forms, *lo- and *la-. A number of their
 reflexes occur as prepositions and may have been conflated with reflexes of POc *lako/*la
@@ -11904,6 +11980,7 @@ a stronger tendency to occur as prepositions (p.288), and may reflect the short 
 more than once in the history of Oceanic languages, but reflexes of *lo- below and in
 §3.4.5 are widespread enough to warrant its reconstruction in POc.
 
+<
 POc (N LOC) *lo- ‘inside’
  Adm: Titan                 lo(n-um)        ‘floor, inside of a house’ (um ‘house’)
  NNG: Malasanga             lo-             ‘inside’
@@ -11923,48 +12000,50 @@ POc (N LOC) *la- ‘inside’; ?? (PREP) ‘in’
  MM:     Tigak               la-            ‘inside’
  MM:     Kara (East)         la             ‘inside’
  Mic:    Woleaian            ra-n           ‘inside’
+>
 
+248    Malcolm Ross
+
+<
    POc *loto- ‘space within a concave object’ is not well supported. It has become the
 default relational noun for ‘inside’ in Polynesian languages (where POc *lalo- is reflected
 with the meaning ‘underneath’; see above) and is also reflected in Wayan Fijian, so it can
 be reconstructed for Proto Central Pacific. Its reconstruction in POc rests on a single
 Admiralties reflex, Loniu lotiyɛ-, with -i- for expected -o-.
-248    Malcolm Ross
-
 
 POc (N, N LOC) *loto ‘space within a concave object’
  Adm: Loniu             lotiyɛ-            ‘inside’
  Fij:    Wayan          loto-              ‘bottom, lowest part (e.g. of kava bowl)’
 PPn *loto ‘inside’
- Pn:     Tongan          loto                ‘inside; hole or depression in coral reef
-                                               or sea bed’
+ Pn:     Tongan          loto                ‘inside; hole or depression in coral reef or sea bed’
  Pn:      Samoan         loto                ‘deep hole in lagoon; (house) interior’
  Pn:      Tahitian       roto                ‘pool, lake, lagoon; inside’
- Pn:      Hawaiian       loko                ‘pond, lake, pool; inside, interior; internal
-                                               organs, as tripe’
+ Pn:      Hawaiian       loko                ‘pond, lake, pool; inside, interior; internal organs, as tripe’
+>
 
    In many Oceanic languages the word for ‘inside’ is the reflex of a POc body-part term.
 Two of these may have had the secondary meaning ‘inside’: POc *bwal(o,a)-, *bwal(o,a)k
 seems to have denoted the belly, POc *tinaqe- the intestines.
 
+<
 POc (N)*bwal(o,a)-, *bwal(o,a)k ‘belly; hollow space’, (N LOC) ‘inside’
  Adm: Nyindrou         bolo-n               ‘inside, in’
  Adm: Titan            pólo-n               (PREP) ‘among, inside’
  NNG: Kairiru          balai                ‘inside’
  MM: Vitu              polok                ‘inside’
  MM: Sursurunga polgo                       ‘inside’
- MM: Tolai             (ta ra) bala-na      ‘inside, in’ (ta PREP, ra ART, bala- ‘belly,
-                                              interior’)
+ MM: Tolai             (ta ra) bala-na      ‘inside, in’ (ta PREP, ra ART, bala- ‘belly, interior’)
  NCV: Raga               w
                        b ala                ‘shell’
                          w
-                       b ala(lolo)          ‘middle’
+ NCV: Raga             b ala(lolo)          ‘middle’
  NCV: Lonwolwol bwele-n                     ‘hollow vessel, empty shell’
  NCV: Paamese          vale(-ŋe-ne)         ‘hollow part of something, cave’
  NCV: Namakir          bwele-n              ‘belly’
- NCV: Nguna            (na-)pwele           ‘stomach, belly, abdomen, waist, genital
-                                              region’
-                       (na)-pwala( u-na) ‘among, middle, inside’
+ NCV: Nguna            (na-)pwele           ‘stomach, belly, abdomen, waist, genital region’
+ NCV: Nguna            (na)-pwala( u-na) ‘among, middle, inside’
+>
+<
 PMP *tinaqi ‘small intestine’ (Blust 1981)
 POc (N)*tinaqe- ‘intestines; ?? (N LOC) inside’
  Adm: Drehet             kxine              ‘inner part, inside’
@@ -11972,16 +12051,17 @@ POc (N)*tinaqe- ‘intestines; ?? (N LOC) inside’
  PT:     Iduna           hinage-ne          ‘inside’
  PT:     Gapapaiwa       sine               ‘inside’
  PT:     Sudest          tine               ‘inside’
-
+>
 
 
 8.2.3.2 ‘Underneath, lower surface, space below’
 
+                               Talking about space: terms of location and direction   249
+
+<
    The most widely reflected POc term for ‘underneath, underside’ is *papa-, *papak. This
 reflects PMP *babaq, which Blust reconstructs as referring to the underside or lower
 surface of something (the change from PMP *-q to POc *-k is unexplained). In a number
-                               Talking about space: terms of location and direction   249
-
 of Oceanic languages, its meaning also includes the space beneath something, e.g. a house
 (see the NNG reflexes below), and it is probable that this extension of meaning had already
 occurred in POc. Its zero-valency forms are the source of local adverbs meaning ‘below,
@@ -11998,11 +12078,9 @@ reflexes of POc *lalom ‘inside’ (p.247).
 PMP *babaq ‘lower surface, bottom, underside’ (ACD)
 POc (N, N LOC)*papa-,*pa-, *papak, *pak ‘underneath, lower surface, bottom, underside’
  Adm: Mussau           pak(e)          ‘underside’
- Adm: Loniu            paʔaha-         ‘underside’ (metathesis of *pahaʔa- <
-                                         *papaqa- with unexplained final *-a-)
+ Adm: Loniu            paʔaha-         ‘underside’ (metathesis of *pahaʔa- < *papaqa- with unexplained final *-a-)
  Adm: Drehet           pehe(kxa-)      ‘underside’
- NNG: Lukep (Pono) pa(rumu)            ‘area under house’ (< POc *pak qi Rumaq
-                                         ‘underneath of house’)
+ NNG: Lukep (Pono) pa(rumu)            ‘area under house’ (< POc *pak qi Rumaq ‘underneath of house’)
  NNG: Dami             pa(rume)        ‘under’ (< POc *pak qi Rumaq)
  NNG: Bing             papa(rum)       ‘under (a house)’ (< POc *papak qi Rumaq)
  PT:     Are           baba-           ‘beneath’
@@ -12013,8 +12091,7 @@ POc (N, N LOC)*papa-,*pa-, *papak, *pak ‘underneath, lower surface, bottom, un
  SES:    Birao         vava-           ‘below’
  NCV: Nokuku           veva-n          ‘underside’
  NCV: Kiai             vova-na         ‘underside’
- NCV: Uripiv           (mel)ve-n       ‘the underneath of it, the shade of it’
-                                         (*malu ‘shadow’)
+ NCV: Uripiv           (mel)ve-n       ‘the underneath of it, the shade of it’ (*malu ‘shadow’)
  NCV: Lonwolwol        fa-n            ‘underneath’
  NCV: Paamese          hehe-ne         ‘underneath’
  NCV: Nguna            na-ve(ruku)     ‘underneath’
@@ -12028,12 +12105,10 @@ Proto Meso-Melanesian *pake- ‘underneath, underside’
  MM: Bali              va-vake(ni)     ‘down (there)’
  MM: Tigak             pak(a-)         ‘underside’
  MM: Kara (East)       pa-             ‘underside; down there’
-250    Malcolm Ross
-
  MM:     Notsi           pai-             ‘underside’
  MM:     Tabar           paki-            ‘underside’
  MM:     Lihir           pakie-           ‘underside’
-                         pek-             ‘down (there)’
+ MM:     Lihir           pek-             ‘down (there)’
  MM:     Tangga          (ua-i)fafi       ‘downwards’
  MM:     Konomala        fəi-             ‘underside’
  MM:     Tolai           (na)vavai        ‘under’
@@ -12043,6 +12118,9 @@ Proto Meso-Melanesian *pake- ‘underneath, underside’
  MM:     Vangunu         (pana)peka       ‘below’ (vowel metathesis)
  MM:     Kia             peka             ‘below’ (vowel metathesis)
  MM:     Laghu           peka             ‘below’ (vowel metathesis)
+>
+250    Malcolm Ross
+
 
    Three other POc terms can be reconstructed with a meaning related to ‘underneath’ or
 with a denotation which has given rise to it in daughter languages.
@@ -12057,6 +12135,7 @@ p.51) and has come to mean ‘underneath’ in some languages by extension. POc 
 puqun had the relational meaning ‘base, foundation’ when used in association with an
 object, as well as the more abstract meaning ‘origin, source, reason’.
 
+<
 POc (N, N LOC) *ruku- ‘underneath, undersurface (?)’
  MM: Bulu                luku(va)-      ‘underside’ (-va < POc *pa- ‘underside’)
  MM: Meramera            luʔu(va)-      ‘underside’ (-va < POc *pa- ‘underside’)
@@ -12069,6 +12148,8 @@ POc (N, N LOC) *ruku- ‘underneath, undersurface (?)’
  NCV: Nguna              (na-ve)ruku    ‘underneath’ (ve- < POc *pa- ‘underside’)
  Fij:    Wayan           ruku           ‘underneath, under, below, space underneath’
  Fij:    Bauan           ruku-          ‘space underneath’
+>
+<
 POc (N, N LOC) *gabwari- ‘the area underneath a raised house’ (vol. 1, p.51)
  Adm: Titan             kapwaliŋ         ‘area underneath a house’
  NNG: Mapos Buang ɣ̙bi(ne)               ‘underneath’
@@ -12076,19 +12157,21 @@ POc (N, N LOC) *gabwari- ‘the area underneath a raised house’ (vol. 1, p.51)
  NNG: Patep             ŋbi-             ‘underneath’
  PT:     Gumawana       gabula           ‘underneath’
  PT:     Tawala         gaboli-          ‘area underneath a house’
-                                     Talking about space: terms of location and direction           251
-
  PT:       Dobu                gabura              ‘area underneath a house’
  PT:       Duau                gabule-             ‘area underneath a house’
  PT:       Misima              gabúla              ‘area underneath a house; underneath’
  PT:       Sinaugoro           gabule-             ‘underneath’
+>
+                                     Talking about space: terms of location and direction           251
+
+<
 PMP *puqun ‘beginning, cause, origin, source, basis’ (ACD)
 POc (N, N LOC) *puqu-, puqun ‘base, foundation, origin, source, reason’
  Adm: Loniu             puʔu-           ‘bottom, underside’
  NNG: Tami              pu-             ‘base, origin’
  NNG: Mangga            kabi(ni)        ‘underneath’
  NNG: Takia             fu-n            ‘bottoms’
- NNG: Yabem             m              ‘origin’13
+ NNG: Yabem             m              ‘origin’[13]
  NNG: Bukawa            (ŋa)pu          ‘underside’
  NNG: Mangga            vu              ‘underside’
  NNG: Wampar            fo(n)           ‘origin’
@@ -12096,17 +12179,20 @@ POc (N, N LOC) *puqu-, puqun ‘base, foundation, origin, source, reason’
  NNG: Silisili          fogo            ‘origin’
  NNG: Wampur            hugu-n          ‘trunk’
  NNG: Adzera            fugu-n          ‘tap-root; base’
- PT:     Bwaidoga       vu-vu-          ‘cause, origin, foundation of anything;
-                                            (tree) root’
- MM: Tolai              vu-             ‘beginning, cause, origin, source, basis,
-                                            root, foundations’
+ PT:     Bwaidoga       vu-vu-          ‘cause, origin, foundation of anything; (tree) root’
+ MM: Tolai              vu-             ‘beginning, cause, origin, source, basis, root, foundations’
  SES: Longgu            vuʔa            ‘below, down; a time before’
- Fij:    Wayan          -vū             ‘base, bottom; origin, source, cause; taproot,
-                                            tuber’
+ Fij:    Wayan          -vū             ‘base, bottom; origin, source, cause; taproot, tuber’
+
+[13] Yabem m (syllabic low-tone bilabial nasal) is the regular reflex of earlier *vu < POc *puqu-.
+>
 
 
 8.2.3.3 ‘Top, upper surface, space above’
 
+252    Malcolm Ross
+
+<
    The basic POc term for ‘top, upper surface, space above’ is *papo[-],*po[-]. Blust
 (ACD, 1997) writes that PMP *babaw ‘upper surface, top’ is the antonym of PMP *babaq
 ‘lower surface, bottom’, and the same is true of their POc reflexes: POc *papo[-],*po[-] is
@@ -12122,24 +12208,18 @@ relation to the sea, *papo[-] was its surface and the space above it. This is be
 hence ‘outside’ it.
 
 
-
-
-[13] Yabem m (syllabic low-tone bilabial nasal) is the regular reflex of earlier *vu < POc *puqu-.
-252    Malcolm Ross
-
-
 PMP *babaw ‘upper surface, top; above; highlands’ (ACD)
 POc (N, N LOC) *papo[-],*po[-] ‘upper surface, top’
  Adm: Mussau              po(na)           ‘top’
  NNG: Tami                [ka]popo-        ‘top (of s.t.)’
-                          po               ‘above’
+ NNG: Tami                po               ‘above’
  NNG: Takia               fo               (POSTPOSITION) ‘on’
  NNG: Numbami             wao-             ‘above’
  NNG: Yabem               aö              ‘upwards’
-                          (ŋ)aö           ‘upper surface’
+ NNG: Yabem               (ŋ)aö           ‘upper surface’
  NNG: Kela                baba             ‘topside’
  NNG: Mapos Buang         vavu             ‘up top’
-                          vavu(ne)         ‘upwards’
+ NNG: Mapos Buang         vavu(ne)         ‘upwards’
  NNG: Wampar              we(ŋ)            ‘topside’
  NNG: Yalu                wa9(g)           ‘topside’
  NNG: Adzera              wagu(ŋ)          ‘topside’
@@ -12156,25 +12236,24 @@ POc (N, N LOC) *papo[-],*po[-] ‘upper surface, top’
  NCal: Nemi                 w
                           p ap             ‘outside’
  Mic:    Kiribati         āo               ‘upper part of, surface, outside, back’
-                          (i)ao-           ‘on, on top’
+ Mic:    Kiribati         (i)ao-           ‘on, on top’
  Mic:    Kosraean         fɛ-              ‘above, on’
  Mic:    Marshallese      ɛwɛ-             ‘on; upon; top; surface; over’
  Mic:    Mokilese         pō-              ‘on’
  Mic:    Chuukese         wo-4            ‘above, on it’
  Mic:    Puluwatese       wo-n            ‘above, on it’
  Mic:    Woleaian         wo-             ‘on, topside, upside’
- Pn:     Samoan           fafo             ‘outside, out of doors, a place other than
-                                             Samoa’
+ Pn:     Samoan           fafo             ‘outside, out of doors, a place other than Samoa’
  Pn:     Rennellese       haho             ‘outside’
- Pn:     Maori            waho             ‘outside; open sea; coast, as opposed to
-                                             inland’
+ Pn:     Maori            waho             ‘outside; open sea; coast, as opposed to inland’
  Pn:     Hawaiian         waho             ‘outside, beyond, out, outer, outward’
+>
+                               Talking about space: terms of location and direction    253
 
+<
    Given the tendency for body-part terms to be used by metaphorical extension as
 relational nouns (cf. p.248), it is unsurprising that the word for ‘head’ and ‘head hair’, POc
 *qulu[-], also acquired the meaning ‘top’.
-                               Talking about space: terms of location and direction    253
-
 
 PAn *qulu ‘head’ (ACD)
 POc (N)*qulu[-] ‘head, (head) hair’, (N LOC) ‘top part’
@@ -12184,7 +12263,7 @@ POc (N)*qulu[-] ‘head, (head) hair’, (N LOC) ‘top part’
  NNG: Bukawa             lu-lu(ʔ)          ‘topside’
  PT:    Molima           ʔunu-ʔunu-        ‘head, forehead; (river) source’
  MM: Tigak               kuli-             ‘top’
-                         kul               ‘up (there)’
+ MM: Tigak               kul               ‘up (there)’
  MM: Tiang               kələ              ‘topside’
  MM: Nalik               kula              ‘up (there)’
  MM: Tabar               kulu              ‘topside’
@@ -12192,30 +12271,27 @@ POc (N)*qulu[-] ‘head, (head) hair’, (N LOC) ‘top part’
  MM: Konomala            ulə               ‘topside’
  MM: Tolai               ul                ‘head, hair, top, apex, crown’
  MM: Roviana             ulu               ‘top’
- SES:   Gela             ulu-              ‘head, except of a chief; (in compounds) hair;
-                                             eastern end, upper end’
+ SES:   Gela             ulu-              ‘head, except of a chief; (in compounds) hair; eastern end, upper end’
  SES:   Bugotu           ulu               ‘head, top end’
  SES:   Lau              ulu(nao)          ‘first-born, elder, senior’
-                         ulu-ulu-          (tree) topmost branch
+ SES:   Lau              ulu-ulu-          (tree) topmost branch
  SES:   ’Are’are         uru               ‘cloud, heaven, sky, top’
  NCV: NE Ambae           ulu-              ‘top’
  NCV: Tamambo            ulu-              ‘top part’
  NCV: Raga               ulu-              ‘space above’
- NCV: Paamese            (n)ulu(ŋout)      ‘at the top of the garden’ (< POc *na qulu ni
-                                             qutan ART top PREP bush)
+ NCV: Paamese            (n)ulu(ŋout)      ‘at the top of the garden’ (< POc *na qulu ni qutan ART top PREP bush)
  NCal: Nemi              hule-n            ‘top’
  Mic:   Kosraean         ulu-              ‘top’
  Fij:   Wayan            -ulu              ‘head or top part of an animal or thing’
  Fij:   Bauan            ulu-              ‘head, top’
  Pn:    Tongan           ʔulu              ‘head, upper end’
  Pn:    Samoan           ulu               ‘head, hair’
-                         ulu(matua)        ‘first-born, eldest child’
- Pn:    Maori            uru               ‘head, (head) hair; chief; top, upper end;
-                                             (weapon +) point’
+ Pn:    Samoan           ulu(matua)        ‘first-born, eldest child’
+ Pn:    Maori            uru               ‘head, (head) hair; chief; top, upper end; (weapon +) point’
 
 In NCV languages we find reflexes of the adverb *qa-qulu ‘up there, up above’: NE
 Ambae a-ulu ‘up high, on top’, Tamambo a-ulu ‘on top, at the gardens’, Kiai aulu ‘above’.
-
+>
 
 8.2.3.4 ‘Side’
 
@@ -12237,7 +12313,8 @@ of *[pwa]pwaRa[-]. Listed under ‘cf. also’ below *[pwa]pwaRa[-] are terms wh
 include the meaning ‘side’ but whose forms reflect *baban. The Lau and Bauan reflexes
 have glosses which are associated with both items, suggesting conflation.
 
-PCEMP *papaR ‘cheek, temple, side,’ (ACD)14
+<
+PCEMP *papaR ‘cheek, temple, side,’ (ACD)[14]
 POc (N) *[pwa]pwaRa[-] ‘cheek, side of head’, (N LOC) ‘side’
  NNG: Kairiru          poreq              ‘side of house’ (-q unexplained)
  MM: Nalik             par, pāran         ‘side’ (dialectal variants)
@@ -12258,7 +12335,11 @@ POc (N) *[pwa]pwaRa[-] ‘cheek, side of head’, (N LOC) ‘side’
  SES: Arosi            baba               ‘cheek, temples; side (of a stream +)’
  Fij:      Bauan       baba               ‘side of s.t., cheek bone; side of a canoe’
 
+[14] Blust also gives ‘plank’ as a gloss. See text.
+>
+<
    POc *pwala(ŋ) ‘side, part’ is reconstructable, but its exact sense is unclear.
+
 PMP *balaŋ ‘side, part’ (ACD)
 POc *pwala(ŋ) ‘side, part’ (ACD)
  MM: Tigak                pal                       ‘part’
@@ -12266,16 +12347,13 @@ POc *pwala(ŋ) ‘side, part’ (ACD)
  SES: Lau                 bara-                     ‘side’
  NCV: Mota                para                      ‘sideways, turning aside’
  Pn:    Tongan            pala                      ‘side, edge’
-
-   POc *bali denoted ‘one of two (opposing) sides or parts’.
-
-
-[14] Blust also gives ‘plank’ as a gloss. See text.
+>
                                    Talking about space: terms of location and direction   255
 
+<
+   POc *bali denoted ‘one of two (opposing) sides or parts’.
 
-PMP *baliw ‘moiety; answer; oppose; partner, friend, enemy; opposite side or part’
- (ACD)15
+PMP *baliw ‘moiety; answer; oppose; partner, friend, enemy; opposite side or part’ (ACD)[15]
 POc (N, N LOC) *bali[-] ‘one of two (opposing) sides or parts’
  SES:      Gela            bali          ‘bring together (opposite planks of a canoe)’
  SES: Kwaio                bali-         ‘part, side, portion, half’
@@ -12289,17 +12367,23 @@ POc (N, N LOC) *bali[-] ‘one of two (opposing) sides or parts’
  cf. also:
  MM:       Motu               badi(nai)        ‘beside’ (-d- for expected **-r-)
 
+[15] The PMP etymon is discussed at length by Blust (1980a) and in the ACD.
+>
+
    There are two other reconstructions from which terms for ‘side’ are derived. One, POc
 *siriŋ ‘side, edge’, is derived from a PMP term whose basic meaning was apparently ‘be
 close to, be near to’. Only three Oceanic reflexes have been found to date. The other, PEOc
 *tapa- ‘side, outside’, is limited to Eastern Oceanic, where the earlier sense seems to have
 been ‘side’ in the sense of ‘outer surface other than front or back’.
 
+<
 PMP *sidiŋ ‘border on, neighbour; peer, equal’ (ACD)
 POc (N, N LOC) *siriŋ ‘side, edge’
  NNG: Dami                 siri-         ‘side’
  NNG: Takia                siriŋe-       ‘side’
  Mic:    Marshallese       tur̡u-       ‘beside’
+>
+<
 PEOc (N, N LOC) *tapa- ‘side, outside’
  NCV: NE Ambae            tava(lu)-            ‘side’
  NCV: Tamambo             tava(lu)             ‘side part of s.t.’
@@ -12309,6 +12393,7 @@ PEOc (N, N LOC) *tapa- ‘side, outside’
  Pn:     K’marangi        taha                 ‘outside, shore’
  Pn:     Rennellese       taha                 ‘outside, beside, near, edge, side’
  Pn:     Tuamotuan        taha                 ‘side, margin, edge, border’
+>
 
 
 8.2.3.5 ‘Outside’
@@ -12319,8 +12404,6 @@ parts of an object. The inside of a house is readily conceived as a part of it (
 but the English term ‘outside’ only denotes a part insofar as it refers to the external
 surfaces of the building. As noted at various points in §2.3, terms which denote (among
 
-
-[15] The PMP etymon is discussed at length by Blust (1980a) and in the ACD.
 256     Malcolm Ross
 
 other things) particular external surfaces are also used metonymically to denote the
@@ -12328,7 +12411,7 @@ external surface or ‘outside’ of an object in general. This is true of some 
 *papo[-] ‘upper surface, top’ (p.252), of POc *muri[-] ‘back part, rear’ (p.261) and of
 PEOc *tapa- ‘side, outside’ (above).
 
-    The terms in the set below could tempt us to reconstruct POc *luku- ‘side, outside’.16
+    The terms in the set below could tempt us to reconstruct POc *luku- ‘side, outside’.[16]
 However, their uneven distribution is suspicious, and it seems far more likely that they
 reflect PMP *likuD, POc *liku(r) ‘(person’s) back’ (Blust 1981). The meaning of scattered
 reflexes of this word has extended to include the backs and rear parts of inanimate objects
@@ -12346,9 +12429,12 @@ interpretation.
   Mic:     Woleaian         rixi           ‘outside, back of s.t.’
   Fij:     Wayan            liku           (N LOC) ‘back side of the island’
 
+[16] This putative item resembles POc *ruku- ‘underneath’, but this is probably fortuitous.
+
 
 8.2.3.6 ‘Front, time before’
 
+<
    According to Blust (1997), the PMP relational noun for ‘front’ was *qadəp ‘front’,
 which was also used of the human face. Although reflexes of this term have been replaced
 by body-part terms (see below) in a majority of Oceanic languages, enough reflexes
@@ -12369,17 +12455,16 @@ POc (N) *qaro-, *qarop ‘face’, (N LOC) ‘front’
  Pn:     Maori            aro            ‘front of body, pubic area of females’
 
 
-
-[16] This putative item resembles POc *ruku- ‘underneath’, but this is probably fortuitous.
-                               Talking about space: terms of location and direction    257
-
-
     None of the items above reflects final POc *-p, but we can be certain that the form
 *qarop occurred, as a reflex is preserved in PPn *ʔarofiwaʔe ‘sole of foot’ (e.g. Tongan
 ʔaofi vaʔe, East Futunan ʔalofi-vaʔe, Samoan alofivae), reflecting POc *qarop qi qaqe,
 literally ‘front of foot’ (where *qi is the non-specific possessive preposition (Ross 1998b,
 2001b)).
+>
 
+                               Talking about space: terms of location and direction    257
+
+<
     Another generic POc term for ‘front’ (but probably not ‘face’) was *muqa[-], which—
 its reflexes suggest—occurred more often as a zero-valency than a monovalent noun. As a
 zero-valency local noun it occurred in the prepositional phrase *i muqa ‘in front,
@@ -12400,9 +12485,9 @@ POc (N LOC)*muqa[-] ‘front’, *muqa ‘front, be in front’, *i muqa, *qa-mu
  MM: Nalik                  (pa)mua      ‘in front’
  MM: Notsi                  (la)mua      ‘front’
  MM: Tabar                  mu-mua       ‘formerly’
-                            moa          ‘front’
+ MM: Tabar                  moa          ‘front’
  MM: Lihir                  (i)muo       ‘formerly’
-                            muo          ‘in front’
+ MM: Lihir                  muo          ‘in front’
  MM: Solos                  ma-mua       ‘in front’
  MM: Halia (Selau)          (to)mua-na   ‘old’
  MM: Taiof                  (i)mua-n     ‘formerly’
@@ -12426,15 +12511,15 @@ POc (N LOC)*muqa[-] ‘front’, *muqa ‘front, be in front’, *i muqa, *qa-mu
  Mic:    Ponapean           mwowɛ-       ‘ahead of, in front of, before’
  Mic:    Chuukese             w   w
                             m -m a-      ‘in front of, more than’
- Fij:    Wayan              mua          ‘end-point or tip of a long object; head for
-                                           or set course for a place’
-258     Malcolm Ross
-
+ Fij:    Wayan              mua          ‘end-point or tip of a long object; head for or set course for a place’
  Fij:     Bauan               mua               ‘the first; tip, point, prow’
  Pn:      Tongan              muʔa              ‘front’
  Pn:      Niuafo’ou           muʔa              ‘front’
  Pn:      Rapanui             (ʔi) muʔa         ‘front’
  Pn:      Tahitian            (i) mua           ‘front’
+>
+258     Malcolm Ross
+
 
 In NCV languages we find reflexes of the adverb *qa-muqa ‘in front, formerly’: Mota
 (a)mwoa ‘before, first’, Raga (a)mua ‘before, at first, first, in front of’, NE Ambae (a)mue
@@ -12449,14 +12534,15 @@ muga-, reflecting *muga. Since reflexes of *muga are otherwise not monovalent, i
 reasonable to infer that this is a conflation whereby the noun muɣa- has been replaced by
 the verb-form muga.
 
+<
    Although *muqa and *muga are formally similar, a historical relationship between them
 is problematic: we would expect an alternation between POc *k and *g, but not between *q
-and *g.17
+and *g.[17]
 
 PWOc (?? N LOC, V) *muga ‘front; be in front; formerly’
  NNG: Bariai            muga              ‘front’
-                        muga(ŋa)          ‘forehead’
-                        muga(eai)         ‘formerly’ (-eai POSTP)
+ NNG: Bariai            muga(ŋa)          ‘forehead’
+ NNG: Bariai            muga(eai)         ‘formerly’ (-eai POSTP)
  NNG: Arop-Lokep        mugu              ‘first of all, formerly’
  NNG: Mangap            muᵑgu             ‘first of all, formerly, long ago’
  NNG: Gitua             muŋga             ‘precede, go ahead, future’
@@ -12466,7 +12552,7 @@ PWOc (?? N LOC, V) *muga ‘front; be in front; formerly’
  NNG: Gedaged           mug               ‘precede’
  NNG: Yabem             muŋ               ‘precede’
  NNG: Adzera            moŋʔ              ‘prior’
-                        moŋʔ(an)          ‘precede’
+ NNG: Adzera            moŋʔ(an)          ‘precede’
  PT:    Suau            -muga(i)          ‘precede’
  MM: Bali               muga-             ‘front’
  MM: Bola               muga              ‘frontside’
@@ -12480,6 +12566,7 @@ PWOc (?? N LOC, V) *muga ‘front; be in front; formerly’
    mukha ‘face’. The items are Isneg múkāt ‘face’, Ilokano mukat ‘eye mucus’, Tagalog mukhaʔ,
    Indonesian muka ‘face’, Balinese muə ‘face’. Sasak mua ‘face’ (Gonda 1973:104). I am grateful to
    Robert Blust for this information.
+>
                                Talking about space: terms of location and direction   259
 
 
@@ -12492,6 +12579,7 @@ been used for the front of an inanimate object, e.g. Nalik (MM) la maran a fal [
 PREP house] and Tolai (MM) ta ra mata-na pal [PREP ART eye-P:3SG house], both ‘in front
 of the house’.
 
+<
 PAn *maCa ‘eye’
 POc (N)*mata[-] ‘eye; face’, (N LOC) ‘front’
  NNG: Lusi              mata-            ‘eye; front’
@@ -12508,33 +12596,32 @@ POc (N)*mata[-] ‘eye; face’, (N LOC) ‘front’
  MM: Taiof              mata-            ‘eye; front’
  SES:   Gela            (i)mata          ‘in front of’
  SES: Sa’a              mā               ‘eye; front’
-                        (i)mā            ‘outside’
+ SES: Sa’a              (i)mā            ‘outside’
  NCal: Tinrin           (Öā)m a¿`a¿
                                w         ‘front’
  Mic:   Kosraean        mʌtʌ-            ‘eye; front’
- Fij:   Wayan           mata-            ‘face, front of head, face of object with
-                                           both front and back side’
-                        (i)mata          ‘in front’
+ Fij:   Wayan           mata-            ‘face, front of head, face of object with both front and back side’
+ Fij:   Wayan           (i)mata          ‘in front’
  Fij:   Bauan           mata-            ‘eye; face; front’
-                        (i)mata          ‘in front’
+ Fij:   Bauan           (i)mata          ‘in front’
  Pn:    Tongan          mata             ‘eye, face’
  Pn:    Samoan          mata             ‘eye, face’
  Pn:    Maori           mata             ‘eye, face’
+>
+<
 POc (N, N LOC)*nako[-] ‘face, front’
  Adm: Pak               nogo(gi)          ‘front, before, face’
  NNG: Gitua             nago              ‘face’
  NNG: Tami              nao               ‘front, face’
  NNG: Takia             nao-              ‘face’
-                        nao(-n na)        ‘in front of’ (N-P:3SG POSTPOSITION)
+ NNG: Takia             nao(-n na)        ‘in front of’ (N-P:3SG POSTPOSITION)
  PT:     Ubir           na(-na-i)         ‘in front of it, him’
-260    Malcolm Ross
-
  PT:      Tawala           nao-             ‘front/forward position’
-                           u nao-na         ‘in front’ (PREP N-P:3SG)
+ PT:      Tawala           u nao-na         ‘in front’ (PREP N-P:3SG)
  MM:      Lavongai         (ai)no           ‘formerly’
-                           no               ‘forehead; frontside ’
+ MM:      Lavongai         no               ‘forehead; frontside ’
  MM:      Tigak            (ai)no           ‘formerly’
-                           no               ‘forehead; frontside ’
+ MM:      Tigak            no               ‘forehead; frontside ’
  MM:      W. Kara          no               ‘forehead’
  MM:      Nalik            no               ‘forehead’
  SES:     Gela             naɣo             ‘front, before, face’
@@ -12549,6 +12636,8 @@ POc (N, N LOC)*nako[-] ‘face, front’
  NCV:     Tamambo          naho-            ‘face’
  NCV:     Paamese          nā-              ‘face, front’
  NCV:     Nguna            nako-            ‘front, before, face’
+>
+260    Malcolm Ross
 
 
 8.2.3.7 ‘Back, space behind, time after’
@@ -12582,17 +12671,16 @@ which also had both nominal and verbal uses.
 only two reflexes have been found. They are both in NNG languages: Gedaged uli ‘follow,
 pursue; come after, succeed; go to the rear’ and Kaulong e-uli-‘back’ (e- ART).
 
-PMP *ma-udehi ‘be last; be after or behind; be late, be later; future’ (ACD)18
-POc (N, N LOC)*muri[-] ‘be behind, be after; back part, rear, behind, space to the rear of,
- time after; (canoe) stern; space outside’, *i muri, *muri-muri ‘at the back, later’
+<
+PMP *ma-udehi ‘be last; be after or behind; be late, be later; future’ (ACD)[18]
+POc (N, N LOC)*muri[-] ‘be behind, be after; back part, rear, behind, space to the rear of, time after; (canoe) stern; space outside’, *i muri, *muri-muri ‘at the back, later’
  Adm: Wuvulu               muki               ‘(canoe) stern’
  Adm: Loniu                muʔu (tun)         ‘(canoe) stern’
  Adm: Drehet               (o)mu(ŋ)           ‘back’
  NNG: Kove                 muhi-              ‘s.o.’s back’
  NNG: Bariai               mur[-]             ‘s.o.’s back’
  NNG: Gitua                mur                ‘behind, afterwards’
- NNG: Gedaged              muli-              ‘behind, rear, back part, stern, rear, posterior,
-                                                 outside of s.t.’
+ NNG: Gedaged              muli-              ‘behind, rear, back part, stern, rear, posterior, outside of s.t.’
  NNG: Manam                muri               ‘behind’
  NNG: Yabem                (ŋa)mu(ŋa)         ‘back of s.t.’
                                m
@@ -12601,50 +12689,44 @@ POc (N, N LOC)*muri[-] ‘be behind, be after; back part, rear, behind, space to
  PT:      Iduna            muli(ne)           ‘back of s.t., behind’
  PT:      Dobu             muri-              ‘behind, afterwards’
  PT:      Gapapaiwa        muri               ‘follow’
-                           muri-              ‘back of s.t.; behind, afterwards’
+ PT:      Gapapaiwa        muri-              ‘back of s.t.; behind, afterwards’
  PT:      Tawala           muli-              ‘back of s.t.; behind, afterwards’
  PT:      Motu             muri-              ‘back of s.t.; space behind’
  MM: Bali                  muri               ‘back of s.t.’
  MM: Meramera              (ma)muli           ‘back of s.t.’
-                           (muli)muli         ‘later’
+ MM: Meramera              (muli)muli         ‘later’
  MM: Nakanai               (muli)muli         ‘later’
  MM: Lavongai              muŋ                ‘back of s.t.; s.o.’s back’
  MM: Tigak                 (ai)muk            ‘later’
-                           mugi-              ‘back of s.t.; s.o.’s back’
+ MM: Tigak                 mugi-              ‘back of s.t.; s.o.’s back’
  MM: Tabar                 muri-              ‘back of s.t.’
  MM: Ramoaaina             muru               ‘follow; behind, back; last’
-                           (na)mur            ‘later, afterwards’
-                           mur                ‘s.o.’s back’
- SES:     Gela             muri-              ‘behind, afterwards; back; outside of s.t.;
-                                                afterbirth; posterity’
+ MM: Ramoaaina             (na)mur            ‘later, afterwards’
+ MM: Ramoaaina             mur                ‘s.o.’s back’
+ SES:     Gela             muri-              ‘behind, afterwards; back; outside of s.t.; afterbirth; posterity’
  SES: Lengo                (i)muri(a)         ‘after’
- SES: Arosi                muri-              ‘follow; behind, back; outside of s.t.;
-                                                afterwards; left hand when facing an object’
+ SES: Arosi                muri-              ‘follow; behind, back; outside of s.t.; afterwards; left hand when facing an object’
  Mic:     Ponapean           w
                            m uri              ‘behind’
  Mic:     Woleaian           w
                            m iz̡i-            ‘behind, after, backside, rear’
-
-
-[18] Blust (ACD) does not provide a gloss for *ma-udehi. The gloss here is based on that for *udehi.
-262     Malcolm Ross
-
  Mic:     Mokilese        mweri-            ‘back of s.t.; s.o.’s back’
  Mic:     Puluwatese      mwir-             ‘back of s.t.; s.o.’s back’
  Fij:     Bauan           muri              ‘following, after’
-                          (e) muri          ‘behind, later’
-                          (ki) muri         ‘to the rear’
- Pn:      Tongan          mui               ‘space behind; rear; end, extremity, tip; back,
-                                              rear; later; young, immature, only partly
-                                              developed’
+ Fij:     Bauan           (e) muri          ‘behind, later’
+ Fij:     Bauan           (ki) muri         ‘to the rear’
+ Pn:      Tongan          mui               ‘space behind; rear; end, extremity, tip; back, rear; later; young, immature, only partly developed’
  Pn:      Samoan          muli              ‘come last, be last; young, new’
- Pn:      Rennellese      mugi              ‘follow, be or go behind or after; rear end,
-                                              esp. lower or western end’
- Pn:      Maori           muri              ‘rear, hind part; sequel, time to come; behind,
-                                              afterwards, backwards; youngest child’
- Pn:      Hawaiian        muli              ‘behind, afterwards; last, following behind;
-                                            younger, youngest; (canoe) stern’
+ Pn:      Rennellese      mugi              ‘follow, be or go behind or after; rear end, esp. lower or western end’
+ Pn:      Maori           muri              ‘rear, hind part; sequel, time to come; behind, afterwards, backwards; youngest child’
+ Pn:      Hawaiian        muli              ‘behind, afterwards; last, following behind; younger, youngest; (canoe) stern’
 
+
+[18] Blust (ACD) does not provide a gloss for *ma-udehi. The gloss here is based on that for *udehi.
+>
+262     Malcolm Ross
+
+<
    The reflexes below contain a Northwest Solomonic innovation whereby Proto
 Northwest Solomonic *mudi[-] is reconstructable (this would reflect POc *mudri) instead
 of expected **muri[-].
@@ -12654,14 +12736,16 @@ Proto Northwest Solomonic *mudi-‘back of s.t.; s.o.’s back’
  MM: Petats            muru             ‘s.o.’s back’
  MM: Halia (Haku) muru                  ‘back of s.t.; s.o.’s back’
  MM: Halia (Selau) muri-                ‘back of s.t’
-                       mur              ‘s.o.’s back’
+ MM: Halia (Selau)     mur              ‘s.o.’s back’
  MM: Banoni            muri             ‘behind’
  MM: Mono-Alu          (muri)muri       ‘later’
  MM: Vangunu           (tara)meji-na    ‘after’
  MM: Varisi            (tara)muzi-na    ‘after’
  MM: Nduke             mudi-            ‘back of s.t.; s.o.’s back’
  MM: Roviana           mudi-            ‘back of s.t.; s.o.’s back’
+>
 
+<
   The semantic and formal similarity of the reflexes of POc *burit below to those of POc
 *muri[-] above is evidently due to chance. In the 2003 version of this chapter, I attributed
 members of the set below to a putative PMP *pa-udehi, paradigmatically related to PMP
@@ -12669,26 +12753,27 @@ members of the set below to a putative PMP *pa-udehi, paradigmatically related t
 Bugotu buriti indicates that I was wrong.
 
 PMP *burit ‘hind part, rear, back’ (ACD)
-POc *burit ‘hind part, rear, back’, (N, N LOC) ‘back part, rear, behind, space to the rear of,
- time after; (canoe) stern’, (ADV) ‘behind, afterwards’
+POc *burit ‘hind part, rear, back’, (N, N LOC) ‘back part, rear, behind, space to the rear of, time after; (canoe) stern’, (ADV) ‘behind, afterwards’
                            m
  NNG: Kela                   buri(ya)        ‘back of s.t.’
  MM: Tinputz               puri              ‘behind’
  MM: Teop                  buri              ‘behind’
  SES: Lau                  buri              ‘back, stern’
  SES: Bugotu               buriti            ‘back’
-                               Talking about space: terms of location and direction     263
-
  SES:    Longgu          buri-             ‘behind; after’
  SES:    Lau             buri              ‘back; behind, after; stern, rear’
-                         buri(wela)        ‘after-birth’
-                         (i) buri          ‘afterwards’
+ SES:    Lau             buri(wela)        ‘after-birth’
+ SES:    Lau             (i) buri          ‘afterwards’
  SES:    Kwaio           buli-na           ‘after’
-                         buli              ‘after, behind’
+ SES:    Kwaio           buli              ‘after, behind’
  SES:    ’Are’are        puri-na           ‘after’
  SES:    Sa’a            (i) puri          ‘back of, behind; stern of a canoe’
-                         puri-na           ‘after, back, stern’
+ SES:    Sa’a            puri-na           ‘after, back, stern’
+>
+                               Talking about space: terms of location and direction     263
 
+
+<
    One body-part term occurs with fair frequency with the sense of ‘back part of, space
 behind’. This is POc *takuRu[-] ‘(s.o.’s) back’. The evidence that this was a body-part
 term in POc is clear. It may also have been used by extension as a POc relational local
@@ -12702,8 +12787,7 @@ POc (N, ? N LOC) *takuRu[-] ‘(s.o.’s) back’
  PT:      Dawawa        tauri               ‘back of s.t.; s.o.’s back’
  PT:      Motu          doru-               ‘back, behind’
  MM: Lavongai           toŋ                 ‘back of s.t.’
- MM: Nalik              toru-               (N LOC) ‘space behind’ (e.g. la toru-gu
-                                              [PREP N LOC-P:1SG] ‘behind me’)
+ MM: Nalik              toru-               (N LOC) ‘space behind’ (e.g. la toru-gu [PREP N LOC-P:1SG] ‘behind me’)
  MM: Minigir            tauru-              ‘(s.o.’s) back’
  MM: Bilur              taru-               ‘(s.o.’s) back’
  MM: Siar               taru-               ‘(s.o.’s) back’
@@ -12714,22 +12798,19 @@ POc (N, ? N LOC) *takuRu[-] ‘(s.o.’s) back’
                          h
  MM: Maringe            t agru-             ‘back of s.t.; s.o.’s back’
  NCV Mota               tawur, tawuru- ‘back of s.t.; s.o.’s back’
-                        (a)tawur            ‘behind’
+ NCV Mota               (a)tawur            ‘behind’
  NCV: NE Ambae          tagu-               (N LOC) ‘space behind’
  NCV: Raga              (a)taɣu-            (N LOC) ‘behind’
  NCV: Port Sandwich (a)rax                  (N LOC) ‘behind’
  NCV: Lonwolwol         tao-                ‘lower back (region around hips); behind’
  NCV: Lewo              ra-                 ‘back of s.t.; s.o.’s back’
-                        (va)rau             ‘behind’ (va ‘go’)
+ NCV: Lewo              (va)rau             ‘behind’ (va ‘go’)
  NCV: Nguna             (na)taku            ‘back; the far side, other side’
-                        (e)daku             (ADV) ‘at the back, behind; after’
+ NCV: Nguna             (e)daku             (ADV) ‘at the back, behind; after’
  SV:      Sye           (n)toc(-noki)       ‘back of skull’
-                        (n)tocu(-nta-)      ‘shoulder blade’
-264    Malcolm Ross
-
+ SV:      Sye           (n)tocu(-nta-)      ‘shoulder blade’
  SV:     Kwamera         taku-          ‘back’
- SV:     Anejom          (i)taɣ         (ADV) ‘behind’ (e.g. itaɣ a niomw
-                                          [ADV PREP N] ‘behind the house’)
+ SV:     Anejom          (i)taɣ         (ADV) ‘behind’ (e.g. itaɣ a niomw [ADV PREP N] ‘behind the house’)
  NCal: Nyelâyu           dū-            ‘(s.o.’s) back; behind’
  NCal: Tinrin            Þoo-           ‘(s.o.’s) back’
  Mic:     Kiribati       akū-           ‘back; behind’
@@ -12742,6 +12823,8 @@ POc (N, ? N LOC) *takuRu[-] ‘(s.o.’s) back’
  cf. also
  SES:     ’Are’are       kokoru-        ‘(s.o.’s) back’
  SES: Sa’a               kokolu-        ‘(s.o.’s) back’
+>
+264    Malcolm Ross
 
 
 8.2.4 The interrogative local noun ‘where?’

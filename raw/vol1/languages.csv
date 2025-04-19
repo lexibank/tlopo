@@ -59,6 +59,7 @@ uma,Uma,WMP,,,umaa1242,umaa1242,-1.70416,119.968
 yapese,Yapese,Yap,,,,yape1248,9.55811,138.125
 emira,Emira,Adm,Admiralties [Adm] | St Matthias,,,emir1237,-1.44,149.62
 mussau,Mussau,Adm,Admiralties [Adm] | St Matthias,,,muss1248,-1.44,149.62
+tench,Tench,Adm,Admiralties [Adm] | St Matthias,,,teni1244,-1.65,150.67
 aua,Aua,Adm,Admiralties [Adm] | Admiralties proper | Western Admiralties,,,auaa1241,-1.74,142.85
 seimat,Seimat,Adm,Admiralties [Adm] | Admiralties proper | Western Admiralties,Ninigo,= Ninigo,seim1238,-1.2666667,144.25
 wuvulu,Wuvulu,Adm,Admiralties [Adm] | Admiralties proper | Western Admiralties,,,wuvu1240,-1.74,142.85
@@ -96,10 +97,14 @@ tumleo,Tumleo,NNG,Western Oceanic | North New Guinea [NNG] | Schouten | Siau,,,t
 ulausuain,Ulau-Suain,NNG,Western Oceanic | North New Guinea [NNG] | Schouten | Siau,,,ulau1237,-3.32876,142.845
 yabem,Yabem,NNG,Western Oceanic | North New Guinea [NNG] | Huon Gulf | North Huon Gulf,,,yabe1254,-6.67052,147.81
 adzera,Adzera,NNG,Western Oceanic | North New Guinea [NNG] | Huon Gulf | Markham,,,adze1240,-6.39394,146.29399999999998
+dangal,Dangal,NNG,Western Oceanic | North New Guinea [NNG] | Huon Gulf | Markham,,,dang1263,-7.04,146.41
 labu,Labu,NNG,Western Oceanic | North New Guinea [NNG] | Huon Gulf | Markham,,,labu1248,-6.75,146.903
 hote,Hote,NNG,Western Oceanic | North New Guinea [NNG] | Huon Gulf | South Huon Gulf,,,hote1245,-7.07708,146.869
+misim,Hote (Misim),NNG,Western Oceanic | North New Guinea [NNG] | Huon Gulf | South Huon Gulf,,Misim dialect of Hote,misi1244,-7.07708,146.869
 kaiwa,Kaiwa,NNG,Western Oceanic | North New Guinea [NNG] | Huon Gulf | South Huon Gulf,,,iwal1237,-7.20938,146.983
 maposbuang,Mapos Buang,NNG,Western Oceanic | North New Guinea [NNG] | Huon Gulf | South Huon Gulf,,,mapo1242,-6.86672,146.77399999999997
+mangga,Mangga,NNG,Western Oceanic | North New Guinea [NNG] | Huon Gulf | South Huon Gulf,,Dialect of Buang,mang1404,-7.00,146.69
+buang,Buang,NNG,Western Oceanic | North New Guinea [NNG] | Huon Gulf | South Huon Gulf,,,mapo1247,-6.932815,146.7295
 numbami,Numbami,NNG,Western Oceanic | North New Guinea [NNG] | Huon Gulf | South Huon Gulf,,,numb1247,-7.52806,147.298
 patep,Patep,NNG,Western Oceanic | North New Guinea [NNG] | Huon Gulf | South Huon Gulf,,,pate1247,-6.92,146.64
 vehes,Vehes,NNG,Western Oceanic | North New Guinea [NNG] | Huon Gulf | South Huon Gulf,,,vehe1237,-6.92151,146.895
@@ -112,7 +117,7 @@ mandok,Mandok,NNG,Western Oceanic | North New Guinea [NNG] | Ngero/Vitiaz | Nger
 mutu,Mutu,NNG,Western Oceanic | North New Guinea [NNG] | Ngero/Vitiaz | Ngero,,,mutu1242,-5.79405,148.01399999999998
 tuam,Tuam,NNG,Western Oceanic | North New Guinea [NNG] | Ngero/Vitiaz | Ngero,,,tuam1243,-6.02,147.49
 bilibil,Bilibil,NNG,Western Oceanic | North New Guinea [NNG] | Ngero/Vitiaz | Bel,Bilbil,= Bilbil,bilb1241,-5.26505,145.76399999999998
-bing,Bing,NNG,Western Oceanic | North New Guinea [NNG] | Ngero/Vitiaz | Bel,,,awad1244,-5.60,146.35
+bing,Bing,NNG,Western Oceanic | North New Guinea [NNG] | Ngero/Vitiaz | Bel,Awad Bing,,awad1244,-5.60,146.35
 dami,Dami,NNG,Western Oceanic | North New Guinea [NNG] | Ngero/Vitiaz | Bel,,,mari1428,-5.349,145.59
 gedaged,Gedaged,NNG,Western Oceanic | North New Guinea [NNG] | Ngero/Vitiaz | Bel,,,geda1237,-5.18175,145.781
 megiar,Megiar,NNG,Western Oceanic | North New Guinea [NNG] | Ngero/Vitiaz | Bel,,,megi1245,-4.69057,145.975
@@ -138,6 +143,7 @@ bebeli,Bebeli,NNG,Western Oceanic | North New Guinea [NNG] | Ngero/Vitiaz | Sout
 mangseng,Mangseng,NNG,Western Oceanic | North New Guinea [NNG] | Ngero/Vitiaz | Southwest New Britain,,,mang1403,-5.89752,150.68
 rauto,Rauto,NNG,Western Oceanic | North New Guinea [NNG] | Ngero/Vitiaz | Southwest New Britain,,,puli1237,-5.87071,149.321
 sengseng,Sengseng,NNG,Western Oceanic | North New Guinea [NNG] | Ngero/Vitiaz | Southwest New Britain,,,seng1281,-6.16474,149.784
+lamogai,Lamogai,NNG,Western Oceanic | North New Guinea [NNG] | Ngero/Vitiaz | Southwest New Britain,,,lamo1244,-5.87,149.32
 poeng,Poeng,NNG,Western Oceanic | North New Guinea [NNG] | Ngero/Vitiaz | Mengen family,,,sout2876,-5.47036,151.373
 uvol,Uvol,NNG,Western Oceanic | North New Guinea [NNG] | Ngero/Vitiaz | Mengen family,,,lote1237,-5.954,150.911
 suau,Suau,PT,Western Oceanic | Papuan Tip [PT] | Nuclear Papuan Tip | Suauic,,,suau1242,-10.6606,150.20999999999998
@@ -179,6 +185,7 @@ sinaugoro,Sinaugoro,PT,Western Oceanic | Papuan Tip [PT] | Central Papuan,,,sina
 taboro,Taboro,PT,Western Oceanic | Papuan Tip [PT] | Central Papuan,,= dialect of Sinaugoro,tabo1240,-9.79791,147.861
 bali,Bali,MM,Western Oceanic | Meso-Melanesian [MM] | Bali- Vitu,,,unea1237,-4.89383,149.141
 vitu,Vitu,MM,Western Oceanic | Meso-Melanesian [MM] | Bali- Vitu,,,mudu1242,-4.69751,149.489
+balivitu,Bali-Vitu,MM,Western Oceanic | Meso-Melanesian [MM] | Bali- Vitu,,,bali1280,-4.879164320999905,149.18043053500003
 bola,Bola,MM,Western Oceanic | Meso-Melanesian [MM] | Willaumez,,,bola1250,-5.55792,150.095
 bolaharua,Bola (Harua),MM,Western Oceanic | Meso-Melanesian [MM] | Willaumez,,= dilect of Bola,haru1243,-5.55792,150.095
 bulu,Bulu,MM,Western Oceanic | Meso-Melanesian [MM] | Willaumez,,,bulu1255,27.4488607,92.4299111
@@ -226,6 +233,7 @@ varisi,Varisi,MM,Western Oceanic | Meso-Melanesian [MM] | New Ireland/Northwest 
 hoava,Hoava,MM,Western Oceanic | Meso-Melanesian [MM] | New Ireland/Northwest Solomonic | St George linkage | Northwest Solomonic linkage | New Georgia,,,hoav1238,-8.19679,157.595
 nduke,Nduke,MM,Western Oceanic | Meso-Melanesian [MM] | New Ireland/Northwest Solomonic | St George linkage | Northwest Solomonic linkage | New Georgia,,,duke1237,-7.97768,157.064
 roviana,Roviana,MM,Western Oceanic | Meso-Melanesian [MM] | New Ireland/Northwest Solomonic | St George linkage | Northwest Solomonic linkage | New Georgia,,,rovi1238,-8.20493,157.40800000000002
+marovo,Marovo,MM,Western Oceanic | Meso-Melanesian [MM] | New Ireland/Northwest Solomonic | St George linkage | Northwest Solomonic linkage | New Georgia,,,maro1244,-8.38,157.75
 simbo,Simbo,MM,Western Oceanic | Meso-Melanesian [MM] | New Ireland/Northwest Solomonic | St George linkage | Northwest Solomonic linkage | New Georgia,,,simb1256,-8.26947,156.541
 ngl,"New Georgia language (unspecified) (Haddon 1937: 104, 106)",MM,Western Oceanic | Meso-Melanesian [MM] | New Ireland/Northwest Solomonic | St George linkage | Northwest Solomonic linkage | New Georgia,,,,,
 kia,Kia,MM,Western Oceanic | Meso-Melanesian [MM] | New Ireland/Northwest Solomonic | St George linkage | Northwest Solomonic linkage | Ysabel,,,kiaa1241,-6.2249,144.8505
@@ -240,7 +248,7 @@ talise,Talise,SES,Eastern Oceanic | Southeast Solomonic [SES] | Bugotu/Gela/Guad
 tolo,Tolo,SES,Eastern Oceanic | Southeast Solomonic [SES] | Bugotu/Gela/Guadalcanal | Gela/Guadalcanal,,,tolo1254,-9.76764,160.231
 westguadalcanal,West Guadalcanal,SES,Eastern Oceanic | Southeast Solomonic [SES] | Bugotu/Gela/Guadalcanal | Gela/Guadalcanal,W. Guad.,,ghar1239,-9.4791,159.917
 longgu,Longgu,SES,Eastern Oceanic | Southeast Solomonic [SES] | Bugotu/Gela/Guadalcanal | Longgu/Malaita/Makira,,,long1395,-9.75258,160.66299999999998
-areare,'Are'are,SES,Eastern Oceanic | Southeast Solomonic [SES] | Bugotu/Gela/Guadalcanal | Longgu/Malaita/Makira | Malaita/Makira,,,area1240,-9.20699,161.15800000000002
+areare,'Are'are,SES,Eastern Oceanic | Southeast Solomonic [SES] | Bugotu/Gela/Guadalcanal | Longgu/Malaita/Makira | Malaita/Makira,’Are’are,,area1240,-9.20699,161.15800000000002
 arosi,Arosi,SES,Eastern Oceanic | Southeast Solomonic [SES] | Bugotu/Gela/Guadalcanal | Longgu/Malaita/Makira | Malaita/Makira,E. Arosi,,aros1241,-10.2441,161.43200000000002
 baegu,Baegu,SES,Eastern Oceanic | Southeast Solomonic [SES] | Bugotu/Gela/Guadalcanal | Longgu/Malaita/Makira | Malaita/Makira,,,baeg1237,-8.49014,160.771
 bauro,Bauro,SES,Eastern Oceanic | Southeast Solomonic [SES] | Bugotu/Gela/Guadalcanal | Longgu/Malaita/Makira | Malaita/Makira,,,baur1252,-10.5826,161.863
@@ -248,9 +256,10 @@ fagani,Fagani,SES,Eastern Oceanic | Southeast Solomonic [SES] | Bugotu/Gela/Guad
 kwai,Kwai,SES,Eastern Oceanic | Southeast Solomonic [SES] | Bugotu/Gela/Guadalcanal | Longgu/Malaita/Makira | Malaita/Makira,,,gula1270,-8.74742,161.023
 kwaio,Kwaio,SES,Eastern Oceanic | Southeast Solomonic [SES] | Bugotu/Gela/Guadalcanal | Longgu/Malaita/Makira | Malaita/Makira,,,kwai1243,-8.93744,160.965
 lau,Lau,SES,Eastern Oceanic | Southeast Solomonic [SES] | Bugotu/Gela/Guadalcanal | Longgu/Malaita/Makira | Malaita/Makira,,,lauu1247,-8.51018,160.872
-saa,Sa'a,SES,Eastern Oceanic | Southeast Solomonic [SES] | Bugotu/Gela/Guadalcanal | Longgu/Malaita/Makira | Malaita/Makira,,,saaa1240,-9.60258,161.467
+saa,Sa'a,SES,Eastern Oceanic | Southeast Solomonic [SES] | Bugotu/Gela/Guadalcanal | Longgu/Malaita/Makira | Malaita/Makira,Sa’a,,saaa1240,-9.60258,161.467
 toabaita,To'aba'ita,SES,Eastern Oceanic | Southeast Solomonic [SES] | Bugotu/Gela/Guadalcanal | Longgu/Malaita/Makira | Malaita/Makira,,,toab1237,-8.39233,160.61899999999997
 ulawa,Ulawa,SES,Eastern Oceanic | Southeast Solomonic [SES] | Bugotu/Gela/Guadalcanal | Longgu/Malaita/Makira | Malaita/Makira,,,ulaw1237,-9.60258,161.467
+nmalaitan,N Malaitan,SES,Eastern Oceanic | Southeast Solomonic [SES] | Bugotu/Gela/Guadalcanal | Longgu/Malaita/Makira | Malaita/Makira,,,nort3284,-8.485078200216126,160.77390093045975
 ambae,Ambae,NCV,"Eastern Oceanic | North/Central Vanuatu [NCV] (groupings are areal, based on Clark 1994) | Banks & Torres, Maewo, Ambae, North Pentecost",Aoba; N. E. Aoba,= N. E. Aoba,east2443,-15.35,167.89
 hiw,Hiw,NCV,"Eastern Oceanic | North/Central Vanuatu [NCV] (groupings are areal, based on Clark 1994) | Banks & Torres, Maewo, Ambae, North Pentecost",,,hiww1237,-13.126367,166.584857
 mota,Mota,NCV,"Eastern Oceanic | North/Central Vanuatu [NCV] (groupings are areal, based on Clark 1994) | Banks & Torres, Maewo, Ambae, North Pentecost",,,mota1237,-13.835361,167.690924
@@ -271,7 +280,7 @@ uripiv,Uripiv,NCV,"Eastern Oceanic | North/Central Vanuatu [NCV] (groupings are 
 lewo,Lewo,NCV,"Eastern Oceanic | North/Central Vanuatu [NCV] (groupings are areal, based on Clark 1994) | South Pentecost, Ambrym, Paama, Epi",,,lewo1242,-16.7612,168.334
 lonwolwol,Lonwolwol,NCV,"Eastern Oceanic | North/Central Vanuatu [NCV] (groupings are areal, based on Clark 1994) | South Pentecost, Ambrym, Paama, Epi",,,lonw1238,-16.2286,168.016
 paamese,Paamese,NCV,"Eastern Oceanic | North/Central Vanuatu [NCV] (groupings are areal, based on Clark 1994) | South Pentecost, Ambrym, Paama, Epi",,,paam1238,-16.47548,168.23693
-seambrym,S.E. Ambrym,NCV,"Eastern Oceanic | North/Central Vanuatu [NCV] (groupings are areal, based on Clark 1994) | South Pentecost, Ambrym, Paama, Epi",,,sout2859,-16.2975,168.21099999999998
+seambrym,S.E. Ambrym,NCV,"Eastern Oceanic | North/Central Vanuatu [NCV] (groupings are areal, based on Clark 1994) | South Pentecost, Ambrym, Paama, Epi",SE Ambrym,,sout2859,-16.2975,168.21099999999998
 namakir,Namakir,NCV,"Eastern Oceanic | North/Central Vanuatu [NCV] (groupings are areal, based on Clark 1994) | Efate-Shepherds",Namakura,= Namakura,nama1268,-16.8979,168.569
 nguna,Nguna,NCV,"Eastern Oceanic | North/Central Vanuatu [NCV] (groupings are areal, based on Clark 1994) | Efate-Shepherds",,,ngun1274,-17.5774,168.375
 southefate,South Efate,NCV,"Eastern Oceanic | North/Central Vanuatu [NCV] (groupings are areal, based on Clark 1994) | Efate-Shepherds",,,sout2856,-17.70,168.38
@@ -288,7 +297,9 @@ pwapwa,Pwapwa,NCal,Eastern Oceanic | New Caledonia [NCal] | New Caledonia proper
 nemi,Nemi,NCal,Eastern Oceanic | New Caledonia [NCal] | New Caledonia proper,,,nemi1240,-20.6791,164.797
 nyelayu,Nyelâyu,NCal,Eastern Oceanic | New Caledonia [NCal] | New Caledonia proper,,,nyal1254,-19.72,163.66
 xaracuu,Xârâcùù,NCal,Eastern Oceanic | New Caledonia [NCal] | New Caledonia proper,,,xara1244,-21.7034,165.996
+nelemwa,Nêlêmwa,NCal,Eastern Oceanic | New Caledonia [NCal] | New Caledonia proper,,,kuma1276,-20.40, 164.19
 dehu,Dehu,NCal,Eastern Oceanic | New Caledonia [NCal] | Loyalties,,,dehu1237,-20.8892,167.22899999999998
+iaai,Iaai,NCal,Eastern Oceanic | New Caledonia [NCal] | Loyalties,,,iaai1238,-20.63,166.59
 nengone,Nengone,NCal,Eastern Oceanic | New Caledonia [NCal] | Loyalties,,,neng1238,-21.5305,167.964
 carolinian,Carolinian,Mic,Eastern Oceanic | Nuclear Micronesian [Mic],,,caro1242,15.205,145.765
 kiribatese,Kiribatese,Mic,Eastern Oceanic | Nuclear Micronesian [Mic],Gilbertese; Kiribati,"= Kiribati, Gilbertese",gilb1244,0.179,173.64
@@ -311,8 +322,9 @@ boumaa,Boumaa,Fij,Eastern Oceanic | Central Pacific [Fij and Pn] | Eastern Fijia
 niuean,Niuean,Pn,Eastern Oceanic | Central Pacific [Fij and Pn] | Polynesian (subgrouping based on Marck forthcoming) | Tongic,,,niue1239,-19.06,-169.86
 tongan,Tongan,Pn,Eastern Oceanic | Central Pacific [Fij and Pn] | Polynesian (subgrouping based on Marck forthcoming) | Tongic,,,tong1325,-21.17,-175.25
 anutan,Anutan,Pn,Eastern Oceanic | Central Pacific [Fij and Pn] | Polynesian (subgrouping based on Marck forthcoming) | Nuclear Polynesian,,,anut1237,-11.61,169.85000000000002
-eastuvean,East Uvean,Pn,Eastern Oceanic | Central Pacific [Fij and Pn] | Polynesian (subgrouping based on Marck forthcoming) | Nuclear Polynesian,E. Uvean,,wall1257,-13.29,-176.21
-eastfutunan,East Futunan,Pn,Eastern Oceanic | Central Pacific [Fij and Pn] | Polynesian (subgrouping based on Marck forthcoming) | Nuclear Polynesian,E. Futunan,,east2447,-14.28,-178.14
+eastuvean,East Uvean,Pn,Eastern Oceanic | Central Pacific [Fij and Pn] | Polynesian (subgrouping based on Marck forthcoming) | Nuclear Polynesian,E. Uvean; E Uvean,,wall1257,-13.29,-176.21
+niuatoputapu,Niuatoputapu,Pn,Eastern Oceanic | Central Pacific [Fij and Pn] | Polynesian (subgrouping based on Marck forthcoming) | Nuclear Polynesian,,,niua1241,-15.96,-173.78
+eastfutunan,East Futunan,Pn,Eastern Oceanic | Central Pacific [Fij and Pn] | Polynesian (subgrouping based on Marck forthcoming) | Nuclear Polynesian,E. Futunan; E Futunan,,east2447,-14.28,-178.14
 pukapukan,Pukapukan,Pn,Eastern Oceanic | Central Pacific [Fij and Pn] | Polynesian (subgrouping based on Marck forthcoming) | Nuclear Polynesian,,,puka1242,-10.91,-165.83
 rennellese,Rennellese,Pn,Eastern Oceanic | Central Pacific [Fij and Pn] | Polynesian (subgrouping based on Marck forthcoming) | Nuclear Polynesian,,,renn1242,-11.6237,160.265
 tikopia,Tikopia,Pn,Eastern Oceanic | Central Pacific [Fij and Pn] | Polynesian (subgrouping based on Marck forthcoming) | Nuclear Polynesian,,,tiko1237,-12.2766,168.82200000000003
@@ -321,7 +333,7 @@ westfutunan,West Futunan,Pn,Eastern Oceanic | Central Pacific [Fij and Pn] | Pol
 ifiramele,Ifira-Mele,Pn,Eastern Oceanic | Central Pacific [Fij and Pn] | Polynesian (subgrouping based on Marck forthcoming) | Nuclear Polynesian,Mele-Fila,= Mele-Fila,mele1250,-17.6841,168.27499999999998
 emae,Emae,Pn,Eastern Oceanic | Central Pacific [Fij and Pn] | Polynesian (subgrouping based on Marck forthcoming) | Nuclear Polynesian,,,emae1237,-17.052,168.399
 samoan,Samoan,Pn,Eastern Oceanic | Central Pacific [Fij and Pn] | Polynesian (subgrouping based on Marck forthcoming) | Nuclear Polynesian | Samoan/Ellicean/Eastern Polynesian,,,samo1305,-13.92,-171.83
-kapingamarangi,Kapingamarangi,Pn,Eastern Oceanic | Central Pacific [Fij and Pn] | Polynesian (subgrouping based on Marck forthcoming) | Nuclear Polynesian | Samoan/Ellicean/Eastern Polynesian | Ellicean/Eastern Polynesian | Ellicean,,,kapi1249,1.039166,154.797223
+kapingamarangi,Kapingamarangi,Pn,Eastern Oceanic | Central Pacific [Fij and Pn] | Polynesian (subgrouping based on Marck forthcoming) | Nuclear Polynesian | Samoan/Ellicean/Eastern Polynesian | Ellicean/Eastern Polynesian | Ellicean,K’marangi,,kapi1249,1.039166,154.797223
 luangiua,Luangiua,Pn,Eastern Oceanic | Central Pacific [Fij and Pn] | Polynesian (subgrouping based on Marck forthcoming) | Nuclear Polynesian | Samoan/Ellicean/Eastern Polynesian | Ellicean/Eastern Polynesian | Ellicean,,,onto1237,-5.49029,159.701
 nanumean,Nanumean,Pn,Eastern Oceanic | Central Pacific [Fij and Pn] | Polynesian (subgrouping based on Marck forthcoming) | Nuclear Polynesian | Samoan/Ellicean/Eastern Polynesian | Ellicean/Eastern Polynesian | Ellicean,,dialect of Tuvalu,tuva1244,-5.665278,176.1125
 nukuoro,Nukuoro,Pn,Eastern Oceanic | Central Pacific [Fij and Pn] | Polynesian (subgrouping based on Marck forthcoming) | Nuclear Polynesian | Samoan/Ellicean/Eastern Polynesian | Ellicean/Eastern Polynesian | Ellicean,,,nuku1260,3.84,154.975
