@@ -50,6 +50,7 @@ PROTO = [
     "PEOc",  # NCal
       "Proto Southeast Solomonic",  # FIXME: identify with PSS
       "PSS", # SES
+      "PMic",  # Proto Micronesian Mic
       "Proto Remote Oceanic", # NCV, SV, Mic
         "PCP",  # Proto Central Pacific, Fij
           "PPn",  # PN
@@ -69,6 +70,10 @@ proto_pattern = re.compile(r'(\((?P<relno>[0-9])\)\s*)?'
                            r'(?P<fn>\[[0-9]+]\s+)?'
                            r'(?P<pfdoubt>\?)?\*'.format('|'.join(re.escape(g) for g in PROTO)))
 PHONEMES = "w p b m i e t d s n r dr l a c j y u o k g q R ŋ ñ pʷ bʷ mʷ"
+pos_pattern = re.compile(r'\s*\((?P<pos>v|V|VT|VI|vI|N|ADJ|ADV|VT,\s*VI|N, V|N, v|PASS)\)\s*')
+
+fn_pattern = re.compile(r'\[(?P<fn>[0-9]+)]')  # [2]
+gloss_number_pattern = re.compile(r'\s*\(\s*(?P<qualifier>i|1|present meaning|E. dialect)\s*\)\s*')  # ( 1 )
 
 
 def iter_phoenemes(s):
@@ -96,6 +101,12 @@ def parse_protoform(f, pl):
     x-        x takes an enclitic or a suffix
     <x>       x is an infix
     """
+    if f.startswith('|') and f.endswith('|'):
+        # multi-word protoform
+        for word in f[1:-1].split():
+            parse_protoform(word, pl)
+        return
+
     if '((' in f:
         assert '))' in f
         f = f.replace('))', ')')
@@ -113,15 +124,16 @@ def parse_protoform(f, pl):
         phonemes.extend(['C'])
     if pl in ['PCP']:
         phonemes.extend(['v', 'ā'])
-    if pl in ['PPn']:
+    if pl in ['PPn', 'PMic']:
         phonemes.extend(['f'])
     if pl in ['PNGOc']:
         phonemes.extend(['kʷ'])
+    if pl in ['PPn']:
+        phonemes.extend(['ʔ'])
     # Tahitian, Arosi: "ʔ"
     # Bauan: "ð"
     # Raga: "ᵑg"
     form = ''
-
 
     chunks = f.split(', ')
     for c in iter_phoenemes(chunks[0]):
@@ -147,12 +159,13 @@ def parse_protoform(f, pl):
         elif c in phonemes:
             pass
         else:
-            raise ValueError(c, f)
+            raise ValueError(c, f, pl)
         form += c
 
     if form != f:
         if f[len(form) + 1:].strip()[0] not in '(*?[ʔ':
-            assert ' or ' in f or '(kuron)' in f, f
+            # FIXME: handle multi-word protoforms
+            assert ' or ' in f or '(kuron)' in f or ' ni panua' in f or 'mata ' in f or 'patu ' in f or '(fatu)' in f, f
             #print("{}\t{}".format(form, f[len(form) + 1:]))
 
     for chunk in chunks[1:]:
@@ -193,7 +206,7 @@ def iter_etyma(lines):
         m = pageno_right_pattern.fullmatch(line)
         if m:
             pageno = int(m.group('no'))
-            assert not in_etymon
+            assert not in_etymon, line
             dropempty = True
             continue
         if not line:
@@ -206,7 +219,7 @@ def iter_etyma(lines):
             continue
 
         if line == '<':
-            assert not in_etymon
+            assert not in_etymon, i
             in_etymon = True
             paras, para = [], []
             continue
@@ -238,28 +251,23 @@ def iter_etyma(lines):
 
 
 def iter_reflexes(lines):
-    witness = ''
+    cf = False
     for line in lines:
         m = witness_pattern.match(line)
         if m:
-            if witness:
-                yield witness
-            witness = line
+            yield line, cf, False
             continue
         m = proto_pattern.match(line)
         if m:
-            pass  # yield a Reconstruction (without witnesses, because these can be inferred from the tree!)
-            #
-            # FIXME: allow for interspersed, intermediate reconstructions.
-            #
-        elif line.strip().startswith("cf. also"):
-            # FIXME: cf sets!
+            yield line, cf, True
             continue
-        else:
-            if line.strip() and line.startswith('     '):
-                raise ValueError(line)
-            #witness += line
-    yield witness
+        if line.strip().startswith("cf. also"):
+            line = line.strip().replace("cf. also", "").replace(':', '').strip()
+            if line:
+                cfcomment = line
+            cf = True
+            continue
+        assert False, line
 
 
 def iter_protoforms(lines):
@@ -281,3 +289,159 @@ def iter_protoforms(lines):
         nlines += 1
     if protoform:
         yield protoform, nlines
+
+
+def get_comment(s):
+    # Find ( on matching level:
+    if s.endswith(')'):
+        cmt, level = [], 1
+        assert '(' in s, s
+        for i, c in enumerate(reversed(s[:-1])):
+            if c == ')':
+                level += 1
+            elif c == '(':
+                level -= 1
+                if level == 0:
+                    break
+            cmt.append(c)
+        else:
+            raise ValueError(s)
+
+        return ''.join(reversed(cmt)).strip(), s[:-i-2].strip()
+    return None, s
+
+
+def glosses_and_note(s, quotes="''"):
+        glosses = []
+        s = s.replace("n{}s".format(quotes[1]), "n__s")
+        rem = s
+        while quotes[1] in rem:
+            gloss, _, rem = rem.partition(quotes[1])
+            assert gloss.strip()
+            glosses.append(gloss.strip())
+            rem = rem.strip()
+            if rem.startswith(","):
+                rem = rem[1:].strip()
+            if rem.startswith(quotes[0]):
+                assert quotes[1] in rem[1:], s
+                rem = rem[1:].strip()
+            #
+            # FIXME: parse nested protoforms ...
+            #
+            #elif proto_pattern.match(rem):
+            #    # POc *bayat 'fence, boundary marker', POc *bayat-i 'make a garden boundary'
+            #    #
+            #    # FIXME: handle three reconstructions!
+            #    #
+            #    rec = Reconstruction.from_data(protoform=rem)
+            #    glosses.extend(rec.glosses)
+            #    break
+            else:
+                break
+        return glosses, rem.strip()
+
+
+def iter_bracketed_and_gloss(s, quotes):
+    i = 0
+    while s:
+        assert s.startswith('('), s
+        br, _, rem = s[1:].partition(')')
+        w, _, rem = rem.partition(quotes[0])
+        assert not w.strip()
+        gl, _, rem = rem.partition(quotes[1])
+        yield br.strip(), gl.strip()
+        s = rem.strip().lstrip(';').strip()
+        i += 1
+        if i > 10:
+            raise ValueError(s)
+
+
+def get_quotes(s):
+    return "‘’" if "‘" in s else "''"
+
+
+def iter_glosses(s):
+    quotes = "‘’" if "‘" in s else "''"
+
+    def make_gloss(pos=None, gloss=None, fn=None, comment=None, qualifier=None, uncertain=False):
+        return dict(
+            pos=pos,
+            gloss=gloss.replace("__s", quotes[1]) if gloss else gloss,
+            fn=fn, comment=comment, qualifier=qualifier, uncertain=bool(uncertain))
+
+    gloss, pos, qualifier, fn, uncertain, comment = None, None, None, None, False, None
+    rem = s
+    rem = re.sub(r"(?P<c>[a-z]){}s".format(quotes[1]), lambda m: m.group('c') + "__s", rem)
+    done = False
+
+    m = pos_pattern.match(rem)
+    if m:
+        # (N) 'stem' ; (V ) 'steer (a boat from the stem)'
+        if re.fullmatch(r"(\([^)]+\)\s*{0}[^{1}]+{1}\s*;?\s*)+".format(quotes[0], quotes[1]), rem):
+            for br, gl in iter_bracketed_and_gloss(rem, quotes):
+                yield make_gloss(pos=br.replace('v', 'V'), gloss=gl)
+            return
+        pos = m.group('pos')
+        rem = rem[m.end():].strip()
+
+    m = gloss_number_pattern.match(rem)
+    if m:
+        # FIXME: assign glosses with number and comment
+        # FIXME: must handle
+        # (E. dialect) 'shed for yams'; (W. dialect) 'house with one side of roof only, made in garden' ; 'a shrine, small house on poles' (= _hare ni asi_)
+        if re.fullmatch(r"(\([^)]+\)\s*'[^']+'\s*;?\s*)+", rem):
+            for br, gl in iter_bracketed_and_gloss(rem, quotes):
+                yield make_gloss(qualifier=br.replace('v', 'V'), gloss=gl)
+            return
+        qualifier = m.group('qualifier')
+        rem = rem[m.end():].strip()
+
+    m = fn_pattern.match(rem)
+    if m:
+        # FIXME: store fn, or load directly content into comment?
+        fn = m.group('fn')
+        rem = rem[m.end():].strip()
+
+    if rem.startswith('?'):
+        uncertain = True
+        rem = rem[1].strip()
+
+    if rem == '(Horridge)':
+        # FIXME: store source
+        rem = ''
+
+    if rem.startswith('(') and rem.endswith(')'):
+        comment = rem[1:-1].strip()
+        rem = ''
+
+    # consume comment or source from the end.
+    bcomment, rem = get_comment(rem)
+    assert not (comment and bcomment), s
+    comment = comment or bcomment
+
+    m = fn_pattern.search(rem)
+    if m and m.end() == len(rem):  # strip footnote from end.
+        assert not fn, s
+        fn = m.group('fn')
+        rem = rem[:m.start()].strip()
+
+    if rem:
+        assert rem[0] == quotes[0], s
+        assert rem[-1] == quotes[1], s
+        # FIXME: assertion below will work once the two cases above are handled!
+        # assert rem[0] == "'" and rem[-1] == "'", line
+        if quotes[0] in rem[1:-1]:
+            print(rem)
+
+    maybe_gloss = rem
+    if "'" in maybe_gloss:
+        assert maybe_gloss.count("'") >= 2, s
+    stuff, _, maybe_gloss = maybe_gloss.partition("'")
+    if maybe_gloss.strip():
+        gloss = glosses_and_note(maybe_gloss)[0][0]
+    if 0:  # stuff.strip():
+        if not pos_pattern.fullmatch(stuff) and not gloss_number_pattern.fullmatch(stuff):
+            # next part is a question mark, a footnote reference or a comment.
+            assert stuff[0] in '?[(', stuff
+            # print(words, line)
+    yield gloss

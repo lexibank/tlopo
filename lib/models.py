@@ -4,7 +4,34 @@
 import re
 import dataclasses
 
-from .parse import proto_pattern, parse_protoform, PHONEMES, iter_etyma, iter_protoforms, iter_reflexes, witness_pattern
+from .parse import (
+    proto_pattern, parse_protoform, PHONEMES, iter_etyma, iter_protoforms, iter_reflexes,
+    witness_pattern, iter_glosses, get_quotes, glosses_and_note
+)
+
+#
+# FIXME: gloss parsing should work with smart quotes as well!
+#
+
+TRANSCRIPTION = ('ɸ'
+                 'h'
+                 'áàāãæǣɒ'
+                 'fzʔðᵑg'
+                 '()[]<>-'
+                 'ɣ'
+                 'ɔɔ̄'
+                 'vøʷöōò'
+                 'īɨíIɨ̈ı'
+                 'tʰxθbˠŋ'
+                 'ɛɛ̃ə̄éēêə'
+                 'ūüù'
+                 'čñ'
+                 'ṣẓḍ'
+                 'čc̣'
+                 'ˀɬʌḷȴ'
+                 'ɯ'  # LATIN SMALL LETTER TURNED M - used as superscript!
+                 'ṛr̃ɾ')
+B = "ɛ̄"
 
 
 @dataclasses.dataclass
@@ -24,6 +51,7 @@ class Protoform:
 
     @classmethod
     def from_line(cls, line):
+        quotes = get_quotes(line)
         kw = {}
         m = proto_pattern.match(line)
         assert m
@@ -32,12 +60,12 @@ class Protoform:
         kw['pfdoubt'] = bool(m.group('pfdoubt'))
         kw['pldoubt'] = bool(m.group('pldoubt'))
         pl, _, rem = line.partition('*')
-        assert "'" in rem, line
+        assert quotes[0] in rem, line
         #
         # 1. Find matching end-quote.
         # 2. consume everything in parens after that, iteratively.
         #
-        pf, _, rem = rem.partition("'")
+        pf, _, rem = rem.partition(quotes[0])
         #if not re.fullmatch('[A-Za-z]+', pf.strip()):
         #    print(pf)
         parse_protoform(pf.strip(), kw['protolanguage'])
@@ -58,38 +86,8 @@ sauq ? (N)
 *rabut/*rubat
         """
         kw['form'] = pf.strip()
-        kw['glosses'], kw['note'] = Protoform.glosses_and_note(rem)
+        kw['glosses'], kw['note'] = glosses_and_note(rem, quotes)
         return cls(**kw)
-
-    @staticmethod
-    def glosses_and_note(s):
-        glosses = []
-        s = s.replace("men's", "men__s")
-        rem = s
-        while "'" in rem:
-            gloss, _, rem = rem.partition("'")
-            assert gloss.strip()
-            glosses.append(gloss.strip())
-            rem = rem.strip()
-            if rem.startswith(","):
-                rem = rem[1:].strip()
-            if rem.startswith("'"):
-                assert "'" in rem[1:], s
-                rem = rem[1:].strip()
-            #
-            # FIXME: parse nested protoforms ...
-            #
-            #elif proto_pattern.match(rem):
-            #    # POc *bayat 'fence, boundary marker', POc *bayat-i 'make a garden boundary'
-            #    #
-            #    # FIXME: handle three reconstructions!
-            #    #
-            #    rec = Reconstruction.from_data(protoform=rem)
-            #    glosses.extend(rec.glosses)
-            #    break
-            else:
-                break
-        return glosses, rem.strip()
 
 
 @dataclasses.dataclass
@@ -98,18 +96,19 @@ class Reflex:
     lang: str
     form: str
     gloss: str = None
+    cf: bool = False
+    pos: str = None
+
+    # FIXME: must allow multiple glosses -> (gloss, comment or source, pos)
 
     def __str__(self):
         return "\t{}: {}\t{}\t'{}'".format(self.group, self.lang, self.form, self.gloss or '')
 
     @classmethod
-    def from_line(cls, langs, line):
-        pos_pattern = re.compile(r'\s*\((?P<pos>v|V|VT|VI|vI|N|ADJ|ADV|VT,\s*VI|N, V|N, v)\)\s*')
+    def from_line(cls, langs, line, cf):
+        # old meaning|W. dialect
 
-        fn_pattern = None  # [2]
-        gloss_number_pattern = re.compile(r'\s*\(\s*1\s*\)\s*') # ( 1 )
-
-        lang, word, gloss = None, None, None
+        lang, word, gloss, pos = None, None, None, None
         group, _, rem = line.partition(':')
         rem_words = rem.strip().split()
         for lg in sorted(langs, key=lambda l: -len(l)):
@@ -122,7 +121,7 @@ class Reflex:
                     rem = rem[len(word):].strip()
                 break
         # get the next word:
-        if re.match(r'\s*\[[0-9]]\s*', rem):
+        if re.match(r'\s*\[[0-9]]\s*', rem):  # footnote_pattern!
             fnref, _, rem = rem.partition(']')
             # FIXME: handle footnote.
         rem = rem.strip()
@@ -138,23 +137,16 @@ class Reflex:
                 word = word[:-1]
                 comma = True
             for c in word:
-                if c not in PHONEMES + 'ɸháāfzʔðᵑg()[]<>-ūɣɔvøʷəо̄öītʰxɨīθbˠŋɛūčēæñIéȴòr̃íṣṛêɒčü':
+                if c not in PHONEMES + TRANSCRIPTION:
                     raise ValueError(c, rem, line)
             if comma:
                 word += ', {}'.format(rem_comps.pop(0))
-            maybe_gloss = ' '.join(rem_comps)
-            if "'" in maybe_gloss:
-                assert maybe_gloss.count("'") >= 2
-            stuff, _, maybe_gloss = maybe_gloss.partition("'")
-            if maybe_gloss.strip():
-                gloss = Protoform.glosses_and_note(maybe_gloss)[0][0]
-            if stuff.strip():
-                if not pos_pattern.fullmatch(stuff) and not gloss_number_pattern.fullmatch(stuff):
-                    # next part is a question mark, a footnote reference or a comment.
-                    assert stuff[0] in '?[(', stuff
-                    #print(words, line)
+            rem = ' '.join(rem_comps)
+
+        gloss = next(iter_glosses(rem))
+
         assert lang, line
-        return cls(group=group.strip(), lang=' '.join(lg), form=word, gloss=gloss)
+        return cls(group=group.strip(), lang=' '.join(lg), form=word, gloss=gloss, cf=cf, pos=pos)
 
 
 @dataclasses.dataclass
@@ -172,7 +164,12 @@ class Reconstruction:
         #    for l in kw['reflexes']:
         #        print(l)
         kw['protoforms'] = [Protoform.from_line(pf) for pf in kw['protoforms']]
-        kw['reflexes'] = [Reflex.from_line(langs, line) for line in kw['reflexes']]
+        reflexes = [Reflex.from_line(langs, line, cf) for line, cf, proto in kw['reflexes'] if not proto]
+        for line, cf, proto in kw['reflexes']:
+            if proto:
+                assert not cf
+                kw['protoforms'].append(Protoform.from_line(line))
+        kw['reflexes'] = reflexes
         return cls(**kw)
 
     def __str__(self):

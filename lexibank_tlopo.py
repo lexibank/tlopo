@@ -50,6 +50,8 @@ class Dataset(BaseDataset):
         reflexes = collections.Counter()
         bycat = collections.Counter()
         for vol in range(1, 7):
+            if vol == 1:
+                continue
             t = self.raw_dir / 'vol{}'.format(vol) / 'text.txt'
             if not t.exists():
                 continue
@@ -88,6 +90,11 @@ class Dataset(BaseDataset):
             #     print(k, v)
 
     def cmd_makecldf(self, args):
+        #
+        # FIXME: should we model that protoforms may have different glosses, tied to different sources?
+        # e.g.
+        # PMP *qatep 'thatch of sago palm leaves' (Dutton 1994), 'roof, thatch' (ACD)
+        #
         self.schema(args.writer.cldf)
         langs = {r['Name']: r for r in self.raw_dir.joinpath('vol1').read_csv('languages.csv', dicts=True)}
         for v in list(langs.values()):
@@ -122,7 +129,7 @@ class Dataset(BaseDataset):
                 ID=csid,
                 Language_ID=slug(pf.protolanguage),
                 Form_ID=pflex['ID'],
-                #Comment=cset.note.markdown if cset.note else None,
+                Comment='\n\n'.join(line.replace('*', '&ast;') for line in rec.desc),
                 Name=pf.form,
                 Description=pf.glosses[0] if pf.glosses else None,
                 #Source=['pmr1'],
@@ -130,6 +137,9 @@ class Dataset(BaseDataset):
             ))
 
             for w in rec.reflexes:
+                #
+                # FIXME: supplement glosses from matching, i.e. closest reconstruction!
+                #
                 assert w.lang in langs
                 if w.gloss not in gloss2id:
                     gloss2id[w.gloss] = slug(w.gloss or 'none')
