@@ -70,7 +70,7 @@ proto_pattern = re.compile(r'(\((?P<relno>[0-9])\)\s*)?'
                            r'(?P<fn>\[[0-9]+]\s+)?'
                            r'(?P<pfdoubt>\?)?\*'.format('|'.join(re.escape(g) for g in PROTO)))
 PHONEMES = "w p b m i e t d s n r dr l a c j y u o k g q R ŋ ñ pʷ bʷ mʷ"
-pos_pattern = re.compile(r'\s*\((?P<pos>v|V|VT|VI|vI|N|ADJ|ADV|VT,\s*VI|N, V|N, v|PASS)\)\s*')
+pos_pattern = re.compile(r'\s*\((?P<pos>v|V|VT|VI|vI|N|ADJ|ADV|VT,\s*VI|N, V|N, v|V & N|PASS)\)\s*')
 
 fn_pattern = re.compile(r'\[(?P<fn>[0-9]+)]')  # [2]
 gloss_number_pattern = re.compile(r'\s*\(\s*(?P<qualifier>i|1|present meaning|E. dialect)\s*\)\s*')  # ( 1 )

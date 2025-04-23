@@ -13,7 +13,7 @@ from .parse import (
 # FIXME: gloss parsing should work with smart quotes as well!
 #
 
-TRANSCRIPTION = ('ɸ'
+TRANSCRIPTION = ('Nɸ'
                  'h'
                  'áàāãæǣɒ'
                  'fzʔðᵑg'
@@ -22,15 +22,15 @@ TRANSCRIPTION = ('ɸ'
                  'ɔɔ̄'
                  'vøʷöōò'
                  'īɨíIɨ̈ı'
-                 'tʰxθbˠŋ'
-                 'ɛɛ̃ə̄éēêə'
+                 'ʈtʰᵐxθbˠŋɳ'
+                 'ɛɛ́ɛ̃ə̄éēêəɛ̃́'
                  'ūüù'
-                 'čñ'
+                 'ñ'
                  'ṣẓḍ'
                  'čc̣'
                  'ˀɬʌḷȴ'
                  'ɯ'  # LATIN SMALL LETTER TURNED M - used as superscript!
-                 'ṛr̃ɾ')
+                 'ṛr̃ɾɽ')
 B = "ɛ̄"
 
 
@@ -167,8 +167,14 @@ class Reconstruction:
         reflexes = [Reflex.from_line(langs, line, cf) for line, cf, proto in kw['reflexes'] if not proto]
         for line, cf, proto in kw['reflexes']:
             if proto:
-                assert not cf
-                kw['protoforms'].append(Protoform.from_line(line))
+                try:
+                    assert not cf, kw
+                    kw['protoforms'].append(Protoform.from_line(line))
+                except AssertionError:
+                    #
+                    # FIXME: what to do with protoforms in cf tables? Just list as reflexes in protolanguages?
+                    #
+                    pass
         kw['reflexes'] = reflexes
         return cls(**kw)
 
