@@ -16267,7 +16267,7 @@ it as a result of regular sound changes.
 function. Tanna languages add a prefix for future direction, and PPn *qanoisa came to
 mean ‘the day after tomorrow’.
 
-POc *[i] waRisa ‘two days from today’
+POc *|[i] waRisa| ‘two days from today’
  NNG: Gitua            wariza             ‘day before yesterday’
  NNG: Lukep            airi               ‘day before yesterday’
  NNG: Mangap           urizi              ‘day before yesterday’
@@ -16312,14 +16312,14 @@ POc *[i] waRisa ‘two days from today’
   NCV: Nguna               wāsa             ‘day after tomorrow’
   NCV: S. Efate            uāsa             ‘day after tomorrow’
   SV: Sye                  wisas            ‘five days hence’
-  SV: Anejom               (ho)viș          ‘three days from today’
+  SV: Anejom               (ho)viṣ          ‘three days from today’
 >
                                                                                Time   333
 
 <
 POc *[qa-]na-waRisa ‘day before yesterday’
  MM: Patpatar           nauaris           ‘day before yesterday’
- MM: Tolai (Nodup) nari(a)                ‘day before yesterday’
+ MM: Tolai–Nodup        nari(a)                ‘day before yesterday’
  MM: Solos              nanis             ‘day before yesterday’
  MM: Petats             nalis             ‘day before yesterday’
  NCV: Mota              anarisa           ‘day before yesterday’
@@ -16331,7 +16331,7 @@ POc *[qa-]na-waRisa ‘day before yesterday’
  SV: Lenakel            (to)nhi           ‘day after tomorrow’
  SV: Kwamera            neis              ‘day before yesterday’
  SV: Kwamera            (tə)neis          ‘day after tomorrow’
- SV: Anejom             nviș              ‘day before yesterday, day after tomorrow’
+ SV: Anejom             nviṣ              ‘day before yesterday, day after tomorrow’
  Pn:    Tongan          [ʔa]ʔanoiha       ‘day after tomorrow’
  Pn:    Niuean          [a]noiha          ‘day after tomorrow’
  Pn:    E Uvean         anoia             ‘day after tomorrow’
@@ -16360,7 +16360,7 @@ temporal direction). In two widely separated languages, Tami and Mono-Alu, the r
 apparently means ‘tomorrow’: one can imagine several ways in which this meaning change
 might have occurred, but none is especially convincing.
 
-POc *|boŋi rua| literally ‘two days’, apparently by default ‘the day after tomorrow’
+POc *|boŋi rua| ‘the day after tomorrow’ (apparently by default, literally ‘two days’)
  Adm: Lou                ru-peŋ              ‘day after tomorrow’
  Adm: Titan              lu-poŋ              ‘day after tomorrow’
  NNG: Kove               voŋo-hua            ‘day after tomorrow’
@@ -16372,9 +16372,9 @@ POc *|boŋi rua| literally ‘two days’, apparently by default ‘the day afte
  NNG: Poeng              (ŋa)voŋa-lua        (ADV) ‘day after tomorrow’
  MM: Kandas              ura-buŋ             ‘day after tomorrow’
  MM: Mono-Alu            boi-ua              ‘tomorrow’
- NCV: Nokuku             pon rua             ‘two days hence’
+ NCV: Nokuku            | pon rua |            ‘two days hence’
  NCV: Kiai               pon-rua             ‘the day after tomorrow’
- NCV: Uripiv             bon eru             ‘day before yesterday’
+ NCV: Uripiv            | bon eru |            ‘day before yesterday’
  Fij:   Bauan            boŋi-rua            ‘day before yesterday’
  Fij:   Wayan           | ei boŋi-rua |        ‘day after tomorrow’
  Fij:   Wayan           | a boŋi-rua |         ‘day before yesterday’
@@ -16421,7 +16421,7 @@ POc *ican ‘when?’, *qa-ican ‘when?’
  MM: Mono-Alu             (ro)isa            ‘when?’
 >
 <
-POc *[i] ŋaican ‘when?’, *qa-ŋaican ‘when?’
+POc *|[i] ŋaican| ‘when?’, *qa-ŋaican ‘when?’
  NNG: Malai                ŋez           ‘when?’
  NNG: Gitua                ŋeza          ‘when?’
  NNG: Arop-Lokep           ŋe(lo)        ‘when?’
@@ -16445,7 +16445,7 @@ POc *[i] ŋaican ‘when?’, *qa-ŋaican ‘when?’
  Mic: Woleaian             irēta        ‘when?’
 >
 <
-POc *[i] ŋican ‘when?’, *qa-ŋican ‘when?’
+POc *|[i] ŋican| ‘when?’, *qa-ŋican ‘when?’
  MM: Bali                  ŋizaŋa         ‘when?’
  MM: Lavongai              aŋisan         ‘when?’
  MM: Notsi                 (la)ŋisa       ‘when?’
