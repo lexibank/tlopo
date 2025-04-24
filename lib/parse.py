@@ -37,6 +37,7 @@ GROUPS = [
     "Fma",  # Formosan
     "IJ",  # Irin Jaya
     "WMP",  # Western Malayo-Polynesian
+    "SHWNG",
 ]
 PROTO = [
     # Oceanic:
@@ -44,6 +45,8 @@ PROTO = [
     "PEAd", # Adm
     "Proto Eastern Admiralty",  # FIXME: identify with PEAd
     "PWOc",  # MM, SJ
+      "Proto Northwest Solomonic",
+      "Proto Meso-Melanesian",  # MM
       "PNGOc",  # Proto New Guinea Oceanic, i.e. PWOc without reflexes from MM
         "PNNG", # NNG
         "PPT", # PT
@@ -51,15 +54,19 @@ PROTO = [
       "Proto Southeast Solomonic",  # FIXME: identify with PSS
       "PSS", # SES
       "PMic",  # Proto Micronesian Mic
+        "PChk",
+      "PNCV",  # NCV
       "Proto Remote Oceanic", # NCV, SV, Mic
         "PCP",  # Proto Central Pacific, Fij
           "PPn",  # PN
             "PCEPn",  # Proto Central Eastern Polynesian; Hawaiian, Maori, Tuamotuan
+            "PNPn",
     # Other Austronesian:
     "PAn",
     "PMP",
     "PWMP",
     "PCEMP",
+    "PCMP",
     "PEMP",
     "Proto South Halmahera/West New Guinea",
 ]
@@ -67,10 +74,12 @@ proto_pattern = re.compile(r'(\((?P<relno>[0-9])\)\s*)?'
                            r'(?P<pl>{})\s+'
                            r'(?P<root>root\s+)?'
                            r'(?P<pldoubt>\((POC)?\?\)\s*)?'
+                           r'(?P<pos>\((N|V|N LOC|N, N LOC|\?\? N LOC, V|N, \? N LOC)\)\s*)?'
                            r'(?P<fn>\[[0-9]+]\s+)?'
                            r'(?P<pfdoubt>\?)?\*'.format('|'.join(re.escape(g) for g in PROTO)))
-PHONEMES = "w p b m i e t d s n r dr l a c j y u o k g q R ŋ ñ pʷ bʷ mʷ"
-pos_pattern = re.compile(r'\s*\((?P<pos>v|V|VT|VI|vI|N|ADJ|ADV|VT,\s*VI|N, V|N, v|V & N|PASS)\)\s*')
+PHONEMES = "w p b m i e t d s n r dr l a ā c j y u o k g q R ŋ ñ pʷ bʷ mʷ"
+pos_pattern = re.compile(
+    r'\s*\((?P<pos>PP|POSTVERBAL ADV|PREPV|V AUX|VF|INTERJECTION|ADN AFFIX|LOC|R-|R|preverbal clitic|DIR clause-final|adverb|V, DIR|DEM|v|V|VT|VI|vI|N|ADJ|ADV|VT,\s*VI|N, V|N, v|V & N|N,V|N LOC|PASS|postposed particle|ADV, ADJ|V, ADJ|DIR|N \+ POSTPOSITION|PREP|POSTPOSITION|RELATIONAL N)\)\s*')
 
 fn_pattern = re.compile(r'\[(?P<fn>[0-9]+)]')  # [2]
 gloss_number_pattern = re.compile(r'\s*\(\s*(?P<qualifier>i|1|present meaning|E. dialect)\s*\)\s*')  # ( 1 )
@@ -117,19 +126,22 @@ def parse_protoform(f, pl):
     phonemes = PHONEMES.split()
     phonemes.append('-')
     if pl in ['PAn', 'PMP']:
-        phonemes.extend(['á', 'C', 'D', 'h', 'N', 'S', 'R', 'T', 'z'])
+        phonemes.extend(['á', 'C', 'D', 'h', 'N', 'S', 'R', 'T', 'z', 'Z', 'L', '?', 'ə', '+'  # *pu+put
+                         ])
     if pl in ['PWMP']:
         phonemes.extend(['S'])
+    if pl in ['PNCV']:
+        phonemes.extend(['v'])
     if pl in ['PEOc']:
         phonemes.extend(['C'])
     if pl in ['PCP']:
         phonemes.extend(['v', 'ā'])
-    if pl in ['PPn', 'PMic']:
-        phonemes.extend(['f'])
+    if pl in ['PPn', 'PMic', 'PChk', 'PCEPn']:
+        phonemes.extend(['ō', 'f', 'ū', 'z', 'V', 'ī', 'ə̄', 'ə', '̄'])
     if pl in ['PNGOc']:
         phonemes.extend(['kʷ'])
-    if pl in ['PPn']:
-        phonemes.extend(['ʔ'])
+    if pl in ['PPn', 'PNPn']:
+        phonemes.extend(['ʔ', 'ā', 'h'])
     # Tahitian, Arosi: "ʔ"
     # Bauan: "ð"
     # Raga: "ᵑg"
@@ -406,6 +418,21 @@ def iter_glosses(s):
         uncertain = True
         rem = rem[1].strip()
 
+    m = fn_pattern.search(rem)
+    if m and m.end() == len(rem):  # strip footnote from end.
+        assert not fn, s
+        fn = m.group('fn')
+        rem = rem[:m.start()].strip()
+
+    for src in [
+        '(Lewis, 1978:33)',
+        '(Chowning)',
+        '(Elbert 1972)',
+    ]:
+        if rem.endswith(src):
+            # FIXME: store source
+            rem = rem.replace(src, '').strip()
+
     if rem == '(Horridge)':
         # FIXME: store source
         rem = ''
@@ -418,12 +445,6 @@ def iter_glosses(s):
     bcomment, rem = get_comment(rem)
     assert not (comment and bcomment), s
     comment = comment or bcomment
-
-    m = fn_pattern.search(rem)
-    if m and m.end() == len(rem):  # strip footnote from end.
-        assert not fn, s
-        fn = m.group('fn')
-        rem = rem[:m.start()].strip()
 
     if rem:
         assert rem[0] == quotes[0], s

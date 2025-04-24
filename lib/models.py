@@ -15,21 +15,25 @@ from .parse import (
 
 TRANSCRIPTION = ('Nɸ'
                  'h'
-                 'áàāãæǣɒ'
+                 'áàāãæǣɒɒ̄'
                  'fzʔðᵑg'
                  '()[]<>-'
                  'ɣ'
-                 'ɔɔ̄'
-                 'vøʷöōò'
-                 'īɨíIɨ̈ı'
+                 'ɔ̀ ɔɔ̄'
+                 'vøʷöōòó'
+                 'î'  # i circumflex
+                 'ĩ'  # i tilde
+                 'ì'  # i grave
+                 'ī'  # i macron
+                 'ɨíIɨ̈ı'
                  'ʈtʰᵐxθbˠŋɳ'
-                 'ɛɛ́ɛ̃ə̄éēêəɛ̃́'
-                 'ūüù'
-                 'ñ'
-                 'ṣẓḍ'
+                 'èɛɛ́ ɛ̃ə̄éēêəɛ̃́'
+                 'ūüùúʉ'
+                 'ñm̀'
+                 'ṣẓḍʃ'
                  'čc̣'
-                 'ˀɬʌḷȴ'
-                 'ɯ'  # LATIN SMALL LETTER TURNED M - used as superscript!
+                 'ˀɬʌḷȴl̥ʋv̈'
+                 'ɯβ'  # LATIN SMALL LETTER TURNED M - used as superscript!
                  'ṛr̃ɾɽ')
 B = "ɛ̄"
 
@@ -60,15 +64,14 @@ class Protoform:
         kw['pfdoubt'] = bool(m.group('pfdoubt'))
         kw['pldoubt'] = bool(m.group('pldoubt'))
         pl, _, rem = line.partition('*')
-        assert quotes[0] in rem, line
-        #
-        # 1. Find matching end-quote.
-        # 2. consume everything in parens after that, iteratively.
-        #
-        pf, _, rem = rem.partition(quotes[0])
-        #if not re.fullmatch('[A-Za-z]+', pf.strip()):
-        #    print(pf)
-        parse_protoform(pf.strip(), kw['protolanguage'])
+        if quotes[0] in rem:
+            # 1. Find matching end-quote.
+            # 2. consume everything in parens after that, iteratively.
+            pf, _, rem = rem.partition(quotes[0])
+            parse_protoform(pf.strip(), kw['protolanguage'])
+        else:
+            # FIXME: What to do if there is no gloss?
+            pf = ''
         #if kw['protolanguage'] == 'PMP':
         #    print(line, pf)
         #if '1)' in pf:

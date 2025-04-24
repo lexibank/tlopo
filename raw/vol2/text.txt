@@ -4148,16 +4148,16 @@ PEOc *maka ‘burn brightly’
 PEOc *makalo ‘burn with glow’ (cf. *kalo-kalo ‘glimmer’)
  Mic: Kiribati        mwākaro          ‘embers, live coals, charoal; burning without flames’
  Fij:  Wayan          makalo           ‘turn to embers; glow, be red hot’
-PPn: *makala (V) ‘(of fire) crackle and spark’
+PPn *makala (V) ‘(of fire) crackle and spark’
  Pn:   Tongan            makala           ‘emit sparks with a crackling noise’
- Pn    E Uvean           makala           ‘(of fire) crackle’
+ Pn:   E Uvean           makala           ‘(of fire) crackle’
  Pn:   Rennellese        makaga           ‘crackle, rattle, rumble’
  Pn:   Rennellese        makago-kago ‘emit sparks, as a fire’
  Pn:   Maori             makaro           ‘be dimly visible’
 >
 <
 PEOc *kalo-kalo ‘glimmer’ (cf. *makalo ‘burn with glow’)
- Mic: Kiribati        -karo-karo       base in 3 words, all meaning ‘glimmer, glow’
+ Mic: Kiribati        -karo-karo       (base in 3 words, all meaning ‘glimmer, glow’)
  Fij:  Bauan          kalo-kalo        ‘star’
  Pn:   Pukapukan      kalo-kalo(awi) ‘sparks of fire’
  Pn:   Samoan         ʔalo-i-afi       ‘sparks’
@@ -4304,7 +4304,7 @@ PSS *añu (V) ‘shake’, *añu-añu (N) ‘earthquake’
  SES: Bugotu            añu              ‘shake, of earthquake; earthquake’
  SES: Lau               anu              ‘shake, quake’
  SES: Lau               anu-anu          ‘earthquake’
- SES: Kwaio             anu(leʔeni)      shake, jostle, knock down by shaking’
+ SES: Kwaio             anu(leʔeni)      ‘shake, jostle, knock down by shaking’
  SES: ’Are’are          anu(i)           ‘shake, move’
  SES: Sa’a              enu, enu-enu     ‘be loose, unstable’
  SES: Arosi             anu(kaʔa)        ‘tremble and go cold with fear’
@@ -4417,7 +4417,7 @@ form (*[ma-]uRua(p) ‘flood, be flooded’) (Sa’a lua hā ‘high spring tide
 *lolo (V) ‘flood’, and *lomak (N,V) ‘flood, of sea’.
 
 <
-POc [*ma-]uRua(p) ‘flood, be flooded’
+POc *[ma-]uRua(p) ‘flood, be flooded’
  NNG: Manam           urua                 ‘flood, torrent’
  PT:   Molima         moluva               ‘flood’
  PT:   Dobu           muluwa               ‘flood’
@@ -4801,8 +4801,8 @@ POc *qaRus (N) ‘current’, (V) ‘flow’
  NCV: Mota             ar              ‘currents in the sea between Mota and Gaua’
  SV:   N Tanna         aeh             ‘flow’
  SV:   Kwamera         arəs            ‘flow’
- SV:   Anejom          are6-ra6        ‘flow’
- SV:   Anejom          n-are6          ‘current’
+ SV:   Anejom          areθ-raθ        ‘flow’
+ SV:   Anejom          n-areθ          ‘current’
  NCal: Nêlêmwa         aut             ‘wave, swell’
  NCal: Nemi            kōt             ‘flow’
  NCal: Cèmuhî          ōot             ‘current’
@@ -4970,8 +4970,8 @@ POc *loka (N) ‘high sea or tide, heavy breakers’; (V) ‘be high, rough, of 
  Fij:   Wayan           loka-loka         ‘of sea, be rough during calm weather, indicating strong winds will come later’
  Fij:   Bauan           loka              (N) ‘heavy breakers over a reef, very heavy tides that flow inland, floods’; (V) ‘break, of breakers, tidal wave’ (ua loka ‘tidal wave’)
  Pn:    Niuean          loka              ‘be rough, usually of sea’
- Pn:    Tongan          loka              (of harbour, lagoon, passage, or sea where it meets coast) ‘be rough’
- Pn:    Tongan          loka-tau          (of sea near the coast) ‘be rough and roaring’
+ Pn:    Tongan          loka              ‘be rough’ (of harbour, lagoon, passage, or sea where it meets coast)
+ Pn:    Tongan          loka-tau          ‘be rough and roaring’ (of sea near the coast)
  Pn:    Tikopia         roka              ‘rough of sea; great wave, as in heavy surf’
 >
 <
@@ -5026,7 +5026,7 @@ PMP *busa ‘foam’ (ACD)
 POc *busa ‘foam, froth’
  MM: Sursurunga         bus-bus          ‘foam coming from the mouth; bubbles’
  MM: Tolai              bua              (N) ‘foam of the sea’; (V) ‘foam, bubble, boil’
- SES: Arosi             (ʔa)buta         ‘the break of a wave, surf’; (ʔabutasi ‘to break in foam upon’)
+ SES: Arosi             (ʔa)buta         ‘the break of a wave, surf’ (ʔabutasi ‘to break in foam upon’)
  SES: ’Are’are          (a)puta          ‘break, of surf’
  NCV: Namakir           buha             ‘foam’
  Pn:     Maori          pua              ‘foam of the sea; foaming, breaking’
@@ -5185,8 +5185,7 @@ POc *maqati (N) ‘low tide; dry reef’; (V) ‘ebb; dry, of reef’
  SV:      Anejom        mas             ‘low tide’
  NCal:    Nemi          māc             ‘part of the reef exposed at low tide’
  Fij:     Rotuman       mafi            ‘low-tide water; tide in general’
- Fij:     Bauan         mati            (V) ‘ebb, of the tide, as opposed to the flow’;
-                                           ‘part of the reef exposed at low tide’
+ Fij:     Bauan         mati            (V) ‘ebb, of the tide, as opposed to the flow’; ‘part of the reef exposed at low tide’
 >
 104     Meredith Osmond, Andrew Pawley and Malcolm Ross
 
@@ -5231,7 +5230,7 @@ POc *[ma]maca (V) ‘dry up, evaporate, be empty of liquid’; (N) ‘low tide�
  Pn:   Tongan         mamaha       ‘shallow; (tide) be out’
  Pn:   E Futunan      masa         ‘dry’
  Pn:   E Uvean        maha         ‘empty, dry’
- Pn:   Rennellese     masa         ‘empty of liquid, (tide) shallow’.
+ Pn:   Rennellese     masa         ‘empty of liquid, (tide) shallow’
  Pn:   Samoan         masa         ‘be shallow’
  Pn:   Nukuoro        masa         ‘empty, low tide’
  Pn:   Emae           masa         ‘empty of liquid’
@@ -5263,14 +5262,14 @@ POc *[u]Ruap (N) ‘high tide’; (V) ‘flow in, of tide’; (N) ‘wave’
  NCV: Paamese         ue                 ‘high tide’
  SV:    Kwamera       a-rə-rukʷ         ‘be high tide’
  NCal: Nyelâyu        wap                ‘high tide’
- Fij:   Bauan         ua                 ‘the tide, a wave’, (ua levu ‘high tide’)
+ Fij:   Bauan         ua                 ‘the tide, a wave’ (ua levu ‘high tide’)
  Fij:   Wayan         ua                 ‘wave; tide’ (ua levu ‘high tide’)
 >
 <
-POc *ma-[u]Ruap and its counterpart, *ma-qati ‘low tide; be low tide, to ebb’ each had
+  POc *ma-[u]Ruap and its counterpart, *ma-qati ‘low tide; be low tide, to ebb’ each had
 both a dynamic and a stative sense (Evans & Ross 2001).
 
-POc [*ma-]uRua(p) ‘flood, be flooded’ (from p.86)
+POc *[ma-]uRua(p) ‘flood, be flooded’ (from p.86)
  NNG: Manam          urua               ‘flood, torrent’
  PT:   Molima        moluva             ‘flood of river or stream’
  PT:   Dobu          muluwa             ‘flood’
@@ -5422,7 +5421,7 @@ were not as central to life in many parts of Indonesia as they are in Oceanic se
 110    Meredith Osmond, Andrew Pawley and Malcolm Ross
 
 <
-PMP/PEMP *sakaRu ‘reef, shoal’
+PMP *sakaRu ‘reef, shoal’
 POc *sakaRu ‘reef, shoal’
  Adm: Baluan             suk             ‘beach’
  NNG: Dami               sā              ‘sky, reef’
@@ -5665,7 +5664,7 @@ POc *namo ‘lagoon inside a reef; deep pool or hole in reef’
  PT:   Motu            nomu             ‘deeper place on shore reef’ (irreg. vowel change)
  MM: Kara              nam              ‘lagoon’
  SES: ’Are’are         nāmo             ‘lake; crevice, deep places in between the reefs’
- SES Sa’a              namo             ‘land-locked harbour’
+ SES: Sa’a              namo             ‘land-locked harbour’
  SES:    Arosi             namo             ‘a landlocked, shallow lagoon near the shore’
  SES:    Lau               namo             ‘the lagoon inside a reef, near the reef (the deep) pools towards the shore’
  SES: Kwaio                namo             ‘lake, pool, deep place in river’
@@ -5761,7 +5760,7 @@ POc *sawa(n,ŋ) ‘channel, passage’
  Mic:    Mokilese        taw              ‘channel, passage through reef’
  Mic:    Carolinian      tawur            ‘channel, passage through reef’
  Mic:    Woleaian        tawa             ‘channel, harbour’
- Fij:    Wayan           ðawa             (N LOC) (i) ‘(when speaker is on coast) the beach or reef flat’; (ii) ‘(when speaker is inland) the coast, seaside’
+ Fij:    Wayan           ðawa             (N LOC) ‘(i) (when speaker is on coast) the beach or reef flat; (ii) (when speaker is inland) the coast, seaside’
 PPn *awa ‘channel, passage through reef’ (Biggs & Clark 1993; loss of initial *s- is unexpected)
  Pn:   Niuean      ava                 ‘channel, opening in the reef; harbour’
  Pn:   Rennellese aba                  ‘pass, channel, canoe anchorage’
@@ -5780,7 +5779,7 @@ POc *mata (qi/ni) sawa(n,ŋ) ‘channel in fringing reef giving passage to boats
  SES: Lau            mā-i-takwa         ‘landing place, opening’
  SES: Arosi          ma-e-tawa          ‘landing place where the sea is calm’
  SES: Kwaio         | mā li takwa |       ‘landing place’
- SES ’Are’are        maritawa           ‘landing place, channel’
+ SES: ’Are’are        maritawa           ‘landing place, channel’
  Mic: Kiribati      | mata n rawa-rawa | ‘channel, gap in reef’
  Fij:    Bauan       mata-sawa          ‘landing place’
  Fij:    Wayan       mata-ðawa          ‘beach’
@@ -6366,7 +6365,7 @@ a POc alternant *pwusi.
                                                          Meteorological phenomena       131
 
 <
-PAN *pu+put ‘blow’ (Zorc 1994)
+PAn *pu+put ‘blow’ (Zorc 1994)
 PMP *putput ‘puff, blow suddenly and hard’
 POc *(pu)put ‘(wind) blow’
  MM: Kara (West) fifit              ‘(wind) blow’
@@ -6531,7 +6530,7 @@ PCP *avā ‘storm, gale, hurricane’
  Fij:  Wayan            ðavā             ‘storm, strong wind bringing rain’
  Pn:   Tongan           afā              ‘hurricane, gale or very severe storm’
  Pn:   Niuean           afā              ‘storm, hurricane, gale’
- Pn    Samoan           afā              ‘storm, hurricane’
+ Pn:   Samoan           afā              ‘storm, hurricane’
  Pn:   Tokelauan        afā              ‘storm, hurricane’
  Pn:   E Futunan        afā              ‘storm, hurricane’
  Pn:   E Uvean          afā              ‘storm, hurricane’
@@ -6685,15 +6684,15 @@ POc *tokalau(r) ‘(?) northerly wind’
 PPn *tokelau ‘northwesterly quadrant, northwest winds’ (Biggs & Clark 1993)
  Pn:    Tongan         tokelau             ‘north ’
  Pn:    E Futunan      tokelau             ‘northerly wind’
- Pn:    Pukapukan     | tokelau’ (iti) |     ‘north wind (Lewis 1972:75)
- Pn:    Pukapukan     | tokelau’ (matua) | ‘northwest wind (Lewis 1972:75)
- Pn:    Rennellese     tokegau             ‘northwest wind ’
+ Pn:    Pukapukan     | tokelau’ (iti) |     ‘north wind’ (Lewis 1972:75)
+ Pn:    Pukapukan     | tokelau’ (matua) | ‘northwest wind’ (Lewis 1972:75)
+ Pn:    Rennellese     tokegau             ‘northwest wind’
  Pn:    Samoan         toʔelau             ‘trade wind from northeast to east-southeast’
- Pn:    Tuvaluan       tokelau             ‘north, northerly wind.’
+ Pn:    Tuvaluan       tokelau             ‘north, northerly wind’
  Pn:    Takuu          tokorau             ‘north, northerly wind’
  Pn:    Sikaiana       tokelau             ‘north’
  Pn:    Luangiua       koʔolau             ‘north’
- Pn:    Tikopia        tokerau             ‘north wind.’
+ Pn:    Tikopia        tokerau             ‘north wind’
  Pn:    Rarotongan     tokerau             ‘northwest wind’ (Lewis 1972:74)
  Pn:    Hawaiian       koʔolau             ‘windward (northeast) sides of Hawaiian islands.’
  Pn:    Marquesan      tokoʔau             ‘north or northwest wind’
@@ -6746,7 +6745,7 @@ POc *karak(a) ‘(strong?) southeast trade’
  NNG: Lukep           karaka          ‘southeast trade’
  NNG: Bing            karag           ‘southeast trade, blows off the sea strongly in August and September’
  NNG: Bilibil         karag           ‘dry wind’
- NNG: Gedaged         kìlag           ‘southeast trade’
+ NNG: Gedaged         kìl̥ag           ‘southeast trade’
  NNG: Takia           karag-arag      ‘a light southeast wind which appears as part of the initial development of the southeast trade in April’
  PT:   Gapapaiwa      kara-karata     ‘east wind’
  SES: Gela            ara             ‘southeast wind’
@@ -6795,7 +6794,7 @@ POc *aqura ‘wind, possibly southeast trade’
  NNG: Tuam             yawur             ‘wind’
  NNG: Mutu             yagur             ‘wind’
  NNG: Malai            yagur             ‘wind’
- NNG: Sio              wor¿a             ‘northwest monsoon’
+ NNG: Sio              wɔr̃a             ‘northwest monsoon’
  NNG: Numbami          aula              ‘wind’
  NNG: Takia            ur                ‘air ’
  NNG: Ali              ur                ‘wind’
@@ -6871,7 +6870,7 @@ POc *ma-lino ‘calm’ (Grace 1969)
 
 <
 PMP *(d,r)apu ‘still, calm, quiet’(Blust 1972)
-POc *[ma-[d]]rapu ‘still, calm, windless’
+POc *[ma-d,ma-]rapu ‘still, calm, windless’
  Adm: Nyindrou            nra-dah           ‘breeze ’
  MM: Petats               marah             ‘calm’
  MM: Haku                 maraha            ‘calm’
@@ -7063,7 +7062,7 @@ POc *Rapu(n) ‘haze, mist’
  SES: Lau             lafo                ‘cloud’
  SES: Kwaio           lafo                ‘cloud’
  SES: ’Are’are        raho                ‘haze, mist, fog, cloud’
-Proto North/Central Vanuatu *ma-Ravu ‘fog, mist’ (Clark 1996)
+PNCV *ma-Ravu ‘fog, mist’ (Clark 1996)
  NCV: Mota             marav           ‘dim, misty’
  NCV: Raga             marav           ‘mist’
  NCV: Paamese          mahu-mahu       ‘cloud’
@@ -7157,7 +7156,7 @@ of Proto Nuclear Polynesian *kapuqa ‘cloud’ (Biggs & Clark 1993), which eith
 the addition of *-qa to a reflex of POc *kapu(t) or *gapu(l) or is a derivative of the PPn
 verb *kaputi ‘cover over’.
 
-Proto Nuclear Polynesian *kapuqa ‘cloud’
+PNPn *kapuqa ‘cloud’
  Pn:    Rapanui        kapuʔa          ‘fog, haze, mist’
  Pn:    Hawaiian       ʔōpua           ‘puffy clouds, as banked up near the horizon’
  Pn:    K’maringi      gabua           ‘raincloud (sign of rain)’
@@ -7778,7 +7777,7 @@ PMP *qajaw or *qalejaw ‘sun, daylight’ (ACD)[9]
  CMP: Bima            liro              ‘sun’
  CMP: Ngadha          leza              ‘sun; day; daylight; daytime; heat of the sun’
  CMP: Roti            ledo              ‘sun’
- CMP: Leti            lera              ‘sun; day;
+ CMP: Leti            lera              ‘sun; day’
  CMP: Yamdena         lere              ‘sun; day’
 POc *qaco ‘sun, daytime’
  Adm: Ponam            al                          ‘sun’
@@ -7912,8 +7911,7 @@ forms as well as the Motu, where *ŋ is regularly reflected by Ø.
    The following set focuses on effects of the sun’s heat as opposed to its light, and
 extends to heat from fire.
 
-POc *raraŋ (VI) ‘be warm, hot, of sun; be warmed or heated by fire or sun’, *[ra]raŋ-i
- (VT) ‘warm, dry s.o., s.t. by sun or fire’
+POc *raraŋ (VI) ‘be warm, hot, of sun; be warmed or heated by fire or sun’, *[ra]raŋ-i (VT) ‘warm, dry s.o., s.t. by sun or fire’
  PT:    Molima            lala              ‘wilt leaves over a fire’
  MM: Tolai                raŋ, raraŋ        (VT) ‘scorch, dry, warm, by sun or fire’
  SES: Bugotu              raraŋi            (VT) ‘heat’
@@ -7940,8 +7938,8 @@ meaning ‘sun’. This may, however, be the result of independent parallel deve
 
 PMP *sinaR ‘ray of light’ (Dempwolff 1938)
 POc *sinaR (V) ‘shine’; (N) (?) ‘sun’
- Adm: Mussau            sinaka[11]       ‘sun’
- Adm: Tench             sinaka[11]         ‘sun’
+ Adm: Mussau            sinaka [11]       ‘sun’
+ Adm: Tench             sinaka [11]         ‘sun’
  Adm: Lou               sinsin         ‘sun’
  PT:    Motu            dina           ‘sun; day’
  MM: Lavongai           sinaŋ          (N) ‘sun’; (V) ‘(sun) shine’
@@ -7968,7 +7966,7 @@ POc *sinaR (V) ‘shine’; (N) (?) ‘sun’
    Building on its ‘shine’ meaning, POc *sinaR has given rise to a number of Polynesian
 terms which, with the addition of mā-, a stativising prefix, refer to the moon:
 
-PPn *mā -sina ‘moon, month’
+PPn *mā-sina ‘moon, month’
  Pn:   Rennellese      māsina               ‘moon, month’
  Pn:    Tongan         māhina               ‘moon, month’
  Pn:    Samoan         māsina               ‘moon, month’
@@ -8138,7 +8136,7 @@ PPn *|fetuqu qaho| ‘Morning Star’ ( > POc *qaco ‘sun, daytime’)
 >
 
 <
-PMic *f|itū rāni| ‘Morning Star’ ( > POc *raqani ‘daytime, daylight’)
+PMic *|fitū rāni| ‘Morning Star’ ( > POc *raqani ‘daytime, daylight’)
  Mic: Marshallese | icu ṛɯan |             ‘Morning Star’
  Mic: Ponapean        | usūn rān |         ‘Morning Star’ (rān ‘day’)
  Mic: Kiribati        | itoi ni ŋaina |    ‘Morning Star’ (ŋaina ‘day, daylight’)
@@ -8333,7 +8331,7 @@ Polynesian languages use reflexes of PPn *mataliki.
 
 PMP *buluq ‘a constellation, the Pleiades’ (ACD)
 POc *bulu(q) ‘a constellation, the Pleiades’ (ACD has *puluq)
- MM: Nakanai         vulu               ‘Pleiades’ (v for exp. b)16
+ MM: Nakanai         vulu               ‘Pleiades’ (v for exp. b) [16]
  MM: Roviana         bibolo             ‘Pleiades’ (o for expected u)
  SES: Kwaio          bulu-bulu          ‘star; firefly’
  SES: Lau            (bu)bulu           ‘star’
@@ -8345,6 +8343,9 @@ POc *bulu(q) ‘a constellation, the Pleiades’ (ACD has *puluq)
    Ann Chowning (pers. comm.) has pointed out that, in common with the Southeast
 Solomonic terms above, an alternative Nakanai name for the Pleiades, matatabu, and their
 Sengseng name (li-m(e)lek), although unrelated, also denote fireflies.
+
+[16] Alternatively, Ann Chowning considers that vulu, may be derived from POc *pulu ‘feather’, vulu also
+   being the term for their yellow feathered headdress.
 >
 
    In Polynesia and Micronesia a different term, translatable literally as ‘small face’ or
@@ -8352,9 +8353,6 @@ Sengseng name (li-m(e)lek), although unrelated, also denote fireflies.
 however, refer not to the Pleiades but probably to Sagittarius.
 
 
-
-[16] Alternatively, Ann Chowning considers that vulu, may be derived from POc *pulu ‘feather’, vulu also
-   being the term for their yellow feathered headdress.
 172    Meredith Osmond
 
 <
@@ -8522,7 +8520,7 @@ languages reflect ‘PEOc/PMic *maRi/*mai ‘breadfruit’ while the Marshallese
 although formally similar, reflects POc *mata ‘eye’.
 
 PChk *mai-lapa ‘Altair’ (lit. ‘big/old breadfruit’)
- Mic: Puluwatese       mǣy læp            ‘Altair; a month, about March: from _mǣy_ ‘breadfruit’, _læp_ ‘big, old’ (Appearance of Altair marks the season of old breadfruit, northeast winds and much sailing. _mǣylæpænefæŋ_ is the name given to the season) (Elbert 1972)
+ Mic: Puluwatese      | mǣy læp |           ‘Altair; a month, about March: from _mǣy_ ‘breadfruit’, _læp_ ‘big, old’ (Appearance of Altair marks the season of old breadfruit, northeast winds and much sailing. _mǣylæpænefæŋ_ is the name given to the season) (Elbert 1972)
  Mic: Mortlockese      meilap              ‘the constellation Aquila’
  Mic: Woleaian         māirapa             ‘Altair, the most prominent star in Carolinian navigation, a winter month’
  Mic: Carolinian       mǣilap             ‘the star Altair’
@@ -8560,7 +8558,7 @@ PMic *(d,z)umuri ‘Antares’
 PCEPn *refua ‘a star name, Antares?’ (Biggs & Clark 1993)
  Pn: Tahitian           rehu               ‘a month name, between Dec. and January’
  Pn: Tuamotuan          rehua              ‘a star, Antares?’
- Pn: Maori              rerehu or rehua ‘Antares’ (Makemson 1941:98)
+ Pn: Maori             | rerehu or rehua | ‘Antares’ (Makemson 1941:98)
  Pn: Hawaiian           we-lehu            ‘Antares’ (Makemson 1941:98)
  Pn: Marquesan          ehua               ‘Antares’ (Makemson 1941:207)
 PNPn *mele-mele ‘Venus or Antares’
@@ -8855,14 +8853,11 @@ POc *sipo ‘go down, downwards’ (see also p.271)
  MM: Tomoip           tio             ‘(sun) set’
  SES: Lau             sifo            ‘late afternoon rain’
  SES: ’Are’are        siho            ‘(sun) set’
- Mic Chuukese             w
-                      tup u           ‘setting (western) position of a heavenly body’
- Mic: Puluwatese      tupwu           ‘(sun) set’
- Mic: Carolinian          w
-                      tub u           ‘sink, go down, set (of sun, moon, stars)’.
-                          w
-                      tub ul          (N) ‘setting, setting position of stars etc.’
- Mic: Woleaian        tuu            ‘set, of heavenly bodies’ (e.g. tuuri-werexe ‘Ursa Major setting’, tuuri-yaro ‘setting sun’)
+ Mic: Chuukese        tupʷu           ‘setting (western) position of a heavenly body’
+ Mic: Puluwatese      tupʷwu           ‘(sun) set’
+ Mic: Carolinian      tʉbʷʉ           ‘sink, go down, set (of sun, moon, stars)’
+ Mic: Carolinian      tubʷul          (N) ‘setting, setting position of stars etc.’
+ Mic: Woleaian        tuɸu            ‘set, of heavenly bodies’ (e.g. tuɸuri-werexe ‘Ursa Major setting’, tuɸuri-yaro ‘setting sun’)
  Fij:   Bauan         ðivo-ðivo       ‘wind sweeping down from hills’
  Pn:    Samoan        ifo             ‘downwards’
  Pn:    Tongan        hifo            ‘downwards’
@@ -9642,7 +9637,7 @@ POc *lapuat ‘big, important’ (Lichtenberk 1986:350: *la(m)pat ‘(be) big, g
  NCV:     Raga                  lavoa                  ‘big, important’
  NCV:     Lewo                  lapa                   ‘fat’
  NCV:     Nguna                 lapa                   ‘big, important’
- SV:      Lenakel               ipwər7                 ‘big, important’
+ SV:      Lenakel               ipwər [7]                 ‘big, important’
  SV:      N Tanna               empwət                 ‘big, important’
  SV:      Whitesands            epwət                  ‘big, important’
  SV:      Anejom                (a)lpwas               ‘big, important’
@@ -9654,6 +9649,10 @@ POc *lapuat ‘big, important’ (Lichtenberk 1986:350: *la(m)pat ‘(be) big, g
  cf. also:
  NNG: Mapos Buang               levk                   ‘big, important’
  NNG: Patep                     lɛvak                  ‘big, important’
+
+[7] John Lynch (pers. comm.) points out that the initial i- of Lenakel ipwər is the regular reflex of POc *l-,
+  whilst the initial e- of N. Tanna empwət and Whitesands epwət reflects a sequence of accreted *a- (cf.
+  Anejom a- in (a)lpwas) and *-i- reflecting POc *l-.
 >
 198    Malcolm Ross
 
@@ -9668,10 +9667,6 @@ an adjectival verb; Ross 1998a).
 
    In Proto Polynesian, *riki (reflecting POc *riki(t,q)) had become plural, contrasting
 with PPn *qiti ‘small (SG)’ (from POc *qitik), but there is no evidence that this had
-
-[7] John Lynch (pers. comm.) points out that the initial i- of Lenakel ipwər is the regular reflex of POc *l-,
-  whilst the initial e- of N. Tanna empwət and Whitesands epwət reflects a sequence of accreted *a- (cf.
-  Anejom a- in (a)lpwas) and *-i- reflecting POc *l-.
                                                           Properties of inanimate objects      199
 
 occurred at an earlier interstage. This contrast is reflected in the following compounds,
@@ -9746,7 +9741,7 @@ POc *riki(t,q) ‘small’, *ri-riki(t,q) ‘small (PL)’
  Pn:    Niuean             iki-iki           ‘small’
  Pn:    Tokelauan          liki              ‘small-sized’
  Pn:    Tuvalu             liki              ‘small (of person or chicken)’
- Pn:    Rennnellese giki                     ‘small’
+ Pn:    Rennellese giki                     ‘small’
  Pn:    Tikopia            riki              ‘small’
  Pn:    Sikaiana           liki-liki         ‘small’
  Pn:    Sikaiana           li-liki           ‘small (PL)’
@@ -9759,7 +9754,7 @@ POc *riki(t,q) ‘small’, *ri-riki(t,q) ‘small (PL)’
  Pn:    Futuna-Aniwa rik-riki                ‘small (PL)’ (cf. sisi SG)
 >
 <
-POc *drik(i(t,q)) ‘small’
+POc *drik(it,iq) ‘small’
  NNG: Amara               di-dik          ‘small’
  Mic: Kosraean            ṣik            ‘small’
  Mic: Carolinian          -ṣix           ‘small, little, weak (in compounds only)’
@@ -9783,7 +9778,7 @@ POc *liki ‘small’ (perhaps only in compounds)
  Pn:     Tongan            -liki           ‘small (in compounds only)’
  Pn:     Samoan            liʔi            ‘scattered in small fragments’
  Pn:     Ifira-Mele        -riki           ‘small’
- Pn:     Takuu             -riki           diminutive
+ Pn:     Takuu             -riki           (diminutive)
 >
                                                        Properties of inanimate objects   201
 
@@ -10272,7 +10267,7 @@ PNGOc *paqu, *paqoRu ‘new, young’
  SJ:    Sobei        fe-fou                        ‘new’
  PT:    Tawala       wou-na                        ‘new’
  PT:    Misima       va-valu-na                    ‘new’
- PT:    Kiriwina     -vau[15]                        ‘new’
+ PT:    Kiriwina     -vau [15]                     ‘new’
  MM: Bali            vaɣoru                        ‘new’
  MM: Nalik           fakur                         ‘new’
  MM: Tabar           vouru                         ‘new’
@@ -10303,10 +10298,10 @@ POc *ka(l,r)abwa ‘new’
  MM: Nakanai           halaba [16]           ‘new’
  MM: Tolai             kalama             ‘new’
  NCV: Tamambo          haramba            ‘new’
- NCV: Mota             garagwa            ‘new’
+ NCV: Mota             garagʷa            ‘new’
  NCV: Raga             gara               ‘new’ (unexpected loss of final syllable)
  NCV: Tolomako         garavu             ‘new’
- NCV: Nduindui         karaᵑgwa           ‘new’
+ NCV: Nduindui         karaᵑgʷa           ‘new’
 
 [16] Nakanai h reflects POc *q, not *k.
 >
@@ -10433,7 +10428,7 @@ POc *meRaq ‘red’
  SES: ’Are’Are        me-mera(ʔa)        ‘red’
  NCV: Mota            me-mea             ‘red’
  NCV: NE Ambae        memea              ‘be red, redden’
- NCal: Xârâcùù        mƭã                ‘red’
+ NCal: Xârâcùù        mĩã                ‘red’
  Pn:   Tongan         mea                ‘reddish’
  Pn:   Rapanui        mea-mea            ‘red’
  Pn:   Rapanui        mea                ‘light red, pink’
@@ -10457,7 +10452,7 @@ POc *[ma]karawa ‘green, blue’
  MM:      Sursurunga       məkrau              ‘green’
  MM:      Maringe          ka-kahra            ‘green, light blue’
  Mic:     Woleaian         xāẓawe-ẓaw        ‘green’
- Fij:     Rotuman          þarava              ‘blue’
+ Fij:     Rotuman          čarava              ‘blue’
  Fij:     Bauan            kara-karawa         ‘blue; k.o. blue-green fish’
  Fij:     Wayan            karawa              (V) ‘be blue, blue-green, green’
  Fij:     Wayan            kara-karawa         (V, ADJ) ‘blue, blue-green, green’
@@ -10467,11 +10462,11 @@ POc *[ma]karawa ‘green, blue’
 <
 PEOc *marawa ‘green, blue’
  SES: Talise          marao                    ‘green, blue’
- SES: Longgu          mwarawa                  ‘green, blue’
- SES: Kwaio           malakwa                  ‘green’
+ SES: Longgu          mʷarawa                  ‘green, blue’
+ SES: Kwaio           malakʷa                  ‘green’
  SES: Arosi           marawā                   ‘green, blue (if bright)’
  Mic: Kiribati        māwawa                   ‘green, blue’
- Mic: Marshallese maṛɯoṛɯo                   ‘green’
+ Mic: Marshallese     maṛɯɔṛɯɔ                 ‘green’
 >
 
    Blust (2001) observes that colour terms with a reduplicated root are common in Oceanic
@@ -10554,7 +10549,7 @@ POc *[yaŋo]yaŋo ‘yellow’
  SV:    Sye              (mel)yeŋ               ‘yellow’
  SV:      Ura                (mel)yeŋ, (un)iaŋ       ‘yellow’
  SV:      Anejom             yaŋ                     ‘yellow’
- Mic:     Ponapean           oŋoŋ                   ‘yellow’ (oŋ ‘turmeric’)
+ Mic:     Ponapean           ɔŋɔ̄ŋ                   ‘yellow’ (ɔ̄ŋ ‘turmeric’)
  Mic:     Woleaian           yaŋo-yaŋ                ‘yellow’ (yaŋ ‘ginger’)
  Fij:     Wayan              aŋo-aŋo                 (V, ADJ) ‘(be) yellow’
  Pn:      Tongan             eŋa-eŋa                 ‘yellow’ (eŋa ‘turmeric’)
@@ -10761,7 +10756,7 @@ POc *[t,d]onu(p) ‘straight’[22]
  MM: Laghu              to-tonu             ‘straight’
  NCV: Kiai              tu-tunu             ‘good, straight, sweet’
  NCV: Labo              tən                 ‘straighten an arrow in the fire’
- SV:     Kwamera             (a)tuən            verbal adjunct: implies straightening
+ SV:     Kwamera             (a)tuən            (verbal adjunct: implies straightening)
  Fij:    Bauan               donu               ‘(be) straight, true, correct’
  Fij:    Wayan               donu               ‘(be) right, correct, true’
  Pn:     Tongan              tonu               ‘be exact, be correct, be right’
@@ -10806,8 +10801,8 @@ attested.
 
 <
 PWOc *kalis ‘crooked’
- NNG: Takia                  kael(a-n)          ‘crooked
- MM: Sursurunga              kalis              ‘crooked
+ NNG: Takia                  kael(a-n)          ‘crooked’
+ MM: Sursurunga              kalis              ‘crooked’
 >
 
 
@@ -10853,9 +10848,9 @@ PMP *[ma]Raqan ‘light in weight’ (ACD)
 POc *[ma]Raqan ‘light in weight’
  PT:   Motu           haraɣa         ‘easy, light (in weight)’
  NNG: Bariai          malan          ‘light in weight’
- NNG: Sio             malalbka       ‘light in weight’
+ NNG: Sio             malalɒka       ‘light in weight’
  NNG: Tami            malaga-lag     ‘light in weight’
- NNG: Aria            mar¿kan        ‘light in weight’
+ NNG: Aria            mar̃kan        ‘light in weight’
  MM: Vitu             maraɣa         ‘light in weight’
  MM: Nakanai          mara-mara      ‘lightened, relieved’
  SES: Gela            ma-mala        ‘light in weight’
@@ -10917,7 +10912,7 @@ POc *[ma]lumu ‘soft, gentle, easy’
 PPn *malū ‘soft (of a substance), calm (of day, sea)’ (irregular loss of *-m- in all Polynesian reflexes)
  Pn:    Tongan        malū            ‘soft, tender, flexible; (weather) mild, pleasantly calm; (pain) abated’
  Pn:    Niuean        molū            ‘soft, weak, humble’
- Pn:    Samoan        malū            ‘(substance) soft; (sea +) calm; (voice) bass
+ Pn:    Samoan        malū            ‘(substance) soft; (sea +) calm; (voice) bass’
  Pn:    E Uvean       malū            ‘calm, peaceful’
  Pn:    E Futunan     malū            ‘soft’
  Pn:    Rennellese    magū            ‘be soft, be slack’
@@ -11055,7 +11050,7 @@ POc *ma-ri(d)ri(ŋ) ‘(s.o.) cold’
  NNG: Kaulong               ŋlik           ‘cold’
  NNG: Poeng                 ma-mariri      ‘(s.o.) cold’
  NNG: Kaiep                 marir          ‘(s.o.) cold’
- NNG: Kairiru               -mer¿ir¿       ‘(s.o.) cold’
+ NNG: Kairiru               -mer̃ir̃       ‘(s.o.) cold’
  SJ:   Kayupulau            mariri-e       ‘(s.o.) cold’
  NCV: Raga                  masisi         ‘cold’
  NCV: Merlav                marir          ‘(s.o.) cold’
@@ -11167,7 +11162,7 @@ POc *[ma]maca (V) ‘dry up, evaporate, be empty of liquid’; (N) ‘low tide�
 
 
 <
-POc *[ma-](r,R)aŋo displays a phonological problem. Apparent non-Oceanic cognates of
+ POc *[ma-](r,R)aŋo displays a phonological problem. Apparent non-Oceanic cognates of
 the root *raŋo reflect PMP *Raŋaw, so we would expect the reconstructable POc form to
 be **Raŋo. But Oceanic languages which reflect POc *r and *R differently are not in
 accord with each other: SES and NCV languages have a reflex of *r whilst Pn languages
@@ -11189,7 +11184,7 @@ POc *[ma]Raŋo ‘become withered (of vegetation)’[24]
  SES:    Sa’a            raŋo            ‘be withered, dry (esp. yams when vine withers)’
  SES:    Arosi           raŋo            ‘withered, dead (of grass, green boughs +)’
  NCV:    Mota            raŋo            ‘become dried up in the course of nature’
- Pn:     Samoan          maŋo            ‘dry up; be dry (of wood, clothes)’``
+ Pn:     Samoan          maŋo            ‘dry up; be dry (of wood, clothes)’
  Pn:     Niuean          maŋo            ‘dry (of wood, trees)’
 
 [24] In Ross (1996c) I reconstructed POc *[ma]Raŋ(o,u) ‘dry; coconut growth stage 8: dry and ready to fall’.
@@ -11208,10 +11203,9 @@ POc *ka-(r,R)aŋo ‘be dry; be low tide’
  SES: Lengo            karaŋo            ‘low tide’
 >
 <
-POc *goRu ‘dry, of vegetation; coconut growth stage 8: dry and ready to fall’ (Ross
- 1996c)
+POc *goRu ‘dry, of vegetation; coconut growth stage 8: dry and ready to fall’ (Ross 1996c)
  NNG: Mutu           gor-gori        ‘dry’
- NNG: Malai          gor-gori        ‘dry , ripe coconut’
+ NNG: Malai          gor-gori        ‘dry, ripe coconut’
  NNG: Kakuna         kolu-ŋana       ‘ripe coconut’
  SES: Lengo          golu            ‘coconut flesh’
  NCV: Mota           kor             ‘become dry, with heat or time; coconut in its last condition before it falls from the tree; dry (of other things too)’
@@ -11552,46 +11546,46 @@ preposition.
 
 PAn *i (PREP) locative (ACD)
 POc *i (PREP w PLC, N LOC) locative
- Adm: Mussau                 e-       fossilised prefix on locative nouns
- Adm: Penchal                i        (PREP) locative, temporal, allative, instrumental
- Adm: Lou                    e        (PREP) locative, allative
- NNG: Manam                  e-       locative prefix (e.g. e-lau ‘seawards’)
- PT:     Molima              i-       locative prefix
- PT:     Sudest              e        (PREP) locative
- MM: Tigak                   e        (PREP w PLC) locative
- MM: Kara                    i        (PREP) locative
- MM: Nalik                   i-       prefix on locative demonstratives
- MM: Tabar                   i        (PREP w PLC, N LOC) locative
- MM: Lihir                   i        (PREP w PLC, N LOC) locative
- MM: Sursurunga              i        (PREP) locative, temporal
- MM: Ramoaaina               i-       prefix on locative demonstratives
- MM: Halia                   i        (PREP) locative
- MM: Taiof                   i        (PREP w predicate N LOC) locative
- SES: Bugotu                 i        (PREP) locative
- SES:    Gela                i        (PREP w N LOC) locative
- SES: Lengo                  i        (PREP) locative
- SES: Longgu                 i        (PREP w N LOC) locative
- SES: Lau                    i        (PREP w PLC, N LOC) locative
- SES: Kwaio                  i        (PREP) locative
- SES: Kwara’ae               i        (PREP) locative
- SES: Sa’a                   i        (PREP) locative
- SES: Arosi                  i        (PREP) locative
- NCV: Mota                   i        (PREP) locative
- NCV: Merlav                 i        (PREP) locative
- NCV: Nguna                  e-       (PREP) locative
- SV:     Kwamera             i-       prefix on locative nouns
- SV:     Lenakel             i-       prefix on locative nouns
- SV:     Anejom              i-       prefix on locative nouns
- NCal: Iaai                  e-       prefix on locative adverbs
- Fij:    Wayan               i        (PREP) locative
- Fij:    Bauan               e        (PREP) locative
- Pn:     Tongan              i, ʔi    (PREP) locative
- Pn:     Niuafo’ou           ʔi       (PREP) locative
- Pn:     E Futunan           i        (PREP) locative
- Pn:     E Uvean             ʔi       (PREP) locative
- Pn:     Samoan              i        (PREP) locative
- Pn:     Pileni              i        (PREP) locative
- Pn:     Marquesan           ʔi       (PREP) locative
+ Adm: Mussau                 e-       (fossilised prefix on locative nouns)
+ Adm: Penchal                i        (PREP) (locative, temporal, allative, instrumental)
+ Adm: Lou                    e        (PREP) (locative, allative)
+ NNG: Manam                  e-       (locative prefix, e.g. e-lau ‘seawards’)
+ PT:     Molima              i-       (locative prefix)
+ PT:     Sudest              e        (PREP) (locative)
+ MM: Tigak                   e        (PREP w PLC) (locative)
+ MM: Kara                    i        (PREP) (locative)
+ MM: Nalik                   i-       (prefix on locative demonstratives)
+ MM: Tabar                   i        (PREP w PLC, N LOC) (locative)
+ MM: Lihir                   i        (PREP w PLC, N LOC) (locative)
+ MM: Sursurunga              i        (PREP) (locative, temporal)
+ MM: Ramoaaina               i-       (prefix on locative demonstratives)
+ MM: Halia                   i        (PREP) (locative)
+ MM: Taiof                   i        (PREP w predicate N LOC) (locative)
+ SES: Bugotu                 i        (PREP) (locative)
+ SES:    Gela                i        (PREP w N LOC) (locative)
+ SES: Lengo                  i        (PREP) (locative)
+ SES: Longgu                 i        (PREP w N LOC) (locative)
+ SES: Lau                    i        (PREP w PLC, N LOC) (locative)
+ SES: Kwaio                  i        (PREP) (locative)
+ SES: Kwara’ae               i        (PREP) (locative)
+ SES: Sa’a                   i        (PREP) (locative)
+ SES: Arosi                  i        (PREP) (locative)
+ NCV: Mota                   i        (PREP) (locative)
+ NCV: Merlav                 i        (PREP) (locative)
+ NCV: Nguna                  e-       (PREP) (locative)
+ SV:     Kwamera             i-       (prefix on locative nouns)
+ SV:     Lenakel             i-       (prefix on locative nouns)
+ SV:     Anejom              i-       (prefix on locative nouns)
+ NCal: Iaai                  e-       (prefix on locative adverbs)
+ Fij:    Wayan               i        (PREP) (locative)
+ Fij:    Bauan               e        (PREP) (locative)
+ Pn:     Tongan              i, ʔi    (PREP) (locative)
+ Pn:     Niuafo’ou           ʔi       (PREP) (locative)
+ Pn:     E Futunan           i        (PREP) (locative)
+ Pn:     E Uvean             ʔi       (PREP) (locative)
+ Pn:     Samoan              i        (PREP) (locative)
+ Pn:     Pileni              i        (PREP) (locative)
+ Pn:     Marquesan           ʔi       (PREP) (locative)
 
 Tongan, Niuafo’ou and East Uvean ʔi are phonologically problematic, as they reflect POc
 *qi, the form of the genitive preposition governing a non-specific inalienable possessor
@@ -11618,20 +11612,20 @@ local noun. The cognate set is listed below. This is the *qa- which Pawley (1972
 found in Southeast Solomonic and Northern Vanuatu languages as a formative of temporal
 adverbs (Ch. 9, p.324).
 
-POc *qa- local adverb formative
- NNG:     Bariai               ga-           local adverb formative
- NNG:     Manam                a-            local adverb formative (fossil)
- NNG:     Kairiru              qa-           local adverb formative (fossil)
- MM:      Vitu                 ɣe-           local adverb formative
- MM:      Siar                 a-            local adverb formative
- MM:      Tolai                a-            local adverb formative
- SES:     Gela                 ɣa-           local adverb formative (fossil)
- NCV:     Mota                 a-            local adverb formative
- NCV:     NE Ambae             a-            local adverb formative
- NCV:     Raga                 a-            local adverb formative
- NCV:     Port Sandwich        a-            local adverb formative
- NCV:     Tamambo              a-            local adverb formative
- NCV:     Paamese              a-            local adverb formative (fossil)
+POc *qa- (local adverb formative)
+ NNG:     Bariai               ga-           (local adverb formative)
+ NNG:     Manam                a-            (local adverb formative; fossil)
+ NNG:     Kairiru              qa-           (local adverb formative; fossil)
+ MM:      Vitu                 ɣe-           (local adverb formative)
+ MM:      Siar                 a-            (local adverb formative)
+ MM:      Tolai                a-            (local adverb formative)
+ SES:     Gela                 ɣa-           (local adverb formative; fossil)
+ NCV:     Mota                 a-            (local adverb formative)
+ NCV:     NE Ambae             a-            (local adverb formative)
+ NCV:     Raga                 a-            (local adverb formative)
+ NCV:     Port Sandwich        a-            (local adverb formative)
+ NCV:     Tamambo              a-            (local adverb formative)
+ NCV:     Paamese              a-            (local adverb formative; fossil)
 
 There also seems to have been an alternant *ŋa-, reflected in Poeng (NNG) ŋa-, Nakanai
 (MM) ga-, Longgu (SES) ŋa- and Samoan, Tikopia (Pn) ŋa-, but it is not strongly attested.
@@ -11667,10 +11661,10 @@ Pacific islands.
 
 PAn *quCaN ‘scrubland, bush’ (ACD)
 PMP *qutan ‘small wild herbaceous plants; scrubland, bush’ (ACD; Dempwolff 1938)
-POc (N)*qutan ‘bushland, hinterland’, (N LOC) *qutan, (ADV) *qa-qutan ‘in the bush, inland’
- NNG: Manam            -uta       (root of adverbials) ‘inland’
+POc (N) *qutan ‘bushland, hinterland’, (N LOC) *qutan, (ADV) *qa-qutan ‘in the bush, inland’
+ NNG: Manam            -uta       ‘inland’ (root of adverbials)
  NNG: Manam            (a)uta     (N) ‘inland’
- NCV: Mota             uta        ‘bush, forest, unoccupied land; the inland country
+ NCV: Mota             uta        ‘bush, forest, unoccupied land; the inland country’
  NCV: NE Ambae         (a)ute     (ADV) ‘up in the bush’
  NCV: Tamambo          (a)uta     (ADV) ‘inland direction’
  NCV: Paamese          ut         (N LOC) ‘ashore’
@@ -11679,9 +11673,9 @@ POc (N)*qutan ‘bushland, hinterland’, (N LOC) *qutan, (ADV) *qa-qutan ‘in 
  SV:     Lenakel       -ət, -it   (DIR) ‘upwards’
  SV:     Kwamera       (p)uta     (N LOC) ‘up, upwards, on top of’
  Mic:    Kosraean      wʌt        (N) ‘area inland or towards the mountains’
- Mic:    Marshallese (e)bc       (N) ‘interior of an island’
+ Mic:    Marshallese (e)ɒ̄c       (N) ‘interior of an island’
  Mic:    Mokilese      (e)wic     (N) ‘inland’
- Fij:    Rotuman       ufa        ‘land (from the sea); interior (from the coast’)
+ Fij:    Rotuman       ufa        ‘land (from the sea); interior (from the coast)’
  Pn:     Tongan        ʔuta       (N LOC) ‘inland (from shore); shore, land (from sea)’
  Pn:     Niuafo’ou     (ŋā)ʔuta   (N LOC) ‘upland’
  Pn:     Samoan        uta        (ADV) ‘on shore, inland’; (N LOC) i uta ‘on the side facing the land’ as opposed to i tai ‘on the side facing the sea’
@@ -11706,7 +11700,7 @@ POc (N) *loŋa ‘inland’, (N LOC) *loŋa ‘inland’
  SES:    Bugotu             loŋa, (i)loŋa         ‘landwards, from sea’
  SES:    Gela               loŋa, (i)loŋa         ‘landwards, inland’
  SES:    Longgu             loŋa                  (N LOC) ‘direction towards bush’
- SES:    Kwaio              (i ka)loŋa            ‘in the forest’
+ SES:    Kwaio             | (i ka)loŋa |           ‘in the forest’
  Mic:    Marshallese        -lʌŋ                  (DIR) ‘upward’
  Mic:    Puluwatese         -loŋ                  (DIR) ‘inland’
  Mic:    Woleaian           roŋ                   (DIR) ‘inland’
@@ -11739,10 +11733,10 @@ there, at the beach’).
 PMP *lahud ‘downriver, towards the sea’ (Dempwolff 1938, Blust 1997)
 POc (N LOC)*laur ‘sea, seawards’; (ADV) *qa-laur ‘in a seaward direction’
  Yap:   Yapese           lʔāy         ‘seaward’
- NNG: Manam              -lau         (root of adverbials) ‘seawards’
+ NNG: Manam              -lau         ‘seawards’ (root of adverbials)
  NNG: Manam              (i)lau       (N) ‘seawards’
  MM: Nakanai             (go)lau      ‘go toward the sea’
- MM: Meramera            -lau         (root of adverbials) ‘beach’
+ MM: Meramera            -lau         ‘beach’ (root of adverbials)
  MM: Kokota              rauru        ‘seaward’
  SES:   Bugotu           lau, (i)lau  ‘seawards’ (as opposed to i-loŋa ‘landwards, inland, towards land’)
  SES:   Gela             lau, (i)lau  ‘seawards, shorewards from a speaker inland, (river) bank’ (as opposed to i-loŋa ‘landwards, inland, towards land’)
@@ -11758,15 +11752,15 @@ POc (N LOC)*laur ‘sea, seawards’; (ADV) *qa-laur ‘in a seaward direction�
 <
 PMP *tasik ‘sea’ (Dempwolff 1938)
 POc (N)*tasik ‘sea, salt water’, (N LOC) *tasik ‘at sea’
- MM: Lihir                (i) tes         ‘at sea’
+ MM: Lihir               | (i) tes |        ‘at sea’
  MM: Ramoaaina            (nə)tai         ‘on the sea, out to sea’ (not ‘seawards’)
  MM: Tolai                (na)ta          ‘on the sea, out to sea’ (not ‘seawards’)
  SES:    Longgu           asi             (N LOC) ‘seawards’
- SES:    Kwaio            (i) asi         ‘at the coast’
- SV:     Lenakel          (i)rhe          (ADV)‘ at/to sea’
+ SES:    Kwaio           | (i) asi |        ‘at the coast’
+ SV:     Lenakel          (i)rhe          (ADV) ‘at/to sea’
  Fij:    Wayan            taði            (N LOC) ‘coast, seashore, sea, from the perspective of the land’
  Pn:     Niuafo’ou        (ŋā)tai         (N LOC) ‘outer sea’
- Pn:     Samoan           tai             (ADV) ‘at sea’, (i tai ‘on the side facing the sea’, as opposed to i uta ‘on the side facing the land’)
+ Pn:     Samoan           tai             (ADV) ‘at sea’ (i tai ‘on the side facing the sea’, as opposed to i uta ‘on the side facing the land’)
  Pn:     Samoan           (ŋā)tai         (ADV) ‘to sea’
  Pn:     Marquesan        tai             (N LOC) ‘sea’
 >
@@ -11811,10 +11805,10 @@ PAn *Rumaq ‘dwelling house’ (Blust 1987)
 POc (N)*Rumaq ‘house’, (N LOC) *Rumaq, (ADV) *qa-Rumaq ‘at home’
  PT:    Saliba         numa          (N LOC) ‘home’
  MM: Nakanai           (go)luma      ‘go to nearest hamlet, usually one’s home’
- MM: Meramera          -luma         (root of adverbials) ‘home’
+ MM: Meramera          -luma         ‘home’ (root of adverbials)
  MM: Ramoaaina         (nə)ruma      ‘at home’
  MM: Taiof             numa          (N LOC) ‘home’
- NCV: Tamambo          (a)imo        (ADV) ‘at home
+ NCV: Tamambo          (a)imo        (ADV) ‘at home’
  NCV: Paamese          (tela)im      (N LOC) ‘home’
  NCV: Lewo             umʷa         (N LOC) ‘home’
  SV:    Lenakel        īmʷa          ‘at home, homewards’ (cf. nimwa ‘house’)
@@ -11909,7 +11903,7 @@ reflexes below suggest that it was also used as a POc local noun.
 PAn *laŋiC ‘sky’ (Dempwolff 1938)
 POc (N) *laŋit ‘sky, weather’, (N LOC) *laŋit ‘up top, high up’
  Yap:    Yapese             lǣŋ            ‘up’
- SES: Lau                   (i) laŋi-       ‘up, above’
+ SES: Lau                  | (i) laŋi- |      ‘up, above’
  SES: Kwaio                 laŋi-           ‘space above’
  NCV: Mota                  laŋ             ‘upwards, heavenwards’
  NCV: Nguna                 (e)laŋi         ‘up, high, above, top’
@@ -11964,7 +11958,7 @@ and a different meaning—‘outside’—suggests that POc *lua ‘outside’ m
 separate etymon, and also a local noun.
 
 PMP *liwaŋ ‘open space’ (ACD: Proto Western Malayo-Polynesian)
-POc (N) *liwaŋ, *liwa-/*liwaŋa- ‘open space, space between, middle’, (N LOC) *liwaŋ ‘in the middle’
+POc (N) *liwaŋ, *liwa-, *liwaŋa- ‘open space, space between, middle’, (N LOC) *liwaŋ ‘in the middle’
  Adm: Loniu                (loho)luwa-          ‘middle’
  NNG: Mangap               lwo-                 ‘torso; middle’
  NNG: Manam                luʔaŋa-              ‘space in middle’
@@ -12094,14 +12088,14 @@ POc (N, N LOC) *lalo-, *lalom ‘inside’
  NCV:     Port Sandwich      nalö-n       ‘inside; seat of feelings’
  SV:      Kwamera            reri-        ‘internal portion, insides, heart, mind, feeling, emotion’
  SV:      Anejom             lele-        ‘inside; heart, seat of feelings’
- NCal:    Tinrin             ñɯwɯɯ-        ‘inside’
+ NCal:    Tinrin             ñɯwɯ-        ‘inside’
  Mic:     Kiribati           (i)nano-n    ‘inside, in’
- Mic:     Kosraean           lwal         ‘deep’
- Mic:     Marshallese        i-lowa       ‘inside, in’
- Mic:     Marshallese        lalɯɯ         ‘down, bottom, below, earth, world’
- Mic:     Ponapean           lolɛ         ‘inside (it)’
- Mic:     Chuukese            44o4          ‘inside of’
- Mic:     Puluwatese          llon          ‘in it’
+ Mic:     Kosraean           lʷal         ‘deep’
+ Mic:     Marshallese        i-lɔwa       ‘inside, in’
+ Mic:     Marshallese        lalɯ         ‘down, bottom, below, earth, world’
+ Mic:     Ponapean           lɔlɛ         ‘inside (it)’
+ Mic:     Chuukese            ɾɾɔɾ          ‘inside of’
+ Mic:     Puluwatese          llɔn          ‘in it’
  Mic:     Woleaian            raro          ‘inside’
 PPn *lalo ‘region underneath’
  Pn:     Tongan              lalo           ‘below, under’
@@ -12176,23 +12170,21 @@ POc (N)*bwal(o,a)-, *bwal(o,a)k ‘belly; hollow space’, (N LOC) ‘inside’
  Adm: Titan            pólo-n               (PREP) ‘among, inside’
  NNG: Kairiru          balai                ‘inside’
  MM: Vitu              polok                ‘inside’
- MM: Sursurunga polgo                       ‘inside’
- MM: Tolai             (ta ra) bala-na      ‘inside, in’ (ta PREP, ra ART, bala- ‘belly, interior’)
- NCV: Raga               w
-                       b ala                ‘shell’
-                         w
- NCV: Raga             b ala(lolo)          ‘middle’
+ MM: Sursurunga        polgo                ‘inside’
+ MM: Tolai            | (ta ra) bala-na |     ‘inside, in’ (ta PREP, ra ART, bala- ‘belly, interior’)
+ NCV: Raga             bʷala                ‘shell’
+ NCV: Raga             bʷala(lolo)          ‘middle’
  NCV: Lonwolwol bwele-n                     ‘hollow vessel, empty shell’
  NCV: Paamese          vale(-ŋe-ne)         ‘hollow part of something, cave’
  NCV: Namakir          bwele-n              ‘belly’
  NCV: Nguna            (na-)pwele           ‘stomach, belly, abdomen, waist, genital region’
- NCV: Nguna            (na)-pwala( u-na) ‘among, middle, inside’
+ NCV: Nguna           | (na)-pwala( u-na) | ‘among, middle, inside’
 >
 <
 PMP *tinaqi ‘small intestine’ (Blust 1981)
 POc (N)*tinaqe- ‘intestines; ?? (N LOC) inside’
  Adm: Drehet             kxine              ‘inner part, inside’
- PT:     Tawala          (u) hine-na        ‘inside, in’
+ PT:     Tawala         | (u) hine-na |     ‘inside, in’
  PT:     Iduna           hinage-ne          ‘inside’
  PT:     Gapapaiwa       sine               ‘inside’
  PT:     Sudest          tine               ‘inside’
@@ -12221,7 +12213,7 @@ ousted by reflexes of POc *ruku- ‘underneath’ (see below), in Polynesian lan
 reflexes of POc *lalom ‘inside’ (p.247).
 
 PMP *babaq ‘lower surface, bottom, underside’ (ACD)
-POc (N, N LOC)*papa-,*pa-, *papak, *pak ‘underneath, lower surface, bottom, underside’
+POc (N, N LOC) *papa-, *pa-, *papak, *pak ‘underneath, lower surface, bottom, underside’
  Adm: Mussau           pak(e)          ‘underside’
  Adm: Loniu            paʔaha-         ‘underside’ (metathesis of *pahaʔa- < *papaqa- with unexplained final *-a-)
  Adm: Drehet           pehe(kxa-)      ‘underside’
@@ -12296,8 +12288,8 @@ POc (N, N LOC) *ruku- ‘underneath, undersurface (?)’
 >
 <
 POc (N, N LOC) *gabwari- ‘the area underneath a raised house’ (vol. 1, p.51)
- Adm: Titan             kapwaliŋ         ‘area underneath a house’
- NNG: Mapos Buang ɣ̙bi(ne)               ‘underneath’
+ Adm: Titan             kapʷaliŋ         ‘area underneath a house’
+ NNG: Mapos Buang       ɣbi(ne)          ‘underneath’
  NNG: Mangga            kabi(ni)         ‘underneath’
  NNG: Patep             ŋbi-             ‘underneath’
  PT:     Gumawana       gabula           ‘underneath’
@@ -12311,12 +12303,12 @@ POc (N, N LOC) *gabwari- ‘the area underneath a raised house’ (vol. 1, p.51)
 
 <
 PMP *puqun ‘beginning, cause, origin, source, basis’ (ACD)
-POc (N, N LOC) *puqu-, puqun ‘base, foundation, origin, source, reason’
+POc (N, N LOC) *puqu-, *puqun ‘base, foundation, origin, source, reason’
  Adm: Loniu             puʔu-           ‘bottom, underside’
  NNG: Tami              pu-             ‘base, origin’
  NNG: Mangga            kabi(ni)        ‘underneath’
  NNG: Takia             fu-n            ‘bottoms’
- NNG: Yabem             m              ‘origin’[13]
+ NNG: Yabem             m̀              ‘origin’[13]
  NNG: Bukawa            (ŋa)pu          ‘underside’
  NNG: Mangga            vu              ‘underside’
  NNG: Wampar            fo(n)           ‘origin’
@@ -12354,19 +12346,19 @@ hence ‘outside’ it.
 
 
 PMP *babaw ‘upper surface, top; above; highlands’ (ACD)
-POc (N, N LOC) *papo[-],*po[-] ‘upper surface, top’
+POc (N, N LOC) *papo[-], *po[-] ‘upper surface, top’
  Adm: Mussau              po(na)           ‘top’
  NNG: Tami                [ka]popo-        ‘top (of s.t.)’
  NNG: Tami                po               ‘above’
  NNG: Takia               fo               (POSTPOSITION) ‘on’
  NNG: Numbami             wao-             ‘above’
- NNG: Yabem               aö              ‘upwards’
- NNG: Yabem               (ŋ)aö           ‘upper surface’
+ NNG: Yabem               aɔ̀           ‘upwards’
+ NNG: Yabem               (ŋ)aɔ̀      ‘upper surface’
  NNG: Kela                baba             ‘topside’
  NNG: Mapos Buang         vavu             ‘up top’
  NNG: Mapos Buang         vavu(ne)         ‘upwards’
  NNG: Wampar              we(ŋ)            ‘topside’
- NNG: Yalu                wa9(g)           ‘topside’
+ NNG: Yalu                waʋ(g)           ‘topside’
  NNG: Adzera              wagu(ŋ)          ‘topside’
  MM: Notsi                papa-            ‘topside’
  MM: Tabar                popo-            ‘topside’
@@ -12378,16 +12370,15 @@ POc (N, N LOC) *papo[-],*po[-] ‘upper surface, top’
  SES:    Sa’a             haho-            ‘above’
  SES:    Arosi            haho-            ‘topside’
  NCV: Mota                vawo             ‘above, upon’
- NCal: Nemi                 w
-                          p ap             ‘outside’
+ NCal: Nemi               pʷap             ‘outside’
  Mic:    Kiribati         āo               ‘upper part of, surface, outside, back’
  Mic:    Kiribati         (i)ao-           ‘on, on top’
  Mic:    Kosraean         fɛ-              ‘above, on’
  Mic:    Marshallese      ɛwɛ-             ‘on; upon; top; surface; over’
  Mic:    Mokilese         pō-              ‘on’
- Mic:    Chuukese         wo-4            ‘above, on it’
- Mic:    Puluwatese       wo-n            ‘above, on it’
- Mic:    Woleaian         wo-             ‘on, topside, upside’
+ Mic:    Chuukese         wɔ̄-ɾ            ‘above, on it’
+ Mic:    Puluwatese       wɔ̄-n            ‘above, on it’
+ Mic:    Woleaian         wɔ̄-             ‘on, topside, upside’
  Pn:     Samoan           fafo             ‘outside, out of doors, a place other than Samoa’
  Pn:     Rennellese       haho             ‘outside’
  Pn:     Maori            waho             ‘outside; open sea; coast, as opposed to inland’
@@ -12402,8 +12393,8 @@ relational nouns (cf. p.248), it is unsurprising that the word for ‘head’ an
 
 PAn *qulu ‘head’ (ACD)
 POc (N)*qulu[-] ‘head, (head) hair’, (N LOC) ‘top part’
- Adm: Mussau             ulu (bo)          ‘headwaters of a river’
- Adm: Nauna              kulu(n puli)      ‘(mountain) peak’
+ Adm: Mussau            | ulu (bo) |         ‘headwaters of a river’
+ Adm: Nauna             | kulu(n puli) |     ‘(mountain) peak’
  NNG: Yabem              lo-lo(ʔ)          ‘topside’
  NNG: Bukawa             lu-lu(ʔ)          ‘topside’
  PT:    Molima           ʔunu-ʔunu-        ‘head, forehead; (river) source’
@@ -12419,7 +12410,7 @@ POc (N)*qulu[-] ‘head, (head) hair’, (N LOC) ‘top part’
  SES:   Gela             ulu-              ‘head, except of a chief; (in compounds) hair; eastern end, upper end’
  SES:   Bugotu           ulu               ‘head, top end’
  SES:   Lau              ulu(nao)          ‘first-born, elder, senior’
- SES:   Lau              ulu-ulu-          (tree) topmost branch
+ SES:   Lau              ulu-ulu-          ‘(tree) topmost branch’
  SES:   ’Are’are         uru               ‘cloud, heaven, sky, top’
  NCV: NE Ambae           ulu-              ‘top’
  NCV: Tamambo            ulu-              ‘top part’
@@ -12622,8 +12613,7 @@ morphological pattern not found with other local nouns.
 as the local sense of ‘front’. It was thus the antonym of POc *muri[-] ‘back, time after’
 (§2.3.7).
 
-POc (N LOC)*muqa[-] ‘front’, *muqa ‘front, be in front’, *i muqa, *qa-muqa *muqa-muqa
- (ADV) ‘in front, formerly’
+POc (N LOC)*muqa[-] ‘front’, *muqa ‘front, be in front’, *i muqa, *qa-muqa *muqa-muqa (ADV) ‘in front, formerly’
  Yap:    Yapese             mʔōn         ‘front’
  Adm: Mussau                mua          ‘front’
  Adm: Titan                 mo(ndrol)    ‘bow of canoe’
@@ -12754,7 +12744,7 @@ POc (N, N LOC)*nako[-] ‘face, front’
  NNG: Gitua             nago              ‘face’
  NNG: Tami              nao               ‘front, face’
  NNG: Takia             nao-              ‘face’
- NNG: Takia             nao(-n na)        ‘in front of’ (N-P:3SG POSTPOSITION)
+ NNG: Takia            | nao(-n na) |       ‘in front of’ (N-P:3SG POSTPOSITION)
  PT:     Ubir           na(-na-i)         ‘in front of it, him’
  PT:      Tawala           nao-             ‘front/forward position’
  PT:      Tawala          | u nao-na |        ‘in front’ (PREP N-P:3SG)
@@ -12899,7 +12889,7 @@ POc *burit ‘hind part, rear, back’, (N, N LOC) ‘back part, rear, behind, s
  SES:    Longgu          buri-             ‘behind; after’
  SES:    Lau             buri              ‘back; behind, after; stern, rear’
  SES:    Lau             buri(wela)        ‘after-birth’
- SES:    Lau             (i) buri          ‘afterwards’
+ SES:    Lau            | (i) buri |         ‘afterwards’
  SES:    Kwaio           buli-na           ‘after’
  SES:    Kwaio           buli              ‘after, behind’
  SES:    ’Are’are        puri-na           ‘after’
@@ -12932,8 +12922,8 @@ POc (N, ? N LOC) *takuRu[-] ‘(s.o.’s) back’
  MM: Kia                taɣuru-             ‘back of s.t.; s.o.’s back’
  MM: Kokota             tagru-              ‘back of s.t.; s.o.’s back’
  MM: Maringe            tʰagru-             ‘back of s.t.; s.o.’s back’
- NCV Mota               tawur, tawuru- ‘back of s.t.; s.o.’s back’
- NCV Mota               (a)tawur            ‘behind’
+ NCV: Mota               tawur, tawuru- ‘back of s.t.; s.o.’s back’
+ NCV: Mota               (a)tawur            ‘behind’
  NCV: NE Ambae          tagu-               (N LOC) ‘space behind’
  NCV: Raga              (a)taɣu-            (N LOC) ‘behind’
  NCV: Port Sandwich (a)rax                  (N LOC) ‘behind’
@@ -12969,7 +12959,7 @@ reflect Proto Micronesian *i-fā rather than expected *i-fai.
 
 <
 PMP *pai ‘where?’ (ACD)
-POc (N LOC) *pai, *i pai ‘where at?’
+POc (N LOC) *pai, *|i pai| ‘where at?’
  NNG: Bebeli             ehae           ‘where?’
  NNG: Numbami            ai(a)          ‘where?’
  MM: Bali                ve(ni)         ‘where?’
@@ -13001,7 +12991,7 @@ POc (N LOC) *pai, *i pai ‘where at?’
  NCV:    Raga              (be)he          ‘where?’
  NCV:    Uripiv            (ni)be          ‘where?’
  NCV:    Lonwolwol         be              ‘where?’
- NCV:    Paamese           (e)ve          ‘where?’
+ NCV:    Paamese           (e)vē          ‘where?’
  NCV:    Lewo              pe              ‘where?’
  NCV:    Namakir           (-o)be-         ‘where?’
  Mic:    Chuukese          (i)fa           ‘where? how? what?’
@@ -13316,7 +13306,7 @@ POc *sipo ‘go down, downwards’
  NCV:    Tamambo        jivo               ‘go down’
  SV:     Sye            -sep, -hep         (DIR) ‘downward’
  SV:     Sye            yep                ‘go down’
- NCal:   Xârâcùù        ße                (DEM) ‘coming down’
+ NCal:   Xârâcùù        βē                (DEM) ‘coming down’
  Mic:    Kosraean       -yɛ                (DIR) ‘downward’
  Mic:    Mokilese       -ti                (DIR) ‘downward’
  Mic:    Puluwatese     -tiw               (DIR) ‘downward, west’
@@ -13443,7 +13433,7 @@ POc *sake ‘go upward’
  SJ:    Sobei          -sa[sa]      (DIR) ‘upward’
  PT:    Tawala         -gae         ‘go upward’
  PT:    Saliba         -sae         ‘go upward, eastward’
- PT:    Sinaugoro      -raɣe        (second element of verbal compounds) ‘upward’
+ PT:    Sinaugoro      -raɣe         ‘upward’ (second element of verbal compounds)
  PT:    Motu           -dae(roha)   ‘(sun) rise’ (roha ‘to come in sight’)
  MM:    Bali           zaɣe         ‘(sun) rise’; (DIR) ‘upward’
  MM:    Nakanai        sahe         ‘climb’
@@ -13471,7 +13461,7 @@ POc *sake ‘go upward’
  Mic:   Kosraean       -ɛk          (DIR) ‘upward’
  Mic:   Marshallese    tak          ‘(sun) rise’; (DIR) ‘upward’
  Mic:   Mokilese       -ta          (DIR) ‘upward’
- Mic:   Puluwatese     -t4          (DIR) ‘upward’
+ Mic:   Puluwatese     -tæ          (DIR) ‘upward’
  Mic:    Woleaian         tax            (DIR) ‘upward, eastward’
  Fij:    Bauan            ðake           (DIR) ‘upward, eastward’
  Fij:    Wayan            ðake           ‘climb up, mount’
@@ -13538,7 +13528,7 @@ POc *sake ‘go upward, go southeast’ (Dempwolff 1938)
  NCV: Mwotlap            hag         (DIR) ‘(on land) eastward, (at sea) south-eastward’
  NCV: NE Ambae           hage        ‘move upward/landward/southeastward’
  NCV: Araki              sa[ha]      ‘go up, go inland, go eastward’
- SV:    Anejom           -t6ai       (DIR) ‘upward, southward, eastward’
+ SV:    Anejom           -tʃai       (DIR) ‘upward, southward, eastward’
  Mic:   Kiribati         rake        ‘(sun) rise’; (DIR) ‘upward, eastward’
  Mic:   Woleaian         tax         (DIR) ‘upward, eastward’
  Fij:   Bauan            ðake        (DIR) ‘upward, eastward’
@@ -13852,7 +13842,7 @@ POc *mai, *ma ‘come’, (DIR) ‘towards speaker’
  SES:       Kwaio              mai                   (DIR) ‘towards speaker’
  SES:       Kwaio              (leka)mai             ‘come’ (leka ‘go’)
  NCV:       Mwotlap            mɛ                    (DIR) ‘towards speaker’
- NCV:       NE Ambae           -mai, -mei, -ai       (DIR) ‘towards speaker’[27]
+ NCV:       NE Ambae          | -mai, -mei, -ai |      (DIR) ‘towards speaker’[27]
  NCV:       Merei              ma                    (DIR) ‘towards addressee’
  NCV:       Araki              ma                    (DIR) ‘towards speaker’
  NCV:       Tamambo            mai                   ‘come’
@@ -13864,8 +13854,8 @@ POc *mai, *ma ‘come’, (DIR) ‘towards speaker’
  NCal:      Nêlêmwa            me                    (DIR) ‘towards speaker’
  NCal:      Nêlêmwa            ō-me                  ‘come’ (o ‘go’)
  NCal:      Nyelâyu            -me                   (DIR) ‘towards speaker’
- NCal:      Xârâcùù            mİ¿                   (DEM) ‘near speaker’
- NCal:      Iaai               (je)m                (DIR) ‘towards speaker’
+ NCal:      Xârâcùù            mɛ̃                   (DEM) ‘near speaker’
+ NCal:      Iaai               (jē)m                (DIR) ‘towards speaker’
  Mic:       Kosraean           -ma                   (DIR) ‘towards speaker’
  Mic:       Kiribati           mai                   ‘come’
  Fij:       Nadrogaa           mā, mei               (DIR) ‘towards speaker’
@@ -13900,17 +13890,17 @@ usage for POc *mai/*ma (cf. §3.2).
 
 POc *mai, *ma ‘come’, (DIR) ‘towards speaker’
  PT:    Tawala            mei             (PREP) ‘like, resembling’
- MM: Meramera             maʔ-            (R-) ablative
- MM: Lamasong             ma-             (R-) ablative
- MM: Madak                me-             (R-) ablative
- MM: Barok                mu-             (R-) ablative
- MM: Konomala             mə              (R) ablative
- MM: Patpatar             ma-             (R-) ablative
- MM: Patpatar             ma              (PREP w PLC) ablative
- MM: Label                mi-             (R-) ablative
- MM: Tolai                ma-, ma-ma- (R-) ablative
- SES:   Longgu            mi              (R with placename or local noun) ablative
- Fij:   Bauan             mai             (PREP) ablative
+ MM: Meramera             maʔ-            (R-) (ablative)
+ MM: Lamasong             ma-             (R-) (ablative)
+ MM: Madak                me-             (R-) (ablative)
+ MM: Barok                mu-             (R-) (ablative)
+ MM: Konomala             mə              (R) (ablative)
+ MM: Patpatar             ma-             (R-) (ablative)
+ MM: Patpatar             ma              (PREP w PLC) (ablative)
+ MM: Label                mi-             (R-) (ablative)
+ MM: Tolai                ma-, ma-ma- (R-) (ablative)
+ SES:   Longgu            mi              (R with placename or local noun) (ablative)
+ Fij:   Bauan             mai             (PREP) (ablative)
 >
 <
   One other POc morpheme with the same meanings as *mai may be reconstructable.
@@ -13971,30 +13961,30 @@ In a number of languages POc *ua is reflected as a preposition or a relator (cf.
 
 <
 POc *ua ‘go towards addressee’, (DIR) ‘towards addressee’
- Adm: Yapese              u             (PREP) locative, ablative
- PT:   Tawala             u             (PREP w N LOC) locative, allative
- PT:   Kiriwina           o             (PREP w N LOC) locative ‘in, into’
- PT:   Muyuw              u, wa         (PREP) locative, allative
- MM: Bulu                 o             (PREP w PLC) locative
- MM: Nakanai              o-            (VF formative) locative
- MM: Meramera             u-            (R-) allative
- MM: Lamasong             u-            (R-) allative
- MM: Madak                u-            (R-) allative
- MM: Barok                u-            (R-) allative
- MM: Sursurunga           u(r)          (R) allative
- MM: Tangga               ua, u         (R) allative (ua w DEM, u elsewhere)
- MM: Konomala             uə            (R) allative
- MM: Patpatar             u-            (R-) allative
- MM: Patpatar             u             (PREP w PLC) allative
- MM: Label                       u-            (R-) allative
- MM: Kandas                      u-            (R-) allative
- MM: Kandas                      u             (PREP w N LOC) locative, allative
- MM: Ramoaaina                   u-            (R-) allative
- MM: Ramoaaina                   u             (PREP) locative, allative
- MM:      Minigir                u-            (R-) allative
- MM:      Tolai                  u-            (R-) allative
- SES:     Longgu                 vu            (R) allative, towards
- Fij:     Bauan                  vuā, vei      (PREP) locative, allative, dative, cause
+ Adm: Yapese              u             (PREP) (locative, ablative)
+ PT:   Tawala             u             (PREP w N LOC) (locative, allative)
+ PT:   Kiriwina           o             (PREP w N LOC) (locative ‘in, into’)
+ PT:   Muyuw              u, wa         (PREP) (locative, allative)
+ MM: Bulu                 o             (PREP w PLC) (locative)
+ MM: Nakanai              o-            (VF formative) (locative)
+ MM: Meramera             u-            (R-) (allative)
+ MM: Lamasong             u-            (R-) (allative)
+ MM: Madak                u-            (R-) (allative)
+ MM: Barok                u-            (R-) (allative)
+ MM: Sursurunga           u(r)          (R) (allative)
+ MM: Tangga               ua, u         (R) (allative; _ua w_ DEM, _u_ elsewhere)
+ MM: Konomala             uə            (R) (allative)
+ MM: Patpatar             u-            (R-) (allative)
+ MM: Patpatar             u             (PREP w PLC) (allative)
+ MM: Label                       u-            (R-) (allative)
+ MM: Kandas                      u-            (R-) (allative)
+ MM: Kandas                      u             (PREP w N LOC) (locative, allative)
+ MM: Ramoaaina                   u-            (R-) (allative)
+ MM: Ramoaaina                   u             (PREP) (locative, allative)
+ MM:      Minigir                u-            (R-) (allative)
+ MM:      Tolai                  u-            (R-) (allative)
+ SES:     Longgu                 vu            (R) (allative, towards)
+ Fij:     Bauan                  vuā, vei      (PREP) (locative, allative, dative, cause)
 
 Proto South Vanuatu *un-, which forms locative nouns from common nouns (Lynch
 2001:132), may also belong here.
@@ -14040,16 +14030,16 @@ a role in the history of these forms, as they have a dative function.
 POc *ua ‘go towards addressee’, (DIR) ‘towards addressee’, (DEM) ‘away from speaker’, anaphoric
  NNG: Lusi             (ɣe-ra)wa         (LOC) ‘away from speaker’
  NNG: Lusi             (ne-dua)wa        (PRO) ‘that one remote from speaker’ (cf. ne-dua (PRO) ‘away from speaker’)
- NNG: Bariai           oa                (ADN) away from speaker, anaphoric
- NNG:     Manam           (ena)wa           (ADN) 3
- PT:      Saliba          -wa               (ADN ENCL) anaphoric
+ NNG: Bariai           oa                (ADN) (away from speaker, anaphoric)
+ NNG:     Manam           (ena)wa           (ADN) (3)
+ PT:      Saliba          -wa               (ADN ENCL) (anaphoric)
  PT:      Kiriwina        -we               (ADN AFFIX) ‘away from speaker’
- PT:      ’Ala’ala        uʔa               (PRO) 3
- Mic:     Kosraean        æ                 (ADN, POST) anaphoric
- Mic:     Mokilese        -wa               (ADN ENCL) anaphoric SG
- Mic:     Puluwatese      (ye)we            (ADN, POST) anaphoric
- Mic:     Woleaian        we                (ADN, POST) anaphoric SG
- Mic:     Ulithian        -we              (ADN ENCL) anaphoric SG
+ PT:      ’Ala’ala        uʔa               (PRO) (3)
+ Mic:     Kosraean        æ                 (ADN, POST) (anaphoric)
+ Mic:     Mokilese        -wa               (ADN ENCL) (anaphoric SG)
+ Mic:     Puluwatese      (ye)we            (ADN, POST) (anaphoric)
+ Mic:     Woleaian        we                (ADN, POST) (anaphoric SG)
+ Mic:     Ulithian        -wē              (ADN ENCL) (anaphoric SG)
 >
 286   Malcolm Ross
 
@@ -14069,7 +14059,7 @@ POc *watu ‘go towards addressee’, (DIR) ‘towards addressee’
  NNG: Adzera            waʔ-               ‘go out’
  PT:     Motu           vasi               ‘go:2/3’
  MM:     Hoava          atu                ‘go (to addressee)’
- MM:     Roviana        atu-atu            (INTERJECTION) implying movement away, of speaker or addressee
+ MM:     Roviana        atu-atu            (INTERJECTION) (implying movement away, of speaker or addressee)
  SES:    Gela           (g)atu             (DIR) ‘away from speaker’
  SES:    Bugotu         atu                (DIR) ‘away from speaker’
  SES:    Kwaio          ka[ʔ]u             (DIR) ‘thither’
@@ -14134,7 +14124,7 @@ POc *lako, *la (V)‘go (to)’, (DIR) ‘away from speaker’
  Adm:    Kele             la             ‘go to’
  NNG: Gitua               lago           ‘go’
  NNG: Mangap              -la            ‘go’
- NNG: Mangap              -sa-la         (VF)‘ ascend away from speaker’
+ NNG: Mangap              -sa-la         (VF) ‘ascend away from speaker’
  NNG: Sio                 lo             ‘go’
  NNG: Takia               la             ‘move away from speaker’, ‘go round the island’
  NNG:        Manam               laʔo            (DIR) ‘away from speaker’
@@ -14279,7 +14269,7 @@ POc *pano ‘go away’, (DIR) ‘away from speaker’; ? ‘move in a transvers
  Pn:     Samoan          fano            ‘(of time) be gone, past; perish’
  Pn:        Nanumean          fano               ‘go’
  Pn:        Rennellese        hano               ‘go; depending on, according to; on and on; little by little; one by one’
- Pn:        Maori             ano               ‘go, proceed; lead, of a road; verge towards; be on the point of; act, behave’
+ Pn:        Maori             ɸano               ‘go, proceed; lead, of a road; verge towards; be on the point of; act, behave’
 
    The Harua form mano appears to reflect the application of the PMP Actor focus
 morpheme *‹um› to the root *panaw (vol. 1, p.29), suggesting that an alternation between
@@ -14302,7 +14292,7 @@ POc *pa ‘go away; move in a transverse direction’; (V AUX) ‘go and …’
  PT:      Motu             ha             (V AUX) ‘go and …’
  SES:     Gela             va             (V AUX) ‘be going to …’
  NCV:     Mota             va             ‘go, come’; (V AUX) ‘go on …-ing’
- NCV:     Araki            vBa            ‘go; go in a direction other than north or south’
+ NCV:     Araki            v̈a            ‘go; go in a direction other than north or south’
  NCV:     Lonwolwol        va             ‘go’
  NCV:     SE Ambrym        ha             ‘go, leave, depart’
  NCV:     Paamese          vā             ‘go’
@@ -15008,7 +14998,7 @@ POc *boŋi ‘night, day of twenty-four hours’
  MM:      Mono-Alu       boi          ‘night, day’
  MM:      Simbo          boŋi         ‘night’
  SES:     Bugotu         boŋi         ‘night’ (ke boŋi ‘by night, at night’)
- SES:     Gela           boŋi         ‘night (te mboŋi ‘by night’); a day, as a measure of time (e rua na boŋi ‘two days’); yesterday; the weather
+ SES:     Gela           boŋi         ‘night (te mboŋi ‘by night’); a day, as a measure of time (e rua na boŋi ‘two days’); yesterday; the weather’
  SES:     Lau           boŋi          ‘night; a day, in reckoning time’
  SES:     Sa’a          poŋi          ‘a time, a season’
  SES:     Sa’a          poŋi-ku       ‘my appointed time’ (-ku ‘my’)
@@ -15091,9 +15081,9 @@ POc *rodrom ‘be dark, be night’ (Blust 1984)
  NCV: NE Ambae          dodo            ‘be dark; dark cloud’
  NCV: Tamambo           dodo            ‘night’
  Mic: Kiribati          roro            ‘black, dark color’
- Mic: Kosraean          loṣ            ‘dark’
+ Mic: Kosraean          lɔṣ            ‘dark’
  Mic: Mokilese          ros             ‘dark’
- Mic: Ponapean          roc̡            ‘dark’
+ Mic: Ponapean          roc̣             ‘dark’
  Mic: Puluwatese        rōṛ            ‘dark’
  Mic: Carolinian        roṣ            ‘dark’
  Pn:    Tongan          lōlō            ‘absolutely dark, pitch dark’
@@ -15149,7 +15139,7 @@ POc *raqani ‘daytime, daylight’
  NCV:     Paamese                lani               ‘daybreak’
  SV:      Lenakel                n-ian              ‘day’
  SV:      Kwamera                ia-ran             ‘day’
- Mic:     Marshallese            r̚ɯān              ‘day, date’
+ Mic:     Marshallese            ṛɯān              ‘day, date’
  Mic:     Ponapean               rān                ‘day’
 >
 
@@ -15178,7 +15168,7 @@ POc *qaco ‘sun, daytime’
  NCV:     Namakura       ʔal             ‘sun’
  Mic:     Marshallese    alɯ             ‘sun’
  Mic:     Woleaian       yaro            ‘sun’
- Mic:     Puluwatese     y4let           ‘sun’
+ Mic:     Puluwatese     yælet           ‘sun’
  Pn:      Tongan         ʔaho            ‘day’
  Pn:      Samoan         aso             ‘day’
  Pn:      Tuvalu         aho             ‘day (as time span)’
@@ -15201,7 +15191,7 @@ POc *sinaR ‘shine, sun’
  SES: ’Are’are           sina          ‘shine, brighten; light, brightness’
  SES: Sa’a               sineli        ‘shine’
  NCV: Mota               siŋa          ‘shine’
- Mic: Chuukese           tti4a         ‘shine, ray, brightness, beam’
+ Mic: Chuukese           ttiɾa         ‘shine, ray, brightness, beam’
  Mic: Puluwatese         tin           ‘shine, as the sun’
  Fij:   Rotuman          sina          ‘light, lamp, star’
  Fij:   Wayan            siŋa          ‘day, daylight, sun’
@@ -15303,12 +15293,12 @@ Others have a noun phrase whose head is ‘sun, daylight’, modified by ‘big�
 <
    Biggs and Clark (1993) reconstruct PPn *qaho-atea ‘late morning and early afternoon’,
 from PPn *qaho ‘daylight’ and *qātea ‘clear, unobstructed’. The addition of Anejom
-reflexes raises the reconstruction to PROc *qaso-qatea (Lynch pers. comm.).
+reflexes raises the reconstruction to Proto Remote Oceanic *qaso-qatea (Lynch pers. comm.).
 
-PROc *qaso-qatea ‘late morning and early afternoon’[12]
- SV:   Anejom          aƒiat           ‘become day’
- SV:   Anejom          n-aƒiat         ‘day, daytime’
- SV:   Anejom          n-aƒiat-iat     ‘midday’
+Proto Remote Oceanic *qaso-qatea ‘late morning and early afternoon’[12]
+ SV:   Anejom          afiat           ‘become day’
+ SV:   Anejom          n-afiat         ‘day, daytime’
+ SV:   Anejom          n-afiat-iat     ‘midday’
  Pn:   Niuean          ahotea          ‘broad daylight’
  Pn:   Samoan          aoatea          ‘midday’
  Pn:     Anutan         avatea           ‘midday’
@@ -15352,13 +15342,13 @@ POc *Rapi, *Rapi-Rapi ‘(N, V) late afternoon and evening, from about 3 p.m. to
  MM: Meramera           lavi-lavi      ‘evening’
  MM: Kara (East)        (la)iaf        ‘evening’
  MM: Lihir              (le)leh        ‘evening’
- MM: Sursurunga         rah-rah        (N) ‘afternoon
+ MM: Sursurunga         rah-rah        (N) ‘afternoon’
  MM: Label              rah            ‘evening’
  MM: Ramoaaina          (malu)rap (V) ‘evening’
  MM: Tolai              ravi(an)       ‘afternoon, evening’
  MM: Siar               raf            ‘evening’
  MM: Taiof              (tou)raf       ‘evening’
- MM: Banoni             (nƝ)navi       ‘evening’
+ MM: Banoni             (nē)navi       ‘evening’
  MM: Torau              rai            ‘evening’
  MM: Maringe            grafi          ‘evening’
  SES:    Gela           (nu)lavi         ‘evening’
@@ -15373,7 +15363,7 @@ POc *Rapi, *Rapi-Rapi ‘(N, V) late afternoon and evening, from about 3 p.m. to
  NCV:    Uripiv         riv-riv          ‘afternoon’
  NCV:    Paamese        (medī)lahi       ‘afternoon, evening’
  NCV:    Namakir        d(a)ravi(h)      ‘evening’
- SV:     Sye            (pwa)rap         ‘evening’
+ SV:     Sye            (pʷa)rap         ‘evening’
  SV:     Sye            (a)rap           ‘begin to get dark in late afternoon’
  SV:     Anejom         (injup-u)ra      ‘evening’
  NCal:   Nemi           (bate)ap         ‘evening’
@@ -15384,17 +15374,19 @@ POc *Rapi, *Rapi-Rapi ‘(N, V) late afternoon and evening, from about 3 p.m. to
  Pn:     Hawaiian       ahi-ahi          ‘late afternoon, evening’
 >
 
+<
   There are also Micronesian reflexes. These are not listed above because they show hefty
 phonological reduction. The Proto Micronesian term was *faka-afi, reflecting a
 combination of the POc prefix *paka- (which among other things derived adverbs) and
-
 POc *Rapi, reconstructed above.
-Proto Micronesian *fakāfi ‘evening, in the evening’
+
+PMic *fakāfi ‘evening, in the evening’
  Mic: Mortlockese (lɛ)fǣf                ‘evening’
  Mic: Chuukese         fǣf               ‘evening meal, main meal’
- Mic: Puluwatese       (le)f4f           ‘evening meal’
- Mic: Carolinian       (le)fǣf          ‘evening, dusk’
+ Mic: Puluwatese       (lē)fæf           ‘evening meal’
+ Mic: Carolinian       (lē)fǣf          ‘evening, dusk’
  Mic: Woleaian         fexāfi             ‘last night’
+>
 314   Malcolm Ross
 
 
@@ -15579,7 +15571,7 @@ details are given in Chapter 5, §4.2, whence the reconstructions below are repe
 <
 POc *raki ‘dry season when the southeast trades blow’
  Adm: Lou               ra              ‘northeast, northeast wind’
- Adm: Titan             n ray           ‘wind from the mainland, mountain breeze, blows at night’
+ Adm: Titan             ᵑray            ‘wind from the mainland, mountain breeze, blows at night’
  NNG: Gitua             rak             ‘southeast trade’
  NNG: Mangap            rak-rak         ‘fresh morning (during windy season)’
  NNG: Tami              lai             ‘southeast trade’
@@ -15659,8 +15651,8 @@ POc *taqun ‘period of a year, yam season cycle (?), any cyclic period’
  NNG: Ulau-Suain         taun            ‘year’
  MM: Bola                tahu(na)        ‘the time when …’
  MM: Sursurunga          taul            ‘season’
- MM:     Patpatar         t‹in›ahon, t‹in›ohon   ‘year’ (‹in› marks a nominalisation: vol. 1. p.33)
- MM:     Ramoaaina        t‹in›əwon              ‘year’ (‹in› marks a nominalisation: vol. 1. p.33)
+ MM:     Patpatar         t<in>ahon, t<in>ohon   ‘year’ (‹in› marks a nominalisation: vol. 1. p.33)
+ MM:     Ramoaaina        t<in>əwon              ‘year’ (‹in› marks a nominalisation: vol. 1. p.33)
  NCV:    Mota             tau                    ‘season’
  NCV:    Nguna            (na)tau                ‘year’
  Mic:    Kiribati         tai                    ‘time, season, harvest’
@@ -15669,7 +15661,7 @@ POc *taqun ‘period of a year, yam season cycle (?), any cyclic period’
  Pn:     E Futunan        taʔu                   ‘yam season’
  Pn:     Samoan           tau                    ‘season, year’
  Pn:     Rennellese       taʔu                   ‘season’
- Pn:     Rennellese       taʔu ika               ‘fish season (late July to early January)’ (ika ‘fish’)
+ Pn:     Rennellese      | taʔu ika |              ‘fish season (late July to early January)’ (ika ‘fish’)
  Pn:     Tuvalu           tau(naŋa)              ‘year’
  Pn:     Rapanui          taʔu                   ‘year’
  Pn:     Anutan           tau                    ‘year’
@@ -15782,7 +15774,7 @@ POc *muqa- ‘front’, *muqa ‘front; be in front’, *i muqa, *qa-muqa , *muq
  NCV: Port Sandwich (a)mo                  (POSTVERBAL ADV) ‘before’
  Mic: Woleaian            [i]mʷowa-        ‘front, before’
  Mic: Woleaian             mʷ-mʷa-          ‘front, first, tip, before’
- Pn:      Tongan          (ʔi) muʔa [-atu] ‘formerly’ (-atu DIR; p.279)
+ Pn:      Tongan         | (ʔi) muʔa [-atu] | ‘formerly’ (-atu DIR; p.279)
  Pn:      Samoan          (ana)mua         ‘formerly, in those days’
 PWOc *muga ‘front; be in front; formerly’
  NNG: Bariai            muga(eai)                   ‘formerly’ (-eai POSTP)
@@ -15826,9 +15818,8 @@ POc *muri[-] ‘be behind, be after; back part, rear, behind, space to the rear 
 
 <
 PMP * burit ‘hind part, rear, back’ (ACD)
-POc *burit ‘be behind, be after; back part, rear, behind, space to the rear of, time after;
- (canoe) stern’, *i burit ‘behind, afterwards’ (p.262)
- SES: Lau                   (i) buri         ‘afterwards’
+POc *burit ‘be behind, be after; back part, rear, behind, space to the rear of, time after; (canoe) stern’, *i burit ‘behind, afterwards’ (p.262)
+ SES: Lau                  | (i) buri |        ‘afterwards’
  SES: ’Are’are              puri-na          ‘after’
 >
 
@@ -15850,7 +15841,7 @@ POc *tuqaRi ‘(be) long ago; take a long time, old (of inanimates)’
  SV:    Anejom           (i)tuwu           ‘long ago’
  Fij:   Wayan            tuei              (V, ADJ) ‘take a long time; be slow, late’
  Pn:     Tongan            tuai              (V) ‘be slow, late’
- Pn:     Tongan            (mai) tuai        (PP) ‘from of old, since very early times’
+ Pn:     Tongan           | (mai) tuai |       (PP) ‘from of old, since very early times’
  Pn:     Samoan            tuai              (V) ‘be late, be delayed’
 >
 
@@ -15902,7 +15893,7 @@ PPn *qana-pō ‘last night’
  Pn:    Samoan          anapō             ‘last night’
  Pn:     Anutan          anapo        ‘last night’
  Pn:     E Futunan       nāpō         ‘last night’
- Pn:     E Uvean         ʔana pō      ‘last night’
+ Pn:     E Uvean        | ʔana pō |     ‘last night’
  Pn:     Nukuria         anabō        ‘last night’
  Pn:     Tahitian        napo         ‘last night’
 >
@@ -15925,7 +15916,7 @@ PMP *ñeRab ‘yesterday’
 POc *ñoRap ‘yesterday’, i ñoRap, *qa-ñoRap (?)
  NNG: Kove              noha         ‘yesterday’
  NNG: Gitua             nora         ‘yesterday’
- NNG: Mangap            nƝri         (ADV) ‘yesterday, subjectively recent time, just recently’
+ NNG: Mangap            nēri         (ADV) ‘yesterday, subjectively recent time, just recently’
  NNG: Sio               nola         (ADV) ‘yesterday; any unspecified prior time or day’
  NNG: Kilenge           nola         ‘yesterday’
  NNG: Amara             noro         ‘yesterday’
@@ -15949,7 +15940,7 @@ POc *ñoRap ‘yesterday’, i ñoRap, *qa-ñoRap (?)
  MM: Ramoaaina          narap        ‘before, formerly’
  MM:     Nehan           nerau          ‘yesterday’
  MM:     Solos           nonoh          ‘yesterday’
- MM:     Halia (Haku)    (i) nolaha     ‘yesterday’
+ MM:     Halia (Haku)   | (i) nolaha |    ‘yesterday’
  MM:     Halia (Selau)   narowa         ‘yesterday’
  MM:     Taiof           nanaf          ‘yesterday’
  MM:     Teop            nanava         ‘yesterday’
@@ -15991,9 +15982,9 @@ POc *na-ñoRap ‘yesterday’, i na-ñoRap, *qa-na-ñoRap (?)
  SV:    Anejom         (i)yenev        ‘yesterday’
  Mic: Kiribati         nanoa           ‘yesterday’
  Mic: Mortlockese      nanaw           ‘yesterday’
- Mic: Puluwatese       n4newi          ‘yesterday’
+ Mic: Puluwatese       nænewɨ          ‘yesterday’
  Mic: Woleaian         rarowa          ‘yesterday’
- Fij:   Bauan          (e) nanoa       ‘yesterday’
+ Fij:   Bauan         | (e) nanoa |      ‘yesterday’
 >
                                                                               Time    327
 
@@ -16084,7 +16075,7 @@ presumably the result of extension of meanings denoting ‘last evening’. Nucl
 Polynesian languages reflect an unexplained innovation whereby *qa-na-api became *qa-
 na-napi.
 
-POc *i Rapi ‘(?) in the evening’, *na-Rapi ‘yesterday’, *qa-na-Rapi ‘yesterday’
+POc *|i Rapi| ‘(?) in the evening’, *na-Rapi ‘yesterday’, *qa-na-Rapi ‘yesterday’
  PT:      Gapapaiwa        ravi-ravi        (ADV) ‘yesterday’
  MM: Bola                  ravi             (ADV) ‘yesterday’
  MM: Meramera              lavi             ‘yesterday’
@@ -16147,7 +16138,7 @@ boŋi ‘early morning from dawn to 9 or 10 a.m.’ (p.310). I doubt whether the
 of parallel innovations, similar to those via which reflexes of *Rapi ‘evening’ came to
 mean ‘yesterday’.
 
-POc *i boŋi-boŋi ‘(?) in the morning’, *qa-boŋi-boŋi ‘(?) in the morning’
+POc *|i boŋi-boŋi| ‘(?) in the morning’, *qa-boŋi-boŋi ‘(?) in the morning’
  NNG: Barim                buŋ-buŋ          ‘tomorrow’
  NNG: Arop-Lokep           boŋ-boŋ          ‘tomorrow’
  NNG: Malasanga            buŋ-boŋ          ‘tomorrow’
@@ -16206,7 +16197,7 @@ POc *ma-raqani ‘become light’
   SV: Anejom               (i)mrañ          ‘tomorrow’
   cf. also:
   SES: Longgu              dañi             (V) ‘tomorrow; daylight’
-  SES: Sa’a                i deni           ‘tomorrow’
+  SES: Sa’a               | i deni |          ‘tomorrow’
   SES: ’Are’are            itani            ‘tomorrow’
   NCV: Sakao               (lak)ren         ‘tomorrow’
   NCV: Port Sandwich       (pe)an           ‘tomorrow’
@@ -16223,14 +16214,14 @@ POc *la-tuqu ‘tomorrow’
  MM: Siar                   latu             ‘tomorrow’
  Mic: Marshallese           (i)lcu           ‘tomorrow’
  Mic: Kosraean              lutu           ‘tomorrow, morning’
- Mic: Chuukese              4əwi           ‘tomorrow’
- Mic: Puluwatese            layi           ‘tomorrow’
- Mic: Woleaian              rai            ‘tomorrow’
-PNS: *na-tuqu ‘tomorrow’
+ Mic: Chuukese              ɾəwɨ           ‘tomorrow’
+ Mic: Puluwatese            layɨ           ‘tomorrow’
+ Mic: Woleaian              raɨ            ‘tomorrow’
+Proto Northwest Solomonic *na-tuqu ‘tomorrow’
  MM: Papapana            natui             ‘tomorrow’
  MM: Ghove               natui             ‘tomorrow’
  MM: Maringe             natuʔu            ‘tomorrow’
-PPn: *a(r,l)etuqu ‘tomorrow’
+PPn *a(r,l)etuqu ‘tomorrow’
  Pn:    Mae               aretū            ‘tomorrow, day after’
  Pn:     Nukuria          (bō)aledū        ‘tomorrow night’ (bō ‘night’)
   Pn:    W Futunan        aratu            ‘tomorrow’
@@ -16446,12 +16437,12 @@ POc *[i] ŋaican ‘when?’, *qa-ŋaican ‘when?’
  NCV: Nokuku               (pwa)nes      ‘when (future)?’
  NCV: Port Sandwich        ŋais          ‘when?’
  Mic: Kosraean             ŋɛ            ‘when?’
- Mic: Mokilese             ŋet          ‘when?’
- Mic: Mortlockese          iŋİt         ‘when?’
+ Mic: Mokilese             ŋēt          ‘when?’
+ Mic: Mortlockese          iŋɛ̃t         ‘when?’
  Mic: Puluwatese           yiŋet         ‘when?’
- Mic: Satawalese           ilet         ‘when?’
- Mic: Carolinian           ineta        ‘when?’
- Mic: Woleaian             ireta        ‘when?’
+ Mic: Satawalese           ilēt         ‘when?’
+ Mic: Carolinian           inēta        ‘when?’
+ Mic: Woleaian             irēta        ‘when?’
 >
 <
 POc *[i] ŋican ‘when?’, *qa-ŋican ‘when?’
@@ -16480,7 +16471,7 @@ POc *[i] ŋican ‘when?’, *qa-ŋican ‘when?’
  SES: Kwaio               aŋita             ‘when?’ (also nānita ‘when?’)
  NCV: Kiai                nisa              ‘when (future)?’
  NCV: Tolomako           | i ŋisa |           ‘when (future)?’
- SV: Anejom               iñiș              ‘when?’
+ SV: Anejom               iñiθ              ‘when?’
  Fij: Wayan              | ei ŋiða |          ‘when (future)?’
  Fij: Wayan              | a ŋiða |           ‘when (past)?’
 >
@@ -16521,16 +16512,18 @@ expressed by prefixing PPn *qā- for the future and *[qa]na- for the past.
 
 <
 PPn *qā-fea ‘when (future)’
- Pn:    Tongan            ʔafe         ‘when (future)?’
- Pn:    Niuean            fe           ‘when (future)?’
+ Pn:    Tongan            ʔafē         ‘when (future)?’
+ Pn:    Niuean            fē           ‘when (future)?’
  Pn:    Samoan            āfea          ‘when (future)?’
  Pn:    Nanumean          āfea          ‘when (future)?’
  Pn:    Ifira-Mele        āfea          ‘when (future)?’
  Pn:    Hawaiian          āhea          ‘when (future)?’
  Pn:    Tahitian          āfea          ‘when (future)?’
+>
+<
 PPn *[qa]na-fea ‘when (past)’
- Pn:    Tongan           ʔanefe        ‘when (past)?’
- Pn:    Niuean           nefe          ‘when (past)?’
+ Pn:    Tongan           ʔanefē        ‘when (past)?’
+ Pn:    Niuean           nefē          ‘when (past)?’
  Pn:    Samoan           anafea         ‘when (past)?’
  Pn:    Nanumean         nāfea          ‘when (past)?’
  Pn:    Rennellese       anafea         ‘when (past)?’
