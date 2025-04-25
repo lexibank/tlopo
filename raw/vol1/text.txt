@@ -6069,7 +6069,7 @@ addition, the following terms are reconstructable.
 <
 
 PAn *tebaS 'cut, clear vegetation' (Dempwolff (1938) reconstructed *teba 'land appropriated by clearing of forest') (ACD)
-POc *topa 'land cleared for a garden', or 'land formerly planted as a garden'
+POc *topa 'land cleared for a garden; land formerly planted as a garden'
   Fij:    Wayan              tova-tova    'garden plantation'
   Fij:    Bauan              tova         'flat piece of land, formerly planted with yams'
 
@@ -6551,7 +6551,7 @@ slip, cutting, shoot (i.e. propagation material)'; POc *wasi 'taro stem, used fo
 <
 
 PAn *suliq 'tendril, sucker' (Blust 1972b)
-POc *(s,j)uli(q) (1) 'banana or taro sucker, shoot (i.e. propagation material) (2) 'slip, cutting' (Ross 1988)
+POc *(s,j)uli(q) (1) 'banana or taro sucker, shoot (i.e. propagation material)' (2) 'slip, cutting' (Ross 1988)
  Adm: Lou          sili-n                  'sprout: sprout of banana or pineapple'
  Adm: Loniu        cili                    'sprout, esp. banana shoot'
  NNG: Tami         jili                    'taro sucker'
@@ -7641,7 +7641,7 @@ cooking, probably also have more general reference:
 
 <
 
-POc *taqo(n), *taqon-i- 'press down, weigh down with a weight, cover over with the cover weighed down', and thus 'close a stone oven, (when earth or the last layer of leaves has been placed on top)'
+POc *taqo(n), *taqon-i- 'press down, weigh down with a weight, cover over with the cover weighed down; close a stone oven, (when earth or the last layer of leaves has been placed on top)'
  NNG: Mangap            to                 'cook with hot stones; bake'
  NNG: Kove              ta-tao             'cook in a native oven'
  MM: Nakanai            taho(robo)         'put stones on top of the oven (over the bundled food)' (_robo_ 'cover')
@@ -8091,7 +8091,7 @@ POc *tapa (V) 'dry food by heat to preserve it; smoke food' (Lichtenberk)
 
 <
 
-PMP *pa[kaj-qasu (v ) 'smoke, fumigate' (ACD) (from *pa[ka] 'causative' + PMP *qasu (N) 'smoke, fumes, steam'); (v) '(fire) smoke'
+PMP *pa[kaj-qasu (v) 'smoke, fumigate' (from *pa[ka] 'causative' + PMP *qasu (N) 'smoke, fumes, steam'); (v) '(fire) smoke' (ACD)
 POc *pa[ka]-qasu (V) 'smoke, cure by smoking'
   Mic:    Trukese         ātɨ                 (v) 'smoke, steam; cause to be smoked or steamed (for curing)'
   Fij:    Rotuman        fak-asu              'place in smoke'
@@ -8339,7 +8339,7 @@ the bottom of a canoe.
 
 <
 
-PMP *karis 'scratch mark ' (ACD )
+PMP *karis 'scratch mark' (ACD )
 POc *kari(s), *karis-i- 'scrape (tubers, coconuts)' (Lichtenberk); 'scratch a mark on s.t.'
     NNG: Kove                  karisi                'scrape one's skin'
     NNG: Akolet                karis                 'scratch (one's skin)'

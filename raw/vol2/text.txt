@@ -2665,7 +2665,7 @@ PPn *fuŋa ‘upper surface’
 
 <
 PMP *buku ‘node (as in bamboo or sugarcane); joint; knuckle; knot in wood; knot in string or rope’ (ACD, Dempwolff 1938)
-POc *buku ‘mound, knob, joint’, possibly also ‘hill’
+POc *buku ‘mound, knob, joint; hill (?)’
  NNG: Manam            buku             ‘mountain, knuckle’
  NNG: Wogeo            buku             ‘knee’
  NNG: Mangap           bukū-nu          ‘knob, joint, hump’
@@ -2686,7 +2686,7 @@ POc *buku ‘mound, knob, joint’, possibly also ‘hill’
 Reflexes of *pwotu refer consistently to ‘mountain’ only in MM languages, while some
 SES languages adopt the ‘knot, swelling’ meaning.
 
-POc *pwotu ‘protuberance, bulge’, possibly also ‘mountain’
+POc *pwotu ‘protuberance, bulge; mountain(?)’
  MM: Bali-Vitu         potu              ‘mountain’
  MM: Lavongai          put               ‘mountain’
  MM: Tigak             put               ‘mountain’
@@ -3126,7 +3126,7 @@ Dobu uses ʔawa bwasi, literally ‘channel of water’.
 PEOc *maŋa ‘river branch, tributary’
  SES: Arosi             maŋa                ‘V-shaped bend where a tributary meets the main stream’
  Mic:    Kiribati          mwāŋa            ‘branching off, branch road, limb of a tree’
- Pn:     Tongan            maŋa             (V) ‘fork, branch out, divide’, (N) ‘branch, fork’
+ Pn:     Tongan            maŋa             (V) ‘fork, branch out, divide’; (N) ‘branch, fork’
  Pn:     Maori             maŋa             ‘branch of a river’
 >
 
@@ -3194,7 +3194,7 @@ as POc *pura-puraq ‘foam, bubbles, bubble up’. The related forms include POc
 ‘bubble up, (hot spring) boil’ (p.83).
 
 PMP *budaq ‘foam, bubbles, lather, scum, froth’ (ACD)
-POc *pura(q), *pura-pura(q) (V) ‘bubble up, as spring of water’, (N) ‘spring’ (ACD: ‘foam, bubbles, bubble up’)
+POc *pura(q), *pura-pura(q) (V) ‘bubble up, as spring of water’; (N) ‘spring; foam, bubbles, bubble up’ (ACD)
  Adm: Mussau            ula-ula        ‘bubble up’
  PT:    Kiriwina        ūla            ‘source’
  SES: Gela              vura           ‘bubble up’
@@ -3245,7 +3245,7 @@ Other compounds retaining reflexes of POc *mata ‘eye’ but varying in their t
 down, of water’ and a noun ‘waterfall’.
 
 PMP *sabuq ‘drop, fall’ (Blust 1989:162)
-POc *sa[p,b]u(q) (N) ‘waterfall’, (V) ‘(water) fall’
+POc *sa[p,b]u(q) (N) ‘waterfall’; (V) ‘(water) fall’
  NNG: Buang            | (bel) rabu |       ‘waterfall’ (bel ‘water)
  SES: Ghari             sa-savu           ‘waterfall’
  NCV: Fortsenal         sevu              ‘waterfall’
@@ -3641,7 +3641,7 @@ number of other PMP stative verbs derived with *ma- from nouns, the prefix of *m
 became fossilised in POc (Evans & Ross 2001).
 
 PMP *ma-qasin ‘salty’ (PAn *qasiN, PMP *qasin ‘saltiness, salty taste) (ACD)
-POc *maqasin (V) ‘be salty’, (N) ‘salt’
+POc *maqasin (V) ‘be salty’; (N) ‘salt’
  Adm: Mussau           masini           ‘salty’
  NNG: Bing             mahas            ‘sea; seawater’
  NNG: Gedaged          mas              ‘sea, ocean, sea water, saltwater; salt’
@@ -4845,7 +4845,7 @@ POc *maqañur ‘float, be afloat or drifting’ (ACD has ‘floating, adrift’
  Pn:   Maori           mānu              ‘float; be launched: so start, of an expedition by water; overflow; be flooded’
 >
 <
-POc *tape (V) ‘(current) flow’, (N) ‘current, flow’
+POc *tape (V) ‘(current) flow’; (N) ‘current, flow’
  PT:    Motu           | taha (i rame) |    ‘current in the sea’
  SES: Bugotu            tave              (V) ‘flow’
  SES: Gela              tave              (V) ‘(liquids, air) flow’
@@ -11661,7 +11661,9 @@ Pacific islands.
 
 PAn *quCaN ‘scrubland, bush’ (ACD)
 PMP *qutan ‘small wild herbaceous plants; scrubland, bush’ (ACD; Dempwolff 1938)
-POc (N) *qutan ‘bushland, hinterland’, (N LOC) *qutan, (ADV) *qa-qutan ‘in the bush, inland’
+POc (N) *qutan ‘bushland, hinterland’
+POc (N LOC) *qutan
+POc (ADV) *qa-qutan ‘in the bush, inland’
  NNG: Manam            -uta       ‘inland’ (root of adverbials)
  NNG: Manam            (a)uta     (N) ‘inland’
  NCV: Mota             uta        ‘bush, forest, unoccupied land; the inland country’
@@ -11695,7 +11697,8 @@ change in meaning from ‘inland’ to ‘top, space above, up top’, a change 
 mediated by the fact that on a high island (as opposed to atoll) the inland of the island was
 also its ‘top’.
 
-POc (N) *loŋa ‘inland’, (N LOC) *loŋa ‘inland’
+POc (N) *loŋa ‘inland’
+POc (N LOC) *loŋa ‘inland’
  NNG: Bariai                loŋa                  ‘bush people’
  SES:    Bugotu             loŋa, (i)loŋa         ‘landwards, from sea’
  SES:    Gela               loŋa, (i)loŋa         ‘landwards, inland’
@@ -11731,7 +11734,8 @@ there, at the beach’).
 
 <
 PMP *lahud ‘downriver, towards the sea’ (Dempwolff 1938, Blust 1997)
-POc (N LOC)*laur ‘sea, seawards’; (ADV) *qa-laur ‘in a seaward direction’
+POc (N LOC) *laur ‘sea, seawards’
+POc (ADV) *qa-laur ‘in a seaward direction’
  Yap:   Yapese           lʔāy         ‘seaward’
  NNG: Manam              -lau         ‘seawards’ (root of adverbials)
  NNG: Manam              (i)lau       (N) ‘seawards’
@@ -11751,7 +11755,8 @@ POc (N LOC)*laur ‘sea, seawards’; (ADV) *qa-laur ‘in a seaward direction�
 
 <
 PMP *tasik ‘sea’ (Dempwolff 1938)
-POc (N)*tasik ‘sea, salt water’, (N LOC) *tasik ‘at sea’
+POc (N) *tasik ‘sea, salt water’
+POc (N LOC) *tasik ‘at sea’
  MM: Lihir               | (i) tes |        ‘at sea’
  MM: Ramoaaina            (nə)tai         ‘on the sea, out to sea’ (not ‘seawards’)
  MM: Tolai                (na)ta          ‘on the sea, out to sea’ (not ‘seawards’)
@@ -11777,7 +11782,8 @@ and ‘north-west’ are equivalent respectively to ‘to one’s left when faci
 one’s right when facing the sea’ if one is on the west coast of New Ireland.
 
 <
-PWOc (N LOC) *pa, (ADV) *qa-pa ‘to one’s left when facing the sea’
+PWOc (N LOC) *pa
+PWOc (ADV) *qa-pa ‘to one’s left when facing the sea’
  NNG: Manam           (a)wa          (N) ‘to one’s left when facing the sea’
  MM:     Vitu         (ɣe)va         (ADV) ‘downwards’
  MM:     Nalik        pa             (N LOC) ‘south-east’
@@ -11859,7 +11865,8 @@ which has replaced *yatasa. Possibly *yasa is derived from expected *yatasa by
 idiosyncratic deletion of the middle syllable.
 
 PAn *aCas ‘high, tall’ (ACD)
-POc (N)*atas ‘top; space above’, (N LOC) *atas ‘up top’
+POc (N) *atas ‘top; space above’
+POc (N LOC) *atas ‘up top’
  NNG: Ali                   yat            ‘on top’
  NNG: Tumleo                yot            ‘on top’
  PT:      Are               yata           ‘on top’
@@ -11901,7 +11908,8 @@ POc (N)*atas ‘top; space above’, (N LOC) *atas ‘up top’
 reflexes below suggest that it was also used as a POc local noun.
 
 PAn *laŋiC ‘sky’ (Dempwolff 1938)
-POc (N) *laŋit ‘sky, weather’, (N LOC) *laŋit ‘up top, high up’
+POc (N) *laŋit ‘sky, weather’
+POc (N LOC) *laŋit ‘up top, high up’
  Yap:    Yapese             lǣŋ            ‘up’
  SES: Lau                  | (i) laŋi- |      ‘up, above’
  SES: Kwaio                 laŋi-           ‘space above’
@@ -11924,7 +11932,8 @@ the derived adverb *qa-laka ‘up there, up above’ (which was then used as a v
 SES languages). Since *qa- is far more readily reconstructable as a prefix to nouns than to
 verbs, I assume that *laka was a noun.
 
-POc (N LOC) *laka ‘up above’, (ADV) *qa-laka ‘in an upward direction’
+POc (N LOC) *laka ‘up above’
+POc (ADV) *qa-laka ‘in an upward direction’
  NNG: Takia              | lak (na) |       ‘high up’ (na local postposition)
  NNG: Mapos Buang         raq             ‘up, above’
  PT:     Kiriwina         lake(va)        ‘top, in sky’
@@ -11958,7 +11967,8 @@ and a different meaning—‘outside’—suggests that POc *lua ‘outside’ m
 separate etymon, and also a local noun.
 
 PMP *liwaŋ ‘open space’ (ACD: Proto Western Malayo-Polynesian)
-POc (N) *liwaŋ, *liwa-, *liwaŋa- ‘open space, space between, middle’, (N LOC) *liwaŋ ‘in the middle’
+POc (N) *liwaŋ, *liwa-, *liwaŋa- ‘open space, space between, middle’
+POc (N LOC) *liwaŋ ‘in the middle’
  Adm: Loniu                (loho)luwa-          ‘middle’
  NNG: Mangap               lwo-                 ‘torso; middle’
  NNG: Manam                luʔaŋa-              ‘space in middle’
@@ -12613,7 +12623,7 @@ morphological pattern not found with other local nouns.
 as the local sense of ‘front’. It was thus the antonym of POc *muri[-] ‘back, time after’
 (§2.3.7).
 
-POc (N LOC)*muqa[-] ‘front’, *muqa ‘front, be in front’, *i muqa, *qa-muqa *muqa-muqa (ADV) ‘in front, formerly’
+POc (N LOC) *muqa[-] ‘front’, *muqa ‘front, be in front’, *i muqa, *qa-muqa *muqa-muqa (ADV) ‘in front, formerly’
  Yap:    Yapese             mʔōn         ‘front’
  Adm: Mussau                mua          ‘front’
  Adm: Titan                 mo(ndrol)    ‘bow of canoe’
@@ -12803,7 +12813,7 @@ pursue; come after, succeed; go to the rear’ and Kaulong e-uli-‘back’ (e- 
 
 <
 PMP *ma-udehi ‘be last; be after or behind; be late, be later; future’ (ACD)[18]
-POc (N, N LOC)*muri[-] ‘be behind, be after; back part, rear, behind, space to the rear of, time after; (canoe) stern; space outside’, *i muri, *muri-muri ‘at the back, later’
+POc (N, N LOC) *muri[-] ‘be behind, be after; back part, rear, behind, space to the rear of, time after; (canoe) stern; space outside’, *i muri, *muri-muri ‘at the back, later’
  Adm: Wuvulu               muki               ‘(canoe) stern’
  Adm: Loniu               | muʔu (tun) |        ‘(canoe) stern’
  Adm: Drehet               (o)mu(ŋ)           ‘back’
@@ -13417,7 +13427,7 @@ used, for example, of boarding a canoe.
 POc *sake ‘go upward’
  Adm: Mussau                   sae               ‘go upward’
  Adm: Mussau                   sae(-mae)         ‘come up (from)’
- Adm: Mussau                   (la-)sae          ‘go up (to)’ (la ‘go away from speaker’)
+ Adm: Mussau                   (la-)sae          ‘go up (to)’ (_la_ ‘go away from speaker’)
  NNG:      Kove                -ðae              ‘go upward’
  NNG:      Gitua               -zage             ‘(sun) rise’
  NNG:      Tami                sai               ‘go up to’
