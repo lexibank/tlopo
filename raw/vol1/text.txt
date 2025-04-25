@@ -3419,7 +3419,7 @@ seems to have referred to a large pot, perhaps a communal cooking pot:
 
 PMP *báŋaq 'pot, cooking vessel'
 POc *bʷaŋa 'k.o. large pot '
-PNGOc *(kuron) bʷaŋa 'communal cooking pot'
+PNGOc *|(kuron) bʷaŋa| 'communal cooking pot'
   NNG: Adzera             |(gur) baŋa|       'common cooking pot for meat' (_gur_ 'clay pot')
   PT:  Misima             |(ulun) bʷana|      'cooking pot about 60 cm high, used as a community cooking pot' (_ulun_ 'clay pot')
 
@@ -3566,7 +3566,7 @@ outside the Southeast Solomons.
 
 <
 
-PCP *kumete 'large wooden bowl (used as a mortar in pounding, mashing food and/or in stone-boiling) (Lichtenberk 1994)
+PCP *kumete 'large wooden bowl' (used as a mortar in pounding, mashing food and/or in stone-boiling) (Lichtenberk 1994)
   Fij :   Rotuman          ʔumefe           'bowl'
   Fij:    Bauan            kumete           'wooden bowl'
   Pn:     Tongan           kumete           'kava bowl'
@@ -4346,7 +4346,7 @@ POc *(su)suRi 'bone (needle); sew' (cf. POc *suRi 'bone')
 needle, in addition to a more general meaning.
 
 PMP *zaRum 'needle' (Dempwolff 1938)
-POc *saRum 'needle, tattooing needle (typically made from wing-bone of flying fox)
+POc *saRum 'needle, tattooing needle' (typically made from wing-bone of flying fox)
   Adm: Mussau       raum                   'needle'
   Adm: Lou          sou-                   'needle'
   NNG: Lukep (Pono) sar                    'needle (traditionally made of bat bone or fish bone)'
@@ -4544,7 +4544,7 @@ be sure of is:
 
 <
 
-PMP *pisaw '(bamboo) knife [6]
+PMP *pisaw '(bamboo) knife' [6]
 POc *piso '(bamboo) knife'
     Adm:    Mussau             iso                  'cut (meat +)'
     MM:     Bola (Harua)       viso                 'knife'
@@ -4658,7 +4658,7 @@ POc *koto 'obsidian head of spear, obsidian knife or blade; cut (across)'
 
 A group of eastern Polynesian languages have a term for obsidian probably derived from
 
-POc *(m,mʷ)ata 'cutting edge' (§4. 1 . 1 ).
+POc *(m,mʷ)ata 'cutting edge' (§4.1.1)
   Pn:    Rapanui          matā              'obsidian'
   Pn:    Maori            matā              'obsidian, flint, quartz'
   Pn:    Hawaiian         mākā              'kind of stone'
@@ -6068,8 +6068,7 @@ addition, the following terms are reconstructable.
 
 <
 
-PAn *tebaS 'cut, clear vegetation' (ACD) (Dempwolff (1938) reconstructed *teba 'land
- appropriated by clearing of forest')
+PAn *tebaS 'cut, clear vegetation' (Dempwolff (1938) reconstructed *teba 'land appropriated by clearing of forest') (ACD)
 POc *topa 'land cleared for a garden', or 'land formerly planted as a garden'
   Fij:    Wayan              tova-tova    'garden plantation'
   Fij:    Bauan              tova         'flat piece of land, formerly planted with yams'
@@ -6223,7 +6222,7 @@ POc *kali 'dig', *kali-aki- 'plant (garden) with (taro +)'
 >
 <
 
-POc *keli 'dig, harvest (tubers)
+POc *keli 'dig, harvest (tubers)'
     NNG: Lukep                 keli                 'dig, unearth (used for the action of harvesting yams and sweet potato)'
     NNG: Wogeo                 (i)kel-kel
     NNG: Manam                 ʔeli                'dig postholes, yamholes +'
@@ -6762,7 +6761,7 @@ PEOc *pasi 'plant yams'
 
 <
 
-POc *tanum, *tanum-i- 'bury, plant (tuber)
+POc *tanum, *tanum-i- 'bury, plant (tuber)'
   NNG: Bing               tan               'plant (sweet potato +)'
   NNG: Manam              -tano             'plant (sweet potato +)'
   NNG: Bam                -tani             'plant (sweet potato +)'
@@ -6914,7 +6913,7 @@ soft'.
   Although any plant may become dry and droop through lack of water, it is a feature of
 yam vines that the leaves turn yellow and drop off when the tubers are ready to harvest.
 
-POc *[ma-]raŋo 'become withered (of vegetation)
+POc *[ma-]raŋo 'become withered (of vegetation)'
  NNG: Manam              ma-raŋo          'dry, arid'
  MM: Tolai               ma-raŋa          'withered, dry (leaves, husk, tree)'
  MM: Halia (Selau)       raŋo             'dry'
@@ -6958,7 +6957,7 @@ made on the basis of whether the item is plucked by hand, or with the aid of a s
 <
 
 PMP *kawit 'hook' (Dempwolff 1938)
-POc *kawi(t), *kawit-i- (V) 'hook, catch hold of; fruit crook' (French-Wright (1983)
+POc *kawi(t), *kawit-i- (V) 'hook, catch hold of; fruit crook' (French-Wright 1983)
   NNG: Manam             ʔaut              'pluck fruit with a fruit crook'
   MM: Tolai              kait              'catch, as clothes on thorns '
   MM: Nakanai            kau               (V) 'hook, as in hooking fruit down from a tree'
@@ -7612,8 +7611,7 @@ bent or folded piece of cane or midrib of a coconut frond. Note that some terms 
 derived from the transitive verb form POc *kapit-i- 'grasp (with tongs)'.
 
 PMP *qapit 'pinch or squeeze between two surfaces' (ACD)
-POc *kapit 'tongs' ; *kapi(t), *kapit-i- 'grasp (with tongs)' (Grace 1969). (A few reflexes
- show unexpected-s, via palatisation before* -i; Lichtenberk reconstructs *kapis.)
+POc *kapit 'tongs' ; *kapi(t), *kapit-i- 'grasp (with tongs)' (A few reflexes show unexpected-s, via palatisation before* -i; Lichtenberk reconstructs *kapis.) (Grace 1969)
   Adm: Loniu               (pele)ʔip          'tongs made from bamboo strips'
   Adm: Lou               kIp-kIpIt           'tongs, forceps'
   NNG: Bing              kap-kapi(ŋ)        'tongs (made of bamboo)' (_-ŋ_ NOM)
@@ -7643,9 +7641,7 @@ cooking, probably also have more general reference:
 
 <
 
-POc *taqo(n), *taqon-i- 'press down, weigh down with a weight, cover over with the cover
- weighed down', and thus 'close a stone oven, (when earth or the last layer of leaves has
- been placed on top)'
+POc *taqo(n), *taqon-i- 'press down, weigh down with a weight, cover over with the cover weighed down', and thus 'close a stone oven, (when earth or the last layer of leaves has been placed on top)'
  NNG: Mangap            to                 'cook with hot stones; bake'
  NNG: Kove              ta-tao             'cook in a native oven'
  MM: Nakanai            taho(robo)         'put stones on top of the oven (over the bundled food)' (_robo_ 'cover')
@@ -7681,8 +7677,7 @@ POc *puke(s), *pukes-i- 'uncover, open (stone oven; probably other things as wel
 <
 
 PMP *uruŋ 'collect, gather' (Blust 1972b)
-POc *uru(ŋ) 'take food and/or hot stones out of stone oven or fire'; more generally 'collect,
- gather'
+POc *uru(ŋ) 'take food and/or hot stones out of stone oven or fire'; more generally 'collect, gather'
   PT:     Motu           uru               'cook in hot ashes'
   MM:     Tolai          ur                'remove, take away (food off fire +)'
   SES:    Sa'a           uru-uru           'gather up in the hand, collect, wipe'
@@ -7809,7 +7804,7 @@ terms, *nasu was unmarked and could be used to refer to both types of process.
 <
 
 PAn *nasuk, *Nasu 'cook by boiling' (ACD)
-POc *nasu(q) (V) 'boil; steam (?)
+POc *nasu(q) (V) 'boil; steam (?)'
   NNG: Gitua                  na-nazu               'cook in hot water'
   PT:  Maopa                  naru                  'boil (s.t.)'
   PT:  Motu                   nadu-                 'cook by boiling'
@@ -8022,7 +8017,7 @@ Alongside *qataq, PAn also had a term *qetaq, which retained its verbal use in P
 specifically to raw meat, fish and shellfish, and to the eating of such foods:
 
 PAn *qetaq 'eat s.t. raw' (ACD)
-POc *(k,q)oda 'raw (meat, fish, shellfish); eat raw (meat, fish, shellfish)
+POc *(k,q)oda 'raw (meat, fish, shellfish); eat raw (meat, fish, shellfish)'
    PT: Molima             oda                '(animals) eat raw food'
    PT: Kilivila           koda               'eat s.t. uncooked'
    MM: Roviana            oda                'eat fish without baso (relish) or vegetables; eat garden produce, of pigs'
@@ -8171,8 +8166,7 @@ POc *mara 'be spoiled, foul (of food or drink)'
 >
 <
 
-POc *madraR 'grow ripe, (breadfruit and bananas) be overripe', *madraR-i- 'grow ripe,
- overripe from (s.t.) (?)'
+POc *madraR 'grow ripe, (breadfruit and bananas) be overripe', *madraR-i- 'grow ripe, overripe from (s.t.) (?)'
  Adm: Mondropolon       madra-n        'ripe'
  NNG: Bilibil           mad            'ripe'
  MM: Tolai              madar          'ripe, overripe'
@@ -8406,7 +8400,7 @@ POc *koRi 'scraper; bivalve sp., used as a scraper; scrape with a shell'
 >
 <
 
-PEOc (POC?)[6] *kori(s), *koris-i- 'scrape (esp. coconuts), grate (esp. coconuts)
+PEOc (POC?)[6] *kori(s), *koris-i- 'scrape (esp. coconuts), grate (esp. coconuts)'
     NNG: Kove                 ko-koli               'scrape the exterior off food (trepang, taro)'
     SES: Gela                 goli                  'scrape coconut with a tue (fresh water shell)'
     SES: Gela                 gori                  'shave the head'
@@ -9510,7 +9504,7 @@ this application goes back to PMP times.
 
 <
 
-POc *(q)oRa 'strake, probably topstrake (washstrake)
+POc *(q)oRa 'strake, probably topstrake (washstrake)'
   MM:     Mono-Alu        ora                'median strake at each end, above keel strakes on a canoe with dugout underbody'
   Pn:     Niuean          oa                 'washstrake, grooved and drilled for lashing to the hull'
   Pn:     Samoan          oa                 'gunwale and gunwale flange'
@@ -10263,7 +10257,8 @@ PEOc *sua(C) (V) 'scull, row with oar held vertically'
 
 <
 
-PMP *teken 'pole, staff' was evidently continued in POc both as a noun *tokon and as a transitive verb *tokon-i- (v) 'punt or pole (a boat)':
+ PMP *teken 'pole, staff' was evidently continued in POc both as a noun *tokon and as a transitive verb *tokon-i- (v) 'punt or pole (a boat)':
+
 POc *tokon 'staff, punting pole'; *tokon-i 'punt or pole (a boat)'
   NNG:    Gedaged       tok               'pole, stick, staff'
   NNG:    Tuam          to                'punting pole'
@@ -10676,7 +10671,7 @@ Polynesian and Papuan Tip languages may be the result of parallel development. H
 both groups the formation of compounds with *tau is no longer productive, so the chances
 are that the compounds in question are quite old.
 
-POc *tau (ni) waga 'owner of a boat'
+POc *|tau (ni) waga| 'owner of a boat'
   PT:     Molima        |to ni waga|        'canoe owner or captain'
   PT:     Muyuw          |ta-ga-ni-wag|      'canoe owner or captain'
   Fij:    Bauan          |tau-kei ni waga|   'boat owner'
@@ -12681,7 +12676,7 @@ Note that the Malaita-Makira languages of SES have formed a new transitive verb 
 those attributed to *ma-utus, the differences in form and meaning are consistent enough to
 require a separate reconstruction:
 
-POc *muju 'be clipped off', *mujuki- 'clip off (protruding growth close to the surface)
+POc *muju 'be clipped off', *mujuki- 'clip off (protruding growth close to the surface)'
    Adm: Lou               mut               'cut'
    SES: Lau               mu-mudu           'a fragment, portion, crumb, scrap, chip'
    SES: Arosi             modu              'cut off the end'
@@ -13228,7 +13223,7 @@ POc *sali[-] 'strip leaves from branch, frond'
 adze), whittle', is referred to in §3.3. Note, however, that Gela sapi formally reflects *sapʷi
 rather than *sapi, and is included below on semantic grounds:
 
-PEOc *sapi[-] 'strip (leaves); pluck (fruit, nuts)
+PEOc *sapi[-] 'strip (leaves); pluck (fruit, nuts)'
    SES:       Gela         sapi                'pluck fruit from a bunch; strip off leaves'
    SES:       Lau          tāfi                'lop off; take off midrib of sago palm leaf'
    SES:       'Are'are     tahi                'strip off leaves; cut into slices'
@@ -13270,7 +13265,7 @@ forms with both vowels must be reconstructed for POco
 >
 <
 
-POc *pt')ilit 'peel by hand (fruit, cooked food)'
+POc *(p,pʷ)ilit 'peel by hand (fruit, cooked food)'
    NNG: Mangap             pīli               (v) 'husk (com, pitpit +)'
    NNG: Kairiru            pil                'peel skin off (cooked vegetable) by hand' (PL OBJ)
    NNG: Kairiru            pli                'peel skin off (cooked vegetable) by hand' (SG OBJ)
@@ -13970,7 +13965,7 @@ POc *baki- (VT) 'strike one against another, knock, clap'
 >
 <
 
-PMP *tu(m)buk 'pound [6]
+PMP *tu(m)buk 'pound' [6]
 POc *tupu(k), *tupu(k)-i- 'knock against, knock over, stub (toe), stumble against'
     Adm:     Drehet            tupʷi(yi)            'push; knock over; set loose, adrift'
     NNG:     Mangseng          tup                  'stub, hit'
@@ -14194,7 +14189,7 @@ PEOc *pora(k), *porak-i- 'break, damage'
 >
 <
 
-PMP *ra(m)bek 'strike, break' (ACD) (cf. *rabuk 'knock, pound')
+PMP *ra(m)bek 'strike, break' (cf. *rabuk 'knock, pound') (ACD)
 POc *rabo(k) 'break, smash'
    SES:        Gela         rabo             'break, smash'
    SES:        Arosi        rabo(asi)        (VT) 'explode'
@@ -14421,7 +14416,7 @@ PMP *kinit 'pinch, nip, pluck' (ACD)
 
 <
 
-PEOc *suqi[-] 'take S.t. down (from a hook or branch) ,
+PEOc *suqi[-] 'take s.t. down (from a hook or branch)'
       SES:    Gela           hui                 'take down from or off, as off a peg on the wall; to unclothe'
       SES:    Bugotu         hui                 'take down, let down; cease'
    Fij :    Rotuman         sui                 'unloose, undo, untie, unbind; disentangle; take off clothes'
@@ -14584,7 +14579,7 @@ PNNG *(p,pʷ)isa(k), *(p,pʷ)isak-i- 'squeeze (grated coconut +)'
 <
 
 PAn *peRes 'squeeze out' (Blust 1972b)
-POc *poRo(s) 'squeeze out, wring out (liquid)
+POc *poRo(s) 'squeeze out, wring out (liquid)'
    NNG: Gitua               poro                'wring'
    NNG: Kove                poho                'squeeze, wring out; add coconut cream to food; make sago'
   NNG:     Kairiru        fuor               'squeeze (grated coconut +)'

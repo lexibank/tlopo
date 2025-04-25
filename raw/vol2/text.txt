@@ -2720,7 +2720,7 @@ PPn *maquŋa ‘mountain’ (Biggs & Clark 1993)
 Note also the following PEOc reconstruction:
 
 <
-PEOc *qulu ni panua ‘headland, mountain peak’ (POc *qulu ‘head’, ni ‘of’, *panua ‘land’)
+PEOc *|qulu ni panua| ‘headland, mountain peak’ (POc *qulu ‘head’, ni ‘of’, *panua ‘land’)
  Mic: Chuukese     | wɨɾɨ-ɾ fəɾɨ |   ‘cape, point (of an island)’
  Fij:    Bauan     | ulu ni vanua |  ‘mountain’
 >
@@ -3219,8 +3219,8 @@ similar to refer to a spring. A POc reconstruction is possible given the existen
 Indonesian mata air ‘spring’, reflecting PMP *mata WahiR ‘spring of water’. Other
 compounds with similar meaning are found throughout the wider Oceanic region.
 
-PMP *mata WahiR ‘spring of water’
-POc *mata waiR ‘spring of water, source of a river’
+PMP *|mata WahiR| ‘spring of water’
+POc *|mata waiR| ‘spring of water, source of a river’
  SV: Anejom           nemta-n-wai
  Fij: Wayan          | mata ni wai |
  Pn:  Tongan          mata-vai
@@ -3436,7 +3436,7 @@ POc *qapu(R) ‘lime, burnt coral or limestone’
 compound term reflecting POc *patu + maqañur (‘stone’ + ‘float’) is reconstructable for
 PEOc.
 
-PEOc *patu maqañur ‘pumice’ (lit. ‘floating stone’)
+PEOc *|patu maqañur| ‘pumice’ (lit. ‘floating stone’)
  SES: Kwaio        | fou manu-manu |        ‘pumice’
  SES: ’Are’are     | hau manu-manu | ‘pumice’
  SES: Lau          | fou manu-manu |        ‘pumice’
@@ -3450,7 +3450,7 @@ reflexes of POc *qaliR ‘drift, float’ rather than POc *maqañur ‘floating,
 <
    Proto Micronesian had its own term for pumice, probably preposed by *fatu ‘stone’.
 
-PMic *(fatu) wāni ‘pumice’ (Marck 1994)
+PMic *|(fatu) wāni| ‘pumice’ (Marck 1994)
  Mic: Kiribati         wān              ‘pumice’
  Mic: Kosraean         yot-wen          ‘basalt’
  Mic: Mokilese         wɛ̄n             ‘pumice’
@@ -3651,7 +3651,7 @@ POc *maqasin (V) ‘be salty’, (N) ‘salt’
  MM: Nakanai           ma-masi          ‘salty’
  MM: Meramera          masi             ‘salt, sour’
  SES: Bugotu           mahi             ‘deep sea’
- NCal: Cèmuhî          màt, màlİ̈       ‘salty’
+ NCal: Cèmuhî          màt, màlɛ̀       ‘salty’
  Fij:  Rotuman         mnsi             ‘salt’
  Fij:  Bauan           māsi(ma)         ‘salt obtained by evaporation from seawater’ (origin of -ma unknown)
  Pn:   Samoan          māsi(ma)         ‘salt’ (origin of -ma unknown)
@@ -4090,7 +4090,7 @@ metaphorical extension of ‘tongue’ it is difficult to know whether *maya had
 polysemy in POc or whether daughter languages have from time to time independently
 made the same extension.
 
-POc (?) *maya (ni api) ‘flame’ (N) (lit. ‘tongue’ or ‘tongue of fire’)
+POc (?) *|maya (ni) (api)| (N) ‘flame’ (lit. ‘tongue’ or ‘tongue of fire’)
  NNG: Mbula         | you mia-na |                      ‘flame’ (lit. ‘tongue of fire’)
  SES: Sa’a          | mea, mea-mea(hana hunge) | ‘flame’
  SES: ’Are’are       mea                              ‘spark’
@@ -4392,7 +4392,7 @@ subgroups.
 its reflex is a noun referring to a high spring tide. In Tongan it is a verb denoting the state
 or process of a river being in flood.
 
-PMP *bahaq ‘a flood; overflow, be in flood’, (ACD, Dempwolff 1938)
+PMP *bahaq ‘a flood; overflow, be in flood’ (ACD, Dempwolff 1938)
 POc *pa(a)q ‘overflow, flood’ (ACD)
  SES: Sa’a            | (lua) hā |        ‘high spring tide’
  Pn:   Tongan          fā               ‘(of a river) to overflow, be in flood’
@@ -5602,7 +5602,7 @@ POc *mwaloq ‘submerged rock or coral reef, coral head’
  SES: Kwaio           walo             ‘reef’
  SES: ’Are’are        maro             ‘submerged coral reef’
  SES: Sa’a            mʷalo            ‘sunken rock, reef at sea’
- SES: Arosi           mwʷaro            ‘hidden rock or shoal’
+ SES: Arosi           mʷaro            ‘hidden rock or shoal’
  NCV: Mota            mʷalo            ‘a sunken rock where the sea breaks’
  NCV: Raga            malo             ‘reef’
  NCV: Nguna           mʷālo            ‘coral head’
@@ -5771,7 +5771,7 @@ PPn *awa ‘channel, passage through reef’ (Biggs & Clark 1993; loss of initia
                                                                       The seascape      117
 
 <
-POc *mata (qi/ni) sawa(n,ŋ) ‘channel in fringing reef giving passage to boats; landing place’ (Pawley & Pawley 1994; *mata ‘eye’, *qi or *ni ‘genitive linker’)
+POc *|mata (qi,ni) sawa(n,ŋ)| ‘channel in fringing reef giving passage to boats; landing place’ (Pawley & Pawley 1994; *mata ‘eye’, *qi or *ni ‘genitive linker’)
  Adm: Lou            mara-sa            ‘channel, passage between islands’
  Adm: Titan          mata-caw           ‘channel, passage between islands’
  Adm: Loniu          ma-caw             ‘ocean passage between two islands’
@@ -6684,8 +6684,8 @@ POc *tokalau(r) ‘(?) northerly wind’
 PPn *tokelau ‘northwesterly quadrant, northwest winds’ (Biggs & Clark 1993)
  Pn:    Tongan         tokelau             ‘north ’
  Pn:    E Futunan      tokelau             ‘northerly wind’
- Pn:    Pukapukan     | tokelau’ (iti) |     ‘north wind’ (Lewis 1972:75)
- Pn:    Pukapukan     | tokelau’ (matua) | ‘northwest wind’ (Lewis 1972:75)
+ Pn:    Pukapukan     | tokelau (iti) |     ‘north wind’ (Lewis 1972:75)
+ Pn:    Pukapukan     | tokelau (matua) | ‘northwest wind’ (Lewis 1972:75)
  Pn:    Rennellese     tokegau             ‘northwest wind’
  Pn:    Samoan         toʔelau             ‘trade wind from northeast to east-southeast’
  Pn:    Tuvaluan       tokelau             ‘north, northerly wind’
@@ -8600,7 +8600,7 @@ PMic *kua ‘Dolphin constellation incl. Cassiopeia’ (approximately equivalent
  Mic: Satawalese        xu               ‘Dolphin constellation, whose tail is marked by Cassiopeia’
 >
 <
-PChk *ukulīk ‘Cassiopeia’ (lit. ‘tail of fish’) (POc *ikuR ‘tail’, *ikan ‘fish’)
+PChk *ukulīk ‘Cassiopeia’ (lit. ‘tail of fish’; POc *ikuR ‘tail’, *ikan ‘fish’)
  Mic: Puluwatese        wɨkɨnlik             ‘Cassiopeia’ (lit. ‘fish tail’)
  Mic: Woleaian          ɨxɨrīx               ‘Cassiopeia’
  Mic: Carolinian        ɨkkɨnīx              ‘star or stars in constellation of Cassiopeia’
@@ -9931,12 +9931,15 @@ POc *b(w)arapu ‘long, tall’
 204   Malcolm Ross
 
 <
-PMP *[ma]laŋkaw ‘high, tall’10 (ACD: *laŋkaw)
+PMP *[ma]laŋkaw  [10] ‘high, tall’ (ACD: *laŋkaw)
 POc *[ma]lago ‘long, tall’
  NNG: Amara            melak            ‘far away’
  NNG: Arove            malak            ‘long, far away’
  NNG: Kaulong          (no)malak        ‘long’
  MM: Meramera          lago             ‘long’
+
+[10] A PMP form with *ma- is reflected by Palawan mblaŋkbw, Molbog molaŋkow, and Uma molaŋko, all
+   ‘tall’ (data from Tryon, ed. 1995).
 >
 <
 PMP *lawa ‘wide’ (ACD)
@@ -9976,9 +9979,6 @@ Western Oceanic languages except for Mussau tuku. In the unlikely event that the
 were a borrowing, *tuku would then be of Proto Western Oceanic, rather than of POc,
 vintage.
 
-
-[10] A PMP form with *ma- is reflected by Palawan mblaŋkbw, Molbog molaŋkow, and Uma molaŋko, all
-   ‘tall’ (data from Tryon, ed. 1995).
                                                     Properties of inanimate objects      205
 
 <
@@ -10883,7 +10883,7 @@ POc *paka(s) ‘have strength, energy’ (ACD)
 >
 <
 PMP *la(ŋ)kas ‘spirited, energetic’ (ACD)
-POc *laga(s) ‘spirited, energetic’ ACD
+POc *laga(s) ‘spirited, energetic’ (ACD)
  MM: Sursurunga          lak-lak          ‘hard, stubborn’
  SES: Gela               laga             ‘strong, strength; energetic’
  SES: Arosi              raga             ‘strong, strengthened, invigorated’
@@ -11544,8 +11544,8 @@ languages do not have a relative spatial system (p.230).
 languages, but there are also many languages in which a local noun occurs without a
 preposition.
 
-PAn *i (PREP) locative (ACD)
-POc *i (PREP w PLC, N LOC) locative
+PAn *i (PREP) (locative) (ACD)
+POc *i (PREP w PLC, N LOC) (locative)
  Adm: Mussau                 e-       (fossilised prefix on locative nouns)
  Adm: Penchal                i        (PREP) (locative, temporal, allative, instrumental)
  Adm: Lou                    e        (PREP) (locative, allative)
@@ -12858,7 +12858,7 @@ POc (N, N LOC)*muri[-] ‘be behind, be after; back part, rear, behind, space to
 Northwest Solomonic *mudi[-] is reconstructable (this would reflect POc *mudri) instead
 of expected **muri[-].
 
-Proto Northwest Solomonic *mudi-‘back of s.t.; s.o.’s back’
+Proto Northwest Solomonic *mudi- ‘back of s.t.; s.o.’s back’
  MM: Nehan             mudi             ‘back of s.t.; s.o.’s back’
  MM: Petats            muru             ‘s.o.’s back’
  MM: Halia (Haku) muru                  ‘back of s.t.; s.o.’s back’
@@ -14027,7 +14027,7 @@ a role in the history of these forms, as they have a dative function.
    Other reflexes of *ua apparently occur as demonstratives in a number of languages.
 
 <
-POc *ua ‘go towards addressee’, (DIR) ‘towards addressee’, (DEM) ‘away from speaker’, anaphoric
+POc *ua ‘go towards addressee’, (DIR) ‘towards addressee’, (DEM) ‘away from speaker’ (anaphoric)
  NNG: Lusi             (ɣe-ra)wa         (LOC) ‘away from speaker’
  NNG: Lusi             (ne-dua)wa        (PRO) ‘that one remote from speaker’ (cf. ne-dua (PRO) ‘away from speaker’)
  NNG: Bariai           oa                (ADN) (away from speaker, anaphoric)
@@ -15149,7 +15149,7 @@ of a day, daylight’ and do not refer directly to the sun. This item, along wit
 sun’, is also reconstructed in Chapter 6 (p.160), where more detail is provided.
 
 <
-PAn *qajaw, *qalejaw ‘sun, daylight’ (ACD)11
+PAn *qajaw, *qalejaw ‘sun, daylight’ (ACD) [11]
 POc *qaco ‘sun, daytime’
  Adm: Ponam                al             ‘sun’
  Adm: Mondropolon          al             ‘sun’
@@ -15913,7 +15913,7 @@ Solomons and northern Vanuatu.
 
 <
 PMP *ñeRab ‘yesterday’
-POc *ñoRap ‘yesterday’, i ñoRap, *qa-ñoRap (?)
+POc *ñoRap ‘yesterday’ (*|i ñoRap|, *qa-ñoRap (?))
  NNG: Kove              noha         ‘yesterday’
  NNG: Gitua             nora         ‘yesterday’
  NNG: Mangap            nēri         (ADV) ‘yesterday, subjectively recent time, just recently’
@@ -15962,8 +15962,8 @@ reconstructed by Lynch (2001:211) as *na-yan(a,u)v. POc *R is sporadically lost 
 South Vanuatu, and these forms seem to reflect a metathesis of a reflex of na-ñoRap to
 *na-Rañop.
 
-POc *na-ñoRap ‘yesterday’, i na-ñoRap, *qa-na-ñoRap (?)
- NNG: Lamogai          narnop          ‘yesterday ’(< *na-norap: metathesis)
+POc *na-ñoRap ‘yesterday’ (*i na-ñoRap, *qa-na-ñoRap (?))
+ NNG: Lamogai          narnop          ‘yesterday’ (< *na-norap: metathesis)
  MM: Tabar             nenora          ‘yesterday’
  MM: Nduke             nonoro          ‘yesterday’
  SES: ’Are’are         nonora          ‘yesterday’

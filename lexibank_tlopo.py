@@ -1,4 +1,3 @@
-import re
 import pathlib
 import collections
 
@@ -7,7 +6,7 @@ import pylexibank
 from clldutils.misc import slug
 from pyetymdict import Dataset as BaseDataset, Language as BaseLanguage
 
-from lib.models import iter_reconstructions
+from pytlopo.models import Volume
 
 
 @attr.s
@@ -45,18 +44,19 @@ class Dataset(BaseDataset):
                 langs[alt] = v
         allps = 0
         per_pl = collections.defaultdict(list)
-        words = 0
-        pfs = collections.Counter()
-        reflexes = collections.Counter()
         bycat = collections.Counter()
         for vol in range(1, 7):
-            if vol == 1:
-                continue
+            #if vol == 1:
+            #    continue
             t = self.raw_dir / 'vol{}'.format(vol) / 'text.txt'
             if not t.exists():
                 continue
             print('Volume', vol)
-            for i, rec in enumerate(iter_reconstructions(t, langs)):
+            vol = Volume(t.parent, langs)
+            words = 0
+            pfs = collections.Counter()
+            reflexes = collections.Counter()
+            for i, rec in enumerate(vol.reconstructions):
                 #gloss_words = set()
                 #for gloss in rec.glosses:
                 #    gloss_words |= {slug(w) for w in gloss.split() if slug(w)}
@@ -79,7 +79,7 @@ class Dataset(BaseDataset):
                     per_pl[pf.protolanguage].append(pf)
                 for w in rec.reflexes:
                     reflexes.update([str(w)])
-            print(i, words, sum(1 for pf in pfs if 'POc' in pf))
+            print('Reconstructions:', i, 'Reflexes:', words, 'POc reconstructions:', sum(1 for pf in pfs if 'POc' in pf))
             #for k, v in pfs.most_common():
             #    if v > 1:
             #        print(v, k)
@@ -103,7 +103,8 @@ class Dataset(BaseDataset):
             args.writer.add_language(**v)
         gloss2id = {}
         t = self.raw_dir / 'vol1' / 'text.txt'
-        for i, rec in enumerate(iter_reconstructions(t, langs)):
+        vol = Volume(t.parent, langs)
+        for i, rec in enumerate(vol.reconstructions):
             #
             # Check if we need to create the reconstruction!
             #
