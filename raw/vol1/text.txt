@@ -5,7 +5,6 @@
 
 
 
-                                                                                                              1          Material culture
 
 
 
@@ -266,6 +265,7 @@ Map 2: Geographic limits of historically known Oceanic speakers and of presently
                        and number. Volume 5, as it is planned at the time of writing, will also include an index to
                        the POc and other reconstructions presented in the whole work, as well as an English-to-POc
                        finderlist and a list of all languages cited, together with their subgroups.
+
                           Proto Oceanic is the immediate ancestor of the Oceanic subgroup of the Austronesian
                        language family (see Map 1). This subgroup consists of all the Austronesian languages of
                        Melanesia east of 136 'E, together with those of Polynesia and (with two exceptions) those of
@@ -273,6 +273,7 @@ Map 2: Geographic limits of historically known Oceanic speakers and of presently
                        Oceanic as a clearly demarcated branch of Austronesian were first put forward by Otto
                        Dempwolff in the 1920s (cf. Ch. 2, §2.4) and the validity of the subgroup is now recognised
                        by virtually all scholars working in Austronesian historical linguistics.
+
                           The development and break-up of the POc language and speech community were stages in
                        a truly remarkable chapter in human prehistory-the colonisation by Austronesian speakers
                        of the Indo-Pacific region in the period after about 3000 BC. The outcome was the largest of
@@ -285,6 +286,7 @@ Map 2: Geographic limits of historically known Oceanic speakers and of presently
 2   Malcolm Ross, Andrew Pawley and Meredith Osmond
 
 degrees of latitude from its southernmost outpost, Stewart Island in New Zealand.
+
    It is likely that the divergence of Oceanic from its nearest relatives, which are the Austronesian
 languages spoken around Cenderawasih Bay and in South Halmahera (Blust 1978a), began
 when Austronesian speakers from the Cenderawasih Bay area moved eastwards along the
@@ -292,12 +294,14 @@ north coast of New Guinea or into the Bismarck Archipelago. There is a strong sc
 opinion that associates the subsequent break-up of POc with the rapid colonisation of Island
 Melanesia and the central Pacific by bearers of the Lapita culture between about 1500 and
  1000 BC (see Map 2).[3]
+
    The present project aims to bring together a large corpus of lexical reconstructions for
 POc, together with supporting cognate sets, organised according to semantic fields and using
 a standard orthography for POco The symposium entitled Austronesian terminologies:
 continuity and change held at the Australian National University in October 1990 showed
 that there was considerable interest among scholars in such a project (the proceedings were
 published as Pawley & Ross 1994).
+
    We hope that this thesaurus will be a useful resource for culture historians, archaeologists
 and others interested in the prehistory of the Pacific region.[4] The comparative lexical material
 should also be a rich source of data for various kinds of purely linguistic research, e.g. on
@@ -323,10 +327,12 @@ semantic change and subgrouping in the more than 400 daughter languages.
 
 
 1.2 The relation of the current project to previous work
+
    Reconstructions of POc phonology and lexicon began with Dempwolff's pioneering work
 in the 1920s and 1930s. Dempwolff's dictionary of reconstructions attributed to 'PAn'
 (Dempwolff 1938)-but equivalent in modern terms to 'PMP' -contains some 600
 reconstructions with reflexes in Oceanic languages.
+
    Since the 1950s, POc and other early Oceanic interstage languages have been the subject
 of a considerable body of research. However, relatively few new reconstructions safely
 attributable to POc were added to Dempwolff's material until the 1970s. In 1969 George
@@ -354,6 +360,7 @@ and Ozanne-Rivierre (1982) and Geraghty (1989); for Proto Southeast Solomonic by
 Eastern Oceanic by Biggs (1965), Cashmore (1969), Levy and Smith (1970), and Geraghty
 (1990); and for Proto Central Papuan by Pawley (1975), Lynch (1978a, 1980), and (Ross
 1994a).
+
    Robert Blust of the University of Hawaii has, in a series of papers (1970, 1980b, 1983-84a,
 1986, 1989) published extensive, alphabetically ordered, lexical reconstructions (with
 supporting cognate sets) for interstages earlier than POc, especially for Proto Austronesian,
@@ -361,11 +368,13 @@ Proto Malayo-Polynesian and Proto Eastern Malayo-Polynesian. He has also written
 papers investigating specific semantic fields (Blust 1980a, 1982, 1987, 1994). At the time of
 writing, Blust is in the process of compiling his Austronesian Comparative Dictionary (ACD)
 on disk at the University of Hawaii. The version to which we refer dates from 1995.
+
    Several papers systematically investigate particular semantic domains in the lexicon of
 POc, e.g. Milke (1958), French-Wright (1983), Pawley (1982), Pawley and Green (1985),
 Lichtenberk (1986), Walter (1989), and the various papers in Pawley and Ross (1994). Ross
 (1988) contains a substantial number of new POc lexical reconstructions, as well as proposed
 modifications to the reconstructed POc sound system and the orthography.
+
    These earlier works have provided valuable points of reference, both inside and outside the
 Oceanic group, and we are indebted particularly to Biggs (1993), Clark (1994) and Blust
 (ACD). However, previous Oceanic lexical studies were limited both by large gaps in the data,
@@ -376,6 +385,7 @@ Papua New Guinea, than there were ten years ago. And developments in computing h
 and software now permit much faster and more precise handling of data than was possible
 even five years ago. A list of sources and a summary of the Project's collation procedures is
 found in Appendix 1.
+
    As the present project proceeded, we came to realise that the form in which preliminary
 publications were presented-namely as essays, each discussing a particular terminology at
 some length-would also be the best form for the presentation of our final synthesis. A
@@ -404,6 +414,7 @@ editors than would otherwise be normal in a composite volume.
 
 
 1.3 Reconstructing the lexicon
+
    The lexical reconstructions presented in these volumes are arrived at using the standard
 methods of comparative linguistics, which require as preliminaries a theory of subgrouping
 (§3.2) and the working out of systematic sound correspondences among cognate vocabulary
@@ -436,6 +447,7 @@ did not expect to do so and conversely, often more significantly, where we were 
 reconstruct a term where we had believed we should be able to. In each case, we have
 discussed the reasons why our expectations were not met and what this may mean for
 Oceanic culture history .
+
     Blust (1987:81) distinguishes between conventional 'semantic reconstruction', which asks,
 "What was the probable meaning of protomorpheme X?", and Dyen and Aberle's (1974)
 'lexical reconstruction ', where one asks, "What was the protomo rpheme which probably
@@ -448,6 +460,7 @@ available cognate sets, then an algorithm is applied to determine which meaning 
 attributed to each set. This procedure may have unsatisfactory results, as Blust points out.
 Several reconstructions may end up with the same meaning; or no meaning may be reconstructed
 for a form because none of the glosses of its reflexes is its protomeaning.
+
    Terminological reconstruction is instead similar to the semantic reconstruction approach.
 In terminological reconstruction the meanings of protomorphemes are not determined in
 advance. Instead, cognate sets are collected and their meanings are compared with regard to:
@@ -466,6 +479,7 @@ POc *pʷita 'tie by encircling'
 POc *paqu(s), *paqus-i- 'bind, lash; construct (canoe +) by lashing together'
 POc *pisi 'bind up, tie up, wind round, wrap'
 POc *kiti 'tie, bind'
+
 In each of the supporting cognate sets from contemporary languages there are a number of
 items whose glosses in the dictionaries or word lists are too vague to tell the analyst anything
 about the specific denotation of the item, and in the case of *kiti this prevents the assignment
@@ -482,6 +496,7 @@ respectively 'tie, bind; construct (a canoe)', 'construct (canoe, house)', and '
 (wooden objects, canoes +)' : Takia is a North New Guinea language, Kiribati is Micronesian,
 and Samoan is Polynesian. The meaning of *pisi is similarly reconstructed by reference to
 the meanings of its Mono-Alu, Mota, Port Sandwich, Nguna and Fijian reflexes.
+
    Often, however, the contributors of these chapters have been less fortunate in the information
 available to them. For example, Osmond (Ch. 8, § 9 ) reconstructs six POc terms broadly
 glossed as 'spear'. Multiple terms for implements within one language imply that these items
@@ -505,6 +520,7 @@ ancestor. Thus Formosan languages indicates a collection of languages descended 
 a particular kind of spear? Is it noun or verb or both? If a noun, does it refer to both the
 instrument and the activity? Most word lists are frustratingly short on detail. For this kind of
 detail, ethnographies have proved a more fruitful source of information than many word lists.
+
    Another problem is inherent in the dangers of sampling from over 450 languages. The
 greater the number of languages, the greater are the possible variations in meaning of any
 given term, and the greater the chances of two languages making the same semantic leaps
@@ -529,6 +545,7 @@ language (Roviana avisi 'twins of the same sex'). Because Roviana belongs to a d
 first-order branch of Malayo-Polynesian from the Western Malayo-Polynesian witnesses and
 because there is virtually no chance that the agreement is due to borrowing or chance similarity,
 this distribution is enough to justify the reconstruction of PMP and POc *apij 'twins'.
+
     Although the subgrouping of Austronesian languages and questions about which
 protolanguage was spoken where remain somewhat controversial, it is impossible to proceed
 without making some assumptions about these matters.. Figure 1 is an approximate rendering
@@ -536,6 +553,7 @@ of our subgrouping assumptions, and also serves as a key to abbreviations of nam
 language groups and protolanguages. The upper part of the tree (as far down as POc) is due
 to Blust, originally presented in Blust (1977) and repeated with additional supporting evidence
 in subsequent publications (Blust 1978a, 1982, 1983-84b, 1993).[5]
+
     Within Oceanic we assume a minimum of three primary subgroups: Western Oceanic,
 Admiralties (Adm), and Eastern Oceanic (see Map 3). Western Oceanic and Admiralties are
 reasonably well founded, and have been defined by Ross (1988). The St Matthias group, also
@@ -566,12 +584,14 @@ data from Yapese, which may also be a single-member primary subgroup of Oceanic 
 1996a), but we have not treated it as a subgroup for the purpose of reconstruction (i.e.
 reflexes of an etymon in Yapese and in just one of the three primary subgroups listed above
 would not be enough to justify a reconstruction).
+
    The Western Oceanic languages seem to be the outcome of the gradual and complex
 diversification of an old dialect network. It could be argued that these languages have no
 exclusively shared protolanguage other than POc (this is the approach of Ross 1994b), but
 there are enough innovations in the lexicon and elsewhere to suggest that the original Western
 Oceanic dialect network was quite compact, and we treat it here as a unitary protolanguage,
 Proto Western Oceanic.
+
    Western Oceanic in turn consists of the North New Guinea (NNG), Papuan Tip (PT) and
 Meso-Melanesian (MM) clusters and the Sarrni/Jayapura (SJ) group (see Map 4). The last-named
 may belong to the NNG cluster, but this is uncertain (Ross 1996b). It is possible that the NNG
@@ -579,15 +599,18 @@ and PT clusters form a super-cluster, New Guinea Oceanic, and so etyma which occ
 NNG and PT languages are attributed to a putative Proto New Guinea Oceanic (pNGOc), and
 etyma found in either NNG or PT (or both) and also in MM are labelled Proto Western
 Oceanic (PWOc).
+
    The Admiralties subgroup is treated as having no internal subgrouping. The Eastern Oceanic
 subgroup is assumed to consist of Southeast Solomonic (SES), North/Central Vanuatu (NCV),
 South Vanuatu (SV), New Caledonia (NCal), Nuclear Micronesian (Mic), and Central Pacific
 (divided for convenience into Fijian [Fij] and Polynesian [pn]) (see Map 3). Reflexes in any
 two of these groups are enough to justify reconstruction of a Proto Eastern Oceanic (PEOc)
 etymon. [10]
+
    As noted above, it is likely that Eastern Oceanic is not a primary subgroup, but a collection
 of primary subgroups resulting from the very rapid dispersal of POc speakers (pawley &
 Ross 1995).
+
    We ask the reader to be mindful of the fact that we have provided this diagram as an aid
 to presentation: as soon as one draws a tree diagram, one has to choose among alternative
 hypotheses and draw all nodes as if they were equally well supported. This is far from the
@@ -618,6 +641,7 @@ Map 4: Groups of Oceanic languages in north-west Melanesia: the Admiralties and 
 
 Figure 1 to be taken as a definitive representation of our current assumptions about Oceanic
 subgrouping.
+
       Languages from which data are cited in this volume are listed in Appendix 2 in their
 subgroups, together with an index allowing the reader to find the subgroup to which a given
 language belongs.
@@ -639,11 +663,13 @@ Vanuatu; by Geraghty (1989) and Ozanne-Rivierre (1992) for New Caledonia; by Jac
 (1986) and Ross (1996a) for Nuclear Micronesian; by Geraghty (1986) for Central Pacific;
 by Biggs (1978) for Polynesian; by Ross (1996a) for Yapese; and by Ross (1996b) for Irian
 Jaya.
+
    For non-Oceanic languages we have referred to sound correspondences given by Tsuchida
 (1976) for Formosa; by Zorc (1977, 1986) and Reid (1982) for the Philippines; by Adelaar
 (1992) and Nothofer (1975) for Malay and Javanese; by Sneddon (1984) for Sulawesi; by
 Collins (1983) for Central Maluku; and by Blust (1978a) for South Halmahera and Irian
 Jaya.
+
    We are well aware that regular sound correspondences can be interfered with in various
 ways: by phonetic conditioning that the analyst has not identified (see, e.g., Blust 1996), by
 borrowing (for an extreme Oceanic case, see Grace 1996), or, as recent research suggests, by
@@ -689,6 +715,7 @@ modifications made by others and by us, and on why we have made them. Where a re
 is not new, we have tried to give its earliest source, but this is difficult when earlier reconstructions
 differ in form and meaning from ours, so the decision as to whether a particular reconstruction
 is 'new' is rather subjective.
+
     In general, the contributions to these volumes are concerned with items reconstructable in
 POc, PWOc, PEOc and occasionally PNGOc. Etyma for PWOc, PNGOc and PEOc are
 reconstructed because these may well also be pac etyma for which known reflexes are not
@@ -696,6 +723,7 @@ well distributed. The contributors to this volume vary in the degree to which th
 etyma for interstages further down the tree. Reconstructions for lower-order interstages are
 decreasingly likely to reflect pac etyma and may be the results of cultural change as Oceanic
 speakers moved further out into the Pacific.
+
     Except for the authors of Chapter 7, contributors have not sought to make fresh
 reconstructions at interstages superordinate to pac. What they have done, however, is to cite
 other scholars' reconstructions for higher-order interstages, as these represent a summary of
@@ -705,6 +733,7 @@ level interstage has previously been made. In this case a new higher-order recon
 made, and the non-Oceanic evidence is given in a footnote. Chapter 2 is a brief technical
 introduction to those aspects of pac which are relevant to the reconstruction of pac words. It
 is mainly intended for readers with linguistic training.
+
     Whilst we have tried to use the internal organisation of the lexicons of Oceanic languages
 themselves as a guide in setting the boundaries of each terminology, we have inevitably taken
 decisions which differ from those that others might have made. There are, obviously, overlaps
@@ -722,13 +751,14 @@ volumes collectively as a work of reference.
 endeavoured to ensure, however, that in each case this sample not only is geographically and
 genetically representative, but also provides evidence to justify the shape of the reconstruction.
 Where only a few reflexes are known to us, this is usually noted.
+
     Because our supporting data are drawn from such a wide range of languages, the convention
 is adopted of prefixing each language name with the abbreviation for the group of languages
 to which the language belongs, so that the distribution of a cognate set is more immediately
 obvious. These groups are genetic except, perhaps, North/Central Vanuatu (abbreviated 'NCV')
-                               ,
-and Fijian (abbreviated 'Fij: ).[11] We have sought to be consistent in always listing these
+and Fijian (abbreviated 'Fij:').[11] We have sought to be consistent in always listing these
 groups in the same order, but contributors vary in the ordering of languages within groups.
+
    Although there are accepted or standard orthographies for a number of the languages from
 which data are cited here, all data are transcribed into a standard orthography (see Ross
 1988:3-4) in order to facilitate comparison. Except for inflexional morphemes, non-cognate
@@ -751,6 +781,7 @@ or contains a reduplication, the morphemes or reduplicates are also separated by
 
 1.4.3 Conventions used in representing reconstructions
 
+
    POc reconstructions, and also PWOc, PEOc and PNGOc reconstructions, are given in the
 orthography of §3.4. For reconstructions at higher-order interstages the orthographies are
 those used by Blust in his various publications and the ACD. Reconstructions at lower-order
@@ -758,6 +789,7 @@ interstages are given in the standard orthography adopted for data (§4.2). Gera
 PCP orthography, for example, is based on Standard Fijian spelling, and is converted into our
 standard orthography in the same way as Fijian. Biggs' PPn reconstructions are in any case
 written in an orthography identical to our standard.
+
    Bracketing and segmentation conventions in protoforms are:
             (x)       it cannot be determined whether x was present
             (x,y)     either x or y was present
@@ -778,6 +810,7 @@ written in an orthography identical to our standard.
                            we therefore have no evidence as to whether or not the final consonant was retained in the
                            POc etymon in question. In such a case, since we know that final consonants were usually
                            retained in POc, the consonant is reconstructed in brackets (e.g. POc *kamali(R)).
+
                                When historical linguists compile cognate sets, they commonly retain the glosses given in
                            the sources from which the items are taken. However, again in the interests of comparison,
                            we have often reworded (and sometimes abbreviated) the glosses of our sources. Where the
@@ -787,6 +820,7 @@ written in an orthography identical to our standard.
                            convention of providing no gloss beside the items in a cognate set whose gloss is identical to
                            that of the POc (or other lower-order) reconstruction at the head of the set, i.e. the reconstruction
                            which they reflect.
+
                                Where glosses have been standardised, they are given according to the conventions described
                            by Geraghty (1983:8-11), although our abbreviations differ from his. Briefly, a noun modifying
                            a gloss is enclosed in brackets. If it refers to a subject or possessor, it precedes the gloss; if to
@@ -796,10 +830,12 @@ written in an orthography identical to our standard.
                            necessary, we use '(v) ' , '(VI)', or '(VT)' to indicate that a gloss is a verb, intransitive verb or
                            transitive verb, '(N)' to indicate that it is a noun. In glosses we use the conventional abbreviations
                            'k.o.' (as in 'k.o. yam') for 'kind of', 's.o.' for 'someone', and 's.t.' for 'something'.
+
                                In putting together cognate sets, we have quite often found apparent reflexes which do not
                            quite 'fit' the set: either they display a phonological irregularity or their meaning is just a little
                            too different from the rest of the set for us to assume cognacy. Rather than eliminate them,
                            our authors often include them below the cognate set under the rubric 'cf. also'.
+
                                We have mostly not indicated the POc word class to which a reconstruction belongs, as
                            this is often unclear. POc word classes and factors affecting their identification are discussed
                            in Chapter 2, as are issues concerning the derivational morphology which can be reconstructed
@@ -815,6 +851,7 @@ written in an orthography identical to our standard.
 2 Proto Oceanic phonology and morphology
 
 2.1       Introduction
+
                        This chapter is intended largely for historical linguists who have an interest in the
                     reconstruction of POc phonology and grammar. The non-linguist reader who chooses to skip
                     it will miss little that diminishes understanding of the chapters which follow.
@@ -846,6 +883,7 @@ written in an orthography identical to our standard.
 Haudricourt (1951 ), Milke (1968), Grace (1969), Wolff (1974), Blust (1978b) and Ross
 (1988 , 1989b, 1996d). The paradigm and orthography here are from Ross (1988), with the
 addition of *pw.
+
      The reconstruction of *pw was first proposed (with little commentary) by Blust (1984), and
 used in reconstructions by Ross (1994a, 1996d). The POc consonant inventory reconstructed
 by Ross (1988:9 3-94), as well as its orthographically somewhat different predecessor
@@ -855,6 +893,7 @@ required by the data is not surprising. However, the reflexes of *pw have not be
 as fully as those of other POc consonants (they are generally missing from the sources listed
 in Chapter 1 , §3.3 ), and unexplained inconsistencies remain among the small number of
 widely reflected items in which it is reconstructed. Reflexes which signal its presence are:
+
 a)     velarised bilabials (usually PJ in contexts where they do not reflect *bw;
        see *pʷaraq, *pʷararaq 'thunder', *pʷatik 'potato yam, aerial yam, Dioscorea bulbifera ',
        *ku(p,pʷ)ena 'fishing net';
@@ -866,12 +905,14 @@ c)     apparent reflexes of *b or *bw in Polynesian or Nuclear Micronesian (and 
        other) languages;
        see *la(p,pʷ)a(r,R) 'lightning, phosphorescence', *pʷaraq, *pʷararaq 'thunder', *ku(p,pʷ)ena
        'fishing net', *(p,pʷ)aRaRa 'handle'.
+
 In some cases we reconstruct *(p,pʷ) as we are unsure whether the protophoneme was *pw or
 whether we are confronted by one of several other phenomena, including (i) borrowing, (ii)
 Western Oceanic and SES fortis reflexes of *p, or (iii) velarisation before a rounded vowel in
 certain languages. As Blust (1981 ) remarks with regard to POc *bw and *mw, velarisation
 generally does not occur in non-Oceanic languages and sometimes occurs in POc etyma
 where non-Oceanic cognates give us no reason to expect it.
+
    Although the reconstructed paradigm is fairly secure, questions remain about the phonetics
 of some segments. The phonemes *pw, *bw and *mw are known in the literature as 'labio-velars';
 this orthography reflects their pronunciation in the majority of Oceanic languages in which
@@ -898,6 +939,7 @@ more evidently a voiced palatal obstruent. Of the two postvelars (see Ross 1988:
 was probably a glottal stop, but its uvular stop reflexes in some languages give room for
 doubt, whilst *R was probably a uvular trill, easily lost or merged with *r or *l in daughter
 languages.
+
     A noteworthy feature of the reconstructed consonant paradigm is that the only phonemic
 contrast between stops and fricatives is the one between *tl*d and *s, but, on the basis of
 widespread reflexes, it is likely that *[<1>, 13] and *[x, y] occurred as allophones of *p and *k
@@ -919,14 +961,17 @@ preserves a root-final consonant but the unsuffixed root loses it, the unsuffixe
 reconstructed with a parenthesised final consonant, e.g. POc *kinit-i- (VT) 'pinch (s.t.ls.o.)'
 but *kini(t) (VI) 'pinch'. It appears that PMP word-final consonants were quite consistently
 retained in POc, but to my knowledge no one has demonstrated that this is so.
+
     PMP permitted CVC syllables both word-finally and word-internally, as in *gapgap
 'stammer'. One of the innovations which defines POc is the loss of the final consonant of a
 word-medial syllable, as in POc *kaka(p). The most common context for this innovation is
 reduplicated forms like *gapgap (Blust 1977), but it also occurred elsewhere; for example,
 PMP *beR'li 'night' became POc *boŋi.
+
     The prenasalised consonants *bw, *b, *d, *j, *g, *dr and the glides *w, *y did not occur
 word-finally. The consonant *d seems to have occurred only intervocalically: if it did occur
 word-initially, these occurrences were extremely rare.
+
     POc vowel sequences have, to my knowledge, never been systematically investigated, but
 they seem not to have been particularly common. A check of several geographically and
 genetically well distributed languages which are otherwise phonologically conservative[2] reveals
@@ -973,11 +1018,13 @@ two birds with one stone, also showing the two current POc orthographies. The fi
 established by Grace (1969) and has been used with a number of variants (separated by a
 slash) shown below. The second is the one generally used in this chapter, introduced by Ross
 (1988).
+
 The terms 'oral grade' and 'nasal grade' were used by Grace (1969) and have become
 conventional among Oceanic linguists to refer to the outcomes of (c) below. Grace's orthography
 roughly represents the pre-POc situation. The innovations which occurred over the pre-POc
 period were mergers and splits, the introduction of new phonemes, and one deletion, as
 follows:
+
 a)   The PMP voiced/voiceless pairs *p, *b and *k, *g merged respectively as early pre-POc
      *p and *k. Ozanne-Rivierre (1992) suggests that the corresponding *t, *d merger was
      hindered by their mismatch in point of articulation (dental vs alveolar).
@@ -1031,6 +1078,7 @@ e)      PMP *h was lost in POc.
 f)      PMP *e, phonetically [;)], became POc *0, and the PMP word-final diphthongs *_uy(_),[3]
         *-aw and *-ay were simplified to POc *-i, *-0 and *-e respectively, the first two thereby
         merging with plain vowels.
+
 The combined effect of (a) and (c) is that each of the PMP pairs *p, *b and *k, *g first
 merged and then split. As a result, for example, PMP *p became either POc *p or POc *b,
 and the same was true of PMP *b, giving the kind of crossover seen in the initial consonants
@@ -1059,11 +1107,13 @@ PMP *gemgem          'make a fist'            POc *gugu(m) 'grasp in fist, clenc
 
 
 2.3 Word classes
+
    The remarks below on POc word classes and derivational morphology are rather brief,
 largely because these remain somewhat poorly explored areas. More detail is provided by
 Lynch, Ross and Crowley (forthcoming), but there is a great deal about POc morpho syntax
 that we do not know and which is perhaps irretrievable. The major publication on POc
 grammar is Pawley (1973). [5]
+
    Ideally, the reconstruction of a Proto Oceanic etymon should include not only its form and
 meaning, but also its word class membership. POc had just two open lexerne classes: nouns
 and verbs. POc was a head-marking language, and each valent (dependent) noun phrase was
@@ -1081,6 +1131,7 @@ two subclasses on the basis of valency.
 transitive. There were probably no trivalentlditransitive verbs, i.e., verbs whose role structures
 required or allowed three noun phrases without case marking, but we cannot be certain about
 this, as some modem languages do have trivalent verbs (Manam, Hoava).
+
    Verbs apparently took a proclitic cross-referencing their subject and, if transitive, an
 enclitic cross-referencing their object (in many daughter languages these are a prefix and a
 suffix), e.g. POc *i-kiniti-au 'he pinched me' (cf. Manam Pint-a).[7] To judge from descriptions
@@ -1130,6 +1181,7 @@ is a semantic one: is the intransitive verb inherently dynamic, inherently stati
 neither (column I )? However, I follow Oceanist convention by using labels which refer to the
 macrorole of the intransitive subject: A for actor, U for undergoer (column 2) , even though
 this leads to the partially redundant 'U-stative' label where 'stative' would do.[9]
+
     Fijian preserves the classification in Table 2 quite clearly, although individual verb forms
 in modern Fijian are not always in the same classes as the POc etyma they reflect. Intransitive
 verbs with an actor subject, i.e. A verbs, are necessarily dynamic (Table 2, columns 1 and 2).
@@ -1164,6 +1216,7 @@ transitive:
        s:3 S crush ART sugarcane                      'The sugarcane is being crushed.'
        b. Au gagi-a          a   dovu.
           s: l s crush-o:3 s ART sugarcane 'I'm crushing the sugarcane.'
+
 U verbs and U-statives differ from each other in two respects. First, unlike U verbs, U-statives
 have no corresponding transitive (but do have a corresponding causative, as described below).
 Second, U-statives like loaloa 'be black' in (3) are inherently stative, whereas U verbs like
@@ -1179,10 +1232,12 @@ languages, including Fijian, appropriate aspect marking can force a dynamic inte
 an U-stative (e.g. of 'black' as 'become black '). There does, however, seem to be a semantic
 difference between the two classes: intransitive U verbs imply some unmentioned agent or
 instrument, whereas U-statives do not.
+
    There is a tendency both in the reconstruction of POc (pawley 1973)[10] and in descriptions
 of modem Oceanic languages to regard all intransitives with an U subject as stative. In some
 modern languages this is seems to be correct, but in others, and apparently in POc, they
 are/were distributed between the classes I have labelled U and U-stative. [11]
+
    Although it is not difficult to identify the three verb classes in many modern Oceanic
 languages, it can often be difficult to determine which class a given POc verb belonged to.
 The reasons for this are: (i) languages which retain the three classes do not always agree on
@@ -1271,6 +1326,7 @@ consonant is no longer part of the Fijian root but an allomorph of the transitiv
 etymological consonant is sometimes replaced by another or a consonant has been inserted
 where none is expected (Arms 1974b).[13] This is the case with rOfjo-o-a 'hear it' above, where
 the normal Fijian reflex of POc *R is zero or occasionally r, but never o.
+
     Fijian-like restructuring has occurred in many Oceanic languages because of the loss of
 the POc final consonant. In most of these languages (and in some Fijian dialects), *-i- has not
 been lost, with the result that a language has a set of transitive suffixes with the form -Ci-, as
@@ -1285,6 +1341,7 @@ data corpus are often cited with a reflex of POc *a o:3s. Where this can readily
 because it permutes with other object enclitics, its absence is marked with a hyphen. Where it
 is not synchronically separable, it is parenthesised in accord with the conventions of Chapter
 1 , §4.2.
+
     Above, I wrote that transitivising morphology is determined in mo t cases by the canonic
 shape of the root. There are some exceptions to this generalisation, and one set of these is
 discussed by Blust (1977). These consist of forms like those in (9), descended from a PAn or
@@ -1317,15 +1374,18 @@ perhaps a reflection of the fact that in many cases the formal relationship betw
 of the intransitive and transitive forms, especially after loss of the final consonant from the
 intransitive, has become so opaque that the pairing of all but the most frequently used forms
 has been lost.
+
     We have seen that a majority of non-stative POc verb roots had both intransitive and
 transitive (or causative) alternants, and that the transitive is usually derived from the intransitive.
 There seem to have been a few POc verb roots, however, which were intrinsically transitive
 and from which either an A or an U intransitive could be formed.
+
     An A intransitive was formed by reduplicating the disyllabic (transitive) root. One such
 verb was apparently POc *kani- 'eat (s.t.)', whose corresponding intransitive was *kani-kani.
 Hence we find Malo (NCV) hani- 'eat (s.t.)' vs han-hani 'eat' and Motu (PT) ani- vs ani-ani.
 A Boumaa Fijian example is ʔusi- 'wipe (s.t.) with a cloth' vs ʔusi-ʔusi 'wipe hands after
 washing them at the end of a meal' .[15]
+
     An U or U-stative intransitive was apparently formed by prefixing the anti-causative
 prefix *ma- to the transitive root, reflected, e.g., in Malo ma-duru 'be split' from duru 'split
 (s.t.)' and ma-mbila 'be shattered' from bila 'shatter (s.t.)" and in Arosi ma-hita 'be split,
@@ -1337,6 +1397,7 @@ intransitives have been reinterpreted as A intransitives, I take it that these A
 earlier U verbs. For example, from Sio liŋi, Misima liŋi-n 'pour (s.t.) out' we can reconstruct
 transitive POc *liŋi 'pour (s.t.) out', and from Sio ma-liŋi, Misima ma-liŋi-n '(liquid) run
 away' we can reconstruct the POc U verb *ma-liŋi 'be poured out'.
+
     Thus there were five morphological relationships between intransitive and transitive forms
 in POc, illustrated in (1 0), the first two being the most widely represented:
 
@@ -1370,21 +1431,25 @@ transitively and intransitively in POC.[16] Where a pair of verbs is reconstruct
 with *-i-, the supporting cognate sets are usually combined. Occasionally, where the cognate
 sets supporting the intransitive and transitive forms are of considerable size, they are given as
 separate lists.
+
     One final point must be made with regard to POc *-i-. I have adopted the usual convention
 of calling it a transitive suffix. However, in a number of modern languages (e.g. Hoava,
 Davis 1997), in circumstances where the verb is immediately followed by a modifier, the
 'suffix' (if any) and the object enclitic follow the whole verb-modifier complex, suggesting
 that *-i- may have been a transitive enclitic rather than a suffix. However, this has no bearing
 on lexical reconstruction.
+
     Implicit in the discussion above are two slightly unusual features of transitivity in POc and
 many daughter languages. One is the division of non-stative intransitives into A and U verbs.
 The other is the use of the A intransitive alternant of verbs which are semantically transitive.
 If the object of, say, POc *inum 'drink' or *kati 'husk with teeth' was not mentioned, the
 intransitive form was evidently used.
+
     Two other morphemes were productive in the derivation of POc verbs: the causativiser
 *pa- or *paka- and the applicative *-aki or *-akini. As these occur less often in our
 reconstructions than the transitivising and detransitivising morphemes discussed above, they
 are described only briefly here.
+
     Although transitives could not be formed from U-stative roots, causatives could be formed
 from roots of all three classes. The POc prefix deriving causatives was *pa- or *paka- (both
 forms are reconstructable, and the difference between them needs more research). A causative
@@ -1408,6 +1473,7 @@ and an A verb like *inum 'drink' gave *pa[ka]-inum-i- 'cause (s.o.) to drink' (o
 Presumably the liquid which was drunk was expressed by an oblique phrase, but this needs
 more research. The presence or absence of *-i- in causative verbs was again determined by
 whether the root ended in a consonant or a vowel.
+
    The applicative *-aki or *-akini, reconstructed by Pawley (1973) as the 'remote transitive'
 suffix, is attached to an A or U root to form a transitive verb. In its canonic usage, the object
 of this verb is a referent which would appear as an oblique with the corresponding direct
@@ -1448,6 +1514,7 @@ happened in POc when *-aki[niJ followed a root ending in a vowel.
    The morphology described in §3. 1 .2 was largely productive when POc diversified into
 daughter languages. There are a few patterns in our reconstructions of verbs, however, which
 reflect morphology that was already dead by this stage.
+
    One of these is illustrated in (9), where intransitive forms descended from PAn or PMP
 reduplicated monosyllabic roots correspond with transitive forms reflecting the unreduplicated
 root plus inseparable *-i-. PAn monosyllabic roots have been investigated in some detail by
@@ -1482,6 +1549,7 @@ and **ta-buC.[20] 0ther such sets are:
       POc *potak, *potak-i- 'crack open, split open, make incision' (Ch. 9, §3 .8)
       POc *botak, *botak-i- 'crack open, split open, make incision' (Ch. 9, §3.8)
       POc *pita(k), *pitak-i- 'break, split' (Ch. 9, §5.2)
+
 An additional complication consists in the fact that Blust finds PAnlPMP roots which differ
 only in the voicing of the root-initial consonant and which have similar meanings. Since
 PAnlPMP voicing distinctions were not retained in POc (§2 .4), their reflexes are
@@ -1490,6 +1558,7 @@ apparently reflecting PMP *tu(m)buk 'pound', is attributed by Blust (ACD) to the
 *-buk 'pound, thud, heavy splash' (Blust 1988 :87-88). POc *sapu(k), *sapu(k)-i- 'hit', on the
 other hand, apparently reflecting PMP *sa(m)puk 'collide, bump into', is attributable to the
 PAn root *-puk 'throb, thud, clap, break' (Blust 1988 :87-88) (cognate sets in Ch. 9, §5. 1 ).
+
    PAn monosyllabic roots probably ceased to be independent morphemes (if indeed they
 ever were independent) sometime around the break-up of PAn, although they may well have
 played a role in the phonaesthetics of daughter languages for some time after the break-up.
@@ -1499,6 +1568,7 @@ POco This is morphology which reflects the Austronesian 'focus' system, variants
 occur in many non-Oceanic Austronesian languages. I present the reconstructed systemic
 changes first, then the instances of them, partly because the systemic changes also have a
 bearing on POc nominal morphology, discussed in §3.2. 1 .
+
    The essence of the focus system is that the semantic role of the 'topic' (alias 'subject',
 'nominative', 'pivot', 'trigger') of a verbal clause is indicated by an affix or affixes on the
 verb.[21] The morphology of the PMP focus system was, at least roughly, as in (1 6).
@@ -1580,6 +1650,7 @@ patient focus. This in turn allows us to intepret the POc pairs *sopi, *nopi etc
 patient/actor pairs. Note, however, that this interpretation is not watertight. First, the expected
 outcome of *-N-ra'1 is **dra'1, not *na'1. Second, *nopi 'suck' displays both initial *n- and
 suffixed *-i-, i.e. the morphology of both actor and patient focus simultaneously.[22]
+
    A third set of morphological fossils also seems to date from the pre-POc period and may
 also be associated with the focus system. We find a number of POc verbs, mainly in Chapter
 9, where the data support the reconstruction of a pair of fonns differing in the grade (oral or
@@ -1622,6 +1693,7 @@ token frequency are probably largely attributable to differences in the frequenc
 consonants across POc vocabulary as a whole. The other logically possible pair *tI*d is not
 represented, but this reflects the fact that word-initial occurrences of *d were either rare or
 zero (§2.2).
+
      A salient fact about these pairs is that there are generally more reflexes with the oral-grade
 alternant than the nasal-grade. This suggests that the nasal-grade alternants reflect
 morphologically marked forms of the unmarked oral-grade forms. If this is correct, then we
@@ -1633,6 +1705,7 @@ Chapter 9 for example, that the large majority of reconstructed POc verbs begin 
 oral-grade consonant. A few, like POc *baba(k), *baki- 'strike one against another, knock ',
 begin with a nasal-grade initial, and I have no explanation for these other than to speculate
 that an oral grade-initial root occurred but is not reflected in our data.
+
      If the suggestion of the previous paragraph is correct, then we are looking for a morphological
 alternation that ceased to be productive shortly before the break-up of POCo I nitial nasal-grade
 consonants (which did not occur in this position in PMP) arose from a sequence of nasal +
@@ -1734,9 +1807,11 @@ rest of the system remained productive in POc (and much of it remains productive
 modern languages), as *<im and *i-, at least, were evidently added to the productive POc root,
 e.g. *kani, not the stem *kan reflecting PMP *kaʔen. However, it is less clear that this is true
 of *-an.
+
    I nstrumental *i-."j has kept its PMP function, e.g. *asa(q) 'grate', *asaq-i- 'grate (s.t.)';
 *i-asa(q) 'grater' (Ch. 9, §2. 1 ). It has been lost in a number of languages, however, sometimes
 where it was in competition with initial-syllable reduplication, which also formed instruments.
+
    I noted in §3 . 1 .3 that the function of location focus forms was extended to include patient
 focus. This also happened to a degree with nominalisations, in that � -on survives only in
 fossils. However, its perfective counterpart *dm."j survives as patient and general nominaliser
@@ -1749,6 +1824,7 @@ general nominaliser, so that some reflexes of POc *mate-an, e.g. Vitu (MM) mate-
 (SES) mae-a-, mean 'death', rather than 'deathbed' or 'cemetery'. The affix combination
 *<im."j-an is reflected in fossilised reflexes of POc *k<in>ani-ana 'food' in the languages of
 Epi (central Vanuatu) (Tryon 1976:289).
+
    The history of �-an as a nominaliser in Oceanic has several complications. First, as
 *kana'1 and *kano'1 above indicate, forms in final *-'1 occurred in POc alongside those in
 
@@ -1763,6 +1839,7 @@ and *V -aŋa. The only known language where a contrast has been found between fo
 without and with -a is Mangseng (NNG), where -ŋ is the general nominaliser, -ŋ-a the
 instrumental formative (e.g. puno-ŋ (N) 'fight', puno-ŋ-a 'weapon ', both from pun (V )
 'fight'). This suggests that the forms with *-a may have had a separate function in POco
+
    Forms reflecting *V -an and *V-aŋ can be disambiguated only in languages which preserve
 POc final consonants faithfully, and in fact only two such languages are known to reflect
 *V-an. These are Roviana and Hoava, as illustrated above. However, if reflexes of *V -ana
@@ -1770,12 +1847,14 @@ are also taken as evidence of POc *V -an, then there are a number of these in th
 e.g. Seimat paku-an[26] (N) 'dance', from pak (V) 'dance', and in Central and South Vanuatu,
 e.g. Paamese sau-ene 'singing' from sau 'sing', Lenakel akar 'talk' from n-akar-aan 'talking'
 (where n- reflects a POc article *na).
+
     Forms reflecting *V-aŋ are found in languages of the NNG cluster. Here, however, there
 is a different complication, namely that *V-aŋ and *V-aŋa are reflected as *V-ŋ and *V-ŋa,
 e.g. *mate-aŋa 'death' is replaced by *mate-ŋa , getting rid of the vowel sequence in favour of
 the strongly CV canonic shape of early Oceanic (§2.2). This is evidently a local innovation.
 Thus we find, for example, Lukep-Pono kani-ŋ 'yam' (from *kani 'eat'), Gitua gururu-ŋ (N)
 'thunder' (from *guru (v) 'thunder').
+
     Forms reflecting *V-aŋa and *V-ŋa are well scattered, for example, Poeng (NNG) mate-ŋa
 'death' (from *mate 'die'), Mussau palapala-ŋa (N) 'thunder' (from *pʷaraq (V) 'thunder',
 Samoan (pn) inum-aŋa 'draught, dose' (from *inum 'drink'), tafi-ŋa 'removal' (from tafi
@@ -1787,6 +1866,7 @@ ancestral (e.g. Loniu he-ya 'washing' from he 'wash'; Malo dule-a 'clearing bush
 'clear bush'). The Bali dialect of Bali-Vitu retains final consonants with a following echo
 vowel, but neutralises POc *-n and *-ŋ as -ŋ-, so that the ancestral consonant is again
 ambiguous (e.g. moŋe-aŋa 'sleeping' from moŋe 'sleep').
+
     I n the light of these complications-and because we do not understand them well-we
 reconstruct each nominalisation as the data require, with *V-an, *V -aŋ, *V-ana or *V -aŋa (or
 on occasion *V-ŋ or *V-ŋa), but recognising that this is probably not an accurate rendering of
@@ -1835,6 +1915,7 @@ preceded by the article a and means 'a new one'.
 
 
 2.4 Assigning reconstructions to word classes
+
    Although we know with reasonable certainty what the open word classes were in POc and
 what their major subclasses were, [27] we cannot always assign a reconstructed etymon to a
 single word class or subclass. Some items, of course, like *tama- 'father', *Rumaq 'house'
@@ -1845,6 +1926,7 @@ above in §3. 1 .2 and §3.2 . 1 , Other items, especially zero-valency nouns an
 the comparative evidence suggests, could readily serve in more than one word class without
 any morphological change. Thus in cases like POc *p[W)anaq (N) 'bow', (vI) 'shoot' (Ch. 8 ,
 §9) w e assume that the etymon served a s both a noun and verb i n POco
+
    In other cases our data sources simply give insufficient or inaccurate information about
 word class and subclass memberships, so that we often do not know whether a disyllabic
 vowel-final verb base in a given language is transitive, intransitive or both. In the case of
@@ -1969,7 +2051,7 @@ glossing POc *kamali(R) as 'men's house'. He then proposed to extend this gloss 
 Proto Malaya-Polynesian (PMP). However, Fox (1993) and Waterson (1993) give ethnographic
 arguments for rejecting this last proposal. A building specifically for men alone to use as a
 meeting and sleeping place and for ritual activities is common among Austronesian societies
-only in parts of Melanesia. Fox (1993 : 1 2) suggests, reasonably, that the institution of a
+only in parts of Melanesia. Fox (1993: 12) suggests, reasonably, that the institution of a
 men's house was not part of original Austronesian or Malayo-Polynesian culture, but was
 borrowed by early Oceanic speakers from non-Austronesian speaking peoples of Melanesia.
 
@@ -2108,8 +2190,6 @@ By 1200- 1000 BC another variant, known as Eastern Lapita, appears in Fiji,
 Tonga and Samoa.
 
 
-
-
 [5]  For example, Green (1966, 1967, 1979, 1981 , 1986, 1994a, 1994b); Kirch and Green (1987); Pawley
     (1981 , 1982, 1996a); Pawley and R.Green (1973, 1984); Pawley and K.Green (1971 ); Pawley and Pawley
     (1994); Pawley and Ross (1993). We have not been alone in this enterprise. From the 1920s on, Kenneth
@@ -2166,6 +2246,7 @@ at first European contact, that one may reasonably ask whether these directly co
 traditions established during the initial dispersal of Oceanic languages. Recurrent features
 noted in the literature (Forge 1972, Hogbin & Wedgewood 1953, Oliver 1989) include those
 set out below.
+
 (1) There is a preference for coastal settlements, handy to reef/lagoon systems and beaches
        with landing places for boats, and to garden land in the interior.
 (2) Both dispersed and nucleated settlements are common. Dispersed settlements, sometimes
