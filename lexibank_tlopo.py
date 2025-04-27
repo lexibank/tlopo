@@ -37,6 +37,54 @@ class Dataset(BaseDataset):
     )
 
     def cmd_download(self, args):
+        import re
+        from clldutils.source import Source
+        from clldutils.misc import slug
+        refs, key = [], None
+        for i, line in enumerate(self.raw_dir.joinpath('vol1', 'references.bib').read_text(encoding='utf-8').split('\n'), start=1):
+            if i % 2 == 1:
+                key = line
+            else:
+                assert key
+                refs.append((key, line))
+        bib = []
+        for key, line in refs:
+            line = re.sub(
+                r'1\s*(?P<a>[0-9])\s*(?P<b>[0-9])\s*(?P<c>[0-9])(?P<d>[abcde])?\s*,',
+                lambda m: '1{}{}{}{},'.format(m.group('a'), m.group('b'), m.group('c'), m.group('d') or ''),
+                line)
+            m = re.search('(?P<year>([0-9]{4}|forthcoming|n\.d\.|in press))', line)
+            assert m
+            assert m.group('year') in key
+            author = line[:m.start()].strip()
+            edp = re.compile(r'\s+ed(s)?\.?,?\s*$')
+            ctype = 'author'
+            if edp.search(author):
+                ctype = 'editor'
+                author = author[:m.start()].strip()
+            if author.endswith(','):
+                author = author[:-1].strip()
+            genre = 'misc'
+            kw = {ctype: author, 'year': m.group('year'), 'key': key}
+
+            rem = line[m.end():].strip()
+            if rem.startswith(','):
+                rem = rem.lstrip(',').strip()
+            inm = re.search(r'\.\s+In\s+', rem)
+            if inm:
+                edm = re.search(',\s+eds?\.?\s*,\s*', rem[inm.end():])
+                if edm:
+                    assert ctype == 'author'
+                    kw['editor'] = rem[inm.end():inm.end() + edm.start()].replace('1', 'I')
+                    genre = 'incollection'
+                    kw['booktitle'] = rem[inm.end() + edm.end():].strip().rstrip('.').strip()
+                    rem = rem[:inm.start()].strip()
+
+            rem.rstrip('.')
+            kw['title'] = rem
+            src = Source(genre, slug(key, lowercase=False), **kw)
+            print(src.bibtex())
+        return
         glosses = [{slug(w) for w in r['Gloss'].split() if slug(w)} for r in self.etc_dir.read_csv('vol1_poc_reconstructions.csv', dicts=True)]
         langs = {r['Name']: r for r in self.raw_dir.joinpath('vol1').read_csv('languages.csv', dicts=True)}
         for v in list(langs.values()):
