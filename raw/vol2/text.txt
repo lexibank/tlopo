@@ -2240,7 +2240,8 @@ a common noun.
 
 <
 PMP *nusa ‘island’ (Dempwolff 1938)
-POc *nusa ‘island’, *qa-nusa ‘at our own island’
+POc *nusa ‘island’
+POc *qa-nusa ‘at our own island’
  NNG: Bariai           (i)nu            ‘island’ (< POc *i nusa ‘at (our) island’)
  NNG: Takia            nui              ‘island, reef’
  NNG: Gedaged          nui              ‘island’
@@ -2379,7 +2380,7 @@ POc *nuku ‘sandy ground, sand bank, sand spit’
  SES: Gela            nuɣu             (i) ‘a flat and sandy place near the beach’; (ii) ‘a reef far out at sea, larger than sembe mbuto’
  SES: Gela            nu-nuɣu          (i) ‘quicksand’; (ii) ‘a river bar’
  SES: Gela            (mu)nuɣu         ‘sand bar at river mouth; island in river’
- SES: Lau             nū              (i) ‘flat ground near the shore’ (ii) ‘coral reef where it juts out, seaward part of reef’ ‘flat sandy land just above the beach’
+ SES: Lau             nū              (i) ‘flat ground near the shore’; (ii) ‘coral reef where it juts out, seaward part of reef’; ‘flat sandy land just above the beach’
  SES: Kwaio           nuʔu             ‘margins of sand, area of strand immediately above the beach’
  SES: Arosi           nu-nuʔu          ‘sand on the beach, sandy soil’
  SES: Arosi           (mara)nuʔu       ‘a river flat, plain made by river, sandy level ground near the shore’
@@ -2750,7 +2751,7 @@ POc *mala ‘valley, ravine’
  MM: Babatana        mala(ku)         ‘valley’
  SES: Arosi          mara(rohiana)    ‘narrow waterless pass, ravine, valley between high hills’ (rohi ‘groove’)
  SES: Arosi          mara(wai)       ‘river course, valley’ (wai ‘water, river’)
- SES: Arosi          mara(gohu-gohu) ‘slopes of a river valley’ (gohu ‘river flat, lower valley’
+ SES: Arosi          mara(gohu-gohu) ‘slopes of a river valley’ (gohu ‘river flat, lower valley’)
 >
 <
 POc *salil ‘valley’
@@ -2829,7 +2830,8 @@ POc *rau(n) ‘flat land’
  PT:   Bwaidoga         lau(beù)       ‘flat land, plain (used of town)’
  PT:   Bwaidoga         lau(beùmanata) ‘flat area without any mountains’
  PT:   Bwaidoga         lau(beùya)     ‘(on the) plain (of flat coastal strip)’
-PPn *rau ‘flat land’ *rau-lalo ‘lowland’
+PPn *rau ‘flat land’
+PPn *rau-lalo ‘lowland’
  Pn:    Tongan         | āu lalo |         ‘low-lying land’ (lalo ‘place lower down’)
  Pn:    Samoan          lau              ‘level area of land, plain’
  Pn:    Samoan          lau(fanua)       ‘flat land’
@@ -2881,7 +2883,7 @@ noun for the direction of the bush, namely ‘inland’ (Ch.8, §2.2.1).
 
 <
 PEOc *wao ‘forest, bushland, scrub, land in its natural uncultivated state’ (vol. 1, p.119)
- SES: Gela             ao               (N) ‘forest, land never brought under cultivation’ (V) ‘be overgrown, become forest’
+ SES: Gela             ao               (N) ‘forest, land never brought under cultivation’; (V) ‘be overgrown, become forest’
  Fij:  Rotuman         vao              ‘forest, large number of trees or big plants growing together’ (poss. Pn loan)
  Pn:   Tongan          vao              ‘forest, bushland, scrub, land in its natural uncultivated state’
  Pn:   Samoan          vao              (N) ‘bush, forest; weeds; tall grass’; (ADJ) ‘of the forest, wild’
@@ -3153,7 +3155,8 @@ POc *topu(R), *tupu(R) ‘freshwater spring on the beach, often brackish’
  SES: Arosi            (mara)ohu(a) ‘brackish, of water on shore’
  SES: Arosi            uhu              ‘a well dug by the shore; rivulets of salt water from reef to sea; brackish water on the reef’
  NCV: Mota             tov              ‘spring below high water mark; the brackish water of such a spring’
- Fij:  Bauan           tuvu             (N) ‘spring of fresh water on the beach’; (V) tuvu-ca ‘add fresh water to s.t.’
+ Fij:  Bauan           tuvu             (N) ‘spring of fresh water on the beach’
+ Fij:  Bauan           tuvu-ca          (V) ‘add fresh water to s.t.’
  Pn:    Tongan           tufu            ‘spring of water, esp. one on the beach’
  Pn:    E Futunan        tufu            ‘spring of water, usually on the beach’
  Pn:    Rennellese       tuhu            ‘natural salt-water ponds connected underground with the sea’
@@ -3765,7 +3768,8 @@ Tetum haʔi lutan ‘burning brand’, SHWNG Sawai luten ‘fire’, Oceanic: Mo
 ‘burning wood in a fire’, (iii) ‘charred wood’, but does not cite (iv) ‘firewood’. The
 Oceanic evidence offers support for senses (i) and (less strongly) (iv).
 
-PMP *luten ‘firewood’ (ACD), PMP *aliten, *aluten (i) ‘firebrand’; (ii) ‘unconsumed wood in a fire’; (iii) ‘charred wood’ (ACD)
+PMP *luten ‘firewood’ (ACD)
+PMP *aliten, *aluten (i) ‘firebrand’; (ii) ‘unconsumed wood in a fire’; (iii) ‘charred wood’ (ACD)
 POc *alito(n) (N) ‘firebrand, piece of burning wood’
  NNG: Takia               yalit           ‘piece of wood with fire burning in it’
  NNG: Gedaged             yalit           ‘piece of charred wood’
@@ -3793,7 +3797,7 @@ PEOc *lito ‘(?) firebrand’
 distinction. POc *koran appears to have been used both as a noun denoting ‘fragments of
 burning wood’ and as a verb meaning something like ‘burn brightly’.
 
-POc *koran (N) ‘(?) embers, glowing coals’, (V) ‘(?) burn brightly’
+POc *koran (N) ‘(?) embers, glowing coals’; (V) ‘(?) burn brightly’
  MM: Tinputz          oran             ‘glowing embers’
  MM: Halia            korana           ‘live coal, ember’
  MM: Maringe          ɣo-ɣola          ‘scorched’
@@ -3802,7 +3806,7 @@ POc *koran (N) ‘(?) embers, glowing coals’, (V) ‘(?) burn brightly’
  SES: ’Are’are        ʔora-ʔora        ‘dust, ashes’
  SES: Ulawa           ora              (i) ‘ashes’; (ii) ‘to flame, burn brightly’
  SES: Arosi           ʔora, ʔora-ʔora ‘blaze’
- Pn:   Maori          kora             (N) ‘spark; fire, fuel’, (V) ‘gleam’
+ Pn:   Maori          kora             (N) ‘spark; fire, fuel’; (V) ‘gleam’
 >
 
 PMP *baRah ‘live coal’ may be reconstructed from, e.g. Tagalog baga, Malay bara,
@@ -3959,7 +3963,7 @@ meaning may have been regarded as related to ‘dust’ and ‘ashes’.
 reconstructed.
 
 <
-POc *(k,g)abu (V) ‘burn, be on fire’, (N) ‘(?) firewood’
+POc *(k,g)abu (V) ‘burn, be on fire’; (N) ‘(?) firewood’
  NNG: Wab                gabu                ‘smoke’
  PT:    Motu             gabu-(a)            ‘burn’
  PT:    Dobu             gabu                ‘burn’
@@ -3979,13 +3983,14 @@ POc *(k,g)abu (V) ‘burn, be on fire’, (N) ‘(?) firewood’
                                                                           The landscape   77
 
 <
-POc *bula ‘(?) burn, be alight’, PEOc *bula ‘burn, be on fire, in flames’
+POc *bula ‘(?) burn, be alight’
+PEOc *bula ‘burn, be on fire, in flames’
  NNG: Manam            bula             (V) ‘light (a fire)’
- Mic: Puluwatese       pʷɨl             (V) ‘burn, be lighted, in flames’ (N) ‘flame’
+ Mic: Puluwatese       pʷɨl             (V) ‘burn, be lighted, in flames’; (N) ‘flame’
  Mic: Woleaian         pʷura            ‘burn, light up’
  Mic: Woleaian         pʷupʷura         (N) ‘flame, blinking of light’
  Fij:    Bauan         bula             (V) ‘be on fire, burn’
- Fij:    Wayan         bula             (V) ‘be on fire, burn’, (N) ‘conflagration’
+ Fij:    Wayan         bula             (V) ‘be on fire, burn’; (N) ‘conflagration’
  Fij:    Wayan         bula-ni-a        ‘burn s.t., set s.t. ablaze’
  Fij:    Rotuman       pula             (V) ‘catch alight, burn, flare up suddenly’; (N) ‘flame, (lightning) flash’
  cf. also:
@@ -4060,7 +4065,7 @@ POc *kupu(k) (V) ‘emit smoke or steam’
  SES: Bugotu             gu-guvu           ‘be hot, heat’
  Fij:  Bauan             kuvu              ‘vapour: smoke, steam, dust, spray’
  Fij:  Wayan             kuvu              ‘steam, give off steam’
-PPn *kofu (V)‘emit smoke’, (N) ‘(?) smoke’
+PPn *kofu (V)‘emit smoke’; (N) ‘(?) smoke’
  Pn:    Tongan           kofu             ‘emit smoke’
  Pn:    Rennellese       kohu             ‘emit smoke or steam’
  Pn:     Sikaiana         (au)kohu          (N) ‘smoke’
@@ -4298,7 +4303,8 @@ POc *ŋ-iu(ŋ) (V) ‘shake, quake’; (N) ‘earthquake’
  SES: Kwaio             nunu              ‘earthquake’
 >
 <
-PSS *añu (V) ‘shake’, *añu-añu (N) ‘earthquake’
+PSS *añu (V) ‘shake’
+PSS *añu-añu (N) ‘earthquake’
  SES: Gela              anu              ‘shake’
  SES: Gela              anu-anu          ‘earthquake’
  SES: Bugotu            añu              ‘shake, of earthquake; earthquake’
@@ -4343,7 +4349,8 @@ POc *solo ‘sink down, subside; landslide’
  Pn:   Hawaiian        holo               ‘landslide’
 >
 <
-PEOc *to(b,p)a (VI) ‘(land) slip’, *ma-to(b,p)a ‘landslip’
+PEOc *to(b,p)a (VI) ‘(land) slip’
+PEOc *ma-to(b,p)a ‘landslip’
  SES: Gela              matoba            ‘landslip’
  SES: Bugotu            matoba            ‘landslip’
  SES: Longgu            toba              (VI) ‘(land) slip’
@@ -4431,7 +4438,7 @@ POc *lolo (V) ‘flood’
  Adm: Andra             lolo(mat)        ‘windward part of reef flat, covered at high tide’
  NNG: Gedaged           lolo(ani)        (V) ‘inundate, flood, drown, stream over, flow over, cause to sink under water’
  Fij:   Bauan           lolo             ‘beginning to rise, of the tide’
- Pn:    Samoan          lolo             (V) ‘overflow’, (N) ‘flood’
+ Pn:    Samoan          lolo             (V) ‘overflow’; (N) ‘flood’
 >
 <
 POc *lomak (N,V) ‘flood, of sea’
@@ -4725,7 +4732,7 @@ PMP *lahud ‘downriver, towards the sea’ (Dempwolff 1938, Blust 1997)
 POc *laur ‘sea, seawards’
  NNG: Gedaged          lau           ‘the high seas, an open unenclosed portion of the sea’
  MM: Tabar             ro-rau        ‘sea’
- MM: Tolai             lau           ‘open sea, horizon’; (for bush people) ‘any place out of sight’
+ MM: Tolai             lau           ‘open sea, horizon’; ‘any place out of sight’ (for bush people)
  MM: Nehan             laur          ‘water’
  SES: Gela             lau           ‘shore, sea; shorewards, seawards (from a speaker inland)’
  NCV: Mota             lau           ‘seashore as opposed to inland; beach as approached from land’
@@ -4790,8 +4797,8 @@ adrift’ is a stative verb. There is also the doublet POc *qaliR/*saliR ‘to f
 which has general application, i.e. to the movement of birds, winds and liquids.
 
 <
-PMP *qaRus (N) ‘current’, (V) ‘flow’ (Dempwolff 1938)
-POc *qaRus (N) ‘current’, (V) ‘flow’
+PMP *qaRus (N) ‘current’; (V) ‘flow’ (Dempwolff 1938)
+POc *qaRus (N) ‘current’; (V) ‘flow’
  PT:   Motu            aru             ‘current of river or sea’
  PT:   Tubetube        kalusi          ‘current (in the sea)’
  PT:   Kiriwina        yelu            ‘sea; current’
@@ -5354,7 +5361,8 @@ POc *laje (i) ‘coral’; (ii) ‘branching coral’
 through the latter’s extension of meaning to PMP *buŋa ni batu ‘coral sponge’ (lit.
 ‘blossom of stone’), which then reduced simply to *buŋa in Oceanic.
 
-PMP *buŋa ‘flower, blossom’, *buŋa ni batu ‘coral sponge’ (ACD)
+PMP *buŋa ‘flower, blossom’
+PMP *buŋa ni batu ‘coral sponge’ (ACD)
 POc *buŋa ‘smooth, round coral’
  NNG: Takia           buŋ                ‘large white coral’
  NNG: Gedaged         buŋ                ‘a round coral growth’

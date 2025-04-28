@@ -1278,7 +1278,7 @@ regardless of whether the root was A or U :
 (5)                 intransitive                        corresponding transitive
        A verbs      *kinif[12]         'pinch'            *kinit-i-      'pinch (s.o/s.t)'       (Ch. 9, §6.3)
                     *inum            'drink '           *inum-i-       'drink (s.t.)'
-       U verbs      *pwosa(k) 'crack open'              *pwosak-i- 'crack (s.t.) open'         (Ch. 9, §5.2)
+       U verbs      *pwosa(k) 'crack open'              *pʷosak-i- 'crack (s.t.) open'         (Ch. 9, §5.2)
                     *loŋoR   'be audible'              *loŋoR-i- 'hear, listen to'
 
     With a vowel-final root like *wase- 'share (s.t.) out' or *kati- 'husk (s.t.) with teeth', no
@@ -1305,7 +1305,7 @@ Fijian reflexes. The POc transitive includes the third person object enclitic *a
 
 [12] Note that *kinit is reconstructed with final *-t but *pwosa(k) with parenthesised *-k simply because we have a
      reflex of *kinit in a language which retains POc final consonants, but none for *pwosa(k). Following the
-     convention outlined in §2.2, final *(-k) is inferred from reflexes of transitive *pwosak-i-.
+     convention outlined in §2.2, final *(-k) is inferred from reflexes of transitive *pʷosak-i-.
 24    Malcolm Ross
 
      *lofjoR        'be audible'                 rOfjo
@@ -2466,7 +2466,7 @@ POc *Rumaq 'house'
  NCV: Lewo               yuma
  SV :  Lenakel           n-imʷa
  NCal: Dehu              uma
- Mic : Ponapean          imʷ               'building, house, home, dwelling'
+ Mic : Ponapean          īmʷ               'building, house, home, dwelling'
  Mic: Kiribati           uma               'any kind of dwelling'
 
    The central sense of PAn, PMP and POc _*Rumaq_ is uncontroversial: in contemporary
@@ -2497,7 +2497,7 @@ POc *pale 'open-sided building'
  MM: Tolai               pal               'house'
  MM: Tangga              pal               'small house or shed, canoe shed, storehouse for gifts of food'
   MM:    Mono-Alu         hale-hale        'public building'
-  SES:   Arosi            hare             (E. dialect) 'shed for yams'; (W. dialect) 'house with one side of roof only, made in garden' ; 'a shrine, small house on poles' (= _hare ni asi_)
+  SES:   Arosi            hare             'shed for yams' (E. dialect); 'house with one side of roof only, made in garden' (W. dialect); 'a shrine, small house on poles' (= _hare ni asi_)
   SES:   Bauro            hare             'canoe house, men's house'
   SES:   'Are'are         hare             'house of retirement for women during menstruation and after childbirth'
   SES:   Sa'a             hale             'house built near a garden for temporary storage of produce'
@@ -2699,7 +2699,7 @@ POc *pupuŋ-an 'ridgepole' (Blust 1983-84a)
 
 <
 
-PMP *qatep 'thatch of sago palm leaves' (Dutton 1994), 'roof, thatch' (ACD)
+PMP *qatep 'thatch of sago palm leaves' (Dutton 1994); 'roof, thatch' (ACD)
 POc *qatop 'thatch, roof'
  NNG: Tuam                 atov
  NNG: Mangap               kōto             'sago leaf thatch'
@@ -2934,7 +2934,7 @@ Oceanic forms cited here are compatible with either reconstruction. [6]
 <
 
 PMP *titey (also *teytey) 'foot-bridge' (after Blust 1989)
-POc *tete 'single log bridge or ladder', 'climb a ladder, walk along a bridge or branch' (after Chowning 1991 )
+POc *tete 'single log bridge or ladder'; 'climb a ladder, walk along a bridge or branch' (after Chowning 1991)
   NNG: Kove                   tete                'ladder; log leading into house'
   NNG: Manam                  tete                'stairs, ladder'
   PT:  Molima                 tete                'walk along a ridge or branch of tree'
@@ -2964,7 +2964,8 @@ POc *baban 'board, plank; canoe strake' (cf. Ch. 7, §2.4)
 
 <
 
-PMP *pak(o,u) 'nail' (Blust 1972b); *paqet 'chisel' (Dahl 1981 )
+PMP *pak(o,u) 'nail' (Blust 1972b)
+PMP *paqet 'chisel' (Dahl 1981)
 POc *pako 'wooden peg or pin'
   NNG: Mapos Buang pko                      'stake, peg; vertical stakes driven in to keep a log + in place'
   Fij :   Bauan           (i)vako           'nail' (i- < POc *i INS)
@@ -4558,7 +4559,8 @@ PCP *taku 'cutting implement made from shell of turtle or Tridacna shell'
 <
 
 PMP *(t,T)aRaq 'hew, plane' (Blust 1972b)
-POc *taRa(q) (N, V) 'adze' ; *taRaq-i- 'chop with adze'
+POc *taRa(q) (N, V) 'adze'
+POc *taRaq-i- 'chop with adze'
   NNG: Takia             tare             (VT) 'cut, hew, as with an axe'
   NNG: Manam             tara             'cut down (branches)'
   PT:   Motu             tarai-          (V) 'adze, chop, cut wood'
@@ -4925,7 +4927,7 @@ we assume the original PPn meaning of *tapa to be 'bark -cloth which was not pri
 stained', its more restricted meaning in Samoa is understandable.
 
 [7]   Kooijman quotes from a report by William Mariner, a young Englishman stranded in Tonga from 1806- 1810,
-    indicating that at that time the term tapa was used as well as the more general term T)atu, the former
+    indicating that at that time the term _tapa_ was used as well as the more general term _ŋatu_, the former
     referring to any bark-cloth "not printed or stained" (Mariner 1827, vol. 2, p.206).
 
 >
@@ -6239,7 +6241,7 @@ POc *soko(t), *sokot-i- 'bum (grass , rubbish +)'
  MM: Lihir                sakt              'bum (grass)'
  MM: Barok                soŋot            'bum (grass); bake (on fire)'
  MM: Tangga               sok               '(fire) bum'
- MM: Nehan                suk               (ADJ) 'burnt' ; (v ) 'singe'
+ MM: Nehan                suk               (ADJ) 'burnt' ; (v) 'singe'
   cf. also:
   SES:    Arosi           togo               'make up a fire, set more wood on'
 
@@ -6291,7 +6293,8 @@ general activity, including planting and digging up (tubers)[3].
 <
 
 PAn *kali 'dig' (Blust 1983-84a: 1 5)
-POc *kali 'dig', *kali-aki- 'plant (garden) with (taro +)'
+POc *kali 'dig'
+POc *kali-aki- 'plant (garden) with (taro +)'
     MM: Minigir                kali
     MM: Tolai                  kal                  'dig (out)'
     MM: Tolai                  kalie                'plant, dig in'
@@ -6632,7 +6635,7 @@ slip, cutting, shoot (i.e. propagation material)'; POc *wasi 'taro stem, used fo
 <
 
 PAn *suliq 'tendril, sucker' (Blust 1972b)
-POc *(s,j)uli(q) (1) 'banana or taro sucker, shoot (i.e. propagation material)' (2) 'slip, cutting' (Ross 1988)
+POc *(s,j)uli(q) (1) 'banana or taro sucker, shoot (i.e. propagation material)'; (2) 'slip, cutting' (Ross 1988)
  Adm: Lou          sili-n                  'sprout: sprout of banana or pineapple'
  Adm: Loniu        cili                    'sprout, esp. banana shoot'
  NNG: Tami         jili                    'taro sucker'
@@ -7692,7 +7695,8 @@ bent or folded piece of cane or midrib of a coconut frond. Note that some terms 
 derived from the transitive verb form POc *kapit-i- 'grasp (with tongs)'.
 
 PMP *qapit 'pinch or squeeze between two surfaces' (ACD)
-POc *kapit 'tongs' ; *kapi(t), *kapit-i- 'grasp (with tongs)' (A few reflexes show unexpected-s, via palatisation before* -i; Lichtenberk reconstructs *kapis.) (Grace 1969)
+POc *kapit 'tongs'
+POc *kapi(t), *kapit-i- 'grasp (with tongs)' (A few reflexes show unexpected-s, via palatisation before* -i; Lichtenberk reconstructs *kapis.) (Grace 1969)
   Adm: Loniu               (pele)ʔip          'tongs made from bamboo strips'
   Adm: Lou               kIp-kIpIt           'tongs, forceps'
   NNG: Bing              kap-kapi(ŋ)        'tongs (made of bamboo)' (_-ŋ_ NOM)
@@ -7758,7 +7762,7 @@ POc *puke(s), *pukes-i- 'uncover, open (stone oven; probably other things as wel
 <
 
 PMP *uruŋ 'collect, gather' (Blust 1972b)
-POc *uru(ŋ) 'take food and/or hot stones out of stone oven or fire'; more generally 'collect, gather'
+POc *uru(ŋ) 'take food and/or hot stones out of stone oven or fire'; 'collect, gather' (more generally)
   PT:     Motu           uru               'cook in hot ashes'
   MM:     Tolai          ur                'remove, take away (food off fire +)'
   SES:    Sa'a           uru-uru           'gather up in the hand, collect, wipe'
@@ -8247,7 +8251,8 @@ POc *mara 'be spoiled, foul (of food or drink)'
 >
 <
 
-POc *madraR 'grow ripe, (breadfruit and bananas) be overripe', *madraR-i- 'grow ripe, overripe from (s.t.) (?)'
+POc *madraR 'grow ripe, (breadfruit and bananas) be overripe'
+POc *madraR-i- 'grow ripe, overripe from (s.t.) (?)'
  Adm: Mondropolon       madra-n        'ripe'
  NNG: Bilibil           mad            'ripe'
  MM: Tolai              madar          'ripe, overripe'
@@ -8626,7 +8631,8 @@ POc *qunap-i- (V) 'scale fish' (from POc *qunap 'fish scale; turtle shell')
 used. This was a sharpened stick, usually set finnly in the ground. The same tenn is sometimes
 used to refer to a digging stick.
 
-POc *kojom- (N) 'husking stick ', *kojom, *kojom-i (V) 'husk (coconuts)'
+POc *kojom- (N) 'husking stick '
+POc *kojom, *kojom-i (V) 'husk (coconuts)'
  Adm: Lou              os                  'husk (coconuts)'
  Adm: Titan            kucum               'husking stake'
  Adm: Loniu            kucum              'short pointed stake stuck in the ground, for husking coconuts'
@@ -10223,7 +10229,7 @@ initial *l-.
 PMP *lujan, *ujan (V) 'load (a vessel)'; (N) 'load, cargo' (Blust 1986)
  WMP: Tagalog           lulan             'load, cargo, capacity of a vessel or vehicle'
  WMP: Makassarese  luraŋ                  (V) 'load'
-POc *ujan, *ujan-i-, *lujan (v) 'load (a boat) ; (N) 'cargo, freight'
+POc *ujan, *ujan-i-, *lujan (v) 'load (a boat)' ; (N) 'cargo, freight'
      Adm:   Nauna         us               'load as cargo in a boat'
      Adm:   Seimat        uxan-i           'load as cargo in a boat'
      PT:    Dobu          usana            'load a canoe'
@@ -10256,7 +10262,7 @@ PMP *be(R)(c,s)ay (N) '(canoe) paddle'; (V) 'paddle'
      CMP: Taliabo         bose             (N) 'paddle'
   CMP: Buru               sai             (V) 'paddle'
   CMP: Buru               sahi-n          (N) 'paddle'
-POc *pose (N) '(canoe) paddle', (V) 'paddle'
+POc *pose (N) '(canoe) paddle'; (V) 'paddle'
   NNG:    Manam          ore                 (N) 'paddle'
   PT:     Motu           hode                (N) 'paddle'
   PT:     Suau           wose                (N) 'paddle'
@@ -10340,7 +10346,8 @@ PEOc *sua(C) (V) 'scull, row with oar held vertically'
 
  PMP *teken 'pole, staff' was evidently continued in POc both as a noun *tokon and as a transitive verb *tokon-i- (v) 'punt or pole (a boat)':
 
-POc *tokon 'staff, punting pole'; *tokon-i 'punt or pole (a boat)'
+POc *tokon 'staff, punting pole'
+POc *tokon-i 'punt or pole (a boat)'
   NNG:    Gedaged       tok               'pole, stick, staff'
   NNG:    Tuam          to                'punting pole'
   NNG:    Barim         to                'punting pole'
@@ -11115,8 +11122,8 @@ POc *apon 'fishing line' (ACD)
 >
 <
 
-PMP *kawil 'hook' (Blust 1972a), 'fish hook' (Dahl 1973)
-POc *kawil (N) 'hook; fishhook '
+PMP *kawil 'hook' (Blust 1972a); 'fish hook' (Dahl 1973)
+POc *kawil (N) 'hook; fishhook'
   Adm: Baluan            kow
   NNG: Kairiru           qawil
   MM: Tangga             auil
@@ -11556,7 +11563,8 @@ POc *pusuR 'bow and arrow'
 <
 
 PMP *panaq 'shoot' (Dempwolff 1938)
-POc *(p,pʷ)anaq 'bow', *(p,pʷ)anaq, *(p,pʷ)anaq-i- 'shoot'[4]
+POc *(p,pʷ)anaq 'bow'
+POc *(p,pʷ)anaq, *(p,pʷ)anaq-i- 'shoot'[4]
     NNG: Tuam        paneg                        'bow'
     NNG: Mapos Buang vaneh                        'shoot'
     NNG: Medebur     pan                          'bow'
@@ -11577,7 +11585,8 @@ With regard to the reconstruction of *(p,pʷ), see Chapter 2, §2. 1 .
 >
 <
 
-POc *tibʷa(ŋ) 'dart, arrow (not a fighting weapon)' (Ross 1994a:464), *tibʷaŋ-i- 'shoot with dart, arrow'
+POc *tibʷa(ŋ) 'dart, arrow (not a fighting weapon)' (Ross 1994a:464)
+POc *tibʷaŋ-i- 'shoot with dart, arrow'
     PT:   Dobu               tupu                 'bow, arrow'
     PT:   Tawala             diba                 'small pretend spear'
     PT:   Taboro             diba                 'spear, fish spear'
@@ -11741,7 +11750,7 @@ was both a noun and a verb. Terms reflecting **piti in MM and SES languages seem
 local inventions formed from a noun **pit (after loss of POc *-a) with the addition of the
 transitive suffix * -i- .
 
-POc *pʷita, *pʷita-i- (N) 'snare', (V) 'tie by encircling, ensnare'
+POc *pʷita, *pʷita-i- (N) 'snare'; (V) 'tie by encircling, ensnare'
   NNG: Lukep               wit                  'tie by encircling'
   NNG: Lukep               wit(kala)            'tie together'
   NNG: Lukep               pit                  'snare, trap; to trap'
@@ -12597,7 +12606,8 @@ The evidence suggests that *taRa(q) 'adze' already had a corresponding verb *taR
 POco
 
 PMP *(t,T)aRaq 'hew, plane' (Blust 1972b)
-POc *taRa(q) (N. V) 'adze'; *taRaq-i- 'chop with adze'
+POc *taRa(q) (N. V) 'adze'
+POc *taRaq-i- 'chop with adze'
   NNG: Takia              tare               (VT) 'cut, hew, as with an axe'
   NNG: Manam              tara               'cut down (branches)'
   PT:  Motu               tarai-             (V) 'adze, chop, cut wood'
@@ -12757,7 +12767,8 @@ Note that the Malaita-Makira languages of SES have formed a new transitive verb 
 those attributed to *ma-utus, the differences in form and meaning are consistent enough to
 require a separate reconstruction:
 
-POc *muju 'be clipped off', *mujuki- 'clip off (protruding growth close to the surface)'
+POc *muju 'be clipped off'
+POc *mujuki- 'clip off (protruding growth close to the surface)'
    Adm: Lou               mut               'cut'
    SES: Lau               mu-mudu           'a fragment, portion, crumb, scrap, chip'
    SES: Arosi             modu              'cut off the end'
@@ -13505,7 +13516,8 @@ POc *waka(q) 'cut, split into sections, as yams for planting'
 
 <
 
-POc *saRe(k) 'become, be torn up, uprooted', *saRek-i- (VT) 'tear off, uproot' (French-Wright 1983 : *saRe 'tear')
+POc *saRe(k) 'become, be torn up, uprooted'
+POc *saRek-i- (VT) 'tear off, uproot' (French-Wright 1983: _*saRe_ 'tear')
    NNG: Manam                sare               'tear'
    NNG: Manam                sereki             (VT) 'tear, cut up'
    PT:  Motu                 dare               'tear'
@@ -13685,7 +13697,7 @@ POc *soka, *soka-i- (VT) 'pierce; stab, poke hole in (s.t.)'
 >
 <
 
-POc *sua (N, v) 'spear (weapon'retained in the hand)'
+POc *sua (N, v) 'spear (weapon retained in the hand)'
    NNG:       Manam           sua(pu)              'fish spear; (V) spear'
    NNG:       Poeng           sue                  'bone, needle'
    SES:       Gela            sua                  'spear without barbs'
@@ -14127,7 +14139,7 @@ PCP *(v,b)asu 'a drum'; (V ) 'drum, thump'
 
 9.5.2 Break, smash, shatter
 
-    The first two reconstructions below, POc *pwosa(k), *pwosak-i- and POc *pʷara(s), *pʷaras-
+    The first two reconstructions below, POc *pʷosa(k), *pʷosak-i- and POc *pʷara(s), *pʷaras-
 i-, refer to the breaking of brittle objects, among them the shell of an egg when a chick
 hatches. It is possible that these were intransitive verbs in POc and that their subject was the
 breaking object, e.g., the egg. POc *(p,pʷ)oga(q) (VI) 'burst open, split open' and POc *momo(k)
@@ -14147,7 +14159,8 @@ POc *rabo(k)                'break, smash'
 <
 
 PMP *pesak 'break into several large pieces; hatch' (Blust 1986)
-POc *pwosa(k) (VI) 'break, shatter, crack open; (egg) hatch', *pwosak-i- (VT) 'break, shatter, crack open '
+POc *pʷosa(k) (VI) 'break, shatter, crack open; (egg) hatch'
+POc *pʷosak-i- (VT) 'break, shatter, crack open '
    MM:     Teop            (va)bō-bōha       'hatch (egg)'
    MM:     Mono-Alu        posai             'break (egg +)'
    MM:     Maringe         boha              'crack (spherical or bulbous object such as ground round sweet potato mounds)'
@@ -14338,7 +14351,7 @@ POc *puti- 'pick, pluck (feathers), pull out (weeds +)'
   NCV : Paamese      huti                      'peel fruit; shell egg; pluck feathers from chicken or bird'
   Mic :       Marshallese   wic                'pull out of ground, uproot'
   Mic:        Ponapean      us                 'pull out, pluck'
-  Fij :       Wayan         vuti               (VI) 'be plucked, picked' (VT) 'pick or pluck things, do the picking or plucking'
+  Fij :       Wayan         vuti               (VI) 'be plucked, picked'; (VT) 'pick or pluck things, do the picking or plucking'
    Fij :      Bauan         vuti-              'pluck hair or feathers, pull up weeds'
    Pn:        Tongan        fusi               'pull or tug; pull or haul in; pull up or hoist (a flag); pull up or weigh (an anchor); pluck'
    Pn:        Tongan        fu-fusi            'pull roughly or forcibly or too hard or without due care; overstretch'

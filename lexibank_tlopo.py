@@ -44,9 +44,8 @@ class Dataset(BaseDataset):
                 langs[alt] = v
         allps = 0
         per_pl = collections.defaultdict(list)
-        bycat = collections.Counter()
         for vol in range(1, 7):
-            #if vol == 1:
+            #if vol != 1:
             #    continue
             t = self.raw_dir / 'vol{}'.format(vol) / 'text.txt'
             if not t.exists():
@@ -71,7 +70,6 @@ class Dataset(BaseDataset):
                 #print(rec)
                 allps += len(rec.protoforms)
                 words += len(rec.reflexes)
-                bycat.update([rec.cat1])
                 #if 'Arch' in rec.cat1:
                 #    print(rec)
                 for pf in rec.protoforms:
@@ -79,6 +77,9 @@ class Dataset(BaseDataset):
                     per_pl[pf.protolanguage].append(pf)
                 for w in rec.reflexes:
                     reflexes.update([str(w)])
+                if i == 1:
+                    print(rec)
+                    break
             print('Reconstructions:', i, 'Reflexes:', words, 'POc reconstructions:', sum(1 for pf in pfs if 'POc' in pf))
             #for k, v in pfs.most_common():
             #    if v > 1:
