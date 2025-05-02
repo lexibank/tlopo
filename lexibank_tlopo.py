@@ -5,7 +5,7 @@ import attr
 import pylexibank
 from clldutils.misc import slug
 from pyetymdict import Dataset as BaseDataset, Language as BaseLanguage
-from pycldf.sources import Source
+from pycldf.sources import Source, Sources
 
 from pytlopo.models import Volume
 
@@ -90,9 +90,9 @@ class Dataset(BaseDataset):
                     #print('---')
                 #if i == 3:
                 #    break
-            print('Reconstructions:', i, 'Reflexes:', words, 'POc reconstructions:', sum(1 for pf in pfs if 'POc' in pf))
-            print(vol.bib)
-            print(vol.chapters['5'].text)
+            #print('Reconstructions:', i, 'Reflexes:', words, 'POc reconstructions:', sum(1 for pf in pfs if 'POc' in pf))
+            #print(vol.bib)
+            #print(vol.chapters['5'].text)
             #print(len(vol._lines))
             #for line in vol._lines[-250:-180]:
             #    print(line)
@@ -106,29 +106,40 @@ class Dataset(BaseDataset):
             #     print(k, v)
 
     def cmd_makecldf(self, args):
-        #
-        # FIXME: should we model that protoforms may have different glosses, tied to different sources?
-        # e.g.
-        # PMP *qatep 'thatch of sago palm leaves' (Dutton 1994), 'roof, thatch' (ACD)
-        #
-        self.schema(args.writer.cldf)
+        self.schema(args.writer.cldf, with_cf=False, with_borrowings=False)
+        args.writer.cldf.add_columns('CognatesetTable', 'Pre_Note', 'Post_Note')
+
         langs = {r['Name']: r for r in self.raw_dir.joinpath('vol1').read_csv('languages.csv', dicts=True)}
+        reconstructions = []
         for v in list(langs.values()):
             for alt in v['Alternative_Names'].split('; '):
                 langs[alt] = v
-            args.writer.add_language(**v)
+        for vol in range(1, 7):
+            if vol != 1:
+                continue
+            t = self.raw_dir / 'vol{}'.format(vol) / 'text.txt'
+            if not t.exists():
+                continue
+            vol = Volume(t.parent, langs, Source.from_bibtex(self.etc_dir.read('citation.bib')))
+            for i, rec in enumerate(vol.reconstructions):
+                reconstructions.append(rec)
+            mddir = self.cldf_dir.joinpath(vol.dir.name)
+            mddir.mkdir(exist_ok=True)
+            for num, chapter in vol.chapters.items():
+                mddir.joinpath('chapter{}.md'.format(num)).write_text(chapter.text)
+
+            args.writer.cldf.sources = Sources.from_file(vol.dir / 'references.bib')
+
+        for lg in langs.values():
+            args.writer.add_language(ID=lg['ID'], Name=lg['Name'], Is_Proto=False, Group=lg['Group'])
+
         gloss2id = {}
-        t = self.raw_dir / 'vol1' / 'text.txt'
-        vol = Volume(t.parent, langs, Source.from_bibtex(self.etc_dir.read('citation.bib')))
-        for i, rec in enumerate(vol.reconstructions):
-            #
-            # Check if we need to create the reconstruction!
-            #
+        for i, rec in enumerate(reconstructions):
             pf = rec.protoforms[0]
             if pf.protolanguage not in langs:
                 args.writer.add_language(ID=slug(pf.protolanguage), Name=slug(pf.protolanguage), Is_Proto=True)
                 langs[pf.protolanguage] = slug(pf.protolanguage)
-            pfgloss = pf.glosses[0] if pf.glosses else 'none'
+            pfgloss = pf.glosses[0].gloss if pf.glosses else 'none'
             if pfgloss not in gloss2id:
                 gloss2id[pfgloss] = slug(pfgloss)
                 args.writer.add_concept(ID=slug(pfgloss), Name=pfgloss)
@@ -136,35 +147,68 @@ class Dataset(BaseDataset):
                 Language_ID=slug(pf.protolanguage),
                 Parameter_ID=gloss2id[pfgloss],
                 Description=pfgloss,
-                Value=pf.form,
+                Value=pf.forms[0],
                 Comment=None,
                 Source=[],
                 # Doubt=getattr(form, 'doubt', False),
             )[0]
+
             csid = str(i + 1)
             args.writer.objects['CognatesetTable'].append(dict(
-                ID=csid,
+                ID=rec.id,
                 Language_ID=slug(pf.protolanguage),
                 Form_ID=pflex['ID'],
-                Comment='\n\n'.join(line.replace('*', '&ast;') for line in rec.desc),
-                Name=pf.form,
-                Description=pf.glosses[0] if pf.glosses else None,
+                Comment='\n\n'.join(line.replace('*', '&ast;') for line in rec.desc()),
+                Name=pf.forms[0],
+                Description=pf.glosses[0].gloss if pf.glosses else None,
+                Pre_Note=rec.pre_note(),
+                Post_Note=rec.post_note(),
                 #Source=['pmr1'],
                 #Doubt=cset.doubt,
             ))
+            args.writer.add_cognate(
+                lexeme=pflex,
+                Cognateset_ID=rec.id,
+                # Source=[str(ref) for ref in form.gloss.refs],
+                # Doubt=form.doubt,
+            )
+
+            for pf in rec.protoforms[1:]:
+                if pf.protolanguage not in langs:
+                    args.writer.add_language(ID=slug(pf.protolanguage), Name=slug(pf.protolanguage), Is_Proto=True)
+                    langs[pf.protolanguage] = slug(pf.protolanguage)
+                if pfgloss not in gloss2id:
+                    gloss2id[pfgloss] = slug(pfgloss)
+                    args.writer.add_concept(ID=slug(pfgloss), Name=pfgloss)
+                pflex = args.writer.add_lexemes(
+                    Language_ID=slug(pf.protolanguage),
+                    Parameter_ID=gloss2id[pfgloss],
+                    Description=pfgloss,
+                    Value=pf.forms[0],
+                    Comment=None,
+                    Source=[],
+                    # Doubt=getattr(form, 'doubt', False),
+                )[0]
+                args.writer.add_cognate(
+                    lexeme=pflex,
+                    Cognateset_ID=rec.id,
+                    # Source=[str(ref) for ref in form.gloss.refs],
+                    # Doubt=form.doubt,
+                )
 
             for w in rec.reflexes:
                 #
                 # FIXME: supplement glosses from matching, i.e. closest reconstruction!
                 #
                 assert w.lang in langs
-                if w.gloss not in gloss2id:
-                    gloss2id[w.gloss] = slug(w.gloss or 'none')
-                    args.writer.add_concept(ID=slug(w.gloss or 'none'), Name=w.gloss)
+                gloss = w.glosses[0].gloss
+                if gloss not in gloss2id:
+                    gloss2id[gloss] = slug(gloss or 'none')
+                    args.writer.add_concept(ID=slug(gloss or 'none'), Name=gloss)
                 lex = args.writer.add_lexemes(
                     Language_ID=langs[w.lang]['ID'],
-                    Parameter_ID=gloss2id[w.gloss],
-                    Description=w.gloss,
+                    Parameter_ID=gloss2id[gloss],
+                    Description=gloss,
                     Value=w.form,
                     Comment=None,
                     Source=[],
@@ -177,7 +221,7 @@ class Dataset(BaseDataset):
 
                 args.writer.add_cognate(
                     lexeme=lex,
-                    Cognateset_ID=csid,
+                    Cognateset_ID=rec.id,
                     #Source=[str(ref) for ref in form.gloss.refs],
                     #Doubt=form.doubt,
                 )

@@ -20,23 +20,23 @@ Available online at http://hdl.handle.net/1885/106908
 
 
 [![CLDF validation](https://github.com/lexibank/tlopo/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/tlopo/actions?query=workflow%3ACLDF-validation)
-![Glottolog: 89%](https://img.shields.io/badge/Glottolog-89%25-yellowgreen.svg "Glottolog: 89%")
+![Glottolog: 0%](https://img.shields.io/badge/Glottolog-0%25-red.svg "Glottolog: 0%")
 ![Concepticon: 0%](https://img.shields.io/badge/Concepticon-0%25-red.svg "Concepticon: 0%")
 ![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
 
-- **Varieties:** 355 (linked to 330 different Glottocodes)
-- **Concepts:** 3,158 (linked to 0 different Concepticon concept sets)
-- **Lexemes:** 5,257
+- **Varieties:** 357 (linked to 0 different Glottocodes)
+- **Concepts:** 3,110 (linked to 0 different Concepticon concept sets)
+- **Lexemes:** 5,294
 - **Sources:** 0
-- **Synonymy:** 1.17
-- **Cognacy:** 4,612 cognates in 507 cognate sets (4 singletons)
-- **Cognate Diversity:** -1.26
+- **Synonymy:** 1.16
+- **Cognacy:** 5,214 cognates in 505 cognate sets (0 singletons)
+- **Cognate Diversity:** -1.19
 
 ## Possible Improvements:
 
 
 
-- Entries missing sources: 5257/5257 (100.00%)
+- Entries missing sources: 5294/5294 (100.00%)
 
 # Contributors
 
