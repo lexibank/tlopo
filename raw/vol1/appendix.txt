@@ -1,0 +1,190 @@
+
+Appendix 1: Data sources and
+                                              collation
+
+
+
+                     1           Introduction
+                       Data sources which were consulted in relation to a particular terminology are noted in
+                    the chapter on that terminology. However, quite a wide range of sources was consulted in
+                    the construction of the data base and we list these here, rather than repeating them in each
+                    chapter. Sources are conveniently divided into published and unpublished. In alphabetical
+                    sequence of language, published sources are:
+                             'Are'are                                                                                                       Geertz (1970)
+                             Arosi                                                                                                          Fox (1978)
+                             Bugotu                                                                                                         Ivens (1940)
+                             Carolinian                                                                                                     Jackson and Marck (1991 )
+                             Cemuru                                                                                                         Rivierre (1994)
+                             Maringe (Cheke Holo Hograno)
+                                                        =                                      =                                            White, Kokhonigita and Pulomana (1988 )
+                             Bauan Fijian (Standard Fijian)       =                                                                        Capell (1941 )
+                             Boumaa Fijian                                                                                                  Dixon (1988)
+                             Gapapaiwa                                                                                                      McGuckin and McGuckin (1992)
+                             Gedaged                                                                                                        Mager (1952)
+                             Gela (Nggela)  =                                                                                              Fox (1955)
+                             Hawaiian                                                                                                       Pukui and Elbert (1971 )
+                             Kairiru                                                                                                        Wivell (1981 )
+                             Kilivila                                                                                                       Senft (1986)
+                             Kiribatese (Gilbertese)       =                                                                               Sabatier (1971 )
+                             Kosraean (Kusaiean)         =                                                                                 Lee (1976)
+                             Kwaio                                                                                                          Keesing (1975)
+                             Lau                                                                                                            Fox (1974)
+                             Lenakel                                                                                                        Lynch (1977)
+                             Lewo                                                                                                           Early (1994)
+                             Loniu                                                                                                          Hamel (1994)
+                             Lou                                                                                                            Blust (1998)
+                             Maori                                                                                                          Williams (1975)
+                             Marshallese                                                                                                    Abo et al. (1976)
+                             Minaveha                                                                                                       Nenegemo and Lovell (1995)
+                             Mokilese                                                                                                       Harrison and Albert (1977)
+                             Mota                                                                                                           Codrington (1896)
+                             Motu                                                                                                           Lister-Turner and Clark (1954) (2nd ed)
+
+298    Appendix 1
+
+    Mussau                                 Blust (1984)
+    Muyuw                                  Lithgow and Lithgow (1974)
+    Paamese                                Crowley (1992)
+    Ponapean                               Rehg and Sohl (1979)
+    Puluwatese                             Elbert (1972)
+    Rennell and Bellona                    Elbert (1975)
+    Roviana                                Waterhouse, revised Jones (1949)
+    Sa'a and Ulawa                         Ivens (1918)
+    Samoan                                 Milner (1966)
+    Sudest                                 Anderson (1990)
+    Tikopia                                Firth (1985)
+    Tolai Kuanua = Raluana
+          =                                Rickard (1888)
+    Tongan                                 Churchward (1959)
+    Trukese                                Goodenough and Sugita (1990)
+    Wayan Fijian                           Pawley and Sayaba (f.c.)
+    Woleaian                               Sohn and Tawerilmang (1976)
+    Yabem (Jabem)
+              =                            Streicher (1982)
+
+   Unpublished sources consisted of manuscript word lists for Molima and Nakanai by
+Ann Chowning, for Tamambo (=Malo) by Dorothy Jauncey, and computer files provided
+by a number of scholars, some of which are themselves based on a variety of primary
+sources. These files include:
+•     The computer files of lexical data collated during the research leading to the publication
+      of Ross (1988), whose sources are listed in Appendices A and B of that work.
+•     The computer files from the Comparative Austronesian Dictionary project which
+      resulted in Tryon ed. (1995), which lists its own sources.
+•     The computer files of Robert Blust's Austronesian Comparative Dictionary on disk at
+      the University of Hawaii. The version to which we refer dates from 1995.
+•     The computer files of Bruce Biggs' POLLEX: Proto Polynesian lexicon on disk at the
+      University of Auckland. The version to which we refer dates from December 1993.
+•     Computer files of reconstructions with supporting cognate sets for North/Central Vanuatu
+      (Clark 1994), Southern Vanuatu (Lynch 1996b), and Micronesian (Bender et al. 1983).
+•     Computer files of dictionaries in progress provided by Joel Bradshaw (for Numbami),
+      Debbie Hill (for Longgu) and Malcolm Ross (for Takia).
+•     Computer files of dictionaries in progress kindly made available by members of the
+      Summer Institute of Linguistics. Languages and those who compiled/supplied the
+      dictionary are as follows: Bing (Doug Bennett), Mapos Buang (Bruce Hooley), Iduna
+      (Joyce Huckett), Dami (George Elliott), Gapapaiwa (Ed and Catherine McGuckin),
+      Gumawana (Clif Olson), Hote (Marguerite Muzzey), East Kara (Perry and Virginia
+      Schlie), Kaulong (Craig Throop), Drehet [= Khehek] (Stephan Beard), Lewo (Robert
+      Early), Lou (Robert and Vema Stutzman), Lukep [= Pono] (Jeff and Sissie D'Jernes),
+      Manam (Stephen and Kim Blewett), Mangseng (Lloyd Milligan), Mangap-Mbula
+      (Robert and Salme Bugenhagen), Mengen (Fred Madden), Misima (Bill Callister),
+      Mumeng [patep] (Linda Vissering and Karen Wilson), Nakanai (Ray Johnston), Nehan
+      (John Glennon), Patpatar (Ed Condra), Ramoaaina [= Duke of York] (Lisbeth Fritzell
+      and Robyn Davies), Siar (Larry Erdman), Sissano [Arop] (Stephen Whitacre), Sudest
+                                                                         Data sources      299
+
+    (Mike Anderson), Sursurunga (Don Hutchisson), Takia (Salme Bugenhagen, Judy
+    Rehberg, Curtis Thomas), Tawala (Bryan Ezard), Teop (David Snyder), Tinputz (Roman
+    Hostetler), Titan (Keith Lusk).
+
+
+2 Collation
+   The collation stage of the project consisted in the first instance of creating a database of
+vocabulary materials in a defined set of semantic domains from Oceanic languages for
+which data were already available (see § 1 ). This database was kept in text files on Macintosh
+computers. Files were organised in accordance with a modified version of the Summer
+Institute of Linguistics' 'standard format' in which fields within each record are labelled
+with an initial backslash followed by a single letter. In our version of the format, each
+record was terminated with a carriage return, i.e. each record occupied a single line. Each
+record contained a single word in a single language with associated information (a code
+relating to the language's subgroup, a gloss and any other semantic information, the source,
+and any other notes the researcher chose to add). The Macintosh allowed non-standard
+characters to be created and viewed on screen. Records were organised on screen into
+putative cognate sets. The use of text files rather than files in a proprietary database format
+meant (i) that it was easy to view them on screen; (ii) that it was easy to manipulate them
+with a variety of text editors and word processors; (iii) that more complex repetitive processes
+could be performed by writing small programs in the Icon programming language (Griswold
+& Griswold 1990); and (iv) that it was relatively easy to import and reformat other people's
+data sets and to export collated material into publications in preparation.
+   Although there are accepted or standard orthographies for a number of the languages
+from which data are cited here, all data were transcribed at the collation stage into a standard
+orthography (see Ross 1988 :3-4) to enable us to recognise cognates and to spot regular
+changes more quickly. This orthography is retained in the citation of data in these volumes.
+         Appendix 2: Languages
+
+
+1. Introduction
+    Maps 6- 10, showing location of languages referred to in the volume, are included at the
+end of Appendix 2. In §2 we list these languages in their putative subgroups . The higher-order
+subgroups are those described in Ch. 1 , §3.2. Lower-order groups, except where indicated,
+are drawn from the classification in Lynch, Ross and Crowley (forthcoming), and also, for
+Western Oceanic, from Ross (1988). In §3 we provide an index to §2. Polynesian subgrouping
+is based on Marck (forthcoming).
+
+   Square brackets enclose the subgroup abbreviations used in the data. Parentheses include
+dialect names or, where an equals sign is used, an alternative name or names for the
+language.
+
+2. Languages by subgroups
+
+languages.csv
+
+                                                                        Languages       31 1
+
+
+3. Language f1nderlist
+   Languages are listed alphabetically below with a numeric reference to their position in
+the subgrouping hierarchy in §2.
+
+                                                                                     Meso-Melanesian
+
+
+    Map 6: Locations of Western Oceanic and other languages in north-west Melanesia
+316
+
+
+                   Map 7: Locations of Admiralties (Adm) languages
+                   (for Wuvulu, Aua, Seimat, Mussau and Emira, see Map 6)
+
+      Map 8: Locations of Southeast Solomonic (SES) languages
+                                                                                                                                                       317
+
+
+Map 9: Locations of NorthlCentral Vanuatu (NCV), Southern Vanuatu (SV) and
+                                  New Caledonia (NCal) languages
+                                                                                                                                       .'
+
+
+                       Map 10 : Locations of Nuclear Micronesian (Mic), Fijian (Fij) and Polynesian (Pn) languages
+         References
+
+references.bib
+
+                                                                                                337
+
+         Index
+
+    This index lists all forms reconstructed in this volume, together with any existing higher-level
+proto forms. Reconstructions for proto languages of lower order than Proto Oceanic are
+included when significant to the discussion, or innovatory to their antecedent in some way.
+Other reconstructed forms listed here are those which have been used to illustrate particular
+points of phonology or derivation.
+    Reconstructions are listed by proto language from highest-order to lowest, and in a rough
+geographical sequence from west to east. Within each proto language, reconstructions are
+listed in alphabetical order, with the following additions:
+    n is followed by n , ŋ                     s is followed by S
+   r is followed by R
+   Parentheses and hyphens are ignored in alphabetisation. When a reconstruction contains
+parenthesised alternants, e.g. *(b,p)ulit, only the first alternant is counted for alphabetisation
+purposes.
+
+index.csv

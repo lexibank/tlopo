@@ -1,0 +1,184 @@
+                                               The lexicon of Proto Oceanic
+                                                     The culture and environment of ancestral
+                                                                  Oceanic society
+
+
+
+
+
+
+
+
+                                PACIFIC LINGUISTICS
+
+
+FOUNDING EDITOR:          Stephen A. Wurm
+
+EDITORIAL BOARD:          Malcolm D. Ross and Darrell T. Tryon (Managing Editors),
+                          Thomas E. Dutton, Nikolaus P. Himmelmann, Andrew K. Pawley
+
+Pacific Linguistics is a publisher specialising in linguistic descriptions, dictionaries, atlases
+and other material on languages of the Pacific, the Philippines, Indonesia and southeast Asia.
+The authors and editors of Pacific Linguistics publications are drawn from a wide range of
+institutions around the world.
+
+Pacific Linguistics is associated with the Research School of Pacific and Asian Studies at the
+Australian National University. Pacific Linguistics was established in 1963 through an initial
+grant from the Hunter Douglas Fund. It is a non-profit-making body financed largely from
+the sales of its books to libraries and individuals throughout the world, with some assistance
+from the School.
+
+The Editorial Board of Pacific Linguistics is made up of the academic staff of the School's
+Department of Linguistics. The Board also appoints a body of editorial advisors drawn from
+the international community of linguists. Publications in Series A, B and C and textbooks in
+Series D are refereed by scholars with relevant expertise who are normally not members of
+the editorial board.
+
+To date Pacific Linguistics has published over 400 volumes in four series:
+
+• Series A:    Occasional Papers; collections of shorter papers, usually on a single
+               topic or area.
+
+• Series B:    Monographs of intermediate length.
+
+
+• Series C:    Books; publications of greater length, especially reference books such
+               as dictionaries and grammars, and conference proceedings.
+
+• Series D:    Special Publications; including archival materials, pedagogical works,
+               maps, audiovisual productions, and materials that do not fit into the
+               other series.
+
+
+
+
+                                     Series C, Volume 1 52
+THE LEXICON OF PROTO OCEANIC
+   The culture and environment of ancestral
+                Oceanic society
+
+
+
+              1    Material culture
+
+
+
+
+                     edited by
+         Malcolm Ross, Andrew Pawley
+             and Meredith Osmond
+
+
+
+
+        Pacific Linguistics
+        Research School of Pacific and Asian Studies
+        The Australian National University
+        Canberra
+Published by Pacif ic Linguist ics
+Research School of Pac ific and Asian Stud ies
+The Australian Nat ional Un ivers ity
+PO Box 1428
+Canberra A Cf 260 1
+Australia
+
+
+
+
+First published 1998
+
+Copyright © The authors
+
+
+
+
+B ib liography.
+I SSN 0078- 7 5 5 8
+I SBN 0 8 5 8 8 3 507 X (v. 1 ).
+
+
+1 . Proto-Ocean ic language. 2. Ethnology - Ocean ia .
+3. Oceania - Soc ial life and customs. 1. Ross, Malcolm
+(Malcolm D. ). I I . Pawley, Andrew. III. Osmond, Meredith.
+IV. Austral ian National University. Research School of
+Pac ific and As ia n Stud ie s. Dept. of L ingu ist ics. (Se ries:
+Pac if ic Lingu is t ic s. Ser ies C -15 2 ).
+
+
+
+
+Copyed ited ffypeset by Margaret Forster
+Printed by ANU Pr int ing Serv ice, Canberra
+Bound by F & M Perfect Bookb ind in g , Canberra
+                                         v
+
+
+
+
+   The Pacific Linguistics logo was
+designed by Ian Scales after one small
+panel of a para batuna from Vella
+Lavella, held in the Australian
+Museum (A8S17). This is an artefact
+made from a plaque of fossilised giant
+clam shell (Tridacna sp.), carved into
+an elaborate fretwork design. These
+particular artefacts were made in the
+western Solomon Islands, probably
+between 100 and 200 years ago.
+   The basic cover design is also by
+Ian Scales. The motif was drawn by
+Malcolm Ross after the stylised
+representation of a design on Lapita
+pottery found by Roger Green in the
+Reefs-Santa Cruz Islands (source:
+Matthew Spriggs (ed.), Lapita design,
+form and composition . Canberra:
+Department of Prehistory, Research
+School of Pacific Studies, The
+Australian National University.)
+        Contents overview
+
+toc.txt
+
+                                                                                        xvii
+
+
+
+
+        Acknowledgements
+
+
+
+
+   We are indebted to a number of people and institutions who have assisted us during the
+preparation of this volume. Its contents are in large measure a product of the Oceanic
+Lexicon Project in the Department of Linguistics of the Research School of Pacific and
+Asian Studies (RSPAS) at the Australian National University in Canberra. A half-time research
+assistant was provided for the Project by RSPAS during 1991-93. The project was foreshadowed
+by a conference, Austronesian terminologies: continuity and change, held at the ANU in
+1990 as part of the interdisciplinary Comparative Austronesian Project, for which funds
+were also provided by RSPAS.
+   We would also like to acknowledge support from (i) the Deutsche Forschungsgemeinschaft,
+which funded a visiting professorship in the Southeast Asian Studies department of Frankfurt
+University during which Malcolm Ross did some early work on the Project; (ii) the Australian
+and New Zealand Association of Lexicographers which supported Paul Geraghty's visiting
+fellowship to the Department in 1993; and (iii) the Pacific Island Visitor's Fund of RSPAS,
+which supported a second visiting fellowship by Geraghty in 1996. Visits by Roger Green in
+1994 and Ross Clark in 1997 were funded by the Linguistics Department, RSPAS.
+   The sources of our data are listed in the Appendix, but we wish to thank staff of the
+Summer Institute of Linguistics at Ukarumpa, Papua New Guinea, for allowing us access to
+unpublished dictionaries and to members of SIL who have generously given us copies of their
+work in progress. We are also very grateful to Bruce Biggs and Robert Blust for allowing us
+access to their comparative computer files of POLLEX: Proto-Polynesian lexicon and the
+Austronesian Comparative Dictionary respectively and to Jeff Marck and David Stampe for
+technical help in obtaining this access.
+   Various scholars have commented on the individual chapters in this volume, and are
+acknowledged there. We are grateful to Wal Ambrose and Ann Chowning who have each
+commented on several chapters, and, in the latter's case, suggested numerous additions to the
+data. John Lynch has taken an active interest throughout our years of research, and made
+useful contributions to our reconstructions.
+   Malcolm Ross drew the maps. Except where otherwise indicated, the illustrations are by
+Philippa Ross. The diagram from Oliver in Chapter 3 is reproduced with permission from Dr
+Douglas L. Oliver.
+xviii

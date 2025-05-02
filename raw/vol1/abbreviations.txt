@@ -1,0 +1,57 @@
+
+        Abbreviations
+
+A         actor
+ACD       Blust, Robert A., 1995. Austronesian Comparative Dictionary. Computer
+          files. University of Hawaii, Honolulu.
+Adm       Admiralties
+ADJ       adjective
+ADV       adverb
+APPL      applicative
+ART       article
+CMP       Central Malayo-Polynesian
+CONST     construction marker
+esp.      especially
+Fij       Fijian
+Fma       Formosa
+IJ        Irian Jaya (= West New Guinea, i.e. non-Oceanic)
+INS       instrument
+k.o.      kind of
+Mic       Nuclear Micronesian
+MM        Meso-Melanesian
+NOM       nominaliser
+N         noun
+NCal      New Caledonia
+NCV       North/Central Vanuatu
+NNG       North New Guinea
+NOM       nominaliser
+0:        object pronominal enclitic or suffix
+OBJ       object
+PAn       Proto Austronesian
+PASS      passive
+PCEMP     Proto Central/EasternMalayo-Polynesian
+PCP       Proto Central Pacific
+PEMP      Proto Eastern Malayo-Polynesian
+PEOc      Proto Eastern Oceanic
+PL        plural
+PMP       Proto Malayo-Polynesian
+Pn        Polynesian
+PNGOc     Proto New Guinea Oceanic
+POc       Proto Oceanic
+PPn       Proto Polynesian
+PT        Papuan Tip
+PWMP      Proto Western Malayo-Polynesian
+PWOc      Proto Western Oceanic
+S:        subject pronominal proclitic or prefix
+SG        singular
+S.o.      someone
+s.t.      something
+SES       Southeast Solomonic
+SJ        Sarmi/Jayapura
+SV        South Vanuatu
+U         undergoer
+V         verb
+VI        intransitive verb
+VT        transitive verb
+W.Guad.   West Guadalcanal
+WMP       Western Malayo-Polynesian

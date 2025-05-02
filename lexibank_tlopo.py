@@ -5,6 +5,7 @@ import attr
 import pylexibank
 from clldutils.misc import slug
 from pyetymdict import Dataset as BaseDataset, Language as BaseLanguage
+from pycldf.sources import Source
 
 from pytlopo.models import Volume
 
@@ -37,6 +38,11 @@ class Dataset(BaseDataset):
     )
 
     def cmd_download(self, args):
+        #from pytlopo.parser.refs import CROSS_REF_PATTERN
+        #for line in self.raw_dir.joinpath('vol1').read('text.txt').split('\n'):
+        #    for m in CROSS_REF_PATTERN.finditer(line):
+        #        print(m.string[m.start():m.end()])
+        #return
         glosses = [{slug(w) for w in r['Gloss'].split() if slug(w)} for r in self.etc_dir.read_csv('vol1_poc_reconstructions.csv', dicts=True)]
         langs = {r['Name']: r for r in self.raw_dir.joinpath('vol1').read_csv('languages.csv', dicts=True)}
         for v in list(langs.values()):
@@ -45,13 +51,13 @@ class Dataset(BaseDataset):
         allps = 0
         per_pl = collections.defaultdict(list)
         for vol in range(1, 7):
-            #if vol != 1:
-            #    continue
+            if vol != 1:
+                continue
             t = self.raw_dir / 'vol{}'.format(vol) / 'text.txt'
             if not t.exists():
                 continue
-            print('Volume', vol)
-            vol = Volume(t.parent, langs)
+            vol = Volume(t.parent, langs, Source.from_bibtex(self.etc_dir.read('citation.bib')))
+            print(vol)
             words = 0
             pfs = collections.Counter()
             reflexes = collections.Counter()
@@ -77,10 +83,19 @@ class Dataset(BaseDataset):
                     per_pl[pf.protolanguage].append(pf)
                 for w in rec.reflexes:
                     reflexes.update([str(w)])
-                if i == 1:
-                    print(rec)
-                    break
+                if 1:#i < 15:
+                    r = str(rec)
+                    #if 'T)aRaq' in r:
+                    #print(r)
+                    #print('---')
+                #if i == 3:
+                #    break
             print('Reconstructions:', i, 'Reflexes:', words, 'POc reconstructions:', sum(1 for pf in pfs if 'POc' in pf))
+            print(vol.bib)
+            print(vol.chapters['5'].text)
+            #print(len(vol._lines))
+            #for line in vol._lines[-250:-180]:
+            #    print(line)
             #for k, v in pfs.most_common():
             #    if v > 1:
             #        print(v, k)
@@ -104,7 +119,7 @@ class Dataset(BaseDataset):
             args.writer.add_language(**v)
         gloss2id = {}
         t = self.raw_dir / 'vol1' / 'text.txt'
-        vol = Volume(t.parent, langs)
+        vol = Volume(t.parent, langs, Source.from_bibtex(self.etc_dir.read('citation.bib')))
         for i, rec in enumerate(vol.reconstructions):
             #
             # Check if we need to create the reconstruction!
