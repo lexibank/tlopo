@@ -1,25 +1,3 @@
-xvi
-xvii
-             Preface
-
-
-
-   This second edition of volume 2 of The lexicon of Proto Oceanic has been produced to
-satisfy three needs which have arisen more or less simultaneously. Firstly, and to our
-satisfaction, the original 2003 print run sold out more quickly than we expected. Secondly,
-Pacific Linguistics is moving towards corroborative publishing with ANU ePress, the
-electronic publishing arm of The Australian National University, and a second edition of a
-previously published volume was the most straightforward way of troubleshooting this
-organisational change. Lastly, but nonetheless significantly, the volume needed a number
-of small revisions, and the E Press edition allows us to make these updates.
-
-
-
-Malcolm Ross
-Canberra, 1st March 2007
-
-
-
 
                                            xviii
 
@@ -136,12 +114,12 @@ University of Hawaii (Bender et al. 1983); for Proto North/Central Vanuatu by Cl
 Ozanne-Rivierre (1992), Haudricourt and Ozanne-Rivierre (1982) and Geraghty (1989);
 for Proto Southeast Solomonic by Levy (1980) and Lichtenberk (1988); for Proto Central
 Pacific by Hockett (1976) and Geraghty (1983, 1986, and 1996, together with a number of
-unpublished papers); for Proto Eastern Oceanic by Biggs (1965), Cashmore (1969), Levy
-and Smith (1970), and Geraghty (1990); and for Proto Central Papuan by Pawley (1975),
+unpublished papers); for Proto Eastern Oceanic by Biggs (1965), Cashmore (1969),
+Levy and Smith (1970), and Geraghty (1990); and for Proto Central Papuan by Pawley (1975),
 Lynch (1978a, 1980), and Ross (1994).
 
-    Robert Blust of the University of Hawaii has, in a series of papers (1970, 1980b, 1983–
-84a, 1986, 1989) published extensive, alphabetically ordered, lexical reconstructions (with
+    Robert Blust of the University of Hawaii has, in a series of papers (1970, 1980b, 1983–84a, 1986, 1989)
+published extensive, alphabetically ordered, lexical reconstructions (with
 supporting cognate sets) for interstages earlier than POc, especially for Proto Austronesian,
 Proto Malayo-Polynesian and Proto Eastern Malayo-Polynesian. He has also written
 several papers investigating specific semantic fields (Blust 1980a, 1982, 1987, 1994). At
@@ -156,8 +134,8 @@ Ross (1988) contains a substantial number of new POc lexical reconstructions, as
 proposed modifications to the reconstructed POc sound system and the orthography.
 
     These earlier works have provided valuable points of reference, both inside and outside
-the Oceanic group, and we are indebted particularly to Biggs and Clark (1993), Clark
-(1996) and Blust (ACD). However, previous Oceanic lexical studies were limited both by
+the Oceanic group, and we are indebted particularly to Biggs and Clark (1993),
+Clark (1996) and Blust (ACD). However, previous Oceanic lexical studies were limited both by
 large gaps in the data, with a distinct bias in favour of ‘Eastern Oceanic’ languages, and by
 the technical problems of collating large quantities of data. Although most languages in
 Melanesia remain poorly described, there are now many more dictionaries and extended
@@ -223,11 +201,10 @@ modification in the light of the reconstructions. There are cases, highlighted i
 contributions to these volumes, where we were able to reconstruct a term where we did not
 expect to do so and conversely, often more significantly, where we were unable to
 reconstruct a term where we had believed we should be able to. In each case, we have
-
-                                                                               Introduction    5
-
 discussed the reasons why our expectations were not met and what this may mean for
 Oceanic culture history.
+
+                                                                               Introduction    5
 
     Blust (1987:81) distinguishes between conventional ‘semantic reconstruction’, which
 asks, “What was the probable meaning of protomorpheme X?”, and Dyen and Aberle’s
@@ -247,13 +224,10 @@ determined in advance. Instead, cognate sets are collected and their meanings ar
 compared with regard to:
 
 __ul__
-x    their specific denotations, where these are known;
-x    the geographic and genetic distribution of these denotations (i.e. are the glosses from
-     which the protogloss is reconstructed well distributed?);
-x    any derivational relationships to other reconstructions;
-x    their place within a working hypothesis of the relevant POc terminology (e.g., are
-     terms complementary —‘bow’ implies ‘arrow’; ‘seine net’ implies ‘floats’ and
-     ‘weights’? Are there different levels of classification—generic, specific, and so on?).
+their specific denotations, where these are known;
+the geographic and genetic distribution of these denotations (i.e. are the glosses from which the protogloss is reconstructed well distributed?);
+any derivational relationships to other reconstructions;
+their place within a working hypothesis of the relevant POc terminology (e.g., are terms complementary —‘bow’ implies ‘arrow’; ‘seine net’ implies ‘floats’ and ‘weights’? Are there different levels of classification—generic, specific, and so on?).
 
 For example, it proved possible to reconstruct the following POc terms for tying with cords
 (vol.1, pp.291–293):
@@ -278,13 +252,13 @@ tie s.t. around ankle or wrist’: Lukep and Takia are North New Guinea language
 Longgu is Southeast Solomonic. Reconstruction of the meaning of *paqu(s), *paqus-i- as
 ‘bind, lash; construct (canoe +) by tying together’ is supported by the meanings of the
 Takia, Kiribati and Samoan reflexes, respectively ‘tie, bind; construct (a canoe)’,
-
-6    Malcolm Ross, Andrew Pawley and Meredith Osmond
-
 ‘construct (canoe, house)’, and ‘make, construct (wooden objects, canoes +)’: Takia is a
 North New Guinea language, Kiribati is Micronesian, and Samoan is Polynesian. The
 meaning of *pisi is similarly reconstructed by reference to the meanings of its Mono-Alu,
 Mota, Port Sandwich, Nguna and Fijian reflexes.
+
+6    Malcolm Ross, Andrew Pawley and Meredith Osmond
+
 
    Often, however, the contributors of these chapters have been less fortunate in the
 information available to them. For example, Osmond (vol.1, pp.222–224) reconstructs six
@@ -329,58 +303,11 @@ proceed without making some assumptions about these matters. Figure 1 is an appr
 rendering of our subgrouping assumptions, and also serves as a key to abbreviations of
 names of language groups and protolanguages. The upper part of the tree (as far down as
 POc) is due to Blust, originally presented in Blust (1977) and repeated with additional
-supporting evidence in subsequent publications (Blust 1978a, 1982, 1983–84b, 1993).4
+supporting evidence in subsequent publications (Blust 1978a, 1982, 1983–84b, 1993).[4]
 
 [4]   For a commentary on Austronesian subgrouping, see Ross (1995b).
 
                                                                                       Introduction     7
-
-       Proto Austronesian (PAn)
-
-
-Formosan              Proto
-languages       Malayo-Polynesian (PMP)
-
-
-      Western             Proto Central/Eastern
-  Malayo-Polynesian             Malayo-
-     languages            Polynesian (PCEMP)
-
-
-                 Central              Proto Eastern
-            Malayo-Polynesian            Malayo-
-               languages             Polynesian (PEMP)
-
-
-                   Proto South Halmahera/         Proto Oceanic
-                      West New Guinea                   (POc)
-
-
-                  Proto           Proto Admiralty         Proto
-             Western Oceanic                         Eastern Oceanic
-                (PWOc)                                   (PEOc)
-
-
-  North New          Proto    Meso-Melanesian         Proto Remote      Proto Southeast
-Guinea languages   Papuan Tip    languages              Oceanic           Solomonic
-
-
-                     Proto         Proto        North and         Proto Central       Proto
-                      New          South      Central Vanuatu       Pacific          Nuclear
-                   Caledonian     Vanuatu       languages                           Micronesian
-
-
-                                                       Rotuman       Proto Tokelau-    West Fijian
-                                                                         Fijian         dialects
-
-
-                                                             East Fijian      Proto Polynesian
-                                                              dialects             (PPn)
-
-
-                                                                            Proto           Proto
-                                                                           Tongic          Nuclear
-                                                                                          Polynesian
 
       Figure 1: Schematic diagram of the diversification of Austronesian languages
                      (see the text with regard to its interpretation)
@@ -388,6 +315,7 @@ Guinea languages   Papuan Tip    languages              Oceanic           Solomo
       exclusively shared common ancestor. Thus Formosan languages indicates a collection of
       languages descended (along with Proto Malayo-Polynesian) from Proto Austronesian. It is
       assumed that there was no ‘Proto Formosan’.
+
 8   Malcolm Ross, Andrew Pawley and Meredith Osmond
                                                                                           Introduction       9
 
@@ -513,8 +441,8 @@ languages is a large task, and so we have relied heavily on our own previous wor
 work of others. The sound correspondences we have used are those given by Ross (1988)
 for Western Oceanic and Admiralties; by Levy (1979, 1980) and Lichtenberk (1988) for
 Cristobal-Malaitan, by Pawley (1972) and Tryon and Hackman (1983) for Southeast
-Solomonic; by Tryon (1976) and Clark (1996) for North/Central Vanuatu; by Lynch
-(1978b, 2001) for South Vanuatu; by Geraghty (1989) and Ozanne-Rivierre (1992) for
+Solomonic; by Tryon (1976) and Clark (1996) for North/Central Vanuatu; by
+Lynch (1978b, 2001) for South Vanuatu; by Geraghty (1989) and Ozanne-Rivierre (1992) for
 New Caledonia; by Jackson (1986) and Ross (1996a) for Nuclear Micronesian; by
 Geraghty (1986) for Central Pacific; by Biggs (1978) for Polynesian; by Ross (1996a) for
 Yapese; and by Ross (1996b) for Irian Jaya (West New Guinea).
@@ -674,6 +602,7 @@ converted into our standard orthography in the same way as Fijian. Biggs and Cla
 reconstructions are in any case written in an orthography identical to our standard.
 Bracketing and segmentation conventions in protoforms are shown in Table 2.
 
+__ul__
              Table 2: Bracketing and segmentation conventions in protoforms
        (x)      it cannot be determined whether x was present
        (x, y)   either x or y was present
@@ -738,6 +667,7 @@ features to be encountered there.[1]
 
 
 2.2 The major biogeographic regions of Oceania
+
     Oceania is often divided into three main geographic regions: Melanesia, Polynesia and
 Micronesia. However, a more useful primary division for understanding the history of
 plants and animals, and, particularly, of humans in the Pacific is between Near Oceania
@@ -943,8 +873,8 @@ of the St Matthias Group, New Britain and in the islands off the east coast of N
 
 A vast literature on Lapita has accumulated over the past 40 years and it is impossible to
 reference this fully. Kirch (1997) is the most comprehensive overview. Other important
-reviews include Allen and Gosden (1991), Best (2002), Green (1991a, 2003), Kirch
-(2000), Kirch and Green (2001), Kirch and Hunt (1988), Spriggs (1997), and
+reviews include Allen and Gosden (1991), Best (2002), Green (1991a, 2003), Kirch (2000),
+Kirch and Green (2001), Kirch and Hunt (1988), Spriggs (1997), and
 Summerhayes (2000a, 2001).
 
     Lapita was a culture quite different from those which preceded it in Near Oceania.[4] Its
@@ -1006,7 +936,7 @@ archaeology, with support from the study of plant and animal distributions.
 
    Most scholars now accept the view that Lapita was an amalgam of ingredients from
 three sources or dynamics, which Green (1991a, 2003) refers to as ‘intrusion’, ‘integration’
-and ‘innovation’.5 ‘Intrusion’ refers to a core complex of elements of Lapita which entered
+and ‘innovation’.[5] ‘Intrusion’ refers to a core complex of elements of Lapita which entered
 Near Oceania from Island SE Asia. These comprised language, and many elements of
 technology, domestic animals, architecture and settlement patterns and social organisation.
 The intrusive technology included red-slipped pottery, seagoing outrigger canoes, the two
@@ -1519,7 +1449,7 @@ Oceanic-speaking peoples describe parts of their environment. We then examine ev
 provided by cognate sets and lexical reconstructions, concerning details of the inanimate
 land environment known to speakers of Proto Oceanic and certain of its daughter
 languages. We deal first with the land and landforms, and include vegetation cover only
-when it is part of a topographical feature.1 Seascape is dealt with in the following chapter.
+when it is part of a topographical feature.[1] Seascape is dealt with in the following chapter.
 
    Malinowski (1922, 1935) has provided us with a detailed account of the Kiriwina
 people of the Trobriand Islands, a coral atoll system consisting of one big island
@@ -1695,9 +1625,8 @@ between ano hū ‘dry land’ and esi ‘sea’.
                                          The landscape   39
 
 
-
-
 Map 8: Tikopia (after Firth 1936:xxii)
+
 40   Meredith Osmond, Andrew Pawley and Malcolm Ross
 
 <
@@ -1889,6 +1818,7 @@ PCP *qatu ‘number of things in a line, row, as a chain of islands’
  Pn:     Samoan        | atu motu |        ‘group of islands, archipelago’
  Pn:     Nanumean       atu              ‘group or chain of islands’ (atu fenua elise ‘the whole Ellice group’, atu paipai ‘the whole world’)
 >
+
 44     Meredith Osmond, Andrew Pawley and Malcolm Ross
 
 
@@ -2002,6 +1932,7 @@ POc *ruru ‘calm, sheltered’
  Pn:   Rennellese       gugu           ‘be calm, sheltered, to leeward’
  Pn:   Hawaiian         lulu           ‘calm area leeward of an island’
 >
+
    References to ‘shore’ occur also in locative expressions (see Chapter 8). To a person at
 sea, reflexes of POc *qutan will refer to the shore, while to a person inland, reflexes of
 *laur can carry the same interpretation.
@@ -2179,7 +2110,6 @@ centred on mountain or mountainous country. POc *puŋa-puŋa may have also denot
 reconstructions, *buku and *pwotu referred rather to a protuberance or a bulge-shaped
 object.
 
-
 [4] It is tempting to decide that this is the same term as POc *koro (i) any fenced-in area’, (ii) settlement
     fortified by a palisade or ditch’ (Pawley 2005), on the basis that fortifications were typically situated on
     high ground. But there is strong evidence that there were two distinct terms at least as far back as POc.
@@ -2311,6 +2241,7 @@ PPn *tuqa-siwi ‘mountain ridge’ (Biggs & Clark 1993)
 
    We have included two POc reconstructions glossed ‘valley’, although the second is
 reflected in only two languages.
+
 <
 POc *mala ‘valley, ravine’
  Adm: Mussau         mala(le)         ‘valley’
@@ -2583,6 +2514,7 @@ POc *poŋa-poŋa ‘swamp, mud’
 
    The final two reconstructed forms in this section probably referred to wet taro swamp
 gardens.
+
 <
 PEOc *bʷela ‘taro swamp’
  SES: Kwaio           gʷele-gʷele(na) ‘bottom of taro corm’
@@ -2810,13 +2742,13 @@ POc *|mata waiR| ‘spring of water, source of a river’
 Other compounds retaining reflexes of POc *mata ‘eye’ but varying in their term for
 ‘water’ include the following:
 
-+
+__pre__
  NNG: Kaulong            eki maran
  NNG: Yabem              bu mata
  PT:     Iduna           gufa wa-mata
  MM: Tolai               mətə nə tavə
  SES: Lau                mā-fulafula
-+
+
 
 3.6.3 Waterfall
 
@@ -3247,9 +3179,8 @@ POc *maqasin (V) ‘be salty’; (N) ‘salt’
 <
    PAn *qasiRa ‘salt’ has Oceanic reflexes. Despite the formal resemblance to PAn
 *qasiN/PMP *qasin ‘salt’, the supporting data in the ACD show clearly that these are
-distinct etyma. Blust (ACD) interprets the SES reflexes as reflexes of *tasik ‘sea’ (see Ch.4,
-§2.1) with an added suffix -la, but it seems far more likely that they reflect POc *qasiRa
-‘salt’.
+distinct etyma. Blust (ACD) interprets the SES reflexes as reflexes of *tasik ‘sea’ (see Ch.4, §2.1)
+with an added suffix -la, but it seems far more likely that they reflect POc *qasiRa ‘salt’.
 
 PAn *qasiRa ‘salt’ (ACD)
 POc *qasiRa ‘salt’
@@ -3283,8 +3214,8 @@ conventional descriptive expressions as live coals, glowing embers, dying embers
 black embers, hot ash, white ash.
 
    The kinds of lexical distinctions commonly made in Oceanic languages in this semantic
-domain can be exemplified by comparing Mota, of the Banks Is., Vanuatu (Codrington and
-Palmer 1896) and Kiriwina of the Trobriand Is., Milne Bay Province, Papua New Guinea
+domain can be exemplified by comparing Mota, of the Banks Is., Vanuatu (Codrington and Palmer 1896)
+and Kiriwina of the Trobriand Is., Milne Bay Province, Papua New Guinea
 (Lawton pers. comm.).
 
    Mota has the general term av ‘fire’ and at least nine terms for kinds of burning and
@@ -3395,8 +3326,7 @@ PMP *baRah ‘live coal’ may be reconstructed from, e.g. Tagalog baga, Malay b
 Ngadju-Dayak barah ‘live coal’. This is possibly continued in Ramoaaina para ‘bake on
 fire’, Motu hara-ia ‘light a fire; broil’, hara ‘platform of sticks on which meat is grilled’
 but the meaning differences leave a question. There is already a distinct, well-established
-POc reconstruction for ‘cook over an open fire, roast over embers’, namely *tunu (vol. 1,
-pp.293–294).
+POc reconstruction for ‘cook over an open fire, roast over embers’, namely *tunu (vol. 1, pp.293–294).
 
 74   Meredith Osmond, Andrew Pawley and Malcolm Ross
 
@@ -3711,10 +3641,10 @@ POc *puruŋ, *puru-puruŋ ‘(?) glow or flame of fire’
 
 Certain Papuan languages of the central and western Solomons show resemblant forms that
 are presumably borrowed from an Oceanic source.
-+
+
+__pre__
   Papuan: Lavukaleve huluhuluru          ‘flame’
   Papuan: Baniata      vuvuru            ‘flame’
-+
 >
 
 80   Meredith Osmond, Andrew Pawley and Malcolm Ross
@@ -3960,7 +3890,7 @@ or twice a century, and affect only localised places. Although a number of terms
 wave’ have been collected, and are listed below, cognates exist only within low level
 subgroups.
 
-+
+__pre__
   Adm: Mussau            manu gagaga ‘tidal wave’ (manu ‘water’)
   Adm: Lou               ultum             ‘tidal wave’
   MM: Nakanai            karoro            ‘tidal wave’
@@ -3977,7 +3907,7 @@ subgroups.
  Pn:      Tongan        | peau kula |      ‘tidal wave’ (lit. ‘wave red’)
  Pn:      Niuean        | peau afi |       ‘tidal wave’ (lit. ‘wave fire’)
  Pn:      Hawaiian      | kai hōʔeʔe |     ‘tidal wave’
-+
+
 
 86      Meredith Osmond, Andrew Pawley and Malcolm Ross
 
@@ -4091,8 +4021,7 @@ PPn *qā-siosio ‘whirlwind, waterspout’
  Pn:   Hawaiian        pua-hiohio      ‘whirlwind’
 >
 <
-   The next item may be associated in some way with POc *piro ‘twist together’ (vol. 1,
-p.287).
+   The next item may be associated in some way with POc *piro ‘twist together’ (vol. 1, p.287).
 
 POc *piru-piru ‘whirlwind, waterspout’
  NNG: Kove             vili-viliu        ‘small whirlwind’
@@ -4169,13 +4098,12 @@ water’. It also had a local-noun sense (see p.240). Its reflexes have wide dis
 also occur frequently in compounds. Of the others, *masawa(n,ŋ) emphasized the sense of
 open sea, *laman evidently denoted deep water in contrast to the shallow water on or
 within the fringing reef, while *laur seems to have functioned primarily, and perhaps
-
+exclusively, as a local noun meaning ‘seawards’, and is reconstructed in this sense in
+Chapter 8, p.239. A few common-noun reflexes of *laur are given below.
 
 
 92   Meredith Osmond, Andrew Pawley and Malcolm Ross
 
-exclusively, as a local noun meaning ‘seawards’, and is reconstructed in this sense in
-Chapter 8, p.239. A few common-noun reflexes of *laur are given below.
 
 <
 PMP *tasik ‘sea’ (Dempwolff 1938)
@@ -4380,11 +4308,11 @@ with free-flowing current’, with the reflex of POc *waiR ‘water’ replacing
 
    In a number of languages, rough water is described by reflexes of POc *saqat ‘bad’.
 
-+
+__pre__
  PT:  Kiriwina           (ipai)saga       ‘rough, of sea, weather’
  SES: ’Are’are          | āsi taʔa |        ‘rough sea’
  SES: Arosi             | asi taʔa |        ‘confused sea’
-+
+
 
 
 4.2.3 Current
@@ -4600,7 +4528,7 @@ protolanguages, all showing some degree of formal similarity:
 
                                                                          The seascape   101
 
-+
+__pre__
  PAn        *buCaq         ‘foam, froth’
  PAn        *puCaq         ‘foam, froth, lather’
  PMP        *budaq         ‘foam, bubbles, lather, scum, froth’
@@ -4608,7 +4536,6 @@ protolanguages, all showing some degree of formal similarity:
  PMP        *busa          ‘foam’
  PAn        *bujeq         ‘foam, bubbles, lather, scum, froth’
  PAn        *bua           ‘foam, bubbles, froth’
-+
 
 PAn *buCaq and *puCaq are to our knowledge not reflected in Oceanic languages (the
 expected POc reflexes of either would be **puta(q) and **buta(q)). Of the other forms,
@@ -5013,8 +4940,6 @@ border shores, and barrier reefs which are some distance offshore. Although many
 are in fact islands, some consist only of reef.
 
 
-
-
                                    Figure 3: Reef forms
 
    Coral reefs generally have a number of features in common, as shown in Figure 3.
@@ -5095,7 +5020,8 @@ made by Ross Clark (1991), POc *paŋ-oda ‘gather shellfish and other seafood o
 and *p-in-aŋ-oda ‘shellfish, seafood gathered on the reef’ (where *paŋ- is the verbal suffix
 (underlying form *paN-) and -in- the noun-deriving infix discussed in vol. 1, p.29 and p.33
 respectively). A selection of reflexes follows:
-+
+
+__pre__
  PT:     Motu              haoda            (V) ‘fish’
  SES: Bugotu               vagoda           ‘hunt for shellfish on the reef’
  SES: Gela                 vaŋoda           ‘collect food on the reef; anything on the reef; gatherer of reef food’
@@ -5105,7 +5031,6 @@ respectively). A selection of reflexes follows:
  NCV: Nguna                vinagoda         ‘shellfish’
  NCV: Lonwolwol            fogōr            ‘look for fish (on reef etc.)
  SV: Anejom                a-haŋeþ          ‘forage on reef’
-+
 >
 
                                                                              The seascape      111
@@ -5150,8 +5075,6 @@ records a local division of the marine environment into four major biotopes: the
 barrier reef fronts (mataʔuluʔulu) and the open ocean (moana). The reef flat and reef edge
 are further divided into leeward and windward zones, although Dye gives the local name
 only for the windward reef flat, lafo-lafo.
-
-
 
 
                                Figure 4: Tikopia reef profile
@@ -5501,7 +5424,13 @@ northeast trade winds meet is known as the Inter-Tropical Convergence Zone (ITCZ
 colloquially ‘the Doldrums’.
 
 120   Malcolm Ross
+
+Map 10
+
 Meteorological phenomena   121
+
+Map 11
+
 122     Malcolm Ross
 
     The trade winds and the ITCZ are two of the major ingredients of the weather in the
@@ -5603,8 +5532,6 @@ brings a marked seasonal reversal. Whereas the wet on non-monsoonal islands eith
 consists of the windless rain of the ITCZ or of variable, stormy weather, the monsoon
 draws the trade winds across the Equator into the opposite hemisphere, eliminating the
 doldrums and giving a clear reversal of wind direction.
-
-
 
 
 [3] A geographer expert in this field would probably consider this definition an oversimplification, but it will
@@ -5826,12 +5753,12 @@ POc *mur[i,e] (N) ‘breeze’; (V) ‘blow gently’
  Pn:        Tuamotuan          mure               ‘fail (of breath)’
 
 The terms below may also reflect POc *mur[i,e], but with a change in meaning.
-+
+
+__pre__
  NNG: Amara             o-mur          ‘southeast trade’
  NNG: Bing              mur-mōriy      ‘wind which blows strongly from the west, often causing damage’
  PT:    Motu            miri(gini)     ‘north wind’
  PT:    Mekeo           mili(kini)     ‘north wind’
-+
 
 The Mangap, Motu and Mekeo terms have -i- where -u- is expected. This may reflect
 vowel assimilation.
@@ -6185,11 +6112,10 @@ unlikely candidates for the source).
 
                                                                 Meteorological phenomena         135
 
-+
+__pre__
  SES: Arosi                worosi             ‘northwest gale’
  SES: ’Are’are             awarosi            ‘the northwest wind’
  SES: Sa’a                 awalosi            ‘northwest wind’
-+
 
    The Micronesian forms are odd in two ways. Firstly, if sound correspondences are
 applied to infer their putative POc ancestor, the result is **barat[a], a form which is
@@ -6453,18 +6379,17 @@ development also affects local seasonal/wind terms. Thus these items reflect POc
 
 140    Malcolm Ross
 
-+
+__pre__
  NNG: Kove               hai               ‘southeast trade, year’
  NNG: Bariai             rai               ‘year’
  NNG: Lukep              rai               ‘year’
  Mic: Woleaian           ẓaxi             ‘year, age, summer season’
-+
 
 —whilst the two below reflect POc *apaRat ‘northwest wind’:
-+
+
+__pre__
  MM: Barok              awat            ‘year’
  MM: Siar              yahrat          ‘year’
-+
 
 5.5 The weather
 
@@ -6753,11 +6678,11 @@ POc *kapu(t) ‘low cloud, mist, fog’
 
 The Bali and Fijian forms below are problematic, as they reflect POc *kabu(t), not
 *kapu(t)
-+
+
+__pre__
  MM: Vitu             ɣabu-ɣabu     ‘fog’
  Fij:    Bauan        kabu          ‘mist’
  Fij:    Wayan        kabu          (N) ‘mist, haze, fog’; (V) ‘be covered in cloud, mist, fog’
-+
 >
 
 <
@@ -7164,7 +7089,7 @@ disconfirmed by this study.
 6.1 Introduction
 
    For as far back as the four or five thousand years that we can trace them culturally,
-Austronesian speakers have preferred to live close to the sea.1 They have typically been
+Austronesian speakers have preferred to live close to the sea.[1] They have typically been
 sailors and fishermen. For as long as their settlements were confined to southeast Asia and
 northwest Melanesia, virtually all their sailing would have been between intervisible or
 near-intervisible islands. However, in the late second millennium BC, Austronesian
@@ -7207,7 +7132,7 @@ of compass or chart or in fact any aids beyond what they held in their heads and
 could sense. In the mid-1960s, David Lewis, an experienced ocean yachtsman, aware that
 in some parts of the Pacific this skill was still practised, determined to seek out any
 remaining old-time navigators and sail with them where possible, to try to comprehend and
-record their navigational strategies. His resulting book, We, the Navigators (1972),2 is the
+record their navigational strategies. His resulting book, We, the Navigators (1972),[2] is the
 most complete record we are likely to get of this body of knowledge, rapidly disappearing
 with the increased presence of motorised boats and Western navigational technology. He
 was also at pains to record, in the languages of the navigators themselves, the names of the
@@ -7236,17 +7161,15 @@ Archipelago lying just a few degrees south of the Equator. Similarly, the patter
 winds, currents and swells varies with latitude and with distance from land mass, ocean
 depth etc., as well as with the seasons.
 
+[2] We, the Navigators was reissued in 1994 in revised format, including a glossary of terms. Subsequent
+  references to the volume in this chapter are to the 1994 revision.
+
 
 6.2 The sky and the horizon
 
    For early Oceanic navigators, as for the Arabs, the Phoenicians, the Vikings and other
 early navigators, the fundamental sources of position finding were the heavenly bodies.
 
-
-
-
-[2] We, the Navigators was reissued in 1994 in revised format, including a glossary of terms. Subsequent
-  references to the volume in this chapter are to the 1994 revision.
 
                                                                    Navigation and the heavens           157
 
@@ -7333,7 +7256,7 @@ sky. Lau and Kwaio both have ʔaena asi, literally ‘foot/leg of the sea’. Ot
 the more usual second element meaning ‘sky’ but vary the first element:
 
  PT: Motu           | guba dokona |         ‘horizon’ (guba[4] ‘sky’ doko ‘end’)
- SES: Lau           | ʔaena salo |          ‘horizon’ (ʔaena ‘foot’, salo5 ‘sky’)
+ SES: Lau           | ʔaena salo |          ‘horizon’ (ʔaena ‘foot’, salo[5] ‘sky’)
  SES: Arosi          waʔa-ni-aro          ‘horizon’ (lit. ‘beginning of the sky’)
  Mic: Chuukese       epī-ɾeŋ              ‘horizon’ (epi- ‘bottom’, ɾeŋi ‘sky’)
  Mic: Marshallese   | kapin laŋ |         ‘horizon’ (kapi ‘bottom’, laŋ ‘sky’)
@@ -7372,7 +7295,7 @@ and identify altitudes of stars within a degree of two (Grimble 1931:197–198).
    The sun is the main direction indicator during daylight, but its position must be related
 to the time of year. Actual points of sunrise and sunset move over a horizontal arc that
 gets progressively larger the further one is from the equator. Åkerblom (1968:15–17)
-and Makemson (1941:85) offer linguistic and archaeological6 evidence of Polynesian
+and Makemson (1941:85) offer linguistic and archaeological[6] evidence of Polynesian
 familiarity with the sun’s apparent annual movement, a familiarity that it would be
 necessary in any event to presuppose to explain navigators’ facility in using the sun as a
 bearing indicator. Polynesians have terms for the ecliptic, the path along which the sun
@@ -7380,7 +7303,7 @@ appears to move over a year. For the Pukapukans, it was te ala o te la, literall
 the sun’. Hawaiians called it ke ala ula a ke kuʔukuʔu, ‘the bright road of the spider’.
 Hawaiian terms have been recorded for the sun’s southern limit, ke alanui polohiwa a
 Kanoloa, literally ‘the black-shining road of Kanaloa’, and for its northern limit, ke alanui
-polohiwa a Kane, literally ‘the black-shining road of Kane’.7 In Pukapuka, the terms for
+polohiwa a Kane, literally ‘the black-shining road of Kane’.[7] In Pukapuka, the terms for
 the solstices were lua poto ‘short pit’ and lua loa ‘long pit’, phrases which Beaglehole
 suggests refer to the short days of winter and the long days of summer respectively. Tahiti
 has corresponding terms—rua poto and rua maoro. Maori has the one term, mārua roa
@@ -7396,9 +7319,7 @@ of the equator’; meaŋ is the directional ‘north’ and maiaki ‘south’.
 you happen to be at the particular latitude for which the sun is then directly overhead). As
 Lewis points out, the north–south axis can be accurately ascertained at noon by the shadow
 of a vessel’s mast, which points either due north or south depending on the latitude and the
-season (1994:384).8
-
-
+season (1994:384).[8]
 
 [6] Archaeological evidence comes from identification of probable solar observation sites on, for instance,
   Mangareva and Easter Island (Åkerblom 1968:17).
@@ -7746,15 +7667,13 @@ POc *pituqun ‘star’
  Pn:       Anutan               petū              ‘star’
 >
 
-6.5.2 Individual stars and star groups12
+6.5.2 Individual stars and star groups[12]
 
 6.5.2.1 Venus (Morning Star, Evening Star)
 
    The planets ‘wander’ in their movements and are of little use as guiding stars. The only
 one to feature regularly in wordlists is Venus. The POc name for Venus continues a PMP
 etymon.
-
-
 
 [12] In addition to regular dictionary sources, the following sources for star names were used: Feinberg (1988)
    for Anutan, Christian (1899) for Ponape, Lamotrek and Mortlockese, Thomas (1987) for Satawalese and
@@ -7804,19 +7723,23 @@ PMic *|fitū rāni| ‘Morning Star’ ( > POc *raqani ‘daytime, daylight’)
 >
 
 (ii) other compounds
-  NNG: Gedaged                boi tinan             ‘Morning Star’ (boi ‘star’, tinan ‘mother’ or ‘big’; cf. p.195)[13]
- NNG: Manam                   goai zama             ‘Morning Star’ (goai ‘star’, zama ‘tomorrow’)
- PT:  Motu                    hisiu bada            ‘Morning Star’ (hisiu ‘star’, bada ‘large’)
 
-Evening Star (various compounds):
- MM: Roviana           govete pisi                  ‘Evening Star, Venus’ (govete ‘to flee, run away’, pisi ‘to sting or bite, as insects’)
- SES:      To’aba’ita         bubufaŋa              ‘Evening Star’ (bubu ‘look at’, faŋa ‘eat; food’
+__pre__
+  NNG: Gedaged                boi tinan             ‘Morning Star’ (boi ‘star’, tinan ‘mother’ or ‘big’; cf. p.195)[13]
+  NNG: Manam                  goai zama             ‘Morning Star’ (goai ‘star’, zama ‘tomorrow’)
+  PT:  Motu                   hisiu bada            ‘Morning Star’ (hisiu ‘star’, bada ‘large’)
 
 
 [13] POc *tina, literally ‘mother’, sometimes carries the interpretation ‘big’ in contrast to ‘child/small’.
 
 168     Meredith Osmond
 
+
+Evening Star (various compounds):
+
+__pre__
+ MM: Roviana           govete pisi                  ‘Evening Star, Venus’ (govete ‘to flee, run away’, pisi ‘to sting or bite, as insects’)
+ SES:      To’aba’ita         bubufaŋa              ‘Evening Star’ (bubu ‘look at’, faŋa ‘eat; food’
  SES:      Lau              būbūfaŋa       ‘Evening Star’ (būbū ‘look at, gaze’, faŋa ‘to have a meal, food’)
  SES:      Arosi            maŋai ŋau      ‘Evening Star’ (maŋa ‘eat’, ŋau ‘eat food’
  Pn:       Tikopia          fetū ramaŋa    Alternative name for evening star when standing in west, in monsoon nights (lit. ‘torchlight fishing star’)
@@ -8143,12 +8066,12 @@ PEOc *u(C)unu ‘Aldebaran’
 
 Other names located for Aldebaran include:
 
-+
+__pre__
  Mic: Kiribati         te boto-n-aiai   ‘Aldebaran (in Taurus)’ (lit. ‘base of ribs (aiai) of canoe’, because it stands in the V-shaped portion of Taurus) (Grimble 1931:241)
  Mic: Marshallese      lɯoc-lɯaplɯap ‘Aldebaran in Taurus’ (lit. ‘big bonito’)
  Pn: Tahitian          ana muri         ‘Aldebaran’ (Lewis 1994:403) (‘rear pillar supporting the sky’; cf. ana mua ‘front pillar, Antares)
  Pn: Maori             wero-i-te-kokota ‘Aldebaran’ (‘herald of the digging season’)
-+
+
 
                                                           Navigation and the heavens     175
 
@@ -8373,10 +8296,9 @@ PPn *maqafu ‘Magellanic Clouds’
 In Samoa, and also Anuta, they could simply be referred to as ‘flying cloud’ and
 ‘stationary cloud’ (Makemson 1941:187).
 
-+
+__pre__
   Pn: Samoan           ao lele, ao toʔa
   Pn: Anutan           ao rere, ao toka
-+
 
 In Bauan they were matādravu ni sautū, literally ‘hearth of peace and plenty’.
 
@@ -8568,32 +8490,17 @@ reference to the sun, but, although references to zenith stars are frequent in t
 Oceanic navigation, I am unable to reconstruct any term for the concept as it applies to
 stars. There is less need for zenith stars in the northern hemisphere, because Polaris is
 always a convenient indicator of latitude. The Micronesian navigators whose methods
-were described by Lewis, Gladwin and others, evidently made no use of zenith stars.17
+were described by Lewis, Gladwin and others, evidently made no use of zenith stars.[17]
 
    Kiribati has a term taubuki ni karawa for ‘zenith’, literally ‘the ridgepole of heaven’.
 Note that taubuki is also the name for the zenith star Rigel. Other terms for zenith, Samoan
-tumu-tumu ‘top; peak, height, zenith’ and Maori puaŋa ‘zenith (also refers to Rigel,18 in
+tumu-tumu ‘top; peak, height, zenith’ and Maori puaŋa ‘zenith (also refers to Rigel,[18] in
 Orion’s Belt)’ are unrelated.
 
    The Hawaiians have a term for zenith, hoʔokuʔi, which is literally ‘point of juncture’.
 Pukui and Elbert’s dictionary records an expression mai ka hoʔokuʔi a ka hālāwai ‘from
 zenith to horizon’, halawai meaning ‘meeting’ as well as ‘horizon’. Both terms appear to
 relate to the concept of sky zones, a kind of grid reference of lines drawn across the sky.
-
-
-6.5.6 Star compass
-
-   The fact that stars always rise and set at the same point on the horizon has in some
-places led to the use of star names as cardinal compass points. A surviving example of a
-siderial compass comes from the Carolines, where Goodenough in 1953 recorded a
-compass with thirty two named star positions (Lewis 1994:102). The terms cannot be
-equated precisely with the cardinal points of a European compass; they are not placed at
-regular intervals but are bunched together at their eastern and western margins. The
-primary compass point and basis of the Carolinian navigational system is the position
-where Altair rises in the east, in our terms at 8°30’ N. Many of the stars identified in this
-paper—Altair, Aldebaran, Pleiades, Orion’s Belt, Corvus and Antares—are represented on
-the Carolinian compass by both their rising and setting positions. Polaris represents due
-north. No fewer than five southerly directions are indicated by the various positions of the
 
 [17] However, Tom Davis, Cook Islander and experienced western-style ocean yachtsman, has provided a
    plausible solution to a question which has long puzzled Lewis and others concerned to understand the
@@ -8609,14 +8516,29 @@ north. No fewer than five southerly directions are indicated by the various posi
 [18] Rigel is not an overhead or zenith star for New Zealand, so one must assume that its dual meaning has
    been brought from a place where it was, i.e. about 12°S latitude, far north of New Zealand
 
-184    Meredith Osmond
 
+6.5.6 Star compass
+
+   The fact that stars always rise and set at the same point on the horizon has in some
+places led to the use of star names as cardinal compass points. A surviving example of a
+siderial compass comes from the Carolines, where Goodenough in 1953 recorded a
+compass with thirty two named star positions (Lewis 1994:102). The terms cannot be
+equated precisely with the cardinal points of a European compass; they are not placed at
+regular intervals but are bunched together at their eastern and western margins. The
+primary compass point and basis of the Carolinian navigational system is the position
+where Altair rises in the east, in our terms at 8°30’ N. Many of the stars identified in this
+paper—Altair, Aldebaran, Pleiades, Orion’s Belt, Corvus and Antares—are represented on
+the Carolinian compass by both their rising and setting positions. Polaris represents due
+north. No fewer than five southerly directions are indicated by the various positions of the
 Southern Cross, depending upon whether its axis is upright, lying at either diagonal or
 horizontally on either side (Lewis 1994:103–106). Alkire describes the siderial compass
 used by navigators on Woleai Atoll in the Carolines in almost identical terms. He gives the
 name pāfis to the thirty two star points as they constitute the star path compass
 (1970:41).19 The Puluwatese term pāfi the navigational stars in thirty two star positions’ is
 cognate.
+
+184    Meredith Osmond
+
 
 
 6.6 Other navigational clues
@@ -8886,33 +8808,6 @@ Polynesian are listed in Table 4.
 
                                                                      Navigation and the heavens     189
 
-   From the table, it can be seen that *manuk ‘bird’ and *tolu ‘three’ for Orion’s Belt, are
-the only star reconstructions with reflexes in both Polynesian and Micronesian languages.
-Success in reconstructing non-western constellation names has been almost entirely limited
-to Micronesia, with its descriptive names like PMic *kua ‘Dolphin constellation’, PMic
-*tapia ‘Bowl constellation’ and PChk *caw ‘Dip net constellation’. This may simply
-reflect the adequacy of our sources, with more star terms being included in Micronesian
-dictionaries than Polynesian, perhaps because the terms have been retained more recently
-in Micronesian memory. Makemson, my most consistently useful source for Polynesian
-star names, lists a number of Polynesian constellation names by their English translation
-and with western equivalents where they exist. They are The Seven (Big Dipper), the Darts
-(Orion’s Belt), the Wild Duck (Crux), the White Sea-swallow (Cygnus), the Pigeon-roost,
-the Birdsnare (Orion) and the Canoe of Tamarereti (Tail of the Scorpion) (1941:197–198).
-However, I have been unable to reconstruct any of these as PPn constellation names on
-linguistic evidence, and there is no evidence that the same images are used in Micronesian
-terms.
-
-    Lewis (1994:353–354), more concerned with the practices of navigation and less so with
-its labels, has written:
-
-|       Particular ideas or techniques were favored in different archipelagos in accordance
-|       with local geographical and social factors. However, so far as can be determined by
-|       haphazardly recorded items of information, and by what is still remembered, the
-|       methods used were surprisingly homogeneous. So much so that it would overstep the
-|       evidence if one were to speak of separate or typical Polynesian and Micronesian
-|       systems. Navigation seems to have been equally efficient in both areas, and the
-|       techniques were very often identical.
-
 __pre__
             Table 4: Reconstructions of heavenly body and other navigation terms
 Term                 POc                               PMic                     PPn
@@ -8984,6 +8879,32 @@ current                  *qaRus                     *aus                        
 reef                     *sakaRu                    *sakau ‘reef, shoal,         *hakau ‘coral reef’
                                                     reef island’
 
+   From the table, it can be seen that *manuk ‘bird’ and *tolu ‘three’ for Orion’s Belt, are
+the only star reconstructions with reflexes in both Polynesian and Micronesian languages.
+Success in reconstructing non-western constellation names has been almost entirely limited
+to Micronesia, with its descriptive names like PMic *kua ‘Dolphin constellation’, PMic
+*tapia ‘Bowl constellation’ and PChk *caw ‘Dip net constellation’. This may simply
+reflect the adequacy of our sources, with more star terms being included in Micronesian
+dictionaries than Polynesian, perhaps because the terms have been retained more recently
+in Micronesian memory. Makemson, my most consistently useful source for Polynesian
+star names, lists a number of Polynesian constellation names by their English translation
+and with western equivalents where they exist. They are The Seven (Big Dipper), the Darts
+(Orion’s Belt), the Wild Duck (Crux), the White Sea-swallow (Cygnus), the Pigeon-roost,
+the Birdsnare (Orion) and the Canoe of Tamarereti (Tail of the Scorpion) (1941:197–198).
+However, I have been unable to reconstruct any of these as PPn constellation names on
+linguistic evidence, and there is no evidence that the same images are used in Micronesian
+terms.
+
+    Lewis (1994:353–354), more concerned with the practices of navigation and less so with
+its labels, has written:
+
+|       Particular ideas or techniques were favored in different archipelagos in accordance
+|       with local geographical and social factors. However, so far as can be determined by
+|       haphazardly recorded items of information, and by what is still remembered, the
+|       methods used were surprisingly homogeneous. So much so that it would overstep the
+|       evidence if one were to speak of separate or typical Polynesian and Micronesian
+|       systems. Navigation seems to have been equally efficient in both areas, and the
+|       techniques were very often identical.
 
    In spite of our inability to reconstruct many terms at a level higher than PMic or PPn,
 there remains a fair degree of conformity among the Austronesian speakers of the Pacific
@@ -9052,7 +8973,7 @@ It is impossible to draw a clear line between the properties of inanimate object
 properties of living beings as there are some properties, for example, ‘big’ and ‘small’,
 which were almost certainly used of both inanimate objects and animate beings. However,
 there are also many property expressions which were evidently used only of animate
-beings, and these are not considered here.1
+beings, and these are not considered here.[1]
 
     Oceanic languages make some distinctions between properties of inanimates and
 properties of animates that are not made in European languages, and vice versa. In most
@@ -9093,11 +9014,11 @@ it thus (§5.3). Of Dixon’s categories, I will here not discuss value (‘good
 animal propensity (e.g. ‘kind’, ‘clever’, ‘happy’, ‘jealous’, ‘tame’) or speed (‘quick’,
 ‘slow’), as these are applied either entirely or generally to animate rather than to inanimate
 entities. The category of physical properties is a large one, and some of its subcategories
-will also be ignored here, for similar reasons.2 This leaves the following semantic
+will also be ignored here, for similar reasons.[2] This leaves the following semantic
 categories which include properties of inanimate objects:
 
-   1.    dimension and distance: e.g. ‘big’, ‘small’, ‘long’, ‘short’, ‘wide’, ‘narrow’,
-         ‘near’, ‘far’
+__ol__
+   1.    dimension and distance: e.g. ‘big’, ‘small’, ‘long’, ‘short’, ‘wide’, ‘narrow’, ‘near’, ‘far’
    2.    age: e.g. ‘new’, ‘old’
    3.    colour: e.g. ‘red’, ‘black’, ‘white’, ‘yellow’
    4.    physical property:
@@ -9116,12 +9037,11 @@ overlap with dimension terms in Oceanic languages.
 
    Dixon assigns languages to one of three broad types with regard to the grammatical
 behaviour of their property terms. There are:
+
+__ol__
   A.     languages like English, where there is a large open class of adjectives;
-  B.     languages like Samoan, where there is no distinct class of adjectives, but an
-         open class of property terms which is a subclass of verbs;
-  C.     languages like Hausa, which have a closed, usually rather small, class of
-         ‘adjectives’ and one or more open classes of property terms which are
-         subclasses of nouns and/or verbs.
+  B.     languages like Samoan, where there is no distinct class of adjectives, but an open class of property terms which is a subclass of verbs;
+  C.     languages like Hausa, which have a closed, usually rather small, class of ‘adjectives’ and one or more open classes of property terms which are subclasses of nouns and/or verbs.
 
 I have placed ‘adjectives’ in inverted commas in Type C because Dixon defines this class
 in terms of its meanings rather than in terms of its grammatical behaviour. In languages of
@@ -9161,6 +9081,8 @@ does not occur in any of the languages in Dixon’s sample.
 which a probably exhaustive list of underived members is available. The meanings
 represented in these small classes are listed below, together with the number of languages
 in whose small class each meaning is represented:
+
+__pre__
   dimension               age              value                   strength/toughness
   ‘big’        17         ‘new’ 9          ‘good’         5        ‘hard, strong’ 1
   ‘small’      16         ‘old’ 6          ‘bad’          4        ‘soft’         1
@@ -9168,11 +9090,14 @@ in whose small class each meaning is represented:
   ‘short’       4                          ‘beautiful’    1
   ‘thin’        1
   ‘far’         1
+
 Except for one language (Sye) in which terms denoting strength/toughness belong to the
 small class, these meanings all fall into the domains of dimension, age and value.
 
    The small-class terms in the twenty languages for the three most frequent meanings,
 ‘big’, ‘small’ and ‘new’, are listed below:
+
+__pre__
                           ‘big’                     ‘small’                 ‘new’
  Maleu                    amviŋe                    kapori-                 —
  Mangap-Mbula             biibi                     musaana                 —
@@ -9221,14 +9146,14 @@ affixes in POc, however. POc *-ka was apparently a productive suffix (Ross 2000;
 below, for example *[tubu]tubu[-ka] ‘thick’ (p.208); *rapu-ka ‘old’ (p.211); *keja-ka
 ‘green’ (p.217)). PMP *ma- was a prefix that derived stative verbs, often from abstract
 nouns, and occurred as a fossil in a number of POc adjectival verb forms (Evans & Ross
-2001),3 for example, POc *mataq ‘raw’ (vol. 1, p.155), *maosak ‘ready to be eaten’
+2001),[3] for example, POc *mataq ‘raw’ (vol. 1, p.155), *maosak ‘ready to be eaten’
 (vol. 1, p.157), *maqasin ‘be salty’ (vol. 1, p.159, this volume Ch. 3, §7.8, and several
 below). In a good many cases, forms with and without *ma- are reconstructable in POc,
 with no obvious difference in meaning (e.g. *[ma]lago ‘long, tall’ (p.204); *[ma]lawa
-‘long, tall, far away’ (p.204); *[ma]tuqa ‘ripe, mature, adult, old’ (p.211)).4
+‘long, tall, far away’ (p.204); *[ma]tuqa ‘ripe, mature, adult, old’ (p.211)).[4]
 
     More rarely occurring derivational morphemes are POc *ka-, a fossilised alternant of
-*ma-,5 (Huang 2000, Zeitoun & Huang 2000); *pa- and *paka-, the productive POc
+*ma-,[5] (Huang 2000, Zeitoun & Huang 2000); *pa- and *paka-, the productive POc
 causative prefixes (vol. 1, pp.26–27), which were also used to form adverbs; and POc *ta-,
 which was productive and derived agentless statives from dynamic transitive verbs.
 
@@ -9351,6 +9276,8 @@ an adjectival verb; Ross 1998a).
 with PPn *qiti ‘small (SG)’ (from POc *qitik), but there is no evidence that this had
 occurred at an earlier interstage. This contrast is reflected in the following compounds,
 which reflect PPn *tama ‘child’ (from POc *tama- ‘father’):
+
+__pre__
       PPn                      *tama-qiti                 *tama-riki
                                ‘child’                    ‘chidren’
       Tongan                   (tama-siʔi)[8]               tama-iki
@@ -9509,23 +9436,34 @@ POc *natu-ña ‘her/his child; small, smallest’
 These attributes turn up in odd lexicalised expressions, for example, Motu (PT) sina-vai
 ‘river’ (literally ‘mother of waters’ (Ch. 3, §6.1)); Gedaged boi tinan ‘Morning Star’
 (literally ‘mother of stars’ (Ch. 6, §5.2.1)).
-    The reconstructable POc possessive construction was probably as follows:9
+
+    The reconstructable POc possessive construction was probably as follows:[9]
+
+[9] This differs from the possessive-like attribute constructions reconstructed by Ross (1998b). There, the
+  possessor is non-specific; here the possessor is apparently specific.
+
+__pre__
     *a     tina-ña         Rumaq
     ART mother-P:3S house
     ‘a/the big house’ (more literally: ‘a/the mother of house(s)’)
+
 This seems to have remained a live metaphor for a long time (and is perhaps still alive in
 some Oceanic languages). Evidence for this is that where the reflex of *tina- or *natu- has
 been replaced in a language, this construction often shares in the lexical replacement. Thus
 in Lewo (Early 1994a), the term for ‘little’/‘child’ still reflects *natu-ña, but the term for
 ‘very big’/‘mother’ has undergone lexical replacement:
 Lewo (NCV):
+
+__pre__
 a. nari-n         sisi
    offspring-n child
    ‘a little kid’ (more literally ‘the offspring of children’)
 b. ane-n     laŋi
    mother-n wind
    ‘an immensely powerful hurricane’ (more literally ‘the mother of winds’)
+
 Similarly in Tinrin (New Caledonia) hɯwɯ[n̡ã] is both ‘small’ and ‘child of, sprout of’.
+
    Matisoff (1992) has examined ‘mother of’ and ‘child of’ constructions which serve as
 augmentatives and diminutives in a range of Asian languages. Interestingly, whilst he
 reports a number of cases where ‘mother of’ and ‘child of’ are lexicalised in collocations
@@ -9551,9 +9489,6 @@ just how they were used (§2.2.2).
     On the surface there appear to have been no POc etyma with the basic meanings ‘wide’
 and ‘narrow’. However, it is just possible that *[ma]lawa simply denoted a large
 dimension, regardless of whether it was longitudinal (‘long’) or transverse (‘wide’). The
-
-[9] This differs from the possessive-like attribute constructions reconstructed by Ross (1998b). There, the
-  possessor is non-specific; here the possessor is apparently specific.
 
                                                         Properties of inanimate objects     203
 
@@ -10164,6 +10099,8 @@ Whatever its origin, however, in many Oceanic languages reduplication is a deriv
 process whereby a colour term is derived from a noun, and in some it appears to be a
 productive process.[18] Blust’s examples are drawn from twenty-four languages. Among
 them we find the following:
+
+__pre__
 Mussau (Adm):[19]
  bo-boŋi-e-na          ‘black’                            bo      ‘night’
  rae-rae-a-na          ‘red’                              rae     ‘blood’
@@ -10171,6 +10108,7 @@ Mussau (Adm):[19]
  vero-veroŋ-a-na       ‘black’                            (no unreduplicated root)
  riu-riu-e-na          ‘thin (of animates’)               riu     ‘bone’
 
+__pre__
 Kairiru (NNG):
  jir-jir               ‘black, dirty, old’                jir       ‘mangrove swamp’
  kiet-kiet             ‘black’                            kiet      ‘black paint’
@@ -10178,8 +10116,6 @@ Kairiru (NNG):
  mera-mer              ‘red’                              mer       ‘red paint’
  yaŋ-yaŋ               ‘yellow’                           yaŋ       ‘yellow paint, white or yellow
                                                                       skinned people’
-
-
 
 
 [18] Lichtenberk (1983:611) was offered the apparent nonce form taʔe-taʔe, from taʔe ‘faeces’ in Manam,
@@ -10190,6 +10126,7 @@ Kairiru (NNG):
 
                                                       Properties of inanimate objects    215
 
+__pre__
 Manam (NNG):
  ziŋ-ziŋ     ‘black’                       ziŋ       ‘black ashes’
  jim-jim     ‘black’                       jim       ‘rain, cloud; black, dark deep (sea)’
@@ -10197,6 +10134,7 @@ Manam (NNG):
  dara-dara   ‘red’                         dara      ‘blood’
  ʔate-ʔateʔa ‘brown’                       ʔateʔa    ‘ground’
 
+__pre__
 Mota (NCV):
  me-mea         ‘red’                      mea       ‘red pigment’, mea-mea ‘k.o. red fish’
  sor-soroga     ‘dark red’                 soroga    ‘red, colour of pes nai when ripe’
@@ -10285,8 +10223,6 @@ adjectival nouns and (ii) CVCV- reduplication forming colour terms and perhaps s
 other property terms.20 Whether the words formed by process (ii) were verbs or nouns is
 uncertain. In some languages, and particularly for colour terms, the two processes
 combined, forming adjectival nouns.
-
-
 
 
 [20] Blust’s 24-language survey suggests that property terms other than colour terms are only rarely

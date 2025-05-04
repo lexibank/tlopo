@@ -38,6 +38,9 @@ class Dataset(BaseDataset):
     )
 
     def cmd_download(self, args):
+        #from pytlopo.parser.refs import refs2bib
+        #refs2bib(self.raw_dir.joinpath('vol2', 'references.bib').read_text(encoding='utf8').split('\n'))
+        #return
         #from pytlopo.parser.refs import CROSS_REF_PATTERN
         #for line in self.raw_dir.joinpath('vol1').read('text.txt').split('\n'):
         #    for m in CROSS_REF_PATTERN.finditer(line):
@@ -86,7 +89,7 @@ class Dataset(BaseDataset):
                 if 1:#i < 15:
                     r = str(rec)
                     #if 'T)aRaq' in r:
-                    #print(r)
+                    print(r)
                     #print('---')
                 #if i == 3:
                 #    break
