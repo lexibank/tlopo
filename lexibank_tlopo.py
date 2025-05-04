@@ -118,7 +118,7 @@ class Dataset(BaseDataset):
             for alt in v['Alternative_Names'].split('; '):
                 langs[alt] = v
         for vol in range(1, 7):
-            if vol != 1:
+            if vol not in {1, 2}:
                 continue
             t = self.raw_dir / 'vol{}'.format(vol) / 'text.txt'
             if not t.exists():
@@ -131,6 +131,9 @@ class Dataset(BaseDataset):
             for num, chapter in vol.chapters.items():
                 mddir.joinpath('chapter{}.md'.format(num)).write_text(chapter.text)
 
+            #
+            # FIXME: must merge sources!!!
+            #
             args.writer.cldf.sources = Sources.from_file(vol.dir / 'references.bib')
 
         for lg in langs.values():
@@ -142,7 +145,10 @@ class Dataset(BaseDataset):
             for j, pf in enumerate(rec.protoforms):  # FIXME: pf.sources !
                 if j == 0:
                     pfrep = pf
-                pfgloss = pf.glosses[0].gloss
+                try:
+                    pfgloss = pf.glosses[0].gloss
+                except IndexError:
+                    pfgloss = pf.comment
                 if pf.protolanguage not in langs:
                     args.writer.add_language(ID=slug(pf.protolanguage), Name=slug(pf.protolanguage, lowercase=False), Is_Proto=True)
                     langs[pf.protolanguage] = slug(pf.protolanguage)

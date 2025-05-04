@@ -24,19 +24,19 @@ Available online at http://hdl.handle.net/1885/106908
 ![Concepticon: 0%](https://img.shields.io/badge/Concepticon-0%25-red.svg "Concepticon: 0%")
 ![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
 
-- **Varieties:** 358 (linked to 0 different Glottocodes)
-- **Concepts:** 3,336 (linked to 0 different Concepticon concept sets)
-- **Lexemes:** 5,448
+- **Varieties:** 484 (linked to 0 different Glottocodes)
+- **Concepts:** 5,826 (linked to 0 different Concepticon concept sets)
+- **Lexemes:** 11,668
 - **Sources:** 3
-- **Synonymy:** 1.15
-- **Cognacy:** 5,214 cognates in 507 cognate sets (0 singletons)
-- **Cognate Diversity:** -1.34
+- **Synonymy:** 1.10
+- **Cognacy:** 11,256 cognates in 932 cognate sets (0 singletons)
+- **Cognate Diversity:** -0.84
 
 ## Possible Improvements:
 
 
 
-- Entries missing sources: 5446/5448 (99.96%)
+- Entries missing sources: 11666/11668 (99.98%)
 
 # Contributors
 
