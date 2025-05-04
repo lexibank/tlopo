@@ -1,0 +1,337 @@
+             Contents overview
+
+
+
+Chapter contents in detail                                              vi
+List of maps, tables and figures                                       xii
+List of abbreviations                                                 xiv
+Preface                                                              xviii
+
+Chapter 1     Introduction
+              Malcolm Ross, Andrew Pawley and Meredith Osmond           1
+Chapter 2     Locating Proto Oceanic
+              Andrew Pawley                                            17
+Chapter 3     The Landscape
+              Meredith Osmond, Andrew Pawley and Malcolm Ross          35
+Chapter 4     The Seascape
+              Meredith Osmond, Andrew Pawley and Malcolm Ross          91
+Chapter 5     Meteorological phenomena
+              Malcolm Ross                                           119
+Chapter 6     Navigation and the heavens
+              Meredith Osmond                                        155
+Chapter 7     Properties of inanimate objects
+              Malcolm Ross                                           193
+Chapter 8     Talking about space: terms of location and direction
+              Malcolm Ross                                           229
+Chapter 9     Time
+              Malcolm Ross                                           295
+Appendix 1: Data sources and collation                               339
+Appendix 2: Languages                                                343
+
+References                                                           367
+Index                                                                389
+
+
+                                            v
+            Chapter contents in detail
+
+
+
+1 Introduction                                                           1
+ 1 Aims                                                                  1
+ 2 The relation of the current project to previous work                  2
+ 3 Reconstructing the lexicon                                            4
+   3.1 Terminological reconstruction                                     4
+   3.2 Subgrouping and reconstruction                                    6
+   3.3 Sound correspondences                                            12
+   3.4 Proto Oceanic phonology and orthography                          12
+ 4 Conventions                                                          13
+   4.1 Chapter format                                                   13
+   4.2 Data                                                             14
+   4.3 Conventions used in representing reconstructions                 15
+
+2 Locating Proto Oceanic                                                17
+ 1   Introduction                                                       17
+ 2   The major biogeographical regions of Oceania                       17
+ 3   Early human settlement of Near Oceania                             20
+ 4   The location and dispersal of the Proto Oceanic speech community   24
+ 5   On the physical geography of the Bismarck Archipelago              31
+
+3 The landscape                                                         35
+ 1   Introduction                                                       35
+ 2   Land mass                                                          38
+     2.1 Land, mainland                                                 38
+     2.2 Island                                                         42
+ 3   Coastal features                                                   44
+     3.1 Beach, shore                                                   44
+     3.2 Bay                                                            46
+     3.3 River mouth                                                    47
+     3.4 Cape, prominent land                                           47
+ 4   Inland topographical features                                      49
+
+                                         vi
+                                                                         vii
+
+    4.1 Hill, mountain                                                   49
+    4.2 Valley                                                           52
+    4.3 Cliff                                                            52
+    4.4 Cave                                                             53
+    4.5 Flat land                                                        53
+ 5 Land defined by vegetation                                            54
+    5.1 Uncultivated land                                                54
+    5.2 Swamp                                                            56
+ 6 Inland water features                                                 58
+    6.1 Fresh water                                                      58
+    6.2 Spring                                                           60
+    6.3 Waterfall                                                        62
+ 7 Mineral substances                                                    63
+    7.1 Stone                                                            63
+    7.2 Flint, obsidian                                                  64
+    7.3 Coral, limestone                                                 65
+    7.4 Pumice                                                           66
+    7.5 Sand                                                             67
+    7.6 Earth, soil                                                      68
+    7.7 Clay                                                             69
+    7.8 Salt                                                             70
+ 8 Fire                                                                  71
+    8.1 Fire                                                             72
+    8.2 Stages of reduction of wood by burning                           72
+    8.3 Burning, being on fire                                           76
+    8.4 Emissions from burning materials: smoke, vapour, flames, light   78
+ 9 Destructive natural events                                            81
+    9.1 Volcanic activity                                                81
+    9.2 Earthquake                                                       83
+    9.3 Landslide                                                        85
+    9.4 Tidal wave                                                       85
+    9.5 Flood, submerging tide                                           86
+    9.6 Storm, hurricane                                                 87
+    9.7 Whirlpools, waterspouts, whirlwinds                              87
+ 10 Conclusion                                                           88
+
+4 The seascape                                                           91
+ 1   Introduction                                                        91
+ 2   The sea and its features                                            91
+     2.1 Sea, salt water                                                 91
+     2.2 Sheltered or open sea                                           95
+viii
+
+       2.3 Current                                                         96
+       2.4 Waves                                                           98
+       2.5 Foam                                                           100
+       2.6 Tides                                                          102
+  3    The reef environment                                               107
+       3.1 Coral                                                          107
+       3.2 Reefs                                                          109
+       3.3 Submerged reefs, rocks and sandbars                            113
+       3.4 Lagoon, sheltered water                                        114
+       3.5 Channel in fringing reef                                       116
+  4    Conclusion                                                         118
+
+5 Meteorological phenomena                                                119
+  1    Introduction                                                       119
+  2    Pacific wind systems                                               119
+  3    The Austronesian weather experience                                124
+  4    Winds                                                              126
+       4.1 Wind and wind strengths                                        126
+       4.2 Seasonal winds                                                 131
+  5    The weather                                                        140
+       5.1 Calm                                                           140
+       5.2 The sky and clouds                                             142
+       5.3 Rain                                                           146
+       5.4 Thunder and lightning                                          149
+  6    Concluding remarks                                                 152
+
+6 Navigation and the heavens                                              155
+  1 Introduction                                                          155
+  2 The sky and the horizon                                               156
+    2.1 Sky, heavens                                                      157
+    2.2 Horizon                                                           157
+  3 Sun                                                                   159
+  4 Moon                                                                  164
+  5 Stars                                                                 165
+    5.1 Star (generic)                                                    166
+    5.2 Individual stars and star groups                                  166
+          5.2.1 Venus (Morning Star, Evening Star)                        166
+          5.2.2 Big Bird (Constellation incl. Sirius, Canopus, Procyon,
+                  Betelgeuse, Rigel)                                      168
+          5.2.3 Orion’s Belt                                              170
+          5.2.4 Pleiades                                                  171
+                                                                            ix
+
+         5.2.5 Southern Cross                                              172
+         5.2.6 The Pointers                                                173
+         5.2.7 Taurus (Triangle, Tongs) including Aldebaran                174
+         5.2.8 Polaris                                                     175
+         5.2.9 Altair (constellation Aquila)                               175
+         5.2.10 Antares (constellation Scorpio)                            176
+         5.2.11 Pegasus                                                    176
+         5.2.12 Dolphin constellation (including Cassiopeia)               177
+         5.2.13 Delphinus                                                  177
+         5.2.14 Arcturus                                                   177
+         5.2.15 Corvus, Leo, Vega, Corona Borealis, Ursa Major, Equeleus   178
+         5.2.16 Magellanic Clouds                                          179
+         5.2.17 Milky Way                                                  179
+     5.3 Star Path                                                         180
+     5.4 Star rise and star set                                            181
+         5.4.1 Rising                                                      181
+         5.4.2 Setting                                                     182
+     5.5 Zenith star                                                       182
+     5.6 Star compass                                                      183
+ 6   Other navigational clues                                              184
+     6.1 Winds                                                             184
+     6.2 Wind compass                                                      184
+     6.3 The seascape                                                      185
+         6.3.1 Swell                                                       185
+         6.3.2 Deep phosphorescence                                        185
+         6.3.3 Reference islands                                           186
+         6.3.4 Sea marks                                                   186
+         6.3.5 Expansion of target                                         187
+ 7   Navigation in Western Oceania and the Admiralties                     187
+     7.1 Navigation in Western Oceania                                     187
+     7.2 Navigation in the Admiralties and St Matthias                     188
+ 8   Conclusions                                                           188
+
+7 Properties of inanimate objects                                          193
+ 1 Introduction                                                            193
+ 2 Dimension and distance                                                  197
+   2.1 big/small                                                           197
+   2.2 Other dimensions                                                    202
+        2.2.1 tall/long                                                    203
+        2.2.2 short                                                        204
+        2.2.3 far/near                                                     205
+x
+
+            2.2.4 wide/spread out                                    207
+            2.2.5 thick/thin                                         208
+    3 Age                                                            209
+    4 Colour                                                         212
+    5 Physical property                                              218
+      5.1 Shape and surface texture                                  218
+      5.2 Weight                                                     220
+      5.3 Strength, toughness and speed                              221
+      5.4 Content                                                    223
+      5.5 Temperature                                                224
+      5.6 Wet and dry                                                226
+
+8 Talking about space: terms of location and direction               229
+    1   Introduction                                                 229
+    2   Local nouns                                                  232
+        2.1 The preposition *i and the prefix *qa-                   235
+        2.2 Familiar-place and geographic local nouns                237
+             2.2.1 Inland, bush                                      238
+             2.2.2 Seaward, towards the beach, at sea                239
+             2.2.3 Directions along the coastline                    240
+             2.2.4 At home                                           241
+             2.2.5 Down below                                        241
+             2.2.6 Up above                                          242
+             2.2.7 In the middle, between                            243
+        2.3 Relational local nouns                                   244
+             2.3.1 Inside                                            245
+             2.3.2 Underneath, lower surface, space below            248
+             2.3.3 Top, upper surface, space above                   251
+             2.3.4 Side                                              253
+             2.3.5 Outside                                           255
+             2.3.6 Front, time before                                256
+             2.3.7 Back, space behind, time after                    260
+        2.4 The interrogative local noun ‘where?’                    264
+    3   Directional verbs                                            266
+        3.1 Some Proto Oceanic serial verb constructions             266
+        3.2 Grammaticisations of serial verb constructions           267
+        3.3 Geographic directional verbs and enclitics               268
+             3.3.1 Downward movement                                 270
+             3.3.2 Upward movement                                   273
+             3.3.3 *sipo and *sake as directions at sea              275
+             3.3.4 Geographic direction adverbs derived from verbs   277
+                                                                           xi
+
+     3.4 Deictic directional verbs and enclitics                          278
+         3.4.1 A note on deixis in Oceania                                278
+         3.4.2 Reconstructing Proto Oceanic deictic directional forms     279
+         3.4.3 Come towards speaker                                       280
+         3.4.4 Go towards addressee                                       283
+         3.4.5 Go away to                                                 287
+         3.4.6 Go away                                                    289
+         3.4.7 Away from a specified point                                293
+
+9 Time                                                                    295
+ 1   Introduction                                                         295
+ 2   Undirected times: times within cycles                                299
+     2.1 The day and times of day: synchronic overview                    299
+     2.2 The day and times of day: reconstructions                        304
+          2.2.1 Night                                                     305
+          2.2.2 Daytime                                                   309
+          2.2.3 Early morning: from dawn to 9 or 10 a.m.                  310
+          2.2.4 Middle of the day: from 9 or 10 a.m. to about 3 p.m.      312
+          2.2.5 Late afternoon and evening, from about 3 p.m. to sunset   313
+          2.2.6 Third-order terms for parts of the day                    314
+     2.3 The moon and its phases                                          315
+     2.4 The year and its seasons                                         318
+     2.5 Lunar month names                                                320
+ 3   Directed times: present, past and future                             320
+     3.1 Deictic time: ‘now’, ‘today’                                     321
+     3.2 Vague temporal distance                                          321
+          3.2.1 ‘in the past’/‘earlier’ and ‘in the future’/‘later’       321
+          3.2.2 ‘long ago’                                                323
+     3.3 Distances within a day or measured by days                       324
+          3.3.1 Distances within a day                                    324
+          3.3.2 ‘yesterday’                                               325
+          3.3.3 ‘tomorrow’                                                329
+          3.3.4 A note on the derivations of ‘yesterday’ and ‘tomorrow’   331
+          3.3.5 ‘the day before yesterday’ and ‘the day after tomorrow’   331
+          3.3.6 More than two days from now                               334
+     3.4 Distances within a month/years or measured by months/years       334
+     3.5 The interrogative local noun ‘when?’                             334
+             Maps, tables and figures
+
+
+
+Maps
+Map 1:  The Austronesian family and major subgroups                                 xvi
+Map 2:  Geographic limits of historically known Oceanic speakers and of
+          presently documented Lapita sites (after Kirch 1997:17, 54)               xvii
+Map 3:  Higher-order subgroups of Oceanic languages used in this work for the
+          purposes of reconstruction                                                  8
+Map 4:  Groups of Oceanic languages in northwest Melanesia: the Admiralties
+          and St Matthias groups and the subgroups of Western Oceanic                11
+Map 5:  Major biogeographical regions of Island SE Asia and the Pacific:
+          Sundaland,Wallacea, Near Oceania and Remote Oceania                        19
+Map 6:  Lapita sites in the southwest Pacific (after Spriggs 1995:113)               23
+Map 7:  The Bismarck Archipelago, Bougainville and the adjacent coast of
+          New Guinea                                                                 32
+Map 8:  Tikopia (after Firth 1936:xxii)                                              39
+Map 9:  Active volcanoes and earthquake areas in the southwest Pacific
+          (after Brookfield and Hart 1971:33)                                        82
+Map 10: Prevailing winds in the Indian and Pacific Oceans during the southern
+          hemisphere winter (July)                                                  120
+Map 11 Prevailing winds in the Indian and Pacific Oceans during the southern
+          hemisphere summer (January)                                               121
+Map 12: Locations of languages of the North New Guinea (NNG) and
+          Papuan Tip (PT) clusters                                                  359
+Map 13: Locations of languages of the Meso-Melanesian (MM) cluster and
+          the St Matthias group                                                     360
+Map 14: Locations of Admiralties (Adm) languages. For Wuvulu, Aua and
+          Seimat, see Map 12; for Mussau, Emira and Tench, see Map 13               361
+Map 15: Locations of Southeast Solomonic (SES) languages                            362
+Map 16: Locations of North/Central Vanuatu (NCV) languages                          363
+Map 17: Locations of Southern Vanuatu (SV) and New Caledonia (NCal) languages       364
+Map 18: Locations of Nuclear Micronesian (Mic) and some Polynesian (Pn) languages   365
+Map19: Locations of Fijian (Fij) and Polynesian (Pn) languages                      366
+
+
+
+                                            xii
+                                                                                     xiii
+
+Tables
+Table 1:    POc orthographies                                                         13
+Table 2:    Bracketing and segmentation conventions in proto forms                    15
+Table 3:    Approximate summary of seasons in some Pacific locations                 125
+Table 4:    Reconstructions of heavenly body and other navigation terms          189–190
+
+
+
+Figures
+Figure 1:   Schematic diagram of the diversification of Austronesian languages        7
+Figure 2:   Marovo coastal profile (from Hviding 1996)                               36
+Figure 3:   Reef forms                                                              109
+Figure 4:   Tikopia reef profile (from Firth 1985)                                  112

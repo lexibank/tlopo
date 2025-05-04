@@ -3980,7 +3980,7 @@ rolled thread, principally coconut fibre or hibiscus bark.
 
 <
 
-POc *loqi 'make thread by rolling fibres on the thigh' (Chowning 1991 : *loi 'thread made ...)
+POc *loqi 'make thread by rolling fibres on the thigh' (Chowning 1991 : *loi 'thread made ...')
   NNG: Kove               loi
   MM: Nakanai             loi               'rub between the hands'
   MM: Tolai               loe               (V) 'twist, coil'
@@ -14243,7 +14243,7 @@ PEOc *tau(s,t), *tau(s,t)-i- 'pluck (fruit, leaves)' (French-Wright 1983)
 <
 
 PAn root *-pak 'break, crack, split' (Blust 1988 : 135- 136)
-POc *sapaki 'pluck off, break off Oeaves) with the hand' (French-Wright 1983)
+POc *sapaki 'pluck off, break off (leaves) with the hand' (French-Wright 1983)
    NNG:        Manam         sapaʔ               'pluck off'
    MM:         Kara (East)   səpak              'cut, gather; sago leaves for roofing'
    MM:         Patpatar      sapak               'cut meat of animal into edible portions; break'
@@ -14252,12 +14252,10 @@ POc *sapaki 'pluck off, break off Oeaves) with the hand' (French-Wright 1983)
    Mic :       Woleaian      tepagi              'cut Oeaves)'
    cf. also
    Mic:        Ponapean      sapak               'harvest (bananas)'
-
 >
 <
-
 PAn root *-pak 'break, crack, split' (Blust 1988 : 135- 136)
-POc *paki 'pluck, break off Oeaves) with the hand'
+POc *paki 'pluck, break off (leaves) with the hand'
    Fij :      Rotuman        haʔi               'pluck (feathers), pull out'
    Pn:        Tongan         faki               'pick, pluck, esp. banana, coconut'
    Pn:        Samoan         faʔi               'break off, snap off, pick'
@@ -14749,7 +14747,7 @@ for string-making (by rubbing between hands or on thigh); prepared fibre' (Biggs
 
 <
 
-POc *loqi 'make thread by rolling fibres on the thigh' (Chowning 1991 : *loi 'thread made')
+POc *loqi 'make thread by rolling fibres on the thigh' (Chowning 1991 : *loi 'thread made ...')
    MM:       Nakanai        loi                   'rub between the hands'
    MM:       Tolai          loe                   (V) 'twist, coil'
    MM:       Tolai          lo-loi                (V) 'roll or coil (strips of shell money)'

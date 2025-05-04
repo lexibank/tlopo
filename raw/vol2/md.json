@@ -1,0 +1,59 @@
+{
+  "title": "The physical environment",
+  "chapters": [
+    {
+      "number": "1",
+      "title": "Introduction",
+      "pages": "1-16",
+      "author": "Ross, M., Pawley, A. and Osmond, M."
+    },
+    {
+      "number": "2",
+      "title": "Locating Proto Oceanic",
+      "pages": "17-34",
+      "author": "Pawley, A."
+    },
+    {
+      "number": "3",
+      "title": "The Landscape",
+      "pages": "35-90",
+      "author": "Meredith Osmond and Andrew Pawley and Malcolm Ross"
+    },
+    {
+      "number": "4",
+      "title": "The Seascape",
+      "pages": "91-118",
+      "author": "Meredith Osmond and Andrew Pawley and Malcolm Ross"
+    },
+    {
+      "number": "5",
+      "title": "Meteorological phenomena",
+      "pages": "119-154",
+      "author": "Malcolm Ross"
+    },
+    {
+      "number": "6",
+      "title": "Navigation and the heavens",
+      "pages": "155-192",
+      "author": "Meredith Osmond"
+    },
+    {
+      "number": "7",
+      "title": "Properties of inanimate objects",
+      "pages": "193-228",
+      "author": "Malcolm Ross"
+    },
+    {
+      "number": "8",
+      "title": "Talking about space: terms of location and direction",
+      "pages": "229-294",
+      "author": "Malcolm Ross"
+    },
+    {
+      "number": "9",
+      "title": "Time",
+      "pages": "295-338",
+      "author": "Malcolm Ross"
+    }
+  ]
+}
