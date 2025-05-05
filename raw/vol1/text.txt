@@ -121,7 +121,7 @@ writing, Blust is in the process of compiling his Austronesian Comparative Dicti
 on disk at the University of Hawaii. The version to which we refer dates from 1995.
 
    Several papers systematically investigate particular semantic domains in the lexicon of
-POc, e.g. Milke (1958), French-Wright (1983), Pawley (1982), Pawley and Green (1985),
+POc, e.g. Milke (1958), French-Wright (1983), Pawley (1982a), Pawley and Green (1985),
 Lichtenberk (1986), Walter (1989), and the various papers in Pawley and Ross (1994). Ross
 (1988) contains a substantial number of new POc lexical reconstructions, as well as proposed
 modifications to the reconstructed POc sound system and the orthography.
@@ -531,7 +531,7 @@ polymorphemic (i.e. the morphemes reflect morphemes present in the reconstructed
 or contains a reduplication, the morphemes or reduplicates are also separated by a hyphen.
 
 [11] An argument that North/Central Vanuatu does not constitute a genetic subgroup is made b y Lynch (1995)
-     and summarised in Lynch, Ross and Crowley (forthcoming, Ch. 5). The argument that Fijian does not
+     and summarised in Lynch, Ross and Crowley (2002: Ch. 5). The argument that Fijian does not
      constitute a genetic subgroup was made by Geraghty (1983) and is incorporated into Figure 1 , where
      'Fijian' comprises Rotuman, the East Fijian dialects, and West Fijian (also a dialect network).
 
@@ -664,7 +664,7 @@ c)     apparent reflexes of *b or *bw in Polynesian or Nuclear Micronesian (and 
 In some cases we reconstruct *(p,pʷ) as we are unsure whether the protophoneme was *pw or
 whether we are confronted by one of several other phenomena, including (i) borrowing, (ii)
 Western Oceanic and SES fortis reflexes of *p, or (iii) velarisation before a rounded vowel in
-certain languages. As Blust (1981) remarks with regard to POc *bw and *mw, velarisation
+certain languages. As Blust (1981a) remarks with regard to POc *bw and *mw, velarisation
 generally does not occur in non-Oceanic languages and sometimes occurs in POc etyma
 where non-Oceanic cognates give us no reason to expect it.
 
@@ -822,7 +822,7 @@ d)      The labio-velars *pw, *bw and *mw entered the language. Most of the item
         taro-growing techniques from Papuan speakers (Ross 1996d). A few of these items
         were inherited into POc, and the labio-velar was the reflex of a labial occurring next to
         a round vowel. However, it is not clear in these items that the labio-velar actually
-        occurred in POc (Blust 1981). Thus a number of Oceanic languages reflect *tamʷata
+        occurred in POc (Blust 1981a). Thus a number of Oceanic languages reflect *tamʷata
         'man, husband', derived from *tau 'body, person' + *mataq 'unripe, immature, young',
         but we cannot be sure whether this or *taumata(q) was the POc form.
 e)      PMP *h was lost in POc.
@@ -865,7 +865,7 @@ PMP *gemgem          'make a fist'            POc *gugu(m) 'grasp in fist, clenc
 
    The remarks below on POc word classes and derivational morphology are rather brief,
 largely because these remain somewhat poorly explored areas. More detail is provided by
-Lynch, Ross and Crowley (forthcoming), but there is a great deal about POc morpho syntax
+Lynch, Ross and Crowley (2002), but there is a great deal about POc morpho syntax
 that we do not know and which is perhaps irretrievable. The major publication on POc
 grammar is Pawley (1973). [5]
 
@@ -1004,7 +1004,7 @@ Kwaio) more than others (e.g. Longgu), a verb may belong to more than one class,
 some verbs may have belonged to two classes in POc; (iii) particularly in north-west Melanesia
 there are languages which have entirely lost the stative class (e.g. Takia) and/or the neutral
 class (e.g. Takia, Tawala, Mangap-Mbula), replacing all statives and some neutral verbs by
-adjectives or adjectival nouns (Ross 1998) and transferring other neutral verbs to the dynamic
+adjectives or adjectival nouns (Ross 1998a) and transferring other neutral verbs to the dynamic
 class.
 
 
@@ -1543,7 +1543,7 @@ wholes (e.g. POc *gabʷari- 'area underneath a raised house' (Ch. 3, §3 .4)), a
 reconstructions and supporting data with a final hyphen. Zero-valency nouns were all other
 nouns. These two subclasses are reflected in numerous Oceanic languages, and are referred
 to in grammars either by the semantic labels 'inalienable noun' and 'alienable noun' or, since
-Lichtenberk (1985), by the syntactic labels 'directly possessed noun' and 'indirectly possessed
+Lichtenberk (1985a), by the syntactic labels 'directly possessed noun' and 'indirectly possessed
 noun'.
 
 [24] When a monovalent noun had a non-specific possessor, it was evidently linked to the latter by the preposition
@@ -1551,7 +1551,7 @@ noun'.
    the preceding monovalent noun (cf, for example, Seimat [Admiralties) nat-i pou 'piglet'; see Hooper 1985
    for further evidence).
    A description of the (quite complex) POc possessive system is beyond our scope. The interested reader is
-   referred to Pawley (1973:153-169), Lichtenberk (1985), Hooper (1985), Lynch (1996a).
+   referred to Pawley (1973:153-169), Lichtenberk (1985a), Hooper (1985), Lynch (1996a).
 
 
 
@@ -1682,7 +1682,7 @@ cannot tell which form was in fact lexicalised in POco
 
 
    POc had no separate adjective class. Instead, it had a large class of adjectival verbs and a
-small class of adjectival nouns (Ross 1998). The class of adjectival verbs appears to have
+small class of adjectival nouns (Ross 1998a). The class of adjectival verbs appears to have
 included all U-statives, and at least some U intransitives (§3 . 1 . 1). Many reconstructed adjectival
 verbs include the U intransitive prefix *ma- (§3 . 1 .2). Both adjectival verbs and adjectival
 nouns could apparently follow the noun they modified without any morphological marking,
@@ -1733,8 +1733,7 @@ conventions referred to in the discussion above to speak for themselves.
 
 
 
-[27] For more detailed information the reader is referred to Pawley (1973: 126- 140), Crowley (1985), Ross
-     (1998).
+[27] For more detailed information the reader is referred to Pawley (1973: 126- 140), Crowley (1985), Ross (1998a).
 
 
 3 Architectural forms and settlement patterns
@@ -1981,8 +1980,7 @@ By 1200- 1000 BC another variant, known as Eastern Lapita, appears in Fiji,
 Tonga and Samoa.
 
 
-[5]  For example, Green (1966, 1967, 1979, 1981 , 1986, 1994a, 1994b); Kirch and Green (1987); Pawley
-    (1981 , 1982, 1996a); Pawley and R.Green (1973, 1984); Pawley and K.Green (1971); Pawley and Pawley
+[5]  For example, Green (1966, 1967, 1979, 1981 , 1986, 1994a, 1994b); Kirch and Green (1987); Pawley (1981 , 1982a, 1996a); Pawley and R.Green (1973, 1984); Pawley and K.Green (1971); Pawley and Pawley
     (1994); Pawley and Ross (1993). We have not been alone in this enterprise. From the 1920s on, Kenneth
     Emory was a pioneer in Polynesian culture history, when archaeological and historical linguistic studies in
     that region were in their infancy and the main reliance was on comparative ethnology. For more recent
@@ -2578,7 +2576,7 @@ POc *turu(s) 'post'
 <
 
 POc *bou '(?) main bearers supporting raised floor or roof structure, or centre post supporting ridgepole'
- PT:      Bwaidoga       lou               'main bearers of a house'
+ PT:      Bwaidoga       fou               'main bearers of a house'
  PT:      Misima         popou             'floor bearers, running from one end of house to the other'
   SES:    Arosi          boʔu              'the crossbeam or stay in the roof to strengthen the house; sometimes the main-post in the centre rests on this; a cross' (_boʔu_ for expected _bou_)
   SES:    Kwaio          bou               'house post'
@@ -2709,7 +2707,7 @@ POc *tete 'single log bridge or ladder'; 'climb a ladder, walk along a bridge or
   SES:      Bugotu            tete                'climb up on a fishing tripod'
   SES:      Gela              tete                'cross a stream on a log or bridge; descend a ladder, not using hands'
   Mic:      Carolinian        (liga)tēte          'ladder' (liga- is prefix of uncertain origin)
-  Mic:      Carolinian        tete                'climb'
+  Mic:      Carolinian        tēte                'climb'
 
 >
 <
@@ -2776,10 +2774,10 @@ POc *rapu(R) 'hearth, fireplace; ashes'
 >
 <
 
-   A term for an oven made with hot stones, POc _*qurnun_ is widely attested (see Ch. 6, §2.6,
+   A term for an oven made with hot stones, POc _*qumun_ is widely attested (see Ch. 6, §2.6,
 for further discussion).
 
-POc *qurnun 'oven made with hot stones; cook in a stone or earth oven' (Chowning 1991, Lichtenberk 1994)
+POc *qumun 'oven made with hot stones; cook in a stone or earth oven' (Chowning 1991, Lichtenberk 1994)
   Adm: Seimat             um               'earth oven'
   NNG: Kairiru            umu-i, um       'cook in earth oven' (singular/plural object)
   PT:  Molima            ʔumula           'stone oven'
@@ -3176,7 +3174,7 @@ Figure 4: Typical pot shapes (from Ross 1996c)
 <
 
 PMP *kuDen 'clay cooking pot' (Blust 1982)
-POc *kuran 'earthernware pot'
+POc *kuron 'earthernware pot'
  Adm: Drehet              kuŋ
  Adm: Nyindrou            kun
  NNG: Kove                ulo                    'cooking pot, boil (in water)'
@@ -3286,7 +3284,7 @@ the first element in a number of pot types listed in Olsen's dictionary: nobadal
 nokaokao, nokunu , nopaeva , nosipoma. All of these are apparently dish-like in form. Some
 reflexes of *naquq are listed below. The crucial reflexes for determining the meaning of
 *na(q)u(q) are those from central Papua-Hula, Motu and Kuni -where Oceanic restricted
-pot forms remain the norm, and nayulnau clearly refers only to dishe .
+pot forms remain the norm, and nayulnau clearly refers only to dishes.
 
 PPT *na(q)u(q) 'clay dish'
   PT:     Gumawana        no                'clay pot'
@@ -3372,9 +3370,9 @@ POc *tabiRa 'wooden bowl'
   Mic: Carolinian        sæpi             'plate, bowl for food'
   Mic: Woleaian          tapiya            'dish, bowl'
   cf. also:
-  SES:    Tolo           tabiti            'wooden vessel used to smash nut kernels in'
-  SES:    Longgu         tabiti            'bowl shaped like a vase, used for mashing taro to make pudding'
-  SES:    Kwaio          tabiti            'big wooden bowl '
+  SES:    Tolo           tabili            'wooden vessel used to smash nut kernels in'
+  SES:    Longgu         tabili            'bowl shaped like a vase, used for mashing taro to make pudding'
+  SES:    Kwaio          tabili            'big wooden bowl '
   SES:    'Are'are       tapire            'wooden bowl in which taro is mashed'
   SES:    Arosi          tapiri            'long trough-like food bowl'
   Fij:    Bauan          tābili            'wooden bowl for crushing yaqona roots'
@@ -3563,7 +3561,7 @@ PEOc *tapaya '(gourd or coconut-shell) container, bottle'
   NCV:    Raga            tavai            'gourd'
   Fij :   Bauan           tavaya           'bottle'
   Pn:     Takuu           tafā             'flask made of coconut shell'
-  Pn:     Maori           taha             'calabash with narrow mouth'
+  Pn:     Maori           tahā             'calabash with narrow mouth'
 
 >
 
@@ -3676,7 +3674,7 @@ of old terms. The likelihood of borrowing is also high.
 
 <
 
-PMP *ka(n)tuŋi 'basket, pocket in clothing' (Dempwolff 1938)
+PMP *ka(n)tuŋ 'basket, pocket in clothing' (Dempwolff 1938)
 POc *katu(m,ŋ) 'basket'
   SES: Arosi             kaso              'basket without a handle'
   NCV : Lonwolwol        aro(bol)          'basket, container; sack, bag' (_-bol_ from POc _*bola_ 'coconut leaves woven together')
@@ -3754,7 +3752,7 @@ association with one of the two *k-initial forms above.
 
 
 Figure 9: Reconstructions (non-specific) include: POc *kalu (m,1)) 'basket', POc *laka
- 'basket ', POc *tabt')e 'basket, probably small', POc *laŋa 'basket or bag, small, used for
+ 'basket ', POc *tabt')e 'basket, probably small', POc *taŋa 'basket or bag, small, used for
                         personal effects' (after Koch 1986: 104 and n.d.:59)
 
    Biggs (1993) lists two further terms for PPn, *llipola 'basket plaited from a single coconut
@@ -3775,11 +3773,11 @@ has come to refer to a net bag in parts of western Oceania.
 
 <
 
-POc *laŋa 'basket or bag, small, used for personal effects'
+POc *taŋa 'basket or bag, small, used for personal effects'
   NNG: Lukep (Pono)      taŋa              'net bag, womb'
   NNG: Gedaged           taŋ               'net bag used by women'
-  PT:  Kilivila          (va)laga           'small basket (very simply plaited)'
-  PT:  Dobu              lana               'dilly bag' (Grant)
+  PT:  Kilivila          (va)taga           'small basket (very simply plaited)'
+  PT:  Dobu              tana               'dilly bag' (Grant)
   MM:    Meramera       taŋa             'netbag; nest; web; basket'
   MM:    Tangga         taŋ              'netbag, basket'
   SES:   Arosi          aŋa(na)         'plaited bag with string handles, generic'
@@ -3904,8 +3902,8 @@ POc *patu(R), *patuR-i- 'tie, plait, weave (mats, baskets +)'
 
 <
 
-PMP *aiiam 'plait (mats, baskets +)' (Blust 1980b)
-POc *aiia 'woven, braided'
+PMP *añam 'plait (mats, baskets +)' (Blust 1980b)
+POc *aña 'woven, braided'
   Mic:   Kiribatese       ana               'term used in mat weaving to designate a certain width'
   Fij:   Bauan            yana-yana         '(mats +) loosely plaited or woven'
   Pn:    Tahitian         ana(ve)           'twisted cord made from small combings of coconut fibre' (Oliver 1974: 140)
@@ -3941,7 +3939,7 @@ POc *pai 'weave'
   NNG: Numbami           wa-wai
   NNG: Kove               wal               'make a basket, plait a door'
   NNG: Kove               wa-waiŋa         'string figures'
-  PT:    Misima           vel               'plait'
+  PT:    Misima           vei               'plait'
   MM:    Vitu             vai
   MM:    Lavongai         pai
   MM:    Label            hai
@@ -4077,7 +4075,7 @@ See Chapter 9, §§7-8, for discussion of the item above.
 >
 <
 
-PWOc *mwali 'braid large ropes (for use with canoes +)' (Chowning 1991)
+PWOc *mʷali 'braid large ropes (for use with canoes +)' (Chowning 1991)
   NNG: Lukep             mol-             'twist into a loop'
   NNG: Manam             moli             'plait'
   PT:  Sudest            mʷana(basi)      'twist (s.t.)'
@@ -4270,7 +4268,7 @@ POc *matau 'axe'
     Fij:  Bauan                  matau           'native adze made of stone'
     Pn:   Samoan                 matau           'adze, axe'
     Pn:   Luangiua               matau           'tattooing chisel'
-    Pn:   Tikopia                matau           'tattooer's serrated chisel of bird-bone'
+    Pn:   Tikopia                matāu           'tattooer's serrated chisel of bird-bone'
     Pn:   Anutan                 matau           'tattooing chisel'
 
 >
@@ -4783,12 +4781,12 @@ POc *malo 'broussonetia papyrijera , loincloth' (Milke 1968)
   NNG: Kove                  malo                 'bark-cloth' (*malo* *maloŋia* male and female breechclout-worn under skirt by women)
   MM:     Patpatar           māl                  'cloth; clothing'
   MM:     Tolai              mal                  'name of small tree, Broussonetia papyrijera; native cloth made from bark of this tree; any kind of cloth, loincloth'
-  MM:     Teop               mara                 'cloth/clothing'
-  SES:   Arosi            mara              'tree species, paper mulberry; beaten cloth of the _mara_ (bark soaked in water and then beaten out, later painted in gay colours and used as a sling (_duru_) to carry a child, or a loincloth (_gaha_)'
+  MM:     Teop               maro                 'cloth/clothing'
+  SES:   Arosi            maro              'tree species, paper mulberry; beaten cloth of the _mara_ (bark soaked in water and then beaten out, later painted in gay colours and used as a sling (_duru_) to carry a child, or a loincloth (_gaha_)'
   NCV : Raga              malo              'men's loin cloth'
   Fij : Bauan             malo              'paper mulberry; hence the native cloth made from it and the former native male dress, passed between the thighs and fastened with a girdle'
   Pn:    Samoan           malo              'loincloth '
-  Pn:    Emae             mara              'bark-cloth'
+  Pn:    Emae             maro              'bark-cloth'
   Pn:    Hawaiian         malo              'loin garment'
 >
 
@@ -4997,11 +4995,11 @@ PEOc *make (N, V) 'tattoo'
 
 <
 
-   Ross (1996c) has reconstructed a verb, *noŋio 'decorate', used with reference to putting
+   Ross (1996c) has reconstructed a verb, *noŋo 'decorate', used with reference to putting
 patterns onto pots and other articles, and for tattooing, but his supporting data are limited to
 three reflexes, and the reconstruction must be deemed tentative.
 
-POc *noŋio 'decorate'
+POc *noŋo 'decorate'
   NNG: Gitua                 noŋo            'decoration in general '
   MM: Halia                  nono(a)          'add ornamentation to edge of pot'
   NCV : Lewo                 nono             'tattoo, picture, image, idol'
@@ -5276,7 +5274,7 @@ POc *upi or *ipu 'blow; native flute' [10]
      SES:    Kwaio              ufi                  'play panpipes'
      SES:    Sa'a               uhi                  'blow with the mouth upon an object'
  SES:    Arosi           (ʔau)uhi-uhi       'panpipes of bamboo' (_uhi_ 'blow, breathe')
- Fij:    Bauan           uvu(oa)            'blow with the mouth'
+ Fij:    Bauan           uvu(ða)            'blow with the mouth'
 
 [10]     Cf. POc *ubi/*ibu 'half coconut shell used as drinking cup' (§2.2.2). It is possible that both *ubi/*ibu and
      *upi/*ipu were generated at the same time by the application of a single rule (or similar wordplay) to the
@@ -5384,7 +5382,7 @@ POc *garamut 'slitgong'
 
 <
 
-PSS *yoyo 'slitgong'
+PSS *ɣoɣo 'slitgong'
   SES:    Bugotu       koko              'wooden gong'
   SES:    Arosi        ʔoʔo              'wooden gong, made in sets from a hollowed tree, and used to send messages by a code so that practically any message can be sent'
   SES:    Arosi        |barai ʔoʔo|        'set of slitgongs' (includes _ʔoʔo raha_ 'bass gong'; _ʔoʔo maradaro_ 'soprano gong'; _ʔoʔo riʔi_ 'treble gong')
@@ -5408,7 +5406,7 @@ PCP *(v,b)asu 'a drum; to drum, thump'
   Pn:     Rarotongan   paʔu              'drum formed from a hollowed block and covered with sharkskin '
   Pn:     Tahitian     pahu              'drum; thumping blow'
   Pn:     Hawaiian     pahu              'drum'
-  Pn:     Maori        pahu(u)               'wooden gong'
+  Pn:     Maori        pahū               'wooden gong'
 
 >
 <
@@ -10757,7 +10755,7 @@ POc *lawa((n,q)) 'k.o. fishnet'
 
 <
 
-POc *ku(p,pʷ)ena 'fishing net' (Blust 1981)
+POc *ku(p,pʷ)ena 'fishing net' (Blust 1981a)
       Adm: Mussau                 uena
       Adm: Loniu                  kupʷen              'long rectangular fish net'
       MM:     Tolai               ubene                'fish net; any net or net-like thing; spider's web'
@@ -13407,7 +13405,7 @@ other terms.
 POc       *(su)su(k)        'anything used to pierce, prick; (V) pierce, prick, sew'; *suki- 'pierce, prick, sew (mats)'
 POc       *tuRi[-]          'sew, thread, string together'
 POc       *(su)suRi[-]      'bone (needle); sew'
-POc       *s(u,i)ri[-]      'pierce, poke' (Blust 1998)
+POc       *s(u,i)ri[-]      'pierce, poke' (Blust 1998b)
 POc       *soka, soka-i-    (V) 'pierce; stab, poke hole in (s.t.)'
 POc       *sua              (N, v) 'spear (weapon retained in the hand)'
 
@@ -13479,7 +13477,7 @@ POc *(su)suRi[-] 'bone (needle); sew'
 >
 <
 
-POc *s(u,i)ri[-] 'pierce, poke' (Blust 1998)
+POc *s(u,i)ri[-] 'pierce, poke' (Blust 1998b)
    Adm:     Mussau         suli                 'sew (mats), thatch'
    Adm:     Lou            sur                  'pierce'
    NNG:     Mangseng       sir                  'poke, puncture, drill'

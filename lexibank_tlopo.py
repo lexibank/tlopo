@@ -54,12 +54,12 @@ class Dataset(BaseDataset):
         allps = 0
         per_pl = collections.defaultdict(list)
         for vol in range(1, 7):
-            if vol != 2:
+            if vol != 1:
                 continue
             t = self.raw_dir / 'vol{}'.format(vol) / 'text.txt'
             if not t.exists():
                 continue
-            vol = Volume(t.parent, langs, Source.from_bibtex(self.etc_dir.read('citation.bib')))
+            vol = Volume(t.parent, langs, Source.from_bibtex(self.etc_dir.read('citation.bib')), Sources.from_file(self.etc_dir / 'sources.bib'))
             print(vol)
             words = 0
             pfs = collections.Counter()
@@ -112,6 +112,8 @@ class Dataset(BaseDataset):
         self.schema(args.writer.cldf, with_borrowings=False)
         self.local_schema(args.writer.cldf)
 
+        args.writer.cldf.sources = Sources.from_file(self.etc_dir / 'sources.bib')
+
         langs = {r['Name']: r for r in self.raw_dir.joinpath('vol1').read_csv('languages.csv', dicts=True)}
         reconstructions = []
         for v in list(langs.values()):
@@ -123,7 +125,7 @@ class Dataset(BaseDataset):
             t = self.raw_dir / 'vol{}'.format(vol) / 'text.txt'
             if not t.exists():
                 continue
-            vol = Volume(t.parent, langs, Source.from_bibtex(self.etc_dir.read('citation.bib')))
+            vol = Volume(t.parent, langs, Source.from_bibtex(self.etc_dir.read('citation.bib')), args.writer.cldf.sources)
             for i, rec in enumerate(vol.reconstructions):
                 reconstructions.append(rec)
             mddir = self.cldf_dir.joinpath(vol.dir.name)
@@ -134,7 +136,6 @@ class Dataset(BaseDataset):
             #
             # FIXME: must merge sources!!!
             #
-            args.writer.cldf.sources = Sources.from_file(vol.dir / 'references.bib')
 
         for lg in langs.values():
             args.writer.add_language(ID=lg['ID'], Name=lg['Name'], Is_Proto=False, Group=lg['Group'])

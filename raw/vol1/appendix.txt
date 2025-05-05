@@ -30,7 +30,7 @@ Appendix 1: Data sources and
                              Kwaio                                                                                                          Keesing (1975)
                              Lau                                                                                                            Fox (1974)
                              Lenakel                                                                                                        Lynch (1977)
-                             Lewo                                                                                                           Early (1994)
+                             Lewo                                                                                                           Early (1994b)
                              Loniu                                                                                                          Hamel (1994)
                              Lou                                                                                                            Blust (1998)
                              Maori                                                                                                          Williams (1975)
@@ -38,7 +38,7 @@ Appendix 1: Data sources and
                              Minaveha                                                                                                       Nenegemo and Lovell (1995)
                              Mokilese                                                                                                       Harrison and Albert (1977)
                              Mota                                                                                                           Codrington (1896)
-                             Motu                                                                                                           Lister-Turner and Clark (1954) (2nd ed)
+                             Motu                                                                                                           Lister-Turner and Clark (1954a) (2nd ed)
 
 298    Appendix 1
 
@@ -126,7 +126,7 @@ changes more quickly. This orthography is retained in the citation of data in th
     Maps 6- 10, showing location of languages referred to in the volume, are included at the
 end of Appendix 2. In §2 we list these languages in their putative subgroups . The higher-order
 subgroups are those described in Ch. 1 , §3.2. Lower-order groups, except where indicated,
-are drawn from the classification in Lynch, Ross and Crowley (forthcoming), and also, for
+are drawn from the classification in Lynch, Ross and Crowley (2002), and also, for
 Western Oceanic, from Ross (1988). In §3 we provide an index to §2. Polynesian subgrouping
 is based on Marck (forthcoming).
 

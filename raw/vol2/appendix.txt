@@ -97,7 +97,7 @@ based on a variety of primary sources. These files include:
   at the University of Auckland. The version to which we refer dates from December
   1993.
 • Computer files of reconstructions with supporting cognate sets for North/Central
-  Vanuatu (Clark 1994), Southern Vanuatu (Lynch 1996), and Micronesian (Bender et
+  Vanuatu (Clark 1994), Southern Vanuatu (Lynch 1996b), and Micronesian (Bender et
   al. 1983).
 • Computer files of dictionaries in progress provided by Joel Bradshaw (for
   Numbami), Deborah Hill (for Longgu) and Malcolm Ross (for Takia).

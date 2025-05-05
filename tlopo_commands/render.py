@@ -24,18 +24,20 @@ def run(args):
     if not out.exists():
         out.mkdir()
     cldf = ds.cldf_reader()
+    out.joinpath('references.md').write_text(render(
+        '# References\n\n[](Source?with_anchor&with_link#cldf:__all__)', cldf), encoding='utf-8')
     for vol in "12":
-        out = out / 'vol{}'.format(vol)
-        if not out.exists():
-            out.mkdir()
+        vout = out / 'vol{}'.format(vol)
+        if not vout.exists():
+            vout.mkdir()
+        else:
+            for p in vout.iterdir():
+                if p.is_file():
+                    p.unlink()
         for chapter in tqdm(ds.cldf_dir.joinpath('vol{}'.format(vol)).glob('chapter*.md')):
             res = render(
                 chapter,
                 cldf,
                 template_dir=ds.dir / 'templates',
             )
-            out.joinpath(chapter.name).write_text(render(res, ds.cldf_reader()), encoding='utf-8')
-        out.joinpath('references.md').write_text(render('# References\n\n[](Source?with_anchor&with_link#cldf:__all__)', ds.cldf_reader()), encoding='utf-8')
-    #
-    # FIXME: render references!
-    #
+            vout.joinpath(chapter.name).write_text(render(res, ds.cldf_reader()), encoding='utf-8')

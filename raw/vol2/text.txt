@@ -110,13 +110,13 @@ Oceanic: for Proto Polynesian by Biggs (resulting in Walsh and Biggs (1966), Big
 (1970) and subsequent versions of the POLLEX file, including Biggs and Clark (1993), the
 version we have referred to in our work); for Proto Micronesian by scholars at the
 University of Hawaii (Bender et al. 1983); for Proto North/Central Vanuatu by Clark
-(1996); for Proto Southern Vanuatu by Lynch (1978b, 1996, 2001); for New Caledonia by
+(1996); for Proto Southern Vanuatu by Lynch (1978b, 1996b, 2001); for New Caledonia by
 Ozanne-Rivierre (1992), Haudricourt and Ozanne-Rivierre (1982) and Geraghty (1989);
 for Proto Southeast Solomonic by Levy (1980) and Lichtenberk (1988); for Proto Central
 Pacific by Hockett (1976) and Geraghty (1983, 1986, and 1996, together with a number of
 unpublished papers); for Proto Eastern Oceanic by Biggs (1965), Cashmore (1969),
 Levy and Smith (1970), and Geraghty (1990); and for Proto Central Papuan by Pawley (1975),
-Lynch (1978a, 1980), and Ross (1994).
+Lynch (1978a, 1980), and Ross (1994a).
 
     Robert Blust of the University of Hawaii has, in a series of papers (1970, 1980b, 1983–84a, 1986, 1989)
 published extensive, alphabetically ordered, lexical reconstructions (with
@@ -128,8 +128,8 @@ Dictionary (ACD) on disk at the University of Hawaii. The version to which we re
 from 1998.
 
     Several papers systematically investigate particular semantic domains in the lexicon of
-POc, e.g. Milke (1958), French-Wright (1983), Pawley (1982), Pawley and Green (1985),
-Lichtenberk (1986), Walter (1989), and the various papers in Pawley and Ross (1994).
+POc, e.g. Milke (1958), French-Wright (1983), Pawley (1982b), Pawley and Green (1985),
+Lichtenberk (1986), Walter (1989), and the various papers in Pawley and Ross (1994a).
 Ross (1988) contains a substantial number of new POc lexical reconstructions, as well as
 proposed modifications to the reconstructed POc sound system and the orthography.
 
@@ -688,7 +688,7 @@ at times by lower sea levels during the late Pleistocene.
 [1]   I am indebted to Roger Green, Meredith Osmond, Malcolm Ross and Christophe Sand for helpful
     comments on a draft of this chapter. A number of issues to do with locating Proto Oceanic are raised in a
     paper by Terrell, Hunt and Bradshaw (2002) which came to hand after this paper was written.
-[2]   See Green (1991a) for an extended discussion of the Near Oceania vs Remote Oceania division, first
+[2]   See Green (1991b) for an extended discussion of the Near Oceania vs Remote Oceania division, first
     proposed in Pawley and Green (1973).
 
 18   Andrew Pawley
@@ -749,7 +749,7 @@ dependent on hunting-and-gathering to get their food.
 
 
    The divide between Near and Remote Oceania is also an important one for fauna and
-flora distribution. Roger Green (1991b:495) notes that:
+flora distribution. Roger Green (1991a:495) notes that:
 
 |     all terrestrial mammals other than rats and mice or those which accompanied people
 |     reach their eastward limit in the Solomons. The same applies to all fresh-water
@@ -772,7 +772,7 @@ far more formidable than the ocean gaps within Wallacea or Near Oceania.
 occurred no later than 35,000 years ago (Allen & Gosden 1996, Allen & White 1989,
 Gosden & Specht 1991, Pavlides & Gosden 1994). The Manus group was reached by at
 least 21,000 BP and probably a good deal earlier (Ambrose 2002). The earliest dates for
-Buka-Bougainville are about 28,000 BP (Spriggs 1997). At that time most of today’s
+Buka-Bougainville are about 28,000 BP (Spriggs 1997a). At that time most of today’s
 Solomon Islands were joined into a single landmass, and the first settlers would have been
 able to walk to the central Solomons (Guadalcanal).
 
@@ -782,7 +782,7 @@ would have relied heavily on coastal resources. Early archaeological sites in th
 point to a dependence on marine shellfish, inshore fish and hunting of birds, rats, bats and
 reptiles. After 20,000 BP there is evidence of considerable regional interaction, with
 obsidian moving from New Britain to New Ireland, and game animals (chiefly, a phalanger
-and a wallaby species) being transported from the New Guinea mainland (Spriggs 1997).
+and a wallaby species) being transported from the New Guinea mainland (Spriggs 1997a).
 By the mid-Holocene, 7–8000 years ago, a range of tree crops was cultivated or tended.
 However, there is no clear evidence that full scale agriculture was practised in the
 Bismarck Archipelago or the Solomons before the arrival of Austronesian speaking
@@ -866,15 +866,15 @@ of the St Matthias Group, New Britain and in the islands off the east coast of N
 
 [3] There are several recent major syntheses of interdisciplinary evidence concerning the Austronesian
   diaspora by archaeologists, especially Bellwood (1997), Green (2003), Kirch (1995, 1997, 2000), Kirch
-  and Green (2001) and Spriggs (1997), with a dissenting view presented by Terrell (1986) and Terrell et al.
+  and Green (2001) and Spriggs (1997a), with a dissenting view presented by Terrell (1986) and Terrell et al.
   (2001). For overviews by linguists see Blust (1995b), Pawley (2003a) and Pawley and Ross (1993, 1995).
 
 22    Andrew Pawley
 
 A vast literature on Lapita has accumulated over the past 40 years and it is impossible to
 reference this fully. Kirch (1997) is the most comprehensive overview. Other important
-reviews include Allen and Gosden (1991), Best (2002), Green (1991a, 2003), Kirch (2000),
-Kirch and Green (2001), Kirch and Hunt (1988), Spriggs (1997), and
+reviews include Allen and Gosden (1991), Best (2002), Green (1991b, 2003), Kirch (2000),
+Kirch and Green (2001), Kirch and Hunt (1988), Spriggs (1997a), and
 Summerhayes (2000a, 2001).
 
     Lapita was a culture quite different from those which preceded it in Near Oceania.[4] Its
@@ -935,7 +935,7 @@ because of a remarkably close fit between the evidence of historical linguistics
 archaeology, with support from the study of plant and animal distributions.
 
    Most scholars now accept the view that Lapita was an amalgam of ingredients from
-three sources or dynamics, which Green (1991a, 2003) refers to as ‘intrusion’, ‘integration’
+three sources or dynamics, which Green (1991b, 2003) refers to as ‘intrusion’, ‘integration’
 and ‘innovation’.[5] ‘Intrusion’ refers to a core complex of elements of Lapita which entered
 Near Oceania from Island SE Asia. These comprised language, and many elements of
 technology, domestic animals, architecture and settlement patterns and social organisation.
@@ -978,7 +978,7 @@ the Bismarcks since the Upper Pleistocene, but shows significant changes in the 
 frequency of trade and in the degree of formal blade technology (Summerhayes 2000a,
 2000b). Following Yen’s conclusion (1973, 1991) that a number of tree crops and plant
 domesticates such as Australimusa bananas, breadfruit, coconuts and sugarcane, were Near
-Oceania domesticates, Spriggs (1997), Kirch (1996) and Green (1991a, 2003) suggest that
+Oceania domesticates, Spriggs (1997a), Kirch (1996) and Green (1991b, 2003) suggest that
 these may have been added to the Lapita suite of crops as a result of contact with non-
 Lapita populations. However, Blust (1995b) provides evidence that certain of these plant
 domesticates were already familiar to Malayo-Polynesian speakers before the settlement of
@@ -1081,7 +1081,7 @@ this point Kirch (1997:165–166) writes:
    On Mussau there are five significant Lapita sites, all of them on the small atolls south of
 the main island, with the earliest period dated to the late 2nd millennium BC
 (Summerhayes 2000b, 2001) Although no open Lapita sites have yet been located on the
-main island, Mussau, Spriggs (1997:118) suggests that this may be due to landscape
+main island, Mussau, Spriggs (1997a:118) suggests that this may be due to landscape
 change over the last few millennia.
 
    Among the first Lapita sites to be excavated was one on the small island of Watom,
@@ -1112,7 +1112,7 @@ to incised and relief styles.
     Only three sites with Lapita pottery have been found in the Manus group. The best of
 these is located on the islet of Mouk, 300m off the north-east tip of Baluan, which
 represents a long but intermittent sequence of occupations from 3000 BP onward
-(Ambrose & McEldowney 2000:275). Spriggs (1997:113) comments that the absence of
+(Ambrose & McEldowney 2000:275). Spriggs (1997a:113) comments that the absence of
 Lapita sites on Lou Island, a major source of obsidian for the Bismarck Archipelago, is
 probably due to active vulcanism in this region, with deep deposits of ash burying sites,
 and to subsidence.
@@ -1228,7 +1228,7 @@ be noted.
       Siassi Islands in the Vitiaz Strait off the western tip of New Britain have yielded
       the nearest Lapita site to the New Guinea mainland yet found, apart from isolated
       finds of single potsherds. The Siassi site represents ‘a relatively late and seemingly
-      ephemeral Lapita occupation’ (Spriggs 1997:118). It must be admitted, however,
+      ephemeral Lapita occupation’ (Spriggs 1997a:118). It must be admitted, however,
       that little archaeological work has been done on the offshore islands.
 (ii) If Proto Oceanic speaking communities existed on parts of the north coast of New
      Guinea and nearby islands they have left no descendants. All the indications are
@@ -2787,7 +2787,7 @@ POc *tape-tape ‘waterfall; flow’
 easily flakeable stone, ideally obsidian or flint, used to make razors, axes and knives.
 Obsidian was traded in the Bismarck Archipelago even in pre-Lapita times, but the range
 of the trade increased dramatically when Lapita settlements appeared in the late second
-millennium BC (Kirch 1997, Spriggs 1997, Summerhayes 2000a).
+millennium BC (Kirch 1997, Spriggs 1997a, Summerhayes 2000a).
 
 
 3.7.1 Stone
@@ -3135,7 +3135,7 @@ Melanesian reflexes refer to clay cooking pots, but not, apparently, to the clay
 Caledonian reflexes refer to both clay and pots.
 
 PAn *daReq ‘soil, clay’
-POc *raRo(q) ‘clay; cooking pot’ (Milke 1965, Ross 1996d gloss ‘clay’ only)
+POc *raRo(q) ‘clay; cooking pot’ (Milke 1965, Ross 1996c gloss ‘clay’ only)
  NNG: Bing              rar             ‘clay’
  NNG: Gedaged           lal             ‘clay, used by the Yabob and Bilibil people to make pots’
  PT:   Motu             raro            ‘clay’
@@ -5790,7 +5790,7 @@ POc *mal(i,e)u ‘wind’
   ancestral to Tawala *malew, rather than *maleu, should be reconstructed.
 >
 
-   In Ross (1995a) I wrote:
+   In Ross (1995c) I wrote:
 
 |        my attempts to reconstruct POc terms for ‘typhoon’, ‘cyclone’ and ‘whirlwind’ have
 |        failed completely. On reflection, this is not surprising, as I have hypothesised that POc
@@ -6435,7 +6435,7 @@ POc *ma-lino ‘calm’ (Grace 1969)
                                                            Meteorological phenomena         141
 
 <
-PMP *(d,r)apu ‘still, calm, quiet’(Blust 1972)
+PMP *(d,r)apu ‘still, calm, quiet’(Blust 1972b)
 POc *[ma-d,ma-]rapu ‘still, calm, windless’
  Adm: Nyindrou            nra-dah           ‘breeze ’
  MM: Petats               marah             ‘calm’
@@ -6620,7 +6620,7 @@ others ‘mist’ or ‘fog’. amd yet others have both meanings. It seems reas
 a mist was conceived as a cloud at sea—or ground—level.
 
 <
-PMP *Ra(m)bun ‘haze’ (Blust 1972)
+PMP *Ra(m)bun ‘haze’ (Blust 1972b)
 POc *Rapu(n) ‘haze, mist’
  Adm: Drehet          kxo-kxoh            ‘cloud’
  NNG: Bariai          lau-lau             ‘cloud’
@@ -7685,7 +7685,7 @@ etymon.
 <
 PMP *mantalaq ‘the morning (evening) star: Venus’ (ACD)
 PMP *(t)ala(q) ‘star’ (Dempwolff 1938)
-POc *ma-dala ‘the morning star’ (Blust 1972)
+POc *ma-dala ‘the morning star’ (Blust 1972b)
  Adm: Lou               (ko)mtal        ‘Morning Star/Evening star:Venus’
  Adm: Titan             (ápa)tal        ‘Morning Star which appears about 5 a.m.’
  Adm: Loniu             (kopo)matan     ‘the Morning Star’
@@ -9665,7 +9665,7 @@ POc *sau-sauq (ADV) ‘far away’
 206   Malcolm Ross
 
 <
-PMP *ma-Zauq ‘far away’ (Blust 1981)
+PMP *ma-Zauq ‘far away’ (Blust 1981b)
 POc *ma-sauq (V) ‘be far away’
  Adm: Mussau           masau         ‘far away’
 PWOc *ka-sauq (V) ‘be far away’
@@ -9860,7 +9860,7 @@ POc *manipis ‘thin’
 7.3 Age
 
    Two POc terms for ‘new’ can be reconstructed: the adjectival noun *paqoRu, which
-was also applied to animate beings in the sense of ‘young’ (Pawley 1982), and
+was also applied to animate beings in the sense of ‘young’ (Pawley 1982b), and
 *ka(l,r)abwa, which has fewer reflexes, but as these occur in both MM and NCV
 languages, it must be reconstructed as POc. Meso-Melanesian reflexes of the latter reflect
 *-l-, North and Central Vanuatu reflexes reflect *-r-.
@@ -9929,7 +9929,7 @@ POc *ka(l,r)abwa ‘new’
 
    The antonym of *paqoRu ‘new, young’ was evidently *[ma]tuqa ‘ripe, mature, adult,
 old’. A difficulty in reconstructing this term is its formal and semantic similarity to POc
-*matuqu ‘coconut growth stage: ripe, brown but has not fallen yet’ (Ross 1996c). It is
+*matuqu ‘coconut growth stage: ripe, brown but has not fallen yet’ (Ross 1996d). It is
 sometimes quite difficult to determine which of the two reconstructions a reflex like, for
 example, Sursurunga matuk ‘ripe, well-developed, ready to harvest’ should be assigned to,
 and I suspect that reflexes of the two items have been conflated in some languages.
@@ -10150,7 +10150,7 @@ already occurred in POc or whether the reduplicated forms result from independen
 derivations. We can arrange cases on a rough cline. At one extreme is POc *[yaŋo]yaŋo
 ‘yellow’, whose reflexes occur so consistently across Oceania that it seems over-cautious
 not to reconstruct it. The base form was POc *yaŋo ‘turmeric, Curcuma longa’ (Ross
-1996c:216).
+1996d:216).
 
 <
 POc *[yaŋo]yaŋo ‘yellow’
@@ -10805,7 +10805,7 @@ identically.) I assume tentatively that POc had *[ma]Raŋo and that forms with *
 innovative.
 
 PMP *[ma]Raŋaw ‘dry’
-PMP *[ma]Raŋuʔ ‘dry’ (Blust 1981, 1986)
+PMP *[ma]Raŋuʔ ‘dry’ (Blust 1981b, Blust 1986)
 POc *[ma]Raŋo ‘become withered (of vegetation)’[24]
  Adm: Mussau         malaŋo          ‘dry’
  NNG: Manam          maraŋo          ‘dry, arid’
@@ -10822,7 +10822,7 @@ POc *[ma]Raŋo ‘become withered (of vegetation)’[24]
  Pn:     Samoan          maŋo            ‘dry up; be dry (of wood, clothes)’
  Pn:     Niuean          maŋo            ‘dry (of wood, trees)’
 
-[24] In Ross (1996c) I reconstructed POc *[ma]Raŋ(o,u) ‘dry; coconut growth stage 8: dry and ready to fall’.
+[24] In Ross (1996d) I reconstructed POc *[ma]Raŋ(o,u) ‘dry; coconut growth stage 8: dry and ready to fall’.
    However, its POc status rested on Baelelea (SES) maleŋa ‘coconut’. I no longer think this is cognate
    with the NNG and MM forms which refer to a withered coconut, and take the latter simply to be an
    extension of meaning of reflexes of *[ma-](r,R)aŋo.
@@ -10838,7 +10838,7 @@ POc *ka-(r,R)aŋo ‘be dry; be low tide’
  SES: Lengo            karaŋo            ‘low tide’
 >
 <
-POc *goRu ‘dry, of vegetation; coconut growth stage 8: dry and ready to fall’ (Ross 1996c)
+POc *goRu ‘dry, of vegetation; coconut growth stage 8: dry and ready to fall’ (Ross 1996d)
  NNG: Mutu           gor-gori        ‘dry’
  NNG: Malai          gor-gori        ‘dry, ripe coconut’
  NNG: Kakuna         kolu-ŋana       ‘ripe coconut’
@@ -11869,7 +11869,7 @@ POc (N)*bwal(o,a)-, *bwal(o,a)k ‘belly; hollow space’; (N LOC) ‘inside’
  NCV: Nguna           | (na)-pwala( u-na) | ‘among, middle, inside’
 >
 <
-PMP *tinaqi ‘small intestine’ (Blust 1981)
+PMP *tinaqi ‘small intestine’ (Blust 1981b)
 POc (N)*tinaqe- ‘intestines; ?? (N LOC) inside’
  Adm: Drehet             kxine              ‘inner part, inside’
  PT:     Tawala         | (u) hine-na |     ‘inside, in’
@@ -12241,7 +12241,7 @@ PEOc *tapa- ‘side, outside’ (above).
 
     The terms in the set below could tempt us to reconstruct POc *luku- ‘side, outside’.[16]
 However, their uneven distribution is suspicious, and it seems far more likely that they
-reflect PMP *likuD, POc *liku(r) ‘(person’s) back’ (Blust 1981). The meaning of scattered
+reflect PMP *likuD, POc *liku(r) ‘(person’s) back’ (Blust 1981b). The meaning of scattered
 reflexes of this word has extended to include the backs and rear parts of inanimate objects
 (like POc *muri[-]), and thence the external surfaces of objects in general. The
 specification of ‘back’ in the Marshallese and Woleaian reflexes below supports this
@@ -12973,7 +12973,7 @@ suggests that *pano may have been used for movement across the northwest–south
 axis. He suggests that the basis of this metaphor was that sailing into the wind felt to the
 sailors like going uphill.
 
-    In Ross (1995a) I suggested that *sake ‘go up’ and *sipo ‘go down’ were used by POc
+    In Ross (1995c) I suggested that *sake ‘go up’ and *sipo ‘go down’ were used by POc
 speakers to denote ‘east’ and ‘west’, i.e. the locations of sunrise and sunset. This inference
 was based on the fact that the glosses for their reflexes in many Oceanic languages are
 given as ‘east’ and ‘west’ (this is also true of some of the sources that François 2004 cites).
@@ -13749,7 +13749,7 @@ Proto South Vanuatu *un-, which forms locative nouns from common nouns (Lynch
 
 
    Longgu vu appears to be cognate with forms in the Malaita/Makira subgroup (SES) that
-reflect Proto Malaita/Makira *vua or *vuni. Lichtenberk (1985) attributes all these forms to
+reflect Proto Malaita/Makira *vua or *vuni. Lichtenberk (1985b) attributes all these forms to
 POc *pani (V) ‘give’, (PREPV) ‘beneficiary case-marker’. The Malaita/Makira forms
 certainly have benefactive meanings, but Longgu vu is clearly allative, and the best
 account of both its form and meaning is given by attributing it to *ua—although this
@@ -14124,7 +14124,7 @@ glosses.
 
 __pre__
  1. POc *pano, *pa ‘go away; move in a transverse direction’ (p.289)
- 2. POc *pani ‘give’, (PREPV) benefactive (Pawley 1973, Lichtenberk 1985)
+ 2. POc *pani ‘give’, (PREPV) benefactive (Pawley 1973, Lichtenberk 1985b)
  3. PWOc *pwa (PREP) instrumental, comitative
  NNG: Kove                 pa, pa-O:       (PREP) locative, temporal, allative, ablative
  NNG: Bariai               pa-O:           (PREP) locative, allative, ablative, benefactive
@@ -14200,7 +14200,7 @@ Bauan Fijian (Churchward 1973, Schütz 1985), Boumaa Fijian (Dixon 1988),
 Bugotu (Ivens 1933, author’s fieldnotes), Cèmuhî (Lynch 2002a), Drehu (Moyse-Faurie 1993),
 Erromangan (Sye) (Crowley 1998), Gapapaiwa (McGuckin 2002), Gela (Crowley 2002a),
 Gumawana (Olson 1992), Halia (Allen 1987), Hoava (Davis 1997), Iaai (Ozanne-Rivierre 2004),
-Ifira-Mele (Clark 2002), Kairiru (Wivell 1981, Ross 2002e), Kele (Ross 2002f),
+Ifira-Mele (Clark 2002), Kairiru (Wivell 1981b, Ross 2002e), Kele (Ross 2002f),
 Kiriwina (Senft 1986), Kiribati (Groves, Groves & Jacobs 1985), Kokota (Palmer 1999),
 Kosraean (Lee 1975), Kwaio (Keesing 1985), Kwamera (Lindstrom 1986), Label (Peekel 1930),
 Lenakel (Lynch 1978c), Lewo (Early 1994a), Longgu (Hill 1992, 1997), Loniu (Hamel 1994),
@@ -15463,12 +15463,12 @@ terms also tend to be used in this way.
  MM:     Siar             yahrat           ‘year’
 +
 
-   In Ross (1995a) I wrote, ‘There is … no doubt that POc had a separate (and widely
+   In Ross (1995c) I wrote, ‘There is … no doubt that POc had a separate (and widely
 reflected) word for year’, and followed it with the reconstruction of POc *taqun below.
 This statement stands, but with a qualification. The Buang, Tongan and East Futunan
 reflexes indicate that *taqun may have been used particularly to denote the yam-growing
 cycle. This would not be surprising: the greater yam, Dioscorea alata (POc *qupi; Ross
-1996c) is a highly prized—but not especially nutritious—crop throughout much of
+1996d) is a highly prized—but not especially nutritious—crop throughout much of
 Oceania, with much ritual associated with its growth cycle, and so it is a highly salient
 marker of a year. It is likely that that it already had the meaning ‘yam season cycle’ in POc
 times.
