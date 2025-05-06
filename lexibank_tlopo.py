@@ -40,13 +40,20 @@ class Dataset(BaseDataset):
 
     def cmd_download(self, args):
         from csvw.dsv import reader, UnicodeWriter
-        #select count(cldf_id) as c, cldf_languageReference, cldf_value, group_concat(cldf_description, ' / ') from formtable group by cldf_languageReference, cldf_value having c > 1 order by c;
+        import sqlite3
+        conn = sqlite3.connect("tlopo.sqlite")
         rows = []
-        for i, (n, lg, wd, gl) in enumerate(reader(self.dir / "multi_forms.tsv", delimiter="\t"), start=1):
-            gls = gl.split(' / ')
-            if len(set(gls)) > 1:
-                for g in sorted(set(gls)):
-                    rows.append([n, lg, wd, g])
+        for n, lg, wd, gl in conn.execute(
+            "select count(cldf_id) as c, cldf_languageReference, cldf_value, group_concat(cldf_description, ' / ') "
+            "from formtable group by cldf_languageReference, cldf_value having c > 1 order by c;"
+        ):
+            if gl:
+                gls = gl.split(' / ')
+                if len(set(gls)) > 1:
+                    glsets = [set(s.strip() for s in g.split(';')) for g in gls]
+                    if not glsets[0].intersection(*glsets[1:]):
+                        for g in sorted(set(gls)):
+                            rows.append([n, lg, wd, g])
         #print(i, len(rows))
         with UnicodeWriter(self.dir / 'multi_problems.tsv', delimiter='\t') as w:
             w.writerow(['Count', 'Language', 'Form', 'Glosses'])

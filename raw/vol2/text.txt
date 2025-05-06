@@ -1644,7 +1644,7 @@ Map 8: Tikopia (after Firth 1936:xxii)
 
 <
 PMP *banua ‘inhabited territory, where a community’s gardens, houses and other possessions are’ (Blust 1987)
-POc *panua (i) ‘inhabited area or territory’; (ii) ‘community together with its land and things on it’; (iii) ‘land, not sea’; (iv) ‘(with reference to weather and the day/night cycle) the visible world, land and sky’ (Pawley 1985)
+POc *panua (1) ‘inhabited area or territory’; (2) ‘community together with its land and things on it’; (3) ‘land, not sea’; (4) ‘(with reference to weather and the day/night cycle) the visible world, land and sky’ (Pawley 1985)
  Adm: Mussau             anua                 ‘land’
  Adm: Penchal            panu                 ‘village’
  NNG: Gedaged            panu                 ‘village, settlement, hamlet’
@@ -2176,9 +2176,9 @@ PPn *fuŋa ‘upper surface’
                                                                      The landscape     51
 
 <
-PMP *buku ‘node (as in bamboo or sugarcane); joint; knuckle; knot in wood; knot in string or rope’ (ACD, Dempwolff 1938)
+PMP *buku ‘node (as in bamboo or sugarcane); joint; knuckle; knot in wood, string or rope’ (ACD, Dempwolff 1938)
 POc *buku ‘mound, knob, joint; hill (?)’
- NNG: Manam            buku             ‘mountain, knuckle’
+ NNG: Manam            buku             ‘mountain; knuckle’
  NNG: Wogeo            buku             ‘knee’
  NNG: Mangap           bukū-nu          ‘knob, joint, hump’
  NNG: Gedaged          buku-n           ‘knot, on tree or cord’
@@ -2894,7 +2894,7 @@ PWOc *qa[r,R]iŋ ‘obsidian’
  NNG: Gedaged         yaliŋ                ‘obsidian (a splinter of it serves as a razor)’
  PT:  Duau            kalilia              ‘arrow’
  PT:  Sudest          kayina               ‘knife’
- MM: Nakanai          hali                 ‘obsidian, razor, formerly made from obsidian’
+ MM: Nakanai          hali                 ‘obsidian; razor formerly made from obsidian’
  MM: Meramera         ali                  ‘obsidian’
 >
 
@@ -3184,7 +3184,7 @@ POc *maqasin (V) ‘be salty’; (N) ‘salt’
  Fij:  Bauan           māsi(ma)         ‘salt obtained by evaporation from seawater’ (origin of -ma unknown)
  Pn:   Samoan          māsi(ma)         ‘salt’ (origin of -ma unknown)
  Pn:   Samoan          masi             ‘k.o. food made with breadfruit fermented in pit’
- Pn:   Tahitian        mahi             ‘acid, fermented, breadfruit preserved by fermenting’
+ Pn:   Tahitian        mahi             ‘acid, fermented; breadfruit preserved by fermenting’
 >
 
                                                                           The landscape     71
@@ -3210,7 +3210,7 @@ discussion is concerned chiefly with the chemistry of fire, i.e. with terms for 
 and products of burning. Cognate sets and reconstructed terms to do with human uses of
 fire were dealt with in volume 1 and most of these items will not be discussed here. The
 reconstructions presented in volume 1 (pp.143–157, 293–295) include Poc *api ‘fire’,
-*rapu(R) ‘hearth, fireplace’, *suka, *suka-i ‘make fire with fire plough’, *tutu(ŋ),*tuŋi-‘set
+*rapu(R) ‘hearth, fireplace’, *suka, *suka-i ‘make fire with fire-plough’, *tutu(ŋ),*tuŋi-‘set
 fire to, light (a fire)’, *tunu ‘roast on embers or in fire’, *sunu ‘singe’, *nasu(q) ‘boil’,
 *pa[ka]-qasu ‘cure by smoking’, *tapa ‘dry food by heat to preserve it, smoke food’,
 *raraŋ, raŋ-i ‘heat s.t. or warm oneself by fire’, *sokot-i ‘burn grass, rubbish +’, *sulu ‘dry
@@ -3296,7 +3296,7 @@ Oceanic evidence offers support for senses (i) and (less strongly) (iv).
 
 PMP *luten ‘firewood’ (ACD)
 PMP *aliten, *aluten (i) ‘firebrand’; (ii) ‘unconsumed wood in a fire’; (iii) ‘charred wood’ (ACD)
-POc *alito(n) (N) ‘firebrand, piece of burning wood’
+POc *alito(n) (N) ‘firebrand; piece of burning wood’
  NNG: Takia               yalit           ‘piece of wood with fire burning in it’
  NNG: Gedaged             yalit           ‘piece of charred wood’
  NNG: Swit                alit            ‘piece of charred wood’
@@ -7207,11 +7207,11 @@ POc *laŋit ‘sky’
  MM: Tigak            laŋit                       ‘rain’
  MM: Nehan            laŋit                       ‘sky’
  MM: Haku             laŋic                       ‘rain; sky’
- SES: Kwaio           laŋi                        ‘sky, heaven’
+ SES: Kwaio           laŋi                        ‘sky, heavens’
  SES: Arosi           raŋi                        ‘rain’
  NCV: Raga            laŋi                        ‘wind’
  NCV: Lewo            laŋi                        ‘wind’
- Mic: Marshallese     laŋ                         ‘sky, heaven; weather’
+ Mic: Marshallese     laŋ                         ‘sky, heavens; weather’
  Mic: Woleaian        raŋi                        ‘sky; typhoon, rainstorm, wind’
  Fij:  Bauan          (lomā)laŋi                  ‘sky, heavens’ (loma ‘inside’)
  Pn:   Tongan         laŋi                        ‘sky, heavens’
@@ -9950,7 +9950,7 @@ sometimes quite difficult to determine which of the two reconstructions a reflex
 example, Sursurunga matuk ‘ripe, well-developed, ready to harvest’ should be assigned to,
 and I suspect that reflexes of the two items have been conflated in some languages.
 
-   It is hard to avoid the conclusion that *tuqaRi ‘(be) long ago, take a long time, old (of
+   It is hard to avoid the conclusion that *tuqaRi ‘(be) long ago; take a long time, old (of
 inanimates)’ is historically related to *[ma]tuqa. If, as seems likely, Proto Buang *tkwi
 ‘old’ (Patep tkwe, Kapin takwi) reflects *tuqaRi, then it provides evidence for the putative
 *-q-. However, I do not know where final *-Ri comes from. There are signs that *[ma]tuqa
@@ -9983,7 +9983,7 @@ POc *[ma]tuqa ‘ripe, mature, adult, old’
  Fij:  Rotuman        mafua            ‘old’
  Pn:      Tongan            motuʔa           ‘old’
  Pn:      Samoan            matua            ‘old (person)’
-POc *tuqaRi ‘(be) long ago, take a long time, old (of inanimates)’
+POc *tuqaRi ‘(be) long ago; take a long time, old (of inanimates)’
  NNG: Ali               care-ŋ         ‘old’
  MM: Tabar              (ma)cari       ‘old’
  MM: Sursurunga         torai-n        ‘old’ (metathesised)
@@ -12322,7 +12322,7 @@ as the local sense of ‘front’. It was thus the antonym of POc *muri[-] ‘ba
 (§2.3.7).
 
 POc (N LOC) *muqa[-] ‘front’
-POc *muqa ‘front, be in front’
+POc *muqa ‘front; be in front’
 POc *|i muqa|, *qa-muqa *muqa-muqa (ADV) ‘in front, formerly’
  Yap:    Yapese             mʔōn         ‘front’
  Adm: Mussau                mua          ‘front’
@@ -13264,7 +13264,7 @@ recorded. In a number of Western Oceanic languages, ‘east’ and ‘west’ ar
 may be modern renderings of English ‘east’ and ‘west’.
 
 <
-POc *sipo ‘go downward, go northwest’
+POc *sipo ‘go downward; go northwest’
  NNG: Yabem              -sep      ‘go down, go east’
  PT:     Motu            diho      ‘south, south wind; down; go down, descend’
  NCV: NE Ambae           hivo      ‘move downward/seaward/northwestward’
@@ -14986,7 +14986,7 @@ POc *qaco ‘sun, daytime’
  NNG: Takia                ad-ad          ‘daytime’
  NNG: Kaiwa                as             ‘daytime’
  PT:      Molima         ʔasu            ‘sun’
- MM:      Nakanai        haro            ‘sun, day’
+ MM:      Nakanai        haro            ‘sun; day’
  MM:      Tigak          ias             ‘sun’
  MM:      Nalik          ias             ‘sun’
  SES:     Bugotu         aho             ‘sun’
@@ -15458,7 +15458,7 @@ POc *apaRat ‘wet season when northwesterlies blow and sea is rough’
  MM:     Tinputz          ivat            ‘strong wind’
  Fij:    Wayan            ðavā            ‘storm, strong wind bringing rain’
  Pn:     Tongan           afā             ‘hurricane, gale or very severe storm’
- Pn:     Samoan           afā             ‘storm, hurricane.’
+ Pn:     Samoan           afā             ‘storm, hurricane’
 >
 
                                                                                  Time     319
@@ -15677,7 +15677,7 @@ POc *|i burit| ‘behind, afterwards’ (p.262)
 
 9.3.2.2 ‘long ago’
 
-   It is hard to avoid the conclusion that *tuqaRi ‘(be) long ago, old (of inanimates)’ is
+   It is hard to avoid the conclusion that *tuqaRi ‘(be) long ago; old (of inanimates)’ is
 historically related to *[ma]tuqa ‘ripe, mature, adult, old’. POc *tuqaRi appears to be both
 verb and temporal adverb. The full cognate set is given on p.212, with a discussion of the
 form of the reconstruction.
