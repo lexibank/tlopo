@@ -34,10 +34,24 @@ class Dataset(BaseDataset):
         brackets={"(": ")"},  # characters that function as brackets
         separators=";/,",  # characters that split forms e.g. "a, b".
         missing_data=('?', '-'),  # characters that denote missing data.
-        strip_inside_brackets=True   # do you want data removed in brackets or not?
+        strip_inside_brackets=True,   # do you want data removed in brackets or not?
+        first_form_only=True,
     )
 
     def cmd_download(self, args):
+        from csvw.dsv import reader, UnicodeWriter
+        #select count(cldf_id) as c, cldf_languageReference, cldf_value, group_concat(cldf_description, ' / ') from formtable group by cldf_languageReference, cldf_value having c > 1 order by c;
+        rows = []
+        for i, (n, lg, wd, gl) in enumerate(reader(self.dir / "multi_forms.tsv", delimiter="\t"), start=1):
+            gls = gl.split(' / ')
+            if len(set(gls)) > 1:
+                for g in sorted(set(gls)):
+                    rows.append([n, lg, wd, g])
+        #print(i, len(rows))
+        with UnicodeWriter(self.dir / 'multi_problems.tsv', delimiter='\t') as w:
+            w.writerow(['Count', 'Language', 'Form', 'Glosses'])
+            w.writerows(rows)
+        return
         #from pytlopo.parser.refs import refs2bib
         #refs2bib(self.raw_dir.joinpath('vol2', 'references.bib').read_text(encoding='utf8').split('\n'))
         #return
@@ -267,16 +281,18 @@ class Dataset(BaseDataset):
     def local_schema(self, cldf):
         """
         Gloss
-        - id
-        - name (the gloss)
-        - comment
-        - source
         - number
-        - pos
         """
         cldf.add_columns('CognatesetTable', 'Pre_Note', 'Post_Note')
         #
-        # FIXME: CognatesetReference: fk to cognateset, fk to chapter, pre_note, post_note, ...
+        # FIXME: CognatesetReference:
+        #  fk to cognateset,
+        #  fk to chapter,
+        #  fk list to glosses (for protoforms and reflexes) relevant in this context.
+        #  fk list to reflexes to include.
+        #  pre_note, post_note, ...
+        # Problems: what about footnotes?
+        #
         #
         cldf.add_table(
             'glosses.csv',

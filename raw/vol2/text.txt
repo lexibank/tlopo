@@ -2909,7 +2909,7 @@ with, for instance, POc *buŋa ‘smooth, round coral’. The cognate sets for *
 are included in Chapter 4, §3.1.
 
    Dead coral was evidently valued as coral rubble (POc *giri-giri), and as a source of the
-lime (POc *qapu(R)), taken with betelnut.
+lime (POc *qapu(R)), taken with betel nut.
 
 <
 POc *giri-giri ‘coral, coral rubble’
@@ -2927,7 +2927,7 @@ POc *giri-giri ‘coral, coral rubble’
  Pn:    Hawaiian          ʔili-ʔili        ‘pebble’
 >
 <
-The chewing of betelnut, combined with lime and pepper as a stimulant, is widespread in
+The chewing of betel nut, combined with lime and pepper as a stimulant, is widespread in
 northwest Melanesia and the Solomons, but is not practised further east. Lime could be
 obtained by burning shells as well as coral.
 
@@ -3480,7 +3480,7 @@ possible explanation for this is that, at some stage, perhaps in PWOc, reflexes 
     In some Oceanic languages reflexes of POc *qapu ‘ashes, dust’ fell together formally
 with reflexes of *qapu(R) ‘lime’ (see §7.3 above). Because lime is a powdery substance
 (made by roasting calcerous rock, such as coral or limestone, and used in some Oceanic
-societies for ritual and decorative purposes and for consumption with betelnut) this
+societies for ritual and decorative purposes and for consumption with betel nut) this
 meaning may have been regarded as related to ‘dust’ and ‘ashes’.
 
 
@@ -15436,7 +15436,7 @@ POc *raki ‘dry season when the southeast trades blow’
  Pn:    E Uvean         laki            ‘southeast or southwest wind’
  Pn:    Pukapukan       laki            ‘southwest wind ’
  Pn:    Samoan          laʔi            ‘southwest veering to northwest’
- Pn:    Hawaiian        laʔi            ‘calm, stillness, quiet, as of sea, sky, wind’
+ Pn:    Hawaiian        laʔi            ‘calm, stillness, quiet (of sea, sky, wind)’
 >
 <
 POc *apaRat ‘wet season when northwesterlies blow and sea is rough’
