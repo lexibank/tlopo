@@ -1,0 +1,1397 @@
+Appendix B: Languages
+
+
+1 Introduction
+In §2 we list in their putative subgroups all the Oceanic languages to which we refer in this
+volume. The higher-order subgroups are those described in chapter 1, §3.2. Lower-order
+groups are drawn from the classification in Lynch et al. (2002), and in addition for Western
+Oceanic from Ross (1988), for Temotu from Ross & Ncess (2007), for Southern Oceanic
+from Lynch ( 1999, 2000, 2006), for Micronesian from Bender et al. (2003) and for Polynesian
+from Marek (2000). In §3 we provide an index to §2, followed by maps showing approximate
+locations of the languages.
+    Square brackets enclose the subgroup abbreviations used in the data. Parentheses include
+dialect names or, where an equals sign is used, an alternative name or names for the language.
+The difficulty of deciding where the borderline between dialect and language lies, combined
+with the fact that these volumes contain work by a number of contributors, has resulted in
+some inconsistency in the naming of dialects in the cognate sets. Some occur in the form 'Kara
+(East)', i.e. the East dialect of the Kara language, or 'Halia (Haku)', i.e. the Haku dialect of
+the Halia language, whilst others are represented simply by the dialect name, e.g. Iduna, noted
+in the list below as 'Iduna ( = dialect ofBwaidoga)' . Where a language has several dialects,
+these are shown below in the form 'Mumeng (Patep, Zenag, Kumaru)' , where Patep, Zenag
+and Kumaru are dialects of Mumeng.
+
+
+2 Languages by subgroups
+1. Y apese (perhaps more closely related to Admiralties than elsewhere)
+2. St Matthias [Adm] (perhaps more closely related to Admiralties than elsewhere)
+   Mussau
+3. Admiralties [Adm]
+   3 .1. Western Admiralties
+         Au a
+         Seimat ( = Ninigo)
+         Wuvulu
+   3.2. Eastern Admiralties
+         3.2.1. Manus
+                Bipi
+                Drehet ( = Ndrehet, Khehek, Levei-Tulu)
+444      Appendix B
+
+
+                    Ere
+                    Hus
+                    Kurti
+                    Leipon ( = Pitilu)
+                    Likum
+                    Loniu
+                    Nali
+                    Nyindrou
+                    Papitalai
+                    Sori-Harengan
+                    Titan
+            3.2.2. Southeast Admiralties
+                   Baluan
+                   Lenkau
+                   Lou
+                   Nauna
+                   Pak 1
+4. Western Oceanic
+      4.1. New Guinea Oceanic
+            4.1.1. North New Guinea [NNG]
+                   4.1.1.1. Schouten
+                            Ali
+                            Bam
+                            Kaiep
+                            Kairiru
+                            Kis
+                            Manam
+                            Medebur
+                            Sissano (Arop)
+                            Ulau-Suain
+                            Wogeo
+                    4.1.1.2. Huon Gulf
+                             4.1.1.2.1. North Huon Gulf
+                                        Kela
+                                        Yabem ( = Jabem)
+                               4.1.1.2.2. Markham
+                                          Adzera
+                                          Labu
+                                          Mari
+                                          Middle Watut ( = Bubwaf) North Watut ( = Unank, Onank)
+                                          Sirasira
+                                          Sukurum
+
+1
+    In volume 2 Pak is incorrectly attributed to Eastern Admiralties.
+                                                          Languages   445
+
+
+                    Wampur
+                    Yalu
+         4.1.1.2.3. South Huon Gulf
+                    Hote
+                    Kaiwa
+                    Kapin
+                    Mapos Buang ( = dialect of Buang)
+                    Misim ( = dialect of Hote)
+                    Mumeng (Patep, Zenang, Kumaru)
+         4.1.1.2.4. Numbami
+4.1.1.3. Ngero/ Vitiaz
+         4.1.1.3.1. Ngero
+                    Bariai
+                    Gitua
+                    Kove
+                    Malai
+                    Malalamai
+                    Mutu
+                    Tuam
+         4.1.1.3.2. Bel
+                    Bilibil ( = Bilbil)
+                    Bing ( = Biliau)
+                    Dami (=Ham)
+                    Gedaged
+                    Matukar
+                    Megiar ( == dialect ofTakia)
+                    Mindiri
+                    Takia
+                    Riwo ( = dialect of Gedaged)
+                    Wab
+         4.1.1.3.3. Vitiaz Strait (areal grouping only)
+                    Amara
+                    Barim
+                    Kilenge
+                    Lukep (Pono) ( = Arop-Lokep)
+                    Malasanga
+                    Mangap ( = Mangap-Mbula, Kaimanga)
+                    Mato ( = Nenaya, Nengaya)
+                    Roinji ( = Ronji, Rondi)
+                    Sio
+                    Tami
+         4.1.1.3.4. Southwest New Britain
+                    Akolet
+                    Aria
+                    Atui
+446   Appendix B
+
+
+                                  Kaulong
+                                  Mangseng
+                       4.1.1.3.5. Mengen
+                                  Kakuna ( = dialect of Mamusi)
+                                  Longeinga ( = Bush Mengen)
+                                  Maenge ( = Coastal Mengen, Poeng)
+                                  Mamusi
+                                  Uvol
+       4.1.2. Sarmil Jayapura [SJ] (perhaps part of North New Guinea)
+              4.1.2.1. Sarmi
+                       Sobei
+              4.1.2.2. Jayapura
+                       Ormu
+       4.1.3. Papuan Tip [PT]
+              4.1.3.1. Nuclear Papuan Tip
+                       4.1.3.1.1. Suauic
+                                  'Auhelawa ( = Kurada)
+                                  Suau (Daui, Kwato Suau, Saliba/Sariba)
+                                  Tubetube
+                       4.1.3.1.2. North Mainland/D'Entrecasteaux
+                                  4.1.3.1.2.1. Gumawana ( = Gumasi)
+                                  4.1.3.1.2.2. Dobu/Duau
+                                               Dobu
+                                               Duau
+                                  4.1.3.1.2.3. Bwaidoga
+                                               Bwaidoga
+                                               Diodio
+                                               Iamalele ( = Y amalele)
+                                               Iduna ( = dialect ofBwaidoga)
+                                               Kalokalo
+                                               Molima
+                                  4.1.3.1.2.4. Kakabai/Dawawa
+                                               Dawawa
+                                               Kakabai (Igora)
+                                  4.1.3.1.2.5. Are/Taupota
+                                               Are
+                                               Boanaki ( = Boianaki)
+                                               Gapapaiwa ( = Paiwa)
+                                               Maisin
+                                               Minaveha ( = Kukuya)
+                                               Taupota
+                                               Taw ala
+                                               Ubir
+                                               Wedau
+                                                               Languages   44 7
+
+
+            4.1.3.2. Kilivila/Misima
+                      Budibud
+                      Kilivila ( = Kiriwina)
+                      Misima
+                      Muyuw
+            4.1.3.3. Nimoa/Sudest
+                      Nimoa
+                      Sudest ( = Pamela), Sudest (Varavarae)
+            4.1.3.4. Central Papuan
+                      Balawaia ( = dialect of Sinaugoro)
+                      Doura
+                      Gabadi
+                      Hula ( = dialect ofKeapara)
+                      Kuni
+                      Lala ( = Nara, 'Ala'ala, Pokau)
+                      Magori
+                      Mekeo
+                      Motu
+                      Roro
+                      Taboro ( = dialect of Sinaugoro)
+4.2. M eso-M elanesian [MM]
+     4.2.1. Bali- Vitu
+            Bali
+            Vitu
+     4.2.2. Willaumez
+            Bola
+            Bulu
+            Meramera
+            Nakanai ( = Lakalai)
+     4.2.3. New Ireland/Northwest Solomonic
+            4.2.3.1. Tungag/Nalikfamily
+                      Kara (East, West)
+                      Lavongai ( = Tungak, Tungag)
+                      Nalik
+                      Tiang
+                      Tigak
+            4.2.3.2. Tabar linkage
+                      Lihir
+                      Notsi ( = Nochi)
+                      Tabar
+            4.2.3.3. Madak linkage
+                      Barok
+                      Lamasong
+                      Madak
+            4.2.3.4. Tomoip
+448   Appendix B
+
+
+             4.2.3.5. StGeorge linkage
+                      4.2.3.5.1. South New Ireland (areal grouping)
+                                 Bilur
+                                 Kandas
+                                 Konomala
+                                 Label
+                                 Minigir ( = Vinitiri)
+                                 Patpatar
+                                 Ramoaaina (=Duke ofYork)
+                                 Siar
+                                 Sursurunga
+                                 Tangga ( = Tanga)
+                                 Tolai ( = Kuanua, Raluana, Tuna), Tolai (Nodup)
+                      4.2.3.5.2. Northwest Solomonic linkage
+                                 4.2.3.5.2.1. Nehan/North Bougainville
+                                              Halia (Haku), Halia (Selau)
+                                              Nehan
+                                              Petats
+                                              Solos
+                                              Taiof
+                                              Teop
+                                              Tinputz
+                                 4.2.3.5.2.2. Piva/Banoni
+                                              Banoni
+                                 4.2.3.5.2.3. Mono-Alu/Torau
+                                              Mono-Alu
+                                              Torau
+                                              Uruava
+                                 4.2.3.5.2.4. Choiseul
+                                              Avaso
+                                              Babatana
+                                              lbrio
+                                              Sisiqa ( = Sisingga, Sengga)
+                                              Vaghua
+                                              Varisi
+                                 4.2.3.5.2.5. New Georgia
+                                              Hoava
+                                              Kubukota
+                                              Kusaghe
+                                              Lungga
+                                              Marovo
+                                              Nduke
+                                              Roviana
+                                              Simbo
+                                              Vangunu
+                                                                      Languages   449
+
+
+                                 4.2.3.5.2.6. Ysabel
+                                              Blablanga
+                                              Gao
+                                              Kia ( = Zabana)
+                                              Kokota
+                                              Maringe ( = Cheke Holo, Hograno)
+5. Southeast Solomonic [SES]
+  5 .1. Bugotul Gela/ Guadalcanal
+        5.1.1. Bugotu
+        5.1.2. Gela/Guadalcanal
+               Baegu
+               Birao
+               Gel a
+               Lengo
+               Ghari ( = Nginia)
+               Talise
+               Tolo
+               West Guadalcanal
+  5.2. Longgu/Malaita/Makira
+        5.2.1. Longgu
+        5.2.2. Malaita/Makira
+               'Are'are
+               Arosi
+               Baelelea ( = dialect ofLau)
+               Bauro
+               Dori'o
+               Pagani
+               Kahua
+               Kwaio
+               Kwara'ae
+               Lau
+               Sa'a
+               Santa Ana
+               To'aba'ita ( = Toqabaqita)
+               Ulawa
+6. Temotu [TM]
+  6.1. Reefs and Santa Cruz
+       Aiwoo ( = Reefs)
+       Nagu
+       Natiigu ( = Malo, Lodai, Nedo)
+  6.2. Utupua/Vanikoro
+       Asuboa
+       Burna ( = Teanu)
+       Nebao ( = Aba)
+450   Appendix B
+
+
+       Tanema ( = Tanima, Tetau)
+       Tanibili
+       Vano ( = Vana)
+7. Southern Oceanic
+  7.1. North Vanuatu linkage [part ofNCV]
+       7.1.1. Banks and Torres
+              Do rig
+              Hiw (= Siw)
+              Lakon
+              Lemerig ( = dialect ofMerlav)
+              Lehali
+              Loh
+              Merlav
+              Mota
+              Mwesen ( = Mosina)
+              Mwotlap ( = Motlav)
+              Vera' a ( = Vatrata)
+              Volow ( = dialect of Mwotlap)
+              Vures
+       7.1.2. Northwest Santo
+              Nokuku
+              Tasmate
+              Tolomako
+       7.1.3. Southeast Santo
+              Araki
+              A ore
+              Kiai ( = Fortsenal)
+              Morouas
+              Tamambo ( = Tamabo, Malo)
+              Tambotalo
+              Tango a
+              Wusi
+       7.1.4. Sakao
+       7.1.5. Ambae/Maewo/North Pentecost
+              Maewo
+              Nduindui ( = Ngwatua, Duidui)
+              Northeast Ambae ( = NE Aoba)
+              Raga
+  7.2. Nuclear Southern Oceanic
+       7.2.1. Central Vanuatu linkage [part ofNCV]
+              7.2.1.1. Malakula
+                       7 .2.1.1.1. East M alakula linkage
+                                   Atchin
+                                   Aulua
+                                                           Languages   451
+
+
+                             Avava
+                             Larevat
+                             Nese
+                             Port Sandwich
+                             Rerep (dialect ofUnua)
+                             Unua
+                             Uripiv
+                  7.2.1.1.2. West Malakula linkage
+                             Big Nambas ( = V'enen Taut)
+                             Naman
+                             Nati
+                             Neve'ei
+                             Labo ( = Ninde)
+                             Southwest Bay ( = Nahavaq)
+                             Tape
+        7.2.1.2. Pentecost
+                  Apma
+                  Sa
+        7.2.1.3. Ambrym/Paama
+                  Lonwolwol
+                  N Ambrym
+                  Paamese
+                  SEAmbrym
+        7.2.1.4. Epi/Efate
+                  Baki
+                  Lewo
+                  Nakanamanga ( = North Efate)
+                  Namakir ( = Namak:ura, Makura)
+                  Nguna ( = dialect ofNakanamanga)
+                  Sesake ( = dialect ofNakanamanga)
+                  South Efate
+7 .2.2. Southern Melanesian
+        7 .2.2.1. South Vanuatu [SV]
+                  Anejom ( = Aneityum)
+                  Kwamera
+                  Lenakel
+                  North Tanna
+                  South-west Tanna
+                  Sye ( = Sie, Eromangan)
+                  Ura
+                  Whitesands
+        7.2.2.2. New Caledonia [NCal]
+                  7.2.2.2.1. North New Caledonia
+                             Fwai
+                             Jawe
+452   Appendix B
+
+
+                                  Pije
+                                  Pwapwa
+                                  Nemi
+                                  Nelemwa
+                                  Nyelayu
+                                  Paid
+                                  Yuanga
+                       7.2.2.2.2. South New Caledonia
+                                  Xaracuu ( = Canala)
+                       7.2.2.2.3. Loyalties
+                                  Dehu ( = Drehu)
+                                  Iaai
+8. Micronesian [Mic]
+  8.1. Nauruan
+  8.2. Nuclear Micronesian
+       8.2.1. Kosraean ( = Kusaeian)
+       8.2.2. Central Micronesian
+              8.2 .2 .1. Kiribati ( = Kiribatese, Gilbertese)
+              8.2.2.2. Western Micronesian
+                       8.2.2.2.1. Marshallese
+                       8.2.2.2.2. Chuukic-Ponapeic
+                                  Carolinian
+                                  Chuukese ( = Trukese)
+                                  Mokilese
+                                  Mortlockese
+                                  Ponapean ( = Pohnpeian)
+                                  Pulo-Annan (dialect of Sonsorolese)
+                                  Puluwatese
+                                  Satawalese
+                                  Sonsorolese
+                                  Ulithian
+                                  Woleaian
+9. Central Pacific [Fij and Pn]
+  9 .1. Western Fijian linkage
+       9.1.1. Rotuman
+       9.1.2. Western Fijian languages
+              Ba
+              Lautoka
+              Nadroga
+              Wayan
+              Yasawa
+  9.2. Eastern Fijian/ Polynesian linkage
+                                                                   Languages   453
+
+
+9 .2.1. Eastern Fijian languages
+        Bauan ( = Standard Fijian)
+        Bua
+        Buca Bay
+        Kadavu
+        Lau
+9 .2.2. Polynesian
+        9.2.2.1. T ongic
+                 Niue an
+                 Tongan
+        9.2.2.2. Nuclear Polynesian
+                 Anutan
+                 East Uvean
+                 East Futunan
+                 Emae
+                 Pileni
+                 Pukapukan
+                 Rennellese
+                 Tikopia
+                 West Futunan ( = Futuna-Aniwa)
+                 West Uvean
+                 Ifira-Mele ( = Mele-Fila)
+                 9.2.2.2.1. Samoan/Ellicean/Eastern Polynesian
+                            9 .2.2.2.1.1. Samoan
+                            9.2.2.2.1.2. Ellicean/Eastern Polynesian
+                       A.   Ellicean
+                            Kapingamarangi
+                            Luangiua ( = Ontong Java)
+                            Nukuoro
+                            Nukuria
+                            Sikaiana
+                            Takuu
+                            Tokelauan
+                            Tuvalu ( = Ellicean)
+                       B.   Eastern Polynesian
+                            a. Rapanui ( = Easter Island)
+                            b. Central Eastern Polynesian
+                                 i.  M arquesic
+                                     Hawaiian
+                                     Mangarevan
+                                     Marque san
+                                 ii. Tahitic
+                                     Mangaia ( = dialect ofRarotongan)
+                                     Manihiki
+                                     Maori
+454   Appendix B
+
+
+                   Rarotongan
+                   Rurutu ( = Austral)
+                   Tahitian
+                   Tongarevan ( = Penrhyn)
+                   Tuamotuan
+                                                                    Languages    455
+
+
+3 Language finderlist
+Numbers refer to §2 above.
+
+'~la'ala   4.1.3.4.                      Bauro 5.2.2.
+'~re'are   5.2.2.                        BigNambas 7.2.1.1.2.
+'~uhelawa 4.1.3.1.1.                     Biliau ( = Bing) 4.1.1.3.2.
+~ba ( = Nebao) 6.2.                      Bilibil ( = Bilbil) 4.1.1.3.2.
+~dzera 4.1.1.2.2.                        Bilur 4.2.3.5.1.
+Aiwoo 6.1.                               Bing 4.1.1.3.2.
+~kolet 4.1.1.3.4.                        Bipi 3.2.1.
+~li 4.1.1.1.                             Birao 5.1.2.
+~mara 4.1.1.3.3.                         Blablanga 4.2.3.5.2.6.
+~mbrym, SE and N 7.2.1.3.                Boanaki 4.1.3.1.2.5.
+~neityum ( = ~nejom) 7.2.2.1.            Bola 4.2.2.
+~nejom 7.2.2.1.                          Bua 9.2.1.
+~nutan 9.2.2.2.                          Buang 4.1.1.2.3.
+~ore 7.1.3.                              Bubwaf ( = Middle Watut) 4.1.1.2.2.
+~pma 7.2.1.2.                            Buca Bay 9.2.1.
+~raki 7.1.3.                             Budibud 4.1.3.2.
+~re 4.1.3.1.2.5.                         Bugotu 5 .1.1.
+~ria 4.1.1.3.4.                          Bulu 4.2.2.
+~rop-Lokep (Lukep) 4.1.1.3.3.            Burna 6.2.
+~rosi 5.2.2.                             Bwaidoga 4.1.3.1.2.3.
+~suboa 6.2.                              Canala ( = Xaracuu) 7.2.2.2.2.
+~tchin 7.2.1.1.1.                        Carolinian 8.2.2.2.2.
+~tui 4.1.1.3.4.                          Chuukese 8.2.2.2.2.
+~ua 3.1.                                 Dami (=Ham) 4.1.1.3.2.
+~ulua 7.2.1.1.1.                         Daui (dialect of Suau) 4.1. 3.1.1.
+~ustral ( = Rurutu) 9.2.2.2.1.2.B.b.ii   Dawawa 4.1.3.1.2.4.
+~vaso 4.2.3.5.2.4.                       Dehu 7.2.2.2.3.
+~vava 7 .2.1.1.1.                        Diodio 4.1.3.1.2.3.
+Ba 9.1.2.                                Dobu 4.1.3.1.2.2.
+Babatana 4.2.3.5.2.4.                    Dori'o 5.2.2.
+Baegu 5.1.2.                             Dorig 7.1.1.
+Baelelea 5.2.2.                          Doura 4.1.3.4.
+Baki 7.2.1.4.                            Drehet 3 .2 .1.
+Balawaia 4.1.3.4.                        Drehu ( = Dehu) 7.2.2.2.3.
+Bali 4.2.1.                              Duau 4.1.3.1.2.2.
+Baluan 3.2.2.                            Duidui ( = Nduindui) 7.1.5.
+Bam 4.1.1.1.                             East Futunan 9.2.2.2.
+Banoni 4.2.3.5.2.2.                      East Uvean 9.2.2.2.
+Bariai 4.1.1.3.1.                        Easter Island ( = Rapanui) 9 .2.2.2.1.2.B.a
+Barim 4.1.1.3.3.                         Ellicean ( = Tuvalu) 9.2.2.2.1.2.~
+Barok 4.2.3.3.                           Emae 9.2.2.2.
+Bauan ( = Standard Fijian) 9 .2.1.       Ere 3.2.1.
+456   Appendix B
+
+
+Eromangan ( = Sye) 7.2.2.1.                 Kaulong 4.1.1.3.4.
+Pagani 5.2.2.                               Keapara (Hula) 4.1.3.4.
+Fijian (Eastern) 9.2.1.                     Kela 4.1.1.2.1.
+Fijian (Western) 9.1.2.                     Khehek ( = Drehet) 3.2.1.
+Fortsenal ( = Kiai) 7.1.3.                  l~ia 4.2.3.5.2.6.
+Futuna-Aniwa ( = West Futunan) 9.2.2.2.     Kiai 7.1.3.
+Fwai 7 .2.2.2.1.                            Kilenge 4.1.1.3.3.
+Gabadi 4.1.3.4.                             Kilivila 4.1.3.2.
+Gao 4.2.3.5.2.6.                            Kiribatese ( = Kiribati) 8.2.2.1.
+Gapapaiwa 4.1.3.1.2.5.                      Kiribati 8.2.2.1.
+Gedaged 4.1.1.3.2.                          Kiriwina ( = Kilivila) 4.1.3.2.
+Gela 5.1.2.                                 Kis 4.1.1.1.
+Ghari ( = dialect ofW Guadalcanal) 5.1.2.   Kokota 4.2.3.5.2.6.
+Gilbertese ( = Kiribati) 8.2.2.1.           Konomala 4.2.3.5.1.
+Gitua 4.1.1.3.1.                            Kosraean 8.2.1.
+Gumasi ( = Gumawana) 4.1.3.1.2.1.           Kove 4.1.1.3.1.
+Gumawana 4.1.3.1.2.1.                       Kuanua ( = Tolai) 4.2.3.5.1.
+Haku (dialect of Halia) 4.2.3.5.2.1.        Kubukota 4.2.3.5.2.5.
+Halia 4.2.3.5.2.1.                          Kukuya ( = 11inaveha) 4.1.3.1.2.5.
+Ham 4.1.1.3.2.                              Kumaru (dialect of11umeng) 4.1.1.2.3.
+Hawaiian 9.2.2.2.1.2.B.b.i                  Kuni 4.1.3.4.
+Hiw 7.1.1.                                  Kurada ('Auhelawa) 4.1.3.1.1.
+Hoava 4.2.3.5.2.5.                          Kurti 3.2.1.
+Hote 4.1.1.2.3.                             Kusaeian ( = Kosraean) 8.2.1.
+Hote 4.1.1.2.3.                             Kusaghe 4.2.3.5.2.5.
+Hula 4.1.3.4.                               Kwaio 5.2.2.
+Hus 3.2.1.                                  Kwamera 7.2.2.1.
+Iaai 7.2.2.2.3.                             l~wara'ae 5.2.2.
+Iamalele 4.1.3.1.2.3.                       Kwato Suau 4.1.3.1.1.
+Iduna 4.1.3.1.2.3.                          Label 4.2.3.5.1.
+Ifira-11ele 9.2.2.2.                        Labo 7.2.1.1.2.
+Jabem ( = Yabem) 4.1.1.2.1.                 Labu 4.1.1.2.2.
+Jawe 7 .2.2.2.1.                            Lakalai ( = Nakanai) 4.2.2.
+Kadavu 9.2.1.                               Lakon 7 .1.1.
+Kahua 5.2.2.                                Lala 4.1.3.4.
+Kaiep 4.1.1.1.                              Lamasong 4.2.3.3.
+Kaimanga 4.1.1.3.3.                         Larevat 7.2 .1.1.1.
+Kairiru 4.1.1.1.                            Lau 9.2.1.
+Kaiwa 4.1.1.2.3.                            Lau 5.2.2.
+Kakabai 4.1.3.1.2.4.                        Lautoka 9.1.2.
+Kakuna 4.1.1.3.5.                           Lavongai 4.2.3.1.
+Kalokalo 4.1.3.1.2.3.                       Lehali 7 .1.1.
+Kandas 4.2.3 .5.1.                          Leipon 3.2.1.
+Kapin 4.1.1.2.3.                            Lemerig 7.1.1.
+Kapingamarangi 9 .2.2.2.1.2.A               Lenakel 7.2.2.1.
+Kara (East, West) 4.2.3.1.                  Lengo 5.1.2.
+                                                                Languages   457
+
+
+Lenkau 3.2.2.                           Mele-Fila ( = Ifira-Mele) 9.2.2.2.
+Levei-Tulu ( = Drehet) 3.2.1.           Mengen, Bush ( = Longeinga) 4.1.1.3.5.
+Lewo 7.2.1.4.                           Mengen, Coastal ( = Maenge) 4.1.1.3.5.
+Lihir 4.2.3.2.                          Meramera 4.2.2.
+Likum 3.2.1.                            Merlav 7.1.1.
+Lodai ( = Natiigu) 6.1.                 Middle Watut 4.1.1.2.2.
+Loh 7.1.1.                              Minaveha 4.1.3.1.2.5.
+Longeinga ( = Bush Mengen) 4.1.1.3.5.   Mindiri 4.1.1.3.2.
+Longgu 5.2.1.                           Minigir 4.2.3.5.1.
+Loniu 3.2.1.                            Misim ( = dialect of Hote) 4.1.1.2.3.
+Lonwolwol 7.2.1.3.                      Misima 4.1.3.2.
+Lou 3.2.2.                              Mokilese 8.2.2.2.2.
+Luangiua 9 .2.2.2.1.2.A                 Molima 4.1.3.1.2.3.
+Lukep (Pono) 4.1.1.3.3.                 Mono-Alu 4.2.3.5.2.3.
+Madak 4.2.3.3.                          Morouas 7.1.3.
+Maenge ( = Coastal Mengen, Poeng)       Mortlockese 8.2.2.2.2.
+4.1.1.3.5.                              Mosina(= Mwesen) 7.1.1.
+Maewo 7.1.5.                            Mota 7.1.1.
+Magori 4.1.3.4.                         Motlav ( = Mwotlap) 7.1.1.
+Maisin 4.1.3.1.2.5.                     Motu 4.1.3.4.
+Makura ( = Namakir) 7.2.1.4.            Mumeng 4.1.1.2.3.
+Malai 4.1.1.3.1.                        Mussau 2. Mutu 4.1.1.3.1.
+Malalamai 4.1.1.3.1.                    Muyuw 4.1.3.2.
+Malasanga 4.1.1.3.3.                    Mwesen 7.1.1.
+Malo ( = Natiigu) 6.1.                  Mwotlap 7 .1.1.
+Malo(= Tamambo) 7.1.3.                  Nadroga 9.1.2.
+Mamusi 4.1.1.3.5.                       Nagu 6.1.
+Manam 4.1.1.1.                          Nahavaq ( = Southwest Bay) 7.2.1.1.2.
+Mangaia 9.2.2.2.1.2.B.b.ii              Nakanai 4.2.2.
+Mangap 4.1.1.3.3.                       Nakanamanga 7.2.1.4.
+Mangarevan 9.2.2.2.1.2.B.b.i            Nali 3.2.1.
+Mangseng 4.1.1.3.4.                     Nalik 4.2.3.1.
+Manihiki 9.2.2.2.1.2.B.b.ii             Namakir ( = Namakura, Makura) 7.2.1.4.
+Maori 9 .2.2.2.1.2.B.b.ii               Namakura ( = Namakir) 7.2.1.4.
+Mapos Buang 4.1.1.2.3.                  Naman 7.2.1.1.2.
+Mari 4.1.1.2.2.                         Nara 4.1.3.4.
+Maringe ( = Cheke Holo, Hograno)        Nati 7.2.1.1.2.
+4.2.3.5.2.6.                            Natiigu 6.1.
+Marovo 4.2.3.5.2.5.                     Nauna 3.2.2.
+Marquesan 9.2.2.2.1.2.B.b.i             Nauruan 8.1.
+Marshallese 8.2.2.2.1.                  Ndrehet ( = Drehet) 3.2.1.
+Mato 4.1.1.3.3.                         Nduindui 7.1.5.
+Matukar 4.1.1.3.2.                      Nduke 4.2.3.5.2.5.
+Medebur 4.1.1.1.                        Nebao 6.2.
+Megiar 4.1.1.3.2.                       Nedo ( = Natiigu) 6.1.
+Mekeo 4.1.3.4.                          Nehan 4.2.3.5.2.1.
+458   Appendix B
+
+
+Nelemwa 7 .2.2.2.1.                           lPonapean 8.2.2.2.2.
+Nemi 7.2.2.2.1.                               lPono ( = Lukep) 4.1.1.3.3.
+Nenaya ( = Mato) 4.1.1.3.3.                   lPort Sandwich 7.2.1.1.1.
+Nengaya(= Mato) 4.1.1.3.3.                    lPukapukan 9.2.2.2.
+Nese 7.2.1.1.1.                               lPulo-Annan 8.2.2.2.2.
+Neve'ei 7.2.1.1.2.                            lPuluwatese 8.2.2.2.2.
+Nginia ( = Ghari, dialect of W Guadalcanal)   lPwapwa 7 .2.2.2.1.
+5.1.2.                                        Raga 7.1.5.
+Nguna 7.2.1.4.                                Raluana ( = Tolai) 4.2.3.5.1.
+Ngwatua ( = Nduindui) 7.1.5.                  Ramoaaina ( = Duke of York) 4.2.3.5.1.
+Ninde(= Labo) 7.2.1.1.2.                      Rapanui 9.2.2.2.1.2.B.a
+Ninigo ( = Seimat) 3.1.                       Rarotongan 9.2.2.2.1.2.B.b.ii
+Niuean 9.2.2.1.                               Reefs ( = Aiwoo) 6.1.
+Nochi ( = Notsi) 4.2.3.2.                     Rennellese 9.2.2.2.
+Nodup (dialect ofTolai) 4.2.3.5.1.            Rerep 7.2 .1.1.1.
+Nokuku 7.1.2.                                 Ririo 4.2.3.5.2.4.
+North Ambrym 7.2.1.3.                         Riwo 4.1.1.3.2.
+North Efate ( = Nakanamanga) 7.2.1.4.         Roinji 4.1.1.3.3.
+North Tanna 7.2.2.1.                          Rondi ( = Ronji) 4.1.1.3.3.
+North Watut 4.1.1.2.2.                        Ronji ( = Roinji) 4.1.1.3.3.
+Northeast Ambae ( = NE Aoba) 7.1.5.           Roro 4.1.3.4.
+Northeast Aoma ( = NE Ambae) 7.1. 5.          Rotuman 9.1.1.
+Notsi 4.2.3.2.                                Roviana 4.2.3.5.2.5.
+Nukuoro 9.2.2.2.1.2.A                         Rurutu 9 .2.2.2.1.2.B. b.ii
+Nukuria 9.2.2.2.1.2.A                         Sa 7.2.1.2.
+Numbami 4.1.1.2.4.                            Sa'a 5.2.2.
+NyeHlyu 7 .2.2.2.1.                           Sakao 7.1.4.
+Nyindrou 3.2.1.                               Saliba (dialect ofSuau) 4.1.3.1.1.
+Onank ( = North Watut) 4.1.1.2.2.             Samoan 9.2.2.2.1.1.
+Ontong Java ( = Luangiua) 9 .2.2.2.1.2.A      Santa Ana (dialect ofKahua) 5.2.2.
+Ormu 4.1.2.2.                                 Sariba ( = Saliba, dialect of Suau)
+Paamese 7.2.1.3.                              4.1.3.1.1.
+Paid 7 .2.2.2.1.                              Satawalese 8.2.2.2.2.
+Paiwa ( = Gapapaiwa) 4.1.3.1.2.5.             Southeast Ambrym 7.2.1.3.
+Pak 3.2.2.                                    Seimat 3.1.
+Papitalai 3.2.1.                              Selau (dialect ofHalia) 4.2.3.5.2.1.
+Patep (dialect ofMumeng) 4.1.1.2.3.           Sengga ( = Sisiqa) 4.2.3.5.2.4.
+Patpatar 4.2.3.5.1.                           Sesake (dialect ofNakanamanga) 7.2.1.4.
+Penrhyn ( = Tongarevan) 9.2.2.2.1.2.B.b.ii    Siar 4.2.3.5.1.
+Petats 4.2.3.5.2.1.                           Sie (= Sye) 7.2.2.1.
+Pije 7.2.2.2.1.                               Sikaiana 9.2.2.2.1.2.A
+Pileni 9.2.2.2.                               Simbo 4.2.3.5.2.5.
+Pitilu ( = Leipon) 3.2.1.                     Sinaugoro (Balawaia, Taboro) 4.1.3.4.
+Poeng(= Maenge) 4.1.1.3.5.                    Sio 4.1.1.3.3.
+Pohnpeian ( = Ponapean) 8.2.2.2.2.            Sirasira 4.1.1.2.2.
+Pokau 4.1.3.4.                                Sisingga ( = Sisiqa) 4.2.3.5.2.4.
+                                                                    Languages   459
+
+
+Sisiqa ( = Sisingga, Sengga) 4.2.3.5.2.4.   Tolai 4.2.3.5.1.
+Sissano (Arop) 4.1.1.1.                     Tolo 5.1.2.
+Siw ( = Hiw) 7.1.1.                         Tolomako 7.1.2.
+Sobei 4.1.2.1.                              Tomoip 4.2.3.4.
+Solos 4.2.3.5.2.1.                          Tongan 9.2.2.1.
+Sonsorolese 8.2.2.2.2.                      Tongarevan 9.2.2.2.1.2.B.b.ii
+Sori-Harengan 3.2.1.                        Toqabaqita ( = To'aba'ita) 5.2.2.
+South Efate 7.2.1.4.                        Torau 4.2.3.5.2.3.
+Southeast Ambrym 7.2.1.3.                   Trukese ( = Chuukese) 8.2.2.2.2.
+Southwest Tanna 7.2.2.1.                    Tuam 4.1.1.3.1.
+Southwest Bay ( = Nahavaq) 7.2.1.1.2.       Tuamotuan 9 .2.2.2.1.2.B. b.ii
+Suau 4.1.3.1.1.                             Tubetube 4.1.3.1.1.
+Sukurum 4.1.1.2.2.                          Tuna ( = Tolai) 4.2.3.5.1.
+Sursurunga 4.2.3.5.1.                       Tungag ( = Lavongai) 4.2.3.1.
+Sye 7.2.2.1.                                Tungak ( = Lavongai) 4.2.3.1.
+Tabar 4.2.3.2.                              Tuvalu 9.2.2.2.1.2.A
+Taboro 4.1.3.4.                             Ubir 4.1.3.1.2.5.
+Tahitian 9 .2.2.2.1.2.B.b.ii                Ulau-Suain 4.1.1.1.
+Taiof 4.2.3.5.2.1.                          Ulawa 5.2.2.
+Takia 4.1.1.3.2.                            Ulithian 8.2.2.2.2.
+Takuu 9.2.2.2.1.2.A                         Unank ( = North Watut) 4.1.1.2.2.
+Talise 5.1.2.                               Unua 7.2.1.1.1.
+Tamabo (= Tamambo) 7.1.3.                   Ura 7.2.2.1.
+Tamambo (= Tamabo, Malo) 7.1.3.             Uripiv 7.2.1.1.1.
+Tambotalo 7.1.3.                            Uruava 4.2.3.5.2.3.
+Tami 4.1.1.3.3.                             Uvol 4.1.1.3.5.
+Tanema 6.2.                                 V'enen Taut (=Big Nambas) 7.2.1.1.2.
+Tanga ( = Tangga) 4.2.3.5.1.                Vaghua 4.2.3.5.2.4.
+Tangga 4.2.3.5.1.                           Vana ( = Vano) 6.2.
+Tangoa 7.1.3.                               Vangunu 4.2.3.5.2.5.
+Tanibili 6.2.                               Vano 6.2.
+Tanima ( = Tanema) 6.2.                     Varisi 4.2.3.5.2.4.
+Tape 7.2.1.1.2.                             Vatrata ( = Vera'a) 7.1.1.
+Tasmate 7.1.2.                              Vera'a 7.1.1.
+Taupota 4.1.3.1.2.5.                        Vinitiri ( = Minigir) 4.2.3.5.1.
+Tawala 4.1.3.1.2.5.                         Vitu 4.2.1.
+Teanu ( = Burna) 6.2.                       Volow 7.1.1.
+Teop 4.2.3.5.2.1.                           Vures 7.1.1.
+Tetau ( = Tanema) 6.2.                      Wab 4.1.1.3.2.
+Tiang 4.2.3.1.                              Wampur 4.1.1.2.2.
+Tigak 4.2.3.1.                              Watut, North 4.1.1.2.2.
+Tikopia 9.2.2.2.                            Wayan 9.1.2.
+Tinputz 4.2.3.5.2.1.                        Wedau 4.1.3.1.2.5.
+Titan 3.2.1.                                West Futunan 9.2.2.2.
+To'aba'ita 5.2.2.                           West Guadalcanal 5.1.2.
+Tokelauan 9.2.2.2.1.2.A                     West Uvean 9.2.2.2.
+460   Appendix B
+
+
+Whitesands 7.2.2.1.   Yalu 4.1.1.2.2.
+Wogeo 4.1.1.1.        Yamalele (= Iamalele) 4.1.3.1.2.3.
+Woleaian 8.2.2.2.2.   Yap 1.
+Wusi 7.1.3.           Yasawa 9.1.2.
+Wuvulu 3.1.           Yuanga 7.2.2.2.1.
+Xaracuu 7.2.2.2.2.    Zabana ( = Kia) 4.2.3.5.2.6.
+Yabem 4.1.1.2.1.      Zenag (dialect ofMumeng) 4.1.1.2.3.
+                                                  147°                                                                                  148°
+
+
+                                      <:;:::,
+                                                        c::,           Hus
+        Sori-Harengan                                                   0
+                                                                             Leipon
+                 ol0                                                            =          "'a       Los Negros I.
+
+                                                                                          ~'' '"' ' ~ O rang/.
+                                                                                                                                        0
+
+                               Drehet                                                                                                                      20
+
+                             MANUS ISLAND                                                 0-------J              Pak
+ c:>a                                                                                     Loniu         Pak f.
+Bipi                                                                   Ere   Nali
+                                                               Titan
+                                                                                ooTitan                                Titan°~\S                       0
+                                                                                      Ndrowa Is.                                               Nauna
+
+
+
+                                 0
+
+                          Titan ()
+                                     Mbukels.                                             0,u
+                                                                                                                      Lenk~butyo         I.
+                                                                        a
+                                                                                                 0
+
+
+                                                                                           0
+
+
+                                                                                       O Baluan
+                                                                                                                  0                20       40 kms
+
+
+
+
+                                                Map 5          Locations of Admiralties (Adm) languages                                                          t"-<
+                                                                                                                                                                 >::>
+                                                                                                                                                                 ;::;;
+                        (for Wuvulu, Aua and Seimat, see Map 6; for Mussau, Emira and Tench, see Map 7)                                                         Oo
+                                                                                                                                                                ;;:::
+                                                                                                                                                                 >::>
+                                                                                                                                                                Oo
+                                                                                                                                                                 ~
+
+                                                                                                                                                                 +:>.
+                                                                                                                                                                 0\
+                                                                                                                                                                 ......
+                                                             o Aua           oSeimat
+         Sobei                                             o Wuvulu                             (See Map 1) ~       .!>
+
+                                                                                                                ~
+
+                                                                                                                                                                               0
+                                                                                   Vjogeo                                                                                     \l
+                                                                                    • ' .Bam
+                                                                                                North New Guil7ea                                                                      ""'
+                                                                                                                                                                                             <J"
+
+                                                                                                                                                                                                         ~
+
+
+
+                                                                                                                                                                                                   so
+
+
+
+                                                             North New Guinea
+                                                            A. Amara  MB. Mapos Buang
+                                                            H. Hote   NW. North Watut                                                                              Papuan Tip
+                                                            K. Kapin  S. Sirasira                                                                                1 Are       VI Gapapaiwa
+                                                            M. Mumeng W. Wampur                                                                                 ll Kalokalo Vll Boanaki
+                                                                                                                                                               III Minaveha VIII Kakabai
+                                                                                                                                                               IV Molima     IX lamalele
+                                                                                                                                                                v Diodio
+
+
+                                                                                                                                                                             ~          ;;udibud
+                                                   Lukep
+                                                                                                                                       ,.-o'. ~<:>~-o• oGumawana
+                                            o (Pono)
+                                                                               Kilenge                                       ~<;t ~ ~Jg•1 >i'-.                               Muyuw
+
+                                             ~               a                0                                              ~tr nr v~o~u
+                                                                                                                                \Nf'     ~?>~ ~'1."~> ~Duau
+                                                                    ~
+                                                                               "?>~
+                   ~~\'                                                       ~"                                               vn,~'\-o~     ·lAuhelawa
+                                                                                                                                                                                                   10°
+
+                 *~~ ~,<~o~ ~j                                                                                                  VJII 'fawala
+                                                                                                                                                                                   Misima
+                             ~?> ~
+                                                                 Bar"           ·Mutu                                               'Suau .....-b~ ) ubetube             0   "'=':?
+                              ~<:>(!.~ . ··~ ----~                      Malai · 'Tuam
+                          '-~~~   ~'='~\-o'l.'='                                                                                                                               • ••~imoa
+Q:l                                                                                                                                                                                   ~I
+                                                                                                                                                                                   Sudest~ ~
+                                                                                                 0                  250 km
+.:::s                                                                                                                               Papuan Tip
+'"\:l
+  ::::
+  I<)
+                                                                                         145°                                     150°
+
+ ~
+-.:t::
+0l
+\0
+-.::t             Map 6 Locations of languages ofthe North New Guinea (NNG) and Papuan Tip (PT) clusters
+                                                                                                         Meso-Melanesian
+                  Mussau                                                                                 1 Ramoaaina       5 Taiof
+                 C0c                    0                                                                2 Minigir         6 Babatana
+                                                                                                         3 Bilur           7 Kubukota
+    StA1atthias                                                                                          4 Label           8 Lungga
+                             avongai
+                       u·,                  Tigak        olabar ,
+                              .,   2Ka~alik
+                                    """" ~-::Nots1
+                                                  .0     \:J         , L"lhir
+
+                                                    ~-La(llasonyv
+                                                                   .(1
+                             Jiang                                     "'Tangga
+                                                     Madak           o
+                                                           ~Patpatar
+                                                                    ' Sursurunga <Jo                           ~U'a ,
+      o
+           • CoVitu
+          Bali                     Merap            ~   0'-~
+                                                           1, )nomala
+                                                              Kandas
+                                                               /           !.
+                                                                         \ v)lar
+                                                                                       • Nehan
+                                                                                       ~
+
+
+
+                                                                                            Halia
+                                                                                                                   ~~~/).
+                                                                                                                                                                  so
+                               Nakana·              Jomoi~
+                                                                                       Solo0:                                          <9&.
+                                                                                       PetatN~_utz
+                                                                                           5 J        'leop                              ~/)
+
+                                                                                                                         Vaghua
+                                                                                                                   [?
+                                                                                                                      va~isi ' Ririo
+                                                                                                                          6
+                                                                                                               6              Sisiqa
+
+
+0                                           250 km                                                            oMono:f'luS:tOAv::,:,~ ~~~ala~langa
+                                                                                                                    (';pVj       ~oava
+                                                                                                                    \ ISIJ Roviana  Marovo                   ar~eGtio    t"-<
+                                                                                                                                                                         >::>
+                                                                                                                                                                         ;::;;
+                                                                                                                   Simbo ----------x:l"-.,~
+                                                                                                                                                                        Oo
+                                            oj                                                                                                Vangunu                   ;;:::
+                                                                                                                                                                         >::>
+                                                                                                                                   ~"Z ~                                Oo
+                                                                                                                                                                         ~
+                                              0
+
+                      150°
+                       I            o
+                                        0
+                                                                   u                             155°
+                                                                                                  I
+                                                                                                                                                        q,
+                                                                                                                                                                         +:>.
+                                                                                                                                                                         0\
+                                                                                                                                                                         w
+          Map 7            Locations of languages of the Meso-Melanesian (MM) cluster and the St Matthias group
+                                                                                                               100                     200
+
+
+                                                                                                             Kilometres
+
+                                                                         Mala ita
+                                     o      Florida Is.
+
+        Russel/Is~       Savo            D          Gela
+                     a          0                 22;,
+
+                                                                                       ramasike
+                         West Guadalcanal           Lengo
+
+                                              Malango
+
+                                         Talise Birao
+                                - - - - -:.:.:Tolo
+                                                            Longgu
+
+                                                                0
+                                                                             ~
+                                                                             J
+                                                                              r
+                                                                              Ja a
+                                                                                  '
+                                                                                      Lau
+
+                                                                                                  (l
+                                                                                                  \J Ulawa
+                                                                                                                                       1Q O-
+
+                                Guadalcanal
+                                                                                                   b
+
+
+                                                                                            Q      \)
+
+
+                                                                        Makira                    Bauro
+                                                                     (St Cristobal)                                       Sant/1 Ana
+                                                                                                                          0
+Q::)
+-~                                           160°
+~
+ :;::                                         I
+ ~
+
+ §:                       Map 8          Locations of Southeast Solomonic (SES) languages
+~
+
+
+""""
+1.0
+
+""""
+                                                                                                                                                                   /'10              50              100 km
+                                                                                                                                                                                                                                  Pileni
+                                                                                                                                                                                                                                           .
+                                                                                                                                                                                                                                           0
+                                                                                                                                                                                                                                               o
+                                                                                                                                                               I
+                                                                                                     Nauru ·•: -.                                     1-_, ;
+                         StMatthias                                                                                                                       I               '--'            v
+                         co_ group                                                                                                                    I                                          Reef Is
+                                                                                                                                                                                          ~ ~-Aiwoo
+                                                                                                                                                  I
+          c=o- ·;
+
+                          ~'w~
+                             - ~?o:
+Manus I. ·                                                                                                                                                                       0
+
+
+            . . - :''"~;'j' .'
+                                                                                                                                         I
+                                                                                                                                     I                                    Natugu
+      0                                                                                                                                                                          /\~ Santa Cruz
+
+
+                                                ~
+                '0~w8rftam                            ugainvil/e                                                                                                                 ~ Nagu
+
+
+
+                                                                                                        o-
+                                                                       •                                           /           I
+                                                                                                                           I
+                                                           Choiseul
+
+                                                   _,, ~- "'!""'"''"'''soLOMON I~·
+ PAPUA NEW GUINEA                                                                                              1
+
+
+
+
+                                                         ~·~ ~~~,
+                                                                                                           1
+
+
+                                               NewGeorgia ~~-      •  \\ Malaita                           ·. ,
+                                                                                                                                                                                               Nebao 0 Tanibili
+
+                                       ~                                      ~                                                                                                                Asu boao- Utupua
+                                                  9
+                                      "D          roup                   •,       .                         CR
+
+                                                  ~       Guadalcanal       ,Maktrab I)                                •
+                                      ····~=                                      (St Cnsto a                              "                                                                                  Vano ~Burna
+                                                         <             ·~
+
+                                                                                                                                                                                                              Tanema                 Vanikoro
+
+                                                               "" /I/                                 Torres Is. \
+                                                                                                         Espiritu
+                                                                                                         santo\j "'~ VANUATU
+                                                                                                                                    . - - - ..... ,o
+                                                                                                                                     v0·~anks Is. - ~--------------------------------------------I
+
+                                                                                  ~
+                                                                                                                                   A rentecost
+                                                                                      S'                 Malakulu w<'>                                                                                  .~(,-:
+                                                                                            /
+                                                                                                                                             ~'
+                                                                                                                                             G Efate
+                                                                                                                                                                                                     ·:o·'
+                                                                                                                                                                                                      •
+
+
+
+
+                                                                                                                                                                                                       .
+                                                                                                                                                                                                          ?
+
+                                                                                                                                                                                                             ··'...- .
+                                                                                                                                                                                                                   .......
+
+
+                                                                                                                                                                                                                         '
+                                                                                                                                                                                                                             .     0 ...
+
+
+
+
+                                                                                                                                         cfrromango                                           FIJI
+                                                                                                       "" <o}
+                                                                                                                                                                                                              4"
+                                                                                                .,                                  Tanna e:; •
+                                                                                                 •,~.Ou vea                                                   oAneityum                                                                            20°
+                                                                                                                                   ~i~ou              .
+                                                                                                                           Q-0- r:fr1ore
+                                                                                         NEW                                        1:
+  0            250        500
+                                                                                      CALEDONIA                                ' /ie des Pi~s
+            Kilometres                                                                                                                                                                                                                                    t"-<
+                                                                                                                                                                                                                                                          >::>
+                                                                                                                                                                                                                                                          ;::;;
+                                                                                                                                                                                                                                                         Oo
+                                                                                                                                                                                                                                                         ;;:::
+                                           D                               160°                                                                                170°                                                              180°                     >::>
+                                                                                                                                                                                                                                                         Oo
+                                                                                                                                                                                                                                                          ~
+                                                 Map 9 Locations of Temotu (TM) languages and Pileni                                                                                                                                                      +:>-
+                                                                                                                                                                                                                                                          0\
+                                                                                                                                                                                                                                                          Vl
+466   Appendix B
+
+
+
+
+             166°                QHiw
+                                  0 Loh
+                    Torres Is. 0 0
+
+
+                                      Vanua Lava
+
+
+                                                          LakrnJ             .
+                                                            L- Do rig o Lemeng
+                                                      Gaua                   = Merlav
+                                                                   Do rig
+
+                                          Espiritu
+                                           Santo
+                             Nokuku             (\                                ~
+                              Tas~ate TolomaKo
+                                           ~}akao1                                  Maewo
+
+                                          Morouas                Nduind~ae Maewo
+                                          Kiai     Tambotalo
+                                                  _j~                ~ ~
+                                            Ta goa cAo'fe                             Raga
+                                            Araki CT'amambo                           Apma
+                                                      n                               Pentecost
+                                                  Nese Atchin                         5
+                                                    _;
+                                             Big Nam~     l\J~iv Naman                 a                                      16°
+                                               Tape LarevaNunua Lonwolwo0
+                                                    Neve'el     :--   "- I c~•
+                                                         ( AvavaAulua   ~mbl}'m
+                          Ma/ekula                     Labo Nati Uort       o Paamese
+                                                      SW B~andwKh              0
+
+                                                                                 B~Lewo
+                                                                             Epi~
+                                                                                                       0       Shepherd Is.
+                                                                                                           0
+                                                                                 Emae0                 a· ~
+                                                                                  Sesake       0       §:-~
+                                                                                               o""'-.;
+                                                                                  Nguna ~
+                                                                                           0       0
+
+
+
+
+       0                50                      100                                QEfate
+
+                    Kilometres
+
+
+            Map 10           Locations ofNorth/Central Vanuatu (NCV) languages
+                      I                                                                                             I
+                  164°                                                   166°                                  168°                                     170°
+                                                                                                                                       ura
+0                         50
+                          I
+                                Kilometres
+                                             100                   150
+                                                                                                                                       Gb    e
+                                                                                                                                                 Erromanga
+
+
+                                                                                                                                   NTanna      oAniwa
+                                                                                                                           Tan na Lenakel Vvhitesands
+    \::)                                                                                                                          SWTarina-.Kwamera   0 Futuna
+           \j
+                                                                                                                                                               20° -
+
+
+
+                                                                                                         ~
+                0 D   C)~"
+                         ~(<>~,                                                                          Stot;t/;1/.:              Aneityu m @lejom
+                          ~~~
+                 Nelemwa Yuanga ~"                   ..                              {:~vea           %~rca;~dnftrf/Jt;att;
+                                                                                                                     .
+                               '-~ Jawe       .Fwa1
+                                                ......._                        0
+                                                                                    . L J IUUI
+                                                                                                                        Vfl!q
+
+                                                                                                        ifou
+                                                                                                 ~
+                                          Nem1 Pije
+                                Pwapwa                                                           u
+                                                                                                               Cl
+                                                           Paici
+
+
+
+
+                                            NEW
+                                                                                                              u                 Mare
+                                                                                                                                                               22° -
+                                         CALEDONIA
+
+                                                                                                                                                                        t"-<
+                                                                                         C2          ~ 1/e des Pins
+                                                                                                                                                                        >::>
+                                                                                                                                                                        ;::;;
+                                                                                                                                                                       Oo
+                                                                                                                                                                       ;;:::
+                                                                                                                                                                        >::>
+                                                                                                                                                                       Oo
+                                                                                                                                                                        ~
+
+                                                                                                                                                                        +:>.
+                                                                                                                                                                        0\
+                      Map 11             Locations of Southern Vanuatu (SV) and New Caledonia (NCal) languages                                                          --.1
+                                               0                                                                                              0                                                                0
+                                         140                                                                                            160                                                              180
+
+
+
+
+                                                                                                                                                                                                                     0
+                                                                                                                                                                                                                   20 -
+
+                                                                 • Carolinian
+                                                                                                                                 Nuclear Micronesian
+                                                                     Carolinian
+
+
+
+
+                                                                               ~
+                                               Ulithian                    ~
+                                                                                                 ~
+                               Yapese.                                    ~                 ~                                    <::-         •..
+                                                                       q.:::         ~ ·
+                                                                                        ~            Chuukese                    ~
+                                                                                                                            ~                                            ·: Marshallese
+                                                          Woleaian                 <:<.""
+                                                                                                                         <:<.~       • Mokilese
+
+                                                                                                       • Mortlockese                                                ·:     ...
+                                                                                                                                                    • Kosraean
+                 Sonsorolese                                                                         Nukuoro
+                                                                                                                                                                                 .·
+                                                                                                                                                                                 : Kiribati
+                                                                                                                    Kapingamarangi
+
+             0
+                                                                                                                                                        Nauruan •
+         a                     =                                     =                      Cl
+                                                                                                               Nukuria
+
+
+                                                                     ""~~
+Q::)
+                                                                                                                         Takuu
+-~
+~
+ :;::                                                                                                                                                                                         • Tuvalu
+  ~                                                                                                                                     Luangiua
+ §:
+~
+
+00
+1.0
+-.::1"
+                  Map 12       Locations ofYapese, Nauman, Nuclear Micronesian (Mic) and some Polynesian (Pn) languages
+~          "Luangiua                                                                                                                                                                                                                    A
+                                                                · Tuvaluan
+    ~          s·k.                                                                                                                                                                                                                 Hawaiian
+    ''.0. ~ t\ I .alana ·Pileni                                                                                                                                    . Tokelauan                    Tongarevan
+          ~~                    ·.               . Anutan
+                                                                                                         Pukapukan                                                                                            Mam·h·k·                                                        Marquesan
+            <;:::;:,.
+                                            . Tikopia                                        East            •                                                                                                     11
+                                                                                      East  Uvean
+    Rennellese                                       Rotuman ·
+                                . ·..                                               Futunan       ~:m.~an
+                                                                                                                                                                                                                                                           . ...·
+                                Ibn
+
+                                                           (g ---.- -----------
+                                                                                                                                                                                                                                                           ••       • •       0
+                                                                                                                                                                                                                                                           •    0         0           0   •        •       •
+
+
+                                 '\>•
+                            Emae a                                                                                                                                                                                                           • •o
+                                                                                                                                                                                                                                                                    ··:···.·.
+                                                                                                                                                                                                                                    Tahitian                                      Tuamotuan.
+              lfira-Mele                "
+                                             -West                                                                                  -......·,: ' Niuean                                            - ---                                                                                                                              20°
+                                            • Futunan                                            .                                 :;' Tongan                                                                      .- • ·. Rarotongan
+                          ~Qo                               \
+                                                                I
+                                                                    I
+                                                                                                ,.
+
+                                                                                                                                                                                                                           --
+                        West                                            I                                                                                                                                                                            __ . Rurutu                                               Mahgarevan
+                        Uvean
+                                                                            I
+
+                                                                                I
+                                                                                                                                                                                                                                                           --
+                                                                                    I
+                                                                                                                                                                                                                                                                                              "'
+                                                                                                                                                                                                      VanuaLev~
+                                                                                                                                                                                I
+                                                                                        I
+                                                                                            I
+                                                                                                                                                                                                                                                                                                       I                    Rapanui   ~
+                                                                                                I
+                                                                                                 .1"                                                                                                      Bua~~aBay
+                                                                                                                                                                                           /                                             ~~'
+                                                                                                       I
+                                                                                                           I
+                                                                                                               I                                                       . /'               J Yasawa        "
+                                                                                                                                                                                                                                                       .
+                                                                                                                   I
+                                                                                                                       I                                            W yan 11
+                                                                                                                                                                                                                        . D                                     . '}f
+
+                                                                                                                           I
+                                                                                                                               I
+                                                                                                                                   I
+                                                                                                                                       I
+                                                                                                                                                                                    Lautoka
+                                                                                                                                                                                      ~
+                                                                                                                                                                                              Viti Levu
+                                                                                                                                                                                                              Bauan
+                                                                                                                                                                                                                     p"'   .    ~
+                                                                                                                                                                                                                                                           D
+                                                                                                                                                                                                                                                                <<7
+                                                                                                                                                                                                                                                                      .
+                                                                                                                                                                                                                                                                                  ~
+
+
+
+
+                                                                                                                                                                                                                                                                                  ~
+                                                                                                                                                                                                                                                                                              ,.
+                                                                                                                                           I
+                                                                                                                                               I                                       Nad~                                 ~
+                                                                                                                                                                                                                                                                                  0
+                                                                                                                                                   I
+                                                                                                                                                       I
+                                                                                                                                                                                              ~
+                                                                                                                                                                                                      D
+                                                                                                                                                                                                                                                                                               -I                                     40°
+                                                                                                                                                           I                                                                            <J
+                                                                                                                                                               I
+                                                                                                                                                                                                              Cl
+
+                                                                                                                   ~
+                                                                                                                                                                    I
+                                                                                                                                                                        I
+                                                                                                                                                                            I                        q,davu
+                                                                                                                                                                                                     ,n•
+                                                                                                                                                                                                                                    s
+                                                                                                                                                                                                                                              Ill>
+
+                                                                                                                                                                                                                                             'M'
+                                                                                                                                                                                                                                                                                          ..                                                 t"-<
+                                                                                                                                                                                                                                                                                                                                             >::>
+                                                                                                                                                                                                                                                                                                                                             ;::;;
+                                                                                                                                                                                                                                                                                                                                            Oo
+                                                                                                                                                                                                                                                                                                                                            ;;:::
+          160°                                                                      180°                                                                                                                      160°                                                                                     140°                                  >::>
+                                                                                                                                                                                                                                                                                                                                            Oo
+                                                                                        I
+                                                                                                                                                                                                                                                                                                                                             ~
+
+                                                        Map 13                                  Locations of Fijian (Fij) and Polynesian (Pn) languages                                                                                                                                                                                      +:>.
+                                                                                                                                                                                                                                                                                                                                             0\
+                                                                                                                                                                                                                                                                                                                                             1.0
