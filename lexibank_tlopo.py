@@ -5,9 +5,22 @@ import attr
 import pylexibank
 from clldutils.misc import slug
 from pyetymdict import Dataset as BaseDataset, Language as BaseLanguage
+from pylexibank import LexibankWriter
 from pycldf.sources import Source, Sources
 
-from pytlopo.models import Volume
+from pytlopo.models import Volume, Reflex, Protoform
+
+GLOSS_ID = 0
+
+
+class TlopoWriter(LexibankWriter):
+    def lexeme_id(self, kw):
+        form = slug(kw['Value'])
+        self._count[(kw['Language_ID'], form)] += 1
+        return '{0}-{1}-{2}'.format(
+            kw['Language_ID'],
+            form,
+            self._count[(kw['Language_ID'], form)])
 
 
 @attr.s
@@ -37,6 +50,11 @@ class Dataset(BaseDataset):
         strip_inside_brackets=True,   # do you want data removed in brackets or not?
         first_form_only=True,
     )
+
+    def cldf_specs(self):
+        res = super().cldf_specs()
+        res.writer_cls = TlopoWriter
+        return res
 
     def cmd_download(self, args):
         from csvw.dsv import reader, UnicodeWriter
@@ -129,6 +147,64 @@ class Dataset(BaseDataset):
             #for k, v in bycat.items():
             #     print(k, v)
 
+    def add_form(self, writer, protoform_or_reflex, gloss2id, langs, poc_gloss='none'):
+        gloss = protoform_or_reflex.glosses[0].gloss if protoform_or_reflex.glosses else poc_gloss
+
+        if gloss not in gloss2id:
+            gloss2id[gloss] = slug(str(gloss))
+            writer.add_concept(ID=slug(str(gloss)), Name=gloss)
+
+        if isinstance(protoform_or_reflex, Protoform):
+            return writer.add_lexemes(
+                ID='{}-{}'.format(slug(protoform_or_reflex.protolanguage), slug(protoform_or_reflex.form)),
+                Language_ID=slug(protoform_or_reflex.protolanguage),
+                Parameter_ID=gloss2id[gloss],
+                Description=gloss,
+                Value=protoform_or_reflex.form,
+                Comment=protoform_or_reflex.comment,
+                Source=[r.cldf_id for r in protoform_or_reflex.sources or []],
+                # Doubt=getattr(form, 'doubt', False),
+            )[0]
+        else:
+            assert isinstance(protoform_or_reflex, Reflex)
+            return writer.add_lexemes(
+                ID='{}-{}'.format(langs[protoform_or_reflex.lang]['ID'], slug(protoform_or_reflex.form)),
+                Language_ID=langs[protoform_or_reflex.lang]['ID'],
+                Parameter_ID=gloss2id[gloss],
+                Description=gloss,
+                Value=protoform_or_reflex.form,
+                Comment=None,
+                Source=[],  # FIXME: add the sources for the language!
+                # Doubt=getattr(form, 'doubt', False),
+            )[0]
+
+    def add_glosses(self, writer, protoform_or_reflex, fid, old_glosses, gloss_ids):
+        for k, gloss in enumerate(protoform_or_reflex.glosses, start=1):
+            if gloss.gloss not in old_glosses:
+                # Must create a new gloss
+                global GLOSS_ID
+                GLOSS_ID += 1
+                g = dict(
+                    Form_ID=fid,
+                    ID=str(GLOSS_ID),
+                    Name=gloss.gloss,
+                    Comment=gloss.comment,
+                    Part_Of_Speech=gloss.pos,
+                    Source=[ref.cldf_id for ref in gloss.sources],
+                )
+                writer.objects['glosses.csv'].append(g)
+                old_glosses[gloss.gloss] = g
+                gloss_ids.append(g['ID'])
+            else:
+                # FIXME: make sure the existing gloss has all the metadata of the new one, e.g. comment, source, POS
+                og = old_glosses[gloss.gloss]
+                # FIXME: aggregate comments!
+                #assert (not og['Comment']) or (not gloss.comment) or og['Comment'] == gloss.comment, '{} vs. {}'.format(og['Comment'], gloss.comment)
+                #assert og['Part_Of_Speech'] == gloss.pos
+                # FIXME: for matching source IDs, merge pages!
+                #assert og['Source'] == [ref.cldf_id for ref in gloss.sources], '{} vs. {}'.format(og['Source'], gloss.sources)
+                gloss_ids.append(og['ID'])
+
     def cmd_makecldf(self, args):
         self.schema(args.writer.cldf, with_borrowings=False)
         self.local_schema(args.writer.cldf)
@@ -140,6 +216,7 @@ class Dataset(BaseDataset):
         for v in list(langs.values()):
             for alt in v['Alternative_Names'].split('; '):
                 langs[alt] = v
+
         for vol in range(1, 7):
             if vol not in {1, 2}:
                 continue
@@ -153,17 +230,25 @@ class Dataset(BaseDataset):
             mddir.mkdir(exist_ok=True)
             for num, chapter in vol.chapters.items():
                 mddir.joinpath('chapter{}.md'.format(num)).write_text(chapter.text)
-
-            #
-            # FIXME: must merge sources!!!
-            #
+                args.writer.objects['ContributionTable'].append(dict(
+                    ID='{}-{}'.format(vol.num, num),
+                    Name=chapter.bib['title'],
+                ))
 
         for lg in langs.values():
             args.writer.add_language(ID=lg['ID'], Name=lg['Name'], Is_Proto=False, Group=lg['Group'])
 
+        # map (lang, form) pairs to associated glosses (as dict mapping gloss to gloss object with all properties.).
+        words = {}
+        cognatesets = {}
+
         gloss2id = {}
         for i, rec in enumerate(reconstructions):
+            # Add protoforms and reflex forms and glosses, keep IDs of forms and glosses!
             pfrep, pflex = None, None
+            forms, gloss_ids = [], []  # We store the forms and glosses listed in this cognateset reference
+            poc_gloss = None
+
             for j, pf in enumerate(rec.protoforms):  # FIXME: pf.sources !
                 if j == 0:
                     pfrep = pf
@@ -174,108 +259,88 @@ class Dataset(BaseDataset):
                 if pf.protolanguage not in langs:
                     args.writer.add_language(ID=slug(pf.protolanguage), Name=slug(pf.protolanguage, lowercase=False), Is_Proto=True)
                     langs[pf.protolanguage] = slug(pf.protolanguage)
-                if pfgloss not in gloss2id:
-                    gloss2id[pfgloss] = slug(pfgloss)
-                    args.writer.add_concept(ID=slug(pfgloss), Name=pfgloss)
-                lex = args.writer.add_lexemes(
-                    Language_ID=slug(pf.protolanguage),
-                    Parameter_ID=gloss2id[pfgloss],
-                    Description=pfgloss,
-                    Value=pf.forms[0],
-                    Comment=None,
-                    Source=[r.cldf_id for r in pf.sources or []],
-                    # Doubt=getattr(form, 'doubt', False),
-                )[0]
-                for k, gloss in enumerate(pf.glosses, start=1):
-                    args.writer.objects['glosses.csv'].append(dict(
-                        Form_ID=lex['ID'],
-                        ID='{}-{}'.format(lex['ID'], k),
-                        Name=gloss.gloss,
-                        Comment=gloss.comment,
-                        Part_Of_Speech=gloss.pos,
-                        Source=[ref.cldf_id for ref in gloss.sources],
-                    ))
+
+                if pf.protolanguage == 'POc' and not poc_gloss and pf.glosses:
+                    # FIXME: if gloss is None, take the gloss of the POc (or lower!) reconstruction!
+                    poc_gloss = pf.glosses[0].gloss
+
+                if (pf.protolanguage, pf.form) not in words:
+                    lex = self.add_form(args.writer, pf, gloss2id, langs)
+                    # FIXME: we'll adapt the Description and Parameter_ID lateron, when all glosses have been collected!
+                    words[(pf.protolanguage, pf.form)] = (lex, {})
+                else:
+                    # FIXME: make sure the other properties are the same, e.g. sources
+                    lex = words[(pf.protolanguage, pf.form)][0]
+
+                forms.append(lex)
+                self.add_glosses(args.writer, pf, lex['ID'], words[(pf.protolanguage, pf.form)][1], gloss_ids)
+
                 if j == 0:
                     pflex = lex
-                args.writer.add_cognate(
-                    lexeme=lex,
-                    Cognateset_ID=rec.id,
-                    # Source=[str(ref) for ref in form.gloss.refs],
-                    # Doubt=form.doubt,
-                )
-
-            pf = pfrep
-            args.writer.objects['CognatesetTable'].append(dict(
-                ID=rec.id,
-                Language_ID=slug(pf.protolanguage),
-                Form_ID=pflex['ID'],
-                Comment='\n\n'.join(line.replace('*', '&ast;') for line in rec.desc()),
-                Name=pf.forms[0],
-                Description=pf.glosses[0].gloss if pf.glosses else None,
-                Pre_Note=rec.pre_note(),
-                Post_Note=rec.post_note(),
-                #Source=['pmr1'],
-                #Doubt=cset.doubt,
-            ))
 
             for w in rec.reflexes:
                 # FIXME: supplement glosses from matching, i.e. closest reconstruction!
                 assert w.lang in langs
-                gloss = w.glosses[0].gloss
-                # FIXME: if gloss is None, take the gloss of the POc reconstruction!
-                if gloss not in gloss2id:
-                    gloss2id[gloss] = slug(gloss or 'none')
-                    args.writer.add_concept(ID=slug(gloss or 'none'), Name=gloss)
-                lex = args.writer.add_lexemes(
-                    Language_ID=langs[w.lang]['ID'],
-                    Parameter_ID=gloss2id[gloss],
-                    Description=gloss,
-                    Value=w.form,
-                    Comment=None,
-                    Source=[],  # FIXME: add the sources for the language!
-                    #Doubt=getattr(form, 'doubt', False),
-                )[0]
-                for k, gloss in enumerate(w.glosses, start=1):
-                    args.writer.objects['glosses.csv'].append(dict(
-                        Form_ID=lex['ID'],
-                        ID='{}-{}'.format(lex['ID'], k),
-                        Name=gloss.gloss,
-                        Comment=gloss.comment,
-                        Part_Of_Speech=gloss.pos,
-                        Source=[ref.cldf_id for ref in gloss.sources],
-                    ))
-                # FIXME: deduplicate words!
-                #forms[lg['ID']][form.form, self.gloss_lookup(form.gloss)] = lex
+                lid = langs[w.lang]['ID']
 
-                args.writer.add_cognate(
-                    lexeme=lex,
-                    Cognateset_ID=rec.id,
-                    #Source=[str(ref) for ref in form.gloss.refs],
-                    #Doubt=form.doubt,
-                )
+                if (lid, w.form) not in words:
+                    lex = self.add_form(args.writer, w, gloss2id, langs, poc_gloss=poc_gloss)
+                    # FIXME: we'll adapt the Description and Parameter_ID lateron, when all glosses have been collected!
+                    words[(lid, w.form)] = (lex, {})
+                else:
+                    lex = words[(lid, w.form)][0]
+
+                forms.append(lex)
+                self.add_glosses(args.writer, w, lex['ID'], words[(lid, w.form)][1], gloss_ids)
+
+            if (pfrep.protolanguage, pfrep.form) not in cognatesets:
+                args.writer.objects['CognatesetTable'].append(dict(
+                    ID=rec.id,
+                    Form_ID=pflex['ID'],
+                    Comment='\n\n'.join(line.replace('*', '&ast;') for line in rec.desc()),
+                    Name=pfrep.form,
+                    Description=pfgloss,
+                    Level=pfrep.protolanguage,
+                    # Source=['pmr1'],
+                    # Doubt=cset.doubt,
+                ))
+                cognatesets[(pfrep.protolanguage, pfrep.form)] = (rec.id, [])
+
+            csid, cog_forms = cognatesets[(pfrep.protolanguage, pfrep.form)]
+            for lex in forms:
+                if lex['ID'] not in cog_forms:
+                    args.writer.add_cognate(lexeme=lex, Cognateset_ID=csid)
+                    cog_forms.append(lex['ID'])
+
+            args.writer.objects['cognatesetreferences.csv'].append(dict(
+                ID=rec.id,
+                Cognateset_ID=csid,
+                Contribution_ID='-'.join(rec.id.split('-')[:2]),
+                # section, subsection, page
+                Form_IDs=[f['ID'] for f in forms],
+                Gloss_IDs=gloss_ids,
+            ))
+
             for i, (name, items) in enumerate(rec.cfs, start=1):
+                # We simply link cf sets to cognatesetreferences!
+                #if known_cogset:
+                #    print('cf table {} for known cogset!: {}'.format(i, rec.id))
                 args.writer.objects['cf.csv'].append(dict(
                     ID='{}-{}'.format(rec.id, i),
                     Name=name,
-                    Cognateset_ID=rec.id,
+                    Cognateset_ID=csid,
+                    CognatesetReference_ID=rec.id,
                 ))
                 for j, w in enumerate(items, start=1):
                     assert w.lang in langs
-                    gloss = w.glosses[0].gloss
-                    if gloss not in gloss2id:
-                        gloss2id[gloss] = slug(gloss or 'none')
-                        args.writer.add_concept(ID=slug(gloss or 'none'), Name=gloss)
-                    lex = args.writer.add_lexemes(
-                        Language_ID=langs[w.lang]['ID'],
-                        Parameter_ID=gloss2id[gloss],
-                        Description=gloss,
-                        Value=w.form,
-                        Comment=None,
-                        Source=[],
-                        # Doubt=getattr(form, 'doubt', False),
-                    )[0]
-                    # FIXME: deduplicate words!
-                    # forms[lg['ID']][form.form, self.gloss_lookup(form.gloss)] = lex
+                    lid = langs[w.lang]['ID']
+
+                    if (lid, w.form) not in words:
+                        lex = self.add_form(args.writer, w, gloss2id, langs, poc_gloss=poc_gloss)
+                        words[(lid, w.form)] = (lex, {})
+                    else:
+                        lex = words[(lid, w.form)][0]
+                    self.add_glosses(args.writer, w, lex['ID'], words[(lid, w.form)][1], [])
 
                     args.writer.objects['cfitems.csv'].append(dict(
                         ID='{}-{}-{}'.format(rec.id, i, j),
@@ -290,17 +355,30 @@ class Dataset(BaseDataset):
         Gloss
         - number
         """
-        cldf.add_columns('CognatesetTable', 'Pre_Note', 'Post_Note')
-        #
-        # FIXME: CognatesetReference:
-        #  fk to cognateset,
-        #  fk to chapter,
-        #  fk list to glosses (for protoforms and reflexes) relevant in this context.
-        #  fk list to reflexes to include.
-        #  pre_note, post_note, ...
-        # Problems: what about footnotes?
-        #
-        #
+        cldf.add_columns('CognatesetTable', 'Level')
+        cldf.add_columns(
+            'cf.csv',
+            {
+                'name': 'CognatesetReference_ID',
+            },
+        )
+        cldf.add_component('ContributionTable')
+        cldf.add_table(
+            'cognatesetreferences.csv',
+            {
+                'name': 'ID',
+                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#id'},
+            {
+                'name': 'Cognateset_ID',
+                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#cognatesetReference'},
+            {
+                'name': 'Form_IDs',
+                'separator': ' ',
+                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#formReference'},
+            {
+                'name': 'Gloss_IDs',
+                'separator': ' '},
+        )
         cldf.add_table(
             'glosses.csv',
             {
@@ -326,3 +404,5 @@ class Dataset(BaseDataset):
                 'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#source'},
             'Part_Of_Speech'
         )
+        cldf.add_foreign_key('cognatesetreferences.csv', 'Gloss_IDs', 'glosses.csv', 'ID')
+        cldf.add_foreign_key('cf.csv', 'CognatesetReference_ID', 'cognatesetreferences.csv', 'ID')

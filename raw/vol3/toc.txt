@@ -1,0 +1,636 @@
+        Contents overview
+
+
+Chapter contents in detail                                                      vii
+
+List of Tables                                                                  XV
+
+List of Figures                                                                xvi
+
+List of maps                                                                   xix
+
+Abbreviations                                                                  xxi
+
+Acknowledgments                                                                xxiii
+
+Chapter 1         Introduction
+                  Malcolm Ross, Andrew Pawley and Meredith Osmond                 1
+
+Chapter 2         Introducing Proto Oceanic plant names
+                  Malcolm Ross                                                  25
+
+Chapter 3         Ethnobotanical classification
+                  Bethwyn Evans                                                 53
+
+Chapter 4         Parts of plants
+                  Bethwyn Evans                                                 85
+
+Chapter 5         Wild plants of the coastal strand
+                  Malcolm Ross                                                 129
+
+Chapter 6         Wild plants of the mangrove: swamp
+                  Malcolm Ross                                                 173
+
+Chapter 7         Wild plants of primary lowland tropical rain forest
+                  Malcolm Ross                                                 185
+
+Chapter 8         Wild plants of secondary lowland rain forest and grassland
+                  Malcolm Ross                                                 237
+
+Chapter 9         Staple foods: root crops, bananas, breadfruit and sago
+                  Malcolm Ross                                                 255
+vi   Contents overview
+
+
+Chapter 10     Green vegetables and figs
+               Malcolm Ross                     293
+
+Chapter 11     Nut and fruit trees
+               Malcolm Ross                     311
+
+Chapter 12     The coconut palm
+               Malcolm Ross and Bethwyn Evans   355
+
+Chapter 13     Other cultivated plants
+               Malcolm Ross                     389
+
+Chapter 14     Concluding notes
+               Malcolm Ross                     427
+
+Appendix A       Data sources and collation     437
+
+Appendix B       Languages                      443
+
+References                                      471
+
+Index of reconstructions by proto language      493
+
+Alphabetical index of reconstructions           507
+
+Index of plant names                            523
+
+Index of plant names by families                533
+        Chapter contents i'n detail
+
+
+Contents overview                                                           v
+
+List of Tables                                                            xvi
+
+List of Figures                                                           xvii
+
+List of maps                                                               XX
+
+Abbreviations                                                             xxi
+
+Acknowledgments                                                           xxiii
+
+1   Introduction                                                            1
+    1 Aims . . . . . . . . . . . . . . . . . . . . . . . . .                1
+    2 The relation of the current project to previous work                  2
+    3 Reconstructing the lexicon . . . . . .                                4
+        3.1 Terminological reconstruction .                                 4
+        3.2 Subgrouping and reconstruction                                  6
+            3.2.1    Subgrouping . . . . . .                                6
+            3.2.2 Kinds of subgroup .. .                                    7
+            3.2.3 Criteria for reconstruction                              10
+            3.2.4 Further notes on subgroups                               13
+        3.3 Sound correspondences . . . . .                                15
+        3.4 POe phonology and orthography                                  16
+    4 Conventions common to the series                                     17
+        4.1 Chapter format . . . . . . . . .                               17
+        4.2 Data . . . . . . . . . . . . . . .                             19
+        4.3 Conventions used in representing reconstructions               20
+    5 Data sources and conventions specific to this volume .               22
+        5.1 Cognate sets and reconstructions . . . . . . . . .             22
+        5.2 Botanical and ethnographic information and vernacular names    22
+        5.3 Scientific plant names . . . . . . . . . .                     23
+        5.4 English and Pacific pidgin plant names .                       24
+        5.5 Indexes . . . . . . . . . . . . . . . . .                      24
+viii     Chapter contents in detail
+
+
+2      Introducing Proto Oceanic plant names                                      25
+       1 Floristic regions . . . . . .                                            25
+       2 Ways of classifying plants . . . . . .                                   25
+           2.1 Classification by use . . . . . .                                  26
+           2.2 Classification by ethnobotanical category                          26
+           2.3 Classification by vegetation habitat and cultivation status        27
+       3 Vegetation habitats in NW Island Melanesia .                             28
+           3.1 Natural vegetation habitats . . . . . . . .                        28
+                3 .1.1 Coastal strand vegetation . . . .                          28
+                           3.1.1.1     Herbaceous zone                            28
+                           3.1.1.2     Beach scmb .                               29
+                           3.1.1.3     Littoral forest .                          29
+                3.1.2 Mangrove forest . . . . . .                                 29
+                3.1.3 Freshwater swamp forest .                                   30
+                3.1.4 Primary lowland rain forest                                 30
+           3.2 Anthropogenic vegetation habitats .                                30
+                3.2.1 Garden vegetation . . . . .                                 30
+                3.2.2 Secondary lowland rain forest .                             31
+                3.2.3 Grassland . . . . . . . . . . . .                           32
+       4 The relationship between garden and bush in Proto Oceanic society        32
+       5 Proto Oceanic terms for types of vegetation and land use                 34
+       6 The ingredients of an Oceanic meal                                       36
+           6.1 Starchy food . . . . . . . . . . . . . . . . . . . .               40
+           6.2 Additional ingredients . . . . . . . . . . . . . . .               43
+       7 Apparent encodings of plant categorisations in Oceanic plant names       43
+           7.1 Prefixes . . . . . . . . . . . . . . . . . . .                     44
+                7.1.1 Reflexes ofPOc *kayu 'tree, shmb' . . . . . . . . . .       44
+                7 .1.2 POe *ka- in trisyllabic tree names . . . . . . . . . . .   46
+                7.1.3 Reflexes ofPOc *puqu(n} 'tree, shmb' and *raun 'leaf'       47
+                7.1.4 POe *mala- 'resembling'                                     49
+           7.2 Reduplication . . . . . . . . . . .                                50
+
+3      Ethnobotanical classification                                              53
+       1 Introduction . . . . . . . . . . . . . . . . . . . . . .                 53
+       2 Ethnobiological classifications . . . . . . . . . . . .                  53
+       3 Botanical taxonomies in modem Oceanic languages .                        58
+          3.1 Wayan Fijian                                                        58
+          3.2 Kwara'ae                                                            63
+          3.3 Arosi                                                               67
+          3.4 Nduke ..                                                            69
+          3.5 Samoan                                                              69
+       4 Botanical taxa in Proto Oceanic .                                        70
+          4.1 Plant.                                                              70
+          4.2 Tree . . . . .                                                      71
+          4.3 Palms . . . .                                                       73
+          4.4 Vine, creeper                                                       74
+                                                         Chapter contents in detail    ix
+
+
+
+        4.5 Grass . . . . . . . . .                                                   75
+        4.6 Moss, algae, seaweed .                                                    76
+        4.7 Mushrooms, fungi                                                          78
+        4.8 Other terms                                                               79
+    5   Conclusions                                                                   82
+
+4   Parts of plants                                                                    85
+    1 Plant part terms in modem Oceanic languages                                     85
+    2 Plant part terms reconstructable for POe                                        89
+       2.1 Stems of woody plants . . .                                                89
+       2.2 Stems of non-woody plants .                                                92
+       2.3 Branches                                                                    93
+       2.4 Roots . . . . . . . . . . . .                                               97
+       2.5 Leaves . . . . . . . . . . . .                                             103
+       2.6 Shoots, sprouts and suckers .                                              108
+       2.7 Flowers                                                                    112
+       2.8 Fruit . . . . . . .                                                        115
+       2.9 Seeds . . . . . .                                                          117
+       2.10 Outer coverings .                                                         120
+       2.11 Sap, resin . . .                                                          123
+       2.12 Thoms . . . . .                                                           124
+    3 Concluding remarks .                                                            126
+
+5   Wild plants of the coastal strand                                                 129
+    1 Introduction . . . . .                                                          129
+    2 Coastal shallows . . . . . . .                                                  130
+    3 The herbaceous zone . . . . .                                                   131
+       3.1 Ipomoea spp., morning glory .                                              131
+       3.2 Wedelia biflora . . . . . . . .                                            133
+    4 Beach scrub . . . . . . . . . . . . .                                           134
+       4.1 Woody shrubs and small trees                                               134
+            4.1.1 Cordia subcordata, kerosene wood, island walnut, sea trumpet,
+                     Pacific rosewood . . . . . . . . . . . . . . . . . . . .         134
+            4.1.2 H ernandia nymphaefolia, sea hearse tree, lantern tree              136
+            4.1.3 Hibiscus tiliaceus, beach hibiscus                                  138
+            4.1.4 Pemphisacidula . .                                                  140
+            4.1.5 Scaevola taccada. . . . . . . . .                                   141
+            4 .1. 6 T hespesia populnea . . . . . . .                                 143
+            4.1. 7 Tournefortia argentea, tree heliotrope, beach heliotrope           144
+            4.1.8 Vitextrifolia . . . . . . . . . .                                   145
+       4.2 Climbers . . . . . . . . . . . . . . . .                                   147
+            4.2.1 Flagellaria indica, supplejack .                                    147
+            4.2.2 Hoya spp. . . . . . . . . . . .                                     148
+    5 Littoral forest . . . . . . . . . . . . . . . . .                               148
+       5.1 Adenanthera pavonina, bead tree, red sandalwood                            148
+       5.2 Barringtonia asiatica, sea poison tree, fish poison tree                   149
+x   Chapter contents in detail
+
+
+       5.3  Calophyllum inophyllum, portia, Indian laurel, Alexandrian laurel, beach
+            mahogany . . . . . . . . . . . . . . . . . . . . .                         152
+       5.4 Casuarina equisetifolia, casuarina, beach she-oak                           156
+       5.5 Erythrina variegata, coral tree, Indian coral tree .                        158
+       5.6 F agraea berteroana .                                                       161
+       5.7 Flueggeaflexuosa . . . . . . . . . .                                        164
+       5.8 Guettarda speciosa . . . . . . . . .                                        165
+       5.9 Gyrocarpus americanus, canoe tree                                           166
+       5.10 N eisosperma oppositifolium, twin apple                                    166
+       5.11 Pisonia spp . . . . .                                                      167
+       5.12 Pongamia pinnata                                                           170
+       5.13 Premna spp . . . . .                                                       171
+
+6   Wild plants of the mangrove swamp                                                  173
+    1 Introduction . . . . . . . . . . . . . . . . . .                                 173
+    2 The Rhizophora zone ofthe mangrove forest.                                       174
+       2.1 Rhizophora spp. . . . . . . . . . . . .                                     174
+    3 The Bruguiera zone ofthe mangrove forest .                                       176
+       3.1 Bruguiera spp. . . . . . . . . . . . . .                                    176
+    4 The landward margin of the mangrove forest .                                     178
+       4.1 Cerbera spp. . . . . . . . . . . . . . .                                    178
+       4.2 Dolichandrone spathacea . . . . . . . .                                     179
+       4.3 Excoecaria agallocha, milky mangrove                                        180
+       4.4 H eritiera littoralis . . . . . . . .                                       181
+       4.5 Nypafruticans, nipa(h) palm . .                                             182
+       4.6 Xylocarpus spp., puzzlenut tree.                                            183
+
+7   Wild plants of primary lowland tropical1rain forest                    185
+    1 Introduction . . .                                                   185
+    2 Rain forest layers . . . . . . . . . . . . . . . .                   186
+    3 Emergent trees . . . . . . . . . . . . . . . . .                     187
+       3.1 Alstonia scholaris, milky pine, canoe tree                      187
+       3.2 Fa/cataria moluccana                                            188
+       3.3 Octomeles sumatrana . . . . . .                                 189
+    4 The forest canopy . . . . . . . . . . .                              190
+       4.1 Campnosperma brevipetiolatum                                    190
+       4.2 Cinnamomum spp., wild cinnamon                                  191
+       4.3 Dillenia schlechteri . . . . . . . . .                          193
+       4.4 Dracontomelon dao, New Guinea walnut, Dragon plum               194
+       4.5 Dysoxylum spp., stinktree, stinkwood . . . . . . . . . .        195
+       4.6 Elaeocarpus spp. . . . . . . . . . . . . . . . . . . . . .      197
+       4.7 Endospermum spp., cheesewood, milkwood, whitewood, PNG basswood 197
+       4.8 Garugafloribunda . . . . . . . . .                              199
+       4.9 Intsia bijuga, ironwood, island teak . . . . . . . . . . .      200
+       4.10 Planchonella spp. . . . . . . . . . . . . . . . . . . . . .    203
+       4.11 Pterocarpus indicus, New Guinea rosewood, flame wood           204
+                                                         Chapter contents in detail    xi
+
+
+
+       4.12 Vitex cofassus, New Guinea teak .                                         205
+    5 The lower canopy .                                                              207
+      5.1 Bischofia javanica, Java cedar                                              207
+      5.2 Cananga odorata, ylang-ylang, perfume tree                                  209
+      5.3 Cryptocarya sp. .                                                           209
+      5.4 Dillenia sp.                                                                210
+      5.5 Diospyros spp., ebony, blackwood                                            211
+      5.6 Euodia spp.                                                                 211
+      5.7 Kleinhovia hospita, puzzle tree, guest tree                                 212
+      5.8 Litsea spp ..                                                               215
+      5.9 Myristica spp., wild nutmeg                                                 215
+      5.10 Parinari spp., putty nut .                                                 217
+      5.11 Palms                                                                      221
+            5.11.1 Caryota rumphiana, black palm, fishtail palm                       221
+            5.11.2 Licuala spp., fan palm                                             222
+    6 The shrub layer                                                                 223
+      6.1 Woody shrubs .                                                              223
+            6.1.1 Abroma augusta                                                      223
+            6.1.2 Angiopteris evecta, mule's foot fern                                224
+            6.1.3 Donax cannaeformis .                                                224
+            6.1.4 Garcinia spp ..                                                     225
+            6.1.5 Phaleria spp ..                                                     226
+            6.1.6 Semecarpusforstenii, poisonwood .                                   227
+      6.2 Leafy shrubs                                                                228
+            6.2.1 Hornstedtia lycostoma .                                             228
+      6.3 Climbers and epiphytes .                                                    229
+            6.3.1 Calamus spp., rattan, lawyer cane                                   229
+            6.3.2 Dendrocnide and Laportea spp., nettle trees                         230
+            6.3.3 Lygodium spp.                                                       233
+            6.3.4 Merremia spp.                                                       234
+            6.3.5 Asplenium nidus, bird's nest fern                                   234
+    7 The forest floor                                                                235
+
+8   Wild plants of secondary lowland rain forest and grassland                        237
+    1 Introduction .                                                                  237
+    2 Trees and shrubs                                                                238
+       2.1 Acalypha spp., copper leaf                                                 238
+       2.2 Alphitonia spp.                                                            239
+       2.3 Commersonia bartramia                                                      240
+       2.4 Glochidion philippicum, little cheese tree                                 241
+       2.5 Macaranga spp ..                                                           242
+       2.6 Pipturus argenteus                                                         244
+       2.7 Rhus taitensis                                                             246
+       2.8 Trema orienta/is                                                           247
+       2.9 Trichospermum spp.                                                         248
+    3 Grasses                                                                         249
+xii    Chapter contents in detail
+
+
+         3.1   Imperata cylindrica, sword grass, blady grass, cogon grass                 250
+         3.2   Coix lachryma-jobi, Job's tears . . . . .                                  252
+         3.3   M iscanthus floridulus . . . . . . . . . .                                 253
+         3.4   Saccharum spontaeum, wild sugarcane                                        253
+
+9     Staple foods: root crops, bananas, breadfruit and sago                              255
+      1 Introduction . . . . . . . . .                                                    255
+      2 Root crops . . . . . . . . . . . . . . .                                          255
+         2.1 Yams, Dioscorea spp. . . . . . .                                             256
+               2.1.1 Why so few yam terms?                                                257
+               2.1.2 Dioscorea alata, greater yam, water yam, winged yam                  258
+               2.1.3 Dioscorea bulbifera, potalto yam, aerial yam, air potato .           262
+               2.1.4 Dioscorea esculenta, lesser yam, prickly yam .                       263
+               2.1.5 Other terms for yam . . . . . . . . .                                264
+         2.2 Taro (Araceae) . . . . . . . . . . . . . . . . . . . . .                     265
+               2.2.1 Colocasia esculenta, taro, Asian taro . . . . .                      265
+               2.2.2 Cyrtosperma merkusii, swamp taro, giant taro                         269
+               2.2.3 Alocasia macrorrhizos, giant taro, elephant ear taro                 271
+               2.2.4 Another term for taro? . . . . . . . . . . . . . . . .               273
+         2.3 Other tubers . . . . . . . . . . . . . . . . . . . . . . . . . .             273
+               2.3.1 Amorphophallus paeoniif:Olius, wild arrowroot, elephant yam          273
+               2.3.2 Tacca leontopetaloides, Polynesian arrowroot                         273
+               2.3.3 Pueraria lobata . . . .                                              274
+      3 Bananas, cultivars ofthe genus Musa. .                                            275
+      4 Artocarpus altilis, breadfruit . . . . . .                                        280
+      5 Plants which store starch in their stems .                                        286
+         5.1 Metroxylon spp., sago palm . . .                                             286
+         5.2 Cycas spp., cycad, Malayan palm fern                                         289
+      6 Summary . . . . . . . . . . . . . . . . . .                                       292
+
+10 Green vegetables and figs                                                              293
+   1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   293
+   2 Leafy vegetables . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     294
+      2.1 Abelmoschus manihot, slippery cabbage, bush cabbage, island cabbage             294
+      2.2 Amaranthus tricolor, Chinese spinach, Joseph's coat amaranth                    296
+      2.3 Gnetum gnemon                                                                   297
+      2.4 Polyscias spp., panax                                                           298
+   3 Other green vegetables . .                                                           300
+      3.1 Cyathea spp. . . . .                                                            300
+      3.2 Saccharum edule, 'coastalpitpit' !(in Papua New Guinea)                         301
+   4 Ficus spp., banyans, figs (Moraceae) . . . . . . . . . . . . . .                     302
+      4.1 Terms for classes of Ficus . . . . . . . . . . . . . . . .                      302
+      4.2 Ficus copiosa and F. wassa, sandpaper cabbage, sandpaper fig                    306
+      4.3 Ficus tinctoria, dye fig . . . .                                                308
+      4.4 Other names for Ficus species . . . . . . . . . . . . . . . . .                 309
+                                                           Chapter contents in detail   xiii
+
+
+11 Nut and fruit trees                                                                 311
+   1 Introduction . .                                                                  311
+   2 Domesticated nut trees                                                            312
+      2.1 Canariumspp. .                                                               312
+      2.2 I nocarpus fagifer, Tahitian chestnut, Pacific chestnut, Polynesian chestnut 317
+      2.3 Barringtonia spp. other than B. asiatica, cutnut, bush nut                   319
+      2.4 Terminalia spp. . . . . . . . . . . . . . . . .                              323
+      2.5 Pandanus spp., screw pines . . . . . . . . .                                 327
+           2.5.1 Pandanus tectorius, coastal pandanus                                  327
+           2.5.2 Pandanus dubius . . . . . . . . . . .                                 330
+           2.5.3 Pandanus conoideus, red fruit pandanus                                331
+           2.5.4 Pandanus lamekotensis . . . . . .                                     333
+           2.5.5 Other names for Pandanus species                                      333
+      2.6 Sterculia vitiensis . . . . . . . . . . . .                                  334
+      2. 7 Pangium edule, pangi, ankle-rattle tree .                                   335
+   3 Domesticated fruit trees . . . . . . . . . . . .                                  336
+      3.1 Burckella obovata, red silkwood . . . .                                      336
+      3.2 Clymenia polyandra and Citrus spp. (Rutaceae)                                338
+      3.3 Corynocarpus cribbianus . . . . . . . . . . .                                340
+      3.4 Mangifera spp., mango . . . . . . . . . . . . .                              341
+      3.5 Pometia pinnata, ocean lychee, island lychee .                               342
+      3.6 Spondias cytherea, golden apple, Polynesian plum, hog plum, Tahitian
+            apple . . . . . . . . . . . . . . . . . . . . . .                          344
+      3.7 Syzygium malaccense, Malay apple, rose apple                                 348
+   4 Other nut and fruit trees . . . .                                                 350
+      4.1 Finschia chloroxantha .                                                      351
+      4.2 Parartocarpus venenosa                                                       351
+
+12 The coconut palm                                                                     355
+   1 Introduction . . . . . . . . . .                                                   355
+   2 The coconut palm . . . . . . .                                                     355
+      2.1 Cocos nucifera, coconut                                                       355
+   3 Growth stages of the coconut .                                                     357
+      3.1 Growth stage terminologies                                                    357
+      3.2 Growth stage 2: very small newly formed fruit                                 362
+      3.3 Growth stage 6: green, drinkable ..                                           363
+      3.4 Growth stage 9: ripe, flesh hardened                                          363
+      3.5 Growth stage 12: sprouting .                                                  366
+      3.6 Other growth stages.                                                          367
+   4 Parts of the coconut fruit . . . . .                                               368
+      4.1 Coconut water . . . . . . .                                                   369
+      4.2 Coconut flesh and its products                                                370
+      4.3 The embryo and the 'apple'                                                    372
+      4.4 Coconut husk . . .                                                            376
+      4.5 Coconut shell . . .                                                           377
+   5 Parts of the coconut palm                                                          378
+xiv       Chapter contents in detail
+
+
+           5.1  The frond and its parts                             379
+                5 .1.1 Green fronds .                               379
+                5.1.2 Dried fronds                                  381
+                5.1.3 Midrib ofthe frond.                           383
+                5 .1.4 Spine/stalk of leaflet                       384
+           5.2 The frond netting . . . . . .                        384
+           5.3 The spathe, the inflorescence and the spadix .       386
+      6    Conclusion . . . . . . . . . . . . . . . . . . . . .     387
+
+13 Other cultivated plants                                          389
+   1 Introduction . . . . . . . . . . . . . . . .                   389
+   2 Plants grown for human consumption . .                         389
+      2.1 Saccharum officinarum, sugarcane .                        389
+      2.2 Stimulants and narcotics . . . . . .                      391
+           2.2.1 Areca catechu, betel palm, betelnut                391
+           2.2.2 Piper bette, betel pepper . . . . . .              394
+           2.2.3 Piper methysticum, kava . . . . . .                395
+   3 Plants which provide materials for making things               398
+      3.1 Bambusa, Schizostachyum and Nastus spp., bamboo.          398
+      3.2 Aleurites moluccana, candlenut . . . . . . . . . .        403
+      3.3 Broussonetia papyrifera, paper mulberry . . . . . .       405
+      3.4 Morinda citrifolia, Indian mulbenry, yellow wood .        406
+   4 Fish poisons . . . . . . . . . . . . . . . . . . .             409
+      4.1 Derris spp., derris root, fish poison plant .             409
+   5 Multi-purpose roots . . . . . . .                              411
+      5.1 Curcuma tonga, turmeric ..                                412
+      5.2 Zingiber spp., ginger . . . .                             413
+   6 Plants with large colourful leaves .                           415
+      6.1 Codiaeum variegatum, croton                               415
+      6.2 Cordyline fruticosa, cordyline, victory leaf, ti plant    416
+      6.3 Dracaena angustifolia . . .                               416
+      6.4 Reconstructions . . . . . . . .                           417
+      6.5 Heliconia indica, heliconia ..                            421
+      6.6 Crinum asiaticum, spider lily .                           421
+   7 Cucurbits . . . . . . . . . . . . . .                          423
+      7.1 Lagenaria siceraria, bottle gourd .                       423
+      7.2 Benincasa hispida, wax gourd, white gourd, winter melon   423
+      7.3 Cucurbita moschata, pumpkin                               424
+      7.4 Cucumis sativus, cucumber .                               425
+
+14 Concluding notes                                                 427
+   1 The uses of plants . . . . . . . . . . . . . . .               427
+   2 The durability of Proto Oceanic plant names .                  428
+   3 Where do Oceanic plant names come from?                        428
+
+Appendix A Data sources and collation                               437
+   1 Data sources . . . . . . . . . . . . .                         437
+                                               Chapter contents in detail    xv
+
+
+
+       1.1   General sources . . . . . . . .                                437
+             1.1.1 Published sources . .                                    437
+             1.1.2 Unpublished sources .                                    439
+       1.2 Plant name sources                                               440
+   2   Linnaean terms                                                       441
+   3   Collation . . . . . .                                                442
+
+Appendix B Languages                                                        443
+   1 Introduction . . . .                                                   443
+  2 Languages by subgroups                                                  443
+  3 Language finderlist . . .                                               455
+
+Index of reconstructions by protolanguagte                                  493
+
+Alphabetical index of reconstructions                                       507
+
+Index of plant names                                                        523
+
+Index of plant names by families                                            533
+        List of Tables
+
+
+1.1 Reconstructed paradigm of POe phonemes . . . . . . . .                                   16
+1.2 POe orthographies after Grace (1969) andl Ross (1988)                                    16
+1.3 Abbreviations for the genealogical or geographic groups                                  18
+1.4 Bracketing and segmentation conventions in protoforms                                    21
+
+2.1   Classifiers in SE Solomonic languages and Proto Polynesian                             48
+
+4.1 Some terms for parts ofthe coconut in Tikopia (Firth 1985) .                             86
+4.2 Terms for parts of banana plants . . . . . . . . . . . . . . .                           87
+4.3 Terms for stems of woody plants in Nduke, Wayan Fijian and Tikopia                       88
+4.4 Terms for stems of non-woody plants in Nduke, Wayan Fijian and Tikopia.                  93
+4.5 Terms for branches in Nduke, Wayan Fijian and Tikopia                                    94
+4.6 Terms for roots in Nduke, Wayan Fijian and Tikopia                                       98
+4.7 Terms for leaves in Nduke, Wayan Fijian and Tikopia. .                                  102
+4.8 Leafterms in selected Oceanic languages . . . . . . . .                                 105
+4.9 Terms for shoots and suckers in Nduke, Wayan Fijian and Tikopia                         109
+4.10 Terms for flowers in Nduke, Wayan Fijian and Tikopia                                   112
+4.11 Terms for fruits in Nduke, Wayan Fijian and Tikopia . . . . . .                        114
+4.12 Terms for seeds in Nduke, Wayan Fijian and Tikopia . . . . . .                         118
+4.13 Terms for outer coverings in Nduke, Wayan Fijian and Tikopia.                          121
+4.14 Terms for sap or resin in Nduke, Wayan Fijian and Tikopia .                            123
+4.15 Terms for thorn in Nduke, Wayan Fijian and Tikopia . . . . . .                         125
+
+12.1 Rough comparison of coconut growth stage terms in seven Oceanic languages .            361
+
+14.1 Number of plant terms reconstructed at each interstage . . . . . . . . . . . . .       429
+14.2 Inherited and possibly innovatory plant terms in Proto Oceanic . . . . . . . . .       429
+14.3 Proto Oceanic plant terms inherited from Proto Austronesian or Proto Malaya-
+     Polynesian . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   430
+14.4 Proto Oceanic plant terms inherited from Proto Central/East Malaya-Polynesian          432
+14.5 Proto Oceanic plant terms inherited from Proto Eastern Malaya-Polynesian               432
+14.6 Proto Oceanic plant terms with no known non-Oceanic cognates . .                       432
+14.7 Proto Western Oceanic plant terms with no known external cognates                      435
+14.8 Proto Eastern Oceanic plant terms with no known external cognates                      435
+14.9 Proto Remote Oceanic plant terms with no known external cognates                       436
+        List ofFigures
+
+
+1.1    Higher-order subgroups of Austronesian languages                                    7
+1.2    Sub grouping of Oceanic languages . . . . . . . . .                                 8
+
+3.1    The hierarchical structure of ethnobiological classifications, exemplified by
+       Wayan Fijian . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   54
+3.2    A partial ethnobotanical taxonomy of Wayan Fijian . . . . . . . . . . . . . .      59
+3.3    A partial plant taxonomy of Wayan Fijian, showing taxonomic depth of some
+       cultivated food plants . . . . . . . . . . . . . .                                 62
+3.4    A partial classification offoods in Wayan Fijian                                   63
+3.5    A partial ethnobotanical taxonomy ofKwara'ae                                       64
+3.6    Arosi ethnobotanical classification . . . . . . .                                  68
+3.7    Partial Proto Oceanic ethnobotanical classification .                              83
+
+5.1    Ipomoea pes-caprae, morning glory, and Wedelia biflora                             133
+5.2    Cordia subcordata, kerosene wood, and Hibiscus tiliaceus, cotton wood              135
+5.3    Hernandia nymphaefolia, sea hearse tree . . . . . . . . . . .                      136
+5.4    Pemphis acidula, Scaevola taccada and Thespesia populnea .                         142
+5.5    Tournefortia argentea .                                                            144
+5.6    Vitex trifolia . . . . .                                                           146
+5.7    Flagellaria indica . . .                                                           147
+5.8    Barringtonia asiatica .                                                            150
+5.9    Calophyllum inophyllum                                                             152
+5.10   Casuarina equisetifolia .                                                          156
+5.11   Erythrina variegata, Indian coral tree, and Fagraea berteroana                     159
+5.12   Flueggeaflexuosa . . . . . . . . . . . .                                           164
+5.13   Guettarda speciosa . . . . . . . . . . .                                           165
+5.14   Pisonia grandis and Premna corymbosa                                               169
+5.15   Pongamia pinnata . . . . . . . . . . . .                                           170
+
+6.1    Rhizophora apiculata, tall-stilted mangrove, prop-root mangrove                    174
+6.2    Bruguiera gymnorrhiza, orange mangrove                                             176
+6.3    Cerbera odollam . . . . . . . . . . . . .                                          178
+6.4    Excoecaria agallocha, milky mangrove.                                              180
+6.5    H eritiera littoralis . . . . . . . . . .                                          181
+6.6    Xylocarpus granatum, puzzlenut tree . .                                            183
+xviii   List offigures
+
+
+7.1     Fa/cataria moluccana . . . . . . . . . . .                                  188
+7.2     Octomeles sumatrana . . . . . . . . . . .                                   189
+7.3     Dracontomelon dao, New Guinea Walnut                                        194
+7.4     Dysoxylum arborescens . . . . . . . . . .                                   195
+7.5     Endospermum medullosum, cheesewood, and Pterocarpus indicus, New Guinea
+        rosewood . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        198
+7.6     Intsia bijuga, ironwood, and Vitex cofassus, New Guinea teak .. .           202
+7.7     Bischofia javanica, Java cedar, and Cananga odorata, ylang-ylang            208
+7.8     Cryptocarya aromatica . . . . . . . . . . . . . . . . . . . . . . .         210
+7.9     K leinhovia hospita, puzzle tree . . . . . . . . . . . . . . . . . . .      213
+7.10    Parinari glaberrima, putty nut, and Caryota rumphiana, black palm           218
+7.11    Hornstedtia lycostoma, putty nut, and Calamus hollrungii, rattan            231
+8.1     Commersonia bartramia                                                       240
+8.2     M acaranga tanarius .                                                       242
+8.3     Rhus taitensis . . . . . .                                                  246
+8.4     Trichospermum richii . .                                                    248
+8.5     Paspalum conjugatum, Imperata cylindrica, sword grass, and Coix lachryma-
+        jobi, Job's tears . . . . . . . . . . . . . . . . .                         250
+9.1     Growth habit ofthree yam (Dioscorea) species .                              259
+9.2     Yam (Dioscorea alata) tuber shapes . . . .                                  260
+9.3     Taro (Araceae) genera and Amorphophallus                                    268
+9.4     Pueraria lobata . . . . . . . . . . . . . . .                               274
+9.5     Traditional (diploid) banana plant . . . . .                                276
+9.6     Fruit, leaves and sections of breadfruit, Artocarpus altilis                280
+9.7     Extracting the starch from a sago trunk .                                   287
+9.8     Cycas rumphii . . . . . . . . . . . . . .                                   290
+10.1    Abelmoschus manihot, slippery cabbage                                       294
+10.2    Aramanthus tricolor, Chinese spinach                                        296
+10.3    Gnetum gnemon . . . .                                                       297
+10.4    Polyscias species . . . . . . . . . . .                                     298
+10.5    Saccharum edule, pitpit . . . . . . . .                                     301
+10.6    Ficus copiosa and Ficus wassa, sandpaper cabbage                            306
+11.1  Canarium indicum, canarium almond                                             313
+11.2  Inocarpusfagifer, Tahitian chestnut                                           317
+11.3  Barringtonia edulis, cut nut . . . .                                          320
+11.4  T erminalia catappa, sea almond .                                             323
+11.5 Pandanus dubius and P. tectorius .                                             330
+11.6 Pandanus conoideus                                                             332
+11.7 Pangium edule . .                                                              335
+11.8 Burckella obovata . .                                                          337
+11.9 Pometia pinnata . . .                                                          344
+11.10 Syzygium malaccense                                                           348
+11.11 Parartocarpus venenosa and Finschia chloroxantha                              352
+                                                                  List offigures   xix
+
+
+12.1   Parts of a coconut . . . . . .                                              369
+12.2   Parts of a coconut palm .. .                                                379
+12.3   Coconut blossom and spathe                                                  386
+
+13.1 Areca catechu, betelnut and Piper bette .                                     392
+13.2 Piper methysticum, kava .                                                     395
+13.3 Nastus obtusus . . . . . . . . . . . . . .                                    399
+13.4 Ateurites motuccana . . . . . . . . . . .                                     404
+13.5 Broussonetia papyrifera, paper mulberry                                       405
+13.6 Morinda citrifotia, Indian mulberry, and Derris species                       407
+13.7 Curcuma tonga, turmeric                                                       412
+13.8 Codiaeum variegatum . . . . . . . . . . . . . . . . . .                       415
+13.9 Cordytine fruticosa . . . . . . . . . . . . . . . . . . .                     416
+13.10 Heticonia sotomonensis and Crinum asiaticum, spider lily.                    422
+        List of maps
+
+1  The Austronesian language family and major subgroups . . . . . . . . . . . . .           xxvi
+2  Geographic limits of historically known Oceanic speakers and of presently doc-
+   umented Lapita sites . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     xxvii
+3 Groups of Oceanic languages used in cognate sets . . . . . . . . . . . . . . . .           11
+4 Oceanic language groups in northwest Melanesia: the Admiralties and St Matthias
+   groups and the subgroups of Western Oceanic . . . . . . . . . . . . . . . . . .           14
+5 Locations of Admiralties (Adm) languages . . . . . . . . . . . . . . . . . . . .          461
+6 Locations of languages of the North New Guinea (NNG) and Papuan Tip (PT)
+   clusters . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   462
+7 Locations oflanguages of the Meso-Melam':sian (MM) cluster and the St Matthias
+   group . . . . . . . . . . . . . . . . . . . . . . . . .                                  463
+8 Locations of Southeast Solomonic (SES) languages .                                        464
+9 Locations ofTemotu (TM) languages and Pileni . . .                                        465
+10 Locations ofNorth/Central Vanuatu (NCV) languages                                        466
+11 Locations of Southern Vanuatu (SV) and New Caledonia (NCal) languages .                  467
+12 Locations ofYapese, Nauman, Nuclear Micronesian (Mic) and some Polynesian
+   (Pn) languages . . . . . . . . . . . . . . . . . . . . . .                               468
+13 Locations of Fijian (Fij) and Polynesian (Pn) languages . . . . . . . . . . . . .        469

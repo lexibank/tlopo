@@ -1,0 +1,89 @@
+{
+  "title": "Plants",
+  "chapters": [
+    {
+      "number": "1",
+      "title": "Introduction",
+      "pages": "1-24",
+      "author": "Ross, M., Pawley, A. and Osmond, M."
+    },
+    {
+      "number": "2",
+      "title": "Introducing Proto Oceanic plant names",
+      "pages": "25-52",
+      "author": "Malcolm Ross"
+    },
+    {
+      "number": "3",
+      "title": "Ethnobotanical classification",
+      "pages": "53-84",
+      "author": "Bethwyn Evans"
+    },
+    {
+      "number": "4",
+      "title": "Parts of plants",
+      "pages": "85-128",
+      "author": "Bethwyn Evans"
+    },
+    {
+      "number": "5",
+      "title": "Wild plants of the coastal strand",
+      "pages": "129-172",
+      "author": "Malcolm Ross"
+    },
+    {
+      "number": "6",
+      "title": "Wild plants of the mangrove: swamp",
+      "pages": "173-184",
+      "author": "Malcolm Ross"
+    },
+    {
+      "number": "7",
+      "title": "Wild plants of primary lowland tropical rain forest",
+      "pages": "185-236",
+      "author": "Malcolm Ross"
+    },
+    {
+      "number": "8",
+      "title": "Wild plants of secondary lowland rain forest and grassland",
+      "pages": "237-254",
+      "author": "Malcolm Ross"
+    },
+    {
+      "number": "9",
+      "title": "Staple foods: root crops, bananas, breadfruit and sago",
+      "pages": "255-292",
+      "author": "Malcolm Ross"
+    },
+    {
+      "number": "10",
+      "title": "Green vegetables and figs",
+      "pages": "293-310",
+      "author": "Malcolm Ross"
+    },
+    {
+      "number": "11",
+      "title": "Nut and fruit trees",
+      "pages": "311-354",
+      "author": "Malcolm Ross"
+    },
+    {
+      "number": "12",
+      "title": "The coconut palm",
+      "pages": "355-388",
+      "author": "Malcolm Ross and Bethwyn Evans"
+    },
+    {
+      "number": "13",
+      "title": "Other cultivated plants",
+      "pages": "389-426",
+      "author": "Malcolm Ross"
+    },
+    {
+      "number": "14",
+      "title": "Concluding notes",
+      "pages": "427-436",
+      "author": "Malcolm Ross"
+    }
+  ]
+}

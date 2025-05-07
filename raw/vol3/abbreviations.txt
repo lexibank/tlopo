@@ -1,0 +1,35 @@
+       Abbreviations
+
+
+A        actor                             PEOc      Proto Eastern Oceanic
+ACD      Blust (1998c)                     PL        plural
+Adm      Admiralties                       PMM       Proto Meso-Melanesian
+ADJ      adjective                         PMP       Proto Malaya-Polynesian
+ADV      adverb                            Pn        Polynesian
+APNI     Australian Plant Names Index      PNGOc     Proto New Guinea Oceanic
+APPL     applicative                       POe       Proto Oceanic
+ART      article                           POLLEX    Biggs & Clark (1993)
+CEMP     Central/Eastern                   POLLEX2   Clark & Biggs (2006)
+          Malaya-Polynesian                PPn       Proto Polynesian
+CMP      Central Malaya-Polynesian         PROc      Proto Remote Oceanic
+CSTR     construction marker               PSOc      Proto Southern Oceanic
+esp.     especially                        PT        Papuan Tip
+exp      expected                          PWMP      Proto Western Malaya-Polynesian
+Fij      Fijian                            PWOc      Proto Western Oceanic
+IPNI     International Plant Names Index   SG        singular
+k.o.     kind of                           s.o.      someone
+Mic      Nuclear Micronesian               sp.       species (sG)
+MM       Meso-Melanesian                   spp.      species ( PL)
+N        noun                              s.t.      something
+NCal     New Caledonia                     SES       Southeast Solomonic
+NCV      North/Central Vanuatu             SJ        Sarmi/Jayapura
+NNG      North New Guinea                  sv        South Vanuatu
+NOM      nominaliser                       TM        Temotu
+OBJ      object                            u         under goer
+OED      Oxford English Dictionary         v         verb
+PAn      Proto Austronesian                VI        intransitive verb
+PASS     passive                           VT        transitive verb
+PCEMP    Proto Central/Eastern             W.Guad.   West Guadalcanal
+          Malaya-Polynesian                WMP       Western Malaya-Polynesian
+PCP      Proto Central Pacific
+PEMP     Proto Eastern Malaya-Polynesian
