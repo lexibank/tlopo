@@ -56,7 +56,7 @@ class Dataset(BaseDataset):
         res.writer_cls = TlopoWriter
         return res
 
-    def cmd_download(self, args):
+    def __cmd_download(self, args):
         from csvw.dsv import reader, UnicodeWriter
         import sqlite3
         conn = sqlite3.connect("tlopo.sqlite")
@@ -85,7 +85,8 @@ class Dataset(BaseDataset):
         #    for m in CROSS_REF_PATTERN.finditer(line):
         #        print(m.string[m.start():m.end()])
         #return
-        glosses = [{slug(w) for w in r['Gloss'].split() if slug(w)} for r in self.etc_dir.read_csv('vol1_poc_reconstructions.csv', dicts=True)]
+
+    def cmd_download(self, args):
         langs = {r['Name']: r for r in self.raw_dir.joinpath('vol1').read_csv('languages.csv', dicts=True)}
         for v in list(langs.values()):
             for alt in v['Alternative_Names'].split('; '):
@@ -93,7 +94,8 @@ class Dataset(BaseDataset):
         allps = 0
         per_pl = collections.defaultdict(list)
         for vol in range(1, 7):
-            if vol != 1:
+            print(vol)
+            if vol != 3:
                 continue
             t = self.raw_dir / 'vol{}'.format(vol) / 'text.txt'
             if not t.exists():

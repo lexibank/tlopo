@@ -1663,7 +1663,7 @@ POc *panua (1) ‘inhabited area or territory’; (2) ‘community together with
  SV: Lenakel             na-uanu              ‘village’
  SV: Anejom              in-henou             ‘taro swamp’
  NCal: Nemi              bʷan(guc)           ‘soil’ (guc ‘earth’)
- Mic: Woleaian           fariw                ‘land, island’
+ Mic: Woleaian           farɨw                ‘land, island’
  Fij:    Rotuman         hanua                ‘land, country, place; native land or place, home’
  Fij:    Bauan           vanua                ‘land (not sea), territory, region, place, community, country; (in expressions for weather) the visible world, land, sea and sky’
  Pn:     Tongan          fonua                ‘land, country, territory, place; people (of the land)’
