@@ -849,7 +849,7 @@ POc *kayu 'tree or shrub: generic name for plants with woody stems and branches,
   SV:    Anejom          in-yai       'tree, wood, often used for relatively small bushes'
   NCal: Xaracuu                       'wood, tree (general term)'
   Mic: Kiribati          kai          'wood (in general), tree, plant, stick'
-  Mic: Ulithian          -Xa?Y        'counting classifier for trees'
+  Mic: Ulithian          -XaʔY        'counting classifier for trees'
   Fij:   Kadavu          kaou         'tree, piece ofwood, stick'
   Fij:   Wayan           kai          'wood; generic for trees and shrubs, and
                                       occasionally also low bushy plants; used in certain
@@ -1561,7 +1561,7 @@ hospita, Hibiscus tiliaceus, and species of Macaranga and Ficus (Mueller-Dombois
 berg 1998: 63). Important secondary growth is dominated by species of Glochidion, Mac-
 aranga and Mallotus, along with species of Trema , Alphitonia, Casuarina, Trichospermum
 and Hibiscus, and the species Leucaena leucocephala, Kleinhovia hospita, Paraserianthes
-fa/cataria , M elanolepis multiglandulosa and Burckella obovata. There are also primary for-
+falcataria , M elanolepis multiglandulosa and Burckella obovata. There are also primary for-
 est trees that have not been removed: Canarium and Barringtonia species, breadfruit and
 Pangium edule. In older secondary forest Cananga, Endospermum, Canarium, Euodia, La-
 portea and Sterculia occur (Paijmans 1976: 59).
@@ -2214,7 +2214,7 @@ __pre__
   ka-to?                     'mangrove'                 POc       *tOf)OR                 ch.6, § 3.1
   ka-dada                    'k.o. grassland shrub'     POc       *jajal                  ch.l3, §6.4
   ka-bwcf]                   'ironwood'                 PWOc      *bwana                  ch.7, §4.9
-  ka-ma?                     'Cordyline sp.'            PWOc      *mwa(r,R)ep             ch.l3, §6.2
+  ka-maʔ                     'Cordyline sp.'            PWOc      *mwa(r,R)ep             ch.l3, §6.2
   ka-bɔ?                    'k.o. mangrove tree'       PWOc      *haul                   ch.6, §2.1
  PT: Muyuw a-:
   a-mwakot                   'Dysoxylum spp.'           POc       *maqota                 ch.7, §4.5
@@ -2293,7 +2293,7 @@ __pre__
 ?aiuluulu    'big tree, Vitex cofassus'                    uluulu    'bushy'
 ?aikame      'big tree, Putranjiva roxburgii               kame      'monitor lizard'
 ?aikusi      'big tree, Cryptocarya alleniana"             kusi      'greybird'
-?aika?o         'big tree, Xylopia papuana'                    ka?o      'bamboo'
+?aikaʔo         'big tree, Xylopia papuana'                    kaʔo      'bamboo'
 ?ailali         'Tahitian chestnut, Inocarpusfagifer'          !ali      'kidney'
 ?airade         'trees, Dysoxylum' spp.                        rade      'stink'
 ?aininiu        'big tree, Horifieldia irya'                   niniu     'palm, Gulubia
@@ -2411,17 +2411,17 @@ to a separate morpheme, e.g. *a na-gu Rumaq ' my house' (Lynch et al. 2002: 76-7
 __pre__
             Table 2.1    Classifiers in SE Solomonic languages and Proto Polynesian
                          Kwara'ae    Kwaio      Lau      PPn       POc
-     compact objects fa?i            fe?e                *foqi     *puaq qi          'fruit'
+     compact objects faʔi            fe?e                *foqi     *puaq qi          'fruit'
      people                                              *toko     *tau +? (ni)      'person, body'
      wooden objects                            ʔai                *kayu (ni)        'tree'
-     'head'            gwa?i         gwe?e                         *pwatu qi         'head'
+     'head'            gwaʔi         gwe?e                         *pwatu qi         'head'
      flat objects     ʔaha
      vertical objects baʔe
      containers        taʔe
      pieces of         afu            me?e
      units of class    maʔe           maʔe                         *mata qi?         'eye'
-     leaves            ra?i           (gaʔe)                       *raun qi          'leaf
-     clumps           fi?i           fu?i       fi,fui   *fu(h)i   PEOc *pu qi (?)   'clump'
+     leaves            raʔi           (gaʔe)                       *raun qi          'leaf
+     clumps           fiʔi           fuʔi       fi,fui   *fu(h)i   PEOc *pu qi (?)   'clump'
 
 
 
@@ -2457,20 +2457,20 @@ grammaticisation of this construction with considerable phonological attrition.
 
     This POc construction is also reflected in Kwara'ae plant naming, but in a rather different
 way from NCV. Henderson & Hancock (1988:: 277) report that the name of a small tree is
-optionally preceded by fa?i and the name of a plant that grows straight without branching
-(and some that do branch) by fi?i, e.g.fa?i keto or keto 'Macaranga spp. ',fi?i arakai or arakai
-'yam sp., Dioscorea pentaphylla'. Kwa'ioloa & Burt (2001) translate.fi?i as 'clump', which
+optionally preceded by faʔi and the name of a plant that grows straight without branching
+(and some that do branch) by fiʔi, e.g.faʔi keto or keto 'Macaranga spp. ',fiʔi arakai or arakai
+'yam sp., Dioscorea pentaphylla'. Kwa'ioloa & Burt (2001) translate.fiʔi as 'clump', which
 is probably more accurate than Henderson and Hancock's characterisation.
 
                                                             Introducing Proto Oceanic plant names              49
 
 
-     The morphemesfa?i andfi?i belong to a set of classifiers described in Deck' s grammar
+     The morphemesfaʔi andfiʔi belong to a set of classifiers described in Deck' s grammar
 and used principally for counting (1934: 7-1 0). These are listed in Table 2.1 along with cor-
 responding forms in closely related Kwaio and Lau, the Proto Polynesian classifiers recon-
 structed in POLLEX, and the POc nouns from which they are derived.
 
-     Several of the Kwara'ae classifiers share the form monosyllable + -?i or -?e. Their com-
+     Several of the Kwara'ae classifiers share the form monosyllable + -ʔi or -?e. Their com-
 mon form reflects their shared origin in the POc construction [MONOVALENT NOUN *qi NOUN]
 described above.20 The likely POc usage from which the classifiers in Table 2.1 are derived
 is illustrated below:[21]
@@ -2487,7 +2487,7 @@ __pre__
 cause they were derived from zero-valency nouns which instead headed the POc construction
 [ZERO-VALENCY NOUN *ni NOUN] .
 
-     The classifier fa?i is described by Deck as being used to count round, compacted or heaped
+     The classifier faʔi is described by Deck as being used to count round, compacted or heaped
 units, but it seems to me that, like reflexes ofPMP *buaq/POc *puaq 'fruit' (ch.4, §2.8) in a
 number of Austronesian languages, it is the default classifier for countable inanimate objects,
 i.e. it is used when no other classifier is more appropriate.[22]
@@ -2511,7 +2511,7 @@ pendent grammaticisations.
 
 [21] The numeral was apparently a verb in this construction.
 
-[22] Henderson & Hancock (1988 : 277) write thatfa?i means ' small tree' . This is not correct: it is used with small
+[22] Henderson & Hancock (1988 : 277) write thatfaʔi means ' small tree' . This is not correct: it is used with small
 trees because no other classifier is more appropriate.
 
 [23] The matters discussed in this section and the next are treated in greater detail in Ross (2005).
@@ -2531,10 +2531,10 @@ Kara and Patpatar ofNew Ireland and Nehan ofNissan Island (Ross 2005).
 
 __pre__
      mala-ŋali     'Canarium asperum'                 I) ali   'canarium nut, C. indicum'
-     mala-?ado?a    'Canarium harveyi'                ʔado?a   'C. salomonense'
-     mala-?afiʔo    'Syzygium aqueum                  ʔafiʔo   'Malay apple, S. malaccense'
+     mala-ʔado?a    'Canarium harveyi'                ʔado?a   'C. salomonense'
+     mala-ʔafiʔo    'Syzygium aqueum                  ʔafiʔo   'Malay apple, S. malaccense'
      mala-rufa      'Metrosideros parviflora'          rufa     'Syzygium lauterbachii'
-     mala-?asai     'wild mango tree,                 ʔasai    'mango tree, M. indica'
+     mala-ʔasai     'wild mango tree,                 ʔasai    'mango tree, M. indica'
                       Mangifera mucronulata'
      mala-kona      'Burckella sorei'                  kona     'B. obovata'
      mala-dili      'a shrub, Dracaena angustifolia'   dili     'a shrub, Cordyline fruticosa'
@@ -3180,7 +3180,7 @@ __pre__
                                                                                                                                   I
                                                                                                                                niniu
                                                                                                                                                                I
-                                                                                                                                                         .fi?i-ru
+                                                                                                                                                         .fiʔi-ru
           coconut                    tree                          weeds                            vine                                                 clumps
                                        I
                     I         I                 I
@@ -3191,13 +3191,13 @@ __pre__
                                                                                                            I                      I
                                                                                                                               takuma 1
                                                                                                                                                           I
-                                                                                                                                                        ka?o
+                                                                                                                                                        kaʔo
                                                                                                                                                                                 I
                                                                                                                                                                               flu
                                                              pandanus taxon                  Pandanus rubellus                 ferns                   bamboo                ginger
                                                                       I                                                           I
                                                          I
-                                                    faʔu da?i
+                                                    faʔu daʔi
                                                                                    I
                                                                             faʔu tolo                kwaʔe
                                                                                                            I                      I
@@ -3226,16 +3226,16 @@ a way to talk of all plants when working on Kwai ' oloa and Burt' s book. Burt n
 classification of plants by Kwara'ae speakers is mainly for 'pragmatic and utilitarian pur-
 poses' and that not all categories are mutually exclusive, but rather the categories overlap
 in various ways (Kwa'ioloa & Burt 2001: 16). Kwara'ae speakers appear to classify the ma-
-jority of ru bulao ki 'growing things ' into three categories: ?ai 'tree', ji?i-ru 'clumps' and
+jority of ru bulao ki 'growing things ' into three categories: ?ai 'tree', jiʔi-ru 'clumps' and
 kwazo 'vines'. The distinguishing characteristics of ?ai plants are a hard trunk and a branch-
 ing growth structure. Kwara'ae ?ai can also be used more broadly to denote palms, soft-cored
 trees (eg. pawpaw), cordyline shrubs, gingers and ferns, which are not considered ?ai 'tree'
-in the narrow sense of the word.fi?i-ru 'clumps' is the descriptive term, comprising the clas-
-sifier.fi?i and the noun ru 'things', to denote plants that grow as a cluster of stems. Thusfi?i-ru
-'clumps' encompasses plants like gingers, bamboos and ferns . The termfi?i-ru 'clumps' is
+in the narrow sense of the word.fiʔi-ru 'clumps' is the descriptive term, comprising the clas-
+sifier.fiʔi and the noun ru 'things', to denote plants that grow as a cluster of stems. Thusfiʔi-ru
+'clumps' encompasses plants like gingers, bamboos and ferns . The termfiʔi-ru 'clumps' is
 listed as a possible life-form taxon in Figure 3.5, although it is not entirely clear if this is a
 traditional Kwara'ae taxon. However, Burt notes that this category of plants includes those
-which can be indicated by the classifier fi?i , and so traditionally fi?i-ru 'clumps' may have
+which can be indicated by the classifier fiʔi , and so traditionally fiʔi-ru 'clumps' may have
 been a covert category. The term kwazo 'vines ' denotes plants with a climbing or creeping
 growth structure, that is those plants used as cordage, a secondary meaning of kwazo. How-
 ever, kwazo does not include the vines of edible tubers which are referred to as kwaza. While
@@ -3243,13 +3243,13 @@ they appear to form the basis of botanical classification in Kwara' ae, these th
 taxa are not mutually exclusive but rather se:em to be labelled groups along a continuum of
 morphological characteristics, such that ?ai 'tree ' normally referring to plants with single
 hard stems and branches may sometimes be used to refer to cordyline shrubs, which under
-other circumstances may be referred to asji?i-ru 'clumps' .
+other circumstances may be referred to asjiʔi-ru 'clumps' .
 
      Palms do not fit within this three-way classification at all. As noted, palms may be referred
 to as ?ai, but only in its broad sense that denotes all plants, and not in its more narrow sense.
 Burt (Kwa'ioloa and Burt 2001: 17) describes palms as a covert category. K wara' ae speakers
 generally refer to palms by the individual names, but recognise and readily acknowledge
-the similarities amongst them. Palms may be described as ru ki gasi?i rebani 'things we tear
+the similarities amongst them. Palms may be described as ru ki gasiʔi rebani 'things we tear
 into fiat pieces', denoting their shared use for slatting and battens. This is a function that
 characterises palms, but is not restricted to them. Kwa'ioloa and Burt (2001:186) use the
 word niniu to label the category of palms, describing it as denoting kinds of trees (?ai) that
@@ -3271,7 +3271,7 @@ be used to refer to seedlings or saplings.
 
      Kwara'ae ?ai 'tree ' is a large category with over 200 named types described in Kwa'ioloa
 and Burt (200 1: 102-181). They classify ?ai into three groups: (i) ?ai doe ki 'big trees '; (ii) ?ai
-ne?e kesi doe liu go?o ki 'trees which don' t get very big'; and (iii) ?ai ne?e ti?iti?i go?o ki 'trees
+ne?e kesi doe liu goʔo ki 'trees which don' t get very big'; and (iii) ?ai ne?e tiʔitiʔi goʔo ki 'trees
 which are just small' . These descriptive labels and the groups they represent appear to have
 been established for the convenience ofKwa'ioloa and Burt' s (2001) book, and it is unclear if
 they are in common usage amongst Kwara'ae speakers. Thus they are not listed in Figure 3.5.
@@ -3295,13 +3295,13 @@ __pre__
          ʔalaʔala marako Green ?alaʔala, with really green leaves
          ʔalaʔala sako Yellow ?alaʔala, with yellow leaves.
          ʔalaʔala meo Red ?alaʔala, with red leaves
-         ʔalaʔalafi?irodo Getting-dark ?alaʔala, with red and darkish leaves
+         ʔalaʔalafiʔirodo Getting-dark ?alaʔala, with red and darkish leaves
          ʔalaʔala ogamu Wants-to-break ?alaʔala, with a leaf that has breaking points.
 
-    Kwa'ioloa & Burt (2001: 193-219) divide . .n:?i-ru 'clumps' into a number of groups. The
-groupfi?i-ru ne?e boeboena ka ofifafiafa?ina k'i 'clumps with leaf-tubes sheathing the stem'
+    Kwa'ioloa & Burt (2001: 193-219) divide . .n:ʔi-ru 'clumps' into a number of groups. The
+groupfiʔi-ru ne?e boeboena ka ofifafiafaʔina k'i 'clumps with leaf-tubes sheathing the stem'
 encompasses plants like gingers, bananas and alpinas. That is, leafy plants with soft-core
-stems that are sheathed with leaves. The group fi?i-ru ne?e kasiruʔa ki 'clumps which are
+stems that are sheathed with leaves. The group fiʔi-ru ne?e kasiruʔa ki 'clumps which are
 sectioned ' is the descriptive term used for plants like bamboos and reeds that have stems
 with nodes and can thus be cut into internode se:ctions. These two categories are not listed in
 Figure 3.5 as they represent groups of plants that can be seen as similar in form and use, but
@@ -3318,7 +3318,7 @@ tree-fern Cyathea lunulata. Tree-ferns are plants with leaves like ferns but tru
 The young leaf-shoots are eaten and the trunks used for building. The term kwaʔe encompasses
 a number of different named varieties.
 
-    The category of fi?i-ru 'clumps' also includes a number of other plants that do not fit
+    The category of fiʔi-ru 'clumps' also includes a number of other plants that do not fit
 into any of these three smaller categories, including the various types of named pandanus.
 Within the scope of the book, Kwa'ioloa & Burt (2001: 214) use the termfaʔu for all types
 of pandanus. However, it is not clear that this is a traditional Kwara'ae category, and so it is
@@ -3327,7 +3327,7 @@ not included in Figure 3.5.
                                                                           Ethnobotanical classification   67
 
 
-    The term kwazo 'vines' appears to be a smaller taxon than either ?ai 'trees' or fi?i-ru
+    The term kwazo 'vines' appears to be a smaller taxon than either ?ai 'trees' or fiʔi-ru
 'clumps' , with only 38 subtaxa listed by Kwa'ioloa and Burt. A few of these are further
 subclassified, but the majority are terminal taxa. It is not clear where grasses and grass-like
 plants fit into the Kwara'ae classification, as they are not mentioned by Kwa'ioloa and Burt,
@@ -3384,10 +3384,10 @@ __pre__
           hahe mora with pale leaves
           hahe rei with very small leaves
           boboro a species of hahe
-    ?o?o A species of tree
-          ?o?omaradaro variety used for gong making
-          ?o?orawaraha another variety
-          ?o?ori?i a variety used for making outrigger canoes
+    ?oʔo A species of tree
+          ?oʔomaradaro variety used for gong making
+          ?oʔorawaraha another variety
+          ?oʔoriʔi a variety used for making outrigger canoes
 
                                                                                                     (plants)
 
@@ -3472,7 +3472,7 @@ terms and definitions from Milner (1966). Samoan laʔau , as well as being the g
 which denotes 'trees', also appears to be used as the generic term for all plants and occurs as
 the initial element in a number of plant names, including trees (laʔau lopa 'red sandalwood,
 Adenanthera species'), shrubs (laʔaufailafa 'candelabra bush, Cassia species'), herbs (laʔau
-faimoti 'herb, Euphorbia species' ), and woody vines (laʔau ?ie 'liane, Freycinetia species ').
+faimoti 'herb, Euphorbia species' ), and woody vines (laʔau ʔie 'liane, Freycinetia species ').
 
 
 70    Bethwyn Evans
@@ -3946,7 +3946,7 @@ would have been known to POc speakers, or indeed, for which terms can be reconst
 The contrast between POc *kayu 'plants with woody stems and branches ', *pali[s,j]i 'grass-
 like plants' and *waRoc 'plants with creeping or climbing growth structure' leaves open the
 question of how non-woody leafy plants, such as alpinias or gingers and the like, would have
-been classified by a POc speaker. In Kwara'aefi?i-ru is the descriptive category that encom-
+been classified by a POc speaker. In Kwara'aefiʔi-ru is the descriptive category that encom-
 passes plants which grow as a cluster of stems, including plants like ginger with leaf-tubes
 sheathing the stem, plants with sectioned stems like bamboo, plants like ferns and pandanus
 (Kwa'ioloa and Burt 2001: 193-219). Hawaiian appears to have a similar category, pu which
@@ -4004,16 +4004,16 @@ __pre__
 
    POc *qauR appears to have been the general term for bamboos, with a number of more
 specific terms also reconstructable (ch.l3 , §3.1 ). Kwa'ioloa and Burt (2001) use the descrip-
-tive termfi?i-ru 'clumps ' or 'plants which grow as several stems' , or more narrowly fi?i-ru
+tive termfiʔi-ru 'clumps ' or 'plants which grow as several stems' , or more narrowly fiʔi-ru
 ne?e kasiruʔa ki 'clumps which are sectioned' to represent a group of plants including bam-
-boos which have similar growth patterns and uses. In Kwara'ae ka?o 'bamboo, Nastus ob-
+boos which have similar growth patterns and uses. In Kwara'ae kaʔo 'bamboo, Nastus ob-
 tusus' is called 'proper bamboo', but this tenn does not appear to be used as a generic for all
 bamboos (outside ofKwa'ioloa and Burt' s book). In Wayan Fijian, bamboos and reeds are
 included in the i5 'grasses' taxon. But there is no clear evidence that bamboos were considered
 part of any larger category that can be reconstructed for POc.
 
     It is unclear how pandanus were classified by POc speakers. In Kwara' ae, pandanus are
-considered to be part of the larger category of fi?i-ru 'clumps' , whereas in Wayan Fijian
+considered to be part of the larger category of fiʔi-ru 'clumps' , whereas in Wayan Fijian
 pandanus are considered part of the kai 'trees and shrubs' taxon. In ch.11 , §2.5 Ross recon-
 structs a number of terms for different types of pandanus and suggests that *padran 'coastal
 pandanus, Pandanus tectorius' was also the: generic term for pandanus. This is supported
@@ -4042,7 +4042,7 @@ __pre__
                       palep              'weeds, rubbish; in a plantation'
   MM:     Teop        subui              'weeds'
   SES:    Gela       makiri             'smalll weeds in a garden'
-  SES:    Lau         ?oro?oro           'weeds, grass, anything small growing up'
+  SES:    Lau         ?oroʔoro           'weeds, grass, anything small growing up'
                       murua              'weeds and grass'
   SES:    Kwaio       fufulu             'weed, grass'
   SES:    Kwara'ae   !au a              'weeds, plants that can (and often should) be pulled
@@ -4649,7 +4649,7 @@ PNCV *raa, *ra-ra- 'branch' (Clark 1996b)
     Fij:   Rotuman         rã               'branch, bough'
     Pn:    Niuean          lã               '(tree) branch; carries connotation of being small or the smaller part of a whole'
     Pn:    Tikopia          rã              'stem; twig; minor branch of tree, as opposed to _maŋa_, a major branch'
-    Pn:    E Futunan       la?a-laʔa       'small branch'
+    Pn:    E Futunan       laʔa-laʔa       'small branch'
     Pn:    Rennellese      gaʔa             'branch'
     Pn:    Samoan          lãlã             'branch'
 >
@@ -5244,7 +5244,7 @@ ditional Oceanic societies. A POc term *qatop 'thatch, roof can be reconstructed
 ch.3, §3.4), with reflexes in many languages that refer specifically to sago-leaf thatch. In SE
 Solomonic and North-Central Vanuatu languages reflexes of this term denote the sago palm,
 as well as sago-leaf thatch. In Arosi that ao 'sago palm' can refer to the leaves is evident from
-compounds such as adodo ao 'to lay together the leaves in bundles', susu?i ao 'layers of sewn
+compounds such as adodo ao 'to lay together the leaves in bundles', susuʔi ao 'layers of sewn
 leaves put ready for thatching' and taba ao "to go out and cut sago palm leaves'. However,
 reflexes of POc *qatop that refer specifically to sago palm leaves are not widespread, and
 so unlike POc *sulu(q), a secondary 'leaf meaning does not appear to be reconstructable. In
@@ -6022,7 +6022,7 @@ Proto Remote Oceanic *kilit 'skin, bark'
   Pn:     Niuean     kili            'bark; skin'
   Pn:     Tikopia     kiri            '(human, animal) skin; (tree) bark'
   Pn:     E Futunan   kili            'skin; bark, (fruit) peel'
-  Pn:     Hawaiian    ?iii            'skin, complexion, hide, scalp, bark, rind, peel'
+  Pn:     Hawaiian    ʔiii            'skin, complexion, hide, scalp, bark, rind, peel'
 >
 
     Specific terms for the outer coverings of different parts of the coconut are also recon-
@@ -6097,7 +6097,7 @@ cf. also:
      SES:      Arosi        buru             'tree species, Parinarium laurinum; the gum is used to caulk canoes'
 >
 
-[15] The -?ia ending ofKwaio butu?ia probably reflects tht: transitive suffix and 3sG object suffix. While there is
+[15] The -ʔia ending ofKwaio butuʔia probably reflects tht: transitive suffix and 3sG object suffix. While there is
 no corresponding intransitive form tbutu, Kwaio does have other forms that look to be derived from an original
 base *butu, such as butua 'squeeze together' and iota butubutu 'a traditional composite canoe' (iota 'canoe')
 (Keesing 1975: 29).
@@ -6770,7 +6770,7 @@ flexes, as they make a reliable PEOc reconstruction impossible. Proto Southeast 
 which was also regularly reflected as Proto Southeast Solomonic *vatu, as the SES forms above
 show. The PNCV form *bwakala displays the rounding feature not on its final syllable (cf
 Proto Southeast Solomonic *-o) but on its first syllable. This is decidedly unusual, but, as the alter-
-native Kwara'ae dialectal formfa?ola shows, rounding shift does occur.
+native Kwara'ae dialectal formfaʔola shows, rounding shift does occur.
 
 <
 PEOc *pakalo, *pwakala (?)'Hibiscus sp.'
@@ -6779,7 +6779,7 @@ Proto Southeast Solomonic *vayalo 'Hibiscus tiliaceus'
   SES: Bugotu         vayaoo       'Hibiscus tiliaceus' (Henderson & Hancock 1988)
   SES: Gela            vayalo       'tree sp.'
   SES: Birao           vahalo       'Hibiscus tiliaceus'
-  SES: Kwara'ae       faʔalo,fa?ola 'Hibiscus tiliaceus' (Henderson & Hancock 1988)
+  SES: Kwara'ae       faʔalo,faʔola 'Hibiscus tiliaceus' (Henderson & Hancock 1988)
   SES: Dori'o         faʔalo        'Hibiscus tiliaceus'
   SES: Arosi          haʔaro        'Hibiscus tiliaceus'
   SES: Kahua          haʔaro        'Hibiscus tiliaceus'
@@ -7241,7 +7241,7 @@ __pre__
      NCV: S Efate             na-mara       'Adenanthera pavonina'(Wheatley 1992: 133)
      Fij: Bauan               mala          'Dysoxylum lenticillare, tree with large yellow-green flowers'
                          mala-mala          'Dysoxylum spp.' (Keppel et al. 2005)
-     Pn:      Tongan     mala-mala(-?a-toa) 'small tree sp., Memecylon harveyi' (Whistler 1991b:81)
+     Pn:      Tongan     mala-mala(-ʔa-toa) 'small tree sp., Memecylon harveyi' (Whistler 1991b:81)
      Pn:      Niuean     ma-ma/a            'k.o. tree'
      Pn:      Emae       mara-mara          'Adenanthera pavonina'
      Pn:      Ifira-Mele mwara              'Adenanthera pavonina' (probably borrowed from a NCV language)
@@ -8369,7 +8369,7 @@ PPn *alo-alo 'Premna sp.'
   Pn:  Niuean         alo-alo          'Premna sp.'
   Pn:  Samoan         alo-alo          'Premna corymbosa'
   Pn:  Samoan         |alo-alo (tai)|  'a beach shrub, Clerodendrum inerme'
-PPn *walo-walo Premna spp.'
+PPn *walo-walo 'Premna spp.'
   Pn:  E Uvean        valo-valo        'Premna taitensis'
   Pn:  E Futunan      valo-valo        'Premna taitensis'
   Pn:  Anutan         varo-varo        'Premna integrifolia'
@@ -8524,24 +8524,24 @@ metonymically for the whole tree and not just the roots.
 PMP *waket 'mangrove root' (ACD)
 POc *wako(t) 'mangrove root'
   PT:   Tawala       wakoya      'mangrove'
-  Mic: Kosraean      nk-nk       'mangrove root'
+  Mic: Kosraean      ɒk-ɒk       'mangrove root'
   Mic: Mokilese      ak          'mangrove'
   Mic: Ponapean      ak          'generic for mangroves'
 >
 
-   PWOc *haul perhaps denoted Rhizophora: its Tolai reflex, haul 'mangrove, Rhizophora
-apiculata', contrasts with tmyor, the generic term for mangroves including both Rhizophora
+   PWOc *baul perhaps denoted Rhizophora: its Tolai reflex, _baul_ 'mangrove, Rhizophora
+apiculata', contrasts with _toŋor_, the generic term for mangroves including both Rhizophora
 and Bruguiera species.
 
 <
-PWOc *haul 'mangrove, Rhizophora sp. (?)"(Ross 1996c)
+PWOc *baul 'mangrove, Rhizophora sp. (?)' (Ross 1996c)
  NNG: Kove           vale         'mangrove'
- NNG: Yabem          (ka)hɔ?     'k.o. mangrove tree'
+ NNG: Yabem          (ka)bɔʔ      'k.o. mangrove tree'
  PT:   Duau          pauli        'mangrove'
- PT:   Suau (Daui) pauli          'mangrove'
+ PT:   Suau (Daui)   pauli        'mangrove'
  PT:   Suau (Saliba) pauli        'mangrove (generic)'
- MM: Patpatar        haul         'mangrove'
- MM: Tolai           haul         'mangrove, Rhizophora apiculata'
+ MM: Patpatar        baul         'mangrove'
+ MM: Tolai           baul         'mangrove, Rhizophora apiculata'
 >
 
 As a generic, Saliba pauli includes Ceriops tagal, Rhizophora spp. and Bruguiera spp. (Mar-
@@ -8552,7 +8552,7 @@ getts 2005h).
 
 6.3 The Bruguiera zone of the mangrove forest
 
-6.3.1 Bruguiera spp., P ko 'a (Rhizophoraceae)
+6.3.1 Bruguiera spp., P ko'a (Rhizophoraceae)
 
                                           In the Bismarcks Bruguiera gymnorrhiza, the or-
                                           ange or large-leafed mangrove, dominates the inner
@@ -8593,52 +8593,52 @@ gloss is simply 'mangrove ', this is sometimes simply the result ofpoor glossing
 <
 PAn *teŋeR 'mangrove, Bruguiera spp.' (Blust 1972b)
 POc *toŋoR 'mangrove, Bruguiera spp.; mangroves (generic)' (Ross 1996c)
-  Adm:    Mussau         toŋo         'mangrove sp. with edible fruit'
-  NNG:    Malai          toŋor        'mangrove'
-  NNG:    Tami           toŋ          'mangrove'
-  NNG:    Mindiri        tUOfj         'mangrove'
-  NNG:    Bilibil        tO f)         'mangrove'
-  NNG:    Gedaged        tO f)         'mangrove'
-  NNG:    Yabem          (ka)to?       'mangrove'
-  NNG:    Numbami       toloŋa       'mangrove, Bruguiera spp.'
-  PT:     Sud est        roŋwe        'mangrove, Bruguiera spp.'
-  PT:     Motu           to-toa        'Rhizophora mucronata' (Lane-Poole 1925)
-  MM: Lavongai        tOf)Oŋ      'mangrove'
-  MM: Tiang           tOf)Oi       'mangrove'
-  MM: Minigir         tOf)Or       'mangrove, Bruguiera spp.'
-  MM: Patpatar        tO f)        'mangrove'
-  MM: Tolai           tOf)Or       'mangrove, Bruguiera and Rhizophora spp.'
-  MM: Taiof           tOf)On       'mangrove'
-  MM: Mono-Alu        toto         'Rhizophora spp.' (W. McClatchey, pers. comm.)
+  Adm:    Mussau      toŋo         'mangrove sp. with edible fruit'
+  NNG:    Malai       toŋor        'mangrove'
+  NNG:    Tami        toŋ          'mangrove'
+  NNG:    Mindiri     tuoŋ         'mangrove'
+  NNG:    Bilibil     toŋ          'mangrove'
+  NNG:    Gedaged     toŋ          'mangrove'
+  NNG:    Yabem       (ka)toʔ      'mangrove'
+  NNG:    Numbami     toloŋa       'mangrove, Bruguiera spp.'
+  PT:     Sudest      roŋʷe        'mangrove, Bruguiera spp.'
+  PT:     Motu        to-toa       'Rhizophora mucronata' (Lane-Poole 1925)
+  MM: Lavongai        toŋoŋ        'mangrove'
+  MM: Tiang           toŋoi        'mangrove'
+  MM: Minigir         toŋor        'mangrove, Bruguiera spp.'
+  MM: Patpatar        toŋ          'mangrove'
+  MM: Tolai           toŋor        'mangrove, Bruguiera and Rhizophora spp.'
+  MM: Taiof           toŋon        'mangrove'
+  MM: Mono-Alu        tolo         'Rhizophora spp.' (W. McClatchey, pers. comm.)
 PEOc *toŋoR 'mangrove'
-  SES: Gela          tOf)O        'a mangrove'
-  SES: Sa'a           Of]O         'mangrove'
+  SES: Gela           toŋo         'a mangrove'
+  SES: Sa'a           oŋo          'mangrove'
   SES: 'Are'are       ono          'mangrove'
-  NCV: Araki          (vi)COf]O    'Rhizophora sp.'
-  NCV: Raga           tOfj-tOf)O   'mangrove'
-  NCV: Naman          ne-dofJ      'mangrove'
-  NCV: Avava          o-dofJ       'mangrove'
-  NCV: Uripiv         na-roŋ      'Ceriops tagal'
-  NCV: Lonwolwol tO f)             'mangrove'
-  NCV: Paamese        a-toŋo      'mangrove'
-  NCV: Namakir        toŋotoŋ    'mangrove'
+  NCV: Araki          (vi)coŋo     'Rhizophora sp.'
+  NCV: Raga           toŋ-toŋo     'mangrove'
+  NCV: Naman          ne-doŋ       'mangrove'
+  NCV: Avava          o-doŋ        'mangrove'
+  NCV: Uripiv         na-roŋ       'Ceriops tagal'
+  NCV: Lonwolwol      toŋ          'mangrove'
+  NCV: Paamese        a-toŋo       'mangrove'
+  NCV: Namakir        toŋotoŋ      'mangrove'
 PSV *na-doŋa(q) 'mangrove, Rhizophora spp.' (Lynch 2001c)
-  SV:    Sye          (ne)tuŋo    'mangrove, Rhizophora sp.'
-  SV:    Lenakel      toŋo        'mangrove'
-  SV:    Anejom       ne-ceŋ      'mangrove, Rhizophora sp.'
-  NCal: Nemi          }en          'mangrove'
+  SV:    Sye          (ne)tuŋo     'mangrove, Rhizophora sp.'
+  SV:    Lenakel      toŋo         'mangrove'
+  SV:    Anejom       ne-ceŋ       'mangrove, Rhizophora sp.'
+  NCal: Nemi          jen          'mangrove'
   NCal: Nyelayu       jan          'mangrove'
   NCal: Nelemwa       kan          'Bruguiera gymnorrhiza'
-  Mic: Kiribati       tOf)O        'mangrove (generic); Bruguiera gymnorrhiza and Rhizophora mucronata
-  Mic: Ponapean        c;:oŋ      'mangrove sp., bark of which is used for dyeing'
+  Mic: Kiribati       toŋo         'mangrove (generic); Bruguiera gymnorrhiza and Rhizophora mucronata'
+  Mic: Ponapean       c̣oŋ          'mangrove sp., bark of which is used for dyeing'
 PCP *toŋo 'mangrove, probably Bruguiera gymnorrhiza; mangroves (generic)'
-  Fij:    Wayan        toŋo       'Bruguiera gymnorrhiza; also generic for mangrove spp. including Bruguiera gymnorrhiza and Rhizophora spp.'
-  Pn:     Tongan       tOf)O       'mangrove'
-  Pn:     Niuean      tOf)O       'legendary tree, said to be the mangrove'
-  Pn:     Rennellese tOf)O         'mangrove, Bruguiera gymnorrhiza'
-  Pn:     Tikopia      tOf)O       'mangrove'
-  Pn:     Samoan       tOf)O       'taxon of mangrove species inc. Bruguiera gymnorrhiza and Rhizophora mangle' (Whistler 2000: 204)
-  Pn:     Mangarevan toŋo-toŋo   'mangrove'
+  Fij:    Wayan       toŋo         'Bruguiera gymnorrhiza; also generic for mangrove spp. including Bruguiera gymnorrhiza and Rhizophora spp.'
+  Pn:   Tongan        toŋo         'mangrove'
+  Pn:   Niuean        toŋo         'legendary tree, said to be the mangrove'
+  Pn:   Rennellese    toŋo         'mangrove, Bruguiera gymnorrhiza'
+  Pn:   Tikopia       toŋo         'mangrove'
+  Pn:   Samoan        toŋo         'taxon of mangrove species inc. Bruguiera gymnorrhiza and Rhizophora mangle' (Whistler 2000: 204)
+  Pn:   Mangarevan    toŋo-toŋo    'mangrove'
 >
 
                                                            The mangrove swamp       177
@@ -8663,7 +8663,7 @@ Myristica hollrungii cannot at present be reconstructed.
 
 Three Cerbera species are associated with mangrove swamps. All three grow in coastal loca-
 tions and are often associated with muddy habi1cats. Two, C. manghas and C. manghas (syn.
-C.floribunda), are similar to each other, and some languages treat them as a single taxon.
+C. floribunda), are similar to each other, and some languages treat them as a single taxon.
 They are trees 10-20 m tall and about a metre in girth. The third, C. odollam, is a large shrub
 or small tree about 10m in height. All three hav1e shiny green leaves and sweet-scented white
 flowers with a red (C. manghas) or yellow (C. odollam) centre. The seed is surrounded by
@@ -8707,15 +8707,15 @@ further comparisons.
 but not where it is also expected, in Teop, Nduke, Roviana and Marovo.
 
 <
-POc *p (wJawa(t) 'Cerbera spp., probably C.floribunda and C. manghas'
+POc *(p,pʷ)awa(t) 'Cerbera spp., probably C. floribunda and C. manghas'
   PT:     Misima       pawat          'Cerbera manghas'
-  MM:     Lavongai     bau            'Cerberafloribunda'
-  MM:     Kara (E)     vau(kip)       'Cerbera manghas'
+  MM:     Lavongai     bau            'Cerbera floribunda'
+  MM:     Kara (E)     vəu(kip)       'Cerbera manghas'
   MM:     Teop         pau            'Cerbera manghas' (Record 1945)
   MM:     Nduke        vao            'Cerbera spp. inc. C.jioribunda and C. manghas'
   MM:     Roviana      vao            'Cerbera spp. inc. C.jioribunda and C. manghas'
   MM:     Marovo       vao            'Cerbera spp. inc. C.jioribunda and C. manghas'
-  SES:    Gela        vao-vao        'large-leaved shrub sp. (possibly C. odollam)
+  SES:    Gela        vao-vao        'large-leaved shrub sp.' (possibly C. odollam)
   SES:    Arosi        hao-hao        'tree sp.'
   SES:    Lau          fao-fao        'tree sp., Bombax malabaricum'
 >
@@ -8726,7 +8726,7 @@ PCP *rewa 'tree, Cerbera sp., probably Cerbera odollam'
   Fij:    Bauan         rewa          'Cerbera odollum, with long, narrow leaves'
   Pn:     E Uvean       leva          'Cerbera lactaria'
   Pn:     E Futunan     leva          'Cerbera odollam'
-  Pn:     Rennellese    gef3a         'Cerbera odollam'
+  Pn:     Rennellese    geβa         'Cerbera odollam'
   Pn:     Tikopia       reva          'tree that grows only on the mountain'
   Pn:     Emae          reva          'Cerbera odollam'
   Pn:     Ifira-Mele    reva          'Cerbera odollam'
@@ -8815,18 +8815,17 @@ cases Cerbera manghas, also a mangrove) reflect the same POc etymon.
        deed the same term.
 
 <
-POc *dotoq 'sticky liquids including the sap of (some?) trees'; 'a mangrove tree, probably
-  Excoecaria agallocha' (Lynch (2004a): PSOc *(t,d)oto(q))
+POc *dotoq 'sticky liquids including the sap of (some?) trees'; 'a mangrove tree, probably Excoecaria agallocha' (Lynch 2004a: PSOc *(t,d)oto(q))
   MM: Bola             toto          'Cerbera manghas' (Powell 1976)
   MM: Marovo           ototo         'Excoecaria agallocha'
-  SES: Kwara'ae       toto(1j'"ala) 'Cerbera manghas' (irregular: see text above)
+  SES: Kwara'ae       toto(ŋʷala) 'Cerbera manghas' (irregular: see text above)
   NCV: Mwotlap         no-dot        'Excoecaria agallocha'
   NCV: Mota            noto          'Excoecaria agallocha'
-  NCV: Tamambo (vu)toto              'tree sp. with sticky sap, grows near water'
+  NCV: Tamambo         (vu)toto      'tree sp. with sticky sap, grows near water'
   NCV: Uripiv          na-tot        'Excoecaria agallocha'
 PSV *na-tetaq 'Excoecaria agallocha' (Lynch 2001c)
   SV:   Sye              yate        'Excoecaria agallocha'
-  SV:   Lenakel          tara        'Excoecaria agallocha'
+  SV:   Lenakel          təra        'Excoecaria agallocha'
   SV:   Anejom           ne-tet      'Excoecaria agallocha'
   NCal: Nemi             dao         'Excoecaria agallocha'
   NCal: Nyelayu          jayo        'Excoecaria agallocha'
@@ -8870,10 +8869,10 @@ Nguna (NCV) totoa 'sap, exude sap' (NCV items from Clark 1996b), PPn *toto ' blo
 
 
 <
-POc *kayu qone 'Heritiera littoralis'
+POc *|kayu qone| 'Heritiera littoralis'
   MM: Patpatar          i-kon            'Heritiera littoralis'
   MM: Tolai             ka-kono          'Heritiera littoralis' (Record 1945)
-  NCal: Nyelayu         khon             'Heritiera littoralis'
+  NCal: Nyelayu         kʰon             'Heritiera littoralis'
 >
 
 <
@@ -8929,7 +8928,7 @@ large red fruit with flesh surrounding a seed which
 is triangular-pyramidal in shape and 5-8 em across.
 The fruit of X. moluccensis hangs heavily and is
 larger than the fruits of other trees, earning the tree
-the name 'testicles tree' in Kwara'ae (ja?i lalato;
+the name 'testicles tree' in Kwara'ae (jaʔi lalato;
 Kwa'ioloa & Burt 2001: 122) and in Uripiv (n-ai
 las/as; J. Lynch, pers. comm.). 5 The fruit is di-
 vided into four quadrants, each containing 3-5 ir-
@@ -8947,7 +8946,7 @@ PCP *legi-legi 'puzzlenut tree, Xylocarpus granatum'.
 POc *tapi(l) 'puzzlenut tree, Xylocarpus granatum' (?)
   PT:  Muyuw                tavi            'Xylocarpus granatum' (Damon 2004)
   SES: Gela                 tavili          'mangrove species'
-  NCV: Lemerig              n-?av-?av       'Rhizophora sp.'
+  NCV: Lemerig              n-ʔav-ʔav       'Rhizophora sp.'
 >
 
 <
@@ -8957,7 +8956,7 @@ PCP *legi-legi 'puzzlenut tree, Xylocarpus granatum' (Biggs 1965)
   Fij:    Bauan        legi-legi      'Xylocarpus granatum'
 PPn *leki-leki 'puzzlenut tree, Xylocarpus sp.'
   Pn:     Tongan       leki-leki      'Xylocarpus granatum and X. moluccensis'
-  Pn:     Samoan       le?i-le?i      'Xylocarpus moluccensis'
+  Pn:     Samoan       leʔi-leʔi      'Xylocarpus moluccensis'
 >
 
 
@@ -9108,7 +9107,7 @@ POc *sabakap 'Alstonia scholaris' (Chowning 2001: 84)
   MM: Nehan           habau         'Alstonia scholaris' (-u unexplained)
   MM: Varisi          bayava        'Alstonia scholaris' (W. McClatchey, pers. comm.)
   MM: Avaso           boava         'Alstonia scholaris' (W. McClatchey, pers. comm.)
-  MM: Ririo           bo?o          'Alstonia scholaris' (W. McClatchey, pers. comm.)
+  MM: Ririo           boʔo          'Alstonia scholaris' (W. McClatchey, pers. comm.)
   MM: Babatana        bua           'Alstonia scholaris' (W. McClatchey, pers. comm.)
   MM: Sisingga        bayava        'Alstonia scholaris' (W. McClatchey, pers. comm.)
   SES: Gela          habaga        'Alstonia scholaris'
@@ -9120,11 +9119,11 @@ POc *sabakap 'Alstonia scholaris' (Chowning 2001: 84)
 188    Malcolm Ross
 
 
-7.3.2 Falcataria moluccana (syn. Albizia fa/cataria, A. moluccana, A. falcata, Paraserianthes fa/cataria) (Mimosaceae)
+7.3.2 Falcataria moluccana (syn. Albizia falcataria, A. moluccana, A. falcata, Paraserianthes falcataria) (Mimosaceae)
 
 Figure 7.1 Falcataria moluccana.
 
-F. moluccana was until recently known as Albi.zia fa/cataria. Because there are items in the
+F. moluccana was until recently known as Albi.zia falcataria. Because there are items in the
 data glossed 'Albizia sp.' which may in fact denote F. moluccana, the genera Falcataria and
 Albizia are handled together here.
 
@@ -9148,8 +9147,7 @@ Albizia are handled together here.
                                            (200 1: 107), discussing the similar Albizia salomo-
                                            nensis on Malaita, say that it only grows close to
                                            rivers and prefers sandy soils. If the same is true
-                                           of F. moluccana, then its occurrence in Bismar-
-           cks rain forests three thousand years ago may have
+                                           of F. moluccana, then its occurrence in Bismarcks rain forests three thousand years ago may have
                                            been rather rare, resulting in the frequent loss of in-
 herited terms for the species. Alternatively, the fact that it has little use may account for the
 dearth of cognates (ch.14, §2).
@@ -9181,20 +9179,20 @@ chinensis.
 <
 PCEMP *bail 'Falcataria moluccana or Albizia sp.'
 POc *pail 'Falcataria moluccana'
-  Adm: Nyindrou         bei           'Falcataria moluccana'
-  NNG: Lukep (Pono) pai-pai           'tree sp. with light wood used for making canoe's outrigger'
-  MM: Tolai             vail-ail      'a beach tree, Pongamia pinnata'
-  MM: Nehan             puil          'Falcataria moluccana'(-ui- for t-ei-)
-  MM: Babatana          va-vae (miga) 'Albizia saman' (introduced from S America)
-  MM: Kia              fai            'Falcataria moluccana' (W. McClatchey, pers. comm.)
-  SES: Longgu           pai           'tree sp. used to make canoes'
-  SES: Kwara'ae        fai            'Falcataria moluccana'
+  Adm: Nyindrou         bei             'Falcataria moluccana'
+  NNG: Lukep (Pono) pai-pai             'tree sp. with light wood used for making canoe's outrigger'
+  MM: Tolai             vail-ail        'a beach tree, Pongamia pinnata'
+  MM: Nehan             puil            'Falcataria moluccana'(-ui- for t-ei-)
+  MM: Babatana          |va-vae (miga)| 'Albizia saman' (introduced from S America)
+  MM: Kia              fai              'Falcataria moluccana' (W. McClatchey, pers. comm.)
+  SES: Longgu           pai             'tree sp. used to make canoes'
+  SES: Kwara'ae        fai              'Falcataria moluccana'
 >
 
 <
 PCEMP *ka(w)iak 'Albizia sp.'
 POc *kai(k) 'Albizia sp.'
-  MM: Nakanai          kai               Albizia sp. (Floyd 1954)
+  MM: Nakanai          kai               'Albizia sp.' (Floyd 1954)
 >
 
 
@@ -9286,7 +9284,7 @@ POc term for the species, namely *olaŋa.
                                                                              Primary rain forest       191
 
 <
-POc *olaŋa Campnosperma brevipetiolatum
+POc *olaŋa 'Campnosperma brevipetiolatum'
   Adm: Bipi          laŋ         'Campnosperma brevipetiolatum' (O'Collins & Lamothe 1989)
   Adm: Nyindrou     lam           'Campnosperma brevipetiolatum' (O'Collins & Lamothe 1989)
   MM: Marovo       olaŋa          'Campnosperma brevipetiolatum'
@@ -9356,37 +9354,37 @@ t*moso(u)) are problematic. They may reflect a Proto Meso-Melanesian borrowing o
 resemblance.
 
 <
-POc *m(w)aso(q)u 'wild cinnamon, Cinnamomum sp., probably C. xanthoneuron; possibly also Cananga odorata' (Milke 1968)
+POc *(m,mʷ)aso(q)u 'wild cinnamon, Cinnamomum sp., probably C. xanthoneuron; possibly also Cananga odorata' (Milke 1968)
   Adm: Mussau         mosou        'wild cinnamon, Cinnamomum sp.'
   Adm: Lou            moso         'tree with redolent bark, the cinnamon, Cinnamomum xanthoneuron'
-  Adm: Baluan         mwasow       'wild cinnamon, Cinnamomum sp.'
+  Adm: Baluan         mʷasow       'wild cinnamon, Cinnamomum sp.'
   Adm: Nauna          moso         'Cananga odorata' (Blust 1981a)
   NNG: Maenge         miau         'Cinnamomum sp.'
   NNG: Kove           modou        'aromatic plant, possibly cinnamon, used in healing' (A. Chowning, pers. comm.)
-  NNG: Yabem          mus1         'wild cinnamon, Cinnamomum sp.'
+  NNG: Yabem          mʋsı         'wild cinnamon, Cinnamomum sp.'
   NNG: Bing           miyou        'Cryptocarya aromatica' (Mager 1952: 204)
   NNG: Gedaged        mio          'Cryptocarya aromatica' (Mager 1952: 204)
   NNG: Megiar         muyou        'cinnamon bark' (Kasprus 1945)
-  PT:    Are          masoyi       'wild cinnamon, Cinnamomum sp.' (borrowed ?)
-  MM: Kara (E)        miJdeu       'Cananga odorata'
-  MM Nehan            mudu-mud 'Cananga odorata'
+  PT:    Are          masoɣi       'wild cinnamon, Cinnamomum sp.' (borrowed ?)
+  MM: Kara (E)        mədeu       'Cananga odorata'
+  MM: Nehan            mudu-mud 'Cananga odorata'
   MM: Varisi          mudu-mudu 'Cananga odorata' (McClatchey et al. 2005)
   MM: Ririo           mud-mud      'Cananga odorata' (W. McClatchey, pers. comm.)
   MM: Babatana        mudu-mudu 'Cananga odorata' (McClatchey et al. 2005)
   MM: Nduke           mu-mudu      'Cananga odorata'
   MM: Marovo          mudu         'a tree of1che secondary forest, with yellow fragrant flowers that are used in coconut oil'
-  Fij:   Bauan        maoou        'wild cinnamon, Cinnamomum sp.'
+  Fij:   Bauan        maðou        'wild cinnamon, Cinnamomum sp.'
 PCP *m(w)aso-koi 'perfume tree, Cananga odorata' (Milke 1961)
-  Fij:   Wayan        makosoi      'Cananga odorata' (metathesis)
+  Fij:   Wayan        mākosoi      'Cananga odorata' (metathesis)
   Fij:  Bauan       makosoi                   'Cananga odorata' (metathesis)
 PPn *mosokoi 'Cananga odorata'
   Pn:   Tongan      mohokoi                   'Cananga odorata'
   Pn:   E Futunan mosokoi                     'Cananga odorata'
   Pn:   Tikopia     mosokoi                   'Cananga odorata'
-  Pn:   Samoan      moso?oi                   'Cananga odorata'
+  Pn:   Samoan      mosoʔoi                   'Cananga odorata'
 cf. also:
-     SES:     Kwara'ae         mudu          'Dillenia ingens'
-     Fij:     Rotuman           moskoy        'tree with greenish-yellow flowers and clusters of fruit; timber used for canoes' (Polynesian borrowing)
+  SES:  Kwara'ae         mudu          'Dillenia ingens'
+  Fij:  Rotuman           moskoy        'tree with greenish-yellow flowers and clusters of fruit; timber used for canoes' (Polynesian borrowing)
 >
 
 [9] Geraghty (2004 : 86--87) suggests that the Fijian form makosoi can be analysed as mako 'a forest tree, Cyatho-
@@ -9416,8 +9414,8 @@ kalambok, Lanao kalambuguy,[11] both 'D. philippensis' (Madulid 2001b: 100).
 <
 PMP *kelabuR 'large Dillenia species'
 POc *kulapu(R) 'Dillenia schlechteri'
-  Adm: Nyindrou       kun           'Dillen ia sp.
-  MM: Patpatar        (e)kulap      'Dillen ia schlechteri'
+  Adm: Nyindrou       kun           'Dillenia sp.'
+  MM: Patpatar        (e)kulap      'Dillenia schlechteri'
   Fij:   Bauan        kuluva        'Dillenia biflora' (Keppel et al. 2005)
   Fij:   Wayan        kulu-kulu     'Dillenia biflora' [12]
 >
@@ -9477,7 +9475,7 @@ its first element, as the fruits of the two plants are similar in appearance (Ge
 PAn *daqu 'Dracontomelon dao' (Blust 1986)
 POc *raqu(p) 'New Guinea walnut, Dracontomelon dao'
   Adm: Mussau         ra           'Dracontomelon dao'
-  Adm: Nyindrou       "rau         'Dracontomelon sp.'
+  Adm: Nyindrou       ⁿrau         'Dracontomelon sp.'
   Adm: Baluan         you          'Dracontomelon dao'
   NNG: Lukep (Pono) rak           'Dracontomelon dao'
   NNG: Takia          rau          'Dracontomelon dao'
@@ -9489,7 +9487,7 @@ Proto Remote Oceanic *raqu 'dragon plum tree, Dracontomelon dao'
   NCV: Mota           rau          'a fruit tree'
   NCV: Paamese        e-au         'Dracontomelon dao'
   NCV: Lewo            (puru-)lu    'Dracontomelon dao'
-  NCV: Namakir         ra?          'Dracontomelon dao'
+  NCV: Namakir         raʔ          'Dracontomelon dao'
   NCV: Nguna           na-rau       'Dracontomelon dao'
   NCV: Nguna           na-rau       'Dracontomelon dao'
   SV:    Sye           na-ray       'Dracontomelon dao'
@@ -9505,16 +9503,16 @@ PCP *(tawa)raqu 'dragon plum tree, Dracontomelon vitiense'
 
 <
 PNCV *katabola 'Dracontomelon dao' (Clark 1996a)
-  NCV: NE Ambae gatabo/a         'Dracontomelon dao'
+  NCV: NE Ambae     gatabola         'Dracontomelon dao'
   NCV: Kiai         atapolo      'Dracontomelon dao'
-  NCV: Raga         yatabola     'tree sp.' (Walsh 2004)
+  NCV: Raga         ɣatabola     'tree sp.' (Walsh 2004)
   NCV: Tamambo      (vu)hatabola 'tree sp.'
-  NCV: BigNambas na-hatapul 'Dracontomelon dao'
+  NCV: Big Nambas  na-hatapul 'Dracontomelon dao'
   NCV: Uripiv       ni-tapol     'Dracontomelon dao'
   NCV: Naman        n-atabal     'Dracontomelon dao'
-  NCV: Neve'ei      na-?atebwel  'Dracontomelon dao'
+  NCV: Neve'ei      na-ʔatebʷel  'Dracontomelon dao'
   NCV: Avava        atibol       'Dracontomelon dao'
-  NCV: Nese         yatabol      'Dracontomelon dao'
+  NCV: Nese         ɣatabol      'Dracontomelon dao'
 >
 
 
@@ -9571,11 +9569,11 @@ PSV *na-mtaw 'Dysoxylum sp.' (Lynch 2001c)
   SV:   Sye         ni-mtu        'Dysoxylum aneityense'
   SV:   Anejom      ne-mtav       'Dysoxylum aneityense'
   Fij:  Bauan       mavota        'Myristica grandiflora' (for tmaota)
-  Pn:   Tongan      mo?ota        'taxon of three Dysoxylum spp., but primarily D. forsteri' ('Whistler 1991b: 92-93)
+  Pn:   Tongan      moʔota        'taxon of three Dysoxylum spp., but primarily D. forsteri' ('Whistler 1991b: 92-93)
   Pn:   Niuean     moota         'tree, Dysoxylum richii, timber used to build main hull of canoe' (also maota)
-  Pn:   E Uvean     ma?ota        'Dysoxylum samoensis'
-  Pn:   E Futunan ma?ota          'shrub sp., Dysoxylumforsteri'
-  Pn:   Rennellese ma?ota         'tree sp., D. gaudichaudianum, valuable for house timbers'
+  Pn:   E Uvean     maʔota        'Dysoxylum samoensis'
+  Pn:   E Futunan maʔota          'shrub sp., Dysoxylumforsteri'
+  Pn:   Rennellese maʔota         'tree sp., D. gaudichaudianum, valuable for house timbers'
   Pn:   Samoan      maota         'Dysoxylum spp.' (Whistler 2000: 181)
   Pn:   Takuu       maota         'hard, red, wood that drifts to Takuu'
   Pn:   Maori       maota         'Dysoxylum spectabile'
@@ -9628,10 +9626,10 @@ PEOc *melo 'Elaeocarpus angustifolius'
 >
 
 <
-PSV *na-(s,j)u(v,w)as 'Elaeocarpus angusti:fi'olius' (Lynch 2004a)
+PSV *na-(s,j)u(v,w)as 'Elaeocarpus angustifolius' (Lynch 2004a)
   SV:   Sye            ne-yoh       'Elaeocarpus angustifolius'
-  SV:   Kwamera        na-suvas     'k.o. tree with edible seeds in a hairy pod'
-  SV:   Anejom         na-wo8       'Elaeocarpus angustifolius'
+  SV:   Kwamera        nə-suvas     'k.o. tree with edible seeds in a hairy pod'
+  SV:   Anejom         na-woθ       'Elaeocarpus angustifolius'
 >
 
 
@@ -9672,8 +9670,8 @@ appear to have undergone a good deal of local re-naming.
 <
 POc *koma(r,R)(o,u) 'Endospermum sp.'
      MM:      Nakanai           ko-komalu        'Endospermum moluccanum'
-     NCV:     Mwotlap           no-komwa         'Endospermum sp.'
-     NCV:     Araki             (vi)kuŋaro      'Endospermum medullosum'
+     NCV:     Mwotlap           no-komʷa         'Endospermum sp.'
+     NCV:     Araki             (vi)kunᫀaro      'Endospermum medullosum'
      NCV:     Tangoa            (vi)kumaro       'Endospermum medullosum' (Gowers 1976: 73)
      NCV:     Sakao             (du)gomara       'Endospermum medullosum' (Gowers 1976: 73)
 >
@@ -9776,10 +9774,10 @@ POc *toRas 'a taxon of hardwood trees including I ntsia bijuga' (?)
   NNG: Kairiru        tor           'Intsia bijuga'
   MM: Sursurunga      toraha             'a hardwood tree'
   MM: Nehan           toraha        'tree sp. with strong yellowish-white wood, used for carving shtgong drums and paddles'
-  MM: Halia           to lasa       'same tree: sp. as Nehan toraha'
-  MM: Petats          to las        'Vitex monophylla'
+  MM: Halia           tolasa       'same tree: sp. as Nehan toraha'
+  MM: Petats          tolas        'Vitex monophylla'
   MM: Teop            tora          'Vitex monophylla'
-  MM: Maringe         t"ola         'type of large softwood tree; canoe with two upraised ends'
+  MM: Maringe         tʰola         'type of large softwood tree; canoe with two upraised ends'
 PEOc *toRa(s) 'a hardwood tree, Intsia bijuga'
   SES: Lau            ola           'a canoe built of planks sewn together'
   SES:    Kwara'ae     uʔula         'Intsia bijuga' (*o > u: irregular change)
@@ -9792,10 +9790,10 @@ PEOc *toRa(s) 'a hardwood tree, Intsia bijuga'
   NCV: Tamambo        (vu)tora              'Intsia bijuga'
   NCV: Raga           tora           'Intsia bijuga'
   NCV: Atchin         tor            'tree sp., used for canoes, posts, etc.'
-  NCV: Nese           na-tor         'Intsia bijuga'
-  NCV: Uripiv         na-tor         'Intsia bijuga'
+  NCV: Nese           na-toɾ         'Intsia bijuga'
+  NCV: Uripiv         na-toɾ         'Intsia bijuga'
   NCV: Paamese        a-to           'tree sp. with sap which stings'
-  Fij:    Bauan       do a           'the heartwood of a tree, solid and dark'
+  Fij:    Bauan       doa           'the heartwood of a tree, solid and dark'
 PPn *toa 'Casuarina equisetifolia' (POLLEX)
   Pn:     Niuean      toa           'Casuarina equisetifolia'
   Pn:     Tongan      toa           'Casuarina equisetifolia'
@@ -9823,7 +9821,7 @@ its reflexes suggest that it also denoted 'Casuarina equisetifolia'. Note that '
 <
 PMP *qipil 'a hardwood tree, Intsia bijuga' I(Dempwolff 1938: *ipil; ACD)
 POc *qipil 'a taxon of hardwood trees including Intsia bijuga and Casuarina equisetifolia' (ACD: *(q)ipil)
-  Adm: Drehet           ?ih          'ironwood'
+  Adm: Drehet           ʔih          'ironwood'
   Adm: Likum            ih           'Casuarina equisetifolia'
   Adm: Nyindrou         eih          'ironwood'
   MM: Tolai             ip           'tree sp.'
@@ -9837,8 +9835,8 @@ POc *qipil 'a taxon of hardwood trees including Intsia bijuga and Casuarina equi
   MM:      Maringe       khifli        'Intsia bijuga' (W. McClatchey, pers. comm.)
   NCV:     Mwotlap       n-ip          'Casuarina equisetifolia'
   Mic:     Kiribati      ibi           'tree like Calophyllum inophyllum, but harder and heavier'
-  Pn:      Samoan        iji(fatu)     'Intsia bijuga'
-  Pn:      Samoan        iji(lele)     'a hard-grained Intsia bijuga'
+  Pn:      Samoan        ifi(fatu)     'Intsia bijuga'
+  Pn:      Samoan        ifi(lele)     'a hard-grained Intsia bijuga'
 >
 
 202     Malcolm Ross
@@ -9852,10 +9850,10 @@ florescence; C, portion of fruiting inflorescence and stem.
 
 
 <
-PWOc *bwana 'Intsia bijuga'
- NNG: Manam         bwana              'Intsia bijuga'
- NNG: Yabem          (ka)bwcŋ          'ironwood'
- MM: Bola            ban a              'ironwood'
+PWOc *bʷana 'Intsia bijuga'
+ NNG: Manam         bʷana              'Intsia bijuga'
+ NNG: Yabem          (ka)bʷɛŋ          'ironwood'
+ MM: Bola            bana              'ironwood'
  MM: Nakanai         bala               'Intsia bijuga'
 >
 
@@ -9896,7 +9894,7 @@ Planchonella, and perhaps several. Kairiru lalak may reflect a reduplication of 
 POc *kalaka 'Planchonella sp.'
   NNG: Kairiru       lalak                 'Planchonella obovoidea'
   MM: Tolai          kalakala              'tree sp.'
-  NCV: Raga          yarmya                'Planchonella sp.'
+  NCV: Raga          ɣaraŋa                'Planchonella sp.'
   NCV: Uripiv        na-klak               'Planchonella/ Pouteria spp.'
 PCP *kalaka 'Planchonella sp.'
   Fij:   Bauan       galaka                'Planchonella costata'
@@ -9904,8 +9902,8 @@ PCP *kalaka 'Planchonella sp.'
   Pn:    Tongan      kalaka                'Planchonella samoensis'
   Pn:    E Futunan   kalaka                  'tree sp.'
   Pn:    Emae        kalaka                'tree sp.'
-  Pn:    Samoan      ala? a                'Planchonella garberi'
-  Pn:    Hawaiian    ʔalaʔa                'Planchonella sandwicensis'
+  Pn:    Samoan      alaʔa                'Planchonella garberi'
+  Pn:    Hawaiian    ʔālaʔa                'Planchonella sandwicensis'
   Pn:    Tuamotuan   karaka                  'tree sp.'
   Pn:    Maori       karaka                'Corynocarpus laevigata'
 >
@@ -9979,10 +9977,10 @@ POc *naRa 'Pterocarpus indicus'
   Adm: Lou           na           'Pterocarpus indicus' (Holdsworth & Wamoi 1981)
   Adm: Baluan        nay          'tree with red wood, probably Pterocarpus indicus'
   NNG: Gitua         nara         'Pterocarpus indicus'
-  NNG: Tami          nat          'Pterocarpus indicus'
+  NNG: Tami          nal          'Pterocarpus indicus'
   PT:   Motu         nara         'Pterocarpus indicus'
   MM: Bola           nara-nara 'Pterocarpus indicus'
-  MM: Kara (E)       naya         'Pterocarpus indicus'
+  MM: Kara (E)       naɣa         'Pterocarpus indicus'
   NCV: Mota          na-nara      'Pterocarpus indicus'
   NCV: Vera'a       na-nar       'Pterocarpus indicus'
   NCV: Raga          na-nara      'Pterocarpus indicus'
@@ -9990,20 +9988,20 @@ POc *naRa 'Pterocarpus indicus'
 
 <
 POc *Rigi 'rosewood, Pterocarpus indicus' (Geraghty 1990: PEOc *rike)
-  NNG: Atui           (ki )riŋ    'Pterocarpus indicus' (Arentz 1989:92)
+  NNG: Atui           (ki)riŋ    'Pterocarpus indicus' (Arentz 1989:92)
   MM: Nduke           rigi         'Pterocarpus indicus'
   MM: Roviana         rigi         'tree sp. which yields a good red timber'
   MM: Marovo          rigi         'Pterocarpus indicus'
   MM: Kia             grigi        'Pterocarpus indicus' (W. McClatchey, pers. comm.)
   MM: Maringe         grigi        'Pterocarpus indicus' (Henderson & Hancock 1988)
-  SES: Bugotu         tigi         'Pterocarpus indicus' (W. McClatchey, pers. comm.)
-  SES: Gela          tigi         'tree sp.'
+  SES: Bugotu         ligi         'Pterocarpus indicus' (W. McClatchey, pers. comm.)
+  SES: Gela          ligi         'tree sp.'
   SES: Bauro          riki         'Pterocarpus indicus'
-  SES: Kwara'ae       tiki         'Pterocarpus indicus'
-  SES: Lau            tiki         'Pterocarpus indicus'
+  SES: Kwara'ae       liki         'Pterocarpus indicus'
+  SES: Lau            liki         'Pterocarpus indicus'
   SES: Arosi          rigi         'Pterocarpus indicus'
-  NCV: Bieria         (mi)tike(he) 'Pterocarpus indicus'
-  Pn:    Rennellese   ti[kq]e        'tree sp.; barkcloth mallet'
+  NCV: Bieria         (mi)like(he) 'Pterocarpus indicus'
+  Pn:    Rennellese   li[kq]e        'tree sp.; barkcloth mallet'
 >
 
 
@@ -10050,16 +10048,16 @@ POc *pasa(r,R) 'Vitex cofassus' (Milke 1961: *pasa)
      MM:    Maringe       vahara          'Vitex cofctssus' (Henderson & Hancock 1988)
      SES:   Bugotu        vaha            'Vitex cofassus' (W. McClatchey, pers. comm.)
      SES:   Gela         vaha            'Vitex cofassus' (W. McClatchey, pers. comm.)
-     SES:   Lengo         vaoa            'Vitex cofassus' (Henderson & Hancock 1988)
+     SES:   Lengo         vaða            'Vitex cofassus' (Henderson & Hancock 1988)
      SES:   Longgu        vata            'Vitex cofassus'
      SES:   Lau           fata            'Vitex cofassus'
      SES:   Kwara'ae      fata            'Vitex cofctssus'
      SES:   Arosi         hata            'a large tree sp.'
      SES:   Sa'a          hata            'hardwood tree'
      Fij:   Bauan         vasa            'Cerbera odollam'
-     Pn:    Samoan        fa sa           'a pandanus species, the leaves of which are used to make mats' (W. McClatchey, pers. comm.); P. textorius (Whistler 2000: 163)
+     Pn:    Samoan        fasa           'a pandanus species, the leaves of which are used to make mats' (W. McClatchey, pers. comm.); P. textorius (Whistler 2000: 163)
 cf. also:
-     NNG: Riwo            paia1:i         'tree with very hard and durable wood' (Mager 1952)
+     NNG: Riwo            paiaɬi         'tree with very hard and durable wood' (Mager 1952)
     NNG: Takia            peari         'tree with very hard and durable wood' (Mager 1952)
     MM:     Babatana      vadaka        'Vitex cofassus' (McClatchey et al. 2005)
 >
@@ -10315,7 +10313,7 @@ Kwa'ioloa & Burt (2001: 158) are informative. Kwara'ae bala is a generic term fo
 which include bala ni kwaru [bala of rock] 'E. elleryana', bala kwau (lit. 'white Euodia' ) or
 balafufuri (lit. 'patchy Euodia'), and simply bala. The authors provide a scientific name only
 for the first of the three. Apparently excluded from the bala taxon is E. hortensis, Kwara' ae
-fo?oka orfo?aka, which has complex ritual uses both here and at other localities. It is possible
+foʔoka orfo?aka, which has complex ritual uses both here and at other localities. It is possible
 that POc *bala also denoted a taxon of Euodia species, the more so as Motu ebala denotes
 E. hortensis, the one species that Kwara'ae bala excludes.
 
@@ -11350,7 +11348,7 @@ PMP *zalateŋ 'Laporte a and Dendrocnide spp." (Dempwolff 193 8)
 POc *[ja]latoŋ 'Laportea and Dendrocnide spp.' (Milke 1961: *salatoŋ; Ross 1989)
 PAdm *lalato, *fialato 'Laportea and Dendrocnide spp.' (Blust 1996b)
   Adm: Lou              lalat        'Laportea and Dendrocnide spp.' (Blust 1996b)
-  Adm: Wuvulu           lala?o       'Laportea and Dendrocnide spp.' (Blust 1996b)
+  Adm: Wuvulu           lalaʔo       'Laportea and Dendrocnide spp.' (Blust 1996b)
   Adm: Kele             lulat        'Laportea and Dendrocnide spp.' (Blust 1996b)
   Adm: Lenkau           lalatr       'Laportea and Dendrocnide spp.' (Blust 1996b)
   Adm: Seimat           nalat        'Laportea and Dendrocnide spp.' (Blust 1996b)
@@ -11542,7 +11540,7 @@ __pre__
                                      Basidiomycetes (fungi)'
   Pn:  Rarotongan tariŋa kiore      'fungus sp. which grows on decaying trees'
   Pn:  Tuamotuan tariŋa kiore
-  Pn:  Maori       taliŋa ?imoa
+  Pn:  Maori       taliŋa ʔimoa
 
     A number of Oceanic terms translate as 'ghost ear'. Blust suggests that this reflects their
 spiritual significance, associated with the hallucinogenic properties of some fungi and with
@@ -11557,9 +11555,9 @@ __pre__
   Adm:     Seimat       taxiŋ i paxi    (lit. 'ear of ancestral spirit')
   Mic:     Ponapean   saleŋ en eni
   Mic:     Mortlockese sadiŋa-n anu     'mushroom' (lit. 'ear of ghost')
-  Mic:     Puluwatese hadiŋa?-n hooma? 'tree fungus , mushroom' (hooma? 'bad ghost of
+  Mic:     Puluwatese hadiŋaʔ-n hoomaʔ 'tree fungus , mushroom' (hoomaʔ 'bad ghost of
                                          dead ''
-  Mic:     Chuukese     seniŋe-r sooma?
+  Mic:     Chuukese     seniŋe-r soomaʔ
   Fij:     Rotuman     faliaŋ ne ?atua  'toadstool or fungus'
   Fij:     Bauan       daliŋa ni kalou
   Pn:      Tikopia      tariŋa ŋa atua
@@ -12188,17 +12186,17 @@ POc *maRako 'Trichospermum peekelii' (Geraghty 1990: PEOc)
   MM:       Kara (E)        maiau            'Trichospermum peekelii'
   MM:       Madak           (vap)ma          'Trichospermum peekelii'
   SES:      Gela            malayo           'sp.        tree'
-  SES: Kwara'ae          mala?o        'Trichospermum peekelii'
+  SES: Kwara'ae          malaʔo        'Trichospermum peekelii'
   SES: 'Are'are          marako        'tree sp., a twig ofwhich is used to indicate a taboo'
   SV:   Anejom           n-may         'Trichospermum inmac' (Wheatley 1992: 233)
 PCP *mako 'Trichospermum richii' (for expected t*mako)
   Fij:  Wayan           mako          'tree, probably Trichospermum richii'
   Fij:  Bauan           mako          'Trichospermum richii'
-  Pn:   Samoan          ma?o          'Trichospermum richii, Melochia odorata etc.'
+  Pn:   Samoan          maʔo          'Trichospermum richii, Melochia odorata etc.'
   Pn:   Tikopia         mako          'tree sp. of the woodland; wood occasionally used for outriggers'
   Pn:   W Futunan       mako            'tree with yellow blossom'
   Pn:   Tahitian        mao           'tree name, bark used as dye'
-  Pn:   Hawaiian        ma?o          'Gossypium tomentosum, Abutilon incanum'
+  Pn:   Hawaiian        maʔo          'Gossypium tomentosum, Abutilon incanum'
   Pn:   Maori           mako-mako    'wineberry, Aristotelia serrata'
 >
 
@@ -12305,7 +12303,7 @@ flexes .
 
     Blust (ACD) reconstructs PAn *Riaq 'sword grass, Imperata cylindrica' on the basis of
 Formosan reflexes. Whether PCEMP *Reqi is an irregular development from this, I do not
-know. This reconstruction is attributed to PCEMP on the basis of Far East Manggarai ri?i
+know. This reconstruction is attributed to PCEMP on the basis of Far East Manggarai riʔi
 (Verheijen 1990:221 ), Sasak re, Rotinese li (all CMP), all 'sword grass, Imperata cylindrica' .
 Roviana and Marovo have the form rekiti, reflecting earlier *rekit, but this appears to be an
 unsourced borrowing, as (i) the regular           of POc *-q- is zero and (ii) other languages
@@ -13077,7 +13075,7 @@ POc *mʷapo(q) 'taro, Colocasia esculenta' (Milke 1968: *mwao)
   MM: Kia             mahu             'taro, C. esculenta'
   MM: Maringe         mhau             'taro, C. esculenta' (Henderson & Hancock 1988)
   SES: Arosi          mwa(-rataʔai)    'taro sp.'
-  SES: Arosi          mwa(-rugu?ino) 'taro sp'.
+  SES: Arosi          mwa(-ruguʔino) 'taro sp'.
   NCal: Xaracuu       mwc              'taro, C. esculenta'
   Pn:   Hawaiian      nao              'k.o . taro'
 >
@@ -13226,7 +13224,7 @@ NCV: Nese          hoak     *hu(R)aga
 NCV: Namakir       huag     *hu(R)aga
 NCal: Xaracuu      huraa ?                                  'variety of taro'
 Mic: Marshallese   pwaz     *hulaqa                         'swamp taro patch'
-Mic: Mortlockese p wu!a? *hula(q,k)a
+Mic: Mortlockese p wu!aʔ *hula(q,k)a
 Mic: Chuukese      p wura   *hula(q,k)a
 Mic: Puluwatese    p wuza   *hula(q,k)a
 Mic: Satawalese    p wuza   *hula(q,k)a
@@ -15096,15 +15094,15 @@ PSV *na-bVbosi Ficus sp.' (Lynch 2004a)
       POc *qa(l,R)a may have been another term for Ficus copiosa (§4.2).
 
 <
-PMP *qaRa? 'Ficus spp.' (Blust 1986)
+PMP *qaRaʔ 'Ficus spp.' (Blust 1986)
 POc *qa(l,R)a 'Ficus sp.'
   NNG: Gedaged           ala             'tree sp.'
   MM: Nakanai            kaloli          'Ficus sp., probably F. copiosa' (A. Chowning, pers. comm.)
   MM:       Tolai        kala-kala, kaka 'Ficus copiosa'
   MM:       Patpatar     kala-kala       'Ficus copiosa'
-  MM:       Roviana      kala-/a         'banyan, Ficus sp.'
-  MM:       Marovo       kala-/a         'banyan, Ficus spp.'
-  SES:      To'aba'ita   8ala            'Ficus variegata'
+  MM:       Roviana      kala-la         'banyan, Ficus sp.'
+  MM:       Marovo       kala-la         'banyan, Ficus spp.'
+  SES:      To'aba'ita   θala            'Ficus variegata'
 >
 
 
@@ -15130,10 +15128,10 @@ POc *taŋa 'Ficus tinctoria'
                                                              Green vegetables and figs    309
 
 <
-PSV *na-taŋ 'Ficus sp.' (Lynch 2004a)
+PSV *na-təŋ 'Ficus sp.' (Lynch 2004a)
   SV:    Sye            na-toŋ     'Ficus granatum'
   SV:    Lenakel        na-reŋ     'Ficus granatum'
-  SV:    Kwamera        ne-raŋ     'k.o. tree with stinging leaves'
+  SV:    Kwamera        ne-rəŋ     'k.o. tree with stinging leaves'
   SV:    Anejom         na-teŋ     'Ficus adenosperma'
 >
 
@@ -15167,7 +15165,7 @@ POc *seRa 'Ficus sp., perhaps F. adenosperma'
 
 <
 POc *bauRa 'Ficus sp.', perhaps a strangler fig
-  NNG: Mapos Buang bduk                 'Ficus sp.'
+  NNG: Mapos Buang báuk                 'Ficus sp.'
   SES: Lau         baola                'banyan'
   SES: Kwara'ae    baola                'strangler fig, Ficus microcarpa'
 >
@@ -15176,10 +15174,10 @@ POc *bauRa 'Ficus sp.', perhaps a strangler fig
 was perhaps a freestanding species.
 
 <
-POc *ka(mwa)-kamwa 'Ficus sp., perhaps Ficus nodosa'
-  PT:     Misima        ka-kamwa    'k.o. tree, with small, rounded, light green leathery leaves and white and motley-coloured bark and small, fig-shaped fruit.'
+POc *ka(mʷa)-kamʷa 'Ficus sp., perhaps Ficus nodosa'
+  PT:     Misima        ka-kamʷa    'k.o. tree, with small, rounded, light green leathery leaves and white and motley-coloured bark and small, fig-shaped fruit.'
   MM:     Madak         kem-kem     'Ficus nodosa'
-  SES:    Santa Ana     kamwa-kamwa 'sandpaper cabbage, Ficus wassa'
+  SES:    Santa Ana     kamʷa-kamʷa 'sandpaper cabbage, Ficus wassa'
 >
 
     The gloss of PNCV *buliva is clearly Ficus scabra (a species found only in central and
@@ -15194,10 +15192,10 @@ PEOc *bulipa 'Ficus sp.' (Clark 1996a: PNCV *buliva)
   SES: Kwara'ae      bu-bulia       'Ficus austrina'
 PNCV *buliva 'Ficus scabra'
   NCV: Mota          puliva         'a climbing Ficus; the leaves cooked and eaten'
-  NCV: Apma          bwilip         'Ficus scabra' (Walter & Sam 2002)
-  NCV: Maewo         gwiliva        'Ficus scabra' (Walter & Sam 2002)
+  NCV: Apma          bʷilip         'Ficus scabra' (Walter & Sam 2002)
+  NCV: Maewo         gʷiliva        'Ficus scabra' (Walter & Sam 2002)
   NCV: Raga          buliva         'Ficus sp."
-  NCV: Uripiv        bwiliw         'Ficus scabra, Ficus septica'
+  NCV: Uripiv        bʷiliw         'Ficus scabra, Ficus septica'
   NCV: Lonwolwol     bulva              'wild cotton, burau tree'
   NCV: Lewo          (puru)piliva   'Ficus scabra' (Walter & Sam 2002)
   NCV: Nguna         na-puliva      'sycamore'
@@ -15209,9 +15207,9 @@ PNCV *buliva 'Ficus scabra'
 PSOc *rivu-rivu 'small or medium-sized freestanding Ficus sp.' (Lynch 2004a)
   NCV:   NE Ambae     (va)rivu      'nambalanggo', i.e. 'Ficus wassa'
   NCV:   Raga         revrevo       'Ficus obliqua' (Walsh 2004)
-  NCV:   Uripiv       awraw         'Ficus tinctoria'
+  NCV:   Uripiv       awɾaw         'Ficus tinctoria'
   SV:    Sye          na-revrep     'Ficus obliqua'
-  SV:    Kwamera      (kwa)ruviru   'Ficus sp."
+  SV:    Kwamera      (kʷa)ruviru   'Ficus sp."
   SV:    Anejom       ne-rere       'Ficus obliqua'
 >
 
@@ -15599,14 +15597,14 @@ PEOc *ipi 'Tahitian chestnut, Inocarpus fagifer'
   Mic: Kiribati          ibi          'Tahitian chestnut'
   Fij:   Bauan           ivi          'Tahitian chestnut'
   Fij:   Wayan           ivi          'Tahitian chestnut'
-  Fij:   Rotuman        ?iji          'Tahitian chestnut'
+  Fij:   Rotuman        ʔiji          'Tahitian chestnut'
   Pn:    Tongan          iji          'Tahitian chestnut, Inocarpus fagifer'
   Pn:    Anutan          ipi          'Tahitian chestnut'
   Pn:    Samoan          iji          'Tahitian chestnut, Inocarpus fagifer'
-  Pn:    Rarotongan      i?i          'Tahitian chestnut'
+  Pn:    Rarotongan      iʔi          'Tahitian chestnut'
 >
 
-[7] Reasons for the confusion are (i) that Rotuman ?ifi 'Inocarpus fagifer' has an unexpected initial ?- (this is
+[7] Reasons for the confusion are (i) that Rotuman ʔifi 'Inocarpus fagifer' has an unexpected initial ?- (this is
 probably an outcome of borrowing), and (ii) that Samoan-as a result of regular sound changes-reflects both
 as ifi, and disambiguates them by adding an extra morpheme when the term denotes the ironwood: ifi-lele 'a
 large timber tree, Intsia sp.' and ifi-fatu 'a hard-grained ifi-lele' as opposed to ifi 'Inocarpus sp.'. Bwaidoga y-
@@ -15920,7 +15918,7 @@ PCP *talise 'Terminalia catappa'
   Pn:     E Futunan     talie            'Terminalia catappa'
   Pn:     Samoan        talie        'Terminalia catappa'
   Pn:     Luangiua      talie        'tree sp. with big yellow berries'
-  Pn:     Marquesan     ta?ie           'Terminalia catappa'
+  Pn:     Marquesan     taʔie           'Terminalia catappa'
   Pn:     Rarotongan    taria           'Terminalia catappa'
   Pn:     Rennellese    tagie           'Terminalia catappa'
   Pn:     Tokelauan     talie           'Terminalia catappa'
@@ -15939,7 +15937,7 @@ determine its POc denotation.
 
 <
 POc *tapoRa 'a nut-bearing tree sp.' (Geraghty 1990)
-  NNG: Takia           tapa!         'nut tree, like Canarium, but less oily' 14
+  NNG: Takia           tapal         'nut tree, like Canarium, but less oily' [14]
   MM: Nehan            tauol        'Inocarpusfagifer' (Glennon & Glennon 2005)
 PEOc *tapoRa 'Terminalia spp.' (Geraghty 1990)
   SES: Kwara'ae        dafo         'Terminalia brassii'
@@ -15957,7 +15955,7 @@ PEOc *tapoRa 'Terminalia spp.' (Geraghty 1990)
   NCV: Lewo            (puru)tawo 'Terminalia catappa'
   NCV: Baki            (bur)tavu    'Terminalia catappa'
   NCV: Namakir         tauwo, tawo 'Terminalia catappa'
-  Fij:  Bauan          tavola       'Terminalia catappa' [15]
+  Fij:  Bauan          tāvola       'Terminalia catappa' [15]
 >
 
     The set below appears to reflect a POc *qatV. Superficially Nehan kasasas appears cog-
@@ -15968,7 +15966,7 @@ vated edible species, the nuts of which are occasionally consumed as snacks, and
 
 <
 POc *qatV 'Terminalia sp. with edible nut'
-     MM: Madak             (var)?a          'Terminalia complanata'
+     MM: Madak             (var)ʔa          'Terminalia complanata'
      NCV: S Efate          n-at             'Terminalia sepicana (eaten only by fruit bat)'
      Mic: Chuukese         asas             'Terminalia catappa'
      Mic:   Carolinian      asas             'Terminalia catappa'
@@ -16060,31 +16058,31 @@ P. tectorius or perhaps certain cultivars of P. tectorius.
 PAn *paŋudaL 'pandanus' (Blust 1982)
 PMP *pandan 'pandanus ' (Dempwolff 1938)
 POc *padran 'coastal pandanus, Pandanus tectorius; pandanus (generic)' (Biggs 1965: *para)
-  Adm: Mussau           arana        'littoral pandanus the leaves of which are used in plaiting mats and baskets, P. tectorius'
+  Adm: Mussau          arana         'littoral pandanus the leaves of which are used in plaiting mats and baskets, P. tectorius'
   Adm: Leipon          padr          'kind of pandanus with narrow light-green leaves, used in plaiting mats'
   Adm: Lou             par           'pandanus'
   Adm: Titan           par           'pandanus fruit ' (Bowem 1999)
-  NNG: Amara            (a)pada-pada 'pandanus sp. with succulent fruit'
-  NNG: Mangap          pa"da         'pandanus tree'
-  NNG: Lukep (Pono) pada             'pandanus sp.'
+  NNG: Amara           (a)pada-pada  'pandanus sp. with succulent fruit'
+  NNG: Mangap          pāⁿda         'pandanus tree'
+  NNG: Lukep (Pono)    pada          'pandanus sp.'
   NNG: Malai           padan         'pandanus'
-  MM: Lavongai          a ran        'pandanus'
+  MM: Lavongai         aran          'pandanus'
   MM: Kara (E)         foran         'Pandanus tectorius'
-  MM: Kokota            (i)fra       'pandanus variety, small, used for making mats'
-  TM: Tanema            vadane       'pandanus'
+  MM: Kokota           (i)fra        'pandanus variety, small, used for making mats'
+  TM: Tanema           vadane        'pandanus'
   SES: Lau             fada-da       'pandanus'
-  NCV: Mota             van a        'a pandanus, inedible variety of female P. odoratissimus'
-  NCV: Lakon            vac          'Pandanus tectorius' (Fran~fois 2004)
-  NCV: Vera'a          vada         'Pandanus tectorius' (Fran9ois 2004)
-  NCV: Sakao            ne-vor       'Pandanus cominsii'
-  SV:    Kwamera        niJ-fara     'pandanus'
-  NCal: Jawe            wan          'coastal pandanus'
-  NCal: Nyelayu        pan           'coastal pandanus'
-  Mic: Puluwat         far           'pandanus, used for mats and thatch'
-     Mic:   Carolinian      fa.sa             'pandanus (generic)'
-     Fij:   Wayan            vadra            'Pandanus tectorius'
-     Pn:    Tongan          fa                'taxon of several Pandanus spp.' (Whistler 1991b: 24)
-     Pn:    Hawaiian        hala              'Pandanus tectorius'
+  NCV: Mota            vana          'a pandanus, inedible variety of female P. odoratissimus'
+  NCV: Lakon           vac           'Pandanus tectorius' (Fran~fois 2004)
+  NCV: Vera'a          vada          'Pandanus tectorius' (Fran9ois 2004)
+  NCV: Sakao           ne-vor        'Pandanus cominsii'
+  SV:   Kwamera        nə-fara       'pandanus'
+  NCal: Jawe           wan           'coastal pandanus'
+  NCal: Nyelayu        pān           'coastal pandanus'
+  Mic: Puluwat         fār           'pandanus, used for mats and thatch'
+  Mic: Carolinian      fāṣa          'pandanus (generic)'
+  Fij: Wayan           vadra         'Pandanus tectorius'
+  Pn:  Tongan          fā            'taxon of several Pandanus spp.' (Whistler 1991b: 24)
+  Pn:  Hawaiian        hala          'Pandanus tectorius'
 >
 
                                                                              Nut and fruit trees     329
@@ -16098,7 +16096,7 @@ POc *kiRe 'coastal Pandanus sp., probably Pandanus tectorius' (French-Wright 198
   NCV: Mota           gire          'Pandanus tectorius'
   NCV: Mwotlap        ne-gey        'Pandanus tectorius' (Fran~ois 2004)
   NCV: Mwesen         ger           'Pandanus tectorius' (Walter & Sam 2002)
-  NCV: Vures          (wo)gcer      'Pandanus tectorius' (Fran~ois 2004)
+  NCV: Vures          (wö)gœr      'Pandanus tectorius' (Fran~ois 2004)
   NCV: Raga           gire          'native tree with fruit like pineapple; pandanus'
   NCV: Tamambo        hire-hire     'woven container from coconut leaf'
   NCV: BigNambas      na-hei             'mat'
@@ -16113,13 +16111,13 @@ POc *poipoi 'Pandanus sp., perhaps P. tectorius'
   MM: Nakanai           voivoi         'Pandanus sp.'
   SES: W Guadalcanal    voivoi            'pandanus'
   NCV: Mwotlap          wow            'Pandanus sp.'
-  NCV: Araki            gege           'Pandanus tectorius'
+  NCV: Araki            ðᫀeðᫀe           'Pandanus tectorius'
   NCV: Apma             wip            'Pandanus tectorius'
   NCV: Uripiv           waiw           'general word for pandanus'
   NCV: Uripiv           weiw(bur)      'shore pandanus, has big leaves, unusable'
   NCV: Port Sandwich    vaiv              'pandanus; skirt'
   NCV: Paamese          heiho          'Pandanus sp.'
-  NCV: Lewo             (puru)vava 'pandanus'
+  NCV: Lewo             (puru)vava     'pandanus'
   NCV: Lewo             vava           'pandanus'
   NCV: Namakir          vaiv           'smooth pandanus'
   SV:    Lenakel        nu-vie         'pandanus sp.'
@@ -16145,8 +16143,8 @@ of fruit segment with edible kernel; J, leaf tip showing curved spike.
 PSOc *va(i,y)u 'Pandanus sp.'
   NCV: NE Ambae    ve-veo             'Pandanus sp.'
   NCV: Tape        na-viu       'Pandanus sp.'
-  NCV: BigNambas   (Jiu              'Pandanus sp.'
-  NCV: Nese        na-(Jau      'Pandanus sp.'
+  NCV: BigNambas   ðᫀiu              'Pandanus sp.'
+  NCV: Nese        na-ðᫀau      'Pandanus sp.'
   NCV: Baki        (buru)vewo 'Pandanus sp.'
 PSV *na-va(i,y)u 'Pandanus sp.' (Lynch 2004a)
   SV:   Sye        na-(ri)vyu   'Pandanus tectorius'
@@ -16188,7 +16186,7 @@ POc *pakum 'Pandanus dubius' (Peekel1984: 41)
      NNG:   Takia          wak             'pandanus'
      NNG:   Manam         aku              'pandanus (big leaf); used to make grass skirt'
      NNG:   Bam            wak             'pandanus'
-     NNG:   Kairiru       V'ak             'Pandanus dubius'
+     NNG:   Kairiru       vʸak             'Pandanus dubius'
      MM:    Kara (E)      faum             'Pandanus dubius'
      MM:    Patpatar      hau              'pandanus'
      MM:    Tolai          vaum            'Pandanus dubius'
@@ -17101,11 +17099,11 @@ PCP *kavika 'Syzygium malaccense'
   Pn:   E Uvean         kafika        'Syzygium malaccense'
   Pn:   Tikopia         kafika        'Syzygium malaccense'
   Pn:   Marquesan      kehika        'Syzygium malaccense'
-  Pn:   Mangarevan      ke?ika        'Syzygium malaccense'
+  Pn:   Mangarevan      keʔika        'Syzygium malaccense'
   Pn:   Tahitian       ʔahiʔa        'Syzygium malaccense'
   Pn:   Hawaiian        ?oohia(?ai)   'Syzygium malaccense'
   Pn:   Hawaiian        ?oohia(lehua) 'Metrosideros spp.'
-  Pn:   Rarotongan      ka?ika        'Syzygium malaccense'
+  Pn:   Rarotongan      kaʔika        'Syzygium malaccense'
   Pn:   Maori           kahika        'M etrosideros fulgens, Dacrycarpus dacrydioides' (R. Gardner, pers. comm.)
 >
 
@@ -17436,9 +17434,9 @@ __ul__
  niu pwaikari   'a nut still containing liquid'
  niu kokoru     'nut with hard flesh already formed ' (lit. 'coconut egg-white ')
  niu saramarai 'dry nut'
- do?o           'ripe, dark nut' (lit. 'black')
+ doʔo           'ripe, dark nut' (lit. 'black')
  niu matere     'fallen mature nut'
- niu bwa?o      'very young palm'
+ niu bwaʔo      'very young palm'
 
                                                                                  Coconuts        359
 
@@ -17668,7 +17666,7 @@ of stage 6 in Oceanic cultures.
 POc *karut 'coconut growth stage 6: green, drinkable'
   PT:      Hula            kalu             'half ripened coconut'
   PT:      Motu            karu             'young drinking coconut'
-  PT:      Lala            alu-?alu         'young drinking coconut'
+  PT:      Lala            alu-ʔalu         'young drinking coconut'
   MM:      Petats          ka-karut         'nut containing liquid before flesh appears' (Blackwood 1935)
    SES:    Longgu         ʔaru             'a coconut ready to drink and eat'
    SES:    'Are'are      aru              'green drinking coconut'
@@ -17958,7 +17956,7 @@ Terms for coconut parts are divided here into parts of the fruit (this section) 
 the palm (§5). As we noted earlier *niuR denoted both the palm and the fruit. POc speakers
 evidently distinguished between them by calling the palm *puqun ni niuR, literally 'trunk of
 coconut') and the fruit *puaq ni niuR 'fruit of coconut', reflected in Bauan and Wayan Fijian
-as vu ni niu and vua ni niu and in Tongan asfuʔu ni niu andfo?i niu (ch.2, §7.1.3).
+as vu ni niu and vua ni niu and in Tongan asfuʔu ni niu andfoʔi niu (ch.2, §7.1.3).
 
                                                                                           Coconuts      369
 
@@ -18083,7 +18081,7 @@ PPn *[ka-]kano 'flesh, seed ' (POLLEX)
   Pn:    Tongan          ka-kano       'flesh, contents or substance'
   Pn:    Pukapukan       kano          'the real or essential part of something'
   Pn:    Rennellese      kano          'flesh or meat of anything; substance'
-  Pn:    Samoan         ʔa-?ano       'flesh; kernel, meat, including meat of coconut'
+  Pn:    Samoan         ʔa-ʔano       'flesh; kernel, meat, including meat of coconut'
   Pn:    Hawaiian       ʔano          'kind , nature, character, color, meaning'
 >
 
@@ -18573,7 +18571,7 @@ POc *[pa]paq[a-] 'frond ofapalm' (?)(Ross 1996c)
   MM:      Siar         paka           'leaf
   MM:      Teop         paka           'leaf
   SES:     Arosi        haha-na        'palm frond, branch of a palm or tree that has no branches, as sago palms, coconut, cycad, screw palm'
-  Pn:      Tongan       fa? a          'lower portion of leaf stalk of banana, taro, or giant taro (Alocasia macrorrhiza)'
+  Pn:      Tongan       faʔ a          'lower portion of leaf stalk of banana, taro, or giant taro (Alocasia macrorrhiza)'
   Pn:      Niuean       fa             '(plant) stalk'
   Pn:      Tikopia      fa             'leaf stem of fleshy plant'
   Pn:      Rennellese   haʔa           '(taro, banana, papaya) stalk'
@@ -18767,7 +18765,7 @@ PPn *kaka 'clothlike fibre surrounding base of coconut fronds' (POLLEX)
   Pn:    Samoan        ʔaʔa         'coarse fibrous material found at the base of coconut leaves and used for strainers etc'
   Pn:    Nukuoro        gaga         'fibrous sheathing (at the base of the petiole sheath of the flower) of the coconut tree'
   Pn:    Tahitian      ʔaʔa         'brown fibrous membrane at base of coconut fronds; similar substance at base of leaves of sugarcane, bamboo and reeds'
-  Pn:    Hawaiian      ʔa-?aʔa      'coconut cloth, vascular bundles in taro corm, chaff; fibrous"
+  Pn:    Hawaiian      ʔa-ʔaʔa      'coconut cloth, vascular bundles in taro corm, chaff; fibrous"
 >
 
 [23] vol.l , ch.6, §5.6, refers to the frond netting as the ' spathe' of the frond. Technically this is correct, but we
@@ -19254,7 +19252,7 @@ PPn *kawa 'kava; sour, bitter'
   Pn:   Tongan            kava              'kava'
   Pn:   W Futunan         kava              'kava'
   Pn:   Samoan            ʔava              'kava'
-  Pn:   Samoan            ʔa-?ava           'pungent, acrid'
+  Pn:   Samoan            ʔa-ʔava           'pungent, acrid'
   Pn:   Hawaiian          ʔava              'kava; sour, bitter'
   Pn:   Rarotongan        kava              'kava; sour'
   Pn:   Maori             kawa              'sour, bitter; perform certain kinds of ceremony'
@@ -19451,7 +19449,7 @@ POc *qauR 'bamboo spp.'
  SES:    Bugotu           yau        *krvq                 'bamboo; bamboo sliver used as a knife'
  SES:    W Guadalcanal    yau-yau    *krvq                 'bamboo'
  SES:    Lau             ʔau        *krvq                 'bamboo'
- SES:    Kwara'ae         ka?o       *krvq                 'bamboo (generic)'
+ SES:    Kwara'ae         kaʔo       *krvq                 'bamboo (generic)'
  SES:    Kwaio           ʔau        *krvq                 'bamboo (generic)'
  SES:    Sa'a             au         *krvq                 'bamboo'
  SES:    Arosi           ʔau        *krvq                 'a bamboo'
@@ -20124,7 +20122,7 @@ POc *laqia 'ginger, Zingiber officinale (?)' (French-Wright 1983)
   NNG: Kove            haia           'ginger'
   NNG: Tami            lagi           'ginger'
   NNG: Adzera          rakia          'ginger'
-  NNG: Mumeng          lcha?          'ginger'
+  NNG: Mumeng          lchaʔ          'ginger'
   NNG: Kairiru         lake a        'Curcuma spp.' (Borrell1989: 42)
   PT:    Wedau         naia           'ginger'
   PT:    Iduna         naiya          'ginger'
@@ -20311,7 +20309,7 @@ denoted a particular variety of Codiaeum variegatum.
 <
 PWOc *mwa(r,R)e 'taxon including Codiaeum variegatum and Cordylinefruticosa' (Ross 1996c; Chowning 1963: *male)
  NNG: Kove           mohe            'Cordyline sp.' (Chowning 1996: 17)
- NNG: Yabem          (ka)ma?         'Cordyline sp.'
+ NNG: Yabem          (ka)maʔ         'Cordyline sp.'
  NNG: Takia          mra-mor         'Cordyline fruticosa'
  NNG: Kairiru        (moel) morie(p) 'thin-leaved, green variety of Codiaeum variegatum'
  PT:     Roro        mare            'plant with yellow leaves'
@@ -20402,7 +20400,7 @@ POc *kaRi(q)a 'taxon of decorative plants' (Geraghty 1990: PEOc *gaRi(a))
   NCV:      Atchin        kari           'Dracaena sp.'
   NCV:      Uripiv        gari           'Cordyline sp.'
   NCV:      Naman         na-yari        'Cordyline sp.'
-  NCV:      Neve'ei       na-?ari        'Cordyline sp.'
+  NCV:      Neve'ei       na-ʔari        'Cordyline sp.'
   NCV:      Larevat       na-yri         'Cordyline sp.'
   NCV:      Port Sandwich xari           'crotons'
   NCV:      Lewo          (puru )katie   'Cordyline sp.'
