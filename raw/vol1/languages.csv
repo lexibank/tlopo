@@ -327,7 +327,7 @@ talise,Talise,SES,Eastern Oceanic | Southeast Solomonic [SES] | Bugotu/Gela/Guad
 birao,Birao,SES,Eastern Oceanic | Southeast Solomonic [SES] | Bugotu/Gela/Guadalcanal | Gela/Guadalcanal,,,bira1254,-9.74,160.52
 malagheti,Malagheti,SES,Eastern Oceanic | Southeast Solomonic [SES] | Bugotu/Gela/Guadalcanal | Gela/Guadalcanal,,Dialect of Talise,mala1483,-9.76764,160.231
 tolo,Tolo,SES,Eastern Oceanic | Southeast Solomonic [SES] | Bugotu/Gela/Guadalcanal | Gela/Guadalcanal,,,tolo1254,-9.76764,160.231
-westguadalcanal,West Guadalcanal,SES,Eastern Oceanic | Southeast Solomonic [SES] | Bugotu/Gela/Guadalcanal | Gela/Guadalcanal,W. Guad.; W Guad.,,ghar1239,-9.4791,159.917
+westguadalcanal,West Guadalcanal,SES,Eastern Oceanic | Southeast Solomonic [SES] | Bugotu/Gela/Guadalcanal | Gela/Guadalcanal,W. Guad.; W Guad.; W Guadalcanal,,ghar1239,-9.4791,159.917
 longgu,Longgu,SES,Eastern Oceanic | Southeast Solomonic [SES] | Bugotu/Gela/Guadalcanal | Longgu/Malaita/Makira,,,long1395,-9.75258,160.66299999999998
 areare,'Are'are,SES,Eastern Oceanic | Southeast Solomonic [SES] | Bugotu/Gela/Guadalcanal | Longgu/Malaita/Makira | Malaita/Makira,’Are’are; ‘Are’are; ’Are’Are,,area1240,-9.20699,161.15800000000002
 arosi,Arosi,SES,Eastern Oceanic | Southeast Solomonic [SES] | Bugotu/Gela/Guadalcanal | Longgu/Malaita/Makira | Malaita/Makira,E. Arosi,,aros1241,-10.2441,161.43200000000002
@@ -348,6 +348,13 @@ santaana,Santa Ana,SES,Eastern Oceanic | Southeast Solomonic [SES] | Bugotu/Gela
 oroha,Oroha,SES,Eastern Oceanic | Southeast Solomonic [SES] | Bugotu/Gela/Guadalcanal | Longgu/Malaita/Makira | Malaita/Makira,,,oroh1237,-9.74,161.51
 dorio,Dori'o,SES,Eastern Oceanic | Southeast Solomonic [SES] | Bugotu/Gela/Guadalcanal | Longgu/Malaita/Makira | Malaita/Makira,,,dori1246,-9.12,160.90
 aiwoo,Aiwoo,TM,Eastern Oceanic | Temotu [TM] | Reefs and Santa Cruz,,,ayiw1239,-10.30,166.32
+nagu,Nagu,TM,Eastern Oceanic | Temotu [TM] | Reefs and Santa Cruz,,,nang1262,-10.74,165.89
+natiigu,Natügu,TM,Eastern Oceanic | Temotu [TM] | Reefs and Santa Cruz,,"= Malo, Lodai, Nedo",natu1246,-10.68,165.84
+nebao,Nebao,TM,Eastern Oceanic | Temotu [TM] | Utupua/Vanikoro,,,amba1266,-11.30,166.50
+asuboa,Asuboa,TM,Eastern Oceanic | Temotu [TM] | Utupua/Vanikoro,,,asum1237,-11.30,166.50
+tanibili,Tanibili,TM,Eastern Oceanic | Temotu [TM] | Utupua/Vanikoro,,,tani1255,-11.30,166.51
+burna,Burna,TM,Eastern Oceanic | Temotu [TM] | Utupua/Vanikoro,Teanu,= Teanu,tean1237,-11.68,166.87
+vano,Vano,TM,Eastern Oceanic | Temotu [TM] | Utupua/Vanikoro,Vana; Lovono,= Vana,vano1237,-11.61,166.80
 ambae,Ambae,NCV,"Eastern Oceanic | North/Central Vanuatu [NCV] (groupings are areal, based on Clark 1994) | Banks & Torres, Maewo, Ambae, North Pentecost",Aoba; N. E. Aoba; NE Ambae; NEAmbae,= N. E. Aoba,east2443,-15.35,167.89
 nduindui,Nduindui,NCV,"Eastern Oceanic | North/Central Vanuatu [NCV] (groupings are areal, based on Clark 1994) | Banks & Torres, Maewo, Ambae, North Pentecost",,,ndui1237,-15.43,167.81
 maewo,Maewo,NCV,"Eastern Oceanic | North/Central Vanuatu [NCV] (groupings are areal, based on Clark 1994) | Banks & Torres, Maewo, Ambae, North Pentecost",,,cent2058,-15.08,168.13
@@ -452,8 +459,10 @@ nadroga,Nadroga,Fij,Eastern Oceanic | Central Pacific [Fij and Pn] | Western Fij
 wayan,Wayan,Fij,Eastern Oceanic | Central Pacific [Fij and Pn] | Western Fijian,,,waya1268,-17.29,177.12
 yasawa,Yasawa,Fij,Eastern Oceanic | Central Pacific [Fij and Pn] | Western Fijian,,,waya1268,-17.29,177.12
 bauanfijian,Bauan,Fij,Eastern Oceanic | Central Pacific [Fij and Pn] | Eastern Fijian,Fijian; Standard Fijian,= Standard Fijian,fiji1243,-18.00, 178.33
+bau,Bau,Fij,Eastern Oceanic | Central Pacific [Fij and Pn] | Eastern Fijian,,,bauu1243,-18.00, 178.33
 kadavu,Kadavu,Fij,Eastern Oceanic | Central Pacific [Fij and Pn] | Eastern Fijian,,,kada1285,-18.00,178.33
 bucabay,Buca Bay,Fij,Eastern Oceanic | Central Pacific [Fij and Pn] | Eastern Fijian,,,,,
+bua,Bua,Fij,Eastern Oceanic | Central Pacific [Fij and Pn] | Eastern Fijian,,,,,
 boumaa,Boumaa,Fij,Eastern Oceanic | Central Pacific [Fij and Pn] | Eastern Fijian,,,fiji1243,-18.00, 178.33
 nabukelevu,Nabukelevu,Fij,Eastern Oceanic | Central Pacific [Fij and Pn] | Eastern Fijian,,,kada1285,-18.00,178.33
 niuean,Niuean,Pn,Eastern Oceanic | Central Pacific [Fij and Pn] | Polynesian (subgrouping based on Marck forthcoming) | Tongic,,,niue1239,-19.06,-169.86

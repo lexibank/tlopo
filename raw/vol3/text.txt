@@ -11755,7 +11755,7 @@ denote C. bertramia itself (ch.2, §7.1.4).
 <
 POc *jamaR 'Commersonia bartramia'
   MM: Marovo          jamara    'Commersonia bartramia' (Henderson & Hancock 1988: 194)
-  TM: Natiigu        tame-tame   'Commersonia bartramia' (Henderson & Hancock 1988: 194)
+  TM: Natügu        tame-tame   'Commersonia bartramia' (Henderson & Hancock 1988: 194)
   SES: W Guadalcanal jemara      'Commersonia bartramia' (borrowed from a NW Solomonic language)
   SES: Kwara'ae     da-dame     'Commersonia bartramia' (Henderson & Hancock 1988: 194)
   SES: Kwaio         da-dame     'Commersonia bartramia'
@@ -11904,24 +11904,24 @@ binuaŋ 'M. tanarius, M. grandifolia' (Madulid 2001 b: 191 ).
 <
 PMP *binu(q)an 'Macaranga spp., perhaps M. involucrata'
 POc *pinu(q)an 'Macaranga spp., perhaps M. involucrata'
-  MM: Solos          hunuan       'Macamnga spp.'
-  SES: Gela          vinua        'Macamnga tanarius' (W. McClatchey, pers. comm.)
-  SES: Ghari         venua        'Macamnga involucrata'
-  SES: Kwara'ae     fino-fino        'Macamnga aleuritoides'
-  SES: Kwara'ae     (taŋa )fino 'Macamnga aleuritoides'
-  SES: Kahua         hinua (goro) 'Macamnga involucrata' (Henderson & Hancock 1988)
-  NCV: Mota          vin-vin      'a tree'
-  NCV: NEAmbae vinue              'Macamnga involucrata'
-  NCV: Nduindui      venue        'Macamnga involucrata' (Wheatley 1992: 99)
-  NCV: Nduindui     venue (hoe) 'Macamnga tanarius' (Wheatley 1992: 101)
-  NCV: Uripiv        ne-vnu       'Macaranga sp.'
-  NCV: Naman         ni-vnu       'Macaranga sp.'
-  NCV: Neve'ei       ni-vinu      'Macaranga sp.'
-  NCV: Larevat          na-vanu        'Macaranga sp.'
-  NCV: Nese             ne-yine        'Macaranga sp.'
-  NCV: Paamese          hinu (ahen)    'Macaranga involucrata' (Wheatley 1992: 99)
-  NCV: Paamese         hinu (wa)      'Macaranga tanarius' (Wheatley 1992: 101)
-  NCV: Lewo             (puru)venua    'a tree'
+  MM: Solos          hunuan        'Macaranga spp.'
+  SES: Gela          vinua         'Macaranga tanarius' (W. McClatchey, pers. comm.)
+  SES: Ghari         venua         'Macaranga involucrata'
+  SES: Kwara'ae      fino-fino     'Macaranga aleuritoides'
+  SES: Kwara'ae      (taŋa)fino    'Macaranga aleuritoides'
+  SES: Kahua        |hinua (goro)| 'Macaranga involucrata' (Henderson & Hancock 1988)
+  NCV: Mota          vin-vin       'a tree'
+  NCV: NEAmbae       vinue         'Macaranga involucrata'
+  NCV: Nduindui      venue         'Macaranga involucrata' (Wheatley 1992: 99)
+  NCV: Nduindui     |venue (boe)|  'Macaranga tanarius' (Wheatley 1992: 101)
+  NCV: Uripiv        ne-vnu        'Macaranga sp.'
+  NCV: Naman         ni-vnu        'Macaranga sp.'
+  NCV: Neve'ei       ni-vinu       'Macaranga sp.'
+  NCV: Larevat       nə-vənu       'Macaranga sp.'
+  NCV: Nese          ne-vᫀine       'Macaranga sp.'
+  NCV: Paamese      |hinu (ahen)|  'Macaranga involucrata' (Wheatley 1992: 99)
+  NCV: Paamese      |hinu (wa)|    'Macaranga tanarius' (Wheatley 1992: 101)
+  NCV: Lewo          (puru)venua   'a tree'
 >
 
 244    Malcolm Ross
@@ -11946,13 +11946,13 @@ ch. l3, §3 .1) in Motu.
 
 <
 PWOc *kobo 'taxon of Macaranga spp.'
- PT:   Muyuw        (a)kobwow        'Macaranga tanarius'
+ PT:   Muyuw        (a)kobʷow        'Macaranga tanarius'
  PT:   Motu         kohe             'Macaranga tanarius' (for tkobo)
  MM: Bola           ko-kobo          'Macaranga aleuritoides'
  MM: Nakanai        ko-kobo          'Macaranga tanarius'
  MM: Nakanai        ko-kobo(-kiuka) 'Macaranga aleuritoides, with deeply serrated leaves'
- MM: Kara(E)        (va )kof         'Macaranga quadriglandulosa'
- MM: Kara(E)        (va )kof(se)     'Macaranga urophylla'
+ MM: Kara (E)        (və)kof         'Macaranga quadriglandulosa'
+ MM: Kara (E)        (və)kof(se)     'Macaranga urophylla'
 >
 
 
@@ -11999,22 +11999,22 @@ innovation arose.
 
 <
 PMP *qadamay 'Pipturus argenteus' (ACD)
-POc *qaramwaqi 'Pipturus argenteus' (Geraghty 1990: PEOc *(q)aromwaRa)
+POc *qaramʷaqi 'Pipturus argenteus' (Geraghty 1990: PEOc *(q)aromwaRa)
   Adm: Seimat            ahoma           'a small tree, from the bark of which fishing lines and nets are made' (Sorensen 1950)
   MM:      Kara (E)      kaimek          'Pipturus argenteus'
   MM:      Notsi         karamet         'Pipturus argenteus' (-t unexplained) (Holdsworth et al. 1978)
-  MM:      Patpatar    karanek             'Pipturus argenteus' 3
+  MM:      Patpatar    karanek             'Pipturus argenteus' [3]
   NCV:     Vera'a     demie               'Pipturus argenteus'
   NCV:     Raga        adomai              'Pipturus argenteus'
-  NCV:     Apma        odomwa              'Pipturus argenteus'
-  NCV:     S Efate     na-"rmwa            'Pipturus argenteus'
+  NCV:     Apma        odomʷa              'Pipturus argenteus'
+  NCV:     S Efate     na-ⁿrmʷa            'Pipturus argenteus'
   SV:      Sye         na-nmai             'Pipturus argenteus'
-  SV:      Anejom      ne-lmwai            'Pipturus argenteus'
-  NCal:    Pije        hahmwe              'Pipturus argenteus'
-  NCal:    Nelemwa     hdlamwi             'Pipturus argenteus'
+  SV:      Anejom      ne-lmʷai            'Pipturus argenteus'
+  NCal:    Pije        hahmʷe              'Pipturus argenteus'
+  NCal:    Nelemwa     hâlamʷi             'Pipturus argenteus'
   NCal:    Iaai        arma                'Pipturus argenteus'
   Mic:     Kiribati    aroma               'Pipturus argenteus'
-  Mic:     Marshallese arm we              'Pipturus argenteus'
+  Mic:     Marshallese armʷe              'Pipturus argenteus'
 >
 
 [3] Medial-n- ofPatpatar karanek may represent an unexplained irregularity or may be a transcription error in
@@ -12024,18 +12024,18 @@ Peekel (1984:153).
 
 
 <
-PCP *qaromw(e,a) 'shrub or tree sp., Pipturus sp.; bark used for cordage'
-  Fij:    Wayan           rome            'generic for three spp. ofUrticaceae: Boehmeria virgata, Leucosyke corymbulosa and Pipturus argenteus'
-  Fij:    Lau             roŋti          'Pipturus sp.' (Geraghty 1990: 91)
-PPn *q[a,o]loŋti 'shrub or tree sp., Pipturus sp.; bark used for cordage' [4]
-  Pn:     Tongan          ʔoloŋti        'Pipturus argenteus'
-  Pn:     Nukuria         oloŋti         'Pipturus sp.'
+PCP *qaromʷ(ē,ā) 'shrub or tree sp., Pipturus sp.; bark used for cordage'
+  Fij:    Wayan           rōmē            'generic for three spp. ofUrticaceae: Boehmeria virgata, Leucosyke corymbulosa and Pipturus argenteus'
+  Fij:    Lau             roŋā          'Pipturus sp.' (Geraghty 1990: 91)
+PPn *q[a,o]loŋā 'shrub or tree sp., Pipturus sp.; bark used for cordage' [4]
+  Pn:     Tongan          ʔoloŋā        'Pipturus argenteus'
+  Pn:     Nukuria         oloŋā         'Pipturus sp.'
   Pn:     Takuu           arona           'plant sp'
   Pn:     Luangiua        loloŋa         'tree sp., fishing-line from bark.'
-  Pn:     Ifira-Mele      roŋti          'Pipturus sp.'
-  Pn:     Rarotongan      ʔoroŋti             'Pipturus argenteus'
-  Pn:     Tahitian        rooʔa           'Pipturus sp.'
-  Pn:     Tuamotuan      roŋti                'Pipturus incanus var. tuamotensis'
+  Pn:     Ifira-Mele      roŋā          'Pipturus sp.'
+  Pn:     Rarotongan      ʔoroŋā             'Pipturus argenteus'
+  Pn:     Tahitian        rooʔā           'Pipturus sp.'
+  Pn:     Tuamotuan      roŋā                'Pipturus incanus var. tuamotensis'
   Pn:     Marquesan      hoka                  'shrubs or small trees, Pipturus spp.)'
 >
 
@@ -12096,20 +12096,20 @@ Kwa'ioloa & Burt 2001: 108; see also vol.l , ch.4, §5.3).
 
 <
 POc *tawasi 'Rhus taitensis'
-  MM:      Lavongai        tuas             'Rhus taitensis'
-  MM:      Kara (E)        (ma )rawas       'Rhus taitensis'
-  SES:     Kwara'ae       akwasi           'Rhus taitensis'
-  SES:     Kwaio           akwasi           'Rhus taitensis' (Henderson & Hancock 1988)
-  SES:     Lau            ʔakwasi          'Rhus taitensis'
-  SES:     Santa Ana       awasi            'Rhus taitensis'
-  Fij:     Wayan           tawa(rau)        'Rhus taitensis' (obsolete term; Gardner & Pawley 2006)
+  MM:    Lavongai        tuas         'Rhus taitensis'
+  MM:    Kara (E)        (mə)rawəs    'Rhus taitensis'
+  SES:   Kwara'ae        akʷasi       'Rhus taitensis'
+  SES:   Kwaio           akʷasi       'Rhus taitensis' (Henderson & Hancock 1988)
+  SES:   Lau             ʔakʷasi      'Rhus taitensis'
+  SES:   Santa Ana       awasi        'Rhus taitensis'
+  Fij:   Wayan           tawa(rau)    'Rhus taitensis' (obsolete term; Gardner & Pawley 2006)
 PPn *tawahi 'Rhus taitensis' (POLLEX)
-  Pn:   Tongan         tavahi       'Rhus taitensis'
-  Pn:   Niuean         tavahi       'Rhus taitensis'
-  Pn:   Rennellese tabai            'Rhus taitensis'
-  Pn:   Samoan         tavai        'Rhus taitensis'
-  Pn:   Tahitian       avai         'a large: timber tree'
-  Pn:   Maori          tawai        'large trees, Nothofagus (southern beech) spp.).'
+  Pn:   Tongan           tavahi       'Rhus taitensis'
+  Pn:   Niuean           tavahi       'Rhus taitensis'
+  Pn:   Rennellese       tabai        'Rhus taitensis'
+  Pn:   Samoan           tavai        'Rhus taitensis'
+  Pn:   Tahitian         avai         'a large: timber tree'
+  Pn:   Maori            tawai        'large trees, Nothofagus (southern beech) spp.).'
 >
 
 
@@ -12144,7 +12144,7 @@ POc *droRu(ŋ) 'Trema orienta/is'
   NCV:      Raga            dou-dou          'Trema sp.' (Walsh 2004)
   SV:       Sye             ne-nroŋ         'Trema cannabina' (J. Lynch, pers. comm.)
   Fij:      Wayan           drou             'Parasponia andersonii'
-  Fij:      Bua             [drou- ]drou     'Trema amboinensis' [6]
+  Fij:      Bua             [drou-]drou     'Trema amboinensis' [6]
 >
 
 [6] J. Parham (1972). Bua is on Vanua Levu.
@@ -12180,22 +12180,22 @@ as roofing for temporary shelters. The Kwara'ae used it to make warriors' shield
 
 <
 POc *maRako 'Trichospermum peekelii' (Geraghty 1990: PEOc)
-  MM:       Lavongai        maŋaU           'Trichospermum pleiostigmum' [7]
-  MM:       Kara (E)        maiau            'Trichospermum peekelii'
-  MM:       Madak           (vap)ma          'Trichospermum peekelii'
-  SES:      Gela            malayo           'sp.        tree'
-  SES: Kwara'ae          malaʔo        'Trichospermum peekelii'
-  SES: 'Are'are          marako        'tree sp., a twig ofwhich is used to indicate a taboo'
-  SV:   Anejom           n-may         'Trichospermum inmac' (Wheatley 1992: 233)
+  MM:   Lavongai         maŋau            'Trichospermum pleiostigmum' [7]
+  MM:   Kara (E)         maiau            'Trichospermum peekelii'
+  MM:   Madak            (vap)ma          'Trichospermum peekelii'
+  SES:  Gela             malaɣo           'sp. of forest tree'
+  SES: Kwara'ae          malaʔo           'Trichospermum peekelii'
+  SES: 'Are'are          marako           'tree sp., a twig ofwhich is used to indicate a taboo'
+  SV:   Anejom           n-maɣ            'Trichospermum inmac' (Wheatley 1992: 233)
 PCP *mako 'Trichospermum richii' (for expected t*mako)
-  Fij:  Wayan           mako          'tree, probably Trichospermum richii'
-  Fij:  Bauan           mako          'Trichospermum richii'
-  Pn:   Samoan          maʔo          'Trichospermum richii, Melochia odorata etc.'
-  Pn:   Tikopia         mako          'tree sp. of the woodland; wood occasionally used for outriggers'
-  Pn:   W Futunan       mako            'tree with yellow blossom'
-  Pn:   Tahitian        mao           'tree name, bark used as dye'
-  Pn:   Hawaiian        maʔo          'Gossypium tomentosum, Abutilon incanum'
-  Pn:   Maori           mako-mako    'wineberry, Aristotelia serrata'
+  Fij:  Wayan            mako             'tree, probably Trichospermum richii'
+  Fij:  Bauan            mako             'Trichospermum richii'
+  Pn:   Samoan           maʔo             'Trichospermum richii, Melochia odorata etc.'
+  Pn:   Tikopia          mako             'tree sp. of the woodland; wood occasionally used for outriggers'
+  Pn:   W Futunan        mako             'tree with yellow blossom'
+  Pn:   Tahitian         mao              'tree name, bark used as dye'
+  Pn:   Hawaiian         maʔo             'Gossypium tomentosum, Abutilon incanum'
+  Pn:   Maori            mako-mako        'wineberry, Aristotelia serrata'
 >
 
 [7] Given Peekel's comment that T. pleiostigma is restricted to the south of New Ireland, T. peekelii to the north,
@@ -12224,16 +12224,16 @@ POc *rabum and *(quta)quta.
 
 <
 POc *rabum 'grass'
-  NNG:    Mapos         dbu           'grass in general; grass used for thatching a house'
+  NNG:    Mapos Buang   dbu           'grass in general; grass used for thatching a house'
   PT:     Magori        rabu(na)      'grass'
   MM:     Vitu          rabu-rabu     'grass'
-  TM:     Nagu          lepmtt        'grass'
-  TM:     Nebao         abama         'grass'
+  TM:     Nagu          lepmʉ        'grass'
+  TM:     Nebao         abəmə         'grass'
   TM:     Asuboa        lɔbumɔ      'grass'
   TM:     Tanibili      ubomɔ        'grass'
   TM:     Burna         abɔ          'grass'
   TM:     Vano          abume         'grass'
-  TM:     Tanema        abo me        'grass'
+  TM:     Tanema        abome        'grass'
 >
 
 <
@@ -12264,14 +12264,14 @@ lachryma-jobi, Job's tears.
 This quite possibly also denoted a specific but now uncertain subtaxon.
 
 <
-Proto Remote Oceanic *mwanaya 'grass' (Clark 1996a: PNCV *mwanai)
-  NCV:   Raga          mwanea        'grass'
-  NCV:   Avava         mwana         'grass'
-  NCV:   Nati          no-mwonei     'grass'
+Proto Remote Oceanic *mʷanaya 'grass' (Clark 1996a: PNCV *mwanai)
+  NCV:   Raga          mʷanea        'grass'
+  NCV:   Avava         mʷana         'grass'
+  NCV:   Nati          nö-mʷönei     'grass'
   NCV:   Paamese       munai         'grass'
-  NCV:   Lewo          ma-m 1m       'grass'
-  NCV:   Nguna         na-mwenau     'grass'
-  SV:    Lenakel       n-mwania      'kangaroo grass, Themeda triandra (?)'
+  NCV:   Lewo          ma-mʷini       'grass'
+  NCV:   Nguna         na-mʷenau     'grass'
+  SV:    Lenakel       n-mʷania      'kangaroo grass, Themeda triandra (?)'
   Mic:   Kiribati      maunei        'Cyperus laevigatus and Eleocharis geniculata'
 >
 
@@ -13944,7 +13944,7 @@ POc *baReko 'breadfruit' (French-Wright 1983)
   MM: Uruava         bareo        'breadfruilt'
   MM: Babatana       bario        'Artocarpus altilis' (McClatchey et al. 2005)
   TM: Aiwoo          fii-biilo    'breadfruilt'
-  TM: Natiigu        bia          'breadfruilt'
+  TM: Natügu        bia          'breadfruilt'
   TM: Tanema         baloe        'breadfruilt'
   TM: Burna          bale         'breadfruilt'
   SES: Gela         baleyo       'a pair of breadfruit tied together'
@@ -16528,7 +16528,7 @@ POc *ñatuq 'Burckella obovata' (Blust 1978b: 38-39: *fiatu; Ross 1996c)
   MM: Nduke           natu         'tree sp.'
   MM: Kubukota        ñatu         'Burckella obovata'
   TM: Aiwoo           ñi-nou       'Burckella obovata'
-  TM: Natiigu         no-neu       'Burckella obovata'
+  TM: Natügu         no-neu       'Burckella obovata'
 PEOc *ñatuq 'Burckella obovata'
   SES: Sa'a           nau          'a fruit tree, teak'
   SES: Arosi          nau          'tree sp., fruit is eaten'
@@ -16799,7 +16799,7 @@ POc *tawan 'Pometia pinnata'
   MM: Sursurunga       taoana        'a hardwood tree'
   MM: Petats           tan           'Pometia pinnata'
   MM: Teop             tauana        'Pometia pinnata'
-  TM: Natiigu          no-dae        'Pometia pinnata'
+  TM: Natügu          no-dae        'Pometia pinnata'
 PEOc *tawan 'Pometia pinnata'
   SES: Lengo           tao           'Pometia pinnata' (Henderson & Hancock 1988)
   SES: Arosi           awa           'Pometia pinnata'
@@ -16886,7 +16886,7 @@ POc *quRis 'Spondias cytherea' (Grace 1969 (Wilhelm Milke, pers. comm.: *quRi); 
   MM: Kara (E)        us            'Spondias cytherea'
   MM: Patpatar        kulis         'Spondias cytherea'
   MM: Tolai           kuri          'Spondias cytherea'
-  TM: Natiigu         n-oli         'Spondias cytherea'
+  TM: Natügu         n-oli         'Spondias cytherea'
   SES: Lau            uti           'Spondias cytherea'
   SES: Kwaio          uti           'Spondias cytherea'
   NCV: Mwotlap         ry           'Spondias cytherea'
