@@ -12231,7 +12231,7 @@ POc *rabum 'grass'
   TM:     Nebao         abəmə         'grass'
   TM:     Asuboa        lɔbumɔ      'grass'
   TM:     Tanibili      ubomɔ        'grass'
-  TM:     Burna         abɔ          'grass'
+  TM:     Buma         abɔ          'grass'
   TM:     Vano          abume         'grass'
   TM:     Tanema        abome        'grass'
 >
@@ -12323,19 +12323,19 @@ POc *Reqi 'sword grass, Imperata cylindrica'
   NNG:    Ulau-Suain     ri                 'Imperata cylindrica'
   NNG:    Kela           (ri)ri             'Imperata cylindrica'
   NNG:    Numbami        lei                'Imperata cylindrica'
-  NNG:    Mumeng (Patep) hey                'Imperata cylindrica'
+  NNG:    Mumeng (Patep) heɣ                'Imperata cylindrica'
   NNG:    Maenge         lai                'Imperata cylindrica'
   PT:     Diodio         leyi               'grass'
   PT:     Tawala        lei                'Imperata cylindrica'
   PT:     Kilivila       lei                'Imperata cylindrica'
   PT:     Muyuw          li-lei             'Imperata cylindrica'
   PT:     Motu           rei                'Imperata cylindrica'
-  PT:     Balawaia       leyi               'grass'
-  PT:     Hula           leyi               'Imperata cylindrica'
+  PT:     Balawaia       leɣi               'grass'
+  PT:     Hula           leɣi               'Imperata cylindrica'
   MM:     Bali           re-reke            'Imperata cylindrica'
-  MM:     Bola           reyi               'Imperata cylindrica'
+  MM:     Bola           reɣi               'Imperata cylindrica'
   MM:     Tigak          gi                 'Imperata cylindrica'
-  MM:     Kara (E)                          'Imperata cylindrica'
+  MM:     Kara (E)       i                   'Imperata cylindrica'
   MM:     Tabar          ri-ri              'Imperata cylindrica'
   MM:     Lihir          le                 'Imperata cylindrica'
   MM:     Bilur          re                 'Imperata cylindrica'
@@ -12400,7 +12400,7 @@ golon, Tagalog kogon, Bikol gogon, Hanunuo kugun, all 'I. cylindrica' (Madulid 2
 POc *sila 'Job's tears, Coix lachryma-jobi'
   Adm: Leipon            sili-sin          'Coix lachryma-jobi' (Nevennann 1934)
   SES:    Kwara'ae      sila              'Coix lachryma-jobi'
-  SV:     Anejom         na-8ec            'Coix lachryma-jobi'
+  SV:     Anejom         na-θec            'Coix lachryma-jobi'
   Fij:    Bauan          sila              'Coix lachryma-jobi'
   Fij:    Wayan          slla              'Coix lachryma-jobi'
 >
@@ -12414,13 +12414,13 @@ solid stems are used as roof battens to which sago thatch is attached, and also 
 (Peekel1984: 47, Kwa'ioloa & Burt 2001: 203).
 
 <
-POc *pi(y )uŋ 'M iscanthus floridulus'
+POc *pi(y)uŋ 'Miscanthus floridulus'
   MM:     Nduke          piu         'Miscanthusfloridulus' (unexpected final consonant deletion)
   MM: Roviana          piu           'Miscanthusfloridulus' (unexpected final consonant deletion)
   MM: Marovo           piu           'small bamboo, used for fishing arrows' (unexpected final consonant deletion)
-  NCV: Uripiv          na-vis        'Miscanthusfloridulus'
+  NCV: Uripiv          na-viʙ        'Miscanthusfloridulus'
   NCV: Tape            vieb          'Miscanthusfloridulus'
-  NCV: Avava           vias          'Miscanthusfloridulus'
+  NCV: Avava           viaʙ          'Miscanthusfloridulus'
 PSV *na-(v)iuŋ 'wild cane' (Lynch 2001c)
   SV:    Sye           (nre)n-yuŋ 'wild cane'
   SV:    Sye           (pol)yuŋ     'wild cane'
@@ -12447,25 +12447,24 @@ the New Guinea region that have other denotations.
 
 
 <
-POc *pijo 'cane or reed taxon, including Saccharum spontaneum' (Milke 1968: *piso 'k.o.
-  reed'; French-Wright 1983: *piso)
+POc *pijo 'cane or reed taxon, including Saccharum spontaneum' (Milke 1968: *piso 'k.o. reed'; French-Wright 1983: *piso)
   NNG: Mangap              mbiizi       'reed, pitpit type plant'
   NNG: Kairiru             vis          'pitpit, Saccharum spontaneum, a wild sugarcane type with edible fruit'
   PT:     Motu             hido         'a wild cane growing by the riverside'
   MM: Bola                 viro         'sugar cane, Saccharum edule'
   MM: Nakanai              viro         'a hollow-stemmed reed, Phragmites sp.'
-  MM: Tabar                vi so        'bamboo'
+  MM: Tabar                viso        'bamboo'
 PEOc *piso 'Saccharum sp.'
   SES: Gela               viho         'a sp. of shore lily, Crinum'
   NCV: Mwotlap             viho         'Saccharum spontaneum'
-  NCV: Mota                vi so        'a reed, Arundo, with edible flower heads'
-  NCV: Araki               vi so        'Saccharum edule'
+  NCV: Mota                viso        'a reed, Arundo, with edible flower heads'
+  NCV: Araki               viso        'Saccharum edule'
   NCV: Raga                viho         'Saccharum edule'
-  NCV: Kiai                vi so        'Saccharum edule'
-  NCV: BigNambas           n-is(iJS)    'wild cane'
+  NCV: Kiai                viso        'Saccharum edule'
+  NCV: Big Nambas           n-is(əs)    'wild cane'
   NCV: Uripiv              na-vis       'Saccharum edule'
   NCV: Port Sandwich na-vis             'edible reed'
-  NCV: Tape                niJ-ViJS     'Saccharum spontaneum'
+  NCV: Tape                nə-vəs     'Saccharum spontaneum'
   NCV: Avava               a-vis        'Saccharum spontaneum'
   NCV: Nese                na-vse       'Saccharum spontaneum'
   NCV: Lonwolwol           eh           'a vegetable growing on stalks, in clumps, with soft green sheathing; its flesh, remotely like cauliflower flesh, it is roasted in fire in the sheath'
@@ -12473,7 +12472,7 @@ PEOc *piso 'Saccharum sp.'
   NCV: Lewo                vio          'cane flower (edible)'
   NCV: Namakir             vis          'Saccharum edule'
   NCV: Nguna               na-viiso     'edible reed'
-  Fij:    Bauan            vioo         'a wild sugarcane, Saccharumfloridulum'
+  Fij:    Bauan            viðo         'a wild sugarcane, Saccharum floridulum'
   Pn:     Samoan          fiso          'a large reed, Erianthus maximus; stems contain sugar' (Whistler 2000: 165)
   Pn:     Emae            fiso          'edible wild cane, probably Saccharum edule'
 >
@@ -12690,7 +12689,7 @@ __pre__
   if                     Greater yam, Dioscorea a lata
 /
 fleshy   tuber
-                                        Lesser yam, Dioscorea escu/enta
+                                        Lesser yam, Dioscorea esculenta
                                      smooth vine,
             Figure 9.1     Growth habit of three yam (Dioscorea) species
 
@@ -12708,11 +12707,11 @@ POc *qupi 'greater yam, Dioscorea alata; yam (generic)'
   Adm: Drehet         u            'greater yam; yam (generic)'
   NNG: Malasanga kui-kui           'greater yam; yam (generic)'
   PT:   Iduna         kuvi         'greater yam; yam (generic)'
-  MM: Vitu            yuvi         'greater yam; yam (generic)'
+  MM: Vitu            ɣuvi         'greater yam; yam (generic)'
   MM: Tolai           a-up         'greater yam; yam (generic)'
   MM: Marovo          uvi          'greater yam; yam (generic)'
   MM: Maringe         n-ufi        'greater yam, Dioscorea alata; yam (generic)' (Henderson & Hancock 1988)
-  TM: Burna           uwa          'yam'
+  TM: Buma           uwâ          'yam'
   TM: Tanema          uva          'yam'
   TM: Tanabili        no-upio      'yam'
   TM: Vano            upie         'yam'
@@ -12753,16 +12752,16 @@ reconstructed terms denoted a D. alata cultivar. The terms are POc *mwaruqe, POc
 and POc *pwasepe.
 
 <
-POc *mwaruqe 'Dioscorea sp. or perhaps a cultivar of D. alata'
-  Adm: Titan         mware(n)      'a big yam'
-  Adm: Loniu         mwat          'k.o. large yam'
+POc *mʷaruqe 'Dioscorea sp. or perhaps a cultivar of D. alata'
+  Adm: Titan         mʷare(n)      'a big yam'
+  Adm: Loniu         mʷat          'k.o. large yam'
   MM: Roviana        marihi        'yam' (Henderson & Hancock 1988) (borrowed?)
   NCV: Paamese       a-marue       'k.o. wild yam'
   NCV: Lewo          mol-malu      'k.o. wild yam, ready before cultivated yams'
-  NCV: Nguna         mwazu         'k.o. yam like English potato'
-  NCV: Namakir       maro?         'k.o. taro'
-  NCV: S Efate       n-mwaz        'Dioscorea sp.'
-PSV *-mwariq 'Dioscorea sp.' (Lynch 2001c: 234)
+  NCV: Nguna         mʷāzu         'k.o. yam like English potato'
+  NCV: Namakir       māro?         'k.o. taro'
+  NCV: S Efate       n-mʷaz        'Dioscorea sp.'
+PSV *-mʷariq 'Dioscorea sp.' (Lynch 2001c: 234)
   SV:   Sye          (n-uv)mori 'Dioscorea sp.' (n-uv 'yam (generic)')
   SV:   Ura          (n-up)mori 'Dioscorea sp.' (n-up 'yam (generic)')
 >
@@ -12786,17 +12785,17 @@ this item. I assume it is nonetheless a borrowing from a North Malaitan language
 not know the source of the borrowing.
 
 <
-POc *pwasepe 'Dioscorea alata variety(?)'
+POc *pʷasepe 'Dioscorea alata variety(?)'
   MM:       Petats            waseh            'Dioscorea alata'
   MM:       Selau             wesewe           'Dioscorea alata'
 cf. also:
   PT:       Molima        atea                 'greater yam'
-  PT:       Dobu          kwatea               'yam'
-  PT:       Duau          kwatea               'yam'
+  PT:       Dobu          kʷatea               'yam'
+  PT:       Duau          kʷatea               'yam'
   PT:       'Auhelawa     ateya                'yam'
-  PT:       Suau (Saliba) kwatea               'greater yam, Dioscorea alata; yam (generic)'
-  PT:       Tubetube      kwatea               'greater yam'
-  PT:       Duau          kwatea               'lesser yam'
+  PT:       Suau (Saliba) kʷatea               'greater yam, Dioscorea alata; yam (generic)'
+  PT:       Tubetube      kʷatea               'greater yam'
+  PT:       Duau          kʷatea               'lesser yam'
 >
 
 9.2.1.3 Dioscorea bulbifera, potato yam, aerial yam, air potato (Dioscoreaceae)
@@ -12815,7 +12814,7 @@ Ura (SV) (the Chuukese form appears to be borrowed). The languages in which it i
 local to central New Ireland.
 
 <
-POc *pwatika 'potato yam, aerial yam, Dioscorea bulbifera'
+POc *pʷatika 'potato yam, aerial yam, Dioscorea bulbifera'
   Adm:      Lou              puet                'Dioscorea bulbifera'
   PT:       Boanaki          posika              'yam'
   MM:       Notsi            pias                'lesser yam'
@@ -12824,11 +12823,11 @@ POc *pwatika 'potato yam, aerial yam, Dioscorea bulbifera'
     MM:     Patpatar       patuk            'Dioscorea bulbifera'
     MM:     Halia (Haku)   pat              'greater yam'
     SES:    Kwara'ae      (dau)fasia       'Dioscorea bulbifera cultivars' (Henderson & Hancock 1988)
-PSV *(niJ-tai- )bwatyV 'yam sp.' (Lynch 2001c)
-  SV:    Sye              (tai)potyo(nei) 'k.o . wild yam'
-  SV:    Ura              (dai)borye(ni) 'Dioscorea bulbifera'
+PSV *(nə-tai-)bʷatɣV 'yam sp.' (Lynch 2001c)
+  SV:    Sye              (tai)potɣo(nei) 'k.o . wild yam'
+  SV:    Ura              (dai)borɣe(ni) 'Dioscorea bulbifera'
 cf. also:
-    Mic:    Chuukese         pwereka            'Dioscorea bulbifera' (-r- fort@)
+    Mic:    Chuukese         pʷereka            'Dioscorea bulbifera' (-r- fort@)
 >
 
                                                                                         Staple foods      263
@@ -12856,11 +12855,11 @@ Tip linkage, the third member linkage of Western Oceanic, yet none have been fou
 S Efate and Wayan Fijian forms are both very doubtful cognates.
 
 <
-PWOc *kamisa 'lesser yam, Dioscorea escul'enta'
+PWOc *kamisa 'lesser yam, Dioscorea esculenta'
  NNG: Tuam           amez         'yam'
  NNG: Tami           kamit        'yam'
  NNG: Yabem          ame          'lesser yam, Dioscorea esculenta'
- NNG: Yalu           am is        'lesser yam, Dioscorea esculenta'
+ NNG: Yalu           amis        'lesser yam, Dioscorea esculenta'
  NNG: Sissano        emiei        'greater yam'
  MM: Tangga          kam          'sweet potato; lesser yam'
  MM: Tomoip          misa         'lesser yam, Dioscorea esculenta'
@@ -12896,7 +12895,7 @@ Further terms for yam can be reconstructed, but it is unclear which species they
 <
 PWOc *gobu 'Dioscorea sp.'
   NNG:      Numbami        go-gobu        'greater yam'
-  NNG:      Mumeng (Patep) ycb            'yam'
+  NNG:      Mumeng (Patep) ɣɛb            'yam'
   MM:       Bali           gobu           'yam, Dioscorea alata, cultivar' (Hide 1985)
   MM:       Kara (E)       go-gof         'Dioscorea bulbifera'
 >
@@ -12914,16 +12913,16 @@ Proto Remote Oceanic *damu 'Dioscorea sp.'
   NCV:      Avava         a-dam         'Dioscorea sp.'
   NCV:      Larevat       dram          'Dioscorea sp.'
   NCV:      Nese          na-ram        'Dioscorea sp.'
-  NCV:      Port Sandwich na-"ram       'yam'
-  NCV:      Lonwolwol     dcm           'yam'
+  NCV:      Port Sandwich na-ⁿram       'yam'
+  NCV:      Lonwolwol     dɛm           'yam'
   SV:       Kwamera       nau-ram       'kind ofwild yam'
   SV:       Anejom        rame          'k.o. yam, stringy'
-  NCal:     Pije          dimwa         'D. bulbifera'
-  NCal:     Jawe          dimwa         'D. bulbifera'
-  NCal:     Fwai          niwa          'D. bulbifera'
-  NCal:     Nemi          niwa          'D. bulbifera'
-  NCal:     Nyelayu       demwa         'D. bulbifera'
-  NCal: Nelemwa           dem wa           'D. bulbifera'
+  NCal:     Pije          dimʷa         'D. bulbifera'
+  NCal:     Jawe          dimʷa         'D. bulbifera'
+  NCal:     Fwai          niwâ          'D. bulbifera'
+  NCal:     Nemi          niwâ          'D. bulbifera'
+  NCal:     Nyelayu       demʷa         'D. bulbifera'
+  NCal: Nelemwa           demʷa           'D. bulbifera'
 cf. also:
   Fij:      Wayan          damu(ni)     'k.o. yam with curved tuber and chocolate coloured skin' (final -ni is unexplained)
 >
@@ -13025,8 +13024,8 @@ POc *talo(s) 'taro, Colocasia esculenta' (Capelll1943: *dalo(s))
   SES:   Bauro        aro           'taro'
   NCV:   S Efate      (n)tal        'taro, C. esculenta'
   SV:    Sye          n-tal         'taro, C. esculenta'
-  SV:    Lenakel      niJ-te        'taro, C. esculenta'
-  SV:    SWTanna      niJ-tel       'taro, C. esculenta'
+  SV:    Lenakel      nə-te        'taro, C. esculenta'
+  SV:    SWTanna      nə-tel       'taro, C. esculenta'
   SV:    Anejom       n-tal         'taro, C. esculenta'
   Fij:   Bauan        dalo          'taro, C. esculenta'
   Pn:    Tongan       talo          'taro, C. esculenta'
@@ -13059,8 +13058,8 @@ POc *mʷapo(q) 'taro, Colocasia esculenta' (Milke 1968: *mwao)
   NNG: Mangap         mok              'taro; good food'
   NNG: Kilenge        mo               'taro, C. esculenta'
   NNG: Mangseng       mʷa              'taro, C. esculenta'
-  NNG: Maenge         mao              'taro, C. esculenta
-  NNG: Bing           muaw             'k.o . yam'
+  NNG: Maenge         mao              'taro, C. esculenta'
+  NNG: Bing           muaw             'k.o. yam'
   NNG: Takia          mao              'taro, C. esculenta'
   NNG: Yabem          mo               'taro, C. esculenta'
   NNG: Sirasira       moa              'taro, C. esculenta'
@@ -13073,7 +13072,7 @@ POc *mʷapo(q) 'taro, Colocasia esculenta' (Milke 1968: *mwao)
   MM: Kia             mahu             'taro, C. esculenta'
   MM: Maringe         mhau             'taro, C. esculenta' (Henderson & Hancock 1988)
   SES: Arosi          mwa(-rataʔai)    'taro sp.'
-  SES: Arosi          mwa(-ruguʔino) 'taro sp'.
+  SES: Arosi          mwa(-ruguʔino) 'taro sp.'
   NCal: Xaracuu       mwc              'taro, C. esculenta'
   Pn:   Hawaiian      nao              'k.o . taro'
 >
@@ -13100,11 +13099,11 @@ PSOc *bʷeta 'taro, Colocasia esculenta' (Lynch 2004a)
   NCV: Tamambo         bueta         'taro, C. esculenta'
   NCV: Sakao           (oe)vad       'taro, C. esculenta'
   NCV: Uripiv          na-bʷet       'taro, C. esculenta'
-  NCV: BigNambas     na-pʷet             'an edible root (not taro)'
+  NCV: Big Nambas     na-pʷet             'an edible root (not taro)'
   NCV: Lonwolwol      (u)bʷer             'taro, C. esculenta'
   SV: Anejom           na-pʷat       'k.o. taro'
-  NCal: Nemi           pʷeek         'wild arrowroot, Amorphophallus paeoniifolius'?
-  NCal: Jawe           pʷeek         'wild arrowroot, Amorphophallus paeoniifolius'?
+  NCal: Nemi           pʷeek         'wild arrowroot, Amorphophallus paeoniifolius (?)'
+  NCal: Jawe           pʷeek         'wild arrowroot, Amorphophallus paeoniifolius (?)'
 >
 
     The leaves of Colocasia esculenta are eaten as a green vegetable in many parts of Ocea-
@@ -13114,7 +13113,7 @@ for taro leaves, POc *gal(a,o) is weakly supported, along with a possible PWOc c
 denote Colocasia esculenta itself.
 
 <
-POc *gal(a,o) 'taro leaves'? (Ross 1996c: 190)
+POc *gal(a,o) 'taro leaves' (?) (Ross 1996c: 190)
   Adm: Baluan          gal          'taro'
   NNG: Labu            ka           'taro'
   MM:  Vitu            galo             'taro leaves'
@@ -13124,10 +13123,10 @@ POc *gal(a,o) 'taro leaves'? (Ross 1996c: 190)
                                                                                           Staple foods   269
 
 <
-PWOc *[qa]pʷasu 'taro leaves'?
+PWOc *[qa]pʷasu 'taro leaves' (?)
      NNG:     Kaulong         pasu                 '(mature) taro leaf'
      NNG:     Sengseng        paso                 'taro leaf' (A. Chowning, pers. comm.)
-     NNG:     Manam           (minam) ʔapʷas       'k.o. yam'
+     NNG:     Manam           |(minam) ʔapʷas|       'k.o. yam'
      PT:      Misima          pʷasuwa             'k.o. tree with edible leaves; Gnetum gnemon'
      MM:      Kara (E)        iavas                'taro, Colocasia esculenta'
      MM:      Madak           pas                  'taro'
@@ -13198,14 +13197,12 @@ wise.
 
 __pre__
 Adm: Mussau                 ulaa  *pu(l,r,R)a(q,k)a
-Adm: Seimat                 hula  *pula(q,k)a       'swamp taro, Alocasia sp. , introduced
-                                                    from Aua' (Sorensen 1950)
+Adm: Seimat                 hula  *pula(q,k)a       'swamp taro, Alocasia sp. , introduced from Aua' (Sorensen 1950)
 Adm: Aua                  fuula  *pula(q,k )a      'taro'
 Adm: Lou                   pulak *(p,b )ulaka
 MM: Nakanai                uta    *u(l,r,R)a(q,k )a 'an inedible wild taro, Colocasia sp.'
                            buleha *bu(l,r,R)eqa     'an inedible wild taro, Colocasia sp.'
-                           bureka *buseqa           'variety of elephant ear taro, Alocasia
-                                                    macrorrhizos'
+                           bureka *buseqa           'variety of elephant ear taro, Alocasia macrorrhizos'
 MM: Kara (E)               vulai  *hulaqa                   'k.o. taro'
 MM: Patpatar               pulaka *pulaka                   'Polynesian arrowroot, probably Tacca
                                                             leontopetaloides' 16
@@ -13289,7 +13286,7 @@ PMP *biRaq 'taro sp.' (Blust 1972b)
 POc *piRaq 'giant taro, elephant ear taro, Alocasia macrorrhizos' (Blust 1972b)
   Adm:    Mussau    ia               'Alocasia macrorrhizos'
   PT:     Gumawana   vilava             'taro'
-  PT:     Bwaidoga   vilaya           'edible root resembling taro'
+  PT:     Bwaidoga   vilaɣa           'edible root resembling taro'
   PT:     Motu       hira             'large sp. of edible arum'
   MM:     Kara (E)   fia               'Alocasia macrorrhizos'
   SES:    Gela      vita             'Alocasia macrorrhizos'
@@ -13300,11 +13297,11 @@ POc *piRaq 'giant taro, elephant ear taro, Alocasia macrorrhizos' (Blust 1972b)
   NCV:    Kiai       via              'Alocasia macrorrhizos'
   NCV:    Araki      via              'Alocasia macrorrhizos'
   NCV:    Raga       via              'Alocasia macrorrhizos'
-  NCV:    BigNambas  (Jix              'Alocasia macrorrhizos' (J. Lynch, pers. comm.)
+  NCV:    Big Nambas  ðix              'Alocasia macrorrhizos' (J. Lynch, pers. comm.)
   NCV:    Uripiv     na-vi            'wild arrowroot, Amorphophallus paeoniifolius'
-  NCV:    Tape       viay             'Cyrtosperma merkusii'
-  NCV:    Nese       na-(Ji           'k.o. taro'
-  NCV:    BigNambas viah              'Alocasia macrorrhizos'
+  NCV:    Tape       viaɣ             'Cyrtosperma merkusii'
+  NCV:    Nese       na-dᫀi           'k.o. taro'
+  NCV:    Big Nambas viah              'Alocasia macrorrhizos'
   NCV:    SEAmbrym o-hia              'unidentified edible tuber'
   NCV:    Paamese    u-hiaa           'wild yam'
   NCV:    Lewo       ko-yuia          '(wild) yam'
@@ -13337,8 +13334,8 @@ POc *(p,b)oso 'k.o. taro'
   NNG:      Lukep (Pono) bus                 'taro'
   MM:       Madak         pos                 'grealter yam'
   Mic:      Kosraean      ɔt                 'taro sp.'
-  Mic:      Marshallese wetul                 'elephant ear taro, Alocasia macrorrhizos'
-  Mic:      Chuukese      wot                 'taro, Colocasia esculenta'
+  Mic:      Marshallese wetɯ                 'elephant ear taro, Alocasia macrorrhizos'
+  Mic:      Chuukese      wōt                 'taro, Colocasia esculenta'
 >
 
 
@@ -13364,7 +13361,7 @@ is no longer cultivated anywhere in Melanesia.
 
 9.2.3.2 Tacca leontopetaloides, Polynesian arrowroot (Taccaceae)
 
-The tuber of T acea leontopetaloides is bitter and requires considerable processing to produce
+The tuber of Tacca leontopetaloides is bitter and requires considerable processing to produce
 a starch pudding somewhat like sago pudding. It was used in this way on the small islands of
 theSE Solomons and the Temotu Province, and in much of Polynesia (Henderson & Hancock
 1988: 34) but apparently had only limited us,e in the Bismarcks.
@@ -13387,13 +13384,13 @@ __pre__
 and *soaʔa 'banana' (§3).
 
 <
-PPn *ma-soaʔa 'Polynesian arrowroot, Tacca sp.' (POLLEX)
-  Pn:      Tongan          mahoaʔa          'arrowroot, Tacca sp.'
-  Pn:      Tokelauan       mahoa            'Tacca leontopetaloides'
-  Pn:      Anutan          mao a            'arrowroot, T acea sp.'
-  Pn:      E Futunan       masoʔa           'arrowroot, T acea sp.'
-  Pn:      Samoan          masoa            'T acea leontopetaloides'
-  Pn:      Tuvalu          masoa            'arrowroot, T acea sp.'
+PPn *mā-soaʔa 'Polynesian arrowroot, Tacca sp.' (POLLEX)
+  Pn:      Tongan          māhoaʔa          'arrowroot, Tacca sp.'
+  Pn:      Tokelauan       mahoā            'Tacca leontopetaloides'
+  Pn:      Anutan          maoa            'arrowroot, Tacca sp.'
+  Pn:      E Futunan       māsoʔā           'arrowroot, Tacca sp.'
+  Pn:      Samoan          māsoā            'Tacca leontopetaloides'
+  Pn:      Tuvalu          māsoa            'arrowroot, Tacca sp.'
 >
 
     For the Micronesian names ofT. leontopetaloides, however, no origin has been found:
@@ -13439,10 +13436,10 @@ where it still serves as a famine food.
 Proto Remote Oceanic *Raka 'k.vine, Pueraria lobata' (Geraghty 1990)
   NCV: Raga                    aga         'yam with blue flowers, eaten in time of famine'
      NCV: Port Sandwich     ni-ax           'vine sp.'
-     NCV: Paamese           e-a             'kind of tree with very tough roots that are very tough to dig out while hoeing in garden'
+     NCV: Paamese           e-ā             'kind of tree with very tough roots that are very tough to dig out while hoeing in garden'
      NCV:     Namakir            ni-ak       'vine sp. with blue flowers like a yam; Pueraria (?)'
      Fij:     Wayan              aka         'creeper, Pueraria lobata'
-     Fij:     Bauan              yak a       'creeper, Pueraria lobata' (Geraghty 2004: 79)
+     Fij:     Bauan              yaka       'creeper, Pueraria lobata' (Geraghty 2004: 79)
      Pn:      Tongan             aka         'creeper, Pueraria lobata, whose root is eaten when better food is scarce'
      Pn:      Niuean             aka         'Pueraria lobata'
      Pn:      Ifira-Mele         aka         'creeper sp. , probably Pueraria lobata'
@@ -13560,7 +13557,7 @@ PMP *punti 'banana' (Dempwolff 1938)
 POc *pudi 'banana, Musa cultivars' (Capell1943: *puti)
   Adm:    Mussau       uri             'banana'
   Adm:    Seimat        pudi            'Musa sp.' (Sorensen 1950)
-  Adm:    Drehet        pUf]            'banana'
+  Adm:    Drehet        puŋ            'banana'
   NNG:    Maenge        puri            'banana'
   NNG:    Kove          puri            'banana'
   NNG:    Lukep (Pono) pur             'banana'
@@ -13576,23 +13573,23 @@ POc *pudi 'banana, Musa cultivars' (Capell1943: *puti)
   SES:    To'aba'ita    judi            'banana' (archaic)
   SES:    Lau           judi            'banana'
   SES:    Sa'a          huti            'banana'
-  NCV:    Naman         na-vaj          'banana'
-  NCV:    Nese          no-gic          'banana'
+  NCV:    Naman         nə-vəj          'banana'
+  NCV:    Nese          no-ðᫀic          'banana'
   NCV:    Uripiv        na-vij          'banana'
   NCV:    Lonwolwol     vih             'banana'
-  NCV:    Port Sandwich na-viic         'banana'
+  NCV:    Port Sandwich na-vüc         'banana'
   NCV:    Nguna         na-adi          'banana'
   SV:     Sye           no-voh          'banana'
   SV:     Anejom        no-hos          'banana'
   NCal:   Pije          piji(ŋ)        'Musa paradisiaca'
-  NCal:   Xaracuu       pwi             'banana'
+  NCal:   Xaracuu       pwî             'banana'
   NCal:   Iaai          o-vic           'banana'
   Mic:    Kosraean      uṣ             'banana'
   Mic:    Mokilese      wus             'banana'
   Mic:    Ponapean    ūt              'banana'
-  Mic:    Chuukese      wūc              'banana'
-  Mic:    Puluwat       wūr             'banana'
-  Mic:    Satawalese    wūr             'banana'
+  Mic:    Chuukese      wūc̣              'banana'
+  Mic:    Puluwat       wūṛ             'banana'
+  Mic:    Satawalese    wūṛ             'banana'
   Mic:    Woleaian      wīṣi           'banana'
   Fij:      Wayan            vudi       'cooking banana; sometimes used as generic term for banana'
   Pn:       Tongan          fusi        'cooking banana or banana of any kind'
@@ -13609,8 +13606,8 @@ the POc term. Fe'i bananas are uncommon in New Guinea today, and it is not clear
 they were present in the Bismarcks in Proto Oceanic times.
 
 <
-POc *joRaga 'banana, Fe'i (?) cultivars'
-  NNG:      Middle W atut  cok             'banana'
+POc *joRaga 'banana, Fe"i (?) cultivars'
+  NNG:      Middle Watut  cok             'banana'
   NNG:      Mumeng (Patep) joŋ            'banana (generic); banana, Musa sapientium'
   MM:       Vaghua         soga            'banana'
   SES:      Arosi          toraga         'banana sp.'
@@ -13636,15 +13633,15 @@ the Musa group, since Fe'i bananas are typically copper-coloured.
 POc *sakup 'banana cultivar with long fruit' (?)
   PT:       Gumawana      yagowa      'a long non-sweet banana'
   PT:       Taupota       hakova      'banana'
-  PT:       Tab oro       daua        'k.o. banana: white flesh'
+  PT:       Taboro       daua        'k.o. banana: white flesh'
   PT:       Motu          dau         'k.o. banana: very long'
   MM:       Roviana       hakua       'banana'
   MM:       Maringe       cau         'banana'
   SES:      Kwara'ae      sa-sao      'k.o. banana with upright bunches and large fruit'
   SES:      'Are'are      sao-sao     'k.o. wild banana'
   NCV:      NEAmbae       haka        'banana'
-  NCV:      Larevat       (nav )say   'banana'
-  NCV:      Tape          (ni)say     'banana'
+  NCV:      Larevat       (nəv)saɣ   'banana'
+  NCV:      Tape          (ni)saɣ     'banana'
   NCV:      Paamese       sou-sou     'k.o. banana'
 >
 
@@ -13652,11 +13649,11 @@ POc *sakup 'banana cultivar with long fruit' (?)
 
 
 <
-POc *bwera 'Musa cultivar'
+POc *bʷera 'Musa cultivar'
   PT:    Gapapaiwa   bora-bora                  'k.o. banana'
-  PT:    Budibud      bwela-mweza             'banana'
+  PT:    Budibud      bʷela-mʷeza             'banana'
   NCV: Paamese        a-voi                   'k.o. banana'
-  Mic: Puluwatese   (wuru)pwer                  'k.o. banana enjoyed cooked'
+  Mic: Puluwatese   (wuṛu)pʷeṛ                  'k.o. banana enjoyed cooked'
 >
 
 <
@@ -13667,20 +13664,20 @@ POc *baqun 'banana cultivar'
   SES: Dori'o        baʔu          'banana'
 PSV *n-ban 'banana (generic)' (Lynch 2004a)
   SV:   Sye          ni-mpa        'k.o. banana with long fruit'
-  SV:   Lenakel      niJ-piJn      'banana'
-  SV:   SWTanna      niJ-pwan           'banana'
-  Mic: Puluwatese    (wuru)pawo   'k.o. cooking banana'
+  SV:   Lenakel      nə-pən      'banana'
+  SV:   SWTanna      nə-pʷan           'banana'
+  Mic: Puluwatese    (wuṛu)pāwo   'k.o. cooking banana'
 cf. also:
      NNG: Nenaya              bayup           'banana' (Stober 2005)
 >
 
 <
-PWOc *bwatiq 'banana cultivar'
+PWOc *bʷatiq 'banana cultivar'
  PT:   Tawala       bihiya                   'banana plant'
- PT:   Misima        bwahiki                  'banana'
- PT:   Nimoa         bwasihe                  'banana'
+ PT:   Misima        bʷahiki                  'banana'
+ PT:   Nimoa         bʷasihe                  'banana'
  MM: Vitu            beti                     'banana'
- MM: Vagunu          batia                    'banana'
+ MM: Vangunu          batia                    'banana'
 >
 
    There is evidence for PWOc *pudi-pudi "wild banana', a transparent reduplication of the
@@ -13688,7 +13685,7 @@ generic POc term for banana (see ch. 2, §7.2).
 
 __pre__
       NNG: Mangap              pin-pin         'wild banana'
-      PT:  Sudest              yudu-yudu       'wild banana seeds'
+      PT:  Sudest              ɣudu-ɣudu       'wild banana seeds'
       MM: Ramoaaina            udu-udu         'wild banana'
       MM: Tolai                vudu-vudu       'wild banana, Ensete glaucum' 20 (Arnaud & Horry 1997: 19)
 
@@ -13892,7 +13889,7 @@ POc *kuluR 'breadfruit, Artocarpus altilis'
   NCal: Iaai          i-oun         'breadfruit'
   Fij:   Wayan        kulu          'breadfruit'
   Pn:    Samoan       ʔulu          'breadfruit'
-PChk *kulu 'Barringtonia asiatica' Bender et al. (2003)
+PChk *kulu 'Barringtonia asiatica' (Bender et al. 2003)
   Mic: Chuukese       kuun          'Barringtonia asiatica, B. racemosa'
   Mic: Puluwatese kuul              'tree, used for fish poison'
 >
@@ -13909,7 +13906,7 @@ PNGOc *kunuR 'breadfruit'
   NNG: Tami          kun             'breadfruit'
   NNG: Sukurum       gunik           'breadfruit'
   NNG: Adzera        guni            'breadfruit'
-  NNG: Mato          Uŋ             'breadfruit'
+  NNG: Mato          uŋ             'breadfruit'
   NNG: Wab           un              'breadfruit'
   NNG: Bing          un              'breadfruit'
   PT:  Dobu          ʔunu            'breadfruit'
@@ -13932,40 +13929,40 @@ POc *baReko 'breadfruit' (French-Wright 1983)
   PT:   Roro         pareʔo       'sago palm'
   MM: Lavongai       beiŋo       'breadfruilt'
   MM: Tigak          bego         'breadfruilt' (Beney 1980)
-  MM: Nalik          baraua       'breadfruilt'
+  MM: Nalik          bərəuə       'breadfruilt'
   MM: Tabar          bareu        'breadfruilt'
   MM: Lihir          bale         'Artocarpus altilis' (Burley 2006)
-  MM: Tangga         hie          'breadfruilt'
-  MM: Tomoip         (buŋ )biria 'breadfruilt'
+  MM: Tangga         bīe          'breadfruilt'
+  MM: Tomoip         (buŋ)biria   'breadfruilt'
   MM: Nehan          bario        'breadfruilt'
   MM: Halia-Haku    baleo            'breadfruilt'
   MM: Tinputz        baniu        'breadfruilt'
   MM: Teop           banio        'Artocarpus altilis' (Record 1945)
   MM: Uruava         bareo        'breadfruilt'
   MM: Babatana       bario        'Artocarpus altilis' (McClatchey et al. 2005)
-  TM: Aiwoo          fii-biilo    'breadfruilt'
+  TM: Aiwoo          ñi-bälo    'breadfruilt'
   TM: Natügu        bia          'breadfruilt'
   TM: Tanema         baloe        'breadfruilt'
-  TM: Burna          bale         'breadfruilt'
-  SES: Gela         baleyo       'a pair of breadfruit tied together'
-  SES: Lengo          be yo           'breadfruit'
-  SES: Talise         baleyo          'breadfruit'
+  TM: Buma          bale         'breadfruilt'
+  SES: Gela         baleɣo       'a pair of breadfruit tied together'
+  SES: Lengo          beɣo           'breadfruit'
+  SES: Talise         baleɣo          'breadfruit'
   SES: Longgu         baleʔo          'breadfruit'
   SES: Kwaio          baleʔo          'breadfruit tree, breadfruit'
   SES: Birao          baleho          'breadfruit'
-  SES: Lau            bwaleo          'breadfruit'
+  SES: Lau            bʷaleo          'breadfruit'
   SES: Kwara'ae      baleo?          'breadfruit'
   SES: 'Are'are     pareʔo          'breadfruit'
-  SES: Sa'a          pwaleʔo         'breadfruit'
-  SES: Arosi          bwareʔo         'breadfruit'
-  SES: Bauro          pareyo          'breadfruit'
+  SES: Sa'a          pʷaleʔo         'breadfruit'
+  SES: Arosi          bʷareʔo         'breadfruit'
+  SES: Bauro          pareɣo          'breadfruit'
   NCV: Mota           pego            'breadfruit sp.'
   NCV: Nduindui       baeko           'breadfruit'
   NCV: NEAmbae        baego           'breadfruit'
   NCV: Nokuku         peko            'breadfruit sp.'
   NCV: Tamambo        baeho           'breadfruit'
-  NCV: Raga           baeyo           'Artocarpus altilis' (Walsh 2004)
-  SV:  Lenakel        nu-(v() )vaau   'k.o. breadfruit with very large fruit'
+  NCV: Raga           baeɣo           'Artocarpus altilis' (Walsh 2004)
+  SV:  Lenakel        nu-(və)vaau   'k.o. breadfruit with very large fruit'
 >
 
                                                                              Staple foods   285
@@ -13979,10 +13976,10 @@ POc *beta 'breadfruit'
   NCV: Mwotlap         b[e]te         'breadfruit'
   NCV: Mwesen          per            'breadfruit' (Bourdy & Walter 1994)
   NCV: Naman           ne-bet         'breadfruit'
-  NCV: Tape            p()te          'breadfruit'
+  NCV: Tape            pəte          'breadfruit'
   NCV: Avava           e-bet          'breadfruit'
   NCV: Lonwolwol      beta                 'breadfruit'
-  NCV: Paamese         veta           'breadfruit'
+  NCV: Paamese         vetā           'breadfruit'
 >
 
 <
@@ -14135,7 +14132,7 @@ POc *Rabia 'sago, Metroxylon spp., mainly Metroxylon sagu (syn. Metroxylon rumph
   TM: Nebao             në-rë        'sago'
   TM: Asuboa            (lov)ne-te   'sago'
   TM: Tanabili          no-kʷo       'sago'
-  TM: Burna             ɔtɔvɔ        'sago'
+  TM: Buma             ɔtɔvɔ        'sago'
   SV:  Kwamera          ni-epi       'Metroxylon warburgii'
 PCP *abia 'Polynesian arrowroot, Tacca leontopetaloides'
   Fij:  Bauan           yabia        'arrowroot, starch, Tacca leontopetaloides'
@@ -14245,15 +14242,15 @@ dinal section.
 
      The glosses of many of the terms listed below  refer simply to 'cycad' or 'Cycas'. None is
                                                     identified as 'C. scratchleyana', and there is rea-
-sonable support for glossing all of them 'Cycas rumphit, but this is likely to be due to the
+sonable support for glossing all of them 'Cycas rumphii, but this is likely to be due to the
 fact that the two species were not distinguished until recently.
 
 <
 PMP *patuRu 'a cycad, Cycas rumphii' [32]
 POc *(p,pʷ)atoRu 'a cycad, Cycas rumphii'
-     Adm:   Mussau        otou           'Cycas rumphit
-     Adm:   Seimat        haato          'Cycas rumphit (Sorensen 1950)
-     Adm:   Lou           paro           'Cycas rump hit
+     Adm:   Mussau        otou           'Cycas rumphii'
+     Adm:   Seimat        haato          'Cycas rumphii' (Sorensen 1950)
+     Adm:   Lou           paro           'Cycas rumphii'
      Adm:   Drehet        potop          'Cycas palm'
      MM:    Nakanai       patola         'cycad' (-a for †-u)
 >
@@ -14272,11 +14269,11 @@ POc *bai-bai(t) 'a cycad, Cycas rumphii' (Ross 1996c)
   MM: Patpatar         be-be        'cycad palm'
   MM: Tolai            bai-bai      'arborescent fern sp.; cycad palm'
   MM: Nehan            be-be        'cycad'
-  TM: Aiwoo            (nʷasi)poyi 'Cycas rumphit
-  TM: Aiwoo            (nʷasi)poyi 'Cycas rump hit
+  TM: Aiwoo            (nʷasi)poyi 'Cycas rumphii'
+  TM: Aiwoo            (nʷasi)poyi 'Cycas rumphii'
   SES: Longgu          bai-bai      'cycad palm'
   SES: Lau             bai-bai      'k.o. cycad; nut ofthis tied to strings and made to hum, a bull-roarer'
-  SES: Kwara'ae        bai-bai      'Cycas rumphit
+  SES: Kwara'ae        bai-bai      'Cycas rumphii'
   SES: Baelelea        gʷae         'cycad palm'
   SES: Kwaio           bai-bai      'k.o. cycad; nut used in whirling toy'
   SES: 'Are'are        pai-pai      'k.o. cycad'
@@ -14284,11 +14281,11 @@ POc *bai-bai(t) 'a cycad, Cycas rumphii' (Ross 1996c)
 
 <
 PCP *loŋo-loŋo 'a cycad, Cycas rumphii'
-  Fij:   Bauan          loŋo-loŋo 'Cycas rumphit (Ryan 1988: 140)
-  Pn:    Tongan         loŋo-loŋo 'Cycas rumphit
-  Pn:    Niuean         loŋo-loŋo 'Cycas rumphit
-  Pn:    W Uvean        loŋo-loŋo 'Cycas rumphit
-  Pn:    Tikopia        roŋo-roŋo 'Cycas rumphit
+  Fij:   Bauan          loŋo-loŋo 'Cycas rumphii' (Ryan 1988: 140)
+  Pn:    Tongan         loŋo-loŋo 'Cycas rumphii'
+  Pn:    Niuean         loŋo-loŋo 'Cycas rumphii'
+  Pn:    W Uvean        loŋo-loŋo 'Cycas rumphii'
+  Pn:    Tikopia        roŋo-roŋo 'Cycas rumphii'
   Pn:    Emae           roŋo-roŋo 'cycad'
 >
 
@@ -15431,7 +15428,7 @@ POc *[ka]ŋaRi 'canarium almond, Canarium indicum'
   MM: Kara (E)          ŋai        'canarium almond, Canarium indicum'
   MM: Patpatar          ŋar        'canarium almond, Canarium indicum'
   MM: Uruava            nari        'canarium almond'
-  MM: Vagunu            ŋari       'canarium almond'
+  MM: Vangunu            ŋari       'canarium almond'
   MM: Kusaghe           ŋari       'Canarium indicum' (Evans 1999:39)
 PEOc *[qa]ŋaRi 'canarium almond, Canarium spp.'
   SES: Bugotu           ŋali       'canarium almond' (W. McClatchey, pers. comm.)
@@ -16094,7 +16091,7 @@ POc *kiRe 'coastal Pandanus sp., probably Pandanus tectorius' (French-Wright 198
   NCV: Vures          (wö)gœr      'Pandanus tectorius' (Fran~ois 2004)
   NCV: Raga           gire          'native tree with fruit like pineapple; pandanus'
   NCV: Tamambo        hire-hire     'woven container from coconut leaf'
-  NCV: BigNambas      na-hei             'mat'
+  NCV: Big Nambas      na-hei             'mat'
   NCV: Nguna          na-kie        'mat pandanus'
   Fij:   Bauan        kie-kie       'Pandanus sp.'
   Pn:    Tongan       kie           'a sterile variety of pandanus used for weaving mats' (Whistler 1991b: 56)
@@ -16138,7 +16135,7 @@ of fruit segment with edible kernel; J, leaf tip showing curved spike.
 PSOc *va(i,y)u 'Pandanus sp.'
   NCV: NE Ambae    ve-veo             'Pandanus sp.'
   NCV: Tape        na-viu       'Pandanus sp.'
-  NCV: BigNambas   ðᫀiu              'Pandanus sp.'
+  NCV: Big Nambas   ðᫀiu              'Pandanus sp.'
   NCV: Nese        na-ðᫀau      'Pandanus sp.'
   NCV: Baki        (buru)vewo 'Pandanus sp.'
 PSV *na-va(i,y)u 'Pandanus sp.' (Lynch 2004a)
@@ -16578,12 +16575,12 @@ species of Citrus, or both.[24]
 
 <
 POc *molis 'citrus fruit or citrus-like fruit, perhaps Clymenia polyandra' (Lynch 1984)
-  Adm: Mussau             muli         'citms fruit'
-  Adm: Drehet             mwʷli        'citms fruit: pomelo'
-  NNG: Atui               molis        'citms fruit'
-  NNG: Mangseng           mɔlis       'citms fruit'
-  MM: Vitu                moli         'citms fruit'
-  MM: Patpatar            mulis        'citms fruit'
+  Adm: Mussau             muli         'citrus fruit'
+  Adm: Drehet             mwʷli        'citrus fruit: pomelo'
+  NNG: Atui               molis        'citrus fruit'
+  NNG: Mangseng           mɔlis       'citrus fruit'
+  MM: Vitu                moli         'citrus fruit'
+  MM: Patpatar            mulis        'citrus fruit'
   MM: Nehan               molih        'Clymenia polyandra'
   MM: Halia (Haku)        molihi          'citrus fruit'
   MM: Kia                 mholi        'Citrus sp.'
@@ -16593,21 +16590,21 @@ POc *molis 'citrus fruit or citrus-like fruit, perhaps Clymenia polyandra' (Lync
   NCV: Mwotlap            nı-mʷıl      'Citrus medica'
   NCV: Mota               mʷol         'Citrus medica'
   NCV: Tamambo            moli         'orange'
-  NCV: Tape               mʷələs     'citms fruit'
-  NCV: Uripiv             na-mul       'citms fruit'
+  NCV: Tape               mʷələs     'citrus fruit'
+  NCV: Uripiv             na-mul       'citrus fruit'
   NCV: Port Sandwich      vi-mor            'orange'
-  NCV: Lonwolwol          wo-mul       'citms fruit'
-  NCV: Paamese            a-moli       'citms fruit'
-  NCV: Lewo               mʷozu        'citms fruit'
-  NCV: Namakir            mol          'citms fruit'
-  NCV: Nguna              na-mwoli     'citms fruit'
+  NCV: Lonwolwol          wo-mul       'citrus fruit'
+  NCV: Paamese            a-moli       'citrus fruit'
+  NCV: Lewo               mʷozu        'citrus fruit'
+  NCV: Namakir            mol          'citrus fruit'
+  NCV: Nguna              na-mwoli     'citrus fruit'
 PSV *ne-molis 'citrus fruit' (Lynch 2001c)
-  SV:   Sye               ne-mli       'citms fruit'
-  SV:   Lenakel           nə-məlh    'citms fruit'
-  SV:   SWTanna           (kʷa)n-məlh 'citms fruit'
-  SV:   Kwamera           nə-mərhi   'citms fruit'
-  SV:   Anejom            ne-pceθ     'citms fruit' (p unexplained)
-  Fij:  Wayan             moli         'citms fruit (generic)'
+  SV:   Sye               ne-mli       'citrus fruit'
+  SV:   Lenakel           nə-məlh    'citrus fruit'
+  SV:   SWTanna           (kʷa)n-məlh 'citrus fruit'
+  SV:   Kwamera           nə-mərhi   'citrus fruit'
+  SV:   Anejom            ne-pceθ     'citrus fruit' (p unexplained)
+  Fij:  Wayan             moli         'citrus fruit (generic)'
 >
 
 [24] Barrau (1962: 179) suggests that one edible citrus species, Citrus macroptera, is indigenous to Melanesia,
@@ -17300,7 +17297,7 @@ POc *niuR 'coconut palm and/or fruit, Cocos nucifera'
   MM: Nalik            nur            'coconut'
   MM: Tabar            niu            'coconut'
   MM: Mono-Alu         niunu          'coconut'
-  TM: Burna            luro           'coconut'
+  TM: Buma            luro           'coconut'
   TM: Nebao            na-na          'coconut'
   TM: Asuboa           u-fiio         'coconut'
   TM: Tanabili         no-fiio        'coconut'
@@ -17473,16 +17470,16 @@ languages may have corresponding terms that are not listed as coconut growth sta
 
 __ul__
  Anejofu (SV): 11 stages (Lynch 2001c)
- nacomw                  'flower'
+ nacomʷ                  'flower'
  nohowa-nhuau            'very small coconut' (lit. 'fruit a.boil')
- inhivaiiereri           'green coconut with very soft flesh'
- inhivaiiwou             'green coconut with drinkable water'
- inhivaii                'green coconut for drinking'
- inhivaiiyai             'green coconut with edible flesh, almost ripe' (lit. 'fruit tree ')
- neaii metou             'yellowish coconut' (lit. 'coconut ripe ')
- inhamesei, neaii mesei 'dry coconut' (lit. 'coconut dry ')
- nelaneaii               'germinated coconut or its pith'
- neaii8el                'sprouting coconut' (lit. 'coconut grows (v)')
+ inhivañereri           'green coconut with very soft flesh'
+ inhivañwou             'green coconut with drinkable water'
+ inhivañ                'green coconut for drinking'
+ inhivañyai             'green coconut with edible flesh, almost ripe' (lit. 'fruit tree ')
+ neañ metou             'yellowish coconut' (lit. 'coconut ripe ')
+ inhamesei, neañ mesei 'dry coconut' (lit. 'coconut dry ')
+ nelaneañ               'germinated coconut or its pith'
+ neañθel                'sprouting coconut' (lit. 'coconut grows (v)')
  nerenren                'sprouting coconut, longer sprout than neafiBel'
 
 
@@ -17701,7 +17698,7 @@ POc *matuqu 'coconut growth stage 9: ripe, flesh hardened'
   NCV:     NEAmbae        matui         'coconut (generic)'
   NCV:      Nokuku        metui         'coconut (generic)'
   NCV:      Tape          matiu         'ripe coconut'
-  NCV:      BigNambas     ŋatu         'ripe coconut'
+  NCV:      Big Nambas     ŋatu         'ripe coconut'
   NCV:      Avava         (ani) met-met 'dry coconut but not fallen'
   NCV:      Port Sandwich marue         'ripe coconut'
   NCV:      Paamese       matou         'dry coconut'
@@ -18928,7 +18925,7 @@ POc *topu 'sugarcane, Saccharum officinarum' (Capel11943)
   MM: Siar               tu           'sugarcane'
   MM: Mono-Alu           tohu         'sugarcane'
   MM: Marovo             tovu         'sugarcane'
-  TM: Burna              luro         'coconut'
+  TM: Buma              luro         'coconut'
   TM: Nebao              na-na        'coconut'
   TM: Asuboa             u-fiio       'coconut'
   TM: Tanabili           no-fiio      'coconut'
@@ -19093,7 +19090,7 @@ POc *buaq 'betelnut, areca nut, palm, Areca catechu' (Capell1943: *pua(q))
   MM: Banoni         buyava        'Areca catechu' (metathesis of *bu(v )aya)
   MM: Uruava         bua           'Areca catechu'
   MM: Torau          buka          'Areca catechu' (metathesis of *buak)
-  TM: Burna          buioe         'Areca catechu'
+  TM: Buma          buioe         'Areca catechu'
   TM: Tanema         boie          'Areca catechu'
   SES: Gela         bua            'Areca catechu'
   SES: Arosi         bua            'Areca catechu'
