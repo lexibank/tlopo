@@ -304,7 +304,7 @@ protolanguage was spoken where remain somewhat controversial, it is impossible t
 without making some assumptions about these matters.. Figure 1 is an approximate rendering
 of our subgrouping assumptions, and also serves as a key to abbreviations of names of
 language groups and protolanguages. The upper part of the tree (as far down as POc) is due
-to Blust, originally presented in Blust (1977) and repeated with additional supporting evidence
+to Blust, originally presented in Blust (1977a) and repeated with additional supporting evidence
 in subsequent publications (Blust 1978a, 1982, 1983-84b, 1993).[5]
 
     Within Oceanic we assume a minimum of three primary subgroups: Western Oceanic,
@@ -419,12 +419,12 @@ Jaya.
 
    For non-Oceanic languages we have referred to sound correspondences given by Tsuchida
 (1976) for Formosa; by Zorc (1977, 1986) and Reid (1982) for the Philippines; by Adelaar
-(1992) and Nothofer (1975) for Malay and Javanese; by Sneddon (1984) for Sulawesi; by
+(1992a) and Nothofer (1975) for Malay and Javanese; by Sneddon (1984) for Sulawesi; by
 Collins (1983) for Central Maluku; and by Blust (1978a) for South Halmahera and Irian
 Jaya.
 
    We are well aware that regular sound correspondences can be interfered with in various
-ways: by phonetic conditioning that the analyst has not identified (see, e.g., Blust 1996), by
+ways: by phonetic conditioning that the analyst has not identified (see, e.g., Blust 1996a), by
 borrowing (for an extreme Oceanic case, see Grace 1996), or, as recent research suggests, by
 the frequency of an item's use (Bybee 1994). We have tried at least to note, and sometimes to
 account for, irregularities in cognate sets.
@@ -719,7 +719,7 @@ retained in POc, but to my knowledge no one has demonstrated that this is so.
     PMP permitted CVC syllables both word-finally and word-internally, as in *gapgap
 'stammer'. One of the innovations which defines POc is the loss of the final consonant of a
 word-medial syllable, as in POc *kaka(p). The most common context for this innovation is
-reduplicated forms like *gapgap (Blust 1977), but it also occurred elsewhere; for example,
+reduplicated forms like *gapgap (Blust 1977a), but it also occurred elsewhere; for example,
 PMP *beR'li 'night' became POc *boŋi.
 
     The prenasalised consonants *bw, *b, *d, *j, *g, *dr and the glides *w, *y did not occur
@@ -1113,7 +1113,7 @@ is not synchronically separable, it is parenthesised in accord with the conventi
 
     Above, I wrote that transitivising morphology is determined in mo t cases by the canonic
 shape of the root. There are some exceptions to this generalisation, and one set of these is
-discussed by Blust (1977). These consist of forms like those in (9), descended from a PAn or
+discussed by Blust (1977a). These consist of forms like those in (9), descended from a PAn or
 PMP reduplicated monosyllabic root. The intransitive POc form in each case reflects the
 earlier form with regular loss of the final consonant of the first syllable (§2.2). The transitive
 form reflects a single monosyllabic root plus an *-i- which by POc times was no longer
@@ -4486,7 +4486,7 @@ POc *i-asa(q) 'grater; anything used to grate, grind' (Lichtenberk 1994)
                                                                       Household artefacts        95
 
 <
-PMP *kirkir (v) 'file, rasp' (Blust 1977)
+PMP *kirkir (v) 'file, rasp' (Blust 1977a)
 POc *kiri 'file, rasp, saw'
   NNG: Roinji             kiri-              'bore (hole)'
   NNG: Manam              kuiri-             'bore (hole)'
@@ -11576,7 +11576,7 @@ POc *i-asa(q) 'grater; anything used to grate, grind' (Lichtenberk 1994)
 >
 
 <
-PMP *kirkir (V) 'file, rasp' (Blust 1977)
+PMP *kirkir (V) 'file, rasp' (Blust 1977a)
 (1) POc *kiri[-] 'file, rasp, saw'
    NNG: Roinji              kiri-              'bore (hole)'
    NNG: Manam               kuiri-             'bore (hole)'
@@ -12278,7 +12278,7 @@ POc *siba 'cut, slice'
 their meaning entailed cutting rather than other modes of separation.
 
 <
-PAn *tektek 'hack off' (Blust 1977)
+PAn *tektek 'hack off' (Blust 1977a)
 POc *toto(k) 'cut, chop'
    NNG:       Lukep        tota                'cut'
    NNG:       Takia        tut-                'pound, knock to bits, cut bush, cut off'
@@ -12669,7 +12669,7 @@ e.g. as a preliminary to splitting (i.e. *Risi(q) above) pandanus leaves.
 258        Malcolm Ross, Ross Clark and Meredith Osmond
 
 <
-PAn *testes 'tear, tear up' (Blust 1977)
+PAn *testes 'tear, tear up' (Blust 1977a)
 POc *tosi[-] 'score, split, pull apart lengthwise'
    SES:       Arosi         osi                'cut, score'
    SES:       Lau           osi                'pull to pieces, as a house'
@@ -12717,7 +12717,7 @@ POc *papak 'peel bark'
                                         Acts of impact, force and change of state          259
 
 <
-PMP *gatgat 'chew up' (Blust 1977)
+PMP *gatgat 'chew up' (Blust 1977a)
 POc *kati[-] 'husk with the teeth '
    Adm: Titan              at                 'chew, bite'
    NNG: Kaiwa              ati                'bite'

@@ -110,7 +110,7 @@ Oceanic: for Proto Polynesian by Biggs (resulting in Walsh and Biggs (1966), Big
 (1970) and subsequent versions of the POLLEX file, including Biggs and Clark (1993), the
 version we have referred to in our work); for Proto Micronesian by scholars at the
 University of Hawaii (Bender et al. 1983); for Proto North/Central Vanuatu by Clark
-(1996); for Proto Southern Vanuatu by Lynch (1978b, 1996b, 2001); for New Caledonia by
+(1996); for Proto Southern Vanuatu by Lynch (1978b, 1996b, 2001c); for New Caledonia by
 Ozanne-Rivierre (1992), Haudricourt and Ozanne-Rivierre (1982) and Geraghty (1989);
 for Proto Southeast Solomonic by Levy (1980) and Lichtenberk (1988); for Proto Central
 Pacific by Hockett (1976) and Geraghty (1983, 1986, and 1996, together with a number of
@@ -302,7 +302,7 @@ protolanguage was spoken where remain somewhat controversial, it is impossible t
 proceed without making some assumptions about these matters. Figure 1 is an approximate
 rendering of our subgrouping assumptions, and also serves as a key to abbreviations of
 names of language groups and protolanguages. The upper part of the tree (as far down as
-POc) is due to Blust, originally presented in Blust (1977) and repeated with additional
+POc) is due to Blust, originally presented in Blust (1977a) and repeated with additional
 supporting evidence in subsequent publications (Blust 1978a, 1982, 1983–84b, 1993).[4]
 
 [4]   For a commentary on Austronesian subgrouping, see Ross (1995b).
@@ -448,19 +448,19 @@ work of others. The sound correspondences we have used are those given by Ross (
 for Western Oceanic and Admiralties; by Levy (1979, 1980) and Lichtenberk (1988) for
 Cristobal-Malaitan, by Pawley (1972) and Tryon and Hackman (1983) for Southeast
 Solomonic; by Tryon (1976) and Clark (1996) for North/Central Vanuatu; by
-Lynch (1978b, 2001) for South Vanuatu; by Geraghty (1989) and Ozanne-Rivierre (1992) for
+Lynch (1978b, 2001c) for South Vanuatu; by Geraghty (1989) and Ozanne-Rivierre (1992) for
 New Caledonia; by Jackson (1986) and Ross (1996a) for Nuclear Micronesian; by
 Geraghty (1986) for Central Pacific; by Biggs (1978) for Polynesian; by Ross (1996a) for
 Yapese; and by Ross (1996b) for Irian Jaya (West New Guinea).
 
    For non-Oceanic languages we have referred to sound correspondences given by
 Tsuchida (1976) for Formosa; by Zorc (1977, 1986) and Reid (1982) for the Philippines;
-by Adelaar (1992) and Nothofer (1975) for Malay and Javanese; by Sneddon (1984) for
+by Adelaar (1992a) and Nothofer (1975) for Malay and Javanese; by Sneddon (1984) for
 Sulawesi; by Collins (1983) for Central Maluku; and by Blust (1978a) for South
 Halmahera and West New Guinea.
 
    We are well aware that regular sound correspondences can be interfered with in various
-ways: by phonetic conditioning that the analyst has not identified (see, e.g., Blust 1996), by
+ways: by phonetic conditioning that the analyst has not identified (see, e.g., Blust 1996a), by
 borrowing (for an extreme Oceanic case, see Grace 1996), or, as recent research suggests,
 by the frequency of an item’s use (Bybee 1994). We have tried at least to note, and
 sometimes to account for, irregularities in cognate sets.
@@ -10980,7 +10980,7 @@ their expression in Oceanic languages.
      normally has a vertical (‘up’/‘down’) axis and a horizontal axis. On the horizontal axis
      European languages have the cardinal directions ‘north’, ‘south’, ‘east’ and ‘west’. In
      Oceanic languages there are usually two sets of geographic directions, one used on or
-     near land, the other used at sea (cf. Hill 1997, François 2003, 2004). Typically each
+     near land, the other used at sea (cf. Hill 1997, François 2003, 2004a). Typically each
      has two subsystems.
      <ol><li>The land-based subsystems are (cf. Ozanne-Rivierre 1997):
          <ol><li>one with an inland/seaward axis, sometimes with a transverse axis
@@ -10996,7 +10996,7 @@ their expression in Oceanic languages.
               <li>the other applying the river valley subsystem with its up/down axis (and
                perhaps its transverse axis) metaphorically to the sea, such that ‘down’ is
                towards the northwest and ‘up’ towards the southeast (François 2003,
-               2004).</li></ol></ol>
+               2004a).</li></ol></ol>
       If we wanted to be particular, incidentally, we could label a number of geographic
       expressions ‘deictic-geographic’. To say that something is seawards, for example, is to
       place it in relation to the speaker. If the speaker were closer to the sea, the same
@@ -11180,7 +11180,7 @@ they are assigned to more than one subclass.
 [8] Evidence for reconstructing the sequence *i ta- is found in Mussau (Adm) e ta-gi ‘to me, for me’, Gela i
   ta-gua ‘with me’ (both reflecting POc *i ta-gu) and in a Longgu (SES) paradigm of prepositions and
   relators shown on p.5 (Hill 1992). Paradigmaticity indicates that the cell now occupied by ta- once
-  contained *i ta-. Proto South Vanuatu *ira- (Lynch 2001) appears from its possessive suffixation and its
+  contained *i ta-. Proto South Vanuatu *ira- (Lynch 2001c) appears from its possessive suffixation and its
   uses as general and possessive preposition also to reflect POc *i ta-, but this entails assuming the form
   underwent an idiosyncratic innovation, as it reflects POc *ira-.
 
@@ -13038,7 +13038,7 @@ which also served as a verb of deictic direction and is reconstructed on p.289. 
 there are no known Western Oceanic or Southeast Solomonic reflexes of *pano with this
 sense, so this may be a later innovation.
 
-   Recent work by François (2003, 2004) suggests strongly that this subsystem was also
+   Recent work by François (2003, 2004a) suggests strongly that this subsystem was also
 applied metaphorically to directions at sea. The two cardinal directions at sea were
 evidently provided by the major winds, POc *apaRat, the northwest storm wind, and *raki,
 the southeast trade wind, as the reflexes below (repeated from Chapter 5, §4.2) suggest:
@@ -13089,18 +13089,18 @@ sailors like going uphill.
     In Ross (1995c) I suggested that *sake ‘go up’ and *sipo ‘go down’ were used by POc
 speakers to denote ‘east’ and ‘west’, i.e. the locations of sunrise and sunset. This inference
 was based on the fact that the glosses for their reflexes in many Oceanic languages are
-given as ‘east’ and ‘west’ (this is also true of some of the sources that François 2004 cites).
+given as ‘east’ and ‘west’ (this is also true of some of the sources that François 2004a cites).
 However, François argues in his detailed account of Mwotlap directional systems that this
 is semantically implausible, as reflexes of *sake and *sipo are used for ‘go southeast’ and
 ‘go northwest’ respectively, and it is hard to see how these meanings—or ‘go east’ and ‘go
 west’—could be derived from ‘go to the place where the sun rises/sets’ (François 2003). In
-François (2004) he also presents the systems of a number of languages which display the
+François (2004a) he also presents the systems of a number of languages which display the
 ‘go up/southeast’ and ‘go down/northwest’ correlations. I find his reconstruction of a
 terminological subsystem corresponding to the major wind directions convincing, and I
 think it likely that systems which are oriented to the rising and setting of the sun are
 probably more recent developments.
 
-    François (2004) is a reconstruction of a POc terminological subsystem, i.e. a system of
+    François (2004a) is a reconstruction of a POc terminological subsystem, i.e. a system of
 meanings and the relationships among them. The languages in his sample by no means all
 use reflexes of *sipo and *sake for ‘go downward’ and ‘go upward’, and he makes no
 attempt to reconstruct the POc forms, assuming that the relevant POc etyma were *sipo
@@ -13349,7 +13349,7 @@ __pre__
 
 8.3.3.3 *sipo and *sake as directions at sea
 
-   Above I noted François’ (2004) reconstruction of POc speakers’ use of terms for ‘go
+   Above I noted François’ (2004a) reconstruction of POc speakers’ use of terms for ‘go
 downward’ and ‘go upward’ for ‘go northwest’ and ‘go southeast’, i.e. directions
 corresponding with those of the major winds. François assumes that the relevant POc terms
 were *sipo and *sake, reconstructed in §§3.3.1–3.3.2. As these were the generic terms for
@@ -13411,7 +13411,7 @@ PPn *sa-sake ‘(N) east’ (Biggs & Clark 1993)
 downward’ and ‘go upward’ with ‘go northwest’ and ‘go southeast’ occurs widely,
 suggesting that the equation itself should be reconstructed for POc, even if the forms
 themselves are hard to reconstruct. Except for Wayan, the terms listed below are drawn
-from François (2004).
+from François (2004a).
 
 __pre__
                            ‘downward,                   ‘upward,
@@ -13862,7 +13862,7 @@ POc *ua ‘go towards addressee’; (DIR) ‘towards addressee’
 >
 
 Proto South Vanuatu *un-, which forms locative nouns from common nouns (Lynch
-2001:132), may also belong here.
+2001c:132), may also belong here.
 
                                     Talking about space: terms of location and direction       285
 
@@ -14337,7 +14337,7 @@ Sobei (Sterner & Ross 2002), Sudest (Anderson & Ross 2002), Tamambo
 (Jauncey 1997), Tawala (Ezard 1997), Tigak (Beaumont 1979), Tinrin (Osumi 1995),
 Tobati (Donohue 2002), Tolai (Mosel 1982, 1984, Rinderknecht 1987), Tongan
 (Churchward 1953), Ulithian (Lynch 2002d), Wailevu Fijian (Ritsuko Kikusawa pers. comm.),
-Wayan (Pawley & Sayaba, forthcoming), Woleaian (Sohn 1975), Xârâcùù
+Wayan (Pawley & Sayaba, 2003), Woleaian (Sohn 1975), Xârâcùù
 (Moyse-Faurie 1995), Yabem (Dempwolff 1939, Zahn 1940, Ross 2002d), Zabana
 (Fitzsimons 1989).
 
@@ -15921,7 +15921,7 @@ POc *ñoRap ‘yesterday’ (*|i ñoRap|, *qa-ñoRap (?))
 326   Malcolm Ross
 
 The Southern Vanuatu members of the set below reflect a Proto South Vanuatu form
-reconstructed by Lynch (2001:211) as *na-yan(a,u)v. POc *R is sporadically lost in Proto
+reconstructed by Lynch (2001c:211) as *na-yan(a,u)v. POc *R is sporadically lost in Proto
 South Vanuatu, and these forms seem to reflect a metathesis of a reflex of na-ñoRap to
 *na-Rañop.
 

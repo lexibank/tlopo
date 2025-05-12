@@ -77,16 +77,16 @@ class Dataset(BaseDataset):
             w.writerow(['Count', 'Language', 'Form', 'Glosses'])
             w.writerows(rows)
         return
+
+    def cmd_download(self, args):
         #from pytlopo.parser.refs import refs2bib
-        #refs2bib(self.raw_dir.joinpath('vol2', 'references.bib').read_text(encoding='utf8').split('\n'))
+        #refs2bib(self.raw_dir.joinpath('vol3', 'references.txt').read_text(encoding='utf8').split('\n'))
         #return
         #from pytlopo.parser.refs import CROSS_REF_PATTERN
         #for line in self.raw_dir.joinpath('vol1').read('text.txt').split('\n'):
         #    for m in CROSS_REF_PATTERN.finditer(line):
         #        print(m.string[m.start():m.end()])
         #return
-
-    def cmd_download(self, args):
         langs = {r['Name']: r for r in self.raw_dir.joinpath('vol1').read_csv('languages.csv', dicts=True)}
         for v in list(langs.values()):
             for alt in v['Alternative_Names'].split('; '):
