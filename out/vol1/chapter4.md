@@ -4237,7 +4237,7 @@ From its form it is clear that PCP &ast;vuqa(i)ŋa is a nominalisation. The corr
 <i>&ast;kirkir</i>
 </td>
 <td>
-(v) '<span>file, rasp</span>' (<a href="../references.md#source-Blust1977">Blust1977</a>)
+(v) '<span>file, rasp</span>' (<a href="../references.md#source-Blust1977a">Blust1977a</a>)
 </td>
 </tr>
 <tr>

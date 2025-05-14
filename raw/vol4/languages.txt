@@ -1,0 +1,1152 @@
+Appendix B: Languages
+
+
+
+1 Introduction
+In §2 we list in putative subgroups all the Oceanic languages and dialects (and occasionally
+larger isogloss-defined regions, e.g. Western Viti Levu) that are referred to in this volume.
+The higher-order subgroups are those described in chapter 1, §3.2. Lower-order groups are
+mainly drawn from the classification in Lynch et al. (2002), and in addition for Western
+Oceanic from Ross (1988), for Temotu from Ross & Nasss (2007), for Southern Oceanic
+from Lynch (1999, 2000, 2006, 2007) for Micronesian from Bender et al. (2003) and for
+Central Pacific and Fijian Geraghty (1983). In §3 we provide an index to §2, followed by
+maps showing approximate locations of the languages.
+    Square brackets enclose the subgroup abbreviations used in the data. Parentheses include
+dialect names or, where an equals sign is used, an alternative name or names for the language.
+The difficulty of deciding where the borderline between dialect and language lies, combined
+with the fact that these volumes contain work by a number of contributors, has resulted in
+some inconsistency in the naming of dialects in the cognate sets. Some occur in the form ‘Kara
+(East)’, i.e. the East dialect of the Kara language, or ‘Halia (Haku)’, i.e. the Haku dialect of
+the Halia language, whilst others are represented simply by the dialect name, e.g. Iduna, noted
+in the list below as ‘Iduna (= dialect of Bwaidoga)’. Where a language has several dialects,
+these are shown below in the form ‘Mumeng (Patep, Zenag, Kumaru)’, where Patep, Zenag
+and Kumaru are dialects of Mumeng.
+
+
+2 Languages by subgroups
+1. Yapese (perhaps more closely related to Admiralties than elsewhere)
+2. St Matthias [Adm] (perhaps more closely related to Admiralties than elsewhere)
+   Mussau
+3. Admiralties [Adm]
+   3.1. Western Admiralties
+        Aua
+        Kaniet
+        Seimat (= Ninigo)
+        Wuvulu
+   3.2. Eastern Admiralties
+
+                                             457
+458   Appendix B
+
+
+       3.2.1. Manus
+              Andra
+              Bipi
+              Drehet (= Ndrehet, Khehek, Levei-Tulu)
+              Ere
+              Hus
+              Kurti
+              Leipon (= Pitilu)
+              Lele
+              Likum
+              Loniu
+              Mondropolon
+              Nali
+              Nyindrou
+              Papitalai
+              Ponam
+              Sori-Harengan
+              Titan
+       3.2.2. Southeast Admiralties
+              Baluan
+              Lenkau
+              Lou
+              Nauna
+              Pak
+              Penchai
+
+
+4. Western Oceanic
+  4.1. New Guinea Oceanic
+       4.1.1. North New Guinea [NNG]
+              4.1.1.1, Schouten
+                       Ali
+                       Bam
+                       Kaiep
+                       Kairiru
+                       Kis
+                       Manam
+                       Medebur
+                       Sissano (Arop)
+                       Tumleo
+                       Ulau-Suain
+                       Wogeo
+             4.1.1.2. HuonGulf
+                      Numbami
+                      4.1.1.2.1, North Huon Gulf
+                                 Bukawa
+                                                          Languages   459
+
+
+                   Kela
+                   Yabem (= Jabem)
+        4.1.1.2.2, Markham
+                   Adzera
+                   Aribwatsa
+                   Labu
+                   Mari
+                   Middle Watut (= Bubwaf)
+                   Musom
+                   North Watut (= Unank, Onank)
+                   Sirasira
+                   South Watut (= Maralango)
+                   Sukurum
+                   Wampur
+                   Yalu
+        4.1.1.2.3. SouthHuon Gulf
+                   Buang
+                   Hote
+                   Kaiwa
+                   Kapin
+                   Mangga (= dialect of Buang)
+                   Mapos Buang (= dialect of Buang)
+                   Misim (= dialect of Hote)
+                   Mumeng (Patep, Zenang, Kumaru)
+                   Vehes
+4.I.I.3. Ngero/Vitiaz
+         Amara
+         Mangap (= Mangap-Mbula, Kaimanga)
+         Sio
+         Tami
+         4.1.1.3.1. Korap
+                    Barim
+                    Lukep (Pono) (= Arop-Lokep)
+                    Malasanga
+                    Singorakai (= dialect of Malasanga)
+        4.1.1.3.2. Kilenge-Maleu
+                   Kilenge
+                   Maleu
+        4.1.1.3.3. Mato-Rondi
+                   Mato (= Nenaya, Nengaya)
+                   Roinji (= Ronji, Rondi)
+        4.1.1.3.4. Ngero
+                   Bariai (= Kabana)
+                   Gitua
+                   Kove
+460   Appendix B
+
+
+                               Lusi
+                               Malai (= dialect of Mutu)
+                               Malalamai
+                               Mutu
+                               Tuam (= dialect of Mutu)
+                       4.1.1.3.5. Bel
+                                  Bilibil (= Bilbil)
+                                  Bing (= Biliau)
+                                  Dami (= Ham)
+                                  Gedaged (= Graged)
+                                  Matukar (= Matugar)
+                                  Megiar (= dialect of Takia)
+                                  Mindiri
+                                  Takia
+                                  Riwo (= Ziwo, dialect of Gedaged)
+                                  Wab
+                       4.1.1.3.6. Southwest New Britain
+                                  4.1.1.3.6.1. Bibling (= Lamogai)
+                                               Aria
+                                               Lamogai
+                                               Mouk (= Mok)
+                                  4.1.1.3.6.2. Arawe
+                                               Akolet
+                                               Arawe
+                                               Atui
+                                               Mangseng
+                                  4.1.1.3.6.3. Pasismanua
+                                               Kaulong
+                                               Psohoh (= Bao)
+                                                Sengseng
+                       4.1.1.3.7. Mengen
+                                  Kakuna (= dialect of Mamusi)
+                                  Longeinga (= Bush Mengen)
+                                  Mengen (Poeng, Maenge = Orford)
+                                  Mamusi
+                                  Uvol
+       4.1.2. Sarmi/Jayapura [SJ] (perhaps part of North New Guinea)
+              4.1.2.1. Sarmi
+                       Sobei
+                       Tarpia (= Tarfia)
+              4.1.2.2. Jayapura
+                       Ormu
+       4.1.3. Papuan Tip [PT]
+              4.I.3.I. Suauic
+                       ’Auhelawa (= Kurada)
+                                                       Languages   461
+
+
+         Logea
+         Oya’oya
+         Saliba (= Sariba)
+         Suau (Daui, Kwato Suau)
+         Tubetube
+         Wagawaga
+4.1.3.2. North Mainland/D’Entrecasteaux
+         Anuki
+         Gumawana (= Gumasi)
+         4.1.3.2.1. Dobu/Duau
+                    Bunama
+                    Dobu
+                    Duau
+                    Galea (= Galeya)
+                    Gilagila (= dialect of Sewa Bay)
+                    Sewa Bay
+         4.1.3.2.2. Bwaidoga
+                    Bwaidoga
+                    Diodio
+                    Iamalele (= Yamalele)
+                    Iduna (= dialect of Bwaidoga)
+                    Kalokalo
+                    Molima
+         4.1.3.2.3. Kakabai/Dawawa
+                    Dawawa
+                    Kakabai (Igora)
+         4.1.3.2.4. Are/Taupota
+                    Are
+                    Arifama
+                    Bartle Bay (= dialect of Wedau)
+                    Boanaki (= Boianaki)
+                    Doga
+                    Gapapaiwa (= Paiwa)
+                    Maisin
+                    Minaveha (= Kukuya)
+                    Taupota
+                    Tawala
+                    Ubir
+                    Wedau
+4.1.3.3. Kilivila/Misima
+         Budibud
+         Kilivila (= Kiriwina)
+         Misima
+         Muyuw
+462   Appendix B
+
+
+             4.1.3.4. Nimoa/Sudest
+                      Nimoa
+                      Sudest (= Pamela), Sudest (Varavarae)
+            4.1.3.5. Central Papuan
+                     Balawaia (= dialect of Sinaugoro)
+                     Doura
+                     Gabadi
+                     Hula (= dialect of Keapara)
+                     Keapara
+                     Kuni
+                     Lala (=Nara, ’Ala’ala, Pokau)
+                     Magori
+                     Maopa (= dialect of Keapara)
+                     Mekeo (= East Mekeo)
+                     Motu
+                     Ouma
+                     Roro
+                     Sinaugoro
+                     Taboro (= dialect of Sinaugoro)
+                     West Mekeo
+                     Yoba
+  4.2. Meso-Melanesian [MM]
+       4.2.1. Bali-Vitu
+              Bali
+              Vitu
+       4.2.2. Willaumez
+              Bola, Bola (Harua)
+              Bulu
+              Meramera
+              Nakanai (= Lakalai)
+       4.2.3. New Ireland/Northwest Solomonic
+              4.2.3.1. Tungag/Nalikfamily
+                       Kara (East, West)
+                       Lavongai (= Tungak, Tungag)
+                       Nalik
+                       Tiang
+                       Tigak
+             4.2.3.2. Tabar linkage
+                      Lihir
+                      Notsi (= Nochi)
+                      Tabar
+             4.2.3.3. Madak linkage
+                      Barok
+                      Lamasong
+                      Madak
+                                                             Languages   463
+
+
+4.2.3.4. Tomoip
+4.2.3.5. St George linkage
+         Bilur
+         Kandas
+         Konomala
+         Label
+         Minigir (= Vinitiri)
+         Patpatar
+         Ramoaaina (= Duke of York)
+         Siar
+         Sursurunga
+         Tangga (= Tanga)
+         Tolai (= Kuanua, Raluana, Tuna), Tolai (Nodup)
+         4.2.3.5.I. Northwest Solomonic linkage
+                    4.2.3.5.1.1. Nehan/NorthBougainville
+                                 Hahon
+                                 Halia (Haku, Selau)
+                                 Nehan
+                                 Petats
+                                 Solos
+                                 Taiof
+                                 Teop
+                                 Tinputz
+                  4.2.3.5.1.2. Piva/Banoni
+                               Banoni
+                  4.2.3.5.1.3. Mono-Alu/Torau
+                               Mono-Alu
+                               Torau
+                               Uruava
+                  4.2.3.5.1.4. Choiseul
+                               Avaso
+                               Babatana
+                               Ririo
+                               Sisiqa (= Sisingga, Sengga)
+                               Vaghua
+                               Varisi
+                  4.2.3.5.1.5. New Georgia
+                               Hoava
+                               Kubukota
+                               Kusaghe
+                               Lungga
+                               Marovo
+                               Nduke
+                               Roviana
+                               Simbo
+464   Appendix B
+
+
+                                               Ughele
+                                               Vangunu
+                                4.2.3.5.I.6. Ysabel
+                                             Blablanga
+                                             Gao
+                                             Kia (= Zabana)
+                                             Kokota
+                                             Laghu
+                                             Maringe (= Cheke Holo, Hograno)
+5. Southeast Solomonic [SES]
+  5.1. Guadalcanal-Gelic
+       Birao
+       Bugotu
+       Gae (= dialect of West Guadalcanal)
+       Gela
+       Lengo
+       Ghari (= dialect of West Guadalcanal)
+       Malango
+       Talise
+       Tolo (= dialect of Talise)
+       West Guadalcanal
+  5.2. Makira-Malaita
+       ’Are’are
+       Arosi
+       Baelelea (= dialect of Lau)
+       Bauro
+       Baegu
+       Dori’o
+       Fagani
+       Fataleka
+       Kahua
+       Kwai
+       Kwaio
+       Kwara’ae
+       Langalanga (= Wala)
+       Lau
+       Longgu
+       Owa
+       Sa’a
+       Santa Ana (= dialect of Owa)
+       To’aba’ita (= Toqabaqita)
+       Uki ni Masi (= dialect of Sa’a)
+       Ulawa (= dialect of Sa’a)
+
+
+6. Temotu [TM]
+                                                                  Languages   465
+
+
+  6.1. Reefs and Santa Cruz
+       Aiwoo (= Reefs)
+       Nagu
+       Natugu (= Malo, Lodai, Nedo)
+  6.2. Utupua/Vanikoro
+       Asuboa
+       Buma (= Teanu)
+       Nebao (= Aba)
+       Tanema (= Tanima, Tetau)
+       Tanibili
+       Vano (= Vana)
+7. Southern Oceanic
+  7.1. North Vanuatu linkage [part of NCV; see Chapter 1, p.10]
+       7.1.1. Banks and Torres
+              Dorig
+              Hiw
+              Lakon (= Lakona)
+              Lemerig (= Sasar)
+              Lehali
+              Lo-Toga
+              Merlav (= Mwerlap)
+              Mota
+              Mwesen (= Mosina)
+              Mwotlap (= Motlav)
+              Nume
+              Olrat
+              Vera’a (= Vatrata)
+              Volow (= dialect of Mwotlap)
+              Vures
+       7.1.2. Northwest Santo
+              Matantas
+              Nokuku
+              Tasmate
+              Tolomako
+       7.1.3. Southeast Santo
+              Araki
+              Aore
+              Kiai (= Fortsenal)
+              Morouas
+              Shark Bay
+              Tamambo (= Tamabo, Malo)
+              Tambotalo
+              Tangoa
+              Wusi
+      7.1.4. Sakao (= Nekep), Sakao (Sara)
+466   Appendix B
+
+
+       7.1.5. Ambae/Maewo/North Pentecost
+              Maewo
+              Nduindui (= Ngwatua, Duidui)
+              Northeast Ambae (= NE Aoba)
+              Raga
+  7.2. Nuclear Southern Oceanic
+       7.2.1. Central Vanuatu linkage [part of NCV; see Chapter 1, p.10]
+              7.2.1.1. Malakula
+                       7.2.1.1.1, East Malakula linkage
+                                  Atchin (= Northeast Malakula)
+                                  Aulua
+                                  Avava
+                                  Axamb
+                                  Larevat
+                                  Lendamboi (= Letemboi)
+                                  Malua Bay
+                                  Maskelynes
+                                  Nese
+                                  Nisvai
+                                  Port Sandwich
+                                  Rerep (dialect of Unua)
+                                  Unua
+                                  Uripiv
+                      7.2.1.1.2. West Malakula linkage
+                                 Big Nambas (= V’enen Taut)
+                                 Labo (= Ninde)
+                                 Naha’ai, Naha’ai (Malfaxal)
+                                 Naman
+                                 Nasarian
+                                 Nati
+                                 Neve’ei
+                                 Southwest Bay (= Nahavaq, Sinesip)
+                                 Tape
+             7.2.1.2. Central and South Pentecost
+                      Apma (= Abma)
+                      Sa
+             7.2.1.3. Ambrym/Paama
+                      Lonwolwol
+                      N Ambrym
+                      Paamese
+                      SE Ambrym
+             7.2.1.4. Epi/Efate
+                      Baki
+                      Lewo
+                      Nakanamanga (= North Efate)
+                                                                Languages   467
+
+
+                     Namakir (= Namakura, Makura)
+                     Nguna (= dialect of Nakanamanga)
+                     Sesake (= dialect of Nakanamanga)
+                     South Efate
+      7.2.2. Southern Melanesian
+             7.2.2.1. South Vanuatu [SV]
+                      Anejom (= Aneityum)
+                      Kwamera
+                      Lenakel
+                      North Tanna
+                      South-west Tanna
+                      Sye (= Sie, Eromangan)
+                      Ura
+                      Whitesands
+             7.2.2.2. New Caledonia [NCal]
+                      7.2.2.2.1. North New Caledonia
+                                 Caaac
+                                 Cemuhi
+                                 Fwai
+                                 Jawe
+                                 Pije
+                                 Pwapwa
+                                 Nemi
+                                 Nelemwa
+                                 Nixumwak (= Koumak, Koumac)
+                                 Nyelayu
+                                 Paici
+                                 Voh-Kone
+                                 Yuanga
+                      7.2.2.2.2. South New Caledonia
+                                 Ajie
+                                 Drubea (= Pai'ta)
+                                 Tiri (= Tinrin, Grand Couli)
+                                 Xaracuu (= Canala)
+                      7.2.2.2.3. Loyalties
+                                 Dehu (= Drehu)
+                                 Iaai
+                                 Nengone
+8. Micronesian [Mic]
+  8.1. Nauruan
+  8.2. Nuclear Micronesian
+      8.2.1. Kosraean (= Kusaeian)
+      8.2.2. Central Micronesian
+             8.2.2.I. Kiribati (= Kiribatese, Gilbertese)
+468   Appendix B
+
+
+                 8.2.2.2. Western Micronesian
+                          8.2.2.2.1. Marshallese
+                           8.2.2.2.2. Chunkic-Ponapeic
+                                      Carolinian
+                                      Chuukese (= Trukese)
+                                      Mokilese
+                                      Mortlockese
+                                      Namoluk (= dialect of Mortlockese)
+                                      Ponapean (= Pohnpeian)
+                                      Pulo-Annan (dialect of Sonsorolese)
+                                      Puluwatese
+                                      Satawalese
+                                      Sonsorolese
+                                      Ulithian
+                                      Woleaian
+9. Central Pacific [Fij and Pn]1
+   9.1. Rotuman
+   9.2. Fijian
+        9.2.1. Western i`'ijian dialects
+               Ba
+               Nadroga
+               Way an
+               West Viti Levu
+               Yasawa
+        9.2.2. Eastern Eijian dialects
+               Bauan (= Standard Fijian)
+               Bourn a
+               Bua
+               Buca Bay
+               Kadavu
+               Lau
+               Lomaiviti
+               Namosi
+               Ovalau
+               Rakiraki
+               Rewa
+               Taveuni
+               Verata
+               Vanua Levu
+               Wai levu
+   9.3. Polynesian
+
+1 We opt here for a division of Central Pacific into Rotuman, Fijian and Polynesian here in view of the com plexities of its history described in chapter 1. §3.2.2 (p. 10).
+                                                    Languages   469
+
+
+9.3.1. Tongic
+       Niuean
+       Niuatoputapu (= dialect of Tongan)
+       Tongan
+9.3.2. Nuclear Polynesian
+       Anutan
+       East Uvean
+       East Futunan
+       Emae
+       Ifira-Mele (= Mele-Fila, Imere-Ifira)
+       Kapingamarangi
+       Luangiua (= Ontong Java)
+       Nukuoro
+       Nanumea (= dialect of Tuvalu)
+       Nukumanu
+       Nukuria
+       Pileni
+       Pukapukan
+       Rennellese, Rennellese (Bellona)
+       Samoan
+       Sikaiana
+       Takuu
+       Tikopia
+       Tokelauan
+       Tuvalu (= Ellicean)
+       West Futunan (= Futuna-Aniwa)
+       West Uvean
+       9.3.2.I. Eastern Polynesian
+                Hawaiian
+                Mangaia (= dialect of Rarotongan)
+                Mangarevan
+                Manihiki
+                Maori
+                Marquesan
+                Rapa
+                Rapanui (= Easter Island)
+                Rarotongan
+                Rurutu (= Inner Australs)
+                Tahitian
+                Tongarevan (= Penrhyn)
+                Tuamotuan
+470   Appendix B
+
+
+ʒ Language finderlist
+Numbers refer to §2 above.
+
+Aba (= Nebao) 6.2.                     Balawaia 4.I.3.5.
+Abma (= Apma) 7.2.I.2.                 Bali 4.2.1.
+Andra 3.2.1.                           Baluan 3.2.2.
+Adzera 4.I.I.2.2.                      Bam 4.1.1.1,
+Aiwoo 6.1.                             Banoni 4.2.3.5.I.2.
+Ajie 7.2.2.2.2.                        Bao(=Psohoh) 4.I.I.3.6.3.
+Akolet 4.I.I.3.6.2.                    Bariai 4.I.I.3.4.
+’Ala’ala 4.I.3.5.                      Barim 4.1.1.3.1,
+Ali 4.1.1.1,                           Bartie Bay (dialect of Wedau) 4.I.3.2.4.
+Amara 4.I.I.3.                         Barok 4.2.3.3.
+Ambrym, SE and N 7.2.I.3.              Bauan (= Standard Fijian) 9.2.2.
+Aneityum (= Anejom) 7.2.2.I.           Bauro 5.2.
+Anejom 7.2.2.I.                        Bellona (dialect of Rennellese) 9.3.2.
+Anuki 4.I.3.2.                         BigNambas 7.2.I.I.2.
+Anutan 9.3.2.                          Biliau (= Bing) 4.I.I.3.5.
+Aore 7.1.3.                            Bilibil (= Bilbil) 4.I.I.3.5.
+Apma 7.2.I.2.                          Bilur 4.2.3.5.
+Araki 7.1.3.                           Bing 4.I.I.3.5.
+Arawe 4.I.I.3.6.2.                     Bipi 3.2.1.
+Are 4.I.3.2.4.                         Birao 5.1.
+’Are’are 5.2.                          Blablanga 4.2.3.5.I.6.
+Aria 4.1.1.3.6.1,                      Boanaki 4.I.3.2.4.
+Aribwatsa 4.I.I.2.2.                   Bola 4.2.2.
+Arifama 4.I.3.2.4.                     Bouma 9.2.2.
+Arop (dialect of Sissano) 4.1.1.1,     Bua 9.2.2.
+Arop-Lokep (Lukep) 4.1.1.3.1,          Buang 4.I.I.2.3.
+Arosi 5.2.                             Bubwaf (= Middle Watut) 4.I.I.2.2.
+Asuboa 6.2.                            Buca Bay 9.2.2.
+Atchin 7.2.1.1.1,                      Budibud 4.I.3.3.
+Atui 4.I.I.3.6.2.                      Bugotu 5.1.
+Aua 3.1.                               Bukawa 4.1.1.2.1,
+’Auhelawa 4.I.3.I.                     Bulu 4.2.2.
+Aulua 7.2.1.1.1,                       Buma 6.2.
+Australs, Inner (= Rurutu ) 9.3.2.I.   Bunama 4.I.3.2.I.
+Avaso 4.2.3.5.I.4.                     Bwaidoga 4.I.3.2.2.
+Avava 7.2.1.1.1,                       Caaac 7.2.2.2.I.
+Axamb 7.2.1.1.1,                       Canala (= Xaracuu) 7.2.2.2.2.
+Ba 9.2.1.                              Carolinian 8.2.2.2.2.
+Babatana 4.2.3.5.I.4.                  Cemuhi 7.2.2.2.I.
+Baegu 5.1.                             Chuukese 8.2.2.2.2.
+Baelelea 5.2.                          Dami(=Ham) 4.I.I.3.5.
+Baki 7.2.I.4.                          Daui (dialect of Suau) 4.I.3.I.
+                                                                         Languages   471
+
+
+Dawawa 4.I.3.2.3.                             Ham 4.I.I.3.5.
+Dehu 7.2.2.2.3.                               Hawaiian 9.3.2.I.
+Diodio 4.I.3.2.2.                             Harua (dialect ofBola) 4.2.2.
+Dobu 4.1.3.2.1,                               Hiw 7.1.1.
+Doga 4.I.3.2.4.                               Hoava 4.2.3.5.I.5.
+Dori’o 5.2.                                   Hote 4.I.I.2.3.
+Dorig 7.1.1.                                  Hote 4.I.I.2.3.
+Doura 4.I.3.5.                                Hula 4.I.3.5.
+Drehet 3.2.1.                                 Hus 3.2.1.
+Drehu(=Dehu) 7.2.2.2.3.                       Iaai 7.2.2.2.3.
+Drubea 7.2.2.2.2.                             Iamalele 4.I.3.2.2.
+Duau 4.I.3.2.I.                               Iduna 4.I.3.2.2.
+Duidui (= Nduindui) 7.1.5.                    Ifira-Mele 9.3.2.
+EastFutunan 9.3.2.                            Imere-Ifira (= Ifira-Mele) 9.3.2.
+EastUvean 9.3.2.                              Inner Australs (= Rurutu ) 9.3.2.I.
+Easter Island (= Rapanui) 9.3.2.I.            Jabem (= Yabem) 4.1.1.2.1,
+Ellicean (= Tuvalu) 9.3.2.                    Jawe 7.2.2.2.I.
+Emae 9.3.2.                                   Kabana (= Bariai) 4.I.I.3.4.
+Ere 3.2.1.                                    Kadavu 9.2.2.
+Eromangan (= Sye) 7.2.2.I.                    Kahua 5.2.
+Fagani 5.2.                                   Kaiep 4.1.1.1,
+Fataleka 5.2.                                 Kaimanga 4.I.I.3.
+Fijian (Eastern) 9.2.2.                       Kairiru 4.1.1.1,
+Fijian (Western) 9.2.1.                       Kaiwa 4.I.I.2.3.
+Fortsenal (= Kiai) 7.1.3.                     Kakabai 4.I.3.2.3.
+Futuna-Aniwa (= West Futunan) 9.3.2.          Kakuna 4.I.I.3.7.
+Fwai 7.2.2.2.I.                               Kalokalo 4.I.3.2.2.
+Gabadi 4.I.3.5.                               Kandas 4.2.3.5.
+Galea 4.I.3.2.I.                              Kaniet 3.1.
+Galeya(= Galea) 4.I.3.2.I.                    Kapin 4.I.I.2.3.
+Gae 5.1.                                      Kapingamarangi 9.3.2.
+Gao 4.2.3.5.I.6.                              Kara (East, West) 4.2.3.I.
+Gapapaiwa 4.I.3.2.4.                          Kaulong 4.I.I.3.6.3.
+Gedaged 4.I.I.3.5.                            Keapara(Hula) 4.I.3.5.
+Gela 5.1.                                     Kela 4.1.1.2.1,
+Ghari (dialect of W Guadalcanal) 5.1.         Khehek (= Drehet) 3.2.1.
+Gilagila (= dialect of Sewa Bay) 4.I.3.2.I.   Kia 4.2.3.5.I.6.
+Gilbertese (= Kiribati) 8.2.2.I.              Kiai 7.1.3.
+Gitua 4.I.I.3.4.                              Kilenge 4.I.I.3.2.
+Graged (= Gedaged) 4.I.I.3.5.                 Kilivila 4.I.3.3.
+Grand Couli (= Tiri) 7.2.2.2.2.               Kiribatese (= Kiribati) 8.2.2.I.
+Gumasi (= Gumawana) 4.I.3.2.                  Kiribati 8.2.2.I.
+Gumawana 4.I.3.2.                             Kiriwina (= Kilivila) 4.I.3.3.
+Hahon 4.2.3.5.I.I.                            Kis 4.1.1.1,
+Haku (dialect of Halia) 4.2.3.5.I.I.          Kokota 4.2.3.5.I.6.
+Halia 4.2.3.5.I.I.                            Konomala 4.2.3.5.
+472   Appendix B
+
+
+Kosraean 8.2.1.                         Lodai (= Natiigu) 6.1.
+Koumac (= Nixumwak) 7.2.2.2.1.          Logea 4.1.3.1.
+Koumak (= Nixumwak) 7.2.2.2.1.          Lomaiviti 9.2.2.
+Kove 4.1.1.3.4.                         Longeinga (= Bush Mengen) 4.1.1.3.7.
+Kuanua (= Tolai) 4.2.3.5.               Longgu 5.2.
+Kubukota 4.2.3.5.1.5.                   Loniu 3.2.1.
+Kukuya (= Minaveha) 4.1.3.2.4.          Lonwolwol 7.2.1.3.
+Kumaru (dialect of Mumeng) 4.1.1.2.3.   Lo-Toga 7.1.1.
+Kuni 4.1.3.5.                           Lou 3.2.2.
+Kurada (’Auhelawa) 4.1.3.1.             Luangiua 9.3.2.
+Kurti 3.2.1.                            Lukep (Pono) 4.1.1.3.1.
+Kusaeian (= Kosraean) 8.2.1.            Madak 4.2.3.3.
+Kusaghe 4.2.3.5.1.5.                    Maenge (dialect of Mengen, = Orford)
+Kwai 5.2.                               4.1.1.3.7.
+Kwaio 5.2.                              Maewo 7.1.5.
+Kwamera 7.2.2.1.                        Magori 4.1.3.5.
+Kwara’ae 5.2.                           Maisin 4.1.3.2.4.
+Kwato Suau 4.1.3.1.                     Makura (= Namakir) 7.2.1.4.
+Label 4.2.3.5.                          Malai (= dialect of Mutu) 4.1.1.3.4.
+Labo 7.2.1.1.2.                         Malalamai 4.1.1.3.4.
+Labu 4.1.1.2.2.                         Malango 5.1.
+Laghu 4.2.3.5.1.6.                      Malasanga 4.1.1.3.1.
+Lakal ai (= Nakanai) 4.2.2.             Maleu 4.1.1.3.2.
+Lakon 7.1.1.                            Malfaxal (dialect of Naha’ai) 7.2.1.1.2.
+Lakona (=Lakon) 7.1.1.                  Mai o (= Natiigu) 6.1.
+Lala 4.1.3.5.                           Malo (= Tamambo) 7.1.3.
+Lamasong 4.2.3.3.                       MaluaBay 7.2.1.1.1.
+Lamogai 4.1.1.3.6.1.                    Mamusi 4.1.1.3.7.
+Langalanga 5.2.                         Manam 4.1.1.1.
+Larevat 7.2.1.1.1.                      Mangaia 9.3.2.1.
+Lau 9.2.2.                              Mangap 4.1.1.3.
+Lau 5.2.                                Mangarevan 9.3.2.1.
+Lavongai 4.2.3.1.                       Mangga (dialect of Buang) 4.1.1.2.3.
+Lehali 7.1.1.                           Mangseng 4.1.1.3.6.2.
+Leipon 3.2.1.                           Manihiki 9.3.2.1.
+Lele 3.2.1.                             Maori 9.3.2.1.
+Lemerig (= Sasar) 7.1.1.                Mapos Buang 4.1.1.2.3.
+Lenakel 7.2.2.1.                        Maral ango (= S outh Watut) 4.1.1.2.2.
+Lendamboi 7.2.1.1.1.                    Mari 4.1.1.2.2.
+Lengo 5.1.                              Maringe (= Cheke Holo, Hograno)
+Lenkau 3.2.2.                           4.2.3.5.1.6.
+Letemboi (= Lendamboi) 7.2.1.1.1.       Marovo 4.2.3.5.1.5.
+Levei-Tulu (= Drehet) 3.2.1.            Marquesan 9.3.2.1.
+Lewo 7.2.1.4.                           Marshallese 8.2.2.2.1.
+Lihir 4.2.3.2.                          Maskelynes 7.2.1.1.1.
+Likum 3.2.1.                            Matantas 7.1.2.
+                                                                  Languages    473
+
+
+Mato 4.1.1.3.3.                         Naman 7.2.1.1.2.
+Matugar (= Matukar) 4.1.1.3.5.          Namoluk (dialect of Mortlockese)
+Matukar 4.1.1.3.5.                      8.2.2.2.2.
+Medebur 4.1.1.1.                        Namosi 9.2.2.
+Megiar 4.1.1.3.5.                       Nanumea 9.3.2.
+Mekeo 4.1.3.5.                          Nara 4.1.3.5.
+Mele-Fila (= Ifira-Mele) 9.3.2.         Nasarian 7.2.1.1.2.
+Mengen, Bush (=Longeinga) 4.1.1.3.7.    Nati 7.2.1.1.2.
+Mengen 4.1.1.3.7.                       Nattigu 6.1.
+Meramera 4.2.2.                         Nauna 3.2.2.
+Merlav 7.1.1.                           Nauruan 8.1.
+Middle Watut 4.1.1.2.2.                 Ndrehet (= Drehet) 3.2.1.
+Minaveha 4.1.3.2.4.                     Nduindui 7.1.5.
+Mindiri 4.1.1.3.5.                      Nduke 4.2.3.5.1.5.
+Minigir 4.2.3.5.                        Nebao 6.2.
+Mi si m (dialect of Hote) 4.1.1.2.3.    Nedo (= Nattigu) 6.1.
+Misima 4.1.3.3.                         Nehan 4.2.3.5.1.1.
+Mok (= Mouk) 4.1.3.5.                   Nekep (= Sakao) 7.1.4.
+Mokilese 8.2.2.2.2.                     Nelemwa 7.2.2.2.I.
+Molima 4.1.3.2.2.                       Nembao (= Nebao) 6.2.
+Mondropolon 3.2.1.                      Nemi 7.2.2.2.I.
+Mono-Alu 4.2.3.5.1.3.                   Nenaya (= Mato) 4.1.1.3.3.
+Morouas 7.1.3.                          Nengaya (= Mato) 4.1.1.3.3.
+Mortlockese 8.2.2.2.2.                  Nengone 7.2.2.2.3.
+Mosina (= Mwesen) 7.1.1.                Nese 7.2.1.1.1.
+Mota 7.1.1.                             Neve’ei 7.2.1.1.2.
+Motl av (= Mwotl ap) 7.1.1.             Nggae (= Gae) 5.1.
+Mouk 4.1.3.5.                           Nggela (= Gela) 5.1.
+Lamogai 4.1.1.3.6.1.                    Nginia (= Ghari, dialect of W Guadalcanal)
+Mumeng 4.1.1.2.3.                       5.1.
+Musom 4.1.1.2.2.                        Nguna 7.2.1.4.
+Mussau 2. Mutu 4.1.1.3.4.               Ngwatua (= Nduindui) 7.1.5.
+Muyuw 4.1.3.3.                          Nimoa 4.1.3.4.
+Mwerlap (= Merlav) 7.1.1.               Ninde(=Labo) 7.2.1.1.2.
+Mwesen 7.1.1.                           Ninigo (= Seimat) 3.1.
+Mwotlap 7.1.1.                          Nisvai 7.2.1.1.1.
+Nadroga 9.2.1.                          Niuatoputapu (dialect of Tongan) 9.3.1.
+Nagu 6.1.                               Niuean 9.3.1.
+Naha’ai 7.2.1.1.2.                      Nixumwak 7.2.2.2.I.
+Nahavaq (= Southwest Bay) 7.2.1.1.2.    Nochi (= Notsi) 4.2.3.2.
+Nakanai 4.2.2.                          Nodup (dialect of Tolai) 4.2.3.5.
+Nakanamanga 7.2.1.4.                    Nokuku 7.1.2.
+Nali 3.2.1.                             North Ambrym 7.2.1.3.
+Nalik 4.2.3.1.                          North Efate (= Nakanamanga) 7.2.1.4.
+Namakir (= Namakura, Makura) 7.2.1.4.   North Tanna 7.2.2.1.
+Namakura (= Namakir) 7.2.1.4.           North Watut 4.1.1.2.2.
+474   Appendix B
+
+                                           Puluwatese 8.2.2.2.2.
+Northeast Ambae 7.1.5.                     Pwapwa 7.2.2.2.I.
+Northeast Aoba (= NE Ambae) 7.1.5.         Raga 7.1.5.
+Northeast Malakula (= Atchin) 7.2.1.1.1,   Rakiraki 9.2.2.
+Notsi 4.2.3.2.                             Raluana (= Tolai) 4.2.3.5.
+Nukumanu 9.3.2.                            Ramoaaina (= Duke of York) 4.2.3.5.
+Nukuoro 9.3.2.                             Rapa 9.3.2.I.
+Nukuria 9.3.2.                             Rapanui 9.3.2.I.
+Numbami 4.I.I.2.                           Rarotongan 9.3.2.I.
+Nume 7.1.1.                                Reefs (= Aiwoo) 6.1.
+Nyelayu 7.2.2.2.I.                         Rennellese 9.3.2.
+Nyindrou 3.2.1.                            Rerep 7.2.1.1.1,
+Olrat 7.1.1.                               Rewa 9.2.2.
+Onank (= North Watut) 4.I.I.2.2.           Ririo 4.2.3.5.I.4.
+Ontong Java (= Luangiua) 9.3.2.            Riwo (dialect of Gedaged) 4.I.I.3.5.
+Orford (dialect of Mengen, = Maenge)       Roinji 4.I.I.3.3.
+4.I.I.3.7.                                 Rondi (= Ronji) 4.I.I.3.3.
+Ormu 4.I.2.2.                              Ronji (= Roinji) 4.I.I.3.3.
+Ouma 4.I.3.5.                              Roro 4.I.3.5.
+Ovalau 9.2.2.                              Rotuman 9.1.
+Owa 5.2.                                   Roviana 4.2.3.5.I.5.
+Oya’oya 4.I.3.I.                           Rurutu 9.3.2.I.
+Paamese 7.2.I.3.                           Sa 7.2.I.2.
+Paici 7.2.2.2.I.                           Sa’a 5.2.
+Pai'ta (= Drubea) 7.2.2.2.2.               Sakao 7.1.4.
+Paiwa (= Gapapaiwa) 4.I.3.2.4.             Saliba 4.I.3.I.
+Pak 3.2.2.                                 Samoan 9.3.2.
+Pamela (= Sudest) 4.I.3.4.                 Santa Ana (dialect of Kahua) 5.2.
+Papitalai 3.2.1.                           Sara (dialect of Sakao) 7.1.4.
+Patep (dialect of Mumeng) 4.I.I.2.3.       Sariba (= Saliba) 4.I.3.I.
+Patpatar 4.2.3.5.                          Sasar (= Lemerig) 7.1.1.
+Penchal 3.2.2.                             Satawalese 8.2.2.2.2.
+Penrhyn (= Tongarevan) 9.3.2.I.            Seimat 3.1.
+Petats 4.2.3.5.I.I.                        Selau (dialect of Halia) 4.2.3.5.I.I.
+Pije 7.2.2.2.I.                            Sengga (= Sisiqa) 4.2.3.5.I.4.
+Pileni 9.3.2.                              Sengseng 4.I.I.3.6.3.
+Pitilu (= Leipon) 3.2.1.                   Sesake (dialect of Nakanamanga) 7.2.I.4.
+Poeng (dialect of Mengen) 4.I.I.3.7.       SewaBay 4.I.3.2.I.
+Pohnpeian (= Ponapean) 8.2.2.2.2.          Shark Bay 7.1.3.
+Pokau 4.I.3.5.                             Siar 4.2.3.5.
+Ponam 3.2.1.                               Sie(=Sye) 7.2.2.I.
+Ponapean 8.2.2.2.2.                        Sikaiana 9.3.2.
+Pono(=Lukep) 4.I.I.3.                      Simbo 4.2.3.5.I.5.
+Port Sandwich 7.2.1.1.1,                   Sinaugoro (Balawaia, Taboro) 4.I.3.5.
+Psohoh 4.I.I.3.6.3.                        Sinesip 7.2.I.I.2.
+Pukapukan 9.3.2.                           Singorakai (dialect of Malasanga)
+Pulo-Annan 8.2.2.2.2.                      4.1.1.3.1,
+                                                                     Languages      475
+
+
+Sio 4.1.1.3,                               Tetau (= Tanema) 6.2.
+Sirasira 4.I.I.2.2.                        Tiang 4.2.3.I.
+Sisingga (= Sisiqa) 4.2.3.5.I.4.           Tigak 4.2.3.I.
+Sisiqa (= Sisingga, Sengga) 4.2.3.5.I.4.   Tikopia 9.3.2.
+Sissano (Arop) 4.1.1.1,                    Tinputz 4.2.3.5.I.I.
+Sobei 4.I.2.I.                             Tinrin (= Tin) 7.2.2.2.2.
+Solos 4.2.3.5.1.1,                         Tin 7.2.2.2.2.
+Sonsorolese 8.2.2.2.2.                     Titan 3.2.1.
+Sori-Harengan 3.2.1.                       To’aba’ita 5.2.
+South Efate 7.2.I.4.                       Tokelauan 9.3.2.
+Southeast Ambrym 7.2.I.3.                  Tolai 4.2.3.5.
+South Watut 4.I.I.2.2.                     Tolo 5.1.
+Southwest Tanna 7.2.2.I.                   Tolomako 7.1.2.
+Southwest Bay (= Nahavaq) 7.2.I.I.2.       Tomoip 4.2.3.4.
+Suau 4.I.3.I.                              Tongan 9.3.1.
+Sudest 4.I.3.4.                            Tongarevan 9.3.2.I.
+Sukurum 4.I.I.2.2.                         Toqabaqita (=To’aba’ita) 5.2.
+Sursurunga 4.2.3.5.                        Torau 4.2.3.5.I.3.
+Sye 7.2.2.I.                               Trukese (= Chuukese) 8.2.2.2.2.
+Tabar 4.2.3.2.                             Tuam (= dialect of Mutu) 4.I.I.3.4.
+Taboro 4.I.3.5.                            Tuamotuan 9.3.2.I.
+Tahitian 9.3.2.I.                          Tubetube 4.I.3.I.
+Taiof 4.2.3.5.I.I.                         Tumleo 4.1.1.1,
+Takia 4.I.I.3.5.                           Tuna (= Tolai) 4.2.3.5.
+Takuu 9.3.2.                               Tungag (= Lavongai) 4.2.3.I.
+Talise 5.1.                                Tungak (= Lavongai) 4.2.3.I.
+Tamabo (= Tamambo) 7.1.3.                  Tuvalu 9.3.2.
+Tamambo (= Tamabo, Malo) 7.1.3.            Ubir 4.I.3.2.4.
+Tambotalo 7.1.3.                           Ughele 4.2.3.5.I.5.
+Tami 4.I.I.3.                              Uki ni Masi (dialect of Sa’a) 5.2.
+Tanema 6.2.                                Ulau-Suain 4.1.1.1,
+Tanga (= Tangga) 4.2.3.5.                  Ulawa (dialect of Sa’a) 5.2.
+Tangga 4.2.3.5.                            Ulithian 8.2.2.2.2.
+Tangoa 7.1.3.                              Unank (= North Watut) 4.I.I.2.2.
+Tanibili 6.2.                              Unua 7.2.1.1.1,
+Tanima (= Tanema) 6.2.                     Ura 7.2.2.I.
+Tanimbili (= Tanibili) 6.2.                Uripiv 7.2.1.1.1,
+Tape 7.2.I.I.2.                            Uruava 4.2.3.5.I.3.
+Tarfia (= Tarpia) 4.I.2.I.                 Uvol 4.I.I.3.7.
+Tarpia 4.I.2.I.                            V’enen Taut (= Big Nambas) 7.2.I.I.2.
+Tasmate 7.1.2.                             Vaghua 4.2.3.5.I.4.
+Taupota 4.I.3.2.4.                         Vana (= Vano) 6.2.
+Taveuni 9.2.2.                             Vangunu 4.2.3.5.I.5.
+Tawala 4.I.3.2.4.                          Vano 6.2.
+Teanu (= Burna) 6.2.                       Vanua Levu 9.2.2.
+Teop 4.2.3.5.I.I.                          Varavarae (dialect of Sudest) 4.I.3.4.
+476   Appendix B
+
+
+Varisi 4.2.3.5.I.4.             WestUvean 9.3.2.
+Vatrata (= Vera’a) 7.1.1.       West Viti Levu 9.2.1.
+Vehes 4.I.I.2.3.                Whitesands 7.2.2.I.
+Vera’a 7.1.1.                   Wogeo 4.1.1.1,
+Vinitiri (= Minigir) 4.2.3.5.   Woleaian 8.2.2.2.2.
+Vitu 4.2.1.                     Wusi 7.1.3.
+Voh-Kone 7.2.2.2.I.             Wuvulu 3.1.
+Volow 7.1.1.                    Xaracuu 7.2.2.2.2.
+Vures 7.1.1.                    Yabem 4.1.1.2.1,
+Wab 4.I.I.3.5.                  Yalu 4.I.I.2.2.
+Wagawaga 4.I.3.I.               Yamalele (= Iamalele) 4.I.3.2.2.
+Wailevu 9.2.2.                  Yap 1.
+Wampur 4.I.I.2.2.               Yasawa 9.2.1.
+Watut, North 4.I.I.2.2.         Yoba 4.I.3.5.
+Wayan 9.2.1.                    Yuanga 7.2.2.2.I.
+Wedau 4.I.3.2.4.                Zabana(=Kia) 4.2.3.5.I.6.
+WestFutunan 9.3.2.              Zenag (dialect of Mumeng) 4.I.I.2.3.
+West Guadalcanal 5.1.           Ziwo (= Riwo, dialect of Gedaged)
+WestMekeo 4.I.3.5.              4.I.I.3.5.
+Languages   ATI
+Appendix B
+
+
+
+
+             Map 8   Locations of languages of the Western Admiralties (Adm) family.,the North New Guinea (NNG) cluster, and the Sarmi-Jayapura
+                                                                         (SJ) family
+478
+                                Amphlett
+         Goodenough               k
+            island /ɔ             '^Gumawana
+                  Bwaidoga
+                DioV (W;                     island
+                       `j \lamalele Galea
+                      Minaw%olima_Jbd
+    Doga—Anuki j\re
+        Gapapaiwa                  C\O
+                                     ■Sewa Normanby
+         Goodenough Bay
+
+          Boanaki... ,                     Bunama   /
+              ^-Wedau
+                          Taupota<Tav^     ŋ'ʌuhelawa         150°                                 152° 30'
+X
+
+
+
+
+                                                                                                              Languages
+                           c
+
+                              Map 9        Locations of languages of the Papuan Tip (PT) cluster
+
+
+
+
+                                                                                                              479
+Appendix B
+480
+
+
+
+
+             Map 10   Locations of languages of the Meso-Melanesian (MM) cluster and the St Matthias group
+                                                            Languages
+Map 11   Locations of Southeast Solomonic (SES) languages
+
+
+
+
+                                                            48
+                                                                                               Nauru *'
+                                     St Matthias                                                                                                        Reef Is
+                                                                                                                                            /
+                                        group                                                                                           /
+
+
+             Manus I.                 θʌ                                                                                        /
+                                                                                                                                    /
+                                                                                                                                                       = Aiwoo
+                                      New ʌ                                                                                 /
+                                      Ireland                                                                           /
+
+                                                                                                                                                       Santa Cruz
+                                                     Bougainville
+                                                            Choiseul
+              PAPUA NEW GU NEA                                     Santa Isabel
+                                                                               SOLOMON IS.'
+                                                                            Malaita                                                                     Nebao Tanibili
+                                                   group
+                                                                                                                                                       ʌsuboaɛ Utupua
+                                                           Guada cana
+                                                                              Ci;Makira
+                                                                              (St Cristobal)                                                               Van° @Buma
+                                                                                                                                                            Tanema       ]/anjkoro
+                                                                                                Torres Is.
+                                                                                                  r ..                  Banks Is.
+                                                                                                                                        VANUATU
+                                                                                                             ■*■4           ^Pentecost
+
+                                                                                                  Malak.ula
+                                                                                                                            &
+
+
+
+                                                                                                                            ^Efate
+                                                                                                                      Erromango
+                                                                                                                Tanna E" .
+                                                                                                             θuvea      °Aneityum                                                    20° -
+                                                                                                             ~ rgLifou
+                                                                                                                    [pare
+
+
+
+                                                                                  CALEDONIA                         Q
+                                                                                                                He des Pins
+                                                                                                                                        0
+Appendix B
+
+
+
+
+                        Kilometres
+
+
+
+
+                                                                                                                                                170‘              180‘
+
+                                                                                                                                                 L                   L
+
+                                                   Map 12      Locations of Temotu (TM) languages and Pileni
+482
+                                                      Languages
+Map 13   Locations of North Vanuatu (NCV) languages
+
+
+
+
+                                                      483
+Appendix B
+
+
+
+
+             Map 14   Locations of Central Vanuatu (NCV) languages
+484
+      i                                         "T"                            I                                  I
+     164°                                       166°                          168°                               170°
+                                                                                              Ura>
+                                                                                              C kErromanga
+              50                100
+                   ______ L
+                   Kilometres
+                                                                                            NTanna,    OAniwa
+                                                                                     Tanna Lenakei whitesands
+                                                                                              SW Tanna-Kwamera    0 Futuna
+
+
+ o       r\                                                                                Aneityum                      20° -
+     b
+Nixumwak
+    Nelemwa v
+                                                              Ouvea
+          \ Yuanga Jawe
+           \           xFwai
+             \       Nemin'jX-^
+           Pwapwa^       Klje c^muh’
+                Voh-Kone
+
+
+                                                                            Nengonej   Mare
+                          NEW                     Xaracuu
+                                                                                                                         22°-
+                          CALEDONIA                         Drubea
+
+
+                                                                         lie des Pins
+
+
+
+
+                                                                                                                                 Languages
+                   Map 15         Locations of Southern Vanuatu (SV) and New Caledonia (NCal) languages
+
+
+
+
+                                                                                                                                 485
+Appendix B
+486
+
+
+
+
+             Map 16   Locations of Yapese, Nauruan, Nuclear Micronesian (Mic) and some Polynesian (Pn) languages
+°(\^        'Luangiua                                                                                                   A
+                                                       Tuvalu
+                                                                                                                      Hawaiian
+               ■ Sikaiana .piieni                                         • Tokelauan     Tongarevan    o
+                                       • Anutan                                     Pukapukan     • .....
+                                                                                        •          Mamhiki                                     Marquesan
+                             .      Tikopia
+       Rennellese                          Rotuman •        East
+                                                          Futunan           Samoan
+                            h 0
+                          Emae
+                                                                                                                      Tahitian                    Tuamotuan
+                                     •West                                       Niuean                                                                                                  20°
+                                    ' Futunan                                                                 Rarotongan
+
+                     West                                                                                                         Rurutu                              Mangarevan
+                     Uvean                                                                                                                                    'Rapa
+                                                                                                                                                      16<°-
+
+                                                                                                 VanuaLevu                                                                         Rapanui >
+                                                                                                   Bua£
+                                                                                      /            *                        Taveuni
+                                                                                     A Yasawa
+                                                                                 »      fa,^ʃ Rakiraki          P                         • T.
+                                                                                                                                          D
+                                                                               Lautoka /a-ʃ              ` .
+                                                                                                       rLomaiviti
+                                                                                                       ʌ` • ŋ                         o           „   18°
+
+                                                                                            Namosi Bauan                                      a *
+                                                                                                  Verata     9)
+                                                                                                                                                  O
+                                                                                                                                                                                         40°
+                                                                                                                       <7                                 p
+                                                                                          Kaddau,_ _ o                                        0           '
+                                                                                                                                                      4
+                                                                                                178°
+
+
+
+
+                                                                                                                                                                                               Languages
+                                                                                                       160°                                                    140°
+
+
+
+                                                Map 17          Locations of Fijian (Fij) and Polynesian (Pn) languages
+
+
+
+
+                                                                                                                                                                                               487

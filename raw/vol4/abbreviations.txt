@@ -1,0 +1,40 @@
+       Abbreviations
+
+
+
+
+A          actor                            PL        plural
+ACD        Blust(1995)                      PMM       Proto Meso-Melanesian
+Adm        Admiralties                      PMP       Proto Malayo-Polynesian
+ADJ        adjective                        Pn        Polynesian
+ADV        adverb                           PNCV      Proto North-Central Vanuatu
+APPL       applicative                      PNGOc     Proto New Guinea Oceanic
+ART        article                          PNPn      Proto Nuclear Polynesian
+CEMP       Central/Eastern                  POc       Proto Oceanic
+            Malay o-Polynesian              POLLEX    Biggs & Clark (1993)
+CMP        Central Malayo-Polynesian        POLLEX2   Clark & Biggs (2006)
+CSTR       construction marker              PPn       Proto Polynesian
+esp.       especially                       PROc      Proto Remote Oceanic
+exp        expected                         PSOc      Proto Southern Oceanic
+Fij        Fijian                           PT        Papuan Tip
+FishBase   see Froese & Pauly (2010)        PWMP      Proto Western Malayo-
+            in references                             Polynesian
+k.o.       kind of                          PWOc      Proto Western Oceanic
+Mic        Nuclear Micronesian              SG        singular
+MM         Meso-Melanesian                  S.O.      someone
+N          noun                             sp.       species (sg)
+NCal       New Caledonia                    spp.      species (pl)
+NCV        North/Central Vanuatu            s.t.      something
+NNG        North New Guinea                 SES       Southeast Solomonic
+NOM        nominaliser                      SJ        Sarmi/Jayapura
+OBJ        object                           SV        South Vanuatu
+OED        Oxford English Dictionary        TM        Temotu
+PAdm       Proto Admiralty                  U         undergoer
+PAn        Proto Austronesian               v         verb
+PASS       passive                          VI        intransitive verb
+PCEMP      Proto Central/Eastern            VT        transitive verb
+            Malayo-Polynesian               W.Guad.   West Guadalcanal
+PCP        Proto Central Pacific            WMP       Western Malayo-Polynesian
+PEMP       Proto Eastern Malayo-Polynesian
+PEOc       Proto Eastern Oceanic
+                                      xxiii

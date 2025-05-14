@@ -1,0 +1,183 @@
+Appendix A: Data sources and collation
+
+
+
+1 Datasources
+The subject matter of this volume is quite narrowly constrained. As a result we collated data
+not only from the sources used for the project generally but also from compilations of animal
+names in a number of languages. Both general and animal name data sources are listed below.
+The source of an item is generally listed against it in the text only where it is not one of those
+listed below or where it is an exceptional source for that particular language.
+
+
+1.1 General sources
+Sources are conveniently divided into published and unpublished.
+
+1.1.1 Published sources
+In alphabetical sequence of language, published sources are:
+
+        Amara                                   Thurston (1984)
+        Anejom (= Aneityum)                     Lynch (2001Z>)
+        Araki                                   Francois (2002)
+        ’Are’are                                Geerts (1970)
+        Arosi                                   Fox(1978)
+        Asuboa                                  Tryon & Hackman (1983)
+        Bareke                                  Tryon & Hackman (1983)
+        Bugotu                                  Ivens(1940)
+        Carolinian                              Jackson & Marek (1991)
+        Cemuhi                                  Rivierre (1994)
+        Chuukese (= Trukese)                    Goodenough & Sugita (1990)
+        Bauan Fijian (= Standard Fijian)        Capell (1941)
+        Boumaa Fijian                           R. M. W. Dixon (1988)
+        Dobu                                    J. W. Dixon (n. d,), Grant (1953)
+        Fwai                                    Haudricourt& Ozanne-Rivierre (1982)
+        Gapapaiwa                               McGuckin & McGuckin (1995)
+        Gedaged                                 Mager (1952)
+        Gela (= Nggela)                         Fox(1955)
+        Ghanongga                               Tryon & Hackman (1983)
+        Hawaiian                                Pukui & Elbert (1971)
+        Iamalele                                Beaumont & Beaumont (2007)
+                                              453
+454   Appendix A
+
+
+      Jawe                               Haudricourt & Ozanne-Rivierre (1982)
+      Kairiru                            Wivell (1981)
+      Katazi                             Tryon & Hackman (1983)
+      Kilivila                           Senft (1986)
+      Kiribati (= Gilbertese)            Sabatier (1971), Thaman (1987)
+      Kokota                             Palmer (2004)
+      Kosraean (= Kusaiean)              Lee (1976)
+      Kove                               Chowning (1996)
+      Kwaio                              Keesing (1975)
+      Kwamera                            Lynch (2001Z>)
+      Lau                                Fox(1974)
+      Lenakel                            Lynch (1977)
+      Lewo                               Early (n. d.)
+      Loniu                              Hamel (1994)
+      Lou                                Blust (1998a)
+      Makura                             Tryon & Hackman (1983)
+      Malagheti                          Tryon & Hackman (1983)
+      Maori                              Williams (1971)
+      Maringe (= Cheke Holo = Hograno)   White et al. (1988)
+      Marovo                             Hviding (1995)
+      Marshallese                        Abo et al. (1976)
+      Minaveha                           Nenegemo & Lovell (1995)
+      Mokilese                           Harrison & Albert (1977)
+      Mota                               Codrington & Palmer (1896)
+      Motu                               Lister-Turner & Clark (1954)
+      Mussau                             Blust (1984)
+      Muyuw                              Lithgow & Lithgow (1974)
+      Nagu                               Tryon & Hackman (1983)
+      Nakanai                            Chowning (1996)
+      Nebao                              Tryon & Hackman (1983)
+      Nehan                              Glennon & Glennon (2005)
+      Nemi                               Haudricourt & Ozanne-Rivierre (1982)
+      Niuean                             Sperlich (1997)
+      Nokuku                             Tryon (1976)
+      North Tanna                        Lynch (2001Z>)
+      Nyelayu                            Ozanne-Rivierre (1998)
+      Paamese                            T. Crowley (1992)
+      Pije                               Haudricourt & Ozanne-Rivierre (1982)
+      Ponapean                           Rehg & Sohl (1979)
+      Puluwatese                         Elbert (1972)
+      Rennell and Bellona                Elbert (1975)
+      Roviana                            Waterhouse (1949)
+      Sa’a and Ulawa                     Ivens(1918, 1929)
+      Samoan                             Milner (1966)
+      Sengseng                           Chowning (1996)
+      Sesake                             Tryon (1976)
+                                                                        Datasources     455
+
+
+       South Efate                            Thieberger (2006Z>)
+       South-west Tanna                       Lynch (2001Z>)
+       Sudest                                 Anderson (1990)
+       Sye (= Sie, Eromango)                  T. Crowley (2000), Lynch (2001Z>)
+       Tanabili                               Tryon & Hackman (1983)
+       Tanema                                 Tryon & Hackman (1983)
+       Teanu (= Buma)                         Tryon & Hackman (1983)
+       Tikopia                                Firth (1985)
+       To’aba’ita                             Lichtenberk (2008)
+       Tolai (= Kuanua, Raluana)              Rickard (1964), Lanyon-Orgill (1962)
+       Tolo                                   S. S. Crowley (1986)
+       Tolomako                               Tryon (1976)
+       Tongan                                 Churchward (1959)
+       Ugh el e                               Tryon & Hackman (1983)
+       Ura                                    Lynch (200lb)
+       Vano                                   Tryon & Hackman (1983)
+       Way an Fijian                          Pawley & Sayaba (2003)
+       Wedau                                  Jennings (1956)
+       Whitesands                             Lynch (200lb)
+       Woleaian                               Sohn & Tawerilmang (1976)
+       Yabem (= Jabem)                        Zahn (1982)
+
+
+
+1.1.2 Unpublished sources
+   1. Manuscript word lists for NE Ambae by Catriona Hyslop, Babatana by Lucy Money,
+      Kiriwina (= Kilivila) by Ralph Lawton, Mekeo by Alan Jones, Kove, Molima and
+      Nakanai by Ann Chowning, Mutu by Alice Pomponio, Teanu (= Buma) and Mwot-
+      lap by Alexandre Francois, Nduke by Ian Scales, Ninigo (= Seimat) by W. Smythe,
+      Tamambo (= Malo) by Dorothy Jauncey, Titan by Claire Bowern and Zabana (= Kia)
+      by D. Ama and M. Fitzsimons.
+   2. Electronic fdes provided by a number of scholars, some of which are themselves based
+      on a variety of primary sources. The files include:
+         a) The electronic files of lexical data collated during the research leading to the
+            publication of Ross (1988), whose sources are listed in Appendices A and B of
+            that work.
+         b) The electronic files from the Comparative Austronesian Dictionary proj ect which
+            resulted in Tryon (1995), which lists its own sources.
+         c) The electronic files of Robert RlwslA Austronesian Comparative Dictionary, stored
+            at the University of Hawai’i. The version to which we refer dates from 1995, and
+            is abbreviated in this volume as acd.
+         d) The electronic files of Biggs and Clark’s POLLEX: Proto Polynesian lexicon on
+            disk at the University of Auckland. We refer to a June 2006 version, abbreviated
+            pollex, which became available in the later stages of this volume’s preparation.
+            In October 2010, when this volume was nearing completion, pollex went on line
+            at http://pollex.org.nz.
+456   Appendix A
+
+
+        e) Electronic files of dictionaries in progress provided by Joel Bradshaw (for Num-
+           bami), Deborah Hill (for Longgu) and Malcolm Ross (for Takia).
+         f) Electronic files of dictionaries in progress kindly made available by members of
+            the Summer Institute of Linguistics. Languages and those who compiled/supplied
+            the dictionary are as follows: Arop-Lokep (Jeffrey and Lucille D’Jernes), Bariai
+            (Steve Gallagher), Bing (Doug Bennett), Bola (Brent Wiebe), Mapos Buang (Bruce
+            Hooley), Iduna (Joyce Huckett), Dami (George Elliott), Dawawa (Martin and
+            Beate Knauber), Gapapaiwa (Ed and Catherine McGuckin), Gumawana (Clif Ol            son), Hote (Marguerite Muzzey), East Kara (Perry and Virginia Schlie), Kau-
+            long (Craig Throop), Drehet [= Khehek] (Stephan Beard), Lewo (Robert Early),
+            Lou (Robert and Verna Stutzman), Lukep [= Pono] (Jeff and Sissie D’ Jernes),
+            Manam (Stephen and Kim Blewett), Mangseng (Lloyd Milligan), Mangap-Mbula
+            (Robert and Salme Bugenhagen), Mengen (Fred Madden), Misima (Bill Callis-
+            ter), Mumeng [Patep] (Linda Vissering and Karen Wilson), Mussau (John Brown            ie), Nakanai (Ray Johnston), Nehan (John and Ariana Glennon), Nochi (Leland
+            and Laurinda Erickson), Patpatar (Ed Condra), Ramoaaina [= Duke of York]
+            (Lisbeth Fritzell and Robyn Davies), Siar (Larry Erdman), Sinaugoro (Gerhard
+            Tauberschmidt), Sio (Stephen and Dawn Clark), Sissano [Arop] (Stephen Whit            acre), Sudest (Mike Anderson), Sursurunga (Don Hutchisson), Takia (Salme Bu            genhagen, Judy Rehberg, Curtis Thomas, Bruce Waters), Tawala (Bryan Ezard),
+            Teop (David Snyder), Tinputz (Roman Hostetler), Titan (Keith Lusk), Tuam
+            (Robert and Salme Bugenhagen).
+
+
+
+2 Collation
+The collation stage of the project, which took place in the early and mid 1990s, entailed in
+the first instance the creation a data base of vocabulary materials in a defined set of semantic
+domains from Oceanic languages for which data were already available (see §1.1). This data
+base was kept in text files . Files were organised in accordance with a modified version of
+the Summer Institute of Linguistics’ ‘standard format’ in which fields within each record are
+labelled with an initial backslash followed by a single letter. In our version of the format,
+each record was terminated with a carriage return, i.e. each record occupied a single line.
+Each record contained a single word in a single language with associated information (a code
+relating to the language’s subgroup, a gloss and any other semantic information, the source,
+and any other notes the researcher chose to add). Records were organised on screen into
+putative cognate sets. The use of text files rather than files in a proprietary database format
+meant (i) that it was easy to view them on screen; (ii) that it was easy to manipulate them
+with a variety of text editors and word processors; (iii) that more complex repetitive processes
+could be performed by writing small programs in Icon (Griswold & Griswold 1990) and more
+recently in Python; and (iv) that it was relatively easy to import and reformat other people’s
+data sets and to export collated material into publications in preparation.
+    Although there are accepted or standard orthographies for a number of the languages
+from which data are cited here, data were transcribed at the collation stage into a standard
+orthography (this volume, ch.l, §4.2) to enable us to recognise cognates and to spot regular
+changes more quickly. This orthography is retained in the citation of data in these volumes.

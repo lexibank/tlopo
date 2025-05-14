@@ -5385,7 +5385,7 @@ POc &ast;[ma-](r,R)aŋo displays a phonological problem. Apparent non-Oceanic co
 '<span>dry, ripe coconut</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kakuna</td><td><i>kolu-ŋana</i></td>
+<td>NNG</td><td>Mamusi</td><td><i>kolu-ŋana</i></td>
 <td>
 '<span>ripe coconut</span>'</td>
 </tr>

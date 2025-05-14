@@ -175,7 +175,7 @@ The generic term for any kind of wearing down by friction was  POc &ast;asa(q) &
 <i>&ast;kirkir</i>
 </td>
 <td>
-(v) '<span>file, rasp</span>' (<a href="../references.md#source-Blust1977">Blust1977</a>)
+(v) '<span>file, rasp</span>' (<a href="../references.md#source-Blust1977a">Blust1977a</a>)
 </td>
 </tr>
 <tr>
@@ -2573,7 +2573,7 @@ The reconstructions below are separated from those of splitting in [§3.8](#s-3-
 <i>&ast;tektek</i>
 </td>
 <td>
-'<span>hack off</span>' (<a href="../references.md#source-Blust1977">Blust1977</a>)
+'<span>hack off</span>' (<a href="../references.md#source-Blust1977a">Blust1977a</a>)
 </td>
 </tr>
 <tr>
@@ -3892,7 +3892,7 @@ POc &ast;tosi was evidently used of the action of scoring something with a point
 <i>&ast;testes</i>
 </td>
 <td>
-'<span>tear, tear up</span>' (<a href="../references.md#source-Blust1977">Blust1977</a>)
+'<span>tear, tear up</span>' (<a href="../references.md#source-Blust1977a">Blust1977a</a>)
 </td>
 </tr>
 <tr>
@@ -4086,7 +4086,7 @@ The contrast between PEOc &ast;sapi and POc &ast;sapʷi 'carve into shape, trim 
 <i>&ast;gatgat</i>
 </td>
 <td>
-'<span>chew up</span>' (<a href="../references.md#source-Blust1977">Blust1977</a>)
+'<span>chew up</span>' (<a href="../references.md#source-Blust1977a">Blust1977a</a>)
 </td>
 </tr>
 <tr>
@@ -9648,7 +9648,7 @@ cf. also:
 <td>Nakanai</td>
 <td>pulo</td>
 <td>
-'<span>squeeze (grated coconut +)</span>'</td>
+'<span>squeeze (grated coconut +)</span>'; '<span>squeeze coconut cream onto food before cooking</span>' (<span>A. Chowning, pers. comm.</span>)</td>
 </tr>
 <tr>
 <td>NNG</td>
@@ -11038,6 +11038,6 @@ cf. also:
 
 [^9]:   This reconstruction is supported by Ngada _paʔu_ 'tie, bind' and the Oceanic reflexes listed here.
 
-[^10]:   Given the two reconstructable POc forms, this appears to be a case of [Blust's](../references.md#source-Blust1977) ([1977](../references.md#source-Blust1977)) paradigm ([Ch.2, §3.1.2](chapter2.md#s-3-1)), suggesting that the PMP form was &ast;dalJdalJ.
+[^10]:   Given the two reconstructable POc forms, this appears to be a case of Blust's (1977) paradigm ([Ch.2, §3.1.2](chapter2.md#s-3-1)), suggesting that the PMP form was &ast;dalJdalJ.
 
 [^11]: If the Oceanic forms are an example of the usual canon, we would expect PMP &ast;tuŋtuŋ.

@@ -3162,7 +3162,7 @@ The POc base for ‘yesterday’ was &ast;ñoRap. A few reflexes reflect accreti
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kakuna</td><td><i>ŋala-na</i></td>
+<td>NNG</td><td>Mamusi</td><td><i>ŋala-na</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
@@ -3323,7 +3323,7 @@ The POc base for ‘yesterday’ was &ast;ñoRap. A few reflexes reflect accreti
 
 <a id="p-326"></a>
 
-The Southern Vanuatu members of the set below reflect a Proto South Vanuatu form reconstructed by [Lynch](../references.md#source-Lynch2001) ([2001](../references.md#source-Lynch2001):211) as &ast;na-yan(a,u)v. POc &ast;R is sporadically lost in Proto South Vanuatu, and these forms seem to reflect a metathesis of a reflex of na-ñoRap to &ast;na-Rañop.
+The Southern Vanuatu members of the set below reflect a Proto South Vanuatu form reconstructed by [Lynch](../references.md#source-Lynch2001c) ([2001c](../references.md#source-Lynch2001c):211) as &ast;na-yan(a,u)v. POc &ast;R is sporadically lost in Proto South Vanuatu, and these forms seem to reflect a metathesis of a reflex of na-ñoRap to &ast;na-Rañop.
 
 <table>
 <tr>

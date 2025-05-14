@@ -227,7 +227,7 @@ of Oceanic: for Proto Polynesian by Biggs (resulting in Walsh & Biggs 1966, Bigg
 and subsequent versions of the POLLEX file, including Biggs & Clark (1993) and Clark & Biggs (2006);[5]
 for Proto Micronesian by scholars at the University of Hawaii (Bender et al. 1983, Bender et al. 2003);
 for Proto North-Central Vanuatu by Clark (1996, 2008);[6]
-for Proto Southern Vanuatu by Lynch (1978, 1996, 2001); for New Caledonia by Ozanne-
+for Proto Southern Vanuatu by Lynch (1978, 1996b, 2001); for New Caledonia by Ozanne-
 Rivierre (1992), Haudricourt & Ozanne-Rivierre (1982) and Geraghty (1989); for Proto SE
 Solomonic by Levy (1980) and Frantisek Lichtenberk (1988); for Proto Central Pacific by
 Hockett (1976), Geraghty (1983, 1986, 1996 together with a number of unpublished papers);
@@ -719,7 +719,7 @@ are labelled PWOc.
 support was provided by Levy (1979, 1980, n.d.), Tryon & Hackman (1983) and Frantisek
 Lichtenberk (1988).
 
-    The Southern Oceanic linkage as proposed by Lynch (1999, 2000, 2001, 2004) is charac-
+    The Southern Oceanic linkage as proposed by Lynch (1999, 2000c, 2001, 2004) is charac-
 terised by complex overlapping innovations, but by none that are reflected in all its mem-
 ber languages and would qualify it as a proper subgroup (see discussion in Lynch et al.
 2002: 112-114).[21]
@@ -10598,12 +10598,12 @@ Hviding 2005: 118) also shows that the resemblance of Myristica sap to blood is 
 
 <
 PNCV *(dr,d)aRa(q,k)(a,i) 'wild nutmeg, Myristica sp.'
-  NCV: Mota           na-raya       'nutmeg'
-  NCV: Mwotlap        na-d[a]yay 'Myristicafatua' (François 2004b)
-  NCV: Vera'a         daraya        'Myristicafatua' (François 2004b)
-  NCV: Vures          daray         'Myristicafatua' (François 2004b)
-  NCV: Mwesen         (wo)na-ray 'Myristicafatua' (François 2004b)
-  NCV: Raga           (a)oaya       'Myristicafatua'
+  NCV: Mota           na-raɣa       'nutmeg'
+  NCV: Mwotlap        na-d[a]yaɣ 'Myristicafatua' (François 2004b)
+  NCV: Vera'a         daraɣa        'Myristicafatua' (François 2004b)
+  NCV: Vures          daraɣ         'Myristicafatua' (François 2004b)
+  NCV: Mwesen         (wo)na-raɣ 'Myristicafatua' (François 2004b)
+  NCV: Raga           (a)oaɣa       'Myristicafatua'
   NCV: NE Ambae       dadai               'Myristicafatua'
   NCV: Uripiv         drari         'Myristicafatua'
   NCV: S Efate        n-ra          'Myristicafatua'
@@ -10611,7 +10611,7 @@ PSV *na-(dr,d)ani 'wild nutmeg, Myristicafatua' (Lynch 2004a)
   SV:   Sye           na-nre        'Myristicafatua'
   SV:   Lenakel       ne-tan        'Myristicafatua'
   SV:   Kwamera       n-tan         'Myristicafatua'
-  SV:   Anejom        na-jefi       'Myristicafatua'
+  SV:   Anejom        na-jeñ       'Myristicafatua'
 >
 
 
@@ -11120,7 +11120,7 @@ black sap with similar effects to that of S.forstenii (Wheatley 1992: 38).
      The distribution of the two species seems to be complementary: S.forstenii in the Bismar-
 cks and the Solomons and the larger S. vitiensis in Vanuatu and Fiji. 3 For this reason I infer
 that POc *walasi denoted S.forstenii. POc *lasi is listed by Tryon (1994) as 'Antiaris toxi-
-caria', a gloss maintained by Lynch (2002a), but this seems incorrect in view of the reflexes
+caria', a gloss maintained by Lynch (2002f), but this seems incorrect in view of the reflexes
 listed here. 31
 
      The presence of -i- in Kwaio and Kwara'ae kwailasi and Lau koilasi probably reflects a
@@ -19189,12 +19189,12 @@ generally consumed in Oceanic-speaking communities in the Bismarcks imply that i
 not present there in POc times, and that we should not expect to be able to reconstruct a POc
 term for it. The origin of kava has attracted a good deal of debate, both botanical and linguis-
 tic, over the past 35 years, partly because of its presence at New Guinea locations (Brunton 1988,
-Lebot 1989, Lebot et al. 1992, T. Crowley 1994, Lynch 2002a).
+Lebot 1989, Lebot et al. 1992, T. Crowley 1994, Lynch 2002f).
 
      The best supported hypothesis appears to be that Piper methysticum is a domesticated va-
 riety of Piper subbullatum (syn. P. wichmannii),[2] a plant of similar appearance which grows
 wild in the Solomons (Kwa'ioloa & Burt 2001: 206), and that this domestication took place
-in northern Vanuatu. The linguistic evidence for this position is presented by Lynch (2002a) .
+in northern Vanuatu. The linguistic evidence for this position is presented by Lynch (2002f) .
 He reconstructs a POc term *kawaRi, which he glosses as 'root with special properties: one or
 more of Zingiber zerumbet, Piper subbullatum, fish-poison plants', i.e. as a generic term for
 what in the title of his article he calls 'potent roots '. He points out that none of the apparently
@@ -19203,11 +19203,11 @@ directly inherited reflexes of *kawaRi outside Vanuatu, Fiji and Polynesia means
 The evidence suggests that POc *kawaRi is reconstructable, but only with the 'potent roots'
 meaning. Only in northern Vanuatu and regions settled from it (the rest of Vanuatu, Fiji and
 Polynesia) do we find directly inherited reflexes denoting 'kava' or' Piper methysticum'. The
-reconstructions and directly inherited reflexes below are from (Lynch 2002a), except where
+reconstructions and directly inherited reflexes below are from (Lynch 2002f), except where
 shown.[3]
 
 <
-POc *kawaRi 'root(s) with special properties: one or more of Zingiber zerumbet, Piper subbullatum, and various fish-poison plants' (Lynch 2002a)[4]
+POc *kawaRi 'root(s) with special properties: one or more of Zingiber zerumbet, Piper subbullatum, and various fish-poison plants' (Lynch 2002f)[4]
   Adm: Baluan             kau               'Piper subbullatum' (Ambrose 1991)
   NNG: Sissano            (una)kaw          'k.o. ginger'
   PT:    Muyuw            ka-kawowa         'Piper sp.'
@@ -19219,10 +19219,10 @@ PNCV *kea 'kava; sour, bitter' (Lynch 2004a)
   NCV: Lehali             n-ya              'kava'
   NCV: Mota               yea               'kava'
   NCV: Mwotlap            na-ya             'kava'
-  NCV: Vera'a            yie               'kava'
-  NCV: Mwesen             ye                'kava'
-  NCV: Vera'a            yie               'kava; sour, bitter'
-  NCV: Vures              ye                'kava; sour, bitter'
+  NCV: Vera'a            ɣie               'kava'
+  NCV: Mwesen             ɣe                'kava'
+  NCV: Vera'a            ɣie               'kava; sour, bitter'
+  NCV: Vures              ɣe                'kava; sour, bitter'
   NCV: Araki              hae               'kava; sour, bitter'
   NCV: Lewo               (wi)kawa          'brackish water' (_wi_ 'water')
 PCP *kawa 'kava, Piper sp., fish-poison plants; sour, bitter';  'Zingiber spp.' (probably also)
@@ -20830,7 +20830,7 @@ ical Papuan linguistics, currently in its infancy. However, there is one small p
 forms themselves. As noted in vol. 1 (ch.2, §2.4), the POc labiovelar consonants *pw, *bʷand
 *mwwere not present in Proto Malaya-Polynesian and represent an innovation in the POc
 consonant system. In some lexical items their presence is the result of conditioning (Blust
-1981a, Lynch 2002b), in many their occurr,ence probably reflects borrowing from Papuan
+1981a, Lynch 2002e), in many their occurr,ence probably reflects borrowing from Papuan
 languages. Items in Tables 14.3-14.9 which contain one of these phonemes are shown in
 bold. Only three (= 4%) of the 80 inherited items listed in Tables 14.3-14.5 include one of
 these phonemes, and in two of these instances--*(m,mʷ)aso(q)u and *(p,pʷ)atoRu-the labiovelar

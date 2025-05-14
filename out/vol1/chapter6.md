@@ -1527,7 +1527,7 @@ cf. also:
 <td>Tongan</td>
 <td>lala</td>
 <td>
-'<span>(place) uninhabited, empty or almost so</span>'; '<span>half-cook, cook lightly (fish)</span>'</td>
+'<span>(place) uninhabited, empty or almost so</span>'; '<span>half-cook, cook lightly (fish)</span>'; '<span>taxon of shrubs inc. Vitex trifolia, Dendrolobium umbellatum and Wikstroemiafoetida</span>'</td>
 </tr>
 </table>
 

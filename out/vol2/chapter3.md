@@ -178,7 +178,7 @@ Map 8: Tikopia (after Firth 1936:xxii)
 '<span>soil</span>' (<span>guc ‘earth’</span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td>Woleaian</td><td><i>fariw</i></td>
+<td>Mic</td><td>Woleaian</td><td><i>farɨw</i></td>
 <td>
 '<span>land, island</span>'</td>
 </tr>

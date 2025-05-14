@@ -1,0 +1,53 @@
+{
+  "title": "Animals",
+  "chapters": [
+    {
+      "number": "1",
+      "title": "Introduction",
+      "pages": "1-24",
+      "author": "Ross, M., Pawley, A. and Osmond, M."
+    },
+    {
+      "number": "2",
+      "title": "Fish",
+      "pages": "25-136",
+      "author": "Meredith Osmond"
+    },
+    {
+      "number": "3",
+      "title": "Stability and change in Oceanic fish names",
+      "pages": "137-160",
+      "author": "Andrew Pawley"
+    },
+    {
+      "number": "4",
+      "title": "Aquatic invertebrates",
+      "pages": "161-216",
+      "author": "Andrew Pawley"
+    },
+    {
+      "number": "5",
+      "title": "Mammals, reptiles, amphibians",
+      "pages": "217-270",
+      "author": "Meredith Osmond and Andrew Pawley"
+    },
+    {
+      "number": "6",
+      "title": "Birds",
+      "pages": "271-370",
+      "author": "Ross Clark"
+    },
+    {
+      "number": "7",
+      "title": "Insects and other creepy-crawlies",
+      "pages": "371-420",
+      "author": "Meredith Osmond"
+    },
+    {
+      "number": "8",
+      "title": "Were turtles fish in Proto Oceanic? Semantic reconstruction and change in some terms for animal categories in Oceanic languages",
+      "pages": "421-452",
+      "author": "Andrew Pawley"
+    }
+  ]
+}

@@ -220,7 +220,7 @@ class Dataset(BaseDataset):
                 langs[alt] = v
 
         for vol in range(1, 7):
-            if vol not in {1, 2}:
+            if vol not in {1, 2, 3}:
                 continue
             t = self.raw_dir / 'vol{}'.format(vol) / 'text.txt'
             if not t.exists():
