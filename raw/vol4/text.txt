@@ -14026,13 +14026,10 @@ from Malakula, Vanuatu; however some of the Vanuatu reflexes of POc *p wa(r,R)a 
 above may belong here, being from languages in which */ and *R would both give zero in
 this environment.
 
+<
 Proto Central Vanuatu *bala ‘Pacific Marsh Harrier, Circus approximans‘
   NCV: Atchin          ni-mbel          ‘hawk’
   NCV: Naman           ne-bel
-
-304   Ross Clark
-
-
   NCV:    Neve’ei    ne-bal
   NCV:    Nese       na-dal
   NCV:    Big Nambas ni-bəl          ‘hawk’
@@ -14040,31 +14037,35 @@ Proto Central Vanuatu *bala ‘Pacific Marsh Harrier, Circus approximans‘
   NCV:    Labo       ne-mbale        ‘hawk’
   NCV:    SW Bay     na-mbal         ‘hawk’
   NCV:    Aulua      ne-mbel         ‘hawk’
+>
+
+304   Ross Clark
 
 
+<
 Proto South Melanesian *marup ‘falcon’
   SV:     Ura         umrom          ‘peregrine falcon’
   SV:     Sye         umrom          ‘peregrine falcon’
   SV:     Kwamera     murup          ‘Peregrine Falcon, Falco peregrinus'
-  NCal:   Nengone     marup          ‘Australian Goshawk, Accipiter fasciatus, possibly
-                                     also falcon’
+  NCal:   Nengone     marup          ‘Australian Goshawk, Accipiter fasciatus, possibly also falcon’
+>
 
-
+<
 PNCal *dei/ ‘Pacific Marsh Harrier, Circus approximans‘
   NCal:   Nelemwa     daŋ
   NCal:   Caaac       den
   NCal:   Jawe        den
   NCal:   Pije        diŋ
-  NCal:   Cemuhi      diŋ            ‘New Caledonia Sparrow Hawk, Accipiter
-                                     haplochrous"
+  NCal:   Cemuhi      diŋ            ‘New Caledonia Sparrow Hawk, Accipiter haplochrous"
   NCal:   Paici       (mxru)dii      "Accipiter haplochrous"
   NCal:   Tinrin      dm             ‘hawk’
   NCal:   Xaracuu     de
   NCal:   Drubea      nru
   NCal:   Iaai        diŋ
   NCal:   Nengone     (wa)doŋ
+>
 
-
+<
 PNCal *bwakole ‘hawk or kite’ (cf. *b‘amara above)
   NCal:   Nelemwa      b^ayole, b' aole   ‘Pacific Marsh Harrier, Circus approximans"
   NCal:   Caaac        bwaole             ‘Australian Goshawk, Accipiterfasciatus"
@@ -14072,7 +14073,7 @@ PNCal *bwakole ‘hawk or kite’ (cf. *b‘amara above)
   NCal:   Cemuhi       bwaole             "Haliastur sphenurus"
   NCal:   Paici        b'dwkre            "Haliastur sphenurus"
   NCal:   Iaai         bdhole             "Accipiter fasciatus, Haliastur sphenurus"
-
+>
 
 
 6.5.5 Megapodes (Megapodiidae)
@@ -14081,25 +14082,20 @@ Megapodes or scrub fowl (Megapodius spp.) are found from the homeland south to V
 and as far east as the island of Niuafo’ou in Tonga. The representative in the homeland is
 the Bismarck Scrub Fowl (M. eremitd). All three of the name-sets below may be of imitative
 origin, given the bird’s two-syllable calls ending in [au]-like sounds. (Hadden (2004a:78)
+gives 'paa-atd, ‘keeawau keeawuh', ‘keereow keerow’ and ‘kiau kiaiV as representations of
+its calls.)
 
                                                                                  Birds    305
 
 
-
-
                     Figure 6.8   Megapodius eremita, Bismarck Scrub Fowl
 
-
-
-
-gives 'paa-atd, ‘keeawau keeawuh', ‘keereow keerow’ and ‘kiau kiaiV as representations of
-its calls.)
      POc * m‘alau is reflected from Sulawesi (Sangirese maleo) to the easternmost bird of this
 family in Tonga (Wallace 1869: 202-4, Christian 1926, but see also comments in Blust 2002).
 
+<
 POc *mwalau ‘Bismarck Scrub Fowl, Megapodius eremita'
-  NNG : Kairiru         molau         ‘wild fowl inhabiting the bush, produces fairly large
-                                      eggs’
+  NNG : Kairiru         molau         ‘wild fowl inhabiting the bush, produces fairly large eggs’
   NNG :   Manam     molau             ‘bird sp.’
   NNG :   Gedaged   malau             ‘megapode’
   NNG :   Sengseng  muluŋ             ‘bush hen, megapode’
@@ -14121,12 +14117,13 @@ POc *mwalau ‘Bismarck Scrub Fowl, Megapodius eremita'
   Pn:     Tongan    malau             ‘Polynesian Scrub Fowl, MegapodiuspritchardiV
   Pn:     Takuu     marau
   Pn:     Luangiua  malau
+>
 
    An apparent doublet with *k w- appears in a number of New Guinea and Solomons languages:
 
 306   Ross Clark
 
-
+<
 POc *kwal(i)au ‘Bismarck Scrub Fowl, Megapodius eremita‘
   NNG:   North Watut    keroŋ            ‘bush-hen sp.’
   NNG:   Mengen (Poeng) kerao            ‘wildfowl’
@@ -14139,10 +14136,12 @@ POc *kwal(i)au ‘Bismarck Scrub Fowl, Megapodius eremita‘
   MM:    Petats         koloŋ            ‘the mound-bird or megapodidae’
   MM:    Kia            kolo(peho)       ‘megapode’
   SES:   Gela           koleo            ‘a brush turkey, megapod’
+>
 
     The following set shows many irregularities suggestive of independent onomatopoetic
 origin, but there may be some basis for a reconstruction *k(d)iaw.
 
+<
 POc *k(a)iau ‘Bismarck Scrub Fowl, Megapodius eremita‘
   Adm:   Mussau        kikiau        ‘large mound building bird, Megapodius"
   NNG    Kove          kio           ‘bush hen, megapode’
@@ -14154,7 +14153,7 @@ POc *k(a)iau ‘Bismarck Scrub Fowl, Megapodius eremita‘
   MM:    Patpatar      kiou          ‘fowl that has been domesticated’
   MM:    Tolai         kiau
   MM:    Halia         kihau         ‘ground bushfowl’
-                       kio           ‘Dusky Scrub Fowl, Megapodiusfreycinef
+  MM:    Halia         kio           ‘Dusky Scrub Fowl, Megapodiusfreycinef
   MM:    Nehan         kaio          ‘bush fowl’
   MM:    Torau         kiau          Megapodius freycinef
   MM:    Marovo        io
@@ -14165,7 +14164,7 @@ POc *k(a)iau ‘Bismarck Scrub Fowl, Megapodius eremita‘
   SES:   To’aba’ita    geo
   SES:   Kwara’ae      geo
   SES:   Kwaio         geo
-
+>
 
 
 6.5.6 Pheasants and quails (Phasianidae)
@@ -14175,20 +14174,14 @@ Indian Blue Quail (Coturnix chinensis). In the following comparison, a POc recon
 is justified if the Mangap and Tolai forms are regarded as continuing the PAn etymon.
 
                                                                                  Birds   307
-
-
-
-
                        Figure 6.9   Porphyria porphyrio, Purple Swamphen
 
-
-PAn *
-    puRuq ‘quail, partridge’ (Blust 2002)
-    puRu(q) ‘quail’
-POc *
+<
+PAn *puRuq ‘quail, partridge’ (Blust 2002)
+POc *puRu(q) ‘quail’
   NNG: Mangap           puru(pdla)     ‘quail’
   MM: Tolai             voro, worn     ‘Indian Blue Quail, Coturnix ehinensis'
-
+>
 
 
 6.5.7 Rails (Rallidae)
@@ -14200,6 +14193,7 @@ which occur throughout much of the Oceanic region, and in the homeland three oth
 genus Rallus, as well as the Bare-eyed Rail (Eulabeornisplumbeiventris), Red-necked Crake
 (Rallinci tricolor), and Rufous-tailed Moorhen (Amaurornis olivaceus).
 
+<
 POc *b‘alciRe ‘Purple Swamphen, Porphyrioporphyrio'
   MM:    Tolai           buldrə             ‘purple swamp hen’
   SES:   Uki ni Masi     polale
@@ -14217,18 +14211,15 @@ POc *b‘alciRe ‘Purple Swamphen, Porphyrioporphyrio'
   Pn:    Emae            karae
   Pn:    W Uvean         kalae
   Pn:    Hawaiian        Palae              ‘Moorhen, Gallinula chloropus'
+>
 
 308     Ross Clark
 
-
-
-
                         Figure 6.10   Rallus philippensis, Buff-banded Rail
-
-
 
       Another possible POc reconstruction for the same bird is the following:
 
+<
 POc *b‘iru ‘Purple Swamphen, Porphyrioporphyrio’
   MM:      Maringe       na-phiro
   NOV:     Mota          weru           'Eulabeornis, a rail’
@@ -14236,24 +14227,27 @@ POc *b‘iru ‘Purple Swamphen, Porphyrioporphyrio’
   NOV:     Nese          ne-vere
   SV:      Sye           (um)pulau
   SV:      Ura           bulau
+>
 
     The only other rail forwhich widespread cognate sets exist is the Buff-banded Rail (Rallus
 philippensis). The following possible POc reconstruction has only slender support:
 
-POc *
-    b(a,e,i)risu ‘Buff-banded Rail, Rallusphilippensis ’
+<
+POc *b(a,e,i)risu ‘Buff-banded Rail, Rallusphilippensis ’
   MM:      Tolai       piriu
   SES:     Uki ni Masi perisu
   SES:     Bauro       parisu
+>
 
     In Vanuatu, a solid set of cognates referring to this bird shows a distinct resemblance to
 the term for the Swamphen, POc *b‘alaRe.
 
+<
 PNCV *b (w)ilake ‘Buff-banded          Rallus philippensis’
-  NCV:Mota            pilaye                  ‘rail’
-  NCV:Lakon           pi lay                  ''Rallus philippensis’
-  NCV:Matantas        na-pilagi               ‘White-browed Rail, Porzana cinerea’
-                      na-pilagi ruhupoi       ''Rallus philippensis’
+  NCV: Mota            pilaye                  ‘rail’
+  NCV: Lakon           pi lay                  ''Rallus philippensis’
+  NCV: Matantas        na-pilagi               ‘White-browed Rail, Porzana cinerea’
+  NCV: Matantas        na-pilagi ruhupoi       ''Rallus philippensis’
   NCV:     Kiai       pilae                   ''Rallus philippensis’
   NCV:     At chin    pila                    ‘rail’
   NCV:     Neve’ei    ni-bila?                'Rallus philippensis’
@@ -14262,35 +14256,39 @@ PNCV *b (w)ilake ‘Buff-banded          Rallus philippensis’
   NCV:     Nguna      na-p''ilake             'Rallus philippensis’
   SV:      Sye        ne-mpli                 'Rallus philippensis’
   SV:      Kwamera    pare                    'Rallus philippensis’
+>
 
 The similarity is enhanced by two SE Solomonic languages in which the word, while still
 denoting the Purple Swamphen, show unexpected k for *R in the final syllable:
 
                                                                                    Birds   309
 
-
+__pre__
    SES:   Gela            bilake, bulake ‘swamp hen’
    SES:   Malango         bulaki          ‘Porphyrio porphyria’
 
    A group of New Caledonian names for the smaller rail echo the canonical form of *b walaRe
 and *b (v)olake’.
 
-PNCal *
-      pit(a,i)ri ‘rail’
+<
+PNCal *pit(a,i)ri ‘rail’
   NCal: Tinrin            pitiri       ‘rail’
   NCal: Xaracuu           picari       ‘New Caledonian Wood Rail, Rallus lafresnayanus’
   NCal: Drubea            picari       ‘Buff-banded Rail, Rallusphilippensis’
+>
 
-
+<
 PNCal *bh] ‘Buff-banded Rail, Rallusphilippensis’’
   NCal:   Nelemwa         bin
   NCal:   Caaac           pik
   NCal:   Pije            pik
   NCal:   Cemuhi          ben
   NCal:   Iaai            bæŋ
+>
 
    Proto Central Pacific had a distinct name for the Buff-banded Rail.
 
+<
 PCP *weka ‘Buff-banded Rail, Rallusphilippensis’
   Fiji    Rotuman         ve?a
   Pn:     Tongan          veka
@@ -14298,35 +14296,37 @@ PCP *weka ‘Buff-banded Rail, Rallusphilippensis’
   Pn:     E Uvean         veka
   Pn:     E Futunan       veka
   Pn:     Samoan          ve?a
-  Pn:     Rennellese      veka         ‘Purple Swamphen, Porphyrioporphyrio)
-                                       (juvenile)’
+  Pn:     Rennellese      veka         ‘Purple Swamphen, Porphyrioporphyrio) (juvenile)’
   Pn:     Emae            veka
   Pn:     W Futunan       veka         ‘woodhen’
   Pn:     W Uvean         veka
   Pn:     Tahitian        tevea        [i.e. teve?a\ ‘Ralluspacificus ’ (Forster, 1775)
   Pn:     Maori           weka         ‘Weka Rail, Gallirallus australis’
+>
 
 The hypothetical Tahiti Rail (Ralluspacificus) is known only from a painting made on Cook’s
-second voyage (duPont 1976:41), but the name recorded agrees with the evidence of its appearance that it was a species of Rallus.
+second voyage (duPont 1976:41), but the name recorded agrees with the evidence of its appearance
+that it was a species of Rallus.
+
      The only reconstruction for the Sooty Crake (Porzana tabuensis) is restricted to Polynesian.
 
-    mo(s)o ‘ Sooty Crake, Porzana tabuensis’
-PPn *
+<
+PPn *mo(s)o ‘ Sooty Crake, Porzana tabuensis’
   Pn:     Tongan          moho
   Pn:     Niuean          moho
   Pn:     E Futunan       moso
   Pn:     Rennellese      moso
-
-310     Ross Clark
-
-
   Pn:   Mangarevan moho              ‘rail sp.’
   Pn:   Tahitian      meho
   Pn:   Rarotongan mo?o-mo?o
   Pn:   Maori         moho           ‘Buff-banded Rail, Rallus phihppensis'
-Two Outlier languages apply a possible reflex of this word to a different small black bird:
+cf. also: Two Outlier languages apply a possible reflex of this word to a different small black bird:
   Pn:   Nukuoro       moso          ‘Micronesian Starling, Aplonis opaea'
   Pn:   K’marangi moeho             ‘Aplonis opaca’
+>
+
+310     Ross Clark
+
 
 The Nukuoro name looks like a regular development of PPn *moso, but the Kapingamarangi
 suggests possible borrowing from Micronesian (ef. Mokilese mwiok).
@@ -14335,46 +14335,42 @@ suggests possible borrowing from Micronesian (ef. Mokilese mwiok).
 6.5.8 Pigeons and doves (Columbidae)
 
 This family is among the most richly elaborated in the Oceanic realm. Almost every island
-has at least one or two representatives, and the Proto Oceanic speakers may have been acquainted with twenty or more species. The most widely distributed Columbidae belong to
-two genera: the Imperial Pigeons (Ducula spp,), and the much smaller Fruit Doves (Ptilinopus spp,). Other genera represented include Gymnophaps, Columba, Macropygia, Reinward-
+has at least one or two representatives, and the Proto Oceanic speakers may have been acquainted
+with twenty or more species. The most widely distributed Columbidae belong to
+two genera: the Imperial Pigeons (Ducula spp,), and the much smaller Fruit Doves (Ptilinopus spp,).
+Other genera represented include Gymnophaps, Columba, Macropygia, Reinward-
 toena, Chalcophaps, Gallicolumba, Henicophaps, and the shaggy-plumaged Nicobar Pigeon,
 Caloenas nicobarica.
+
     The most likely candidate for a generic is the following, which is identified as generic
 in some languages (Gedaged, Tawala, Muyuw), and elsewhere refers to a wide range of
 columbid genera. In some local areas, however, it appears to have become specialised.
 
+<
 PAn *punay ‘dove, Treron sp.’ (Blust 2002)
 POc *bune ‘pigeon, dove’
   NNG:     Kairiru         (m>an) pun            ‘pigeon’ (myan ‘bird’)
   NNG:     Manam           bune                  ‘dove’
   NNG:     Gedaged         bun                   ‘general name for pigeons and doves’
-  PT:      Iduna           bune-bune             ‘Australian Pied Imperial Pigeon, Ducula
-                                                 spilorrhoa’
+  PT:      Iduna           bune-bune             ‘Australian Pied Imperial Pigeon, Ducula spilorrhoa’
   PT:      Tawala         bune-bune              ‘pigeon (generic)’
   PT:      Kilivila       bu-buna                ‘dove’
   PT:      Muyuw          b``d-bun               ‘general term for pigeons’
-                          bu-buna                ‘pigeon’
-                          bunu(vad)              ‘white pigeon’
-                          buna(kuku)             ‘blue pigeon’
+  PT:      Muyuw            bu-buna                ‘pigeon’
+  PT:      Muyuw            bunu(vad)              ‘white pigeon’
+  PT:      Muyuw            buna(kuku)             ‘blue pigeon’
   PT:      Hula           pune                   ‘dove’
   PT:      Motu           pune                   ‘Ducula spilorrhoa’’
   PT:      Bartie Bay     bune-bune              ‘a dove, blue pigeon’
   PT:      Wedau          bune-bune              ‘green dove’
   MM:      Patpatar       bun                    ‘dove, pigeon’
   MM:      Tolai          (ta)bunə               ‘Knob-billed Fruit Dove, Ptilinopus insolitus’
-  MM:      Nehan          bun                    ‘Yellow-bibbed Fruit Dove, Ptilinopus
-                                                 solomonensis’
+  MM:      Nehan          bun                    ‘Yellow-bibbed Fruit Dove, Ptilinopus solomonensis’
   MM:      Petats          bun                   ‘a small bird about the size of a dove’
-
-                                                                             Birds   311
-
-
-  TM:    Buma            bune (batanoe)       ‘ Santa Cruz Ground Dove, Gallicolumba
-                                              sanclaecrucis'
+  TM:    Buma            bune (batanoe)       ‘ Santa Cruz Ground Dove, Gallicolumba sanclaecrucis'
   NCV:   Raga            bune                 ‘Ptilinopus greyii (imm)’
   NCV:   Matantas        na-pone
-  NCV:   Kiai            (va)pune           ‘Silver-shouldered Fruit Dove, Ptilinopus
-                                            tannensis (imm)’
+  NCV:   Kiai            (va)pune           ‘Silver-shouldered Fruit Dove, Ptilinopus tannensis (imm)’
   NCV:   Atchin        (wo)pun              ‘bird sp.’
   NCV:   Neve’ei       (nav)bin             ‘Ptilinopus tannensis‘
   NCV:   Avava         (nep)bbun            ‘Ptilinopus tannensis"
@@ -14386,19 +14382,24 @@ POc *bune ‘pigeon, dove’
   SV:    Lenakel       pun(hua)             ‘bird sp., blue with red breast’
   SV:    Kwamera       pən(harov), pin(uas) ‘Ptilinopus greyii‘
   SV:    Anejorh       no-pha               ‘Ptilinopus spp.’
-  NCal   Nelemwa       gun                  ‘Cloven-feathered Dove, Drepanoptila
-                                            holosericea‘
-  NCal   Caaac         gun                  ‘Ptilinopus greyii"
-  NCal   Jawe          gun                  ‘pigeon vert’
-  NCal   Cemuhi        bun-he?-wi           ‘Drepanoptila holosericea‘
-  NCal   Iaai          bin                  ‘Ptilinopus greyii"
-  NCal   Dehu          pin                  ‘a pigeon’
+  NCal:   Nelemwa       gun                  ‘Cloven-feathered Dove, Drepanoptila holosericea‘
+  NCal:   Caaac         gun                  ‘Ptilinopus greyii"
+  NCal:   Jawe          gun                  ‘pigeon vert’
+  NCal:   Cemuhi        bun-he?-wi           ‘Drepanoptila holosericea‘
+  NCal:   Iaai          bin                  ‘Ptilinopus greyii"
+  NCal:   Dehu          pin                  ‘a pigeon’
   Fij:   Bauan         bune(damu)           ‘Orange Dove, Ptilinopus victor‘
-                       buna(ko)             ‘Golden Dove, Ptilinopus luteovirens"
+  Fij:   Bauan         buna(ko)             ‘Golden Dove, Ptilinopus luteovirens"
+>
+
+
+                                                                             Birds   311
+
 
    Another very widespread set is also wide-ranging in its reference, though with a clear
 focus on genus Ducula, at least in Remote Oceanic languages.
 
+<
 POc *ku(i)ba ‘pigeon, probably Ducula sp.’
   PT:    Tawala         guba(lia)     ‘blue pigeon’
   PT:    Magori         gubai         ‘pigeon’
@@ -14406,8 +14407,7 @@ POc *ku(i)ba ‘pigeon, probably Ducula sp.’
   MM:    Marovo         (ba)kupa      ‘Nicobar Pigeon, Caloenas nicobarica‘
   MM:    Nduke          (ba)kupa      ‘Caloenas nicobarica"
   MM:    Roviana        (ba)kupa      ‘a pigeon’
-  SES:   Bauro          (wa)ubo       ‘Mackinlay’s Cuckoo Dove, Macropygia
-                                      mackinlayi‘
+  SES:   Bauro          (wa)ubo       ‘Mackinlay’s Cuckoo Dove, Macropygia mackinlayi‘
   NCV:   Matantas       na-whete      ‘Pacific Pigeon, Duculapacifica"
   NCV:   Kiai           wepe          ‘Ducula pacifica"
   NCV:   Neve’ei        no-yoim       ‘Ducula pacifica‘
@@ -14415,17 +14415,6 @@ POc *ku(i)ba ‘pigeon, probably Ducula sp.’
   NCV:   Tape           no-ywip       ‘Ducula pacifica"
   NCV:   Avava          wim           ‘Ducula pacifica"
   NCV:   Big Nambas     kut, wibi
-
-312   Ross Clark
-
-
-
-
-                            Figure 6.11   Duculapacificci, Pacific Pigeon
-
-
-
-
   NCV:    Nese          no-ydo              ‘Ducula pacifica"
   NCV:    Nasarian      na-xaimba           ‘Ducula pacifica"
   NCV:    SW Bay        no-Poimb            ‘Ducula pacifica"
@@ -14445,9 +14434,12 @@ POc *ku(i)ba ‘pigeon, probably Ducula sp.’
   Pn:     Tahitian      PuPupa              ‘Grey-green Fruit Dove, Ptilinopuspurpuratus"
   Pn:     Manihiki      kukupa              ‘wood dove’
   Pn:     Rarotongan    kukupa              ‘Rarotongan Fruit Dove, Ptilinopus rarotongensis‘
-  Pn:     Maori         kukupa              ‘New Zealand Pigeon, Hemiphaga
-                                            novaeseelandiae"
+  Pn:     Maori         kukupa              ‘New Zealand Pigeon, Hemiphaga novaeseelandiae"
+>
 
+312   Ross Clark
+
+                            Figure 6.11   Duculapacificci, Pacific Pigeon
 
 
 6.5.8.1 Imperial Pigeons (Ducula)
@@ -14455,16 +14447,11 @@ POc *ku(i)ba ‘pigeon, probably Ducula sp.’
 The best supported cognate set for this type of pigeon has a PAn antecedent, though the
 development of PAn *R to POc */ is not regular.
 
-    baRuj ‘dove, Ducula sp.’ (Blust 2002)
-PAn *
-    baluc ‘pigeon, Ducula sp.’
-POc *
+<
+PAn *baRuj ‘dove, Ducula sp.’ (Blust 2002)
+POc *baluc ‘pigeon, Ducula sp.’
   Adm: Mussau            balus            ‘dove sp.’(from Tok Pi sin?)
   Adm: Loniu             pan              ‘bird sp.’
-
-                                                                                  Birds    313
-
-
   Adm: Nyindrou        ban            ‘dove’
   Adm: Titan           (pim)pal       ‘pigeon’
   Adm: Lou             pol            ‘pigeon, dove: Ducula spp.’
@@ -14480,8 +14467,7 @@ POc *
   MM: Bali             balu           ‘dove’
   MM: Tigak            valus          ‘dove’
   MM: Patpatar         balus          ‘big black and white pigeon’
-  MM: Tolai            bəlu           ‘generic for pigeons, esp. Island Imperial Pigeon,
-                                      Ducula pistrinaria’
+  MM: Tolai            bəlu           ‘generic for pigeons, esp. Island Imperial Pigeon, Ducula pistrinaria’
   MM:       Nehan       baluh         ‘Ducula pistrinaria’
   MM:       Tinputz     banus         ‘Ducula spp.’
 cf. also:
@@ -14489,10 +14475,15 @@ cf. also:
    MM:      Simbo       ba(r)yu       ‘pigeon sp.’
    MM:      Maringe     balhi         ‘pigeon (generic)’
    MM:      Kia         babaluhu      ‘pigeon’
+>
+
+                                                                                  Birds    313
+
 
     Note that the New Georgia and Santa Isabel words listed under ‘cf. also’ reflect the wrong
 final consonant.
 
+<
 POc *bona ‘pigeon, Ducula sp.’
   MM: Tolai     bonbon                  ‘pigeon sp.’
   MM: Ramoaaina (kiiru) bonbon          ‘Island Imperial Pigeon, Duculapistrinaria
@@ -14501,20 +14492,18 @@ POc *bona ‘pigeon, Ducula sp.’
   NCV: Lakon    p''on                   ‘Pacific Pigeon, Duculapacifica’
   NCV: Raga     man-bona                ‘Ducula pacifica’’
   NCV: Apma     bihil-bon               ‘Ducula spp.’
-Probable borrowing from a North Vanuatu language:
+cf. also: Probable borrowing from a North Vanuatu language:
   Pn:    Pileni       nu- mbona     ‘pigeon’
+>
 
    Probably a local development of the above are the following Solomons forms reflecting
 *boRa.
 
+__pre__
     MM:     Nehan        bor           ‘Grey-breasted Quail Dove, Gallicolumba beccarii)
                                        and ground doves generally’
     MM:     Maringe      bora          ‘variety of balhu [pigeon] found in forest’
     MM:     Kia          bora          ‘Knob-billed Fruit Dove, Ptilinopus insolitus’
-
-314      Ross Clark
-
-
       SES:   Bugotu         bora            ‘pigeon’
       SES:   Gela           bola            ‘pigeon spp.’
       SES:   To’aba’ita     bola            ‘pigeon, probably Ducula sp.’
@@ -14522,11 +14511,15 @@ Probable borrowing from a North Vanuatu language:
       SES:   Kwaio          bola            ‘pigeon’
       SES:   ’Are’are       pora            ‘a pigeon’
 
+
+314      Ross Clark
+
+
    Like PPn *tu below, an undoubtedly imitative name, but locally focused on a single
 species:
 
-                    tutu ‘Baker’s Pigeon, Ducula bakerf 8
-Proto North Vanuatu *
+<
+Proto North Vanuatu *tutu ‘Baker’s Pigeon, Ducula bakerf [8]
   NCV:      Mota             (man)tut      ‘kind of Vanua Lava pigeon that cries tuf
   NCV:      Mwotlap         nu-tut
   NCV:      Lakon            tut
@@ -14534,13 +14527,14 @@ Proto North Vanuatu *
   NCV:      Wusi (Nokovula) (manu)tu
   NCV:      Matantas        (na-nohu)tu
   NCV:      Kiai            (mu)tu-(nu)tu (second name)
+>
 
    Although the following is in near-complementary distribution with POc *bune, and could
 almost be a metathetic development of it, Bauan at least contrasts the two terms.
 
+<
 PCP *ru(b,v)e ‘Pacific Pigeon, Duculapacifica‘
-  Fij:      Bauan          ruve            ‘Pacific Pigeon, Duculapacifica, or White-throated
-                                           Pigeon, Columba vitiensis"
+  Fij:      Bauan          ruve            ‘Pacific Pigeon, Duculapacifica, or White-throated Pigeon, Columba vitiensis"
   Pn:       Tongan        lupe
   Pn:       Niuean        lupe
   Pn:       Samoan        lupe
@@ -14553,24 +14547,21 @@ PCP *ru(b,v)e ‘Pacific Pigeon, Duculapacifica‘
   Pn:       Marquesan     ?upe             ‘Marquesas Pigeon, Ducula galeata"
   Pn:       Tahitian      rupe             ‘Society Islands Pigeon, Ducula aurorae"
   Pn:       Rarotongan    rupe
-  Pn:       Maori         rupe             ‘New Zealand Pigeon, Hemiphaga
-                                           novaeseelandiae"
-Probable Polynesian loans:
+  Pn:       Maori         rupe             ‘New Zealand Pigeon, Hemiphaga novaeseelandiae"
+cf. also: Probable Polynesian loans:
   TM: Burna           (te)lupe             ‘pigeon spp.’
   Mic: Kiribati       rupe                 ‘Micronesian Pigeon, Ducula oceanica
   Fij:   Rotuman      rupe(vao)            ‘bird sp.’ (vao ‘forest’)
-
-
+>
 
 [8] cf. PAn *tuRtuR 'resonant sound' (Blust 1995)
 
                                                                                       Birds    315
 
 
-
 6.5.8.2 Fruit Doves (Ptilinopus)
 
-
+<
 POc *g(a)umii ‘Fruit Dove, Ptilinopus sp.’
   NNG:      Yabem           (mop''goni     ‘dove’ (mo? ‘bird’)
   NNG:      Bing            gumgum
@@ -14582,17 +14573,17 @@ POc *g(a)umii ‘Fruit Dove, Ptilinopus sp.’
   NCV:      Neve’ei         (nav)goum      ‘large Tanna fruit dove’
   SV:       Lenakel         (təma)kum      ‘k. bird, likepunhua but larger’
   SV:       Kwamera         (təmə)kum      'Vopinharov. red-bellied fruit dove’
+>
 
-
+<
 Proto SE Solomonic *va(o,u) ‘Fruit Dove, Ptilinopus sp.’
-   SES:    Malango          (bela)vau     ‘Yellow-bibbed Fruit Dove, Ptilinopus
-                                          solomonensis) (female)’
+   SES:    Malango          (bela)vau     ‘Yellow-bibbed Fruit Dove, Ptilinopus solomonensis) (female)’
    SES:    To’aba’ita      fao            ‘dove sp., green with yellow breast’
-   SES:    Kwara’ae        fao            ‘bird sp., not very big, powdery-white like pigeon
-                                          (bola)‘
-                           fau            ‘Red-bibbed Fruit Dove, Ptilinopus viridis'
+   SES:    Kwara’ae        fao            ‘bird sp., not very big, powdery-white like pigeon (bola)‘
+   SES:    Kwara’ae        fau            ‘Red-bibbed Fruit Dove, Ptilinopus viridis'
+>
 
-
+<
 PNCV *vweru ‘Fruit Dove, Ptilinopus sp.’
   NCV:     Mota             wir             ‘a bird’
   NCV:     Vures            wiria           ‘Grey’s Fruit Dove, Ptilinopus greyii‘
@@ -14601,58 +14592,57 @@ PNCV *vweru ‘Fruit Dove, Ptilinopus sp.’
   NCV:     Naman            nu-vire         ‘bird sp.’
   NCV:     Tape             vwiri           ‘Ptilinopus greyii‘
   NCV:     Larevat          na-ver          ‘ Silver-shouldered Fruit Dove, Ptilinopus tannensis"
+>
 
-
-     tobaka ‘Fruit Dove, Ptilinopus sp.’
-PNCV *
+<
+PNCV *tobaka ‘Fruit Dove, Ptilinopus sp.’
   NCV: NE Ambae             tobaka         ‘Silver-shouldered Fruit Dove, Ptilinopus tannensis‘
   NCV:Kiai                  tipa           ‘Ptilinopus tannensis"
   NCV:Araki                 tipa           ‘Ptilinopus tannensis"
   NCV:Nese                  (novo)todak    ‘Ptilinopus tannensis"
   NCV:Nguna                 tokopea        ‘dove’
   NCV:S Efate               tokape         ‘ground dove, Chalcophaps‘
+>
 
-
-    (k,g)upuR ‘pigeon or dove’
-POc *
+<
+POc *(k,g)upuR ‘pigeon or dove’
   MM:       Patpatar        kuhur          ‘ground dove’
   MM:       Tolai           kuvur          ‘pigeon sp.’
   MM:       Nduke           kukuvu         ‘Island Imperial Pigeon, Ducula pistrinaria‘
-316    Ross Clark
-
-
   MM:      Roviana         kukuva          ‘small green dove sp.’
   SES:     Gela            kuvu            ‘pigeon sp., very small, yellowish breast’
   SES:     ’Are’are        kuvu            ‘a wood pigeon’
   SES:     Bauro           kuhui           ‘Red-bibbed Fruit Dove, Ptilinopus viridis'
+>
+
+316    Ross Clark
+
 
 6.5.8.3 Ground-feeding pigeons
 
 The following appears to be a local survival of a term reconstructible for PMP, but the glosses,
 even within the SE Solomonic subgroup, are confusingly diverse.
 
+<
 PMP *-muken ‘omen dove’ (Blust 2002)
 POc *((l,R)(a,u))mulCr>o ‘dove sp.’
   SES:     Gela            lumuko          ‘ground pigeon sp.’
-  SES:     Malango         muko            ‘Mackinlay’s Cuckoo Dove, Macropygia
-                                           mackinlay?
+  SES:     Malango         muko            ‘Mackinlay’s Cuckoo Dove, Macropygia mackinlay?
   SES:     Lau             lamoa           ‘dove’
-  SES:     Kwaio           lamu?o          ‘small red bird in mountainous interior, a ground
-                                           feeder’
-  SES:     Bauro           rumoyo          ‘Brown-backed Emerald Dove, Chalcophaps
-                                           stephanf
+  SES:     Kwaio           lamu?o          ‘small red bird in mountainous interior, a ground feeder’
+  SES:     Bauro           rumoyo          ‘Brown-backed Emerald Dove, Chalcophaps stephani'
+>
 
-
+<
 POc *butir ‘pigeon sp.’
   NNG:     Adzera      busir               ‘pigeon’
   NNG:     North Watut boser               ‘dove’
   PT:      Wedau       butura              ‘blue pigeon’
   MM:      Patpatar    buten               ‘imperial pigeon’
-  MM:      Nduke       buti                ‘Brown-backed Emerald Dove, Chalcophaps
-                                           stephan?
-  MM:      Roviana             buti        ‘bird like a small pigeon, brown breast, green back,
-                                           eats canarium nuts’
+  MM:      Nduke       buti                ‘Brown-backed Emerald Dove, Chalcophaps stephan?
+  MM:      Roviana             buti        ‘bird like a small pigeon, brown breast, green back, eats canarium nuts’
   NCV: N Ambrym                (min)buis   ‘large Tanna fruit dove’
+>
 
     An isolated Micronesian form appears as a possible cognate of this set, Kiribati pitin
 ‘ground dove, Gallicolumba sp.’. The exact species reference of the Kiribati term is unclear.
@@ -14661,19 +14651,14 @@ mama) about 1940 from some other Pacific island. Since none of the possible sour
 have words resembling bitin, it would seem much more likely that this name (phonetically
 [pisin]) is a borrowing from English pigeon.
 
-     m waRaki ‘Emerald Dove, Chalcophaps indiea' (John Lynch, pers. comm.)
-PSOc *
+<
+PSOc *m waRaki ‘Emerald Dove, Chalcophaps indiea' (John Lynch, pers. comm.)
   NCV:     Mota            m‘ara           ‘a dove’
   NCV:     Lakon           mwcercey
   NCV:     Raga            mwarayi
   NCV:     Matantas        na-mahi
   NCV:     Kiai            (vo)mae
   NCV:     Atchin          (wo)mere        ‘bird sp.
-
-                                                                                    Birds    317
-
-
-
   NCV:     Nam an    (vo)mar
   NCV:     Neve’ei   (na-v)mar
   NCV:     Tape      (na-v``i)mar
@@ -14687,19 +14672,24 @@ PSOc *
   NCV:     Namakir   mar          ‘ground dove’
   SV:      N Tanna   mwak         ‘dove’
   SV:      Kwamera   mak          ‘pigeon or dove (generic)’
+>
 
 
+                                                                                    Birds    317
+
+
+<
 PPn *tu ‘ground dove’
   Pn:      Tongan      til             ‘Friendly Quail Dove, Gallicolumba stair?
 PNPn *tu, *tu-kele ‘ground dove’
-  Pn:    E Futunan tu                 ‘Purple-capped Fruit Dove, Ptilinopus
-                                      porphyraceus‘
-                        tii-kele      ‘'Gallicolumba stair?
+  Pn:    E Futunan tu                 ‘Purple-capped Fruit Dove, Ptilinopus porphyraceus‘
+  Pn:    E Futunan      tii-kele      ‘'Gallicolumba stair?
   Pn:      Samoan       t?i-?aimeo    ‘Gallicolumba stairi (female and young)’
-                        tu-laulifa    ‘Gallicolumba stairi (male)’
+  Pn:      Samoan       tu-laulifa    ‘Gallicolumba stairi (male)’
   Pn:      Emae         tu-kere       ‘Emerald Dove, Chalcophaps indica‘
   Pn:      Imere        tu-kere       ‘Chalcophaps mdiea`
   Pn:      Maori        tu-kere       ‘bird sp. remembered in proverbs’
+>
 
 The absence of glottal stop in the Tongan and E Futunan forms shows that this name is likely
 imitative of the species’ voice, rather than derived from tu?u ‘stand’ (referring to the species’
@@ -14709,11 +14699,11 @@ on the ground’.
 
 6.5.8.4 Other species
 
+<
 POc *woku ‘Cuckoo Dove, Macropygia sp
   MM: Nakanai           (ka)voku    ‘bird sp.’
   MM: Tolai             (to)vok     ‘bird sp.’
-  MM: Banoni            boku        ‘Mackinlay’s Cuckoo Dove, Macropygia
-                                    mackinlay?
+  MM: Banoni            boku        ‘Mackinlay’s Cuckoo Dove, Macropygia mackinlay?
   MM:      Nduke        oku         ‘prob. Macropygia mackinlay?
   MM:      Simbo        voku        ‘bird sp.’
   SES:     Bugotu       (ka)vuku    ‘pigeon’
@@ -14721,17 +14711,18 @@ POc *woku ‘Cuckoo Dove, Macropygia sp
   SES:     Malango      (ka)vuku    ‘Ptilinopus sp.’
   SV:      Ura          (uvor)wok   ‘White-throated Pigeon, Columba vitiensis'
   SV:      Sye          (no-yol)woy ‘Columba vitiensis‘
+>
 
 318   Ross Clark
 
 
-                                                     qekmj ‘owl’, PWMP *
-Imitative naming is a high probability here; cf. PAn *bekur ‘coo, turtle
+Imitative naming is a high probability here; cf. PAn *qekmj ‘owl’, PWMP *bekur ‘coo, turtle
 dove’, PMP *bukaw ‘owl sp.’ (Blust 2002). The voice of AT. mackinlayi is represented as
 ‘kor-wu’ or ‘vo-ku’ (Hadden 2004a: 114). A metathetic variant is represented by Teop (MM)
 uvo Macropygia mackinlayi‘cf. Koiari (Papuan) kuvo ‘Lesser Bar-tailed Cuckoo Dove,
 Macropygia nigrirostris".
 
+<
 PSOc *taroap(\) ‘White-throated Pigeon, Columba vitiensis' (John Lynch, pers. comm.)
 PNCV *taroa ‘White-throated Pigeon, Columba vitiensis"
   NCV:    Mota       taroa             ‘pigeon sp.’
@@ -14750,10 +14741,10 @@ PNCV *taroa ‘White-throated Pigeon, Columba vitiensis"
   NCal    Fwai       dap
   NCal    Cemuhi     (iuid)-jdap       (iuid ‘New Caledonian Pigeon, Ducula goliath‘)
   NCal    Paici      (dea)jee
+>
 
-
-Proto North Vanuatu *
-                    toava ‘Mackinlay’s Cuckoo Dove, Macropygia mackinlayi‘
+<
+Proto North Vanuatu *toava ‘Mackinlay’s Cuckoo Dove, Macropygia mackinlayi‘
   NCV: Mwotlap         na-taap
   NCV: Vera’a         ?oava
   NCV: Vures          t&av
@@ -14762,59 +14753,55 @@ Proto Central Vanuatu *bwaueve ‘Mackinlay’s Cuckoo Dove, Macropygia mackinla
   NCV: SE Ambrym vueh
   NCV: Paamese         vouehe
   NCV: Namakir         tov         ‘long-tailed pigeon sp
+>
 
-    The following set undoubtedly owes something to imitation of typical pigeon ‘coo’ vocalizations—low pitched but with strong formant structure. Compare the Wayan Fijian name for
+    The following set undoubtedly owes something to imitation of typical pigeon ‘coo’
+vocalizations—low pitched but with strong formant structure. Compare the Wayan Fijian name for
 a species introduced from Asia in modern times: kukuru ‘Spotted-necked Dove, Streptopelia
 chinensis‘.
 
+<
 POc *(ku(r,l)u)ku(r,l)u ‘pigeon sp.’
   NNG:    Takia         kula-kulu               ‘pigeon sp.’
   PT:     Gapapaiwa     kuyu-kuyu               ‘fruit dove, Ptilinopus sp.?’
   PT:     Mekeo         kur                     ‘pigeon/dove’ (Schellong& Carolsfeld 1890)
   MM:     Nakanai       kuru                    ‘dove, pigeon’
-
-                                                                                Birds   319
-
-
   MM:       Ramoaaina kuru                   ‘a pigeon’ [Ducula,Macropygia\
-  MM:       Tolai     kur                    ‘Brown’s Long-tailed Pigeon, Reinwardtoena
-                                             browni‘
+  MM:       Tolai     kur                    ‘Brown’s Long-tailed Pigeon, Reinwardtoena browni‘
   MM:       Nehan       ku(i)lu              ‘pigeon/dove’ (Schellong& Carolsfeld 1890)
   MM:       Petats      kulu                 ‘the blue wild pigeon’
-  MM:       Halia       kulu                 ‘Island Imperial-Pigeon, Ducula pistrinaria,
-                                             or Red-knobbed Pigeon, Ducula rubricera‘
+  MM:       Halia       kulu                 ‘Island Imperial-Pigeon, Ducula pistrinaria, or Red-knobbed Pigeon, Ducula rubricera‘
   MM:       Torau       ku-kuru              ‘Ducula pistrinaria"
   MM:       Marovo      kuru-kuru            ‘Duculapistrinaria and similar spp.’
-  MM:       Nduke       ku-kuru (peka)       ‘k. fruit dove, similar to Ducula rubricera,
-                                             but lives in mountains’
-                        kuru                 ‘Ducula spp.’
+  MM:       Nduke       ku-kuru (peka)       ‘k. fruit dove, similar to Ducula rubricera, but lives in mountains’
+  MM:       Nduke       kuru                 ‘Ducula spp.’
   SES:      Gela        kuru-kuru            ‘white pigeon sp.’
   SES:      Malango     kulu-kulu            ‘Chestnut-bellied Pigeon, Ducula brenchleyi‘
-                        kuru-kuru            ‘Ducula rubricera"
+  SES:      Malango     kuru-kuru            ‘Ducula rubricera"
   SES:      Kwara’ae    kuru-kuru            ‘dove like bola but lives on the sea’
   SES:      Kwaio       kulu-kulu            ‘bird sp.’
-  SES:      Sa’a        kuru-kuru (ni Malau) ‘pigeon sp. without wattles on the beak’
-                                             (malau ‘island’, also place name)
-                        kolo-kolo            ‘Crested Long-tailed Pigeon, Reinwardtoena
-                                             crassirostris‘
+  SES:      Sa’a        kuru-kuru (ni Malau) ‘pigeon sp. without wattles on the beak’ (malau ‘island’, also place name)
+  SES:      Sa’a        kolo-kolo            ‘Crested Long-tailed Pigeon, Reinwardtoena crassirostris‘
   SES:      Ulawa       kuru-kuru            ‘wood pigeon (generic)’
   SES:      Uki ni Masi kuru-kuru (ni wapu) ‘Ducula brenchleyi‘ (wapu ‘forest’)
-  Fij:      Bauan       kulu(votu)           ‘Many-coloured Fruit Dove, Ptilinopus
-                                             perousii‘
-                        gilu                 ‘Friendly Quail Dove, Gallicolumba stairii"
-  Pn:       Tongan      kulu-kulu            ‘Purple-capped Fruit Dove, Ptilinopus
-                                             porphyraceus"
+  Fij:      Bauan       kulu(votu)           ‘Many-coloured Fruit Dove, Ptilinopus perousii‘
+  Fij:      Bauan       gilu                 ‘Friendly Quail Dove, Gallicolumba stairii"
+  Pn:       Tongan      kulu-kulu            ‘Purple-capped Fruit Dove, Ptilinopus porphyraceus"
   Pn:       Niuean      kulu-kulu            ‘Ptilinopus porphyraceus"
   Pn:       E Uvean     kulu-kulu            ‘Ptilinopus porphyraceus"
   Pn:       Emae        kulu-kulu            ‘Ptilinopus spp.’
 cf. also:
    NNG: Gedaged         kududuk               ‘bird like small dove, bluish green’
+>
 
 
+                                                                                Birds   319
+
+
+<
 POc *kurau ‘pigeon sp.’
   NNG: Poeng            kulao           ‘great cuckoo-dove’
-  MM Nduke              kuratu          ‘Pale Mountain Pigeon, Gymnophaps solomonensis
-                                        (-t- unexplained)
+  MM Nduke              kuratu          ‘Pale Mountain Pigeon, Gymnophaps solomonensis (-t- unexplained)
   MM:       Vangunu     kərao           ‘red-knobbed pigeon’
   SES:      Gela        kura-kurau      ‘green and white pigeon sp. with red crest’
   SES:      Tolo        kuau            ‘bird sp. which feeds on nuts’
@@ -14823,41 +14810,40 @@ POc *kurau ‘pigeon sp.’
   SES:      Sa’a        urou            ‘wood pigeon with large wattles’
 cf. also:
    SES:     Bauro       kuvwau          ‘Red-knobbed Pigeon, Ducula rubricera‘
+   SES:     Bauro       kuvwau (mano) ‘White-throated Pigeon, Columba vitiensis’
+  Pn:       Rennellese   kiou          ‘small Ducula sp.’ (borrowed from a SES language)
+>
 
 320      Ross Clark
 
 
-                         kuvwau (mano) ‘White-throated Pigeon, Columba vitiensis’
-  Pn:       Rennellese   kiou          ‘small Ducula sp.’ (borrowed from a SES language)
-
-
-     belik(e,i)o ‘pigeon sp.’
-PEOc *
+<
+PEOc *belik(e,i)o ‘pigeon sp.’
   SES: Gela           belikokeo        ‘pigeon sp., black with red beak’
   NCV:  Naman         beligio
   NCV: Neve’ei        ni-bwiligio
   NCV: Larevat        balgio
   NCV: Nese           na-ble
+>
 
-
+<
 PROc *soge ‘pigeon sp.’
   NCV: Nasarian      nti-so’g          ‘black pigeon of the mountains’
   Fij:  Bauan        soge              ‘Peak’s Pigeon, Ducula latrans‘
-                     soge(loa)         ‘White-throated Pigeon, Columba vitiensis' (loa
-                                       ‘black’)
+  Fij:  Bauan        soge(loa)         ‘White-throated Pigeon, Columba vitiensis' (loa ‘black’)
   Fij:      Wayan        soge          ‘Peak’s Pigeon, Ducula lalrans'
+>
 
-
+<
 POc *b‘aruruk ‘pigeon or dove sp.’
   NNG: Takia             pururuk       ‘pigeon sp.’
-  SES: Malango           (manu) pururu ‘Brown-backed Emerald Dove, Chalcophaps
-                                       stephanf
+  SES: Malango           (manu) pururu ‘Brown-backed Emerald Dove, Chalcophaps stephani'
   SES:      Sa’a         (ta)pwaruru   ‘bronze-wing dove’
-  SES:      Bauro        bworoau       ‘Crested Long-tailed Pigeon, Reinwardtia
-                                       erassiroslris'
+  SES:      Bauro        bworoau       ‘Crested Long-tailed Pigeon, Reinwardtia erassiroslris'
   NCV: Nguna             pworuru       ‘to coo’
 cf. also:
    MM:      Tolai        bilul            ‘Nicobar Pigeon, Caloenas nicobarica’’
+>
 
     Possibly cognate are forms in SHWNG languages (Ansus mambaru, Biak mambruk) referring to the Crowned Pigeons (Goura spp.) (Anceaux 1961).
 
@@ -14873,19 +14859,22 @@ Oceania. Among other middle-sized parrots are the Cardinal Lory (Chalcopsitta ca
 the Purple-bellied Lory (Lorins hypoinochrous) and the Singing Parrot (Geoffroyus hetero-
 elitus'). Smaller parrots include two Lorikeets of the genus Charmosyna, which, along with
 the closely related genus Vini, are found as far as eastern Polynesia. Smallest of all are the
+Pygmy Parrots of genus Micropsitta and the Orange-fronted Hanging Parrot (Loriculus aurantiifrons).
+For the last (which is found no further east than New Guinea) not a single name
+was found in any of the sources.
 
                                                                                    Birds    321
 
 
-Pygmy Parrots of genus Micropsitta and the Orange-fronted Hanging Parrot (Loriculus au-
-rantiifrons). For the last (which is found no further east than New Guinea) not a single name
-was found in any of the sources.
 
 6.5.9.1 Cockatoos
+
 Only Papuan Tip languages supply sufficient cognates to support reconstructions for these
-birds. That the first term may be traceable to POc, however, is suggested by possible cognates in SHWNG languages such as Ansus kara, Serui-Laut karai., Ambai kara ‘cockatoo’
+birds. That the first term may be traceable to POc, however, is suggested by possible cognates
+in SHWNG languages such as Ansus kara, Serui-Laut karai., Ambai kara ‘cockatoo’
 (Anceaux 1961).
 
+<
 PPT *karai ‘white cockatoo’
   PT       Wagawaga         kehoi
   PT       Dobu             keyoi
@@ -14893,40 +14882,39 @@ PPT *karai ‘white cockatoo’
   PT       Sinaugoro        karai
   PT       Hula             kalai
   PT:      Motu             karai        ‘cockatoo’
+>
 
+<
 
-    kwakawe
-PPT * akeke^                  ‘Sulphur-crested Cockatoo, Cacatua galerita‘
+PPT *kwakawe akeke^                  ‘Sulphur-crested Cockatoo, Cacatua galerita‘
   PT:      Tubetube         wakeke       ‘cockatoo’
   PT:      Suau             wakeke       ‘cockatoo’
   PT:      Iduna            kakawe
   PT:      Bwaidoga         kakawe       ‘white cockatoo’
-                            wakeke       (northern dialect)
+  PT:      Bwaidoga         wakeke       (northern dialect)
   PT:   Roro                iaveiave     ‘white cockatoo’
   PT:   Mekeo               aveave       ‘bird sp.’
-Compare perhaps:
+cf. also: Compare perhaps:
   MM: Nduke                 vak’voa      ‘Ducorps Cockatoo, Cacatua ducorps‘
   MM: Maringe               veya         "Cacatua ducorps"
-
+>
 
 
 6.5.9.2 The Eclectus Parrot
 
-This large parrot (Eclectus roratus) is most notable for its sexual dimorphism, with the predominantly red-plumaged female and green-plumaged male sometimes being separately lex-
+This large parrot (Eclectus roratus) is most notable for its sexual dimorphism, with the
+predominantly red-plumaged female and green-plumaged male sometimes being separately lex-
 icalised. The first two reconstructions are similar in form, and appear to refer to the male.
 Unfortunately, sources for the few languages that reflect both the shorter and longer term are
 unhelpful as to the distinction of meaning. Apparent reflexes of the first reconstruction extend
 well beyond the range of the Eclectus, and are applied to various other species, eventually
 reaching as far as New Zealand.
 
+<
 POc *kaRa ‘male Eclectus Parrot, Eclectus roratus’’
   NNG: Yabem                 kala?         ‘the green male parrot’
   NNG: Bariai                kala          ‘parrot’
   NNG: Kove                  kaha          ‘parrot’
-
-322     Ross Clark
-
-
   NNG:     Lusi         kara           ‘parrot’
   NNG:     Kilenge      ( ai)kala      ‘parrot’
   MM:      Halia (Haku) kala-kala      ‘Eclectus Parrot’
@@ -14935,8 +14923,7 @@ POc *kaRa ‘male Eclectus Parrot, Eclectus roratus’’
   MM:      Roviana      kara           ‘general name for parrots’
   MM:      Simbo        (ma)kara       ‘Eclectus roratus'
   MM:      Kia          (ma)kara       ‘green parrot’
-  MM:      Maringe      (ma)k(h)ara    ‘Eclectus roratus' (Webb 1992), ‘green parrot’
-                                       (Tryon 1995)
+  MM:      Maringe      (ma)k(h)ara    ‘Eclectus roratus' (Webb 1992); ‘green parrot’ (Tryon 1995)
   SES:     Gela          kalao         ‘green parrot sp.’
   SES:     To’aba’ita    a-?ala        ‘Eclectus roratus'
   SES:     Kwaio         a-Pala        ‘Eclectus roratus'
@@ -14947,11 +14934,14 @@ POc *kaRa ‘male Eclectus Parrot, Eclectus roratus’’
   Fij:     Bauan         ka-ka         ‘Shining Parrot, Prosopeia spp.’
   Fij:     Wayan         ka-ka         ‘possibly Collared Lory, Phigys solHarins'
   Pn:      Tongan        ka-ka         ‘Red Shining Parrot, Prosopoeia labuensis'
-  Pn:      Tahitian      (e)?a-?a      ‘green parrot sp. with red forehead’ (Forster 1775)
-                                       [probably Cyanoramphus sp.]
+  Pn:      Tahitian      (e)?a-?a      ‘green parrot sp. with red forehead’ (Forster 1775) [probably Cyanoramphus sp.]
   Pn:      Maori         ka-ka         ‘parrot spp.’
+>
 
 
+322     Ross Clark
+
+<
 PWOc *ka(l,R)aija(r,R) ‘male Eclectus Parrot, Eclectus roratus'
   NNG      Bariai         kalaŋa-n        ‘parrot’
   NNG      Kove           kahaŋa-ni       ‘parrot’
@@ -14963,8 +14953,7 @@ PWOc *ka(l,R)aija(r,R) ‘male Eclectus Parrot, Eclectus roratus'
   NNG      Kaulong        (ekiŋ) kalaŋ    ‘parrot’
   NNG      Lamogai        kalaŋa          ‘parrot’
   NNG      Sengseng       kahalaŋ         ‘parrot’
-  NNG      Mengen (Poeng) keratia         ‘Eclectus Parrot; parakeet (?) likes corn, banana,
-                                          papaya’
+  NNG      Mengen (Poeng) keratia         ‘Eclectus Parrot; parakeet (?) likes corn, banana, papaya’
   PT:      Bwaidoga         anegala       ‘parrot sp.’
   PT:      Tawala           kanagala      ‘parrot’
   PT:      Wedau            kanagara      ‘parrot’
@@ -14973,10 +14962,6 @@ PWOc *ka(l,R)aija(r,R) ‘male Eclectus Parrot, Eclectus roratus'
   PT:      Balawaia         yalaga        ‘parrot’
   PT:      Hula             alaka         ‘green lorikeet’
   PT:      Mekeo            alaŋa         ‘common green parrot, female red’
-
-                                                                                  Birds   323
-
-
   MM:     Vitu              yakuja          ‘Eclectus roratus’
   MM:     Nakanai           kalaŋan         ‘Eclectus roratus’
   MM:     Tab ar            garagar         ‘Eclectus roratus’
@@ -14985,8 +14970,12 @@ PWOc *ka(l,R)aija(r,R) ‘male Eclectus Parrot, Eclectus roratus'
   MM:     Nehan             kalaŋara        ‘Eclectus Parrot’
   MM:     Petats            kanakana        ‘large green fruit-eating parrot’
   MM:     Banoni            karaka          ‘male Eclectus Parrot’
+>
 
 
+                                                                                  Birds   323
+
+<
 POc *k'‘'ilo(ki) ‘female Eclectus Parrot’
   PT:    Balawaia      kiloki         ‘dark green bird sp.’
   PT:    Hula          kiloki         ‘lovebird’
@@ -14996,16 +14985,17 @@ POc *k'‘'ilo(ki) ‘female Eclectus Parrot’
   SES:   Gela          kilo           ‘red parrot sp.’
   SES:   Longgu        kilo           ‘red parrot (female)’
   SES:   To’aba’ita    kiro           ‘female Eclectus’
-  SES:   Kwaio         (liko-liko     ‘Yellow-bibbed Lory, Lorius chlorocercus’
-                                      (metathesis)
+  SES:   Kwaio         (liko-liko     ‘Yellow-bibbed Lory, Lorius chlorocercus’ (metathesis)
   SES:   ’Are’are      riko-riko      ‘a parrot, tamed as a pet’ (metathesis)
   SES:   Sa’a          ilo-ilo?a      ‘large red parrot, female of ?aʔa’
   SES:   Arosi         riko-riko      ‘a parrot, tamed as a pet’ (metathesis)
+>
 
     The following term may also be associated with Eclectus. Cf. POc *keRaij ‘hawksbill
 turtle’ (ch. 5, 250), a name which is eventually re-applied to a parrot in New Zealand (Maori
 kea ‘Nestor nolabilis`).
 
+<
 POc *kiRak ‘parrot sp.’
   PT:    Gapapaiwa     kira-kiraka
   PT:    Wedau         kira-kirako    ‘parrot’
@@ -15020,6 +15010,7 @@ POc *kiRak ‘parrot sp.’
   SES:   Kwara’ae      kila           ‘palm lorikeet (green, yellow, red)’
   SES:   Sa’a          kile-kile      ‘Rainbow Lory, Trichoglossus haematodus’
   SES:   Arosi         kira-kira      ‘small green parrot’
+>
 
 324    Ross Clark
 
@@ -15035,8 +15026,8 @@ species and any of these forms. Beyond the Solomons, the first two species disap
 these terms are applied to Trichoglossus, or in New Caledonia to the parakeets of genus
 Cyanoramphus.
 
-POc *sipi(r,R)i ‘Rainbow Lory, Trichoglossus haematodus, or Cardinal Lory, Chalcopsitta
-  eardinalis'
+<
+POc *sipi(r,R)i ‘Rainbow Lory, Trichoglossus haematodus, or Cardinal Lory, Chalcopsitta eardinalis'
   Adm Lou                sipir          ‘parrot-like bird’
   NNG : Takia            siwir          ‘ Trichoglossus haematodus'
   PT:    Balawaia        rivili         ‘small green parrot’
@@ -15045,36 +15036,31 @@ POc *sipi(r,R)i ‘Rainbow Lory, Trichoglossus haematodus, or Cardinal Lory, Cha
   MM: Teop               subiri         'Chalcopsitta cardinahs'
   SES: Bugotu            siviri         ‘red parrot’
   TM: Burna              vili           ‘Palm Lorikeet and Rainbow Lorikeet’
-  NCV:Mota               sivure         ‘a parrot’
-  NCV:Nume               (we)svur       ‘ Trichoglossus haematodus'
-  NCV:Raga               siviru         1 Trichoglossus haematodus'
-  NCV:Neve’ei            ni-n-sivir     1 Trichoglossus haematodus'
-  NCV:Nese               ni-civir       1 Trichoglossus haematodus'
-  NCV:Nasarian           na-sivara      1 Trichoglossus haematodus'
-  NCV:Labo               ni-sivaxa      1 Trichoglossus haematodus'
-  NCV:Port Sandwich sivir               1 Trichoglossus haematodus'
-  NCV:Lewo               leviri         ‘parrot sp., red with green neck’
-  NCV:Nguna              siviri         ‘parrot sp., red chest, green and yellow wings’
+  NCV: Mota               sivure         ‘a parrot’
+  NCV: Nume               (we)svur       ‘ Trichoglossus haematodus'
+  NCV: Raga               siviru         1 Trichoglossus haematodus'
+  NCV: Neve’ei            ni-n-sivir     1 Trichoglossus haematodus'
+  NCV: Nese               ni-civir       1 Trichoglossus haematodus'
+  NCV: Nasarian           na-sivara      1 Trichoglossus haematodus'
+  NCV: Labo               ni-sivaxa      1 Trichoglossus haematodus'
+  NCV: Port Sandwich sivir               1 Trichoglossus haematodus'
+  NCV: Lewo               leviri         ‘parrot sp., red with green neck’
+  NCV: Nguna              siviri         ‘parrot sp., red chest, green and yellow wings’
   SV:    Kwamera         sivur          ‘ Trichoglossus haematodus'
-  NCal Pije              diwali         ‘Red-fronted Parakeet, Cyanoramphus
-                                        novaezelandiae'
-  NCal Nengone           sipih          ‘parrot (red)’
+  NCal: Pije              diwali         ‘Red-fronted Parakeet, Cyanoramphus novaezelandiae'
+  NCal: Nengone           sipih          ‘parrot (red)’
   Pn:    Rennellese      sivigi         ‘Lorius chlorocercus'
 cf. also:
-   MM:      Nduke              sivoro     ‘Yellow-bibbed Lory, Lorius chlorocercus and
-                                          Duchess Lorikeet, Charmosyna margarethae'
+   MM:      Nduke              sivoro     ‘Yellow-bibbed Lory, Lorius chlorocercus and Duchess Lorikeet, Charmosyna margarethae'
   MM:       Roviana            sivoro     ‘parrot sp. like rosella’
   MM:       Maringe            sivoro     ‘ Trichoglossus haematodus'
+>
 
-
+<
 POc *sipi ‘parrot, perhaps Cardinal Lory, Chalcopsitta cardinalis'
   Adm: Loniu                 cihi       ‘small parrot’
   NNG: Sengseng              susu       ‘parrot’
   PT:  Mekeo                 ufi        ‘mountain parrot sp., blue, prized for its plumes’
-
-                                                                               Birds     325
-
-
   MM:    Nehan         sipih          ‘ Chai'copsitta cardirialis'
   SES:   Bugotu        sivi           ‘parrot sp.’
   SES:   Gela          suisui         ‘a red parakeet in coconuts’
@@ -15083,65 +15069,61 @@ POc *sipi ‘parrot, perhaps Cardinal Lory, Chalcopsitta cardinalis'
   SES:   Bauro         sivi           ‘scarlet parrot sp.’
   NCV:   Dorig         siv            ‘ Trichoglossus haematodus'
   NCV:   Raga          sivi           ‘Lorius, Trichoglossus haematodus'
-  NCV:   Matantas      na-civi        ‘ Trichoglossus haematodus and Palm Lorikeet,
-                                      Charmosyna palmarum'
+  NCV:   Matantas      na-civi        ‘ Trichoglossus haematodus and Palm Lorikeet, Charmosyna palmarum'
   NCV: Atchin          na-si          ‘parrot sp.’
-                       siel           ‘parrot sp.’
+  NCV: Atchin          siel           ‘parrot sp.’
   NCV:    Nam an       ni-ncsv        ‘ Trichoglossus haematodus'
   NCV:    Paamese      siho           ‘parrot’
   Pn:     Takuu        sivi           ‘ Chalcopsitta eardinalis'
   Pn:     Luangiua     sivo           ‘red parrot’
   Pn:     Tikopia      sivi           ‘ Trichoglossus haematodus'
+>
 
 
+                                                                               Birds     325
+
+<
 POc *siri ‘parrot, perhaps Cardinal Lory, Chalcopsitta cardinal!s'
-  PT:    Wedau         tiri(rama),    ‘long-tailed parrot sp.’
-                         siri(rama)
+  PT:    Wedau         tiri(rama), siri(rama)    ‘long-tailed parrot sp.’
   MM:    Mono-Alu      (ulu)sili      ‘red parrot’
-  MM:    Marovo        ciri           ‘Charmosyna sp. (?) and small parrots generally’
-                                      (also modified = Trichoglossus)
+  MM:    Marovo        ciri           ‘Charmosyna sp. (?) and small parrots generally’ (also modified = Trichoglossus)
   MM:    Nduke         siri nabo      ‘Chalcopsitta eardinalis'
   MM:    Roviana       siri           ‘red parakeet sp.’
   MM:    Simbo         siri           ‘red bird sp. that eats coconut’
   SES:   Gela          siri           ‘small red parrot sp.’
   SES:   Malango       ciciri         ‘ Chalcopsitta eardinalis'
-                       (kolo)eiri     ‘Charmosyna spp.’
+  SES:   Malango       (kolo)eiri     ‘Charmosyna spp.’
   SES:   Longgu        suri           ‘noisy parrot, lives in coconut trees’
   SES:   To’aba’ita    suri(aoa)      ‘parrot sp.’
-                       su-suri        ‘parrot sp.’
+  SES:   To’aba’ita    su-suri        ‘parrot sp.’
   SES:   Lau           siri           ‘small bird sp.’
-                       siru           Tong tailed bird sp.’
+  SES:   Lau           siru           Tong tailed bird sp.’
   SES:   Kwaio         suli(ke)       ‘Rainbow Lory, Trichoglossus haematodus'
   SES:   ’Are’are      siri           ‘red hen parrot’
   SES:   Sa’a          siri           ‘a parrot’
-                       siri (alaha)   ‘Yellow-bibbed Lory, Lorius chlorocercus' (alaha
-                                      ‘chief’)
-                       siri (u?u)     ‘a lory that hangs head downward’ (u?u ‘hang
-                                      down’)
+  SES:   Sa’a           siri (alaha)   ‘Yellow-bibbed Lory, Lorius chlorocercus' (alaha ‘chief’)
+  SES:   Sa’a           siri (u?u)     ‘a lory that hangs head downward’ (u?u ‘hang down’)
   SES:   Uki ni Masi siri             ‘ Chalcopsitta eardinalis'
   SES:   Arosi       siri             ‘ Chalcopsitta eardinalis'
-                     sire             ‘small parrot sp.’
-
-326    Ross Clark
-
-
+  SES:   Arosi        sire             ‘small parrot sp.’
   NCV:     Sara         ne-ssere          (Flux 1993)
   NCal:    Tinrin       diria             ‘parrot’
   NCal:    Xaracuu     jiria              ‘ Trichoglossus haematodus'
-  NCal:    Drubea      jirid              ‘Red-fronted Parakeet, Cyanoramphus
-                                          novaezelandiae1
+  NCal:    Drubea      jirid              ‘Red-fronted Parakeet, Cyanoramphus novaezelandiae1
 cf. also:
    Mic: Ponapean        seret             ‘Ponape Lory, Trichoglossus ruhiginosus'
-   Mic: Mokilese        ceret             ‘ Trichoglossus rubiginosus’
+   Mic: Mokilese        ceret             ‘Trichoglossus rubiginosus’
    Pn:    Nukuoro       serete            ‘parakeet’
+>
 
 
+326    Ross Clark
+
+<
 POc *p'iri(p) ‘parrot sp.’
   MM:      Nduke        vili(sulu)        ‘Rainbow Lory, Trichoglossus haematodus’
-  MM:      Roviana      vili(suru)        ‘small noisy greenish bird often found at coconut
-                                          and Barringtonia blossoms’
-  TM:      Burna        vili              ‘ Trichoglossus haematodus and Palm Lorikeet,
-                                          Charmosyna palmarlink
+  MM:      Roviana      vili(suru)        ‘small noisy greenish bird often found at coconut and Barringtonia blossoms’
+  TM:      Burna        vili              ‘ Trichoglossus haematodus and Palm Lorikeet, Charmosyna palmarlink
   NCV:     N Efate     vini
   SV:      Ura         ule                ‘coconut lory’
   SV:      Sye         ure                ‘ Trichoglossus haematodus’
@@ -15151,48 +15133,48 @@ POc *p'iri(p) ‘parrot sp.’
   Pn:      Samoan      vilu               ‘a large parroquet’
   Pn:      Pileni      vili               ‘parrot’
   Pn:      Tahitian    vini               ‘Tahitian Lory, Viniperuviana’
+>
 
-
+<
 Proto Malaita-Makira *kirori ‘parrot sp.’
   SES:     Lau          kirori         ‘parrot sp.’
   SES:     ’Are’are     irori          ‘a parrot’
-                        kirori         ‘a parrot, finding its food specially on the blossoms
-                                       of coconut trees; tamed as pets’
+  SES:     ’Are’are     kirori         ‘a parrot, finding its food specially on the blossoms of coconut trees; tamed as pets’
   SES:     Sa’a         kirori, ?irori ‘Cardinal Lory, Chalcopsitta cardinalis’
   SES:     Arosi        kirori         ‘ Chalcopsitta cardinalis’
-
+>
 
 
 6.5.9.4 Small parrots
 
 The small parrots of closely related genera Charmosyna and Vini are referred to by two possibly not independent etyma.
 
+<
 POc *(ka)reijas ‘small parrot sp.’
-  Adm:     Loniu                 kdik:ŋ        ‘parrot sp.’
-  Adm:     Nyindrou              karen         ‘parrot’
-  Adm:     Titan                 kareŋ         ‘red parrot, Agapornis roseicollis’
-  Adm:     Lou                   kareŋ         ‘red parrot’
-
-                                                                                   Birds   327
-
-
-
+  Adm:     Loniu          kdik:ŋ        ‘parrot sp.’
+  Adm:     Nyindrou       karen         ‘parrot’
+  Adm:     Titan          kareŋ         ‘red parrot, Agapornis roseicollis’
+  Adm:     Lou            kareŋ         ‘red parrot’
   NNG:      Yabem         (mpndeij      ‘female red parrot’
   NNG:      Bing          (iri)reŋ      ‘Emerald Lorikeet, Neopsittacuspullicauda‘
   MM:       Petats        re/jis        ‘the small red honey-eating parrot’
   MM:       Tinputz       rcages        ‘Rainbow Lory, Trichoglossus haematodus‘
   NCV:      Mota          reŋa          ‘a parrot’
-                          reŋas         ‘Palm Lorikeet, Charmosynapalmarum’
+  NCV:      Mota          reŋas         ‘Palm Lorikeet, Charmosynapalmarum’
   NCV: Mwotlap            na-iŋes       'Charmosyna palmar urn1
   NCV: Raga               deŋasi        'Charmosyna palmar urn1
   NCV: Wusi (Nokovula) (de)deŋa         'Charmosyna palmarum1
   NCV: SE Ambrym          reŋ           ‘Charmosyna palmar urn"
-Probable loanword from a North-Central Vanuatu language:
-  Pn:     Tikopia         leŋa          ‘Duchess Lorikeet, Charmosyna margarethae,
-                                        also Cardinal Honeyeater, Myzomela cardinal!s'
+cf. also: Probable loanword from a North-Central Vanuatu language:
+  Pn:     Tikopia         leŋa          ‘Duchess Lorikeet, Charmosyna margarethae, also Cardinal Honeyeater, Myzomela cardinal!s'
+>
+
+                                                                                   Birds   327
+
 
 The Titan gloss is subject to question, as the lovebirds (Agapornis spp.) are native to Africa.
 
+<
 POc *seŋa ‘parrot sp.’
   NNG:      Manam        seŋ              ‘parrot’
   MM:       Nehan        seij             ‘Rainbow Lory, Trichoglossus haematodus
@@ -15205,42 +15187,33 @@ POc *seŋa ‘parrot sp.’
   Pn:       Samoan       seŋa(vao)        " Vini australis"
   Pn:       Nukuria      te-hena          " Trichoglossus haematodus"
   Pn:       Pileni       eŋa              ‘land bird sp.’
-
+>
 
 
 6.5.9.5 Other parrot species
 
-POc          ,g)i(l,n)e ‘Singing Parrot, Geoffroyus heleroehlus'
+POc        *(k(w),g)i(l,n)e ‘Singing Parrot, Geoffroyus heleroehlus'
   MM:       Tolai            ŋini-ŋd     ‘Geoffroyus heteroclitus"
-                             gili-gil    ‘small green parrot sp.’
-                             gini-gil    ‘sea bird allied to parrots’
+  MM:       Tolai                gili-gil    ‘small green parrot sp.’
+  MM:       Tolai                gini-gil    ‘sea bird allied to parrots’
   MM Tinputz                 ki-kire
-  MM Nduke                   ki-kine
-                                   ‘Red-breasted Pygmy Parrot, Micropsitta bruijnii‘
-  MM Roviana                 kine-kine
-                                   ‘a parakeet, sometimes tamed and trained to speak
-  SES Bugotu                 kie-kihe
-                                   ‘a green parrot’
-  SES Gela                   kine-kine
-                                   ‘green parrot’
+  MM Nduke                   ki-kine ‘Red-breasted Pygmy Parrot, Micropsitta bruijnii‘
+  MM Roviana                 kine-kine ‘a parakeet, sometimes tamed and trained to speak
+  SES Bugotu                 kie-kihe ‘a green parrot’
+  SES Gela                   kine-kine ‘green parrot’
   SES Malango                kina
   SES To’aba’ita             kila-kila
   SES Bauro                  yinai
-A loan from a Southeast Solomonic language:
+cf. also: A loan from a Southeast Solomonic language:
   Pn:    Rennellese y/'/rc/        ‘Finsch’s Pygmy Parrot, Micropsitta finsehii'
+>
 
 328      Ross Clark
 
-
-
-
                           Figure 6.12   Phigys solitarius, Collared Lory
 
-
-
-
-POc *
-    marewe ‘parrot’
+<
+POc *marewe ‘parrot’
   MM Nakanai           marea                 ‘parrot’
   MM Tolai             malip                 ‘Purple-bellied Lory, Lorins hypoinochrous'
   MM Ramoaaina         marewe                ‘'Lorins hypoinochrous'
@@ -15249,21 +15222,23 @@ POc *
   MM Torau             marii                 ‘bird (generic)’
   NCV: Wusi (Nokovula) maramarei             ‘Palm Lorikeet, Charmosynapalmarum'
   NCV: Atchin          mwer                  ‘parrot sp.’
+>
 
-
+<
 PCP *kula ‘Collared Lory, Phigys solitarius'
   Fij:      Bauan        kula
-  Pn:       Tongan       kula           ‘bird sp.’ (Churchward) ‘possibly Cardinal
-                                                     Myzomela eardinalis' (Carlson 1974)
+  Pn:       Tongan       kula           ‘bird sp.’ (Churchward); ‘possibly Cardinal Myzomela eardinalis' (Carlson 1974)
   Pn:       Marquesan ku?a              ‘bird sp.’
   Pn:       Tuamotuan kura              ‘bird sp. highly prized for its plumage’
   Pn:       Rarotongan kura(mo?o)       ‘Tahitian Lory, Viniperuviana'
-Polynesian borrowing (the species is a recent introduction from the Austral Islands):
+cf. also: Polynesian borrowing (the species is a recent introduction from the Austral Islands):
   Mic: Kiribati       kura           ‘Kuhl’s Lory, Vini kuhlii'
+>
 
 The renown of this parrot’s feathers has produced a range of extended meanings, beyond bird
 names, as in PPn *kula ‘(bright) red’ and the following:
 
+__pre__
    Pn:       Tikopia      kura          ‘honored; of ritual value’
    Pn:       W Uvean      kula          ‘flying fox fur’
    Pn:       Pukapukan    (wulu) kula   ‘red feathers from western islands’ (wulu ‘feathers’)
@@ -15271,14 +15246,11 @@ names, as in PPn *kula ‘(bright) red’ and the following:
    Pn:       Marquesan    kuwa          ‘red, applied to feathers, cloth etc. imported to the
                                         islands, also to the scarlet berries or peas used in
                                         their ornaments’ (Crook et al. 1799)
-
-                                                                                 Birds      329
-
-
    Pn:    Tahitian     ?ura            ‘red feathers, formerly sacred to the gods’
    Pn:    Maori        kura            ‘red feathers; ornamented with feathers; precious,
                                        treasure’
 
+                                                                                 Birds      329
 
 
 6.5.10 Cuckoos (Cuculidae)
@@ -15289,21 +15261,21 @@ namis and Scythrops, and two Coucals of the genus Centropus. Names recorded, how
 far fewer than for the parrots with a comparable number of species. Only one small cognate
 set of Proto Oceanic scope has been found.
 
+<
 POc *seke ‘cuckoo, possibly Centropus sp.’
   MM: Patpatar         sek            ‘cuckoo’
   MM: Nduke            heye-heye      ‘Centropus sp.’
   SES: Malango         sege           ‘Buff-headed Coucal, Centropus milo (imm)’
+>
 
-
-     lVvusi ‘cuckoo’ (John Lynch, pers. comm.)
-PSOc *
+<
+PSOc *lVvusi ‘cuckoo’ (John Lynch, pers. comm.)
   NCV: Raga           hvusi-yala      ‘Long-tailed Koel, Urodynamis taitensis’
-  NCV: Matantas       ri-risive(re)   ‘Golden-Bronze Cuckoo, Chalcites hieidus'
-                                      (metathesis)
+  NCV: Matantas       ri-risive(re)   ‘Golden-Bronze Cuckoo, Chalcites hieidus' (metathesis)
   SV:    Kwamera      ia-rovəs        ‘ Urodynamis taitensis’ (metathesis)
+>
 
-
-
+<
 PCP *kalewa ‘Long-tailed Koel, Urodynamis taitensis’
   Fiji   Rotuman       (si)a?leva      Urodynamis taitensis’
   Pn:    Tongan        kaleva
@@ -15318,37 +15290,37 @@ PCP *kalewa ‘Long-tailed Koel, Urodynamis taitensis’
   Pn:    Tikopia       kdreva
   Pn:    Marquesan     ka?eva-?eva
   Pn:    Tahitian      ?areva-reva
-  Pn:    Maori         kdrea-rea,   ‘New Zealand Falcon, Falco novaeseelandiae1
-                        karewa-rewa
+  Pn:    Maori         kdrea-rea,  karewa-rewa  ‘New Zealand Falcon, Falco novaeseelandiae1
+>
 
 The Maori reflex above refers to a bird which, though not closely related, has an overall
 similarity in appearance to the Koel.
 
 330      Ross Clark
 
-
+<
 PCP *kawekawesa ‘Long-tailed Koel, Urodynamis taitensis‘
   Fij:      Bauan        kawakasd     ‘long-tailed bird sp.’
   Fij:      Lau          kawakawasd   ‘ Urodynamis taitensis
   Pn:       Tahitian     ?d?ovea      ‘ Urodynamis taitensis
   Pn:       Tongarevan   koekoed      ‘ Urodynamis taitensis
   Pn:       Maori        koekoed      ‘ Urodynamis taitensis
+>
 
-
+<
 PMic *(li)kapilei ‘cuckoo’
   Mic:      Kiribati     kapenei      ‘ Urodynamis taitensis‘
-Proto Chuukic *
-              likapi ‘a bird’
+Proto Chuukic *likapi ‘a bird’
   Mic: Woleaian      rixapirai        ‘bird sp.’
   Mic: Namoluk        likapilei       ‘Long-tailed Koel, Urodynamis taitensis‘
-  Mic: Chuukese      nikæp            ‘land bird sp. (brown, long tail, afraid of other
-                                      birds)’
+  Mic: Chuukese      nikæp            ‘land bird sp. (brown, long tail, afraid of other birds)’
+>
 
 Although Micronesian borrowing would not be expected, the similarity of the following is
 intriguing:
 
-   Pn:       Mangarevan pakanei        ‘name of a bird mentioned by Laval, possibly the
-                                       cuckoo’ (Hiroa 1938)
+__pre__
+   Pn:       Mangarevan pakanei        ‘name of a bird mentioned by Laval, possibly the cuckoo’ (Hiroa 1938)
 
 
 
@@ -15358,13 +15330,14 @@ The Barn Owls (Tytonidae) and Typical Owls (Strigidae) are each represented in O
 by a single genus. The Barn Owl (Tyto alba) is probably the most widespread owl of the
 Oceanic region. In the homeland it coexists with the endemic New Britain Barn Owl (Tyto
 aurantia). There are also two Hawk Owls of the genus Ninox. While the voice of the Barn
-Owl is described as a screech, Typical Owls (like pigeons) have calls whose acoustic profile suggests the low second formant of [u]-type vowels. The Solomon Islands Hawk Owl
+Owl is described as a screech, Typical Owls (like pigeons) have calls whose acoustic profile
+suggests the low second formant of [u]-type vowels. The Solomon Islands Hawk Owl
 (Ninox jacquinoti). for example, has a call described as ‘’Kuurrroo’ with rolled ‘r” (Hadden
 2004a: 155). The prevalence of such vowels in the first three cognate sets places them under a
-certain degree of uncertainty. Note, however, that reflexes of *
-                                                               lulu are found mostly in areas
+certain degree of uncertainty. Note, however, that reflexes of *lulu are found mostly in areas
 where the Bam Owl is the only owl present, and are therefore unlikely to be imitative.
 
+<
 POc *kuru(dr,d)u ‘owl’
   NNG:      Dami           kuru(min)         ‘owl’
   NNG:      Yabem          kululu?(poq)      ‘owl’
@@ -15375,11 +15348,7 @@ POc *kuru(dr,d)u ‘owl’
   MM:       Tolai          kur(u)kur         ‘small owl sp.’
   MM:       Halia          kurou             ‘ Solomon Islands Hawk-Owl, Ninox jacquinoti‘
   MM:       Teop           kuroi             Ninox jacquinoti"
-                           (toto)kururu      ‘Fearful Owl, Nesasio solomonensis"
-
-                                                                                    Birds     331
-
-
+  MM:       Teop           (toto)kururu      ‘Fearful Owl, Nesasio solomonensis"
   MM:       Tinputz           kuro               ‘Ninox jacquinoti"
   MM:       Banoni            kuru               ‘Ninox jacquinoli"
   MM:       Torau             kuru               ‘Ninox jacquinoli'
@@ -15392,8 +15361,12 @@ POc *kuru(dr,d)u ‘owl’
 cf. also:
    NNG: Mangap                uloto              ‘owl’
    MM Kia                     kikituru           ‘owl’
+>
 
 
+                                                                                    Birds     331
+
+<
 POc *drudru(r,R) ‘owl’
    MM:      Madak        dudu            ‘owl’
    MM:      Sursurunga   durdur          ‘owl taxon, includes Sooty Owl, Grass Owl’
@@ -15404,8 +15377,9 @@ POc *drudru(r,R) ‘owl’
 cf. also:
    MM:      Halia        tutul           ‘Fearful Owl, Nesasio solomonensis‘
    MM:      Tinputz      toruruen        ‘owl’
+>
 
-
+<
 PROc *lulu ‘Barn Owl, Tyto alba‘
   NCV:Kiai           lulu
   NCV:Araki          lulu
@@ -15425,55 +15399,51 @@ A Polynesian borrowing:
   Fij:  Rotuman      ruru                ‘owl spp
 cf. also:
    TM: Buma              e-luro
+>
 
 332   Ross Clark
-
-
-
 
                               Figure 6.13     Tyto alba, Bam Owl
 
 
+An unusually large number of Polynesian bird names reflect *lulu but are applied to various
+seabirds (compare *toloa, §5.3):
 
-
-An unusually large number of Polynesian bird names reflect *
-                                                           lulu but are applied to various
-                  toloa, §5.3):
-seabirds (compare *
-
+__pre__
   Pn:    Tuvalu   lulu                ‘Phoenix Petrel, Pterodroma alba''
   Pn:    Rapanui ruru                 ‘Giant Petrel, Macronectes giganteus'`
   Pn:    Tahitian ruro                ‘Tahiti Kingfisher, Halcyon venerata’’
   Pn:    Manihiki ruru                ‘large sea bird sp. with hooked bill’
   Pn:    Maori    ruru-tdiko          ‘Black Petrel, Procellariaparkinsoni`
+
 And borrowed from Polynesian:
+
+__pre__
   Mie: Kiribati      ruru             ‘Pterodroma alba'
 
-    There is at present an owl-free area in Eastern Polynesia, which may account for the maritime application of some of these words. However, owls and petrels have in common that
+    There is at present an owl-free area in Eastern Polynesia, which may account for the
+maritime application of some of these words. However, owls and petrels have in common that
 they are seldom seen, and mainly known by their calls at night. Spenneman (2004:149) notes
 that licemluao, the present Marshallese term for the female of the Short-eared Owl (Asio flam-
 meus) was given by an earlier source for a type of petrel. (The name is probably analysable
 as /z- ‘feminine prefix’ + ? + mu‘a ‘cry’ + o ‘oh!’.)
 
+<
 POc *pora ‘owl’
   NNG: Kaulong        (ekiŋ) voh            ‘owl’
   MM: Nduke          po-poro                ‘nocturnal bird, said to call just before daylight’
   NCV: Mota           (man)w ara            ‘owl’
   NCV: Rerep         nu-mbur                ‘owl’
   NCV: Port Sandwich na-vandr               ‘owl’
-
-                                                                                   Birds    333
-
-
-
-
   NCV: SWBay               (ni-vin) mbant ‘owl’
   NCV: SE Ambrym           vuei           ‘Bam Owl, Tyto alba’
   NCV: Paamese             voia(asue)     ' Tyto alba’
+>
 
+                                                                                   Birds    333
 
-     wisi ‘owl’
-PEOc *
+<
+PEOc *wisi ‘owl’
   SES: Lau        kwisi                ‘bird sp.’
   SES: Kwaio      k`isi                ‘bird believed to announce events
   NCV: Mota       wis                  ‘an owl’
@@ -15481,16 +15451,18 @@ PEOc *
   NCV: NE Ambae wisi
   NCV: Raga       fb'al)v'isi          ‘ Tyto alba’ (expected f-wisi)
   NCV: Big Nambas nu-vis               ‘owl, Tyto alba’ (expected f-wzs)
+>
 
-
+<
 PSV *sum' il ‘Barn Owl, Tyto alba’
   SV:     Ura           ne-mit
   SV:     Sye           no-mit
   SV:     N Tanna       (ka)samw       ‘owl’
   SV:     Kwamera       (ka)sumwi
   SV:     Lenakel       himwir
+>
 
-
+<
 PNCal *mwen ‘Barn Owl, Tyto alba’
   NCal:   Nelemwa       m'en
   NCal:   Caaac         m‘en
@@ -15501,7 +15473,7 @@ PNCal *mwen ‘Barn Owl, Tyto alba’
   NCal:   Iaai          mun
   NCal:   Dehu          men
   NCal:   Nengone       meni
-
+>
 
 
 6.5.12 Swifts and swallows (Apodidae, Hemiprocnidae, Hirundinidae)
@@ -15519,62 +15491,55 @@ pekapeka ‘White-rumped Swiftlet’,pekapeka sa?i ‘small bat sp.’ (see ch.5
 
 334      Ross Clark
 
-
+<
 POc *kabakabal ‘swiftlet, Aerodramus or Collocalia spp.’ (cf. *kaba etc. ‘wing, flap’ )
   NNG: North Watut        kombaqkomb           ‘birdsp.’
   MM: Tolai               kəbəkəbəl            ‘ Collocalia esculenta'
-                          kubəkubal            ‘swallow or swift sp.’ (expected ]kabəkabak)
-  MM:       Roviana       kapakapa(gema)       ‘a small greenish bird, frequents qema
-                                               \Nephelium\ trees’
+  MM: Tolai               kubəkubal            ‘swallow or swift sp.’ (expected ]kabəkabak)
+  MM:       Roviana       kapakapa(gema)       ‘a small greenish bird, frequents qema \Nephelium\ trees’
   MM:       Maringe       gayable              ‘Collocalia spp.’
   SES:      Malango       habahaba (viso)      ‘Whiskered Tree-swift, Hemiprocne mystacea
   SES:      Kwaio         kaba(ll)             ‘Hemiprocne mystacea’
   SES:      Arosi         ?apaʔapa             ‘swallow’
-                          kapakapa             ‘swallow (swift)’
+  SES:      Arosi         kapakapa             ‘swallow (swift)’
   SES:      Bauro         yapayapa             ‘Collocalia spp.’
-                          yapayapa (usu)       ‘Hemiprocne mystacea’
+  SES:      Bauro         yapayapa (usu)       ‘Hemiprocne mystacea’
   NCV: Mota               yapayapa             ‘Collocalia esculenta’
-  NCV: Mwotlap            na-baybay(lo)        ‘White-rumped Swiftlet, Aerodramus
-                                               spodiopygius’ (metathesis)
+  NCV: Mwotlap            na-baybay(lo)        ‘White-rumped Swiftlet, Aerodramus spodiopygius’ (metathesis)
   NCV: Raga          yabayaba                  ‘Collocalia spp.’
   NCV: Port Sandwich (xu)mbaxamb               ‘Hirundo tahitica’ (metathesis)
-  NCV: SE Ambrym     avæp                      ‘swiftlets and bats, esp. Aerodramus
-                                               vanikorensis’
+  NCV: SE Ambrym     avæp                      ‘swiftlets and bats, esp. Aerodramus vanikorensis’
   NCV: Nisvai           (navi)xabxabel         ‘swiftlet’ (John Lynch, pers. comm.)
   NCV: S Efate          kapkdp                 ‘swiftlet’
   Fij:   Bauan          kdkaba(ðe)             ‘Aerodramus spodiopygius’
-A probable borrowing from a North Vanuatu language, with metathesis (cf. Mwotlap):
+cf. also: A probable borrowing from a North Vanuatu language, with metathesis (cf. Mwotlap):
   Pn:    Tikopia        paka(lili)         ‘Uniform Swiftlet, Aerodramus vanikorensis’
 cf. also:
    PT:      Iduna         (manu) yayabama ‘White-bellied Swiftlet, Collocalia esculenta
    SV:      Ura           n-ibem          ‘white-rumped swiftlet’
    SV:      Sye           ni-mpem         ‘Aerodramus spodiopygius’
+>
 
-
+<
 PCP *bekabeka ‘swiftlet’ (cf. POc *bweka ‘fruit bat, flying fox’, ch. 5, §2.9)
   Fij:      Lau        bekabeka(niðaŋi)    ‘White-rumped Swiftlet, Aerodramus spodiopygius’
   Pn:       Tongan     pekepeka(tea)       ‘Aerodramus spodiopygius’
-                       pekepeka            ‘Pacific Swallow, Hirundo tahitica’
+  Pn:       Tongan     pekepeka            ‘Pacific Swallow, Hirundo tahitica’
   Pn:       Niuean     pekapeka            ‘Aerodramus spodiopygius’
   Pn:       E Futunan pekapeka             ‘Aerodramus spodiopygius’
   Pn:       Pileni     pekapeka            ‘swiftlet’
   Pn:       Rennellese pekapeka            ‘White-bellied Swiftlet, Collocalia esculenta’
   Pn:       Emae       pekapeka            ‘Collocalia spp.’
   Pn:       Marquesan (ko)pekapeka         ‘Marquesan Swiftlet, Aerodramus ocista’
-  Pn:       Tahitian   (?o)pe?a            ‘Hirundo tahitica or Tahitian Swiftlet, Aerodramus
-                                           leucophaeus’
+  Pn:       Tahitian   (?o)pe?a            ‘Hirundo tahitica or Tahitian Swiftlet, Aerodramus leucophaeus’
   Pn:       Rarotongan (ko)peka            ‘Cook Islands Swiftlet, Aerodramus sawtelli’
+>
 
                                                                                  Birds   335
 
-
-
-
                    Figure 6.14   Hemiprocne mystacea, Whiskered Tree-swift
 
-
-
-
+<
 Proto Malaita-Makira *sisiri ‘swiftlet’
   SES:   To’aba’ita    sisiri          ‘Collocalia sp.’
   SES:   Lau           sisiru          ‘swallow’
@@ -15584,56 +15549,54 @@ Proto Malaita-Makira *sisiri ‘swiftlet’
   SES:   Uki ni Masi   sisiri(hapa)    ‘Collocalia sp.’
   SES:   Arosi         sisiri(hioha)   ‘swallow, blue with red head, comes in houses’
   SES:   Bauro         sisiri (oha)    ‘Pacific Swallow, Hirundo lahitiea'
+>
 
-
+<
 PNCal *bivilo(k) ‘swiftlet’
   NCal: Nyelayu   pivilo               ‘White-rumped Swiftlet, Aerodramus spodiopygius‘
   NCal: Nelemwa   pivilo               ‘White-bellied Swiftlet, Collocalia esculenta"
   NCal: Caaac     biviloc              ‘swallow, white-rumped swiftlet’
   NCal: Jawe      biviloc              ‘Aerodramus spodiopygius'
   NCal: Cemuhi  hiild                  "Aerodramus spodiopygius"
+>
 
-
+<
 PROc *ka(rd)aka(rd)a ‘swiftlet’
-  NCV: Mwotlap       ne-keykey(beye)    ‘Uniform Swiftlet, Aerodramus
-                                        vanikorensis'
-  NCV: Matantas na-textitkarakara       ‘White-bellied Swiftlet, Collocalia
-                                        eseulenta'
-                na-karakara(poi)        ‘Aerodramus vanikorensis'
-                  na-karakara(ruhumele) ‘Pacific Swallow, Hirundo tahitiea'
+  NCV: Mwotlap       ne-keykey(beye)    ‘Uniform Swiftlet, Aerodramus vanikorensis'
+  NCV: Matantas na-textitkarakara       ‘White-bellied Swiftlet, Collocalia eseulenta'
+  NCV: Matantas  na-karakara(poi)        ‘Aerodramus vanikorensis'
+  NCV: Matantas    na-karakara(ruhumele) ‘Pacific Swallow, Hirundo tahitiea'
   NCV: Sara     harahara                "Aerodramus vanikorensis' (Flux 1993)
   NCV: Kiai     karakara
-
-336      Ross Clark
-
-
-  NCV: Atchin            kirkiri(el)                ‘small bird resembling swallow, inabiting
-                                                    the mainland’
-  Fij:      Lomaiviti    kalakala(madrau)           ‘White-rumped Swiftlet, Aerodramus
-                                                    spodiopygius‘
+  NCV: Atchin            kirkiri(el)                ‘small bird resembling swallow, inabiting the mainland’
+  Fij:      Lomaiviti    kalakala(madrau)           ‘White-rumped Swiftlet, Aerodramus spodiopygius‘
   Pn:       Takuu        karakara(tavori)           ‘Collocalia eseidenta'
   Pn:       Rennellese   kaga(mu?a)                 ‘Aerodramus spp.’
+>
 
+
+336      Ross Clark
 
 
 6.5.13 Kingfishers (Alcedinidae)
 
 Ten species of Kingfisher are recorded for the homeland, half of them in the genus Halcyon,
-which extends widely through Oceania. Particularly widespread are the White-collared Kingfisher (H. chloris), the Sacred Kingfisher (H. sanetd) and the White-headed Kingfisher (H.
-saiirophaga). Other kingfishers of the homeland include the very large White-tailed Kingfisher (Tanysiptera sylvia), and the small birds of genera Ceyx arx&Alcedo. A number of good
+which extends widely through Oceania. Particularly widespread are the White-collared Kingfisher
+(H. chloris), the Sacred Kingfisher (H. sanetd) and the White-headed Kingfisher (H. saiirophaga).
+Other kingfishers of the homeland include the very large White-tailed
+Kingfisher (Tanysiptera sylvia), and the small birds of genera Ceyx arx&Alcedo. A number of good
 cognate sets exist, but assignment to species is very problematic. The relatively few terms for
 non-Halcyon species do not form any useful cognate sets. Blust (2002:113) compares POc
 *(sj)iko with PMP *cikep ‘catch with hands’.
 
+<
 POc *(s,j)iko ‘kingfisher’
-  NNG: Manam                 siko           ‘bird sp. (short body, red beak and head, black
-                                            wings, long white tail)’
+  NNG: Manam                 siko           ‘bird sp. (short body, red beak and head, black wings, long white tail)’
   NNG:      Lukep (Pono)     siki           ‘kingfisher’
   PT:       Tawala           diko           ‘kingfisher’
   MM:       Banoni           (si)sikd       ‘Dwarf Kingfisher, Ceyx lepidus‘
   MM:       Marovo           cige           ‘River Kingfisher, Alcedo atthis"
-  MM:       Nduke            hige           ‘River Kingfisher.Cd/cWp atthis) and possibly other
-                                            SPP-’
+  MM:       Nduke            hige           ‘River Kingfisher.Cd/cWp atthis) and possibly other SPP-’
   MM:       Roviana       sige              ‘kingfisher sp. (small, swift-flying)’
   MM:       Kia           suke(neo)         ‘White-collared Kingfisher, Halcyon chloris‘
   SES:      Bauro          (a)sigo          ‘Halcyon spp.’
@@ -15652,17 +15615,6 @@ POc *(s,j)iko ‘kingfisher’
   SV:       Sye           uki               ‘Halcyon chloris‘
   SV:       Anejom        ne-Oey            ‘Halcyon sp.’
   NCal :    Nelemwa       Jixe(men)         ‘Sacred Kingfisher, Halcyon sancta‘
-
-                                                                                   Birds    337
-
-
-
-
-                    Figure 6.15     Halcyon chloris, White-collared Kingfisher
-
-
-
-
   NCal:   Paici           joo(ed)          'Halcyon sancta"
   Mic:    Sonsorolese      (taga)dik       ‘kingfisher’
   Pn:     Tongan           siko(td)        'Halcyon chloris‘
@@ -15671,19 +15623,25 @@ POc *(s,j)iko ‘kingfisher’
   Pn:     Takuu            tiko(tala)      ‘mythical bird sp.’
   Pn:     Tikopia          siko(tara)      'Halcyon chloris‘
   Pn:     Imere            siko(tara)      'Halcyon chloris"
-  Pn:     Tahitian         ld(tatare)      ‘Borabora Kingfisher, Halcyon tufa) and Tahitian
-                                           Kingfisher, H. venerataf also Long-billed Reed
-                                           Warbler, Acrocephalus coffer"
+  Pn:     Tahitian         ld(tatare)      ‘Borabora Kingfisher, Halcyon tufa) and Tahitian Kingfisher, H. venerataf also Long-billed Reed Warbler, Acrocephalus coffer"
   Pn:     Rarotongan       ko(tare)        'Halcyon tuta"
   Pn:     Maori            ko(tare)        'Halcyon sancta"
-A probable borrowing from a Southeast Solomonic language:
+cf. also: A probable borrowing from a Southeast Solomonic language:
   Pn:    Rennellese     liyo         'Halcyon chloris"
+>
+
+                                                                                   Birds    337
+
+                    Figure 6.15     Halcyon chloris, White-collared Kingfisher
 
 This word appears to have been reshaped in Polynesian to PPn *tiko-tara, a compound
 analysable as ‘defecate’ + ‘end of house’. Some outliers have returned to a historically earlier
-form through non-Pn influence. The Bauan Fijian word for kingfisher has a general resemblance to the Polynesian *tikotara forms, but cannot be formally reconciled with them; more
+form through non-Pn influence. The Bauan Fijian word for kingfisher has a general resemblance
+to the Polynesian *tikotara forms, but cannot be formally reconciled with them; more
 exact agreement is found in the first part of the word sikorere, though with slightly deviant
 reference:
+
+__pre__
    Fij:    Bauan         seðala           'Halcyon spp.’
                          sikorere         ‘White-breasted Wood Swallow, Artamus
                                           leucorhynchus‘
@@ -15693,7 +15651,7 @@ Halcyon kingfishers, represented as ki-ki-ki-ki-ki-i-i-ee (Watling 2004:137).
 
 338   Ross Clark
 
-
+<
 POc *ki(o)kio ‘kingfisher’ cf. PAn *kiaw ‘puling sound of a bird’ (Blust 1995)
   Adm :   Nauna          kikiw          ‘kingfisher’
   Adm :   Seimat         kioki          ‘kingfisher’
@@ -15703,31 +15661,28 @@ POc *ki(o)kio ‘kingfisher’ cf. PAn *kiaw ‘puling sound of a bird’ (Blust
   PT:     Nimoa          kiokio         ‘kingfisher’
   PT:     Roro           heoheo         ‘kingfisher’
   MM:     Tolai          kiəkiə(tabu)   ‘White-collared Kingfisher, Halcyon ch loris'
-  MM:     Ramoaaina      giagia(ntam)   ‘Halcyon chloris or White-tailed Kingfisher,
-                                        Tanysiplera sylvia’
+  MM:     Ramoaaina      giagia(ntam)   ‘Halcyon chloris or White-tailed Kingfisher, Tanysiplera sylvia’
   MM:     Nehan          kekio          ‘White-headed Kingfisher, Halcyon saurophaga'
   MM:     Halia          kikio          "Halcyon saurophaga'
-                         kiiikiu        ‘kingfisher’
+  MM:     Halia          kiiikiu        ‘kingfisher’
   MM:     Petats         keukeuo        ‘kingfisher’
   MM:     Banoni         kiokio         ‘Halcyon saurophaga'
   MM:     Marovo         kikio          "Halcyon saurophaga'
   MM:     Nduke          kikio          ‘Halcyon saurophaga. Beach Kingfisher’
-  MM:     Roviana        kikio          ‘the largest of the three kingfishers’ [i.e. Halcyon
-                                        sp,]
+  MM:     Roviana        kikio          ‘the largest of the three kingfishers’ [i.e. Halcyon sp,]
   MM:     Simbo          kikio          ‘bird sp. found on reef’
   MM:     Kia            kiokio         ‘Ultramarine Kingfisher, Halcyon leucopygid
   MM:     Maringe        khiokhio       ‘Halcyon saurophaga'
-                         ciocio         ‘kingfisher sp. with white belly, blue wings and
-                                        back’
-                         khiakhia       ‘Halcyon chloris’
+  MM:     Maringe        ciocio         ‘kingfisher sp. with white belly, blue wings and back’
+  MM:     Maringe        khiakhia       ‘Halcyon chloris’
   SES:    Gela           giogio         ‘a kingfisher’
   SES:    Longgu         kiokio         ‘kingfisher’
   SES:    Kwaio          kiokio         ‘Halcyon saurophaga'
   SES:    Bauro          kiokio         "Halcyon saurophaga'
-  Pn:     Sikaiana       kiokio         "Halcyon chloris., also Island Grey-headed
-                                        Monarch, Monarcha cinerascens’
+  Pn:     Sikaiana       kiokio         "Halcyon chloris., also Island Grey-headed Monarch, Monarcha cinerascens’
+>
 
-
+<
 POc *kiki ‘kingfisher’
   Adm:    Mussau          sokiki
   MM:     Vitu            kiki
@@ -15739,34 +15694,35 @@ POc *kiki ‘kingfisher’
   NCal:   Iaai           jiji           "Halcyon sanela'
   NCal:   Dehu            ciciat
   NCal:   Nengone         wa-zeze
+>
 
                                                                                   Birds   339
 
 
 6.5.14 Rollers (Coraciidae)
 
-The single species in this family in the Oceanic homeland, the Dollar Bird (Eurystomus orientalist can be associated with two small cognate sets, though there are problems of identification.
+The single species in this family in the Oceanic homeland, the Dollar Bird (Eurystomus
+orientalist can be associated with two small cognate sets, though there are problems of identification.
 
+<
 PWOc *ule(o) ‘Dollar Bird, Eurystomus orientalis"
   PT: Iduna            ule(kakamota)
   MM: Nduke            uleo
-  MM: Roviana          uleo          ‘bird sp,, Graucalus sublineatus) with a rather shrill
-                                     note’
+  MM: Roviana          uleo          ‘bird sp,, Graucalus sublineatus) with a rather shrill note’
+>
 
     The obsolete generic in Roviana most probably refers to the Lineated Cuckoo Shrike
 (Coracina hneata). Since the terms below are distributed only around the Western Oceanic/SE
 Solomonic boundary, it is possible that terms have been borrowed across the boundary. If so,
 there is no support for a POc reconstruction.
 
-        kikiora
-POc (?) *ikiroa^            ‘Dollar Bird, Eurystomus orientalis‘
+<
+POc (?) *kikiroa~*kikiora            ‘Dollar Bird, Eurystomus orientalis‘
   MM: Roviana          kik(i)ora      "Eurystomus orientalis"
-  MM: Maringe          khikiloa       ‘dark coloured bird with yellow markings around
-                                      eyes and beak, possibly the dollar bird’ (White
-                                      1988); Yellow-faced Mynah, Mino dumontii‘
-                                      (Webb 1992)
+  MM: Maringe          khikiloa       ‘dark coloured bird with yellow markings around eyes and beak, possibly the dollar bird’ (White 1988); Yellow-faced Mynah, Mino dumontii‘ (Webb 1992)
   SES:   Malango       kikirau        "Eurystomus orientalis"
   SES:   To’aba’ita    kekeora        ‘Eurystomus orientalis"
+>
 
     There are very similar names for this bird in some Papuan languages of Bougainville, such
 as Buin kikitou, Koromira mekikiro. which may be borrowings from Oceanic languages.
@@ -15777,6 +15733,7 @@ as Buin kikitou, Koromira mekikiro. which may be borrowings from Oceanic languag
 Two good cognate sets are available for the single species, Blyth’s Hombill (Acerosplicatus),
 which occurs throughout New Guinea and the Solomons.
 
+<
 POc *binam ‘hombill’ (ACD)
   PT     Tubetube      binam
   PT     Dobu          binama
@@ -15790,18 +15747,16 @@ POc *binam ‘hombill’ (ACD)
   SES:   To’aba’ita    bina
   SES:   Kwaio         bina
   SES:   Arosi         bina (awa)
+>
 
 340   Ross Clark
 
-
-
-
                           Figure 6.16   Aceros plicatus, Blyth's Hornbill
-
 
 The following indicate a considerable broadening of the reference of this term in some SE
 Solomonic languages:
 
+__pre__
    SES:   ’Are’are    pina (ni duo)      ‘big grey pigeon’ (ano ‘garden’)
    SES:   Sa’a        pine (ni on)       ‘Nicobar Pigeon, Caloenas nicobarica’
    SES:   Arosi       bina               ‘hawk’
@@ -15814,6 +15769,7 @@ Solomonic languages:
 Peckover 2001:113). Given the lack of exact agreement among the following names, it is
 likely that at least some represent repeated imitative coinages.
 
+<
 POc *koijo(k) ‘hornbilT
   NNG:    Amara          a-kijok
   NNG:    Kilenge        a-kijok
@@ -15825,15 +15781,16 @@ POc *koijo(k) ‘hornbilT
   MM:     Kia            koŋo
   MM:     Maringe        na-k''oŋo
   SES:    Bugotu         koŋo                ‘toucan’
+>
 
-
-     komo ‘hornbilT
-PWOc *
+<
+PWOc *komo ‘hornbilT
   NNG:    Kairiru     worn
   MM:     Nakanai     ko-komo           ‘head of hornbill (as decoration)’
   MM:     Tolai       ko-komo
   MM:     Banoni      komo
   MM:     Nduke       ko-gomo
+>
 
                                                                                    Birds    341
 
@@ -15852,10 +15809,12 @@ Tobelo studies, there seems no reason to think that the Proto Oceanic speakers d
 the passerines in as much detail as other types of bird. Two factors may have contributed to
 the relative paucity of passerine cognate sets. First, many species are highly localised, which
 may have produced a high rate of turnover (abandonment and recreation of terms) as the
-Oceanic speakers migrated away from their homeland. Second, since these birds are, on average, smaller and less conspicuous (and of less economic importance) than the non-passerines,
+Oceanic speakers migrated away from their homeland. Second, since these birds are, on average,
+smaller and less conspicuous (and of less economic importance) than the non-passerines,
 an accurate identification would require both a researcher with the means and inclination to
 go where the birds are, and a speaker as thoroughly informed about the avifauna as were the
-Oceanic ancestors. It is just this type of information that is lacking for most Oceanic languages; passerines are undoubtedly over-represented among the ‘unidentified bird species’
+Oceanic ancestors. It is just this type of information that is lacking for most Oceanic languages;
+passerines are undoubtedly over-represented among the ‘unidentified bird species’
 entries in the dictionaries.
 
 
@@ -15864,8 +15823,8 @@ entries in the dictionaries.
 The cuckoo-shrikes (Coracina spp.) and trillers (Lalage spp.) extend from the homeland into
 southern Melanesia. Some local cognate sets exist.
 
-      tia(k,ij) ‘Melanesian Graybird, Coracina caledonica'
-PNCal *
+<
+PNCal *tia(k,ij) ‘Melanesian Graybird, Coracina caledonica'
   NCal:   Nyelayu      jidŋ
   NCal:   Nelemwa      jiac
   NCal:   Caaac        jidk
@@ -15877,29 +15836,26 @@ PNCal *
   NCal:   Tinrin        tio
   NCal:   Xaracuu       CIO
   NCal:   Drubea        cikd
+>
 
-
+<
 PCP *(jea)jea ‘Spotted Triller, Lalage maculosa’
   Fij:    Rotuman      jeɑ
   Fij:    Lomaiviti     sea-sea
   Fij:    Lau           sea-sea
   Fij:    Wayan         se-se
   Pn:     Niuean        hea-hea
+>
 
 342   Ross Clark
 
-
-
-
                       Figure 6.17   Rhipidura leucophrys, Willie Wagtail
-
-
-
 
     At least some of the following are likely to be independent imitations of vocalizations
 variously represented as whee-see, twill you twill you, keweeo, and squeeii, produced by birds
 of this genus (Hadden 2004a: 185-7).
 
+<
 POc *pwisu ‘Cuckoo-shrike, Coracina sp.’
   MM:     Maringe    fisa             ‘Common Cicadabird, Coracina tenuirostris’
   SES:    Bauro          hisu         ‘Coracina tenuirostris (f)’
@@ -15910,7 +15866,7 @@ cf. also:
    MM: Teop     kuisau                ‘Papuan Cuckoo Shrike, Coracinapapuensis’
    MM: Banoni     kuisa               ‘Coracina papuensis'
    SES: Malango koiso                 ‘Coracina spp.’
-
+>
 
 
 6.6.2 Thrushes (Turdidae)
@@ -15918,6 +15874,7 @@ cf. also:
 The only species for which any significant base of terms exists is the Island Thrush (Turdus
 poliocephalus).
 
+<
 PSOc *was(i,e) ‘Island Thrush, Turduspoliocephalus’ (John Lynch, pers. comm.)
   NCV: Mota     wasia                 ‘a bird, merula’
   NCV: Lakon      srwsrw              ‘Cuckoo-shrike, Coracina sp.’ (metathesis)
@@ -15925,6 +15882,7 @@ PSOc *was(i,e) ‘Island Thrush, Turduspoliocephalus’ (John Lynch, pers. comm.
   NCV: Atchin     ni-was              ‘sp. of bird that feeds in the creeks’
   SV:   Sye     wasep
   NCal: Nengone   wasase
+>
 
                                                                                     Birds   343
 
@@ -15940,6 +15898,7 @@ The highly distinctive appearance and behaviour of fantails, and their tolerance
 proximity, make them familiar birds, much better represented by widespread cognate sets
 than the other flycatchers.
 
+<
 POc *tcikere ‘Fantail, Rhipidura sp.’
   NNG: Bing            teykil-kil(ahang) ‘willie wag tail’
   PT:    Wedau         tagiri-girim      ‘wagtail’
@@ -15958,14 +15917,13 @@ POc *tcikere ‘Fantail, Rhipidura sp.’
   NCal: Jawe           dagin             ''Rhipidura spilodera"
   NCal: Grand Couli dari
   Fij:   Rotuman      fce?ere            ‘Fiji Shrikebill, Clytorhynchus vitiensis`
-A probable borrowing from some North--Central Vanuatu language:
+cf. also: A probable borrowing from some North--Central Vanuatu language:
   Pn:    Emae          takerokero
+>
 
-
-    laki ‘fantail’
-POc *
-  MM:      Nduke        (hi)reyi        ‘fantail, possibly Cockerell’s Fantail, Rhipidura
-                                        cockerelli‘
+<
+POc *laki ‘fantail’
+  MM:      Nduke        (hi)reyi        ‘fantail, possibly Cockerell’s Fantail, Rhipidura cockerelli‘
   SES:      Lau        lai              ‘fantail’
   SES:      Kwara’ae   la?e             ‘willy wagtail’
   SES:      Kwaio      la?e             ‘Willie Wagtail, Rhipidura leucophrys'
@@ -15973,40 +15931,40 @@ POc *
   NCal:     Paid       h.di, heti       ‘Rhipidura spp.’
   NCal:     Xaracuu    hddi             ‘Rhipidura spp.’
   NCal:     Drubea     hdti             ‘Rhipidura spilodera‘
+>
 
-
+<
 Proto NW Solomonic *pitikole ‘fantail’
   MM: Marovo            pitikole        ‘Willie Wagtail, Rhipidura leucophrys‘
   MM: Nduke             pitikole        ‘Rhipidura leucophrys"
-
-344   Ross Clark
-
-
   MM:     Roviana         pitikole        ‘Rhipidura sp.’
   MM:     Simbo           pitikole        ‘bird sp. like a wagtail’
   MM:     Maringe         phipituale      ‘Rhipidura leucophrys’
 cf. also:
    MM: Halia (Haku) pipikula              ‘Willy Wagtail’
+>
 
+344   Ross Clark
 
-     vete-vete ‘fantail’
-PNCV *
+<
+PNCV *vete-vete ‘fantail’
   NCV: Raga              v''et-vete(rerea) ‘ Spotted Fantail, Rhipidura spiloderd’
   NCV: Naman             (no-vi)vete-vet ‘fantail’
   NCV: Neve’ei           (na-vi)vete-vet ‘fantail’
+>
 
-
+<
 PSOc *sora ‘fantail’ (John Lynch, pers. comm.)
   NCV: Sara            nu-sora        ‘Spotted Fantail, Rhipidura spilodera' (Flux 1993)
   NCV: Kiai            sar(kele)      ‘Collared Grey Fantail, Rhipidurafuliginosa’
   NCV:   Nguna         soro(pito)     ‘fantail sp.’
   SV:    Kwamera       (ka)ssra-sər ‘Rhipidura fuliginosa’
-The following potential cognate may be a local formation, cf. tatara ‘sweep’:
+cf. also: The following potential cognate may be a local formation, cf. tatara ‘sweep’:
   SES: Arosi           tatara(p`'era) ‘wagtail’
+>
 
-
-                   riuriu[kabe] ‘Willie Wagtail, Rhipidura leucophrys'
-Proto SE Solomonic *
+<
+Proto SE Solomonic *riuriu[kabe] ‘Willie Wagtail, Rhipidura leucophrys'
   SES:    Bugotu         riuriuyabi
   SES:    Gela           riuriupege    ‘fantail’
   SES:    Malango        riuriuhabe
@@ -16017,10 +15975,11 @@ Proto SE Solomonic *
   SES:    Uki ni Masi    kiukiu rape
   SES:    Arosi          rurukape
   SES:    Bauro          riuriugape
-Apparently at least in part a borrowing from some SE Solomonic language:
+cf. also: Apparently at least in part a borrowing from some SE Solomonic language:
   Pn:    Rennellese mayiyape           ‘Rennell Fantail, Rhipidura rennelliana’
-                         marjiyape
-                         mayuyape
+  Pn:    Rennellese         marjiyape
+  Pn:    Rennellese         mayuyape
+>
 
 The first part of this compound clearly relates to/'/// ‘turn’, referring to the bird’s characteristic
 turns with spread tail feathers, both in flight and perching. In two languages the following
@@ -16033,39 +15992,39 @@ kape ‘flutter’.
 
 6.6.3.2 Flycatchers
 
-PEOc *
-     paRapaRa ‘flycatcher’
-   SES:                         ‘Chestnut-bellied Monarch (Monarcha
-           Uki ni Masi harahara(ŋata)
-                                castaneiventris’
+<
+PEOc *paRapaRa ‘flycatcher’
+  SES: Uki   ni Masi harahara(ŋata)    ‘Chestnut-bellied Monarch (Monarcha castaneiventris’
   SES: Arosi     harahara(ŋada) ‘bird sp.’
   SES: Bauro     yayara(sia)    ‘Monarcha castaneiventris ’
   NCV: SE Ambrym holhol(vetei)  ‘Myiagra caledonica’
   NCV: Paamese   holiholi(vetd) Myiagra caledonica’’
   NCal: Paici    (ntywara(abi)  ‘Myiagra caledonica’
+>
 
-
+<
 PEOc *k(o,u)vi ‘Flycatcher, Myiagra sp.’
-  SES:     Malango      (du)hui       ‘ Steel-blue Flycatcher, Myiagraferrocyanea’
+  SES:     Malango      (du)hui       ‘Steel-blue Flycatcher, Myiagraferrocyanea’
   NCV:     Raga         (buru)kuvi    ‘Myiagra ferrocyanea’
   NCal:    Nengone      (wanere)kowt` ‘Myiagra caledonica’
   Mic:     Chuukese     koyi-koyi     ‘a bird (pipes at dawn and dusk)’
   Mic:     Mokilese     koi-koi       ‘bird sp.’
-  Mic:     Ponapean     koi-koi       ‘Micronesian Myiagra Flycatcher, Myiagra
-                                      oceanica’
+  Mic:     Ponapean     koi-koi       ‘Micronesian Myiagra Flycatcher, Myiagra oceanica’
   Pn:      Rennellese   yo-yovi(u)    ‘Rennell Shrikebill, Clytorhynchns hamlini’
+>
 
 6.6.4 Whistlers (Pachycephalidae)
 
 The Golden Whistler, Pachycephala pectoralis, is the only widespread species in this family.
 
+<
 POc *san ‘Golden Whistler, Pachycephalapectoralis’
   MM:      Maringe      (k(h)na)eo
   SES:     Malango      (koe)eau     ‘Pachycephala spp.’
   SES:     Bauro        ton-ton
   NCV:     Raga         so-so(belak)
   Fij:     Lomaiviti    (didibe)sau
-
+>
 
 
 6.6.5 Whiteyes (Zosteropidae)
@@ -16074,6 +16033,7 @@ A single species of this family, the White-throated White-eye, Zosterops meeki, 
 Oceanic homeland, but others of the same genus are very widely found throughout Oceania,
 with at least one local cognate set.
 
+<
 PNCV *!aka ‘White-eye, Zosterops sp.’
   NCV:     Vera’a       leyley(e)
   NCV:     Raga         layalaya
@@ -16081,17 +16041,6 @@ PNCV *!aka ‘White-eye, Zosterops sp.’
   NCV:     Atchin       (we)lela           ‘small bird sp.’
   NCV:     Naman        (no-vi)layalay     ‘Yellow-fronted White-eye, Zosteropsflavifrons’
   NCV:     SE Ambrym    (tohu)laia         ‘Zosterops flavifrons’
-
-346     Ross Clark
-
-
-
-
-                     Figure 6.18     Philemon buceroides, Helmeted Friarbird
-
-
-
-
   NCV: Lewo              (nin)laia           ‘green bird’
   NCV: Namakir           likalak             ‘small yellow bird (feeds on pawpaw)’
   NCV: Nguna          Idka
@@ -16100,14 +16049,23 @@ cf. also:
    NCV: Mwotlap          (na-mw)ligleg
    Pn:    Emae        lako                   (probable borrowing from a North-Central Vanuatu
                                              language)
+>
+
 These SV words are possible cognates:
+
+__pre__
   SV:   Ura           (u)leap           ‘Zosterops flavifrons'
   SV:   Sye           (u)leap, ne-lcap, ‘Zosterops flavifrons'
                        (we) leap
 
+346     Ross Clark
+
+                     Figure 6.18     Philemon buceroides, Helmeted Friarbird
+
     The following two items are the only possible Southeast Solomonic cognate found, and
 a possible Rennellese borrowing from a SE Solomonic language:
 
+__pre__
       SES:   Gela       (laulau)laka ‘very small bird sp.’
       Pn:    Rennellese yaya         ‘Woodford’s White-eye, Woodfordia supereiliosa''
 
@@ -16119,8 +16077,8 @@ The honeyeaters of the homeland region include several belonging to the genus My
 well as the New Britain Friarbird (Philemon cockerelli) and Gilliard’s Honeyeater (Melidectes
 whitemanensis). Other birds of this family can be found as far as Fiji and western Polynesia.
 
-    midi ‘honeyeater’ (see also PPn
-POc *§6.7, p.349)
+<
+POc *midi ‘honeyeater’ (see also PPn§6.7, p.349)
   MM: Nehan          (re)mit      ‘Olive-backed Sunbird, Nectarinia jugularis’’
   MM: Banoni         mede-mede    ‘Solomons Flowerpecker, Dicaeum aeneum’
   MM: Nduke            (sik)midi  ‘small honeyeater-like bird’
@@ -16128,23 +16086,22 @@ POc *§6.7, p.349)
   SES: Lau             (sisi)midi ‘honey eater’
   SES: Arosi         mudi-mudi    ‘yellow honeysucker’
   NCal: Tinrin         (ma)muru   ‘bird sp. which sucks flowers’
+  NCal: Xaracuu           (md)muru        ‘Barred Honeyeater, Phylidonyris undulata’
+  NCal: Drubea            (md)muru        ‘Phylidonyris undulata'’
+  Fij:  Lau               miti-miti,      ‘Orange-breasted Honeyeater (Myzomelajugularis’
+  Fij:  Lau             miti(kula)
+  Pn:     E Futunan       miti (tokiko)   ‘Carunculated Honeyeater, Foulehaio carunculata’
+cf. also:
+   Pn:    Pileni          mihi              ‘red-fronted bird used for feather money’ (expected *zf zzz7z)
+>
 
                                                                                       Birds    347
 
 
-  NCal: Xaracuu           (md)muru        ‘Barred Honeyeater, Phylidonyris undulata’
-  NCal: Drubea            (md)muru        ‘Phylidonyris undulata'’
-  Fij:  Lau               miti-miti,      ‘Orange-breasted Honeyeater (Myzomelajugularis’
-                           miti(kula)
-  Pn:     E Futunan       miti (tokiko)   ‘Carunculated Honeyeater, Foulehaio carunculata’
-cf. also:
-   Pn:    Pileni          mihi              ‘red-fronted bird used for feather money’ (expected
-                                          *zf zzz7z)
-
     The friarbirds (Philemon spp.) are a large and distinctive type of honeyeater represented
-by three species in the homeland region. The following terms present various formal problems, but could be derived from some form such as POc *(sa)quka, with metathesis to *(sa)-
-kuqa9
+by three species in the homeland region. The following terms present various formal problems, but could be derived from some form such as POc *(sa)quka, with metathesis to *(sa)-kuqa[9]
 
+__pre__
    Adm: Loniu              coPuka          ‘White-naped Friarbird, Philemon albitorques’
    Adm: Titan              cauka           ‘friarbird, probably New Britain Friarbird,
                                            Philemon cockerelli’
@@ -16155,25 +16112,24 @@ kuqa9
    MM:      Nakanai        kau             ‘Philemon cockerelli’
    MM:      Tolai          kəo, kau        ‘Philemon cockerelli’
 
-
-PROc *
-     (b,v)asilo ‘honeyeater’
+<
+PROc *(b,v)asilo ‘honeyeater’
   NCV: Raga          (busu)bihil          ‘Cardinal Honeyeater, Myzomela cardinahP
   NCV: SE Ambrym vasil                    Myzomela cardinalis’
   NCV: Paamese       vasiro               ‘Myzomela cardinalis’
   NCal: Iaai         bahelo               ‘New Caledonian Friarbird, Philemon diemensis’
   Fij:  W Viti Levu visilou               ‘Carunculated Honeyeater, Foulehaio carunculata’
-  Pn:   Tongan10    fuleheu               ‘Foulehaio carunculata, also Fiji Shrikebill,
-                                          Clytorhynchus vitiensis'
+  Pn:   Tongan [10]    fuleheu               ‘Foulehaio carunculata, also Fiji Shrikebill, Clytorhynchus vitiensis'
+>
 
 This set may be related to an innovative generic for ‘bird’ in a number of Central Vanuatu
 languages: Apma b''ihil, N Ambrym p' ehel, Burmbar mbasir, etc.
 
-    ioli ‘honeyeater’
-POc *
+<
+POc *ioli ‘honeyeater’
   TM: Burna             wau iele          ‘Cardinal Honeyeater, Myzomela cardinalis’
   NCV: Kiai             ioli              ‘White-bellied Honeyeater, Phylidonyris notabilis’
-
+>
 
 
 
@@ -16183,12 +16139,12 @@ POc *
 
 348      Ross Clark
 
-
+<
 PNCV *bwatu-(i)-manu ‘Cardinal Honeyeater, Myzomela cardinalis" (lit. ‘head of bird’)
   NCV: Mota               pwatman     ‘a red-headed honey eater, male; cock bird of lasis'
   NCV: Mwotlap            ne-pwetmen
   NCV: Raga               bwat-i-manu
-
+>
 
 
 
