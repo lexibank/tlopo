@@ -95,7 +95,7 @@ class Dataset(BaseDataset):
         per_pl = collections.defaultdict(list)
         for vol in range(1, 7):
             print(vol)
-            if vol != 3:
+            if vol != 4:
                 continue
             t = self.raw_dir / 'vol{}'.format(vol) / 'text.txt'
             if not t.exists():
@@ -220,7 +220,7 @@ class Dataset(BaseDataset):
                 langs[alt] = v
 
         for vol in range(1, 7):
-            if vol not in {1, 2, 3}:
+            if vol not in {1, 2, 3, 4}:
                 continue
             t = self.raw_dir / 'vol{}'.format(vol) / 'text.txt'
             if not t.exists():

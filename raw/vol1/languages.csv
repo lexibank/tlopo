@@ -354,7 +354,7 @@ kwaio,Kwaio,SES,Eastern Oceanic | Southeast Solomonic [SES] | Bugotu/Gela/Guadal
 lau,Lau,SES,Eastern Oceanic | Southeast Solomonic [SES] | Bugotu/Gela/Guadalcanal | Longgu/Malaita/Makira | Malaita/Makira,,,lauu1247,-8.51018,160.872
 baelelea,Baelelea,SES,Eastern Oceanic | Southeast Solomonic [SES] | Bugotu/Gela/Guadalcanal | Longgu/Malaita/Makira | Malaita/Makira,,= dialect of Lau,bael1237,-8.42,160.72
 saa,Sa'a,SES,Eastern Oceanic | Southeast Solomonic [SES] | Bugotu/Gela/Guadalcanal | Longgu/Malaita/Makira | Malaita/Makira,Sa’a,,saaa1240,-9.60258,161.467
-toabaita,To'aba'ita,SES,Eastern Oceanic | Southeast Solomonic [SES] | Bugotu/Gela/Guadalcanal | Longgu/Malaita/Makira | Malaita/Makira,,,toab1237,-8.39233,160.61899999999997
+toabaita,To'aba'ita,SES,Eastern Oceanic | Southeast Solomonic [SES] | Bugotu/Gela/Guadalcanal | Longgu/Malaita/Makira | Malaita/Makira,To’aba’ita,,toab1237,-8.39233,160.61899999999997
 ulawa,Ulawa,SES,Eastern Oceanic | Southeast Solomonic [SES] | Bugotu/Gela/Guadalcanal | Longgu/Malaita/Makira | Malaita/Makira,,,ulaw1237,-9.60258,161.467
 nmalaitan,N Malaitan,SES,Eastern Oceanic | Southeast Solomonic [SES] | Bugotu/Gela/Guadalcanal | Longgu/Malaita/Makira | Malaita/Makira,,,nort3284,-8.485078200216126,160.77390093045975
 kwaraae,Kwara’ae,SES,Eastern Oceanic | Southeast Solomonic [SES] | Bugotu/Gela/Guadalcanal | Longgu/Malaita/Makira | Malaita/Makira,Kwara'ae,,kwar1239,-8.76,160.80
@@ -381,7 +381,7 @@ raga,Raga,NCV,"Eastern Oceanic | North/Central Vanuatu [NCV] (groupings are area
 marino,Marino,NCV,"Eastern Oceanic | North/Central Vanuatu [NCV] (groupings are areal, based on Clark 1994) | Banks & Torres, Maewo, Ambae, North Pentecost",Sunwadia,= Sunwadia,mari1426,-14.970047,168.05794100000003
 merlav,Merlav,NCV,"Eastern Oceanic | North/Central Vanuatu [NCV] (groupings are areal, based on Clark 1994) | Banks & Torres, Maewo, Ambae, North Pentecost",,,merl1237,-14.45,168.05
 lehali,Lehali,NCV,"Eastern Oceanic | North/Central Vanuatu [NCV] (groupings are areal, based on Clark 1994) | Banks & Torres, Maewo, Ambae, North Pentecost",,,leha1243,-13.50,167.33
-loh,Loh,NCV,"Eastern Oceanic | North/Central Vanuatu [NCV] (groupings are areal, based on Clark 1994) | Banks & Torres, Maewo, Ambae, North Pentecost",,,loto1240,-13.33,166.63
+loh,Loh,NCV,"Eastern Oceanic | North/Central Vanuatu [NCV] (groupings are areal, based on Clark 1994) | Banks & Torres, Maewo, Ambae, North Pentecost",Lo-Toga,,loto1240,-13.33,166.63
 lakon,Lakon,NCV,"Eastern Oceanic | North/Central Vanuatu [NCV] (groupings are areal, based on Clark 1994) | Banks & Torres, Maewo, Ambae, North Pentecost",,,lako1245,-14.30,167.43
 dorig,Dorig,NCV,"Eastern Oceanic | North/Central Vanuatu [NCV] (groupings are areal, based on Clark 1994) | Banks & Torres, Maewo, Ambae, North Pentecost",,,weta1242,-14.37,167.55
 veraa,Vera'a,NCV,"Eastern Oceanic | North/Central Vanuatu [NCV] (groupings are areal, based on Clark 1994) | Banks & Torres, Maewo, Ambae, North Pentecost",,,vera1241,-13.89,167.43
@@ -448,7 +448,7 @@ sye,Sye,SV,Eastern Oceanic | South Vanuatu [SV],Eromango; Sie,"= Sie, Eromango",
 ura,Ura,SV,Eastern Oceanic | South Vanuatu [SV],,,urav1235,-18.6747,169.084
 whitesands,Whitesands,SV,Eastern Oceanic | South Vanuatu [SV],White sands,,whit1269,-19.50,169.38
 fwai,Fwai,NCal,Eastern Oceanic | New Caledonia [NCal] | New Caledonia proper,Fwâi,,fwai1237,-20.69,164.90
-cemuhi,Cèmuhî,NCal,Eastern Oceanic | New Caledonia [NCal] | New Caledonia proper,,,cemu1238,-20.85,165.13
+cemuhi,Cèmuhî,NCal,Eastern Oceanic | New Caledonia [NCal] | New Caledonia proper,Cemuhi,,cemu1238,-20.85,165.13
 paici,Paicî,NCal,Eastern Oceanic | New Caledonia [NCal] | New Caledonia proper,,,paic1239,-21.10,165.15
 yuanga,Yuanga,NCal,Eastern Oceanic | New Caledonia [NCal] | New Caledonia proper,,,yuag1237,-20.57,164.51
 pije,Pije,NCal,Eastern Oceanic | New Caledonia [NCal] | New Caledonia proper,,,pije1237,-20.7824,164.942
@@ -456,7 +456,7 @@ pwapwa,Pwapwa,NCal,Eastern Oceanic | New Caledonia [NCal] | New Caledonia proper
 nemi,Nemi,NCal,Eastern Oceanic | New Caledonia [NCal] | New Caledonia proper,,,nemi1240,-20.6791,164.797
 nyelayu,Nyelâyu,NCal,Eastern Oceanic | New Caledonia [NCal] | New Caledonia proper,Nyelayu,,nyal1254,-19.72,163.66
 xaracuu,Xârâcùù,NCal,Eastern Oceanic | New Caledonia [NCal] | New Caledonia proper,Xaracuu,,xara1244,-21.7034,165.996
-nelemwa,Nêlêmwa,NCal,Eastern Oceanic | New Caledonia [NCal] | New Caledonia proper,Nelemwa,,kuma1276,-20.40, 164.19
+nelemwa,Nêlêmwa,NCal,Eastern Oceanic | New Caledonia [NCal] | New Caledonia proper,Nelemwa; Nixumwak,,kuma1276,-20.40, 164.19
 ajie,Ajie,NCal,Eastern Oceanic | New Caledonia [NCal] | New Caledonia proper,,,ajie1238,-21.30,165.47
 jawe,Jawe,NCal,Eastern Oceanic | New Caledonia [NCal] | New Caledonia proper,,,jawe1237,-20.66,164.68
 tinrin,Tinrin,NCal,Eastern Oceanic | New Caledonia [NCal] | New Caledonia proper,,,tiri1258,-21.81,165.79
@@ -489,6 +489,7 @@ yasawa,Yasawa,Fij,Eastern Oceanic | Central Pacific [Fij and Pn] | Western Fijia
 bauanfijian,Bauan,Fij,Eastern Oceanic | Central Pacific [Fij and Pn] | Eastern Fijian,Fijian; Standard Fijian,= Standard Fijian,fiji1243,-18.00, 178.33
 bau,Bau,Fij,Eastern Oceanic | Central Pacific [Fij and Pn] | Eastern Fijian,,,bauu1243,-18.00, 178.33
 kadavu,Kadavu,Fij,Eastern Oceanic | Central Pacific [Fij and Pn] | Eastern Fijian,,,kada1285,-18.00,178.33
+rakiraki,Rakiraki,Fij,Eastern Oceanic | Central Pacific [Fij and Pn] | Eastern Fijian,,,,,
 bucabay,Buca Bay,Fij,Eastern Oceanic | Central Pacific [Fij and Pn] | Eastern Fijian,,,,,
 bua,Bua,Fij,Eastern Oceanic | Central Pacific [Fij and Pn] | Eastern Fijian,,,,,
 boumaa,Boumaa,Fij,Eastern Oceanic | Central Pacific [Fij and Pn] | Eastern Fijian,,,fiji1243,-18.00, 178.33
