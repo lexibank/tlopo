@@ -151,7 +151,7 @@ numbami,Numbami,NNG,Western Oceanic | North New Guinea [NNG] | Huon Gulf | South
 patep,Patep,NNG,Western Oceanic | North New Guinea [NNG] | Huon Gulf | South Huon Gulf,Mumeng (Patep),,pate1247,-6.92,146.64
 vehes,Vehes,NNG,Western Oceanic | North New Guinea [NNG] | Huon Gulf | South Huon Gulf,,,vehe1237,-6.92151,146.895
 mumeng,Mumeng,NNG,Western Oceanic | North New Guinea [NNG] | Huon Gulf | South Huon Gulf,,,mume1239,-6.9481850000000005,146.5645
-kumarumumeng,Kumaru Mumeng,NNG,Western Oceanic | North New Guinea [NNG] | Huon Gulf | South Huon Gulf,,,kuma1278,-7.11,146.57
+kumarumumeng,Kumaru Mumeng,NNG,Western Oceanic | North New Guinea [NNG] | Huon Gulf | South Huon Gulf,Mumeng (Kumaru),,kuma1278,-7.11,146.57
 zenag,Zenag,NNG,Western Oceanic | North New Guinea [NNG] | Huon Gulf | South Huon Gulf,,,zena1237,-6.94,146.55
 bariai,Bariai,NNG,Western Oceanic | North New Guinea [NNG] | Ngero/Vitiaz | Ngero,,,bari1286,-5.5087,148.666
 gitua,Gitua,NNG,Western Oceanic | North New Guinea [NNG] | Ngero/Vitiaz | Ngero,,,gitu1237,-6.0151,147.485
@@ -214,6 +214,7 @@ anuki,Anuki,PT,Western Oceanic | Papuan Tip [PT] | Nuclear Papuan Tip | North Ma
 kakabai,Kakabai,PT,Western Oceanic | Papuan Tip [PT] | Nuclear Papuan Tip | North Mainland/D'Entrecasteaux,,,kaka1267,-10.2976,150.02700000000002
 dawawa,Dawawa,PT,Western Oceanic | Papuan Tip [PT] | Nuclear Papuan Tip | North Mainland/D'Entrecasteaux,,,dawa1242,-10.17,150.00
 gumawana,Gumawana,PT,Western Oceanic | Papuan Tip [PT] | Nuclear Papuan Tip | North Mainland/D'Entrecasteaux,Gumasi,= Gumasi,guma1254,-9.28497,150.762
+bunama,Bunama,PT,Western Oceanic | Papuan Tip [PT] | Nuclear Papuan Tip | North Mainland/D'Entrecasteaux | Dobu/Duau,,,buna1276,-10.08,151.07
 dobu,Dobu,PT,Western Oceanic | Papuan Tip [PT] | Nuclear Papuan Tip | North Mainland/D'Entrecasteaux | Dobu/Duau,,,dobu1241,-9.63239,150.82500000000002
 duau,Duau,PT,Western Oceanic | Papuan Tip [PT] | Nuclear Papuan Tip | North Mainland/D'Entrecasteaux | Dobu/Duau,,,duau1237,-10.187,151.218
 sewabay,Sewa Bay,PT,Western Oceanic | Papuan Tip [PT] | Nuclear Papuan Tip | North Mainland/D'Entrecasteaux | Dobu/Duau,,,sewa1251,-10.0277,150.95600000000002
@@ -489,7 +490,10 @@ yasawa,Yasawa,Fij,Eastern Oceanic | Central Pacific [Fij and Pn] | Western Fijia
 bauanfijian,Bauan,Fij,Eastern Oceanic | Central Pacific [Fij and Pn] | Eastern Fijian,Fijian; Standard Fijian,= Standard Fijian,fiji1243,-18.00, 178.33
 bau,Bau,Fij,Eastern Oceanic | Central Pacific [Fij and Pn] | Eastern Fijian,,,bauu1243,-18.00, 178.33
 kadavu,Kadavu,Fij,Eastern Oceanic | Central Pacific [Fij and Pn] | Eastern Fijian,,,kada1285,-18.00,178.33
+rewa,Rewa,Fij,Eastern Oceanic | Central Pacific [Fij and Pn] | Eastern Fijian,,,,,
 rakiraki,Rakiraki,Fij,Eastern Oceanic | Central Pacific [Fij and Pn] | Eastern Fijian,,,,,
+verata,Verata,Fij,Eastern Oceanic | Central Pacific [Fij and Pn] | Eastern Fijian,,,,,
+ovalau,Ovalau,Fij,Eastern Oceanic | Central Pacific [Fij and Pn] | Eastern Fijian,,,,,
 bucabay,Buca Bay,Fij,Eastern Oceanic | Central Pacific [Fij and Pn] | Eastern Fijian,,,,,
 bua,Bua,Fij,Eastern Oceanic | Central Pacific [Fij and Pn] | Eastern Fijian,,,,,
 boumaa,Boumaa,Fij,Eastern Oceanic | Central Pacific [Fij and Pn] | Eastern Fijian,,,fiji1243,-18.00, 178.33
@@ -502,7 +506,7 @@ niuatoputapu,Niuatoputapu,Pn,Eastern Oceanic | Central Pacific [Fij and Pn] | Po
 niuafoou,Niuafo’ou,Pn,Eastern Oceanic | Central Pacific [Fij and Pn] | Polynesian (subgrouping based on Marck forthcoming) | Nuclear Polynesian,,,niua1240,-15.60,-175.64
 eastfutunan,East Futunan,Pn,Eastern Oceanic | Central Pacific [Fij and Pn] | Polynesian (subgrouping based on Marck forthcoming) | Nuclear Polynesian,E. Futunan; E Futunan; E Futuna; Futunan,,east2447,-14.28,-178.14
 pukapukan,Pukapukan,Pn,Eastern Oceanic | Central Pacific [Fij and Pn] | Polynesian (subgrouping based on Marck forthcoming) | Nuclear Polynesian,,,puka1242,-10.91,-165.83
-rennellese,Rennellese,Pn,Eastern Oceanic | Central Pacific [Fij and Pn] | Polynesian (subgrouping based on Marck forthcoming) | Nuclear Polynesian,,,renn1242,-11.6237,160.265
+rennellese,Rennellese,Pn,Eastern Oceanic | Central Pacific [Fij and Pn] | Polynesian (subgrouping based on Marck forthcoming) | Nuclear Polynesian,Rennellese (Bellona),,renn1242,-11.6237,160.265
 tikopia,Tikopia,Pn,Eastern Oceanic | Central Pacific [Fij and Pn] | Polynesian (subgrouping based on Marck forthcoming) | Nuclear Polynesian,Tikopian,,tiko1237,-12.2766,168.82200000000003
 pileni,Pileni,Pn,Eastern Oceanic | Central Pacific [Fij and Pn] | Polynesian (subgrouping based on Marck forthcoming) | Nuclear Polynesian,,,pile1238,-10.17,166.25
 sikaiana,Sikaiana,Pn,Eastern Oceanic | Central Pacific [Fij and Pn] | Polynesian (subgrouping based on Marck forthcoming) | Nuclear Polynesian,,,sika1261,-8.38,162.73
