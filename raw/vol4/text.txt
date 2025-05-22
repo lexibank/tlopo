@@ -3360,7 +3360,7 @@ others may be names of particular species at a certain stage of growth.
 
 
 
-                          Figure 2.17    Lutjamis fulviflamma, Dory snapper
+                          Figure 2.17    _Lutjanus fulviflamma_, Dory snapper
 
 
    The proposed gloss of POc _*qutur_ is based on the agreement of non-Oceanic cognates
@@ -5763,19 +5763,19 @@ cf. also:
 
 Flying gurnards are semipelagic, with lesser powers of flight than the true flying fish. They
 are heavily armoured, with enormous wing-like pectorals. Essentially bottom dwellers, they
-are capable of short clumsy glide-like flights (Munro 1967: p. 541). Geraghty (p. 149) proposes PFij
-*lulu, but no higher-level reconstruction has been made.
+are capable of short clumsy glide-like flights (Munro 1967: p. 541). Geraghty (1994: p. 149) proposes PFij
+_*lulu_, but no higher-level reconstruction has been made.
 
 
 2.65 Remoras (_Echeneididae_)
 
-Remoras (Echeneis naucrates and Remora remora), also known as suckerfish, have a modified
+Remoras (_Echeneis naucrates_ and _Remora remora_), also known as suckerfish, have a modified
 adhesive disk on the upper surface of the head with which they attach themselves to large
-floating objects, frequently sharks. The Gela (SES) term for remoras is rao-rago bagea,
+floating objects, frequently sharks. The Gela (SES) term for remoras is _rao-rago bagea_,
 literally ‘joined to sharks’. I have no POc reconstruction for remora. I noted in §4 that the Motu
-reflex of POc ^maŋew a ‘k.o. shark’ and the PCP reflex of *bakewa ‘shark (generic)’ denote
-the remora, not the shark. Hooper (p.216) proposes PPn *tali-tali-quli ‘Echeneis sp., remora,
-and Naucrates ductor, pilot fish’ with suggested etymology *tali-tali ‘wait upon’ and *quli
+reflex of POc _*maŋewa_ ‘k.o. shark’ and the PCP reflex of _*bakewa_ ‘shark (generic)’ denote
+the remora, not the shark. Hooper (1994: p.216) proposes PPn _*tali-tali-quli_ ‘Echeneis sp., remora,
+and _Naucrates ductor_, pilot fish’ with suggested etymology _*tali-tali_ ‘wait upon’ and _*quli_
 ‘to steer’.
 
 
@@ -5807,7 +5807,7 @@ POc *biRa ‘roe, fish eggs’ (ACD: *piRa)
   SES:  Sa’a         pile(na)     ‘roe of fish, yolk of egg; to spawn’
   SES:  ’Are’are     pira(na)     ‘roe of fish’
   SES:  Arosi        bira(na)     ‘roe of a fish, yolk of an egg’
-  Mic:  Kiribati     bia          ‘growth, tumor, gland, knob, excresence, fish ovaries’ (pia ‘fish roe’)
+  Mic:  Kiribati     bia          ‘growth, tumor, gland, knob, excresence, fish ovaries’ (_pia_ ‘fish roe’)
   Mic:  Marshallese  pia          ‘fish roe’
 cf. also
   NNG:  Mangap       barā(na)     ‘fish roe’
@@ -5815,7 +5815,7 @@ cf. also
 >
 
 In Bauan Fijian and some Polynesian languages fish roe are called by the literal compound
-‘fish eggs’ (Bauanyaloka ni ika. Tongan fua ʔi ika etc.).
+‘fish eggs’ (Bauanyaloka _ni ika_. Tongan _fua ʔi ika_ etc.).
 
 
 2.66.2 Gills
@@ -5872,7 +5872,7 @@ cf. also:
   PT:   Kilivila    gare(na)
 >
 
-PPn *lau-lau-mea ‘fish gills’ (*‘external part, surface’ mea ‘red, reddish’) has also been
+PPn _*lau-lau-mea_ ‘fish gills’ (*‘external part, surface’ _mea_ ‘red, reddish’) has also been
 reconstructed (pollex).
 
                                                                                        Fish   131
@@ -5880,8 +5880,8 @@ reconstructed (pollex).
 
 2.66.3 Scales
 
-A POc verb, *qunapi- ‘scale a fish’ can be reconstructed, and it appears that a noun *qunapi
-‘fishscales’ was derived by back-formation in POc, existing as a doublet alongside *qunap.
+A POc verb, _*qunapi-_ ‘scale a fish’ can be reconstructed, and it appears that a noun _*qunapi_
+‘fishscales’ was derived by back-formation in POc, existing as a doublet alongside _*qunap_.
 Polynesian reflexes of the following reconstruction refer to turtle shell as well as fish scale.
 
 <
@@ -5900,18 +5900,18 @@ POc *qunap[i] ‘fishscale’ ((Dempwolff 1938))
   PT:  Tawala        (we)nawa
   PT:  Misima        (un)una
   PT:  Maopa         unavi
-  PT:  Hula          ɣuna           (yunavea (vt) ‘scale fish’)
-  PT:  Motu          una            (unahi (vt) ‘seal e fi sh ’)
+  PT:  Hula          ɣuna           (_ɣunavea_ (vt) ‘scale fish’)
+  PT:  Motu          una            (_unahi_ (vt) ‘seal e fi sh ’)
   PT:  Roro          una
-  MM:  Lavongai      kunep          (All the MM terms reflect *k-')
+  MM:  Lavongai      kunep          (All the MM terms reflect _*k-_)
   MM:  Tigak         kunap
   MM:  Kara (West)   kunaf
   MM:  Tiang         kuna
   MM:  Bola          ɣona
   SES: Lau           unafa(na)
-  SES: Kwaio         una-una        (unafia ‘seal e fi sh ’)
+  SES: Kwaio         una-una        (_unafia_ ‘scale fi sh ’)
   SES: Sa’a          uneha(ʔa)      ‘fish or snake scales’
-  SES: Arosi         una            (unahi   ‘seal e fi sh ’)
+  SES: Arosi         una            (_unahi_ ‘scale fi sh ’)
   SV:  Sye           niŋevi-
   SV:  Anejom        ninehe-
   Fij: Rotuman       una
@@ -5919,10 +5919,10 @@ POc *qunap[i] ‘fishscale’ ((Dempwolff 1938))
 PPn *quna ‘fish scale, turtle shell’ (pollex)
   Pn:  Niuean        una             ‘turtle shell’
   Pn:  Tongan        ʔuno-ʔuno       ‘fish scales, turtle shell’
-  Pn:  Samoan        una             (una laumei ‘scale of hawk’s bill turtle, i.e. tortoise-shell’)
-  Pn:  Pukapukan     unawi           ‘fish scales’ (una ‘scale of turtle shell’)
-  Pn:  Tikopia       unafi           ‘fish scales’ (una ‘carapace of marine turtle’)
-  Pn:  Hawaiian      unahi           ‘fish scales’ (una ‘shell of turtle or tortoise’)
+  Pn:  Samoan        una             (_una laumei_ ‘scale of hawk’s bill turtle, i.e. tortoise-shell’)
+  Pn:  Pukapukan     unawi           ‘fish scales’ (_una_ ‘scale of turtle shell’)
+  Pn:  Tikopia       unafi           ‘fish scales’ (_una_ ‘carapace of marine turtle’)
+  Pn:  Hawaiian      unahi           ‘fish scales’ (_una_ ‘shell of turtle or tortoise’)
 cf. also:
   PT:  Sinaugoro     cunave         ‘fish scales’
   Pn:  Niuean        hinafi         ‘fish scales, to scale a fish’
@@ -5936,13 +5936,13 @@ cf. also:
 
 Many languages distinguish between pectoral (breast), dorsal (back), caudal (tail) and ventral
 (abdominal) fins. Reconstructions have been made for the first two. The reconstruction of the
-next etymon, POc *banic ‘arm, hand, wing, fin (probably pectoral)’, entails some minor formal
-problems. All cognates reflect initial *b- except those in the Central Papuan languages
-Balawaia, Motu and Mekeo, which reflect *p-. Blust (ACD) reconstructs PMP *pani(d,j) with
-either *-d or *-j as final consonant. The only Oceanic reflex with an etymological final consonant
-is Vitu baniti-, pointing to POc *-t or *-c. The most straightforward analysis is that PMP
-*panij became POc *banic by regular sound change. The final consonants of Wampur bani-t
-and Mapos Buang bani-s can be ignored, as they reflect a probable construct suffix found
+next etymon, POc _*banic_ ‘arm, hand, wing, fin (probably pectoral)’, entails some minor formal
+problems. All cognates reflect initial _*b-_ except those in the Central Papuan languages
+Balawaia, Motu and Mekeo, which reflect _*p-_. Blust (ACD) reconstructs PMP _*pani(d,j)_ with
+either _*-d_ or _*-j_ as final consonant. The only Oceanic reflex with an etymological final consonant
+is Vitu _baniti-_, pointing to POc _*-t_ or _*-c_. The most straightforward analysis is that PMP
+_*panij_ became POc _*banic_ by regular sound change. The final consonants of Wampur _bani-t_
+and Mapos Buang _bani-s_ can be ignored, as they reflect a probable construct suffix found
 on inalienably possessed nouns in Huon Gulf languages. The POc meaning of this term had
 clearly been extended beyond ‘wing’ to include the pectoral fins of fish, the wings of birds
 and the arms of human beings.
@@ -5966,9 +5966,9 @@ POc *banic ‘arm, hand, wing, fin (probably pectoral)’
   NNG:   Wampur        bani-t            ‘wing’
   NNG:   Mapos Buang   bani-s            ‘fin, wing’
   PT:    Gumawana      pane-pane(na)     ‘fish fins, bird’s wing’
-  PT:    Balawaia      vane              ‘wing, fin’ (for ''`'bani)
-  PT:    Motu          hani              ‘fin, wing’ (for ''`'bani)
-  PT:    Mekeo         pa-pani           ‘wing-like object, incl. fins’ (for ]bani)
+  PT:    Balawaia      vane              ‘wing, fin’ (for †_bani_)
+  PT:    Motu          hani              ‘fin, wing’ (for †_bani_)
+  PT:    Mekeo         pa-pani           ‘wing-like object, incl. fins’ (for †_bani_)
   MM:    Vitu          baniti-           ‘wing, upper arm’
   NCV:   Mota          panei, paniu      ‘hand and arm, wing, pectoral fin, pig’s shoulder’
   NCV:   Merlav        bani              ‘wing’
@@ -5984,11 +5984,11 @@ POc *banic ‘arm, hand, wing, fin (probably pectoral)’
                                                                                                  Fish    133
 
 
-     POc *kaba (N) ‘wing’, (v) ‘flap wings’ (this volume, p.275) may be reduplicated to refer
+     POc _*kaba_ (N) ‘wing’, (v) ‘flap wings’ (this volume, p.275) may be reduplicated to refer
 to the action of flapping back and forth, and in Polynesian languages this meaning is extended
 to include the action of fins, flippers and wings together with the name of the bodypart.
-Similarly, a number of Papuan Tip languages, Gumawana pane-panena, Molima pape, Wedau
-papena and Mekeopa-pani use terms unrelated to *kaba-kaba to refer to both a bird’s wing
+Similarly, a number of Papuan Tip languages, Gumawana _pane-panena_, Molima _pape_, Wedau
+_papena_ and Mekeo _pa-pani_ use terms unrelated to _*kaba-kaba_ to refer to both a bird’s wing
 or its flapping action and for a fish fm/turtle flipper.
 
 <
@@ -6015,7 +6015,7 @@ POc *kapi-kapi ‘pectoral fins’
   MM: Marovo               kapi-kapi        ‘pectoral fins’
 >
 
-    Alternatively, a reflex of POc *laliija ‘ear’ is sometimes used to refer to a pectoral fin.
+    Alternatively, a reflex of POc _*taliŋa_ ‘ear’ is sometimes used to refer to a pectoral fin.
 
 <
 POc *taliŋa ‘pectoral fins’ (semantic extension of *talhja ‘ear’)
@@ -6026,8 +6026,8 @@ POc *taliŋa ‘pectoral fins’ (semantic extension of *talhja ‘ear’)
   Fij: Rotuman         faliŋa         ‘pectoral fins’
 >
 
-[38] WMP Kagayanenkapi-kapi ‘fin’ (dorsal), Murut ka-kapi ‘ventral fin’, Javanese kepet ‘fin’ and Balinese kepes
- ‘fin (generic)’ (CAD) support reconstruction of PMP *kapi-kapi ‘fin’.
+[38] WMP Kagayanen _kapi-kapi_ ‘fin’ (dorsal), Murut _ka-kapi_ ‘ventral fin’, Javanese _kɛpɛt_ ‘fin’ and Balinese _kepes_
+ ‘fin (generic)’ (CAD) support reconstruction of PMP _*kapi-kapi_ ‘fin’.
 
 134   Meredith Osmond
 
@@ -6038,7 +6038,7 @@ POc *siRiko ‘fish fin’
    NCV:     Uripiv       siki            ‘fin’
    Fij:    Wayan        siko-silo       ‘fin’
 cf. also:
-   Mic:     Ponapean     sike            ‘top and bottom fins of a fish’ (,s for ft)
+   Mic:     Ponapean     sike            ‘top and bottom fins of a fish’ (_s_ for †_t_)
 >
 
 <
@@ -6078,15 +6078,15 @@ PPn *kōpū ‘fish gullet’
   Pn:  Hawaiian        ōpū        ‘gizzard, maw of animal, crop of bird’
 >
 
-[39] WMP cognates: Palauan and Molbog sirik, Minangkabau and Bugis siri?, all ‘(dorsal) fin’ (Tryon 1995)
- support reconstruction of PMP *siRik ‘dorsal fin’.
+[39] WMP cognates: Palauan and Molbog _sirik_, Minangkabau and Bugis _siriʔ_, all ‘(dorsal) fin’ (Tryon 1995)
+ support reconstruction of PMP _*siRik_ ‘dorsal fin’.
 
                                                                                     Fish    135
 
 
 2.66.6 Barb of stingray
 
-Reflexes of POc *poto(k) ‘thorn’ (vol.3, p. 125) have come to refer to the spike or spines of a
+Reflexes of POc _*poto(k)_ ‘thorn’ (vol.3, p. 125) have come to refer to the spike or spines of a
 fish in Wayan Fijian and the barb of a stingray in Polynesian languages.
 
 <
@@ -6107,14 +6107,14 @@ PPn *foto ‘barb of stingray’
 
 In this chapter I have reconstructed around 145 Proto Oceanic names for fish spread across
 approximately eighty families. All reconstructions bar one are uninomials, the only binomial
-reconstructable to POc level being *paRi-manuk ‘_Aetobatus narinari_, spotted eagle ray’.
+reconstructable to POc level being _*paRi-manuk_ ‘_Aetobatus narinari_, spotted eagle ray’.
 Uninomials can refer to fish at the family, genus or species level, and in the case of sharks
-bakewa) and rays (*(*paRf), at the level of suborder. In a number of cases I have been able to
-identify a reconstruction as ageneric. Examples include *bakewa ‘sharks’, *paRi ‘ray’, *saku
- ‘needlefish’, *taRaqcm ‘squirrelfish’, *kcmase ‘mullet spp.’,*/7777« ‘fresh water eels’, *qonos
- ‘Sphyraena, barracudas’. Generics may form the headword in a binomial subsuming two or
+(_*bakewa_) and rays (_*paRi_), at the level of suborder. In a number of cases I have been able to
+identify a reconstruction as ageneric. Examples include _*bakewa_ ‘sharks’, _*paRi_ ‘ray’, _*saku_
+ ‘needlefish’, _*taRaqam_ ‘squirrelfish’, _*kanase_ ‘mullet spp.’, _*tuna_ ‘fresh water eels’, _*qonos_
+ ‘_Sphyraena_, barracudas’. Generics may form the headword in a binomial subsuming two or
 more species, or may simply be used to include two or more subtaxa. Another kind of generic
-is that illustrated by *bebek ‘generic for butterflyfish, coralfish’, which is simply a lumped
+is that illustrated by _*bebek_ ‘generic for butterflyfish, coralfish’, which is simply a lumped
  category with no sub-taxa. In some instances it has been possible to link a reconstruction to
  a particular species. However, for the majority of reconstructions it has only been possible
 to allocate an identity at the level of genus or family. Undoubtedly, POc fish nomenclature
@@ -6139,10 +6139,9 @@ for those we have.
 136   Meredith Osmond
 
 
-
 
 
-3 Patterns ofstability and change in Oceanic fish names
+3 Patterns of stability and change in Oceanic fish names
 
 
 3.1 Introduction
@@ -6154,7 +6153,7 @@ kinds of fish and fishing methods may prove to be as stable as words in standard
 lists, such as the Swadesh 100 and 200 word lists. Stability in the lexicon can be
 defined, operationally, in terms of retention rates of particular etyma in daughter languages.
 Her suggestion rested on the observations that Polynesian fish names ‘reveal a high degree
-of uniformity and semantic correspondence ..., which is attributable to a comparative uniformity
+of uniformity and semantic correspondence …, which is attributable to a comparative uniformity
 in the ichthyological fauna of the tropical South Pacific’ (Hooper 1994:186) and that in
 Polynesian communities fishing has great economic and cultural importance. Hooper did not
 undertake a close statistical analysis of retention rates for fish names or other fishing terms
@@ -6176,12 +6175,12 @@ all Polynesian languages except Tongan and Niuean, she reconstructed 147. Geragh
 was able to recover some 150 secure terms for Proto Central Pacific, the immediate ancestor
 of Polynesian, Fijian and Rotuman.
 
-[1] dedicate this paper to the memory of Phil Quick, whose research on the Pendau language of Sulawesi included
+[1] I dedicate this paper to the memory of Phil Quick, whose research on the Pendau language of Sulawesi included
 detailed study of Pendau fish names and fishing knowledge (Quick 2005. 2010). I am indebted to Meredith
 Osmond for carefully checking the details of all the tables and for thorough-going critical commentary on an
 earlier draft, and to Malcolm Ross for helpful comments.
 
-138   A tidrew Paw ley
+138   Andrew Paw ley
 
 
      Comparative analysis of contemporary lexicons for fishing communities speaking Oceanic
@@ -6200,7 +6199,7 @@ R.H. Carcasson writes as follows of the fish fauna of the tropical Indo-Pacific 
 |      Central Indo-Pacific. consisting roughly of the Malay Archipelago, the Philippines and
 |      New Guinea, has a richer fauna than any other part of the Region and has probably been
 |      the principal evolutionary centre from which the entire Indo-Pacific has been populated.
-|      As one moves away from this area, the fauna becomes progressively impoverished...
+|      As one moves away from this area, the fauna becomes progressively impoverished …
 |      (Carcasson 1977:13).
 
 More than 150 families of fish occur in the Indo-Pacific region. Although the number of genera and
@@ -6234,8 +6233,8 @@ around 3400-3450 BP (Specht 2007). By 3200-3100 BP bearers of this culture had s
 the Reefs-Santa Cruz group, east of the main Solomons group (Green 2003, Green et al.
 2008), and by about 3000 BP or earlier they had occupied Vanuatu (Bedford 2003, 2006),
 New Caledonia (Sand 2003) and Fiji (Nunn et al. 2004, Clark and Anderson 2009). By 2900
-Lapita populations were present in the southern part of the Tongan group (Burley and Con-
-naughton 2007) and by 2800-2700 they were in Samoa and the small islands between Tonga
+Lapita populations were present in the southern part of the Tongan group (Burley and Connaughton 2007)
+and by 2800-2700 they were in Samoa and the small islands between Tonga
 and Samoa: Futuna, Uvea (Wallis) and Niuatoputapu (Clark and Anderson 2009).
 
     The carriers of Lapita material culture were, almost certainly, the first people to settle the
@@ -6245,8 +6244,8 @@ Bismarcks, we would expect that their first colonists spoke forms of Oceanic tha
 greatly differentiated from their common ancestor, Proto Oceanic.[2]
 
 [2] For example, the Proto Central Pacific (PCP) dialect complex, immediately ancestral to the
-Fijian and Poly nesian languages and Rotuman, can be equated with the first couple of centuries of Lapita settlement in Fiji.
- PCP retained about 91 percent of POc basic vocabulary’ on a 200 item list (Pawley 2010).
+Fijian and Polynesian languages and Rotuman, can be equated with the first couple of centuries of Lapita settlement in Fiji.
+ PCP retained about 91 percent of POc basic vocabulary on a 200 item list (Pawley 2010).
 
 
 3.2 Methodological preliminaries
@@ -6284,25 +6283,25 @@ deep sea’, and functional categories, like ‘poisonous fish’.
 
 __pre__
          Table 3.1     Details of languages cited (all Oceanic except Palauan and Pendau)
-   Name                  Location                       Subgroup         Main source
+   Name                  Location                        Subgroup          Main source
    ---
-   Arosi                 Makira, eastern Solomons       SE Solomonic     Fox 1978
-   Gela                  Florida, central Solomons      SE Solomonic     Foale 1998
-   K’marangi             atoll south of the Carolines   Polynesian       Lieber and Dikepa 1974
-   Kiribati              atoll chain, Kiribati          Micronesian      Thaman & Tabano n.d.
-   Lau                  Malaita, SE Solomons            SE Solomonic     Fox 1974. Akimichi 1978
-   Marovo               New Georgia. W Solomons         NW Solomonic     Hviding 1990. 1996. 2005
-   Marquesan            Eastern Polynesia               Polynesian       Lavondes 1977
-   M’bunai Titan         Admiralty Islands. PNG         Admiralties      Akimichi & Sakivama 1991
-   Motu                  Central Province, PNG          Papuan Tip       Oram n.d.
-   Mutu (Mandok)         Vitiaz Straits, PNG            North New Guinea Pomponio n.d.
-   Niuatoputapu          small high island, W Polynesia dialect of Tongan Dye 1983
-   Palauan               Western Carolines              Malayo-Polynesian Helfmann & Randall 1973
-   Pendau                Central Sulawesi               Malayo-Polynesian Quick 2005. 2010
-   Satawalese            Central Carolines              Micronesian      Akimichi & Sauchomal 1982
-   Teop                 NE Bougainville, PNG            NW Solomonic     Shoffner 1976
-   Uvean (Wallisian)     high island, W Polynesia       Polynesian       Rensch 1983
-   Wayan                small high island, W Fiji      Fijian           Pawley & Savaba 2003
+   Arosi                 Makira, eastern Solomons        SE Solomonic      Fox 1978
+   Gela                  Florida, central Solomons       SE Solomonic      Foale 1998
+   K’marangi             atoll south of the Carolines    Polynesian        Lieber and Dikepa 1974
+   Kiribati              atoll chain, Kiribati           Micronesian       Thaman & Tabano n.d.
+   Lau                   Malaita, SE Solomons            SE Solomonic      Fox 1974. Akimichi 1978
+   Marovo                New Georgia. W Solomons         NW Solomonic      Hviding 1990. 1996. 2005
+   Marquesan             Eastern Polynesia               Polynesian        Lavondes 1977
+   M’bunai Titan         Admiralty Islands. PNG          Admiralties       Akimichi & Sakivama 1991
+   Motu                  Central Province, PNG           Papuan Tip        Oram n.d.
+   Mutu (Mandok)         Vitiaz Straits, PNG             North New Guinea  Pomponio n.d.
+   Niuatoputapu          small high island, W Polynesia  dialect of Tongan Dye 1983
+   Palauan               Western Carolines               Malayo-Polynesian Helfmann & Randall 1973
+   Pendau                Central Sulawesi                Malayo-Polynesian Quick 2005. 2010
+   Satawalese            Central Carolines               Micronesian       Akimichi & Sauchomal 1982
+   Teop                  NE Bougainville, PNG            NW Solomonic      Shoffner 1976
+   Uvean (Wallisian)     high island, W Polynesia        Polynesian        Rensch 1983
+   Wayan                 small high island, W Fiji       Fijian            Pawley & Savaba 2003
 
 
 3.2.2.2 Uninomials vs binomials
@@ -6333,23 +6332,23 @@ Counting the number of lexical units in a folk taxonomy is not completely straig
 There are several ways of counting members, which give different results. First, one can count
 the total number of terms that represent taxa. Each formally distinct term is counted separately
 even if it has synonyms, e.g. Australian English chook, fowl, and chicken ‘domestic
- fowl, Gallus gallus’ count as three terms. Second, one can count just the number of contrasting
- taxa, in the sense of distinct conceptual categories, treating as a single taxon any set of
- referential synonyms (i.e. two or more terms that have the same referential meaning). In this
- case, for some English speakers the three terms chicken, fowl and chook would represent one
- taxon. In this study totals generally refer to the number of distinct terms for fish taxa provided
- by each source, because it is not always possible to identify synonyms in a list of names.
+fowl, Gallus gallus’ count as three terms. Second, one can count just the number of contrasting
+taxa, in the sense of distinct conceptual categories, treating as a single taxon any set of
+referential synonyms (i.e. two or more terms that have the same referential meaning). In this
+case, for some English speakers the three terms chicken, fowl and chook would represent one
+taxon. In this study totals generally refer to the number of distinct terms for fish taxa provided
+by each source, because it is not always possible to identify synonyms in a list of names.
 
      Another variable is names for growth stages. For certain species in several groups (e.g.
- barracuda, eels, groupers, wrasses, mullet, trevally, sharks) Oceanic languages commonly
- distinguish two or more growth stages. In this study I follow the standard practice of treating
- each name for a growth stage as representing a distinct taxon.
+barracuda, eels, groupers, wrasses, mullet, trevally, sharks) Oceanic languages commonly
+distinguish two or more growth stages. In this study I follow the standard practice of treating
+each name for a growth stage as representing a distinct taxon.
 
      Yet another variable is polysemy. Some terms have two senses, one referring to a more
- specific category, another to a more general one (e.g. cat can refer to the domestic cat, Felis
+specific category, another to a more general one (e.g. cat can refer to the domestic cat, Felis
 felis, or more broadly to any member of the cat family (lion, tiger, cheetah, etc.) In this study
- generic and specific senses of fish names are not counted separately, chiefly because we lack
- reliable data on such sense differences for most languages.
+generic and specific senses of fish names are not counted separately, chiefly because we lack
+reliable data on such sense differences for most languages.
 
 
 3.2.4 Semantic reconstruction
@@ -6390,12 +6389,12 @@ around 1400 years ago. This estimate is reasonable as a latest possible date of 
     Second, Hooper’s assessment of average retention rates for fish names is based on just
 those 112 uninomials that have been reconstructed for PPn. These etyma will be a subset of
 the total number of fish names used in PPn (less stable names will not have been recovered).
-How small a subset is 112? For reasons indicated in §4,1 estimate the number of uninomials
+How small a subset is 112? For reasons indicated in §4, I estimate the number of uninomials
 in PPn to be more than 200. To take the case of Uvean, 74 retentions out of 200 would equate
 to a retention rate of 37 percent, still substantial but much less than 66 percent. Third, in some
 cases semantic matches between PPn fish names and their reflexes are not exact, e.g. the POc
 generic term for ‘shark’ is continued in some daughter languages by a term that refers to
-the Remora or sucking fish, which attaches itself to sharks. In standard glottochronological
+the _Remora_ or sucking fish, which attaches itself to sharks. In standard glottochronological
 procedure, a form that continues a proto-language etymon but changes the meaning is not
 counted as a retention. In the case of PPn fish names that refer to particular families, genera
 or species, a reasonable compromise would be to count a reflex as retained in a daughter
@@ -6422,12 +6421,12 @@ The former is a measure of how often pairs of languages have cognate words for a
 meaning on the list. The latter is a measure of how often a given reconstructed etymon is
 retained with the same meaning. But cognation rate in Dyen et al’s study will generally be
 a fairly accurate indicator of retention rate. For example, if a meaning, say ‘louse’, shows a
-high cognation rate it is almost certainly represented by an etymon (in this case, *kutu) that
+high cognation rate it is almost certainly represented by an etymon (in this case, _*kutu_) that
 was present in a proto-language ancestral to most or all 89 languages in Dyen et al.’s sample
 and that has been continued by a high proportion of daughter languages.
 
 [3] Why do basic vocabulary items vary so markedly in cognation rates? Differences in frequency of use in
- discourse may be an important part of the answer but it cannot be the whole answer. Indeed, forms for the ‘verb ’
+ discourse may be an important part of the answer but it cannot be the whole answer. Indeed, forms for the ‘verb’
  meaning that is most frequent in spoken discourse in most languages of the world, ‘say’, have a cognation rate
  of less than one percent in the study by Dyen et al., while forms for the less frequent ‘die’ and ‘eat’ score about
  60 percent. The meaning ‘vomit’ (22%) scores higher than ‘come’ (15%) and ‘live’ (9%), although the latter
@@ -6443,9 +6442,10 @@ and that has been continued by a high proportion of daughter languages.
                                             Stability and change in Oceanic fish names     143
 
      Retention rates for what are approximately the most stable 60 items of POc basic vocabulary
-in a modified Swadesh list were presented in Pawley (2009). Retentions and replacements were recorded in a sample of 40 present-day Oceanic languages. Retention rates for
-individual items ranged between 97 and 23 percent. Each of the 24 most persistent POc et-
-yma were retained by 70 percent or more languages, 44 etyma were retained by 50 percent
+in a modified Swadesh list were presented in Pawley (2009). Retentions and replacements were
+recorded in a sample of 40 present-day Oceanic languages. Retention rates for
+individual items ranged between 97 and 23 percent. Each of the 24 most persistent POc etyma
+were retained by 70 percent or more languages, 44 etyma were retained by 50 percent
 or more languages, 54 by 40 percent or more, and 60 by 23 percent or more.
 
      Given that individual basic vocabulary items vary so much in their retention rates, there
@@ -6484,71 +6484,64 @@ etymon then show alternate figures, one not counting, the other counting the dou
 
 __pre__
       Table 3.2     Presence/absence of reflexes of POc fish names in twelve languages (1)
-       *ikan             ‘generic for fish (and certain other free-swimming aquatic creatures)’
+       *ikan            ‘generic for fish (and certain other free-swimming aquatic creatures)’
        *bakewa          ‘generic for sharks’
        *paRi            ‘generic for rays’
-       *tuna             ‘generic for freshwater eels (_Anguillidae_)’
+       *tuna            ‘generic for freshwater eels (_Anguillidae_)’
        *qawaq           ‘milkfish, Chanos chanos (_Chanidae_)’
        *saku            ‘needlefish and long toms (_Belonidae_)’
-       *qonos            ‘mature Sphyraena spp., possibly generic for all barracuda
+       *qonos           ‘mature Sphyraena spp., possibly generic for all barracuda
        *qaln            ‘taxon of barracuda (_Sphyraenidae_)’
-       *taijiRi          ‘_Scombridae_ spp., probably incl. Spanish mackerel and wahoo’
+       *taŋiRi          ‘_Scombridae_ spp., probably incl. Spanish mackerel and wahoo’
        *qatun           ‘skipjack tuna, Katsuwonuspelamis, (_Scombridae_)’
        *walu            ‘_Scombridae sp._ or spp.’
-       *saku-layaR       ‘sailfish (_Istiophoridae_)’
-       *sabutu           ‘snapper (Lutjanus) or emperor (Lethrinus) sp. or spp.’
-                                                                               5                    <z>
-                                                o                              e.                   c
-                                                >                        c
-                                                                         cC    o     eð                       fl
-                          c     5    s    cu    o                 ’to    >>    ‘5                   u-        4>
-                                                                                                              Q
-                         —eð<   o         o     eə    "aS    5
-                                                             eð    o                ’C                        Uh
+       *saku-layaR      ‘sailfish (_Istiophoridae_)’
+       *sabutu          ‘snapper (Lutjanus) or emperor (Lethrinus) sp. or spp.’
                                           £                              £          2              6
                         H       S    S          S     0      u                 £           GC      a          cu
+       --- | ---
        *ikan            y            y          y     y      y    y      y     y     y     y      10         83
-       *bakewa          y       y4   -    y     -     y      y    y      -     -     y     y       8         67
-       *paRi            y       -    -    -     y5    y      y    y      y     y     ?6    y     8-9      67/75
+       *bakewa          y       y[4] -    y     -     y      y    y      -     -     y     y       8         67
+       *paRi            y       -    -    -     y[5]  y      y    y      y     y     ?[6]  y     8-9      67/75
        *tuna            -       -    y    -     -     -      -    -      y     y     -     -       3         25
-       *qawaq           -       -         -     -            -    _7                               6         50
+       *qawaq           -       -         -     -            -    _[7]                             6         50
                                      y                y                  y     y     y     y
-       *saku                                                                         _8            3         25
+       *saku                                                                         _[8]          3         25
                                                                          y     y           y
-       *qonos           —            -    -     -                        _9          -     -       5         42
+       *qonos           —            -    -     -                        _[9]        -     -       5         42
                                 y                     y      y    y            y
        *qalu            y       -    -    -     -     y      -    -      -     -     -     -       2         17
-       *taijiRi         ylO     -                     _n     -    _12    -     -                   6         50
+       *taijiRi         y[10]   -                     _[11]  -    _[12]  -     -                   6         50
                                      y    y     y                                    y     y
        *qatun           -       -    -    y     -     y      y    y      y     y     y     y       8         67
-       *walu            -            -    -     -     _13    -    -                  -     -       3         25
+       *walu            -            -    -     -     _[13]  -    -                  -     -       3         25
                                 y                                        y     y
-       *saku-layaR                                                                   ?14         4-5      33/42
+       *saku-layaR                                                                   ?[14]       4-5      33/42
                         y                                                y     y           y
        *sabutu          -       y    -    -     -     -      -    -      y     y     -     -       3         25
 
 
-[4] mayoa for ^bayewa.
+[4] _maɣoa_ for †_baɣewa_.
 
-[5] Only example is vari-popolo ‘bull ray. Mylob ahis’.
+[5] Only example is _vari-popolo_ ‘bull ray. _Mylobatus_’.
 
-[6] baimanu ‘devil-headed manta ray’ for ^aimanu. Borrowed?
+[6] _baimanu_ ‘devil-headed manta ray’ for †_aimanu_. Borrowed?
 
-[7] Arosi has saw a ‘mullet’ (confusion with reflex of *(k,q)aRual).
+[7] Arosi has _sawa_ ‘mullet’ (confusion with reflex of _*(k,q)aRua_?).
 
-[8] raku ‘swordfish’ for f ‘needlefish’.
+[8] _raku_ ‘swordfish’ for †‘needlefish’.
 
-[9] Wayan has ono ‘Lienardella fasciata. harlequin tuskfish (_Labridae_)'.
+[9] Wayan has _ono_ ‘_Lienardella fasciata_. harlequin tuskfish (_Labridae_)'.
 
-[10] taŋini for ''`laŋi.
+[10] taŋini for †_taŋi_.
 
-[11] Loss of first syllable. Hi for ^taŋili.
+[11] Loss of first syllable. _ili_ for †_taŋili_.
 
 [12] Wrong meaning: ‘shoal of porpoises’.
 
-[13] Changed meaning: alu ‘barracuda’ not ‘_Scombridae_, possibly Spanish mackerel’.
+[13] Changed meaning: _alu_ ‘barracuda’ not ‘_Scombridae_, possibly Spanish mackerel’.
 
-[14] Only first part cognate in compound raku-riri ‘Pacific sailfish’, raku generic for _Istiophoridae_ and _Xiphiidae_.
+[14] Only first part cognate in compound _raku-riri_ ‘Pacific sailfish’, _raku_ generic for _Istiophoridae_ and _Xiphiidae_.
 
                                                        Stability and change in Oceanic fish names          145
 
@@ -6559,83 +6552,60 @@ __pre__
       *taRaqan            ‘squirrelfish, _Sargocentron sp._ or spp. (_Holocentridae_)’
       *jumu               ‘triggerfish (_Balistidae_) and possibly leatherjackets (_Monacanthidae_)’
       *bebek              ‘generic for butterflyfish and coralfish (_Chaetodontidae_)’
-      *kuRapu             ‘rock-cod, _Epinephelus sp._ or spp. including _E. lanceolatus_,
-                          Queensland grouper (_Serranidae_)’
+      *kuRapu             ‘rock-cod, _Epinephelus sp._ or spp. including _E. lanceolatus_, Queensland grouper (_Serranidae_)’
       *palaja             ‘rabbitfish, _Siganus spp._ (_Siganidae_)’
       *laci               ‘_Scomberoides spp._, incl. _S. lysan_ (_Carangidae_)’
       *qulua              ‘_Caranx sp._, possibly _C. ignobdis_. big-headed jack (_Carangidae_)’
       *pilu               ‘_Caranx sp._ or spp. (_Carangidae_)’
-      *qatule             ‘scad spp. (_Carangidae_), incl. Trachurops crumenophthalmus,
-                          big-eyed scad’
+      *qatule             ‘scad spp. (_Carangidae_), incl. Trachurops crumenophthalmus, big-eyed scad’
       *taRutu(m,q)        ‘porcupinefish, _Diodon spp._ (_Diodontidae_)’
       *kanase             ‘generic for certain mullet (_Mugilidae_)’
       *bunaR              ‘batfish, _Platax sp._ (_Platacidae_)’
       *tiqo               ‘goatfish sp. (_Mullidae_)’
-                                                                             -5                  cZ)
-                                                                             cL                  c
-                                                                             θd          Q        O
-                                                                                                  a
-                                                 o                           fl­         13       0>
-                                                                                                           S3
-                                                 >                     a
-                                                                             o
-                          c               fl­    o      S3       ’to   S3
-                                                                             S3
-                                                                                                  0>
-                                                                                                  s-h
-                                                                                                           0>
-                          eð
-                                o         o            ‘5    §    o          fl    ’C                      Q
-                                                                                                           s-h
-                                          £
-                                                                  Uh
-                                                                                         15       6        0>
                                                                              %           GC       fl       fl-
-      *kulabo                  -          -      -     -     -   -     _15         -     -        2        17
+      *kulabo                  -          -      -     -     -   -     _[15]         -     -        2        17
                           y         -
                                                                              y
-      *[n,n]opuq                                             -   7I6                          10-11     83/91
+      *[n,n]opuq                                             -   ?[16]                        10-11     83/91
                           y    y    y     y      y     y               y     y     y     y
       *taRaqan            -    y    -     -      -     y     -   -     -     y     y     y        5        42
       *jumu               -    y    -     -      -     -     -   -     y     y     -     -        3        25
       *bebek              -    y    -     -      -     -     y   -     -     -     y     -        3        25
-      *kuRapu             y    -    -     ?17    -     y     y   y     y     -     y     y      7-8     58/67
-      *palaja                  -    -     -      -     -         7I8         -     -     -      3-4     25/33
+      *kuRapu             y    -    -     ?[17]  -     y     y   y     y     -     y     y      7-8     58/67
+      *palaja                  -    -     -      -     -         ?[18]       -     -     -      3-4     25/33
                           y                                  y         y
       *laci               y    y    y     -      y     y     -   -     -     y     y     -        7        58
-      *qulua                                                                       719   -      1-2      8/17
+      *qulua                                                                       ?[19  -      1-2      8/17
                                                                              y
       *pilu                                                            y     y     -     y        3        25
       *qatule             y                                            y     y     -     -        3        25
       *taRutu(m,q)        -    -    -     -      -     -     y   -     -     y     y     -        3        25
       *kanase             -    -    -     y      -     -     -   y     y     y     -     -        4        33
-      *bunaR              -    -                 -     -     -   -     720   -     -     -      2-3     17/25
+      *bunaR              -    -                 -     -     -   -     ?[20] -     -     -      2-3     17/25
                                     y     y
       *tiqo               -    y    -     y      -     y     -   -     -     -     y     y        5        42
 
-[15] kula for ykulabo.
+[15] _kula_ for †_kulabo_.
 
 [16] Vague gloss: ‘k.o. fish’/’fish with spiny ridge’.
 
-[17] ravw. first syllable missing.
+[17] _ravu_: first syllable missing.
 
 [18] Vague gloss: ‘k.o. fish’.
 
-[19] urua for ^unu. Borrowed?
+[19] _urua_ for †_unu_. Borrowed?
 
-[20] vuna for ^buna.
+[20] _vuna_ for †_buna_.
 
 146    Andrew Pawley
 
 __pre__
       Table 3.4      Presence/absence of reflexes of POc fish names in twelve languages (3)
-       *(k,q)ulapi           ‘parrotfish spp. (_Carangidae_) incl. Hipposcarus longiceps,
-                             longnosed parrotfish’
+       *(k,q)ulapi           ‘parrotfish spp. (_Carangidae_) incl. Hipposcarus longiceps, longnosed parrotfish’
        *bala(q,k)i           ‘!1canthurus and _Naso spp._ (_Acanthuridae_)’
        *qume                 ‘unicornfish, Naso unicornis (_Acanthuridae_)’
        *koto(ij)             ‘large rock cod, _Epiphenilus spp._ (_Serranidae_)’
-       *don(o,u)             ‘rock cod, possibly Cephalopholis (= Plectropomus) spp.
-                             (_Serranidae_)’
+       *don(o,u)             ‘rock cod, possibly Cephalopholis (= Plectropomus) spp. (_Serranidae_)’
        *(k,q)umutuR          ‘sweetlips, _Plectorhynchus spp._ (_Haemulidae_)’
        *b‘a[p,w]a           ‘snapper, _Lutjanus sp._ (_Lutjanidae_)’
        *tasiwa               ‘snapper, _Lutjanus sp._ (_Lutjanidae_)’
@@ -6671,11 +6641,9 @@ __pre__
       *paya                ‘anchovy (_Engraulidae_)’
       *(k,q)aRua(s)        ‘generic for mullet (_Mugilidae_)’
       *bubu                ‘triggerfish, _Balistes sp._ (_Balistidae_)’
-      *taRat               ‘unicomfish, _Naso spp._, probably incl. _N. brevinostris_
-                           (_Acanthuridae_)’
+      *taRat               ‘unicomfish, _Naso spp._, probably incl. _N. brevinostris_ (_Acanthuridae_)’
       *qaroijo             ‘surgeonfish, _Acanthurus sp._ (_Acanthuridae_)’
-      *mamin               ‘_Cheilinus spp._ (_Labridae_), incl. double-headed Maori wrasse,
-                           _C. undulatus_’
+      *mamin               ‘_Cheilinus spp._ (_Labridae_), incl. double-headed Maori wrasse, _C. undulatus_’
       *taqapa(Rr)          ‘large wrasse, probably _Cheilinus sp._ (_Labridae_)’
       *magaRut             ‘flying fish (_Exocoetidae_)’
       'fianapa             ‘garfish, _Hemiramphus sp._ (_Hemiramphidae_)’
@@ -6683,46 +6651,36 @@ __pre__
       *kaboRa              ‘catfish-eel, _Plotosus sp._ (_Plotosidae_)’
                                                                                           CO
                                                                                          _o         a>
-                                                                                         '-fl       on
-                                                                                          c
-                                                                                          <D
-                                                                                                    eð
-                                                                                         4—*c
-                           c
-                           ce     ao    aa    fl                                              fl
-                                                                                          <D
-                                                                                                    Q
-                                                                                                    i—
                                                                                           b
                           H             S     £                                           c         CL
-      *paya               _22    -            -                                           1          8
+      *paya               _[22]  -            -                                           1          8
                                         y
       *(k,q)aRua(s)       y      -      -     -     —     y   y   —   —   y   y   y       6        50
       *bubu               y      -      -     y     -     -   y   y   y   -   y   y       7        58
-      *taRat              -      y23    -     -           -   —   —       -   —           4        ɔɔ
+      *taRat              -      y[23]  -     -           -   —   —       -   —           4        ɔɔ
                                                     y                 y           y
                                                                                           o
       fiaroŋo             y                                               y   y   —       J        25
       *mamin              y      y      y     -     y                             y       5        42
-      *taqapa(R,r)                                                            -   p24   3-4     25/33
+      *taqapa(R,r)                                                            -   ?[24] 3-4     25/33
                           y                                           y   y
                                                                                           o
-      *magaRut            y      -      -     -                   y               y       J        25
-      *panapa             _25    -      -     p26                                       1-2      8/17
+      *magaRut            y      -      -     -                   y               y       3        25
+      *panapa             _[25]  -      -     ?[26]                                     1-2      8/17
                                                                               y
       *paRi-manuk         -      y      -     -     -     -   -   y   y   y       -       4        ɔɔ
       *kaboRa             —      —      —     —     -     y   —   —   y   -   —   —       2        17
 
 
-[22] Titan par ‘gizzard shad’.
+[22] Titan _par_ ‘gizzard shad’.
 
-[23] Motu tara ‘k.o. fish’.
+[23] Motu _tara_ ‘k.o. fish’.
 
-[24] Satawalese napanap ‘wrasse’.
+[24] Satawalese _napanap_ ‘wrasse’.
 
-[25] Titan cinap ‘barred garfish’ has wrong initial syllable.
+[25] Titan _cinap_ ‘barred garfish’ has wrong initial syllable.
 
-[26] Teop ponpon ‘various garfish spp.’
+[26] Teop _ponpon_ ‘various garfish spp.’
 
 148    Andrew Pawley
 
@@ -6732,9 +6690,9 @@ retained than the least durable.
 
 __pre__
                    Table 3.6      Retention rates for 52 Proto Oceanic fish names
-                   -‘Proto Oceanic fish name
-      retentions
-        83/91      *(n,n)opuq        ‘stonefish, _Synanceia spp._’
+      retentions | Proto Oceanic fish name
+      --- | ---
+        83/91    |  *(n,n)opuq       ‘stonefish, _Synanceia spp._’
            83      *ikan             ‘fish (generic)’
            67      *bakewa           ‘shark (generic)’
            67      *paRi             ‘ray (generic)’
@@ -6744,7 +6702,7 @@ __pre__
            58      *laci             ‘_Scomberoides spp._, incl. _S. lysan_ (_Scrombridae_)’
            50      *(k,q)aRua(s)     ‘mullet, generic (_Mugilidae_)’
            50      *qawaq            ‘milkfish, Chanos chanos (_Chanidae_)’
-           50      *taijiRi          ‘__Scombridae_ spp._, probably incl. Spanish mackerel and
+           50      *taijiRi          ‘_Scombridae_ spp._, probably incl. Spanish mackerel and
                                      wahoo’
             42     *kasika           ‘large emperor, _Lethrinus sp._ (_Lethrinidae_)’
             42     *qonos            ‘mature barracuda (_Sphyraenidae_)’
@@ -6859,10 +6817,10 @@ __pre__
 
 
     Only two fish names have retention rates of more than 70 percent, ranking with the most
-stable 24 basic vocabulary items. One of these is the life form taxon *ikan ‘fish’. The other is
-the generic *(n,n)opuq ‘stonefish’. These repulsive-looking fish are not economically useful
-but are extremely dangerous denizens of the shallow sandy bottoms. The next three most stable forms consist of the respective generics for sharks and rays, *bakewa and *paRi, together
-with *qatun, which denotes one or more species of much-prized game fish in the bonito and
+stable 24 basic vocabulary items. One of these is the life form taxon _*ikan_ ‘fish’. The other is
+the generic _*(n,n)opuq_ ‘stonefish’. These repulsive-looking fish are not economically useful
+but are extremely dangerous denizens of the shallow sandy bottoms. The next three most stable forms consist of the respective generics for sharks and rays, _*bakewa_ and _*paRi_, together
+with _*qatun_, which denotes one or more species of much-prized game fish in the bonito and
 tuna family. Sharks and rays are extremely salient fish for several reasons: they are highly
 distinctive in appearance and behaviour, very large, some kinds are dangerous, and they have
 economic importance. The next five names in the top ten all denote large or fairly large fish
@@ -6902,8 +6860,8 @@ __pre__
 useful. Among those groups with four or more POc names it is noteworthy that carangids,
 scombrids, rock cod and mullet, all important food fish, show high retention rates in both
 PCP and PPn. But it is unclear why, of the four names in the sample representing carangids,
-one, *laci ‘_Scomberoides spp._ incl. _S. lysari_, has been very durable (scoring 58%) while the
-other three have not (*qatule, probably denoting the big-eyed scad, *qulua and *pilu, both
+one, _*laci_ ‘_Scomberoides_ spp. incl. _S. lysan_’, has been very durable (scoring 58%) while the
+other three have not (_*qatule_, probably denoting the big-eyed scad, _*qulua_ and _*pilu_, both
 denoting _Caranx sp._ or spp., all score 25% or less). It is also striking that although most POc
 names for kinds of eels and for _Acanthuridae_ (surgeonfish and unicomfish) are retained in
 PCP, very few are kept in PPn.
@@ -7017,7 +6975,7 @@ infer that roughly 100 Titan binomials were not recorded. At the other extreme, 
 rangi (43%) is considerably above the median; it may be that in this case the list of binomials
 includes some ad hoc descriptive forms and/or that the list of uninomials is far from complete.
 
-[27] In this and Intertables ‘K’marangi’ refers to Kapingamarangi and ‘Niua’ to Niuatoputapu.
+[27] In this and later tables ‘K’marangi’ refers to Kapingamarangi and ‘Niua’ to Niuatoputapu.
 
 154   Andrew Pawley
 
@@ -7110,8 +7068,8 @@ and _Aluteridae_.
 __pre__
     Table 3.14     Mackerels and tuna (Scombroidei); marlin and swordfish (_Xiphiidae_)
                  Niua       Uvean       Kiribati   Satawalese   Gela   Wayan   Titan    Teop    PPn
-    scombrids       8          12             7            10      9       6     13        6      4
-    _Xiphiidae_          1           1          3            2       1       3       2       1      1
+    scombrids       8          12          7           10       9       6      13        6      4
+    _Xiphiidae_     1           1          3            2       1       3       2        1      1
 
 156   Andrew Pawley
 
@@ -7265,11 +7223,11 @@ The total number of fish names so far reconstructed for POc (145) falls far shor
 from the reconstructed inventory? A similar question can be asked about PCP (150-160 reconstructions) and PPn (115).
 
      One category of missing names can easily be identified: binomials. The only secure binomial
-reconstructed for POc is *paRi manuk ‘eagle ray, _Aetobatus narinari_ (lit. ‘bird ray’).
-  saku-layaR ‘swordfish’ is historically analysable into *( *saku ‘needlefish and long toms’
-plus *layaR ‘sail’, but it was not a binomial: it is clear from contemporary evidence that
-*saku-layaR were not a kind of *saku) Of the 160 reconstructions in Geraghty’s (1994) list
-ofPCPfish names, just two are binomials. Of the 115 fish names that Hooper (1994) reconstructs for
+reconstructed for POc is _*paRi manuk_ ‘eagle ray, _Aetobatus narinari_ (lit. ‘bird ray’).
+  (_*saku-layaR_ ‘swordfish’ is historically analysable into _*saku_ ‘needlefish and long toms’
+plus _*layaR_ ‘sail’, but it was not a binomial: it is clear from contemporary evidence that
+_*saku-layaR_ were not a kind of _*saku_) Of the 160 reconstructions in Geraghty’s (1994) list
+of PCP fish names, just two are binomials. Of the 115 fish names that Hooper (1994) reconstructs for
 PPn, just three are binomials. The lack of widespread fully cognate binomial terms
 confirms what many commentators (e.g. Rensch 1983) have said: binomials, or to be more
 exact, the secondary or modifying terms in binomials, are notoriously unstable. Binomials
@@ -7304,20 +7262,20 @@ I do not think it has played much of a part with respect to uninomials. The latt
 refer to genera, families or high-order groups, and in those cases where they refer just to a
  single species it usually is one that is highly distinctive and widespread in the tropical Pacific.
 This is the case for the few POc reconstructions that can be identified as referring, or probably
-referring to a single species, e.g. *qawaq ‘milkfish, Chanos chanos’, *qume ‘unicomfish,
-Naso unicornis’, *mamin ‘double-headed Maori wrasse, _C. undulatus_’ and possibly *qalun
- ‘skipjack tuna, Katsuwonuspelamis’.
+referring to a single species, e.g. _*qawaq_ ‘milkfish, _Chanos chanos_’, _*qume_ ‘unicornfish,
+_Naso unicornis_’, _*mamin_ ‘double-headed Maori wrasse, _C. undulatus_’ and possibly _*qalun_
+ ‘skipjack tuna, _Katsuwonus pelamis_’.
 
      A reasonable hypothesis is that, other things being equal, the persistence of a name will
 correlate with its rank in the taxonomy: names of life-form taxa will be the most persistent,
 followed by major generics, minor generics, and specifics, in that order. There is some
 evidence in support of this hypothesis although what we can say is limited by the lack of
-precise semantic reconstructions for many POc names. The life form *ikan ‘fish’ and the
-major generics *bakewa ‘shark’, *paRi ‘ray’ and *kanase ‘mullet’ show high retention rates.
-However, the generics *bebek ‘butterflyfish and coralfish’, *jumu ‘triggerfish and leatherjackets’,
-*saku ‘needlefish and long toms’ and *tuna ‘freshwater eel’ all score quite low. In
+precise semantic reconstructions for many POc names. The life form _*ikan_ ‘fish’ and the
+major generics _*bakewa_ ‘shark’, _*paRi_ ‘ray’ and _*kanase_ ‘mullet’ show high retention rates.
+However, the generics _*bebek_ ‘butterflyfish and coralfish’, _*jumu_ ‘triggerfish and leatherjackets’,
+_*saku_ ‘needlefish and long toms’ and _*tuna_ ‘freshwater eel’ all score quite low. In
 general minor generics have relatively low retention rates but the single most durable fish
-name, *(n,ri)opuq ‘stonefish’, was probably a minor generic, memorable because the stone
+name, _*(n,ri)opuq_ ‘stonefish’, was probably a minor generic, memorable because the stone
 fish is so dangerous.
 
      I have not carefully scrutinised evidence bearing on the hypothesis that, at the level of
@@ -7369,7 +7327,7 @@ crustaceans and artefacts made from mollusc shells (see §4.1).
 
    Linguistic evidence that foraging on the reef for invertebrates was important to Proto
 Oceanic speakers is found in two widespread cognate sets noted by Clark (1991). Clark’s
-POc reconstructions are given below, with a few additional cognates.2 The first is a verb.
+POc reconstructions are given below, with a few additional cognates.[2] The first is a verb.
 
 <
 POc *paŋoda ‘gather seafood on the reef’ (Clark 1991)
@@ -7394,10 +7352,10 @@ POc *paŋoda ‘gather seafood on the reef’ (Clark 1991)
   Pn:   Ifira-Mele    fāŋota      ‘gather shellfish etc. on the reef’
 >
 
-    The second reconstruction, *p<in>ai]oda, is a nominalisation of the verb using the infix
-*<zw>, which in POc typically derived a noun denoting the thing acted on or produced by
-the action of the verb. It is likely that *pii]oda was present in POc as a fast speech variant:
-reflexes of *p<in>aijoda show loss of the second syllable in all Polynesian languages and in
+    The second reconstruction, _*p<in>aŋoda_, is a nominalisation of the verb using the infix
+_*<in>_, which in POc typically derived a noun denoting the thing acted on or produced by
+the action of the verb. It is likely that _*piŋoda_ was present in POc as a fast speech variant:
+reflexes of _*p<in>aŋoda_ show loss of the second syllable in all Polynesian languages and in
 some North and Central Vanuatu and Papuan Tip languages.
 
 <
@@ -7413,12 +7371,12 @@ POc *p<in>aŋoda, *piŋoda ‘seafood gathered on the reef, edible sea invertebr
   Pn:  Takuu         fīnota      ‘various kinds of shell-fish and seafoods gathered by women’
 >
 
-[2] In these two reconstructions I have substituted *d for the POc phoneme that Clark writes as *nt.
+[2] In these two reconstructions I have substituted _*d_ for the POc phoneme that Clark writes as _*nt_.
 
 [3] With respect to ‘shellfish’, much used in dictionary' and wordlist glosses cited for this and certain other cognate
- sets, it should be noted that this term means different tilings to different people. Nearly all New Zealanders and
+ sets, it should be noted that this term means different things to different people. Nearly all New Zealanders and
  many Australians and English people use ‘shellfish’ to mean ‘(edible) molluscs with external shells’, excluding
- crustaceans, whereas others, including most people from the USA. use it to mean ‘(edible) crustaceans and
+ crustaceans, whereas others, including most people from the USA, use it to mean ‘(edible) crustaceans and
  molluscs with external shells’. It is apparent that most of our sources for Oceanic languages use
  this term in the narrower sense.
 
@@ -7476,9 +7434,9 @@ In order to get an idea of the likely size and taxonomic structure of the POc le
 aquatic invertebrates one must look at contemporary languages whose speakers exploit a
 marine and shore environment fairly similar to that inhabited by POc speakers. Unfortunately
 there are very few systematic studies in this domain. There is a fairly detailed account of
-aquatic invertebrate taxonomy in Wayan, a dialect of the Western Fijian language (Pawley
-1994, Pawley and Sayaba 2003) spoken on two small islands on the western margin of Fiji.
-Wayan speakers distinguish by name more than 240 marine invertebrate taxa.4 Almost 150
+aquatic invertebrate taxonomy in Wayan, a dialect of the Western Fijian language (Pawley 1994,
+Pawley and Sayaba 2003) spoken on two small islands on the western margin of Fiji.
+Wayan speakers distinguish by name more than 240 marine invertebrate taxa.[4] Almost 150
 of these names apply to molluscs, about 48 to crustaceans, about 31 to echinoderms, about
  12 to coelenterates and about five to marine worms.
 
@@ -7490,7 +7448,7 @@ depth of six contrasting levels - two levels more than Berlin’s model recognis
 maximum for folk taxonomies of wild animals.
 
     Table 4.1 shows the contrasts between some first-order categories of invertebrates that
-occur in the Wayan Fijian taxonomy. These fall under no higher category other than manumanu,
+occur in the Wayan Fijian taxonomy. These fall under no higher category other than _manumanu_,
 which refers to all creatures.
 
     In many respects Wayan higher-order taxa differ markedly from those found in zoological
@@ -7498,15 +7456,15 @@ classifications. For instance, there is no echinoderm category: sea cucumbers, s
 starfish and brittle starfish are each assigned to separate primary taxa. There is no category
 corresponding to crustaceans. There is a general name for sea cucumbers but no overt taxon
 uniting the various sea urchin taxa (these animals represent a covert category, which Wayans
-readily identify by a descriptive phrase such as manumanu laulau ni ðakau ‘spiky animals
+readily identify by a descriptive phrase such as _manumanu laulau ni ðakau_ ‘spiky animals
 of the reef’). Unsurprisingly, octopus and squid form a primary taxon apart from other molluscs.
-There is a generic for gastropods (ðiði) but no generic for all bivalves. Instead there
-are generics for burrowing bivalves (lave) and all kinds of oysters (dzvɑ). Wayan also has a
-category, manumanu gwdgwd, that refers to edible decapods, subsuming ura, seka, tuba, uŋa
-and told. However, this is a ‘collective’ category rather than a true superordinate taxon: one
-does not point to an animal and identify it as a manumanu gwāgwā.
+There is a generic for gastropods (_ðiði_) but no generic for all bivalves. Instead there
+are generics for burrowing bivalves (_tavē_) and all kinds of oysters (_ðiva_). Wayan also has a
+category, _manumanu gwāgwā_, that refers to edible decapods, subsuming _ura_, _seka_, _tubā_, _uŋa_
+and _tolā_. However, this is a ‘collective’ category rather than a true superordinate taxon: one
+does not point to an animal and identify it as a _manumanu gwāgwā_.
 
-[4] These numbers referto terminal taxa, i.e. excluding higher-order taxa (generic terms with two ormore subtaxa),
+[4] These numbers refer to terminal taxa, i.e. excluding higher-order taxa (generic terms with two or more subtaxa),
  and counting only one item for each set of synonyms or variant forms. Numbers are necessarily approximate
 because of disagreements among informants, the uncertain status of some descriptive binomials, and other
  factors.
@@ -7531,8 +7489,8 @@ evidence suggests that the size and taxonomic structure of the Wayan terminology
 typical of Oceanic-speaking maritime communities.[5] It is reasonable to assume that the POc
 taxonomy was roughly of the same order.
 
-[5] For information about taxonomies of aquatic invertebrates in particular Oceanic languages see Akimichi &
- Sakiyama (1991). Foale (1998), Hviding (2005). Pawley (1994).
+[5] For information about taxonomies of aquatic invertebrates in particular Oceanic languages see
+Akimichi & Sakiyama (1991). Foale (1998), Hviding (2005). Pawley (1994).
 
 
 4.3 Crustaceans
@@ -7542,7 +7500,7 @@ typically distinguish some 40-50 crustacean taxa, of which between 20 and 40 tax
 are crabs.
 
 
-4.3.1 Order Decapoda: crabs, lobsters, prawns
+4.3.1 Order _Decapoda_: crabs, lobsters, prawns
 
 The crustaceans named and taken for food and bait in Oceanic societies are almost exclusively
 decapods. There is a well established PMP generic for prawns and crayfish, which is
@@ -7595,10 +7553,10 @@ commonly found in the dictionaries and wordlists.)
 4.3.2.1 _Palinuridae_, spiny lobsters
 
 Lobsters are prized food in the Oceanic world. Among the spiny lobsters the commonest
-species is Palinurus pencillatus, the common spiny lobster. _P. versicolor_ is a larger, more
+species is _Palinurus pencillatus_, the common spiny lobster. _P. versicolor_ is a larger, more
 colourful relative. These are distinguished as specifics in Wayan.
 
-   In contemporary languages reflexes of the POc generic *quraij (see §3.1) are typically
+   In contemporary languages reflexes of the POc generic _*quraŋ_ (see §3.1) are typically
 applied to spiny lobsters (_Palinurus spp._) as opposed to the very distinctive slipper lobsters
 (_Scyllaridae_). It is likely that this was also the case in POc.
 
@@ -7624,20 +7582,20 @@ POc *[pa]paba ‘_Parribacus sp._ (_Scyllaridae_), slipper lobster’
 >
 
     There is a well attested term in PCP which shows some resemblance to the above. However,
-the correspondence of PPn *t to Fijian ð indicates a PCP palatal (which Blust (1978Z>)
-writes *c and Geraghty 1986 as */).
+the correspondence of PPn _*t_ to Fijian _ð_ indicates a PCP palatal (which Blust (1978Z>)
+writes _*c_ and Geraghty 1986 as _*j_).
 
 <
 PCP *jabajaba ‘_Parribacus sp._ (_Scyllaridae_), slipper lobster’
   Fij: Wayan       ðabaðaba     ‘_Parribacus sp._, similar to Moreton Bay Bug’
 PPn *tapatapa ‘Moreton Bay Bug’ (pollex)
   Pn:  E Futunan   tapatapa     ‘Moreton Bay Bug’
-  Pn:  K’marangi   tapatapa     ‘Parribacus anlarlica. sand lobster’
+  Pn:  K’marangi   tapatapa     ‘_Parribacus antartica_, sand lobster’
   Pn:  Nukuoro     tapatapa     ‘slipper lobster’
   Pn:  Tikopia     tapatapa     ‘large edible prawn (unidentified), up to 20 cm’
 cf. also:
-  NNG: Gedaged     sabai        ‘shrimp, prawn, freshwater crayfish’ (sabai dumadum ‘small marine crayfish, up to 12 inches long’)
-  SV:  Kwamera     təpatəpa     ‘slipper lobster, Parribacus caledonicus’ (probably a loan from Polynesian)
+  NNG: Gedaged     sabai        ‘shrimp, prawn, freshwater crayfish’ (_sabai dumadum_ ‘small marine crayfish, up to 12 inches long’)
+  SV:  Kwamera     təpatəpa     ‘slipper lobster, _Parribacus caledonicus_’ (probably a loan from Polynesian)
 >
 
 168    Andrew Pawley
@@ -7646,21 +7604,20 @@ cf. also:
    Another set of resemblant forms, represented in certain MM languages of New Georgia
 and Santa Isabel and in one SES language, shows a superficial resemblance to the Central
 Pacific forms but the sound correspondences do not match and point instead to an earlier
-form such as *pepete or *tepe-tepe).
+form such as _*pepete_ or _*tepe-tepe_).
 
 __pre__
-    MM:      Roviana         pepete          ‘a crustacean resembling Ibacus cihaluP’
+    MM:      Roviana         pepete          ‘a crustacean resembling _Ibacus ciliatus_’
     MM:      Marovo          pepete          ‘shovel-nosed lobster’
-    MM:      Nduke           epete           ‘shovel-nosed lobster, Thenus ox _Ibacus sp._’
+    MM:      Nduke           epete           ‘shovel-nosed lobster, _Thenus_ or _Ibacus sp._’
     MM:      Maringe         phapate         ‘edible saltwater crustacean, crayfish-like’
     SES:     Ghari           tepe-tepe       ‘small crayfish of reef’ (metathesis?)
 
 
-
 4.3.3 Suborder Natantia: true prawns and shrimps
 
-In many Oceanic languages reflexes of ^guraŋ serve as the general name for prawns and
-shrimps and this was evidently the case in POc. However, a second term, *luRa, has reflexes
+In many Oceanic languages reflexes of _*guraŋ_ serve as the general name for prawns and
+shrimps and this was evidently the case in POc. However, a second term, _*luRa_, has reflexes
 in certain Micronesian and Fijian languages.
 
 <
@@ -7696,7 +7653,7 @@ cm in length.
 
                             Figure 4.2     Birgits latro, coconut crab
 
-There is a strongly supported reconstruction for the coconut crab, Birgus latro, which climbs
+There is a strongly supported reconstruction for the coconut crab, _Birgus latro_, which climbs
 coconut trees to sever coconuts and is widely believed by Oceanic comunities to be able to
 open coconuts. This very large crab is considered a delicacy and has been hunted to extinction
 on some smaller islands.
@@ -7710,15 +7667,15 @@ POc *qayuyu ‘coconut crab, Birgus latro’ (Blust 1972b)
   Adm:    Wuvulu       arum           (Blust 1996b: 20)
   PT:     Dobu         ʔayuyu
   SES:    Tolo         ui
-  SES:    Lau          kasukasu       (*q > k irregular)
+  SES:    Lau          kasukasu       (_*q_ > _k_ irregular)
   SES:    Sa’a         esusu
   SES:    Arosi        asusu
   SES:    Bauro        aū
   NCV:    Lonwolwol    au             ‘small sand crab that runs into the sea at one’s approach’
-  NCV:    S Efate      as             (*y > s /_*u   is regular) (John Lynch, pers. comm.)
+  NCV:    S Efate      as             (_*y_ > _s/*u_   is regular) (John Lynch, pers. comm.)
   NCal:   Iaai         eu
   Fij:    Rotuman      aruru
-PPn *qūqū ‘coconut crab, Birgus latro’ (pollex)
+PPn *qūqū ‘coconut crab, _Birgus latro_’ (pollex)
   Pn:     Tongan       ʔūʔū
   Pn:     E Futunan    ʔūʔū
   Pn:     Tikopia      ū
@@ -7726,7 +7683,7 @@ PPn *qūqū ‘coconut crab, Birgus latro’ (pollex)
 >
 
 
-   POc *qayuyu was replaced in PMic by *afafi (Bender et al. 2003:12).
+   POc _*qayuyu_ was replaced in PMic by _*afafi_ (Bender et al. 2003:12).
 
 170    Andrew Pawley
 
@@ -7735,16 +7692,16 @@ PPn *qūqū ‘coconut crab, Birgus latro’ (pollex)
 
 A number of Oceanic languages distinguish several kinds of hermit crabs by name. The
 distinguishing criteria include size, habitat (sea vs land) and growth stage. For example, for
-Niuean Sperlich (1997) records four taxa of hermit crab: do ‘hermit crab, _Dardanus sp._’,
-pulou ‘a hermit crab’, uŋa-mea ‘a land dwelling hermit crab’ and uŋa-uŋa ‘a sea dwelling
+Niuean Sperlich (1997) records four taxa of hermit crab: _āo_ ‘hermit crab, _Dardanus sp._’,
+_pulou_ ‘a hermit crab’, _uŋa-mea_ ‘a land dwelling hermit crab’ and _uŋa-uŋa_ ‘a sea dwelling
 hermit crab’. Hermit crabs are widely used as bait.
 
-    Three uninominal terms for hermit crabs are attributable to POc: *qum‘aij, *koba and
-*kato(q)u. It is unlikely that these terms were full synonyms. Unfortunately, the glosses
+    Three uninominal terms for hermit crabs are attributable to POc: _*qumʷaŋ_, _*koba_ and
+_*kato(q)u_. It is unlikely that these terms were full synonyms. Unfortunately, the glosses
 provided for the reflexes in our sources are typically general and do not allow a semantic
 distinction to be made between the three POc terms.
 
-    *qumwaq continues a PAn etymon. In Oceanic languages a reflex of this form commonly
+    _*qumʷaŋ_ continues a PAn etymon. In Oceanic languages a reflex of this form commonly
 stands as a generic for typical hermit crabs, in contrast to coconut crabs. However, in several
 Oceanic languages reflexes have an extended sense that includes coconut crabs.
 
@@ -7763,19 +7720,19 @@ POc *qumʷaŋ (1) ‘generic for hermit crabs’; (2) ‘generic for hermit and 
   MM:   Tabar        guma          ‘hermit crab’
   NCV:  Paamese      o-umo         ‘crab (generic)’
   SV:   Anejom       n-umwan       ‘k.o. small hermit-crab’ (-n unexplained)
-  NCal: Pije         kumʷa         ‘Coeno bi la sp.’
+  NCal: Pije         kumʷa         ‘_Coenobita_ sp.’
   Fij:  Bauan        uŋa           ‘hermit crab’
   Fij:  Wayan        uŋa           (1) ‘hermit crab’; (2) ‘generic for hermit and coconut crabs’
   Fij:  Wayan        |uŋa tolou|   ‘generic for hermit crabs’
   Fij:  Wayan        |uŋa vule|    ‘coconut crab ’
 PPn *quŋa ‘generic for hermit crab’ (pollex gives ‘hermit crab sp.’)
   Pn:   Tongan       ʔuŋa          ‘large hermit crab’
-  Pn:   Niuean       uŋa           ‘coconut crab, Birgus latro’
+  Pn:   Niuean       uŋa           ‘coconut crab, _Birgus latro_’
   Pn:   Niuean       uŋa-mea       ‘land-dwelling hermit crab’
   Pn:   Niuean       uŋa-uŋa       ‘sea-dwelling hermit crab’
   Pn:   Samoan       uŋa           ‘name given to hermit crabs in general’
   Pn:   Tikopia      uŋa           ‘hermit crab’
-  Pn:   Rennellese   ʔuqa          ‘hermit crab, _Coenobita sp._’
+  Pn:   Rennellese   ʔuqa          ‘hermit crab, _Coenobita_ sp.’
   Pn:   Rennellese   |ʔuqa mouku|  ‘forest-dwelling hermit crabs’
   Pn:   Rennellese   |ʔuqa pūŋou|  ‘sea-dwelling hermit crab carrying the _puŋou_ parasite’
 >
@@ -7783,7 +7740,7 @@ PPn *quŋa ‘generic for hermit crab’ (pollex gives ‘hermit crab sp.’)
                                                                              Aquatic invertebrates   171
 
 
-  A second term, *koba, is less widely attested but reflexes are found in the Admiralties,
+  A second term, _*koba_, is less widely attested but reflexes are found in the Admiralties,
 Meso-Melanesian (in Northwest Solomonic) and Southeast Solomonic.
 
 <
@@ -7813,13 +7770,13 @@ PNCV *kato(q)u ‘hermit crab’ (Clark 2009 gives *katou)
 
 4.3.4.4 Other Anomura: Thalassina, mud lobsters, and _Porcellanidae_, porcelain crabs (half-crabs)
 
-There are only two species of Thalassina, the distinctive ‘mud lobster’ of the Indo-Pacific
+There are only two species of _Thalassina_, the distinctive ‘mud lobster’ of the Indo-Pacific
 region, a nocturnal animal that digs a deep and intricate network of burrows in mangrove
-mudflats. It typically grows up to 16-20 cm long. Thalassina are found as far east as Fiji and
+mudflats. It typically grows up to 16-20 cm long. _Thalassina_ are found as far east as Fiji and
 Samoa. The meat is bland and this animal is not a prized source of food but it is trapped for
 its edible claws in parts of Fiji. In the few dictionaries that provide names for the mud lobster
-each language has its own generic, e.g. Gedaged gumei, Nduke zona, Roviana zoa, Bauan
-Fijian mana, Western Fijian told, No POc reconstruction is possible.
+each language has its own generic, e.g. Gedaged _gumei_, Nduke _zona_, Roviana _zoa_, Bauan
+Fijian _manā_, Western Fijian _tolā_, No POc reconstruction is possible.
 
      Porcelain crabs (or half-crabs) are small, usually 1-2 cm wide. They are common on
 rocky beaches and shorelines. Names for porcelain crabs are seldom given in Oceanic dictionaries
@@ -7837,23 +7794,23 @@ species only a minority are of economic value to Oceanic communities.
 between 20 and 30 crab taxa, excluding crabs of the tribe Anomura. For example, dictionaries
 of Arosi, Wayan Fijian and Niuean, list about 30, 33 and 22 taxa, respectively, excluding the
 Anomura. There is little doubt that POc would have had a similar array. However,
-only seven secure POc terms for Brachyura crabs have been reconstructed: *kape, *kaRaka,
-*kaRu(i)ki, *kuka, *rakum(u), *qalimaijo, *tubaRa.
+only seven secure POc terms for Brachyura crabs have been reconstructed: _*kape_, _*kaRaka_,
+_*kaRu(i)ki_, _*kuka_, _*rakum(u)_, _*qalimaŋo_, _*tubaRa_.
 
 172   Andrew Pawley
 
-                             Figure 4.3    Scylla serrata, mangrove crab
+Figure 4.3 Scylla serrata, mangrove crab
 
 4.3.5.1 _Portunidae_, mangrove and swimming crabs
 
-Oceania has many species of portunids, belonging to the genera Portunus, Thalamita and
-Charybdis. Most are large crabs, much valued as food. The English folk names ‘mud crab’,
-‘mangrove crab’ or ‘black crab’ are often applied to Scylla serrata, a large round crab which
+Oceania has many species of portunids, belonging to the genera _Portunus_, _Thalamita_ and
+_Charybdis_. Most are large crabs, much valued as food. The English folk names ‘mud crab’,
+‘mangrove crab’ or ‘black crab’ are often applied to _Scylla serrata_, a large round crab which
 may exceed 20 cm in width and which burrows in muddy shallow tidal waters of estuaries and
-mangrove swamps. POc continues a PMP term, *qalimaqaw, that probably denoted several
-portunids of the genus Scylla. Wolff’s dictionary of Cebuano describes alimaŋu as ‘edible
+mangrove swamps. POc continues a PMP term, _*qalimaŋaw_, that probably denoted several
+portunids of the genus _Scylla_. Wolff’s dictionary of Cebuano describes _alimaŋu_ as ‘edible
 crab of tidal swamps, round in shape, up to 10 inches in diameter, black on back, white front,
-large meaty claws’, unmistakeably a large _Scylla sp._
+large meaty claws’, unmistakeably a large _Scylla_ sp.
 
 <
 PMP *qalimaŋaw ‘mangrove crab’ (Blust 1980a)
@@ -7880,17 +7837,17 @@ POc *qalimaŋo ‘large mangrove crab, Scylla serrata (_Portunidae_) and probabl
                                                                        Aquatic invertebrates   173
 
 
-4.3.5.2 _Cardisoma spp._ and other large land crabs
+4.3.5.2 _Cardisoma_ spp. and other large land crabs
 
-The large land crabs, _Cardisoma spp._, are an important food source in many Oceanic communities
+The large land crabs, _Cardisoma_ spp., are an important food source in many Oceanic communities
 and there are often several terms referring to their growth stages and spawning
 behaviour. For example, Foale (1998) reports that in West Gela (central Solomons) females
-of the abundant land crab Cardisoma hirtipes migrate to the beach at certain phases in the
+of the abundant land crab _Cardisoma hirtipes_ migrate to the beach at certain phases in the
 lunar cycle in the wet season, from October to December, releasing zoea larvae from their
-egg mass (lami). This is known as the sau lami (wash eggs). Three weeks before doing this
-they migrate to the sea to immerse themselves, an event known as the sapa toga (thousands
+egg mass (_lami_). This is known as the _sau lami_ (wash eggs). Three weeks before doing this
+they migrate to the sea to immerse themselves, an event known as the _sapa toga_ (thousands
 go seawards). This is the preferred time to take them because they are fatter. In Fiji, Wayans
-refer to the mass migration of _C. hirtipes_ as vui.
+refer to the mass migration of _C. hirtipes_ as _vui_.
 
 <
 POc *tubaRa ‘probably generic for large land crabs, _Cardisoma spp._’ (cf. Geraghty 1990)
@@ -7910,13 +7867,13 @@ PPn *tupa ‘landcrab’ (pollex)
   Pn:  Rarotongan    tupa            ‘Cardisoma cardifax, edible land crab’
 cf. also:
   MM:  Nduke         tubavu          ‘_Cardisoma sp._, probably _C. hirtipes_’
-  SES: Ghari         tubā            ‘a species of land crab’ (for †tubala)
+  SES: Ghari         tubā            ‘a species of land crab’ (for †_tubala_)
 >
 
-    POc *rakum(u) is a well attested form which probably referred to a crab of some importance.
-Some witnesses (e.g. Kove, Bugotu, Namakir, Woleaian) support attributing final *u
+    POc _*rakum(u)_ is a well attested form which probably referred to a crab of some importance.
+Some witnesses (e.g. Kove, Bugotu, Namakir, Woleaian) support attributing final _*u_
 to this etymon; others are equivocal. Most sources give uninformative glosses for reflexes
-of *rakum(u) but in Mangap (North New Guinea), Roviana (Meso-Melanesian), Puluwatese
+of _*rakum(u)_ but in Mangap (North New Guinea), Roviana (Meso-Melanesian), Puluwatese
 and Ponapean (Micronesian), and SE Ambrym (North and Central Vanuatu) these refer to a
 land crab. In several languages the reflex has become a term for crabs in general.
 
@@ -7954,16 +7911,16 @@ cf. also:
 The most commonly seen shore crabs are the grapsids, which forage among rocks and coral
 rubble in the intertidal zone. The carapace is squarish, with very convex edges. The last pair
 of legs are not flattened but are adapted for climbing over rocks. There are several genera,
-including Grapsus, Sesarma, Metopograpsus, and Leptograpsus. Oceanic languages typically
+including _Grapsus_, _Sesarma_, _Metopograpsus_, and _Leptograpsus_. Oceanic languages typically
 distinguish several grapsid taxa. For example, Wayan distinguishes two main taxa within the
-_Grapsidae_: mangrove crabs (Sesarma spp., Metopograpsus spp,), which are kuka, and shore
-(or rock) crabs (Grapsus spp,), which are galau, as well as dividing the generics kuka and
-galau into further subtaxa.
+_Grapsidae_: mangrove crabs (_Sesarma_ spp., _Metopograpsus_ spp,), which are kuka, and shore
+(or rock) crabs (Grapsus spp,), which are _galau_, as well as dividing the generics _kuka_ and
+_galau_ into further subtaxa.
 
-4.3.5.4 Sesarma spp., mangrove grapsids
+4.3.5.4 _Sesarma_ spp., mangrove grapsids
 
-Judging by its reflexes in EOc languages POc *kuka referred chiefly to grapsids of the genus
-Sesarma, which live in mangrove forest mudflats. In Tolai (MM), Arosi and To’aba’ita (SES)
+Judging by its reflexes in EOc languages POc _*kuka_ referred chiefly to grapsids of the genus
+_Sesarma_, which live in mangrove forest mudflats. In Tolai (MM), Arosi and To’aba’ita (SES)
 and Lonwolwol (NCV) the reflex has become a generic term for crabs.
 
 <
@@ -7981,7 +7938,7 @@ POc *kuka ‘mudcrab, including _Sesarma sp._ or spp., living in mangrove forest
   NCV:  Port Sandwich  na-xux      ‘crab’
   NCV:  Lonwolwol      (lo)kuk     ‘crab (generic)’
   Fij:  Bauan          kuka        ‘small red and black crab, found in mangrove swamp’
-  Fij:  Wayan          kuka        ‘crabs of mangrove swamps, red claws, black carapace, Sesarma and _Metopograpsus spp._’
+  Fij:  Wayan          kuka        ‘crabs of mangrove swamps, red claws, black carapace, _Sesarma_ and _Metopograpsus spp._’
 PPn *kuka ‘mangrove crab, _Sesarma sp._ or spp.’ (pollex)
   Pn:   Tongan         kuka        ‘k.o. crab’
   Pn:   Samoan         ʔuʔa        ‘common mangrove crab, Sesarma sp.’
@@ -7991,7 +7948,7 @@ PPn *kuka ‘mangrove crab, _Sesarma sp._ or spp.’ (pollex)
                                                                Aquatic invertebrates      175
 
 
-    Reflexes of POc *kape typically refer to a kind of reef crab (Roviana, Gela, Rotuman).
+    Reflexes of POc _*kape_ typically refer to a kind of reef crab (Roviana, Gela, Rotuman).
 In Raga the reflex has become a generic term for crabs and in Arosi and Mota it appears to
 serve as a generic for a subclass.
 
@@ -8002,10 +7959,10 @@ POc *kape ‘crab taxon, probably a rock crab (_Grapsidae_)’
   NNG:  Mengen (Poeng) kape           ‘crab’
   NNG:  Adzera         wafi           ‘crab’
   NNG:  Middle Watut   kʷafi          ‘crab’ (Holzknecht 1989)
-  MM:   Roviana        gave           ‘Metasesarma rousseauxii’
+  MM:   Roviana        gave           ‘_Metasesarma rousseauxii_’
   SES:  Gela           gave           ‘reef crab’
   SES:  Ghari          |gave raqasi|    ‘shore crab, _Grapsus sp._’
-  SES:  To’aba’ita     ʔafe           ‘flat crab, ? Percnonptanissimum’
+  SES:  To’aba’ita     ʔafe           ‘flat crab, ? _Percnon planissimum_’
   SES:  ’Are’are       ʔahe           ‘a sea crab’
   SES:  Arosi          ʔahe           ‘first element, serving as generic classifier in names of several different species’
   SES:  Arosi          ʔahe-haruta    ‘a large sea crab’
@@ -8028,18 +7985,18 @@ POc *kape ‘crab taxon, probably a rock crab (_Grapsidae_)’
 
 The _Ocypodidae_ are a very distinctive group of small crabs, with eyes on stalks, common on
 sandy beaches, mudflats and mangrove forests. There are several genera: _Ocypoda spp._, ghost
-crabs, _Uca spp._, fiddler crabs, and _Macropthalama spp._, sentinel or soldier crabs. Oceanic
+crabs, _Uca_ spp., fiddler crabs, and _Macropthalama_ spp., sentinel or soldier crabs. Oceanic
 languages typically distinguish more than one kind by name. Wayan has a generic for ghost
-crabs, koke, and two specifics for subtaxa. It has a separate generic, told, for fiddler and
+crabs, _koke_, and two specifics for subtaxa. It has a separate generic, _tōlō_, for fiddler and
 sentinel crabs.
 
     There is a well-supported POc term for ghost crabs, which continues a PMP etymon,
-*kaRuki. WOc and Micronesian witnesses point to POc *kaRuki. However, Geraghty (1990:
-62) reconstructs *kaRuiki to account for the agreement between Chamorro haguiki (doublet
-haguhi) and the Central Pacific forms. For both POc and PCP it seems preferable to posit
+_*kaRuki_. WOc and Micronesian witnesses point to POc _*kaRuki_. However, Geraghty (1990:
+62) reconstructs _*kaRuiki_ to account for the agreement between Chamorro _haguiki_ (doublet
+_haguhi_) and the Central Pacific forms. For both POc and PCP it seems preferable to posit
 doublets, which perhaps were careful and fast speech variants. Polynesian and Rotuman reflexes
-of PCP *kauiki show reanalysis of unstressed intervocalic *//  as *w, with subsequent
-change of hr > v in some languages.
+of PCP _*kauiki_ show reanalysis of unstressed intervocalic _*u_ as _*w_, with subsequent
+change of _*w_ > _v_ in some languages.
 
 <
 PMP *kaRuki ‘sand crab, _Ocypoda sp._’ (cf. Blust 1983-84a)
@@ -8055,22 +8012,22 @@ POc *kaRuki, (dbl. *kaRuiki) ‘ghost crab, _Ocypoda sp._, small white crab foun
   Mic: Kosraean      kuluk              ‘sand crab’
 PCP *kauki, *kawiki ‘ghost crab, _Ocypoda sp._’
   Fij: Rotuman       ʔaviʔi             ‘sand crab’
-  Fij: Bauan         kauke              ‘ghost crab, _Ocypoda sp._’
-  Fij: Wayan         koke               ‘ghost crab, Ocypoda spp.’
+  Fij: Bauan         kauke              ‘ghost crab, _Ocypoda_ sp.’
+  Fij: Wayan         koke               ‘ghost crab, _Ocypoda_ spp.’
 PPn *kawiki ‘ghost crab, _Ocypoda sp._’
   Pn:  Tongan        keviki             ‘small light-coloured sand crab’
-  Pn:  Samoan        ʔaviʔi             ‘ghost crab, _Ocypoda sp._’
-  Pn:  Tikopia       kaviki             ‘ghost crab, _Ocypoda sp._’
-  Pn:  Hawaiian      ʔohiki             ‘sand crab, probably Ocypoda sp.’
-  Pn:  Hawaiian      ʔohiki-ʔan-moana   ‘ocean crab, possibly Planes or _Pachygrapsus sp._’
+  Pn:  Samoan        ʔaviʔi             ‘ghost crab, _Ocypoda_ sp.’
+  Pn:  Tikopia       kaviki             ‘ghost crab, _Ocypoda_ sp.’
+  Pn:  Hawaiian      ʔohiki             ‘sand crab, probably _Ocypoda_ sp.’
+  Pn:  Hawaiian      ʔohiki-ʔan-moana   ‘ocean crab, possibly _Planes_ or _Pachygrapsus_ sp.’
 >
 
-   There is another form partially resembling *kaRu(i)ki that is attributable at least to PEOc,
-showing *-pe instead of *-ki in the final syllable. This has reflexes in Southeast Solomonic
+   There is another form partially resembling _*kaRu(i)ki_ that is attributable at least to PEOc,
+showing _*-pe_ instead of _*-ki_ in the final syllable. This has reflexes in Southeast Solomonic
 and North and Central Vanuatu languages and in at least one Micronesian language.
 
 <
-PEOc *kaRuve ‘k.o. beach crab, probably _Ocypoda sp._, ghost crab’
+PEOc *kaRuve ‘k.o. beach crab, probably _Ocypoda_ sp., ghost crab’
   SES: Ghari           galuve           ‘small land crab’
   SES: Arosi           karuhe           ‘burrowing sand crab’
   NCV: Mota            ɣarwe            ‘a ghost crab’
@@ -8080,36 +8037,36 @@ PEOc *kaRuve ‘k.o. beach crab, probably _Ocypoda sp._, ghost crab’
   NCV: Lonwolwol       kawiu            ‘ghost crab’
   Mic: Woleaian        xaẓipe           ‘beach crab’
 cf. also:
-  NNG: Mutu            garuru           (1) ‘ghost crab, _Ocypoda sp._’; (2) ‘soldier crab, _Mictyris sp._’
+  NNG: Mutu            garuru           (1) ‘ghost crab, _Ocypoda_ sp.’; (2) ‘soldier crab, _Mictyris_ sp.’
 >
 
 
                                                                            Aquatic invertebrates   177
 
 
-No language is known to have reflexes of both *kaRu(i)ki and *kaRuve.
+No language is known to have reflexes of both _*kaRu(i)ki_ and _*kaRuve_.
 
    The following PEOc reconstruction is not very secure, resting on agreements between
 two Central Pacific languages and one Southeast Solomons language.
 
 <
-PEOc (?) *kakaka ‘small shore crab, possibly Ocypoda sp’ (Geraghty 1990)
+PEOc (?) *kakaka ‘small shore crab, possibly _Ocypoda_ sp’ (Geraghty 1990)
   SES: To’aba’ita      kākaka        ‘_Ocypoda sp._, ghost crab’
   Fij: Rotuman         kaʔ-kaʔa      ‘small beach crab, one claw much bigger than the other, spreads its claws when approached’
-  Fij: W. Fijian       kakaka        ‘k.o. land crab, possibly _Sesarma sp._’ (Geraghty 1990)
+  Fij: W. Fijian       kakaka        ‘k.o. land crab, possibly _Sesarma_ sp.’ (Geraghty 1990)
 cf. also:
-  PT:  Misima          kakalisu      ‘ghost crab’ (final -su unexplained)
-  MM:  Marovo          kaka(rita)    ‘mangrove crab, Scylla serrata’
+  PT:  Misima          kakalisu      ‘ghost crab’ (final _-su_ unexplained)
+  MM:  Marovo          kaka(rita)    ‘mangrove crab, _Scylla serrata_’
   MM:  Marovo          kaka(bacha)   ‘small, hairy sea crab, poisonous’
 >
 
 
 4.3.5.6 Crabs of uncertain family and families lacking reconstructed names
 
-For some reconstructed crab names no secure family identification can be made. Geraghty
-(1990:61) reconstructs PEOc *kaRaka ‘k.o. crab’. Extra-Oceanic cognates occur in Palauan
-kesako ‘k.o. land crab’ and Chamorro hagahat ‘rock crab’ and these comparisons point to
-POc *kaRaka.
+For some reconstructed crab names no secure family identification can be made. Geraghty (1990:61)
+reconstructs PEOc _*kaRaka_ ‘k.o. crab’. Extra-Oceanic cognates occur in Palauan
+kesako ‘k.o. land crab’ and Chamorro _hagahat_ ‘rock crab’ and these comparisons point to
+POc _*kaRaka_.
 
 <
 PMP *kaRakap ‘probably rock crab’ (ACD)
@@ -8118,7 +8075,7 @@ POc *kaRaka ‘k.o. crab, possibly rock crab.’ (cf. Geraghty 1990)
   NNG:  Gedaged         kaɬag            ‘k.o. crab’
   Fij:  Bauan           gaka             ‘mangrove crab’
   Pn:   Niuean          keka             ‘small sea crab sp.’
-  Pn:   Tongan          kaka(fatu)       ‘k.o. crab’ (fatu ‘rock’)
+  Pn:   Tongan          kaka(fatu)       ‘k.o. crab’ (_fatu_ ‘rock’)
 cf. also:
   Mic:  Kiribati        kakawa           ‘k.o. small crustacean’
 >
@@ -8142,47 +8099,47 @@ The Xanthoidea comprises several families, including _Xanthidae_, _Menippidae_ a
 idae. _Xanthidae_ are the typical crabs of coral reefs, emerging at night. There are many species,
 quite variable in form but the carapace is usually broad in front, narrow at the rear. Some
 species are poisonous. The menippids and trapezids are similar in appearance to the xanthids.
-Wayan distinguishes at least three different xanthoids: motodi (some _Xanthidae_ and
-_Menippidae_), vulau (some _Xanthidae_ and _Trapeziidae_) and galau ni waitaði (probably Libia
+Wayan distinguishes at least three different xanthoids: _motodī_ (some _Xanthidae_ and
+_Menippidae_), _vulau_ (some _Xanthidae_ and _Trapeziidae_) and _galau ni waitaði_ (probably Libia
 tesselata). No POc terms are reconstructable for this group.
 
 
 4.3.6 Generic terms for crabs
 
 Many Oceanic languages have a uninomial that refers to crabs in general or at least to a
-large subclass of crabs, e.g. Molima kakaʔu, Maringe khakan ‘crabs in general’, To’aba’ita
-ŋuda (syn. ʔuʔa) ‘general term for crabs except hermit crabs and coconut crabs’. Dictionaries
+large subclass of crabs, e.g. Molima _kakaʔu_, Maringe _kʰakau_ ‘crabs in general’, To’aba’ita
+_ŋuda_  (syn. _ʔuʔa_) ‘general term for crabs except hermit crabs and coconut crabs’. Dictionaries
 of many Polynesian languages (including Samoan, East Uvean, East Futunan, Pukapuan and
-Tikopia) describe a reflex of PPn *paka as ‘a general term for crabs’ or similar. However, one
+Tikopia) describe a reflex of PPn _*paka_ as ‘a general term for crabs’ or similar. However, one
 must view such glosses with some caution, unless it is clear that the authors have carefully
 investigated whether all groups of crabs fall under this rubric.
 
     Often the generic for crabs also serves as the name of a particular crab taxon that is an
 important food source - a kind of polysemy that is common in folk taxonomies worldwide.
-For example, in Bauan Fijian the name gari, specifically applied to large mud crabs of the
-genus Scylla, is extended to embrace all typical crabs (tribe Brachyura) other than large land
-crabs (Cardisoma spp,). The same is true of the Wayan term, seka. However, Wayans do not
-regard hermit crabs, coconut crabs and Thalassina (all of which are members of the tribe
-Anomura) as seka.
+For example, in Bauan Fijian the name _gari_, specifically applied to large mud crabs of the
+genus _Scylla_, is extended to embrace all typical crabs (tribe Brachyura) other than large land
+crabs (_Cardisoma_ spp,). The same is true of the Wayan term, _seka_. However, Wayans do not
+regard hermit crabs, coconut crabs and _Thalassina_ (all of which are members of the tribe
+Anomura) as _seka_.
 
     While it is likely that POc had a general term covering some or all crabs we can do little
-more than point to three candidates. The strongest of the candidates is probably *kuka.
+more than point to three candidates. The strongest of the candidates is probably _*kuka_.
 
-    As noted in §3.5.4, reflexes of POc *kuka, which probably referred chiefly to grapsid
-crabs that live in mangrove swamps, esp. those of the genus Sesarma, serve as a general term
+    As noted in §3.5.4, reflexes of POc _*kuka_, which probably referred chiefly to grapsid
+crabs that live in mangrove swamps, esp. those of the genus _Sesarma_, serve as a general term
 for crabs, or at least typical crabs (i.e. other than Anomura) in certain languages belonging to
 three different subgroups: Tolai (MM), Arosi and To’aba’ita (SES), and Lonwolwol (NCV).
-Reflexes of *kuka may occur more widely as a generic - relatively few dictionaries and
+Reflexes of _*kuka_ may occur more widely as a generic - relatively few dictionaries and
 wordlists provide precise statements about which crab names serve as generics.
 
-    Reflexes of POc *rakum(u) (§3.5.2) occur as a general name for crabs in at least one North
+    Reflexes of POc _*rakum(u)_ (§3.5.2) occur as a general name for crabs in at least one North
 New Guinea language, Mangap, one Papuan Tip language, Dobuan, and one Micronesian
 language, Woleaian.
 
-    A term for another grapsid group, POc *kape (§3.5.4), has become a generic covering
+    A term for another grapsid group, POc _*kape_ (§3.5.4), has become a generic covering
 both true crabs and hermit crabs in most or all NCV languages (François, pers. comm.). In
-Mota and Uripiv (both NCV) the reflex of *kape appears to serve as a generic for a variety
-of rock or shore crabs. There are signs that the Arosi reflex of *kape was once a generic for a
+Mota and Uripiv (both NCV) the reflex of _*kape_ appears to serve as a generic for a variety
+of rock or shore crabs. There are signs that the Arosi reflex of _*kape_ was once a generic for a
 range of sea and land crabs because this form now appears only as the first element in several
 Arosi compounds.
 
@@ -8193,11 +8150,11 @@ Arosi compounds.
 
 4.3.7.1 Mantis shrimps (order Stomatopoda)
 
-The mantis shrimps, Stomatopoda, are a distinctive group represented by _Squilla spp._ and
+The mantis shrimps, Stomatopoda, are a distinctive group represented by _Squilla_ spp. and
 other genera. The fierce, predatory mantis shrimps are prominent denizens of the intertidal
 zone. They burrow in sand or hide in crevices and ambush prey. Few sources give names for
 these creatures. Among the handful of terms that have been noted, e.g. Gedaged kalompit,
-Nduke hahaka. Wayan vidividi, no widespread cognate set has been found.
+Nduke _hahaka_. Wayan _vidividi_, no widespread cognate set has been found.
 
 4.3.7.2 Barnacles (class Cirripedia, order Thoracia)
 
@@ -8238,8 +8195,8 @@ cognate sets of this sort have been found.
 
 4.3.9 Body parts of crustaceans
 
-Oceanic languages have names for various parts of crustaceans, e.g. Niuean Hike ‘thorax of a
-crab’, ami ‘crab roe’, afo uŋa ‘breeding cord of a female coconut crab’, nifo ‘nippers of land
+Oceanic languages have names for various parts of crustaceans, e.g. Niuean _tuke_ ‘thorax of a
+crab’, _ami_ ‘crab roe’, _afo uŋa_ ‘breeding cord of a female coconut crab’, _nifo_ ‘nippers of land
 crab, etc.’ One secure reconstruction can be made.
 
 180   Andrew Pawley
@@ -8286,63 +8243,63 @@ shellfish. Waterhouse lists some 60 names for shelled mollusc taxa for Roviana a
 Island, West New Britain, by Swadling and Chowning (1981). For the people of Nukakau,
 who speak Kove, shellfish are “especially important when fishing is poor and the weather
 too rough for fishing parties to go out” (p. 159). The three species that are most collected
-are three bivalves: Geloina coaxans (Kove tue), which are gathered in mangrove forests,
-Andara granosa (Kove masilau), gathered from estuarine mudflats, and Andara antiquata
-(Kove uleule), taken from weed-covered coral reef flats. The shells of the first of these are
+are three bivalves: _Geloina coaxans_ (Kove _tue_), which are gathered in mangrove forests,
+_Andara granosa_ (Kove _masilau_), gathered from estuarine mudflats, and _Andara antiquata_
+(Kove _uleule_), taken from weed-covered coral reef flats. The shells of the first of these are
 also used as cutting and scraping tools.
 
                                                                         Aquatic invertebrates      181
 
      The importance of shellfish to speakers of Proto Oceanic and its immediate descendants is
 shown by the large quantities of gastropod and bivalve shells, and artefacts made from shell,
-that are found inLapita sites (Gifford & Shutler Jr 1956, Kirch 1997, Spriggs 1997, Swadling
- 1977, 1996) and other archaeological sites associated with Oceanic languages. Gifford and
-Shutler (1956) identified at least 74 species of molluscs occurring in Lapita sites in New
+that are found in Lapita sites (Gifford & Shutler Jr 1956, Kirch 1997, Spriggs 1997, Swadling 1977, 1996)
+and other archaeological sites associated with Oceanic languages. Gifford and Shutler (1956)
+identified at least 74 species of molluscs occurring in Lapita sites in New
 Caledonia. Swadling (1977) reports 54 mollusc species from the Taurama sequence in Central
 Province, Papua New Guinea, beginning around 2000 BP. Tools made from shells included
 one-piece fishhooks, adzes made from Tridacna valves and food scrapers from various shell
 families. Kirch writes that shell valuables in Lapita sites included “rings, disks, beads and
 worked rectangular sections made from various species of marine shell, especially large cone
-shells (Conus leopardus. _C. litteratus_\ Spondylus oysters, Tridacna clam shells and Trochus
+shells (_Conus leopardus_, _C. litteratus_) _Spondylus_ oysters, _Tridacna_ clam shells and _Trochus_
 shells” (Kirch 1997:236).
 
 
 4.4.2 Class Gastropoda: univalves
 
 The larger Pacific islands and island groups have extensive and varied communities of gastropods.
-On the reefs the following families are prominent: _Arciidae_, _Conidae_, _Strombidae_,
+On the reefs the following families are prominent: _Aciidae_, _Conidae_, _Strombidae_,
 _Trochidae_, _Turbinidae_. On rocky shores and in mangrove swamps the _Neritidae_ and Cerithi-
 dae predominate.
 
     POc reconstructions have been made for only a minority of families. A total of seven
-POc terms for gastropods are reconstructed here: *buli(qj. : *lala(k), *qaliliq, *buRua, *Raqa,
-*sisiq, *tapuRi. This is probably less than ten percent of the number of gastropod taxa named
+POc terms for gastropods are reconstructed here: _*buli(q)_, _*buRua_, _*lala(k)_, _*qaliliŋ_, _*Raŋa_,
+_*sisiq_, _*tapuRi_. This is probably less than ten percent of the number of gastropod taxa named
 in POc.
 
 4.4.2.1 _Strombidae_, strombs, spiders, conches
 
 Strombids are the well-known conch and spider shells, which live in sandy and rocky reef
 areas. The strombids are an important food source in Oceanic coastal communities. There
-is a widely-reflected reconstruction for the spider conch, Lambis lambis. It is likely that this
+is a widely-reflected reconstruction for the spider conch, _Lambis lambis_. It is likely that this
 term served as a generic for a range of spider shell taxa, as its reflex does in some daughter
 languages.
 
 <
-PMP *Raŋa, *Raŋak or *Raŋar ‘the spider conch, Lambis lambis’(Blust 1989)
-POc *Raŋa ‘Lambis spp., esp. spider conch, Lambis lambis’
+PMP *Raŋa, *Raŋak or *Raŋar ‘the spider conch, _Lambis lambis_’(Blust 1989)
+POc *Raŋa ‘Lambis spp., esp. spider conch, _Lambis lambis_’
   NNG:   Mangap         ra                ‘spider shell’
-  PT:    Iduna          laga              ‘Lambis scorpius. Strombus sinuatus’
-  MM:    Tabar          raŋ               ‘Lambis truncata sebae’
+  PT:    Iduna          laga              ‘_Lambis scorpius_, _Strombus sinuatus_’
+  MM:    Tabar          raŋ               ‘_Lambis truncata sebae_’
   SES:   Arosi          raŋa              ‘spider shell, with long spines’
   NCV:   Uripiv         ni-raŋ            ‘_Lambis sp._’
-  Mic:   Kiribati       ne-aŋ             ‘spider shell, Lambis sp’
+  Mic:   Kiribati       ne-aŋ             ‘spider shell, _Lambis_ sp.’
   Mic:   Puluwatese     (le)yaŋ           ‘spider shell’
   Mic:   Woleaian       (re)yaŋa          ‘k.o. sea shell’
   Mic:   Ponapean       lāŋ               ‘spider shell’
-  Fij:   Bauan          yaŋa              ‘generic name for some varieties of shellfish: Pterocera and _Lambis sp._’
-  Fij:   Wayan          eŋa               (1) ‘Lambis truncata’; (2) ‘generic for _Strombidae_’
+  Fij:   Bauan          yaŋa              ‘generic name for some varieties of shellfish: _Pterocera_ and _Lambis_ sp.’
+  Fij:   Wayan          eŋa               (1) ‘_Lambis truncata_’; (2) ‘generic for _Strombidae_’
 cf. also:
-  MM:   Maringe         cega              ‘spider conch incl. _Lambis sp._’
+  MM:   Maringe         cega              ‘spider conch incl. _Lambis_ sp.’
 >
 
 182    Andrew Pawley
@@ -8355,31 +8312,31 @@ cf. also:
 
 The turbans are herbivorous grazers common on intertidal and subtidal reefs, well-known
 for the operculum or ‘cat’s eye’ which the animal uses to close off the entrance to its shell.
-Turbans are an important food resource. Wayan has a generic for turbans, kerekere, as well
+Turbans are an important food resource. Wayan has a generic for turbans, _kerekere_, as well
 as names for several subtaxa, and this pattern appears to be typical of Oceanic languages.
 
 4.4.2.3 Turbopetholatus
 
-For the tapestry turban, Turbopetholatus, there is a well-attested POc reconstruction, *qaliliij,
+For the tapestry turban, Turbopetholatus, there is a well-attested POc reconstruction, _*qaliliŋ_,
 which continues a PMP etymon. This term may have served as a generic for the genus.
 
 <
-PMP *qaliliŋ ‘cat’s eye shell’ (some reflexes indicate initial *w)[6]
-POc *qaliliŋ ‘Turbopetholatus, tapestry turban; possibly generic for several or all _Turbo spp._’
+PMP *qaliliŋ ‘cat’s eye shell’ (some reflexes indicate initial _*w_)[6]
+POc *qaliliŋ ‘Turbopetholatus, tapestry turban; possibly generic for several or all _Turbo_ spp.’
   MM:  Tolai           kaliliŋ        ‘k.o. shell fish’
   SES: Gela            lili           ‘_Turbo spp._ (generic)’
-  SES: Lau             salili         ‘Turbo petholatus’
-  SES: To’aba’ita      thalili        ‘sp. of turban shell, possibly tapestry turban, Turbo petholatus’
+  SES: Lau             salili         ‘_Turbo petholatus_’
+  SES: To’aba’ita      thalili        ‘sp. of turban shell, possibly tapestry turban, _Turbo petholatus_’
   SES: ’Are’are        rariri         ‘k.o. small shellfish, with cat’s eye’
   NCV: Tamambo         (h)alili       ‘cat’s eye shell’
   NCV: SE Ambrym       lili           ‘operculum of green snail’
   NCV: Namakir         ʔalil          ‘cat’s eye shell’
-PPn *qalili ‘cat’s eye shell, _Turbo sp._’ (pollex)
+PPn *qalili ‘cat’s eye shell, _Turbo_ sp.’ (pollex)
   Pn:  Tongan         ʔelili          ‘a shellfish with cat’s eye’
-  Pn:  Niuatoputapu   ʔelili          ‘_Turbo sp._’
+  Pn:  Niuatoputapu   ʔelili          ‘_Turbo_ sp.’
   Pn:  Rennellese     ʔaŋiŋi          ‘turban shells, _T. petholatus_, used for spoons’
-  Pn:  Samoan         alili           ‘a mollusc, _Turbo sp._’
-  Pn:  Tikopia        alili           ‘greensnail; _Turbo spp._ incl. _T. marmoratus_, _T. bargyrostomus_, _T. setosus_’
+  Pn:  Samoan         alili           ‘a mollusc, _Turbo_ sp.’
+  Pn:  Tikopia        alili           ‘greensnail; _Turbo_ spp. incl. _T. marmoratus_, _T. bargyrostomus_, _T. setosus_’
 >
 
 [6] Blust (1980a) gives this form as PWMP but Oceanic cognates allow it to be attributed to PMP.
@@ -8390,23 +8347,23 @@ PPn *qalili ‘cat’s eye shell, _Turbo sp._’ (pollex)
 4.4.2.4 Other Turbo taxa
 
 Usually a number of turban shell taxa are named, sometimes by a compound using a reflex
-of *mata ‘eye’, with reference to the operculum. The second element of PEOc *mata-buku
-is probably *buku ‘knot, lump, protruberance’.
+of _*mata_ ‘eye’, with reference to the operculum. The second element of PEOc _*mata-buku_
+is probably _*buku_ ‘knot, lump, protruberance’.
 
 <
 PEOc *mata-buku ‘_Turbo spp._’
   SES: Lengo           mata-puku   ‘_Turbinidae_’
   Fij: Wayan           mata-buku   ‘_Turbo spp._, possibly including _T. chrysostoma_, _T. argyrostoma_, _T. necnivosus_’
 cf. also:
-  MM:  Maringe         pʰupuku     ‘Trochus inerassalus’
-  SV:  Anejom          na-pek      ‘Turbo marmoratus’
+  MM:  Maringe         pʰupuku     ‘_Trochus inerassalus_’
+  SV:  Anejom          na-pek      ‘_Turbo marmoratus_’
 >
 
 
 4.4.2.5 _Cymatiidae_, tritons
 
 The tritons are a family of many species, which eat echinoderms and molluscs. The large shell
-of Charonia tritonis, Triton’s trumpet, is widely used as a trumpet for ceremonial purposes
+of _Charonia tritonis_, Triton’s trumpet, is widely used as a trumpet for ceremonial purposes
 or to summon people to meetings. There is a widely-reflected POc reconstruction for triton
 shells, which continues a PMP etymon.
 
@@ -8467,8 +8424,8 @@ POc *sisiq (1) ‘various small, snail-like gastropods of nerite family’; (2) 
   SES:  ’Are’are      sisi-          ‘first element in compounds for kinds of gastropods’
   SES:  Arosi         sisi(apiro)    ‘limpet’
   SES:  Lau           sisi(afufu)    ‘mollusc sp.’
-  SES:  Gela          hihi(vuhi)     ‘freshwater snail sp., Neritina brevispina’
-  NCV:  Mwotlap       nɛ-sɛs         ‘Neritaplicata, generic for molluscs’
+  SES:  Gela          hihi(vuhi)     ‘freshwater snail sp., _Neritina brevispina_’
+  NCV:  Mwotlap       nɛ-sɛs         ‘_Nerita plicata_, generic for molluscs’
   NCV:  NE Ambae      hihe           ‘_Nerita sp._’
   NCV:  SE Ambrym     ses            ‘shellfish of family _Neritidae_’
   NCV:  Tamambo       sise           ‘shellfish sp.’
@@ -8497,14 +8454,14 @@ cf. also:
                                                                          A quartc inverte brates   185
 
 
-     Some WOc and NCV languages reflect *siseq or *sisciq rather than *sisiq. These departures
+     Some WOc and NCV languages reflect _*siseq_ or _*sisaq_ rather than _*sisiq_. These departures
 can be explained in terms of dissimilatory change in which the final, unstressed vowel
-is lowered. Dissimilation of the final vowel, *sisiq > sisu > susu, also explains Motu dudu
-for expected *didi.
+is lowered. Dissimilation of the final vowel, _*sisiq_ > _sisu_ > _susu_, also explains Motu _dudu_
+for expected _*didi_.
 
 4.4.2.7 _Cypraeidae_ (cowries) and _Ovulidae_ (egg and spindle cowries)
 
-Many species of cowries are present. The white or egg cowrie (Ovula ovum) is used in some
+Many species of cowries are present. The white or egg cowrie (_Ovula ovum_) is used in some
 societies as a decoration associated with chiefs and chiefly property. In Fiji, for example, these
 shells are hung from the ridge-pole of a chief’s house and in the western Solomons they are
 used as prow ornaments on war canoes. Oceanic languages generally classify cowries and
@@ -8545,7 +8502,7 @@ The _Trochidae_ are a family of shallow water dwellers, represented by many spec
 conical shells and flat or convex circular base. Some are a valued food resource. Oceanic
 peoples traditionally made ornaments, such as arm and wrist bracelets, from trochus shell.
 Oceanic languages usually have a generic term for the family and several binomials naming
-subtaxa. There is a good chance that the term lalai, which entered Tok Pisin from Tolai,
+subtaxa. There is a good chance that the term _lalai_, which entered Tok Pisin from Tolai,
 has spread from Tok Pisin into many vernacular languages of Papua New Guinea and the
 Solomons.
 
@@ -8553,12 +8510,12 @@ Solomons.
 PMP *lalak ‘trochus shell’ (Blust 2002)
 POc *lala(k) (1) ‘Trochus spp., including _T. niloticus_ and possibly _T. stellatus_’; (2) ‘rings or armlets made of this’
   NNG: Wogeo           lala       ‘pearl shell’
-  MM:  Tolai           lalai      ‘Trochus spp., armlet made from trochus shells’
-  MM:  Maringe         glala      ‘Trochus niloticus’
-  SES: Gela            lala       ‘Trochus niloticus’
-  SES: Longgu          lala       ‘Trochus niloticus’
+  MM:  Tolai           lalai      ‘_Trochus_ spp., armlet made from trochus shells’
+  MM:  Maringe         glala      ‘_Trochus niloticus_’
+  SES: Gela            lala       ‘_Trochus niloticus_’
+  SES: Longgu          lala       ‘_Trochus niloticus_’
   NCV: Mota            lala       ‘top shell; bracelet made of this’
-  NCV: Raga            lala       ‘Trochus stellatus: shell armlet, ring’
+  NCV: Raga            lala       ‘_Trochus stellatus_: shell armlet, ring’
   NCV: Tamambo         lala       ‘trochus’
   NCV: Uripiv          na-lel     ‘trochus shell’
 cf. also: the following, all possibly borrowed from Tok Pisin lalai
@@ -8591,9 +8548,9 @@ PEOc *lako (1) ‘cone or trochus shell’; (2) ‘various ornaments made from t
    Mic: Woleiaian     raxa     ‘bracelet, wrist ornament’
 >
 
-    Proto Southeast Solomonic *kome evidently referred to a particular kind of armlet, made from
-*lako shell. A partially or fully reduplicated form, *ko-kome or *komekome, may have been
-a general name for cone shells in Proto Southeast Solomonic. However, given that *kome referred
+    Proto Southeast Solomonic _*kome_ evidently referred to a particular kind of armlet, made from
+_*lako_ shell. A partially or fully reduplicated form, _*ko-kome_ or _*komekome_, may have been
+a general name for cone shells in Proto Southeast Solomonic. However, given that _*kome_ referred
 to a valuable trade good, this term may well have spread by borrowing among languages of
 the central and eastern Solomons.
 
@@ -8601,8 +8558,8 @@ the central and eastern Solomons.
 Proto Southeast Solomonic *kome ‘armlets made from cone or trochus shell’
 Proto Southeast Solomonic *ko-kome or *kome-kome ‘generic for cone shells’
   MM:  Maringe       kome-kome    ‘_Conidae_ family (generic)’
-  MM:  Maringe       kʰome        ‘cone shell, Conus leopardus, used to make armlets’
-  SES: Arosi         kome         ‘white shell armlet of raʔo trochus’
+  MM:  Maringe       kʰome        ‘cone shell, _Conus leopardus_, used to make armlets’
+  SES: Arosi         kome         ‘white shell armlet of _raʔo_ trochus’
   SES: Lau           kome         ‘Conus’
   SES: Sa’a          ko-kome      ‘round white armlet of trochus (laʔo)’
   SES: To’aba’ita    kome         ‘armlet, shell of _Conus sp._’
@@ -8633,52 +8590,52 @@ cf. also:
 
 For many groups of gastropods present in the tropical Pacific region no reconstructions have
 been made to POc level, even though names for these groups are present in contemporary languages.
-For example, POc names are missing for limpets (_Patellidae_), key-hole limpets (Fis-
-surellidae), ceriths (_Cerithidae_), cones (_Conidae_), dog-whelks (_Nassaridae_), mud-whelks (Po-
-tomididae), helmet shells (_Cassidae_), tun shells (_Tonnidae_), miters (_Mitridae_), augers (Tere-
-bridae), turrids (_Turridae_) and drupes (Thaidinae).
+For example, POc names are missing for limpets (_Patellidae_), key-hole limpets (_Fissurellidae_),
+ceriths (_Cerithidae_), cones (_Conidae_), dog-whelks (_Nassaridae_), mud-whelks (_Potomididae_),
+helmet shells (_Cassidae_), tun shells (_Tonnidae_), miters (_Mitridae_), augers (_Terebridae_),
+turrids (_Turridae_) and drupes (Thaidinae).
 
 4.4.2.12 Generic terms for gastropods
 
 For a small minority of Oceanic languages the sources give a term that applies to gastropods
-in general or to a wide range of gastropods. The fact that reflexes of POc *sisiq have this
-semantic range in a North New Guinea language (Takia sisef), and in the Fijian languages
-(Wayan ðiði, Bauan siði) might suggest that *sisiq also had a similar range in POc. However,
+in general or to a wide range of gastropods. The fact that reflexes of POc _*sisiq_ have this
+semantic range in a North New Guinea language (Takia _sisef_), and in the Fijian languages
+(Wayan _ðiði_, Bauan _siði_) might suggest that _*sisiq_ also had a similar range in POc. However,
 comparison of the larger sample of cognates listed in §4.2.8 suggests that it is at least as likely
-that POc *sisiq was a more restricted generic, referring to various small gastropod families
+that POc _*sisiq_ was a more restricted generic, referring to various small gastropod families
 and that more than once it independently became a term for edible gastropods in general. See
-ch. 8 for further discussion. Marovo (Meso-Melanesian) has a generic, chuko, that embraces
+ch. 8 for further discussion. Marovo (Meso-Melanesian) has a generic, _chuko_, that embraces
 most small to medium-sized gastropods but excludes nerites and turbans (Hviding 2005:67).
 
 
 4.4.3 class Bivalvia: clams, cockles, oysters, etc.
 
-   There are ten pretty secure POc reconstructions for kinds of bivalves: *kaRi, *japi, *kasr
-*kuku, *kima, *sapulu(q), *liRom, *tu(qu)asi, *tu(q)e-tu(q)e and *(w,y)aro.
+   There are ten pretty secure POc reconstructions for kinds of bivalves: _*japi_, _*kaRi_, _*kasi_
+_*kuku_, _*kima_, _*sapulu(q)_, _*tiRom_, _*tu(qu)asi_, _*tu(q)e-tu(q)e_ and _*(w,y)aro_.
 
                                                                            Aquatic invertebrates   189
 
-Figure 4.6        Left to right Univalve shells: turban, trochus, cone, murex
+Figure 4.6   Left to right Univalve shells: turban, trochus, cone, murex
 
-Figure 4.7    Tridacna gigas, giant clam
+Figure 4.7   _Tridacna gigas_, giant clam
 
 
 4.4.5.1 Tridacninae, giant clams
 
 Giant clams are a small but economically important group that includes the largest externally
-shelled molluscs. The largest species (Tridacna gigas) grows up to a metre long. Traditionally
+shelled molluscs. The largest species (_Tridacna gigas_) grows up to a metre long. Traditionally
 regarded as a separate family, this group has recently been reclassified as a subfamily
 (Tridacninae) of _Cardiidae_. Giant clams are prized food, consumed at ceremonial feasts. In
 some societies edge-ground adze blades and shell rings were made from the heavy shells.
 Typically Oceanic languages have a generic referring to all Tridacna, with several binomials
-distinguishing subtaxa. Thus Arosi Pima is the generic and there are eight binomials (including
+distinguishing subtaxa. Thus Arosi _ʔima_ is the generic and there are eight binomials (including
 one pair of synonyms) denoting subtaxa. Wayan has vdsua as the generic and has three
-subtaxa: (vasua) cavucavu, _T. gigas_, the largest kind, which is easily removed, and is symbolic
-of women because they marry away from home; kativatu, _T. maxima_, is hard to remove
-and is symbolic of men, who stay with their father’s clan; and vosavosa, the fluted clam, T.
-squamosa.
+subtaxa: _(vasua) cavucavu_, _T. gigas_, the largest kind, which is easily removed, and is symbolic
+of women because they marry away from home; _kativatu_, _T. maxima_, is hard to remove
+and is symbolic of men, who stay with their father’s clan; and _vosavosa_, the fluted clam,
+_T. squamosa_.
 
-    There is a well-attested POc generic for giant clams, *kima, with a PMP antecedent.
+    There is a well-attested POc generic for giant clams, _*kima_, with a PMP antecedent.
 
 <
 PMP *kima ‘giant clam, _Tridacna spp._’ (Blust 2002)
@@ -8687,7 +8644,7 @@ POc *kima ‘giant clam, _Tridacna spp._, include. _T. gigas_’
   PT:      Wedau           kimei           ‘clam shell’
   PT:      Tawala          kima            ‘clam shell’
   MM:      Tabar           kima            ‘clam’
-  SES:     Gela            gima            ‘Tridacna gigas’
+  SES:     Gela            gima            ‘_Tridacna gigas_’
   SES:     Sa’a            ʔime            ‘giant clam variety’
   SES:     To’aba’ita      ʔima            ‘generic for giant clams’
   SES:     Longgu          ʔima            ‘large clam’
@@ -8698,8 +8655,8 @@ POc *kima ‘giant clam, _Tridacna spp._, include. _T. gigas_’
 
 190    Andrew Pawley
 
-    Reflexes of *kima are absent from Central Pacific, where it was evidently replaced by
-*(b,v)dsua. This was the PCP reflex of a PEOc term for a large but unidentified shellfish
+    Reflexes of _*kima_ are absent from Central Pacific, where it was evidently replaced by
+_*(b,v)āsua_. This was the PCP reflex of a PEOc term for a large but unidentified shellfish
 species. Reflexes show unexplained variation in the initial consonant.
 
 <
@@ -8718,8 +8675,8 @@ PPn *(p,f)āsua ‘Tridacna clam sp.’
 Proto Eastern Polynesian-Northern Outlier *pāsua ‘_Tridacna sp._ or spp.’
   Pn:  Sikaiana      pāsua          ‘clam’
   Pn:  Tokelauan     pāua           ‘poisonous shellfish attached under shelving coral’
-  Pn:  Nukuoro       pāsua          ‘Tridacna maxima’
-  Pn:  Tahitian      pāhua          ‘Tridacna elonga’
+  Pn:  Nukuoro       pāsua          ‘_Tridacna maxima_’
+  Pn:  Tahitian      pāhua          ‘_Tridacna elonga_’
   Pn:  Rarotongan    paʔua          ‘clam, oyster’
   Pn:  Marquesan     pahua          ‘oyster sp.’
 cf. also:
@@ -8727,13 +8684,13 @@ cf. also:
 >
 
     The Gela and Arosi comparisons are problematic but they provide evidence, consistent
-with some Eastern Polynesian witnesses, that PCP *(b.v)asua derived from a pre Central
+with some Eastern Polynesian witnesses, that PCP _*(b.v)asua_ derived from a pre Central
 Pacific form that referred to a group of bivalves other than the Tridacninae.
 
 4.4.3.2 _Asaphis spp._ (_Psammobidae_) and cockles (_Cardiidae_)
 
-There is a well-supported POc form, *kasi, which referred to to the action of grating or scraping,
-to scrapers made from the valves of circular bivalves, such as Asaphis (_Psammobidae_)
+There is a well-supported POc form, _*kasi_, which referred to to the action of grating or scraping,
+to scrapers made from the valves of circular bivalves, such as _Asaphis_ (_Psammobidae_)
 and cockles (_Cardiidae_ spp.) and to the shellfish themselves, which are good eating. The
 vernacular term ‘cockle’ is used loosely in many sources, referring not just to shells of the
 _Cardiidae_ family but also to other small to medium-sized rounded bivalves with radial or
@@ -8758,7 +8715,7 @@ cf. also:
   Mic: Carolinian     xātil          ‘very small clams (thumb sized) used in soups’
 >
 
-    The next term, POc *kaRi, may have referred to cockles or may have been a more general
+    The next term, POc _*kaRi_, may have referred to cockles or may have been a more general
 term for a wider range of small to medium-sized bivalves.
 
 <
@@ -8773,7 +8730,7 @@ POc *kaRi ‘bivalve sp or spp, possibly cockle, used as a scraper’ (Geraghty 
   Fij: Bauan        kai-koso      ‘generic for several bivalves’
 >
 
-    PPn pipi appears to have applied to various circular bivalves including _Asaphis sp._ or
+    PPn _*pipi_ appears to have applied to various circular bivalves including _Asaphis_ sp. or
 spp. Its reflexes are of interest because in several cases (Kapingamarangi, Pukapukan, Ren-
 nellese and Tikopia) they have become a generic for bivalves.
 
@@ -8787,7 +8744,7 @@ PPn *pipi ‘probably general name for small or medium-sized circular bivalves, 
   Pn:  Kapinga      pipi         (1) ‘_Asaphis sp._’; (2) ‘general term for small clams’
   Pn:  Tikopia      pipi         ‘bivalve of many spp.’
   Pn:  Pukapukan    pipi         ‘general name for clams’
-  Pn:  Maori        pipi         ‘Paphies australis, Chione slutchburyi’
+  Pn:  Maori        pipi         ‘_Paphies australis_, _Chione stutchburyi_’
 >
 
 
@@ -8799,12 +8756,12 @@ Mussels occur in dense colonies on rocky shores, attaching themselves to surface
 threads. They fall into several subfamilies. _Mytilus spp._ predominate in cold waters but in
 tropical waters they are replaced by species of the subfamilies Modiolinae and Lithophaginae.
 Commonly Oceanic languages distinguish two or more mussel taxa by name, e.g. Wayan has
-a generic term boro, with two subtaxa: boro boro, probably Modiolus plumescens, and drivi
-‘small mussels with black shell, possibly _Lithophaga sp._
+a generic term boro, with two subtaxa: boro boro, probably _Modiolus plumescens_, and _drivi_
+‘small mussels with black shell, possibly _Lithophaga_ sp.
 
-    Blust (1972:10) relates POc *kuku(r) P mussel sp.’ to PAn *kuDkuD ‘rasp, file’, noting
-reflexes such as Tagalog kudkod, Toba Batak hurhur ‘grated’, Ngadju Dayak kukur ‘rasp,
-grater’. It is likely that POc *kuku(r) was polysemous, referring both to food scrapers of
+    Blust (1972:10) relates POc _*kuku(r)_ ‘? mussel sp.’ to PAn _*kuDkuD_ ‘rasp, file’, noting
+reflexes such as Tagalog _kudkod_, Toba Batak _hurhur_ ‘grated’, Ngadju Dayak _kukur_ ‘rasp,
+grater’. It is likely that POc _*kuku(r)_ was polysemous, referring both to food scrapers of
 various kinds of shells and to mussels, which were used as scrapers.
 
 <
@@ -8822,7 +8779,7 @@ PPn *kuku ‘mussel sp. (_Mytilidae_)’ (pollex)
   Pn:  Samoan       ʔuʔu            ‘mussel, _Modiola sp._’
   Pn:  E Futunan    kuku            ‘mussel sp. (_Mytilidae_)’
   Pn:  Rarotongan   kuku            ‘mussel sp., Mytilus edulis’
-  Pn:  Rennellese   kuku            ‘Tellina discus’
+  Pn:  Rennellese   kuku            ‘_Tellina discus_’
 >
 
 
@@ -8831,10 +8788,10 @@ PPn *kuku ‘mussel sp. (_Mytilidae_)’ (pollex)
 The English folk category ‘oyster’ refers to several families of bivalves, including _Ostreidae_
 (typical oysters), _Isognomonidae_ (mangrove oysters), _Malleidae_ (hammer oysters), _Pteridae_
 (pearl and wing oysters) and _Spondylidae_ (thorny oysters), the latter being more closely related
-to scallops than to the other ‘oyster’ families. Wayan Fijian has a generic term, diva,
+to scallops than to the other ‘oyster’ families. Wayan Fijian has a generic term, _ðiva_,
 with a similarly broad range of reference.
 
-    POc *tiRom continues a PAn term for oyster. The range of the POc term probably included
+    POc _*tiRom_ continues a PAn term for oyster. The range of the POc term probably included
 both typical oysters (_Ostreidae_), which attach themselves by cementing one valve to rocks or
 wood, and tree oysters (_Isognominidae_), found mainly among mangrove roots or under rocks
 in the intertidal zone. Only a few species of _Isognomonidae_ occur in the Pacific Islands.
@@ -8871,9 +8828,9 @@ PPn *tio ‘oyster sp.’ (POLLEX)
 The family _Pteridae_ includes pearl and wing oysters, which live on rocky ocean floors. They
 have moderate to large shells with one valve more inflated, with pearly interior. The _Malleidae_,
 hammer oysters, have ears drawn out into elongate wings. The common hammer oyster,
-Malleus malleus, anchors to the bottom in shallow reef waters.
+_Malleus malleus_, anchors to the bottom in shallow reef waters.
 
-    The gold-lip pearl shell, Pinctada maxima, and the black-lip pearl, _P. margaritifera_, were
+    The gold-lip pearl shell, _Pinctada maxima_, and the black-lip pearl, _P. margaritifera_, were
 traditionally important as a trade item and source of ornaments, especially the breastplate
 crescent made from the lip of this shell and worn by men. Although they are widely distributed
 species Swadling (1994) reports that the environmental conditions for dense concentrations
@@ -8883,7 +8840,7 @@ eastern Milne Bay Province, and the Torres Strait Islands). Pearl oysters are ab
 more southerly subtropical parts of Polynesia, and in some other parts of Polynesia, including
 Tonga and Samoa, occur in locations that were not easily accessible to divers. The importance
 of pearl shell ornaments as trade valuables no doubt led to borrowing of the names for these
-in some regions. However, the fact that reflexes of *japi, showing regular sound shifts, are
+in some regions. However, the fact that reflexes of _*japi_, showing regular sound shifts, are
 found from New Guinea to Polynesia is strong evidence of the POc antiquity of this term.
 
 <
@@ -8898,11 +8855,11 @@ POc *japi (1) ‘bivalve taxon, probably _P. maxima_, gold-lipped pearl shell’
   SES:  Sa’a          dahi           ‘gold-lipped pearl; crescent breast ornament worn by men, cut from this shell’
 PCP *jiva ‘pearl oyster, including _Pinctada spp._’ (metathesis)
   Fij:  Bauan         ðiva           (1) ‘pearl and wing oysters (Pinctada and _Avicula spp._), hammer oyster (_Malleus sp._)’; (2) ‘breastplate of pearl shell in frame of whale’s tooth ivory’
-  Fij:  Bauan         ðiva-ðiva      ‘small oyster, Pinctada matensis’
+  Fij:  Bauan         ðiva-ðiva      ‘small oyster, _Pinctada matensis_’
   Fij:  Wayan         ðiva           (1) ‘pearl and winged oysters, including blacklip pearl, Pinctada margaritifera, and giant wing oyster’; (2) ‘generic for all kinds of oysters’
   Pn:   Tongan        sifa           ‘pearl shell breastplate’
   Pn:   Niuean        tifa           ‘mother of pearl shell and ornament’
-  Pn:   Tikopia       tifa           ‘large pearl shell, formerly worn by men of rank as a breast ornament. Types include Pinctada margaritifera, _P. maxima_, Isognomon isognomum, _I. perna_ and _Pinna sp._ ’
+  Pn:   Tikopia       tifa           ‘large pearl shell, formerly worn by men of rank as a breast ornament. Types include _Pinctada margaritifera_, _P. maxima_, Isognomon isognomum, _I. perna_ and _Pinna sp._ ’
   Pn:   Rarotongan    tiʔa           ‘pearl shell breastplate’
 cf. also:
   PT:   Hula          ravivi         ‘clamshell’
@@ -8911,23 +8868,23 @@ cf. also:
 194   Andrew Pawley
 
 
-   The next two sets probably belong to the same etymon, w/y crossover occurs in certain
-other forms. The Gela reflex is compatible with either set because word-initial *w is lost in
+   The next two sets probably belong to the same etymon, _w/y_ crossover occurs in certain
+other forms. The Gela reflex is compatible with either set because word-initial _*w_ is lost in
 Gela.
 
 <
-POc *(y)aro(q) ‘black-lipped pearl, Pinctada maxima’ (possibly generic for _Pinctada spp._)
+POc *(y)aro(q) ‘black-lipped pearl, _Pinctada maxima_’ (possibly generic for _Pinctada spp._)
   NNG:   Bing         yar-yar       ‘blacklip pearl oyster shell, _P. maxima_’
   NNG:   Gedaged      jaɬ           ‘goldlip pearl’
   NNG:   Mangap       yar-yar       ‘saltwater shellfish, very colourful’
   PT:    Motu         laro          ‘small pearl shellfish; shell used for cutting and paring’ (I- a sporadic accretion in Motu)
   MM:    Roviana      aro(moi)      ‘k.o. large oyster’
-  MM:    Nduke        aro(moi)      ‘large oyster found on reef, Pycnodonata hyotis (= Ostrea hyotis)’
+  MM:    Nduke        aro(moi)      ‘large oyster found on reef, _Pycnodonata hyotis_ (= _Ostrea hyotis_)’
   SES:   Lengo        aro           ‘oyster’
 >
 
 <
-PEOc *waro(q) ‘probably black-lipped pearl, Pinctada maxima, possibly generic for _Pinctada spp._’
+PEOc *waro(q) ‘probably black-lipped pearl, _Pinctada maxima_, possibly generic for _Pinctada spp._’
   SES: Gela          aro            ‘black-lip pearl, _P. margaritifera_’
   SES: Arosi         waro           ‘black-lip pearl’ (waro-anakaoea, scallop, _Pecten sp._’)
   SES: To’aba’ita    kʷaro          ‘pearl oyster, _P. margaritifera_’
@@ -8941,7 +8898,7 @@ PEOc *waro(q) ‘probably black-lipped pearl, Pinctada maxima, possibly generic 
 4.4.3.6 _Pinnidae_, pen shells
 
 The _Pinnidae_ or pen shells have large fragile shells. They live buried in soft sand anchored
-by a silk byssus. The following reconstruction is tentatively associated with the genus Pinna
+by a silk byssus. The following reconstruction is tentatively associated with the genus _Pinna_
 because of the Gela and Fijian reflexes. In Cristobal-Malaita languages the reflex refers to
 black mussels, from which bonito hooks are made.
 
@@ -8954,28 +8911,28 @@ POc *sapulu(q) ‘bivalve mollusc, possibly _Pinna sp._’
   SES:      Arosi             tahuru       ‘black mussel sp., used to make bonito hooks’
   SES:      Sa’a              tehulu       ‘black mussel, used to make bonito hooks’
   SES:      To’aba’ita        fulu         ‘shellfish with black shell’
-  Fij:      Bauan             savulu       ‘a shellfish, Pinna squamosa’
+  Fij:      Bauan             savulu       ‘a shellfish, _Pinna squamosa_’
 >
 
 
 4.4.3.7 _Lucinidae_ and allied families
 
 Lucinoidea (_Lucinidae_ and three other families) are often the dominant bivalves in shallow
-sea grass bed habitats, esp. species of Codakia, Ctena, Lucina, Lucinisca, Loriges and Anon-
-don tia, and are an important food source. The _Lucinidae_ have certain unusual anatomical
+sea grass bed habitats, esp. species of _Codakia_, _Ctena_, _Lucina_, _Lucinisca_, _Loriges_ and
+_Anondontia_, and are an important food source. The _Lucinidae_ have certain unusual anatomical
 features including a foot, used for burrowing, that can be extended 4 to 6 times the length
 of the animal. There is no secure POc reconstruction for this family but the following is a
 candidate.
 
 <
 POc *tu(q)e, *tu(q)e-tu(q)e ‘k.o. bivalve, possibly _Lucinidae_ and allied families’
-  NNG:  Kove             tue          ‘Geloina coaxans, a cockle-like clam of mangrove forest (_Corbiculidae_)’
-  NNG:  Kove             tue-tue      ‘Codakia tigerina (_Lucinidae_), Quidnipagus palatum (_Tellinidae_)’
+  NNG:  Kove             tue          ‘_Geloina coaxans_, a cockle-like clam of mangrove forest (_Corbiculidae_)’
+  NNG:  Kove             tue-tue      ‘_Codakia tigerina_ (_Lucinidae_), _Quidnipagus palatum_ (_Tellinidae_)’
   SES:  Gela             tue          ‘_Batissa sp._, possibly _B. unioniformis_, a commonly harvested small bivalve used as a scraper’
   SES:  Gela             tue-lovo     ‘_Pecten sp._’
   SES:  Gela             tue-koraga   ‘freshwater bivalve’
   SES:  Gela             tue-kunukunu ‘very long _Batissa sp._’
-  SES:  Gela             tue-tue      (1) ‘_Tellina spp._’; (1) ‘young _tue_’
+  SES:  Gela             tue-tue      (1) ‘_Tellina_ spp.’; (1) ‘young _tue_’
   SES:  Ghari            tue          ‘black freshwater oyster’
   SES:  Ghari            tue-tue      ‘small white edible shellfish’
   SES:  Lengo            tue          ‘mangrove shell’
@@ -8991,14 +8948,14 @@ POc *tu(q)e, *tu(q)e-tu(q)e ‘k.o. bivalve, possibly _Lucinidae_ and allied fam
 4.4.3.8 Reconstructions for bivalves of uncertain family
 
 Some etyma have reflexes that are so semantically diverse or so vaguely glossed in the sources
-that the reconstructed name cannot be associated with a particular family. For POc *sisira
+that the reconstructed name cannot be associated with a particular family. For POc _*sisira_
 ‘a barnacle or k.o. small mollusc’ see §3.6. The following reconstruction is very tentative,
 because the putative cognates are few and because the semantic agreement is weak.
 
 <
 POc *tape ‘k.o. bivalve’
-  NNG: Bilibil        tave      ‘giant clam, Tridicna gigas’
-  MM:  Teop           dave      ‘!1olinices tumidua (in white sand)’
+  NNG: Bilibil        tave      ‘giant clam, _Tridacna gigas_’
+  MM:  Teop           dave      ‘_Polinices tumidua_ (in white sand)’
   Fij: Wayan          tavē      (1) ‘tellins, sanguins’; (2) ‘generic for a large class of bivalves, excluding oysters and giant clams’
 >
 
@@ -9022,7 +8979,7 @@ PWOc *bio ‘k.o. mollusc or pearl shell’
 <
 Proto Meso-Melanesian *game ‘k.o. mollusc’
   MM:  Vitu          game           ‘k.o. shellfish: Trochns nilolicus’
-  MM:  Tabar         gam            ‘a shellfish’ (possibly from Tok Pisinga/w ‘baler shell, large cowry shells’)
+  MM:  Tabar         gam            ‘a shellfish’ (possibly from Tok Pisin _gam_ ‘baler shell, large cowry shells’)
   MM:  Tangga        gem            ‘a bivalve, possibly a small Toigans’
 cf. also:
   Adm: Mussau        kame-kame      ‘bait’
@@ -9034,7 +8991,7 @@ cf. also:
 
     The following term may have referred both to a bivalve shellfish and to spoons or graters
 made from its shell. Only a single WOc reflex has been noted. The Niuatoputapu reflex points
-to PPn *tuquahi, with glottal stop, whereas the Tongan reflex points to *tuahi. Those Polynesian
+to PPn _*tuquahi_, with glottal stop, whereas the Tongan reflex points to _*tuahi_. Those Polynesian
 forms that refer only to coconut grater may have spread by borrowing.
 
 <
@@ -9044,7 +9001,7 @@ PCP *tu(qu)aði ‘bivalve taxon, probably ark or cockle shell; possibly also gr
   Fij:  Bauan          tuasa        ‘a bivalve, probably _Area sp._’ (final -a irregular)
   Fij:  Wayan          tuaði        ‘ark shell, _Anadara sp._ (_Arcidae_)’
   Pn:   Tongan         tuahi        ‘k.o. shellfish’
-  Pn:   Niuatoputapu   tuʔuasi      ‘a cockle, Laevicardium biradiata (_Cardiidae_)’
+  Pn:   Niuatoputapu   tuʔuasi      ‘a cockle, _Laevicardium biradiata_ (_Cardiidae_)’
   Pn:   Samoan         tuai         ‘coconut grater’
   Pn:   Rennellese     tuai         ‘spoon or grater, formerly made of shell’ (for †_tuʔuai_)
   Pn:   Rarotongan     tuai         ‘coconut grater’
@@ -9062,8 +9019,8 @@ reconstructed. These include scallops (_Pectinidae_), thorny oysters (_Spondylid
 
 Some contemporary languages have a generic covering all or most bivalves. This is often a
 polysemous term, which also refers to an important specific taxon. For example, the Bauan
-generic kai is also the term for cockles, Wayan tave is also the term for tellins and sanguins.
-In several Polynesian languages reflexes of PPn *pipi, probably originally referring chiefly
+generic _kai_ is also the term for cockles, Wayan _tavē_ is also the term for tellins and sanguins.
+In several Polynesian languages reflexes of PPn _*pipi_, probably originally referring chiefly
 to cockles, has become a generic for a wide range of bivalves (§4.3.2).
 
 
@@ -9071,7 +9028,7 @@ to cockles, has become a generic for a wide range of bivalves (§4.3.2).
 
 Chitons are flattened, slug-like molluscs, most species covered with eight shingle-like plates.
 They feed on algae. Chitons are usually represented in Oceanic languages by a uninomial
-generic (e.g. Gedaged dabag) and some languages also have several binomials naming specific kinds.
+generic (e.g. Gedaged _dabag_) and some languages also have several binomials naming specific kinds.
 There is a well-supported PEOc reconstruction but there are no certain cognates
 in WOc.
 
@@ -9086,8 +9043,8 @@ cf. also:
 
 198     Andrew Pawley
 
-    In PPn *mama replaced *tadruku as the generic for chitons. PPn *mama is probably
-cognate with Southeast Solomonic *mama, referring to a kind of anemone or jellyfish (see
+    In PPn _*mama_ replaced _*tadruku_ as the generic for chitons. PPn _*mama_ is probably
+cognate with Southeast Solomonic _*mama_, referring to a kind of anemone or jellyfish (see
 §6.3).
 
 <
@@ -9095,28 +9052,28 @@ PPn *mama ‘chiton’
   Pn:      Tongan       mama           ‘seaslug’
   Pn:      Niuean       mama           ‘various slug-like molluscs on reef, probably chiton family’
   Pn:      Tikopia      mama           ‘chiton’
-  Pn:      Marquesan    mama           ‘Chiton magnifieus’
+  Pn:      Marquesan    mama           ‘_Chiton magnificus_’
 >
 
 
 4.4.5 A term for shellfish in general
 
 Did POc speakers have a name for shellfish (shelled molluscs) in general? As noted in section
-1, POc had a broad collective term, *pinaijoda, denoting ‘marine invertebrates, sea animals
+1, POc had a broad collective term, _*pinaŋoda_, denoting ‘marine invertebrates, sea animals
 other than fish gathered on the reef’. In a few languages the reflex has become a general
-term for bivalves and gastropods, sometimes also including sea urchins, e.g. Samoan fiŋota
-‘generic for shelled molluscs and other invertebrates’, Tokelauan fiŋota ‘bivalves, gastropods
+term for bivalves and gastropods, sometimes also including sea urchins, e.g. Samoan _fiŋota_
+‘generic for shelled molluscs and other invertebrates’, Tokelauan _fiŋota_ ‘bivalves, gastropods
 and sea urchins’.
 
     A term specifically denoting all and only shellfish is present in some Oceanic languages.
-For example, Foale (1998) reports that Gela (SES) vaijuda is normally used as generic for
+For example, Foale (1998) reports that Gela (SES) _vaŋuda_ is normally used as generic for
 molluscs but can be extended to include crustaceans and echinoderms. Lau (SES) has a noncognate
-form with similar function: karoŋo (1) ‘shelled mollusc, marine or land’; (2) ‘any
-invertebrate collected on reef at low tide: shellfish, crabs, squids’, as does Niuean fua
-‘shellfish and echinoderms’. Motu (PT) has bisisi ‘general name for all shellfish’ and Takia (NNG)
-has sisei ‘generic for all varieties of shells’. Akimichi and Sakiyama (1991) report that Pen-
-chal (Adm) m‘el has two senses: (1) ‘shellfish’; (2)‘shellfish, sea urchins and sea cucumbers’
-and that in nearby Lenkau the cognate term m‘e also has two senses: (1) ‘shellfish’ and (2)
+form with similar function: _karoŋo_ (1) ‘shelled mollusc, marine or land’; (2) ‘any
+invertebrate collected on reef at low tide: shellfish, crabs, squids’, as does Niuean _fua_
+‘shellfish and echinoderms’. Motu (PT) has _bisisi_ ‘general name for all shellfish’ and Takia (NNG)
+has _sisei_ ‘generic for all varieties of shells’. Akimichi and Sakiyama (1991) report that
+Penchal (Adm) _mʷel_ has two senses: (1) ‘shellfish’; (2)‘shellfish, sea urchins and sea cucumbers’
+and that in nearby Lenkau the cognate term _mʷe_ also has two senses: (1) ‘shellfish’ and (2)
 ‘shellfish, cephalopods and sea urchins and sea cucumbers’. We can conclude that POc may
 well have had a general term for shellfish. However, in the absence of a widespread cognate
 set no reconstruction can be made.
@@ -9124,13 +9081,13 @@ set no reconstruction can be made.
 
 4.4.6 Cephalopoda: octopus, squid, nautilus
 
-The cephalopods include (r) the octopus and argonaut group, with eight tentacles; (2) the
+The cephalopods include (1) the octopus and argonaut group, with eight tentacles; (2) the
 squid and spirula group, with ten, and (3) the chambered nautilus, which inhabits the deep
 sea and is rarely encountered alive. Groups (1) and (2) are valued food sources.
 
 4.4.6.1 Octopus
 
-Several species of octopus occur in the Pacific, two common ones being Octopus cyanea, the
+Several species of octopus occur in the Pacific, two common ones being _Octopus cyanea_, the
 day octopus or common reef octopus, and the smaller _O. oinatus_, the night octopus. Some
 Oceanic languages name several different taxa by size, shape and habits. There is a widely-
 reflected generic going back to PAn.
@@ -9161,16 +9118,16 @@ POc *kuRita ‘generic for octopus’
 
 4.4.6.2 Squid and cuttlefish
 
-Squids have 10 arms and a thin, plastic-like internal shell, which in the cuttlefish (_Sepia
-spp._) takes the form of a flat rigid bone. Several squid and cuttlefish species occur in Pacific
+Squids have 10 arms and a thin, plastic-like internal shell, which in the cuttlefish (_Sepia_
+spp.) takes the form of a flat rigid bone. Several squid and cuttlefish species occur in Pacific
 shallow waters, ranging in size from just a few cm to quite large.
 
-    POc had at least two terms for squid/cuttlefish taxa: *nusa (with doublet *nus) and *m‘'anagi
-(with doublet *nTanTagi).
+    POc had at least two terms for squid/cuttlefish taxa: _*nusa_ (with doublet _*nus_) and _*mʷanagi_
+(with doublet _*mʷamʷagi_).
 
-    *nusa and *nus seem to have referred to small squid and small cuttlefish. Blust (1986)
-reconstructs PMP *nus ‘squid, cuttlefish’, based on forms such as Malay mis ‘generic for
-cephalopods’ and Roti mis ‘octopus, squid’, with a doublet *kanuqus. *nusa is reflected by
+    _*nusa_ and _*nus_ seem to have referred to small squid and small cuttlefish. Blust (1986)
+reconstructs PMP _*nus_ ‘squid, cuttlefish’, based on forms such as Malay _nus_ ‘generic for
+cephalopods’ and Roti _nus_ ‘octopus, squid’, with a doublet _*kanuqus_. _*nusa_ is reflected by
 the following:
 
 200   Andrew Pawley
@@ -9196,7 +9153,7 @@ cf. also
    MM:     Tolai        (mara)nua      ‘octopus sp.’
 >
 
-   POc *nus has reflexes in Admiralties, North New Guinea and Central Pacific.
+   POc _*nus_ has reflexes in Admiralties, North New Guinea and Central Pacific.
 
 <
 POc *nus ‘squid’
@@ -9211,7 +9168,7 @@ PPn *ŋū ‘squid’ (POLLEX; _ŋ_ for †_*w_)
   Pn:  Maori        ŋū            ‘squid, _Sepia apama_’
 >
 
-    *mʷanagi (dbl. *mʷamʷagi) possibly referred to larger cuttlefish. This term has reflexes
+    _*mʷanagi_ (dbl. _*mʷamʷagi_) possibly referred to larger cuttlefish. This term has reflexes
 in WOc and in SES.
 
 <
@@ -9285,13 +9242,13 @@ POc *mata ‘the operculum or trapdoor of certain gastropod spp.’ (cf. POc *ma
 
 As indicated in §4.1, POc speakers made a variety of artefacts from shell. Reconstructed terms
 include a number which refer both to the shell and animal and to the artefact made from the
-shell: *japi ‘crescent breast ornament made from pearl shell, probably worn by high status
-men’ (§4.3.5), *lala(k) ‘rings or armlets of trochus shell’ (§4.2.8), *1apuRiq ‘trumpet, of triton
-shell’ (§4.2.5), *buli(q) ‘cowry shell sinkers’ (§4.2.7), *kasiaRi, and *kuku(r) ‘cutting and
+shell: _*japi_ ‘crescent breast ornament made from pearl shell, probably worn by high status
+men’ (§4.3.5), _*lala(k)_ ‘rings or armlets of trochus shell’ (§4.2.8), _*tapuRiq_ ‘trumpet, of triton
+shell’ (§4.2.5), _*buli(q)_ ‘cowry shell sinkers’ (§4.2.7), _*kaRi_, _*kasi_, and _*kuku(r)_ ‘cutting and
 scraping instruments of bivalve shells’ (§4.3.2, §4.3.5). A few terms for artefacts sometimes
-or usually made from shell can be reconstructed, e.g. *kiRam ‘adze or axe (generic but applied
-to edge-ground axes made of tridacna shell), *kawil ‘fish-hook’, and *sabi-sabi ‘shell disk
-used as ear-ring (in Massim made of Chamapacifica) (see vol. 1, p. 104).
+or usually made from shell can be reconstructed, e.g. _*kiRam_ ‘adze or axe (generic but applied
+to edge-ground axes made of tridacna shell), _*kawil_ ‘fish-hook’, and _*sabi-sabi_ ‘shell disk
+used as ear-ring (in Massim made of _Chama pacifica_) (see vol. 1, p. 104).
 
 
 4.5 Echinodermata: sea urchins, sea cucumbers, starfish, etc.
@@ -9327,7 +9284,7 @@ POc *saRawaki ‘k.o. sea urchin, probably _Echinometra sp._ or spp.’
 PPn *sāwaki ‘sea urchin with short spines’ (pollex)
    Pn:    Samoan           sāvaʔi        ‘k.o. sea urchin’
    Pn:    Rennellese       sābaki        ‘sea urchin, _Echinometra sp._’
-   Pn:    Hawaiian         hawaʔe        ‘Tripneustes gratilla, round black short-spined urchin’
+   Pn:    Hawaiian         hawaʔe        ‘_Tripneustes gratilla_, round black short-spined urchin’
 cf. also:
    PT:    Molima           salawaʔeʔe    ‘a purple crab’
 >
@@ -9336,12 +9293,12 @@ cf. also:
 4.5.1.2 Long-spined sea urchins
 
 The following POc term probably referred to certain long-spined urchins, including _Diadema
-spp._, and possibly Astropyga and _Echinothrix spp._
+spp._, and possibly _Astropyga_ and _Echinothrix_ spp.
 
 <
 POc *sala(n,ŋ) ‘k.o. sea urchin with long black spines, probably _Diadema sp._ or spp.’
    Adm:     Mussau         raraŋ(a)      ‘sea urchin’
-   NNG:     Manam          sala          ‘Diadema setosum, black long spined sea urchin’
+   NNG:     Manam          sala          ‘_Diadema setosum_, black long spined sea urchin’
    NNG:     Kove           rarala        ‘sea urchin with long black spines’
    PT:      Motu           dala          ‘sea urchin’
    PT:      Kilivila       sanana        ‘sea urchin’
@@ -9352,7 +9309,7 @@ cf. also:
    NNG:     Mangap         sailen        ‘sea urchin’
 >
 
-   A second term, *gina, is attributable to PEOc, having reflexes in S.E. Solomonic, North-
+   A second term, _*gina_, is attributable to PEOc, having reflexes in S.E. Solomonic, North-
 Central Vanuatu and Central Pacific.
 
 <
@@ -9360,20 +9317,20 @@ PEOc *gina ‘k.o. sea urchin with long spines’
   SES: Ghari           gine      ‘k.o. sea urchin with sharp spines’
   NCV: Raga            gine(hi)  ‘sea urchin sp.’
   NCV: Namakir         gin       ‘sea urchin sp.’
-  NCV: Nguna           gida      ‘sea urchin sp.’ (-d- for f*-n- irregular)
+  NCV: Nguna           gida      ‘sea urchin sp.’ (_-d-_ for †_*-n-_ irregular)
   Fij:  Bauan          gina      ‘k.o. sea urchin, _Echinus sp._’
   Fij:  Wayan          gina      ‘k.o. sea urchin with long yellow spines, probably Echinometrix spp’
 PPn *kina ‘sea urchin’ (pollex)
   Pn:   Niuean         kina      ‘sea urchin’
   Pn:   Samoan         ʔina      ‘k.o. sea urchin’
-  Pn:   Maori          kina      ‘k.o. sea urchin with long sharp spines, Evechinus chlorolicus’
+  Pn:   Maori          kina      ‘k.o. sea urchin with long sharp spines, _Evechinus chlorolicus_’
   Pn:   Hawaiian       ina       ‘small rock-boring urchins, _Echinometra spp._’
 >
 
 204      Andrew Pawley
 
 
-      The term *wana, for a long-spined urchin, is tentatively attributable to PCP.
+      The term _*wana_, for a long-spined urchin, is tentatively attributable to PCP.
 
 <
 PCP *wana ‘sea urchin, probably _Diadema sp._ and/or _Echinothrix spp._’
@@ -9399,8 +9356,8 @@ The thin-bodied, worm-like sea cucumbers lack tube feet. Some sea cucumbers are 
 Oceanic communities. Tongan distinguishes some 18 sea cucumber taxa (Churchward 1959)
 and Wayan about 19 (Pawley and Sayaba 2003).
 
-   Blust (2002) reconstructs PWMP *balat ‘sea cucumber’ but no Oceanic cognates have
-been noted. Only one POc term for a sea cucumber taxon has been reconstructed, *(b,p)ula.
+   Blust (2002) reconstructs PWMP _*balat_ ‘sea cucumber’ but no Oceanic cognates have
+been noted. Only one POc term for a sea cucumber taxon has been reconstructed, _*(b,p)ula_.
 
 <
 POc *(p,b)ula ‘k.o. sea cucumber’
@@ -9412,10 +9369,10 @@ POc *(p,b)ula ‘k.o. sea cucumber’
   NCV:  NE Ambae     burie             ‘k.o. beche-de-mer’
   NCV:  Pt Sandwich  buelo             ‘k.o. beche-de-mer’
   NCV:  Paamese      |vile(ŋā tomorū)| ‘k.o. beche-de-mer (?)’
-  NCV:  S Efate      |na-pʷlai (pako)| ‘k.o. beche-de-mer, Synapta maculata’’
+  NCV:  S Efate      |na-pʷlai (pako)| ‘k.o. beche-de-mer, _Synapta maculata_’
   Fij:  Rotuman      hula              ‘k.o. sea cucumber’
   Fij:  Bauan        |(drī) vula|      ‘k.o. sea-cucumber, chalk-fish’
-  Fij:  Wayan        vula              ‘whitish sea cucumber, with nipple-like projections on upper body, possibly Bohadschia marmorata or Holothuria fuscopunctata’’
+  Fij:  Wayan        vula              ‘whitish sea cucumber, with nipple-like projections on upper body, possibly _Bohadschia marmorata_ or _Holothuria fuscopunctata_’
 cf. also:
    SES: Gela         vula              ‘generic for cushion starfishes’
 >
@@ -9455,7 +9412,7 @@ PCP *ðuðu-walu ‘k.o. sea cucumber, probably _Holothuria sp._’
   Pn:      Tongan       huhu-valu    ‘k.o. sea slug [sea cucumber], similar to mokohumi’
 >
 
-    There is a POc reconstruction, *qanupe, whose meaning is indeterminate between ‘caterpillar’
+    There is a POc reconstruction, _*qanupe_, whose meaning is indeterminate between ‘caterpillar’
 and ‘k.o. sea cucumber’. All known WOc reflexes refer to sea cucumbers while all
 Eastern Oceanic reflexes refer to caterpillars (see ch.7, §17). When glossing the POc etymon
 one cannot, without external cognates, determine which of these two competing glosses was
@@ -9491,8 +9448,8 @@ PEOc *qanupe ‘caterpillar’
 Oceanic languages commonly have a general term for sea cucumbers, or more specifically for
 firm-bodied holothurids with tubular feet. (Long thin, soft-bodied holothurids lacking tubular
 feet are often classified as ‘worms’.) In the Fijian languages the generic term for firm-bodied
-holothurids is drl, in Marovo it ispuhaka, in Nelemwa it is imale and in Hawaiian and Niuean
-it is loli. But in the absence of agreement across high-order subgroups no generic can be
+holothurids is _drī_, in Marovo it is _puhaka_, in Nelemwa it is _imale_ and in Hawaiian and Niuean
+it is _loli_. But in the absence of agreement across high-order subgroups no generic can be
 attributed to POc.
 
 
@@ -9519,19 +9476,19 @@ cf. also:
 
    Cushion stars, _Culcita spp._, are plump, round starfish with short arms. No POc lexical
 form is recoverable but it is noteworthy that Marovo and the Fijian languages agree in naming
-cushion stars by expressions that mean ‘(possession) of a shark’; thus: Marovo beibeiani te
-kiso (‘lit. ‘shark’s drinking water’), Bauan kali ni qio, Wayan kali ni iko (both lit. ‘shark’s
+cushion stars by expressions that mean ‘(possession) of a shark’; thus: Marovo _beibeiani te kiso_
+(‘lit. ‘shark’s drinking water’), Bauan _kali ni qio_, Wayan _kali ni ikō_ (both lit. ‘shark’s
 pillow’). This suggests that the naming pattern is of POc antiquity, even though the forms are
 not cognate.
 
 
-4.6 Cnidaria and Ctenophora: anemones, corals, jellyfish and hydroids
+4.6 _Cnidaria_ and _Ctenophora_: anemones, corals, jellyfish and hydroids
 
-The phylum Cnidaria (formerly Coelenterata) consists of four classes of animals: Anthozoa
-(anemones and corals), Scyphozoa (jellyfish), Ctenosphora (comb jellyfish) and Hydrozoa
+The phylum _Cnidaria_ (formerly _Coelenterata_) consists of four classes of animals: _Anthozoa_
+(anemones and corals), _Scyphozoa_ (jellyfish), _Ctenosphora_ (comb jellyfish) and _Hydrozoa_
 (hydroids) which have nettle-like stinging hairs or tentacles used to capture prey.
 
-    There are two main classes of Anthozoa, (1) soft corals, colonial polyps having flexible
+    There are two main classes of _Anthozoa_, (1) soft corals, colonial polyps having flexible
 skeletons that produce spicules of calcium carbonate, with feathery tentacles, and (2) stony
 corals and sea anemones, with tentacles in multiples of six. Stony corals have a hard skeleton.
 True anemones have no skeleton and a fleshy body, with circlets of tentacles, often brightly
@@ -9541,8 +9498,8 @@ coloured, in contrast to colonial anemones which form a green mat on rocks and r
 4.6.1 Anemones
 
 No POc term denoting anemones is reconstructable on present evidence. A problem is that
-few dictionaries of WOc languages provide a term for this group of animals. Proto Remote Oceanic *dru-
-man(e,i) ‘anemone’ has reflexes in North and Central Vanuatu, Fijian, Rotuman and Polynesian.
+few dictionaries of WOc languages provide a term for this group of animals. Proto Remote Oceanic
+_*druman(e,i)_ ‘anemone’ has reflexes in North and Central Vanuatu, Fijian, Rotuman and Polynesian.
 
 <
 Proto Remote Oceanic *druman(e,i) ‘anemone’
@@ -9557,10 +9514,10 @@ PPn *rumane ‘sea anenome’ (pollex)
   Pn:   Ifira-Mele   (a)rumani   ‘anemone’
 >
 
-    *druman(e,i) has no certain antecedent in POc but may derive from POc *droman ‘leech’,
-with semantic change and addition of a final vowel. Note that the NCV reflexes of *droman
+    _*druman(e,i)_ has no certain antecedent in POc but may derive from POc _*droman_ ‘leech’,
+with semantic change and addition of a final vowel. Note that the NCV reflexes of _*droman_
 show an initial high vowel and, in some cases, a labiovelar second consonant, pointing to
-PNCV *ruma ‘leech’.
+PNCV _*ruma_ ‘leech’.
 
 <
 POc *droman ‘leech’ (cf. ch.7, §21)
@@ -9638,15 +9595,15 @@ PPn *puŋa ‘coral rock’
                                                                   Aquatic invertebrates     209
 
 
-4.6.3 Scyphozoa, Ctenophora and Hydrozoa: true jellyfish, comb jellyfish and hydroids
+4.6.3 _Scyphozoa_, _Ctenophora_ and _Hydrozoa_: true jellyfish, comb jellyfish and hydroids
 
 Figure 4.10   _Physalis sp._, Portuguese man o’ war
 
-True jellyfish (Scyphozoa) are members of the
-Cnidaria, whose tentacles face down. They represent the medusa or free-swimming phase of
-Scyphozoa, preceding their polyp phase. Ctenosphora,
+True jellyfish (_Scyphozoa_) are members of the
+_Cnidaria_, whose tentacles face down. They represent the medusa or free-swimming phase of
+_Scyphozoa_, preceding their polyp phase. _Ctenosphora_,
 comb jellyfish, are colourless, oval blobs of jelly
-that float slowly. Hydrozoa are polyps which form
+that float slowly. _Hydrozoa_ are polyps which form
 fuzz-like colonies on rocks, after a brief phase as a
 free-swimming organism. This group includes fire
 corals, hydroids and siphonophores. Hydroids are
@@ -9654,11 +9611,9 @@ feathery colonial organisms growing on the surface
 of coral.
 
     Oceanic languages often distinguish several different kinds of jellyfish, including the
-spectacular Portugese man o’ war or bluebottle (Physalia
-physalia) but no POc terms for any jellyfish taxa are
+spectacular Portugese man o’ war or bluebottle (_Physalia physalia_) but no POc terms for any jellyfish taxa are
 recoverable. Two PPn terms for jellyfish are reconstructable. One, referring to the Portuguese
-man o’war, is well supported and has a cognate in Bauan
-Fijian, where it refers to a hydroid.
+man o’war, is well supported and has a cognate in Bauan Fijian, where it refers to a hydroid.
 
 <
 PCP *bak(u)i ‘k.o. jellyfish or hydroid’
@@ -9685,7 +9640,7 @@ cf. also:
 >
 
    A Proto Southeast Solomonic term for anemone, or possibly jellyfish, is reconstructable which
-may be cognate with PPn *mama ‘chiton’ (see §4.4).
+may be cognate with PPn _*mama_ ‘chiton’ (see §4.4).
 
 <
 Proto Southeast Solomonic *mama ‘k.o. anemone or jellyfish’
@@ -9713,8 +9668,8 @@ PPn *pulewa ‘marine substance/creature with stone-like or rough exterior’ (p
 4.7 Annelida: worms
 
 Many annelid (segmented) worms live in tropical marine habitats. The two main groups
-are Oligochaeta (with few bristles) and Polychaeta (with many bristles). Marine worms are
-mainly Polychaeta and include fireworms, feather duster worms, sphagetti worms, Christmas
+are _Oligochaeta_ (with few bristles) and _Polychaeta_ (with many bristles). Marine worms are
+mainly _Polychaeta_ and include fireworms, feather duster worms, sphagetti worms, Christmas
 tree worms and bobbit or palolo worms. Reconstructions are available for just two marine
 worm taxa.
 
@@ -9730,13 +9685,13 @@ POc *ibo ‘k.o. sandworm, probably _Sipunculus sp._’
   Pn:   Samoan        ipo           ‘edible sandworm, _Sipunculus sp._’
   Pn:   Nanumea       ipo           ‘sp. of worm found on the beach’
 cf. also:
-  MM:   Teop          iobo          ‘seaworms’ (-o- unexpected)
+  MM:   Teop          iobo          ‘seaworms’ (_-o-_ unexpected)
 >
 
                                                                   Aquatic invertebrates     211
 
 
-Although this cognate set formally matches PMP *imbaw ‘marine mollusc sp.’ (Blust 1980a: 77)
+Although this cognate set formally matches PMP _*imbaw_ ‘marine mollusc sp.’ (Blust 1980a: 77)
 the latter reconstruction rests on cognates in two WMP languages which both refer to
 bivalves.
 
@@ -9745,10 +9700,10 @@ bivalves.
 
 Fireworms, 5-18 cm long, bear many white bristles along their sides which can cause itching
 when touched. They bear a superficial resemblance to centipedes and millipedes. A well-
-supported PMP and POc reconstruction for ‘centipede’ exists, namely *qalipan, continued
-in PCP as *qaliva ‘millipede’. A separate term for ‘fireworm’, sometimes called ‘sea centipede’,
+supported PMP and POc reconstruction for ‘centipede’ exists, namely _*qalipan_, continued
+in PCP as _*qaliva_ ‘millipede’. A separate term for ‘fireworm’, sometimes called ‘sea centipede’,
 is attributable to POc based on agreements between Saliba, a Papuan Tip language,
-and Polynesian witnesses. It appears that in PPn a single term, Arc//, was applied both to
+and Polynesian witnesses. It appears that in PPn a single term, _*weli_, was applied both to
 fireworms and to centipedes and furry millipedes. Glosses given to cognates in North-Central
 Vanuatu and Southeast Solomonic suggest that this range of reference may well have existed
 in POc.
@@ -9779,7 +9734,7 @@ cf. also:
 212   Andrew Pawley
 
 
-4.7.3 Palolo worm (Eunice viridis, ^Palola viridis, Leodis viridis)
+4.7.3 Palolo worm (_Eunice viridis_, aka _Palola viridis_, _Leodis viridis_)
 
 The palolo worm is distributed from Indonesia to the central Pacific. It burrows into coral.
 When spawning, the posterior end, filled with sperm and eggs, breaks off and swims to the
@@ -9788,9 +9743,9 @@ times in the months October to December and at these times people scoop up the w
 which are cooked and eaten.
 
     A name for the palolo worm is attributable to PEOc, based on cognates shared by SES
-and NCV languages. The former reflect *odu, the latter *udu. The only known WOc cognate
-occurs in a Santa Isabel language, Maringe: na-udu, where na- reflects the POC common
-noun marker *na. The Maringe form may be a borrowing from a neighbouring SES language
+and NCV languages. The former reflect _*odu_, the latter _*udu_. The only known WOc cognate
+occurs in a Santa Isabel language, Maringe: _na-udu_, where _na-_ reflects the POC common
+noun marker _*na_. The Maringe form may be a borrowing from a neighbouring SES language
 but it is noteworthy that its first vowel agrees with NCV rather than SES witnesses.
 
 __pre__
@@ -9833,8 +9788,8 @@ PPn *palolo (1) ‘palolo worm’; (2) ‘name of the months when this rises’
 
 Sponges are conspicuous inhabitants of coral reefs. They come in a variety of shapes and
 sizes, attaching themselves wherever they can find a space. Some Oceanic languages have
-a general term for sponges, e.g. Lau losi, lo-losi, Gela loi-losi, Roviana puha, Dobuan halu,
-Motu puta, Sa’a hulo, but no widespread cognate sets have been noted, other than the following
+a general term for sponges, e.g. Lau _losi_, _lo-losi_, Gela _loi-losi_, Roviana _puha_, Dobuan _halu_,
+Motu _puta_, Sa’a _hulo_, but no widespread cognate sets have been noted, other than the following
 from Polynesian languages.
 
 <
@@ -9849,7 +9804,7 @@ PPn *oma ‘sponge’
 
 4.9 What proportion of POc taxa have been reconstructed?
 
-Leaving aside the collective term *pinayoda, the number of fairly secure POc reconstructions
+Leaving aside the collective term _*pinaŋoda_, the number of fairly secure POc reconstructions
 for aquatic (including semi-aquatic) invertebrate taxa is 42, with a few additional tentative
 reconstructions at POc level and a number of other reconstructions attributable to PEOc or
 PWOc. Taking the Wayan figure of about 240 taxa as fairly typical of those Austronesian
@@ -9870,14 +9825,14 @@ only seven of the 35 bivalve taxa.
     Why are uninomials more stable than binomials? Berlin (1992) argues that in folk
 taxonomies of wild animals and plants the most salient and well-marked categories for purposes
 of identification are folk generics (see ch. 8, §1.2.3). Names of taxa at the level of folk generic
-are usually uninominals (e.g. English owl, whale, oak, willow} or idioms, e.g. blackbird, she-
-oak, pussy willow}. A folk generic may have a number of folk specifics, which are perceived
+are usually uninominals (e.g. English _owl_, _whale_, _oak_, _willow_) or idioms, e.g. _blackbird_,
+_she-oak_, _pussy willow_). A folk generic may have a number of folk specifics, which are perceived
 as closely related but distinct types. These are typically known by binomials, made up of a
 folk generic plus a descriptive modifier which refers to one or another distinguishing feature
-of the taxon - its characteristic habitat, colour, size, shape, etc., e.g. barn owl, grass owl,
-sooty owl, hump-backed whale, blue whale. Folk generics commonly fall under high-order
-taxa, particularly the type that Berlin calls a life-form, such as English fish, bird, snake, and
-tree. Sometimes levels between life-form and folk generic are distinguished and Berlin calls
+of the taxon - its characteristic habitat, colour, size, shape, etc., e.g. _barn owl_, _grass owl_,
+_sooty owl_, _hump-backed whale_, _blue whale_. Folk generics commonly fall under high-order
+taxa, particularly the type that Berlin calls a life-form, such as English _fish_, _bird_, _snake_, and
+_tree_. Sometimes levels between life-form and folk generic are distinguished and Berlin calls
 these intermediates.
 
 214   Andrew Pawley
@@ -10823,7 +10778,7 @@ for PAn and PMP. In his Austronesian Comparative Dictionary (1995), Blust writes
 
 |       Although PAn *beRek evidently meant ‘domesticated pig’ PAn *babuy referred to pigs
 |       in general, with qualifications where needed.[4] In other words, the glosses of *babuy and
-|       *beRek were not perfectly complementary, but partially overlapping. ... Reflexes of both
+|       *beRek were not perfectly complementary, but partially overlapping …. Reflexes of both
 |       *babuy and *beRek are found in Formosan and WMP, but only *babuy is reflected in
 |       CMP and only *beRek in Oceanic.
 
@@ -11972,7 +11927,7 @@ __pre__
 
 The only amphibians present in Oceania are frogs. Menzies (2006:3) writes that ‘at the latest
 count, New Guinea [including the Admiralties and Bismarck Archipelago] and the Solomon
-Islands have a total of 35 genera and 322 recognised species ... and, despite lacking several
+Islands have a total of 35 genera and 322 recognised species … and, despite lacking several
 frog families present in southeast Asia, the region remains one of the most species-rich in
 the world’. East of the Solomons the native frog population is almost negligible. Codrington
 (1891:17) notes that frogs are absent in Santa Cruz. An account by Medway and Marshall
@@ -12440,7 +12395,7 @@ its destructive effects on taro gardens.
 death or the arrival of visitors. In eastern Polynesia, the visitors themselves were referred to
 as ‘birds’ (PCEPn *manu-firi ‘chosen (?) birds’). And in myth, folk
 tale and religious belief, birds play almost as varied a range of roles as do humans. Among
-the Dobuans, ‘the native term for totem is the term for bird ... [and] one stranger may ask
+the Dobuans, ‘the native term for totem is the term for bird … [and] one stranger may ask
 another, “what is your bird?”’ (Fortune 1963:32).
 
 
@@ -19595,7 +19550,7 @@ lizards, spiders and some insects.’ (p.233). He suggests  ‘that the connotat
 may be derivative from its significance of supernatural’ (p.234), (italics mine, MO). He
 concludes that  ‘one point, however, may be stressed with certainty, that any object which is
 regarded as an atua may not be eaten, and anything which is fit for human consumption cannot be
-in itself an atua— though it may ...become temporarily associated with atua’ (p.234).
+in itself an atua— though it may … become temporarily associated with atua’ (p.234).
 Among the creatures he lists as atua are two inedible crabs, kaviki ‘small pale land crab’ and
 karamisi ‘reddish-brown or yellowish crab, [which] lives in crotch of tree’ (cf PMP *qali-
 maŋaw ‘mangrove crab’). Also atua are moko, the black lizard, and morokau, the centipede.
@@ -19627,7 +19582,7 @@ fearful’ or whatever’ (p.310).
 
 |       __fish__. An animal that inhabits the water. (Samuel Johnson, English dictionary, 1755)
 
-|       The whale, the limpet, the tortoise, and the oyster...as men have been willing to give
+|       The whale, the limpet, the tortoise, and the oyster … as men have been willing to give
 |       them all the name of fishes, it is wisest to conform. (Oliver Goldsmith, ca 1760)
 
 
@@ -19971,7 +19926,7 @@ the taxonomies of a language should be inferable from information given in the d
  same standards should apply to monolingual dictionaries.) Ideally, a dictionary should provide:
  __ol__
     1. consistent marking of each entry as to its status as a lexical unit and taxon, its immediately subordinate
-       taxa and superordinate taxon, and all coordinate taxa included with it in this next higher taxon...;
+       taxa and superordinate taxon, and all coordinate taxa included with it in this next higher taxon …;
     2. differential marking of translation labels and of definitions;
     3. concise indication of distinctive attributes which define categories belonging to analysed lexical sets:
     4. systematic cross-referencing to maximal taxa in all major subhierarchies, to referential synonyms, and
@@ -21113,8 +21068,8 @@ __pre__
                                                   substances’ (pollex)
       Pukapukan         manu-manu                 Tittle insects’
 
-[10] The Shorter Oxford English Dictionary gives the following definition of the popular use of ‘insect’: “...in
-pop. use comprising, besides the animals scientifically so called (... [animals of class lnseeta]), many other
+[10] The Shorter Oxford English Dictionary gives the following definition of the popular use of ‘insect’: “… in
+pop. use comprising, besides the animals scientifically so called (… [animals of class lnseeta]), many other
 arthropods, as spiders, mites, centipedes, wood-lice, etc. and other invertebrates, as the ’coral insect’; still
 applied by the uneducated to earth-worms, snails, etc. and even some small invertebrates, as frogs and tortoises.”
 The authors of the SOED seem to have forgotten that the folk taxonomies of the ‘uneducated’ are as worthy as
