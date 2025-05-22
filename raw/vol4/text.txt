@@ -9482,7 +9482,7 @@ pillow’). This suggests that the naming pattern is of POc antiquity, even thou
 not cognate.
 
 
-4.6 _Cnidaria_ and _Ctenophora_: anemones, corals, jellyfish and hydroids
+4.6 Cnidaria and Ctenophora: anemones, corals, jellyfish and hydroids
 
 The phylum _Cnidaria_ (formerly _Coelenterata_) consists of four classes of animals: _Anthozoa_
 (anemones and corals), _Scyphozoa_ (jellyfish), _Ctenosphora_ (comb jellyfish) and _Hydrozoa_
