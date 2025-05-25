@@ -1750,25 +1750,25 @@ because this explains a larger range of reflexes, but further data might lead to
 
 <
 POc *[waRu]waRu (?)'primary forest' (French-Wright 1983: *wao)[8]
-  PT:    Misima       walu-walu     'the bush'
-Proto Malaita-Makira *[walu]walu 'the world; uncultivated bush'
-  SES: Kwaio          kʷalu         'unusable bush'
-  SES: Sa'a          walu(malau) 'the world, all the islands'
-  SES: Arosi          waru-waru 'the inhabited world generally, all the known islands'
+ PT:  Misima        walu-walu     'the bush'
+Proto Malaita-Makira *[walu]walu  'the world; uncultivated bush'
+ SES: Kwaio         kʷalu         'unusable bush'
+ SES: Sa'a          walu(malau)   'the world, all the islands'
+ SES: Arosi         waru-waru     'the inhabited world generally, all the known islands'
 PPn *wao 'forest'
-  Pn:    Tongan       vao           'forest, bushland, scrub, land in its natural uncultivated state'
-  Pn:    Tahitian     vao           'wilds, wilderness'
-  Pn:    Maori        wao           'forest'
+ Pn:  Tongan        vao           'forest, bushland, scrub, land in its natural uncultivated state'
+ Pn:  Tahitian      vao           'wilds, wilderness'
+ Pn:  Maori         wao           'forest'
 cf. also:
-  SES: Gela           ao              'forest, land never brought under cultivation'
+ SES: Gela          ao            'forest, land never brought under cultivation'
 PMic *walu 'vegetation, forest' (Bender et al. 2003)
- Mic: Pohnpeian wāl                   'jungle, forest'
- Mic: Mortlockese wali-wel            'forest'
- Mic: Chuukese        wani-wan        'vegetation, bush'
- Mic: Puluwatese wāl                  'forest, jungle'
- Mic: Carolinian     wali-wal         'forest, jungle'
- Mic: Carolinian      wal(lap)        'dense: forest, thickly forested area'
- Fij:   Rotuman       vao             'forest, large number of trees or big plants growing together'
+ Mic: Pohnpeian     wāl           'jungle, forest'
+ Mic: Mortlockese   wali-wel      'forest'
+ Mic: Chuukese      wani-wan      'vegetation, bush'
+ Mic: Puluwatese    wāl           'forest, jungle'
+ Mic: Carolinian    wali-wal      'forest, jungle'
+ Mic: Carolinian    wal(lap)      'dense: forest, thickly forested area'
+ Fij: Rotuman       vao           'forest, large number of trees or big plants growing together'
 >
 
 [8] This set is repeated in part from vol.1, ch.5, §3 .3 and vol.2, ch.3, §5 .1, where PEOc *wao 'forest' was recon-
@@ -1787,8 +1787,8 @@ freshwater swamps.
 
 __ul__
        POc *[dr,r]ano 'lake, swamp'
-       POc *pʷaca 'swamp'
-       POc *[g,k]opu 'pond, lagoon, swamp'
+       POc *pʷaca     'swamp'
+       POc *[g,k]opu  'pond, lagoon, swamp'
 
     A minor piece of evidence that POc speakers recognised a division between wild and
 cultivated varieties of plants is that wild plant names are sometimes fully reduplicated forms
@@ -1811,6 +1811,7 @@ ground out rock or a large shell. Since boiling with such utensils can still be 
 of NW Island Melanesia, there is good reason to think that it occurred traditionally. Food was
 presumably also roasted in the fire or baked over it or-on special occasions-steamed in an
 earth oven (for food preparation methods, see vol.1, ch.6).
+
      The lexicons of Oceanic languages usually distinguish two main categories of ingredient:
 
 __ul__
@@ -2055,50 +2056,50 @@ reflect changes in the nominalisation process.
 PMP *kan-an 'dish, plate, meal'
 POc *kanaŋ, *kanan 'staple food; food in general'
 PAdm *kanana 'food' (Blust 1996b)
-     Adm:   Wuvulu      anana                     'food' (Blust 1996b)
-     Adm:   Mondropolon kanna                      'food' (Blust 1996b)
-     Adm:   Drehet      kana                       'food'
-     NNG:   Takia       anaŋ                       'food'
-     NNG:   Takia       anŋ-anaŋ                  'lesser yam, Dioscorea esculenta'
-     NNG: Lukep (Pono) kana-                      'share of food, provisions'
-     NNG: Matukar       anan                      'lesser yam, Dioscorea esculenta'
-     NNG: Manam         kana-                      'food'
-     NNG: Mari          ganaŋ                     'taro'
-     NNG: Adzera       ganaŋ                     'banana plant'
-     MM: Bulu           (ɣani)ɣana               'coconut flesh'
-     SES: Gela         ɣana                       'food'
-     Fij: Bauan         kana                       'meal'
-     Fij: Bauan         kā-kana                    'food'
+  Adm:  Wuvulu        anana                'food' (Blust 1996b)
+  Adm:  Mondropolon   kanna                'food' (Blust 1996b)
+  Adm:  Drehet        kana                 'food'
+  NNG:  Takia         anaŋ                 'food'
+  NNG:  Takia         anŋ-anaŋ             'lesser yam, Dioscorea esculenta'
+  NNG:  Lukep (Pono)  kana-                'share of food, provisions'
+  NNG:  Matukar       anan                 'lesser yam, Dioscorea esculenta'
+  NNG:  Manam         kana-                'food'
+  NNG:  Mari          ganaŋ                'taro'
+  NNG:  Adzera        ganaŋ                'banana plant'
+  MM:   Bulu          (ɣani)ɣana           'coconut flesh'
+  SES:  Gela          ɣana                 'food'
+  Fij:  Bauan         kana                 'meal'
+  Fij:  Bauan         kā-kana              'food'
 cf. also:
 PAdm *kani-an 'staple food'
-  Adm: Nyindrou         kani-a             'staple food'
+  Adm:  Nyindrou      kani-a               'staple food'
 PNNG *kani-ŋa 'food'
-  NNG: Sengseng         kini-ŋ            'food in general; animal protein in particular' (A. Chowning, pers. comm.)
-  NNG: Bariai           an-ŋa             'food'
-  NNG: Lukep (Pono) kani-ŋ               'yam'
-  NNG: Bing             ani-ŋ             'banana'
-  NNG: Manam            ani-ŋa            'food'
-  NNG: Mangseng         ani-ŋ             'food'
-  NNG: Poeng            kani-ŋ            'food'
-  NNG: Hote             ani-ŋ             'taro'
+  NNG:  Sengseng      kini-ŋ               'food in general; animal protein in particular' (A. Chowning, pers. comm.)
+  NNG:  Bariai        an-ŋa                'food'
+  NNG:  Lukep (Pono)  kani-ŋ               'yam'
+  NNG:  Bing          ani-ŋ                'banana'
+  NNG:  Manam         ani-ŋa               'food'
+  NNG:  Mangseng      ani-ŋ                'food'
+  NNG:  Poeng         kani-ŋ               'food'
+  NNG:  Hote          ani-ŋ                'taro'
 PPT *kani-kani 'staple food'
-  PT:    Misima         an-an              'yams; root crops, nuts and fruit; food'
-  PT:    Taboro         ɣani-ɣani          'food'
-  PT:    Taboro         ɣani               'short cooking banana'
-  PT:   Hula            ani                          'banana'
-  PT:   Motu            ani-ani                      'food'
-  PT:   Mekeo           ani-ani                      'food'
+  PT:   Misima        an-an                'yams; root crops, nuts and fruit; food'
+  PT:   Taboro        ɣani-ɣani            'food'
+  PT:   Taboro        ɣani                 'short cooking banana'
+  PT:   Hula          ani                  'banana'
+  PT:   Motu          ani-ani              'food'
+  PT:   Mekeo         ani-ani              'food'
 Proto Meso-Melanesian *k<in>ani 'staple food'
-  MM: Nakanai           il-ali                       'food' (A. Chowning, pers. comm.)
-  MM: Patpatar          ni-an                        'food' [15]
-  MM: Ramoaaina         ni-an                        'k.o. yam; food'
-  MM: Tolai             ni-an                        'food'
-  MM: Nehan             ni-eini                      'food'
-  MM: Roviana           ɣ<in>ani                     'food'
+  MM:   Nakanai       il-ali               'food' (A. Chowning, pers. comm.)
+  MM:   Patpatar      ni-an                'food' [15]
+  MM:   Ramoaaina     ni-an                'k.o. yam; food'
+  MM:   Tolai         ni-an                'food'
+  MM:   Nehan         ni-eini              'food'
+  MM:   Roviana       ɣ<in>ani             'food'
 PNCV *k<in>ani-ana 'staple food'
-  NCV: Raga             ɣ<in>a-ɣani-ana              'food'
-  NCV: Paamese          ani-ene                      'staple food, as opposed to meat and greens'
-  NCV: Lewo             k<in>ani-ena                 'staple food, as opposed to meat and greens'
+  NCV:  Raga          ɣ<in>a-ɣani-ana      'food'
+  NCV:  Paamese       ani-ene              'staple food, as opposed to meat and greens'
+  NCV:  Lewo          k<in>ani-ena         'staple food, as opposed to meat and greens'
 >
 
 [15] The productive infix <in>, of PAn antiquity, is infixed after the initial consonant of a base if there is one, but
@@ -2287,16 +2288,15 @@ eleven are listed below, and nine out of eleven are descriptive.
 __pre__
 ʔaibu        'tree, Diospyros ebenum'
 ʔaisarufi    'tree, Eugenia if.fusa'                       sarufi    'big tree, Litsea alba'
-ʔaisaliŋa   'big tree, Aporosa papuana'                   aliŋa    'ear'
+ʔaisaliŋa    'big tree, Aporosa papuana'                   aliŋa    'ear'
 ʔaisubu      'big tree, Pimeleodendron amboinicum'
 ʔaiuluulu    'big tree, Vitex cofassus'                    uluulu    'bushy'
 ʔaikame      'big tree, Putranjiva roxburgii               kame      'monitor lizard'
 ʔaikusi      'big tree, Cryptocarya alleniana"             kusi      'greybird'
-ʔaikaʔo         'big tree, Xylopia papuana'                    kaʔo      'bamboo'
-ʔailali         'Tahitian chestnut, Inocarpusfagifer'          !ali      'kidney'
-ʔairade         'trees, Dysoxylum' spp.                        rade      'stink'
-ʔaininiu        'big tree, Horifieldia irya'                   niniu     'palm, Gulubia
-                                                                         macrospadix'
+ʔaikaʔo      'big tree, Xylopia papuana'                   kaʔo      'bamboo'
+ʔailali      'Tahitian chestnut, Inocarpusfagifer'         !ali      'kidney'
+ʔairade      'trees, Dysoxylum' spp.                       rade      'stink'
+ʔaininiu     'big tree, Horifieldia irya'                  niniu     'palm, Gulubia macrospadix'
 
 [18] For Kwara'ae see Henderson & Hancock (1988) and Kwa'ioloa & Burt (2001), as well as Deck's 1934
 grammar. For Wayan Fijian see Pawley & Sayaba (2003) and Gardner & Pawley (2006).
@@ -2529,14 +2529,20 @@ Kara and Patpatar of New Ireland and Nehan of Nissan Island (Ross 2005b).
    In Kwara'ae (SES), Kwa'ioloa & Burt (2001) note the following instances:
 
 __pre__
-     mala-ŋali     'Canarium asperum'                 I) ali   'canarium nut, C. indicum'
-     mala-ʔadoʔa    'Canarium harveyi'                ʔadoʔa   'C. salomonense'
-     mala-ʔafiʔo    'Syzygium aqueum                  ʔafiʔo   'Malay apple, S. malaccense'
-     mala-rufa      'Metrosideros parviflora'          rufa     'Syzygium lauterbachii'
-     mala-ʔasai     'wild mango tree,                 ʔasai    'mango tree, M. indica'
-                      Mangifera mucronulata'
-     mala-kona      'Burckella sorei'                  kona     'B. obovata'
-     mala-dili      'a shrub, Dracaena angustifolia'   dili     'a shrub, Cordyline fruticosa'
+    mala-ŋali     'Canarium asperum'
+    mala-ʔadoʔa   'Canarium harveyi'
+    mala-ʔafiʔo   'Syzygium aqueum
+    mala-rufa     'Metrosideros parviflora'
+    mala-ʔasai    'wild mango tree, Mangifera mucronulata'
+    mala-kona     'Burckella sorei'
+    mala-dili     'a shrub, Dracaena angustifolia'
+    I) ali        'canarium nut, C. indicum'
+    ʔadoʔa        'C. salomonense'
+    ʔafiʔo        'Malay apple, S. malaccense'
+     rufa         'Syzygium lauterbachii'
+    ʔasai         'mango tree, M. indica'
+     kona         'B. obovata'
+     dili         'a shrub, Cordyline fruticosa'
 
      In Raga (NCV), Walsh (2004) notes mal-buliva 'unidentified Ficus sp.' (< buliva 'Ficus
 aspera'), mal-yaviya 'unidentified tree sp.' (< yaviya 'Malay apple, Syzygium malaccen-
@@ -2572,11 +2578,11 @@ PWOc.
 
 <
 PWOc *pudi-pudi 'wild banana' (Ross 1996d)
-  NNG: Kove         puri-puri          'wild banana' (puri 'banana'; A. Chowning, pers. comm.)
-  NNG:    Mangap    pin-pin            'wild banana' (pin 'banana')
-  PT:     Dobu      udi-udi            'wild banana' (udi 'banana')
-  PT:     Sudest    yudu-yudu          'wild banana seeds' (yudu 'banana')
-  MM:     Ramoaaina udu-udu            'wild banana' (un 'banana')
+  NNG: Kove         puri-puri          'wild banana' (_puri_ 'banana'; A. Chowning, pers. comm.)
+  NNG:    Mangap    pin-pin            'wild banana' (_pin_ 'banana')
+  PT:     Dobu      udi-udi            'wild banana' (_udi_ 'banana')
+  PT:     Sudest    yudu-yudu          'wild banana seeds' (_yudu_ 'banana')
+  MM:     Ramoaaina udu-udu            'wild banana' (_un_ 'banana')
 >
 
                                                  Introducing Proto Oceanic plant names       51
@@ -2760,7 +2766,7 @@ Sahaptin (Columbia Plateau, United States) the boundaries of the taxa c'ic'k 'gr
 'flower' are best defined in terms of cultural practices rather than morphological characteris-
 tics alone. So c'ic'k 'grass' encompasses all herbaceous plants (which are not latit 'flowers')
 that are not otherwise named. All such named plants are considered useful in some way, and
-so plants encompassed by c'ic'k 'grass' (or latit 'flower' ) are defined as non-useful and are
+so plants encompassed by c'ic'k 'grass' (or latit 'flower') are defined as non-useful and are
 grouped together 'only by virtue of having been passed over in the process of cultural recog-
 nition' (Hunn 1982: 834-5, 838). Thus Sahaptin c'ic'k 'grass' and latit 'flower' are residual
 categories, a notion which is problematic within Berlin' s 1992 model of taxonomic ranks.
