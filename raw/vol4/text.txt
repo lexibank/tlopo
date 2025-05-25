@@ -15,8 +15,8 @@ of chapters.
      Each chapter has benefited from discussions with and comments by various colleagues;
 their particular contributions are acknowledged in a footnote in the relevant chapter.
      Thanks to Julie Manley for designing the cover and to Sandie Waters for providing the
-cover photograph, featuring two Great Barrier Reef diagonal banded sweetlips (Plectorhiiichus
-lineatus).
+cover photograph, featuring two Great Barrier Reef diagonal banded sweetlips
+(_Plectorhinchus lineatus_).
 
      We are grateful to Chris Healey for permission to use several of his drawings of mammals in
 Majnep & Bulmer (2007), to Dick Watling and M.F. Charters for permission to copy
@@ -5300,7 +5300,7 @@ POc *piRu-piRu ‘_Istiophoridae_’
 >
 
 
-2.59 Flounders and soles: left-eye flounders (_Bothidae_), toothed flounders (_Paralichthyidae_), right-eye flounders (Pleuronectinae), soles (_Soleidae_)
+2.59 Flounders and soles: left-eye flounders (_Bothidae_), toothed flounders (_Paralichthyidae_), right-eye flounders (_Pleuronectidae_), soles (_Soleidae_)
 
 Flatfishes are poorly represented in tropical waters in comparison with their abundance in
 cooler regions. Flounders, toothed flounders and soles are bilaterally asymmetrical, adapted
@@ -5466,7 +5466,7 @@ POc *jumu ‘_Balistidae_, triggerfish and possibly _Monacanthidae_, leatheijack
   NCV:  Tamambo        jumu       ‘k.o. big fish with strong skin’
   NCV:  Namakir        him        ‘triggerfish’
   SV:   Anejom         ne-θomʷ    ‘_Rhinecanthus_ sp., triggerfish’
-  NCal: Iaai           (wa)jimü   ‘_Batistes sp._’
+  NCal: Iaai           (wa)jimü   ‘_Balistes sp._’
 PCP *cumu ‘_Balistoidei_, triggerfish’ (Geraghty 1994)
   Fij:  Rotuman        sumi       ‘leather jacket’
   Fij:  Bauan          sumu-sumu  ‘fish like the porcupine fish, but with no prickles. _Tetrodon spp._’
@@ -5477,7 +5477,7 @@ PPn *sumu ‘_Balistidae_’ (Hooper 1994)
   Pn:   Niuatoputapu   humu       ‘_Balistidae_, _Rhinecanthus aculeatus_’ (black-barred triggerfish)
   Pn:   Niuean         humu       ‘triggerfish’
   Pn:   E Uvean        humu       ‘_Balistes spp._’ (humu-humu ‘generic for _Balistidae_’)
-  Pn:   Samoan         sumu       ‘triggerfish of genera _Batistes_ and _Balistapus_’
+  Pn:   Samoan         sumu       ‘triggerfish of genera _Balistes_ and _Balistapus_’
   Pn:   Tokelauan      humu       ‘triggerfish’
   Pn:   Tikopia        sumu       ‘triggerfish and related types, _Balistidae_ and _Monocanthidae_’
   Pn:   Hawaiian       humu-humu  ‘triggerfish (generic)’
@@ -5490,7 +5490,7 @@ PPn *sumu ‘_Balistidae_’ (Hooper 1994)
 122     Meredith Osmond
 
 <
-POc *bubu ‘_Batistes_ taxon, triggerfish’
+POc *bubu ‘_Balistes_ taxon, triggerfish’
   Adm: Titan        bupʷ         ‘triggerfish, _Balistidae_’
   Adm: Seimat       pup          ‘k.o. reef fish with one large thorn on the back and several by the tail, good to eat’
   NNG: Mangap       bubu         ‘k.o. fish’
@@ -5500,13 +5500,13 @@ POc *bubu ‘_Batistes_ taxon, triggerfish’
   PT:  Ubir         fofo         ‘k.o. fish’
   MM:  Sursurunga   bobo         ‘triggerfish’
   MM:  Lihir        bombo        ‘_B. viridescens_, _P. flavimarginatus_, larger triggerfishes’
-  MM:  Lihir        bum          ‘_Batistopus undulatus_, orange-lined triggerfish, a notorious bait-stealer’
+  MM:  Lihir        bum          ‘_Balistopus undulatus_, orange-lined triggerfish, a notorious bait-stealer’
   MM:  Ramoaaina    bubu         ‘k.o. fish’
   MM:  Teop         bobo         ‘some triggerfish spp.’
   SES: Lau          bubu         ‘triggerfish’
   SES: Kwaio        bubu         ‘reef triggerfish’
   SES: ’Are’are     pupu         ‘small fish’
-  SES: Arosi        bubu         ‘k.o. fish, _Batistes_’ (also bubu baru-baru)
+  SES: Arosi        bubu         ‘k.o. fish, _Balistes_’ (also bubu baru-baru)
   SES: Bauro        pupu         ‘_Balistoides viridescens_’
   NCV: Vera’a       bum          ‘_Balistidae_’
   Mic: Satawalese   pʷūpʷ        ‘triggerfish (generic)’
@@ -5518,7 +5518,7 @@ POc *bubu ‘_Batistes_ taxon, triggerfish’
 >
 
 <
-POc *[bʷaRu]bʷaRu ‘_Batistes_ taxon, triggerfish’
+POc *[bʷaRu]bʷaRu ‘_Balistes_ taxon, triggerfish’
   PT:    Sinaugoro    balu              ‘_Balistoides conspicillum_, big-spotted triggerfish’
   PT:    Motu         baru-baru         ‘triggerfish, general term’
   PT:    Lala         balu-balu         ‘k.o. reef fish’
@@ -5527,16 +5527,16 @@ POc *[bʷaRu]bʷaRu ‘_Batistes_ taxon, triggerfish’
   MM:    Marovo       baru-baru         ‘small triggerfish, prob. _Rhinecanthus acideatus_’
   SES:   Longgu       balu-balu         ‘_Balistoides viridescens_’
   SES:   Langalanga   balu-balu         ‘_B. viridescens_’
-  SES:   Arosi        (bubu)baru-baru   ‘a large sp. of _Batistes_’
+  SES:   Arosi        (bubu)baru-baru   ‘a large sp. of _Balistes_’
   SES:   Kahua        paru-paru         ‘_B. viridescens_’
   NCV:   Dorig        pʷar-pʷar         ‘_B. viridiscens_, _B. conspicillum_’
   NCV:   Namakir      buru-bar          ‘triggerfish’
   NCV:   S Efate      pʷar-pʷor         ‘triggerfish’
   SV:    Anejom       na-pʷou           ‘k.o. triggerfish’
-  NCal:  Nelemwa      fʷa               ‘_Batistes sp._’
+  NCal:  Nelemwa      fʷa               ‘_Balistes sp._’
   Fij:   Nadroga      gʷau              ‘large _Balistidae_’
   Fij:   Lau          gau               ‘large _Balistidae_’
-  Fij:   Kadavu       gau               ‘_Batistes_ spp., larger than cumu.’
+  Fij:   Kadavu       gau               ‘_Balistes_ spp., larger than cumu.’
 cf. also:
   Adm:   Titan        pʷalus            ‘triggerfish’
   Adm:   Penchal      pulot             ‘triggerfish, _Balistidae_’
@@ -5557,7 +5557,7 @@ POc *lio-lio ‘_Pseudobalistes fuscus_, brown triggerfish’
   MM:  Nehan       lio               ‘triggerfish (generic)’
   Mic: Ponapean    lio-li            ‘large dark blue species of leatherjacket’ (Christian 1899)
   Mic: Mokilese    lio-li            ‘yellow-spotted triggerfish’
-  Mic: Kiribati    nuo-nuo           ‘fish with poisonous darts on tail, _Batistes fuscus_’
+  Mic: Kiribati    nuo-nuo           ‘fish with poisonous darts on tail, _Balistes fuscus_’
   Fij: Rotuman     lio-lio           ‘large leatherjacket, called when young sum fea’ (fea ‘pale’)
 >
 
@@ -5566,7 +5566,7 @@ POc *lio-lio ‘_Pseudobalistes fuscus_, brown triggerfish’
 
 Members of this family are bottom dwellers in shallow water often around coral reefs. Normal scales have been replaced by bony plates fused into a hard box-like carapace. Mouth,
 eyes and fins are the only movable parts. All are extremely shy, feeble swimmers, but some
-are beautifully coloured. Some are reputed to have toxic flesh (Munro 1967: p.571). The next reconstruction is suspiciously similar to POc _*[bʷaRu]bʷaRu_ ‘Batistes taxon, triggerfish’, on
+are beautifully coloured. Some are reputed to have toxic flesh (Munro 1967: p.571). The next reconstruction is suspiciously similar to POc _*[bʷaRu]bʷaRu_ ‘_Balistes_ taxon, triggerfish’, on
 page 122, but this seems due to chance, as the glosses clearly allow a separate reconstruction.
 
 124     Meredith Osmond
@@ -6792,7 +6792,7 @@ __pre__
                                                        no.    % retained   % retained
         rays                                             2           100           100
         damsels, sergeant-majors (_Pomacentridae_)         2           100           100
-        sweetlips (_Plectorhynchidae_)                     2           100            50
+        sweetlips (_Plectorhinchinae_)                     2           100            50
                                                          Jo          100            ɔɔ
                                                                                     ɔɔ
         boxfish (_Ostraciidae_)
@@ -7098,7 +7098,7 @@ is the high number of terms for kinds of snapper in Gela, and the low numbers fo
 and also the high number of Titan terms for emperors. The fact that authors providing lists
 of fish names and identifications for Oceanic languages often follow conflicting scientific
 taxonomies creates difficulties in comparing group totals across languages. Taxonomists disagree,
-for example, over whether _Lethrinidae_ and _Plectorhynchidae_ (grunters, sweetlips)
+for example, over whether _Lethrinidae_ and _Plectorhinchinae_ (grunters, sweetlips)
 should be assigned to the family _Lutjanidae_ or to separate families. Members of these closely
 related groups are carnivorous, usually have large heads, equal jaws and a forked tail-fin.
 They are an important food source and many taxa are distinguished but as a rule, Oceanic
@@ -7106,11 +7106,11 @@ languages have no generic terms for any of the families (or sub-families) in que
 
 __pre__
 Table 3.17     Snapper, sea-perch, bass (_Lutjanidae_); emperors (_Lethrinidae_); sweetlips and
-                                grunters (_Plectorhynchidae_)
+                                grunters (_Plectorhinchinae_)
                      Niua       Uvean     Kiribati      Satawalese       Gela       Wayan       Titan       Teop       PPn
  _Lutjanidae_            13          16          13                8        23               7       17         11        10
  _Lethrinidae_               3       10              7            13         15          10          23             7         3
- _Plectorhynchidae_          0        ?              0                2          6       12              7          1         ?
+ _Plectorhinchinae_          0        ?              0                2          6       12              7          1         ?
 
                                               Stability and change in Oceanic fish names          157
 
@@ -7420,7 +7420,7 @@ __pre__
    class Anthozoa: corals, anemones
    class Scyphozoa: true jellyfish
    class Hydrozoa: fire corals, hydroids, siphonophores
-   class Ctenosphora: comb jellyfish
+   class Ctenophora: comb jellyfish
  WORM-LIKE phyla: annelids, nemerteans, acanthoceaphalans
  phylum PORIPHERA: sponges
 
@@ -8918,8 +8918,8 @@ POc *sapulu(q) ‘bivalve mollusc, possibly _Pinna sp._’
 4.4.3.7 _Lucinidae_ and allied families
 
 Lucinoidea (_Lucinidae_ and three other families) are often the dominant bivalves in shallow
-sea grass bed habitats, esp. species of _Codakia_, _Ctena_, _Lucina_, _Lucinisca_, _Loriges_ and
-_Anondontia_, and are an important food source. The _Lucinidae_ have certain unusual anatomical
+sea grass bed habitats, esp. species of _Codakia_, _Ctena_, _Lucina_, _Lucinisca_, _Loripes_ and
+_Anodonta_, and are an important food source. The _Lucinidae_ have certain unusual anatomical
 features including a foot, used for burrowing, that can be extended 4 to 6 times the length
 of the animal. There is no secure POc reconstruction for this family but the following is a
 candidate.
@@ -9088,7 +9088,7 @@ sea and is rarely encountered alive. Groups (1) and (2) are valued food sources.
 4.4.6.1 Octopus
 
 Several species of octopus occur in the Pacific, two common ones being _Octopus cyanea_, the
-day octopus or common reef octopus, and the smaller _O. oinatus_, the night octopus. Some
+day octopus or common reef octopus, and the smaller _O. ornatus_, the night octopus. Some
 Oceanic languages name several different taxa by size, shape and habits. There is a widely-
 reflected generic going back to PAn.
 
@@ -9485,7 +9485,7 @@ not cognate.
 4.6 Cnidaria and Ctenophora: anemones, corals, jellyfish and hydroids
 
 The phylum _Cnidaria_ (formerly _Coelenterata_) consists of four classes of animals: _Anthozoa_
-(anemones and corals), _Scyphozoa_ (jellyfish), _Ctenosphora_ (comb jellyfish) and _Hydrozoa_
+(anemones and corals), _Scyphozoa_ (jellyfish), _Ctenophora_ (comb jellyfish) and _Hydrozoa_
 (hydroids) which have nettle-like stinging hairs or tentacles used to capture prey.
 
     There are two main classes of _Anthozoa_, (1) soft corals, colonial polyps having flexible
@@ -9601,7 +9601,7 @@ Figure 4.10   _Physalis sp._, Portuguese man o’ war
 
 True jellyfish (_Scyphozoa_) are members of the
 _Cnidaria_, whose tentacles face down. They represent the medusa or free-swimming phase of
-_Scyphozoa_, preceding their polyp phase. _Ctenosphora_,
+_Scyphozoa_, preceding their polyp phase. _Ctenophora_,
 comb jellyfish, are colourless, oval blobs of jelly
 that float slowly. _Hydrozoa_ are polyps which form
 fuzz-like colonies on rocks, after a brief phase as a
@@ -9936,8 +9936,7 @@ are common to both the Asian and the Australia-New Guinea regions.
 
 218   Meredith Osmond and Andrew Pawley
 
-
-           Map 5    Major zoogeographical boundaries in Island Southeast Asia
+Map 5    Major zoogeographical boundaries in Island Southeast Asia
 
     These faunal regions reflect geomorphological boundaries. The islands west of Wallace’s
 Line lie on the Sunda Shelf, a shallow continental shelf that was dry land at various times
@@ -9975,9 +9974,9 @@ group, namely Eastern Malayo-Polynesian. Blust writes
 |       be no basis for expecting that the terms for marsupial mammals would be cognate, since
 |       they would have been independently invented (or borrowed) at different times and in
 |       different places. As it happens, however, many languages of eastern Indonesia and the
-|       Pacific reflect *kcmdoRci ‘cuscus’and *mcmsarlmcmser ‘bandicoot/marsupial rat’ which
+|       Pacific reflect _*kandoRa_ ‘cuscus’ and _*mansar/manser_ ‘bandicoot/marsupial rat’ which
 |       could not have been present in PAN or PMP.
-|       ... it is simplest to attribute these innovations to a single speech community that was
+|       … it is simplest to attribute these innovations to a single speech community that was
 |       ancestral to the [Central Malayo-Polynesian, South Halmahera-West New Guinea and
 |       Oceanic] languages (2009:715-716).
 
@@ -10017,11 +10016,11 @@ species.
                                                              Mammals, reptiles, amphibians   221
 
 
-The indigenous mammal groups of Melanesia recorded in historic times are listed by Flannery
-(1995a: 13-15). The main island of New Guinea has one tree kangaroo genus and four genera
+The indigenous mammal groups of Melanesia recorded in historic times are listed by
+Flannery (1995a: 13-15). The main island of New Guinea has one tree kangaroo genus and four genera
 of wallabies. It has several species of bandicoot and a large variety of possums, including
 cuscuses, pygmy possums, ringtail possums and gliders. It has two genera of spiny ant-eaters
-(monotremes). A less well known family is the _Dasyuridae_ (formerly known as Phascogale),
+(monotremes). A less well known family is the _Dasyuridae_ (formerly known as _Phascogale_),
 a family to which Tasmanian devils belong. The New Guinea dasyurids consist of quolls
 and antechinuses. The Bismarcks have only one bandicoot, one wallaby, and two species
 of phalanger. The Solomons have one phalanger. Murids and bats are represented by many
@@ -10032,31 +10031,31 @@ range of a few indigenous mammals has been extended by human introductions.
 
 5.2.2 _Macropodidae_
 
-5.2.2.1 Wallabies (GeneraDorcopsis, Dorcopsulus, Macropus, Thylogale)
+5.2.2.1 Wallabies (Genera Dorcopsis, Dorcopsulus, Macropus, Thylogale)
 
-Four genera of wallabies occur in the New Guinea area. Dorcopsis is a genus of small
+Four genera of wallabies occur in the New Guinea area. _Dorcopsis_ is a genus of small
 rainforest wallabies with an extensive range round the perimeter of New Guinea. One species,
 the black dorcopsis, is common on mountainous Goodenough Island in the D’Entrecasteaux
-group. A second genus, Dorcopsulus, the smallest of all the Macropodids, lives in mountain
-forests. A third genus, Macropus, the large sandy or agile wallaby, is primarily a savanna
+group. A second genus, _Dorcopsulus_, the smallest of all the Macropodids, lives in mountain
+forests. A third genus, _Macropus_, the large sandy or agile wallaby, is primarily a savanna
 woodland animal of the south-eastern New Guinea mainland, but is also found on many of
 the Trobriand and D’Entrecasteaux islands and around Merauke in West Papua. It is hunted
 by many coastal people, an activity no doubt contributing to its somewhat erratic distribution.
-Flannery mentions several reports of a large wallaby, possibly Macropus agilis, from southern
-New Ireland, which he has so far been unable to verify (1995a:82). The fourth genus,
-Thylogale, is the small scrub wallaby or pademelon. Its range includes the lowlands of
+Flannery (1995a:82) mentions several reports of a large wallaby, possibly _Macropus agilis_, from southern
+New Ireland, which he has so far been unable to verify. The fourth genus,
+_Thylogale_, is the small scrub wallaby or pademelon. Its range includes the lowlands of
 northern New Guinea as far west as Jayapura, the hills round Port Moresby, the Huon Peninsula,
 New Britain and New Ireland. Bali-Vitu, spoken off the north-west coast of New Britain, has
 a term for wallaby. Lapita sites in the Arawe Islands, off the south-west coast of New Britain,
-have yielded bones of Thylogale browni as well as the cuscus Phalanger orientalis and the
+have yielded bones of _Thylogale browni_ as well as the cuscus _Phalanger orientalis_ and the
 flightless cassowary, all introduced species.
 
     One wallaby species is found on the islands west of the Bird’s Head, and others on Aru
 and on Kei. No wallabies are present in the Solomons or the Admiralties group. Although
-wallabies are now absent from the St Matthias group, bones of wallabies and a cuscus (Spi-
-locuscus maculatus) have been recovered from Lapita middens excavated from the low flat
+wallabies are now absent from the St Matthias group, bones of wallabies and a cuscus
+(_Spilocuscus maculatus_) have been recovered from Lapita middens excavated from the low flat
 coral island of Eloaue south-east of the high island of Mussau (Green 1979:37). Flannery and
-White state that the northern pademelon, Thylogale browni, was introduced into New Ireland
+White state that the northern pademelon, _Thylogale browni_, was introduced into New Ireland
 some 7000 years ago, and that animals were possibly carried from there to the St Matthias
 group, although the species never became established there (Flannery 1995a:83).
 
@@ -10065,9 +10064,9 @@ restricted to those areas. Although it may happen that two or three species are 
 the territory familiar to a single language community, sources for each language usually give
 only one term for wallaby and it is likely that this is the generic.
 
-    A PWOc term for wallaby, *wakin, is well supported, with reflexes in North New Guinea,
+    A PWOc term for wallaby, _*wakin_, is well supported, with reflexes in North New Guinea,
 Papuan Tip and Meso-Melanesian languages. If terms in two non-Oceanic languages spoken
-on the West Papuan coast are cognate, then *wakin is reconstructable to PEMP and POc. The
+on the West Papuan coast are cognate, then _*wakin_ is reconstructable to PEMP and POc. The
 non-Oceanic terms, from Smits and Voorhoeve (1992:241), are glossed ‘kangaroo’, but the
 reference must be to small macropod species, popularly known as wallabies, as the larger
 species known as kangaroos are absent from New Guinea.
@@ -10083,11 +10082,11 @@ POc *wakin ‘wallaby’
   NNG:   Mangap          wok          ‘wallaby’
   NNG:   Bing            woy          ‘wallaby’
   NNG:   Bilibil         wei          ‘wallaby’
-  NNG:  Gedaged         woi          ‘kangaroo (generic), incl. Macropus, Dorcopsis’
+  NNG:  Gedaged         woi          ‘kangaroo (generic), incl. _Macropus_, _Dorcopsis_’
   PT:    Kilivila        waila        ‘wallaby’
   PT:    Iduna           waɣi(tuli)   ‘large grey wallaby’
-  PT:    Gabadi          vai(aru)     ‘wallaby, Macropus agilis’
-  PT:    Hula            waɣi         ‘wallaby, Macropus agilis’
+  PT:    Gabadi          vai(aru)     ‘wallaby, _Macropus agilis_’
+  PT:    Hula            waɣi         ‘wallaby, _Macropus agilis_’
   MM:    Sursurunga      wak          ‘wallaby, includes Agile Wallaby, Forest Wallaby’
   MM:    Konomala        uakin        ‘wallaby’
   MM:    Minigir         okin         ‘wallaby’
@@ -10097,9 +10096,9 @@ POc *wakin ‘wallaby’
   MM:    Siar            uakin        ‘wallaby’
 >
 
-   Several additional Papuan Tip terms support a PPT reconstruction *wagita ‘wallaby’
-These appear to be compounds derived from *wakin + *ta(u), the second element possibly
-from POc/PPT *1au ‘person, body’.
+   Several additional Papuan Tip terms support a PPT reconstruction _*wagita_ ‘wallaby’
+These appear to be compounds derived from _*wakin_ + _*ta(u)_, the second element possibly
+from POc/PPT _*tau_ ‘person, body’.
 
 <
 PPT *wagita ‘wallaby’
@@ -10109,17 +10108,17 @@ PPT *wagita ‘wallaby’
   PT:     Iamalele      vagitau      ‘opossum’
 >
 
-    Agreements between NNG and PT languages point to a PNGOc term, *makan. Reflexes
-in PT languages predictably add a final -i. Retention of final */7 plus the added vowel is
+    Agreements between NNG and PT languages point to a PNGOc term, _*makan_. Reflexes
+in PT languages predictably add a final _-i_. Retention of final _*n_ plus the added vowel is
 unexpected in Motu and Magori, and suggests borrowing from a SE Papuan source, perhaps
-a dialect of Suau. At least two Central Papuan languages use reflexes of *makan ‘wallaby’
+a dialect of Suau. At least two Central Papuan languages use reflexes of _*makan_ ‘wallaby’
 as a generic for ‘fish’. Ross (1994:422) uses the example of the two Sinaugoro dialects, one
 inland (Taboro), the other coastal (Balawaia), to suggest that the term was in some places
 generalised to cover protein food, and then restricted in some coastal languages to the main
 protein food available, namely fish.
 
 <
-PNGOc *makan ‘wallaby, Macropus agHis’
+PNGOc *makan ‘wallaby, _Macropus agilis_’
   NNG:    Dami        maga         ‘wallaby’
   NNG:    Tumleo      magə         ‘wallaby’
   PT:     Magori      magani       ‘wallaby, _M. agihs_’
@@ -10140,17 +10139,17 @@ cf. also:
                                                             Mammals, reptiles, amphibians   223
 
 
-                      Figure 5.1   Dendrolagus dorianus, Doria’s tree kangaroo
+Figure 5.1   _Dendrolagus dorianus_, Doria’s tree kangaroo
 
 
-5.2.2.2 Tree kangaroos (Genus Dendrolagus)
+5.2.2.2 Tree kangaroos (Genus _Dendrolagus_)
 
 224   Meredith Osmond and Andrew Pawley
 
-Within the Oceanic region, tree kangaroos (genus Dendrolagus) are restricted to mainland
+Within the Oceanic region, tree kangaroos (genus _Dendrolagus_) are restricted to mainland
 New Guinea and some close offshore islands. There are about eight species in the region.
 _D. inustus_, the grizzled tree kangaroo, is found in a wide band across northern New Guinea
-from the Bird’s Head Peninsula to the Torricelli Mountains. Dendrolagus scottae, Scott’s tree
+from the Bird’s Head Peninsula to the Torricelli Mountains. _Dendrolagus scottae_, Scott’s tree
 kangaroo, occurs in lowlands forests in Sandaun Province, Papua New Guinea. The other
 species have distributions that make them less likely to be known to speakers of Oceanic
 languages. _D. matschiei_, the Huon tree kangaroo, with chestnut-red pelage and long yellow
@@ -10158,8 +10157,8 @@ tail, is restricted to the heavily forested mountains of the Huon Peninsula. _D.
 tree kangaroo, is a large brownish-black animal that lives in the cloud and moss forests of
 montane New Guinea. _D. goodfellowi_ and the closely related _D. pulcherrimus_, the smallest
 species, are found in mid montane zones, _D. stellarum_ in the highlands of west-central New
-Guinea, Dendrolagus spadix, in the south-western lowlands of Papua New Guinea and D.
-mbaiso in the highlands of west-central New Guinea.
+Guinea, _Dendrolagus spadix_, in the south-western lowlands of Papua New Guinea and
+_D. mbaiso_ in the highlands of west-central New Guinea.
 
      To date, tree kangaroos are known outside the New Guinea mainland only on Umboi
 (presumably carried by humans from the nearby Huon Gulf area), Yapen and Salawati and
@@ -10168,14 +10167,14 @@ their existence in the Admiralties or the Solomons, although we have a term for 
 from Sursurunga, New Ireland, and another from Kaulong, New Britain, presumably because
 people there are aware that they exist elsewhere.
 
-     Fewer than twenty terms for Dendrolagus have been collected in total, all bar one from
-North New Guinea, the odd one out being Meso-Melanesian: Sursurunga atal ‘wallaby, includes
-Matschie’s tree kangaroo’. Of the NNG terms, one is from New Britain (Kaulong elan
-‘possum, also tree wallaby’), two are from a Schouten Chain language on the north coast (Sis-
-sano nep and ʔapar, both apparently meaning ‘tree kangaroo’) and one is from Bing, a Vitiaz
-Strait language north of the Huon Peninsula (dagyiebiy ‘tree kangaroo’). The remainder are
+     Fewer than twenty terms for _Dendrolagus_ have been collected in total, all bar one from
+North New Guinea, the odd one out being Meso-Melanesian: Sursurunga _atal_ ‘wallaby, includes
+Matschie’s tree kangaroo’. Of the NNG terms, one is from New Britain (Kaulong _elan_
+‘possum, also tree wallaby’), two are from a Schouten Chain language on the north coast
+(Sissano _nep_ and _ʔapar_, both apparently meaning ‘tree kangaroo’) and one is from Bing, a Vitiaz
+Strait language north of the Huon Peninsula (_dagyiebiy_ ‘tree kangaroo’). The remainder are
 from Huon Peninsula languages. No reconstructions are possible from these data other than
-a single low level term, Proto Buang *kekuij.
+a single low level term, Proto Buang _*kekuŋ_.
 
 
 5.2.3 Cuscuses (_Phalangeridae_)
@@ -10190,14 +10189,14 @@ intervention.
 
     In prehistoric times certain species were translocated by humans to Island Melanesia and
 the Moluccas. New Britain, New Ireland and the Solomons each have an introduced species.
-Phalanger orientalis, the northern common cuscus (aka grey cuscus) is an abundant lowland
+_Phalanger orientalis_, the northern common cuscus (aka grey cuscus) is an abundant lowland
 species native to New Guinea that about 20,000 years ago was taken to New Ireland, where
 it became an important prey species (Leavesley 2005). It was introduced to the Solomon
 Islands and also to Timor at some time in the last 7,000 years (Flannery and Wickler 1990,
-Glover 1986). A single species, Spilocuscus maculatus, is found in the Admiralties, including
+Glover 1986). A single species, _Spilocuscus maculatus_, is found in the Admiralties, including
 Manus, Wuvulu and Ninigo. It is commonly hunted on Manus.
 
-    There is a well supported POc reconstruction for ‘cuscus’, *kP v)adroRa. For a number of
+    There is a well supported POc reconstruction for ‘cuscus’, *(k,kʷ)adroRa. For a number of
 languages, sources give the gloss ‘possum’ to its reflexes (‘possum’ is often used loosely in
 Australian English to refer to any member of the superfamily Phalangeroidea), but this can
 only refer to a phalanger.
@@ -10230,7 +10229,7 @@ POc *(k,kʷ)adroRa ‘phalanger, cuscus’ (Ross 1988: *kadroRa)
 226     Meredith Osmond and Andrew Pawley
 
 
-    The following Southeast Solomonic terms reflect *kadora, with -r- for expected -/-. This
+    The following Southeast Solomonic terms reflect _*kadora_, with _-r-_ for expected _-l-_. This
 is consistent with borrowing from Meso-Melanesian neighbours in the western Solomons.
 
 __pre__
@@ -10296,8 +10295,8 @@ cf. also:
 5.2.5 Bandicoots (_Peroryctidae_)
 
 New Guinea is home to several genera of the family _Peroryctidae_, the bandicoots. They include
-Echymipera (common or spiny bandicoot, long-nosed bandicoot), Peroryctes (giant
-bandicoot, Raffray’s bandicoot), and Microperoryctes (mouse bandicoot, striped bandicoot).
+_Echymipera_ (common or spiny bandicoot, long-nosed bandicoot), _Peroryctes_ (giant
+bandicoot, Raffray’s bandicoot), and _Microperoryctes_ (mouse bandicoot, striped bandicoot).
 The mouse bandicoot is found only in the west of West Papua but the other genera are
 distributed widely on mainland New Guinea. Bandicoots are not present in the Solomons.
 Spriggs (1997:54) writes that at Pamwak, in Manus, bandicoots appear suddenly in the
@@ -10307,16 +10306,16 @@ by speakers of Oceanic languages, bandicoot species are present on Seram, Yapen,
 Kei and Aru. Compilers of wordlists are often unfamiliar with bandicoots, describing them
 as ‘large bush rats’, ‘marsupial rats’ or similar.
 
-    A POc term for ‘bandicoot’, *m wajar, is well supported. There are reflexes in the
+    A POc term for ‘bandicoot’, _*mʷajar_, is well supported. There are reflexes in the
 Admiralties, North New Guinea, Papuan Tip and Meso-Melanesian subgroups referring to the
-bandicoot, and a probable reflexes in Ponapean and certain Fijian dialects with change of
+bandicoot, and probable reflexes in Ponapean and certain Fijian dialects with change of
 referent. External cognates are found in several CEMP languages of the Moluccas and islands
 to the south of the Bird’s Head of New Guinea, where the reference is often to cuscus rather
 than bandicoot.
 
 228      Meredith Osmond and Andrew Pawley
 
-                  Figure 5.4   Microperoryctes longicauda, long-tailed bandicoot
+                  Figure 5.4   _Microperoryctes longicauda_, long-tailed bandicoot
 
 <
 PCEMP *mansar ‘bandicoot, marsupial rat’ (Blust 1982, 2002)
@@ -10336,19 +10335,17 @@ POc *mʷajar ‘bandicoot’
   MM:  Meramera      maso             ‘bandicoot’
   MM:  Tolai         mā(ŋ)            ‘bandicoot’
   MM:  Ramoaaina     ma(n)            ‘bandicoot’
-  Mic: Ponapean      (keli)mʷet       ‘k.o. small bat’ (keli- ‘prefix signifying danger, connection with spirit world’; Blust 2001)
+  Mic: Ponapean      (keli)mʷet       ‘k.o. small bat’ (_keli-_ ‘prefix signifying danger, connection with spirit world’; Blust 2001)
   Fij: Namosi        ŋʷaða            ‘k.o. large rat’ (Blust 1993)
 >
 
-The following are probably borrowed from a pre-Oceanic or early Oceanic language (Ross
-1988:21):
+The following are probably borrowed from a pre-Oceanic or early Oceanic language (Ross 1988:21):
 
 __pre__
-  NNG: Megiar             madar           ‘bandicoot’
-  NNG: Takia              madar           ‘bandicoot’
-  NNG: Yabem      mojaŋ                 ‘marsupial rat, cuscus, possum, tree kangaroo’
-  NNG: MaposBuang masaŋ                 ‘possum, Pseudocheirus eorinnae`. yellow-green
-                                        ring-tailed possum’
+  NNG: Megiar       madar        ‘bandicoot’
+  NNG: Takia        madar        ‘bandicoot’
+  NNG: Yabem        mojaŋ        ‘marsupial rat, cuscus, possum, tree kangaroo’
+  NNG: MaposBuang   masaŋ        ‘possum, _Pseudocheirus corinnae_, yellow-green ring-tailed possum’
 
                                                        Mammals, reptiles, amphibians       229
 
@@ -10376,15 +10373,15 @@ them by a term such as ‘small marsupial rodent’.
 
 5.2.7 Echidnas (_Tachyglossidae_)
 
-Monotremes are represented in New Guinea by two genera of echidna: Tachyglossus (short-
-beaked echidna) and Zaglossus (long-beaked echidna). Both are regarded as rare. Flannery
-(1995b:67) suggests that hunting pressure has severely reduced their numbers. Very little is
-known about the distribution and natural history of Tachyglossus, but it has been recorded
+Monotremes are represented in New Guinea by two genera of echidna: _Tachyglossus_ (short-
+beaked echidna) and _Zaglossus_ (long-beaked echidna). Both are regarded as rare.
+Flannery (1995b:67) suggests that hunting pressure has severely reduced their numbers. Very little is
+known about the distribution and natural history of _Tachyglossus_, but it has been recorded
 in the Markham valley and around Port Moresby, and from the island of Salawati off the
-Bird’s Head. Zaglossus has also been reported from both the western and eastern extremities
+Bird’s Head. _Zaglossus_ has also been reported from both the western and eastern extremities
 of New Guinea, but is found only where population densities are low. A term for the echidna
-is present in only two languages in our sample (Sinaugoro modagini ‘anteater’ (cf. moda
-‘bandicoot’) and Motu miyu ‘short-beaked echidna’) and no reconstructions are possible.
+is present in only two languages in our sample (Sinaugoro _modagini_ ‘anteater’ (cf. _moda_
+‘bandicoot’) and Motu _miɣu_ ‘short-beaked echidna’) and no reconstructions are possible.
 
 
 5.2.8 Rats (_Muridae_)
@@ -10405,7 +10402,7 @@ present in Remote Oceania before the advent of humans.
 
 230   Meredith Osmond and Andrew Pawley
 
-                                 Figure 5.5   Rattus exulans, rat
+                                 Figure 5.5   _Rattus exulans_, rat
 
 
     Five commensal rat species have been introduced to Oceania: Rattus rattus, _R. exulans_,
@@ -10423,12 +10420,12 @@ occurs in Lapita sites from the Bismarcks to western Polynesia and was clearly a
 with the initial Lapita dispersal into Remote Oceania. It was the only one of the commensal
 rats to reach Polynesia in ancient times.
 
-    Rattus praetor, the spiny rat, considerably larger than exulans, is native to New Guinea,
+    _Rattus praetor_, the spiny rat, considerably larger than exulans, is native to New Guinea,
 where it is widespread north and south of the central ranges as far east as the Sepik-Ramu
 basin. It also occurs on offshore islands in the Bismarck Archipelago where it appears in
-archaeological assemblages dated to at least 13,000 years ago (White, Clark and Bedford,
-2000) and in the Solomon Islands, where its introduction is probably of similar antiquity. R.
-praetor is now extinct in Remote Oceania but occurs in archaeological sites in Vanuatu and
+archaeological assemblages dated to at least 13,000 years ago (White, Clark and Bedford 2000)
+and in the Solomon Islands, where its introduction is probably of similar antiquity.
+_R. praetor_ is now extinct in Remote Oceania but occurs in archaeological sites in Vanuatu and
 Fiji, though not in Polynesia or Micronesia.
 
                                                              Mammals, reptiles, amphibians         231
@@ -10445,16 +10442,16 @@ tend to be of the order of ‘bush rat’ or simply ‘kind of rat’, glosses w
 genuine taxa in the language. One investigator (Futscher 1959) recorded at least 10 terms for
 kinds of rat in Tolai but the glosses simply say ‘mouse’.
 
-    POc *kasupe, continuing PEMP *kanzupay, has reflexes applied to one or more species of
-the genus Rattus, rats living in and around human settlements. Reflexes in Cristobal-Malaitan
-and Vanuatu languages preserve initial syllable *-a~. Those in Western Oceanic and Guadalcanal
-languages and in Western Fijian show initial u-. These may represent several independent cases
-where the first vowel assimilated to the following u. However, the assimilation is
-so widespread it is reasonable to reconstruct a POc doublet, *kusupe.
+    POc _*kasupe_, continuing PEMP _*kanzupay_, has reflexes applied to one or more species of
+the genus _Rattus_, rats living in and around human settlements. Reflexes in Cristobal-Malaitan
+and Vanuatu languages preserve initial syllable _*-a-_. Those in Western Oceanic and Guadalcanal
+languages and in Western Fijian show initial _u-_. These may represent several independent cases
+where the first vowel assimilated to the following _u_. However, the assimilation is
+so widespread it is reasonable to reconstruct a POc doublet, _*kusupe_.
 
 <
 PCEMP *kanzupay ‘rat’ (Blust 1993)
-POc *kasupe, *kusupe ‘rat taxon, probably Rattus exulans and possibly other small commensal sp. or spp.’
+POc *kasupe, *kusupe ‘rat taxon, probably _Rattus exulans_ and possibly other small commensal sp. or spp.’
   Adm: Drehet        (n)osop           ‘marmot’ (sic) (cf. _pʷek_ ‘rat’)
   Adm: Seimat        usuh              ‘k.o. rat’
   NNG: Malai         uzuv              ‘rat’
@@ -10492,16 +10489,16 @@ POc *kasupe, *kusupe ‘rat taxon, probably Rattus exulans and possibly other sm
   Fij: Wayan         kuðuve            ‘generic for rats and mice’
 >
 
-[3] The Bali term reflects POc y*kusupeq. On non-Oceanic evidence *-q was not present in the POc fonn. and
+[3] The Bali term reflects POc †_*kusupeq_. On non-Oceanic evidence _*-q_ was not present in the POc form, and
  the Bali reflex is a mystery.
 
 232   Meredith Osmond and Andrew Pawley
 
-   Reflexes of the root PAn *-labaw ‘rat’ occur alone or in combination with a preposed CV-
+   Reflexes of the root PAn _*-labaw_ ‘rat’ occur alone or in combination with a preposed CV-
 formative in various daughter languages, yielding a number of related terms including PAn
-*kulabaw and PMP *balabaw (Blust 2002:107).
+_*kulabaw_ and PMP _*balabaw_ (Blust 2002:107).
 
-   As an independent form *labaw is traceable back to PMP, with Oceanic reflexes from the
+   As an independent form _*labaw_ is traceable back to PMP, with Oceanic reflexes from the
 Te Motu group and, less certainly, the Malakula languages of Vanuatu.
 
 <
@@ -10521,14 +10518,14 @@ cf. also the following terms for ‘rat’ from Malakula languages:
   NCV: Nahavaq       lambut
 >
 
-    The latter forms exhibit a final -t which is unexpected in comparison with PMP *labaw.
-Tagbanawa (Kalamian), a Philippines language, has a similar word laput ‘rat’ but this is likely
+    The latter forms exhibit a final _-t_ which is unexpected in comparison with PMP _*labaw_.
+Tagbanawa (Kalamian), a Philippines language, has a similar word _laput_ ‘rat’ but this is likely
 to be an accidental resemblance.
 
-    PMP *bualabaw has probable Oceanic reflexes in Admiralty and NNG languages. The
-expected POc form is *b‘'alapo or *p walapo, and Bingpaldf supports the latter. However,
+    PMP _*bualabaw_ has probable Oceanic reflexes in Admiralty and NNG languages. The
+expected POc form is *bʷalapo or *pʷalapo, and Bing _palāf_ supports the latter. However,
 the final vowels of the Admiralties forms are unexplained. The Titan and Aua forms also
-show irregular loss of *-p~.
+show irregular loss of _*-p-_.
 
 <
 PMP *bualabaw ‘rat, mouse’ (ACD: *balabaw)
@@ -10549,11 +10546,11 @@ POc *pʷalapo ‘rat taxon’
                                                        Mammals, reptiles, amphibians     233
 
 
-    PAn *kulabaw ‘rat, mouse’, with reflexes in Taiwan (Paiwan kulavaw ‘mouse, rat’, Rukai
-kolabaw ‘rat in the fields’) as well as in MP languages is reconstructed by Blust (2002). A
-probable Oceanic reflex has been recorded in Bauan Fijian: kalavo ‘rat’. Amber (SHWNG)
-agrees with Bauan in having initial ka rather than ku, pointing to PEMP *kalabaw, POc
-*kalapo.
+    PAn _*kulabaw_ ‘rat, mouse’, with reflexes in Taiwan (Paiwan _kulavaw_ ‘mouse, rat’, Rukai
+_kolabaw_ ‘rat in the fields’) as well as in MP languages is reconstructed by Blust (2002). A
+probable Oceanic reflex has been recorded in Bauan Fijian: _kalavo_ ‘rat’. Amber (SHWNG)
+agrees with Bauan in having initial ka rather than ku, pointing to PEMP _*kalabaw_, POc
+_*kalapo_.
 
 <
 PAn *kulabaw ‘rat, mouse’ (Blust 2002)
@@ -10564,8 +10561,8 @@ POc *kalapo ‘rat taxon’
 >
 
     Two distinct cognate sets are widespread in Polynesia. The terms are simply glossed ‘rat’
-in the sources, unless otherwise noted, but the proto-forms must all have referred to Rattus
-exulans.
+in the sources, unless otherwise noted, but the proto-forms must all have referred to
+_Rattus exulans_.
 
 <
 PPn *kumā ‘rat’ (pollex)
@@ -10573,7 +10570,7 @@ PPn *kumā ‘rat’ (pollex)
   Pn:    Niuean        kumā
   Pn:    E Uvean       kumā
   Pn:    Anutan        kuma
-  Pn:    Tikopia       kuma(ri)  (final -ri unexpected)
+  Pn:    Tikopia       kuma(ri)  (final _-ri_ unexpected)
   Pn:    Marquesan     kuma-kuma
 >
 
@@ -10590,7 +10587,7 @@ PNPn *kimoa ‘rat, _R. exulans_’
 >
 
     Lincoln (2007) points to terms for ‘rat’ in various PT languages from Milne Bay Province
-that do not correspond regularly to *kimoa but show more than a passing resemblance. The
+that do not correspond regularly to _*kimoa_ but show more than a passing resemblance. The
 Milne Bay terms are from unpublished wordlists recorded by Pawley (1969).
 
 234   Meredith Osmond and Andrew Pawley
@@ -11261,7 +11258,7 @@ atu *boe-ni-tasi ‘dolphin’ (literally ‘pig of the sea’) has been reconst
 
 At least four large species of marine turtles are common to the Oceanic region: the hawksbill
 (Eretmochelys imbricatd), with its beak-like mouth, the green turtle (Chelonia mydas), with
-brown or black carapace, the loggerhead (Caretta caretia), with its very large head, and the
+brown or black carapace, the loggerhead (_Caretta caretta_), with its very large head, and the
 leatherback (Dermochelys coriacea), distinguished from other turtles by its lack of a bony
 shell, its carapace being covered by thick leathery skin. The much smaller olive fidley (Lep-
 idochelys olivacea) spends almost all of its time in the open ocean and is less familiar to
@@ -13132,8 +13129,8 @@ hence more likely to be recognised and lexicalised (Boster, Berlin & O’Neill 1
 
 6.5.1 Cassowaries (_Casuariidae_)
 
-A single species of this family of huge flightless birds, the Dwarf Cassowary (Casuarius
-bennetti), lives in the Oceanic homeland. Although cassowaries do not extend even into the
+A single species of this family of huge flightless birds, the Dwarf Cassowary (_Casuarius bennetti_),
+lives in the Oceanic homeland. Although cassowaries do not extend even into the
 Solomons, enough reflexes exist in languages of the NNG, PT and MM groups to support
 the reconstruction below. Attribution of such a form to POc is further supported by numerous
 cognates in languages to the west, e.g. Biak (SHWNG) (man)swar, Kaiwai (CMP) asawar
@@ -13141,11 +13138,11 @@ cognates in languages to the west, e.g. Biak (SHWNG) (man)swar, Kaiwai (CMP) asa
 
 288   Ross Clark
 
-                        Figure 6.2    Casuarius bemetti, Dwarf Cassowary
+                        Figure 6.2    _Casuarius bennetti_, Dwarf Cassowary
 
 <
 PCEMP *kasawari ‘cassowary’
-POc *kasuari ‘Dwarf Cassowary, Casuarius bennetti’ (Milke 1965)
+POc *kasuari ‘Dwarf Cassowary, _Casuarius bennetti_’ (Milke 1965)
   NNG:   Kairiru         qaiwar
   NNG:   Manam           kaluari
   NNG:   Tumleo          sauwil

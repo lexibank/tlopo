@@ -79,6 +79,44 @@ class Dataset(BaseDataset):
         return
 
     def cmd_download(self, args):
+        import pygbif
+        import re
+        pygbif.caching(True, name='gbif.sqlite')
+        names = set()
+        for row in self.raw_dir.joinpath('vol3').read_csv('taxa.csv'):
+            res = pygbif.species.name_suggest(q=re.sub(r'\s+spp?\.?$', '', row[0].strip()))
+            if not res:
+                res = pygbif.species.name_lookup(q=re.sub(r'\s+spp?\.?$', '', row[0].strip()))
+
+            assert res, row
+            for r in res:
+                if 'nubKey' in r:
+                    nub = r['nubKey']
+                    break
+            else:
+                raise ValueError(re.sub(r'\s+spp?\.?$', '', row[0].strip()), row[0])
+            def fmt(s):
+                if s is None:
+                    return ''
+                s = s.strip()
+                if not s:
+                    return ''
+                if ',' not in s:
+                    return s
+                return '"{}"'.format(s)
+
+            vernacular_names = pygbif.species.name_usage(key=nub, data="vernacularNames")
+            english_names = [name["vernacularName"] for name in vernacular_names["results"] if name["language"] == "eng" and name.get("preferred")]
+            if not english_names:
+                english_names = [name["vernacularName"] for name in vernacular_names["results"]
+                                 if name["language"] == "eng"]
+            #if english_names:
+            print(','.join([row[0].strip(), row[1].strip() if len(row) > 1 else '', str(nub), fmt(english_names[0] if english_names else '')]))
+            #print(row['Scientific_Name'], nub, english_names[0])
+            #>>> english_names
+            #['Coconut Crab']
+            #break
+        return
         #from pytlopo.parser.refs import refs2bib
         #refs2bib(self.raw_dir.joinpath('vol3', 'references.txt').read_text(encoding='utf8').split('\n'))
         #return

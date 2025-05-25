@@ -1425,8 +1425,7 @@ littoral forest borders immediately on the beach, and Barringtonia asiatica pred
 On coral islands where mixed littoral forest covers the whole island, the forest may in-
 clude Diospyros, Myristica and Rhus species. In the Solomons the lower storey includes
 Diospyros species, Ficus austrina, Hibiscus tiliaceus, Kleinhovia hospita, Morinda citrifolia
-and Premna corymbosa (Paijmans 1976:29-20, Henderson & Hancock 1988:321, Mueller-
-Dombois & Fosberg 1998: 50, 59, 70).
+and Premna corymbosa (Paijmans 1976:29-20, Henderson & Hancock 1988:321, Mueller-Dombois & Fosberg 1998: 50, 59, 70).
 
      As Barrau (1955: 17) notes, in many areas the littoral forest has been replaced by coconut
 palms.
@@ -1556,7 +1555,7 @@ of primary forest return, especially Pometia pinnata and Vitex cofassus.
     Mueller-Dombois & Fosberg (1998: 63) describe forest regrowth in Bougainville, but
 their stages are less clearly delineated than Henderson & Hancock' s. Regrowth vegetation
 includes wild varieties of cultivated plants, along with Heliconia indica, gingers, Caryota
-palms, grasses (Imperata cylindrica, Paspalum, Pennisetum macrostachium), Kleinhovia
+palms, grasses (Imperata cylindrica, Paspalum, Pennisetum macrostachyum), Kleinhovia
 hospita, Hibiscus tiliaceus, and species of Macaranga and Ficus (Mueller-Dombois & Fos-
 berg 1998: 63). Important secondary growth is dominated by species of Glochidion, Mac-
 aranga and Mallotus, along with species of Trema, Alphitonia, Casuarina, Trichospermum
@@ -2587,7 +2586,7 @@ PWOc *pudi-pudi 'wild banana' (Ross 1996d)
 'wild coconut tree or fruit' and bara 'breadfruit' vs bara-bare 'wild breadfruit'. For nearby
 Patpatar Peekel (1984) lists tuh 'sugarcane, Saccharum officinarum' vs tuh-tuh 'wild sugar-
 cane, Saccharum spontaneum', pulaka 'Polynesian arrowroot, T acca pinnatifida' vs pulaka-
-pulaka 'wild varieties of Polynesian arrowroot', sier 'betelpepper vine, Piper bette' vs sier-
+pulaka 'wild varieties of Polynesian arrowroot', sier 'betelpepper vine, Piper betle' vs sier-
 sier 'a vine, Piper fragile, P. singkojang or P. banksii' .
 
      Wayan Fijian has niu 'coconut palm' vs niu-niu 'cycad, Cycas circinalis' and vara 'ger-
@@ -2626,7 +2625,7 @@ denote types of plants not encompassed by these five taxa are more difficult to 
 
 It seems to be a human universal to classify flora and fauna into what can be described as
 hierarchies oflabelled taxa. For example, in Wayan Fijian bau !eke (dwarf bau), the name for
-Planchonella gabari, a tree that grows in mid-altitude forests, is one offour kinds of bau, the
+Planchonella garberi, a tree that grows in mid-altitude forests, is one offour kinds of bau, the
 generic term that refers to the Burckella, Manilkara, Palaquium and Planchonella species
 of the Sapotaceae family, woody trees used for making boats, chests and house posts. In
 tum bau is one of 200 or more kinds of kai, the generic name for trees and shrubs (Pawley &
@@ -2656,7 +2655,7 @@ __pre__
      Alphitonia spp.    Argusea argentea    Sapotaceae spp.          Pritchardia pacifica
             bau leke
                                     bau vudi                     bau som                bau levu
-       Planchonella gabari
+       Planchonella garberi
                                   'banana' bau                 'juicy' bau              'big' bau
           'dwarf bau
  Figure 3.1      The hierarchical structure of ethnobiological classifications, exemplified by
@@ -2718,7 +2717,7 @@ plant or animal of major cultural importance .
      These typical naming strategies can be demonstrated by the Wayan terms in Figure 3 .1.
 The taxa kai 'tree, shrub' and bau 'Sapotacae species', apparently life-form and generic taxa
 respectively, are labelled by non-compound lexical units, whereas the specific rank, for ex-
-ample bau !eke 'Planchonella gabari', is labelled by a compound that incorporates the term
+ample bau !eke 'Planchonella garberi', is labelled by a compound that incorporates the term
 for the folk generic. As expected the kingdom level taxon in Wayan is not overtly labelled,
 although kai 'tree, shrub' is sometimes used to refer to all plants, most commonly in phrasal
 expressions, such as vuniwai ni kai 'a doctor (i.e. scholar) of trees/plants, botanist' (Gard-
@@ -5172,7 +5171,7 @@ sara         pandanus leaf used as sling   laufa        pandanus leaf
 bʷara-       taro leaf                     Ia           young taro leaves used for
                                                         food
 waroamadi    leaves of asp. resembling     laumamanu    fern leaves
-             Piper bette
+             Piper betle
 
 106   Bethwyn Evans
 
@@ -6267,7 +6266,7 @@ as well as grasses and sedges which include Thuarea involuta (ch.8, §3).
 the environment for beach scrub. The border between the herbaceous zone and beach scrub is
 often vague and the two zones overlap. Beach scrub consists of shrubs like Pemphis acidula
 (§4.1.4) and Scaevola taccada (§4.1.5) and low-growing bushy-crowned trees like Cordia
-subcordata (§4 .1.1), Hernandia nymphaefolia (§4 .1.2 ), Hibiscus tiliaceus (§4 .1 .3), Thespesia
+subcordata (§4 .1.1), Hernandia nymphaeifolia (§4 .1.2 ), Hibiscus tiliaceus (§4 .1 .3), Thespesia
 populnea (§4.1.6), Tournefortia argentea (§4.1.7) and Vitex trifolia (§4.1.8), often densely
 tangled with climbers like Flagellaria indica (§4.2.1 ). Beneath the shrubs is a ground layer of
 ferns, grasses, gingers and herbs which includes Crinum asiaticum (ch. 13, §6.6) (Mueller-
@@ -6583,12 +6582,12 @@ PWOc *nagi 'Cordia sp.'
  MM: Marovo         nagi-nagi               'Cordia subcordata'
 >
 
-5.4.1.2 Hernandia nymphaefolia (syn. H. peltata), sea hearse tree, lantern tree, Bnambirimbiri, napiripiri, bluwud (Hernandiaceae)
+5.4.1.2 Hernandia nymphaeifolia (syn. H. peltata), sea hearse tree, lantern tree, Bnambirimbiri, napiripiri, bluwud (Hernandiaceae)
 
    Figure 5.3 Hernandia       
- nymphaefolia, sea hearse tree
+ nymphaeifolia, sea hearse tree
 
-                                      Peekel (1984: 192) describes Hernandia nymphaefolia as
+                                      Peekel (1984: 192) describes Hernandia nymphaeifolia as
                                       'one of the most frequent beach trees' in New Ireland. It is
                                       a small tree with hard white wood, white flowers and spher-
                                       ical white fruit about 3cm in diameter which ripen to pink
@@ -6611,14 +6610,14 @@ PWOc *nagi 'Cordia sp.'
                                                                              The coastal strand      137
 
 
-     There is some evidence that for early Oceanic speakers Hernandia nymphaefolia and
+     There is some evidence that for early Oceanic speakers Hernandia nymphaeifolia and
 Thespesia populnea (§4.1 .6) formed a taxon.[7] Both are small shore trees and both have hard
 wood that is used for hourglass drums. In Lau the regular reflex of POc *biRi-biRi 'H. nym-
 phaefolia' denotes 'T. populnea'. In Wayan Fijian the same is true of a borrowed reflex of
 *biRi-biRi. The Kiribati reflex of *biRi-biRi appears to denote both tree species.
 
      The Nduke and Roviana reflexes appear to denote Excoecaria agallocha (ch.6, §4.3), the
-leaves of which resemble those of H. nymphaefolia (W. McClatchey, pers. comm.).
+leaves of which resemble those of H. nymphaeifolia (W. McClatchey, pers. comm.).
 
      Clark (1996) takes the *-r- of PNCV *biri-biri below to reflect POc *-r-, but loss of the
 rhotic in PPn *pipi points to POc *-R-. Recent work by Lynch (2007) shows that PNCV *-r-
@@ -6631,43 +6630,43 @@ possible that the Seimat form represents a borrowing from a Micronesian language
 *-ŋ- remains unexplained.
 
 <
-POc *biRi-biRi 'Hernandia nymphaefolia' (lPNCV Clark 1996; PEOc Geraghty 1990)
+POc *biRi-biRi 'Hernandia nymphaeifolia' (lPNCV Clark 1996; PEOc Geraghty 1990)
     Adm:   Seimat         biŋi-biŋi 'Hernandia ovigera' (Sorensen 1950)
     NNG:   Bing           pir-pir     'tree sp. (with white flowers; grows beside the sea)'
-    MM:    Kara (E)       vi-vi       'Hernandia nymphaefolia'
-    MM:    Patpatar       bir-bir     'Hernandia nymphaefolia'
-    MM:    Tolai          (palu)bir   'Hernandia nymphaefolia'
+    MM:    Kara (E)       vi-vi       'Hernandia nymphaeifolia'
+    MM:    Patpatar       bir-bir     'Hernandia nymphaeifolia'
+    MM:    Tolai          (palu)bir   'Hernandia nymphaeifolia'
     MM:    Sursurunga     bir-bir     'large tree that grows on sand'
-    MM:    Nehan          bir-bir     'Hernandia nymphaefolia'
+    MM:    Nehan          bir-bir     'Hernandia nymphaeifolia'
     MM:    Kubukota       biri-biri   'a tree that grows on the shore, whose leaves are used as medicine for stings from certain fish'
     MM: Nduke            bi-biri        'tree of mangrove areas, sap injures the eyes' (perhaps Excoecaria agallocha)
     MM: Roviana          biri-biri      'beach tree, sap injures the eyes' (perhaps Excoecaria agallocha)
-PEOc *biRi-biRi 'k.o. shore tree, Hernandia nymphaefolia'
+PEOc *biRi-biRi 'k.o. shore tree, Hernandia nymphaeifolia'
     SES: Gela            bi-bili        'k.o. tree'
     SES: Lau             bili-bili      'tree sp., Thespesia populnea'
     SES: Arosi           biri-biri      'tree sp.'
-PNCV *biri-biri 'k.o. shore tree, Hernandia nymphaefolia'
-    NCV: Mwotlap         biy-biy        'Hernandia nymphaefolia'
+PNCV *biri-biri 'k.o. shore tree, Hernandia nymphaeifolia'
+    NCV: Mwotlap         biy-biy        'Hernandia nymphaeifolia'
     NCV: Mota            pir-pir        'tree sp.'
-    NCV: NE Ambae biri-biri             'Hernandia nymphaefolia'
-    NCV: Raga            biri-biri      'Hernandia nymphaefolia'
-    NCV: Paamese         viri-viri      'Hernandia nymphaefolia'
-    NCV: Lewo            (pur)pel-pele 'Hernandia nymphaefolia'
-    NCV: Namakir         bi-bir         'Hernandia nymphaefolia'
-    NCV: Nguna           na-peperi      'Hernandia nymphaefolia'
- NCV: S Efate            na-ipir      'Hernandia nymphaefolia'
-PMic *piŋi-piŋi 'Hernandia nymphaefolia'
-   Mic: Kiribati           piŋi-piŋ   'Thespesia populnea and probably Hernandia nymphaefolia'
-   Mic: Marshallese piŋ-piŋ             'Hernandia nymphaefolia'
+    NCV: NE Ambae biri-biri             'Hernandia nymphaeifolia'
+    NCV: Raga            biri-biri      'Hernandia nymphaeifolia'
+    NCV: Paamese         viri-viri      'Hernandia nymphaeifolia'
+    NCV: Lewo            (pur)pel-pele 'Hernandia nymphaeifolia'
+    NCV: Namakir         bi-bir         'Hernandia nymphaeifolia'
+    NCV: Nguna           na-peperi      'Hernandia nymphaeifolia'
+ NCV: S Efate            na-ipir      'Hernandia nymphaeifolia'
+PMic *piŋi-piŋi 'Hernandia nymphaeifolia'
+   Mic: Kiribati           piŋi-piŋ   'Thespesia populnea and probably Hernandia nymphaeifolia'
+   Mic: Marshallese piŋ-piŋ             'Hernandia nymphaeifolia'
 PCP *bibi 'Hernandia spp.'
    Fij:    Wayan          wiri-wiri       'Thespesia populnea' (borrowing: exp form is tbzbl)
-PPn *pi-pi 'k.o. shore tree, Hernandia nymphaefolia' (exp form is t*pipl)
+PPn *pi-pi 'k.o. shore tree, Hernandia nymphaeifolia' (exp form is t*pipl)
   Pn:     Niuean         pi-pi           'a large tree, Hernandia moerenhoutiana'
   Pn:     Tongan         |pi-pi (failolo)| 'Atuna racemosa'
   Pn:     E Futunan pi-pi                'tree with a soft black interior like a fir'
   Pn:     Samoan         pi-pi           'tree, Hernandia moerenhoutiana'
 cf. also:
-  PT:       Misima         bi-biu            'Hernandia nymphaefolia'
+  PT:       Misima         bi-biu            'Hernandia nymphaeifolia'
   Fij:      Rotuman        pi-pi             'Atuna racemosa' (W. McClatchey, pers. comm.)
 >
 
@@ -6680,10 +6679,10 @@ species.
 <
 Proto Remote Oceanic *buavu 'Hernandia sp.'
   NCal: Nyelayu    pʰoap                   'Hernandia ovigera'
-  Fij:  Wayan      buevu                   'Hernandia nymphaefolia'
+  Fij:  Wayan      buevu                   'Hernandia nymphaeifolia'
 >
 
-5.4.1.3 Hibiscus tiliaceus, beach hibiscus, TP mangas, P, Bburao (Malvaceae)
+5.4.1.3 Hibiscus tiliaceus, beach hibiscus, TP mangas, P. Bburao (Malvaceae)
 
 Hibiscus tiliaceus is a small sprawling, tangled shore tree with small girth, a branching trunk
 and pale yellow flowers (Figure 5.2, right). It grows 5-15 m tall (Peekel1984: 364, Henderson
@@ -6969,7 +6968,7 @@ PEOc *milo 'Thespesia populnea'
 
 
 
-5.4.1.7 Tournifortia argentea (syn. Messerschmidtia argentea), tree heliotrope, beach heliotrope (Boraginaceae)
+5.4.1.7 Tournifortia argentea (syn. Messerschmidia argentea), tree heliotrope, beach heliotrope (Boraginaceae)
 
                                Tournefortia argentea is a small heliotropic beach tree 5-8 m
                                tall with silvery hairy leaves and white flowers. It has a
@@ -8021,7 +8020,7 @@ flexuosa, see §5.6.)
 
 <
 POc *mapuqan 'Flueggea flexuosa' (?)
-  MM:      Madak        [vap]mavu   'Albiziafalcataria'
+  MM:      Madak        [vap]mavu   'Albizia falcataria'
   MM:      Mono-Alu     ma-mahuana  'Flueggea flexuosa' (Thomson 2006b)
   MM:      Nduke        mavuɣana    'Flueggea flexuosa'
   MM:      Roviana      mavuana     'Flueggea flexuosa'
@@ -8201,7 +8200,7 @@ Vanuatu (Wheatley 1992: 186--189).
     Two forms denoting Pisonia species are reconstructable. POc *[a]nuliŋ may well have
 denoted both Pisonia species. PEOc *buka evidently denoted a taxon of littoral trees, includ-
 ing Pisonia species and Gyrocarpus american us, expanded in PCP to include Hernandia
-nympaefolia.[26]
+nymphaeifolia.[26]
 
 <
 PMP *anuliŋ 'Pisonia umbellifera' (ACD)
@@ -8226,32 +8225,32 @@ Proto Remote Oceanic *buka 'taxon of littoral trees, including Pisonia spp. and 
   NCal: Nyelayu          vic               'Pisonia aculeata'
   Mic: Kiribati          buka              'Pisonia grandis'
   Mic: Ponapean          puek              'tulip tree sp.'
-PCP *buka 'taxon of littoral trees, including Pisonia spp., Hernandia nymphaefolia and Gyrocarpus americanus'
+PCP *buka 'taxon of littoral trees, including Pisonia spp., Hernandia nymphaeifolia and Gyrocarpus americanus'
   Fij:  Bauan            |buka(ni vuda)|   'Guioa rhoifolia'
   Fij:  Rotuman          puka              'creepers of various kinds'
   Pn:   Niuean           puka              'Pisonia sp.'
   Pn:   Tongan           puko              'Pisonia grandis'
   Pn:   Tongan           |puko (vili)|     'Gyrocarpus americanus' ('spinning puko', so named because of aerodynamics of thrown fruit) (Whistler 1991b: 109)
   Pn:    Samoan          |puʔa (vai)|      'Pisonia grandis'
-  Pn:   E Uvean          puko              'Hernandia nymphaefolia'
+  Pn:   E Uvean          puko              'Hernandia nymphaeifolia'
   Pn:   E Futunan        puka              'Pisonia sp.'
   Pn:   Pukapukan        puka              'Pisonia umbellifera'
   Pn:   Rennellese       puka              'Pisonia grandis'
-  Pn:   Tikopia          puka              'Hernandia nymphaefolia'
+  Pn:   Tikopia          puka              'Hernandia nymphaeifolia'
   Pn:   WFutunan         puka              'a kind of native cabbage'
   Pn:   Anutan           puka              'Pisonia grandis'
   Pn:   Emae             puka              'Gyrocarpus americanus'
   Pn:   Ifira-Mele       puka              'Gyrocarpus americanus'
-  Pn:   Tuvalu           puk               'Hernandia nymphaefolia'
+  Pn:   Tuvalu           puk               'Hernandia nymphaeifolia'
   Pn:   Tuvalu           puka              'Pisonia grandis'
-  Pn:   Tokelauan        puka              'Hernandia nymphaefolia'
+  Pn:   Tokelauan        puka              'Hernandia nymphaeifolia'
   Pn:   Tokelauan        puka(kakai)       'Pisonia grandis'
   Pn:   Kapingamarangi   puka(ria)         'M orinda citrifolia'
   Pn:   Kapingamarangi   puke              'Pisonia grandis, Hernandia sp.'
   Pn:   Nukuoro          buga              'Pisonia grandis'
   Pn:   Marquesan        puka              'tree sp.'
   Pn:   Marquesan        |puka (pipiri)|   'Pisonia umbellifera'
-  Pn:   Rarotongan       puka              'Hernandia nymphaefolia'
+  Pn:   Rarotongan       puka              'Hernandia nymphaeifolia'
   Pn:   Maori            puka              'Meryta sinclairii, Eugenia maire'
   Pn:   Tuamotuan        puka              'Pisonia umbellifera ?, Pisonia grandis ?'
 PPn *puka-tea 'Pisonia sp. or spp.' (*puka 'Pisonia sp.', *tea 'white')
@@ -9594,8 +9593,8 @@ Proto Erakor-Tafea *tuan 'Dysoxylum spp.'
 
 Elaeocarpus species in NW Island Melanesia include the large canopy trees E. angusti-
 folius (syn. E. sphaericus) with its distinctively cornflower-blue fruit and E.floridanus, more
-common in the Solomons than the Bismarcks, with dark blue or black fruit (syn. E. pseu-
-dosepikanus), both 25 or more metres tall, as well as shrub-sized trees of the understorey
+common in the Solomons than the Bismarcks, with dark blue or black fruit (syn. E. pseudosepicanus),
+both 25 or more metres tall, as well as shrub-sized trees of the understorey
 like E. edulis (syn. Aceratium oppositifolium), 3-6 m tall, with its 4 x 3cm ellipsoid apple-
 red fruit. The fruits of all species are inedible (Peekel 1984: 352-353, Wheatley 1992: 85,
 Kwa'ioloa & Burt 2001: 123).
@@ -12253,7 +12252,7 @@ POc *(quta)quta 'grass and weeds (generic)'
 
 
 Figure 8.5 Left Paspalum conjugatum. Middle Imperata cylindrica, sword grass. Right Coix
-lachryma-jobi, Job's tears.
+lacryma-jobi, Job's tears.
 
 
 
@@ -12379,9 +12378,9 @@ edule'). It may be that these reflect a confusion between reflexes of POc *pitu 
 and POc *pijo 'cane or reed taxon, including Saccharum spontaneum' (§3.4).
 
 
-8.3.2 Coix lachrymajobi, Job's tears (Poaceae)
+8.3.2 Coix lacrymajobi, Job's tears (Poaceae)
 
-Coix lachryma-jobi is a robust tropical grass, 1--1.5 m high, with shiny grains like tears (Fig-
+Coix lacryma-jobi is a robust tropical grass, 1--1.5 m high, with shiny grains like tears (Fig-
 ure 8.5, right). The grains are the hardened flower-cases of female spikelets. They tum various
 colours-yellow, purple, white or brown-and are used in rattles and necklaces in places as
 far apart as New Britain and Malaita (Kwa'ioloa & Burt 2001:204, Powell 1976). Powell
@@ -12396,12 +12395,12 @@ golon, Tagalog kogon, Bikol gogon, Hanunuo kugun, all 'I. cylindrica' (Madulid 2
                                                           Secondary forests and grasslands      253
 
 <
-POc *sila 'Job's tears, Coix lachryma-jobi'
-  Adm: Leipon            sili-sin          'Coix lachryma-jobi' (Nevennann 1934)
-  SES:    Kwara'ae      sila              'Coix lachryma-jobi'
-  SV:     Anejom         na-θec            'Coix lachryma-jobi'
-  Fij:    Bauan          sila              'Coix lachryma-jobi'
-  Fij:    Wayan          slla              'Coix lachryma-jobi'
+POc *sila 'Job's tears, Coix lacryma-jobi'
+  Adm: Leipon            sili-sin          'Coix lacryma-jobi' (Nevennann 1934)
+  SES:    Kwara'ae      sila              'Coix lacryma-jobi'
+  SV:     Anejom         na-θec            'Coix lacryma-jobi'
+  Fij:    Bauan          sila              'Coix lacryma-jobi'
+  Fij:    Wayan          slla              'Coix lacryma-jobi'
 >
 
 
@@ -12429,9 +12428,9 @@ PSV *na-(v)iuŋ 'wild cane' (Lynch 2001c)
   SV:    Anejom        ni-yeŋ       'wild cane'
 >
 
-8.3.4 Saccharum spontaeum, wild sugarcane (Poaceae)
+8.3.4 Saccharum spontaneum, wild sugarcane (Poaceae)
 
-Saccharum spontaeum is a tall grass up to 3m in height, with jointed, fibrous stalks similar to
+Saccharum spontaneum is a tall grass up to 3m in height, with jointed, fibrous stalks similar to
 those of sugarcane, S. officinarum (ch.13, §2.1 ), to which it is quite closely related. Its English
 name 'wild sugarcane' reflects an earlier belief that it was the wild source of sugarcane.
 
@@ -15520,10 +15519,9 @@ words for kidneys is quite common, e.g. Arosi kora i mabʷe 'kidneys' (lit. 'fru
 chestnut' ), Niueanfua-iji 'kidney' (lit. 'fruit of Tahitian chestnut' ).
 
 
-11.2.2 Inocarpus fagifer (syn. ! fagiferus, ! edulis), Tahitian chestnut, Pacific chestnut, Polynesian chestnut, TP aila, Bnamambe (Fabaceae)
+11.2.2 Inocarpus fagifer, Tahitian chestnut, Pacific chestnut, Polynesian chestnut, TP aila, Bnamambe (Fabaceae)
 
-Figure 11.2 Inocarpus fagifer, Tahitian chestnut: A, tree; B, portionof branch bear-
-ing fruit; C, inflorescence.
+Figure 11.2 Inocarpus fagifer, Tahitian chestnut: A, tree; B, portion of branch bearing fruit; C, inflorescence.
 
 
 Inocarpus fagifer is a common second storey tree of
@@ -18994,7 +18992,7 @@ betle: E, plant; F, G, H, flowering shoots of three varieties.
     Chewing betelnut as a stimulant is widespread in Papua New Guinea and the Solomon
 Islands, but not in other parts of the Pacific. Palms are grown in village groves or singly near
 houses. The seed may be chewed alone, but usually people chew a quid consisting of the seed,
-lime and a catkin or leaf of Piper bette (§2.2.2) (Paijmans 1976: 135).[1] Chewing the seed
+lime and a catkin or leaf of Piper betle (§2.2.2) (Paijmans 1976: 135).[1] Chewing the seed
 induces salivation, and if lime is present it turns the chewed mass bright red. Some people
 swallow all but the initial burst of saliva, whilst others spit out the red masticate. Initially,
 chewing leads to a very short-lived dizziness, folllowed by a sense of renewed wakefulness. In
@@ -19097,51 +19095,51 @@ POc *buaq 'betelnut, areca nut, palm, Areca catechu' (Capell1943: *pua(q))
 394    Malcolm Ross
 
 
-13.2.2.2 Piper bette (syn. Chavica bette), betel pepper, TP daka (Piperaceae)
+13.2.2.2 Piper betle (syn. Chavica betle), betel pepper, TP daka (Piperaceae)
 
-The betel pepper vine, Piper bette, is a woody climber with catkins, pendulous spikes of
+The betel pepper vine, Piper betle, is a woody climber with catkins, pendulous spikes of
 berries in a crowded mass forming a cylindrical syncarp (a composite fruit) (Figure 13.1 ,
 right). It climbs on Erythrina indica and Artocarpus incisa. The catkins and/or leaves are
 chewed with betelnut, Areca catechu (§2.2.1), and lime throughout the Bismarck Archipelago
 and the Solomons (Peekel1984: 124, Kwa'ioloa & Burt 2001:226, Hviding 2005: 115).
 
-    The reconstruction of POc *[pu-]pulu 'betel pepper, Piper bette' is taken from Lichtenberk's (1998)
+    The reconstruction of POc *[pu-]pulu 'betel pepper, Piper betle' is taken from Lichtenberk's (1998)
 discussion of whether POc speakers chewed betelnut. His reconstruction of
 POc *pulu is based partly on data assembled for the present project, with the addition of
-Chamorro pu-pulu 'Piper bette', supporting the: PMP reconstruction, and a Manam reflex. I
+Chamorro pu-pulu 'Piper betle', supporting the: PMP reconstruction, and a Manam reflex. I
 add Mussau _ulo_.
 
 <
-PMP *pu-pulu 'Piper bette' (Frantisek Lichtenberk 1998)
-POc *[pu-]pulu 'betel pepper, Piper bette' (Frantisek Lichtenberk 1998: *pulu)
-  Adm: Mussau            ulo           'betel pepper, Piper bette'
-  Adm: Loniu             pun           'betel pepper, Piper bette'
+PMP *pu-pulu 'Piper betle' (Frantisek Lichtenberk 1998)
+POc *[pu-]pulu 'betel pepper, Piper betle' (Frantisek Lichtenberk 1998: *pulu)
+  Adm: Mussau            ulo           'betel pepper, Piper betle'
+  Adm: Loniu             pun           'betel pepper, Piper betle'
   Adm: Bipi               pun          'betel leaf'
   Adm: Bipi               (pue)pun     'betel pepper'
-  NNG:   Lukep (Pono) ul                'betel pepper, Piper bette'
-  NNG:   Takia         ful               'betel pepper, Piper bette'
-  NNG:   Gedaged       fu                'betel pepper, Piper bette' (expected final-/ missing)
+  NNG:   Lukep (Pono) ul                'betel pepper, Piper betle'
+  NNG:   Takia         ful               'betel pepper, Piper betle'
+  NNG:   Gedaged       fu                'betel pepper, Piper betle' (expected final-/ missing)
   NNG:   Manam         ulu(salaga)       'big variety of betel vine' (salaga 'be long') (Frantisek Lichtenberk 1998)
-  SES:   Bugotu           vu-vulu        'betel pepper, Piper bette' (Henderson & Hancock 1988)
+  SES:   Bugotu           vu-vulu        'betel pepper, Piper betle' (Henderson & Hancock 1988)
 >
 
                                                                        Other cultivated plants   395
 
 
 <
-Proto Meso-Melanesian *siqa(r,R)(a) 'betel pepper, Piper bette'
- MM: Kara (E)         sie           'Piper bette'
- MM: Tabar            sia           'Piper bette'
- MM: Lihir            sie           'Piper bette'
- MM: Patpatar         sier          'Piper bette'
- MM: Tolai            ier           'Piper bette'
- MM: Nehan            hiara         'Piper bette'
- MM: Petats           sit           'Piper bette'
+Proto Meso-Melanesian *siqa(r,R)(a) 'betel pepper, Piper betle'
+ MM: Kara (E)         sie           'Piper betle'
+ MM: Tabar            sia           'Piper betle'
+ MM: Lihir            sie           'Piper betle'
+ MM: Patpatar         sier          'Piper betle'
+ MM: Tolai            ier           'Piper betle'
+ MM: Nehan            hiara         'Piper betle'
+ MM: Petats           sit           'Piper betle'
  MM: Teop             hia(kuru)     'Piper erectum'
- MM: Tinputz          (ta)sian      'Piper bette'
+ MM: Tinputz          (ta)sian      'Piper betle'
  MM: Banoni           siyana        'betel pepper catkin'
 cf. also:
- MM:   Marovo         hirata            'Piper bette'
+ MM:   Marovo         hirata            'Piper betle'
 >
 
 
@@ -19226,7 +19224,7 @@ PNCV *kea 'kava; sour, bitter' (Lynch 2004a)
   NCV: Araki              hae               'kava; sour, bitter'
   NCV: Lewo               (wi)kawa          'brackish water' (_wi_ 'water')
 PCP *kawa 'kava, Piper sp., fish-poison plants; sour, bitter';  'Zingiber spp.' (probably also)
-  Fij:  Bauan             (wa)gawa-gawa 'Piper bette'
+  Fij:  Bauan             (wa)gawa-gawa 'Piper betle'
   Fij:  Nadroga           kawa              'fish-poison tree, Euphorbia sp. (?)'
   Fij:  Lautoka           kawa              'fish-poison vine, Derris sp.'
   Fij:  (many dialects)   kawa              'k.o. round fish-trap with mouth on top, made from Derris vines'
@@ -20962,7 +20960,7 @@ __pre__
   *bau                   'hardwood taxon'
   *bele                  'Abelmoschus manihot'
   *beta                  'breadfruit'
-  *biRi-biRi             'Hernandia nymphaefolia'
+  *biRi-biRi             'Hernandia nymphaeifolia'
   *basi                  'a forest tree with white wood, probably Euodia elleryana'
   *bou                   'Fagraea spp.'
   *bulu                  'Garcinia sp., perhaps G. novo-guineensis'
@@ -21041,7 +21039,7 @@ __pre__
   *sabakap               'Alstonia scholaris'
   *sakup                 'banana cultivar with long fruit' (?)
   *seRa                  'Ficus sp., perhaps F. adenosperma'
-  *sila                  'Job's tears, Coix lachryma-jobi'
+  *sila                  'Job's tears, Coix lacryma-jobi'
   *tamanu                'Calophyllum sp.'
   *tal) a                'Ficus tinctoria'
   *tapi(l)               'puzzlenut tree, Xylocarpus granatum' (?)
