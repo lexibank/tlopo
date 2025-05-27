@@ -8845,23 +8845,21 @@ Evidence for the reconstruction occurs in two geographically separated primary s
 Oceanic, but apparently nowhere else. Despite this distribution, the evidence would be clear
 enough, were it not for (i) the meaning of the Proto Southeast Solomonic term, reconstructable
 as 'plank-built canoe', and (ii) the fact that the Lau, Baegu, Kwai and Arosi reflexes could
-well reflect, not *tola, but POc *(q)oRa 'strake, probably topstrake (washstrake) (§2.4)
-(Cristobal-Malaitan languages regularly lose POc *t). It is possible that the forms ola/ora
-reflect a falling together of *tola and *(q)oRa, the meaning narrowing in favour of *(q)oRa
-and then transferred to Bugotu, Gela tola.
+well reflect, not _*tola_, but POc _*(q)oRa_ 'strake, probably topstrake (washstrake) (§2.4)
+(Cristobal-Malaitan languages regularly lose POc _*t_). It is possible that the forms _ola_/_ora_
+reflect a falling together of _*tola_ and _*(q)oRa_, the meaning narrowing in favour of _*(q)oRa_
+and then transferred to Bugotu, Gela _tola_.
 
    Evidence from other Southeast Solomonic languages further confuses the issue. Gela and
-Tolo (Guadalcanal) tiola 'generic term for plank-built canoes' and 'Are'are iora, Sa'a iola
-'plank-built canoe' might be explained as deriving from a bimorphemic form *ti-(q)oRa.
+Tolo (Guadalcanal) _tiola_ 'generic term for plank-built canoes' and 'Are'are iora, Sa'a _iola_
+'plank-built canoe' might be explained as deriving from a bimorphemic form _*ti-(q)oRa_.
 This might be liable to conflation with reflexes of *tola also.
 
 
 182     Andrew and Medina Pawley
 
 
-
 7.2.2 Double canoes
-
 
    It has been suggested (Roger Green, pers.comm.) that the ocean-going double-hulled canoe
 was an innovation of Oceanic speakers. He argues that it was large double canoes, stable and
@@ -8887,29 +8885,30 @@ interstage. However, a number of Oceanic languages reflect the following form:
 
 <
 PEOc *paqurua 'double canoe'
-  SES:     Lau              foorua                'outrigger canoe'
-  Mic:     Kiribatese       baurua                'large single outrigger voyaging canoe'[9]
-  Fij:     Rotuman          foulua                'ship' (probably a Pn borrowing)
+  SES: Lau              foorua             'outrigger canoe'
+  Mic: Kiribatese       baurua             'large single outrigger voyaging canoe'[9]
+  Fij: Rotuman          foulua             'ship' (probably a Pn borrowing)
 PPn *faʔurua 'double canoe'
-     Pn:      Niuean           faulua, foulua   'ship'
-     Pn:      Rennellese       haʔugua           'the double canoe in which the ancestor Kaituʔu sailed when he discovered Rennell and Bellona'
-     Pn:      Tuvalu           foulua [10]
-     Pn:      Maori            hourua
-     cf. also:
-     Fij:    Bauan            |drua, waga drua| 'ocean-going double canoe'
-     Pn:      Samoan           fau-tasi        'large whaleboat' (possibly a nineteenth century coinage)
-     Pn:      Manihiki         |waka tau-rua|      'double canoe'
-     Pn:      Hawaiian         |waʔa kau-lua|      'double canoe' (vs waʔa kau-kasi 'single-hulled canoe')
+  Pn:  Niuean           faulua, foulua     'ship'
+  Pn:  Rennellese       haʔugua            'the double canoe in which the ancestor Kaituʔu sailed when he discovered Rennell and Bellona'
+  Pn:  Tuvalu           foulua [10]
+  Pn:  Maori            hourua
+  cf. also:
+  Fij: Bauan            |drua, waga drua|  'ocean-going double canoe'
+  Pn:  Samoan           fau-tasi           'large whaleboat' (possibly a nineteenth century coinage)
+  Pn:  Manihiki         |waka tau-rua|     'double canoe'
+  Pn:  Hawaiian         |waʔa kau-lua|     'double canoe' (vs waʔa kau-kasi 'single-hulled canoe')
 >
 
 [9] _b_ for expected _p_, possibly borrowed from a Polynesian source.
+
 [10] Obsolete (Hornell 1936:302).
 
- PEOc *paqurua is a compound formed from POc *paqu(s) 'bind, lash; construct by tying
-together' (Ch. 9, § 10) and *rua 'two'. While it is possible that Lau foorua is borrowed from
+ PEOc _*paqurua_ is a compound formed from POc _*paqu(s)_ 'bind, lash; construct by tying
+together' (Ch. 9, § 10) and _*rua_ 'two'. While it is possible that Lau _foorua_ is borrowed from
 a Polynesian language, the details of form do not support this notion. Lau has the independent
-bases foo 'bind' and rua 'two'. Haddon (1937 :77) reports Kinilaulau (Carteret I slands)
-haulau, holua 'outrigger canoe ', but this term is probably borrowed from a Polynesian
+bases _foo_ 'bind' and _rua_ 'two'. Haddon (1937 :77) reports Kinilaulau (Carteret Islands)
+_haulau_, _holua_ 'outrigger canoe ', but this term is probably borrowed from a Polynesian
 language believed to have been formerly spoken on the island or from nearby Takuu.
 
     Friederici (1928:31) suggests that the double canoe of Oceania (or at least the type with
@@ -8938,16 +8937,16 @@ source) can be reconstructed:
 <
 PWMP *padaw 'kind of sailboat' (Blust 1983-84a:90)
      WMP: Maranao              padao             'sailboat'
-     WMP: Malay                |layar padau|       'storm sail'
+     WMP: Malay                |layar padau|     'storm sail'
      WMP: Cebuano              paraw             'schooner, galleon'
 >
 
 <
 PWMP *paraSu 'boat' (Dempwolff 1938)
-     WMP: Toba Batak           parau
-  WMP: Javanese    perau
-  WMP: Malay       perau
-  WMP: Ngaju Dayak parau
+  WMP: Toba Batak   parau
+  WMP: Javanese     perau
+  WMP: Malay        perau
+  WMP: Ngaju Dayak  parau
 >
 
 184    Andrew and Medina Pawley
@@ -8959,51 +8958,51 @@ folau 'voyage, travel by sea', Fijian volau 'boat shed' (cf. *pa-laSud, §9.2).
 
 <
 PPn *paopao 'small outrigger or dugout canoe for inshore use'
-  Pn:     Tongan          pōpao              'roughly made dugout canoe with two boom outrigger'
-  Pn:     Samoan          paopao             'small outrigger canoe with two booms'
-  Pn:     Tikopia         paopao             (1) 'craft made from log simply hollowed out, not built up'; (2) 'canoe, sea-going but not sacralised, in contrast to vaka tapu'
-  Pn:     Nukuoro         paopao             'double-ended single outrigger with two booms'
+  Pn: Tongan          pōpao              'roughly made dugout canoe with two boom outrigger'
+  Pn: Samoan          paopao             'small outrigger canoe with two booms'
+  Pn: Tikopia         paopao             (1) 'craft made from log simply hollowed out, not built up'; (2) 'canoe, sea-going but not sacralised, in contrast to vaka tapu'
+  Pn: Nukuoro         paopao             'double-ended single outrigger with two booms'
 >
 
 A possible cognate occurs in a single Western Oceanic language, Mekeo of the Central
-Province of Papua. East Mekeo has papao (dialect fafao) 'small canoe for children, also
+Province of Papua. East Mekeo has _papao_ (dialect _fafao_) 'small canoe for children, also
 used as a trough for feeding pigs'. Reduction of the first vowel cluster of a reduplicated word
-is characteristic of Mekeo (Alan Jones, pers.comm.). This comparison points to POc *paopao
+is characteristic of Mekeo (Alan Jones, pers.comm.). This comparison points to POc _*paopao_
 'small outrigger canoe', though it needs strengthening by further cognates beyond Polynesian.
 
-
-    Blust (1986:33) reconstructs the term *dakit, noting a number of reflexes within the
+    Blust (1986:33) reconstructs the term _*dakit_, noting a number of reflexes within the
 WMP region and a regular reflex in one Oceanic language, Motu. To these may be added
 many other Philippine and Northern Sulawesi reflexes (given in Reid 1971) and possible
 reflexes in CMP and Western Oceanic.
 
 <
 PMP *dakit (N) 'raft'; (V) 'join along the length' (Blust 1986)
-  WMP: Aklanon            gākit             'raft'
-  WMP: Gaddang            gakit              'raft'
-  WMP: Isneg              gākit             'raft'
-  WMP: Ivatan             dākit             'raft'
-  WMP: Kankanay           lakit              'raft'
-  WMP: Malay              rakit              'raft'
-  WMP: Sangir             hakiq              'raft'
-  WMP: Sundanese          rakit              'raft'
-  WMP: Wolio              rakii              (v) 'join along the length'
-  WMP: Balangaw           dakit              'put very close'
-  WMP: Sika               |dakit (wii)|        '(earth, flour, resin) cleave, stick together'
-  WMP: Maloh              daʔit              'raft'
-  WMP: Maloh              dakit              'join along the length'
- CMP: Taliabo             (ka)haŋkiʔ        'raft' (Charles Grimes, pers.comm.)
+ WMP: Aklanon            gākit             'raft'
+ WMP: Gaddang            gakit             'raft'
+ WMP: Isneg              gākit             'raft'
+ WMP: Ivatan             dākit             'raft'
+ WMP: Kankanay           lakit             'raft'
+ WMP: Malay              rakit             'raft'
+ WMP: Sangir             hakiq             'raft'
+ WMP: Sundanese          rakit             'raft'
+ WMP: Wolio              rakii             (v) 'join along the length'
+ WMP: Balangaw           dakit             'put very close'
+ WMP: Sika               |dakit (wii)|     '(earth, flour, resin) cleave, stick together'
+ WMP: Maloh              daʔit             'raft'
+ WMP: Maloh              dakit             'join along the length'
+ CMP: Taliabo            (ka)haŋkiʔ        'raft' (Charles Grimes, pers.comm.)
 POc *raki(t) ?'raft; join outrigger, join two hulls'
-  PT:     Motu            rai                'prepare a canoe for the sea; tie the outrigger on; tie two canoes to make an irai (double-hulled canoe)'
+ PT:  Motu               rai               'prepare a canoe for the sea; tie the outrigger on; tie two canoes to make an _irai_ (double-hulled canoe)'
 >
 
 Chowning (1985 :59) gives the following as possible cognates, although the final vowel is
 problematic:
+
+__pre__
   NNG: Kove                laye               'raft'
   MM: Nakanai              lage               'raft'
 
                                                                     Canoes and seafaring             185
-
 
 
 7.2.3 Hull construction
@@ -9014,6 +9013,7 @@ hull, with the sides raised by sewing one side piece or strake to each side, wit
 crutch-shaped pieces at each end; and (c) a built-up canoe, in which a number of planks or
 strakes are added to a keel. The keel may consist of a thick plank or a dugout underbody (or
 sometimes two or even three dugouts joined).
+
    Ethnologists have argued on logical grounds that types (b) and (c) developed from the
 dugout prototype. In his account of Philippine boat-building in the sixteenth and seventeenth
 centuries, Scott (1982 :337-338) sketches a theory of the evolution of the hull of Philippine
@@ -9030,14 +9030,13 @@ boats:
 |    produced. But as the sides of the canoe, or banca, are thinned, some transverse strengthening
 |   is required, and this can be provided by running strut-like thwarts across the vessel, securing
 |   them to the sides without nails by means of tambukos [lugs] and lashing. For this purpose a
-|    flexible rib can be pressed down across all of them and lashed securely to the matching
+|   flexible rib can be pressed down across all of them and lashed securely to the matching
 |   tambukos carved on each plank. Finally a combination of such thwarts and ribs lashed
 |   together … produces a sturdy vessel whose hull and other structural parts are held firm under
 |   prestressed tension.
 
    The question arises as to whether any or all of these features of hull design are attested in
 the vocabulary of PMP and other interstages.
-
 
 
 7.2.4 Planking
@@ -9047,30 +9046,30 @@ descendants, of boats built up by planking and strengthened by thwarts:
 
 <
 PMP *papan 'plank (of boat +), strake'
- WMP: Malay            papan
- WMP: Madurese         papan                (Horridge)
- WMP: Bajau            papan                (Horridge)
- WMP: Buginese         papan                (Horridge)
- CMP: Buru             papa-n
+ WMP: Malay           papan
+ WMP: Madurese        papan             (Horridge)
+ WMP: Bajau           papan             (Horridge)
+ WMP: Buginese        papan             (Horridge)
+ CMP: Buru            papa-n
 POc *baban, *bapan (1) 'plank' ; (2) 'canoe plank or strake'
-  PT:     Molima           baba               (1) 'lower plank on canoe'; (2) 'put plank on canoe'
-  PT:     Wedau           papana             'built-up canoe'
-  SES:    Lau             baba               'long side board of canoe'
-  SES:    Sa'a            hapa               (1) 'plank'; (2) 'thwart of canoe'
-  SES:    Bugotu          pava               'plank'
-  Mic:    Kosraean        pæp               'sides of canoe'
-  Mic:    Puluwat         pāp                'board; canoe planks'
-  Mic:    Trukese         |pape-n (wā)|        'canoe strake' (_pape-_ 'plank', _-n_ 'construct suffix', wā 'canoe')
-  Fij:    Bauan           bava               'washstrake or upper planks of canoe'
-  Fij:    Bauan           baba               'side planks of canoe'
-  Pn:     Tongan          papa               'board, flat, hard surface'
-  Pn:     Hawaiian        papa               'flat, hard surface, board'
+ PT:  Molima          baba              (1) 'lower plank on canoe'; (2) 'put plank on canoe'
+ PT:  Wedau           papana            'built-up canoe'
+ SES: Lau             baba              'long side board of canoe'
+ SES: Sa'a            hapa              (1) 'plank'; (2) 'thwart of canoe'
+ SES: Bugotu          pava              'plank'
+ Mic: Kosraean        pæp               'sides of canoe'
+ Mic: Puluwat         pāp               'board; canoe planks'
+ Mic: Trukese         |pape-n (wā)|     'canoe strake' (_pape-_ 'plank', _-n_ 'construct suffix', wā 'canoe')
+ Fij: Bauan           bava              'washstrake or upper planks of canoe'
+ Fij: Bauan           baba              'side planks of canoe'
+ Pn:  Tongan          papa              'board, flat, hard surface'
+ Pn:  Hawaiian        papa              'flat, hard surface, board'
 >
 
- PMP *papan evidently referred to any plank or board (see Ch. 3, §3. S). It might be argued
+ PMP _*papan_ evidently referred to any plank or board (see Ch. 3, §3. S). It might be argued
 that this term could have been independently applied to canoe strakes or planks by different
 daughter languages after the break-up of PMP. However, the fact that in diverse Malayo-Polynesian
-languages reflexes of *papan are consistently used of canoe planks, even in cases
+languages reflexes of _*papan_ are consistently used of canoe planks, even in cases
 when another general word for plank or board has developed, is a fairly strong indication that
 this application goes back to PMP times.
 
@@ -9079,14 +9078,14 @@ this application goes back to PMP times.
 
 <
 POc *(q)oRa 'strake, probably topstrake (washstrake)'
-  MM:     Mono-Alu        ora                'median strake at each end, above keel strakes on a canoe with dugout underbody'
-  Pn:     Niuean          oa                 'washstrake, grooved and drilled for lashing to the hull'
-  Pn:     Samoan          oa                 'gunwale and gunwale flange'
-  Pn:     Pukapukan       oa                 'washstrake'
-  Pn:     Rarotongan      oa                 'sideplank or planks of a canoe, lashed to the main body; the gunwale or seaboard of a canoe'
-  Pn:     Tokelauan       oa                 'gunwale'
-  Pn:     Tikopia         oa                 'top strake, gunwale'
-  Pn:     Maori           oa                 'side boards of a canoe'
+  MM:  Mono-Alu        ora        'median strake at each end, above keel strakes on a canoe with dugout underbody'
+  Pn:  Niuean          oa         'washstrake, grooved and drilled for lashing to the hull'
+  Pn:  Samoan          oa         'gunwale and gunwale flange'
+  Pn:  Pukapukan       oa         'washstrake'
+  Pn:  Rarotongan      oa         'sideplank or planks of a canoe, lashed to the main body; the gunwale or seaboard of a canoe'
+  Pn:  Tokelauan       oa         'gunwale'
+  Pn:  Tikopia         oa         'top strake, gunwale'
+  Pn:  Maori           oa         'side boards of a canoe'
 >
 
 Possible cognates of _*(q)oRa_ occur in Cristobal-Malaitan languages of the Southeast Solomonic
@@ -9094,10 +9093,9 @@ family: Arosi ora, Lau ola 'plank-built canoe (built up from a plank centre keel
 and stern keels), with no outrigger'. As noted in §2. 1, however, their interpretation is difficult,
 as they could also reflect POc _*tola_ 'large canoe'.
 
-
     The question of how planks were joined is connected to the question of whether early
-Austronesian communities used stone or metal tools, as the following remarks by Scott
-(1982:338-339) make clear:
+Austronesian communities used stone or metal tools, as the following remarks by Scott (1982:338-339)
+make clear:
 
 |   Historically there are two methods by which the planks in [Philippine] plank-built boats are
 |   fastened together - sewing and edge-pegging. Sewing - or, better said, lacing - the
@@ -9106,40 +9104,40 @@ Austronesian communities used stone or metal tools, as the following remarks by 
 |   shoe or basketball. This is the older technique and it can be performed with even a simple
 |   stone or bone drill, as was still being done in remote Pacific islands … Stone tools are
 |   probably inadequate for drilling deep holes in the thin edges of boards, and it is therefore
-|      not surprising that edge-pegging does not appear in those distant Pacific islands whose
-|      inhabitants presumably migrated there without metal.
+|   not surprising that edge-pegging does not appear in those distant Pacific islands whose
+|   inhabitants presumably migrated there without metal.
 
                                                                             Canoes and seafaring             187
 
-
-   We can reconstruct PMP *kiRam 'adze/axe' and *taRaqi (V) 'adze, carve' (Ch. 4, §4. 1 . 1),
+   We can reconstruct PMP *kiRam 'adze/axe' and _*taRaqi_ (V) 'adze, carve' (Ch. 4, §4. 1 . 1),
 with reflexes in Oceanic as well as in WMP witnesses, but there are no secure PMP or POc
 reconstructions for other equipment likely to have been used in boat-building.[11] The current
 consensus among archaeologists is that the introduction of metal in eastern Asia postdated
-the break-up of PAn and PMP. Although Blust (l 976b) has pointed to comparisons between
+the break-up of PAn and PMP. Although Blust (1976b) has pointed to comparisons between
 Formosan and WMP forms suggesting that PAn speakers may have had a knowledge of
 metal tools, it is likely that this knowledge spread after the break-up of PAn and PMP.
 
-[11]  The fruit of the putty nut (Parinarium laurinum) is widely used to caulk or stop a vessel. In Proto Huon Gulf
-     an identical term is reconstructable both for the nut and the glue that is made from it: Proto Huon Gulf
-     *jimiR 'putty nut, caulking substance' (Ross 1988:79); Tami jim 'caulking substance'; Tuam zimir 'caulk' ;
-     Numbami dimil-a 'caulk'. The following set i s of uncertain relation to *jimiR: POc *jema 'caulk' (Milke
-     1968): Motu dema-ia 'caulk'; E. Fijian sema 'splice, join, patch', sema-ta 'to splice, join, patch s.t.'
+[11]  The fruit of the putty nut (Parinarium laurinum) is widely used to caulk or stop a vessel.
+      In Proto Huon Gulf an identical term is reconstructable both for the nut and the glue that is
+      made from it: Proto Huon Gulf _*jimiR_ 'putty nut, caulking substance' (Ross 1988:79);
+      Tami _jim_ 'caulking substance'; Tuam _zimir_ 'caulk'; Numbami _dimil-a_ 'caulk'.
+      The following set is of uncertain relation to _*jimiR_: POc _*jema_ 'caulk' (Milke 1968):
+      Motu _dema-ia_ 'caulk'; E. Fijian _sema_ 'splice, join, patch', _sema-ta_ 'to splice, join, patch s.t.'
 
 
 7.2.5 Thwart, cross-seat
 
 <
 PMP *seŋkar 'cross-seat in boat, thwart' (after Blust 1972b)
- WMP: Iban                seŋka
- WMP: Malay               seŋkar
- WMP: Tagalog             saŋkal
+ WMP: Iban              seŋka
+ WMP: Malay             seŋkar
+ WMP: Tagalog           saŋkal
 POc *soka(r) (1) 'thwart '; (2) 'bracing timber, crossbeam ' (cf. Ch. 3, §3 .4)
-     Mic:     Kiribatese        oka                  'rafter of house going from horizontal beam to ridgepole'
-     Fij:     Bauan             soka                 'thwart'
-     Fij:     Bauan             (i)ooka              'collar-beam in house' (_i-_ < POc _*i-_ INS)
-     Pn:      Tongan            hoka                 'upright timber supporting ridgepole'
-     Pn:      Samoan            soʔa                 'collar beam of house'
+ Mic: Kiribatese        oka                  'rafter of house going from horizontal beam to ridgepole'
+ Fij: Bauan             soka                 'thwart'
+ Fij: Bauan             (i)ooka              'collar-beam in house' (_i-_ < POc _*i-_ INS)
+ Pn:  Tongan            hoka                 'upright timber supporting ridgepole'
+ Pn:  Samoan            soʔa                 'collar beam of house'
 >
 
 
@@ -9152,14 +9150,14 @@ for the former. Such a term is, however, clearly reconstructable for PCP:
 
 <
 PCP *takele 'keel or dugout underbody to which planking is added'
-     Fij:     Wayan             takele
-     Fij:     Bauan             (i)takele             (_i-_ < POc _*i-_ INS)
-     Pn:      Tongan            takele
-     Pn:      Samoan            taʔele
-     Pn:      Tikopia           takere               'bottom of container, bilge of a canoe hull'
-     Pn:      Rarotongan        takere               'dugout underbody when washstrakes are present'
-     Pn:      Maori             takere
-     Pn:      Hawaiian          kaʔele               'canoe hull; inside bottom of a container'
+     Fij: Wayan             takele
+     Fij: Bauan             (i)takele             (_i-_ < POc _*i-_ INS)
+     Pn:  Tongan            takele
+     Pn:  Samoan            taʔele
+     Pn:  Tikopia           takere               'bottom of container, bilge of a canoe hull'
+     Pn:  Rarotongan        takere               'dugout underbody when washstrakes are present'
+     Pn:  Maori             takere
+     Pn:  Hawaiian          kaʔele               'canoe hull; inside bottom of a container'
 >
 
 188       Andrew and Medina Pawley
@@ -9172,12 +9170,12 @@ such as a cup or basket.
 
 <
 PPn *liu 'bilge, interior of hull'
-     Pn:     Tongan           liu            'bilge'
-     Pn:     Niuean           liu            'inside of a cup, canoe'
-     Pn:     Samoan           liu            'bilge water'
-     Pn:     Rennellese       giu            'bilge, interior of basket, bowl +'
-     Pn:     Tikopia          riu            'inside of a container; bilge of a canoe'
-     Pn:     Maori            riu            'bilge, valley, basin'
+     Pn:  Tongan           liu            'bilge'
+     Pn:  Niuean           liu            'inside of a cup, canoe'
+     Pn:  Samoan           liu            'bilge water'
+     Pn:  Rennellese       giu            'bilge, interior of basket, bowl +'
+     Pn:  Tikopia          riu            'inside of a container; bilge of a canoe'
+     Pn:  Maori            riu            'bilge, valley, basin'
 >
 
 
@@ -9189,31 +9187,31 @@ PPn *liu 'bilge, interior of hull'
 
 <
 POc *muri- 'rear, stern'
-     Adm:    Mussau           mun            'stern'
-     NNG:    Gedaged          muzi-n         'rear, stern'
-     MM:     Nakanai          mori           'stern'
-     MM:     Vitu             mun            'stern'
-     SES:    Ghari            muri-na        'stern of a boat, hindquarters'
-     SES:    Lau              buri           'stern, rear'
-     SES:    Sa'a             puri           'stern'
+     Adm: Mussau           mun            'stern'
+     NNG: Gedaged          muzi-n         'rear, stern'
+     MM:  Nakanai          mori           'stern'
+     MM:  Vitu             mun            'stern'
+     SES: Ghari            muri-na        'stern of a boat, hindquarters'
+     SES: Lau              buri           'stern, rear'
+     SES: Sa'a             puri           'stern'
 >
 
 See also PPn *tau-muri 'afterdeck' (§2. 10)
 
 <
 POc *muqa- 'front, bow of boat'
-     Adm:    Mussau           mua            'bow'
-     NNG:    Gedaged          muga(ŋ)       'front part, bow of boat' [12]
-     MM:     Roviana          (ke)mua        'bow'
-     Fij:   Bauan            mua            'tip, point, front'
-     Fij:   Bauan            |mua (e liu)|    'prow of boat'
-     Pn:     Tongan           (tau-)muʔa     (V) 'steer for s.t. ' ; (N) 'prow'; (N) 'aim, goal'
-     Pn:     Samoan           (tau-)mua      'bows of boats'
+  Adm: Mussau           mua            'bow'
+  NNG: Gedaged          muga(ŋ)        'front part, bow of boat' [12]
+  MM:  Roviana          (ke)mua        'bow'
+  Fij: Bauan            mua            'tip, point, front'
+  Fij: Bauan            |mua (e liu)|  'prow of boat'
+  Pn:  Tongan           (tau-)muʔa     (V) 'steer for s.t. ' ; (N) 'prow'; (N) 'aim, goal'
+  Pn:  Samoan           (tau-)mua      'bows of boats'
 >
 
-See also PPn *tau-mu ʔa 'foredeck ' (§2 . 10).
+See also PPn _*tau-mu ʔa_ 'foredeck ' (§2 . 10).
 
-[12] Gedaged g for expected zero.
+[12] Gedaged _g_ for expected zero.
 
 
                                                                        Canoes and seafaring   189
@@ -9221,8 +9219,7 @@ See also PPn *tau-mu ʔa 'foredeck ' (§2 . 10).
 7.2.9 Carved projecting end-pieces
 
 
-Figure 25: POc *ijUŋ 'projecting headboard of prow' (from Nevermann 1934:285)
-
+Figure 25: POc _*ijuŋ_ 'projecting headboard of prow' (from Nevermann 1934:285)
 
    In many regions of Oceania larger canoes are constructed with a projecting headboard,
 part of it resting on the underbody abutting the washstrake, the rest sometimes extending
@@ -9235,68 +9232,64 @@ the headboard:
 
 <
 POc *ijuŋ 'projecting headboard of prow, often with ornately carved figurehead'
-     Adm: Mussau      uru(gila)         'beak like projection on bow, in shape of bird'
-     MM: New Georgia language (unspecified) (Haddon 1937: 104, 106)      (toto)ishu        'figurehead on canoe prow'
-     SES: Sa'a        ʔisu             'pieces erected on bow and stern'
-     SES: Lau         isu              'prow'
-     Pn:  Tikopia     |isu (fana)|       'pointed end of canoe'
-     Pn:  Tongarevan isu               'projecting headboard'
-     Pn:  Manihiki    ihu              'projecting headboard'
-     Pn:  Maori       |ihu (waka)|       'carved figurehead on prow' [13]
-     Pn:  Tahitian    |ihu, ihu (vaʔa)| 'projecting headboard on prow'
-     Pn:  Hawaiian    ihu              'prow'
-     Pn:  Hawaiian    |(laʔau) ihu|      'end-piece at head' (vs Laʔau hope 'end-piece at stern')
-PWOc *ŋuju 'carved prow'
-     PT:      Iduna             mudu                 'carved prow'
-     MM:      Roviana           ŋuzu-ŋuzu          'figurehead of a tomoko war canoe'
+  Adm: Mussau      uru(gila)          'beak like projection on bow, in shape of bird'
+  MM: New Georgia language (unspecified) (Haddon 1937: 104, 106)      (toto)ishu        'figurehead on canoe prow'
+  SES: Sa'a        ʔisu               'pieces erected on bow and stern'
+  SES: Lau         isu                'prow'
+  Pn:  Tikopia     |isu (fana)|       'pointed end of canoe'
+  Pn:  Tongarevan  isu                'projecting headboard'
+  Pn:  Manihiki    ihu                'projecting headboard'
+  Pn:  Maori       |ihu (waka)|       'carved figurehead on prow' [13]
+  Pn:  Tahitian    |ihu, ihu (vaʔa)|  'projecting headboard on prow'
+  Pn:  Hawaiian    ihu                'prow'
+  Pn:  Hawaiian    |(laʔau) ihu|      'end-piece at head' (vs Laʔau hope 'end-piece at stern')
+c *ŋuju 'carved prow'
+  PT:  Iduna       mudu               'carved prow'
+  MM:  Roviana     ŋuzu-ŋuzu          'figurehead of a tomoko war canoe'
 >
 
 
-The central meaning of POc *ijuŋ was 'nose' and that of *ŋuju 'beak, snout, mouth'. Reflexes
-of both commonly have the extended sense 'projecting point '. The conjunction of Southeast
-Solomonic and Polynesian evidence suggests *ijuŋ as the more likely POc form carrying the
+The central meaning of POc _*ijuŋ_ was 'nose' and that of _*ŋuju_ 'beak, snout, mouth'. Reflexes
+of both commonly have the extended sense 'projecting point'. The conjunction of Southeast
+Solomonic and Polynesian evidence suggests _*ijuŋ_ as the more likely POc form carrying the
 sense 'projecting headboard'. No widespread cognate set for the stempiece has been noted.
 
-[13]   Also called tau ihu vs tau rapa 'carved ornament on stern'.
-
+[13]   Also called _tau ihu_ vs _tau rapa_ 'carved ornament on stern'.
 
 190     Andrew and Medina Pawley
 
 7.2.10 Bow and stern covers, end-decking
 
-
    While outrigger canoes with simple dugout hull are suitable for inshore sailing, seaworthy
-canoes require at least 'end-decking', minimally a V -shaped piece covering the bow and stern
-of the dugout hull. The next comparison points to a PCP term for this piece; PCP *tau may
-come from POc *taRu 'cover up':
+canoes require at least 'end-decking', minimally a V-shaped piece covering the bow and stern
+of the dugout hull. The next comparison points to a PCP term for this piece; PCP _*tau_ may
+come from POc _*taRu_ 'cover up':
 
 <
 PCP *tau 'end-decking, end-piece covering bow and stern of canoe hull'
-  Fij:    Rotuman       fau               (V) 'cover'; (N) 'cover'
-  Fij:    Bauan         tau               'triangular decking covering bow and stern'
-  Pn:     Tongan        tau(-muʔa)        'bow, foredeck'
-  Pn:     Samoan        tau               'deck'
-  Pn:     Samoan        tau(-mua)         'bow, foredeck'
-  Pn:     Samoan        tau(-muli)       'stern, afterdeck'
-  Pn:     Nukuria       tau               'bow-board, stern-board'
-  Pn:     Tikopia       tau(-muli)       'stern'
-  Pn:     Tokelauan     tau               'point at which the keel meets the curve of the bow or stern'
-  Pn:     Tokelauan     tau(-mua)         'bow, forepart of boat'
-  Pn:     Tokelauan     tau(-muli)        'stern'
-  Pn:     Maori         tau(-rapa)        'carved end-piece affixed to stern'
-  Pn:     Maori         tau(-ihu)         'carved figurehead affixed to prow'
+  Fij: Rotuman       fau              (V) 'cover'; (N) 'cover'
+  Fij: Bauan         tau              'triangular decking covering bow and stern'
+  Pn:  Tongan        tau(-muʔa)       'bow, foredeck'
+  Pn:  Samoan        tau              'deck'
+  Pn:  Samoan        tau(-mua)        'bow, foredeck'
+  Pn:  Samoan        tau(-muli)       'stern, afterdeck'
+  Pn:  Nukuria       tau              'bow-board, stern-board'
+  Pn:  Tikopia       tau(-muli)       'stern'
+  Pn:  Tokelauan     tau              'point at which the keel meets the curve of the bow or stern'
+  Pn:  Tokelauan     tau(-mua)        'bow, forepart of boat'
+  Pn:  Tokelauan     tau(-muli)       'stern'
+  Pn:  Maori         tau(-rapa)       'carved end-piece affixed to stern'
+  Pn:  Maori         tau(-ihu)        'carved figurehead affixed to prow'
 >
 
-Rick Jackson (pers.comm.) suggests Proto Trukic *tau (?) 'thwart, cross-seat in canoe' based
-on Carolinian, Trukese s8, Puluwat ko 'thwart' . The above Polynesian comparisons also
-indicate PPn *tau-muʔa 'foredeck' and *tau-muri 'afterdeck'.
-
+Rick Jackson (pers.comm.) suggests Proto Trukic _*tau_ (?) 'thwart, cross-seat in canoe' based
+on Carolinian, Trukese _sō_, Puluwat _ho_ 'thwart' . The above Polynesian comparisons also
+indicate PPn _*tau-muʔa_ 'foredeck' and _*tau-muri_ 'afterdeck'.
 
 
 7.3. Superstructure
 
 7.3.1 Platform
-
 
    On medium-sized and large canoes a platform is sometimes built over the hull and the
 outrigger (or between the two bulls on double canoes); or two platforms are built, one on the
@@ -9306,20 +9299,20 @@ on present evidence but there is a strong candidate for a POc term, namely:
 <
 PMP *pa(n)tar 'shelf; bed-frame of wooden or bamboo laths' (Blust 1980b: 123)
 POc *patar 'platform of any kind, including that erected over hull and outrigger framework' (cf Ch. 3, §3.5)
-  Adm: Seimat          paca              'canoe platform ' (Haddon)
-  PT:  Kilivila         pita-patile       'canoe platform'
-  PT:  Molima           vata-vata         'platform of any kind'
-  PT:  Molima           vata-vatala       'canoe platform'
-  PT:     Suau (Daui)   pata-patari       'canoe platform of poles stretching across all the booms' (Haddon)
-  PT:     Motu          pata              'shelf, table'
-  MM:     Tolai         vatar             'bamboo or board platform on canoe'
-  SES:    Arosi         hā                'platform'
-  SES:    'Are'are       hā               'generic name for stage, shelf, small platform above fireplace'
-  SES:    Tolo           pata               'raft'
-  NCV:   Raga           bata               'canoe platform' (Haddon)
-  Fij:    Bauan          vata               'platform, shelf'
-  Pn:     Rennellese     hata               'platform, canoe platform'
-  Pn:     Samoan         fata               'platform (over canoe +)'
+  Adm: Seimat        paca             'canoe platform ' (Haddon)
+  PT:  Kilivila      pita-patile      'canoe platform'
+  PT:  Molima        vata-vata        'platform of any kind'
+  PT:  Molima        vata-vatala      'canoe platform'
+  PT:  Suau (Daui)   pata-patari      'canoe platform of poles stretching across all the booms' (Haddon)
+  PT:  Motu          pata             'shelf, table'
+  MM:  Tolai         vatar            'bamboo or board platform on canoe'
+  SES: Arosi         hā               'platform'
+  SES: 'Are'are      hā               'generic name for stage, shelf, small platform above fireplace'
+  SES: Tolo          pata             'raft'
+  NCV: Raga          bata             'canoe platform' (Haddon)
+  Fij: Bauan         vata             'platform, shelf'
+  Pn:  Rennellese    hata             'platform, canoe platform'
+  Pn:  Samoan        fata             'platform (over canoe +)'
 >
 
                                                                  Canoes and seafaring         191
