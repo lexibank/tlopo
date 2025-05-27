@@ -2633,21 +2633,21 @@ and could be applied to any partitioned area, whether house or garden (see also 
 <
 PMP *pa(n)tar 'shelf; bed-frame of wooden or bamboo laths' (Blust 1980b: 123)
 POc *patar 'platform of any kind, including a bed frame of planks' (see also Ch. 7, §3.1)
- Adm: Seimat             paca               'canoe platform'
- Adm: Lou                 put-put            'upper shelf'
- PT:  Motu                pata               'shelf, table'
- PT:  Molima              vata-vata          'platform of any kind'
- PT:  Dobu                pata-patara        'platform'
- SES: Kwaio               fā(laŋi)          'raised plank floor or building with such a floor'
- SES: 'Are'are            hā                 'generic name for stage, shelf or small platform above the fireplace, used as a depository'
- SES:     Arosi           hā                 'platform, for fishing, for storing yams, for laying out a corpse'
- NCV: Fortsenal           vata               'shelf, platform, rack '
- Fij: Bauan               vata               'shelf, loft, platform; bed in a corner of a native house'
- Pn:      Tongan          fata               'loft or wide rack (for sleeping on, or for keeping food or other things on); stretcher, litter'
- Pn:      Samoan          fata               'shelf, trestle, stretcher or litter'
- Pn:      Tikopia         fata               'stage for storing food'
+ Adm: Seimat          paca              'canoe platform'
+ Adm: Lou             put-put           'upper shelf'
+ PT:  Motu            pata              'shelf, table'
+ PT:  Molima          vata-vata         'platform of any kind'
+ PT:  Dobu            pata-patara       'platform'
+ SES: Kwaio           fā(laŋi)          'raised plank floor or building with such a floor'
+ SES: 'Are'are        hā                'generic name for stage, shelf or small platform above the fireplace, used as a depository'
+ SES: Arosi           hā                'platform, for fishing, for storing yams, for laying out a corpse'
+ NCV: Fortsenal       vata              'shelf, platform, rack '
+ Fij: Bauan           vata              'shelf, loft, platform; bed in a corner of a native house'
+ Pn:  Tongan          fata              'loft or wide rack (for sleeping on, or for keeping food or other things on); stretcher, litter'
+ Pn:  Samoan          fata              'shelf, trestle, stretcher or litter'
+ Pn:  Tikopia         fata              'stage for storing food'
  cf. also:
- Mic:       Kiribati          pata               'small house, hut, cabin, hovel'
+ Mic: Kiribati        pata              'small house, hut, cabin, hovel'
 >
 
 58        Roger Green and Andrew Pawley
@@ -2655,18 +2655,18 @@ POc *patar 'platform of any kind, including a bed frame of planks' (see also Ch.
 <
 PMP *pa(l,R)a 'shelf, rack'
 POc *pa(r,R)a 'rack or shelf above hearth for storing or smoking food'
- Adm: Nauna                   pay                'shelf above the hearth (for storing food, betel +, but not firewood)'
-  Adm: Loniu                  pay                'smoking rack for fish and storage rack above the hearth'
- NNG: Takia                   pira-par           'storage platform above rafters'
- NNG: Gedaged                 fala               'ceiling, sometimes used for storage'
- PT:  Motu                    hara               'platform of sticks on which meat is grilled'
- MM: Maringe                  fara               'bamboo or wooden storage shelf, often located above a stone oven'
-  SES: Lau                    fala               'fishing stage, platform for drying nuts'
-  NCV: Nguna                  vāla               'bed, rack for storing yams or drying copra'
-  Fij: Bauan                  vara               'platform'
+ Adm: Nauna            pay                'shelf above the hearth (for storing food, betel +, but not firewood)'
+ Adm: Loniu            pay                'smoking rack for fish and storage rack above the hearth'
+ NNG: Takia            pira-par           'storage platform above rafters'
+ NNG: Gedaged          fala               'ceiling, sometimes used for storage'
+ PT:  Motu             hara               'platform of sticks on which meat is grilled'
+ MM:  Maringe          fara               'bamboo or wooden storage shelf, often located above a stone oven'
+ SES: Lau              fala               'fishing stage, platform for drying nuts'
+ NCV: Nguna            vāla               'bed, rack for storing yams or drying copra'
+ Fij: Bauan            vara               'platform'
 >
 
-The Nauna, Loniu and Lau forms point to POc *paRa, the Fijian reflex to _*para_, while other
+The Nauna, Loniu and Lau forms point to POc _*paRa_, the Fijian reflex to _*para_, while other
 Oceanic forms cited here are compatible with either reconstruction. [6]
 
 [6] Blust (ACD) has proposed POc _*pala_ or _*paRa_ 'platform, firewood shelf above the hearth' and, under
@@ -2676,15 +2676,15 @@ Oceanic forms cited here are compatible with either reconstruction. [6]
 <
 PMP *titey (also *teytey) 'foot-bridge' (after Blust 1989)
 POc *tete 'single log bridge or ladder'; 'climb a ladder, walk along a bridge or branch' (after Chowning 1991)
-  NNG: Kove                   tete                'ladder; log leading into house'
-  NNG: Manam                  tete                'stairs, ladder'
-  PT:  Molima                 tete                'walk along a ridge or branch of tree'
-  PT:  Molima                 (i)tete             'bridge' (i- < POc *i INS)
-  MM:       Mono-Alu          tete                'ladder'
-  SES:      Bugotu            tete                'climb up on a fishing tripod'
-  SES:      Gela              tete                'cross a stream on a log or bridge; descend a ladder, not using hands'
-  Mic:      Carolinian        (liga)tēte          'ladder' (liga- is prefix of uncertain origin)
-  Mic:      Carolinian        tēte                'climb'
+  NNG: Kove              tete                'ladder; log leading into house'
+  NNG: Manam             tete                'stairs, ladder'
+  PT:  Molima            tete                'walk along a ridge or branch of tree'
+  PT:  Molima            (i)tete             'bridge' (_i-_ < POc _*i_ INS)
+  MM:  Mono-Alu          tete                'ladder'
+  SES: Bugotu            tete                'climb up on a fishing tripod'
+  SES: Gela              tete                'cross a stream on a log or bridge; descend a ladder, not using hands'
+  Mic: Carolinian        (liga)tēte          'ladder' (_liga-_ is prefix of uncertain origin)
+  Mic: Carolinian        tēte                'climb'
 >
 
 <
@@ -2705,11 +2705,11 @@ POc *baban 'board, plank; canoe strake' (cf. Ch. 7, §2.4)
 PMP *pak(o,u) 'nail' (Blust 1972b)
 PMP *paqet 'chisel' (Dahl 1981)
 POc *pako 'wooden peg or pin'
-  NNG: Mapos Buang pko                      'stake, peg; vertical stakes driven in to keep a log + in place'
-  Fij :   Bauan           (i)vako           'nail' (i- < POc *i INS)
-  Pn:     Samoan          fao               'nail'
-  Pn:     Tongan          faʔo              'nail'
-  Pn:     Tahitian        fao               'nail, chisel'
+  NNG: Mapos Buang   pko          'stake, peg; vertical stakes driven in to keep a log + in place'
+  Fij: Bauan         (i)vako      'nail' (_i-_ < POc _*i_ INS)
+  Pn:  Samoan        fao          'nail'
+  Pn:  Tongan        faʔo         'nail'
+  Pn:  Tahitian      fao          'nail, chisel'
 >
 
 The Polynesian forms reflect PPn glottal stop rather than expected _*k_, a development found
@@ -2732,18 +2732,18 @@ inside main dwelling houses.
 <
 PMP *dapuR 'hearth, fireplace' (Dempwolff 1938)
 POc *rapu(R) 'hearth, fireplace; ashes'
-  Adm: Nyindrou           |drahu (jih)|        'fireplace' (_jih_ 'fire')
-  PT:  Motu               rahu-rahu         'fireplace, ashes'
-  MM: Maringe             (nak)rofu         'ashes'
-  SES: Gela               ravu              'ashes; side of a house where the fire is made (= _ravu ni mandiru_); site of a house (= _ravu ni vale_)'
-  SES: Arosi              rahu              'ashes'
-  NCV: Mota               (ta)rowo          'ashes; white ashes of burnt-out wood'
-  Fij: Wayan              ravu              'ashes'
-  Fij: Wayan              (tā)ravu         'fireplace'
-  Fij:    Bauan           dravu             'ashes'
-  Pn:     Samoan          (magā)lafu      'hearth'
-  Pn:     Tokelauan       (gā)lafu         'fireplace'
-  Pn:     Hawaiian        lehu              'ashes'
+  Adm: Nyindrou        |drahu (jih)|   'fireplace' (_jih_ 'fire')
+  PT:  Motu            rahu-rahu       'fireplace, ashes'
+  MM:  Maringe          (nak)rofu      'ashes'
+  SES: Gela            ravu            'ashes; side of a house where the fire is made (= _ravu ni mandiru_); site of a house (= _ravu ni vale_)'
+  SES: Arosi           rahu            'ashes'
+  NCV: Mota            (ta)rowo        'ashes; white ashes of burnt-out wood'
+  Fij: Wayan           ravu            'ashes'
+  Fij: Wayan           (tā)ravu        'fireplace'
+  Fij: Bauan           dravu           'ashes'
+  Pn:  Samoan          (magā)lafu      'hearth'
+  Pn:  Tokelauan       (gā)lafu        'fireplace'
+  Pn:  Hawaiian        lehu            'ashes'
 >
 
 
@@ -2752,21 +2752,21 @@ for further discussion).
 
 <
 POc *qumun 'oven made with hot stones; cook in a stone or earth oven' (Chowning 1991, Lichtenberk 1994)
-  Adm: Seimat             um               'earth oven'
-  NNG: Kairiru            umu-i, um       'cook in earth oven' (singular/plural object)
-  PT:  Molima            ʔumula           'stone oven'
- MM:       Nalik            umun               'earth oven'
- MM:       Nakanai          humu               'hearth; cook on the hearth by covering food with heated stones'
- SES:      Gela             umu                'circular fireplace of stones'
- SES:      'Are'are        ūmu                'stone oven'
- SES:      Arosi            umu                'round stone oven, with loose stones on top'
- NCV :     Mota             um                 'native oven'
- SV :      Kwamera          n-umun             'earth oven'
- Mic:      Kiribati         umun-              'put s.t. to cook on hot stones in earth oven'
- Pn:       Niuean           umu                'stone oven; food cooked in stone oven'
- Pn:       Samoan           umu                'stone oven, consisting of a shallow cavity lined with stones on which a fire is lit and cleared away before the food is laid on the hot stones'
-  Pn:      Emae             umu                'earth oven'
-  Pn:      Maori            umu                'earth oven'
+ Adm: Seimat       um              'earth oven'
+ NNG: Kairiru      umu-i, um       'cook in earth oven' (singular/plural object)
+ PT:  Molima       ʔumula          'stone oven'
+ MM:  Nalik        umun            'earth oven'
+ MM:  Nakanai      humu            'hearth; cook on the hearth by covering food with heated stones'
+ SES: Gela         umu             'circular fireplace of stones'
+ SES: 'Are'are     ūmu             'stone oven'
+ SES: Arosi        umu             'round stone oven, with loose stones on top'
+ NCV: Mota         um              'native oven'
+ SV:  Kwamera      n-umun          'earth oven'
+ Mic: Kiribati     umun-           'put s.t. to cook on hot stones in earth oven'
+ Pn:  Niuean       umu             'stone oven; food cooked in stone oven'
+ Pn:  Samoan       umu             'stone oven, consisting of a shallow cavity lined with stones on which a fire is lit and cleared away before the food is laid on the hot stones'
+ Pn:  Emae         umu             'earth oven'
+ Pn:  Maori        umu             'earth oven'
 >
 
 60       Roger Green and A ndrew Pawley
@@ -2804,17 +2804,17 @@ other crops. POc _*giRu_ or _*guRi_ may have referred to deep pits dug for grave
 <
 PMP *ba(l,r,R)a 'pen, enclosure for domestic animals' (ACD)
 POc *baRa 'fence' (ACD)
-  Adm:     Mussau           bala, bala-bala   'fence'
-  MM:      Ramoaaina        bala(da)           'fence round a house'
-  MM:      Roviana          bara               'fence, wall; a fenced pen'
-  SES:     Lau              bara               'fence, enclosure, hedge'
-  SES:     Sa'a             para               'fence, enclosure'
-  Fij:     Wayan            bā                'fence or wall enclosing an area '
-  Pn:      Tongan           pā                'fence; wall; enclosure, fish trap'
-    Pn:     Tokelauan        pā                  'fence, wall, seawall and reclaimed land behind it'
-    Pn:     Rarotongan       pā                  'fish weir with stone walls'
-    Pn:     Maori            pā                  'stockade, fortified place; fish weir'
-    Pn:     Maori            pā-ia               'block up, act as barrier'
+  Adm: Mussau           bala, bala-bala   'fence'
+  MM:  Ramoaaina        bala(da)          'fence round a house'
+  MM:  Roviana          bara              'fence, wall; a fenced pen'
+  SES: Lau              bara              'fence, enclosure, hedge'
+  SES: Sa'a             para              'fence, enclosure'
+  Fij: Wayan            bā                'fence or wall enclosing an area '
+  Pn:  Tongan           pā                'fence; wall; enclosure, fish trap'
+  Pn:  Tokelauan        pā                'fence, wall, seawall and reclaimed land behind it'
+  Pn:  Rarotongan       pā                'fish weir with stone walls'
+  Pn:  Maori            pā                'stockade, fortified place; fish weir'
+  Pn:  Maori            pā-ia             'block up, act as barrier'
 >
 
                                              Architecturalforms and settlement patterns                61
@@ -2822,7 +2822,7 @@ POc *baRa 'fence' (ACD)
 <
 POc *bayat 'fence, boundary marker'
 POc *bayat-i 'make a garden boundary'
-    PT:     Gumawana         bayata               'garden boundary made by terracing rocks '
+    PT:     Gumawana         bayata              'garden boundary made by terracing rocks '
     PT:     Gumawana         bayasi              'make a garden boundary'
     PT:     Iduna            bai                 'stick used as garden boundary; roof baton'
     MM:     Tolai            bait                'enclose with a fence'
@@ -2838,46 +2838,46 @@ POc *bayat-i 'make a garden boundary'
 <
 PAn *qa(l,R)ad 'fence, palisade' (Ross 1994a:459)[7]
 POc *qaRa(r) 'fence'
-    NNG: Numbami             ala                 'fence (e.g. garden fence)'
-    NNG: Kove                ala
-    PT:   Bwaidoga           ala
-    PT:   Motu               ara                 'fence of upright stakes'
-    NCV : Raga               ara
-    NCV : Nguna              na-ara              'wall of bamboo or cane'
-    Pn:   Tongan             ʔā                  'fence, wall, enclosure'
-    Pn:   E. Uvean           ʔā                  'palisade'
+    NNG: Numbami            ala                 'fence (e.g. garden fence)'
+    NNG: Kove               ala
+    PT:  Bwaidoga           ala
+    PT:  Motu               ara                 'fence of upright stakes'
+    NCV: Raga               ara
+    NCV: Nguna              na-ara              'wall of bamboo or cane'
+    Pn:  Tongan             ʔā                  'fence, wall, enclosure'
+    Pn:  E. Uvean           ʔā                  'palisade'
 >
 
 One further reconstruction, POc _*kaRi_ 'garden fence or partition', is given with supporting
 evidence in Chapter 5, § 6 .
-   Also included here i s a reconstruction for a path.
+   Also included here is a reconstruction for a path.
 
-[7]   Reconstruction of PMP _*-R-_ is based on Manobo (S. Philippines) data: Tigwa Manobo, Binukid, Kinamigin,
+[7] Reconstruction of PMP _*-R-_ is based on Manobo (S. Philippines) data: Tigwa Manobo, Binukid, Kinamigin,
     Sarangani Manobo, Western Bukidnon Manobo, Ilianen Manobo _ʔalad_; Obo, Dibabawon _ʔaad_; Tagabawa
     _alad_ (Elkins 1974:607).
 
 <
 PMP *zalan 'path, road' (Dahl 1976)
 POc *jalan 'path'
-    Adm: Nauna               cal
-    Adm: Drehet              saŋ                'trail, path, road'
-    NNG: Mangap              zala
-    NNG: Manam               zala                'path, road, door'
-    PT:  Motu                dala
-    MM: Bali                 dalaŋa
-    MM: Tigak                salan
-    MM: Tinputz              hanan
-    MM: Banoni               sanana
- SES:     Tolo           salana            'road, path, way'
- SES:     Sa'a           tala              'path, road, way'
- NCV:     Mota           sala
- Mic:     Mokilese       al
- Mic :    Woleaian       yala              'road, way, path'
- Fij :    Rotuman        sala
- Fij:     Wayan          ðala              'animal track ' (_ðaa-levu_ 'path')
- Fij:     Bauan          sala              'path, road, track '
- Pn:      Tongan         hala
- Pn:      Maori          ara
+ Adm: Nauna          cal
+ Adm: Drehet         saŋ               'trail, path, road'
+ NNG: Mangap         zala
+ NNG: Manam          zala              'path, road, door'
+ PT:  Motu           dala
+ MM:  Bali           dalaŋa
+ MM:  Tigak          salan
+ MM:  Tinputz        hanan
+ MM:  Banoni         sanana
+ SES: Tolo           salana            'road, path, way'
+ SES: Sa'a           tala              'path, road, way'
+ NCV: Mota           sala
+ Mic: Mokilese       al
+ Mic: Woleaian       yala              'road, way, path'
+ Fij: Rotuman        sala
+ Fij: Wayan          ðala              'animal track ' (_ðaa-levu_ 'path')
+ Fij: Bauan          sala              'path, road, track '
+ Pn:  Tongan         hala
+ Pn:  Maori          ara
 >
 
 62       Roger Green and A ndrew Pawley
@@ -2895,32 +2895,32 @@ four cognate sets.
 <
 PMP *banua 'inhabited territory, where a community’s gardens, houses and other possessions are' (Blust 1987)
 POc *panua (1) 'inhabited area or territory'; (2) 'community together with its land and things on it'; (3) 'land, not sea'; (4) '(with reference to weather) the visible world, land and sky'
-  Adm: Mussau            anua              'land'
-  Adm: Penchal           panu              'village'
-  NNG: Gedaged           panu              'village, settlement, hamlet'
-  NNG: Manam             anua              'village'
-  NNG: Manam             |anua izara|        'dawn' (_anua idaradara_ 'evening glow')
-  NNG: Tami              panu              'house'
-  PT:  Motu              hanua             'village, town'
-  PT:  Motu              hanua(boi)        'night' (boi < POc _*boŋi_ 'night')
-  PT:     Molima         vanua             'house'
-  MM:     Vitu           vanua             'garden'
-  MM:     Tabar          vanua             'house'
-  MM:     Taiof          fan               'village'
-  SES:    Bugotu         vanua             'land, island'
-  SES:    Lau            fanua             'land, the earth, world; weather'
-  SES:    Ulawa          hanua             'land, country, village place, country; the area where a person lives, where his possessions are'
-  NCV :   Mota           vanua             'land, island, village, place'
-  Mic:    Woleaian       faliu             'land, island'
-  Fij:    Rotuman        hanua             'land, country, place; native land or place, home'
-  Fij:    Bauan          vanua             'land (not sea), territory, region, place, community, country; (in expressions for weather) the visible world, land, sea and sky'
-  Pn:     Tongan          fonua             'land, country, territory, place; people (of the land)'
-  Pn:     Hawaiian        honua             'land, earth'
+  Adm: Mussau         anua              'land'
+  Adm: Penchal        panu              'village'
+  NNG: Gedaged        panu              'village, settlement, hamlet'
+  NNG: Manam          anua              'village'
+  NNG: Manam          |anua izara|      'dawn' (_anua idaradara_ 'evening glow')
+  NNG: Tami           panu              'house'
+  PT:  Motu           hanua             'village, town'
+  PT:  Motu           hanua(boi)        'night' (boi < POc _*boŋi_ 'night')
+  PT:  Molima         vanua             'house'
+  MM:  Vitu           vanua             'garden'
+  MM:  Tabar          vanua             'house'
+  MM:  Taiof          fan               'village'
+  SES: Bugotu         vanua             'land, island'
+  SES: Lau            fanua             'land, the earth, world; weather'
+  SES: Ulawa          hanua             'land, country, village place, country; the area where a person lives, where his possessions are'
+  NCV :Mota           vanua             'land, island, village, place'
+  Mic: Woleaian       faliu             'land, island'
+  Fij: Rotuman        hanua             'land, country, place; native land or place, home'
+  Fij: Bauan          vanua             'land (not sea), territory, region, place, community, country; (in expressions for weather) the visible world, land, sea and sky'
+  Pn:  Tongan         fonua             'land, country, territory, place; people (of the land)'
+  Pn:  Hawaiian       honua             'land, earth'
 >
 
    Although reflexes of PMP _*banua_ carry the meaning 'village' in a number of languages
 belonging to different high-order subgroups (or at least are given this gloss in the dictionaries)
-a host of other evidence, summarised in Blust (1987 :94-95, 99- 100) suggests that PMP
+a host of other evidence, summarised in Blust (1987: 94-95, 99-100) suggests that PMP
 _*banua_ and its reflex in POc referred primarily to an inhabited territory; not only to the land
 but to the human population and dwellings and all plant and animal life and other elements
 that contribute to the maintenance of the human community-a complex concept with no
@@ -2933,21 +2933,21 @@ but as shorthand translations designed to fit the categories of the target langu
 
 <
 POc *pera '(?) settlement, open space associated with a house or settlement'
- NNG: Manam               pera              'house'
- SES: Bugotu              vera              'courtyard, open space in a village'
- SES: Tolo                vera(na)          'village, home, country, place where one lives'
- SES: Lau                 fera              'land; village; habitation, home, artificial island (built for habitation)'
- SES: Lau                 (ma)fera          'hamlet, of two or more houses'
-  SES:    Baegu           fera              'hamlet, a named locality'
-  SES:    Kwaio           fela              'skull house'
-  SES:    'Are'are        herā             'an agglomeration of houses, a village'
-  SES:    'Are'are        he-hera           'an open place in front of the houses for people to walk'
- SES:     Sa'a            hera              'courtyard'
- SES:     Arosi           hera              'open space for dancing, usually to the east of chief's burial ground; burial space, usually enclosed by stone'
+ NNG: Manam           pera             'house'
+ SES: Bugotu          vera             'courtyard, open space in a village'
+ SES: Tolo            vera(na)         'village, home, country, place where one lives'
+ SES: Lau             fera             'land; village; habitation, home, artificial island (built for habitation)'
+ SES: Lau             (ma)fera         'hamlet, of two or more houses'
+ SES: Baegu           fera             'hamlet, a named locality'
+ SES: Kwaio           fela             'skull house'
+ SES: 'Are'are        herā             'an agglomeration of houses, a village'
+ SES: 'Are'are        he-hera          'an open place in front of the houses for people to walk'
+ SES: Sa'a            hera             'courtyard'
+ SES: Arosi           hera             'open space for dancing, usually to the east of chief's burial ground; burial space, usually enclosed by stone'
   cf. also:
- NCV : Mota               varea             'village, place of a village settlement'
- NCV: Raga                a-vare            'outside the house'
- NCV: Nguna               varea            'men's house'
+ NCV: Mota            varea            'village, place of a village settlement'
+ NCV: Raga            a-vare           'outside the house'
+ NCV: Nguna           varea            'men's house'
 >
 
    The term _*pera_ is well-attested in both major subgroups of Southeast Solomonic (i.e.
@@ -2962,12 +2962,12 @@ centre of a settlement, used for communal activities.
 
 <
 POc *m(a,e)laqai '(?) open space in a settlement'
- NNG: Yabem               melaʔ             'village'
- PT:  Wedau               melagai           'village'
+ NNG: Yabem           melaʔ           'village'
+ PT:  Wedau           melagai         'village'
 PPn *malaqe 'open, cleared space used as meeting place or ceremonial place' (Biggs 1993)
- Pn:   Tongan           malaʔe          'village green, park, playground, open market place'
- Pn:    Samoan          malae            'open space in the middle of a village, meeting-ground'
- Pn:   Maori            marae            'enclosed space before house, courtyard'
+ Pn:  Tongan          malaʔe          'village green, park, playground, open market place'
+ Pn:  Samoan          malae           'open space in the middle of a village, meeting-ground'
+ Pn:  Maori           marae           'enclosed space before house, courtyard'
 >
 
    Rotuman _maraʔe_ 'open space in centre of village' is indicated to be a loan from Polynesian
@@ -2984,25 +2984,25 @@ meaning in POco
 
 <
 POc *mwalala 'cleared land, land free of encumbrances, i.e. cleared of vegetation but not built on or planted'
-  Adm: Drehet            mʷalaŋ            'open area/clearing'
-  NNG: Manam             malala            'market place, assembly place'
-  PT:   Bwaidoga         melala            'village'
-  MM: Vitu               malala            'village'
-  MM: Nakanai            malala            'a garden, cleared but not planted; village plaza'
-  MM: Tabar              marar             'cleared ground'
-  NCV: Nguna             mʷalala           'dancing place'
-  NCal: Nengone          (gu)marara        'cleared ground' (gu- 'piece')
-  Fij : Wayan            ŋʷalala          '(esp. land) unoccupied, vacant, not in use; (trees, buildings) widely spaced; (person) free, at liberty'
-  Fij:    Bauan          ŋalala           'free from encumbrances, at liberty'
+  Adm:  Drehet         mʷalaŋ           'open area/clearing'
+  NNG:  Manam          malala           'market place, assembly place'
+  PT:   Bwaidoga       melala           'village'
+  MM:   Vitu           malala           'village'
+  MM:   Nakanai        malala           'a garden, cleared but not planted; village plaza'
+  MM:   Tabar          marar            'cleared ground'
+  NCV:  Nguna          mʷalala          'dancing place'
+  NCal: Nengone        (gu)marara       'cleared ground' (gu- 'piece')
+  Fij : Wayan          ŋʷalala          '(esp. land) unoccupied, vacant, not in use; (trees, buildings) widely spaced; (person) free, at liberty'
+  Fij:  Bauan          ŋalala           'free from encumbrances, at liberty'
   cf. also:
-  NCV : Lonwolwol        har               'dancing place, ceremonial clearing in village'
-  Fij:  Bauan            lala              '(esp. land) empty, unoccupied, uninhabited'
-  Pn:   Tongan           lala              '(place) uninhabited, empty or almost so'
+  NCV:  Lonwolwol      har              'dancing place, ceremonial clearing in village'
+  Fij:  Bauan          lala             '(esp. land) empty, unoccupied, uninhabited'
+  Pn:   Tongan         lala             '(place) uninhabited, empty or almost so'
 >
 
    Various POc terms for garden land and for land not under cultivation can be reconstructed
-(see Ch. 5, §3). Here we cite only one, POc *qutan 'bushland, hinterland, away from village
-and gardens close to village' which goes back to PAn *quCan 'fallow land' (Blust 1989);
+(see Ch. 5, §3). Here we cite only one, POc _*qutan_ 'bushland, hinterland, away from village
+and gardens close to village' which goes back to PAn _*quCan_ 'fallow land' (Blust 1989);
 'scrubland, bush' (ACD).
 
 
@@ -3012,31 +3012,31 @@ and gardens close to village' which goes back to PAn *quCan 'fallow land' (Blust
    Contact with Papuan (non-Austronesian) speaking communities may have led to local
 variation and change in the architectural forms and settlement patterns of Proto Oceanic
 speakers or their immediate descendants. Earlier we touched on the possibility that the concept
-of a 'men's clubhouse', associated with POc *kamali(R), was borrowed from Papuan speakers.
-The same applies to the concept of an oven made with heated stones, POc *qumun (Chowning
-1991, Lichtenberk 1994). Such ovens appear to have a much greater antiquity in Near
-Oceania and Australia than in Southeast Asia (Allen, Gosden & White 1989 : 550-551 ;
+of a 'men's clubhouse', associated with POc _*kamali(R)_, was borrowed from Papuan speakers.
+The same applies to the concept of an oven made with heated stones, POc _*qumun_ 
+(Chowning 1991, Lichtenberk 1994). Such ovens appear to have a much greater antiquity in Near
+Oceania and Australia than in Southeast Asia (Allen, Gosden & White 1989 : 550-551;
 Berbetti & Allen 1972, Horton 1994).[8]
 
-[8]   Note that although ovens are very ancient in Australia, stones do not appear to have been used in them.
+[8] Note that although ovens are very ancient in Australia, stones do not appear to have been used in them.
 
                                                  Architecturalforms and settlement patterns                   65
 
 
    The ethnographic and linguistic evidence point to a shift from dwelling houses built on
 piles in the Bismarck Archipelago and New Guinea area to houses built on the ground in the
-Solomons and Remote Oceania. It is significant that the term *apu 'mound, mound made for
+Solomons and Remote Oceania. It is significant that the term _*apu_ 'mound, mound made for
 a house site' appears to be confined to languages of the Southeast Solomons and Remote
-Oceania. Conversely, it is not surprising that reflexes of POc *gabʷari- 'area underneath a
+Oceania. Conversely, it is not surprising that reflexes of POc _*gabʷari-_ 'area underneath a
 house' are confined to Western Oceanic.
 
    In interstages postdating the break-up of POc a number of changes can be discerned in
-terms for houses and their parts. For example, POc *bou probably meant 'main bearer or
+terms for houses and their parts. For example, POc _*bou_ probably meant 'main bearer or
 cross beam', but its Fijian reflexes now mean 'the tall or centre posts of a house' while in PPn
-this term became the generic name for 'post', while POc *turu(s) '(main) post' was lost. The
-POc word for 'entrance, doorway', *katama, is replaced in PPn by *faʔitoka. In Central
+this term became the generic name for 'post', while POc _*turu(s)_ '(main) post' was lost. The
+POc word for 'entrance, doorway', _*katama_, is replaced in PPn by _*faʔitoka_. In Central
 Pacific, or at least in the eastern region of the Central Pacific dialect chain (ancestral to
-Polynesian and some Eastern Fijian dialects), *pale replaced *Rumaq as the ordinary term
+Polynesian and some Eastern Fijian dialects), _*pale_ replaced _*Rumaq_ as the ordinary term
 for a dwelling house. Further study is needed to see whether any of these linguistic changes
 can be correlated with transformations in house forms in the eastern Fiji-Polynesian area.
 
@@ -3068,35 +3068,35 @@ in Pacific colonisation than either does alone.
 
 4.1 Introduction
 
-                        The artefacts considered here are mainly household items, used in the gathering and
-                     storage of food, in the construction and maintenance of dwellings and gardens, and those
-                     used for personal adornment. Some of the items--earthenware pots, stone adzes and axes,
-                     bone needles, bone and shell ornaments, and stone bark-cloth beaters -have provided
-                     archaeologists with data that permit dating. Those made of perishable materials-such as leaf
-                     baskets, string bags, mats and bamboo knives -seldom leave any trace in the archaeological
-                     record. For these we are dependent on linguistic reconstruction interpreted in the light of
-                     current ethnographic practice. [1]
+   The artefacts considered here are mainly household items, used in the gathering and
+storage of food, in the construction and maintenance of dwellings and gardens, and those
+used for personal adornment. Some of the items--earthenware pots, stone adzes and axes,
+bone needles, bone and shell ornaments, and stone bark-cloth beaters -have provided
+archaeologists with data that permit dating. Those made of perishable materials-such as leaf
+baskets, string bags, mats and bamboo knives -seldom leave any trace in the archaeological
+record. For these we are dependent on linguistic reconstruction interpreted in the light of
+current ethnographic practice. [1]
 
-                        Artefacts are organised under the following headings: (1) containers; (2) mats and cordage;
-                     (3) tools; (4) items of body decoration and clothing, and (5) instruments of communication
-                     and music. Terms for relevant processes are included. Thus, within the section on mats and
-                     cordage we have included terms for weaving, making thread, sewing, and for needle and
-                     twine. Often the term for a tool is derived from the verb denoting the activity of using it.
+   Artefacts are organised under the following headings: (1) containers; (2) mats and cordage;
+(3) tools; (4) items of body decoration and clothing, and (5) instruments of communication
+and music. Terms for relevant processes are included. Thus, within the section on mats and
+cordage we have included terms for weaving, making thread, sewing, and for needle and
+twine. Often the term for a tool is derived from the verb denoting the activity of using it.
 
 
-[1]     We are indebted to Ann Chowning both for the many references taken from her 1991 paper 'Proto Oceanic
-                            culture: the evidence from Melanesia', and for her more recent comments and additions to the data offered
-                            during the preparation of trus chapter.
+[1] We are indebted to Ann Chowning both for the many references taken from her 1991 paper 'Proto Oceanic
+    culture: the evidence from Melanesia', and for her more recent comments and additions to the data offered
+    during the preparation of this chapter.
 
 
 4.2 Containers
 
 4.2.1 Pottery containers
 
-                         Pottery is one of the more distinctive features of the Lapita culture, here held to coincide
-                      with and thus be an integral marker of the early dispersal of Proto Oceanic.[2] Pottery manufacture
-                      in Oceania is geographically discontinuous. By no means all Oceanic speakers make pottery.
-                      Obviously, pottery can only be made where suitable clay is available, but its availability is no
+   Pottery is one of the more distinctive features of the Lapita culture, here held to coincide
+with and thus be an integral marker of the early dispersal of Proto Oceanic.[2] Pottery manufacture
+in Oceania is geographically discontinuous. By no means all Oceanic speakers make pottery.
+Obviously, pottery can only be made where suitable clay is available, but its availability is no
 guarantee that pottery will be manufactured. Nor is its absence from the immediate locality a
 guarantee that pottery will not be made: the Gumawana speakers of the Amphlett group
 transport their clay some distance by sea from Fergusson Island. As a result of this discontinuity,
@@ -3104,7 +3104,7 @@ pots were traditionally important trade items. A linguistic spin-off of this tra
 for pots are not infrequently loan words, especially in the languages of the people who are not
 potters.
 
-[2]     For a fuller account of POc pottery manufacture, see Ross (1996c).
+[2] For a fuller account of POc pottery manufacture, see Ross (1996c).
 
 68 Meredith Osmond and Malcolm Ross
 
@@ -3119,11 +3119,10 @@ with three or four main terms.
 
     There is fair agreement across Oceanic languages about the structure of the
 terminology -Ross provides evidence from NNG, PT, Admiralties and Fijian languages which
-all have terms (not necessarily cognate) for pot (generic), cooking pot, water jar, bowVdish
-and frying pan (see Figure 4)-and we have PMP reconstructions in support of corresponding
+all have terms (not necessarily cognate) for pot (generic), cooking pot, water jar, bowl/dish
+and frying pan (see Figure 4) - and we have PMP reconstructions in support of corresponding
 POc terms. However, our cognate sets are disappointingly small. Of our reconstructions, the
 cooking pot/generic term is the most soundly based.
-
 
 
 Figure 4: Typical pot shapes (from Ross 1996c)
@@ -3139,19 +3138,19 @@ Figure 4: Typical pot shapes (from Ross 1996c)
 <
 PMP *kuDen 'clay cooking pot' (Blust 1982)
 POc *kuron 'earthernware pot'
- Adm: Drehet              kuŋ
- Adm: Nyindrou            kun
- NNG: Kove                ulo                    'cooking pot, boil (in water)'
- NNG: Numbami             ulaŋa
- NNG: Adzera              gur
- PT:  Molima              ʔulena
-  PT:     Misima        ulun
-  PT:     Motu           uro
-  MM:     Bali           ɣulon(i)          'boil (in water)'
-  MM:     Ramoaaina      kuro
-  NCV :   Wusi           uro
-  Fij:    Bauan          kuro
-  Pn:     Samoan         ʔulo              'pot, cauldron'
+ Adm: Drehet        kuŋ
+ Adm: Nyindrou      kun
+ NNG: Kove          ulo               'cooking pot, boil (in water)'
+ NNG: Numbami       ulaŋa
+ NNG: Adzera        gur
+ PT:  Molima        ʔulena
+ PT:  Misima        ulun
+ PT:  Motu          uro
+ MM:  Bali          ɣulon(i)          'boil (in water)'
+ MM:  Ramoaaina     kuro
+ NCV: Wusi          uro
+ Fij: Bauan         kuro
+ Pn:  Samoan        ʔulo              'pot, cauldron'
 >
 
                                                                    Household artefacts         69
@@ -3159,13 +3158,12 @@ POc *kuron 'earthernware pot'
 
 4.2.1.2 Waterjar
 
-    The best candidate for 'water jar' is POc *kalala(ŋ), reconstructed on the basis of Proto
-WMP *kalalaŋ 'narrow-necked water jar' (Tagalog kalalaŋ 'narrow-necked water jug'; Blust
- 1980b). However, only one Oceanic reflex, in the PT language Iduna, has been found: kalala
-'cooking pot made in Wedau'. Even this reflex is problematic, since POc *l is reflected as
-Iduna n in directly inherited items, and we must therefore assume that the item has been
+    The best candidate for 'water jar' is POc _*kalala(ŋ)_, reconstructed on the basis of Proto
+WMP _*kalalaŋ_ 'narrow-necked water jar' (Tagalog _kalalaŋ_ 'narrow-necked water jug'; Blust
+ 1980b). However, only one Oceanic reflex, in the PT language Iduna, has been found: _kalala_
+'cooking pot made in Wedau'. Even this reflex is problematic, since POc _*l_ is reflected as
+Iduna _n_ in directly inherited items, and we must therefore assume that the item has been
 borrowed, as its gloss would imply.
-
 
     Another possible, PNGOc, term for water jar is _*bʷad(r)i_, for which the evidence is given
 below. All reflexes except one are from the north coast of New Guinea, and mean 'pot
@@ -3179,21 +3177,21 @@ that this was its original meaning.
 
 <
 PNGOc *bʷad(r)i 'k.o. large pot, possibly for water storage'
-  NNG: Lukep             bor               'pot'
-  NNG: Roinji            buari             'cooking pot'
-  NNG: Mindiri          badi(n)           'water pot'
-  NNG: Bilibil           bodi              'cooking pot'
-  NNG: Bilibil           (yu)bodi          'pot for water storage and carrying' (_yu_ 'water')
-  NNG: Takia             bod               'clay, clay pot'
-  NNG: Manam             boadi             'pot, cooking vessel'
-  NNG: Kaiep             biar              'generic name for pots'
-  NNG: Kairiru           buar̃              'cooking pot'
-  NNG: Ulau-Suain        buad              'cooking pot'
-  NNG: Tumleo           pier              'cooking pot, pot (generic)'
-  PT:  Misima            (ulun)bʷal        'water pot about 30 cm high' (_ulun_ 'clay pot')
+  NNG: Lukep          bor               'pot'
+  NNG: Roinji         buari             'cooking pot'
+  NNG: Mindiri        badi(n)           'water pot'
+  NNG: Bilibil        bodi              'cooking pot'
+  NNG: Bilibil        (yu)bodi          'pot for water storage and carrying' (_yu_ 'water')
+  NNG: Takia          bod               'clay, clay pot'
+  NNG: Manam          boadi             'pot, cooking vessel'
+  NNG: Kaiep          biar              'generic name for pots'
+  NNG: Kairiru        buar̃              'cooking pot'
+  NNG: Ulau-Suain     buad              'cooking pot'
+  NNG: Tumleo         pier              'cooking pot, pot (generic)'
+  PT:  Misima         (ulun)bʷal        'water pot about 30 cm high' (_ulun_ 'clay pot')
   cf. also:
-  PT:     Motu           hodu              'narrow-necked water pot'
-  PT:     Lala           vodu              'narrow-necked water pot'
+  PT:  Motu           hodu              'narrow-necked water pot'
+  PT:  Lala           vodu              'narrow-necked water pot'
 >
 
 The Motu and Lala items are either borrowed or simply bear a chance resemblance to this set.
@@ -3204,7 +3202,7 @@ The Motu and Lala items are either borrowed or simply bear a chance resemblance 
 4.2. 1.3 Frying pan
 
 
-  The best candidate for 'frying pan', POc *palaŋa, has been noted by Blust (ACD). Again,
+  The best candidate for 'frying pan', POc _*palaŋa_, has been noted by Blust (ACD). Again,
 Oceanic reflexes are not plentiful, but here there can hardly be any doubt that they reflect the
 PMP term.
 
@@ -3225,9 +3223,9 @@ seems to have referred to a large pot, perhaps a communal cooking pot:
 <
 PMP *báŋaq 'pot, cooking vessel'
 POc *bʷaŋa 'k.o. large pot '
-PNGOc *|(kuron) bʷaŋa| 'communal cooking pot'
-  NNG: Adzera             |(gur) baŋa|       'common cooking pot for meat' (_gur_ 'clay pot')
-  PT:  Misima             |(ulun) bʷana|      'cooking pot about 60 cm high, used as a community cooking pot' (_ulun_ 'clay pot')
+PNGOc  *|(kuron) bʷaŋa| 'communal cooking pot'
+  NNG: Adzera      |(gur) baŋa|     'common cooking pot for meat' (_gur_ 'clay pot')
+  PT:  Misima      |(ulun) bʷana|   'cooking pot about 60 cm high, used as a community cooking pot' (_ulun_ 'clay pot')
 >
 
 
@@ -3235,41 +3233,41 @@ PNGOc *|(kuron) bʷaŋa| 'communal cooking pot'
 
 
    We have been unable to reconstruct a POc term for a bowl or dish. Indeed, the only term
-we have found reflected over quite a large area is PPT *na(q)u(q). The meanings of its
+we have found reflected over quite a large area is PPT _*na(q)u(q)_. The meanings of its
 reflexes indicate that it meant 'dish'. In a number of PT languages it has come to mean
 'cooking pot', but this is not surprising if it is recognised that in south-east (but not central)
 Papua, the typical Oceanic cooking pot with its restricted spherical form has been frequently
 replaced by pots with an unrestricted, dish-like form. In Gumawana, an important pot-making
-centre in the Amphletts, no, reflecting *na(q)u(q), has been genericised to mean 'pot' and is
-the first element in a number of pot types listed in Olsen's dictionary: nobadala, nogaiga,
-nokaokao, nokunu, nopaeva, nosipoma. All of these are apparently dish-like in form. Some
-reflexes of *naquq are listed below. The crucial reflexes for determining the meaning of
-*na(q)u(q) are those from central Papua-Hula, Motu and Kuni -where Oceanic restricted
-pot forms remain the norm, and nayulnau clearly refers only to dishes.
+centre in the Amphletts, no, reflecting _*na(q)u(q)_, has been genericised to mean 'pot' and is
+the first element in a number of pot types listed in Olsen's dictionary: _nobadala_, _nogaiga_,
+_nokaokao_, _nokunu_, _nopaeva_, _nosipoma_. All of these are apparently dish-like in form. Some
+reflexes of _*naquq_ are listed below. The crucial reflexes for determining the meaning of
+_*na(q)u(q)_ are those from central Papua-Hula, Motu and Kuni - where Oceanic restricted
+pot forms remain the norm, and _naɣu_/_nau_ clearly refers only to dishes.
 
 <
 PPT *na(q)u(q) 'clay dish'
-  PT:     Gumawana        no                'clay pot'
-  PT:     Molima          nau(kai)          'wooden dish' (_kai_ 'wood')
-  PT:     Iduna           nauʔa            'dish, bowl, plate'
-  PT:     Are             nau               'cooking pot'
-  PT:     Muyuw          no(kay)           'large wooden dish' (_kay_ 'wood')
-  PT:     Sudest          noɣa              '(wooden) dish'
-  PT:     Hula            naɣu                'clay plate used by Motu and Mailu people'
-  PT:     Motu            nau                 'shallow open dish for serving'
-  PT:     Kuni            nau
+  PT:  Gumawana       no               'clay pot'
+  PT:  Molima         nau(kai)         'wooden dish' (_kai_ 'wood')
+  PT:  Iduna          nauʔa            'dish, bowl, plate'
+  PT:  Are            nau              'cooking pot'
+  PT:  Muyuw          no(kay)          'large wooden dish' (_kay_ 'wood')
+  PT:  Sudest         noɣa             '(wooden) dish'
+  PT:  Hula           naɣu             'clay plate used by Motu and Mailu people'
+  PT:  Motu           nau              'shallow open dish for serving'
+  PT:  Kuni           nau
 >
 
-Only the Hula form reflects a possible medial *-q- . Since Hula sometimes adds a non-
-etymological -y- between vowels, *-q- cannot be reconstructed with certainty. Final *-q is
+Only the Hula form reflects a possible medial _*-q-_. Since Hula sometimes adds a nonetymological 
+_-y-_ between vowels, _*-q-_ cannot be reconstructed with certainty. Final _*-q_ is
 reflected in Iduna and Sudest, but not in Gumawana, Molima or Are, where a reflex would
 also be expected. These uncertainties raise the possibility that this term is cognate with the
-forms attributed to POc *napu 'steam (?), boil (7)' (Ch. 6, §3 .4).
+forms attributed to POc _*napu_ 'steam (?), boil (7)' (Ch. 6, §3 .4).
 
                                                                         Household artefacts   71
 
 
-4.2. 1. 6 Lid
+4.2.1.6 Lid
 
    Both cooking pots and narrow-necked water jars may have utilised lids. In addition to
 those terms glossed 'plug, stopper', which are included with coconut or bamboo water carriers,
@@ -3287,97 +3285,97 @@ POc *tutup 'cover' (Lichtenberk 1994)
 <
 PMP *tub-an 'lid, cover' (Mills 1981, glossed as a verb)
 POc *tup-a((n,ŋ)) 'lid, cover'
-  Adm: Loniu              tu-tuha             'cover, lid, leaf used as lid'
+  Adm: Loniu             tu-tuha             'cover, lid, leaf used as lid'
   NNG: Tumleo            cup                 'lid'
 >
 
-Note that *tup-a((n,ŋ)) is a nominalised form derived from *[tu]tup, *tupi (see discussion of
+Note that _*tup-a(n,ŋ)_ is a nominalised form derived from _*[tu]tup_, _*tupi_ (see discussion of
 nominalisations in Chapter 2, §3 .2. 1).
 
 
-4.2. 1. 7 Tools in pot manufacture
+4.2.1.7 Tools in pot manufacture
 
    Oceanic pots were typically made using the paddle-and-anvil technique, whereby a smooth
 stone (the 'anvil') is held against the inside of the pot while the outside is beaten with a flat
 piece of wood (the 'paddle'). Almost every Oceanic pot-making group for which we have
-data refers to the anvil simply as the 'stone', for which the POc word was *patu (Andra pat,
-Mindiri pot, Uruava patu, Bauan Fijian vatu are all reflexes used both in the general sense of
-'stone' and in the specialised sense of 'anvil'). Ross (1996c) has reconstructed *tapi 'paddle
+data refers to the anvil simply as the 'stone', for which the POc word was _*patu_ (Andra _pat_,
+Mindiri _pot_, Uruava _patu_, Bauan Fijian _vatu_ are all reflexes used both in the general sense of
+'stone' and in the specialised sense of 'anvil'). Ross (1996c) has reconstructed _*tapi_ 'paddle
 for beating clay into shape' with the proviso that the apparent reflexes may be independently
-derived instrumental nominalisations of the PMP verb *tapik 'slap, pat lightly' (Blust 1988).
+derived instrumental nominalisations of the PMP verb _*tapik_ 'slap, pat lightly' (Blust 1988).
 
 72 Meredith Osmond and Malcolm Ross
 
 4.2.2 Wooden or coconut-shell containers
 
-4.2.2. 1 Wooden bowl
+4.2.2.1 Wooden bowl
 
 
   The most important non-ceramic vessel in immediate pre-contact times was the wooden
 bowl. In parts of Papua New Guinea, finely-wrought bowls were an important trade item.
 (Among the most famous are bowls from the Tami Islands off the Huon Peninsula and the
-Trobriand Islands). The generic term for a wooden bowl was probably POc *tabiRa :
+Trobriand Islands). The generic term for a wooden bowl was probably POc _*tabiRa_:
 
 <
 POc *tabiRa 'wooden bowl'
-  NNG: Gedaged           tabiȴ              'wooden bowl, plate'
-  NNG: Manam             tabira             'wooden dish'
-  NNG: Ali               taper
-  MM: Sursurunga         tabir              'full of good things'
-  NCV: Raga              tabera             'plate'
-  Mic: Marshallese       cæpe              'small dug-out wooden bowl for pounding food'
-  Mic: Mokilese          capi
-  Mic: Carolinian        sæpi             'plate, bowl for food'
-  Mic: Woleaian          tapiya            'dish, bowl'
+  NNG: Gedaged        tabiȴ       'wooden bowl, plate'
+  NNG: Manam          tabira      'wooden dish'
+  NNG: Ali            taper
+  MM:  Sursurunga     tabir       'full of good things'
+  NCV: Raga           tabera      'plate'
+  Mic: Marshallese    cæpe        'small dug-out wooden bowl for pounding food'
+  Mic: Mokilese       capi
+  Mic: Carolinian     sæpi        'plate, bowl for food'
+  Mic: Woleaian       tapiya      'dish, bowl'
   cf. also:
-  SES:    Tolo           tabili            'wooden vessel used to smash nut kernels in'
-  SES:    Longgu         tabili            'bowl shaped like a vase, used for mashing taro to make pudding'
-  SES:    Kwaio          tabili            'big wooden bowl '
-  SES:    'Are'are       tapire            'wooden bowl in which taro is mashed'
-  SES:    Arosi          tapiri            'long trough-like food bowl'
-  Fij:    Bauan          tābili            'wooden bowl for crushing yaqona roots'
+  SES: Tolo           tabili      'wooden vessel used to smash nut kernels in'
+  SES: Longgu         tabili      'bowl shaped like a vase, used for mashing taro to make pudding'
+  SES: Kwaio          tabili      'big wooden bowl '
+  SES: 'Are'are       tapire      'wooden bowl in which taro is mashed'
+  SES: Arosi          tapiri      'long trough-like food bowl'
+  Fij: Bauan          tābili      'wooden bowl for crushing yaqona roots'
 >
 
 
-Figure 5 : POc *tabiRa 'wooden bowl'
+Figure 5 : POc _*tabiRa_ 'wooden bowl'
 
 
-This last set could be taken to reflect a POc **tabili, but their formal and semantic similarity
-to reflexes of *tabiRa suggests that this inference is not justified. Rather, they are probably
+This last set could be taken to reflect a POc _**tabili_, but their formal and semantic similarity
+to reflexes of _*tabiRa_ suggests that this inference is not justified. Rather, they are probably
 descended from an etymon which originated somewhere in the Solomons in the borrowing of
-a reflex of *tabiRa denoting a trade item, apparently a wooden dish used for mashing and/or
+a reflex of _*tabiRa_ denoting a trade item, apparently a wooden dish used for mashing and/or
 crushing.
 
                                                                     Household artefacts          73
 
 
-   A term with more restricted distribution and apparently denoting a subtype of *tabiRa is
-PNGOc *gabom 'wooden dish':
+   A term with more restricted distribution and apparently denoting a subtype of _*tabiRa_ is
+PNGOc _*gabom_ 'wooden dish':
 
 <
 PNGOc *gabom 'wooden dish'
-  NNG: Takia               gab             'cup made of half a coconut shell'
-  NNG: Mapos Buang         gabum           'carved wooden dish or bowl'
-  PT:  Sewa Bay            kaboma
-  PT:  Wedau               aboma
-  PT:  Misima              |(ulun ab) gabom| 'simple unrestricted earthenware vessel found on Brooker Island'
+  NNG: Takia         gab             'cup made of half a coconut shell'
+  NNG: Mapos Buang   gabum           'carved wooden dish or bowl'
+  PT:  Sewa Bay      kaboma
+  PT:  Wedau         aboma
+  PT:  Misima        |(ulun ab) gabom| 'simple unrestricted earthenware vessel found on Brooker Island'
 >
 
-   PSS *popo 'wooden bowl' is reconstructable (Gela popo 'a bowl', 'Are'are hoho 'a wooden
-bowl for pounding food', Lau fofo 'a round wooden dish') but no cognates are known
+   PSS _*popo_ 'wooden bowl' is reconstructable (Gela _popo_ 'a bowl', 'Are'are _hoho_ 'a wooden
+bowl for pounding food', Lau _fofo_ 'a round wooden dish') but no cognates are known
 outside the Southeast Solomons.
 
 <
 PCP *kumete 'large wooden bowl' (used as a mortar in pounding, mashing food and/or in stone-boiling) (Lichtenberk 1994)
-  Fij :   Rotuman          ʔumefe           'bowl'
-  Fij:    Bauan            kumete           'wooden bowl'
-  Pn:     Tongan           kumete           'kava bowl'
-  Pn:     E. Futunan       kumete           'wooden bowl, wooden trough'
-  Pn:     Kapingamarangi   ŋumade          'large wooden bowl for pounding food'
-  Pn:     Tahitian         ʔumete           'wooden trough or bowl (ovoid in shape)'
+  Fij: Rotuman          ʔumefe     'bowl'
+  Fij: Bauan            kumete     'wooden bowl'
+  Pn:  Tongan           kumete     'kava bowl'
+  Pn:  E. Futunan       kumete     'wooden bowl, wooden trough'
+  Pn:  Kapingamarangi   ŋumade     'large wooden bowl for pounding food'
+  Pn:  Tahitian         ʔumete     'wooden trough or bowl (ovoid in shape)'
   cf. also the following probable loans from Polynesia:
-  NCV : Mota               wumeto           'wooden bowl used for stone-boiling'
-  Mic: Kiribatese          kumete           'kind of wooden mortar trough; hollow, empty, concave; thin, ravenous (hungry)'
+  NCV : Mota            wumeto     'wooden bowl used for stone-boiling'
+  Mic: Kiribatese       kumete     'kind of wooden mortar trough; hollow, empty, concave; thin, ravenous (hungry)'
 >
 
 
@@ -3389,30 +3387,30 @@ several reconstructions. The term for a gourd also refers to a water bottle in s
 
 <
 POc *(b,bʷ)ilo 'coconut shell used as liquid container'
-  Adm: Lou                 pil             'coconut shell used for soup'
-  Adm: Titan               pʷe-pʷil        'coconut shell'
-  Adm: Drehet              pʷi-pʷiŋ       'coconut shell'
-  MM: Tolai                bilo            'cup'
-  SES: Longgu              bʷilo
-  SV:  Lenakel             (ui)pəl         'container'
-  SV : Anejom              ne-pec-          'container'
-  SV : Anejom              (inhu)pec        'container'
-  Fij:    Wayan            bilo             'cup, drinking vessel, formerly a half-coconut'
-  Fij :   Bauan            bilo             'cup or dish, originally a half-coconut'
+  Adm: Lou              pil            'coconut shell used for soup'
+  Adm: Titan            pʷe-pʷil       'coconut shell'
+  Adm: Drehet           pʷi-pʷiŋ       'coconut shell'
+  MM:  Tolai            bilo           'cup'
+  SES: Longgu           bʷilo
+  SV:  Lenakel          (ui)pəl        'container'
+  SV : Anejom           ne-pec-        'container'
+  SV : Anejom           (inhu)pec      'container'
+  Fij: Wayan            bilo           'cup, drinking vessel, formerly a half-coconut'
+  Fij: Bauan            bilo           'cup or dish, originally a half-coconut'
 >
 
 <
 POc *lasa 'coconut half-shell cup'
-  NNG: Tami                lat             'coconut shell'
+  NNG: Tami                lat            'coconut shell'
   NNG: Bing                lās
   NNG: Numbami             lasa
-  MM: Tolai                lā             'dish, bowl, any open utensil; shell of a coconut'
-  MM: Halia (Selau)          las                  'young drinking coconut '
-  NCV : Mota                 lasa                 'drinking cup'
-  NCV : Mota                (vin)lasa            'cup _lasa_ made of coconut shell _vin_'
-  NCV: Raga                  laha                 'drinking cup made from coconut shell '
-  NCV : Nguna                lāsa
-  Mic: Marshallese           lat                  'coconut shell; skull'
+  MM:  Tolai               lā             'dish, bowl, any open utensil; shell of a coconut'
+  MM:  Halia (Selau)       las            'young drinking coconut'
+  NCV: Mota                lasa           'drinking cup'
+  NCV: Mota                (vin)lasa      'cup _lasa_ made of coconut shell _vin_'
+  NCV: Raga                laha           'drinking cup made from coconut shell '
+  NCV: Nguna               lāsa
+  Mic: Marshallese         lat            'coconut shell; skull'
 >
 
 74 Meredith Osmond and Malcolm Ross
@@ -3430,27 +3428,25 @@ POc *ubi or *ibu 'half coconut shell used as a drinking cup'[3]
   Pn:  Rarotongan            ipu                  'generic for articles that serve as basin, cup +, made in old days from coconut shell or calabash'
 >
 
-[3] The pair are strikingly parallel to POc *upi/*ipu 'blow', and it is possible that both pairs were generated at
+[3] The pair are strikingly parallel to POc _*upi_/_*ipu_ 'blow', and it is possible that both pairs were generated at
  the same time by the application of a single rule (or similar wordplay) to the pre-existing member of each
  pair.
 
 
-Figure 6: POc *bi)ilo 'coconut shell
-   used as liquid container', POc *lasa,
-   POc *ubi/*ibu 'coconut half shell-cup'
+Figure 6: POc _*(b,bʷ)ilo_ 'coconut shell used as liquid container', POc _*lasa_,
+ POc _*ubi_/_*ibu_ 'coconut half shell-cup'
 
-Figure 7: POc *kulopi 'cup, ladle'
-(from Nevermann 1934: 179)
+Figure 7: POc _*kulopi_ 'cup, ladle' (from Nevermann 1934: 179)
 
 
 <
 PMP *ka(ŋ)bu(q) 'ladle, dipper' (Blust 1972b)
 POc *kabu 'cup, ladle'
-  Adm: Loniu                 kopu                  'bowl made by coiling slender bundles of natural fibre'
-  Pn:    Tongan             kapu                  'form into a cup-like shape, esp. a banana leaf'
-  Pn:    Samoan             ʔapu                  'cup made from leaf'
-  Pn:    Tuamotuan          kapu                  'ladle'
-  Pn:    Hawaiian           ʔapu                  'coconut-shell cup'
+  Adm: Loniu          kopu          'bowl made by coiling slender bundles of natural fibre'
+  Pn:  Tongan         kapu          'form into a cup-like shape, esp. a banana leaf'
+  Pn:  Samoan         ʔapu          'cup made from leaf'
+  Pn:  Tuamotuan      kapu          'ladle'
+  Pn:  Hawaiian       ʔapu          'coconut-shell cup'
 >
 
                                                                    Household artefacts      75
@@ -3466,14 +3462,14 @@ POc *kulopi 'ladle, bailer'
   MM:     Tolai           kul-kulup        'ladle, spoon'
 >
 
-   An additional reconstruction, POc *asu (V) 'scoop or ladle out' ; (N) 'ladle, bailer', from
-PMP *aŋsu 'scoop or bail out' is included in Chapter 7, §7.4.
+   An additional reconstruction, POc _*asu_ (V) 'scoop or ladle out' ; (N) 'ladle, bailer', from
+PMP _*aŋsu_ 'scoop or bail out' is included in Chapter 7, §7.4.
 
 
-   The following set, from Ross (l 996a), is listed because explanation is needed for the fact
+   The following set, from Ross (1996a), is listed because explanation is needed for the fact
 that it is apparently reflected only in Yapese and NNG languages: is it a retention or a
-borrowing? (Takia -ae-, Bilibil, Megiar -ai- reflect *-a- which has undergone umlaut because
-of a lost final *-i.)
+borrowing? (Takia _-ae-_, Bilibil, Megiar _-ai-_ reflect _*-a-_ which has undergone umlaut because
+of a lost final _*-i_.)
 
 <
 POc *d(r)ag(i) (?) 'k.o. container' (?)
@@ -3481,7 +3477,7 @@ POc *d(r)ag(i) (?) 'k.o. container' (?)
   NNG: Takia              daeg             'dish'
   NNG: Bilibil            daig             'dish'
   NNG: Megiar             daig             'dish'
-  NNG: Mapos Buang       dɛg              'cooking pot'
+  NNG: Mapos Buang        dɛg              'cooking pot'
   NNG: Patep              dɛg              'cooking pot'
 >
 
@@ -3502,16 +3498,16 @@ POc *wai(p) 'coconut shell water bottle'
   Pn:     Maori           wal              'vessel to hold water + ; calabash'
 >
 
-but adds a warning note that the Oceanic forms cited may reflect POc *waiR 'fresh water'. If
+but adds a warning note that the Oceanic forms cited may reflect POc _*waiR_ 'fresh water'. If
 so, all that can be inferred is a second gloss for this reconstructed form (ACD).
 
 <
 PEOc *tapaya '(gourd or coconut-shell) container, bottle'
-  NCV: Mota               (wo)tavae        'kind of gourd, eaten' (_wo-_ 'prefix indicating form, i.e. round object, fruit')
-  NCV:    Raga            tavai            'gourd'
-  Fij :   Bauan           tavaya           'bottle'
-  Pn:     Takuu           tafā             'flask made of coconut shell'
-  Pn:     Maori           tahā             'calabash with narrow mouth'
+  NCV: Mota       (wo)tavae        'kind of gourd, eaten' (_wo-_ 'prefix indicating form, i.e. round object, fruit')
+  NCV: Raga       tavai            'gourd'
+  Fij: Bauan      tavaya           'bottle'
+  Pn:  Takuu      tafā             'flask made of coconut shell'
+  Pn:  Maori      tahā             'calabash with narrow mouth'
 >
 
 76 Meredith Osmond and Malcolm Ross
@@ -3533,13 +3529,13 @@ This is a nominalisation of the verb below (cf. Ch. 2, §3 .2. 1):
 <
 PAn *seŋseŋ 'cork, stopper, plug' (Blust 1986)
 POc *jojoŋ, *joŋi 'plug, stop, caulk'
-  NNG: Gitua               zozon              (V) 'plug, stop'
-  NNG: Tami               jojoŋ             (N, V) 'cork'
-  NNG: Gedaged             dod                'cork, stopper made out of leaves rolled together to stop the hole in the coconut-shell water container'
-  NNG: Numbami            dodoŋa            (V) 'plug' (epenthetic _-a_)
-  NNG: Yabem               sòŋ               (v) 'plug'
-  NNG: Manam               rozoŋ             'plug a hole in something, plug (bottle +) '
-  NCV: Raga                siŋo(hi)          'stopper, cork ' (metathesis)
+  NNG: Gitua       zozon        (V) 'plug, stop'
+  NNG: Tami        jojoŋ        (N, V) 'cork'
+  NNG: Gedaged     dod           'cork, stopper made out of leaves rolled together to stop the hole in the coconut-shell water container'
+  NNG: Numbami     dodoŋa       (V) 'plug' (epenthetic _-a_)
+  NNG: Yabem       sòŋ          (v) 'plug'
+  NNG: Manam       rozoŋ        'plug a hole in something, plug (bottle +) '
+  NCV: Raga        siŋo(hi)     'stopper, cork ' (metathesis)
 >
 
    Two other etyma are reconstructable in the domain 'lid, cover, stopper', but it is impossible
@@ -3567,9 +3563,9 @@ PEOc *bʷalu 'cover, lid, stopper'
 of Vanuatu and Fiji, and that is the lime pot of betel-nut users. The lime container is usually a
 gourd, coconut shell or small tightly-woven basket. A lime spatula of bone or wood, sometimes
 highly decorated, rests in the gourd and is used to convey lime to the mouth. We have a
-reconstruction for the spatula, POc *d(r)amu, but no specific term for the lime pot. In a
-number of word lists the term for lime (often from POc *qapu(R)) also can refer to the pot.
-We have reconstructed a PEOc term for a gourd, *tapaya 'gourd, water bottle', but there are
+reconstruction for the spatula, POc _*d(r)amu_, but no specific term for the lime pot. In a
+number of word lists the term for lime (often from POc _*qapu(R)_) also can refer to the pot.
+We have reconstructed a PEOc term for a gourd, _*tapaya_ 'gourd, water bottle', but there are
 no cognates from SES, which is the only area of eastern Oceanic where betel is chewed, and
 we lack any Western Oceanic reconstruction.
 
@@ -3589,11 +3585,11 @@ POc *d(r)amut 'lime spatula'
   SES: Arosi              damu              'chew betel nut'
 >
 
-The final -i of Mussau ra-ramuti suggests that this reflects a transitive verb *d(r)amut-i- ,
+The final _-i_ of Mussau _ra-ramuti_ suggests that this reflects a transitive verb _*d(r)amut-i-_,
 perhaps 'add lime to a chew of betel nut'.
 
 
-Figure 8: POc *d(r)amut 'lime spatula'
+Figure 8: POc _*d(r)amut_ 'lime spatula'
 
 
 
@@ -3617,21 +3613,21 @@ of old terms. The likelihood of borrowing is also high.
 <
 PMP *ka(n)tuŋ 'basket, pocket in clothing' (Dempwolff 1938)
 POc *katu(m,ŋ) 'basket'
-  SES: Arosi             kaso              'basket without a handle'
-  NCV : Lonwolwol        aro(bol)          'basket, container; sack, bag' (_-bol_ from POc _*bola_ 'coconut leaves woven together')
-  NCV:    Paamese        atu(voi)          'basket of coconut leaves'
-  SV :    Lenakel        karəm
-  SV :    Anejom         in-ɣat            'pandanus, basket'
-  Mic:    Woleaian       xato              'kind of small basket for food'
-  Mic :   Carolinian     xɔ̄t               'k. o. basket'
-  Fij:    Bauan          kato              'basket, box, trunk, suitcase'
-  Pn:     Tongan         kato              'basket; suitcase; pouch; pocket'
-  Pn:     W. Futunan     kato              'basket with a four-cornered base'
+  SES: Arosi          kaso        'basket without a handle'
+  NCV: Lonwolwol      aro(bol)    'basket, container; sack, bag' (_-bol_ from POc _*bola_ 'coconut leaves woven together')
+  NCV: Paamese        atu(voi)    'basket of coconut leaves'
+  SV:  Lenakel        karəm
+  SV:  Anejom         in-ɣat      'pandanus, basket'
+  Mic: Woleaian       xato        'kind of small basket for food'
+  Mic: Carolinian     xɔ̄t         'k. o. basket'
+  Fij: Bauan          kato        'basket, box, trunk, suitcase'
+  Pn:  Tongan         kato        'basket; suitcase; pouch; pocket'
+  Pn:  W. Futunan     kato        'basket with a four-cornered base'
 >
 
-Arosi -s- from *-t- is conditioned by a following *-u, supporting its reconstruction rather than
-that of *-0. Carolinian x5t and some other Micronesian cognates are problematic, since their
--t reflects POc *s or *j rather than *t.
+Arosi _-s-_ from _*-t-_ is conditioned by a following _*-u_, supporting its reconstruction rather than
+that of _*-0_. Carolinian _xɔ̄t_ and some other Micronesian cognates are problematic, since their
+_-t_ reflects POc _*s_ or _*j_ rather than _*t_.
 
 78 Meredith Osmond and Malcolm Ross
 
@@ -3659,42 +3655,42 @@ POc *ta(b,bʷ)e 'basket, probably small'
 
 <
 PWOc *kase 'k.o. basket'
-  PT:   Gapapaiwa        kase-kase         'basket of coconut fronds'
-  PT:   Misima           ke-kehe           'basket of coconut fronds used as a handbag'
-  PT:   Sudest           kaði-kaðiye       '(name of a) basket'
-  MM: Barok              kis               'netbag; basket'
-  MM : Lamasong         kis               'basket'
-  MM: Sursurunga         kas               'basket type, closely woven like a Buka basket'
-  MM: Patpatar           kas               'basket'
+  PT:  Gapapaiwa        kase-kase         'basket of coconut fronds'
+  PT:  Misima           ke-kehe           'basket of coconut fronds used as a handbag'
+  PT:  Sudest           kaði-kaðiye       '(name of a) basket'
+  MM:  Barok            kis               'netbag; basket'
+  MM:  Lamasong         kis               'basket'
+  MM:  Sursurunga       kas               'basket type, closely woven like a Buka basket'
+  MM:  Patpatar         kas               'basket'
   cf. also:
-  Adm: Mussau            keru              'k.o. basket'
+  Adm: Mussau           keru              'k.o. basket'
 >
 
 <
 PEOc *kete 'belly, basket' (Biggs 1965)
-  NCV: Mota              gete              'woven basket'
-  NCV : Raga             gete              'basket made of plaited coconut leaves'
-   Fij:   Bauan           kete               'belly, stomach'
-   Fij:   Bauan           kete-kete          'basket'
-   Pn:    Tongan          kete               'stomach, abdomen '
-   Pn:    Samoan          ʔete              'bag, basket'
-   Pn:    Maori           kete               'plaited flax basket with carrying handles'
+  NCV: Mota            gete              'woven basket'
+  NCV: Raga            gete              'basket made of plaited coconut leaves'
+  Fij: Bauan           kete              'belly, stomach'
+  Fij: Bauan           kete-kete         'basket'
+  Pn:  Tongan          kete              'stomach, abdomen '
+  Pn:  Samoan          ʔete              'bag, basket'
+  Pn:  Maori           kete              'plaited flax basket with carrying handles'
 >
 
-This form is unlikely to be of POc ancestry, as medial *-e- is rare in POco It may well have an
-association with one of the two *k-initial forms above.
+This form is unlikely to be of POc ancestry, as medial _*-e-_ is rare in POc. It may well have an
+association with one of the two _*k_-initial forms above.
 
                                                                      Household artefacts       79
 
 
 
-Figure 9: Reconstructions (non-specific) include: POc *kalu (m,1)) 'basket', POc *laka
- 'basket ', POc *tabt')e 'basket, probably small', POc *taŋa 'basket or bag, small, used for
-                        personal effects' (after Koch 1986: 104 and n.d.:59)
+Figure 9: Reconstructions (non-specific) include: POc _*katu(m,ŋ)_ 'basket', POc _*laka_
+'basket ', POc _*tab(w)e_ 'basket, probably small', POc _*taŋa_ 'basket or bag, small, used for
+personal effects' (after Koch 1986: 104 and n.d.:59)
 
-   Biggs (1993) lists two further terms for PPn, *llipola 'basket plaited from a single coconut
-frond' (from POc *bola 'coconut leaves woven together for any purpose'. See under §3 . 1
-Mats); and *qora 'fishing basket'.
+   Biggs (1993) lists two further terms for PPn, *taapola 'basket plaited from a single coconut
+frond' (from POc _*bola_ 'coconut leaves woven together for any purpose'. See under §3.1
+Mats); and _*qora_ 'fishing basket'.
 
    Bags, typically of twine made from fibres rolled together on the thigh and then knotted
 into a mesh, are more likely to be used for carrying than for storage. They are a prominent
@@ -3703,25 +3699,25 @@ head, and the men generally over one shoulder. On the New Guinea mainland, they 
 means by which a woman carries a baby. The widespread modern term for these bags is
 bilum, a Tok Pis in term apparently from Tolai, but without cognates outside MM . The
 present distribution pattern of use would seem to reflect a possible Papuan origin for the net
-bag. In east New Britain ([olai and Baining at least) heavy loads are carried in a coconut leaf
+bag. In east New Britain (Tolai and Baining at least) heavy loads are carried in a coconut leaf
 basket suspended from the forehead by a tumpline (Ann Chowning, pers.comm.). The following
 reconstruction may have been a general term for a small plaited or woven container which
 has come to refer to a net bag in parts of western Oceania.
 
 <
 POc *taŋa 'basket or bag, small, used for personal effects'
-  NNG: Lukep (Pono)      taŋa              'net bag, womb'
-  NNG: Gedaged           taŋ               'net bag used by women'
-  PT:  Kilivila          (va)taga           'small basket (very simply plaited)'
-  PT:  Dobu              tana               'dilly bag' (Grant)
-  MM:    Meramera       taŋa             'netbag; nest; web; basket'
-  MM:    Tangga         taŋ              'netbag, basket'
-  SES:   Arosi          aŋa(na)         'plaited bag with string handles, generic'
-  NCV:   Raga           taŋa             'small basket made of plaited pandanus leaves'
-  NCV:   Ambae          taŋa             'small basket, woven from pandanus, used like a handbag for small personal items'
-  Fij:   Bauan           taŋa            'bag, pocket, sack '
-  Pn:    Tongan          taŋa(i)       'bag, sack '
-  Pn:    Tikopia         taŋa            'small basket in which betel or other effects are kept'
+  NNG: Lukep (Pono)   taŋa          'net bag, womb'
+  NNG: Gedaged        taŋ           'net bag used by women'
+  PT:  Kilivila       (va)taga      'small basket (very simply plaited)'
+  PT:  Dobu           tana          'dilly bag' (Grant)
+  MM:  Meramera       taŋa          'netbag; nest; web; basket'
+  MM:  Tangga         taŋ           'netbag, basket'
+  SES: Arosi          aŋa(na)       'plaited bag with string handles, generic'
+  NCV: Raga           taŋa          'small basket made of plaited pandanus leaves'
+  NCV: Ambae          taŋa          'small basket, woven from pandanus, used like a handbag for small personal items'
+  Fij: Bauan          taŋa          'bag, pocket, sack '
+  Pn:  Tongan         taŋa(i)       'bag, sack '
+  Pn:  Tikopia        taŋa          'small basket in which betel or other effects are kept'
 >
 
 80 Meredith Osmond and Malcolm Ross
@@ -3732,8 +3728,8 @@ POc *taŋa 'basket or bag, small, used for personal effects'
 4.3.1 Mats
 
     Woven mats are made from the leaves of a range of palms, and frequently the same term
-is used for both tree and the article typically made from it. Thus we have POc *kiRe 'coastal
-pandanus: mat made from its leaves', and PWOc *moke 'pandanus species, used to make
+is used for both tree and the article typically made from it. Thus we have POc _*kiRe_ 'coastal
+pandanus: mat made from its leaves', and PWOc _*moke_ 'pandanus species, used to make
 capes and mats' (see Plants, vol. 3). Mats on which food is placed will usually be made from
 coconut leaf. Where strength and endurance are important, as in canoe sails, pandanus is the
 preferred leaf, and the items are sewn rather than woven. Sleeping mats and house walls may
@@ -3741,46 +3737,46 @@ be of either leaf. On the use of reflexes of *qebal for sails, see Chapter 7, §
 
 <
 POc *qebal 'pandanus mat, possibly sleeping mat'
-  NNG: Numbami           embala           'mat'
-  PT:   Molima           ʔebana           'sewn pandanus mat; pandanus used for it'
-  PT:   Sinaugoro        ɣeba
-  SES: Longgu            eba
-  SES: Lau               eba              'mat of pandanus; a sail'
-  SES: Kwaio             eba              'sleeping mat'
-  NCV : Mota             epa              'mat, piece of matting; sail of matting'
-  NCV : Raga             ebe              'sleeping-mat'
-  SV:   Anejom           n-ep             'pandanus mat for carrying a child'
-  Mic: Carolinian        āp              'small soft mat used for babies'
-  Mic: Woleaian          yepe             'baby's mat'
-  Pn:   Tongan           ʔepa             'mats (collectively) given to a bride'
-  Pn:   Samoan           epa              'native mats and cloth on which dead chief is laid'
-  Pn:   Tikopia          epa              'ritual offering of finely plaited pandanus mats'
+  NNG: Numbami          embala          'mat'
+  PT:  Molima           ʔebana          'sewn pandanus mat; pandanus used for it'
+  PT:  Sinaugoro        ɣeba
+  SES: Longgu           eba
+  SES: Lau              eba             'mat of pandanus; a sail'
+  SES: Kwaio            eba             'sleeping mat'
+  NCV: Mota             epa             'mat, piece of matting; sail of matting'
+  NCV: Raga             ebe             'sleeping-mat'
+  SV:  Anejom           n-ep            'pandanus mat for carrying a child'
+  Mic: Carolinian       āp              'small soft mat used for babies'
+  Mic: Woleaian         yepe            'baby's mat'
+  Pn:  Tongan           ʔepa            'mats (collectively) given to a bride'
+  Pn:  Samoan           epa             'native mats and cloth on which dead chief is laid'
+  Pn:  Tikopia          epa             'ritual offering of finely plaited pandanus mats'
 >
 
 <
 POc *tabakau 'mat woven from coconut leaves'
-  NNG: Lukep (Pono) pakau                 'trash mat: a woven coconut-leaf mat used to carry trash and sand'
-  NCV : Mota             tapaŋau       'mat of coconut leaves, large, coarsely woven'
-  SV:   Anejom           (nicip)akau      'chief's single thickness coconut mat with large spine'
-  Fij:   Wayan           tabakau          'coarsely woven mat of coconut leaves'
-  Pn:    Tongan          tapakau          'large coconut leaf suitable for making floormats'
-  Pn:     Samoan          tapaʔau            'coconut leaf floonnat'
-  Pn:     Maori           takapau            'floonnat; plaited floonnat' (metathesis)
+  NNG: Lukep (Pono) pakau            'trash mat: a woven coconut-leaf mat used to carry trash and sand'
+  NCV: Mota            tapaŋau       'mat of coconut leaves, large, coarsely woven'
+  SV:  Anejom          (nicip)akau   'chief's single thickness coconut mat with large spine'
+  Fij: Wayan           tabakau       'coarsely woven mat of coconut leaves'
+  Pn:  Tongan          tapakau       'large coconut leaf suitable for making floormats'
+  Pn:  Samoan          tapaʔau       'coconut leaf floormat'
+  Pn:  Maori           takapau       'floormat; plaited floormat' (metathesis)
 >
 
                                                                      Household artefacts       81
 
 <
 PEOc *bola 'coconut leaves woven together for any purpose, including mats, baskets, thatch'
-  NCV: Nguna              pora               'woven wall panel'
-  NCV: Lonwolwol          (aro)bol           'basket, container; sack, bag' (_aro_ > POc _*kato_ 'basket')
-  Fij:    Rotuman         pora              'coconut leaf used for walls + '
-  Fij:    Wayan           bola               'basket, especially four-cornered type with lid'
-  Fij:    Bauan           bola              'leaf of coconut plaited into a sort of narrow mat for thatching'
-  Pn:     Tongan          pola              'plaited coconut leaves used for making walls or roof, or as a food tray; fishing net made of plaited coconut leaves, and used in community fishing'
-  Pn:     Samoan          pola              'plaited coconut leaf wall screen'
-  Pn:     Maori           pora              'coarse cloak; floormat'
-  Pn:     Tikopia         pora              'small plaited coconut leaf mat'
+  NCV: Nguna           pora        'woven wall panel'
+  NCV: Lonwolwol       (aro)bol    'basket, container; sack, bag' (_aro_ > POc _*kato_ 'basket')
+  Fij: Rotuman         pora        'coconut leaf used for walls + '
+  Fij: Wayan           bola        'basket, especially four-cornered type with lid'
+  Fij: Bauan           bola        'leaf of coconut plaited into a sort of narrow mat for thatching'
+  Pn:  Tongan          pola        'plaited coconut leaves used for making walls or roof, or as a food tray; fishing net made of plaited coconut leaves, and used in community fishing'
+  Pn:  Samoan          pola        'plaited coconut leaf wall screen'
+  Pn:  Maori           pora        'coarse cloak; floormat'
+  Pn:  Tikopia         pora        'small plaited coconut leaf mat'
 >
 
   It is possible that the two NCV reflexes in the above set are borrowings from Polynesia
@@ -3789,12 +3785,12 @@ PEOc *bola 'coconut leaves woven together for any purpose, including mats, baske
 <
 PEOc *ibe 'mat' (pawley 1976)
   SES:   Gela             ibe
-  SES:   'Are'are         ipe               'mat, bed '
+  SES:   'Are'are         ipe               'mat, bed'
   Fij:   Bauan            ibe
 >
 
-  Two further terms have been reconstructed for PPn only: *fala 'plaited pandanus mat',
-and *fiiliki 'cover floor with mats or grass; floor covering', both from Biggs (1993).
+  Two further terms have been reconstructed for PPn only: _*fala_ 'plaited pandanus mat',
+and _*faaliki_ 'cover floor with mats or grass; floor covering', both from Biggs (1993).
 
 
 
@@ -3812,20 +3808,20 @@ loom weaving).
 <
 PMP *batuR 'plait, weave (mats, baskets +) ' (ACD)
 POc *patu(R), *patuR-i- 'tie, plait, weave (mats, baskets +)'
-  Adm: Mussau             atu               'plait (mats, baskets)'
-  NNG: Lukep              -watu             'tie a pig up preparatory to slaughter'
-  PT:  Kilivila           vatunu            'rope, line' (borrowed from elsewhere in PT)
-  PT:  Motu               hatu-             'plait (mats +), weave; twist a small rope'
-  MM: Banoni              pacu              'tie'
-  SES: Tolo               vatuli-           'weave (s.t.)'
- SES: Lau                faoli              'weave (s.t.)'
- SES: Arosi              hauri-             'plait (s.t.)'
- NCV : Tamambo           vatu               'weave, plait'
- NCV: Ambae              vatu              'weave'
- Fij:  Wayan             vatu               'be formed or built in a certain way'
- Pn:   Tongan            fatu               (V) 'fold; begin the making of a mat; construct the framework of a house'
-  Pn:    Samoan          fatu               'assemble (s.t.) with the hands'
-  Pn:    Hawaiian        haku               'compose, put in order, arrange; weave (flower necklace +)'
+ Adm: Mussau          atu               'plait (mats, baskets)'
+ NNG: Lukep           -watu             'tie a pig up preparatory to slaughter'
+ PT:  Kilivila        vatunu            'rope, line' (borrowed from elsewhere in PT)
+ PT:  Motu            hatu-             'plait (mats +), weave; twist a small rope'
+ MM:  Banoni          pacu              'tie'
+ SES: Tolo            vatuli-           'weave (s.t.)'
+ SES: Lau             faoli             'weave (s.t.)'
+ SES: Arosi           hauri-            'plait (s.t.)'
+ NCV: Tamambo         vatu              'weave, plait'
+ NCV: Ambae           vatu              'weave'
+ Fij: Wayan           vatu              'be formed or built in a certain way'
+ Pn:  Tongan          fatu              (V) 'fold; begin the making of a mat; construct the framework of a house'
+ Pn:  Samoan          fatu              'assemble (s.t.) with the hands'
+ Pn:  Hawaiian        haku              'compose, put in order, arrange; weave (flower necklace +)'
 >
 
 82 Meredith Osmond and Malcolm Ross
@@ -3841,14 +3837,14 @@ POc *aña 'woven, braided'
 <
 POc *paus, *paus-i- 'weave, plait'
   NNG: Tami              wa-wau            'weave'
-  NNG: Kilenge            pau-              'weave'
-  SES: Gela               vauhi-
-  SES: 'Are'are           haosi-
-  SES: Longgu             vaosi-            'weave (s.t.)'
-  NCV : Mota              vau               (v) 'mat, plait, weave (mats, baskets)'
-  NCV: Nguna              vausi-            'weave'
-  SV:   Anejom            (a)hod            'weave'
-  SV:   S.W. Tanna        kwuh              'weave'
+  NNG: Kilenge           pau-              'weave'
+  SES: Gela              vauhi-
+  SES: 'Are'are          haosi-
+  SES: Longgu            vaosi-            'weave (s.t.)'
+  NCV: Mota              vau               (v) 'mat, plait, weave (mats, baskets)'
+  NCV: Nguna             vausi-            'weave'
+  SV:  Anejom            (a)hod            'weave'
+  SV:  S.W. Tanna        kwuh              'weave'
 >
 
 <
@@ -3860,44 +3856,44 @@ POc *tiki (V) 'plait (mat +)' (ACD)
 
 <
 POc *pai 'weave'
-  NNG: Tuam               va-vai
-  NNG: Gitua              va-vai
-  NNG: Numbami           wa-wai
-  NNG: Kove               wal               'make a basket, plait a door'
-  NNG: Kove               wa-waiŋa         'string figures'
-  PT:    Misima           vei               'plait'
-  MM:    Vitu             vai
-  MM:    Lavongai         pai
-  MM:    Label            hai
-  NCV:   Paamese          hai               (VT) 'weave, make fence'
+  NNG: Tuam             va-vai
+  NNG: Gitua            va-vai
+  NNG: Numbami          wa-wai
+  NNG: Kove             wal              'make a basket, plait a door'
+  NNG: Kove             wa-waiŋa         'string figures'
+  PT:  Misima           vei              'plait'
+  MM:  Vitu             vai
+  MM:  Lavongai         pai
+  MM:  Label            hai
+  NCV: Paamese          hai              (VT) 'weave, make fence'
 >
 
-   Biggs (1993) adds one lower-level reconstruction: PPn *laŋa 'plait (mat, basket) .
+   Biggs (1993) adds one lower-level reconstruction: PPn _*laŋa_ 'plait (mat, basket) .
 
 
                                                                       Household artefacts      83
 
 
-   Ann Chowning (pers.comm.) has offered an additional sense to POc *raraŋ, *raraŋ-i­
-(from PAn *da(n)daŋ), which Lichtenberk glosses as 'warm oneself by fire'; 'warm up,
-reheat (esp. food)' (see Chapter 6, §3 . 5, for the full cognate set). She contributes cognates
+   Ann Chowning (pers.comm.) has offered an additional sense to POc _*raraŋ_, _*raraŋ-i_­
+(from PAn _*da(n)daŋ_), which Lichtenberk glosses as 'warm oneself by fire'; 'warm up,
+reheat (esp. food)' (see Chapter 6, §3.5, for the full cognate set). She contributes cognates
 from Molima, Kove and Nakanai which all refer to the preparation of pandanus leaves for
 mat making by softening them over a fire, and accord closely with the gloss of the single
 Polynesian cognate.
 
 <
 POc *raraŋ, *raraŋ-i- 'heat s.t. or warm oneself by fire'
-  NNG: Kove               lala              'wilt pandanus leaves over a fire in order to soften them for mat making'
-  PT:     Molima         lala               'wilt pandanus leaves over a fire in order to soften them for mat making'
-  MM:     Nakanai         lala              'wilt pandanus leaves over a fire in order to soften them for mat making; hold over the fire, heat over the fire (as bamboo which is to be bent)'
-  Pn:     Pukapukan       lala               'bleach pandanus leaves by passing them over a fire'
+  NNG: Kove           lala       'wilt pandanus leaves over a fire in order to soften them for mat making'
+  PT:  Molima         lala       'wilt pandanus leaves over a fire in order to soften them for mat making'
+  MM:  Nakanai        lala       'wilt pandanus leaves over a fire in order to soften them for mat making; hold over the fire, heat over the fire (as bamboo which is to be bent)'
+  Pn:  Pukapukan      lala       'bleach pandanus leaves by passing them over a fire'
 >
 
 
 4.3.2 Cord, twine
 
    The simplest material for tying would have been lengths of vine or rattan, or strips of
-suitable bark, such as hibiscus. (pOc *waRoc 'vine, creeper, rope, string'; POc *quwe 'rattan'
+suitable bark, such as hibiscus. (pOc *waRoc 'vine, creeper, rope, string'; POc _*quwe_ 'rattan'
 (see Plants, vol. 3)). A strong light twine could be made by rolling fibres together on the thigh.
 The strongest cords and ropes are made by twisting or plaiting various kinds of fibres or
 rolled thread, principally coconut fibre or hibiscus bark.
@@ -3913,22 +3909,22 @@ POc *loqi 'make thread by rolling fibres on the thigh' (Chowning 1991 : *loi 'th
   Pn:  Maori              roi(roki)         'secured, tied up; knot, bind'
 >
 
-An unrelated PPn term has been reconstructed for the same process, *amo 'prepare fibres for
+An unrelated PPn term has been reconstructed for the same process, _*amo_ 'prepare fibres for
 string making (by rubbing between hands or on thigh); prepared fibre' (Biggs 1993).
 
 <
 POc *tali 'rope, cord, plaiting'
-  Adm: Lou                tel               'rope, string'
-  SES: Gela               tali              'rope'
-  SES: Arosi              ari               (N) 'rope'; (v) 'plait'
-  SES: Arosi              ari(heda)         'flat-shaped rope'
-  SES: Arosi              ari(hua)          'rounded rope'
-  SES: Arosi              ari(huemadi)      'knotted line'
-  NCV : Mota              tal, tali         'rope, cord, made of plaited or twisted lines'
-  Fij:  Wayan             tali              (v) 'plait, weave; rope'
- Fij:     Bauan             tali                (v) 'plait, interweave'
- Pn:      Anutan            tari                'kind of plaiting'
- Pn:      Maori             tari                'plaiting as opposed to weaving or twining'
+ Adm: Lou               tel               'rope, string'
+ SES: Gela              tali              'rope'
+ SES: Arosi             ari               (N) 'rope'; (v) 'plait'
+ SES: Arosi             ari(heda)         'flat-shaped rope'
+ SES: Arosi             ari(hua)          'rounded rope'
+ SES: Arosi             ari(huemadi)      'knotted line'
+ NCV: Mota              tal, tali         'rope, cord, made of plaited or twisted lines'
+ Fij: Wayan             tali              (v) 'plait, weave; rope'
+ Fij: Bauan             tali              (v) 'plait, interweave'
+ Pn:  Anutan            tari              'kind of plaiting'
+ Pn:  Maori             tari              'plaiting as opposed to weaving or twining'
 >
 
 84 Meredith Osmond and Malcolm Ross
@@ -3936,28 +3932,28 @@ POc *tali 'rope, cord, plaiting'
 <
 PMP *piri(c,t) 'twist, plait' (Blust 1970)
 POc *piri 'plait a cord, twist, wrap around'
-  Adm: Mussau               iri                  'tie, bind by wrapping around'
-  NNG: Gedaged              piȴi                  'weave (mats, sails +), (V) braid, knot (the strands of grass-skirts)'
-  PT:     Kilivila          vili                  'tum; make grass-skirts; be twisted'
-  PT:     Molima            vili                  'make a skirt, roll a cigarette, put a headdress round the head'
-  PT:     Motu              hiri                  'fasten by twisting round and round; tie up (a parcel, bundle), twisting string all round it; kill (Pig) for visitors'
-  MM:     Tolai             pir                   'plait (basket, mat +) '
-  MM:     Nakanai           viri                  'twist, wind up, wind around'
-  MM:     Simbo            viri                  'plait, make a basket'
-  SES:    Sa'a              hiri                 (v) 'lap with string, bind spears or arrows'
-  SES:    Arosi             hiri                  'twist, twine round, (snake) coil, wind (a line) round'
-  NCV:    Mota              vir                   'twist, wring, squeeze with a twist, plait'
-  NCV:    Tamambo           viri                   'twist, plait, braid; coconut milk'
-  SV:     Sye               (e)vi                 'weave (basket)'
-  NCal:   Nemi              fili                  'braid'
-  Mic:    Ponapean          pir                   'tum, spin, twist'
-  Mic:    Kosraean          pɨr(aki)              (V) 'braid, plait'
-  Fij:    Rotuman           hiri                  'plait three strands of sennit, hair +, and the "tail" of a basket or floormat made of coconut-leaf, this tail itself being called a _hiri_'
-  Fij:    Bauan             viri                  'lash (fence, raft +)'
-  Pn:     Samoan            fili                  'plait, braid (sennit, hair +)'
+  Adm: Mussau           iri              'tie, bind by wrapping around'
+  NNG: Gedaged          piȴi             'weave (mats, sails +), (V) braid, knot (the strands of grass-skirts)'
+  PT:  Kilivila         vili             'tum; make grass-skirts; be twisted'
+  PT:  Molima           vili             'make a skirt, roll a cigarette, put a headdress round the head'
+  PT:  Motu             hiri             'fasten by twisting round and round; tie up (a parcel, bundle), twisting string all round it; kill (Pig) for visitors'
+  MM:  Tolai            pir              'plait (basket, mat +) '
+  MM:  Nakanai          viri             'twist, wind up, wind around'
+  MM:  Simbo            viri             'plait, make a basket'
+  SES: Sa'a             hiri             (v) 'lap with string, bind spears or arrows'
+  SES: Arosi            hiri             'twist, twine round, (snake) coil, wind (a line) round'
+  NCV: Mota             vir              'twist, wring, squeeze with a twist, plait'
+  NCV: Tamambo          viri             'twist, plait, braid; coconut milk'
+  SV:  Sye              (e)vi            'weave (basket)'
+  NCal:Nemi             fili             'braid'
+  Mic: Ponapean         pir              'tum, spin, twist'
+  Mic: Kosraean         pɨr(aki)         (V) 'braid, plait'
+  Fij: Rotuman          hiri             'plait three strands of sennit, hair +, and the "tail" of a basket or floormat made of coconut-leaf, this tail itself being called a _hiri_'
+  Fij: Bauan            viri             'lash (fence, raft +)'
+  Pn:  Samoan           fili             'plait, braid (sennit, hair +)'
   cf. also:
-  PT: Gumawana              (ki)pili             'twist s.t., unscrew a lid'
-  MM: Tolai                 pir                  'plait (basket, mat +)'
+  PT:  Gumawana         (ki)pili         'twist s.t., unscrew a lid'
+  MM:  Tolai            pir              'plait (basket, mat +)'
 >
 
 <
@@ -4021,30 +4017,30 @@ meaning 'tie a knot'; see Chapter 9, § 10):
 <
 PMP *buku 'node (as in bamboo or sugarcane); joint; knuckle; knot in wood, string or rope' (ACD)
 POc *buku 'node (as in bamboo or sugarcane); joint; knuckle; knot in wood, string or rope' (ACD)
-  NNG: Manam             buku             'mountain; knuckle'
-  NNG: Gedaged           buku-n           'knot on the stem of a tree, or a knot tied in a cord; knob; tumor, haemorrhoids'
-  MM:    Nakanai        bu-buku           'knot in a tree'
-  MM:    Kara (West)    buki-             'knee'
-  MM:    Tabar          puk-puku          'knee'
-  MM:    Tabar            puku-             'boil, ulcer'
- MM:      Tolai           buk                'boil, ulcer, abscess; hence any lump, corner, point, knob +'
- MM:      Tolai           buku-              'knee'
- MM:      Babatana        pu-puku            'elbow'
- MM:      Roviana         puku-na            'a knot'
- MM:      Maringe         pʰu-puku           'knee, elbow'
- SES:     Bugotu          puku               'a swelling from a blow; lump, knot, tumor'
- SES:     Gela            puku               'a knot '
- SES:     Gela            vari-puku          'tie a knot'
-  Mic:    Kiribati        buki-ni-bai        'elbow'
-  Mic:    Kiribati        buki-narora        'reef jutting out at end of land'
-  Mic:    Kosraean        fuku-ne            'ankle'
-  Mic:    Kosraean        |puku-n ne|          'shank, shin'
-  Mic:    Trukese         pʷ-pʷuk            'knot'
-  Fij:    Bauan           buku               'the raised end of a shell + ; knot, protuberance'
-  Fij:    Bauan           (i)buku            'a knot'
-  Fij:    Bauan           |buku ni kai|        'hinge of a bivalve'
-  Pn:     Rennellese      puku               'knot, as in a tree'
-  Pn:     Maori           puku               'swelling, tumor, knob; head of seed, cob of corn; swell'
+ NNG: Manam          buku             'mountain; knuckle'
+ NNG: Gedaged        buku-n           'knot on the stem of a tree, or a knot tied in a cord; knob; tumor, haemorrhoids'
+ MM:  Nakanai        bu-buku          'knot in a tree'
+ MM:  Kara (West)    buki-            'knee'
+ MM:  Tabar          puk-puku         'knee'
+ MM:  Tabar          puku-            'boil, ulcer'
+ MM:  Tolai          buk              'boil, ulcer, abscess; hence any lump, corner, point, knob +'
+ MM:  Tolai          buku-            'knee'
+ MM:  Babatana       pu-puku          'elbow'
+ MM:  Roviana        puku-na          'a knot'
+ MM:  Maringe        pʰu-puku         'knee, elbow'
+ SES: Bugotu         puku             'a swelling from a blow; lump, knot, tumor'
+ SES: Gela           puku             'a knot '
+ SES: Gela           vari-puku        'tie a knot'
+ Mic: Kiribati       buki-ni-bai      'elbow'
+ Mic: Kiribati       buki-narora      'reef jutting out at end of land'
+ Mic: Kosraean       fuku-ne          'ankle'
+ Mic: Kosraean       |puku-n ne|      'shank, shin'
+ Mic: Trukese        pʷ-pʷuk          'knot'
+ Fij: Bauan          buku             'the raised end of a shell + ; knot, protuberance'
+ Fij: Bauan          (i)buku          'a knot'
+ Fij: Bauan          |buku ni kai|    'hinge of a bivalve'
+ Pn:  Rennellese     puku             'knot, as in a tree'
+ Pn:  Maori          puku             'swelling, tumor, knob; head of seed, cob of corn; swell'
 >
 
 86 Meredith Osmond and Malcolm Ross
@@ -4053,72 +4049,72 @@ POc *buku 'node (as in bamboo or sugarcane); joint; knuckle; knot in wood, strin
 4.3.2. 1 Sewing
 
 
-   POc *saqi(t) was the term used specifically for sewing activities. The terms *(su)suk-i
-'pierce, sew (mats)' and *(su)suRi 'bone (needle); sew' were also used for sewing, but this
+   POc _*saqi(t)_ was the term used specifically for sewing activities. The terms _*(su)suk-i_
+'pierce, sew (mats)' and _*(su)suRi_ 'bone (needle); sew' were also used for sewing, but this
 was not their primary meaning.
 
 <
 POc *saqi(t) 'sew' (Milke 1961); 'sew (pandanus mats, thatch +) ' (Chowning 1991)
-  Adm: Mussau             saki               'sew'
-  Adm: Mussau             saiki              'sew (clothes)' (cf. _sui_, _sufi_ 'sew (mats, thatch)')
-  NNG: Amara              sai-sai            'sew'
-  NNG: Kairiru            sai                'sew'
-  PT:  Motu               dai(āhu)           'close a bag by sewing up the mouth ' (_ahu_ 'closed')
-  MM:     Meramera        sai                'sew'
-  MM:     Nakanai         sahi               'sew'
-  MM:     Nakanai         sa-sahi            'sew two things together'
-  SES:    Lau             tai                'sew'
-  SES:    Arosi           taʔi               'sew, join together'
+  Adm: Mussau       saki          'sew'
+  Adm: Mussau       saiki         'sew (clothes)' (cf. _sui_, _sufi_ 'sew (mats, thatch)')
+  NNG: Amara        sai-sai       'sew'
+  NNG: Kairiru      sai           'sew'
+  PT:  Motu         dai(āhu)      'close a bag by sewing up the mouth ' (_ahu_ 'closed')
+  MM:  Meramera     sai           'sew'
+  MM:  Nakanai      sahi          'sew'
+  MM:  Nakanai      sa-sahi       'sew two things together'
+  SES: Lau          tai           'sew'
+  SES: Arosi        taʔi          'sew, join together'
   cf. also:
-  NNG: Sengseng           sihit              'sew areca palm spathe pouches for lime; barricade a doorway by interlacing vines across'
+  NNG: Sengseng     sihit         'sew areca palm spathe pouches for lime; barricade a doorway by interlacing vines across'
 >
 
 <
 PMP *cukcuk, *suksuk 'skewer' (ACD)
 POc *(su)su(k) 'anything used to pierce, prick ' (cf. Ch. 9, §4. 1)
-  NNG: Gitua              zuzu               'sharpened stick used like cooking fork'
-  PT:  Motu               dudu               'prod with a stick'
-  MM:    Nakanai         susu(tola)        'pierce the footprint (kind of sorcery)'
-  SES:   Gela            susu(ihu)         'hole in septum in nose; nose stick; strengthening sticks through thatch of house ridge' (_ihu_ 'nose')
-  SES:   Lau             susu              (V) 'point, prick, impale, pierce, poke out with a stick, sting, darn'
-  NCV: Mota              sus               'pierce, run through '
-  Fij : Rotuman          susu              ? 'sew, prick'
+  NNG: Gitua      zuzu           'sharpened stick used like cooking fork'
+  PT:  Motu       dudu           'prod with a stick'
+  MM:  Nakanai    susu(tola)     'pierce the footprint (kind of sorcery)'
+  SES: Gela       susu(ihu)      'hole in septum in nose; nose stick; strengthening sticks through thatch of house ridge' (_ihu_ 'nose')
+  SES: Lau        susu           (V) 'point, prick, impale, pierce, poke out with a stick, sting, darn'
+  NCV: Mota       sus            'pierce, run through '
+  Fij: Rotuman    susu           ? 'sew, prick'
 >
 
                                                                    Household artefacts           87
 
 
     In the following set there may be some blending of meaning between two formally close
-terms, POc *s(u,i)ri 'pierce, poke' (Ch. 9, §4. 1) and POc *suRi 'bone', because needles were
+terms, POc _*s(u,i)ri_ 'pierce, poke' (Ch. 9, §4. 1) and POc _*suRi_ 'bone', because needles were
 at times made from bones (of bird or flying fox or occasionally pig).
 
 <
-POc *(su)suRi 'bone (needle); sew' (cf. POc *suRi 'bone')
-  Adm:   Mussau          sui               'sew (mats), thatch'
-  MM:    Roviana         susuri(na)        'bone'
-  SES:   Sa'a            suli(teru)        'bone needle' (_suli_ 'bone')
-  SES:   Arosi           suri(ao)          'needle for sewing thatch' (_suri-suri_ 'bone', _ao_ 'sago palm ')
-  NCV: Mota              su-sur            'sew, prick'
+POc *(su)suRi 'bone (needle); sew' (cf. POc _*suRi_ 'bone')
+  Adm: Mussau          sui               'sew (mats), thatch'
+  MM:  Roviana         susuri(na)        'bone'
+  SES: Sa'a            suli(teru)        'bone needle' (_suli_ 'bone')
+  SES: Arosi           suri(ao)          'needle for sewing thatch' (_suri-suri_ 'bone', _ao_ 'sago palm ')
+  NCV: Mota            su-sur            'sew, prick'
 >
 
 
-   The following term for needle, POc *saRum, evidently had specific reference to a tattooing
+   The following term for needle, POc _*saRum_, evidently had specific reference to a tattooing
 needle, in addition to a more general meaning.
 
 <
 PMP *zaRum 'needle' (Dempwolff 1938)
 POc *saRum 'needle, tattooing needle' (typically made from wing-bone of flying fox)
-  Adm: Mussau       raum                   'needle'
-  Adm: Lou          sou-                   'needle'
-  NNG: Lukep (Pono) sar                    'needle (traditionally made of bat bone or fish bone)'
-  MM:    Nakanai         salu              'needle or awl'
-  SES:   Arosi           taru              'bat's bone for tattooing'
-  SES:   'Are'are        taru(a)           'needle, the bones of a flying fox'
-  Fij:   Bauan           sau               (v) 'prick, as in tattooing'
-  Fij:   Bauan           (i)sau            'needle' (i- < POc *i- INS)
-  Pn:    Tongan          hau               'thin dagger, like a giant needle, used in spearing bonito'
-  Pn:    Samoan          au                'needle, tattooing comb'
-  Pn:    Tokelauan       au                'needle for sewing thatch; tattooing comb'
+  Adm: Mussau        raum              'needle'
+  Adm: Lou           sou-              'needle'
+  NNG: Lukep (Pono)  sar               'needle (traditionally made of bat bone or fish bone)'
+  MM:  Nakanai       salu              'needle or awl'
+  SES: Arosi         taru              'bat's bone for tattooing'
+  SES: 'Are'are      taru(a)           'needle, the bones of a flying fox'
+  Fij: Bauan         sau               (v) 'prick, as in tattooing'
+  Fij: Bauan         (i)sau            'needle' (i- < POc *i- INS)
+  Pn:  Tongan        hau               'thin dagger, like a giant needle, used in spearing bonito'
+  Pn:  Samoan        au                'needle, tattooing comb'
+  Pn:  Tokelauan     au                'needle for sewing thatch; tattooing comb'
 >
 
 4.4 Tools
@@ -4142,29 +4138,28 @@ stone.
 88 Meredith Osmond and Malcolm Ross
 
 
-Figure 10: POc *kiRam 'stone adze, axe', POc *matau 'axe', POc *taku,
-                                 POc *taRa(q) 'adze'
+Figure 10: POc _*kiRam_ 'stone adze, axe', POc _*matau_ 'axe', POc _*taku_, POc _*taRa(q)_ 'adze'
 
 <
 PMP *kiRam 'axe or adze' (ACD)
 POc *kiRam 'stone adze, axe' (Milke 1968)
- Adm: Mussau             iema               'knife'
- NNG: Manam              kira               'stone axe, axe blade'
- PT:  Gumawana           kiyama             'axe'
- PT:  Molima             ilama              'stone axe'
- PT:  Motu               ira                'hatchet; adze'
- PT:  Dobu               ila                'stone axe'
- MM: Vitu                kira               'axe'
- MM: Label               iram               'axe'
- MM: Tolai               riam                'the original stone (basalt) tomahawk ' (metathesis)
+ Adm: Mussau             iema            'knife'
+ NNG: Manam              kira            'stone axe, axe blade'
+ PT:  Gumawana           kiyama          'axe'
+ PT:  Molima             ilama           'stone axe'
+ PT:  Motu               ira             'hatchet; adze'
+ PT:  Dobu               ila             'stone axe'
+ MM:  Vitu               kira            'axe'
+ MM:  Label              iram            'axe'
+ MM:  Tolai              riam            'the original stone (basalt) tomahawk ' (metathesis)
  SES: Gela               gila
- SES: Kwaio              ʔila              'flint, flint tool'
+ SES: Kwaio              ʔila            'flint, flint tool'
  SES: Arosi              ʔira
- NCV: South Efate        karam              'axe'
- SV:  Lenakel            (ka)kil            'sharpened stick (used as adze, digging stick +)'
- Mic: Ponapean           ki                 'shell adze'
-    Fij :    Rotuman             ʔia             'axe'
-    Fij:     Wayan               kia             'axe or adze'
+ NCV: South Efate        karam           'axe'
+ SV:  Lenakel            (ka)kil         'sharpened stick (used as adze, digging stick +)'
+ Mic: Ponapean           ki              'shell adze'
+ Fij: Rotuman            ʔia             'axe'
+ Fij: Wayan              kia             'axe or adze'
 >
 
                                                                           Household artefacts      89
@@ -4175,16 +4170,16 @@ cognate set. All three languages are Samoic Outliers.
 
 <
 POc *matau 'axe'
-    Adm: Loniu                   motow           'k.o. knife or cutting tool'
-    NNG: Lukep (Pono)            matau
-    MM: Lihir                    matau
-    MM : Patpatar               matau
-    SES: Tolo                    matau           'stone axe'
-    Fij:  Bauan                  matau           'native adze made of stone'
-    Pn:   Samoan                 matau           'adze, axe'
-    Pn:   Luangiua               matau           'tattooing chisel'
-    Pn:   Tikopia                matāu           'tattooer's serrated chisel of bird-bone'
-    Pn:   Anutan                 matau           'tattooing chisel'
+    Adm: Loniu                  motow           'k.o. knife or cutting tool'
+    NNG: Lukep (Pono)           matau
+    MM:  Lihir                  matau
+    MM:  Patpatar               matau
+    SES: Tolo                   matau           'stone axe'
+    Fij: Bauan                  matau           'native adze made of stone'
+    Pn:  Samoan                 matau           'adze, axe'
+    Pn:  Luangiua               matau           'tattooing chisel'
+    Pn:  Tikopia                matāu           'tattooer's serrated chisel of bird-bone'
+    Pn:  Anutan                 matau           'tattooing chisel'
 >
 
 <
