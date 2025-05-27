@@ -8,31 +8,31 @@ Map 2: Geographic limits of historically known Oceanic speakers and of presently
 
 1.1 Aims
 
-                          This is the first of a set of five volumes bringing together the results of recent work on the
-                       lexicon of the Proto Oceanic (POc) language.[1] Volume 1 deals with material culture, volume
-                       2 with the physical world including landscape and conceptions of location, meteorology,
-                       astronomy and time, volume 3 with flora and fauna, volume 4 with terminologies centring on
-                       human beings, including the body and basic human conditions and activities, and social
-                       organisation, and volume 5 with grammatical (closed) categories including adjectives, pronouns,
-                       and number. Volume 5, as it is planned at the time of writing, will also include an index to
-                       the POc and other reconstructions presented in the whole work, as well as an English-to-POc
-                       finderlist and a list of all languages cited, together with their subgroups.
+   This is the first of a set of five volumes bringing together the results of recent work on the
+lexicon of the Proto Oceanic (POc) language.[1] Volume 1 deals with material culture, volume
+2 with the physical world including landscape and conceptions of location, meteorology,
+astronomy and time, volume 3 with flora and fauna, volume 4 with terminologies centring on
+human beings, including the body and basic human conditions and activities, and social
+organisation, and volume 5 with grammatical (closed) categories including adjectives, pronouns,
+and number. Volume 5, as it is planned at the time of writing, will also include an index to
+the POc and other reconstructions presented in the whole work, as well as an English-to-POc
+finderlist and a list of all languages cited, together with their subgroups.
 
-                          Proto Oceanic is the immediate ancestor of the Oceanic subgroup of the Austronesian
-                       language family (see Map 1). This subgroup consists of all the Austronesian languages of
-                       Melanesia east of 136 'E, together with those of Polynesia and (with two exceptions) those of
-                       Micronesia-more than 450 languages in all.[2] Extensive arguments for the existence of
-                       Oceanic as a clearly demarcated branch of Austronesian were first put forward by Otto
-                       Dempwolff in the 1920s (cf. Ch. 2, §2.4) and the validity of the subgroup is now recognised
-                       by virtually all scholars working in Austronesian historical linguistics.
+   Proto Oceanic is the immediate ancestor of the Oceanic subgroup of the Austronesian
+language family (see Map 1). This subgroup consists of all the Austronesian languages of
+Melanesia east of 136 'E, together with those of Polynesia and (with two exceptions) those of
+Micronesia-more than 450 languages in all.[2] Extensive arguments for the existence of
+Oceanic as a clearly demarcated branch of Austronesian were first put forward by Otto
+Dempwolff in the 1920s (cf. Ch. 2, §2.4) and the validity of the subgroup is now recognised
+by virtually all scholars working in Austronesian historical linguistics.
 
-                          The development and break-up of the POc language and speech community were stages in
-                       a truly remarkable chapter in human prehistory-the colonisation by Austronesian speakers
-                       of the Indo-Pacific region in the period after about 3000 BC. The outcome was the largest of
-                       the world's well-established language families and (until the expansion of Indo-European
-                       after Columbus) the most widespread. The Austronesian family comprises around 1,000
-                       distinct languages. Its eastern and western outliers, Madagascar and Easter Island, are two-thirds
-                       of a world apart, and its northernmost extensions, Hawaii and Taiwan, are separated by 70
+   The development and break-up of the POc language and speech community were stages in
+a truly remarkable chapter in human prehistory-the colonisation by Austronesian speakers
+of the Indo-Pacific region in the period after about 3000 BC. The outcome was the largest of
+the world's well-established language families and (until the expansion of Indo-European
+after Columbus) the most widespread. The Austronesian family comprises around 1,000
+distinct languages. Its eastern and western outliers, Madagascar and Easter Island, are two-thirds
+of a world apart, and its northernmost extensions, Hawaii and Taiwan, are separated by 70
 degrees of latitude from its southernmost outpost, Stewart Island in New Zealand.
 
 2   Malcolm Ross, Andrew Pawley and Meredith Osmond
@@ -58,11 +58,11 @@ should also be a rich source of data for various kinds of purely linguistic rese
 semantic change and subgrouping in the more than 400 daughter languages.
 
 [1] The project has been jointly directed by Andrew Pawley and Malcolm Ross, with research assistance from
-                                Meredith Osmond, in the Department of Linguistics, Research School of Pacific and Asian Studies at the
-                                Australian National University.
+Meredith Osmond, in the Department of Linguistics, Research School of Pacific and Asian Studies at the
+Australian National University.
 
 [2] The listing in Tryon ed. (1995) contains 466 Oceanic languages, many of which are subdivisible into
-                                dialects.
+dialects.
 
 [3] For accounts of this colonisation from archaeological and linguistic viewpoints respectively, see Bellwood
     (1978, 1987), Green (1979), Kirch (1997), Kirch and Hunt (1988), Pawley and Ross (1995), and Spriggs
@@ -1943,7 +1943,7 @@ factors.
 
                                                   Architecturalforms and settlement patterns                     41
 
-    Our strategy, since the mid- 1960s, has been to seek detailed, systematic points of connection
+    Our strategy, since the mid-1960s, has been to seek detailed, systematic points of connection
 between particular prehistoric cultures and cultural sequences in the Pacific I slands, as defined
 by archaeology and historical linguistics, respectively, always with an eye on the comparative
 ethnology.[5] The islands of the Polynesian Triangle, settled so late in human history, have been
@@ -1954,9 +1954,9 @@ Near Oceania by Austronesian speakers preceded the first Austronesian settlement
 Oceania by only a few hundred years.
 
     Between 1500 and 1000 BC variants of a culture known as Lapita appear in the
-archaeological record across a wide belt in the Southwest and Central Pacific (Allen &
-Gosden 1991, Galipaud 1992, Green 1967, 1979, 1994a, Kirch & Hunt 1988, Spriggs
-1990, 1995, 1996; see Map 5). The chief markers of Lapita sites are well-made earthenware
+archaeological record across a wide belt in the Southwest and Central Pacific (Allen & Gosden 1991, 
+Galipaud 1992, Green 1967, 1979, 1994a, Kirch & Hunt 1988, Spriggs 1990, 1995, 1996; see Map 5). 
+The chief markers of Lapita sites are well-made earthenware
 with a characteristic variety of vessel shapes, with some vessels decorated by very distinctive,
 elaborate dentate-stamped geometric motifs. Lapita pottery is usually associated with other
 features. Settlements are in the hamlet-to-village range and nearly always situated on small
@@ -1975,7 +1975,7 @@ these lack the complex decorative style characteristic of Lapita. In the Bismarc
 Lapita pottery style is known as Early or Far Western Lapita. After 1200 BC it was replaced
 in that region by a style, known as Western Lapita, with modified vessel forms and decorative
 patterns which continued in some sites up till about 500 BC. A slightly modified form of
-Western Lapita pottery was present in sites in Santa Cruz, Vanuatu and New Caledonia by 1200 Be.
+Western Lapita pottery was present in sites in Santa Cruz, Vanuatu and New Caledonia by 1200 BC.
 By 1200- 1000 BC another variant, known as Eastern Lapita, appears in Fiji,
 Tonga and Samoa.
 
@@ -2066,7 +2066,7 @@ Goodenough Island in the D'Entrecasteaux group were, by Austronesian standards, 
 modest structures, smaller and less elaborately constructed than the grander houses of many
 regions. Yet they exhibit most of the basic structural features of dwelling houses among the
 coastal Austronesian-speaking peoples living throughout the New Guinea area. The following
-description (cited in Young 1993 : 182) applies to the early contact period of 1911 - 12.
+description (cited in Young 1993 : 182) applies to the early contact period of 1911-12.
 
                                             Architecturalforms and settlement patterns                   45
 
@@ -2090,7 +2090,7 @@ description (cited in Young 1993 : 182) applies to the early contact period of 1
 |   sleep on, but this is not very common .
 |        ... A medium sized hut that we measured had a front of 22' 6" (6.9 m) and a depth of 26'
 |   (8 m). The platform, which extended 6' (1 .8 m) outwards from the floor, was 5' (1 .5 m) above
-|   the ground, and the height of the room inside from floor to ridge-pole was only 4' 8" (1 .4 m)
+|   the ground, and the height of the room inside from floor to ridge-pole was only 4' 8" (1.4 m)
 |   (Jenness & Ballantyne 1920: 182-183).
 
    In his overview of domicile arrangements in Island Melanesia, Oliver (1989:333) chose a
@@ -2101,7 +2101,7 @@ the region, and his objective in setting up a model to characterise most communi
 selection of Baegu is, one would believe, no accident. And it suits well the need for a general
 ethnographic guideline within which to work.
 
-   Baegu communities consist of one or more /era (or hamlets) (Ross 1973). Although/era
+   Baegu communities consist of one or more _fera_ (or hamlets) (Ross 1973). Although _fera_
 "had no visible boundaries and little symbolic identity, they remained more or less localised
 and were distinctly perceptible in terms of social interactions of the members". Baegu local
 communities become more 'solidary' under the influence of 'focal' men, clan seniors and
@@ -2109,16 +2109,15 @@ priests whose statuses were ascribed by birth, and feast givers and war leaders 
 were achieved.
 
    Note also the gender arrangements and symbolic structures of relations within and without
-the /era, shown in Figure 2. Strikingly similar parallelism of inside-outside structural relations,
+the _fera_, shown in Figure 2. Strikingly similar parallelism of inside-outside structural relations,
 physical and symbolic, were noted by Goodenough (1983) for Malekula and the Polynesian
 marae and by Green (1986 :54) for a Kwaio settlement in relation to Polynesian settlements.
 
 46       Roger Green and Andrew Pawley
 
-Figure 2: Typical Baegu (Malaita, Solomon Islands) dwelling and community layout
-                                         (from Oliver 1989:335)
-        (Baegu terms are luma 'dwelling house, laiD 'women's sleeping quarters', beu 'men's house',
-                                           bisi 'menstrual hut')
+Figure 2: Typical Baegu (Malaita, Solomon Islands) dwelling and community layout (from Oliver 1989:335)
+        (Baegu terms are _luma_ 'dwelling house, _lalo_ 'women's sleeping quarters', _beu_ 'men's house',
+        _bisi_ 'menstrual hut')
 
                                         Architecturalforms and settlement patterns          47
 
@@ -2126,8 +2125,8 @@ Figure 2: Typical Baegu (Malaita, Solomon Islands) dwelling and community layout
 3.2.1 Dwelling house architecture
 
    Most Oceanic-speaking societies distinguish by name more than one design of dwelling
-house. Arosi speakers, of San Cristobal in the Solomons, for instance, first distinguish ruma
-'a house, oblong in shape' from hare 'a shed for yams, a house with roof thatched on one side
+house. Arosi speakers, of San Cristobal in the Solomons, for instance, first distinguish _ruma_
+'a house, oblong in shape' from _hare_ 'a shed for yams, a house with roof thatched on one side
 only, a shrine (a small house on poles)' and then distinguish at least the following kinds of
 _ruma_ (Fox 1978):
 
@@ -2146,13 +2145,18 @@ and non-Austronesian speakers in Melanesia? It is hazardous to generalise -in th
 individual societies in Melanesia show considerable variation and in certain regions there has
 been much cultural influence across linguistic boundaries. But if we exclude the most
 problematic cases, the following generalisations about non-Austronesian societies seem to
-apply rather widely. (1) There is a preference for inland settlements. (2) Main dwelling
-houses are built on the ground, not on piles. (3) Houses are relatively small and lack a high,
-gabled roof requiring strong crossbeams and centre-posts. Instead, the roof is relatively low
-and flat or domed with the support of centre poles. (4) Timbers are lashed, and seldom
-secured by wooden pins or pegs. (5) There is no projecting gable. (6) There is no porch or
-raised open platform outside the room. (7) There is often a men's house. (8) Boat houses are
-absent. (10) Stone heated ovens, including earth ovens, are made close to the dwellings.
+apply rather widely. 
+
+__ol__
+(1) There is a preference for inland settlements. 
+(2) Main dwelling houses are built on the ground, not on piles. 
+(3) Houses are relatively small and lack a high, gabled roof requiring strong crossbeams and centre-posts. Instead, the roof is relatively low and flat or domed with the support of centre poles. 
+(4) Timbers are lashed, and seldom secured by wooden pins or pegs. 
+(5) There is no projecting gable. 
+(6) There is no porch or raised open platform outside the room. 
+(7) There is often a men's house. 
+(8) Boat houses are absent. 
+(10) Stone heated ovens, including earth ovens, are made close to the dwellings.
 
    The ethnological evidence suggests various questions for culture history. Can we show by
 linguistic or archaeological evidence that these features were part of the settlement patterns
@@ -2185,15 +2189,14 @@ fairly well-defined subgroups confined to particular island groups of Remote Oce
     There are two prominent exceptions to this prevalence of geographically compact major
 subgroups. Each of the Polynesian and Nuclear Micronesian groups is spread over a number
 of far-flung archipelagos. The many innovations defining the Polynesian subgroup indicate a
-long pause, probably on the order of 1 ,000 years, in a compact area before dispersal (Clark
- 1979, Pawley 1996a). From the internal subgrouping of Polynesian one can deduce that this
+long pause, probably on the order of 1,000 years, in a compact area before dispersal 
+(Clark 1979, Pawley 1996a). From the internal subgrouping of Polynesian one can deduce that this
 'homeland' was in the Tonga-Samoa area (Green 1966, 1981). Evidence for a period of
 common development uniting the Polynesian subgroup with the Fijian languages and Rotuman
 (Geraghty 1983, 1986, Pawley 1996a) is consistent with this view, as is the archaeological
 evidence for the Fiji-West Polynesia region (Green 1981, Kirch & Green 1987). The internal
-structure of the Nuclear Micronesian subgroup, as defined by Bender (1971) and Jackson
-(1983), suggests an initial dispersal centre somewhere in the eastern half of Micronesia.
-
+structure of the Nuclear Micronesian subgroup, as defined by Bender (1971) and Jackson (1983), 
+suggests an initial dispersal centre somewhere in the eastern half of Micronesia.
 
 
 3.3.2 Lexical reconstructions
@@ -2206,29 +2209,28 @@ those etyma that are definitely or possibly attributable to Proto Oceanic, notin
 others that have considerable antiquity but cannot be reconstructed for Proto Oceanic.
 
 
-
 3.3.3 Kinds of buildings
 
    Blust (1987) compared four widely distributed cognate sets whose members generally
-name types of domestic buildings. He attributed the reconstruction *Rumaq 'dwelling house'
-to both PAn and PMP but could reconstruct the terms *balay, *kamaliR and *lepaw only as
+name types of domestic buildings. He attributed the reconstruction _*Rumaq_ 'dwelling house'
+to both PAn and PMP but could reconstruct the terms _*balay_, _*kamaliR_ and _*lepaw_ only as
 far back as PMP, tentatively attributing to them the respective senses of 'public building',
-'men's house' and 'granary ' . His formal reconstructions are secure but the semantic
-reconstructions for the last three forms are somewhat problematic. *lepaw is not known to
+'men's house' and 'granary'. His formal reconstructions are secure but the semantic
+reconstructions for the last three forms are somewhat problematic. _*lepaw_ is not known to
 have Oceanic reflexes. The other three terms are all reflected in a number of Oceanic
-subgroups and therefore must be attributed to POco Let us briefly review the lexical
+subgroups and therefore must be attributed to POc. Let us briefly review the lexical
 reconstructions and supporting data.
 
 <
 PAn *Rumaq 'dwelling house' (Blust 1987)
 POc *Rumaq 'house'
-  Adm: Lou                um
-  NNG: Arawe              a-rumuk           'village'
- NNG: Vehes               ɣumak
+ Adm: Lou                um
+ NNG: Arawe              a-rumuk           'village'
+ NNG: Vehes              ɣumak
  PT:   Motu              ruma
  MM: Bali                rumaka
  MM: Petats              luma
- SES: Lau                luma               'family house'
+ SES: Lau                luma              'family house'
  SES: Arosi              ruma
  NCV: Mota               ima
  NCV : Tasiriki          ima
@@ -2257,31 +2259,31 @@ lacking in Oceania.
 <
 PMP *balay 'open-sided building'
 POc *pale 'open-sided building'
- Adm: Mussau             ale               'house'
- Adm: Lou                pal               'canoe hut'
- NNG: Bebeli             bele              'house'
- NNG: Yabem              ale               'house'
- NNG: Lukep (Pono)       para              'yam house'
- MM: Tolai               pal               'house'
- MM: Tangga              pal               'small house or shed, canoe shed, storehouse for gifts of food'
-  MM:    Mono-Alu         hale-hale        'public building'
-  SES:   Arosi            hare             'shed for yams' (E. dialect); 'house with one side of roof only, made in garden' (W. dialect); 'a shrine, small house on poles' (= _hare ni asi_)
-  SES:   Bauro            hare             'canoe house, men's house'
-  SES:   'Are'are         hare             'house of retirement for women during menstruation and after childbirth'
-  SES:   Sa'a             hale             'house built near a garden for temporary storage of produce'
-  SES:   Kwaio           fale              'hut for childbirth'
-  SES:   Bugotu          vaðe              'house, building' (cf. _vaðe babale_ 'shed')
- SES:        Gela          vale            'house'
- Mic:        Woleaian      pal             'menstrual hut'
- Fij:        Wayan         vale            'underwater hole in rocks inhabited by a fish or other sea creature'
- Fij:        Bauan         vale            'house, building'
- Pn:         Samoan        fale             'house'
- Pn:         Hawaiian      hale            'house'
+ Adm: Mussau        ale             'house'
+ Adm: Lou           pal             'canoe hut'
+ NNG: Bebeli        bele            'house'
+ NNG: Yabem         ale             'house'
+ NNG: Lukep (Pono)  para            'yam house'
+ MM:  Tolai         pal             'house'
+ MM:  Tangga        pal             'small house or shed, canoe shed, storehouse for gifts of food'
+ MM:  Mono-Alu      hale-hale       'public building'
+ SES: Arosi         hare            'shed for yams' (E. dialect); 'house with one side of roof only, made in garden' (W. dialect); 'a shrine, small house on poles' (= _hare ni asi_)
+ SES: Bauro         hare            'canoe house, men's house'
+ SES: 'Are'are      hare            'house of retirement for women during menstruation and after childbirth'
+ SES: Sa'a          hale            'house built near a garden for temporary storage of produce'
+ SES: Kwaio         fale            'hut for childbirth'
+ SES: Bugotu        vaðe            'house, building' (cf. _vaðe babale_ 'shed')
+ SES: Gela          vale            'house'
+ Mic: Woleaian      pal             'menstrual hut'
+ Fij: Wayan         vale            'underwater hole in rocks inhabited by a fish or other sea creature'
+ Fij: Bauan         vale            'house, building'
+ Pn:  Samoan        fale            'house'
+ Pn:  Hawaiian      hale            'house'
 >
 
-   Blust (1987) glosses PMP _*balay_ as 'public building'. However, Waterson (1993 :222)
+   Blust (1987) glosses PMP _*balay_ as 'public building'. However, Waterson (1993: 222)
 observes that 'public buildings' traditionally are absent in many Southeast Asian societies.
-Her architectural survey of Island Southeast Asia leads her to say (1993 :222-223) that
+Her architectural survey of Island Southeast Asia leads her to say (1993: 222-223) that
 reflexes of PMP _*balay_ encompass architectural forms with two predominant meanings,
 'unwalled building' and 'a meeting hall'. (It is not strictly accurate to speak of just two
 predominant meanings because, in the Philippines, _*balay_ reflexes have generally usurped
@@ -2291,12 +2293,12 @@ _*Rumaq_ as the ordinary term for the main domestic building.)
 probably as a generic for open-sided buildings, whether crudely or well built, whether used
 for private or public use and whether sited in the main settlement or elsewhere. This semantic
 reconstruction has two virtues. First, it is consistent with the widely distributed reflexes of
-*balay (often occurring with modifiers) that refer to kinds of buildings with sides open or
+_*balay_ (often occurring with modifiers) that refer to kinds of buildings with sides open or
 partly open (e.g. yam sheds, garden shelters, canoe houses, shrines or god houses, public
 buildings) without commitment to any one function or type. Second, it provides a social
 motivation for the semantic shift to 'house, main domestic dwelling' that has occurred
 independently in a number of branches of Malayo-Polynesian -namely, that _*balay_ named a
-type of building of lower prestige than _*Rumaq_, and, as such, *balay was an appropriately
+type of building of lower prestige than _*Rumaq_, and, as such, _*balay_ was an appropriately
 modest or humorous term to call one's own house. In some cases this secondary sense
 became the primary one.
 
@@ -2324,21 +2326,21 @@ Unlike PMP speakers, the POc speech community did not cultivate grain crops and 
 possible that in POc some communal social function associated with the building called
 _*kamali(R)_ became central.
 
-   Blust (1987:97, 101) associates the meaning 'granary' with another PMP term, _*lepaw_.
+   Blust (1987: 97, 101) associates the meaning 'granary' with another PMP term, _*lepaw_.
 Only one WMP and one CMP witness among the seven that he cites for this cognate set
-exhibit reflexes of _*lepaw_ with the meaning 'storehouse for grain '. Why then does Blust
+exhibit reflexes of _*lepaw_ with the meaning 'storehouse for grain'. Why then does Blust
 favour it? The main reason is his judgment that this reconstruction makes the best sense of
 the overall data, i.e. of the range and distribution of meanings in the several cognate sets
 whose members typically denote some sort of domestic building. In particular, there are
-much stronger candidates than *lepaw for the meaning 'dwelling house' (namely, _*Rumaq_
+much stronger candidates than _*lepaw_ for the meaning 'dwelling house' (namely, _*Rumaq_
 and _*balay_) but not for the meaning 'granary'. But in our view PMP _*kamaliR_ has at least as
 strong a claim as _*lepaw_ to be glossed 'granary'. In any case, the range of meanings exhibited
 by reflexes of _*lepaw_ in Blust's list is not confined to 'house' and 'granary', but also includes
 'hut or building other than a longhouse', 'back verandah or kitchen', 'booth or shop'. If we go
 beyond Blust's data we may note also Ilokano _lapaw_ 'hut, shanty, not necessarily having
-walls, used e.g. as a temporary shelter or a poor family'S dwelling', Lahanan _lepau_ 'farmhouse',
-Kenyah lepau 'field hut', Kayan _lepo_ 'single family farmhouse'. Our preference is to leave
-the gloss of PMP _*lepaw_ uncertain while agreeing with Fox (1993 : 11) that it might well have
+walls, used e.g. as a temporary shelter or a poor family's dwelling', Lahanan _lepau_ 'farmhouse',
+Kenyah _lepau_ 'field hut', Kayan _lepo_ 'single family farmhouse'. Our preference is to leave
+the gloss of PMP _*lepaw_ uncertain while agreeing with Fox (1993: 11) that it might well have
 been used for an 'alternative dwelling', a lesser kind of house or shack that could be used for
 a variety of purposes -not only as a makeshift house but as a lodge for hunting, gardening,
 or as a store house.
@@ -2392,28 +2394,26 @@ and Polynesia. The shift to solely ground-level houses seems to have taken place
 Remote Oceania, but perhaps began in the Southeast Solomons. There, and in Fiji and much
 of Polynesia, houses are built on mounds or platforms of earth or coral rubble, faced with
 stones. The height of the mound at times correlates with status: chiefs in Fiji have higher
-mounds (but not in Samoa; see Davidson 1969). In Eastern Polynesia the meaning of *apu
+mounds (but not in Samoa; see Davidson 1969). In Eastern Polynesia the meaning of _*apu_
 changed. In several regions the term was applied to (often very elaborate) sacred platforms,
 on which offerings and sacrifices to the gods were presented.
 
 52      Roger Green and Andrew Pawley
 
-Figure 3a: POc *Rumaq 'house'
-     POc *qatop 'thatch, roof', POc *kataman 'doorway', POc *tete 'ladder or log bridge',
-                            POc *gabʷari 'area underneath house'
+Figure 3a: POc _*Rumaq_ 'house'  POc _*qatop_ 'thatch, roof', POc _*kataman_ 'doorway', POc _*tete_ 'ladder or log bridge', POc _*gabʷari_ 'area underneath house'
 
 <
 POc *kataman 'entrance to house, doorway'
- Adm: Mussau              katamana
- NNG: Kove                atama
- NNG: Yabem               katam
- PT:  Gumawana            kaitamana         'steps of house '
- PT:  Dobu                ʔataman          'centre of a village'
-  MM: Vitu               ɣatama            'doorpost'
-  MM: Halia (Haku)       tamana
-  SES: 'Are'are          mana              'hole, opening, outlet, doorway'
-  NCV: Marino             ɣatama            'door'
-  Mic: Woleaian          gatama
+ Adm: Mussau            katamana
+ NNG: Kove              atama
+ NNG: Yabem             katam
+ PT:  Gumawana          kaitamana        'steps of house '
+ PT:  Dobu              ʔataman          'centre of a village'
+ MM:  Vitu              ɣatama           'doorpost'
+ MM:  Halia (Haku)      tamana
+ SES: 'Are'are          mana             'hole, opening, outlet, doorway'
+ NCV: Marino            ɣatama           'door'
+ Mic: Woleaian          gatama
 >
 
 _*kataman_ probably referred to an entrance with its wooden framework. From ethnographic
@@ -2423,14 +2423,11 @@ probably blocked off by a barricade.
                                         Architecturalforms and settlement patterns         53
 
 
-Figure 3b: POc *Rumaq 'house'
-POc *pup uŋ-an 'ridgepole', POc *kaso 'rafter', POc *aRiRi 'post', POc *turu(s) 'post', POc
-   *bou 'main bearers supporting raised floor/roof or centre post supporting ridgepole,
-                        POc *soko(r) 'bracing timber, crossbeam'
+Figure 3b: POc _*Rumaq_ 'house', POc _*pupuŋ-an_ 'ridgepole', POc _*kaso_ 'rafter', POc _*aRiRi_ 'post', POc _*turu(s)_ 'post', POc _*bou_ 'main bearers supporting raised floor/roof or centre post supporting ridgepole, POc _*soko(r)_ 'bracing timber, crossbeam'
 
    The following group of ten cognate sets indicate that early Austronesian dwelling houses
 were built with a robust and fairly heavy superstructure, including ridgepole, thatched roof,
-rafters and crossbeams. Those sets indicating POc *pup uŋ-an 'ridgepole ' and POc *qatop
+rafters and crossbeams. Those sets indicating POc _*pupuŋ-an_ 'ridgepole' and POc _*qatop_
 'thatch, roof' are consistent with ethnographic evidence indicating that gabled houses with a
 ridgepole supporting a thatched, probably two-section roof were built by both PMP and POc
 speakers.
@@ -2439,20 +2436,20 @@ speakers.
 PMP *bubuŋ (Dempwolff 1938, Zorc 1994) 'ridgepole, ridge of the roof'
 PMP *buhuŋbuhuŋ (Blust 1972b) 'ridgepole, ridge of the roof'
 POc *pupuŋ-an 'ridgepole' (Blust 1983-84a)
- Adm: Mussau            puŋana
- NNG: Takia             fuŋ, fuŋan      'roof top'
- NNG: Numbami           bomboaŋa
- PT:  Misima            ponan
- MM: Sursurunga         puŋan            'cover ridgepole with grass'
- MM: Halia (Haku)       puŋana           'thatch'
- SES:         Gela         vuvuŋa
- SES:         Arosi        (abʷa)huŋa      'the ridge of a house'
- SES:         Arosi        hunga-           'roof top, centre-post of a round house'
- Mic:         Carolinian   ūŋ-wūŋ         'large pole of traditional house'
- Pn:          Tongan       (toʔu)fufu       'inner ridge-pole'
- Pn:          E. Futunan   (taʔo)fufu
- Pn:          Maori        (tā)huhu
- Pn:          Emae         (tā)fufu
+ Adm: Mussau         puŋana
+ NNG: Takia          fuŋ, fuŋan     'roof top'
+ NNG: Numbami        bomboaŋa
+ PT:  Misima         ponan
+ MM:  Sursurunga     puŋan          'cover ridgepole with grass'
+ MM:  Halia (Haku)   puŋana         'thatch'
+ SES: Gela           vuvuŋa
+ SES: Arosi          (abʷa)huŋa     'the ridge of a house'
+ SES: Arosi          hunga-         'roof top, centre-post of a round house'
+ Mic: Carolinian     ūŋ-wūŋ         'large pole of traditional house'
+ Pn:  Tongan         (toʔu)fufu     'inner ridge-pole'
+ Pn:  E. Futunan     (taʔo)fufu
+ Pn:  Maori          (tā)huhu
+ Pn:  Emae           (tā)fufu
 >
 
 54           Roger Green and A ndrew Pawley
@@ -2465,7 +2462,7 @@ POc *qatop 'thatch, roof'
  PT:  Gapapaiwa            katova           'thatch of sago leaves'
  PT:  Dobu                 ʔatoa            'roof, roofing materials'
  PT:  Arifama              atob             'thatch of sewn sago leaves'
- MM: Taiof                 votof            'sago palm; thatch'
+ MM:  Taiof                votof            'sago palm; thatch'
  SES: Gela                 ato              'sago palm; thatch of sago palm'
  SES: W. Guad.             gaso
  SES: Arosi                ao               'sago palm, leaves used for thatching'
@@ -2473,8 +2470,8 @@ POc *qatop 'thatch, roof'
  SES: Sa'a                 saʔo             'sago palm, used for thatching'
  Mic: Kiribati             ato              (N) 'thatch of coconut leaves'
  Mic: Kiribati             ato-             (V) 'thatch a house with ato'
-     Mic:     Mokilese     ɔc
-     Pn:      Tongan       ʔato
+ Mic: Mokilese             ɔc
+ Pn:  Tongan               ʔato
 >
 
    Dutton (1994) has reviewed in detail cognate sets referring to sago palms (PMP _*Rambia_
@@ -2485,18 +2482,18 @@ However, we suggest that 'thatch of sago palm leaves' is too narrow a gloss for 
 and POc _*qatop_. Leaves of other palms (e.g. coconut, nipa) and grass are also widely used as
 thatch. The more general gloss 'thatch, roof' allows for variation in roofing materials.
 
-   A second POc term for thatch is reconstructable, namely *rau(n), whose primary sense
+   A second POc term for thatch is reconstructable, namely _*rau(n)_, whose primary sense
 was 'leaf, leaves, foliage'.
 
 <
 PMP *daSun 'leaf'
 POc *rau(n) 'leaf; thatch'
-     NNG: Poeng            lau              'leaf, paper; roof of grass'
-     Mic: Kiribati         rau              'thatch, made of pandanus leaves'
-     Mic: Kiribati         rau-             (V) 'thatch s.t.'
-     Fij :     Bauan       rau              'dry grass or reeds for thatching houses'
-     Pn:       Samoan      lau              'leaf; thatch'
-     Pn:       Maori       rau              'thatch'
+     NNG: Poeng       lau              'leaf, paper; roof of grass'
+     Mic: Kiribati    rau              'thatch, made of pandanus leaves'
+     Mic: Kiribati    rau-             (V) 'thatch s.t.'
+     Fij: Bauan       rau              'dry grass or reeds for thatching houses'
+     Pn:  Samoan      lau              'leaf; thatch'
+     Pn:  Maori       rau              'thatch'
 >
 
                                          Architecturalforms and settlement patterns              55
@@ -2549,35 +2546,35 @@ in POc.
 <
 PMP *turus 'house post'
 POc *turu(s) 'post'
- Adm:     Mussau          tutulu            'house post'
- MM:      Lihir           tultul            'doorpost'
- MM:      Nehan           tur               'side posts'
- NCV :    Mota            tur, turi         'trunk, body, hull'
- NCV :    Mota            tur(saŋa)        'middle posts of a house, with fork on which the ridgepole (_saŋa_) sits'
-  Mic:    Carolinian      ɨr                'main house post'
-  Fij :   Bauan           duru              'post, esp. the shorter posts of a house, on which the wall plates rest'
+ Adm:   Mussau          tutulu           'house post'
+ MM:    Lihir           tultul           'doorpost'
+ MM:    Nehan           tur              'side posts'
+ NCV:   Mota            tur, turi        'trunk, body, hull'
+ NCV:   Mota            tur(saŋa)        'middle posts of a house, with fork on which the ridgepole (_saŋa_) sits'
+ Mic:   Carolinian      ɨr               'main house post'
+ Fij:   Bauan           duru             'post, esp. the shorter posts of a house, on which the wall plates rest'
 >
 
 56       Roger Green and Andrew Pawley
 
 <
 POc *bou '(?) main bearers supporting raised floor or roof structure, or centre post supporting ridgepole'
- PT:      Bwaidoga       fou               'main bearers of a house'
- PT:      Misima         popou             'floor bearers, running from one end of house to the other'
-  SES:    Arosi          boʔu              'the crossbeam or stay in the roof to strengthen the house; sometimes the main-post in the centre rests on this; a cross' (_boʔu_ for expected _bou_)
-  SES:    Kwaio          bou               'house post'
-  Fij:    Wayan          bou               'large posts in centre of a house, supporting the ridgepole'
-  Fij:    Bauan          bou                'main posts in a house'
-  Pn:     Samoan         pou               'house post, pillar'
-  Pn:     Samoan         pou(tū)           'main post'
-  Pn:     Samoan         |pou (lalo)|         'side post'
-  Pn:     Tongan         pou                'post, pillar'
-  Pn:     Tongan         |pou (lalahi)|       'big inner post (of house) on which joists rest'
-  Pn:     Tongan         |pou (fehihi)|       'small outer posts (of house)'
-  cf. also:
-  SES:    Arosi           bou              'seasoned dry wood'
-  SES:    Lau             bou              'seasoned log'
-  SES:    Gela            bou              '(timber) hard or seasoned'
+ PT:  Bwaidoga       fou              'main bearers of a house'
+ PT:  Misima         popou            'floor bearers, running from one end of house to the other'
+ SES: Arosi          boʔu             'the crossbeam or stay in the roof to strengthen the house; sometimes the main-post in the centre rests on this; a cross' (_boʔu_ for expected _bou_)
+ SES: Kwaio          bou              'house post'
+ Fij: Wayan          bou              'large posts in centre of a house, supporting the ridgepole'
+ Fij: Bauan          bou              'main posts in a house'
+ Pn:  Samoan         pou              'house post, pillar'
+ Pn:  Samoan         pou(tū)          'main post'
+ Pn:  Samoan         |pou (lalo)|     'side post'
+ Pn:  Tongan         pou              'post, pillar'
+ Pn:  Tongan         |pou (lalahi)|   'big inner post (of house) on which joists rest'
+ Pn:  Tongan         |pou (fehihi)|   'small outer posts (of house)'
+ cf. also:
+ SES: Arosi          bou              'seasoned dry wood'
+ SES: Lau            bou              'seasoned log'
+ SES: Gela           bou              '(timber) hard or seasoned'
 >
 
    The Papuan Tip (Bwaidoga, Misima) forms point to POc _*pou_, other forms to _*bou_. No
@@ -2587,21 +2584,21 @@ refer to a main weight-bearing post, supporting either the top plates or ridge-p
 POc _*bou_, except in Central Pacific, usually refer to a main bearer supporting the raised
 floor or roof timbers.
 
-   The next term, POc *soka(IJ), evidently referred to any sort of bracing timber in a house or
+   The next term, POc _*soka(r)_, evidently referred to any sort of bracing timber in a house or
 boat.
 
 <
 PMP *seŋkar 'cross-seat in boat, thwart' (Blust 1972b: *soka)
 POc *soka(r) 'bracing timber, crossbeam' (cf. Ch. 7, §2.5)
-  SES:    'Are'are        oka              'cross beam' (irreg. for expected _*toka_)
-  Mic:    Kiribati        oka              'rafter of house going from horizontal beam to ridgepole'
-  Fij:    Bauan           (i)ðoka          'crossbeams in a house' (i- < POc *i INS)
-  Fij:    Bauan           soka             'smaller transversal beams in a house'
-  Pn:     Tongan          hoka             'king post in a Tongan house'
-  Pn:     Samoan          soʔa             'collar beam'
-  Pn:     W. Futunan      soka             'some kind of bracing-timber in a house'
+  SES: 'Are'are        oka          'cross beam' (irreg. for expected _*toka_)
+  Mic: Kiribati        oka          'rafter of house going from horizontal beam to ridgepole'
+  Fij: Bauan           (i)ðoka      'crossbeams in a house' (i- < POc *i INS)
+  Fij: Bauan           soka         'smaller transversal beams in a house'
+  Pn:  Tongan          hoka         'king post in a Tongan house'
+  Pn:  Samoan          soʔa         'collar beam'
+  Pn:  W. Futunan      soka         'some kind of bracing-timber in a house'
   cf. also:
-  NNG: Dami               soko              'roof'
+  NNG: Dami            soko         'roof'
 >
 
                                            Architecturalforms and settlement patterns           57
@@ -2612,18 +2609,18 @@ POc *soka(r) 'bracing timber, crossbeam' (cf. Ch. 7, §2.5)
 
 <
 POc *logi 'partition, partitioned area '
-  NNG: Hote                lok                '(garden) fence; wall of house'
-  Mic: Kiribati            roki              'screen (of mats +); curtain; bathroom; closed with screen' (possibly borrowed from Polynesian)
-  Fij:    Rotuman          loki              'the end of the interior of a house'
-  Fij:    Bauan            logi              'inner or private part of a house, used as a bedroom and for keeping valuables'
-  Pn:     Tongan          loki               'inner room'
-  Pn:     Samoan          loʔi               'inner room'
-  Pn:     Rapa            roki               'irrigated terrace'
-  Pn:     Tahitian        roʔi               'bed'
-  Pn:     Hawaiian        loʔi               'irrigated terrace for taro'
-  Pn:     Tuamotuan       roki               'wall of a temple; bed, couch'
+  NNG: Hote          lok      '(garden) fence; wall of house'
+  Mic: Kiribati      roki     'screen (of mats +); curtain; bathroom; closed with screen' (possibly borrowed from Polynesian)
+  Fij: Rotuman       loki     'the end of the interior of a house'
+  Fij: Bauan         logi     'inner or private part of a house, used as a bedroom and for keeping valuables'
+  Pn:  Tongan        loki     'inner room'
+  Pn:  Samoan        loʔi     'inner room'
+  Pn:  Rapa          roki     'irrigated terrace'
+  Pn:  Tahitian      roʔi     'bed'
+  Pn:  Hawaiian      loʔi     'irrigated terrace for taro'
+  Pn:  Tuamotuan     roki     'wall of a temple; bed, couch'
   cf. also:
-  SES:    Gela            voki               'room, partition in a house'
+  SES: Gela          voki     'room, partition in a house'
 >
 
 The meaning of _*logi_ is not entirely clear. The weight of the ethnographic and linguistic
@@ -3214,8 +3211,8 @@ PMP term.
 <
 PMP *balaŋa 'shallow earthenware cooking pot or pan' (ACD)
 POc *palaŋa 'frying pan'
-  NNG: Bilibil            |(bodi) palan|      'sago frying bowl, made by cutting down a broken pot' (_bodi_ 'cooking pot')
-  NNG: Gedaged            palaŋ            'potsherd, used to render fat and to cook oil; frying pan, shallow roaster'
+  NNG: Bilibil  |(bodi) palan|   'sago frying bowl, made by cutting down a broken pot' (_bodi_ 'cooking pot')
+  NNG: Gedaged  palaŋ            'potsherd, used to render fat and to cook oil; frying pan, shallow roaster'
 >
 
 
