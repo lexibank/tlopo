@@ -7766,40 +7766,40 @@ lists a Nakanai cognate which indicates that the original POc term may have mean
 
 <
 POc *mara 'be spoiled, foul (of food or drink)'
- MM: Nakanai            |mala (gari)|            'not good to drink, of water' (gari 'bite into')
- SES: Kwaio             malā                'be spoiled, foul'
- SES: Lau               marā                'be spoiled, foul'
- NCV: Raga              mara                'preserved breadfruit'
- NCV: Uripiv           na-mer              'preserved breadfruit'
- NCV: Paamese           a-mē               'preserved breadfruit'
- NCV: Tamambo           mara                'preserved breadfruit'
- SV: Anejom             na-marai            'preserved breadfruit'
- Mic: Kosraean          mæer               'core of a preserved breadfruit'
- Mic: Mokilese          mar                 'preserved breadfruit'
- Mic: Trukese           mara-               'preserved breadfruit'
- Mic: Woleaian         māza                'preserved breadfruit'
- Fij:  Rotuman          mara                'preserved starchy food'
- Fij:  Wayan            mara                'stink, be rotten'
- Pn:   Tongan           mā                  'ensilage (for human consumption), usually plantain or banana, stored in pit'
- Pn:    Mele-Fila       mara                'breadfruit, taro or banana preserved by fermenting in a pit'
+ MM:  Nakanai          |mala (gari)|      'not good to drink, of water' (gari 'bite into')
+ SES: Kwaio            malā               'be spoiled, foul'
+ SES: Lau              marā               'be spoiled, foul'
+ NCV: Raga             mara               'preserved breadfruit'
+ NCV: Uripiv           na-mer             'preserved breadfruit'
+ NCV: Paamese          a-mē               'preserved breadfruit'
+ NCV: Tamambo          mara               'preserved breadfruit'
+ SV:  Anejom           na-marai           'preserved breadfruit'
+ Mic: Kosraean         mæer               'core of a preserved breadfruit'
+ Mic: Mokilese         mar                'preserved breadfruit'
+ Mic: Trukese          mara-              'preserved breadfruit'
+ Mic: Woleaian         māza               'preserved breadfruit'
+ Fij: Rotuman          mara               'preserved starchy food'
+ Fij: Wayan            mara               'stink, be rotten'
+ Pn:  Tongan           mā                 'ensilage (for human consumption), usually plantain or banana, stored in pit'
+ Pn:  Mele-Fila        mara               'breadfruit, taro or banana preserved by fermenting in a pit'
 >
 
 <
 POc *madraR 'grow ripe, (breadfruit and bananas) be overripe'
 POc *madraR-i- 'grow ripe, overripe from (s.t.) (?)'
- Adm: Mondropolon       madra-n        'ripe'
- NNG: Bilibil           mad            'ripe'
- MM: Tolai              madar          'ripe, overripe'
- MM: Nakanai            malalaso       'ripe, of fruit such as bananas'
- SES: Gela              mada           'ripe'
- SES: Gela              madari         '(banana +) overripe'
- SES: Arosi             mada           'be ripe'
- SES: Arosi             madari         'grow ripe from'
+ Adm: Mondropolon      madra-n        'ripe'
+ NNG: Bilibil          mad            'ripe'
+ MM:  Tolai            madar          'ripe, overripe'
+ MM:  Nakanai          malalaso       'ripe, of fruit such as bananas'
+ SES: Gela             mada           'ripe'
+ SES: Gela             madari         '(banana +) overripe'
+ SES: Arosi            mada           'be ripe'
+ SES: Arosi            madari         'grow ripe from'
  NCV: Namakir          mada           'preserved breadfruit, manioc +'
  NCV: Nguna            na-madai       'preserved breadfruit, manioc +'
- Mic: Marshallese       mmeṛ          '(breadfruit only) very ripe, overripe'
+ Mic: Marshallese      mmeṛ          '(breadfruit only) very ripe, overripe'
  Fij: Wayan            madra          '(fruit) be very ripe, overripe but still good'
- Fij:  Bauan            madrai         'Fijian bread, rolls/loaves of breadfruit buried in the ground for months'
+ Fij: Bauan            madrai         'Fijian bread, rolls/loaves of breadfruit buried in the ground for months'
 >
 
   Other terms which in parts of Polynesia refer to fermented breadfruit are derived from
@@ -7808,16 +7808,16 @@ POc *maqasin.
 <
 PAn *qasin 'salty' (Zorc 1994)
 POc *ma-qasin 'be salty, sharp, of taste'
- Adm: Mussau            masini              'salty'
- NNG: Sengseng          masi                'tasty, sweet'
- NNG: Gedaged             mas               'salt water; salt'
- MM: Nakanai              ma-masi           'salty; stinging, as salt water in a wound'
- Fij: Rotuman            masi              'salt'
- Fij: Bauan              masi(ma)          'salt obtained by evaporation from seawater'
- Fij: Bauan              masi-masi(a)      'prematurely spoiled by the south wind, of breadfruit'
- Pn:      Tongan          mahi              'sour, astringent'
- Pn:      Samoan          masi              'breadfruit left to ferment in a special pit'
- Pn:      Tahitian        mahi              'acid, fermented; breadfruit preserved by fermenting'
+ Adm: Mussau          masini            'salty'
+ NNG: Sengseng        masi              'tasty, sweet'
+ NNG: Gedaged         mas               'salt water; salt'
+ MM:  Nakanai         ma-masi           'salty; stinging, as salt water in a wound'
+ Fij: Rotuman         masi              'salt'
+ Fij: Bauan           masi(ma)          'salt obtained by evaporation from seawater'
+ Fij: Bauan           masi-masi(a)      'prematurely spoiled by the south wind, of breadfruit'
+ Pn:  Tongan          mahi              'sour, astringent'
+ Pn:  Samoan          masi              'breadfruit left to ferment in a special pit'
+ Pn:  Tahitian        mahi              'acid, fermented; breadfruit preserved by fermenting'
 >
 
 160     Frantisek Lichtenberk and Meredith Osmond
@@ -7829,14 +7829,14 @@ POc *ma-qasin 'be salty, sharp, of taste'
 6.5.1 Pounding
 
   We have terms for the action of pounding or crushing, but have been unable to reconstruct
-any term for the implement or implements involved apart from PWOc *walu 'sago beater'
-and POc *ike '(bark-cloth) beater' (for the latter, see Ch. 4, §S . l).
+any term for the implement or implements involved apart from PWOc _*walu_ 'sago beater'
+and POc _*ike_ '(bark-cloth) beater' (for the latter, see Ch. 4, §S . l).
 
 <
 PWOc *walu 'sago beater' (Chowning 1991)
-  NNG: Kove               walu
-  PT:   Molima            (e)wanu           (_e-_ < PPT _*kai- INS)
-  MM: Nakanai           ualu
+  NNG: Kove              walu
+  PT:  Molima            (e)wanu           (_e-_ < PPT _*kai- INS)
+  MM:  Nakanai           ualu
 >
 
    Sago is pounded with an implement consisting of a head like a small adze, mounted on a
@@ -7855,17 +7855,13 @@ areca nuts', from the verb mumu 'crush in a mortar'. Lichtenberk write (p.277) t
    A large wooden bowl (POc *tabiRa, PCP *kumete, see Ch. 4, §2.2.1) was traditionally
 used as a mortar. Sago was pounded in a trough, stronger and hea vier than a bowl, and
 designed so that water could run off from one end. Only isolated terms have been located
-(Muyuw kas 'trough for sago-making'; Loniu kupʷi 'trough in which sago is pounded').
+(Muyuw kas 'trough for sago-making'; Loniu _kupʷi_ 'trough in which sago is pounded').
 
                                                                       Food preparation        161
 
 
-
-
-Figure 22: taro stamper (no reconstruction)
-(from Nevermann 1934: 192)
-PWOc *walu 'sago beater'
-(from Nevermann 1934: 174)
+Figure 22: taro stamper (no reconstruction) (from Nevermann 1934: 192)
+PWOc *walu 'sago beater' (from Nevermann 1934: 174)
 
 
    As Blust (ACD) notes, terms dealing with the action of pounding frequently contain the
@@ -7875,7 +7871,6 @@ Cognate sets for the following reconstructions are included in Chapter 9, §5 . 
 'pound, mash by pounding, hammer, crack by hammering' (from PAn *tuqtuq); POc *tuki-
 'pound'; POc *putu(k) 'knock, pound, beat' (ACD) (from PMP *buTuk); and POc *qatuŋ-i
 'strike from above, pound'.
-
 
 
 6.5.2 Grating, scraping
@@ -7889,12 +7884,12 @@ just as the same verb may refer to both actions.
 <
 PMP *kuDkuD 'rasp, file ' (Blust 1972b)
 POc *kuku(r) 'mussel; grater made of mussel shell'
-  NNG: Takia             kuk                'kind of shellfish: Anadara, cockle shell'
-  NNG: Kove              kuku               'a mussel'
-  Fij:   Bauan           kuku               'k.o. mussel (used as a grater)'
-  Pn:    Samoan          ʔuʔu             'mollusc, the shell of which is used by women to split pandanus leaves'
-  Pn:    Marquesan       kuku               'prepare strips of pandanus for mats, hibiscus bark for cord'
-  Pn:    Tikopia         kuku               'grate (turmeric)'
+  NNG: Takia           kuk              'kind of shellfish: Anadara, cockle shell'
+  NNG: Kove            kuku             'a mussel'
+  Fij: Bauan           kuku             'k.o. mussel (used as a grater)'
+  Pn:  Samoan          ʔuʔu             'mollusc, the shell of which is used by women to split pandanus leaves'
+  Pn:  Marquesan       kuku             'prepare strips of pandanus for mats, hibiscus bark for cord'
+  Pn:  Tikopia         kuku             'grate (turmeric)'
 >
 
 162      Frantisek Lichtenberk and Meredith Osmond
@@ -7902,25 +7897,25 @@ POc *kuku(r) 'mussel; grater made of mussel shell'
 <
 PMP *gasgas 'scratch' (ACD)
 POc *kasi 'k.o. mussel, used as food scraper; scratch, scrape out or off' (Lichtenberk)
- Adm: Loniu                asi              'scratch'
- NNG: Sengseng             kas              'scratch an itch; rub; to itch'
- PT:  Tawala               kahi             'pearlshell'
- PT:  Muyuw                kas              'scratch'
- MM: Nakanai               kasi             'scratch'
- MM: Nakanai               kasi             'bivalve (Geloina coaxana), found in mangrove swamp; knife or food scraper made from its unmodified shell; broken coconut shell'
-  MM: Simbo                kasi-kasi        'scratch the soil as a bush turkey'
-  SES: Lau                 kasi             'adze, chop; knock a nut with a stone on another stone'
-  Fij:    Rotuman          ʔasi              'cockle; shell much used for scraping'
-  Pn:     Samoan           ʔasi             'edible mollusc (Area sp.); coconut scraper cockle (Vastieardium sp.)'
-  Pn:     Tikopia          kasi             'bivalve mollusc (Asaphis violaseens Forskal), possibly other related bivalves also; shell traditionally used as cutting or scraping implement, as food scraper for coconut, breadfruit'
+ Adm: Loniu            asi              'scratch'
+ NNG: Sengseng         kas              'scratch an itch; rub; to itch'
+ PT:  Tawala           kahi             'pearlshell'
+ PT:  Muyuw            kas              'scratch'
+ MM:  Nakanai          kasi             'scratch'
+ MM:  Nakanai          kasi             'bivalve (Geloina coaxana), found in mangrove swamp; knife or food scraper made from its unmodified shell; broken coconut shell'
+ MM:  Simbo            kasi-kasi        'scratch the soil as a bush turkey'
+ SES: Lau              kasi             'adze, chop; knock a nut with a stone on another stone'
+ Fij: Rotuman          ʔasi             'cockle; shell much used for scraping'
+ Pn:  Samoan           ʔasi             'edible mollusc (Area sp.); coconut scraper cockle (Vastieardium sp.)'
+ Pn:  Tikopia          kasi             'bivalve mollusc (Asaphis violaseens Forskal), possibly other related bivalves also; shell traditionally used as cutting or scraping implement, as food scraper for coconut, breadfruit'
 >
 
 <
 PEOc *kaRi 'scraper; bivalve sp., used as a scraper' (Geraghty 1990)
-  SES:    Gela             gali             'species mollusc, pelecypod, Asaphis deflorata, eaten'
-  NCV: Mota               gar              'cockle'
-  NCV: Mota               (vin)gar         'cockle shell, used to cut yam vines and to scrape out meat from coconut ' (vin from viniu 'skin, bark, husk, partic. of coconut')
-  Fij:    Bauan            kai              'generic name of bivalve shellfish, Lamellibranchiata'
+  SES: Gela             gali             'species mollusc, pelecypod, Asaphis deflorata, eaten'
+  NCV: Mota             gar              'cockle'
+  NCV: Mota             (vin)gar         'cockle shell, used to cut yam vines and to scrape out meat from coconut ' (vin from viniu 'skin, bark, husk, partic. of coconut')
+  Fij: Bauan            kai              'generic name of bivalve shellfish, Lamellibranchiata'
 >
 
 
@@ -7931,15 +7926,15 @@ Figure 23: POc *kaRi, POc *koRi 'bivalve used as food scraper'
 
 <
 POc *kara(s), *karas-i- 'peel or scrape skin off tubers' (Lichtenberk)
-    Adm: Mussau                kalasi
-    MM: Kara (West)            kaias
-    MM: Maringe                ka-krasi              'scrape off potato or taro skin, using a shell' (also kekesi)
-    SES:    Arosi              karasi                'scrape, bruise, take off skin'
-    SES:    Kwaio              galā                  'peel skin off (vegetable +)'
-    SES:    Kwaio              galasi-               'peel a raw vegetable'
-    SES:    To'aba'ita         garasi                'scrape (taro, sweet potato + to remove dirt after pulling it out of ground)'
-    SES:    Sa'a               kara, karasi          'scrape, grate'
-    SES:    Sa'a              | kara (uhi) |           'grate yams with a cockle shell' (_uhi_ 'yam')
+    Adm: Mussau            kalasi
+    MM:  Kara (West)       kaias
+    MM:  Maringe           ka-krasi          'scrape off potato or taro skin, using a shell' (also kekesi)
+    SES: Arosi             karasi            'scrape, bruise, take off skin'
+    SES: Kwaio             galā              'peel skin off (vegetable +)'
+    SES: Kwaio             galasi-           'peel a raw vegetable'
+    SES: To'aba'ita        garasi            'scrape (taro, sweet potato + to remove dirt after pulling it out of ground)'
+    SES: Sa'a              kara, karasi      'scrape, grate'
+    SES: Sa'a              |kara (uhi)|      'grate yams with a cockle shell' (_uhi_ 'yam')
 >
 
    A number of formally similar terms have been reconstructed for the action of scratching,
@@ -7950,69 +7945,69 @@ the bottom of a canoe.
 <
 PMP *karis 'scratch mark' (ACD)
 POc *kari(s), *karis-i- 'scrape (tubers, coconuts)' (Lichtenberk); 'scratch a mark on s.t.'
-    NNG: Kove                  karisi                'scrape (one's skin)'
-    NNG: Akolet                karis                 'scratch (one's skin)'
-    NNG: Labu                  kalê                  'scratch'
-    PT:  Motu                  ari-                  (V) 'mark, indent (bottom of canoe with stones +)'
-    MM: Bulu                   kari                  'scratch (one's skin)'
-    MM: Maringe                kai-kari              (VT) 'scrape off (e.g. mud from one's feet), remove with scraping action, usually with implement like a piece of bamboo'
-    SES:   Gela                kari                  'scrape off (dirt from a cut +); scrape out (white of coconut)'
-    SES:   Gela                karisi-               'peel off (skin of stem of plant or stick); circumcise'
-    SES:   Tolo                karisi-               'peel (with knife, shell +)'
-    SES:   Arosi               kari-kari             'scrape off small roots with _waro_ shell'
-    SV:    Anejom              (a)ɣreθ               'scrape'
-    Mic:   Carolinian          xeri                  'scratch s.t., grate it'
-    Mic:   Marshallese         kar                   'scratch, scrape'
-    Fij:   Wayan               kari                  'be scraped'
-    Fij:   Wayan               (i)kari               'grater' (_i-_ < POc _*i-_ INS)
-    Fij:    Bauan              kari-                 'scrape (coconut +)'
+    NNG: Kove               karisi                'scrape (one's skin)'
+    NNG: Akolet             karis                 'scratch (one's skin)'
+    NNG: Labu               kalê                  'scratch'
+    PT:  Motu               ari-                  (V) 'mark, indent (bottom of canoe with stones +)'
+    MM:  Bulu               kari                  'scratch (one's skin)'
+    MM:  Maringe            kai-kari              (VT) 'scrape off (e.g. mud from one's feet), remove with scraping action, usually with implement like a piece of bamboo'
+    SES: Gela               kari                  'scrape off (dirt from a cut +); scrape out (white of coconut)'
+    SES: Gela               karisi-               'peel off (skin of stem of plant or stick); circumcise'
+    SES: Tolo               karisi-               'peel (with knife, shell +)'
+    SES: Arosi              kari-kari             'scrape off small roots with _waro_ shell'
+    SV:  Anejom             (a)ɣreθ               'scrape'
+    Mic: Carolinian         xeri                  'scratch s.t., grate it'
+    Mic: Marshallese        kar                   'scratch, scrape'
+    Fij: Wayan              kari                  'be scraped'
+    Fij: Wayan              (i)kari               'grater' (_i-_ < POc _*i-_ INS)
+    Fij: Bauan              kari-                 'scrape (coconut +)'
 >
 
 <
 POc *ko(r,R)a(s), *ko(r,R)as-i- 'scrape out (coconut meat); dregs of strained coconut scrapings' [5]
-    SES:    Arosi             ʔora                 'scrape with a shell'
-    SES: Arosi               ʔorasi                'dregs of strained coconut scrapings'
-    NCV: Mota                goras                 'scrape out, grate, the hard meat of coconut with cockle shell (_vin-gar_)'
-    Mic:    Carolinian       xɨrɨ                  'scrape or grate'
-    Fij:    Bauan            kora                  'refuse of scraped coconut'
+    SES: Arosi            ʔora          'scrape with a shell'
+    SES: Arosi            ʔorasi        'dregs of strained coconut scrapings'
+    NCV: Mota             goras         'scrape out, grate, the hard meat of coconut with cockle shell (_vin-gar_)'
+    Mic: Carolinian       xɨrɨ          'scrape or grate'
+    Fij: Bauan            kora          'refuse of scraped coconut'
 >
 
-[5]   See Chapter 9, §2.2 and accompanying footnote 2. Ross proposes PAn root *-ras 'grate, scrape, scar', POc
-    *kora(s), *koras-i- 'scrape out (coconut meat +); dregs of strained coconut scrapings'.
+[5]   See Chapter 9, §2.2 and accompanying footnote 2. Ross proposes PAn root _*-ras_ 'grate, scrape, scar', POc
+    _*kora(s)_, _*koras-i-_ 'scrape out (coconut meat +); dregs of strained coconut scrapings'.
 
 
 164       Frantisek Lichtenberk and Meredith Osmond
 
 <
 POc *gora(s), *goras-i- 'scrape out (coconut meat +); dregs of strained coconut scrapings'
-    MM: Maringe               garosi               'scrape, claw or scratch with one swipe' (metathesis)
-    SES:    Gela              gola                 'scrape, plane'
-    SES:    Sa'a              koras-i-             '(rat +) scratch about'
+    MM:  Maringe     garosi               'scrape, claw or scratch with one swipe' (metathesis)
+    SES: Gela        gola                 'scrape, plane'
+    SES: Sa'a        koras-i-             '(rat +) scratch about'
 >
 
 <
 POc *koRi 'scraper; bivalve sp., used as a scraper; scrape with a shell'
-    NNG: Manam                ʔori(ŋ)             'scrape coconuts'
-    NNG: Manam                ʔori-ʔori           'pearlshell, traditionally used to scrape coconuts; coconut grater, scraper'
-    PT:   Dobu                koli                 'scrape, as coconut, wood'
-    PT:   Motu                on                   'grate coconut, chew pandanus fruit'
-    MM: Vitu                  kori                 'scratch (one's skin)'
-    MM: Tabar                 kori-kori            'scrape (coconut)'
-    SES: Gela                 goli                 'scrape coconut with a tue (fresh water shell)'
-    NCV: Nguna                koi                  'grate (coconut)'
-    Fij:  Rotuman             ʔoi                  'scrape, grate'
-    Fij: Bauan               koi                  'scrape (breadfruit)'
-    Fij: Bauan               (i)koi               'shellfish'
+    NNG: Manam               ʔori(ŋ)             'scrape coconuts'
+    NNG: Manam               ʔori-ʔori           'pearlshell, traditionally used to scrape coconuts; coconut grater, scraper'
+    PT:  Dobu                koli                'scrape, as coconut, wood'
+    PT:  Motu                on                  'grate coconut, chew pandanus fruit'
+    MM:  Vitu                kori                'scratch (one's skin)'
+    MM:  Tabar               kori-kori           'scrape (coconut)'
+    SES: Gela                goli                'scrape coconut with a tue (fresh water shell)'
+    NCV: Nguna               koi                 'grate (coconut)'
+    Fij: Rotuman             ʔoi                 'scrape, grate'
+    Fij: Bauan               koi                 'scrape (breadfruit)'
+    Fij: Bauan               (i)koi              'shellfish'
 >
 
 <
 PEOc (POC?)[6] *kori(s), *koris-i- 'scrape (esp. coconuts), grate (esp. coconuts)'
-    NNG: Kove                 ko-koli               'scrape the exterior off food (trepang, taro)'
-    SES: Gela                 goli                  'scrape coconut with a tue (fresh water shell)'
-    SES: Gela                 gori                  'shave the head'
-    SES: To'aba'ita           kori                  'scrape (coconuts +)'
-    SES: Tolo                 kori-                 'scrape or grate coconut'
-    SES: Arosi                ʔoris-i               'scrape'
+    NNG: Kove                ko-koli               'scrape the exterior off food (trepang, taro)'
+    SES: Gela                goli                  'scrape coconut with a tue (fresh water shell)'
+    SES: Gela                gori                  'shave the head'
+    SES: To'aba'ita          kori                  'scrape (coconuts +)'
+    SES: Tolo                kori-                 'scrape or grate coconut'
+    SES: Arosi               ʔoris-i               'scrape'
     NCV: Lewo                koli                  'scrape (e.g. coconut)'
 >
 
@@ -8021,11 +8016,11 @@ PEOc (POC?)[6] *kori(s), *koris-i- 'scrape (esp. coconuts), grate (esp. coconuts
 <
 PCEMP *isi 'peel, strip off; scrape (coconut)' (ACD)
 POc *isi 'scoop out (flesh from coconut +); peel off (skin, bark +)'
-    NNG: Poeng                isi                   'strip bark from tree or vine'
-    PT:  Molima               isi, isi-             'grate (on a grater), rub (s.t.)'
-    PT:  Motu                 idi                   'prise meat from coconut, press or squeeze with an implement'
-    MM: Nakanai               isi                   'scrape, grate (coconut); scrape wood smooth'
-    Pn: Rennellese            isi                   'scoop, scrape (coconut meat from shell)'
+    NNG: Poeng          isi              'strip bark from tree or vine'
+    PT:  Molima         isi, isi-        'grate (on a grater), rub (s.t.)'
+    PT:  Motu           idi              'prise meat from coconut, press or squeeze with an implement'
+    MM:  Nakanai        isi              'scrape, grate (coconut); scrape wood smooth'
+    Pn:  Rennellese     isi              'scoop, scrape (coconut meat from shell)'
 >
 
 
@@ -8033,76 +8028,76 @@ POc *isi 'scoop out (flesh from coconut +); peel off (skin, bark +)'
 
 <
 POc *rasi 'grate, scrape (tubers, coconuts); scratch' (Lichtenberk: *(r,R)asik)
-  NNG: Manam               rasiʔ               'grate (cassava +)'
-  NNG: Takia               rasi               'scrape (coconut)'
-  MM: Banoni               resi                'scrape (coconut), coconut scraper'
-  MM: Kia                  rahi               'grate, scratch (coconut, cassava)'
-  MM: Maringe              (g)rahi            'grate or scrape off (coconut or bark for making medicine +)'
-  NCV: Mota              ras                 'rub, scrape, scratch'
-  NCV: Mota              rasa                'scrape, scratch, rub, with straight motions backwards and forwards; so, sharpen by rubbing backwards and forwards on a stone'
-  NCV: Raga               raha                'grate, grind, sharpen'
-  NCV: Lonwolwol         rehe                'rub, scrape, grate, grind'
+  NNG: Manam         rasiʔ              'grate (cassava +)'
+  NNG: Takia         rasi               'scrape (coconut)'
+  MM:  Banoni        resi               'scrape (coconut), coconut scraper'
+  MM:  Kia           rahi               'grate, scratch (coconut, cassava)'
+  MM:  Maringe       (g)rahi            'grate or scrape off (coconut or bark for making medicine +)'
+  NCV: Mota          ras                'rub, scrape, scratch'
+  NCV: Mota          rasa               'scrape, scratch, rub, with straight motions backwards and forwards; so, sharpen by rubbing backwards and forwards on a stone'
+  NCV: Raga          raha               'grate, grind, sharpen'
+  NCV: Lonwolwol     rehe               'rub, scrape, grate, grind'
 >
 
    Yet another reconstruction is POc *asa(q) 'grate, sharpen by grating or rubbing' from PAn
-*Sasaq 'whet, sharpen' (see Ch. 4, §4. 1 .S).
+_*Sasaq_ 'whet, sharpen' (see Ch. 4, §4. 1 .S).
 
    Lichtenberk comments (pp. 280-281) on the recurring sound symbolism evident in these
 items, a feature which Blust has identified with PAn forms meaning 'rub, scrape, scratch'.
 Terms with similar sound symbolism readily undergo conflation. Lichtenberk also refers to
 the possibility that in POc or pre-POc times there was some kind of derivational relation
-among at least some of the forms, noting that unlike the other forms, *ko(r,R)as took as its
+among at least some of the forms, noting that unlike the other forms, _*ko(r,R)as_ took as its
 direct object a noun phrase referring to the stuff scraped off rather than the object being
 scraped (e.g. the coconut meat rather than the coconut). (See also Ch. 9, §2.2.)
 
 <
 PEOc *paro(s), *paros-i- 'chafe (skin)'; 'scrape'
-  MM: Maringe             poroji              'chafe away the skin, e.g. tightly bound pig's feet'
-  SES: Lau                faro                'scraper for grating yams'
-  NCV: Nguna              vāro               'chafing of inner thighs'
-  NCV: Nguna              varosi              'grind (e.g. meat)'
-  Fij:   Wayan            varoki              (VT) 'cut s.t. with a saw'
-  Fij:   Bauan            varo                (V) 'file, saw, or rasp'
-  Pn:    Maori            faro, fa-faro       'scrape'
-  Pn:    Maori            faro-faro           'scrape'
+  MM: Maringe           poroji             'chafe away the skin, e.g. tightly bound pig's feet'
+  SES: Lau              faro               'scraper for grating yams'
+  NCV: Nguna            vāro               'chafing of inner thighs'
+  NCV: Nguna            varosi             'grind (e.g. meat)'
+  Fij: Wayan            varoki             (VT) 'cut s.t. with a saw'
+  Fij: Bauan            varo               (V) 'file, saw, or rasp'
+  Pn:  Maori            faro, fa-faro      'scrape'
+  Pn:  Maori            faro-faro          'scrape'
 >
 
 
 6.5.3 Peeling
 
    Lichtenberk lists a number of terms for the action of peeling. The first is a transitive verb
-formed from the base *kulit 'skin'. See also POc *supi 'sharpen, shave, pare' (Ch. 9, §3.6)
-some of whose reflexes also mean 'peel '.
+formed from the base _*kulit_ 'skin'. See also POc _*supi_ 'sharpen, shave, pare' (Ch. 9, §3.6)
+some of whose reflexes also mean 'peel'.
 
 <
 PAn *kulit (N) 'skin'; (V) 'peel, remove skin of s.t.'
 POc *kulit, *kulit-i- (N) 'skin'; (v) 'peel, remove skin of s.t., bark (a tree)'
-  NNG: Sengseng           kul                 'remove a bandage or shoes; come undone, of s.t. wrapped'
-  NNG: Manam              kuli                'peel'
-  PT:  Dobu               kuli-kuli           'rash on skin'
-  MM: Tolai               kulit               (V) 'peel off, remove bark, remove skin'
- MM: Simbo               guli, guli-        (V) 'skin, pare skin off'
- SES: Gela               guli, guliti-      (V) 'skin, bark (shin or a tree +); take the scab off a sore'
-  SES:    Arosi          ʔuri              (V) 'peel'
-  Fij:    Bauan          kuli               (N) 'skin, bark, peel'
-  Fij:    Bauan          kulit-             'peel cooked taro or food cooked in water; strip off the skin or bark of a tree'
+  NNG: Sengseng       kul               'remove a bandage or shoes; come undone, of s.t. wrapped'
+  NNG: Manam          kuli              'peel'
+  PT:  Dobu           kuli-kuli         'rash on skin'
+  MM:  Tolai          kulit             (V) 'peel off, remove bark, remove skin'
+  MM:  Simbo          guli, guli-       (V) 'skin, pare skin off'
+  SES: Gela           guli, guliti-     (V) 'skin, bark (shin or a tree +); take the scab off a sore'
+  SES: Arosi          ʔuri              (V) 'peel'
+  Fij: Bauan          kuli              (N) 'skin, bark, peel'
+  Fij: Bauan          kulit-            'peel cooked taro or food cooked in water; strip off the skin or bark of a tree'
 >
 
 166     Frantisek Lichtenberk and Meredith Osmond
 
 <
 POc *sisi 'scoop out (flesh from coconut +)'; 'peel off (skin, bark +)' (cf. Ch. 9, §3.7)
-  NNG: Gedaged           sisi               'pull up (off), peel off, husk, take off (one's clothes)'
-  NNG: Kove              sisi               'peel off bark or skin, strip leaves from frond, remove the midrib of a leaf'
-  NNG: Manam             sisi(ʔ)           (v) 'peel, pare (sweet potatoes, bananas +), bark (tree)'
-  NNG: Numbami           sisi               'peel with teeth'
-  PT:  Dobu              sisi                'scrape baked food'
-  SES: Gela               hihi               'scoop out the white flesh of a coconut; push out, prise out; open (tin +)'
-  NCV: Mota             sis                'rub or knock off skin or bark, flay'
-  Fij:  Rotuman          sisi               'peel or strip off'
-  Fij:  Wayan            ðiði               '(coconut) have flesh cut out; (animal) be gutted'
-  Fij: Bauan            ðiði               'be separated, of pulp from coconut'
-  Pn:   Tongan           hihi               'scoop out, gouge out (clams)'
+  NNG: Gedaged          sisi              'pull up (off), peel off, husk, take off (one's clothes)'
+  NNG: Kove             sisi              'peel off bark or skin, strip leaves from frond, remove the midrib of a leaf'
+  NNG: Manam            sisi(ʔ)           (v) 'peel, pare (sweet potatoes, bananas +), bark (tree)'
+  NNG: Numbami          sisi              'peel with teeth'
+  PT:  Dobu             sisi              'scrape baked food'
+  SES: Gela             hihi              'scoop out the white flesh of a coconut; push out, prise out; open (tin +)'
+  NCV: Mota             sis               'rub or knock off skin or bark, flay'
+  Fij: Rotuman          sisi              'peel or strip off'
+  Fij: Wayan            ðiði              '(coconut) have flesh cut out; (animal) be gutted'
+  Fij: Bauan            ðiði              'be separated, of pulp from coconut'
+  Pn:  Tongan           hihi              'scoop out, gouge out (clams)'
 >
 
 <
@@ -8110,12 +8105,12 @@ POc *(p,pʷ)ilit 'peel by hand (fruit, cooked food)'
   NNG: Mangap            pīli               (V) 'husk (com, pitpit +)'
   NNG: Kairiru           pil                'peel skin off (cooked vegetable) by hand' (PL OBJ)
   NNG: Kairiru           pli                'peel skin off (cooked vegetable) by hand' (SG OBJ)
-  MM: Notsi              pili               'peel (sweet potato +)'
+  MM:  Notsi             pili               'peel (sweet potato +)'
   NCV: Mota              wil                'peel, turning the fruit over in peeling'
-  SV: Anejom             hujis              'peel, skin'
+  SV:  Anejom            hujis              'peel, skin'
   SV:  Sye               (a)vli             'peel'
   SV:  Ura               (ala)vli           'peel'
-  SV: Kwamera            (a)veri            'peel'
+  SV:  Kwamera           (a)veri            'peel'
 >
 
 
@@ -8124,9 +8119,9 @@ POc *(p,pʷ)ilit 'peel by hand (fruit, cooked food)'
 <
 PMP *qunap 'scales' (Dempwolff 1938)
 POc *qunap-i- (V) 'scale fish' (from POc *qunap 'fish scale; turtle shell')
- PT:      Motu           unahi-             'scale a fish'
- SES:     Arosi          unahi-             'remove shell from turtle, scale a fish'
- Pn:      Hawaiian       unahi-             'fish scales; scaly; (V) scale'
+ PT:  Motu           unahi-             'scale a fish'
+ SES: Arosi          unahi-             'remove shell from turtle, scale a fish'
+ Pn:  Hawaiian       unahi-             'fish scales; scaly; (V) scale'
 >
 
                                                                       Food preparation        167
@@ -8135,34 +8130,34 @@ POc *qunap-i- (V) 'scale fish' (from POc *qunap 'fish scale; turtle shell')
 
 
    The following term may have referred both to the husking of coconuts and to the implement
-used. This was a sharpened stick, usually set finnly in the ground. The same tenn is sometimes
+used. This was a sharpened stick, usually set finnly in the ground. The same term is sometimes
 used to refer to a digging stick.
 
 <
 POc *kojom- (N) 'husking stick'
 POc *kojom, *kojom-i (V) 'husk (coconuts)'
- Adm: Lou              os                  'husk (coconuts)'
- Adm: Titan            kucum               'husking stake'
- Adm: Loniu            kucum              'short pointed stake stuck in the ground, for husking coconuts'
- NNG: Manam           ʔozom               'husk (coconuts)'
- NNG: Wogeo           kojo                 'coconut husking stick'
- NNG: Kove            koso                 'husk a coconut'
- PT:   Motu           kodo                'prick holes'
- PT:   Dobu           gesoma              'husk coconuts'
- SES: Lau             ʔoto, ʔotomi      'poke, thrust, jab; pierce, insert'
- SES: Arosi           koto                (V) 'spear, crush (areca nut with pestle)'
- NCV: Mota            goso                (v) 'husk a coconut with a pointed stick'
- NCV: Mota            (i)goso             'husking stick' (_i-_ < POc _*i-_ INS)
- SV: Anejom           (a)ɣhem            'husk (coconuts)'
- Mic: Mokilese        kot                 'husking stick'
- Mic: Mokilese        kotom               (V) 'husk with a husking stick'
- Mic: Kiribatese     koro                'stake, pointed stick used to take husk off coconuts; dart pointed at both ends; spur, horn'
- Mic: Carolinian     xoto                'coconut husking stick'
- Fij:  Bauan          (i)koso             'thing to cut with' (_i-_ < POc _*i-_ INS)
- Pn:   Samoan         ʔoso               'digging stick'
- Pn:   Tokelauan      koho                'coconut-husking stake'
- Pn:   Maori          koo                 'implement for digging or planting'
- Pn:   Hawaiian       ʔoo                 'sharp-pointed stick, coconut husker, body pain'
+ Adm: Lou            os                'husk (coconuts)'
+ Adm: Titan          kucum             'husking stake'
+ Adm: Loniu          kucum             'short pointed stake stuck in the ground, for husking coconuts'
+ NNG: Manam          ʔozom             'husk (coconuts)'
+ NNG: Wogeo          kojo              'coconut husking stick'
+ NNG: Kove           koso              'husk a coconut'
+ PT:  Motu           kodo              'prick holes'
+ PT:  Dobu           gesoma            'husk coconuts'
+ SES: Lau            ʔoto, ʔotomi      'poke, thrust, jab; pierce, insert'
+ SES: Arosi          koto              (V) 'spear, crush (areca nut with pestle)'
+ NCV: Mota           goso              (v) 'husk a coconut with a pointed stick'
+ NCV: Mota           (i)goso           'husking stick' (_i-_ < POc _*i-_ INS)
+ SV:  Anejom         (a)ɣhem           'husk (coconuts)'
+ Mic: Mokilese       kot               'husking stick'
+ Mic: Mokilese       kotom             (V) 'husk with a husking stick'
+ Mic: Kiribatese     koro              'stake, pointed stick used to take husk off coconuts; dart pointed at both ends; spur, horn'
+ Mic: Carolinian     xoto              'coconut husking stick'
+ Fij: Bauan          (i)koso           'thing to cut with' (_i-_ < POc _*i-_ INS)
+ Pn:  Samoan         ʔoso              'digging stick'
+ Pn:  Tokelauan      koho              'coconut-husking stake'
+ Pn:  Maori          koo               'implement for digging or planting'
+ Pn:  Hawaiian       ʔoo               'sharp-pointed stick, coconut husker, body pain'
 >
 
   POc *soka, soka-i- (V) 'pierce; stab' (see Ch. 9, §4. 1) (Lichtenberk has *joka) and POc
@@ -8171,19 +8166,19 @@ POc *kojom, *kojom-i (V) 'husk (coconuts)'
 <
 PMP *beTak 'split, cleave' (Dempwolff 1938)
 POc *potak, *potak-i- (VT) 'crack s.t. open, split s.t. open (such as nuts, coconuts)' (cf. Ch. 9, §3.8)
- Adm: Loniu              pot                (VI) 'be broken, be chopped down'
- Adm: Titan              pot                (VI) '(wooden objects) be broken'
- NNG: Malasanga          pota               'split (wood)'
- NNG: Manam              otaʔ              'crack s.t. open (coconuts, canarium nuts +)'
- MM: Notsi               pət                'chop'
- MM: Teop                potā               'cut open (pig belly); split (open)'
- SES: Gela               voti               'break open (coconut +), split, split up'
- SES: Sa'a               hoa                (vI) 'make an incision in; remove and separate'
- SES: Sa'a               hoai               (VT)
-  SES:   Arosi           hoa                (VI) 'divide, cleave asunder, separate'
-  SES:   Arosi           hoai, hoari        (VT)
- NCV: Mota                 wota            'knock, break by knocking'
- SV: Anejom                (a)htak(wai)    'split'
+ Adm: Loniu           pot             (VI) 'be broken, be chopped down'
+ Adm: Titan           pot             (VI) '(wooden objects) be broken'
+ NNG: Malasanga       pota            'split (wood)'
+ NNG: Manam           otaʔ            'crack s.t. open (coconuts, canarium nuts +)'
+ MM:  Notsi           pət             'chop'
+ MM:  Teop            potā            'cut open (pig belly); split (open)'
+ SES: Gela            voti            'break open (coconut +), split, split up'
+ SES: Sa'a            hoa             (vI) 'make an incision in; remove and separate'
+ SES: Sa'a            hoai            (VT)
+ SES: Arosi           hoa             (VI) 'divide, cleave asunder, separate'
+ SES: Arosi           hoai, hoari     (VT)
+ NCV: Mota            wota            'knock, break by knocking'
+ SV:  Anejom          (a)htak(wai)    'split'
 >
 
 168     Frantisek Lichtenberk and Meredith Osmond
@@ -8198,33 +8193,32 @@ a coconut frond.
 
 <
 PMP *Runut 'plant fibres' (Blust 1983-84a)
-POc *Runutl *nuRut 'sheath around base of coconut frond, used as strainer'
-       NNG: Gitua             run
-       NNG: Lukep             rur             'coconut cloth'
-       PT:   Sariba           lulusi
-       PT:   Motu             nuru
-       MM: Tolai              nirut
-       NCV: Mota             nir
-       SES: Sa'a              unu              'fibrous spathe of a coconut frond, used for straining cream from grated coconuts'
-       Mic:   Kiribatese     iŋ              'coconut cloth'
-       Mic:    Puluwat        wɒn              'coconut cloth'
-       Mic:    Ulithi         ɒl               'coconut cloth'
-       Fij:    Bauan          unu              'straining cloth for kava, traditionally a fibrous material made from coconut husk (and perhaps the spathe of a coconut frond)'
-       Fij:    Bauan          (i)unu           '(kava) strainer' (_i-_ < POc _*i-_ INS)
-       Fij:    Wayan          unu              'strainer used in preparing kava'
-       Pn:     Samoan         unu              'strainer (used in making oil +); (v) strain'
-       Pn:     Rennellese     gunu             'coconut fibre wringer'
+POc *Runut, *nuRut 'sheath around base of coconut frond, used as strainer'
+   NNG: Gitua          run
+   NNG: Lukep          rur             'coconut cloth'
+   PT:  Sariba         lulusi
+   PT:  Motu           nuru
+   MM:  Tolai          nirut
+   NCV: Mota           nir
+   SES: Sa'a           unu             'fibrous spathe of a coconut frond, used for straining cream from grated coconuts'
+   Mic: Kiribatese     iŋ              'coconut cloth'
+   Mic: Puluwat        wɒn             'coconut cloth'
+   Mic: Ulithi         ɒl              'coconut cloth'
+   Fij: Bauan          unu             'straining cloth for kava, traditionally a fibrous material made from coconut husk (and perhaps the spathe of a coconut frond)'
+   Fij: Bauan          (i)unu          '(kava) strainer' (_i-_ < POc _*i-_ INS)
+   Fij: Wayan          unu             'strainer used in preparing kava'
+   Pn:  Samoan         unu             'strainer (used in making oil +); (v) strain'
+   Pn:  Rennellese     gunu            'coconut fibre wringer'
 >
 
-Lichtenberk (1994) reconstructed PEOc *unu(p) 'strainer, probably the fibrous spathe of a
+Lichtenberk (1994) reconstructed PEOc _*unu(p)_ 'strainer, probably the fibrous spathe of a
 coconut frond', but it is reasonably certain that the reflexes attributed thereto should be
-combined with those above and attributed to *Runut/*nuRut (Ross 1996d). Lichtenberk
-reconstructed final *-p on the basis of Mota (NCV) unuv '(a fluid) sink in, be absorbed', but
+combined with those above and attributed to _*Runut_/_*nuRut_ (Ross 1996d). Lichtenberk
+reconstructed final _*-p_ on the basis of Mota (NCV) _unuv_ '(a fluid) sink in, be absorbed', but
 we take this not to be cognate. As Geraghty (1990) points out, Sa'a (SES) shows irregular
-loss of initial *R-, but Rennellese (pn) gunu, borrowed from a SES language, reflects Proto
-SES *Iunu « POc *Runut). Sa'a also shows loss of *R in a few other items, so its loss here is
+loss of initial _*R-_, but Rennellese (pn) _gunu_, borrowed from a SES language, reflects Proto
+SES _*lunu_ (< POc _*Runut_). Sa'a also shows loss of *R in a few other items, so its loss here is
 not completely surprising.
-
 
 
 6.5.7 Plucking
@@ -8232,20 +8226,20 @@ not completely surprising.
 <
 PAn *buCbuC 'pull up (weeds +), pluck (feathers +)' (ACD)
 POc *puti- 'pick, pluck (feathers), pull out (weeds +)' (cf. Ch. 9. §6. 1)
-  NNG: Sengseng             put              'pluck fur or feathers'
-  PT:  Lala                 buku             'pluck' (_b_ for expected _p_)
-  MM: Tolai                 vut              'weed, pluck as feathers of a fowl'
-  SES: Tolo                 vuti-            'pull out, pluck out (of chicken feathers, grass +)'
-  NCV: Mota                vut                  'dig, heaving up the soil as with digging stick'
-  NCV: Paamese             huti                 'peel fruit; shell egg; pluck feathers from chicken or bird'
-  NCV: Raga              (ha)vusi             'pluck, as a fowl'
-  NCV: Tamambo            (sa)buti             'pluck, pull out (plant, tooth +)'
-  Mic: Ponapean           us                   'pull out, pluck'
-  Fij: Bauan             vuti-                'pluck hair or feathers; pull up weeds'
-  Fij: Bauan             (ða)vuta             (VT) 'pull up, eradicate'
-  Pn:     Tongan          fusi-ʔi              'pull, tug, pull up or in; pluck a fowl'
-  Pn:     Samoan          futi                 'pull out (weeds, hair +); pluck (hen +)'
-  Pn:     Tahitian        huti                 'pluck; pull up, out'
+  NNG: Sengseng        put              'pluck fur or feathers'
+  PT:  Lala            buku             'pluck' (_b_ for expected _p_)
+  MM: Tolai            vut              'weed, pluck as feathers of a fowl'
+  SES: Tolo            vuti-            'pull out, pluck out (of chicken feathers, grass +)'
+  NCV: Mota            vut              'dig, heaving up the soil as with digging stick'
+  NCV: Paamese         huti             'peel fruit; shell egg; pluck feathers from chicken or bird'
+  NCV: Raga            (ha)vusi         'pluck, as a fowl'
+  NCV: Tamambo         (sa)buti         'pluck, pull out (plant, tooth +)'
+  Mic: Ponapean        us               'pull out, pluck'
+  Fij: Bauan           vuti-            'pluck hair or feathers; pull up weeds'
+  Fij: Bauan           (ða)vuta         (VT) 'pull up, eradicate'
+  Pn:  Tongan          fusi-ʔi          'pull, tug, pull up or in; pluck a fowl'
+  Pn:  Samoan          futi             'pull out (weeds, hair +); pluck (hen +)'
+  Pn:  Tahitian        huti             'pluck; pull up, out'
 >
 
                                                                           Food preparation            169
@@ -8259,30 +8253,30 @@ POc *puti- 'pick, pluck (feathers), pull out (weeds +)' (cf. Ch. 9. §6. 1)
 <
 PAn *peRes 'squeeze out' (Blust 1972b)
 POc *poRo(s), *poRos-i- 'squeeze out, wring out (liquid)'
-  NNG: Gitua              poro                'wring'
-  NNG: Kove               poho                'squeeze, wring out; add coconut cream to food; make sago'
-  NNG: Kairiru            furasi              'wring, squeeze (e.g. in the preparation of coconut cream)'
-  MM: Nakanai              vola               'work sago flour, squeeze the water out'
+  NNG: Gitua              poro               'wring'
+  NNG: Kove               poho               'squeeze, wring out; add coconut cream to food; make sago'
+  NNG: Kairiru            furasi             'wring, squeeze (e.g. in the preparation of coconut cream)'
+  MM:  Nakanai            vola               'work sago flour, squeeze the water out'
   NCV: Mota               woro               'squeeze, wring out juice of herbs, liquor of fruits, over food and things prepared for charms; add coconut sauce to _loko_ (pudding of grated yam)'
 >
 
 <
 PMP *pitpit 'clamp, jam, pinch' (Dempwolff 1938)
 POc *(p,pʷ)i(p,pʷ)i(t) 'press, wring, squeeze s.t. (e.g. in order to extract liquid)' (cf. Ch. 9, §7)
-  NNG: Kove                vivi               'squeeze (grated coconut +)'
-  NNG: Poeng               viv(pele-)         'squeeze (grated coconut +)'
-  NNG: Poeng              (kam)vivi-         'squeeze (out liquid, i.e. coconut), squeeze (in the hand)'
-  NNG: Numbami            pipi-               'squeeze (grated coconut +)'
-  NNG: Gedaged            pipi                'squeeze (out), express, crush, pinch, strangle, compress'
-  NNG: Manam              pipi                'squeeze in order to extract the contents, wring out'
-  PT:     Minaveha        pipi                'squeeze s.t.'
-  PT:     Misima         pi                  'squeeze; wring out (clothes)'
-  MM:     Ramoaaina       wi-wi(ŋ)           'squeeze, wring clothes; strain juice through cloth'
-  SV:     Lenakel         (a)vət              'squeeze'
+  NNG: Kove           vivi               'squeeze (grated coconut +)'
+  NNG: Poeng          viv(pele-)         'squeeze (grated coconut +)'
+  NNG: Poeng          (kam)vivi-         'squeeze (out liquid, i.e. coconut), squeeze (in the hand)'
+  NNG: Numbami        pipi-              'squeeze (grated coconut +)'
+  NNG: Gedaged        pipi               'squeeze (out), express, crush, pinch, strangle, compress'
+  NNG: Manam          pipi               'squeeze in order to extract the contents, wring out'
+  PT:  Minaveha       pipi               'squeeze s.t.'
+  PT:  Misima         pi                 'squeeze; wring out (clothes)'
+  MM:  Ramoaaina      wi-wi(ŋ)           'squeeze, wring clothes; strain juice through cloth'
+  SV:  Lenakel        (a)vət             'squeeze'
   cf. also:
-  PT:     Gumawana         bibi                'squeeze (boil +)'
-  PT:     Gumawana         (vata)bibi          'squeeze up against something'
-  SES:    Arosi            bibi                'crush, squeeze, crowd'
+  PT:  Gumawana       bibi               'squeeze (boil +)'
+  PT:  Gumawana       (vata)bibi         'squeeze up against something'
+  SES: Arosi          bibi               'crush, squeeze, crowd'
 >
 
 170     Frantisek Lichtenberk and Meredith Osmond
@@ -8291,31 +8285,31 @@ POc *(p,pʷ)i(p,pʷ)i(t) 'press, wring, squeeze s.t. (e.g. in order to extract l
 <
 PMP *pespes 'squeeze, press out' (ACD: PWMP)
 POc *posi- 'squeeze, wring (coconuts to extract cream +)' (cf. Ch. 9, §7)
-  PT:      Kilivila         poli                'squeeze, wring'
-  MM:      Kara (East)      pas                 'squeeze (grated coconut +)'
-  MM:      Kandas           pus                 'squeeze (grated coconut +)'
-  MM:      Nehan            pos                 'squeeze (grated coconut +)'
-  MM:      Teop             posi                'wring, squeeze'
-  MM:      Teop             (i)posi              'coconut strainer' (_i-_ < POc _*i-_ INS)
-  MM: Maringe               poji                 'squeeze, wring liquid, as in making coconut milk or medicine'
-  SES:     Bugotu           poji                 'wring, squeeze, twist'
-  SES:     Gela             poi-posi             'squeeze and wring out coconut shavings'
-  SES:     Gela             podi                 'squeeze, as in shaking hands'
-  SES:     Gela             poi-podi             'sieve or strainer of coconut fibre'
-  Pn:      Tongan           fohi                 'remove skin, rind; peel'
-  Pn:      W. Futunan       foi-                 'peel or skin (s.t.); peel where the skin is ready to come off (not e.g. taro)'
+  PT:  Kilivila         poli                'squeeze, wring'
+  MM:  Kara (East)      pas                 'squeeze (grated coconut +)'
+  MM:  Kandas           pus                 'squeeze (grated coconut +)'
+  MM:  Nehan            pos                 'squeeze (grated coconut +)'
+  MM:  Teop             posi                'wring, squeeze'
+  MM:  Teop             (i)posi             'coconut strainer' (_i-_ < POc _*i-_ INS)
+  MM:  Maringe          poji                'squeeze, wring liquid, as in making coconut milk or medicine'
+  SES: Bugotu           poji                'wring, squeeze, twist'
+  SES: Gela             poi-posi            'squeeze and wring out coconut shavings'
+  SES: Gela             podi                'squeeze, as in shaking hands'
+  SES: Gela             poi-podi            'sieve or strainer of coconut fibre'
+  Pn:  Tongan           fohi                'remove skin, rind; peel'
+  Pn:  W. Futunan       foi-                'peel or skin (s.t.); peel where the skin is ready to come off (not e.g. taro)'
 >
 
 <
 PMP *le(c,s)it 'squeeze out, squirt out' (ACD)
 POc *losi(t) 'squeeze, wring'
-  MM: Roviana                (li)lohi-           'wring out (wet garment +)'
-  SES: Gela                  (loi)losi           'sponge'
-  SES: Longgu                losi-               'squeeze s.t., wring s.t. out; squeeze milk out of scraped coconut meat immersed in water'
-  SES:     To'aba'ita        losi                'wring (clothes, grated coconut +) to extract liquid'
-  SES:     Sa'a              (loi)loosi          'squeeze, strain out coconut cream from hero (scraped coconut) with unu (fibrous spathe of a coconut frond)'
-  SES:     Arosi             rosi                'wring, twist, squeeze (coconut fibre in straining coconut scrapings +)'
-  Fij:      Bauan            lose                'squeeze, wring (chiefly of kava)'
+  MM:  Roviana          (li)lohi-           'wring out (wet garment +)'
+  SES: Gela             (loi)losi           'sponge'
+  SES: Longgu           losi-               'squeeze s.t., wring s.t. out; squeeze milk out of scraped coconut meat immersed in water'
+  SES: To'aba'ita       losi                'wring (clothes, grated coconut +) to extract liquid'
+  SES: Sa'a             (loi)loosi          'squeeze, strain out coconut cream from hero (scraped coconut) with unu (fibrous spathe of a coconut frond)'
+  SES: Arosi            rosi                'wring, twist, squeeze (coconut fibre in straining coconut scrapings +)'
+  Fij: Bauan            lose                'squeeze, wring (chiefly of kava)'
 >
 
 Another reconstruction, POc *piri 'twist, wrap around', whose reflexes refer typically to the
@@ -8347,9 +8341,9 @@ biri-yi 'squeeze coconut milk through fibre').
 
 <
 POc *mo(n,n)o 'knead'
- NNG: Mangap            mōno               'knead'
- MM: Roviana            mono-              'squeeze'
- Fij: Bauan             mono               'tum the taro pulp over and make it into a neat lump in preparation for pudding'
+ NNG: Mangap      mōno        'knead'
+ MM:  Roviana     mono-       'squeeze'
+ Fij: Bauan       mono        'turn the taro pulp over and make it into a neat lump in preparation for pudding'
 >
 
 <
@@ -8362,10 +8356,10 @@ POc *(n,n)(a,o)tu 'knead'
 <
 PMP *palu 'beat' (Dempwolff 1938)
 POc *balur, *balur-i- 'mix, stir'
- NNG: Manam             balur, balur(aʔ) 'stir (food) vertically, so that what was at the bottom is now at the top and vice versa' (_-aʔ_ < _*-aki_)
- Pn:    Tongan         palu              'mix and knead in water with hands'
- Pn:    Samoan         palu              'mix (with the hands)'
- Pn:    Hawaiian       palu              'thresh, beat; food or bait made of fish head, stomach, pounded'
+ NNG: Manam          balur, balur(aʔ)  'stir (food) vertically, so that what was at the bottom is now at the top and vice versa' (_-aʔ_ < _*-aki_)
+ Pn:  Tongan         palu              'mix and knead in water with hands'
+ Pn:  Samoan         palu              'mix (with the hands)'
+ Pn:  Hawaiian       palu              'thresh, beat; food or bait made of fish head, stomach, pounded'
 >
 
   Blust records another:
@@ -8373,10 +8367,10 @@ POc *balur, *balur-i- 'mix, stir'
 <
 PMP *quli 'knead, mix together' (ACD)
 POc *quli 'knead, mix together'
- SES:    Sa'a          uli                'rub, massage'
- SES:    Gela           ule                'stir up, stir in (powder into a liquid +)'
- Fij:   Bauan          uli                'stir up dry things into a liquid'
- Fij:   Bauan          (i)uli             'stick for stirring liquids' (_i-_ < POc _*i-_ INS)
+ SES:   Sa'a          uli                'rub, massage'
+ SES:   Gela          ule                'stir up, stir in (powder into a liquid +)'
+ Fij:   Bauan         uli                'stir up dry things into a liquid'
+ Fij:   Bauan         (i)uli             'stick for stirring liquids' (_i-_ < POc _*i-_ INS)
 >
 
 
@@ -8387,27 +8381,23 @@ POc *quli 'knead, mix together'
 
 7.1.1 Questions
 
-                          Between 3000 and 1000 BC, speakers of Austronesian languages spread across I sland
-                       Southeast Asia and western Melanesia and into the previously uninhabited islands of the
-                       Central Pacific.[1] By about 1000 AD they had colonised the whole of Polynesia and Micronesia
-                       and had settled Madagascar, more than half a world away.[2] This farflung maritime dispersal
-                       of closely related peoples, without parallel in human history until the West European expansion
-                       of the 15th-20th centuries AD, must have been based on a fairly efficient sailing technology.
-                       What was this technology? When and where did it develop? To what extent was it modified
-                       during the Austronesian diaspora?
+   Between 3000 and 1000 BC, speakers of Austronesian languages spread across I sland
+Southeast Asia and western Melanesia and into the previously uninhabited islands of the
+Central Pacific.[1] By about 1000 AD they had colonised the whole of Polynesia and Micronesia
+and had settled Madagascar, more than half a world away.[2] This farflung maritime dispersal
+of closely related peoples, without parallel in human history until the West European expansion
+of the 15th-20th centuries AD, must have been based on a fairly efficient sailing technology.
+What was this technology? When and where did it develop? To what extent was it modified
+during the Austronesian diaspora?
 
-                          There is already an extensive literature on these questions, much of it by culture historians
-                       who apply the typological comparative and distributional methods (discussed in § 1 .2) to
-                       sailing craft and sailing techniques. Our contribution will be to see what light can be thrown
-                       on these questions by comparing the vocabulary for watercraft and seafaring across the
-                       Austronesian family, using the genetic comparative method of historical linguistics. We will
-                       focus on the early phases of Austronesian expansion, that is, on cognate sets that probably go
-                       back more than 2 ,000 years. Little will be said here about the complex developments in
-                       boatbuilding which have taken place in Island Southeast Asia over the last couple of millenia,
-
-
-174     Andrew and Medina Pawley
-
+   There is already an extensive literature on these questions, much of it by culture historians
+who apply the typological comparative and distributional methods (discussed in § 1 .2) to
+sailing craft and sailing techniques. Our contribution will be to see what light can be thrown
+on these questions by comparing the vocabulary for watercraft and seafaring across the
+Austronesian family, using the genetic comparative method of historical linguistics. We will
+focus on the early phases of Austronesian expansion, that is, on cognate sets that probably go
+back more than 2 ,000 years. Little will be said here about the complex developments in
+boatbuilding which have taken place in Island Southeast Asia over the last couple of millenia,
 well after the main Austronesian dispersal across and beyond this region, or about modifications
 in the design of craft that according to Haddon and Hornell (Haddon 1937, Haddon &
 Hornell 1938, Hornell 1936) have taken place in various regions of Oceania within the last
@@ -8415,20 +8405,23 @@ millenium. An exhaustive study of material relevant to reconstructing terms for 
 and seafaring at all stages in the history of the Austronesian family would take several years
 and fill a very large book.
 
-[1]                             This is a slightly revised version of a paper which is included in Pawley and Ross, eds. 1994. Unlike other
-                             chapters in this volume, this chapter takes account of the Austronesian language family as a whole, rather
-                             than just of its Oceanic subgroup. We have done this because the topic of canoes and seafaring is, in an
-                             obvious way, intimately associated with the Austronesian dispersal, of which the Oceanic dispersal was
-                             simply the later part: to ignore the earlier part would be somewhat arbitrary.
-                             We are grateful to many colleagues for help. Robert Blust, Charles Grimes, Ric Jackson, Jeff Marck and
-                             Bernd Nothofer provided corrections to many points of detail as well as additional evidence. Sander Adelaar,
-                             Wal Ambrose, Mark Donohue, Paul Geraghty, Geoff Irwin, Alan Jones, Nigel Oram, Lawrence Reid and
-                             Malcolm Ross also offered valuable comments or data.
 
-[2] See e.g. Shutler and Marck (1975), Bellwood (1978, 1988), Pawley and Green (1973, 1984), Spriggs (1984,
-                          1989, 1990) for discussion of the dating of the Austronesian diaspora, using C14 dating of archaeological
-                          assemblages that can be associated with Austronesian speakers.
+174     Andrew and Medina Pawley
 
+
+[1] This is a slightly revised version of a paper which is included in Pawley and Ross, eds. 1994.
+    Unlike other chapters in this volume, this chapter takes account of the Austronesian language family
+    as a whole, rather than just of its Oceanic subgroup. We have done this because the topic of canoes
+    and seafaring is, in an obvious way, intimately associated with the Austronesian dispersal, of which
+    the Oceanic dispersal was simply the later part: to ignore the earlier part would be somewhat
+    arbitrary. We are grateful to many colleagues for help. Robert Blust, Charles Grimes, Ric Jackson,
+    Jeff Marck and Bernd Nothofer provided corrections to many points of detail as well as additional
+    evidence. Sander Adelaar, Wal Ambrose, Mark Donohue, Paul Geraghty, Geoff Irwin, Alan Jones,
+    Nigel Oram, Lawrence Reid and Malcolm Ross also offered valuable comments or data.
+
+[2] See e.g. Shutler and Marck (1975), Bellwood (1978, 1988), Pawley and Green (1973, 1984),
+    Spriggs (1984, 1989, 1990) for discussion of the dating of the Austronesian diaspora, using
+    C14 dating of archaeological assemblages that can be associated with Austronesian speakers.
 
 
 7.1.2 Reconstructions based on comparative typology: methodological problems
@@ -8464,11 +8457,11 @@ argument when he writes:
    Other passages in the same book present some fairly detailed conclusions about the design
 of the vessels. These are based partly on the logic of technology -what is possible and what is
 likely in the development of techniques, given certain equipment and natural resources,
-engineering knowledge, navigational knowledge, climatic conditions, etc. -and partly on
+engineering knowledge, navigational knowledge, climatic conditions, etc. - and partly on
+distributional grounds.
+
 
                                                                      Canoes and seafaring              175
-
-distributional grounds.
 
 |   The signs are that the original Malayo-Polynesian rig was a two-boom triangular sail fixed
 |   by the point (tack) in the bows of the boat and held up by a loose prop, with a rope to the
@@ -8536,7 +8529,6 @@ mainland Asia. Horridge acknowledges this point:
 
 176   A ndrew and Medina Pawley
 
-
    Horridge's remarks remind us that the testimony of central Pacific cultures is likely to be
 crucial in reconstructing early Austronesian sailing technology. The relative isolation of the
 peoples of the more remote Pacific islands may have allowed some of them to continue the
@@ -8559,10 +8551,9 @@ by archaeological evidence.
   Hornell (1936), Horridge (1978, 1981, 1986), Hutchins (1983), Irwin (1989, 1992), Lewis (1972), Sharp
   (1956), Siers (1977), Thomas (1987).
 
-[4]  Horridge recognizes the distinction that linguists now usually make between 'Austronesian', as the name of
-  the entire language family, and 'Malayo-Polynesian', as the name for a putative subgroup that includes all
-  Austronesian languages except those of Formosa.
-
+[4] Horridge recognizes the distinction that linguists now usually make between 'Austronesian', as the
+    name of the entire language family, and 'Malayo-Polynesian', as the name for a putative subgroup that
+    includes all Austronesian languages except those of Formosa.
 
 
 7.1.3 The Genetic Comparative Method
@@ -8579,22 +8570,20 @@ applies only to a restricted part of each language-culture system, namely the st
 that have cognates in genetically related languages. Often it happens that linguistics is silent
 in the face of competing hypotheses derived from comparative technology, say, about techniques
 of manufacture, because no distinctive terms can be reconstructed for the technological
-
-
-                                                                          Canoes and seafaring    177
-
 elements in question. And while the genetic method often allows us to make strong inferences
 about the presence of some things in a reconstructed language-culture system, it does not tell
 us what was absent. That is to say, our inability to reconstruct a term for a particular element
 in protolanguage L is not conclusive proof that speakers of L lacked a term for that element.
 Within these limitations, the genetic comparative method remains a powerful tool.
 
-[5]  It should be stressed that the genetic comparative method is not a discovery procedure that automatically
-  yields correct interpretations of linguistic comparisons. There are invariably ambiguities in the evidence that
-  require choice between two or more hypotheses. The method works best when (a) the number of putative
-  cognate sets is large, (b) the witnesses (languages compared) have had little or no contact for a long time, (c)
-  the number of such independent witnesses in the family is large, (d) the witnesses at each level fall into more
-  than two subgroups.
+[5] It should be stressed that the genetic comparative method is not a discovery procedure that
+    automatically yields correct interpretations of linguistic comparisons. There are invariably
+    ambiguities in the evidence that require choice between two or more hypotheses. The method works
+    best when (a) the number of putative cognate sets is large, (b) the witnesses (languages compared)
+    have had little or no contact for a long time, (c) the number of such independent witnesses in
+    the family is large, (d) the witnesses at each level fall into more than two subgroups.
+
+                                                                          Canoes and seafaring    177
 
 
 
@@ -8604,14 +8593,13 @@ Within these limitations, the genetic comparative method remains a powerful tool
 seafaring. However, works compiled by linguists only list such cognate sets as isolated items
 within a larger body of semantically unordered material. This chapter draws together published
 comparisons and extends them. Sources giving relevant cognate sets or sound correspondences
-relevant to determining cognation include Bender et al (1983), Biggs (1978, 1993),[6] Blust
-(1970, 1972b, 1976a, 1978a, 1978b, 1980b, 1983-84a, 1986, 1989), Clark (1994), Collins
-(1983), Dahl (1973), Dempwolff (1938), Ferrell (1969), Geraghty (1983), Jackson (1983),
-Milke (1961, 1968), Pallesen (1985), Pawley (1972), Reid (1971), Ross (1988), Sneddon
-(1984) and Tryon (1976). We have also consulted dictionaries of many contemporary languages.
+relevant to determining cognation include Bender et al (1983), Biggs (1978, 1993),[6]
+Blust (1970, 1972b, 1976a, 1978a, 1978b, 1980b, 1983-84a, 1986, 1989), Clark (1994),
+Collins (1983), Dahl (1973), Dempwolff (1938), Ferrell (1969), Geraghty (1983), Jackson (1983),
+Milke (1961, 1968), Pallesen (1985), Pawley (1972), Reid (1971), Ross (1988), Sneddon (1984)
+and Tryon (1976). We have also consulted dictionaries of many contemporary languages.
 
 [6]   The version of POLLEX (= Biggs 1993) used here, in fact, dates from 1990.
-
 
 
 7.1.5 Organisation of reconstructions and cognate sets
@@ -8631,7 +8619,6 @@ reconstructions for named interstages, especially when the the interstage recons
 significantly in form or meaning from the highest-order reconstruction. When listing cognates
 we occasionally acknowledge sources when the evidence comes from Haddon (1937), Hornell
 (1936) or Haddon and and Hornell (1938) or a source other than a published dictionary.
-
 
 
 7.2 Types of vessel and hull construction
@@ -8656,51 +8643,51 @@ may have had two senses in POco
 
 <
 PCEMP *waŋka 'outrigger canoe'
- CMP: Buru                waga               'boat, canoe'
- CMP: Komodo              waŋka             'boat, canoe'
- CMP: Manggarai           waŋka             'canoe'
- IJ:   Mor                waʔa               'canoe'
- IJ:    Dusner            wak                'canoe'
- IJ:   Numfor            wa(i)               'outrigger canoe'
- IJ:   Waropen            wa                 'boat, canoe'
+ CMP:  Buru          waga              'boat, canoe'
+ CMP:  Komodo        waŋka             'boat, canoe'
+ CMP:  Manggarai     waŋka             'canoe'
+ IJ:   Mor           waʔa              'canoe'
+ IJ:   Dusner        wak               'canoe'
+ IJ:   Numfor        wa(i)             'outrigger canoe'
+ IJ:   Waropen       wa                'boat, canoe'
 POc *waga (1) 'large sailing canoe'; (2) 'canoe (generic)'
-  Adm: Wuvulu            wa             'canoe'
-  Adm: Seimat            wa             'canoe'
-  NNG: Gedaged           wag            'large canoe that goes out on the high seas, has one or two masts and a large platform, ship or boat'
-  NNG:    Gitua          waŋga         'canoe'
-  NNG:    Yabem          waŋ           'canoe, boat, ship'
-  PT:     Dobu           waga           'sailing canoe'
-  PT:     Molima         waga           'canoe in general'
-  PT:     Kilivila       waga           'generic term for all kinds of sailing craft'
-  PT:     Wedau          waga           'large canoe'
-  NCV:    Mota           aka            'canoe'
-  NCV:    Mota           |aka (paspasau)| 'canoe with plank sides'
-  NCal:   Nyelâyu        waŋga-n       'his canoe'
-  NCal:   Xârâcùù      kwā           'canoe'
-  Mic:    Kiribatese     wā             'canoe'
-  Mic:    Marshallese    wā             'canoe'
-  Mic:    Puluwat        wā             (1) 'canoe, vehicle of any kind'; (2) 'container, people in a canoe'
-  Mic:    Puluwat        wā(herak)      'large sailing canoe able to face the high seas'
-  Mic:    Trukese        wā             'canoe, boat, vehicle'
-  Mic:    Woleaian       wa             'generic for all canoes'
-  Fij:    Bauan          waga           'generic for boats (traditionally canoes) of all kinds'
-  Pn:     Tongan         vaka            'boat (generic)'
-  Pn:     Samoan         vaʔa            'boat (generic)'
-  Pn:     Samoan         |vaʔa (folau)|   'sailing boat (for long voyages)'
-  Pn:     Tokelauan      vaka           'canoe, craft, boat'
-  Pn:     Tikopia        vaka           'canoe (generic)'
-  Pn:     Tikopia        |vaka (tapu)|    'consecrated voyaging canoe'
-  Pn:      Hawaiian      waʔa           'canoe'
+ Adm:  Wuvulu        wa                'canoe'
+ Adm:  Seimat        wa                'canoe'
+ NNG:  Gedaged       wag               'large canoe that goes out on the high seas, has one or two masts and a large platform, ship or boat'
+ NNG:  Gitua         waŋga             'canoe'
+ NNG:  Yabem         waŋ               'canoe, boat, ship'
+ PT:   Dobu          waga              'sailing canoe'
+ PT:   Molima        waga              'canoe in general'
+ PT:   Kilivila      waga              'generic term for all kinds of sailing craft'
+ PT:   Wedau         waga              'large canoe'
+ NCV:  Mota          aka               'canoe'
+ NCV:  Mota          |aka (paspasau)|  'canoe with plank sides'
+ NCal: Nyelâyu       waŋga-n           'his canoe'
+ NCal: Xârâcùù       kwā               'canoe'
+ Mic:  Kiribatese    wā                'canoe'
+ Mic:  Marshallese   wā                'canoe'
+ Mic:  Puluwat       wā                (1) 'canoe, vehicle of any kind'; (2) 'container, people in a canoe'
+ Mic:  Puluwat       wā(herak)         'large sailing canoe able to face the high seas'
+ Mic:  Trukese       wā                'canoe, boat, vehicle'
+ Mic:  Woleaian      wa                'generic for all canoes'
+ Fij:  Bauan         waga              'generic for boats (traditionally canoes) of all kinds'
+ Pn:   Tongan        vaka              'boat (generic)'
+ Pn:   Samoan        vaʔa              'boat (generic)'
+ Pn:   Samoan        |vaʔa (folau)|    'sailing boat (for long voyages)'
+ Pn:   Tokelauan     vaka              'canoe, craft, boat'
+ Pn:   Tikopia       vaka              'canoe (generic)'
+ Pn:   Tikopia       |vaka (tapu)|     'consecrated voyaging canoe'
+ Pn:   Hawaiian      waʔa              'canoe'
 >
 
-The primary sense of POc *waga was perhaps 'large sailing canoe' in contrast to paddling
+The primary sense of POc _*waga_ was perhaps 'large sailing canoe' in contrast to paddling
 canoes (dugouts and small outrigger canoes). This sense is widely reflected across subgroups
 of Oceanic. As the name of the largest and most prestigious type, *waga would have been a
 natural choice as a generic term for all types of canoe and in a number of languages the
 generic sense has become primary. An example is from Kilivila, the language of the Kiriwina
 people of the Trobriand Islands (reported by Haddon (1937:267-269), based on Malinowski
 (1922) and correspondence with Malinowski). In Kiriwina there are four named types of
-canoes. The kewoʔu is a simple dugout with outrigger, used in the lagoon. The kalipoulo, a
+canoes. The _kewoʔu_ is a simple dugout with outrigger, used in the lagoon. The _kalipoulo_, a
 fishing canoe, is a larger dugout with several designs. These have in common a hull built up
 with a washstrake on each side, and transverse carved and painted breakwaters, and the hull
 usually has pointed ends, carved and painted. There is often a platform over the booms. The
@@ -8717,9 +8704,9 @@ canoes, but evidently excluded canoes without outriggers or sails.
 below:
 
 __pre__
-    WMP: Malay       waŋkaŋ                        'Chinese junk'
-    WMP: Javanese    waŋkaŋ                        'Chinese junk'
-    WMP: Ngaju Dayak vaŋkaŋ                      'Chinese junk'
+    WMP: Malay       waŋkaŋ         'Chinese junk'
+    WMP: Javanese    waŋkaŋ         'Chinese junk'
+    WMP: Ngaju Dayak vaŋkaŋ         'Chinese junk'
 
                                                                              Canoes and seafaring        179
 
@@ -8728,50 +8715,50 @@ and:
 
 <
 PAn *ba(ŋ)ka(q) ? 'outrigger canoe, dugout canoe'
- Fma: Kuvalan            baŋka           'canoe'[7]
-    WMP: Aklanon               baŋca                'canoe'
-    WMP: Balangaw              baŋka                'canoe'
-    WMP: Cebuano               baŋkaʔ               'one-piece dugout between 5 and 15 metres, optionally with one or two masts and outrigger'
- WMP: Ilongot        baŋka                         'canoe'
- WMP: Tagalog         baŋkaʔ                        'canoe'
- WMP: Tausug          baŋkaq                        'dugout canoe (without outrigger)'
- WMP: Laiyolo         biŋka                         'canoe, boat'
- WMP: Tolaki          baŋga                         'canoe'
+ Fma: Kuvalan         baŋka           'canoe'[7]
+ WMP: Aklanon         baŋca           'canoe'
+ WMP: Balangaw        baŋka           'canoe'
+ WMP: Cebuano         baŋkaʔ          'one-piece dugout between 5 and 15 metres, optionally with one or two masts and outrigger'
+ WMP: Ilongot         baŋka           'canoe'
+ WMP: Tagalog         baŋkaʔ          'canoe'
+ WMP: Tausug          baŋkaq          'dugout canoe (without outrigger)'
+ WMP: Laiyolo         biŋka           'canoe, boat'
+ WMP: Tolaki          baŋga           'canoe'
 PCEMP *ba(ŋ)ka 'canoe'
- CMP: Larike                   haka
- CMP: S. Nuaulu                haka
- CMP: Kola                     boka
+ CMP: Larike          haka
+ CMP: S. Nuaulu       haka
+ CMP: Kola            boka
 POc *paka 'ship'
-    MM:      Roviana           vaka
-  SES:    Gela            vaka               'foreign vessel, European ship'
-  SES:    Sa'a            haka
+ MM:  Roviana         vaka
+ SES: Gela            vaka            'foreign vessel, European ship'
+ SES: Sa'a            haka
 >
 
-[7]   Obsolete term, cited by Ferrell (1969:42, 247); the only reported cognate in a Fonnosan witness.
+[7]   Obsolete term, cited by Ferrell (1969:42, 247); the only reported cognate in a Formosan witness.
 
 
 180     A ndrew and Medina Pawley
 
 
-   Although the forms in the above two sets show a striking resemblance to POc *waga, they
-are not demonstrably cognate. In the first set, initial w- is irregular, suggesting that these are
+   Although the forms in the above two sets show a striking resemblance to POc _*waga_, they
+are not demonstrably cognate. In the first set, initial _w-_ is irregular, suggesting that these are
 borrowed words, though the source of the borrowing is unclear (Alexander Adelaar,
-pers.comm.). In the second set, the uncharacteristic occurrence of the cluster fjk in the Philippine
+pers.comm.). In the second set, the uncharacteristic occurrence of the cluster _ŋk_ in the Philippine
 and Formosan forms suggests borrowing from a Malayo-Javanic or Sulawesi source (Lawrence
-Reid, pers.comm.). Tagalog and Cebuano b are not the regular reflexes of PMP *w. At
+Reid, pers.comm.). Tagalog and Cebuano b are not the regular reflexes of PMP _*w_. At
 present, most of the few coastal Austronesian-speaking communities left on Taiwan proper
 use large bamboo sailing rafts for fishing. However, there is evidence that in the nineteenth
 century other kinds of craft including double outriggers were in use. Scott (1982:337) cites
 an eighteenth century Chinese observer, Huang Shi-ching, describing a built-up dugout canoe
-called a manka [or banka] as follows:
+called a _manka_ [or _banka_] as follows:
 
 |   A manka is a single tree trunk hollowed out, with wooden planks fastened on both sides
 |   with rattans; since they have no putty for caulking and water easily enters, the barbarians
 |   keep baling with a ladle.
 
 It is likely (Mark Donohue, pers.comm.) that the Chinese characters in question are from the
-Hokkien dialect and should be read as banka, not manka as reported by Scott. The form
-*ba(fj)ka is however reflected both in CMP and Oceanic, and must be attributed to their
+Hokkien dialect and should be read as _banka_, not _manka_ as reported by Scott. The form
+_*ba(ŋ)ka_ is however reflected both in CMP and Oceanic, and must be attributed to their
 common ancestor, which Blust (1993) labels PCEMP.
 
     The next term is reconstructable as far back as PMP. But note the disagreement between
@@ -8780,28 +8767,28 @@ WMP and Oceanic witnesses as to its meaning.
 <
 PMP *katiR ? '(small) outrigger canoe or canoe hull'
 PWMP *katiR 'outrigger float'
-  WMP: Malay              katir
-  WMP: Madurese           kater
-  WMP: Sundanese          katir
-  WMP: Maranao            katig
-  WMP: Tausug             katig
-  WMP: Cebuano            katig           (N) 'float of the outrigger'; (V) 'provide a boat with outrigger'
- WMP: Sasak             katir             'carry between two persons'
+  WMP: Malay          katir
+  WMP: Madurese       kater
+  WMP: Sundanese      katir
+  WMP: Maranao        katig
+  WMP: Tausug         katig
+  WMP: Cebuano        katig           (N) 'float of the outrigger'; (V) 'provide a boat with outrigger'
+  WMP: Sasak          katir           'carry between two persons'
 POc *kati(R) '(small) outrigger canoe or canoe hull'
-  NNG:     Manam          kati               'outrigger canoe'
-  NNG:     Kairiru        qat                'outrigger canoe'
-  NNG:     Tuam           kat                'canoe platform'
-  PT:      Motu           asi                (1) 'hull of large multi-hulled canoe (finished more roughly than single-hulled canoe)' ; (2) 'large canoe'
-  PT:      Motu           asi-asi            'temporary small double canoe'
-  PT:      Sinaugoro      gasi               'outrigger canoe'
-  PT:      Roro           ahi                'canoe, hull'
-  MM:      Lavongai       kati               'large outrigger canoe 50 or more feet in length' (Haddon 1937: 141)
+  NNG: Manam          kati            'outrigger canoe'
+  NNG: Kairiru        qat             'outrigger canoe'
+  NNG: Tuam           kat             'canoe platform'
+  PT:  Motu           asi             (1) 'hull of large multi-hulled canoe (finished more roughly than single-hulled canoe)' ; (2) 'large canoe'
+  PT:  Motu           asi-asi         'temporary small double canoe'
+  PT:  Sinaugoro      gasi            'outrigger canoe'
+  PT:  Roro           ahi             'canoe, hull'
+  MM:  Lavongai       kati            'large outrigger canoe 50 or more feet in length' (Haddon 1937: 141)
 >
 
    Although the WMP cognates denote 'outrigger float', there is a much stronger candidate
-for that meaning in PMP, namely *(c,s)a(R)man (§4. 1). Therefore we conclude that *katiR is
+for that meaning in PMP, namely _*(c,s)a(R)man_ (§4. 1). Therefore we conclude that _*katiR_ is
 unlikely to have meant 'outrigger float' in PMP and that the WMP cognates probably show
-semantic change. In Oceanic, reflexes of *katiR are confined to Western Oceanic but are
+semantic change. In Oceanic, reflexes of _*katiR_ are confined to Western Oceanic but are
 widely dispersed within that large group. The Western Oceanic comparisons strongly point to
 an earlier meaning such as 'canoe hull' or 'small outrigger canoe'.
 
@@ -8809,36 +8796,36 @@ an earlier meaning such as 'canoe hull' or 'small outrigger canoe'.
                                                               Canoes and seafaring       181
 
 
-Figure 24:  POc *waga 'canoe' (after Koch n.d.: 147)
- POc *kati(R) '(small) outrigger canoe or canoe hull',  POc *(q)oRa 'topstrake',  POc *soka(r)
- 'thwart',  POc *muri- 'stern ',  POc *muqa- 'front, bow',  POc *patar 'platform, decking',
- POc *saman 'outrigger float',  POc *kiajo 'outrigger boom',  POc *patoto 'connective sticks
-                                      attaching float'
+Figure 24:  POc _*waga_ 'canoe' (after Koch n.d.: 147)
+ POc _*kati(R)_ '(small) outrigger canoe or canoe hull',  POc _*(q)oRa_ 'topstrake',
+ POc _*soka(r)_ 'thwart',  POc _*muri-_ 'stern ',  POc _*muqa-_ 'front, bow',
+ POc _*patar_ 'platform, decking', POc _*saman_ 'outrigger float',  POc _*kiajo_ 'outrigger boom',
+ POc _*patoto_ 'connective sticks attaching float'
 
 
-   If POc *kati(R) referred to a small outrigger canoe, then the following set may reflect a
+   If POc _*kati(R)_ referred to a small outrigger canoe, then the following set may reflect a
 term for a large outrigger canoe (perhaps synonymous with *waga in its narrower sense):
 
 <
 POc *tola 'large canoe' (?)
 Proto Eastern Admiralty *n-tol (V) 'large canoe'
-  Adm: Titan          drol
-  Adm: Koro           dual
-  Adm: Nali           droi
-  Adm: Lele           dol
-  Adm: Ere            drual
-  Adm: Bohuai         coal
-  Adm: Mondropolon col
-  Adm: Drehet         kxoŋ               'canoe, boat'
-  Adm: Ponam          hol
-  Adm: Loniu          ton
+ Adm: Titan          drol
+ Adm: Koro           dual
+ Adm: Nali           droi
+ Adm: Lele           dol
+ Adm: Ere            drual
+ Adm: Bohuai         coal
+ Adm: Mondropolon    col
+ Adm: Drehet         kxoŋ             'canoe, boat'
+ Adm: Ponam          hol
+ Adm: Loniu          ton
 Proto Southeast Solomonic *tola 'plank-built canoe'
- SES:    Bugotu         tola
- SES:    Gela           tola             'plank-built canoe with both ends turned up not very high' (Haddon 1937: 100)
-  SES:    Lau               ola                   'plank-built canoe (built up from a plank centre keel, with bow and stern keels), with no outrigger'
-  SES:    Baegu             ola                   'canoe'
-  SES:    Kwai              ola                   'canoe'
-  SES:    Arosi             ora
+ SES: Bugotu         tola
+ SES: Gela           tola             'plank-built canoe with both ends turned up not very high' (Haddon 1937: 100)
+ SES: Lau            ola              'plank-built canoe (built up from a plank centre keel, with bow and stern keels), with no outrigger'
+ SES: Baegu          ola              'canoe'
+ SES: Kwai           ola              'canoe'
+ SES: Arosi          ora
 >
 
 Evidence for the reconstruction occurs in two geographically separated primary subgroups of
@@ -8853,7 +8840,7 @@ and then transferred to Bugotu, Gela _tola_.
    Evidence from other Southeast Solomonic languages further confuses the issue. Gela and
 Tolo (Guadalcanal) _tiola_ 'generic term for plank-built canoes' and 'Are'are iora, Sa'a _iola_
 'plank-built canoe' might be explained as deriving from a bimorphemic form _*ti-(q)oRa_.
-This might be liable to conflation with reflexes of *tola also.
+This might be liable to conflation with reflexes of _*tola_ also.
 
 
 182     Andrew and Medina Pawley
