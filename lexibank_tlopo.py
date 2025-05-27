@@ -78,9 +78,29 @@ class Dataset(BaseDataset):
             w.writerows(rows)
         return
 
-    def cmd_download(self, args):
+    def cmd_gbif(self, args):
         import pygbif
         import re
+        from pytlopo.config import re_choice
+
+        def iter_names(f):
+            for row in f:
+                yield row['Scientific_Name']
+                if row['Name_In_Text']:
+                    yield row['Name_In_Text']
+                if len(row['Scientific_Name'].split()) == 2:  # a binomial
+                    g, s = row['Scientific_Name'].split()
+                    yield '{}. {}'.format(g[0], s)
+
+        pattern = re.compile(
+            re_choice(
+                list(iter_names(self.raw_dir.joinpath('vol3').read_csv('taxa.csv', dicts=True)))))
+
+        for m in pattern.finditer(self.raw_dir.joinpath('vol3').read('text.txt')):
+            if m.string[m.start() - 1] == '_':
+                print(m.string[m.start() - 1:m.end() + 1])
+
+        return
         pygbif.caching(True, name='gbif.sqlite')
         names = set()
         for row in self.raw_dir.joinpath('vol3').read_csv('taxa.csv'):
@@ -117,6 +137,8 @@ class Dataset(BaseDataset):
             #['Coconut Crab']
             #break
         return
+
+    def cmd_download(self, args):
         #from pytlopo.parser.refs import refs2bib
         #refs2bib(self.raw_dir.joinpath('vol3', 'references.txt').read_text(encoding='utf8').split('\n'))
         #return
@@ -133,7 +155,7 @@ class Dataset(BaseDataset):
         per_pl = collections.defaultdict(list)
         for vol in range(1, 7):
             print(vol)
-            if vol != 4:
+            if vol != 1:
                 continue
             t = self.raw_dir / 'vol{}'.format(vol) / 'text.txt'
             if not t.exists():
