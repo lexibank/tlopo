@@ -6847,12 +6847,12 @@ the result of dramatic decline in population that came about with exposure to Eu
 diseases), our best evidence for their existence is in the physical traces left by their water
 channels, sometimes stone-lined, and their banks and terraces. More recently, archaeologists
 have, under certain conditions, been able to identify soil strata that have at some time in the
-past been subjected to pondfield irrigation (Spriggs 1997b:84-85). Spriggs reports on one
+past been subjected to pondfield irrigation (Spriggs 1997b: 84-85). Spriggs reports on one
 such site in Hawaii now dated to 1500 BP, the earliest date yet for evidence of pondfield
 irrigation (p.89). In New Caledonia, a buried taro pondfield terrace at Col de Piroque has
 been dated back to 1150-1100 BP (p. 184). Other evidence points to more recent dating. On
 Aneityum, Spriggs estimates that the large-scale canal-fed irrigation systems of the valley
-flats have been constructed within the period since about 500-600 BP (Spriggs 1986 : 11).
+flats have been constructed within the period since about 500-600 BP (Spriggs 1986: 11).
 Oldest evidence for the Solomons remains the eye-witness report of the explorer Mendafia in
 1568 (Amherst & Thomson 1901 :306).
 
@@ -6861,7 +6861,7 @@ Oldest evidence for the Solomons remains the eye-witness report of the explorer 
 5.13 Gaps in reconstructions
 
     Other concepts for which we currently lack reconstructions include a term for the stakes
-or supports on which the yam vines were trained. French-Wright (1983 :64-65) lists a variety
+or supports on which the yam vines were trained. French-Wright (1983: 64-65) lists a variety
 of ways in which vines can be supported. In addition to stakes, they include, in the Admiralties
 and the Trobriands, saplings left standing after the garden has been cleared; in the centre of
 Guadalcanal in the Solomons the vines trail over felled trees; in the Loyalty Islands an
@@ -6883,8 +6883,8 @@ frequently carried out by the whole community at the one time and typically acco
 certain rituals. It does seem, however, that POc speakers associated the period of yam
 harvest with the conclusion of an annual cycle. In a number of widespread localities, past and
 future events are placed in time by referring to yam crop cycles, thus according the terms a
-meaning equivalent to our concept of 'year' (PT: Kilivila tetu 'small yam (the main staple);
-year'; NNG: Mapos Buang ta 'year; a complete cycle of yam growing'; NCV: Paamese ouh
+meaning equivalent to our concept of 'year' (PT: Kilivila _tetu_ 'small yam (the main staple);
+year'; NNG: Mapos Buang _ta_ 'year; a complete cycle of yam growing'; NCV: Paamese _ouh_
 'a yam; a year'). Similarly, Ivens (1927:358) writes, "Our [English] word year would be
 rendered in a Melanesian language (Sa'a halisi, Lau, Kwaiofalisi 'yam harvest, yam season,
 year'] by whatever is equivalent to the yam crop."
@@ -6897,12 +6897,12 @@ year'] by whatever is equivalent to the yam crop."
 of items of material culture, but in the form of the products of horticulture, and, less directly,
 from apparent sudden and dramatic changes in land use following settlement by POc speakers.
 
-Kirch (1997 :203-205) writes:
+Kirch (1997: 203-205) writes:
 
 |   Direct archaeobotanical evidence for horticulture, in the form of preserved plant remains,
 |   largely eluded prior generations of Oceanic archaeologists. . . Then, during the 1986 excavation
 |   season at the waterlogged Talepakemalai site in the Mussau Islands, we were suddenly
-|   confronted with an unprecedented array of well-preserved (non-carboni sed) plant remains.
+|   confronted with an unprecedented array of well-preserved (non-carbonised) plant remains.
 |   Sealed in an anaerobic, wet environment, the literally thousands of seed cases, endocarps,
 |   husks, syncarps, and other plant material, along with wood (including adzed wood chips)
 |   opened up a new window on Lapita relations to the plant world. Subsequently, a similar
@@ -6911,10 +6911,10 @@ Kirch (1997 :203-205) writes:
 |   fibrous husks, and wood. Soft, fleshy materials such as tubers or the soft flesh of fruits have
 |   not survived.
 
-Among the food plants identified from archaeological sites are Canarium almond (Canarium
-indicum), Indian almond (Terminalia catappa), the New Guinea walnut (Dracontomelon
-dao), Pometia pinnata, Burckella obovata, Tahitian chestnut (lnocarpus fagiferus) and
-vi-apple (Spondias dulcis) (Kirch 1997 :206-207).
+Among the food plants identified from archaeological sites are Canarium almond (Canarium indicum), 
+Indian almond (Terminalia catappa), the New Guinea walnut (Dracontomelon dao), 
+Pometia pinnata, Burckella obovata, Tahitian chestnut (lnocarpus fagiferus) and
+vi-apple (Spondias dulcis) (Kirch 1997: 206-207).
 
    The second source of evidence, modification of the landscape, supports the POc horticultural
 practice of swidden cultivation. Spriggs (1997a:85-86) describes the dramatic change in land
@@ -6929,43 +6929,42 @@ by 1200 BC (Kirch 1997:222).
 
 142 Meredith Osmond
 
-                              A third potential source of evidence would lie in physical traces of irrigation systems and
-                           associated terracing. To date, however, neither linguistic nor archaeological evidence can
-                           support the association of sophisticated irrigation practices with POc speakers (see § 12).
+   A third potential source of evidence would lie in physical traces of irrigation systems and
+associated terracing. To date, however, neither linguistic nor archaeological evidence can
+support the association of sophisticated irrigation practices with POc speakers (see § 12).
 
 
 5.15 Conclusion
 
-                               Proto Oceanic speakers cultivated their gardens with a minimum of implements other than
-                            their hands. Apart from the axe (*kiRam) and smaller cutting implements of bamboo or shell
-                            such as *piso or PEOc *sele (Ch. 4, §4. 1 .2) used in clearing their plots, the only tools were a
-                            digging stick for tillage (*waso), possibly a dibble stick for planting (for which we lack a
-                            reconstructed term other than that for digging stick) and a hooked stick (*kawit) for picking
-                            fruit and nuts. The POc reconstructions to do with horticulture refer primarily to gardening
-                            activities: clearing, burning, weeding, digging, planting, picking and gathering. Also represented
-                            are the processes undergone by the plants themselves-sprouting, growing, swelling, ripening,
-                            withering.
+   Proto Oceanic speakers cultivated their gardens with a minimum of implements other than
+their hands. Apart from the axe (_*kiRam_) and smaller cutting implements of bamboo or shell
+such as _*piso_ or PEOc _*sele_ (Ch. 4, §4. 1 .2) used in clearing their plots, the only tools were a
+digging stick for tillage (_*waso_), possibly a dibble stick for planting (for which we lack a
+reconstructed term other than that for digging stick) and a hooked stick (_*kawit_) for picking
+fruit and nuts. The POc reconstructions to do with horticulture refer primarily to gardening
+activities: clearing, burning, weeding, digging, planting, picking and gathering. Also represented
+are the processes undergone by the plants themselves-sprouting, growing, swelling, ripening,
+withering.
 
-                               We have no evidence that any form of fertilising was used, apart from the occasional
-                            spreading of ash from the burning off of new garden plots. There is no tradition of composting
-                            the soil with human waste, for instance. Mulching and digging-in of decomposed vegetable
-                            matter have been recorded in places as traditional gardening practice, but we have no specific
-                            reconstructions for these activities. Nor has linguistics shed any light on ways in which they
-                            may have attempted to control pests or diseases. Weight was given rather to magic, as a
-                            means of ensuring healthy crops.
+   We have no evidence that any form of fertilising was used, apart from the occasional
+spreading of ash from the burning off of new garden plots. There is no tradition of composting
+the soil with human waste, for instance. Mulching and digging-in of decomposed vegetable
+matter have been recorded in places as traditional gardening practice, but we have no specific
+reconstructions for these activities. Nor has linguistics shed any light on ways in which they
+may have attempted to control pests or diseases. Weight was given rather to magic, as a
+means of ensuring healthy crops.
 
-                               Finally, we have no evidence from reconstructions that Proto Oceanic speakers irrigated
-                            their crops in any systematic way. Current archaeological findings support the view that
-                            elaborate systems are a more recent, independent development.
+   Finally, we have no evidence from reconstructions that Proto Oceanic speakers irrigated
+their crops in any systematic way. Current archaeological findings support the view that
+elaborate systems are a more recent, independent development.
 
-                               Brookfield and Hart (1971 :81) observe that "cultivation techniques move less easily than
-                            crops, for while the latter can be transmitted from hand to hand, the former generally require
-                            migrants to carry their skills and adapt them to a new environment". It is likely that the
-                            horticultural knowledge carried into the region by the first POc speakers would have included
-                            at the very least, awareness of preferred conditions for the cultivation of various kinds of
-                            taro and yams, together with related knowledge of growth stages, propensity for storage and
-                            propagation techniques for these and other garden plants such as sugar cane and bananas.
-
+   Brookfield and Hart (1971: 81) observe that "cultivation techniques move less easily than
+crops, for while the latter can be transmitted from hand to hand, the former generally require
+migrants to carry their skills and adapt them to a new environment". It is likely that the
+horticultural knowledge carried into the region by the first POc speakers would have included
+at the very least, awareness of preferred conditions for the cultivation of various kinds of
+taro and yams, together with related knowledge of growth stages, propensity for storage and
+propagation techniques for these and other garden plants such as sugar cane and bananas.
 
 
 
@@ -6974,38 +6973,38 @@ by 1200 BC (Kirch 1997:222).
 
 6.1 Introduction
 
-                         Much of this chapter is reproduced from Lichtenberk (1994), reordered and slightly revised
-                     in the light of more stringent subgrouping assumptions. To that work have been added a
-                     number of terms related to fire and its accompaniments. Organization of the chapter is (1)
-                     fire and the fireplace; (2) cooking methods; (3) preservation and (4) food processing.
+    Much of this chapter is reproduced from Lichtenberk (1994), reordered and slightly revised
+in the light of more stringent subgrouping assumptions. To that work have been added a
+number of terms related to fire and its accompaniments. Organization of the chapter is (1)
+fire and the fireplace; (2) cooking methods; (3) preservation and (4) food processing.
 
 
 
 6.2 Fire and the fireplace
 
 
-                              There is a well-attested term for fire that can be traced back to PAn:
+There is a well-attested term for fire that can be traced back to PAn:
 
 <
 PAn *Sapuy 'fire' (ACD)
 POc *api 'fire'
-                          Adm: Wuvulu                                                       afi
-                          NNG: Gitua                                                        yap
-                          NNG: Numbami                                                     yawi
-                          PT:  Motu                                                         lahi
-                          PT:  Bwaidoga                                                     ai
-                          MM: Nakanai                                                       havi
-                          NCV: Mota                                                         av
-                          Mic: Kiribatese                                                   al
-                          Mic: Woleaian                                                     yaf
-                          Pn:  Tongan                                                       afi
-                          Pn:  Hawaiian                                                     ahi
+  Adm: Wuvulu          afi
+  NNG: Gitua           yap
+  NNG: Numbami         yawi
+  PT:  Motu            lahi
+  PT:  Bwaidoga        ai
+  MM:  Nakanai         havi
+  NCV: Mota            av
+  Mic: Kiribatese      al
+  Mic: Woleaian        yaf
+  Pn:  Tongan          afi
+  Pn:  Hawaiian        ahi
 >
 
 
 [1]  Meredith Osmond is responsible for reordering and revising Lichtenberk's work in order to integrate it into
-                           the present volume and for some additional reconstructions in §2, Fire and the fireplace. Some data and
-                           comments have been added from Malcolm Ross's verb analysis in Chapter 9.
+     the present volume and for some additional reconstructions in §2, Fire and the fireplace. Some data and
+     comments have been added from Malcolm Ross's verb analysis in Chapter 9.
 
 144       Frantisek Lichtenberk and Meredith Osmond
 
@@ -7018,47 +7017,45 @@ Note that the Central Pacific terms have unexplained vowel fronting.
 
 
 
-
 Figure 19: POc *suka, *suka-i 'make fire with fire-plough '
 
 <
 POc *suka, *suka-i- 'make fire with fire-plough'
-  Adm: Lou                 sok               'rub a friction stick against wood to make fire'
-  MM: Nakanai              suka              'the making of fire with the fire-plough; a fire-plough'
-  MM: Tolai                uk                'bore through, bore into'
-  SES: Lau                 su-sukai          'bore'
-  SES: Lau                 su-suka           'a gimlet'
-  Fij :    Rotuman         siʔa               'make fire by friction'
-  Pn:      Rennellese      sika              'make fire by the fire-plough '
-  Pn:      Samoan          siʔa               'light a fire by friction; apparatus (fire-plough) as a whole; base wood of fire-plough'
-  Pn:     Tikopia          sika              'rub in groove, frictionate'
+  Adm: Lou            sok         'rub a friction stick against wood to make fire'
+  MM:  Nakanai        suka        'the making of fire with the fire-plough; a fire-plough'
+  MM:  Tolai          uk          'bore through, bore into'
+  SES: Lau            su-sukai    'bore'
+  SES: Lau            su-suka     'a gimlet'
+  Fij: Rotuman        siʔa        'make fire by friction'
+  Pn:  Rennellese     sika        'make fire by the fire-plough '
+  Pn:  Samoan         siʔa        'light a fire by friction; apparatus (fire-plough) as a whole; base wood of fire-plough'
+  Pn:  Tikopia        sika        'rub in groove, frictionate'
 >
 
-   A second term is POc *usu(q,p), from PMP *usuq whose primary meaning is probably
+   A second term is POc _*usu(q,p)_, from PMP _*usuq_ whose primary meaning is probably
 'rub abrasively', but which in a number of Oceanic languages is recorded as meaning 'rub to
 make fire'.
 
 <
 PMP *usuq 'rub, wipe' (ACD)
 POc *usu(q,p), *usu(p)-i 'rub abrasively'
- PT:      Motu             udu-              'rub a stick to make fire'
- MM:      Nakanai          huru              'remove outside of shell by rubbing'
- MM:      Tolai            ū                 (VT,VI) 'wipe'
- SES:     Gela             uhu               'rub, rub fire, scrape off skin by rubbing, cut design on forehead'
-  SES:     Sa'a            usu               'rub, scrape, grate' (usu ʔei 'a firestick')
-  SES:   Lau              usu, usufi-        'rub, wipe, rub off'
-  Mic:   Mokilese         it                 'start a fire using sticks'
+ PT:  Motu         udu-              'rub a stick to make fire'
+ MM:  Nakanai      huru              'remove outside of shell by rubbing'
+ MM:  Tolai        ū                 (VT,VI) 'wipe'
+ SES: Gela         uhu               'rub, rub fire, scrape off skin by rubbing, cut design on forehead'
+ SES: Sa'a         usu               'rub, scrape, grate' (_usu ʔei_ 'a firestick')
+ SES: Lau          usu, usufi-       'rub, wipe, rub off'
+ Mic: Mokilese     it                'start a fire using sticks'
 >
 
                                                                            Food preparation     145
 
 
-   Biggs (1993) has reconstructed PPn *kau-natu, for the implement used. Although this
-compound is derived from POc elements (POc *kaiu 'tree, wood, stick' and POc *natu
-'child'), we have no proof that the compound itself is POc o We can be confident, however,
-that the term is older than PPn, given that POc *kaiu was replaced by PPn *raqakau 'wood,
-tree', and POc *natu by PPn *tama 'child '.
-
+   Biggs (1993) has reconstructed PPn _*kau-natu_, for the implement used. Although this
+compound is derived from POc elements (POc _*kaiu_ 'tree, wood, stick' and POc _*natu_
+'child'), we have no proof that the compound itself is POc. We can be confident, however,
+that the term is older than PPn, given that POc _*kaiu_ was replaced by PPn _*raqakau_ 'wood,
+tree', and POc _*natu_ by PPn _*tama_ 'child '.
 
    A separate term for the upper frictioning stick can be reconstructed, but only for the
 Central Eastern subgroup of Polynesia:
@@ -7071,10 +7068,9 @@ PCEPn *kau-lima 'upper frictioning stick of fire-plough' ('stick' + 'hand')
 >
 
 A Papuan Tip language, Minaveha, likewise uses a compound term for the upper frictioning
-stick which includes the term for 'hand', nima-kabi (nima 'hand' + kabi '?'). In at least two
+stick which includes the term for 'hand', _nima-kabi_ (_nima_ 'hand' + _kabi_ '?'). In at least two
 places, Sissano (NNG) and Nakanai (MM), the upper fire stick is referred to by the term for
-penis (etin in Sis sano, huti in Nakanai), both reflexes of POc *quti(n).
-
+penis (_etin_ in Sissano, _huti_ in Nakanai), both reflexes of POc _*quti(n)_.
 
     Across the Oceanic region it is possible to find some variation in fire-making methods,
 although we have no reconstructions for methods other than by fire-plough. Bing on the PNG
@@ -7082,24 +7078,23 @@ north coast and Mapos Buang in the Huon Gulf area (both NNG) offer evidence for 
 method in which rattan or vine is sawn rapidly around a piece of wood:
 
 __pre__
- NNG: Mapos Buang vaŋkC rurŋ               'make a fire by the traditional method using a
-                                             piece of rattan, sawing it back and forth around a
-                                             piece of dry wood with a split in it, lying on a little
-                                             pile of tinder'
- NNG: Bing               baŋ-baŋ          'fire-stick and vine'
+ NNG: Mapos Buang  vaŋkC rurŋ       'make a fire by the traditional method using a
+                                     piece of rattan, sawing it back and forth around a
+                                     piece of dry wood with a split in it, lying on a little
+                                     pile of tinder'
+ NNG: Bing         baŋ-baŋ          'fire-stick and vine'
 
-Another north coast language, Gedaged, has a term, wol, referring to a bow string. Fire is
+Another north coast language, Gedaged, has a term, _wol_, referring to a bow string. Fire is
 produced by pulling a bow string rapidly back and forth over a piece of wood. The action
-implied may be the same as in Carolinian bʷuru-bʷur 'make a fire by generating friction with
-a traditional drill' (from POc *buru 'bore a hole, drill ' ; see Ch. 9, §4.2).
+implied may be the same as in Carolinian _bʷuru-bʷur_ 'make a fire by generating friction with
+a traditional drill' (from POc _*buru_ 'bore a hole, drill' ; see Ch. 9, §4.2).
 
 
 
 6.2.2 Firewood
 
-
-   In addition to the general term POc *kaiu 'wood, stick ', we can reconstruct a PEOc term
-*papia, specifically for firewood. Note that an identical term is reconstructable for PEOc
+   In addition to the general term POc _*kaiu_ 'wood, stick ', we can reconstruct a PEOc term
+_*papia_, specifically for firewood. Note that an identical term is reconstructable for PEOc
 (cognates in SES and Fiji) with the meaning 'cook in native oven' (§3 . 1).
 
 <
@@ -7128,27 +7123,27 @@ POc *alito(n) 'firebrand'
 >
 
 
-Figure 20: POc *sulu 'dry coconut leaf torch'
+Figure 20: POc _*sulu_ 'dry coconut leaf torch'
 
-   A burning brand, typically made from coconut fronds, served as a torch.
+A burning brand, typically made from coconut fronds, served as a torch.
 
 <
 POc *sulu 'dry coconut leaf torch' (Milke 1961)
-  Adm: Lou               sul               'coconut frond (used for torches)'
-  Adm: Titan             sūlu              'torch used for scorching canoe hulls and outriggers, made of coconut fronds'
-  NNG: Bing              sul               'lamp (traditional, made from old mats of woven coconut leaves)'
- NNG: Gedaged            sul
- NNG: Takia              sul
- MM: Lihir               sul               'torch'
- MM: Tolai               ul                'torch made of dry leaves of the coconut palm'
- SES: Longgu             sulu              'leaf, especially of coconut'
- NCV : Uripiv            na-sul            'coconut frond (esp. a dry one); a light (traditional use for dry coconut fronds)'
- SV:    Sye              ilwo              'torch'
- Mic:   Carolinian       ul                'torch made from the long hard outer husk of young coconuts'
- Mic:   Mokilese         tɨl
- Fij:   Rotuman          sulu              'torch'
- Pn:    Niuean           hulu              'look for with light; torch'
- Pn:    Maori            huru              'glow'
+ Adm: Lou              sul           'coconut frond (used for torches)'
+ Adm: Titan            sūlu          'torch used for scorching canoe hulls and outriggers, made of coconut fronds'
+ NNG: Bing             sul           'lamp (traditional, made from old mats of woven coconut leaves)'
+ NNG: Gedaged          sul
+ NNG: Takia            sul
+ MM:  Lihir            sul           'torch'
+ MM:  Tolai            ul            'torch made of dry leaves of the coconut palm'
+ SES: Longgu           sulu          'leaf, especially of coconut'
+ NCV: Uripiv           na-sul        'coconut frond (esp. a dry one); a light (traditional use for dry coconut fronds)'
+ SV:  Sye              ilwo          'torch'
+ Mic: Carolinian       ul            'torch made from the long hard outer husk of young coconuts'
+ Mic: Mokilese         tɨl
+ Fij: Rotuman          sulu          'torch'
+ Pn:  Niuean           hulu          'look for with light; torch'
+ Pn:  Maori            huru          'glow'
 >
 
 
@@ -7157,52 +7152,52 @@ POc *sulu 'dry coconut leaf torch' (Milke 1961)
                                                                        Food preparation         147
 
 
-  Green and Pawley (Ch. 3, §3.6) note a general term for fireplace or hearth, PMP *dapuR,
-POc *rapu(R), with a frequent secondary meaning, particularly in Oceania, of 'ashes'.
+  Green and Pawley (Ch. 3, §3.6) note a general term for fireplace or hearth, PMP _*dapuR_,
+POc _*rapu(R)_, with a frequent secondary meaning, particularly in Oceania, of 'ashes'.
 Compounding may be used to distinguish the fireplace as 'place of ashes'.
 
 <
 PMP *dapuR 'hearth, fireplace' (Dempwolff 1938)
 POc *rapu(R) 'hearth, fireplace; ashes'
-  Adm: Nyindrou           |drahu (jih)|         'fireplace' (_jih_ 'fire')
-  PT:   Motu              rahu-rahu          'ashes, fireplace'
-  MM: Maringe             (nak)rofu          'ashes'
-  SES: Gela               ravu               'ashes'
-  SES: Arosi              rahu               'ashes'
-  NCV: Mota               (ta)rowo           'white ashes of burnt-out wood'
-  Fij : Wayan             ravu               'ashes' (_mata-ravu_ 'fireplace')
-  Fij:  Bauan             dravu              'ashes' (_matā-dravu_ 'fireplace')
-  Pn:   Samoan            (magā)lafu        'hearth'
-  Pn:   Tokelauan         (gā)lafu          'fireplace'
-  Pn:   Hawaiian          lehu               'ashes'
+  Adm: Nyindrou         |drahu (jih)|     'fireplace' (_jih_ 'fire')
+  PT:  Motu             rahu-rahu         'ashes, fireplace'
+  MM:  Maringe          (nak)rofu         'ashes'
+  SES: Gela             ravu              'ashes'
+  SES: Arosi            rahu              'ashes'
+  NCV: Mota             (ta)rowo          'white ashes of burnt-out wood'
+  Fij: Wayan            ravu              'ashes' (_mata-ravu_ 'fireplace')
+  Fij: Bauan            dravu             'ashes' (_matā-dravu_ 'fireplace')
+  Pn:  Samoan           (magā)lafu        'hearth'
+  Pn:  Tokelauan        (gā)lafu          'fireplace'
+  Pn:  Hawaiian         lehu              'ashes'
   cf. also:
-  Pn:    Tongan           (ta)lafu           'fireplace on a boat'
+  Pn:  Tongan           (ta)lafu          'fireplace on a boat'
 >
 
-There is a second term, PAn *qabu, POc *qapu, with similar reference. Blust (ACD) comments:
-"*qabu is among the most widespread and stable morphemes in the Austronesian family. It
+There is a second term, PAn _*qabu_, POc _*qapu_, with similar reference. Blust (ACD) comments:
+"_*qabu_ is among the most widespread and stable morphemes in the Austronesian family. It
 referred to ashes, and prototypically to the ashes in the fireplace (hence its recurrent replacement
 of PMP *dapuR in the meaning 'hearth')."
 
 <
 PAn *qabu 'ash, cinder, powder' (ACD)
 POc *qapu 'ashes, dust'
- Adm: Mussau              au                 'ash'
- Adm: Lou                 kɔp                 'dust'
- NNG: Gitua               avu-avu            'ash'
- PT:   Iduna              avu                'ashes'
- PT:   Motu               kahu               'ashes'
- MM: Nakanai              havu               'lime (made from burnt shells)'
- SES: To'aba'ita          afufu              'crumbs'
- NCV : Raga               avu                'ashes, lime, dust'
+ Adm: Mussau             au                 'ash'
+ Adm: Lou                kɔp                'dust'
+ NNG: Gitua              avu-avu            'ash'
+ PT:  Iduna              avu                'ashes'
+ PT:  Motu               kahu               'ashes'
+ MM:  Nakanai            havu               'lime (made from burnt shells)'
+ SES: To'aba'ita         afufu              'crumbs'
+ NCV: Raga               avu                'ashes, lime, dust'
 >
 
 
 6.2.5 Trivet
 
    We would expect to be able to reconstruct a term for a trivet, an arrangement of three
-stones on which the cooking pot is placed, but no clear reflex of PMP *dalikan, 'trivet' (Blust
-1986) has been found, in spite of the presence of terms for trivet in north-west Melanesia
+stones on which the cooking pot is placed, but no clear reflex of PMP _*dalikan_, 'trivet' 
+(Blust 1986) has been found, in spite of the presence of terms for trivet in north-west Melanesia
 and Fiji. For example:
 
 __pre__
@@ -7215,70 +7210,69 @@ __pre__
 
 148    Frantisek Lichtenberk and Meredith Osmond
 
+
 6.2.6 Stone oven
 
-
-   A far more soundly based reconstruction is POc *qumun 'oven made with hot stones, cook
+   A far more soundly based reconstruction is POc _*qumun_ 'oven made with hot stones, cook
 in a stone or earth oven', which has reflexes in every major Oceanic subgroup, together with
 some external cognates.[2] However, archaeological evidence points to such ovens having
-much greater antiquity in Near Oceania and Australia than in Southeast Asia (Allen, et al.
-1989 : 550-551 ; Horton 1994:380-381). The external cognates are therefore regarded as
+much greater antiquity in Near Oceania and Australia than in Southeast Asia 
+(Allen, et al. 1989 : 550-551; Horton 1994:380-381). The external cognates are therefore regarded as
 possible borrowings, and a higher-level reconstruction is not proposed.
 
-[2] WMP: Chamorro chum 'hole in the ground for baking'; CMP: Fordata umun 'pit in which tubers are baked'; Kei umun 'pit in which food is cooked'.
+[2] WMP: Chamorro _chum_ 'hole in the ground for baking'; CMP: Fordata _umun_ 'pit in which tubers are baked'; Kei _umun_ 'pit in which food is cooked'.
 
 <
 POc *qumun 'oven made with hot stones; cook in a stone or earth oven' (Chowning 1991, Lichtenberk 1994)
-  Adm: Seimat              um                  'earth oven'
-  NNG: Kairiru             umu(i)              'cook in earth oven' (SG OBI)
-  NNG: Kairiru             um                  'cook in earth oven' (PL OBJ)
-  PT: Molima               ʔumula             'stone oven'
-  MM: Nalik                umun                'earth oven'
-  MM: Nakanai              humu                'stone oven; cook on a stone oven by covering food with heated stones'
-  SES: Gela                umu                 'circular fireplace of stones'
-  SES: 'Are'are            ūmu                 'stone oven'
-  SES: Arosi               umu                 'round stone oven, with loose stones on top'
-  NCV : Mota               um                  'native oven'
-  SV :  Kwamera            n-umun              'earth oven' (n- is a fossil article)
-  Mic: Kiribatese          umun-               'put s.t. to cook on hot stones in earth oven'
-  Pn:   Niuean             umu                 'stone oven; food cooked in stone oven'
-  Pn:   Samoan             umu                 'stone oven, consisting of a shallow cavity lined with stones on which a fire is lit and cleared away before the food is laid on the hot stones'
-  Pn:    Emae              umu                 'earth oven'
-  Pn:    Maori             umu                 'earth oven'
+  Adm: Seimat            um                 'earth oven'
+  NNG: Kairiru           umu(i)             'cook in earth oven' (SG OBI)
+  NNG: Kairiru           um                 'cook in earth oven' (PL OBJ)
+  PT:  Molima            ʔumula             'stone oven'
+  MM:  Nalik             umun               'earth oven'
+  MM:  Nakanai           humu               'stone oven; cook on a stone oven by covering food with heated stones'
+  SES: Gela              umu                'circular fireplace of stones'
+  SES: 'Are'are          ūmu                'stone oven'
+  SES: Arosi             umu                'round stone oven, with loose stones on top'
+  NCV: Mota              um                 'native oven'
+  SV:  Kwamera           n-umun             'earth oven' (n- is a fossil article)
+  Mic: Kiribatese        umun-              'put s.t. to cook on hot stones in earth oven'
+  Pn:  Niuean            umu                'stone oven; food cooked in stone oven'
+  Pn:  Samoan            umu                'stone oven, consisting of a shallow cavity lined with stones on which a fire is lit and cleared away before the food is laid on the hot stones'
+  Pn:  Emae              umu                'earth oven'
+  Pn:  Maori             umu                'earth oven'
 >
 
-Chowning (1991 :55) argues that the gloss 'earth oven' is too restrictive, as raised ovens
+Chowning (1991: 55) argues that the gloss 'earth oven' is too restrictive, as raised ovens
 (covered with leaves rather than earth) as well as pit ovens are common in Oceania.
 
 
 
 6.2.7 Covering and uncovering an oven
 
-
    The usual implement for handling hot stones and food in the oven was tongs, probably a
 bent or folded piece of cane or midrib of a coconut frond. Note that some terms have been
-derived from the transitive verb form POc *kapit-i- 'grasp (with tongs)'.
+derived from the transitive verb form POc _*kapit-i-_ 'grasp (with tongs)'.
 
 <
 PMP *qapit 'pinch or squeeze between two surfaces' (ACD)
 POc *kapit 'tongs'
 POc *kapi(t), *kapit-i- 'grasp (with tongs)' (A few reflexes show unexpected-s, via palatisation before* -i; Lichtenberk reconstructs *kapis.) (Grace 1969)
-  Adm: Loniu               (pele)ʔip          'tongs made from bamboo strips'
-  Adm: Lou               kIp-kIpIt           'tongs, forceps'
-  NNG: Bing              kap-kapi(ŋ)        'tongs (made of bamboo)' (_-ŋ_ NOM)
-  NNG: Yabem             kapi(ŋ)            'clamp made of two pieces of wood tied together (used in sago washing); scissors, pincers, tweezers' (_-ŋ_ NOM)
-  NNG: Sengseng         e-kap               'tongs ' (_e-_ ART)
-  PT:  Sudest           kavərə            'tongs '
-  PT:  Motu             kahi                'tongs to lift hot stones with'
-  MM: Sursurunga        kapsi               'get hot stones, pick up (coals)'
-  MM: Teop              ka-kapihi           'tongs'
-  MM: Tinputz           (i)kapih            'tongs made from a palm tree' (_i-_ < POc _*i-_ INS)
-  SES: Tolo             kapi                'bamboo tongs used to take hot stones out of the oven'
-  SES:    Arosi         ʔahisi              'take up with tongs; fasten two sticks together'
-  SES:    Arosi         ʔa-ʔahi             'tongs, bamboo'
+  Adm: Loniu         (pele)ʔip         'tongs made from bamboo strips'
+  Adm: Lou           kIp-kIpIt         'tongs, forceps'
+  NNG: Bing          kap-kapi(ŋ)       'tongs (made of bamboo)' (_-ŋ_ NOM)
+  NNG: Yabem         kapi(ŋ)           'clamp made of two pieces of wood tied together (used in sago washing); scissors, pincers, tweezers' (_-ŋ_ NOM)
+  NNG: Sengseng      e-kap             'tongs ' (_e-_ ART)
+  PT:  Sudest        kavərə            'tongs '
+  PT:  Motu          kahi              'tongs to lift hot stones with'
+  MM:  Sursurunga    kapsi             'get hot stones, pick up (coals)'
+  MM:  Teop          ka-kapihi         'tongs'
+  MM:  Tinputz       (i)kapih          'tongs made from a palm tree' (_i-_ < POc _*i-_ INS)
+  SES: Tolo          kapi              'bamboo tongs used to take hot stones out of the oven'
+  SES: Arosi         ʔahisi            'take up with tongs; fasten two sticks together'
+  SES: Arosi         ʔa-ʔahi           'tongs, bamboo'
   cf. also:
-  Pn:    Tongan         (hi)kofi            'tongs'
-  Pn:    W. Futunan     (i)kofi             'large wooden tongs for removing stones from oven'
+  Pn:  Tongan        (hi)kofi          'tongs'
+  Pn:  W. Futunan    (i)kofi           'large wooden tongs for removing stones from oven'
 >
 
                                                                        Food preparation     149
@@ -7292,19 +7286,19 @@ cooking, probably also have more general reference:
 
 <
 POc *taqo(n), *taqon-i- 'press down, weigh down with a weight, cover over with the cover weighed down; close a stone oven, (when earth or the last layer of leaves has been placed on top)'
- NNG: Mangap            to                 'cook with hot stones; bake'
- NNG: Kove              ta-tao             'cook in a native oven'
- MM: Nakanai            taho(robo)         'put stones on top of the oven (over the bundled food)' (_robo_ 'cover')
- SES:    Gela           tao                'be face down, flat on face; (leaves in cooking) be on oven'
- NCV : Lewo            toni                'cook on hot stones; bake'
- NCV: Nguna            taoni               'bake in earth oven'
- Mic: Kiribatese       taon-               'press down, apply weight on'
- Mic: Marshallese      cōōn                 'press down on '
- Fij:  Rotuman         fao                 'cook and keep overnight for use next day'
- Pn:   Tongan          taʔo                'bake'
- Pn:   Tongan          taʔo-taʔo           'put a weight on to hold down'
-  Pn:     Tikopia       tao                'cover over, press down (oven +); bake food (from technique of covering earth oven with leaf pads in cooking)'
-  Pn:     Maori          tao               'cook in earth oven; weigh down'
+ NNG: Mangap        to            'cook with hot stones; bake'
+ NNG: Kove          ta-tao        'cook in a native oven'
+ MM:  Nakanai       taho(robo)    'put stones on top of the oven (over the bundled food)' (_robo_ 'cover')
+ SES: Gela          tao           'be face down, flat on face; (leaves in cooking) be on oven'
+ NCV: Lewo          toni          'cook on hot stones; bake'
+ NCV: Nguna         taoni         'bake in earth oven'
+ Mic: Kiribatese    taon-         'press down, apply weight on'
+ Mic: Marshallese   cōōn          'press down on '
+ Fij: Rotuman       fao           'cook and keep overnight for use next day'
+ Pn:  Tongan        taʔo          'bake'
+ Pn:  Tongan        taʔo-taʔo     'put a weight on to hold down'
+ Pn:  Tikopia       tao           'cover over, press down (oven +); bake food (from technique of covering earth oven with leaf pads in cooking)'
+ Pn:  Maori         tao           'cook in earth oven; weigh down'
 >
 
 150     Frantisek Lichtenberk and Meredith Osmond
@@ -7357,7 +7351,7 @@ usually in leaves, sometimes in bark."
 
 
    He has listed terms for a range of cooking methods, with a word of warning as to the
-reliability of precision in English glosses ('roast', 'grill', 'broil ', 'cook in fire' etc.). He writes
+reliability of precision in English glosses ('roast', 'grill', 'broil', 'cook in fire' etc.). He writes
 (p.273), "Even though more than one term for roasting may be reconstructable for POc, the
 differences in the glosses for the witnesses most likely reflect differences in the English
 backgrounds of the authors rather than differences in cooking methods."
@@ -7368,14 +7362,14 @@ backgrounds of the authors rather than differences in cooking methods."
 
 <
 PEOc *papi- 'cook in oven with hot stones and leaves' (cf. PEOc *papia 'firewood, fuel' with cognates in Mic. and Pn.)
- SES:    Lau              fafi                 'put leaves on oven in cooking'
- SES:    Kwaio            fafi                 'cook in leaf oven'
- SES:    'Are'are         hahi-                'cook between hot stones'
- SES:    Arosi            hahi                 'cook in native oven (umu)'
- Fij:    Bauan            vavi-                'bake food in native oven (lovo)'
+ SES:    Lau              fafi            'put leaves on oven in cooking'
+ SES:    Kwaio            fafi            'cook in leaf oven'
+ SES:    'Are'are         hahi-           'cook between hot stones'
+ SES:    Arosi            hahi            'cook in native oven (umu)'
+ Fij:    Bauan            vavi-           'bake food in native oven (lovo)'
 >
 
-   Lichtenberk also gives a reconstruction, *biti 'cook with hot stones (either by baking in
+   Lichtenberk also gives a reconstruction, _*biti_ 'cook with hot stones (either by baking in
 stone oven, or by boiling by dropping hot stones into liquid)' (p.271), which he suggests may
 be POc, although he points out that all cognates are from either Northwest or Southeast
 Solomonic languages, and thus likely candidates for borrowing. We have opted here to label
@@ -7388,25 +7382,25 @@ his reconstruction PSS.
 <
 PAn *CuNuh 'roast food over a fire' (ACD)
 POc *tunu 'roast on embers or in fire; burn (s.t.); make decorative cicatrices by burning the skin'
- Adm: Wuvulu               unu                'cook, roast'
- NNG: Wogeo                tunu               'roast, burn; cook it!'
- NNG: Gedaged              tun(i)            'cause to burn, light (a fire so it burns well), set fire'
-  NNG: Sengseng            tun                'burn; burn shells or limestone to make lime; burn cicatrices; set fire to'
-  PT: Minaveha             tunu               'roast, burn, ignite'
-  PT: Motu                 tunu-              'bake pottery'
-  MM: Tolai                tun                'burn, cook, roast, broil'
-  MM: Roviana              tunu               'burn scars on the arm (as is often done by young boys)'
-  MM: Maringe              tunu               'burn with fire'
-  SES: Bugotu              tunu               'a mark, blot, cicatrice caused by burning'
-  SES: Tolo                tunu               (1) 'light lamp or fire' ; (2) 'burn the skin to make raised scar tissue'
-  SES:   Sa'a              ūnu-unu            'burn in the fire, roast flesh on the embers; raise cicatrices on the body by burning'
- NCV : Mota [3]                tun                   'roast on or over embers'
- NCal: Nemi                   cini                  'burn, grill in fire'
- Mic : Kiribatese            tin-tin               'grill or roast on open fire'
- Fij:  Bauan                 tunu                  'warm food up again '
- Pn:   Tongan                tunu                  'cook on open fire'
- Pn:   Takuu                 tunu                  'cook on hot coals, roast'
- Pn:   Hawaiian              kunu                  'broil (meat, fish +) on coals'
+ Adm:  Wuvulu         unu           'cook, roast'
+ NNG:  Wogeo          tunu          'roast, burn; cook it!'
+ NNG:  Gedaged        tun(i)        'cause to burn, light (a fire so it burns well), set fire'
+ NNG:  Sengseng       tun           'burn; burn shells or limestone to make lime; burn cicatrices; set fire to'
+ PT:   Minaveha       tunu          'roast, burn, ignite'
+ PT:   Motu           tunu-         'bake pottery'
+ MM:   Tolai          tun           'burn, cook, roast, broil'
+ MM:   Roviana        tunu          'burn scars on the arm (as is often done by young boys)'
+ MM:   Maringe        tunu          'burn with fire'
+ SES:  Bugotu         tunu          'a mark, blot, cicatrice caused by burning'
+ SES:  Tolo           tunu          (1) 'light lamp or fire' ; (2) 'burn the skin to make raised scar tissue'
+ SES:  Sa'a           ūnu-unu       'burn in the fire, roast flesh on the embers; raise cicatrices on the body by burning'
+ NCV:  Mota [3]       tun           'roast on or over embers'
+ NCal: Nemi           cini          'burn, grill in fire'
+ Mic:  Kiribatese     tin-tin       'grill or roast on open fire'
+ Fij:  Bauan          tunu          'warm food up again '
+ Pn:   Tongan         tunu          'cook on open fire'
+ Pn:   Takuu          tunu          'cook on hot coals, roast'
+ Pn:   Hawaiian       kunu          'broil (meat, fish +) on coals'
 >
 
 [3] Veverau dialect.
@@ -7422,17 +7416,16 @@ POc *mwaRi 'roast, burn' (Grace 1969) [4]
    Mic: Kiribatese           mʷai                  'cooked, well done' (Geraghty 1990)
 >
 
-[4] Geraghty (1990:65) also cites PCP *ŋiwai on the basis of an Eastern Fijian term 'browned by exposure to sun',
+[4] Geraghty (1990:65) also cites PCP _*ŋiwai_ on the basis of an Eastern Fijian term 'browned by exposure to sun',
 
 
 6.3.3 Piercing, pricking
 
    When food was roasted, instead of simply being placed in the fire, it may have been
 skewered. The terms referring to skewering and skewers were also used to refer to testing
-food by pricking to see whether it was done. (See PMP *cukcuk, suksuk 'skewer', and POc
-*(su)su(k) 'anything used to pierce, prick, a skewer'; *(su)suk-i- 'pierce, prick'; Ch. 4, §3.2. 1
+food by pricking to see whether it was done. (See PMP _*cukcuk_, _suksuk_ 'skewer', and POc
+_*(su)su(k)_ 'anything used to pierce, prick, a skewer'; _*(su)suk-i-_ 'pierce, prick'; Ch. 4, §3.2. 1
 and Ch. 9, §4. 1).
-
 
 
 6.3.4 Boiling, steaming
