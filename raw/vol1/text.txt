@@ -4184,26 +4184,26 @@ POc *matau 'axe'
 
 <
 POc *(m,mʷ)ata- 'point, cutting edge, sharp projection ' (Grace 1969)
-    Adm: Loniu                   mata-n          'blade'
-    Adm: Bipi                    mata-n          'sharp'
-    NNG: Takia                   mala-n [5]        'sharp, bright; (knife) edge'
-    PT:   Motu                   mata            'point or tip of anything'
-    SES: Lau                     mā              'point, edge'
-    SES: Sa'a                    mā              'edge, point, blade, brim '
-    NCV : Mota                   mata(i)         'edge, point' (_-i_ < POc _*qi_ 'generic possessive preposition')
-    Mic:     Puluwat             māh             '(pencil, spear +) point'
-    Mic:     Mokilese            mac             'spearhead'
-    Fij:     Wayan               ŋata           'be sharp'
-    Pn:      Tongan              mata            'blade, cutting edge, point'
-    Pn:      Tahitian            mata            'edge of a tool'
+    Adm: Loniu               mata-n         'blade'
+    Adm: Bipi                mata-n         'sharp'
+    NNG: Takia               mala-n [5]     'sharp, bright; (knife) edge'
+    PT:  Motu                mata           'point or tip of anything'
+    SES: Lau                 mā             'point, edge'
+    SES: Sa'a                mā             'edge, point, blade, brim '
+    NCV: Mota                mata(i)        'edge, point' (_-i_ < POc _*qi_ 'generic possessive preposition')
+    Mic: Puluwat             māh            '(pencil, spear +) point'
+    Mic: Mokilese            mac            'spearhead'
+    Fij: Wayan               ŋata           'be sharp'
+    Pn:  Tongan              mata           'blade, cutting edge, point'
+    Pn:  Tahitian            mata           'edge of a tool'
 >
 
 [5]   Takia -l- is the lenis reflex of POc *-t-.
 
-The following are possibly related to the set above but all reflect an extra *i (Loniu and
-Tawala reflect a possible POc *mʷati, the NNG items a putative *mCW)aita). It is possible that
-this *i reflects the incorporation into _*(m,mʷ)ata_ of the generic possessive preposition *qi,
-which would frequently have occurred immediately after it (e.g. POc _*m(ʷ)ata-qi kiRam_
+The following are possibly related to the set above but all reflect an extra _*i_ (Loniu and
+Tawala reflect a possible POc _*mʷati_, the NNG items a putative _*(m,mʷ)aita_). It is possible that
+this _*i_ reflects the incorporation into _*(m,mʷ)ata_ of the generic possessive preposition _*qi_,
+which would frequently have occurred immediately after it (e.g. POc _**(m,mʷ)ata-qi kiRam_
 'axe blade') and is reflected in Mota matai above.
 
 __pre__
@@ -4219,37 +4219,37 @@ __pre__
 <
 PMP *ta(ŋ)kub 'adze' (Dahl 1981)
 POc *taku 'adze'
- Adm: Loniu             taku(wen)      'dig (s.t.) with adze'
+ Adm: Loniu           taku(wen)      'dig (s.t.) with adze'
 PCP *taku 'cutting implement made from shell of turtle or Tridacna shell'
-  Fij:   Wayan           taku             'Hawksbill turtle and its shell'
-  Pn:    Tongan          toku             'knife or cutter made from turtleshell or hard wood (now rare)'
-  Pn:    Tuvalu          takū             'axe or flat-bladed adze with Tridacna blade'
-  Pn:    E. Uvean        takū             'shell of turtle'
+ Fij: Wayan           taku           'Hawksbill turtle and its shell'
+ Pn:  Tongan          toku           'knife or cutter made from turtleshell or hard wood (now rare)'
+ Pn:  Tuvalu          takū           'axe or flat-bladed adze with Tridacna blade'
+ Pn:  E. Uvean        takū           'shell of turtle'
 >
 
 <
 PMP *(t,T)aRaq 'hew, plane' (Blust 1972b)
 POc *taRa(q) (N, V) 'adze'
 POc *taRaq-i- 'chop with adze'
-  NNG: Takia             tare             (VT) 'cut, hew, as with an axe'
-  NNG: Manam             tara             'cut down (branches)'
-  PT:   Motu             tarai-          (V) 'adze, chop, cut wood'
-  PT:   Molima           tala             'cut down trees; cut firewood; carve'
-  PT:   Dobu             tala             (VT) 'fell a tree, cut out a canoe; lance flesh'
-  MM: Tabar              tara             'chop'
-  MM: Minigir            (ta)tara         'adze'
-  SES: Arosi             arai-            'chop, cut, cut down a tree'
-  NCV: Mota              tara             'hew, chop, cut'
-  NCV : Paamese          tāta             'adze'
-  SV:   Lenakel          (a)rai           'cut'
-  SV:   Anejom           (a)tai           'slice, cut without raising knife'
-  Mic: Kiribatese        ta-tā            (v) 'adze'
-  Mic: Carolinian        sār              'knife'
-  Fij:  Bauan            tā               'chop with knife or axe'
-  Pn:   Tongan           tā               'hit, strike, beat'
-  Pn:   Tongan           tāʔi             'chop, cut or carve (canoe +)'
-  Pn:    Niuean          tā               'strike, kill, adze'
-  Pn:    Hawaiian        kā               'hit, strike, hack, thrust'
+  NNG: Takia           tare            (VT) 'cut, hew, as with an axe'
+  NNG: Manam           tara            'cut down (branches)'
+  PT:  Motu            tarai-          (V) 'adze, chop, cut wood'
+  PT:  Molima          tala            'cut down trees; cut firewood; carve'
+  PT:  Dobu            tala            (VT) 'fell a tree, cut out a canoe; lance flesh'
+  MM:  Tabar           tara            'chop'
+  MM:  Minigir         (ta)tara        'adze'
+  SES: Arosi           arai-           'chop, cut, cut down a tree'
+  NCV: Mota            tara            'hew, chop, cut'
+  NCV: Paamese         tāta            'adze'
+  SV:  Lenakel         (a)rai          'cut'
+  SV:  Anejom          (a)tai          'slice, cut without raising knife'
+  Mic: Kiribatese      ta-tā           (v) 'adze'
+  Mic: Carolinian      sār             'knife'
+  Fij: Bauan           tā              'chop with knife or axe'
+  Pn:  Tongan          tā              'hit, strike, beat'
+  Pn:  Tongan          tāʔi            'chop, cut or carve (canoe +)'
+  Pn:  Niuean          tā              'strike, kill, adze'
+  Pn:  Hawaiian        kā              'hit, strike, hack, thrust'
 >
 
    The existence of axe and adze heads with characteristic shaping to accommodate a handle,
@@ -4261,18 +4261,18 @@ ethnographers (e.g. Oliver 1974: 135-137 for Tahiti).
 <
 PMP *paRada 'axe-adze handle' (Blust 1989)
 POc *(p,pʷ)aRara 'handle' (Milke 1968: *paRaRa)
-  NNG: Lukep (Pono) parere                 'handle: used of axe, hammer; not of machete, shovel'
-  NNG: Gedaged           paȴaȴ             'handle (of broom, hammer, but not of cups +) '
-  NNG: Takia             parar             'handle, a curved shaped handle used in the construction of several Takia cutting tools. It is made from the makas tree (Pidgin) (Hibiscus tiliaceus). They heat the handle over a fire in order to shape it.'
-    PT:      Motu              parara               'handle'
-    MM:      Roviana           varara               'wooden handle (of axe +)'
-    SES:     Gela              valala               'handle; cross handle of an adze'
-    SES:     Sa'a             halala               'helve an axe'
-    SES:     Arosi             hara-hara            'bamboo knife for cutting up pigs'
-    SES:     Arosi             (a)harara            'having a handle' (a- < POc *ta-)
-    NCV: Raga                  vara                 'handle'
-    Mic: Puluwat               pār, pera-           '(knife, saw) handle'
-    Mic: Woleaian              paṣ                  'that part of a utensil or tool which is to be held with the hand'
+  NNG: Lukep (Pono)   parere            'handle: used of axe, hammer; not of machete, shovel'
+  NNG: Gedaged        paȴaȴ             'handle (of broom, hammer, but not of cups +) '
+  NNG: Takia          parar             'handle, a curved shaped handle used in the construction of several Takia cutting tools. It is made from the makas tree (Pidgin) (Hibiscus tiliaceus). They heat the handle over a fire in order to shape it.'
+  PT:  Motu           parara            'handle'
+  MM:  Roviana        varara            'wooden handle (of axe +)'
+  SES: Gela           valala            'handle; cross handle of an adze'
+  SES: Sa'a           halala            'helve an axe'
+  SES: Arosi          hara-hara         'bamboo knife for cutting up pigs'
+  SES: Arosi          (a)harara         'having a handle' (a- < POc *ta-)
+  NCV: Raga           vara              'handle'
+  Mic: Puluwat        pār, pera-        '(knife, saw) handle'
+  Mic: Woleaian       paṣ               'that part of a utensil or tool which is to be held with the hand'
 >
 
 With regard to the reconstruction of _*(p,pʷ)_, see Chapter 2, §2. 1 . Western Oceanic and SES
@@ -4289,7 +4289,7 @@ reflexes show haplology.
    Knives were typically made from bamboo. Shells also provided good cutting edges. Probably
 the very best cutting edge would have been a flake of obsidian, used as a razor or for
 whatever forms of surgery might have been performed on the human body, and the term for
-this was apparently *koto (see below). However, dedicated terms for 'knife', as opposed to
+this was apparently _*koto_ (see below). However, dedicated terms for 'knife', as opposed to
 the substances they were made from, are hardly reconstructable in POco The only one we can
 be sure of is:
 
@@ -4302,36 +4302,36 @@ POc *piso '(bamboo) knife'
     MM:     Tabar              viso                 'bamboo'
 >
 
-[6]   Reconstructed on the basis of Gorontalo _pito_, Indonesian _pisau_, Buginese _piso_, all 'knife', and the Oceanic
+[6] Reconstructed on the basis of Gorontalo _pito_, Indonesian _pisau_, Buginese _piso_, all 'knife', and the Oceanic
     reflexes listed here.
 
 
-   Although PCP *sele 'knife; cut with a knife' seems to have cognates elsewhere, it is highly
+   Although PCP _*sele_ 'knife; cut with a knife' seems to have cognates elsewhere, it is highly
 likely that the Lukep, Lihir and Nengone terms were introduced by Fijian or Polynesian
 missionaries to apply to western metal knives:
 
 <
 PEOc *sele 'knife; cut with a knife'
-    SES:    Kwaio              sele                 'shell used for cutting; trim (edge of s.t.)'
-    Fij:    Rotuman            sele                 'cut across path, intercept'
-    Fij:    Wayan              sele                 'cut a slice of s.t.; slice (one piece) of s.t.'
-    Fij:    Wayan              (i)sele              'instrument for slicing, knife (generic)' (e.g. _isele loku_ 'pocket knife', _isele ni drukudruku_ 'bushknife, machete'; _i-_ < POc _*i-_ INS)
-  Fij:       Bauan         sele, sele(va)     'cut with a knife; operate on; castrate'
-  Fij:       Bauan         (i)sele            'knife' (_i-_ < POc _*i-_ INS)
-  Pn:     Tongan           hele               'knife; cut with a knife'
-  Pn:     E. Futunan       sele               'knife, cut'
+  SES:  Kwaio         sele         'shell used for cutting; trim (edge of s.t.)'
+  Fij:  Rotuman       sele         'cut across path, intercept'
+  Fij:  Wayan         sele         'cut a slice of s.t.; slice (one piece) of s.t.'
+  Fij:  Wayan         (i)sele      'instrument for slicing, knife (generic)' (e.g. _isele loku_ 'pocket knife', _isele ni drukudruku_ 'bushknife, machete'; _i-_ < POc _*i-_ INS)
+  Fij:  Bauan         sele, sele(  'cut with a knife; operate on; castrate'
+  Fij:  Bauan         (i)sele      'knife' (_i-_ < POc _*i-_ INS)
+  Pn:   Tongan        hele         'knife; cut with a knife'
+  Pn:   E. Futunan    sele         'knife, cut'
   cf. also
-  NNG: Lukep               sele               'machete'
-  MM:   Lihir              sele               'knife'
-  NCal: Nengone            hele               'knife'
+  NNG:  Lukep         sele         'machete'
+  MM:   Lihir         sele         'knife'
+  NCal: Nengone       hele         'knife'
 >
 
 92 Meredith Osmond and Malcolm Ross
 
 
 Although the following Admiralties set bears a superficial similarity to the CP set above, the
-forms are too different to suggest cognation. PEAd *care points back to an otherwise unattested
-POc **ja(r,c)e.
+forms are too different to suggest cognation. PEAd _*care_ points back to an otherwise unattested
+POc _**ja(r,c)e_.
 
 <
 PEAd *care 'knife, slice with a knife'
@@ -4341,23 +4341,22 @@ PEAd *care 'knife, slice with a knife'
   Adm: Nyindrou            san                'slice, cut'
 >
 
-Biggs (1993) includes one further reconstruction for 'bamboo knife', PPn *koj e.
+Biggs (1993) includes one further reconstruction for 'bamboo knife', PPn _*kofe_.
 
 
 
 4.4. 1.3 Flint, obsidian
 
     Obsidian, glass-hard volcanic stone found on Lou Island (Admiralties), on Fergusson
-Island in the D 'Entrecasteaux group, at Talasea (Willaumez Peninsula of New Britain) and
+Island in the D'Entrecasteaux group, at Talasea (Willaumez Peninsula of New Britain) and
 Banks Island, Vanuatu, and, from its traces in excavated Lapita sites, a much sought-after
-trade item among early Oceanic speakers, serves as a fine cutting edge. POc *nad(r)i is
-reconstructable, although in places it refers only to hard stone (with a cutting edge?). *qa(r,R)il]
+trade item among early Oceanic speakers, serves as a fine cutting edge. POc _*nad(r)i_ is
+reconstructable, although in places it refers only to hard stone (with a cutting edge?). _*qa(r,R)iŋ_
 is reconstructable only for PWOc. Reflexes of POc *koto refer to a variety of uses of the
 material and suggest that its primary meaning was 'obsidian cutting edge':
 
 
-Figure 11 : POc *nad(r)i 'flint, obsidian, stone with a cutting edge' ;
-                              POc *koto 'obsidian knife or blade'
+Figure 11 : POc _*nad(r)i_ 'flint, obsidian, stone with a cutting edge'; POc *koto 'obsidian knife or blade'
 
                                                                         Household artefacts     93
 
@@ -4367,37 +4366,37 @@ POc *nad(r)i 'flint, obsidian, stone with a cutting edge'
   PT:  Motu               nadi              'stone'
   SES: Gela               nadi              'flint'
   SES: Bugotu             nadi              'flint'
-  SES: Lau                |(fou) nagi|        'flint'
+  SES: Lau                |(fou) nagi|      'flint'
   SES: Arosi              nagi              'flint, obsidian'
 >
 
 <
 PWOc *qa(r,R)iŋ 'obsidian; razor'
-  NNG: Lukep (Pono) ailiŋ                  'razor (traditional razor was a sharpened shell)'
-  NNG: Gedaged      yaliŋ                  'obsidian (a splinter of it serves as a razor)'
-  NNG: Kove         ali-ali                 'obsidian'
-  PT:  Duau         kalilia                 'arrow'
-  PT:  Sudest       kayina                  'knife'
-  MM: Nakanai       hali                    'obsidian; razor formerly made of obsidian'
-  MM: Meramera      ali                     'obsidian'
+  NNG: Lukep (Pono)  ailiŋ            'razor (traditional razor was a sharpened shell)'
+  NNG: Gedaged       yaliŋ            'obsidian (a splinter of it serves as a razor)'
+  NNG: Kove          ali-ali          'obsidian'
+  PT:  Duau          kalilia          'arrow'
+  PT:  Sudest        kayina           'knife'
+  MM:  Nakanai       hali             'obsidian; razor formerly made of obsidian'
+  MM:  Meramera      ali              'obsidian'
 >
 
 <
 POc *koto 'obsidian head of spear, obsidian knife or blade; cut (across)'
-  NNG: Dami               oto               'spear'
-  NNG: Lukep              koto              'cut across grain'
-  NNG: Wab                kot               'cut'
-  NNG: Sissano            ʔot              'chop'
-  MM: Tigak               koto              'cut off'
-  MM: Ramoaaina           koto              'obsidian; used to make scars or to shave'
-  MM: Tolai               koto              'piece of stone (obsidian) or shell used as a lance'
-  MM: Roviana             koto(a)           'cut or trim hair, shrubs +'
-  SES: Kwaio              ʔoto             'hit and perforate'
-  SES: Arosi              koto              (V) 'spear'
-  SES: Arosi              oto               'arrow without barbs'
-  NCV: Mota               koto              'nip, snap'
-  NCV : Nguna             koto(vi)          'break, cut (a long thing); separate, away'
-  NCV: Lonwolwol          kote, gote        'across, through'
+  NNG: Dami              oto              'spear'
+  NNG: Lukep             koto             'cut across grain'
+  NNG: Wab               kot              'cut'
+  NNG: Sissano           ʔot              'chop'
+  MM:  Tigak             koto             'cut off'
+  MM:  Ramoaaina         koto             'obsidian; used to make scars or to shave'
+  MM:  Tolai             koto             'piece of stone (obsidian) or shell used as a lance'
+  MM:  Roviana           koto(a)          'cut or trim hair, shrubs +'
+  SES: Kwaio             ʔoto             'hit and perforate'
+  SES: Arosi             koto             (V) 'spear'
+  SES: Arosi             oto              'arrow without barbs'
+  NCV: Mota              koto             'nip, snap'
+  NCV: Nguna             koto(vi)         'break, cut (a long thing); separate, away'
+  NCV: Lonwolwol         kote, gote       'across, through'
 >
 
 
@@ -4417,13 +4416,11 @@ femur. These were useful for piercing shells, splitting fibres for weaving, spli
 separating coconut meat from its shell and such daily activities. They were probably also used
 to pierce earlobes and the nasal septum. Green (1979:39) lists a worked pig-tusk piercing tool
 from the Main Reef Islands, circa 1100 B.C. Reconstructions appear primarily verbal, with a
-term for the instrument sometimes derivable from the verb. They include  POc *puru(k),
-*puruk-i- 'pierce, bore (hole)', POc *buru 'bore a hole, drill'; PWOc *bʷaR(i,e) 'bore (hole)';
-and PEOc *paRo 'drill through, pierce, perforate' (see Chapter 9, §4.2, for the cognate sets).
+term for the instrument sometimes derivable from the verb. They include  POc _*puru(k)_,
+_*puruk-i-_ 'pierce, bore (hole)', POc _*buru_ 'bore a hole, drill'; PWOc _*bʷaR(i,e)_ 'bore (hole)';
+and PEOc _*paRo_ 'drill through, pierce, perforate' (see Chapter 9, §4.2, for the cognate sets).
 
 94 Meredith Osmond and Malcolm Ross
-
-
 
 
 4.4. 1.5 Sharpening and grinding
@@ -4442,37 +4439,37 @@ PCP *vuqa(i)ŋa 'whetstone, grindstone'
   Pn:    Tongan          fuʔo-fuʔaŋa      'pumice'
   Pn:    Samoan          foaŋa            'grindstone'
   Pn:    Rarotongan      ʔoaŋa            'grindstone'
-  Pn:    Mangareva       hoaga             'volcanic stone used as hone or sharpener'
+  Pn:    Mangareva       hoaga            'volcanic stone used as hone or sharpener'
   Pn:    Maori           hōaŋa            'sandstone used in grinding stone'
 >
 
-From its form it is clear that PCP *vuqa(i)ŋa is a nominalisation. The corresponding verb
-occurs in Polynesian languages with somewhat altered meaning (Samoan foa 'break rock or
-shell', Hawaiian hoa 'strike with stick or club'). Together with the WOc cognates, Iduna (PT)
-fua- 'crush', Motu (PT) huari 'smash, as pottery' and Tolai puar 'break (cup, glass +)' they
-point to POc *pu(q)a(R), *pu(q)aR-i- 'break, as s.t. hard, smash'.
+From its form it is clear that PCP _*vuqa(i)ŋa_ is a nominalisation. The corresponding verb
+occurs in Polynesian languages with somewhat altered meaning (Samoan _foa_ 'break rock or
+shell', Hawaiian _hoa_ 'strike with stick or club'). Together with the WOc cognates, Iduna (PT)
+_fua-_ 'crush', Motu (PT) _huari_ 'smash, as pottery' and Tolai _puar_ 'break (cup, glass +)' they
+point to POc _*pu(q)a(R)_, _*pu(q)aR-i-_ 'break, as s.t. hard, smash'.
 
 <
 PAn *Sasaq 'whet, sharpen' (ACD)
 POc *asa(q), *asaq-i- 'grate, sharpen by grating or rubbing'
 POc *i-asa(q) 'grater; anything used to grate, grind' (Lichtenberk 1994)
-  Adm: Loniu             yasa(y)            'sharpen (a cutting edge)'
-  NNG: Manam             ara                'grate, sharpen, rub'
-  NNG: Kairiru           yas                'sharpen s.t.'
-  MM: Teop               aha                'grate (tapioca +); scrub (floor +)'
-  MM: Teop               (i)aha             'grater (for tapioca)' (i- < POc *i- INS)
-  MM:    Maringe         jaha, zaha       'sharpen (knife, axe +); grate (tapioca, sweet potato)'
-  MM:     Roviana        asa-i-             'grind (very blunt axe +); grate (sweet potato, taro +)'
-  SES:   Bugotu          (a)aha             'grate, rub down (taro +) on a stone, sharpen by rubbing'
-  SES:   Lau              sata              'rub, rub down, sharpen by rubbing'
-  SES:   Arosi            ata               'scrape, rub, sharpen with rubbing'
-  NCV:   Mota             asa               'rub, wash with rubbing'
-  SV:    Kwamera          ərəsi             'scrape, grate'
-  Mic:   Carolinian       (m)asa            '(knife, axe +) blade'
-  Mic:   Ponapean         ete               'sharpen, put an edge on s.t.'
-  Fij:    Bauan           yaða-              'grate, grind, file'
-  Fij:    Bauan           (i)yaða            'grater, grindstone' (i- < POc *i- INS)
-  Pn:     Maori           aha-aha            'saw-like instrument of shark teeth set in a wooden mounting'
+  Adm: Loniu          yasa(y)          'sharpen (a cutting edge)'
+  NNG: Manam          ara              'grate, sharpen, rub'
+  NNG: Kairiru        yas              'sharpen s.t.'
+  MM:  Teop           aha              'grate (tapioca +); scrub (floor +)'
+  MM:  Teop           (i)aha           'grater (for tapioca)' (_i-_ < POc _*i-_ INS)
+  MM:  Maringe        jaha, zaha       'sharpen (knife, axe +); grate (tapioca, sweet potato)'
+  MM:  Roviana        asa-i-           'grind (very blunt axe +); grate (sweet potato, taro +)'
+  SES: Bugotu         (a)aha           'grate, rub down (taro +) on a stone, sharpen by rubbing'
+  SES: Lau            sata             'rub, rub down, sharpen by rubbing'
+  SES: Arosi          ata              'scrape, rub, sharpen with rubbing'
+  NCV: Mota           asa              'rub, wash with rubbing'
+  SV:  Kwamera        ərəsi            'scrape, grate'
+  Mic: Carolinian     (m)asa           '(knife, axe +) blade'
+  Mic: Ponapean       ete              'sharpen, put an edge on s.t.'
+  Fij: Bauan          yaða-            'grate, grind, file'
+  Fij: Bauan          (i)yaða          'grater, grindstone' (_i-_ < POc _*i-_ INS)
+  Pn:  Maori          aha-aha          'saw-like instrument of shark teeth set in a wooden mounting'
 >
 
                                                                       Household artefacts        95
@@ -4480,25 +4477,25 @@ POc *i-asa(q) 'grater; anything used to grate, grind' (Lichtenberk 1994)
 <
 PMP *kirkir (v) 'file, rasp' (Blust 1977a)
 POc *kiri 'file, rasp, saw'
-  NNG: Roinji             kiri-              'bore (hole)'
-  NNG: Manam              kuiri-             'bore (hole)'
-  NNG: Kove               iri                'clean teeth, scrub a saucepan (both done by rubbing with sand)'
-  PT:     Iduna           kili-li            'pumice stone'
-  PT:     Motu            iri                (N) 'saw'
-  PT:     Motu            iri-ri             'file'
-  Pn:     Tongan          kili               'saw, file'
-  Pn:     Tokelauan       kili               (v) 'file, rasp'
+  NNG: Roinji          kiri-              'bore (hole)'
+  NNG: Manam           kuiri-             'bore (hole)'
+  NNG: Kove            iri                'clean teeth, scrub a saucepan (both done by rubbing with sand)'
+  PT:  Iduna           kili-li            'pumice stone'
+  PT:  Motu            iri                (N) 'saw'
+  PT:  Motu            iri-ri             'file'
+  Pn:  Tongan          kili               'saw, file'
+  Pn:  Tokelauan       kili               (v) 'file, rasp'
 >
 
 <
 POc *giri 'file, rasp, saw'
-  NNG: Mangseng           kir                'rub, file'
-  NNG: Mangseng           kir(oŋa)          (N) 'file' (-oŋa NOM)
-  SES:    Gela            gi-giri            (N) 'rasp; a saw'
-  SES:    Lau             giri-giri          'roughen, as a stick with notches, or in making a file'
+  NNG: Mangseng        kir               'rub, file'
+  NNG: Mangseng        kir(oŋa)          (N) 'file' (_-oŋa_ NOM)
+  SES: Gela            gi-giri           (N) 'rasp; a saw'
+  SES: Lau             giri-giri         'roughen, as a stick with notches, or in making a file'
   cf. also:
-  NNG: Takia              riri                 'grate, pulverise by rubbing against s.t. rough; rasp'
-  PT:     Motu            riri               'grate (yams +)'
+  NNG: Takia           riri              'grate, pulverise by rubbing against s.t. rough; rasp'
+  PT:  Motu            riri              'grate (yams +)'
 >
 
 Both _*kiri_ and _*giri_ are reconstructable, the latter perhaps a verb from _*N-kiri_; the Polynesian
@@ -4513,40 +4510,39 @@ canoe or a Post of a house, with Coral sand rubbed on in the outer husk of a Coc
 rays skin, which makes them very smooth and neat." (quoted in Oliver 1974: 134). The
 general term for this may have been POc *quju(r) 'rub, make smooth by rubbing' (see Ch. 9,
 §2.3). In at least one language (Woleaian in Micronesia) the term for a file is the same term
-as that for stingray lfaiya > PAn *paRis 'stingray '), the skin of which serves as a fine
+as that for stingray (_faiya_ > PAn _*paRis_ 'stingray'), the skin of which serves as a fine
 abrasive.
 
 
 
 4.5 Bark-cloth, clothing, body decoration
 
-4.5.1 Bark-cloth (tapa)
+4.5.1 Bark-cloth (_tapa_)
 
    The material used to make bark-cloth or tapa in the Pacific area is obtained mainly from
 various species of trees belonging to the genera Broussonetia, Artocarpus, and Ficus, all of
-which belong to the family Moraceae. Wherever tapa was made, the Broussonetia papyrijera
+which belong to the family Moraceae. Wherever _tapa_ was made, the Broussonetia papyrijera
 or paper mulberry tree was used for the highest quality cloth. It is not native to the Pacific,
 but to eastern Asia, whence migrants carried it to Indonesia and the Pacific. The only other
-significant source is the Pipturus species, used for tapa particularly in Hawaii (Kooijman
- 1972: 1).
+significant source is the Pipturus species, used for _tapa_ particularly in Hawaii (Kooijman 1972: 1).
 
 96 Meredith Osmond and Malcolm Ross
 
     Bark-cloth is a significant item in Indonesia and in the eastern Oceanic region, particularly
 Polynesia, but also Santa Cruz, New Caledonia and Fiji. However, it does not feature strongly
-in the western Oceanic region. Ivens wrote (1918 : 186) that although bark-cloth (tapa) was
+in the western Oceanic region. Ivens wrote (1918: 186) that although bark-cloth (_tapa_) was
 made in Melanesia, it never figured as an article of clothing, and its main use was to form a
-kind of shawl in which the baby was slung when carried from the shoulder. I vens was
+kind of shawl in which the baby was slung when carried from the shoulder. Ivens was
 probably speaking from a Solomons perspective. Kooijman (1972:446) quotes reports by
 Chalmers and Gill (1885) which mention bark-cloth from Collingwood Bay and the Gulf of
 Papua (both PT); while in the Northern Province of south-east Papua, for instance, bark-cloth
 is a prestigious valuable. In parts of New Britain it was used to bind the heads of young
 babies to achieve the desired elongated skull shape (Ann Chowning, pers.comm.). Kooijman
 (pp.446-453) points out that the descriptions of the manufacture of New Guinea bark-cloth
-and the study of the museum material indicate that, as a rule, this tapa is relatively thick and
+and the study of the museum material indicate that, as a rule, this _tapa_ is relatively thick and
 stiff and made from Ficus and Artocarpus varieties, rather than from Broussonetia. He
-believes that the latter was probably not used for tapa cloth in New Guinea. He records little
-mention of bark-cloth use in Micronesia, other than the wearing of tapa ponchos in Ponape.
+believes that the latter was probably not used for _tapa_ cloth in New Guinea. He records little
+mention of bark-cloth use in Micronesia, other than the wearing of _tapa_ ponchos in Ponape.
 Yen (1973:83), in his examination of the origins of Oceanic agriculture, describes the cultivation
 of paper mulberry, as a pruned shrub for the production of bark for cloth, as ceasing west of
 the Melanesia/Polynesia border area.
@@ -4557,35 +4553,34 @@ the Melanesia/Polynesia border area.
 Figure 12: POc *ike 'tapa beater'
 
    Although terms can be located in WOc, none are cognate, and no POc term is reconstructable,
-apart from terms for the sources of raw material, POc *m("')ase 'wild mulberry, paper
-                                                                                             ,
-mulberry, Broussonetia papyrijera" POc *kuluR 'breadfruit, Artocarpus (from PAn *kuluR)
-                                                            ,
-and POc *nunu(k) (from PMP *nunuk 'banyan, Ficus spp.) (see Plants, vol. 3).
-  The term tapa, now virtually the generic term for bark-cloth, can be reconstructed for
+apart from terms for the sources of raw material, POc _*m(w)ase_ 'wild mulberry, paper
+mulberry, 'Broussonetia papyrijera' POc _*kuluR_ 'breadfruit, Artocarpus' (from PAn _*kuluR_)
+and POc _*nunu(k)_ (from PMP _*nunuk_ 'banyan, Ficus spp.') (see Plants, vol. 3).
+
+  The term _tapa_, now virtually the generic term for bark-cloth, can be reconstructed for
 PCP.
 
 <
 PCP *taba 'bark'
-  Fij:   Wayan            taba               'skin, bark '
-    Pn:      Tongan            tapa [7]              'edge, rim, border, boundary' (present meaning); 'bark-cloth (not printed or stained)' (old meaning) (Kooijman, p. 301, from Mariner 1827)
-    Pn:      Samoan            tapa                 'white border of coloured bark-cloth sheet'
-    Pn:      Mangareva         tapa                 'bark-cloth'
-    Pn:      Rarotongan        tapa                 'cloth made from inner bark of certain trees'
-    Pn:      Hawaiian          kapa                 'bark -cloth'
-    cf. also:
-    SES:    Lau                ʔaba                'hand, arm, wing; leaf, frond, cloth; portion, part'
-    SES:    Arosi              ʔaba                'wing, limb; leaf (of banana +)'
+  Fij: Wayan          taba         'skin, bark '
+  Pn:  Tongan         tapa [7]     'edge, rim, border, boundary' (present meaning); 'bark-cloth (not printed or stained)' (old meaning) (Kooijman, p. 301, from Mariner 1827)
+  Pn:  Samoan         tapa         'white border of coloured bark-cloth sheet'
+  Pn:  Mangareva      tapa         'bark-cloth'
+  Pn:  Rarotongan     tapa         'cloth made from inner bark of certain trees'
+  Pn:  Hawaiian       kapa         'bark -cloth'
+  cf. also:
+  SES: Lau            ʔaba         'hand, arm, wing; leaf, frond, cloth; portion, part'
+  SES: Arosi          ʔaba         'wing, limb; leaf (of banana +)'
 >
 
-   Note that although the general term for bark-cloth in Tonga is ŋatu and in Samoa is siapo,
-the term tapa does exist in both places. In Tonga today it refers more generally to 'edge, rim,
+   Note that although the general term for bark-cloth in Tonga is _ŋatu_ and in Samoa is _siapo_,
+the term _tapa_ does exist in both places. In Tonga today it refers more generally to 'edge, rim,
 border, boundary', and in Samoa it refers to the uncoloured border of the coloured bark-cloth
-sheet or siapo. Biggs (1993) lists these as apparently unrelated homonyms. Alternatively, if
-we assume the original PPn meaning of *tapa to be 'bark -cloth which was not printed or
+sheet or _siapo_. Biggs (1993) lists these as apparently unrelated homonyms. Alternatively, if
+we assume the original PPn meaning of _*tapa_ to be 'bark-cloth which was not printed or
 stained', its more restricted meaning in Samoa is understandable.
 
-[7]   Kooijman quotes from a report by William Mariner, a young Englishman stranded in Tonga from 1806- 1810,
+[7]   Kooijman quotes from a report by William Mariner, a young Englishman stranded in Tonga from 1806-1810,
     indicating that at that time the term _tapa_ was used as well as the more general term _ŋatu_, the former
     referring to any bark-cloth "not printed or stained" (Mariner 1827, vol. 2, p.206).
 
@@ -4605,8 +4600,8 @@ PPn *siapo 'paper-mulberry plant (Broussonetia sp.); bark-cloth' (Biggs 1993)
 
     A number of reconstructions have been made at PCP or PPn level, but the similarity of
 gloss indicates the likelihood of more subtleties of meaning than we have been able to
-identify here. They include: PCP *ŋatu 'old or worn bark-cloth', PCP *leu-leu '(old) tapa
-cloth', and PPn *ŋafi-ŋafi 'old mat or bark-cloth' (Biggs 1993).
+identify here. They include: PCP _*ŋatu_ 'old or worn bark-cloth', PCP _*leu-leu_ '(old) tapa
+cloth', and PPn _*ŋafi-ŋafi_ 'old mat or bark-cloth' (Biggs 1993).
 
     The only term reconstructable for the Southeast Solomons is apparently limited to the
 island of Malaita.
@@ -4617,7 +4612,7 @@ __pre__
     SES:    'Are'are           maku    'cloth for married women, a fringe of string or a piece of pandanus worn in front and behind, not around the hips'
 
 
-  We have a reconstruction for the mallet used in beating tapa which goes back as far as
+  We have a reconstruction for the mallet used in beating _tapa_ which goes back as far as
 PMP:
 
 <
@@ -4634,7 +4629,7 @@ PMP *ike 'tapa-beating mallet'
 
 <
 POc *ike 'tapa beater'
-  SES:    Sa'a               |iki (ʔoʔo)|           'beat the slitgongs' (ʔoʔo 'gong')
+  SES:    Sa'a               |iki (ʔoʔo)|         'beat the slitgongs' (ʔoʔo 'gong')
   Fij:    Bauan              ike                  'tapa beater'
   Pn:     Tongan             ike                  'mallet with which tutu is beaten in making tapa cloth'
   Pn:     Samoan             iʔe                  'tapa beater'
@@ -4642,10 +4637,10 @@ POc *ike 'tapa beater'
   Pn:     Hawaiian           iʔe                  'tapa beater'
 >
 
-   Biggs (1993) has PPn reconstructions for the action of beating tapa (*tutu), and the board
-or anvil on which this was done (*tutua). Both terms are derived from PAn *tuqtuq 'hammer,
-pound, crush ', POc *tutuk (see Ch. 9, §5. 1). It is of interest that the Toradja of central
-Sulawesi also have a term totua for the wooden board on which the bark-cloth is beaten
+   Biggs (1993) has PPn reconstructions for the action of beating _tapa_ (_*tutu_), and the board
+or anvil on which this was done (_*tutua_). Both terms are derived from PAn _*tuqtuq_ 'hammer,
+pound, crush ', POc _*tutuk_ (see Ch. 9, §5. 1). It is of interest that the Toradja of central
+Sulawesi also have a term _totua_ for the wooden board on which the bark-cloth is beaten
 (Kennedy 1934).
 
 
@@ -4663,50 +4658,50 @@ and to a lesser extent, grass, were used to fashion skirts, aprons and G-strings
 
 4.5.2. 1 Loincloth
 
-   The following reconstruction of POc *malo is soundly based, although there is doubt as to
+   The following reconstruction of POc _*malo_ is soundly based, although there is doubt as to
 whether the term can be traced back to an earlier stage. Blust (1970: 133) proposes PMP
-*maru 'loincloth', but notes the difficulty of reconciling the PMP form with the POc, with
-the latter having unexplained *0 for expected *u and *1 for expected *r. There can be little
+_*maru_ 'loincloth', but notes the difficulty of reconciling the PMP form with the POc, with
+the latter having unexplained _*0_ for expected _*u_ and _*l_ for expected _*r_. There can be little
 doubt that the POc term referred to bark-cloth and a garment made from that material.
 
 <
 POc *malo 'broussonetia papyrijera, loincloth' (Milke 1968)
-  NNG: Gedaged               mal                  'tree, bark of which is used to make G-strings and blankets'
-  NNG: Takia                 mal                  'bark-cloth'
-  NNG: Kove                  malo                 'bark-cloth' (*malo* *maloŋia* male and female breechclout-worn under skirt by women)
-  MM:     Patpatar           māl                  'cloth; clothing'
-  MM:     Tolai              mal                  'name of small tree, Broussonetia papyrijera; native cloth made from bark of this tree; any kind of cloth, loincloth'
-  MM:     Teop               maro                 'cloth/clothing'
-  SES:   Arosi            maro              'tree species, paper mulberry; beaten cloth of the _mara_ (bark soaked in water and then beaten out, later painted in gay colours and used as a sling (_duru_) to carry a child, or a loincloth (_gaha_)'
-  NCV : Raga              malo              'men's loin cloth'
-  Fij : Bauan             malo              'paper mulberry; hence the native cloth made from it and the former native male dress, passed between the thighs and fastened with a girdle'
-  Pn:    Samoan           malo              'loincloth '
-  Pn:    Emae             maro              'bark-cloth'
-  Pn:    Hawaiian         malo              'loin garment'
+  NNG: Gedaged          mal          'tree, bark of which is used to make G-strings and blankets'
+  NNG: Takia            mal          'bark-cloth'
+  NNG: Kove             malo         'bark-cloth' (*malo* *maloŋia* male and female breechclout-worn under skirt by women)
+  MM:  Patpatar         māl          'cloth; clothing'
+  MM:  Tolai            mal          'name of small tree, Broussonetia papyrijera; native cloth made from bark of this tree; any kind of cloth, loincloth'
+  MM:  Teop             maro         'cloth/clothing'
+  SES: Arosi            maro         'tree species, paper mulberry; beaten cloth of the _mara_ (bark soaked in water and then beaten out, later painted in gay colours and used as a sling (_duru_) to carry a child, or a loincloth (_gaha_)'
+  NCV: Raga             malo         'men's loin cloth'
+  Fij: Bauan            malo         'paper mulberry; hence the native cloth made from it and the former native male dress, passed between the thighs and fastened with a girdle'
+  Pn:  Samoan           malo         'loincloth '
+  Pn:  Emae             maro         'bark-cloth'
+  Pn:  Hawaiian         malo         'loin garment'
 >
 
                                                                     Household artefacts       99
 
 
-    Another apparent POc reconstruction for a loincloth, *sulu, with cognates in Kilivila (PT)
+    Another apparent POc reconstruction for a loincloth, _*sulu_, with cognates in Kilivila (PT)
 and New Ireland as well as in the central Pacific, is relegated to PCP or PPn on the grounds
 that the term and garment were brought to New Guinea by Fijian and Polynesian missionaries
 in the nineteenth century.
 
 
-    The term *tipi 'man's loincloth' perhaps had the generic sense 'man's clothing', as its
+    The term _*tipi_ 'man's loincloth' perhaps had the generic sense 'man's clothing', as its
 reflexes have been reinterpreted quite broadly with changes in sartorial customs.
 
 <
 POc *tipi 'loincloth, man's garment'
-  NNG: Numbami            tiwi              'loincloth'
-  PT:  Motu               sihi              'man's girdle; the paper mulberry from which the girdle is made'
-  MM:    Simbo            ti-tivi           'skirt, sarong'
-  MM:    Roviana          tivi-tivi         'loincloth'
-  SES:   Gela             tivi              'sling for carrying a baby'
-  SES:   Ghari            tivi              'native loincloth for men'
-  SES:   Longgu           ivi               'sarong, lavalava'
-  Mic:   Woleaian         sifi-sif          'grass-skirt'
+  NNG: Numbami          tiwi              'loincloth'
+  PT:  Motu             sihi              'man's girdle; the paper mulberry from which the girdle is made'
+  MM:  Simbo            ti-tivi           'skirt, sarong'
+  MM:  Roviana          tivi-tivi         'loincloth'
+  SES: Gela             tivi              'sling for carrying a baby'
+  SES: Ghari            tivi              'native loincloth for men'
+  SES: Longgu           ivi               'sarong, lavalava'
+  Mic: Woleaian         sifi-sif          'grass-skirt'
 >
 
 4.5.2.2 Grass or leaf skirt
@@ -4726,7 +4721,7 @@ POc (?) *nai (V)'woman's grass (shredded leaf?) skirt'
 >
 
 
-Along much of that coast, reflexes of POc *jiRi 'cordyline' are used for 'grass-skirt':
+Along much of that coast, reflexes of POc _*jiRi_ 'cordyline' are used for 'grass-skirt':
 
 <
 POc *jiRi 'cordyline'
@@ -4744,7 +4739,7 @@ POc *jiRi 'cordyline'
 100 Meredith Osmond and Malcolm Ross
 
 
-Biggs (1993) has reconstructed PPn *titi 'skirt or kilt worn in the dance', a term which may
+Biggs (1993) has reconstructed PPn _*titi_ 'skirt or kilt worn in the dance', a term which may
 have the same source.
 
 
@@ -4758,11 +4753,11 @@ PNGOc *ram(i,e) 'grass-skirt'
   PT:  Motu               rami
 >
 
-   POc *kaput and POc *kopu have been mentioned in relation to the wrapping of food
+   POc _*kaput_ and POc _*kopu_ have been mentioned in relation to the wrapping of food
 before oven cooking (see Ch. 6, §3.7), although both are believed to have more general
-reference (*kaput 'wrap up, cover', *kopu 'bundle up together'). It would seem that in Polynesia
-their reflexes have also come to apply to the covering of the body, PPn *kafu 'spread over,
-cover the body (with a blanket)" PPn *kofu 'wrap up; clothing'.
+reference (_*kaput_ 'wrap up, cover', _*kopu_ 'bundle up together'). It would seem that in Polynesia
+their reflexes have also come to apply to the covering of the body, PPn _*kafu_ 'spread over,
+cover the body (with a blanket)' PPn _*kofu_ 'wrap up; clothing'.
 
 
 
@@ -4771,64 +4766,64 @@ cover the body (with a blanket)" PPn *kofu 'wrap up; clothing'.
    The practice of rubbing oil or grease on the body is known throughout the region, coconut
 and candlenut oil being favoured, rather than the pig fat used in the Highlands. The practice
 of painting red, yellow, black or white designs on the face and body with clay, lime etc. is
-found mainly in Melanesia. POc *lumu(k) most probably refers to oil. POc *pani would seem
-to cover both oiling and painting. Reflexes of POc *lumut 'seaweed' and *lumu(k) 'oil'
+found mainly in Melanesia. POc _*lumu(k)_ most probably refers to oil. POc _*pani_ would seem
+to cover both oiling and painting. Reflexes of POc _*lumut_ 'seaweed' and _*lumu(k)_ 'oil'
 coincide in several SES languages, so the 'Are'are term appears to be a blend of the two
 meanings, the idea of anointing with oil presumably introduced with Christianity.
 
 <
 PMP *lumuk '(hair, skin) oily' (ACD)
 POc *lumu(k) 'oil, grease'
-  MM: Nakanai             lomo              'paint for hair and body, usually made from the oil of candlenut and red pigment'
-  MM:     Simbo          lumu              'oil, grease'
-  MM:     Roviana         lumu-             'anoint'
-  SES:    'Are'are        rumu              'seaweed; k.o. moss on trees, used in ceremonial purification, is wrung out over the head of a newborn baby when taken into somebody's house'
-  SES:    Arosi           rumu              'oil' (cf. rumu-rumu 'moss')
-  Fij:    Bauan           lumu              'anoint with oil'
+  MM:  Nakanai      lomo         'paint for hair and body, usually made from the oil of candlenut and red pigment'
+  MM:  Simbo        lumu         'oil, grease'
+  MM:  Roviana      lumu-        'anoint'
+  SES: 'Are'are     rumu         'seaweed; k.o. moss on trees, used in ceremonial purification, is wrung out over the head of a newborn baby when taken into somebody's house'
+  SES: Arosi        rumu         'oil' (cf. rumu-rumu 'moss')
+  Fij: Bauan        lumu         'anoint with oil'
   cf. also:
-  SES:    'Are'are        ruma              'oil, grease from pigs and coconuts, rubbed on the body to make it shiny'
+  SES: 'Are'are     ruma         'oil, grease from pigs and coconuts, rubbed on the body to make it shiny'
 >
 
-   In Fiji and Polynesia, reflexes of a different term, PCP *sinu 'oil' are used.
+   In Fiji and Polynesia, reflexes of a different term, PCP _*sinu_ 'oil' are used.
 
                                                                    Household artefacts         101
 
 <
 POc *pani 'apply oil or paint to the body' (Chowning 1991)
-  NNG: Sengseng          pan             'paint designs on bark-cloth'
-  MM: Nakanai            vali            'apply paint, feathers, or other surface adornment to the head or body'
-  Mic:    Kiribatese     |bani (kamaimai)| 'perfumed oil' (kamaimai 'molasses of toddy')
-  Fij:    Bauan          vani            'put oil through hair with fingers'
-  Pn:     Tongan         pani            'smear, besmear, daub, or stain; rub the head with oil'
-  Pn:     Rennellese     pani            'anoint (head + with turmeric)'
-  Pn:     Samoan         pani            'dye the hair with the juice of pani (tree)'
-  Pn:     Maori          pani            'paint, besmear'
+  NNG: Sengseng       pan               'paint designs on bark-cloth'
+  MM:  Nakanai        vali              'apply paint, feathers, or other surface adornment to the head or body'
+  Mic: Kiribatese     |bani (kamaimai)| 'perfumed oil' (kamaimai 'molasses of toddy')
+  Fij: Bauan          vani              'put oil through hair with fingers'
+  Pn:  Tongan         pani              'smear, besmear, daub, or stain; rub the head with oil'
+  Pn:  Rennellese     pani              'anoint (head + with turmeric)'
+  Pn:  Samoan         pani              'dye the hair with the juice of pani (tree)'
+  Pn:  Maori          pani              'paint, besmear'
 >
 
     Chowning (p.48) mentions another form of body ornamentation, the blackening of teeth,
 evidently widespread in Melanesia as far east as the Solomons. Seligman (1910:492) describes
 the custom among the people of Tubetube (PT), in which fragments of a black bituminous
-semi-fossilised wood called tari are mixed into a paste with the chopped and roasted leaves
+semi-fossilised wood called _tari_ are mixed into a paste with the chopped and roasted leaves
 of the badira tree, and held against the teeth overnight. He gives the purpose of teeth
 blackening as 'a means of personal adornment and to attract the opposite sex'. A reconstructed
-form, *tapal, can be made for PWOc (the Sa'a term, taha rather than the expected aha, has
+form, _*tapal_, can be made for PWOc (the Sa'a term, _taha_ rather than the expected _aha_, has
 to be considered a borrowing). Mikloucho-Maclay (1975:89) recorded in 1871 that "The
 natives [of Astrolabe Bay] not only blacken their faces, but also the mouth (tongue, teeth,
-gums, lips) with a substance which they chew." He gives the name taval for this substance.
-Although we cannot attribute taval to a particular language (Mikloucho-Maclay lived in a
-village of Papuan speakers), it is evidence that reflexes of *tapal occur in the NNG area.
+gums, lips) with a substance which they chew." He gives the name _taval_ for this substance.
+Although we cannot attribute _taval_ to a particular language (Mikloucho-Maclay lived in a
+village of Papuan speakers), it is evidence that reflexes of _*tapal_ occur in the NNG area.
 
 <
 PWOc *tapal 'substance used to blacken teeth' (Chowning 1991)
-  PT :    Molima          tavana            'mineral substance used for blackening the teeth'
-  MM:     Tolai           taval             'baked earth for blackening teeth; the custom of blackening the teeth'
+  PT:  Molima          tavana            'mineral substance used for blackening the teeth'
+  MM:  Tolai           taval             'baked earth for blackening teeth; the custom of blackening the teeth'
   cf. also:
-  MM: Roviana             davala            'blacken the teeth with a mixture of Terrninalia leaf, oil etc. '
-  SES:    Sa'a            taha              'pigment made from river rock, used in teeth-blackening'
+  MM:  Roviana         davala            'blacken the teeth with a mixture of Terrninalia leaf, oil etc.'
+  SES: Sa'a            taha              'pigment made from river rock, used in teeth-blackening'
 >
 
-    A second reconstruction is PSS *ogo 'tooth-blackening powder' (Lau ago, Kwaio ogo).
-I vens (1927 (reissued 1972):83) described the custom as practised by 'young men or girls,
+    A second reconstruction is PSS _*ogo_ 'tooth-blackening powder' (Lau _ago_, Kwaio _ogo_).
+Ivens (1927 (reissued 1972):83) described the custom as practised by 'young men or girls,
 who wish to give themselves airs', although later, (1930: 121) he wrote that "it was said to
 preserve the teeth and prevent sore gums".
 
@@ -4840,15 +4835,15 @@ preserve the teeth and prevent sore gums".
 tending to be confined to people with relatively light skin. "Where it was practised, methods
 ranged from the cutting of fine lines with obsidian, after which pigment was rubbed in, to the
 use of special implements. Darker-skinned people practised ornamental cicatrisation." Although
-no POc reconstruction has been made for the activity, reflexes of POc *saRum (see §3.2. 1)
+no POc reconstruction has been made for the activity, reflexes of POc _*saRum_ (see §3.2. 1)
 indicate that a tattooing needle of bat's bone was known in both eastern and western Oceanic
 as well as the Admiralties. In the east Oceanic region tattooing is widespread. It was practised
 most extensively and reached its highest artistic development in Polynesia. A needle of bat or
 bird bone was tapped repetitively with a mallet, and a dye, probably of vegetable origin,
 rubbed into the punctured area. (Maoris used a dye made from the oily smoke of burning nut
-kernels. In Bellona the sap of the ŋieemuŋii tree -Canarium herveyii -was collected, allowed
+kernels. In Bellona the sap of the _ŋieemuŋii_ tree - Canarium herveyii - was collected, allowed
 to set, burnt and the carbon collected and scraped into a black powder (Tickle 1977 : 11)). A
-group of Samoic Outliers (Anuta, Luangiua, Takuu, Tikopia) use reflexes of PPn *matau
+group of Samoic Outliers (Anuta, Luangiua, Takuu, Tikopia) use reflexes of PPn _*matau_
 'axe' to refer to their tattooing chisel.
 
 102 Meredith Osmond and Malcolm Ross
@@ -4882,15 +4877,15 @@ PEOc *make (N, V) 'tattoo'
 4.5.4. 1 Design
 
 
-   Ross (1996c) has reconstructed a verb, *noŋo 'decorate', used with reference to putting
+   Ross (1996c) has reconstructed a verb, _*noŋo_ 'decorate', used with reference to putting
 patterns onto pots and other articles, and for tattooing, but his supporting data are limited to
 three reflexes, and the reconstruction must be deemed tentative.
 
 <
 POc *noŋo 'decorate'
-  NNG: Gitua                 noŋo            'decoration in general '
-  MM: Halia                  nono(a)          'add ornamentation to edge of pot'
-  NCV : Lewo                 nono             'tattoo, picture, image, idol'
+  NNG: Gitua                noŋo            'decoration in general '
+  MM:  Halia                nono(a)         'add ornamentation to edge of pot'
+  NCV: Lewo                 nono            'tattoo, picture, image, idol'
 >
 
 
@@ -4901,9 +4896,9 @@ range of crafts.
 
 <
 POc *mʷati 'herringbone pattern'
-  NNG: Lukep                 mos              'traditional carving on paddles, canoes and wooden bowls'
-   PT:     Misima           mati               'design representing a fish '
-   NCV: Wusi                 mac               'herringbone pattern '
+  NNG: Lukep            mos              'traditional carving on paddles, canoes and wooden bowls'
+  PT:  Misima           mati             'design representing a fish '
+  NCV: Wusi             mac              'herringbone pattern '
 >
 
                                                                         Household artefacts      103
@@ -4924,57 +4919,56 @@ POc *mʷati 'herringbone pattern'
 
 <
 POc *bara 'plaited cane armlet '
-  MM:     Tolai             (ta)bāra           'armlet made from different kinds of woven or plaited grass'
-  SES:    Lau               |bara (obi)|         'plaited cane armlet (worn on lower arm)'
+  MM:  Tolai             (ta)bāra           'armlet made from different kinds of woven or plaited grass'
+  SES: Lau               |bara (obi)|       'plaited cane armlet (worn on lower arm)'
 >
 
 
-Figure 13: POc *bara 'pla ited cane armlet' (from Nevermann 1934: 151)
+Figure 13: POc _*bara_ 'plaited cane armlet' (from Nevermann 1934: 151)
 
-   Spriggs (1997 a : 88) l ists the distinctive range of shell ornaments recovered from Lapita
-sites such as Eloaua in the Admiralties, Balof (New I reland) and Arawe I s lands south-west of
-New Britain. They include Conus shell rectangular un its, beads, rings and disks, Tridacna
-rings, Spondylus beads and long u nits and        Trochus armrings. Reconstructions have been
-possible for armlets, pearlsheU ornaments, ear decorations and for the act of stringing together
+   Spriggs (1997a: 88) lists the distinctive range of shell ornaments recovered from Lapita
+sites such as Eloaua in the Admiralties, Balof (New Ireland) and Arawe Islands south-west of
+New Britain. They include Conus shell rectangular units, beads, rings and disks, Tridacna
+rings, Spondylus beads and long units and Trochus armrings. Reconstructions have been
+possible for armlets, pearlshell ornaments, ear decorations and for the act of stringing together
 a necklace.
 
 <
 POc *[la]lak[o] 'trochus shell ; bracelet made from it'
-  MM:    Tolai              lalai             'trochus shell; armlet made from this'
-  SES:   Gela               laɣo              'cone shell'
-  SES:   Lau                lao               'cone shell'
-  SES:   Arosi              raʔo             'cone shell'
-  NCV: Mota                 lala              'univalve, top she l l ; bracelet made of it'
- NCV : Raga                 lala                 'top shell, Troehus stellatus; shell armlet, ring'
- Mic: Woleaian             lax                  'bracelet'
+  MM:  Tolai         lalai            'trochus shell; armlet made from this'
+  SES: Gela          laɣo             'cone shell'
+  SES: Lau           lao              'cone shell'
+  SES: Arosi         raʔo             'cone shell'
+  NCV: Mota          lala             'univalve, top shell; bracelet made of it'
+  NCV: Raga          lala             'top shell, Troehus stellatus; shell armlet, ring'
+  Mic: Woleaian      lax              'bracelet'
 >
 
 104 Meredith Osmond and Malcolm Ross
 
 
-Although these examples are in theory sufficient to justify attributing to POc *[la]lak[o] the
+Although these examples are in theory sufficient to justify attributing to POc _*[la]lak[o]_ the
 meaning 'bracelet' in addition to its shell meaning (see Shellfish, vol. 3), we cannot know if
 both meanings were genuine inheritances in the daughter languages, or were simply associations
 independently made.
 
-
    A similar reconstruction, referring both to a particular shell and to an ornament typically
-made from it, is POc *japi.
+made from it, is POc _*japi_.
 
 <
 POc *japi 'k.o. bivalve (possibly gold-lipped pearlshell, Pinetada maxima); ornament made from this' (Pawley 1996b)
-  NNG: Manam                 sai                  'pearlshell spoon'
- PT:    Hula              ravivi                  'clamshell'
- MM: Roviana              davi                    'pearlshell'
- SES: Bugotu              davi                    'gold-lipped pearlshell'
- SES: 'Are'are            tafi                    'pearlshell; ornament made of same'
- SES: Arosi               dahi                    'gold-lipped pearlshell'
+ NNG: Manam           sai                 'pearlshell spoon'
+ PT:  Hula            ravivi              'clamshell'
+ MM:  Roviana         davi                'pearlshell'
+ SES: Bugotu          davi                'gold-lipped pearlshell'
+ SES: 'Are'are        tafi                'pearlshell; ornament made of same'
+ SES: Arosi           dahi                'gold-lipped pearlshell'
 PCP *jiva 'pearl oyster' (metathesis)
-  Fij:    Wayan              civa                 'pearl oysters, including blacklipped pearl (Pinetada margaritifera), giant wing oyster (Avieula sp.) and hammer oysters (Malleus spp.)'
-  Fij:    Bauan              civa                 'pearl oysters (same range as Wayan)'
-  Pn:     Tongan             sifa                 'pearlshell breastplate'
-  Pn:     Rarotongan         tiʔa                'pearlshell breastplate'
-  Pn:     Niuean             tifa                 'mother-of-pearl shell and ornament'
+ Fij: Wayan           civa                'pearl oysters, including blacklipped pearl (Pinetada margaritifera), giant wing oyster (Avieula sp.) and hammer oysters (Malleus spp.)'
+ Fij: Bauan           civa                'pearl oysters (same range as Wayan)'
+ Pn:  Tongan          sifa                'pearlshell breastplate'
+ Pn:  Rarotongan      tiʔa                'pearlshell breastplate'
+ Pn:  Niuean          tifa                'mother-of-pearl shell and ornament'
 >
 
    Shell items were evidently used not only for decoration but also strung together as a form
@@ -5005,11 +4999,11 @@ POc *(sabi-)sabi 'shell disc used as earring'
 
 <
 PCP *sau 'ear pendant' (Biggs 1993)
-  Fij:   Rotuman        sau                'earring or ear ornament'
-  Fij:   Bauan          |sau (ni daliŋa)|   'earring' (_daliŋa_ 'ear')
-  Pn:    Tongan         hau                'earring, ear ornament; nose ring, nose ornament'
-  Pn:    E. Uvean       hau                'ear pendant'
-  Pn:    E. Futunan     sau                'ear pendant'
+  Fij: Rotuman        sau                'earring or ear ornament'
+  Fij: Bauan          |sau (ni daliŋa)|  'earring' (_daliŋa_ 'ear')
+  Pn:  Tongan         hau                'earring, ear ornament; nose ring, nose ornament'
+  Pn:  E. Uvean       hau                'ear pendant'
+  Pn:  E. Futunan     sau                'ear pendant'
 >
 
 
@@ -5019,51 +5013,51 @@ describe stringing things together to make one.
 <
 PAn *CuSuR 'string together (beads +)' (ACD)
 POc *tuRi 'sew, thread, string together'
-  PT:  Motu             turi-              'plait an armlet, sew, string fish together'
-  PT:  Magori           turi               (V) 'thread, sew'
-  PT:  Lala             kuli-kuli           'sew (with thread)'
-  MM: Vitu              turi               'sew'
-  MM : Tolai            tur, turu          'pierce, as spear or arrow'
-  NCV: Uripiv           (o)turi            'sew'
-  SV:  Lenakel          til                'sew, string, put on a string'
-  SV:  Kwamera          (a)tiri            'sew, weave, string beads, shuffle'
-  Fij: Bauan            tui                'lift up with a string'
-  Fij: Bauan            tui-tui-(vaka)     'string together'
-  Pn:    Tongan         tui                'put in, insert (hand into pocket +); thread (needle, beads +)'
-  Pn:    Tahitian       tui                'thread, string (pierced objects)'
-  Pn:    Hawaiian       kui                'string (pierced objects, as flowers in a lei, or fish); thread (beads)'
+  PT:  Motu           turi-              'plait an armlet, sew, string fish together'
+  PT:  Magori         turi               (V) 'thread, sew'
+  PT:  Lala           kuli-kuli          'sew (with thread)'
+  MM:  Vitu           turi               'sew'
+  MM:  Tolai          tur, turu          'pierce, as spear or arrow'
+  NCV: Uripiv         (o)turi            'sew'
+  SV:  Lenakel        til                'sew, string, put on a string'
+  SV:  Kwamera        (a)tiri            'sew, weave, string beads, shuffle'
+  Fij: Bauan          tui                'lift up with a string'
+  Fij: Bauan          tui-tui-(vaka)     'string together'
+  Pn:  Tongan         tui                'put in, insert (hand into pocket +); thread (needle, beads +)'
+  Pn:  Tahitian       tui                'thread, string (pierced objects)'
+  Pn:  Hawaiian       kui                'string (pierced objects, as flowers in a lei, or fish); thread (beads)'
 >
 
 
 4.5.5. 1 Comb
 
-Figure 14: POc *saRu 'comb'
+Figure 14: POc _*saRu_ 'comb'
 
 
-   POc inherited *saRu 'comb' from PMP. However, Remote Oceanic reflexes reflect *seru,
+   POc inherited _*saRu_ 'comb' from PMP. However, Remote Oceanic reflexes reflect _*seru_,
 and this discrepancy suggests that a borrowing must have occurred at some stage during the
 Oceanic dispersal.
 
 <
 PMP *saRu 'comb' (Blust 1980b)
 POc *saRu 'comb' (Milke 1968)
- NNG: Manam             saru
- NNG: Bing              sar
-  NNG: Gedaged         saȴ             'headgear made from feathers'
-  SES: Tolo            tsalu
+ NNG: Manam           saru
+ NNG: Bing            sar
+ NNG: Gedaged         saȴ             'headgear made from feathers'
+ SES: Tolo            tsalu
 Proto Remote Oceanic *seru 'comb' (Milke 1968)
-  NCV : Nguna            seru
-  Fij:  Rotuman          seru
-  Fij:  Bauan            (i)seru           (N) 'comb' (i- < POc *i- INS)
-  Pn:   Tongan           helu              (V) 'comb, (bird) preen'; (N) 'comb'
-  Pn:   Samoan           selu              (N, v) 'comb'
-  Pn:   Maori            heru(a)
+ NCV: Nguna           seru
+ Fij: Rotuman         seru
+ Fij: Bauan           (i)seru         (N) 'comb' (i- < POc *i- INS)
+ Pn:  Tongan          helu            (V) 'comb, (bird) preen'; (N) 'comb'
+ Pn:  Samoan          selu            (N, v) 'comb'
+ Pn:  Maori           heru(a)
 >
 
 106 Meredith Osmond and Malcolm Ross
 
 
-   Blust reconstructs PMP *suat 'k.o. comb', a root which seems to have survived as a
+   Blust reconstructs PMP _*suat_ 'k.o. comb', a root which seems to have survived as a
 transitive verb in POco
 
 <
@@ -5074,11 +5068,11 @@ POc *su(w)at, *su(w)a[t,r]-i- 'comb (hair)'
   NNG: Manam             ruati
   NNG: Ulau-Suain        sur
   NNG: Numbami           suwala
-  PT:  Misima           huwal
+  PT:  Misima            huwal
   PT:  Sudest            ðuwe
   PT:  Motu              duari
-  MM: Lihir              col
-  MM: Teop               sua
+  MM:  Lihir             col
+  MM:  Teop              sua
 >
 
 4.6 Instruments of communication and music
@@ -5089,8 +5083,8 @@ of bamboo, although Blackwood (1935 :413) describes a didgeridoo-type instrument
 mabu, used on Buka, which is made from the trunk of a small tree. Bamboo instruments are
 often simply referred to by the term for bamboo. The drums are typically wooden; but
 occasionally lighter drums are made from larger varieties of bamboo. Where a skin head is
-required, as in the hourglass drums, the skin of the monitor lizard is used where available. I n
-Polynesia (Rarotonga), sharkskin has been recorded a s a drum skin.
+required, as in the hourglass drums, the skin of the monitor lizard is used where available. In
+Polynesia (Rarotonga), sharkskin has been recorded as a drum skin.
 
    Other musical instruments mentioned in the ethnographic literature include Jew's-harps,
 dancing sticks, a stringed bow and rattles made from seed pods or strings of shells.
@@ -5102,58 +5096,55 @@ dancing sticks, a stringed bow and rattles made from seed pods or strings of she
 <
 PMP *tambuRi(q) 'conch shell trumpet' (ACD)
 POc *tapuRi(q) 'triton shell: Charonia tritonis, used as trumpet'
-  Adm: Mussau             taue                'triton shell'
-  NNG: Takia              taur, taul          'conch shell hom (used for sending messages)'
-     NNG: Manam                  tauru               'conch shell; used as a hom for calling village meetings with the councillor'
-     MM: Sursurunga             taur                 'shell type blown to send messages, triton shell'
-     MM: Tolai                  tavur                'triton shell'
-     SES: Sa'a                  ahuri                'conch shell, triton, used to summon people'
-     SES: Arosi                 ahuri                'conch shell, triton'
-     NCV: Lonwolwol             taviu                'conch shell (and sound)'
-     NCV: Lewo                  tapuru               'shellfish Trochus spp. '
-     Mic: Kiribatese            tau                  'triton conch, trumpet shell'
-     Mic: Ponapean              sewi                 'conch shell, trumpet '
-     Fij: Wayan                 tavui                'triton shell : Pacific or Triton's Trumpet'
-     Fij: Bauan                 davui                'trumpet shell or triton'
+  Adm: Mussau             taue            'triton shell'
+  NNG: Takia              taur, taul      'conch shell hom (used for sending messages)'
+  NNG: Manam              tauru           'conch shell; used as a hom for calling village meetings with the councillor'
+  MM:  Sursurunga         taur            'shell type blown to send messages, triton shell'
+  MM:  Tolai              tavur           'triton shell'
+  SES: Sa'a               ahuri           'conch shell, triton, used to summon people'
+  SES: Arosi              ahuri           'conch shell, triton'
+  NCV: Lonwolwol          taviu           'conch shell (and sound)'
+  NCV: Lewo               tapuru          'shellfish Trochus spp. '
+  Mic: Kiribatese         tau             'triton conch, trumpet shell'
+  Mic: Ponapean           sewi            'conch shell, trumpet'
+  Fij: Wayan              tavui           'triton shell : Pacific or Triton's Trumpet'
+  Fij: Bauan              davui           'trumpet shell or triton'
 >
 
                                                                                 Household artefacts           107
 
 
 
-Figure 15: POc *tapuRi(q)
-       'triton shell trumpet' (from Nevermann 1933:218)
-      POc *kauR 'bamboo wind
-      instrument'
+Figure 15: POc _*tapuRi(q)_ 'triton shell trumpet' (from Nevermann 1933:218)
+POc _*kauR_ 'bamboo wind instrument'
 
-  In Polynesia the triton shell trumpet is generally known as puu, an onomatopaeic word
+  In Polynesia the triton shell trumpet is generally known as _puu_, an onomatopaeic word
 which in many languages is associated with concepts of blowing.
-
 
 
 4.6.2 Bamboo flute
 
 
-   Reflexes of POc *upi/*ipu 'blow' or compounds containing it, commonly refer to either
+   Reflexes of POc _*upi_/_*ipu_ 'blow' or compounds containing it, commonly refer to either
 the playing of wind instruments or the wind instruments themselves. It is of interest that
 terms for panpipes from the sets below are limited to the Southeast Solomons. We have no
 POc reconstruction specifically for panpipes.
 
 <
 POc *upi or *ipu 'blow; native flute' [10]
-     PT: Kilivila               (y)uvi               'blow'
-     PT: Motu                   ivi(likou)           'a reed musical instrument, a flute'
-     MM: Roviana                ivu                  'blow, as a conch shell'
-     MM: Roviana                iv-ivu(ana)          'a native flute' (_-ana_ NOM)
-     SES:    Bugotu             ifu                  'blow, of fire or panpipes; panpipes'
-     SES:    Kwaio              ufi                  'play panpipes'
-     SES:    Sa'a               uhi                  'blow with the mouth upon an object'
- SES:    Arosi           (ʔau)uhi-uhi       'panpipes of bamboo' (_uhi_ 'blow, breathe')
- Fij:    Bauan           uvu(ða)            'blow with the mouth'
+ PT:  Kilivila        (y)uvi             'blow'
+ PT:  Motu            ivi(likou)         'a reed musical instrument, a flute'
+ MM:  Roviana         ivu                'blow, as a conch shell'
+ MM:  Roviana         iv-ivu(ana)        'a native flute' (_-ana_ NOM)
+ SES: Bugotu          ifu                'blow, of fire or panpipes; panpipes'
+ SES: Kwaio           ufi                'play panpipes'
+ SES: Sa'a            uhi                'blow with the mouth upon an object'
+ SES: Arosi           (ʔau)uhi-uhi       'panpipes of bamboo' (_uhi_ 'blow, breathe')
+ Fij: Bauan           uvu(ða)            'blow with the mouth'
 >
 
-[10]     Cf. POc *ubi/*ibu 'half coconut shell used as drinking cup' (§2.2.2). It is possible that both *ubi/*ibu and
-     *upi/*ipu were generated at the same time by the application of a single rule (or similar wordplay) to the
+[10] Cf. POc _*ubi_/_*ibu_ 'half coconut shell used as drinking cup' (§2.2.2). It is possible that both _*ubi_/_*ibu_ and
+     _*upi_/_*ipu_ were generated at the same time by the application of a single rule (or similar wordplay) to the
      pre-existing member of each pair.
 
 
@@ -5162,17 +5153,17 @@ POc *upi or *ipu 'blow; native flute' [10]
 <
 PAn *qauR 'bamboo sp.' (ACD)
 POc *kauR 'bamboo; bamboo wind instrument'
-  Adm: Mussau       kauru                   'bamboo'
-  NNG: Lukep (Pono) kaur                    'flute: traditional musical instrument made out of bamboo (monomono); it has four notes per octave. Historically a man would play the flute when he was hungry and had nothing to eat.'
-  NNG: Bing              kau(mahay)         'bamboo sp.; flute, long bamboo wind instrument (2.7m x 5cm)'
-  MM:    Tolai            kaur              'k. o. bamboo'
-  MM:    Tolai            |kaur goragoro|     'k. o. bamboo of which flutes are made'
-  SES:   'Are'are         ʔau               'bamboo; generic name for music and musical instruments; panpipes'
-  SES:   Sa'a            au                 'panpipes'
-  SES:   Arosi           ʔau(uhi-uhi)       'panpipes of bamboo' (uhi 'blow, breathe')
-  NCV:   Paamese         e-au               'bamboo; knife; slitgong fixed in ground'
-  NCV:   Namakir         ʔo                'bamboo; panpipe'
-  NCV:   Nguna           na-au              'wild cane, reed; flute, mouth organ'
+  Adm: Mussau       kauru             'bamboo'
+  NNG: Lukep (Pono) kaur              'flute: traditional musical instrument made out of bamboo (monomono); it has four notes per octave. Historically a man would play the flute when he was hungry and had nothing to eat.'
+  NNG: Bing         kau(mahay)        'bamboo sp.; flute, long bamboo wind instrument (2.7m x 5cm)'
+  MM:  Tolai        kaur              'k. o. bamboo'
+  MM:  Tolai        |kaur goragoro|   'k. o. bamboo of which flutes are made'
+  SES: 'Are'are     ʔau               'bamboo; generic name for music and musical instruments; panpipes'
+  SES: Sa'a         au                'panpipes'
+  SES: Arosi        ʔau(uhi-uhi)      'panpipes of bamboo' (uhi 'blow, breathe')
+  NCV: Paamese      e-au              'bamboo; knife; slitgong fixed in ground'
+  NCV: Namakir      ʔo                'bamboo; panpipe'
+  NCV: Nguna        na-au             'wild cane, reed; flute, mouth organ'
 >
 
 <
@@ -5192,7 +5183,7 @@ POc *kopi 'bamboo; bamboo flute'
    This relatively small drum, easily carried, is of wood, with the end covered in (lizard) skin.
 Chowning (1991 :59) has noted that on the north coast of New Guinea and in some parts of
 west New Britain the name for the instrument is suspiciously close to the word for 'monitor
-lizard' (Sengseng pahiyo 'drum', apahiya 'lizard'). Drumming is produced with the hand, and
+lizard' (Sengseng _pahiyo_ 'drum', _apahiya_ 'lizard'). Drumming is produced with the hand, and
 typically accompanies dances. Ivens (1927 (reissued 1972): 169) reports that "a true drum of
 wood with skin stretched over it, such as is used in New Guinea and Torres Straits, is not
 found on Mala [Malaita] and Ulawa".
@@ -5203,17 +5194,17 @@ Figure 16 : POc *kude 'hourglass drum'
 
 <
 POc *kude 'hourglass drum'
-  NNG: Kilenge            kure               'slitgong drum'
-  MM:      Patpatar       kudu               'drum' (_-u_ for _-e_ unexpected)
-  MM:      Tolai          kudu               'a long drum, the end of which is covered with the skin of an iguana' (_-u_ for _-e_ unexpected)
-  MM:      Vitu           kude               '(hourglass) drum '
-  MM:      Bulu           kude               '(hourglass) drum'
-  MM:      Nakanai        kude               'hourglass drum'
-  NCV:     Mota           kore               'slitgong drum'
+  NNG: Kilenge     kure          'slitgong drum'
+  MM:  Patpatar    kudu          'drum' (_-u_ for _-e_ unexpected)
+  MM:  Tolai       kudu          'a long drum, the end of which is covered with the skin of an iguana' (_-u_ for _-e_ unexpected)
+  MM:  Vitu        kude          '(hourglass) drum '
+  MM:  Bulu        kude          '(hourglass) drum'
+  MM:  Nakanai     kude          'hourglass drum'
+  NCV: Mota        kore          'slitgong drum'
 >
 
 The alternation in gloss between the two kinds of drum is probably due to the term for one
-kind being used also as a generic. Chowning (1991 :60) reports that in Kove kure can be used
+kind being used also as a generic. Chowning (1991 :60) reports that in Kove _kure_ can be used
 for either instrument, although there is a separate term for slitgong.
 
 
@@ -5233,29 +5224,29 @@ beaten with short sections of sago bark branches, pithy and soft (Ivens 1927 (re
 1972): 169).
 
    Although words for musical instruments are candidates for borrowing, the fact that POc
-final *-t is regularly reflected or deleted throughout the cognate set below is a strong indication
+final _*-t_ is regularly reflected or deleted throughout the cognate set below is a strong indication
 that these terms are not borrowed.
 
 <
 POc *garamut 'slitgong'
-  Adm: Emira              galamutu           'slitgong'
-  NNG: Kove               ɣilamo             'slitgong'
+  Adm: Emira           galamutu          'slitgong'
+  NNG: Kove            ɣilamo            'slitgong'
   NNG: Bing            giram             'garamut, log drum'
   NNG: Manam           giramo            'slitgong'
   NNG: Kairiru         giram             'slitgong'
-  MM: Nakanai          galamo            'slitgong'
-  MM: Tolai            garamut           'native log drum'
-  MM: Halia (Haku)     garamuc           'slitgong'
-  MM : Tinputz        kāmus             'drum/slit drum'
+  MM:  Nakanai         galamo            'slitgong'
+  MM:  Tolai           garamut           'native log drum'
+  MM:  Halia (Haku)    garamuc           'slitgong'
+  MM:  Tinputz         kāmus             'drum/slit drum'
 >
 
 110 Meredith Osmond and Malcolm Ross
 
 <
 PSS *ɣoɣo 'slitgong'
-  SES:    Bugotu       koko              'wooden gong'
-  SES:    Arosi        ʔoʔo              'wooden gong, made in sets from a hollowed tree, and used to send messages by a code so that practically any message can be sent'
-  SES:    Arosi        |barai ʔoʔo|        'set of slitgongs' (includes _ʔoʔo raha_ 'bass gong'; _ʔoʔo maradaro_ 'soprano gong'; _ʔoʔo riʔi_ 'treble gong')
+  SES: Bugotu     koko          'wooden gong'
+  SES: Arosi      ʔoʔo          'wooden gong, made in sets from a hollowed tree, and used to send messages by a code so that practically any message can be sent'
+  SES: Arosi      |barai ʔoʔo|  'set of slitgongs' (includes _ʔoʔo raha_ 'bass gong'; _ʔoʔo maradaro_ 'soprano gong'; _ʔoʔo riʔi_ 'treble gong')
 >
 
 <
@@ -5334,24 +5325,24 @@ POc *tapi 'dust off, brush lightly'
 
 <
 POc *salap, *salap-i- 'sweep, broom '
-  NNG: Yabem               salep              'broom, originally the fruit stem of the nipa palm'
-  NNG: Gedaged             salai              'inflorescence of coconut'
-  PT:  Misima              hala               'sweep'
- SES:    Lau           ta-tala          'broom made from midribs of sago palm'
- SES:    Lau           talafi           'sweep (s.t.)'
- SES:    'Are'are      tā-tara          'sweep the house'
- SES:    Sa'a          tala              'sweep the house with a bunch of leaves or grasses'
- SES:    Arosi         tara             'rake, sweep, gather; a broom'
- SES:    Arosi         ta-tarahi        'sweep (s.t.)'
+ NNG: Yabem         salep           'broom, originally the fruit stem of the nipa palm'
+ NNG: Gedaged       salai           'inflorescence of coconut'
+ PT:  Misima        hala            'sweep'
+ SES: Lau           ta-tala         'broom made from midribs of sago palm'
+ SES: Lau           talafi          'sweep (s.t.)'
+ SES: 'Are'are      tā-tara         'sweep the house'
+ SES: Sa'a          tala            'sweep the house with a bunch of leaves or grasses'
+ SES: Arosi         tara            'rake, sweep, gather; a broom'
+ SES: Arosi         ta-tarahi       'sweep (s.t.)'
  cf. also:
- MM: Tolai             are              'clear away'
- SES: Sa'a            sā-sala          'be clear, not touching the ground'
- SES: Arosi            ma-sara         'burnt-off garden'
- NCV: Mota             sara             'pass, draw along, sweep, be swept away'
- NCV: Nguna            sara             'sweep'
- Fij : Wayan           ðara             'clear a garden (burn off dried vegetation) for planting'
- Fij:    Bauan         ðara             'clear a walk of rubbish'
- Fij:    Bauan         ðara-ðara        'cleared, clean of weeds'
+ MM: Tolai          are             'clear away'
+ SES: Sa'a          sā-sala         'be clear, not touching the ground'
+ SES: Arosi         ma-sara         'burnt-off garden'
+ NCV: Mota          sara            'pass, draw along, sweep, be swept away'
+ NCV: Nguna         sara            'sweep'
+ Fij: Wayan         ðara            'clear a garden (burn off dried vegetation) for planting'
+ Fij: Bauan         ðara            'clear a walk of rubbish'
+ Fij: Bauan         ðara-ðara       'cleared, clean of weeds'
 >
 
 112 Meredith Osmond and Malcolm Ross
@@ -5366,22 +5357,22 @@ POc *salap, *salap-i- 'sweep, broom '
 <
 PMP *qulun-an 'place where one rests the head: wooden headrest' (> PMP *qulun 'rest the head on') (ACD)
 POc *quluŋ-an 'rest the head on; wooden headrest' (ACD)
- Adm: Loniu            kaluŋ           'pillow, orig. a wooden block'
- Adm: Seimat           ul-uluŋ         'rest the head'
- Adm: Titan            ul-uləuŋ        'pillow, wooden neck support, anything used as a pillow'
- PT:    Gabadi         i-uina-na         'pillow'
- MM:     Sursurunga    l-ulŋan         'pillow'
- SES:    Bugotu        uluŋa           (N) 'pillow'; (V) 'pillow (the head)'
- SES:    Gela          uluŋa           'rest one's head on; a headrest of wood, pillow (modern)'
- SES:    Ulawa         uluŋa           (V) 'pillow, serve as a pillow'
- NCV:    Mota          uluŋa           'pillow'
- SV:     N. Tanna     koulogo          'pillow, headrest'
- Mic:    Ponapean      ul-ūl            'pillow; small hill; use a pillow'
- Mic:    Ponapean      uluŋ            (VT) 'use as pillow'
- Mic:    Trukese       wɨn              'pillow, headrest'
- Pn:     Tongan        ʔoluŋa          'headrest, pillow'
- Pn:     Niuean        uluŋa           'pillow, headrest'
- Pn:     Hawaiian      uluna            'pillow'
+ Adm: Loniu        kaluŋ           'pillow, orig. a wooden block'
+ Adm: Seimat       ul-uluŋ         'rest the head'
+ Adm: Titan        ul-uləuŋ        'pillow, wooden neck support, anything used as a pillow'
+ PT:  Gabadi       i-uina-na       'pillow'
+ MM:  Sursurunga   l-ulŋan         'pillow'
+ SES: Bugotu       uluŋa           (N) 'pillow'; (V) 'pillow (the head)'
+ SES: Gela         uluŋa           'rest one's head on; a headrest of wood, pillow (modern)'
+ SES: Ulawa        uluŋa           (V) 'pillow, serve as a pillow'
+ NCV: Mota         uluŋa           'pillow'
+ SV:  N. Tanna     koulogo         'pillow, headrest'
+ Mic: Ponapean     ul-ūl           'pillow; small hill; use a pillow'
+ Mic: Ponapean     uluŋ            (VT) 'use as pillow'
+ Mic: Trukese      wɨn             'pillow, headrest'
+ Pn:  Tongan       ʔoluŋa          'headrest, pillow'
+ Pn:  Niuean       uluŋa           'pillow, headrest'
+ Pn:  Hawaiian     uluna           'pillow'
 >
 
                                                                      Household artefacts        113
@@ -5389,7 +5380,7 @@ POc *quluŋ-an 'rest the head on; wooden headrest' (ACD)
 
 
 
-Figure 18 : POc *quluŋ-an 'wooden headrest' (from Nevermann 1934:271)
+Figure 18 : POc _*quluŋ-an_ 'wooden headrest' (from Nevermann 1934:271)
 
 <
 POc *kalik 'native wooden pillow'
@@ -5402,6 +5393,8 @@ POc *kalik 'native wooden pillow'
 4.8. Conclusions
 
 Our reconstructions are for items which draw on a range of raw materials. They include:
+
+__ul__
 - vegetable products (a variety of timbers, bamboo, coconut shell, leaves, vine, cane and bark)
 - stone (of variable quality, the most useful being obsidian, flint and basalt)
 - coral and shell (Tridacna, Trochus, Conus, clam, pearlshell and others; turtle shell)
@@ -5409,7 +5402,7 @@ Our reconstructions are for items which draw on a range of raw materials. They i
 - earth products (pigments, earth, clay).
 
 While most of these would be readily available throughout the western Oceanic region, two
-in particular -obsidian and clay of good, workable quality -are limited in their distribution.
+in particular - obsidian and clay of good, workable quality - are limited in their distribution.
 Although obsidian and clay pots were widely traded, cognate sets supporting reconstructions
 are relatively few. The potting term evidence, however, for all its limitations, shows considerable
 continuity of terms from PMP to POco The paucity of Oceanic terms may be due in part to
@@ -5424,43 +5417,43 @@ and, more recently, in Marovo Lagoon, western Solomons (Peter Shepherd, pers.com
 
    Nor has reconstructing a term for obsidian been straightforward. As a glance at the glosses
 will show, there is considerable variation in meaning from place to place, with the obsidian
-                          term being used at times for other sharp stones, for a razor, for the head of a spear or an
-                          arrow, and as a cutting verb.
+term being used at times for other sharp stones, for a razor, for the head of a spear or an
+arrow, and as a cutting verb.
 
                            114 Meredith Osmond and Malcolm Ross
 
 
-                              As one moves east, from N.W. Melanesia and the Solomons out into the Pacific, the range
-                          of plant and animal life becomes less, with coral atolls having the most restricted environments.
-                          Shell increases in importance, while hard stone capable of taking an edge becomes rare.
-                          Terms to do with mats and weaving and bark-cloth manufacture increase in number and
-                          show increased specialization. Tattooing becomes more widespread. These are most likely
-                          indicators of developing elaborations after the break-up of POco
+    As one moves east, from N.W. Melanesia and the Solomons out into the Pacific, the range
+of plant and animal life becomes less, with coral atolls having the most restricted environments.
+Shell increases in importance, while hard stone capable of taking an edge becomes rare.
+Terms to do with mats and weaving and bark-cloth manufacture increase in number and
+show increased specialization. Tattooing becomes more widespread. These are most likely
+indicators of developing elaborations after the break-up of POc.
 
-                              Household artefacts varied greatly in the degree to which they were manufactured. A
-                          few--coconut-shell containers and shell scrapers-would have been functional more or less in
-                          their natural state. Most items were manufactured to some degree, either with use of tools or
-                          through skilful manipulation of the raw material. Axe and adze heads had to be shaped and
-                          fitted with a handle; wooden bowls required tools that cut and shaped and gouged, smaller
-                          versions of the tools used in canoe manufacture. Mats and baskets ranged from the very
-                          simple to the intricately shaped and patterned, serving not only as domestic items but also as
-                          house walls and canoe sails. Cordage produced not only bags but also a range of fishing nets.
+    Household artefacts varied greatly in the degree to which they were manufactured. A
+few--coconut-shell containers and shell scrapers-would have been functional more or less in
+their natural state. Most items were manufactured to some degree, either with use of tools or
+through skilful manipulation of the raw material. Axe and adze heads had to be shaped and
+fitted with a handle; wooden bowls required tools that cut and shaped and gouged, smaller
+versions of the tools used in canoe manufacture. Mats and baskets ranged from the very
+simple to the intricately shaped and patterned, serving not only as domestic items but also as
+house walls and canoe sails. Cordage produced not only bags but also a range of fishing nets.
 
-                              Pottery would seem to be the household artefact requiring the most complex stages of
-                          manufacture. There would have been little need of tools beyond paddle (POc *tapi) and anvil
-                          (POc *patu 'stone'). However, stages would include preparation of the clay involving tempering
-                          with sand, moulding, decorating, drying, firing, and, for some, sealing with a vegetable
-                           caulking agent.[11] One would assume that this kind of knowledge would be accumulated over
-                          a long period of trial and error, and probably passed down as an integrated procedure. We
-                          know that in more recent times the skill of making pots was a jealously guarded trade secret,
-                          not one that could simply be copied by examining the final product.
+    Pottery would seem to be the household artefact requiring the most complex stages of
+manufacture. There would have been little need of tools beyond paddle (POc _*tapi_) and anvil
+(POc _*patu_ 'stone'). However, stages would include preparation of the clay involving tempering
+with sand, moulding, decorating, drying, firing, and, for some, sealing with a vegetable
+ caulking agent.[11] One would assume that this kind of knowledge would be accumulated over
+a long period of trial and error, and probably passed down as an integrated procedure. We
+know that in more recent times the skill of making pots was a jealously guarded trade secret,
+not one that could simply be copied by examining the final product.
 
-                              One further point that can be made about POc artefacts is that at least some of them
-                          demonstrated a desire by their makers to produce something that was more than simply
-                          functional. Although this point is illustrated most vividly by archaeological findings dating
-                          back to POc times, particularly the early Lapita pots, the mere existence of such decorative
-                           items as earrings, arm rings and combs points to a desire for some SOlt of ornamentation,
-                          some kind of artistic expression.
+    One further point that can be made about POc artefacts is that at least some of them
+demonstrated a desire by their makers to produce something that was more than simply
+functional. Although this point is illustrated most vividly by archaeological findings dating
+back to POc times, particularly the early Lapita pots, the mere existence of such decorative
+ items as earrings, arm rings and combs points to a desire for some SOlt of ornamentation,
+some kind of artistic expression.
 
 [11] See Ross (1996c) for more detail of these processes.
 
@@ -5472,31 +5465,31 @@ will show, there is considerable variation in meaning from place to place, with 
 
 5.1 Introduction
 
-                         It is claimed that one of the distinguishing features of the Lapita culture is the movement
-                    out into the Pacific of a wide range of domesticated plants, and that Lapita represents, in the
-                    Bismarcks and Solomons, the first clear evidence for an agricultural base to the economy, a
-                    base apparently little changed until this century (see Pawley & Green 1973, Shutler & Marck 1975, Spriggs 1997a).[1]
+     It is claimed that one of the distinguishing features of the Lapita culture is the movement
+out into the Pacific of a wide range of domesticated plants, and that Lapita represents, in the
+Bismarcks and Solomons, the first clear evidence for an agricultural base to the economy, a
+base apparently little changed until this century (see Pawley & Green 1973, Shutler & Marck 1975, Spriggs 1997a).[1]
 
-                         Early this century, ethnographers such as Malinowski (1935) for the Trobriands, Blackwood
-                    (1935) for north Bougainville and Ivens (1927 (reissued 1972)) for the Southeast Solomons,
-                    described communities in which the people were, above all, gardeners. Their gardens provided
-                    a basis for their settlement size and determined the nature and division of labour. Much of
-                    the ritual and magic practised related to the stages of cultivation and growth and harvest.
-                    Their produce excessive to daily needs fuelled their festivals, it was their standby in times of
-                    food scarcity, and their trading currency. Reciprocal obligations to kin were expressed in
-                    foodstuffs exchanged. Years were calculated in terms of annual crop cycles-an event might
-                    have ocurred two yam crops ago or could be expected after the next galip nut harvest.
+     Early this century, ethnographers such as Malinowski (1935) for the Trobriands, Blackwood (1935) 
+for north Bougainville and Ivens (1927 (reissued 1972)) for the Southeast Solomons,
+described communities in which the people were, above all, gardeners. Their gardens provided
+a basis for their settlement size and determined the nature and division of labour. Much of
+the ritual and magic practised related to the stages of cultivation and growth and harvest.
+Their produce excessive to daily needs fuelled their festivals, it was their standby in times of
+food scarcity, and their trading currency. Reciprocal obligations to kin were expressed in
+foodstuffs exchanged. Years were calculated in terms of annual crop cycles - an event might
+have ocurred two yam crops ago or could be expected after the next galip nut harvest.
 
-                         Over one hundred POc food plant terms have now been reconstructed (see Food Plants in
-                    vol 3, an earlier version of which has been published as Ross 1996d). Here, however, we are
-                    concerned, not with the terms for the plants themselves (these are listed where relevant, but
-                    without supporting data) but rather, with terms for gardens and for activities associated with
-                    gardening.
+     Over one hundred POc food plant terms have now been reconstructed (see Food Plants in
+vol 3, an earlier version of which has been published as Ross 1996d). Here, however, we are
+concerned, not with the terms for the plants themselves (these are listed where relevant, but
+without supporting data) but rather, with terms for gardens and for activities associated with
+gardening.
 
-                        A considerable debt is owed to the unpublished 1983 thesis of Renwick French-Wright,
-                    Proto Oceanic Horticultural Practices, a work which travelled much the same road as this
-                    chapter does, and many of whose cognate sets have been included here. Because more
-                    stringent subgrouping requirements apply today before a reconstruction can be identified as
+    A considerable debt is owed to the unpublished 1983 thesis of Renwick French-Wright,
+Proto Oceanic Horticultural Practices, a work which travelled much the same road as this
+chapter does, and many of whose cognate sets have been included here. Because more
+stringent subgrouping requirements apply today before a reconstruction can be identified as
 POc, some revision of his reconstructions has been necessary - usually involving downgrading
 from POc to PEOc.
 
@@ -5504,18 +5497,18 @@ from POc to PEOc.
 116 Meredith Osmond
 
 
-[1]   I am indebted to Michael Bourke, Ann Chowning and Matthew Spriggs for a host of useful comments, to
-                          Malcolm Ross for adding to and tidying up many of my reconstructions, and to Jean Kennedy who drew
-                          my attention to P. H McEldowney's thesis, Subsistence intensification in the late prehistory of Manus.
-                          For evidence of the association of Lapita people with the break-up and spread of Proto Oceanic see
-                          Chapter 3, § l .
+[1] I am indebted to Michael Bourke, Ann Chowning and Matthew Spriggs for a host of useful comments, to
+    Malcolm Ross for adding to and tidying up many of my reconstructions, and to Jean Kennedy who drew
+    my attention to P. H McEldowney's thesis, Subsistence intensification in the late prehistory of Manus.
+    For evidence of the association of Lapita people with the break-up and spread of Proto Oceanic see
+    Chapter 3, § l .
 
 
 5.2 Background
 
     Almost all of Melanesia lies within the humid tropics and experiences high rainfall. Apart
 from areas round Port Moresby and the west coast of New Caledonia, which receive less than
-1 ,000 mm per annum, most of Melanesia averages above 2,500 mm, while south-west New
+1,000 mm per annum, most of Melanesia averages above 2,500 mm, while south-west New
 Britain receives over 6,000 mm. Seasonal variation of rainfall is due primarily to the changing
 trade wind cycle, and can best be described as variation between 'fairly wet' and 'very wet',
 although major droughts can occur from time to time. As Ann Chowning (pers.comm.) points
@@ -5534,7 +5527,7 @@ however, may have been adopted from Papuan speakers who had practised agricultur
 New Guinea for millennia before Austronesian speakers arrived. Brookfield and Hart (1971)
 made an exhaustive survey of forty-four places, fourteen of which are Austronesian
 settlements[2], in order to identify, as best they could, the environment and land use in 'Old
-Melanesia ', the region as it was before external forces began to radically modify the man-
+Melanesia', the region as it was before external forces began to radically modify the man-
 environment systems. These provide a good representative sample of traditional methods
 across the region, and incidentally cover the major linguistic subgroups from New Guinea to
 Fiji, together with the Samoic outlier of Tikopia. The factors they considered were location
@@ -5558,7 +5551,7 @@ variations on the classic swidden or shifting cultivation system.' (p. 108)
 |   untidy, littered with the fallen trunks of trees and quickly invaded by weeds. Because of wild
 |   and domesticated pigs, most gardens are fenced. Weeding is sometimes done in the early
 |   months but is never continued beyond the lifting of the main crop. (Brookfield & Hart
-|   1971 : 107-108)
+|   1971: 107-108)
 
 
                                                                      Horticultural practices         117
@@ -5567,7 +5560,7 @@ variations on the classic swidden or shifting cultivation system.' (p. 108)
    Rarer techniques within what was still essentially a swidden system included tillage in
 some grassland areas to eradicate grassroots and aerate the soil; the planting of yams in
 specially prepared pits which were composted with a mixture of leaves, grass and soil (e.g. in
-Mapos Buang (NNG» ; and employing rudimentary irrigation (e.g. in Seniang (NCV» . Locations
+Mapos Buang (NNG)); and employing rudimentary irrigation (e.g. in Seniang (NCV)). Locations
 in Fiji, New Caledonia and the Solomons were distinguished by more advanced irrigation
 systems, permitting some continuous cultivation of the same plots.
 
@@ -5580,7 +5573,7 @@ systems, permitting some continuous cultivation of the same plots.
 
 5.3 Land usage
 
-   For swidden agriculturalists, land could be classified in one of three ways-as land under
+   For swidden agriculturalists, land could be classified in one of three ways - as land under
 cultivation or ready for cultivation, as old garden land now lying fallow, and as uncleared
 'bush' or forest. The following reconstructions illustrate.
 
@@ -5589,29 +5582,29 @@ cultivation or ready for cultivation, as old garden land now lying fallow, and a
 <
 PAn *qumah 'swidden; work a swidden' (ACD)
 POc *quma 'garden; to clear land for a garden' (Grace 1969)
- NNG: Gedaged              um                  'garden, cultivated land'
- NNG: Adzera               gum                 'garden'
- NNG: Poeng                kume                'prepare a garden'
- NNG: Sengseng             kum                 (v) 'work (in general)'
- PT:  Molima               ʔuma                'planted garden'
- PT:  Sudest               uma                 'garden'
- PT:  Motu                 uma                 'garden, enclosed, cultivated plot'
- MM: Bulu                  ɣ<in>uma            'garden' (< POc _*q<in>uma_ <NOM>garden)
- MM: Nakanai               (ma)huma            'garden'
- MM: Tolai                 uma                 'garden'
- MM: Kia                   (n-un)uma           'garden' (< POc _*na_ ART + _*q<in>uma_ <NOM>garden)
- MM:     Roviana           uma                 'make a garden'
- MM:     Roviana           (in)uma             'a garden' (< POc *q<in>uma <NOM>garden)
- SES: Gela                 uma                 'clear away the bushes in making a garden '
- SES: Arosi                umʷa                'weed a garden'
- NCV : Mota                umʷa                'clear away growth from a garden, first stage of preparation'
- NCV : Nguna               uma                 'cut bush, clear land'
- Fij:  Wayan               uma(ni)             'turn the soil over'
+ NNG: Gedaged           um                  'garden, cultivated land'
+ NNG: Adzera            gum                 'garden'
+ NNG: Poeng             kume                'prepare a garden'
+ NNG: Sengseng          kum                 (v) 'work (in general)'
+ PT:  Molima            ʔuma                'planted garden'
+ PT:  Sudest            uma                 'garden'
+ PT:  Motu              uma                 'garden, enclosed, cultivated plot'
+ MM:  Bulu              ɣ<in>uma            'garden' (< POc _*q<in>uma_ <NOM>garden)
+ MM:  Nakanai           (ma)huma            'garden'
+ MM:  Tolai             uma                 'garden'
+ MM:  Kia               (n-un)uma           'garden' (< POc _*na_ ART + _*q<in>uma_ <NOM>garden)
+ MM:  Roviana           uma                 'make a garden'
+ MM:  Roviana           (in)uma             'a garden' (< POc *q<in>uma <NOM>garden)
+ SES: Gela              uma                 'clear away the bushes in making a garden '
+ SES: Arosi             umʷa                'weed a garden'
+ NCV: Mota              umʷa                'clear away growth from a garden, first stage of preparation'
+ NCV: Nguna             uma                 'cut bush, clear land'
+ Fij: Wayan             uma(ni)             'turn the soil over'
 >
 
-Three MM languages (Bulu, Kia and Roviana) reflect POc *qdmuma <NOM> + 'garden' (on
+Three MM languages (Bulu, Kia and Roviana) reflect POc _*q<in>uma_ <NOM> + 'garden' (on
 nominalisers, see Ch. 2, §3.2 . 1), suggesting perhaps that at least in the early MM linkage,
-*quma was a verb meaning 'make a garden ', *qdn>uma the product of that activity. The
+_*quma_ was a verb meaning 'make a garden ', _*q<in>uma_ the product of that activity. The
 following item betrays a similar pattern.
 
 118 Meredith Osmond
@@ -5627,11 +5620,11 @@ POc *(b,bʷ)aku(r,R) 'work a garden ' (Dempwolff 1938 : POc *(p,b)agur (V) 'hoe'
   SES:   Arosi           bʷaʔu             'tableland above the shore where the gardens are'
 >
 
-Ross (1994a) has reconstructed Proto Central Papuan *vdmayula 'do work ' (Hula ina yulu ,
-Lala vinaula, Kuni bilaula, East Mekeo pinauna). Central Papuan languages reflect POc
-final consonants only in borrowings from other PT languages, so *v<imayula points to PPT
-*bdmaqura, POc *(b,bʷ)dmaku(r,R). The presence of the nominaliser * <im suggests that
-*(b,bʷ)aku(r,R) was a verb.
+Ross (1994a) has reconstructed Proto Central Papuan _*v<in>ayula_ 'do work ' (Hula _inayulu_,
+Lala _vinaula_, Kuni _bilaula_, East Mekeo _pinauna_). Central Papuan languages reflect POc
+final consonants only in borrowings from other PT languages, so _*v<in>ayula_ points to PPT
+_*b<in>aqura_, POc _*(b,bʷ)dmaku(r,R)_. The presence of the nominaliser _*<in>_ suggests that
+_*(b,bʷ)aku(r,R)_ was a verb.
 
 
 
@@ -5655,20 +5648,20 @@ POc *talu(n) 'fallow land, land returning to secondary growth'
 <
 PAn *quCaN 'fallow land' (Blust 1989 : 174)
 POc *qutan 'bushland, hinterland'
-  Adm: Mussau            utana             'garden'
-  NNG: Manam             (a)uta            'inland'
-  PT:  Motu              uda               'bush, forest'
-  PT:  Bwaidoga          ɣudana            'forest'
-  PT:  Misima           ulan              'forest'
-  MM: Nakanai            huta-huta         'general term for small plants and leaves; trash'
-  SES: Tolo              uta               'garden'
- NCV: Mota               uta             'bush, forest, unoccupied land; the inland country'
- NCV: Nguna              uta             'inland'
- NCV : S.E. Ambrym       ut              'place, area, land, shore, island, homeland, weather'
-  Mic:   Kosraean        wət             'area inland or towards the mountains'
-  Fij:   Rotuman         ufa             'land (from the sea); interior (from the coast)'
-  Pn:    Tongan          ʔuta           'inland (from shore); shore, land (from sea)'
-  Pn:    Hawaiian        uka             'inland (from shore); shore, land (from sea)'
+  Adm: Mussau          utana          'garden'
+  NNG: Manam           (a)uta         'inland'
+  PT:  Motu            uda            'bush, forest'
+  PT:  Bwaidoga        ɣudana         'forest'
+  PT:  Misima          ulan           'forest'
+  MM:  Nakanai         huta-huta      'general term for small plants and leaves; trash'
+  SES: Tolo            uta            'garden'
+  NCV: Mota            uta            'bush, forest, unoccupied land; the inland country'
+  NCV: Nguna           uta            'inland'
+  NCV: S.E. Ambrym     ut             'place, area, land, shore, island, homeland, weather'
+  Mic: Kosraean        wət            'area inland or towards the mountains'
+  Fij: Rotuman         ufa            'land (from the sea); interior (from the coast)'
+  Pn:  Tongan          ʔuta           'inland (from shore); shore, land (from sea)'
+  Pn:  Hawaiian        uka            'inland (from shore); shore, land (from sea)'
 >
 
 The Mussau and Tolo reflexes mean 'garden': this change of meaning is probably due to the
@@ -5690,8 +5683,8 @@ PEOc *wao 'forest' (French-Wright 1983)
 5.4. Soil
 
 
-   The meaning of earth as soil would seem to be the central meaning of POc *tanoq (cf.
-POc *panua whose extended meanings included (1) inhabited area or territory; (2) community
+   The meaning of earth as soil would seem to be the central meaning of POc _*tanoq_ (cf.
+POc _*panua_ whose extended meanings included (1) inhabited area or territory; (2) community
 together with its land and things on it; (3) land, not sea; see Ch. 3, §3 .7).
 
 <
@@ -5715,9 +5708,9 @@ POc *tanoq 'earth, soil'
  Mic: Woleaian           tal             'earth, ground, soil'
 >
 
-The form POc *tano(q) given in vol. 1, p.119 has now been revised to *tanoq. Evidence supporting final
-  *-q lies in the retention of a final vowel in Kwamera (John Lynch, pers. comm.) and Iaai (Françoise
-  Ozanne-Rivierre, pers. comm.).
+The form POc _*tano(q)_ given in vol. 1, p.119 has now been revised to _*tanoq_. Evidence supporting final
+_*-q_ lies in the retention of a final vowel in Kwamera (John Lynch, pers. comm.) and Iaai 
+(Françoise Ozanne-Rivierre, pers. comm.).
 
 120 Meredith Osmond
 
@@ -5733,7 +5726,7 @@ POc *pʷaya '(cultivable) soil'
 >
 
 
-   In some Central Pacific languages, reflexes of *gʷele carry a similar range of meanings.
+   In some Central Pacific languages, reflexes of _*gʷele_ carry a similar range of meanings.
 
 <
 PCP *gʷele 'earth, soil'
@@ -5749,7 +5742,7 @@ PCP *gʷele 'earth, soil'
    New gardens are traditionally prepared along the following lines. First, the undergrowth
 and vines and small trees are cleared. Before the introduction of metal implements, this
 would have been done with a large digging stick used as a crowbar (§S.S) and perhaps a stone
-axe (POc *kiRam, Ch. 4, §4. 1 . 1), together with smaller cutting implements made of bamboo
+axe (POc _*kiRam_, Ch. 4, §4. 1 . 1), together with smaller cutting implements made of bamboo
 or shell. Large trees may be left standing, although branches may be lopped off to admit
 maximum sunlight. Alternatively, they may be slowly killed off by ringbarking or by burning
 rubbish heaped round their base. Debris is usually left to dry and then burnt, with the ashes
@@ -5760,7 +5753,7 @@ removed, together with any weeds which have survived the burning.
 
 5.5.1 Clearing the land
 
-  It seems from its reflexes that POc *quma meant 'clear land for a garden' (§3.1). In
+  It seems from its reflexes that POc _*quma_ meant 'clear land for a garden' (§3.1). In
 addition, the following terms are reconstructable.
 
 <
@@ -5772,43 +5765,43 @@ POc *topa 'land cleared for a garden; land formerly planted as a garden'
 
 <
 POc *salu- 'slash, hoe; a hoe, an adze'
-  NNG: Gedaged               salu         'hoe made out of shell'
-  NNG: Yabem                 salu(na)     'stone adze with small blade'
-  SES: Gela                  halo         'a small k.o. adze'
-  NCV : Mota                 sal          'cut with a slashing cut'
- Fij:     Rotuman        saru             'dig (as a garden), till, break up finely'
- Fij:     Bauan          saru             'strike grass and reeds with a heavy stick'
- Pn:      Tongan         halu             'scarify soil'
- Pn:      Samoan         salu             'brush up, as rubbish; scrape out, as coconut'
+  NNG: Gedaged        salu         'hoe made out of shell'
+  NNG: Yabem          salu(na)     'stone adze with small blade'
+  SES: Gela           halo         'a small k.o. adze'
+  NCV: Mota           sal          'cut with a slashing cut'
+  Fij: Rotuman        saru         'dig (as a garden), till, break up finely'
+  Fij: Bauan          saru         'strike grass and reeds with a heavy stick'
+  Pn:  Tongan         halu         'scarify soil'
+  Pn:  Samoan         salu         'brush up, as rubbish; scrape out, as coconut'
 >
 
                                                                 Horticultural practices     121
 
 <
 POc *poki 'clear the ground for a garden site' (French-Wright 1983)
- PT:      Lala           voi              'gardening (general); (clear garden in grassland after burning)'
- MM: Tangga              pok              'cut down, cut off' (_pok palaŋ_ 'clear clumps of bamboo and other low scrub from a garden site'; _palaŋ_ 'garden')
- MM: Simbo               poki             'clear ground; garden, clearing'
- SES: Sa'a               hui              'clear a taro garden'
+ PT:  Lala      voi          'gardening (general); (clear garden in grassland after burning)'
+ MM:  Tangga    pok          'cut down, cut off' (_pok palaŋ_ 'clear clumps of bamboo and other low scrub from a garden site'; _palaŋ_ 'garden')
+ MM:  Simbo     poki         'clear ground; garden, clearing'
+ SES: Sa'a      hui          'clear a taro garden'
 >
 
 <
 POc *sani 'complete clearing of garden; stripping, of leaves'
- Adm: Loniu              cani             (VT) 'clear, cut down bush or sugarcane'
- Adm: Loniu              (pono)sani       'clear out, sweep, straighten up a garden after heavy clearing is completed; trim trunk of tree before chopping up'
- PT:      Motu           dani             'cover, as weeds a garden'
- Fij:     Bauan          sam              'remove leaves'
- Pn:      Tongan         hani             'remove all the leaves'
+ Adm: Loniu          cani             (VT) 'clear, cut down bush or sugarcane'
+ Adm: Loniu          (pono)sani       'clear out, sweep, straighten up a garden after heavy clearing is completed; trim trunk of tree before chopping up'
+ PT:  Motu           dani             'cover, as weeds a garden'
+ Fij: Bauan          sam              'remove leaves'
+ Pn:  Tongan         hani             'remove all the leaves'
 >
 
 <
 POc *sara 'clear (vegetation, rubbish) from a garden'
- MM: Nakanai             sala             'scrape away garden debris with the hand'
- NCV : Mota              sara             'pass, draw along, sweep, be swept away'
- NCV : Nguna             sara             'sweep'
- Fij:  Wayan             ðoara             'clear a garden (burn off dried vegetation) for planting'
- Fij:     Bauan          ðara             'clear a walk of rubbish'
- Fij:     Bauan          ðara-ðara        'cleared, clean of weeds'
+ MM:  Nakanai        sala             'scrape away garden debris with the hand'
+ NCV: Mota           sara             'pass, draw along, sweep, be swept away'
+ NCV: Nguna          sara             'sweep'
+ Fij: Wayan          ðoara            'clear a garden (burn off dried vegetation) for planting'
+ Fij: Bauan          ðara             'clear a walk of rubbish'
+ Fij: Bauan          ðara-ðara        'cleared, clean of weeds'
 >
 
 <
@@ -5824,10 +5817,10 @@ PWOc *lamo 'clear a garden site' (Ann Chowning, pers.comm.)
 
 <
 PEOc *kokoda 'gather weeds or rubbish, prepare a garden' (French-Wright 1983)
-  SES:    Arosi          ʔoʔora         'prepare a garden; unplanted but prepared, of a garden'
-  NCV : Mota             gogor(ag)        'gather together (weeds +)' (_-ag_ <  POc _*-aki_ APPL)
- Fij:    Bauan            gogot(a)          'gather up in handfuls; clear up rubbish'
- Pn:     Maori            koko              'scoop up'
+  SES: Arosi          ʔoʔora         'prepare a garden; unplanted but prepared, of a garden'
+  NCV: Mota           gogor(ag)      'gather together (weeds +)' (_-ag_ <  POc _*-aki_ APPL)
+  Fij: Bauan          gogot(a)       'gather up in handfuls; clear up rubbish'
+  Pn:  Maori          koko           'scoop up'
 >
 
 122 Meredith Osmond
@@ -5853,7 +5846,7 @@ POc *soko(t), *sokot-i- 'burn (grass, rubbish +)'
   SES:    Arosi           togo               'make up a fire, set more wood on'
 >
 
-    Reflexes of POc *tunu 'roast on embers or in fire; burn (grass +); make decorative
+    Reflexes of POc _*tunu_ 'roast on embers or in fire; burn (grass +); make decorative
 cicatrices by burning the skin' (Ch. 6, §3.2) are commonly used in NNG and MM languages
 to refer to burning off land for clearing.
 
@@ -5882,61 +5875,61 @@ POc *rabut or *rubat 'uproot' (French-Wright 1983 has *(R,d)amput 'uproot ')
   SES: Tolo               rubo(a)            (v) 'weed'
 >
 
-See also POc *puti- 'pick, pluck (feathers), pull out (weeds +)' (Ch. 9, §6. 1).
+See also POc _*puti-_ 'pick, pluck (feathers), pull out (weeds +)' (Ch. 9, §6. 1).
 
 
                                                                            Horticultural practices           123
 
 5.5.4 Digging
 
-   Both *kali and *keli are reconstructable for POc, and both apparently refer to digging as a
+   Both _*kali_ and _*keli_ are reconstructable for POc, and both apparently refer to digging as a
 general activity, including planting and digging up (tubers)[3].
 
-[3]   There is a sporadic tendency in Oceanic languages for *a > e/_i,e - e.g. POc *kati 'husk with the teeth' >
-    PEOc *keti (Ch. 9, §3.7), PPn *wahe 'divide' >wehe in EPn languages.
+[3]   There is a sporadic tendency in Oceanic languages for _*a_ > _e/i,e_ - e.g. POc _*kati_ 'husk with the teeth' >
+    PEOc _*keti_ (Ch. 9, §3.7), PPn _*wahe_ 'divide' > _wehe_ in EPn languages.
 
 <
 PAn *kali 'dig' (Blust 1983-84a: 15)
 POc *kali 'dig'
 POc *kali-aki- 'plant (garden) with (taro +)'
-    MM: Minigir                kali
-    MM: Tolai                  kal                  'dig (out)'
-    MM: Tolai                  kalie                'plant, dig in'
-    SES:    Arosi              ʔariʔae             'plant taro in a garden'
-    Pn:     Tikopia            kari
-    Pn:     Maori              kari                 'dig for, dig up'
-    Pn:     Hawaiian           ʔali
+    MM:  Minigir            kali
+    MM:  Tolai              kal                 'dig (out)'
+    MM:  Tolai              kalie               'plant, dig in'
+    SES: Arosi              ʔariʔae             'plant taro in a garden'
+    Pn:  Tikopia            kari
+    Pn:  Maori              kari                'dig for, dig up'
+    Pn:  Hawaiian           ʔali
 >
 
 <
 POc *keli 'dig, harvest (tubers)'
-    NNG: Lukep                 keli                 'dig, unearth (used for the action of harvesting yams and sweet potato)'
-    NNG: Wogeo                 (i)kel-kel
-    NNG: Manam                 ʔeli                'dig postholes, yamholes +'
-    NNG: Sengseng              kel                  'dig, dig up, as yams'
-    PT:   Kilivila             keli-
-    PT:   Motu                 ɣei                  'dig, dig up (yams +)'
-    MM : Bali                 ɣeli
-    MM : Lihir                kel
-    MM: Roviana                ɣeli                 'dig (yams +)'
-    SES: Gela                  ɣeli-                'dig, harvest a crop of yams +'
-    SES: Lau                   ʔeli                'dig (yams, postholes +)'
-    SES: 'Are'are              eri                  'dig, harvest'
-    NCV: Raga                  geli
-    SV:   Kwamera              eri
-    Fij:  Wayan                keli                 'dig up, dig out soil'
-    Fij:  Bauan                keli                 'dig (a hole)'
-    Pn:   Tongan               keli                 'plant (yams)'
-    Pn:   Rennellese           kegi                 'dig, esp. tubers'
-    Pn:   Samoan               ʔeli                'dig, dig up, harvest (a root crop)'
-    cf. also:
-    Adm: Mussau                kai
-    Adm: Mussau                (ka)kaia             'bury'
-    MM:     Patpatar           kit                  'dig (with a stick)'
-    MM:     Ramoaaina          kit
-    MM:     Label              kit
-    SES:    Lau                ʔili
-    SES:    Arosi              giri                 'dig with a stick'
+  NNG: Lukep             keli              'dig, unearth (used for the action of harvesting yams and sweet potato)'
+  NNG: Wogeo             (i)kel-kel
+  NNG: Manam             ʔeli              'dig postholes, yamholes +'
+  NNG: Sengseng          kel               'dig, dig up, as yams'
+  PT:  Kilivila          keli-
+  PT:  Motu              ɣei               'dig, dig up (yams +)'
+  MM:  Bali              ɣeli
+  MM:  Lihir             kel
+  MM:  Roviana           ɣeli              'dig (yams +)'
+  SES: Gela              ɣeli-             'dig, harvest a crop of yams +'
+  SES: Lau               ʔeli              'dig (yams, postholes +)'
+  SES: 'Are'are          eri               'dig, harvest'
+  NCV: Raga              geli
+  SV:  Kwamera           eri
+  Fij: Wayan             keli              'dig up, dig out soil'
+  Fij: Bauan             keli              'dig (a hole)'
+  Pn:  Tongan            keli              'plant (yams)'
+  Pn:  Rennellese        kegi              'dig, esp. tubers'
+  Pn:  Samoan            ʔeli              'dig, dig up, harvest (a root crop)'
+  cf. also:
+  Adm: Mussau            kai
+  Adm: Mussau            (ka)kaia          'bury'
+  MM:  Patpatar          kit               'dig (with a stick)'
+  MM:  Ramoaaina         kit
+  MM:  Label             kit
+  SES: Lau               ʔili
+  SES: Arosi             giri              'dig with a stick'
   NCV: Lonwolwol         kil               'dig, dig for'
   SV : Lenakel           il
 >
@@ -5967,36 +5960,37 @@ POc *suar, *suar-i- 'root up the ground, as pigs do'
 5.5.5 Digging stick
 
 
-   Two kinds of digging stick may be physically differentiated-the longer, heavier version
+   Two kinds of digging stick may be physically differentiated - the longer, heavier version
 used to break up the surface of the soil, and the smaller dibble used to poke holes in the soil
 for planting. These are seldom, if ever, differentiated in word lists and it may be that most
 languages use the same term for both.
 
 <
 POc *waso 'digging stick'
- MM:     Nakanai         uaro
- MM:     Tangga          wās
- SES:    Lau             kwato             'digging stick in planting yams'
- SES:    Sa'a            wāto              'digging stick (for making holes when yam planting or for husking coconuts)'
-  SES:   'Are'are        wato              'stick used for husking coconuts and digging holes for planting of food'
- SES: Arosi              wato              'a digging stick, a stake for husking coconuts'
- NCV: Uripiv             nu-was
- NCV: Mota               as                'pierce, stab, prick'
+ MM:  Nakanai         uaro
+ MM:  Tangga          wās
+ SES: Lau             kwato             'digging stick in planting yams'
+ SES: Sa'a            wāto              'digging stick (for making holes when yam planting or for husking coconuts)'
+ SES: 'Are'are        wato              'stick used for husking coconuts and digging holes for planting of food'
+ SES: Arosi           wato              'a digging stick, a stake for husking coconuts'
+ NCV: Uripiv          nu-was
+ NCV: Mota            as                'pierce, stab, prick'
 >
 
-Note also Sengseng (NNG) e-suk 'digging stick' and East Fijian oukit-a (V) 'root, dig up or
-loosen the ground with a stick ', both reflexes of POc *(su)suk-i 'pierce, prick, sew' (Ch. 4,
-§3.2 . 1); also the Polynesian reflexes of POc *kojom 'husking stick' which refer to 'digging
+Note also Sengseng (NNG) _e-suk_ 'digging stick' and East Fijian _oukit-a_ (V) 'root, dig up or
+loosen the ground with a stick ', both reflexes of POc _*(su)suk-i_ 'pierce, prick, sew' (Ch. 4,
+§3.2 . 1); also the Polynesian reflexes of POc _*kojom_ 'husking stick' which refer to 'digging
 stick' (Ch. 6, §5.5).
 
 
                                                                     Horticultural practices       125
 
 5.6 Fence
+
    Great damage can be done to gardens wherever there are bush pigs or wallabies. Although
 wallabies are not found in the Solomons or places east, wild pigs are found throughout
 virtually all of Melanesia. In these places, preparation of a garden usually includes construction
-of a strong fence. In addition to POc *baRa 'fence, wall, enclosure' (see Ch. 3, §3.6), a term
+of a strong fence. In addition to POc _*baRa_ 'fence, wall, enclosure' (see Ch. 3, §3.6), a term
 which evidently encompasses all kinds of fences and walls, there are several terms which
 may apply more specifically to garden enclosures made of logs or stakes.
 
@@ -6013,39 +6007,39 @@ POc *qaRa(r) 'fence'
     Pn:  E. Uvean           ʔā                 'palisade'
 >
 
-   Ross Clark (pers.comm.) has pointed out that PPn *loto-qa is reconstructable (where *-qa
-reflects POc *qaRa(r)); this is evidently a fossilised compound, literally 'inside the fence',
+   Ross Clark (pers.comm.) has pointed out that PPn _*loto-qa_ is reconstructable (where _*-qa_
+reflects POc _*qaRa(r)_); this is evidently a fossilised compound, literally 'inside the fence',
 which in a number of Polynesian languages (Emae, Samoan, Tongan, Tikopia) means 'a
 garden'.
 
-[4] Reconstruction of PMP *-R- here is based on Manobo (S. Philippines) data: Tigwa Manobo, Binukid,
-Kinamigin, Sarangani Manobo, Western Bukidnon Manobo, llianen Manobo ʔalad; Obo, Dibabawon
-ʔaad; Tagabawa alad (Elkins 1974:607).
+[4] Reconstruction of PMP _*-R-_ here is based on Manobo (S. Philippines) data: Tigwa Manobo, Binukid,
+Kinamigin, Sarangani Manobo, Western Bukidnon Manobo, llianen Manobo _ʔalad_; Obo, Dibabawon
+_ʔaad_; Tagabawa _alad_ (Elkins 1974:607).
 
 <
 POc *kaRi 'garden fence or partition'
     NNG: Tami              kali               'fence'
-    NNG: Kairiru            kar                'fence'
-    PT:  Molima             ali                'fence, esp. of garden'
-    PT:  Kilivila           kali               'garden fence'
-    SES: Lau                (sā)kali           'fence round a garden'
-    SES: 'Are'are           ari-ari            'a separation, partition in the garden'
+    NNG: Kairiru           kar                'fence'
+    PT:  Molima            ali                'fence, esp. of garden'
+    PT:  Kilivila          kali               'garden fence'
+    SES: Lau               (sā)kali           'fence round a garden'
+    SES: 'Are'are          ari-ari            'a separation, partition in the garden'
 >
 
 <
 POc *bayat 'fence, boundary marker'
 POc *bayat-i- 'make a garden boundary'
-    PT:    Gumawana         bayata              'garden boundary made by terracing rocks '
-    PT:    Gumawana         bayasi             'make a garden boundary'
-    PT: Iduna               bai                'stick used as garden boundary; roof baton'
-    MM: Tolai               bait               'enclose with a fence'
-    MM: Tolai               ba-bait            'fence'
-    SES: Arosi              bai-bai            'large logs put round a finished garden'
-    NCV : Mae               pae                'fence, wall'
-    Fij : Bauan             bai                'fence round garden or town'
-    Pn:   Tuvalu            pae                'stones round an earth oven'
-    Pn:     Tikopia             pae                   'wall-like accumulation of stones'
-    Pn:     W. Futunan          bae                   'a stone fence'
+    PT:  Gumawana         bayata             'garden boundary made by terracing rocks '
+    PT:  Gumawana         bayasi             'make a garden boundary'
+    PT:  Iduna            bai                'stick used as garden boundary; roof baton'
+    MM:  Tolai            bait               'enclose with a fence'
+    MM:  Tolai            ba-bait            'fence'
+    SES: Arosi            bai-bai            'large logs put round a finished garden'
+    NCV: Mae              pae                'fence, wall'
+    Fij: Bauan            bai                'fence round garden or town'
+    Pn:  Tuvalu           pae                'stones round an earth oven'
+    Pn:  Tikopia          pae                'wall-like accumulation of stones'
+    Pn:  W. Futunan       bae                'a stone fence'
 >
 
 126 Meredith Osmond
@@ -6080,8 +6074,8 @@ yam) and taro, the latter being grown in a separate plot.
 |     betel pepper, and the edible reed awalosi. Different words are used to denote the clearing for
 |     a yam garden, and the clearing for taro.
 
-     In a description of traditional gardens on Manus Island in the Admiralties, McEldowney
-(1995:98) describes the yams Dioscorea esculenta (suwe) and D. alata (meyen) as completely
+     In a description of traditional gardens on Manus Island in the Admiralties, McEldowney (1995:98) 
+describes the yams Dioscorea esculenta (_suwe_) and D. alata (_meyen_) as completely
 dominating, with only limited amounts of taro (Colocasia esculenta) sometimes found along
 the boundary walls of the garden.
 
@@ -6113,12 +6107,11 @@ peoples:
                                                                   Horticultural practices        127
 
 
-   We have reconstructions going back at least as far as PMP for two kinds of taro (Colocasia
-esculenta and Alocasia macrorrhiza), the greater yam, bananas, breadfruit and sago. Other
+   We have reconstructions going back at least as far as PMP for two kinds of taro 
+(Colocasia esculenta and Alocasia macrorrhiza), the greater yam, bananas, breadfruit and sago. Other
 food plants, such as sugar cane, may have been indigenous to New Guinea. The sweet potato
 is of South American origin, and was probably introduced into New Guinea-north-west
-Melanesia after AD 1550, though it was introduced into Polynesia in pre-contact times (Yen
-1973).
+Melanesia after AD 1550, though it was introduced into Polynesia in pre-contact times (Yen 1973).
 
    Ross (1996d) includes the following POc reconstructions for items he classifies as "staples
 and related food plants":
@@ -6223,8 +6216,8 @@ major role in various forms of garden magic and ritual. Reconstructions for two 
 ritual significance in many Oceanic societies.
 
 
-[6]  Ross (1996d:210) warns that we cannot be completely sure of the original POc referents of *pau(q) and
-  *wai. Although both terms are reconstructable to PMP, their referents have apparently undergone some
+[6]  Ross (1996d:210) warns that we cannot be completely sure of the original POc referents of _*pau(q)_ and
+  _*wai_. Although both terms are reconstructable to PMP, their referents have apparently undergone some
   switching, with the sweet-tasting Mangifera indica being introduced from Asia at a date probably well
   after the break-up of POc, to supplement the indigenous Mangifera minor and Mangifera foetida varieties.
 
@@ -6239,28 +6232,28 @@ ritual significance in many Oceanic societies.
     Taro is propagated either by replanting the cut-off top of a tuber or by transplanting the
 suckers that grow around the 'mother' taro. Alternatively, these are simply left in the ground
 after the mature taro has been harvested. Reconstructed terms for this propagation material
-may refer to other plants in addition to taro. They are POc *(s,j)uli(q) 'banana or taro sucker,
-slip, cutting, shoot (i.e. propagation material)'; POc *wasi 'taro stem, used for planting'; POc
-*bʷaŋo 'taro tops, top shoots of areca nut, coconut' and POc *up(e,a) 'taro seedling'.
+may refer to other plants in addition to taro. They are POc _*(s,j)uli(q)_ 'banana or taro sucker,
+slip, cutting, shoot (i.e. propagation material)'; POc _*wasi_ 'taro stem, used for planting'; POc
+_*bʷaŋo_ 'taro tops, top shoots of areca nut, coconut' and POc _*up(e,a)_ 'taro seedling'.
 
 <
 PAn *suliq 'tendril, sucker' (Blust 1972b)
 POc *(s,j)uli(q) (1) 'banana or taro sucker, shoot (i.e. propagation material)'; (2) 'slip, cutting' (Ross 1988)
- Adm: Lou          sili-n                  'sprout: sprout of banana or pineapple'
- Adm: Loniu        cili                    'sprout, esp. banana shoot'
- NNG: Tami         jili                    'taro sucker'
- NNG: Lukep (Pono) suli-                   'a banana shoot'
- NNG: Manam        suli                    'banana slip, cutting'
- PT:   Dobu        suli                    'taro'
- PT:   Tawala      huni                    'taro'
- PT:   Motu        dui                     'banana plant'
- MM: Nehan         hon                     'taro'
- SES: Gela         duli                    'banana sucker'
- NCV : Mota        suli(u)                 'sucker from roots of a plant'
- SV :  Anejom      ni-sje-n                'taro shoot with leaves'
- Fij : Wayan       ðuli
- Fij:  Bauan       suli                    'banana or taro sucker'
- Pn:   Tongan      |huli(ʔi talo)|           'taro sucker' (_ʔi_ < POc _*qi_ 'generic possessive preposition'; _talo_ 'taro')
+ Adm: Lou          sili-n             'sprout: sprout of banana or pineapple'
+ Adm: Loniu        cili               'sprout, esp. banana shoot'
+ NNG: Tami         jili               'taro sucker'
+ NNG: Lukep (Pono) suli-              'a banana shoot'
+ NNG: Manam        suli               'banana slip, cutting'
+ PT:  Dobu         suli               'taro'
+ PT:  Tawala       huni               'taro'
+ PT:  Motu         dui                'banana plant'
+ MM:  Nehan        hon                'taro'
+ SES: Gela         duli               'banana sucker'
+ NCV: Mota         suli(u)            'sucker from roots of a plant'
+ SV:  Anejom       ni-sje-n           'taro shoot with leaves'
+ Fij: Wayan        ðuli
+ Fij: Bauan        suli               'banana or taro sucker'
+ Pn:  Tongan       |huli(ʔi talo)|    'taro sucker' (_ʔi_ < POc _*qi_ 'generic possessive preposition'; _talo_ 'taro')
 >
 
 <
@@ -6304,11 +6297,10 @@ POc *up(e,a) 'taro seedling'
 >
 
    These four items refer to parts of a plant which are used in its propagation. Except
-perhaps for POc *wasi 'taro stem, used for planting', they refer to the relevant parts of other
+perhaps for POc _*wasi_ 'taro stem, used for planting', they refer to the relevant parts of other
 plants, as well as taro. However, as Ross points out (1996d: 180), in each case generic
 reference is to taro. In several Central Papuan languages (Motu and its relatives), reflexes of
-POc *(s,j)uli(q) have become the generic term for banana.
-
+POc _*(s,j)uli(q)_ have become the generic term for banana.
 
    One 'cutting' term has been reconstructed which may refer to the severing of anything
 from its parent body, such as hair or leaves, but whose reflexes in North New Guinea, the
@@ -6317,22 +6309,22 @@ cutting off tuber tops.
 
 <
 POc *koti 'cut off (hair, taro tops +)'
-  NNG: Manam              ʔoti(ŋ)         'cut off taro tops for planting'
-  NNG: Sengseng           kot              'cut leaves for roof material or bark from a tree'
-  MM: Nakanai             koti             'cut hair'
-  SES: Gela               goti             'cut off, as taro head in planting'
-  SES: Arosi              ʔoi              'cut off taro tops for planting; to scrape off or peel with a shell'
-  Mic:   Woleaian         xos              'cut a tuber top'
-  Fij:   Bauan            koti             'clip, shear, cut off small things'
-  Pn:    Niuean           koti             'pinch, snip'
-  Pn:    Hawaiian         ʔoki             'cut, clip'
+  NNG: Manam            ʔoti(ŋ)         'cut off taro tops for planting'
+  NNG: Sengseng         kot             'cut leaves for roof material or bark from a tree'
+  MM:  Nakanai          koti            'cut hair'
+  SES: Gela             goti            'cut off, as taro head in planting'
+  SES: Arosi            ʔoi             'cut off taro tops for planting; to scrape off or peel with a shell'
+  Mic: Woleaian         xos             'cut a tuber top'
+  Fij: Bauan            koti            'clip, shear, cut off small things'
+  Pn:  Niuean           koti            'pinch, snip'
+  Pn:  Hawaiian         ʔoki            'cut, clip'
 >
 
                                                                         Horticultural practices         131
 
 
    Propagation of yams is generally by seed yams, small healthy yams selected from the
-previous year's crop, or by slices of larger yams. Ross has reconstructed PWOc *kapul 'seed
+previous year's crop, or by slices of larger yams. Ross has reconstructed PWOc _*kapul_ 'seed
 yam'.
 
 <
@@ -6348,7 +6340,7 @@ PWOc *kapul 'seed yam' [7]
 >
 
 
-[7]   Reflexes in Fiji and Polynesia reflect PCP *bulabula (Bauan i bulabula 'yam settings'; Tongan pulopula
+[7]   Reflexes in Fiji and Polynesia reflect PCP _*bulabula_ (Bauan _i bulabula_ 'yam settings'; Tongan _pulopula_
     'seed yams, pieces of yams, suckers, seedlings etc. for planting').
 
 
@@ -6375,7 +6367,7 @@ POc *paji 'cut yams for planting'
 5.8.2 Planting (tubers)
 
 
-Proto Oceanic *sopu referred to yam planting. This much is clear from the Muyuw and Gela glosses.
+Proto Oceanic _*sopu_ referred to yam planting. This much is clear from the Muyuw and Gela glosses.
 It is impossible to know from the available reflexes, however, whether the activity referred
 to was specific or general.
 
@@ -6406,7 +6398,7 @@ POc *asok 'plant in holes in the ground' (ACD)
   SES:   Arosi            ato-ato           'lay in rows, mark out thus, as a garden with horizontal poles'
 >
 
-The following verb seems to have resulted from affixing *pa- 'causative' to *asok above.
+The following verb seems to have resulted from affixing _*pa-_ 'causative' to _*asok_ above.
 
 <
 PWOc *pasok, *pasok-i 'plant (tuber +)'
@@ -6436,7 +6428,7 @@ PEOc *pasi 'plant yams'
   Adm: Mussau             pasa              'plant (s.t.)'
 >
 
-   Other terms are reflexes of POc *(su)suk-i 'pierce, sew' (Ch. 9, §4. 1):
+   Other terms are reflexes of POc _*(su)suk-i_ 'pierce, sew' (Ch. 9, §4. 1):
 
 __pre__
  SES: Arosi               suʔi              'transplant, put in a seedling'
@@ -6479,15 +6471,15 @@ The following set suggests related reconstructions for 'mound up (earth) for yam
 <
 POc *(p,b)uk(i,e) 'mound up (earth) for yams'
 POc *ta-(p,b)uk(i,e) 'yam mound'
- MM: Petats              tahui              'earth heaped up for planting yams in'
- SES: Arosi              hu-huʔi            'dig, mound up'
- NCV: Nguna              tāki              'yam mound'
- NCV : Atchin            tawu               'pile of earth '
- Mic: Kiribatese         tabuki             'hill, hillock '
- Fij:  Wayan             buke               'mound on which yams + are planted'
- Fij:  Bauan             buke-buke          'mound of earth for planting yams'
- Pn:   Rennellese        puke               'hill, as for tubers'
- Pn:   Hawaiian          puʔe               'mound, hill, heap'
+ MM:  Petats            tahui             'earth heaped up for planting yams in'
+ SES: Arosi             hu-huʔi           'dig, mound up'
+ NCV: Nguna             tāki              'yam mound'
+ NCV: Atchin            tawu              'pile of earth '
+ Mic: Kiribatese        tabuki            'hill, hillock '
+ Fij: Wayan             buke              'mound on which yams + are planted'
+ Fij: Bauan             buke-buke         'mound of earth for planting yams'
+ Pn:  Rennellese        puke              'hill, as for tubers'
+ Pn:  Hawaiian          puʔe              'mound, hill, heap'
 >
 
 5.8.4 Sow (seed)
@@ -6505,19 +6497,19 @@ in the intervening regions. This situation arises often enough in linguistic rec
 and may be due to any number of sociolinguistic variables or perhaps to shortfalls in
 available word lists. It is of course possible that our searches have simply not located
 cognates that exist elsewhere. But the fact remains that most of the cultivated plants for
-which we have pac reconstructions are propagated by planting parts of the plant other than
+which we have POc reconstructions are propagated by planting parts of the plant other than
 its seeds. Secondly, are we overlooking the existence of plants that are cultivated from seed
 but are seldom recorded in word lists, perhaps being of minor importance in the diet, or
 subsumed under a more generalised term such as 'greens'. One such plant may be an
 Amaranthus (Amaranthus tricolor), recorded as an indigenous food plant by Quiros on his
-visits to Santa Cruz and Espiritu Santo at the beginning of the seventeenth century (Markham
-1904:50). Another pre-European plant in New Guinea whose leaves are eaten is a nasturtium
+visits to Santa Cruz and Espiritu Santo at the beginning of the seventeenth century 
+(Markham 1904:50). Another pre-European plant in New Guinea whose leaves are eaten is a nasturtium
 species found in the lowlands (Nasturtium hybospermum). It is a widespread practice today
 for bunches of these plants, with seed pods, to be hung up to dry until such time as a new
 garden is prepared. The seeds are then broadcast into the soil surface. Other contenders
 may be legumes, such as the winged bean (Psophocarpus tetragonolobus)[8] and Lablab
 purpureus, both of which may date from pre-contact times (pers.comm. Michael Bourke).
-The association of these or similar plants with pac speakers will, however, depend on our
+The association of these or similar plants with POc speakers will, however, depend on our
 reconstruction of appropriate terms.
 
 [8]   The Sengseng grow these beans, but do not sow the seeds (Ann Chowning, pers.comm.).
@@ -6557,19 +6549,19 @@ PWOc *pusuk '(plant) grow'
 <
 PMP *tu(m)buq 'grow, thrive; swell' (Blust 1986)
 POc *tubuq 'grow, swell'
-    NNG: Numbami              tubu                'grow, fatten'
-    NNG: Roinji               tubu                '(plant) grow'
-  NNG: Kove              tuvu-tuvu         'grow' (_tuvu_ 'physique'; _pa-tuvu_ 'grow a child')
- PT:     Motu            tubu              'grow; fennent; swell '
- PT:     Bwaidoga        tubuga            'grow large, swell'
- MM:     Ramoaaina       tubu              'grow; principally of men and animals not trees'
- MM:     Nakanai         tubu              'be fat; grow'
- MM:     Teop            subu              'swell'
- SES:    Bugotu          tubu              'swell'
- SES:    Sa'a            upu               'swell'
- SES:    Arosi           ubu               'swell'
- Fij:    Wayan           tubu              'grow'
- Fij:    Bauan           tubu              'grow, increase, spring up, of plants'
+ NNG: Numbami         tubu              'grow, fatten'
+ NNG: Roinji          tubu              '(plant) grow'
+ NNG: Kove            tuvu-tuvu         'grow' (_tuvu_ 'physique'; _pa-tuvu_ 'grow a child')
+ PT:  Motu            tubu              'grow; fennent; swell '
+ PT:  Bwaidoga        tubuga            'grow large, swell'
+ MM:  Ramoaaina       tubu              'grow; principally of men and animals not trees'
+ MM:  Nakanai         tubu              'be fat; grow'
+ MM:  Teop            subu              'swell'
+ SES: Bugotu          tubu              'swell'
+ SES: Sa'a            upu               'swell'
+ SES: Arosi           ubu               'swell'
+ Fij: Wayan           tubu              'grow'
+ Fij: Bauan           tubu              'grow, increase, spring up, of plants'
 >
 
                                                                    Horticultural practices     135
