@@ -6569,8 +6569,8 @@ POc *tubuq 'grow, swell'
 
 5.9.3 Ripen
 
-   Chapter 6, §3.9 contains two reconstructions, POc *ma-osak 'ready to be eaten (because
-ripe or cooked)" and POc *[ma-Jnoka 'be in good condition for eating; nicely ripe, well-cooked,
+   Chapter 6, §3.9 contains two reconstructions, POc _*ma-osak_ 'ready to be eaten (because
+ripe or cooked)" and POc _*[ma-]noka_ 'be in good condition for eating; nicely ripe, well-cooked,
 soft'.
 
 
@@ -6612,7 +6612,7 @@ PEOc *palo 'wither, wilt' (ACD)
 5.10 Gathering, harvesting
 
    We have not identified a reconstruction specifically for the digging up of tubers, either
-with or without the use of a digging stick, although *kaliJ*keli (§5 ,4) is apparently a general
+with or without the use of a digging stick, although _*kali_/_*keli_ (§5 ,4) is apparently a general
 term whose meaning includes this activity. It is possible that terms included under the heading
 'weeding' were sometimes used to refer to pulling any plant out of the soil. Ann Chowning
 (pers.comm.) points out that, density of soil permitting, taro is often harvested by being
@@ -6636,12 +6636,11 @@ POc *kawi(t), *kawit-i- (V) 'hook, catch hold of; fruit crook' (French-Wright 19
   Fij:    Wayan          kauti             'hook s.t., catch s.t. on a hook'
 >
 
-For the implement, Polynesian languages use terms derived from PPn *lohu 'fruit-plucking
+For the implement, Polynesian languages use terms derived from PPn _*lohu_ 'fruit-plucking
 pole, hook something with a pole' (Biggs 1993).
 
-   The set above bears a formal and semantic resemblance to PMP/POc *kawil 'hook, fish
+   The set above bears a formal and semantic resemblance to PMP/POc _*kawil_ 'hook, fish
 hook' (Ch. 8, §4), but it is unclear what historical connection (if any) exists between them.
-
 
    The following sets, all relating to plucking by hand, have formal similarities, and it is
 sometimes hard to know which cognate set a given reflex belongs to. For discussion of the
@@ -6666,28 +6665,28 @@ POc *pupu(t) 'pick (fruit +), pluck (feathers +)'
 
 <
 POc *sapu(t), *saput-i- 'pull out, pull up, pluck (fruit, nuts)'
-  PT:   Molima             sabu               'pull up taro or grass'
-  SES: Arosi               tahu              'take by force'
-  NCV : Raga               havusi            'pluck, as a fowl'
-  NCV : Tamambo            sabuti            'pluck, pull out (plant, tooth +)'
-  Fij:  Bauan              ðavu              'pull up, eradicate'
-  Fij:  Bauan              ðavut(a)          (VT) 'pull up, eradicate'
-  Fij :   Wayan            ðavu              '(tooth, root +) be pulled out, extracted, removed from a fixed position'
-  Fij :   Wayan            ðavuti-           'pull s.t. out, remove s.t.'
-  Pn:     Tongan           hafu(le)          'strip the dry leaves from sugarcane, pandanus, banana and plantain plants'
+  PT:  Molima           sabu              'pull up taro or grass'
+  SES: Arosi            tahu              'take by force'
+  NCV: Raga             havusi            'pluck, as a fowl'
+  NCV: Tamambo          sabuti            'pluck, pull out (plant, tooth +)'
+  Fij: Bauan            ðavu              'pull up, eradicate'
+  Fij: Bauan            ðavut(a)          (VT) 'pull up, eradicate'
+  Fij: Wayan            ðavu              '(tooth, root +) be pulled out, extracted, removed from a fixed position'
+  Fij: Wayan            ðavuti-           'pull s.t. out, remove s.t.'
+  Pn:  Tongan           hafu(le)          'strip the dry leaves from sugarcane, pandanus, banana and plantain plants'
   cf. also
-  MM: Roviana             zapu               'pull coconuts from a tree'
+  MM:  Roviana          zapu              'pull coconuts from a tree'
 >
 
 <
 POc *tapu(t), *taput-i- 'strip (crops), pull off' (French-Wright 1983 : *tapu)
-  NNG: Lukep               tau(rai)          'pick' (_-rai_ < POc _*-(r,R)-aki_)
-  PT:  Bwaidoga            tavu(na)          'harvest bananas'
-  PT:  Motu                tapusi            'pull strongly, with jerk of a string, and possibly break it'
-  MM: Nakanai             tavu               'grasp, capture'
-  MM: Simbo               tapu               'pull off, as husk off canarium nut'
-  SES: Arosi              ahu                '(coconut +) fall; strip completely (garden of food); gather fruit'
-  Fij:    Bauan           tavu               'knock down and beat'
+  NNG: Lukep           tau(rai)          'pick' (_-rai_ < POc _*-(r,R)-aki_)
+  PT:  Bwaidoga        tavu(na)          'harvest bananas'
+  PT:  Motu            tapusi            'pull strongly, with jerk of a string, and possibly break it'
+  MM:  Nakanai         tavu              'grasp, capture'
+  MM:  Simbo           tapu              'pull off, as husk off canarium nut'
+  SES: Arosi           ahu               '(coconut +) fall; strip completely (garden of food); gather fruit'
+  Fij: Bauan           tavu              'knock down and beat'
 >
 
 <
@@ -6723,27 +6722,27 @@ PCP *paki 'pluck, break off (leaves) with the hand'
 
 <
 POc *paRi 'cut or lop off branches' (ACD)
- NNG: Mangseng             var               'cut, clip'
- MM: Nakanai               vali              'cut, as wood or a leaf from a tree; remove all the limbs from a tree'
-  SES:   'Are'are         hari               'lop off branches, cut off a bunch of bananas, betel nuts'
-  SES:   Sa'a             hali               'lop off branches'
-  SES:   Arosi            hari               'tear, tear off, pull off a cluster of fruit'
-  Fij:   Rotuman          fai                'cut or chop down (tree or branch)'
+ NNG: Mangseng         var               'cut, clip'
+ MM:  Nakanai          vali              'cut, as wood or a leaf from a tree; remove all the limbs from a tree'
+ SES: 'Are'are         hari              'lop off branches, cut off a bunch of bananas, betel nuts'
+ SES: Sa'a             hali              'lop off branches'
+ SES: Arosi            hari              'tear, tear off, pull off a cluster of fruit'
+ Fij: Rotuman          fai               'cut or chop down (tree or branch)'
 >
 
 5.11 Storage: yam storehouse
 
      The yam is the only tropical tuber which is easily preserved, provided it is placed in an
-airy, dry, dark and cool spot. It was a community'S safeguard at times when the regular
+airy, dry, dark and cool spot. It was a community's safeguard at times when the regular
 supply of foodstuffs was low. From New Guinea to New Caledonia, in areas where yam is
-the staple food, special huts are found in which they are preserved (Barrau 1955:58). Malinowski
-(1935 :218) reports that in the Trobriands such structures (bwema) were given a more prominent
+the staple food, special huts are found in which they are preserved (Barrau 1955:58).
+Malinowski (1935 :218) reports that in the Trobriands such structures (_bwema_) were given a more prominent
 position in the village than the family dwellings, and were more meticulously decorated and
-maintained. POc *pale 'open-sided building', has been reconstructed (Ch. 3, §3.3), reflexes
-of which in some instances refer to yam storehouses (NNG: Lukep (Pono) para 'yam house' ;
-SES: Arosi (E. dialect) hare 'shed for yams'). No term has been reconstructed that refers
+maintained. POc _*pale_ 'open-sided building', has been reconstructed (Ch. 3, §3.3), reflexes
+of which in some instances refer to yam storehouses (NNG: Lukep (Pono) _para_ 'yam house';
+SES: Arosi (E. dialect) _hare_ 'shed for yams'). No term has been reconstructed that refers
 specifically to a hut for storing yams. In Mapos Buang (South Huon Gulf), yam houses are
-calledjok. In Nengone, Loyalty Islands, methuma is the term for a harvest hut for yams.
+called _jok_. In Nengone, Loyalty Islands, _methuma_ is the term for a harvest hut for yams.
 
 
 
@@ -6752,20 +6751,20 @@ calledjok. In Nengone, Loyalty Islands, methuma is the term for a harvest hut fo
    Water control has two opposing functions: (1) to aid drainage in wet areas, and (2) to
 carry water to drier areas. The New Guinea area apparently concentrated its developments
 towards the former, particularly in yam gardens, through such means as mounding and
-ditching (Yen 1973 : 83). In areas with lower or less reliable rainfall, it has long been the
-practice to irrigate-particularly the water-loving taro crops, whose yield can be considerably
+ditching (Yen 1973: 83). In areas with lower or less reliable rainfall, it has long been the
+practice to irrigate - particularly the water-loving taro crops, whose yield can be considerably
 increased. For various reasons, including the fact that a more restricted environment limits
 crop choice, irrigated taro fields are more a feature of eastern Oceanic than of the west.
-Kirch and Lepofsky (1993 : 185) have written:
+Kirch and Lepofsky (1993: 185) have written:
 
 |   As archaeological and ethnobotanical data on the distribution of Oceanic irrigation technology
 |   accumulated, it became evident that the widespread distribution of both pondfield and raised-bed
-|   agricultural technologies in Polynesia was not matched by an equall y extensive distribution
+|   agricultural technologies in Polynesia was not matched by an equally extensive distribution
 |   in Melanesia. . . Although there are 'pockets' of highly intensive taro pondfield irrigation in
-|      Melanesia (notably i n the New Georgia group o f the western Solomons, o n Anejom in
-|      Vanuatu (Spriggs 1981), and in New Caledonia (Barrau 1956)), on most of the intervening
-|      islands (including the large island of New Guinea [but presumably excluding the Western
-|      Highlands systems of the Papuans mentioned below (m.o.)]) irrigation is absent.
+|   Melanesia (notably in the New Georgia group of the western Solomons, on Anejom in
+|   Vanuatu (Spriggs 1981), and in New Caledonia (Barrau 1956)), on most of the intervening
+|   islands (including the large island of New Guinea [but presumably excluding the Western
+|   Highlands systems of the Papuans mentioned below (m.o.)]) irrigation is absent.
 
                                                                            Horticultural practices      139
 
@@ -6774,11 +6773,11 @@ Kirch and Lepofsky (1993 : 185) have written:
 what might be called more sophisticated irrigation techniques, or whether the knowledge was
 acquired later. Proto Oceanic speakers were generally coastal and island dwellers, far removed
 geographically from Papuan-speaking peoples of the New Guinea Highlands who may have
-been associated with ditch systems in the growing of taro as long ago as 6000 BP (Golson
-1990, Swadling & Muke 1998). More feasible is the possibility that POc knowledge was
+been associated with ditch systems in the growing of taro as long ago as 6000 BP (Golson 1990, 
+Swadling & Muke 1998). More feasible is the possibility that POc knowledge was
 passed down from Southeast Asian forebears. Although Southeast Asian paddies were used
 predominantly for rice growing, taro is reportedly grown in similar fashion in parts of the
-northern Philippines, south-west Sulawesi and Java (Spriggs 1981 : 173).
+northern Philippines, south-west Sulawesi and Java (Spriggs 1981: 173).
 
   Kirch and Lepofsky (1993: 196) considered both linguistic and archaeological evidence
 and concluded that:
@@ -6791,7 +6790,7 @@ and concluded that:
 |      and Polynesia.
 
     Working from our own linguistic sources, which include possibly more data from Western
-Oceanic languages than were available to Kirch and Lepofsky, we have noLbeen able to add
+Oceanic languages than were available to Kirch and Lepofsky, we have not been able to add
 a single cognate set to those already listed by the latter.[9] No reconstructions have been
 possible for such concepts as ditch or water channel or irrigated garden. A single reconstruction
 is possible to PCP level.
@@ -6806,28 +6805,27 @@ PCP *vusi 'taro swamp; taro bed' (from French-Wright)
     Pn:     E. Uvean           fuhi                 'raised bed'
 >
 
-In vol. 1, p.139 the form PCP *pusi was erroneously given for *vusi (POc *p split into PCP *p and *v).
+In vol. 1, p.139 the form PCP _*pusi_ was erroneously given for _*vusi_ (POc _*p_ split into PCP _*p_ and _*v_).
 
     A second reconstruction is open to conjecture. Both Spriggs and Kirch and Lepofsky drew
-attention to the Hawaiian and Rapa (Austral Islands) terms for a pondfield, loʔi and roki. We
-have a tentative reconstruction POc *logi meaning something like 'partition, partitioned area'
-with a reflex from H ote in the Huon Gulf (NNG), lok '(garden) fence; wall of house' (Ch. 3,
-§3 .S).
+attention to the Hawaiian and Rapa (Austral Islands) terms for a pondfield, _loʔi_ and _roki_. We
+have a tentative reconstruction POc _*logi_ meaning something like 'partition, partitioned area'
+with a reflex from Hote in the Huon Gulf (NNG), _lok_ '(garden) fence; wall of house' (Ch. 3, §3 .S).
 
 <
 POc *logi 'partition, partitioned area'
-    NNG: Hote                  lok                  '(garden) fence; wall of house'
-    Mic: Kiribatese            roki                 'screen (of mats +); curtain; bathroom; closed with screen' (possibly borrowed from Polynesian)
-    Fij:    Rotuman            loki                 'the end of the interior of a house'
-  Fij:    Bauan          loqi              'inner or private part of a house, used as a bedroom and for keeping valuables'
-  Pn:     Tongan         loki              'inner room'
-  Pn:     Samoan         loʔi              'inner room'
-  Pn:     Rapa           roki              'irrigated terrace'
-  Pn:     Tahitian       roʔi              'bed'
-  Pn:     Hawaiian       loʔi              'irrigated terrace for taro'
-  Pn:     Tuamotuan      roki              'wall of a temple; bed, couch'
+  NNG: Hote           lok        '(garden) fence; wall of house'
+  Mic: Kiribatese     roki       'screen (of mats +); curtain; bathroom; closed with screen' (possibly borrowed from Polynesian)
+  Fij: Rotuman        loki       'the end of the interior of a house'
+  Fij: Bauan          loqi       'inner or private part of a house, used as a bedroom and for keeping valuables'
+  Pn:  Tongan         loki       'inner room'
+  Pn:  Samoan         loʔi       'inner room'
+  Pn:  Rapa           roki       'irrigated terrace'
+  Pn:  Tahitian       roʔi       'bed'
+  Pn:  Hawaiian       loʔi       'irrigated terrace for taro'
+  Pn:  Tuamotuan      roki       'wall of a temple; bed, couch'
   cf. also:
-  SES: Gela              voki              'room, partition in a house'
+  SES: Gela           voki       'room, partition in a house'
 >
 
 The Polynesian reflexes, apart from the Rapa and Hawaiian terms, have the sense of 'inner
