@@ -9243,7 +9243,7 @@ POc *ijuŋ 'projecting headboard of prow, often with ornately carved figurehead'
   Pn:  Tahitian    |ihu, ihu (vaʔa)|  'projecting headboard on prow'
   Pn:  Hawaiian    ihu                'prow'
   Pn:  Hawaiian    |(laʔau) ihu|      'end-piece at head' (vs Laʔau hope 'end-piece at stern')
-c *ŋuju 'carved prow'
+PWOc *ŋuju 'carved prow'
   PT:  Iduna       mudu               'carved prow'
   MM:  Roviana     ŋuzu-ŋuzu          'figurehead of a tomoko war canoe'
 >
