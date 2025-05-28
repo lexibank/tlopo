@@ -3245,7 +3245,7 @@ cf. also:
 <td>Bauan</td>
 <td>baba</td>
 <td>
-'<span>side of s.t., cheek bone; side of a canoe</span>'; '<span>side planks of canoe</span>'</td>
+'<span>large fish, like a snake, with a large mouth</span>'; '<span>side of s.t., cheek bone; side of a canoe</span>'; '<span>side planks of canoe</span>'</td>
 </tr>
 <tr>
 <td>SES</td>

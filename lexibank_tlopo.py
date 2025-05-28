@@ -298,7 +298,9 @@ class Dataset(BaseDataset):
                 ))
 
         for lg in langs.values():
-            args.writer.add_language(ID=lg['ID'], Name=lg['Name'], Is_Proto=False, Group=lg['Group'])
+            args.writer.add_language(
+                ID=lg['ID'], Name=lg['Name'], Is_Proto=False, Group=lg['Group'],
+                Latitude=lg['Latitude'], Longitude=lg['Longitude'])
 
         # map (lang, form) pairs to associated glosses (as dict mapping gloss to gloss object with all properties.).
         words = {}

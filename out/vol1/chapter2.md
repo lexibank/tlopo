@@ -109,7 +109,7 @@ POc Grace etc.                                      0             e         a   
 POc Ross                                            0             e         a         u
 ```
 
-d)      The labio-velars &ast;pw, &ast;bw and &ast;mw entered the language. Most of the items containing a labio-velar lack non-Oceanic cognates, and some, at least, must have been borrowed into POc from neighbouring Papuan languages. For example, it can be argued that &ast;mwapo(q) 'taro' was borrowed by POc speakers as they acquired more sophisticated taro-growing techniques from Papuan speakers ([Ross 1996d](../references.md#source-Ross1996d)). A few of these items were inherited into POc, and the labio-velar was the reflex of a labial occurring next to a round vowel. However, it is not clear in these items that the labio-velar actually occurred in POc ([[Blust 1981](../references.md#source-Blust1981b)a](Source#cldf:Blust1981a)). Thus a number of Oceanic languages reflect &ast;tamʷata 'man, husband', derived from &ast;tau 'body, person' + &ast;mataq 'unripe, immature, young', but we cannot be sure whether this or &ast;taumata(q) was the POc form. e)      PMP &ast;h was lost in POc. f)      PMP &ast;e, phonetically [;)], became POc &ast;0, and the PMP word-final diphthongs &ast;_uy(_),[^3] &ast;-aw and &ast;-ay were simplified to POc &ast;-i, &ast;-0 and &ast;-e respectively, the first two thereby merging with plain vowels.
+d)      The labio-velars &ast;pw, &ast;bw and &ast;mw entered the language. Most of the items containing a labio-velar lack non-Oceanic cognates, and some, at least, must have been borrowed into POc from neighbouring Papuan languages. For example, it can be argued that &ast;mwapo(q) 'taro' was borrowed by POc speakers as they acquired more sophisticated taro-growing techniques from Papuan speakers ([Ross 1996d](../references.md#source-Ross1996d)). A few of these items were inherited into POc, and the labio-velar was the reflex of a labial occurring next to a round vowel. However, it is not clear in these items that the labio-velar actually occurred in POc ([Blust 1981a](../references.md#source-Blust1981a)). Thus a number of Oceanic languages reflect &ast;tamʷata 'man, husband', derived from &ast;tau 'body, person' + &ast;mataq 'unripe, immature, young', but we cannot be sure whether this or &ast;taumata(q) was the POc form. e)      PMP &ast;h was lost in POc. f)      PMP &ast;e, phonetically [;)], became POc &ast;0, and the PMP word-final diphthongs &ast;_uy(_),[^3] &ast;-aw and &ast;-ay were simplified to POc &ast;-i, &ast;-0 and &ast;-e respectively, the first two thereby merging with plain vowels.
 
 The combined effect of (a) and (c) is that each of the PMP pairs &ast;p, &ast;b and &ast;k, &ast;g first merged and then split. As a result, for example, PMP &ast;p became either POc &ast;p or POc &ast;b, and the same was true of PMP &ast;b, giving the kind of crossover seen in the initial consonants of these examples:
 
@@ -197,7 +197,7 @@ U verbs and U-statives differ from each other in two respects. First, unlike U v
 
 ```
 (3) E loa loa a        'lolii yai.
-s:3 S be.black ART dog this                  'This dog is black. '
+s:3 S be.black ART dog this                  'This dog is black.'
 (4) E gagi a        dovu.
 S:3 s crush ART sugarcane                     'The sugarcane is crushed.'
 ```
@@ -348,7 +348,7 @@ One of these is illustrated in (9), where intransitive forms descended from PAn 
 
 ```
 (12) PAn root &ast;-buC 'weed, pull, pluck out' ([Blust 1988](../references.md#source-Blust1988) :86-87)
-pac      &ast;pupu(t), &ast;puti-                        'pick (fruit +), pluck (feathers +) '
+pac      &ast;pupu(t), &ast;puti-                        'pick (fruit +), pluck (feathers +)'
 pac      &ast;(s, j)apu(t), &ast;(s, j)aput-i-           'pull out, pull up, pluck (fruit, nuts)'
 pac      &ast;tapu(t), &ast;taput-i                      'strip (crops), pull off'
 ```
@@ -356,21 +356,21 @@ pac      &ast;tapu(t), &ast;taput-i                      'strip (crops), pull of
 The pair &ast;pupu(t), &ast;puti- reflects PAn &ast;buC-buC in accordance with the paradigm in (9), whilst the intransitive roots &ast;(s, j)apu(t) and &ast;taput apparently reflect PAn fonns &ast;&ast;sa-buC and &ast;&ast;ta-buC.[^20] 0ther such sets are:
 
 ```
-(13) PAn root &ast;-pak 'break, crack, split' ([Blust 1988](../references.md#source-Blust1988) : 135-136)
+(13) PAn root &ast;-pak 'break, crack, split' ([Blust 1988](../references.md#source-Blust1988): 135-136)
 POc &ast;sapaki 'pluck off, break off (leaves) with the hand' ([Ch.9, §6.1](chapter9.md#s-6-1))
 POc &ast;paki 'pluck, break off (leaves) with the hand' ([Ch.9, §6.1](chapter9.md#s-6-1))
 POc &ast;lopa(k) 'break' ([Ch.9, §6.2](chapter9.md#s-6-2))
 ```
 
 ```
-(14) PAn root &ast;-Tuk 'knock, pound, beat ' ([Blust 1988](../references.md#source-Blust1988) : 160- 161) ([Ch.9, §5.1](chapter9.md#s-5-1))
+(14) PAn root &ast;-Tuk 'knock, pound, beat ' ([Blust 1988](../references.md#source-Blust1988): 160- 161) ([Ch.9, §5.1](chapter9.md#s-5-1))
 POc &ast;tutuk, &ast;tuki- 'pound, mash by pounding, hammer, crack by hammering'
 POc &ast;putu(k) 'repeatedly knock, pound, beat'
 POc &ast;butu(k), &ast;butuk-i- 'repeatedly knock, pound, beat'
 ```
 
 ```
-(15) PAn root &ast;-Tak 'sound of cracking, splitting, knocking' ([Blust 1988](../references.md#source-Blust1988) : 157- 158)
+(15) PAn root &ast;-Tak 'sound of cracking, splitting, knocking' ([Blust 1988](../references.md#source-Blust1988): 157- 158)
 POc &ast;potak, &ast;potak-i- 'crack open, split open, make incision' ([Ch.9, §3.8](chapter9.md#s-3-8))
 POc &ast;botak, &ast;botak-i- 'crack open, split open, make incision' ([Ch.9, §3.8](chapter9.md#s-3-8))
 POc &ast;pita(k), &ast;pitak-i- 'break, split' ([Ch.9, §5.2](chapter9.md#s-5-2))
@@ -397,7 +397,7 @@ Location focus                              .J-an              dn>.J-an        .
 Instrument or beneficiary focus             i-.J               i-dm.J          .J-tin
 ```
 
-The symbol .J represents the verb root and ( … > an infix after the root-initial consonant. PMP -N- represents an underlying velar nasal which combined with a root-initial voiceless obstruent to give the homorganic nasal, and with a root-initial voiced obstruent to give either the homorganic nasal or a nasal + obstruent sequence:
+The symbol .J represents the verb root and (… > an infix after the root-initial consonant. PMP -N- represents an underlying velar nasal which combined with a root-initial voiceless obstruent to give the homorganic nasal, and with a root-initial voiced obstruent to give either the homorganic nasal or a nasal + obstruent sequence:
 
 ```
 (17) &ast;paN- + &ast;takaw 'steal'          ->      &ast;panakaw 'steal (actor focus)'
@@ -461,7 +461,7 @@ A third set of morphological fossils also seems to date from the pre-POc period 
 &ast;poka 'to divide, cut up'                        Wayan boka(ti-) 'split or cut s.t. in half'
 Carolinian pax 'be cut, split'
 &ast;potak, &ast;potak-i- 'crack open'                   Motu bota(i) 'beat, thrash'
-Wayan bote(ki) 'split or crack s.t. open '
+Wayan bote(ki) 'split or crack s.t. open'
 &ast;(p,pʷ)i(p,pʷ)i(t) 'press, wring, squeeze s.t.'   Gumawana bibi 'squeeze (boil +)'
 Arosi bibi 'crush, squeeze, crowd'
 &ast;kili(s), &ast;kilis-i- 'twist, bore, rotate'      Bauan gili- 'twist or rub in the hands'
@@ -530,7 +530,7 @@ The corresponding POc nominalisations are tabulated in (24). Although the verbal
 (24) POc              nominalisation
 imperfective perfective              &ast;kani 'eat'
 Patient               (."j-on)           <im."j           &ast;kano'1 'thing to be eaten, food'
-&ast;k<imani 'thing eaten '
+&ast;k<imani 'thing eaten'
 Location              ."j-an             dm."j-an         &ast;kan-an, &ast;kana'1 'place where one eats'
 &ast;k<iman-an 'place where one has eaten'
 Instrument            i-."j                               &ast;i-kani 'thing one eats with'
@@ -555,7 +555,7 @@ Forms reflecting &ast;V-aŋa and &ast;V-ŋa are well scattered, for example, Poe
 
 There is a wealth of languages in which final consonants are lost, so that both &ast;V-an and V &ast; -aŋ are regularly reflected as -a, leaving us with no way of knowing which form was ancestral (e.g. Loniu he-ya 'washing' from he 'wash'; Malo dule-a 'clearing bush' from dule 'clear bush'). The Bali dialect of Bali-Vitu retains final consonants with a following echo vowel, but neutralises POc &ast;-n and &ast;-ŋ as -ŋ-, so that the ancestral consonant is again ambiguous (e.g. moŋe-aŋa 'sleeping' from moŋe 'sleep').
 
-In the light of these complications-and because we do not understand them well-we reconstruct each nominalisation as the data require, with &ast;V-an, &ast;V -aŋ, &ast;V-ana or &ast;V -aŋa (or on occasion &ast;V-ŋ or &ast;V-ŋa), but recognising that this is probably not an accurate rendering of the POc form. As I noted above, however, we find cognate sets which allow the reconstruction of, say, both &ast;mate-an (or &ast;mate-aŋ or whatever) and &ast;mdmate 'death'. These pairs occur almost certainly because the reflex of one of &ast;V-an (etc.) or &ast;dm … / has extended its productivity at the expense of the other in various languages, creating the appearance that POc had both forms. In such cases we reconstruct, e.g., POc &ast;mate ('die') + NOMINALISER 'death', as we cannot tell which form was in fact lexicalised in POco
+In the light of these complications-and because we do not understand them well-we reconstruct each nominalisation as the data require, with &ast;V-an, &ast;V -aŋ, &ast;V-ana or &ast;V -aŋa (or on occasion &ast;V-ŋ or &ast;V-ŋa), but recognising that this is probably not an accurate rendering of the POc form. As I noted above, however, we find cognate sets which allow the reconstruction of, say, both &ast;mate-an (or &ast;mate-aŋ or whatever) and &ast;mdmate 'death'. These pairs occur almost certainly because the reflex of one of &ast;V-an (etc.) or &ast;dm…/ has extended its productivity at the expense of the other in various languages, creating the appearance that POc had both forms. In such cases we reconstruct, e.g., POc &ast;mate ('die') + NOMINALISER 'death', as we cannot tell which form was in fact lexicalised in POco
 
 
 <a id="s-3-3"></a>
@@ -570,7 +570,7 @@ POc had no separate adjective class. Instead, it had a large class of adjectival
 ```
 a.     A           vaga beini      ti                 zayata .
 ARTICLE canoe that PERFECTlVE:3 bad
-'That canoe is broken. '
+'That canoe is broken.'
 ```
 
 ```

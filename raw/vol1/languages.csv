@@ -115,7 +115,7 @@ lou,Lou,Adm,Admiralties [Adm] | Admiralties proper | Eastern Admiralties | South
 lenkau,Lenkau,Adm,Admiralties [Adm] | Admiralties proper | Eastern Admiralties | South-East Admiralties,,,lenk1247,-2.33,147.74
 nauna,Nauna,Adm,Admiralties [Adm] | Admiralties proper | Eastern Admiralties | South-East Admiralties,,,naun1237,-2.21213,148.201
 penchal,Penchal,Adm,Admiralties [Adm] | Admiralties proper | Eastern Admiralties | South-East Admiralties,,,penc1239,-2.29891,147.81
-bongo,Bongo,SJ,Western Oceanic | Sarmi/Jayapura [SJ] | Sarmi,,,bong1285,7.4145,27.9918
+bongo,Bongo,SJ,Western Oceanic | Sarmi/Jayapura [SJ] | Sarmi,,,bong1287,-2.28,139.58
 sobei,Sobei,SJ,Western Oceanic | Sarmi/Jayapura [SJ] | Sarmi,,,sobe1238,-1.86998,138.75
 tarpia,Tarpia,SJ,Western Oceanic | Sarmi/Jayapura [SJ] | Sarmi,,,tarp1240,-2.322279,140.115497
 kayupulau,Kayupulau,SJ,Western Oceanic | Sarmi/Jayapura [SJ] | Jayapura,,,kayu1243,-2.54,140.63
@@ -129,7 +129,7 @@ medebur,Medebur,NNG,Western Oceanic | North New Guinea [NNG] | Schouten | Manami
 wogeo,Wogeo,NNG,Western Oceanic | North New Guinea [NNG] | Schouten | ManamiKairiru,,,woge1237,-3.20238,144.089
 sepa,Sepa,NNG,Western Oceanic | North New Guinea [NNG] | Schouten | ManamiKairiru,,,sepa1241,-4.27,144.97
 terebu,Terebu,NNG,Western Oceanic | North New Guinea [NNG] | Schouten | ManamiKairiru,,,tere1276,-3.69,143.84
-ali,Ali,NNG,Western Oceanic | North New Guinea [NNG] | Schouten | Siau,,,alii1240,4.60014,18.0352
+ali,Ali,NNG,Western Oceanic | North New Guinea [NNG] | Schouten | Siau,,,alii1241,-3.29,142.66
 sissano,Sissano,NNG,Western Oceanic | North New Guinea [NNG] | Schouten | Siau,,,siss1243,-3.0197600000000002,142.04899999999998
 sissanoarop,Sissano-Arop,NNG,Western Oceanic | North New Guinea [NNG] | Schouten | Siau,Sissano (Arop),,arop1242,-3.07,142.12
 tumleo,Tumleo,NNG,Western Oceanic | North New Guinea [NNG] | Schouten | Siau,,,tuml1238,-3.14955,142.346
@@ -281,7 +281,7 @@ vitu,Vitu,MM,Western Oceanic | Meso-Melanesian [MM] | Bali- Vitu,,,mudu1242,-4.6
 balivitu,Bali-Vitu,MM,Western Oceanic | Meso-Melanesian [MM] | Bali- Vitu,,,bali1280,-4.879164320999905,149.18043053500003
 bola,Bola,MM,Western Oceanic | Meso-Melanesian [MM] | Willaumez,,,bola1250,-5.55792,150.095
 bolaharua,Bola (Harua),MM,Western Oceanic | Meso-Melanesian [MM] | Willaumez,Harua,= dilect of Bola,haru1243,-5.55792,150.095
-bulu,Bulu,MM,Western Oceanic | Meso-Melanesian [MM] | Willaumez,,,bulu1255,27.4488607,92.4299111
+bulu,Bulu,MM,Western Oceanic | Meso-Melanesian [MM] | Willaumez,,,bulu1253,-5.06,150.10
 meramera,Meramera,MM,Western Oceanic | Meso-Melanesian [MM] | Willaumez,,,mera1242,-4.97468,151.52800000000002
 nakanai,Nakanai,MM,Western Oceanic | Meso-Melanesian [MM] | Willaumez,Lakalai,= Lakalai,naka1262,-5.59931,150.88800000000003
 tomoip,Tomoip,MM,Western Oceanic | Meso-Melanesian [MM] | New Ireland/Northwest Solomonic,,,tomo1244,-5.31,151.83

@@ -157,7 +157,7 @@ The generic term for any kind of wearing down by friction was  POc &ast;asa(q) &
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>(i)yaða</i></td>
 <td>
-'<span>grater, grindstone</span>' (<span>i- &lt; POc *i- INS</span>)</td>
+'<span>grater, grindstone</span>' (<span><em>i-</em> &lt; POc <em>*i-</em> INS</span>)</td>
 </tr>
 <tr>
 <td>Pn</td><td>Maori</td><td><i>aha-aha</i></td>
@@ -242,7 +242,7 @@ The generic term for any kind of wearing down by friction was  POc &ast;asa(q) &
 <tr>
 <td>NNG</td><td>Mangseng</td><td><i>kir(oŋa)</i></td>
 <td>
-(N) '<span>file</span>' (<span>-oŋa NOM</span>)</td>
+(N) '<span>file</span>' (<span><em>-oŋa</em> NOM</span>)</td>
 </tr>
 <tr>
 <td>SES</td><td>Gela</td><td><i>gi-giri</i></td>
@@ -1199,7 +1199,7 @@ Rubbing in Oceanic languages is roughly divisible into two semantic categories: 
 <tr>
 <td>SES</td><td>Sa'a</td><td><i>usu</i></td>
 <td>
-'<span>rub, scrape, grate</span>' (<span>usu ʔei 'a firestick'</span>)</td>
+'<span>rub, scrape, grate</span>' (<span><em>usu ʔei</em> 'a firestick'</span>)</td>
 </tr>
 <tr>
 <td>SES</td><td>Lau</td><td><i>usu, usufi-</i></td>
@@ -4146,7 +4146,7 @@ The contrast between PEOc &ast;sapi and POc &ast;sapʷi 'carve into shape, trim 
 
 
 
-The item above shows a sporadic change from POc &ast;a to PEOc &ast;e. This resembles the change found in some reflexes of POc &ast;kali, &ast;keli 'dig' ([Ch.5, §5.4](chapter5.md#s-5-4)), but in the latter case forms with both vowels must be reconstructed for POco
+The item above shows a sporadic change from POc _&ast;a_ to PEOc _&ast;e_. This resembles the change found in some reflexes of POc _&ast;kali_, _&ast;keli_ 'dig' ([Ch.5, §5.4](chapter5.md#s-5-4)), but in the latter case forms with both vowels must be reconstructed for POco
 
 <table>
 <tr>
@@ -4211,7 +4211,7 @@ The item above shows a sporadic change from POc &ast;a to PEOc &ast;e. This rese
 ## 3.8. Split into two or more sections
 
 
-There are a number of verbs of splitting, apparently distinguished by the exact nature of the action, which in tum is often dependent on the texture of the object being split. POc &ast;pt')olaql&ast;pʷalaq seems to have been the generic term for splitting or sometimes tearing something into two. It was evidently the verb used of splitting a log for firewood. POc &ast;potak, &ast;potak-i- was the verb used of splitting something, e.g. a coconut, open. POc &ast;kakas, &ast;[ka]kas-i- and &ast;pt')asi were perhaps more generic terms for 'split', but it is difficult to be sure of this from the available reflexes. Its Longgu and Bauan reflexes suggest that POc &ast;pisak may have referred to splitting wood finely. POc &ast;wakaq has few reflexes, but they refer to splitting or cutting up items less hard than wood. Reflexes of POc &ast;Risi(q) ([§3.7](#s-3-7)) sometimes also mean 'split', but this was not its primary meaning.
+There are a number of verbs of splitting, apparently distinguished by the exact nature of the action, which in tum is often dependent on the texture of the object being split. POc _&ast;(p,pʷ)olaq_/_&ast;pʷalaq_ seems to have been the generic term for splitting or sometimes tearing something into two. It was evidently the verb used of splitting a log for firewood. POc _&ast;potak_, _&ast;potak-i-_ was the verb used of splitting something, e.g. a coconut, open. POc _&ast;kakas_, _&ast;[ka]kas-i-_ and _&ast;(p,pʷ)asi_ were perhaps more generic terms for 'split', but it is difficult to be sure of this from the available reflexes. Its Longgu and Bauan reflexes suggest that POc _&ast;pisak_ may have referred to splitting wood finely. POc _&ast;wakaq_ has few reflexes, but they refer to splitting or cutting up items less hard than wood. Reflexes of POc _&ast;Risi(q)_ ([§3.7](#s-3-7)) sometimes also mean 'split', but this was not its primary meaning.
 
 
 <a id="p-260"></a>
@@ -4388,7 +4388,7 @@ cf. also:
 
 
 
-The forms above suggest the following history. The POc form was (on MP evidence) &ast;polaq. Initial &ast;po- first became &ast;pwo_ through spread of lip-rounding from vowel to consonant, then &ast;pwo_ dissimilated to &ast;pʷa_. Either each of these forms occurred in the speech of the POc community, or (less plausibly) independent parallel changes occurred in various daughter languages. Bauan bola also points to a POc doublet &ast;bolaq ([Ch.2, §3.1.3](chapter2.md#s-3-1)).
+The forms above suggest the following history. The POc form was (on MP evidence) _&ast;polaq_. Initial _&ast;po-_ first became _&ast;pʷo-_ through spread of lip-rounding from vowel to consonant, then _&ast;pʷo-_ dissimilated to _&ast;pʷa-_. Either each of these forms occurred in the speech of the POc community, or (less plausibly) independent parallel changes occurred in various daughter languages. Bauan _bola_ also points to a POc doublet _&ast;bolaq_ ([Ch.2, §3.1.3](chapter2.md#s-3-1)).
 
 <table>
 <tr>
@@ -4951,7 +4951,7 @@ cf. also:
 ## 4.1. Pierce
 
 
-The terms listed below entail formal and semantic overlaps to a seemingly embarassing degree. However, there is evidence that all these terms occurred in POc: &ast;(su)suRi and &ast;s(u,i)ri, for example, are supported by the existence of contrasting reflexes in Mussau, sui and suli. Reflexes of the first three are used to refer to sewing, but the POc verb which specifically referred to that activity was none of these, but &ast;saqit (Ch.4, [§3.2.1](#s-3-2)). POc &ast;(su)suRi and POc &ast;sua referred respectively to a bone needle (Ch.4, [§3.2.1](#s-3-2)) and a spear ([Ch.8, §9](chapter8.md#s-9)), but are included here because of their verbal uses and their potential for confusion with the other terms.
+The terms listed below entail formal and semantic overlaps to a seemingly embarassing degree. However, there is evidence that all these terms occurred in POc: _&ast;(su)suRi_ and _&ast;s(u,i)ri_, for example, are supported by the existence of contrasting reflexes in Mussau, _sui_ and _suli_. Reflexes of the first three are used to refer to sewing, but the POc verb which specifically referred to that activity was none of these, but _&ast;saqit_ (Ch.4, [§3.2.1](#s-3-2)). POc _&ast;(su)suRi_ and POc _&ast;sua_ referred respectively to a bone needle (Ch.4, [§3.2.1](#s-3-2)) and a spear ([Ch.8, §9](chapter8.md#s-9)), but are included here because of their verbal uses and their potential for confusion with the other terms.
 
 ```
 POc       &ast;(su)su(k)        'anything used to pierce, prick; (V) pierce, prick, sew'; &ast;suki- 'pierce, prick, sew (mats)'
@@ -5372,7 +5372,7 @@ POc       &ast;sua              (N, v) 'spear (weapon retained in the hand)'
 <tr>
 <td>SV</td><td>Lenakel</td><td><i>suk</i></td>
 <td>
-'<span>spear (generic : for war, fishing, hunting)</span>'</td>
+'<span>spear (generic: for war, fishing, hunting)</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Woleaian</td><td><i>toga-tog</i></td>
@@ -5477,11 +5477,11 @@ Drilling or boring was performed by rotating a harder implement, e.g. one with a
 <a id="p-266"></a>
 
 ```
-POc        &ast;puru(k), &ast;puruk-i- 'pierce, bore (hole)'
-POc        &ast;buru[-]            'pierce, bore (hole), drill '
-PWOc &ast;bʷaR(i,e)[-]              'pierce, bore (hole)'
-POc (?) &ast;paRo[-]                'drill through, pierce, perforate'
-POc    &ast;wiri(t)                 'twist, turn, revolve' (see [§8](#s-8) for supporting evidence)
+POc     &ast;puru(k), &ast;puruk-i- 'pierce, bore (hole)'
+POc     &ast;buru[-]            'pierce, bore (hole), drill'
+PWOc    &ast;bʷaR(i,e)[-]       'pierce, bore (hole)'
+POc (?) &ast;paRo[-]            'drill through, pierce, perforate'
+POc     &ast;wiri(t)            'twist, turn, revolve' (see [§8](#s-8) for supporting evidence)
 ```
 
 None of the first three reconstructions is particularly well supported by the evidence, and their formal similarity leaves us questioning whether there is a derivational relationship between them. However, the evidence does not at this stage allow us to combine them. They all refer to actions which entail turning an instrument in order to make a hole.
@@ -5629,7 +5629,7 @@ cf. also:
 
 
 
-The following item may be reconstructable only for PEOc. The two WOc items have phonological difficulties: Poeng paro has r for expected I, Simbo vala-vala final -a for 0     -
+The following item may be reconstructable only for PEOc. The two WOc items have phonological difficulties: Poeng _paro_ has _r_ for expected _l_, Simbo _vala-vala_ final _-a_ for _0_     -
 
 
 <a id="p-267"></a>
@@ -5723,24 +5723,24 @@ The following item may be reconstructable only for PEOc. The two WOc items have 
 ## 5.1. Hit, beat, strike
 
 
-A number of terms for hitting are reconstructable, with meanings which vary particularly according to the manner of hitting, like English clout, slap, punch, pound, knock and so on:
+A number of terms for hitting are reconstructable, with meanings which vary particularly according to the manner of hitting, like English _clout_, _slap_, _punch_, _pound_, _knock_ and so on:
 
 ```
-POc      &ast;punu(q), &ast;punuq-i-         'hit, strike, fight, kill'
-POc      &ast;qubu, &ast;qubʷi-              'hit with fist or with a weapon'
-POc      &ast;rapu(t), &ast;raput-i-         'hit with hand or stick, slash'
-POc      &ast;tutuk, &ast;tuki[-]            'pound, mash by pounding, hammer, crack by hammering'
-POc  &ast;putu(k) and &ast;butu(k), &ast;butuk-i-             'repeatedly knock, pound, beat'
-POc &ast;qatu(ŋ), &ast;qatuŋ-i-            'strike from above, pound'
-POc &ast;babak, &ast;baki[ -]                'strike one against another, knock '
-POc &ast;tupu, &ast;tupu-i-                  'knock against, knock over, stub (toe), stumble against'
-POc &ast;pʷasa(r,R), &ast;pʷasa(r,R)-i-      'slap, hit'
-PWOc &ast;sapu[-]                        'hit'
-PCP &ast;sau, &ast;sauti-                    'strike, beat, chop'
-PCP &ast;(v,b)asu                        'a drum '; (V) 'drum, thump'
+POc &ast;punu(q), &ast;punuq-i-               'hit, strike, fight, kill'
+POc &ast;qubu, &ast;qubʷi-                    'hit with fist or with a weapon'
+POc &ast;rapu(t), &ast;raput-i-               'hit with hand or stick, slash'
+POc &ast;tutuk, &ast;tuki[-]                  'pound, mash by pounding, hammer, crack by hammering'
+POc &ast;putu(k) and &ast;butu(k), &ast;butuk-i-  'repeatedly knock, pound, beat'
+POc &ast;qatu(ŋ), &ast;qatuŋ-i-               'strike from above, pound'
+POc &ast;babak, &ast;baki[ -]                 'strike one against another, knock'
+POc &ast;tupu, &ast;tupu-i-                   'knock against, knock over, stub (toe), stumble against'
+POc &ast;pʷasa(r,R), &ast;pʷasa(r,R)-i-       'slap, hit'
+PWOc &ast;sapu[-]                         'hit'
+PCP &ast;sau, &ast;sauti-                     'strike, beat, chop'
+PCP &ast;(v,b)asu                         'a drum '; (V) 'drum, thump'
 ```
 
-The most general term for 'hit' in POc was &ast;punuq, &ast;punuq-i-, often used for striking another person, sometimes with the extended meaning of fighting and/or killing them. Reflexes of &ast;qubu, &ast;qubu-i- and POc &ast;Ra(p,b)u(s), &ast;Ra(p,b)us-i- appear in very similar contexts to those of &ast;punuq, &ast;punuq-i-, but there is some evidence that &ast;qubu, &ast;qubu-i- may have referred to striking with the fist or a weapon and better evidence that &ast;Ra(p,b)u(s), &ast;Ra(p,b)us-i- referred to striking hard with the hand or with a stick.
+The most general term for 'hit' in POc was _&ast;punuq_, _&ast;punuq-i-_, often used for striking another person, sometimes with the extended meaning of fighting and/or killing them. Reflexes of _&ast;qubu_, _&ast;qubu-i-_ and POc _&ast;Ra(p,b)u(s)_, _&ast;Ra(p,b)us-i-_ appear in very similar contexts to those of _&ast;punuq_, _&ast;punuq-i-_, but there is some evidence that _&ast;qubu_, _&ast;qubu-i-_ may have referred to striking with the fist or a weapon and better evidence that _&ast;Ra(p,b)u(s)_, _&ast;Ra(p,b)us-i-_ referred to striking hard with the hand or with a stick.
 
 
 <a id="p-268"></a>
@@ -5964,7 +5964,7 @@ The most general term for 'hit' in POc was &ast;punuq, &ast;punuq-i-, often used
 
 
 
-The morphological relationship between intransitive &ast;qubu and transitive &ast;qubʷi- does not conform to any of the patterns described in [Chapter 2, §3.1.2](chapter2.md#s-3-1). Transitive&ast;qubʷi- appears to be derived from intransitive &ast;qubu plus transitive suffix &ast;-i-, but intransitive roots ending in a vowel other than &ast;-a- did not take the transitive suffix, so the history of this pair remains unclear.
+The morphological relationship between intransitive &ast;qubu and transitive _&ast;qubʷi-_ does not conform to any of the patterns described in [Chapter 2, §3.1.2](chapter2.md#s-3-1). Transitive _&ast;qubʷi-_ appears to be derived from intransitive _&ast;qubu_ plus transitive suffix _&ast;-i-_, but intransitive roots ending in a vowel other than _&ast;-a-_ did not take the transitive suffix, so the history of this pair remains unclear.
 
 
 <a id="p-269"></a>
@@ -6160,9 +6160,9 @@ The morphological relationship between intransitive &ast;qubu and transitive &as
 
 
 
-The mismatch in root-final consonants between PMP &ast;ra(m)buk and POc &ast;rapu(t) above suggests that their resemblance may be due to chance. The SES items reflect medial &ast;-b- where reflexes in other language groups agree on &ast;-p-, whilst the Guadalcanal-Gelic subgroup of SES reflects a form &ast;(l,R)abu, &ast;(l,R)abut-i-.
+The mismatch in root-final consonants between PMP _&ast;ra(m)buk_ and POc _&ast;rapu(t)_ above suggests that their resemblance may be due to chance. The SES items reflect medial _&ast;-b-_ where reflexes in other language groups agree on _&ast;-p-_, whilst the Guadalcanal-Gelic subgroup of SES reflects a form _&ast;(l,R)abu_, _&ast;(l,R)abut-i-_.
 
-The items below, POc &ast;tutuk, &ast;tuki- and &ast;putu(kY&ast;butu(k), &ast;butuk-i- are onomatopoeic, with a basic reference to hammering, and are derivationally related.
+The items below, POc _&ast;tutuk_, _&ast;tuki-_ and _&ast;putu(k)_/_&ast;butu(k)_, _&ast;butuk-i-_ are onomatopoeic, with a basic reference to hammering, and are derivationally related.
 
 
 <a id="p-270"></a>
@@ -7537,7 +7537,7 @@ cf. also:
 <i>&ast;ra(m)bek</i>
 </td>
 <td>
-'<span>strike, break</span>' (<span>cf. *rabuk 'knock, pound'</span>) (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>strike, break</span>' (<span>cf. <em>*rabuk</em> 'knock, pound'</span>) (<a href="../references.md#source-Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -7590,7 +7590,7 @@ POc &ast;tapu(t), &ast;taput-i             'strip (crops), pull off'
 
 PPn &ast;lohu 'fruit-plucking pole, hook something with a pole' ([Biggs 1993](../references.md#source-Biggs1993)), probably also reflects PAn &ast;-buC via an otherwise unattested POc &ast;&ast;loput.
 
-The second set also seems to reflect a single PAn root, namely &ast;-pak 'break, crack, split', although their POc meanings both refer to plucking leaves off a branch by hand. POc &ast;paki has only Fijian and Polynesian reflexes, but is reconstructed for POc on the basis of the reconstructable PAn root:
+The second set also seems to reflect a single PAn root, namely _&ast;-pak_ 'break, crack, split', although their POc meanings both refer to plucking leaves off a branch by hand. POc _&ast;paki_ has only Fijian and Polynesian reflexes, but is reconstructed for POc on the basis of the reconstructable PAn root:
 
 ```
 POc &ast;sapaki                        'pluck off, break off (leaves) with the hand'
@@ -7792,7 +7792,7 @@ POc &ast;paki                          'pluck, break off (leaves) with the hand'
 
 
 
-POc &ast;puti- above bears a close formal resemblance to POc &ast;pwuri[_J 'cut off' ([§3.1](#s-3-1)), but we reconstruct them separately on the basis of (i) the difference in initial correspondence sets (cf. [Ch.2, §2.1](chapter2.md#s-2-1)) and (ii) the consistently different sets of meanings.
+POc _&ast;puti-_ above bears a close formal resemblance to POc _&ast;pʷuti[-] 'cut off' ([§3.1](#s-3-1)), but we reconstruct them separately on the basis of (i) the difference in initial correspondence sets (cf. [Ch.2, §2.1](chapter2.md#s-2-1)) and (ii) the consistently different sets of meanings.
 
 
 <a id="p-278"></a>
@@ -8409,7 +8409,7 @@ cf. also:
 
 <a id="p-281"></a>
 
-The verb below appears to be derived from a noun PMP/POc &ast;kawit 'hook '. This noun bears a remarkable resemblance to PMP/POc &ast;kawil 'hook, fish hook' ([Ch.8, §4](chapter8.md#s-4)), and we take it that the latter may well represent an irregular offshoot of the former at some time in the distant past.
+The verb below appears to be derived from a noun PMP/POc _&ast;kawit_ 'hook '. This noun bears a remarkable resemblance to PMP/POc _&ast;kawil_ 'hook, fish hook' ([Ch.8, §4](chapter8.md#s-4)), and we take it that the latter may well represent an irregular offshoot of the former at some time in the distant past.
 
 <table>
 <tr>
@@ -8809,9 +8809,9 @@ cf. also:
 
 
 
-Blust (ACD) has also reconstructed PMP &ast;pe(R)cit and &ast;becit, both 'squeeze, squirt out', from which the items attributed to &ast;pos-i- could, on the face of it, alternatively be derived. However, if PMP &ast;pe(R)cit or &ast;becit were the source of the Oceanic forms, we would expect the POc pair &ast;&ast;posi(t), &ast;&ast;posit-i-, and the latter is reflected nowhere. Instead, we can reconstruct the pair &ast;popo(s) and &ast;posi-, and it is accordingly more likely that the set above is derived from the latter.
+Blust (ACD) has also reconstructed PMP _&ast;pe(R)cit_ and _&ast;becit_, both 'squeeze, squirt out', from which the items attributed to _&ast;pos-i-_ could, on the face of it, alternatively be derived. However, if PMP _&ast;pe(R)cit_ or _&ast;becit_ were the source of the Oceanic forms, we would expect the POc pair _&ast;&ast;posi(t)_, _&ast;&ast;posit-i-_, and the latter is reflected nowhere. Instead, we can reconstruct the pair _&ast;popo(s)_ and _&ast;posi-_, and it is accordingly more likely that the set above is derived from the latter.
 
-Also reconstructable is PNNG &ast;(p,pʷ)isa(k), &ast;(p,pʷ)isak-i- 'squeeze (grated coconut +)'. It seems probable that this is a reflex of POc &ast;pisa(k), &ast;pisak-i- 'split' ([§3.8](#s-3-8)) which has undergone a change in meaning (essentially from 'split a coconut to obtain its flesh' to 'squeeze the coconut flesh to obtain its sap'). The partial formal similarity of this item to those above may have abetted this shift.
+Also reconstructable is PNNG _&ast;(p,pʷ)isa(k)_, _&ast;(p,pʷ)isak-i-_ 'squeeze (grated coconut +)'. It seems probable that this is a reflex of POc _&ast;pisa(k)_, _&ast;pisak-i-_ 'split' ([§3.8](#s-3-8)) which has undergone a change in meaning (essentially from 'split a coconut to obtain its flesh' to 'squeeze the coconut flesh to obtain its sap'). The partial formal similarity of this item to those above may have abetted this shift.
 
 <table>
 <tr>
@@ -8984,14 +8984,14 @@ cf. also:
 It seems likely that in some languages reflexes of POc &ast;poRo(s) 'squeeze out, wring out (liquid) and POc &ast;piro[-] 'twist together' or PEOc &ast;pilo(s), &ast;pilos-i- 'make a cord by twisting fibres on the thigh' have been conflated. Thus the items below have meanings usually associated with reflexes of &ast;poRo(s) but their forms reflect &ast;piro or &ast;pilo(s), &ast;pilos-i-:
 
 ```
-PT:     Iduna          vilo-              'twist, wring (of clothes)'
-SES:    Kwaio          filo, filo-        'squeeze, wring'
-SES:     'Are'are      hirosi             'wring, twist, roll '
-Fij :   Wayan          vilo               'be squeezed and strained through a cloth, as in preparing kava or coconut cream; be wrung out, dried by wringing with the hands'
-Fij :   Wayan          vilooi-           'squeeze and strain s.t.; wring out wet clothes'
+PT:    Iduna         vilo-             'twist, wring (of clothes)'
+SES:   Kwaio         filo, filo-       'squeeze, wring'
+SES:   'Are'are      hirosi            'wring, twist, roll'
+Fij:   Wayan         vilo              'be squeezed and strained through a cloth, as in preparing kava or coconut cream; be wrung out, dried by wringing with the hands'
+Fij:   Wayan         vilooi-           'squeeze and strain s.t.; wring out wet clothes'
 ```
 
-Note that the reflexes of &ast;poRos-i- above are all WOc, whilst those of &ast;pilos-i- are EOc. This distribution suggests that conflation occurred in PEOc, with reflexes of POc &ast;piro[-] 'twist together' and POc &ast;poRo(s) 'squeeze out, wring out (liquid) becoming conflated both formally and semantically, giving rise to pilos-i- in place of &ast;poRos-i-.
+Note that the reflexes of &ast;poRos-i- above are all WOc, whilst those of _&ast;pilos-i-_ are EOc. This distribution suggests that conflation occurred in PEOc, with reflexes of POc _&ast;piro[-]_ 'twist together' and POc _&ast;poRo(s)_ 'squeeze out, wring out (liquid) becoming conflated both formally and semantically, giving rise to _pilos-i-_ in place of _&ast;poRos-i-_.
 
 <table>
 <tr>
@@ -9180,12 +9180,12 @@ The derivational relationship between the pair of verbs below, PEOc &ast;gugu(m)
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>kuumi(a)</i></td>
 <td>
-'<span>clench, grasp in fist</span>' (<span>durational of kuku</span>)</td>
+'<span>clench, grasp in fist</span>' (<span>durational of <em>kuku</em></span>)</td>
 </tr>
 <tr>
 <td>Pn</td><td>Samoan</td><td><i>ʔu-umi(a)</i></td>
 <td>
- (<span>passive of ʔuʔu 'hold, grip, clutch'</span>)</td>
+ (<span>passive of <em>ʔuʔu</em> 'hold, grip, clutch'</span>)</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tahitian</td><td><i>ʔu-ʔumi</i></td>
@@ -9440,7 +9440,7 @@ cf. also:
 
 Reduplication was regularly used to form intransitive verbs from verbs which were implicitly transitive ([Ch 2, §3.1.2](chapter2.md#s-3-1)).
 
-The two terms below have undoubtedly been conflated in some languages, but the data justify separate reconstructions. With regard to the origin of PEOc &ast;pilo(s), &ast;pilos-i, see the discussion associated with POc &ast;poRo(s), &ast;poRos-i- above ([§7](#s-7)).
+The two terms below have undoubtedly been conflated in some languages, but the data justify separate reconstructions. With regard to the origin of PEOc _&ast;pilo(s)_, _&ast;pilos-i_, see the discussion associated with POc _&ast;poRo(s)_, _&ast;poRos-i-_ above ([§7](#s-7)).
 
 <table>
 <tr>
@@ -9679,7 +9679,7 @@ An unrelated PPn term has been reconstructed for the same process, &ast;amo 'pre
 <i>&ast;loqi</i>
 </td>
 <td>
-'<span>make thread by rolling fibres on the thigh</span>' (<a href="../references.md#source-Chowning1991">Chowning1991: *loi 'thread made ...'</a>)
+'<span>make thread by rolling fibres on the thigh</span>' (<a href="../references.md#source-Chowning1991">Chowning1991: *loi 'thread made …'</a>)
 </td>
 </tr>
 <tr>
@@ -10133,7 +10133,7 @@ The seeming PMP ancestor of this form is PMP &ast;leku? 'bend, fold, folding par
 
 Terms for materials used for cordage or string are reconstructed in [Chapter 4, §3.2](chapter4.md#s-3-2). As well as the verbs listed below, reflexes of POc &ast;patu(R), &ast;patuR-i- 'tie, plait, weave (mats, baskets +)' ([Ch.4, §3.1.1](chapter4.md#s-3-1)) and POc verb &ast;saqi(t) 'sew' ([Ch.4, §3.2.1](chapter4.md#s-3-2)) are also used for tying. This was evidently one of the POc meanings of the former, but probably not of the latter. Other verbs for various kinds of tying are listed below. POc &ast;buku 'tie (a knot); fasten' was probably a generic term for tying, whilst POc &ast;pʷita 'tie by encircling', POc &ast;paqu(s), &ast;paqus-i- 'bind, lash; construct (canoe +) by tying together', and POc &ast;pisi 'bind up, tie up, wind round, wrap' had more specialised meanings. There is insufficient information about POc &ast;kiti 'tie, bind' to attribute a more specific meaning to it.
 
-The first POc verb reconstructed below is identical to POc &ast;buku 'node … ' ([Ch.4, §3.2](chapter4.md#s-3-2)), a noun which referred among other things to knots. It is possible that the verbs listed below under &ast;buku are independent developments from the POc noun. However, since many POc roots seem to have functioned as both noun and verb, we reconstruct the verb here.
+The first POc verb reconstructed below is identical to POc &ast;buku 'node …' ([Ch.4, §3.2](chapter4.md#s-3-2)), a noun which referred among other things to knots. It is possible that the verbs listed below under &ast;buku are independent developments from the POc noun. However, since many POc roots seem to have functioned as both noun and verb, we reconstruct the verb here.
 
 The second verb, &ast;bukuti, is odd, in that it implies a PMP root &ast;&ast;bukut, but the reconstructable PMP form is &ast;buku ([Ch.4, §3.2](chapter4.md#s-3-2)) without final &ast;-t. We assume that &ast;-t- was inserted by analogy with other transitive verbs.
 
@@ -11040,4 +11040,4 @@ cf. also:
 
 [^10]:   Given the two reconstructable POc forms, this appears to be a case of Blust's (1977) paradigm ([Ch.2, §3.1.2](chapter2.md#s-3-1)), suggesting that the PMP form was &ast;dalJdalJ.
 
-[^11]: If the Oceanic forms are an example of the usual canon, we would expect PMP &ast;tuŋtuŋ.
+[^11]: If the Oceanic forms are an example of the usual canon, we would expect PMP _&ast;tuŋtuŋ_.

@@ -98,7 +98,7 @@ Most Oceanic languages have a wide range of terms for different kinds of nets. T
 
 
 
-Reflexes of &ast;pukot meaning specifically 'seine' occur in both WOc (Kove, Nakanai) and EOc (Arosi Sa'a) witnesses. This suggests the strong possibility that _&ast;pukot_ denoted 'seine' in POco The more generalised meanings of other witnesses do not rule out this implication.
+Reflexes of _&ast;pukot_ meaning specifically 'seine' occur in both WOc (Kove, Nakanai) and EOc (Arosi, Sa'a) witnesses. This suggests the strong possibility that _&ast;pukot_ denoted 'seine' in POco The more generalised meanings of other witnesses do not rule out this implication.
 
 <table>
 <tr>
@@ -167,7 +167,7 @@ Reflexes of &ast;pukot meaning specifically 'seine' occur in both WOc (Kove, Nak
 
 
 
-&ast;reke perhaps also referred to a seine net, but its Eastern Oceanic reflexes imply that it may have referred to an end or pocket of the net.
+_&ast;reke_ perhaps also referred to a seine net, but its Eastern Oceanic reflexes imply that it may have referred to an end or pocket of the net.
 
 <table>
 <tr>
@@ -290,7 +290,7 @@ Figure 27a: POc &ast;ku(p,pʷ)ena 'fishing net' - generic term. (from [Nevermann
 
 <a id="p-214"></a>
 
-Figure 27b : Possibly POc &ast;pukot 'a seine net ', with wooden floats (POc &ast;utoŋ) and stone sinkers (POc &ast;patu) (from [Nevermann 1933](../references.md#source-Nevermann1933):89)
+Figure 27b: Possibly POc &ast;pukot 'a seine net ', with wooden floats (POc &ast;utoŋ) and stone sinkers (POc &ast;patu) (from [Nevermann 1933](../references.md#source-Nevermann1933):89)
 
 Figure 27c: Another kind of &ast;ku(p,pʷ)ena . We lack a specific reconstruction for a handnet. (from [Nevermann 1933](../references.md#source-Nevermann1933):89)
 
@@ -364,7 +364,7 @@ The techniques that involve large nets usually require use of floats and sinkers
 
 
 
-There is also a competing form that co-exists with &ast;utoŋ in the Central Pacific, PCP &ast;vuta (Rotuman huJa 'float on a fishing net ', Tikopia Juta 'net float').
+There is also a competing form that co-exists with &ast;utoŋ in the Central Pacific, PCP &ast;vuta (Rotuman huJa 'float on a fishing net', Tikopia _futa_ 'net float').
 
 
 <a id="p-215"></a>
@@ -568,7 +568,7 @@ Some communities use a scareline for fishing, in which leaves are tied to a long
 
 
 
-However, in Andra (Admiralties) a leaf sweep is called you, pointing to POc &ast;Rau(C) rather than &ast;raun.
+However, in Andra (Admiralties) a leaf sweep is called you, pointing to POc _&ast;Rau(C)_ rather than _&ast;raun_.
 
 
 <a id="s-4"></a>
@@ -712,12 +712,12 @@ Nonetheless, the linguistic evidence leaves us in no doubt that POc speakers wer
 
 
 
-POc &ast;kawil is widely attested. I have over fifty reflexes containing specific reference to fishhooks, occurring in all major subgroups. In Tuvalu it is used as a generic, followed by the name of the fish for which it is appropriate-kau galata, kau palu, etc. It has an obvious formal and semantic relationship with &ast;kawi(t), &ast;kawit-i- (V) 'hook, catch hold of; fruit crook' (Ch. 5, § l O), but the origin of this relationship is not understood.
+POc _&ast;kawil_ is widely attested. I have over fifty reflexes containing specific reference to fishhooks, occurring in all major subgroups. In Tuvalu it is used as a generic, followed by the name of the fish for which it is appropriate-kau galata, kau palu, etc. It has an obvious formal and semantic relationship with &ast;kawi(t), _&ast;kawit-i-_ (V) 'hook, catch hold of; fruit crook' (Ch. 5, § l O), but the origin of this relationship is not understood.
 
 
 <a id="p-217"></a>
 
-Figure 29: POc &ast;kawil 'fish hook ', POc &ast;ra(g,k)o '(barbless?) fish hook '. On the left is a coconut shell fish hook; on the right is a wooden two-piece fish hook
+Figure 29: POc _&ast;kawil_ 'fish hook ', POc _&ast;ta(g,k)o_ '(barbless?) fish hook'. On the left is a coconut shell fish hook; on the right is a wooden two-piece fish hook
 
 <table>
 <tr>
@@ -757,7 +757,7 @@ Figure 29: POc &ast;kawil 'fish hook ', POc &ast;ra(g,k)o '(barbless?) fish hook
 
 
 
-The extension of a meaning from a material to something made from that material is very common across languages (viz. English glassla glass. corkJa cork). Examples occur in Oceanic languages as well (Bauan gasau 'a reed ; an arrow ', Tolai vat 'a stone, a sinker'). POc speakers evidently made fishhooks from a variety of shells, and in some daughter languages the term for a particular shell has become the term for a fishhook (made from that shell?). For instance, POc &ast;kima 'clamshell' is reflected in some Central Papuan languages as kimai 'fishhook' ([Ross 1994](../references.md#source-Ross1994a)a :404). A similar example is:
+The extension of a meaning from a material to something made from that material is very common across languages (viz. English _glass_/_a glass_, _cork_/_a cork_). Examples occur in Oceanic languages as well (Bauan _gasau_ 'a reed ; an arrow ', Tolai _vat_ 'a stone, a sinker'). POc speakers evidently made fishhooks from a variety of shells, and in some daughter languages the term for a particular shell has become the term for a fishhook (made from that shell?). For instance, POc _&ast;kima_ 'clamshell' is reflected in some Central Papuan languages as _kimai_ 'fishhook' ([Ross 1994](../references.md#source-Ross1994a)a :404). A similar example is:
 
 <table>
 <tr>
@@ -831,7 +831,7 @@ The extension of a meaning from a material to something made from that material 
 
 
 
-Final &ast;-p is reconstructed because this item is almost certainly identical to POc &ast;qunap 'fish scales'. The Arosi (SES) verb derived from this term, unahi- 'remove shell from turtle, scale a fish' (see [Ch.6, §5.4](chapter6.md#s-5-4)), reflects &ast;-p- and refers to the removal of both turtle shell and fish scales.
+Final _&ast;-p_ is reconstructed because this item is almost certainly identical to POc _&ast;qunap_ 'fish scales'. The Arosi (SES) verb derived from this term, _unahi-_ 'remove shell from turtle, scale a fish' (see [Ch.6, §5.4](chapter6.md#s-5-4)), reflects _&ast;-p-_ and refers to the removal of both turtle shell and fish scales.
 
 
 <a id="p-218"></a>
@@ -955,9 +955,9 @@ We have evidence, both archaeological and linguistic, that trolling lures were a
 
 
 
-It would appear that in some Southeast Solomonic languages and also in Fiji, reflexes of POc &ast;bayan have split into doublets, evidently to distinguish 'bait' from 'trolling lure'. Because there is crossover of meaning, with the long-vowel form referring to bait in one region and trolling lure in the other, it is assumed that the two splits occurred independently. Nor can the possibility of borrowing be discounted.
+It would appear that in some Southeast Solomonic languages and also in Fiji, reflexes of POc _&ast;bayan_ have split into doublets, evidently to distinguish 'bait' from 'trolling lure'. Because there is crossover of meaning, with the long-vowel form referring to bait in one region and trolling lure in the other, it is assumed that the two splits occurred independently. Nor can the possibility of borrowing be discounted.
 
-John Lynch (pers.comm.) points out that the final -~n of Anejom ne-pyañ reflects earlier &ast;-ni, implying POc &ast;&ast;bayani. However, a number of the forms above reflect a loss of final &ast;-n which would not have occurred if the form had been &ast;&ast;bayani. It is possible, however, that Anejom ne-pyañ reflects a conflation of &ast;bayan and &ast;bani (below), forms which are similar but, it appears, not cognate.
+John Lynch (pers.comm.) points out that the final _-ñ_ of Anejom _ne-pyañ_ reflects earlier _&ast;-ni_, implying POc _&ast;&ast;bayani_. However, a number of the forms above reflect a loss of final _&ast;-n_ which would not have occurred if the form had been _&ast;&ast;bayani_. It is possible, however, that Anejom _ne-pyañ_ reflects a conflation of &ast;bayan and _&ast;bani_ (below), forms which are similar but, it appears, not cognate.
 
 
 <a id="p-219"></a>
@@ -1009,7 +1009,7 @@ John Lynch (pers.comm.) points out that the final -~n of Anejom ne-pyañ reflect
 
 
 
-A form PMP/POc &ast;baŋi 'bait', is reconstructable on the basis of Javanese baŋi 'bait' and the obsolete Samoan paŋi 'coconut bait for flying fish' . Its relationship to the reconstructions above is unclear.
+A form PMP/POc _&ast;baŋi_ 'bait', is reconstructable on the basis of Javanese _baŋi_ 'bait' and the obsolete Samoan _paŋi_ 'coconut bait for flying fish'. Its relationship to the reconstructions above is unclear.
 
 
 <a id="s-5"></a>
@@ -1071,7 +1071,7 @@ A form PMP/POc &ast;baŋi 'bait', is reconstructable on the basis of Javanese ba
 
 <a id="p-220"></a>
 
-Figure 31 : POc &ast;pupu 'basketry fish trap' (from [Nevermann 1934](../references.md#source-Nevermann1934):226)
+Figure 31: POc &ast;pupu 'basketry fish trap' (from [Nevermann 1934](../references.md#source-Nevermann1934):226)
 
 The term is widely attested. It is noteworthy that we have no Polynesian cognates. Instead we find PPn &ast;finaki (<table>
 <tr>
@@ -2065,7 +2065,7 @@ The Fijian and the Tahitian cognates have strayed semantically, yet still retain
 ## 10. Club
 
 
-Across the Pacific, the kind of weapon that is labelled 'club' varies from the great knobbed, obsidian-studded roots that can be seen in the Bishop Museum in Honolulu, to the flat round stone clubs of the Motu (gahi), to the smaller, lighter throwing clubs of Fiji (i ula : [Clunie 1977](../references.md#source-Clunie1977)), and to the Kiribatese kati-popuki -about four feet long, pointed at both ends, used for warding off a spear, making a thrust, or wielding as a club (Hudson I 841, quoted in [Koch 1986](../references.md#source-Koch1986):249), which might equally be classified as a shield or lance. I consider these to be more or less marginal examples of what is basically a blunt, heavy instrument, wielded in the hand for bludgeoning.
+Across the Pacific, the kind of weapon that is labelled 'club' varies from the great knobbed, obsidian-studded roots that can be seen in the Bishop Museum in Honolulu, to the flat round stone clubs of the Motu (gahi), to the smaller, lighter throwing clubs of Fiji (i ula: [Clunie 1977](../references.md#source-Clunie1977)), and to the Kiribatese kati-popuki -about four feet long, pointed at both ends, used for warding off a spear, making a thrust, or wielding as a club (Hudson I 841, quoted in [Koch 1986](../references.md#source-Koch1986):249), which might equally be classified as a shield or lance. I consider these to be more or less marginal examples of what is basically a blunt, heavy instrument, wielded in the hand for bludgeoning.
 
 In the Southeast Solomons, Fiji and Polynesia at least (I have little information from Western Oceania), clubs have an importance beyond that of simply weapons. They often carry ceremonial weight. Many are heirlooms with names and magical powers. Special reverence is accorded the war club. To the extent that it is possible to distinguish war clubs from hunting clubs, I do not intend to delve further into the culture and terminology of the former. It is my guess that hunting clubs would have carried less cultural significance, and as a result, been labelled more broadly. Two terms have been reconstructed.[^5] In each case I have included all known cognates. It will be apparent that neither reconstruction is particularly soundly based. Nor do their cognates provide much information as to the shape, material or specific function of each club:
 
@@ -2488,7 +2488,7 @@ Evidence comes both directly from the existence of artefacts themselves in archa
 
 [Spriggs](../references.md#source-Spriggs1997a) ([1997a](../references.md#source-Spriggs1997a): 114) summarises non-vegetable food traces from an Eloaue site on Mussau, east of the Admiralties, believed to have been occupied between about 3, 500 and 2, 500 years ago. (Eloaue is a low, flat, coral island south-east of the high island of Mussau.)
 
-> Large quantities of shell rllidden occurred in the site … The three Oceanic domesticates, pig, dog and chicken, were present but only in smal l numbers. 95 per cent of the bone was of fish, mainly inshore species, and turtle. Present too in small quantities were porpoise, reptiles, birds, rats and also the phalanger Spilocuscus maculatus (p. 117).
+> Large quantities of shell rllidden occurred in the site …The three Oceanic domesticates, pig, dog and chicken, were present but only in smal l numbers. 95 per cent of the bone was of fish, mainly inshore species, and turtle. Present too in small quantities were porpoise, reptiles, birds, rats and also the phalanger Spilocuscus maculatus (p. 117).
 
 A similar range of fauna to Mussau's occurs in the Lapita sites in the Arawe Islands, off the south-west of New Britain, with the addition of a wallaby, Thylogale browni and the flightless cassowary as introduced species (p. 120). A site on Watom, off the north-east tip of New Britain, adds bandicoot to the faunal repertoire (p. 124). Lapita sites from the Solomons provide little evidence, while the Reef-Santa Cruz Islands, next in line as one moves east, show a decline in the range and diversity of animal life available for food, a decline that increases as one moves progressively further out into the Pacific. Spriggs records that "hunting took place of what local species of birds, bats and sea creatures such as turtles and dugongs there were, as well as collecting of reef and lagoon fish and shellfish". (p. 135)
 
@@ -2529,7 +2529,7 @@ We have eight POc terms that relate to netting:
 
 Although netting itself will not endure, we have limited physical evidence of dragnetting from Tikopia in the form of cowrie shell net weights. Kirch and Yen (p.245) have been able to identify shells and stones from a Lapita site as net weights and line sinkers:
 
-> Tikopia women frequently scour the reef flats with small two-handled dip nets, te kuti, the edge of which is weighted with small Cypraea shells. Such shells have the dorsum removed to facilitate lashing … Two line sinkers were [also] found, each consisting of a natural cobble … with an artificially pecked groove running laterally round the stone. Such grooved cobbles are still used on occasion by Tikopia fishermen.
+> Tikopia women frequently scour the reef flats with small two-handled dip nets, te kuti, the edge of which is weighted with small Cypraea shells. Such shells have the dorsum removed to facilitate lashing … Two line sinkers were [also] found, each consisting of a natural cobble… with an artificially pecked groove running laterally round the stone. Such grooved cobbles are still used on occasion by Tikopia fishermen.
 
 It is unlikely that the remainder of our fishing terminology, with the possible exception of the stone fish weirs, can ever be supported by archaeological evidence:
 
@@ -2589,7 +2589,7 @@ Although we can look to archaeology to confirm the hypothesis that durable artef
 
 ## Notes
 
-[^2]: ŋ for expected n.
+[^2]: _ŋ_ for expected _n_.
 
 [^3]:   Chowning (pers.comm.) points out that the Molima, and also the inhabitants of Goodenough Island, traditionally made their fish hooks out of the leg of a phasmid insect. This presumably combined the functions of hook and bait.
 
