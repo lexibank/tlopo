@@ -661,6 +661,7 @@ which can be reconstructed for POc.
 
 
 
+
 2               Locating Proto Oceanic
 
 
@@ -691,11 +692,12 @@ The islands of Near Oceania for the most part form an intervisible series of lan
 which served as stepping-stones for the dispersion of plants, animals and people, enhanced
 at times by lower sea levels during the late Pleistocene.
 
-[1]   I am indebted to Roger Green, Meredith Osmond, Malcolm Ross and Christophe Sand for helpful
-    comments on a draft of this chapter. A number of issues to do with locating Proto Oceanic are raised in a
-    paper by Terrell, Hunt and Bradshaw (2002) which came to hand after this paper was written.
-[2]   See Green (1991b) for an extended discussion of the Near Oceania vs Remote Oceania division, first
-    proposed in Pawley and Green (1973).
+[1]  I am indebted to Roger Green, Meredith Osmond, Malcolm Ross and Christophe Sand for helpful
+    comments on a draft of this chapter. A number of issues to do with locating Proto Oceanic are
+    raised in a paper by Terrell, Hunt and Bradshaw (2002) which came to hand after this paper was written.
+
+[2]   See Green (1991b) for an extended discussion of the Near Oceania vs Remote Oceania division,
+first proposed in Pawley and Green (1973).
 
 18   Andrew Pawley
 
@@ -729,7 +731,7 @@ and the Pacific.
     Within Wallacea, stretches of open sea up to 60–70 km were traversed by the first
 settlers—very likely the first substantial open sea voyages made by humans. The shortest
 sea crossings from Wallacea to the Australia-New Guinea continent were between 65 and
-100 km. These crossings were made no later than 40,000 BP, because human settlement of
+ 100 km. These crossings were made no later than 40,000 BP, because human settlement of
 Australia and New Guinea is securely dated to that time, and there are earlier, less widely
 accepted dates, indicating that Australia may have been settled as early as 60,000 BP.
 
@@ -755,7 +757,7 @@ dependent on hunting-and-gathering to get their food.
 
 
    The divide between Near and Remote Oceania is also an important one for fauna and
-flora distribution. Roger Green (1991a:495) notes that:
+flora distribution. Roger Green (1991a: 495) notes that:
 
 |     all terrestrial mammals other than rats and mice or those which accompanied people
 |     reach their eastward limit in the Solomons. The same applies to all fresh-water
@@ -804,7 +806,7 @@ altitudes, probably bananas and yams.
 Wallacea and Near Oceania during the Upper Pleistocene and early Holocene. It is
 noteworthy that the Mussau (St Matthias) group, 100 km to the north of New Ireland,
 remained uninhabited until about 3500 BP. For around 25,000 years human expansion into
-the Pacific got no further east than the Solomons—presumably the ocean gaps to the
+the Pacific got no further east than the Solomons — presumably the ocean gaps to the
 islands of Remote Oceania were too great to cross against the prevailing SE trade winds
 with the sailing technology then available. It may be that the shorter gaps, such as from the
 Solomons to Santa Cruz, were occasionally traversed by accident. However, permanent
@@ -835,8 +837,8 @@ island the most likely location of Proto Austronesian (Blust 1995a,1995b, 1999).
 striking fact that almost all the 480 or so Austronesian languages of the Pacific Islands fall
 into a single branch of Austronesian, and one that is no more than a fourth-order subgroup.
 This is the subgroup known as Oceanic, which is defined by a considerable number of
-uniquely shared innovations in sound system, morphology and lexicon (Lynch, Ross &
-Crowley 2002). All Austronesian languages of mainland and island southeast Asia and
+uniquely shared innovations in sound system, morphology and lexicon (Lynch, Ross & Crowley 2002).
+All Austronesian languages of mainland and island southeast Asia and
 Madagascar are excluded from Oceanic, being divided among a number of higher order
 subgroups. The only Pacific Island Austronesian languages that are excluded from Oceanic
 are (a) Chamorro, spoken in the Marianas, (b) Belau, spoken on Belau (Palau) Island at the
@@ -874,8 +876,9 @@ of the St Matthias Group, New Britain and in the islands off the east coast of N
 
 [3] There are several recent major syntheses of interdisciplinary evidence concerning the Austronesian
   diaspora by archaeologists, especially Bellwood (1997), Green (2003), Kirch (1995, 1997, 2000), Kirch
-  and Green (2001) and Spriggs (1997a), with a dissenting view presented by Terrell (1986) and Terrell et al.
-  (2001). For overviews by linguists see Blust (1995b), Pawley (2003a) and Pawley and Ross (1993, 1995).
+  and Green (2001) and Spriggs (1997a), with a dissenting view presented by Terrell (1986) and
+  Terrell et al. (2001). For overviews by linguists see Blust (1995b), Pawley (2003a) and
+  Pawley and Ross (1993, 1995).
 
 22    Andrew Pawley
 
@@ -920,16 +923,17 @@ similar stylistic changes to that exhibited by the later Lapita assemblages in t
 supports the idea that there was a significant pause, lasting perhaps three centuries, before
 Lapita people moved from Bismarcks into Remote Oceania.
 
-[4] At least two and probably three other movements into Remote Oceania occurred at about the same time as
-  the Lapita expansion, but independently of it. All were into western Micronesia and all can be associated
-  with Austronesian languages. The Mariana Islands, forming the northwest margin of Micronesia, were
-  settled by at least the late 2nd millennium BC (Bonhomme & Craig 1987). Belau (Palau), at the western
-  margin of the Carolines, was perhaps settled about the same time although as yet there are no published
-  dates earlier than 600 BC. The sources of these movements were probably the Philippines and/or
-  Sulawesi. Early assemblages in the Marianas and Belau show a red slip decorated earthenware remarkably
-  similar to that found in the southern Philippines and Sulawesi—and to the Lapita tradition. It is likely that
-  Yap (Western Carolines) was also settled very early. The highly divergent Yapese language is Oceanic
-  but cannot on present evidence be subgrouped with any other member of Oceanic (Ross 1996a).
+[4] At least two and probably three other movements into Remote Oceania occurred at about the same
+time as the Lapita expansion, but independently of it. All were into western Micronesia and all can be
+associated with Austronesian languages. The Mariana Islands, forming the northwest margin of
+Micronesia, were settled by at least the late 2nd millennium BC (Bonhomme & Craig 1987). Belau
+(Palau), at the western margin of the Carolines, was perhaps settled about the same time although as
+yet there are no published dates earlier than 600 BC. The sources of these movements were probably the
+Philippines and/or Sulawesi. Early assemblages in the Marianas and Belau show a red slip decorated
+earthenware remarkably similar to that found in the southern Philippines and Sulawesi—and to the
+Lapita tradition. It is likely that Yap (Western Carolines) was also settled very early. The highly
+divergent Yapese language is Oceanic but cannot on present evidence be subgrouped with any other
+member of Oceanic (Ross 1996a).
 
 Locating Proto Oceanic   23
 
@@ -958,8 +962,8 @@ houses and houses on stilts.
    This extensive ‘intrusive’ component of Lapita can be equated with the culture brought
 by a colonising community of Austronesian speaking migrants. The archaeological
 grounds for this equation are the close similarities between Lapita and contemporaneous
-and older Neolithic cultures in Southeast Asia (Bellwood 1997, Kirch 1997, Spriggs 1996,
-1997). The spread of the Neolithic through the Philippines and across Indonesia and into
+and older Neolithic cultures in Southeast Asia (Bellwood 1997, Kirch 1997, Spriggs 1996, 1997).
+The spread of the Neolithic through the Philippines and across Indonesia and into
 the Bismarck Archipelago now seems to have been quite swift, taking less than 1000 years
 (Bellwood 2001). Although certain archaeologists disagree (see footnote [5]) it seems we are
 dealing here with a clear case of populations maintaining a high degree of cultural and
@@ -969,13 +973,13 @@ directions of dispersal. It includes massive continuities in the terminologies f
 organisation and material culture from Proto Malayo-Polynesian through Proto Oceanic to
 contemporary Oceanic languages of both Near and Remote Oceania.[6]
 
-[5] Some archaeologists have in the past favoured a predominantly local origin of Lapita in the Bismarck
-  archipelago (Allen 1984, Allen & Gosden 1996, Allen & White 1989, Gosden & Specht 1991, Terrell
-  1986, Terrell & Welsch 1997, Terrell, Kelly & Rainbird 2001, White 1996). They point out that the
-  Bismarck archipelago had a long history of human occupation before the appearance of Lapita and that
-  there are precedents for some elements of Lapita technology and trade patterns in the pre-Lapita period
-  there, including lagoon fishing, trochus shell armrings, one piece shell fishhooks, earth ovens, and trade in
-  obsidian.
+[5] Some archaeologists have in the past favoured a predominantly local origin of Lapita in the
+Bismarck archipelago (Allen 1984, Allen & Gosden 1996, Allen & White 1989, Gosden & Specht 1991,
+Terrell 1986, Terrell & Welsch 1997, Terrell, Kelly & Rainbird 2001, White 1996). They point out that
+the Bismarck archipelago had a long history of human occupation before the appearance of Lapita and
+that there are precedents for some elements of Lapita technology and trade patterns in the pre-Lapita
+period there, including lagoon fishing, trochus shell armrings, one piece shell fishhooks, earth
+ovens, and trade in obsidian.
 
 [6] See Blust (1995b), Kirch (2000), Kirch and Green (2001), Pawley and Green (1984), Pawley and Ross
   (1994), and Ross, Pawley and Osmond (1998) for overviews and extensive references in this field.
@@ -985,8 +989,8 @@ Wallacea. Green considers as most likely from such a source the use of earth ove
 possibly the heavy, hinge-portioned Tridacna adze. The interisland trade in obsidian
 practised by Lapita peoples was almost certainly based on trade systems that had existed in
 the Bismarcks since the Upper Pleistocene, but shows significant changes in the range and
-frequency of trade and in the degree of formal blade technology (Summerhayes 2000a,
-2000b). Following Yen’s conclusion (1973, 1991) that a number of tree crops and plant
+frequency of trade and in the degree of formal blade technology (Summerhayes 2000a, 2000b).
+Following Yen’s conclusion (1973, 1991) that a number of tree crops and plant
 domesticates such as Australimusa bananas, breadfruit, coconuts and sugarcane, were Near
 Oceania domesticates, Spriggs (1997a), Kirch (1996) and Green (1991b, 2003) suggest that
 these may have been added to the Lapita suite of crops as a result of contact with non-
@@ -995,7 +999,6 @@ domesticates were already familiar to Malayo-Polynesian speakers before the sett
 Near Oceania, and such items are better placed in the ‘indeterminate’ category.
 
                                                                         Locating Proto Oceanic          25
-
 
    ‘Innovations’ refers to features unique to Lapita, i.e. generated within Lapita
 communities rather than due to external stimulus. The distinctive decorative style on
@@ -1032,18 +1035,18 @@ Bismarck Archipelago and (possibly) to parts of the central north coast of New G
 family tree and the geographic distribution of its subgroups. The centre of greatest genetic
 diversity within Oceanic itself is in the Bismarck archipelago. Blust (1978b, 1998a) argues
 that the first split within Oceanic was between the Admiralties group and the rest of
-Oceanic, on the grounds that the rest all merge Proto Malayo-Polynesian (PMP) *j and *s
-(as well as merging PMP *s, *z and *Z) and this is a relatively unusual merger in the
+Oceanic, on the grounds that the rest all merge Proto Malayo-Polynesian (PMP) _*j_ and _*s_
+(as well as merging PMP _*s_, _*z_ and _*Z_) and this is a relatively unusual merger in the
 Austronesian family. Blust proposes to reserve the name ‘Oceanic’ for the subgroup that
 consists of the rest of Oceanic, i.e. everything except the Admiralties group. He renames
 the old Oceanic group ‘Broad Oceanic’. My view is that the traditional use of ‘Oceanic’ is
 too well established and too useful to be changed. I will retain it here and refer to Blust’s
 proposed ‘rest of Oceanic’ group as ‘Nuclear Oceanic’.
 
-[7]   Some archaeologists and molecular biologists tend to talk of Austronesian speakers, rather than Oceanic
-    speakers, settling Melanesia and Polynesia. This is correct but unnecessarily vague. It is rather like
-    talking about the Celtic or the Anglo-Saxon colonisations of Britain as being carried out by speakers of
-    Indo-European languages.
+[7]   Some archaeologists and molecular biologists tend to talk of Austronesian speakers, rather than
+Oceanic speakers, settling Melanesia and Polynesia. This is correct but unnecessarily vague. It is
+rather like talking about the Celtic or the Anglo-Saxon colonisations of Britain as being carried out
+by speakers of Indo-European languages.
 
 26   Andrew Pawley
 
@@ -1068,7 +1071,7 @@ Oceanic speaking communities were widely scattered over this region. More than 7
 findspots with Lapita pottery are known from the Bismarcks. But not all Lapita pottery
 users in the Bismarcks were Oceanic speakers. Pots certainly found their way into non-
 Austronesian communities, as exchange or trade goods. Only those sites that exhibit a
-range of features diagnostic of the full Lapita cultural complex—some 20 or so sites—can
+range of features diagnostic of the full Lapita cultural complex — some 20 or so sites — can
 be confidently associated with speakers of an Oceanic language.
 
     Permanent early Lapita settlements in the Bismarcks were largely confined to small
@@ -1099,8 +1102,8 @@ near the eastern tip of New Britain. Here the Lapita sequence does not begin unt
 stage of decoration, starting some time after 2600 BP, and continues for around 800 years,
 by which time it is giving way to a new cultural tradition. A number of Lapita settlements,
 with earliest dates of around 3300–3200 BP, have been located on the Arawe Islands, a
-group of some 40 small islands just off the southwest coast of New Britain (Specht &
-Gosden 1997). All the open sites occur on the protected leeward sides of the islands where
+group of some 40 small islands just off the southwest coast of New Britain (Specht & Gosden 1997).
+All the open sites occur on the protected leeward sides of the islands where
 sandy beach ridges have built up over the last few thousand years. Finding Lapita sites on
 the north side of New Britain has been made difficult by the effects of large volcanic
 eruptions. A massive eruption by Mt Witori about 3600 years ago destroyed pre-Lapita
@@ -1147,8 +1150,8 @@ dispersed Lapita communities in the Bismarcks. The early Lapita period, from abo
 to 3000 BP, was a time of intensive exchange. Mussau, which evidently occupied a central
 position in the exchange network, shows a considerable range of imported goods in this
 period: trade in obsidian, chert, oven stones and adzes. In the centuries that followed there
-was much less interaction and more regional specialisation within the Bismarcks (Kirch
-1997:242, Summerhayes 2000a, 2001).
+was much less interaction and more regional specialisation within the Bismarcks
+(Kirch 1997:242, Summerhayes 2000a, 2001).
 
     From the conjunction of the evidence from historical linguistics and archaeology we
 conclude that Proto Oceanic was spoken on those islands where early classical Lapita sites
@@ -1158,36 +1161,37 @@ contact with each other for several centuries after their foundation.
 
 [8] George Grace argued some 40 years ago (Grace 1961, 1964) that the immediate ancestor of the Oceanic
   languages was probably spoken within a zone bounded by the north coast of New Guinea in the south and
-  the Bismarck Archipelago in the north. At that time his chief grounds were then current ideas about the
-  genetic classification of the Austronesian languages and what was known of the prehistory of Southeast
-  Asia and the Pacific. Since Grace’s initial proposal our understanding of the subgrouping of the
-  Austronesian family as a whole and of the Oceanic branch has advanced a good deal. These advances
-  have broadly supported and strengthened his hypothesis. Some years later, I suggested (Pawley 1981) that
-  in its final stage Proto Oceanic consisted of an extensive dialect chain, probably extending from New
-  Britain and New Ireland to San Cristobal in the eastern Solomons. The arguments were based on several
-  factors: (i) the geographic distribution of subgroups, which showed many (apparent) primary subgroups
-  scattered across Melanesia, (ii) assumptions about the settlement patterns, social organisation and
-  behaviour of early Oceanic speakers (settling mainly on coasts and small islands, with kingroups
-  dispersing but remaining in contact for some generations, (iii) assumptions about the voyaging technology
-  and capabilities and (iv) archaeological dating of the spread of the Lapita culture, indicating that this
-  culture was carried rapidly across Melanesia in the 2nd millennium BC. That paper may have
-  overestimated the extent of the dialect chain, but it did bring up the question: If there was an extensive
-  dialect chain, how can we decide at what point Proto Oceanic broke up?
-       Malcolm Ross (1988) proposed a more specific dispersal centre for Proto Oceanic, namely the region
-  east of the Talasea Peninsula on the north coast of New Britain. This now appears too specific. It might be
-  proposed that this region has stronger claims to be the homeland of the Western Oceanic subgroup before
-  its dispersal over New Britain, New Ireland, the western Solomons and the New Guinea mainland.
-  However, I believe that such a proposal would be open to the same objection as the previous one. Ross
-  holds that Proto Western Oceanic was not a well-defined subgroup but a dialect chain, specifically that
-  part of the Proto Oceanic dialect chain that was left in the New Britain-New Ireland region when Oceanic
-  speakers moved out of the Bismarcks and into Remote Oceania. But if Proto Oceanic speakers were
-  already widely dispersed across the New Britain-New Ireland region at this point, as I have argued, then
-  the later Western Oceanic dialect chain would also have extended over this region.
+  the Bismarck Archipelago in the north. At that time his chief grounds were then current ideas about
+  the genetic classification of the Austronesian languages and what was known of the prehistory of
+  Southeast Asia and the Pacific. Since Grace’s initial proposal our understanding of the subgrouping
+  of the Austronesian family as a whole and of the Oceanic branch has advanced a good deal. These
+  advances have broadly supported and strengthened his hypothesis. Some years later, I suggested
+  (Pawley 1981) that in its final stage Proto Oceanic consisted of an extensive dialect chain,
+  probably extending from New Britain and New Ireland to San Cristobal in the eastern Solomons. The
+  arguments were based on several factors: (i) the geographic distribution of subgroups, which showed
+  many (apparent) primary subgroups scattered across Melanesia, (ii) assumptions about the settlement
+  patterns, social organisation and behaviour of early Oceanic speakers (settling mainly on coasts and
+  small islands, with kingroups dispersing but remaining in contact for some generations, (iii)
+  assumptions about the voyaging technology and capabilities and (iv) archaeological dating of the
+  spread of the Lapita culture, indicating that this culture was carried rapidly across Melanesia in
+  the 2nd millennium BC. That paper may have overestimated the extent of the dialect chain, but it did
+  bring up the question: If there was an extensive dialect chain, how can we decide at what point
+  Proto Oceanic broke up? Malcolm Ross (1988) proposed a more specific dispersal centre for Proto
+  Oceanic, namely the region east of the Talasea Peninsula on the north coast of New Britain. This now
+  appears too specific. It might be proposed that this region has stronger claims to be the homeland
+  of the Western Oceanic subgroup before its dispersal over New Britain, New Ireland, the western
+  Solomons and the New Guinea mainland. However, I believe that such a proposal would be open to the
+  same objection as the previous one. Ross holds that Proto Western Oceanic was not a well-defined
+  subgroup but a dialect chain, specifically that part of the Proto Oceanic dialect chain that was
+  left in the New Britain-New Ireland region when Oceanic speakers moved out of the Bismarcks and into
+  Remote Oceania. But if Proto Oceanic speakers were already widely dispersed across the New
+  Britain-New Ireland region at this point, as I have argued, then the later Western Oceanic dialect
+  chain would also have extended over this region.
 
 28    Andrew Pawley
 
 
-   In Pawley (1981:295–296)) I discussed mechanisms that may have been central to the
+   In Pawley (1981:295–296) I discussed mechanisms that may have been central to the
 maintenance of regular contact, or, conversely, loss of contact among dispersed sister
 speech communities during the diaspora of Oceanic-speaking peoples. I suggested that a
 certain ‘cycle of linguistic diversification’ had been repeated in various parts of Melanesia.
@@ -1198,6 +1202,7 @@ certain ‘cycle of linguistic diversification’ had been repeated in various p
 |      political ambitions of leaders, and very likely, a love of adventure and exploration
 |      common to hardy pioneering colonials. For a time the sister communities regarded
 |      themselves as people of one stock.
+
 |      As the centuries passed, however, contacts between scattered sister communities
 |      tended to become relatively less important and less frequent. Adaptive changes in
 |      social and economic life led to … a weakening of the lines of communication …
@@ -1208,8 +1213,9 @@ certain ‘cycle of linguistic diversification’ had been repeated in various p
 |      exchanges with remote sister communities led in turn to an impairment of the
 |      traditional skills of canoe-building and sailing. In many regions other cultural losses
 |      (or substitutions) went along with these changes: loss of pottery-making tradition,
-|      loss of hereditary chieftainship and the concomitant system of hierchically ranked
+|      loss of hereditary chieftainship and the concomitant system of hierachically ranked
 |      kin and lineages …
+
 |      … As the dialects of sister speech communities became more and more dissimilar,
 |      their speakers more numerous and their common ties and interests weaker, …
 |      innovations did not spread as readily as before … [L]inguistic change could work
@@ -1240,6 +1246,7 @@ be noted.
       finds of single potsherds. The Siassi site represents ‘a relatively late and seemingly
       ephemeral Lapita occupation’ (Spriggs 1997a:118). It must be admitted, however,
       that little archaeological work has been done on the offshore islands.
+
 (ii) If Proto Oceanic speaking communities existed on parts of the north coast of New
      Guinea and nearby islands they have left no descendants. All the indications are
      that the contemporary Oceanic languages spoken along the central north coast from
@@ -1285,11 +1292,12 @@ remarks by Blust (1998a:185–186):
 |      reason why it would have been. Many small islands off the coast of New Guinea
 |      would have been encountered earlier, and by following the coast of the main island,
 |      the first transition to another major landmass would have taken the settlers to New
-|      Britain and New Ireland before they encountered the Admiralties ... From the
+|      Britain and New Ireland before they encountered the Admiralties … From the
 |      probable settlement route, we would expect the greatest diversity within [Broad
 |      Oceanic] to be found on the north coast of New Guinea. But what we find is actually
-|      quite different: languages that reflect the merger of PMP *j and *s are found as far
+|      quite different: languages that reflect the merger of PMP _*j_ and _*s_ are found as far
 |      west as the Sarmi Coast of Irian.
+
 |      … This observation suggests that the linguistic history of Austronesian speakers in
 |      western Melanesia must have included episodes of extinction as well as episodes of
 |      expansion. At an earlier time, languages that preserved PMP *j as a distinct phoneme
@@ -1313,7 +1321,6 @@ cease to flow between the dialects. However, problems arise in applying this pri
 because innovations tend to spread across a dialect chain in irregular patterns, such that
 some changes appear in dialects AB, others in BC, others in CD, and so on.
 
-
 [9] See Ross (1988:21) for some traces of ancient loans from a Pre-Oceanic source in Papuan languages of
   Madang Province.
 
@@ -1326,17 +1333,17 @@ occurred around 3100 BP (Green pers. comm.). It is almost inconceivable that suc
 settlements could have maintained a level of interaction with communities in the
 Bismarcks that would have been sufficient for linguistic innovations to flow between them.
 It is possible that, by this time or earlier, such a degree of separation existed between the
-Admiralties and the rest of the Bismarcks, but it impossible to be confident about this.
+Admiralties and the rest of the Bismarcks, but it is impossible to be confident about this.
 Ross (1988) has discussed at some length the evidence for dialect variation in late Proto
 Oceanic.
 
     There are good reasons to think that the speech of colonists who first settled Vanuatu,
 New Caledonia, Fiji and West Polynesia had changed little from Proto Nuclear Oceanic as
 it was spoken in the Bismarcks. First, a representative sample of languages from Remote
-Oceania yields reconstructions of a proto-phonology and a proto-morphosyntax (Pawley
-1972, Clark 1973) that differ only slightly from reconstructions based on a sample
-representing the entire Oceanic subgroup (Blust 1978b, Evans 2003, Lynch, Ross &
-Crowley 2002, Ross 1998a). Second, the internal classification of Oceanic points to a rapid
+Oceania yields reconstructions of a proto-phonology and a proto-morphosyntax
+(Pawley 1972, Clark 1973) that differ only slightly from reconstructions based on a sample
+representing the entire Oceanic subgroup (Blust 1978b, Evans 2003, Lynch,
+Ross & Crowley 2002, Ross 1998a). Second, the internal classification of Oceanic points to a rapid
 linguistic movement from Near Oceania across the southwest Pacific as far east as Fiji and
 Western Polynesia. There are no well-defined higher-order groups of Oceanic whose
 distribution points to a significant pause in the chain of expansion from the Bismarcks to
@@ -1371,7 +1378,6 @@ rare, although New Britain has a number, including several crater lakes.
 Map 7: The Bismarck Archipelago, Bougainville and the adjacent coast of New Guinea
 
                                                                Locating Proto Oceanic      33
-
 
     Cyclones are common in the southeast Solomons and occur as far north as
 Bougainville. However, the Bismarck Archipelago lies in a sheltered band between N and
@@ -1452,7 +1458,6 @@ there.
 3               The landscape
 
 
-
 3.1 Introduction
 
    This chapter and the following one are an attempt to discover something of the way in
@@ -1468,33 +1473,33 @@ when it is part of a topographical feature.[1] Seascape is dealt with in the fol
 people of the Trobriand Islands, a coral atoll system consisting of one big island
 (Kiriwina), two of moderate size, and a number of smaller ones surrounding a shallow
 lagoon. Kiriwina is flat, with no hills or mountains. The Kiriwina word for ‘mountain’ is
-koya, usually in reference to distant mountains on D’Entrecasteaux Islands occasionally
+_koya_, usually in reference to distant mountains on D’Entrecasteaux Islands occasionally
 visible in the south. Malinowski’s description of the settled environment is centred on an
-origin myth ‘hole of emergence’ [bwala], which is the basis of their land tenure system.
+origin myth ‘hole of emergence’ [_bwala_], which is the basis of their land tenure system.
 Terms or descriptions in square brackets have been added from elsewhere in the text.
 
-|       With such a hole of emergence there is always connected a village [valu], or part of a
+|       With such a hole of emergence there is always connected a village [_valu_], or part of a
 |       village, and a territory, or what we might call an assortment of lands, both of which
 |       belong to the people who came out of the hole. As a rule this comprises some waste
-|       land [kaibutia ‘barren land, useless for gardening’], a tabooed grove or two [boma], a
-|       portion of the rayboag [the narrow coral ridge] and perhaps one or two fields in the
-|       dumya ([inland] swamps); in every case it includes a large portion of cultivable bush
-|       (odila), divided into a number of fields [kubila], which are subdivided into plots.
+|       land [_kaibutia_ ‘barren land, useless for gardening’], a tabooed grove or two [_boma_], a
+|       portion of the _rayboag_ [the narrow coral ridge] and perhaps one or two fields in the
+|       _dumya_ ([inland] swamps); in every case it includes a large portion of cultivable bush
+|       (_odila_), divided into a number of fields [_kubila_], which are subdivided into plots.
 |       Those villages which are near the open sea own a part of the eastern seashore
-|       (momola) with a fishing and bathing beach and a few sheds for their canoes. On the
-|       lagoon the beach is called kavolawa and here canoes are kept. Thus a hole of
+|       (_momola_) with a fishing and bathing beach and a few sheds for their canoes. On the
+|       lagoon the beach is called _kavolawa_ and here canoes are kept. Thus a hole of
 |       emergence is always the centre of a contingent territory which encloses a village or
-|        part of it, and affords the following economic opportunities to its members: access to
-|        fertile, cultivable soil, invariably; at times access to navigation and fishing areas; a
-|        certain district for recreation and, of course, a system of roads communicating with
-|        other villages. (1935:343)
+|       part of it, and affords the following economic opportunities to its members: access to
+|       fertile, cultivable soil, invariably; at times access to navigation and fishing areas; a
+|       certain district for recreation and, of course, a system of roads communicating with
+|       other villages. (1935:343)
 
 [1] Thanks are due to Ann Chowning, Ralph Lawton, John Lynch, Françoise Ozanne-Rivierre and Ian Scales
   who have all made useful suggestions and contributed additional data to this chapter.
 
 36     Meredith Osmond, Andrew Pawley and Malcolm Ross
 
-   A second example is from Edvard Hviding’s Guardians of Marovo Lagoon, an account
+   A second example is from Edvard Hviding’s _Guardians of Marovo Lagoon_, an account
 of the way of life of the Marovo speaking people from New Georgia in the western
 Solomons (Hviding 1996). The lagoon itself is vast, a largely enclosed area of shallow sea
 strewn with islands and reef patches and rimmed by barrier reef islands. It lies on the
@@ -1504,15 +1509,12 @@ agriculture and marine fishing. ‘Important dietary supplements are provided by
 focused on feral pigs, birds and marsupials in the rainforest, and by gathering shellfish
 from the reefs and mangroves, as well as nuts, fruits and leafy greens from garden fallows
 and forests’ (p.42). The main zones of local environmental classification are shown in
-Figure 2. They represent the puava or ancestral territories of a kinship group (butubutu) to
-which Marovo people belong. Puava has both a restricted sense, ‘soil, ground’ and a
+Figure 2. They represent the _puava_ or ancestral territories of a kinship group (_butubutu_) to
+which Marovo people belong. _Puava_ has both a restricted sense, ‘soil, ground’ and a
 general one, the latter encompassing the total ancestral estate, reaching ‘from the peaks and
 ridges of the mainland upper mountains to the open sea outside the barrier reef’ (p.137).
 
-
-
-
-                                 Figure 2: Marovo coastal profile
+Figure 2: Marovo coastal profile
      (reproduced from Hviding 1996:138 with the permission of the University of Hawai’i Press)
 
    The next two examples are from Malaita in the Southeast Solomons. Walter Ivens
@@ -1525,32 +1527,32 @@ adjacent land on Malaita for their gardens. Ivens writes (1930:266):
 
                                                                                 The landscape       37
 
-|     Land in the vicinity of the beach is called hara. Flat sandy land just above the beach is
-|     called nuu. Breadfruit and certain other fruit trees grow there. The lower foothills are
-|     known as fafo asi (lit. ‘above the sea’), and it is there that people have their taro
-|     gardens. Garden ground, as distinct from uncleared forest, is called gano; gano alu is
-|     old garden ground that is not yet ready for planting, ground .. that has not yet been
-|     rested sufficiently. Virgin forest is kwaena.
+|     Land in the vicinity of the beach is called _hara_. Flat sandy land just above the beach is
+|     called _nuu_. Breadfruit and certain other fruit trees grow there. The lower foothills are
+|     known as _fafo asi_ (lit. ‘above the sea’), and it is there that people have their taro
+|     gardens. Garden ground, as distinct from uncleared forest, is called _gano_; _gano alu_ is
+|     old garden ground that is not yet ready for planting, ground … that has not yet been
+|     rested sufficiently. Virgin forest is _kʷaena_.
 
 Ivens’ second example is that of Sa’a, and its close neighbour, Ulawa, in the south-east of
 Malaita. The two share an almost identical language. Ivens writes (1927 [reissued
 1972]:357–358):
 
-|     The sandy soil just above the beach is called uluone [ulu ‘head’ + one ‘sand’], and on
-|     this soil the coconuts grow best. .. At the back of this tract of sandy soil is the pwainaa,
-|     subject to flooding and with a black soil. .. The fruit trees abound in this tract. Ulawa
-|     calls the upper part of this by the name akohu; it is less wet in character. The land rises
-|     immediately behind the pwainaa .. to the next district, pwaʔu. The meaning of this word
-|     is ‘smoke’.. At Sa’a, the upper division of pwaʔu is called lapwa, from the undergrowth
-|     there of the fern of the same name. The land up higher still is called in Sa’a ano mola
-|     [‘earth’ + ‘only’, i.e. earth with no rocks or stones], and in Ulawa kalona. .. Another
-|     term applied to the sandy soil of the old beaches is ʔoʔu. In some places the land
-|     immediately under the first ridge of upheaved coral rocks is called ote; the trees in the
-|     ote grow to a very large size, especially the teak, nau, and the awa, nephelium
-|     pinnatum. The ote ground is generally wet owing to soakage from the hills.
+|     The sandy soil just above the beach is called _uluone_ [_ulu_ ‘head’ + _one_ ‘sand’], and on
+|     this soil the coconuts grow best … At the back of this tract of sandy soil is the _pwainaa_,
+|     subject to flooding and with a black soil … The fruit trees abound in this tract. Ulawa
+|     calls the upper part of this by the name _akohu_; it is less wet in character. The land rises
+|     immediately behind the _pwainaa_ … to the next district, _pwaʔu_. The meaning of this word
+|     is ‘smoke’ … At Sa’a, the upper division of _pwaʔu_ is called _lapwa_, from the undergrowth
+|     there of the fern of the same name. The land up higher still is called in Sa’a _ano mola_
+|     [‘earth’ + ‘only’, i.e. earth with no rocks or stones], and in Ulawa _kalona_ … Another
+|     term applied to the sandy soil of the old beaches is _ʔoʔu_. In some places the land
+|     immediately under the first ridge of upheaved coral rocks is called _ote_; the trees in the
+|     _ote_ grow to a very large size, especially the teak, _nau_, and the _awa_,
+|     Nephelium pinnatum. The _ote_ ground is generally wet owing to soakage from the hills.
 
    Our last example is of the small high island of Tikopia, as described by Raymond Firth
-in his volume We, the Tikopia (1957). Tikopia is one of the Polynesian outliers, lying
+in his volume _We, the Tikopia_ (1957). Tikopia is one of the Polynesian outliers, lying
 northeast of the Banks and Torres Islands, Vanuatu. In form it is a small, compact oval
 roughly four kilometres by three, and at the time of Firth’s fieldwork in 1928–29 it
 supported a population of just under 1300. It is likely that every surface feature of any
@@ -1559,40 +1561,40 @@ significance would be known in detail. Firth provides two maps, reproduced here 
 as villages, springs and tracks.
 
    From Map 8(a) we can see that the mountains in the north of the island are simply
-Mauŋa, ‘mountain’, with the bulk of the tallest, Reani, labelled Mauŋa Lasi (‘great
-mountain’). The crest itself is termed Te Uru o te Fenua (‘the head of the land’) (p.27).
+_Mauŋa_, ‘mountain’, with the bulk of the tallest, Reani, labelled _Mauŋa Lasi_ (‘great
+mountain’). The crest itself is termed _Te Uru o te Fenua_ (‘the head of the land’) (p.27).
 The large lake in the centre of the island, a former crater lake and not a lagoon, is simply
-Te Roto (literally ‘middle, interior’), or more familiarly Te Vai (‘fresh water’) (p.23). Firth
+_Te Roto_ (literally ‘middle, interior’), or more familiarly _Te Vai_ (‘fresh water’) (p.23). Firth
 explains that the water is fresh because the apparent channel linking the lake to the sea is
 normally silted up, but may be dug out at certain seasons of the year when the lake is full
 from rain and the tide is high, to allow excess lake waters to flow down to the sea (p.25).
-The sand bar separating the lake from the sea on its eastern side is Te Koro (‘barrier of
+The sand bar separating the lake from the sea on its eastern side is _Te Koro_ (‘barrier of
 sand or stone against the sea’). Two rocky pinnacles which are all that remain of the
-former eastern wall of the crater, are Foŋa te Koro (‘top of the Koro’) and Foŋa Nuku (‘top
+former eastern wall of the crater, are _Foŋa te Koro_ (‘top of the Koro’) and _Foŋa Nuku_ (‘top
 of the settlement’). Breaks in the reef which enable canoes to pass to the open ocean are
-simply Te Ava (‘channels in the reef’). A large rock off the west coast is Fatu roa (‘tall
-rock’), while two small rocky outcrops in the east are Rua motu (‘two islets’). Sometimes
-included in place names are modifying terms like tua ‘back’, tafa ‘side’, foŋa ‘top, crown’
-and muri ‘behind’. There are a number of springs named in both maps. These are referred
-to as Vai followed by a diferentiating name. The swampy area to the south is Te Ropera, a
-word whose etymology, Firth suggests (p.332) is roto pela [or pera], literally ‘middle
-mud’. Along the northern coast are cliffs, mato, (p.27) and caves or rock shelters, ana
+simply _Te Ava_ (‘channels in the reef’). A large rock off the west coast is _Fatu roa_ (‘tall
+rock’), while two small rocky outcrops in the east are _Rua motu_ (‘two islets’). Sometimes
+included in place names are modifying terms like _tua_ ‘back’, _tafa_ ‘side’, _foŋa_ ‘top, crown’
+and _muri_ ‘behind’. There are a number of springs named in both maps. These are referred
+to as _Vai_ followed by a diferentiating name. The swampy area to the south is _Te Ropera_, a
+word whose etymology, Firth suggests (p.332) is _roto pela_ [or _pera_], literally ‘middle
+mud’. Along the northern coast are cliffs, _mato_, (p.27) and caves or rock shelters, _ana_
 (p.23) (these last not shown on the map).
 
 38    Meredith Osmond, Andrew Pawley and Malcolm Ross
 
 
     On Map 8(b) are names which loosely denote localities or districts, treated by Firth as
-proper names. For Ravenga and Faea, the two major divisions of the island, we can offer
-no explanation. But for three others, Namo, the point at which the lake exits to the sea, Uta
-at the western edge of the lake, and Tai, the flat plain of alluvial soil in the south which is
+proper names. For _Ravenga_ and _Faea_, the two major divisions of the island, we can offer
+no explanation. But for three others, _Namo_, the point at which the lake exits to the sea, _Uta_
+at the western edge of the lake, and _Tai_, the flat plain of alluvial soil in the south which is
 largely taken up by swamp, we can posit POc origins based on their physical nature
-(*namo ‘lagoon; enclosed water’, *qutan ‘bushland, hinterland’, *tasik ‘sea, salt water’).
+(_*namo_ ‘lagoon; enclosed water’, _*qutan_ ‘bushland, hinterland’, _*tasik_ ‘sea, salt water’).
 
-    In his discussion of land tenure (p.332), Firth refers to the tofi, areas of mixed woodland
+    In his discussion of land tenure (p.332), Firth refers to the _tofi_, areas of mixed woodland
 and clearing of varying size for which he adopts the translation ‘orchard’. Then there are
-the vao, open stretches of ground which are planted in taro, which he refers to as ‘gardens’.
-Paths, ara, run through orchards and gardens.
+the _vao_, open stretches of ground which are planted in taro, which he refers to as ‘gardens’.
+Paths, _ara_, run through orchards and gardens.
 
     Although these examples include many terms for which we can find no cognates, the
 features they label have much in common. They represent the places where most of the
@@ -1602,8 +1604,8 @@ islands and the open sea beyond.
 
     A number of the nouns reconstructed in this chapter and the next functioned as both
 common nouns and as local nouns, as their modern reflexes continue to do. For example,
-*qutan as a common noun denoted the bush or bushland, while its local-noun use in the
-prepositional phrase *i qutan could have either the expected sense ‘in the bush’ or the
+_*qutan_ as a common noun denoted the bush or bushland, while its local-noun use in the
+prepositional phrase _*i qutan_ could have either the expected sense ‘in the bush’ or the
 directional sense ‘(up) inland’. For further discussion and reconstruction of local-noun
 senses, see Chapter 8, §2.
 
