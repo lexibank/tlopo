@@ -1,6 +1,12 @@
        Abbreviations
 
-
+[9] Abbreviations used in glosses are as follows: 1, 2, 3 first, second and third persons; ADN adnominal;
+  ADV adverb; ART article; AUX auxiliary; COM common; CSTR construction marker; D: disjunctive
+  pronoun; DEM demonstrative; DIR direction, directional; E exclusive; ENCL enclitic; HYP hypothetical;
+  I inclusive; IMPF imperfective; IRR irrealis; LOC local, locative; N noun; O: object pronoun; PERS
+  personal; PL plural; P: possessor pronoun; PLC placename; PREP preposition; PREPV prepositional
+  verb; PRO pronoun; R relator; REAL realis; REL relative clause marker; SEQ sequential; SG singular; S:
+  subject pronoun; V verb; VF final verb.
 
 A        actor
 ACD      Blust, Robert A., 1998. Austronesian comparative dictionary.
