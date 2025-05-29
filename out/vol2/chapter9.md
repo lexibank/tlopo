@@ -14,48 +14,48 @@ The kinds of time and duration expressions that we might expect to find in a lan
 
 <a id="p-296"></a>
 
-The rest of this introduction explains this categorisation. The reader is asked to forgive the immediate introduction of two pieces of syntactic jargon, as they are indispensable to this explanation. Times and durations can be expressed in most (if not all) languages as syntactic time adjuncts, e.g. He came last week and stayed for two days or He was sick yesterday. In many languages these adjuncts interact with the semantics of the predicate, e.g. came, stayed or was sick to produce the temporal meaning of the sentence.
+The rest of this introduction explains this categorisation. The reader is asked to forgive the immediate introduction of two pieces of syntactic jargon, as they are indispensable to this explanation. Times and durations can be expressed in most (if not all) languages as syntactic time __adjuncts__, e.g. _He came __last week__ and stayed __for two days___ or _He was sick __yesterday___. In many languages these adjuncts interact with the semantics of the __predicate__, e.g. ___came___, ___stayed___ or ___was sick__ to produce the temporal meaning of the sentence.
 
-One such interaction is illustrated in English sentences with the time adjunct yesterday. In He worked yesterday or He was sick yesterday, the event lasts for a period of time—for all or part of yesterday. But in He came yesterday, the event is to all intents and purposes punctiliar and yesterday is construed as a point in time.[^1] Because many time expressions can be construed as denoting either a point of time or a period of time, no attempt is made under 1 to distinguish between points and periods: both are treated simply as ‘times’.
+One such interaction is illustrated in English sentences with the time adjunct _yesterday_. In _He worked __yesterday___ or _He was sick __yesterday___, the event lasts for a period of time — for all or part of _yesterday_. But in _He came __yesterday___, the event is to all intents and purposes punctiliar and _yesterday_ is construed as a point in time.[^1] Because many time expressions can be construed as denoting either a point of time or a period of time, no attempt is made under 1 to distinguish between points and periods: both are treated simply as ‘times’.
 
-There is a clear distinction, however, between the time expressions in 1 and the duration expressions in 2. A duration expression denotes a period which begins at one point in time and ends at another. Thus I can say He worked from midday until midnight or He was sick from midday until midnight but not &ast;He arrived from midday until midnight. Some predicates of punctiliar meaning do co-occur with a duration expression, but the duration enforces a durative or an iterative construal of the predicate. Thus if I say He came from midday until midnight, this is nonsensical as a punctiliar event, but may mean He came and stayed from midday until midnight. If I say The light flashed at midnight or The light flashed until dawn, it is the adjunct which determines how the predicate is construed. Flash is semantically punctiliar and at midnight is a time which can be read as punctiliar, so the light flashed only once. But until dawn denotes a duration, so The light flashed is construed as being iterative: the light flashed repeatedly ([Jackendoff 1991](../references.md#source-Jackendoff1991):40–42).
+There is a clear distinction, however, between the time expressions in 1 and the duration expressions in 2. A duration expression denotes a period which begins at one point in time and ends at another. Thus I can say _He worked __from midday until midnight___ or _He was sick __from midday until midnight___ but not _&ast;He arrived __from midday until midnight___. Some predicates of punctiliar meaning do co-occur with a duration expression, but the duration enforces a durative or an iterative construal of the predicate. Thus if I say _He came from __midday until midnight___, this is nonsensical as a punctiliar event, but may mean _He came and stayed __from midday until midnight___. If I say _The light flashed __at midnight___ or _The light flashed __until dawn___, it is the adjunct which determines how the predicate is construed. _Flash_ is semantically punctiliar and _at midnight_ is a time which can be read as punctiliar, so the light flashed only once. But _until dawn_ denotes a duration, so _The light flashed_ is construed as being iterative: the light flashed repeatedly ([Jackendoff 1991](../references.md#source-Jackendoff1991):40–42).
 
-The duration expressions in the previous paragraph all entail, explicitly or implicitly (for until dawn, see below), a beginning point and an end point, but other duration expressions, are specified as a length of time: for six nights or for a long time.
+The duration expressions in the previous paragraph all entail, explicitly or implicitly (for _until dawn_, see below), a beginning point and an end point, but other duration expressions, are specified as a length of time: _for six nights_ or _for a long time_.
 
-In English, times—and the beginnings and ends of durations—may be absolute or they may be deictic. Absolute expressions are, for example, in 1999 or on 3rd May 2001. In terms of token frequency, however, the vast majority of English time expressions are deictic, i.e., relative to the time of speaking or to some other point of time internal to the discourse which is readily recognised by the addressee.[^2] Thus recently, this morning, tomorrow, two days ago and last year are construed relative to the time of speaking, whilst earlier, that morning, the next day, two days before and the previous year are construed relative to some point of time internal to the discourse. Now can be construed either way. Either the beginning or the end point of a duration may be deictically specified: since Monday and until tomorrow mean that ‘now’ is respectively the end point and the beginning point of the time period.
+In English, times — and the beginnings and ends of durations — may be absolute or they may be deictic. Absolute expressions are, for example, _in 1999_ or _on 3rd May 2001_. In terms of token frequency, however, the vast majority of English time expressions are deictic, i.e., relative to the time of speaking or to some other point of time internal to the discourse which is readily recognised by the addressee.[^2] Thus _recently_, _this morning_, _tomorrow_, _two days ago_ and _last year_ are construed relative to the time of speaking, whilst _earlier_, _that morning_, _the next day_, _two days before_ and _the previous year_ are construed relative to some point of time internal to the discourse. _Now_ can be construed either way. Either the beginning or the end point of a duration may be deictically specified: _since Monday_ and _until tomorrow_ mean that ‘now’ is respectively the end point and the beginning point of the time period.
 
 
 <a id="p-297"></a>
 
-English also has generic time expressions like in the mornings and on weekdays. Many undirected expressions (1a) which at first sight appear to be absolute are in fact either deictic or generic, according to context. Expressions like at midnight, on Tuesday or at six o’clock may specify a point of time, but, as I noted above, their temporal direction—past or future—is specified by the predicate tense. And such expressions may also be used generically: The bell rings at midnight.
+English also has generic time expressions like _in the mornings_ and _on weekdays_. Many undirected expressions (1a) which at first sight appear to be absolute are in fact either deictic or generic, according to context. Expressions like _at midnight_, _on Tuesday_ or _at six o’clock_ may specify a point of time, but, as I noted above, their temporal direction — past or future — is specified by the predicate tense. And such expressions may also be used generically: _The bell rings at midnight_.
 
-Implicit in the previous two paragraphs is the fact that some lexical items used in time expressions denote parts of cycles. In English, at least, midnight, morning and six o’clock are parts of the cycle represented by a day, day or Tuesday a part of the cycle represented by a week, Autumn or September a part of the cycle represented by a year. Such cycles are the basis of calendars. However, it is important to distinguish between arbitrary and natural calendrical units. Although the western (Gregorian) calendar grew out of a nature-based calendar, its units today are arbitrary in that they have boundaries which bear, at best, a quite indirect relationship to natural cycles. Thus midnight, six o’clock, day (as a unit stretching from midnight to midnight), Tuesday and September are all arbitrary points or units. Thus a calendrical year begins (arbitrarily) on 1st January and ends on 31st December and is made up of arbitarily named calendrical months that occur in a fixed order. A calendrical month is made up (in the Gregorian calendar) of a predetermined number of sequentially numbered calendrical days.
+Implicit in the previous two paragraphs is the fact that some lexical items used in time expressions denote parts of cycles. In English, at least, _midnight_, _morning_ and _six o’clock_ are parts of the cycle represented by a day, _day_ or _Tuesday_ a part of the cycle represented by a week, _Autumn_ or _September_ a part of the cycle represented by a year. Such cycles are the basis of calendars. However, it is important to distinguish between arbitrary and natural calendrical units. Although the western (Gregorian) calendar grew out of a nature-based calendar, its units today are arbitrary in that they have boundaries which bear, at best, a quite indirect relationship to natural cycles. Thus _midnight_, _six o’clock_, _day_ (as a unit stretching from midnight to midnight), _Tuesday_ and _September_ are all arbitrary points or units. Thus a calendrical year begins (arbitrarily) on 1st January and ends on 31st December and is made up of arbitarily named calendrical months that occur in a fixed order. A calendrical month is made up (in the Gregorian calendar) of a predetermined number of sequentially numbered calendrical days.
 
-The only natural units observed on a day-to-day basis by western English-speaking societies in the temperate zones are the seasons. Autumn is a natural unit (for most English- speakers it does not even have clear natural boundaries, but this is a different matter: a natural unit may have a defined boundary, as we will see below). The natural calendrical units that concern us in connection with Oceanic languages are essentially based on four kinds of cycle: horticultural, floral/faunal, meteorological and astronomical. A cyclic unit, incidentally, does not necessarily have defined boundaries. There is a distinction in English between last year, where year is a calendrical unit, and a year ago, where year is a length of time ([Leech 1969](../references.md#source-Leech1969):113–114). The same can be true of months and days.
+The only natural units observed on a day-to-day basis by western English-speaking societies in the temperate zones are the seasons. _Autumn_ is a natural unit (for most English-speakers it does not even have clear natural boundaries, but this is a different matter: a natural unit may have a defined boundary, as we will see below). The natural calendrical units that concern us in connection with Oceanic languages are essentially based on four kinds of cycle: horticultural, floral/faunal, meteorological and astronomical. A cyclic unit, incidentally, does not necessarily have defined boundaries. There is a distinction in English between _last year_, where _year_ is a calendrical unit, and _a year ago_, where _year_ is a length of time ([Leech 1969](../references.md#source-Leech1969):113–114). The same can be true of months and days.
 
-Absolute time expressions in European languages involve a calendrical unit: in 1999 or on 3rd May 2001. Traditional Oceanic systems offered no equivalent to these, firstly because there was no labelling of years like 1999 and secondly because there appears to have been no use of units within units like on 3rd May 2001, a day of a month within a month of a labelled year. Traditional labels for months and days were used deictically as described above like in May or on Tuesday. This means that pre-contact Oceanic systems had no absolute time expressions.
+Absolute time expressions in European languages involve a calendrical unit: _in 1999_ or _on 3rd May 2001_. Traditional Oceanic systems offered no equivalent to these, firstly because there was no labelling of years like _1999_ and secondly because there appears to have been no use of units within units like _on 3rd May 2001_, a day of a month within a month of a labelled year. Traditional labels for months and days were used deictically as described above like _in May_ or _on Tuesday_. This means that pre-contact Oceanic systems had no absolute time expressions.
 
 Some Oceanic speaking communities, especially in Melanesia, apparently had nothing resembling a calendrical system. Others, in Micronesia and Polynesia, had naming systems based on lunar months, with names for the months of the year and sometimes names for every day of a lunar month. These systems, however, had not proceeded far along the path towards the arbitrariness of the Gregorian calendar. In some systems all or most of the month names have a recognisable meaning; in others the origins of the names seem to have been lost.[^3]
 
 
 <a id="p-298"></a>
 
-The implications of this discussion can be a little difficult for a western-trained mind to grasp: the fact that, e.g., a month was a cycle, not a unit, means that months were conceptualised as the passing of cycles, not as collections of countable units. [Whorf](../references.md#source-Whorf1956) ([1956](../references.md#source-Whorf1956):139) says that ten days in English is ‘an “imaginary”, mentally constructed group’— “imaginary” because it ‘cannot be objectively experienced’ like ‘ten men on a street corner’. [Foley](../references.md#source-Foley1997) ([1997](../references.md#source-Foley1997):205) comments on Whorf’s formulation that the use of a plural category to express the repetition of temporal cycles is a metaphorical extension from plural groupings of physical objects. Whorf says that the Hopi do not make this extension: if they count cycles at all, they do it with ordinal numbers: “first day”, “second day”, and so on.[^4] The situation in traditional Oceanic societies seems to have been similar. This extract from an oral account of Takia (Karkar Island, NNG) marriage practices as they were explained by an elderly man in 1987 contains similar insights:[^5]
+The implications of this discussion can be a little difficult for a western-trained mind to grasp: the fact that, e.g., a month was a cycle, not a unit, means that months were conceptualised as the passing of cycles, not as collections of countable units. [Whorf](../references.md#source-Whorf1956) ([1956](../references.md#source-Whorf1956):139) says that _ten days_ in English is ‘an “imaginary”, mentally constructed group’— “imaginary” because it ‘cannot be objectively experienced’ like ‘ten men on a street corner’. [Foley](../references.md#source-Foley1997) ([1997](../references.md#source-Foley1997):205) comments on Whorf’s formulation that the use of a plural category to express the repetition of temporal cycles is a metaphorical extension from plural groupings of physical objects. Whorf says that the Hopi do not make this extension: if they count cycles at all, they do it with ordinal numbers: “first day”, “second day”, and so on.[^4] The situation in traditional Oceanic societies seems to have been similar. This extract from an oral account of Takia (Karkar Island, NNG) marriage practices as they were explained by an elderly man in 1987 contains similar insights:[^5]
 
 > All right, and so they waited—in the old times they didn’t know about years. They always kept time by the moon. Thus when they wanted to set a time—when they wanted to set a time, they mentioned the month. But they also didn’t know the names of the months. The moon waned and waxed, that’s all. They would say the months in this way: they would count the months with their hands, they would count them with their fingers. And then they would say, the month of the little finger will come and will die, the next finger will die, and the next and in the fourth month the man and woman will get married. They said this—well—with regard to their saying that they would marry in four months …
 
-An English time adjunct may interact with the the tense of the predicate. In the sentences He came last night and He will come tonight the temporal direction (1b)—past or future—of the adjunct ‘agrees’ with the tense of the predicate. In He came at midnight and He will come at midnight, however, temporal direction is expressed only by the predicate tense: at midnight says nothing about temporal direction. If a language expresses the difference between past and future through the predicate, it will not necessarily be expressed in the adjunct. Conversely, if there is no tense difference in the predicate, then the adjunct may well express temporal direction.
+An English time adjunct may interact with the the tense of the predicate. In the sentences _He came __last night___ and _He will come __tonight___ the temporal direction (1b) — past or future — of the adjunct ‘agrees’ with the tense of the predicate. In _He came __at midnight___ and _He will come __at midnight___, however, temporal direction is expressed only by the predicate tense: _at midnight_ says nothing about temporal direction. If a language expresses the difference between past and future through the predicate, it will not necessarily be expressed in the adjunct. Conversely, if there is no tense difference in the predicate, then the adjunct may well express temporal direction.
 
-Aspect and mood categories are more widely distributed across major Oceanic subgroups than tense categories, and it is therefore probable that POc lacked tense but made extensive use of aspect and mood. Aspect included continuative/habitual, probably marked by reduplication of the verb stem, and completive (perhaps expressed by a serial verb construction ending in the verb ‘finish’). Mood distinguished realis and irrealis. Realis was used for past and present events considered to have occurred or to be occurring, irrealis for future events and all events considered not to have actually occurred (e.g. conditionals). From the lack of tense, we might expect temporal direction to be marked more often on time expressions than it is in English, and this is true in that the temporal prefix &ast;na- marks an expression as past (p.324).
+Aspect and mood categories are more widely distributed across major Oceanic subgroups than tense categories, and it is therefore probable that POc lacked tense but made extensive use of aspect and mood. Aspect included continuative/habitual, probably marked by reduplication of the verb stem, and completive (perhaps expressed by a serial verb construction ending in the verb ‘finish’). Mood distinguished realis and irrealis. Realis was used for past and present events considered to have occurred or to be occurring, irrealis for future events and all events considered not to have actually occurred (e.g. conditionals). From the lack of tense, we might expect temporal direction to be marked more often on time expressions than it is in English, and this is true in that the temporal prefix _&ast;na-_ marks an expression as past (p.324).
 
-Much play has been made in the linguistic literature of the idea that by metaphorical extension spatial relations form the model for other grammatical patterns ([Gruber 1965](../references.md#source-Gruber1965), [Anderson 1971](../references.md#source-Anderson1971), [Jackendoff 1976](../references.md#source-Jackendoff1976), 1983, 1991, 1992). This has often been emphasised with regard to time (H. [Clark 1973](../references.md#source-Clark1973), [Jackendoff 1983](../references.md#source-Jackendoff1983):189–193, [Jackendoff 1992](../references.md#source-Jackendoff1992)). However, when we examine the parallels between space and time in English (at the corner/at six o’clock, in Canberra/in 1999, from Sydney to Canberra/from Tuesday to Thursday), then look for them in Oceanic languages, we find that they do not loom nearly as large in Oceania because so many English parallels depend on the use of calendrical units. Even so, there are some parallels between space and time in Oceanic languages.
+Much play has been made in the linguistic literature of the idea that by metaphorical extension spatial relations form the model for other grammatical patterns ([Gruber 1965](../references.md#source-Gruber1965), [Anderson 1971](../references.md#source-Anderson1971), [Jackendoff 1976](../references.md#source-Jackendoff1976), 1983, 1991, 1992). This has often been emphasised with regard to time (H. [Clark 1973](../references.md#source-Clark1973), [Jackendoff 1983](../references.md#source-Jackendoff1983):189–193, [Jackendoff 1992](../references.md#source-Jackendoff1992)). However, when we examine the parallels between space and time in English (_at the corner_/ _at six o’clock_, _in Canberra_/_in 1999_, _from Sydney to Canberra_/_from Tuesday to Thursday_), then look for them in Oceanic languages, we find that they do not loom nearly as large in Oceania because so many English parallels depend on the use of calendrical units. Even so, there are some parallels between space and time in Oceanic languages.
 
 
 <a id="p-299"></a>
 
 Semantically, there is an analogy between the spatial domain and the temporal domain, if we take it that time is a line running from past to future through a deictic point, usually the time of speaking. However, the analogy is limited: space is three-dimensional, but time is only a single dimension. In this analogy, there are parallels between a specific location and a specific time, between generic location (‘at home’) and generic time (‘at night’), and between a path (‘from Sydney to Canberra’) and a duration (‘from midday until midnight’). These parallels are realised in Oceanic languages by the use of similar grammar for both domains (pp.320–321). More specifically, there is a deictic parallel between ‘here’ and ‘now’, but other deictic parallels are less obvious, especially in Oceania, where spatial deixis tends to be person-oriented ([Ch.8, §3.4.1](chapter8.md#s-3-4)).[^6] There is also a parallel between temporal directionality (past vs future) and geographic (e.g. ‘seawards’ vs ‘inland’, ‘up’ vs ‘down’) or intrinsic directionality (e.g. ‘to the back’ vs ‘to the front’), as well as between temporal distance (‘long ago’) and spatial distance (‘far away’). However, the distance parallels are limited, as expressions of spatial distance do not also involve direction, whereas expressions of temporal distance typically include past or future denotation (‘earlier’/‘later’). The spatial domain typically lacks anything analogous to the lexicalisation of temporal distances or times within natural cycles (‘today’ vs ‘yesterday’ vs ‘tomorrow’, ‘midnight’ vs ‘morning’ vs ’midday’).
 
-The remainder of this chapter is devoted to reconstructing temporal expressions. It is organised on the basis of the listing under ‘Time’, part A, of the list above. Part B of that list deals with duration. One would expect most duration expressions to be expressed grammatically, and at most a few like ‘for a little while’ and ‘for a long time’ to be lexicalised. However, I have been unable to reconstruct any lexicalised POc duration expressions. I have attempted to find a term for ‘time’ in the sense of duration (as in ‘for a long time’). Oceanic languages clearly have terms with this meanings, but they do not form a cognate set. A number of languages, however, use the reflex of POc &ast;boŋi (p.305) in this sense, and it is possible that this was a POc usage too.
+The remainder of this chapter is devoted to reconstructing temporal expressions. It is organised on the basis of the listing under ‘Time’, part A, of the list above. Part B of that list deals with duration. One would expect most duration expressions to be expressed grammatically, and at most a few like ‘for a little while’ and ‘for a long time’ to be lexicalised. However, I have been unable to reconstruct any lexicalised POc duration expressions. I have attempted to find a term for ‘time’ in the sense of duration (as in ‘for a long time’). Oceanic languages clearly have terms with this meanings, but they do not form a cognate set. A number of languages, however, use the reflex of POc _&ast;boŋi_ (p.305) in this sense, and it is possible that this was a POc usage too.
 
 
 <a id="s-2"></a>
@@ -76,7 +76,7 @@ In most Oceanic languages, the times of the day form a rough taxonomy, with the 
 
 <ol><li>night</li> <li>daytime <ol><li>early morning, from dawn to 9 or 10 a.m.</li> <li>middle of the day, from 9 or 10 a.m. to about 3 p.m.</li> <li>late afternoon and evening, from 3 p.m. to sunset</li> </ol></li> </ol>
 
-The first-order division is, as we might expect, into night and daytime. I have opted to put ‘night’ first, as POc &ast;boŋi ‘night’ also served as the word for the twenty-four hour period. In Fijian, for example, certain feasts have names like boŋi-lima, literally ‘five nights’, denoting the fact that they last five days. In Hawaiian (Pn), the day began at sunset, and this is perhaps the case elsewhere in Oceania. The Motu (PT) expression varani hanuaboi (‘yesterday’ + ‘night’) is interesting in this regard, as it means ‘two nights ago’. That is, the night belonging to yesterday is the one that precedes it rather than the one that follows it.
+The first-order division is, as we might expect, into night and daytime. I have opted to put ‘night’ first, as POc _&ast;boŋi_ ‘night’ also served as the word for the twenty-four hour period. In Fijian, for example, certain feasts have names like _boŋi-lima_, literally ‘five nights’, denoting the fact that they last five days. In Hawaiian (Pn), the day began at sunset, and this is perhaps the case elsewhere in Oceania. The Motu (PT) expression _varani hanuaboi_ (‘yesterday’ + ‘night’) is interesting in this regard, as it means ‘two nights ago’. That is, the night belonging to yesterday is the one that precedes it rather than the one that follows it.
 
 The second-order division only affects daytime, which has three parts. The periods 2(a) and 2(c) are roughly the first and the last three hours of daylight respectively and are usually denoted by single-word terms. Curiously, there is often no word for the middle six hours of daylight, and it could be argued that 2(b) should be omitted from the taxonomy above. However, there is often a term glossed ‘midday’ in the sources, and this seems to refer to a period of time rather than to noon as a point of time.
 
@@ -101,11 +101,11 @@ early morning             kxekxepiŋ N (kxepiŋ ‘morning’)
 (at) sunrise              aŋ imi liki ADVP (aŋ ‘sun’, imi ‘come’, liki ‘up top’)
 aŋ yaʔaŋ ADVP (aŋ ‘sun’, yaʔaŋ ‘go through’)
 middle of day                —
-(at) mid-morning           aŋ tikimiŋ mwalaŋ ADVP (aŋ ‘sun’, tikimiŋ ‘be present’, mwalaŋ ‘hill’)
+(at) mid-morning           aŋ tikimiŋ mʷalaŋ ADVP (aŋ ‘sun’, tikimiŋ ‘be present’, mʷalaŋ ‘hill’)
 (at) noon                  aŋ imi kxikilie koŋ ADVP (aŋ ‘sun’, imi ‘come’, kxikilie ‘middle’, koŋ
 ‘place’)
 afternoon/evening            piyih N
-(at) sunset               aŋ ilie pwiniek ADV (aŋ ‘sun’, ilie ‘go’, pwiniek ‘down below’)
+(at) sunset               aŋ ilie pʷiniek ADV (aŋ ‘sun’, ilie ‘go’, pʷiniek ‘down below’)
 upayah V
 ```
 
@@ -288,7 +288,7 @@ sunset                 moŋo/maŋa-aho tō laā NP (tō ‘fall’, laā ‘sun�
 A reconstructable taxonomy for POc is given below (the word-class labels are none too certain). The primary terms for ‘night’ and ‘daylight’ were evidently &ast;boŋi and &ast;raqani. No third-order terms are reconstructable.
 
 ```
-night                       &ast;boŋi N, V ‘night, day of twenty-four hours’
+night                   &ast;boŋi N, V ‘night, day of twenty-four hours’
 &ast;rodrom V ‘be dark, be night’
 &ast;marom V ‘be dark’
 daylight               &ast;raqani N, V ‘daytime, daylight’
@@ -301,7 +301,7 @@ late afternoon, evening &ast;Rapi N, &ast;Rapi-Rapi ADV ‘late afternoon and ev
 from about 3 p.m. to sunset’
 ```
 
-[Pawley](../references.md#source-Pawleynd) ([n.d.](../references.md#source-Pawleynd)) notes an idiomatic construction in which at least some of these terms co- occurred with POc &ast;panua which, among other things, meant ‘the visible world, land and sky’ (vol. 1, p.62). The combination of &ast;panua and &ast;boŋi, probably as a verb, is reflected in:
+[Pawley](../references.md#source-Pawleynd) ([n.d.](../references.md#source-Pawleynd)) notes an idiomatic construction in which at least some of these terms co- occurred with POc _&ast;panua_ which, among other things, meant ‘the visible world, land and sky’ (vol. 1, p.62). The combination of _&ast;panua_ and _&ast;boŋi_, probably as a verb, is reflected in:
 
 ```
 Motu (PT)                hanua-boi ‘night’
@@ -321,9 +321,9 @@ Rotuman (Fij)           hanua ran ‘daylight, dawn’ (< POc &ast;raqani)
 
 9.2.2.1 Night
 
-POc &ast;boŋi ‘night’ also meant ‘day of twenty-four hours’, to judge from the widely scattered reflexes with this meaning (see below NNG: Manam, Poeng; MM: Tolai; SES: Gela, Lau; NCV: Tamambo, Nokuku, Uripiv, Port Sandwich, Lonwolwol; Mic: Kiribatese; Pn: Samoan, Tuvalu, Nanumean, Rennellese, Hawaiian, Marquesan). Blust (ACD) notes that PMP &ast;beRŋi is also reconstructable with both senses. The dual sense is not surprising: in European languages ‘day’ serves in the same way.
+POc _&ast;boŋi_ ‘night’ also meant ‘day of twenty-four hours’, to judge from the widely scattered reflexes with this meaning (see below NNG: Manam, Poeng; MM: Tolai; SES: Gela, Lau; NCV: Tamambo, Nokuku, Uripiv, Port Sandwich, Lonwolwol; Mic: Kiribatese; Pn: Samoan, Tuvalu, Nanumean, Rennellese, Hawaiian, Marquesan). Blust (ACD) notes that PMP _&ast;beRŋi_ is also reconstructable with both senses. The dual sense is not surprising: in European languages ‘day’ serves in the same way.
 
-All Polynesian reflexes point back to PPn &ast;pō (for expected &ast;poŋi, which survived in &ast;poŋi-poŋi ‘be or become morning’ (p.16 and certain other expressions, e.g. Samoan poŋi- sā ‘be dark’ V., ADJ., ‘darkness’ N., po-poŋi ‘(night) be full’ V., ADJ.). Ross Clark (pers. comm.) attributes the replacement of &ast;poŋi by &ast;pō to back-formation from &ast;poŋi-a ‘be overcome by night’, via reanalysis as &ast;po-ŋia, with automatic lengthening of the new monosyllabic content word &ast;po- to bimoraic &ast;pō.
+All Polynesian reflexes point back to PPn _&ast;pō_ (for expected _&ast;poŋi_, which survived in _&ast;poŋi-poŋi_ ‘be or become morning’ (p.16 and certain other expressions, e.g. Samoan _poŋi-sā_ ‘be dark’ V., ADJ., ‘darkness’ N., _po-poŋi_ ‘(night) be full’ V., ADJ.). Ross Clark (pers. comm.) attributes the replacement of _&ast;poŋi_ by _&ast;pō_ to back-formation from _&ast;poŋi-a_ ‘be overcome by night’, via reanalysis as _&ast;po-ŋia_, with automatic lengthening of the new monosyllabic content word _&ast;po-_ to bimoraic _&ast;pō_.
 
 <table>
 <tr>
@@ -479,7 +479,7 @@ All Polynesian reflexes point back to PPn &ast;pō (for expected &ast;poŋi, whi
 <tr>
 <td>SES</td><td>Bugotu</td><td><i>boŋi</i></td>
 <td>
-'<span>night</span>' (<span>ke boŋi ‘by night, at night’</span>)</td>
+'<span>night</span>' (<span><em>ke boŋi</em> ‘by night, at night’</span>)</td>
 </tr>
 <tr>
 <td>SES</td><td>Gela</td><td><i>boŋi</i></td>
@@ -499,7 +499,7 @@ All Polynesian reflexes point back to PPn &ast;pō (for expected &ast;poŋi, whi
 <tr>
 <td>SES</td><td>Sa'a</td><td><i>poŋi-ku</i></td>
 <td>
-'<span>my appointed time</span>' (<span>-ku ‘my’</span>)</td>
+'<span>my appointed time</span>' (<span><em>-ku</em> ‘my’</span>)</td>
 </tr>
 <tr>
 <td>SES</td><td>'Are'are</td><td><i>poni</i></td>
@@ -512,7 +512,7 @@ All Polynesian reflexes point back to PPn &ast;pō (for expected &ast;poŋi, whi
 '<span>a night, last night</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>pwoŋ</i></td>
+<td>NCV</td><td>Mota</td><td><i>pʷoŋ</i></td>
 <td>
 '<span>night, darkness, to be dark</span>'</td>
 </tr>
@@ -572,7 +572,7 @@ All Polynesian reflexes point back to PPn &ast;pō (for expected &ast;poŋi, whi
 '<span>night</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Nguna</td><td><i>pwōŋi</i></td>
+<td>NCV</td><td>Nguna</td><td><i>pʷōŋi</i></td>
 <td>
 '<span>night</span>'</td>
 </tr>
@@ -597,19 +597,19 @@ All Polynesian reflexes point back to PPn &ast;pō (for expected &ast;poŋi, whi
 '<span>night; a day of twenty-four hours, period, season</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Marshallese</td><td><i>pɯoŋw</i></td>
+<td>Mic</td><td>Marshallese</td><td><i>pɯoŋʷ</i></td>
 <td>
 '<span>night, last night</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Ponapean</td><td><i>pwōŋ</i></td>
+<td>Mic</td><td>Ponapean</td><td><i>pʷōŋ</i></td>
 <td>
 '<span>night</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Ponapean</td><td><i>pwoŋ</i></td>
+<td>Mic</td><td>Ponapean</td><td><i>pʷoŋ</i></td>
 <td>
-'<span>numeral classifier used in counting nights</span>' (<span>pwoŋ sili-pwoŋ ‘three nights’</span>)</td>
+'<span>numeral classifier used in counting nights</span>' (<span><em>pʷɔŋ sili-pʷoŋ</em> ‘three nights’</span>)</td>
 </tr>
 <tr>
 <td>Mic</td><td>Kosraean</td><td><i>foŋ</i></td>
@@ -617,17 +617,17 @@ All Polynesian reflexes point back to PPn &ast;pō (for expected &ast;poŋi, whi
 '<span>night</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Trukese</td><td><i>pwōŋ</i></td>
+<td>Mic</td><td>Trukese</td><td><i>pʷōŋ</i></td>
 <td>
 '<span>night</span>' (<span>mostly in compounds</span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td>Puluwatese</td><td><i>-pwoŋ</i></td>
+<td>Mic</td><td>Puluwatese</td><td><i>-pʷoŋ</i></td>
 <td>
 '<span>counting classifier for nights</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Puluwatese</td><td><i>pwōŋ</i></td>
+<td>Mic</td><td>Puluwatese</td><td><i>pʷōŋ</i></td>
 <td>
 '<span>night; day of the month; be night</span>'</td>
 </tr>
@@ -690,7 +690,7 @@ All Polynesian reflexes point back to PPn &ast;pō (for expected &ast;poŋi, whi
 
 
 
-The reflexes from Huon Gulf languages (NNG: Yabem, Mangga, Mapos Buang) all reflect a verb Proto Huon Gulf &ast;bok(-) ‘be night’ (Mangga bus(in) is a nominalisation): I am assuming that this is an irregular reflex of &ast;boŋi. There are other fragments of evidence above (Puluwatese, Rotuman, Rennellese) that POc &ast;boŋi also served as a verb ‘be/become night’.
+The reflexes from Huon Gulf languages (NNG: Yabem, Mangga, Mapos Buang) all reflect a verb Proto Huon Gulf _&ast;bok(-)_ ‘be night’ (Mangga _bus(in)_ is a nominalisation): I am assuming that this is an irregular reflex of _&ast;boŋi_. There are other fragments of evidence above (Puluwatese, Rotuman, Rennellese) that POc _&ast;boŋi_ also served as a verb ‘be/become night’.
 
 
 <a id="p-306"></a>
@@ -701,7 +701,7 @@ The reflexes from Huon Gulf languages (NNG: Yabem, Mangga, Mapos Buang) all refl
 
 <a id="p-308"></a>
 
-The word for ‘night’ in a number of Oceanic languages reflects POc &ast;rodrom. It is reasonably evident, however, that this term meant ‘be dark’, and did not in POc refer to a period of time.
+The word for ‘night’ in a number of Oceanic languages reflects POc _&ast;rodrom_. It is reasonably evident, however, that this term meant ‘be dark’, and did not in POc refer to a period of time.
 
 <table>
 <tr>
@@ -845,7 +845,7 @@ The word for ‘night’ in a number of Oceanic languages reflects POc &ast;rodr
 
 
 
-The two sets below probably do not reflect POc &ast;rodrom. Rather, &ast;rodrom and the sets below all reflect a PAn monosyllabic root &ast;-dem (see vol. 1, pp.24–25, 27–28). That is, several items reflecting this root were separately inherited into POc.
+The two sets below probably do not reflect POc _&ast;rodrom_. Rather, _&ast;rodrom_ and the sets below all reflect a PAn monosyllabic root _&ast;-dem_ (see vol. 1, pp.24–25, 27–28). That is, several items reflecting this root were separately inherited into POc.
 
 <table>
 <tr>
@@ -854,7 +854,7 @@ The two sets below probably do not reflect POc &ast;rodrom. Rather, &ast;rodrom 
 <i>&ast;ma-edem</i>
 </td>
 <td>
-'<span>be dark</span>' (<span>ACD: ‘Proto Western Malayo-Polynesian’ *ma-edem ‘overcast, dull lustre’</span>)</td>
+'<span>be dark</span>' (<span>ACD: ‘Proto Western Malayo-Polynesian’ <em>*ma-edem</em> ‘overcast, dull lustre’</span>)</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
@@ -903,7 +903,7 @@ The two sets below probably do not reflect POc &ast;rodrom. Rather, &ast;rodrom 
 
 9.2.2.2 Daytime
 
-The POc term which specifically denoted daylight was &ast;raqani, reconstructed in Chapter 6 (p.161), to which the reader is referred for further detail.
+The POc term which specifically denoted daylight was _&ast;raqani_, reconstructed in Chapter 6 (p.161), to which the reader is referred for further detail.
 
 <table>
 <tr>
@@ -1032,7 +1032,7 @@ The POc term which specifically denoted daylight was &ast;raqani, reconstructed 
 
 
 
-The primary meaning of POc &ast;qaco was ‘sun’, but it was also used for ‘daylight, daytime’. Indeed, in Polynesia reflexes of POC &ast;qaco are restricted to the sense of ‘period of a day, daylight’ and do not refer directly to the sun. This item, along with &ast;sinaR ‘shine, sun’, is also reconstructed in Chapter 6 (p.160), where more detail is provided.
+The primary meaning of POc _&ast;qaco_ was ‘sun’, but it was also used for ‘daylight, daytime’. Indeed, in Polynesia reflexes of POC _&ast;qaco_ are restricted to the sense of ‘period of a day, daylight’ and do not refer directly to the sun. This item, along with _&ast;sinaR_ ‘shine, sun’, is also reconstructed in Chapter 6 (p.160), where more detail is provided.
 
 <table>
 <tr>
@@ -1263,7 +1263,7 @@ The primary meaning of POc &ast;qaco was ‘sun’, but it was also used for ‘
 
 9.2.2.3 Early morning: from dawn to 9 or 10 a.m.
 
-The POc term for the first few hours of daylight was &ast;boŋi-boŋi, self-evidently a reduplicated form of POc &ast;boŋi ‘night’.
+The POc term for the first few hours of daylight was _&ast;boŋi-boŋi_, self-evidently a reduplicated form of POc _&ast;boŋi_ ‘night’.
 
 <table>
 <tr>
@@ -1384,7 +1384,7 @@ The POc term for the first few hours of daylight was &ast;boŋi-boŋi, self-evid
 
 <a id="p-311"></a>
 
-Interestingly, terms for ‘early morning’ in some Oceanic languages that do not reflect &ast;boŋi-boŋi nonetheless include that language’s root for ‘night’:
+Interestingly, terms for ‘early morning’ in some Oceanic languages that do not reflect _&ast;boŋi-boŋi_ nonetheless include that language’s root for ‘night’:
 
 ```
 night                    early morning
@@ -1398,7 +1398,7 @@ Kiriwina (PT)                bogi                     ga-bogi
 Marshallese (Mic)            pwoŋ                     cip-pwoŋ (cip ‘rise’)
 ```
 
-POc &ast;puko ‘morning’ is only distributed over a certain area of Oceania—from New Britain to central Vanuatu—but this is enough to meet our criteria for POc reconstruction. To judge from the verbal morphology that occurs on a number of reflexes, &ast;puko often occurred as a verb. Unfortunately none of the reflexes occurs with a gloss which would confirm that this referred to the same time period as POc &ast;boŋi-boŋi ‘early morning’.
+POc _&ast;puko_ ‘morning’ is only distributed over a certain area of Oceania — from New Britain to central Vanuatu — but this is enough to meet our criteria for POc reconstruction. To judge from the verbal morphology that occurs on a number of reflexes, _&ast;puko_ often occurred as a verb. Unfortunately none of the reflexes occurs with a gloss which would confirm that this referred to the same time period as POc _&ast;boŋi-boŋi_ ‘early morning’.
 
 <table>
 <tr>
@@ -1533,9 +1533,20 @@ POc &ast;puko ‘morning’ is only distributed over a certain area of Oceania�
 
 9.2.2.4 Middle of the day: from 9 or 10 a.m. to about 3 p.m.
 
-Outside Polynesia, very few languages have a dedicated word for this part of the day, and those that do show no sign of cognation. Most languages have a phrasal expression, sometimes meaning ‘the middle of the day’: Loniu (Adm)               tiko aŋ (tiko ‘middle’, aŋ ‘day, sun’) Gapapaiwa (PT)            madeɣa pu (madeɣa ‘daylight’, pu ‘middle’) Roviana (MM)              korapa rane (korapa ‘middle’, rane ‘daylight’) Gela (SES)                kutu ni dani (kutu ‘stomach, womb’, dani ‘daytime) Others have a noun phrase whose head is ‘sun, daylight’, modified by ‘big’ or ‘good’: Takia (NNG)               ad uyan, adian (ad ‘sun’, uyan ‘good’) Gela (SES)                dani-kama (dani ‘daylight’, kama ‘big’) Wayan (Fij)               siŋa-levu (siŋa ‘day’, levu ‘big’)
+Outside Polynesia, very few languages have a dedicated word for this part of the day, and those that do show no sign of cognation. Most languages have a phrasal expression, sometimes meaning ‘the middle of the day’:
 
-[Biggs and Clark](../references.md#source-BiggsandClark1993) ([1993](../references.md#source-BiggsandClark1993)) reconstruct PPn &ast;qaho-atea ‘late morning and early afternoon’, from PPn &ast;qaho ‘daylight’ and &ast;qātea ‘clear, unobstructed’. The addition of Anejom reflexes raises the reconstruction to Proto Remote Oceanic &ast;qaso-qatea (Lynch pers. comm.).
+```
+Loniu (Adm)               tiko aŋ (tiko ‘middle’, aŋ ‘day, sun’)
+Gapapaiwa (PT)            madeɣa pu (madeɣa ‘daylight’, pu ‘middle’)
+Roviana (MM)              korapa rane (korapa ‘middle’, rane ‘daylight’)
+Gela (SES)                kutu ni dani (kutu ‘stomach, womb’, dani ‘daytime)
+Others have a noun phrase whose head is ‘sun, daylight’, modified by ‘big’ or ‘good’:
+Takia (NNG)               ad uyan, adian (ad ‘sun’, uyan ‘good’)
+Gela (SES)                dani-kama (dani ‘daylight’, kama ‘big’)
+Wayan (Fij)               siŋa-levu (siŋa ‘day’, levu ‘big’)
+```
+
+[Biggs and Clark](../references.md#source-BiggsandClark1993) ([1993](../references.md#source-BiggsandClark1993)) reconstruct PPn _&ast;qaho-atea_ ‘late morning and early afternoon’, from PPn _&ast;qaho_ ‘daylight’ and _&ast;qātea_ ‘clear, unobstructed’. The addition of Anejom reflexes raises the reconstruction to Proto Remote Oceanic _&ast;qaso-qatea_ (Lynch pers. comm.).
 
 <table>
 <tr>
@@ -1615,7 +1626,7 @@ Outside Polynesia, very few languages have a dedicated word for this part of the
 
 9.2.2.5 Late afternoon and evening, from about 3 p.m. to sunset
 
-Just one term is reconstructable for this period of the day, POc &ast;Rapi.
+Just one term is reconstructable for this period of the day, POc _&ast;Rapi_.
 
 <table>
 <tr>
@@ -1713,7 +1724,7 @@ Just one term is reconstructable for this period of the day, POc &ast;Rapi.
 <tr>
 <td>PT</td><td>Motu</td><td><i>(ado)rahi</i></td>
 <td>
-(N) '<span>late afternoon/evening</span>' (<span>ado ‘sun’ [not used independently]</span>)</td>
+(N) '<span>late afternoon/evening</span>' (<span><em>ado</em> ‘sun’ [not used independently]</span>)</td>
 </tr>
 <tr>
 <td>MM</td><td>Bali</td><td><i>(ga)ravi</i></td>
@@ -1889,7 +1900,7 @@ Just one term is reconstructable for this period of the day, POc &ast;Rapi.
 
 
 
-There are also Micronesian reflexes. These are not listed above because they show hefty phonological reduction. The Proto Micronesian term was &ast;faka-afi, reflecting a combination of the POc prefix &ast;paka- (which among other things derived adverbs) and POc &ast;Rapi, reconstructed above.
+There are also Micronesian reflexes. These are not listed above because they show hefty phonological reduction. The Proto Micronesian term was _&ast;faka-afi_, reflecting a combination of the POc prefix _&ast;paka-_ (which among other things derived adverbs) and POc _&ast;Rapi_, reconstructed above.
 
 <table>
 <tr>
@@ -1934,7 +1945,7 @@ There are also Micronesian reflexes. These are not listed above because they sho
 
 9.2.2.6 Third-order terms for parts of the day
 
-I have not been able to reconstruct any third-order terms for parts of the day. As the taxonomies above (pp.301–304) show, in modern Oceanic languages parts of the day smaller than ‘night’, ‘early morning’ and ‘late afternoon/evening’ are usually described by phrasal expressions. The only generalisation to be made is an obvious one—that ‘sunrise’ and ‘sunset’ are denoted by expressions meaning ‘the sun rises’ and ‘the sun sets’. Among the verbs for ‘rise’ and ‘set’ here were almost certainly &ast;sake and &ast;sipo respectively (see Ch. 6, pp.181–182 and Ch. 8, pp.271, 273).
+I have not been able to reconstruct any third-order terms for parts of the day. As the taxonomies above (pp.301–304) show, in modern Oceanic languages parts of the day smaller than ‘night’, ‘early morning’ and ‘late afternoon/evening’ are usually described by phrasal expressions. The only generalisation to be made is an obvious one—that ‘sunrise’ and ‘sunset’ are denoted by expressions meaning ‘the sun rises’ and ‘the sun sets’. Among the verbs for ‘rise’ and ‘set’ here were almost certainly _&ast;sake_ and _&ast;sipo_ respectively (see Ch. 6, pp.181–182 and Ch. 8, pp.271, 273).
 
 
 <a id="p-315"></a>
@@ -1944,7 +1955,7 @@ I have not been able to reconstruct any third-order terms for parts of the day. 
 ## 2.3. The moon and its phases
 
 
-POc &ast;pulan ‘moon’ also meant ‘month’. The reconstruction here is repeated from Chapter 6 (p.164).
+POc _&ast;pulan_ ‘moon’ also meant ‘month’. The reconstruction here is repeated from Chapter 6 (p.164).
 
 <table>
 <tr>
@@ -2015,7 +2026,7 @@ POc &ast;pulan ‘moon’ also meant ‘month’. The reconstruction here is rep
 '<span>phases of the moon; full moon</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>hule i lade </i></td>
+<td>SES</td><td>Sa'a</td><td><i>hule i lade</i></td>
 <td>
 '<span>name of a month, July</span>'</td>
 </tr>
@@ -2038,7 +2049,7 @@ POc &ast;pulan ‘moon’ also meant ‘month’. The reconstruction here is rep
 
 
 
-As a verb, POc &ast;sinaR ‘sun, shine’ (Ch. 6, p.163; above, p.310) has given rise to a number of Polynesian terms which, with the addition of the stativising prefix mā- (Ch. 6, p.164), refer to the moon:
+As a verb, POc _&ast;sinaR_ ‘sun, shine’ (Ch. 6, p.163; above, p.310) has given rise to a number of Polynesian terms which, with the addition of the stativising prefix _mā-_ (Ch. 6, p.164), refer to the moon:
 
 <table>
 <tr>
@@ -2094,16 +2105,15 @@ Proto Micronesian and Proto Central–Eastern Polynesian sets of day names could
 
 The first phase is strictly speaking the days of darkness. Interestingly, the sources vary as to how many of these there are, and [Grimble](../references.md#source-Grimble1931) ([1931](../references.md#source-Grimble1931)) claims that the Kiribati did not know.
 
-The denotation of the first visible phase often makes reference to the moon’s thin crescent shape. A number of languages compare it to a crescent-shaped pearlshell ornament, and it is possible that this image was also used in POc. Such artefacts have not appeared in the archaeological record, but they are fairly common ethnographically and a term for them, POc &ast;japi was reconstructed in vol. 1 (p.104). It is reflected in the Arosi term below.
+The denotation of the first visible phase often makes reference to the moon’s thin crescent shape. A number of languages compare it to a crescent-shaped pearlshell ornament, and it is possible that this image was also used in POc. Such artefacts have not appeared in the archaeological record, but they are fairly common ethnographically and a term for them, POc _&ast;japi_ was reconstructed in vol. 1 (p.104). It is reflected in the Arosi term below.
 
 ```
-PT:      Motu          hua doɣaɣi          ‘new moon’ (doɣaɣi ‘crescent shaped pearl
-shell ornament’)
-MM: Nakanai            mapa-le-Gileme ‘moon when it is small’ (lit. ‘payment for
+PT:  Motu       hua doɣaɣi          ‘new moon’ (doɣaɣi ‘crescent shaped pearl shell ornament’)
+MM:  Nakanai    mapa-le-Gileme      ‘moon when it is small’ (lit. ‘payment for
 Gileme’: the reference is to a goldlip shell
 used in brideprice)
 kalisu              ‘noseplug of mother-of pearl; new moon’
-SES: Arosi             siʔe-dahi           ‘a phase of the moon’ (siʔe ‘rub fire’ or ‘stripes’,
+SES: Arosi      siʔe-dahi           ‘a phase of the moon’ (siʔe ‘rub fire’ or ‘stripes’,
 dahi ‘crescent shaped ornament made from
 gold-lipped pearlshell’)
 ```
@@ -2122,7 +2132,7 @@ Fij:    Wayan        tāgaga ni vula     ‘horns of the moon’ (tāgaga ‘for
 of mast of traditional canoe’)
 ```
 
-Other languages refer to what was apparently the same phase as ‘the young moon’, and here a reconstruction is perhaps possible: POc &ast;pulan paqoRu, where &ast;pulan is ‘moon’ (p.315) and &ast;paqoRu is ‘new, young’ (Ch. 7, p.210). Note, however, that I have also treated terms in which lexical replacement has occurred as reflexes of this item.
+Other languages refer to what was apparently the same phase as ‘the young moon’, and here a reconstruction is perhaps possible: POc _&ast;pulan paqoRu_, where _&ast;pulan_ is ‘moon’ (p.315) and _&ast;paqoRu_ is ‘new, young’ (Ch. 7, p.210). Note, however, that I have also treated terms in which lexical replacement has occurred as reflexes of this item.
 
 <table>
 <tr>
@@ -2136,32 +2146,32 @@ Other languages refer to what was apparently the same phase as ‘the young moon
 <tr>
 <td>MM</td><td>Roviana</td><td><i>sidara vaqura</i></td>
 <td>
-'<span>new moon</span>' (<span>sidara ‘moon’, vaqura ‘new, young’</span>)</td>
+'<span>new moon</span>' (<span><em>sidara</em> ‘moon’, <em>vaqura</em> ‘new, young’</span>)</td>
 </tr>
 <tr>
 <td>NCV</td><td>Mwotlap</td><td><i>no-wol wɛhɛy</i></td>
 <td>
-'<span>new moon</span>' (<span>no ART, wol ‘moon’, wɛhɛy ‘new, young’</span>)</td>
+'<span>new moon</span>' (<span><em>no</em> ART, <em>wol</em> ‘moon’, <em>wɛhɛy</em> ‘new, young’</span>)</td>
 </tr>
 <tr>
 <td>SV</td><td>Lenakel</td><td><i>mouk vi</i></td>
 <td>
-'<span>new moon</span>' (<span>mouk ‘moon’, vi ‘new’</span>)</td>
+'<span>new moon</span>' (<span><em>mouk</em> ‘moon’, <em>vi</em> ‘new’</span>)</td>
 </tr>
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>vula vou</i></td>
 <td>
-'<span>new moon</span>' (<span>vula ‘moon’, vou ‘new’</span>)</td>
+'<span>new moon</span>' (<span><em>vula</em> ‘moon’, <em>vou</em> ‘new’</span>)</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>māhina foʔou</i></td>
 <td>
-'<span>new moon</span>' (<span>māhina ‘moon’, foʔou ‘new’</span>)</td>
+'<span>new moon</span>' (<span><em>māhina</em> ‘moon’, <em>foʔou</em> ‘new’</span>)</td>
 </tr>
 <tr>
 <td>Pn</td><td>Niuean</td><td><i>mahina pula fōu</i></td>
 <td>
-'<span>new moon</span>' (<span>mahina ‘moon’, pula ‘rise’, fōu ‘new’</span>)</td>
+'<span>new moon</span>' (<span><em>mahina</em> ‘moon’, <em>pula</em> ‘rise’, <em>fōu</em> ‘new’</span>)</td>
 </tr>
 </table>
 
@@ -2170,21 +2180,20 @@ Other languages refer to what was apparently the same phase as ‘the young moon
 Some languages have a term which means, literally, ‘unripe moon’. This evidently refers to a phase between the new moon and the full moon, but exactly what part of the waxing half of the month it denotes is not clear.
 
 ```
-PT:     Kiriwina    tubukona tubu-geguda      ‘first quarter’ (tubukona ‘moon’, tubu
+PT: Kiriwina   tubukona tubu-geguda   ‘first quarter’ (tubukona ‘moon’, tubu
 ‘grow’, geguda ‘unripe’)
-PT:     Motu       hua karukaru               ‘young moon’ (hua ‘moon’, karukaru
+PT: Motu       hua karukaru           ‘young moon’ (hua ‘moon’, karukaru
 ‘undercooked, not fully ripe’
-Pn:     Niuean     mahina pula mui            ‘new moon, first quarter’ (mahina ‘moon’,
+Pn: Niuean     mahina pula mui        ‘new moon, first quarter’ (mahina ‘moon’,
 pula ‘rise’, mui ‘unripe’)
 ```
 
 Mwotlap, where we know with reasonable certainly that the moon phases are roughly of five days apiece, has a term meaning ‘a piece of the moon’, which refers roughly to the 5th day after the moon’s appearance (whereas ‘the unripe moon’ seems to refer roughly to the 7th). One other language, Drehet, has a similar term:
 
 ```
-Adm: Drehet         puŋ rekxek                moon phases: 1st and 3rd quarters (puŋ
+Adm: Drehet    puŋ rekxek          moon phases: 1st and 3rd quarters (puŋ
 ‘moon’, rekxek ‘a quarter, a piece’)
-NCV: Mwotlap        no-wol ɣaytɛ-ɣi           ‘one-third moon’ (wol ‘moon’, ɣayte ‘half,
-piece’)
+NCV: Mwotlap   no-wol ɣaytɛ-ɣi     ‘one-third moon’ (wol ‘moon’, ɣayte ‘half, piece’)
 ```
 
 Maringe has a term with an apparently similar meaning to Mwotlap:
@@ -2203,7 +2212,7 @@ Curiously, this is about as far as we can go with reconstructing POc moon phases
 ## 2.4. The year and its seasons
 
 
-Probably the main seasons for POc speakers living in northwest Melanesia were meteorological: the dry, when the southeast trades blew with reasonable consistency, and the wet, when there were sporadic northwesterly winds. The POc terms for these were respectively &ast;raki and &ast;apaRat, which seem to have referred centrally to the seasons, with typical weather and wind direction as inevitable components of their meanings. More details are given in [Chapter 5, §4.2](chapter5.md#s-4-2), whence the reconstructions below are repeated.
+Probably the main seasons for POc speakers living in northwest Melanesia were meteorological: the dry, when the southeast trades blew with reasonable consistency, and the wet, when there were sporadic northwesterly winds. The POc terms for these were respectively _&ast;raki_ and _&ast;apaRat_, which seem to have referred centrally to the seasons, with typical weather and wind direction as inevitable components of their meanings. More details are given in [Chapter 5, §4.2](chapter5.md#s-4-2), whence the reconstructions below are repeated.
 
 <table>
 <tr>
@@ -2448,7 +2457,7 @@ Probably the main seasons for POc speakers living in northwest Melanesia were me
 
 <a id="p-319"></a>
 
-The terms I have reconstructed above refer to wind directions and to seasons. A further development is that one of the seasonal terms comes to mean ‘year’ (perhaps something like ‘the annual round’ would be more accurate). Reflexes of both POc &ast;raki ‘dry season’ and POc &ast;apaRat which are used in this way are listed below, but local seasonal/wind terms also tend to be used in this way.
+The terms I have reconstructed above refer to wind directions and to seasons. A further development is that one of the seasonal terms comes to mean ‘year’ (perhaps something like ‘the annual round’ would be more accurate). Reflexes of both POc _&ast;raki_ ‘dry season’ and POc _&ast;apaRat_ which are used in this way are listed below, but local seasonal/wind terms also tend to be used in this way.
 
 ```
 NNG:    Kove             hai              ‘southeast trade, year’
@@ -2459,7 +2468,7 @@ MM:     Barok            awat             ‘year’
 MM:     Siar             yahrat           ‘year’
 ```
 
-In [Ross](../references.md#source-Ross1995c) ([1995c](../references.md#source-Ross1995c)) I wrote, ‘There is … no doubt that POc had a separate (and widely reflected) word for year’, and followed it with the reconstruction of POc &ast;taqun below. This statement stands, but with a qualification. The Buang, Tongan and East Futunan reflexes indicate that &ast;taqun may have been used particularly to denote the yam-growing cycle. This would not be surprising: the greater yam, Dioscorea alata (POc &ast;qupi; [Ross 1996d](../references.md#source-Ross1996d)) is a highly prized—but not especially nutritious—crop throughout much of Oceania, with much ritual associated with its growth cycle, and so it is a highly salient marker of a year. It is likely that that it already had the meaning ‘yam season cycle’ in POc times.
+In [Ross](../references.md#source-Ross1995c) ([1995c](../references.md#source-Ross1995c)) I wrote, ‘There is … no doubt that POc had a separate (and widely reflected) word for year’, and followed it with the reconstruction of POc _&ast;taqun_ below. This statement stands, but with a qualification. The Buang, Tongan and East Futunan reflexes indicate that _&ast;taqun_ may have been used particularly to denote the yam-growing cycle. This would not be surprising: the greater yam, Dioscorea alata (POc _&ast;qupi_; [Ross 1996d](../references.md#source-Ross1996d)) is a highly prized — but not especially nutritious — crop throughout much of Oceania, with much ritual associated with its growth cycle, and so it is a highly salient marker of a year. It is likely that that it already had the meaning ‘yam season cycle’ in POc times.
 
 <table>
 <tr>
@@ -2555,9 +2564,9 @@ In [Ross](../references.md#source-Ross1995c) ([1995c](../references.md#source-Ro
 '<span>season</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>taʔu ika </i></td>
+<td>Pn</td><td>Rennellese</td><td><i>taʔu ika</i></td>
 <td>
-'<span>fish season (late July to early January)</span>' (<span>ika ‘fish’</span>)</td>
+'<span>fish season (late July to early January)</span>' (<span><em>ika</em> ‘fish’</span>)</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tuvalu</td><td><i>tau(naŋa)</i></td>
@@ -2586,9 +2595,9 @@ In [Ross](../references.md#source-Ross1995c) ([1995c](../references.md#source-Ro
 
 <a id="p-320"></a>
 
-[Newell and Poligon](../references.md#source-NewellandPoligon1993) ([1993](../references.md#source-NewellandPoligon1993):486) define Batad Ifugao (Central Cordilleran, Philippines) tawon as follows: ‘a measure of the time between a major event such as planting or harvesting rice until it recurs. Traditionally, reference is not to a calendar year; a year does not have a fixed beginning and end.’ The rice harvest was evidently replaced by the yam harvest in POc. Glosses in other languages suggest that &ast;taqun was perhaps originally the name of a particular season, the dry season when food did not grow. We find Isneg (North Cordilleran) mag-d‹in›axun ‘the hot, dry season’, derived from taxun ‘year’ ([Vanoverbergh 1972](../references.md#source-Vanoverbergh1972)), and Binukid (Manobo) taun ‘hunger season’ ([Post 1992](../references.md#source-Post1992)).
+[Newell and Poligon](../references.md#source-NewellandPoligon1993) ([1993](../references.md#source-NewellandPoligon1993):486) define Batad Ifugao (Central Cordilleran, Philippines) _tawon_ as follows: ‘a measure of the time between a major event such as planting or harvesting rice until it recurs. Traditionally, reference is not to a calendar year; a year does not have a fixed beginning and end.’ The rice harvest was evidently replaced by the yam harvest in POc. Glosses in other languages suggest that _&ast;taqun_ was perhaps originally the name of a particular season, the dry season when food did not grow. We find Isneg (North Cordilleran) _mag-d‹in›axun_ ‘the hot, dry season’, derived from _taxun_ ‘year’ ([Vanoverbergh 1972](../references.md#source-Vanoverbergh1972)), and Binukid (Manobo) _taun_ ‘hunger season’ ([Post 1992](../references.md#source-Post1992)).
 
-In Polynesian languages, there is a tendency, stronger in the east that in the west, for the reflex of POc &ast;taqun/PPn &ast;taqu to denote a ‘season’, in the sense of the dry season or the wet season. [Kirch and Green](../references.md#source-KirchandGreen2001) ([2001](../references.md#source-KirchandGreen2001):261, 265) believe that the use of these reflexes to mean ‘year’ postdates western contact, but it does seem that the annual cycle of planting and harvesting was a major element of the meaning of both POc &ast;taqun and PPn &ast;taqu ([Kirch & Green 2001](../references.md#source-KirchandGreen2001):267). The presence of the nominaliser ‹in› in the Patpatar and Ramoaaina reflexes above suggests that POc &ast;taqun was also a verb meaning ‘last a year’.
+In Polynesian languages, there is a tendency, stronger in the east that in the west, for the reflex of POc _&ast;taqun_ / PPn _&ast;taqu_ to denote a ‘season’, in the sense of the dry season or the wet season. [Kirch and Green](../references.md#source-KirchandGreen2001) ([2001](../references.md#source-KirchandGreen2001):261, 265) believe that the use of these reflexes to mean ‘year’ postdates western contact, but it does seem that the annual cycle of planting and harvesting was a major element of the meaning of both POc _&ast;taqun_ and PPn _&ast;taqu_ ([Kirch & Green 2001](../references.md#source-KirchandGreen2001):267). The presence of the nominaliser _‹in›_ in the Patpatar and Ramoaaina reflexes above suggests that POc _&ast;taqun_ was also a verb meaning ‘last a year’.
 
 
 <a id="s-2-5"></a>
@@ -2607,16 +2616,16 @@ Throughout much of Oceania there were calendars based on lunar months. However, 
 
 As noted in the introduction to this chapter (p.295), directed times—adjuncts expressing past, present and future—may be purely deictic (‘now’, ‘today’), may express vague distance (‘in the past’, ‘in the future’), or may express a specified distance within a cycle (e.g. ‘this morning’, ‘this evening’) or measured by cycles (e.g. ‘yesterday’, ‘tomorrow’, ‘the day before yesterday’).
 
-There is strong evidence that most of the temporal terms that are reconstructable in this semantic category belong to the same class as the local nouns reconstructed in Chapter 8 (p.233), and that like those nouns, they occurred in a local construction with the POc preposition &ast;i or formed adverbs with the prefix &ast;qa- (p.322). Some temporal members of the class, however, also formed adverbs by reduplicating the disyllabic root.
+There is strong evidence that most of the temporal terms that are reconstructable in this semantic category belong to the same class as the local nouns reconstructed in Chapter 8 (p.233), and that like those nouns, they occurred in a local construction with the POc preposition _&ast;i_ or formed adverbs with the prefix _&ast;qa-_ (p.322). Some temporal members of the class, however, also formed adverbs by reduplicating the disyllabic root.
 
 
 <a id="s-3-1"></a>
 ## 3.1. Deictic time: ‘now’, ‘today’
 
 
-No POc form which uniquely means ‘now’ or ‘today’ is reconstructable. In many languages the same term is used for both meanings. Insofar as etymologising is possible (and more often than not it isn’t), the term for ‘now’ or ‘today’ is formed by one of two strategies. In the first, the proximal demonstrative is used. Thus Lou (Adm) tapoŋ, Drehet (Adm) indah, Kaulong (NNG) ai, Bing (NNG) nien, Takia (NNG) ete, Gumawana (PT) ame, Patpatar (MM) kaiken, Longgu (SES) nene are each both ‘here’ and ‘now’. Nêlêmwa (NCal) lheny is both ‘this’ and ‘today’.
+No POc form which uniquely means ‘now’ or ‘today’ is reconstructable. In many languages the same term is used for both meanings. Insofar as etymologising is possible (and more often than not it isn’t), the term for ‘now’ or ‘today’ is formed by one of two strategies. In the first, the proximal demonstrative is used. Thus Lou (Adm) _tapoŋ_, Drehet (Adm) _iⁿdah_, Kaulong (NNG) _ai_, Bing (NNG) _nien_, Takia (NNG) _ete_, Gumawana (PT) _ame_, Patpatar (MM) _kaiken_, Longgu (SES) _nene_ are each both ‘here’ and ‘now’. Nêlêmwa (NCal) _lʰeny_ is both ‘this’ and ‘today’.
 
-The second strategy is an extension of the first: a phrase corresponding to ‘this day’ is used. Hence Drehet (Adm) laŋ nane, Nguna raŋi waia, Niuean (Pn) aho nei, all ‘day’ + ‘this’. Nehan (MM) ene dān once meant ‘this day’ (dān < POc &ast;raqani ‘daytime’) but now means only ‘today’.
+The second strategy is an extension of the first: a phrase corresponding to ‘this day’ is used. Hence Drehet (Adm) _laŋ nane_, Nguna _raŋi waia_, Niuean (Pn) _aho nei_, all ‘day’ + ‘this’. Nehan (MM) _ene dān_ once meant ‘this day’ (_dān_ < POc _&ast;raqani_ ‘daytime’) but now means only ‘today’.
 
 The claim is sometimes made that Oceanic systems of spatial deixis are also used for temporal purposes. There are very few well documented cases of this beyond the use of the proximal demonstrative ‘here’ for ‘now’. Such cases are Nêlêmwa (Bril 2002), Iaai ([Ozanne-Rivierre 2004](../references.md#source-OzanneRivierre2004)), Kosraean ([Lee 1975](../references.md#source-Lee1975):129), Mokilese ([Harrison 1976](../references.md#source-Harrison1976):77–81, 85) and Samoan ([Mosel 2004](../references.md#source-Mosel2004)). However, as [Anderson and Keenan](../references.md#source-AndersonandKeenan1985) ([1985](../references.md#source-AndersonandKeenan1985):298–299) observe with regard to Kosraean and Mokilese, even in these two Micronesian languages the temporal applications of the spatial deictics are not parallel. The same observation is true of the other languages just listed, and so no precise reconstruction of a temporal usage of spatial deictics in POc is possible.
 
@@ -2634,7 +2643,7 @@ Curiously English and other European languages have two superficially contradict
 
 <a id="p-322"></a>
 
-The reconstructions below are repeated from Chapter 8, but only reflexes with a temporal meaning are listed here. The POc terms for ‘formerly’ were apparently &ast;i muqa, &ast;qa-muqa and &ast;muqa-muqa, for ‘later, afterwards’ &ast;i muri/&ast;i buri and &ast;muri-muri. In PWOc &ast;muga also occurred (p.258).
+The reconstructions below are repeated from Chapter 8, but only reflexes with a temporal meaning are listed here. The POc terms for ‘formerly’ were apparently _&ast;i muqa_, _&ast;qa-muqa_ and _&ast;muqa-muqa_, for ‘later, afterwards’ _&ast;i muri_/_&ast;i buri_ and _&ast;muri-muri_. In PWOc _&ast;muga_ also occurred (p.258).
 
 <table>
 <tr>
@@ -2715,7 +2724,7 @@ The reconstructions below are repeated from Chapter 8, but only reflexes with a 
 '<span>front, first, tip, before</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>(ʔi) muʔa [-atu] </i></td>
+<td>Pn</td><td>Tongan</td><td><i>(ʔi) muʔa [-atu]</i></td>
 <td>
 '<span>formerly</span>' (<span>-atu DIR; p.279</span>)</td>
 </tr>
@@ -2727,7 +2736,7 @@ The reconstructions below are repeated from Chapter 8, but only reflexes with a 
 <tr>
 <td>NNG</td><td>Bariai</td><td><i>muga(eai)</i></td>
 <td>
-'<span>formerly</span>' (<span>-eai POSTP</span>)</td>
+'<span>formerly</span>' (<span><em>-eai</em> POSTP</span>)</td>
 </tr>
 <tr>
 <td>NNG</td><td>Lukep (Pono)</td><td><i>mugu</i></td>
@@ -2885,7 +2894,7 @@ The reconstructions below are repeated from Chapter 8, but only reflexes with a 
 '<span>follow; behind, back; outside of s.t.; afterwards; left hand when facing an object</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>(e) muri </i></td>
+<td>Fij</td><td>Bauan</td><td><i>(e) muri</i></td>
 <td>
 '<span>behind, later</span>'</td>
 </tr>
@@ -2900,7 +2909,7 @@ The reconstructions below are repeated from Chapter 8, but only reflexes with a 
 '<span>rear, hind part; sequel, time to come; behind, afterwards, backwards; youngest child</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>(i) muri </i></td>
+<td>Pn</td><td>Maori</td><td><i>(i) muri</i></td>
 <td>
 '<span>afterwards</span>'</td>
 </tr>
@@ -2938,7 +2947,7 @@ The reconstructions below are repeated from Chapter 8, but only reflexes with a 
 '<span>behind, afterwards</span>' (<span>p.262</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>(i) buri </i></td>
+<td>SES</td><td>Lau</td><td><i>(i) buri</i></td>
 <td>
 '<span>afterwards</span>'</td>
 </tr>
@@ -2953,7 +2962,7 @@ The reconstructions below are repeated from Chapter 8, but only reflexes with a 
 
 9.3.2.2 ‘long ago’
 
-It is hard to avoid the conclusion that &ast;tuqaRi ‘(be) long ago; old (of inanimates)’ is historically related to &ast;[ma]tuqa ‘ripe, mature, adult, old’. POc &ast;tuqaRi appears to be both verb and temporal adverb. The full cognate set is given on p.212, with a discussion of the form of the reconstruction.
+It is hard to avoid the conclusion that _&ast;tuqaRi_ ‘(be) long ago; old (of inanimates)’ is historically related to _&ast;[ma]tuqa_ ‘ripe, mature, adult, old’. POc _&ast;tuqaRi_ appears to be both verb and temporal adverb. The full cognate set is given on p.212, with a discussion of the form of the reconstruction.
 
 <table>
 <tr>
@@ -3010,7 +3019,7 @@ It is hard to avoid the conclusion that &ast;tuqaRi ‘(be) long ago; old (of in
 (V) '<span>be slow, late</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>(mai) tuai </i></td>
+<td>Pn</td><td>Tongan</td><td><i>(mai) tuai</i></td>
 <td>
 (PP) '<span>from of old, since very early times</span>'</td>
 </tr>
@@ -3028,21 +3037,21 @@ It is hard to avoid the conclusion that &ast;tuqaRi ‘(be) long ago; old (of in
 ## 3.3. Distances within a day or measured by days
 
 
-POc temporal bases themselves were in general directionless, i.e. neutral between past and future. The exception to this was &ast;ñoRap ‘yesterday’. There is no clearly reconstructable term for ‘tomorrow’, and both ‘yesterday’ and ‘tomorrow’ are often denoted by terms which reflect as their base either POc &ast;boŋi ‘night, day of twenty-four hours’ (p.305) or POc &ast;raqani ‘daytime, daylight’ (p.309). ‘The day before yesterday’ and ‘the day after tomorrow’ both had as their base the directionless &ast;waRisa ‘two days from today’ (p.332).
+POc temporal bases themselves were in general directionless, i.e. neutral between past and future. The exception to this was _&ast;ñoRap_ ‘yesterday’. There is no clearly reconstructable term for ‘tomorrow’, and both ‘yesterday’ and ‘tomorrow’ are often denoted by terms which reflect as their base either POc _&ast;boŋi_ ‘night, day of twenty-four hours’ (p.305) or POc _&ast;raqani_ ‘daytime, daylight’ (p.309). ‘The day before yesterday’ and ‘the day after tomorrow’ both had as their base the directionless _&ast;waRisa_ ‘two days from today’ (p.332).
 
-[Pawley](../references.md#source-Pawley1972) ([1972](../references.md#source-Pawley1972):32–33, 82) reconstructed the PEOc prefixes &ast;qa- and &ast;qana- as formatives of future and past temporal expressions respectively. In the light of wider evidence, it seems that &ast;qana- was originally two prefixes: &ast;qa- and &ast;na-. In both formatives &ast;qa- is the POc adverbialising prefix described in Chapter 8 (p.235), whilst &ast;na- was a prefix forming temporal bases situated in the past. Sometimes, it seems, it was attached to a base which had past meaning, but often it formed a past term from a base which did not express temporal direction. This &ast;na- may well be of PMP antiquity, as it is reflected with the same function in (Western Malayo-Polynesian) languages of the Kaili- Pamona, Wotu-Wolio and SE Celebic families on the island of Sulawesi ([Mead 2001](../references.md#source-Mead2001)).
+[Pawley](../references.md#source-Pawley1972) ([1972](../references.md#source-Pawley1972):32–33, 82) reconstructed the PEOc prefixes _&ast;qa-_ and _&ast;qana-_ as formatives of future and past temporal expressions respectively. In the light of wider evidence, it seems that _&ast;qana-_ was originally two prefixes: _&ast;qa-_ and _&ast;na-_. In both formatives _&ast;qa-_ is the POc adverbialising prefix described in Chapter 8 (p.235), whilst _&ast;na-_ was a prefix forming temporal bases situated in the past. Sometimes, it seems, it was attached to a base which had past meaning, but often it formed a past term from a base which did not express temporal direction. This _&ast;na-_ may well be of PMP antiquity, as it is reflected with the same function in (Western Malayo-Polynesian) languages of the Kaili-Pamona, Wotu-Wolio and SE Celebic families on the island of Sulawesi ([Mead 2001](../references.md#source-Mead2001)).
 
 9.3.3.1 Distances within a day
 
 By distances within a day, I mean expressions corresponding to English ‘last night’, ‘tonight’, ‘this morning’, ‘this evening’. Oceanic data relating to these are very thin indeed. I suspect the main reason for this is that expressions consisting of ‘today’ or ‘yesterday’ plus ‘morning’ or ‘evening’ are often used, and they are simply not noted in dictionaries. For example:
 
 ```
-Adm: Drehet         kumwiŋ ‘now, today’      piŋ ‘night’        piŋ kumwiŋ ‘tonight’
-PT:     Ubir        ari ‘now, today’         fom ‘night’        ari-fom ‘tonight’
-PT:     Kiriwina lagaila ‘today’             bogi ‘night’       lagaila bogi ‘tonight’
+Adm: Drehet     kumwiŋ ‘now, today’   piŋ ‘night’    piŋ kumwiŋ ‘tonight’
+PT:  Ubir       ari ‘now, today’      fom ‘night’    ari-fom ‘tonight’
+PT:  Kiriwina   lagaila ‘today’       bogi ‘night’   lagaila bogi ‘tonight’
 ```
 
-There are a few languages where &ast;qa- is prefixed to a part of the day to form a future expression, &ast;[qa]na- to form a past expression, but it is not clear whether these expressions are reconstructable for POc or are simply independent innovations resulting from the productivity of the prefixes. Thus we find Nakanai (MM) ala-logo ‘last night’ vs ga-logo ‘tonight’ (-logo < &ast;rodrom ‘night’), Nehan (MM) na-boung ‘last night’, na-liwo ‘this morning (past)’ vs ro-liwo ‘tomorrow’ (the origin of ro- is unknown), and Tongan (Pn) ʔane-pō ‘last night’ vs ʔa-pō ‘tonight’. Niuean (Pn) has terms reflecting &ast;[qa]na-: ne- poŋi-poŋi ‘this morning (past)’, ne-pō ‘last night’, and ne-afi-afi ‘yesterday evening’. [Biggs and Clark](../references.md#source-BiggsandClark1993) ([1993](../references.md#source-BiggsandClark1993)) reconstruct PPn &ast;qana-pō ‘last night’:
+There are a few languages where _&ast;qa-_ is prefixed to a part of the day to form a future expression, _&ast;[qa]na-_ to form a past expression, but it is not clear whether these expressions are reconstructable for POc or are simply independent innovations resulting from the productivity of the prefixes. Thus we find Nakanai (MM) _ala-logo_ ‘last night’ vs _ga-logo_ ‘tonight’ (_-logo_ < _&ast;rodrom_ ‘night’), Nehan (MM) _na-boung_ ‘last night’, _na-liwo_ ‘this morning (past)’ vs _ro-liwo_ ‘tomorrow’ (the origin of _ro-_ is unknown), and Tongan (Pn) _ʔane-pō_ ‘last night’ vs _ʔa-pō_ ‘tonight’. Niuean (Pn) has terms reflecting _&ast;[qa]na-_: _ne-poŋi-poŋi_ ‘this morning (past)’, _ne-pō_ ‘last night’, and _ne-afi-afi_ ‘yesterday evening’. [Biggs and Clark](../references.md#source-BiggsandClark1993) ([1993](../references.md#source-BiggsandClark1993)) reconstruct PPn _&ast;qana-pō_ ‘last night’:
 
 <table>
 <tr>
@@ -3079,7 +3088,7 @@ There are a few languages where &ast;qa- is prefixed to a part of the day to for
 '<span>last night</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>East Uvean</td><td><i>ʔana pō </i></td>
+<td>Pn</td><td>East Uvean</td><td><i>ʔana pō</i></td>
 <td>
 '<span>last night</span>'</td>
 </tr>
@@ -3102,7 +3111,7 @@ There are a few languages where &ast;qa- is prefixed to a part of the day to for
 
 9.3.3.2 ‘yesterday’
 
-The POc base for ‘yesterday’ was &ast;ñoRap. A few reflexes reflect accretion of the preposition &ast;i, and just two reflect &ast;qa-. Whether &ast;qa-ñoRap occurred in POc or whether &ast;qa- continued to be productive and came later to be attached to reflexes of &ast;ñoRap is unclear. This question is compounded by an interesting distributional phenomenon. We can also reconstruct POc &ast;na-ñoRap, with past formative &ast;na- (p.324). This is reflected largely, but not exclusively, in Eastern Oceanic languages, whilst unprefixed &ast;ñoRap is reflected mainly in Western Oceanic languages. There is an overlap zone in the southeast Solomons and northern Vanuatu.
+The POc base for ‘yesterday’ was _&ast;ñoRap_. A few reflexes reflect accretion of the preposition _&ast;i_, and just two reflect _&ast;qa-_. Whether _&ast;qa-ñoRap_ occurred in POc or whether _&ast;qa-_ continued to be productive and came later to be attached to reflexes of _&ast;ñoRap_ is unclear. This question is compounded by an interesting distributional phenomenon. We can also reconstruct POc _&ast;na-ñoRap_, with past formative _&ast;na-_ (p.324). This is reflected largely, but not exclusively, in Eastern Oceanic languages, whilst unprefixed _&ast;ñoRap_ is reflected mainly in Western Oceanic languages. There is an overlap zone in the southeast Solomons and northern Vanuatu.
 
 <table>
 <tr>
@@ -3252,7 +3261,7 @@ The POc base for ‘yesterday’ was &ast;ñoRap. A few reflexes reflect accreti
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Halia</td><td><i>(i) nolaha </i></td>
+<td>MM</td><td>Halia</td><td><i>(i) nolaha</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
@@ -3323,7 +3332,7 @@ The POc base for ‘yesterday’ was &ast;ñoRap. A few reflexes reflect accreti
 
 <a id="p-326"></a>
 
-The Southern Vanuatu members of the set below reflect a Proto South Vanuatu form reconstructed by [Lynch](../references.md#source-Lynch2001c) ([2001c](../references.md#source-Lynch2001c):211) as &ast;na-yan(a,u)v. POc &ast;R is sporadically lost in Proto South Vanuatu, and these forms seem to reflect a metathesis of a reflex of na-ñoRap to &ast;na-Rañop.
+The Southern Vanuatu members of the set below reflect a Proto South Vanuatu form reconstructed by [Lynch](../references.md#source-Lynch2001c) ([2001c](../references.md#source-Lynch2001c):211) as _&ast;na-yan(a,u)v_. POc _&ast;R_ is sporadically lost in Proto South Vanuatu, and these forms seem to reflect a metathesis of a reflex of _na-ñoRap_ to _&ast;na-Rañop_.
 
 <table>
 <tr>
@@ -3337,7 +3346,7 @@ The Southern Vanuatu members of the set below reflect a Proto South Vanuatu form
 <tr>
 <td>NNG</td><td>Lamogai</td><td><i>narnop</i></td>
 <td>
-'<span>yesterday</span>' (<span>&lt; *na-norap: metathesis</span>)</td>
+'<span>yesterday</span>' (<span>&lt; <em>*na-norap</em>: metathesis</span>)</td>
 </tr>
 <tr>
 <td>MM</td><td>Tabar</td><td><i>nenora</i></td>
@@ -3440,7 +3449,7 @@ The Southern Vanuatu members of the set below reflect a Proto South Vanuatu form
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>(e) nanoa </i></td>
+<td>Fij</td><td>Bauan</td><td><i>(e) nanoa</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
@@ -3451,7 +3460,7 @@ The Southern Vanuatu members of the set below reflect a Proto South Vanuatu form
 
 <a id="p-327"></a>
 
-There seem to be at least two other variants on this form. Certain Papuan Tip languages reflect &ast;Ropa:
+There seem to be at least two other variants on this form. Certain Papuan Tip languages reflect _&ast;Ropa_:
 
 ```
 PT:      Tawala          lolowa          ‘before, (a few) days back’
@@ -3459,9 +3468,9 @@ PT:      Dobu            lowa            ‘day before yesterday’
 PT:      Kiriwina        lova            ‘yesterday’
 ```
 
-This seems to be the outcome of a three-step process. First, the vowels of &ast;ñoRap metathesised to &ast;ñaRop (as they have done in Selau narowa in the first &ast;ñoRap set above). Then, &ast;ñ became &ast;n and a paragogic &ast;-a was added, both regular changes, giving &ast;naRopa. Finally, &ast;na- was reinterpreted as the past formative, leaving the base &ast;Ropa reflected above.
+This seems to be the outcome of a three-step process. First, the vowels of _&ast;ñoRap_ metathesised to _&ast;ñaRop_ (as they have done in Selau _narowa_ in the first _&ast;ñoRap_ set above). Then, _&ast;ñ_ became _&ast;n_ and a paragogic _&ast;-a_ was added, both regular changes, giving _&ast;naRopa_. Finally, _&ast;na-_ was reinterpreted as the past formative, leaving the base _&ast;Ropa_ reflected above.
 
-The forms below reflect Proto NCV &ast;na-novi ‘yesterday’. This contrasts with Proto NCV &ast;novi ‘tomorrow’ (Nokuku pwa-novi, Kiai i-novi, Tolomako i novi) and so may have nothing to do with &ast;na-ñoRap. [Clark](../references.md#source-Clark1996) ([1996](../references.md#source-Clark1996)) thinks it reflects a conflation of POc &ast;na- ñoRap and &ast;na-Rapi (below), however, and he may be right.
+The forms below reflect Proto NCV _&ast;na-novi_ ‘yesterday’. This contrasts with Proto NCV _&ast;novi_ ‘tomorrow’ (Nokuku _pʷa-novi_, Kiai _i-novi_, Tolomako _i novi_) and so may have nothing to do with _&ast;na-ñoRap_. [Clark](../references.md#source-Clark1996) ([1996](../references.md#source-Clark1996)) thinks it reflects a conflation of POc _&ast;na-ñoRap_ and _&ast;na-Rapi_ (below), however, and he may be right.
 
 ```
 NCV: Raga               ninovi           ‘yesterday’
@@ -3474,7 +3483,7 @@ NCV: Nguna              nanova           ‘yesterday’
 NCV: Tolomako           na novi          ‘yesterday’
 ```
 
-The term below reflects POc &ast;boŋi ‘night, day of twenty-four hours’ prefixed with the past formative &ast;na-. The reconstruction of &ast;na-boŋi ‘yesterday’ as far back as POc is questionable, as it is not well attested outside Meso-Melanesian languages.
+The term below reflects POc _&ast;boŋi_ ‘night, day of twenty-four hours’ prefixed with the past formative _&ast;na-_. The reconstruction of _&ast;na-boŋi_ ‘yesterday’ as far back as POc is questionable, as it is not well attested outside Meso-Melanesian languages.
 
 <table>
 <tr>
@@ -3568,7 +3577,7 @@ cf. also:
 <td>Hote</td>
 <td>(wak)buk</td>
 <td>
-'<span>yesterday</span>' (<span>wak &lt; POc *qaco ‘sun’</span>)</td>
+'<span>yesterday</span>' (<span><em>wak</em> &lt; POc <em>*qaco</em> ‘sun’</span>)</td>
 </tr>
 <tr>
 <td>NNG</td>
@@ -3611,7 +3620,7 @@ cf. also:
 
 <a id="p-328"></a>
 
-A few Western Oceanic terms for ‘yesterday’ reflect POc &ast;raqani ‘daytime, daylight’ (p.309). Reflexes in Sio (NNG) and in the Central Papuan subgroup of Papuan Tip languages have a prefix which appears to reflect a preposition reflex of POc &ast;ua (VF) ‘go towards addressee’, (DIR) ‘towards addressee’ ([Ch.8, §3.4.4](chapter8.md#s-3-4)).
+A few Western Oceanic terms for ‘yesterday’ reflect POc _&ast;raqani_ ‘daytime, daylight’ (p.309). Reflexes in Sio (NNG) and in the Central Papuan subgroup of Papuan Tip languages have a prefix which appears to reflect a preposition reflex of POc _&ast;ua_ (VF) ‘go towards addressee’, (DIR) ‘towards addressee’ ([Ch.8, §3.4.4](chapter8.md#s-3-4)).
 
 ```
 NNG:    Sio               wa-lani           (ADV) ‘day before yesterday ’
@@ -3624,7 +3633,7 @@ PT:     Kuni              ua-nani           ‘yesterday’
 PT:     E. Mekeo          a-ŋani            ‘yesterday’
 ```
 
-The term below is clearly the same root as &ast;Rapi/&ast;Rapi-Rapi ‘late afternoon and evening, from about 3 p.m. to sunset’ (p.313). I have placed a question mark against the reconstructed gloss below, as it is not attested in the data. However, the gloss ‘yesterday’ is presumably the result of extension of meanings denoting ‘last evening’. Nuclear Polynesian languages reflect an unexplained innovation whereby &ast;qa-na-api became &ast;qa- na-napi.
+The term below is clearly the same root as _&ast;Rapi_/_&ast;Rapi-Rapi_ ‘late afternoon and evening, from about 3 p.m. to sunset’ (p.313). I have placed a question mark against the reconstructed gloss below, as it is not attested in the data. However, the gloss ‘yesterday’ is presumably the result of extension of meanings denoting ‘last evening’. Nuclear Polynesian languages reflect an unexplained innovation whereby _&ast;qa-na-api_ became _&ast;qa-na-napi_.
 
 <table>
 <tr>
@@ -3757,9 +3766,9 @@ cf. also:
 
 9.3.3.3 ‘tomorrow’
 
-There is no POc term for ‘tomorrow’ that is as unambiguously reconstructable as &ast;ñoRap is for ‘yesterday’.
+There is no POc term for ‘tomorrow’ that is as unambiguously reconstructable as _&ast;ñoRap_ is for ‘yesterday’.
 
-We might expect that just as POc &ast;na-boŋi (p.327), with the past formative, was perhaps used for ‘yesterday’, so &ast;boŋi ‘night, day of twenty-four hours’, without a formative, might also have served for ‘tomorrow’. But this would have been ambiguous in at least some contexts, so we would expect some disambiguating marker. We do indeed find reflexes of &ast;boŋi used for ‘tomorrow’, and some of these are listed below, but they do not form a cognate set, and their disambiguating markers vary from demonstratives (Iduna, Sinaugoro) through an adposition (Dawawa) to irrealis enclitics (Mindiri, Bilibil, Matukar).
+We might expect that just as POc _&ast;na-boŋi_ (p.327), with the past formative, was perhaps used for ‘yesterday’, so _&ast;boŋi_ ‘night, day of twenty-four hours’, without a formative, might also have served for ‘tomorrow’. But this would have been ambiguous in at least some contexts, so we would expect some disambiguating marker. We do indeed find reflexes of _&ast;boŋi_ used for ‘tomorrow’, and some of these are listed below, but they do not form a cognate set, and their disambiguating markers vary from demonstratives (Iduna, Sinaugoro) through an adposition (Dawawa) to irrealis enclitics (Mindiri, Bilibil, Matukar).
 
 ```
 Adm: Drehet             (neke)piŋ          (ADV) ‘tomorrow’
@@ -3781,7 +3790,7 @@ NCV: Namakir            (paʔa)bog          ‘tomorrow’
 Mic: Kiribatese         (niŋā)boŋ          ‘tomorrow’
 ```
 
-We also find reduplicated reflexes of &ast;boŋi, but I take these to be reflexes of POc &ast;boŋi- boŋi ‘early morning from dawn to 9 or 10 a.m.’ (p.310). I doubt whether the sense ‘tomorrow’ is also reconstructable for &ast;boŋi-boŋi and assume that these are the outcomes of parallel innovations, similar to those via which reflexes of &ast;Rapi ‘evening’ came to mean ‘yesterday’.
+We also find reduplicated reflexes of _&ast;boŋi_, but I take these to be reflexes of POc _&ast;boŋi-boŋi_ ‘early morning from dawn to 9 or 10 a.m.’ (p.310). I doubt whether the sense ‘tomorrow’ is also reconstructable for _&ast;boŋi-boŋi_ and assume that these are the outcomes of parallel innovations, similar to those via which reflexes of _&ast;Rapi_ ‘evening’ came to mean ‘yesterday’.
 
 <table>
 <tr>
@@ -3867,9 +3876,9 @@ We also find reduplicated reflexes of &ast;boŋi, but I take these to be reflexe
 
 <a id="p-330"></a>
 
-Reflexes of POc &ast;puko ‘morning’ (p.311) have also come to mean ‘tomorrow’ in a number of languages.
+Reflexes of POc _&ast;puko_ ‘morning’ (p.311) have also come to mean ‘tomorrow’ in a number of languages.
 
-POc &ast;ma-pua ‘tomorrow’ is reconstructable from the rather skewed cognate set below. Data from Sulawesi languages and Balinese cited by [Mead](../references.md#source-Mead2001) ([2001](../references.md#source-Mead2001)) point to the reconstruction of PMP &ast;i-pu(h)a-n ‘day after tomorrow, day before yesterday’, and the POc root &ast;-pua here apparently reflects PMP &ast;-pu(h)a-. However, the apparent shift in meaning is unexplained.
+POc _&ast;ma-pua_ ‘tomorrow’ is reconstructable from the rather skewed cognate set below. Data from Sulawesi languages and Balinese cited by [Mead](../references.md#source-Mead2001) ([2001](../references.md#source-Mead2001)) point to the reconstruction of PMP _&ast;i-pu(h)a-n_ ‘day after tomorrow, day before yesterday’, and the POc root _&ast;-pua_ here apparently reflects PMP _&ast;-pu(h)a-_. However, the apparent shift in meaning is unexplained.
 
 <table>
 <tr>
@@ -3939,7 +3948,7 @@ POc &ast;ma-pua ‘tomorrow’ is reconstructable from the rather skewed cognate
 
 
 
-POc &ast;ma-raqani was presumably originally a verb meaning ‘become light’, derived from &ast;raqani ‘daytime, daylight’ (p.309). Its reflexes in a number of languages mean ‘tomorrow’, as do several other reflexes of &ast;raqani listed below. If it is the case, as suggested on p.300, that the POc day began at sunset, then, once sunset had passed, &ast;i raqani ‘in the daylight’ (reflected directly in Sa’a and ’Are’are) would have referred to the daylight of the present day—‘tomorrow’ in an English-speaker’s terms.
+POc _&ast;ma-raqani_ was presumably originally a verb meaning ‘become light’, derived from _&ast;raqani_ ‘daytime, daylight’ (p.309). Its reflexes in a number of languages mean ‘tomorrow’, as do several other reflexes of _&ast;raqani_ listed below. If it is the case, as suggested on p.300, that the POc day began at sunset, then, once sunset had passed, _&ast;i raqani_ ‘in the daylight’ (reflected directly in Sa’a and ’Are’are) would have referred to the daylight of the present day — ‘tomorrow’ in an English-speaker’s terms.
 
 <table>
 <tr>
@@ -4018,7 +4027,7 @@ cf. also:
 <tr>
 <td>SES</td>
 <td>Sa'a</td>
-<td>i deni </td>
+<td>i deni</td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
@@ -4035,7 +4044,7 @@ cf. also:
 
 <a id="p-331"></a>
 
-There is also a variety of forms that seem to reflect a root &ast;tuqu ‘tomorrow’.
+There is also a variety of forms that seem to reflect a root _&ast;tuqu_ ‘tomorrow’.
 
 <table>
 <tr>
@@ -4125,7 +4134,7 @@ There is also a variety of forms that seem to reflect a root &ast;tuqu ‘tomorr
 <tr>
 <td>Pn</td><td>Nukuria</td><td><i>(bō)aledū</i></td>
 <td>
-'<span>tomorrow night</span>' (<span>bō ‘night’</span>)</td>
+'<span>tomorrow night</span>' (<span><em>bō</em> ‘night’</span>)</td>
 </tr>
 <tr>
 <td>Pn</td><td>West Futunan</td><td><i>aratu</i></td>
@@ -4138,20 +4147,20 @@ There is also a variety of forms that seem to reflect a root &ast;tuqu ‘tomorr
 
 9.3.3.4 A note on the derivations of ‘yesterday’ and ‘tomorrow’
 
-The derivational relationships (i) between POc &ast;na-Rapi ‘yesterday’, &ast;qa-na-Rapi ‘yesterday’ and POc &ast;Rapi ‘evening’ and (ii) between POc &ast;raqani ‘(become) daylight’ and POc &ast;ma-raqani ‘tomorrow’ reflect a tendency across the world’s languages whereby terms for ‘yesterday’ and ‘tomorrow’ are derived from terms for ‘evening’ and ‘morning’ respectively. Terms meaning ‘in the evening’ and ‘in the morning’ lack temporal direction, but this is filled in by the presence of tense or (in some Oceanic languages) mood markers in the verb phrase, i.e. ‘in the evening’ is interpreted as ‘yesterday evening’, then comes by semantic extension to mean simply ‘yesterday’. A similar observation can be made for ‘tomorrow’. This interpretation is proposed by [Buck](../references.md#source-Buck1949) ([1949](../references.md#source-Buck1949):999–1000) for the similar derivations that are found for ‘tomorrow’ across much of the Indo-European family and for ‘yesterday’ in Modern Greek, and the Baltic and Slavonic languages. Parallel derivations have also occurred in Finnish and Estonian, in Turkic languages, in Arabic, in Pama- Nyungan and non-Pama-Nyungan Australian languages, in Siouan, in Chinese and in Japanese ([Ross 2001c](../references.md#source-Ross2001c)).
+The derivational relationships (i) between POc _&ast;na-Rapi_ ‘yesterday’, _&ast;qa-na-Rapi_ ‘yesterday’ and POc _&ast;Rapi_ ‘evening’ and (ii) between POc _&ast;raqani_ ‘(become) daylight’ and POc _&ast;ma-raqani_ ‘tomorrow’ reflect a tendency across the world’s languages whereby terms for ‘yesterday’ and ‘tomorrow’ are derived from terms for ‘evening’ and ‘morning’ respectively. Terms meaning ‘in the evening’ and ‘in the morning’ lack temporal direction, but this is filled in by the presence of tense or (in some Oceanic languages) mood markers in the verb phrase, i.e. ‘in the evening’ is interpreted as ‘yesterday evening’, then comes by semantic extension to mean simply ‘yesterday’. A similar observation can be made for ‘tomorrow’. This interpretation is proposed by [Buck](../references.md#source-Buck1949) ([1949](../references.md#source-Buck1949):999–1000) for the similar derivations that are found for ‘tomorrow’ across much of the Indo-European family and for ‘yesterday’ in Modern Greek, and the Baltic and Slavonic languages. Parallel derivations have also occurred in Finnish and Estonian, in Turkic languages, in Arabic, in Pama-Nyungan and non-Pama-Nyungan Australian languages, in Siouan, in Chinese and in Japanese ([Ross 2001c](../references.md#source-Ross2001c)).
 
-It seems possible that the one directed lexical root above, PMP &ast;ñeRab, POc &ast;ñoRap ‘yesterday’ is itself derivationally related to PMP &ast;Rabi ‘evening’.
+It seems possible that the one directed lexical root above, PMP _&ast;ñeRab_, POc _&ast;ñoRap_ ‘yesterday’ is itself derivationally related to PMP _&ast;Rabi_ ‘evening’.
 
 9.3.3.5 ‘the day before yesterday’ and ‘the day after tomorrow’
 
 
 <a id="p-332"></a>
 
-As I noted earlier, both ‘the day before yesterday’ and ‘the day after tomorrow’ were denoted by the inherently directionless temporal term POc &ast;waRisa ‘two days from today’. Past direction, i.e. ‘the day before yesterday’, was specified by the past formative &ast;na-, but, as with &ast;na-ñoRap and &ast;na-boŋi above, &ast;na- is reflected only (patchily) among Meso- Melanesian languages and more widely in Eastern Oceanic languages. Hence unprefixed reflexes of &ast;waRisa in Western Oceanic languages often denote ‘the day before yesterday’.
+As I noted earlier, both ‘the day before yesterday’ and ‘the day after tomorrow’ were denoted by the inherently directionless temporal term POc _&ast;waRisa_ ‘two days from today’. Past direction, i.e. ‘the day before yesterday’, was specified by the past formative _&ast;na-_, but, as with _&ast;na-ñoRap_ and _&ast;na-boŋi_ above, _&ast;na-_ is reflected only (patchily) among Meso-Melanesian languages and more widely in Eastern Oceanic languages. Hence unprefixed reflexes of _&ast;waRisa_ in Western Oceanic languages often denote ‘the day before yesterday’.
 
-Note that reflexes in Bing, Takia and Yabem which lack a reflex of final &ast;-sa have lost it as a result of regular sound changes.
+Note that reflexes in Bing, Takia and Yabem which lack a reflex of final _&ast;-sa_ have lost it as a result of regular sound changes.
 
-The Proto Tanna (SV) and Proto Polynesian reflexes of &ast;qa-na- lost the past-marking function. Tanna languages add a prefix for future direction, and PPn &ast;qanoisa came to mean ‘the day after tomorrow’.
+The Proto Tanna (SV) and Proto Polynesian reflexes of _&ast;qa-na-_ lost the past-marking function. Tanna languages add a prefix for future direction, and PPn _&ast;qanoisa_ came to mean ‘the day after tomorrow’.
 
 <table>
 <tr>
@@ -4245,7 +4254,7 @@ The Proto Tanna (SV) and Proto Polynesian reflexes of &ast;qa-na- lost the past-
 <tr>
 <td>MM</td><td>Bola</td><td><i>rira</i></td>
 <td>
-'<span>day before yesterday</span>' (<span>for expected **arira</span>)</td>
+'<span>day before yesterday</span>' (<span>for expected <em>**arira</em></span>)</td>
 </tr>
 <tr>
 <td>MM</td><td>Bola</td><td><i>(gi)rira</i></td>
@@ -4255,12 +4264,12 @@ The Proto Tanna (SV) and Proto Polynesian reflexes of &ast;qa-na- lost the past-
 <tr>
 <td>MM</td><td>Meramera</td><td><i>lisa</i></td>
 <td>
-'<span>day before yesterday; formerly</span>' (<span>for expected **walisa</span>)</td>
+'<span>day before yesterday; formerly</span>' (<span>for expected <em>**walisa</em></span>)</td>
 </tr>
 <tr>
 <td>MM</td><td>Nakanai</td><td><i>uaisa</i></td>
 <td>
-'<span>the day after tomorrow</span>' (<span>for expected **ualisa</span>)</td>
+'<span>the day after tomorrow</span>' (<span>for expected <em>**ualisa</em></span>)</td>
 </tr>
 <tr>
 <td>MM</td><td>Patpatar</td><td><i>uaris</i></td>
@@ -4305,7 +4314,7 @@ The Proto Tanna (SV) and Proto Polynesian reflexes of &ast;qa-na- lost the past-
 <tr>
 <td>MM</td><td>Maringe</td><td><i>(na)uriha</i></td>
 <td>
-'<span>day after tomorrow</span>' (<span>na ART</span>)</td>
+'<span>day after tomorrow</span>' (<span><em>na</em> ART</span>)</td>
 </tr>
 <tr>
 <td>SES</td><td>Gela</td><td><i>valiha</i></td>
@@ -4323,17 +4332,17 @@ The Proto Tanna (SV) and Proto Polynesian reflexes of &ast;qa-na- lost the past-
 '<span>former, previous, past</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>'Are'are</td><td><i>i warita </i></td>
+<td>SES</td><td>'Are'are</td><td><i>i warita</i></td>
 <td>
 '<span>formerly, in the old days</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Ulawa</td><td><i>i welita </i></td>
+<td>SES</td><td>Ulawa</td><td><i>i welita</i></td>
 <td>
 '<span>two days hence</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>i waite </i></td>
+<td>SES</td><td>Sa'a</td><td><i>i waite</i></td>
 <td>
 '<span>two days ago</span>'</td>
 </tr>
@@ -4497,7 +4506,7 @@ The Proto Tanna (SV) and Proto Polynesian reflexes of &ast;qa-na- lost the past-
 
 
 
-The contrast between &ast;waRisa with and without &ast;na- is reflected in the following pairs:
+The contrast between _&ast;waRisa_ with and without _&ast;na-_ is reflected in the following pairs:
 
 ```
 &ast;waRisa                           &ast;[qa-]na-waRisa
@@ -4514,7 +4523,7 @@ day after tomorrow’
 
 <a id="p-334"></a>
 
-Apparently an alternative way of expressing ‘the day after tomorrow’ in POc was &ast;boŋi rua ‘day of twenty-four hours’ + ‘two’ (in a few languages the opposite order of elements is reflected, in line with syntactic change). This was perhaps a way of avoiding the ambiguity of temporally directionless &ast;waRisa. However, in a few modern languages this expression can also mean ‘day before yesterday’ (in Wayan a preposed particle indicates temporal direction). In two widely separated languages, Tami and Mono-Alu, the reflex apparently means ‘tomorrow’: one can imagine several ways in which this meaning change might have occurred, but none is especially convincing.
+Apparently an alternative way of expressing ‘the day after tomorrow’ in POc was _&ast;boŋi rua_ ‘day of twenty-four hours’ + ‘two’ (in a few languages the opposite order of elements is reflected, in line with syntactic change). This was perhaps a way of avoiding the ambiguity of temporally directionless _&ast;waRisa_. However, in a few modern languages this expression can also mean ‘day before yesterday’ (in Wayan a preposed particle indicates temporal direction). In two widely separated languages, Tami and Mono-Alu, the reflex apparently means ‘tomorrow’: one can imagine several ways in which this meaning change might have occurred, but none is especially convincing.
 
 <table>
 <tr>
@@ -4581,7 +4590,7 @@ Apparently an alternative way of expressing ‘the day after tomorrow’ in POc 
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Nokuku</td><td><i>pon rua </i></td>
+<td>NCV</td><td>Nokuku</td><td><i>pon rua</i></td>
 <td>
 '<span>two days hence</span>'</td>
 </tr>
@@ -4591,7 +4600,7 @@ Apparently an alternative way of expressing ‘the day after tomorrow’ in POc 
 '<span>the day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Uripiv</td><td><i>bon eru </i></td>
+<td>NCV</td><td>Uripiv</td><td><i>bon eru</i></td>
 <td>
 '<span>day before yesterday</span>'</td>
 </tr>
@@ -4601,12 +4610,12 @@ Apparently an alternative way of expressing ‘the day after tomorrow’ in POc 
 '<span>day before yesterday</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>ei boŋi-rua </i></td>
+<td>Fij</td><td>Wayan</td><td><i>ei boŋi-rua</i></td>
 <td>
 '<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>a boŋi-rua </i></td>
+<td>Fij</td><td>Wayan</td><td><i>a boŋi-rua</i></td>
 <td>
 '<span>day before yesterday</span>'</td>
 </tr>
@@ -4633,9 +4642,9 @@ As far as I can tell, only temporal distances within a day and those measured in
 
 <a id="p-335"></a>
 
-Blust (ACD) reconstructs PAn &ast;ijan ‘when?’, and we would expect the POc form to be &ast;ican. This is indeed attested, always with a prefix, but only in a few languages. What we find more widely are reflexes of POc &ast;ŋaican or &ast;ŋican, sometimes prefixed with &ast;qa- or &ast;[qa]na-. The added &ast;ŋ[a]- of &ast;ŋa-ican or &ast;ŋ-ican seems to be a fossilised reflex of the POc prefix &ast;ŋa-, an occasionally reflected alternant of POc &ast;qa- (p.237). This prefix is also reflected in Nakanai ga-isa, shown as a reflex of &ast;ican below. The reason Nakanai ga- isa is treated as a reflex of &ast;ican, and not of &ast;ŋaican, is that in Nakanai ga- remains as a productive adverbial formative on temporal bases, alternating with the past formative ala- (reflecting POc &ast;[qa]na-).
+Blust (ACD) reconstructs PAn _&ast;ijan_ ‘when?’, and we would expect the POc form to be _&ast;ican_. This is indeed attested, always with a prefix, but only in a few languages. What we find more widely are reflexes of POc _&ast;ŋaican_ or _&ast;ŋican_, sometimes prefixed with _&ast;qa-_ or _&ast;[qa]na-_. The added _&ast;ŋ[a]-_ of _&ast;ŋa-ican_ or _&ast;ŋ-ican_ seems to be a fossilised reflex of the POc prefix _&ast;ŋa-_, an occasionally reflected alternant of POc _&ast;qa-_ (p.237). This prefix is also reflected in Nakanai _ga-isa_, shown as a reflex of _&ast;ican_ below. The reason Nakanai _ga-isa_ is treated as a reflex of _&ast;ican_, and not of _&ast;ŋaican_, is that in Nakanai _ga-_ remains as a productive adverbial formative on temporal bases, alternating with the past formative _ala-_ (reflecting POc _&ast;[qa]na-_).
 
-From the distributions of their reflexes, it seems that &ast;ŋaican or &ast;ŋican were already alternants to &ast;ican by the time POc broke up.
+From the distributions of their reflexes, it seems that _&ast;ŋaican_ or _&ast;ŋican_ were already alternants to _&ast;ican_ by the time POc broke up.
 
 <table>
 <tr>
@@ -4770,7 +4779,7 @@ From the distributions of their reflexes, it seems that &ast;ŋaican or &ast;ŋi
 '<span>when (future)?</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Nokuku</td><td><i>(pwa)nes</i></td>
+<td>NCV</td><td>Nokuku</td><td><i>(pʷa)nes</i></td>
 <td>
 '<span>when (future)?</span>'</td>
 </tr>
@@ -4948,7 +4957,7 @@ From the distributions of their reflexes, it seems that &ast;ŋaican or &ast;ŋi
 <tr>
 <td>SES</td><td>Kwaio</td><td><i>aŋita</i></td>
 <td>
-'<span>when?</span>' (<span>also nānita ‘when?’</span>)</td>
+'<span>when?</span>' (<span>also <em>nānita</em> ‘when?’</span>)</td>
 </tr>
 <tr>
 <td>NCV</td><td>Kiai</td><td><i>nisa</i></td>
@@ -4956,7 +4965,7 @@ From the distributions of their reflexes, it seems that &ast;ŋaican or &ast;ŋi
 '<span>when (future)?</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Tolomako</td><td><i>i ŋisa </i></td>
+<td>NCV</td><td>Tolomako</td><td><i>i ŋisa</i></td>
 <td>
 '<span>when (future)?</span>'</td>
 </tr>
@@ -4966,12 +4975,12 @@ From the distributions of their reflexes, it seems that &ast;ŋaican or &ast;ŋi
 '<span>when?</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>ei ŋiða </i></td>
+<td>Fij</td><td>Wayan</td><td><i>ei ŋiða</i></td>
 <td>
 '<span>when (future)?</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>a ŋiða </i></td>
+<td>Fij</td><td>Wayan</td><td><i>a ŋiða</i></td>
 <td>
 '<span>when (past)?</span>'</td>
 </tr>
@@ -4982,7 +4991,7 @@ From the distributions of their reflexes, it seems that &ast;ŋaican or &ast;ŋi
 
 <a id="p-336"></a>
 
-A scattering of languages reflect the past formative with either &ast;ŋaican or &ast;ŋican.
+A scattering of languages reflect the past formative with either _&ast;ŋaican_ or _&ast;ŋican_.
 
 <table>
 <tr>
@@ -5011,7 +5020,7 @@ A scattering of languages reflect the past formative with either &ast;ŋaican or
 <tr>
 <td>SES</td><td>Kwaio</td><td><i>nānita</i></td>
 <td>
-'<span>when?</span>' (<span>also aŋita ‘when?’</span>)</td>
+'<span>when?</span>' (<span>also <em>aŋita</em> ‘when?’</span>)</td>
 </tr>
 <tr>
 <td>SES</td><td>'Are'are</td><td><i>nanita</i></td>
@@ -5095,7 +5104,7 @@ A scattering of languages reflect the past formative with either &ast;ŋaican or
 
 <a id="p-337"></a>
 
-In Proto Polynesian, reflexes of POc &ast;ican and its derivatives had been lost. Instead, the PPn local root &ast;fea ‘where’ (Ch. 8, p.265) was used. The local and temporal uses remained distinct, since ‘where’ was expressed by the preposition &ast;i + root, whereas ‘when’ was expressed by prefixing PPn &ast;qā- for the future and &ast;[qa]na- for the past.
+In Proto Polynesian, reflexes of POc _&ast;ican_ and its derivatives had been lost. Instead, the PPn local root _&ast;fea_ ‘where’ (Ch. 8, p.265) was used. The local and temporal uses remained distinct, since ‘where’ was expressed by the preposition _&ast;i_ + root, whereas ‘when’ was expressed by prefixing PPn _&ast;qā-_ for the future and _&ast;[qa]na-_ for the past.
 
 <table>
 <tr>
@@ -5196,7 +5205,7 @@ In Proto Polynesian, reflexes of POc &ast;ican and its derivatives had been lost
 
 ## Notes
 
-[^1]: The meaning of yesterday as a period of time can be preserved by a semantic analysis which interprets it in this context as at some point of time during yesterday, but I have not come across a language where the period-of-time and point-of-time uses of ‘yesterday’ are distinguished in the form of the adjunct, and so the assumption here, that the difference between them is one of contextually determined construal, not of polysemousness, appears legitimate.
+[^1]: The meaning of _yesterday_ as a period of time can be preserved by a semantic analysis which interprets it in this context as _at some point of time during yesterday_, but I have not come across a language where the period-of-time and point-of-time uses of ‘yesterday’ are distinguished in the form of the adjunct, and so the assumption here, that the difference between them is one of contextually determined construal, not of polysemousness, appears legitimate.
 
 [^2]: If we think of time as analogous with space, then deictic temporal expressions like ‘recently’ (= ‘a short distance in the direction of the past’) are analogous with deictic-geographic expressions like ‘seawards’ (= ‘in the direction of the coast’), not with ‘pure’ deictics like ‘there’ or ‘yonder’.
 
@@ -5212,16 +5221,16 @@ In Proto Polynesian, reflexes of POc &ast;ican and its derivatives had been lost
 
 [^8]: From about 2 p.m. when the sun is no longer directly overhead until sunset.
 
-[^9]:     Each of the two seasons which make up the Gilbertese year, Nei Auti (Pleiades) and Rimwimāta (Antares) is divided into eight shorter periods called boŋ, each separately named (see [Grimble 1931](../references.md#source-Grimble1931):201).
+[^9]:     Each of the two seasons which make up the Gilbertese year, _Nei Auti_ (Pleiades) and _Rimʷimāta_ (Antares) is divided into eight shorter periods called _boŋ_, each separately named (see [Grimble 1931](../references.md#source-Grimble1931):201).
 
-[^10]: Reconstructed on the basis of Proto Minahasan &ast;dm̅dm̅ ‘dark’ ([Sneddon 1978](../references.md#source-Sneddon1978)) and the Oceanic reflexes shown here.
+[^10]: Reconstructed on the basis of Proto Minahasan _&ast;dm̅dm̅_ ‘dark’ ([Sneddon 1978](../references.md#source-Sneddon1978)) and the Oceanic reflexes shown here.
 
 [^11]: Blust (ACD) glosses this ‘day’, but the gloss given here appears more consonant with the data.
 
-[^12]: Tongan ʔahoʔataa ‘at noon today’ seems at first sight to belong here, but, as [Churchward](../references.md#source-Churchward1959) ([1959](../references.md#source-Churchward1959)) shows, it reflects a probably unrelated base -hoʔatā.
+[^12]: Tongan _ʔahoʔataa_ ‘at noon today’ seems at first sight to belong here, but, as [Churchward](../references.md#source-Churchward1959) ([1959](../references.md#source-Churchward1959)) shows, it reflects a probably unrelated base _-hoʔatā_.
 
 [^13]: ‘New moon’ is also used in this sense in everyday English.
 
 [^14]: Sources listing days of the moon’s age are [Christian](../references.md#source-Christian1899) ([1899](../references.md#source-Christian1899):387–395) for Yapese, Ponapean, Lamotrek, Mortlockese and Woleaian, [Jackson and Marck](../references.md#source-JacksonandMarck1991) ([1991](../references.md#source-JacksonandMarck1991)) for Carolinian, [Lee](../references.md#source-Lee1976) ([1976](../references.md#source-Lee1976)) for Kosraean, [Tregear](../references.md#source-Tregearnd) ([n.d.](../references.md#source-Tregearnd)) for Hawai’ian, Tahitian, Marquesan, Rarotongan, Māori and Moriori, [Stimson](../references.md#source-Stimson1928) ([1928](../references.md#source-Stimson1928)) for Tahitian, [Williams](../references.md#source-Williams1928) ([1928](../references.md#source-Williams1928)) for Hawai’ian, Mangareva, Tahitian, Marquesan, Rarotongan, and Māori.
 
-[^15]: Blust (ACD) does not provide a gloss for &ast;ma-udehi. The gloss here is based on that for &ast;udehi.
+[^15]: Blust (ACD) does not provide a gloss for &ast;ma-udehi. The gloss here is based on that for _&ast;udehi_.

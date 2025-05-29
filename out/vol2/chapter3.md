@@ -9,14 +9,14 @@ by Meredith Osmond and Andrew Pawley and Malcolm Ross
 
 This chapter and the following one are an attempt to discover something of the way in which Proto Oceanic speakers experienced and conceptualised their environment. We begin by giving examples taken from the ethnographic literature of how several different Oceanic-speaking peoples describe parts of their environment. We then examine evidence, provided by cognate sets and lexical reconstructions, concerning details of the inanimate land environment known to speakers of Proto Oceanic and certain of its daughter languages. We deal first with the land and landforms, and include vegetation cover only when it is part of a topographical feature.[^1] Seascape is dealt with in the following chapter.
 
-[Malinowski](../references.md#source-Malinowski1922) ([1922](../references.md#source-Malinowski1922), 1935) has provided us with a detailed account of the Kiriwina people of the Trobriand Islands, a coral atoll system consisting of one big island (Kiriwina), two of moderate size, and a number of smaller ones surrounding a shallow lagoon. Kiriwina is flat, with no hills or mountains. The Kiriwina word for ‘mountain’ is koya, usually in reference to distant mountains on D’Entrecasteaux Islands occasionally visible in the south. Malinowski’s description of the settled environment is centred on an origin myth ‘hole of emergence’ [bwala], which is the basis of their land tenure system. Terms or descriptions in square brackets have been added from elsewhere in the text.
+[Malinowski](../references.md#source-Malinowski1922) ([1922](../references.md#source-Malinowski1922), 1935) has provided us with a detailed account of the Kiriwina people of the Trobriand Islands, a coral atoll system consisting of one big island (Kiriwina), two of moderate size, and a number of smaller ones surrounding a shallow lagoon. Kiriwina is flat, with no hills or mountains. The Kiriwina word for ‘mountain’ is _koya_, usually in reference to distant mountains on D’Entrecasteaux Islands occasionally visible in the south. Malinowski’s description of the settled environment is centred on an origin myth ‘hole of emergence’ [_bwala_], which is the basis of their land tenure system. Terms or descriptions in square brackets have been added from elsewhere in the text.
 
-> With such a hole of emergence there is always connected a village [valu], or part of a village, and a territory, or what we might call an assortment of lands, both of which belong to the people who came out of the hole. As a rule this comprises some waste land [kaibutia ‘barren land, useless for gardening’], a tabooed grove or two [boma], a portion of the rayboag [the narrow coral ridge] and perhaps one or two fields in the dumya ([inland] swamps); in every case it includes a large portion of cultivable bush (odila), divided into a number of fields [kubila], which are subdivided into plots. Those villages which are near the open sea own a part of the eastern seashore (momola) with a fishing and bathing beach and a few sheds for their canoes. On the lagoon the beach is called kavolawa and here canoes are kept. Thus a hole of emergence is always the centre of a contingent territory which encloses a village or part of it, and affords the following economic opportunities to its members: access to fertile, cultivable soil, invariably; at times access to navigation and fishing areas; a certain district for recreation and, of course, a system of roads communicating with other villages. (1935:343)
+> With such a hole of emergence there is always connected a village [_valu_], or part of a village, and a territory, or what we might call an assortment of lands, both of which belong to the people who came out of the hole. As a rule this comprises some waste land [_kaibutia_ ‘barren land, useless for gardening’], a tabooed grove or two [_boma_], a portion of the _rayboag_ [the narrow coral ridge] and perhaps one or two fields in the _dumya_ ([inland] swamps); in every case it includes a large portion of cultivable bush (_odila_), divided into a number of fields [_kubila_], which are subdivided into plots. Those villages which are near the open sea own a part of the eastern seashore (_momola_) with a fishing and bathing beach and a few sheds for their canoes. On the lagoon the beach is called _kavolawa_ and here canoes are kept. Thus a hole of emergence is always the centre of a contingent territory which encloses a village or part of it, and affords the following economic opportunities to its members: access to fertile, cultivable soil, invariably; at times access to navigation and fishing areas; a certain district for recreation and, of course, a system of roads communicating with other villages. (1935:343)
 
 
 <a id="p-36"></a>
 
-A second example is from Edvard Hviding’s Guardians of Marovo Lagoon, an account of the way of life of the Marovo speaking people from New Georgia in the western Solomons ([Hviding 1996](../references.md#source-Hviding1996)). The lagoon itself is vast, a largely enclosed area of shallow sea strewn with islands and reef patches and rimmed by barrier reef islands. It lies on the eastern edge of a high volcanic island covered in lush tropical rainforest and fringed with mangrove swamps. For their livelihood the people depend on a system of shifting agriculture and marine fishing. ‘Important dietary supplements are provided by hunting, focused on feral pigs, birds and marsupials in the rainforest, and by gathering shellfish from the reefs and mangroves, as well as nuts, fruits and leafy greens from garden fallows and forests’ (p.42). The main zones of local environmental classification are shown in Figure 2. They represent the puava or ancestral territories of a kinship group (butubutu) to which Marovo people belong. Puava has both a restricted sense, ‘soil, ground’ and a general one, the latter encompassing the total ancestral estate, reaching ‘from the peaks and ridges of the mainland upper mountains to the open sea outside the barrier reef’ (p.137).
+A second example is from Edvard Hviding’s _Guardians of Marovo Lagoon_, an account of the way of life of the Marovo speaking people from New Georgia in the western Solomons ([Hviding 1996](../references.md#source-Hviding1996)). The lagoon itself is vast, a largely enclosed area of shallow sea strewn with islands and reef patches and rimmed by barrier reef islands. It lies on the eastern edge of a high volcanic island covered in lush tropical rainforest and fringed with mangrove swamps. For their livelihood the people depend on a system of shifting agriculture and marine fishing. ‘Important dietary supplements are provided by hunting, focused on feral pigs, birds and marsupials in the rainforest, and by gathering shellfish from the reefs and mangroves, as well as nuts, fruits and leafy greens from garden fallows and forests’ (p.42). The main zones of local environmental classification are shown in Figure 2. They represent the _puava_ or ancestral territories of a kinship group (_butubutu_) to which Marovo people belong. _Puava_ has both a restricted sense, ‘soil, ground’ and a general one, the latter encompassing the total ancestral estate, reaching ‘from the peaks and ridges of the mainland upper mountains to the open sea outside the barrier reef’ (p.137).
 
 Figure 2: Marovo coastal profile (reproduced from [Hviding 1996](../references.md#source-Hviding1996):138 with the permission of the University of Hawai’i Press)
 
@@ -25,26 +25,26 @@ The next two examples are from Malaita in the Southeast Solomons. Walter Ivens w
 
 <a id="p-37"></a>
 
-> Land in the vicinity of the beach is called hara. Flat sandy land just above the beach is called nuu. Breadfruit and certain other fruit trees grow there. The lower foothills are known as fafo asi (lit. ‘above the sea’), and it is there that people have their taro gardens. Garden ground, as distinct from uncleared forest, is called gano; gano alu is old garden ground that is not yet ready for planting, ground .. that has not yet been rested sufficiently. Virgin forest is kwaena.
+> Land in the vicinity of the beach is called _hara_. Flat sandy land just above the beach is called _nuu_. Breadfruit and certain other fruit trees grow there. The lower foothills are known as _fafo asi_ (lit. ‘above the sea’), and it is there that people have their taro gardens. Garden ground, as distinct from uncleared forest, is called _gano_; _gano alu_ is old garden ground that is not yet ready for planting, ground … that has not yet been rested sufficiently. Virgin forest is _kʷaena_.
 
 Ivens’ second example is that of Sa’a, and its close neighbour, Ulawa, in the south-east of Malaita. The two share an almost identical language. Ivens writes (1927 [reissued 1972]:357–358):
 
-> The sandy soil just above the beach is called uluone [ulu ‘head’ + one ‘sand’], and on this soil the coconuts grow best … At the back of this tract of sandy soil is the pwainaa, subject to flooding and with a black soil … The fruit trees abound in this tract. Ulawa calls the upper part of this by the name akohu; it is less wet in character. The land rises immediately behind the pwainaa .. to the next district, pwaʔu. The meaning of this word is ‘smoke’.. At Sa’a, the upper division of pwaʔu is called lapwa, from the undergrowth there of the fern of the same name. The land up higher still is called in Sa’a ano mola [‘earth’ + ‘only’, i.e. earth with no rocks or stones], and in Ulawa kalona … Another term applied to the sandy soil of the old beaches is ʔoʔu. In some places the land immediately under the first ridge of upheaved coral rocks is called ote; the trees in the ote grow to a very large size, especially the teak, nau, and the awa, nephelium pinnatum. The ote ground is generally wet owing to soakage from the hills.
+> The sandy soil just above the beach is called _uluone_ [_ulu_ ‘head’ + _one_ ‘sand’], and on this soil the coconuts grow best … At the back of this tract of sandy soil is the _pwainaa_, subject to flooding and with a black soil … The fruit trees abound in this tract. Ulawa calls the upper part of this by the name _akohu_; it is less wet in character. The land rises immediately behind the _pwainaa_ … to the next district, _pwaʔu_. The meaning of this word is ‘smoke’ … At Sa’a, the upper division of _pwaʔu_ is called _lapwa_, from the undergrowth there of the fern of the same name. The land up higher still is called in Sa’a _ano mola_ [‘earth’ + ‘only’, i.e. earth with no rocks or stones], and in Ulawa _kalona_ … Another term applied to the sandy soil of the old beaches is _ʔoʔu_. In some places the land immediately under the first ridge of upheaved coral rocks is called _ote_; the trees in the _ote_ grow to a very large size, especially the teak, _nau_, and the _awa_, Nephelium pinnatum. The _ote_ ground is generally wet owing to soakage from the hills.
 
-Our last example is of the small high island of Tikopia, as described by Raymond Firth in his volume We, the Tikopia (1957). Tikopia is one of the Polynesian outliers, lying northeast of the Banks and Torres Islands, Vanuatu. In form it is a small, compact oval roughly four kilometres by three, and at the time of Firth’s fieldwork in 1928–29 it supported a population of just under 1300. It is likely that every surface feature of any significance would be known in detail. Firth provides two maps, reproduced here as Map 8(a), showing topographical features, and Map 8(b), which shows settlement features such as villages, springs and tracks.
+Our last example is of the small high island of Tikopia, as described by Raymond Firth in his volume _We, the Tikopia_ (1957). Tikopia is one of the Polynesian outliers, lying northeast of the Banks and Torres Islands, Vanuatu. In form it is a small, compact oval roughly four kilometres by three, and at the time of Firth’s fieldwork in 1928–29 it supported a population of just under 1300. It is likely that every surface feature of any significance would be known in detail. Firth provides two maps, reproduced here as Map 8(a), showing topographical features, and Map 8(b), which shows settlement features such as villages, springs and tracks.
 
-From Map 8(a) we can see that the mountains in the north of the island are simply Mauŋa, ‘mountain’, with the bulk of the tallest, Reani, labelled Mauŋa Lasi (‘great mountain’). The crest itself is termed Te Uru o te Fenua (‘the head of the land’) (p.27). The large lake in the centre of the island, a former crater lake and not a lagoon, is simply Te Roto (literally ‘middle, interior’), or more familiarly Te Vai (‘fresh water’) (p.23). Firth explains that the water is fresh because the apparent channel linking the lake to the sea is normally silted up, but may be dug out at certain seasons of the year when the lake is full from rain and the tide is high, to allow excess lake waters to flow down to the sea (p.25). The sand bar separating the lake from the sea on its eastern side is Te Koro (‘barrier of sand or stone against the sea’). Two rocky pinnacles which are all that remain of the former eastern wall of the crater, are Foŋa te Koro (‘top of the Koro’) and Foŋa Nuku (‘top of the settlement’). Breaks in the reef which enable canoes to pass to the open ocean are simply Te Ava (‘channels in the reef’). A large rock off the west coast is Fatu roa (‘tall rock’), while two small rocky outcrops in the east are Rua motu (‘two islets’). Sometimes included in place names are modifying terms like tua ‘back’, tafa ‘side’, foŋa ‘top, crown’ and muri ‘behind’. There are a number of springs named in both maps. These are referred to as Vai followed by a diferentiating name. The swampy area to the south is Te Ropera, a word whose etymology, Firth suggests (p.332) is roto pela [or pera], literally ‘middle mud’. Along the northern coast are cliffs, mato, (p.27) and caves or rock shelters, ana (p.23) (these last not shown on the map).
+From Map 8(a) we can see that the mountains in the north of the island are simply _Mauŋa_, ‘mountain’, with the bulk of the tallest, Reani, labelled _Mauŋa Lasi_ (‘great mountain’). The crest itself is termed _Te Uru o te Fenua_ (‘the head of the land’) (p.27). The large lake in the centre of the island, a former crater lake and not a lagoon, is simply _Te Roto_ (literally ‘middle, interior’), or more familiarly _Te Vai_ (‘fresh water’) (p.23). Firth explains that the water is fresh because the apparent channel linking the lake to the sea is normally silted up, but may be dug out at certain seasons of the year when the lake is full from rain and the tide is high, to allow excess lake waters to flow down to the sea (p.25). The sand bar separating the lake from the sea on its eastern side is _Te Koro_ (‘barrier of sand or stone against the sea’). Two rocky pinnacles which are all that remain of the former eastern wall of the crater, are _Foŋa te Koro_ (‘top of the Koro’) and _Foŋa Nuku_ (‘top of the settlement’). Breaks in the reef which enable canoes to pass to the open ocean are simply _Te Ava_ (‘channels in the reef’). A large rock off the west coast is _Fatu roa_ (‘tall rock’), while two small rocky outcrops in the east are _Rua motu_ (‘two islets’). Sometimes included in place names are modifying terms like _tua_ ‘back’, _tafa_ ‘side’, _foŋa_ ‘top, crown’ and _muri_ ‘behind’. There are a number of springs named in both maps. These are referred to as _Vai_ followed by a diferentiating name. The swampy area to the south is _Te Ropera_, a word whose etymology, Firth suggests (p.332) is _roto pela_ [or _pera_], literally ‘middle mud’. Along the northern coast are cliffs, _mato_, (p.27) and caves or rock shelters, _ana_ (p.23) (these last not shown on the map).
 
 
 <a id="p-38"></a>
 
-On Map 8(b) are names which loosely denote localities or districts, treated by Firth as proper names. For Ravenga and Faea, the two major divisions of the island, we can offer no explanation. But for three others, Namo, the point at which the lake exits to the sea, Uta at the western edge of the lake, and Tai, the flat plain of alluvial soil in the south which is largely taken up by swamp, we can posit POc origins based on their physical nature (&ast;namo ‘lagoon; enclosed water’, &ast;qutan ‘bushland, hinterland’, &ast;tasik ‘sea, salt water’).
+On Map 8(b) are names which loosely denote localities or districts, treated by Firth as proper names. For _Ravenga_ and _Faea_, the two major divisions of the island, we can offer no explanation. But for three others, _Namo_, the point at which the lake exits to the sea, _Uta_ at the western edge of the lake, and _Tai_, the flat plain of alluvial soil in the south which is largely taken up by swamp, we can posit POc origins based on their physical nature (_&ast;namo_ ‘lagoon; enclosed water’, _&ast;qutan_ ‘bushland, hinterland’, _&ast;tasik_ ‘sea, salt water’).
 
-In his discussion of land tenure (p.332), Firth refers to the tofi, areas of mixed woodland and clearing of varying size for which he adopts the translation ‘orchard’. Then there are the vao, open stretches of ground which are planted in taro, which he refers to as ‘gardens’. Paths, ara, run through orchards and gardens.
+In his discussion of land tenure (p.332), Firth refers to the _tofi_, areas of mixed woodland and clearing of varying size for which he adopts the translation ‘orchard’. Then there are the _vao_, open stretches of ground which are planted in taro, which he refers to as ‘gardens’. Paths, _ara_, run through orchards and gardens.
 
 Although these examples include many terms for which we can find no cognates, the features they label have much in common. They represent the places where most of the daily activities of their inhabitants are centred, from the forested areas where they hunt, to garden land in its various stages, to coastal swamp and sand, to the lagoon and reef, to islands and the open sea beyond.
 
-A number of the nouns reconstructed in this chapter and the next functioned as both common nouns and as local nouns, as their modern reflexes continue to do. For example, &ast;qutan as a common noun denoted the bush or bushland, while its local-noun use in the prepositional phrase &ast;i qutan could have either the expected sense ‘in the bush’ or the directional sense ‘(up) inland’. For further discussion and reconstruction of local-noun senses, see [Chapter 8, §2](chapter8.md#s-2).
+A number of the nouns reconstructed in this chapter and the next functioned as both common nouns and as local nouns, as their modern reflexes continue to do. For example, _&ast;qutan_ as a common noun denoted the bush or bushland, while its local-noun use in the prepositional phrase _&ast;i qutan_ could have either the expected sense ‘in the bush’ or the directional sense ‘(up) inland’. For further discussion and reconstruction of local-noun senses, see [Chapter 8, §2](chapter8.md#s-2).
 
 The rest of this chapter is organised under the following headings: land mass, coastal features, inland topographical features, land defined by vegetation, inland water features, mineral substances, fire, and destructive natural events. Details of seascape will be dealt with in Chapter 4.
 
@@ -58,7 +58,7 @@ The rest of this chapter is organised under the following headings: land mass, c
 ## 2.1. Land, mainland
 
 
-Reflexes of both POc &ast;panua (vol. 1, p.62) and _&ast;tanoq_[^2] are widely used to refer to the extent or physical state (rocky, flat, dry etc.) of the land, and may also be used to contrast land with sea. The two reconstructions, however, differed in their broader meanings. POc &ast;panua had several senses, outlined below, while POc &ast;tanoq referred particularly to ground or soil. Large islands, the major land masses of a region, are often denoted by reflexes of &ast;panua, and this term appears in proper names for major islands, e.g. Hanua To’o ‘San Cristobal’ (lit. ‘solid land’), as used in Arosi, of the Southeast Solomons, Vanua Levu and Vanua Balavu (lit. ‘big land’ and ‘long land’) in Fijian. Note also the Tongan form fonua lahi (lit. ‘big land’) for ‘mainland’. In ’Are’are, the land–sea contrast is expressed in riu i hanua ‘travel overland’ and riu i āsi ‘travel by sea’. In Arosi, the land is either henua hū or ano hū (hū ‘dry’) while the sea is asi. In nearby Sa’a the contrast is between ano hū ‘dry land’ and esi ‘sea’.
+Reflexes of both POc _&ast;panua_ (vol. 1, p.62) and _&ast;tanoq_[^2] are widely used to refer to the extent or physical state (rocky, flat, dry etc.) of the land, and may also be used to contrast land with sea. The two reconstructions, however, differed in their broader meanings. POc _&ast;panua_ had several senses, outlined below, while POc _&ast;tanoq_ referred particularly to ground or soil. Large islands, the major land masses of a region, are often denoted by reflexes of _&ast;panua_, and this term appears in proper names for major islands, e.g. _Hanua To’o_ ‘San Cristobal’ (lit. ‘solid land’), as used in Arosi, of the Southeast Solomons, _Vanua Levu_ and _Vanua Balavu_ (lit. ‘big land’ and ‘long land’) in Fijian. Note also the Tongan form _fonua lahi_ (lit. ‘big land’) for ‘mainland’. In ’Are’are, the land–sea contrast is expressed in _riu i hanua_ ‘travel overland’ and _riu i āsi_ ‘travel by sea’. In Arosi, the land is either _henua hū_ or _ano hū_ (_hū_ ‘dry’) while the sea _is asi_. In nearby Sa’a the contrast is between _ano hū_ ‘dry land’ and _esi_ ‘sea’.
 
 
 <a id="p-39"></a>
@@ -219,56 +219,56 @@ cf. also: Examples of phrasal expressions containing reflexes of *panua
 <tr>
 <td>Pn</td>
 <td>Anutan</td>
-<td>puŋa penua </td>
+<td>puŋa penua</td>
 <td>
 '<span>summit; highest point of an island</span>'</td>
 </tr>
 <tr>
 <td>Fij</td>
 <td>Bauan</td>
-<td>vanua liwa  </td>
+<td>vanua liwa</td>
 <td>
 '<span>land far away from settlements</span>'</td>
 </tr>
 <tr>
 <td>PT</td>
 <td>Kilivila</td>
-<td>kabinai valu </td>
+<td>kabinai valu</td>
 <td>
 '<span>good garden land</span>'</td>
 </tr>
 <tr>
 <td>PT</td>
 <td>Kilivila</td>
-<td>vilouwokuva valu </td>
+<td>vilouwokuva valu</td>
 <td>
 '<span>uninhabited land</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
 <td>Sa'a</td>
-<td>henue hū </td>
+<td>henue hū</td>
 <td>
 '<span>solid land, dry land, heritage</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
 <td>Sa'a</td>
-<td>tolona henue </td>
+<td>tolona henue</td>
 <td>
 '<span>hill country</span>'</td>
 </tr>
 <tr>
 <td>Pn</td>
 <td>Tongan</td>
-<td>fonua lahi  </td>
+<td>fonua lahi</td>
 <td>
 '<span>mainland</span>'</td>
 </tr>
 <tr>
 <td>Fij</td>
 <td>Wayan</td>
-<td>udu ni vanua </td>
+<td>udu ni vanua</td>
 <td>
 '<span>headland</span>'</td>
 </tr>
@@ -278,56 +278,56 @@ cf. also: Other examples refer to more planetary aspects, such as the day/night 
 <tr>
 <td>Fij</td>
 <td>Bauan</td>
-<td>boŋi na vanua </td>
+<td>boŋi na vanua</td>
 <td>
 '<span>become night</span>' (<span>lit. ‘land is nighted’</span>)</td>
 </tr>
 <tr>
 <td>Fij</td>
 <td>Bauan</td>
-<td>siŋa na vanua </td>
+<td>siŋa na vanua</td>
 <td>
 '<span>become daylight</span>' (<span>lit. ‘land is sunned’</span>)</td>
 </tr>
 <tr>
 <td>SES</td>
 <td>Lau</td>
-<td>fanua gʷari </td>
+<td>fanua gʷari</td>
 <td>
 '<span>cold weather</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
 <td>Lau</td>
-<td>fanua sato </td>
+<td>fanua sato</td>
 <td>
 '<span>sunny weather</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
 <td>Manam</td>
-<td>anua idaradara </td>
+<td>anua idaradara</td>
 <td>
 '<span>evening glow</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
 <td>Manam</td>
-<td>anua izara </td>
+<td>anua izara</td>
 <td>
-'<span>dawn</span>'</td>
+'<span>dawn</span>' (<span><em>anua idaradara</em> 'evening glow'</span>)</td>
 </tr>
 <tr>
 <td>PT</td>
 <td>Motu</td>
-<td>hanua boi </td>
+<td>hanua boi</td>
 <td>
 '<span>night</span>'</td>
 </tr>
 <tr>
 <td>Pn</td>
 <td>Rennellese</td>
-<td>henua pō </td>
+<td>henua pō</td>
 <td>
 '<span>night time</span>'</td>
 </tr>
@@ -337,7 +337,7 @@ cf. also: Other examples refer to more planetary aspects, such as the day/night 
 
 <a id="p-41"></a>
 
-POc &ast;tanoq ‘earth, ground, soil; land’ has already been reconstructed in vol. 1, p.119, as a term relevant to horticulture. As a common noun its denotations ranged from the soil beneath one’s feet to the total land mass on which one lived. Besides its use as a common noun, it was also used as a local noun with meanings like ‘down on the ground, down below’ (Ch.8, [§2.2.5](#s-2-2)).
+POc _&ast;tanoq_ ‘earth, ground, soil; land’ has already been reconstructed in vol. 1, p.119, as a term relevant to horticulture. As a common noun its denotations ranged from the soil beneath one’s feet to the total land mass on which one lived. Besides its use as a common noun, it was also used as a local noun with meanings like ‘down on the ground, down below’ (Ch.8, [§2.2.5](#s-2-2)).
 
 <table>
 <tr>
@@ -384,7 +384,7 @@ POc &ast;tanoq ‘earth, ground, soil; land’ has already been reconstructed in
 <tr>
 <td>NNG</td><td>Kove</td><td><i>tano(pu)</i></td>
 <td>
-'<span>mainland (of New Britain)</span>' (<span>pu ‘base, basis’</span>)</td>
+'<span>mainland (of New Britain)</span>' (<span><em>pu</em> ‘base, basis’</span>)</td>
 </tr>
 <tr>
 <td>PT</td><td>Motu</td><td><i>tano</i></td>
@@ -394,7 +394,7 @@ POc &ast;tanoq ‘earth, ground, soil; land’ has already been reconstructed in
 <tr>
 <td>PT</td><td>Minaveha</td><td><i>tano</i></td>
 <td>
-'<span>dirt</span>' (<span>tanopi ‘earth, ground, world’</span>)</td>
+'<span>dirt</span>' (<span><em>tanopi</em> ‘earth, ground, world’</span>)</td>
 </tr>
 <tr>
 <td>SES</td><td>Bugotu</td><td><i>tano</i></td>
@@ -448,35 +448,35 @@ cf. also: Certain conventional phrases, such as the following, indicate the sema
 <tr>
 <td>SES</td>
 <td>Arosi</td>
-<td>ano mamata </td>
+<td>ano mamata</td>
 <td>
 '<span>land as opposed to sea</span>' (<span>lit. ‘dry land’</span>)</td>
 </tr>
 <tr>
 <td>SES</td>
 <td>Arosi</td>
-<td>ano sada </td>
+<td>ano sada</td>
 <td>
 '<span>flat country</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
 <td>Gedaged</td>
-<td>tan fufulek </td>
+<td>tan fufulek</td>
 <td>
 '<span>planet earth</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
 <td>Gedaged</td>
-<td>tan wululu  </td>
+<td>tan wululu </td>
 <td>
 '<span>fine soil</span>'</td>
 </tr>
 <tr>
 <td>PT</td>
 <td>Minaveha</td>
-<td>tano bigana </td>
+<td>tano bigana</td>
 <td>
 '<span>fertile land</span>'</td>
 </tr>
@@ -490,14 +490,14 @@ cf. also: Certain conventional phrases, such as the following, indicate the sema
 <tr>
 <td>SES</td>
 <td>Sa'a</td>
-<td>ano hū </td>
+<td>ano hū</td>
 <td>
 '<span>land as opposed to sea</span>'</td>
 </tr>
 </table>
 
 
-The term &ast;tanoq disappears in Fiji and Polynesia, where the concept of ‘earth, soil’ is denoted by reflexes of PCP &ast;gwele, PPn &ast;kele (see [§7.6](#s-7-6)).
+The term _&ast;tanoq_ disappears in Fiji and Polynesia, where the concept of ‘earth, soil’ is denoted by reflexes of PCP _&ast;gʷele_, PPn _&ast;kele_ (see [§7.6](#s-7-6)).
 
 
 <a id="p-42"></a>
@@ -507,7 +507,7 @@ The term &ast;tanoq disappears in Fiji and Polynesia, where the concept of ‘ea
 ## 2.2. Island
 
 
-Two POc terms are glossed ‘island’. These were probably reserved for small islands. Of our reconstructions, it seems that &ast;nusa was a common noun in POc, but Southeast Solomonic, Fijian and Polynesian reflexes seem to reflect &ast;qa-nusa, with the local adverb formative &ast;qa- (Ch.8, [§2.1](#s-2-1)). The expected meaning of &ast;qa-nusa is something like ‘at our own island’, and this is in accord with the use of its reflexes in placenames. The Micronesian reflexes, however, suggest that the prefixed form has also come to be used as a common noun.
+Two POc terms are glossed ‘island’. These were probably reserved for small islands. Of our reconstructions, it seems that _&ast;nusa_ was a common noun in POc, but Southeast Solomonic, Fijian and Polynesian reflexes seem to reflect _&ast;qa-nusa_, with the local adverb formative _&ast;qa-_ (Ch.8, [§2.1](#s-2-1)). The expected meaning of _&ast;qa-nusa_ is something like ‘at our own island’, and this is in accord with the use of its reflexes in placenames. The Micronesian reflexes, however, suggest that the prefixed form has also come to be used as a common noun.
 
 <table>
 <tr>
@@ -538,7 +538,7 @@ Two POc terms are glossed ‘island’. These were probably reserved for small i
 <tr>
 <td>NNG</td><td>Bariai</td><td><i>(i)nu</i></td>
 <td>
-'<span>island</span>' (<span>&lt; POc *i nusa ‘at (our) island’</span>)</td>
+'<span>island</span>' (<span>&lt; POc <em>*i nusa</em> ‘at (our) island’</span>)</td>
 </tr>
 <tr>
 <td>NNG</td><td>Takia</td><td><i>nui</i></td>
@@ -611,7 +611,7 @@ Two POc terms are glossed ‘island’. These were probably reserved for small i
 
 Anuta, the name of a very small Polynesian island near Tikopia, is probably also cognate.
 
-The primary role of &ast;motus in POc appears to have been as a stative verb, ‘be broken off, severed’ (see vol.1, p.247 for likely derivation from PMP &ast;utus ‘break under tension’). &ast;motus may have been applied only to islets, isolated rocks and detached reefs, and not to larger islands more suitable for habitation.
+The primary role of _&ast;motus_ in POc appears to have been as a stative verb, ‘be broken off, severed’ (see vol.1, p.247 for likely derivation from PMP _&ast;utus_ ‘break under tension’). _&ast;motus_ may have been applied only to islets, isolated rocks and detached reefs, and not to larger islands more suitable for habitation.
 
 <table>
 <tr>
@@ -645,7 +645,7 @@ The primary role of &ast;motus in POc appears to have been as a stative verb, �
 <tr>
 <td>PT</td><td>Motu</td><td><i>motu-motu</i></td>
 <td>
-'<span>island; detached portion of reef</span>' (<span>motu ‘to break, as a string’</span>)</td>
+'<span>island; detached portion of reef</span>' (<span><em>motu</em> ‘to break, as a string’</span>)</td>
 </tr>
 <tr>
 <td>PT</td><td>Hula</td><td><i>mou</i></td>
@@ -693,9 +693,9 @@ The primary role of &ast;motus in POc appears to have been as a stative verb, �
 '<span>to break, sever</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>motu hatu </i></td>
+<td>Pn</td><td>Rennellese</td><td><i>motu hatu</i></td>
 <td>
-'<span>reef rock island</span>' (<span>hatu ‘rock’</span>)</td>
+'<span>reef rock island</span>' (<span><em>hatu</em> ‘rock’</span>)</td>
 </tr>
 <tr>
 <td>Pn</td><td>Samoan</td><td><i>motu</i></td>
@@ -724,7 +724,7 @@ The primary role of &ast;motus in POc appears to have been as a stative verb, �
 
 <a id="p-43"></a>
 
-Cognates of PWOc &ast;(s,t)imuR (below) may reflect POc &ast;timu(R) ‘wind bringing light rain’ (from PMP &ast;timuR ‘south or east wind’) (cf. [Ch.5, §4.2](chapter5.md#s-4-2)). Waruno Mahdi suggests (pers. comm.) that there has been semantic drift from wind to cloud to cloud over island, a traditional navigator’s way of locating islands. Alternatively, there may be an unrelated word, at least in PWOc:
+Cognates of PWOc _&ast;(s,t)imuR_ (below) may reflect POc _&ast;timu(R)_ ‘wind bringing light rain’ (from PMP _&ast;timuR_ ‘south or east wind’) (cf. [Ch.5, §4.2](chapter5.md#s-4-2)). Waruno Mahdi suggests (pers. comm.) that there has been semantic drift from wind to cloud to cloud over island, a traditional navigator’s way of locating islands. Alternatively, there may be an unrelated word, at least in PWOc:
 
 <table>
 <tr>
@@ -805,12 +805,12 @@ Although the next reconstructed form is traceable back to PMP as a verb, its use
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>atu</i></td>
 <td>
-'<span>first element in name of island chain, e.g. atu Yasawa</span>'</td>
+'<span>first element in name of island chain, e.g. <em>atu Yasawa</em></span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>yatu</i></td>
 <td>
-'<span>first element in name of island chain</span>' (<span>e.g. Yatu Lau ‘the Lau islands’</span>)</td>
+'<span>first element in name of island chain</span>' (<span>e.g. <em>Yatu Lau</em> ‘the Lau islands’</span>)</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>ʔotu</i></td>
@@ -823,7 +823,7 @@ Although the next reconstructed form is traceable back to PMP as a verb, its use
 '<span>row of things, group</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>atu motu </i></td>
+<td>Pn</td><td>Niuean</td><td><i>atu motu</i></td>
 <td>
 '<span>group of islands</span>'</td>
 </tr>
@@ -838,14 +838,14 @@ Although the next reconstructed form is traceable back to PMP as a verb, its use
 '<span>row (as of chairs); range (as of hills); chain (as of lakes); set, row (as of teeth)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>atu motu </i></td>
+<td>Pn</td><td>Samoan</td><td><i>atu motu</i></td>
 <td>
 '<span>group of islands, archipelago</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Nanumean</td><td><i>atu</i></td>
 <td>
-'<span>group or chain of islands</span>' (<span>atu fenua elise ‘the whole Ellice group’, atu paipai ‘the whole world’</span>)</td>
+'<span>group or chain of islands</span>' (<span><em>atu fenua elise</em> ‘the whole Ellice group’, <em>atu paipai</em> ‘the whole world’</span>)</td>
 </tr>
 </table>
 
@@ -866,13 +866,13 @@ This section treats named features of the coastal landscape other than shore ree
 ## 3.1. Beach, shore
 
 
-Two POc reconstructions can be made for ‘beach’. One, &ast;qone, seems primarily to have meant ‘sand’, but the sense ‘sandy beach’ is also quite widely reflected (see [§7.5](#s-7-5)). The other reconstruction, &ast;biker, is less firmly based. However, it is possible that the terms from Huon Gulf languages listed below may also be reflexes. If they are, then the reconstruction should be &ast;bwiker.
+Two POc reconstructions can be made for ‘beach’. One, _&ast;qone_, seems primarily to have meant ‘sand’, but the sense ‘sandy beach’ is also quite widely reflected (see [§7.5](#s-7-5)). The other reconstruction, _&ast;biker_, is less firmly based. However, it is possible that the terms from Huon Gulf languages listed below may also be reflexes. If they are, then the reconstruction should be _&ast;bʷiker_.
 
 <table>
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
-<i>&ast;b(w)iker</i>
+<i>&ast;(b,bʷ)iker</i>
 </td>
 <td>
 '<span>beach, esp. sandy beach</span>'</td>
@@ -981,7 +981,7 @@ cf. also: the following Huon Gulf terms:
 
 <a id="p-45"></a>
 
-The reflexes of POc &ast;nuku are semantically diverse, ranging from ‘sand’, ‘sandbar at river mouth’, ‘island’, and ‘settlement’ to ‘land, country’. However, the agreement between the Southeast Solomonic languages and Bauan Fijian indicates that POc &ast;nuku referred to sandy ground. It may have been used figuratively for land or settlement, especially in place names, bearing in mind that settlements are often located on flat sandy ground just above the beach.
+The reflexes of POc _&ast;nuku_ are semantically diverse, ranging from ‘sand’, ‘sandbar at river mouth’, ‘island’, and ‘settlement’ to ‘land, country’. However, the agreement between the Southeast Solomonic languages and Bauan Fijian indicates that POc _&ast;nuku_ referred to sandy ground. It may have been used figuratively for land or settlement, especially in place names, bearing in mind that settlements are often located on flat sandy ground just above the beach.
 
 <table>
 <tr>
@@ -1053,9 +1053,9 @@ The reflexes of POc &ast;nuku are semantically diverse, ranging from ‘sand’,
 '<span>sand</span>' (<span>nuku-nuku ‘sandy’</span>)</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>uðu ni nuku </i></td>
+<td>Fij</td><td>Bauan</td><td><i>uðu ni nuku</i></td>
 <td>
-'<span>sandbank jutting out into the sea</span>' (<span>u'u ‘nose’</span>)</td>
+'<span>sandbank jutting out into the sea</span>' (<span><em>uðu</em> ‘nose’</span>)</td>
 </tr>
 <tr>
 <td>Pn</td><td>Niuean</td><td><i>nuku</i></td>
@@ -1075,7 +1075,7 @@ The reflexes of POc &ast;nuku are semantically diverse, ranging from ‘sand’,
 <tr>
 <td>Pn</td><td>Samoan</td><td><i>nuʔu</i></td>
 <td>
-'<span>village, home</span>' (<span>nuʔutūloto ‘islet’</span>)</td>
+'<span>village, home</span>' (<span><em>nuʔutūloto</em> ‘islet’</span>)</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tikopia</td><td><i>nuku</i></td>
@@ -1106,14 +1106,14 @@ The reflexes of POc &ast;nuku are semantically diverse, ranging from ‘sand’,
 
 
 
-Coastlines, particularly island coastlines, may be characterised as ‘windward coast’ or ‘leeward coast’ in latitudes where tradewinds blow for most of the year. Marovo (MM), for instance, has parallel terms for the ocean-facing side of a barrier island, kale-lupa (kale ‘side’, lupa ‘the beaches, reefs and seascape on the outer or windward side of the barrier reef’) and the lagoon-facing side, kale-kogu (kogu ‘lagoon’). Roviana (MM) refers to the ocean side of an island as vuragarena, which [Waterhouse](../references.md#source-Waterhouse1949) ([1949](../references.md#source-Waterhouse1949)) contrasts with tutupeka. Kia (MM) adapts body part terms for ‘back’ and ‘belly’, taguru-mo ‘windward side of island’ and tia-mo ‘leeward side of island’. Sa’a (SES) has asi matawa ‘weather shore’ and asi mae ‘lee shore’.
+Coastlines, particularly island coastlines, may be characterised as ‘windward coast’ or ‘leeward coast’ in latitudes where tradewinds blow for most of the year. Marovo (MM), for instance, has parallel terms for the ocean-facing side of a barrier island, _kale-lupa_ (_kale_ ‘side’, _lupa_ ‘the beaches, reefs and seascape on the outer or windward side of the barrier reef’) and the lagoon-facing side, _kale-kogu_ (_kogu_ ‘lagoon’). Roviana (MM) refers to the ocean side of an island as _vuragarena_, which [Waterhouse](../references.md#source-Waterhouse1949) ([1949](../references.md#source-Waterhouse1949)) contrasts with _tutupeka_. Kia (MM) adapts body part terms for ‘back’ and ‘belly’, _taguru-mo_ ‘windward side of island’ and _tia-mo_ ‘leeward side of island’. Sa’a (SES) has _asi matawa_ ‘weather shore’ and _asi mae_ ‘lee shore’.
 
 
 <a id="p-46"></a>
 
-In Chapter 4 we have reconstructed PEOc &ast;tasik maquri(p) ‘open sea; ocean on the weather side; weather shore’ (literally ‘live sea’) and PEOc &ast;tasi mate ‘sheltered sea, lee shore’ (literally ‘dead sea’), terms which, from their reflexes, may apply both to the sea or to the affected coastline.
+In Chapter 4 we have reconstructed PEOc _&ast;tasik maquri(p)_ ‘open sea; ocean on the weather side; weather shore’ (literally ‘live sea’) and PEOc _&ast;tasi mate_ ‘sheltered sea, lee shore’ (literally ‘dead sea’), terms which, from their reflexes, may apply both to the sea or to the affected coastline.
 
-The reconstruction below, PEOc &ast;liku, is glossed ‘windward side’, but it seems likely that its reflexes are members of a larger set reflecting PMP &ast;likuD, POc &ast;liku(r) ‘person’s back’ whose reflexes are used in a number of languages with the senses ‘back of s.t.’, ‘outside’ (Ch.8, [§2.3.5](#s-2-3)). The use of reflexes of this term for ‘windward side’ reflects the fact that the outside of a barrier reef is its windward side.
+The reconstruction below, PEOc _&ast;liku_, is glossed ‘windward side’, but it seems likely that its reflexes are members of a larger set reflecting PMP _&ast;likuD_, POc _&ast;liku(r)_ ‘person’s back’ whose reflexes are used in a number of languages with the senses ‘back of s.t.’, ‘outside’ (Ch.8, [§2.3.5](#s-2-3)). The use of reflexes of this term for ‘windward side’ reflects the fact that the outside of a barrier reef is its windward side.
 
 <table>
 <tr>
@@ -1148,7 +1148,7 @@ The reconstruction below, PEOc &ast;liku, is glossed ‘windward side’, but it
 
 
 
-Similarly, terms located for the leeward or sheltered side include reflexes of an apparently more general term, PMP &ast;duŋduŋ, POc &ast;ruru.
+Similarly, terms located for the leeward or sheltered side include reflexes of an apparently more general term, PMP _&ast;duŋduŋ_, POc _&ast;ruru_.
 
 <table>
 <tr>
@@ -1187,14 +1187,14 @@ Similarly, terms located for the leeward or sheltered side include reflexes of a
 
 
 
-References to ‘shore’ occur also in locative expressions (see Chapter 8). To a person at sea, reflexes of POc &ast;qutan will refer to the shore, while to a person inland, reflexes of &ast;laur can carry the same interpretation.
+References to ‘shore’ occur also in locative expressions (see Chapter 8). To a person at sea, reflexes of POc _&ast;qutan_ will refer to the shore, while to a person inland, reflexes of _&ast;laur_ can carry the same interpretation.
 
 
 <a id="s-3-2"></a>
 ## 3.2. Bay
 
 
-The gloss of our next reconstruction, POc &ast;tobwa is soundly based for PEOc, but depends for promotion to POc on reinterpretation of the name given to the barrier reef islands which enclose Marovo Lagoon. POc &ast;tobwa is also the reconstructed form for ‘belly, stomach, bag’ and it is possible that ‘bay’ is a metaphorical extension of the term.
+The gloss of our next reconstruction, POc _&ast;tobʷa_ is soundly based for PEOc, but depends for promotion to POc on reinterpretation of the name given to the barrier reef islands which enclose Marovo Lagoon. POc &ast;tobwa is also the reconstructed form for ‘belly, stomach, bag’ and it is possible that ‘bay’ is a metaphorical extension of the term.
 
 <table>
 <tr>
@@ -1338,7 +1338,7 @@ The next set has specific reference to ‘bay’ only in Polynesia. As a POc ter
 ## 3.3. River mouth
 
 
-Polynesian languages use a compound for the mouth of a river, with elements derived from POc forms &ast;muri ‘behind’ + &ast;waiR ‘river, fresh water’.
+Polynesian languages use a compound for the mouth of a river, with elements derived from POc forms _&ast;muri_ ‘behind’ + _&ast;waiR_ ‘river, fresh water’.
 
 <table>
 <tr>
@@ -1381,11 +1381,11 @@ Polynesian languages use a compound for the mouth of a river, with elements deri
 No POc reconstruction is available for ‘river mouth’. This concept was probably named by a compound connecting ‘river’ or ‘fresh water’ with a body part. The most widespread label is ‘leg’ or more likely, ‘foot of river’, and this may well reflect a POc collocation. We find:
 
 ```
-NNG: Mapos Buang        bel vaɣa          (bel ‘water’, vaɣa ‘leg/foot’)
-NNG: Takia              you ŋe-n          (you ‘water’, ŋe- ‘leg/foot’)
-PT:  Iduna              gufa wa-ʔage      (gufa ‘river’, ʔage- ‘leg/foot’)
-PT:  Molima             goʔila ae(na)     (goʔila ‘fresh water’, ae ‘leg/foot’)
-SES: Lau                ʔae-na kafo       (ʔae- ‘foot/leg’, kafo ‘water’)
+NNG: Mapos Buang        |bel vaɣa|          (_bel_ ‘water’, _vaɣa_ ‘leg/foot’)
+NNG: Takia              |you ŋe-n|          (_you_ ‘water’, _ŋe-_ ‘leg/foot’)
+PT:  Iduna              |gufa wa-ʔage|      (_gufa_ ‘river’, _ʔage-_ ‘leg/foot’)
+PT:  Molima             |goʔila ae(na)|     (_goʔila_ ‘fresh water’, _ae_ ‘leg/foot’)
+SES: Lau                |ʔae-na kafo|       (_ʔae-_ ‘foot/leg’, _kafo_ ‘water’)
 ```
 
 
@@ -1396,9 +1396,9 @@ SES: Lau                ʔae-na kafo       (ʔae- ‘foot/leg’, kafo ‘water�
 
 <a id="p-48"></a>
 
-POc terms that can be glossed ‘cape, headland’ are all words for a body part or part of an object conceived of as similar in shape. The first is &ast;(i,u)cuŋ ‘nose’. It seems likely that PCP &ast;uju, which refers to ‘projecting or exposed land’ also reflects POc &ast;ucuŋ ‘nose’.
+POc terms that can be glossed ‘cape, headland’ are all words for a body part or part of an object conceived of as similar in shape. The first is _&ast;(i,u)cuŋ_ ‘nose’. It seems likely that PCP _&ast;uju_, which refers to ‘projecting or exposed land’ also reflects POc _&ast;ucuŋ_ ‘nose’.
 
-The suffixed -a of PPn &ast;utu-a below reflects the POc locative nominalising suffix &ast;-an (vol. 1, pp.33–34).
+The suffixed _-a_ of PPn _&ast;utu-a_ below reflects the POc locative nominalising suffix _&ast;-an_ (vol. 1, pp.33–34).
 
 <table>
 <tr>
@@ -1475,7 +1475,7 @@ The suffixed -a of PPn &ast;utu-a below reflects the POc locative nominalising s
 '<span>stick out, project</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>udu ni vanua </i></td>
+<td>Fij</td><td>Wayan</td><td><i>udu ni vanua</i></td>
 <td>
 '<span>headland</span>'</td>
 </tr>
@@ -1520,7 +1520,7 @@ The suffixed -a of PPn &ast;utu-a below reflects the POc locative nominalising s
 
 The last four Pn reflexes restrict the sense to a part of reef exposed at low tide, but retain the sense of projection/prominence.
 
-Reflexes of the next item, POc &ast;ŋoro-ŋorok with the gloss ‘cape’ are few and are not well distributed, but more careful inspection of the data reveals that these reflexes belong to the same cognate set as another word for ‘nose’. We give the reflexes in two sets: those with the gloss ‘cape’ or ‘headland’ first and then those for ‘nose’. Alone, the first set suggests a reconstruction &ast;ŋora-ŋora, but comparision with the terms glossed ‘nose’ reveals that final -a is simply the reflex that occurs in certain Southeast Solomonic languages. POc &ast;ŋoro-ŋorok ‘nose, cape’ in its turn was originally probably a colloquial word for ‘nose’ derived from POc &ast;ŋorok ‘snore’.
+Reflexes of the next item, POc _&ast;ŋoro-ŋorok_ with the gloss ‘cape’ are few and are not well distributed, but more careful inspection of the data reveals that these reflexes belong to the same cognate set as another word for ‘nose’. We give the reflexes in two sets: those with the gloss ‘cape’ or ‘headland’ first and then those for ‘nose’. Alone, the first set suggests a reconstruction _&ast;ŋora-ŋora_, but comparision with the terms glossed ‘nose’ reveals that final _-a_ is simply the reflex that occurs in certain Southeast Solomonic languages. POc _&ast;ŋoro-ŋorok_ ‘nose, cape’ in its turn was originally probably a colloquial word for ‘nose’ derived from POc &ast;ŋorok ‘snore’.
 
 <table>
 <tr>
@@ -1641,7 +1641,7 @@ Reflexes of the next item, POc &ast;ŋoro-ŋorok with the gloss ‘cape’ are f
 
 
 
-The final reconstruction, PEOc &ast;mata ‘point of land, headland’ is evidently an extension of the more basic meanings attributed to POc &ast;(m,mʷ)ata, namely ‘point, blade, cutting-edge (of a weapon or instrument)’ (vol. 1, p.89).
+The final reconstruction, PEOc _&ast;mata_ ‘point of land, headland’ is evidently an extension of the more basic meanings attributed to POc _&ast;(m,mʷ)ata_, namely ‘point, blade, cutting-edge (of a weapon or instrument)’ (vol. 1, p.89).
 
 <table>
 <tr>
@@ -1662,7 +1662,7 @@ The final reconstruction, PEOc &ast;mata ‘point of land, headland’ is eviden
 </td>
 </tr>
 <tr>
-<td>NCal</td><td>Nyelâyu</td><td><i>mā(lã pʰwēmʷa) </i></td>
+<td>NCal</td><td>Nyelâyu</td><td><i>mā(lã pʰwēmʷa)</i></td>
 <td>
 '<span>point of the mainland (= south)</span>'</td>
 </tr>
@@ -1710,7 +1710,7 @@ The final reconstruction, PEOc &ast;mata ‘point of land, headland’ is eviden
 ## 4.1. Hill, mountain
 
 
-Even quite small islands can be dominated by high peaks. While a number of peaks in New Britain and New Ireland reach 2000m, the much smaller islands of Manam and Karkar have peaks of 1800m, and Goodenough Island in the d’Entrecasteaux group has one of 2500m. Of the reconstructions below, POc _&ast;koro_[^4] and POc &ast;solos have meanings centred on mountain or mountainous country. POc &ast;puŋa-puŋa may have also denoted ‘mountain’ but its reflexes in Pn have come to refer to ‘upper surface’. Of the other reconstructions, &ast;buku and &ast;pwotu referred rather to a protuberance or a bulge-shaped object.
+Even quite small islands can be dominated by high peaks. While a number of peaks in New Britain and New Ireland reach 2000m, the much smaller islands of Manam and Karkar have peaks of 1800m, and Goodenough Island in the d’Entrecasteaux group has one of 2500m. Of the reconstructions below, POc _&ast;koro_[^4] and POc _&ast;solos_ have meanings centred on mountain or mountainous country. POc _&ast;puŋa-puŋa_ may have also denoted ‘mountain’ but its reflexes in Pn have come to refer to ‘upper surface’. Of the other reconstructions, _&ast;buku_ and _&ast;pwotu_ referred rather to a protuberance or a bulge-shaped object.
 
 
 <a id="p-50"></a>
@@ -1911,12 +1911,12 @@ Even quite small islands can be dominated by high peaks. While a number of peaks
 <tr>
 <td>Pn</td><td>Niuean</td><td><i>fuŋa</i></td>
 <td>
-'<span>surface, top</span>' (<span>e.g. fuŋavai ‘surface of water’</span>)</td>
+'<span>surface, top</span>' (<span>e.g. <em>fuŋavai</em> ‘surface of water’</span>)</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>fuŋa</i></td>
 <td>
-'<span>top, upper surface</span>' (<span>e.g. fuŋavaka ‘deck of boat’</span>)</td>
+'<span>top, upper surface</span>' (<span>e.g. <em>fuŋavaka</em> ‘deck of boat’</span>)</td>
 </tr>
 <tr>
 <td>Pn</td><td>Anutan</td><td><i>puŋa(penua)</i></td>
@@ -2027,7 +2027,7 @@ Even quite small islands can be dominated by high peaks. While a number of peaks
 
 
 
-Reflexes of &ast;pwotu refer consistently to ‘mountain’ only in MM languages, while some SES languages adopt the ‘knot, swelling’ meaning.
+Reflexes of _&ast;pwotu_ refer consistently to ‘mountain’ only in MM languages, while some SES languages adopt the ‘knot, swelling’ meaning.
 
 <table>
 <tr>
@@ -2107,7 +2107,7 @@ Reflexes of &ast;pwotu refer consistently to ‘mountain’ only in MM languages
 
 
 
-In Polynesia the typical term for mountain is a reflex of &ast;maquŋa.
+In Polynesia the typical term for mountain is a reflex of _&ast;maquŋa_.
 
 <table>
 <tr>
@@ -2281,17 +2281,17 @@ We have included two POc reconstructions glossed ‘valley’, although the seco
 <tr>
 <td>SES</td><td>Arosi</td><td><i>mara(rohiana)</i></td>
 <td>
-'<span>narrow waterless pass, ravine, valley between high hills</span>' (<span>rohi ‘groove’</span>)</td>
+'<span>narrow waterless pass, ravine, valley between high hills</span>' (<span><em>rohi</em> ‘groove’</span>)</td>
 </tr>
 <tr>
 <td>SES</td><td>Arosi</td><td><i>mara(wai)</i></td>
 <td>
-'<span>river course, valley</span>' (<span>wai ‘water, river’</span>)</td>
+'<span>river course, valley</span>' (<span><em>wai</em> ‘water, river’</span>)</td>
 </tr>
 <tr>
 <td>SES</td><td>Arosi</td><td><i>mara(gohu-gohu)</i></td>
 <td>
-'<span>slopes of a river valley</span>' (<span>gohu ‘river flat, lower valley’</span>)</td>
+'<span>slopes of a river valley</span>' (<span><em>gohu</em> ‘river flat, lower valley’</span>)</td>
 </tr>
 </table>
 
@@ -2401,7 +2401,7 @@ We have one POc reconstruction for ‘cliff’. Two further reconstructions are 
 '<span>cliff</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>bari (ni vatu) </i></td>
+<td>Fij</td><td>Bauan</td><td><i>bari (ni vatu)</i></td>
 <td>
 '<span>(rock) cliff, precipice</span>'</td>
 </tr>
@@ -2546,7 +2546,7 @@ Although terms exist in many languages for cave, we have no evidence of cognacy 
 
 <a id="p-54"></a>
 
-Almost every language for which we have extensive lexical data has a term meaning ‘flat land’, but cognates have been difficult to find. Our only reconstruction is based on cognates from Papuan Tip and Polynesia, with Polynesia using the same term in compound form for ‘lowland’. This is probably the same word as POc &ast;raun ‘leaf’, which occurs in many languages as a kind of classifier for flat things.
+Almost every language for which we have extensive lexical data has a term meaning ‘flat land’, but cognates have been difficult to find. Our only reconstruction is based on cognates from Papuan Tip and Polynesia, with Polynesia using the same term in compound form for ‘lowland’. This is probably the same word as POc _&ast;raun_ ‘leaf’, which occurs in many languages as a kind of classifier for flat things.
 
 <table>
 <tr>
@@ -2594,7 +2594,7 @@ Almost every language for which we have extensive lexical data has a term meanin
 '<span>(on the) plain (of flat coastal strip)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>āu lalo </i></td>
+<td>Pn</td><td>Tongan</td><td><i>āu lalo</i></td>
 <td>
 '<span>low-lying land</span>' (<span>lalo ‘place lower down’</span>)</td>
 </tr>
@@ -2614,9 +2614,9 @@ Almost every language for which we have extensive lexical data has a term meanin
 '<span>flat expanse</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>rau raro </i></td>
+<td>Pn</td><td>Tikopia</td><td><i>rau raro</i></td>
 <td>
-'<span>lowland in vicinity of shore</span>' (<span>lalo LOC ‘down, below’</span>)</td>
+'<span>lowland in vicinity of shore</span>' (<span><em>lalo</em> LOC ‘down, below’</span>)</td>
 </tr>
 </table>
 
@@ -2804,9 +2804,9 @@ The Mussau and Tolo reflexes mean ‘garden’: this change of meaning is probab
 
 
 
-It is tempting to associate the set above with PMP &ast;waRej, POc &ast;waRoc ‘vine, creeper, rope’, a reconstruction with many widespread reflexes. The implication here is that uncultivated rain forest was a place of tangled vines. However, Gela has two terms, ao ‘forest’ (> &ast;wao) and alo ‘creeper, string’ (> &ast;waRoc), indicating that there were two distinct terms at the time of POc or a little later, albeit with a possible common origin.
+It is tempting to associate the set above with PMP _&ast;waRej_, POc _&ast;waRoc_ ‘vine, creeper, rope’, a reconstruction with many widespread reflexes. The implication here is that uncultivated rain forest was a place of tangled vines. However, Gela has two terms, _ao_ ‘forest’ (> _&ast;wao_) and _alo_ ‘creeper, string’ (> _&ast;waRoc_), indicating that there were two distinct terms at the time of POc or a little later, albeit with a possible common origin.
 
-The next POc reconstruction contrasts with &ast;quma ‘garden, cultivated land’ (vol. 1, p.117)
+The next POc reconstruction contrasts with _&ast;quma_ ‘garden, cultivated land’ (vol. 1, p.117)
 
 <table>
 <tr>
@@ -2845,7 +2845,7 @@ The next POc reconstruction contrasts with &ast;quma ‘garden, cultivated land�
 '<span>garden of second or third crop</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Kwaio</td><td><i>alu (sīsī) </i></td>
+<td>SES</td><td>Kwaio</td><td><i>alu (sīsī)</i></td>
 <td>
 '<span>an old garden plot returning to secondary growth, beginning to be overgrown</span>'</td>
 </tr>
@@ -2906,7 +2906,7 @@ The next POc reconstruction contrasts with &ast;quma ‘garden, cultivated land�
 ## 5.2. Swamp
 
 
-A number of reconstructions are loosely glossed ‘swamp’. In wordlists these may be defined further as saltwater or freshwater swamps, or by their vegetation. Nipa palm and mangrove swamps are found in inter-tidal zones along the coast and in river estuaries, while lowland freshwater swamps, often dominated by sago, are found inland. However, few wordlists distinguish more than one kind of swamp, and we are unable to be more specific in our reconstructions.[^5] Two further reconstructions, POc [dr,r]ano ‘lake, swamp’ and POc &ast;[g,k]opu ‘pond, lagoon, swamp’ blur the distinction between water hole/lagoon and swamp.
+A number of reconstructions are loosely glossed ‘swamp’. In wordlists these may be defined further as saltwater or freshwater swamps, or by their vegetation. Nipa palm and mangrove swamps are found in inter-tidal zones along the coast and in river estuaries, while lowland freshwater swamps, often dominated by sago, are found inland. However, few wordlists distinguish more than one kind of swamp, and we are unable to be more specific in our reconstructions.[^5] Two further reconstructions, POc _&ast;[dr,r]ano_ ‘lake, swamp’ and POc _&ast;[g,k]opu_ ‘pond, lagoon, swamp’ blur the distinction between water hole/lagoon and swamp.
 
 <table>
 <tr>
@@ -3037,7 +3037,7 @@ A number of reconstructions are loosely glossed ‘swamp’. In wordlists these 
 
 
 
-The next term is reconstructable in two forms, as either &ast;gopu or &ast;kopu. The MM terms and Lau reflect &ast;k, Motu and Arosi reflect &ast;g, while the remainder, from PT and SES, reflect either.
+The next term is reconstructable in two forms, as either _&ast;gopu_ or _&ast;kopu_. The MM terms and Lau reflect _&ast;k_, Motu and Arosi reflect _&ast;g_, while the remainder, from PT and SES, reflect either.
 
 
 <a id="p-57"></a>
@@ -3323,7 +3323,7 @@ The final two reconstructed forms in this section probably referred to wet taro 
 ## 6.1. Fresh water
 
 
-In POc a single word, &ast;waiR, evidently denoted both ‘fresh water’ and ‘river, stream’. A second term, &ast;(dr,r)anum, specifically denoted ‘fresh water’. Both forms continue PMP etyma reconstructed with the same meaning, and both are well represented across Oceanic subgroups.
+In POc a single word, _&ast;waiR_, evidently denoted both ‘fresh water’ and ‘river, stream’. A second term, _&ast;(dr,r)anum_, specifically denoted ‘fresh water’. Both forms continue PMP etyma reconstructed with the same meaning, and both are well represented across Oceanic subgroups.
 
 <table>
 <tr>
@@ -3363,7 +3363,7 @@ In POc a single word, &ast;waiR, evidently denoted both ‘fresh water’ and �
 '<span>fresh water</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Likum</td><td><i>gʷway (selo) </i></td>
+<td>Adm</td><td>Likum</td><td><i>gʷway (selo)</i></td>
 <td>
 '<span>river</span>'</td>
 </tr>
@@ -3494,7 +3494,7 @@ In POc a single word, &ast;waiR, evidently denoted both ‘fresh water’ and �
 
 <a id="p-59"></a>
 
-The form &ast;dranum below is reflected by most witnesses, but some languages (Motu, Nakanai, Namakir) reflect &ast;ranum, and the Admiralties languages may reflect either &ast;dr or &ast;r.
+The form _&ast;dranum_ below is reflected by most witnesses, but some languages (Motu, Nakanai, Namakir) reflect _&ast;ranum_, and the Admiralties languages may reflect either _&ast;dr_ or _&ast;r_.
 
 <table>
 <tr>
@@ -3636,7 +3636,7 @@ The form &ast;dranum below is reflected by most witnesses, but some languages (M
 
 <a id="p-60"></a>
 
-No POc term has been reconstructed for ‘river’ as distinct from the term for ‘fresh water’. Speakers of Oceanic languages would probably lack the map-based view of a river thought of primarily in terms of an entity with length. Rather, they seem to conceive of it simply as fresh water that flows. Tolai speakers refer to a river as tava alir, literally ‘fresh water flowing’, and Halia speakers use a semantically parallel compound, ramun olo. Dobu uses ʔawa bwasi, literally ‘channel of water’.
+No POc term has been reconstructed for ‘river’ as distinct from the term for ‘fresh water’. Speakers of Oceanic languages would probably lack the map-based view of a river thought of primarily in terms of an entity with length. Rather, they seem to conceive of it simply as fresh water that flows. Tolai speakers refer to a river as _tava alir_, literally ‘fresh water flowing’, and Halia speakers use a semantically parallel compound, _ramun olo_. Dobu uses _ʔawa bwasi_, literally ‘channel of water’.
 
 We have one lower-level reconstruction for a river branch.
 
@@ -3678,7 +3678,7 @@ We have one lower-level reconstruction for a river branch.
 ## 6.2. Spring
 
 
-For coastal dwellers, fresh water is often obtained from springs. PAn &ast;Cebuj ‘spring’ is continued in POc by doublets, &ast;topu(R) and &ast;tupu(R). Oceanic reflexes refer mainly to springs on a beach or shoreline, or to brackish water. Doublets are found in some Southeast Solomonic languages.
+For coastal dwellers, fresh water is often obtained from springs. PAn _&ast;Cebuj_ ‘spring’ is continued in POc by doublets, _&ast;topu(R)_ and _&ast;tupu(R)_. Oceanic reflexes refer mainly to springs on a beach or shoreline, or to brackish water. Doublets are found in some Southeast Solomonic languages.
 
 <table>
 <tr>
@@ -3906,7 +3906,7 @@ Polynesian languages have a well-attested term for ‘spring’ which continues 
 
 
 
-The next reconstruction, in its simple form &ast;pura(q), was primarily a verb ‘bubble up’. Its reduplicated form may have served as a noun denoting a spring as it does in several Southeast Solomonic witnesses and in Bauan Fijian. Among several similar forms (see Ch.4, [§2.5](#s-2-5)), Blust (ACD) lists PMP &ast;budaq ‘foam, bubbles, lather, scum, froth’, continued as POc &ast;pura-puraq ‘foam, bubbles, bubble up’. The related forms include POc &ast;puro ‘bubble up, (hot spring) boil’ (p.83).
+The next reconstruction, in its simple form _&ast;pura(q)_, was primarily a verb ‘bubble up’. Its reduplicated form may have served as a noun denoting a spring as it does in several Southeast Solomonic witnesses and in Bauan Fijian. Among several similar forms (see Ch.4, [§2.5](#s-2-5)), Blust (ACD) lists PMP _&ast;budaq_ ‘foam, bubbles, lather, scum, froth’, continued as POc _&ast;pura-puraq_ ‘foam, bubbles, bubble up’. The related forms include POc _&ast;puro_ ‘bubble up, (hot spring) boil’ (p.83).
 
 <table>
 <tr>
@@ -3943,7 +3943,7 @@ The next reconstruction, in its simple form &ast;pura(q), was primarily a verb �
 '<span>bubble up</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>vuraɣa ni beti </i></td>
+<td>SES</td><td>Gela</td><td><i>vuraɣa ni beti</i></td>
 <td>
 (N) '<span>spring</span>' (<span>beti ‘water’</span>)</td>
 </tr>
@@ -4004,7 +4004,7 @@ The next reconstruction, in its simple form &ast;pura(q), was primarily a verb �
 
 <a id="p-62"></a>
 
-A number of languages use a compound, translatable literally as ‘eye of water’ or similar to refer to a spring. A POc reconstruction is possible given the existence of Indonesian mata air ‘spring’, reflecting PMP &ast;mata WahiR ‘spring of water’. Other compounds with similar meaning are found throughout the wider Oceanic region.
+A number of languages use a compound, translatable literally as ‘eye of water’ or similar to refer to a spring. A POc reconstruction is possible given the existence of Indonesian _mata air_ ‘spring’, reflecting PMP _&ast;mata WahiR_ ‘spring of water’. Other compounds with similar meaning are found throughout the wider Oceanic region.
 
 <table>
 <tr>
@@ -4029,7 +4029,7 @@ A number of languages use a compound, translatable literally as ‘eye of water�
 </td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>mata ni wai </i></td>
+<td>Fij</td><td>Wayan</td><td><i>mata ni wai</i></td>
 <td>
 </td>
 </tr>
@@ -4047,14 +4047,14 @@ A number of languages use a compound, translatable literally as ‘eye of water�
 
 
 
-Other compounds retaining reflexes of POc &ast;mata ‘eye’ but varying in their term for ‘water’ include the following:
+Other compounds retaining reflexes of POc _&ast;mata_ ‘eye’ but varying in their term for ‘water’ include the following:
 
 ```
-NNG: Kaulong            eki maran
-NNG: Yabem              bu mata
-PT:     Iduna           gufa wa-mata
-MM: Tolai               mətə nə tavə
-SES: Lau                mā-fulafula
+NNG: Kaulong         |eki maran|
+NNG: Yabem           |bu mata|
+PT:  Iduna           |gufa wa-mata|
+MM:  Tolai           |mətə nə tavə|
+SES: Lau             |mā-fulafula|
 ```
 
 
@@ -4062,7 +4062,7 @@ SES: Lau                mā-fulafula
 ## 6.3. Waterfall
 
 
-The following reconstruction, POc &ast;sa[p,b]u(q), is used both as a verb ‘fall, trickle down, of water’ and a noun ‘waterfall’.
+The following reconstruction, POc _&ast;sa[p,b]u(q)_, is used both as a verb ‘fall, trickle down, of water’ and a noun ‘waterfall’.
 
 <table>
 <tr>
@@ -4083,7 +4083,7 @@ The following reconstruction, POc &ast;sa[p,b]u(q), is used both as a verb ‘fa
 (N) '<span>waterfall</span>'; (V) '<span>(water) fall</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Buang</td><td><i>(bel) rabu </i></td>
+<td>NNG</td><td>Buang</td><td><i>(bel) rabu</i></td>
 <td>
 '<span>waterfall</span>' (<span>bel ‘water</span>)</td>
 </tr>
@@ -4129,7 +4129,7 @@ The following reconstruction, POc &ast;sa[p,b]u(q), is used both as a verb ‘fa
 
 <a id="p-63"></a>
 
-POc &ast;tape has been reconstructed in Chapter 4 as both a noun and verb meaning ‘flow’, with reference to ocean currents. However, it is also reconstructable, possibly reduplicated, with the meaning ‘waterfall’.
+POc _&ast;tape_ has been reconstructed in Chapter 4 as both a noun and verb meaning ‘flow’, with reference to ocean currents. However, it is also reconstructable, possibly reduplicated, with the meaning ‘waterfall’.
 
 <table>
 <tr>
@@ -4171,7 +4171,7 @@ The mineral substance most highly valued by POc speakers would have been hard, e
 ## 7.1. Stone
 
 
-The generic term for ‘stone’ or ‘rock’ was POc &ast;patu.
+The generic term for ‘stone’ or ‘rock’ was POc _&ast;patu_.
 
 <table>
 <tr>
@@ -4383,7 +4383,7 @@ The generic term for ‘stone’ or ‘rock’ was POc &ast;patu.
 
 <a id="p-64"></a>
 
-The form below is a reduplication of POc &ast;maga ‘stone; slingshot’ (vol. 1, p.227). It probably referred to gravel or pebbles, as its reflexes do in Polynesian and Micronesian languages. Western Oceanic cognates show a semantic shift to ‘sand’.
+The form below is a reduplication of POc _&ast;maga_ ‘stone; slingshot’ (vol. 1, p.227). It probably referred to gravel or pebbles, as its reflexes do in Polynesian and Micronesian languages. Western Oceanic cognates show a semantic shift to ‘sand’.
 
 <table>
 <tr>
@@ -4427,7 +4427,7 @@ The form below is a reduplication of POc &ast;maga ‘stone; slingshot’ (vol. 
 <tr>
 <td>MM</td><td>Meramera</td><td><i>maga-maga</i></td>
 <td>
-'<span>sand, earth</span>' (<span>tumaga ‘sling’</span>)</td>
+'<span>sand, earth</span>' (<span><em>tumaga</em> ‘sling’</span>)</td>
 </tr>
 <tr>
 <td>MM</td><td>Nakanai</td><td><i>maga(sa)</i></td>
@@ -4435,9 +4435,9 @@ The form below is a reduplication of POc &ast;maga ‘stone; slingshot’ (vol. 
 '<span>earth, ground</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Woleaian</td><td><i>(faɨ̈)mwaxa</i></td>
+<td>Mic</td><td>Woleaian</td><td><i>(faɨ̈)mʷaxa</i></td>
 <td>
-'<span>gravel</span>' (<span>faü ‘numeral classifier for round objects such as stones, balls, nuts’</span>)</td>
+'<span>gravel</span>' (<span><em>faü</em> ‘numeral classifier for round objects such as stones, balls, nuts’</span>)</td>
 </tr>
 <tr>
 <td>Mic</td><td>Sonsorolese</td><td><i>(fatü)maka</i></td>
@@ -4569,9 +4569,9 @@ Two reconstructions for obsidian were proposed in volume 1 (p.93), one at POc le
 ## 7.3. Coral, limestone
 
 
-POc &ast;laje was the general term for coral as the substance from which reefs are formed. It was also used to refer more specifically to living coral of the branching kind, in contrast with, for instance, POc &ast;buŋa ‘smooth, round coral’. The cognate sets for &ast;laje and &ast;buŋa are included in [Chapter 4, §3.1](chapter4.md#s-3-1).
+POc _&ast;laje_ was the general term for coral as the substance from which reefs are formed. It was also used to refer more specifically to living coral of the branching kind, in contrast with, for instance, POc _&ast;buŋa_ ‘smooth, round coral’. The cognate sets for _&ast;laje_ and _&ast;buŋa_ are included in [Chapter 4, §3.1](chapter4.md#s-3-1).
 
-Dead coral was evidently valued as coral rubble (POc &ast;giri-giri), and as a source of the lime (POc &ast;qapu(R)), taken with betel nut.
+Dead coral was evidently valued as coral rubble (POc _&ast;giri-giri_), and as a source of the lime (POc _&ast;qapu(R)_), taken with betel nut.
 
 <table>
 <tr>
@@ -4763,7 +4763,7 @@ The chewing of betel nut, combined with lime and pepper as a stimulant, is wides
 ## 7.4. Pumice
 
 
-Pumice is a porous solidified lava that floats and is also useful as an abrasive. A compound term reflecting POc &ast;patu + maqañur (‘stone’ + ‘float’) is reconstructable for PEOc.
+Pumice is a porous solidified lava that floats and is also useful as an abrasive. A compound term reflecting POc _&ast;patu_ + _maqañur_ (‘stone’ + ‘float’) is reconstructable for PEOc.
 
 <table>
 <tr>
@@ -4803,7 +4803,7 @@ Pumice is a porous solidified lava that floats and is also useful as an abrasive
 
 
 
-Other compound terms include Roviana (MM) patu ale and Gela (SES) vatu ali, exhibiting reflexes of POc &ast;qaliR ‘drift, float’ rather than POc &ast;maqañur ‘floating, adrift’.
+Other compound terms include Roviana (MM) _patu ale_ and Gela (SES) _vatu ali_, exhibiting reflexes of POc _&ast;qaliR_ ‘drift, float’ rather than POc _&ast;maqañur_ ‘floating, adrift’.
 
 Proto Micronesian had its own term for pumice, probably preposed by &ast;fatu ‘stone’.
 
@@ -4846,7 +4846,7 @@ Proto Micronesian had its own term for pumice, probably preposed by &ast;fatu �
 
 
 
-A distinctive term, PCP &ast;vuqa(i)ŋa, is reflected in Fijian and Polynesian. This term also referred to grindstones, reflecting the use of pumice as an abrasive.
+A distinctive term, PCP _&ast;vuqa(i)ŋa_, is reflected in Fijian and Polynesian. This term also referred to grindstones, reflecting the use of pumice as an abrasive.
 
 <table>
 <tr>
@@ -4904,7 +4904,7 @@ A distinctive term, PCP &ast;vuqa(i)ŋa, is reflected in Fijian and Polynesian. 
 ## 7.5. Sand
 
 
-There is a well-attested POc term for ‘sand’ which continues a PAn etymon (see also POc &ast;nuku ‘sandy ground’, p.45).
+There is a well-attested POc term for ‘sand’ which continues a PAn etymon (see also POc _&ast;nuku_ ‘sandy ground’, p.45).
 
 <table>
 <tr>
@@ -5156,9 +5156,9 @@ A reduplicated form of the above can also be reconstructed. This may have denote
 ## 7.6. Earth, soil
 
 
-Two POc terms meaning ‘soil’ are well-supported: &ast;tanoq appears to have had three senses, (i) ‘earth, soil (as substance)’; (ii) ‘land, ground (as area or as opposed to sea)’ (this chapter, [§2.1](#s-2-1) and vol. 1, p.119), and (iii) ‘down on the ground, down below (as location)’ (Ch.8, [§2.2.5](#s-2-2)). POc &ast;pway(a) was probably limited to the first meaning.
+Two POc terms meaning ‘soil’ are well-supported: _&ast;tanoq_ appears to have had three senses, (i) ‘earth, soil (as substance)’; (ii) ‘land, ground (as area or as opposed to sea)’ (this chapter, [§2.1](#s-2-1) and vol. 1, p.119), and (iii) ‘down on the ground, down below (as location)’ (Ch.8, [§2.2.5](#s-2-2)). POc &ast;pway(a) was probably limited to the first meaning.
 
-Some soils contained pigments useful in both body and pot decoration. Although various wordlists include terms for red, white or yellow clay, we have not been able to reconstruct terms. Teeth-blackening was practised among Western Oceanic speakers (PWOc &ast;tapal ‘substance used to blacken teeth’; vol. 1, p.101), but it is unclear from the literature whether the substance was mineral or vegetable matter .
+Some soils contained pigments useful in both body and pot decoration. Although various wordlists include terms for red, white or yellow clay, we have not been able to reconstruct terms. Teeth-blackening was practised among Western Oceanic speakers (PWOc _&ast;tapal_ ‘substance used to blacken teeth’; vol. 1, p.101), but it is unclear from the literature whether the substance was mineral or vegetable matter .
 
 <table>
 <tr>
@@ -5208,12 +5208,12 @@ Some soils contained pigments useful in both body and pot decoration. Although v
 
 
 
-In the cognate set above, final -a is reflected only in PT languages, where it is often added after a POc final consonant. It is thus unclear whether &ast;y was final in this POc item. The Titan final -ñ and Sa’a final -nā are also not understood.
+In the cognate set above, final -a is reflected only in PT languages, where it is often added after a POc final consonant. It is thus unclear whether _&ast;y_ was final in this POc item. The Titan final _-ñ_ and Sa’a final _-nā_ are also not understood.
 
 
 <a id="p-69"></a>
 
-There is also a POc form, &ast;pʷiRa, whose reflexes are, geographically, apparently in complementary distribution with the above set.
+There is also a POc form, _&ast;pʷiRa_, whose reflexes are, geographically, apparently in complementary distribution with the above set.
 
 <table>
 <tr>
@@ -5283,7 +5283,7 @@ There is also a POc form, &ast;pʷiRa, whose reflexes are, geographically, appar
 
 
 
-Central Pacific shows an innovation in replacing &ast;tano(q) with gʷele.
+Central Pacific shows an innovation in replacing _&ast;tano(q)_ with _&ast;gʷele_.
 
 <table>
 <tr>
@@ -5363,7 +5363,7 @@ Central Pacific shows an innovation in replacing &ast;tano(q) with gʷele.
 
 
 
-Another cognate set may share ancestry with PCP &ast;gʷele. It includes Dami (NNG) gele ‘swamp, soft ground’, certain Papuan Tip terms for ‘beach, sand’ (Wagawaga gele-gele ‘sand’, Suau (Daui) gele-gele ‘sand’, Nimoa kele-kele ‘sand’, Keapara (Hula) kele ‘beach’) and, less plausibly, Choiseul Island (MM) terms for a headland (Vaghua kele-kele, Varisi, Sisiqa, Babatana ke-kele). In this case PCP &ast;gʷ- would be an irregular reflex (for expected &ast;g-) of POc &ast;g-.
+Another cognate set may share ancestry with PCP _&ast;gʷele_. It includes Dami (NNG) _gele_ ‘swamp, soft ground’, certain Papuan Tip terms for ‘beach, sand’ (Wagawaga _gele-gele_ ‘sand’, Suau (Daui) _gele-gele_ ‘sand’, Nimoa _kele-kele_ ‘sand’, Keapara (Hula) _kele_ ‘beach’) and, less plausibly, Choiseul Island (MM) terms for a headland (Vaghua _kele-kele_, Varisi, Sisiqa, Babatana _ke-kele_). In this case PCP _&ast;gʷ-_ would be an irregular reflex (for expected _&ast;g-_) of POc _&ast;g-_.
 
 
 <a id="s-7-7"></a>
@@ -5373,7 +5373,7 @@ Another cognate set may share ancestry with PCP &ast;gʷele. It includes Dami (N
 
 <a id="p-70"></a>
 
-Clay was used in pot manufacture, which was practised by POc speakers (see vol. 1, pp.67–71). Although non-Oceanic cognates of POc &ast;raRo(q) refer to ground or earth, e.g. Formosan Bunun dalaq ‘ground (earth, land, place, soil)’; WMP Ilocano daga ‘earth, land, soil’, and CMP Buru rahe ‘ground’, we can infer that in POc, &ast;raRo(q) referred specifically to ‘clay’. In NNG and Papuan Tip witnesses, reflexes refer to clay. Meso- Melanesian reflexes refer to clay cooking pots, but not, apparently, to the clay itself. New Caledonian reflexes refer to both clay and pots.
+Clay was used in pot manufacture, which was practised by POc speakers (see vol. 1, pp.67–71). Although non-Oceanic cognates of POc _&ast;raRo(q)_ refer to ground or earth, e.g. Formosan Bunun _dalaq_ ‘ground (earth, land, place, soil)’; WMP Ilocano _daga_ ‘earth, land, soil’, and CMP Buru _rahe_ ‘ground’, we can infer that in POc, _&ast;raRo(q)_ referred specifically to ‘clay’. In NNG and Papuan Tip witnesses, reflexes refer to clay. Meso-Melanesian reflexes refer to clay cooking pots, but not, apparently, to the clay itself. New Caledonian reflexes refer to both clay and pots.
 
 <table>
 <tr>
@@ -5441,7 +5441,7 @@ Clay was used in pot manufacture, which was practised by POc speakers (see vol. 
 ## 7.8. Salt
 
 
-POc &ast;maqasin seems to have been both a stative verb meaning ‘be salty’ (vol. 1, p.159) and a noun meaning ‘salt’. Its PMP antecedent &ast;ma-qasin, however, was purely a stative verb meaning ‘be salty’, derived from the noun &ast;qasin ‘salty taste, salt’ (ACD). Like a number of other PMP stative verbs derived with &ast;ma- from nouns, the prefix of &ast;maqasin became fossilised in POc ([Evans & Ross 2001](../references.md#source-EvansandRoss2001)).
+POc _&ast;maqasin_ seems to have been both a stative verb meaning ‘be salty’ (vol. 1, p.159) and a noun meaning ‘salt’. Its PMP antecedent _&ast;ma-qasin_, however, was purely a stative verb meaning ‘be salty’, derived from the noun _&ast;qasin_ ‘salty taste, salt’ (ACD). Like a number of other PMP stative verbs derived with _&ast;ma-_ from nouns, the prefix of _&ast;maqasin_ became fossilised in POc ([Evans & Ross 2001](../references.md#source-EvansandRoss2001)).
 
 <table>
 <tr>
@@ -5519,12 +5519,12 @@ POc &ast;maqasin seems to have been both a stative verb meaning ‘be salty’ (
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>māsi(ma)</i></td>
 <td>
-'<span>salt obtained by evaporation from seawater</span>' (<span>origin of -ma unknown</span>)</td>
+'<span>salt obtained by evaporation from seawater</span>' (<span>origin of <em>-ma</em> unknown</span>)</td>
 </tr>
 <tr>
 <td>Pn</td><td>Samoan</td><td><i>māsi(ma)</i></td>
 <td>
-'<span>salt</span>' (<span>origin of -ma unknown</span>)</td>
+'<span>salt</span>' (<span>origin of <em>-ma</em> unknown</span>)</td>
 </tr>
 <tr>
 <td>Pn</td><td>Samoan</td><td><i>masi</i></td>
@@ -5543,7 +5543,7 @@ POc &ast;maqasin seems to have been both a stative verb meaning ‘be salty’ (
 
 <a id="p-71"></a>
 
-PAn &ast;qasiRa ‘salt’ has Oceanic reflexes. Despite the formal resemblance to PAn &ast;qasiN/PMP &ast;qasin ‘salt’, the supporting data in the[ ACD ](../references.md#source-Blust1995)show clearly that these are distinct etyma. Blust (ACD) interprets the SES reflexes as reflexes of &ast;tasik ‘sea’ (see Ch.4, [§2.1](#s-2-1)) with an added suffix -la, but it seems far more likely that they reflect POc &ast;qasiRa ‘salt’.
+PAn _&ast;qasiRa_ ‘salt’ has Oceanic reflexes. Despite the formal resemblance to PAn _&ast;qasiN_ / PMP _&ast;qasin_ ‘salt’, the supporting data in the[ ACD ](../references.md#source-Blust1995)show clearly that these are distinct etyma. Blust (ACD) interprets the SES reflexes as reflexes of _&ast;tasik_ ‘sea’ (see Ch.4, [§2.1](#s-2-1)) with an added suffix _-la_, but it seems far more likely that they reflect POc _&ast;qasiRa_ ‘salt’.
 
 <table>
 <tr>
@@ -5592,25 +5592,25 @@ PAn &ast;qasiRa ‘salt’ has Oceanic reflexes. Despite the formal resemblance 
 ## 8. Fire
 
 
-Oceanic languages generally have a sizeable vocabulary relating to fire. The present discussion is concerned chiefly with the chemistry of fire, i.e. with terms for the processes and products of burning. Cognate sets and reconstructed terms to do with human uses of fire were dealt with in volume 1 and most of these items will not be discussed here. The reconstructions presented in volume 1 (pp.143–157, 293–295) include Poc &ast;api ‘fire’, &ast;rapu(R) ‘hearth, fireplace’, &ast;suka, &ast;suka-i ‘make fire with fire-plough’, &ast;tutu(ŋ),&ast;tuŋi-‘set fire to, light (a fire)’, &ast;tunu ‘roast on embers or in fire’, &ast;sunu ‘singe’, &ast;nasu(q) ‘boil’, &ast;pa[ka]-qasu ‘cure by smoking’, &ast;tapa ‘dry food by heat to preserve it, smoke food’, &ast;raraŋ, raŋ-i ‘heat s.t. or warm oneself by fire’, &ast;sokot-i ‘burn grass, rubbish +’, &ast;sulu ‘dry coconut leaf torch’,&ast;qumun ‘oven made with hot stones’ and PEOc &ast;papia ‘firewood’.
+Oceanic languages generally have a sizeable vocabulary relating to fire. The present discussion is concerned chiefly with the chemistry of fire, i.e. with terms for the processes and products of burning. Cognate sets and reconstructed terms to do with human uses of fire were dealt with in volume 1 and most of these items will not be discussed here. The reconstructions presented in volume 1 (pp.143–157, 293–295) include Poc _&ast;api_ ‘fire’, _&ast;rapu(R)_ ‘hearth, fireplace’, _&ast;suka_, _&ast;suka-i_ ‘make fire with fire-plough’, _&ast;tutu(ŋ)_, _&ast;tuŋi-_ ‘set fire to, light (a fire)’, _&ast;tunu_ ‘roast on embers or in fire’, _&ast;sunu_ ‘singe’, _&ast;nasu(q)_ ‘boil’, _&ast;pa[ka]-qasu_ ‘cure by smoking’, _&ast;tapa_ ‘dry food by heat to preserve it, smoke food’, _&ast;raraŋ_, _&ast;raŋ-i_ ‘heat s.t. or warm oneself by fire’, _&ast;sokot-i_ ‘burn grass, rubbish +’, _&ast;sulu_ ‘dry coconut leaf torch’, _&ast;qumun_ ‘oven made with hot stones’ and PEOc _&ast;papia_ ‘firewood’.
 
 Oceanic languages, by and large, make similar lexical distinctions to everyday English when talking about chemistry of fire, but the matches are not exact. Many Oceanic primary terms (single morpheme lexemes) are polysemous or have a rather broad range of reference, e.g. in a given language the same term may denote both ‘ashes’ and ‘fireplace’, or ‘ash’ and ‘soot’, or ‘live coals’ and ‘embers’. English too, is vague or general in many of its primary terms, and relies on compounds and phrasal expressions to make finer distinctions, for example embers has a broad range of reference, as shown by such conventional descriptive expressions as live coals, glowing embers, dying embers, dull black embers, hot ash, white ash.
 
 The kinds of lexical distinctions commonly made in Oceanic languages in this semantic domain can be exemplified by comparing Mota, of the Banks Is., Vanuatu ([Codrington and Palmer 1896](../references.md#source-CodringtonandPalmer1896)) and Kiriwina of the Trobriand Is., Milne Bay Province, Papua New Guinea (Lawton pers. comm.).
 
-Mota has the general term av ‘fire’ and at least nine terms for kinds of burning and emissions fom fire: gao ‘burn (intr.)’, gao-serlawalawa ‘burn with flame’, pepe-roworowo ‘(of sparks, flames) fly up, flare, flash’, malawo-av ‘fire flaming high’, gara-mwea-av (N) ‘flame’, lawa (V) ‘to blaze, flame’, lolowo ‘to flare, flame’, taŋaŋoi ‘(fire) almost gone out’, asu (N) ‘smoke’, (V) ‘emit smoke, go up as smoke’. Mota also distinguishes the following stages in the reduction of wood by burning: gar-taŋasul ‘firestick, burning log or stick’, gao-searag ‘(of fuel) burn from middle to outside’, gao-taweraga ‘burn down into embers’, mata-were-av ‘live embers’, tawene ‘a live coal, single live ember’, taweris ‘dull black embers’, gar-taweris ‘black embers, charcoal’, taŋarnai ‘fine ashes’, tuwus ‘the accumulation of ashes in a fireplace’, tarowo ‘ashes, white ashes of burnt out wood’. It can be seen that about half of these 21 Mota terms are compounds. Some dictionaries of Oceanic languages are weak in coverage of compounds and for this reason their listings of fire terms are probably deficient.
+Mota has the general term _av_ ‘fire’ and at least nine terms for kinds of burning and emissions fom fire: _gao_ ‘burn (intr.)’, _gao-serlawalawa_ ‘burn with flame’, _pepe-roworowo_ ‘(of sparks, flames) fly up, flare, flash’, _malawo-av_ ‘fire flaming high’, _gara-mwea-av_ (N) ‘flame’, _lawa_ (V) ‘to blaze, flame’, _lolowo_ ‘to flare, flame’, _taŋaŋoi_ ‘(fire) almost gone out’, _asu_ (N) ‘smoke’, (V) ‘emit smoke, go up as smoke’. Mota also distinguishes the following stages in the reduction of wood by burning: _gar-taŋasul_ ‘firestick, burning log or stick’, _gao-searag_ ‘(of fuel) burn from middle to outside’, _gao-taweraga_ ‘burn down into embers’, _mata-were-av_ ‘live embers’, _tawene_ ‘a live coal, single live ember’, _taweris_ ‘dull black embers’, _gar-taweris_ ‘black embers, charcoal’, _taŋarnai_ ‘fine ashes’, _tuwus_ ‘the accumulation of ashes in a fireplace’, _tarowo_ ‘ashes, white ashes of burnt out wood’. It can be seen that about half of these 21 Mota terms are compounds. Some dictionaries of Oceanic languages are weak in coverage of compounds and for this reason their listings of fire terms are probably deficient.
 
 
 <a id="p-72"></a>
 
-In Kiriwina, in addition to the three general terms kova (i) ‘fire’, (ii) ‘firestick’, kaimova ‘(fire) be alive’, and kaimata ‘(fire) be dead’, there are at least eight terms for burning and emissions from fire: -gabu ‘burn (intr.)’, lulu ‘blaze’, mayela kova ‘tongues of fire’, kata ‘burn without flame’, kubowa ‘visible heat above a fire’, visiga ‘glow from (unseen) fire’, mseu (N) ‘smoke’, and womi ‘(of smoke) drift, fill house’, and at least half a dozen terms for stages in the reduction of wood: pwakova ‘hot coals’, kovagwaia ‘smouldering ember or spark’, pwanosi ‘cold ashes, residue of white ash and charcoal left after a fire’, tubwaga ‘white ash from dead fire’, kainunukwa ‘partially burnt stick’, and vakatutu ‘burn up completely’.
+In Kiriwina, in addition to the three general terms _kova_ (i) ‘fire’, (ii) ‘firestick’, _kaimova_ ‘(fire) be alive’, and _kaimata_ ‘(fire) be dead’, there are at least eight terms for burning and emissions from fire: _-gabu_ ‘burn (intr.)’, _lulu_ ‘blaze’, _mayela kova_ ‘tongues of fire’, _kata_ ‘burn without flame’, _kubowa_ ‘visible heat above a fire’, _visiga_ ‘glow from (unseen) fire’, _mseu_ (N) ‘smoke’, and _womi_ ‘(of smoke) drift, fill house’, and at least half a dozen terms for stages in the reduction of wood: _pwakova_ ‘hot coals’, _kovagwaia_ ‘smouldering ember or spark’, _pwanosi_ ‘cold ashes, residue of white ash and charcoal left after a fire’, _tubwaga_ ‘white ash from dead fire’, _kainunukwa_ ‘partially burnt stick’, and _vakatutu_ ‘burn up completely’.
 
 
 <a id="s-8-1"></a>
 ## 8.1. Fire
 
 
-The PAn name for fire, &ast;Sapuy, is among the more stable terms in the lexicon.
+The PAn name for fire, _&ast;Sapuy_, is among the more stable terms in the lexicon.
 
 <table>
 <tr>
@@ -5646,7 +5646,7 @@ The PAn name for fire, &ast;Sapuy, is among the more stable terms in the lexicon
 </td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>lahi</i></td>
+<td>PT</td><td>Motu</td><td><i>ahi</i></td>
 <td>
 </td>
 </tr>
@@ -5694,14 +5694,14 @@ The PAn name for fire, &ast;Sapuy, is among the more stable terms in the lexicon
 
 
 
-In some Oceanic languages reflexes of POc &ast;api are also used as a verb meaning ‘be on fire, burn’. However, this does not appear to have been the case in POc. There are stronger candidates for the verbal meaning (see [§8.3](#s-8-3) below).
+In some Oceanic languages reflexes of POc _&ast;api_ are also used as a verb meaning ‘be on fire, burn’. However, this does not appear to have been the case in POc. There are stronger candidates for the verbal meaning (see [§8.3](#s-8-3) below).
 
 
 <a id="s-8-2"></a>
 ## 8.2. Stages of reduction of wood by burning
 
 
-Blust (ACD) reconstructs PMP &ast;luten ‘firewood’ based on WMP: LongWat luten ‘fire’, Kayan luten ‘firebrand, partly burnt stick’, Bisaya Bukit luton ‘burning brand’, CMP: Tetum haʔi lutan ‘burning brand’, SHWNG Sawai luten ‘fire’, Oceanic: Mota lito ‘firewood’. Blust (ACD) glosses the variants PMP &ast;aluten and &ast;aliten as (i) ‘firebrand’, (ii) ‘burning wood in a fire’, (iii) ‘charred wood’, but does not cite (iv) ‘firewood’. The Oceanic evidence offers support for senses (i) and (less strongly) (iv).
+Blust (ACD) reconstructs PMP _&ast;luten_ ‘firewood’ based on WMP: LongWat _luten_ ‘fire’, Kayan _luten_ ‘firebrand, partly burnt stick’, Bisaya Bukit _luton_ ‘burning brand’, CMP: Tetum _haʔi lutan_ ‘burning brand’, SHWNG: Sawai _luten_ ‘fire’, Oceanic: Mota _lito_ ‘firewood’. Blust (ACD) glosses the variants PMP _&ast;aluten_ and _&ast;aliten_ as (i) ‘firebrand’, (ii) ‘burning wood in a fire’, (iii) ‘charred wood’, but does not cite (iv) ‘firewood’. The Oceanic evidence offers support for senses (i) and (less strongly) (iv).
 
 <table>
 <tr>
@@ -5809,7 +5809,7 @@ cf. also:
 <td>Tami</td>
 <td>kalit</td>
 <td>
-'<span>ashes</span>' (<span>indicating earlier *(q,k)alitV</span>)</td>
+'<span>ashes</span>' (<span>indicating earlier <em>*(q,k)alitV</em></span>)</td>
 </tr>
 <tr>
 <td>NNG</td>
@@ -5824,7 +5824,7 @@ cf. also:
 
 <a id="p-73"></a>
 
-It appears that most Oceanic languages use a single term to refer to both ‘hot coals’ and ‘embers’. At any rate most dictionaries of Oceanic languages do not record such a distinction. POc &ast;koran appears to have been used both as a noun denoting ‘fragments of burning wood’ and as a verb meaning something like ‘burn brightly’.
+It appears that most Oceanic languages use a single term to refer to both ‘hot coals’ and ‘embers’. At any rate most dictionaries of Oceanic languages do not record such a distinction. POc _&ast;koran_ appears to have been used both as a noun denoting ‘fragments of burning wood’ and as a verb meaning something like ‘burn brightly’.
 
 <table>
 <tr>
@@ -5884,7 +5884,7 @@ It appears that most Oceanic languages use a single term to refer to both ‘hot
 
 
 
-PMP &ast;baRah ‘live coal’ may be reconstructed from, e.g. Tagalog baga, Malay bara, Ngadju-Dayak barah ‘live coal’. This is possibly continued in Ramoaaina para ‘bake on fire’, Motu hara-ia ‘light a fire; broil’, hara ‘platform of sticks on which meat is grilled’ but the meaning differences leave a question. There is already a distinct, well-established POc reconstruction for ‘cook over an open fire, roast over embers’, namely &ast;tunu (vol. 1, pp.293–294).
+PMP _&ast;baRah_ ‘live coal’ may be reconstructed from, e.g. Tagalog _baga_, Malay _bara_, Ngadju-Dayak _barah_ ‘live coal’. This is possibly continued in Ramoaaina _para_ ‘bake on fire’, Motu _hara-ia_ ‘light a fire; broil’, _hara_ ‘platform of sticks on which meat is grilled’ but the meaning differences leave a question. There is already a distinct, well-established POc reconstruction for ‘cook over an open fire, roast over embers’, namely _&ast;tunu_ (vol. 1, pp.293–294).
 
 
 <a id="p-74"></a>
@@ -5969,7 +5969,7 @@ The following cognate set is tentatively attributed to a POc etymon glossed ‘l
 
 
 
-Charcoal is likely to have been distinctively named in Proto Oceanic. Carbonised wood was widely used in Pacific Island communities for drawing marks or, pounded and mixed with oil and water, for smearing on the skin. PMP &ast;uRiŋ ‘charcoal, wood that is charred (but no longer burning fiercely)’ has been reconstructed by Dempwolff and others, based on e.g. Tagalog uliŋ, Bontok uriŋ, Ngadju-Dayak b/uriŋ, etc. but Oceanic cognates have not been noted. There is a well supported reconstruction for Eastern Oceanic, &ast;malala, but this lacks clear cognates in Western Oceanic.
+Charcoal is likely to have been distinctively named in Proto Oceanic. Carbonised wood was widely used in Pacific Island communities for drawing marks or, pounded and mixed with oil and water, for smearing on the skin. PMP _&ast;uRiŋ_ ‘charcoal, wood that is charred (but no longer burning fiercely)’ has been reconstructed by Dempwolff and others, based on e.g. Tagalog _uliŋ_, Bontok _uriŋ_, Ngadju-Dayak _b/uriŋ_, etc. but Oceanic cognates have not been noted. There is a well supported reconstruction for Eastern Oceanic, _&ast;malala_, but this lacks clear cognates in Western Oceanic.
 
 <table>
 <tr>
@@ -6001,7 +6001,7 @@ Charcoal is likely to have been distinctively named in Proto Oceanic. Carbonised
 '<span>charcoal, carbon</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>malala-ʔi afi </i></td>
+<td>Pn</td><td>Tongan</td><td><i>malala-ʔi afi</i></td>
 <td>
 '<span>embers</span>'</td>
 </tr>
@@ -6070,7 +6070,7 @@ cf. also:
 </table>
 
 
-POc used at least two terms to denote ashes. These had distinct but overlapping meanings. It appears that &ast;rapu(R) referred specifically to ‘ashes of a fire’; the same term was also used for ‘hearth, fireplace’. A second term, &ast;qapu or &ast;kapu, denoted ‘ash, dust, powder’ and its core meaning was probably ‘a mass of fine particles of matter’. The second term may also have been applied to volcanic ash and cinders. Several Oceanic languages reflect both &ast;rapu(R) and a reduplicated form &ast;rapu-rapu(R); but the dictionaries generally specify no difference in meaning between reflexes of the two.
+POc used at least two terms to denote ashes. These had distinct but overlapping meanings. It appears that _&ast;rapu(R)_ referred specifically to ‘ashes of a fire’; the same term was also used for ‘hearth, fireplace’. A second term, _&ast;qapu_ or _&ast;kapu_, denoted ‘ash, dust, powder’ and its core meaning was probably ‘a mass of fine particles of matter’. The second term may also have been applied to volcanic ash and cinders. Several Oceanic languages reflect both _&ast;rapu(R)_ and a reduplicated form _&ast;rapu-rapu(R)_; but the dictionaries generally specify no difference in meaning between reflexes of the two.
 
 
 <a id="p-75"></a>
@@ -6188,7 +6188,7 @@ POc used at least two terms to denote ashes. These had distinct but overlapping 
 
 
 
-Blust (ACD) attributes, to varying Austronesian interstages, a number of fairly similar forms whose gloss includes one or more of the following: ‘ash’, ‘dust’, ‘cinders’, ‘powder’. These forms include PAn &ast;qabu ‘ash, cinders, powder’, PMP &ast;abus ‘ashes’, &ast;qabuk ‘dust’, and PWMP &ast;abuR, &ast;apuk, &ast;qabug ‘dust’. PAn &ast;qabu, by far the most widely attested of these forms, is continued with regular reflexes in a number of Oceanic languages.
+Blust (ACD) attributes, to varying Austronesian interstages, a number of fairly similar forms whose gloss includes one or more of the following: ‘ash’, ‘dust’, ‘cinders’, ‘powder’. These forms include PAn _&ast;qabu_ ‘ash, cinders, powder’, PMP _&ast;abus_ ‘ashes’, _&ast;qabuk_ ‘dust’, and PWMP _&ast;abuR_, _&ast;apuk_, _&ast;qabug_ ‘dust’. PAn _&ast;qabu_, by far the most widely attested of these forms, is continued with regular reflexes in a number of Oceanic languages.
 
 <table>
 <tr>
@@ -6239,7 +6239,7 @@ Blust (ACD) attributes, to varying Austronesian interstages, a number of fairly 
 '<span>ashes</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Tamambo</td><td><i>(batui) avu </i></td>
+<td>NCV</td><td>Tamambo</td><td><i>(batui) avu</i></td>
 <td>
 '<span>ashes</span>'</td>
 </tr>
@@ -6285,7 +6285,7 @@ Blust (ACD) attributes, to varying Austronesian interstages, a number of fairly 
 
 <a id="p-76"></a>
 
-However, many Western Oceanic languages have forms that point to a form &ast;kapu meaning ‘ash, dust’, with initial &ast;k rather than &ast;q.
+However, many Western Oceanic languages have forms that point to a form &ast;kapu meaning ‘ash, dust’, with initial _&ast;k_ rather than _&ast;q_.
 
 <table>
 <tr>
@@ -6370,9 +6370,9 @@ However, many Western Oceanic languages have forms that point to a form &ast;kap
 
 
 
-It is noteworthy that in this set the NNG reflexes show initial &ast;g-, whilst PT and MM languages all show an unexpected fortis reflex of &ast;k rather than the usual lenis reflex. One possible explanation for this is that, at some stage, perhaps in PWOc, reflexes of POc &ast;qapu were contaminated by association with reflexes of POc &ast;(g,k)abu ‘burn, firewood’ (see [§8.3](#s-8-3) below).
+It is noteworthy that in this set the NNG reflexes show initial _&ast;g-_, whilst PT and MM languages all show an unexpected fortis reflex of _&ast;k_ rather than the usual lenis reflex. One possible explanation for this is that, at some stage, perhaps in PWOc, reflexes of POc _&ast;qapu_ were contaminated by association with reflexes of POc _&ast;(g,k)abu_ ‘burn, firewood’ (see [§8.3](#s-8-3) below).
 
-In some Oceanic languages reflexes of POc &ast;qapu ‘ashes, dust’ fell together formally with reflexes of &ast;qapu(R) ‘lime’ (see [§7.3](#s-7-3) above). Because lime is a powdery substance (made by roasting calcerous rock, such as coral or limestone, and used in some Oceanic societies for ritual and decorative purposes and for consumption with betel nut) this meaning may have been regarded as related to ‘dust’ and ‘ashes’.
+In some Oceanic languages reflexes of POc _&ast;qapu_ ‘ashes, dust’ fell together formally with reflexes of _&ast;qapu(R)_ ‘lime’ (see [§7.3](#s-7-3) above). Because lime is a powdery substance (made by roasting calcerous rock, such as coral or limestone, and used in some Oceanic societies for ritual and decorative purposes and for consumption with betel nut) this meaning may have been regarded as related to ‘dust’ and ‘ashes’.
 
 
 <a id="s-8-3"></a>
@@ -6617,7 +6617,7 @@ cf. also:
 '<span>flame</span>'; '<span>passion</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kiribatese</td><td><i>ura maka </i></td>
+<td>Mic</td><td>Kiribatese</td><td><i>ura maka</i></td>
 <td>
 '<span>flaming, blazing</span>'</td>
 </tr>
@@ -6668,7 +6668,7 @@ cf. also:
 ## 8.4. Emissions from burning materials: smoke, vapour, flames, light
 
 
-POc, like some of its daughter languages, seems to have distinct terms for smoke as a thing (&ast;qasu) and the process of emitting smoke or vapour (&ast;kupu(k)).
+POc, like some of its daughter languages, seems to have distinct terms for smoke as a thing (_&ast;qasu_) and the process of emitting smoke or vapour (_&ast;kupu(k)_).
 
 <table>
 <tr>
@@ -6796,7 +6796,7 @@ POc, like some of its daughter languages, seems to have distinct terms for smoke
 
 
 
-In the following cognate set, Polynesian languages show unexpected o for &ast;u in the first syllable.
+In the following cognate set, Polynesian languages show unexpected _o_ for _&ast;u_ in the first syllable.
 
 <table>
 <tr>
@@ -6892,7 +6892,7 @@ In the following cognate set, Polynesian languages show unexpected o for &ast;u 
 
 <a id="p-79"></a>
 
-PCP &ast;kobulu, possibly meaning ‘thick smoke or cloud’ is indicated by reflexes in Fijian and Maori. The existence of a probable cognate in Javanese kəbul ‘smoke’ allows the tentative reconstruction of PMP &ast;kəbul, POc &ast;kobul(u) ‘smoke’.
+PCP _&ast;kobulu_, possibly meaning ‘thick smoke or cloud’ is indicated by reflexes in Fijian and Maori. The existence of a probable cognate in Javanese _kəbul_ ‘smoke’ allows the tentative reconstruction of PMP _&ast;kəbul_, POc _&ast;kobul(u)_ ‘smoke’.
 
 <table>
 <tr>
@@ -6939,7 +6939,7 @@ cf. also:
 </table>
 
 
-Widely scattered languages use a reflex of POc &ast;maya ‘tongue’ (either alone, or in a compound meaning ‘tongue of fire’) to refer to flames. Given that ‘flame’ is a natural metaphorical extension of ‘tongue’ it is difficult to know whether &ast;maya had this polysemy in POc or whether daughter languages have from time to time independently made the same extension.
+Widely scattered languages use a reflex of POc _&ast;maya_ ‘tongue’ (either alone, or in a compound meaning ‘tongue of fire’) to refer to flames. Given that ‘flame’ is a natural metaphorical extension of ‘tongue’ it is difficult to know whether _&ast;maya_ had this polysemy in POc or whether daughter languages have from time to time independently made the same extension.
 
 <table>
 <tr>
@@ -6951,12 +6951,12 @@ Widely scattered languages use a reflex of POc &ast;maya ‘tongue’ (either al
 (N) '<span>flame</span>' (<span>lit. ‘tongue’ or ‘tongue of fire’</span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td>Mangap</td><td><i>you mia-na </i></td>
+<td>NNG</td><td>Mangap</td><td><i>you mia-na</i></td>
 <td>
 '<span>flame</span>' (<span>lit. ‘tongue of fire’</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>mea, mea-mea(hana hunge) </i></td>
+<td>SES</td><td>Sa'a</td><td><i>mea, mea-mea(hana hunge)</i></td>
 <td>
 '<span>flame</span>'</td>
 </tr>
@@ -6981,7 +6981,7 @@ Widely scattered languages use a reflex of POc &ast;maya ‘tongue’ (either al
 '<span>flame</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>yame-yame (ni buka) </i></td>
+<td>Fij</td><td>Bauan</td><td><i>yame-yame (ni buka)</i></td>
 <td>
 '<span>flame</span>'</td>
 </tr>
@@ -6992,14 +6992,14 @@ cf. also: the following, where there is semantic correspondence even though one 
 <tr>
 <td>PT</td>
 <td>Kilivila</td>
-<td>mayela kova </td>
+<td>mayela kova</td>
 <td>
 '<span>flames</span>' (<span>‘tongues of fire’</span>)</td>
 </tr>
 <tr>
 <td>SV</td>
 <td>Kwamera</td>
-<td>nəami napw </td>
+<td>nəami napw</td>
 <td>
 '<span>flame</span>' (<span>‘tongue of fire’</span>)</td>
 </tr>
@@ -7013,7 +7013,7 @@ cf. also: the following, where there is semantic correspondence even though one 
 <tr>
 <td>NNG</td>
 <td>Takia</td>
-<td>yai bale-na </td>
+<td>yai bale-na</td>
 <td>
 '<span>flame</span>' (<span>‘tongue of fire’</span>)</td>
 </tr>
@@ -7086,8 +7086,8 @@ cf. also: the following, where there is semantic correspondence even though one 
 Certain Papuan languages of the central and western Solomons show resemblant forms that are presumably borrowed from an Oceanic source.
 
 ```
-Papuan: Lavukaleve huluhuluru          ‘flame’
-Papuan: Baniata      vuvuru            ‘flame’
+Papuan: Lavukaleve  huluhuluru        ‘flame’
+Papuan: Baniata     vuvuru            ‘flame’
 ```
 
 
@@ -7122,7 +7122,7 @@ There are several cognate sets pointing to PEOc forms denoting burning with a pa
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>maka(liva)</i></td>
 <td>
-'<span>flash upon</span>' (<span>liva ‘lightning’</span>)</td>
+'<span>flash upon</span>' (<span><em>liva</em> ‘lightning’</span>)</td>
 </tr>
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>(rā)maka</i></td>
@@ -7135,7 +7135,7 @@ There are several cognate sets pointing to PEOc forms denoting burning with a pa
 '<span>alight with glow, burn without flame</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>makalo maka </i></td>
+<td>Fij</td><td>Wayan</td><td><i>makalo maka</i></td>
 <td>
 '<span>glowing embers</span>'</td>
 </tr>
@@ -7274,7 +7274,7 @@ Because of their location on an unstable part of the earth’s crust, many parts
 ## 9.1. Volcanic activity
 
 
-Parts of New Guinea and Island Melanesia have a long history of volcanic activity. Within recorded history the area of New Britain round Rabaul, for instance, has been the scene of violent eruptions in 1850, 1878, 1937 and 1994, causing loss of life and enormous environmental damage. Although we have collected a range of terms for volcanoes and volcanic features, soundly based POc reconstructions for ‘volcano’ and features of volcanic activity such as lava and volcanic ash, have eluded us. It may well be that Melanesians had no separate concept for ‘volcano’, regarding it simply as a mountain that produces fire. In Manam, Takia and Nehan, the word for ‘fire’ is used also to refer to a volcano. Terms reconstructed in the section on fire above, such as POc &ast;qapu ‘ash, dust, powder’ and POc &ast;kupu(k) ‘emit smoke or steam’, could readily have been applied to volcanic features. A single lower-level reconstruction for ‘volcano’ comes from North Central Vanuatu, with a possible cognate from North New Guinea which suggests a rather tentative POc reconstruction.
+Parts of New Guinea and Island Melanesia have a long history of volcanic activity. Within recorded history the area of New Britain round Rabaul, for instance, has been the scene of violent eruptions in 1850, 1878, 1937 and 1994, causing loss of life and enormous environmental damage. Although we have collected a range of terms for volcanoes and volcanic features, soundly based POc reconstructions for ‘volcano’ and features of volcanic activity such as lava and volcanic ash, have eluded us. It may well be that Melanesians had no separate concept for ‘volcano’, regarding it simply as a mountain that produces fire. In Manam, Takia and Nehan, the word for ‘fire’ is used also to refer to a volcano. Terms reconstructed in the section on fire above, such as POc _&ast;qapu_ ‘ash, dust, powder’ and POc _&ast;kupu(k)_ ‘emit smoke or steam’, could readily have been applied to volcanic features. A single lower-level reconstruction for ‘volcano’ comes from North Central Vanuatu, with a possible cognate from North New Guinea which suggests a rather tentative POc reconstruction.
 
 <table>
 <tr>
@@ -7346,7 +7346,7 @@ Map 9: Active volcanoes and earthquake areas in the south-west Pacific (after [B
 
 <a id="p-83"></a>
 
-The next reconstruction belongs to a set of formally similar items with meanings relating to bubbling, frothing and foaming (see &ast;pura(q) on p.60). The semantic change evident between the Tolai and Mota glosses may perhaps be explained as transfer of meaning from ‘place/activity of emission’ to ‘matter emitted’.
+The next reconstruction belongs to a set of formally similar items with meanings relating to bubbling, frothing and foaming (see _&ast;pura(q)_ on p.60). The semantic change evident between the Tolai and Mota glosses may perhaps be explained as transfer of meaning from ‘place/activity of emission’ to ‘matter emitted’.
 
 <table>
 <tr>
@@ -7426,7 +7426,7 @@ cf. also:
 <tr>
 <td>PT</td>
 <td>Molima</td>
-<td>(mwa)niʔi-niʔi</td>
+<td>(mʷa)niʔi-niʔi</td>
 <td>
 '<span>earthquake</span>'</td>
 </tr>
@@ -7456,7 +7456,7 @@ cf. also:
 '<span>earthquake</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Manam</td><td><i>(mwa)rike</i></td>
+<td>NNG</td><td>Manam</td><td><i>(mʷa)rike</i></td>
 <td>
 (N, V) '<span>earthquake, quake</span>'</td>
 </tr>
@@ -7494,7 +7494,7 @@ cf. also:
 
 
 
-In several of the following cognate sets, the term for earthquake is closely related to the verb meaning ‘to shake’. Some form of onomatopoeic wordplay may explain the similarity of form between the various sets. For instance, Onin and Sekar, CEMP languages spoken in West New Guinea, both record nuni ‘earthquake’ while Yotafa on the north coast lists nioni ‘earthquake’ ([Smits & Voorhoeve 1992](../references.md#source-SmitsandVoorhoeve1992):34).
+In several of the following cognate sets, the term for earthquake is closely related to the verb meaning ‘to shake’. Some form of onomatopoeic wordplay may explain the similarity of form between the various sets. For instance, Onin and Sekar, CEMP languages spoken in West New Guinea, both record _nuni_ ‘earthquake’ while Yotafa on the north coast lists _nioni_ ‘earthquake’ ([Smits & Voorhoeve 1992](../references.md#source-SmitsandVoorhoeve1992):34).
 
 
 <a id="p-84"></a>
@@ -7528,7 +7528,7 @@ In several of the following cognate sets, the term for earthquake is closely rel
 '<span>earthquake</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Mumeng</td><td><i>(zenag) nɛr </i></td>
+<td>NNG</td><td>Mumeng</td><td><i>(zenag) nɛr</i></td>
 <td>
 '<span>earthquake</span>'</td>
 </tr>
@@ -7722,7 +7722,7 @@ In a number of northwest and southeast Solomons languages, the term for earthqua
 ## 9.3. Landslide
 
 
-POc &ast;solo was probably a verb, but its reflexes refer, inter alia, to landslides in several daughter languages. They are also found in Puluwatese (Mic), linked to star names, to refer to stars sinking towards the horizon (see [Ch.6, §5.4.2](chapter6.md#s-5-4)).
+POc _&ast;solo_ was probably a verb, but its reflexes refer, inter alia, to landslides in several daughter languages. They are also found in Puluwatese (Mic), linked to star names, to refer to stars sinking towards the horizon (see [Ch.6, §5.4.2](chapter6.md#s-5-4)).
 
 <table>
 <tr>
@@ -7868,25 +7868,25 @@ POc &ast;solo was probably a verb, but its reflexes refer, inter alia, to landsl
 ## 9.4. Tidal wave
 
 
-No POc term denoting tidal wave has been reconstructed. In contemporary languages, terms for tidal wave are compounds, with the first element often a reflex of &ast;tasik ‘sea’ (Ch.4, [§2.1](#s-2-1)) or &ast;[u]Ruap ‘high tide’ ([§2.6](#s-2-6)). These terms do not usually distinguish tsunamis, caused by undersea earth movements, from floods caused by a combination of high tide and strong wind. In any case, catastrophic tidal waves probably occur only once or twice a century, and affect only localised places. Although a number of terms for ‘tidal wave’ have been collected, and are listed below, cognates exist only within low level subgroups.
+No POc term denoting tidal wave has been reconstructed. In contemporary languages, terms for tidal wave are compounds, with the first element often a reflex of _&ast;tasik_ ‘sea’ (Ch.4, [§2.1](#s-2-1)) or _&ast;[u]Ruap_ ‘high tide’ ([§2.6](#s-2-6)). These terms do not usually distinguish tsunamis, caused by undersea earth movements, from floods caused by a combination of high tide and strong wind. In any case, catastrophic tidal waves probably occur only once or twice a century, and affect only localised places. Although a number of terms for ‘tidal wave’ have been collected, and are listed below, cognates exist only within low level subgroups.
 
 ```
-Adm: Mussau            manu gagaga ‘tidal wave’ (manu ‘water’)
-Adm: Lou               ultum             ‘tidal wave’
-MM: Nakanai            karoro            ‘tidal wave’
-MM: Tolai              roro              ‘tidal wave’
-MM: Ramoaaina          tai-gugu          ‘tidal wave’ (tai ‘sea’)
-SES: Gela               gogo            ‘tidal wave’
-SES: Gela               lua-lua         ‘flood, tidal wave’ (lua ‘full tide’)
-SES: Bugotu             gogovi          ‘tidal wave’
-SES: Arosi              rua-rua         ‘flood of water’
-SES: Arosi              asi-ora         ‘tidal wave’ (ora ‘possessed by foul ghost’)
-NCV: Tamambo           | tasi wala-walau | ‘tidal wave’ (walau ‘to run’)
-Fij: Bauan             | ua tale-tale |   ‘tidal wave’ (ua ‘tide, wave’, tale-tale ‘repeated backwash of waves’)
-Fij:     Bauan         | ua loka |        ‘tidal wave (ua ‘tide, wave’, loka ‘very heavy breakers or high tides that flow inland’)
-Pn:      Tongan        | peau kula |      ‘tidal wave’ (lit. ‘wave red’)
-Pn:      Niuean        | peau afi |       ‘tidal wave’ (lit. ‘wave fire’)
-Pn:      Hawaiian      | kai hōʔeʔe |     ‘tidal wave’
+Adm: Mussau        manu gagaga ‘tidal wave’ (manu ‘water’)
+Adm: Lou           ultum              ‘tidal wave’
+MM:  Nakanai       karoro             ‘tidal wave’
+MM:  Tolai         roro               ‘tidal wave’
+MM:  Ramoaaina     tai-gugu           ‘tidal wave’ (_tai_ ‘sea’)
+SES: Gela          gogo               ‘tidal wave’
+SES: Gela          lua-lua            ‘flood, tidal wave’ (_lua_ ‘full tide’)
+SES: Bugotu        gogovi             ‘tidal wave’
+SES: Arosi         rua-rua            ‘flood of water’
+SES: Arosi         asi-ora            ‘tidal wave’ (_ora_ ‘possessed by foul ghost’)
+NCV: Tamambo       |tasi wala-walau|  ‘tidal wave’ (_walau_ ‘to run’)
+Fij: Bauan         |ua tale-tale|     ‘tidal wave’ (_ua_ ‘tide, wave’, _tale-tale_ ‘repeated backwash of waves’)
+Fij: Bauan         |ua loka|          ‘tidal wave (_ua_ ‘tide, wave’, _loka_ ‘very heavy breakers or high tides that flow inland’)
+Pn:  Tongan        |peau kula|        ‘tidal wave’ (lit. ‘wave red’)
+Pn:  Niuean        |peau afi|         ‘tidal wave’ (lit. ‘wave fire’)
+Pn:  Hawaiian      |kai hōʔeʔe|       ‘tidal wave’
 ```
 
 
@@ -7919,7 +7919,7 @@ A PMP term for ‘flood’ (V and N) is continued in two known Oceanic witnesses
 </td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>(lua) hā </i></td>
+<td>SES</td><td>Sa'a</td><td><i>(lua) hā</i></td>
 <td>
 '<span>high spring tide</span>'</td>
 </tr>
@@ -7932,7 +7932,7 @@ A PMP term for ‘flood’ (V and N) is continued in two known Oceanic witnesses
 
 
 
-As a compound with the term for fresh water, POc waiR pa(a)q ‘river floodwaters’, is traceable back to PMP, although the Tongan form is our only Oceanic reflex.
+As a compound with the term for fresh water, POc _&ast;waiR pa(a)q_ ‘river floodwaters’, is traceable back to PMP, although the Tongan form is our only Oceanic reflex.
 
 <table>
 <tr>
@@ -7961,7 +7961,7 @@ As a compound with the term for fresh water, POc waiR pa(a)q ‘river floodwater
 
 
 
-Flooding for coastal dwellers on small Oceanic islands is likely to be the result of an unusually high tide (POc &ast;[u]Ruap ‘high tide; to flow in of tide’, see Ch.4, [§2.6](#s-2-6)), rather than heavy rain. King tides or spring tides are phenomena which occur at regular intervals, so are unlikely to be of more than nuisance value except when exacerbated by high winds. Terms for tidal flooding may be compounds including reflexes of &ast;[u]Ruap, or a related form (&ast;[ma-]uRua(p) ‘flood, be flooded’) (Sa’a lua hā ‘high spring tide’, Mota rue lava ‘large tide’, Bauan Fijian ua luvu ‘submerging tide’). Other POc terms include reflexes of &ast;lolo (V) ‘flood’, and &ast;lomak (N,V) ‘flood, of sea’.
+Flooding for coastal dwellers on small Oceanic islands is likely to be the result of an unusually high tide (POc _&ast;[u]Ruap_ ‘high tide; to flow in of tide’, see Ch.4, [§2.6](#s-2-6)), rather than heavy rain. King tides or spring tides are phenomena which occur at regular intervals, so are unlikely to be of more than nuisance value except when exacerbated by high winds. Terms for tidal flooding may be compounds including reflexes of _&ast;[u]Ruap_, or a related form (_&ast;[ma-]uRua(p)_ ‘flood, be flooded’) (Sa’a _lua hā_ ‘high spring tide’, Mota _rue lava_ ‘large tide’, Bauan Fijian _ua luvu_ ‘submerging tide’). Other POc terms include reflexes of _&ast;lolo_ (V) ‘flood’, and _&ast;lomak_ (N,V) ‘flood, of sea’.
 
 <table>
 <tr>
@@ -8148,19 +8148,19 @@ The reconstruction below appears to have referred to flooding or gushing.
 ## 9.6. Storm, hurricane
 
 
-Terms for destructive winds and storms are treated in Chapter 5. They include POc &ast;paRiu ‘cyclone’ (from PAn &ast;baRiuS ‘typhoon’), POc &ast;mal(i,e)u ‘wind’ which gives rise to PMic &ast;malu-malu ‘storm, typhoon’ and POc &ast;apaRat ‘wet season when northwesterlies blow and sea is rough’ from which come PCP &ast;avā ‘storm’, PPn &ast;afā ‘storm, hurricane’.
+Terms for destructive winds and storms are treated in Chapter 5. They include POc _&ast;paRiu_ ‘cyclone’ (from PAn _&ast;baRiuS_ ‘typhoon’), POc _&ast;mal(i,e)u_ ‘wind’ which gives rise to PMic _&ast;malu-malu_ ‘storm, typhoon’ and POc _&ast;apaRat_ ‘wet season when northwesterlies blow and sea is rough’ from which come PCP _&ast;avā_ ‘storm’, PPn _&ast;afā_ ‘storm, hurricane’.
 
 
 <a id="s-9-7"></a>
 ## 9.7. Whirlpools, waterspouts, whirlwinds
 
 
-Whirlpools and waterspouts and some other phenomena such as rainbows and echoes, are regarded in many Austronesian-speaking communities as supernatural occurrences, and are sometimes treated as a natural category, ‘taboo thing’ or similar. Accordingly we sometimes find ‘rainbow’ and ‘whirlwind’ within the same cognate set, or even, as in Mortlockese (Mic) awúniyar ‘whirlwind, tornado, rainbow’, referred to by the same word.
+Whirlpools and waterspouts and some other phenomena such as rainbows and echoes, are regarded in many Austronesian-speaking communities as supernatural occurrences, and are sometimes treated as a natural category, ‘taboo thing’ or similar. Accordingly we sometimes find ‘rainbow’ and ‘whirlwind’ within the same cognate set, or even, as in Mortlockese (Mic) _awúniyar_ ‘whirlwind, tornado, rainbow’, referred to by the same word.
 
 
 <a id="p-88"></a>
 
-The meanings of the prefix &ast;qā-, and the alternative form &ast;pua- (blowing?) in the following set are uncertain.
+The meanings of the prefix _&ast;qā-_, and the alternative form _&ast;pua-_ (blowing?) in the following set are uncertain.
 
 <table>
 <tr>
@@ -8233,7 +8233,7 @@ The meanings of the prefix &ast;qā-, and the alternative form &ast;pua- (blowin
 
 
 
-The next item may be associated in some way with POc &ast;piro ‘twist together’ (vol. 1, p.287).
+The next item may be associated in some way with POc _&ast;piro_ ‘twist together’ (vol. 1, p.287).
 
 <table>
 <tr>
@@ -8323,12 +8323,12 @@ But there are salient parts of Oceanic land environments for which we cannot rec
 
 [^1]: Thanks are due to Ann Chowning, Ralph Lawton, John Lynch, Françoise Ozanne-Rivierre and Ian Scales who have all made useful suggestions and contributed additional data to this chapter.
 
-[^2]: The form POc &ast;tano(q) given in vol. 1, p.119 has now been revised to &ast;tanoq. Evidence supporting final &ast;-q lies in the retention of a final vowel in Kwamera (John Lynch, pers. comm.) and Iaai (Françoise Ozanne-Rivierre, pers. comm.) .
+[^2]: The form POc _&ast;tano(q)_ given in vol. 1, p.119 has now been revised to _&ast;tanoq_. Evidence supporting final _&ast;-q_ lies in the retention of a final vowel in Kwamera (John Lynch, pers. comm.) and Iaai (Françoise Ozanne-Rivierre, pers. comm.) .
 
-[^3]: In vol. 1, p.189 the form POc &ast;ijuŋ ‘projecting headboard of prow’ is erroneously given for &ast;(i,u)cuŋ. This is almost certainly the same etymon as that reconstructed here.
+[^3]: In vol. 1, p.189 the form POc _&ast;ijuŋ_ ‘projecting headboard of prow’ is erroneously given for &ast;(i,u)cuŋ. This is almost certainly the same etymon as that reconstructed here.
 
 [^4]: It is tempting to decide that this is the same term as POc &ast;koro (i) any fenced-in area’, (ii) settlement fortified by a palisade or ditch’ (Pawley 2005), on the basis that fortifications were typically situated on high ground. But there is strong evidence that there were two distinct terms at least as far back as POc.
 
-[^5]: Languages where kinds of swamp are lexically distinguished include Kiriwina dumia ‘inland swamp’, pasa, vamova ‘mangrove swamp’ and Kwaio kunu, kū-kunu ‘saltwater mud’, kunu-kunu ‘freshwater mud, swamp’. Also Ulawa lo-lolo ‘swamp in which sago palms grow’ and closely related language Sa’a which has lo-loŋo ‘mangrove swamp’.
+[^5]: Languages where kinds of swamp are lexically distinguished include Kiriwina _dumia_ ‘inland swamp’, _pasa_, _vamova_ ‘mangrove swamp’ and Kwaio _kunu_, _kū-kunu_ ‘saltwater mud’, _kunu-kunu_ ‘freshwater mud, swamp’. Also Ulawa _lo-lolo_ ‘swamp in which sago palms grow’ and closely related language Sa’a which has _lo-loŋo_ ‘mangrove swamp’.
 
-[^6]: In vol. 1, p.139 the form PCP &ast;pusi is erroneously given for &ast;vusi (POc &ast;p split into PCP &ast;p and &ast;v).
+[^6]: In vol. 1, p.139 the form PCP _&ast;pusi_ is erroneously given for _&ast;vusi_ (POc _&ast;p_ split into PCP _&ast;p_ and _&ast;v_).

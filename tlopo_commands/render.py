@@ -91,7 +91,7 @@ order by g.cldf_formReference
 
     out.joinpath('references.md').write_text(render(
         '# References\n\n[](Source?with_anchor&with_link#cldf:__all__)', cldf), encoding='utf-8')
-    for vol in "123":
+    for vol in "1234":
         vout = out / 'vol{}'.format(vol)
         if not vout.exists():
             vout.mkdir()

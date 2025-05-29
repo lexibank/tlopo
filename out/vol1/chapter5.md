@@ -1693,7 +1693,7 @@ Ross Clark (pers.comm.) has pointed out that PPn _&ast;loto-qa_ is reconstructab
 ## 7. Food plants[^5]
 
 
-The two staples, taro and yams, would have primarily determined the nature of gardening activities, although the degree to which each is cultivated and the varieties favoured may vary from place to place. The two follow a different growth cycle. [Malinowski](../references.md#source-Malinowski1935) ([1935](../references.md#source-Malinowski1935) :296) describes the situation in the Trobriands:
+The two staples, taro and yams, would have primarily determined the nature of gardening activities, although the degree to which each is cultivated and the varieties favoured may vary from place to place. The two follow a different growth cycle. [Malinowski](../references.md#source-Malinowski1935) ([1935](../references.md#source-Malinowski1935): 296) describes the situation in the Trobriands:
 
 > Taro differs considerably from both yams and taytu [small yams] in the time it takes to mature, the conditions in which it thrives and in its capacity for being stored. Its period of growth is much shorter… There can… be three taro crops in a year, as against one for both yams and taytu.
 
@@ -2611,7 +2611,7 @@ cf. also:
 ## 8.3. Yam mound
 
 
-[Barrau](../references.md#source-Barrau1955) ([1955](../references.md#source-Barrau1955) :56) describes cultivation of yams in Melanesia:
+[Barrau](../references.md#source-Barrau1955) ([1955](../references.md#source-Barrau1955): 56) describes cultivation of yams in Melanesia:
 
 > As a general rule, yams flourish on light, deep and well-drained soils. These requirements have led the natives to perfect cultural techniques which are often most ingenious. The simplest consists of carefully earthing up the plant. Sometimes a large ridge of well-worked soil is made… surrounded by draining ditches.
 
@@ -2920,7 +2920,7 @@ Only a single Oceanic reflex has been located for this reconstruction, from the 
 ## 9.3. Ripen
 
 
-[Chapter 6, §3.9](chapter6.md#s-3-9) contains two reconstructions, POc _&ast;ma-osak_ 'ready to be eaten (because ripe or cooked)" and POc _&ast;[ma-]noka_ 'be in good condition for eating; nicely ripe, well-cooked, soft'.
+[Chapter 6, §3.9](chapter6.md#s-3-9)contains two reconstructions, POc _&ast;ma-osak_ 'ready to be eaten (because ripe or cooked)" and POc _&ast;[ma-]noka_ 'be in good condition for eating; nicely ripe, well-cooked, soft'.
 
 
 <a id="s-9-4"></a>
@@ -3131,7 +3131,7 @@ For the implement, Polynesian languages use terms derived from PPn _&ast;lohu_ '
 
 The set above bears a formal and semantic resemblance to PMP/POc _&ast;kawil_ 'hook, fish hook' ([Ch.8, §4](chapter8.md#s-4)), but it is unclear what historical connection (if any) exists between them.
 
-The following sets, all relating to plucking by hand, have formal similarities, and it is sometimes hard to know which cognate set a given reflex belongs to. For discussion of the first three items below, see [Ch.9, §6.1](chapter9.md#s-6-1) .
+The following sets, all relating to plucking by hand, have formal similarities, and it is sometimes hard to know which cognate set a given reflex belongs to. For discussion of the first three items below, see [Ch.9, §6.1](chapter9.md#s-6-1).
 
 <table>
 <tr>
@@ -3506,7 +3506,7 @@ cf. also:
 ## 11. Storage: yam storehouse
 
 
-The yam is the only tropical tuber which is easily preserved, provided it is placed in an airy, dry, dark and cool spot. It was a community's safeguard at times when the regular supply of foodstuffs was low. From New Guinea to New Caledonia, in areas where yam is the staple food, special huts are found in which they are preserved ([Barrau 1955](../references.md#source-Barrau1955):58). [Malinowski](../references.md#source-Malinowski1935) ([1935](../references.md#source-Malinowski1935) :218) reports that in the Trobriands such structures (_bwema_) were given a more prominent position in the village than the family dwellings, and were more meticulously decorated and maintained. POc _&ast;pale_ 'open-sided building', has been reconstructed ([Ch.3, §3.3](chapter3.md#s-3-3)), reflexes of which in some instances refer to yam storehouses (NNG: Lukep (Pono) _para_ 'yam house'; SES: Arosi (E. dialect) _hare_ 'shed for yams'). No term has been reconstructed that refers specifically to a hut for storing yams. In Mapos Buang (South Huon Gulf), yam houses are called _jok_. In Nengone, Loyalty Islands, _methuma_ is the term for a harvest hut for yams.
+The yam is the only tropical tuber which is easily preserved, provided it is placed in an airy, dry, dark and cool spot. It was a community's safeguard at times when the regular supply of foodstuffs was low. From New Guinea to New Caledonia, in areas where yam is the staple food, special huts are found in which they are preserved ([Barrau 1955](../references.md#source-Barrau1955):58). [Malinowski](../references.md#source-Malinowski1935) ([1935](../references.md#source-Malinowski1935): 218) reports that in the Trobriands such structures (_bwema_) were given a more prominent position in the village than the family dwellings, and were more meticulously decorated and maintained. POc _&ast;pale_ 'open-sided building', has been reconstructed ([Ch.3, §3.3](chapter3.md#s-3-3)), reflexes of which in some instances refer to yam storehouses (NNG: Lukep (Pono) _para_ 'yam house'; SES: Arosi (E. dialect) _hare_ 'shed for yams'). No term has been reconstructed that refers specifically to a hut for storing yams. In Mapos Buang (South Huon Gulf), yam houses are called _jok_. In Nengone, Loyalty Islands, _methuma_ is the term for a harvest hut for yams.
 
 
 <a id="s-12"></a>
@@ -3561,7 +3561,7 @@ Working from our own linguistic sources, which include possibly more data from W
 
 
 
-In vol. 1, p.139 the form PCP _&ast;pusi_ was erroneously given for _&ast;vusi_ (POc _&ast;p_ split into PCP _&ast;p_ and _&ast;v_).
+FIXME: In vol. 1, p.139 the form PCP _&ast;pusi_ was erroneously given for _&ast;vusi_ (POc _&ast;p_ split into PCP _&ast;p_ and _&ast;v_).
 
 A second reconstruction is open to conjecture. Both Spriggs and Kirch and Lepofsky drew attention to the Hawaiian and Rapa (Austral Islands) terms for a pondfield, _loʔi_ and _roki_. We have a tentative reconstruction POc _&ast;logi_ meaning something like 'partition, partitioned area' with a reflex from Hote in the Huon Gulf (NNG), _lok_ '(garden) fence; wall of house' ([Ch.3, §3](chapter3.md#s-3) .S).
 
@@ -3643,7 +3643,7 @@ The Polynesian reflexes, apart from the Rapa and Hawaiian terms, have the sense 
 
 <a id="p-140"></a>
 
-In spite of remarkable similarities of technique commented on by Matthew Spriggs (pers.comm.) in islands throughout eastern Oceania, including New Georgia, Guadalcanal, Maewo, Santo, New Caledonia, Fiji and a number of Polynesian islands, and possibly also New Hanover in the Bismarck Archipelago, archaeological findings to date would seem to support the theory that more complex irrigation systems are not as old as Oceanic settlement. Although many of these systems have fallen into disuse since European contact (largely as the result of dramatic decline in population that came about with exposure to European diseases), our best evidence for their existence is in the physical traces left by their water channels, sometimes stone-lined, and their banks and terraces. More recently, archaeologists have, under certain conditions, been able to identify soil strata that have at some time in the past been subjected to pondfield irrigation ([Spriggs 1997b](../references.md#source-Spriggs1997b): 84-85). Spriggs reports on one such site in Hawaii now dated to 1500 BP, the earliest date yet for evidence of pondfield irrigation (p.89). In New Caledonia, a buried taro pondfield terrace at Col de Piroque has been dated back to 1150-1100 BP (p. 184). Other evidence points to more recent dating. On Aneityum, Spriggs estimates that the large-scale canal-fed irrigation systems of the valley flats have been constructed within the period since about 500-600 BP ([Spriggs 1986](../references.md#source-Spriggs1986): 11). Oldest evidence for the Solomons remains the eye-witness report of the explorer Mendafia in 1568 ([Amherst & Thomson 1901](../references.md#source-AmherstThomson1901) :306).
+In spite of remarkable similarities of technique commented on by Matthew Spriggs (pers.comm.) in islands throughout eastern Oceania, including New Georgia, Guadalcanal, Maewo, Santo, New Caledonia, Fiji and a number of Polynesian islands, and possibly also New Hanover in the Bismarck Archipelago, archaeological findings to date would seem to support the theory that more complex irrigation systems are not as old as Oceanic settlement. Although many of these systems have fallen into disuse since European contact (largely as the result of dramatic decline in population that came about with exposure to European diseases), our best evidence for their existence is in the physical traces left by their water channels, sometimes stone-lined, and their banks and terraces. More recently, archaeologists have, under certain conditions, been able to identify soil strata that have at some time in the past been subjected to pondfield irrigation ([Spriggs 1997b](../references.md#source-Spriggs1997b): 84-85). Spriggs reports on one such site in Hawaii now dated to 1500 BP, the earliest date yet for evidence of pondfield irrigation (p.89). In New Caledonia, a buried taro pondfield terrace at Col de Piroque has been dated back to 1150-1100 BP (p. 184). Other evidence points to more recent dating. On Aneityum, Spriggs estimates that the large-scale canal-fed irrigation systems of the valley flats have been constructed within the period since about 500-600 BP ([Spriggs 1986](../references.md#source-Spriggs1986): 11). Oldest evidence for the Solomons remains the eye-witness report of the explorer Mendafia in 1568 ([Amherst & Thomson 1901](../references.md#source-AmherstThomson1901): 306).
 
 
 <a id="s-13"></a>
@@ -3652,7 +3652,7 @@ In spite of remarkable similarities of technique commented on by Matthew Spriggs
 
 Other concepts for which we currently lack reconstructions include a term for the stakes or supports on which the yam vines were trained. [French-Wright](../references.md#source-FrenchWright1983) ([1983](../references.md#source-FrenchWright1983): 64-65) lists a variety of ways in which vines can be supported. In addition to stakes, they include, in the Admiralties and the Trobriands, saplings left standing after the garden has been cleared; in the centre of Guadalcanal in the Solomons the vines trail over felled trees; in the Loyalty Islands an arrangement rather like an upturned basket is used, and on Efate, Vanuatu, a trellis-like structure is built over the yam mounds. French-Wright suggests that perhaps the lack of cognates denoting this basic feature of yam cultivation is due to the wide variety of support systems used, in other words, that each cultural adaptation has led to changes in terminology.
 
-Gardens in the Trobriands ([Malinowski 1935](../references.md#source-Malinowski1935) :55, 121) and in Malaita, Southeast Solomons ([Ivens 1927](../references.md#source-Ivens1927) (reissued 1972):356), and elsewhere, are divided into sub-plots by means of criss-crossing logs laid on the ground, but we have been unable to reconstruct terms for either the plots or the dividing logs, although these are named in their own communities.
+Gardens in the Trobriands ([Malinowski 1935](../references.md#source-Malinowski1935): 55, 121) and in Malaita, Southeast Solomons ([Ivens 1927](../references.md#source-Ivens1927) (reissued 1972):356), and elsewhere, are divided into sub-plots by means of criss-crossing logs laid on the ground, but we have been unable to reconstruct terms for either the plots or the dividing logs, although these are named in their own communities.
 
 
 <a id="p-141"></a>
@@ -3701,7 +3701,7 @@ Finally, we have no evidence from reconstructions that Proto Oceanic speakers ir
 
 [^3]:   There is a sporadic tendency in Oceanic languages for _&ast;a_ > _e/i,e_ - e.g. POc _&ast;kati_ 'husk with the teeth' > PEOc _&ast;keti_ ([Ch.9, §3.7](chapter9.md#s-3-7)), PPn _&ast;wahe_ 'divide' > _wehe_ in EPn languages.
 
-[^4]: Reconstruction of PMP _&ast;-R-_ here is based on Manobo (S. Philippines) data: Tigwa Manobo, Binukid, Kinamigin, Sarangani Manobo, Western Bukidnon Manobo, llianen Manobo _ʔalad_; Obo, Dibabawon _ʔaad_; Tagabawa _alad_ ([Elkins 1974](../references.md#source-Elkins1974):607).
+[^4]: Reconstruction of PMP _&ast;-R-_ here is based on Manobo (S. Philippines) data: Tigwa Manobo, Binukid, Kinamigin, Sarangani Manobo, Western Bukidnon Manobo, Ilianen Manobo _ʔalad_; Obo, Dibabawon _ʔaad_; Tagabawa _alad_ ([Elkins 1974](../references.md#source-Elkins1974):607).
 
 [^5]:   The reconstructions listed in this section are from [Ross](../references.md#source-Ross1996d) ([1996d](../references.md#source-Ross1996d)). See also Food Plants, vol. 3.
 

@@ -283,16 +283,16 @@ _&ast;reke_ perhaps also referred to a seine net, but its Eastern Oceanic reflex
 
 
 
-The fourth term, _&ast;ku(p,pʷ)ena_, is the most widespread term of the four, and arguably the best bet for a POc generic term for fishing nets. Our files list more than forty cognates from all major subgroups. In Tuvalu ([Koch n.d.](../references.md#source-Kochnd): 30) the _kupeŋa_ is "a primitive kind of net … large and heavy and knotted from rolled coconut fibre twine … affixed to two poles tied together at one end forming a n acute angle; large cowrie shells are fixed under the edge of the third side". Two men hold the poles, and the net is tilted so the fish can swim into it. In parts of Polynesia, the term is used as a generic. On Niuatoputapu (Tonga), _kupeŋa_ is the term used for all netting techniques, as opposed to _tau_ (angling) or _uku_ (diving) ([Dye 1983](../references.md#source-Dye1983) :252-254). Dye lists _kupeŋa fakamamaha_ 'netting with the ebbing tide ' ; _kupeŋa ʔava_ 'netting for _ʔava_ (milkfish)'; _kupeŋa hokohoka_, in which a handled net is used in rough surf; _kupeŋa sili pulou_, where the common throw net, about three metres across, is used to catch bait fish; and so on. In Rennell, the term evidently subsumes all kinds of nets. Although [Elbert](../references.md#source-Elbert1975) ([1975](../references.md#source-Elbert1975)) defines _kupeŋa_ as 'fine-meshed fishing net', he includes _kupeŋa tape peka_ 'flying fox snaring net', as well as six kinds of fishing nets labelled with compound terms beginning with _kupeŋa_. The same general term _kupeŋa_ 'net, traditionally of hibiscus fibre' is found in Tikopia, with particular types named as compounds (_kupeŋa tā save_ 'pole net for flying fish', _kupeŋa fukifuki_ 'pole net for reef work') and _mata kupeŋa_ referring to net mesh.
+The fourth term, _&ast;ku(p,pʷ)ena_, is the most widespread term of the four, and arguably the best bet for a POc generic term for fishing nets. Our files list more than forty cognates from all major subgroups. In Tuvalu ([Koch n.d.](../references.md#source-Kochnd): 30) the _kupeŋa_ is "a primitive kind of net … large and heavy and knotted from rolled coconut fibre twine … affixed to two poles tied together at one end forming a n acute angle; large cowrie shells are fixed under the edge of the third side". Two men hold the poles, and the net is tilted so the fish can swim into it. In parts of Polynesia, the term is used as a generic. On Niuatoputapu (Tonga), _kupeŋa_ is the term used for all netting techniques, as opposed to _tau_ (angling) or _uku_ (diving) ([Dye 1983](../references.md#source-Dye1983): 252-254). Dye lists _kupeŋa fakamamaha_ 'netting with the ebbing tide ' ; _kupeŋa ʔava_ 'netting for _ʔava_ (milkfish)'; _kupeŋa hokohoka_, in which a handled net is used in rough surf; _kupeŋa sili pulou_, where the common throw net, about three metres across, is used to catch bait fish; and so on. In Rennell, the term evidently subsumes all kinds of nets. Although [Elbert](../references.md#source-Elbert1975) ([1975](../references.md#source-Elbert1975)) defines _kupeŋa_ as 'fine-meshed fishing net', he includes _kupeŋa tape peka_ 'flying fox snaring net', as well as six kinds of fishing nets labelled with compound terms beginning with _kupeŋa_. The same general term _kupeŋa_ 'net, traditionally of hibiscus fibre' is found in Tikopia, with particular types named as compounds (_kupeŋa tā save_ 'pole net for flying fish', _kupeŋa fukifuki_ 'pole net for reef work') and _mata kupeŋa_ referring to net mesh.
 
-Figure 27a: POc &ast;ku(p,pʷ)ena 'fishing net' - generic term. (from [Nevermann 1933](../references.md#source-Nevermann1933):89)
+Figure 27a: POc _&ast;ku(p,pʷ)ena_ 'fishing net' - generic term. (from [Nevermann 1933](../references.md#source-Nevermann1933):89)
 
 
 <a id="p-214"></a>
 
-Figure 27b: Possibly POc &ast;pukot 'a seine net ', with wooden floats (POc &ast;utoŋ) and stone sinkers (POc &ast;patu) (from [Nevermann 1933](../references.md#source-Nevermann1933):89)
+Figure 27b: Possibly POc _&ast;pukot_ 'a seine net', with wooden floats (POc _&ast;utoŋ_) and stone sinkers (POc _&ast;patu_) (from [Nevermann 1933](../references.md#source-Nevermann1933):89)
 
-Figure 27c: Another kind of &ast;ku(p,pʷ)ena . We lack a specific reconstruction for a handnet. (from [Nevermann 1933](../references.md#source-Nevermann1933):89)
+Figure 27c: Another kind of _&ast;ku(p,pʷ)ena_. We lack a specific reconstruction for a handnet. (from [Nevermann 1933](../references.md#source-Nevermann1933):89)
 
 The techniques that involve large nets usually require use of floats and sinkers. We have a reconstruction for net float:
 
@@ -364,12 +364,12 @@ The techniques that involve large nets usually require use of floats and sinkers
 
 
 
-There is also a competing form that co-exists with &ast;utoŋ in the Central Pacific, PCP &ast;vuta (Rotuman huJa 'float on a fishing net', Tikopia _futa_ 'net float').
+There is also a competing form that co-exists with _&ast;utoŋ_ in the Central Pacific, PCP _&ast;vuta_ (Rotuman _hufa_ 'float on a fishing net', Tikopia _futa_ 'net float').
 
 
 <a id="p-215"></a>
 
-The only terms I can locate for sinker are reflexes of POc &ast;patu 'stone', or the name of the cowrie shell which is sometimes used as a sinker:
+The only terms I can locate for sinker are reflexes of POc _&ast;patu_ 'stone', or the name of the cowrie shell which is sometimes used as a sinker:
 
 <table>
 <tr>
@@ -498,7 +498,7 @@ Figure 28: POc &ast;sika 'netting needle'
 
 
 
-POc &ast;mata- and its reflexes in many contemporary languages extend to a range of concepts that carry the idea of an opening, a doorway, something allowing access, and thus the mesh of a net. Evidence is that it is used in connection with nets in both Western Oceanic, as 'net gauge', and Eastern Oceanic, as 'mesh of net'. Presumably the POc term embraced the idea of 'mesh of net' in both places, but in WOc languages reflexes now refer to the instrument used to maintain uniform mesh when net-making.
+POc _&ast;mata-_ and its reflexes in many contemporary languages extend to a range of concepts that carry the idea of an opening, a doorway, something allowing access, and thus the mesh of a net. Evidence is that it is used in connection with nets in both Western Oceanic, as 'net gauge', and Eastern Oceanic, as 'mesh of net'. Presumably the POc term embraced the idea of 'mesh of net' in both places, but in WOc languages reflexes now refer to the instrument used to maintain uniform mesh when net-making.
 
 Another term for net gauge is found in Eastern Oceania:
 
@@ -538,7 +538,7 @@ Another term for net gauge is found in Eastern Oceania:
 ## 3. Scareline
 
 
-Some communities use a scareline for fishing, in which leaves are tied to a long rope which is drawn through the water. A term for this has been reconstructed to PCP level, although it is possible that cognates are derived from POc &ast;raun 'leaf':
+Some communities use a scareline for fishing, in which leaves are tied to a long rope which is drawn through the water. A term for this has been reconstructed to PCP level, although it is possible that cognates are derived from POc _&ast;raun_ 'leaf':
 
 <table>
 <tr>
@@ -568,7 +568,7 @@ Some communities use a scareline for fishing, in which leaves are tied to a long
 
 
 
-However, in Andra (Admiralties) a leaf sweep is called you, pointing to POc _&ast;Rau(C)_ rather than _&ast;raun_.
+However, in Andra (Admiralties) a leaf sweep is called _you_, pointing to POc _&ast;Rau(C)_ rather than _&ast;raun_.
 
 
 <a id="s-4"></a>
@@ -712,7 +712,7 @@ Nonetheless, the linguistic evidence leaves us in no doubt that POc speakers wer
 
 
 
-POc _&ast;kawil_ is widely attested. I have over fifty reflexes containing specific reference to fishhooks, occurring in all major subgroups. In Tuvalu it is used as a generic, followed by the name of the fish for which it is appropriate-kau galata, kau palu, etc. It has an obvious formal and semantic relationship with &ast;kawi(t), _&ast;kawit-i-_ (V) 'hook, catch hold of; fruit crook' (Ch. 5, § l O), but the origin of this relationship is not understood.
+POc _&ast;kawil_ is widely attested. I have over fifty reflexes containing specific reference to fishhooks, occurring in all major subgroups. In Tuvalu it is used as a generic, followed by the name of the fish for which it is appropriate - _kau galata_, _kau palu_, etc. It has an obvious formal and semantic relationship with _&ast;kawi(t)_, _&ast;kawit-i-_ (V) 'hook, catch hold of; fruit crook' (Ch. 5, § l O), but the origin of this relationship is not understood.
 
 
 <a id="p-217"></a>
@@ -757,7 +757,7 @@ Figure 29: POc _&ast;kawil_ 'fish hook ', POc _&ast;ta(g,k)o_ '(barbless?) fish 
 
 
 
-The extension of a meaning from a material to something made from that material is very common across languages (viz. English _glass_/_a glass_, _cork_/_a cork_). Examples occur in Oceanic languages as well (Bauan _gasau_ 'a reed ; an arrow ', Tolai _vat_ 'a stone, a sinker'). POc speakers evidently made fishhooks from a variety of shells, and in some daughter languages the term for a particular shell has become the term for a fishhook (made from that shell?). For instance, POc _&ast;kima_ 'clamshell' is reflected in some Central Papuan languages as _kimai_ 'fishhook' ([Ross 1994](../references.md#source-Ross1994a)a :404). A similar example is:
+The extension of a meaning from a material to something made from that material is very common across languages (viz. English _glass_/_a glass_, _cork_/_a cork_). Examples occur in Oceanic languages as well (Bauan _gasau_ 'a reed ; an arrow ', Tolai _vat_ 'a stone, a sinker'). POc speakers evidently made fishhooks from a variety of shells, and in some daughter languages the term for a particular shell has become the term for a fishhook (made from that shell?). For instance, POc _&ast;kima_ 'clamshell' is reflected in some Central Papuan languages as _kimai_ 'fishhook' ([Ross 1994](../references.md#source-Ross1994a)a: 404). A similar example is:
 
 <table>
 <tr>
@@ -1071,9 +1071,16 @@ A form PMP/POc _&ast;baŋi_ 'bait', is reconstructable on the basis of Javanese 
 
 <a id="p-220"></a>
 
-Figure 31: POc &ast;pupu 'basketry fish trap' (from [Nevermann 1934](../references.md#source-Nevermann1934):226)
+Figure 31: POc _&ast;pupu_ 'basketry fish trap' (from [Nevermann 1934](../references.md#source-Nevermann1934):226)
 
-The term is widely attested. It is noteworthy that we have no Polynesian cognates. Instead we find PPn &ast;finaki (<table>
+The term is widely attested. It is noteworthy that we have no Polynesian cognates. Instead we find PPn _&ast;fīnaki_ (Tongan _finaki_, Rarotongan _ʔinaki_ 'fish trap'; Hawaiian _hīnaʔi_ 'k.o. basket fish trap').
+
+
+<a id="s-6"></a>
+## 6. Fish weir
+
+
+<table>
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1106,11 +1113,11 @@ The term is widely attested. It is noteworthy that we have no Polynesian cognate
 
 
 
-The POc term &ast;baRa 'fence, wall, enclosure' ([Ch.3, §3.6](chapter3.md#s-3-6)) has evidently acquired an additional specialised meaning in the Central Pacific, where it refers to a fish trap made of stone or sometimes of sticks. ([he Lou (Admiralties) term pas 'stone fish corral' has unexplained -s, and at this stage cannot be accepted as a cognate.) In Oceania, walls of stone or coral are constructed across channels in the reef to catch fish on a falling tide. In the Cook Islands (Rarotonga), pii has become a generic. [Buck](../references.md#source-Buck1927) ([1927](../references.md#source-Buck1927):298) writes that:
+The POc term _&ast;baRa_ 'fence, wall, enclosure' ([Ch.3, §3.6](chapter3.md#s-3-6)) has evidently acquired an additional specialised meaning in the Central Pacific, where it refers to a fish trap made of stone or sometimes of sticks. (The Lou (Admiralties) term _pas_ 'stone fish corral' has unexplained _-s_, and at this stage cannot be accepted as a cognate.) In Oceania, walls of stone or coral are constructed across channels in the reef to catch fish on a falling tide. In the Cook Islands (Rarotonga), _pā_ has become a generic. [Buck](../references.md#source-Buck1927) ([1927](../references.md#source-Buck1927):298) writes that:
 
-> Most of the pa are very old, having been laid down far back in pre-European times. The channels were studied and the course taken by fish observed. The lines of the walls were laid down with such skil l and accuracy that any departure from them ends in failure. The wall s are made o f loose coral rock. The most important weirs are named, and are owned by particular families. No outsider can use a weir without permission from the hereditary owners.
+> Most of the _pa_ are very old, having been laid down far back in pre-European times. The channels were studied and the course taken by fish observed. The lines of the walls were laid down with such skil l and accuracy that any departure from them ends in failure. The wall s are made o f loose coral rock. The most important weirs are named, and are owned by particular families. No outsider can use a weir without permission from the hereditary owners.
 
-He describes various types of weirs, for example, pa kiokio (roughly Z-shaped), pa tute (temporary), and pa tuakirua 01-shaped with opening towards the sea).
+He describes various types of weirs, for example, _pa kiokio_ (roughly Z-shaped), _pa tute_ (temporary), and _pa tuakirua_ (V-shaped with opening towards the sea).
 
 
 <a id="s-7"></a>
@@ -1260,13 +1267,13 @@ From North New Guinea and New Ireland we have been able to reconstruct a lower-l
 
 
 
-The method of stunning fish by throwing pounded Derris root into pools is widespread, and the three terms seem to have identical reference, although Derris eliptica is not mentioned specifically in relation to &ast;puna . Describing the technique used by Sa'a speakers, a Southeast Solomons language, [Ivens](../references.md#source-Ivens1927) ([1927](../references.md#source-Ivens1927) (reissued 1972):389) writes that:
+The method of stunning fish by throwing pounded Derris root into pools is widespread, and the three terms seem to have identical reference, although Derris eliptica is not mentioned specifically in relation to _&ast;puna_. Describing the technique used by Sa'a speakers, a Southeast Solomons language, [Ivens](../references.md#source-Ivens1927) ([1927](../references.md#source-Ivens1927) (reissued 1972):389) writes that:
 
-> … fish in streams are poisoned by a preparation. The bark of the edible B arringtonia tree, the one with red flowers, is stripped off and heated in the fue to bring out its bitter qualities. It is then beaten into shreds with stones in water and thrown into the place chosen. Along with it they use the grated nuts of the barringtonia speciosa [sic.], a littoral tree. A third ingredient is made from pounded sections of a creeper called uhe, the juices of which are very bitter.
+> … fish in streams are poisoned by a preparation. The bark of the edible Barringtonia tree, the one with red flowers, is stripped off and heated in the fue to bring out its bitter qualities. It is then beaten into shreds with stones in water and thrown into the place chosen. Along with it they use the grated nuts of the barringtonia speciosa [sic.], a littoral tree. A third ingredient is made from pounded sections of a creeper called uhe, the juices of which are very bitter.
 
-The last ingredient is obviously a variant of uha, a reflex of POc &ast;tupa .
+The last ingredient is obviously a variant of _uha_, a reflex of POc _&ast;tupa_.
 
-The kernel of the fruit of Barringtonia asiatica (pOc &ast;putun) is used for poisoning water in Samoa, while the Fijians use the outer portion of the same fruit ([Blackwood 1935](../references.md#source-Blackwood1935):354-355), but I have not been able to reconstruct a term for this.
+The kernel of the fruit of Barringtonia asiatica (POc _&ast;putun_) is used for poisoning water in Samoa, while the Fijians use the outer portion of the same fruit ([Blackwood 1935](../references.md#source-Blackwood1935):354-355), but I have not been able to reconstruct a term for this.
 
 
 <a id="s-8"></a>
@@ -1325,7 +1332,7 @@ The kernel of the fruit of Barringtonia asiatica (pOc &ast;putun) is used for po
 
 
 
-Night-fishing is still a popular and widespread activity throughout the region. To attract the fish, a torch is used which consists of dried coconut fronds or spathes bound together to burn slowly over a long period. In many languages the same term refers both to the torch and to the activity. In Tonga, lama can simply be prefixed to the names of other fishing techniques to indicate that it is carried out at night (e.g. lama fakasiosio 'go spear-fishing at night'). (The ambiguity of the initial consonant &ast;(d)r- is touched on in [Chapter 2, §3.1.3](chapter2.md#s-3-1).)
+Night-fishing is still a popular and widespread activity throughout the region. To attract the fish, a torch is used which consists of dried coconut fronds or spathes bound together to burn slowly over a long period. In many languages the same term refers both to the torch and to the activity. In Tonga, _lama_ can simply be prefixed to the names of other fishing techniques to indicate that it is carried out at night (e.g. _lama fakasiosio_ 'go spear-fishing at night'). (The ambiguity of the initial consonant _&ast;(d)r-_ is touched on in [Chapter 2, §3.1.3](chapter2.md#s-3-1).)
 
 
 <a id="p-222"></a>
@@ -1335,7 +1342,7 @@ Night-fishing is still a popular and widespread activity throughout the region. 
 ## 9. Pointed weapons
 
 
-Most Oceanic languages contain a number of terms for spear, and it is probable that POc was no exception. There are various ways in which spears can be physically distinguished. There may be a distinction between fishing, fowling and fighting spears. Often, but not always, fishing spears have three or more prongs. Shorter spears can be used for thrusting, longer spears for hurling. Spears can be multi-barbed, have a single barb, or be barbless. They can be made with a head that separates from the shaft. Every language community will name its spears according to combinations of these and possibly other properties. Although we have been able to reconstruct perhaps six POc terms, it has been difficult to distinguish between them, other than to single out &ast;tara and &ast;kuj(u,i)r as probably fish spears. At the generic level-and that is itself a flexible category which can include arrows, and possibly other pointed weapons such as darts and spikes-&ast;qio(r,R) seems to have the widest distribution, although it does not occur east of Vanuatu. For the Central Pacific, &ast;sao(t) seems the most likely generic term. In POc times, some spears would have had obsidian heads, and the term used for these was evidently &ast;koto 'obsidian head of spear' ([Ch.4, §4.1.3](chapter4.md#s-4-1)).
+Most Oceanic languages contain a number of terms for spear, and it is probable that POc was no exception. There are various ways in which spears can be physically distinguished. There may be a distinction between fishing, fowling and fighting spears. Often, but not always, fishing spears have three or more prongs. Shorter spears can be used for thrusting, longer spears for hurling. Spears can be multi-barbed, have a single barb, or be barbless. They can be made with a head that separates from the shaft. Every language community will name its spears according to combinations of these and possibly other properties. Although we have been able to reconstruct perhaps six POc terms, it has been difficult to distinguish between them, other than to single out _&ast;tara_ and _&ast;kuj(u,i)r_ as probably fish spears. At the generic level-and that is itself a flexible category which can include arrows, and possibly other pointed weapons such as darts and spikes - _&ast;qio(r,R)_ seems to have the widest distribution, although it does not occur east of Vanuatu. For the Central Pacific, _&ast;sao(t)_ seems the most likely generic term. In POc times, some spears would have had obsidian heads, and the term used for these was evidently &ast;koto 'obsidian head of spear' ([Ch.4, §4.1.3](chapter4.md#s-4-1)).
 
 <table>
 <tr>
@@ -1480,9 +1487,9 @@ Most Oceanic languages contain a number of terms for spear, and it is probable t
 
 <a id="p-223"></a>
 
-Figure 32: POc &ast;qio(r,R), POc &ast;sao(t), POc &ast;bako all 'spear' or 'k.o. spear' (the above are Admiralties spears from [Nevermann 1934](../references.md#source-Nevermann1934):345)
+Figure 32: POc _&ast;qio(r,R)_, POc _&ast;sao(t)_, POc _&ast;bako_ all 'spear' or 'k.o. spear' (the above are Admiralties spears from [Nevermann 1934](../references.md#source-Nevermann1934):345)
 
-As a subset of the above, certain NNG languages have inserted a medial consonant derived from epenthetic glides: Kove ioo 'spear'; Bariai ido 'arrow'; Gitua izo 'spear'; Wogeo iwo 'spear'. This appears to be a local feature, but not attributable to a common protolanguage.
+As a subset of the above, certain NNG languages have inserted a medial consonant derived from epenthetic glides: Kove _iðo_ 'spear'; Bariai _ido_ 'arrow'; Gitua _izo_ 'spear'; Wogeo _iwo_ 'spear'. This appears to be a local feature, but not attributable to a common protolanguage.
 
 <table>
 <tr>
@@ -1521,7 +1528,7 @@ As a subset of the above, certain NNG languages have inserted a medial consonant
 
 
 
-(In all these languages, &ast;k is regularly lost.)
+(In all these languages, _&ast;k_ is regularly lost.)
 
 <table>
 <tr>
@@ -1530,7 +1537,7 @@ As a subset of the above, certain NNG languages have inserted a medial consonant
 <i>&ast;kuj(u,i)r</i>
 </td>
 <td>
-'<span>fish spear</span>' (<span>based on Ross (1994a)</span>)</td>
+'<span>fish spear</span>' (<span>based on Ross 1994a</span>)</td>
 </tr>
 <tr>
 <td>PT</td><td>Kalokalo</td><td><i>kudila</i></td>
@@ -1596,7 +1603,7 @@ There is sufficient consistency among the glosses of this set to suggest that th
 
 <a id="p-224"></a>
 
-Figure 33: POc &ast;kuj(u,i)r, POc &ast;tara 'fish spear'
+Figure 33: POc _&ast;kuj(u,i)r_, POc _&ast;tara_ 'fish spear'
 
 <table>
 <tr>
@@ -1651,7 +1658,7 @@ Figure 33: POc &ast;kuj(u,i)r, POc &ast;tara 'fish spear'
 
 
 
-It seems from Western Oceanic and Mussau glosses that the original POc meaning of &ast;tara is probably 'fish spear'. Pn glosses indicate a later narrowing of meaning to 'barb' or 'prong'.
+It seems from Western Oceanic and Mussau glosses that the original POc meaning of _&ast;tara_ is probably 'fish spear'. Pn glosses indicate a later narrowing of meaning to 'barb' or 'prong'.
 
 <table>
 <tr>
@@ -1711,7 +1718,7 @@ It seems from Western Oceanic and Mussau glosses that the original POc meaning o
 
 
 
-Other terms used to describe the action of spearing are derived from POc &ast;soka. soka -i- (V) 'pierce; stab, poke hole in (s.t.)' ([Ch.9, §4.1](chapter9.md#s-4-1)). The following is a lower-level reconstruction for spear:
+Other terms used to describe the action of spearing are derived from POc _&ast;soka_, _soka -i-_ (V) 'pierce; stab, poke hole in (s.t.)' ([Ch.9, §4.1](chapter9.md#s-4-1)). The following is a lower-level reconstruction for spear:
 
 
 <a id="p-225"></a>
@@ -1739,7 +1746,7 @@ Other terms used to describe the action of spearing are derived from POc &ast;so
 
 
 
-The bow, although evidently not as widespread as the spear, is used both for fighting and, in a smaller version, for shooting birds and other small game. It seems that &ast;pusuR was the POc term for the bow and arrow, &ast;(p,pʷ)anaq more probably for the act of shooting.
+The bow, although evidently not as widespread as the spear, is used both for fighting and, in a smaller version, for shooting birds and other small game. It seems that _&ast;pusuR_ was the POc term for the bow and arrow, _&ast;(p,pʷ)anaq_ more probably for the act of shooting.
 
 <table>
 <tr>
@@ -1878,7 +1885,7 @@ The bow, although evidently not as widespread as the spear, is used both for fig
 
 
 
-With regard to the reconstruction of &ast;(p,pʷ), see [Chapter 2, §2.1](chapter2.md#s-2-1) .
+With regard to the reconstruction of _&ast;(p,pʷ)_, see [Chapter 2, §2.1](chapter2.md#s-2-1).
 
 <table>
 <tr>
@@ -2001,7 +2008,7 @@ With regard to the reconstruction of &ast;(p,pʷ), see [Chapter 2, §2.1](chapte
 
 
 
-The glosses of the reflexes of POc &ast;tibʷa(ŋ) suggest strongly that it referred prototypically to small, arrow-like objects or darts that did not have a killing function. The initial-consonant voicing of the PT forms (other than Dobu tupu, which may not be cognate) is unexplained.
+The glosses of the reflexes of POc _&ast;tibʷa(ŋ)_ suggest strongly that it referred prototypically to small, arrow-like objects or darts that did not have a killing function. The initial-consonant voicing of the PT forms (other than Dobu tupu, which may not be cognate) is unexplained.
 
 
 <a id="p-226"></a>
@@ -2065,7 +2072,7 @@ The Fijian and the Tahitian cognates have strayed semantically, yet still retain
 ## 10. Club
 
 
-Across the Pacific, the kind of weapon that is labelled 'club' varies from the great knobbed, obsidian-studded roots that can be seen in the Bishop Museum in Honolulu, to the flat round stone clubs of the Motu (gahi), to the smaller, lighter throwing clubs of Fiji (i ula: [Clunie 1977](../references.md#source-Clunie1977)), and to the Kiribatese kati-popuki -about four feet long, pointed at both ends, used for warding off a spear, making a thrust, or wielding as a club (Hudson I 841, quoted in [Koch 1986](../references.md#source-Koch1986):249), which might equally be classified as a shield or lance. I consider these to be more or less marginal examples of what is basically a blunt, heavy instrument, wielded in the hand for bludgeoning.
+Across the Pacific, the kind of weapon that is labelled 'club' varies from the great knobbed, obsidian-studded roots that can be seen in the Bishop Museum in Honolulu, to the flat round stone clubs of the Motu (_gahi_), to the smaller, lighter throwing clubs of Fiji (_i ula_: [Clunie 1977](../references.md#source-Clunie1977)), and to the Kiribatese _kati-popuki_ - about four feet long, pointed at both ends, used for warding off a spear, making a thrust, or wielding as a club (Hudson 1841, quoted in [Koch 1986](../references.md#source-Koch1986):249), which might equally be classified as a shield or lance. I consider these to be more or less marginal examples of what is basically a blunt, heavy instrument, wielded in the hand for bludgeoning.
 
 In the Southeast Solomons, Fiji and Polynesia at least (I have little information from Western Oceania), clubs have an importance beyond that of simply weapons. They often carry ceremonial weight. Many are heirlooms with names and magical powers. Special reverence is accorded the war club. To the extent that it is possible to distinguish war clubs from hunting clubs, I do not intend to delve further into the culture and terminology of the former. It is my guess that hunting clubs would have carried less cultural significance, and as a result, been labelled more broadly. Two terms have been reconstructed.[^5] In each case I have included all known cognates. It will be apparent that neither reconstruction is particularly soundly based. Nor do their cognates provide much information as to the shape, material or specific function of each club:
 
@@ -2224,7 +2231,7 @@ and an even more questionable reconstruction, in view of irregular final vowels:
 
 <a id="p-228"></a>
 
-Slingshots would have been used for hunting birds, flying foxes and perhaps the cuscus. [^6] Although it is assumed that ordinary well-shaped stones were used, [Green](../references.md#source-Green1979) ([1979](../references.md#source-Green1979):39) has documented a pointed-end Tridacna shell slingstone from Main Reef Islands circa 1000 BC.
+Slingshots would have been used for hunting birds, flying foxes and perhaps the cuscus.[^6] Although it is assumed that ordinary well-shaped stones were used, [Green](../references.md#source-Green1979) ([1979](../references.md#source-Green1979): 39) has documented a pointed-end Tridacna shell slingstone from Main Reef Islands circa 1000 BC.
 
 
 <a id="s-12"></a>
@@ -2263,14 +2270,14 @@ Slingshots would have been used for hunting birds, flying foxes and perhaps the 
 
 
 
-The setting of sharp spikes or slivers of wood or bamboo, hardened in the fire, either directly into a path, or at the bottom of a pit, is also known in Fiji (Bauan soki, 'spike'; lovosa 'pitfall man trap'), but I cannot locate any other Oceanic reflexes of PMP &ast;suja . Nonetheless, given the external evidence, the reconstruction must stand. It may be that this was primarily a warfare technique, and that a different term was used for the pit-trapping without spikes of pigs and smaller ground animals like lizards.
+The setting of sharp spikes or slivers of wood or bamboo, hardened in the fire, either directly into a path, or at the bottom of a pit, is also known in Fiji (Bauan _soki_, 'spike'; _lovosa_ 'pitfall man trap'), but I cannot locate any other Oceanic reflexes of PMP _&ast;suja_. Nonetheless, given the external evidence, the reconstruction must stand. It may be that this was primarily a warfare technique, and that a different term was used for the pit-trapping without spikes of pigs and smaller ground animals like lizards.
 
 
 <a id="s-13"></a>
 ## 13. Snare trap
 
 
-Birds are caught for food throughout the region, often by netting or by ground snares, fashioned from a spring-laden twig and a noose. Although I can locate many terms which refer to snare, noose and bird trap, the cognate sets collected are few. The following term was both a noun and a verb. Terms reflecting &ast;&ast;piti in MM and SES languages seem to be local inventions formed from a noun &ast;&ast;pit (after loss of POc &ast;-a) with the addition of the transitive suffix &ast; -i- .
+Birds are caught for food throughout the region, often by netting or by ground snares, fashioned from a spring-laden twig and a noose. Although I can locate many terms which refer to snare, noose and bird trap, the cognate sets collected are few. The following term was both a noun and a verb. Terms reflecting _&ast;&ast;piti_ in MM and SES languages seem to be local inventions formed from a noun _&ast;&ast;pit_ (after loss of POc _&ast;-a_) with the addition of the transitive suffix _&ast;-i-_.
 
 <table>
 <tr>
@@ -2375,7 +2382,7 @@ Birds are caught for food throughout the region, often by netting or by ground s
 
 
 
-With regard to the reconstruction of &ast;(p,pʷ), see [Chapter 2, §2.1](chapter2.md#s-2-1) .
+With regard to the reconstruction of _&ast;(p,pʷ)_, see [Chapter 2, §2.1](chapter2.md#s-2-1).
 
 
 <a id="p-229"></a>
@@ -2415,9 +2422,9 @@ With regard to the reconstruction of &ast;(p,pʷ), see [Chapter 2, §2.1](chapte
 
 Another widespread method of catching birds involves the use of birdlime. Hooley describes the technique used by Mapos Buang speakers in the Huon Gulf region of New Guinea:
 
-> The sap of this tree (dagXem) is used as birdlime for catching birds. The sap is collected in a length of bamboo and is then heated over a flre. When it is boiling a stick is dipped in and twisted and the sap adhering to it is chewed to make it soft and then wrapped in cordyline leaves. The sap is then spread on a suitable tree branch so that when birds come to eat the fruit of that tree they are caught. (from word list held on computer file at ANU)
+> The sap of this tree (dagXem) is used as birdlime for catching birds. The sap is collected in a length of bamboo and is then heated over a fire. When it is boiling a stick is dipped in and twisted and the sap adhering to it is chewed to make it soft and then wrapped in cordyline leaves. The sap is then spread on a suitable tree branch so that when birds come to eat the fruit of that tree they are caught. (from word list held on computer file at ANU)
 
-Blust (1983-84a) has reconstructed Proto WMP &ast;pikat or &ast;piket 'birdlime' and &ast;mamikat or &ast;makiket 'snare birds with birdlime', but I have not been able to locate any Oceanic reflexes. The reconstruction given below evidently refers generally to gum or resin, although in one instance, in Arosi, it is the first element in a compound, buruhasi, meaning 'bird trap'. The second element, hasi, means 'adhere'.
+Blust (1983-84a) has reconstructed Proto WMP _&ast;pikat_ or _&ast;piket_ 'birdlime' and _&ast;mamikat_ or _&ast;makiket_ 'snare birds with birdlime', but I have not been able to locate any Oceanic reflexes. The reconstruction given below evidently refers generally to gum or resin, although in one instance, in Arosi, it is the first element in a compound, _buruhasi_, meaning 'bird trap'. The second element, _hasi_, means 'adhere'.
 
 <table>
 <tr>
@@ -2453,7 +2460,7 @@ Blust (1983-84a) has reconstructed Proto WMP &ast;pikat or &ast;piket 'birdlime'
 '<span>bird trap; gum of banyan or other tree put at intervals along a pole</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Lenakel</td><td><i>(noua-neha)pw[t</i></td>
+<td>SV</td><td>Lenakel</td><td><i>(noua-neha)pʷit</i></td>
 <td>
 '<span>sap, glue</span>'</td>
 </tr>
@@ -2481,12 +2488,12 @@ Blust (1983-84a) has reconstructed Proto WMP &ast;pikat or &ast;piket 'birdlime'
 ## 15. Archaeological evidence
 
 
-Evidence comes both directly from the existence of artefacts themselves in archaeological sites-the fishhooks, trolling lures, stone fish traps, spear tips and so on -and indirectly through analysis of remains in Lapita middens, which provide evidence of Lapita people 's diet and (indirectly) for food procurement techniques.
+Evidence comes both directly from the existence of artefacts themselves in archaeological sites-the fishhooks, trolling lures, stone fish traps, spear tips and so on - and indirectly through analysis of remains in Lapita middens, which provide evidence of Lapita people's diet and (indirectly) for food procurement techniques.
 
 
 <a id="p-230"></a>
 
-[Spriggs](../references.md#source-Spriggs1997a) ([1997a](../references.md#source-Spriggs1997a): 114) summarises non-vegetable food traces from an Eloaue site on Mussau, east of the Admiralties, believed to have been occupied between about 3, 500 and 2, 500 years ago. (Eloaue is a low, flat, coral island south-east of the high island of Mussau.)
+[Spriggs](../references.md#source-Spriggs1997a) ([1997a](../references.md#source-Spriggs1997a): 114) summarises non-vegetable food traces from an Eloaue site on Mussau, east of the Admiralties, believed to have been occupied between about 3,500 and 2,500 years ago. (Eloaue is a low, flat, coral island south-east of the high island of Mussau.)
 
 > Large quantities of shell rllidden occurred in the site …The three Oceanic domesticates, pig, dog and chicken, were present but only in smal l numbers. 95 per cent of the bone was of fish, mainly inshore species, and turtle. Present too in small quantities were porpoise, reptiles, birds, rats and also the phalanger Spilocuscus maculatus (p. 117).
 
@@ -2500,10 +2507,10 @@ Artefacts are considered alongside the linguistic evidence. With regard to angli
 &ast;ta(g,k)o               'barbless (?) fishhook'
 &ast;qunap                  'turtle shell; fishhook'
 &ast;bayan                  'trolling lure'
-&ast;bani, &ast;baŋi           'bait; fodder'
+&ast;bani, &ast;baŋi            'bait; fodder'
 ```
 
-Of these items, fishhooks have proved the most useful in developing local culture sequences. One-piece fishhooks made from several kinds of shell are now well documented from a number of Lapita sites, ranging from Talepakemalai (Mussau) to Lolokoka (Niuatoputapu, Tonga), one site at the latter dating back to about 2800 BP. "Most of the Mussau hooks are fairly large (about 5 cm in shank length) and were probably designed for hand-lining from canoes, in order to catch larger benthic species such as groupers. A few hooks are smaller, however, and could have been used for taking smaller species on reefs and along coastlines." ([Kirch 1997](../references.md#source-Kirch1997) :200). Most hooks so far found are of Turbo, Trochus and pearlshell. Linguistic evidence supports clamshell and tortoiseshell. Presumably all of these were used, as well as the less durable coconut shell, bone and Pemphis acidula wood, which are in use today. Also from Mussau sites come examples of carefully crafted lures made from Trochus shell. These trolling lures "are streamlined for hydrodynamic lift in the water, and have finely carved grooves for attaching both the line and hackles (probably feathers or pig bristles) near the recurved point". (pp.200-201)
+Of these items, fishhooks have proved the most useful in developing local culture sequences. One-piece fishhooks made from several kinds of shell are now well documented from a number of Lapita sites, ranging from Talepakemalai (Mussau) to Lolokoka (Niuatoputapu, Tonga), one site at the latter dating back to about 2800 BP. "Most of the Mussau hooks are fairly large (about 5 cm in shank length) and were probably designed for hand-lining from canoes, in order to catch larger benthic species such as groupers. A few hooks are smaller, however, and could have been used for taking smaller species on reefs and along coastlines." ([Kirch 1997](../references.md#source-Kirch1997): 200). Most hooks so far found are of Turbo, Trochus and pearlshell. Linguistic evidence supports clamshell and tortoiseshell. Presumably all of these were used, as well as the less durable coconut shell, bone and Pemphis acidula wood, which are in use today. Also from Mussau sites come examples of carefully crafted lures made from Trochus shell. These trolling lures "are streamlined for hydrodynamic lift in the water, and have finely carved grooves for attaching both the line and hackles (probably feathers or pig bristles) near the recurved point". (pp.200-201)
 
 More elaborate two-piece fishhooks with separate shank and point were apparently a later development, appearing in Eastern Polynesia and possibly originating in the Marquesas Islands ([Bellwood 1987](../references.md#source-Bellwood1987):58).
 
@@ -2512,24 +2519,24 @@ A pertinent observation on the connection between present-day fishing techniques
 
 <a id="p-231"></a>
 
-> While we must be cautious in interpreting archaeological fishhooks on the basis of ethnographic observations of the use of modem metal hooks, the data are suggestive that Tikopia utilised a similarly broad range of angling strategies in prehistoric times. Group I hooks would have been best suited to catching small fry on the fringing reefs. Group II hooks, the most varied, were likely used for more than one strategy, and towline and bottom-fishing techniques, among others, seem likely. The largest specimens, Group III, would seem to have been intended for towline capture of carniverous pelagic fish or bottom fishing for large groupers, Ruvettus, and the like. Such an interpretation of the angling gear is consistent with the range of fish taxa identified in the Tikopia faunal material.
+> While we must be cautious in interpreting archaeological fishhooks on the basis of ethnographic observations of the use of modern metal hooks, the data are suggestive that Tikopia utilised a similarly broad range of angling strategies in prehistoric times. Group I hooks would have been best suited to catching small fry on the fringing reefs. Group II hooks, the most varied, were likely used for more than one strategy, and towline and bottom-fishing techniques, among others, seem likely. The largest specimens, Group III, would seem to have been intended for towline capture of carniverous pelagic fish or bottom fishing for large groupers, Ruvettus, and the like. Such an interpretation of the angling gear is consistent with the range of fish taxa identified in the Tikopia faunal material.
 
 We have eight POc terms that relate to netting:
 
 ```
-&ast;pukot                   'fishing net, seine'
-&ast;reke                   'fishing net, seine net'
-&ast;lawa((n,q))            'k.o. fishnet'
-&ast;kupr')ena              'net, generic term (?)'
+&ast;pukot                 'fishing net, seine'
+&ast;reke                  'fishing net, seine net'
+&ast;lawa((n,q))           'k.o. fishnet'
+&ast;kupr')ena             'net, generic term (?)'
 &ast;utOŋ                  'net float'
-&ast;buli(q)                'cowrie shell used as net sinker'
-&ast;sika                   'netting needle'
-&ast;mata-                  'mesh of net'
+&ast;buli(q)               'cowrie shell used as net sinker'
+&ast;sika                  'netting needle'
+&ast;mata-                 'mesh of net'
 ```
 
 Although netting itself will not endure, we have limited physical evidence of dragnetting from Tikopia in the form of cowrie shell net weights. Kirch and Yen (p.245) have been able to identify shells and stones from a Lapita site as net weights and line sinkers:
 
-> Tikopia women frequently scour the reef flats with small two-handled dip nets, te kuti, the edge of which is weighted with small Cypraea shells. Such shells have the dorsum removed to facilitate lashing … Two line sinkers were [also] found, each consisting of a natural cobble… with an artificially pecked groove running laterally round the stone. Such grooved cobbles are still used on occasion by Tikopia fishermen.
+> Tikopia women frequently scour the reef flats with small two-handled dip nets, _te kuti_, the edge of which is weighted with small Cypraea shells. Such shells have the dorsum removed to facilitate lashing … Two line sinkers were [also] found, each consisting of a natural cobble … with an artificially pecked groove running laterally round the stone. Such grooved cobbles are still used on occasion by Tikopia fishermen.
 
 It is unlikely that the remainder of our fishing terminology, with the possible exception of the stone fish weirs, can ever be supported by archaeological evidence:
 
@@ -2544,18 +2551,18 @@ It is unlikely that the remainder of our fishing terminology, with the possible 
 The pointed weapon terminology consists of:
 
 ```
-&ast;sao(t)               (N, V) 'spear'
-&ast;sua                  (N, V) 'spear, weapon retained in the hand'
-&ast;soka, &ast;soka-i-       'pierce; stab'
-&ast;qio(r,R)             'spear'
-&ast;bako                 'spear'
-&ast;kuj(u,i)r            'fish spear'
-&ast;tara                 'fish spear'
-&ast;koto                 'obsidian head of spear'
-&ast;pusuR                'bow and arrow'
-&ast;pr')anaq, pr')anaq-i- 'bow'; (V) 'shoot'
-&ast;tibʷa(ŋ), &ast;tibʷaŋ-i-                                          'dart, arrow; shoot with dart, arrow'
-&ast;lolo(s)                                                         'bowstring'
+&ast;sao(t)                    (N, V) 'spear'
+&ast;sua                       (N, V) 'spear, weapon retained in the hand'
+&ast;soka, &ast;soka-i-            'pierce; stab'
+&ast;qio(r,R)                  'spear'
+&ast;bako                      'spear'
+&ast;kuj(u,i)r                 'fish spear'
+&ast;tara                      'fish spear'
+&ast;koto                      'obsidian head of spear'
+&ast;pusuR                     'bow and arrow'
+&ast;(p,pʷ)anaq, (p,pʷ)anaq-i- 'bow'; (V) 'shoot'
+&ast;tibʷa(ŋ), &ast;tibʷaŋ-i-      'dart, arrow; shoot with dart, arrow'
+&ast;lolo(s)                   'bowstring'
 ```
 
 232                  Meredith Osmond
@@ -2565,23 +2572,23 @@ The only archaeological evidence we have for spears, bows and arrows, darts, etc
 I can find no archaeological evidence for any kind of club, our two (weakly supported) terms notwithstanding:
 
 ```
-&ast;paru                                                            (N, V) 'club'
-&ast;gapi                                                            'stone? club'
+&ast;paru         (N, V) 'club'
+&ast;gapi         'stone? club'
 ```
 
 However, for the slingshot we have pointed-end tridachna shell slingstones from Main Reef Islands documented by [Green](../references.md#source-Green1979) ([1979](../references.md#source-Green1979):39):
 
 ```
-&ast;maga                                                            'slingshot; stone'
-&ast;kalo                                                            'sling; tum round and round'
-The trail and pitfall spikes, the snare trap and the birdlime lack any supporting evidence
-from archaeology.
+&ast;maga                    'slingshot; stone'
+&ast;kalo                    'sling; tum round and round'
 ```
 
+The trail and pitfall spikes, the snare trap and the birdlime lack any supporting evidence from archaeology.
+
 ```
-&ast;suja                                                            'sharpened stake set in ground'
-&ast;pʷita, &ast;pʷita-i­                                                (N, V) 'snare'
-&ast;bulit                                                           'gum, resin (birdlime?)'
+&ast;suja                       'sharpened stake set in ground'
+&ast;pʷita, &ast;pʷita-i-           (N, V) 'snare'
+&ast;bulit                      'gum, resin (birdlime?)'
 ```
 
 Although we can look to archaeology to confirm the hypothesis that durable artefacts will be found in sites associated with Oceanic-speaking communities, there is little hope of archaeological recovery of the perishable artefacts in question. Here, linguistics adds an extra dimension to research on the prehistory of Oceania.
@@ -2593,7 +2600,7 @@ Although we can look to archaeology to confirm the hypothesis that durable artef
 
 [^3]:   Chowning (pers.comm.) points out that the Molima, and also the inhabitants of Goodenough Island, traditionally made their fish hooks out of the leg of a phasmid insect. This presumably combined the functions of hook and bait.
 
-[^4]: Tuam, Medebur, Tolai, Kiribatese po, which normally reflects POc &ast;b or bʷ, is unexplained.
+[^4]: Tuam, Medebur, Tolai, Kiribatese _p-_, which normally reflects POc _&ast;b_ or _bʷ_, is unexplained.
 
 [^5]:   A putative third construction, POC _&ast;nalanala_, 'club' (from Motu _tanala_ 'egg-shaped stone club', Tolai _nalnal_ 'battle axe', Maringe _nalanala_ 'wooden club', Longgu _nalanala_ 'club') is discounted on the basis of evidence that it is a borrowing from the Pidgin spoken along the east coast of Australia last century, this in turn deriving from _ŋalaŋala_ 'a hardwood club used in fighting and hunting', a term from the language spoken around Sydney at the time of the first settlement (Jaki Troy, pers.comm.). The term _nalnal_ still exists in Bislama (Ross Clark, pers.comm.).
 

@@ -7,7 +7,7 @@ by Osmond, M. and Ross, M.
 ## 1. Introduction
 
 
-The artefacts considered here are mainly household items, used in the gathering and storage of food, in the construction and maintenance of dwellings and gardens, and those used for personal adornment. Some of the items--earthenware pots, stone adzes and axes, bone needles, bone and shell ornaments, and stone bark-cloth beaters -have provided archaeologists with data that permit dating. Those made of perishable materials-such as leaf baskets, string bags, mats and bamboo knives -seldom leave any trace in the archaeological record. For these we are dependent on linguistic reconstruction interpreted in the light of current ethnographic practice. [^1]
+The artefacts considered here are mainly household items, used in the gathering and storage of food, in the construction and maintenance of dwellings and gardens, and those used for personal adornment. Some of the items--earthenware pots, stone adzes and axes, bone needles, bone and shell ornaments, and stone bark-cloth beaters -have provided archaeologists with data that permit dating. Those made of perishable materials-such as leaf baskets, string bags, mats and bamboo knives -seldom leave any trace in the archaeological record. For these we are dependent on linguistic reconstruction interpreted in the light of current ethnographic practice.[^1]
 
 Artefacts are organised under the following headings: (1) containers; (2) mats and cordage; (3) tools; (4) items of body decoration and clothing, and (5) instruments of communication and music. Terms for relevant processes are included. Thus, within the section on mats and cordage we have included terms for weaving, making thread, sewing, and for needle and twine. Often the term for a tool is derived from the verb denoting the activity of using it.
 
@@ -1622,7 +1622,7 @@ This form is unlikely to be of POc ancestry, as medial _&ast;-e-_ is rare in POc
 
 Figure 9: Reconstructions (non-specific) include: POc _&ast;katu(m,ŋ)_ 'basket', POc _&ast;laka_ 'basket ', POc _&ast;tab(w)e_ 'basket, probably small', POc _&ast;taŋa_ 'basket or bag, small, used for personal effects' (after [Koch 1986](../references.md#source-Koch1986): 104 and n.d.:59)
 
-[Biggs](../references.md#source-Biggs1993) ([1993](../references.md#source-Biggs1993)) lists two further terms for PPn, &ast;taapola 'basket plaited from a single coconut frond' (from POc _&ast;bola_ 'coconut leaves woven together for any purpose'. See under [§3.1](#s-3-1) Mats); and _&ast;qora_ 'fishing basket'.
+[Biggs](../references.md#source-Biggs1993) ([1993](../references.md#source-Biggs1993)) lists two further terms for PPn, &ast;taapola 'basket plaited from a single coconut frond' (from POc _&ast;bola_ 'coconut leaves woven together for any purpose'. See under [§3.1](#s-3-1)Mats); and _&ast;qora_ 'fishing basket'.
 
 Bags, typically of twine made from fibres rolled together on the thigh and then knotted into a mesh, are more likely to be used for carrying than for storage. They are a prominent item among western Oceanic peoples, the women carrying them slung from a band round the head, and the men generally over one shoulder. On the New Guinea mainland, they are the means by which a woman carries a baby. The widespread modern term for these bags is bilum, a Tok Pis in term apparently from Tolai, but without cognates outside MM . The present distribution pattern of use would seem to reflect a possible Papuan origin for the net bag. In east New Britain (Tolai and Baining at least) heavy loads are carried in a coconut leaf basket suspended from the forehead by a tumpline (Ann Chowning, pers.comm.). The following reconstruction may have been a general term for a small plaited or woven container which has come to refer to a net bag in parts of western Oceania.
 
@@ -1712,7 +1712,7 @@ Bags, typically of twine made from fibres rolled together on the thigh and then 
 ## 3.1. Mats
 
 
-Woven mats are made from the leaves of a range of palms, and frequently the same term is used for both tree and the article typically made from it. Thus we have POc _&ast;kiRe_ 'coastal pandanus: mat made from its leaves', and PWOc _&ast;moke_ 'pandanus species, used to make capes and mats' (see Plants, vol. 3). Mats on which food is placed will usually be made from coconut leaf. Where strength and endurance are important, as in canoe sails, pandanus is the preferred leaf, and the items are sewn rather than woven. Sleeping mats and house walls may be of either leaf. On the use of reflexes of &ast;qebal for sails, see [Chapter 7, §5.1](chapter7.md#s-5-1) .
+Woven mats are made from the leaves of a range of palms, and frequently the same term is used for both tree and the article typically made from it. Thus we have POc _&ast;kiRe_ 'coastal pandanus: mat made from its leaves', and PWOc _&ast;moke_ 'pandanus species, used to make capes and mats' (see Plants, vol. 3). Mats on which food is placed will usually be made from coconut leaf. Where strength and endurance are important, as in canoe sails, pandanus is the preferred leaf, and the items are sewn rather than woven. Sleeping mats and house walls may be of either leaf. On the use of reflexes of &ast;qebal for sails, see [Chapter 7, §5.1](chapter7.md#s-5-1).
 
 <table>
 <tr>
@@ -2230,7 +2230,7 @@ The distinction between weaving and plaiting is not clear even in English, altho
 
 <a id="p-83"></a>
 
-Ann Chowning (pers.comm.) has offered an additional sense to POc _&ast;raraŋ_, _&ast;raraŋ-i_­ (from PAn _&ast;da(n)daŋ_), which Lichtenberk glosses as 'warm oneself by fire'; 'warm up, reheat (esp. food)' (see [Chapter 6, §3.5](chapter6.md#s-3-5), for the full cognate set). She contributes cognates from Molima, Kove and Nakanai which all refer to the preparation of pandanus leaves for mat making by softening them over a fire, and accord closely with the gloss of the single Polynesian cognate.
+Ann Chowning (pers.comm.) has offered an additional sense to POc _&ast;raraŋ_, _&ast;raraŋ-i-_ (from PAn _&ast;da(n)daŋ_), which Lichtenberk glosses as 'warm oneself by fire'; 'warm up, reheat (esp. food)' (see [Chapter 6, §3.5](chapter6.md#s-3-5), for the full cognate set). She contributes cognates from Molima, Kove and Nakanai which all refer to the preparation of pandanus leaves for mat making by softening them over a fire, and accord closely with the gloss of the single Polynesian cognate.
 
 <table>
 <tr>
@@ -2722,7 +2722,7 @@ See Chapter 9, §[§7](#s-7)-8, for discussion of the item above.
 
 
 
-The product of tying a piece of cordage is, of course, a knot. pac seems to have had no term dedicated to a knot as understood in English, but had the more generalised term &ast;buku, which referred to a node, protuberance, joint or knot (this word was also used with the meaning 'tie a knot'; see [Chapter 9, § 10](chapter9.md#s-10)):
+The product of tying a piece of cordage is, of course, a knot. POc seems to have had no term dedicated to a knot as understood in English, but had the more generalised term &ast;buku, which referred to a node, protuberance, joint or knot (this word was also used with the meaning 'tie a knot'; see [Chapter 9, § 10](chapter9.md#s-10)):
 
 <table>
 <tr>
@@ -2965,7 +2965,7 @@ cf. also:
 <i>&ast;(su)su(k)</i>
 </td>
 <td>
-'<span>anything used to pierce, prick</span>' (<span>cf. Ch. 9, §4. 1</span>)</td>
+'<span>anything used to pierce, prick</span>' (<span>cf. Ch. 9, §4.1</span>)</td>
 </tr>
 <tr>
 <td>NNG</td><td>Gitua</td><td><i>zuzu</i></td>
@@ -3138,9 +3138,9 @@ The following term for needle, POc _&ast;saRum_, evidently had specific referenc
 ## 4.1. Cutting implements
 
 
-4.4. 1. 1 Axe, adze
+4.4.1.1 Axe, adze
 
-[Oliver](../references.md#source-Oliver1989) ([1989](../references.md#source-Oliver1989):88) identifies axe heads as having cutting ends bevelled on both sides, adzes as having cutting ends bevelled on one side only, and axe-adzes which are bevelled so as to be used either way. They are, of course, hafted differently on to their handle, the axe head lying along the same plane while the adze head is set at right angles to the handle. Axes would have been used primarily in tree-felling; adzes for such activities as the hollowing out and shaping of canoes, or the extraction of pith from sago palms. Either implement could have been utilised in the shaping of timber for the construction of houses, fenceposts etc. Although the preferred material for an adze blade was presumably basalt, archaeological sites in Island Oceania contain numbers of axes and particularly adzes, made of shell, mostly of Tridacna, the giant clam ([Oliver 1989](../references.md#source-Oliver1989) :89). On coral atolls, shell often has by necessity to substitute for stone.
+[Oliver](../references.md#source-Oliver1989) ([1989](../references.md#source-Oliver1989):88) identifies axe heads as having cutting ends bevelled on both sides, adzes as having cutting ends bevelled on one side only, and axe-adzes which are bevelled so as to be used either way. They are, of course, hafted differently on to their handle, the axe head lying along the same plane while the adze head is set at right angles to the handle. Axes would have been used primarily in tree-felling; adzes for such activities as the hollowing out and shaping of canoes, or the extraction of pith from sago palms. Either implement could have been utilised in the shaping of timber for the construction of houses, fenceposts etc. Although the preferred material for an adze blade was presumably basalt, archaeological sites in Island Oceania contain numbers of axes and particularly adzes, made of shell, mostly of Tridacna, the giant clam ([Oliver 1989](../references.md#source-Oliver1989): 89). On coral atolls, shell often has by necessity to substitute for stone.
 
 
 <a id="p-88"></a>
@@ -3675,7 +3675,7 @@ The existence of axe and adze heads with characteristic shaping to accommodate a
 
 
 
-With regard to the reconstruction of _&ast;(p,pʷ)_, see [Chapter 2, §2.1](chapter2.md#s-2-1) . Western Oceanic and SES languages show assimilation of POc _&ast;r_ to _&ast;R_, but we assume that assimilation had not occurred in POc, since, as Blust points out, Puluwat _r_ reflects POc _&ast;r_, whilst Woleaian _ṣ_ inexplicably reflects POc _&ast;dr_. One of the Arosi reflexes and the Raga, Puluwat and Woleaian reflexes show haplology.
+With regard to the reconstruction of _&ast;(p,pʷ)_, see [Chapter 2, §2.1](chapter2.md#s-2-1). Western Oceanic and SES languages show assimilation of POc _&ast;r_ to _&ast;R_, but we assume that assimilation had not occurred in POc, since, as Blust points out, Puluwat _r_ reflects POc _&ast;r_, whilst Woleaian _ṣ_ inexplicably reflects POc _&ast;dr_. One of the Arosi reflexes and the Raga, Puluwat and Woleaian reflexes show haplology.
 
 
 <a id="p-91"></a>
@@ -4367,7 +4367,7 @@ Bark-cloth is a significant item in Indonesia and in the eastern Oceanic region,
 
 Figure 12: POc &ast;ike 'tapa beater'
 
-Although terms can be located in WOc, none are cognate, and no POc term is reconstructable, apart from terms for the sources of raw material, POc _&ast;m(w)ase_ 'wild mulberry, paper mulberry, 'Broussonetia papyrijera' POc _&ast;kuluR_ 'breadfruit, Artocarpus' (from PAn _&ast;kuluR_) and POc _&ast;nunu(k)_ (from PMP _&ast;nunuk_ 'banyan, Ficus spp.') (see Plants, vol. 3).
+Although terms can be located in WOc, none are cognate, and no POc term is reconstructable, apart from terms for the sources of raw material, POc _&ast;(m,mʷ)ase_ 'wild mulberry, paper mulberry, 'Broussonetia papyrijera' POc _&ast;kuluR_ 'breadfruit, Artocarpus' (from PAn _&ast;kuluR_) and POc _&ast;nunu(k)_ (from PMP _&ast;nunuk_ 'banyan, Ficus spp.') (see Plants, vol. 3).
 
 The term _tapa_, now virtually the generic term for bark-cloth, can be reconstructed for PCP.
 
@@ -4561,7 +4561,7 @@ We have a reconstruction for the mallet used in beating _tapa_ which goes back a
 ## 5.2. Clothing
 
 
-Over the region as a whole there is enormous variation in the degree and nature of body covering in these areas. [Chowning](../references.md#source-Chowning1991) ([1991](../references.md#source-Chowning1991) :46) points out that "although ornaments were worn everywhere, clothes were not; for example, in parts of the Bismarck Archipelago both sexes wore nothing. In others, as Nakanai and part of Kove, only women wore clothing." Where clothing was worn, bark-cloth was undoubtedly the most substantial wearable material. Leaves, and to a lesser extent, grass, were used to fashion skirts, aprons and G-strings.
+Over the region as a whole there is enormous variation in the degree and nature of body covering in these areas. [Chowning](../references.md#source-Chowning1991) ([1991](../references.md#source-Chowning1991): 46) points out that "although ornaments were worn everywhere, clothes were not; for example, in parts of the Bismarck Archipelago both sexes wore nothing. In others, as Nakanai and part of Kove, only women wore clothing." Where clothing was worn, bark-cloth was undoubtedly the most substantial wearable material. Leaves, and to a lesser extent, grass, were used to fashion skirts, aprons and G-strings.
 
 4.5.2. 1 Loincloth
 
@@ -5018,7 +5018,7 @@ A second reconstruction is PSS _&ast;ogo_ 'tooth-blackening powder' (Lau _ago_, 
 ## 5.4. Tattooing
 
 
-[Chowning](../references.md#source-Chowning1991) ([1991](../references.md#source-Chowning1991) :48) points out that tattooing in New Guinea has only limited distribution, tending to be confined to people with relatively light skin. "Where it was practised, methods ranged from the cutting of fine lines with obsidian, after which pigment was rubbed in, to the use of special implements. Darker-skinned people practised ornamental cicatrisation." Although no POc reconstruction has been made for the activity, reflexes of POc _&ast;saRum_ (see [§3.2.1](#s-3-2)) indicate that a tattooing needle of bat's bone was known in both eastern and western Oceanic as well as the Admiralties. In the east Oceanic region tattooing is widespread. It was practised most extensively and reached its highest artistic development in Polynesia. A needle of bat or bird bone was tapped repetitively with a mallet, and a dye, probably of vegetable origin, rubbed into the punctured area. (Maoris used a dye made from the oily smoke of burning nut kernels. In Bellona the sap of the _ŋieemuŋii_ tree - Canarium herveyii - was collected, allowed to set, burnt and the carbon collected and scraped into a black powder ([Tickle 1977](../references.md#source-Tickle1977): 11)). A group of Samoic Outliers (Anuta, Luangiua, Takuu, Tikopia) use reflexes of PPn _&ast;matau_ 'axe' to refer to their tattooing chisel.
+[Chowning](../references.md#source-Chowning1991) ([1991](../references.md#source-Chowning1991): 48) points out that tattooing in New Guinea has only limited distribution, tending to be confined to people with relatively light skin. "Where it was practised, methods ranged from the cutting of fine lines with obsidian, after which pigment was rubbed in, to the use of special implements. Darker-skinned people practised ornamental cicatrisation." Although no POc reconstruction has been made for the activity, reflexes of POc _&ast;saRum_ (see [§3.2.1](#s-3-2)) indicate that a tattooing needle of bat's bone was known in both eastern and western Oceanic as well as the Admiralties. In the east Oceanic region tattooing is widespread. It was practised most extensively and reached its highest artistic development in Polynesia. A needle of bat or bird bone was tapped repetitively with a mallet, and a dye, probably of vegetable origin, rubbed into the punctured area. (Maoris used a dye made from the oily smoke of burning nut kernels. In Bellona the sap of the _ŋieemuŋii_ tree - Canarium herveyii - was collected, allowed to set, burnt and the carbon collected and scraped into a black powder ([Tickle 1977](../references.md#source-Tickle1977): 11)). A group of Samoic Outliers (Anuta, Luangiua, Takuu, Tikopia) use reflexes of PPn _&ast;matau_ 'axe' to refer to their tattooing chisel.
 
 
 <a id="p-102"></a>
@@ -5173,7 +5173,7 @@ The kinds of designs used in tattooing, as on pottery and carved objects, and to
 ## 5.5. Ornaments
 
 
-[Chowning](../references.md#source-Chowning1991) ([1991](../references.md#source-Chowning1991) :47) describes the situation in the New Guinea area:
+[Chowning](../references.md#source-Chowning1991) ([1991](../references.md#source-Chowning1991): 47) describes the situation in the New Guinea area:
 
 > Perhaps the most common everyday ornaments were necklaces of shell or animal teeth, bracelets and armbands of a variety of materials, most often worn above the elbow, and ear ornaments. Noses were usually pierced, but it is not clear how often nose ornaments were worn. The other very common ornaments were leg bands, worn below the knee, and anklets; belts and girdles; and hair ornaments, including ornamental combs. Aromatic herbs were commonly stuck onto armbands and into the hair; feathers too, unmodified or made into simple ornaments, were often stuck into the hair.
 
@@ -5680,7 +5680,7 @@ Blust reconstructs PMP _&ast;suat_ 'k.o. comb', a root which seems to have survi
 ## 6. Instruments of communication and music
 
 
-These fall into two main categories, a) wind instruments, and b) drums. Apart from the conch shell trumpet, the wind instruments recorded in the ethnographic literature are usually of bamboo, although [Blackwood](../references.md#source-Blackwood1935) ([1935](../references.md#source-Blackwood1935) :413) describes a didgeridoo-type instrument, the mabu, used on Buka, which is made from the trunk of a small tree. Bamboo instruments are often simply referred to by the term for bamboo. The drums are typically wooden; but occasionally lighter drums are made from larger varieties of bamboo. Where a skin head is required, as in the hourglass drums, the skin of the monitor lizard is used where available. In Polynesia (Rarotonga), sharkskin has been recorded as a drum skin.
+These fall into two main categories, a) wind instruments, and b) drums. Apart from the conch shell trumpet, the wind instruments recorded in the ethnographic literature are usually of bamboo, although [Blackwood](../references.md#source-Blackwood1935) ([1935](../references.md#source-Blackwood1935): 413) describes a didgeridoo-type instrument, the mabu, used on Buka, which is made from the trunk of a small tree. Bamboo instruments are often simply referred to by the term for bamboo. The drums are typically wooden; but occasionally lighter drums are made from larger varieties of bamboo. Where a skin head is required, as in the hourglass drums, the skin of the monitor lizard is used where available. In Polynesia (Rarotonga), sharkskin has been recorded as a drum skin.
 
 Other musical instruments mentioned in the ethnographic literature include Jew's-harps, dancing sticks, a stringed bow and rattles made from seed pods or strings of shells.
 
@@ -5974,7 +5974,7 @@ Reflexes of POc _&ast;upi_/_&ast;ipu_ 'blow' or compounds containing it, commonl
 
 <a id="p-109"></a>
 
-This relatively small drum, easily carried, is of wood, with the end covered in (lizard) skin. [Chowning](../references.md#source-Chowning1991) ([1991](../references.md#source-Chowning1991) :59) has noted that on the north coast of New Guinea and in some parts of west New Britain the name for the instrument is suspiciously close to the word for 'monitor lizard' (Sengseng _pahiyo_ 'drum', _apahiya_ 'lizard'). Drumming is produced with the hand, and typically accompanies dances. [Ivens](../references.md#source-Ivens1927) ([1927](../references.md#source-Ivens1927) (reissued 1972): 169) reports that "a true drum of wood with skin stretched over it, such as is used in New Guinea and Torres Straits, is not found on Mala [Malaita] and Ulawa".
+This relatively small drum, easily carried, is of wood, with the end covered in (lizard) skin. [Chowning](../references.md#source-Chowning1991) ([1991](../references.md#source-Chowning1991): 59) has noted that on the north coast of New Guinea and in some parts of west New Britain the name for the instrument is suspiciously close to the word for 'monitor lizard' (Sengseng _pahiyo_ 'drum', _apahiya_ 'lizard'). Drumming is produced with the hand, and typically accompanies dances. [Ivens](../references.md#source-Ivens1927) ([1927](../references.md#source-Ivens1927) (reissued 1972): 169) reports that "a true drum of wood with skin stretched over it, such as is used in New Guinea and Torres Straits, is not found on Mala [Malaita] and Ulawa".
 
 Figure 16: POc &ast;kude 'hourglass drum'
 
@@ -6026,14 +6026,14 @@ Figure 16: POc &ast;kude 'hourglass drum'
 
 
 
-The alternation in gloss between the two kinds of drum is probably due to the term for one kind being used also as a generic. [Chowning](../references.md#source-Chowning1991) ([1991](../references.md#source-Chowning1991) :60) reports that in Kove _kure_ can be used for either instrument, although there is a separate term for slitgong.
+The alternation in gloss between the two kinds of drum is probably due to the term for one kind being used also as a generic. [Chowning](../references.md#source-Chowning1991) ([1991](../references.md#source-Chowning1991): 60) reports that in Kove _kure_ can be used for either instrument, although there is a separate term for slitgong.
 
 
 <a id="s-6-4"></a>
 ## 6.4. Slitgong
 
 
-Slitgongs are carved from logs hollowed through a longitudinal slit, and beaten on one side of the lip, usually with a single heavy stick. They are often played in unison, with different logs producing different notes. The sound can carry over considerable distances and can be used to convey simple messages, summon villagers, announce a feast or the death of someone of rank and so on ([Blackwood 1935](../references.md#source-Blackwood1935) :409). They are large and heavy, often ornately carved, and will normally survive for many years. They are almost always used horizontally. In the entire Oceanic region, upright gongs, standing on their own, are found only in central Vanuatu ([Crowe 1996](../references.md#source-Crowe1996): 147). In southern Malaita (SES), somewhat smaller wooden gongs are placed on stands and played in sets of three, loosely described as soprano, tenor and bass. These are beaten with short sections of sago bark branches, pithy and soft ([Ivens 1927](../references.md#source-Ivens1927) (reissued 1972): 169).
+Slitgongs are carved from logs hollowed through a longitudinal slit, and beaten on one side of the lip, usually with a single heavy stick. They are often played in unison, with different logs producing different notes. The sound can carry over considerable distances and can be used to convey simple messages, summon villagers, announce a feast or the death of someone of rank and so on ([Blackwood 1935](../references.md#source-Blackwood1935): 409). They are large and heavy, often ornately carved, and will normally survive for many years. They are almost always used horizontally. In the entire Oceanic region, upright gongs, standing on their own, are found only in central Vanuatu ([Crowe 1996](../references.md#source-Crowe1996): 147). In southern Malaita (SES), somewhat smaller wooden gongs are placed on stands and played in sets of three, loosely described as soprano, tenor and bass. These are beaten with short sections of sago bark branches, pithy and soft ([Ivens 1927](../references.md#source-Ivens1927) (reissued 1972): 169).
 
 Although words for musical instruments are candidates for borrowing, the fact that POc final _&ast;-t_ is regularly reflected or deleted throughout the cognate set below is a strong indication that these terms are not borrowed.
 

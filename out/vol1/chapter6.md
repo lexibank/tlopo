@@ -1605,7 +1605,7 @@ A term can be reconstructed for the action of singeing food in preparation for c
 ## 3.7. Wrapping prior to oven-cooking
 
 
-Two similar terms for wrapping food for cooking (baking or roasting), POc &ast;kapu(t), &ast;kaput-i- and POc &ast;kopu, have been reconstructed. [Mills](../references.md#source-Mills1981) ([1981](../references.md#source-Mills1981) :73) has proposed PMP &ast;kaput 'close, cover', while [Blust](../references.md#source-Blust1986) ([1986](../references.md#source-Blust1986):45) gives a gloss of 'tie or clasp together' for an identical PMP reconstruction. Oceanic reflexes indicate two distinct terms, although there may have been some blending of meaning in daughter languages. Lichtenberk suggests that the two POc terms may have referred to different ways of wrapping food; [Firth](../references.md#source-Firth1957) ([1957](../references.md#source-Firth1957)), for instance, gives four terms for different ways of wrapping food in Tikopia. From the glosses below, it seems possible that &ast;kapu(t), &ast;kaput-i- referred to covering (as an earth oven is covered), whilst &ast;kopu referred to the wrapping of the food in bundles. For both terms, reflexes indicate wider reference than to food alone. In Polynesia they have come to refer more specifically to clothing or blankets.
+Two similar terms for wrapping food for cooking (baking or roasting), POc _&ast;kapu(t)_, _&ast;kaput-i-_ and POc _&ast;kopu_, have been reconstructed. [Mills](../references.md#source-Mills1981) ([1981](../references.md#source-Mills1981): 73) has proposed PMP _&ast;kaput_ 'close, cover', while [Blust](../references.md#source-Blust1986) ([1986](../references.md#source-Blust1986):45) gives a gloss of 'tie or clasp together' for an identical PMP reconstruction. Oceanic reflexes indicate two distinct terms, although there may have been some blending of meaning in daughter languages. Lichtenberk suggests that the two POc terms may have referred to different ways of wrapping food; [Firth](../references.md#source-Firth1957) ([1957](../references.md#source-Firth1957)), for instance, gives four terms for different ways of wrapping food in Tikopia. From the glosses below, it seems possible that _&ast;kapu(t)_, _&ast;kaput-i-_ referred to covering (as an earth oven is covered), whilst &ast;kopu referred to the wrapping of the food in bundles. For both terms, reflexes indicate wider reference than to food alone. In Polynesia they have come to refer more specifically to clothing or blankets.
 
 <table>
 <tr>
@@ -1831,7 +1831,7 @@ Two similar terms for wrapping food for cooking (baking or roasting), POc &ast;k
 ## 3.8. Uncooked food
 
 
-Lichtenberk also considers terms for uncooked food. He proposes a general POc term &ast;(a)mataq for raw food (possibly excluding certain foodstuffs) which also refers to unripe foodstuff, such as fruit. Its reflexes in fact seem to reflect two forms, &ast;mataq and &ast;qa-mataq, the latter presumably derived from the former, but the function of &ast;qa- is unclear.
+Lichtenberk also considers terms for uncooked food. He proposes a general POc term _&ast;(a)mataq_ for raw food (possibly excluding certain foodstuffs) which also refers to unripe foodstuff, such as fruit. Its reflexes in fact seem to reflect two forms, _&ast;mataq_ and _&ast;qa-mataq_, the latter presumably derived from the former, but the function of _&ast;qa-_ is unclear.
 
 <table>
 <tr>
@@ -2016,7 +2016,7 @@ Lichtenberk also considers terms for uncooked food. He proposes a general POc te
 
 
 
-PAnlPMP &ast;maqataq evidently consisted of&ast;ma- 'anticausative' ([Ch.2, §3.1.2](chapter2.md#s-3-1)) + qataq 'eat something raw' . The POc reflex &ast;mataq shows irregular loss of medial &ast;-q- . The unaffixed base also survived in POc, and is reflected, with meanings similar to &ast;mataq, in some Oceanic languages.
+PAn/PMP _&ast;maqataq_ evidently consisted of _&ast;ma-_ 'anticausative' ([Ch.2, §3.1.2](chapter2.md#s-3-1)) + _qataq_ 'eat something raw'. The POc reflex _&ast;mataq_ shows irregular loss of medial _&ast;-q-_. The unaffixed base also survived in POc, and is reflected, with meanings similar to _&ast;mataq_, in some Oceanic languages.
 
 <table>
 <tr>
@@ -2060,7 +2060,7 @@ PAnlPMP &ast;maqataq evidently consisted of&ast;ma- 'anticausative' ([Ch.2, §3.
 
 
 
-Alongside &ast;qataq, PAn also had a term &ast;qetaq, which retained its verbal use in POc, referring specifically to raw meat, fish and shellfish, and to the eating of such foods:
+Alongside _&ast;qataq_, PAn also had a term _&ast;qetaq_, which retained its verbal use in POc, referring specifically to raw meat, fish and shellfish, and to the eating of such foods:
 
 <table>
 <tr>
@@ -2241,7 +2241,7 @@ Similarly, the term for 'cooked' also meant 'ripe'; both glosses could be subsum
 
 
 
-Another term with meaning similar to &ast;maosak stresses the good quality of the food:
+Another term with meaning similar to _&ast;maosak_ stresses the good quality of the food:
 
 <table>
 <tr>
@@ -2293,7 +2293,7 @@ Lichtenberk (p.277) records two main ways of preserving food in Oceania. One is 
 <i>&ast;Capa</i>
 </td>
 <td>
-(v) '<span>smoke fish or meat for preservation</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+(V) '<span>smoke fish or meat for preservation</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -2336,7 +2336,7 @@ In addition, Blust offers the following:
 <tr>
 <td>Mic</td><td>Trukese</td><td><i>ātɨ</i></td>
 <td>
-(v) '<span>smoke, steam; cause to be smoked or steamed (for curing)</span>'</td>
+(V) '<span>smoke, steam; cause to be smoked or steamed (for curing)</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Rotuman</td><td><i>fak-asu</i></td>
@@ -2705,7 +2705,7 @@ A large wooden bowl (POc &ast;tabiRa, PCP &ast;kumete, see [Ch.4, §2.2.1](chapt
 
 Figure 22: taro stamper (no reconstruction) (from [Nevermann 1934](../references.md#source-Nevermann1934): 192) PWOc &ast;walu 'sago beater' (from [Nevermann 1934](../references.md#source-Nevermann1934): 174)
 
-As Blust (ACD) notes, terms dealing with the action of pounding frequently contain the root &ast;-tuk. A number of reconstructions have been made which evidently refer to hitting, pounding, beating, breaking open, and so on, not just of foodstuffs, but with general application. Cognate sets for the following reconstructions are included in [Chapter 9, §5.1](chapter9.md#s-5-1): POc &ast;tutuk 'pound, mash by pounding, hammer, crack by hammering' (from PAn &ast;tuqtuq); POc &ast;tuki- 'pound'; POc &ast;putu(k) 'knock, pound, beat' (ACD) (from PMP &ast;buTuk); and POc &ast;qatuŋ-i 'strike from above, pound'.
+As Blust (ACD) notes, terms dealing with the action of pounding frequently contain the root _&ast;-tuk_. A number of reconstructions have been made which evidently refer to hitting, pounding, beating, breaking open, and so on, not just of foodstuffs, but with general application. Cognate sets for the following reconstructions are included in [Chapter 9, §5.1](chapter9.md#s-5-1): POc _&ast;tutuk_ 'pound, mash by pounding, hammer, crack by hammering' (from PAn _&ast;tuqtuq_); POc _&ast;tuki-_ 'pound'; POc _&ast;putu(k)_ 'knock, pound, beat' (ACD) (from PMP _&ast;buTuk_); and POc _&ast;qatuŋ-i_ 'strike from above, pound'.
 
 
 <a id="s-5-2"></a>
@@ -2880,7 +2880,7 @@ Foodstuffs such as tubers and coconut meat are often grated before further proce
 
 
 
-Figure 23: POc &ast;kaRi, POc &ast;koRi 'bivalve used as food scraper'
+Figure 23: POc _&ast;kaRi_, POc _&ast;koRi_ 'bivalve used as food scraper'
 
 
 <a id="p-163"></a>
@@ -3340,7 +3340,7 @@ A number of formally similar terms have been reconstructed for the action of scr
 
 
 
-Yet another reconstruction is POc &ast;asa(q) 'grate, sharpen by grating or rubbing' from PAn _&ast;Sasaq_ 'whet, sharpen' (see [Ch.4, §4.1](chapter4.md#s-4-1) .S).
+Yet another reconstruction is POc _&ast;asa(q)_ 'grate, sharpen by grating or rubbing' from PAn _&ast;Sasaq_ 'whet, sharpen' (see [Ch.4, §4.1](chapter4.md#s-4-1).S).
 
 Lichtenberk comments (pp. 280-281) on the recurring sound symbolism evident in these items, a feature which Blust has identified with PAn forms meaning 'rub, scrape, scratch'. Terms with similar sound symbolism readily undergo conflation. Lichtenberk also refers to the possibility that in POc or pre-POc times there was some kind of derivational relation among at least some of the forms, noting that unlike the other forms, _&ast;ko(r,R)as_ took as its direct object a noun phrase referring to the stuff scraped off rather than the object being scraped (e.g. the coconut meat rather than the coconut). (See also [Ch.9, §2.2](chapter9.md#s-2-2).)
 
@@ -3782,7 +3782,7 @@ The following term may have referred both to the husking of coconuts and to the 
 
 
 
-POc &ast;soka, soka-i- (V) 'pierce; stab' (see [Ch.9, §4.1](chapter9.md#s-4-1)) (Lichtenberk has &ast;joka) and POc &ast;potak 'crack or split open (nuts, coconuts) are also used of husking coconuts:
+POc _&ast;soka_, _soka-i-_ (V) 'pierce; stab' (see [Ch.9, §4.1](chapter9.md#s-4-1)) (Lichtenberk has _&ast;joka_) and POc _&ast;potak_ 'crack or split open (nuts, coconuts) are also used of husking coconuts:
 
 <table>
 <tr>
@@ -3977,7 +3977,7 @@ The most common method of straining, necessary for processing such foodstuffs as
 
 
 
-[Lichtenberk](../references.md#source-Lichtenberk1994) ([1994](../references.md#source-Lichtenberk1994)) reconstructed PEOc _&ast;unu(p)_ 'strainer, probably the fibrous spathe of a coconut frond', but it is reasonably certain that the reflexes attributed thereto should be combined with those above and attributed to _&ast;Runut_/_&ast;nuRut_ ([Ross 1996d](../references.md#source-Ross1996d)). Lichtenberk reconstructed final _&ast;-p_ on the basis of Mota (NCV) _unuv_ '(a fluid) sink in, be absorbed', but we take this not to be cognate. As [Geraghty](../references.md#source-Geraghty1990) ([1990](../references.md#source-Geraghty1990)) points out, Sa'a (SES) shows irregular loss of initial _&ast;R-_, but Rennellese (pn) _gunu_, borrowed from a SES language, reflects Proto SES _&ast;lunu_ (< POc _&ast;Runut_). Sa'a also shows loss of &ast;R in a few other items, so its loss here is not completely surprising.
+[Lichtenberk](../references.md#source-Lichtenberk1994) ([1994](../references.md#source-Lichtenberk1994)) reconstructed PEOc _&ast;unu(p)_ 'strainer, probably the fibrous spathe of a coconut frond', but it is reasonably certain that the reflexes attributed thereto should be combined with those above and attributed to _&ast;Runut_/_&ast;nuRut_ ([Ross 1996d](../references.md#source-Ross1996d)). Lichtenberk reconstructed final _&ast;-p_ on the basis of Mota (NCV) _unuv_ '(a fluid) sink in, be absorbed', but we take this not to be cognate. As [Geraghty](../references.md#source-Geraghty1990) ([1990](../references.md#source-Geraghty1990)) points out, Sa'a (SES) shows irregular loss of initial _&ast;R-_, but Rennellese (pn) _gunu_, borrowed from a SES language, reflects Proto SES _&ast;lunu_ (< POc _&ast;Runut_). Sa'a also shows loss of _&ast;R_ in a few other items, so its loss here is not completely surprising.
 
 
 <a id="s-5-7"></a>
@@ -4000,7 +4000,7 @@ The most common method of straining, necessary for processing such foodstuffs as
 <i>&ast;puti-</i>
 </td>
 <td>
-'<span>pick, pluck (feathers), pull out (weeds +)</span>' (<span>cf. Ch. 9. §6. 1</span>)</td>
+'<span>pick, pluck (feathers), pull out (weeds +)</span>' (<span>cf. Ch. 9. §6.1</span>)</td>
 </tr>
 <tr>
 <td>NNG</td><td>Sengseng</td><td><i>put</i></td>
@@ -4375,11 +4375,11 @@ cf. also:
 
 
 
-Another reconstruction, POc &ast;piri 'twist, wrap around', whose reflexes refer typically to the manufacture of rope or twine (see [Ch.4, §3.2](chapter4.md#s-3-2)), has reflexes in some languages which refer to extracting coconut milk by squeezing it through coconut fibre (MM: Kia piriki 'wring, squeeze coconut milk', NCV: Tamambo viri 'twist, plait, braid; coconut milk '. See also SES: Arosi biri-yi 'squeeze coconut milk through fibre').
+Another reconstruction, POc _&ast;piri_ 'twist, wrap around', whose reflexes refer typically to the manufacture of rope or twine (see [Ch.4, §3.2](chapter4.md#s-3-2)), has reflexes in some languages which refer to extracting coconut milk by squeezing it through coconut fibre (MM: Kia _piriki_ 'wring, squeeze coconut milk', NCV: Tamambo _viri_ 'twist, plait, braid; coconut milk'. See also SES: Arosi _biri-yi_ 'squeeze coconut milk through fibre').
 
 Lichtenberk writes (p.283):
 
-> It is not possible to detennine fully what the distinctions were among the various terms for extracting liquid, but a number of contrasts can be postulated. Items &ast;pipik, &ast;pisak, &ast;poji, &ast;losi took as their direct object a noun phrase referring to the object out of which liquid is extracted, whereas &ast;poRos and &ast;pirik took as their direct object a noun phrase referring to the liquid extracted. &ast;pipik and &ast;pisak referred to squeezing by pressing, while &ast;poji and &ast;losi referred to squeezing by wringing. The item &ast;pirik referred specifically to a wringing action, while &ast;poRos may have been an unmarked term whose meaning subsumed both pressing and wringing. (As Ann Chowning has pointed out [pers.comm.] there are two basic ways used to extract coconut cream: wringing coconut gratings through coconut 'cloth', or squeezing them in one's hands.)
+> It is not possible to detennine fully what the distinctions were among the various terms for extracting liquid, but a number of contrasts can be postulated. Items _&ast;pipik_, _&ast;pisak_, _&ast;poji_, _&ast;losi_ took as their direct object a noun phrase referring to the object out of which liquid is extracted, whereas _&ast;poRos_ and _&ast;pirik_ took as their direct object a noun phrase referring to the liquid extracted. _&ast;pipik_ and _&ast;pisak_ referred to squeezing by pressing, while _&ast;poji_ and _&ast;losi_ referred to squeezing by wringing. The item _&ast;pirik_ referred specifically to a wringing action, while &ast;poRos may have been an unmarked term whose meaning subsumed both pressing and wringing. (As Ann Chowning has pointed out [pers.comm.] there are two basic ways used to extract coconut cream: wringing coconut gratings through coconut 'cloth', or squeezing them in one's hands.)
 
 
 <a id="p-171"></a>
@@ -4544,6 +4544,6 @@ Blust records another:
 
 [^4]: [Geraghty](../references.md#source-Geraghty1990) ([1990](../references.md#source-Geraghty1990):65) also cites PCP _&ast;ŋiwai_ on the basis of an Eastern Fijian term 'browned by exposure to sun',
 
-[^5]:   See [Chapter 9, §2.2](chapter9.md#s-2-2) and accompanying footnote 2. Ross proposes PAn root _&ast;-ras_ 'grate, scrape, scar', POc _&ast;kora(s)_, _&ast;koras-i-_ 'scrape out (coconut meat +); dregs of strained coconut scrapings'.
+[^5]:   See [Chapter 9, §2.2](chapter9.md#s-2-2)and accompanying footnote 2. Ross proposes PAn root _&ast;-ras_ 'grate, scrape, scar', POc _&ast;kora(s)_, _&ast;koras-i-_ 'scrape out (coconut meat +); dregs of strained coconut scrapings'.
 
 [^6]:   Depending on whether the NNG term is ascribed to &ast;koRi or &ast;kori(s), &ast;koris-i-.

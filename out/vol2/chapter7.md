@@ -9,7 +9,7 @@ by Malcolm Ross
 
 The terms reconstructed in this chapter denoted properties of inanimate objects in POc. It is impossible to draw a clear line between the properties of inanimate objects and the properties of living beings as there are some properties, for example, ‘big’ and ‘small’, which were almost certainly used of both inanimate objects and animate beings. However, there are also many property expressions which were evidently used only of animate beings, and these are not considered here.[^1]
 
-Oceanic languages make some distinctions between properties of inanimates and properties of animates that are not made in European languages, and vice versa. In most Oceanic languages there are distinct words for ‘old’ as applied to inanimate objects and ‘old’ as applied to human beings, and different temperature terms for the physical environment and for the human body. This appears to have been true in POc as well, where &ast;[ma]tuqa ‘ripe, mature, adult, old’ was used of animates and POc &ast;tuqaRi ‘long ago, old’ and &ast;rapu-ka ‘old’ of inanimates.
+Oceanic languages make some distinctions between properties of inanimates and properties of animates that are not made in European languages, and vice versa. In most Oceanic languages there are distinct words for ‘old’ as applied to inanimate objects and ‘old’ as applied to human beings, and different temperature terms for the physical environment and for the human body. This appears to have been true in POc as well, where _&ast;[ma]tuqa_ ‘ripe, mature, adult, old’ was used of animates and POc _&ast;tuqaRi_ ‘long ago, old’ and _&ast;rapu-ka_ ‘old’ of inanimates.
 
 Property words in European languages are typically adjectives. It is fairly certain, however, that POc did not have a separate adjective word class. Instead, it had a small subclass of nouns and a large subclass of verbs that were used to express properties (see vol. 1, pp.34–35). For convenience, I have named these adjectival nouns and adjectival verbs. The test of whether a noun or verb is adjectival is that it can occur without any additional morphology as the modifier of a noun. However, these subclasses have undergone various redistributions in different Oceanic languages, and this can sometimes make it difficult to determine whether a given reconstruction was a noun or a verb. [Ross](../references.md#source-Ross1998a) ([1998a](../references.md#source-Ross1998a)) gives a detailed study of the syntax of POc adjectival categories and of subsequent developments, and a second study ([Ross 1998b](../references.md#source-Ross1998b)) focuses on the fate of adjectival verbs and nouns in certain Western Oceanic languages.
 
@@ -26,12 +26,10 @@ Dixon assigns languages to one of three broad types with regard to the grammatic
 
 __ol__ A.     languages like English, where there is a large open class of adjectives; B.     languages like Samoan, where there is no distinct class of adjectives, but an open class of property terms which is a subclass of verbs; C.     languages like Hausa, which have a closed, usually rather small, class of ‘adjectives’ and one or more open classes of property terms which are subclasses of nouns and/or verbs.
 
-I have placed ‘adjectives’ in inverted commas in Type C because Dixon defines this class in terms of its meanings rather than in terms of its grammatical behaviour. In languages of Type A, there is an adjective class, i.e. a class of property terms whose grammatical behaviour is distinct from nouns or verbs. In languages of Type B, there is no such class. In languages of Type C, there is a closed class of property terms. Dixon does not discuss
+I have placed ‘adjectives’ in inverted commas in Type C because Dixon defines this class in terms of its meanings rather than in terms of its grammatical behaviour. In languages of Type A, there is an adjective class, i.e. a class of property terms whose grammatical behaviour is distinct from nouns or verbs. In languages of Type B, there is no such class. In languages of Type C, there is a closed class of property terms. Dixon does not discuss their grammatical behaviour in depth, and one can envisage several subtypes of Type C, depending on (i) whether the members of the closed class are adjectives (i.e. behave differently from nouns and verbs) or form a subclass of nouns or verbs, and (ii) whether the one or more open classes are subclasses of nouns and/or verbs. He indicates, however, that the closed class is more likely to grammatically resemble nouns than verbs (1982:56). As I indicated above, POc was evidently a Type C language where the closed class was indeed a subclass of noun, the open class a subclass of verb.
 
 
 <a id="p-195"></a>
-
-their grammatical behaviour in depth, and one can envisage several subtypes of Type C, depending on (i) whether the members of the closed class are adjectives (i.e. behave differently from nouns and verbs) or form a subclass of nouns or verbs, and (ii) whether the one or more open classes are subclasses of nouns and/or verbs. He indicates, however, that the closed class is more likely to grammatically resemble nouns than verbs (1982:56). As I indicated above, POc was evidently a Type C language where the closed class was indeed a subclass of noun, the open class a subclass of verb.
 
 One of Dixon’s central findings is that in a Type C language, the members of the closed class usually belong to the semantic domains of dimension, age, colour and value. However, the converse is usually not true: not all property terms in these domains are adjectives. Instead, there are semantic oppositions where one pole is denoted by an adjective, the other by a verbal form. Often, the verbal form denotes the outcome of an event (e.g. cooked) whereas the adjective denotes the state prior to such an event (e.g. raw).
 
@@ -39,15 +37,25 @@ Basically, POc property terms conformed to these generalisations ([Ross 1998a](.
 
 I have found twenty Oceanic languages which have a small property-term class for which a probably exhaustive list of underived members is available. The meanings represented in these small classes are listed below, together with the number of languages in whose small class each meaning is represented:
 
-```
-dimension               age              value                   strength/toughness
-‘big’        17         ‘new’ 9          ‘good’         5        ‘hard, strong’ 1
-‘small’      16         ‘old’ 6          ‘bad’          4        ‘soft’         1
-‘long, tall’ 6          ‘ripe’ 1         ‘true, real’   2
-‘short’       4                          ‘beautiful’    1
-‘thin’        1
-‘far’         1
-```
+- __dimension__
+- ‘big’        17
+- ‘small’      16
+- ‘long, tall’ 6
+- ‘short’       4
+- ‘thin’        1
+- ‘far’         1
+- __age__
+- ‘new’ 9
+- ‘old’ 6
+- ‘ripe’ 1
+- __value__
+- ‘good’         5
+- ‘bad’          4
+- ‘true, real’   2
+- ‘beautiful’    1
+- __strength/toughness__
+- ‘hard, strong’ 1
+- ‘soft’         1
 
 Except for one language (Sye) in which terms denoting strength/toughness belong to the small class, these meanings all fall into the domains of dimension, age and value.
 
@@ -80,15 +88,15 @@ Bauan                         levu                             lailai           
 
 <a id="p-196"></a>
 
-Although the same meanings occur in the small class across a number of languages, only for one of these, ‘new’, reflecting POc &ast;paqoRu (p.209), are the majority of the items cognate with each other. This means that the other meanings listed above, including ‘big’ and ‘small’, have remained in the small class in most of these languages, but that lexical replacement has occurred.
+Although the same meanings occur in the small class across a number of languages, only for one of these, ‘new’, reflecting POc _&ast;paqoRu_ (p.209), are the majority of the items cognate with each other. This means that the other meanings listed above, including ‘big’ and ‘small’, have remained in the small class in most of these languages, but that lexical replacement has occurred.
 
-The practical consequence of these observations is that, among underived property terms, only POc &ast;paqoRu ‘new’ can be assigned to the class of adjectival nouns on the basis of this list. However, there is morphological evidence, noted below, that POc &ast;lapuat ‘big’ (p.197), &ast;qitik/&ast;qitek ‘small’ and POc &ast;riki(t,q)/&ast;ri-riki(t,q) ‘small’ (p.200) were also adjectival nouns.
+The practical consequence of these observations is that, among underived property terms, only POc _&ast;paqoRu_ ‘new’ can be assigned to the class of adjectival nouns on the basis of this list. However, there is morphological evidence, noted below, that POc _&ast;lapuat_ ‘big’ (p.197),_ &ast;qitik_/_&ast;qitek_ ‘small’ and POc _&ast;riki(t,q)_/_&ast;ri-riki(t,q)_ ‘small’ (p.200) were also adjectival nouns.
 
 With other underived items, we encounter the problem noted in volume 1, p.35: it is often impossible to assign a POc reconstruction to the appropriate word class. But the situation is not all gloom in this regard. One indicator of the class of a property term is derivational morphology.
 
-Two morphemes occurred with some frequency in the derivation of these words, and others more rarely. The suffix &ast;-ka derived adjectival nouns, whilst the prefix &ast;ma- occurred in adjectival verbs. There is an important difference in the statuses of these affixes in POc, however. POc &ast;-ka was apparently a productive suffix ([Ross 2000](../references.md#source-Ross2000); see below, for example &ast;[tubu]tubu[-ka] ‘thick’ (p.208); &ast;rapu-ka ‘old’ (p.211); &ast;keja-ka ‘green’ (p.217)). PMP &ast;ma- was a prefix that derived stative verbs, often from abstract nouns, and occurred as a fossil in a number of POc adjectival verb forms ([Evans & Ross 2001](../references.md#source-EvansandRoss2001)),[^3] for example, POc &ast;mataq ‘raw’ (vol. 1, p.155), &ast;maosak ‘ready to be eaten’ (vol. 1, p.157), &ast;maqasin ‘be salty’ (vol. 1, p.159, this volume [Ch.3, §7.8](chapter3.md#s-7-8), and several below). In a good many cases, forms with and without &ast;ma- are reconstructable in POc, with no obvious difference in meaning (e.g. &ast;[ma]lago ‘long, tall’ (p.204); &ast;[ma]lawa ‘long, tall, far away’ (p.204); &ast;[ma]tuqa ‘ripe, mature, adult, old’ (p.211)).[^4]
+Two morphemes occurred with some frequency in the derivation of these words, and others more rarely. The suffix _&ast;-ka_ derived adjectival nouns, whilst the prefix _&ast;ma-_ occurred in adjectival verbs. There is an important difference in the statuses of these affixes in POc, however. POc _&ast;-ka_ was apparently a productive suffix ([Ross 2000](../references.md#source-Ross2000); see below, for example _&ast;[tubu]tubu[-ka]_ ‘thick’ (p.208); _&ast;rapu-ka_ ‘old’ (p.211); _&ast;keja-ka_ ‘green’ (p.217)). PMP _&ast;ma-_ was a prefix that derived stative verbs, often from abstract nouns, and occurred as a fossil in a number of POc adjectival verb forms ([Evans & Ross 2001](../references.md#source-EvansandRoss2001)),[^3] for example, POc _&ast;mataq_ ‘raw’ (vol. 1, p.155), _&ast;maosak_ ‘ready to be eaten’ (vol. 1, p.157), _&ast;maqasin_ ‘be salty’ (vol. 1, p.159, this volume [Ch.3, §7.8](chapter3.md#s-7-8), and several below). In a good many cases, forms with and without _&ast;ma-_ are reconstructable in POc, with no obvious difference in meaning (e.g. _&ast;[ma]lago_ ‘long, tall’ (p.204); _&ast;[ma]lawa_ ‘long, tall, far away’ (p.204); _&ast;[ma]tuqa_ ‘ripe, mature, adult, old’ (p.211)).[^4]
 
-More rarely occurring derivational morphemes are POc &ast;ka-, a fossilised alternant of &ast;ma-,[^5] ([Huang 2000](../references.md#source-Huang2000), Zeitoun & [Huang 2000](../references.md#source-Huang2000)); &ast;pa- and &ast;paka-, the productive POc causative prefixes (vol. 1, pp.26–27), which were also used to form adverbs; and POc &ast;ta-, which was productive and derived agentless statives from dynamic transitive verbs.
+More rarely occurring derivational morphemes are POc _&ast;ka-_, a fossilised alternant of _&ast;ma-_,[^5] ([Huang 2000](../references.md#source-Huang2000), Zeitoun & [Huang 2000](../references.md#source-Huang2000)); _&ast;pa-_ and _&ast;paka-_, the productive POc causative prefixes (vol. 1, pp.26–27), which were also used to form adverbs; and POc _&ast;ta-_, which was productive and derived agentless statives from dynamic transitive verbs.
 
 
 <a id="p-197"></a>
@@ -102,13 +110,13 @@ The remainder of this chapter is concerned with reconstructed forms for POc prop
 
 7.2.1 ‘big’/‘small’
 
-It was noted above that lexical replacement of terms for ‘big’ and ‘small’ is common, whilst ‘new’ has tended to remain constant since POc times. A moment’s reflection shows that this is also true in English, apparently because people tend to exaggerate size and to play word games with the terms for it. As well as big we find large, great, huge, gigantic, enormous, immense, colossal, mammoth, massive, prodigious and more recently ginormous and humungous. However, what seem to have been the basic POc terms are reconstructable. They are &ast;lapuat ‘big, large, important’, &ast;qitik, &ast;qitek ‘small’ and &ast;riki(t,q) ‘small’, and the circumstantial evidence presented above suggests that they were adjectival nouns. This inference is moderately supported in the case of &ast;lapuat by the presence of two reflexes of the reduplicated intensified form &ast;lap(u)-lapuat (Tigak lap- lavu, Marshallese lɯap-lɯap) and one of a reduplicated plural form &ast;la-lapuat (Marshallese lɯ-lɯap). Both reduplication strategies characterised adjectival nouns in POc ([Ross 1998a](../references.md#source-Ross1998a)).
+It was noted above that lexical replacement of terms for ‘big’ and ‘small’ is common, whilst ‘new’ has tended to remain constant since POc times. A moment’s reflection shows that this is also true in English, apparently because people tend to exaggerate size and to play word games with the terms for it. As well as _big_ we find _large_, _great_, _huge_, _gigantic_, _enormous_, _immense_, _colossal_, _mammoth_, _massive_, _prodigious_ and more recently _ginormous_ and _humungous_. However, what seem to have been the basic POc terms are reconstructable. They are _&ast;lapuat_ ‘big, large, important’, _&ast;qitik_, _&ast;qitek_ ‘small’ and _&ast;riki(t,q)_ ‘small’, and the circumstantial evidence presented above suggests that they were adjectival nouns. This inference is moderately supported in the case of _&ast;lapuat_ by the presence of two reflexes of the reduplicated intensified form _&ast;lap(u)-lapuat_ (Tigak _lap-lavu_, Marshallese _lɯap-lɯap_) and one of a reduplicated plural form _&ast;la-lapuat_ (Marshallese _lɯ-lɯap_). Both reduplication strategies characterised adjectival nouns in POc ([Ross 1998a](../references.md#source-Ross1998a)).
 
-Elsewhere I have reconstructed the term for ‘big’ as &ast;labwat ([Ross 1998a](../references.md#source-Ross1998a):109), as the medial consonant in many of the forms below seems to reflect either &ast;b or &ast;bw. The Loniu and SV forms offer apparent disambiguation in favour of &ast;bw. Whilst &ast;labwat must have occurred in the history of many of the forms below, it is not reflected by the Roviana, Hoava, SES, Mota or Raga forms, where the medial consonant appears to reflect &ast;p The form &ast;lapuat accounts for apparent reflexes of both &ast;-bw- and &ast;-p-. The forms which appear to reflect &ast;-p- do just that. Moreover, Tigak lavu, West Kara labu, Raga lavoa and Bauan levu directly reflect medial &ast;-pu-.[^6] The forms which appear to reflect &ast;-bw- also do just that, but this &ast;-bw- reflects a later interstage: POc medial &ast;-pua- became first &ast;-pwa-, then &ast;-bwa-.
+Elsewhere I have reconstructed the term for ‘big’ as &ast;labʷat ([Ross 1998a](../references.md#source-Ross1998a):109), as the medial consonant in many of the forms below seems to reflect either _&ast;b_ or _&ast;bʷ_. The Loniu and SV forms offer apparent disambiguation in favour of _&ast;bʷ_. Whilst _&ast;labʷat_ must have occurred in the history of many of the forms below, it is not reflected by the Roviana, Hoava, SES, Mota or Raga forms, where the medial consonant appears to reflect _&ast;p_ The form _&ast;lapuat_ accounts for apparent reflexes of both _&ast;-bʷ-_ and _&ast;-p-_. The forms which appear to reflect _&ast;-p-_ do just that. Moreover, Tigak _lavu_, West Kara _labu_, Raga _lavoa_ and Bauan levu directly reflect medial _&ast;-pu-_.[^6] The forms which appear to reflect _&ast;-bʷ-_ also do just that, but this _&ast;-bʷ-_ reflects a later interstage: POc medial _&ast;-pua-_ became first _&ast;-pʷa-_, then _&ast;-bʷa-_.
 
-The sound changes in the paragraph above remain tentative, as there are few cases to compare this cognate set with. However, the least obvious step proposed above is that &ast;-bwa- developed from &ast;-pwa-, and there is reasonably good evidence for the step from &ast;pw to &ast;bw (vol. 1, p.16).
+The sound changes in the paragraph above remain tentative, as there are few cases to compare this cognate set with. However, the least obvious step proposed above is that _&ast;-bʷa-_ developed from _&ast;-pʷa-_, and there is reasonably good evidence for the step from _&ast;pʷ_ to _&ast;bʷ_ (vol. 1, p.16).
 
-The Mapos Buang and Mumeng Patep forms may be non-cognate, as their final -k reflects POc &ast;-R, &ast;-k or &ast;-q.
+The Mapos Buang and Mumeng Patep forms may be non-cognate, as their final -k reflects POc _&ast;-R_, _&ast;-k_ or _&ast;-q_.
 
 <table>
 <tr>
@@ -308,12 +316,12 @@ cf. also:
 
 <a id="p-198"></a>
 
-Inherited POc terms for ‘small’ were &ast;qitik, with a variant &ast;qitek, and &ast;riki(t,q)/&ast;ri- riki(t,q). There is reasonable evidence in the cognate set below that POc &ast;ri-riki(t,q) was a plural form. Since reduplication of the kind reflected in POc &ast;ri-riki(t,q) was one of the ways in which POc plural adjectival nouns were marked ([Ross 1998a](../references.md#source-Ross1998a)),we can infer that POc &ast;riki(t,q) was singular. In a number of languages which reflect &ast;ri-riki(t,q), however, there is a suppletive singular form (another indicator that this was an adjectival noun, not an adjectival verb; [Ross 1998a](../references.md#source-Ross1998a)).
+Inherited POc terms for ‘small’ were _&ast;qitik_, with a variant _&ast;qitek_, and _&ast;riki(t,q)_/_&ast;ri-riki(t,q)_. There is reasonable evidence in the cognate set below that POc _&ast;ri-riki(t,q)_ was a plural form. Since reduplication of the kind reflected in POc _&ast;ri-riki(t,q)_ was one of the ways in which POc plural adjectival nouns were marked ([Ross 1998a](../references.md#source-Ross1998a)),we can infer that POc _&ast;riki(t,q)_ was singular. In a number of languages which reflect _&ast;ri-riki(t,q)_, however, there is a suppletive singular form (another indicator that this was an adjectival noun, not an adjectival verb; [Ross 1998a](../references.md#source-Ross1998a)).
 
 
 <a id="p-199"></a>
 
-In Proto Polynesian, &ast;riki (reflecting POc &ast;riki(t,q)) had become plural, contrasting with PPn &ast;qiti ‘small (SG)’ (from POc &ast;qitik), but there is no evidence that this had occurred at an earlier interstage. This contrast is reflected in the following compounds, which reflect PPn &ast;tama ‘child’ (from POc &ast;tama- ‘father’):
+In Proto Polynesian, _&ast;riki_ (reflecting POc _&ast;riki(t,q)_) had become plural, contrasting with PPn _&ast;qiti_ ‘small (SG)’ (from POc _&ast;qitik_), but there is no evidence that this had occurred at an earlier interstage. This contrast is reflected in the following compounds, which reflect PPn _&ast;tama_ ‘child’ (from POc _&ast;tama-_ ‘father’):
 
 ```
 PPn                      &ast;tama-qiti                 &ast;tama-riki
@@ -327,9 +335,9 @@ Rarorongan               tama-iti                   tama-riki
 Maori                    tama-iti                   tama-riki
 ```
 
-The reconstruction of PPn &ast;riki is complicated by the fact that Tongan has two forms: iki, reflecting &ast;riki, and liki, which occurs only in compounds. The latter may be a borrowing. On the other hand, it may reflect the separately reconstructable form POc &ast;liki (see below). If it does, then we are left with the possibility that some of the Polynesian forms here attributed to POc &ast;riki(t,q) instead reflect POc &ast;liki, as POc &ast;r and &ast;l have merged in all Polynesian languages other than Tongan and Niuean.
+The reconstruction of PPn _&ast;riki_ is complicated by the fact that Tongan has two forms: _iki_, reflecting _&ast;riki_, and _liki_, which occurs only in compounds. The latter may be a borrowing. On the other hand, it may reflect the separately reconstructable form POc _&ast;liki_ (see below). If it does, then we are left with the possibility that some of the Polynesian forms here attributed to POc _&ast;riki(t,q)_ instead reflect POc _&ast;liki_, as POc _&ast;r_ and _&ast;l_ have merged in all Polynesian languages other than Tongan and Niuean.
 
-Also apparently reconstructable are &ast;drik(i), &ast;liki, &ast;siki and &ast;kiki. Despite their similarity, there is no point in trying to derive these from each other. Rather, the human affection for small creatures, and prototypically for babies, has resulted in the same kind of word play among Oceanic speakers as we hear in English tiny, teeny, teeny-weeny and wee. If we ignore the criteria for reconstructing POc items and look for further candidates for word-play, we find for example siʔi ‘small, younger’ in Tongan, sisi in Futuna-Aniwa (Polynesian), and a long list in Puluwatese: kitikit, iyekkit, kikkit, lekit, rik, rirrik, mettik, rarikrik. It may well be, for example, that the items listed under &ast;kiki are not due to shared inheritance but to independent parallel word play. It also seems, despite the doubts that have been expressed about this kind of sound symbolism (Hinton, Nichols & Ohala 1994:4), that Oceanic speakers have a preference for the high front vowel in terms for ‘little’, a phenomenon which is common in other areas of the world too ([Ultan 1978](../references.md#source-Ultan1978)).
+Also apparently reconstructable are _&ast;drik(i)_, _&ast;liki_, _&ast;siki_ and _&ast;kiki_. Despite their similarity, there is no point in trying to derive these from each other. Rather, the human affection for small creatures, and prototypically for babies, has resulted in the same kind of word play among Oceanic speakers as we hear in English _tiny_, _teeny_, _teeny-weeny_ and _wee_. If we ignore the criteria for reconstructing POc items and look for further candidates for word-play, we find for example _siʔi_ ‘small, younger’ in Tongan, _sisi_ in Futuna-Aniwa (Polynesian), and a long list in Puluwatese: _kitikit_, _iyekkit_, _kikkit_, _lekit_, _rik_, _rirrik_, _mettik_, _rarikrik_. It may well be, for example, that the items listed under _&ast;kiki_ are not due to shared inheritance but to independent parallel word play. It also seems, despite the doubts that have been expressed about this kind of sound symbolism (Hinton, Nichols & Ohala 1994:4), that Oceanic speakers have a preference for the high front vowel in terms for ‘little’, a phenomenon which is common in other areas of the world too ([Ultan 1978](../references.md#source-Ultan1978)).
 
 <table>
 <tr>
@@ -469,7 +477,7 @@ Also apparently reconstructable are &ast;drik(i), &ast;liki, &ast;siki and &ast;
 <tr>
 <td>MM</td><td>Bali</td><td><i>(ma)ri-(ma)riki</i></td>
 <td>
-'<span>small (PL)</span>' (<span>cf. kakauku SG</span>)</td>
+'<span>small (PL)</span>' (<span>cf. <em>kakauku</em> SG</span>)</td>
 </tr>
 <tr>
 <td>NCV</td><td>Mota</td><td><i>-rig</i></td>
@@ -479,7 +487,7 @@ Also apparently reconstructable are &ast;drik(i), &ast;liki, &ast;siki and &ast;
 <tr>
 <td>NCV</td><td>Tamambo</td><td><i>(wa)ri-riɣi</i></td>
 <td>
-'<span>small (PL)</span>' (<span>cf. vorivori SG</span>)</td>
+'<span>small (PL)</span>' (<span>cf. <em>vorivori</em> SG</span>)</td>
 </tr>
 <tr>
 <td>NCV</td><td>Raga</td><td><i>-rigi</i></td>
@@ -489,7 +497,7 @@ Also apparently reconstructable are &ast;drik(i), &ast;liki, &ast;siki and &ast;
 <tr>
 <td>Fij</td><td>Rotuman</td><td><i>ri-riʔi</i></td>
 <td>
-'<span>small, young (PL)</span>' (<span>cf. meʔa-meʔa SG</span>)</td>
+'<span>small, young (PL)</span>' (<span>cf. <em>meʔa-meʔa</em> SG</span>)</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>iki</i></td>
@@ -544,7 +552,7 @@ Also apparently reconstructable are &ast;drik(i), &ast;liki, &ast;siki and &ast;
 <tr>
 <td>Pn</td><td>Tahitian</td><td><i>riʔi</i></td>
 <td>
-'<span>small (PL)</span>' (<span>cf. iti SG</span>)</td>
+'<span>small (PL)</span>' (<span>cf. <em>iti</em> SG</span>)</td>
 </tr>
 <tr>
 <td>Pn</td><td>Rarotongan</td><td><i>riki</i></td>
@@ -569,7 +577,7 @@ Also apparently reconstructable are &ast;drik(i), &ast;liki, &ast;siki and &ast;
 <tr>
 <td>Pn</td><td>West Futunan</td><td><i>rik-riki</i></td>
 <td>
-'<span>small (PL)</span>' (<span>cf. sisi SG</span>)</td>
+'<span>small (PL)</span>' (<span>cf. <em>sisi</em> SG</span>)</td>
 </tr>
 </table>
 
@@ -871,28 +879,29 @@ There is good evidence that POc had at least two lexicalised possessee-like attr
 
 <a id="p-202"></a>
 
-These attributes turn up in odd lexicalised expressions, for example, Motu (PT) sina-vai ‘river’ (literally ‘mother of waters’ ([Ch.3, §6.1](chapter3.md#s-6-1))); Gedaged boi tinan ‘Morning Star’ (literally ‘mother of stars’ ([Ch.6, §5.2.1](chapter6.md#s-5-2))).
+These attributes turn up in odd lexicalised expressions, for example, Motu (PT) _sina-vai_ ‘river’ (literally ‘mother of waters’ ([Ch.3, §6.1](chapter3.md#s-6-1))); Gedaged _boi tinan_ ‘Morning Star’ (literally ‘mother of stars’ ([Ch.6, §5.2.1](chapter6.md#s-5-2))).
 
 The reconstructable POc possessive construction was probably as follows:[^9]
 
 ```
-&ast;a     tina-ña         Rumaq
+&ast;a  tina-ña     Rumaq
 ART mother-P:3S house
 ‘a/the big house’ (more literally: ‘a/the mother of house(s)’)
 ```
 
-This seems to have remained a live metaphor for a long time (and is perhaps still alive in some Oceanic languages). Evidence for this is that where the reflex of &ast;tina- or &ast;natu- has been replaced in a language, this construction often shares in the lexical replacement. Thus in Lewo ([Early 1994a](../references.md#source-Early1994a)), the term for ‘little’/‘child’ still reflects &ast;natu-ña, but the term for ‘very big’/‘mother’ has undergone lexical replacement: Lewo (NCV):
+This seems to have remained a live metaphor for a long time (and is perhaps still alive in some Oceanic languages). Evidence for this is that where the reflex of _&ast;tina-_ or _&ast;natu-_ has been replaced in a language, this construction often shares in the lexical replacement. Thus in Lewo ([Early 1994a](../references.md#source-Early1994a)), the term for ‘little’/‘child’ still reflects _&ast;natu-ña_, but the term for ‘very big’/‘mother’ has undergone lexical replacement:
 
 ```
-a. nari-n         sisi
+Lewo (NCV):
+a. nari-n      sisi
 offspring-n child
 ‘a little kid’ (more literally ‘the offspring of children’)
-b. ane-n     laŋi
+b. ane-n    laŋi
 mother-n wind
 ‘an immensely powerful hurricane’ (more literally ‘the mother of winds’)
 ```
 
-Similarly in Tinrin (New Caledonia) hɯwɯ[n̡ã] is both ‘small’ and ‘child of, sprout of’.
+Similarly in Tinrin (New Caledonia) _hɯwɯ[n̡ã]_ is both ‘small’ and ‘child of, sprout of’.
 
 [Matisoff](../references.md#source-Matisoff1992) ([1992](../references.md#source-Matisoff1992)) has examined ‘mother of’ and ‘child of’ constructions which serve as augmentatives and diminutives in a range of Asian languages. Interestingly, whilst he reports a number of cases where ‘mother of’ and ‘child of’ are lexicalised in collocations where they mean something like ‘the most important’ and ‘a component/member of’, in none of these cases do ‘mother of’ and ‘child of’ seem to have been lexicalised as independent lexemes meaning ‘large’ and ‘small’.
 
@@ -903,30 +912,28 @@ Similarly in Tinrin (New Caledonia) hɯwɯ[n̡ã] is both ‘small’ and ‘chi
 
 English (and other European languages) have several antonym pairs denoting dimensions. Tall refers to the longitudinal dimension of a vertically oriented object, long to the longitudinal dimension of a horizontally oriented object. Short is the antonym of both tall and long. Wide and narrow refer to the transverse dimension of a flat object, thick and thin to the transverse dimension of an object which is not flat. Far and near(by) refer to distances, not to objects.
 
-POc evidently made no horizontal/vertical distinction, so that &ast;b(w)arapu, &ast;[ma]lago and &ast;[ma]lawa were used for ‘tall’ and ‘long’, and the two latter items evidently also for ‘far’ ([§2.2.1](#s-2-2)). There are fewer reflexes of &ast;tuku and &ast;botoŋ ‘short’, so it is harder to know just how they were used ([§2.2.2](#s-2-2)).
+POc evidently made no horizontal/vertical distinction, so that _&ast;b(w)arapu_, _&ast;[ma]lago_ and _&ast;[ma]lawa_ were used for ‘tall’ and ‘long’, and the two latter items evidently also for ‘far’ ([§2.2.1](#s-2-2)). There are fewer reflexes of _&ast;tuku_ and _&ast;botoŋ_ ‘short’, so it is harder to know just how they were used ([§2.2.2](#s-2-2)).
 
-On the surface there appear to have been no POc etyma with the basic meanings ‘wide’ and ‘narrow’. However, it is just possible that &ast;[ma]lawa simply denoted a large dimension, regardless of whether it was longitudinal (‘long’) or transverse (‘wide’). The
+On the surface there appear to have been no POc etyma with the basic meanings ‘wide’ and ‘narrow’. However, it is just possible that _&ast;[ma]lawa_ simply denoted a large dimension, regardless of whether it was longitudinal (‘long’) or transverse (‘wide’). The evidence for this is indirect. POc _&ast;[ma]lawa_ ‘long, tall’ continues PMP _&ast;lawa_, glossed ‘wide’, but a number of non-Oceanic reflexes also mean long: Malagasy _lava_, Manggarai _lewe_, Ngadha _leva_, and Palue _lawa_ all mean ‘long’. Fordata _lawa_ is glossed ‘length’ (ACD). It therefore seems likely that PMP _&ast;lawa_ also meant ‘long’, and possible that POc _&ast;[ma]lawa_ meant both ‘wide’ and ‘long’.
 
 
 <a id="p-203"></a>
 
-evidence for this is indirect. POc &ast;[ma]lawa ‘long, tall’ continues PMP &ast;lawa, glossed ‘wide’, but a number of non-Oceanic reflexes also mean long: Malagasy lava, Manggarai lewe, Ngadha leva, and Palue lawa all mean ‘long’. Fordata lawa is glossed ‘length’ (ACD). It therefore seems likely that PMP &ast;lawa also meant ‘long’, and possible that POc &ast;[ma]lawa meant both ‘wide’ and ‘long’.
+In a number of daughter languages reflexes of POc _&ast;ta-pola(s)_ ‘spread out (as of a mat)’ (derivationally related to _&ast;polas-i-_ ‘spread (s.t.) out (VT)’; see p.208) are by extension used to mean ‘wide’ ([§2.2.4](#s-2-2)). In some Western Oceanic languages a reflex of _&ast;baban_ ‘flat; board, plank, canoe strake; flat shelf of rock’ is used for ‘wide’, but this is by extension from ‘flat’. Fijian _raba_ ‘wide, broad’ reflects POc _&ast;raba(r)_, the basic meaning of which was also ‘flat, level’. Terms for ‘flat’ are covered in [§5.1](#s-5-1). No POc term for ‘narrow’ is reconstructable. Most modern languages use the terms for ‘big’ and ‘small’ with reference to the width of a path or a beach, and I infer that the same was true of POc.
 
-In a number of daughter languages reflexes of POc &ast;ta-pola(s) ‘spread out (as of a mat)’ (derivationally related to &ast;polas-i- ‘spread (s.t.) out (VT)’; see p.208) are by extension used to mean ‘wide’ ([§2.2.4](#s-2-2)). In some Western Oceanic languages a reflex of &ast;baban ‘flat; board, plank, canoe strake; flat shelf of rock’ is used for ‘wide’, but this is by extension from ‘flat’. Fijian raba ‘wide, broad’ reflects POc &ast;raba(r), the basic meaning of which was also ‘flat, level’. Terms for ‘flat’ are covered in [§5.1](#s-5-1). No POc term for ‘narrow’ is reconstructable. Most modern languages use the terms for ‘big’ and ‘small’ with reference to the width of a path or a beach, and I infer that the same was true of POc.
-
-POc terms for ‘thick’ were POc &ast;ma-tolu, &ast;kuba and &ast;[tubu-]tubu(-ka), for ‘thin’ &ast;manipis and &ast;ma-tipi(s) ([§2.2.5](#s-2-2)).
+POc terms for ‘thick’ were POc _&ast;ma-tolu_, _&ast;kuba_ and _&ast;[tubu-]tubu(-ka)_, for ‘thin’ _&ast;manipis_ and _&ast;ma-tipi(s)_ ([§2.2.5](#s-2-2)).
 
 7.2.2.1 ‘tall’, ‘long’
 
-Of the three terms for ‘tall’ and ‘long’, &ast;b(w)arapu is underived and its Tamambo, Cèmuhî, and Bauan reflexes belong to the small closed adjectival class in their respective languages, so it is possible that &ast;b(w)arapu belonged to the small class of adjectival nouns.
+Of the three terms for ‘tall’ and ‘long’, _&ast;(b,bʷ)arapu_ is underived and its Tamambo, Cèmuhî, and Bauan reflexes belong to the small closed adjectival class in their respective languages, so it is possible that _&ast;(b,bʷ)arapu_ belonged to the small class of adjectival nouns.
 
-The other two terms, &ast;[ma]lago and &ast;[ma]lawa, clearly are derived. The final &ast;-a of &ast;[ma]lawa is reconstructed on the basis of the non-Oceanic evidence. A number of Western Oceanic languages (Lou, Titan, Nyindrou, Bing, Takia, Kayupulau, Gumawana, Torau) appear to reflect a final &ast;-e. We can posit two possible sources of this, although neither reflects a regular process. The first is that in many Western Oceanic languages, an adjective takes a reflex of the third person possessor suffix &ast;-ña either by default or when it agrees with a singular head noun. The palatal nasal &ast;-ñ- may have caused the &ast;-a- of &ast;[ma]lawa-ña to be raised to &ast;-e- in &ast;[ma]lawe-ña. This is a reasonable interpretation of the Lou, Titan, Takia, Gumawana and Torau reflexes. Alternatively, in many Western Oceanic languages of the NNG and PT linkages, there is a locative postposition -i or -ai (relecting the POc locative proform &ast;iai), and forms like Sio malawa-e and Bing malwe-i suggest that some instances of -e may reflect final &ast;-a-i resulting from its capture.
+The other two terms, _&ast;[ma]lago_ and _&ast;[ma]lawa_, clearly are derived. The final _&ast;-a_ of _&ast;[ma]lawa_ is reconstructed on the basis of the non-Oceanic evidence. A number of Western Oceanic languages (Lou, Titan, Nyindrou, Bing, Takia, Kayupulau, Gumawana, Torau) appear to reflect a final _&ast;-e_. We can posit two possible sources of this, although neither reflects a regular process. The first is that in many Western Oceanic languages, an adjective takes a reflex of the third person possessor suffix _&ast;-ña_ either by default or when it agrees with a singular head noun. The palatal nasal _&ast;-ñ-_ may have caused the _&ast;-a-_ of _&ast;[ma]lawa-ña_ to be raised to _&ast;-e-_ in _&ast;[ma]lawe-ña_. This is a reasonable interpretation of the Lou, Titan, Takia, Gumawana and Torau reflexes. Alternatively, in many Western Oceanic languages of the NNG and PT linkages, there is a locative postposition _-i_ or _-ai_ (relecting the POc locative proform _&ast;iai_), and forms like Sio _malawa-e_ and Bing _malwe-i_ suggest that some instances of _-e_ may reflect final _&ast;-a-i_ resulting from its capture.
 
 <table>
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
-<i>&ast;b(w)arapu</i>
+<i>&ast;(b,bʷ)arapu</i>
 </td>
 <td>
 '<span>long, tall</span>'</td>
@@ -967,7 +974,7 @@ The other two terms, &ast;[ma]lago and &ast;[ma]lawa, clearly are derived. The f
 '<span>long</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Ambae</td><td><i>gwaravu</i></td>
+<td>NCV</td><td>Ambae</td><td><i>gʷaravu</i></td>
 <td>
 '<span>long</span>'</td>
 </tr>
@@ -989,7 +996,7 @@ The other two terms, &ast;[ma]lago and &ast;[ma]lawa, clearly are derived. The f
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>balavu</i></td>
 <td>
-'<span>long, tall</span>' (<span>l for expected *r</span>)</td>
+'<span>long, tall</span>' (<span><em>l</em> for expected <em>*r</em></span>)</td>
 </tr>
 </table>
 
@@ -1193,7 +1200,7 @@ The other two terms, &ast;[ma]lago and &ast;[ma]lawa, clearly are derived. The f
 
 7.2.2.2 ‘short’
 
-Two terms for ‘short’ are reconstructed. All the supporting data for &ast;tuku are from Western Oceanic languages except for Mussau tuku. In the unlikely event that the latter were a borrowing, &ast;tuku would then be of Proto Western Oceanic, rather than of POc, vintage.
+Two terms for ‘short’ are reconstructed. All the supporting data for _&ast;tuku_ are from Western Oceanic languages except for Mussau _tuku_. In the unlikely event that the latter were a borrowing, _&ast;tuku_ would then be of Proto Western Oceanic, rather than of POc, vintage.
 
 
 <a id="p-205"></a>
@@ -1301,9 +1308,9 @@ Two terms for ‘short’ are reconstructed. All the supporting data for &ast;tu
 
 7.2.2.3 ‘far’/‘near’
 
-There is a tendency to replace terms denoting ‘far’ and ‘near’ with something more specific, so that instead of generic ‘far’ we get ‘beyond the horizon’ or ‘a long path’. Indeed, from the vantage point of a smaller island, ‘far away’ inevitably entails ‘beyond the horizon’. The hypothesis that ‘far away’ was sometimes replaced by ‘a long path’ receives some support from the fact that reflexes of POc &ast;[ma]lago ‘long, tall’ and POc &ast;[ma]lawa ‘long, tall’ (p.204) are sometimes used in the sense of ‘far away’.
+There is a tendency to replace terms denoting ‘far’ and ‘near’ with something more specific, so that instead of generic ‘far’ we get ‘beyond the horizon’ or ‘a long path’. Indeed, from the vantage point of a smaller island, ‘far away’ inevitably entails ‘beyond the horizon’. The hypothesis that ‘far away’ was sometimes replaced by ‘a long path’ receives some support from the fact that reflexes of POc _&ast;[ma]lago_ ‘long, tall’ and POc _&ast;[ma]lawa_ ‘long, tall’ (p.204) are sometimes used in the sense of ‘far away’.
 
-A POc verbal root &ast;sauq (V) ‘be far away’ is reconstructable.
+A POc verbal root _&ast;sauq_ (V) ‘be far away’ is reconstructable.
 
 <table>
 <tr>
@@ -1522,7 +1529,7 @@ A POc verbal root &ast;sauq (V) ‘be far away’ is reconstructable.
 
 
 
-In Ysabel (MM) languages, POc &ast;sauq is reflected with the reciprocal prefix &ast;paRi-, as in Kia (vari)hau ‘far’ and Laghu (vari)hau ‘far’. I take it that the sense was formerly ‘far from each other’. In Southeast Solomonic languages it occurs with reflexes of the POc causative &ast;pa- or &ast;paka-, also used to form adverbs, and I assume this is the function of the prefix here:
+In Ysabel (MM) languages, POc _&ast;sauq_ is reflected with the reciprocal prefix _&ast;paRi-_, as in Kia _(vari)hau_ ‘far’ and Laghu _(vari)hau_ ‘far’. I take it that the sense was formerly ‘far from each other’. In Southeast Solomonic languages it occurs with reflexes of the POc causative _&ast;pa-_ or _&ast;paka-_, also used to form adverbs, and I assume this is the function of the prefix here:
 
 ```
 SES: W Guad.            (va)sau          ‘far’
@@ -1531,12 +1538,12 @@ SES: Arosi              (haʔa)tau        ‘far’
 SES: Bauro              (haɣa)tau        ‘far’
 ```
 
-The POc antonym of &ast;sauq ‘be far away’ was the root &ast;raŋi ‘be near’. However, &ast;raŋi is not reflected without verb-deriving prefixes and is thus not reconstructable alone in POc. Most commonly it is reflected with &ast;ga-, a prefix that I do not recognise: it may be a variant of &ast;ka-, which also occurs with &ast;raŋi.
+The POc antonym of _&ast;sauq_ ‘be far away’ was the root _&ast;raŋi_ ‘be near’. However, _&ast;raŋi_ is not reflected without verb-deriving prefixes and is thus not reconstructable alone in POc. Most commonly it is reflected with _&ast;ga-_, a prefix that I do not recognise: it may be a variant of _&ast;ka-_, which also occurs with _&ast;raŋi_.
 
 
 <a id="p-207"></a>
 
-POc &ast;raŋi appears to be descended from PMP &ast;dani. The replacement of &ast;-n- by &ast;-ŋ- evidently occurred earlier than POc, as we find Buru (Central Malayo-Polynesian) b-raŋi-n (ADV) ‘near’.
+POc _&ast;raŋi_ appears to be descended from PMP _&ast;dani_. The replacement of _&ast;-n-_ by _&ast;-ŋ-_ evidently occurred earlier than POc, as we find Buru (Central Malayo-Polynesian) _b-raŋi-n_ (ADV) ‘near’.
 
 <table>
 <tr>
@@ -1780,11 +1787,11 @@ There was also a POc term &ast;tata ‘near’, perhaps an adverb:
 
 <a id="p-208"></a>
 
-This term is related derivationally to POc &ast;polas, &ast;polas-i- ‘spread (s.t.) out’, reflected in (NCV) Tamambo vuolasi ‘spread (mat)’, Paamese hoosi ‘lay out (mat)’ and in (Pn) Tongan and Samoan fola ‘spread’ and Tongarevan ho-hora ‘spread out; wide open’. It is probable that -pola in Poeng sasapola is derived independently from a reflex of POc &ast;polas. If so, then &ast;ta-pola(s) is reconstructable only in PEOc.
+This term is related derivationally to POc _&ast;polas_, _&ast;polas-i-_ ‘spread (s.t.) out’, reflected in (NCV) Tamambo _vuolasi_ ‘spread (mat)’, Paamese _hoosi_ ‘lay out (mat)’ and in (Pn) Tongan and Samoan _fola_ ‘spread’ and Tongarevan _ho-hora_ ‘spread out; wide open’. It is probable that _-pola_ in Poeng _sasapola_ is derived independently from a reflex of POc _&ast;polas_. If so, then _&ast;ta-pola(s)_ is reconstructable only in PEOc.
 
 7.2.2.5 ‘thick’/‘thin’
 
-Three forms can be reconstructed for ‘thick’. The third, &ast;[tubu]tubu[-ka], is derived from &ast;tubuq ‘grow’.
+Three forms can be reconstructed for ‘thick’. The third, _&ast;[tubu]tubu[-ka]_, is derived from _&ast;tubuq_ ‘grow’.
 
 <table>
 <tr>
@@ -1935,7 +1942,7 @@ Three forms can be reconstructed for ‘thick’. The third, &ast;[tubu]tubu[-ka
 
 <a id="p-209"></a>
 
-Two formally related terms are reconstructable for ‘thin’: &ast;ma-tipi(s) and &ast;manipis. Although at first sight they look like forms derived with PMP &ast;ma- and &ast;maN- respectively, &ast;manipis has cognates in Taiwan, reflecting PAn &ast;maLipis. The prefix &ast;maN- in any case dates only from PMP, and so cannot be reflected in &ast;manipis. Instead, the two forms evidently reflect the same PAn monosyllabic root &ast;-pis ‘thin, tenuous, fine’ ([Blust 1988](../references.md#source-Blust1988); see vol. 1, pp.27–28) and presumably differed in meaning by some subtlety which is not clear from their reflexes.
+Two formally related terms are reconstructable for ‘thin’: _&ast;ma-tipi(s)_ and _&ast;manipis_. Although at first sight they look like forms derived with PMP _&ast;ma-_ and _&ast;maN-_ respectively, _&ast;manipis_ has cognates in Taiwan, reflecting PAn _&ast;maLipis_. The prefix _&ast;maN-_ in any case dates only from PMP, and so cannot be reflected in _&ast;manipis_. Instead, the two forms evidently reflect the same PAn monosyllabic root _&ast;-pis_ ‘thin, tenuous, fine’ ([Blust 1988](../references.md#source-Blust1988); see vol. 1, pp.27–28) and presumably differed in meaning by some subtlety which is not clear from their reflexes.
 
 <table>
 <tr>
@@ -2074,7 +2081,7 @@ Two formally related terms are reconstructable for ‘thin’: &ast;ma-tipi(s) a
 ## 3. Age
 
 
-Two POc terms for ‘new’ can be reconstructed: the adjectival noun &ast;paqoRu, which was also applied to animate beings in the sense of ‘young’ ([Pawley 1982b](../references.md#source-Pawley1982b)), and &ast;ka(l,r)abwa, which has fewer reflexes, but as these occur in both MM and NCV languages, it must be reconstructed as POc. Meso-Melanesian reflexes of the latter reflect &ast;-l-, North and Central Vanuatu reflexes reflect &ast;-r-.
+Two POc terms for ‘new’ can be reconstructed: the adjectival noun _&ast;paqoRu_, which was also applied to animate beings in the sense of ‘young’ ([Pawley 1982b](../references.md#source-Pawley1982b)), and _&ast;ka(l,r)abwa_, which has fewer reflexes, but as these occur in both MM and NCV languages, it must be reconstructed as POc. Meso-Melanesian reflexes of the latter reflect _&ast;-l-_, North and Central Vanuatu reflexes reflect _&ast;-r-_.
 
 
 <a id="p-210"></a>
@@ -2340,11 +2347,11 @@ Two POc terms for ‘new’ can be reconstructed: the adjectival noun &ast;paqoR
 
 
 
-The antonym of &ast;paqoRu ‘new, young’ was evidently &ast;[ma]tuqa ‘ripe, mature, adult, old’. A difficulty in reconstructing this term is its formal and semantic similarity to POc &ast;matuqu ‘coconut growth stage: ripe, brown but has not fallen yet’ ([Ross 1996d](../references.md#source-Ross1996d)). It is sometimes quite difficult to determine which of the two reconstructions a reflex like, for example, Sursurunga matuk ‘ripe, well-developed, ready to harvest’ should be assigned to, and I suspect that reflexes of the two items have been conflated in some languages.
+The antonym of _&ast;paqoRu_ ‘new, young’ was evidently _&ast;[ma]tuqa_ ‘ripe, mature, adult, old’. A difficulty in reconstructing this term is its formal and semantic similarity to POc _&ast;matuqu_ ‘coconut growth stage: ripe, brown but has not fallen yet’ ([Ross 1996d](../references.md#source-Ross1996d)). It is sometimes quite difficult to determine which of the two reconstructions a reflex like, for example, Sursurunga _matuk_ ‘ripe, well-developed, ready to harvest’ should be assigned to, and I suspect that reflexes of the two items have been conflated in some languages.
 
-It is hard to avoid the conclusion that &ast;tuqaRi ‘(be) long ago; take a long time, old (of inanimates)’ is historically related to &ast;[ma]tuqa. If, as seems likely, Proto Buang &ast;tkwi ‘old’ (Patep tkwe, Kapin takwi) reflects &ast;tuqaRi, then it provides evidence for the putative &ast;-q-. However, I do not know where final &ast;-Ri comes from. There are signs that &ast;[ma]tuqa and &ast;tuqaRi may occasionally have been conflated: a putative &ast;ma-tuqaRi seems to be reflected in Gapapaiwa maturi and Tubetube matuli where &ast;[ma]tuqa is expected, and in Tabar ma-cari where &ast;tuqaRi is expected.
+It is hard to avoid the conclusion that _&ast;tuqaRi_ ‘(be) long ago; take a long time, old (of inanimates)’ is historically related to _&ast;[ma]tuqa_. If, as seems likely, Proto Buang _&ast;tkʷi_ ‘old’ (Patep _tkʷe_, Kapin _takʷi_) reflects _&ast;tuqaRi_, then it provides evidence for the putative _&ast;-q-_. However, I do not know where final _&ast;-Ri_ comes from. There are signs that _&ast;[ma]tuqa_ and _&ast;tuqaRi_ may occasionally have been conflated: a putative _&ast;ma-tuqaRi_ seems to be reflected in Gapapaiwa _maturi_ and Tubetube _matuli_ where _&ast;[ma]tuqa_ is expected, and in Tabar _ma-cari_ where _&ast;tuqaRi_ is expected.
 
-Whereas &ast;[ma]tuqa probably referred mainly to animates and to the vegetable world, &ast;rapu-ka (with adjectival-noun suffix &ast;-ka added to an unidentified root &ast;rapu) apparently modified nouns referring to lifeless objects.
+Whereas _&ast;[ma]tuqa_ probably referred mainly to animates and to the vegetable world, _&ast;rapu-ka_ (with adjectival-noun suffix _&ast;-ka_ added to an unidentified root _&ast;rapu_) apparently modified nouns referring to lifeless objects.
 
 <table>
 <tr>
@@ -2632,12 +2639,12 @@ Whereas &ast;[ma]tuqa probably referred mainly to animates and to the vegetable 
 ## 4. Colour
 
 
-Most reconstructable POc colour terms fall into two formal groups, adjectival verbs reflecting earlier &ast;ma- + ROOT and adjectival nouns with either a reduplicated root, ROOT + &ast;-ka, or both (see p.196).
+Most reconstructable POc colour terms fall into two formal groups, adjectival verbs reflecting earlier _&ast;ma-_ + ROOT and adjectival nouns with either a reduplicated root, ROOT + _&ast;-ka_, or both (see p.196).
 
 
 <a id="p-213"></a>
 
-PMP terms were of the form &ast;ma- + ROOT. Blust (ACD) concludes that PMP had a classic three-term colour system, i.e. terms for black, white and red. Other terms were derived from terms for natural objects or, in the case of ‘green’, unripeness (see vol. 1, p.155). The same comments evidently applied to POc. The three PMP terms were &ast;ma- qitem ‘black, dark in colour’, &ast;ma-iRaq ‘red’, and &ast;ma-putiq ‘white, light in colour’. The first two are continued in POc &ast;maqeto(m) and POc &ast;meRaq. Until recently, I thought that &ast;ma-putiq had been lost in POc and replaced by a plethora of terms, but two reflexes have been found.
+PMP terms were of the form _&ast;ma-_ + ROOT. Blust (ACD) concludes that PMP had a classic three-term colour system, i.e. terms for black, white and red. Other terms were derived from terms for natural objects or, in the case of ‘green’, unripeness (see vol. 1, p.155). The same comments evidently applied to POc. The three PMP terms were _&ast;ma-_ qitem ‘black, dark in colour’, _&ast;ma-iRaq_ ‘red’, and _&ast;ma-putiq_ ‘white, light in colour’. The first two are continued in POc _&ast;maqeto(m)_ and POc _&ast;meRaq_. Until recently, I thought that _&ast;ma-putiq_ had been lost in POc and replaced by a plethora of terms, but two reflexes have been found.
 
 <table>
 <tr>
@@ -2833,7 +2840,7 @@ PMP terms were of the form &ast;ma- + ROOT. Blust (ACD) concludes that PMP had a
 
 
 
-One colour term of the form &ast;ma- + ROOT has no known non-Oceanic cognates. In the southeast Solomons and Micronesia we find &ast;marawa ‘green’ competing with &ast;[ma]karawa, indicating that both are derived from a base &ast;rawa of unknown meaning.
+One colour term of the form _&ast;ma-_ + ROOT has no known non-Oceanic cognates. In the southeast Solomons and Micronesia we find _&ast;marawa_ ‘green’ competing with _&ast;[ma]karawa_, indicating that both are derived from a base _&ast;rawa_ of unknown meaning.
 
 <table>
 <tr>
@@ -2948,21 +2955,20 @@ One colour term of the form &ast;ma- + ROOT has no known non-Oceanic cognates. I
 
 ```
 Mussau (Adm):[^19]
-bo-boŋi-e-na          ‘black’                            bo      ‘night’
-rae-rae-a-na          ‘red’                              rae     ‘blood’
-usou-usou-e-na        ‘white’                            (no unreduplicated root)
-vero-veroŋ-a-na       ‘black’                            (no unreduplicated root)
-riu-riu-e-na          ‘thin (of animates’)               riu     ‘bone’
+bo-boŋi-e-na        ‘black’                         bo      ‘night’
+rae-rae-a-na        ‘red’                           rae     ‘blood’
+usou-usou-e-na      ‘white’                         (no unreduplicated root)
+vero-veroŋ-a-na     ‘black’                         (no unreduplicated root)
+riu-riu-e-na        ‘thin (of animates’)            riu     ‘bone’
 ```
 
 ```
 Kairiru (NNG):
-jir-jir               ‘black, dirty, old’                jir       ‘mangrove swamp’
-kiet-kiet             ‘black’                            kiet      ‘black paint’
-pun-pun               ‘white’                            pun       ‘pigeon’
-mera-mer              ‘red’                              mer       ‘red paint’
-yaŋ-yaŋ               ‘yellow’                           yaŋ       ‘yellow paint, white or yellow
-skinned people’
+jir-jir            ‘black, dirty, old’          jir       ‘mangrove swamp’
+kiet-kiet          ‘black’                      kiet      ‘black paint’
+pun-pun            ‘white’                      pun       ‘pigeon’
+mera-mer           ‘red’                        mer       ‘red paint’
+yaŋ-yaŋ            ‘yellow’                     yaŋ       ‘yellow paint, white or yellow skinned people’
 ```
 
 
@@ -2984,7 +2990,7 @@ sor-soroga     ‘dark red’                 soroga    ‘red, colour of pes na
 aŋo-aŋo        ‘yellow’                   aŋo       ‘turmeric; yellow’
 ```
 
-From these examples we see that the colour term is often derived from a noun whose referent has that colour as a salient characteristic. We also see that in closely related Kairiru and Manam ([Ross 1988](../references.md#source-Ross1988):122–132) different derivations have occurred, indicating that the process remains productive, or has done so until recently. This observation leads to a reconstructive problem: we often find cognate reduplicated forms in a number of different languages, and it is sometimes hard to determine whether the reduplication had already occurred in POc or whether the reduplicated forms result from independent parallel derivations. We can arrange cases on a rough cline. At one extreme is POc &ast;[yaŋo]yaŋo ‘yellow’, whose reflexes occur so consistently across Oceania that it seems over-cautious not to reconstruct it. The base form was POc &ast;yaŋo ‘turmeric, Curcuma longa’ ([Ross 1996d](../references.md#source-Ross1996d):216).
+From these examples we see that the colour term is often derived from a noun whose referent has that colour as a salient characteristic. We also see that in closely related Kairiru and Manam ([Ross 1988](../references.md#source-Ross1988):122–132) different derivations have occurred, indicating that the process remains productive, or has done so until recently. This observation leads to a reconstructive problem: we often find cognate reduplicated forms in a number of different languages, and it is sometimes hard to determine whether the reduplication had already occurred in POc or whether the reduplicated forms result from independent parallel derivations. We can arrange cases on a rough cline. At one extreme is POc _&ast;[yaŋo]yaŋo_ ‘yellow’, whose reflexes occur so consistently across Oceania that it seems over-cautious not to reconstruct it. The base form was POc _&ast;yaŋo_ ‘turmeric, Curcuma longa’ ([Ross 1996d](../references.md#source-Ross1996d):216).
 
 <table>
 <tr>
@@ -3068,7 +3074,7 @@ From these examples we see that the colour term is often derived from a noun who
 <tr>
 <td>MM</td><td>Kara (West)</td><td><i>iaŋ</i></td>
 <td>
-'<span>yellow</span>' (<span>East Kara ioŋ ‘turmeric’</span>)</td>
+'<span>yellow</span>' (<span>East Kara <em>ioŋ</em> ‘turmeric’</span>)</td>
 </tr>
 <tr>
 <td>MM</td><td>Taiof</td><td><i>aŋo-m</i></td>
@@ -3088,7 +3094,7 @@ From these examples we see that the colour term is often derived from a noun who
 <tr>
 <td>NCV</td><td>Mota</td><td><i>aŋo-aŋo</i></td>
 <td>
-'<span>yellow</span>' (<span>aŋo ‘turmeric’</span>)</td>
+'<span>yellow</span>' (<span><em>aŋo</em> ‘turmeric’</span>)</td>
 </tr>
 <tr>
 <td>NCV</td><td>Raga</td><td><i>aŋo-ɣa</i></td>
@@ -3113,12 +3119,12 @@ From these examples we see that the colour term is often derived from a noun who
 <tr>
 <td>Mic</td><td>Ponapean</td><td><i>ɔŋɔ̄ŋ</i></td>
 <td>
-'<span>yellow</span>' (<span>ɔ̄ŋ ‘turmeric’</span>)</td>
+'<span>yellow</span>' (<span><em>ɔ̄ŋ</em> ‘turmeric’</span>)</td>
 </tr>
 <tr>
 <td>Mic</td><td>Woleaian</td><td><i>yaŋo-yaŋ</i></td>
 <td>
-'<span>yellow</span>' (<span>yaŋ ‘ginger’</span>)</td>
+'<span>yellow</span>' (<span><em>yaŋ</em> ‘ginger’</span>)</td>
 </tr>
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>aŋo-aŋo</i></td>
@@ -3128,7 +3134,7 @@ From these examples we see that the colour term is often derived from a noun who
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>eŋa-eŋa</i></td>
 <td>
-'<span>yellow</span>' (<span>eŋa ‘turmeric’</span>)</td>
+'<span>yellow</span>' (<span><em>eŋa</em> ‘turmeric’</span>)</td>
 </tr>
 </table>
 
@@ -3137,18 +3143,18 @@ From these examples we see that the colour term is often derived from a noun who
 
 <a id="p-216"></a>
 
-Nearer the other extreme are reduplicated reflexes of POc &ast;draRaq ‘blood’ (e.g. Mussau rae-rae-ana ‘red’ and Manam dara-dara ‘red’ above). Here, reflexes have a much spottier distribution, closely related languages often have different forms for ‘red’, and other terms for ‘blood’ are also reduplicated to form terms for ‘red’. These facts suggest that the reduplicated forms reflect independent parallel development and that there is not sufficient evidence for a POc reconstruction &ast;&ast;draRa-draRaq ‘red’.
+Nearer the other extreme are reduplicated reflexes of POc _&ast;draRaq_ ‘blood’ (e.g. Mussau _rae-rae-ana_ ‘red’ and Manam _dara-dara_ ‘red’ above). Here, reflexes have a much spottier distribution, closely related languages often have different forms for ‘red’, and other terms for ‘blood’ are also reduplicated to form terms for ‘red’. These facts suggest that the reduplicated forms reflect independent parallel development and that there is not sufficient evidence for a POc reconstruction _&ast;&ast;draRa-draRaq_ ‘red’.
 
-In this connection, it is worth noting that a number of reflexes of POc &ast;meRaq ‘red’ and &ast;karawa ‘green, blue’, reconstructed above, also display reduplication. Since there were originally morphologically complex forms (&ast;ma-iRaq and &ast;ka-rawa), and &ast;meRaq, at least, was originally an adjectival verb, these reduplications can be attributed to analogy. That is, reduplication has moved in a number of languages from being a process which derives colour terms from nouns to being simply a marker of a colour term. This suggests that we should be very cautious about reconstructing POc reduplicated colour terms.
+In this connection, it is worth noting that a number of reflexes of POc _&ast;meRaq_ ‘red’ and _&ast;karawa_ ‘green, blue’, reconstructed above, also display reduplication. Since there were originally morphologically complex forms (_&ast;ma-iRaq_ and _&ast;ka-rawa_), and _&ast;meRaq_, at least, was originally an adjectival verb, these reduplications can be attributed to analogy. That is, reduplication has moved in a number of languages from being a process which derives colour terms from nouns to being simply a marker of a colour term. This suggests that we should be very cautious about reconstructing POc reduplicated colour terms.
 
 Despite the need for caution, the fact that Blust finds reduplicated colour terms scattered across Oceania suggests quite strongly that this derivational process was already present in POc. It is true, as Blust notes, that the unreduplicated root often does not occur in the data. This may be because it has been lost or simply because its meaning is such that it has not been recorded in available sources (‘black’ is far more likely to be recorded, for example, than the term ‘mangrove morass’ from which it is derived in a number of languages).
 
-What is much less clear is the relationship of this POc reduplication to derivations with &ast;-ka. Forms with a reduplicated root, ROOT + &ast;-ka, or both, tend to cooccur in cognate sets. Note Longgu mela-mela(ʔa) and ’Are’Are me-mera(ʔa) ‘red’ and Raga aŋo-ɣa ‘yellow’ above. Reflexes of &ast;-ka also crop up in Blust’s collection of reduplicated colour terms in Mussau and Vitu and in To’aba’ita (SES). Since these three languages belong to different primary subgroups of Oceanic (St Matthias, Western Oceanic and Eastern Oceanic respectively), it is possible that reduplicated colour terms with &ast;-ka also occurred in POc. If so, however, we still have to account for reduplicated forms without &ast;-ka (like those listed under &ast;[yaŋo]yaŋo ‘yellow’ above) and for unreduplicated forms with &ast;-ka. The simplest solution is to reconstruct two POc processes: (i) ROOT + &ast;-ka forming adjectival nouns and (ii) CVCV- reduplication forming colour terms and perhaps some other property terms.20 Whether the words formed by process (ii) were verbs or nouns is uncertain. In some languages, and particularly for colour terms, the two processes combined, forming adjectival nouns.
+What is much less clear is the relationship of this POc reduplication to derivations with _&ast;-ka_. Forms with a reduplicated root, ROOT + _&ast;-ka_, or both, tend to cooccur in cognate sets. Note Longgu _mela-mela(ʔa)_ and ’Are’Are _me-mera(ʔa)_ ‘red’ and Raga _aŋo-ɣa_ ‘yellow’ above. Reflexes of _&ast;-ka_ also crop up in Blust’s collection of reduplicated colour terms in Mussau and Vitu and in To’aba’ita (SES). Since these three languages belong to different primary subgroups of Oceanic (St Matthias, Western Oceanic and Eastern Oceanic respectively), it is possible that reduplicated colour terms with _&ast;-ka_ also occurred in POc. If so, however, we still have to account for reduplicated forms without _&ast;-ka_ (like those listed under _&ast;[yaŋo]yaŋo_ ‘yellow’ above) and for unreduplicated forms with _&ast;-ka_. The simplest solution is to reconstruct two POc processes: (i) ROOT + _&ast;-ka_ forming adjectival nouns and (ii) CVCV- reduplication forming colour terms and perhaps some other property terms.[^20] Whether the words formed by process (ii) were verbs or nouns is uncertain. In some languages, and particularly for colour terms, the two processes combined, forming adjectival nouns.
 
 
 <a id="p-217"></a>
 
-In the light of this discussion, I reconstruct two pairs of POc colour terms, &ast;keja-ka, &ast;[keja]keja ‘green’ and &ast;biRiŋ-(k)a, &ast;[biRi]biRiŋ ‘dark hue, dirty’, but I cannot be sure that both members of each pair actually occurred in POc. The Tamambo reflex of the root &ast;keja refers to a kind of blue-green fish, and this may have been its POc meaning. POc &ast;biRiŋ perhaps meant ‘dirt’.
+In the light of this discussion, I reconstruct two pairs of POc colour terms, _&ast;keja-ka_, _&ast;[keja]keja_ ‘green’ and _&ast;biRiŋ-(k)a_, _&ast;[biRi]biRiŋ_ ‘dark hue, dirty’, but I cannot be sure that both members of each pair actually occurred in POc. The Tamambo reflex of the root _&ast;keja_ refers to a kind of blue-green fish, and this may have been its POc meaning. POc _&ast;biRiŋ_ perhaps meant ‘dirt’.
 
 <table>
 <tr>
@@ -3280,7 +3286,7 @@ In the light of this discussion, I reconstruct two pairs of POc colour terms, &a
 
 
 
-There is one other reduplicated colour term which may be reconstructable, POc &ast;[pula]pula-n ‘white’, probably derived from &ast;pulan ‘moon’. However, the dangers of reconstructing reduplicated colour terms in POc apply here too, and these terms may be independent innovations.
+There is one other reduplicated colour term which may be reconstructable, POc _&ast;[pula]pula-n_ ‘white’, probably derived from _&ast;pulan_ ‘moon’. However, the dangers of reconstructing reduplicated colour terms in POc apply here too, and these terms may be independent innovations.
 
 <table>
 <tr>
@@ -3337,7 +3343,7 @@ There is one other reduplicated colour term which may be reconstructable, POc &a
 ## 5.1. Shape and surface texture
 
 
-Terms denoting the shape and surface texture of an object include the meanings such as ‘flat’, ‘round’, ‘rough’, ‘smooth’, ‘straight’ and ‘crooked’. However, it seems that there were few POc lexemes with basic meanings in this domain. No word for ‘round’ is reconstructable. The main term for ‘flat’ was probabaly POc &ast;baban ‘flat; board, plank; canoe strake; flat shelf of rock’, and we can be reasonably confident that it was a noun denoting a flat surface or flat plank-like object (vol. 1, pp.58, 185).
+Terms denoting the shape and surface texture of an object include the meanings such as ‘flat’, ‘round’, ‘rough’, ‘smooth’, ‘straight’ and ‘crooked’. However, it seems that there were few POc lexemes with basic meanings in this domain. No word for ‘round’ is reconstructable. The main term for ‘flat’ was probabaly POc _&ast;baban_ ‘flat; board, plank; canoe strake; flat shelf of rock’, and we can be reasonably confident that it was a noun denoting a flat surface or flat plank-like object (vol. 1, pp.58, 185).
 
 <table>
 <tr>
@@ -3402,7 +3408,7 @@ Terms denoting the shape and surface texture of an object include the meanings s
 
 
 
-The term &ast;raba(r) may have denoted the property ‘flat’, but there are too few Oceanic reflexes to be certain. Indeed, if the Tongan reflex is regularly descended from a POc forebear, then the latter had initial &ast;l-, not &ast;r-. This suggests that the Polynesian terms may not reflect POc &ast;raba(r).
+The term _&ast;raba(r)_ may have denoted the property ‘flat’, but there are too few Oceanic reflexes to be certain. Indeed, if the Tongan reflex is regularly descended from a POc forebear, then the latter had initial _&ast;l-_, not _&ast;r-_. This suggests that the Polynesian terms may not reflect POc _&ast;raba(r)_.
 
 <table>
 <tr>
@@ -3453,7 +3459,7 @@ cf. also:
 </table>
 
 
-No term for ‘rough’ is reconstructable, but ‘smooth’, also with the sense ‘slippery’ was POc &ast;madrali(s,t).
+No term for ‘rough’ is reconstructable, but ‘smooth’, also with the sense ‘slippery’ was POc _&ast;madrali(s,t)_.
 
 <table>
 <tr>
@@ -3506,7 +3512,7 @@ No term for ‘rough’ is reconstructable, but ‘smooth’, also with the sens
 
 One shape concept for which POc evidently had terms was ‘straight, level’. Reflexes of these terms often also include ‘true’ among their meanings, but I assume that the metaphorical extension was from shape to value (i.e. from visible to abstract), rather than vice versa.
 
-The data require that we reconstruct two variants for each of the three terms. Thus we reconstruct not only &ast;[ma]koto, whose canonic shape suggests that it is the inherited term, but also &ast;ta-kodos, which is derived from &ast;kodos ‘go straight; straighten’ (see p.196).[^21] I suspect that the verbs &ast;[ma]koto and &ast;kodos were separately inherited into POc (although no non-Oceanic cognates have been found) and that their formal similarity is attributable to derivation at an earlier stage, as POc &ast;-t- and &ast;-d- reflect PMP &ast;-t- and &ast;-nt- respectively. The Polynesian reflexes are attributed to the set with &ast;-t- because of their similarity in meaning to Bauan koto. Formally, they could at least as well reflect POc &ast;ta-kodos.
+The data require that we reconstruct two variants for each of the three terms. Thus we reconstruct not only _&ast;[ma]koto_, whose canonic shape suggests that it is the inherited term, but also _&ast;ta-kodos_, which is derived from &ast;kodos ‘go straight; straighten’ (see p.196).[^21] I suspect that the verbs &ast;[ma]koto and &ast;kodos were separately inherited into POc (although no non-Oceanic cognates have been found) and that their formal similarity is attributable to derivation at an earlier stage, as POc _&ast;-t-_ and _&ast;-d-_ reflect PMP _&ast;-t-_ and _&ast;-nt-_ respectively. The Polynesian reflexes are attributed to the set with _&ast;-t-_ because of their similarity in meaning to Bauan koto. Formally, they could at least as well reflect POc &ast;ta-kodos.
 
 <table>
 <tr>
@@ -3703,13 +3709,13 @@ The data require that we reconstruct two variants for each of the three terms. T
 
 <a id="p-220"></a>
 
-I have no explanation for the pair &ast;mwane-mwane and &ast;wane-wane. Reflexes of the former occur in the Admiralties, Southeast Solomonic and New Caledonia, of the latter in the Schoutens and Micronesia. However, if the Ali reflex were non-cognate, then &ast;wane- wane would simply be a Nuclear Micronesian innovation.
+I have no explanation for the pair _&ast;mʷane-mʷane_ and _&ast;wane-wane_. Reflexes of the former occur in the Admiralties, Southeast Solomonic and New Caledonia, of the latter in the Schoutens and Micronesia. However, if the Ali reflex were non-cognate, then &ast;wane- wane would simply be a Nuclear Micronesian innovation.
 
 <table>
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
-<i>&ast;mwane-mwane</i>
+<i>&ast;mʷane-mʷane</i>
 </td>
 <td>
 '<span>straight, direct; flat, level</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
@@ -3788,7 +3794,7 @@ I have no explanation for the pair &ast;mwane-mwane and &ast;wane-wane. Reflexes
 
 
 
-The only antonym of the terms above is PWOc &ast;kalis ‘crooked’, which is only weakly attested.
+The only antonym of the terms above is PWOc _&ast;kalis_ ‘crooked’, which is only weakly attested.
 
 <table>
 <tr>
@@ -3818,7 +3824,7 @@ The only antonym of the terms above is PWOc &ast;kalis ‘crooked’, which is o
 ## 5.2. Weight
 
 
-Forms for ‘heavy’ are morphologically complex. POc &ast;[pa]pat reflects the base &ast;pat, POc &ast;ma-pat and &ast;mamat reflect prefixation with &ast;ma- and &ast;maN- respectively (the function of &ast;maN- in this context is unclear; cf. vol. 1, p.29). The term for ‘light’ (in weight) is &ast;[ma]Raqan.
+Forms for ‘heavy’ are morphologically complex. POc _&ast;[pa]pat_ reflects the base _&ast;pat_, POc _&ast;ma-pat_ and _&ast;mamat_ reflect prefixation with _&ast;ma-_ and _&ast;maN-_ respectively (the function of _&ast;maN-_ in this context is unclear; cf. vol. 1, p.29). The term for ‘light’ (in weight) is _&ast;[ma]Raqan_.
 
 <table>
 <tr>
@@ -4060,7 +4066,7 @@ Forms for ‘heavy’ are morphologically complex. POc &ast;[pa]pat reflects the
 ## 5.3. Strength, toughness and speed
 
 
-Oceanic speakers tend to express the cluster of concepts ‘hard’ (of physical substances), ‘strong’ (of human beings), ‘quickly moving’ and ‘energetic’ with a single lexeme, and ‘soft’, ‘weak’, ‘slow’ and ‘gentle’ also with a single lexeme. Terms for the first, again due entirely to Blust (ACD), are POc &ast;paka(s) and &ast;laga(s), neither of them particularly stable (i.e. we find few reflexes of them). Terms for its antonym are &ast;[ma]lumu and &ast;ma-luas, both quite stable and thus widely reflected. The latter is also used of calm weather in eastern Oceanic languages (see [Ch.5, §5.1](chapter5.md#s-5-1)).
+Oceanic speakers tend to express the cluster of concepts ‘hard’ (of physical substances), ‘strong’ (of human beings), ‘quickly moving’ and ‘energetic’ with a single lexeme, and ‘soft’, ‘weak’, ‘slow’ and ‘gentle’ also with a single lexeme. Terms for the first, again due entirely to Blust (ACD), are POc _&ast;paka(s)_ and _&ast;laga(s)_, neither of them particularly stable (i.e. we find few reflexes of them). Terms for its antonym are _&ast;[ma]lumu_ and _&ast;ma-luas_, both quite stable and thus widely reflected. The latter is also used of calm weather in eastern Oceanic languages (see [Ch.5, §5.1](chapter5.md#s-5-1)).
 
 
 <a id="p-222"></a>
@@ -4131,7 +4137,7 @@ Oceanic speakers tend to express the cluster of concepts ‘hard’ (of physical
 
 
 
-Two POc terms, &ast;[ma]lumu and &ast;ma-luas, express ‘soft, gentle’.
+Two POc terms, _&ast;[ma]lumu_ and _&ast;ma-luas_, express ‘soft, gentle’.
 
 <table>
 <tr>
@@ -4157,7 +4163,7 @@ Two POc terms, &ast;[ma]lumu and &ast;ma-luas, express ‘soft, gentle’.
 <i>&ast;malū</i>
 </td>
 <td>
-'<span>soft (of a substance), calm (of day, sea)</span>' (<span>irregular loss of *-m- in all Polynesian reflexes</span>)</td>
+'<span>soft (of a substance), calm (of day, sea)</span>' (<span>irregular loss of <em>*-m-</em> in all Polynesian reflexes</span>)</td>
 </tr>
 <tr>
 <td>NNG</td><td>Bariai</td><td><i>marum</i></td>
@@ -4359,7 +4365,7 @@ Two POc terms, &ast;[ma]lumu and &ast;ma-luas, express ‘soft, gentle’.
 ## 5.4. Content
 
 
-Three terms meaning ‘full’ are reconstructable. The first, &ast;ponuq, is the general term. It is not clear to me how &ast;puŋu and &ast;poju differed in meaning from this and from each other. However, &ast;puŋu may simply be a doublet of &ast;ponuq. The term &ast;poju seems to be a reflex of PMP &ast;besuR ‘satiated’. The opposite meaning, ‘empty’, seems to have been expressed by &ast;[ma]maca ‘dry’ (p.226), at least when ‘empty of liquid’ was intended.
+Three terms meaning ‘full’ are reconstructable. The first, _&ast;ponuq_, is the general term. It is not clear to me how _&ast;puŋu_ and _&ast;poju_ differed in meaning from this and from each other. However, _&ast;puŋu_ may simply be a doublet of _&ast;ponuq_. The term _&ast;poju_ seems to be a reflex of PMP _&ast;besuR_ ‘satiated’. The opposite meaning, ‘empty’, seems to have been expressed by _&ast;[ma]maca_ ‘dry’ (p.226), at least when ‘empty of liquid’ was intended.
 
 <table>
 <tr>
@@ -4595,7 +4601,7 @@ Three terms meaning ‘full’ are reconstructable. The first, &ast;ponuq, is th
 ## 5.5. Temperature
 
 
-Two terms are reconstructable for ‘hot, warm’, &ast;[ma]panas and &ast;maŋini(t). The first was probably the general term, to judge from its distribution, whilst &ast;maŋini(t) probably had some specialised sense.
+Two terms are reconstructable for ‘hot, warm’, _&ast;[ma]panas_ and _&ast;maŋini(t)_. The first was probably the general term, to judge from its distribution, whilst _&ast;maŋini(t)_ probably had some specialised sense.
 
 <table>
 <tr>
@@ -4734,9 +4740,9 @@ Two terms are reconstructable for ‘hot, warm’, &ast;[ma]panas and &ast;maŋi
 
 
 
-There are several POc forms for ‘cold’ which are derived from PMP &ast;diŋin ‘cold’. However, the expected POc reflex of PMP &ast;diŋin is &ast;&ast;riŋi(n), and we do not find this. Instead, we find &ast;ridriŋ and &ast;ririŋ, presumably from the reduplications &ast;riŋ-riŋ and &ast;ri-riŋ, preceded by various prefixes. POc &ast;ma-ri(d)ri(ŋ) needs no further explanation, whilst &ast;madri(d)riŋ is apparently derived from &ast;maN-ri(d)riŋ. POc &ast;maka-ridri(ŋ) is transparent enough, but I do not know the function of &ast;maka-. From the glosses of the reflexes, it seems that these terms probably referred to the temperature experienced by a person, i.e. ‘I feel cold’, rather than to the temperature of inanimate objects.
+There are several POc forms for ‘cold’ which are derived from PMP _&ast;diŋin_ ‘cold’. However, the expected POc reflex of PMP _&ast;diŋin_ is _&ast;&ast;riŋi(n)_, and we do not find this. Instead, we find _&ast;ridriŋ_ and _&ast;ririŋ_, presumably from the reduplications _&ast;riŋ-riŋ_ and _&ast;ri-riŋ_, preceded by various prefixes. POc _&ast;ma-ri(d)ri(ŋ)_ needs no further explanation, whilst _&ast;madri(d)riŋ_ is apparently derived from _&ast;maN-ri(d)riŋ_. POc _&ast;maka-ridri(ŋ)_ is transparent enough, but I do not know the function of _&ast;maka-_. From the glosses of the reflexes, it seems that these terms probably referred to the temperature experienced by a person, i.e. ‘I feel cold’, rather than to the temperature of inanimate objects.
 
-The other cognate set meaning ‘cold’ appears to reflect both &ast;malaso ‘cold (verb)’ and &ast;malaso-ŋ ‘cold (noun)’ .
+The other cognate set meaning ‘cold’ appears to reflect both _&ast;malaso_ ‘cold (verb)’ and _&ast;malaso-ŋ_ ‘cold (noun)’ .
 
 <table>
 <tr>
@@ -4989,7 +4995,7 @@ The other cognate set meaning ‘cold’ appears to reflect both &ast;malaso ‘
 ## 5.6. Wet and dry
 
 
-The English words ‘dry’ and ‘wet’ are polysemous. The meanings of ‘dry’ include ‘free from moisture’, ‘having lost natural moisture’ and ‘not in or under water’. POc terms with such meanings are reconstructed below. POc presumably also had words for various meanings of ‘wet’, but I have been able to reconstruct only POc &ast;buluk, in the meaning ‘soaked, waterlogged’.
+The English words ‘dry’ and ‘wet’ are polysemous. The meanings of ‘dry’ include ‘free from moisture’, ‘having lost natural moisture’ and ‘not in or under water’. POc terms with such meanings are reconstructed below. POc presumably also had words for various meanings of ‘wet’, but I have been able to reconstruct only POc _&ast;buluk_, in the meaning ‘soaked, waterlogged’.
 
 <table>
 <tr>
@@ -5044,9 +5050,9 @@ The English words ‘dry’ and ‘wet’ are polysemous. The meanings of ‘dry
 
 
 
-The most widely reflected POc term with a ‘dry’ meaning is &ast;[ma]maca, which denoted states in which otherwise present liquid was absent. Thus it was used among other things of food which had dried up through overcooking and of low tide ([Ch.4, §2.6](chapter4.md#s-2-6)). POc &ast;[ma](r,R)aŋo ‘wither, dry up’ referred particularly to the dryness of dying vegetation and meant ‘withered, dry’ (vol. 1, p.135).
+The most widely reflected POc term with a ‘dry’ meaning is _&ast;[ma]maca_, which denoted states in which otherwise present liquid was absent. Thus it was used among other things of food which had dried up through overcooking and of low tide ([Ch.4, §2.6](chapter4.md#s-2-6)). POc _&ast;[ma](r,R)aŋo_ ‘wither, dry up’ referred particularly to the dryness of dying vegetation and meant ‘withered, dry’ (vol. 1, p.135).
 
-POc &ast;karaŋo is obviously formally related to &ast;[ma]raŋo, but its reflexes display the meanings both of this and of &ast;[ma]maca. POc &ast;goRu appears to have been a synonym of &ast;[ma](r,R)aŋo.
+POc _&ast;karaŋo_ is obviously formally related to _&ast;[ma]raŋo_, but its reflexes display the meanings both of this and of _&ast;[ma]maca_. POc _&ast;goRu_ appears to have been a synonym of _&ast;[ma](r,R)aŋo_.
 
 <table>
 <tr>
@@ -5227,7 +5233,7 @@ POc &ast;karaŋo is obviously formally related to &ast;[ma]raŋo, but its reflex
 
 <a id="p-227"></a>
 
-POc &ast;[ma-](r,R)aŋo displays a phonological problem. Apparent non-Oceanic cognates of the root &ast;raŋo reflect PMP &ast;Raŋaw, so we would expect the reconstructable POc form to be &ast;&ast;Raŋo. But Oceanic languages which reflect POc &ast;r and &ast;R differently are not in accord with each other: SES and NCV languages have a reflex of &ast;r whilst Pn languages have a (zero) reflex of &ast;R. (Mussau and NNG and MM languages reflect &ast;r and &ast;R identically.) I assume tentatively that POc had &ast;[ma]Raŋo and that forms with &ast;r are innovative.
+POc _&ast;[ma-](r,R)aŋo_ displays a phonological problem. Apparent non-Oceanic cognates of the root _&ast;raŋo_ reflect PMP _&ast;Raŋaw_, so we would expect the reconstructable POc form to be _&ast;&ast;Raŋo_. But Oceanic languages which reflect POc _&ast;r_ and _&ast;R_ differently are not in accord with each other: SES and NCV languages have a reflex of _&ast;r_ whilst Pn languages have a (zero) reflex of _&ast;R_. (Mussau and NNG and MM languages reflect _&ast;r_ and _&ast;R_ identically.) I assume tentatively that POc had _&ast;[ma]Raŋo_ and that forms with _&ast;r_ are innovative.
 
 <table>
 <tr>
@@ -5420,46 +5426,46 @@ POc &ast;[ma-](r,R)aŋo displays a phonological problem. Apparent non-Oceanic co
 
 [^2]: These include natural states, e.g. ‘raw’/‘unripe’ (vol. 1, p.155), ‘ripe’ (vol. 1, p.157), ‘rotten’, and physical conditions of animate beings: (e.g. ‘alive’, ‘dead’, ‘healthy’, ‘sick’, ‘hungry’, ‘thirsty’).
 
-[^3]: The story of &ast;ma- in [Evans and Ross](../references.md#source-EvansandRoss2001) ([2001](../references.md#source-EvansandRoss2001)) is better founded than that in vol. 1, p.25.
+[^3]: The story of _&ast;ma-_ in [Evans and Ross](../references.md#source-EvansandRoss2001) ([2001](../references.md#source-EvansandRoss2001)) is better founded than that in vol. 1, p.25.
 
 [^4]: This circumstance is discussed at length by [Evans and Ross](../references.md#source-EvansandRoss2001) ([2001](../references.md#source-EvansandRoss2001)).
 
-[^5]: At a very early period (PAn/PMP), &ast;ka- was a morpheme that derived statives, whilst &ast;ma- was the corresponding finite form (from &ast;‹um› + &ast;ka-; with regard to &ast;‹um› see vol. 1, p.29). Thus [Huang](../references.md#source-Huang2000) ([2000](../references.md#source-Huang2000):378) shows that in Mayrinax Atayal (Formosan) statives that take ma- in their declarative affirmative form take &ast;ka- in their negative form. Zeitoun and [Huang](../references.md#source-Huang2000) ([2000](../references.md#source-Huang2000)) show that in Pazeh, ma- statives have ka- in the irrealis (p.402), the imperative (p.406), and in non-‘actor’ focus forms of statives, e.g. ka-kelem-an ‘be oversalted (of cooked food)’ vs ma-kelem ‘be salty’ (p.407).
+[^5]: At a very early period (PAn/PMP), _&ast;ka-_ was a morpheme that derived statives, whilst _&ast;ma-_ was the corresponding finite form (from _&ast;‹um›_ + _&ast;ka-_; with regard to _&ast;‹um›_ see vol. 1, p.29). Thus [Huang](../references.md#source-Huang2000) ([2000](../references.md#source-Huang2000):378) shows that in Mayrinax Atayal (Formosan) statives that take _ma-_ in their declarative affirmative form take _&ast;ka-_ in their negative form. Zeitoun and [Huang](../references.md#source-Huang2000) ([2000](../references.md#source-Huang2000)) show that in Pazeh, _ma-_ statives have _ka-_ in the irrealis (p.402), the imperative (p.406), and in non-‘actor’ focus forms of statives, e.g. _ka-kelem-an_ ‘be oversalted (of cooked food)’ vs _ma-kelem_ ‘be salty’ (p.407).
 
-[^6]: For Tigak and W. Kara the interstages &ast;-pwu-, then &ast;-bu- must be posited. For Bauan, where we find levu for expected &ast;&ast;lavua, we must infer irregular raising of &ast;-a- to -e- and loss of later final &ast;-a.
+[^6]: For Tigak and W. Kara the interstages _&ast;-pʷu-_, then _&ast;-bu-_ must be posited. For Bauan, where we find levu for expected _&ast;&ast;lavua_, we must infer irregular raising of _&ast;-a-_ to _-e-_ and loss of later final _&ast;-a_.
 
-[^7]: John Lynch (pers. comm.) points out that the initial i- of Lenakel ipwər is the regular reflex of POc &ast;l-, whilst the initial e- of N. Tanna empwət and Whitesands epwət reflects a sequence of accreted &ast;a- (cf. Anejom a- in (a)lpwas) and &ast;-i- reflecting POc &ast;l-.
+[^7]: John Lynch (pers. comm.) points out that the initial _i-_ of Lenakel _ipʷər_ is the regular reflex of POc _&ast;l-_, whilst the initial _e-_ of N. Tanna _empʷət_ and Whitesands _epʷət_ reflects a sequence of accreted _&ast;a-_ (cf. Anejom _a-_ in _(a)lpʷas_) and _&ast;-i-_ reflecting POc _&ast;l-_.
 
-[^8]: Tongan and E. Uvean -siʔi would reflect apparent PPn &ast;tiqi, and are therefore perhaps metathesised reflexes of PPn &ast;qiti.
+[^8]: Tongan and E. Uvean _-siʔi_ would reflect apparent PPn _&ast;tiqi_, and are therefore perhaps metathesised reflexes of PPn _&ast;qiti_.
 
 [^9]: This differs from the possessive-like attribute constructions reconstructed by [Ross](../references.md#source-Ross1998b) ([1998b](../references.md#source-Ross1998b)). There, the possessor is non-specific; here the possessor is apparently specific.
 
 [^10]: A PMP form with &ast;ma- is reflected by Palawan mblaŋkbw, Molbog molaŋkow, and Uma molaŋko, all ‘tall’ (data from Tryon, ed. 1995).
 
-[^11]: Supporting evidence for PMP &ast;dani is Kagayanen Manobo dani (ADV) ‘near’, Dobel ren (ADV) ‘near’. Evidence for &ast;Sa-dani is Isneg (N. Cordilleran) adanni (ADV) ‘near’, Limos Kalinga (C. Cordilleran) adaní (ADV) ‘near’, N. Samareño, Samar-Leyte, Waray (Bisayan) ha-ráni, Masbateño, Sorsogon, Gubat (Danaw) ha-raní. Evidence for &ast;ma-dani is Maranao, Iranun (Danaw) ma-rani, Ata, Dibabwon, Tigwa (Manobo) ma-dani, Ilianen mi-rani.
+[^11]: Supporting evidence for PMP _&ast;dani_ is Kagayanen Manobo _dani_ (ADV) ‘near’, Dobel _ren_ (ADV) ‘near’. Evidence for _&ast;Sa-dani_ is Isneg (N. Cordilleran) _adanni_ (ADV) ‘near’, Limos Kalinga (C. Cordilleran) _adaní_ (ADV) ‘near’, N. Samareño, Samar-Leyte, Waray (Bisayan) _ha-ráni_, Masbateño, Sorsogon, Gubat (Danaw) _ha-raní_. Evidence for _&ast;ma-dani_ is Maranao, Iranun (Danaw) _ma-rani_, Ata, Dibabwon, Tigwa (Manobo) _ma-dani_, Ilianen _mi-rani_.
 
-[^12]: The reconstruction of PMP &ast;[ma]-kumba ‘thick’ is supported by the Oceanic data listed here and by Da’a na-kumba, Uma mo-kumpa, Buginese ma-umpəʔ.
+[^12]: The reconstruction of PMP _&ast;[ma]-kumba_ ‘thick’ is supported by the Oceanic data listed here and by Da’a _na-kumba_, Uma _mo-kumpa_, Buginese _ma-umpəʔ_.
 
-[^13]: The reconstruction of PMP &ast;tipis ‘thin’ is supported by the Oceanic data listed here and by Indonesian, Javanese and Balinese tipis ‘thin’.
+[^13]: The reconstruction of PMP _&ast;tipis_ ‘thin’ is supported by the Oceanic data listed here and by Indonesian, Javanese and Balinese _tipis_ ‘thin’.
 
-[^14]: [Tsuchida](../references.md#source-Tsuchida1976) ([1976](../references.md#source-Tsuchida1976):139) reconstructs PAn &ast;Nix1epis, in the orthography of [Ross](../references.md#source-Ross1992) ([1992](../references.md#source-Ross1992)) &ast;Lihepis. However, the only reflex of &ast;-h- occurs in Saisiat (Taiwan) lih-lihpih-an, which may be the result of modifying &ast;-li- to rhyme with &ast;-pih. Accordingly I reconstruct PAn &ast;Lipis, PMP &ast;nipis.
+[^14]: [Tsuchida](../references.md#source-Tsuchida1976) ([1976](../references.md#source-Tsuchida1976):139) reconstructs PAn _&ast;Nix1epis_, in the orthography of [Ross](../references.md#source-Ross1992) ([1992](../references.md#source-Ross1992)) _&ast;Lihepis_. However, the only reflex of _&ast;-h-_ occurs in Saisiat (Taiwan) _lih-lihpih-an_, which may be the result of modifying _&ast;-li-_ to rhyme with _&ast;-pih_. Accordingly I reconstruct PAn _&ast;Lipis_, PMP _&ast;nipis_.
 
 [^15]: This form is always suffixed to a classifier.
 
-[^16]: Nakanai h reflects POc &ast;q, not &ast;k.
+[^16]: Nakanai _h_ reflects POc _&ast;q_, not _&ast;k_.
 
-[^17]: Blust (ACD) attributes these reflexes to &ast;waRi ‘past (of time)’, but the current attribution is better supported by the set as a whole.
+[^17]: Blust (ACD) attributes these reflexes to _&ast;waRi_ ‘past (of time)’, but the current attribution is better supported by the set as a whole.
 
-[^18]: [Lichtenberk](../references.md#source-Lichtenberk1983) ([1983](../references.md#source-Lichtenberk1983):611) was offered the apparent nonce form taʔe-taʔe, from taʔe ‘faeces’ in Manam, when he asked an informant to identify a particular shade of brown.
+[^18]: [Lichtenberk](../references.md#source-Lichtenberk1983) ([1983](../references.md#source-Lichtenberk1983):611) was offered the apparent nonce form _taʔe-taʔe_, from _taʔe_ ‘faeces’ in Manam, when he asked an informant to identify a particular shade of brown.
 
 [^19]: I have corrected Blust’s Mussau data on the basis of materials provided by John Brownie of the Summer Institute of Linguistics.
 
 [^20]: Blust’s 24-language survey suggests that property terms other than colour terms are only rarely reduplicated. This corroborates the research underlying [Ross](../references.md#source-Ross1998a) ([1998a](../references.md#source-Ross1998a)), where the only languages with a strong tendency to reduplicate property terms are those in Western Oceanic which have innovated a distinct adjective class.
 
-[^21]: The Southeast Solomonic reflexes show unexplained loss of &ast;k.
+[^21]: The Southeast Solomonic reflexes show unexplained loss of _&ast;k_.
 
-[^22]: The final &ast;-(p) of &ast;[t,d]onu(p) is tentatively reconstructed to account for Numbami tonowa, where paragogic -a indicates the presence of a final consonant and -w- reflects &ast;-p.
+[^22]: The final _&ast;-(p)_ of _&ast;[t,d]onu(p)_ is tentatively reconstructed to account for Numbami _tonowa_, where paragogic _-a_ indicates the presence of a final consonant and _-w-_ reflects _&ast;-p_.
 
-[^23]: Aua initial w- could reflect either &ast;mw- or &ast;w-, but I have assumed the Aua reflex to reflect &ast;mwane- mwane, as this is reflected elsewhere in the Admiralties.
+[^23]: Aua initial _w-_ could reflect either _&ast;mʷ-_ or _&ast;w-_, but I have assumed the Aua reflex to reflect _&ast;mʷane-mʷane_, as this is reflected elsewhere in the Admiralties.
 
-[^24]: In [Ross](../references.md#source-Ross1996d) ([1996d](../references.md#source-Ross1996d)) I reconstructed POc &ast;[ma]Raŋ(o,u) ‘dry; coconut growth stage 8: dry and ready to fall’. However, its POc status rested on Baelelea (SES) maleŋa ‘coconut’. I no longer think this is cognate with the NNG and MM forms which refer to a withered coconut, and take the latter simply to be an extension of meaning of reflexes of &ast;[ma-](r,R)aŋo.
+[^24]: In [Ross](../references.md#source-Ross1996d) ([1996d](../references.md#source-Ross1996d)) I reconstructed POc _&ast;[ma]Raŋ(o,u)_ ‘dry; coconut growth stage 8: dry and ready to fall’. However, its POc status rested on Baelelea (SES) _maleŋa_ ‘coconut’. I no longer think this is cognate with the NNG and MM forms which refer to a withered coconut, and take the latter simply to be an extension of meaning of reflexes of _&ast;[ma-](r,R)aŋo_.

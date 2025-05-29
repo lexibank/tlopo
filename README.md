@@ -26,17 +26,17 @@ Available online at http://hdl.handle.net/1885/106908
 
 - **Varieties:** 633 (linked to 0 different Glottocodes)
 - **Concepts:** 11,564 (linked to 0 different Concepticon concept sets)
-- **Lexemes:** 23,364
+- **Lexemes:** 23,361
 - **Sources:** 3
 - **Synonymy:** 1.07
-- **Cognacy:** 23,351 cognates in 1,810 cognate sets (0 singletons)
+- **Cognacy:** 23,342 cognates in 1,810 cognate sets (0 singletons)
 - **Cognate Diversity:** -0.83
 
 ## Possible Improvements:
 
 
 
-- Entries missing sources: 23362/23364 (99.99%)
+- Entries missing sources: 23359/23361 (99.99%)
 
 # Contributors
 

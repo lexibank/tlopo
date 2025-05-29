@@ -12,9 +12,9 @@ by Pawley, A. and Pawley, M.
 ## 1.1. Questions
 
 
-Between 3000 and 1000 BC, speakers of Austronesian languages spread across I sland Southeast Asia and western Melanesia and into the previously uninhabited islands of the Central Pacific.[^1] By about 1000 AD they had colonised the whole of Polynesia and Micronesia and had settled Madagascar, more than half a world away.[^2] This farflung maritime dispersal of closely related peoples, without parallel in human history until the West European expansion of the 15th-20th centuries AD, must have been based on a fairly efficient sailing technology. What was this technology? When and where did it develop? To what extent was it modified during the Austronesian diaspora?
+Between 3000 and 1000 BC, speakers of Austronesian languages spread across Island Southeast Asia and western Melanesia and into the previously uninhabited islands of the Central Pacific.[^1] By about 1000 AD they had colonised the whole of Polynesia and Micronesia and had settled Madagascar, more than half a world away.[^2] This farflung maritime dispersal of closely related peoples, without parallel in human history until the West European expansion of the 15th-20th centuries AD, must have been based on a fairly efficient sailing technology. What was this technology? When and where did it develop? To what extent was it modified during the Austronesian diaspora?
 
-There is already an extensive literature on these questions, much of it by culture historians who apply the typological comparative and distributional methods (discussed in [§ 1.2](#s-1-2)) to sailing craft and sailing techniques. Our contribution will be to see what light can be thrown on these questions by comparing the vocabulary for watercraft and seafaring across the Austronesian family, using the genetic comparative method of historical linguistics. We will focus on the early phases of Austronesian expansion, that is, on cognate sets that probably go back more than 2 ,000 years. Little will be said here about the complex developments in boatbuilding which have taken place in Island Southeast Asia over the last couple of millenia, well after the main Austronesian dispersal across and beyond this region, or about modifications in the design of craft that according to Haddon and Hornell ([Haddon 1937](../references.md#source-Haddon1937), [Haddon & Hornell 1938](../references.md#source-HaddonHornell1938), [Hornell 1936](../references.md#source-Hornell1936)) have taken place in various regions of Oceania within the last millenium. An exhaustive study of material relevant to reconstructing terms for vessel design and seafaring at all stages in the history of the Austronesian family would take several years and fill a very large book.
+There is already an extensive literature on these questions, much of it by culture historians who apply the typological comparative and distributional methods (discussed in [§1.2](#s-1-2)) to sailing craft and sailing techniques. Our contribution will be to see what light can be thrown on these questions by comparing the vocabulary for watercraft and seafaring across the Austronesian family, using the genetic comparative method of historical linguistics. We will focus on the early phases of Austronesian expansion, that is, on cognate sets that probably go back more than 2,000 years. Little will be said here about the complex developments in boatbuilding which have taken place in Island Southeast Asia over the last couple of millenia, well after the main Austronesian dispersal across and beyond this region, or about modifications in the design of craft that according to Haddon and Hornell ([Haddon 1937](../references.md#source-Haddon1937), [Haddon & Hornell 1938](../references.md#source-HaddonHornell1938), [Hornell 1936](../references.md#source-Hornell1936)) have taken place in various regions of Oceania within the last millenium. An exhaustive study of material relevant to reconstructing terms for vessel design and seafaring at all stages in the history of the Austronesian family would take several years and fill a very large book.
 
 
 <a id="p-174"></a>
@@ -28,11 +28,11 @@ Describing the sailing craft and navigation techniques in the Indo-Pacific regio
 
 Those writers who have drawn conclusions about the nature of early Austronesian sailing craft and navigation have generally relied on the 'typological comparative method' of historical reconstruction. The typological method is a theory of structural types, making assumptions about how structural features are linked in systems, what kinds of changes are possible or likely, which types are logically prior to others, etc. The kinds of historical inferences this method can give, when applied to a range of contemporary systems, are probabilistic ones: for example, the inference that type X is more likely to have given rise to type Y than vice versa. The typological method is often allied to a distributional one. The assumption is that one can infer much about the antiquity of a given structural type or feature from its geographic distribution. For instance, the observation that a certain complex of cultural features is found among widely scattered peoples speaking related languages can be taken as evidence that the complex was present in a common ancestral culture. On the other hand, if such a complex has a more restricted but continuous geographic distribution it is likely to have been an innovation that diffused over this region after the dispersal of the ancestral population.
 
-In his Sailing Craft of Indonesia Adrian [Horridge](../references.md#source-Horridge1986) ([1986](../references.md#source-Horridge1986):2-3) employs a distributional argument when he writes:
+In his _Sailing Craft of Indonesia_ Adrian [Horridge](../references.md#source-Horridge1986) ([1986](../references.md#source-Horridge1986):2-3) employs a distributional argument when he writes:
 
-> The very wide distribution of their homogeneous cultural heritage shows that [the ancestral Malayo-Polynesians][^4] had an excellent knowledge of outrigger canoes for transporting flre, family, pigs, chickens and dogs, not to mention dozens of useful plants, by sea.
+> The very wide distribution of their homogeneous cultural heritage shows that [the ancestral Malayo-Polynesians][^4] had an excellent knowledge of outrigger canoes for transporting fire, family, pigs, chickens and dogs, not to mention dozens of useful plants, by sea.
 
-Other passages in the same book present some fairly detailed conclusions about the design of the vessels. These are based partly on the logic of technology -what is possible and what is likely in the development of techniques, given certain equipment and natural resources, engineering knowledge, navigational knowledge, climatic conditions, etc. - and partly on distributional grounds.
+Other passages in the same book present some fairly detailed conclusions about the design of the vessels. These are based partly on the logic of technology - what is possible and what is likely in the development of techniques, given certain equipment and natural resources, engineering knowledge, navigational knowledge, climatic conditions, etc. - and partly on distributional grounds.
 
 
 <a id="p-175"></a>
@@ -100,7 +100,7 @@ Each reconstructed word or etymon is attributed to a certain level of the Austro
 ## 2.1. Types of vessel
 
 
-[Haddon and Hornell](../references.md#source-HaddonHornell1938) ([1938](../references.md#source-HaddonHornell1938) :70-72) referred to ten or so putative cognate sets having the general sense of 'canoe' or 'boat' that go back to an early stage or stages of Austronesian. While early Austronesian speakers probably had several different named types of craft, most of Haddon and Hornell's etymologies are false. Only one of their putative cognate sets can be attributed to an early Austronesian interstage-that pointing to PCEMP _&ast;waŋka_, POc _&ast;waga_.
+[Haddon and Hornell](../references.md#source-HaddonHornell1938) ([1938](../references.md#source-HaddonHornell1938): 70-72) referred to ten or so putative cognate sets having the general sense of 'canoe' or 'boat' that go back to an early stage or stages of Austronesian. While early Austronesian speakers probably had several different named types of craft, most of Haddon and Hornell's etymologies are false. Only one of their putative cognate sets can be attributed to an early Austronesian interstage-that pointing to PCEMP _&ast;waŋka_, POc _&ast;waga_.
 
 
 <a id="p-178"></a>
@@ -298,7 +298,7 @@ POc _&ast;waga_ (phonetically [waŋga] with [ŋg] being a single phoneme) is wid
 
 
 
-The primary sense of POc _&ast;waga_ was perhaps 'large sailing canoe' in contrast to paddling canoes (dugouts and small outrigger canoes). This sense is widely reflected across subgroups of Oceanic. As the name of the largest and most prestigious type, &ast;waga would have been a natural choice as a generic term for all types of canoe and in a number of languages the generic sense has become primary. An example is from Kilivila, the language of the Kiriwina people of the Trobriand Islands (reported by [Haddon](../references.md#source-Haddon1937) ([1937](../references.md#source-Haddon1937):267-269), based on [Malinowski](../references.md#source-Malinowski1922) ([1922](../references.md#source-Malinowski1922)) and correspondence with Malinowski). In Kiriwina there are four named types of canoes. The _kewoʔu_ is a simple dugout with outrigger, used in the lagoon. The _kalipoulo_, a fishing canoe, is a larger dugout with several designs. These have in common a hull built up with a washstrake on each side, and transverse carved and painted breakwaters, and the hull usually has pointed ends, carved and painted. There is often a platform over the booms. The sail is a lateen. The masawa is a large trading canoe, similarly constructed to the kalipoulo but with two clinker-built washstrakes on each side and twenty or more booms covered by a continuous platform. It carries a large, elongated steering oar worked by two men. The nagega is larger and more seaworthy than the masawa, with higher sides and more carrying capacity and a central standing mast, as opposed to a leaning mast stepped within the hull and shored by a prop. The generic term for all these craft is waga. In another part of Papua, around Samarai, [Abel](../references.md#source-Abel1902) ([1902](../references.md#source-Abel1902):62) reports that vaga is the generic for all kinds of sailing canoes, but evidently excluded canoes without outriggers or sails.
+The primary sense of POc _&ast;waga_ was perhaps 'large sailing canoe' in contrast to paddling canoes (dugouts and small outrigger canoes). This sense is widely reflected across subgroups of Oceanic. As the name of the largest and most prestigious type, &ast;waga would have been a natural choice as a generic term for all types of canoe and in a number of languages the generic sense has become primary. An example is from Kilivila, the language of the Kiriwina people of the Trobriand Islands (reported by [Haddon](../references.md#source-Haddon1937) ([1937](../references.md#source-Haddon1937):267-269), based on [Malinowski](../references.md#source-Malinowski1922) ([1922](../references.md#source-Malinowski1922)) and correspondence with Malinowski). In Kiriwina there are four named types of canoes. The _kewoʔu_ is a simple dugout with outrigger, used in the lagoon. The _kalipoulo_, a fishing canoe, is a larger dugout with several designs. These have in common a hull built up with a washstrake on each side, and transverse carved and painted breakwaters, and the hull usually has pointed ends, carved and painted. There is often a platform over the booms. The sail is a lateen. The _masawa_ is a large trading canoe, similarly constructed to the _kalipoulo_ but with two clinker-built washstrakes on each side and twenty or more booms covered by a continuous platform. It carries a large, elongated steering oar worked by two men. The _nagega_ is larger and more seaworthy than the _masawa_, with higher sides and more carrying capacity and a central standing mast, as opposed to a leaning mast stepped within the hull and shored by a prop. The generic term for all these craft is waga. In another part of Papua, around Samarai, [Abel](../references.md#source-Abel1902) ([1902](../references.md#source-Abel1902):62) reports that _vaga_ is the generic for all kinds of sailing canoes, but evidently excluded canoes without outriggers or sails.
 
 Cognates belonging to the set above are sometimes placed together with forms listed below:
 
@@ -540,7 +540,7 @@ Although the WMP cognates denote 'outrigger float', there is a much stronger can
 
 Figure 24:  POc _&ast;waga_ 'canoe' (after [Koch n.d.](../references.md#source-Kochnd): 147) POc _&ast;kati(R)_ '(small) outrigger canoe or canoe hull',  POc _&ast;(q)oRa_ 'topstrake', POc _&ast;soka(r)_ 'thwart',  POc _&ast;muri-_ 'stern ',  POc _&ast;muqa-_ 'front, bow', POc _&ast;patar_ 'platform, decking', POc _&ast;saman_ 'outrigger float',  POc _&ast;kiajo_ 'outrigger boom', POc _&ast;patoto_ 'connective sticks attaching float'
 
-If POc _&ast;kati(R)_ referred to a small outrigger canoe, then the following set may reflect a term for a large outrigger canoe (perhaps synonymous with &ast;waga in its narrower sense):
+If POc _&ast;kati(R)_ referred to a small outrigger canoe, then the following set may reflect a term for a large outrigger canoe (perhaps synonymous with _&ast;waga_ in its narrower sense):
 
 <table>
 <tr>
@@ -654,7 +654,7 @@ If POc _&ast;kati(R)_ referred to a small outrigger canoe, then the following se
 
 Evidence for the reconstruction occurs in two geographically separated primary subgroups of Oceanic, but apparently nowhere else. Despite this distribution, the evidence would be clear enough, were it not for (i) the meaning of the Proto Southeast Solomonic term, reconstructable as 'plank-built canoe', and (ii) the fact that the Lau, Baegu, Kwai and Arosi reflexes could well reflect, not _&ast;tola_, but POc _&ast;(q)oRa_ 'strake, probably topstrake (washstrake) ([§2.4](#s-2-4)) (Cristobal-Malaitan languages regularly lose POc _&ast;t_). It is possible that the forms _ola_/_ora_ reflect a falling together of _&ast;tola_ and _&ast;(q)oRa_, the meaning narrowing in favour of _&ast;(q)oRa_ and then transferred to Bugotu, Gela _tola_.
 
-Evidence from other Southeast Solomonic languages further confuses the issue. Gela and Tolo (Guadalcanal) _tiola_ 'generic term for plank-built canoes' and 'Are'are iora, Sa'a _iola_ 'plank-built canoe' might be explained as deriving from a bimorphemic form _&ast;ti-(q)oRa_. This might be liable to conflation with reflexes of _&ast;tola_ also.
+Evidence from other Southeast Solomonic languages further confuses the issue. Gela and Tolo (Guadalcanal) _tiola_ 'generic term for plank-built canoes' and 'Are'are _iora_, Sa'a _iola_ 'plank-built canoe' might be explained as deriving from a bimorphemic form _&ast;ti-(q)oRa_. This might be liable to conflation with reflexes of _&ast;tola_ also.
 
 
 <a id="p-182"></a>
@@ -664,7 +664,7 @@ Evidence from other Southeast Solomonic languages further confuses the issue. Ge
 ## 2.2. Double canoes
 
 
-It has been suggested (Roger Green, pers.comm.) that the ocean-going double-hulled canoe was an innovation of Oceanic speakers. He argues that it was large double canoes, stable and able to carry big loads while being sailed with traditional rig, that were the key to the transport of people, crops and domestic animals to the far-flung islands of Remote Oceania (the Pacific islands east and north of the New Guinea area, the Bismarck Archipelago and the main Solomon Islands chain).[^8] The design of double canoes varied in some details from place to place but the main structure consisted of two dugout hulls, placed parallel and usually one to two metres apart, joined by booms, with a platform built amidships. In the most efficient craft, represented by the Fijian drua, one hull was slightly smaller than the other. At the time of first European contact such craft were almost wholly confined to Remote Oceania, being present in New Caledonia and Fiji, in many parts of Polynesia and in a restricted region of the central Caroline Islands. In western Melanesia double canoes were made by the Mailu, of south-east coast Papua. The Mailu speak a non-Austronesian language but many of their canoe terms (and other parts of their vocabulary) are from Austronesian; it seems likely that the population of the Mailu area was once largely Austronesian-speaking. The Motu layatoi, a multi-hulled craft, can be derived from the double canoe.
+It has been suggested (Roger Green, pers.comm.) that the ocean-going double-hulled canoe was an innovation of Oceanic speakers. He argues that it was large double canoes, stable and able to carry big loads while being sailed with traditional rig, that were the key to the transport of people, crops and domestic animals to the far-flung islands of Remote Oceania (the Pacific islands east and north of the New Guinea area, the Bismarck Archipelago and the main Solomon Islands chain).[^8] The design of double canoes varied in some details from place to place but the main structure consisted of two dugout hulls, placed parallel and usually one to two metres apart, joined by booms, with a platform built amidships. In the most efficient craft, represented by the Fijian _drua_, one hull was slightly smaller than the other. At the time of first European contact such craft were almost wholly confined to Remote Oceania, being present in New Caledonia and Fiji, in many parts of Polynesia and in a restricted region of the central Caroline Islands. In western Melanesia double canoes were made by the Mailu, of south-east coast Papua. The Mailu speak a non-Austronesian language but many of their canoe terms (and other parts of their vocabulary) are from Austronesian; it seems likely that the population of the Mailu area was once largely Austronesian-speaking. The Motu _laɣatoi_, a multi-hulled craft, can be derived from the double canoe.
 
 No term for double canoe can safely be reconstructed for any very early Austronesian interstage. However, a number of Oceanic languages reflect the following form:
 
@@ -755,9 +755,9 @@ cf. also:
 </table>
 
 
-PEOc _&ast;paqurua_ is a compound formed from POc _&ast;paqu(s)_ 'bind, lash; construct by tying together' ([Ch.9, § 10](chapter9.md#s-10)) and _&ast;rua_ 'two'. While it is possible that Lau _foorua_ is borrowed from a Polynesian language, the details of form do not support this notion. Lau has the independent bases _foo_ 'bind' and _rua_ 'two'. [Haddon](../references.md#source-Haddon1937) ([1937](../references.md#source-Haddon1937) :77) reports Kinilaulau (Carteret Islands) _haulau_, _holua_ 'outrigger canoe ', but this term is probably borrowed from a Polynesian language believed to have been formerly spoken on the island or from nearby Takuu.
+PEOc _&ast;paqurua_ is a compound formed from POc _&ast;paqu(s)_ 'bind, lash; construct by tying together' ([Ch.9, § 10](chapter9.md#s-10)) and _&ast;rua_ 'two'. While it is possible that Lau _foorua_ is borrowed from a Polynesian language, the details of form do not support this notion. Lau has the independent bases _foo_ 'bind' and _rua_ 'two'. [Haddon](../references.md#source-Haddon1937) ([1937](../references.md#source-Haddon1937): 77) reports Kinilaulau (Carteret Islands) _haulau_, _holua_ 'outrigger canoe ', but this term is probably borrowed from a Polynesian language believed to have been formerly spoken on the island or from nearby Takuu.
 
-[Friederici](../references.md#source-Friederici1928) ([1928](../references.md#source-Friederici1928):31) suggests that the double canoe of Oceania (or at least the type with smaller and finer-pointed port hull) originated from a canoe with a single outrigger, on the grounds that (a) in the double canoes of Polynesia and Fiji one of the two hulls is usually smaller, the smaller hull being called by the term for the outrigger float (e.g. hama in Tongan), and (b) the connecting poles between the hulls are also called by the word for the outrigger booms (kiato in Tongan). On the other hand, [Haddon and Hornell](../references.md#source-HaddonHornell1938) ([1938](../references.md#source-HaddonHornell1938) :43) argue that the most likely origin of the double canoe is from two dugouts lashed together or a short distance apart. They also note the possibility that the single outrigger canoe may ultimately be derived from the double canoe by reducing the port hull to form a float. As the smaller hull and the float and the connecting poles serve the same purpose in both types of vessels, the extension of terms seen in Tongan hama and hato is natural. On logical grounds alone it is hard to choose between these historical interpretations. And in this case the linguistic evidence is relatively unhelpful.
+[Friederici](../references.md#source-Friederici1928) ([1928](../references.md#source-Friederici1928):31) suggests that the double canoe of Oceania (or at least the type with smaller and finer-pointed port hull) originated from a canoe with a single outrigger, on the grounds that (a) in the double canoes of Polynesia and Fiji one of the two hulls is usually smaller, the smaller hull being called by the term for the outrigger float (e.g. _hama_ in Tongan), and (b) the connecting poles between the hulls are also called by the word for the outrigger booms (_kiato_ in Tongan). On the other hand, [Haddon and Hornell](../references.md#source-HaddonHornell1938) ([1938](../references.md#source-HaddonHornell1938): 43) argue that the most likely origin of the double canoe is from two dugouts lashed together or a short distance apart. They also note the possibility that the single outrigger canoe may ultimately be derived from the double canoe by reducing the port hull to form a float. As the smaller hull and the float and the connecting poles serve the same purpose in both types of vessels, the extension of terms seen in Tongan _hama_ and _hato_ is natural. On logical grounds alone it is hard to choose between these historical interpretations. And in this case the linguistic evidence is relatively unhelpful.
 
 
 <a id="p-183"></a>
@@ -829,7 +829,7 @@ Numerous other reconstructions, attributable to interstages lower than PMP or PO
 
 <a id="p-184"></a>
 
-These forms have sometimes been compared with Oceanic forms represented by Tongan folau 'voyage, travel by sea', Fijian volau 'boat shed' (cf. &ast;pa-laSud, [§9.2](#s-9-2)). A PPn reconstruction for a small canoe used close to shore is well supported:
+These forms have sometimes been compared with Oceanic forms represented by Tongan _folau_ 'voyage, travel by sea', Fijian _volau_ 'boat shed' (cf. _&ast;pa-laSud_, [§9.2](#s-9-2)). A PPn reconstruction for a small canoe used close to shore is well supported:
 
 <table>
 <tr>
@@ -965,11 +965,11 @@ A possible cognate occurs in a single Western Oceanic language, Mekeo of the Cen
 
 
 
-[Chowning](../references.md#source-Chowning1985) ([1985](../references.md#source-Chowning1985) :59) gives the following as possible cognates, although the final vowel is problematic:
+[Chowning](../references.md#source-Chowning1985) ([1985](../references.md#source-Chowning1985): 59) gives the following as possible cognates, although the final vowel is problematic:
 
 ```
 NNG: Kove                laye               'raft'
-MM: Nakanai              lage               'raft'
+MM:  Nakanai             lage               'raft'
 ```
 
 
@@ -982,9 +982,9 @@ MM: Nakanai              lage               'raft'
 
 In pre-European times three basic hull designs were found in Austronesian-speaking communities: (a) a dugout built from a single log; (b) a five-part canoe, composed of dug-out hull, with the sides raised by sewing one side piece or strake to each side, with forked, crutch-shaped pieces at each end; and (c) a built-up canoe, in which a number of planks or strakes are added to a keel. The keel may consist of a thick plank or a dugout underbody (or sometimes two or even three dugouts joined).
 
-Ethnologists have argued on logical grounds that types (b) and (c) developed from the dugout prototype. In his account of Philippine boat-building in the sixteenth and seventeenth centuries, [Scott](../references.md#source-Scott1982) ([1982](../references.md#source-Scott1982) :337-338) sketches a theory of the evolution of the hull of Philippine boats:
+Ethnologists have argued on logical grounds that types (b) and (c) developed from the dugout prototype. In his account of Philippine boat-building in the sixteenth and seventeenth centuries, [Scott](../references.md#source-Scott1982) ([1982](../references.md#source-Scott1982): 337-338) sketches a theory of the evolution of the hull of Philippine boats:
 
-> In the ship-building technique [developed in China and Europe in the Middle Ages) … a rigid framework of keel and ribs is first constructed… and the wooden planking of the hull then nailed to it with metal spikes or wooden trenails. The older technique was to build the hull first, plank by plank carved to fit, and to fasten the ribs in afterwards. This technique is probably a natural development of the one-log dugout canoe by adding one board to each side to obtain higher freeboard.
+> In the ship-building technique [developed in China and Europe in the Middle Ages] … a rigid framework of keel and ribs is first constructed … and the wooden planking of the hull then nailed to it with metal spikes or wooden trenails. The older technique was to build the hull first, plank by plank carved to fit, and to fasten the ribs in afterwards. This technique is probably a natural development of the one-log dugout canoe by adding one board to each side to obtain higher freeboard.
 
 > By increasing the number of such additional planks, a fully developed boat or ship is produced. But as the sides of the canoe, or banca, are thinned, some transverse strengthening is required, and this can be provided by running strut-like thwarts across the vessel, securing them to the sides without nails by means of tambukos [lugs] and lashing. For this purpose a flexible rib can be pressed down across all of them and lashed securely to the matching tambukos carved on each plank. Finally a combination of such thwarts and ribs lashed together … produces a sturdy vessel whose hull and other structural parts are held firm under prestressed tension.
 
@@ -995,7 +995,7 @@ The question arises as to whether any or all of these features of hull design ar
 ## 2.4. Planking
 
 
-The comparisons below and in [§2.5](#s-2-5) point to the use by speakers of PMP and its immediate descendants, of boats built up by planking and strengthened by thwarts:
+The comparisons below and in [§2.5](#s-2-5)point to the use by speakers of PMP and its immediate descendants, of boats built up by planking and strengthened by thwarts:
 
 <table>
 <tr>
@@ -1170,7 +1170,7 @@ The question of how planks were joined is connected to the question of whether e
 
 <a id="p-187"></a>
 
-We can reconstruct PMP &ast;kiRam 'adze/axe' and _&ast;taRaqi_ (V) 'adze, carve' ([Ch.4, §4.1.1](chapter4.md#s-4-1)), with reflexes in Oceanic as well as in WMP witnesses, but there are no secure PMP or POc reconstructions for other equipment likely to have been used in boat-building.[^11] The current consensus among archaeologists is that the introduction of metal in eastern Asia postdated the break-up of PAn and PMP. Although [Blust](../references.md#source-Blust1976b) ([1976b](../references.md#source-Blust1976b)) has pointed to comparisons between Formosan and WMP forms suggesting that PAn speakers may have had a knowledge of metal tools, it is likely that this knowledge spread after the break-up of PAn and PMP.
+We can reconstruct PMP _&ast;kiRam_ 'adze/axe' and _&ast;taRaqi_ (V) 'adze, carve' ([Ch.4, §4.1.1](chapter4.md#s-4-1)), with reflexes in Oceanic as well as in WMP witnesses, but there are no secure PMP or POc reconstructions for other equipment likely to have been used in boat-building.[^11] The current consensus among archaeologists is that the introduction of metal in eastern Asia postdated the break-up of PAn and PMP. Although [Blust](../references.md#source-Blust1976b) ([1976b](../references.md#source-Blust1976b)) has pointed to comparisons between Formosan and WMP forms suggesting that PAn speakers may have had a knowledge of metal tools, it is likely that this knowledge spread after the break-up of PAn and PMP.
 
 
 <a id="s-2-5"></a>
@@ -1244,7 +1244,7 @@ We can reconstruct PMP &ast;kiRam 'adze/axe' and _&ast;taRaqi_ (V) 'adze, carve'
 ## 2.6. Underbody, keel
 
 
-There is no well-supported PMP reconstruction for 'dugout underbody of canoe (to which planking is added)' or for 'keel of built-up canoe' although &ast;ba(ŋ)ka(q) ([§2.1](#s-2-1)) is a candidate for the former. Such a term is, however, clearly reconstructable for PCP:
+There is no well-supported PMP reconstruction for 'dugout underbody of canoe (to which planking is added)' or for 'keel of built-up canoe' although _&ast;ba(ŋ)ka(q)_ ([§2.1](#s-2-1)) is a candidate for the former. Such a term is, however, clearly reconstructable for PCP:
 
 <table>
 <tr>
@@ -1407,7 +1407,7 @@ Two well-attested POc locative nouns having the general sense of 'rear, back par
 
 
 
-See also PPn &ast;tau-muri 'afterdeck' ([§2.10](#s-2-10))
+See also PPn _&ast;tau-muri_ 'afterdeck' ([§2.10](#s-2-10))
 
 <table>
 <tr>
@@ -1556,6 +1556,8 @@ In many regions of Oceania larger canoes are constructed with a projecting headb
 </table>
 
 
+
+FIXME: From vol2: In vol. 1, p.189 the form POc _&ast;ijuŋ_ ‘projecting headboard of prow’ is erroneously given for &ast;(i,u)cuŋ. This is almost certainly the same etymon as that reconstructed here.
 
 The central meaning of POc _&ast;ijuŋ_ was 'nose' and that of _&ast;ŋuju_ 'beak, snout, mouth'. Reflexes of both commonly have the extended sense 'projecting point'. The conjunction of Southeast Solomonic and Polynesian evidence suggests _&ast;ijuŋ_ as the more likely POc form carrying the sense 'projecting headboard'. No widespread cognate set for the stempiece has been noted.
 
@@ -2016,7 +2018,7 @@ The outrigger float is connected to the hull by booms, two or three in the case 
 
 
 
-Fijian _i-kaso_ 'outrigger boom' (zero for _&ast;i_ irregular) has sometimes been included in this set, but probably belongs to a separate set, along with such forms as Mota gaso 'rafter', Lau _ʔato_ 'rafter', which derive from a well-established etymon PMP &ast;kasaw, POc _&ast;kaso_ 'rafter' ([Ch.3, §3.4](chapter3.md#s-3-4)). However, the comparison with Lau ato 'outrigger boom' suggests that POc &ast;kaso probably had the general meaning 'connecting beam or brace', and as well as denoting crossbeams in a house may have been used as a synonym of _&ast;kiajo_.
+Fijian _i-kaso_ 'outrigger boom' (zero for _&ast;i_ irregular) has sometimes been included in this set, but probably belongs to a separate set, along with such forms as Mota gaso 'rafter', Lau _ʔato_ 'rafter', which derive from a well-established etymon PMP &ast;kasaw, POc _&ast;kaso_ 'rafter' ([Ch.3, §3.4](chapter3.md#s-3-4)). However, the comparison with Lau _ato_ 'outrigger boom' suggests that POc _&ast;kaso_ probably had the general meaning 'connecting beam or brace', and as well as denoting crossbeams in a house may have been used as a synonym of _&ast;kiajo_.
 
 
 <a id="p-193"></a>
@@ -2026,7 +2028,7 @@ Fijian _i-kaso_ 'outrigger boom' (zero for _&ast;i_ irregular) has sometimes bee
 ## 4.3. Connective sticks attaching float
 
 
-Three main methods of connecting the outrigger float to the booms can be distinguished: direct attachment, . in which all of the booms are curved and lashed directly to the outrigger; indirect attachment, in which all of the booms are lashed to sticks that are implanted in or lashed to the float; and mixed attachment, in which some booms are attached directly and others indirectly. A great diversity of methods of indirect attachment is found.
+Three main methods of connecting the outrigger float to the booms can be distinguished: direct attachment, in which all of the booms are curved and lashed directly to the outrigger; indirect attachment, in which all of the booms are lashed to sticks that are implanted in or lashed to the float; and mixed attachment, in which some booms are attached directly and others indirectly. A great diversity of methods of indirect attachment is found.
 
 A POc reconstruction for the connective sticks (stanchions, struts) was made by [Milke](../references.md#source-Milke1968) ([1968](../references.md#source-Milke1968)) and is well attested. A single cognate in the north-west New Guinea language, Numfor, allows tentative attribution of this etymon (with indeterminate final vowel) to Proto Eastern Malayo-Polynesian.
 
@@ -2337,7 +2339,7 @@ A PMP term for 'sail' (the object) is continued in all the major subgroups:
 
 
 
-Traditional Oceanic sails are made of matting, woven from pandanus leaves or other plant fibres. It is therefore not surprising to find that reflexes of POc _&ast;qebal_ 'pandanus mat' also have the meaning 'sail' in a few languages. Given that POc _&ast;layaR_ 'sail' is well established, it is likely that _&ast;qebal_ independently acquired the sense 'sail' in more than one daughter language. For the cognate set, see [Ch.4, §3.1](chapter4.md#s-3-1) .
+Traditional Oceanic sails are made of matting, woven from pandanus leaves or other plant fibres. It is therefore not surprising to find that reflexes of POc _&ast;qebal_ 'pandanus mat' also have the meaning 'sail' in a few languages. Given that POc _&ast;layaR_ 'sail' is well established, it is likely that _&ast;qebal_ independently acquired the sense 'sail' in more than one daughter language. For the cognate set, see [Ch.4, §3.1](chapter4.md#s-3-1).
 
 
 <a id="p-195"></a>
@@ -2432,7 +2434,7 @@ The following form is well attested though its reflexes show a range of meanings
 
 
 
-POc or PCP _&ast;jila_ has commonly (e.g. [Blust 1976a](../references.md#source-Blust1976a), [Geraghty 1986](../references.md#source-Geraghty1986), [Ross 1988](../references.md#source-Ross1988)) been glossed 'sheet', referring to the rope fastened to the lower corner of a sail to hold it and control its angle. The weight of the evidence, however, suggests that the term referred in POc to the booms or poles used to extend and support a triangular sail, denoting either the upper pole (the yard) or the lower pole (the boom). The use of reflexes of _&ast;jila_ to denote a fixed mast is confined to certain parts of Polynesia and this sense probably represents a post-PPn innovation. Most Oceanic craft with triangular sails do not use a fixed mast. In one kind of rigging (spritsail) the longer of the two poles extending the sail serves as the mast, with a mast-shore or stays to secure it, or with the apex of the two poles resting on the deck. I n another kind of rigging (lateen), the mast is a separate moveable pole which pivots on a thwart in the dugout or on a socket on the deck and is supported by ropes (stays or sheets) tied to the hull or outrigger and sometimes by a mast-shore. The use of reflexes of &ast;jila for 'mast' and for 'sheet' in various Oceanic languages can thus be derived from the original functions of the booms as supporting and controlling the sail.
+POc or PCP _&ast;jila_ has commonly (e.g. [Blust 1976a](../references.md#source-Blust1976a), [Geraghty 1986](../references.md#source-Geraghty1986), [Ross 1988](../references.md#source-Ross1988)) been glossed 'sheet', referring to the rope fastened to the lower corner of a sail to hold it and control its angle. The weight of the evidence, however, suggests that the term referred in POc to the booms or poles used to extend and support a triangular sail, denoting either the upper pole (the yard) or the lower pole (the boom). The use of reflexes of _&ast;jila_ to denote a fixed mast is confined to certain parts of Polynesia and this sense probably represents a post-PPn innovation. Most Oceanic craft with triangular sails do not use a fixed mast. In one kind of rigging (spritsail) the longer of the two poles extending the sail serves as the mast, with a mast-shore or stays to secure it, or with the apex of the two poles resting on the deck. In another kind of rigging (lateen), the mast is a separate moveable pole which pivots on a thwart in the dugout or on a socket on the deck and is supported by ropes (stays or sheets) tied to the hull or outrigger and sometimes by a mast-shore. The use of reflexes of _&ast;jila_ for 'mast' and for 'sheet' in various Oceanic languages can thus be derived from the original functions of the booms as supporting and controlling the sail.
 
 
 <a id="p-196"></a>
@@ -2587,7 +2589,7 @@ The following cognate set appears to be confined to Central Pacific:
 
 
 
-These forms may be cognate with PCP _&ast;tuku_ 'let go, slacken' . Again, the narrow geographic range of this cognate set makes it hard to rule out diffusion.
+These forms may be cognate with PCP _&ast;tuku_ 'let go, slacken'. Again, the narrow geographic range of this cognate set makes it hard to rule out diffusion.
 
 
 <a id="s-6"></a>
@@ -3985,7 +3987,7 @@ There is clear evidence for a POc compound consisting of _&ast;mata_ 'opening, e
 ## 8.4. Boatshed
 
 
-While boatsheds, for building and sheltering boats, are common in the Malayo-Polynesian speaking region, no really widespread cognate set for such a building has been noted outside the Central Pacific group. Some Oceanic languages use a simple term reflecting PMP &ast;balay 'house or building, probably with open sides' as Lou (Admiralties) pal 'boatshed'. Others use a compound nominal whose components, as in English, are the words for 'boat' and 'house' . It may be that speakers of PMP used such a compound but it is hard to rule out the possibility of independent parallel developments in the daughter languages. However, there is good evidence for a distinctive PCP term for boatshed, evidently incorporating the term for 'make a sea voyage' (see POc _&ast;palau(r)_, [§9.2](#s-9-2)):
+While boatsheds, for building and sheltering boats, are common in the Malayo-Polynesian speaking region, no really widespread cognate set for such a building has been noted outside the Central Pacific group. Some Oceanic languages use a simple term reflecting PMP _&ast;balay_ 'house or building, probably with open sides' as Lou (Admiralties) _pal_ 'boatshed'. Others use a compound nominal whose components, as in English, are the words for 'boat' and 'house' . It may be that speakers of PMP used such a compound but it is hard to rule out the possibility of independent parallel developments in the daughter languages. However, there is good evidence for a distinctive PCP term for boatshed, evidently incorporating the term for 'make a sea voyage' (see POc _&ast;palau(r)_, [§9.2](#s-9-2)):
 
 <table>
 <tr>
@@ -4529,7 +4531,7 @@ Upwards of twenty terms to do with watercraft and seafaring can be reconstructed
 
 Virtually all the reconstructable PMP canoe and seafaring terms were continued in POc and PCP. In addition, around ten terms can be attributed to POc and PCP that have not so far been reconstructed for PMP. While these figures are impressive, they probably represent only a small proportion of the total body of terms for canoes and seafaring used by the speech communities in question. In contemporary societies where large sailing canoes remain in use, it is usual for a language to have over one hundred terms for parts of the vessel alone.
 
-Some of the POc and PCP terms which do not have known sources in PMP may be formal innovations. It seems likely, however, that in most cases the innovative forms replaced functionally equivalent PMP terms whose forms are not recoverable on present evidence. This conclusion rests on logical grounds: the presence of certain terms strongly implies that other functionally connected terms also existed. Thus, while we cannot reconstruct with certainty a PMP name for 'outrigger sailing canoe', we can reconstruct PMP terms for 'outrigger float', 'outrigger boom ', 'sail' and other relevant parts and equipment. It can therefore safely be inferred that PMP speakers were familiar with outrigger sailing canoes. Furthermore, it seems that all Oceanic languages have a general name for outrigger sailing canoes (as well as, usually, a variety of terms for specific types). It would be very surprising if such a name did not exist in PMP, even if it was not cognate with the term &ast;waŋka/&ast;waga that has been reconstructed for PEMP and POc. The same reasoning applies, say, to 'canoe platform', though with slightly less force. A term for such a platform, placed amidships over hull and outrigger booms, is well supported for POc (&ast;patar) but not for PMP. However, a PMP term for 'load a vessel' and 'cargo, load carried by a vessel' is reconstructable and it is therefore likely that PMP speakers built platforms on their larger, cargo-carrying outrigger canoes. Although a PMP term for 'strake, plank (of canoe +)' is recoverable, implying familiarity with built-up canoes, no term for the end-decking of a built-up canoe-minimally, triangular end-pieces abutting the topstrake fore and aft-is attributable to PMP. But as end-decking of some sort is a functional necessity in built-up seagoing outrigger canoes, it is unlikely that PMP seagoing canoes would have lacked these essential parts.
+Some of the POc and PCP terms which do not have known sources in PMP may be formal innovations. It seems likely, however, that in most cases the innovative forms replaced functionally equivalent PMP terms whose forms are not recoverable on present evidence. This conclusion rests on logical grounds: the presence of certain terms strongly implies that other functionally connected terms also existed. Thus, while we cannot reconstruct with certainty a PMP name for 'outrigger sailing canoe', we can reconstruct PMP terms for 'outrigger float', 'outrigger boom ', 'sail' and other relevant parts and equipment. It can therefore safely be inferred that PMP speakers were familiar with outrigger sailing canoes. Furthermore, it seems that all Oceanic languages have a general name for outrigger sailing canoes (as well as, usually, a variety of terms for specific types). It would be very surprising if such a name did not exist in PMP, even if it was not cognate with the term _&ast;waŋka_/_&ast;waga_ that has been reconstructed for PEMP and POc. The same reasoning applies, say, to 'canoe platform', though with slightly less force. A term for such a platform, placed amidships over hull and outrigger booms, is well supported for POc (_&ast;patar_) but not for PMP. However, a PMP term for 'load a vessel' and 'cargo, load carried by a vessel' is reconstructable and it is therefore likely that PMP speakers built platforms on their larger, cargo-carrying outrigger canoes. Although a PMP term for 'strake, plank (of canoe +)' is recoverable, implying familiarity with built-up canoes, no term for the end-decking of a built-up canoe-minimally, triangular end-pieces abutting the topstrake fore and aft-is attributable to PMP. But as end-decking of some sort is a functional necessity in built-up seagoing outrigger canoes, it is unlikely that PMP seagoing canoes would have lacked these essential parts.
 
 
 <a id="p-209"></a>
@@ -4573,4 +4575,4 @@ The moral we might draw at this point is a rather obvious one: that for doing cu
 
 [^16]: Paul Geraghty (pers.comm.) argues that the POc form was _&ast;katae_, and that the form _&ast;katea_ is a PPn innovation which has been borrowed by a few other languages.
 
-[^17]: According to [Best](../references.md#source-Best1925) ([1925](../references.md#source-Best1925): 183), the term ra kautu [=_raa kautuu_] refers to a (triangular) sail with mast that is stepped upright in a cupped boss on the floor of the dugout.
+[^17]: According to [Best](../references.md#source-Best1925) ([1925](../references.md#source-Best1925): 183), the term _ra kautu_ [=_raa kautuu_] refers to a (triangular) sail with mast that is stepped upright in a cupped boss on the floor of the dugout.
