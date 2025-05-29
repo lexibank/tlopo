@@ -4555,24 +4555,24 @@ POc *bayau ‘ocean wave, ocean swell’
 
 <
 POc *loka (N) ‘high sea or tide, heavy breakers’; (V) ‘be high, rough, of sea or surf’
- Adm: Lou               loka              ‘high tide, flood’
- Fij:   Wayan           loka-loka         ‘of sea, be rough during calm weather, indicating strong winds will come later’
- Fij:   Bauan           loka              (N) ‘heavy breakers over a reef, very heavy tides that flow inland, floods’; (V) ‘break, of breakers, tidal wave’ (ua loka ‘tidal wave’)
- Pn:    Niuean          loka              ‘be rough, usually of sea’
- Pn:    Tongan          loka              ‘be rough’ (of harbour, lagoon, passage, or sea where it meets coast)
- Pn:    Tongan          loka-tau          ‘be rough and roaring’ (of sea near the coast)
- Pn:    Tikopia         roka              ‘rough of sea; great wave, as in heavy surf’
+ Adm: Lou             loka              ‘high tide, flood’
+ Fij: Wayan           loka-loka         ‘of sea, be rough during calm weather, indicating strong winds will come later’
+ Fij: Bauan           loka              (N) ‘heavy breakers over a reef, very heavy tides that flow inland, floods’; (V) ‘break, of breakers, tidal wave’ (_ua loka_ ‘tidal wave’)
+ Pn:  Niuean          loka              ‘be rough, usually of sea’
+ Pn:  Tongan          loka              ‘be rough’ (of harbour, lagoon, passage, or sea where it meets coast)
+ Pn:  Tongan          loka-tau          ‘be rough and roaring’ (of sea near the coast)
+ Pn:  Tikopia         roka              ‘rough of sea; great wave, as in heavy surf’
 >
 
 <
 PCP *bari ‘(waves) pound the coast, as at high tide’
- Fij:  Bauan          bari               ‘nibble at a hard thing, as waves against a rock face’
+ Fij: Bauan          bari               ‘nibble at a hard thing, as waves against a rock face’
 PPn *pali ‘to pound the coast, as at high tide’
- Pn:   Tongareva        pari                ‘rough, of waves’
- Pn:   Rarotongan       pari                ‘high, full, as the tide’
- Pn:   Tahitian         pari-pari           ‘spray breaking on the shore’
- Pn:    Tuamotuan       pari                ‘(waves etc.) pound against and wear away; flow over, as the tide’
- Pn:   Maori            pari                ‘flowing, of tide; flow over s.t., of tide’
+ Pn:  Tongareva      pari                ‘rough, of waves’
+ Pn:  Rarotongan     pari                ‘high, full, as the tide’
+ Pn:  Tahitian       pari-pari           ‘spray breaking on the shore’
+ Pn:  Tuamotuan      pari                ‘(waves etc.) pound against and wear away; flow over, as the tide’
+ Pn:  Maori          pari                ‘flowing, of tide; flow over s.t., of tide’
 >
 
 4.2.5 Foam
@@ -4591,38 +4591,38 @@ __pre__
  PAn        *bujeq         ‘foam, bubbles, lather, scum, froth’
  PAn        *bua           ‘foam, bubbles, froth’
 
-PAn *buCaq and *puCaq are to our knowledge not reflected in Oceanic languages (the
-expected POc reflexes of either would be **puta(q) and **buta(q)). Of the other forms,
-PMP *budaq (POc *pura(q)) and POc *puro are discussed in Chapter 3 (see p.61 and p.83
-respectively), whilst PMP *busa and PAn *bujeq are referred to below. Blust’s reflexes of
-*bua are two from Taiwan, together with the Tolai and Maori reflexes that we prefer to
-attribute to PMP *busa (the expected Maori form is **puha).
+PAn _*buCaq_ and _*puCaq_ are to our knowledge not reflected in Oceanic languages (the
+expected POc reflexes of either would be _**puta(q)_ and _**buta(q)_). Of the other forms,
+PMP _*budaq_ (POc _*pura(q)_) and POc _*puro_ are discussed in Chapter 3 (see p.61 and p.83
+respectively), whilst PMP _*busa_ and PAn _*bujeq_ are referred to below. Blust’s reflexes of
+_*bua_ are two from Taiwan, together with the Tolai and Maori reflexes that we prefer to
+attribute to PMP _*busa_ (the expected Maori form is _**puha_).
 
    No single contemporary Oceanic language we know of has reflexes of two of these
-forms with identical meaning. However, Arosi has a contrast between ʔabuta ‘the break of
-a wave, the foam and white of the crest of a wave’ and huto-huto ‘foam, froth’, while
-’Are’are contrasts aputa ‘(surf) break’ with huto-huto ‘slime, saliva’. This suggests that
-POc *busa and *puso may have differed in meaning, with the former perhaps denoting
+forms with identical meaning. However, Arosi has a contrast between _ʔabuta_ ‘the break of
+a wave, the foam and white of the crest of a wave’ and _huto-hut_o ‘foam, froth’, while
+’Are’are contrasts _aputa_ ‘(surf) break’ with _huto-huto_ ‘slime, saliva’. This suggests that
+POc _*busa_ and _*puso_ may have differed in meaning, with the former perhaps denoting
 foam of the sea and the latter a more general term for foaming or slimy substances.
 
-   There is an additional formal complication, namely that PMP *bujeq seems to have two
-sets of reflexes in Oceanic languages, pointing to two POc forms: *buso and POc *puso. It
-may be that POc indeed had both, *buso perhaps a verb, *puso a verb or a noun (see vol. 1,
-pp.30–31). Alternatively, forms apparently reflecting *buso may represent a conflation of
-*busa and *puso, implying that *buso did not in fact occur in POc.
+   There is an additional formal complication, namely that PMP _*bujeq_ seems to have two
+sets of reflexes in Oceanic languages, pointing to two POc forms: _*buso_ and POc _*puso_. It
+may be that POc indeed had both, _*buso_ perhaps a verb, _*puso_ a verb or a noun (see vol. 1,
+pp.30–31). Alternatively, forms apparently reflecting _*buso_ may represent a conflation of
+_*busa_ and _*puso_, implying that *buso did not in fact occur in POc.
 
 <
 PMP *busa ‘foam’ (ACD)
 POc *busa ‘foam, froth’
- MM: Sursurunga         bus-bus          ‘foam coming from the mouth; bubbles’
- MM: Tolai              bua              (N) ‘foam of the sea’; (V) ‘foam, bubble, boil’
- SES: Arosi             (ʔa)buta         ‘the break of a wave, surf’ (ʔabutasi ‘to break in foam upon’)
- SES: ’Are’are          (a)puta          ‘break, of surf’
- NCV: Namakir           buha             ‘foam’
- Pn:     Maori          pua              ‘foam of the sea; foaming, breaking’
+ MM:  Sursurunga     bus-bus          ‘foam coming from the mouth; bubbles’
+ MM:  Tolai          bua              (N) ‘foam of the sea’; (V) ‘foam, bubble, boil’
+ SES: Arosi          (ʔa)buta         ‘the break of a wave, surf’ (_ʔabutasi_ ‘to break in foam upon’)
+ SES: ’Are’are       (a)puta          ‘break, of surf’
+ NCV: Namakir        buha             ‘foam’
+ Pn:  Maori          pua              ‘foam of the sea; foaming, breaking’
  cf. also:
- Pn:     Samoan         pusa             ‘give out smoke, steam, vapour’
- Pn:     Tongan         pu-puha          ‘be hot and perspiring’
+ Pn:  Samoan         pusa             ‘give out smoke, steam, vapour’
+ Pn:  Tongan         pu-puha          ‘be hot and perspiring’
 >
 
 <
@@ -4630,7 +4630,7 @@ PMP *bujeq ‘foam, bubbles, lather, scum, froth’ (ACD)
 POc *buso ‘foam, froth’
  Adm: Mussau            bīso            ‘foam, froth, bubbles’
  NNG: Manam             buso            ‘foam’
- PT:   Dobu             buso-buso       ‘foam’
+ PT:  Dobu              buso-buso       ‘foam’
  NCV: Raga              buso            ‘foam’
  Mic: Kiribati          buro-buro       ‘froth, bubbles, foam, lather’
  Mic: Ponapean          pʷuto-pʷut      ‘foam, scum’
@@ -4642,16 +4642,16 @@ POc *buso ‘foam, froth’
 <
 PAn *bujeq ‘foam, bubbles, lather, scum, froth’ (ACD)
 POc *puso ‘foam, froth, slime’
- PT:   Kiriwina          polu            (N) ‘foam, spray’ (vowel metathesis)
- MM: Nakanai             pu-puso         ‘pumice’
- SES: Sa’a               huto-huto       (N) ‘froth, foam’
- SES: Arosi              huto-huto       ‘froth, foam’
- SES: ’Are’are           huto-huto       ‘slime, saliva’
- Fij:  Wayan             vuso            ‘froth, foam’
- Fij:  Bauan             vuso            (N,V) ‘froth, foam’
- Pn:   Niuean            fiho            (N) ‘froth, foam’
- Pn:   Tongan            fiho            ‘phlegm’
- Pn:   W Futunan         fiso            (V) ‘foam, bubble’
+ PT:  Kiriwina          polu            (N) ‘foam, spray’ (vowel metathesis)
+ MM:  Nakanai           pu-puso         ‘pumice’
+ SES: Sa’a              huto-huto       (N) ‘froth, foam’
+ SES: Arosi             huto-huto       ‘froth, foam’
+ SES: ’Are’are          huto-huto       ‘slime, saliva’
+ Fij: Wayan             vuso            ‘froth, foam’
+ Fij: Bauan             vuso            (N,V) ‘froth, foam’
+ Pn:  Niuean            fiho            (N) ‘froth, foam’
+ Pn:  Tongan            fiho            ‘phlegm’
+ Pn:  W Futunan         fiso            (V) ‘foam, bubble’
 >
 
 4.2.6 Tides
@@ -4663,18 +4663,18 @@ certain tidal conditions. Although we have reconstructed terms only for the high
 points of tidal movement, communities evidently had names for a number of intermediate
 tidal stages, for tides at particular times of day and for seasonal tides. The following
 description of Lau (SES) terms is from Akimichi (1978:306). With one exception, these
-are all descriptive compounds based on either lua (< POc *[u]Ruap) ‘high tide’ or mai
-(< POc *maqati ‘low tide’).
+are all descriptive compounds based on either _lua_ (< POc _*[u]Ruap_) ‘high tide’ or _mai_
+(< POc _*maqati_ ‘low tide’).
 
-|      Tide or tidal movement (afe) [from POc *tape ‘to flow’] is divided into lua (flux) and
-|      mai (reflux), and these are further subdivided into several phases, given here in a
-|      sequential order. The lowest phase is termed mai laŋa [dry], then the tide starts to
-|      come up (lua kariabulo) [turn around]. Then the intertidal rocks become invisible or
-|      submerged (lua e fakaelua), and soon disappear under the water (lua e dalafa). The
-|      fullest phase is termed lua e hata. Then the tide begins to go out (gouna asi maŋoli),
-|      and it ebbs to a slight degree (mai toli). The rocks emerge from under the water (mai
-|      tarafafoa), and they come in sight completely (mai tete). Then the tide turns to be the
-|      lowest phase (mai laŋa) again.
+|      Tide or tidal movement (_afe_) [from POc _*tape_ ‘to flow’] is divided into _lua_ (flux) and
+|      _mai_ (reflux), and these are further subdivided into several phases, given here in a
+|      sequential order. The lowest phase is termed _mai laŋa_ [dry], then the tide starts to
+|      come up (_lua kariabulo_) [turn around]. Then the intertidal rocks become invisible or
+|      submerged (_lua e fakaelua_), and soon disappear under the water (_lua e dalafa_). The
+|      fullest phase is termed _lua e hata_. Then the tide begins to go out (_gouna asi maŋoli_),
+|      and it ebbs to a slight degree (_mai toli_). The rocks emerge from under the water
+|      (_mai tarafafoa_), and they come in sight completely (_mai tete_). Then the tide turns to be the
+|      lowest phase (_mai laŋa_) again.
 
    In addition to their daily ebb and flow, tides have a seasonal cycle, with extreme highs
 and lows at certain times of year that correspond to phases of the lunar and solar cycles.
@@ -4692,28 +4692,28 @@ over four consecutive days when
                                                                               The seascape       103
 
 
-|     the reef is called matahun [perhaps *maqati ‘low tide’ + *puna ‘origin, beginning’]
-|     and ‘new’ because the reef is becoming newly exposed. The low tides of matahun are
+|     the reef is called _matahun_ [perhaps _*maqati_ ‘low tide’ + _*puna_ ‘origin, beginning’]
+|     and ‘new’ because the reef is becoming newly exposed. The low tides of _matahun_ are
 |     characterised as receding quickly and earlier than those on succeeding days; they do
 |     not drop as far as on following days; their duration is relatively short; and they are
 |     quickly replaced by the returning tide. This initial phase of the low water sequence is
 |     seen as the most opportune time for many fishing methods.
 
-   Hviding (1996:52) describes in some detail the seasonal variation in tides in Marovo,
+   Hviding (1996: 52) describes in some detail the seasonal variation in tides in Marovo,
 NW Solomons, and the way in which this affects the activities of its community. He notes
 how the time of the southeast tradewinds coincides with the occurrence of low tides during
-daytime (mati rane), and the time of northwest monsoons with low tides at night (mati
-ipu), and describes how these constitute predictable and distinct juxtaposed seasons. He
+daytime (_mati rane_), and the time of northwest monsoons with low tides at night (_mati ipu_),
+and describes how these constitute predictable and distinct juxtaposed seasons. He
 writes:
 
 |     This recurring pattern, particularly the tidal one, is important for the yearly cycles of
 |     fishing and shellfish gathering and is tied in with knowledge and observation of a
-|     number of other cyclic events in nature. ... Within the general two-season pattern,
+|     number of other cyclic events in nature. … Within the general two-season pattern,
 |     Marovo people recognize a number of predictable shorter-term fluctuations and
 |     climatic extremes that act as markers of important ceremonial occasions and
 |     productive activities. Among these are the particularly low tides occurring from mid-
 |     morning around June, announcing the ripening of the Canarium nut trees and aptly
-|     termed mati buruburu (low tide of nut trees). Mati buruburu also signifies the
+|     termed _mati buruburu_ (low tide of nut trees). _Mati buruburu_ also signifies the
 |     beginning of the period during which marriages were traditionally concentrated, when
 |     peak harvests from both fishing and gardening could be expected. The extreme low
 |     tides in mid-morning provide ideal conditions on the barrier reef flats for kuarao
@@ -4721,64 +4721,64 @@ writes:
 |     catches, and associated with large feasts.
 
    In Wayan (spoken in the Wasaya group, western Fiji), terms for spring and neap tides
-include ua kurakura ‘spring tide, highest tide of the month, when moon is full’, ua qƝ
-‘neap tide, very quickly turning high tide, a low high tide’, and ðere uaua ‘very quickly
+include _ua kurakura_ ‘spring tide, highest tide of the month, when moon is full’, _ua qē_
+‘neap tide, very quickly turning high tide, a low high tide’, and _ðere uaua_ ‘very quickly
 turning low tide, a high low tide’. Wayan speakers also have a range of terms for high tides
-occurring at different times of day: ua qwata ‘morning tide, be high tide in morning’, ua
-siŋa ‘midday tide, be high tide at midday’, ua vakiavi ‘late afternoon tide, ua avi ‘evening
-tide, be high tide at evening’ and ua boŋi ‘night tide, be high tide at night’. It is probable
-that in POc also, there were a number of compounds based on *[u]Ruap and *maqati that
+occurring at different times of day: _ua qwata_ ‘morning tide, be high tide in morning’,
+_ua siŋa_ ‘midday tide, be high tide at midday’, _ua vakiavi_ ‘late afternoon tide’, _ua avi_ ‘evening
+tide, be high tide at evening’ and _ua boŋi_ ‘night tide, be high tide at night’. It is probable
+that in POc also, there were a number of compounds based on _*[u]Ruap_ and _*maqati_ that
 denoted specific kinds of high and low tide. However, on the evidence to hand we cannot
 recover the precise forms of such compounds.
 
-   The reconstruction for low tide, POc *maqati, which continues a PAn form, is a well-
+   The reconstruction for low tide, POc _*maqati_, which continues a PAn form, is a well-
 supported one. The same form is also widely attested in the sense ‘dry reef, reef exposed at
 low tide’.
 
 <
 PAn *ma-qaCi ‘ebb, of water in streams; low tide’ (ACD)
 POc *maqati (N) ‘low tide; dry reef’; (V) ‘ebb; dry, of reef’
- Adm: Mussau           mati               ‘low tide; dry reef’
- Adm: Mussau           (poŋa)mati         ‘coral reef’
- Adm: Wuvulu           maʔi               ‘low tide’
- Adm: Seimat           mat                ‘tide’
- Adm: Lou              met                ‘low tide; reef; dry reef’
- Adm: Titan            mat                ‘beach, tide’
- Adm: Drehet           mʷak               ‘ebb tide, dry reef’
- Adm:     Nyindrou      mek             ‘reef; low tide’
- NNG:     Mangap        magat           ‘low tide; dry reef’
- NNG:     Manam         mati            ‘reef’ (_mati-ibara_ ‘ebb, ebb-tide; low water’)
- MM:      Nakanai       mahati          ‘be out, of the tide; low tide; dry season’
- MM:      Vitu          maɣati          ‘low tide, reef’
- MM:      Lavongai      mat             ‘low tide’ (kuli-mat ‘reef’)
- MM:      Tigak         mat             ‘low tide; reef’
- MM:      Kara (East)   mat             ‘reef’
- MM:      Tiang         mat             ‘low tide; reef’
- MM:      Nalik         (sara)mat       ‘low tide’
- MM:      Sursurunga    məs             ‘low tide/shallow; dry spot’
- MM:      Tolai        | mat (i marum) |  ‘low tide during darkness’ (_mat i qai_ ‘low tide during moonlight’)
- MM:      Siar          maiat           ‘reef’
- MM:      Teop          masi            ‘low tide with the reef visible’
- MM:      Simbo         mati            ‘low tide’
- MM:      Marovo        mati            ‘shallow reef; dry land; low tide; reef exposed by receding tide’
- MM:      Halia         mac             ‘coral reef; low tide’
- SES:     Lau           mai             ‘ebb tide; reef, dry reef; to ebb’
- SES:     Kwaio         mai             ‘low tide’
- SES:     ’Are’are      mai             ‘low tide, ebb tide’
- SES:     Sa’a          mei             ‘ebb tide, low tide’
- SES:     Arosi         mai             ‘low tide, ebb’
- SES:     Arosi         mairara         ‘dead low water at spring tide’
- SES:     Arosi         mainiharisi     ‘neap tide’ (harisi ‘season’)
- SES:     Arosi         maitē, maiuru   ‘very low tide’
- NCV:     Paamese       a-mati          ‘tide’
- NCV:     Nguna         māti            ‘low tide’
- NCV:     Namakir       maʔat           ‘shallow (water), low tide’
- SV:      Sye           mah             ‘low tide’
- SV:      Kwamera       maha            ‘low tide’
- SV:      Anejom        mas             ‘low tide’
- NCal:    Nemi          māc             ‘part of the reef exposed at low tide’
- Fij:     Rotuman       mafi            ‘low-tide water; tide in general’
- Fij:     Bauan         mati            (V) ‘ebb, of the tide, as opposed to the flow’; ‘part of the reef exposed at low tide’
+ Adm:  Mussau        mati            ‘low tide; dry reef’
+ Adm:  Mussau        (poŋa)mati      ‘coral reef’
+ Adm:  Wuvulu        maʔi            ‘low tide’
+ Adm:  Seimat        mat             ‘tide’
+ Adm:  Lou           met             ‘low tide; reef; dry reef’
+ Adm:  Titan         mat             ‘beach, tide’
+ Adm:  Drehet        mʷak            ‘ebb tide, dry reef’
+ Adm:  Nyindrou      mek             ‘reef; low tide’
+ NNG:  Mangap        magat           ‘low tide; dry reef’
+ NNG:  Manam         mati            ‘reef’ (_mati-ibara_ ‘ebb, ebb-tide; low water’)
+ MM:   Nakanai       mahati          ‘be out, of the tide; low tide; dry season’
+ MM:   Vitu          maɣati          ‘low tide, reef’
+ MM:   Lavongai      mat             ‘low tide’ (kuli-mat ‘reef’)
+ MM:   Tigak         mat             ‘low tide; reef’
+ MM:   Kara (East)   mat             ‘reef’
+ MM:   Tiang         mat             ‘low tide; reef’
+ MM:   Nalik         (sara)mat       ‘low tide’
+ MM:   Sursurunga    məs             ‘low tide/shallow; dry spot’
+ MM:   Tolai         |mat (i marum)| ‘low tide during darkness’ (_mat i qai_ ‘low tide during moonlight’)
+ MM:   Siar          maiat           ‘reef’
+ MM:   Teop          masi            ‘low tide with the reef visible’
+ MM:   Simbo         mati            ‘low tide’
+ MM:   Marovo        mati            ‘shallow reef; dry land; low tide; reef exposed by receding tide’
+ MM:   Halia         mac             ‘coral reef; low tide’
+ SES:  Lau           mai             ‘ebb tide; reef, dry reef; to ebb’
+ SES:  Kwaio         mai             ‘low tide’
+ SES:  ’Are’are      mai             ‘low tide, ebb tide’
+ SES:  Sa’a          mei             ‘ebb tide, low tide’
+ SES:  Arosi         mai             ‘low tide, ebb’
+ SES:  Arosi         mairara         ‘dead low water at spring tide’
+ SES:  Arosi         mainiharisi     ‘neap tide’ (harisi ‘season’)
+ SES:  Arosi         maitē, maiuru   ‘very low tide’
+ NCV:  Paamese       a-mati          ‘tide’
+ NCV:  Nguna         māti            ‘low tide’
+ NCV:  Namakir       maʔat           ‘shallow (water), low tide’
+ SV:   Sye           mah             ‘low tide’
+ SV:   Kwamera       maha            ‘low tide’
+ SV:   Anejom        mas             ‘low tide’
+ NCal: Nemi          māc             ‘part of the reef exposed at low tide’
+ Fij:  Rotuman       mafi            ‘low-tide water; tide in general’
+ Fij:  Bauan         mati            (V) ‘ebb, of the tide, as opposed to the flow’; ‘part of the reef exposed at low tide’
 >
 
 104     Meredith Osmond, Andrew Pawley and Malcolm Ross
@@ -4786,37 +4786,37 @@ POc *maqati (N) ‘low tide; dry reef’; (V) ‘ebb; dry, of reef’
 
                                                                                  The seascape       105
 
-   POc *[ma]maca ‘dry up, evaporate’, has some reflexes which refer to low tide or to
+   POc _*[ma]maca_ ‘dry up, evaporate’, has some reflexes which refer to low tide or to
 exposure of the reef at low tide. These may represent parallel semantic specialisations.
 (See also Chapter 7, §5.6)
 
 <
 PMP *maja ‘be dry’
 POc *[ma]maca (V) ‘dry up, evaporate, be empty of liquid’; (N) ‘low tide’
- NNG: Kove            mamasa       ‘dry’
+ NNG:  Kove           mamasa       ‘dry’
  PT:   Kiriwina       mamala       ‘low tide’
  PT:   Motu           (ko)mada     ‘low water’
- MM: Nakanai          mamara       ‘(water) partly dried up by sun; extremely low tide’
- MM: Ramoaaina        məma         ‘reef; low tide, shallow’
- MM: Tolai            mamā         ‘reef; low tide; coral; shallow’
- MM: Roviana          masa         ‘beach, sea shore’ (masa-masa ‘shallow’, masa herepata ‘very low tide’)
- SES: Gela            mamaha       ‘dry’
- SES: Sa’a            mamata       ‘be high and dry, of a reef; be dry at low water’
- SES: Arosi           mamata       ‘dry’
- NCV: Raga            mamasa       ‘dry’
- NCV: Paamese         mese         ‘dry; (of tide) low, go out’
+ MM:   Nakanai        mamara       ‘(water) partly dried up by sun; extremely low tide’
+ MM:   Ramoaaina      məma         ‘reef; low tide, shallow’
+ MM:   Tolai          mamā         ‘reef; low tide; coral; shallow’
+ MM:   Roviana        masa         ‘beach, sea shore’ (masa-masa ‘shallow’, masa herepata ‘very low tide’)
+ SES:  Gela           mamaha       ‘dry’
+ SES:  Sa’a           mamata       ‘be high and dry, of a reef; be dry at low water’
+ SES:  Arosi          mamata       ‘dry’
+ NCV:  Raga           mamasa       ‘dry’
+ NCV:  Paamese        mese         ‘dry; (of tide) low, go out’
  SV:   Anejom         mesei        ‘dry’
  SV:   Kwamera        maha         ‘low tide; empty, of liquid’
  NCal: Nemi           mat          ‘dry up; low tide’
- NCal: Iaai           mʰe [2]        ‘dry up, dry reef; low tide’
- Mic: Kiribati        mara         ‘moistened, soaked, softened’
- Mic: Kosraean        mɯes         ‘shallow place in reef’
- Mic: Mokilese        mat          ‘portion of reef exposed at low tide’
- Mic: Marshallese     mmat         ‘protrude from surface (water or land), emerge’
- Mic: Ponapean        mat          ‘dry’
- Mic: Carolinian      mmata        ‘low tide, dry’
- Mic: Puluwatese      mmat         ‘be low, of tide’
- Mic: Woleaian        mmata        ‘dry, low tide’
+ NCal: Iaai           mʰe [2]      ‘dry up, dry reef; low tide’
+ Mic:  Kiribati       mara         ‘moistened, soaked, softened’
+ Mic:  Kosraean       mɯes         ‘shallow place in reef’
+ Mic:  Mokilese       mat          ‘portion of reef exposed at low tide’
+ Mic:  Marshallese    mmat         ‘protrude from surface (water or land), emerge’
+ Mic:  Ponapean       mat          ‘dry’
+ Mic:  Carolinian     mmata        ‘low tide, dry’
+ Mic:  Puluwatese     mmat         ‘be low, of tide’
+ Mic:  Woleaian       mmata        ‘dry, low tide’
  Fij:  Rotuman        mamasa       ‘be dry’
  Fij:  Bauan          maða         ‘empty, dry of liquids’
  Pn:   Niuean         maha         ‘empty, dry’
@@ -4830,61 +4830,61 @@ POc *[ma]maca (V) ‘dry up, evaporate, be empty of liquid’; (N) ‘low tide�
  Pn:   Emae           masa         ‘empty of liquid’
 >
 
-[2] In Iaai mh reflects PNCal *mm and POc *mam. (For a fuller discussion, see Ozanne-Rivierre 1986:39.)
+[2] In Iaai _mʰ_ reflects PNCal _*mm_ and POc _*mam_. (For a fuller discussion, see Ozanne-Rivierre 1986:39.)
 
 106   Meredith Osmond, Andrew Pawley and Malcolm Ross
 
 
-   POc *Ruap has been long-established as a term for high tide, with a PMP antecedent,
-*Ruab. Further evidence in the form of the POc verb [*ma-]uRua(p) ‘flood, be flooded’
-(see below) leads us to conclude that *Ruap had an alternant form *uRuap.
+   POc _*Ruap_ has been long-established as a term for high tide, with a PMP antecedent,
+_*Ruab_. Further evidence in the form of the POc verb _*[ma-]uRua(p)_ ‘flood, be flooded’
+(see below) leads us to conclude that _*Ruap_ had an alternant form _*uRuap_.
 
 <
 PMP *Ruab ‘high tide’ (Blust 1984–85)
 POc *[u]Ruap (N) ‘high tide’; (V) ‘flow in, of tide’; (N) ‘wave’
- Adm: Lou             ua                 ‘high tide’
- NNG: Malasanga rua                      ‘flow’
- MM: Tolai            ruap               ‘breakers; break heavily, of the sea’
- SES: Gela            lua                ‘full tide’; (V) ‘flow, of tide’
- SES: Lau             lua                ‘high tide; flow in, of tide; heavy sea, big waves’ (lua-lua ‘breakers’, lua ni odu ‘a big swell’)
- SES: Sa’a            lue                ‘flood tide’
- SES: Kwaio           lua                ‘high tide’
- SES: Kwaio           lua-lua, lu-luafe ‘flood tide’ (lua + afe ‘flow’)
- SES: ’Are’are        rua                ‘flood tide, incoming tide’ (rua paina ‘high tide’)
- SES: Arosi           rua-rua            ‘flood of water’
- NCV: Mota            rue                ‘flow of tide, high tide, flood tide’
- NCV: Fortsenal       ua                 ‘make waves’
- NCV: Paamese         ue                 ‘high tide’
- SV:    Kwamera       a-rə-rukʷ         ‘be high tide’
- NCal: Nyelâyu        wap                ‘high tide’
- Fij:   Bauan         ua                 ‘the tide, a wave’ (ua levu ‘high tide’)
- Fij:   Wayan         ua                 ‘wave; tide’ (ua levu ‘high tide’)
+ Adm:  Lou           ua                 ‘high tide’
+ NNG:  Malasanga     rua                ‘flow’
+ MM:   Tolai         ruap               ‘breakers; break heavily, of the sea’
+ SES:  Gela          lua                ‘full tide’; (V) ‘flow, of tide’
+ SES:  Lau           lua                ‘high tide; flow in, of tide; heavy sea, big waves’ (_lua-lua_ ‘breakers’, _lua ni odu_ ‘a big swell’)
+ SES:  Sa’a          lue                ‘flood tide’
+ SES:  Kwaio         lua                ‘high tide’
+ SES:  Kwaio         lua-lua, lu-luafe ‘flood tide’ (_lua_ + _afe_ ‘flow’)
+ SES:  ’Are’are      rua                ‘flood tide, incoming tide’ (_rua paina_ ‘high tide’)
+ SES:  Arosi         rua-rua            ‘flood of water’
+ NCV:  Mota          rue                ‘flow of tide, high tide, flood tide’
+ NCV:  Fortsenal     ua                 ‘make waves’
+ NCV:  Paamese       ue                 ‘high tide’
+ SV:   Kwamera       a-rə-rukʷ          ‘be high tide’
+ NCal: Nyelâyu       wap                ‘high tide’
+ Fij:  Bauan         ua                 ‘the tide, a wave’ (_ua levu_ ‘high tide’)
+ Fij:  Wayan         ua                 ‘wave; tide’ (_ua levu_ ‘high tide’)
 >
 
-  POc *ma-[u]Ruap and its counterpart, *ma-qati ‘low tide; be low tide, to ebb’ each had
+  POc _*ma-[u]Ruap_ and its counterpart, _*ma-qati_ ‘low tide; be low tide, to ebb’ each had
 both a dynamic and a stative sense (Evans & Ross 2001).
 
 <
 POc *[ma-]uRua(p) ‘flood, be flooded’ (from p.86)
- NNG: Manam          urua               ‘flood, torrent’
- PT:   Molima        moluva             ‘flood of river or stream’
- PT:   Dobu          muluwa             ‘flood’
- NCV: Tamambo        moruae             ‘flood, big river’
+ NNG: Manam         urua               ‘flood, torrent’
+ PT:  Molima        moluva             ‘flood of river or stream’
+ PT:  Dobu          muluwa             ‘flood’
+ NCV: Tamambo       moruae             ‘flood, big river’
 >
 
-   Other reconstructions for high tide include the following (see also POc *lomak ‘flood,
+   Other reconstructions for high tide include the following (see also POc _*lomak_ ‘flood,
 of sea’ (Ch. 3, p.87)):
 
 <
 PMP *lubuk ‘deep pool in water’ (Dempwolff 1938)
 POc *lubu(k) ‘high tide; deep water’
- Adm: Drehet          | (mwak) ulup |   ‘high tide’
+ Adm: Drehet           |(mʷak) ulup|  ‘high tide’
  Adm: Drehet           lu-lup         ‘tidepool’
  NNG: Yabem            lop            ‘flood tide’
- MM: Vitu              lobo           ‘high tide’
- MM: Meramera          lubu-lubu      ‘high tide’
- MM: Tolai             lubu           ‘to rise, flow or flood, of the tide; full tide’
- MM: Ramoaaina         lubu           ‘deep water; full tide; the change of the monsoon’
+ MM:  Vitu             lobo           ‘high tide’
+ MM:  Meramera         lubu-lubu      ‘high tide’
+ MM:  Tolai            lubu           ‘to rise, flow or flood, of the tide; full tide’
+ MM:  Ramoaaina        lubu           ‘deep water; full tide; the change of the monsoon’
  SES: Lau              lobo           ‘deep water in lagoon’ (Akimichi 1978)
  NCal: Nemi            nigi           ‘deep water’
 >
@@ -4893,96 +4893,96 @@ POc *lubu(k) ‘high tide; deep water’
 
 <
 PWOc *tunan ‘high tide’
- PT:  Molima            tunana              ‘high, of water’
- PT:  Muyuw             tan                 ‘high tide’
- MM: Notsi              tun                 ‘high tide’
- MM: Lihir              ton                 ‘high tide’
- MM: Sursurunga         tun                 ‘tide’
- MM: Tangga             tun                 ‘high tide’
- MM: Konomala           tun-tun             ‘high tide’
+ PT: Molima            tunana              ‘high, of water’
+ PT: Muyuw             tan                 ‘high tide’
+ MM: Notsi             tun                 ‘high tide’
+ MM: Lihir             ton                 ‘high tide’
+ MM: Sursurunga        tun                 ‘tide’
+ MM: Tangga            tun                 ‘high tide’
+ MM: Konomala          tun-tun             ‘high tide’
 >
 
-  Sometimes reflexes of POc *ponuq ‘full’ are used to refer to a high tide (SES: Sa’a asi e
-honu ‘high spring tide’, Pn: Takuu fonu ‘deep; full, of tide’).
+  Sometimes reflexes of POc _*ponuq_ ‘full’ are used to refer to a high tide (SES: Sa’a
+_asi e honu_ ‘high spring tide’, Pn: Takuu _fonu_ ‘deep; full, of tide’).
 
 
 4.3 The reef environment
 
 4.3.1 Coral
 
-   POc *laje was both a generic term for coral and the name for branching coral in contrast
-to *buŋa ‘smooth round or table coral’. The term *laje is widely attested in Oceanic but we
-know of only one probable cognate outside Oceanic, Lauje (Tomini-Tolitoli, Sulawesi) lais
-‘coral’. For *giri-giri ‘coral, coral rubble’, see Chapter 3, §7.3.
+   POc _*laje_ was both a generic term for coral and the name for branching coral in contrast
+to _*buŋa_ ‘smooth round or table coral’. The term _*laje_ is widely attested in Oceanic but we
+know of only one probable cognate outside Oceanic, Lauje (Tomini-Tolitoli, Sulawesi) _lais_
+‘coral’. For _*giri-giri_ ‘coral, coral rubble’, see Chapter 3, §7.3.
 
 <
 PMP *lajay ‘coral’
 POc *laje (i) ‘coral’; (ii) ‘branching coral’
- Adm: Lou                  las                ‘limestone’
- Adm: Loniu                lac                ‘coral’
- NNG: Takia                lad                ‘coral’
- NNG: Gedaged              lad                ‘coral’
- PT:    Motu               lade               ‘k.o. coral; coral reef’
- PT:    Kukuya             nai                ‘reef; coral’
- PT:    Sudest             laje               ‘coral’
- PT:    Kiriwina           lai                ‘coral’
- MM: Babatana              laji               ‘coral’
- MM: Maringe               (glae)laje         ‘coral’
- SES: Gela                 lade               ‘all kinds of branching coral’
- SES: Arosi                rade               ‘coral’
- SES: Kwaio                lade-lade          ‘coral’
- SES: Lau                  lade               ‘branching coral’
- NCV: Mota                 las                ‘live coral, of the branching kinds’
- NCV: Namakir              les                ‘branching coral’
- SV:    Anejom             (n)las             ‘live coral on a reef’
- Mic: Kosraean             læs               ‘k.o. coral’
- Fij:   Wayan              lase               ‘coral (alive or dead), esp. branching coral; burnt coral, powdered coral, lime’
- Fij:   Wayan           | vatu lase-lase |    ‘brain coral, smooth round coral’
- Fij:   Wayan           | lase iviu |         ‘sea fan coral’
- Fij:    Bauan           lase               ‘common branchy coral and the lime made from it’
- Pn:     Tongan          lahe               ‘lime (coral)’
- Pn:     Rennellese      gase               ‘k.o. common branching coral’
+ Adm: Lou             las                ‘limestone’
+ Adm: Loniu           lac                ‘coral’
+ NNG: Takia           lad                ‘coral’
+ NNG: Gedaged         lad                ‘coral’
+ PT:  Motu            lade               ‘k.o. coral; coral reef’
+ PT:  Kukuya          nai                ‘reef; coral’
+ PT:  Sudest          laje               ‘coral’
+ PT:  Kiriwina        lai                ‘coral’
+ MM:  Babatana        laji               ‘coral’
+ MM:  Maringe         (glae)laje         ‘coral’
+ SES: Gela            lade               ‘all kinds of branching coral’
+ SES: Arosi           rade               ‘coral’
+ SES: Kwaio           lade-lade          ‘coral’
+ SES: Lau             lade               ‘branching coral’
+ NCV: Mota            las                ‘live coral, of the branching kinds’
+ NCV: Namakir         les                ‘branching coral’
+ SV:  Anejom          (n)las             ‘live coral on a reef’
+ Mic: Kosraean        læs                ‘k.o. coral’
+ Fij: Wayan           lase               ‘coral (alive or dead), esp. branching coral; burnt coral, powdered coral, lime’
+ Fij: Wayan           |vatu lase-lase|   ‘brain coral, smooth round coral’
+ Fij: Wayan           |lase iviu|        ‘sea fan coral’
+ Fij: Bauan           lase               ‘common branchy coral and the lime made from it’
+ Pn:  Tongan          lahe               ‘lime (coral)’
+ Pn:  Rennellese      gase               ‘k.o. common branching coral’
 >
 
 108     Meredith Osmond, Andrew Pawley and Malcolm Ross
 
 
-   POc *buŋa ‘smooth round coral’ is evidently derived from PMP *buŋa ‘blossom’
-through the latter’s extension of meaning to PMP *buŋa ni batu ‘coral sponge’ (lit.
-‘blossom of stone’), which then reduced simply to *buŋa in Oceanic.
+   POc _*buŋa_ ‘smooth round coral’ is evidently derived from PMP _*buŋa_ ‘blossom’
+through the latter’s extension of meaning to PMP _*buŋa ni batu_ ‘coral sponge’ (lit.
+‘blossom of stone’), which then reduced simply to _*buŋa_ in Oceanic.
 
 <
 PMP *buŋa ‘flower, blossom’
 PMP *|buŋa ni batu| ‘coral sponge’ (ACD)
 POc *buŋa ‘smooth, round coral’
- NNG: Takia           buŋ                ‘large white coral’
- NNG: Gedaged         buŋ                ‘a round coral growth’
- MM: Nakanai          buga               ‘plate-shaped coral’
- MM: Bola             buŋa               ‘k.o. coral’
- MM: Babatana         buŋa-na            ‘large whitish stones found on the reef, calcified coral’
- NCV: Mota            puŋa               ‘k.o. coral (madrepore)’
- Fij:  Bauan          vuŋa               ‘a porous coral rock in the sea’
+ NNG: Takia          buŋ              ‘large white coral’
+ NNG: Gedaged        buŋ              ‘a round coral growth’
+ MM:  Nakanai        buga             ‘plate-shaped coral’
+ MM:  Bola           buŋa             ‘k.o. coral’
+ MM:  Babatana       buŋa-na          ‘large whitish stones found on the reef, calcified coral’
+ NCV: Mota           puŋa             ‘k.o. coral (madrepore)’
+ Fij: Bauan          vuŋa             ‘a porous coral rock in the sea’
 PPn *puŋa ‘coral rock’
- Pn:   Niuean          puŋa              ‘limestone, coral rock’ (puŋa-puŋa ‘limestone platform on the reef’)
- Pn:     Tongan         puŋa, (mata)puŋa ‘k.o. rather soft rock or stone, apparently a compact form of coral’
- Pn:     Samoan         puŋa             ‘k.o. coral, used for polishing and as weights in breadfruit storage pits’
- Pn:     Rennellese     puŋa             ‘general name for flat or round sharp coral’
- Pn:     Tikopia        puŋa             ‘marine rock, prob. coral’
- Pn:     Tahitian       puʔa             ‘coral sp., lime, abrasive stone’
- Pn:     Maori          puŋa-puŋa        ‘pumice’
- Pn:     Hawaiian       puna             ‘coral’
+ Pn:  Niuean         puŋa             ‘limestone, coral rock’ (_puŋa-puŋa_ ‘limestone platform on the reef’)
+ Pn:  Tongan         puŋa, (mata)puŋa ‘k.o. rather soft rock or stone, apparently a compact form of coral’
+ Pn:  Samoan         puŋa             ‘k.o. coral, used for polishing and as weights in breadfruit storage pits’
+ Pn:  Rennellese     puŋa             ‘general name for flat or round sharp coral’
+ Pn:  Tikopia        puŋa             ‘marine rock, prob. coral’
+ Pn:  Tahitian       puʔa             ‘coral sp., lime, abrasive stone’
+ Pn:  Maori          puŋa-puŋa        ‘pumice’
+ Pn:  Hawaiian       puna             ‘coral’
 >
 
-In Polynesian languages, reflexes of *puŋa typically contrast with those of *feo.
+In Polynesian languages, reflexes of _*puŋa_ typically contrast with those of _*feo_.
 
 <
 PPn *feo ‘coral, possibly branching coral’
- Pn:    Niuean          feo                ‘coral’
- Pn:    Tongan          feo                ‘coral’
- Pn:    E Futunan       fe(o)-feo          ‘branching coral’
- Pn:    Samoan          feo-feo            ‘branching coral’
- Pn:    Tikopia         feo                ‘coral, generic’
- Pn:    Tuamotuan heo                      ‘k.o. coral rock’
+ Pn: Niuean          feo                ‘coral’
+ Pn: Tongan          feo                ‘coral’
+ Pn: E Futunan       fe(o)-feo          ‘branching coral’
+ Pn: Samoan          feo-feo            ‘branching coral’
+ Pn: Tikopia         feo                ‘coral, generic’
+ Pn: Tuamotuan       heo                ‘k.o. coral rock’
 >
 
                                                                         The seascape     109
@@ -4995,8 +4995,7 @@ tropical Pacific. Reef systems can be loosely classified into atolls, fringing r
 border shores, and barrier reefs which are some distance offshore. Although many atolls
 are in fact islands, some consist only of reef.
 
-
-                                   Figure 3: Reef forms
+Figure 3: Reef forms
 
    Coral reefs generally have a number of features in common, as shown in Figure 3.
 These include a windward slope, with often a steep drop to the ocean floor on the seaward
@@ -5006,15 +5005,16 @@ A natural division is between the windward and leeward sides of the reef, with t
 windward more heavily scoured by tides and wave action, and the leeward supporting a
 much more varied and fragile coral community. Atolls and barrier reefs enclose a body of
 sheltered water, the lagoon, within which occur patch reefs, coral heads and sand patches.
-   Two POc reconstructions are glossed simply as ‘reef’,*sakaRu and *oda. Oceanic
-reflexes of *sakaRu are extremely widespread. Outside Oceanic, we have located two
-terms from Austronesian languages in the Cenderawasih Bay area, Yeretuar sʔaru ‘coral
-stone’ and Iresim haru ‘coral reef’, both from the Anceaux collection of wordlists of Irian
+
+   Two POc reconstructions are glossed simply as ‘reef’, _*sakaRu_ and _*oda_. Oceanic
+reflexes of _*sakaRu_ are extremely widespread. Outside Oceanic, we have located two
+terms from Austronesian languages in the Cenderawasih Bay area, Yeretuar _sʔaru_ ‘coral
+stone’ and Iresim _haru_ ‘coral reef’, both from the Anceaux collection of wordlists of Irian
 Jaya languages (Smits & Voorhoeve 1992:228), which suggest a PEMP reconstruction.
-Blust (ACD) has recorded Chamorro sahagu ‘deep water’ as cognate and thus proposes
-promotion of the POc reconstruction to PMP, albeit with questionable gloss. In Tryon
-(1995), which lists terms for ‘reef’ in around 50 non-Oceanic languages, the most common
-terms are cognates of the compound *patu karaŋ, literally ‘coral rock’. It may be that reefs
+Blust (ACD) has recorded Chamorro _sahagu_ ‘deep water’ as cognate and thus proposes
+promotion of the POc reconstruction to PMP, albeit with questionable gloss. In Tryon (1995),
+which lists terms for ‘reef’ in around 50 non-Oceanic languages, the most common
+terms are cognates of the compound _*patu karaŋ_, literally ‘coral rock’. It may be that reefs
 were not as central to life in many parts of Indonesia as they are in Oceanic settlements.
 
 110    Meredith Osmond, Andrew Pawley and Malcolm Ross
@@ -5022,64 +5022,64 @@ were not as central to life in many parts of Indonesia as they are in Oceanic se
 <
 PMP *sakaRu ‘reef, shoal’
 POc *sakaRu ‘reef, shoal’
- Adm: Baluan             suk             ‘beach’
- NNG: Dami               sā              ‘sky, reef’
- NNG: Mangap             sakar           ‘reef’
- NNG: Manam              sakaru          ‘reef’
- NNG: Sissano            saʔar           ‘reef’
- PT:   Motu              haɣaru          ‘rise, of the tide’
- MM: Bali                zaɣaru          ‘reef’
- MM: Nakanai             sakalu          ‘reef’
- MM: Bola                rakaru          ‘reef’
- MM: Teop                han             ‘a reef coming near the surface of the ocean, but is always under water’
- MM: Halia               sāl             ‘between the deep edge of the reef and where the surf breaks’
- MM: Roviana             saɣaru          ‘reef’
- SES: Bugotu             hagalu          ‘reef’
- SES: Sa’a               taʔalu          ‘shoal water, a coral patch under water’
- SES: Lau                taʔalu          ‘a shoal, shoalwater’
- SES: ’Are’are           taʔaru          ‘shoal, reef in shallow water’
- SES: Arosi              taʔaru          ‘shoal, shallow spot in the sea; coral reef’
- NCV: Mota               sakaru          ‘rough coral stones between surf and beach’
- NCV: Namakir            hako            ‘reef’
- Mic: Kiribati           rakai           ‘block of coral rocks; rock; reef’
- Mic: Kosraean           tʌka            ‘island, atoll’
- Mic: Marshallese        təkæ, təkɛṛ     ‘strip of reef; long reef between two islets’
- Mic: Ponapean           teke            ‘small island’
- Mic: Puluwatese         tə̄             ‘uninhabited reef island’
- Fij: Wayan              ðakau           ‘reef, shoal’
- Fij: Bauan              ðakau           ‘coral reef’
- Pn:  Tongan             hakau           ‘coral reef or rock which appears above the surface at low tide’
- Pn:    Samoan           aʔau            ‘coral reef’
- Pn:    Rennellese       akau            ‘coral reef in general’
- Pn:    Tikopia          akau            ‘reef fringing an island or in atoll form’
- Pn:    Tuvalu           akau            ‘reef formations in the lagoon’
- Pn:    Marquesan        akau            ‘coral outcrops’
+ Adm: Baluan           suk             ‘beach’
+ NNG: Dami             sā              ‘sky, reef’
+ NNG: Mangap           sakar           ‘reef’
+ NNG: Manam            sakaru          ‘reef’
+ NNG: Sissano          saʔar           ‘reef’
+ PT:  Motu             haɣaru          ‘rise, of the tide’
+ MM:  Bali             zaɣaru          ‘reef’
+ MM:  Nakanai          sakalu          ‘reef’
+ MM:  Bola             rakaru          ‘reef’
+ MM:  Teop             han             ‘a reef coming near the surface of the ocean, but is always under water’
+ MM:  Halia            sāl             ‘between the deep edge of the reef and where the surf breaks’
+ MM:  Roviana          saɣaru          ‘reef’
+ SES: Bugotu           hagalu          ‘reef’
+ SES: Sa’a             taʔalu          ‘shoal water, a coral patch under water’
+ SES: Lau              taʔalu          ‘a shoal, shoalwater’
+ SES: ’Are’are         taʔaru          ‘shoal, reef in shallow water’
+ SES: Arosi            taʔaru          ‘shoal, shallow spot in the sea; coral reef’
+ NCV: Mota             sakaru          ‘rough coral stones between surf and beach’
+ NCV: Namakir          hako            ‘reef’
+ Mic: Kiribati         rakai           ‘block of coral rocks; rock; reef’
+ Mic: Kosraean         tʌka            ‘island, atoll’
+ Mic: Marshallese      təkæ, təkɛṛ     ‘strip of reef; long reef between two islets’
+ Mic: Ponapean         teke            ‘small island’
+ Mic: Puluwatese       tə̄             ‘uninhabited reef island’
+ Fij: Wayan            ðakau           ‘reef, shoal’
+ Fij: Bauan            ðakau           ‘coral reef’
+ Pn:  Tongan           hakau           ‘coral reef or rock which appears above the surface at low tide’
+ Pn:  Samoan           aʔau            ‘coral reef’
+ Pn:  Rennellese       akau            ‘coral reef in general’
+ Pn:  Tikopia          akau            ‘reef fringing an island or in atoll form’
+ Pn:  Tuvalu           akau            ‘reef formations in the lagoon’
+ Pn:  Marquesan        akau            ‘coral outcrops’
 >
 
-   POc *oda ‘reef’ is widely reflected in Micronesian languages, but otherwise is retained
+   POc _*oda_ ‘reef’ is widely reflected in Micronesian languages, but otherwise is retained
 as a separate word (in our data) only in one Papuan Tip language.
 
 <
 POc *oda ‘reef’
- PT:   Kiriwina          oda(iaga)       ‘coral reef’
- Mic: Kiribati           ora             ‘low tide, expanse of beach, strand’
- Mic: Ponapean           ōt              ‘reef’ (archaic)
- Mic:    Marshallese        wəṛ              ‘coral reef’
- Mic:    Mokilese           wos               ‘reef’
- Mic:    Chuukese           wōc̣, woc̣o-      ‘reef’
- Mic:    Carolinian         wōṣ, woṣo-      ‘reef, esp. fringing barrier reef’
- Mic:    Woleaian           woṣ, woṣo       ‘reef, coral, lime’
- Mic:    Puluwatese         wɔ̄r              ‘reef’
+ PT:  Kiriwina          oda(iaga)       ‘coral reef’
+ Mic: Kiribati          ora             ‘low tide, expanse of beach, strand’
+ Mic: Ponapean          ōt              ‘reef’ (archaic)
+ Mic: Marshallese       wəṛ             ‘coral reef’
+ Mic: Mokilese          wos             ‘reef’
+ Mic: Chuukese          wōc̣, woc̣o-      ‘reef’
+ Mic: Carolinian        wōṣ, woṣo-      ‘reef, esp. fringing barrier reef’
+ Mic: Woleaian          woṣ, woṣo       ‘reef, coral, lime’
+ Mic: Puluwatese        wɔ̄r             ‘reef’
 >
 
 However, further evidence supporting oda as a term for ‘reef’ lies in two reconstructions
-made by Ross Clark (1991), POc *paŋ-oda ‘gather shellfish and other seafood on the reef’
-and *p-in-aŋ-oda ‘shellfish, seafood gathered on the reef’ (where *paŋ- is the verbal suffix
-(underlying form *paN-) and -in- the noun-deriving infix discussed in vol. 1, p.29 and p.33
+made by Ross Clark (1991), POc _*paŋ-oda_ ‘gather shellfish and other seafood on the reef’
+and _*p-in-aŋ-oda_ ‘shellfish, seafood gathered on the reef’ (where _*paŋ-_ is the verbal suffix
+(underlying form _*paN-_) and _-in-_ the noun-deriving infix discussed in vol. 1, p.29 and p.33
 respectively). A selection of reflexes follows:
 
 __pre__
- PT:     Motu              haoda            (V) ‘fish’
+ PT:  Motu                 haoda            (V) ‘fish’
  SES: Bugotu               vagoda           ‘hunt for shellfish on the reef’
  SES: Gela                 vaŋoda           ‘collect food on the reef; anything on the reef; gatherer of reef food’
  SES: Sa’a                 haŋoda           ‘haliotis (sea ear) used as bait for crayfish’
@@ -5087,7 +5087,7 @@ __pre__
  NCV: Nguna                (pa)vagoda       ‘look for shellfish’
  NCV: Nguna                vinagoda         ‘shellfish’
  NCV: Lonwolwol            fogōr            ‘look for fish (on reef etc.)
- SV: Anejom                a-haŋeþ          ‘forage on reef’
+ SV:  Anejom               a-haŋeþ          ‘forage on reef’
 
                                                                              The seascape      111
 
@@ -5099,85 +5099,83 @@ PEOc *papo ‘shore reef, fringing reef’
  SES: ’Are’are           haho                 ‘the shore reef’
  SES: Sa’a               haho                 ‘the shore reef’
  SES: Arosi              haho                 ‘encircling reef’
- Fij:  Rotuman           haho                 ‘coral reef’
+ Fij: Rotuman            haho                 ‘coral reef’
 >
 
     In addition to a general term for the reef, communities have terms for various zones
 within the reef. The Admiralties language spoken on Andra, a sand cay with fringing reef,
 distinguishes five major reef zones (McEldowney 1995:484–488): the windward reef slope
-(awea kontoh); the windward reef crest (name not given) which is the most elevated
-portion of the reef, the reef flat (lomat); the leeward reef margin consisting of alternating
-series of coral patches and sand chutes (lonpai ‘sand chute’), and the leeward reef slope
-(chechen). These in turn are divided into eleven subzones. For instance, the reef flat
-(lomat) consists of two segments, the windward two thirds (lolomat) dominated by live
-coral and largely exposed during the lower tides, and the leeward third (lonpapi) mainly
+(_awea kontoh_); the windward reef crest (name not given) which is the most elevated
+portion of the reef, the reef flat (_lomat_); the leeward reef margin consisting of alternating
+series of coral patches and sand chutes (_lonpai_ ‘sand chute’), and the leeward reef slope
+(_chechen_). These in turn are divided into eleven subzones. For instance, the reef flat
+(_lomat_) consists of two segments, the windward two thirds (_lolomat_) dominated by live
+coral and largely exposed during the lower tides, and the leeward third (_lonpapi_) mainly
 covered by sand deposits which remain largely submerged even during the lowest tides.
-Also scattered through the reef flat are some areas of sea grass, referred to as korekt, and
-small deep pools known as lolu.
+Also scattered through the reef flat are some areas of sea grass, referred to as _korekt_, and
+small deep pools known as _lolu_.
 
     Raymond Firth in his Tikopia–English dictionary (1985:613) provides an illustration,
 reproduced here as Figure 4, of a reef profile with main features labelled. Tikopia is a high
-island with fringing reef. The features labelled include the ocean side of the reef (tua akau,
-lit. ‘back of reef’), the reef crest (foŋa te akau), that part of the reef dry at low tide (roto tai
-or tafora, ‘middle salt water/reef waters’), the tide line (vae tai ‘foot of salt water’), the
-sandy beach (one ‘sand’), and the land above the beach (tofua ‘sandy dunes’).
+island with fringing reef. The features labelled include the ocean side of the reef (_tua akau_,
+lit. ‘back of reef’), the reef crest (_foŋa te akau_), that part of the reef dry at low tide (_roto tai_
+or _tafora_, ‘middle salt water/reef waters’), the tide line (_vae tai_ ‘foot of salt water’), the
+sandy beach (_one_ ‘sand’), and the land above the beach (_tofua_ ‘sandy dunes’).
 
 112    Meredith Osmond, Andrew Pawley and Malcolm Ross
 
    A second Polynesian example comes from Niuatoputapu, an island with a volcanic
 ridge and fringing reef located halfway between Tonga and Samoa. Dye (1983:246)
 records a local division of the marine environment into four major biotopes: the reef flat
-(namo) including littoral zones, the shallow salt-water lagoon (tahi), the living fringing and
-barrier reef fronts (mataʔuluʔulu) and the open ocean (moana). The reef flat and reef edge
+(_namo_) including littoral zones, the shallow salt-water lagoon (_tahi_), the living fringing and
+barrier reef fronts (_mataʔuluʔulu_) and the open ocean (_moana_). The reef flat and reef edge
 are further divided into leeward and windward zones, although Dye gives the local name
-only for the windward reef flat, lafo-lafo.
+only for the windward reef flat, _lafo-lafo_.
 
-
-                               Figure 4: Tikopia reef profile
-                         (Firth 1985:613, reproduced with permission)
+Figure 4: Tikopia reef profile (Firth 1985:613, reproduced with permission)
 
    Although we can be confident that there were Proto Oceanic names for various reef
-zones, we have reconstructions only at lower levels. PPn *tuqa-hakau (from *tuqa ‘back’
-+ *hakau ‘reef’) refers variously to the reef’s outer edge or to the ocean just beyond.
-Marovo (MM), spoken on New Georgia, has a term tabikale ‘steep reef dropoff, into deep
-water’. Lau (SES) also has an unrelated term, fafo-ʔile, for the seaward side of the reef
+zones, we have reconstructions only at lower levels. PPn _*tuqa-hakau_ (from _*tuqa_ ‘back’
++ _*hakau_ ‘reef’) refers variously to the reef’s outer edge or to the ocean just beyond.
+Marovo (MM), spoken on New Georgia, has a term _tabikale_ ‘steep reef dropoff, into deep
+water’. Lau (SES) also has an unrelated term, _fafo-ʔile_, for the seaward side of the reef
 translated by Ivens as literally ‘overhanging the precipice’.
 
 <
-PPn *tuqa-hakau ‘ocean side of the reef, ocean beyond the reef’ (from PPn *tuqa ‘back’ + *hakau ‘reef’)
- Pn:    Rennellese      tuʔā                ‘side of reef facing the ocean’
- Pn:    Samoan          tua-aʔau            ‘outside the reef in deep water’
- Pn:    Tikopia         tua-akau            ‘open sea just beyond the reef’
- Pn:    Hawaiian        kua-au              ‘basin inside the reef; lagoon’
+PPn *tuqa-hakau ‘ocean side of the reef, ocean beyond the reef’ (from PPn _*tuqa_ ‘back’ + _*hakau_ ‘reef’)
+ Pn:  Rennellese      tuʔā                ‘side of reef facing the ocean’
+ Pn:  Samoan          tua-aʔau            ‘outside the reef in deep water’
+ Pn:  Tikopia         tua-akau            ‘open sea just beyond the reef’
+ Pn:  Hawaiian        kua-au              ‘basin inside the reef; lagoon’
 >
 
-   A PCP reconstruction that may also apply to the reef’s outer edge is *qulu-qulu,
-(possibly from POc/PPn *qulu ‘head’).
+   A PCP reconstruction that may also apply to the reef’s outer edge is _*qulu-qulu_,
+(possibly from POc/PPn _*qulu_ ‘head’).
 
 <
 PCP *qulu-qulu ‘outer edge of shore reef where waves break’
  Fij:  Wayan            ululu              ‘pool or sandbar at mouth of a stream’
  Pn:   Niuean           ulu-ulu            ‘reef’
- Pn:     Tongan            ʔulu-ʔulu          ‘low-lying rocks adjoining shore or inner reef’
- Pn:     Niuatoputapu      (mata)ʔulu-ʔulu    ‘reef front’
- Pn:     E Futunan         ʔulu-ʔulu          ‘outer edge of reef where waves break’
- Pn:     Pukapukan         ulu-ulu(akau)      ‘outer reef, reef shelf’
- Pn:     Rennellese        ʔugu-ʔugu          ‘outer barrier reef’
- Pn:     K’marangi        | (mata) uru-uru |    ‘reef where waves come in and immediately beyond’
+ Pn:   Tongan           ʔulu-ʔulu          ‘low-lying rocks adjoining shore or inner reef’
+ Pn:   Niuatoputapu     (mata)ʔulu-ʔulu    ‘reef front’
+ Pn:   E Futunan        ʔulu-ʔulu          ‘outer edge of reef where waves break’
+ Pn:   Pukapukan        ulu-ulu(akau)      ‘outer reef, reef shelf’
+ Pn:   Rennellese       ʔugu-ʔugu          ‘outer barrier reef’
+ Pn:   K’marangi        |(mata) uru-uru|   ‘reef where waves come in and immediately beyond’
 >
 
                                                                          The seascape      113
 
 
-   Reflexes of POc *mata with its extended meaning ‘edge’ are sometimes used in
-compounds to refer to reef edge. They include Molima (PT) mata-ʔipi ‘edge of reef and
-beyond’ and Tikopia mata akau ‘edge of reef’ as well as the Niuatoputapu and
+   Reflexes of POc _*mata_ with its extended meaning ‘edge’ are sometimes used in
+compounds to refer to reef edge. They include Molima (PT) _mata-ʔipi_ ‘edge of reef and
+beyond’ and Tikopia _mata akau_ ‘edge of reef’ as well as the Niuatoputapu and
 Kapingamarangi forms cited above.
 
    The windward and leeward sides of the reef were possibly described by the terms
-reconstructed in the previous chapter for windward and leeward coasts, PEOc *liku
-‘windward side’ and POc *ruru ‘calm, sheltered’ or by the terms for rough and sheltered
-water, PEOc *tasik maquri(p) and PEOc *tasik mate respectively, which evidently could
+reconstructed in the previous chapter for windward and leeward coasts, PEOc _*liku_
+‘windward side’ and POc _*ruru_ ‘calm, sheltered’ or by the terms for rough and sheltered
+water, PEOc _*tasik maquri(p)_ and PEOc _*tasik mate_ respectively, which evidently could
 be used to include also the weather and lee coasts of barrier islands (p.95).
 
 
@@ -5188,42 +5186,42 @@ and islands with shore reefs. These submerged reefs are dangerous to boats but a
 valuable fishing grounds. In some languages they are referred to by the generic word for
 ‘coral reef’, in others there is a separate term for a submerged patch of reef or rocks. In the
 following reconstruction, retention of the final vowel in Anejom and Mota suggests POc
-final *-q (John Lynch pers. comm.).
+final _*-q_ (John Lynch pers. comm.).
 
 <
 POc *mwaloq ‘submerged rock or coral reef, coral head’
- NNG: Takia           mal              ‘reef, a chain of rocks, coral, or a ridge of sand at or near the surface of water’
- NNG: Manam           mʷalo(bo)        ‘sink, submerge, be drowned’
- MM: Nakanai          malo             ‘wandering stones or reefs that chase and sink canoes’
- MM: Lamasong         mano             ‘reef’
- MM: Bola             malo             ‘steep face of reef that goes down into the deep’
- SES: Lau             walo             ‘coral reef’
- SES: Kwaio           walo             ‘reef’
- SES: ’Are’are        maro             ‘submerged coral reef’
- SES: Sa’a            mʷalo            ‘sunken rock, reef at sea’
- SES: Arosi           mʷaro            ‘hidden rock or shoal’
- NCV: Mota            mʷalo            ‘a sunken rock where the sea breaks’
- NCV: Raga            malo             ‘reef’
- NCV: Nguna           mʷālo            ‘coral head’
- SV:   Anejom         in-mʷwoče         ‘coral reef’
- Pn:   Tongan         ŋalo             (VI) ‘sink, submerge’
+ NNG: Takia       mal           ‘reef, a chain of rocks, coral, or a ridge of sand at or near the surface of water’
+ NNG: Manam       mʷalo(bo)     ‘sink, submerge, be drowned’
+ MM:  Nakanai     malo          ‘wandering stones or reefs that chase and sink canoes’
+ MM:  Lamasong    mano          ‘reef’
+ MM:  Bola        malo          ‘steep face of reef that goes down into the deep’
+ SES: Lau         walo          ‘coral reef’
+ SES: Kwaio       walo          ‘reef’
+ SES: ’Are’are    maro          ‘submerged coral reef’
+ SES: Sa’a        mʷalo         ‘sunken rock, reef at sea’
+ SES: Arosi       mʷaro         ‘hidden rock or shoal’
+ NCV: Mota        mʷalo         ‘a sunken rock where the sea breaks’
+ NCV: Raga        malo          ‘reef’
+ NCV: Nguna       mʷālo         ‘coral head’
+ SV:  Anejom      in-mʷwoče     ‘coral reef’
+ Pn:  Tongan      ŋalo          (VI) ‘sink, submerge’
 >
 
 114   Meredith Osmond, Andrew Pawley and Malcolm Ross
 
 
-   POc *nuku ‘sand bank, sand spit, sandy ground’ is listed with full cognate set in
+   POc _*nuku_ ‘sand bank, sand spit, sandy ground’ is listed with full cognate set in
 Chapter 3 (p.45). From two of its cognates, Bugotu and Bauan Fijian, we can also
-reconstruct PEOc *nuku potu ‘point of reef or sandbank (presumably one that appears at
-low tide)’ (*potu ‘appear, emerge’).
+reconstruct PEOc _*nuku potu_ ‘point of reef or sandbank (presumably one that appears at
+low tide)’ (_*potu_ ‘appear, emerge’).
 
 <
 PEOc *|nuku potu| ‘point of reef or sandbank (that appears at low tide)’
- SES: Bugotu           | nuɣu votu |      ‘point of a reef’
- Fij:  Bauan           | nuku votu |      ‘sandbank’
+ SES: Bugotu          | nuɣu votu |      ‘point of a reef’
+ Fij: Bauan           | nuku votu |      ‘sandbank’
 >
 
-  Both the SE Solomonic and Micronesian reflexes of PEOc *baro refer to flat rocks in or
+  Both the SE Solomonic and Micronesian reflexes of PEOc _*baro_ refer to flat rocks in or
 near the sea.
 
 <
@@ -5238,16 +5236,16 @@ PEOc *baro ‘flat rock or ledge (in or near sea)’
 
 <
 PPn *toka ‘rock, as a submerged rock or reef’ (Biggs & Clark 1993)
- Pn:    Niuean            toka           ‘bedrock of sea’
- Pn:    E Futunan         toka           ‘reef rock’
- Pn:    Pukapukan         toka           ‘coral growth’
- Pn:    Samoan            toʔa           ‘sea rock, reef’
- Pn:    Tahitian          toʔa           ‘rock, coral rock variety’
- Pn:    Hawaiian          koʔa           ‘coral, coral head’
- Pn:    Anutan            toka           ‘rock in sea, visible at low tide’
+ Pn:  Niuean            toka           ‘bedrock of sea’
+ Pn:  E Futunan         toka           ‘reef rock’
+ Pn:  Pukapukan         toka           ‘coral growth’
+ Pn:  Samoan            toʔa           ‘sea rock, reef’
+ Pn:  Tahitian          toʔa           ‘rock, coral rock variety’
+ Pn:  Hawaiian          koʔa           ‘coral, coral head’
+ Pn:  Anutan            toka           ‘rock in sea, visible at low tide’
 >
 
-Reflexes of POc *baban ‘flat; flat rock, any hard flat surface’ are also used in some
+Reflexes of POc _*baban_ ‘flat; flat rock, any hard flat surface’ are also used in some
 languages to refer to flat rock surfaces underwater (see vol. 1, p.58).
 
 
@@ -5256,30 +5254,30 @@ languages to refer to flat rock surfaces underwater (see vol. 1, p.58).
    A feature of coral atolls and of some high islands with barrier reefs is the enclosed or
 sheltered water usually referred to as a lagoon. These can be very large, examples being
 the Marovo and Lau lagoons in the Solomons within which are located a number of
-inhabited islands. Reflexes of POc *namo refer at times to the lagoon within a reef, and at
+inhabited islands. Reflexes of POc _*namo_ refer at times to the lagoon within a reef, and at
 others to a deep hole in the reef. The common meaning ‘enclosed water’ is retained.
 
 <
 PMP *namaw ‘sheltered water: deep place in a river; cove, harbour, lagoon’ (ACD)
 POc *namo ‘lagoon inside a reef; deep pool or hole in reef’
- PT:   Motu            nomu             ‘deeper place on shore reef’ (irreg. vowel change)
- MM: Kara              nam              ‘lagoon’
- SES: ’Are’are         nāmo             ‘lake; crevice, deep places in between the reefs’
- SES: Sa’a              namo             ‘land-locked harbour’
- SES:    Arosi             namo             ‘a landlocked, shallow lagoon near the shore’
- SES:    Lau               namo             ‘the lagoon inside a reef, near the reef (the deep) pools towards the shore’
- SES: Kwaio                namo             ‘lake, pool, deep place in river’
- NCV: Mota                 namʷo            ‘lagoon within a reef’
- Mic: Kiribati             namo             ‘harbour’
- Mic: Ponapean             nāmʷ             ‘deep place within the barrier reef; lagoon’
- Mic: Puluwatese           nɔ̄mʷ            ‘lagoon’
- Mic: Woleaian             ramw             ‘lagoon, lake’
- Fij: Wayan                namo             ‘deep-water hole within reef’
- Pn:  Niuean               namo             ‘lake, lagoon’
- Pn:  Tongan               namo             ‘lagoon’
- Pn:  Niuatoputapu         namo             ‘the reef flat’
- Pn:  E Futunan            namo             ‘large shallow area on reef’
- Pn:  Tokelauan            namo             ‘lagoon’
+ PT:  Motu            nomu            ‘deeper place on shore reef’ (irreg. vowel change)
+ MM:  Kara            nam             ‘lagoon’
+ SES: ’Are’are        nāmo            ‘lake; crevice, deep places in between the reefs’
+ SES: Sa’a            namo            ‘land-locked harbour’
+ SES: Arosi           namo            ‘a landlocked, shallow lagoon near the shore’
+ SES: Lau             namo            ‘the lagoon inside a reef, near the reef (the deep) pools towards the shore’
+ SES: Kwaio           namo            ‘lake, pool, deep place in river’
+ NCV: Mota            namʷo           ‘lagoon within a reef’
+ Mic: Kiribati        namo            ‘harbour’
+ Mic: Ponapean        nāmʷ            ‘deep place within the barrier reef; lagoon’
+ Mic: Puluwatese      nɔ̄mʷ            ‘lagoon’
+ Mic: Woleaian        ramw            ‘lagoon, lake’
+ Fij: Wayan           namo            ‘deep-water hole within reef’
+ Pn:  Niuean          namo            ‘lake, lagoon’
+ Pn:  Tongan          namo            ‘lagoon’
+ Pn:  Niuatoputapu    namo            ‘the reef flat’
+ Pn:  E Futunan       namo            ‘large shallow area on reef’
+ Pn:  Tokelauan       namo            ‘lagoon’
 >
 
                                                                             The seascape      115
