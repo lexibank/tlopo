@@ -7510,44 +7510,42 @@ The Southeast Solomonic forms above are irregular, initial _d-_ reflecting _*dra
 
 162    Meredith Osmond
 
-
-
    The preceding cognate set may ultimately be connected with the following one.
-However, it is clear that reflexes of POc *raqani ‘daytime, daylight’ are synchronically
-distinct from reflexes of POc *[dr,r]aqā ‘sun’s heat, sunlight’; ‘(sun) shine; *[dr,r]aqa-ŋi
+However, it is clear that reflexes of POc _*raqani_ ‘daytime, daylight’ are synchronically
+distinct from reflexes of POc _*[dr,r]aqā_ ‘sun’s heat, sunlight’; ‘(sun) shine; _*[dr,r]aqa-ŋi_
 ‘shine on, be hot, be bright’, in contemporary Oceanic languages which reflect both etyma.
 
 <
 POc *[dr,r]aqā (N) ‘sun’s heat, sunlight’; (VI) ‘(sun) shine, be hot, be bright’
 POc *[dr,r]aqa-ŋi (VT) ‘shine on’
- NNG: Mapos Buang rŋ(ah)                  ‘daytime’[10]
- PT:      Motu           rarai(a)         (VT) ‘shine, of sun and moon’
- MM: Tigak               gan(ias)         ‘daytime’
- SES: Bugotu             raŋi             (VI) ‘shine, of sun’
- SES: Lau                rā               ‘sunlight’
- SES: Lau                rara             (VI) ‘shine, be hot, warm’
- SES: Lau                raraŋi           (VT) ‘shine upon’
- SES: ’Are’are           rārā             ‘scorch, singe, of sun and fire’
- SES: Sa’a               rā, rārā         (V) ‘shine brightly’; (N) ‘the sun’s light, radiance’
- SES: Arosi              rā               (V) ‘be hot, bright; shine’
- SES: Arosi              rārā(na)         (N) ‘sunshine, heat of sun or fire’; (VI) ‘shine, be hot’
- SES: Arosi              rāŋi             (VT) ‘shine on’
- Fij:     Wayan          drā              (VI) ‘(sun, moon, star) shine’
+ NNG: Mapos Buang      rŋ(ah)           ‘daytime’[10]
+ PT:  Motu             rarai(a)         (VT) ‘shine, of sun and moon’
+ MM:  Tigak            gan(ias)         ‘daytime’
+ SES: Bugotu           raŋi             (VI) ‘shine, of sun’
+ SES: Lau              rā               ‘sunlight’
+ SES: Lau              rara             (VI) ‘shine, be hot, warm’
+ SES: Lau              raraŋi           (VT) ‘shine upon’
+ SES: ’Are’are         rārā             ‘scorch, singe, of sun and fire’
+ SES: Sa’a             rā, rārā         (V) ‘shine brightly’; (N) ‘the sun’s light, radiance’
+ SES: Arosi            rā               (V) ‘be hot, bright; shine’
+ SES: Arosi            rārā(na)         (N) ‘sunshine, heat of sun or fire’; (VI) ‘shine, be hot’
+ SES: Arosi            rāŋi             (VT) ‘shine on’
+ Fij: Wayan            drā              (VI) ‘(sun, moon, star) shine’
 PPn *laqā ‘sun’
- Pn:    Tongan               laʔā             (N) ‘sun’; (VI) ‘be sunny’
- Pn:    Niuean               laā              ‘sun’
- Pn:    Samoan               lā               ‘sun’
- Pn:    Rennellese           gaʔā             (N) ‘sun’; (V) ‘sun, sunbathe, dry in the sun’
- Pn:    Maori                rā               ‘sun’
- Pn:    Tahitian             rā               ‘sun’
- Pn:    Rapanui              ra               ‘sun’
+ Pn:  Tongan           laʔā             (N) ‘sun’; (VI) ‘be sunny’
+ Pn:  Niuean           laā              ‘sun’
+ Pn:  Samoan           lā               ‘sun’
+ Pn:  Rennellese       gaʔā             (N) ‘sun’; (V) ‘sun, sunbathe, dry in the sun’
+ Pn:  Maori            rā               ‘sun’
+ Pn:  Tahitian         rā               ‘sun’
+ Pn:  Rapanui          ra               ‘sun’
 >
 
 
-[10] The Mapos Buang and Tigak etyma are possibly from *raqaŋi qaco ‘shine on + sun’.
+[10] The Mapos Buang and Tigak etyma are possibly from _*raqaŋi qaco_ ‘shine on + sun’.
 
-   Evidence for the transitive form *raqa-ŋi above comes from the Bugotu, Lau and Arosi
-forms as well as the Motu, where *ŋ is regularly reflected by Ø.
+   Evidence for the transitive form _*raqa-ŋi_ above comes from the Bugotu, Lau and Arosi
+forms as well as the Motu, where _*ŋ_ is regularly reflected by _Ø_.
 
                                                                  Navigation and the heavens   163
 
@@ -7557,75 +7555,75 @@ extends to heat from fire.
 <
 POc *raraŋ (VI) ‘be warm, hot, of sun; be warmed or heated by fire or sun’
 POc *[ra]raŋ-i (VT) ‘warm, dry s.o., s.t. by sun or fire’
- PT:    Molima            lala              ‘wilt leaves over a fire’
- MM: Tolai                raŋ, raraŋ        (VT) ‘scorch, dry, warm, by sun or fire’
- SES: Bugotu              raraŋi            (VT) ‘heat’
- SES: Tolo                raŋi-             ‘warm or dry s.t. on the fire’
- SES: ’Are’are            rara              (VI) ‘be warm, hot, of sun’
- SES: ’Are’are            rarani-           ‘warm oneself by fire or sun’
- NCV: Mota                rara              ‘dry before a fire’
- Mic: Marshallese         ṛɯaŋ-ṛɯaŋ         ‘warm oneself by the fire’
- Mic: Woleaian            c̣aŋ              ‘get warmed up near fire’
- Fij:   Rotuman           rara              ‘warm (self or child) by the fire’
- Fij:   Wayan             rara              (VI) ‘(patient subject) heated, warmed’; ‘(pot) fired, baked’; ‘(fish) smoked’
- Fij:   Wayan             rarani            (VT) ‘warm s.t.’ (n for exp. ŋ)
- Fij:   Bauan             rara              (VI) ‘warm oneself at a fire’
- Fij:   Bauan             raraŋ-            (VT) ‘reheat food by a fire, sear banana leaves’
- Pn:    Tongan            ā                 ‘heat (sticks or leaves) over a fire’
- Pn:    E Futunan         lala              ‘smoke fish’
- Pn:    Rennellese        gaga              ‘smoke, as fish on a fire; warm, as hands over a fire’
- Pn:    Rarotongan        rara              ‘dry (leaves) in sun, dry over a fire; smoke fish over a fire’
+ PT:  Molima          lala             ‘wilt leaves over a fire’
+ MM:  Tolai           raŋ, raraŋ       (VT) ‘scorch, dry, warm, by sun or fire’
+ SES: Bugotu          raraŋi           (VT) ‘heat’
+ SES: Tolo            raŋi-            ‘warm or dry s.t. on the fire’
+ SES: ’Are’are        rara             (VI) ‘be warm, hot, of sun’
+ SES: ’Are’are        rarani-          ‘warm oneself by fire or sun’
+ NCV: Mota            rara             ‘dry before a fire’
+ Mic: Marshallese     ṛɯaŋ-ṛɯaŋ        ‘warm oneself by the fire’
+ Mic: Woleaian        c̣aŋ              ‘get warmed up near fire’
+ Fij: Rotuman         rara             ‘warm (self or child) by the fire’
+ Fij: Wayan           rara             (VI) ‘(patient subject) heated, warmed’; ‘(pot) fired, baked’; ‘(fish) smoked’
+ Fij: Wayan           rarani           (VT) ‘warm s.t.’ (n for exp. ŋ)
+ Fij: Bauan           rara             (VI) ‘warm oneself at a fire’
+ Fij: Bauan           raraŋ-           (VT) ‘reheat food by a fire, sear banana leaves’
+ Pn:  Tongan          ā                ‘heat (sticks or leaves) over a fire’
+ Pn:  E Futunan       lala             ‘smoke fish’
+ Pn:  Rennellese      gaga             ‘smoke, as fish on a fire; warm, as hands over a fire’
+ Pn:  Rarotongan      rara             ‘dry (leaves) in sun, dry over a fire; smoke fish over a fire’
 >
 
-   Yet another contender for the POc term for sun is *sinaR, which Blust (1998) glosses as
+   Yet another contender for the POc term for sun is _*sinaR_, which Blust (1998) glosses as
 ‘shine’. While some reflexes from across Oceania support ‘shine’, others lean towards the
 meaning ‘sun’. This may, however, be the result of independent parallel development.
 
 <
 PMP *sinaR ‘ray of light’ (Dempwolff 1938)
 POc *sinaR (V) ‘shine’; (?) (N) ‘sun’
- Adm: Mussau            sinaka [11]       ‘sun’
- Adm: Tench             sinaka [11]         ‘sun’
+ Adm: Mussau            sinaka [11]    ‘sun’
+ Adm: Tench             sinaka [11]    ‘sun’
  Adm: Lou               sinsin         ‘sun’
- PT:    Motu            dina           ‘sun; day’
- MM: Lavongai           sinaŋ          (N) ‘sun’; (V) ‘(sun) shine’
- MM: Tigak              siŋan          (V) ‘(sun) shine’ (metathesis)
+ PT:  Motu              dina           ‘sun; day’
+ MM:  Lavongai          sinaŋ          (N) ‘sun’; (V) ‘(sun) shine’
+ MM:  Tigak             siŋan          (V) ‘(sun) shine’ (metathesis)
  SES: Lau               sina           ‘shine, give light’
  SES: Kwaio             sina           ‘sun’
  SES: ’Are’are          sina           (V) ‘shine, brighten’; (N) ‘light, brightness’
  SES: Sa’a              sineli         ‘shine’
- SES:    Arosi             sina             ‘sun’
- NCV:    Mota              siŋa             ‘shine’
- Mic:    Chuukese          ttira            (V) ‘shine’; (N) ‘ray, brightness, beam’
- Mic:    Puluwatese        tin              ‘shine, as the sun’
- Mic:    Mortlockese       tin, tina-       ‘shine: used for fire, moon, lantern’
- Mic:    Satawalese        ttin             (V) ‘shine’; (N) ‘ray, brightness, beam’
- Fij:    Rotuman           sina             ‘light, lamp, star’
- Fij:    Wayan             siŋa             ‘day, daylight, sun’
- Fij:    Bauan             ðina             ‘lamp, torch’
+ SES: Arosi             sina           ‘sun’
+ NCV: Mota              siŋa           ‘shine’
+ Mic: Chuukese          ttira          (V) ‘shine’; (N) ‘ray, brightness, beam’
+ Mic: Puluwatese        tin            ‘shine, as the sun’
+ Mic: Mortlockese       tin, tina-     ‘shine: used for fire, moon, lantern’
+ Mic: Satawalese        ttin           (V) ‘shine’; (N) ‘ray, brightness, beam’
+ Fij: Rotuman           sina           ‘light, lamp, star’
+ Fij: Wayan             siŋa           ‘day, daylight, sun’
+ Fij: Bauan             ðina           ‘lamp, torch’
 >
 
-[11] Mussau/Tench -k- as a reflex of POc final *-R is irregular.
+[11] Mussau/Tench _-k-_ as a reflex of POc final _*-R_ is irregular.
 
 164    Meredith Osmond
 
-   Building on its ‘shine’ meaning, POc *sinaR has given rise to a number of Polynesian
-terms which, with the addition of mā-, a stativising prefix, refer to the moon:
+   Building on its ‘shine’ meaning, POc _*sinaR_ has given rise to a number of Polynesian
+terms which, with the addition of _mā-_, a stativising prefix, refer to the moon:
 
 <
 PPn *mā-sina ‘moon, month’
- Pn:   Rennellese      māsina               ‘moon, month’
- Pn:    Tongan         māhina               ‘moon, month’
- Pn:    Samoan         māsina               ‘moon, month’
- Pn:    E Futunan      māsina               ‘moon, month’
- Pn:    E Uvean        māhina               ‘moon, month’
- Pn:    Maori          māhina               ‘moon, month’
+ Pn:   Rennellese     māsina               ‘moon, month’
+ Pn:   Tongan         māhina               ‘moon, month’
+ Pn:   Samoan         māsina               ‘moon, month’
+ Pn:   E Futunan      māsina               ‘moon, month’
+ Pn:   E Uvean        māhina               ‘moon, month’
+ Pn:   Maori          māhina               ‘moon, month’
 >
 
 6.4 Moon
 
    The moon is of little value as a navigational aid. Its typical role is as a marker of periods
-of time. Reflexes of POc *pulan ‘moon’ are widespread throughout the Admiralties, the
+of time. Reflexes of POc _*pulan_ ‘moon’ are widespread throughout the Admiralties, the
 Western Oceanic region, Southeast Solomons, Vanuatu and Fiji.
 
 <
@@ -7635,8 +7633,8 @@ POc *pulan ‘moon, month’ (ACD)
  Adm: Lou             pulan           ‘moon’
  Adm: Mussau          ulana           ‘moon’
  NNG: Kove            pula            ‘rise, shine, of sun, moon, stars’ (Chowning)
- PT:    Motu          hua             ‘moon, month’
- MM: Tigak            ulan            ‘moon’
+ PT:  Motu            hua             ‘moon, month’
+ MM:  Tigak           ulan            ‘moon’
  SES: Bugotu          vula            ‘moon, month’
  SES: Gela            vula            ‘moon, month’
  SES: Lau             fula            ‘the moon (but only in naming a month)’
@@ -7644,31 +7642,31 @@ POc *pulan ‘moon, month’ (ACD)
  SES: Kwaio           fula(bala)      ‘full moon, night when it is light from moonrise to dawn’
  SES: Kwaio           fula(ʔalo)      ‘rainbow’
  SES: Sa’a            hule            ‘phases of the moon; full moon’
- SES: Sa’a           | hule i lade |    ‘name of a month, July’
+ SES: Sa’a            |hule i lade|   ‘name of a month, July’
  SES: Ulawa           hula(ahola)     ‘six nights of the moon’s course, including the full moon and two nights each way’
- SES:    ’Are’are        hura             ‘moon, lunar month’
- SES:    ’Are’are        hura(ʔaro)       ‘rainbow’
- SES:    Arosi           hura             ‘moon, month. It is said there were twelve native months beginning July (the planting) and ending in the following June’
- NCV: Mota               vula             ‘moon, month, season marked by moon’
- Fij: Bauan              vula             ‘moon, month’
+ SES: ’Are’are        hura             ‘moon, lunar month’
+ SES: ’Are’are        hura(ʔaro)       ‘rainbow’
+ SES: Arosi           hura             ‘moon, month. It is said there were twelve native months beginning July (the planting) and ending in the following June’
+ NCV: Mota            vula             ‘moon, month, season marked by moon’
+ Fij: Bauan           vula             ‘moon, month’
 >
 
                                                          Navigation and the heavens     165
 
 
-In Polynesia *pulan is reflected as a verb, PPn *pula ‘to glow’ (with PPn *p instead of
-expected *f), and the moon is referred to by reflexes of PEOc *ma[d]rama.
+In Polynesia *pulan is reflected as a verb, PPn _*pula_ ‘to glow’ (with PPn _*p_ instead of
+expected _*f_), and the moon is referred to by reflexes of PEOc _*ma[d]rama_.
 
 <
 PEOc *ma[d]rama ‘moon’
- SES: Lau           madama                ‘moon’
- Mic: Mokilese      maram                 ‘moon’
- Mic: Chuukese      maram                 ‘moon’
- Mic: Ponapean      maram                 ‘moon, moonlight’
- Mic: Puluwatese    maram                 ‘moon’
- Pn:   Rarotongan   marama                ‘moon’
- Pn:   Tikopia      marama                ‘moon’
- Pn:   Tahitian     marama                ‘moon’
+ SES: Lau          madama                ‘moon’
+ Mic: Mokilese     maram                 ‘moon’
+ Mic: Chuukese     maram                 ‘moon’
+ Mic: Ponapean     maram                 ‘moon, moonlight’
+ Mic: Puluwatese   maram                 ‘moon’
+ Pn:  Rarotongan   marama                ‘moon’
+ Pn:  Tikopia      marama                ‘moon’
+ Pn:  Tahitian     marama                ‘moon’
 >
 
 6.5 Stars
@@ -7711,28 +7709,28 @@ particular stars to the naming community.
 <
 PAn *bituqen ‘star’ (ACD)
 POc *pituqun ‘star’
- Adm: Titan               pítuy                   ‘star’
- NNG: Lukep (Pono)        pitiki                  ‘star’
- NNG: Takia               patui                   ‘star’
- PT:    Misima            pútum                   ‘star’
- PT:    Muyuw             utun                    ‘star’
- PT:    Motu              hisiu                   ‘star’
- MM: Nehan                pitopit                 ‘star’
- SES: Arosi               hiʔu                    ‘star’
- NCV: Mota                vitu                    ‘star’
- NCV: SE Ambrym           hitu                    ‘star’
- Mic: Kiribati            itoi                    ‘star, constellation’
- Mic: Woleaian            fisi                    ‘star’
- Mic: Puluwatese          fū                      ‘star; point of the compass; canoe course plotted by the stars’
- Mic:      Marshallese          icu               ‘star, comet, planet’
- Mic:      Mokilese             ucu               ‘star’
- Mic:      Ponapean             usu               ‘star’
- Fij:      Rotuman              hefu              ‘star’
- Pn:       Rennellese           hetuʔu            ‘star, constellation’
- Pn:       Tongan               fetuʔu            ‘star; daisy’
- Pn:       Hawaiian             hōkū              ‘star’
- Pn:       Tikopia              fetū              ‘star, constellation’
- Pn:       Anutan               petū              ‘star’
+ Adm: Titan               pítuy             ‘star’
+ NNG: Lukep (Pono)        pitiki            ‘star’
+ NNG: Takia               patui             ‘star’
+ PT:  Misima              pútum             ‘star’
+ PT:  Muyuw               utun              ‘star’
+ PT:  Motu                hisiu             ‘star’
+ MM:  Nehan               pitopit           ‘star’
+ SES: Arosi               hiʔu              ‘star’
+ NCV: Mota                vitu              ‘star’
+ NCV: SE Ambrym           hitu              ‘star’
+ Mic: Kiribati            itoi              ‘star, constellation’
+ Mic: Woleaian            fɨsɨ              ‘star’
+ Mic: Puluwatese          fū                ‘star; point of the compass; canoe course plotted by the stars’
+ Mic: Marshallese         icu               ‘star, comet, planet’
+ Mic: Mokilese            ucu               ‘star’
+ Mic: Ponapean            usu               ‘star’
+ Fij: Rotuman             hefu              ‘star’
+ Pn:  Rennellese          hetuʔu            ‘star, constellation’
+ Pn:  Tongan              fetuʔu            ‘star; daisy’
+ Pn:  Hawaiian            hōkū              ‘star’
+ Pn:  Tikopia             fetū              ‘star, constellation’
+ Pn:  Anutan              petū              ‘star’
 >
 
 6.5.2 Individual stars and star groups[12]
@@ -7754,16 +7752,16 @@ etymon.
 PMP *mantalaq ‘the morning (evening) star: Venus’ (ACD)
 PMP *(t)ala(q) ‘star’ (Dempwolff 1938)
 POc *ma-dala ‘the morning star’ (Blust 1972b)
- Adm: Lou               (ko)mtal        ‘Morning Star/Evening star:Venus’
- Adm: Titan             (ápa)tal        ‘Morning Star which appears about 5 a.m.’
- Adm: Loniu             (kopo)matan     ‘the Morning Star’
- NNG: Kove              motala          ‘star, generic’
- NNG: Kove             | motala waro aia | ‘Morning Star’ (lit. ‘star sun-for’) (Chowning)
- NNG: Labu              metana          ‘the morning star’
- SES: ’Are’are         | matara ni tani | ‘Morning Star’ (tani ‘daylight’)
- SES: Sa’a              madala          ‘the morning star’
- SES: Arosi             madara          ‘the morning star’
- Mic: Mokilese          mālāl           ‘the morning star’
+ Adm: Lou              (ko)mtal           ‘Morning Star/Evening star:Venus’
+ Adm: Titan            (ápa)tal           ‘Morning Star which appears about 5 a.m.’
+ Adm: Loniu            (kopo)matan        ‘the Morning Star’
+ NNG: Kove             motala             ‘star, generic’
+ NNG: Kove             |motala waro aia|  ‘Morning Star’ (lit. ‘star sun-for’) (Chowning)
+ NNG: Labu             metana             ‘the morning star’
+ SES: ’Are’are         |matara ni tani|   ‘Morning Star’ (_tani_ ‘daylight’)
+ SES: Sa’a             madala             ‘the morning star’
+ SES: Arosi            madara             ‘the morning star’
+ Mic: Mokilese         mālāl              ‘the morning star’
 >
 
    As in English, Venus often appears to have separate identities as Morning and Evening
@@ -7773,32 +7771,32 @@ Morning Star:
 (i) compounds from ‘star’ + ‘daytime’
 
 <
-PPn *|fetuqu qaho| ‘Morning Star’ ( > POc *qaco ‘sun, daytime’)
- Pn:     Tongan      | fetuʔu ʔaho |     ‘Morning Star’
- Pn:     Marquesan   | hetu ao |         ‘star of dawn’ (Makemson 1941:207)
- Pn:     Samoan      | fetū ao |         ‘Morning Star’
- Pn:     Tikopia     | fetū ao |         ‘Morning Star’
- Pn:     Anutan      | petū ao |         ‘Morning Star: Venus’
- Pn:     Hawaiian     hōkū-ao          ‘Venus when seen in the morning’
+PPn *|fetuqu qaho| ‘Morning Star’ ( > POc _*qaco_ ‘sun, daytime’)
+ Pn:  Tongan      |fetuʔu ʔaho|    ‘Morning Star’
+ Pn:  Marquesan   |hetu ao|        ‘star of dawn’ (Makemson 1941:207)
+ Pn:  Samoan      |fetū ao|        ‘Morning Star’
+ Pn:  Tikopia     |fetū ao|        ‘Morning Star’
+ Pn:  Anutan      |petū ao|        ‘Morning Star: Venus’
+ Pn:  Hawaiian    hōkū-ao          ‘Venus when seen in the morning’
 >
 
 <
-PMic *|fitū rāni| ‘Morning Star’ ( > POc *raqani ‘daytime, daylight’)
- Mic: Marshallese | icu ṛɯan |             ‘Morning Star’
- Mic: Ponapean        | usūn rān |         ‘Morning Star’ (rān ‘day’)
- Mic: Kiribati        | itoi ni ŋaina |    ‘Morning Star’ (ŋaina ‘day, daylight’)
- Mic: Chuukese        | fū rāɾ |           ‘Venus as Morning Star’
+PMic *|fitū rāni| ‘Morning Star’ ( > POc _*raqani_ ‘daytime, daylight’)
+ Mic: Marshallese  |icu ṛɯan|         ‘Morning Star’
+ Mic: Ponapean     |usūn rān|         ‘Morning Star’ (_rān_ ‘day’)
+ Mic: Kiribati     |itoi ni ŋaina|    ‘Morning Star’ (_ŋaina_ ‘day, daylight’)
+ Mic: Chuukese     |fū rāɾ|           ‘Venus as Morning Star’
 >
 
 (ii) other compounds
 
 __pre__
-  NNG: Gedaged                boi tinan             ‘Morning Star’ (boi ‘star’, tinan ‘mother’ or ‘big’; cf. p.195)[13]
-  NNG: Manam                  goai zama             ‘Morning Star’ (goai ‘star’, zama ‘tomorrow’)
-  PT:  Motu                   hisiu bada            ‘Morning Star’ (hisiu ‘star’, bada ‘large’)
+  NNG: Gedaged        boi tinan         ‘Morning Star’ (boi ‘star’, tinan ‘mother’ or ‘big’; cf. p.195)[13]
+  NNG: Manam          goai zama         ‘Morning Star’ (goai ‘star’, zama ‘tomorrow’)
+  PT:  Motu           hisiu bada        ‘Morning Star’ (hisiu ‘star’, bada ‘large’)
 
 
-[13] POc *tina, literally ‘mother’, sometimes carries the interpretation ‘big’ in contrast to ‘child/small’.
+[13] POc _*tina_, literally ‘mother’, sometimes carries the interpretation ‘big’ in contrast to ‘child/small’.
 
 168     Meredith Osmond
 
@@ -7806,18 +7804,18 @@ __pre__
 Evening Star (various compounds):
 
 __pre__
- MM: Roviana           govete pisi                  ‘Evening Star, Venus’ (govete ‘to flee, run away’, pisi ‘to sting or bite, as insects’)
- SES:      To’aba’ita         bubufaŋa              ‘Evening Star’ (bubu ‘look at’, faŋa ‘eat; food’
- SES:      Lau              būbūfaŋa       ‘Evening Star’ (būbū ‘look at, gaze’, faŋa ‘to have a meal, food’)
- SES:      Arosi            maŋai ŋau      ‘Evening Star’ (maŋa ‘eat’, ŋau ‘eat food’
- Pn:       Tikopia          fetū ramaŋa    Alternative name for evening star when standing in west, in monsoon nights (lit. ‘torchlight fishing star’)
- Pn:       Hawaiian         hōkū-kau-ʔōpae ‘Evening Star’ (lit. ‘star for placing shrimp’)
+ MM:  Roviana          govete pisi    ‘Evening Star, Venus’ (govete ‘to flee, run away’, pisi ‘to sting or bite, as insects’)
+ SES: To’aba’ita       bubufaŋa       ‘Evening Star’ (bubu ‘look at’, faŋa ‘eat; food’
+ SES: Lau              būbūfaŋa       ‘Evening Star’ (būbū ‘look at, gaze’, faŋa ‘to have a meal, food’)
+ SES: Arosi            maŋai ŋau      ‘Evening Star’ (maŋa ‘eat’, ŋau ‘eat food’
+ Pn:  Tikopia          fetū ramaŋa    Alternative name for evening star when standing in west, in monsoon nights (lit. ‘torchlight fishing star’)
+ Pn:  Hawaiian         hōkū-kau-ʔōpae ‘Evening Star’ (lit. ‘star for placing shrimp’)
 
 
 6.5.2.2 Big Bird (Constellation including Sirius, Canopus, Procyon, Betelgeuse, Rigel)
 
    One of the few constellations that I have been able to identify and trace back to POc is
-*manuk, literally ‘bird’ (manu in Pn), referred to by Lewis, Gladwin and others as ‘Big
+_*manuk_, literally ‘bird’ (_manu_ in Pn), referred to by Lewis, Gladwin and others as ‘Big
 Bird’ or ‘Giant Bird’. Most of the stars which fall within the Western constellations of
 Orion and Canis Major would also be included within the larger Manuk constellation.
 Lewis (1978:11) writes of following ‘the guiding star Betelgeuse in Orion, the northern
@@ -7838,15 +7836,15 @@ marked by a star probably Monocerus.[14]
 <
 PMP *manuk ‘bird’
 POc *manuk ‘bird, Bird constellation’
- Adm: Ninigo            mān         ‘(constellation incl.) Canopus, Sirius, Procea’ (Lewis, 1994:406)
- Mic: Kiribati          man         ‘Canopus’
- Mic: Mortlockese       man         ‘Sirius’
- Mic: Satawalese        mān         ‘(constellation incl.) Sirius’
- Mic: Puluwatese        mān         ‘a scattered group of stars, Canopus, Sirius, Procyon’
- Mic: Woleaian          mar         ‘Sirius-Procyon-Canopus star’
- Mic: Carolinian        mān         ‘Sirius’
- Pn:   Tikopia          manu        ‘Rigel’ (part for whole) (Lewis, 1978:33)
- Pn:   Anutan           manu        ‘Bird constellation, consisting of Sirius (Manu’s body), Canopus (east wing), Procyon (north wing) and a few stars in between’
+ Adm: Ninigo           mān         ‘(constellation incl.) Canopus, Sirius, Procea’ (Lewis, 1994:406)
+ Mic: Kiribati         man         ‘Canopus’
+ Mic: Mortlockese      man         ‘Sirius’
+ Mic: Satawalese       mān         ‘(constellation incl.) Sirius’
+ Mic: Puluwatese       mān         ‘a scattered group of stars, Canopus, Sirius, Procyon’
+ Mic: Woleaian         mar         ‘Sirius-Procyon-Canopus star’
+ Mic: Carolinian       mān         ‘Sirius’
+ Pn:  Tikopia          manu        ‘Rigel’ (part for whole) (Lewis, 1978:33)
+ Pn:  Anutan           manu        ‘Bird constellation, consisting of Sirius (Manu’s body), Canopus (east wing), Procyon (north wing) and a few stars in between’
 >
 
 We also have various references to particular stars as Manuk’s head, Manuk’s body etc.
@@ -7854,16 +7852,16 @@ We also have various references to particular stars as Manuk’s head, Manuk’s
                                                               Navigation and the heavens         169
 
 __pre__
- Adm: Ninigo              mānifono                    ‘Sirius’ (fono ‘head’)
- Adm: Ninigo              mānitola                    ‘Procyon’
- Adm: Ninigo              mānihaiup                   ‘Canopus’ (Lewis 1994:406)
- Mic:    Kiribati         pwāpwā-ni-man               ‘Sirius’ (pwāpwā ‘chest’)
- Mic:    Kiribati         man-ati                     ‘Rigel’ (ati ‘heart’)
- Mic:    Puluwatese       yinekin-mān                 ‘Sirius’ (yinek ‘body, trunk’)
- Pn:     Rennellese      | te tino-manu |               ‘three bright stars at the end of Taurus’ (tino ‘body’)
- Pn:     Anutan          | te kaokao o manu |           ‘Manuk’s armpit: a group of four small stars near Sirius; said to pass almost directly over Tikopia when approaching from Anuta’
- Pn:     Anutan          | te tino a manu |             ‘Sirius’ (tino ‘body’)
- Pn:     Tikopia         | te opiŋa o manu |            ‘Manuk’s armpit’ (Feinberg 1988:101) A Tikopian name but commonly used on Anuta.
+ Adm: Ninigo           mānifono                    ‘Sirius’ (fono ‘head’)
+ Adm: Ninigo           mānitola                    ‘Procyon’
+ Adm: Ninigo           mānihaiup                   ‘Canopus’ (Lewis 1994:406)
+ Mic: Kiribati         pwāpwā-ni-man               ‘Sirius’ (pwāpwā ‘chest’)
+ Mic: Kiribati         man-ati                     ‘Rigel’ (ati ‘heart’)
+ Mic: Puluwatese       yinekin-mān                 ‘Sirius’ (yinek ‘body, trunk’)
+ Pn:  Rennellese      |te tino-manu|               ‘three bright stars at the end of Taurus’ (tino ‘body’)
+ Pn:  Anutan          |te kaokao o manu|           ‘Manuk’s armpit: a group of four small stars near Sirius; said to pass almost directly over Tikopia when approaching from Anuta’
+ Pn:  Anutan          |te tino a manu|             ‘Sirius’ (tino ‘body’)
+ Pn:  Tikopia         |te opiŋa o manu|            ‘Manuk’s armpit’ (Feinberg 1988:101) A Tikopian name but commonly used on Anuta.
 
 
 Procyon (or Betelgeuse) and Canopus are widely referred to as the north wing and
@@ -7871,14 +7869,14 @@ south/east wing respectively in Micronesian Satawalese, where reference to Manuk
 included, and in the Polynesian Outliers of Anuta, Tikopia and Pileni, where the Manuk
 reference has been dropped.[15]
 
-[15] Carolinian and Woleaian use comparable terms, respectively pāy efeŋ and pai yefaŋ ‘north wing’, and
-   pāy yer and pai yeiẓ ‘southern wing’ but apply them to the northern and southern wings of the
+[15] Carolinian and Woleaian use comparable terms, respectively _pāy efeŋ_ and _pai yefaŋ_ ‘north wing’, and
+   _pāy yēr_ and _paɨ yeɨẓ_ ‘southern wing’ but apply them to the northern and southern wings of the
    constellation Aquila.
 
 __pre__
- Mic: Satawalese paīne-māne-mefuŋ             ‘Procyon (lit. ‘northern wing of Manuk’)
+ Mic: Satawalese     paīne-māne-mefuŋ         ‘Procyon (lit. ‘northern wing of Manuk’)
  Mic: Satawalese     paīne-māne-meir          ‘Canopus (lit. ‘southern wing of Manuk’)
- Pn: Anutan          te kapakau paka-tokerau ‘Procyon, the ‘north wing (of Manuk constellation)’ (kapakau ‘wing’, tokerau ‘north’)
+ Pn: Anutan          te kapakau paka-tokerau  ‘Procyon, the ‘north wing (of Manuk constellation)’ (kapakau ‘wing’, tokerau ‘north’)
  Pn: Anutan          te kapakau paka-toŋa     ‘Canopus, Manuk’s east wing’ (kapakau ‘wing’, toŋa ‘south/east’)
  Pn: Tikopia         kapakau faka-tokerau     ‘Betelgeuse’
  Pn: Tikopia         kapakau faka-toŋa        ‘probably Canopus’
@@ -7908,7 +7906,7 @@ PPn *takulua ‘a bright star’
  Pn: Hawaiian         kaulua                ‘Sirius; June-July or February-March’
 >
 
-In Hawaii, Sirius is also known as hōkū-hoʔokele-waʔa, literally ‘canoe-guiding star’.
+In Hawaii, Sirius is also known as _hōkū-hoʔokele-waʔa_, literally ‘canoe-guiding star’.
 
    We have another PPn reconstruction whose reference is apparently to a star or stars
 within the constellation of Orion.
@@ -7923,8 +7921,8 @@ PPn *tākelo ‘name of a star or stars, possibly in Orion constellation’
  Pn: Hawaiian        kāʔelo                ‘a star, perhaps Betelgeuse; name of a wet month’
 >
 
-A Kiribati name for Betelgeuse is kāma-n-nuka. Kāma is the name of a mythical being,
-nuka ‘middle’ (Grimble 1931:241). Rigel is known there as te taubuki literally ‘ridge of
+A Kiribati name for Betelgeuse is _kāma-n-nuka_. _Kāma_ is the name of a mythical being,
+_nuka_ ‘middle’ (Grimble 1931:241). Rigel is known there as _te taubuki_ literally ‘ridge of
 house roof’.
 
 
@@ -7932,21 +7930,21 @@ house roof’.
 
    It is hardly surprising that names for the group of three bright stars in a row should
 typically focus on the number. Terms in the southeast Solomons, Polynesia and Micronesia
-all contain reflexes of POc *tolu ‘three’. In ’Are’are, Sa’a and Arosi in the southeast
-Solomons they are named by the term for a three-man canoe taʔe-oru. Makemson
-(1941:198) gives the Tongan name as alo-tolu, identified in Churchward’s dictionary as
-ʔalo-tolu ‘three persons paddling together’. Tikopia and Anutan have ara-toru, ‘path of
+all contain reflexes of POc _*tolu_ ‘three’. In ’Are’are, Sa’a and Arosi in the southeast
+Solomons they are named by the term for a three-man canoe _taʔe-oru_. Makemson (1941:198)
+gives the Tongan name as _alo-tolu_, identified in Churchward’s dictionary as
+_ʔalo-tolu_ ‘three persons paddling together’. Tikopia and Anutan have _ara-toru_, ‘path of
 three’, a reference to an origin legend in which the three brothers of the demigod
 Motikitiki died and ascended to the sky when their outrigger was severed from their canoe
-following an argument (Feinberg 1988:11). In Maori they are referred to as tau-toru ‘three
+following an argument (Feinberg 1988:11). In Maori they are referred to as _tau-toru_ ‘three
 men’ (Åkerblom 1968:82), while in Tokelauan according to Macgregor (1937:90), and
-also in East Futunan, the group is called simply tolu ‘three’. Pukapukans call them toluŋa
-maui ‘Maui’s three’, and the Rennellese toguŋa māui, the reference being to Maui, a
-legendary Polynesian hero, and his two brothers. The Carolinian name eliw̡el is the term
-for three (eli) plus the classifier for general objects. Woleaian has yeri̡-yer (yeri ‘three’).
-The North New Guinea language of Gedaged is an exception. Their term is nitul, which is
+also in East Futunan, the group is called simply _tolu_ ‘three’. Pukapukans call them
+_toluŋa maui_ ‘Maui’s three’, and the Rennellese _toguŋa māui_, the reference being to Maui, a
+legendary Polynesian hero, and his two brothers. The Carolinian name _elɨw̡el_ is the term
+for three (_elɨ_) plus the classifier for general objects. Woleaian has _yerɨ-yer_ (_yeri_ ‘three’).
+The North New Guinea language of Gedaged is an exception. Their term is _nitul_, which is
 also the term for a fish holder—the hooked string or branch used to string up fish. Fred
-Damon (pers. comm.) reports that in Muyuw the term for Orion’s Belt is kiyad, the term
+Damon (pers. comm.) reports that in Muyuw the term for Orion’s Belt is _kiyad_, the term
 for the pole that stretches from one side of a canoe to the outrigger, attached in three
 places.
 
@@ -7962,7 +7960,7 @@ Pacific from the ancient homeland of Asia, although she offers no specific evide
 this (1941:76). However it is the case that until recent times the Pleiades served as
 significant calendar stars throughout the Oceanic world, their reappearance each year
 marking the beginning of the annual seasonal cycle. In a number of languages of the north
-coast of New Guinea (Gedaged balas, Biliau barahas, Takia baras) the stars are thought of
+coast of New Guinea (Gedaged _balas_, Biliau _barahas_, Takia _baras_) the stars are thought of
 as young unmarried women, associated with health and fertility rituals. When the
 constellation reappears in mid-June, it is time to prepare the fields for planting yams.
 Speakers of Muyuw, a Papuan Tip language, are supposed to plant their yams by Gumeaw,
@@ -7971,38 +7969,38 @@ when the Pleiades rise on the eastern horizon in the evening (late November). Bu
 Pukapuka, Mangareva, Marquesas and parts of New Zealand the seasonal cycle begins
 when the Pleiades appear on the eastern horizon shortly before sunrise (about the end of
 May) (Åkerblom 1968:97). Teuira Henry in 1928 described the Tahitian year as consisting
-of two seasons, matarī-i-nia ‘Pleiades above’, the forerunners of the season of plenty, and
-matarī-i-raro, ‘Pleiades below’, the season of scarcity (quoted in Makemson 1941:92). A
-Maori term for the constellation is ao kai ‘season of food’ (Makemson 1941:200). Kiribati
+of two seasons, _matarī-i-nia_ ‘Pleiades above’, the forerunners of the season of plenty, and
+_matarī-i-raro_, ‘Pleiades below’, the season of scarcity (quoted in Makemson 1941:92). A
+Maori term for the constellation is _ao kai_ ‘season of food’ (Makemson 1941:200). Kiribati
 also recognizes two seasons, one marked by the appearance of the Pleiades, the other by
 Antares (Grimble 1972:223).
 
-   Blust has reconstructed PMP *buluq, POc *puluq ‘a constellation, the Pleiades’ with a
+   Blust has reconstructed PMP _*buluq_, POc _*puluq_ ‘a constellation, the Pleiades’ with a
 single WMP reflex (from Sundanese) in addition to the Oceanic reflexes below. Many
-Polynesian languages use reflexes of PPn *mataliki.
+Polynesian languages use reflexes of PPn _*mataliki_.
 
 <
 PMP *buluq ‘a constellation, the Pleiades’ (ACD)
 POc *bulu(q) ‘a constellation, the Pleiades’ (ACD has *puluq)
- MM: Nakanai         vulu               ‘Pleiades’ (v for exp. b) [16]
- MM: Roviana         bibolo             ‘Pleiades’ (o for expected u)
+ MM:  Nakanai        vulu               ‘Pleiades’ (_v_ for exp. _b_) [16]
+ MM:  Roviana        bibolo             ‘Pleiades’ (_o_ for expected _u_)
  SES: Kwaio          bulu-bulu          ‘star; firefly’
  SES: Lau            (bu)bulu           ‘star’
  SES: ’Are’are       puru-puru          ‘star, firefly’
- SES: Arosi          buru               ‘Pleiades’ (buru-buru ‘firefly’)
+ SES: Arosi          buru               ‘Pleiades’ (_buru-buru_ ‘firefly’)
  cf. also:
- SES: Gela           buru-buru          ‘Pleiades’ (r for exp. l)
+ SES: Gela           buru-buru          ‘Pleiades’ (_r_ for exp. _l_)
 >
 
    Ann Chowning (pers. comm.) has pointed out that, in common with the Southeast
-Solomonic terms above, an alternative Nakanai name for the Pleiades, matatabu, and their
-Sengseng name (li-m(e)lek), although unrelated, also denote fireflies.
+Solomonic terms above, an alternative Nakanai name for the Pleiades, _matatabu_, and their
+Sengseng name (_li-m(e)lek_), although unrelated, also denote fireflies.
 
-[16] Alternatively, Ann Chowning considers that vulu, may be derived from POc *pulu ‘feather’, vulu also
+[16] Alternatively, Ann Chowning considers that _vulu_, may be derived from POc _*pulu_ ‘feather’, _vulu_ also
    being the term for their yellow feathered headdress.
 
    In Polynesia and Micronesia a different term, translatable literally as ‘small face’ or
-‘small eyes’ is widespread (POc *mata ‘eye’, *liki ‘small’). The Micronesian reflexes,
+‘small eyes’ is widespread (POc _*mata_ ‘eye’, _*liki_ ‘small’). The Micronesian reflexes,
 however, refer not to the Pleiades but probably to Sagittarius.
 
 
@@ -8014,38 +8012,38 @@ PEOc *mataliki ‘name given to a significant star cluster’
  Mic: Mortlockese     meisik            ‘stars in Hercules’
  Mic: Lamotrek        mairik            ‘name for the fourth month’
 PPn *mataliki ‘Pleiades’
- Pn: Tongan              mataliki          ‘Pleiades’
- Pn: E Futunan           mataliki          ‘Pleiades; third month; June’
- Pn: Pukapukan           mataliki          ‘Pleiades’
- Pn: Samoan              mataliʔi          ‘Pleiades’
- Pn: Tuvalu              mataliki          ‘Pleiades’
- Pn: Anutan              matariki          ‘Pleiades’
- Pn: Tikopia             matariki          ‘Pleiades (sign of advent of trade wind season when appears on eastern horizon before dawn, also sign for turmeric extraction)’
- Pn:   Tahitian           matariʔi         ‘Pleiades’
- Pn:   Maori              matariki         ‘Pleiades, the first appearance of which before sunrise indicated the beginning of the Maori year (about the middle of June)’
- Pn:   Marquesan          mataʔiʔi         ‘Pleiades; June’
- Pn:   Hawaiian           makaliʔi         ‘Pleiades; month name; the six summer months collectively’
+ Pn:  Tongan          mataliki          ‘Pleiades’
+ Pn:  E Futunan       mataliki          ‘Pleiades; third month; June’
+ Pn:  Pukapukan       mataliki          ‘Pleiades’
+ Pn:  Samoan          mataliʔi          ‘Pleiades’
+ Pn:  Tuvalu          mataliki          ‘Pleiades’
+ Pn:  Anutan          matariki          ‘Pleiades’
+ Pn:  Tikopia         matariki          ‘Pleiades (sign of advent of trade wind season when appears on eastern horizon before dawn, also sign for turmeric extraction)’
+ Pn:  Tahitian        matariʔi         ‘Pleiades’
+ Pn:  Maori           matariki         ‘Pleiades, the first appearance of which before sunrise indicated the beginning of the Maori year (about the middle of June)’
+ Pn:  Marquesan       mataʔiʔi         ‘Pleiades; June’
+ Pn:  Hawaiian        makaliʔi         ‘Pleiades; month name; the six summer months collectively’
 >
 
    A number of similar terms for the Pleiades in Micronesian languages (Mortlockese
-mariker, Puluwatese mwariker, Woleaian mwexaẓixeẓ, Carolinian mwǣrixær) are not
-reflexes of the above, reflecting instead PChk *mwakariker.
+_mariker_, Puluwatese _mʷariker_, Woleaian _mʷexaẓixeẓ_, Carolinian _mʷǣrixær_) are not
+reflexes of the above, reflecting instead PChk _*mʷakariker_.
 
 
 6.5.2.5 Southern Cross
 
-   Blust, in his Austronesian Comparative Dictionary, lists a number of Western Malayo-
-Polynesian languages (Iban, Malay, Achenese, Simalur) in which the Southern Cross is
-called by the term for a stingray, in each case a reflex of PMP *paRih. Makemson
-(1941:269) lists a Maori name, te whai o titipa, literally ‘the stingray of Titipa’ as referring
+   Blust, in his Austronesian Comparative Dictionary, lists a number of Western
+Malayo-Polynesian languages (Iban, Malay, Achenese, Simalur) in which the Southern Cross is
+called by the term for a stingray, in each case a reflex of PMP _*paRih_. Makemson (1941:269)
+lists a Maori name, _te whai o titipa_, literally ‘the stingray of Titipa’ as referring
 to the Southern Cross or to a nearby feature, the Coalsack. Whether the reference to the
 star group is inherited with the term for a stingray, or is simply independent recognition of
 a familiar appearance we can only guess. Three Central Malayo-Polynesian languages
 which are either closely related or geographically contiguous (Fordata, Kei, Yamdena)
-contain reflexes of *paRih which indicate Scorpio rather than the Southern Cross as the
+contain reflexes of _*paRih_ which indicate Scorpio rather than the Southern Cross as the
 constellation in question. In several of the languages in the Solomons and Micronesia, the
 same term denotes both the Southern Cross and a triggerfish, also seen as similar to the
-constellation in shape. The Samoan term for the Southern Cross, sumu, although not
+constellation in shape. The Samoan term for the Southern Cross, _sumu_, although not
 cognate, is also the term for a triggerfish.
 
                                                         Navigation and the heavens     173
@@ -8054,20 +8052,20 @@ cognate, is also the term for a triggerfish.
 it is visible in the lower latitudes of the northern hemisphere, and is a significant
 navigational constellation for Micronesia. Specific terms indicate whether it is seen as
 upright, on either diagonal or lying horizontally on either side (Lewis 1994:103–106). A
-PEOc reconstruction is proposed. The Hawaiian term, newe, may be a borrowing from the
+PEOc reconstruction is proposed. The Hawaiian term, _newe_, may be a borrowing from the
 upright position Carolinian form (see below).
 
 <
 PEOc *bubu ‘Southern Cross; triggerfish’
- SES: Sa’a           | hoi pupu |          ‘Southern Cross; triggerfish’
- SES: Arosi          | hua i bubu |        ‘Southern Cross; triggerfish’
- Mic: Mokilese        (lō)pʷu            ‘Southern Cross; triggerfish’
- Mic: Woleaian        pʷū                ‘Crux’
- Mic: Marshallese    | pɯubʷin ɛpɔ̄n  |  ‘Crux, Southern Cross’ (pɯupɯ ‘black triggerfish’)
- Mic: Puluwatese      pʷupʷ              ‘Southern Cross; k.o. fish, perhaps triggerfish’
- Mic: Lamotrek        pup                ‘Southern Cross. Also called the leatherjacket fish’
- Mic: Carolinian      bʷūbʷ              ‘Southern Cross; triggerfish’
- Mic: Carolinian      wenewenūbʷ         ‘Southern Cross in upright position’
+ SES: Sa’a            |hoi pupu|       ‘Southern Cross; triggerfish’
+ SES: Arosi           |hua i bubu|     ‘Southern Cross; triggerfish’
+ Mic: Mokilese        (lō)pʷu          ‘Southern Cross; triggerfish’
+ Mic: Woleaian        pʷū              ‘Crux’
+ Mic: Marshallese     |pɯubʷin ɛpɔ̄n |  ‘Crux, Southern Cross’ (_pɯupɯ_ ‘black triggerfish’)
+ Mic: Puluwatese      pʷupʷ            ‘Southern Cross; k.o. fish, perhaps triggerfish’
+ Mic: Lamotrek        pup              ‘Southern Cross. Also called the leatherjacket fish’
+ Mic: Carolinian      bʷūbʷ            ‘Southern Cross; triggerfish’
+ Mic: Carolinian      wenewenūbʷ       ‘Southern Cross in upright position’
 >
 
    Other terms are descriptive, with the net metaphor and the cross shape or crucifix
@@ -8075,28 +8073,28 @@ recurring.
 
 __pre__
  SES: Sa’a          ʔape                ‘Southern Cross’ (lit. ‘large square fishing net fixed on four upright poles’)
- Fij: Bauan         kalokalo-ni-ðeva ‘Southern Cross’ (kalokalo ‘star’, ðeva ‘the south or southeast wind’)
+ Fij: Bauan         kalokalo-ni-ðeva    ‘Southern Cross’ (_kalokalo_ ‘star’, _ðeva_ ‘the south or southeast wind’)
  Pn: Anutan         te kupeŋa           ‘The Net: Southern Cross’
- Pn: Tikopia        te kau kupeŋa       ‘pole-net handle’ (kau ‘handle’ probably refers to the Pointers rather than the Cross, which is the net.)
+ Pn: Tikopia        te kau kupeŋa       ‘pole-net handle’ (_kau_ ‘handle’ probably refers to the Pointers rather than the Cross, which is the net.)
  Pn: Rennellese     kau-kupeŋa          ‘Southern Cross; net handle, net frame’
  Pn: K’marangi      tina ti raŋi        ‘Southern Cross’ (lit. ‘sky mother’)
  Pn: Tikopia        te uru a taŋata     ‘Southern Cross’ (lit. ‘man’s head’)
  Pn: Tikopia        rakau tapu          ‘Southern Cross’ (lit. ‘sacred timber’) (Lewis 1994:407)
-  Pn: Hawaiian      hōkū-keʔa           ‘Southern Cross’ (keʔa ‘cross, crucifix’)
+ Pn: Hawaiian       hōkū-keʔa           ‘Southern Cross’ (keʔa ‘cross, crucifix’)
 
 
 6.5.2.6 The Pointers
 
    The Pointers, Alpha and Beta Centauri, are widely referred to by compounds
-translatable as the ‘two men’. The Sa’a form is derived from POc *mwaqane ‘man, male’,
-while the Polynesian examples are reflexes of POc *tamwataq ‘living person’.
+translatable as the ‘two men’. The Sa’a form is derived from POc _*mwaqane_ ‘man, male’,
+while the Polynesian examples are reflexes of POc _*tamwataq_ ‘living person’.
 
 __pre__
-  SES: Sa’a            ro mwane           ‘Pointers (to Southern Cross)’ (lit. ‘two men’)
-  Pn: Samoan           lua taŋata         ‘Pointers: Alpha and Beta Centauri’ (Åkerblom 1968:27)
-  Pn: Tikopia          rua taŋata         ‘Southern Cross’ (Lewis 1994:407)
-  Pn: Tokelauan        na taŋata          ‘these two stars are guides for voyages from Tokelau to Samoa’ (MacGregor 1937:89)
- Pn:   Anutan         rua taŋata             Lit. ‘double man’: ‘constellation consisting of two bright stars near the Southern Cross. Centaurus, also known as te kau o te kupeŋa ‘handle of fishing net’’
+  SES: Sa’a           ro mwane           ‘Pointers (to Southern Cross)’ (lit. ‘two men’)
+  Pn:  Samoan         lua taŋata         ‘Pointers: Alpha and Beta Centauri’ (Åkerblom 1968:27)
+  Pn:  Tikopia        rua taŋata         ‘Southern Cross’ (Lewis 1994:407)
+  Pn:  Tokelauan      na taŋata          ‘these two stars are guides for voyages from Tokelau to Samoa’ (MacGregor 1937:89)
+  Pn:  Anutan         rua taŋata         Lit. ‘double man’: ‘constellation consisting of two bright stars near the Southern Cross. Centaurus, also known as te kau o te kupeŋa ‘handle of fishing net’’
 
 
 174    Meredith Osmond
@@ -8116,21 +8114,21 @@ __pre__
  Pn: Anutan          te aŋa-aŋa          ‘the Tongs: a constellation consisting of seven stars from Taurus arranged in a V pattern’
 
 
-In Fiji the constellation is known as laða, literally ‘a sail’.
+In Fiji the constellation is known as _laða_, literally ‘a sail’.
 
    There is a possible PEOc reconstruction for Aldebaran, the single brightest star of the
-group. The long vowel indicates a possible *u(C)u sequence.
+group. The long vowel indicates a possible _*u(C)u_ sequence.
 
 <
 PEOc *u(C)unu ‘Aldebaran’
- Mic: Kiribati      un                    ‘the name of a star’
- Mic: Mortlockese   un(allual)            ‘Aldebaran and Orion’
- Mic: Puluwatese    wūn                   ‘Aldebaran; month about late July’
- Mic: Woleaian      ūru                   ‘Aldebaran. Also the name for a kind of dorfin’ (dorsal fin also triangular [MO])
- Mic: Lamotrek         ul                 ‘Aldebaran’
- Mic: Satawalese       ul                 ‘Aldebaran’
- Mic: Carolinian       wūn                ‘the star Aldebaran; synodic month, approx. July–August’
- Pn:   K’marangi      | ūnu te |            ‘star name’ (Pukui & Elbert 1973)
+ Mic: Kiribati      un              ‘the name of a star’
+ Mic: Mortlockese   un(allual)      ‘Aldebaran and Orion’
+ Mic: Puluwatese    wūn             ‘Aldebaran; month about late July’
+ Mic: Woleaian      ūru             ‘Aldebaran. Also the name for a kind of dorfin’ (dorsal fin also triangular [MO])
+ Mic: Lamotrek      ul              ‘Aldebaran’
+ Mic: Satawalese    ul              ‘Aldebaran’
+ Mic: Carolinian    wūn             ‘the star Aldebaran; synodic month, approx. July–August’
+ Pn:  K’marangi     |ūnu te|        ‘star name’ (Pukui & Elbert 1973)
 >
 
 Other names located for Aldebaran include:
@@ -8158,33 +8156,33 @@ when the forms are not cognate.
 
 <
 PChk *|fitū mʷakut| ‘Polaris’ (lit. ‘star not moving’)
- Mic: Puluwatese     | fūhæ mʷakət |            ‘Polaris’
- Mic: Satawalese     | fuese magut |            ‘Polaris’
- Mic: Carolinian     | fɨse mʷɔxut |        ‘Polaris’
- Mic: Woleaian         | werewereri iyefaŋi | ‘Polaris’ (werewere ‘straight, steady, still’, iyefaŋi ‘north’)
- Pn:   Tahitian         ana-niʔa           ‘Polaris’ (Lewis 1994:403)
- Pn:   Hawaiian         hōkū-paʔa          ‘Polaris or North Star’ (paʔa ‘firm, steadfast’)
+ Mic: Puluwatese     |fūhæ mʷakət|        ‘Polaris’
+ Mic: Satawalese     |fuese magut|        ‘Polaris’
+ Mic: Carolinian     |fɨse mʷɔxut|        ‘Polaris’
+ Mic: Woleaian       |werewereri iyefaŋi| ‘Polaris’ (_werewere_ ‘straight, steady, still’, _iyefaŋi_ ‘north’)
+ Pn:  Tahitian       ana-niʔa             ‘Polaris’ (Lewis 1994:403)
+ Pn:  Hawaiian       hōkū-paʔa            ‘Polaris or North Star’ (_paʔa_ ‘firm, steadfast’)
 >
 
 6.5.2.9 Altair
 
    The only cognate set located is from Micronesia. References may be at times to the
 constellation of Aquila rather than its most prominent star, Altair. The five Chuukic
-languages reflect ‘PEOc/PMic *maRi/*mai ‘breadfruit’ while the Marshallese term,
-although formally similar, reflects POc *mata ‘eye’.
+languages reflect ‘PEOc/PMic _*maRi_/_*mai_ ‘breadfruit’ while the Marshallese term,
+although formally similar, reflects POc _*mata_ ‘eye’.
 
 <
 PChk *mai-lapa ‘Altair’ (lit. ‘big/old breadfruit’)
- Mic: Puluwatese      | mǣy læp |           ‘Altair; a month, about March’ (from _mǣy_ ‘breadfruit’, _læp_ ‘big, old’; appearance of Altair marks the season of old breadfruit, northeast winds and much sailing. _mǣylæpænefæŋ_ is the name given to the season) (Elbert 1972)
- Mic: Mortlockese      meilap              ‘the constellation Aquila’
- Mic: Woleaian         māirapa             ‘Altair, the most prominent star in Carolinian navigation, a winter month’
- Mic: Carolinian       mǣilap             ‘the star Altair’
- Mic: Satawalese       mailap              ‘Altair’ (McCoy 1976)
+ Mic: Puluwatese     |mǣy læp |      ‘Altair; a month, about March’ (from _mǣy_ ‘breadfruit’, _læp_ ‘big, old’; appearance of Altair marks the season of old breadfruit, northeast winds and much sailing. _mǣylæpænefæŋ_ is the name given to the season) (Elbert 1972)
+ Mic: Mortlockese    meilap          ‘the constellation Aquila’
+ Mic: Woleaian       māirapa         ‘Altair, the most prominent star in Carolinian navigation, a winter month’
+ Mic: Carolinian     mǣilap          ‘the star Altair’
+ Mic: Satawalese     mailap          ‘Altair’ (McCoy 1976)
  cf. also:
- Mic: Marshallese      mæclɛp              ‘constellation Aquila, Altair’ (lit. ‘big eye’)
+ Mic: Marshallese    mæclɛp          ‘constellation Aquila, Altair’ (lit. ‘big eye’)
 >
 
-  The Maori name for Altair is poutu-te-raŋi ‘pillar of heaven’, a reference to a creation
+  The Maori name for Altair is _poutu-te-raŋi_ ‘pillar of heaven’, a reference to a creation
 myth in which the sky is supported on pillars (Makemson 1941:64).
 
 176   Meredith Osmond
@@ -8199,23 +8197,29 @@ referring at times to Venus.
 
 <
 PMic *(d,z)umuri ‘Antares’
- Mic:    Kiribati       rimwi(mata)         ‘Antares’
- Mic:    Marshallese    tumɯuṛɯ            ‘Antares’
- Mic:    Ponapean       tumur               ‘Antares’
- Mic:    Chuukese       tumwur              ‘Antares’
- Mic:    Mortlockese    tumur               ‘Scorpio’ (includes Antares)
- Mic:    Puluwatese     timir               ‘Antares; a month about January’
- Mic:    Carolinian     tumwur              ‘Antares’
- Mic:    Satawalese     tumwur              ‘Antares; a month about January’
- Mic:    Woleaian       tumwiẓi            ‘Antares’
- Mic:    Lamotrek       tumur               ‘Antares’
- Mic:    Sonsorolese    tumuri              ‘Antares’
+ Mic: Kiribati       rimwi(mata)         ‘Antares’
+ Mic: Marshallese    tumɯuṛɯ            ‘Antares’
+ Mic: Ponapean       tumur               ‘Antares’
+ Mic: Chuukese       tumwur              ‘Antares’
+ Mic: Mortlockese    tumur               ‘Scorpio’ (includes Antares)
+ Mic: Puluwatese     timir               ‘Antares; a month about January’
+ Mic: Carolinian     tumwur              ‘Antares’
+ Mic: Satawalese     tumwur              ‘Antares; a month about January’
+ Mic: Woleaian       tumwiẓi            ‘Antares’
+ Mic: Lamotrek       tumur               ‘Antares’
+ Mic: Sonsorolese    tumuri              ‘Antares’
+>
+
+<
 PCEPn *refua ‘a star name, Antares?’ (Biggs & Clark 1993)
- Pn: Tahitian           rehu               ‘a month name, between Dec. and January’
- Pn: Tuamotuan          rehua              ‘a star, Antares?’
- Pn: Maori             | rerehu or rehua | ‘Antares’ (Makemson 1941:98)
- Pn: Hawaiian           we-lehu            ‘Antares’ (Makemson 1941:98)
- Pn: Marquesan          ehua               ‘Antares’ (Makemson 1941:207)
+ Pn: Tahitian          rehu               ‘a month name, between Dec. and January’
+ Pn: Tuamotuan         rehua              ‘a star, Antares?’
+ Pn: Maori             |rerehu or rehua|  ‘Antares’ (Makemson 1941:98)
+ Pn: Hawaiian          we-lehu            ‘Antares’ (Makemson 1941:98)
+ Pn: Marquesan         ehua               ‘Antares’ (Makemson 1941:207)
+>
+
+<
 PNPn *mele-mele ‘Venus or Antares’
  Pn: Pukapukan         mele-mele            ‘Antares’ (Lewis 1994:406)
  Pn: K’marangi         mere-mere            ‘Antares’
@@ -8223,9 +8227,9 @@ PNPn *mele-mele ‘Venus or Antares’
  Pn: Hawaiian          mele-mele            ‘name of a star (Venus?)’
 >
 
-The Tahitians called Antares ana mua. For them it represented the front pillar, the parent
+The Tahitians called Antares _ana mua_. For them it represented the front pillar, the parent
 pillar of the sky (Makemson 1941:36). The Rennellese term for the constellation Scorpio is
-tugā-gupe, literally ‘flock of pigeons’.
+_tugā-gupe_, literally ‘flock of pigeons’.
 
 6.5.2.11 Pegasus
 
@@ -8234,11 +8238,11 @@ Micronesian or for the lower-order Micronesian interstage of Proto-Chuukic.
 
 <
 PMic *lakV ‘stars in Pegasus’
- Mic: Marshallese        lɯak               ‘stars in Pegasus’
- Mic: Mortlockese        la                 ‘Pegasus’
- Mic: Puluwatese         la                 ‘star in Pegasus; month at beginning of breadfruit season, about May’
- Mic: Satawalese           na               ‘Alpheratz; about May’
- Mic: Woleaian             rax              ‘Pegasus’ (Alkire 1970:39)
+ Mic: Marshallese        lɯak             ‘stars in Pegasus’
+ Mic: Mortlockese        la               ‘Pegasus’
+ Mic: Puluwatese         la               ‘star in Pegasus; month at beginning of breadfruit season, about May’
+ Mic: Satawalese         na               ‘Alpheratz; about May’
+ Mic: Woleaian           rax              ‘Pegasus’ (Alkire 1970:39)
 >
 
                                                            Navigation and the heavens         177
@@ -8248,22 +8252,22 @@ PMic *lakV ‘stars in Pegasus’
 
 <
 PMic *kua ‘Dolphin constellation incl. Cassiopeia’ (approximately equivalent to Aries)
- Mic: Kiribati          kua              ‘constellation incl. Andromeda, Perseus and Cassiopeia’ (kua ‘whale, porpoise’)
- Mic: Mortlockese       ku               ‘Aries’
- Mic: Puluwatese        kūw              ‘Cassiopeia, plus some other stars; porpoise’
- Mic: Woleaian          xu               ‘huge constellation including Cassiopeia and Cetus; porpoise’
- Mic: Carolinian        xūw              ‘constellation Aries’
- Mic: Satawalese        xu               ‘Dolphin constellation, whose tail is marked by Cassiopeia’
+ Mic: Kiribati       kua         ‘constellation incl. Andromeda, Perseus and Cassiopeia’ (_kua_ ‘whale, porpoise’)
+ Mic: Mortlockese    ku          ‘Aries’
+ Mic: Puluwatese     kūw         ‘Cassiopeia, plus some other stars; porpoise’
+ Mic: Woleaian       xu          ‘huge constellation including Cassiopeia and Cetus; porpoise’
+ Mic: Carolinian     xūw         ‘constellation Aries’
+ Mic: Satawalese     xu          ‘Dolphin constellation, whose tail is marked by Cassiopeia’
 >
 
 <
 PChk *ukulīk ‘Cassiopeia’ (lit. ‘tail of fish’; POc *ikuR ‘tail’, *ikan ‘fish’)
- Mic: Puluwatese        wɨkɨnlik             ‘Cassiopeia’ (lit. ‘fish tail’)
- Mic: Woleaian          ɨxɨrīx               ‘Cassiopeia’
- Mic: Carolinian        ɨkkɨnīx              ‘star or stars in constellation of Cassiopeia’
- Mic: Satawalese        exulix               ‘Cassiopeia’
+ Mic: Puluwatese     wɨkɨnlik           ‘Cassiopeia’ (lit. ‘fish tail’)
+ Mic: Woleaian       ɨxɨrīx             ‘Cassiopeia’
+ Mic: Carolinian     ɨkkɨnīx            ‘star or stars in constellation of Cassiopeia’
+ Mic: Satawalese     exulix             ‘Cassiopeia’
  cf. also:
- Mic: Marshallese    | lɯɔkʷan lɯakeke | ‘Cassiopeia’ (lit. ‘tail of porpoise’. Lakeke is a constellation shaped like a porpoise)
+ Mic: Marshallese    |lᶭɔkʷan lᶭakeke|  ‘Cassiopeia’ (lit. ‘tail of porpoise’. Lakeke is a constellation shaped like a porpoise)
 >
 
 6.5.2.13 Delphinus
@@ -8291,7 +8295,7 @@ PMic *aremoi ‘Arcturus’ (brightest star of Bootes constellation)
 >
 
 In Tuamotuan and Hawaiian, Arcturus and possibly the whole constellation of Bootes, is
-known by the term for a frigate bird, kiva and ʔiwa respectively (Makemson 1941:221).
+known by the term for a frigate bird, _kiva_ and _ʔiwa_ respectively (Makemson 1941:221).
 
 178    Meredith Osmond
 
@@ -8309,46 +8313,46 @@ PChk *taropwolu ‘constellation Corvus’
  Mic: Satawalese         sarapul       ‘Corvus’
  Mic: Woleaian           saẓeɸer      ‘Corvus; a summer month’
  Mic: Lamotrek           sorabol       ‘Corvus’ (lit. ‘viewer of the taro patches’)
- Mic: Sonsorolese        talebʷərɯ     ‘name of a star’
+ Mic: Sonsorolese        talebʷərᶭ     ‘name of a star’
 >
 
 <
 PChk *ici ‘constellation Leo’
- Mic: Mortlockese         yis            ‘constellation Leo’
+ Mic: Mortlockese         yis          ‘constellation Leo’
  Mic: Puluwatese          yic̣c̣         ‘name for three unidentified stars’
- Mic: Woleaian            ic̣            ‘star in Leo (Hydra or Regulus)’
+ Mic: Woleaian            ic̣           ‘star in Leo (Hydra or Regulus)’
 >
 
 <
 PChk *mul ‘Vega, brightest star in constellation Lyra’
  Mic: Puluwatese        mə̄l             ‘Vega; a month about February’
  Mic: Carolinian        mə̄l             ‘star Vega’
- Mic: Satawalese        mun              ‘Vega’
- Mic: Woleaian          mer              ‘Vega’
+ Mic: Satawalese        mun             ‘Vega’
+ Mic: Woleaian          mer             ‘Vega’
 >
 
 <
 PChk *caw ‘Dip net constellation, approximately Corona Borealis’
- Mic: Puluwatese        ṛōw           ‘star and a month at the end of the breadfruit season, about December; hand net’
- Mic: Carolinian        ṣōw           ‘constellation approximately equivalent to Corona Borealis; dipping net’
- Mic: Satawalese        roe            ‘Corona Borealis, shaped like a dip net’ (roe lit. ‘dip net’)
- Mic: Woleaian          ṣoū           ‘a Corona Borealis star’
+ Mic: Puluwatese       ṛōw       ‘star and a month at the end of the breadfruit season, about December; hand net’
+ Mic: Carolinian       ṣōw       ‘constellation approximately equivalent to Corona Borealis; dipping net’
+ Mic: Satawalese       roe       ‘Corona Borealis, shaped like a dip net’ (roe lit. ‘dip net’)
+ Mic: Woleaian         ṣoū       ‘a Corona Borealis star’
 >
 
 <
 PChk *wuleko ‘stars in Ursa Major’
- Mic: Puluwatese         wələ            ‘stars in big Dipper, Ursa Major’
- Mic: Satawalese         wulego          ‘four stars of Ursa Major (Dubhe, Megrez, Phaeda, Merak) which constitute the cup of the Big Dipper’s ladle’
- Mic: Woleaian             werexe        ‘star in Ursa Major’
+ Mic: Puluwatese      wələ        ‘stars in big Dipper, Ursa Major’
+ Mic: Satawalese      wulego      ‘four stars of Ursa Major (Dubhe, Megrez, Phaeda, Merak) which constitute the cup of the Big Dipper’s ladle’
+ Mic: Woleaian        werexe      ‘star in Ursa Major’
 >
 
 <
 PChk *tə̄(d,z)a ‘constellation Equeleus’ (tiny constellation between Pegasus and Aquila)
- Mic: Mortlockese          sota           ‘Equeleus’
- Mic: Puluwatese           hə̄ta          ‘Equeleus; month about April’
- Mic: Carolinian       sēta               ‘month in the traditional siderial calendar, about April’
- Mic: Satawalese       ceuta              ‘stars in Equeleus; month about April’ (Thomas 1987:239, 270)
- Mic: Woleaian         sɨta               ‘Aquarius, a winter month’
+ Mic: Mortlockese      sota          ‘Equeleus’
+ Mic: Puluwatese       hə̄ta          ‘Equeleus; month about April’
+ Mic: Carolinian       sēta          ‘month in the traditional siderial calendar, about April’
+ Mic: Satawalese       ceuta         ‘stars in Equeleus; month about April’ (Thomas 1987:239, 270)
+ Mic: Woleaian         sɨta          ‘Aquarius, a winter month’
 >
 
                                                           Navigation and the heavens      179
@@ -8357,15 +8361,15 @@ PChk *tə̄(d,z)a ‘constellation Equeleus’ (tiny constellation between Pegas
 6.5.2.16 Magellanic Clouds
 
    I have located terms only within Polynesia and Fiji for the Magellanic Clouds. The
-reference to rua ‘two’ in Pileni and Manihiki is presumably to the Greater and Lesser
+reference to _rua_ ‘two’ in Pileni and Manihiki is presumably to the Greater and Lesser
 Magellanic Clouds, which appear as two distinct nebulae, sometimes distinguished as
 ‘flying’ or ‘stationary’ respectively.
 
 <
 PPn *maqafu ‘Magellanic Clouds’
- Pn: Tongan        maʔafu                 ‘Magellanic Clouds’ (a primary reference point for Tongan orientation. _maʔafu lele_ ‘flying fire’ and _maʔafu toka_ ‘stationary fire’)
- Pn:   Pileni         | lua mafu |          ‘Magellanic Clouds’ (Lewis 1994:406)
- Pn:   Manihiki       | rua mafu |          ‘Magellanic Clouds’ (Lewis 1994:407)
+ Pn: Tongan      maʔafu           ‘Magellanic Clouds’ (a primary reference point for Tongan orientation. _maʔafu lele_ ‘flying fire’ and _maʔafu toka_ ‘stationary fire’)
+ Pn: Pileni      |lua mafu|       ‘Magellanic Clouds’ (Lewis 1994:406)
+ Pn: Manihiki    |rua mafu|       ‘Magellanic Clouds’ (Lewis 1994:407)
 >
 
 In Samoa, and also Anuta, they could simply be referred to as ‘flying cloud’ and
@@ -8375,13 +8379,13 @@ __pre__
   Pn: Samoan           ao lele, ao toʔa
   Pn: Anutan           ao rere, ao toka
 
-In Bauan they were matādravu ni sautū, literally ‘hearth of peace and plenty’.
+In Bauan they were _matādravu ni sautū_, literally ‘hearth of peace and plenty’.
 
 
 6.5.2.17 Milky Way
 
     Makemson (1941:183) wrote that Polynesians could tell the time of night by the
-changing position of the Milky Way. She quotes a Hawaiian expression huli ke au,
+changing position of the Milky Way. She quotes a Hawaiian expression _huli ke ʔau_,
 literally ‘[the handle of] the Milky Way has turned’ as equivalent to ‘it is now past
 midnight’. The following cognate set is from Polynesia.
 
@@ -8389,21 +8393,21 @@ midnight’. The following cognate set is from Polynesia.
 PPn *kaniwa ‘the Milky Way’
  Pn: Tongan         kaniva
  Pn: Samoan         ʔaniva
- Pn: Sikaiana       kaniva                ‘rainbow’
- Pn: Tikopia       | te kau tu keniva |     ‘the Milky Way’ (lit. ‘handle of keniva’)
+ Pn: Sikaiana       kaniva              ‘rainbow’
+ Pn: Tikopia        |te kau tu keniva|  ‘the Milky Way’ (lit. ‘handle of keniva’)
  Pn: Tokelauan      kaniva
-  Pn: W Futunan     kaniva
+ Pn: W Futunan      kaniva
 >
 
-    In Gedaged (NNG) the Milky Way is wat-dadeŋ (wat ‘driftwood, flotsam’, dadeŋ
-‘trade, barter’). The association is not explained. In Lau (SES), it is simply tala ‘the path’,
-while in Carolinian the galaxy is mesal fúú, literally ‘the face of stars’.
+    In Gedaged (NNG) the Milky Way is _wat-dadeŋ_ (_wat_ ‘driftwood, flotsam’, _dadeŋ_
+‘trade, barter’). The association is not explained. In Lau (SES), it is simply _tala_ ‘the path’,
+while in Carolinian the galaxy is _mesal fúú_, literally ‘the face of stars’.
 
    Makemson (1941:183–186) lists a range of picturesque terms used by the Polynesians
-for the Milky Way which include Mangaian moko-roa-i-ata, literally ‘long lizard of
-morning’ Hawaiian kuamoʔo ‘backbone of lizard’, Tuamotuan vaero-o-te-moko ‘tail of the
-lizard’ and a group of Maori terms, ika-nui ‘great fish’, ika-roa ‘long fish’ and maŋo-roa
-‘long shark’. Still another Maori term for the Milky Way is pae-roa-o-whanui, literally
+for the Milky Way which include Mangaian _moko-roa-i-ata_, literally ‘long lizard of
+morning’ Hawaiian _kuamoʔo_ ‘backbone of lizard’, Tuamotuan _vaero-o-te-moko_ ‘tail of the
+lizard’ and a group of Maori terms, _ika-nui_ ‘great fish’, _ika-roa_ ‘long fish’ and _maŋo-roa_
+‘long shark’. Still another Maori term for the Milky Way is _pae-roa-o-whanui_, literally
 ‘the long threshold of wide space’.
 
 180    Meredith Osmond
@@ -8424,7 +8428,7 @@ Lewis records identical advice given to him by a Tongan navigator in 1965, who r
 etymology.
 
 <
-PPn *kaweiŋa ‘that which is steered for (usually a star)’ (From PPn *kawe ‘to carry’+ -i ‘verbal suffix from POc transitive marker *i’ + -ŋa ‘nominaliser’)
+PPn *kaweiŋa ‘that which is steered for (usually a star)’ (From PPn _*kawe_ ‘to carry’+ _-i_ ‘verbal suffix from POc transitive marker _*i_’ + _-ŋa_ ‘nominaliser’)
   Pn: Tongan            kaveiŋa          ‘star or other object for which one steers’
   Pn: Pukapukan         kaveiŋa          ‘a group of stars on the same declination, thought of as a constellation’
   Pn: Tikopia           kaveŋa           ‘carrier; esp. navigational aid by sequence of stars, star path’
@@ -8435,15 +8439,15 @@ PPn *kaweiŋa ‘that which is steered for (usually a star)’ (From PPn *kawe �
 >
 
 Feinberg (1988:100) adds a qualifier to the last-mentioned Anutan gloss. He writes: ‘The
-name kāveŋa ‘carrier’ refers to the particular star or constellation being followed at a given
+name _kāveŋa_ ‘carrier’ refers to the particular star or constellation being followed at a given
 moment. A star path or sequence of stars that is followed from one island to the next,
-including those stars not yet risen or already set, is a kau panoŋa porau.’ (lit. ‘company or
+including those stars not yet risen or already set, is a _kau panoŋa porau_.’ (lit. ‘company or
 group for voyaging’). Feinberg describes this as the Anutans’ single most important
 navigational tool.
 
    For Tikopia, Firth offers a purely literal term of ara fetū ‘star path’, and compares it
 with _ara a vaka_ ‘canoe path’, the latter presumably referring to the actual sea route.
-According to Grimble (1972:296), the Maori term for star path is also ara fetū.
+According to Grimble (1972:296), the Maori term for star path is also _ara fetū_.
 
    The Micronesians followed successive rising or falling stars in the same way. The name
 given to star courses learnt by navigators on Woleai was _wōfariw_ (Alkire 1970:45), and on
@@ -8466,35 +8470,35 @@ compound forms have become lexicalised.
 
 6.5.4.1 Rising
 
-   POc *sake had as its primary sense ‘rise, go up’. But it also had the sense of ‘ride on
-something, e.g. a canoe, catch a ride’. Both senses go back to PMP *sa(ŋ)kay. POc reflexes
+   POc _*sake_ had as its primary sense ‘rise, go up’. But it also had the sense of ‘ride on
+something, e.g. a canoe, catch a ride’. Both senses go back to PMP _*sa(ŋ)kay_. POc reflexes
 can also carry the directional ‘east’.
 
 <
 PMP *sa(ŋ)kay ‘catch a ride, ride on something’ (ACD)
 POc *sake ‘rise, go up; upwards’ (see also p.273)
- Adm: Mussau             (sae)sae(na)    ‘upwards’
- NNG: Kove               rae             ‘rise’ (Chowning)
- NNG: Kove               sae             ‘up, eastwards along the coast’ (Chowning)
- PT:   Motu              dae             ‘ascend’
- MM: Bali-Vitu           ðaɣe            ‘(sun) rise’
- MM: Nakanai             sae             ‘rise’
- MM: Meramera            saʔe            ‘climb’
- SES: Sa’a               taʔe            ‘up, inland’
- SES: Arosi              taʔe            ‘go up, ascend’
- SES: Lau                tae             ‘rise, ascend, get up, climb’
- SES: Longgu             taʔe            ‘ascend, go up’
- Mic: Kiribati           rake            ‘up, upwards, eastwards’
- Mic: Marshallese        tak             ‘eastward, upward’
- Mic: Ponapean           tak             ‘rise, of the sun and moon’
- Mic: Mokilese           tak             ‘rise (of sun); to shine’
- Mic: Kosraean           tak             ‘rise’
- Mic: Woleaian           tax             ‘upward, eastward, up’ (xetaxe-fis (N), ‘rising stars’ eg taxari-pwu ‘Crux rising’, taxrli-metaẓiwa ‘Scorpio rising’. Also taxari-yaro ‘sunrise’)
- Mic: Puluwatese         tǣn            ‘(star) rise in the east’ (e.g. _tānupw_ ‘rising Southern Cross’, _tāni mə̄l_ ‘rising Vega’. Lewis refers to (uncorrected spelling) _daane elüüel_ ‘rising Orion’s Belt, 90°’, _daane mailöb_ ‘rising Altair, 83°’, and _daan uun_ ‘rising Aldebaran, 75°’) (Lewis 1994:404)
- Mic: Carolinian         tǣn            ‘rising (esp. heavenly bodies)’
- Fij:  Bauan             ðake            ‘east; upwards’
- Pn:   Tongan            hake            ‘go up, esp. from the sea to the land’
- Pn:   Tongan            ha-hake         ‘east’
+ Adm: Mussau        (sae)sae(na)    ‘upwards’
+ NNG: Kove          rae             ‘rise’ (Chowning)
+ NNG: Kove          sae             ‘up, eastwards along the coast’ (Chowning)
+ PT:  Motu          dae             ‘ascend’
+ MM:  Bali-Vitu     ðaɣe            ‘(sun) rise’
+ MM:  Nakanai       sae             ‘rise’
+ MM:  Meramera      saʔe            ‘climb’
+ SES: Sa’a          taʔe            ‘up, inland’
+ SES: Arosi         taʔe            ‘go up, ascend’
+ SES: Lau           tae             ‘rise, ascend, get up, climb’
+ SES: Longgu        taʔe            ‘ascend, go up’
+ Mic: Kiribati      rake            ‘up, upwards, eastwards’
+ Mic: Marshallese   tak             ‘eastward, upward’
+ Mic: Ponapean      tak             ‘rise, of the sun and moon’
+ Mic: Mokilese      tak             ‘rise (of sun); to shine’
+ Mic: Kosraean      tak             ‘rise’
+ Mic: Woleaian      tax             ‘upward, eastward, up’ (_xetaxe-fɨs_ (N), ‘rising stars’ eg _taxari-pʷu_ ‘Crux rising’, _taxrli-metaẓɨwa_ ‘Scorpio rising’. Also _taxari-yaro_ ‘sunrise’)
+ Mic: Puluwatese    tǣn            ‘(star) rise in the east’ (e.g. _tānupʷ_ ‘rising Southern Cross’, _tāni mə̄l_ ‘rising Vega’. Lewis refers to (uncorrected spelling) _daane elüüel_ ‘rising Orion’s Belt, 90°’, _daane mailöb_ ‘rising Altair, 83°’, and _daan uun_ ‘rising Aldebaran, 75°’) (Lewis 1994:404)
+ Mic: Carolinian    tǣn            ‘rising (esp. heavenly bodies)’
+ Fij: Bauan         ðake            ‘east; upwards’
+ Pn:  Tongan        hake            ‘go up, esp. from the sea to the land’
+ Pn:  Tongan        ha-hake         ‘east’
 >
 
 182    Meredith Osmond
@@ -8502,40 +8506,40 @@ POc *sake ‘rise, go up; upwards’ (see also p.273)
 
 6.5.4.2 Setting
 
-   The POc term usually contrasted with *sake ‘to go up, upwards’ is *sipo ‘go down,
-downwards’. Reflexes sometimes refer as well to the directional ‘west’ just as *sake
+   The POc term usually contrasted with _*sake_ ‘to go up, upwards’ is _*sipo_ ‘go down,
+downwards’. Reflexes sometimes refer as well to the directional ‘west’ just as _*sake_
 reflexes refer to ‘east’.
 
 <
 POc *sipo ‘go down, downwards’ (see also p.271)
- Adm: Lou             si              ‘down; descend’
- NNG: Kove            rio             ‘descend, lie down, be swallowed’
- NNG: Kove            sio             ‘down, westward along the coast’
- PT:    Motu          diho            ‘go down, descend’
- MM: Bali-Vitu        (va)ðiɣo(ni)    ‘downwards’
- MM: Nakanai          sivo            ‘go down’
- MM: Tomoip           tio             ‘(sun) set’
- SES: Lau             sifo            ‘late afternoon rain’
- SES: ’Are’are        siho            ‘(sun) set’
- Mic: Chuukese        tupʷu           ‘setting (western) position of a heavenly body’
- Mic: Puluwatese      tupʷwu           ‘(sun) set’
- Mic: Carolinian      tʉbʷʉ           ‘sink, go down, set (of sun, moon, stars)’
- Mic: Carolinian      tubʷul          (N) ‘setting, setting position of stars etc.’
- Mic: Woleaian        tuɸu            ‘set, of heavenly bodies’ (e.g. tuɸuri-werexe ‘Ursa Major setting’, tuɸuri-yaro ‘setting sun’)
- Fij:   Bauan         ðivo-ðivo       ‘wind sweeping down from hills’
- Pn:    Samoan        ifo             ‘downwards’
- Pn:    Tongan        hifo            ‘downwards’
- Pn:    Tikopia       ifo             ‘down, come down, descend’
- Pn:    Maori         iho             ‘downwards’
- Pn:    Hawaiian      iho             ‘downwards’
+ Adm: Lou           si              ‘down; descend’
+ NNG: Kove          rio             ‘descend, lie down, be swallowed’
+ NNG: Kove          sio             ‘down, westward along the coast’
+ PT:  Motu          diho            ‘go down, descend’
+ MM:  Bali-Vitu     (va)ðiɣo(ni)    ‘downwards’
+ MM:  Nakanai       sivo            ‘go down’
+ MM:  Tomoip        tio             ‘(sun) set’
+ SES: Lau           sifo            ‘late afternoon rain’
+ SES: ’Are’are      siho            ‘(sun) set’
+ Mic: Chuukese      tupʷu           ‘setting (western) position of a heavenly body’
+ Mic: Puluwatese    tupʷwu          ‘(sun) set’
+ Mic: Carolinian    tʉbʷʉ           ‘sink, go down, set (of sun, moon, stars)’
+ Mic: Carolinian    tubʷul          (N) ‘setting, setting position of stars etc.’
+ Mic: Woleaian      tuɸu            ‘set, of heavenly bodies’ (e.g. _tuɸuri-werexe_ ‘Ursa Major setting’, _tuɸuri-yaro_ ‘setting sun’)
+ Fij: Bauan         ðivo-ðivo       ‘wind sweeping down from hills’
+ Pn:  Samoan        ifo             ‘downwards’
+ Pn:  Tongan        hifo            ‘downwards’
+ Pn:  Tikopia       ifo             ‘down, come down, descend’
+ Pn:  Maori         iho             ‘downwards’
+ Pn:  Hawaiian      iho             ‘downwards’
 >
 
-    In Chapter 3 (p.85) we reconstructed POc *solo ‘sink down, subside’, with reflexes
+    In Chapter 3 (p.85) we reconstructed POc _*solo_ ‘sink down, subside’, with reflexes
 from the Solomons and Polynesia referring to landslides. In Puluwatese (Mic), a reflex of
-*solo rather than *sipo is used in combination with star names to refer to stars setting.
-Elbert’s dictionary lists tolol (N) ‘setting of stars’ and tololo (V) ‘disappear, set, as a star’,
-and offers, as an example of usage, tolonupw ‘Southern Cross in setting position’. Lewis
-lists (his spelling) doloni mariger ‘Pleiades setting’ and dolon uun ‘Aldebaran setting’
+_*solo_ rather than _*sipo_ is used in combination with star names to refer to stars setting.
+Elbert’s dictionary lists _tolol_ (N) ‘setting of stars’ and _tololo_ (V) ‘disappear, set, as a star’,
+and offers, as an example of usage, _tolonupʷ_ ‘Southern Cross in setting position’. Lewis
+lists (his spelling) _doloni mariger_ ‘Pleiades setting’ and _dolon uun_ ‘Aldebaran setting’
 (Finney 1976:24, Lewis 1978:166).
 
 
@@ -8557,24 +8561,24 @@ there were different ‘on top’ stars for other islands, and that his grandfat
 them but that he himself had forgotten them. Lewis writes that this information was later
 repeated independently by other Tikopian navigators (p.33). The only other direct
 reference Lewis makes comes from Tonga, where a member of the hereditary navigator
-clan, the Tuitas, told Lewis that a fanakeŋa star, in secret Tuita usage, is ‘a star that points
+clan, the Tuitas, told Lewis that a _fanakeŋa_ star, in secret Tuita usage, is ‘a star that points
 down to an island, its overhead star’ (1978:77).
 
-   Blust has reconstructed WMP *uRtuh ‘zenith; noon, mid-day’ (ACD), i.e. with specific
+   Blust has reconstructed WMP _*uRtuh_ ‘zenith; noon, mid-day’ (ACD), i.e. with specific
 reference to the sun, but, although references to zenith stars are frequent in the literature on
 Oceanic navigation, I am unable to reconstruct any term for the concept as it applies to
 stars. There is less need for zenith stars in the northern hemisphere, because Polaris is
 always a convenient indicator of latitude. The Micronesian navigators whose methods
 were described by Lewis, Gladwin and others, evidently made no use of zenith stars.[17]
 
-   Kiribati has a term taubuki ni karawa for ‘zenith’, literally ‘the ridgepole of heaven’.
-Note that taubuki is also the name for the zenith star Rigel. Other terms for zenith, Samoan
-tumu-tumu ‘top; peak, height, zenith’ and Maori puaŋa ‘zenith (also refers to Rigel,[18] in
+   Kiribati has a term _taubuki ni karawa_ for ‘zenith’, literally ‘the ridgepole of heaven’.
+Note that _taubuki_ is also the name for the zenith star Rigel. Other terms for zenith, Samoan
+_tumu-tumu_ ‘top; peak, height, zenith’ and Maori _puaŋa_ ‘zenith (also refers to Rigel,[18] in
 Orion’s Belt)’ are unrelated.
 
-   The Hawaiians have a term for zenith, hoʔokuʔi, which is literally ‘point of juncture’.
-Pukui and Elbert’s dictionary records an expression mai ka hoʔokuʔi a ka hālāwai ‘from
-zenith to horizon’, halawai meaning ‘meeting’ as well as ‘horizon’. Both terms appear to
+   The Hawaiians have a term for zenith, _hoʔokuʔi_, which is literally ‘point of juncture’.
+Pukui and Elbert’s dictionary records an expression _mai ka hoʔokuʔi a ka hālāwai_ ‘from
+zenith to horizon’, _halawai_ meaning ‘meeting’ as well as ‘horizon’. Both terms appear to
 relate to the concept of sky zones, a kind of grid reference of lines drawn across the sky.
 
 [17] However, Tom Davis, Cook Islander and experienced western-style ocean yachtsman, has provided a
@@ -8602,14 +8606,14 @@ equated precisely with the cardinal points of a European compass; they are not p
 regular intervals but are bunched together at their eastern and western margins. The
 primary compass point and basis of the Carolinian navigational system is the position
 where Altair rises in the east, in our terms at 8°30’ N. Many of the stars identified in this
-paper—Altair, Aldebaran, Pleiades, Orion’s Belt, Corvus and Antares—are represented on
+paper — Altair, Aldebaran, Pleiades, Orion’s Belt, Corvus and Antares — are represented on
 the Carolinian compass by both their rising and setting positions. Polaris represents due
 north. No fewer than five southerly directions are indicated by the various positions of the
 Southern Cross, depending upon whether its axis is upright, lying at either diagonal or
 horizontally on either side (Lewis 1994:103–106). Alkire describes the siderial compass
 used by navigators on Woleai Atoll in the Carolines in almost identical terms. He gives the
-name pāfis to the thirty two star points as they constitute the star path compass
-(1970:41).19 The Puluwatese term pāfi the navigational stars in thirty two star positions’ is
+name _pāfɨs_ to the thirty two star points as they constitute the star path compass
+(1970:41).19 The Puluwatese term _pāfɨ̄ _ the navigational stars in thirty two star positions’ is
 cognate.
 
 184    Meredith Osmond
