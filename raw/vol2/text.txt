@@ -9875,33 +9875,33 @@ from _*tubuq_ ‘grow’.
 <
 PCEMP *telu ‘thick’
 POc *ma-tolu ‘thick’ (Clark 1996)
- NNG: Manam             matoli
- NNG: Sio               mata-tola
- MM: Nakanai            bitolu
- SES: W Guad.           matolu
- NCV: Mota              matol-tol
- NCV: Paamese           mate-tel
- NCV: Nguna             matolu
- SV:   Anejom           (a)mesej
- Mic: Marshallese       micel
- Mic: Ponapean          mosul
- Fij:  Rotuman          mafolu
- Pn:   Tongan           matolu
+ NNG: Manam            matoli
+ NNG: Sio              mata-tola
+ MM:  Nakanai          bitolu
+ SES: W Guad.          matolu
+ NCV: Mota             matol-tol
+ NCV: Paamese          mate-tel
+ NCV: Nguna            matolu
+ SV:  Anejom           (a)mesej
+ Mic: Marshallese      micel
+ Mic: Ponapean         mosul
+ Fij: Rotuman          mafolu
+ Pn:  Tongan           matolu
 >
 
 <
 PMP *[ma-]kumba ‘thick (in dimension)’[12]
 POc *kuba ‘thick (in dimension)’
- Fij:  Nadrogaa         kuba
- SV:    Kwamera         -kum-kum
+ Fij:  Nadrogaa        kuba
+ SV:   Kwamera         -kum-kum
 >
 
-[12] The reconstruction of PMP *[ma]-kumba ‘thick’ is supported by the Oceanic data listed here and by
-   Da’a na-kumba, Uma mo-kumpa, Buginese ma-umpəʔ.
+[12] The reconstruction of PMP _*[ma]-kumba_ ‘thick’ is supported by the Oceanic data listed here and by
+   Da’a _na-kumba_, Uma _mo-kumpa_, Buginese _ma-umpəʔ_.
 
 <
 POc *[tubu]tubu[-ka] ‘thick (in dimension)’
- MM: Tolai             tubu
+ MM:  Tolai            tubu
  SES: Lau              ūbu-ūbu-a
  SES: Kwaio            ubu-ubu
  SES: Arosi            ub-ubu-ʔa
@@ -9912,11 +9912,11 @@ POc *[tubu]tubu[-ka] ‘thick (in dimension)’
                                                               Properties of inanimate objects        209
 
 
-   Two formally related terms are reconstructable for ‘thin’: *ma-tipi(s) and *manipis.
-Although at first sight they look like forms derived with PMP *ma- and *maN-
-respectively, *manipis has cognates in Taiwan, reflecting PAn *maLipis. The prefix
-*maN- in any case dates only from PMP, and so cannot be reflected in *manipis. Instead,
-the two forms evidently reflect the same PAn monosyllabic root *-pis ‘thin, tenuous, fine’
+   Two formally related terms are reconstructable for ‘thin’: _*ma-tipi(s)_ and _*manipis_.
+Although at first sight they look like forms derived with PMP _*ma-_ and _*maN-_
+respectively, _*manipis_ has cognates in Taiwan, reflecting PAn _*maLipis_. The prefix
+_*maN-_ in any case dates only from PMP, and so cannot be reflected in _*manipis_. Instead,
+the two forms evidently reflect the same PAn monosyllabic root _*-pis_ ‘thin, tenuous, fine’
 (Blust 1988; see vol. 1, pp.27–28) and presumably differed in meaning by some subtlety
 which is not clear from their reflexes.
 
@@ -9927,43 +9927,43 @@ POc *ma-tipi(s) ‘thin’
  SES: Birao                 matipi              ‘thin’
 >
 
-[13] The reconstruction of PMP *tipis ‘thin’ is supported by the Oceanic data listed here and by Indonesian,
-   Javanese and Balinese tipis ‘thin’.
+[13] The reconstruction of PMP _*tipis_ ‘thin’ is supported by the Oceanic data listed here and by Indonesian,
+   Javanese and Balinese _tipis_ ‘thin’.
 
 <
 PAn *[ma]Lipis ‘thin’[14]
 POc *manipis ‘thin’
- NNG: Malai             manipi                  ‘thin’
- NNG: Manam             manipi                  ‘thin’
- MM: Roviana            manivisi                ‘thin’
- MM: Maringe            manivi                  ‘thin’
- SES: Bugotu            manivi                  ‘thin’
- SES: Arosi             manihi                  ‘thin’
- NCV: NE Ambae          manivi-nivi             ‘be/become shallow, low tide, thin’
- NCV: Raga              manev-nevi              ‘thin’
- NCV: Paamese           mahini-hin              ‘thin’ (metathesis)
- Mic: Kiribati          mmani                   ‘thin’
- Mic: Ponapean          menipi-nip              ‘thin’
- Fij:  Rotuman          mahini                  ‘thin’ (metathesis)
- Pn:   Tongan           manifi                  ‘thin’
- Pn:   Tongan           manifi-nifi             ‘comparatively thin’
- Pn:   Samoan           manifi                  ‘thin’
- Pn:   Samoan           mānifi-nifi             ‘thin’
+ NNG: Malai            manipi                  ‘thin’
+ NNG: Manam            manipi                  ‘thin’
+ MM:  Roviana          manivisi                ‘thin’
+ MM:  Maringe          manivi                  ‘thin’
+ SES: Bugotu           manivi                  ‘thin’
+ SES: Arosi            manihi                  ‘thin’
+ NCV: NE Ambae         manivi-nivi             ‘be/become shallow, low tide, thin’
+ NCV: Raga             manev-nevi              ‘thin’
+ NCV: Paamese          mahini-hin              ‘thin’ (metathesis)
+ Mic: Kiribati         mmani                   ‘thin’
+ Mic: Ponapean         menipi-nip              ‘thin’
+ Fij: Rotuman          mahini                  ‘thin’ (metathesis)
+ Pn:  Tongan           manifi                  ‘thin’
+ Pn:  Tongan           manifi-nifi             ‘comparatively thin’
+ Pn:  Samoan           manifi                  ‘thin’
+ Pn:  Samoan           mānifi-nifi             ‘thin’
 >
 
 
-[14] Tsuchida (1976:139) reconstructs PAn *Nix1epis, in the orthography of Ross (1992) *Lihepis. However,
-   the only reflex of *-h- occurs in Saisiat (Taiwan) lih-lihpih-an, which may be the result of modifying
-   *-li- to rhyme with *-pih. Accordingly I reconstruct PAn *Lipis, PMP *nipis.
+[14] Tsuchida (1976:139) reconstructs PAn _*Nix1epis_, in the orthography of Ross (1992) _*Lihepis_. However,
+   the only reflex of _*-h-_ occurs in Saisiat (Taiwan) _lih-lihpih-an_, which may be the result of modifying
+   _*-li-_ to rhyme with _*-pih_. Accordingly I reconstruct PAn _*Lipis_, PMP _*nipis_.
 
 
 7.3 Age
 
-   Two POc terms for ‘new’ can be reconstructed: the adjectival noun *paqoRu, which
+   Two POc terms for ‘new’ can be reconstructed: the adjectival noun _*paqoRu_, which
 was also applied to animate beings in the sense of ‘young’ (Pawley 1982b), and
-*ka(l,r)abwa, which has fewer reflexes, but as these occur in both MM and NCV
+_*ka(l,r)abwa_, which has fewer reflexes, but as these occur in both MM and NCV
 languages, it must be reconstructed as POc. Meso-Melanesian reflexes of the latter reflect
-*-l-, North and Central Vanuatu reflexes reflect *-r-.
+_*-l-_, North and Central Vanuatu reflexes reflect _*-r-_.
 
 210     Malcolm Ross
 
@@ -9971,41 +9971,41 @@ languages, it must be reconstructed as POc. Meso-Melanesian reflexes of the latt
 PAn *baqeRuh ‘new’ (ACD)
 POc *paqoRu ‘new; young, recent’
 PNGOc *paqu, *paqoRu ‘new, young’
- Adm: Mussau         ou                            ‘new’
- Adm: Lou            pa-pa-peu-n                   ‘new’
- Adm: Nyindrou       haʔun                         ‘new’
- NNG: Bariai         pau                           ‘new’
- NNG: Mutu           pagu                          ‘new’
- NNG: Gitua          pagu                          ‘new’
- NNG: Lukep          pau-nu                        ‘new’
- NNG: Mangap         po-po-ŋana                    ‘new’
- NNG: Kilenge        pau-a                         ‘new’
- NNG: Poeng          pau                           ‘new’
- NNG: Takia          fau-n                         ‘new’
- NNG: Numbami        wou                           ‘new’
- NNG: Yabem          wakuʔ                         ‘new’
- NNG: Manam          wau-wau                       ‘new’
- SJ:    Sobei        fe-fou                        ‘new’
- PT:    Tawala       wou-na                        ‘new’
- PT:    Misima       va-valu-na                    ‘new’
- PT:    Kiriwina     -vau [15]                     ‘new’
- MM: Bali            vaɣoru                        ‘new’
- MM: Nalik           fakur                         ‘new’
- MM: Tabar           vouru                         ‘new’
- MM: Teop            von                           ‘new’
- MM: Mono            haolu-na                      ‘new’
- MM: Zabana          fo-foru                       ‘new’
- SES: Gela           vaolu                         ‘new; young, fresh, beautiful, in one’s prime; renew’
- SES:      Arosi             haoru                 ‘new, recent, youthful, vigorous’
- NCV:      Paamese           hāu                   ‘new’
- NCV:      Nguna             vau                   ‘new’
- SV:       Sye               (it)vau               ‘new, clean’
- SV:       Ura               vau                   ‘new’
- SV:       Lenakel           vi                    ‘new’
- Mic:      Woleaian          fe                    ‘new, cleaned’
- Fij:      Bauan             vou                   ‘new; newly, recently’
- Pn:       Tongan            foʔou                 ‘new, fresh; strange, unfamiliar’
- Pn:       Samoan            fou                   ‘new; fresh’
+ Adm: Mussau       ou                    ‘new’
+ Adm: Lou          pa-pa-peu-n           ‘new’
+ Adm: Nyindrou     haʔun                 ‘new’
+ NNG: Bariai       pau                   ‘new’
+ NNG: Mutu         pagu                  ‘new’
+ NNG: Gitua        pagu                  ‘new’
+ NNG: Lukep        pau-nu                ‘new’
+ NNG: Mangap       po-po-ŋana            ‘new’
+ NNG: Kilenge      pau-a                 ‘new’
+ NNG: Poeng        pau                   ‘new’
+ NNG: Takia        fau-n                 ‘new’
+ NNG: Numbami      wou                   ‘new’
+ NNG: Yabem        wakuʔ                 ‘new’
+ NNG: Manam        wau-wau               ‘new’
+ SJ:  Sobei        fe-fou                ‘new’
+ PT:  Tawala       wou-na                ‘new’
+ PT:  Misima       va-valu-na            ‘new’
+ PT:  Kiriwina     -vau [15]             ‘new’
+ MM:  Bali         vaɣoru                ‘new’
+ MM:  Nalik        fakur                 ‘new’
+ MM:  Tabar        vouru                 ‘new’
+ MM:  Teop         von                   ‘new’
+ MM:  Mono         haolu-na              ‘new’
+ MM:  Zabana       fo-foru               ‘new’
+ SES: Gela         vaolu                 ‘new; young, fresh, beautiful, in one’s prime; renew’
+ SES: Arosi        haoru                 ‘new, recent, youthful, vigorous’
+ NCV: Paamese      hāu                   ‘new’
+ NCV: Nguna        vau                   ‘new’
+ SV:  Sye          (it)vau               ‘new, clean’
+ SV:  Ura          vau                   ‘new’
+ SV:  Lenakel      vi                    ‘new’
+ Mic: Woleaian     fe                    ‘new, cleaned’
+ Fij: Bauan        vou                   ‘new; newly, recently’
+ Pn:  Tongan       foʔou                 ‘new, fresh; strange, unfamiliar’
+ Pn:  Samoan       fou                   ‘new; fresh’
 >
 
 
@@ -10016,7 +10016,7 @@ PNGOc *paqu, *paqoRu ‘new, young’
 <
 POc *ka(l,r)abwa ‘new’
  MM: Bulu              kalaba(ka)         ‘new’
- MM: Nakanai           halaba [16]           ‘new’
+ MM: Nakanai           halaba [16]        ‘new’
  MM: Tolai             kalama             ‘new’
  NCV: Tamambo          haramba            ‘new’
  NCV: Mota             garagʷa            ‘new’
@@ -10025,87 +10025,87 @@ POc *ka(l,r)abwa ‘new’
  NCV: Nduindui         karaᵑgʷa           ‘new’
 >
 
-[16] Nakanai h reflects POc *q, not *k.
+[16] Nakanai _h_ reflects POc _*q_, not _*k_.
 
-   The antonym of *paqoRu ‘new, young’ was evidently *[ma]tuqa ‘ripe, mature, adult,
+   The antonym of _*paqoRu_ ‘new, young’ was evidently _*[ma]tuqa_ ‘ripe, mature, adult,
 old’. A difficulty in reconstructing this term is its formal and semantic similarity to POc
-*matuqu ‘coconut growth stage: ripe, brown but has not fallen yet’ (Ross 1996d). It is
+_*matuqu_ ‘coconut growth stage: ripe, brown but has not fallen yet’ (Ross 1996d). It is
 sometimes quite difficult to determine which of the two reconstructions a reflex like, for
-example, Sursurunga matuk ‘ripe, well-developed, ready to harvest’ should be assigned to,
+example, Sursurunga _matuk_ ‘ripe, well-developed, ready to harvest’ should be assigned to,
 and I suspect that reflexes of the two items have been conflated in some languages.
 
-   It is hard to avoid the conclusion that *tuqaRi ‘(be) long ago; take a long time, old (of
-inanimates)’ is historically related to *[ma]tuqa. If, as seems likely, Proto Buang *tkwi
-‘old’ (Patep tkwe, Kapin takwi) reflects *tuqaRi, then it provides evidence for the putative
-*-q-. However, I do not know where final *-Ri comes from. There are signs that *[ma]tuqa
-and *tuqaRi may occasionally have been conflated: a putative *ma-tuqaRi seems to be
-reflected in Gapapaiwa maturi and Tubetube matuli where *[ma]tuqa is expected, and in
-Tabar ma-cari where *tuqaRi is expected.
+   It is hard to avoid the conclusion that _*tuqaRi_ ‘(be) long ago; take a long time, old (of
+inanimates)’ is historically related to _*[ma]tuqa_. If, as seems likely, Proto Buang _*tkʷi_
+‘old’ (Patep _tkʷe_, Kapin _takʷi_) reflects _*tuqaRi_, then it provides evidence for the putative
+_*-q-_. However, I do not know where final _*-Ri_ comes from. There are signs that _*[ma]tuqa_
+and _*tuqaRi_ may occasionally have been conflated: a putative _*ma-tuqaRi_ seems to be
+reflected in Gapapaiwa _maturi_ and Tubetube _matuli_ where _*[ma]tuqa_ is expected, and in
+Tabar _ma-cari_ where _*tuqaRi_ is expected.
 
-    Whereas *[ma]tuqa probably referred mainly to animates and to the vegetable world,
-*rapu-ka (with adjectival-noun suffix *-ka added to an unidentified root *rapu) apparently
+    Whereas _*[ma]tuqa_ probably referred mainly to animates and to the vegetable world,
+_*rapu-ka_ (with adjectival-noun suffix _*-ka_ added to an unidentified root _*rapu_) apparently
 modified nouns referring to lifeless objects.
 
 <
 PAn *CuqaS ‘mature, elder’ (ACD)
 POc *[ma]tuqa ‘ripe, mature, adult, old’
- Adm: Lou             matak            ‘old person’
- NNG: Poeng           matua            ‘ripe’
- PT:   Dobu           matua            ‘ripe’
- PT:   Gapapaiwa      maturi           ‘half-ripe’
- PT:   Tubetube       matuli           ‘ripe’
- PT:   Misima         matua            ‘ripe’
- MM: Patpatar         matuko           ‘ripe’
- SES: Arosi           maua             ‘ripe’
- NCV: Mota            matua            ‘full-grown, ripe’
- NCV: Raga            metua            ‘full-grown, mature’
- NCV: Paamese         matū             ‘(s.o.) old’
- NCV: Nguna           matua            ‘old, ancient, mature, ripe, big’
- SV:   Lenakel        matak            ‘ready to be eaten: ripe, cooked’
- SV:   Anejom         metou            ‘(fruit) ripe, mature, ready to pick’
- Fij:  Wayan          mātua            ‘mature, full-grown, adult, ripe’
- Fij:  Rotuman        mafua            ‘old’
- Pn:      Tongan            motuʔa           ‘old’
- Pn:      Samoan            matua            ‘old (person)’
+ Adm: Lou            matak            ‘old person’
+ NNG: Poeng          matua            ‘ripe’
+ PT:  Dobu           matua            ‘ripe’
+ PT:  Gapapaiwa      maturi           ‘half-ripe’
+ PT:  Tubetube       matuli           ‘ripe’
+ PT:  Misima         matua            ‘ripe’
+ MM:  Patpatar       matuko           ‘ripe’
+ SES: Arosi          maua             ‘ripe’
+ NCV: Mota           matua            ‘full-grown, ripe’
+ NCV: Raga           metua            ‘full-grown, mature’
+ NCV: Paamese        matū             ‘(s.o.) old’
+ NCV: Nguna          matua            ‘old, ancient, mature, ripe, big’
+ SV:  Lenakel        matak            ‘ready to be eaten: ripe, cooked’
+ SV:  Anejom         metou            ‘(fruit) ripe, mature, ready to pick’
+ Fij: Wayan          mātua            ‘mature, full-grown, adult, ripe’
+ Fij: Rotuman        mafua            ‘old’
+ Pn:  Tongan         motuʔa           ‘old’
+ Pn:  Samoan         matua            ‘old (person)’
 >
 
 <
 POc *tuqaRi ‘(be) long ago; take a long time, old (of inanimates)’
- NNG: Ali               care-ŋ         ‘old’
- MM: Tabar              (ma)cari       ‘old’
- MM: Sursurunga         torai-n        ‘old’ (metathesised)
- MM: Patpatar           tuare          ‘old’
- MM: Ramoaaina          turəi          ‘old’ (metathesised)
- MM: Siar               turai          ‘old’ (metathesised)
- MM: Uruava             tuari          ‘old’
- MM: Mono               tuali-na       ‘old’
- MM: Ririo              cuer           ‘old (thing)’
- SES: Bugotu            tuali          ‘(thing) old’
- SES: Lau               kwali          ‘be old, worn out (house, net, etc.); descendant’[17]
- SES: Arosi             wari           ‘old, chiefly of living things; old man’
- NCV: Mota              tuai           ‘of long duration, old’
- NCV: Tamambo           tuai           ‘of old’
- NCV: Neve’ei           tuɣoi          ‘a long time ago’
- NCV: Neve’ei           duɣoi          ‘old (inanimates)’
- NCV: Naman             toɣe           ‘a long time ago’
- NCV: Nguna             tuai           ‘long ago, (thing) old’
- SV:    Sye             (e)twai        ‘recently’
- SV:    Sye             (it-e)twai     ‘long time ago’
- SV:    Kwamera         tui            ‘old, previous, of the past, long ago’
- SV:    Anejom          (i)tuwu        ‘long ago’
- Fij:   Wayan           tuei           ‘take a long time, be slow, tardy, late’
- Pn:    Tongan          tuai           ‘be late, be late, take a long time’
- Pn:    Samoan          tuai           ‘be late, be delayed, take a long time’
+ NNG: Ali             care-ŋ         ‘old’
+ MM: Tabar            (ma)cari       ‘old’
+ MM: Sursurunga       torai-n        ‘old’ (metathesised)
+ MM: Patpatar         tuare          ‘old’
+ MM: Ramoaaina        turəi          ‘old’ (metathesised)
+ MM: Siar             turai          ‘old’ (metathesised)
+ MM: Uruava           tuari          ‘old’
+ MM: Mono             tuali-na       ‘old’
+ MM: Ririo            cuer           ‘old (thing)’
+ SES: Bugotu          tuali          ‘(thing) old’
+ SES: Lau             kwali          ‘be old, worn out (house, net, etc.); descendant’[17]
+ SES: Arosi           wari           ‘old, chiefly of living things; old man’
+ NCV: Mota            tuai           ‘of long duration, old’
+ NCV: Tamambo         tuai           ‘of old’
+ NCV: Neve’ei         tuɣoi          ‘a long time ago’
+ NCV: Neve’ei         duɣoi          ‘old (inanimates)’
+ NCV: Naman           toɣe           ‘a long time ago’
+ NCV: Nguna           tuai           ‘long ago, (thing) old’
+ SV:  Sye             (e)twai        ‘recently’
+ SV:  Sye             (it-e)twai     ‘long time ago’
+ SV:  Kwamera         tui            ‘old, previous, of the past, long ago’
+ SV:  Anejom          (i)tuwu        ‘long ago’
+ Fij: Wayan           tuei           ‘take a long time, be slow, tardy, late’
+ Pn:  Tongan          tuai           ‘be late, be late, take a long time’
+ Pn:  Samoan          tuai           ‘be late, be delayed, take a long time’
 >
 
-[17] Blust (ACD) attributes these reflexes to *waRi ‘past (of time)’, but the current attribution is better
+[17] Blust (ACD) attributes these reflexes to _*waRi_ ‘past (of time)’, but the current attribution is better
    supported by the set as a whole.
 
 212    Malcolm Ross
 
 <
 POc *rapu-ka ‘old (of inanimates)’
- MM: Bulu               rapu-rapu-ka
+ MM:  Bulu              rapu-rapu-ka
  SES: ’Are’Are          rahu-ʔa
  SES: Sa’a              lahu-ʔa
 >
@@ -10113,26 +10113,26 @@ POc *rapu-ka ‘old (of inanimates)’
 7.4 Colour
 
    Most reconstructable POc colour terms fall into two formal groups, adjectival verbs
-reflecting earlier *ma- + ROOT and adjectival nouns with either a reduplicated root, ROOT +
-*-ka, or both (see p.196).
+reflecting earlier _*ma-_ + ROOT and adjectival nouns with either a reduplicated root, ROOT +
+_*-ka_, or both (see p.196).
 
                                                      Properties of inanimate objects   213
 
-    PMP terms were of the form *ma- + ROOT. Blust (ACD) concludes that PMP had a
+    PMP terms were of the form _*ma-_ + ROOT. Blust (ACD) concludes that PMP had a
 classic three-term colour system, i.e. terms for black, white and red. Other terms were
 derived from terms for natural objects or, in the case of ‘green’, unripeness (see vol. 1,
-p.155). The same comments evidently applied to POc. The three PMP terms were *ma-
-qitem ‘black, dark in colour’, *ma-iRaq ‘red’, and *ma-putiq ‘white, light in colour’. The
-first two are continued in POc *maqeto(m) and POc *meRaq. Until recently, I thought that
-*ma-putiq had been lost in POc and replaced by a plethora of terms, but two reflexes have
+p.155). The same comments evidently applied to POc. The three PMP terms were _*ma-_
+qitem ‘black, dark in colour’, _*ma-iRaq_ ‘red’, and _*ma-putiq_ ‘white, light in colour’. The
+first two are continued in POc _*maqeto(m)_ and POc _*meRaq_. Until recently, I thought that
+_*ma-putiq_ had been lost in POc and replaced by a plethora of terms, but two reflexes have
 been found.
 
 <
 PMP *[ma]qitem ‘black, deep blue’ (ACD)
 PCMP *ma-qitom, *ma-qetom ‘black; dirty’
 POc *maqeto(m) ‘black’
- MM: Nalik            makit           ‘black’
- MM: Tabar            maketo          ‘black’
+ MM:  Nalik           makit           ‘black’
+ MM:  Tabar           maketo          ‘black’
  SES: Gela            meto            ‘dirty’
  SES: Arosi           maeo            ‘full grown, ripe, black’
  NCV: Mota            maeto           ‘black’
@@ -10145,15 +10145,15 @@ POc *maqeto(m) ‘black’
 <
 PMP *ma-iRaq ‘red’ (Blust 1980b)
 POc *meRaq ‘red’
- NNG: Kaulong         mhe                ‘red’
- NNG: Kairiru         mera-mer           ‘red’
- MM: Nalik            me-mek             ‘red’
- MM: Siar             me-merek           ‘red’
- SES: Bugotu          mela-              ‘red’
- SES: Longgu          mela-mela(ʔa)      ‘red’
- SES: ’Are’Are        me-mera(ʔa)        ‘red’
- NCV: Mota            me-mea             ‘red’
- NCV: NE Ambae        memea              ‘be red, redden’
+ NNG:  Kaulong        mhe                ‘red’
+ NNG:  Kairiru        mera-mer           ‘red’
+ MM:   Nalik          me-mek             ‘red’
+ MM:   Siar           me-merek           ‘red’
+ SES:  Bugotu         mela-              ‘red’
+ SES:  Longgu         mela-mela(ʔa)      ‘red’
+ SES:  ’Are’Are       me-mera(ʔa)        ‘red’
+ NCV:  Mota           me-mea             ‘red’
+ NCV:  NE Ambae       memea              ‘be red, redden’
  NCal: Xârâcùù        mĩã                ‘red’
  Pn:   Tongan         mea                ‘reddish’
  Pn:   Rapanui        mea-mea            ‘red’
@@ -10167,22 +10167,22 @@ POc *maputi(q) ‘white’
  NCV: NE Ambae         mavute            ‘to be white, whiten’
 >
 
-   One colour term of the form *ma- + ROOT has no known non-Oceanic cognates. In the
-southeast Solomons and Micronesia we find *marawa ‘green’ competing with
-*[ma]karawa, indicating that both are derived from a base *rawa of unknown meaning.
+   One colour term of the form _*ma-_ + ROOT has no known non-Oceanic cognates. In the
+southeast Solomons and Micronesia we find _*marawa_ ‘green’ competing with
+_*[ma]karawa_, indicating that both are derived from a base _*rawa_ of unknown meaning.
 
 <
 POc *[ma]karawa ‘green, blue’
- PT:   Suau          ʔala-ʔalawa         ‘green’
- MM: Tigak           makago              ‘green’
- MM:      Nalik            marakaua            ‘green’ (metathesised)
- MM:      Sursurunga       məkrau              ‘green’
- MM:      Maringe          ka-kahra            ‘green, light blue’
- Mic:     Woleaian         xāẓawe-ẓaw        ‘green’
- Fij:     Rotuman          čarava              ‘blue’
- Fij:     Bauan            kara-karawa         ‘blue; k.o. blue-green fish’
- Fij:     Wayan            karawa              (V) ‘be blue, blue-green, green’
- Fij:     Wayan            kara-karawa         (V, ADJ) ‘blue, blue-green, green’
+ PT:  Suau           ʔala-ʔalawa       ‘green’
+ MM:  Tigak          makago            ‘green’
+ MM:  Nalik          marakaua          ‘green’ (metathesised)
+ MM:  Sursurunga     məkrau            ‘green’
+ MM:  Maringe        ka-kahra          ‘green, light blue’
+ Mic: Woleaian       xāẓawe-ẓaw        ‘green’
+ Fij: Rotuman        čarava            ‘blue’
+ Fij: Bauan          kara-karawa       ‘blue; k.o. blue-green fish’
+ Fij: Wayan          karawa            (V) ‘be blue, blue-green, green’
+ Fij: Wayan          kara-karawa       (V, ADJ) ‘blue, blue-green, green’
 >
 
 214     Malcolm Ross
@@ -10207,23 +10207,21 @@ them we find the following:
 
 __pre__
 Mussau (Adm):[19]
- bo-boŋi-e-na          ‘black’                            bo      ‘night’
- rae-rae-a-na          ‘red’                              rae     ‘blood’
- usou-usou-e-na        ‘white’                            (no unreduplicated root)
- vero-veroŋ-a-na       ‘black’                            (no unreduplicated root)
- riu-riu-e-na          ‘thin (of animates’)               riu     ‘bone’
+ bo-boŋi-e-na        ‘black’                         bo      ‘night’
+ rae-rae-a-na        ‘red’                           rae     ‘blood’
+ usou-usou-e-na      ‘white’                         (no unreduplicated root)
+ vero-veroŋ-a-na     ‘black’                         (no unreduplicated root)
+ riu-riu-e-na        ‘thin (of animates’)            riu     ‘bone’
 
 __pre__
 Kairiru (NNG):
- jir-jir               ‘black, dirty, old’                jir       ‘mangrove swamp’
- kiet-kiet             ‘black’                            kiet      ‘black paint’
- pun-pun               ‘white’                            pun       ‘pigeon’
- mera-mer              ‘red’                              mer       ‘red paint’
- yaŋ-yaŋ               ‘yellow’                           yaŋ       ‘yellow paint, white or yellow
-                                                                      skinned people’
+ jir-jir            ‘black, dirty, old’          jir       ‘mangrove swamp’
+ kiet-kiet          ‘black’                      kiet      ‘black paint’
+ pun-pun            ‘white’                      pun       ‘pigeon’
+ mera-mer           ‘red’                        mer       ‘red paint’
+ yaŋ-yaŋ            ‘yellow’                     yaŋ       ‘yellow paint, white or yellow skinned people’
 
-
-[18] Lichtenberk (1983:611) was offered the apparent nonce form taʔe-taʔe, from taʔe ‘faeces’ in Manam,
+[18] Lichtenberk (1983:611) was offered the apparent nonce form _taʔe-taʔe_, from _taʔe_ ‘faeces’ in Manam,
    when he asked an informant to identify a particular shade of brown.
 
 [19] I have corrected Blust’s Mussau data on the basis of materials provided by John Brownie of the Summer
@@ -10252,55 +10250,55 @@ that the process remains productive, or has done so until recently. This observa
 a reconstructive problem: we often find cognate reduplicated forms in a number of
 different languages, and it is sometimes hard to determine whether the reduplication had
 already occurred in POc or whether the reduplicated forms result from independent parallel
-derivations. We can arrange cases on a rough cline. At one extreme is POc *[yaŋo]yaŋo
+derivations. We can arrange cases on a rough cline. At one extreme is POc _*[yaŋo]yaŋo_
 ‘yellow’, whose reflexes occur so consistently across Oceania that it seems over-cautious
-not to reconstruct it. The base form was POc *yaŋo ‘turmeric, Curcuma longa’ (Ross
+not to reconstruct it. The base form was POc _*yaŋo_ ‘turmeric, Curcuma longa’ (Ross
 1996d:216).
 
 <
 POc *[yaŋo]yaŋo ‘yellow’
- Adm: Seimat             aŋo-aŋ                 ‘yellow’
- Adm: Kele               aŋw-an                 ‘yellow’
- NNG: Kove               yaŋo-yaŋo              ‘yellow’
- NNG: Mutu               yaŋo-ŋa                ‘yellow’
- NNG: Lukep              yoŋo-no                ‘yellow’
- NNG: Amara              aŋo-ˀaiŋo              ‘yellow’
- NNG: Poeng              ŋ-aŋo                  ‘yellow’
- NNG: Gedaged            yaŋ-yaŋ                ‘yellow’
- NNG: Numbami            (me)yaŋo               ‘yellow’
- NNG: Yabem              yaŋ-yaŋ                ‘yellow’
- NNG: Mapos Buang        saŋ-saŋ                ‘yellow’
- NNG: Manam              zaŋ-zaŋ                ‘yellow’
- MM: Vitu                ɣaŋo-ɣaŋo              ‘yellow’
- MM: Nakanai             iala-lo                ‘yellow’
- MM: Kara (West)         iaŋ                    ‘yellow’ (East Kara ioŋ ‘turmeric’)
- MM: Taiof               aŋo-m                  ‘yellow’
- SES: Gela               aŋo-aŋo                ‘yellow’
- SES: Talise             aŋo                    ‘yellow’
- NCV: Mota               aŋo-aŋo                ‘yellow’ (aŋo ‘turmeric’)
- NCV: Raga               aŋo-ɣa                 ‘yellow, become yellow’
- SV:    Sye              (mel)yeŋ               ‘yellow’
- SV:      Ura                (mel)yeŋ, (un)iaŋ       ‘yellow’
- SV:      Anejom             yaŋ                     ‘yellow’
- Mic:     Ponapean           ɔŋɔ̄ŋ                   ‘yellow’ (ɔ̄ŋ ‘turmeric’)
- Mic:     Woleaian           yaŋo-yaŋ                ‘yellow’ (yaŋ ‘ginger’)
- Fij:     Wayan              aŋo-aŋo                 (V, ADJ) ‘(be) yellow’
- Pn:      Tongan             eŋa-eŋa                 ‘yellow’ (eŋa ‘turmeric’)
+ Adm: Seimat           aŋo-aŋ                 ‘yellow’
+ Adm: Kele             aŋw-an                 ‘yellow’
+ NNG: Kove             yaŋo-yaŋo              ‘yellow’
+ NNG: Mutu             yaŋo-ŋa                ‘yellow’
+ NNG: Lukep            yoŋo-no                ‘yellow’
+ NNG: Amara            aŋo-ˀaiŋo              ‘yellow’
+ NNG: Poeng            ŋ-aŋo                  ‘yellow’
+ NNG: Gedaged          yaŋ-yaŋ                ‘yellow’
+ NNG: Numbami          (me)yaŋo               ‘yellow’
+ NNG: Yabem            yaŋ-yaŋ                ‘yellow’
+ NNG: Mapos Buang      saŋ-saŋ                ‘yellow’
+ NNG: Manam            zaŋ-zaŋ                ‘yellow’
+ MM:  Vitu             ɣaŋo-ɣaŋo              ‘yellow’
+ MM:  Nakanai          iala-lo                ‘yellow’
+ MM:  Kara (West)      iaŋ                    ‘yellow’ (East Kara _ioŋ_ ‘turmeric’)
+ MM:  Taiof            aŋo-m                  ‘yellow’
+ SES: Gela             aŋo-aŋo                ‘yellow’
+ SES: Talise           aŋo                    ‘yellow’
+ NCV: Mota             aŋo-aŋo                ‘yellow’ (_aŋo_ ‘turmeric’)
+ NCV: Raga             aŋo-ɣa                 ‘yellow, become yellow’
+ SV:  Sye              (mel)yeŋ               ‘yellow’
+ SV:  Ura              (mel)yeŋ, (un)iaŋ      ‘yellow’
+ SV:  Anejom           yaŋ                    ‘yellow’
+ Mic: Ponapean         ɔŋɔ̄ŋ                   ‘yellow’ (_ɔ̄ŋ_ ‘turmeric’)
+ Mic: Woleaian         yaŋo-yaŋ               ‘yellow’ (_yaŋ_ ‘ginger’)
+ Fij: Wayan            aŋo-aŋo                (V, ADJ) ‘(be) yellow’
+ Pn:  Tongan           eŋa-eŋa                ‘yellow’ (_eŋa_ ‘turmeric’)
 >
 
 216     Malcolm Ross
 
 
-Nearer the other extreme are reduplicated reflexes of POc *draRaq ‘blood’ (e.g. Mussau
-rae-rae-ana ‘red’ and Manam dara-dara ‘red’ above). Here, reflexes have a much spottier
+Nearer the other extreme are reduplicated reflexes of POc _*draRaq_ ‘blood’ (e.g. Mussau
+_rae-rae-ana_ ‘red’ and Manam _dara-dara_ ‘red’ above). Here, reflexes have a much spottier
 distribution, closely related languages often have different forms for ‘red’, and other terms
 for ‘blood’ are also reduplicated to form terms for ‘red’. These facts suggest that the
 reduplicated forms reflect independent parallel development and that there is not sufficient
-evidence for a POc reconstruction **draRa-draRaq ‘red’.
+evidence for a POc reconstruction _**draRa-draRaq_ ‘red’.
 
-    In this connection, it is worth noting that a number of reflexes of POc *meRaq ‘red’ and
-*karawa ‘green, blue’, reconstructed above, also display reduplication. Since there were
-originally morphologically complex forms (*ma-iRaq and *ka-rawa), and *meRaq, at
+    In this connection, it is worth noting that a number of reflexes of POc _*meRaq_ ‘red’ and
+_*karawa_ ‘green, blue’, reconstructed above, also display reduplication. Since there were
+originally morphologically complex forms (_*ma-iRaq_ and _*ka-rawa_), and _*meRaq_, at
 least, was originally an adjectival verb, these reduplications can be attributed to analogy.
 That is, reduplication has moved in a number of languages from being a process which
 derives colour terms from nouns to being simply a marker of a colour term. This suggests
@@ -10315,17 +10313,17 @@ example, than the term ‘mangrove morass’ from which it is derived in a numbe
 languages).
 
     What is much less clear is the relationship of this POc reduplication to derivations with
-*-ka. Forms with a reduplicated root, ROOT + *-ka, or both, tend to cooccur in cognate
-sets. Note Longgu mela-mela(ʔa) and ’Are’Are me-mera(ʔa) ‘red’ and Raga aŋo-ɣa
-‘yellow’ above. Reflexes of *-ka also crop up in Blust’s collection of reduplicated colour
+_*-ka_. Forms with a reduplicated root, ROOT + _*-ka_, or both, tend to cooccur in cognate
+sets. Note Longgu _mela-mela(ʔa)_ and ’Are’Are _me-mera(ʔa)_ ‘red’ and Raga _aŋo-ɣa_
+‘yellow’ above. Reflexes of _*-ka_ also crop up in Blust’s collection of reduplicated colour
 terms in Mussau and Vitu and in To’aba’ita (SES). Since these three languages belong to
 different primary subgroups of Oceanic (St Matthias, Western Oceanic and Eastern
-Oceanic respectively), it is possible that reduplicated colour terms with *-ka also occurred
-in POc. If so, however, we still have to account for reduplicated forms without *-ka (like
-those listed under *[yaŋo]yaŋo ‘yellow’ above) and for unreduplicated forms with *-ka.
-The simplest solution is to reconstruct two POc processes: (i) ROOT + *-ka forming
+Oceanic respectively), it is possible that reduplicated colour terms with _*-ka_ also occurred
+in POc. If so, however, we still have to account for reduplicated forms without _*-ka_ (like
+those listed under _*[yaŋo]yaŋo_ ‘yellow’ above) and for unreduplicated forms with _*-ka_.
+The simplest solution is to reconstruct two POc processes: (i) ROOT + _*-ka_ forming
 adjectival nouns and (ii) CVCV- reduplication forming colour terms and perhaps some
-other property terms.20 Whether the words formed by process (ii) were verbs or nouns is
+other property terms.[20] Whether the words formed by process (ii) were verbs or nouns is
 uncertain. In some languages, and particularly for colour terms, the two processes
 combined, forming adjectival nouns.
 
@@ -10338,26 +10336,26 @@ combined, forming adjectival nouns.
                                                     Properties of inanimate objects    217
 
 
-   In the light of this discussion, I reconstruct two pairs of POc colour terms, *keja-ka,
-*[keja]keja ‘green’ and *biRiŋ-(k)a, *[biRi]biRiŋ ‘dark hue, dirty’, but I cannot be sure
+   In the light of this discussion, I reconstruct two pairs of POc colour terms, _*keja-ka_,
+_*[keja]keja_ ‘green’ and _*biRiŋ-(k)a_, _*[biRi]biRiŋ_ ‘dark hue, dirty’, but I cannot be sure
 that both members of each pair actually occurred in POc. The Tamambo reflex of the root
-*keja refers to a kind of blue-green fish, and this may have been its POc meaning. POc
-*biRiŋ perhaps meant ‘dirt’.
+_*keja_ refers to a kind of blue-green fish, and this may have been its POc meaning. POc
+_*biRiŋ_ perhaps meant ‘dirt’.
 
 <
 POc *keja-ka, *[keja]keja ‘green’
- NNG: Mangap            kes-keeze(ŋa-)   ‘green’
- NNG: Sio               kenza            ‘green’
- NNG: Apalik            -kes-kes         ‘green’
- NNG: Bebeli            ke-kese          ‘green’
- NNG: Mindiri           kiede            ‘green’
- NNG: Bilibil           yed-yed          ‘green’
- MM: Nakanai            ka-kesa          ‘green’
- NCV: Mota              gesa-gesa(ga)    ‘bright blue, or bright green’
- NCV: Raga              geha(ga)         ‘blue-green’
- NCV: Tamambo           ɣenja(ɣa)        ‘blue-green’ (ɣenja ‘k.o. blue-green fish’)
- NCV: Nguna             kesa-kesa        ‘blue’
- Pn:    Tikopia         kesa             ‘green, yellow-green, with suggestion of off-colour; greyish-green’
+ NNG: Mangap          kes-keeze(ŋa-)   ‘green’
+ NNG: Sio             kenza            ‘green’
+ NNG: Apalik          -kes-kes         ‘green’
+ NNG: Bebeli          ke-kese          ‘green’
+ NNG: Mindiri         kiede            ‘green’
+ NNG: Bilibil         yed-yed          ‘green’
+ MM:  Nakanai         ka-kesa          ‘green’
+ NCV: Mota            gesa-gesa(ga)    ‘bright blue, or bright green’
+ NCV: Raga            geha(ga)         ‘blue-green’
+ NCV: Tamambo         ɣenja(ɣa)        ‘blue-green’ (ɣenja ‘k.o. blue-green fish’)
+ NCV: Nguna           kesa-kesa        ‘blue’
+ Pn:  Tikopia         kesa             ‘green, yellow-green, with suggestion of off-colour; greyish-green’
 >
 
 <
@@ -10365,25 +10363,25 @@ PMP *biRiŋ ‘dark hue, dark red (?)’ (ACD)
 POc *biRiŋ-(k)a, *[biRi]biRiŋ ‘dark hue, dirty’
  NNG: Kove              vihi-vihiŋa      ‘green’
  NNG: Aria              -vir             ‘green’
- MM: Tiang              biliŋə           ‘dirty’
- MM: Madak              biliŋa           ‘dirty’
- MM: Patpatar           biliŋe           ‘dirty’
+ MM:  Tiang             biliŋə           ‘dirty’
+ MM:  Madak             biliŋa           ‘dirty’
+ MM:  Patpatar          biliŋe           ‘dirty’
  SES: Gela              bili-bilia       ‘dirty’
  SES: Kwaio             bili-biliʔa      ‘dirty’
 >
 
    There is one other reduplicated colour term which may be reconstructable, POc
-*[pula]pula-n ‘white’, probably derived from *pulan ‘moon’. However, the dangers of
+_*[pula]pula-n_ ‘white’, probably derived from _*pulan_ ‘moon’. However, the dangers of
 reconstructing reduplicated colour terms in POc apply here too, and these terms may be
 independent innovations.
 
 <
 PMP *bulan ‘white’ (Blust 1989)
 POc *[pula]pula-n ‘white’
- NNG: Sissano         owul-wul           ‘white’
- NNG: Psohoh          vul-vul            ‘white’
- Fij:   Bauan         vula-vula          ‘white’
- NCal: Nemi           pulo               ‘white’
+ NNG:  Sissano       owul-wul           ‘white’
+ NNG:  Psohoh        vul-vul            ‘white’
+ Fij:  Bauan         vula-vula          ‘white’
+ NCal: Nemi          pulo               ‘white’
 >
 
 218    Malcolm Ross
@@ -10395,47 +10393,47 @@ POc *[pula]pula-n ‘white’
    Terms denoting the shape and surface texture of an object include the meanings such as
 ‘flat’, ‘round’, ‘rough’, ‘smooth’, ‘straight’ and ‘crooked’. However, it seems that there
 were few POc lexemes with basic meanings in this domain. No word for ‘round’ is
-reconstructable. The main term for ‘flat’ was probabaly POc *baban ‘flat; board, plank;
+reconstructable. The main term for ‘flat’ was probabaly POc _*baban_ ‘flat; board, plank;
 canoe strake; flat shelf of rock’, and we can be reasonably confident that it was a noun
 denoting a flat surface or flat plank-like object (vol. 1, pp.58, 185).
 
 <
 POc *baban ‘flat; board, plank; canoe strake; flat shelf of rock’
- NNG: Mutu              babaga            ‘wide’
- NNG: Mangap            baba(ŋa-n)        ‘wide, broad’
- NNG: Gedaged           baba(ŋa-n)        ‘wide’
- NNG: Manam             baba              ‘flat; palm of the hand’
- PT:    Motu            papa              ‘flat rock’
- MM: Teop               babana(o)         ‘wide’
- SES: Kwaio             baba              ‘flat’
- SES: Lau               baba              ‘flat; long side board of canoe’
- Pn:    Tongan          papa              ‘flat hard sandstone forming a layer or bed at the coast in certain places; flat and smooth and hard, as a well-trodden track; board’
- Pn:    Samoan          papa              ‘rock; floor mat; plain, level, flat, as a rock, board, nose, etc.’
+ NNG: Mutu            babaga            ‘wide’
+ NNG: Mangap          baba(ŋa-n)        ‘wide, broad’
+ NNG: Gedaged         baba(ŋa-n)        ‘wide’
+ NNG: Manam           baba              ‘flat; palm of the hand’
+ PT:  Motu            papa              ‘flat rock’
+ MM:  Teop            babana(o)         ‘wide’
+ SES: Kwaio           baba              ‘flat’
+ SES: Lau             baba              ‘flat; long side board of canoe’
+ Pn:  Tongan          papa              ‘flat hard sandstone forming a layer or bed at the coast in certain places; flat and smooth and hard, as a well-trodden track; board’
+ Pn:  Samoan          papa              ‘rock; floor mat; plain, level, flat, as a rock, board, nose, etc.’
 >
 
-   The term *raba(r) may have denoted the property ‘flat’, but there are too few Oceanic
+   The term _*raba(r)_ may have denoted the property ‘flat’, but there are too few Oceanic
 reflexes to be certain. Indeed, if the Tongan reflex is regularly descended from a POc
-forebear, then the latter had initial *l-, not *r-. This suggests that the Polynesian terms may
-not reflect POc *raba(r).
+forebear, then the latter had initial _*l-_, not _*r-_. This suggests that the Polynesian terms may
+not reflect POc _*raba(r)_.
 
 <
 PMP *da(m)paD ‘flat, level’ (ACD)
 POc *raba(r) ‘flat, wide, broad’
- Fij:     Bauan         raba               (N) ‘breadth, width’; (ADJ) ‘broad, wide’
- Fij:      Nadrogaa     raba               ‘wide, broad’
+ Fij: Bauan        raba               (N) ‘breadth, width’; (ADJ) ‘broad, wide’
+ Fij: Nadrogaa     raba               ‘wide, broad’
  cf. also:
- Pn:       Tongan       lafa-lafa          ‘flat’
- Pn:       Samoan       lafa-lafa          ‘flat; the level top of a mountain’
+ Pn:  Tongan       lafa-lafa          ‘flat’
+ Pn:  Samoan       lafa-lafa          ‘flat; the level top of a mountain’
 >
 
   No term for ‘rough’ is reconstructable, but ‘smooth’, also with the sense ‘slippery’ was
-POc *madrali(s,t).
+POc _*madrali(s,t)_.
 
 <
 PAn *ma-dalis ‘smooth, slippery’ (ACD)
 PAn *[ma]dalit ‘smooth, slippery’ (Blust 1986)
 POc *madrali(s,t) ‘smooth, slippery’
- MM: Siar              ma-madal         ‘smooth’
+ MM:  Siar             ma-madal         ‘smooth’
  SES: Gela             madali           ‘slippery’
  SES: Arosi            madari           ‘wet and slippery, as rocks’
 >
@@ -10449,26 +10447,26 @@ metaphorical extension was from shape to value (i.e. from visible to abstract), 
 vice versa.
 
     The data require that we reconstruct two variants for each of the three terms. Thus we
-reconstruct not only *[ma]koto, whose canonic shape suggests that it is the inherited term,
-but also *ta-kodos, which is derived from *kodos ‘go straight; straighten’ (see p.196).[21]
+reconstruct not only _*[ma]koto_, whose canonic shape suggests that it is the inherited term,
+but also _*ta-kodos_, which is derived from *kodos ‘go straight; straighten’ (see p.196).[21]
 I suspect that the verbs *[ma]koto and *kodos were separately inherited into POc (although
 no non-Oceanic cognates have been found) and that their formal similarity is attributable to
-derivation at an earlier stage, as POc *-t- and *-d- reflect PMP *-t- and *-nt- respectively.
-The Polynesian reflexes are attributed to the set with *-t- because of their similarity in
+derivation at an earlier stage, as POc _*-t-_ and _*-d-_ reflect PMP _*-t-_ and _*-nt-_ respectively.
+The Polynesian reflexes are attributed to the set with _*-t-_ because of their similarity in
 meaning to Bauan koto. Formally, they could at least as well reflect POc *ta-kodos.
 
-[21] The Southeast Solomonic reflexes show unexplained loss of *k.
+[21] The Southeast Solomonic reflexes show unexplained loss of _*k_.
 
 <
 POc *[ma]koto ‘straight’
- MM: Vitu              maɣoto               ‘straight; (ground) flat’
- MM: Tolai             ot                   ‘straight’
- SES: Gela             oto                  ‘go directly, straight; set face to do, stare straight at’ (for expected *ɣoto)
- SES:     W Guad.         ɣoto              ‘straight, correct’
- Fij:     Bauan           koto              (V) ‘lie down’; (ADJ) ‘extended, stretched out’
- Pn:      Tongan          to-koto           (V) ‘lie down’
- Pn:      Samoan          ta-ʔoto           (V) ‘lie down’
- Pn:      Maori           ta-koto           (V) ‘lie down’
+ MM:  Vitu         maɣoto          ‘straight; (ground) flat’
+ MM:  Tolai        ot              ‘straight’
+ SES: Gela         oto             ‘go directly, straight; set face to do, stare straight at’ (for expected *ɣoto)
+ SES: W Guad.      ɣoto            ‘straight, correct’
+ Fij: Bauan        koto            (V) ‘lie down’; (ADJ) ‘extended, stretched out’
+ Pn:  Tongan       to-koto         (V) ‘lie down’
+ Pn:  Samoan       ta-ʔoto         (V) ‘lie down’
+ Pn:  Maori        ta-koto         (V) ‘lie down’
 >
 
 <
@@ -10488,53 +10486,53 @@ POc *ta-kodos ‘straight’
 
 <
 POc *[t,d]onu(p) ‘straight’[22]
- NNG: Malai             dunu(ŋa)            ‘straight’
- NNG: Numbami           tonowa              ‘straight’
- MM: Laghu              to-tonu             ‘straight’
- NCV: Kiai              tu-tunu             ‘good, straight, sweet’
- NCV: Labo              tən                 ‘straighten an arrow in the fire’
- SV:     Kwamera             (a)tuən            (verbal adjunct: implies straightening)
- Fij:    Bauan               donu               ‘(be) straight, true, correct’
- Fij:    Wayan               donu               ‘(be) right, correct, true’
- Pn:     Tongan              tonu               ‘be exact, be correct, be right’
- Pn:     Samoan              tonu               ‘(be) exact, correct, just’
- Pn:     Mele-Fila           tō-tonu            ‘right, correct’
+ NNG: Malai             dunu(ŋa)           ‘straight’
+ NNG: Numbami           tonowa             ‘straight’
+ MM:  Laghu             to-tonu            ‘straight’
+ NCV: Kiai              tu-tunu            ‘good, straight, sweet’
+ NCV: Labo              tən                ‘straighten an arrow in the fire’
+ SV:  Kwamera           (a)tuən            (verbal adjunct: implies straightening)
+ Fij: Bauan             donu               ‘(be) straight, true, correct’
+ Fij: Wayan             donu               ‘(be) right, correct, true’
+ Pn:  Tongan            tonu               ‘be exact, be correct, be right’
+ Pn:  Samoan            tonu               ‘(be) exact, correct, just’
+ Pn:  Mele-Fila         tō-tonu            ‘right, correct’
 >
 
-[22] The final *-(p) of *[t,d]onu(p) is tentatively reconstructed to account for Numbami tonowa, where
-   paragogic -a indicates the presence of a final consonant and -w- reflects *-p.
+[22] The final _*-(p)_ of _*[t,d]onu(p)_ is tentatively reconstructed to account for Numbami _tonowa_, where
+   paragogic _-a_ indicates the presence of a final consonant and _-w-_ reflects _*-p_.
 
 220     Malcolm Ross
 
 
-   I have no explanation for the pair *mwane-mwane and *wane-wane. Reflexes of the
+   I have no explanation for the pair _*mʷane-mʷane_ and _*wane-wane_. Reflexes of the
 former occur in the Admiralties, Southeast Solomonic and New Caledonia, of the latter in
 the Schoutens and Micronesia. However, if the Ali reflex were non-cognate, then *wane-
 wane would simply be a Nuclear Micronesian innovation.
 
 <
-POc *mwane-mwane ‘straight, direct; flat, level’ (ACD)
- Adm: Aua              wane-wane          ‘smooth, level; straight’[23]
- Adm: Pak              mʷane-n             ‘straight’
- Adm: Nyindrou         mone-n              ‘straight’
- Adm: Loniu            mʷɛnɛ-n             ‘straight’
- SES: Gela             mae-mane            ‘straight’
- SES: Lau              ma-mana             ‘true’
- NCal: Cèmuhî          mó-mʷɔn             ‘straight, right, correct’
+POc *mʷane-mʷane ‘straight, direct; flat, level’ (ACD)
+ Adm:  Aua              wane-wane          ‘smooth, level; straight’[23]
+ Adm:  Pak              mʷane-n            ‘straight’
+ Adm:  Nyindrou         mone-n             ‘straight’
+ Adm:  Loniu            mʷɛnɛ-n            ‘straight’
+ SES:  Gela             mae-mane           ‘straight’
+ SES:  Lau              ma-mana            ‘true’
+ NCal: Cèmuhî           mó-mʷɔn            ‘straight, right, correct’
 >
 
-[23] Aua initial w- could reflect either *mw- or *w-, but I have assumed the Aua reflex to reflect *mwane-
-   mwane, as this is reflected elsewhere in the Admiralties.
+[23] Aua initial _w-_ could reflect either _*mʷ-_ or _*w-_, but I have assumed the Aua reflex to
+reflect _*mʷane-mʷane_, as this is reflected elsewhere in the Admiralties.
 
 <
 POc *wane-wane ‘straight, direct; flat, level’ (ACD)
  NNG: Ali               wane(ŋ)            ‘straight’
- Mic: L. Mortlockese wane-wan              ‘straight, steady, direct’
+ Mic: L. Mortlockese    wane-wan           ‘straight, steady, direct’
  Mic: Puluwatese        wene-wen           ‘be directly above; straight, direct, honest, exactly’; ‘greatly’
  Mic: Woleaian          were-were          ‘straight, steady, still’
 >
 
-   The only antonym of the terms above is PWOc *kalis ‘crooked’, which is only weakly
+   The only antonym of the terms above is PWOc _*kalis_ ‘crooked’, which is only weakly
 attested.
 
 <
@@ -10546,10 +10544,10 @@ PWOc *kalis ‘crooked’
 
 7.5.2 Weight
 
-   Forms for ‘heavy’ are morphologically complex. POc *[pa]pat reflects the base *pat,
-POc *ma-pat and *mamat reflect prefixation with *ma- and *maN- respectively (the
-function of *maN- in this context is unclear; cf. vol. 1, p.29). The term for ‘light’ (in
-weight) is *[ma]Raqan.
+   Forms for ‘heavy’ are morphologically complex. POc _*[pa]pat_ reflects the base _*pat_,
+POc _*ma-pat_ and _*mamat_ reflect prefixation with _*ma-_ and _*maN-_ respectively (the
+function of _*maN-_ in this context is unclear; cf. vol. 1, p.29). The term for ‘light’ (in
+weight) is _*[ma]Raqan_.
 
 <
 POc *[pa]pat ‘heavy’
@@ -10562,46 +10560,46 @@ POc *[pa]pat ‘heavy’
 
 <
 POc *mapat ‘heavy’ (ACD)
- Adm: Nyindrou        mahaʔ(an)          ‘heavy’
- SJ:   Sobei          mafo               ‘heavy’
- MM: Bulu             mava               ‘heavy’
- MM: Ramoaaina        məvət              ‘heavy’
- SES: Gela            mava               ‘heavy, important’
- NCV: NE Ambae        mava               ‘be/become heavy’
- Fij:  Rotuman        maha               ‘heavy’
- Pn:   Tongan         ma-mafa            ‘heavy’
- Pn:   Tongan         mafas-ia           ‘(be) weighed down, burdened’
- Pn:   Tongan         mafat-aki          ‘(rain) be heavy; (work) be heavy, difficult’
- Pn:   Samoan         ma-mafa            ‘heavy’
- Pn:   Samoan         mafat-ia           ‘exhausted, overcome’
+ Adm: Nyindrou       mahaʔ(an)          ‘heavy’
+ SJ:  Sobei          mafo               ‘heavy’
+ MM:  Bulu           mava               ‘heavy’
+ MM:  Ramoaaina      məvət              ‘heavy’
+ SES: Gela           mava               ‘heavy, important’
+ NCV: NE Ambae       mava               ‘be/become heavy’
+ Fij: Rotuman        maha               ‘heavy’
+ Pn:  Tongan         ma-mafa            ‘heavy’
+ Pn:  Tongan         mafas-ia           ‘(be) weighed down, burdened’
+ Pn:  Tongan         mafat-aki          ‘(rain) be heavy; (work) be heavy, difficult’
+ Pn:  Samoan         ma-mafa            ‘heavy’
+ Pn:  Samoan         mafat-ia           ‘exhausted, overcome’
 >
 
 <
 POc *mamat ‘heavy’
  Adm: Mussau             mamāta(na)      ‘heavy’
- MM: Tolai               mamat           ‘heavy’
- MM: Roviana             mamata          ‘heavy’
+ MM:  Tolai              mamat           ‘heavy’
+ MM:  Roviana            mamata          ‘heavy’
 >
 
 <
 PMP *[ma]Raqan ‘light in weight’ (ACD)
 POc *[ma]Raqan ‘light in weight’
- PT:   Motu           haraɣa         ‘easy, light (in weight)’
- NNG: Bariai          malan          ‘light in weight’
- NNG: Sio             malalɒka       ‘light in weight’
- NNG: Tami            malaga-lag     ‘light in weight’
- NNG: Aria            mar̃kan        ‘light in weight’
- MM: Vitu             maraɣa         ‘light in weight’
- MM: Nakanai          mara-mara      ‘lightened, relieved’
- SES: Gela            ma-mala        ‘light in weight’
- NCV: NE Ambae        ma-marae       ‘be/become light’
- NCV: Raga            ma-mara        ‘light in weight’
- NCV: Paamese         melā-la        ‘light in weight’
- Mic: Ponapean        marā-ra        ‘light in weight’
- Fij:  Nadrogaa       mā-mā          ‘light in weight’
- Fij:  Wayan          mā-mā          ‘be light (in weight)’
- Pn:   Tongan         maʔa-maʔa      ‘light in weight’
- Pn:   Samoan         mā-mā          ‘light in weight’
+ PT:  Motu           haraɣa         ‘easy, light (in weight)’
+ NNG: Bariai         malan          ‘light in weight’
+ NNG: Sio            malalɒka       ‘light in weight’
+ NNG: Tami           malaga-lag     ‘light in weight’
+ NNG: Aria           mar̃kan         ‘light in weight’
+ MM:  Vitu           maraɣa         ‘light in weight’
+ MM:  Nakanai        mara-mara      ‘lightened, relieved’
+ SES: Gela           ma-mala        ‘light in weight’
+ NCV: NE Ambae       ma-marae       ‘be/become light’
+ NCV: Raga           ma-mara        ‘light in weight’
+ NCV: Paamese        melā-la        ‘light in weight’
+ Mic: Ponapean       marā-ra        ‘light in weight’
+ Fij: Nadrogaa       mā-mā          ‘light in weight’
+ Fij: Wayan          mā-mā          ‘be light (in weight)’
+ Pn:  Tongan         maʔa-maʔa      ‘light in weight’
+ Pn:  Samoan         mā-mā          ‘light in weight’
 >
 
 7.5.3 Strength, toughness and speed
@@ -10609,8 +10607,8 @@ POc *[ma]Raqan ‘light in weight’
     Oceanic speakers tend to express the cluster of concepts ‘hard’ (of physical substances),
 ‘strong’ (of human beings), ‘quickly moving’ and ‘energetic’ with a single lexeme, and
 ‘soft’, ‘weak’, ‘slow’ and ‘gentle’ also with a single lexeme. Terms for the first, again due
-entirely to Blust (ACD), are POc *paka(s) and *laga(s), neither of them particularly stable
-(i.e. we find few reflexes of them). Terms for its antonym are *[ma]lumu and *ma-luas,
+entirely to Blust (ACD), are POc _*paka(s)_ and _*laga(s)_, neither of them particularly stable
+(i.e. we find few reflexes of them). Terms for its antonym are _*[ma]lumu_ and _*ma-luas_,
 both quite stable and thus widely reflected. The latter is also used of calm weather in
 eastern Oceanic languages (see Ch. 5, §5.1).
 
@@ -10630,87 +10628,87 @@ POc *laga(s) ‘spirited, energetic’ (ACD)
  SES: Arosi              raga             ‘strong, strengthened, invigorated’
 >
 
-  Two POc terms, *[ma]lumu and *ma-luas, express ‘soft, gentle’.
+  Two POc terms, _*[ma]lumu_ and _*ma-luas_, express ‘soft, gentle’.
 
 <
 PMP *[ma]lumu ‘soft, tender, gentle’ (ACD)
 POc *[ma]lumu ‘soft, gentle, easy’
- NNG: Bariai           marum            ‘soft’
- NNG: Amara            mulum            ‘soft’
- MM: Nakanai           malumo           ‘be soft (bread or sweet biscuits, or taro left too long in the ground)’
- MM: Lavongai          malum            ‘soft’
- MM: Patpatar          ma-malum         ‘soft’
- MM: Mono              maluŋ            ‘soft’
- SES: Gela             malumu           ‘easy’
- SES: Kwaio            malumu           ‘good-looking’
- SES: Arosi            rumu             ‘oil’
- SES: Arosi            marumu-rumu ‘soft’
- NCV: Mota             malum-lum        ‘soft, gentle’
- NCV: NE Ambae         lu-lumu          ‘be/become sweet, good tasting’
- NCV: Raga             lumu-lumu        ‘soft’
- NCV: Tamambo          ma-lu-lum        ‘soft’
- Fij:  Bauan           malumu           ‘weak, faint, sick, soft’
-PPn *malū ‘soft (of a substance), calm (of day, sea)’ (irregular loss of *-m- in all Polynesian reflexes)
- Pn:    Tongan        malū            ‘soft, tender, flexible; (weather) mild, pleasantly calm; (pain) abated’
- Pn:    Niuean        molū            ‘soft, weak, humble’
- Pn:    Samoan        malū            ‘(substance) soft; (sea +) calm; (voice) bass’
- Pn:    E Uvean       malū            ‘calm, peaceful’
- Pn:    E Futunan     malū            ‘soft’
- Pn:    Rennellese    magū            ‘be soft, be slack’
- Pn:    Tahitian      marū            ‘soft, gentle, easy’
+ NNG: Bariai        marum           ‘soft’
+ NNG: Amara         mulum           ‘soft’
+ MM:  Nakanai       malumo          ‘be soft (bread or sweet biscuits, or taro left too long in the ground)’
+ MM:  Lavongai      malum           ‘soft’
+ MM:  Patpatar      ma-malum        ‘soft’
+ MM:  Mono          maluŋ           ‘soft’
+ SES: Gela          malumu          ‘easy’
+ SES: Kwaio         malumu          ‘good-looking’
+ SES: Arosi         rumu            ‘oil’
+ SES: Arosi         marumu-rumu     ‘soft’
+ NCV: Mota          malum-lum       ‘soft, gentle’
+ NCV: NE Ambae      lu-lumu         ‘be/become sweet, good tasting’
+ NCV: Raga          lumu-lumu       ‘soft’
+ NCV: Tamambo       ma-lu-lum       ‘soft’
+ Fij: Bauan         malumu          ‘weak, faint, sick, soft’
+PPn *malū ‘soft (of a substance), calm (of day, sea)’ (irregular loss of _*-m-_ in all Polynesian reflexes)
+ Pn:  Tongan        malū            ‘soft, tender, flexible; (weather) mild, pleasantly calm; (pain) abated’
+ Pn:  Niuean        molū            ‘soft, weak, humble’
+ Pn:  Samoan        malū            ‘(substance) soft; (sea +) calm; (voice) bass’
+ Pn:  E Uvean       malū            ‘calm, peaceful’
+ Pn:  E Futunan     malū            ‘soft’
+ Pn:  Rennellese    magū            ‘be soft, be slack’
+ Pn:  Tahitian      marū            ‘soft, gentle, easy’
 >
 
                                                       Properties of inanimate objects    223
 
 <
 POc *ma-luas ‘soft’
- NNG: Sio                  malbe             ‘limp, squishy, soft’
- MM: Notsi                 məlus             ‘soft’
- MM: Konomala              ma-mlas           ‘soft’
- MM: Siar                  ma-maluas         ‘soft’
- MM: Ramoaaina             məl-məluə         ‘soft’
- MM: Nehan                 mal-malua-n       ‘soft’
- SES: Gela                 malua             ‘soft’
- SES: ’Are’are             mārū-rū           ‘soft, gentle, flexible’
- Mic: Ponapean             malu-n            ‘calm, of the sea’
- Mic: Mokilese             molu-n            ‘calm or fine, of weather’
- Mic: L. Mortlockese       maləwa-ləw        ‘peaceful’
- Mic: Puluwatese           maliwa-li         ‘to be easy or slow, to be calm (as the sea), to be gentle’
- Fij:    Bauan             mālua             ‘gently, slowly, quietly’
+ NNG: Sio               malbe             ‘limp, squishy, soft’
+ MM:  Notsi             məlus             ‘soft’
+ MM:  Konomala          ma-mlas           ‘soft’
+ MM:  Siar              ma-maluas         ‘soft’
+ MM:  Ramoaaina         məl-məluə         ‘soft’
+ MM:  Nehan             mal-malua-n       ‘soft’
+ SES: Gela              malua             ‘soft’
+ SES: ’Are’are          mārū-rū           ‘soft, gentle, flexible’
+ Mic: Ponapean          malu-n            ‘calm, of the sea’
+ Mic: Mokilese          molu-n            ‘calm or fine, of weather’
+ Mic: L. Mortlockese    maləwa-ləw        ‘peaceful’
+ Mic: Puluwatese        maliwa-li         ‘to be easy or slow, to be calm (as the sea), to be gentle’
+ Fij: Bauan             mālua             ‘gently, slowly, quietly’
 >
 
 7.5.4 Content
 
-   Three terms meaning ‘full’ are reconstructable. The first, *ponuq, is the general term. It
-is not clear to me how *puŋu and *poju differed in meaning from this and from each other.
-However, *puŋu may simply be a doublet of *ponuq. The term *poju seems to be a reflex
-of PMP *besuR ‘satiated’. The opposite meaning, ‘empty’, seems to have been expressed
-by *[ma]maca ‘dry’ (p.226), at least when ‘empty of liquid’ was intended.
+   Three terms meaning ‘full’ are reconstructable. The first, _*ponuq_, is the general term. It
+is not clear to me how _*puŋu_ and _*poju_ differed in meaning from this and from each other.
+However, _*puŋu_ may simply be a doublet of _*ponuq_. The term _*poju_ seems to be a reflex
+of PMP _*besuR_ ‘satiated’. The opposite meaning, ‘empty’, seems to have been expressed
+by _*[ma]maca_ ‘dry’ (p.226), at least when ‘empty of liquid’ was intended.
 
 <
 PMP *ponuq ‘full’
 POc *ponuq ‘full’
- NNG: Bariai               -won
- NNG: Lukep                -pon
- NNG: Poeng                ponu
- NNG: Wogeo                -won
- NNG: Kaiep                -wun
- PT:   Motu                honu
- PT:   Mekeo               poŋu
- MM: Bali                  vonuku
- MM: Meramera              vonu              ‘full; swell’
- MM: Nakanai               volu
- MM: Lihir                 on
- MM: Nehan                 won
- MM: Mono                  honu
- SES: Gela                 vonu
- SES: Talise               vonu
- SES: Longgu               vonu
- SES: Kwaio                fonu
- SES: Arosi                honu
- NCal: Nemi                punuk
- Mic:     Kiribati       on
- Pn:      Tongan         fonu
+ NNG:  Bariai         -won
+ NNG:  Lukep          -pon
+ NNG:  Poeng          ponu
+ NNG:  Wogeo          -won
+ NNG:  Kaiep          -wun
+ PT:   Motu           honu
+ PT:   Mekeo          poŋu
+ MM:   Bali           vonuku
+ MM:   Meramera       vonu              ‘full; swell’
+ MM:   Nakanai        volu
+ MM:   Lihir          on
+ MM:   Nehan          won
+ MM:   Mono           honu
+ SES:  Gela           vonu
+ SES:  Talise         vonu
+ SES:  Longgu         vonu
+ SES:  Kwaio          fonu
+ SES:  Arosi          honu
+ NCal: Nemi           punuk
+ Mic:  Kiribati       on
+ Pn:   Tongan         fonu
 >
 
 224     Malcolm Ross
@@ -10720,8 +10718,8 @@ POc *puŋu ‘full’
  NNG: Maleu              -uŋ
  NNG: Silisili           (ri)fuᵑg
  NNG: Sukurum            fuaŋ
- MM: Lamasong            -uŋ
- MM: Patpatar            huŋ
+ MM:  Lamasong           -uŋ
+ MM:  Patpatar           huŋ
  SES: Lau                fuŋu
  SES: Kwai               fuŋu
 >
@@ -10729,39 +10727,39 @@ POc *puŋu ‘full’
 <
 PAn *besuR ‘satisfied from having eaten enough, satiated’ (ACD)
 POc *poju ‘full’
- Adm: Mussau             pasu               ‘full’
- MM: Kara (East)         vəs                ‘full’
- MM: Notsi               us                 ‘full’
- MM: Tabar               vosu               ‘full’
- MM: Teop                (ha)pus            ‘full’
- MM: Maringe             fodu               ‘full’
+ Adm: Mussau              pasu               ‘full’
+ MM:  Kara (East)         vəs                ‘full’
+ MM:  Notsi               us                 ‘full’
+ MM:  Tabar               vosu               ‘full’
+ MM:  Teop                (ha)pus            ‘full’
+ MM:  Maringe             fodu               ‘full’
 >
 
 7.5.5 Temperature
 
-   Two terms are reconstructable for ‘hot, warm’, *[ma]panas and *maŋini(t). The first
-was probably the general term, to judge from its distribution, whilst *maŋini(t) probably
+   Two terms are reconstructable for ‘hot, warm’, _*[ma]panas_ and _*maŋini(t)_. The first
+was probably the general term, to judge from its distribution, whilst _*maŋini(t)_ probably
 had some specialised sense.
 
 <
 PMP *[ma]panas ‘be/become warm, hot (of fire, sun, fever, water)’ (ACD)
 POc *[ma]panas ‘warm, hot’
- Adm: Mussau          anasa               ‘(s.o.) hot’
- NNG: Kove            wana-wana           ‘(s.o.) hot’
- NNG: Arove           (ka)wanes           ‘(s.o.) hot’
- NNG: Takia           wanana-n            ‘hot’
- NNG: Numbami         wa-wana             ‘hot’
- NNG: Mapos Buang     vanɛ                ‘hot’
- SJ:   Sobei          mefna               ‘(s.o.) hot’
- MM: Tigak            manas               ‘(s.o.) hot’
- MM: Maringe          brana               ‘hot’
- SES: Longgu          pa-pana             ‘be warm’
- SES: Bauro           mahana-hana         ‘hot’
- SV:   Kwamera        -(a)pwan-(a)pwan ‘hot’
- SV:   Anejom         (a)hen-hen          ‘warm, hot’
- Fij:  Rotuman        mah-mahana          ‘warm’
- Pn:   Tongan         māfana              ‘warm’
- Pn:   Samoan         māfana-fana        ‘warm’
+ Adm: Mussau         anasa              ‘(s.o.) hot’
+ NNG: Kove           wana-wana          ‘(s.o.) hot’
+ NNG: Arove          (ka)wanes          ‘(s.o.) hot’
+ NNG: Takia          wanana-n           ‘hot’
+ NNG: Numbami        wa-wana            ‘hot’
+ NNG: Mapos Buang    vanɛ               ‘hot’
+ SJ:  Sobei          mefna              ‘(s.o.) hot’
+ MM:  Tigak          manas              ‘(s.o.) hot’
+ MM:  Maringe        brana              ‘hot’
+ SES: Longgu         pa-pana            ‘be warm’
+ SES: Bauro          mahana-hana        ‘hot’
+ SV:  Kwamera        -(a)pwan-(a)pwan   ‘hot’
+ SV:  Anejom         (a)hen-hen         ‘warm, hot’
+ Fij: Rotuman        mah-mahana         ‘warm’
+ Pn:  Tongan         māfana             ‘warm’
+ Pn:  Samoan         māfana-fana        ‘warm’
 >
 
                                                      Properties of inanimate objects   225
@@ -10773,33 +10771,33 @@ POc *maŋini(t) ‘(?) become hot, warm’
  MM: Hoava              maŋini              ‘warm’
 >
 
-   There are several POc forms for ‘cold’ which are derived from PMP *diŋin ‘cold’.
-However, the expected POc reflex of PMP *diŋin is **riŋi(n), and we do not find this.
-Instead, we find *ridriŋ and *ririŋ, presumably from the reduplications *riŋ-riŋ and
-*ri-riŋ, preceded by various prefixes. POc *ma-ri(d)ri(ŋ) needs no further explanation,
-whilst *madri(d)riŋ is apparently derived from *maN-ri(d)riŋ. POc *maka-ridri(ŋ) is
-transparent enough, but I do not know the function of *maka-. From the glosses of the
+   There are several POc forms for ‘cold’ which are derived from PMP _*diŋin_ ‘cold’.
+However, the expected POc reflex of PMP _*diŋin_ is _**riŋi(n)_, and we do not find this.
+Instead, we find _*ridriŋ_ and _*ririŋ_, presumably from the reduplications _*riŋ-riŋ_ and
+_*ri-riŋ_, preceded by various prefixes. POc _*ma-ri(d)ri(ŋ)_ needs no further explanation,
+whilst _*madri(d)riŋ_ is apparently derived from _*maN-ri(d)riŋ_. POc _*maka-ridri(ŋ)_ is
+transparent enough, but I do not know the function of _*maka-_. From the glosses of the
 reflexes, it seems that these terms probably referred to the temperature experienced by a
 person, i.e. ‘I feel cold’, rather than to the temperature of inanimate objects.
 
-    The other cognate set meaning ‘cold’ appears to reflect both *malaso ‘cold (verb)’ and
-*malaso-ŋ ‘cold (noun)’ .
+    The other cognate set meaning ‘cold’ appears to reflect both _*malaso_ ‘cold (verb)’ and
+_*malaso-ŋ_ ‘cold (noun)’ .
 
 <
 PMP *diŋin ‘cold’
 POc *ma-ri(d)ri(ŋ) ‘(s.o.) cold’
- NNG: Mutu                  marir          ‘(s.o.) cold’
- NNG: Apalik                miri-n         ‘(s.o.) cold’
- NNG: Bebeli                merir          ‘(s.o.) cold’
- NNG: Kaulong               ŋlik           ‘cold’
- NNG: Poeng                 ma-mariri      ‘(s.o.) cold’
- NNG: Kaiep                 marir          ‘(s.o.) cold’
- NNG: Kairiru               -mer̃ir̃       ‘(s.o.) cold’
- SJ:   Kayupulau            mariri-e       ‘(s.o.) cold’
- NCV: Raga                  masisi         ‘cold’
- NCV: Merlav                marir          ‘(s.o.) cold’
- Mic: Kiribati              mariri         ‘feel cold’
- Fij:  Rotuman              matiti         ‘cold’
+ NNG: Mutu                 marir          ‘(s.o.) cold’
+ NNG: Apalik               miri-n         ‘(s.o.) cold’
+ NNG: Bebeli               merir          ‘(s.o.) cold’
+ NNG: Kaulong              ŋlik           ‘cold’
+ NNG: Poeng                ma-mariri      ‘(s.o.) cold’
+ NNG: Kaiep                marir          ‘(s.o.) cold’
+ NNG: Kairiru              -mer̃ir̃       ‘(s.o.) cold’
+ SJ:  Kayupulau            mariri-e       ‘(s.o.) cold’
+ NCV: Raga                 masisi         ‘cold’
+ NCV: Merlav               marir          ‘(s.o.) cold’
+ Mic: Kiribati             mariri         ‘feel cold’
+ Fij: Rotuman              matiti         ‘cold’
 >
 
 <
@@ -10809,18 +10807,18 @@ POc *madri(d)riŋ ‘(s.o.) become cold’
  NNG: Takia                madid           ‘(s.o.) cold’
  NNG: Manam                madidi          ‘cold’
  NNG: Ulau-Suain           madid           ‘(s.o.) cold’
- MM: Tolai                 madiriŋ         ‘cold (water, food)’
- MM: Haku                  maririŋ         ‘(s.o.) cold’
+ MM:  Tolai                madiriŋ         ‘cold (water, food)’
+ MM:  Haku                 maririŋ         ‘(s.o.) cold’
  NCV: Paamese              madil           ‘cold’
 >
 
 <
 POc *makaridriŋ ‘(s.o.) cold’
- MM: Notsi                 makadil         ‘(s.o.) cold’
- SES: Bauro                maɣārisi        ‘cold’
- NCV: Tamambo              maɣariri        ‘cold’
- Pn:   Niuean              makalili        ‘cold, chilly’
- Pn:   Samoan              maʔalili        ‘(be) cold’
+ MM:  Notsi               makadil         ‘(s.o.) cold’
+ SES: Bauro               maɣārisi        ‘cold’
+ NCV: Tamambo             maɣariri        ‘cold’
+ Pn:  Niuean              makalili        ‘cold, chilly’
+ Pn:  Samoan              maʔalili        ‘(be) cold’
 >
 
 226   Malcolm Ross
@@ -10828,16 +10826,16 @@ POc *makaridriŋ ‘(s.o.) cold’
 <
 POc *malaso ‘be cold’
 POc *malaso-ŋ (N) ‘cold’
- NNG: Roinji           malasu(na)       ‘(s.o.) cold’
- NNG: Wab              malsuŋ           ‘cold’
- NNG: Bing             malsoŋ           ‘cold’
- NNG: Mindiri          malas            ‘cold’
- NNG: Megiar           malas            ‘(s.o.) cold’
- MM: Nehan             malahoŋ          ‘(s.o.) cold’
- NCV: Mota             malaso           (N) ‘cold’
- NCV: Uripiv           melas            (N) ‘cold’
- SV:   Lenakel         mhal             ‘have a cold sore’
- SV:   SW Tanna        (ə)mla           ‘be cold’
+ NNG: Roinji          malasu(na)       ‘(s.o.) cold’
+ NNG: Wab             malsuŋ           ‘cold’
+ NNG: Bing            malsoŋ           ‘cold’
+ NNG: Mindiri         malas            ‘cold’
+ NNG: Megiar          malas            ‘(s.o.) cold’
+ MM:  Nehan           malahoŋ          ‘(s.o.) cold’
+ NCV: Mota            malaso           (N) ‘cold’
+ NCV: Uripiv          melas            (N) ‘cold’
+ SV:  Lenakel         mhal             ‘have a cold sore’
+ SV:  SW Tanna        (ə)mla           ‘be cold’
 >
 
 
@@ -10846,30 +10844,30 @@ POc *malaso-ŋ (N) ‘cold’
    The English words ‘dry’ and ‘wet’ are polysemous. The meanings of ‘dry’ include ‘free
 from moisture’, ‘having lost natural moisture’ and ‘not in or under water’. POc terms with
 such meanings are reconstructed below. POc presumably also had words for various
-meanings of ‘wet’, but I have been able to reconstruct only POc *buluk, in the meaning
+meanings of ‘wet’, but I have been able to reconstruct only POc _*buluk_, in the meaning
 ‘soaked, waterlogged’.
 
 <
 POc *buluk ‘be wet, soaked, waterlogged’
- NNG: Bilibil          polo             ‘wet’
- MM: Lavongai          vuluk            ‘wet’
- MM: Ramoaaina         polo             (V) ‘wet, muddy, swampy’; (N) ‘liquid, fluid’
- Fij:   Wayan          bulu-bulu        ‘be sticky, gluey, adhesive, cloggy, e.g. of clay or cloggy soil, too wet and lumpy to dig’
- Pn:    Niuean         (faka)pulu       ‘steep in water, ferment’
- Pn:    Mangareva      puru             ‘soaked’
- Pn:    Tahitian       puru             ‘soaked, waterlogged’
- Pn:    Hawaiian       pulu             ‘soaked’
+ NNG: Bilibil        polo             ‘wet’
+ MM:  Lavongai       vuluk            ‘wet’
+ MM:  Ramoaaina      polo             (V) ‘wet, muddy, swampy’; (N) ‘liquid, fluid’
+ Fij: Wayan          bulu-bulu        ‘be sticky, gluey, adhesive, cloggy, e.g. of clay or cloggy soil, too wet and lumpy to dig’
+ Pn:  Niuean         (faka)pulu       ‘steep in water, ferment’
+ Pn:  Mangareva      puru             ‘soaked’
+ Pn:  Tahitian       puru             ‘soaked, waterlogged’
+ Pn:  Hawaiian       pulu             ‘soaked’
 >
 
-   The most widely reflected POc term with a ‘dry’ meaning is *[ma]maca, which denoted
+   The most widely reflected POc term with a ‘dry’ meaning is _*[ma]maca_, which denoted
 states in which otherwise present liquid was absent. Thus it was used among other things
 of food which had dried up through overcooking and of low tide (Ch. 4, §2.6). POc
-*[ma](r,R)aŋo ‘wither, dry up’ referred particularly to the dryness of dying vegetation and
+_*[ma](r,R)aŋo_ ‘wither, dry up’ referred particularly to the dryness of dying vegetation and
 meant ‘withered, dry’ (vol. 1, p.135).
 
-    POc *karaŋo is obviously formally related to *[ma]raŋo, but its reflexes display the
-meanings both of this and of *[ma]maca. POc *goRu appears to have been a synonym of
-*[ma](r,R)aŋo.
+    POc _*karaŋo_ is obviously formally related to _*[ma]raŋo_, but its reflexes display the
+meanings both of this and of _*[ma]maca_. POc _*goRu_ appears to have been a synonym of
+_*[ma](r,R)aŋo_.
 
 <
 PMP *maja ‘be dry’
@@ -10877,71 +10875,71 @@ POc *[ma]maca (V) ‘dry up, evaporate, be empty of liquid’; (N) ‘low tide�
  Adm: Aua            mamaha            ‘dry’
  NNG: Kove           mamasa            ‘dry’
  NNG: Mutu           mamas             ‘(food +) dry up’
- NNG: Mangap         mamāza-ŋana ‘dry’
- NNG: Tami                  mamat               ‘dry’
- NNG: Roinji                mamasa-na           ‘dry’
- NNG: Bing                  mas-mamasa          ‘low tide’
- NNG: Bing                  mamsa-s             ‘dry’
- NNG:     Numbami           mamasa              ‘dry ’
- NNG:     Wogeo             mamasa              ‘dry’
- NNG:     Kairiru           -mamas              ‘dry’
- SJ:      Kayupulau         mamaxe              ‘dry’
- PT:      Gumawana          mamaya              ‘low tide, shore’
- MM:      Meramera          mamasa              ‘low tide’
- MM:      Lihir             mas                 ‘(food +) dry up’
- MM:      Patpatar          mamasa              ‘dry’
- MM:      Tolai             mamā                ‘lowtide’
- MM:      Siar              mas-mas             ‘(food +) dry up; low tide’
- MM:      Roviana           masa                ‘lowtide’
- SES:     Gela              mamaha              ‘dry’
- SES:     Arosi             mamata              ‘dry’
- NCV:     Raga              mamaha              ‘dry’
- NCV:     NE Ambae          mamaha              ‘be/become dry’
- NCV:     Tamambo           mamasa              ‘dry (of ground +)’
- NCV:     Paamese           mes                 ‘dry’
- Fij:     Bauan             maða                ‘be empty, be dry’
- Fij:     Bauan             mamaða              ‘dry, be dry’
- SV:      N Tanna           mas                 ‘lowtide’
- SV:      Kwamera           maha                ‘lowtide, empty of liquid’
- Pn:      Tongan            mamaha              ‘lowtide’
- Pn:      Samoan            masa                ‘be shallow’
+ NNG: Mangap         mamāza-ŋana       ‘dry’
+ NNG: Tami           mamat             ‘dry’
+ NNG: Roinji         mamasa-na         ‘dry’
+ NNG: Bing           mas-mamasa        ‘low tide’
+ NNG: Bing           mamsa-s           ‘dry’
+ NNG: Numbami        mamasa            ‘dry ’
+ NNG: Wogeo          mamasa            ‘dry’
+ NNG: Kairiru        -mamas            ‘dry’
+ SJ:  Kayupulau      mamaxe            ‘dry’
+ PT:  Gumawana       mamaya            ‘low tide, shore’
+ MM:  Meramera       mamasa            ‘low tide’
+ MM:  Lihir          mas               ‘(food +) dry up’
+ MM:  Patpatar       mamasa            ‘dry’
+ MM:  Tolai          mamā              ‘lowtide’
+ MM:  Siar           mas-mas           ‘(food +) dry up; low tide’
+ MM:  Roviana        masa              ‘lowtide’
+ SES: Gela           mamaha            ‘dry’
+ SES: Arosi          mamata            ‘dry’
+ NCV: Raga           mamaha            ‘dry’
+ NCV: NE Ambae       mamaha            ‘be/become dry’
+ NCV: Tamambo        mamasa            ‘dry (of ground +)’
+ NCV: Paamese        mes               ‘dry’
+ Fij: Bauan          maða              ‘be empty, be dry’
+ Fij: Bauan          mamaða            ‘dry, be dry’
+ SV:  N Tanna        mas               ‘lowtide’
+ SV:  Kwamera        maha              ‘lowtide, empty of liquid’
+ Pn:  Tongan         mamaha            ‘lowtide’
+ Pn:  Samoan         masa              ‘be shallow’
 >
 
                                                               Properties of inanimate objects        227
 
 
- POc *[ma-](r,R)aŋo displays a phonological problem. Apparent non-Oceanic cognates of
-the root *raŋo reflect PMP *Raŋaw, so we would expect the reconstructable POc form to
-be **Raŋo. But Oceanic languages which reflect POc *r and *R differently are not in
-accord with each other: SES and NCV languages have a reflex of *r whilst Pn languages
-have a (zero) reflex of *R. (Mussau and NNG and MM languages reflect *r and *R
-identically.) I assume tentatively that POc had *[ma]Raŋo and that forms with *r are
+ POc _*[ma-](r,R)aŋo_ displays a phonological problem. Apparent non-Oceanic cognates of
+the root _*raŋo_ reflect PMP _*Raŋaw_, so we would expect the reconstructable POc form to
+be _**Raŋo_. But Oceanic languages which reflect POc _*r_ and _*R_ differently are not in
+accord with each other: SES and NCV languages have a reflex of _*r_ whilst Pn languages
+have a (zero) reflex of _*R_. (Mussau and NNG and MM languages reflect _*r_ and _*R_
+identically.) I assume tentatively that POc had _*[ma]Raŋo_ and that forms with _*r_ are
 innovative.
 
 <
 PMP *[ma]Raŋaw ‘dry’
 PMP *[ma]Raŋuʔ ‘dry’ (Blust 1981b, Blust 1986)
 POc *[ma]Raŋo ‘become withered (of vegetation)’[24]
- Adm: Mussau         malaŋo          ‘dry’
- NNG: Manam          maraŋo          ‘dry, arid’
- NNG: Kairiru        maraŋ           ‘ripe coconut’
- MM: Nalik           maraŋ           ‘ripe coconut’
- MM:     Susurunga       maraŋ           ‘(be) old, dry; (old) coconut with lots of meat and little milk’
- MM:     Patpatar        maraŋa          ‘dry coconut’
- MM:     Tolai           ma-raŋa         ‘withered, dry (leaves, husk, tree)’
- MM:     Halia (Selau)   raŋo            ‘dry’
- SES:    Bugotu          raŋo            ‘wither (leaves, yam vines)’
- SES:    Sa’a            raŋo            ‘be withered, dry (esp. yams when vine withers)’
- SES:    Arosi           raŋo            ‘withered, dead (of grass, green boughs +)’
- NCV:    Mota            raŋo            ‘become dried up in the course of nature’
- Pn:     Samoan          maŋo            ‘dry up; be dry (of wood, clothes)’
- Pn:     Niuean          maŋo            ‘dry (of wood, trees)’
+ Adm: Mussau          malaŋo          ‘dry’
+ NNG: Manam           maraŋo          ‘dry, arid’
+ NNG: Kairiru         maraŋ           ‘ripe coconut’
+ MM:  Nalik           maraŋ           ‘ripe coconut’
+ MM:  Susurunga       maraŋ           ‘(be) old, dry; (old) coconut with lots of meat and little milk’
+ MM:  Patpatar        maraŋa          ‘dry coconut’
+ MM:  Tolai           ma-raŋa         ‘withered, dry (leaves, husk, tree)’
+ MM:  Halia (Selau)   raŋo            ‘dry’
+ SES: Bugotu          raŋo            ‘wither (leaves, yam vines)’
+ SES: Sa’a            raŋo            ‘be withered, dry (esp. yams when vine withers)’
+ SES: Arosi           raŋo            ‘withered, dead (of grass, green boughs +)’
+ NCV: Mota            raŋo            ‘become dried up in the course of nature’
+ Pn:  Samoan          maŋo            ‘dry up; be dry (of wood, clothes)’
+ Pn:  Niuean          maŋo            ‘dry (of wood, trees)’
 >
 
-[24] In Ross (1996d) I reconstructed POc *[ma]Raŋ(o,u) ‘dry; coconut growth stage 8: dry and ready to fall’.
-   However, its POc status rested on Baelelea (SES) maleŋa ‘coconut’. I no longer think this is cognate
+[24] In Ross (1996d) I reconstructed POc _*[ma]Raŋ(o,u)_ ‘dry; coconut growth stage 8: dry and ready to fall’.
+   However, its POc status rested on Baelelea (SES) _maleŋa_ ‘coconut’. I no longer think this is cognate
    with the NNG and MM forms which refer to a withered coconut, and take the latter simply to be an
-   extension of meaning of reflexes of *[ma-](r,R)aŋo.
+   extension of meaning of reflexes of _*[ma-](r,R)aŋo_.
 
 228    Malcolm Ross
 
@@ -10961,7 +10959,7 @@ POc *goRu ‘dry, of vegetation; coconut growth stage 8: dry and ready to fall�
  SES: Lengo          golu            ‘coconut flesh’
  NCV: Mota           kor             ‘become dry, with heat or time; coconut in its last condition before it falls from the tree; dry (of other things too)’
  NCV: Tamambo        koru            ‘dry, dying (of tree)’
- NCV: Raga            ᵑgoru           ‘dry’
+ NCV: Raga           ᵑgoru           ‘dry’
 >
 
 
