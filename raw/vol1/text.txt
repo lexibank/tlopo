@@ -6776,12 +6776,12 @@ is possible to PCP level.
 <
 PCP *vusi 'taro swamp; taro bed' (from French-Wright)
     Fij:   Bauan              vuði                 'taro garden under wet cultivation'
-    Pn:     Samoan             fusi                 'raised bed'
-    Pn:     E. Futunan         vusi(ga)             'pondfield'
-    Pn:     E. Uvean           fuhi                 'raised bed'
+    Pn:    Samoan             fusi                 'raised bed'
+    Pn:    E. Futunan         vusi(ga)             'pondfield'
+    Pn:    E. Uvean           fuhi                 'raised bed'
 >
 
-In vol. 1, p.139 the form PCP _*pusi_ was erroneously given for _*vusi_ (POc _*p_ split into PCP _*p_ and _*v_).
+FIXME: In vol. 1, p.139 the form PCP _*pusi_ was erroneously given for _*vusi_ (POc _*p_ split into PCP _*p_ and _*v_).
 
     A second reconstruction is open to conjecture. Both Spriggs and Kirch and Lepofsky drew
 attention to the Hawaiian and Rapa (Austral Islands) terms for a pondfield, _loʔi_ and _roki_. We
@@ -9207,6 +9207,7 @@ PWOc *ŋuju 'carved prow'
   MM:  Roviana     ŋuzu-ŋuzu          'figurehead of a tomoko war canoe'
 >
 
+FIXME: From vol2: In vol. 1, p.189 the form POc _*ijuŋ_ ‘projecting headboard of prow’ is erroneously given for *(i,u)cuŋ. This is almost certainly the same etymon as that reconstructed here.
 
 The central meaning of POc _*ijuŋ_ was 'nose' and that of _*ŋuju_ 'beak, snout, mouth'. Reflexes
 of both commonly have the extended sense 'projecting point'. The conjunction of Southeast

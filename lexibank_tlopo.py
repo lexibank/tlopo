@@ -155,7 +155,7 @@ class Dataset(BaseDataset):
         per_pl = collections.defaultdict(list)
         for vol in range(1, 7):
             print(vol)
-            if vol != 1:
+            if vol != 2:
                 continue
             t = self.raw_dir / 'vol{}'.format(vol) / 'text.txt'
             if not t.exists():
