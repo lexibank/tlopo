@@ -8643,11 +8643,11 @@ of Fiji (1994:112ff.). Feinberg writes (1988:92) that ‘Anutans have what might
 described as a rudimentary wind compass in that they know the prevailing winds at various
 seasons and use the same term for the wind coming from a particular direction and the
 name of the geographical bearing itself. However, the number of points is not great.’
-Feinberg in fact lists six: tokerau (NW) ruatū (NE), toŋa (E), tuauru (SE), raki (SW) and
-pakatiu (W). He reports that Firth gave a similar description for Tikopia wind points,
+Feinberg in fact lists six: _tokerau_ (NW) _ruatū_ (NE), _toŋa_ (E), _tuauru_ (SE), _raki_ (SW) and
+_pakatiu_ (W). He reports that Firth gave a similar description for Tikopia wind points,
 although the latter are rotated roughly 40° clockwise from the Anutan ones. Wayan Fijian
-distinguishes six wind directions/compass points: ðeva (S), tokalau (E), tokalau ðeva ðeva
-(SE), vualiku (N), vua i ata (also E), vua i rā (NW), and vua i roro (SW) (Andrew Pawley
+distinguishes six wind directions/compass points: _ðeva_ (S), _tokalau_ (E), _tokalau ðeva ðeva_
+(SE), _vualiku_ (N), _vua i ata_ (also E), _vua i rā_ (NW), and _vua i roro_ (SW) (Andrew Pawley
 pers. comm.). Lewis mentions a rare Western Oceanic example, from the Vitiaz Strait
 between New Guinea and New Britain, where a five-point wind compass from Siassi has
 been recorded (Lewis 1994:118–119, quoting from Chappell).
@@ -8658,7 +8658,7 @@ precise in the cartographer’s sense; they only must be good enough to enable h
 where he wants to go with some margin for error. Winds indicate approximate directions;
 star bearings are absolute.
 
-[19] pāfüs in the orthography used here.
+[19] _pāfüs_ in the orthography used here.
 
                                                                Navigation and the heavens           185
 
@@ -8666,8 +8666,8 @@ star bearings are absolute.
 6.6.3 The seascape
 
    In the area of sea signs, my hunt for terms has been much less successful than with
-heavenly bodies. There are a number of terms—for the sea itself, and for current, drift,
-wave and reef—which are not restricted to navigation, and which have been reconstructed
+heavenly bodies. There are a number of terms — for the sea itself, and for current, drift,
+wave and reef — which are not restricted to navigation, and which have been reconstructed
 in Chapter 4. A small group of terms may be considered as particularly significant to
 navigation. These are discussed below.
 
@@ -8685,9 +8685,9 @@ distinguish and then to compensate for when maintaining course. Any known sea ro
 be expected to have its own probable swell pattern, with individual swells likely to be
 given local names. Gladwin (1970:170) describes Puluwat as having three main swells,
 Big Wave, North Wave and South Wave. Lewis writes that in the Santa Cruz Group,
-(presumably Pileni), three swells are considered to be present all year round. They are hoa-
-hua-loa, the long swell from the southeast, hoa-hua-dela-tai, the sea swell from east
-northeast and hoa-hua-dela-hu from the northwest. Lewis suspects that these originate
+(presumably Pileni), three swells are considered to be present all year round. They are
+_hoa-hua-loa_, the long swell from the southeast, _hoa-hua-dela-tai_, the sea swell from east
+northeast and _hoa-hua-dela-hu_ from the northwest. Lewis suspects that these originate
 from the southeast trades, the northeast trades and the northwest monsoon respectively,
 and considers that this is a fairly general pattern in this segment of the Pacific. ‘Further
 eastward, but still south of the equator, we might expect the effects of the monsoon to be
@@ -8695,13 +8695,13 @@ lost, and, once clear of the big Melanesian islands, for the Southern Ocean swel
 unhindered up from the south. This indeed is the pattern in the Gilberts and Tonga, with
 their “great swells” from the east and south.’ (Lewis 1994:128).
 
-   We have two POc reconstructions, *bayau, which probably refers specifically to swells,
-and a second, *ŋalu(n), where there is some doubt as to whether the reference is to swells
+   We have two POc reconstructions, _*bayau_, which probably refers specifically to swells,
+and a second, _*ŋalu(n)_, where there is some doubt as to whether the reference is to swells
 or to ocean waves of all kinds. (For cognate sets see Ch.4, §2.4.)
 
-   Heyen (1962:67) lists a further two Kiribati terms, ao-meaŋ ‘the sea swell from the
-north’ and ao-maiaki ‘the sea swell from the south’. Feinberg (1988:114) lists terms from
-Tikopia—ŋaru fenua, and Anutan—ŋaru penua, which refer to swells which have been
+   Heyen (1962:67) lists a further two Kiribati terms, _ao-meaŋ_ ‘the sea swell from the
+north’ and _ao-maiaki_ ‘the sea swell from the south’. Feinberg (1988:114) lists terms from
+Tikopia — _ŋaru fenua_, and Anutan — _ŋaru penua_, which refer to swells which have been
 reflected back from a land mass, and thus serve as indicators that land is close.
 
 
@@ -8720,32 +8720,32 @@ flashes of light a metre or so below the surface, and is in constant motion.
 
 It is particularly marked on dark rainy nights, when it becomes the main direction finder.
 Lewis has recorded names for it in Pileni in the Reef Islands, in Tonga, and also in
-Micronesia, although the names are unrelated. In Pileni the term is lapa, a reflex of
-*lap(w)a(r,R) ‘lightning, phosphorescence’ (Ch.5, §5.4). In Tonga it is ulo ʔa e tahi,
-literally ‘flame of the sea’. In Kiribati it is called te mata, here in its sense of light or
+Micronesia, although the names are unrelated. In Pileni the term is _lapa_, a reflex of
+_*la(p,pʷ)a(r,R)_ ‘lightning, phosphorescence’ (Ch.5, §5.4). In Tonga it is _ulo ʔa e tahi_,
+literally ‘flame of the sea’. In Kiribati it is called _te mata_, here in its sense of light or
 something used to give light. The only other reference to it is a Marshallese term given by
-Lewis (1978:119) as drojet, which I cannot locate in the Marshallese dictionary although
-the second element -jet (-cet) is from *tasik ‘sea water’ (Ch.4, §2.1).
+Lewis (1978:119) as _drojet_, which I cannot locate in the Marshallese dictionary although
+the second element _-jet_ (_-cet_) is from _*tasik_ ‘sea water’ (Ch.4, §2.1).
 
 
 6.6.3.3 Reference islands
 
-   Lewis’s books make frequent reference to etak islands, used as ‘moving’ reference
+   Lewis’s books make frequent reference to _etak_ islands, used as ‘moving’ reference
 points by Puluwat navigators. A voyage is conceived of as being divided into stages or
 segments with reference to a sequence of islands lying away to one side of the course.
 Each island is in turn conceptualised as moving while the canoe’s position is held to be
-fixed relative to that of a given star with which each island is aligned. Etak refers both to
+fixed relative to that of a given star with which each island is aligned. _Etak_ refers both to
 the concept of dividing up the voyage in this way, and to the stages themselves.
 
-|      An etak is a variable distance ... [but] the etak island is generally so chosen as to
-|      make an etak segment somewhere around 20 miles. The first and last two etaks of a
-|      voyage are exceptions. These are the ‘etak of sighting’ and the ‘etak of birds’, and
+|      An _etak_ is a variable distance … [but] the _etak_ island is generally so chosen as to
+|      make an _etak_ segment somewhere around 20 miles. The first and last two _etaks_ of a
+|      voyage are exceptions. These are the ‘_etak_ of sighting’ and the ‘_etak_ of birds’, and
 |      both are absolute distances of 10 miles. (Lewis 1978:147)
 
 See also Gladwin (1970:181–186).
 
-   The only reference to etak as a concept is from the Carolines (etak in Puluwatese and
-Satawalese, hatag in Woleaian20). However, Lewis believes that the navigator Tevake,
+   The only reference to _etak_ as a concept is from the Carolines (_etak_ in Puluwatese and
+Satawalese, _hatag_ in Woleaian[20]). However, Lewis believes that the navigator Tevake,
 from the Polynesian outlier Pileni, must have used a similar system. He writes:
 
 |      His [Tevake’s] ability to point out the direction of invisible islands whenever he
@@ -8755,10 +8755,10 @@ from the Polynesian outlier Pileni, must have used a similar system. He writes:
 and again,
 
 |      One cannot say whether or not Tevake’s orientation concepts resemble the Carolinian
-|      one of etak. One can, however, be certain to this extent about the picture that his mind
+|      one of _etak_. One can, however, be certain to this extent about the picture that his mind
 |      composed of the changing relationships of islands 50 and 100 miles from his course.
 |      This was of a similar order of accuracy and enabled him to point out the direction of
-|      invisible islands, in the same manner as the etak system. (Lewis 1994:171)
+|      invisible islands, in the same manner as the _etak_ system. (Lewis 1994:171)
 
 I have not been able to trace the term elsewhere.
 
@@ -8767,7 +8767,7 @@ I have not been able to trace the term elsewhere.
 
    Lewis (1994:291) writes that:
 
-|      The term ‘sea mark’ (betia) is a Gilbertese one, but the conception is not unique to
+|      The term ‘sea mark’ (_betia_) is a Gilbertese one, but the conception is not unique to
 |      that archipelago or to Micronesia. Carolinian navigators, for instance, learn sequences
 |      of what they call ‘sea-life’. These, much more frequently than their Gilbertese
 |      counterparts, are transitory phenomena such as sightings of certain fish, and the like.
@@ -8786,7 +8786,7 @@ Lewis then includes a quote from Grimble:
 |      scattered over the sea from Makin to Samoa far to the westward of the land. This is
 |      probably quite true, the rubbish being carried by some current.
 
-   Betia is a reflex of a Proto Micronesian term *peti (N,V) ‘float’. I have no record of any
+   _Betia_ is a reflex of a Proto Micronesian term _*peti_ (N,V) ‘float’. I have no record of any
 term for sea marks outside the Gilberts.
 
 
@@ -8843,9 +8843,9 @@ is a small group of high islands situated south of the Trobriands.
 |      techniques of the Amphlett Islands, as well as those of their neighbours in the
 |      northern Massim, can probably be explained by the character of the voyages made in
 |      the area. The voyages are all short [no more than 75 km]. Land, except during bad
-|      weather, is always visible. ... And the island targets are all large.
+|      weather, is always visible. … And the island targets are all large.
 
-   Lewis (1994:126, 134) interviewed two men in 1966 who had participated in the hiri
+   Lewis (1994:126, 134) interviewed two men in 1966 who had participated in the _hiri_
 trading voyages of the Motu people across the Gulf of Papua and reported using the deep
 ocean swells and star paths to guide their vessel. No terms were recorded.
 
@@ -8853,7 +8853,7 @@ ocean swells and star paths to guide their vessel. No terms were recorded.
 people in the northwest Solomons.
 
 |      The people of the North Bougainville coast are not great sailors, and seldom venture
-|      on trips more than a few miles from the shore. Those of Buka ... are more
+|      on trips more than a few miles from the shore. Those of Buka … are more
 |      venturesome, and go, on occasion, as far as the island of Nissan, a trip involving little
 |      short of a hundred miles, mostly of open and sometimes stormy sea, to buy the pigs
 |      for which Nissan is famous.
@@ -8914,10 +8914,7 @@ Pointers             …                                  …                   
 Aldebaran            …                                 *u(C)unu                  …
 Polaris              …                                 PChk *fitū mwakut         …
 Altair               …                                 PChk *mai-lapa            …
-                                                                                         continued over …
-190       Meredith Osmond
-
-
+---
 Term                     POc                         PMic                        PPn
 Antares                  …                          *(d,z)umuri                  …
                          …                          …                            PNPn *mele-mele
@@ -8958,11 +8955,11 @@ current                  *qaRus                     *aus                        
 reef                     *sakaRu                    *sakau ‘reef, shoal,         *hakau ‘coral reef’
                                                     reef island’
 
-   From the table, it can be seen that *manuk ‘bird’ and *tolu ‘three’ for Orion’s Belt, are
+   From the table, it can be seen that _*manuk_ ‘bird’ and _*tolu_ ‘three’ for Orion’s Belt, are
 the only star reconstructions with reflexes in both Polynesian and Micronesian languages.
 Success in reconstructing non-western constellation names has been almost entirely limited
-to Micronesia, with its descriptive names like PMic *kua ‘Dolphin constellation’, PMic
-*tapia ‘Bowl constellation’ and PChk *caw ‘Dip net constellation’. This may simply
+to Micronesia, with its descriptive names like PMic _*kua_ ‘Dolphin constellation’, PMic
+_*tapia_ ‘Bowl constellation’ and PChk _*caw_ ‘Dip net constellation’. This may simply
 reflect the adequacy of our sources, with more star terms being included in Micronesian
 dictionaries than Polynesian, perhaps because the terms have been retained more recently
 in Micronesian memory. Makemson, my most consistently useful source for Polynesian
@@ -9033,7 +9030,7 @@ these shared techniques evolved from a common knowledge base at the POc stage.
    However, it seems that gains have been made in another, unexpected, direction. At least
 in the subgroups for which we have most data, that is, in the Southeast Solomonic,
 Polynesian and Micronesian, the data are unusual in that the terms for what we might
-describe as cosmic features—heavenly bodies, the horizon, the solstices and the like—are
+describe as cosmic features — heavenly bodies, the horizon, the solstices and the like — are
 not arbitrary names. They are overwhelmingly descriptive terms, transparent compounds
 that (a) reflect some specific function or aspect of the feature, whether they be calendar or
 navigation stars, or (b) that underpin their role in creation mythology. The Oceanic
@@ -9059,8 +9056,8 @@ properties of animates that are not made in European languages, and vice versa. 
 Oceanic languages there are distinct words for ‘old’ as applied to inanimate objects and
 ‘old’ as applied to human beings, and different temperature terms for the physical
 environment and for the human body. This appears to have been true in POc as well, where
-*[ma]tuqa ‘ripe, mature, adult, old’ was used of animates and POc *tuqaRi ‘long ago, old’
-and *rapu-ka ‘old’ of inanimates.
+_*[ma]tuqa_ ‘ripe, mature, adult, old’ was used of animates and POc _*tuqaRi_ ‘long ago, old’
+and _*rapu-ka_ ‘old’ of inanimates.
 
     Property words in European languages are typically adjectives. It is fairly certain,
 however, that POc did not have a separate adjective word class. Instead, it had a small
@@ -9109,8 +9106,8 @@ __ol__
          f. wetness and dryness: e.g. ‘wet’, ‘dry’
 
 This categorisation is somewhat ad hoc, but, other than colours, its terms situate the object
-they describe relative to ‘a contextually determined standard of evaluation’ (Croft
-1990:260). These standards of evaluation are the basic human standards of dimension, age
+they describe relative to ‘a contextually determined standard of evaluation’ (Croft 1990:260).
+These standards of evaluation are the basic human standards of dimension, age
 and so on. I add distance to Dixon’s dimension category, as terms for ‘near’ and ‘far’
 overlap with dimension terms in Oceanic languages.
 
@@ -9127,12 +9124,6 @@ in terms of its meanings rather than in terms of its grammatical behaviour. In l
 Type A, there is an adjective class, i.e. a class of property terms whose grammatical
 behaviour is distinct from nouns or verbs. In languages of Type B, there is no such class.
 In languages of Type C, there is a closed class of property terms. Dixon does not discuss
-
-[2] These include natural states, e.g. ‘raw’/‘unripe’ (vol. 1, p.155), ‘ripe’ (vol. 1, p.157), ‘rotten’, and physical
-  conditions of animate beings: (e.g. ‘alive’, ‘dead’, ‘healthy’, ‘sick’, ‘hungry’, ‘thirsty’).
-
-                                                      Properties of inanimate objects   195
-
 their grammatical behaviour in depth, and one can envisage several subtypes of Type C,
 depending on (i) whether the members of the closed class are adjectives (i.e. behave
 differently from nouns and verbs) or form a subclass of nouns or verbs, and (ii) whether
@@ -9140,6 +9131,12 @@ the one or more open classes are subclasses of nouns and/or verbs. He indicates,
 that the closed class is more likely to grammatically resemble nouns than verbs (1982:56).
 As I indicated above, POc was evidently a Type C language where the closed class was
 indeed a subclass of noun, the open class a subclass of verb.
+
+[2] These include natural states, e.g. ‘raw’/‘unripe’ (vol. 1, p.155), ‘ripe’ (vol. 1, p.157), ‘rotten’, and physical
+  conditions of animate beings: (e.g. ‘alive’, ‘dead’, ‘healthy’, ‘sick’, ‘hungry’, ‘thirsty’).
+
+                                                      Properties of inanimate objects   195
+
 
    One of Dixon’s central findings is that in a Type C language, the members of the closed
 class usually belong to the semantic domains of dimension, age, colour and value.
@@ -9161,14 +9158,26 @@ which a probably exhaustive list of underived members is available. The meanings
 represented in these small classes are listed below, together with the number of languages
 in whose small class each meaning is represented:
 
-__pre__
-  dimension               age              value                   strength/toughness
-  ‘big’        17         ‘new’ 9          ‘good’         5        ‘hard, strong’ 1
-  ‘small’      16         ‘old’ 6          ‘bad’          4        ‘soft’         1
-  ‘long, tall’ 6          ‘ripe’ 1         ‘true, real’   2
-  ‘short’       4                          ‘beautiful’    1
+__ul__
+__dimension__
+  ‘big’        17
+  ‘small’      16
+  ‘long, tall’ 6
+  ‘short’       4
   ‘thin’        1
   ‘far’         1
+__age__
+  ‘new’ 9
+  ‘old’ 6
+  ‘ripe’ 1
+__value__
+  ‘good’         5
+  ‘bad’          4
+  ‘true, real’   2
+  ‘beautiful’    1
+__strength/toughness__
+   ‘hard, strong’ 1
+   ‘soft’         1
 
 Except for one language (Sye) in which terms denoting strength/toughness belong to the
 small class, these meanings all fall into the domains of dimension, age and value.
@@ -9202,15 +9211,15 @@ __pre__
 196     Malcolm Ross
 
 Although the same meanings occur in the small class across a number of languages, only
-for one of these, ‘new’, reflecting POc *paqoRu (p.209), are the majority of the items
+for one of these, ‘new’, reflecting POc _*paqoRu_ (p.209), are the majority of the items
 cognate with each other. This means that the other meanings listed above, including ‘big’
 and ‘small’, have remained in the small class in most of these languages, but that lexical
 replacement has occurred.
 
     The practical consequence of these observations is that, among underived property
-terms, only POc *paqoRu ‘new’ can be assigned to the class of adjectival nouns on the
-basis of this list. However, there is morphological evidence, noted below, that POc *lapuat
-‘big’ (p.197), *qitik/*qitek ‘small’ and POc *riki(t,q)/*ri-riki(t,q) ‘small’ (p.200) were also
+terms, only POc _*paqoRu_ ‘new’ can be assigned to the class of adjectival nouns on the
+basis of this list. However, there is morphological evidence, noted below, that POc _*lapuat_
+‘big’ (p.197),_ *qitik_/_*qitek_ ‘small’ and POc _*riki(t,q)_/_*ri-riki(t,q)_ ‘small’ (p.200) were also
 adjectival nouns.
 
     With other underived items, we encounter the problem noted in volume 1, p.35: it is
@@ -9219,40 +9228,41 @@ situation is not all gloom in this regard. One indicator of the class of a prope
 derivational morphology.
 
     Two morphemes occurred with some frequency in the derivation of these words, and
-others more rarely. The suffix *-ka derived adjectival nouns, whilst the prefix *ma-
+others more rarely. The suffix _*-ka_ derived adjectival nouns, whilst the prefix _*ma-_
 occurred in adjectival verbs. There is an important difference in the statuses of these
-affixes in POc, however. POc *-ka was apparently a productive suffix (Ross 2000; see
-below, for example *[tubu]tubu[-ka] ‘thick’ (p.208); *rapu-ka ‘old’ (p.211); *keja-ka
-‘green’ (p.217)). PMP *ma- was a prefix that derived stative verbs, often from abstract
-nouns, and occurred as a fossil in a number of POc adjectival verb forms (Evans & Ross
-2001),[3] for example, POc *mataq ‘raw’ (vol. 1, p.155), *maosak ‘ready to be eaten’
-(vol. 1, p.157), *maqasin ‘be salty’ (vol. 1, p.159, this volume Ch. 3, §7.8, and several
-below). In a good many cases, forms with and without *ma- are reconstructable in POc,
-with no obvious difference in meaning (e.g. *[ma]lago ‘long, tall’ (p.204); *[ma]lawa
-‘long, tall, far away’ (p.204); *[ma]tuqa ‘ripe, mature, adult, old’ (p.211)).[4]
+affixes in POc, however. POc _*-ka_ was apparently a productive suffix (Ross 2000; see
+below, for example _*[tubu]tubu[-ka]_ ‘thick’ (p.208); _*rapu-ka_ ‘old’ (p.211); _*keja-ka_
+‘green’ (p.217)). PMP _*ma-_ was a prefix that derived stative verbs, often from abstract
+nouns, and occurred as a fossil in a number of POc adjectival verb forms (Evans & Ross 2001),[3]
+for example, POc _*mataq_ ‘raw’ (vol. 1, p.155), _*maosak_ ‘ready to be eaten’
+(vol. 1, p.157), _*maqasin_ ‘be salty’ (vol. 1, p.159, this volume Ch. 3, §7.8, and several
+below). In a good many cases, forms with and without _*ma-_ are reconstructable in POc,
+with no obvious difference in meaning (e.g. _*[ma]lago_ ‘long, tall’ (p.204); _*[ma]lawa_
+‘long, tall, far away’ (p.204); _*[ma]tuqa_ ‘ripe, mature, adult, old’ (p.211)).[4]
 
-    More rarely occurring derivational morphemes are POc *ka-, a fossilised alternant of
-*ma-,[5] (Huang 2000, Zeitoun & Huang 2000); *pa- and *paka-, the productive POc
-causative prefixes (vol. 1, pp.26–27), which were also used to form adverbs; and POc *ta-,
+    More rarely occurring derivational morphemes are POc _*ka-_, a fossilised alternant of
+_*ma-_,[5] (Huang 2000, Zeitoun & Huang 2000); _*pa-_ and _*paka-_, the productive POc
+causative prefixes (vol. 1, pp.26–27), which were also used to form adverbs; and POc _*ta-_,
 which was productive and derived agentless statives from dynamic transitive verbs.
 
 
-[3] The story of *ma- in Evans and Ross (2001) is better founded than that in vol. 1, p.25.
+[3] The story of _*ma-_ in Evans and Ross (2001) is better founded than that in vol. 1, p.25.
 
 [4] This circumstance is discussed at length by Evans and Ross (2001).
 
-[5] At a very early period (PAn/PMP), *ka- was a morpheme that derived statives, whilst *ma- was the
-  corresponding finite form (from *‹um› + *ka-; with regard to *‹um› see vol. 1, p.29). Thus Huang
-  (2000:378) shows that in Mayrinax Atayal (Formosan) statives that take ma- in their declarative
-  affirmative form take *ka- in their negative form. Zeitoun and Huang (2000) show that in Pazeh, ma-
-  statives have ka- in the irrealis (p.402), the imperative (p.406), and in non-‘actor’ focus forms of statives,
-  e.g. ka-kelem-an ‘be oversalted (of cooked food)’ vs ma-kelem ‘be salty’ (p.407).
+[5] At a very early period (PAn/PMP), _*ka-_ was a morpheme that derived statives, whilst _*ma-_ was the
+  corresponding finite form (from _*‹um›_ + _*ka-_; with regard to _*‹um›_ see vol. 1, p.29). Thus Huang
+  (2000:378) shows that in Mayrinax Atayal (Formosan) statives that take _ma-_ in their declarative
+  affirmative form take _*ka-_ in their negative form. Zeitoun and Huang (2000) show that in Pazeh, _ma-_
+  statives have _ka-_ in the irrealis (p.402), the imperative (p.406), and in non-‘actor’ focus forms of statives,
+  e.g. _ka-kelem-an_ ‘be oversalted (of cooked food)’ vs _ma-kelem_ ‘be salty’ (p.407).
 
                                                              Properties of inanimate objects        197
 
    The remainder of this chapter is concerned with reconstructed forms for POc property
 terms. In all domains except colour, property terms tend to fall into antonym pairs, and are
 presented here in these pairs wherever appropriate.
+
 
 7.2 Dimension and distance
 
@@ -9261,38 +9271,38 @@ presented here in these pairs wherever appropriate.
    It was noted above that lexical replacement of terms for ‘big’ and ‘small’ is common,
 whilst ‘new’ has tended to remain constant since POc times. A moment’s reflection shows
 that this is also true in English, apparently because people tend to exaggerate size and to
-play word games with the terms for it. As well as big we find large, great, huge, gigantic,
-enormous, immense, colossal, mammoth, massive, prodigious and more recently
-ginormous and humungous. However, what seem to have been the basic POc terms are
-reconstructable. They are *lapuat ‘big, large, important’, *qitik, *qitek ‘small’ and
-*riki(t,q) ‘small’, and the circumstantial evidence presented above suggests that they were
-adjectival nouns. This inference is moderately supported in the case of *lapuat by the
-presence of two reflexes of the reduplicated intensified form *lap(u)-lapuat (Tigak lap-
-lavu, Marshallese lɯap-lɯap) and one of a reduplicated plural form *la-lapuat
-(Marshallese lɯ-lɯap). Both reduplication strategies characterised adjectival nouns in POc
+play word games with the terms for it. As well as _big_ we find _large_, _great_, _huge_, _gigantic_,
+_enormous_, _immense_, _colossal_, _mammoth_, _massive_, _prodigious_ and more recently
+_ginormous_ and _humungous_. However, what seem to have been the basic POc terms are
+reconstructable. They are _*lapuat_ ‘big, large, important’, _*qitik_, _*qitek_ ‘small’ and
+_*riki(t,q)_ ‘small’, and the circumstantial evidence presented above suggests that they were
+adjectival nouns. This inference is moderately supported in the case of _*lapuat_ by the
+presence of two reflexes of the reduplicated intensified form _*lap(u)-lapuat_ (Tigak
+_lap-lavu_, Marshallese _lɯap-lɯap_) and one of a reduplicated plural form _*la-lapuat_
+(Marshallese _lɯ-lɯap_). Both reduplication strategies characterised adjectival nouns in POc
 (Ross 1998a).
 
-    Elsewhere I have reconstructed the term for ‘big’ as *labwat (Ross 1998a:109), as the
-medial consonant in many of the forms below seems to reflect either *b or *bw. The Loniu
-and SV forms offer apparent disambiguation in favour of *bw. Whilst *labwat must have
+    Elsewhere I have reconstructed the term for ‘big’ as *labʷat (Ross 1998a:109), as the
+medial consonant in many of the forms below seems to reflect either _*b_ or _*bʷ_. The Loniu
+and SV forms offer apparent disambiguation in favour of _*bʷ_. Whilst _*labʷat_ must have
 occurred in the history of many of the forms below, it is not reflected by the Roviana,
-Hoava, SES, Mota or Raga forms, where the medial consonant appears to reflect *p The
-form *lapuat accounts for apparent reflexes of both *-bw- and *-p-. The forms which
-appear to reflect *-p- do just that. Moreover, Tigak lavu, West Kara labu, Raga lavoa and
-Bauan levu directly reflect medial *-pu-.[6] The forms which appear to reflect *-bw- also do
-just that, but this *-bw- reflects a later interstage: POc medial *-pua- became first *-pwa-,
-then *-bwa-.
+Hoava, SES, Mota or Raga forms, where the medial consonant appears to reflect _*p_ The
+form _*lapuat_ accounts for apparent reflexes of both _*-bʷ-_ and _*-p-_. The forms which
+appear to reflect _*-p-_ do just that. Moreover, Tigak _lavu_, West Kara _labu_, Raga _lavoa_ and
+Bauan levu directly reflect medial _*-pu-_.[6] The forms which appear to reflect _*-bʷ-_ also do
+just that, but this _*-bʷ-_ reflects a later interstage: POc medial _*-pua-_ became first _*-pʷa-_,
+then _*-bʷa-_.
 
-[6] For Tigak and W. Kara the interstages *-pwu-, then *-bu- must be posited. For Bauan, where we find levu
-  for expected **lavua, we must infer irregular raising of *-a- to -e- and loss of later final *-a.
+[6] For Tigak and W. Kara the interstages _*-pʷu-_, then _*-bu-_ must be posited. For Bauan, where we find levu
+  for expected _**lavua_, we must infer irregular raising of _*-a-_ to _-e-_ and loss of later final _*-a_.
 
     The sound changes in the paragraph above remain tentative, as there are few cases to
 compare this cognate set with. However, the least obvious step proposed above is that
-*-bwa- developed from *-pwa-, and there is reasonably good evidence for the step from *pw
-to *bw (vol. 1, p.16).
+_*-bʷa-_ developed from _*-pʷa-_, and there is reasonably good evidence for the step from _*pʷ_
+to _*bʷ_ (vol. 1, p.16).
 
     The Mapos Buang and Mumeng Patep forms may be non-cognate, as their final -k
-reflects POc *-R, *-k or *-q.
+reflects POc _*-R_, _*-k_ or _*-q_.
 
 <
 POc *lapuat ‘big, important’ (Lichtenberk 1986:350: *la(m)pat ‘(be) big, great’)
@@ -9300,61 +9310,62 @@ POc *lapuat ‘big, important’ (Lichtenberk 1986:350: *la(m)pat ‘(be) big, g
  Adm: Loniu               lapʷa(na-n)        ‘big, important’
  Adm: Koro                laba-n             ‘chieftain’
  Adm: Mussau              (kula)laba         ‘big, important’
- NNG: Manam                     laba                   ‘big, wide’
- NNG: Manam                     labata-                ‘width’
- NNG:     Terebu                labi                   ‘big, important’
- NNG:     Kairiru               (wo)lab                ‘big, important’
- NNG:     Ulau-Suain            laba                   ‘big, important’
- MM:      Lavongai              lava                   ‘big, important’
- MM:      Tigak                 lavu                   ‘big, important’
- MM:      Tigak                 lap-lavu               ‘very big’
- MM:      Kara (West)           labu                   ‘big, important’
- MM:      Nalik                 laba                   ‘big, important’
- MM:      Roviana               lavata                 ‘great’
- MM:      Hoava                 lavati                 ‘be big’
- SES:     Talise                lava                   ‘big, important’
- SES:     Lau                   (a)lafa                ‘chieftain’
- SES:     Arosi                 (a)laha                ‘chieftain’
- SES:     Sa’a                  raha                   ‘big, important’
- NCV:     Mota                  lava                   ‘big, important’
- NCV:     Raga                  lavoa                  ‘big, important’
- NCV:     Lewo                  lapa                   ‘fat’
- NCV:     Nguna                 lapa                   ‘big, important’
- SV:      Lenakel               ipwər [7]                 ‘big, important’
- SV:      N Tanna               empwət                 ‘big, important’
- SV:      Whitesands            epwət                  ‘big, important’
- SV:      Anejom                (a)lpwas               ‘big, important’
- Mic:     Marshallese           lɯap                   ‘great, large’
- Mic:     Marshallese           lɯ-lɯap                ‘great, large (PL)’
- Mic:     Marshallese           lɯap-lɯap              ‘very great, very large’
- Mic: Woleaian                  rap                    ‘big, important’
- Fij:      Bauan                levu                   ‘big, important’
+ NNG: Manam               laba               ‘big, wide’
+ NNG: Manam               labata-            ‘width’
+ NNG: Terebu              labi               ‘big, important’
+ NNG: Kairiru             (wo)lab            ‘big, important’
+ NNG: Ulau-Suain          laba               ‘big, important’
+ MM:  Lavongai            lava               ‘big, important’
+ MM:  Tigak               lavu               ‘big, important’
+ MM:  Tigak               lap-lavu           ‘very big’
+ MM:  Kara (West)         labu               ‘big, important’
+ MM:  Nalik               laba               ‘big, important’
+ MM:  Roviana             lavata             ‘great’
+ MM:  Hoava               lavati             ‘be big’
+ SES: Talise              lava               ‘big, important’
+ SES: Lau                 (a)lafa            ‘chieftain’
+ SES: Arosi               (a)laha            ‘chieftain’
+ SES: Sa’a                raha               ‘big, important’
+ NCV: Mota                lava               ‘big, important’
+ NCV: Raga                lavoa              ‘big, important’
+ NCV: Lewo                lapa               ‘fat’
+ NCV: Nguna               lapa               ‘big, important’
+ SV:  Lenakel             ipwər [7]          ‘big, important’
+ SV:  N Tanna             empwət             ‘big, important’
+ SV:  Whitesands          epwət              ‘big, important’
+ SV:  Anejom              (a)lpwas           ‘big, important’
+ Mic: Marshallese         lɯap               ‘great, large’
+ Mic: Marshallese         lɯ-lɯap            ‘great, large (PL)’
+ Mic: Marshallese         lɯap-lɯap          ‘very great, very large’
+ Mic: Woleaian            rap                ‘big, important’
+ Fij: Bauan               levu               ‘big, important’
  cf. also:
- NNG: Mapos Buang               levk                   ‘big, important’
- NNG: Patep                     lɛvak                  ‘big, important’
+ NNG: Mapos Buang         levk               ‘big, important’
+ NNG: Patep               lɛvak              ‘big, important’
 >
 
-[7] John Lynch (pers. comm.) points out that the initial i- of Lenakel ipwər is the regular reflex of POc *l-,
-  whilst the initial e- of N. Tanna empwət and Whitesands epwət reflects a sequence of accreted *a- (cf.
-  Anejom a- in (a)lpwas) and *-i- reflecting POc *l-.
+[7] John Lynch (pers. comm.) points out that the initial _i-_ of Lenakel _ipʷər_ is the regular reflex of POc _*l-_,
+  whilst the initial _e-_ of N. Tanna _empʷət_ and Whitesands _epʷət_ reflects a sequence of accreted _*a-_ (cf.
+  Anejom _a-_ in _(a)lpʷas_) and _*-i-_ reflecting POc _*l-_.
 
 198    Malcolm Ross
 
 
-   Inherited POc terms for ‘small’ were *qitik, with a variant *qitek, and *riki(t,q)/*ri-
-riki(t,q). There is reasonable evidence in the cognate set below that POc *ri-riki(t,q) was a
-plural form. Since reduplication of the kind reflected in POc *ri-riki(t,q) was one of the
+   Inherited POc terms for ‘small’ were _*qitik_, with a variant _*qitek_, and
+_*riki(t,q)_/_*ri-riki(t,q)_. There is reasonable evidence in the cognate set below that POc
+_*ri-riki(t,q)_ was a
+plural form. Since reduplication of the kind reflected in POc _*ri-riki(t,q)_ was one of the
 ways in which POc plural adjectival nouns were marked (Ross 1998a),we can infer that
-POc *riki(t,q) was singular. In a number of languages which reflect *ri-riki(t,q), however,
+POc _*riki(t,q)_ was singular. In a number of languages which reflect _*ri-riki(t,q)_, however,
 there is a suppletive singular form (another indicator that this was an adjectival noun, not
 an adjectival verb; Ross 1998a).
 
                                                           Properties of inanimate objects      199
 
-   In Proto Polynesian, *riki (reflecting POc *riki(t,q)) had become plural, contrasting
-with PPn *qiti ‘small (SG)’ (from POc *qitik), but there is no evidence that this had
+   In Proto Polynesian, _*riki_ (reflecting POc _*riki(t,q)_) had become plural, contrasting
+with PPn _*qiti_ ‘small (SG)’ (from POc _*qitik_), but there is no evidence that this had
 occurred at an earlier interstage. This contrast is reflected in the following compounds,
-which reflect PPn *tama ‘child’ (from POc *tama- ‘father’):
+which reflect PPn _*tama_ ‘child’ (from POc _*tama-_ ‘father’):
 
 __pre__
       PPn                      *tama-qiti                 *tama-riki
@@ -9367,49 +9378,49 @@ __pre__
       Rarorongan               tama-iti                   tama-riki
       Maori                    tama-iti                   tama-riki
 
-[8] Tongan and E. Uvean -siʔi would reflect apparent PPn *tiqi, and are therefore perhaps metathesised
-  reflexes of PPn *qiti.
+[8] Tongan and E. Uvean _-siʔi_ would reflect apparent PPn _*tiqi_, and are therefore perhaps metathesised
+  reflexes of PPn _*qiti_.
 
-The reconstruction of PPn *riki is complicated by the fact that Tongan has two forms: iki,
-reflecting *riki, and liki, which occurs only in compounds. The latter may be a borrowing.
-On the other hand, it may reflect the separately reconstructable form POc *liki (see below).
+The reconstruction of PPn _*riki_ is complicated by the fact that Tongan has two forms: _iki_,
+reflecting _*riki_, and _liki_, which occurs only in compounds. The latter may be a borrowing.
+On the other hand, it may reflect the separately reconstructable form POc _*liki_ (see below).
 If it does, then we are left with the possibility that some of the Polynesian forms here
-attributed to POc *riki(t,q) instead reflect POc *liki, as POc *r and *l have merged in all
+attributed to POc _*riki(t,q)_ instead reflect POc _*liki_, as POc _*r_ and _*l_ have merged in all
 Polynesian languages other than Tongan and Niuean.
 
-    Also apparently reconstructable are *drik(i), *liki, *siki and *kiki. Despite their
+    Also apparently reconstructable are _*drik(i)_, _*liki_, _*siki_ and _*kiki_. Despite their
 similarity, there is no point in trying to derive these from each other. Rather, the human
 affection for small creatures, and prototypically for babies, has resulted in the same kind of
-word play among Oceanic speakers as we hear in English tiny, teeny, teeny-weeny and wee.
+word play among Oceanic speakers as we hear in English _tiny_, _teeny_, _teeny-weeny_ and _wee_.
 If we ignore the criteria for reconstructing POc items and look for further candidates for
-word-play, we find for example siʔi ‘small, younger’ in Tongan, sisi in Futuna-Aniwa
-(Polynesian), and a long list in Puluwatese: kitikit, iyekkit, kikkit, lekit, rik, rirrik, mettik,
-rarikrik. It may well be, for example, that the items listed under *kiki are not due to shared
+word-play, we find for example _siʔi_ ‘small, younger’ in Tongan, _sisi_ in Futuna-Aniwa
+(Polynesian), and a long list in Puluwatese: _kitikit_, _iyekkit_, _kikkit_, _lekit_, _rik_, _rirrik_, _mettik_,
+_rarikrik_. It may well be, for example, that the items listed under _*kiki_ are not due to shared
 inheritance but to independent parallel word play. It also seems, despite the doubts that
-have been expressed about this kind of sound symbolism (Hinton, Nichols & Ohala
-1994:4), that Oceanic speakers have a preference for the high front vowel in terms for
+have been expressed about this kind of sound symbolism (Hinton, Nichols & Ohala 1994:4),
+that Oceanic speakers have a preference for the high front vowel in terms for
 ‘little’, a phenomenon which is common in other areas of the world too (Ultan 1978).
 
 <
 PMP *qitik ‘small, little; few’ (Blust 1986; ACD)
 POc *qitik, *qitek ‘small’
- Yap: Yapese              ʔacīg
- NNG: Gitua               keteka
- NNG: Gedaged             kitik
- NNG: Bukawa              atiʔ
- NNG: Zenag               ktok
- MM: Roviana              ɣiteke
- MM: Zabana               te
- SES: Kwara’ae            tiʔ-tiʔ
- Mic: Carolinian          xit
- Pn:    Rapanui           ʔiti-ʔiti
- Pn:    Samoan            iti-iti
- Pn:      Rennellese       ʔiti-ʔiti      ‘be small, not much, nor many’
- Pn:      Hawaiian         iki
- Pn:      Tahitian         iti
- Pn:      Tuamotuan        iti
- Pn:      Rarotongan       iti
- Pn:      Maori            iti
+ Yap: Yapese           ʔacīg
+ NNG: Gitua            keteka
+ NNG: Gedaged          kitik
+ NNG: Bukawa           atiʔ
+ NNG: Zenag            ktok
+ MM:  Roviana          ɣiteke
+ MM:  Zabana           te
+ SES: Kwara’ae         tiʔ-tiʔ
+ Mic: Carolinian       xit
+ Pn:  Rapanui          ʔiti-ʔiti
+ Pn:  Samoan           iti-iti
+ Pn:  Rennellese       ʔiti-ʔiti      ‘be small, not much, nor many’
+ Pn:  Hawaiian         iki
+ Pn:  Tahitian         iti
+ Pn:  Tuamotuan        iti
+ Pn:  Rarotongan       iti
+ Pn:  Maori            iti
 >
 
 200    Malcolm Ross
@@ -9418,63 +9429,63 @@ POc *qitik, *qitek ‘small’
 PAn *diki[t,q] ‘little, few, small in amount’ (ACD)
 POc *riki(t,q) ‘small’
 POc *ri-riki(t,q) ‘small (PL)’
- MM: Bali                  (ma)ri-(ma)riki ‘small (PL)’ (cf. kakauku SG)
- NCV: Mota                 -rig              ‘small’
- NCV: Tamambo              (wa)ri-riɣi       ‘small (PL)’ (cf. vorivori SG)
- NCV: Raga                 -rigi             ‘small’
- Fij:   Rotuman            ri-riʔi           ‘small, young (PL)’ (cf. meʔa-meʔa SG)
- Pn:    Tongan             iki               ‘small’
- Pn:    Tongan             i-iki             ‘small (non-singular)’
- Pn:    Niuean             iki-iki           ‘small’
- Pn:    Tokelauan          liki              ‘small-sized’
- Pn:    Tuvalu             liki              ‘small (of person or chicken)’
- Pn:    Rennellese giki                     ‘small’
- Pn:    Tikopia            riki              ‘small’
- Pn:    Sikaiana           liki-liki         ‘small’
- Pn:    Sikaiana           li-liki           ‘small (PL)’
- Pn:    Hawaiian           liʔi              ‘small’
- Pn:    Tahitian           riʔi              ‘small (PL)’ (cf. iti SG)
- Pn:    Rarotongan         riki              ‘small’
- Pn:    Maori              riki              ‘small’
- Pn:    Maori              ri-riki           ‘small (PL)’
- Pn:    Tuamotuan          riki              ‘small’
- Pn:    Futuna-Aniwa rik-riki                ‘small (PL)’ (cf. sisi SG)
+ MM:  Bali               (ma)ri-(ma)riki   ‘small (PL)’ (cf. _kakauku_ SG)
+ NCV: Mota               -rig              ‘small’
+ NCV: Tamambo            (wa)ri-riɣi       ‘small (PL)’ (cf. _vorivori_ SG)
+ NCV: Raga               -rigi             ‘small’
+ Fij: Rotuman            ri-riʔi           ‘small, young (PL)’ (cf. _meʔa-meʔa_ SG)
+ Pn:  Tongan             iki               ‘small’
+ Pn:  Tongan             i-iki             ‘small (non-singular)’
+ Pn:  Niuean             iki-iki           ‘small’
+ Pn:  Tokelauan          liki              ‘small-sized’
+ Pn:  Tuvalu             liki              ‘small (of person or chicken)’
+ Pn:  Rennellese         giki              ‘small’
+ Pn:  Tikopia            riki              ‘small’
+ Pn:  Sikaiana           liki-liki         ‘small’
+ Pn:  Sikaiana           li-liki           ‘small (PL)’
+ Pn:  Hawaiian           liʔi              ‘small’
+ Pn:  Tahitian           riʔi              ‘small (PL)’ (cf. _iti_ SG)
+ Pn:  Rarotongan         riki              ‘small’
+ Pn:  Maori              riki              ‘small’
+ Pn:  Maori              ri-riki           ‘small (PL)’
+ Pn:  Tuamotuan          riki              ‘small’
+ Pn:  Futuna-Aniwa       rik-riki          ‘small (PL)’ (cf. _sisi_ SG)
 >
 
 <
 POc *drik(it,iq) ‘small’
- NNG: Amara               di-dik          ‘small’
- Mic: Kosraean            ṣik            ‘small’
- Mic: Carolinian          -ṣix           ‘small, little, weak (in compounds only)’
- Mic: Marshallese ṛik                    ‘lowly, small’
+ NNG: Amara               di-dik        ‘small’
+ Mic: Kosraean            ṣik           ‘small’
+ Mic: Carolinian          -ṣix          ‘small, little, weak (in compounds only)’
+ Mic: Marshallese         ṛik           ‘lowly, small’
  Mic: Marshallese         ṛ-ṛik         ‘lowly, small (PL)’
  Mic: Marshallese         ṛik-ṛik       ‘very lowly, very small’
- Mic: Puluwatese          ṛik            ‘be small (usually as a qualifier)’
- Mic: Puluwatese          ṛirrik         ‘small’
+ Mic: Puluwatese          ṛik           ‘be small (usually as a qualifier)’
+ Mic: Puluwatese          ṛirrik        ‘small’
 >
 
 <
 POc *liki ‘small’ (perhaps only in compounds)
- NNG: Arove             (tu)lik-lik     ‘small’
- MM: Lavongai           lik             ‘small’
- MM: Tigak              (lak)lik        ‘small’
- MM: Lihir              (ia)lik         ‘small’
- MM:     Madak             (kaka)lik       ‘small’
- MM:     Tolai             (iki)lik        ‘small’
- MM:     Minigir           (siki)liki      ‘small’
- MM:     Label             (si-sik)lik     ‘small’
- MM:     Label             (kak)lik        ‘boy’
- Pn:     Tongan            -liki           ‘small (in compounds only)’
- Pn:     Samoan            liʔi            ‘scattered in small fragments’
- Pn:     Ifira-Mele        -riki           ‘small’
- Pn:     Takuu             -riki           (diminutive)
+ NNG: Arove            (tu)lik-lik     ‘small’
+ MM: Lavongai          lik             ‘small’
+ MM: Tigak             (lak)lik        ‘small’
+ MM: Lihir             (ia)lik         ‘small’
+ MM: Madak             (kaka)lik       ‘small’
+ MM: Tolai             (iki)lik        ‘small’
+ MM: Minigir           (siki)liki      ‘small’
+ MM: Label             (si-sik)lik     ‘small’
+ MM: Label             (kak)lik        ‘boy’
+ Pn: Tongan            -liki           ‘small (in compounds only)’
+ Pn: Samoan            liʔi            ‘scattered in small fragments’
+ Pn: Ifira-Mele        -riki           ‘small’
+ Pn: Takuu             -riki           (diminutive)
 >
 
                                                        Properties of inanimate objects   201
 
 <
 POc *kiki ‘small’
- MM: Torau                 kiki-(na)
+ MM:  Torau                kiki-(na)
  SES: Gela                 kiki
  SES: Talise               ki-kiki
  SES: Longgu               kiki
@@ -9483,9 +9494,9 @@ POc *kiki ‘small’
 PWOc *siki ‘small’
  NNG: Adzera               (i)siʔ
  NNG: Manam                siʔi-siʔi
- MM: Minigir               siki(liki)
- MM: Label                 si-sik(lik)
- MM: Babatana              (va)siki
+ MM:  Minigir              siki(liki)
+ MM:  Label                si-sik(lik)
+ MM:  Babatana             (va)siki
 >
 
    There is good evidence that POc had at least two lexicalised possessee-like attribute
@@ -9501,12 +9512,12 @@ POc *tina-ña ‘her/his mother; big, biggest’
  NNG: Tami               tina-tin         ‘very big, monstrous’
  NNG: Malai              tina             ‘big’
  NNG: Takia              tinan            ‘huge’
- MM: Label               tna              ‘big’
+ MM:  Label              tna              ‘big’
  NCV: Fortsenal          tina-na          ‘mother, huge, large’
 POc *natu-ña ‘her/his child; small, smallest’
  Adm: Drehet             neci             ‘child; small, little’
  NNG: Dami               nālu             ‘small, little’
- MM: Patpatar            nat              ‘small’
+ MM:  Patpatar           nat              ‘small’
  MM: Tolai               nat              ‘small’
  NCV: Lewo               nari-            ‘child, smallest’
 >
@@ -9514,8 +9525,8 @@ POc *natu-ña ‘her/his child; small, smallest’
 202      Malcolm Ross
 
 
-These attributes turn up in odd lexicalised expressions, for example, Motu (PT) sina-vai
-‘river’ (literally ‘mother of waters’ (Ch. 3, §6.1)); Gedaged boi tinan ‘Morning Star’
+These attributes turn up in odd lexicalised expressions, for example, Motu (PT) _sina-vai_
+‘river’ (literally ‘mother of waters’ (Ch. 3, §6.1)); Gedaged _boi tinan_ ‘Morning Star’
 (literally ‘mother of stars’ (Ch. 6, §5.2.1)).
 
     The reconstructable POc possessive construction was probably as follows:[9]
@@ -9524,26 +9535,26 @@ These attributes turn up in odd lexicalised expressions, for example, Motu (PT) 
   possessor is non-specific; here the possessor is apparently specific.
 
 __pre__
-    *a     tina-ña         Rumaq
+    *a  tina-ña     Rumaq
     ART mother-P:3S house
     ‘a/the big house’ (more literally: ‘a/the mother of house(s)’)
 
 This seems to have remained a live metaphor for a long time (and is perhaps still alive in
-some Oceanic languages). Evidence for this is that where the reflex of *tina- or *natu- has
+some Oceanic languages). Evidence for this is that where the reflex of _*tina-_ or _*natu-_ has
 been replaced in a language, this construction often shares in the lexical replacement. Thus
-in Lewo (Early 1994a), the term for ‘little’/‘child’ still reflects *natu-ña, but the term for
+in Lewo (Early 1994a), the term for ‘little’/‘child’ still reflects _*natu-ña_, but the term for
 ‘very big’/‘mother’ has undergone lexical replacement:
-Lewo (NCV):
 
 __pre__
-a. nari-n         sisi
+Lewo (NCV):
+a. nari-n      sisi
    offspring-n child
    ‘a little kid’ (more literally ‘the offspring of children’)
-b. ane-n     laŋi
+b. ane-n    laŋi
    mother-n wind
    ‘an immensely powerful hurricane’ (more literally ‘the mother of winds’)
 
-Similarly in Tinrin (New Caledonia) hɯwɯ[n̡ã] is both ‘small’ and ‘child of, sprout of’.
+Similarly in Tinrin (New Caledonia) _hɯwɯ[n̡ã]_ is both ‘small’ and ‘child of, sprout of’.
 
    Matisoff (1992) has examined ‘mother of’ and ‘child of’ constructions which serve as
 augmentatives and diminutives in a range of Asian languages. Interestingly, whilst he
@@ -9562,69 +9573,69 @@ tall and long. Wide and narrow refer to the transverse dimension of a flat objec
 thin to the transverse dimension of an object which is not flat. Far and near(by) refer to
 distances, not to objects.
 
-    POc evidently made no horizontal/vertical distinction, so that *b(w)arapu, *[ma]lago
-and *[ma]lawa were used for ‘tall’ and ‘long’, and the two latter items evidently also for
-‘far’ (§2.2.1). There are fewer reflexes of *tuku and *botoŋ ‘short’, so it is harder to know
+    POc evidently made no horizontal/vertical distinction, so that _*b(w)arapu_, _*[ma]lago_
+and _*[ma]lawa_ were used for ‘tall’ and ‘long’, and the two latter items evidently also for
+‘far’ (§2.2.1). There are fewer reflexes of _*tuku_ and _*botoŋ_ ‘short’, so it is harder to know
 just how they were used (§2.2.2).
 
     On the surface there appear to have been no POc etyma with the basic meanings ‘wide’
-and ‘narrow’. However, it is just possible that *[ma]lawa simply denoted a large
+and ‘narrow’. However, it is just possible that _*[ma]lawa_ simply denoted a large
 dimension, regardless of whether it was longitudinal (‘long’) or transverse (‘wide’). The
+evidence for this is indirect. POc _*[ma]lawa_ ‘long, tall’ continues PMP _*lawa_, glossed
+‘wide’, but a number of non-Oceanic reflexes also mean long: Malagasy _lava_, Manggarai
+_lewe_, Ngadha _leva_, and Palue _lawa_ all mean ‘long’. Fordata _lawa_ is glossed ‘length’
+(ACD). It therefore seems likely that PMP _*lawa_ also meant ‘long’, and possible that POc
+_*[ma]lawa_ meant both ‘wide’ and ‘long’.
 
                                                         Properties of inanimate objects     203
 
-evidence for this is indirect. POc *[ma]lawa ‘long, tall’ continues PMP *lawa, glossed
-‘wide’, but a number of non-Oceanic reflexes also mean long: Malagasy lava, Manggarai
-lewe, Ngadha leva, and Palue lawa all mean ‘long’. Fordata lawa is glossed ‘length’
-(ACD). It therefore seems likely that PMP *lawa also meant ‘long’, and possible that POc
-*[ma]lawa meant both ‘wide’ and ‘long’.
 
-   In a number of daughter languages reflexes of POc *ta-pola(s) ‘spread out (as of a
-mat)’ (derivationally related to *polas-i- ‘spread (s.t.) out (VT)’; see p.208) are by
+   In a number of daughter languages reflexes of POc _*ta-pola(s)_ ‘spread out (as of a
+mat)’ (derivationally related to _*polas-i-_ ‘spread (s.t.) out (VT)’; see p.208) are by
 extension used to mean ‘wide’ (§2.2.4). In some Western Oceanic languages a reflex of
-*baban ‘flat; board, plank, canoe strake; flat shelf of rock’ is used for ‘wide’, but this is by
-extension from ‘flat’. Fijian raba ‘wide, broad’ reflects POc *raba(r), the basic meaning of
+_*baban_ ‘flat; board, plank, canoe strake; flat shelf of rock’ is used for ‘wide’, but this is by
+extension from ‘flat’. Fijian _raba_ ‘wide, broad’ reflects POc _*raba(r)_, the basic meaning of
 which was also ‘flat, level’. Terms for ‘flat’ are covered in §5.1. No POc term for ‘narrow’
 is reconstructable. Most modern languages use the terms for ‘big’ and ‘small’ with
 reference to the width of a path or a beach, and I infer that the same was true of POc.
 
-   POc terms for ‘thick’ were POc *ma-tolu, *kuba and *[tubu-]tubu(-ka), for ‘thin’
-*manipis and *ma-tipi(s) (§2.2.5).
+   POc terms for ‘thick’ were POc _*ma-tolu_, _*kuba_ and _*[tubu-]tubu(-ka)_, for ‘thin’
+_*manipis_ and _*ma-tipi(s)_ (§2.2.5).
 
 
 7.2.2.1 ‘tall’, ‘long’
 
-    Of the three terms for ‘tall’ and ‘long’, *b(w)arapu is underived and its Tamambo,
+    Of the three terms for ‘tall’ and ‘long’, _*(b,bʷ)arapu_ is underived and its Tamambo,
 Cèmuhî, and Bauan reflexes belong to the small closed adjectival class in their respective
-languages, so it is possible that *b(w)arapu belonged to the small class of adjectival nouns.
+languages, so it is possible that _*(b,bʷ)arapu_ belonged to the small class of adjectival nouns.
 
-    The other two terms, *[ma]lago and *[ma]lawa, clearly are derived. The final *-a of
-*[ma]lawa is reconstructed on the basis of the non-Oceanic evidence. A number of
+    The other two terms, _*[ma]lago_ and _*[ma]lawa_, clearly are derived. The final _*-a_ of
+_*[ma]lawa_ is reconstructed on the basis of the non-Oceanic evidence. A number of
 Western Oceanic languages (Lou, Titan, Nyindrou, Bing, Takia, Kayupulau, Gumawana,
-Torau) appear to reflect a final *-e. We can posit two possible sources of this, although
+Torau) appear to reflect a final _*-e_. We can posit two possible sources of this, although
 neither reflects a regular process. The first is that in many Western Oceanic languages, an
-adjective takes a reflex of the third person possessor suffix *-ña either by default or when
-it agrees with a singular head noun. The palatal nasal *-ñ- may have caused the *-a- of
-*[ma]lawa-ña to be raised to *-e- in *[ma]lawe-ña. This is a reasonable interpretation of
+adjective takes a reflex of the third person possessor suffix _*-ña_ either by default or when
+it agrees with a singular head noun. The palatal nasal _*-ñ-_ may have caused the _*-a-_ of
+_*[ma]lawa-ña_ to be raised to _*-e-_ in _*[ma]lawe-ña_. This is a reasonable interpretation of
 the Lou, Titan, Takia, Gumawana and Torau reflexes. Alternatively, in many Western
-Oceanic languages of the NNG and PT linkages, there is a locative postposition -i or -ai
-(relecting the POc locative proform *iai), and forms like Sio malawa-e and Bing malwe-i
-suggest that some instances of -e may reflect final *-a-i resulting from its capture.
+Oceanic languages of the NNG and PT linkages, there is a locative postposition _-i_ or _-ai_
+(relecting the POc locative proform _*iai_), and forms like Sio _malawa-e_ and Bing _malwe-i_
+suggest that some instances of _-e_ may reflect final _*-a-i_ resulting from its capture.
 
 <
-POc *b(w)arapu ‘long, tall’
- PT:    Kiriwina        -vanau              ‘long’
- MM: Kara (East)        vaiaf               ‘long’
- MM: Nalik              baraf               ‘long’
- MM: Siar               ba-baraf            ‘long’
- MM: Nehan              barah               ‘long’
- MM: Maringe            brahu               ‘long’
- SES: Bauro             borahu              ‘long’
- NCV: NE Ambae          gwaravu             ‘long’
- NCV: Tamambo           baravu              ‘long’
- SV:    Anejom          (o)pra              ‘long’
- NCal: Cèmuhî           pílɛh́ɛ̃́-          ‘tall, big, enormous; size’
- Fij:   Bauan           balavu              ‘long, tall’ (l for expected *r)
+POc *(b,bʷ)arapu ‘long, tall’
+ PT:   Kiriwina        -vanau           ‘long’
+ MM:   Kara (East)     vaiaf            ‘long’
+ MM:   Nalik           baraf            ‘long’
+ MM:   Siar            ba-baraf         ‘long’
+ MM:   Nehan           barah            ‘long’
+ MM:   Maringe         brahu            ‘long’
+ SES:  Bauro           borahu           ‘long’
+ NCV:  NE Ambae        gʷaravu          ‘long’
+ NCV:  Tamambo         baravu           ‘long’
+ SV:   Anejom          (o)pra           ‘long’
+ NCal: Cèmuhî          pílɛh́ɛ̃́-          ‘tall, big, enormous; size’
+ Fij:  Bauan           balavu           ‘long, tall’ (_l_ for expected _*r_)
 >
 
 204   Malcolm Ross
@@ -9644,39 +9655,39 @@ POc *[ma]lago ‘long, tall’
 <
 PMP *lawa ‘wide’ (ACD)
 POc *[ma]lawa ‘(?) long, tall, far away; wide’
- Adm: Lou              ɛlɛwɛ-n            ‘long, tall’
- Adm: Titan            aláwe-n            ‘long, tall’
- Adm: Nyindrou         lawe               ‘long, tall’
- NNG: Gitua            malawa             ‘long; far away’
- NNG: Malai            malau              ‘long; far away’
- NNG: Mangap           molo               ‘long, tall’
- NNG: Sio              malawa             ‘a long time’
- NNG: Sio              malawa(e)          ‘a long way’
- NNG: Bebeli           lo-loi             ‘long’
- NNG: Bing             malwe(i)           ‘long’
- NNG: Takia            milae-n            ‘long’
- NNG: Kairiru          milawo-ŋ           ‘long’
- SJ:   Kayupulau       marawe             ‘long’
- PT:   Gumawana        manawe-            ‘long’
- PT:   Mekeo           maeva              ‘long’
- MM: Nakanai           malau              ‘long’
- MM: Nalik             laua-lau           ‘far away’
- MM: Tolai             lo-lovi            ‘long’
- MM: Petats            ra-ro-n            ‘long’
- MM: Torau             marae-la           ‘long’
- SES: Kwaio            la-lau             ‘far’
- SV:   Ura             lau(pe)            ‘long, tall’
- SV:   Anejom          lau, laulau        ‘long (of time)’
- Pn:   Niuean          loa                ‘long, tall’
- Pn:   Samoan          loa                ‘be old, ancient; be a long time’
- Pn:   Maori           loa                ‘long, tall’
+ Adm: Lou             ɛlɛwɛ-n            ‘long, tall’
+ Adm: Titan           aláwe-n            ‘long, tall’
+ Adm: Nyindrou        lawe               ‘long, tall’
+ NNG: Gitua           malawa             ‘long; far away’
+ NNG: Malai           malau              ‘long; far away’
+ NNG: Mangap          molo               ‘long, tall’
+ NNG: Sio             malawa             ‘a long time’
+ NNG: Sio             malawa(e)          ‘a long way’
+ NNG: Bebeli          lo-loi             ‘long’
+ NNG: Bing            malwe(i)           ‘long’
+ NNG: Takia           milae-n            ‘long’
+ NNG: Kairiru         milawo-ŋ           ‘long’
+ SJ:  Kayupulau       marawe             ‘long’
+ PT:  Gumawana        manawe-            ‘long’
+ PT:  Mekeo           maeva              ‘long’
+ MM:  Nakanai         malau              ‘long’
+ MM:  Nalik           laua-lau           ‘far away’
+ MM:  Tolai           lo-lovi            ‘long’
+ MM:  Petats          ra-ro-n            ‘long’
+ MM:  Torau           marae-la           ‘long’
+ SES: Kwaio           la-lau             ‘far’
+ SV:  Ura             lau(pe)            ‘long, tall’
+ SV:  Anejom          lau, laulau        ‘long (of time)’
+ Pn:  Niuean          loa                ‘long, tall’
+ Pn:  Samoan          loa                ‘be old, ancient; be a long time’
+ Pn:  Maori           loa                ‘long, tall’
 >
 
 7.2.2.2 ‘short’
 
-   Two terms for ‘short’ are reconstructed. All the supporting data for *tuku are from
-Western Oceanic languages except for Mussau tuku. In the unlikely event that the latter
-were a borrowing, *tuku would then be of Proto Western Oceanic, rather than of POc,
+   Two terms for ‘short’ are reconstructed. All the supporting data for _*tuku_ are from
+Western Oceanic languages except for Mussau _tuku_. In the unlikely event that the latter
+were a borrowing, _*tuku_ would then be of Proto Western Oceanic, rather than of POc,
 vintage.
 
                                                     Properties of inanimate objects      205
@@ -9687,21 +9698,21 @@ POc *tuku ‘short’
  NNG: Mutu              tuku            ‘short’
  NNG: Bilibil           tu-tuk          ‘short’
  NNG: Manam             -tuku(ra)       ‘short’
- MM: Label              tuk             ‘short’
- MM: Babatana           tuko            ‘short’
+ MM:  Label             tuk             ‘short’
+ MM:  Babatana          tuko            ‘short’
 >
 
 <
 POc *botoŋ ‘short’
- MM: Bali               botoŋo          ‘short’
- MM: Meramera           boto            ‘short’
- MM: Tigak              poto            ‘short’
- SES: Arosi             pwa-pwatu       ‘short’
- Fij:   Wayan           boto            (postposed particle) ‘restrictive, only, just’
- Fij:   Rotuman         pofo            ‘tiny; lump, small projection’
- Pn:    Mele-Fila       pō-poto         ‘short’
- Pn:    Rapanui         poto-poto       ‘short’
- Pn:    Maori           poto            ‘short’
+ MM:  Bali            botoŋo          ‘short’
+ MM:  Meramera        boto            ‘short’
+ MM:  Tigak           poto            ‘short’
+ SES: Arosi           pwa-pwatu       ‘short’
+ Fij: Wayan           boto            (postposed particle) ‘restrictive, only, just’
+ Fij: Rotuman         pofo            ‘tiny; lump, small projection’
+ Pn:  Mele-Fila       pō-poto         ‘short’
+ Pn:  Rapanui         poto-poto       ‘short’
+ Pn:  Maori           poto            ‘short’
 >
 
 7.2.2.3 ‘far’/‘near’
@@ -9710,39 +9721,39 @@ POc *botoŋ ‘short’
 specific, so that instead of generic ‘far’ we get ‘beyond the horizon’ or ‘a long path’.
 Indeed, from the vantage point of a smaller island, ‘far away’ inevitably entails ‘beyond
 the horizon’. The hypothesis that ‘far away’ was sometimes replaced by ‘a long path’
-receives some support from the fact that reflexes of POc *[ma]lago ‘long, tall’ and POc
-*[ma]lawa ‘long, tall’ (p.204) are sometimes used in the sense of ‘far away’.
+receives some support from the fact that reflexes of POc _*[ma]lago_ ‘long, tall’ and POc
+_*[ma]lawa_ ‘long, tall’ (p.204) are sometimes used in the sense of ‘far away’.
 
-   A POc verbal root *sauq (V) ‘be far away’ is reconstructable.
+   A POc verbal root _*sauq_ (V) ‘be far away’ is reconstructable.
 
 <
 PMP *Zauq ‘far away’ (Dempwolff 1938)
 POc *sauq (V) ‘be far away’
 POc *sau-sauq (ADV) ‘far away’
- PT:    Tawala          dau             (V) ‘be far’
- PT:    Tawala          dau-dau-na      (ADJ) ‘far, long’
- PT:    Motu            dau-dau         (ADV) ‘far away’
- MM: Bali               zauku           ‘far away’
- MM: Vitu               ðau             ‘far away’
- MM: Roviana            seu             ‘far’
- MM: Hoava              seo             ‘far’
- SES: Gela              hau             ‘far’
- SES: Bugotu            hau             ‘far’
- SES: Talise            sau-na          ‘far’
- SES: Birao             sau             ‘far’
- SES: Longgu            tau             (V) ‘be far’
- SES:    Kwaio           tau              ‘far’
- SES:    Sa’a            tau              ‘far off, distant’
- NCV:    Raga            hau(tu)          (ADV) ‘far’
- NCV:    Paamese         sau(tin)         (ADV) ‘far’
- SV:     N Tanna         (i)sou           (ADV) ‘far’
- Mic:    Kiribati        rā-roa           (ADV) ‘far’
- Mic:    Ponapean        tō               (ADJ) ‘distant, far off’
- Mic:    Mokilese        tō               ‘far’
- Mic:    Chuukese        tōw              ‘far’
- Mic:    Carolinian      tāw              ‘far’
- Mic:    Woleaian        ttāw             (ADV) ‘far’
- Fij:    Rotuman         sou-sou          (ADV) ‘far’
+ PT:  Tawala          dau             (V) ‘be far’
+ PT:  Tawala          dau-dau-na      (ADJ) ‘far, long’
+ PT:  Motu            dau-dau         (ADV) ‘far away’
+ MM:  Bali            zauku           ‘far away’
+ MM:  Vitu            ðau             ‘far away’
+ MM:  Roviana         seu             ‘far’
+ MM:  Hoava           seo             ‘far’
+ SES: Gela            hau             ‘far’
+ SES: Bugotu          hau             ‘far’
+ SES: Talise          sau-na          ‘far’
+ SES: Birao           sau             ‘far’
+ SES: Longgu          tau             (V) ‘be far’
+ SES: Kwaio           tau             ‘far’
+ SES: Sa’a            tau             ‘far off, distant’
+ NCV: Raga            hau(tu)         (ADV) ‘far’
+ NCV: Paamese         sau(tin)        (ADV) ‘far’
+ SV:  N Tanna         (i)sou          (ADV) ‘far’
+ Mic: Kiribati        rā-roa          (ADV) ‘far’
+ Mic: Ponapean        tō              (ADJ) ‘distant, far off’
+ Mic: Mokilese        tō              ‘far’
+ Mic: Chuukese        tōw             ‘far’
+ Mic: Carolinian      tāw             ‘far’
+ Mic: Woleaian        ttāw            (ADV) ‘far’
+ Fij: Rotuman         sou-sou         (ADV) ‘far’
 >
 
 206   Malcolm Ross
@@ -9750,20 +9761,20 @@ POc *sau-sauq (ADV) ‘far away’
 <
 PMP *ma-Zauq ‘far away’ (Blust 1981b)
 POc *ma-sauq (V) ‘be far away’
- Adm: Mussau           masau         ‘far away’
+ Adm: Mussau          masau         ‘far away’
 PWOc *ka-sauq (V) ‘be far away’
- NNG: Takia           asau                (ADV, ADJ) ‘far away’
- NNG: Manam           kasau               (ADJ) ‘far away’
- NNG: Manam           kasau(ba)           (ADV) ‘far away’
- MM: Babatana         köu                 ‘far’
- MM: Sisiqa           kəu                 ‘far’
- MM: Nduke            (ɣa)sau             ‘far’
+ NNG: Takia           asau          (ADV, ADJ) ‘far away’
+ NNG: Manam           kasau         (ADJ) ‘far away’
+ NNG: Manam           kasau(ba)     (ADV) ‘far away’
+ MM:  Babatana        köu           ‘far’
+ MM:  Sisiqa          kəu           ‘far’
+ MM:  Nduke           (ɣa)sau       ‘far’
 >
 
-In Ysabel (MM) languages, POc *sauq is reflected with the reciprocal prefix *paRi-, as in
-Kia (vari)hau ‘far’ and Laghu (vari)hau ‘far’. I take it that the sense was formerly ‘far
+In Ysabel (MM) languages, POc _*sauq_ is reflected with the reciprocal prefix _*paRi-_, as in
+Kia _(vari)hau_ ‘far’ and Laghu _(vari)hau_ ‘far’. I take it that the sense was formerly ‘far
 from each other’. In Southeast Solomonic languages it occurs with reflexes of the POc
-causative *pa- or *paka-, also used to form adverbs, and I assume this is the function of
+causative _*pa-_ or _*paka-_, also used to form adverbs, and I assume this is the function of
 the prefix here:
 
 __pre__
@@ -9773,15 +9784,15 @@ __pre__
  SES: Bauro              (haɣa)tau        ‘far’
 
 
-   The POc antonym of *sauq ‘be far away’ was the root *raŋi ‘be near’. However, *raŋi
+   The POc antonym of _*sauq_ ‘be far away’ was the root _*raŋi_ ‘be near’. However, _*raŋi_
 is not reflected without verb-deriving prefixes and is thus not reconstructable alone in POc.
-Most commonly it is reflected with *ga-, a prefix that I do not recognise: it may be a
-variant of *ka-, which also occurs with *raŋi.
+Most commonly it is reflected with _*ga-_, a prefix that I do not recognise: it may be a
+variant of _*ka-_, which also occurs with _*raŋi_.
 
                                                             Properties of inanimate objects      207
 
-    POc *raŋi appears to be descended from PMP *dani. The replacement of *-n- by *-ŋ-
-evidently occurred earlier than POc, as we find Buru (Central Malayo-Polynesian) b-raŋi-n
+    POc _*raŋi_ appears to be descended from PMP _*dani_. The replacement of _*-n-_ by _*-ŋ-_
+evidently occurred earlier than POc, as we find Buru (Central Malayo-Polynesian) _b-raŋi-n_
 (ADV) ‘near’.
 
 <
@@ -9797,11 +9808,11 @@ POc *garaŋi ‘be near’
  SES: Fagani          karaŋi                       ‘near’
 >
 
-[11] Supporting evidence for PMP *dani is Kagayanen Manobo dani (ADV) ‘near’, Dobel ren (ADV) ‘near’.
-   Evidence for *Sa-dani is Isneg (N. Cordilleran) adanni (ADV) ‘near’, Limos Kalinga (C. Cordilleran)
-   adaní (ADV) ‘near’, N. Samareño, Samar-Leyte, Waray (Bisayan) ha-ráni, Masbateño, Sorsogon, Gubat
-   (Danaw) ha-raní. Evidence for *ma-dani is Maranao, Iranun (Danaw) ma-rani, Ata, Dibabwon, Tigwa
-   (Manobo) ma-dani, Ilianen mi-rani.
+[11] Supporting evidence for PMP _*dani_ is Kagayanen Manobo _dani_ (ADV) ‘near’, Dobel _ren_ (ADV) ‘near’.
+   Evidence for _*Sa-dani_ is Isneg (N. Cordilleran) _adanni_ (ADV) ‘near’, Limos Kalinga (C. Cordilleran)
+   _adaní_ (ADV) ‘near’, N. Samareño, Samar-Leyte, Waray (Bisayan) _ha-ráni_, Masbateño, Sorsogon, Gubat
+   (Danaw) _ha-raní_. Evidence for _*ma-dani_ is Maranao, Iranun (Danaw) _ma-rani_, Ata, Dibabwon, Tigwa
+   (Manobo) _ma-dani_, Ilianen _mi-rani_.
 
 <
 POc *karaŋi ‘be near’
@@ -9824,13 +9835,13 @@ POc *pa-raŋi, *paka-raŋi ‘be near’
 
 <
 POc *tata (ADV) ‘near’
- MM: Lungga            tata                        ‘near’
- MM: Nduke             tata                        ‘near’
- MM: Roviana           tata                        (ADV) ‘near’
- MM: Hoava             tata                        ‘near’
- Pn:    Tongan         tata                        ‘be near’
- Pn:    Tahitian       fa-tata                     (ADV) ‘near’
- Pn:    Maori          tata                        ‘be near, close’
+ MM: Lungga         tata                ‘near’
+ MM: Nduke          tata                ‘near’
+ MM: Roviana        tata                (ADV) ‘near’
+ MM: Hoava          tata                ‘near’
+ Pn: Tongan         tata                ‘be near’
+ Pn: Tahitian       fa-tata             (ADV) ‘near’
+ Pn: Maori          tata                ‘be near, close’
 >
 
 7.2.2.4 ‘wide, spread out’
@@ -9838,28 +9849,28 @@ POc *tata (ADV) ‘near’
 <
 PMP *belaj ‘spread out to dry’ (ACD)
 POc (?) *ta-pola(s) ‘spread out (as of a mat); wide’
- NNG: Poeng             (sasa)pola             ‘wide’
- SES: Bugotu            tavoða                 ‘wide’
- SES:     Lau            afola               ‘wide’
- SES:     Arosi          ahora               ‘wide’
- NCV:     Raga           tavola              ‘flat, wide, smooth’
- Pn:      Tongan         tafola              (VI) ‘be spread out, scattered about’
+ NNG: Poeng          (sasa)pola          ‘wide’
+ SES: Bugotu         tavoða              ‘wide’
+ SES: Lau            afola               ‘wide’
+ SES: Arosi          ahora               ‘wide’
+ NCV: Raga           tavola              ‘flat, wide, smooth’
+ Pn:  Tongan         tafola              (VI) ‘be spread out, scattered about’
 >
 
 208    Malcolm Ross
 
 
-This term is related derivationally to POc *polas, *polas-i- ‘spread (s.t.) out’, reflected in
-(NCV) Tamambo vuolasi ‘spread (mat)’, Paamese hoosi ‘lay out (mat)’ and in (Pn)
-Tongan and Samoan fola ‘spread’ and Tongarevan ho-hora ‘spread out; wide open’. It is
-probable that -pola in Poeng sasapola is derived independently from a reflex of POc
-*polas. If so, then *ta-pola(s) is reconstructable only in PEOc.
+This term is related derivationally to POc _*polas_, _*polas-i-_ ‘spread (s.t.) out’, reflected in
+(NCV) Tamambo _vuolasi_ ‘spread (mat)’, Paamese _hoosi_ ‘lay out (mat)’ and in (Pn)
+Tongan and Samoan _fola_ ‘spread’ and Tongarevan _ho-hora_ ‘spread out; wide open’. It is
+probable that _-pola_ in Poeng _sasapola_ is derived independently from a reflex of POc
+_*polas_. If so, then _*ta-pola(s)_ is reconstructable only in PEOc.
 
 
 7.2.2.5 ‘thick’/‘thin’
 
-   Three forms can be reconstructed for ‘thick’. The third, *[tubu]tubu[-ka], is derived
-from *tubuq ‘grow’.
+   Three forms can be reconstructed for ‘thick’. The third, _*[tubu]tubu[-ka]_, is derived
+from _*tubuq_ ‘grow’.
 
 <
 PCEMP *telu ‘thick’
