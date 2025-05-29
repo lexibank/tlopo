@@ -5285,25 +5285,25 @@ POc *namo ‘lagoon inside a reef; deep pool or hole in reef’
 
    In languages where the community’s activities are centred on the lagoon there are
 usually dozens of terms for particular features. For instance, Akimichi (1978:305–306)
-reports that Lau has terms for shallow water (mai or fafo-mai ‘low water’ or ‘above low
-water’); intermediate depths (fafo-buso) and deep water (lobo). He adds a host of other
+reports that Lau has terms for shallow water (_mai_ or _fafo-mai_ ‘low water’ or ‘above low
+water’); intermediate depths (_fafo-buso_) and deep water (_lobo_). He adds a host of other
 terms for features of the lagoon and its boundaries:
 
-|     Rarabala is applied to the places where the passes and the lagoon meet and the shelf
-|     area between the ocean and the lagoon, and where the depth is 6–7 m. Fakana aba also
+|     _Rarabala_ is applied to the places where the passes and the lagoon meet and the shelf
+|     area between the ocean and the lagoon, and where the depth is 6–7 m. _Fakana aba_ also
 |     is applied between passages and the lagoon, but only to those 4–5 m deep. Areas of the
 |     lagoon where the depth and the nature of the bottom changes are also named. For
-|     instance, fakana matakwa indicates the area intermediate between rarabala ‘reef shelf’
-|     and asi matakwa ‘ocean’, fakana lobo is the off-shore border between lobo ‘lagoon
-|     deeps’ and fafobuso ‘intermediate’ (fakana ‘outer terminal’), raona lobo is the in-
-|     shore border between lobo and fafobuso (raona ‘inner terminal’).
+|     instance, _fakana matakwa_ indicates the area intermediate between _rarabala_ ‘reef shelf’
+|     and _asi matakwa_ ‘ocean’, _fakana lobo_ is the off-shore border between _lobo_ ‘lagoon
+|     deeps’ and _fafobuso_ ‘intermediate’ (_fakana_ ‘outer terminal’), _raona lobo_ is the in-
+|     shore border between _lobo_ and _fafobuso_ (_raona_ ‘inner terminal’).
 
     Small deep holes are a feature of the reef flat, but the only reconstructable term we have
-other than *namo is PPn *loto (see below). Ross in Chapter 8 has reconstructed POc *loto
-‘space within a concave object’, and lists POc *lalo, *lo- and *la-, all as relational nouns
-referring to the space within something. Non-cognate terms include Andra (Adm) lolu
-‘small deep pools in reef’, Lau (SES) lobo ‘a pool in the reef or in a river’ and Niuean (Pn)
-lili ‘small hollow in the reef, as opposed to pools or puddles elsewhere’ and to deeper holes
+other than _*namo_ is PPn _*loto_ (see below). Ross in Chapter 8 has reconstructed POc _*loto_
+‘space within a concave object’, and lists POc _*lalo_, _*lo-_ and _*la-_, all as relational nouns
+referring to the space within something. Non-cognate terms include Andra (Adm) _lolu_
+‘small deep pools in reef’, Lau (SES) _lobo_ ‘a pool in the reef or in a river’ and Niuean (Pn)
+_lili_ ‘small hollow in the reef, as opposed to pools or puddles elsewhere’ and to deeper holes
 in the reef, which in Niuean are called pupuo.
 
 <
@@ -5317,7 +5317,7 @@ PPn *loto ‘pool, depression in reef; inside’ (Biggs & Clark 1993)
  Pn:    Tuamotuan       roto               ‘depression in reef, pool’
  Pn:    Tahitian        roto               ‘lagoon’
  Pn:    Maori           roto               ‘lake, pool’
- Pn:    Hawaiian        loko(kai)          ‘lagoon’ (loko-loko ‘puddles’)
+ Pn:    Hawaiian        loko(kai)          ‘lagoon’ (_loko-loko_ ‘puddles’)
 >
 
 116     Meredith Osmond, Andrew Pawley and Malcolm Ross
@@ -5326,97 +5326,97 @@ PPn *loto ‘pool, depression in reef; inside’ (Biggs & Clark 1993)
 
    A typical coral-fringed coastline or atoll has breaks in the reef which permit canoes to
 move from sheltered water to the open sea and back. The Lau people refer to passages
-connecting the ocean and the lagoon as dari (lit. ‘gullets’), while canoe traffic at low tide
-uses a channel in the lagoon known as tafaʔa (Akimichi 1978:306). According to Fox’s
-Lau dictionary, tafaʔa can also be used for a pass in a mountain range. Two POc terms are
-reconstructable; *sawa(n,ŋ) ‘channel, passage’ continues PMP *sawaq ‘channel’, while
-*mata (qi/ni) *sawa(n,ŋ) ‘channel in fringing reef giving passage to boats; landing place’
+connecting the ocean and the lagoon as _dari_ (lit. ‘gullets’), while canoe traffic at low tide
+uses a channel in the lagoon known as _tafaʔa_ (Akimichi 1978:306). According to Fox’s
+Lau dictionary, _tafaʔa_ can also be used for a pass in a mountain range. Two POc terms are
+reconstructable; _*sawa(n,ŋ)_ ‘channel, passage’ continues PMP _*sawaq_ ‘channel’, while
+_*mata (qi/ni)_ _*sawa(n,ŋ)_ ‘channel in fringing reef giving passage to boats; landing place’
 refers specifically to a reef opening or channel associated with landing canoes. POc
-*wasas may have had a more abstract meaning, ‘space between’ or similar, but in at least
+_*wasas_ may have had a more abstract meaning, ‘space between’ or similar, but in at least
 one of its reflexes refers to the passageway through a reef.
 
-   The final nasal of *sawa(n,ŋ) is unexpected but attested in languages that retain POc
+   The final nasal of _*sawa(n,ŋ)_ is unexpected but attested in languages that retain POc
 final consonants.
 
 <
 PMP *sawaq ‘channel’ (ACD)
 POc *sawa(n,ŋ) ‘channel, passage’
- Adm: Wuvulu          tawa                ‘channel, passage between islands’
- Adm: Mussau          soana               ‘channel, passage through the reef’
- NNG: Yabem           sawa                ‘space, empty area’; (ADJ) ‘empty’
- PT:   Dobu           ʔawa                ‘channel through reef’
- PT:   Kiriwina       sawa                ‘area of reef etc possessed by a village as its traditional fishing ground’
- PT: Kukuya              awa(haha)        ‘valley; gap between two peaks’
- PT: Motu                dara             ‘lagoon in atoll’
- MM: Teop                hoa              ‘a place in a reef where a canoe can cross through breakers’
- MM:     Nduke           savaŋa           ‘passage’
- MM:     Roviana         savaŋa           ‘strait between two islands’
- SES:    Gela            hā               ‘open place’
- SES:    Bugotu          hā               ‘landing place’
- SES:    Arosi           tawa             ‘common prefix to names of landing places’
- SES:    ’Are’are        tawa             ‘channel in the shore reef; landing place; parting in the hair’
- SES:     Sa’a           tawa             ‘opening in the shore reef; used in the names of landing places’
- NCV: Mota               salava           ‘landing place’ (savala reinterpreted as sawa ‘landing place’ + lava ‘large’??)
- Mic:    Kiribati        rawa             ‘channel, passage through reef’
- Mic:    Mokilese        taw              ‘channel, passage through reef’
- Mic:    Carolinian      tawur            ‘channel, passage through reef’
- Mic:    Woleaian        tawa             ‘channel, harbour’
- Fij:    Wayan           ðawa             (N LOC) ‘(i) (when speaker is on coast) the beach or reef flat; (ii) (when speaker is inland) the coast, seaside’
-PPn *awa ‘channel, passage through reef’ (Biggs & Clark 1993; loss of initial *s- is unexpected)
- Pn:   Niuean      ava                 ‘channel, opening in the reef; harbour’
- Pn:   Rennellese aba                  ‘pass, channel, canoe anchorage’
- Pn:   Samoan      ava                 ‘channel, passage (in the reef), gap’
- Pn:   Maori       awa                 ‘channel, landing place for canoes’
- Pn:   Hawaiian    awa                 ‘port, harbour; channel or passage, as through a reef’
+ Adm: Wuvulu      tawa             ‘channel, passage between islands’
+ Adm: Mussau      soana            ‘channel, passage through the reef’
+ NNG: Yabem       sawa             ‘space, empty area’; (ADJ) ‘empty’
+ PT:  Dobu        ʔawa             ‘channel through reef’
+ PT:  Kiriwina    sawa             ‘area of reef etc possessed by a village as its traditional fishing ground’
+ PT:  Kukuya      awa(haha)        ‘valley; gap between two peaks’
+ PT:  Motu        dara             ‘lagoon in atoll’
+ MM:  Teop        hoa              ‘a place in a reef where a canoe can cross through breakers’
+ MM:  Nduke       savaŋa           ‘passage’
+ MM:  Roviana     savaŋa           ‘strait between two islands’
+ SES: Gela        hā               ‘open place’
+ SES: Bugotu      hā               ‘landing place’
+ SES: Arosi       tawa             ‘common prefix to names of landing places’
+ SES: ’Are’are    tawa             ‘channel in the shore reef; landing place; parting in the hair’
+ SES:  Sa’a       tawa             ‘opening in the shore reef; used in the names of landing places’
+ NCV: Mota        salava           ‘landing place’ (_savala_ reinterpreted as _sawa_ ‘landing place’ + _lava_ ‘large’??)
+ Mic: Kiribati    rawa             ‘channel, passage through reef’
+ Mic: Mokilese    taw              ‘channel, passage through reef’
+ Mic: Carolinian  tawur            ‘channel, passage through reef’
+ Mic: Woleaian    tawa             ‘channel, harbour’
+ Fij: Wayan       ðawa             (N LOC) ‘(i) (when speaker is on coast) the beach or reef flat; (ii) (when speaker is inland) the coast, seaside’
+PPn *awa ‘channel, passage through reef’ (Biggs & Clark 1993; loss of initial _*s-_ is unexpected)
+ Pn:  Niuean      ava              ‘channel, opening in the reef; harbour’
+ Pn:  Rennellese  aba              ‘pass, channel, canoe anchorage’
+ Pn:  Samoan      ava              ‘channel, passage (in the reef), gap’
+ Pn:  Maori       awa              ‘channel, landing place for canoes’
+ Pn:  Hawaiian    awa              ‘port, harbour; channel or passage, as through a reef’
 >
 
                                                                       The seascape      117
 
 <
 POc *|mata (qi,ni) sawa(n,ŋ)| ‘channel in fringing reef giving passage to boats; landing place’ (Pawley & Pawley 1994; *mata ‘eye’, *qi or *ni ‘genitive linker’)
- Adm: Lou            mara-sa            ‘channel, passage between islands’
- Adm: Titan          mata-caw           ‘channel, passage between islands’
- Adm: Loniu          ma-caw             ‘ocean passage between two islands’
- SES: Gela          | mata ni hā |        ‘landing place’
- SES: Lau            mā-i-takwa         ‘landing place, opening’
- SES: Arosi          ma-e-tawa          ‘landing place where the sea is calm’
- SES: Kwaio         | mā li takwa |       ‘landing place’
- SES: ’Are’are        maritawa           ‘landing place, channel’
- Mic: Kiribati      | mata n rawa-rawa | ‘channel, gap in reef’
- Fij:    Bauan       mata-sawa          ‘landing place’
- Fij:    Wayan       mata-ðawa          ‘beach’
+ Adm: Lou         mara-sa            ‘channel, passage between islands’
+ Adm: Titan       mata-caw           ‘channel, passage between islands’
+ Adm: Loniu       ma-caw             ‘ocean passage between two islands’
+ SES: Gela        |mata ni hā|       ‘landing place’
+ SES: Lau         mā-i-takwa         ‘landing place, opening’
+ SES: Arosi       ma-e-tawa          ‘landing place where the sea is calm’
+ SES: Kwaio       |mā li takwa|      ‘landing place’
+ SES: ’Are’are    maritawa           ‘landing place, channel’
+ Mic: Kiribati    |mata n rawa-rawa| ‘channel, gap in reef’
+ Fij: Bauan       mata-sawa          ‘landing place’
+ Fij: Wayan       mata-ðawa          ‘beach’
 >
 
-In similar vein, Nakanai has (la)mata-la-sakalu ‘passage through the reef’ (la article).
+In similar vein, Nakanai has _(la)mata-la-sakalu_ ‘passage through the reef’ (_la_ article).
 
-   POc *wasas seems basically to have denoted a space between two points, expanding its
+   POc _*wasas_ seems basically to have denoted a space between two points, expanding its
 meaning in Central Pacific languages to mean ‘distance at sea’ and then finally simply
 ‘ocean’.
 
 <
 POc *wasas ‘passage, space between, particularly at sea, distance between two points’
- PT:   Gumawana (neg)wasa                 ‘sea’
- PT:   Dobu          (a)wasasa            ‘passage in reef’
- PT:   Muyuw         (a)wasas             ‘space, gap, bay, gulf, inlet’
- NCV: Mota           wasa(ŋiu)            ‘narrow space or interval between’
- Fij:  Rotuman       vasa                 ‘far out at sea; stand between.’
- Fij:  Bauan         wasa-wasa            ‘sea, ocean’
-PPn *wasa ‘open sea; space, distance, especially at sea’ (not in Biggs and Clark 1993, which has PPn *wā ‘interval of space or time’)
- Pn:    Tongan      vaha                   ‘space between; space, distance, especially at sea’
- Pn:    Tongan      vasa-loa               ‘wide expanse, esp. of sea’
- Pn:    Tongan      vaha-mohe              ‘so far apart that at least one night must be spent at sea in travelling from one to the other’ (of two islands, _mohe vaha_ ‘to sleep at sea’)
- Pn:    Rennellese basa                    ‘far, deep ocean’
- Pn:    Samoan      vasa                   ‘open sea’
- Pn:    Tikopia          vasa           ‘open space; empty space, esp. of cosmic kind; in marine context, ocean wastes’
- Pn:    E Futunan        vasa           ‘separation, interval’
- Pn:    Tokelauan        vasa           ‘open sea’
- Pn:    Mangareva        vaʔa           ‘space, interval’
+ PT:  Gumawana    (neg)wasa      ‘sea’
+ PT:  Dobu        (a)wasasa      ‘passage in reef’
+ PT:  Muyuw       (a)wasas       ‘space, gap, bay, gulf, inlet’
+ NCV: Mota         wasa(ŋiu)     ‘narrow space or interval between’
+ Fij: Rotuman     vasa           ‘far out at sea; stand between.’
+ Fij: Bauan       wasa-wasa      ‘sea, ocean’
+PPn *wasa ‘open sea; space, distance, especially at sea’ (not in Biggs and Clark 1993, which has PPn _*wā_ ‘interval of space or time’)
+ Pn:  Tongan      vaha           ‘space between; space, distance, especially at sea’
+ Pn:  Tongan      vasa-loa       ‘wide expanse, esp. of sea’
+ Pn:  Tongan      vaha-mohe      ‘so far apart that at least one night must be spent at sea in travelling from one to the other’ (of two islands, _mohe vaha_ ‘to sleep at sea’)
+ Pn:  Rennellese  basa           ‘far, deep ocean’
+ Pn:  Samoan      vasa           ‘open sea’
+ Pn:  Tikopia     vasa           ‘open space; empty space, esp. of cosmic kind; in marine context, ocean wastes’
+ Pn:  E Futunan   vasa           ‘separation, interval’
+ Pn:  Tokelauan   vasa           ‘open sea’
+ Pn:  Mangareva   vaʔa           ‘space, interval’
 >
 
 118    Meredith Osmond, Andrew Pawley and Malcolm Ross
 
 
-Where a Polynesian language includes reflexes of both *moana (p.94) and *wasa, (as for
+Where a Polynesian language includes reflexes of both _*moana_ (p.94) and _*wasa_, (as for
 example Tongan, Samoan and Tikopia do), the former generally refers to deep sea, the
 latter to open unlimited sea.
 
@@ -5457,7 +5457,7 @@ language need to be related to the weather conditions which occur where the lang
 spoken. For this reason, §2 gives a short account of Pacific wind systems, while in §3 the
 weather patterns that Austronesian speakers encountered during their (largely eastward)
 migrations are described. Less trivially, a hypothesis about the semantic structure of POc
-speakers’ weather terminology must rest on a hypothesis about where POc was spoken—
+speakers’ weather terminology must rest on a hypothesis about where POc was spoken —
 and the same is true of any protolanguage for which weather terms are reconstructed. My
 assumption here that POc was spoken in the Bismarck Archipelago. I return to this matter
 in the concluding section.[1]
@@ -5509,11 +5509,11 @@ these areas the trades are therefore associated with rain (and sometimes with th
 season), whereas in most Pacific locations they bring the dry season.
 
     The ITCZ has weather effects of a different kind. It is a low-pressure belt with relatively
-little wind but various local perturbations. Incoming airflow has nowhere to go but up—in
+little wind but various local perturbations. Incoming airflow has nowhere to go but up — in
 large numbers of isolated columns. Each island becomes capped with a cloud build-up
 resulting from evaporation due to the sun’s heat and there is thundery convectional rain,
 but little lee effect. Thus the ITCZ is characterised by frequent, more or less windless
-rainfall .
+rainfall.
 
     On non-monsoonal Pacific islands (i.e. islands well away from the land masses of
 Australia and mainland Asia) the main determinant of seasonal variation is the annual
@@ -5527,13 +5527,13 @@ northward in the SHW. This movement is visible if one compares Maps 10 and 11. B
 because the northern hemisphere has larger land masses than the south, forming the areas
 of greatest heating, the mean annual position of the ITCZ generally lies well north of the
 Equator. On the leading edge of the ITCZ (the south in the SHS, the north in the SHW),
-tropical cyclones—‘typhoons’ in the northwest Pacific—sometimes arise. They are small
+tropical cyclones — ‘typhoons’ in the northwest Pacific — sometimes arise. They are small
 intense low-pressure systems. The wind whirls around them, often with torrential rainfall,
 as they move away from the ITCZ. The movement of the ITCZ of course means that the
 trades system also moves with the seasons: the southeast trades blow further north in the
 SHW, the northeast trades further south in the SHS.
 
-[2] This section is based on general information about wind systems culled from Monkhouse (1966:Chs. 16
+[2] This section is based on general information about wind systems culled from Monkhouse (1966: Chs. 16
   and 18), Hare (1984), Lamb (1984) and Irwin (1992) and on information about Pacific weather from
   Howlett (1967:36–38), Brookfield with Hart (1971:5–13), Cotter (1984); Gentilli (1984), and the Atlas of
   the South Pacific (New Zealand Government Printing Office, 1986). One difficulty that I encountered in
@@ -5548,7 +5548,7 @@ more or less constantly within the ITCZ despite its movement and hence have litt
 seasonal variation in temperature or rainfall. These include the northern islands of Kiribati
 and the southern Marshall Islands between about 2˚N and 6˚N.
 
-   On other non-monsoonal islands there are two asymmetric seasons—a ‘wet’ and stormy
+   On other non-monsoonal islands there are two asymmetric seasons — a ‘wet’ and stormy
 season of about four months when the more intense effects of the ITCZ are felt, and a ‘dry’
 and stormfree season during the rest of the year when the trade winds blow more or less
 without interruption. However, the terms ‘wet’ and ‘dry’ are merely relative in many
@@ -5587,7 +5587,6 @@ brings a marked seasonal reversal. Whereas the wet on non-monsoonal islands eith
 consists of the windless rain of the ITCZ or of variable, stormy weather, the monsoon
 draws the trade winds across the Equator into the opposite hemisphere, eliminating the
 doldrums and giving a clear reversal of wind direction.
-
 
 [3] A geographer expert in this field would probably consider this definition an oversimplification, but it will
   suffice for present purposes (Gentilli 1984:389).
@@ -5643,10 +5642,9 @@ of the effects of the southeast monsoon, as the central cordillera provided an i
 large obstacle to it. The northwest monsoon of the SHS continued to provide the rainy
 season, however.
 
-
-[4] As well as the sources indicated in the text, this section relied quite heavily on Brookfield and Hart
-  (1971), Gentilli (1984), and the Atlas of the South Pacific (New Zealand Government Printing Office,
-  1986).
+[4] As well as the sources indicated in the text, this section relied quite heavily on
+Brookfield and Hart (1971), Gentilli (1984), and the Atlas of the South Pacific
+(New Zealand Government Printing Office, 1986).
 
                                                                     Meteorological phenomena             125
 
@@ -5666,7 +5664,6 @@ but the southeast trades always continued to be the prevailing winds.
 __pre__
               Table 3: Approximate summary of seasons in some Pacific locations
                                 Southern Hemisphere Winter              Southern Hemisphere Summer
-
 Philippines                     southwest monsoon, wet season;           northeast trades, dry season,
                                 in centre and north some cyclones        orographic rain
 Sumatra, Borneo                 in north, southwest monsoon;             in north, northeast monsoon
@@ -5716,8 +5713,8 @@ become more moist nearer to the Equator, and the northwesterlies and cyclones gi
 again to the much less windy wet season of the ITCZ. Further north, in the northern
 Gilberts and southern Marshalls, they found themselves permanently in the ITCZ, with
 relatively little wind and a good measure of convectional rain. Finally, in the scattered
-archipelagoes of the northern tropical zone—the northern Marshalls, the Carolines and the
-Marianas—they left the ITCZ to their south and entered a region in which the climate is
+archipelagoes of the northern tropical zone — the northern Marshalls, the Carolines and the
+Marianas — they left the ITCZ to their south and entered a region in which the climate is
 the converse of that in the southern tropical zone. Here in nuclear Micronesia there is a
 long dry season when the northeast trades prevail in the SHS and a short rainy season with
 variable winds and storms in the SHW.
@@ -5738,124 +5735,124 @@ associated with winds and the weather.
 generic terms for wind and wind strengths, in the next section terms for seasonal winds and
 wind directions.
 
-  The generic term for ‘wind’ in POc was *aŋin, which continues PMP *haŋin.
+  The generic term for ‘wind’ in POc was _*aŋin_, which continues PMP _*haŋin_.
 
 <
 PMP *haŋin ‘air, wind’ (Dempwolff 1938)
 POc *aŋin ‘wind’
- NNG: Mangap               yaŋ                            ‘rain’
- NNG: Bing                 yaŋ                            ‘wind’
- PT:     Minaveha          yagina                         ‘wind’
- PT:     Wedau             ðaɣina                         ‘wind’
- PT:     Balawaia          aɣi                            ‘wind’
- PT:     Motu              lai                            ‘wind’
- MM: Konomala              yaŋin                          ‘wind’
- NCV: Port Sandwich        n-ean                          ‘wind’
- Mic:    Kiribati          aŋ                             ‘wind’
- Mic:    Woleaian          yaŋ                            ‘wind’
- Fij:   Bauan             ðaŋi             ‘wind’
- Pn:    Tongan            aŋi              ‘(wind, breeze) blow’
- Pn:    Samoan            aŋi              ‘(wind, breeze) blow’
+ NNG: Mangap            yaŋ              ‘rain’
+ NNG: Bing              yaŋ              ‘wind’
+ PT:  Minaveha          yagina           ‘wind’
+ PT:  Wedau             ðaɣina           ‘wind’
+ PT:  Balawaia          aɣi              ‘wind’
+ PT:  Motu              lai              ‘wind’
+ MM:  Konomala          yaŋin            ‘wind’
+ NCV: Port Sandwich     n-ean            ‘wind’
+ Mic: Kiribati          aŋ               ‘wind’
+ Mic: Woleaian          yaŋ              ‘wind’
+ Fij: Bauan             ðaŋi             ‘wind’
+ Pn:  Tongan            aŋi              ‘(wind, breeze) blow’
+ Pn:  Samoan            aŋi              ‘(wind, breeze) blow’
 >
 
                                                            Meteorological phenomena       127
 
 
-   Three terms for winds of differing strengths are reconstructable. POc *jaŋi referred to a
-strong wind, *sau/*sau-ŋ(a) and *mur[i,e] to breezes. It seems that *sau was a verb (‘blow
-freshly’), and *sau-ŋ(a) a nominalisation referring to the breeze itself. I cannot reconstruct
-a difference in meaning between *sau and *mur[i,e].
+   Three terms for winds of differing strengths are reconstructable. POc _*jaŋi_ referred to a
+strong wind, _*sau_/_*sau-ŋ(a)_ and _*mur[i,e]_ to breezes. It seems that *sau was a verb (‘blow
+freshly’), and _*sau-ŋ(a)_ a nominalisation referring to the breeze itself. I cannot reconstruct
+a difference in meaning between _*sau_ and _*mur[i,e]_.
 
 <
 POc *jaŋi (N) ‘strong wind’; (?) (V) ‘be windy’
- NNG: Bing               sāŋ              ‘wind strong directly against’
- NNG: Mapos Buang saŋ                     ‘strong winds which blow up the valley around November’
- SES: Arosi              daŋi             ‘wind’
- SES: Sa’a               deŋi             ‘wind’
- NCal: Nemi              dān              ‘wind’
- Pn:    Tongan           (ma)taŋi         (N) ‘wind’; (V) ‘be windy’
- Pn:    Samoan           (ma)taŋi         (N) ‘wind’; (V) ‘be windy, stormy’
+ NNG:  Bing             sāŋ              ‘wind strong directly against’
+ NNG:  Mapos Buang      saŋ              ‘strong winds which blow up the valley around November’
+ SES:  Arosi            daŋi             ‘wind’
+ SES:  Sa’a             deŋi             ‘wind’
+ NCal: Nemi             dān              ‘wind’
+ Pn:   Tongan           (ma)taŋi         (N) ‘wind’; (V) ‘be windy’
+ Pn:   Samoan           (ma)taŋi         (N) ‘wind’; (V) ‘be windy, stormy’
 >
 
 <
 POc *sau (V) ‘(breeze) blow’; (?) (N) ‘breeze’
 POc *sau-ŋ(a) (N) ‘breeze’
- Adm: Lou                soso             ‘wind, breeze’
- Adm: Titan              só-soú-n         ‘wind from a particular direction’
- NNG: Kilenge            -sou             ‘(wind) blow’
- NNG: Bilibil            sau              ‘rain’
- NNG: Poeng              saū              ‘wind; large, damaging with black, foreboding sky’
- MM: Solos               seou-ŋ           ‘wind’
- SES: Gela               sau(toŋa)        ‘north wind’
- Fij:  Wayan             ðau-ðau          ‘light to moderate wind, of early mornings and early evenings’
- Fij:  Bauan             ðau-ðau          ‘land breeze’
- Pn:   Rapanui           hau              ‘breeze, wind; blow freshly; cool’
- Pn:   Hawaiian          hau              ‘cool breeze’
- Pn:   Maori             hau              ‘wind, breeze’
- Pn:   W Futunan         sau              ‘(wind) blow; sound of wind’
+ Adm: Lou               soso             ‘wind, breeze’
+ Adm: Titan             só-soú-n         ‘wind from a particular direction’
+ NNG: Kilenge           -sou             ‘(wind) blow’
+ NNG: Bilibil           sau              ‘rain’
+ NNG: Poeng             saū              ‘wind; large, damaging with black, foreboding sky’
+ MM:  Solos             seou-ŋ           ‘wind’
+ SES: Gela              sau(toŋa)        ‘north wind’
+ Fij: Wayan             ðau-ðau          ‘light to moderate wind, of early mornings and early evenings’
+ Fij: Bauan             ðau-ðau          ‘land breeze’
+ Pn:  Rapanui           hau              ‘breeze, wind; blow freshly; cool’
+ Pn:  Hawaiian          hau              ‘cool breeze’
+ Pn:  Maori             hau              ‘wind, breeze’
+ Pn:  W Futunan         sau              ‘(wind) blow; sound of wind’
 >
 
 <
 POc *mur[i,e] (N) ‘breeze’; (V) ‘blow gently’
- NNG: Lukep (Pono) muru                  ‘breeze’
- NNG: Mangap             mīri            ‘wind’
- NNG: Mangap             mir-mīri        ‘little breeze’
- NNG: Kilenge            na-mule         ‘wind’
- NNG: Yabem              mu              ‘wind’
- MM: Tabar               mur             ‘wind’
- Fij:  Rotuman           mure            ‘blow gently’
- Fij:  Bauan             mudre           (V) ‘(wind) blow gently’; (N) ‘cool breeze’; (ADJ) ‘cool, breezy’ (-dr- for expected *-r-)
- Fij:       Wayan              mure               ‘(breeze) blow lightly’
- Pn:        Maori              muri-muri          ‘breeze’
- Pn:        Tuamotuan          mure               ‘fail (of breath)’
+ NNG: Lukep (Pono)      muru            ‘breeze’
+ NNG: Mangap            mīri            ‘wind’
+ NNG: Mangap            mir-mīri        ‘little breeze’
+ NNG: Kilenge           na-mule         ‘wind’
+ NNG: Yabem             mu              ‘wind’
+ MM:  Tabar             mur             ‘wind’
+ Fij: Rotuman           mure            ‘blow gently’
+ Fij: Bauan             mudre           (V) ‘(wind) blow gently’; (N) ‘cool breeze’; (ADJ) ‘cool, breezy’ (_-dr-_ for expected _*-r-_)
+ Fij: Wayan             mure            ‘(breeze) blow lightly’
+ Pn:  Maori             muri-muri       ‘breeze’
+ Pn:  Tuamotuan         mure            ‘fail (of breath)’
 >
 
-The terms below may also reflect POc *mur[i,e], but with a change in meaning.
+The terms below may also reflect POc _*mur[i,e]_, but with a change in meaning.
 
 __pre__
- NNG: Amara             o-mur          ‘southeast trade’
- NNG: Bing              mur-mōriy      ‘wind which blows strongly from the west, often causing damage’
- PT:    Motu            miri(gini)     ‘north wind’
- PT:    Mekeo           mili(kini)     ‘north wind’
+ NNG: Amara           o-mur          ‘southeast trade’
+ NNG: Bing            mur-mōriy      ‘wind which blows strongly from the west, often causing damage’
+ PT:  Motu            miri(gini)     ‘north wind’
+ PT:  Mekeo           mili(kini)     ‘north wind’
 
-The Mangap, Motu and Mekeo terms have -i- where -u- is expected. This may reflect
+The Mangap, Motu and Mekeo terms have _-i-_ where _-u-_ is expected. This may reflect
 vowel assimilation.
 
 128       Malcolm Ross
 
 
-   Another term for wind was POc *mal(i,e)u, but it is not possible to determine its
+   Another term for wind was POc _*mal(i,e)u_, but it is not possible to determine its
 meaning precisely from its reflexes. In Proto Micronesian, it referred to a typhoon, but this
 was presumably its denotation after the ancestral Micronesians crossed out of the ITCZ
 into the northern hemisphere.
 
 <
 POc *mal(i,e)u ‘wind’
- SJ:   Sobei                   maro                   ‘wind’ (-o < *-ew)
- PT:   Tawala                  malewa                 ‘favourable wind, wind from behind’[6]
- MM: Lavongai                  malu                   ‘(wind) blow’
- MM: Kara (West)               maliu                  ‘wind’
- MM: Nalik                     maliu                  ‘wind’
- MM: Notsi                     mal                    ‘wind’
- MM: Madak                     man-man                ‘wind’
- MM: Maringe                   maloa                  ‘air, open space’ (-oa < *-ewa)
- Mic: Mokilese                 mɛl-mɛl                ‘storm, typhoon’
- Mic: Ponapean                 mɛli-mɛl               ‘windstorm, typhoon’
- Mic: Woleaian                 mari-mer               ‘storm, typhoon’
+ SJ:  Sobei                   maro                   ‘wind’ (_-o_ < _*-ew_)
+ PT:  Tawala                  malewa                 ‘favourable wind, wind from behind’[6]
+ MM:  Lavongai                malu                   ‘(wind) blow’
+ MM:  Kara (West)             maliu                  ‘wind’
+ MM:  Nalik                   maliu                  ‘wind’
+ MM:  Notsi                   mal                    ‘wind’
+ MM:  Madak                   man-man                ‘wind’
+ MM:  Maringe                 maloa                  ‘air, open space’ (_-oa_ < _*-ewa_)
+ Mic: Mokilese                mɛl-mɛl                ‘storm, typhoon’
+ Mic: Ponapean                mɛli-mɛl               ‘windstorm, typhoon’
+ Mic: Woleaian                marɨ-mer               ‘storm, typhoon’
 >
 
-[6] Tawala malewa includes the final -a which is added after a final consonant, indicating that at an interstage
-  ancestral to Tawala *malew, rather than *maleu, should be reconstructed.
+[6] Tawala _malewa_ includes the final _-a_ which is added after a final consonant, indicating that at an interstage
+  ancestral to Tawala _*malew_, rather than _*maleu_, should be reconstructed.
 
    In Ross (1995c) I wrote:
 
 |        my attempts to reconstruct POc terms for ‘typhoon’, ‘cyclone’ and ‘whirlwind’ have
 |        failed completely. On reflection, this is not surprising, as I have hypothesised that POc
-|        was spoken in the Bismarcks—too close to the Equator and to the ITCZ to be affected
+|        was spoken in the Bismarcks — too close to the Equator and to the ITCZ to be affected
 |        by winds of this kind.
 
-Lynch (1997), however, points out that there is a South Vanuatu reflex of PAn *baRiuS
-‘typhoon’, and that POc *paRiu ‘cyclone’ is therefore reconstructable. The lack of reflexes
+Lynch (1997), however, points out that there is a South Vanuatu reflex of PAn _*baRiuS_
+‘typhoon’, and that POc _*paRiu_ ‘cyclone’ is therefore reconstructable. The lack of reflexes
 elsewhere is perhaps to be attributed, then, to their loss in languages whose speakers do not
 normally experience cyclones.
 
@@ -5868,47 +5865,47 @@ POc *paRiu ‘cyclone’
                                                                  Meteorological phenomena          129
 
 
-   Although a number of etyma referrring to a wind seem to have been used both as a noun
+   Although a number of etyma referring to a wind seem to have been used both as a noun
 denoting that wind and as a verb expressing the action of the particular wind, there are also
 several reconstructable POc terms which seem to have been primarily used as verbs of
 blowing with reference to winds or people.
 
-   Three of these, *upi, *ipu and *ip(w)i, are clearly related to each other phonologically.
-The pair *upi and *ipu ‘blow’ are strikingly parallel to POc *ubi/*ibu ‘half coconut shell
+   Three of these, _*upi_, _*ipu_ and _*i(p,pʷ)i_, are clearly related to each other phonologically.
+The pair _*upi_ and _*ipu_ ‘blow’ are strikingly parallel to POc _*ubi_/_*ibu_ ‘half coconut shell
 used as a drinking cup’, and it is possible that both pairs were generated at the same time
 by the application of a single rule (or similar wordplay) to the pre-existing member of each
-pair. In the case of POc *upi/*ipu ‘blow’, it seems likely that the pre-existing member was
-*ipu, since it can be traced back to PMP *ibut ‘breeze, draught of wind’, and that *upi was
+pair. In the case of POc _*upi_/_*ipu_ ‘blow’, it seems likely that the pre-existing member was
+_*ipu_, since it can be traced back to PMP _*ibut_ ‘breeze, draught of wind’, and that _*upi_ was
 the late-generated form. However, its generation predates POc, as Blust has reconstructed
-PCEMP *upi ‘(wind, person) blow’ (1993).[7] Similarly, the generation of the pair *ubi/*ibu
+PCEMP _*upi_ ‘(wind, person) blow’ (1993).[7] Similarly, the generation of the pair _*ubi_/_*ibu_
 ‘half coconut shell …’ also predates POc, as both forms are reconstructable in Proto
 Eastern Malayo-Polynesian (Blust 1978a).
 
-[7] Blust (1993) derives PCEMP *upi from PMP *hiup ‘blow’, and it is possible that the generation of pairs
+[7] Blust (1993) derives PCEMP _*upi_ from PMP _*hiup_ ‘blow’, and it is possible that the generation of pairs
   was triggered by the existence of similar forms with close meanings.
 
 <
 PCEMP *upi ‘(wind, person) blow’ (Blust 1993)
 POc *upi ‘(wind, person) blow’ (cf. vol. 1, pp.107–108)
- Adm: Seimat           uhi               ‘blow on the fire’
- NNG: Mangap           -wi               ‘(wind) blow’
- NNG: Apalik           uwi               ‘northwest monsoon’
- NNG: Takia            -wi               ‘(wind) blow’
- NNG: Yabem            yu                ‘(s.o.) blow’
- NNG: Kaiwa            u                 ‘(wind) blow’
- NNG: Misim            yuv               ‘(wind) blow’
- NNG: Vehes            vin               ‘wind’
- NNG: Mangga           va-vi             ‘wind’
- NNG: Medebur          -wi               ‘(wind) blow’
- MM: Tabar             uvi               ‘(wind) blow’
- SES: Gela             uvi-uvi           ‘blow with the breath, play pipes’
- SES: Lau              ufi               ‘blow with the mouth; blow a conch or panpipes’
- SES: Arosi            uhi               ‘blow, breathe on’
- NCV: Mota             uw                ‘blow with the mouth, or of wind’
- NCV: Raga             uvi               ‘blow’
- NCV: Paamese          uhi               ‘blow’
- Fij:  Wayan           uvi, uvu          ‘(fire, flute) be blown with the mouth, (ball, balloon) inflated, blown up’
- Fij:  Wayan           uvi               ‘blow s.t. with the mouth’
+ Adm: Seimat          uhi               ‘blow on the fire’
+ NNG: Mangap          -wi               ‘(wind) blow’
+ NNG: Apalik          uwi               ‘northwest monsoon’
+ NNG: Takia           -wi               ‘(wind) blow’
+ NNG: Yabem           yu                ‘(s.o.) blow’
+ NNG: Kaiwa           u                 ‘(wind) blow’
+ NNG: Misim           yuv               ‘(wind) blow’
+ NNG: Vehes           vin               ‘wind’
+ NNG: Mangga          va-vi             ‘wind’
+ NNG: Medebur         -wi               ‘(wind) blow’
+ MM: Tabar            uvi               ‘(wind) blow’
+ SES: Gela            uvi-uvi           ‘blow with the breath, play pipes’
+ SES: Lau             ufi               ‘blow with the mouth; blow a conch or panpipes’
+ SES: Arosi           uhi               ‘blow, breathe on’
+ NCV: Mota            uw                ‘blow with the mouth, or of wind’
+ NCV: Raga            uvi               ‘blow’
+ NCV: Paamese         uhi               ‘blow’
+ Fij: Wayan           uvi, uvu          ‘(fire, flute) be blown with the mouth, (ball, balloon) inflated, blown up’
+ Fij: Wayan           uvi               ‘blow s.t. with the mouth’
 >
 
    In a number of NNG languages in the region of the Vitiaz Strait and the Huon Gulf, a
@@ -5934,52 +5931,52 @@ PMP *ibut ‘breeze, draught of wind’ (ACD)
 POc *ipu ‘(wind) blow’ (cf. vol. 1, pp.107–108)
  NNG: Bing             yu                ‘(wind) blow’
  NNG: Sissano          -iu               ‘(wind) blow’
- MM: Tinputz           viu               ‘(wind) blow’ (metathesis)
- MM: Mono              ihu               ‘(wind) blow’
- MM: Lungga            ivu               ‘blow’
- MM: Roviana           ivu-a             ‘blow on (fire), blow into (conch)’
- MM: Maringe           ifu               ‘blow’
+ MM:  Tinputz          viu               ‘(wind) blow’ (metathesis)
+ MM:  Mono             ihu               ‘(wind) blow’
+ MM:  Lungga           ivu               ‘blow’
+ MM:  Roviana          ivu-a             ‘blow on (fire), blow into (conch)’
+ MM:  Maringe          ifu               ‘blow’
  SES: Bugotu           ifu               ‘blow (fire, pan-pipes)’
 >
 
-It seems likely that the form *ip(w)i is the result of an idiosyncratic change to *upi, *ipu or
-both. A couple of forms, NNG: Kaulong e-ip ‘the wind’ and MM: Nalik if ‘(wind) blow’,
-may reflect either *ipu or *ip(w)i.
+It seems likely that the form _*i(p,pʷ)i_ is the result of an idiosyncratic change to _*upi_, _*ipu_ or
+both. A couple of forms, NNG: Kaulong _e-ip_ ‘the wind’ and MM: Nalik _if_ ‘(wind) blow’,
+may reflect either _*ipu_ or _*i(p,pʷ)i_.
 
 <
-POc *ip(w)i ‘(wind, person) blow’
- MM: Ramoaaina          ipi               ‘(wind) blow’
- MM: Tolai              ipi               ‘(wind) blow’
- MM: Teop               ivi               ‘(wind) blow’
- Pn:    Tongan          ifi               ‘blow with the mouth; blow or blow into or play (a whistle, or wind instrument)’
- Pn:     Samoan          ifi              ‘blow smoke’
- Pn:     Maori           ihi              ‘blow, of wind’
+POc *ip(p,pʷ)i ‘(wind, person) blow’
+ MM: Ramoaaina       ipi        ‘(wind) blow’
+ MM: Tolai           ipi        ‘(wind) blow’
+ MM: Teop            ivi        ‘(wind) blow’
+ Pn: Tongan          ifi        ‘blow with the mouth; blow or blow into or play (a whistle, or wind instrument)’
+ Pn: Samoan          ifi        ‘blow smoke’
+ Pn: Maori           ihi        ‘blow, of wind’
 >
 
    Two other forms meaning ‘blow’ are also reconstructable. These are also formally
 rather similar to each other, but this similarity evidently dates back to well before the
-genesis of POc. I know of no proper non-Oceanic cognates of POc *p(w)usi, but it appears
-to reflect the same monosyllabic root (*bus) as PMP *qembus ‘snort, pant’ (ACD) (with
+genesis of POc. I know of no proper non-Oceanic cognates of POc _*(p,pʷ)usi_, but it appears
+to reflect the same monosyllabic root (_*bus_) as PMP _*qembus_ ‘snort, pant’ (ACD) (with
 regard to monosyllabic roots, see vol. 1, pp.27–28).
 
 <
-POc *p(w)usi ‘(wind) blow’
- NNG: Aria              -pu               ‘(wind) blow’
- NNG: Sengseng          pe-puh            ‘wind’
- NNG: Numbami           pusie             ‘(wind) blow ’
- NNG: Patep             plu               ‘blow ’
- MM: Konomala           fus               ‘(wind) blow’
- MM: Minigir            vusu              ‘(wind) blow’
- MM: Tolai              vu                ‘(wind) blow’
- MM: Hahon              vus               ‘wind’
- MM:    Tinputz         vuh           ‘wind’
- SV:    Sye             o-vosi        ‘wind’ (Lynch 1978b)
- Pn:    Rennellese      pusi          ‘(wind) blow; blow (flute)’
- Pn:    Maori           pu-puhi       ‘blow (as the wind, a whale); shoot (as a gun)’
+POc *(p,pʷ)usi ‘(wind) blow’
+ NNG: Aria            -pu           ‘(wind) blow’
+ NNG: Sengseng        pe-puh        ‘wind’
+ NNG: Numbami         pusie         ‘(wind) blow ’
+ NNG: Patep           plu           ‘blow ’
+ MM:  Konomala        fus           ‘(wind) blow’
+ MM:  Minigir         vusu          ‘(wind) blow’
+ MM:  Tolai           vu            ‘(wind) blow’
+ MM:  Hahon           vus           ‘wind’
+ MM:  Tinputz         vuh           ‘wind’
+ SV:  Sye             o-vosi        ‘wind’ (Lynch 1978b)
+ Pn:  Rennellese      pusi          ‘(wind) blow; blow (flute)’
+ Pn:  Maori           pu-puhi       ‘blow (as the wind, a whale); shoot (as a gun)’
 >
 
-The initial p- of the Pn items reflects POc *b- or *pw-: hence the suggestion that there was
-a POc alternant *pwusi.
+The initial _p-_ of the Pn items reflects POc _*b-_ or _*pʷ-_: hence the suggestion that there was
+a POc alternant _*pʷusi_.
 
                                                          Meteorological phenomena       131
 
@@ -5987,7 +5984,7 @@ a POc alternant *pwusi.
 PAn *pu+put ‘blow’ (Zorc 1994)
 PMP *putput ‘puff, blow suddenly and hard’
 POc *(pu)put ‘(wind) blow’
- MM: Kara (West) fifit              ‘(wind) blow’
+ MM: Kara (West)       fifit        ‘(wind) blow’
  MM: Siar              fut          ‘(wind) blow’
  MM: Selau             wut          ‘(wind) blow’
  MM: Papapana          pute         ‘wind’
@@ -5998,14 +5995,14 @@ POc *(pu)put ‘(wind) blow’
    If POc speakers lived in the Bismarcks, then they encountered two seasons: the dry,
 when the southeast trades blew with reasonable consistency, and the wet, when there were
 sporadic northwesterly winds. The POc terms for the winds associated with these seasons
-were respectively *raki and *apaRat. They may also have referred to the seasons, with
+were respectively _*raki_ and _*apaRat_. They may also have referred to the seasons, with
 typical weather and wind direction as inevitable components of their meanings, as well as
 having associations with navigability and agriculture. Modern uses of wind terms suggest
 strongly that they also served as terms for cardinal directions in POc, and that the two
 major wind directions were perhaps the only cardinal directions for POc speakers (Ch. 8,
 §1).
 
-   POc *raki ‘southeast trades’ has no obvious non-Oceanic cognates. This is hardly
+   POc _*raki_ ‘southeast trades’ has no obvious non-Oceanic cognates. This is hardly
 surprising. When Austronesian speakers came out of the lee of the New Guinea cordillera
 into the Bismarcks and encountered the southeast trades of the SHW and the attendant dry
 season, they met what was for them a new phenomenon. The only part of Indonesia with a
@@ -6013,159 +6010,157 @@ similar season is in the southeast in the area around Timor, where the southeast
 brings a dry season. But it is unlikely that people ancestral to Oceanic speakers migrated
 via that area.
 
-   POc *raki probably also denoted the dry season when the southeast trades blow. In the
+   POc _*raki_ probably also denoted the dry season when the southeast trades blow. In the
 Admiralties its reflex refers to a northeasterly wind, in Micronesia to the southerly
 direction and to the summer season (SHW) when the breadfruit grow. In both cases, the
 seasonal conditions familiar to POc speakers do not occur. On Manus Island in the
 Admiralties, there is a double rainfall maximum and no true dry season. Micronesia lies
 north of the Equator and has seasons the converse of those of POc. In both cases, reflexes
-of *raki have been applied to a new referent. In the Admiralties it has retained its
+of _*raki_ have been applied to a new referent. In the Admiralties it has retained its
 association with a cooler wind and now applies to a cool wind from the mountains of
 Manus Island. In Micronesia it refers to the same period of the year and roughly the same
 wind direction as in POc, but because of the northern tropical location it now refers to the
 wet season rather than the dry. It is noteworthy, however, that in both the Admiralties and
-Micronesia, *raki continues to have a referent which is considered to be pleasant—in the
+Micronesia, _*raki_ continues to have a referent which is considered to be pleasant — in the
 Admiralties because the wind is cool, in Micronesia because the season produces
 breadfruit.
 
 132   Malcolm Ross
 
-   A selection of data supporting the reconstruction of *raki follows.
+   A selection of data supporting the reconstruction of _*raki_ follows.
 
 <
 POc *raki ‘southeast trades’ (probably also ‘dry season when the southeast trades blow’)
- Adm: Lou               ra          ‘northeast, northeast wind’
- Adm: Titan            | n ray |      ‘wind from the mainland, mountain breeze, blows at night’
- NNG: Kove              hai         ‘southeast trade, year’
- NNG: Bariai            rai         ‘year’
- NNG: Gitua             rak         ‘southeast trade’
- NNG: Lukep             rai         ‘year’
- NNG: Mangap            rak-rak     ‘fresh morning (during windy season)’
- NNG: Tami              lai         ‘southeast trade’
- NNG: Maleu             na-lai      ‘southeast trade’
- NNG: Ali               rai         ‘southeast trade’
- NNG: Tumleo            riei        ‘southeast trade’
- MM: Vitu               raɣi        ‘southeast trade’
- MM: Bulu               laɣi        ‘southeast trade’
- MM: Tigak              rei         ‘wind’
- NCV: Lewo              lagi(pesoi) ‘east wind ’
- Mic: Marshallese       ṛɯak             ‘south, summer’
- Mic: Ponapean          rāk         ‘breadfruit season, season of plenty’
- Mic: Woleaian          ẓaxi       ‘year, age, summer season’
- Fij:  Wayan            draki       ‘weather’
- Fij:  Bauan            draki       ‘weather’
+ Adm: Lou          ra           ‘northeast, northeast wind’
+ Adm: Titan        ⁿray         ‘wind from the mainland, mountain breeze, blows at night’
+ NNG: Kove         hai          ‘southeast trade, year’
+ NNG: Bariai       rai          ‘year’
+ NNG: Gitua        rak          ‘southeast trade’
+ NNG: Lukep        rai          ‘year’
+ NNG: Mangap       rak-rak      ‘fresh morning (during windy season)’
+ NNG: Tami         lai          ‘southeast trade’
+ NNG: Maleu        na-lai       ‘southeast trade’
+ NNG: Ali          rai          ‘southeast trade’
+ NNG: Tumleo       riei         ‘southeast trade’
+ MM:  Vitu         raɣi         ‘southeast trade’
+ MM:  Bulu         laɣi         ‘southeast trade’
+ MM:  Tigak        rei          ‘wind’
+ NCV: Lewo         lagi(pesoi)  ‘east wind ’
+ Mic: Marshallese  ṛɯak         ‘south, summer’
+ Mic: Ponapean     rāk          ‘breadfruit season, season of plenty’
+ Mic: Woleaian     ẓaxi         ‘year, age, summer season’
+ Fij: Wayan        draki        ‘weather’
+ Fij: Bauan        draki        ‘weather’
 PPn *laki ‘southwesterly quandrant, southwest wind and weather associated with it’
- Pn:    Niuean         laki        ‘west’
- Pn:    E Uvean        laki        ‘southeast or southwest wind’
- Pn:    Pukapukan      laki        ‘southwest wind’
- Pn:    Samoan         laʔi        ‘southwest veering to northwest’
- Pn:    Tokelauan      laki        ‘hurricane season and westerly quarter winds that blow during it’
- Pn:    Anutan         laki        ‘the whole southwestern quadrant; westerly or southwesterly wind; the period of the year when the wind is from that quarter’
- Pn:    Rennellese     gaki        (N) ‘west or southwest wind’; (V) ‘(of this wind) blow’
- Pn:    Takuu          laki        ‘season of westerly winds’
- Pn:    Hawaiian       laʔi        ‘calm, stillness, quiet (of sea, sky, wind)’
- Pn:    Tuamotuan raki             ‘wind from southwesterly quadrant’
+ Pn:  Niuean       laki         ‘west’
+ Pn:  E Uvean      laki         ‘southeast or southwest wind’
+ Pn:  Pukapukan    laki         ‘southwest wind’
+ Pn:  Samoan       laʔi         ‘southwest veering to northwest’
+ Pn:  Tokelauan    laki         ‘hurricane season and westerly quarter winds that blow during it’
+ Pn:  Anutan       laki         ‘the whole southwestern quadrant; westerly or southwesterly wind; the period of the year when the wind is from that quarter’
+ Pn:  Rennellese   gaki         (N) ‘west or southwest wind’; (V) ‘(of this wind) blow’
+ Pn:  Takuu        laki         ‘season of westerly winds’
+ Pn:  Hawaiian     laʔi         ‘calm, stillness, quiet (of sea, sky, wind)’
+ Pn:  Tuamotuan    raki         ‘wind from southwesterly quadrant’
 >
 
-   Much of the data for the reconstruction of PPn wind directions is drawn from Biggs and
-Clark (1993), but the glosses of the protoforms are mine. For example, for PPn *laki Biggs
-and Clark give the gloss ‘the westerly quarter, wind from that quarter and weather
+   Much of the data for the reconstruction of PPn wind directions is drawn from
+Biggs and Clark (1993), but the glosses of the protoforms are mine. For example, for PPn _*laki_
+Biggs and Clark give the gloss ‘the westerly quarter, wind from that quarter and weather
 associated with it’. If this were its denotation, we might expect reflexes to range in
 meaning between northwest and southwest, but no reflex denotes a direction north of west.
 From this I infer that it denoted the southwesterly quadrant. Similar argumentation applies
-to PPn *toŋa ‘southeasterly quadrant, southeast wind’ and PPn *tokelau ‘northwesterly
+to PPn _*toŋa_ ‘southeasterly quadrant, southeast wind’ and PPn _*tokelau_ ‘northwesterly
 quadrant, north-west winds’ below.
 
                                                          Meteorological phenomena       133
 
-   POc *apaRat ‘northwest wind’ has non-Oceanic cognates. It is descended from PMP
-*habaRat, and from the reflexes listed below, I infer that this meant ‘southwest monsoon,
+   POc _*apaRat_ ‘northwest wind’ has non-Oceanic cognates. It is descended from PMP
+_*habaRat_, and from the reflexes listed below, I infer that this meant ‘southwest monsoon,
 wet season’ in its homeland. However, in Mindanao, where Manobo is spoken, there are
 two monsoons, the southwest and the northeast. Because the northeast monsoon is a much
-moistened version of the northeast trades, it evidently blows harder that the southwest
+moistened version of the northeast trades, it evidently blows harder than the southwest
 monsoon and has taken over the ‘monsoon/wet season’ label. When the northeast monsoon
 changes direction to northwest south of the Equator, it retains the same label right across
-Indonesia, and POc *apaRat ‘northwest wind’ is its natural continuation in the Bismarcks.
+Indonesia, and POc _*apaRat_ ‘northwest wind’ is its natural continuation in the Bismarcks.
 
 <
 PAn *SabaRat ‘(?) south wind’ (ACD; Zorc 1994: ‘monsoon wind’)
 PMP *habaRat ‘west monsoon’ (Dempwolff 1938, ACD)
- WMP: Belau            ŋəbarð         ‘west wind’ (Josephs 1990)
- WMP: Yami             kavalat-an     ‘west or southwest wind’ (Benedek 1991)
- WMP: Itbayat          havayat        ‘west wind (blows from late July to September)’
- WMP: Tagalog          habagat        ‘west or southwest wind; monsoon’
- WMP: Bikol            habagat        ‘south wind’
- WMP: Cebuano          habagat        ‘strong wind that hits Cebu from the southwest, common from June to September’
- WMP: Manobo           evaɣat         ‘the strongest wind: the northeast monsoon’ (Elkins 1968)
- WMP: Tiruray          barat          ‘the rainy season’
- WMP: Aceh             barat          ‘west, westerly’
- WMP: Old Javanese barat              ‘strong wind, storm; west’
- WMP: Wolio            bara           ‘west, west monsoon’
- CMP: Manggarai        warat          ‘rainy season (primarily in January and February); violent storm’
- CMP: Buru             fahat          ‘west monsoon’
- SHWNG: Numfor         barek          ‘west’
- SHWNG: Numfor         (wam)barek     ‘west wind or monsoon’
+ WMP:   Belau          ŋəbarð        ‘west wind’ (Josephs 1990)
+ WMP:   Yami           kavalat-an    ‘west or southwest wind’ (Benedek 1991)
+ WMP:   Itbayat        havayat       ‘west wind (blows from late July to September)’
+ WMP:   Tagalog        habagat       ‘west or southwest wind; monsoon’
+ WMP:   Bikol          habagat       ‘south wind’
+ WMP:   Cebuano        habagat       ‘strong wind that hits Cebu from the southwest, common from June to September’
+ WMP:   Manobo         evaɣat        ‘the strongest wind: the northeast monsoon’ (Elkins 1968)
+ WMP:   Tiruray        barat         ‘the rainy season’
+ WMP:   Aceh           barat         ‘west, westerly’
+ WMP:   Old Javanese   barat         ‘strong wind, storm; west’
+ WMP:   Wolio          bara          ‘west, west monsoon’
+ CMP:   Manggarai      warat         ‘rainy season (primarily in January and February); violent storm’
+ CMP:   Buru           fahat         ‘west monsoon’
+ SHWNG: Numfor         barek         ‘west’
+ SHWNG: Numfor         (wam)barek    ‘west wind or monsoon’
 >
 
-   POc *apaRat probably also denoted the accompanying wet season (SHS). The glosses
+   POc _*apaRat_ probably also denoted the accompanying wet season (SHS). The glosses
 of a number of its reflexes denote the wind direction rather than the season, whereas we
 might expect a priori that the word would refer primarily to the season rather than to the
 wind, as the latter does not blow consistently. This may be a product of elicitation
 techniques which asked for wind names rather than for seasons. In any case, there is no
 serious competitor for ‘wet season’, and a sufficient spread of reflexes referring to the
-season, to rain, to rough seas and to storms to establish *apaRat as the word for the season
+season, to rain, to rough seas and to storms to establish _*apaRat_ as the word for the season
 as well as for the wind. In Central Pacific languages (Fijian and Polynesian) reflexes refer
 to the storms and cyclones associated with the wet in the southern tropical zone.
 
 <
 PMP *habaRat ‘west monsoon’ (Dempwolff 1938, ACD)
 POc *apaRat ‘northwest wind; wet season when northwesterlies blow and sea is rough’
- Adm: Mussau          apae            ‘strong wind, storm wind’
- Adm: Wuvulu          afā             ‘northwest wind’
- Adm: Drehet            yaha            ‘stormy season, generally from November to March; strong wind and rough sea from the northwest’
- NNG: Kove              awaha           ‘rain’
- NNG: Gitua             yavara          ‘north wind’
- NNG: Tami              yawal           ‘northwest wind’
- NNG: Kairiru           yavar           ‘northwest wind, makes sea rough’
- PT:  Muyuw             yavat           ‘west, west wind’
- PT:  Iduna             yavalata        ‘rains with wind from the northwest in February and March’
- PT:   Tawala           yawalata        ‘light rain from southwest during dry season’
- PT:   Motu             lahara          ‘northwest wind, season of northwest wind’
- MM: Bali               vurata          ‘northwest wind’
- MM: Nakanai            le-avala        ‘year, wet season’
- MM: Kara (East)        yefet           ‘wet season’
- MM: Barok              awat            ‘year’
- MM: Siar               yahrat          ‘year’
- MM: Tinputz            ivat            ‘strong wind’
- NCal: Nêlêmwa          (w)āvac         ‘north wind’ (Lynch pers. comm.)
- NCal: Pije             (y)avec         ‘north wind’
- NCal: Fwâi             (y)avec         ‘north wind’
- NCal: Nemi             (y)avec, (y)aec ‘north wind’
- NCal: Jawe             (y)aec          ‘north wind’
+ Adm:  Mussau          apae            ‘strong wind, storm wind’
+ Adm:  Wuvulu          afā             ‘northwest wind’
+ Adm:  Drehet          yaha            ‘stormy season, generally from November to March; strong wind and rough sea from the northwest’
+ NNG:  Kove            awaha           ‘rain’
+ NNG:  Gitua           yavara          ‘north wind’
+ NNG:  Tami            yawal           ‘northwest wind’
+ NNG:  Kairiru         yavar           ‘northwest wind, makes sea rough’
+ PT:   Muyuw           yavat           ‘west, west wind’
+ PT:   Iduna           yavalata        ‘rains with wind from the northwest in February and March’
+ PT:   Tawala          yawalata        ‘light rain from southwest during dry season’
+ PT:   Motu            lahara          ‘northwest wind, season of northwest wind’
+ MM:   Bali            vurata          ‘northwest wind’
+ MM:   Nakanai         le-avala        ‘year, wet season’
+ MM:   Kara (East)     yefet           ‘wet season’
+ MM:   Barok           awat            ‘year’
+ MM:   Siar            yahrat          ‘year’
+ MM:   Tinputz         ivat            ‘strong wind’
+ NCal: Nêlêmwa         (w)āvac         ‘north wind’ (Lynch pers. comm.)
+ NCal: Pije            (y)avec         ‘north wind’
+ NCal: Fwâi            (y)avec         ‘north wind’
+ NCal: Nemi            (y)avec, (y)aec ‘north wind’
+ NCal: Jawe            (y)aec          ‘north wind’
+PCP *avā ‘storm, gale, hurricane’
+ Fij:  Wayan           ðavā            ‘storm, strong wind bringing rain’
+ Pn:   Tongan          afā             ‘hurricane, gale or very severe storm’
+ Pn:   Niuean          afā             ‘storm, hurricane, gale’
+ Pn:   Samoan          afā             ‘storm, hurricane’
+ Pn:   Tokelauan       afā             ‘storm, hurricane’
+ Pn:   E Futunan       afā             ‘storm, hurricane’
+ Pn:   E Uvean         afā             ‘storm, hurricane’
+ Pn:   Rennellese      ahā             ‘storm, hurricane’
+ Pn:   W Futunan       afa             ‘gale, storm winds, hurricane winds’
+ Pn:   Tuamotuan       āfā             ‘(storm) break forth violently’
+ Pn:   Maori           āfā             ‘storm, hurricane’
 >
 
 134   Malcolm Ross
 
-<
-PCP *avā ‘storm, gale, hurricane’
- Fij:  Wayan            ðavā             ‘storm, strong wind bringing rain’
- Pn:   Tongan           afā              ‘hurricane, gale or very severe storm’
- Pn:   Niuean           afā              ‘storm, hurricane, gale’
- Pn:   Samoan           afā              ‘storm, hurricane’
- Pn:   Tokelauan        afā              ‘storm, hurricane’
- Pn:   E Futunan        afā              ‘storm, hurricane’
- Pn:   E Uvean          afā              ‘storm, hurricane’
- Pn:   Rennellese       ahā              ‘storm, hurricane’
- Pn:   W Futunan        afa              ‘gale, storm winds, hurricane winds’
- Pn:   Tuamotuan        āfā              ‘(storm) break forth violently’
- Pn:   Maori            āfā              ‘storm, hurricane’
->
 
    Related forms also occur in Southeast Solomonic and Micronesian languages, but all
 appear to be borrowed rather than directly inherited. The Southeast Solomonic forms
-below reflect a (non-existent) POc **awaRosi rather than *apaRat. They are evidently the
+below reflect a (non-existent) POc _**awaRosi_ rather than _*apaRat_. They are evidently the
 outcome of borrowing from a Western Oceanic language where POc final consonants were
-retained with paragogic *-i (the only group of languages which satisfy this criterion today
+retained with paragogic _*-i_ (the only group of languages which satisfy this criterion today
 are the Suauic languages of the Papuan Tip, and they are geographically somewhat
 unlikely candidates for the source).
 
@@ -6177,37 +6172,37 @@ __pre__
  SES: Sa’a                 awalosi            ‘northwest wind’
 
    The Micronesian forms are odd in two ways. Firstly, if sound correspondences are
-applied to infer their putative POc ancestor, the result is **barat[a], a form which is
+applied to infer their putative POc ancestor, the result is _**barat[a]_, a form which is
 certainly not POc, but which is consistent with an early borrowing from a WMP language,
-perhaps a Philippine language. Its initial *b- and final *-t reflect the corresponding
-phonemes of PMP *habaRat. Certain Philippine languages also reflect PMP *habaRat-an
-with the locative suffix *-an, e.g. Cebuano habagatan ‘southwest’, and the suffix may be
-the source of the final -a of Trukic and Woleaian forms. Secondly, the forms mean
+perhaps a Philippine language. Its initial _*b-_ and final _*-t_ reflect the corresponding
+phonemes of PMP _*habaRat_. Certain Philippine languages also reflect PMP _*habaRat-an_
+with the locative suffix _*-an_, e.g. Cebuano _habagatan_ ‘southwest’, and the suffix may be
+the source of the final _-a_ of Trukic and Woleaian forms. Secondly, the forms mean
 ‘(northeast) trade wind’, not, as we might here expect, something like ‘southwest storm
 wind’:
 
 __pre__
- Mic: Ponapean              (nan-)par     ‘tradewind season’
- Mic: Proto Trukic          *parata       ‘tradewind’
- Mic: L. Mortlockese paras                ‘rain that comes in due to wind’
-  Mic: Woleaian             paẓasa       ‘tradewind’
+ Mic: Ponapean           (nan-)par    ‘tradewind season’
+ Mic: Proto Trukic       *parata      ‘tradewind’
+ Mic: L. Mortlockese     paras        ‘rain that comes in due to wind’
+ Mic: Woleaian           paẓasa       ‘tradewind’
 
-   Blust (ACD) takes it that PMP *habaRat ‘southwest monsoon season, wet season’
-formed a pair with PMP *timuR, implying that the latter referred to the northeast trades
+   Blust (ACD) takes it that PMP _*habaRat_ ‘southwest monsoon season, wet season’
+formed a pair with PMP _*timuR_, implying that the latter referred to the northeast trades
 and the dry season. However, such a pairing seems to have arisen among the WMP
-languages of Indonesia, where reflexes of *habaRat mean ‘west’ and of *timuR ‘east’. In
+languages of Indonesia, where reflexes of _*habaRat_ mean ‘west’ and of _*timuR_ ‘east’. In
 Philippine languages, where we might expect the PMP sense to be retained, reflexes of
-*timuR refer to a south or east wind, but not a monsoonal wind. (The PMP term for
-northeast trades seems to have been *qamíh-an,[8] lost when Austronesian speakers crossed
-into the southern hemisphere.) PMP *timuR also has reflexes in Oceanic languages, and
-POc *timu(R) seems to have meant ‘wind bringing light rain’. In Papuan Tip languages
-forms which appear to reflect *timu(R) have undergone a curious semantic shift and now
+_*timuR_ refer to a south or east wind, but not a monsoonal wind. (The PMP term for
+northeast trades seems to have been _*qamíh-an_,[8] lost when Austronesian speakers crossed
+into the southern hemisphere.) PMP _*timuR_ also has reflexes in Oceanic languages, and
+POc _*timu(R)_ seems to have meant ‘wind bringing light rain’. In Papuan Tip languages
+forms which appear to reflect _*timu(R)_ have undergone a curious semantic shift and now
 mean ‘island’ (Ch. 3, §2.2). Relevant data are listed below.
 
-[8] Tsuchida (1976) reconstructs PAn *qamiS ‘north wind’. Philippine reflexes indicate that the locative
-  suffix *-an had been appended in PMP, giving *qamíh-an, reflected in Isneg amiyān ‘monsoon wind’,
-  Casiguran Dumagat amian ‘northeast wind’, Tagalog amíhan ‘northeast wind’, Bikol amíhan ‘northeast
-  trade wind’, Maranao amian ‘northwest wind’.
+[8] Tsuchida (1976) reconstructs PAn _*qamiS_ ‘north wind’. Philippine reflexes indicate that the locative
+  suffix _*-an_ had been appended in PMP, giving _*qamíh-an_, reflected in Isneg _amiyān_ ‘monsoon wind’,
+  Casiguran Dumagat _amian_ ‘northeast wind’, Tagalog _amíhan_ ‘northeast wind’, Bikol _amíhan_ ‘northeast
+  trade wind’, Maranao _amian_ ‘northwest wind’.
 
 <
 PMP *timuR ‘south or east wind’ (Dempwolff 1938: ‘wind bringing rain’; Zorc 1994: ‘rain wind from southeast’)
@@ -6226,40 +6221,40 @@ PMP *timuR ‘south or east wind’ (Dempwolff 1938: ‘wind bringing rain’; Z
 
 <
 POc *timu(R) ‘wind bringing light rain’
- NNG: Takia             tim               ‘wind’
- NNG: Ali               tim               ‘dew’
- PT:    Iduna           himula            ‘island ’
- PT:    Dobu            simula            ‘island ’
- PT:    Motu            si-simu           ‘light shower’
- MM: Ramoaaina          timtim            ‘drizzle; of rain’
- Pn:    Samoan          timu              ‘be rainy, rain’
- Pn:    Anutan          timu              ‘light rain, drizzle’
- Pn:    Tongan          jimu-jimu         ‘heavy blowing, almost a hurricane’
+ NNG: Takia           tim               ‘wind’
+ NNG: Ali             tim               ‘dew’
+ PT:  Iduna           himula            ‘island ’
+ PT:  Dobu            simula            ‘island ’
+ PT:  Motu            si-simu           ‘light shower’
+ MM:  Ramoaaina       timtim            ‘drizzle; of rain’
+ Pn:  Samoan          timu              ‘be rainy, rain’
+ Pn:  Anutan          timu              ‘light rain, drizzle’
+ Pn:  Tongan          jimu-jimu         ‘heavy blowing, almost a hurricane’
 >
 
-   In Fijian and Polynesian languages the reflexes of POc *raki ‘southeast trades’ and
-*apaRat ‘northwest wind’ listed above reflect shifts in meaning. In Fijian languages,
-reflexes of *raki mean ‘weather’, whilst Polynesian reflexes point to PPn *laki
+   In Fijian and Polynesian languages the reflexes of POc _*raki_ ‘southeast trades’ and
+_*apaRat_ ‘northwest wind’ listed above reflect shifts in meaning. In Fijian languages,
+reflexes of _*raki_ mean ‘weather’, whilst Polynesian reflexes point to PPn _*laki_
 ‘southwesterly quandrant, southwest wind and weather associated with it’ (Biggs & Clark
 1993), i.e. a shift from southeast to southwest. In both Fijian and Polynesian languages,
-reflexes of POc *apaRat point to PCP *avā ‘storm, gale, hurricane’.
+reflexes of POc _*apaRat_ point to PCP _*avā_ ‘storm, gale, hurricane’.
 
-   The closest functional equivalents to POc *raki and *apaRat in PPn were evidently PPn
-*toŋa ‘southeasterly quadrant, southeast wind’ and PPn *tokelau ‘northwesterly quadrant,
+   The closest functional equivalents to POc _*raki_ and _*apaRat_ in PPn were evidently PPn
+_*toŋa_ ‘southeasterly quadrant, southeast wind’ and PPn _*tokelau_ ‘northwesterly quadrant,
 northwest winds’. Whereas the POc terms evidently referred prototypically to seasonal
 winds, the central meanings of the PPn terms seem to have been winds from a certain
 portion—apparently a quadrant—of the compass, as the reflexes below indicate and as
-Åkerblom (1968:52) has observed. In Rarotongan, for example, toŋa refers to winds from
-south-by-west to south-southeast (but prototypically to south), tokerau to winds from
-northwest-by-north to west-northwest (prototypically to northwest); in Pukapukan toŋa
+Åkerblom (1968:52) has observed. In Rarotongan, for example, _toŋa_ refers to winds from
+south-by-west to south-southeast (but prototypically to south), _tokerau_ to winds from
+northwest-by-north to west-northwest (prototypically to northwest); in Pukapukan _toŋa_
 refers to winds from south-by-east to southeast-by-south (but prototypically to south-
-southeast), tokelau to winds from north to northwest (Lewis 1972:74–75). Åkerblom goes
+southeast), _tokelau_ to winds from north to northwest (Lewis 1972:74–75). Åkerblom goes
 a step further and suggests that neither term refers specifically to the trade wind. However,
 he recognises that throughout Polynesia a feature of the meaning of each is the prevailing
 wind and that they are often used with reference to the southeast trades and to northwest
 storm winds.
 
-   The ancestry of PPn *toŋa is unclear, and I return to this below. Data supporting its
+   The ancestry of PPn _*toŋa_ is unclear, and I return to this below. Data supporting its
 reconstruction are as follows:
 
 <
@@ -6276,75 +6271,75 @@ PPn *toŋa ‘southeasterly quadrant, southeast wind’
  Pn:    W.Futunan       toŋa             ‘south’
  Pn:    Rapanui         toŋa             ‘autumn, winter’
  Pn:    Rarotongan      toŋa             ‘one of the wind quarters, south or southerly ’
- Pn:    Rarotongan      toŋa                ‘south wind’ (Lewis 1972:74)
- Pn:    Mangareva       toŋa                ‘south wind’
- Pn:    Tahitian        toʔa                ‘south wind’
- Pn:    Maori           toŋa                ‘south’
- Pn:    Tuamotuan       toŋa                ‘wind from southerly or easterly quarter’
- Pn:    Hawaiian        kona                ‘leeward (i.e. south or southwest)’
+ Pn:    Rarotongan      toŋa             ‘south wind’ (Lewis 1972:74)
+ Pn:    Mangareva       toŋa             ‘south wind’
+ Pn:    Tahitian        toʔa             ‘south wind’
+ Pn:    Maori           toŋa             ‘south’
+ Pn:    Tuamotuan       toŋa             ‘wind from southerly or easterly quarter’
+ Pn:    Hawaiian        kona             ‘leeward (i.e. south or southwest)’
 >
 
                                                         Meteorological phenomena        137
 
-   PPn *tokelau ‘northwesterly quadrant, northwest winds’ reflects POc *tokalau(r), the
+   PPn _*tokelau_ ‘northwesterly quadrant, northwest winds’ reflects POc _*tokalau(r)_, the
 precise denotation of which is unclear. It presumably did not mean ‘northwest wind’, as
-this was the meaning of POc *apaRat. The glosses of its reflexes below suggest that it
+this was the meaning of POc _*apaRat_. The glosses of its reflexes below suggest that it
 denoted a northerly, or perhaps northeasterly, wind.
 
 <
 POc *tokalau(r) ‘(?) northerly wind’
- Adm: Baluan             tolaw              ‘north wind’
- Adm: Nyindrou           tolau              ‘north’
- NNG: Kairiru            tolau              ‘non-seasonal south wind, makes sea rough’
- NCV: Paamese            tōlau              ‘northeast wind’
- NCV: Atchin             tola               ‘northwest wind’
- NCV: Nguna              tokolau            ‘northwest wind’
- NCV: Namakir            tokolo             ‘northwest wind’
- Fij:   Wayan            tokalau            ‘easterly wind’
- Fij:   Bauan            tokalau            ‘northeast wind; third of compass from N to roughly WSW’ (Neyret 1950)
+ Adm: Baluan         tolaw              ‘north wind’
+ Adm: Nyindrou       tolau              ‘north’
+ NNG: Kairiru        tolau              ‘non-seasonal south wind, makes sea rough’
+ NCV: Paamese        tōlau              ‘northeast wind’
+ NCV: Atchin         tola               ‘northwest wind’
+ NCV: Nguna          tokolau            ‘northwest wind’
+ NCV: Namakir        tokolo             ‘northwest wind’
+ Fij: Wayan          tokalau            ‘easterly wind’
+ Fij: Bauan          tokalau            ‘northeast wind; third of compass from N to roughly WSW’ (Neyret 1950)
 PPn *tokelau ‘northwesterly quadrant, northwest winds’ (Biggs & Clark 1993)
- Pn:    Tongan         tokelau             ‘north ’
- Pn:    E Futunan      tokelau             ‘northerly wind’
- Pn:    Pukapukan     | tokelau (iti) |     ‘north wind’ (Lewis 1972:75)
- Pn:    Pukapukan     | tokelau (matua) | ‘northwest wind’ (Lewis 1972:75)
- Pn:    Rennellese     tokegau             ‘northwest wind’
- Pn:    Samoan         toʔelau             ‘trade wind from northeast to east-southeast’
- Pn:    Tuvaluan       tokelau             ‘north, northerly wind’
- Pn:    Takuu          tokorau             ‘north, northerly wind’
- Pn:    Sikaiana       tokelau             ‘north’
- Pn:    Luangiua       koʔolau             ‘north’
- Pn:    Tikopia        tokerau             ‘north wind’
- Pn:    Rarotongan     tokerau             ‘northwest wind’ (Lewis 1972:74)
- Pn:    Hawaiian       koʔolau             ‘windward (northeast) sides of Hawaiian islands.’
- Pn:    Marquesan      tokoʔau             ‘north or northwest wind’
- Pn:    Anutan         tokerau             ‘approximately north; northerly wind’
+ Pn:  Tongan         tokelau            ‘north ’
+ Pn:  E Futunan      tokelau            ‘northerly wind’
+ Pn:  Pukapukan      |tokelau (iti)|    ‘north wind’ (Lewis 1972:75)
+ Pn:  Pukapukan      |tokelau (matua)|  ‘northwest wind’ (Lewis 1972:75)
+ Pn:  Rennellese     tokegau            ‘northwest wind’
+ Pn:  Samoan         toʔelau            ‘trade wind from northeast to east-southeast’
+ Pn:  Tuvaluan       tokelau            ‘north, northerly wind’
+ Pn:  Takuu          tokorau            ‘north, northerly wind’
+ Pn:  Sikaiana       tokelau            ‘north’
+ Pn:  Luangiua       koʔolau            ‘north’
+ Pn:  Tikopia        tokerau            ‘north wind’
+ Pn:  Rarotongan     tokerau            ‘northwest wind’ (Lewis 1972:74)
+ Pn:  Hawaiian       koʔolau            ‘windward (northeast) sides of Hawaiian islands.’
+ Pn:  Marquesan      tokoʔau            ‘north or northwest wind’
+ Pn:  Anutan         tokerau            ‘approximately north; northerly wind’
 >
 
-   POc *tokalau(r) ‘(?) northerly wind’ reflects two PMP morphemes, as Dempwolff
-(1938:134) observed. The first appears to be PMP *tekas ‘come to rest in a place’ (ACD),
-the second PMP *lahud ‘downriver, towards the sea’. It is not clear how the POc meaning
-is derived from the glosses of these morphemes, and probable that POc *toka-lau(r) was a
+   POc _*tokalau(r)_ ‘(?) northerly wind’ reflects two PMP morphemes, as Dempwolff
+(1938:134) observed. The first appears to be PMP _*tekas_ ‘come to rest in a place’ (ACD),
+the second PMP _*lahud_ ‘downriver, towards the sea’. It is not clear how the POc meaning
+is derived from the glosses of these morphemes, and probable that POc _*toka-lau(r)_ was a
 lexicalised unit.
 
 138    Malcolm Ross
 
 
-   POc may also have inherited a semantically related term *toŋa-laur, reflected in the
+   POc may also have inherited a semantically related term _*toŋa-laur_, reflected in the
 items below and apparently denoting a northwesterly wind.[9]
 
-[9] Ramoaaina tailaur ‘wind from New Ireland direction’ (basically east) seems to reflect another compound,
-  where the first morpheme may reflect POc *tasik ‘sea, saltwater’.
+[9] Ramoaaina _tailaur_ ‘wind from New Ireland direction’ (basically east) seems to reflect another compound,
+  where the first morpheme may reflect POc _*tasik_ ‘sea, saltwater’.
 
 __pre__
   MM: Roviana         toŋa-rauru     ‘wind from direction of Lauru (approx north to northwest)’
   NCV: Mota           toŋa-lau       ‘northwest wind’
   NCV: Raga           toŋa-lau       ‘wind from direction of Ambae, i.e. northwest wind’
 
-This term seems to contain the morpheme *toŋa (cf. PPn *toŋa ‘southeasterly quadrant,
+This term seems to contain the morpheme _*toŋa_ (cf. PPn _*toŋa_ ‘southeasterly quadrant,
 southeast wind’ above), implying its existence in POc, even though its POc meaning
-remains unknown. It is perhaps also reflected in Gela sau-toŋa ‘north wind’, where sau
-reflects POc *sau ‘breeze’. However, caution is necessary here: it is possible that the three
-terms above simply reflect a sporadic sound change in POc *tokalau(r) ‘(?) northerly
+remains unknown. It is perhaps also reflected in Gela _sau-toŋa_ ‘north wind’, where _sau_
+reflects POc _*sau_ ‘breeze’. However, caution is necessary here: it is possible that the three
+terms above simply reflect a sporadic sound change in POc _*tokalau(r)_ ‘(?) northerly
 wind’.
 
    Other terms relating to a major wind direction or a season and reconstructable in POc or
@@ -6354,10 +6349,10 @@ the SHS, when the winds of the rainy season are fairly unpredictable and sporadi
 southeast trade wind of the SHW, on the other hand, blows consistently, and the various
 terms presumably reflect its nuances or refer to various aspects of its activity.
 
-   POc *karak(a) seems to have referred to a strong southeast trade wind. Some reflexes
-suggest **karag, but final voiced stops did not occur in POc. Some NNG reflexes imply a
+   POc _*karak(a)_ seems to have referred to a strong southeast trade wind. Some reflexes
+suggest _**karag_, but final voiced stops did not occur in POc. Some NNG reflexes imply a
 POc final vowel, but SES reflexes do not. Some of the SES reflexes lack an expected
-initial consonant (Gela ɣ-, Longgu, Lau, Kwaio ʔ-), and so does Woleaian (x-). However,
+initial consonant (Gela _ɣ-_, Longgu, Lau, Kwaio _ʔ-_), and so does Woleaian (_x-_). However,
 the fact that these items have appropriate meanings and otherwise correspond formally
 suggests that they belong to this cognate set, even if the loss of the initial is unexplained.
 
@@ -6368,7 +6363,7 @@ POc *karak(a) ‘(strong?) southeast trade’
  NNG: Bilibil         karag           ‘dry wind’
  NNG: Gedaged         kìl̥ag           ‘southeast trade’
  NNG: Takia           karag-arag      ‘a light southeast wind which appears as part of the initial development of the southeast trade in April’
- PT:   Gapapaiwa      kara-karata     ‘east wind’
+ PT:  Gapapaiwa       kara-karata     ‘east wind’
  SES: Gela            ara             ‘southeast wind’
  SES: Talise          ɣara-ɣara       ‘wind’
  SES: Malango         hara-hara       ‘wind’
@@ -6376,7 +6371,7 @@ POc *karak(a) ‘(strong?) southeast trade’
  SES: Longgu          ara             ‘a cool, pleasant wind from the southeast’
  SES: Lau             āra             ‘southeast trades, violent wind’
  SES: Kwaio           ala             ‘southeast wind’
- Mic: Woleaian        aẓa            ‘south wind’
+ Mic: Woleaian        aẓa             ‘south wind’
 >
 
                                                         Meteorological phenomena        139
@@ -6389,7 +6384,7 @@ POc *marau ‘southeast trade wind’
  NNG: Kove             marau             ‘light wind from the sea’
  NNG: Bariai           marau             ‘wind’
  NNG: Bam              marau(lo)         ‘southeast trade’
- MM: Vitu              marau             ‘north wind’
+ MM:  Vitu             marau             ‘north wind’
  SES: ’Are’are         marāu             ‘southeast trades’
  SES: Sa’a             marāu             ‘southeast trades’
  SES: Arosi            marāu             ‘southeast trades’
@@ -6397,75 +6392,76 @@ POc *marau ‘southeast trade wind’
 
 <
 PNGOc *yawana ‘southerly wind’
- NNG: Bing          yowan                ‘wind, a cold easterly wind across the land which brings the rain’
- NNG: Takia             yawan            ‘a southerly wind associated with moderately heavy seas’
- PT:    Iduna           yawana           ‘wind from the sea’
- PT:    Tawala          yawana           ‘south wind, wind from the south ’
- PT:    Suau            yawana           ‘northwest monsoon’
- PT:    Misima          yavana           ‘southerly wind’
+ NNG: Bing          yowan            ‘wind, a cold easterly wind across the land which brings the rain’
+ NNG: Takia         yawan            ‘a southerly wind associated with moderately heavy seas’
+ PT:  Iduna         yawana           ‘wind from the sea’
+ PT:  Tawala        yawana           ‘south wind, wind from the south ’
+ PT:  Suau          yawana           ‘northwest monsoon’
+ PT:  Misima        yavana           ‘southerly wind’
 >
 
-   One more term, *aqura, seems to have served both as a generic wind term and as a term
+   One more term, _*aqura_, seems to have served both as a generic wind term and as a term
 for the ‘default’ wind, the southeast trade:
 
 <
 POc *aqura ‘wind, possibly southeast trade’
- Adm: Nauna            eul               ‘wind’ (ACD)
- Adm: Penchal          aul               ‘wind’ (ACD)
- Adm: Lou              our               ‘wind’
- Adm: Pak              ouh               ‘wind’ (ACD)
- NNG: Tuam             yawur             ‘wind’
- NNG: Mutu             yagur             ‘wind’
- NNG: Malai            yagur             ‘wind’
- NNG: Sio              wɔr̃a             ‘northwest monsoon’
- NNG: Numbami          aula              ‘wind’
- NNG: Takia            ur                ‘air ’
- NNG: Ali              ur                ‘wind’
- PT:   Motu            laura(bada)       ‘southeast trade wind’ (bada ‘big’)
- SES: Kwaio            au                ‘southeast wind, wind from sea’
- Mic: Kosraean         ɛir               ‘north’
- Mic: Ponapean         (pali)eir         ‘south’
- Mic: Carolinian       ə̄r               ‘south’
+ Adm: Nauna           eul              ‘wind’ (ACD)
+ Adm: Penchal         aul              ‘wind’ (ACD)
+ Adm: Lou             our              ‘wind’
+ Adm: Pak             ouh              ‘wind’ (ACD)
+ NNG: Tuam            yawur            ‘wind’
+ NNG: Mutu            yagur            ‘wind’
+ NNG: Malai           yagur            ‘wind’
+ NNG: Sio             wɔr̃a             ‘northwest monsoon’
+ NNG: Numbami         aula             ‘wind’
+ NNG: Takia           ur               ‘air ’
+ NNG: Ali             ur               ‘wind’
+ PT:  Motu            laura(bada)      ‘southeast trade wind’ (bada ‘big’)
+ SES: Kwaio           au               ‘southeast wind, wind from sea’
+ Mic: Kosraean        ɛir              ‘north’
+ Mic: Ponapean        (pali)eir        ‘south’
+ Mic: Carolinian      ə̄r               ‘south’
 >
 
    The terms I have reconstructed above refer to wind directions and to seasons,
 sometimes prototypically to the wind, sometimes to the season. A further development is
 that one of the seasonal terms comes to mean ‘year’ (perhaps something like ‘the annual
 round’ would be more accurate). Relevant examples are repeated here, but this
-development also affects local seasonal/wind terms. Thus these items reflect POc *raki
-‘southeast trades’—
+development also affects local seasonal/wind terms. Thus these items reflect POc _*raki_
+‘southeast trades’ —
 
 140    Malcolm Ross
 
 __pre__
- NNG: Kove               hai               ‘southeast trade, year’
- NNG: Bariai             rai               ‘year’
- NNG: Lukep              rai               ‘year’
+ NNG: Kove               hai              ‘southeast trade, year’
+ NNG: Bariai             rai              ‘year’
+ NNG: Lukep              rai              ‘year’
  Mic: Woleaian           ẓaxi             ‘year, age, summer season’
 
-—whilst the two below reflect POc *apaRat ‘northwest wind’:
+— whilst the two below reflect POc _*apaRat_ ‘northwest wind’:
 
 __pre__
- MM: Barok              awat            ‘year’
+ MM: Barok             awat            ‘year’
  MM: Siar              yahrat          ‘year’
+
 
 5.5 The weather
 
 5.5.1 ‘calm’
 
    Four reconstructions with the meaning ‘calm’ (as applied to the weather) are given
-below. The first two, *malino and *[ma-[d]]rapu, are reconstructed for POc (and earlier
-stages). The multiple bracketing of *[ma-[d]]rapu does not reflect doubt about the
+below. The first two, _*malino_ and _*[ma-[d]]rapu_, are reconstructed for POc (and earlier
+stages). The multiple bracketing of _*[ma-[d]]rapu_ does not reflect doubt about the
 reconstruction, but rather the fact that POc inherited several derivationally related forms:
-*rapu, *ma-rapu, *N-rapu, *maN-rapu (it is not clear in what measure these derivations
+_*rapu_, _*ma-rapu_, _*N-rapu_, _*maN-rapu_ (it is not clear in what measure these derivations
 were still productive in POc).
 
    It is difficult to distinguish between the meanings of these two terms but the glosses for
-reflexes of *malino imply an emphasis on tranquility, whereas those of *[ma-[d]]rapu
+reflexes of *malino imply an emphasis on tranquility, whereas those of _*[ma-[d]]rapu_
 seem to refer to the stillness of the wind.
 
    The cognate set below indicates that speakers of several daughter languages adopted
-one or other strategy to get rid of *-l- and *-n- in the onsets of consecutive syllables in POc
+one or other strategy to get rid of _*-l-_ and _*-n-_ in the onsets of consecutive syllables in POc
 *malino. The two sounds entail different manners of articulation at the same point of
 articulation, but it is not clear to me why this should have led to the avoidance of the
 sequence.
@@ -6473,21 +6469,21 @@ sequence.
 <
 PMP *linaw ‘be clear’ (Dempwolff 1938)
 POc *ma-lino ‘calm’ (Grace 1969)
- NNG: Kove             malilo          ‘calm’ (consonant assimilation)
- NNG: Atui             mullil          ‘soft’ (consonant assimilation)
- NNG: Takia            malin           ‘calm’
- NNG: Manam            malino          ‘calm’
- NNG: Bam              malin           ‘calm’
- PT:   Balawaia        maino           ‘calm’
- PT:   Gabadi          maino           ‘calm’
- MM: Vitu              manilo          ‘calm’ (metathesis)
- MM: Nakanai           malilo          ‘calm’ (consonant assimilation)
- MM: Lavongai          malila          ‘calm’ (consonant assimilation)
- MM: Minigir           malila          ‘calm’ (consonant assimilation)
- MM: Mono              malilo          ‘calm’ (consonant assimilation)
- Pn:   Samoan          manino          ‘transparent, clear’ (consonant assimilation)
- Pn:   Tongan          melino          ‘at peace’
- Pn:   Tuamotuan       marino          ‘calm’
+ NNG: Kove            malilo          ‘calm’ (consonant assimilation)
+ NNG: Atui            mullil          ‘soft’ (consonant assimilation)
+ NNG: Takia           malin           ‘calm’
+ NNG: Manam           malino          ‘calm’
+ NNG: Bam             malin           ‘calm’
+ PT:  Balawaia        maino           ‘calm’
+ PT:  Gabadi          maino           ‘calm’
+ MM:  Vitu            manilo          ‘calm’ (metathesis)
+ MM:  Nakanai         malilo          ‘calm’ (consonant assimilation)
+ MM:  Lavongai        malila          ‘calm’ (consonant assimilation)
+ MM:  Minigir         malila          ‘calm’ (consonant assimilation)
+ MM:  Mono            malilo          ‘calm’ (consonant assimilation)
+ Pn:  Samoan          manino          ‘transparent, clear’ (consonant assimilation)
+ Pn:  Tongan          melino          ‘at peace’
+ Pn:  Tuamotuan       marino          ‘calm’
 >
 
                                                            Meteorological phenomena         141
@@ -6495,58 +6491,58 @@ POc *ma-lino ‘calm’ (Grace 1969)
 <
 PMP *(d,r)apu ‘still, calm, quiet’(Blust 1972b)
 POc *[ma-d,ma-]rapu ‘still, calm, windless’
- Adm: Nyindrou            nra-dah           ‘breeze ’
- MM: Petats               marah             ‘calm’
- MM: Haku                 maraha            ‘calm’
- MM: Taiof                madav             ‘calm’
- MM: Teop                 mara              ‘calm’
- Fij:  Bauan              maravu            (N) ‘a calm (at sea)’; (V, ADJ) ‘(sea) calm,’
- Fij:  Wayan              maravu            ‘(sea) calm, still, windless’
+ Adm: Nyindrou           ⁿra-dah           ‘breeze’
+ MM:  Petats             marah             ‘calm’
+ MM:  Haku               maraha            ‘calm’
+ MM:  Taiof              madav             ‘calm’
+ MM:  Teop               mara              ‘calm’
+ Fij: Bauan              maravu            (N) ‘a calm (at sea)’; (V, ADJ) ‘(sea) calm,’
+ Fij: Wayan              maravu            ‘(sea) calm, still, windless’
 >
 
-   The other two forms, PEOc *ma-lua(s) ‘soft, gentle, (weather) calm’ and PWOc
-*siwaRop/*niwaRop ‘(weather) calm, peaceful’, are reconstructable as weather terms in
+   The other two forms, PEOc _*ma-lua(s)_ ‘soft, gentle, (weather) calm’ and PWOc
+_*siwaRop_/_*niwaRop_ ‘(weather) calm, peaceful’, are reconstructable as weather terms in
 lower-order protolanguages.
 
-   PEOc *ma-lua(s) ‘soft, gentle, (weather) calm’ is descended from POc *ma-luas ‘soft’,
+   PEOc _*ma-lua(s)_ ‘soft, gentle, (weather) calm’ is descended from POc _*ma-luas_ ‘soft’,
 but only the Eastern Oceanic reflexes refer to the calmness—or perhaps more accurately
 the gentleness—of the weather.
 
 <
 POc *ma-luas ‘soft’
- MM: Notsi                 məlus             ‘soft’
- MM: Konomala              (ma)mlas          ‘soft’
- MM: Siar                  (ma)maluas        ‘soft’
- MM: Ramoaaina             (mal)malua        ‘soft’
- MM: Nehan                 (mal)malua(n)     ‘soft’
+ MM:  Notsi            məlus             ‘soft’
+ MM:  Konomala         (ma)mlas          ‘soft’
+ MM:  Siar             (ma)maluas        ‘soft’
+ MM:  Ramoaaina        (mal)malua        ‘soft’
+ MM:  Nehan            (mal)malua(n)     ‘soft’
 PEOc *ma-lua(s) ‘soft, gentle, (weather) calm’
- SES: Gela               malua             ‘soft’
- SES: ’Are’are           mārūrū            ‘soft, gentle, flexible’
- Mic: Ponapean           malu-n            ‘calm, of the sea’
- Mic: Mokilese           molu-n            ‘calm or fine, of weather’
- Mic: L. Mortlockese maləwa-ləw            ‘peaceful’
- Mic: Puluwatese         maliwa-li         ‘to be easy or slow, to be calm (as the sea), to be gentle’
- Fij:  Bauan             mālua             ‘gently, slowly, quietly’
+ SES: Gela             malua             ‘soft’
+ SES: ’Are’are         mārūrū            ‘soft, gentle, flexible’
+ Mic: Ponapean         malu-n            ‘calm, of the sea’
+ Mic: Mokilese         molu-n            ‘calm or fine, of weather’
+ Mic: L. Mortlockese   maləwa-ləw        ‘peaceful’
+ Mic: Puluwatese       maliwa-li         ‘to be easy or slow, to be calm (as the sea), to be gentle’
+ Fij: Bauan            mālua             ‘gently, slowly, quietly’
 >
 
-   PWOc *siwaRop/*niwaRop ‘calm, peaceful’ may well have expressed a nuance of
+   PWOc _*siwaRop_/_*niwaRop_ ‘calm, peaceful’ may well have expressed a nuance of
 ‘peace’. Again we have two derivationally related forms, the first the base, the second the
-base prefixed by PMP *N- (originally ‘antipassive’) or perhaps PMP *‹in›/ni- ‘perfective,
+base prefixed by PMP _*N-_ (originally ‘antipassive’) or perhaps PMP _*‹in›/ni-_ ‘perfective,
 perfective nominaliser’.
 
 <
 PWOc *siwaRop, *niwaRop ‘(weather) calm, peaceful’
  PT:  Dobu         siwalowa            ‘calm’
- PT:  Molima       hiwalova, niwalova ‘calm’
+ PT:  Molima       hiwalova, niwalova  ‘calm’
  PT:  Iduna        niwalova            ‘stillness, season without wind, calm, peace (no fighting)’
  PT:  Are          niworoa             ‘calm’
  PT:  Kiriwina     niwal               ‘calm’
  PT:  Taboro       (a)siure-ure        ‘calm’
- MM:    Sursurunga       siaroh          ‘peaceful (as waves), calm’
- MM:    Siar             siarof          ‘calm’
- MM:    Solos            sianoh          ‘calm’
- MM:    Selau            sarowo          ‘calm’
- MM:    Teop             hiarovo         ‘good weather after a rain ’
+ MM:  Sursurunga   siaroh              ‘peaceful (as waves), calm’
+ MM:  Siar         siarof              ‘calm’
+ MM:  Solos        sianoh              ‘calm’
+ MM:  Selau        sarowo              ‘calm’
+ MM:  Teop         hiarovo             ‘good weather after a rain ’
 >
 
 142    Malcolm Ross
@@ -6554,52 +6550,52 @@ PWOc *siwaRop, *niwaRop ‘(weather) calm, peaceful’
 
 5.5.2 The sky and clouds
 
-   The locus of much of the weather was of course POc *laŋit, the sky, and there are a few
+   The locus of much of the weather was of course POc _*laŋit_, the sky, and there are a few
 signs that this word also had something of the sense of English ‘weather’, in some
 languages coming to refer to a particular form of weather. The sky was also very important
-in the context of navigation (p.157). POc *laŋit was also used as a local noun meaning ‘up
+in the context of navigation (p.157). POc _*laŋit_ was also used as a local noun meaning ‘up
 above’ (p.235).
 
 <
 PMP *laŋiC ‘sky’ (Dempwolff 1938)
 PMP *laŋit ‘sky’
 POc *laŋit ‘sky, weather’
- Adm: Tench             raŋiti           ‘rain’
- Adm: Titan             laŋ              ‘sky; heaven’
- NNG: Malalamai         laŋ              ‘cloud’
- NNG: Buang             yagk             ‘sky’
- NNG: Manam             laŋ              ‘sky, heavens’
- NNG: Kaiep             laŋit            ‘thunder’
- MM: Bali               laŋiti           ‘sky’
- MM: Tigak              laŋit            ‘rain’
- MM: Tabar              raŋiti           ‘sky’
- MM: Siar               laŋit            ‘sky’
- MM: Nehan              laŋit            ‘sky’
- MM: Haku               laŋic            ‘rain; sky’
- MM: Alu                laiti            ‘rain’
- SES: Kwaio             laŋi             ‘sky, heavens’
- SES: Arosi             raŋi             ‘rain’
- NCV: Raga              laŋi             ‘wind’
- NCV: Paamese           alaŋ             ‘wind’
- NCV: Lewo              laŋi             ‘wind’
- Mic: Marshallese       laŋ              ‘sky, heavens’
- Mic: Woleaian          raŋi             ‘sky; typhoon, rainstorm, wind’
- Fij:  Bauan            (vū-ni)-laŋi     ‘horizon’ (lit. ‘base of sky’)
- Fij:  Bauan            (lewe-ni)-laŋi   ‘full moon’ (lit. ‘flesh of sky’)
- Pn:   Tongan           laŋi             ‘sky, heavens’
- Pn:   Samoan           laŋi             ‘sky, heavens’
+ Adm: Tench            raŋiti           ‘rain’
+ Adm: Titan            laŋ              ‘sky; heaven’
+ NNG: Malalamai        laŋ              ‘cloud’
+ NNG: Buang            yagk             ‘sky’
+ NNG: Manam            laŋ              ‘sky, heavens’
+ NNG: Kaiep            laŋit            ‘thunder’
+ MM:  Bali             laŋiti           ‘sky’
+ MM:  Tigak            laŋit            ‘rain’
+ MM:  Tabar            raŋiti           ‘sky’
+ MM:  Siar             laŋit            ‘sky’
+ MM:  Nehan            laŋit            ‘sky’
+ MM:  Haku             laŋic            ‘rain; sky’
+ MM:  Alu              laiti            ‘rain’
+ SES: Kwaio            laŋi             ‘sky, heavens’
+ SES: Arosi            raŋi             ‘rain’
+ NCV: Raga             laŋi             ‘wind’
+ NCV: Paamese          alaŋ             ‘wind’
+ NCV: Lewo             laŋi             ‘wind’
+ Mic: Marshallese      laŋ              ‘sky, heavens’
+ Mic: Woleaian         raŋi             ‘sky; typhoon, rainstorm, wind’
+ Fij: Bauan            (vū-ni)-laŋi     ‘horizon’ (lit. ‘base of sky’)
+ Fij: Bauan            (lewe-ni)-laŋi   ‘full moon’ (lit. ‘flesh of sky’)
+ Pn:  Tongan           laŋi             ‘sky, heavens’
+ Pn:  Samoan           laŋi             ‘sky, heavens’
 >
 
                                                        Meteorological phenomena    143
 
-   PNGOc *sabam ‘sky’ is also reconstructable. It is not clear how this contrasted with
-*laŋit.
+   PNGOc _*sabam_ ‘sky’ is also reconstructable. It is not clear how this contrasted with
+_*laŋit_.
 
 <
 PNGOc *sabam ‘sky’
  NNG: Malai            sabam            ‘sky’
  NNG: Sio              saba             ‘sky’
- NNG: Bing             som              ‘sky’
+ NNG: Bing             sɔm              ‘sky’
  NNG: Dami             sa               ‘sky’
  NNG: Bilibil          sabat            ‘sky’
  PT:  Ubir             safam            ‘sky’
@@ -6608,24 +6604,24 @@ PNGOc *sabam ‘sky’
  PT:  Kiriwina         labuma           ‘sky’
 >
 
-  The generic term for ‘cloud’ in POc was *qaRoq.
+  The generic term for ‘cloud’ in POc was _*qaRoq_.
 
 <
 POc *qaRoq ‘cloud (generic)’
- PT:   Dobu           yaloa             ‘cloud’
- PT:   Kwato Suau yaloi                 ‘cloud’
- PT:   Misima         yalu-yalu         ‘cloud’
- MM: Maringe          maloa             ‘sky’
- SES: Bugotu          (ma)alo(a)        ‘sky’
- SES: Lau             salo              ‘sky’
- SES: Kwaio           lalo              ‘sky’
- SES: Sa’a            (mei)salo         ‘cloud’
- SES: Arosi           aro               ‘sky’
- Fij:  Bauan          ō                 ‘cloud’
- Fij:  Wayan          (ka)ō             ‘cloud’
- Pn:   Tongan         ʔao               ‘cloud(s)’
- Pn:   Samoan         ao                ‘cloud’
- Pn:   Hawaiian       ao                ‘any kind of cloud’
+ PT:  Dobu           yaloa             ‘cloud’
+ PT:  Kwato Suau     yaloi             ‘cloud’
+ PT:  Misima         yalu-yalu         ‘cloud’
+ MM:  Maringe        maloa             ‘sky’
+ SES: Bugotu         (ma)alo(a)        ‘sky’
+ SES: Lau            salo              ‘sky’
+ SES: Kwaio          lalo              ‘sky’
+ SES: Sa’a           (mei)salo         ‘cloud’
+ SES: Arosi          aro               ‘sky’
+ Fij: Bauan          ō                 ‘cloud’
+ Fij: Wayan          (ka)ō             ‘cloud’
+ Pn:  Tongan         ʔao               ‘cloud(s)’
+ Pn:  Samoan         ao                ‘cloud’
+ Pn:  Hawaiian       ao                ‘any kind of cloud’
 >
 
    The four terms below each possibly denoted a type of cloud. POc *rodo(ŋ) meant ‘rain
@@ -6644,14 +6640,14 @@ POc *rodo(ŋ) ‘rain cloud’
 
 <
 PNGOc *guba(r,R) ‘k.o. cloud (possibly storm cloud)’
- NNG: Mangap          gubur             ‘dark cloud’
- NNG: Sepa            kuba              ‘rain’
- PT:  Are             guba              ‘cloud’
- PT:    Gapapaiwa        guva             ‘cloud’
- PT:    Maopa            kupa             ‘rain’
- PT:    Motu             guba             ‘sky; heavens; a northwest squall’
- PT:    Gabadi           upa              ‘rain’
- PT:    Mekeo            ufa              ‘sky, heavens’
+ NNG: Mangap          gubur            ‘dark cloud’
+ NNG: Sepa            kuba             ‘rain’
+ PT:  Are             guba             ‘cloud’
+ PT:  Gapapaiwa       guva             ‘cloud’
+ PT:  Maopa           kupa             ‘rain’
+ PT:  Motu            guba             ‘sky; heavens; a northwest squall’
+ PT:  Gabadi          upa              ‘rain’
+ PT:  Mekeo           ufa              ‘sky, heavens’
 >
 
 144    Malcolm Ross
@@ -6659,7 +6655,7 @@ PNGOc *guba(r,R) ‘k.o. cloud (possibly storm cloud)’
 <
 POc *ulu ‘k.o. cloud’
  NNG: Uvol               ulu              ‘cloud’
- MM: Lavongai            ulu-l            ‘fog’
+ MM:  Lavongai           ulu-l            ‘fog’
  SES: ’Are’are           uru              ‘cloud, heaven, sky, top’
  SES: Arosi              uru              ‘white clouds’
  SES: Arosi              uru-uru          ‘black rainclouds’
@@ -6669,33 +6665,33 @@ POc *ulu ‘k.o. cloud’
 <
 POc *bala ‘k.o. cloud’
  Adm: Titan              pala             ‘cloud, light white clouds’
- MM: Tabar               bara-bara        ‘cloud’
- MM: Lihir               (lo)bal-bal      ‘cloud’
- MM: Tangga              bal-bal          ‘cloud’
+ MM:  Tabar              bara-bara        ‘cloud’
+ MM:  Lihir              (lo)bal-bal      ‘cloud’
+ MM:  Tangga             bal-bal          ‘cloud’
  SES: Arosi              bara(uru)        ‘evening bank of clouds; heavy masses of dark clouds’
 >
 
    There are a number of reconstructable POc terms some of whose reflexes mean ‘cloud’,
-others ‘mist’ or ‘fog’. amd yet others have both meanings. It seems reasonable to infer that
-a mist was conceived as a cloud at sea—or ground—level.
+others ‘mist’ or ‘fog’, and yet others have both meanings. It seems reasonable to infer that
+a mist was conceived as a cloud at sea — or ground — level.
 
 <
 PMP *Ra(m)bun ‘haze’ (Blust 1972b)
 POc *Rapu(n) ‘haze, mist’
- Adm: Drehet          kxo-kxoh            ‘cloud’
- NNG: Bariai          lau-lau             ‘cloud’
- PT:   Kiriwina       loa-lova            ‘cloud’
- SES: Bugotu          lavo                ‘haze, vapour; misty, hazy’
- SES: Lengo           lavo                ‘fog’
- SES: Longgu          lavo                ‘fog’
- SES: Lau             lafo                ‘cloud’
- SES: Kwaio           lafo                ‘cloud’
- SES: ’Are’are        raho                ‘haze, mist, fog, cloud’
+ Adm: Drehet          kxɔ-kxɔh        ‘cloud’
+ NNG: Bariai          lau-lau         ‘cloud’
+ PT:  Kiriwina        loa-lova        ‘cloud’
+ SES: Bugotu          lavo            ‘haze, vapour; misty, hazy’
+ SES: Lengo           lavo            ‘fog’
+ SES: Longgu          lavo            ‘fog’
+ SES: Lau             lafo            ‘cloud’
+ SES: Kwaio           lafo            ‘cloud’
+ SES: ’Are’are        raho            ‘haze, mist, fog, cloud’
 PNCV *ma-Ravu ‘fog, mist’ (Clark 1996)
- NCV: Mota             marav           ‘dim, misty’
- NCV: Raga             marav           ‘mist’
- NCV: Paamese          mahu-mahu       ‘cloud’
- NCV: Nguna            (na)mavu        ‘fog, mist’
+ NCV: Mota            marav           ‘dim, misty’
+ NCV: Raga            marav           ‘mist’
+ NCV: Paamese         mahu-mahu       ‘cloud’
+ NCV: Nguna           (na)mavu        ‘fog, mist’
 >
 
                                                           Meteorological phenomena       145
@@ -6705,36 +6701,36 @@ misty rain which gives rise to a rainbow if the sun’s rays are refracted throu
 gloss is somewhat speculative.
 
 <
-POc *bwa(p)o ‘(?) misty rain’
- Adm: Mussau           bao                ‘rain’
- SJ:   Kayupulau       bwau               ‘cloud’
- SJ:   Ormu            wawu               ‘cloud’
- PT:   Iduna           bowa               ‘rainbow’
- PT:   Kiriwina        bwabwau            ‘rain clouds’
- PT:   Sudest          bwao               ‘rainbow’
- SES: Lau              kwafo              ‘mist, cloud’
- SES: Kwaio            gwafo              ‘mist’
+POc *bʷa(p)o ‘(?) misty rain’
+ Adm: Mussau          bao                ‘rain’
+ SJ:  Kayupulau       bʷau               ‘cloud’
+ SJ:  Ormu            wawu               ‘cloud’
+ PT:  Iduna           bowa               ‘rainbow’
+ PT:  Kiriwina        bʷabʷau            ‘rain clouds’
+ PT:  Sudest          bʷao               ‘rainbow’
+ SES: Lau             kʷafo              ‘mist, cloud’
+ SES: Kwaio           gʷafo              ‘mist’
 >
 
-    The items below—POc *kapu(t)/*kopu ‘low cloud, mist, fog’ and POc *gapu(l)
-‘mist’—are intriguing because of their formal similarity to each other. It is eminently
-likely that *gapu(l) is derivationally related to *kapu(t). If we ignore their putative final
-consonants, the former appears to be derived from *N + kapu (see vol. 1, pp.29–30). But
-the final *-t of *kapu(t) is attested by non-Oceanic witnesses, the final *-l of *gapu(l) by
+    The items below—POc _*kapu(t)_/_*kopu_ ‘low cloud, mist, fog’ and POc _*gapu(l)_
+‘mist’ — are intriguing because of their formal similarity to each other. It is eminently
+likely that _*gapu(l)_ is derivationally related to _*kapu(t)_. If we ignore their putative final
+consonants, the former appears to be derived from _*N_ + _kapu_ (see vol. 1, pp.29–30). But
+the final _*-t_ of _*kapu(t)_ is attested by non-Oceanic witnesses, the final _*-l_ of _*gapu(l)_ by
 its Minigir and Tolai reflexes, and I cannot see a way of resolving this conflict.
 
 <
 PMP *kabut ‘mist’ (Dempwolff 1938)
 POc *kapu(t) ‘low cloud, mist, fog’
- Adm: Titan            aúu                ‘low lying clouds, mist, not raining’
- NNG: Takia            kau-kau            ‘fog’
- NNG: Kairiru          qafu-f             ‘fog’
- NNG: Kove             ɣau-ɣau            ‘misty’
- PT:   Motu            ɣahu               ‘mist; fog at sea; haze’
- PT:   Roro            abu                ‘fog’
- PT:   Mekeo           apu, apu-apu       ‘fog, cloud’
- MM: Kara (West) kauf                     ‘fog’
- SES: Talise           ɣavu               ‘fog’
+ Adm: Titan           aúu                ‘low lying clouds, mist, not raining’
+ NNG: Takia           kau-kau            ‘fog’
+ NNG: Kairiru         qafu-f             ‘fog’
+ NNG: Kove            ɣau-ɣau            ‘misty’
+ PT:  Motu            ɣahu               ‘mist; fog at sea; haze’
+ PT:  Roro            abu                ‘fog’
+ PT:  Mekeo           apu, apu-apu       ‘fog, cloud’
+ MM:  Kara (West)     kauf               ‘fog’
+ SES: Talise          ɣavu               ‘fog’
 >
 
 The Bali and Fijian forms below are problematic, as they reflect POc *kabu(t), not
@@ -6745,87 +6741,87 @@ __pre__
  Fij:    Bauan        kabu          ‘mist’
  Fij:    Wayan        kabu          (N) ‘mist, haze, fog’; (V) ‘be covered in cloud, mist, fog’
 
-   It seems likely that *kopu already occurred in POc as a doublet of *kapu(t) resulting
+   It seems likely that *kopu already occurred in POc as a doublet of _*kapu(t)_ resulting
 from assimilation of the rounding feature of the second vowel to that of the first. Such a
 change was once productive in both Rotuman and Tongan (Andrew Pawley, pers. comm.).
 
 <
 POc *kopu ‘low cloud, mist, fog’
- Adm: Lou              kop-kop            ‘dust; fog, mist’
- Adm: Drehet           kopw(ieh)          ‘mist, fog’
- PT:   Molima          kwau               ‘cloud’
- MM: Mono              (ma)kohu           ‘fog’
- MM: Laghu             kō                 ‘fog’
- SES: Bauro            kwahu              ‘fog’
- NCV: Raga             govu               ‘clouded’
- Fij:    Bauan          govu              ‘light clouds covering land’
- Pn:     Mangareva      kou               ‘clouds low on the peaks of the hills’
- Pn:     Tahitian       ohu               ‘cloud settled on the mountain tops’
- Pn:     Marquesan      kohu              ‘fog, haze’
+ Adm: Lou            kɔp-kɔp           ‘dust; fog, mist’
+ Adm: Drehet         kopʷ(ieh)         ‘mist, fog’
+ PT:  Molima         kʷau              ‘cloud’
+ MM:  Mono           (ma)kohu          ‘fog’
+ MM:  Laghu          kō                ‘fog’
+ SES: Bauro          kʷahu             ‘fog’
+ NCV: Raga           govu              ‘clouded’
+ Fij: Bauan          govu              ‘light clouds covering land’
+ Pn:  Mangareva      kou               ‘clouds low on the peaks of the hills’
+ Pn:  Tahitian       ohu               ‘cloud settled on the mountain tops’
+ Pn:  Marquesan      kohu              ‘fog, haze’
 >
 
 146     Malcolm Ross
 
 <
 POc *gapu(l) ‘mist’
- NNG: Malai             gafu-f            ‘fog’
- NNG: Amara             (a)gau-gau        ‘fog’
- NNG: Arove             gau-gau           ‘fog’
- PT:   Tawala           gahu              ‘fog’
- MM: Minigir            gavulu            ‘cloud’
- MM: Tolai              gavul             ‘fog, mist’
- SES: Gela              gavu              ‘mist, haze’
- SES: Kwara’ae          goh               ‘fog’
- SES: Langalanga        gafu              ‘fog’
- SES: Arosi             gahu              ‘mist, be misty’
- Pn:   Tongan           ka-kapu           ‘mist’
+ NNG: Malai            gafu-f            ‘fog’
+ NNG: Amara            (a)gau-gau        ‘fog’
+ NNG: Arove            gau-gau           ‘fog’
+ PT:  Tawala           gahu              ‘fog’
+ MM:  Minigir          gavulu            ‘cloud’
+ MM:  Tolai            gavul             ‘fog, mist’
+ SES: Gela             gavu              ‘mist, haze’
+ SES: Kwara’ae         goh               ‘fog’
+ SES: Langalanga       gafu              ‘fog’
+ SES: Arosi            gahu              ‘mist, be misty’
+ Pn:  Tongan           ka-kapu           ‘mist’
 >
 
    As if this were not already complicated enough, a further curiosity is the reconstruction
-of Proto Nuclear Polynesian *kapuqa ‘cloud’ (Biggs & Clark 1993), which either entails
-the addition of *-qa to a reflex of POc *kapu(t) or *gapu(l) or is a derivative of the PPn
-verb *kaputi ‘cover over’.
+of Proto Nuclear Polynesian _*kapuqa_ ‘cloud’ (Biggs & Clark 1993), which either entails
+the addition of _*-qa_ to a reflex of POc _*kapu(t)_ or _*gapu(l)_ or is a derivative of the PPn
+verb _*kaputi_ ‘cover over’.
 
 <
 PNPn *kapuqa ‘cloud’
- Pn:    Rapanui        kapuʔa          ‘fog, haze, mist’
- Pn:    Hawaiian       ʔōpua           ‘puffy clouds, as banked up near the horizon’
- Pn:    K’maringi      gabua           ‘raincloud (sign of rain)’
- Pn:    Maori          kapua           ‘cloud, mist’
- Pn:    Rarotongan     kāpua           ‘cloud, mist’
+ Pn: Rapanui        kapuʔa          ‘fog, haze, mist’
+ Pn: Hawaiian       ʔōpua           ‘puffy clouds, as banked up near the horizon’
+ Pn: K’maringi      gabua           ‘raincloud (sign of rain)’
+ Pn: Maori          kapua           ‘cloud, mist’
+ Pn: Rarotongan     kāpua           ‘cloud, mist’
 >
 
 5.5.3 Rain
 
-   The most widely reflected POc word for ‘rain’ (both verb and noun) is *qusan. Also
-reconstructable are POc *[ka]dapuR ‘rain, rain cloud’ and PWOc *(rR)ugu ‘rain’. It is not
-known if *(rR)ugu differed in meaning from *qusan, but *[ka]dapuR seems to have
+   The most widely reflected POc word for ‘rain’ (both verb and noun) is _*qusan_. Also
+reconstructable are POc _*[ka]dapuR_ ‘rain, rain cloud’ and PWOc _*(rR)ugu_ ‘rain’. It is not
+known if _*(rR)ugu_ differed in meaning from _*qusan_, but _*[ka]dapuR_ seems to have
 referred both to a rain cloud and to the rain it deposits.
 
 <
 PAn *quZaL ‘rain’ (Blust 1969, Dempwolff 1938)
 PMP *quZan ‘rain’
 POc *qusan ‘(N, V) rain’
- NNG: Malasanga         kuya         ‘rain’
- NNG: Poeng             kue          ‘rain’
- NNG: Takia             ui           ‘rain’
- NNG: Numbami           usana        ‘rain’
- NNG: Kaiwa             ur           ‘rain’
- NNG: Manam             ura          ‘rain’
- PT:   Are              kusana       ‘rain’
- PT:  Balawaia              ɣura       ‘rain’
- MM: Bali                   ɣuzaŋa     ‘rain’
- MM: Lihir                  uos        ‘rain’
- MM: Teop                   huan       ‘rain’ (metathesis)
- MM: Maringe                (na)uha    ‘rain’
- SES: Bugotu                uha        ‘rain’
- SES: Longgu                uta        ‘rain’
- SES: Lau                   uta        ‘rain’
- NCV: Fortsenal             usa        ‘rain’
- Mic: Woleaian              uta        ‘rain’
- Fij: Bauan                 uða        ‘rain’
- Pn:  Tongan                ʔuha       ‘rain.’
- Pn:  Samoan                ua         ‘rain’
+ NNG: Malasanga        kuya       ‘rain’
+ NNG: Poeng            kue        ‘rain’
+ NNG: Takia            ui         ‘rain’
+ NNG: Numbami          usana      ‘rain’
+ NNG: Kaiwa            ur         ‘rain’
+ NNG: Manam            ura        ‘rain’
+ PT:  Are              kusana     ‘rain’
+ PT:  Balawaia         ɣura       ‘rain’
+ MM:  Bali             ɣuzaŋa     ‘rain’
+ MM:  Lihir            uos        ‘rain’
+ MM:  Teop             huan       ‘rain’ (metathesis)
+ MM:  Maringe          (na)uha    ‘rain’
+ SES: Bugotu           uha        ‘rain’
+ SES: Longgu           uta        ‘rain’
+ SES: Lau              uta        ‘rain’
+ NCV: Fortsenal        usa        ‘rain’
+ Mic: Woleaian         uta        ‘rain’
+ Fij: Bauan            uða        ‘rain’
+ Pn:  Tongan           ʔuha       ‘rain.’
+ Pn:  Samoan           ua         ‘rain’
 >
 
                                                       Meteorological phenomena   147
@@ -6834,22 +6830,22 @@ POc *qusan ‘(N, V) rain’
 POc *[ka]dapuR ‘rain, rain cloud’
  Adm: Loniu                  kaʔæh     ‘cloud’
  Adm: Lele                   kanrah    ‘cloud’
- MM: Bulu                    kadavu    ‘rain’
- MM: Meramera                adavu     ‘rain’
- MM: Kara (East)             rafui     ‘rain’
- MM: Nalik                   dafur     ‘rain’
- MM: Konomala                daf       ‘rain’
- MM: Banoni                  ɣarau     ‘rain’
- MM: Piva                    ɣaravu    ‘rain’
+ MM:  Bulu                   kadavu    ‘rain’
+ MM:  Meramera               adavu     ‘rain’
+ MM:  Kara (East)            rafui     ‘rain’
+ MM:  Nalik                  dafur     ‘rain’
+ MM:  Konomala               daf       ‘rain’
+ MM:  Banoni                 ɣarau     ‘rain’
+ MM:  Piva                   ɣaravu    ‘rain’
  Mic: Kiribati               karau     ‘rain, heaven, sky’
- Mic: Kosraean               kʌṣao    ‘sky, heaven’
- Mic: Marshallese            keṛaw    ‘cloud, overcast’
- Mic: Ponapean               kec̣ew    ‘rain, to rain’
+ Mic: Kosraean               kʌṣao     ‘sky, heaven’
+ Mic: Marshallese            keṛaw     ‘cloud, overcast’
+ Mic: Ponapean               kec̣ew     ‘rain, to rain’
  Mic: Mokilese               kɔsɔw     ‘cloud’
- Mic: Chuukese               kuc̣ū-    ‘cloud’
- Mic: Puluwatese             woṛow    ‘white cloud’
- Mic: Carolinian             uṣow     ‘rain’
- Mic: Woleaian               xoṣou    ‘rain’
+ Mic: Chuukese               kuc̣ū-     ‘cloud’
+ Mic: Puluwatese             woṛow     ‘white cloud’
+ Mic: Carolinian             uṣow      ‘rain’
+ Mic: Woleaian               xoṣou     ‘rain’
 >
 
 <
@@ -6857,64 +6853,64 @@ PWOc *(rR)ugu ‘rain’
  NNG: Aria                  rugu       ‘rain’
  NNG: Mangga Buang          ruq        ‘rain’
  NNG: Kumaru Mumeng         ruk        ‘rain’
- MM: Roviana                ruku       ‘rain’
- MM: Hoava                  ruku       ‘rain’
+ MM:  Roviana               ruku       ‘rain’
+ MM:  Hoava                 ruku       ‘rain’
 >
 
 148    Malcolm Ross
 
-   A semantically related term was POc *bata, which, to judge from a constellation of
+   A semantically related term was POc _*bata_, which, to judge from a constellation of
 Meso-Melanesian and Polynesian reflexes, probably meant ‘raindrop’. However, a number
 of Western Oceanic languages also agree on the meaning ‘cloud’.
 
 <
 POc *bata ‘(?) raindrop, (?) rain cloud’
- NNG: Apalik            (e)vat             ‘cloud’
- NNG: Atui              vat                ‘cloud, sky’
- NNG: Akolet            (e)wat             ‘cloud’
- MM: Kara (West) bata                      ‘cloud’
- MM: Tabar              bata               ‘rain’
- MM: Sursurunga         bət                ‘sky; cloud’
- MM: Tolai              bata               ‘rain, to rain’
- MM: Siar               bat                ‘rain’
+ NNG: Apalik           (e)vat            ‘cloud’
+ NNG: Atui             vat               ‘cloud, sky’
+ NNG: Akolet           (e)wat            ‘cloud’
+ MM:  Kara (West)      bata              ‘cloud’
+ MM:  Tabar            bata              ‘rain’
+ MM:  Sursurunga       bət               ‘sky; cloud’
+ MM:  Tolai            bata              ‘rain, to rain’
+ MM:  Siar             bat               ‘rain’
 PPn *pata ‘raindrop’
- Pn:    Niuean           pata              ‘raindrop’
- Pn:    Hawaiian         paka              ‘raindrop’
- Pn:   Maori             pata              ‘raindrop’
- Pn:    Marquesan        pata              ‘raindrop’
+ Pn:  Niuean           pata              ‘raindrop’
+ Pn:  Hawaiian         paka              ‘raindrop’
+ Pn:  Maori            pata              ‘raindrop’
+ Pn:  Marquesan        pata              ‘raindrop’
 >
 
-  POc *d(r)im(a)-d(r)im(a) evidently meant ‘drizzle, light rain’. I have yet to find a reflex
-which allows me to diagnose whether the initial consonant was POc *d or *dr.
+  POc _*(d,dr)im(a)-(d,dr)im(a)_ evidently meant ‘drizzle, light rain’. I have yet to find a reflex
+which allows me to diagnose whether the initial consonant was POc _*d_ or _*dr_.
 
 <
-POc *d(r)im(a)-d(r)im(a) ‘drizzle, light rain’
- Adm: Lou              rim-rim             ‘light rain’
- PT:    Iduna          dima-dima           ‘drizzle, rain of small drops that takes a long time to stop’
- MM: Tolai             ri-rimi             ‘drizzling rain’
- MM: Ramoaaina         rim-rim             ‘drizzle, sprinkle’
+POc *(d,dr)im(a)-(d,dr)im(a) ‘drizzle, light rain’
+ Adm: Lou            rim-rim             ‘light rain’
+ PT:  Iduna          dima-dima           ‘drizzle, rain of small drops that takes a long time to stop’
+ MM:  Tolai          ri-rimi             ‘drizzling rain’
+ MM:  Ramoaaina      rim-rim             ‘drizzle, sprinkle’
 >
 
    In search of other terms associated in one way or another with rain, I tried to reconstruct
 terms for ‘rainbow’ and ‘dew’. However, I could only reconstruct a Proto Eastern Oceanic
-term for the former (but see the note on POc *bwa(p)o ‘misty rain (?)’ above, p.145).
+term for the former (but see the note on POc _*bʷa(p)o_ ‘misty rain (?)’ above, p.145).
 
 <
 PEOc *nua-nua ‘rainbow’
- NCV: Mota           nunua                 ‘change colour’
- NCV: Araki          nuenue                ‘rainbow’
- NCV: Tamambo        nuenue                ‘rainbow’
- Pn:   E Futunan     nuanua                ‘rainbow’
- Pn:   E Uvean       nuanua                ‘rainbow’
- Pn:   Pukapukan     nuanua                ‘rainbow’
- Pn:   Tuvalu        nuanua                ‘rainbow’
- Pn:   Samoan        nuanua                ‘rainbow’
- Pn:   Tokelauan     nuanua                ‘rainbow’
- Pn:   Tahitian      (ā)nuanua             ‘rainbow’
- Pn:   Maori         (ā)niwaniwa           ‘rainbow’
- Pn:   Tuamotuan     (a)nuanua             ‘rainbow’
- Pn:   Hawaiian      (ā)nuenue             ‘rainbow’
- Pn:   Marquesan     (ā)nuanua             ‘rainbow’
+ NCV: Mota          nunua                 ‘change colour’
+ NCV: Araki         nuenue                ‘rainbow’
+ NCV: Tamambo       nuenue                ‘rainbow’
+ Pn:  E Futunan     nuanua                ‘rainbow’
+ Pn:  E Uvean       nuanua                ‘rainbow’
+ Pn:  Pukapukan     nuanua                ‘rainbow’
+ Pn:  Tuvalu        nuanua                ‘rainbow’
+ Pn:  Samoan        nuanua                ‘rainbow’
+ Pn:  Tokelauan     nuanua                ‘rainbow’
+ Pn:  Tahitian      (ā)nuanua             ‘rainbow’
+ Pn:  Maori         (ā)niwaniwa           ‘rainbow’
+ Pn:  Tuamotuan     (a)nuanua             ‘rainbow’
+ Pn:  Hawaiian      (ā)nuenue             ‘rainbow’
+ Pn:  Marquesan     (ā)nuanua             ‘rainbow’
 >
 
    For ‘dew’, a few reflexes of a PMP term occur.
@@ -6932,79 +6928,79 @@ POc *lamuR ‘dew’
 
 5.5.4 Thunder and lightning
 
-   I have reconstructed five separate terms for ‘lightning’. POc *qu(s,j)ila(k) seems to be
+   I have reconstructed five separate terms for ‘lightning’. POc _*qu(s,j)ila(k)_ seems to be
 the generic term for lightning, inherited from Proto Malayo-Polynesian. The glosses of
-reflexes of PNGOc *lamaR imply that this item may have referred to lightning and thunder
-together. The other three reconstructions are *pilak ‘lightning’, *pitik ‘lightning’,
-*lap(w)a(r,R) ‘lightning, phosphorescence’. Whilst these may have referred to different
+reflexes of PNGOc _*lamaR_ imply that this item may have referred to lightning and thunder
+together. The other three reconstructions are _*pilak_ ‘lightning’, _*pitik_ ‘lightning’,
+_*la(p,pʷ)a(r,R)_ ‘lightning, phosphorescence’. Whilst these may have referred to different
 kinds of lightning (e.g. sheet and forked) is also possible that they were descriptive or
-metaphorical terms. It is reasonably clear, for example, that PNNG *kila(m,p) ‘lightning’
-was a reflex of PMP *kila(p,b) ‘flash, sparkle’, (and that POc *qu(s,j)ila(k) ‘lightning’
-reflects PMP *silak ‘beam of light’; cf. Dempwolff 1938:153).
+metaphorical terms. It is reasonably clear, for example, that PNNG _*kila(m,p)_ ‘lightning’
+was a reflex of PMP _*kila(p,b)_ ‘flash, sparkle’, (and that POc _*qu(s,j)ila(k)_ ‘lightning’
+reflects PMP _*silak_ ‘beam of light’; cf. Dempwolff 1938:153).
 
 <
 PMP *qusilak ‘lightning’ (Ross 1988)
 POc *qu(s,j)ila(k) ‘lightning’
- Adm: Nauna              kocil           ‘lightning’
- Adm: Seimat             usil            ‘lightning’
- NNG: Malalamai          uzila           ‘lightning’
- NNG: Tami               kujil           ‘lightning’
- NNG: Yabem              osiʔ            ‘lightning ’
- NNG: Bukawa             siʔ             ‘lightning ’
- Pn:   Tongan            ʔuhila          (N) ‘lightning’
- Pn:   E Uvean           ʔuhila          (N) ‘lightning’
- Pn:   Samoan            uila            (N) ‘lightning’
+ Adm: Nauna             kocil           ‘lightning’
+ Adm: Seimat            usil            ‘lightning’
+ NNG: Malalamai         uzila           ‘lightning’
+ NNG: Tami              kujil           ‘lightning’
+ NNG: Yabem             osiʔ            ‘lightning ’
+ NNG: Bukawa            siʔ             ‘lightning ’
+ Pn:  Tongan            ʔuhila          (N) ‘lightning’
+ Pn:  E Uvean           ʔuhila          (N) ‘lightning’
+ Pn:  Samoan            uila            (N) ‘lightning’
 >
 
 <
 PMP *bilak ‘lightning’ (Dempwolff 1925)
-POc *p(w)ilak ‘lightning’
+POc *(p,pʷ)ilak ‘lightning’
  NNG: Kove              pelaka        ‘lightning’ (final consonant retained: borrowing from Bali?)
  NNG: Bariai            pir           ‘thunder’
  NNG: Mangap            bil           ‘flash, lightning’
  NNG: Dami              fili          (V) ‘lightning’
  NNG: Medebur           vilik         ‘lightning’
- MM: Bola               vila          ‘lightning’
- MM: Nalik              uilak         ‘lightning’
- MM: Sursurunga         pil           ‘lightning’
- MM: Nehan              pil           ‘thunder’
- MM: Solos              pina          ‘thunder’
- MM: Teop               pira          ‘thunder ’
- MM: Banoni              pina             ‘lightning’
- MM: Maringe             fila             ‘thunder’
- SES: Talise             (pila)pila       ‘lightning’
- SES: Longgu             pila(ðia)        (N, V) ‘lightning’
- SES: Arosi              hira(ia)         ‘lightning’
- NCV: Mota               vila             ‘lightning’
- NCV: Raga               vilehi           ‘lightning’
- NCV: Paamese            (a)hile          ‘lightning’
- NCV: Nguna              (na)vila         ‘lightning’
+ MM:  Bola              vila          ‘lightning’
+ MM:  Nalik             uilak         ‘lightning’
+ MM:  Sursurunga        pil           ‘lightning’
+ MM:  Nehan             pil           ‘thunder’
+ MM:  Solos             pina          ‘thunder’
+ MM:  Teop              pira          ‘thunder ’
+ MM:  Banoni            pina          ‘lightning’
+ MM:  Maringe           fila          ‘thunder’
+ SES: Talise            (pila)pila    ‘lightning’
+ SES: Longgu            pila(ðia)     (N, V) ‘lightning’
+ SES: Arosi             hira(ia)      ‘lightning’
+ NCV: Mota              vila          ‘lightning’
+ NCV: Raga              vilehi        ‘lightning’
+ NCV: Paamese           (a)hile       ‘lightning’
+ NCV: Nguna             (na)vila      ‘lightning’
 >
 
 150   Malcolm Ross
 
 <
 PCEMP *pitik ‘lightning’
- CMP: Selaru           hitik              ‘lightning’ (Coward)
+ CMP: Selaru           hitik            ‘lightning’ (Coward)
 POc *pitik ‘lightning’
- NNG: Manam              pitik(awa)       ‘lightning’
- NNG: Wogeo              fitik            ‘lightning’
- SES: Gela               viti             ‘lightning’
- SES: Malango            vitih(i-a)       (V) ‘lightning’
+ NNG: Manam            pitik(awa)       ‘lightning’
+ NNG: Wogeo            fitik            ‘lightning’
+ SES: Gela             viti             ‘lightning’
+ SES: Malango          vitih(i-a)       (V) ‘lightning’
 >
 
 <
-POc *lap(w)a(r,R) ‘lightning, phosphorescence’
- NNG: Sengseng          (pe)lap          ‘lightning’
- MM: Tigak              lapak            ‘lightning’
- MM: Kara (West) lapai                   ‘lightning’
- MM: Tomoip             lap              ‘thunder’
- MM: Haku               (ka)naha         ‘lightning’
- MM: Torau              (si)nava         ‘lightning’
- MM: Mono               (ilai)laha       ‘lightning’
- Pn:    Pileni          lapa             ‘deep phosphorescent light, distinct from surface phosphorescence, occurring at a depth of from about 1 to 6 feet’ (Lewis 1972:208)
- Pn:    Niuean          lapa(sia)        ‘dazzled by the sun.’
- Pn:   Tokelauan        lapa             ‘flash of lightning’
+POc *la(p,pʷ)a(r,R) ‘lightning, phosphorescence’
+ NNG: Sengseng        (pe)lap          ‘lightning’
+ MM:  Tigak           lapak            ‘lightning’
+ MM:  Kara (West)     lapai            ‘lightning’
+ MM:  Tomoip          lap              ‘thunder’
+ MM:  Haku            (ka)naha         ‘lightning’
+ MM:  Torau           (si)nava         ‘lightning’
+ MM:  Mono            (ilai)laha       ‘lightning’
+ Pn:  Pileni          lapa             ‘deep phosphorescent light, distinct from surface phosphorescence, occurring at a depth of from about 1 to 6 feet’ (Lewis 1972:208)
+ Pn:  Niuean          lapa(sia)        ‘dazzled by the sun.’
+ Pn:  Tokelauan       lapa             ‘flash of lightning’
 >
 
 Despite the formal variations in the cognate set above, its members are regular reflexes.
@@ -7016,7 +7012,7 @@ PNGOc *lamaR ‘lightning’
  PT:  Molima         namala               ‘lightning’
  PT:  Tawala         nama-namala          ‘lightning, bright, glitter’
  PT:  Misima         (pi)namal            ‘lightning’
- PT:  Kwato Suau nama-namali              ‘lightning’
+ PT:  Kwato Suau     nama-namali          ‘lightning’
  PT:  Hula           rama-rama            ‘lightning’
 >
 
@@ -7026,56 +7022,56 @@ PNGOc *lamaR ‘lightning’
 PMP *kila(p,b) ‘flash, sparkle’ (Dempwolff 1925, ACD)
 POc *kilap ‘flash, sparkle’
 PNNG *kila(m,p) ‘lightning’
- NNG: Gitua              kila-kila      ‘lightning’
- NNG: Lukep              kili           ‘lightning’
- NNG: Poeng              kilama         ‘lightning’
- NNG: Roinji             kirap          ‘thunder’
- NNG: Bing               kin            ‘lightning ’
- NNG: Takia              -ki-kilawi     ‘thunder and lightning’
- Pn:    Samoan           ʔi-ʔila        ‘(of reflected light) shine, glisten, sparkle, twinkle’
+ NNG: Gitua            kila-kila      ‘lightning’
+ NNG: Lukep            kili           ‘lightning’
+ NNG: Poeng            kilama         ‘lightning’
+ NNG: Roinji           kirap          ‘thunder’
+ NNG: Bing             kin            ‘lightning ’
+ NNG: Takia            -ki-kilawi     ‘thunder and lightning’
+ Pn:  Samoan           ʔi-ʔila        ‘(of reflected light) shine, glisten, sparkle, twinkle’
 >
 
-   POc appears to have had two basic roots for thunder, *kuru and *pwaraq, both of which
-occur in apparent fossilised morphological variants. Firstly, alongside *kuru we find
-*guru. The latter may represent *N + kuru. Secondly, alongside *kuru, *guru and *pwaraq
-we find forms with reduplication of the second syllable: *kururu, *gururu and *pwararaq.
+   POc appears to have had two basic roots for thunder, _*kuru_ and _*pʷaraq_, both of which
+occur in apparent fossilised morphological variants. Firstly, alongside _*kuru_ we find
+_*guru_. The latter may represent _*N_ + _kuru_. Secondly, alongside _*kuru_, _*guru_ and _*pʷaraq_
+we find forms with reduplication of the second syllable: _*kururu_, _*gururu_ and _*pʷararaq_.
 This was not to my knowledge a widespread process in POc, and I take its appearance here
 to be associated with the onomatopaeic nature of the etyma. Thirdly, it seems that the
 foregoing forms were (at least sometimes) verbal, and we find apparent nominalisations:
-*guru-ŋ(a), *gururu-ŋ(a), and *para-ŋ(a).
+_*guru-ŋ(a)_, _*gururu-ŋ(a)_, and _*para-ŋ(a)_.
 
 <
 PMP *guruq ‘noise, tumult’ (ACD)
 POc *kuru, *kururu ‘thunder’
- NNG: Kove             ku-kururu           ‘thunder’
- MM: Bola              kururu              ‘thunder’
- SES: Lau              kururu              ‘thunder’
- SES: Arosi            (a)kuru             (N, V) ‘thunder’
- SES: Kahua            (ɣu)ɣuru(hia)       ‘thunder’
- Fij:  Bauan           kuru                (N, V) ‘thunder’
- Fij:  Wayan           kuru-kuru           (N, V) ‘thunder’
+ NNG: Kove            ku-kururu           ‘thunder’
+ MM:  Bola            kururu              ‘thunder’
+ SES: Lau             kururu              ‘thunder’
+ SES: Arosi           (a)kuru             (N, V) ‘thunder’
+ SES: Kahua           (ɣu)ɣuru(hia)       ‘thunder’
+ Fij: Bauan           kuru                (N, V) ‘thunder’
+ Fij: Wayan           kuru-kuru           (N, V) ‘thunder’
 >
 
 <
 PMP *guruq ‘noise, tumult’ (ACD)
 POc *guru, *gururu ‘thunder, make loud noise’
- Adm: Drehet           kuruh           ‘thunder’
- NNG: Takia            -gurur          ‘noise rumbling, thunder, crackling’
- NNG: Buang            klu             ‘roar, thunder, explode; like falling or running water, – like a waterfall, or thunder’
- NNG: Sukurum          (mu)ᵑkuru       ‘thunder ’
- NNG: Ulau-Suain       gururu          ‘thunder’
- PT:   Misima          gulu(mʷawa)     ‘thunder’
- PT:   Motu            guru            ‘noise, clamour’
- PT:   Balawaia        ɣulu            ‘loud noise’
- PT:   Lala            ulu             ‘thunder’
- MM: Ramoaaina         (pa)guru        ‘(thunder, wind in stomach) make a rumbling noise’
- MM: Teop              guru            ‘thunder’
- MM:     Haku           gururu          ‘it thunders’
- MM:     Tinputz        guguruh         (V) ‘thunder’
- MM:     Maringe        gu-gulu         ‘thunder’
- SES:    Gela           guru            ‘(thunder) rumble’
- SES:    Lengo          gururu          ‘thunder’
- SES:    Arosi          guru-guru       ‘thunder’
+ Adm: Drehet         kuruh           ‘thunder’
+ NNG: Takia          -gurur          ‘noise rumbling, thunder, crackling’
+ NNG: Buang          klu             ‘roar, thunder, explode; like falling or running water, – like a waterfall, or thunder’
+ NNG: Sukurum        (mu)ᵑkuru       ‘thunder ’
+ NNG: Ulau-Suain     gururu          ‘thunder’
+ PT:  Misima         gulu(mʷawa)     ‘thunder’
+ PT:  Motu           guru            ‘noise, clamour’
+ PT:  Balawaia       ɣulu            ‘loud noise’
+ PT:  Lala           ulu             ‘thunder’
+ MM:  Ramoaaina      (pa)guru        ‘(thunder, wind in stomach) make a rumbling noise’
+ MM:  Teop           guru            ‘thunder’
+ MM:  Haku           gururu          ‘it thunders’
+ MM:  Tinputz        guguruh         (V) ‘thunder’
+ MM:  Maringe        gu-gulu         ‘thunder’
+ SES: Gela           guru            ‘(thunder) rumble’
+ SES: Lengo          gururu          ‘thunder’
+ SES: Arosi          guru-guru       ‘thunder’
 >
 
 152     Malcolm Ross
@@ -7088,29 +7084,29 @@ POc *guru-ŋ(a), *gururu-ŋ(a), *gururu-aŋ ‘thunder’
  NNG: Akolet           ŋu-gruŋ         ‘thunder’
  NNG: Bebeli           gu-gurun        ‘thunder’
  NNG: Uvol             kuruŋ           ‘thunder’
- MM: Tigak             guŋ             ‘thunder’
+ MM:  Tigak            guŋ             ‘thunder’
  SES: Longgu           gururua         ‘thunder, small thunder, clap of thunder heard in the late afternoon when you get late afternoon rain; a storm’
 >
 
 <
-POc *pwaraq, *pwararaq ‘thunder’
+POc *pʷaraq, *pʷararaq ‘thunder’
  NNG: Gitua           palaki            ‘thunder’
- PT:   Gumawana       (lo)pala-pala     (V) ‘thunder’
- PT:   Ubir           (wa)ferer         ‘loud thunder’
- PT:   Tawala         palele            ‘thunder’
- PT:   Muyuw          pala-pal          ‘thunder’
- MM: Kara (East)      (va)barak         ‘thunder’
- MM: Notsi            pal-pallek        ‘thunder’
- MM: Tabar            para-para         ‘thunder’
- MM: Lihir            palal             ‘thunder’
- MM: Sursurunga       pər               ‘thunder’
- MM: Patpatar         par-parara        ‘thunder’
+ PT:  Gumawana        (lo)pala-pala     (V) ‘thunder’
+ PT:  Ubir            (wa)ferer         ‘loud thunder’
+ PT:  Tawala          palele            ‘thunder’
+ PT:  Muyuw           pala-pal          ‘thunder’
+ MM:  Kara (East)     (va)barak         ‘thunder’
+ MM:  Notsi           pal-pallek        ‘thunder’
+ MM:  Tabar           para-para         ‘thunder’
+ MM:  Lihir           palal             ‘thunder’
+ MM:  Sursurunga      pər               ‘thunder’
+ MM:  Patpatar        par-parara        ‘thunder’
  SES: Arosi           pʷararā           ‘thunder’
  Mic: Kiribati        pā                ‘thunder’
  Mic: Kosraean        pʌlæl             ‘thunder’
  Mic: Mokilese        palar             ‘thunder’
- Mic: Puluwatese      pac̣c̣            ‘thunder’
- Mic: Carolinian      pac̣c̣            ‘thunder’
+ Mic: Puluwatese      pac̣c̣              ‘thunder’
+ Mic: Carolinian      pac̣c̣              ‘thunder’
 >
 
 <
@@ -7123,7 +7119,7 @@ POc *para-ŋ(a) ‘thunder’
 
                                                          Meteorological phenomena       153
 
-  It may seem to the reader that I have turned the Wörter und Sachen technique on its
+  It may seem to the reader that I have turned the _Wörter und Sachen_ technique on its
 head. That is, instead of using reconstructed items to determine something of the culture
 and environment of POc speakers, I have used climatic information based on a hypothesis
 about Austronesian speakers’ directions of dispersal and about the location of the POc
@@ -7140,7 +7136,7 @@ which have been made. If POc reconstructions can be made for unpredicted items (
 hurricanes and cyclones), or POc reconstuctions cannot be made for expected terms, then
 we must re-examine the initial hypothesis.
 
-   Meteorological terms (PAn *baRiuS ‘typhoon’ and *qamiS(-an) ‘north, cold season’)
+   Meteorological terms (PAn _*baRiuS_ ‘typhoon’ and _*qamiS(-an)_ ‘north, cold season’)
 are among those that have been used as supporting evidence to locate the Proto
 Austronesian homeland (Blust 1984–85, Pawley & Ross 1993). In the present case, I have
 been able to reconstruct the POc terms I expected on the hypothesis that the POc speech
@@ -7151,7 +7147,7 @@ disconfirmed by this study.
 
 
 
-6                 Navigation and the heavens
+6  Navigation and the heavens
 
 6.1 Introduction
 
@@ -7160,8 +7156,8 @@ Austronesian speakers have preferred to live close to the sea.[1] They have typi
 sailors and fishermen. For as long as their settlements were confined to southeast Asia and
 northwest Melanesia, virtually all their sailing would have been between intervisible or
 near-intervisible islands. However, in the late second millennium BC, Austronesian
-speakers living somewhere in the region of the Bismarck Archipelago—speakers of the
-language now known as Proto Oceanic—began to move out eastwards, to the Solomons
+speakers living somewhere in the region of the Bismarck Archipelago — speakers of the
+language now known as Proto Oceanic — began to move out eastwards, to the Solomons
 and beyond. Over the next few hundred years their descendants explored and settled many
 of the major island groups of the southwestern and central Pacific. The dates of these early
 movements are discussed in Chapter 2.
@@ -7181,9 +7177,8 @@ patterning of naturally occurring phenomena such as star movements, wind systems
 currents and swells as they applied to each new sea route, and in developing strategies that
 could be used in the committing to memory of these features.
 
-
-[1]   An earlier version of this chapter was published in Palmer and Geraghty, eds (2000).
-      I am particularly grateful to Malcolm Ross, whose work on time expressions has thrown further light
+[1] An earlier version of this chapter was published in Palmer and Geraghty, eds (2000).
+    I am particularly grateful to Malcolm Ross, whose work on time expressions has thrown further light
     on Oceanic knowledge of heavenly bodies. Thanks are also due to Andrew Pawley and Jeff Marck for
     their advice during the writing of this chapter, and to Ann Chowning and Fred Damon for additional data.
 
@@ -7199,7 +7194,7 @@ of compass or chart or in fact any aids beyond what they held in their heads and
 could sense. In the mid-1960s, David Lewis, an experienced ocean yachtsman, aware that
 in some parts of the Pacific this skill was still practised, determined to seek out any
 remaining old-time navigators and sail with them where possible, to try to comprehend and
-record their navigational strategies. His resulting book, We, the Navigators (1972),[2] is the
+record their navigational strategies. His resulting book, _We, the Navigators_ (1972),[2] is the
 most complete record we are likely to get of this body of knowledge, rapidly disappearing
 with the increased presence of motorised boats and Western navigational technology. He
 was also at pains to record, in the languages of the navigators themselves, the names of the
@@ -7213,13 +7208,13 @@ and two Polynesian outliers, Pileni, in the Santa Cruz group, and Tikopia.
    The purpose of this chapter is to reconstruct the earliest possible Oceanic words from
 which are descended existing terms and meanings associated with the field of navigation.
 For the most part they are terms of the physical world, of the night sky and the ocean
-seascape. Also explored are terms such as the Polynesian kaveŋa (star or other object for
-which one steers) and the Micronesian etak (a ‘moving’ reference point) which refer to
+seascape. Also explored are terms such as the Polynesian _kaveŋa_ (star or other object for
+which one steers) and the Micronesian _etak_ (a ‘moving’ reference point) which refer to
 concepts incompatible with Western navigation theory. For some of these we may be able
 to offer a Proto Oceanic (POc) origin. Undoubtedly, as navigation skills developed and
 were refined in the Pacific, new terms would have been required, or old meanings
 extended. There is a further complication in that we are not dealing with one homogeneous
-environment. Take just one example—the night sky. There is no change to the night sky as
+environment. Take just one example — the night sky. There is no change to the night sky as
 one travels east or west apart from changes to the times of star rise and star set. But the sky
 visible from the northern hemisphere is a different sky from that of the southern
 hemisphere. That part of the globe which we are chiefly concerned with here extends from
@@ -7228,7 +7223,7 @@ Archipelago lying just a few degrees south of the Equator. Similarly, the patter
 winds, currents and swells varies with latitude and with distance from land mass, ocean
 depth etc., as well as with the seasons.
 
-[2] We, the Navigators was reissued in 1994 in revised format, including a glossary of terms. Subsequent
+[2] _We, the Navigators_ was reissued in 1994 in revised format, including a glossary of terms. Subsequent
   references to the volume in this chapter are to the 1994 revision.
 
 
@@ -7242,7 +7237,7 @@ early navigators, the fundamental sources of position finding were the heavenly 
 
 6.2.1 Sky, heavens
 
-  The most soundly based reconstruction for sky is POc *laŋit (see also p.142). In some
+  The most soundly based reconstruction for sky is POc _*laŋit_ (see also p.142). In some
 Oceanic languages its meaning has been extended to include weather, apparently both as a
 general category and as a specific reference to kinds of weather, rain, wind etc.
 
@@ -7250,40 +7245,40 @@ general category and as a specific reference to kinds of weather, rain, wind etc
 PMP *laŋiC ‘sky’ (Dempwolff 1938)
 PMP *laŋit ‘sky’
 POc *laŋit ‘sky’
- Adm: Tench           raŋiti                      ‘rain’
- Adm: Titan           laŋ                         ‘sky, heaven’
- NNG: Manam           laŋ                         ‘sky, heavens’
- NNG: Hote            leŋ                         ‘heaven, sky; air’
- MM: Bali             laŋiti                      ‘sky’
- MM: Tigak            laŋit                       ‘rain’
- MM: Nehan            laŋit                       ‘sky’
- MM: Haku             laŋic                       ‘rain; sky’
- SES: Kwaio           laŋi                        ‘sky, heavens’
- SES: Arosi           raŋi                        ‘rain’
- NCV: Raga            laŋi                        ‘wind’
- NCV: Lewo            laŋi                        ‘wind’
- Mic: Marshallese     laŋ                         ‘sky, heavens; weather’
- Mic: Woleaian        raŋi                        ‘sky; typhoon, rainstorm, wind’
- Fij:  Bauan          (lomā)laŋi                  ‘sky, heavens’ (loma ‘inside’)
- Pn:   Tongan         laŋi                        ‘sky, heavens’
- Pn:   Samoan         laŋi                        ‘sky, heavens’
+ Adm: Tench          raŋiti                      ‘rain’
+ Adm: Titan          laŋ                         ‘sky, heaven’
+ NNG: Manam          laŋ                         ‘sky, heavens’
+ NNG: Hote           leŋ                         ‘heaven, sky; air’
+ MM:  Bali           laŋiti                      ‘sky’
+ MM:  Tigak          laŋit                       ‘rain’
+ MM:  Nehan          laŋit                       ‘sky’
+ MM:  Haku           laŋic                       ‘rain; sky’
+ SES: Kwaio          laŋi                        ‘sky, heavens’
+ SES: Arosi          raŋi                        ‘rain’
+ NCV: Raga           laŋi                        ‘wind’
+ NCV: Lewo           laŋi                        ‘wind’
+ Mic: Marshallese    laŋ                         ‘sky, heavens; weather’
+ Mic: Woleaian       raŋi                        ‘sky; typhoon, rainstorm, wind’
+ Fij: Bauan          (lomā)laŋi                  ‘sky, heavens’ (loma ‘inside’)
+ Pn:  Tongan         laŋi                        ‘sky, heavens’
+ Pn:  Samoan         laŋi                        ‘sky, heavens’
 >
 
    The sky was typically conceptualised as something spanning a flat world from horizon
 to horizon. In both Micronesia and Polynesia it was regarded as a dome or a series of
-domes resting on the earth and forming concentric horizons on its surface (Lewis
-1978:121). Tongans identified both laŋi, the sky, and vavā, which was the space between
+domes resting on the earth and forming concentric horizons on its surface (Lewis 1978:121).
+Tongans identified both _laŋi_, the sky, and _vavā_, which was the space between
 earth and sky. Some communities referred to the sky in legendary terms, conceiving it, for
 instance, as the home of the ancestors or of the Polynesian demigod, Maui.[3] In Kiribati the
-heavens, karawa, could be subdivided into a lower heaven of birds and clouds where
-things appear small, karawa merimeri; and a heaven of the stars, karawa uatao. For a
-Kiribati navigator, however, the night sky was a vast roof. He never called it karawa, the
-usual Micronesian term for the heavens, but referred to it as uma ni borau ‘the roof of
+heavens, _karawa_, could be subdivided into a lower heaven of birds and clouds where
+things appear small, _karawa merimeri_; and a heaven of the stars, _karawa uatao_. For a
+Kiribati navigator, however, the night sky was a vast roof. He never called it _karawa_, the
+usual Micronesian term for the heavens, but referred to it as _uma ni borau_ ‘the roof of
 voyaging’ (Grimble 1931:197).
 
 [3] For instance, a Kiribati creation myth describes how the face of heaven was originally like hard rock stuck
-  to the earth, but was prised apart and then held up by four women, who became like mighty trees (Grimble
-  1972:39–41). The legend is echoed in Hawaii, where the sky dome is supported by four pillars and in
+  to the earth, but was prised apart and then held up by four women, who became like mighty trees
+  (Grimble 1972: 39–41). The legend is echoed in Hawaii, where the sky dome is supported by four pillars and in
   Tahiti where the sky rests on ten pillars (Makemson 1941:199).
 
 6.2.2 Horizon
@@ -7291,68 +7286,68 @@ voyaging’ (Grimble 1931:197).
 158     Meredith Osmond
 
 
-  The line where sea meets sky is commonly referred to by a compound—either
+  The line where sea meets sky is commonly referred to by a compound — either
 edge/walls/ base of sky, edge of sea, or similar. I have located two sets of cognates, one
-limited to Polynesia, the other to Micronesia. The first reflects PEOc *tapa ‘side’ (p.255) +
-*qi ‘non-specific possessor particle’ + *laŋit ‘sky’. The Tongan form and the East Uvean
-borrowing of that form reflect the replacement of the PPn preposition *ʔi by an
-unexplained ʔaki.
+limited to Polynesia, the other to Micronesia. The first reflects PEOc _*tapa_ ‘side’ (p.255) +
+_*qi_ ‘non-specific possessor particle’ + _*laŋit_ ‘sky’. The Tongan form and the East Uvean
+borrowing of that form reflect the replacement of the PPn preposition _*ʔi_ by an
+unexplained _ʔaki_.
 
 <
 PPn *(tafa)tafa-qaki-laŋi, *(tafa)tafa-qi-laŋi ‘horizon’ (*tafa ‘side, edge’, laŋi ‘sky’)
  Pn: Tongan           (tafa)tafa-ʔaki-laŋi
- Pn: E Uvean         | tafa-ʔaki laŋi |        ‘horizon, limit, edge’
+ Pn: E Uvean          |tafa-ʔaki laŋi|        ‘horizon, limit, edge’
  Pn: Samoan           tafa-tafa-ʔi-laŋi
  Pn: Maori            taha(a)-raŋi
  Pn: Tikopia          tafa-tafā-raŋi
  Pn: Tokelauan        tafa-tafā-laŋi
 >
 
-    Similarly, PChk *pai-laŋi may be from POc *baRa ‘fence’(see vol.1, p.60) + qi + laŋit
+    Similarly, PChk _*pai-laŋi_ may be from POc _*baRa_ ‘fence’(see vol.1, p.60) + _qi_ + _laŋit_
 lit. ‘fence of sky’.
 
 <
 PChk *pai-laŋi ‘horizon’ (Marck 1994)
- Mic: Mortlockese payiləŋ                        ‘horizon’
+ Mic: Mortlockese    payiləŋ                     ‘horizon’
  Mic: Satawalese     ppayileŋ                    ‘horizon’
- Mic: Puluwatese |(yɔrop) pǣlaŋ |                 ‘horizon’
- Mic: Chuukese       (ɔrop)peyiɾeɾ               ‘horizon’ (ɔroppa + ɾeɾi ‘rim of heaven’)
+ Mic: Puluwatese     |(yɔrop) pǣlaŋ |            ‘horizon’
+ Mic: Chuukese       (ɔrop)peyiɾeɾ               ‘horizon’ (_ɔroppa_ + _ɾeɾi_ ‘rim of heaven’)
 >
 
    Two SE Solomonic languages describe the horizon in terms of the sea rather than the
-sky. Lau and Kwaio both have ʔaena asi, literally ‘foot/leg of the sea’. Other terms retain
+sky. Lau and Kwaio both have _ʔaena asi_, literally ‘foot/leg of the sea’. Other terms retain
 the more usual second element meaning ‘sky’ but vary the first element:
 
 __pre__
- PT: Motu           | guba dokona |         ‘horizon’ (guba[4] ‘sky’ doko ‘end’)
- SES: Lau           | ʔaena salo |          ‘horizon’ (ʔaena ‘foot’, salo[5] ‘sky’)
- SES: Arosi          waʔa-ni-aro          ‘horizon’ (lit. ‘beginning of the sky’)
- Mic: Chuukese       epī-ɾeŋ              ‘horizon’ (epi- ‘bottom’, ɾeŋi ‘sky’)
- Mic: Marshallese   | kapin laŋ |         ‘horizon’ (kapi ‘bottom’, laŋ ‘sky’)
- Mic: Kosraean       pe kʌṣa             ‘horizon’ (pe ‘side’, kʌṣa ‘sky/heaven’)
- Mic: Kiribati      | te tataŋa ni mainiku | ‘eastern horizon’ (lit. ‘roof-plate of east’)
- Mic: Kiribati      | te tataŋa ni maeao | ‘western horizon’ (lit. ‘roof-plate of west’) (Grimble 1931:198)
- Fij: Bauan          vū-ni-laŋi           ‘horizon’ (lit. ‘base of sky’)
- Fij: Wayan          vū-ni-laŋi           ‘horizon’
- Pn: Hawaiian        kumu-lani            ‘horizon’ (lit. ‘base of sky’)
- Pn: Hawaiian        pōʔai-lani           ‘horizon’ (lit. ‘sky circle’)
- Pn: Hawaiian        kūkulu-o-lani        ‘horizon’ (Åkerblom 1968:15) (kūkulu ‘pillar, post, side, edge, horizon’ denotes the four pillars which were the principal supports of the heavenly dome (Makemson 1939:19))
+ PT: Motu           |guba dokona|          ‘horizon’ (_guba_[4] ‘sky’ _doko_ ‘end’)
+ SES: Lau           |ʔaena salo|           ‘horizon’ (_ʔaena_ ‘foot’, _salo_[5] ‘sky’)
+ SES: Arosi         waʔa-ni-aro            ‘horizon’ (lit. ‘beginning of the sky’)
+ Mic: Chuukese      epī-ɾeŋ                ‘horizon’ (_epi-_ ‘bottom’, _ɾeŋi_ ‘sky’)
+ Mic: Marshallese   |kapin laŋ|            ‘horizon’ (_kapi_ ‘bottom’, _laŋ_ ‘sky’)
+ Mic: Kosraean      pe kʌṣa                ‘horizon’ (_pe_ ‘side’, _kʌṣa_ ‘sky/heaven’)
+ Mic: Kiribati      |te tataŋa ni mainiku| ‘eastern horizon’ (lit. ‘roof-plate of east’)
+ Mic: Kiribati      |te tataŋa ni maeao|   ‘western horizon’ (lit. ‘roof-plate of west’) (Grimble 1931:198)
+ Fij: Bauan         vū-ni-laŋi             ‘horizon’ (lit. ‘base of sky’)
+ Fij: Wayan         vū-ni-laŋi             ‘horizon’
+ Pn: Hawaiian       kumu-lani              ‘horizon’ (lit. ‘base of sky’)
+ Pn: Hawaiian       pōʔai-lani             ‘horizon’ (lit. ‘sky circle’)
+ Pn: Hawaiian       kūkulu-o-lani          ‘horizon’ (Åkerblom 1968:15) (_kūkulu_ ‘pillar, post, side, edge, horizon’ denotes the four pillars which were the principal supports of the heavenly dome (Makemson 1939:19))
 
 
-[4]   From PNGOc *guba(r,R) ‘storm cloud’ (see Chapter 5, §5.2), but in at least two Papuan Tip languages,
+[4]   From PNGOc _*guba(r,R)_ ‘storm cloud’ (see Chapter 5, §5.2), but in at least two Papuan Tip languages,
     Motu and Mekeo, the meaning has become generalised to ‘sky’.
 
-[5]   Reflexes of POc *qaRoq ‘clouds’ (generic) typically serve as the term for sky in SE Solomonic
+[5]   Reflexes of POc _*qaRoq_ ‘clouds’ (generic) typically serve as the term for sky in SE Solomonic
     languages.
 
                                                                  Navigation and the heavens           159
 
    It is a peculiarity of Kiribati that features of the sky are typically referred to in terms of
 roof parts. This is because instruction in navigation was traditionally carried out in the
-maneaba or meeting house, with the great roof substituting for the sky. The night sky was
-uma ni borau ‘the roof of voyaging’; the eastern and western horizons were tataŋa, the
+_maneaba_ or meeting house, with the great roof substituting for the sky. The night sky was
+_uma ni borau_ ‘the roof of voyaging’; the eastern and western horizons were _tataŋa_, the
 term for the two large horizontal beams on which the rafters are placed; the meridian was
-marked by taubuki ‘ridge of house roof’ with the spot at which it was supported by a
+marked by _taubuki_ ‘ridge of house roof’ with the spot at which it was supported by a
 central pillar indicating the position of the zenith star, Rigel. The roof framework was a
 network of named criss-crossing rafters which served as a kind of grid reference that could,
 in the imagination, be transferred to the night sky. A Kiribati navigator could thus estimate
@@ -7368,21 +7363,21 @@ and Makemson (1941:85) offer linguistic and archaeological[6] evidence of Polyne
 familiarity with the sun’s apparent annual movement, a familiarity that it would be
 necessary in any event to presuppose to explain navigators’ facility in using the sun as a
 bearing indicator. Polynesians have terms for the ecliptic, the path along which the sun
-appears to move over a year. For the Pukapukans, it was te ala o te la, literally ‘the path of
-the sun’. Hawaiians called it ke ala ula a ke kuʔukuʔu, ‘the bright road of the spider’.
-Hawaiian terms have been recorded for the sun’s southern limit, ke alanui polohiwa a
-Kanoloa, literally ‘the black-shining road of Kanaloa’, and for its northern limit, ke alanui
-polohiwa a Kane, literally ‘the black-shining road of Kane’.[7] In Pukapuka, the terms for
-the solstices were lua poto ‘short pit’ and lua loa ‘long pit’, phrases which Beaglehole
+appears to move over a year. For the Pukapukans, it was _te ala o te la_, literally ‘the path of
+the sun’. Hawaiians called it _ke ala ula a ke kuʔukuʔu_, ‘the bright road of the spider’.
+Hawaiian terms have been recorded for the sun’s southern limit,
+_ke alanui polohiwa a Kanoloa_, literally ‘the black-shining road of Kanaloa’, and for its northern limit,
+_ke alanui polohiwa a Kane_, literally ‘the black-shining road of Kane’.[7] In Pukapuka, the terms for
+the solstices were _lua poto_ ‘short pit’ and _lua loa_ ‘long pit’, phrases which Beaglehole
 suggests refer to the short days of winter and the long days of summer respectively. Tahiti
-has corresponding terms—rua poto and rua maoro. Maori has the one term, mārua roa
+has corresponding terms — _rua poto_ and _rua maoro_. Maori has the one term, _mārua roa_
 ‘long pit’ for both solstices, and applies the term also to the month or season during which
 the sun is at its furthermost points (Makemson 1941:85). The only Micronesian terms I
 have located have been recorded in a Gilbertese myth by Arthur Grimble, in which a tree,
-Kai-n-tiku-aba, whose right side is te-au-meaŋ ‘northern solstice’ and left side is te-au-
-maiaki ‘southern solstice’, springs from the spine of Na Atibu (Grimble 1972:43). In his
-Gilbertese dictionary, Sabatier defines au as ‘used to indicate sun’s position north or south
-of the equator’; meaŋ is the directional ‘north’ and maiaki ‘south’.
+_Kai-n-tiku-aba_, whose right side is _te-au-meaŋ_ ‘northern solstice’ and left side is
+_te-au-maiaki_ ‘southern solstice’, springs from the spine of _Na Atibu_ (Grimble 1972:43). In his
+Gilbertese dictionary, Sabatier defines _au_ as ‘used to indicate sun’s position north or south
+of the equator’; _meaŋ_ is the directional ‘north’ and _maiaki_ ‘south’.
 
    At its highest point each day the sun is also an accurate indicator of due north (unless
 you happen to be at the particular latitude for which the sun is then directly overhead). As
@@ -7404,9 +7399,9 @@ season (1994:384).[8]
 160      Meredith Osmond
 
    Reconstruction of a POc term for the sun itself is not clearcut. Blust has reconstructed
-PMP *qajaw or *qalejaw as ‘day’, continued as POc *qajo ‘day’. In this he has revised
-both the form and meaning of Dempwolff’s (1938) reconstruction PMP *ha(ŋ)gav ‘day,
-sun’. Here we have opted for ‘sun’ as the primary meaning of POc *qaco, and, by
+PMP _*qajaw_ or _*qalejaw_ as ‘day’, continued as POc _*qajo_ ‘day’. In this he has revised
+both the form and meaning of Dempwolff’s (1938) reconstruction PMP _*ha(ŋ)gav_ ‘day,
+sun’. Here we have opted for ‘sun’ as the primary meaning of POc _*qaco_, and, by
 extension, ‘daytime’. There is evidence both within and without the Oceanic region that
 the senses of ‘day/daylight/daytime’ and ‘sun’ were commonly interchanged.
 
@@ -7415,7 +7410,7 @@ PAn *qajaw, *qalejaw ‘sun, daylight’ (ACD)[9]
  WMP: Itbayat         araw              ‘sun’
  WMP: Cham            atdaw             ‘sun’
  WMP: Saban           sieu              ‘day’
- WMP: Makasarese allo                   ‘day; sun (in some expressions)’
+ WMP: Makasarese      allo              ‘day; sun (in some expressions)’
  WMP: Muna            gholeo            ‘day’
  CMP: Bima            liro              ‘sun’
  CMP: Ngadha          leza              ‘sun; day; daylight; daytime; heat of the sun’
@@ -7423,28 +7418,28 @@ PAn *qajaw, *qalejaw ‘sun, daylight’ (ACD)[9]
  CMP: Leti            lera              ‘sun; day’
  CMP: Yamdena         lere              ‘sun; day’
 POc *qaco ‘sun, daytime’
- Adm: Ponam            al                          ‘sun’
- Adm: Seimat           al                          ‘sun’
- NNG: Bariai           ado                         ‘day, sun’
- NNG: Takia            ad                          ‘sun’
- NNG: Takia            ad-ad                       ‘daytime’
- NNG: Kaiwa            as                          ‘daytime’
- PT:    Molima         ʔasu                        ‘sun’
- MM: Nakanai           haro                        ‘sun; day’
- MM: Tigak             ias                         ‘sun’
- MM: Tigak             (gan)ias                    ‘daytime’
- MM: Nalik             ias                         ‘sun’
- SES: Bugotu           aho                         ‘sun’
- SES: Gela             aho                         ‘sun; good weather; put in the sun; experience good weather’
-    SES:    Lau               sato                 ‘sun’
-    SES:    ’Are’are          rato                 ‘sun, sunshine, no rain, good weather’
-    SES:    Sa’a              sato                 ‘sun, sunshine, fine weather’
-    NCV:    Mota              loa                  ‘sun’
-    NCV:    Lonwolwol         jal                  ‘sun’
-    NCV:    Paamese           ealo                 ‘sunshine’
-    NCV:    Namakura          ʔal                  ‘sun’
-    Mic:    Marshallese       alɯ                  ‘sun’
-    Mic:    Woleaian          yaro                 ‘sun’
+ Adm: Ponam           al                ‘sun’
+ Adm: Seimat          al                ‘sun’
+ NNG: Bariai          ado               ‘day, sun’
+ NNG: Takia           ad                ‘sun’
+ NNG: Takia           ad-ad             ‘daytime’
+ NNG: Kaiwa           as                ‘daytime’
+ PT:  Molima          ʔasu              ‘sun’
+ MM:  Nakanai         haro              ‘sun; day’
+ MM:  Tigak           ias               ‘sun’
+ MM:  Tigak           (gan)ias          ‘daytime’
+ MM:  Nalik           ias               ‘sun’
+ SES: Bugotu          aho               ‘sun’
+ SES: Gela            aho               ‘sun; good weather; put in the sun; experience good weather’
+ SES: Lau             sato              ‘sun’
+ SES: ’Are’are        rato              ‘sun, sunshine, no rain, good weather’
+ SES: Sa’a            sato              ‘sun, sunshine, fine weather’
+ NCV: Mota            loa               ‘sun’
+ NCV: Lonwolwol       jal               ‘sun’
+ NCV: Paamese         ealo              ‘sunshine’
+ NCV: Namakura        ʔal               ‘sun’
+ Mic: Marshallese     alɯ               ‘sun’
+ Mic: Woleaian        yaro              ‘sun’
 >
 
 [9]    Blust (ACD) glosses this ‘day’, but the gloss given here appears more consonant with the data.
@@ -7453,12 +7448,12 @@ POc *qaco ‘sun, daytime’
 
 <
 PPn *qaso ‘day, as period of time’
- Pn:    Tongan          ʔaho          (N) ‘day’; (V) ‘be day or daylight’
- Pn:    Rennellese      ʔaso          ‘time, day, season’
- Pn:    Samoan          aso           ‘day’
- Pn:    Tokelauan       aso           ‘day’
- Pn:    Tuvalu          aho           ‘day (as time span)’
- Pn:    Tikopia         aso           ‘day (as time span)’
+ Pn:  Tongan          ʔaho          (N) ‘day’; (V) ‘be day or daylight’
+ Pn:  Rennellese      ʔaso          ‘time, day, season’
+ Pn:  Samoan          aso           ‘day’
+ Pn:  Tokelauan       aso           ‘day’
+ Pn:  Tuvalu          aho           ‘day (as time span)’
+ Pn:  Tikopia         aso           ‘day (as time span)’
 >
 
 Proto Nuclear Polynesian shows a split between *qaso ‘day, as a period of time’ and
@@ -7466,52 +7461,52 @@ Proto Nuclear Polynesian shows a split between *qaso ‘day, as a period of time
 
 <
 PNPn *qaho ‘daytime, daylight’
- Pn:   Samoan         ao              ‘day (contrasted with night); daylight’
- Pn:   Rennellese     ʔao             (N) ‘day, daylight’; (V) ‘be daylight’
- Pn:   Rarotongan     ao              ‘day, daylight, dawn; world’
- Pn:   Tikopia        ao              ‘daylight’
- Pn:   Maori          ao              (N) ‘daytime as opposed to night’; (VI) ‘dawn, become day’
+ Pn:  Samoan         ao              ‘day (contrasted with night); daylight’
+ Pn:  Rennellese     ʔao             (N) ‘day, daylight’; (V) ‘be daylight’
+ Pn:  Rarotongan     ao              ‘day, daylight, dawn; world’
+ Pn:  Tikopia        ao              ‘daylight’
+ Pn:  Maori          ao              (N) ‘daytime as opposed to night’; (VI) ‘dawn, become day’
 >
 
 <
 PAn *daqaNi ‘day’ (ACD)
 POc *raqani ‘daytime, daylight’
- Adm: Ponam            ran            ‘day’
- Adm: Drehet           laŋ            ‘daytime’
- NNG: Yabem            -lɛŋ           ‘be daytime’
- PT:    Kiriwina       yam            ‘daytime’
- PT:    Sinaugoro      laɣani         ‘daytime’
- PT:    Motu           rani           ‘daytime’
- MM: Nalik             ran            ‘daytime’
- MM: Petats            len            ‘daytime’
- MM: Haku              lan            ‘daytime’
- MM: Uruava            rani           ‘daytime’
- MM: Roviana           rane           ‘day’
- MM: Maringe           na-rane        ‘day’
- SES: Bugotu           dani           ‘morning, daylight’
- SES: Gela             dani           ‘day, daylight’
- SES: Lau              dani           ‘day, daylight’
- SES: Sa’a             dani, daŋi     ‘daylight’ (ŋ for n unexplained)
- SES: Kwaio            dani, daŋi     ‘day’ (ŋ for n unexplained)
- SES: ’Are’are         tani           ‘daylight’
- SES: Arosi            daŋi           ‘daylight, day’ (ŋ for n unexplained)
- NCV: Mota             (ma)ran        ‘light, daylight, morning, day; be light; tomorrow’s light; the morrow’
- NCV: Raga              rani          ‘day, light, become day; morning’
- NCV: Raga              (ma)rani      ‘morning light’
- NCV: Tamambo           rani          ‘daylight’
- NCV: Big Nambas        na-ran        ‘daytime’
- NCV: Lonwolwol              ren              ‘be light (of sky, weather etc.); weather, light, daylight’
- NCV:     Paamese            lani             ‘daybreak’
- SV:      Lenakel            n-ian            ‘day’
- SV:      Kwamera            (ia)ran          ‘day’
- Mic:     Marshallese        ṛɯān            ‘day, date’
- Mic:     Ponapean           rān              ‘day’
- Mic:     Puluwatese         rǣn             ‘day’
- Mic:     Woleaian           ẓan             ‘day, date’
- Pn:      Maori              raŋi             ‘day, as period of time’ (ŋ for n unexplained)
+ Adm: Ponam          ran            ‘day’
+ Adm: Drehet         laŋ            ‘daytime’
+ NNG: Yabem          -lɛŋ           ‘be daytime’
+ PT:  Kiriwina       yam            ‘daytime’
+ PT:  Sinaugoro      laɣani         ‘daytime’
+ PT:  Motu           rani           ‘daytime’
+ MM:  Nalik          ran            ‘daytime’
+ MM:  Petats         len            ‘daytime’
+ MM:  Haku           lan            ‘daytime’
+ MM:  Uruava         rani           ‘daytime’
+ MM:  Roviana        rane           ‘day’
+ MM:  Maringe        na-rane        ‘day’
+ SES: Bugotu         dani           ‘morning, daylight’
+ SES: Gela           dani           ‘day, daylight’
+ SES: Lau            dani           ‘day, daylight’
+ SES: Sa’a           dani, daŋi     ‘daylight’ (_ŋ_ for _n_ unexplained)
+ SES: Kwaio          dani, daŋi     ‘day’ (_ŋ_ for _n_ unexplained)
+ SES: ’Are’are       tani           ‘daylight’
+ SES: Arosi          daŋi           ‘daylight, day’ (_ŋ_ for _n_ unexplained)
+ NCV: Mota           (ma)ran        ‘light, daylight, morning, day; be light; tomorrow’s light; the morrow’
+ NCV: Raga           rani           ‘day, light, become day; morning’
+ NCV: Raga           (ma)rani       ‘morning light’
+ NCV: Tamambo        rani           ‘daylight’
+ NCV: Big Nambas     na-ran         ‘daytime’
+ NCV: Lonwolwol      ren            ‘be light (of sky, weather etc.); weather, light, daylight’
+ NCV: Paamese        lani           ‘daybreak’
+ SV:  Lenakel        n-ian          ‘day’
+ SV:  Kwamera        (ia)ran        ‘day’
+ Mic: Marshallese    ṛɯān           ‘day, date’
+ Mic: Ponapean       rān            ‘day’
+ Mic: Puluwatese     rǣn            ‘day’
+ Mic: Woleaian       ẓan            ‘day, date’
+ Pn:  Maori          raŋi           ‘day, as period of time’ (_ŋ_ for _n_ unexplained)
 >
 
-The Southeast Solomonic forms above are irregular, initial d- reflecting *drani.
+The Southeast Solomonic forms above are irregular, initial _d-_ reflecting _*drani_.
 
 162    Meredith Osmond
 
