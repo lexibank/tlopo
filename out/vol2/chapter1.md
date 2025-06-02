@@ -4,6 +4,7 @@ by Ross, M., Pawley, A. and Osmond, M.
 
 
 <a id="s-1"></a>
+
 ## 1. Aims
 
 
@@ -26,6 +27,7 @@ We hope that this thesaurus will be a useful resource for culture historians, ar
 
 
 <a id="s-2"></a>
+
 ## 2. The relation of the current project to previous work
 
 
@@ -36,9 +38,9 @@ Since the 1950s, POc and other early Oceanic interstage languages have been the 
 
 <a id="p-3"></a>
 
-Comparative lexical studies have been carried out for several lower-order subgroups of Oceanic: for Proto Polynesian by Biggs (resulting in [Walsh and Biggs](../references.md#source-WalshandBiggs1966) ([1966](../references.md#source-WalshandBiggs1966)), [Biggs et al.](../references.md#source-Biggsetal1970) ([1970](../references.md#source-Biggsetal1970)) and subsequent versions of the POLLEX file, including [Biggs and Clark](../references.md#source-BiggsandClark1993) ([1993](../references.md#source-BiggsandClark1993)), the version we have referred to in our work); for Proto Micronesian by scholars at the University of Hawaii ([Bender et al. 1983](../references.md#source-Benderetal1983)); for Proto North/Central Vanuatu by [Clark](../references.md#source-Clark1996) ([1996](../references.md#source-Clark1996)); for Proto Southern Vanuatu by [Lynch](../references.md#source-Lynch1978b) ([1978b](../references.md#source-Lynch1978b), 1996b, 2001c); for New Caledonia by [Ozanne-Rivierre](../references.md#source-OzanneRivierre1992) ([1992](../references.md#source-OzanneRivierre1992)), [Haudricourt and Ozanne-Rivierre](../references.md#source-HaudricourtandOzanneRivierre1982) ([1982](../references.md#source-HaudricourtandOzanneRivierre1982)) and [Geraghty](../references.md#source-Geraghty1989) ([1989](../references.md#source-Geraghty1989)); for Proto Southeast Solomonic by [Levy](../references.md#source-Levy1980) ([1980](../references.md#source-Levy1980)) and [Lichtenberk](../references.md#source-Lichtenberk1988) ([1988](../references.md#source-Lichtenberk1988)); for Proto Central Pacific by [Hockett](../references.md#source-Hockett1976) ([1976](../references.md#source-Hockett1976)) and [Geraghty](../references.md#source-Geraghty1983) ([1983](../references.md#source-Geraghty1983), 1986, and 1996, together with a number of unpublished papers); for Proto Eastern Oceanic by [Biggs](../references.md#source-Biggs1965) ([1965](../references.md#source-Biggs1965)), [Cashmore](../references.md#source-Cashmore1969) ([1969](../references.md#source-Cashmore1969)), [Levy and Smith](../references.md#source-LevyandSmith1970) ([1970](../references.md#source-LevyandSmith1970)), and [Geraghty](../references.md#source-Geraghty1990) ([1990](../references.md#source-Geraghty1990)); and for Proto Central Papuan by [Pawley](../references.md#source-Pawley1975) ([1975](../references.md#source-Pawley1975)), [Lynch](../references.md#source-Lynch1978a) ([1978a](../references.md#source-Lynch1978a), 1980), and [Ross](../references.md#source-Ross1994a) ([1994](../references.md#source-Ross1994a)a).
+Comparative lexical studies have been carried out for several lower-order subgroups of Oceanic: for Proto Polynesian by Biggs (resulting in [Walsh and Biggs](../references.md#source-WalshandBiggs1966) ([1966](../references.md#source-WalshandBiggs1966)), [Biggs et al.](../references.md#source-Biggsetal1970) ([1970](../references.md#source-Biggsetal1970)) and subsequent versions of the POLLEX file, including [Biggs and Clark](../references.md#source-BiggsandClark1993) ([1993](../references.md#source-BiggsandClark1993)), the version we have referred to in our work); for Proto Micronesian by scholars at the University of Hawaii ([Bender et al. 1983](../references.md#source-Benderetal1983)); for Proto North/Central Vanuatu by [Clark](../references.md#source-Clark1996) ([1996](../references.md#source-Clark1996)); for Proto Southern Vanuatu by [Lynch](../references.md#source-Lynch1978b) ([1978b](../references.md#source-Lynch1978b), [1996b](../references.md#source-Lynch1996b), [2001c](../references.md#source-Lynch2001c)); for New Caledonia by [Ozanne-Rivierre](../references.md#source-OzanneRivierre1992) ([1992](../references.md#source-OzanneRivierre1992)), [Haudricourt and Ozanne-Rivierre](../references.md#source-HaudricourtandOzanneRivierre1982) ([1982](../references.md#source-HaudricourtandOzanneRivierre1982)) and [Geraghty](../references.md#source-Geraghty1989) ([1989](../references.md#source-Geraghty1989)); for Proto Southeast Solomonic by [Levy](../references.md#source-Levy1980) ([1980](../references.md#source-Levy1980)) and [Lichtenberk](../references.md#source-Lichtenberk1988) ([1988](../references.md#source-Lichtenberk1988)); for Proto Central Pacific by [Hockett](../references.md#source-Hockett1976) ([1976](../references.md#source-Hockett1976)) and [Geraghty](../references.md#source-Geraghty1983) ([1983](../references.md#source-Geraghty1983), [1986](../references.md#source-Geraghty1986), and 1996, together with a number of unpublished papers); for Proto Eastern Oceanic by [Biggs](../references.md#source-Biggs1965) ([1965](../references.md#source-Biggs1965)), [Cashmore](../references.md#source-Cashmore1969) ([1969](../references.md#source-Cashmore1969)), [Levy and Smith](../references.md#source-LevyandSmith1970) ([1970](../references.md#source-LevyandSmith1970)), and [Geraghty](../references.md#source-Geraghty1990) ([1990](../references.md#source-Geraghty1990)); and for Proto Central Papuan by [Pawley](../references.md#source-Pawley1975) ([1975](../references.md#source-Pawley1975)), [Lynch](../references.md#source-Lynch1978a) ([1978a](../references.md#source-Lynch1978a), [1980](../references.md#source-Lynch1980)), and [Ross](../references.md#source-Ross1994a) ([1994](../references.md#source-Ross1994a)a).
 
-Robert Blust of the University of Hawaii has, in a series of papers (1970, 1980b, 1983–84a, 1986, 1989) published extensive, alphabetically ordered, lexical reconstructions (with supporting cognate sets) for interstages earlier than POc, especially for Proto Austronesian, Proto Malayo-Polynesian and Proto Eastern Malayo-Polynesian. He has also written several papers investigating specific semantic fields ([Blust 1980a](../references.md#source-Blust1980a), 1982, 1987, 1994). At the time of writing, Blust is in the process of compiling his Austronesian Comparative Dictionary (ACD) on disk at the University of Hawaii. The version to which we refer dates from 1998.
+Robert Blust of the University of Hawaii has, in a series of papers (1970, 1980b, 1983–84a, 1986, 1989) published extensive, alphabetically ordered, lexical reconstructions (with supporting cognate sets) for interstages earlier than POc, especially for Proto Austronesian, Proto Malayo-Polynesian and Proto Eastern Malayo-Polynesian. He has also written several papers investigating specific semantic fields ([Blust 1980a](../references.md#source-Blust1980a), [1982](../references.md#source-Blust1982), [1987](../references.md#source-Blust1987), [1994](../references.md#source-Blust1994)). At the time of writing, Blust is in the process of compiling his Austronesian Comparative Dictionary (ACD) on disk at the University of Hawaii. The version to which we refer dates from 1998.
 
 Several papers systematically investigate particular semantic domains in the lexicon of POc, e.g. [Milke](../references.md#source-Milke1958) ([1958](../references.md#source-Milke1958)), [French-Wright](../references.md#source-FrenchWright1983) ([1983](../references.md#source-FrenchWright1983)), [Pawley](../references.md#source-Pawley1982b) ([1982b](../references.md#source-Pawley1982b)), [Pawley and Green](../references.md#source-PawleyandGreen1985) ([1985](../references.md#source-PawleyandGreen1985)), [Lichtenberk](../references.md#source-Lichtenberk1986) ([1986](../references.md#source-Lichtenberk1986)), [Walter](../references.md#source-Walter1989) ([1989](../references.md#source-Walter1989)), and the various papers in [Pawley and Ross](../references.md#source-PawleyandRoss1994) ([1994](../references.md#source-PawleyandRoss1994)a). [Ross](../references.md#source-Ross1988) ([1988](../references.md#source-Ross1988)) contains a substantial number of new POc lexical reconstructions, as well as proposed modifications to the reconstructed POc sound system and the orthography.
 
@@ -51,14 +53,16 @@ As the present project proceeded, we came to realise that the form in which prel
 
 
 <a id="s-3"></a>
+
 ## 3. Reconstructing the lexicon
 
 
-The lexical reconstructions presented in these volumes are arrived at using the standard methods of comparative linguistics, which require as preliminaries a theory of subgrouping ([§3.2](#s-3-2)) and the working out of systematic sound correspondences among cognate vocabulary in contemporary languages ([§3.3](#s-3-3)). As well as cognate sets clearly attributable to Proto Oceanic, we have included some cognate sets which at this stage are attributable to various interstage languages, particularly Proto Western and Proto Eastern Oceanic (but see below for definitions). We have set out to pay more careful attention to reconstructing the semantics of Proto Oceanic forms than has generally been done in earlier work, treating words not as isolates but as parts of terminologies.
+The lexical reconstructions presented in these volumes are arrived at using the standard methods of comparative linguistics, which require as preliminaries a theory of subgrouping (§3.2) and the working out of systematic sound correspondences among cognate vocabulary in contemporary languages (§3.3). As well as cognate sets clearly attributable to Proto Oceanic, we have included some cognate sets which at this stage are attributable to various interstage languages, particularly Proto Western and Proto Eastern Oceanic (but see below for definitions). We have set out to pay more careful attention to reconstructing the semantics of Proto Oceanic forms than has generally been done in earlier work, treating words not as isolates but as parts of terminologies.
 
 
 <a id="s-3-1"></a>
-## 3.1. Terminological reconstruction
+
+### 3.1. Terminological reconstruction
 
 
 Our method of doing ‘terminological reconstruction’ is as follows. First, the terminologies of present-day speakers of Oceanic languages are used as the basis for constructing a hypothesis about the semantic structure of a corresponding POc terminology, taking account of (i) ethnographic evidence, i.e. descriptions of the lifestyles of Oceanic communities and (ii) the geographical and physical resources of particular regions of Oceania. For example, by comparing terms in several languages for parts of an outrigger canoe, or for growth stages of a coconut, one can see which concepts recur and so are likely to have been present in POc. Secondly, a search is made for cognate sets from which forms can be reconstructed to match each meaning in this hypothesised terminology. The search is not restricted to members of the Oceanic subgroup; if a term found in an Oceanic language proves to have external (non-Oceanic) cognates, the POc antiquity of that term will be confirmed and additional evidence concerning its meaning will be provided. Thirdly, the hypothesised terminology is re-examined to see if it needs modification in the light of the reconstructions. There are cases, highlighted in the various contributions to these volumes, where we were able to reconstruct a term where we did not expect to do so and conversely, often more significantly, where we were unable to reconstruct a term where we had believed we should be able to. In each case, we have discussed the reasons why our expectations were not met and what this may mean for Oceanic culture history.
@@ -77,13 +81,13 @@ Terminological reconstruction is instead similar to the semantic reconstruction 
 
 For example, it proved possible to reconstruct the following POc terms for tying with cords (vol.1, pp.291–293):
 
-```
-POc &ast;buku                  ‘tie (a knot); fasten’
-POc &ast;pwita                 ‘tie by encircling’
-POc &ast;paqu(s), &ast;paqus-i-    ‘bind, lash; construct (canoe +) by lashing together’
-POc &ast;pisi                  ‘bind up, tie up, wind round, wrap’
-POc &ast;kiti                  ‘tie, bind’
-```
+| Reconstruction          | Gloss                                                 |
+|:------------------------|:------------------------------------------------------|
+| POc &ast;buku               | ‘tie (a knot); fasten’                                |
+| POc &ast;pwita              | ‘tie by encircling’                                   |
+| POc &ast;paqu(s), &ast;paqus-i- | ‘bind, lash; construct (canoe +) by lashing together’ |
+| POc &ast;pisi               | ‘bind up, tie up, wind round, wrap’                   |
+| POc &ast;kiti               | ‘tie, bind’                                           |
 
 In each of the supporting cognate sets from contemporary languages there are a number of items whose glosses in the dictionaries or word lists are too vague to tell the analyst anything about the specific denotation of the item, and in the case of &ast;kiti this prevents the assignment of a more specific meaning. The verb &ast;buku can be identified as the generic term for tying a knot because of its derivational relationship (by zero derivation) with a noun whose denotation is clearly generic, &ast;buku ‘node (as in bamboo or sugarcane); joint; knuckle; knot in wood, string or rope’ (vol. 1, p.85). Reconstruction of the meaning of &ast;pwita as ‘tie by encircling’ is supported by the meanings of the Lukep, Takia and Longgu reflexes, respectively ‘tie by encircling’, ‘tie on (as grass-skirt)’, and ‘trap an animal’s leg; tie s.t. around ankle or wrist’: Lukep and Takia are North New Guinea languages, whilst Longgu is Southeast Solomonic. Reconstruction of the meaning of &ast;paqu(s), &ast;paqus-i- as ‘bind, lash; construct (canoe +) by tying together’ is supported by the meanings of the Takia, Kiribati and Samoan reflexes, respectively ‘tie, bind; construct (a canoe)’, ‘construct (canoe, house)’, and ‘make, construct (wooden objects, canoes +)’: Takia is a North New Guinea language, Kiribati is Micronesian, and Samoan is Polynesian. The meaning of &ast;pisi is similarly reconstructed by reference to the meanings of its Mono-Alu, Mota, Port Sandwich, Nguna and Fijian reflexes.
 
@@ -96,12 +100,13 @@ Another problem is inherent in the dangers of sampling from over 450 languages. 
 
 
 <a id="s-3-2"></a>
-## 3.2. Subgrouping and reconstruction
+
+### 3.2. Subgrouping and reconstruction
 
 
-The strength of a lexical reconstruction rests crucially on the distribution of the supporting cognate sets across subgroups. The distribution of cognate forms and agreements in their meanings is much more important than the number of cognates. It is enough to make a secure reconstruction if a cognate set occurs in just two languages in a family, with agreement in meaning, provided that the two languages belong to different first-order subgroups and provided that there is no reason to suspect that the resemblances are due to borrowing or chance. The PMP term &ast;apij ‘twins’ is reflected in several Western Malayo-Polynesian languages (e.g. Batak apid ‘twins, double (fused) banana’) but in only a single Oceanic language (Roviana avisi ‘twins of the same sex’). Because Roviana belongs to a different first-order branch of Malayo-Polynesian from the Western Malayo-Polynesian witnesses and because there is virtually no chance that the agreement is due to borrowing or chance similarity, this distribution is enough to justify the reconstruction of PMP &ast;apij, POc &ast;apic ‘twins’.
+The strength of a lexical reconstruction rests crucially on the distribution of the supporting cognate sets across subgroups. The distribution of cognate forms and agreements in their meanings is much more important than the number of cognates. It is enough to make a secure reconstruction if a cognate set occurs in just two languages in a family, with agreement in meaning, provided that the two languages belong to different first-order subgroups and provided that there is no reason to suspect that the resemblances are due to borrowing or chance. The PMP term _&ast;apij_ ‘twins’ is reflected in several Western Malayo-Polynesian languages (e.g. Batak _apid_ ‘twins, double (fused) banana’) but in only a single Oceanic language (Roviana avisi ‘twins of the same sex’). Because Roviana belongs to a different first-order branch of Malayo-Polynesian from the Western Malayo-Polynesian witnesses and because there is virtually no chance that the agreement is due to borrowing or chance similarity, this distribution is enough to justify the reconstruction of PMP _&ast;apij_, POc _&ast;apic_ ‘twins’.
 
-Although the subgrouping of Austronesian languages and questions about which protolanguage was spoken where remain somewhat controversial, it is impossible to proceed without making some assumptions about these matters. Figure 1 is an approximate rendering of our subgrouping assumptions, and also serves as a key to abbreviations of names of language groups and protolanguages. The upper part of the tree (as far down as POc) is due to Blust, originally presented in [Blust](../references.md#source-Blust1977a) ([1977a](../references.md#source-Blust1977a)) and repeated with additional supporting evidence in subsequent publications ([Blust 1978a](../references.md#source-Blust1978a), 1982, 1983–84b, 1993).[^4]
+Although the subgrouping of Austronesian languages and questions about which protolanguage was spoken where remain somewhat controversial, it is impossible to proceed without making some assumptions about these matters. Figure 1 is an approximate rendering of our subgrouping assumptions, and also serves as a key to abbreviations of names of language groups and protolanguages. The upper part of the tree (as far down as POc) is due to Blust, originally presented in [Blust](../references.md#source-Blust1977a) ([1977a](../references.md#source-Blust1977a)) and repeated with additional supporting evidence in subsequent publications ([Blust 1978a](../references.md#source-Blust1978a), [1982](../references.md#source-Blust1982), 1983–84b, 1993).[^4]
 
 
 <a id="p-7"></a>
@@ -146,37 +151,39 @@ Map 4, same as in vol 1
 
 
 <a id="s-3-3"></a>
-## 3.3. Sound correspondences
+
+### 3.3. Sound correspondences
 
 
-As we noted above, reconstruction depends on working out the systematic sound correspondences among cognate vocabulary in contemporary languages and on having a working hypothesis about how the sounds of Proto Oceanic have changed and are reflected in modern Oceanic languages. Working out sound correspondences even for twenty languages is a large task, and so we have relied heavily on our own previous work and the work of others. The sound correspondences we have used are those given by [Ross](../references.md#source-Ross1988) ([1988](../references.md#source-Ross1988)) for Western Oceanic and Admiralties; by [Levy](../references.md#source-Levy1979) ([1979](../references.md#source-Levy1979), 1980) and [Lichtenberk](../references.md#source-Lichtenberk1988) ([1988](../references.md#source-Lichtenberk1988)) for Cristobal-Malaitan, by [Pawley](../references.md#source-Pawley1972) ([1972](../references.md#source-Pawley1972)) and [Tryon and Hackman](../references.md#source-TryonandHackman1983) ([1983](../references.md#source-TryonandHackman1983)) for Southeast Solomonic; by [Tryon](../references.md#source-Tryon1976) ([1976](../references.md#source-Tryon1976)) and [Clark](../references.md#source-Clark1996) ([1996](../references.md#source-Clark1996)) for North/Central Vanuatu; by [Lynch](../references.md#source-Lynch1978b) ([1978b](../references.md#source-Lynch1978b), 2001c) for South Vanuatu; by [Geraghty](../references.md#source-Geraghty1989) ([1989](../references.md#source-Geraghty1989)) and [Ozanne-Rivierre](../references.md#source-OzanneRivierre1992) ([1992](../references.md#source-OzanneRivierre1992)) for New Caledonia; by [Jackson](../references.md#source-Jackson1986) ([1986](../references.md#source-Jackson1986)) and [Ross](../references.md#source-Ross1996a) ([1996a](../references.md#source-Ross1996a)) for Nuclear Micronesian; by [Geraghty](../references.md#source-Geraghty1986) ([1986](../references.md#source-Geraghty1986)) for Central Pacific; by [Biggs](../references.md#source-Biggs1978) ([1978](../references.md#source-Biggs1978)) for Polynesian; by [Ross](../references.md#source-Ross1996a) ([1996a](../references.md#source-Ross1996a)) for Yapese; and by [Ross](../references.md#source-Ross1996b) ([1996b](../references.md#source-Ross1996b)) for Irian Jaya (West New Guinea).
+As we noted above, reconstruction depends on working out the systematic sound correspondences among cognate vocabulary in contemporary languages and on having a working hypothesis about how the sounds of Proto Oceanic have changed and are reflected in modern Oceanic languages. Working out sound correspondences even for twenty languages is a large task, and so we have relied heavily on our own previous work and the work of others. The sound correspondences we have used are those given by [Ross](../references.md#source-Ross1988) ([1988](../references.md#source-Ross1988)) for Western Oceanic and Admiralties; by [Levy](../references.md#source-Levy1979) ([1979](../references.md#source-Levy1979), [1980](../references.md#source-Levy1980)) and [Lichtenberk](../references.md#source-Lichtenberk1988) ([1988](../references.md#source-Lichtenberk1988)) for Cristobal-Malaitan, by [Pawley](../references.md#source-Pawley1972) ([1972](../references.md#source-Pawley1972)) and [Tryon and Hackman](../references.md#source-TryonandHackman1983) ([1983](../references.md#source-TryonandHackman1983)) for Southeast Solomonic; by [Tryon](../references.md#source-Tryon1976) ([1976](../references.md#source-Tryon1976)) and [Clark](../references.md#source-Clark1996) ([1996](../references.md#source-Clark1996)) for North/Central Vanuatu; by [Lynch](../references.md#source-Lynch1978b) ([1978b](../references.md#source-Lynch1978b), [2001c](../references.md#source-Lynch2001c)) for South Vanuatu; by [Geraghty](../references.md#source-Geraghty1989) ([1989](../references.md#source-Geraghty1989)) and [Ozanne-Rivierre](../references.md#source-OzanneRivierre1992) ([1992](../references.md#source-OzanneRivierre1992)) for New Caledonia; by [Jackson](../references.md#source-Jackson1986) ([1986](../references.md#source-Jackson1986)) and [Ross](../references.md#source-Ross1996a) ([1996a](../references.md#source-Ross1996a)) for Nuclear Micronesian; by [Geraghty](../references.md#source-Geraghty1986) ([1986](../references.md#source-Geraghty1986)) for Central Pacific; by [Biggs](../references.md#source-Biggs1978) ([1978](../references.md#source-Biggs1978)) for Polynesian; by [Ross](../references.md#source-Ross1996a) ([1996a](../references.md#source-Ross1996a)) for Yapese; and by [Ross](../references.md#source-Ross1996b) ([1996b](../references.md#source-Ross1996b)) for Irian Jaya (West New Guinea).
 
-For non-Oceanic languages we have referred to sound correspondences given by [Tsuchida](../references.md#source-Tsuchida1976) ([1976](../references.md#source-Tsuchida1976)) for Formosa; by [Zorc](../references.md#source-Zorc1977) ([1977](../references.md#source-Zorc1977), 1986) and [Reid](../references.md#source-Reid1982) ([1982](../references.md#source-Reid1982)) for the Philippines; by [Adelaar](../references.md#source-Adelaar1992a) ([1992a](../references.md#source-Adelaar1992a)) and [Nothofer](../references.md#source-Nothofer1975) ([1975](../references.md#source-Nothofer1975)) for Malay and Javanese; by [Sneddon](../references.md#source-Sneddon1984) ([1984](../references.md#source-Sneddon1984)) for Sulawesi; by [Collins](../references.md#source-Collins1983) ([1983](../references.md#source-Collins1983)) for Central Maluku; and by [Blust](../references.md#source-Blust1978a) ([1978a](../references.md#source-Blust1978a)) for South Halmahera and West New Guinea.
+For non-Oceanic languages we have referred to sound correspondences given by [Tsuchida](../references.md#source-Tsuchida1976) ([1976](../references.md#source-Tsuchida1976)) for Formosa; by [Zorc](../references.md#source-Zorc1977) ([1977](../references.md#source-Zorc1977), [1986](../references.md#source-Zorc1986)) and [Reid](../references.md#source-Reid1982) ([1982](../references.md#source-Reid1982)) for the Philippines; by [Adelaar](../references.md#source-Adelaar1992a) ([1992a](../references.md#source-Adelaar1992a)) and [Nothofer](../references.md#source-Nothofer1975) ([1975](../references.md#source-Nothofer1975)) for Malay and Javanese; by [Sneddon](../references.md#source-Sneddon1984) ([1984](../references.md#source-Sneddon1984)) for Sulawesi; by [Collins](../references.md#source-Collins1983) ([1983](../references.md#source-Collins1983)) for Central Maluku; and by [Blust](../references.md#source-Blust1978a) ([1978a](../references.md#source-Blust1978a)) for South Halmahera and West New Guinea.
 
 We are well aware that regular sound correspondences can be interfered with in various ways: by phonetic conditioning that the analyst has not identified (see, e.g., [Blust 1996a](../references.md#source-Blust1996a)), by borrowing (for an extreme Oceanic case, see [Grace 1996](../references.md#source-Grace1996)), or, as recent research suggests, by the frequency of an item’s use ([Bybee 1994](../references.md#source-Bybee1994)). We have tried at least to note, and sometimes to account for, irregularities in cognate sets.
 
 
 <a id="s-3-4"></a>
-## 3.4. Proto Oceanic phonology and orthography
+
+### 3.4. Proto Oceanic phonology and orthography
 
 
 Work based on the sound correspondences of both Oceanic and non-Oceanic languages has resulted in the following reconstructed paradigm of POc phonemes:
 
 ```
-&ast;pw          &ast;p          &ast;t         &ast;c         &ast;k       &ast;q
-&ast;bw          &ast;b          &ast;d         &ast;j         &ast;g
-&ast;s
-&ast;mw          &ast;m          &ast;n         &ast;ñ         &ast;ŋ
-&ast;r                             &ast;R
-&ast;dr
-&ast;l
-&ast;w                                  &ast;y
-&ast;i                     &ast;u
-&ast;e                     &ast;o
-&ast;a
+            &ast;pw          &ast;p          &ast;t         &ast;c         &ast;k       &ast;q
+            &ast;bw          &ast;b          &ast;d         &ast;j         &ast;g
+                                     &ast;s
+            &ast;mw          &ast;m          &ast;n         &ast;ñ         &ast;ŋ
+                                     &ast;r                             &ast;R
+                                     &ast;dr
+                                     &ast;l
+            &ast;w                                  &ast;y
+                         &ast;i                     &ast;u
+                         &ast;e                     &ast;o
+                                     &ast;a
 ```
 
-The orthography used here and in the POc reconstructions in this work is from [Ross](../references.md#source-Ross1988) ([1988](../references.md#source-Ross1988)), with the addition of &ast;pw. POc phonology and its relationship to PMP is discussed in greater detail in vol. 1, [Chapter 2, §2](chapter2.md#s-2). Since the publication of vol. 1 of the present work, articles by John Lynch have appeared on POc stress (2000a) and POc labiovelar phonemes (2002e).
+The orthography used here and in the POc reconstructions in this work is from [Ross](../references.md#source-Ross1988) ([1988](../references.md#source-Ross1988)), with the addition of &ast;pw. POc phonology and its relationship to PMP is discussed in greater detail in vol. 1, Chapter 2, §2. Since the publication of vol. 1 of the present work, articles by John Lynch have appeared on POc stress (2000a) and POc labiovelar phonemes (2002e).
 
 
 <a id="p-13"></a>
@@ -184,11 +191,11 @@ The orthography used here and in the POc reconstructions in this work is from [R
 Table 1 shows two POc orthographies. The first was established by [Biggs](../references.md#source-Biggs1965) ([1965](../references.md#source-Biggs1965)), for Proto Eastern Oceanic, and [Grace](../references.md#source-Grace1969) ([1969](../references.md#source-Grace1969)), who applied it to Proto Oceanic, and has been used with a number of variants (separated by a slash) shown below. The second is the one generally used in this work, introduced by [Ross](../references.md#source-Ross1988) ([1988](../references.md#source-Ross1988)). The terms ‘oral grade’ and ‘nasal grade’ were used by [Grace](../references.md#source-Grace1969) ([1969](../references.md#source-Grace1969)) and have become conventional among Oceanic linguists to refer to the outcomes of certain sound changes that occurred between PMP and POc (see vol.1, Ch. 2).
 
 ```
-Table 1: POc orthographies
+                                   Table 1: POc orthographies
 Grace etc. oral grade          p          pw              t        d/r          s                  j        k
-nasal grade         mp       ŋp/mpw           nt       nd/nr                 nj                 ŋk
+           nasal grade         mp       ŋp/mpw           nt       nd/nr                 nj                 ŋk
 Ross         oral grade        p          pw             t         r            s                  c       k
-nasal grade       b          bw             d         dr                   j                  g
+             nasal grade       b          bw             d         dr                   j                  g
 Grace                m     ŋm/mw         n       ñ       ŋ    w         y   l       q          Ø       R
 Ross                 m      mw           n       ñ       ŋ    w         y   l       q          Ø       R
 Grace etc.           i     o        e        a       u
@@ -197,17 +204,19 @@ Ross                 i     o        e        a       u
 
 
 <a id="s-4"></a>
+
 ## 4. Conventions
 
 
 
 <a id="s-4-1"></a>
-## 4.1. Chapter format
+
+### 4.1. Chapter format
 
 
 Each of the contributions to the present volume concerns a particular Proto Oceanic ‘terminology’. Generally, each contribution begins with an introduction to the issues raised by the reconstruction of its particular terminology, and the bulk of each contribution consists of reconstructed etyma with supporting data and a commentary on matters of meaning and form. In the interests of space, we have not given the history of the reconstructions themselves, as this would often require commentary on the modifications made by others and by us, and on why we have made them. Where a reconstruction is not new, we have tried to give its earliest source, but this is difficult when earlier reconstructions differ in form and meaning.
 
-In general, the contributions to these volumes are concerned with items reconstructable in POc, PWOc, PEOc and occasionally PNGOc. Etyma for PWOc, PNGOc and PEOc are reconstructed because these may well also be POc etyma for which known reflexes are not well distributed (see discussion in [§3.2](#s-3-2)). The contributors to this volume vary in the degree to which they reconstruct etyma for interstages further down the tree. Reconstructions for lower-order interstages are decreasingly likely to reflect POc etyma and may be the results of cultural change as Oceanic speakers moved further out into the Pacific.
+In general, the contributions to these volumes are concerned with items reconstructable in POc, PWOc, PEOc and occasionally PNGOc. Etyma for PWOc, PNGOc and PEOc are reconstructed because these may well also be POc etyma for which known reflexes are not well distributed (see discussion in §3.2). The contributors to this volume vary in the degree to which they reconstruct etyma for interstages further down the tree. Reconstructions for lower-order interstages are decreasingly likely to reflect POc etyma and may be the results of cultural change as Oceanic speakers moved further out into the Pacific.
 
 Contributors have usually not sought to make fresh reconstructions at interstages superordinate to POc. What they have done, however, is to cite other scholars’ reconstructions for higher-order interstages, as these represent a summary of the non- Oceanic evidence in support of a given POc reconstruction. Occasionally, non-Oceanic evidence has been found to support a POc reconstruction where no reconstruction at a higher-level interstage has previously been made. In this case a new higher-order reconstruction is made, and the non-Oceanic evidence is given in a footnote.
 
@@ -218,7 +227,8 @@ Whilst we have tried to use the internal organisation of the lexicons of Oceanic
 
 
 <a id="s-4-2"></a>
-## 4.2. Data
+
+### 4.2. Data
 
 
 The sources of our data are listed in Appendix 1.
@@ -227,17 +237,18 @@ For most reconstructed etyma, only a representative sample of reflexes is given.
 
 Because our supporting data are drawn from such a wide range of languages, the convention is adopted of prefixing each language name with the abbreviation for the group of languages to which the language belongs, so that the distribution of a cognate set is more immediately obvious. These groups are genealogical except, perhaps, North/Central Vanuatu (abbreviated ‘NCV’) and Fijian (abbreviated ‘Fij:’).[^10] We have sought to be consistent in always listing these groups in the same order, but contributors vary in the ordering of languages within groups.
 
-Although there are accepted or standard orthographies for a number of the languages from which data are cited here, all data are transcribed into a standard orthography (see [Ross 1988](../references.md#source-Ross1988):3–4) in order to facilitate comparison. Except for inflexional morphemes, non- cognate portions of reflexes, i.e. derivational morphemes and non-cognate parts of compounds, are shown in parentheses (…). Where an inflexional morpheme is an affix or clitic and can readily be omitted, its omission is indicated by a hyphen at the beginning or end of the base. This applies particularly to possessor suffixes on directly possessed nouns (vol.1, [Ch.2, §3.2](chapter2.md#s-3-2)). Where an inflexional morpheme cannot readily be omitted, then it is separated from its base by a hyphen. This may happen because of complicated morphophonemics or because the morpheme is always present, like the adjectival -n in some NNG and Admiralties languages and prefixed reflexes of the POc article &ast;na in scattered languages. When a reflex is itself polymorphemic (i.e. the morphemes reflect morphemes present in the reconstructed etymon) or contains a reduplication, the morphemes or reduplicates are also separated by a hyphen.
+Although there are accepted or standard orthographies for a number of the languages from which data are cited here, all data are transcribed into a standard orthography (see [Ross 1988](../references.md#source-Ross1988):3–4) in order to facilitate comparison. Except for inflexional morphemes, non- cognate portions of reflexes, i.e. derivational morphemes and non-cognate parts of compounds, are shown in parentheses (…). Where an inflexional morpheme is an affix or clitic and can readily be omitted, its omission is indicated by a hyphen at the beginning or end of the base. This applies particularly to possessor suffixes on directly possessed nouns (vol.1, Ch. 2, §3.2). Where an inflexional morpheme cannot readily be omitted, then it is separated from its base by a hyphen. This may happen because of complicated morphophonemics or because the morpheme is always present, like the adjectival -n in some NNG and Admiralties languages and prefixed reflexes of the POc article &ast;na in scattered languages. When a reflex is itself polymorphemic (i.e. the morphemes reflect morphemes present in the reconstructed etymon) or contains a reduplication, the morphemes or reduplicates are also separated by a hyphen.
 
 
 <a id="p-15"></a>
 
 
 <a id="s-4-3"></a>
-## 4.3. Conventions used in representing reconstructions
+
+### 4.3. Conventions used in representing reconstructions
 
 
-POc reconstructions, and also PWOc, PEOc and PNGOc reconstructions, are given in the orthography of [§3.4](#s-3-4). For reconstructions at higher-order interstages the orthographies are those used by Blust in his various publications and the[ ACD.](../references.md#source-Blust1995) Reconstructions at lower- order interstages are given in the standard orthography adopted for data ([§4.2](#s-4-2)). Geraghty’s (1986) PCP orthography, for example, is based on Standard Fijian spelling, and is converted into our standard orthography in the same way as Fijian. Biggs and Clark’s PPn reconstructions are in any case written in an orthography identical to our standard. Bracketing and segmentation conventions in protoforms are shown in Table 2.
+POc reconstructions, and also PWOc, PEOc and PNGOc reconstructions, are given in the orthography of §3.4. For reconstructions at higher-order interstages the orthographies are those used by Blust in his various publications and the[ ACD.](../references.md#source-Blust1995) Reconstructions at lower- order interstages are given in the standard orthography adopted for data (§4.2). Geraghty’s (1986) PCP orthography, for example, is based on Standard Fijian spelling, and is converted into our standard orthography in the same way as Fijian. Biggs and Clark’s PPn reconstructions are in any case written in an orthography identical to our standard. Bracketing and segmentation conventions in protoforms are shown in Table 2.
 
 - Table 2: Bracketing and segmentation conventions in protoforms
 - (x)      it cannot be determined whether x was present

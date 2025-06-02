@@ -4,6 +4,7 @@ by Ross, M., Pawley, A. and Osmond, M.
 
 
 <a id="s-1"></a>
+
 ## 1. Aims
 
 
@@ -27,6 +28,7 @@ In keeping with the exceptionally rich diversity of marine fauna in Oceania and 
 
 
 <a id="s-2"></a>
+
 ## 2. The relation of the current project to previous work
 
 
@@ -34,7 +36,7 @@ Reconstructions of POc phonology and lexicon began with Dempwolff’s pioneering
 
 Since the 1950s, POc and other early Oceanic interstage languages have been the subject of a considerable body of research. However, relatively few new reconstructions safely attributable to POc were added to Dempwolff’s material until the 1970s. In 1969 George Grace made available as a working paper a compilation of reconstructions from various sources amounting to some 700 distinct items, attributed either to POc or to early Oceanic interstages. These materials were presented in a new orthography for POc, based largely on Biggs’ (1965) orthography for an interstage he called Proto Eastern Oceanic. Updated compilations of Oceanic cognate sets were produced at the University of Hawai‘i in the period 1977-1983 as part of a project directed by Grace and Pawley. These compilations and the supporting data are problematic in various respects and we have made only limited use of them.
 
-Comparative lexical studies have been carried out for several lower-order subgroups of Oceanic: for Proto Polynesian by Biggs (resulting in [Walsh & Biggs 1966](../references.md#source-WalshandBiggs1966), [Biggs et al. 1970](../references.md#source-Biggsetal1970) and subsequent versions of the pollex file, including [Biggs & Clark](../references.md#source-BiggsandClark1993) ([1993](../references.md#source-BiggsandClark1993)) and [Clark & Biggs](../references.md#source-ClarkandBiggs2006) ([2006](../references.md#source-ClarkandBiggs2006)); for Proto Micronesian by scholars associated with the University of Hawai‘i ([Bender et al. 1983](../references.md#source-Benderetal1983), [Bender et al. 2003](../references.md#source-Benderetal2003)); for the ancestor of the Banks and Torres languages by Alexandre François (several unpublished manuscripts); for Proto North and Central Vanuatu by [Clark](../references.md#source-Clark1996) ([1996](../references.md#source-Clark1996), 2009); for Proto Southern Vanuatu by Lynch (1978, 1996, 2001); for New Caledonia by [Ozanne-Rivierre](../references.md#source-OzanneRivierre1992) ([1992](../references.md#source-OzanneRivierre1992)), [Haudricourt & Ozanne-Rivierre](../references.md#source-HaudricourtandOzanneRivierre1982) ([1982](../references.md#source-HaudricourtandOzanneRivierre1982)) and [Geraghty](../references.md#source-Geraghty1989) ([1989](../references.md#source-Geraghty1989)); for Proto Southeast Solomonic by [Levy](../references.md#source-Levy1980) ([1980](../references.md#source-Levy1980)) and [Lichtenberk](../references.md#source-Lichtenberk1988) ([1988](../references.md#source-Lichtenberk1988)); for Proto Central Pacific by [Hockett](../references.md#source-Hockett1976) ([1976](../references.md#source-Hockett1976)), [Geraghty](../references.md#source-Geraghty1983) ([1983](../references.md#source-Geraghty1983), 1986, 1996 together with a number of unpublished papers); for Proto Eastern Oceanic by [Biggs](../references.md#source-Biggs1965) ([1965](../references.md#source-Biggs1965)), [Cashmore](../references.md#source-Cashmore1969) ([1969](../references.md#source-Cashmore1969)), [Levy & Smith](../references.md#source-LevyandSmith1970) ([1970](../references.md#source-LevyandSmith1970)), and [Geraghty](../references.md#source-Geraghty1990) ([1990](../references.md#source-Geraghty1990)); and for Proto Central Papuan by [Pawley](../references.md#source-Pawley1975) ([1975](../references.md#source-Pawley1975)), Lynch (1978, 1980), and [Ross](../references.md#source-Ross1994a) ([1994](../references.md#source-Ross1994a)).
+Comparative lexical studies have been carried out for several lower-order subgroups of Oceanic: for Proto Polynesian by Biggs (resulting in [Walsh & Biggs 1966](../references.md#source-WalshandBiggs1966), [Biggs et al. 1970](../references.md#source-Biggsetal1970) and subsequent versions of the pollex file, including [Biggs & Clark](../references.md#source-BiggsandClark1993) ([1993](../references.md#source-BiggsandClark1993)) and [Clark & Biggs](../references.md#source-ClarkandBiggs2006) ([2006](../references.md#source-ClarkandBiggs2006)); for Proto Micronesian by scholars associated with the University of Hawai‘i ([Bender et al. 1983](../references.md#source-Benderetal1983), [Bender et al. 2003](../references.md#source-Benderetal2003)); for the ancestor of the Banks and Torres languages by Alexandre François (several unpublished manuscripts); for Proto North and Central Vanuatu by [Clark](../references.md#source-Clark1996) ([1996](../references.md#source-Clark1996), 2009); for Proto Southern Vanuatu by Lynch (1978, 1996, 2001); for New Caledonia by [Ozanne-Rivierre](../references.md#source-OzanneRivierre1992) ([1992](../references.md#source-OzanneRivierre1992)), [Haudricourt & Ozanne-Rivierre](../references.md#source-HaudricourtandOzanneRivierre1982) ([1982](../references.md#source-HaudricourtandOzanneRivierre1982)) and [Geraghty](../references.md#source-Geraghty1989) ([1989](../references.md#source-Geraghty1989)); for Proto Southeast Solomonic by [Levy](../references.md#source-Levy1980) ([1980](../references.md#source-Levy1980)) and [Lichtenberk](../references.md#source-Lichtenberk1988) ([1988](../references.md#source-Lichtenberk1988)); for Proto Central Pacific by [Hockett](../references.md#source-Hockett1976) ([1976](../references.md#source-Hockett1976)), [Geraghty](../references.md#source-Geraghty1983) ([1983](../references.md#source-Geraghty1983), [1986](../references.md#source-Geraghty1986), [1996](../references.md#source-Geraghty1996) together with a number of unpublished papers); for Proto Eastern Oceanic by [Biggs](../references.md#source-Biggs1965) ([1965](../references.md#source-Biggs1965)), [Cashmore](../references.md#source-Cashmore1969) ([1969](../references.md#source-Cashmore1969)), [Levy & Smith](../references.md#source-LevyandSmith1970) ([1970](../references.md#source-LevyandSmith1970)), and [Geraghty](../references.md#source-Geraghty1990) ([1990](../references.md#source-Geraghty1990)); and for Proto Central Papuan by [Pawley](../references.md#source-Pawley1975) ([1975](../references.md#source-Pawley1975)), Lynch (1978, 1980), and [Ross](../references.md#source-Ross1994a) ([1994](../references.md#source-Ross1994a)).
 
 Robert Blust of the University of Hawai‘i has, in a series of papers (1970, 1980, 1983-84, 1986, 1989) published extensive, alphabetically ordered, lexical reconstructions (with supporting cognate sets) for interstages earlier than POc, especially for Proto Austronesian, Proto Malayo-Polynesian and Proto Eastern Malayo-Polynesian. He has also written several papers investigating specific semantic fields (Blust 1980Z>, 1982, 1987, 1994). Blust has a major work in progress, the Austronesian Comparative Dictionary (ACD), which will bring together all his reconstructions for Proto Austronesian and lower-order stages. This is stored in electronic form at the University of Hawai‘i. The version to which we refer dates from 1995.
 
@@ -49,17 +51,19 @@ In the course of planning the several volumes for the present project, we came t
 
 
 <a id="s-3"></a>
+
 ## 3. Reconstructing the lexicon
 
 
-The lexical reconstructions presented in these volumes are arrived at using the standard methods of comparative linguistics, which require as preliminaries a subgrouping or internal classification of the languages in question ([§3.2](#s-3-2)) and the working out of systematic sound correspondences among cognate vocabulary in contemporary languages ([§3.3](#s-3-3)). As well as cognate sets clearly attributable to POc, we have included some cognate sets which at this stage are attributable to various interstage languages, particularly Proto Western and Proto Eastern Oceanic (but see [§3.2](#s-3-2) for definitions). We have set out to pay more careful attention to reconstructing the semantics of POc forms than has generally been done in earlier work, treating words not as isolates but as parts of terminologies.
+The lexical reconstructions presented in these volumes are arrived at using the standard methods of comparative linguistics, which require as preliminaries a subgrouping or internal classification of the languages in question (§3.2) and the working out of systematic sound correspondences among cognate vocabulary in contemporary languages (§3.3). As well as cognate sets clearly attributable to POc, we have included some cognate sets which at this stage are attributable to various interstage languages, particularly Proto Western and Proto Eastern Oceanic (but see §3.2 for definitions). We have set out to pay more careful attention to reconstructing the semantics of POc forms than has generally been done in earlier work, treating words not as isolates but as parts of terminologies.
 
 
 <a id="p-5"></a>
 
 
 <a id="s-3-1"></a>
-## 3.1. Terminological reconstruction
+
+### 3.1. Terminological reconstruction
 
 
 Our method of doing ‘terminological reconstruction’ is as follows. First, the terminologies of present-day speakers of Oceanic languages are used as the basis for constructing a hypothesis about the semantic structure of a corresponding POc terminology, taking account of (i) ethnographic evidence, i.e. descriptions of the lifestyles of Oceanic communities and (ii) the geographical and physical resources of particular regions of Oceania. For example, by comparing terms in several languages for parts of an outrigger canoe, or for growth stages of a coconut, one can see which concepts recur and so are likely to have been present in POc. Secondly, a search is made for cognate sets from which forms can be reconstructed to match each meaning in this hypothesised terminology. The search is not restricted to members of the Oceanic subgroup; if a term found in an Oceanic language proves to have external (non-Oceanic) cognates, the POc antiquity of that term will be confirmed and additional evidence concerning its meaning will be provided. Thirdly, the hypothesised terminology is re-examined to see if it needs modification in the light of the reconstructions. There are cases, highlighted in the various contributions to these volumes, where we were able to reconstruct a term where we did not expect to do so and conversely, often more significantly, where we were unable to reconstruct a term where we had believed we should be able to. In each case, we have discussed the reasons why our expectations were not met and what this may mean for Oceanic culture history.
@@ -73,7 +77,7 @@ Terminological reconstruction is instead similar to the semantic reconstruction 
 - any derivational relationships to other reconstructions;
 - their place within a working hypothesis of the relevant POc terminology (e.g., are terms complementary —‘bow’ implies ‘arrow’; ‘seine net’ implies ‘floats’ and ‘weights’? Are there different levels of classification—generic, specific, and so on?).
 
-For example, it proved possible to reconstruct the following POc terms for tying with cords (vol.l, ch.9, [§10](#s-10)):
+For example, it proved possible to reconstruct the following POc terms for tying with cords (vol.l, ch.9, §10):
 
 - POc &ast;buku ‘tie (a knot); fasten’
 - POc &ast;p‘ita ‘tie by encircling’
@@ -84,20 +88,21 @@ For example, it proved possible to reconstruct the following POc terms for tying
 
 <a id="p-6"></a>
 
-In each of the supporting cognate sets from contemporary languages there are a number of items whose glosses in the dictionaries or word lists are too vague to tell the analyst anything about the specific denotation of the item, and in the case of &ast;kiti this prevents the assignment of a more specific meaning. The verb &ast;buku can be identified as the generic term for tying a knot because of its derivational relationship (by zero derivation) with a noun whose denotation is clearly generic, &ast;buku ‘node (as in bamboo or sugarcane); joint; knuckle; knot in wood, string or rope’ (vol.l, ch.4, [§3.2](#s-3-2)). Reconstruction of the meaning of &ast;p wita as ‘tie by encircling’ is supported by the meanings of the Lukep, Takia and Longgu reflexes, respectively ‘tie by encircling’, ‘tie on (as grass-skirt)’, and ‘trap an animal’s leg; tie s.t. around ankle or wrist’: Lukep and Takia are North New Guinea languages, whilst Longgu is SE Solomonic. Reconstruction of the meaning of &ast;paqu(s), &ast;paqus-i- as ‘bind, lash; construct (canoe +) by tying together’ is supported by the meanings of the Takia, Kiribati and Samoan reflexes, respectively ‘tie, bind; construct (a canoe)’, ‘construct (canoe, house)’, and ‘make, construct (wooden objects, canoes +)’: Takia is a North New Guinea language, Kiribati is Micronesian, and Samoan is Polynesian. The meaning of &ast;pisi is similarly reconstructed by reference to the meanings of its Mono-Alu, Mota, Port Sandwich, Nguna and Fijian reflexes.
+In each of the supporting cognate sets from contemporary languages there are a number of items whose glosses in the dictionaries or word lists are too vague to tell the analyst anything about the specific denotation of the item, and in the case of &ast;kiti this prevents the assignment of a more specific meaning. The verb &ast;buku can be identified as the generic term for tying a knot because of its derivational relationship (by zero derivation) with a noun whose denotation is clearly generic, &ast;buku ‘node (as in bamboo or sugarcane); joint; knuckle; knot in wood, string or rope’ (vol.l, ch.4, §3.2). Reconstruction of the meaning of &ast;p wita as ‘tie by encircling’ is supported by the meanings of the Lukep, Takia and Longgu reflexes, respectively ‘tie by encircling’, ‘tie on (as grass-skirt)’, and ‘trap an animal’s leg; tie s.t. around ankle or wrist’: Lukep and Takia are North New Guinea languages, whilst Longgu is SE Solomonic. Reconstruction of the meaning of &ast;paqu(s), &ast;paqus-i- as ‘bind, lash; construct (canoe +) by tying together’ is supported by the meanings of the Takia, Kiribati and Samoan reflexes, respectively ‘tie, bind; construct (a canoe)’, ‘construct (canoe, house)’, and ‘make, construct (wooden objects, canoes +)’: Takia is a North New Guinea language, Kiribati is Micronesian, and Samoan is Polynesian. The meaning of &ast;pisi is similarly reconstructed by reference to the meanings of its Mono-Alu, Mota, Port Sandwich, Nguna and Fijian reflexes.
 
-Often, however, the authors have been less fortunate in the information available to them. For example, Osmond (vol.l, ch.8, [§9](#s-9)) reconstructs six POc terms broadly glossed as ‘spear’. Multiple terms for implements within one language imply that these items were used extensively and possibly in specialised ways. Can we throw light on these specialised ways? Unfortunately, some of the word lists and dictionaries available give minimal glosses, e.g. ‘spear’, for reflexes of the six reconstructions. What we need to know for each reflex is: what is the level of reference? Is it a term for all spears, or perhaps all pointed projectiles including arrows and darts? Or does it refer to a particular kind of spear? Is it noun or verb or both? If a noun, does it refer to both the instrument and the activity? Most word lists are frustratingly short on detail. For this kind of detail, ethnographies have proved a more fruitful source of information than many word lists.
+Often, however, the authors have been less fortunate in the information available to them. For example, Osmond (vol.l, ch.8, §9) reconstructs six POc terms broadly glossed as ‘spear’. Multiple terms for implements within one language imply that these items were used extensively and possibly in specialised ways. Can we throw light on these specialised ways? Unfortunately, some of the word lists and dictionaries available give minimal glosses, e.g. ‘spear’, for reflexes of the six reconstructions. What we need to know for each reflex is: what is the level of reference? Is it a term for all spears, or perhaps all pointed projectiles including arrows and darts? Or does it refer to a particular kind of spear? Is it noun or verb or both? If a noun, does it refer to both the instrument and the activity? Most word lists are frustratingly short on detail. For this kind of detail, ethnographies have proved a more fruitful source of information than many word lists.
 
 Another problem is inherent in the dangers of sampling from over 450 languages. The greater the number of languages, the greater are the possible variations in meaning of any given term, and the greater the chances of two languages making the same semantic leaps quite independently. Does our (sometimes quite limited) cognate set provide us with a clear unambiguous gloss, or have we picked up an accidental bias, a secondary or distantly related meaning? Did etymon x refer to fishhook or the material from which the fishhook was made? Did etymon y refer to the slingshot or to the action of turning round and round?
 
 
 <a id="s-3-2"></a>
-## 3.2. Subgrouping and reconstruction
+
+### 3.2. Subgrouping and reconstruction
 
 
 1.3.2.1 Subgrouping
 
-Although the subgrouping of Austronesian languages, and hypotheses about which protolanguage was spoken where, remain in certain cases somewhat controversial, it is impossible to proceed without making some assumptions about these matters. Figures 1.1 and 1.2 are approximate renderings of our subgrouping assumptions. The upper part of the tree, shown in Figure 1.1, is due to Blust, originally presented in Blust (1977) and repeated with additional supporting evidence in subsequent publications (1978, 1982, 1983-84, 1993, 2009).[^4][^5] The diagram of the lower (Oceanic) part of the tree in Figure 1.2 shows nine primary subgroups of Oceanic. Its rake-like structure indicates that no convincing body of shared innovations has been found to allow any of the nine subgroups to be combined into higher-order groupings. Sections 3.2.2, 3.2.3 and 3.2.4 offer some commentary on our subgrouping, and in [§3.2.4](#s-3-2) we explain how we handle the rake-like structure in making reconstructions.
+Although the subgrouping of Austronesian languages, and hypotheses about which protolanguage was spoken where, remain in certain cases somewhat controversial, it is impossible to proceed without making some assumptions about these matters. Figures 1.1 and 1.2 are approximate renderings of our subgrouping assumptions. The upper part of the tree, shown in Figure 1.1, is due to Blust, originally presented in Blust (1977) and repeated with additional supporting evidence in subsequent publications (1978, 1982, 1983-84, 1993, 2009).[^4][^5] The diagram of the lower (Oceanic) part of the tree in Figure 1.2 shows nine primary subgroups of Oceanic. Its rake-like structure indicates that no convincing body of shared innovations has been found to allow any of the nine subgroups to be combined into higher-order groupings. Sections 3.2.2, 3.2.3 and 3.2.4 offer some commentary on our subgrouping, and in §3.2.4 we explain how we handle the rake-like structure in making reconstructions.
 
 
 <a id="p-7"></a>
@@ -132,11 +137,11 @@ The third type of linkage is the result of contact among languages descended fro
 
 For most of the linkages noted in Figures 1.1 and 1.2 this kind of analysis is not available. For example, [Blust](../references.md#source-Blust1993) ([1993](../references.md#source-Blust1993)) indicates that CEMP was a linkage. But its history is far from clear. Does CEMP perhaps include some languages that share history with languages to their west and others that share history with those to their north? The North/Central Vanuatu linkage, long assumed to be some sort of genealogical unit, appears to reflect the partial reintegration of at least two dialect networks, North Vanuatu and Central Vanuatu, that probably had not diverged greatly from each other, but the details of this history are difficult to elucidate ([Lynch 2000a](../references.md#source-Lynch2000a)).[^12]
 
-The languages of a linkage have no identifiable exclusively shared parent.Yet we have found many instances in which a cognate set is limited to one of the linkages in Figures 1.1 and 1.2: CEMP, Western Oceanic, New Guinea Oceanic, Southern Oceanic or the reintegrated North and Central Vanuatu linkage. As with PEOc and Proto Remote Oceanic ([§3.2.4](#s-3-2)), we think it is preferable to attribute these reconstructions to a hypothetical protolanguage rather than to a higher node in the tree. Hence there are reconstructions labelled PCEMP, PWOc and so on. Again these apparent lexical innovations offer only the weakest evidence for the protolanguage to which they are attributed. In addition to the explanations of the kinds offered for PEOc and Proto Remote Oceanic etyma in [§3.2.4](#s-3-2) it is possible, for example, that an innovatory ‘PWOc’ etymon arose when the Western Oceanic dialect network was still close-knit, and spread from dialect to dialect before the network broke into the two networks ancestral to its present-day first-order subgroups.
+The languages of a linkage have no identifiable exclusively shared parent.Yet we have found many instances in which a cognate set is limited to one of the linkages in Figures 1.1 and 1.2: CEMP, Western Oceanic, New Guinea Oceanic, Southern Oceanic or the reintegrated North and Central Vanuatu linkage. As with PEOc and Proto Remote Oceanic (§3.2.4), we think it is preferable to attribute these reconstructions to a hypothetical protolanguage rather than to a higher node in the tree. Hence there are reconstructions labelled PCEMP, PWOc and so on. Again these apparent lexical innovations offer only the weakest evidence for the protolanguage to which they are attributed. In addition to the explanations of the kinds offered for PEOc and Proto Remote Oceanic etyma in §3.2.4 it is possible, for example, that an innovatory ‘PWOc’ etymon arose when the Western Oceanic dialect network was still close-knit, and spread from dialect to dialect before the network broke into the two networks ancestral to its present-day first-order subgroups.
 
 1.3.2.3 Further notes on subgroups
 
-This section brings together brief notes on the subgroups in Figure 1.2 beyond those mentioned in the discussion in [§3.2.2](#s-3-2).
+This section brings together brief notes on the subgroups in Figure 1.2 beyond those mentioned in the discussion in §3.2.2.
 
 Admiralty is a proper subgroup ([Ross 1988](../references.md#source-Ross1988): ch.9).
 
@@ -149,13 +154,13 @@ Map 3   Groups of Oceanic languages used in cognate sets
 
 <a id="p-12"></a>
 
-SE Solomonic was established as a proper subgroup by [Pawley](../references.md#source-Pawley1972) ([1972](../references.md#source-Pawley1972): 98-110). Further support was provided by [Levy](../references.md#source-Levy1979) ([1979](../references.md#source-Levy1979), 1980, n. d,), [Tryon & Hackman](../references.md#source-TryonandHackman1983) ([1983](../references.md#source-TryonandHackman1983)) and [Lichtenberk](../references.md#source-Lichtenberk1988) ([1988](../references.md#source-Lichtenberk1988)).
+SE Solomonic was established as a proper subgroup by [Pawley](../references.md#source-Pawley1972) ([1972](../references.md#source-Pawley1972): 98-110). Further support was provided by [Levy](../references.md#source-Levy1979) ([1979](../references.md#source-Levy1979), [1980](../references.md#source-Levy1980), n. d,), [Tryon & Hackman](../references.md#source-TryonandHackman1983) ([1983](../references.md#source-TryonandHackman1983)) and [Lichtenberk](../references.md#source-Lichtenberk1988) ([1988](../references.md#source-Lichtenberk1988)).
 
 Temotu comprises the languages of the Reef Islands, Santa Cruz, Utupua and Vanikoro, located 400 km east of the main Solomons archipelago and to the north of Vanuatu (Map 3). It was established as a proper subgroup by (Ross & Nasss 2007).
 
 The Southern Oceanic linkage as proposed by [Lynch](../references.md#source-Lynch1999) ([1999](../references.md#source-Lynch1999), 2000, 2001, 2004) is characterised by complex overlapping innovations, but by none that are reflected in all its member languages and would qualify it as a proper subgroup (see discussion in Lynch et al. 2002: 112-114).[^13]
 
-Micronesian is a proper subgroup ([Jackson 1983](../references.md#source-Jackson1983), 1986, [Bender et al. 2003](../references.md#source-Benderetal2003)).
+Micronesian is a proper subgroup ([Jackson 1983](../references.md#source-Jackson1983), [1986](../references.md#source-Jackson1986), [Bender et al. 2003](../references.md#source-Benderetal2003)).
 
 Central Pacific is a proper subgroup, but one defined by only a handful of shared innovations, indicating that the period of unity was short ([Geraghty 1996](../references.md#source-Geraghty1996)). The high-order subgrouping of Central Pacific is due to [Geraghty](../references.md#source-Geraghty1983) ([1983](../references.md#source-Geraghty1983)), except for the position of Rotuman, due to Pawley (1996Z>). Within Central Pacific is another long recognised proper subgroup, Polynesian, for which Pawley (1996«) lists diagnostic innovations.
 
@@ -184,14 +189,15 @@ These criteria are identical to those applied in volumes 1 and 2 except for the 
 
 There are indications that Yapese (a single-language subgroup) and Mussau and Tench (a subgroup with two closely related languages) may be more closely related to Admiralty than to any other Oceanic subgroup,[^18] and for this reason they are treated as Admiralty languages for the purposes of reconstruction. That is, the presence of a reflex in one or more of these languages and in Admiralty does not support a POc reconstruction, but the presence of of a reflex in one or more of these languages and one of Western Oceanic, Temotu and Eastern Oceanic does support one.
 
-In chapter 2 ([§4](#s-4)) of volume 2 Pawley discusses Blust’s (1998) proposal that the primary split in Oceanic divides Admiralty from a subgroup embracing all other Oceanic languages. Pawley dubs the latter ‘Nuclear Oceanic’. If Blust’s subgrouping were accepted, then an etymon which lacked cognates outside Oceanic would need to be reflected both in an Admiralties language and in a non-Admiralties language for a POc reconstruction to be made. Etyma with reflexes in both Western and Eastern Oceanic, but not in the Admiralties, would be reconstructed as Proto Nuclear Oceanic. Under the criteria outlined above, however, we attribute these reconstructions to POc. These criteria were used in volumes 1 and 2, and we have thought it wise to maintain them throughout the volumes of this work. The reader who wishes to single out reconstructions attributable to a putative Proto Nuclear Oceanic (rather than to POc) can easily recognise them, however. They are those POc reconstructions for which (i) there are no Admiralties reflexes, and (ii) there is no higher-order reconstruction (i.e. PEMP, PCEMP, PMP or PAn), since the latter would be based on cognates outside Oceanic.
+In chapter 2 (§4) of volume 2 Pawley discusses Blust’s (1998) proposal that the primary split in Oceanic divides Admiralty from a subgroup embracing all other Oceanic languages. Pawley dubs the latter ‘Nuclear Oceanic’. If Blust’s subgrouping were accepted, then an etymon which lacked cognates outside Oceanic would need to be reflected both in an Admiralties language and in a non-Admiralties language for a POc reconstruction to be made. Etyma with reflexes in both Western and Eastern Oceanic, but not in the Admiralties, would be reconstructed as Proto Nuclear Oceanic. Under the criteria outlined above, however, we attribute these reconstructions to POc. These criteria were used in volumes 1 and 2, and we have thought it wise to maintain them throughout the volumes of this work. The reader who wishes to single out reconstructions attributable to a putative Proto Nuclear Oceanic (rather than to POc) can easily recognise them, however. They are those POc reconstructions for which (i) there are no Admiralties reflexes, and (ii) there is no higher-order reconstruction (i.e. PEMP, PCEMP, PMP or PAn), since the latter would be based on cognates outside Oceanic.
 
 
 <a id="s-3-3"></a>
-## 3.3. Sound correspondences
+
+### 3.3. Sound correspondences
 
 
-As we noted above, reconstruction depends on working out the systematic sound correspondences among cognate vocabulary in contemporary languages and on having a working hypothesis about how the sounds of POc have changed and are reflected in modern Oceanic languages. Working out sound correspondences even for twenty languages is a large task, and so we have relied heavily on our own previous work and the work of others. The sound correspondences we have used are those given by [Ross](../references.md#source-Ross1988) ([1988](../references.md#source-Ross1988)) for Western Oceanic and Admiralties; by [Levy](../references.md#source-Levy1979) ([1979](../references.md#source-Levy1979), 1980) and [Lichtenberk](../references.md#source-Lichtenberk1988) ([1988](../references.md#source-Lichtenberk1988)) for Cristobal-Malaitan, by [Pawley](../references.md#source-Pawley1972) ([1972](../references.md#source-Pawley1972)) and [Tryon & Hackman](../references.md#source-TryonandHackman1983) ([1983](../references.md#source-TryonandHackman1983)) for SE Solomonic; by Ross & Nasss (2007) for Temotu; by [Tryon](../references.md#source-Tryon1976) ([1976](../references.md#source-Tryon1976)) and Clark (2009) for North and Central Vanuatu; by Lynch (1978, 2001) for Southern Vanuatu; by [Geraghty](../references.md#source-Geraghty1989) ([1989](../references.md#source-Geraghty1989)), [Haudricourt & Ozanne-Rivierre](../references.md#source-HaudricourtandOzanneRivierre1982) ([1982](../references.md#source-HaudricourtandOzanneRivierre1982)), Ozanne- Rivierre (1992) and Ozanne-Rivierre (1995) for New Caledonia; by [Jackson](../references.md#source-Jackson1986) ([1986](../references.md#source-Jackson1986)) and [Ross](../references.md#source-Ross1996a) ([1996a](../references.md#source-Ross1996a)) for Nuclear Micronesian; by [Geraghty](../references.md#source-Geraghty1986) ([1986](../references.md#source-Geraghty1986)) for Central Pacific; by [Biggs](../references.md#source-Biggs1978) ([1978](../references.md#source-Biggs1978)) for Polynesian; by [Ross](../references.md#source-Ross1996a) ([1996a](../references.md#source-Ross1996a)) for Yapese; and by Ross (1996Z>) for Oceanic languages of Irian Jaya.
+As we noted above, reconstruction depends on working out the systematic sound correspondences among cognate vocabulary in contemporary languages and on having a working hypothesis about how the sounds of POc have changed and are reflected in modern Oceanic languages. Working out sound correspondences even for twenty languages is a large task, and so we have relied heavily on our own previous work and the work of others. The sound correspondences we have used are those given by [Ross](../references.md#source-Ross1988) ([1988](../references.md#source-Ross1988)) for Western Oceanic and Admiralties; by [Levy](../references.md#source-Levy1979) ([1979](../references.md#source-Levy1979), [1980](../references.md#source-Levy1980)) and [Lichtenberk](../references.md#source-Lichtenberk1988) ([1988](../references.md#source-Lichtenberk1988)) for Cristobal-Malaitan, by [Pawley](../references.md#source-Pawley1972) ([1972](../references.md#source-Pawley1972)) and [Tryon & Hackman](../references.md#source-TryonandHackman1983) ([1983](../references.md#source-TryonandHackman1983)) for SE Solomonic; by Ross & Nasss (2007) for Temotu; by [Tryon](../references.md#source-Tryon1976) ([1976](../references.md#source-Tryon1976)) and Clark (2009) for North and Central Vanuatu; by Lynch (1978, 2001) for Southern Vanuatu; by [Geraghty](../references.md#source-Geraghty1989) ([1989](../references.md#source-Geraghty1989)), [Haudricourt & Ozanne-Rivierre](../references.md#source-HaudricourtandOzanneRivierre1982) ([1982](../references.md#source-HaudricourtandOzanneRivierre1982)), Ozanne- Rivierre (1992) and Ozanne-Rivierre (1995) for New Caledonia; by [Jackson](../references.md#source-Jackson1986) ([1986](../references.md#source-Jackson1986)) and [Ross](../references.md#source-Ross1996a) ([1996a](../references.md#source-Ross1996a)) for Nuclear Micronesian; by [Geraghty](../references.md#source-Geraghty1986) ([1986](../references.md#source-Geraghty1986)) for Central Pacific; by [Biggs](../references.md#source-Biggs1978) ([1978](../references.md#source-Biggs1978)) for Polynesian; by [Ross](../references.md#source-Ross1996a) ([1996a](../references.md#source-Ross1996a)) for Yapese; and by Ross (1996Z>) for Oceanic languages of Irian Jaya.
 
 Map 4      Oceanic language groups in northwest Melanesia: the Admiralties and St Matthias groups and the subgroups of Western Oceanic
 
@@ -199,109 +205,112 @@ Map 4      Oceanic language groups in northwest Melanesia: the Admiralties and S
 <a id="p-16"></a>
 
 ```
-Table 1.1         Reconstructed paradigm of POc phonemes
-'I' pw     &ast;p         &ast;c             &ast;q
-&ast;t
-&ast;b'v       &ast;b   &ast;d    &ast;J   &ast;g
-&ast;s
-&ast;mw        &ast;m   &ast;n    &ast;n
-&ast;R
-&ast;dr
-&ast;1
-&ast;w                    &ast;y
-&ast;a
+                   Table 1.1         Reconstructed paradigm of POc phonemes
+                            'I' pw     &ast;p         &ast;c             &ast;q
+                                            &ast;t
+                            &ast;b'v       &ast;b   &ast;d    &ast;J   &ast;g
+                                            &ast;s
+                            &ast;mw        &ast;m   &ast;n    &ast;n
+                                                                 &ast;R
+                                            &ast;dr
+                                            &ast;1
+                            &ast;w                    &ast;y
+                                            &ast;a
 ```
 
-For non-Oceanic languages we have referred to sound correspondences given by [Tsuchida](../references.md#source-Tsuchida1976) ([1976](../references.md#source-Tsuchida1976)) for Formosan languages; by [Zorc](../references.md#source-Zorc1977) ([1977](../references.md#source-Zorc1977), 1986) and [Reid](../references.md#source-Reid1982) ([1982](../references.md#source-Reid1982)) for the Philippines; by Adelaar (1992) and [Nothofer](../references.md#source-Nothofer1975) ([1975](../references.md#source-Nothofer1975)) for Malay and Javanese; by [Sneddon](../references.md#source-Sneddon1984) ([1984](../references.md#source-Sneddon1984)) for Sulawesi; by [Collins](../references.md#source-Collins1983) ([1983](../references.md#source-Collins1983)) for Central Maluku; and by [Blust](../references.md#source-Blust1978a) ([1978a](../references.md#source-Blust1978a)) for South Halmahera and Irian Jaya.
+For non-Oceanic languages we have referred to sound correspondences given by [Tsuchida](../references.md#source-Tsuchida1976) ([1976](../references.md#source-Tsuchida1976)) for Formosan languages; by [Zorc](../references.md#source-Zorc1977) ([1977](../references.md#source-Zorc1977), [1986](../references.md#source-Zorc1986)) and [Reid](../references.md#source-Reid1982) ([1982](../references.md#source-Reid1982)) for the Philippines; by Adelaar (1992) and [Nothofer](../references.md#source-Nothofer1975) ([1975](../references.md#source-Nothofer1975)) for Malay and Javanese; by [Sneddon](../references.md#source-Sneddon1984) ([1984](../references.md#source-Sneddon1984)) for Sulawesi; by [Collins](../references.md#source-Collins1983) ([1983](../references.md#source-Collins1983)) for Central Maluku; and by [Blust](../references.md#source-Blust1978a) ([1978a](../references.md#source-Blust1978a)) for South Halmahera and Irian Jaya.
 
 We are well aware that regular sound correspondences can be interfered with in various ways: by phonetic conditioning that the analyst has not identified (see, e.g., [Blust 1996a](../references.md#source-Blust1996a)), by borrowing (for an extreme Oceanic case, see [Grace 1996](../references.md#source-Grace1996)), or, as recent research suggests, by the frequency of an item’s use ([Bybee 1994](../references.md#source-Bybee1994)). We have tried at least to note, and sometimes to account for, irregularities in cognate sets.
 
 
 <a id="s-3-4"></a>
-## 3.4. POc phonology and orthography
+
+### 3.4. POc phonology and orthography
 
 
-Work based on the sound correspondences of both Oceanic and non-Oceanic languages has resulted in the reconstructed paradigm of POc phonemes shown in Table 1.1. The orthography used here and in the POc reconstructions in this work is from [Ross](../references.md#source-Ross1988) ([1988](../references.md#source-Ross1988)), with the addition of &ast;p w and &ast;k w. POc phonology and its relationship to PMP are discussed in greater detail in Chapter 2 ([§2](#s-2)) of volume 1. Since the publication of volume 1, articles by John Lynch have appeared on POc stress (2000) and POc labiovelar phonemes (2002). The putative protophoneme &ast;k w is added in this volume for the first time as a result of taking stock of reconstructions in volumes 1-3 and the current volume. It must have had a very low functional load, as it occurs only word-initially before &ast;a and then only rarely (Ross 2010).
+Work based on the sound correspondences of both Oceanic and non-Oceanic languages has resulted in the reconstructed paradigm of POc phonemes shown in Table 1.1. The orthography used here and in the POc reconstructions in this work is from [Ross](../references.md#source-Ross1988) ([1988](../references.md#source-Ross1988)), with the addition of &ast;p w and &ast;k w. POc phonology and its relationship to PMP are discussed in greater detail in Chapter 2 (§2) of volume 1. Since the publication of volume 1, articles by John Lynch have appeared on POc stress (2000) and POc labiovelar phonemes (2002). The putative protophoneme &ast;k w is added in this volume for the first time as a result of taking stock of reconstructions in volumes 1-3 and the current volume. It must have had a very low functional load, as it occurs only word-initially before &ast;a and then only rarely (Ross 2010).
 
 
 <a id="p-17"></a>
 
-Table 1.2 shows two POc orthographies. The first was established by [Biggs](../references.md#source-Biggs1965) ([1965](../references.md#source-Biggs1965)), for PEOc, and [Grace](../references.md#source-Grace1969) ([1969](../references.md#source-Grace1969)), who applied it to POc. It has been used with a number of variants, separated by a slash in Table 1.2. The second, introduced by [Ross](../references.md#source-Ross1988) ([1988](../references.md#source-Ross1988)), is the one generally used in this work. The terms ‘oral grade’ and ‘nasal grade’ were used by [Grace](../references.md#source-Grace1969) ([1969](../references.md#source-Grace1969)) and have become conventional among Oceanic linguists to refer to the outcomes of certain sound changes that occurred between PMP and POc (vol.l, ch.2, [§2.4](#s-2-4)).
+Table 1.2 shows two POc orthographies. The first was established by [Biggs](../references.md#source-Biggs1965) ([1965](../references.md#source-Biggs1965)), for PEOc, and [Grace](../references.md#source-Grace1969) ([1969](../references.md#source-Grace1969)), who applied it to POc. It has been used with a number of variants, separated by a slash in Table 1.2. The second, introduced by [Ross](../references.md#source-Ross1988) ([1988](../references.md#source-Ross1988)), is the one generally used in this work. The terms ‘oral grade’ and ‘nasal grade’ were used by [Grace](../references.md#source-Grace1969) ([1969](../references.md#source-Grace1969)) and have become conventional among Oceanic linguists to refer to the outcomes of certain sound changes that occurred between PMP and POc (vol.l, ch.2, §2.4).
 
 
 <a id="s-4"></a>
+
 ## 4. Conventions common to the series
 
 
 
 <a id="s-4-1"></a>
-## 4.1. Presentation of reconstructions
+
+### 4.1. Presentation of reconstructions
 
 
 Each of the contributions to these volumes concerns a particular POc ‘terminology’. Generally, each contribution begins with an introduction to the issues raised by the reconstruction of its particular terminology, and the bulk of each contribution consists of reconstructed etyma with supporting data and a commentary on matters of meaning and form.
 
-The reconstruction of POc &ast;taRaqan ‘Holocentrus spp., squirrelfish’ below, adapted from [Chapter 2, §14](chapter2.md#s-14), shows how reconstructions and supporting cognate sets are presented. Above it is a superordinate (PMP) reconstruction drawn from Blust’s Austronesian Comparative Dictionary (ACD; see [§2](#s-2)). Below it are supporting reflexes. Contributors vary in the degree to which they insert lower-order reconstructions like PMic &ast;tard and PPn &ast;taʔa below. Lower- order reconstructions are sometimes given to clarify the relationship of reflexes to the higher- order reconstruction: Southern Vanuatu languages, for example, have undergone so much phonological change that a Proto Southern Vanuatu reconstruction helps explicate the relationship between Southern Vanuatu reflexes and the POc reconstruction. Sometimes a lower- order reconstruction displays an extension of meaning or some other semantic change.
+The reconstruction of POc &ast;taRaqan ‘Holocentrus spp., squirrelfish’ below, adapted from Chapter 2, §14, shows how reconstructions and supporting cognate sets are presented. Above it is a superordinate (PMP) reconstruction drawn from Blust’s Austronesian Comparative Dictionary (ACD; see §2). Below it are supporting reflexes. Contributors vary in the degree to which they insert lower-order reconstructions like PMic &ast;tard and PPn &ast;taʔa below. Lower- order reconstructions are sometimes given to clarify the relationship of reflexes to the higher- order reconstruction: Southern Vanuatu languages, for example, have undergone so much phonological change that a Proto Southern Vanuatu reconstruction helps explicate the relationship between Southern Vanuatu reflexes and the POc reconstruction. Sometimes a lower- order reconstruction displays an extension of meaning or some other semantic change.
 
 ```
 PMP &ast;taRaqan ‘Holocentrus spp., squirrelfish’ (ACD)
 POc &ast;taRaqan ‘Scirgocentron spp., squirrelfish, including A spiniferunf ([Geraghty 1990](../references.md#source-Geraghty1990):
-PEOc &ast;taRciʔa)
-Adm: Loniu          taʔay          ‘squirrelfish or silver biddy’ (metathesis: expected form ^1aya(?))
-NNG: Yabem          talaŋ          ‘a red sea fish’
-PT:    Gumasi       tayawana       ‘squirrel fish’
-PT:   Misima       talayan       ‘Sargocentron spp., spiny and blue-striped
-squirrelfish’
-PT:    Motu           tara          ‘S. violaceum, violet squirrelfish’
-MM: Nakanai           talaha        ‘k.o. fish’
-MM: Lihir             taran         ‘S. spiniferum, spinecheek squirrelfish’
-MM: Roviana           ta-tara       ‘small reddish fish, easily hooked’
-SES: Gela             tala          ‘S. spiniferum, spinecheek squirrelfish’
-NCV: S Efate          tra(kap)      ‘squirrelfish’
-NCal: Pije           jald           ‘Holocentrus spinifef [S. spiniferum]
-NCal: Jawe           jarak          ‘H. spinifef [S. spiniferum]
+  PEOc &ast;taRciʔa)
+  Adm: Loniu          taʔay          ‘squirrelfish or silver biddy’ (metathesis: expected form ^1aya(?))
+  NNG: Yabem          talaŋ          ‘a red sea fish’
+  PT:    Gumasi       tayawana       ‘squirrel fish’
+     PT:   Misima       talayan       ‘Sargocentron spp., spiny and blue-striped
+                                      squirrelfish’
+  PT:    Motu           tara          ‘S. violaceum, violet squirrelfish’
+  MM: Nakanai           talaha        ‘k.o. fish’
+  MM: Lihir             taran         ‘S. spiniferum, spinecheek squirrelfish’
+  MM: Roviana           ta-tara       ‘small reddish fish, easily hooked’
+  SES: Gela             tala          ‘S. spiniferum, spinecheek squirrelfish’
+  NCV: S Efate          tra(kap)      ‘squirrelfish’
+  NCal: Pije           jald           ‘Holocentrus spinifef [S. spiniferum]
+  NCal: Jawe           jarak          ‘H. spinifef [S. spiniferum]
 PMic &ast;tara ‘squirrelfish’ ([Bender et al. 2003](../references.md#source-Benderetal2003))
-Mic: Kiribati         td            ‘_Sargocentron spp._’
-Mic: Marshallese cera               ‘Sargocentron, _Myripristis spp._, squirrelfish’
-Mic: Ponapean         sara          ‘S. spiniferum, spinecheek squirrelfish’
-Mic: Chuukese         sard          ‘Sargocentron sp., yellow-lined squirrel fish’
-Mic: Woleaian         sezd          ‘Adioryx spinifer, spiny squirrel fish’ [S. spiniferum]
-Mic: Puluwatese hara                ‘k.o. red fish’
+  Mic: Kiribati         td            ‘_Sargocentron spp._’
+  Mic: Marshallese cera               ‘Sargocentron, _Myripristis spp._, squirrelfish’
+  Mic: Ponapean         sara          ‘S. spiniferum, spinecheek squirrelfish’
+  Mic: Chuukese         sard          ‘Sargocentron sp., yellow-lined squirrel fish’
+  Mic: Woleaian         sezd          ‘Adioryx spinifer, spiny squirrel fish’ [S. spiniferum]
+  Mic: Puluwatese hara                ‘k.o. red fish’
 PPn &ast;taʔa ‘Sargocentron spiniferum, armoured soldierfish’ (Hooper 1994)
-Pn:    Tongan         taʔa          ‘S. spiniferum, red, edible’
-Pn:    Niuean         td            ‘Myripristis violacea, lattice soldierfish’
-Pn:    Pukapukan td                 ‘S. spiniferum’
-Pn:    Samoan         td (malau)    ‘name given to certain fishes of genus Sargocentron
-when about 30 cm in length’. (See also under
-&ast;malau below.)
-Pn:    K’marangi td                 ‘S. ruber, red squirrelfish’ [S. rubrum]
-Pn:    Tokelauan td                 ‘S. spiniferum’
-Pn:    Tuvaluan       td (malau)    ‘_Adioryx spp._’ [Sargocentron]
-Pn:    Tikopia        ta            ‘sea fish, app. related to large squirrelfish’
+  Pn:    Tongan         taʔa          ‘S. spiniferum, red, edible’
+  Pn:    Niuean         td            ‘Myripristis violacea, lattice soldierfish’
+  Pn:    Pukapukan td                 ‘S. spiniferum’
+  Pn:    Samoan         td (malau)    ‘name given to certain fishes of genus Sargocentron
+                                      when about 30 cm in length’. (See also under
+                                      &ast;malau below.)
+  Pn:    K’marangi td                 ‘S. ruber, red squirrelfish’ [S. rubrum]
+  Pn:    Tokelauan td                 ‘S. spiniferum’
+  Pn:    Tuvaluan       td (malau)    ‘_Adioryx spp._’ [Sargocentron]
+  Pn:    Tikopia        ta            ‘sea fish, app. related to large squirrelfish’
 ```
 
 ```
-Table 1.2    POc orthographies after [Grace](../references.md#source-Grace1969) ([1969](../references.md#source-Grace1969)) and [Ross](../references.md#source-Ross1988) ([1988](../references.md#source-Ross1988))
-Grace   oral grade     &ast;p          —         &ast;t     &ast;d/
-r
-&ast;&ast;s          &ast;j   &ast;k    —
-Ross                   &ast;p                    &ast;t              &ast;s          &ast;
-c    &ast;k    &ast;kw
-Grace   nasal grade   &ast;mp    &ast;qp/
-&ast;
-mpw             &ast;nt   &ast;
-n r
-&ast;nd/            &ast;nj        &ast;pk
-Ross                   &ast;b                    &ast;d        &ast;dr         &ast;j         &ast;g
-Grace                 &ast;m     mw
-&ast;qm/
-&ast;&ast;n       &ast;n     &ast;ij        w
-&ast;&ast;y     &ast;1   &ast;q   &ast;
-R
-Ross                  &ast;m          •fc jɪɪw   &ast;n       &ast;n     &ast;ij        w
-&ast;&ast;y     &ast;1   &ast;q   &ast;
-R
-Grace                  &ast;i          &ast;0        &ast;e       &ast;a     &ast;u
-Ross                   &ast;i          &ast;0        &ast;e       &ast;a     &ast;u
+             Table 1.2    POc orthographies after [Grace](../references.md#source-Grace1969) ([1969](../references.md#source-Grace1969)) and [Ross](../references.md#source-Ross1988) ([1988](../references.md#source-Ross1988))
+    Grace   oral grade     &ast;p          —         &ast;t     &ast;d/
+                                                        r
+                                                        &ast;&ast;s          &ast;j   &ast;k    —
+    Ross                   &ast;p                    &ast;t              &ast;s          &ast;
+                                                                             c    &ast;k    &ast;kw
+    Grace   nasal grade   &ast;mp    &ast;qp/
+                                 &ast;
+                                 mpw             &ast;nt   &ast;
+                                                       n r
+                                                       &ast;nd/            &ast;nj        &ast;pk
+    Ross                   &ast;b                    &ast;d        &ast;dr         &ast;j         &ast;g
+    Grace                 &ast;m     mw
+                                 &ast;qm/
+                                 &ast;&ast;n       &ast;n     &ast;ij        w
+                                                                            &ast;&ast;y     &ast;1   &ast;q   &ast;
+                                                                                                   R
+    Ross                  &ast;m          •fc jɪɪw   &ast;n       &ast;n     &ast;ij        w
+                                                                            &ast;&ast;y     &ast;1   &ast;q   &ast;
+                                                                                                   R
+    Grace                  &ast;i          &ast;0        &ast;e       &ast;a     &ast;u
+    Ross                   &ast;i          &ast;0        &ast;e       &ast;a     &ast;u
 ```
 
 
@@ -309,14 +318,14 @@ Ross                   &ast;i          &ast;0        &ast;e       &ast;a     &as
 
 Because our supporting data are drawn from such a wide range of languages, the convention is adopted of prefixing each language name with the abbreviation for the genealogical or geographic group to which the language belongs, so that the distribution of a cognate set is more immediately obvious. Table 1.3 is a key to the labels. Figure 1.2 shows the positions of these groups in the Oceanic tree. We have sought to be consistent in always listing these groups in the same order, but contributors vary in the ordering of languages within groups.
 
-Lynch’s recent research on Southern Oceanic ([§3.2.3](#s-3-2)) renders the NCV group mildly anomalous, although there is no doubt that it reflects an integrated dialect network. There are a number of etyma whose reflexes are confined to North and Central Vanuatu, and so we continue to make ‘Proto North/Central Vanuatu’ reconstructions, even though these perhaps represent a Southern Oceanic term that has been lost in southern Vanuatu and New Caledonia. Where the distribution of reflexes requires it, the chapters in this volume include reconstructions for Proto Remote Oceanic and for PSOc. Etyma with these distributions were attributed to PEOc in volumes 1 and 2, but the distributions are transparent, thanks to the presence of the group labels in cognate sets.
+Lynch’s recent research on Southern Oceanic (§3.2.3) renders the NCV group mildly anomalous, although there is no doubt that it reflects an integrated dialect network. There are a number of etyma whose reflexes are confined to North and Central Vanuatu, and so we continue to make ‘Proto North/Central Vanuatu’ reconstructions, even though these perhaps represent a Southern Oceanic term that has been lost in southern Vanuatu and New Caledonia. Where the distribution of reflexes requires it, the chapters in this volume include reconstructions for Proto Remote Oceanic and for PSOc. Etyma with these distributions were attributed to PEOc in volumes 1 and 2, but the distributions are transparent, thanks to the presence of the group labels in cognate sets.
 
 
 <a id="p-19"></a>
 
 In the interests of space we have not given the history of the reconstructions themselves, as this would often require commentary on the modifications made by others and by us, and on why we have made them. Where a reconstruction is not new, we have tried to give its earliest source, e.g. ‘ACD’ above, but this is difficult when earlier reconstructions differ in form and meaning.
 
-In general, the contributions to these volumes are concerned with items reconstructable in POc, PWOc, PEOc, Proto Remote Oceanic and occasionally Proto New Guinea Oceanic (PNGOc). Etyma for PWOc, PNGOc and PEOc are reconstructed because these may well also be POc etyma for which known reflexes are not well distributed (see discussion in [§3.2.4](#s-3-2)). The contributors vary in the degree to which they reconstruct etyma for interstages further down the tree. Reconstructions for lower-order interstages are decreasingly likely to reflect POc etyma and may be the results of cultural change as Oceanic speakers moved further out into the Pacific.
+In general, the contributions to these volumes are concerned with items reconstructable in POc, PWOc, PEOc, Proto Remote Oceanic and occasionally Proto New Guinea Oceanic (PNGOc). Etyma for PWOc, PNGOc and PEOc are reconstructed because these may well also be POc etyma for which known reflexes are not well distributed (see discussion in §3.2.4). The contributors vary in the degree to which they reconstruct etyma for interstages further down the tree. Reconstructions for lower-order interstages are decreasingly likely to reflect POc etyma and may be the results of cultural change as Oceanic speakers moved further out into the Pacific.
 
 Contributors have usually not sought to make fresh reconstructions at interstages superordinate to POc. What they have done, however, is to cite other scholars’ reconstructions for higher-order interstages, as these represent a summary of the non-Oceanic evidence in support of a given POc reconstruction. These interstages are shown in Figure 1.1, together with their abbreviations.
 
@@ -325,22 +334,22 @@ Sometimes non-Oceanic evidence has been found to support a POc reconstruction wh
 Whilst we have tried to use the internal organisation of the lexicons of Oceanic languages themselves as a guide in setting the boundaries of each terminology, we have inevitably taken decisions which differ from those that others might have made. There are, obviously, overlaps and connections between various semantic domains and therefore between the contributions here. We have done our best to provide cross-references, but we have sometimes duplicated information rather than ask the reader repeatedly to look elsewhere in the book. Indexes at the end of each volume and in the final volume are intended to make it easier to use the volumes collectively as a work of reference.
 
 ```
-Table 1.3     Abbreviations for the genealogical or geographic groups
-Yap:     Yapese(one language)
-Adm:    Admiralty and Mussau/Tench
-SJ:      Sarmi/Jayapura
-NNG:    North New Guinea
-PT:     Papuan Tip
-MM:      Meso-Melanesian
-SES:     Southeast Solomonic
-TM:      Temotu
-NCV:    North/Central Vanuatu, i.e. the reintegrated network formed by the North and
-Central Vanuatu linkages
-SV:      Southern Vanuatu
-NCal:    Loyalty and New Caledonia
-Mic:     Micronesian
-Fij:     Fijian, i.e. the reintegrated network formed by Western and Eastern Fijian dialects
-Pn:      Polynesian
+            Table 1.3     Abbreviations for the genealogical or geographic groups
+    Yap:     Yapese(one language)
+    Adm:    Admiralty and Mussau/Tench
+    SJ:      Sarmi/Jayapura
+    NNG:    North New Guinea
+    PT:     Papuan Tip
+    MM:      Meso-Melanesian
+    SES:     Southeast Solomonic
+    TM:      Temotu
+    NCV:    North/Central Vanuatu, i.e. the reintegrated network formed by the North and
+             Central Vanuatu linkages
+    SV:      Southern Vanuatu
+    NCal:    Loyalty and New Caledonia
+    Mic:     Micronesian
+    Fij:     Fijian, i.e. the reintegrated network formed by Western and Eastern Fijian dialects
+    Pn:      Polynesian
 ```
 
 
@@ -348,7 +357,8 @@ Pn:      Polynesian
 
 
 <a id="s-4-2"></a>
-## 4.2. Data
+
+### 4.2. Data
 
 
 Data sources are listed in Appendix 1.
@@ -360,14 +370,14 @@ Although there are accepted or standard orthographies for a number of the langua
 The following symbols have more or less their usual IPA values: ð, g, y, h, k, I, l, I, T, m, n, ŋ, h, p, q, /, r, /; s, t, w, x, z, ?, a, æ, e, s, ə, i, i, o, æ, o, .t, u, ui. As far as possible, however, our orthography is phonemic and does not show allophonic variation, so that there are instances where a symbol does not have its usual phonetic value. For example, Wayan Fijian k is a voiceless stop word-initially but [k] is in free or stylistic variation with [y] word-medially. The voiced stops b, d, g and the voiced bilabial trill b are prenasalised in some languages, but prenasalisation is not written unless it is phonemically distinctive. Where a language has just one rhotic, we usually write r, despite the fact that that rhotic is sometimes a flap. Other orthographic symbols (with values in IPA) are:
 
 ```
-f      [$, fɪ       voiceless bilabial or (less often) labio-dental fricative
-v      [P, v]       voiced bilabial or (less often) labio-dental fricative
-c      [ts], [tn    voiceless alveolar or palatal affricate
-j      [cfe], [ʤ]   voiced alveolar or palatal affricate
-y      D]           palatal glide
-dr     fɪr]         prenasalised voiced alveolar trill (as in Fijian)
-o      [^0]          rounded mid front vowel
-u      [y]          rounded high front vowel
+             f      [$, fɪ       voiceless bilabial or (less often) labio-dental fricative
+             v      [P, v]       voiced bilabial or (less often) labio-dental fricative
+             c      [ts], [tn    voiceless alveolar or palatal affricate
+             j      [cfe], [ʤ]   voiced alveolar or palatal affricate
+             y      D]           palatal glide
+             dr     fɪr]         prenasalised voiced alveolar trill (as in Fijian)
+             o      [^0]          rounded mid front vowel
+             u      [y]          rounded high front vowel
 ```
 
 Other superscripts and diacritics are as follows:
@@ -383,38 +393,39 @@ Other superscripts and diacritics are as follows:
 
 <a id="p-21"></a>
 
-Except for inflexional morphemes, non-cognate portions of reflexes, i.e. derivational morphemes and non-cognate parts of compounds, are shown in parentheses ( … ). Where an inflexional morpheme is an affix or clitic and can readily be omitted, its omission is indicated by a hyphen at the beginning or end of the base. This applies particularly to possessor suffixes on directly possessed nouns (vol. 1, ch.2, [§3.2](#s-3-2)). Where an inflexional morpheme cannot readily be omitted, then it is separated from its base by a hyphen. This may happen because of complicated morphophonemics or because the morpheme is always present, like the adjectival -n in some NNG and Admiralties languages and prefixed reflexes of the POc article &ast;na in scattered languages. When a reflex is itself polymorphemic (i.e. the morphemes reflect morphemes present in the reconstructed etymon) or contains a reduplication, the morphemes or reduplicates are also separated by a hyphen.
+Except for inflexional morphemes, non-cognate portions of reflexes, i.e. derivational morphemes and non-cognate parts of compounds, are shown in parentheses ( … ). Where an inflexional morpheme is an affix or clitic and can readily be omitted, its omission is indicated by a hyphen at the beginning or end of the base. This applies particularly to possessor suffixes on directly possessed nouns (vol. 1, ch.2, §3.2). Where an inflexional morpheme cannot readily be omitted, then it is separated from its base by a hyphen. This may happen because of complicated morphophonemics or because the morpheme is always present, like the adjectival -n in some NNG and Admiralties languages and prefixed reflexes of the POc article &ast;na in scattered languages. When a reflex is itself polymorphemic (i.e. the morphemes reflect morphemes present in the reconstructed etymon) or contains a reduplication, the morphemes or reduplicates are also separated by a hyphen.
 
 Languages from which data are cited in this volume are listed in Appendix B in their subgroups, together with an index allowing the reader to find the subgroup to which a given language belongs. Appendix B also includes alternative language names. The difficulty of deciding where the borderline between dialect and language lies, combined with the fact that these volumes contain work by a number of contributors, has resulted in some inconsistency in the naming of dialects in the cognate sets. Some occur in the form ‘Kara (E)’, i.e. the East dialect of the Kara language, or ‘Lukep (Pono)’, i.e. the Pono dialect of the Lukep language, whilst others are represented simply by the dialect name, e.g. Iduna, noted in Appendix B as ‘Iduna (= dialect of Bwaidoga)’.
 
 
 <a id="s-4-3"></a>
-## 4.3. Conventions used in representing reconstructions
+
+### 4.3. Conventions used in representing reconstructions
 
 
-Reconstructions are marked with an asterisk, e.g. &ast;tciRaqcin ‘squirrelfish’, in keeping with the standard convention in historical linguistics. POc reconstructions, and also PWOc and PNGOc reconstructions, are given in the orthography of [§3.4](#s-3-4). For reconstructions at higher- order interstages the orthographies are those used by Blust in his various publications and the[ ACD.](../references.md#source-Blust1995) Reconstructions at lower-order interstages are given in the standard orthography adopted for data ([§4.2](#s-4-2)). Geraghty’s (1986) PCP orthography, for example, is based on Standard Fijian spelling, and is converted into our standard orthography in the same way as Fijian spelling is. In practice, this means that the orthographies for PEOc, Proto Remote Oceanic and PCP are the same as for POc, except that a distinction between &ast;p and &ast;v is recognised and &ast;R is absent from PCP. Biggs and Clark’s PPn reconstructions are in any case written in an orthography identical to our standard. Bracketing and segmentation conventions in protoforms are shown in Table 1.4.
+Reconstructions are marked with an asterisk, e.g. &ast;tciRaqcin ‘squirrelfish’, in keeping with the standard convention in historical linguistics. POc reconstructions, and also PWOc and PNGOc reconstructions, are given in the orthography of §3.4. For reconstructions at higher- order interstages the orthographies are those used by Blust in his various publications and the[ ACD.](../references.md#source-Blust1995) Reconstructions at lower-order interstages are given in the standard orthography adopted for data (§4.2). Geraghty’s (1986) PCP orthography, for example, is based on Standard Fijian spelling, and is converted into our standard orthography in the same way as Fijian spelling is. In practice, this means that the orthographies for PEOc, Proto Remote Oceanic and PCP are the same as for POc, except that a distinction between &ast;p and &ast;v is recognised and &ast;R is absent from PCP. Biggs and Clark’s PPn reconstructions are in any case written in an orthography identical to our standard. Bracketing and segmentation conventions in protoforms are shown in Table 1.4.
 
 PMP final consonants are usually retained in POc in absolute word-final position. In many cases decisive evidence for retention or loss can be found in those Oceanic languages that usually retain final consonants. However, there are some cases where it is uncertain whether POc kept the PMP finals. This is so when a PMP etymon is not attested in an Oceanic language that consistently retains POc final consonants. An example is &ast;-R in PMP &ast;kamaliR ‘men’s house’, a term reflected in Oceanic only in certain languages that regularly lose POc final consonants. In such cases the consonant is reconstructed in parentheses (e.g. POc &ast;ka- mali(R)').
 
-In presenting words that display anomalies of form, it is often necessary to posit an expected form. For example, in the cognate set supporting POc &ast;tciRaqan ‘squirrelfish’ in [§4.1](#s-4-1), the Loniu form taʔay is presented in support of PEOc &ast;taRaqan. Given the reconstruction, however, we would expect the Loniu form to be taya(?). In this volume we use a less widely employed convention and mark expected forms with a dagger, e.g. ~\taya(?), to distinguish them both from reconstructions and real data.[^20]
+In presenting words that display anomalies of form, it is often necessary to posit an expected form. For example, in the cognate set supporting POc &ast;tciRaqan ‘squirrelfish’ in §4.1, the Loniu form taʔay is presented in support of PEOc &ast;taRaqan. Given the reconstruction, however, we would expect the Loniu form to be taya(?). In this volume we use a less widely employed convention and mark expected forms with a dagger, e.g. ~\taya(?), to distinguish them both from reconstructions and real data.[^20]
 
 
 <a id="p-22"></a>
 
 ```
-Table 1.4      Bracketing and segmentation conventions in protoforms
-(x)      it cannot be determined whether x was present
-(x,y)   either x or y was present
-[x]   the item is reconstructable in two forms, one with and one without x
-[x,y] the item is reconstructable in two forms, one with x and one with y
-x-y     x and y are separate morphemes
-x-      x takes an enclitic or a suffix
-<x>     x is an infix
+              Table 1.4      Bracketing and segmentation conventions in protoforms
+             (x)      it cannot be determined whether x was present
+              (x,y)   either x or y was present
+              [x]   the item is reconstructable in two forms, one with and one without x
+              [x,y] the item is reconstructable in two forms, one with x and one with y
+              x-y     x and y are separate morphemes
+              x-      x takes an enclitic or a suffix
+              <x>     x is an infix
 ```
 
-Sometimes we need to refer to a reconstructed form that one would expect as the regular reflex of an established POc etymon, but which does not occur because an irregular sound change has occurred. In such cases the dagger and asterisk conventions are used together. For example, in ch.7, [§4](#s-4), we reconstruct POc &ast;simuk ‘mosquito, small biting fly’. Its Proto SE Solomonic reflex is reconstructed as &ast;simi (this is the form reflected by the SE Solomonic data), but the expected (regular) Proto Southeast Solomonic form, referred to in our discussion, is f&ast;simu, the regular reflex of POc &ast;simuk. The dagger marks it as expected but not attested to.
+Sometimes we need to refer to a reconstructed form that one would expect as the regular reflex of an established POc etymon, but which does not occur because an irregular sound change has occurred. In such cases the dagger and asterisk conventions are used together. For example, in ch.7, §4, we reconstruct POc &ast;simuk ‘mosquito, small biting fly’. Its Proto SE Solomonic reflex is reconstructed as &ast;simi (this is the form reflected by the SE Solomonic data), but the expected (regular) Proto Southeast Solomonic form, referred to in our discussion, is f&ast;simu, the regular reflex of POc &ast;simuk. The dagger marks it as expected but not attested to.
 
-Sometimes a hypothetical POc form is marked in this way. In ch.7, [§5](#s-5), we cite PMP &ast;nik- nik, &ast;hik-hik ‘tiny biting insect: gnat, sandfly, fruitfly’. The expected POc form is 'Oninik, marked with a dagger because it does not actually occur. Instead, the Oceanic data require us to reconstruct the irregular form POc &ast;niku-niku ‘small biting fly’.
+Sometimes a hypothetical POc form is marked in this way. In ch.7, §5, we cite PMP &ast;nik- nik, &ast;hik-hik ‘tiny biting insect: gnat, sandfly, fruitfly’. The expected POc form is 'Oninik, marked with a dagger because it does not actually occur. Instead, the Oceanic data require us to reconstruct the irregular form POc &ast;niku-niku ‘small biting fly’.
 
 When historical linguists compile cognate sets they commonly retain word for word the glosses given in the sources from which the items are taken. However, again in the interests of standardisation, we have often reworded (and sometimes abbreviated) the glosses of our sources, while preserving the meaning. Where glosses were in a language other than English we have translated them. In the interests of space and legibility, and because data often have multiple sources, we have given the source of a reflex only when it is not included in the listings in Appendix A.
 
@@ -431,6 +442,7 @@ In putting together cognate sets we have quite often found possible cognates whi
 
 
 <a id="s-5"></a>
+
 ## 5. Indexes
 
 
@@ -461,7 +473,7 @@ This volume has three indexes. The first, as in volumes 1 and 2, is an index of 
 
 [^11]: ‘Eastern Fijian languages’ in Figure 1.2 is our label for Geraghty’s (1983) ‘Tokalau Fijian’.
 
-[^12]: For a history of scholarly views of the subgrouping of North and Central Vanuatu languages see Clark (2009: [§1.3](#s-1-3)). For arguments supporting a NCV grouping, see Clark (2009: ch.4).
+[^12]: For a history of scholarly views of the subgrouping of North and Central Vanuatu languages see Clark (2009: §1.3). For arguments supporting a NCV grouping, see Clark (2009: ch.4).
 
 [^13]: Because they have only been recently proposed, Temotu and Southern Oceanic do not appear in Figure 1 of volumes 1 and 2.
 

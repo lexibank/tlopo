@@ -4,6 +4,7 @@ by Osmond, M. and Ross, M.
 
 
 <a id="s-1"></a>
+
 ## 1. Introduction
 
 
@@ -13,12 +14,14 @@ Artefacts are organised under the following headings: (1) containers; (2) mats a
 
 
 <a id="s-2"></a>
+
 ## 2. Containers
 
 
 
 <a id="s-2-1"></a>
-## 2.1. Pottery containers
+
+### 2.1. Pottery containers
 
 
 Pottery is one of the more distinctive features of the Lapita culture, here held to coincide with and thus be an integral marker of the early dispersal of Proto Oceanic.[^2] Pottery manufacture in Oceania is geographically discontinuous. By no means all Oceanic speakers make pottery. Obviously, pottery can only be made where suitable clay is available, but its availability is no guarantee that pottery will be manufactured. Nor is its absence from the immediate locality a guarantee that pottery will not be made: the Gumawana speakers of the Amphlett group transport their clay some distance by sea from Fergusson Island. As a result of this discontinuity, pots were traditionally important trade items. A linguistic spin-off of this trade is that words for pots are not infrequently loan words, especially in the languages of the people who are not potters.
@@ -32,7 +35,11 @@ Pottery is one of the more distinctive features of the Lapita culture, here held
 
 There is fair agreement across Oceanic languages about the structure of the terminology -Ross provides evidence from NNG, PT, Admiralties and Fijian languages which all have terms (not necessarily cognate) for pot (generic), cooking pot, water jar, bowl/dish and frying pan (see Figure 4) - and we have PMP reconstructions in support of corresponding POc terms. However, our cognate sets are disappointingly small. Of our reconstructions, the cooking pot/generic term is the most soundly based.
 
-Figure 4: Typical pot shapes (from [Ross 1996c](../references.md#source-Ross1996c)) (a) cooking pot: POc _&ast;kuran_, POc _&ast;bʷafja_ (b) water jar: POc _&ast;kalala(ŋ)_, PNGOc _&ast;bʷad(r)i_ (c) bowl: PPT _&ast;na(q)u(q)_ (d) frying pan: POc _&ast;palafja_
+<a id="fig-4"> </a>
+
+![Figure 4: Typical pot shapes (from [Ross 1996c](../references.md#source-Ross1996c)) (a) cooking pot: POc _&ast;kuran_, POc _&ast;bʷafja_ (b) water jar: POc _&ast;kalala(ŋ)_, PNGOc _&ast;bʷad(r)i_ (c) bowl: PPT _&ast;na(q)u(q)_ (d) frying pan: POc _&ast;palafja_](../../raw/vol1/maps/fig_4.png)
+
+
 
 4.2.1.1 Cooking pot
 
@@ -208,14 +215,14 @@ cf. also:
 <tr>
 <td>PT</td>
 <td>Lala</td>
-<td>vodu</td>
+<td><i>vodu</i></td>
 <td>
 '<span>narrow-necked water pot</span>'</td>
 </tr>
 <tr>
 <td>PT</td>
 <td>Motu</td>
-<td>hodu</td>
+<td><i>hodu</i></td>
 <td>
 '<span>narrow-necked water pot</span>'</td>
 </tr>
@@ -368,7 +375,7 @@ We have been unable to reconstruct a POc term for a bowl or dish. Indeed, the on
 
 
 
-Only the Hula form reflects a possible medial _&ast;-q-_. Since Hula sometimes adds a nonetymological _-y-_ between vowels, _&ast;-q-_ cannot be reconstructed with certainty. Final _&ast;-q_ is reflected in Iduna and Sudest, but not in Gumawana, Molima or Are, where a reflex would also be expected. These uncertainties raise the possibility that this term is cognate with the forms attributed to POc _&ast;napu_ 'steam (?), boil (7)' ([Ch.6, §3.4](chapter6.md#s-3-4)).
+Only the Hula form reflects a possible medial _&ast;-q-_. Since Hula sometimes adds a nonetymological _-y-_ between vowels, _&ast;-q-_ cannot be reconstructed with certainty. Final _&ast;-q_ is reflected in Iduna and Sudest, but not in Gumawana, Molima or Are, where a reflex would also be expected. These uncertainties raise the possibility that this term is cognate with the forms attributed to POc _&ast;napu_ 'steam (?), boil (7)' (Ch. 6, §3.4).
 
 
 <a id="p-71"></a>
@@ -455,7 +462,7 @@ Both cooking pots and narrow-necked water jars may have utilised lids. In additi
 
 
 
-Note that _&ast;tup-a(n,ŋ)_ is a nominalised form derived from _&ast;[tu]tup_, _&ast;tupi_ (see discussion of nominalisations in [Chapter 2, §3.2.1](chapter2.md#s-3-2)).
+Note that _&ast;tup-a(n,ŋ)_ is a nominalised form derived from _&ast;[tu]tup_, _&ast;tupi_ (see discussion of nominalisations in Chapter 2, §3.2.1).
 
 4.2.1.7 Tools in pot manufacture
 
@@ -466,7 +473,8 @@ Oceanic pots were typically made using the paddle-and-anvil technique, whereby a
 
 
 <a id="s-2-2"></a>
-## 2.2. Wooden or coconut-shell containers
+
+### 2.2. Wooden or coconut-shell containers
 
 
 4.2.2.1 Wooden bowl
@@ -534,49 +542,53 @@ cf. also:
 <tr>
 <td>SES</td>
 <td>'Are'are</td>
-<td>tapire</td>
+<td><i>tapire</i></td>
 <td>
 '<span>wooden bowl in which taro is mashed</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
 <td>Arosi</td>
-<td>tapiri</td>
+<td><i>tapiri</i></td>
 <td>
 '<span>long trough-like food bowl</span>'</td>
 </tr>
 <tr>
 <td>Fij</td>
 <td>Bauan</td>
-<td>tābili</td>
+<td><i>tābili</i></td>
 <td>
 '<span>wooden bowl for crushing yaqona roots</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
 <td>Kwaio</td>
-<td>tabili</td>
+<td><i>tabili</i></td>
 <td>
 '<span>big wooden bowl</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
 <td>Longgu</td>
-<td>tabili</td>
+<td><i>tabili</i></td>
 <td>
 '<span>bowl shaped like a vase, used for mashing taro to make pudding</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
 <td>Tolo</td>
-<td>tabili</td>
+<td><i>tabili</i></td>
 <td>
 '<span>wooden vessel used to smash nut kernels in</span>'</td>
 </tr>
 </table>
 
 
-Figure 5: POc _&ast;tabiRa_ 'wooden bowl'
+<a id="fig-5"> </a>
+
+![Figure 5: POc _&ast;tabiRa_ 'wooden bowl'](../../raw/vol1/maps/fig_5.png)
+
+
 
 This last set could be taken to reflect a POc _&ast;&ast;tabili_, but their formal and semantic similarity to reflexes of _&ast;tabiRa_ suggests that this inference is not justified. Rather, they are probably descended from an etymon which originated somewhere in the Solomons in the borrowing of a reflex of _&ast;tabiRa_ denoting a trade item, apparently a wooden dish used for mashing and/or crushing.
 
@@ -672,14 +684,14 @@ cf. also: the following probable loans from Polynesia:
 <tr>
 <td>Mic</td>
 <td>Kiribatese</td>
-<td>kumete</td>
+<td><i>kumete</i></td>
 <td>
 '<span>kind of wooden mortar trough; hollow, empty, concave; thin, ravenous (hungry)</span>'</td>
 </tr>
 <tr>
 <td>NCV</td>
 <td>Mota</td>
-<td>wumeto</td>
+<td><i>wumeto</i></td>
 <td>
 '<span>wooden bowl used for stone-boiling</span>'</td>
 </tr>
@@ -881,7 +893,11 @@ One of the most widely-used containers was the coconut-shell cup, for which we h
 
 
 
-Figure 6: POc _&ast;(b,bʷ)ilo_ 'coconut shell used as liquid container', POc _&ast;lasa_, POc _&ast;ubi_/_&ast;ibu_ 'coconut half shell-cup'
+<a id="fig-6"> </a>
+
+![Figure 6: POc _&ast;(b,bʷ)ilo_ 'coconut shell used as liquid container', POc _&ast;lasa_, POc _&ast;ubi_/_&ast;ibu_ 'coconut half shell-cup'](../../raw/vol1/maps/fig_6.png)
+
+
 
 Figure 7: POc _&ast;kulopi_ 'cup, ladle' (from [Nevermann 1934](../references.md#source-Nevermann1934): 179)
 
@@ -970,7 +986,7 @@ The gloss proposed for the following reconstruction is highly tentative:
 
 
 
-An additional reconstruction, POc _&ast;asu_ (V) 'scoop or ladle out' ; (N) 'ladle, bailer', from PMP _&ast;aŋsu_ 'scoop or bail out' is included in [Chapter 7, §7.4](chapter7.md#s-7-4).
+An additional reconstruction, POc _&ast;asu_ (V) 'scoop or ladle out' ; (N) 'ladle, bailer', from PMP _&ast;aŋsu_ 'scoop or bail out' is included in Chapter 7, §7.4.
 
 The following set, from [Ross](../references.md#source-Ross1996a) ([1996a](../references.md#source-Ross1996a)), is listed because explanation is needed for the fact that it is apparently reflected only in Yapese and NNG languages: is it a retention or a borrowing? (Takia _-ae-_, Bilibil, Megiar _-ai-_ reflect _&ast;-a-_ which has undergone umlaut because of a lost final _&ast;-i_.)
 
@@ -1148,7 +1164,7 @@ A number of terms are reconstructable for the plug, probably of rolled leaves, u
 
 
 
-This is a nominalisation of the verb below (cf. [Ch.2, §3.2.1](chapter2.md#s-3-2)):
+This is a nominalisation of the verb below (cf. Ch. 2, §3.2.1):
 
 <table>
 <tr>
@@ -1324,11 +1340,16 @@ There is one other kind of container associated with Melanesians other than the 
 
 The final _-i_ of Mussau _ra-ramuti_ suggests that this reflects a transitive verb _&ast;d(r)amut-i-_, perhaps 'add lime to a chew of betel nut'.
 
-Figure 8: POc _&ast;d(r)amut_ 'lime spatula'
+<a id="fig-8"> </a>
+
+![Figure 8: POc _&ast;d(r)amut_ 'lime spatula'](../../raw/vol1/maps/fig_8.png)
+
+
 
 
 <a id="s-2-3"></a>
-## 2.3. Woven containers
+
+### 2.3. Woven containers
 
 
 Usable baskets or trays can be improvised in a few minutes from the wealth of leaves and fibres generally within easy reach. Baskets used today vary greatly in size, shape and function. They range from the large trays used at feasts to tiny purses carried within string bags. Individual communities have evolved their own shapes, styles and traditions of use. Some styles may be so individual or striking that they come to be representative of a particular region or community. Baskets may be with or without handles; carried over the shoulder, from the head or hand or under the arm; used by men only or women only; strictly utilitarian or finely decorated, multi-purpose or highly specific in their use. Different styles may be distinguished by name.
@@ -1559,7 +1580,7 @@ cf. also:
 <tr>
 <td>Adm</td>
 <td>Mussau</td>
-<td>keru</td>
+<td><i>keru</i></td>
 <td>
 '<span>k.o. basket</span>'</td>
 </tr>
@@ -1620,9 +1641,13 @@ This form is unlikely to be of POc ancestry, as medial _&ast;-e-_ is rare in POc
 
 <a id="p-79"></a>
 
-Figure 9: Reconstructions (non-specific) include: POc _&ast;katu(m,ŋ)_ 'basket', POc _&ast;laka_ 'basket ', POc _&ast;tab(w)e_ 'basket, probably small', POc _&ast;taŋa_ 'basket or bag, small, used for personal effects' (after [Koch 1986](../references.md#source-Koch1986): 104 and n.d.:59)
+<a id="fig-9"> </a>
 
-[Biggs](../references.md#source-Biggs1993) ([1993](../references.md#source-Biggs1993)) lists two further terms for PPn, &ast;taapola 'basket plaited from a single coconut frond' (from POc _&ast;bola_ 'coconut leaves woven together for any purpose'. See under [§3.1](#s-3-1)Mats); and _&ast;qora_ 'fishing basket'.
+![Figure 9: Reconstructions (non-specific) include: POc _&ast;katu(m,ŋ)_ 'basket', POc _&ast;laka_ 'basket ', POc _&ast;tab(w)e_ 'basket, probably small', POc _&ast;taŋa_ 'basket or bag, small, used for personal effects' (after [Koch 1986](../references.md#source-Koch1986): 104 and n.d.:59)](../../raw/vol1/maps/fig_9.png)
+
+
+
+[Biggs](../references.md#source-Biggs1993) ([1993](../references.md#source-Biggs1993)) lists two further terms for PPn, &ast;taapola 'basket plaited from a single coconut frond' (from POc _&ast;bola_ 'coconut leaves woven together for any purpose'. See under §3.1Mats); and _&ast;qora_ 'fishing basket'.
 
 Bags, typically of twine made from fibres rolled together on the thigh and then knotted into a mesh, are more likely to be used for carrying than for storage. They are a prominent item among western Oceanic peoples, the women carrying them slung from a band round the head, and the men generally over one shoulder. On the New Guinea mainland, they are the means by which a woman carries a baby. The widespread modern term for these bags is bilum, a Tok Pis in term apparently from Tolai, but without cognates outside MM . The present distribution pattern of use would seem to reflect a possible Papuan origin for the net bag. In east New Britain (Tolai and Baining at least) heavy loads are carried in a coconut leaf basket suspended from the forehead by a tumpline (Ann Chowning, pers.comm.). The following reconstruction may have been a general term for a small plaited or woven container which has come to refer to a net bag in parts of western Oceania.
 
@@ -1704,15 +1729,17 @@ Bags, typically of twine made from fibres rolled together on the thigh and then 
 
 
 <a id="s-3"></a>
+
 ## 3. Mats and cordage
 
 
 
 <a id="s-3-1"></a>
-## 3.1. Mats
+
+### 3.1. Mats
 
 
-Woven mats are made from the leaves of a range of palms, and frequently the same term is used for both tree and the article typically made from it. Thus we have POc _&ast;kiRe_ 'coastal pandanus: mat made from its leaves', and PWOc _&ast;moke_ 'pandanus species, used to make capes and mats' (see Plants, vol. 3). Mats on which food is placed will usually be made from coconut leaf. Where strength and endurance are important, as in canoe sails, pandanus is the preferred leaf, and the items are sewn rather than woven. Sleeping mats and house walls may be of either leaf. On the use of reflexes of &ast;qebal for sails, see [Chapter 7, §5.1](chapter7.md#s-5-1).
+Woven mats are made from the leaves of a range of palms, and frequently the same term is used for both tree and the article typically made from it. Thus we have POc _&ast;kiRe_ 'coastal pandanus: mat made from its leaves', and PWOc _&ast;moke_ 'pandanus species, used to make capes and mats' (see Plants, vol. 3). Mats on which food is placed will usually be made from coconut leaf. Where strength and endurance are important, as in canoe sails, pandanus is the preferred leaf, and the items are sewn rather than woven. Sleeping mats and house walls may be of either leaf. On the use of reflexes of &ast;qebal for sails, see Chapter 7, §5.1.
 
 <table>
 <tr>
@@ -2230,7 +2257,7 @@ The distinction between weaving and plaiting is not clear even in English, altho
 
 <a id="p-83"></a>
 
-Ann Chowning (pers.comm.) has offered an additional sense to POc _&ast;raraŋ_, _&ast;raraŋ-i-_ (from PAn _&ast;da(n)daŋ_), which Lichtenberk glosses as 'warm oneself by fire'; 'warm up, reheat (esp. food)' (see [Chapter 6, §3.5](chapter6.md#s-3-5), for the full cognate set). She contributes cognates from Molima, Kove and Nakanai which all refer to the preparation of pandanus leaves for mat making by softening them over a fire, and accord closely with the gloss of the single Polynesian cognate.
+Ann Chowning (pers.comm.) has offered an additional sense to POc _&ast;raraŋ_, _&ast;raraŋ-i-_ (from PAn _&ast;da(n)daŋ_), which Lichtenberk glosses as 'warm oneself by fire'; 'warm up, reheat (esp. food)' (see Chapter 6, §3.5, for the full cognate set). She contributes cognates from Molima, Kove and Nakanai which all refer to the preparation of pandanus leaves for mat making by softening them over a fire, and accord closely with the gloss of the single Polynesian cognate.
 
 <table>
 <tr>
@@ -2267,7 +2294,8 @@ Ann Chowning (pers.comm.) has offered an additional sense to POc _&ast;raraŋ_, 
 
 
 <a id="s-3-2"></a>
-## 3.2. Cord, twine
+
+### 3.2. Cord, twine
 
 
 The simplest material for tying would have been lengths of vine or rattan, or strips of suitable bark, such as hibiscus. (pOc &ast;waRoc 'vine, creeper, rope, string'; POc _&ast;quwe_ 'rattan' (see Plants, vol. 3)). A strong light twine could be made by rolling fibres together on the thigh. The strongest cords and ropes are made by twisting or plaiting various kinds of fibres or rolled thread, principally coconut fibre or hibiscus bark.
@@ -2514,14 +2542,14 @@ cf. also:
 <tr>
 <td>PT</td>
 <td>Gumawana</td>
-<td>(ki)pili</td>
+<td><i>(ki)pili</i></td>
 <td>
 '<span>twist s.t., unscrew a lid</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
 <td>Tolai</td>
-<td>pir</td>
+<td><i>pir</i></td>
 <td>
 '<span>plait (basket, mat +)</span>'</td>
 </tr>
@@ -2569,7 +2597,7 @@ cf. also:
 
 <a id="p-85"></a>
 
-Reduplication was regularly used to form intransitive verbs from verbs which were otherwise transitive (see [Ch.2, §3.1.2](chapter2.md#s-3-1)).
+Reduplication was regularly used to form intransitive verbs from verbs which were otherwise transitive (see Ch. 2, §3.1.2).
 
 <table>
 <tr>
@@ -2639,7 +2667,7 @@ Reduplication was regularly used to form intransitive verbs from verbs which wer
 
 
 
-See Chapter 9, §[§7](#s-7)-8, for discussion of the item above.
+See Chapter 9, §§7-8, for discussion of the item above.
 
 <table>
 <tr>
@@ -2722,7 +2750,7 @@ See Chapter 9, §[§7](#s-7)-8, for discussion of the item above.
 
 
 
-The product of tying a piece of cordage is, of course, a knot. POc seems to have had no term dedicated to a knot as understood in English, but had the more generalised term &ast;buku, which referred to a node, protuberance, joint or knot (this word was also used with the meaning 'tie a knot'; see [Chapter 9, § 10](chapter9.md#s-10)):
+The product of tying a piece of cordage is, of course, a knot. POc seems to have had no term dedicated to a knot as understood in English, but had the more generalised term &ast;buku, which referred to a node, protuberance, joint or knot (this word was also used with the meaning 'tie a knot'; see Chapter 9, § 10):
 
 <table>
 <tr>
@@ -2942,7 +2970,7 @@ cf. also:
 <tr>
 <td>NNG</td>
 <td>Sengseng</td>
-<td>sihit</td>
+<td><i>sihit</i></td>
 <td>
 '<span>sew areca palm spathe pouches for lime; barricade a doorway by interlacing vines across</span>'</td>
 </tr>
@@ -3009,7 +3037,7 @@ cf. also:
 
 <a id="p-87"></a>
 
-In the following set there may be some blending of meaning between two formally close terms, POc _&ast;s(u,i)ri_ 'pierce, poke' ([Ch.9, §4.1](chapter9.md#s-4-1)) and POc _&ast;suRi_ 'bone', because needles were at times made from bones (of bird or flying fox or occasionally pig).
+In the following set there may be some blending of meaning between two formally close terms, POc _&ast;s(u,i)ri_ 'pierce, poke' (Ch. 9, §4.1) and POc _&ast;suRi_ 'bone', because needles were at times made from bones (of bird or flying fox or occasionally pig).
 
 <table>
 <tr>
@@ -3130,12 +3158,14 @@ The following term for needle, POc _&ast;saRum_, evidently had specific referenc
 
 
 <a id="s-4"></a>
+
 ## 4. Tools
 
 
 
 <a id="s-4-1"></a>
-## 4.1. Cutting implements
+
+### 4.1. Cutting implements
 
 
 4.4.1.1 Axe, adze
@@ -3145,7 +3175,11 @@ The following term for needle, POc _&ast;saRum_, evidently had specific referenc
 
 <a id="p-88"></a>
 
-Figure 10: POc _&ast;kiRam_ 'stone adze, axe', POc _&ast;matau_ 'axe', POc _&ast;taku_, POc _&ast;taRa(q)_ 'adze'
+<a id="fig-10"> </a>
+
+![Figure 10: POc _&ast;kiRam_ 'stone adze, axe', POc _&ast;matau_ 'axe', POc _&ast;taku_, POc _&ast;taRa(q)_ 'adze'](../../raw/vol1/maps/fig_10.png)
+
+
 
 <table>
 <tr>
@@ -3400,11 +3434,11 @@ Note the change in meaning in the three examples given at the end of the followi
 The following are possibly related to the set above but all reflect an extra _&ast;i_ (Loniu and Tawala reflect a possible POc _&ast;mʷati_, the NNG items a putative _&ast;(m,mʷ)aita_). It is possible that this _&ast;i_ reflects the incorporation into _&ast;(m,mʷ)ata_ of the generic possessive preposition _&ast;qi_, which would frequently have occurred immediately after it (e.g. POc _&ast;&ast;(m,mʷ)ata-qi kiRam_ 'axe blade') and is reflected in Mota matai above.
 
 ```
-Adm: Loniu                   mʷati           'axe'
-NNG: Takia                   mait            '(small) knife'
-NNG: Manam                   moita           'knife'
-NNG: Kairiru                 mʷeit           'knife'
-PT:  Tawala                  mʷasi-mʷasi     'machete, bush knife'
+    Adm: Loniu                   mʷati           'axe'
+    NNG: Takia                   mait            '(small) knife'
+    NNG: Manam                   moita           'knife'
+    NNG: Kairiru                 mʷeit           'knife'
+    PT:  Tawala                  mʷasi-mʷasi     'machete, bush knife'
 ```
 
 
@@ -3675,7 +3709,7 @@ The existence of axe and adze heads with characteristic shaping to accommodate a
 
 
 
-With regard to the reconstruction of _&ast;(p,pʷ)_, see [Chapter 2, §2.1](chapter2.md#s-2-1). Western Oceanic and SES languages show assimilation of POc _&ast;r_ to _&ast;R_, but we assume that assimilation had not occurred in POc, since, as Blust points out, Puluwat _r_ reflects POc _&ast;r_, whilst Woleaian _ṣ_ inexplicably reflects POc _&ast;dr_. One of the Arosi reflexes and the Raga, Puluwat and Woleaian reflexes show haplology.
+With regard to the reconstruction of _&ast;(p,pʷ)_, see Chapter 2, §2.1. Western Oceanic and SES languages show assimilation of POc _&ast;r_ to _&ast;R_, but we assume that assimilation had not occurred in POc, since, as Blust points out, Puluwat _r_ reflects POc _&ast;r_, whilst Woleaian _ṣ_ inexplicably reflects POc _&ast;dr_. One of the Arosi reflexes and the Raga, Puluwat and Woleaian reflexes show haplology.
 
 
 <a id="p-91"></a>
@@ -3783,21 +3817,21 @@ cf. also:
 <tr>
 <td>MM</td>
 <td>Lihir</td>
-<td>sele</td>
+<td><i>sele</i></td>
 <td>
 '<span>knife</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
 <td>Lukep</td>
-<td>sele</td>
+<td><i>sele</i></td>
 <td>
 '<span>machete</span>'</td>
 </tr>
 <tr>
 <td>NCal</td>
 <td>Nengone</td>
-<td>hele</td>
+<td><i>hele</i></td>
 <td>
 '<span>knife</span>'</td>
 </tr>
@@ -3848,7 +3882,11 @@ Although the following Admiralties set bears a superficial similarity to the CP 
 
 Obsidian, glass-hard volcanic stone found on Lou Island (Admiralties), on Fergusson Island in the D'Entrecasteaux group, at Talasea (Willaumez Peninsula of New Britain) and Banks Island, Vanuatu, and, from its traces in excavated Lapita sites, a much sought-after trade item among early Oceanic speakers, serves as a fine cutting edge. POc _&ast;nad(r)i_ is reconstructable, although in places it refers only to hard stone (with a cutting edge?). _&ast;qa(r,R)iŋ_ is reconstructable only for PWOc. Reflexes of POc &ast;koto refer to a variety of uses of the material and suggest that its primary meaning was 'obsidian cutting edge':
 
-Figure 11: POc _&ast;nad(r)i_ 'flint, obsidian, stone with a cutting edge'; POc &ast;koto 'obsidian knife or blade'
+<a id="fig-11"> </a>
+
+![Figure 11: POc _&ast;nad(r)i_ 'flint, obsidian, stone with a cutting edge'; POc &ast;koto 'obsidian knife or blade'](../../raw/vol1/maps/fig_11.png)
+
+
 
 
 <a id="p-93"></a>
@@ -4059,7 +4097,7 @@ A group of eastern Polynesian languages have a term for obsidian probably derive
 
 4.4. 1. 4 Awl
 
-MUlti-purpose piercing tools may have been carried, fashioned from bone, perhaps a pig's femur. These were useful for piercing shells, splitting fibres for weaving, splitting areca nuts, separating coconut meat from its shell and such daily activities. They were probably also used to pierce earlobes and the nasal septum. [Green](../references.md#source-Green1979) ([1979](../references.md#source-Green1979):39) lists a worked pig-tusk piercing tool from the Main Reef Islands, circa 1100 B.C. Reconstructions appear primarily verbal, with a term for the instrument sometimes derivable from the verb. They include  POc _&ast;puru(k)_, _&ast;puruk-i-_ 'pierce, bore (hole)', POc _&ast;buru_ 'bore a hole, drill'; PWOc _&ast;bʷaR(i,e)_ 'bore (hole)'; and PEOc _&ast;paRo_ 'drill through, pierce, perforate' (see [Chapter 9, §4.2](chapter9.md#s-4-2), for the cognate sets).
+MUlti-purpose piercing tools may have been carried, fashioned from bone, perhaps a pig's femur. These were useful for piercing shells, splitting fibres for weaving, splitting areca nuts, separating coconut meat from its shell and such daily activities. They were probably also used to pierce earlobes and the nasal septum. [Green](../references.md#source-Green1979) ([1979](../references.md#source-Green1979):39) lists a worked pig-tusk piercing tool from the Main Reef Islands, circa 1100 B.C. Reconstructions appear primarily verbal, with a term for the instrument sometimes derivable from the verb. They include  POc _&ast;puru(k)_, _&ast;puruk-i-_ 'pierce, bore (hole)', POc _&ast;buru_ 'bore a hole, drill'; PWOc _&ast;bʷaR(i,e)_ 'bore (hole)'; and PEOc _&ast;paRo_ 'drill through, pierce, perforate' (see Chapter 9, §4.2, for the cognate sets).
 
 
 <a id="p-94"></a>
@@ -4330,14 +4368,14 @@ cf. also:
 <tr>
 <td>PT</td>
 <td>Motu</td>
-<td>riri</td>
+<td><i>riri</i></td>
 <td>
 '<span>grate (yams +)</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
 <td>Takia</td>
-<td>riri</td>
+<td><i>riri</i></td>
 <td>
 '<span>grate, pulverise by rubbing against s.t. rough; rasp</span>'</td>
 </tr>
@@ -4346,16 +4384,18 @@ cf. also:
 
 Both _&ast;kiri_ and _&ast;giri_ are reconstructable, the latter perhaps a verb from _&ast;N-kiri_; the Polynesian reflexes are attributable to either.
 
-The same terms may have also been used to describe the actions of smoothing and polishing. The Polynesians, in particular, were concerned to produce a fine finish to their artefacts by rubbing. Beaglehole wrote of the Tahitians, "All their [wood] work however acquires a certain neatness in the finishing for they polish every thing, even the side of a canoe or a Post of a house, with Coral sand rubbed on in the outer husk of a Cocoa nut and rays skin, which makes them very smooth and neat." (quoted in [Oliver 1974](../references.md#source-Oliver1974): 134). The general term for this may have been POc &ast;quju(r) 'rub, make smooth by rubbing' (see [Ch.9, §2.3](chapter9.md#s-2-3)). In at least one language (Woleaian in Micronesia) the term for a file is the same term as that for stingray (_faiya_ > PAn _&ast;paRis_ 'stingray'), the skin of which serves as a fine abrasive.
+The same terms may have also been used to describe the actions of smoothing and polishing. The Polynesians, in particular, were concerned to produce a fine finish to their artefacts by rubbing. Beaglehole wrote of the Tahitians, "All their [wood] work however acquires a certain neatness in the finishing for they polish every thing, even the side of a canoe or a Post of a house, with Coral sand rubbed on in the outer husk of a Cocoa nut and rays skin, which makes them very smooth and neat." (quoted in [Oliver 1974](../references.md#source-Oliver1974): 134). The general term for this may have been POc &ast;quju(r) 'rub, make smooth by rubbing' (see Ch. 9, §2.3). In at least one language (Woleaian in Micronesia) the term for a file is the same term as that for stingray (_faiya_ > PAn _&ast;paRis_ 'stingray'), the skin of which serves as a fine abrasive.
 
 
 <a id="s-5"></a>
+
 ## 5. Bark-cloth, clothing, body decoration
 
 
 
 <a id="s-5-1"></a>
-## 5.1. Bark-cloth (_tapa_)
+
+### 5.1. Bark-cloth (_tapa_)
 
 
 The material used to make bark-cloth or tapa in the Pacific area is obtained mainly from various species of trees belonging to the genera Broussonetia, Artocarpus, and Ficus, all of which belong to the family Moraceae. Wherever _tapa_ was made, the Broussonetia papyrijera or paper mulberry tree was used for the highest quality cloth. It is not native to the Pacific, but to eastern Asia, whence migrants carried it to Indonesia and the Pacific. The only other significant source is the Pipturus species, used for _tapa_ particularly in Hawaii ([Kooijman 1972](../references.md#source-Kooijman1972): 1).
@@ -4365,7 +4405,11 @@ The material used to make bark-cloth or tapa in the Pacific area is obtained mai
 
 Bark-cloth is a significant item in Indonesia and in the eastern Oceanic region, particularly Polynesia, but also Santa Cruz, New Caledonia and Fiji. However, it does not feature strongly in the western Oceanic region. Ivens wrote (1918: 186) that although bark-cloth (_tapa_) was made in Melanesia, it never figured as an article of clothing, and its main use was to form a kind of shawl in which the baby was slung when carried from the shoulder. Ivens was probably speaking from a Solomons perspective. [Kooijman](../references.md#source-Kooijman1972) ([1972](../references.md#source-Kooijman1972):446) quotes reports by Chalmers and Gill (1885) which mention bark-cloth from Collingwood Bay and the Gulf of Papua (both PT); while in the Northern Province of south-east Papua, for instance, bark-cloth is a prestigious valuable. In parts of New Britain it was used to bind the heads of young babies to achieve the desired elongated skull shape (Ann Chowning, pers.comm.). Kooijman (pp.446-453) points out that the descriptions of the manufacture of New Guinea bark-cloth and the study of the museum material indicate that, as a rule, this _tapa_ is relatively thick and stiff and made from Ficus and Artocarpus varieties, rather than from Broussonetia. He believes that the latter was probably not used for _tapa_ cloth in New Guinea. He records little mention of bark-cloth use in Micronesia, other than the wearing of _tapa_ ponchos in Ponape. [Yen](../references.md#source-Yen1973) ([1973](../references.md#source-Yen1973):83), in his examination of the origins of Oceanic agriculture, describes the cultivation of paper mulberry, as a pruned shrub for the production of bark for cloth, as ceasing west of the Melanesia/Polynesia border area.
 
-Figure 12: POc &ast;ike 'tapa beater'
+<a id="fig-12"> </a>
+
+![Figure 12: POc &ast;ike 'tapa beater'](../../raw/vol1/maps/fig_12.png)
+
+
 
 Although terms can be located in WOc, none are cognate, and no POc term is reconstructable, apart from terms for the sources of raw material, POc _&ast;(m,mʷ)ase_ 'wild mulberry, paper mulberry, 'Broussonetia papyrijera' POc _&ast;kuluR_ 'breadfruit, Artocarpus' (from PAn _&ast;kuluR_) and POc _&ast;nunu(k)_ (from PMP _&ast;nunuk_ 'banyan, Ficus spp.') (see Plants, vol. 3).
 
@@ -4417,14 +4461,14 @@ cf. also:
 <tr>
 <td>SES</td>
 <td>Arosi</td>
-<td>ʔaba</td>
+<td><i>ʔaba</i></td>
 <td>
 '<span>wing, limb; leaf (of banana +)</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
 <td>Lau</td>
-<td>ʔaba</td>
+<td><i>ʔaba</i></td>
 <td>
 '<span>hand, arm, wing; leaf, frond, cloth; portion, part</span>'; '<span>wing, hand, arm, foreleg</span>'</td>
 </tr>
@@ -4482,9 +4526,9 @@ A number of reconstructions have been made at PCP or PPn level, but the similari
 The only term reconstructable for the Southeast Solomons is apparently limited to the island of Malaita.
 
 ```
-SES:    Lau                maku    'bark-cloth'
-SES:    Kwaio              maku    'bark-cloth'
-SES:    'Are'are           maku    'cloth for married women, a fringe of string or a piece of pandanus worn in front and behind, not around the hips'
+    SES:    Lau                maku    'bark-cloth'
+    SES:    Kwaio              maku    'bark-cloth'
+    SES:    'Are'are           maku    'cloth for married women, a fringe of string or a piece of pandanus worn in front and behind, not around the hips'
 ```
 
 We have a reconstruction for the mallet used in beating _tapa_ which goes back as far as PMP:
@@ -4554,11 +4598,12 @@ We have a reconstruction for the mallet used in beating _tapa_ which goes back a
 
 
 
-[Biggs](../references.md#source-Biggs1993) ([1993](../references.md#source-Biggs1993)) has PPn reconstructions for the action of beating _tapa_ (_&ast;tutu_), and the board or anvil on which this was done (_&ast;tutua_). Both terms are derived from PAn _&ast;tuqtuq_ 'hammer, pound, crush ', POc _&ast;tutuk_ (see [Ch.9, §5.1](chapter9.md#s-5-1)). It is of interest that the Toradja of central Sulawesi also have a term _totua_ for the wooden board on which the bark-cloth is beaten ([Kennedy 1934](../references.md#source-Kennedy1934)).
+[Biggs](../references.md#source-Biggs1993) ([1993](../references.md#source-Biggs1993)) has PPn reconstructions for the action of beating _tapa_ (_&ast;tutu_), and the board or anvil on which this was done (_&ast;tutua_). Both terms are derived from PAn _&ast;tuqtuq_ 'hammer, pound, crush ', POc _&ast;tutuk_ (see Ch. 9, §5.1). It is of interest that the Toradja of central Sulawesi also have a term _totua_ for the wooden board on which the bark-cloth is beaten ([Kennedy 1934](../references.md#source-Kennedy1934)).
 
 
 <a id="s-5-2"></a>
-## 5.2. Clothing
+
+### 5.2. Clothing
 
 
 Over the region as a whole there is enormous variation in the degree and nature of body covering in these areas. [Chowning](../references.md#source-Chowning1991) ([1991](../references.md#source-Chowning1991): 46) points out that "although ornaments were worn everywhere, clothes were not; for example, in parts of the Bismarck Archipelago both sexes wore nothing. In others, as Nakanai and part of Kove, only women wore clothing." Where clothing was worn, bark-cloth was undoubtedly the most substantial wearable material. Leaves, and to a lesser extent, grass, were used to fashion skirts, aprons and G-strings.
@@ -4838,11 +4883,12 @@ A term found only on the island of New Guinea is:
 
 
 
-POc _&ast;kaput_ and POc _&ast;kopu_ have been mentioned in relation to the wrapping of food before oven cooking (see [Ch.6, §3.7](chapter6.md#s-3-7)), although both are believed to have more general reference (_&ast;kaput_ 'wrap up, cover', _&ast;kopu_ 'bundle up together'). It would seem that in Polynesia their reflexes have also come to apply to the covering of the body, PPn _&ast;kafu_ 'spread over, cover the body (with a blanket)' PPn _&ast;kofu_ 'wrap up; clothing'.
+POc _&ast;kaput_ and POc _&ast;kopu_ have been mentioned in relation to the wrapping of food before oven cooking (see Ch. 6, §3.7), although both are believed to have more general reference (_&ast;kaput_ 'wrap up, cover', _&ast;kopu_ 'bundle up together'). It would seem that in Polynesia their reflexes have also come to apply to the covering of the body, PPn _&ast;kafu_ 'spread over, cover the body (with a blanket)' PPn _&ast;kofu_ 'wrap up; clothing'.
 
 
 <a id="s-5-3"></a>
-## 5.3. Paint, smear, anoint
+
+### 5.3. Paint, smear, anoint
 
 
 The practice of rubbing oil or grease on the body is known throughout the region, coconut and candlenut oil being favoured, rather than the pig fat used in the Highlands. The practice of painting red, yellow, black or white designs on the face and body with clay, lime etc. is found mainly in Melanesia. POc _&ast;lumu(k)_ most probably refers to oil. POc _&ast;pani_ would seem to cover both oiling and painting. Reflexes of POc _&ast;lumut_ 'seaweed' and _&ast;lumu(k)_ 'oil' coincide in several SES languages, so the 'Are'are term appears to be a blend of the two meanings, the idea of anointing with oil presumably introduced with Christianity.
@@ -4902,7 +4948,7 @@ cf. also:
 <tr>
 <td>SES</td>
 <td>'Are'are</td>
-<td>ruma</td>
+<td><i>ruma</i></td>
 <td>
 '<span>oil, grease from pigs and coconuts, rubbed on the body to make it shiny</span>'</td>
 </tr>
@@ -4997,14 +5043,14 @@ cf. also:
 <tr>
 <td>MM</td>
 <td>Roviana</td>
-<td>davala</td>
+<td><i>davala</i></td>
 <td>
 '<span>blacken the teeth with a mixture of Terrninalia leaf, oil etc.</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
 <td>Sa'a</td>
-<td>taha</td>
+<td><i>taha</i></td>
 <td>
 '<span>pigment made from river rock, used in teeth-blackening</span>'</td>
 </tr>
@@ -5015,10 +5061,11 @@ A second reconstruction is PSS _&ast;ogo_ 'tooth-blackening powder' (Lau _ago_, 
 
 
 <a id="s-5-4"></a>
-## 5.4. Tattooing
+
+### 5.4. Tattooing
 
 
-[Chowning](../references.md#source-Chowning1991) ([1991](../references.md#source-Chowning1991): 48) points out that tattooing in New Guinea has only limited distribution, tending to be confined to people with relatively light skin. "Where it was practised, methods ranged from the cutting of fine lines with obsidian, after which pigment was rubbed in, to the use of special implements. Darker-skinned people practised ornamental cicatrisation." Although no POc reconstruction has been made for the activity, reflexes of POc _&ast;saRum_ (see [§3.2.1](#s-3-2)) indicate that a tattooing needle of bat's bone was known in both eastern and western Oceanic as well as the Admiralties. In the east Oceanic region tattooing is widespread. It was practised most extensively and reached its highest artistic development in Polynesia. A needle of bat or bird bone was tapped repetitively with a mallet, and a dye, probably of vegetable origin, rubbed into the punctured area. (Maoris used a dye made from the oily smoke of burning nut kernels. In Bellona the sap of the _ŋieemuŋii_ tree - Canarium herveyii - was collected, allowed to set, burnt and the carbon collected and scraped into a black powder ([Tickle 1977](../references.md#source-Tickle1977): 11)). A group of Samoic Outliers (Anuta, Luangiua, Takuu, Tikopia) use reflexes of PPn _&ast;matau_ 'axe' to refer to their tattooing chisel.
+[Chowning](../references.md#source-Chowning1991) ([1991](../references.md#source-Chowning1991): 48) points out that tattooing in New Guinea has only limited distribution, tending to be confined to people with relatively light skin. "Where it was practised, methods ranged from the cutting of fine lines with obsidian, after which pigment was rubbed in, to the use of special implements. Darker-skinned people practised ornamental cicatrisation." Although no POc reconstruction has been made for the activity, reflexes of POc _&ast;saRum_ (see §3.2.1) indicate that a tattooing needle of bat's bone was known in both eastern and western Oceanic as well as the Admiralties. In the east Oceanic region tattooing is widespread. It was practised most extensively and reached its highest artistic development in Polynesia. A needle of bat or bird bone was tapped repetitively with a mallet, and a dye, probably of vegetable origin, rubbed into the punctured area. (Maoris used a dye made from the oily smoke of burning nut kernels. In Bellona the sap of the _ŋieemuŋii_ tree - Canarium herveyii - was collected, allowed to set, burnt and the carbon collected and scraped into a black powder ([Tickle 1977](../references.md#source-Tickle1977): 11)). A group of Samoic Outliers (Anuta, Luangiua, Takuu, Tikopia) use reflexes of PPn _&ast;matau_ 'axe' to refer to their tattooing chisel.
 
 
 <a id="p-102"></a>
@@ -5170,7 +5217,8 @@ The kinds of designs used in tattooing, as on pottery and carved objects, and to
 
 
 <a id="s-5-5"></a>
-## 5.5. Ornaments
+
+### 5.5. Ornaments
 
 
 [Chowning](../references.md#source-Chowning1991) ([1991](../references.md#source-Chowning1991): 47) describes the situation in the New Guinea area:
@@ -5200,7 +5248,11 @@ The kinds of designs used in tattooing, as on pottery and carved objects, and to
 
 
 
-Figure 13: POc _&ast;bara_ 'plaited cane armlet' (from [Nevermann 1934](../references.md#source-Nevermann1934): 151)
+<a id="fig-13"> </a>
+
+![Figure 13: POc _&ast;bara_ 'plaited cane armlet' (from [Nevermann 1934](../references.md#source-Nevermann1934): 151)](../../raw/vol1/maps/fig_13.png)
+
+
 
 [Spriggs](../references.md#source-Spriggs1997a) ([1997a](../references.md#source-Spriggs1997a): 88) lists the distinctive range of shell ornaments recovered from Lapita sites such as Eloaua in the Admiralties, Balof (New Ireland) and Arawe Islands south-west of New Britain. They include Conus shell rectangular units, beads, rings and disks, Tridacna rings, Spondylus beads and long units and Trochus armrings. Reconstructions have been possible for armlets, pearlshell ornaments, ear decorations and for the act of stringing together a necklace.
 
@@ -5366,14 +5418,14 @@ cf. also:
 <tr>
 <td>PT</td>
 <td>Molima</td>
-<td>sapi-sapi</td>
+<td><i>sapi-sapi</i></td>
 <td>
 '<span>large red shell discs sewn to belt</span>'</td>
 </tr>
 <tr>
 <td>PT</td>
 <td>Muyuw</td>
-<td>lap</td>
+<td><i>lap</i></td>
 <td>
 '<span>red discs in string of veigun (shell wealth)</span>'</td>
 </tr>
@@ -5513,7 +5565,11 @@ We have not reconstructed a word for 'necklace', but we can reconstruct the verb
 
 4.5.5. 1 Comb
 
-Figure 14: POc _&ast;saRu_ 'comb'
+<a id="fig-14"> </a>
+
+![Figure 14: POc _&ast;saRu_ 'comb'](../../raw/vol1/maps/fig_14.png)
+
+
 
 POc inherited _&ast;saRu_ 'comb' from PMP. However, Remote Oceanic reflexes reflect _&ast;seru_, and this discrepancy suggests that a borrowing must have occurred at some stage during the Oceanic dispersal.
 
@@ -5677,6 +5733,7 @@ Blust reconstructs PMP _&ast;suat_ 'k.o. comb', a root which seems to have survi
 
 
 <a id="s-6"></a>
+
 ## 6. Instruments of communication and music
 
 
@@ -5686,7 +5743,8 @@ Other musical instruments mentioned in the ethnographic literature include Jew's
 
 
 <a id="s-6-1"></a>
-## 6.1. Conch shell trumpet
+
+### 6.1. Conch shell trumpet
 
 
 <table>
@@ -5779,13 +5837,18 @@ Other musical instruments mentioned in the ethnographic literature include Jew's
 
 <a id="p-107"></a>
 
-Figure 15: POc _&ast;tapuRi(q)_ 'triton shell trumpet' (from [Nevermann 1933](../references.md#source-Nevermann1933):218) POc _&ast;kauR_ 'bamboo wind instrument'
+<a id="fig-15"> </a>
+
+![Figure 15: POc _&ast;tapuRi(q)_ 'triton shell trumpet' (from [Nevermann 1933](../references.md#source-Nevermann1933):218) POc _&ast;kauR_ 'bamboo wind instrument'](../../raw/vol1/maps/fig_15.png)
+
+
 
 In Polynesia the triton shell trumpet is generally known as _puu_, an onomatopaeic word which in many languages is associated with concepts of blowing.
 
 
 <a id="s-6-2"></a>
-## 6.2. Bamboo flute
+
+### 6.2. Bamboo flute
 
 
 Reflexes of POc _&ast;upi_/_&ast;ipu_ 'blow' or compounds containing it, commonly refer to either the playing of wind instruments or the wind instruments themselves. It is of interest that terms for panpipes from the sets below are limited to the Southeast Solomons. We have no POc reconstruction specifically for panpipes.
@@ -5968,7 +6031,8 @@ Reflexes of POc _&ast;upi_/_&ast;ipu_ 'blow' or compounds containing it, commonl
 
 
 <a id="s-6-3"></a>
-## 6.3. Hourglass or kundu drum
+
+### 6.3. Hourglass or kundu drum
 
 
 
@@ -5976,7 +6040,11 @@ Reflexes of POc _&ast;upi_/_&ast;ipu_ 'blow' or compounds containing it, commonl
 
 This relatively small drum, easily carried, is of wood, with the end covered in (lizard) skin. [Chowning](../references.md#source-Chowning1991) ([1991](../references.md#source-Chowning1991): 59) has noted that on the north coast of New Guinea and in some parts of west New Britain the name for the instrument is suspiciously close to the word for 'monitor lizard' (Sengseng _pahiyo_ 'drum', _apahiya_ 'lizard'). Drumming is produced with the hand, and typically accompanies dances. [Ivens](../references.md#source-Ivens1927) ([1927](../references.md#source-Ivens1927) (reissued 1972): 169) reports that "a true drum of wood with skin stretched over it, such as is used in New Guinea and Torres Straits, is not found on Mala [Malaita] and Ulawa".
 
-Figure 16: POc &ast;kude 'hourglass drum'
+<a id="fig-16"> </a>
+
+![Figure 16: POc &ast;kude 'hourglass drum'](../../raw/vol1/maps/fig_16.png)
+
+
 
 <table>
 <tr>
@@ -6030,7 +6098,8 @@ The alternation in gloss between the two kinds of drum is probably due to the te
 
 
 <a id="s-6-4"></a>
-## 6.4. Slitgong
+
+### 6.4. Slitgong
 
 
 Slitgongs are carved from logs hollowed through a longitudinal slit, and beaten on one side of the lip, usually with a single heavy stick. They are often played in unison, with different logs producing different notes. The sound can carry over considerable distances and can be used to convey simple messages, summon villagers, announce a feast or the death of someone of rank and so on ([Blackwood 1935](../references.md#source-Blackwood1935): 409). They are large and heavy, often ornately carved, and will normally survive for many years. They are almost always used horizontally. In the entire Oceanic region, upright gongs, standing on their own, are found only in central Vanuatu ([Crowe 1996](../references.md#source-Crowe1996): 147). In southern Malaita (SES), somewhat smaller wooden gongs are placed on stands and played in sets of three, loosely described as soprano, tenor and bass. These are beaten with short sections of sago bark branches, pithy and soft ([Ivens 1927](../references.md#source-Ivens1927) (reissued 1972): 169).
@@ -6237,7 +6306,8 @@ Although words for musical instruments are candidates for borrowing, the fact th
 
 
 <a id="s-6-5"></a>
-## 6.5. Jew's-harp
+
+### 6.5. Jew's-harp
 
 
 <table>
@@ -6269,12 +6339,14 @@ Although words for musical instruments are candidates for borrowing, the fact th
 
 
 <a id="s-7"></a>
+
 ## 7. Other artefacts
 
 
 
 <a id="s-7-1"></a>
-## 7.1. Broom
+
+### 7.1. Broom
 
 
 <table>
@@ -6481,56 +6553,56 @@ cf. also:
 <tr>
 <td>SES</td>
 <td>Arosi</td>
-<td>ma-sara</td>
+<td><i>ma-sara</i></td>
 <td>
 '<span>burnt-off garden</span>'</td>
 </tr>
 <tr>
 <td>Fij</td>
 <td>Bauan</td>
-<td>ðara</td>
+<td><i>ðara</i></td>
 <td>
 '<span>clear a walk of rubbish</span>'</td>
 </tr>
 <tr>
 <td>Fij</td>
 <td>Bauan</td>
-<td>ðara-ðara</td>
+<td><i>ðara-ðara</i></td>
 <td>
 '<span>cleared, clean of weeds</span>'</td>
 </tr>
 <tr>
 <td>NCV</td>
 <td>Mota</td>
-<td>sara</td>
+<td><i>sara</i></td>
 <td>
 '<span>pass, draw along, sweep, be swept away</span>'</td>
 </tr>
 <tr>
 <td>NCV</td>
 <td>Nguna</td>
-<td>sara</td>
+<td><i>sara</i></td>
 <td>
 '<span>sweep</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
 <td>Sa'a</td>
-<td>sā-sala</td>
+<td><i>sā-sala</i></td>
 <td>
 '<span>be clear, not touching the ground</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
 <td>Tolai</td>
-<td>are</td>
+<td><i>are</i></td>
 <td>
 '<span>clear away</span>'</td>
 </tr>
 <tr>
 <td>Fij</td>
 <td>Wayan</td>
-<td>ðara</td>
+<td><i>ðara</i></td>
 <td>
 '<span>clear a garden (burn off dried vegetation) for planting</span>'</td>
 </tr>
@@ -6542,7 +6614,8 @@ cf. also:
 
 
 <a id="s-7-2"></a>
-## 7.2. Headrest
+
+### 7.2. Headrest
 
 
 Use of a wooden headrest as a pillow is widespread. Terms can be traced back to PMP:
@@ -6692,6 +6765,7 @@ Figure 18: POc _&ast;quluŋ-an_ 'wooden headrest' (from [Nevermann 1934](../refe
 
 
 <a id="s-8"></a>
+
 ## 8. Conclusions
 
 
@@ -6738,6 +6812,6 @@ One further point that can be made about POc artefacts is that at least some of 
 
 [^9]:  Seligman's work is an ethnography of the people who live in the region of Milne Bay, at the southeastern tip of mainland New Guinea. He does not specify language groups, but Wagawaga and Tubetube are among the languages spoken.
 
-[^10]: Cf. POc _&ast;ubi_/_&ast;ibu_ 'half coconut shell used as drinking cup' ([§2.2.2](#s-2-2)). It is possible that both _&ast;ubi_/_&ast;ibu_ and _&ast;upi_/_&ast;ipu_ were generated at the same time by the application of a single rule (or similar wordplay) to the pre-existing member of each pair.
+[^10]: Cf. POc _&ast;ubi_/_&ast;ibu_ 'half coconut shell used as drinking cup' (§2.2.2). It is possible that both _&ast;ubi_/_&ast;ibu_ and _&ast;upi_/_&ast;ipu_ were generated at the same time by the application of a single rule (or similar wordplay) to the pre-existing member of each pair.
 
 [^11]: See [Ross](../references.md#source-Ross1996c) ([1996c](../references.md#source-Ross1996c)) for more detail of these processes.

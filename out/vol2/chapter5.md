@@ -4,13 +4,15 @@ by Malcolm Ross
 
 
 <a id="s-1"></a>
+
 ## 1. Introduction
 
 
-The reconstruction of any terminology brings its own peculiar problems. In this case, the challenge was associated with the fact that meteorological conditions are not the same throughout the Austronesian speaking area. It is a necessary inference that as Austronesian speakers settled the regions they now occupy, they encountered new conditions which required adaptations in their terminology. Thus the meanings of the terms in a given language need to be related to the weather conditions which occur where the language is spoken. For this reason, [§2](#s-2) gives a short account of Pacific wind systems, while in [§3](#s-3) the weather patterns that Austronesian speakers encountered during their (largely eastward) migrations are described. Less trivially, a hypothesis about the semantic structure of POc speakers’ weather terminology must rest on a hypothesis about where POc was spoken — and the same is true of any protolanguage for which weather terms are reconstructed. My assumption here that POc was spoken in the Bismarck Archipelago. I return to this matter in the concluding section.[^1]
+The reconstruction of any terminology brings its own peculiar problems. In this case, the challenge was associated with the fact that meteorological conditions are not the same throughout the Austronesian speaking area. It is a necessary inference that as Austronesian speakers settled the regions they now occupy, they encountered new conditions which required adaptations in their terminology. Thus the meanings of the terms in a given language need to be related to the weather conditions which occur where the language is spoken. For this reason, §2 gives a short account of Pacific wind systems, while in §3 the weather patterns that Austronesian speakers encountered during their (largely eastward) migrations are described. Less trivially, a hypothesis about the semantic structure of POc speakers’ weather terminology must rest on a hypothesis about where POc was spoken — and the same is true of any protolanguage for which weather terms are reconstructed. My assumption here that POc was spoken in the Bismarck Archipelago. I return to this matter in the concluding section.[^1]
 
 
 <a id="s-2"></a>
+
 ## 2. Pacific wind systems
 
 
@@ -19,11 +21,19 @@ The main planetary surface wind system affecting tropical regions consists of th
 
 <a id="p-120"></a>
 
-Map 10: Prevailing winds in the Indian and Pacific Oceans during the southern hemisphere winter (July)
+<a id="map-10"> </a>
+
+![Map 10: Prevailing winds in the Indian and Pacific Oceans during the southern hemisphere winter (July)](../../raw/vol2/maps/map_10.png)
+
+
 
 Meteorological phenomena   121
 
-Map 11: Prevailing winds in the Indian and Pacific Oceans during the southern hemisphere summer (January)
+<a id="map-11"> </a>
+
+![Map 11: Prevailing winds in the Indian and Pacific Oceans during the southern hemisphere summer (January)](../../raw/vol2/maps/map_11.png)
+
+
 
 
 <a id="p-122"></a>
@@ -56,6 +66,7 @@ The main disruptions to the regime described above are the seasonal reversals of
 
 
 <a id="s-3"></a>
+
 ## 3. The Austronesian weather experience[^4]
 
 
@@ -77,27 +88,27 @@ When Austronesian speakers travelled eastwards, probably from Halmahera, and mov
 As the migrants emerged from the lee of the cordillera onto the Huon Peninsula and crossed to New Britain, two things occurred which presumably came to be reflected in POc terminology. First, they had left the monsoonal region behind them, and during the SHS they experienced the fairly windless rainy season of the ITCZ, with some sporadic northwesterly winds. Secondly they encountered for the first time the southeast trades of the SHW, during which the north coasts of the Huon Peninsula and of New Britain have their dry season, whilst their south coasts suffer torrential orographic rain ([Howlett 1967](../references.md#source-Howlett1967):36–38). As they later spread around the coasts and offshore islands of Papua New Guinea and into the Bismarck Archipelago and then the New Georgia group of the northwest Solomons, they continued to encounter this and other kinds of local variation, but the southeast trades always continued to be the prevailing winds.
 
 ```
-Table 3: Approximate summary of seasons in some Pacific locations
-Southern Hemisphere Winter              Southern Hemisphere Summer
+              Table 3: Approximate summary of seasons in some Pacific locations
+                                Southern Hemisphere Winter              Southern Hemisphere Summer
 Philippines                     southwest monsoon, wet season;           northeast trades, dry season,
-in centre and north some cyclones        orographic rain
+                                in centre and north some cyclones        orographic rain
 Sumatra, Borneo                 in north, southwest monsoon;             in north, northeast monsoon
-in south, southeast monsoon;             in south, northwest monsoon,
-humid wind and rain                      clouds and rain
+                                in south, southeast monsoon;             in south, northwest monsoon,
+                                humid wind and rain                      clouds and rain
 rest of Indonesia               southeast monsoon, dry season;           northwest monsoon,
-in west, some orographic rain            clouds and rain
+                                in west, some orographic rain            clouds and rain
 Manus Island, New Britain,      southeast trades,                        ITCZ
 Huon Peninsula, tip of Papua    heavy orographic rain                    convectional rain
 Papua New Guinea rest           southeast trades,                        ITCZ
-dry season                               convectional rain
+                                dry season                               convectional rain
 New Georgia group               southeast trades                         ITCZ
-heavy orographic rain                    convectional rain
+                                heavy orographic rain                    convectional rain
 rest of northwest Solomon       southeast trades                         ITCZ
 Islands                         dry season                               convectional rain
 southeast Solomon Islands,      southeast trades                         variable stormy weather
 Vanuatu, New Caledonia          dry season                               some cyclones
 Fiji                            southeast trades, dry season             variable stormy weather
-heavy orographic rain                    some cyclones
+                                heavy orographic rain                    some cyclones
 Tonga, Samoa, Wallis, Futuna,   southeast trades                         variable stormy weather
 Cooks, Tahiti, Tuamotus         dry season                               some cyclones
 Tuvalu, Tokelau, southern       southeast trades                         ITCZ
@@ -107,7 +118,7 @@ southern Marshalls              convectional rain                        convect
 northern Marshalls,             variable stormy weather                  northeast trades
 Carolines                                                                some rain
 Hawaii                          northeast trades                         northeast trades
-some orographic rain                     some orographic rain
+                                some orographic rain                     some orographic rain
 ```
 
 
@@ -121,12 +132,14 @@ In the sections below I set out my reconstructions of POc terms referring to and
 
 
 <a id="s-4"></a>
+
 ## 4. Winds
 
 
 
 <a id="s-4-1"></a>
-## 4.1. Wind and wind strengths
+
+### 4.1. Wind and wind strengths
 
 
 Winds seem to have been classified in two ways in POc. In this section I will present generic terms for wind and wind strengths, in the next section terms for seasonal winds and wind directions.
@@ -430,10 +443,10 @@ Three terms for winds of differing strengths are reconstructable. POc _&ast;jaŋ
 The terms below may also reflect POc _&ast;mur[i,e]_, but with a change in meaning.
 
 ```
-NNG: Amara           o-mur          ‘southeast trade’
-NNG: Bing            mur-mōriy      ‘wind which blows strongly from the west, often causing damage’
-PT:  Motu            miri(gini)     ‘north wind’
-PT:  Mekeo           mili(kini)     ‘north wind’
+ NNG: Amara           o-mur          ‘southeast trade’
+ NNG: Bing            mur-mōriy      ‘wind which blows strongly from the west, often causing damage’
+ PT:  Motu            miri(gini)     ‘north wind’
+ PT:  Mekeo           mili(kini)     ‘north wind’
 ```
 
 The Mangap, Motu and Mekeo terms have _-i-_ where _-u-_ is expected. This may reflect vowel assimilation.
@@ -955,10 +968,11 @@ The initial _p-_ of the Pn items reflects POc _&ast;b-_ or _&ast;pʷ-_: hence th
 
 
 <a id="s-4-2"></a>
-## 4.2. Seasonal winds
+
+### 4.2. Seasonal winds
 
 
-If POc speakers lived in the Bismarcks, then they encountered two seasons: the dry, when the southeast trades blew with reasonable consistency, and the wet, when there were sporadic northwesterly winds. The POc terms for the winds associated with these seasons were respectively _&ast;raki_ and _&ast;apaRat_. They may also have referred to the seasons, with typical weather and wind direction as inevitable components of their meanings, as well as having associations with navigability and agriculture. Modern uses of wind terms suggest strongly that they also served as terms for cardinal directions in POc, and that the two major wind directions were perhaps the only cardinal directions for POc speakers ([Ch.8, §1](chapter8.md#s-1)).
+If POc speakers lived in the Bismarcks, then they encountered two seasons: the dry, when the southeast trades blew with reasonable consistency, and the wet, when there were sporadic northwesterly winds. The POc terms for the winds associated with these seasons were respectively _&ast;raki_ and _&ast;apaRat_. They may also have referred to the seasons, with typical weather and wind direction as inevitable components of their meanings, as well as having associations with navigability and agriculture. Modern uses of wind terms suggest strongly that they also served as terms for cardinal directions in POc, and that the two major wind directions were perhaps the only cardinal directions for POc speakers (Ch. 8, §1).
 
 POc _&ast;raki_ ‘southeast trades’ has no obvious non-Oceanic cognates. This is hardly surprising. When Austronesian speakers came out of the lee of the New Guinea cordillera into the Bismarcks and encountered the southeast trades of the SHW and the attendant dry season, they met what was for them a new phenomenon. The only part of Indonesia with a similar season is in the southeast in the area around Timor, where the southeast monsoon brings a dry season. But it is unlikely that people ancestral to Oceanic speakers migrated via that area.
 
@@ -1453,21 +1467,21 @@ Related forms also occur in Southeast Solomonic and Micronesian languages, but a
 <a id="p-135"></a>
 
 ```
-SES: Arosi                worosi             ‘northwest gale’
-SES: ’Are’are             awarosi            ‘the northwest wind’
-SES: Sa’a                 awalosi            ‘northwest wind’
+ SES: Arosi                worosi             ‘northwest gale’
+ SES: ’Are’are             awarosi            ‘the northwest wind’
+ SES: Sa’a                 awalosi            ‘northwest wind’
 ```
 
 The Micronesian forms are odd in two ways. Firstly, if sound correspondences are applied to infer their putative POc ancestor, the result is _&ast;&ast;barat[a]_, a form which is certainly not POc, but which is consistent with an early borrowing from a WMP language, perhaps a Philippine language. Its initial _&ast;b-_ and final _&ast;-t_ reflect the corresponding phonemes of PMP _&ast;habaRat_. Certain Philippine languages also reflect PMP _&ast;habaRat-an_ with the locative suffix _&ast;-an_, e.g. Cebuano _habagatan_ ‘southwest’, and the suffix may be the source of the final _-a_ of Trukic and Woleaian forms. Secondly, the forms mean ‘(northeast) trade wind’, not, as we might here expect, something like ‘southwest storm wind’:
 
 ```
-Mic: Ponapean           (nan-)par    ‘tradewind season’
-Mic: Proto Trukic       &ast;parata      ‘tradewind’
-Mic: L. Mortlockese     paras        ‘rain that comes in due to wind’
-Mic: Woleaian           paẓasa       ‘tradewind’
+ Mic: Ponapean           (nan-)par    ‘tradewind season’
+ Mic: Proto Trukic       &ast;parata      ‘tradewind’
+ Mic: L. Mortlockese     paras        ‘rain that comes in due to wind’
+ Mic: Woleaian           paẓasa       ‘tradewind’
 ```
 
-Blust (ACD) takes it that PMP _&ast;habaRat_ ‘southwest monsoon season, wet season’ formed a pair with PMP _&ast;timuR_, implying that the latter referred to the northeast trades and the dry season. However, such a pairing seems to have arisen among the WMP languages of Indonesia, where reflexes of _&ast;habaRat_ mean ‘west’ and of _&ast;timuR_ ‘east’. In Philippine languages, where we might expect the PMP sense to be retained, reflexes of _&ast;timuR_ refer to a south or east wind, but not a monsoonal wind. (The PMP term for northeast trades seems to have been _&ast;qamíh-an_,[^8] lost when Austronesian speakers crossed into the southern hemisphere.) PMP _&ast;timuR_ also has reflexes in Oceanic languages, and POc _&ast;timu(R)_ seems to have meant ‘wind bringing light rain’. In Papuan Tip languages forms which appear to reflect _&ast;timu(R)_ have undergone a curious semantic shift and now mean ‘island’ ([Ch.3, §2.2](chapter3.md#s-2-2)). Relevant data are listed below.
+Blust (ACD) takes it that PMP _&ast;habaRat_ ‘southwest monsoon season, wet season’ formed a pair with PMP _&ast;timuR_, implying that the latter referred to the northeast trades and the dry season. However, such a pairing seems to have arisen among the WMP languages of Indonesia, where reflexes of _&ast;habaRat_ mean ‘west’ and of _&ast;timuR_ ‘east’. In Philippine languages, where we might expect the PMP sense to be retained, reflexes of _&ast;timuR_ refer to a south or east wind, but not a monsoonal wind. (The PMP term for northeast trades seems to have been _&ast;qamíh-an_,[^8] lost when Austronesian speakers crossed into the southern hemisphere.) PMP _&ast;timuR_ also has reflexes in Oceanic languages, and POc _&ast;timu(R)_ seems to have meant ‘wind bringing light rain’. In Papuan Tip languages forms which appear to reflect _&ast;timu(R)_ have undergone a curious semantic shift and now mean ‘island’ (Ch. 3, §2.2). Relevant data are listed below.
 
 <table>
 <tr>
@@ -1861,9 +1875,9 @@ POc _&ast;tokalau(r)_ ‘(?) northerly wind’ reflects two PMP morphemes, as [D
 POc may also have inherited a semantically related term _&ast;toŋa-laur_, reflected in the items below and apparently denoting a northwesterly wind.[^9]
 
 ```
-MM: Roviana         toŋa-rauru     ‘wind from direction of Lauru (approx north to northwest)’
-NCV: Mota           toŋa-lau       ‘northwest wind’
-NCV: Raga           toŋa-lau       ‘wind from direction of Ambae, i.e. northwest wind’
+  MM: Roviana         toŋa-rauru     ‘wind from direction of Lauru (approx north to northwest)’
+  NCV: Mota           toŋa-lau       ‘northwest wind’
+  NCV: Raga           toŋa-lau       ‘wind from direction of Ambae, i.e. northwest wind’
 ```
 
 This term seems to contain the morpheme _&ast;toŋa_ (cf. PPn _&ast;toŋa_ ‘southeasterly quadrant, southeast wind’ above), implying its existence in POc, even though its POc meaning remains unknown. It is perhaps also reflected in Gela _sau-toŋa_ ‘north wind’, where _sau_ reflects POc _&ast;sau_ ‘breeze’. However, caution is necessary here: it is possible that the three terms above simply reflect a sporadic sound change in POc _&ast;tokalau(r)_ ‘(?) northerly wind’.
@@ -2155,21 +2169,22 @@ The terms I have reconstructed above refer to wind directions and to seasons, so
 <a id="p-140"></a>
 
 ```
-NNG: Kove               hai              ‘southeast trade, year’
-NNG: Bariai             rai              ‘year’
-NNG: Lukep              rai              ‘year’
-Mic: Woleaian           ẓaxi             ‘year, age, summer season’
+ NNG: Kove               hai              ‘southeast trade, year’
+ NNG: Bariai             rai              ‘year’
+ NNG: Lukep              rai              ‘year’
+ Mic: Woleaian           ẓaxi             ‘year, age, summer season’
 ```
 
 — whilst the two below reflect POc _&ast;apaRat_ ‘northwest wind’:
 
 ```
-MM: Barok             awat            ‘year’
-MM: Siar              yahrat          ‘year’
+ MM: Barok             awat            ‘year’
+ MM: Siar              yahrat          ‘year’
 ```
 
 
 <a id="s-5"></a>
+
 ## 5. The weather
 
 
@@ -2499,7 +2514,8 @@ PWOc _&ast;siwaRop_/_&ast;niwaRop_ ‘calm, peaceful’ may well have expressed 
 
 
 <a id="s-5-2"></a>
-## 5.2. The sky and clouds
+
+### 5.2. The sky and clouds
 
 
 The locus of much of the weather was of course POc _&ast;laŋit_, the sky, and there are a few signs that this word also had something of the sense of English ‘weather’, in some languages coming to refer to a particular form of weather. The sky was also very important in the context of navigation (p.157). POc _&ast;laŋit_ was also used as a local noun meaning ‘up above’ (p.235).
@@ -3216,9 +3232,9 @@ The items below—POc _&ast;kapu(t)_/_&ast;kopu_ ‘low cloud, mist, fog’ and 
 The Bali and Fijian forms below are problematic, as they reflect POc &ast;kabu(t), not &ast;kapu(t)
 
 ```
-MM: Vitu             ɣabu-ɣabu     ‘fog’
-Fij:    Bauan        kabu          ‘mist’
-Fij:    Wayan        kabu          (N) ‘mist, haze, fog’; (V) ‘be covered in cloud, mist, fog’
+ MM: Vitu             ɣabu-ɣabu     ‘fog’
+ Fij:    Bauan        kabu          ‘mist’
+ Fij:    Wayan        kabu          (N) ‘mist, haze, fog’; (V) ‘be covered in cloud, mist, fog’
 ```
 
 It seems likely that &ast;kopu already occurred in POc as a doublet of _&ast;kapu(t)_ resulting from assimilation of the rounding feature of the second vowel to that of the first. Such a change was once productive in both Rotuman and Tongan (Andrew Pawley, pers. comm.).
@@ -3404,7 +3420,8 @@ As if this were not already complicated enough, a further curiosity is the recon
 
 
 <a id="s-5-3"></a>
-## 5.3. Rain
+
+### 5.3. Rain
 
 
 The most widely reflected POc word for ‘rain’ (both verb and noun) is _&ast;qusan_. Also reconstructable are POc _&ast;[ka]dapuR_ ‘rain, rain cloud’ and PWOc _&ast;(rR)ugu_ ‘rain’. It is not known if _&ast;(rR)ugu_ differed in meaning from _&ast;qusan_, but _&ast;[ka]dapuR_ seems to have referred both to a rain cloud and to the rain it deposits.
@@ -3938,7 +3955,8 @@ For ‘dew’, a few reflexes of a PMP term occur.
 
 
 <a id="s-5-4"></a>
-## 5.4. Thunder and lightning
+
+### 5.4. Thunder and lightning
 
 
 I have reconstructed five separate terms for ‘lightning’. POc _&ast;qu(s,j)ila(k)_ seems to be the generic term for lightning, inherited from Proto Malayo-Polynesian. The glosses of reflexes of PNGOc _&ast;lamaR_ imply that this item may have referred to lightning and thunder together. The other three reconstructions are _&ast;pilak_ ‘lightning’, _&ast;pitik_ ‘lightning’, _&ast;la(p,pʷ)a(r,R)_ ‘lightning, phosphorescence’. Whilst these may have referred to different kinds of lightning (e.g. sheet and forked) is also possible that they were descriptive or metaphorical terms. It is reasonably clear, for example, that PNNG _&ast;kila(m,p)_ ‘lightning’ was a reflex of PMP _&ast;kila(p,b)_ ‘flash, sparkle’, (and that POc _&ast;qu(s,j)ila(k)_ ‘lightning’ reflects PMP _&ast;silak_ ‘beam of light’; cf. [Dempwolff 1938](../references.md#source-Dempwolff1938):153).
@@ -4708,6 +4726,7 @@ POc appears to have had two basic roots for thunder, _&ast;kuru_ and _&ast;pʷar
 
 
 <a id="s-6"></a>
+
 ## 6. Concluding remarks
 
 

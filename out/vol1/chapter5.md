@@ -4,6 +4,7 @@ by Osmond, M.
 
 
 <a id="s-1"></a>
+
 ## 1. Introduction
 
 
@@ -20,6 +21,7 @@ A considerable debt is owed to the unpublished 1983 thesis of Renwick French-Wri
 
 
 <a id="s-2"></a>
+
 ## 2. Background
 
 
@@ -36,6 +38,7 @@ Rarer techniques within what was still essentially a swidden system included til
 
 
 <a id="s-3"></a>
+
 ## 3. Land usage
 
 
@@ -43,7 +46,8 @@ For swidden agriculturalists, land could be classified in one of three ways - as
 
 
 <a id="s-3-1"></a>
-## 3.1. Garden
+
+### 3.1. Garden
 
 
 <table>
@@ -159,7 +163,7 @@ For swidden agriculturalists, land could be classified in one of three ways - as
 
 
 
-Three MM languages (Bulu, Kia and Roviana) reflect POc _&ast;q<in>uma_ <NOM> + 'garden' (on nominalisers, see [Ch.2, §3.2.1](chapter2.md#s-3-2)), suggesting perhaps that at least in the early MM linkage, _&ast;quma_ was a verb meaning 'make a garden ', _&ast;q<in>uma_ the product of that activity. The following item betrays a similar pattern.
+Three MM languages (Bulu, Kia and Roviana) reflect POc _&ast;q<in>uma_ <NOM> + 'garden' (on nominalisers, see Ch. 2, §3.2.1), suggesting perhaps that at least in the early MM linkage, _&ast;quma_ was a verb meaning 'make a garden ', _&ast;q<in>uma_ the product of that activity. The following item betrays a similar pattern.
 
 
 <a id="p-118"></a>
@@ -216,7 +220,8 @@ Three MM languages (Bulu, Kia and Roviana) reflect POc _&ast;q<in>uma_ <NOM> + '
 
 
 <a id="s-3-2"></a>
-## 3.2. Fallow land
+
+### 3.2. Fallow land
 
 
 <table>
@@ -283,7 +288,8 @@ Three MM languages (Bulu, Kia and Roviana) reflect POc _&ast;q<in>uma_ <NOM> + '
 
 
 <a id="s-3-3"></a>
-## 3.3. Uncultivated land
+
+### 3.3. Uncultivated land
 
 
 <table>
@@ -424,10 +430,11 @@ The Mussau and Tolo reflexes mean 'garden': this change of meaning is probably d
 
 
 <a id="s-4"></a>
+
 ## 4. Soil
 
 
-The meaning of earth as soil would seem to be the central meaning of POc _&ast;tanoq_ (cf. POc _&ast;panua_ whose extended meanings included (1) inhabited area or territory; (2) community together with its land and things on it; (3) land, not sea; see [Ch.3, §3.7](chapter3.md#s-3-7)).
+The meaning of earth as soil would seem to be the central meaning of POc _&ast;tanoq_ (cf. POc _&ast;panua_ whose extended meanings included (1) inhabited area or territory; (2) community together with its land and things on it; (3) land, not sea; see Ch. 3, §3.7).
 
 <table>
 <tr>
@@ -625,17 +632,19 @@ In some Central Pacific languages, reflexes of _&ast;gʷele_ carry a similar ran
 
 
 <a id="s-5"></a>
+
 ## 5. Preparation of ground
 
 
-New gardens are traditionally prepared along the following lines. First, the undergrowth and vines and small trees are cleared. Before the introduction of metal implements, this would have been done with a large digging stick used as a crowbar (§S.S) and perhaps a stone axe (POc _&ast;kiRam_, [Ch.4, §4.1.1](chapter4.md#s-4-1)), together with smaller cutting implements made of bamboo or shell. Large trees may be left standing, although branches may be lopped off to admit maximum sunlight. Alternatively, they may be slowly killed off by ringbarking or by burning rubbish heaped round their base. Debris is usually left to dry and then burnt, with the ashes fertilizing the soil. The ground can then be raked or picked over, and remaining rubbish removed, together with any weeds which have survived the burning.
+New gardens are traditionally prepared along the following lines. First, the undergrowth and vines and small trees are cleared. Before the introduction of metal implements, this would have been done with a large digging stick used as a crowbar (§S.S) and perhaps a stone axe (POc _&ast;kiRam_, Ch. 4, §4.1.1), together with smaller cutting implements made of bamboo or shell. Large trees may be left standing, although branches may be lopped off to admit maximum sunlight. Alternatively, they may be slowly killed off by ringbarking or by burning rubbish heaped round their base. Debris is usually left to dry and then burnt, with the ashes fertilizing the soil. The ground can then be raked or picked over, and remaining rubbish removed, together with any weeds which have survived the burning.
 
 
 <a id="s-5-1"></a>
-## 5.1. Clearing the land
+
+### 5.1. Clearing the land
 
 
-It seems from its reflexes that POc _&ast;quma_ meant 'clear land for a garden' ([§3.1](#s-3-1)). In addition, the following terms are reconstructable.
+It seems from its reflexes that POc _&ast;quma_ meant 'clear land for a garden' (§3.1). In addition, the following terms are reconstructable.
 
 <table>
 <tr>
@@ -881,7 +890,7 @@ cf. also:
 <tr>
 <td>Adm</td>
 <td>Baluan</td>
-<td>lolome(k)</td>
+<td><i>lolome(k)</i></td>
 <td>
 '<span>the communal activity of planting tubers</span>'(<a href="../references.md#source-Mceldowney1995">Mceldowney1995: 472</a>)
 </td>
@@ -928,7 +937,8 @@ cf. also:
 
 
 <a id="s-5-2"></a>
-## 5.2. Burning
+
+### 5.2. Burning
 
 
 The following reconstruction may refer particularly to the action of burning grass, undergrowth and debris. There are other burning terms more general in their application.
@@ -993,18 +1003,19 @@ cf. also:
 <tr>
 <td>SES</td>
 <td>Arosi</td>
-<td>togo</td>
+<td><i>togo</i></td>
 <td>
 '<span>make up a fire, set more wood on</span>'</td>
 </tr>
 </table>
 
 
-Reflexes of POc _&ast;tunu_ 'roast on embers or in fire; burn (grass +); make decorative cicatrices by burning the skin' ([Ch.6, §3.2](chapter6.md#s-3-2)) are commonly used in NNG and MM languages to refer to burning off land for clearing.
+Reflexes of POc _&ast;tunu_ 'roast on embers or in fire; burn (grass +); make decorative cicatrices by burning the skin' (Ch. 6, §3.2) are commonly used in NNG and MM languages to refer to burning off land for clearing.
 
 
 <a id="s-5-3"></a>
-## 5.3. Weeding
+
+### 5.3. Weeding
 
 
 <table>
@@ -1103,14 +1114,15 @@ Reflexes of POc _&ast;tunu_ 'roast on embers or in fire; burn (grass +); make de
 
 
 
-See also POc _&ast;puti-_ 'pick, pluck (feathers), pull out (weeds +)' ([Ch.9, §6.1](chapter9.md#s-6-1)).
+See also POc _&ast;puti-_ 'pick, pluck (feathers), pull out (weeds +)' (Ch. 9, §6.1).
 
 
 <a id="p-123"></a>
 
 
 <a id="s-5-4"></a>
-## 5.4. Digging
+
+### 5.4. Digging
 
 
 Both _&ast;kali_ and _&ast;keli_ are reconstructable for POc, and both apparently refer to digging as a general activity, including planting and digging up (tubers)[^3].
@@ -1290,63 +1302,63 @@ cf. also:
 <tr>
 <td>SES</td>
 <td>Arosi</td>
-<td>giri</td>
+<td><i>giri</i></td>
 <td>
 '<span>dig with a stick</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
 <td>Label</td>
-<td>kit</td>
+<td><i>kit</i></td>
 <td>
 </td>
 </tr>
 <tr>
 <td>SES</td>
 <td>Lau</td>
-<td>ʔili</td>
+<td><i>ʔili</i></td>
 <td>
 </td>
 </tr>
 <tr>
 <td>SV</td>
 <td>Lenakel</td>
-<td>il</td>
+<td><i>il</i></td>
 <td>
 </td>
 </tr>
 <tr>
 <td>NCV</td>
 <td>Lonwolwol</td>
-<td>kil</td>
+<td><i>kil</i></td>
 <td>
 '<span>dig, dig for</span>'</td>
 </tr>
 <tr>
 <td>Adm</td>
 <td>Mussau</td>
-<td>(ka)kaia</td>
+<td><i>(ka)kaia</i></td>
 <td>
 '<span>bury</span>'</td>
 </tr>
 <tr>
 <td>Adm</td>
 <td>Mussau</td>
-<td>kai</td>
+<td><i>kai</i></td>
 <td>
 </td>
 </tr>
 <tr>
 <td>MM</td>
 <td>Patpatar</td>
-<td>kit</td>
+<td><i>kit</i></td>
 <td>
 '<span>dig (with a stick)</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
 <td>Ramoaaina</td>
-<td>kit</td>
+<td><i>kit</i></td>
 <td>
 </td>
 </tr>
@@ -1424,7 +1436,7 @@ cf. also:
 <tr>
 <td>MM</td>
 <td>Vaghua</td>
-<td>sula</td>
+<td><i>sula</i></td>
 <td>
 '<span>dig</span>'</td>
 </tr>
@@ -1433,7 +1445,8 @@ cf. also:
 
 
 <a id="s-5-5"></a>
-## 5.5. Digging stick
+
+### 5.5. Digging stick
 
 
 Two kinds of digging stick may be physically differentiated - the longer, heavier version used to break up the surface of the soil, and the smaller dibble used to poke holes in the soil for planting. These are seldom, if ever, differentiated in word lists and it may be that most languages use the same term for both.
@@ -1491,17 +1504,18 @@ Two kinds of digging stick may be physically differentiated - the longer, heavie
 
 
 
-Note also Sengseng (NNG) _e-suk_ 'digging stick' and East Fijian _oukit-a_ (V) 'root, dig up or loosen the ground with a stick ', both reflexes of POc _&ast;(su)suk-i_ 'pierce, prick, sew' ([Ch.4, §3.2.1](chapter4.md#s-3-2)); also the Polynesian reflexes of POc _&ast;kojom_ 'husking stick' which refer to 'digging stick' ([Ch.6, §5.5](chapter6.md#s-5-5)).
+Note also Sengseng (NNG) _e-suk_ 'digging stick' and East Fijian _oukit-a_ (V) 'root, dig up or loosen the ground with a stick ', both reflexes of POc _&ast;(su)suk-i_ 'pierce, prick, sew' (Ch. 4, §3.2.1); also the Polynesian reflexes of POc _&ast;kojom_ 'husking stick' which refer to 'digging stick' (Ch. 6, §5.5).
 
 
 <a id="p-125"></a>
 
 
 <a id="s-6"></a>
+
 ## 6. Fence
 
 
-Great damage can be done to gardens wherever there are bush pigs or wallabies. Although wallabies are not found in the Solomons or places east, wild pigs are found throughout virtually all of Melanesia. In these places, preparation of a garden usually includes construction of a strong fence. In addition to POc _&ast;baRa_ 'fence, wall, enclosure' (see [Ch.3, §3.6](chapter3.md#s-3-6)), a term which evidently encompasses all kinds of fences and walls, there are several terms which may apply more specifically to garden enclosures made of logs or stakes.
+Great damage can be done to gardens wherever there are bush pigs or wallabies. Although wallabies are not found in the Solomons or places east, wild pigs are found throughout virtually all of Melanesia. In these places, preparation of a garden usually includes construction of a strong fence. In addition to POc _&ast;baRa_ 'fence, wall, enclosure' (see Ch. 3, §3.6), a term which evidently encompasses all kinds of fences and walls, there are several terms which may apply more specifically to garden enclosures made of logs or stakes.
 
 <table>
 <tr>
@@ -1690,6 +1704,7 @@ Ross Clark (pers.comm.) has pointed out that PPn _&ast;loto-qa_ is reconstructab
 
 
 <a id="s-7"></a>
+
 ## 7. Food plants[^5]
 
 
@@ -1803,12 +1818,14 @@ No garden is complete or likely to succeed without an abundance of colourful and
 
 
 <a id="s-8"></a>
+
 ## 8. Planting
 
 
 
 <a id="s-8-1"></a>
-## 8.1. Propagation material
+
+### 8.1. Propagation material
 
 
 Taro is propagated either by replanting the cut-off top of a tuber or by transplanting the suckers that grow around the 'mother' taro. Alternatively, these are simply left in the ground after the mature taro has been harvested. Reconstructed terms for this propagation material may refer to other plants in addition to taro. They are POc _&ast;(s,j)uli(q)_ 'banana or taro sucker, slip, cutting, shoot (i.e. propagation material)'; POc _&ast;wasi_ 'taro stem, used for planting'; POc _&ast;bʷaŋo_ 'taro tops, top shoots of areca nut, coconut' and POc _&ast;up(e,a)_ 'taro seedling'.
@@ -2280,7 +2297,8 @@ Ross suggests that this can probably be combined with the cognate set below.
 
 
 <a id="s-8-2"></a>
-## 8.2. Planting (tubers)
+
+### 8.2. Planting (tubers)
 
 
 Proto Oceanic _&ast;sopu_ referred to yam planting. This much is clear from the Muyuw and Gela glosses. It is impossible to know from the available reflexes, however, whether the activity referred to was specific or general.
@@ -2508,19 +2526,19 @@ cf. also:
 <tr>
 <td>Adm</td>
 <td>Mussau</td>
-<td>pasa</td>
+<td><i>pasa</i></td>
 <td>
 '<span>plant (s.t.)</span>'</td>
 </tr>
 </table>
 
 
-Other terms are reflexes of POc _&ast;(su)suk-i_ 'pierce, sew' ([Ch.9, §4.1](chapter9.md#s-4-1)):
+Other terms are reflexes of POc _&ast;(su)suk-i_ 'pierce, sew' (Ch. 9, §4.1):
 
 ```
-SES: Arosi               suʔi              'transplant, put in a seedling'
-NCV: Mota               sug               'dig up, transplant'
-Fij:  Bauan              ðuki              'dig up ground, loosen ground with a stick'
+ SES: Arosi               suʔi              'transplant, put in a seedling'
+ NCV: Mota               sug               'dig up, transplant'
+ Fij:  Bauan              ðuki              'dig up ground, loosen ground with a stick'
 ```
 
 <table>
@@ -2589,14 +2607,14 @@ cf. also:
 <tr>
 <td>MM</td>
 <td>Meramera</td>
-<td>danu</td>
+<td><i>danu</i></td>
 <td>
 (V) '<span>plant</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
 <td>Nakanai</td>
-<td>galu</td>
+<td><i>galu</i></td>
 <td>
 (v) '<span>plant</span>'</td>
 </tr>
@@ -2608,7 +2626,8 @@ cf. also:
 
 
 <a id="s-8-3"></a>
-## 8.3. Yam mound
+
+### 8.3. Yam mound
 
 
 [Barrau](../references.md#source-Barrau1955) ([1955](../references.md#source-Barrau1955): 56) describes cultivation of yams in Melanesia:
@@ -2685,7 +2704,8 @@ The following set suggests related reconstructions for 'mound up (earth) for yam
 
 
 <a id="s-8-4"></a>
-## 8.4. Sow (seed)
+
+### 8.4. Sow (seed)
 
 
 <table>
@@ -2722,12 +2742,14 @@ Only a single Oceanic reflex has been located for this reconstruction, from the 
 
 
 <a id="s-9"></a>
+
 ## 9. Growth stages
 
 
 
 <a id="s-9-1"></a>
-## 9.1. Sprout, shoot
+
+### 9.1. Sprout, shoot
 
 
 <table>
@@ -2822,7 +2844,8 @@ Only a single Oceanic reflex has been located for this reconstruction, from the 
 
 
 <a id="s-9-2"></a>
-## 9.2. Grow, swell
+
+### 9.2. Grow, swell
 
 
 <table>
@@ -2917,14 +2940,16 @@ Only a single Oceanic reflex has been located for this reconstruction, from the 
 
 
 <a id="s-9-3"></a>
-## 9.3. Ripen
+
+### 9.3. Ripen
 
 
-[Chapter 6, §3.9](chapter6.md#s-3-9)contains two reconstructions, POc _&ast;ma-osak_ 'ready to be eaten (because ripe or cooked)" and POc _&ast;[ma-]noka_ 'be in good condition for eating; nicely ripe, well-cooked, soft'.
+Chapter 6, §3.9contains two reconstructions, POc _&ast;ma-osak_ 'ready to be eaten (because ripe or cooked)" and POc _&ast;[ma-]noka_ 'be in good condition for eating; nicely ripe, well-cooked, soft'.
 
 
 <a id="s-9-4"></a>
-## 9.4. Wither
+
+### 9.4. Wither
 
 
 Although any plant may become dry and droop through lack of water, it is a feature of yam vines that the leaves turn yellow and drop off when the tubers are ready to harvest.
@@ -3008,7 +3033,7 @@ cf. also:
 <tr>
 <td>NNG</td>
 <td>Kove</td>
-<td>malai</td>
+<td><i>malai</i></td>
 <td>
 '<span>tired, feeling lazy</span>'</td>
 </tr>
@@ -3044,10 +3069,11 @@ cf. also:
 
 
 <a id="s-10"></a>
+
 ## 10. Gathering, harvesting
 
 
-We have not identified a reconstruction specifically for the digging up of tubers, either with or without the use of a digging stick, although _&ast;kali_/_&ast;keli_ ([§5](#s-5) ,4) is apparently a general term whose meaning includes this activity. It is possible that terms included under the heading 'weeding' were sometimes used to refer to pulling any plant out of the soil. Ann Chowning (pers.comm.) points out that, density of soil permitting, taro is often harvested by being pulled out directly by its thick stem, whereas yams have to be dug up. The reconstructions below relate to the gathering of fruit and nuts and sometimes leaves. They carry distinctions made on the basis of whether the item is plucked by hand, or with the aid of a stick or hook.
+We have not identified a reconstruction specifically for the digging up of tubers, either with or without the use of a digging stick, although _&ast;kali_/_&ast;keli_ (§5 ,4) is apparently a general term whose meaning includes this activity. It is possible that terms included under the heading 'weeding' were sometimes used to refer to pulling any plant out of the soil. Ann Chowning (pers.comm.) points out that, density of soil permitting, taro is often harvested by being pulled out directly by its thick stem, whereas yams have to be dug up. The reconstructions below relate to the gathering of fruit and nuts and sometimes leaves. They carry distinctions made on the basis of whether the item is plucked by hand, or with the aid of a stick or hook.
 
 <table>
 <tr>
@@ -3129,9 +3155,9 @@ We have not identified a reconstruction specifically for the digging up of tuber
 
 For the implement, Polynesian languages use terms derived from PPn _&ast;lohu_ 'fruit-plucking pole, hook something with a pole' ([Biggs 1993](../references.md#source-Biggs1993)).
 
-The set above bears a formal and semantic resemblance to PMP/POc _&ast;kawil_ 'hook, fish hook' ([Ch.8, §4](chapter8.md#s-4)), but it is unclear what historical connection (if any) exists between them.
+The set above bears a formal and semantic resemblance to PMP/POc _&ast;kawil_ 'hook, fish hook' (Ch. 8, §4), but it is unclear what historical connection (if any) exists between them.
 
-The following sets, all relating to plucking by hand, have formal similarities, and it is sometimes hard to know which cognate set a given reflex belongs to. For discussion of the first three items below, see [Ch.9, §6.1](chapter9.md#s-6-1).
+The following sets, all relating to plucking by hand, have formal similarities, and it is sometimes hard to know which cognate set a given reflex belongs to. For discussion of the first three items below, see Ch. 9, §6.1.
 
 <table>
 <tr>
@@ -3269,7 +3295,7 @@ cf. also:
 <tr>
 <td>MM</td>
 <td>Roviana</td>
-<td>zapu</td>
+<td><i>zapu</i></td>
 <td>
 '<span>pull coconuts from a tree</span>'</td>
 </tr>
@@ -3433,21 +3459,21 @@ cf. also:
 <tr>
 <td>PT</td>
 <td>Motu</td>
-<td>baki</td>
+<td><i>baki</i></td>
 <td>
 '<span>break, of bread, sago +</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
 <td>Sengseng</td>
-<td>pak</td>
+<td><i>pak</i></td>
 <td>
 '<span>collect bedpoles by breaking off long straight branches or trunks</span>'</td>
 </tr>
 <tr>
 <td>Pn</td>
 <td>Tongan</td>
-<td>paki</td>
+<td><i>paki</i></td>
 <td>
 '<span>break or break off, esp. with the hand; pick or pluck</span>'</td>
 </tr>
@@ -3503,13 +3529,15 @@ cf. also:
 
 
 <a id="s-11"></a>
+
 ## 11. Storage: yam storehouse
 
 
-The yam is the only tropical tuber which is easily preserved, provided it is placed in an airy, dry, dark and cool spot. It was a community's safeguard at times when the regular supply of foodstuffs was low. From New Guinea to New Caledonia, in areas where yam is the staple food, special huts are found in which they are preserved ([Barrau 1955](../references.md#source-Barrau1955):58). [Malinowski](../references.md#source-Malinowski1935) ([1935](../references.md#source-Malinowski1935): 218) reports that in the Trobriands such structures (_bwema_) were given a more prominent position in the village than the family dwellings, and were more meticulously decorated and maintained. POc _&ast;pale_ 'open-sided building', has been reconstructed ([Ch.3, §3.3](chapter3.md#s-3-3)), reflexes of which in some instances refer to yam storehouses (NNG: Lukep (Pono) _para_ 'yam house'; SES: Arosi (E. dialect) _hare_ 'shed for yams'). No term has been reconstructed that refers specifically to a hut for storing yams. In Mapos Buang (South Huon Gulf), yam houses are called _jok_. In Nengone, Loyalty Islands, _methuma_ is the term for a harvest hut for yams.
+The yam is the only tropical tuber which is easily preserved, provided it is placed in an airy, dry, dark and cool spot. It was a community's safeguard at times when the regular supply of foodstuffs was low. From New Guinea to New Caledonia, in areas where yam is the staple food, special huts are found in which they are preserved ([Barrau 1955](../references.md#source-Barrau1955):58). [Malinowski](../references.md#source-Malinowski1935) ([1935](../references.md#source-Malinowski1935): 218) reports that in the Trobriands such structures (_bwema_) were given a more prominent position in the village than the family dwellings, and were more meticulously decorated and maintained. POc _&ast;pale_ 'open-sided building', has been reconstructed (Ch. 3, §3.3), reflexes of which in some instances refer to yam storehouses (NNG: Lukep (Pono) _para_ 'yam house'; SES: Arosi (E. dialect) _hare_ 'shed for yams'). No term has been reconstructed that refers specifically to a hut for storing yams. In Mapos Buang (South Huon Gulf), yam houses are called _jok_. In Nengone, Loyalty Islands, _methuma_ is the term for a harvest hut for yams.
 
 
 <a id="s-12"></a>
+
 ## 12. Drainage and Irrigation
 
 
@@ -3563,7 +3591,7 @@ Working from our own linguistic sources, which include possibly more data from W
 
 FIXME: In vol. 1, p.139 the form PCP _&ast;pusi_ was erroneously given for _&ast;vusi_ (POc _&ast;p_ split into PCP _&ast;p_ and _&ast;v_).
 
-A second reconstruction is open to conjecture. Both Spriggs and Kirch and Lepofsky drew attention to the Hawaiian and Rapa (Austral Islands) terms for a pondfield, _loʔi_ and _roki_. We have a tentative reconstruction POc _&ast;logi_ meaning something like 'partition, partitioned area' with a reflex from Hote in the Huon Gulf (NNG), _lok_ '(garden) fence; wall of house' ([Ch.3, §3](chapter3.md#s-3) .S).
+A second reconstruction is open to conjecture. Both Spriggs and Kirch and Lepofsky drew attention to the Hawaiian and Rapa (Austral Islands) terms for a pondfield, _loʔi_ and _roki_. We have a tentative reconstruction POc _&ast;logi_ meaning something like 'partition, partitioned area' with a reflex from Hote in the Huon Gulf (NNG), _lok_ '(garden) fence; wall of house' (Ch. 3, §3 .S).
 
 <table>
 <tr>
@@ -3631,7 +3659,7 @@ cf. also:
 <tr>
 <td>SES</td>
 <td>Gela</td>
-<td>voki</td>
+<td><i>voki</i></td>
 <td>
 '<span>room, partition in a house</span>'</td>
 </tr>
@@ -3647,6 +3675,7 @@ In spite of remarkable similarities of technique commented on by Matthew Spriggs
 
 
 <a id="s-13"></a>
+
 ## 13. Gaps in reconstructions
 
 
@@ -3661,6 +3690,7 @@ A term must surely have existed for the period or activity of yam harvesting, wh
 
 
 <a id="s-14"></a>
+
 ## 14. Archaeological evidence
 
 
@@ -3677,14 +3707,15 @@ The second source of evidence, modification of the landscape, supports the POc h
 
 <a id="p-142"></a>
 
-A third potential source of evidence would lie in physical traces of irrigation systems and associated terracing. To date, however, neither linguistic nor archaeological evidence can support the association of sophisticated irrigation practices with POc speakers (see [§ 12](#s-12)).
+A third potential source of evidence would lie in physical traces of irrigation systems and associated terracing. To date, however, neither linguistic nor archaeological evidence can support the association of sophisticated irrigation practices with POc speakers (see § 12).
 
 
 <a id="s-15"></a>
+
 ## 15. Conclusion
 
 
-Proto Oceanic speakers cultivated their gardens with a minimum of implements other than their hands. Apart from the axe (_&ast;kiRam_) and smaller cutting implements of bamboo or shell such as _&ast;piso_ or PEOc _&ast;sele_ ([Ch.4, §4.1.2](chapter4.md#s-4-1)) used in clearing their plots, the only tools were a digging stick for tillage (_&ast;waso_), possibly a dibble stick for planting (for which we lack a reconstructed term other than that for digging stick) and a hooked stick (_&ast;kawit_) for picking fruit and nuts. The POc reconstructions to do with horticulture refer primarily to gardening activities: clearing, burning, weeding, digging, planting, picking and gathering. Also represented are the processes undergone by the plants themselves-sprouting, growing, swelling, ripening, withering.
+Proto Oceanic speakers cultivated their gardens with a minimum of implements other than their hands. Apart from the axe (_&ast;kiRam_) and smaller cutting implements of bamboo or shell such as _&ast;piso_ or PEOc _&ast;sele_ (Ch. 4, §4.1.2) used in clearing their plots, the only tools were a digging stick for tillage (_&ast;waso_), possibly a dibble stick for planting (for which we lack a reconstructed term other than that for digging stick) and a hooked stick (_&ast;kawit_) for picking fruit and nuts. The POc reconstructions to do with horticulture refer primarily to gardening activities: clearing, burning, weeding, digging, planting, picking and gathering. Also represented are the processes undergone by the plants themselves-sprouting, growing, swelling, ripening, withering.
 
 We have no evidence that any form of fertilising was used, apart from the occasional spreading of ash from the burning off of new garden plots. There is no tradition of composting the soil with human waste, for instance. Mulching and digging-in of decomposed vegetable matter have been recorded in places as traditional gardening practice, but we have no specific reconstructions for these activities. Nor has linguistics shed any light on ways in which they may have attempted to control pests or diseases. Weight was given rather to magic, as a means of ensuring healthy crops.
 
@@ -3699,7 +3730,7 @@ Finally, we have no evidence from reconstructions that Proto Oceanic speakers ir
 
 [^2]:  They are Buang and Wogeo (NNG); Dobu and the Trobriands (PT); Sengseng in W. N. Britain (also NNG); Roviana (New Georgia, Sols.) (MM); Langalanga in Malaita (SES); inland Santo and Seniang (both NCV); Loyalty Islands; New Caledonia; two locations in Fiji (Rewa Delta and Moala in the northern Lau group) and the Samoic outlier, Tikopia (pn).
 
-[^3]:   There is a sporadic tendency in Oceanic languages for _&ast;a_ > _e/i,e_ - e.g. POc _&ast;kati_ 'husk with the teeth' > PEOc _&ast;keti_ ([Ch.9, §3.7](chapter9.md#s-3-7)), PPn _&ast;wahe_ 'divide' > _wehe_ in EPn languages.
+[^3]:   There is a sporadic tendency in Oceanic languages for _&ast;a_ > _e/i,e_ - e.g. POc _&ast;kati_ 'husk with the teeth' > PEOc _&ast;keti_ (Ch. 9, §3.7), PPn _&ast;wahe_ 'divide' > _wehe_ in EPn languages.
 
 [^4]: Reconstruction of PMP _&ast;-R-_ here is based on Manobo (S. Philippines) data: Tigwa Manobo, Binukid, Kinamigin, Sarangani Manobo, Western Bukidnon Manobo, Ilianen Manobo _ʔalad_; Obo, Dibabawon _ʔaad_; Tagabawa _alad_ ([Elkins 1974](../references.md#source-Elkins1974):607).
 

@@ -155,7 +155,7 @@ class Dataset(BaseDataset):
         per_pl = collections.defaultdict(list)
         for vol in range(1, 7):
             print(vol)
-            if vol != 2:
+            if vol != 1:
                 continue
             t = self.raw_dir / 'vol{}'.format(vol) / 'text.txt'
             if not t.exists():
@@ -208,6 +208,7 @@ class Dataset(BaseDataset):
             #        print(v, k)
             #for k, v in bycat.items():
             #     print(k, v)
+            print(vol.igts)
 
     def add_form(self, writer, protoform_or_reflex, gloss2id, langs, poc_gloss='none'):
         gloss = protoform_or_reflex.glosses[0].gloss if protoform_or_reflex.glosses else poc_gloss
@@ -389,6 +390,9 @@ class Dataset(BaseDataset):
                 # We simply link cf sets to cognatesetreferences!
                 #if known_cogset:
                 #    print('cf table {} for known cogset!: {}'.format(i, rec.id))
+                #
+                # FIXME: cfsets must also remember gloss_ids!
+                #
                 args.writer.objects['cf.csv'].append(dict(
                     ID='{}-{}'.format(rec.id, i),
                     Name=name,

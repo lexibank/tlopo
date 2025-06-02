@@ -31,7 +31,7 @@ cf. also: {{ key[1] or '' }}
 <tr>
 <td>{{ group }}</td>
 <td>{{ lname }}</td>
-<td>{{ form }}</td>
+<td><i>{{ form }}</i></td>
 <td>
 {% for g, cmt, pos, srcs in glosses %}{% if pos %}({{ pos }}) {% endif %}{% if g %}'{{ g|markdown }}'{% endif %}{% if cmt %} ({{ cmt|markdown }}){% endif %}{% if srcs %}
 ({% for srcid, pages in srcs %}<a href="../references.md#source-{{ srcid }}">{{ srcid }}{% if pages %}: {{ pages }}{% endif %}</a>{% if loop.last == False %}; {% endif %}{% endfor %})

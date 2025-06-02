@@ -4,6 +4,7 @@ by Andrew Pawley
 
 
 <a id="s-1"></a>
+
 ## 1. Introduction
 
 
@@ -20,7 +21,8 @@ Comparative analysis of contemporary lexicons for fishing communities speaking O
 
 
 <a id="s-1-1"></a>
-## 1.1. On the distribution of fish families, genera and species in the Pacific
+
+### 1.1. On the distribution of fish families, genera and species in the Pacific
 
 
 R.H. Carcasson writes as follows of the fish fauna of the tropical Indo-Pacific region:
@@ -33,10 +35,11 @@ The Bismarck Archipelago, the probable location of the POc speech community, is 
 
 
 <a id="s-1-2"></a>
-## 1.2. The location and dating of Proto Oceanic
+
+### 1.2. The location and dating of Proto Oceanic
 
 
-As we are concerned with retention rates of POc lexical items it is relevant to ask what time span is involved. The breakup of POc can be dated with considerable confidence to between 3400 and 3100 BP. POc was almost certainly spoken in the Bismarck Archipelago, where the greatest concentration of primary subgroups of Oceanic is found today. Dating of its breakup to within a span of two or three centuries is possible because of the strong association between the appearance in the Bismarck Archipelago and subsequent spread across the SW Pacific of the highly distinctive archaeological culture known as Lapita and the initial diversification of Proto Oceanic within the Bismarcks and the subsequent spread of Oceanic languages across the SW Pacific ([Green 2003](../references.md#source-Green2003), [Kirch 1997](../references.md#source-Kirch1997), 2000, Pawley 2003, 2007, 2008, Spriggs 1997, [Summerhayes 2001](../references.md#source-Summerhayes2001)).
+As we are concerned with retention rates of POc lexical items it is relevant to ask what time span is involved. The breakup of POc can be dated with considerable confidence to between 3400 and 3100 BP. POc was almost certainly spoken in the Bismarck Archipelago, where the greatest concentration of primary subgroups of Oceanic is found today. Dating of its breakup to within a span of two or three centuries is possible because of the strong association between the appearance in the Bismarck Archipelago and subsequent spread across the SW Pacific of the highly distinctive archaeological culture known as Lapita and the initial diversification of Proto Oceanic within the Bismarcks and the subsequent spread of Oceanic languages across the SW Pacific ([Green 2003](../references.md#source-Green2003), [Kirch 1997](../references.md#source-Kirch1997), [2000](../references.md#source-Kirch2000), Pawley 2003, 2007, 2008, Spriggs 1997, [Summerhayes 2001](../references.md#source-Summerhayes2001)).
 
 
 <a id="p-139"></a>
@@ -47,6 +50,7 @@ The carriers of Lapita material culture were, almost certainly, the first people
 
 
 <a id="s-2"></a>
+
 ## 2. Methodological preliminaries
 
 
@@ -54,14 +58,16 @@ Before proceeding to an analysis of the data on fish names we should consider so
 
 
 <a id="s-2-1"></a>
-## 2.1. Datasources
+
+### 2.1. Datasources
 
 
 The descriptions available on fish names and taxonomies in Oceanic languages are very uneven in quality and quantity. Although there are reasonably good general dictionaries for about 50 of the 450 or so languages in the Oceanic group only a handful provide something close to a comprehensive list of fish names together with scientific identifications and information about the indigenous taxonomy. In addition there are a few published papers and unpublished works that provide fairly extensive data. The statistical data cited in this paper are based on materials from a sample of 15 Oceanic languages plus a non-Oceanic language of Micronesia, Palauan, and a Malayo-Polynesian language of Sulawesi, Pendau (see Table 3.1).
 
 
 <a id="s-2-2"></a>
-## 2.2. On taxonomies and nomenclatures
+
+### 2.2. On taxonomies and nomenclatures
 
 
 3.2.2.1 Folk taxonomies
@@ -72,26 +78,26 @@ The core of a folk taxonomy is a set of named categories (taxa) that form a sema
 <a id="p-140"></a>
 
 ```
-Table 3.1     Details of languages cited (all Oceanic except Palauan and Pendau)
-Name                  Location                        Subgroup          Main source
----
-Arosi                 Makira, eastern Solomons        SE Solomonic      [Fox 1978](../references.md#source-Fox1978)
-Gela                  Florida, central Solomons       SE Solomonic      Foale 1998
-K’marangi             atoll south of the Carolines    Polynesian        Lieber and Dikepa 1974
-Kiribati              atoll chain, Kiribati           Micronesian       Thaman & Tabano n.d.
-Lau                   Malaita, SE Solomons            SE Solomonic      [Fox 1974](../references.md#source-Fox1974). [Akimichi 1978](../references.md#source-Akimichi1978)
-Marovo                New Georgia. W Solomons         NW Solomonic      [Hviding 1990](../references.md#source-Hviding1990). 1996. 2005
-Marquesan             Eastern Polynesia               Polynesian        Lavondes 1977
-M’bunai Titan         Admiralty Islands. PNG          Admiralties       Akimichi & Sakivama 1991
-Motu                  Central Province, PNG           Papuan Tip        Oram n.d.
-Mutu (Mandok)         Vitiaz Straits, PNG             North New Guinea  Pomponio n.d.
-Niuatoputapu          small high island, W Polynesia  dialect of Tongan [Dye 1983](../references.md#source-Dye1983)
-Palauan               Western Carolines               Malayo-Polynesian Helfmann & Randall 1973
-Pendau                Central Sulawesi                Malayo-Polynesian Quick 2005. 2010
-Satawalese            Central Carolines               Micronesian       Akimichi & Sauchomal 1982
-Teop                  NE Bougainville, PNG            NW Solomonic      Shoffner 1976
-Uvean (Wallisian)     high island, W Polynesia        Polynesian        Rensch 1983
-Wayan                 small high island, W Fiji       Fijian            Pawley & Savaba 2003
+         Table 3.1     Details of languages cited (all Oceanic except Palauan and Pendau)
+   Name                  Location                        Subgroup          Main source
+   ---
+   Arosi                 Makira, eastern Solomons        SE Solomonic      [Fox 1978](../references.md#source-Fox1978)
+   Gela                  Florida, central Solomons       SE Solomonic      Foale 1998
+   K’marangi             atoll south of the Carolines    Polynesian        Lieber and Dikepa 1974
+   Kiribati              atoll chain, Kiribati           Micronesian       Thaman & Tabano n.d.
+   Lau                   Malaita, SE Solomons            SE Solomonic      [Fox 1974](../references.md#source-Fox1974). [Akimichi 1978](../references.md#source-Akimichi1978)
+   Marovo                New Georgia. W Solomons         NW Solomonic      [Hviding 1990](../references.md#source-Hviding1990). 1996. 2005
+   Marquesan             Eastern Polynesia               Polynesian        Lavondes 1977
+   M’bunai Titan         Admiralty Islands. PNG          Admiralties       Akimichi & Sakivama 1991
+   Motu                  Central Province, PNG           Papuan Tip        Oram n.d.
+   Mutu (Mandok)         Vitiaz Straits, PNG             North New Guinea  Pomponio n.d.
+   Niuatoputapu          small high island, W Polynesia  dialect of Tongan [Dye 1983](../references.md#source-Dye1983)
+   Palauan               Western Carolines               Malayo-Polynesian Helfmann & Randall 1973
+   Pendau                Central Sulawesi                Malayo-Polynesian Quick 2005. 2010
+   Satawalese            Central Carolines               Micronesian       Akimichi & Sauchomal 1982
+   Teop                  NE Bougainville, PNG            NW Solomonic      Shoffner 1976
+   Uvean (Wallisian)     high island, W Polynesia        Polynesian        Rensch 1983
+   Wayan                 small high island, W Fiji       Fijian            Pawley & Savaba 2003
 ```
 
 3.2.2.2 Uninomials vs binomials
@@ -102,7 +108,8 @@ Binomials provided by native speakers need to be viewed with some caution. When 
 
 
 <a id="s-2-3"></a>
-## 2.3. On counting the units in a taxonomy
+
+### 2.3. On counting the units in a taxonomy
 
 
 
@@ -116,14 +123,16 @@ Yet another variable is polysemy. Some terms have two senses, one referring to a
 
 
 <a id="s-2-4"></a>
-## 2.4. Semantic reconstruction
+
+### 2.4. Semantic reconstruction
 
 
 Hooper (1994:189) points to the kinds of difficulties met in attributing meanings to reconstructed fish names. The comparative linguist is dependent on the quality of the definitions available in accounts of contemporary languages and on the measure of agreement between them. Usually it is possible to pin down the meaning of a reconstructed form to a family or a group of closely related families, e.g. ‘kind of rock-cod (_Serranidae_)’ or ‘kind of snapper (_Lutjanidae_) or emperor (_Lethrinidae_)’. In a minority of cases it can be said with considerable confidence that a name referred to a particular species or group of closely related species, or to a growth stage of a species or genus.
 
 
 <a id="s-2-5"></a>
-## 2.5. On formulating hypotheses about whether fish names show similar retention rates to basic vocabulary
+
+### 2.5. On formulating hypotheses about whether fish names show similar retention rates to basic vocabulary
 
 
 Hooper (1994) presents a brief statistical argument that Polynesian uninomial fish names, overall, show retention rates similar to those exhibited by etyma whose meanings belong to standard lists of basic vocabulary. She reconstructs 115 PPn fish names for generic and specific taxa, of which only three are binomials. She notes that if we compare the 112 PPn uninomials with lists for Uvean (Rensch 1988), Niuatoputapu ([Dye 1983](../references.md#source-Dye1983)) and her own list for Tokelauan we get impressively high retention rates. The rates are about 66% for Uvean (74 retentions), 61% for Niuatoputapu (68 retentions) and 84% for Tokelauan (94 retentions). Hooper adds that ‘[if] we hypothesize that the Proto Polynesians, like their present-day descendants, used a vocabulary of about 130 monomial [uninominal] fish names, the retention rates are more plausible: 60% for Uvean, 52.2% for Niuatoputapu, and 72.3% for Tokelauan - close to the expected average retention rate of 70% for core vocabulary’ (Hooper 1994:187).
@@ -133,7 +142,7 @@ There are certain problems with this proposal. First, Hooper does not say how th
 
 <a id="p-142"></a>
 
-Second, Hooper’s assessment of average retention rates for fish names is based on just those 112 uninomials that have been reconstructed for PPn. These etyma will be a subset of the total number of fish names used in PPn (less stable names will not have been recovered). How small a subset is 112? For reasons indicated in [§4](#s-4), I estimate the number of uninomials in PPn to be more than 200. To take the case of Uvean, 74 retentions out of 200 would equate to a retention rate of 37 percent, still substantial but much less than 66 percent. Third, in some cases semantic matches between PPn fish names and their reflexes are not exact, e.g. the POc generic term for ‘shark’ is continued in some daughter languages by a term that refers to the _Remora_ or sucking fish, which attaches itself to sharks. In standard glottochronological procedure, a form that continues a proto-language etymon but changes the meaning is not counted as a retention. In the case of PPn fish names that refer to particular families, genera or species, a reasonable compromise would be to count a reflex as retained in a daughter language provided that it refers to the same biological family as the etymon in the protolanguage.
+Second, Hooper’s assessment of average retention rates for fish names is based on just those 112 uninomials that have been reconstructed for PPn. These etyma will be a subset of the total number of fish names used in PPn (less stable names will not have been recovered). How small a subset is 112? For reasons indicated in §4, I estimate the number of uninomials in PPn to be more than 200. To take the case of Uvean, 74 retentions out of 200 would equate to a retention rate of 37 percent, still substantial but much less than 66 percent. Third, in some cases semantic matches between PPn fish names and their reflexes are not exact, e.g. the POc generic term for ‘shark’ is continued in some daughter languages by a term that refers to the _Remora_ or sucking fish, which attaches itself to sharks. In standard glottochronological procedure, a form that continues a proto-language etymon but changes the meaning is not counted as a retention. In the case of PPn fish names that refer to particular families, genera or species, a reasonable compromise would be to count a reflex as retained in a daughter language provided that it refers to the same biological family as the etymon in the protolanguage.
 
 There is, however, a more fundamental concern. Even a comparison of the average retention rates of PPn fish names with that of basic vocabulary will not leave us much the wiser. This is because the individual meanings in the basic vocabulary list do not share a constant retention rate. On the contrary, there is enormous variation in the rates at which forms representing different meanings are replaced. A comparative study of Austronesian languages (Dyen et al. 1967) indicates that, over a span of several millennia, the least persistent item on the Swadesh 200 item basic vocabulary list is many times more likely to be replaced than the most persistent item.
 
@@ -150,12 +159,14 @@ Given that individual basic vocabulary items vary so much in their retention rat
 
 
 <a id="s-3"></a>
+
 ## 3. Retention rates for POc fish names
 
 
 
 <a id="s-3-1"></a>
-## 3.1. Investigating retention rates for a sample of POc fish names
+
+### 3.1. Investigating retention rates for a sample of POc fish names
 
 
 Retention rates for 52 POc fish names, drawn from Osmond’s list of reconstructions, were investigated in 12 languages belonging to diverse subgroups: Titan (Admiralties group), Mutu (North New Guinea), Motu (Papuan Tip), Marovo and Teop (Meso-Melanesian), Gela (Guadalcanal-Gelic), Arosi and Lau (Makira-Malaitan), Kiribati and Satawalese (Micronesian), Wayan (Fijian) and Niuatoputapu (a dialect of Tongan, Polynesian).
@@ -168,161 +179,161 @@ For convenience of presentation the 52 POc names are divided into four groups. T
 <a id="p-144"></a>
 
 ```
-Table 3.2     Presence/absence of reflexes of POc fish names in twelve languages (1)
-&ast;ikan            ‘generic for fish (and certain other free-swimming aquatic creatures)’
-&ast;bakewa          ‘generic for sharks’
-&ast;paRi            ‘generic for rays’
-&ast;tuna            ‘generic for freshwater eels (_Anguillidae_)’
-&ast;qawaq           ‘milkfish, Chanos chanos (_Chanidae_)’
-&ast;saku            ‘needlefish and long toms (_Belonidae_)’
-&ast;qonos           ‘mature Sphyraena spp., possibly generic for all barracuda
-&ast;qaln            ‘taxon of barracuda (_Sphyraenidae_)’
-&ast;taŋiRi          ‘_Scombridae_ spp., probably incl. Spanish mackerel and wahoo’
-&ast;qatun           ‘skipjack tuna, Katsuwonuspelamis, (_Scombridae_)’
-&ast;walu            ‘_Scombridae sp._ or spp.’
-&ast;saku-layaR      ‘sailfish (_Istiophoridae_)’
-&ast;sabutu          ‘snapper (Lutjanus) or emperor (Lethrinus) sp. or spp.’
-£                              £          2              6
-H       S    S          S     0      u                 £           GC      a          cu
---- | ---
-&ast;ikan            y            y          y     y      y    y      y     y     y     y      10         83
-&ast;bakewa          y       y[^4] -    y     -     y      y    y      -     -     y     y       8         67
-&ast;paRi            y       -    -    -     y[^5]  y      y    y      y     y     ?[^6]  y     8-9      67/75
-&ast;tuna            -       -    y    -     -     -      -    -      y     y     -     -       3         25
-&ast;qawaq           -       -         -     -            -    _[^7]                             6         50
-y                y                  y     y     y     y
-&ast;saku                                                                         _[^8]          3         25
-y     y           y
-&ast;qonos           —            -    -     -                        _[^9]        -     -       5         42
-y                     y      y    y            y
-&ast;qalu            y       -    -    -     -     y      -    -      -     -     -     -       2         17
-&ast;taijiRi         y[^10]   -                     _[^11]  -    _[^12]  -     -                   6         50
-y    y     y                                    y     y
-&ast;qatun           -       -    -    y     -     y      y    y      y     y     y     y       8         67
-&ast;walu            -            -    -     -     _[^13]  -    -                  -     -       3         25
-y                                        y     y
-&ast;saku-layaR                                                                   ?[^14]       4-5      33/42
-y                                                y     y           y
-&ast;sabutu          -       y    -    -     -     -      -    -      y     y     -     -       3         25
+      Table 3.2     Presence/absence of reflexes of POc fish names in twelve languages (1)
+       &ast;ikan            ‘generic for fish (and certain other free-swimming aquatic creatures)’
+       &ast;bakewa          ‘generic for sharks’
+       &ast;paRi            ‘generic for rays’
+       &ast;tuna            ‘generic for freshwater eels (_Anguillidae_)’
+       &ast;qawaq           ‘milkfish, Chanos chanos (_Chanidae_)’
+       &ast;saku            ‘needlefish and long toms (_Belonidae_)’
+       &ast;qonos           ‘mature Sphyraena spp., possibly generic for all barracuda
+       &ast;qaln            ‘taxon of barracuda (_Sphyraenidae_)’
+       &ast;taŋiRi          ‘_Scombridae_ spp., probably incl. Spanish mackerel and wahoo’
+       &ast;qatun           ‘skipjack tuna, Katsuwonuspelamis, (_Scombridae_)’
+       &ast;walu            ‘_Scombridae sp._ or spp.’
+       &ast;saku-layaR      ‘sailfish (_Istiophoridae_)’
+       &ast;sabutu          ‘snapper (Lutjanus) or emperor (Lethrinus) sp. or spp.’
+                                          £                              £          2              6
+                        H       S    S          S     0      u                 £           GC      a          cu
+       --- | ---
+       &ast;ikan            y            y          y     y      y    y      y     y     y     y      10         83
+       &ast;bakewa          y       y[^4] -    y     -     y      y    y      -     -     y     y       8         67
+       &ast;paRi            y       -    -    -     y[^5]  y      y    y      y     y     ?[^6]  y     8-9      67/75
+       &ast;tuna            -       -    y    -     -     -      -    -      y     y     -     -       3         25
+       &ast;qawaq           -       -         -     -            -    _[^7]                             6         50
+                                     y                y                  y     y     y     y
+       &ast;saku                                                                         _[^8]          3         25
+                                                                         y     y           y
+       &ast;qonos           —            -    -     -                        _[^9]        -     -       5         42
+                                y                     y      y    y            y
+       &ast;qalu            y       -    -    -     -     y      -    -      -     -     -     -       2         17
+       &ast;taijiRi         y[^10]   -                     _[^11]  -    _[^12]  -     -                   6         50
+                                     y    y     y                                    y     y
+       &ast;qatun           -       -    -    y     -     y      y    y      y     y     y     y       8         67
+       &ast;walu            -            -    -     -     _[^13]  -    -                  -     -       3         25
+                                y                                        y     y
+       &ast;saku-layaR                                                                   ?[^14]       4-5      33/42
+                        y                                                y     y           y
+       &ast;sabutu          -       y    -    -     -     -      -    -      y     y     -     -       3         25
 ```
 
 
 <a id="p-145"></a>
 
 ```
-Table 3.3      Presence/absence of reflexes of POc fish names in twelve languages (2)
-&ast;kulabo             ‘snapper sp. or spp. (_Lethrinidae_)’
-&ast;(n,n)opuq          ‘stonefish, _Synanceia spp._, incl. _S. verrucosa_ (_Synanceiidae_)’
-&ast;taRaqan            ‘squirrelfish, _Sargocentron sp._ or spp. (_Holocentridae_)’
-&ast;jumu               ‘triggerfish (_Balistidae_) and possibly leatherjackets (_Monacanthidae_)’
-&ast;bebek              ‘generic for butterflyfish and coralfish (_Chaetodontidae_)’
-&ast;kuRapu             ‘rock-cod, _Epinephelus sp._ or spp. including _E. lanceolatus_, Queensland grouper (_Serranidae_)’
-&ast;palaja             ‘rabbitfish, _Siganus spp._ (_Siganidae_)’
-&ast;laci               ‘_Scomberoides spp._, incl. _S. lysan_ (_Carangidae_)’
-&ast;qulua              ‘_Caranx sp._, possibly _C. ignobdis_. big-headed jack (_Carangidae_)’
-&ast;pilu               ‘_Caranx sp._ or spp. (_Carangidae_)’
-&ast;qatule             ‘scad spp. (_Carangidae_), incl. Trachurops crumenophthalmus, big-eyed scad’
-&ast;taRutu(m,q)        ‘porcupinefish, _Diodon spp._ (_Diodontidae_)’
-&ast;kanase             ‘generic for certain mullet (_Mugilidae_)’
-&ast;bunaR              ‘batfish, _Platax sp._ (_Platacidae_)’
-&ast;tiqo               ‘goatfish sp. (_Mullidae_)’
-%           GC       fl       fl-
-&ast;kulabo                  -          -      -     -     -   -     _[^15]         -     -        2        17
-y         -
-y
-&ast;[n,n]opuq                                             -   ?[^16]                        10-11     83/91
-y    y    y     y      y     y               y     y     y     y
-&ast;taRaqan            -    y    -     -      -     y     -   -     -     y     y     y        5        42
-&ast;jumu               -    y    -     -      -     -     -   -     y     y     -     -        3        25
-&ast;bebek              -    y    -     -      -     -     y   -     -     -     y     -        3        25
-&ast;kuRapu             y    -    -     ?[^17]  -     y     y   y     y     -     y     y      7-8     58/67
-&ast;palaja                  -    -     -      -     -         ?[^18]       -     -     -      3-4     25/33
-y                                  y         y
-&ast;laci               y    y    y     -      y     y     -   -     -     y     y     -        7        58
-&ast;qulua                                                                       ?[19  -      1-2      8/17
-y
-&ast;pilu                                                            y     y     -     y        3        25
-&ast;qatule             y                                            y     y     -     -        3        25
-&ast;taRutu(m,q)        -    -    -     -      -     -     y   -     -     y     y     -        3        25
-&ast;kanase             -    -    -     y      -     -     -   y     y     y     -     -        4        33
-&ast;bunaR              -    -                 -     -     -   -     ?[^20] -     -     -      2-3     17/25
-y     y
-&ast;tiqo               -    y    -     y      -     y     -   -     -     -     y     y        5        42
+     Table 3.3      Presence/absence of reflexes of POc fish names in twelve languages (2)
+      &ast;kulabo             ‘snapper sp. or spp. (_Lethrinidae_)’
+      &ast;(n,n)opuq          ‘stonefish, _Synanceia spp._, incl. _S. verrucosa_ (_Synanceiidae_)’
+      &ast;taRaqan            ‘squirrelfish, _Sargocentron sp._ or spp. (_Holocentridae_)’
+      &ast;jumu               ‘triggerfish (_Balistidae_) and possibly leatherjackets (_Monacanthidae_)’
+      &ast;bebek              ‘generic for butterflyfish and coralfish (_Chaetodontidae_)’
+      &ast;kuRapu             ‘rock-cod, _Epinephelus sp._ or spp. including _E. lanceolatus_, Queensland grouper (_Serranidae_)’
+      &ast;palaja             ‘rabbitfish, _Siganus spp._ (_Siganidae_)’
+      &ast;laci               ‘_Scomberoides spp._, incl. _S. lysan_ (_Carangidae_)’
+      &ast;qulua              ‘_Caranx sp._, possibly _C. ignobdis_. big-headed jack (_Carangidae_)’
+      &ast;pilu               ‘_Caranx sp._ or spp. (_Carangidae_)’
+      &ast;qatule             ‘scad spp. (_Carangidae_), incl. Trachurops crumenophthalmus, big-eyed scad’
+      &ast;taRutu(m,q)        ‘porcupinefish, _Diodon spp._ (_Diodontidae_)’
+      &ast;kanase             ‘generic for certain mullet (_Mugilidae_)’
+      &ast;bunaR              ‘batfish, _Platax sp._ (_Platacidae_)’
+      &ast;tiqo               ‘goatfish sp. (_Mullidae_)’
+                                                                             %           GC       fl       fl-
+      &ast;kulabo                  -          -      -     -     -   -     _[^15]         -     -        2        17
+                          y         -
+                                                                             y
+      &ast;[n,n]opuq                                             -   ?[^16]                        10-11     83/91
+                          y    y    y     y      y     y               y     y     y     y
+      &ast;taRaqan            -    y    -     -      -     y     -   -     -     y     y     y        5        42
+      &ast;jumu               -    y    -     -      -     -     -   -     y     y     -     -        3        25
+      &ast;bebek              -    y    -     -      -     -     y   -     -     -     y     -        3        25
+      &ast;kuRapu             y    -    -     ?[^17]  -     y     y   y     y     -     y     y      7-8     58/67
+      &ast;palaja                  -    -     -      -     -         ?[^18]       -     -     -      3-4     25/33
+                          y                                  y         y
+      &ast;laci               y    y    y     -      y     y     -   -     -     y     y     -        7        58
+      &ast;qulua                                                                       ?[19  -      1-2      8/17
+                                                                             y
+      &ast;pilu                                                            y     y     -     y        3        25
+      &ast;qatule             y                                            y     y     -     -        3        25
+      &ast;taRutu(m,q)        -    -    -     -      -     -     y   -     -     y     y     -        3        25
+      &ast;kanase             -    -    -     y      -     -     -   y     y     y     -     -        4        33
+      &ast;bunaR              -    -                 -     -     -   -     ?[^20] -     -     -      2-3     17/25
+                                    y     y
+      &ast;tiqo               -    y    -     y      -     y     -   -     -     -     y     y        5        42
 ```
 
 
 <a id="p-146"></a>
 
 ```
-Table 3.4      Presence/absence of reflexes of POc fish names in twelve languages (3)
-&ast;(k,q)ulapi           ‘parrotfish spp. (_Carangidae_) incl. Hipposcarus longiceps, longnosed parrotfish’
-&ast;bala(q,k)i           ‘!1canthurus and _Naso spp._ (_Acanthuridae_)’
-&ast;qume                 ‘unicornfish, Naso unicornis (_Acanthuridae_)’
-&ast;koto(ij)             ‘large rock cod, _Epiphenilus spp._ (_Serranidae_)’
-&ast;don(o,u)             ‘rock cod, possibly Cephalopholis (= Plectropomus) spp. (_Serranidae_)’
-&ast;(k,q)umutuR          ‘sweetlips, _Plectorhynchus spp._ (_Haemulidae_)’
-&ast;b‘a[p,w]a           ‘snapper, _Lutjanus sp._ (_Lutjanidae_)’
-&ast;tasiwa               ‘snapper, _Lutjanus sp._ (_Lutjanidae_)’
-&ast;kasika               ‘large emperor, _Lethrinus sp._ (_Lethrinidae_)’
-&ast;palata               ‘dolphinfish (_Coryphaenidae_)’
-&ast;bwa(sj)i             ‘moray eel (_Moraenidae_)’
-&ast;muqu(ij)             ‘rabbitfish, _Siganus sp._, possibly _S. spinus_ (_Siganidae_)’
-&ast;lanipa               ‘sardine, _Sardinella sp._ (_Clupeidae_)’
-0>
-ao
-ce
-&ast;(k,q)ulapi                                                                   33
-&ast;bala(ij,k)i                                                                  27
-&ast;qume                                                                         33
-&ast;koto(ij)                                                                     17
-&ast;don(o,u)                                                                     25
-&ast;(k,q)umutuR                                                                  42
-&ast;b‘a[p,w]a                                                                   17
-&ast;tasiwa                                                                       25
-&ast;kasika                                                                       42
-&ast;palata                                                                        8
-&ast;bwa(s,j)i                                                                     8
-&ast;muqu(ij)                                                                     25
-&ast;tanipa                                                                        8
+      Table 3.4      Presence/absence of reflexes of POc fish names in twelve languages (3)
+       &ast;(k,q)ulapi           ‘parrotfish spp. (_Carangidae_) incl. Hipposcarus longiceps, longnosed parrotfish’
+       &ast;bala(q,k)i           ‘!1canthurus and _Naso spp._ (_Acanthuridae_)’
+       &ast;qume                 ‘unicornfish, Naso unicornis (_Acanthuridae_)’
+       &ast;koto(ij)             ‘large rock cod, _Epiphenilus spp._ (_Serranidae_)’
+       &ast;don(o,u)             ‘rock cod, possibly Cephalopholis (= Plectropomus) spp. (_Serranidae_)’
+       &ast;(k,q)umutuR          ‘sweetlips, _Plectorhynchus spp._ (_Haemulidae_)’
+       &ast;b‘a[p,w]a           ‘snapper, _Lutjanus sp._ (_Lutjanidae_)’
+       &ast;tasiwa               ‘snapper, _Lutjanus sp._ (_Lutjanidae_)’
+       &ast;kasika               ‘large emperor, _Lethrinus sp._ (_Lethrinidae_)’
+       &ast;palata               ‘dolphinfish (_Coryphaenidae_)’
+       &ast;bwa(sj)i             ‘moray eel (_Moraenidae_)’
+       &ast;muqu(ij)             ‘rabbitfish, _Siganus sp._, possibly _S. spinus_ (_Siganidae_)’
+       &ast;lanipa               ‘sardine, _Sardinella sp._ (_Clupeidae_)’
+                                                                                     0>
+                                                                                     ao
+                                                                                     ce
+       &ast;(k,q)ulapi                                                                   33
+       &ast;bala(ij,k)i                                                                  27
+       &ast;qume                                                                         33
+       &ast;koto(ij)                                                                     17
+       &ast;don(o,u)                                                                     25
+       &ast;(k,q)umutuR                                                                  42
+       &ast;b‘a[p,w]a                                                                   17
+       &ast;tasiwa                                                                       25
+       &ast;kasika                                                                       42
+       &ast;palata                                                                        8
+       &ast;bwa(s,j)i                                                                     8
+       &ast;muqu(ij)                                                                     25
+       &ast;tanipa                                                                        8
 ```
 
 
 <a id="p-147"></a>
 
 ```
-Table 3.5      Presence/absence of reflexes of POc fish names in twelve languages (4)
-&ast;paya                ‘anchovy (_Engraulidae_)’
-&ast;(k,q)aRua(s)        ‘generic for mullet (_Mugilidae_)’
-&ast;bubu                ‘triggerfish, _Balistes sp._ (_Balistidae_)’
-&ast;taRat               ‘unicomfish, _Naso spp._, probably incl. _N. brevinostris_ (_Acanthuridae_)’
-&ast;qaroijo             ‘surgeonfish, _Acanthurus sp._ (_Acanthuridae_)’
-&ast;mamin               ‘_Cheilinus spp._ (_Labridae_), incl. double-headed Maori wrasse, _C. undulatus_’
-&ast;taqapa(Rr)          ‘large wrasse, probably _Cheilinus sp._ (_Labridae_)’
-&ast;magaRut             ‘flying fish (_Exocoetidae_)’
-'fianapa             ‘garfish, _Hemiramphus sp._ (_Hemiramphidae_)’
-&ast;paRi-manuk          ‘eagle ray, _Aetobatus narinari_’
-&ast;kaboRa              ‘catfish-eel, _Plotosus sp._ (_Plotosidae_)’
-CO
-_o         a>
-b
-H             S     £                                           c         CL
-&ast;paya               _[^22]  -            -                                           1          8
-y
-&ast;(k,q)aRua(s)       y      -      -     -     —     y   y   —   —   y   y   y       6        50
-&ast;bubu               y      -      -     y     -     -   y   y   y   -   y   y       7        58
-&ast;taRat              -      y[^23]  -     -           -   —   —       -   —           4        ɔɔ
-y                 y           y
-o
-fiaroŋo             y                                               y   y   —       J        25
-&ast;mamin              y      y      y     -     y                             y       5        42
-&ast;taqapa(R,r)                                                            -   ?[^24] 3-4     25/33
-y                                           y   y
-o
-&ast;magaRut            y      -      -     -                   y               y       3        25
-&ast;panapa             _[^25]  -      -     ?[^26]                                     1-2      8/17
-y
-&ast;paRi-manuk         -      y      -     -     -     -   -   y   y   y       -       4        ɔɔ
-&ast;kaboRa             —      —      —     —     -     y   —   —   y   -   —   —       2        17
+     Table 3.5      Presence/absence of reflexes of POc fish names in twelve languages (4)
+      &ast;paya                ‘anchovy (_Engraulidae_)’
+      &ast;(k,q)aRua(s)        ‘generic for mullet (_Mugilidae_)’
+      &ast;bubu                ‘triggerfish, _Balistes sp._ (_Balistidae_)’
+      &ast;taRat               ‘unicomfish, _Naso spp._, probably incl. _N. brevinostris_ (_Acanthuridae_)’
+      &ast;qaroijo             ‘surgeonfish, _Acanthurus sp._ (_Acanthuridae_)’
+      &ast;mamin               ‘_Cheilinus spp._ (_Labridae_), incl. double-headed Maori wrasse, _C. undulatus_’
+      &ast;taqapa(Rr)          ‘large wrasse, probably _Cheilinus sp._ (_Labridae_)’
+      &ast;magaRut             ‘flying fish (_Exocoetidae_)’
+      'fianapa             ‘garfish, _Hemiramphus sp._ (_Hemiramphidae_)’
+      &ast;paRi-manuk          ‘eagle ray, _Aetobatus narinari_’
+      &ast;kaboRa              ‘catfish-eel, _Plotosus sp._ (_Plotosidae_)’
+                                                                                          CO
+                                                                                         _o         a>
+                                                                                          b
+                          H             S     £                                           c         CL
+      &ast;paya               _[^22]  -            -                                           1          8
+                                        y
+      &ast;(k,q)aRua(s)       y      -      -     -     —     y   y   —   —   y   y   y       6        50
+      &ast;bubu               y      -      -     y     -     -   y   y   y   -   y   y       7        58
+      &ast;taRat              -      y[^23]  -     -           -   —   —       -   —           4        ɔɔ
+                                                    y                 y           y
+                                                                                          o
+      fiaroŋo             y                                               y   y   —       J        25
+      &ast;mamin              y      y      y     -     y                             y       5        42
+      &ast;taqapa(R,r)                                                            -   ?[^24] 3-4     25/33
+                          y                                           y   y
+                                                                                          o
+      &ast;magaRut            y      -      -     -                   y               y       3        25
+      &ast;panapa             _[^25]  -      -     ?[^26]                                     1-2      8/17
+                                                                              y
+      &ast;paRi-manuk         -      y      -     -     -     -   -   y   y   y       -       4        ɔɔ
+      &ast;kaboRa             —      —      —     —     -     y   —   —   y   -   —   —       2        17
 ```
 
 
@@ -331,48 +342,48 @@ y
 Table 3.6 shows the full range of retention rates for the 52 POc etyma. It can be seen that there is wide variation, with the most durable names being ten times more likely to be retained than the least durable.
 
 ```
-Table 3.6      Retention rates for 52 Proto Oceanic fish names
-retentions | Proto Oceanic fish name
---- | ---
-83/91    |  &ast;(n,n)opuq       ‘stonefish, _Synanceia spp._’
-83      &ast;ikan             ‘fish (generic)’
-67      &ast;bakewa           ‘shark (generic)’
-67      &ast;paRi             ‘ray (generic)’
-67      &ast;qalun            ‘skipjack tuna, Katsuwonuspelamis (_Scombridae_)’
-58/67      &ast;kuRapu           ‘rock-cod, _Epinephelus sp._ or spp. (_Serranidae_)’
-58      &ast;bubu             ‘triggerfish, _Balistes sp._ (_Balistidae_)’
-58      &ast;laci             ‘_Scomberoides spp._, incl. _S. lysan_ (_Scrombridae_)’
-50      &ast;(k,q)aRua(s)     ‘mullet, generic (_Mugilidae_)’
-50      &ast;qawaq            ‘milkfish, Chanos chanos (_Chanidae_)’
-50      &ast;taijiRi          ‘_Scombridae_ spp._, probably incl. Spanish mackerel and
-wahoo’
-42     &ast;kasika           ‘large emperor, _Lethrinus sp._ (_Lethrinidae_)’
-42     &ast;qonos            ‘mature barracuda (_Sphyraenidae_)’
-42     &ast;(k,q)umutuR      ‘sweetlips, _Plectorhynchus spp._ (_Haemulidae_)’
-42     &ast;mamin            ‘_Cheilinus spp._, incl. double-headed Maori wrasse,
-_C. undulatus_ (_Labridae_)’
-42      &ast;taRaqan          ‘squirrelfish, _Sargocentron sp._ or spp. (_Holocentridae_)’
-42      &ast;tiqo             ‘goatfish sp. (_Mullidae_)’
-33/42      &ast;saku-layaR       ‘sailfish (_Istiophoridae_)’
-33      &ast;kanase           ‘generic for certain mullet spp. (_Mugilidae_)’
-33      &ast;(k,q)ulapi       ‘parrotfish spp. (_Scaridae_), incl. Hipposcarus longiceps,
-longnosed parrotfish’
-33     &ast;paRi-manuk       ‘eagle ray, _Aetobatus narinari_’
-33     &ast;qume             ‘unicornfish, Naso unicornis (_Acanthuridae_)’
-33     &ast;taRat            ‘unicornfish, _Naso spp._, probably incl. _N. brevinostris_
-(_Acanthuridae_)’
-25/33      &ast;palaja           ‘rabbitfish, _Siganus spp._ (_Siganidae_)’
-25/33      &ast;taqapa(R,r)      ‘large wrasse, probably _Cheilinus sp._ (_Labridae_)’
-25      &ast;bala(i],k)i      ‘surgeonfish, prob, an Acanthurus wad Naso taxon
-25      &ast;bebek            ‘generic for _Chaetodontidae_, butterflyfish’
-25      &ast;don(o, u)        ‘rock cod, possibly _Cephalopholis spp._ (_Serranidae_)’
-25      &ast;jumu             ‘_Balistidae_, triggerfish, and possibly _Monacanthidae_,
-leatherjackets’
-25     &ast;magaRut          ‘flying fish (_Exocoetidae_)’
-25     &ast;muqn(q)          ‘rabbitfish, _Siganus sp._, possibly _S. spinus_ (_Siganidae_)’
-%
-Proto Oceanic fish name
-retentions
+                   Table 3.6      Retention rates for 52 Proto Oceanic fish names
+      retentions | Proto Oceanic fish name
+      --- | ---
+        83/91    |  &ast;(n,n)opuq       ‘stonefish, _Synanceia spp._’
+           83      &ast;ikan             ‘fish (generic)’
+           67      &ast;bakewa           ‘shark (generic)’
+           67      &ast;paRi             ‘ray (generic)’
+           67      &ast;qalun            ‘skipjack tuna, Katsuwonuspelamis (_Scombridae_)’
+        58/67      &ast;kuRapu           ‘rock-cod, _Epinephelus sp._ or spp. (_Serranidae_)’
+           58      &ast;bubu             ‘triggerfish, _Balistes sp._ (_Balistidae_)’
+           58      &ast;laci             ‘_Scomberoides spp._, incl. _S. lysan_ (_Scrombridae_)’
+           50      &ast;(k,q)aRua(s)     ‘mullet, generic (_Mugilidae_)’
+           50      &ast;qawaq            ‘milkfish, Chanos chanos (_Chanidae_)’
+           50      &ast;taijiRi          ‘_Scombridae_ spp._, probably incl. Spanish mackerel and
+                                     wahoo’
+            42     &ast;kasika           ‘large emperor, _Lethrinus sp._ (_Lethrinidae_)’
+            42     &ast;qonos            ‘mature barracuda (_Sphyraenidae_)’
+            42     &ast;(k,q)umutuR      ‘sweetlips, _Plectorhynchus spp._ (_Haemulidae_)’
+            42     &ast;mamin            ‘_Cheilinus spp._, incl. double-headed Maori wrasse,
+                                     _C. undulatus_ (_Labridae_)’
+           42      &ast;taRaqan          ‘squirrelfish, _Sargocentron sp._ or spp. (_Holocentridae_)’
+           42      &ast;tiqo             ‘goatfish sp. (_Mullidae_)’
+        33/42      &ast;saku-layaR       ‘sailfish (_Istiophoridae_)’
+           33      &ast;kanase           ‘generic for certain mullet spp. (_Mugilidae_)’
+           33      &ast;(k,q)ulapi       ‘parrotfish spp. (_Scaridae_), incl. Hipposcarus longiceps,
+                                     longnosed parrotfish’
+            33     &ast;paRi-manuk       ‘eagle ray, _Aetobatus narinari_’
+            33     &ast;qume             ‘unicornfish, Naso unicornis (_Acanthuridae_)’
+            33     &ast;taRat            ‘unicornfish, _Naso spp._, probably incl. _N. brevinostris_
+                                     (_Acanthuridae_)’
+        25/33      &ast;palaja           ‘rabbitfish, _Siganus spp._ (_Siganidae_)’
+        25/33      &ast;taqapa(R,r)      ‘large wrasse, probably _Cheilinus sp._ (_Labridae_)’
+           25      &ast;bala(i],k)i      ‘surgeonfish, prob, an Acanthurus wad Naso taxon
+           25      &ast;bebek            ‘generic for _Chaetodontidae_, butterflyfish’
+           25      &ast;don(o, u)        ‘rock cod, possibly _Cephalopholis spp._ (_Serranidae_)’
+           25      &ast;jumu             ‘_Balistidae_, triggerfish, and possibly _Monacanthidae_,
+                                     leatherjackets’
+            25     &ast;magaRut          ‘flying fish (_Exocoetidae_)’
+            25     &ast;muqn(q)          ‘rabbitfish, _Siganus sp._, possibly _S. spinus_ (_Siganidae_)’
+            %
+                  Proto Oceanic fish name
+     retentions
 ```
 
 25    &ast;pilu          ‘_Caranx sp._ or spp. (_Carangidae_)’ 25    fiaroŋo        ‘surgeonfish, _Acanthurus sp._ (_Acanthuridae_)’ 25    &ast;qalu!e        ‘scad, incl. big-eyed scad, Trachurops crumenophthalmus (_Carangidae_)’ 25     &ast;sabutu        ‘snapper (_Lutjanidae_) or emperor (_Lethrinidae_) sp. or spp.’ 25     &ast;saku          ‘needlefish and long toms (_Belonidae_)’ 25     &ast;taRutu(m,q)   ‘porcupinefish, _Diodon spp._ (_Diodontidae_)’ 25     &ast;tasiwa        ‘snapper, _Lutjanus sp._ (_Lutjanidae_)’ 25     &ast;tuna          ‘generic for freshwater eels (_Anguillidae_)’ 25     &ast;walu          ‘__Scombridae_ sp._ or spp.’ 17/25     &ast;bunaR         ‘batfish, _Platax sp._ or spp., possibly _Naso sp._ or spp.’ 17     &ast;bwa[p,w]a     ‘snapper, _Lutjanus spp._ (_Lutjanidae_)’ 17     &ast;kaboRa        ‘catfish-eel, _Plotosus sp._ (_Plotosidae_)’ 17     &ast;koto(ij)      ‘large rock cod, _Epiphenilus spp._ (_Serranidae_)’ 17     &ast;kulabo        ‘snapper sp. or spp. (_Lethrinidae_)’ 17     &ast;qalu          ‘taxon of barracuda (_Sphyraenidae_)’ 17     &ast;qulua         ‘_Caranx sp._, possibly _C. ignobilis_, big-headed jack (_Carangidae_)’ 8/17     &ast;panapa        ‘garfish, _Hemiramphus sp._ (_Hemiramphidae_) ’ 8     &ast;b‘'a(s,j)i    ‘moray eel (_Moraenidae_)’ 8     &ast;palata        ‘dolphinfish (_Coryphaenidae_)’ 8     &ast;paya          ‘anchovy (_Engraulidae_)’ 8     &ast;tanipa        ‘sardine, _Sardinella sp._ (_Clupeidae_)’
@@ -382,55 +393,57 @@ retentions
 
 
 <a id="s-3-2"></a>
-## 3.2. Some fish names are as persistent as some basic vocabulary items
+
+### 3.2. Some fish names are as persistent as some basic vocabulary items
 
 
 We are now in a position to evaluate the hypothesis that some Proto Oceanic fish names have been as persistent as some basic vocabulary items.
 
-It was noted in [§2.5](#s-2-5) that, in a sample of 40 daughter languages, the 60 most conservative POc basic vocabulary items in a modified 200 item Swadesh list show retention rates ranging between 97 and 23 percent. The 24 most persistent etyma were retained by 70 percent or more languages, 44 etyma were retained by 50 percent or more languages, 54 by 40 percent or more, and 60 by 23 percent or more.
+It was noted in §2.5 that, in a sample of 40 daughter languages, the 60 most conservative POc basic vocabulary items in a modified 200 item Swadesh list show retention rates ranging between 97 and 23 percent. The 24 most persistent etyma were retained by 70 percent or more languages, 44 etyma were retained by 50 percent or more languages, 54 by 40 percent or more, and 60 by 23 percent or more.
 
 No fewer than 38 of the 52 POc fish names examined show retention rates within the range exhibited by the 60 most stable basic vocabulary etyma. Eleven fish names fall within the range of the 44 most stable basic vocabulary etyma. The hypothesis is strongly supported.
 
-Some small caveats must be attached to this conclusion. Methodological difficulties in comparing fish name retentions with basic vocabulary retentions were discussed in [§2](#s-2). In this study the fish name retention rates are based on just 12 languages, whereas the basic vocabulary retention rates are based on 40. (The same 40 languages could not be used in the fish names study for reasons stated in [§2.1](#s-2-1).) If the composition of the two samples, in terms of distribution across major subgroups, were markedly different this might bias the results, because some Oceanic subgroups are known to contain more languages that are lexically conservative than other subgroups. However, the composition is roughly similar so the effects of different sample sizes are probably small.
+Some small caveats must be attached to this conclusion. Methodological difficulties in comparing fish name retentions with basic vocabulary retentions were discussed in §2. In this study the fish name retention rates are based on just 12 languages, whereas the basic vocabulary retention rates are based on 40. (The same 40 languages could not be used in the fish names study for reasons stated in §2.1.) If the composition of the two samples, in terms of distribution across major subgroups, were markedly different this might bias the results, because some Oceanic subgroups are known to contain more languages that are lexically conservative than other subgroups. However, the composition is roughly similar so the effects of different sample sizes are probably small.
 
 
 <a id="p-150"></a>
 
 ```
-Table 3.7   Retention rates in PCP and PPn for fish names by families/groups
-family/group                                  POc           PCP          PPn
-no.    % retained   % retained
-rays                                             2           100           100
-damsels, sergeant-majors (_Pomacentridae_)         2           100           100
-sweetlips (_Plectorhinchinae_)                     2           100            50
-Jo          100            ɔɔ
-ɔɔ
-boxfish (_Ostraciidae_)
-eels                                              7           86            14
-trevally, jacks etc (_Carangidae_)                 6            84            66
-scombrids                                        6            84            84
-garfish (_Heramphidae_)                             5           80            80
-surgeons and unicorns (_Acanthuridae_)            12            75            25
-snapper (_Lutjanidae_                              4            75            50
-rock cod (_Serranidae_)                            4            75            50
-mullet (_Mugilidae_)                               Jo           75            75
-squirrelfish (_Holocentridae_)                     Jo           66            66
-goatfish (_Mullidae_)                              Jo           66             0
-parrotfish (_Scaridae_)                             7           57            57
-rabbitfish (_Siganidae_)                            7           57            43
-wrasses (_Labridae_)                               6            50            33
-emperors (_Lethrinidae_)                            5           40            20
-triggerfish (_Balistidae_)                         4            50            25
-marlin (_Xiphiidae_))                              2            50            50
-sharks                                            7           43            43
-porcupinefish (_Diodontidae_)                       5           40            40
+       Table 3.7   Retention rates in PCP and PPn for fish names by families/groups
+        family/group                                  POc           PCP          PPn
+                                                       no.    % retained   % retained
+        rays                                             2           100           100
+        damsels, sergeant-majors (_Pomacentridae_)         2           100           100
+        sweetlips (_Plectorhinchinae_)                     2           100            50
+                                                         Jo          100            ɔɔ
+                                                                                    ɔɔ
+        boxfish (_Ostraciidae_)
+        eels                                              7           86            14
+        trevally, jacks etc (_Carangidae_)                 6            84            66
+        scombrids                                        6            84            84
+        garfish (_Heramphidae_)                             5           80            80
+        surgeons and unicorns (_Acanthuridae_)            12            75            25
+        snapper (_Lutjanidae_                              4            75            50
+        rock cod (_Serranidae_)                            4            75            50
+        mullet (_Mugilidae_)                               Jo           75            75
+        squirrelfish (_Holocentridae_)                     Jo           66            66
+        goatfish (_Mullidae_)                              Jo           66             0
+        parrotfish (_Scaridae_)                             7           57            57
+        rabbitfish (_Siganidae_)                            7           57            43
+        wrasses (_Labridae_)                               6            50            33
+        emperors (_Lethrinidae_)                            5           40            20
+        triggerfish (_Balistidae_)                         4            50            25
+        marlin (_Xiphiidae_))                              2            50            50
+        sharks                                            7           43            43
+        porcupinefish (_Diodontidae_)                       5           40            40
 ```
 
 Only two fish names have retention rates of more than 70 percent, ranking with the most stable 24 basic vocabulary items. One of these is the life form taxon _&ast;ikan_ ‘fish’. The other is the generic _&ast;(n,n)opuq_ ‘stonefish’. These repulsive-looking fish are not economically useful but are extremely dangerous denizens of the shallow sandy bottoms. The next three most stable forms consist of the respective generics for sharks and rays, _&ast;bakewa_ and _&ast;paRi_, together with _&ast;qatun_, which denotes one or more species of much-prized game fish in the bonito and tuna family. Sharks and rays are extremely salient fish for several reasons: they are highly distinctive in appearance and behaviour, very large, some kinds are dangerous, and they have economic importance. The next five names in the top ten all denote large or fairly large fish that are highly regarded as food.
 
 
 <a id="s-3-3"></a>
-## 3.3. Retention rates of names by families or higher-order groups
+
+### 3.3. Retention rates of names by families or higher-order groups
 
 
 Have names for taxa belonging to certain families of fish been more persistent than names for taxa belonging to other families? An answer to this question requires comparison of all secure POc reconstructions with a later language or languages. One set of comparisons that can readily be made is between POc, PCP and PPn. Table 3.7 specifies the number of retentions in PCP and PPn of reconstructed POc names for fish belonging to particular families or, in the case of sharks, rays and eels, high-order groups.
@@ -439,31 +452,32 @@ Have names for taxa belonging to certain families of fish been more persistent t
 <a id="p-151"></a>
 
 ```
-Table 3.8   Retention rates by language for 52 POc fish names
-language                no.   percentage
-retentions      retained
-Wayan                29-30         56-58
-Niuatoputapu            28            54
-Titan                   24            46
-Satawalese              20            38
-Motu                    17            33
-Kiribati             16-19         31-36
-Gela                    16            31
-Lau                     15            29
-Arosi                12-13         23-25
-Marovo                   9            18
-Teop                   8-9         16-18
-Mutu                     8            16
+               Table 3.8   Retention rates by language for 52 POc fish names
+                           language                no.   percentage
+                                            retentions      retained
+                           Wayan                29-30         56-58
+                           Niuatoputapu            28            54
+                           Titan                   24            46
+                           Satawalese              20            38
+                           Motu                    17            33
+                           Kiribati             16-19         31-36
+                           Gela                    16            31
+                           Lau                     15            29
+                           Arosi                12-13         23-25
+                           Marovo                   9            18
+                           Teop                   8-9         16-18
+                           Mutu                     8            16
 ```
 
 Unfortunately, numbers in most groups are too low to make tests of statistical significance useful. Among those groups with four or more POc names it is noteworthy that carangids, scombrids, rock cod and mullet, all important food fish, show high retention rates in both PCP and PPn. But it is unclear why, of the four names in the sample representing carangids, one, _&ast;laci_ ‘_Scomberoides_ spp. incl. _S. lysan_’, has been very durable (scoring 58%) while the other three have not (_&ast;qatule_, probably denoting the big-eyed scad, _&ast;qulua_ and _&ast;pilu_, both denoting _Caranx sp._ or spp., all score 25% or less). It is also striking that although most POc names for kinds of eels and for _Acanthuridae_ (surgeonfish and unicomfish) are retained in PCP, very few are kept in PPn.
 
 
 <a id="s-3-4"></a>
-## 3.4. Variation in retention rate among languages in the sample
+
+### 3.4. Variation in retention rate among languages in the sample
 
 
-The 12 languages vary greatly in their retention rates for fish names (Table 3.8). This finding is consistent with what is known about retention rates for basic vocabulary among Austronesian languages in general ([Blust 1981](../references.md#source-Blust1981b), 1999).
+The 12 languages vary greatly in their retention rates for fish names (Table 3.8). This finding is consistent with what is known about retention rates for basic vocabulary among Austronesian languages in general ([Blust 1981](../references.md#source-Blust1981b), [1999](../references.md#source-Blust1999)).
 
 The percentages for certain languages are likely to have been deflated by the incompleteness of the fish name lists for these languages, particularly Kiribati and Mutu and to a lesser extent Arosi, Lau, Niuatoputapu and Teop.
 
@@ -471,21 +485,23 @@ The percentages for certain languages are likely to have been deflated by the in
 <a id="p-152"></a>
 
 ```
-Table 3.9    Total recorded fish names in 12 Oceanic languages
-Wayan          Satawalese    Gela    Marovo     Titan      Uvean
-484            400           368     316        287        284
-K’marangi      Marquesan     Niua    Teop       Kiribati   Mutu
-262            260           209     197        151        145
+               Table 3.9    Total recorded fish names in 12 Oceanic languages
+               Wayan          Satawalese    Gela    Marovo     Titan      Uvean
+               484            400           368     316        287        284
+               K’marangi      Marquesan     Niua    Teop       Kiribati   Mutu
+               262            260           209     197        151        145
 ```
 
 
 <a id="s-4"></a>
+
 ## 4. Estimating the size of the Proto Oceanic lexicon of fish names
 
 
 
 <a id="s-4-1"></a>
-## 4.1. Introduction
+
+### 4.1. Introduction
 
 
 Let us turn now to another set of questions. How many fish taxa were distinguished in POc? What proportion of the fish names were uninomials and binomials, respectively?
@@ -505,20 +521,21 @@ For reasons to be discussed below, it is likely that none of the inventories of 
 
 ```
 Table 3.10     Uninomials and binomials in 11 contemporary Oceanic languages and in POc,
-PCP and PPn
-Mutu             Gela      Wayan     Marovo      Satawalese      Titan   Uvean
-uninomials        104              252        352         194            278        279      180
-binomials          41              100        132         122             122          8     104
-% binomials        28               27         28          38              30          3      36
-Niua     K’marangi      Kiribati        Teop             POc      PCP     PPn
-uninomials         138           148          132          168              140      150    112
-binomials           71           114           19           29                1        3      2
-% binomials         34            43           14           15                1        2      2
+                                      PCP and PPn
+                     Mutu             Gela      Wayan     Marovo      Satawalese      Titan   Uvean
+    uninomials        104              252        352         194            278        279      180
+    binomials          41              100        132         122             122          8     104
+    % binomials        28               27         28          38              30          3      36
+                      Niua     K’marangi      Kiribati        Teop             POc      PCP     PPn
+    uninomials         138           148          132          168              140      150    112
+    binomials           71           114           19           29                1        3      2
+    % binomials         34            43           14           15                1        2      2
 ```
 
 
 <a id="s-4-2"></a>
-## 4.2. Estimating absolute numbers of names
+
+### 4.2. Estimating absolute numbers of names
 
 
 One method of detecting gaps is simply to compare the total number of fish names recorded for each language in a representative sample. It can be seen that, among the 12 languages cited in Table 3.9, the total number of names varies greatly.[^27]
@@ -527,7 +544,8 @@ Insofar as all these languages are spoken by fishing communities who use similar
 
 
 <a id="s-4-3"></a>
-## 4.3. Number and ratio of uninomials to binomials
+
+### 4.3. Number and ratio of uninomials to binomials
 
 
 Another method is to compare the ratio of uninomials and binomials that have been recorded, as well as the absolute numbers of each (Table 3.10).
@@ -540,15 +558,16 @@ In the best documented Oceanic fish taxonomies, binomials normally amount to bet
 <a id="p-154"></a>
 
 ```
-Table 3.11    Grouper, rock cod, coral cod (_Serranidae_); trevally and jacks (_Carangidae_)
-Niua     Uvean      Kiribati    Satawalese    Gela    Wayan    Titan    Teop    PPn
-_Serranidae_       12        28           14             26     26        21       19       7      6
-_Carangidae_        6        12           16             21     43        10       18      11     12
+  Table 3.11    Grouper, rock cod, coral cod (_Serranidae_); trevally and jacks (_Carangidae_)
+                Niua     Uvean      Kiribati    Satawalese    Gela    Wayan    Titan    Teop    PPn
+ _Serranidae_       12        28           14             26     26        21       19       7      6
+ _Carangidae_        6        12           16             21     43        10       18      11     12
 ```
 
 
 <a id="s-4-4"></a>
-## 4.4. Comparison of number of fish names family by family
+
+### 4.4. Comparison of number of fish names family by family
 
 
 Yet another indicator of how complete the record of fish names for a particular language is, comes from cross-linguistic comparison of the number of taxa or names for each particular biological family (or sometimes a group of related families). Fairly consistent patterns emerge as to how many taxa are typically distinguished in each family or larger group. If the number of recorded taxa in a language is much lower than the average or median this is a sign that the list is incomplete.
@@ -560,20 +579,20 @@ The _Serranidae_ and _Carangidae_ (Table 3.11) both contain many species and man
 With hundreds of species each, the _Labridae_ and _Scaridae_ (Table 3.12) are two of the largest and morphologically most diverse families. Both families contain many important food fish. Kiribati and Niuatoputapu are anomalous in distinguishing only three and four terms for _Labridae_. Wayan stands out in distinguishing as many as 48. Twenty-seven of the Wayan terms are uninomials, so even if we discount some binomials as being merely descriptive the number of valid taxa remains high.
 
 ```
-Table 3.12     Wrasses (_Labridae_); parrotfish (_Scaridae_)
-Niua     Uvean      Kiribati    Satawalese    Gela    Wayan    Titan    Teop    PPn
-_Labridae_        4         9            3             14      17       48       10      14     4/5
-_Scaridae_        9        14            5             28      11       16       18      13     5/6
+                      Table 3.12     Wrasses (_Labridae_); parrotfish (_Scaridae_)
+               Niua     Uvean      Kiribati    Satawalese    Gela    Wayan    Titan    Teop    PPn
+  _Labridae_        4         9            3             14      17       48       10      14     4/5
+  _Scaridae_        9        14            5             28      11       16       18      13     5/6
 ```
 
 
 <a id="p-155"></a>
 
 ```
-Table 3.13        Goatfish (_Mullidae_); mullet (_Mugilidae_)
-Niua       Uvean       Kiribati    Satawalese   Gela   Wayan    Titan    Teop     PPn
-_Mullidae_          8          10             3             15      8      10        9       6       6
-_Mugilidae_         7           7              5             8      2       2        7       3       4
+                       Table 3.13        Goatfish (_Mullidae_); mullet (_Mugilidae_)
+                Niua       Uvean       Kiribati    Satawalese   Gela   Wayan    Titan    Teop     PPn
+ _Mullidae_          8          10             3             15      8      10        9       6       6
+ _Mugilidae_         7           7              5             8      2       2        7       3       4
 ```
 
 _Mullidae_, goatfish (aka grey mullet, Table 3.13) are a fairly numerous family of shallow water feeders, usually caught in nets or traps, and which are easily identified by the pair of barbels on the chin. There is usually a generic term for the family as well as a number of named kinds. _Mugilidae_, mullet (aka red mullet), are a small family of shallow water feeders, with just a few species present in any one locality, but are economically important and each species is often distinctively named. The Gela, Wayan and Teop lists are anomalous in distinguishing only two or three _Mugilidae_ taxa.
@@ -585,51 +604,51 @@ The _Acanthuridae_ (Table 3.15) are a moderately us family of reef grazers which
 The _Holocentridae_ (Table 3.16) are small, brilliant shallow water coral fishes. There is often a generic for the family and invariably several taxa are named. The _Balistidae_, grazing fish of the coral reef and weedy shallows, number many species. Most are distinctively marked with bright colours and many are separately named. Some are poisonous. The _Aluteridae_ comprise many species of small or medium sized grazing fish, similar in habits to the _Balistidae_. Some species are considered poisonous. _Aluteridae_ and _Balistidae_ are sometimes subsumed under a single generic in Oceanic languages. There is a marked gap between Satawalese and Wayan and the rest in number of names for _Holocentridae_ and for _Balistidae_ and _Aluteridae_.
 
 ```
-Table 3.14     Mackerels and tuna (Scombroidei); marlin and swordfish (_Xiphiidae_)
-Niua       Uvean       Kiribati   Satawalese   Gela   Wayan   Titan    Teop    PPn
-scombrids       8          12          7           10       9       6      13        6      4
-_Xiphiidae_     1           1          3            2       1       3       2        1      1
+    Table 3.14     Mackerels and tuna (Scombroidei); marlin and swordfish (_Xiphiidae_)
+                 Niua       Uvean       Kiribati   Satawalese   Gela   Wayan   Titan    Teop    PPn
+    scombrids       8          12          7           10       9       6      13        6      4
+    _Xiphiidae_     1           1          3            2       1       3       2        1      1
 ```
 
 
 <a id="p-156"></a>
 
 ```
-Table 3.15     Surgeonfish/unicornfishes (_Acanthuridae_); rabbitfish (_Siganidae_)
-Niua       Uvean    Kiribati       Satawalese       Gela       Wayan       Titan       Teop       PPn
-_Acanthuridae_        13          23         10                32         19          20          10         11         9
-_Siganidae_           3           4           1                4         19          10          13          7         2
+       Table 3.15     Surgeonfish/unicornfishes (_Acanthuridae_); rabbitfish (_Siganidae_)
+                    Niua       Uvean    Kiribati       Satawalese       Gela       Wayan       Titan       Teop       PPn
+  _Acanthuridae_        13          23         10                32         19          20          10         11         9
+   _Siganidae_           3           4           1                4         19          10          13          7         2
 ```
 
 ```
-Table 3.16     Squirrelfish/soldierfish (_Holocentridae_); triggerfish (_Balistidae_) and
-leatherjackets (_Aluteridae_ incl. _Monacanthidae_)
-Niua       Uvean    Kiribati       Satawalese       Gela       Wayan       Titan       Teop       PPn
-_Holocentridae_        4          11          5                14          5          10           5          5         6
-_Balistidae_
-5          11           3               22         11          25           9         11         1
-and _Aluteridae_
+      Table 3.16     Squirrelfish/soldierfish (_Holocentridae_); triggerfish (_Balistidae_) and
+                       leatherjackets (_Aluteridae_ incl. _Monacanthidae_)
+                    Niua       Uvean    Kiribati       Satawalese       Gela       Wayan       Titan       Teop       PPn
+  _Holocentridae_        4          11          5                14          5          10           5          5         6
+  _Balistidae_
+                       5          11           3               22         11          25           9         11         1
+  and _Aluteridae_
 ```
 
 The _Lutjanidae_ (snappers, Table 3.17) are a large family of carnivorous fish, mostly bottom dwellers moving in schools in outer coral reefs and lagoons. The _Lethrinidae_ (emperors) comprise about 20 species living mainly in shallow, coastal waters. Noteworthy here is the high number of terms for kinds of snapper in Gela, and the low numbers for Wayan, and also the high number of Titan terms for emperors. The fact that authors providing lists of fish names and identifications for Oceanic languages often follow conflicting scientific taxonomies creates difficulties in comparing group totals across languages. Taxonomists disagree, for example, over whether _Lethrinidae_ and _Plectorhinchinae_ (grunters, sweetlips) should be assigned to the family _Lutjanidae_ or to separate families. Members of these closely related groups are carnivorous, usually have large heads, equal jaws and a forked tail-fin. They are an important food source and many taxa are distinguished but as a rule, Oceanic languages have no generic terms for any of the families (or sub-families) in question.
 
 ```
 Table 3.17     Snapper, sea-perch, bass (_Lutjanidae_); emperors (_Lethrinidae_); sweetlips and
-grunters (_Plectorhinchinae_)
-Niua       Uvean     Kiribati      Satawalese       Gela       Wayan       Titan       Teop       PPn
-_Lutjanidae_            13          16          13                8        23               7       17         11        10
-_Lethrinidae_               3       10              7            13         15          10          23             7         3
-_Plectorhinchinae_          0        ?              0                2          6       12              7          1         ?
+                                grunters (_Plectorhinchinae_)
+                     Niua       Uvean     Kiribati      Satawalese       Gela       Wayan       Titan       Teop       PPn
+ _Lutjanidae_            13          16          13                8        23               7       17         11        10
+ _Lethrinidae_               3       10              7            13         15          10          23             7         3
+ _Plectorhinchinae_          0        ?              0                2          6       12              7          1         ?
 ```
 
 
 <a id="p-157"></a>
 
 ```
-Table 3.18     Sharks and rays
-Niua    Uvean    Kiribati     Satawalese    Gela     Wayan    Titan    Teop    PPn
-sharks       7       13           7             10      10        13        8       6      5
-rays         5        7           5              7       4         9        5      10      3
+                                 Table 3.18     Sharks and rays
+             Niua    Uvean    Kiribati     Satawalese    Gela     Wayan    Titan    Teop    PPn
+   sharks       7       13           7             10      10        13        8       6      5
+   rays         5        7           5              7       4         9        5      10      3
 ```
 
 Sharks and rays (Table 3.18) each fall into several families, some with several species. Individual species tend to be salient because of their size and distinctive morphology and behaviour and, in some cases, because they are eaten. In Oceanic languages there is almost always a generic term for sharks and another for rays, and the generics generally have several subtaxa. The Kiribati, Niuatoputapu, Titan and Teop totals for sharks are on the low side, as is the Gela total for rays.
@@ -643,42 +662,42 @@ The _Clupeidae_ (Table 3.20) are small migratory shoaling fish of shallow coasta
 The genus Synanceia (stonefish) is sometimes included by ichthyologists in the family _Scorpaenidae_ (scorpionfish) and the two groups are lumped together here (Table 3.21). Species of this morphologically diverse family all have long poisonous pectoral and dorsal spines. The Synanceia have the most potent of all the fish venoms, secreted from glands at the base of their needle-like dorsal fin spines. They have large grotesquely shaped heads and mouths and conceal themselves by lying in mud, sand, coral or weeds, and are extremely dangerous. Wayan distinguishes many more scorpionfish and stonefish taxa than the other languages. The fact that most Wayan names are uninomials suggests that lists for some of the other languages are incomplete.
 
 ```
-Table 3.19     Eels (Anguilliformes); barracuda (_Sphyraenidae_)
-Niua    Uvean     Kiribati    Satawalese    Gela     Wayan    Titan    Teop    PPn
-eels           10       16           7             14        8       10        6       9      3
-barracuda       2        5           2              5       Jo        5        5       4      3
+               Table 3.19     Eels (Anguilliformes); barracuda (_Sphyraenidae_)
+              Niua    Uvean     Kiribati    Satawalese    Gela     Wayan    Titan    Teop    PPn
+ eels           10       16           7             14        8       10        6       9      3
+ barracuda       2        5           2              5       Jo        5        5       4      3
 ```
 
 
 <a id="p-158"></a>
 
 ```
-Table 3.20             Sardines and herrings (_Clupeidae_); milkfish (_Chanidae_);
-silversides/hardyheads (_Atherinidae_)
-Niua           Uvean       Kiribati           Satawalese    Gela       Wayan       Titan       Teop         PPn
-_Clupeidae_          1               ?             5                     0       1           7           7          0             4
-ɔ                                   1         1         1           1            1           1
-_Chanidae_           1               ɔ              1
-ɔ                                  0           0
-_Atherinidae_        0               1             0                     0         ɔ         1          0
+              Table 3.20             Sardines and herrings (_Clupeidae_); milkfish (_Chanidae_);
+                                        silversides/hardyheads (_Atherinidae_)
+                      Niua           Uvean       Kiribati           Satawalese    Gela       Wayan       Titan       Teop         PPn
+      _Clupeidae_          1               ?             5                     0       1           7           7          0             4
+                                         ɔ                                   1         1         1           1            1           1
+      _Chanidae_           1               ɔ              1
+                                                                                       ɔ                                  0           0
+      _Atherinidae_        0               1             0                     0         ɔ         1          0
 ```
 
 ```
-Table 3.21              Scorpionfish (_Scorpaenidae_) and stonefish (Synanceia)
-Niua           Uvean        Kiribati          Satawalese      Gela     Wayan        Titan        Teop         PPn
-_Scorpaenidae_                    ɪ                              ɪ
-7        4         16              4            2       1
-and _Synanceiidae_
+              Table 3.21              Scorpionfish (_Scorpaenidae_) and stonefish (Synanceia)
+                        Niua           Uvean        Kiribati          Satawalese      Gela     Wayan        Titan        Teop         PPn
+ _Scorpaenidae_                    ɪ                              ɪ
+                                                                                  7        4         16              4            2       1
+ and _Synanceiidae_
 ```
 
 The _Blennidae_ (blennies, Table 3.22) are a large family of agile, small elongated fish of shallow reef waters and tidal pools. The _Gobiidae_ (gobies) are usually very small fish of tidal pools, reefs and estuaries. The _Periopthalmidae_ (mudskippers) comprise a few small amphibious species of mangrove swamps and muddy shores. Figures for these three families are lumped together here both because lexicographical identifications are often vague, and because ichthyologists have trouble deciding how many families should be distinguished. The totals for Satawalese and Gela are spectacularly higher than the rest. Most Gela terms are binomials and it is possible that some represent ad hoc descriptive epithets rather than conventional names.
 
 ```
-Table 3.22         Blennies (_Blennidae_), gobies (_Gobidae_) and mudskippers (_Periopthalmidae_)
-Niua           Uvean        Kiribati          Satawalese       Gela     Wayan       Titan         Teop         PPn
-_Blennidae_,
-_Gobidae_ and                 1               ?              0                23        28            5           2            1       1(?)
-_Periopthalmidae_
+ Table 3.22         Blennies (_Blennidae_), gobies (_Gobidae_) and mudskippers (_Periopthalmidae_)
+                       Niua           Uvean        Kiribati          Satawalese       Gela     Wayan       Titan         Teop         PPn
+ _Blennidae_,
+ _Gobidae_ and                 1               ?              0                23        28            5           2            1       1(?)
+ _Periopthalmidae_
 ```
 
 
@@ -690,12 +709,13 @@ POc speakers lived in the Bismarck Archipelago, a region with a very rich fish f
 
 
 <a id="s-5"></a>
+
 ## 5. Where have all the fish names gone?
 
 
 The total number of fish names so far reconstructed for POc (145) falls far short of the number that we estimate were used by speakers of the language. Why are so many names missing from the reconstructed inventory? A similar question can be asked about PCP (150-160 reconstructions) and PPn (115).
 
-One category of missing names can easily be identified: binomials. The only secure binomial reconstructed for POc is _&ast;paRi manuk_ ‘eagle ray, _Aetobatus narinari_ (lit. ‘bird ray’). (_&ast;saku-layaR_ ‘swordfish’ is historically analysable into _&ast;saku_ ‘needlefish and long toms’ plus _&ast;layaR_ ‘sail’, but it was not a binomial: it is clear from contemporary evidence that _&ast;saku-layaR_ were not a kind of _&ast;saku_) Of the 160 reconstructions in Geraghty’s (1994) list of PCP fish names, just two are binomials. Of the 115 fish names that Hooper (1994) reconstructs for PPn, just three are binomials. The lack of widespread fully cognate binomial terms confirms what many commentators (e.g. Rensch 1983) have said: binomials, or to be more exact, the secondary or modifying terms in binomials, are notoriously unstable. Binomials generally make up around 30 percent of the total taxa in Oceanic fish taxonomies (see [§3](#s-3)). The chances are that most of this 30 percent of missing POc terms will never be recoverable.
+One category of missing names can easily be identified: binomials. The only secure binomial reconstructed for POc is _&ast;paRi manuk_ ‘eagle ray, _Aetobatus narinari_ (lit. ‘bird ray’). (_&ast;saku-layaR_ ‘swordfish’ is historically analysable into _&ast;saku_ ‘needlefish and long toms’ plus _&ast;layaR_ ‘sail’, but it was not a binomial: it is clear from contemporary evidence that _&ast;saku-layaR_ were not a kind of _&ast;saku_) Of the 160 reconstructions in Geraghty’s (1994) list of PCP fish names, just two are binomials. Of the 115 fish names that Hooper (1994) reconstructs for PPn, just three are binomials. The lack of widespread fully cognate binomial terms confirms what many commentators (e.g. Rensch 1983) have said: binomials, or to be more exact, the secondary or modifying terms in binomials, are notoriously unstable. Binomials generally make up around 30 percent of the total taxa in Oceanic fish taxonomies (see §3). The chances are that most of this 30 percent of missing POc terms will never be recoverable.
 
 The dramatic difference between uninomial and binomial retention rates, presumably, has something to do with the geographic distribution of species as opposed to genera. Folk generics, represented by uninomials, are typically applied to two or more species of a biological genus and are sometimes applied to whole families. The same genera and families of fish tend to occur throughout the tropical Indo-Pacific. By contrast, folk specifics, often represented by binomials, typically apply to a single biological species or a group of closely related species and the geographic distribution of species tends to be more localised. Thus, modifying terms for folk specifics do not ‘travel’ as well as generic terms. But perhaps the main reason is that while generic names are usually arbitrary, modifiers almost always describe a feature of the morphology, the behaviour or the ecological niche of particular species. Accordingly, a number of competing modifiers may suggest themselves as equally convenient ways of distinguishing a particular member of a folk genus, so that even when a species is ubiquitous the original modifier in a binomial will often be subject to competition.
 

@@ -4,10 +4,11 @@ by Malcolm Ross
 
 
 <a id="s-1"></a>
+
 ## 1. Introduction
 
 
-Arboriculture apparently played a role in Bismarcks food production long before the arrival of Austronesian speakers and the latter quit1e possibly acquired some of their arboriculture practices from Papuan speaking neighbours (chapter 2, [§4](#s-4)). With the introduction of agricul- ture, garden and forest tended to overlap. Sometimes the garden would include food-bearing trees that survived from the primary forest, and sometimes food-bearing species would be planted in a garden or orchard or near to the village. At the same time, forest trees continued to be tended in situ and came to be owned by particular families.
+Arboriculture apparently played a role in Bismarcks food production long before the arrival of Austronesian speakers and the latter quit1e possibly acquired some of their arboriculture practices from Papuan speaking neighbours (chapter 2, §4). With the introduction of agricul- ture, garden and forest tended to overlap. Sometimes the garden would include food-bearing trees that survived from the primary forest, and sometimes food-bearing species would be planted in a garden or orchard or near to the village. At the same time, forest trees continued to be tended in situ and came to be owned by particular families.
 
 [Kennedy & Clarke](../references.md#source-KennedyandClarke2004) ([2004](../references.md#source-KennedyandClarke2004)) and others have emphasised the cline that ranges from trees which grow wild in the bush to trees that are: cultivated in orchards, with various degrees of tree-tending between the two extremes. Continuous cultivation entails domestication, i.e. on- going control of reproduction and selection of varieties through the planting of ripe fruits or germinated seeds or through the transplanting ofvigorous seedlings ([Yen 1991](../references.md#source-Yen1991)). The result- ing cultivars often have separate local names, whereas forest varieties generally do not. Wal- ter & Sam (2002: 73-74) suggest that the geographic distribution of domesticated tree species reflects human settlement in the Pacific. As domesticated species they list the following: can- arium nuts, Canarium spp., the Tahitian chestnut, Inocarpusfagifer, cutnuts, Barringtonia edulis, B. novae-hiberniae and B. procera, the Polynesian plum, alias golden apple, Spondias cytherea, the island lychee, Pometia pinnata, and the Malay apple, Syzygium malaccense. To this list [Mueller-Dombois & Fosberg](../references.md#source-MuellerDomboisandFosberg1998) ([1998](../references.md#source-MuellerDomboisandFosberg1998): 56-57) add the dragon plum, Dracontomelon vitiense and [Yen](../references.md#source-Yen1991) ([1991](../references.md#source-Yen1991)) adds Burckella obovata. Paijmans (1976: 123-124) notes that in the New Guinea region Terminalia catappa and T. kaernbachii are also often planted.
 
@@ -16,20 +17,22 @@ All are actively cultivated close to villages and have been subject to continuou
 
 <a id="p-312"></a>
 
-The remainder of this chapter is organised as follows. First, domesticated nut trees are treated ([§2](#s-2)), then domesticated fruit trees ([§3](#s-3)), and finally trees that are regularly exploited for their fruit but are generally not domesticated ([§4](#s-4)). The boundary around this last category is somewhat arbitrary. It includes trees which are often mentioned in the literature as sources of edible fruit. It excludes trees that are more often mentioned as having other uses: these include Morinda citrifolia, and various species of Diospyros, Macaranga and Garcinia, the fruits of which are all mentioned by Paijmans (1976: 124) as occasionally consumed. It also excludes those species of Ficus which have edible figs, as these are treated in ch.1 0, [§4](#s-4).
+The remainder of this chapter is organised as follows. First, domesticated nut trees are treated (§2), then domesticated fruit trees (§3), and finally trees that are regularly exploited for their fruit but are generally not domesticated (§4). The boundary around this last category is somewhat arbitrary. It includes trees which are often mentioned in the literature as sources of edible fruit. It excludes trees that are more often mentioned as having other uses: these include Morinda citrifolia, and various species of Diospyros, Macaranga and Garcinia, the fruits of which are all mentioned by Paijmans (1976: 124) as occasionally consumed. It also excludes those species of Ficus which have edible figs, as these are treated in ch.1 0, §4.
 
-The trees investigated by [Kennedy & Clarke](../references.md#source-KennedyandClarke2004) ([2004](../references.md#source-KennedyandClarke2004)) in their examination ofarboriculture include three that are considered among the staple foods in chapter 9: the banana plant (ch.9, [§3](#s-3)), the breadfuit tree (ch.9, [§4](#s-4)), and the sago palm (ch.9, [§5.1](#s-5-1)). Another cultivated tree is Gnetum gnemon, the leaves of which serve as a green vegetable, treated in chapter 10, [§2.3](#s-2-3). These trees and plants are not considered further here, nor is the coconut palm, which is discussed in some detail in chapter 12. Instead, the focus of this chapter is nut- and fruit- bearing species that loom large in Bismarcks arboriculture.
+The trees investigated by [Kennedy & Clarke](../references.md#source-KennedyandClarke2004) ([2004](../references.md#source-KennedyandClarke2004)) in their examination ofarboriculture include three that are considered among the staple foods in chapter 9: the banana plant (ch.9, §3), the breadfuit tree (ch.9, §4), and the sago palm (ch.9, §5.1). Another cultivated tree is Gnetum gnemon, the leaves of which serve as a green vegetable, treated in chapter 10, §2.3. These trees and plants are not considered further here, nor is the coconut palm, which is discussed in some detail in chapter 12. Instead, the focus of this chapter is nut- and fruit- bearing species that loom large in Bismarcks arboriculture.
 
 
 <a id="s-2"></a>
+
 ## 2. Domesticated nut trees
 
 
-Ironically none of the genera considered in this section is a true nut, but agriculturalists writ- ing about Pacific plants ([Bourke 1996](../references.md#source-Bourke1996), [Evans 1999](../references.md#source-Evans1999)) call them nuts and it is convenient to retain this usage. Botanically nuts are single-seed dry fruits in which the seed remains sepa- rate from its hard enveloping pericarp. Examples are the hazelnut, Corylus americana, and the chestnut, Castanea dentata. Many 'nuts' in popular parlance are botanically drupes rather than nuts. In a drupe the peri carp consists of an outer skin or exocarp, a middle layer or meso- carp and a very hard inner layer or endocarp surrounding the seed. 'False nuts' consist of the endocarp and seed of a drupe. They include th1~ first five genera discussed here-canarium almonds, Canarium spp. ([§2.1](#s-2-1) ), the sea almond and the okari nut, Terminalia spp. ([§2.4](#s-2-4)), cut- nuts, Barringtonia spp. ([§2.3](#s-2-3)), and the various species of Pandanus-as well as the coconut (see ch.12, figure 12.1), the candlenut, Aleurites moluccana (ch.l3, [§3.2](#s-3-2)), the macadamia, Macadamia integrifolia, and the almond proper, Prunus dulcis. Fleshy fruits like the peach, P. persica, the plum, P. domestica, the apricot, P. armeniaca, the ocean lychee, Pometia pin- nata ([§3.5](#s-3-5)) and mangoes, Mangifera spp. ([§3.4](#s-3-4)), are also drupes, but the fleshy mesocarp is eaten, not the endocarp and seed. Some 'nuts', like the Brazil nut, Bertholletia excelsa, and the canarium nut, Canarium indicum, are simply seeds.
+Ironically none of the genera considered in this section is a true nut, but agriculturalists writ- ing about Pacific plants ([Bourke 1996](../references.md#source-Bourke1996), [Evans 1999](../references.md#source-Evans1999)) call them nuts and it is convenient to retain this usage. Botanically nuts are single-seed dry fruits in which the seed remains sepa- rate from its hard enveloping pericarp. Examples are the hazelnut, Corylus americana, and the chestnut, Castanea dentata. Many 'nuts' in popular parlance are botanically drupes rather than nuts. In a drupe the peri carp consists of an outer skin or exocarp, a middle layer or meso- carp and a very hard inner layer or endocarp surrounding the seed. 'False nuts' consist of the endocarp and seed of a drupe. They include th1~ first five genera discussed here-canarium almonds, Canarium spp. (§2.1 ), the sea almond and the okari nut, Terminalia spp. (§2.4), cut- nuts, Barringtonia spp. (§2.3), and the various species of Pandanus-as well as the coconut (see ch.12, figure 12.1), the candlenut, Aleurites moluccana (ch.l3, §3.2), the macadamia, Macadamia integrifolia, and the almond proper, Prunus dulcis. Fleshy fruits like the peach, P. persica, the plum, P. domestica, the apricot, P. armeniaca, the ocean lychee, Pometia pin- nata (§3 .5) and mangoes, Mangifera spp. (§3.4), are also drupes, but the fleshy mesocarp is eaten, not the endocarp and seed. Some 'nuts', like the Brazil nut, Bertholletia excelsa, and the canarium nut, Canarium indicum, are simply seeds.
 
 
 <a id="s-2-1"></a>
-## 2.1. Canarium spp. (Burseraceae)
+
+### 2.1. Canarium spp. (Burseraceae)
 
 
 Canarium is one of a suite of plants that wer,e domesticated in the rain forests of north- em New Guinea during the early Holocene. Other members of the suite were the bread- fruit (Artocarpus altilis) and the two fruit trees Pometia pinnata and Burckella obovata ([Yen 1996](../references.md#source-Yen1996)). Canarium is the most important nut-bearing genus in Papua New Guinea, cultivated by almost a third of the rural population ([Bourke & Allen forthcoming](../references.md#source-BourkeandAllenforthcoming)) .
@@ -38,20 +41,20 @@ Canarium is one of a suite of plants that wer,e domesticated in the rain forests
 <a id="p-313"></a>
 
 ```
-Whole fruit
-~
-lesh/
-0                        ~mesocarp
-~
-""-skin/
-exocarp
-Nut in shell
-0
-Kernel in skin
-skin/testa
-~            ·
-kernel
-= 2 seeds
+                                                                         Whole fruit
+                                                                                 ~
+                                                                                              lesh/
+                                                         0                        ~mesocarp
+                                                                                  ~
+                                                                                            ""-skin/
+                                                                                               exocarp
+                                                                          Nut in shell
+                                                           0
+                                                                        Kernel in skin
+                                                                                            skin/testa
+                                                                                    ~            ·
+                                                                                            kernel
+                                                                                            = 2 seeds
 Figure 11.1 Left Canarium indicum: A, tree; B, portion of leaf showing terminal four leaflets;
 C, portion of branch showing large stipules (leaftike appendages at base of leaf stalk); D, immature
 inflorescence; E. cluster of fruit.; F, opened pericarp (exocarp + mesocarp + endocarp); G, opened
@@ -67,7 +70,7 @@ C. indicum grows to a height of 15-30 m and in the wild is one of the smaller tr
 
 Particular tree species display considerable: variation in their forms, and this variation reflects the time depth of cultivation and domestication. Thus round fruit predominate in Vanuatu, oval fruit in the Solomons. Nuts may contain one kernel or two, which may be white or yellow. The rhythm of flowering, which can be altered by vigorous pruning, varies so that trees can be harvested at different times. C. indicum trees are usually individually owned and in some areas are tended where they have grown naturally in the forest. In the Solomons most are planted near villages. C. salomonense is usually a cultivated tree. Solomon Islanders consider C. indicum to require more light than C. salomonense, and hence more attention has to be paid to clearing other trees around it ([Evans 1999](../references.md#source-Evans1999): 40). [Walter & Sam](../references.md#source-WalterandSam2002) ([2002](../references.md#source-WalterandSam2002): 153) report that in Vanuatu spontaneously germinated seedlings or fully ripened fruits are sometimes planted in gardens or villages.
 
-C. indicum and C. salomonense are especially valued for their oily nuts and there is ev- idence that this was already true in POc times (ch.2, [§4](#s-4)). Canarium nuts are broken open with a stone. Along the northeast coast of New Guinea, in the Bismarcks, in Bougainville and in the Solomons, their kernels are eaten raw or smoked, or the smoked nuts are pounded with sago, bananas or a root crop 3 to make an oily pudding (POc &ast;puro-ŋ, ch.12, [§4.2](#s-4-2)) (Paij- mans 1976: 123-124,Peekel1984:281,[Bourke 1996](../references.md#source-Bourke1996),Kwa'ioloa&Burt2001: 102).ATakia speaker once described the pudding to me as 'pork when there is no pig': it is presented to honoured guests. [Hviding](../references.md#source-Hviding2005) ([2005](../references.md#source-Hviding2005): 128, 133) says it is 'a very important food, as much now as in the old days' in Marovo, where traditionally the first puddings were presented to spir- its. Similarly on Small Malaita and Ulawa there were ceremonies associated with the first nuts: on Small Malaita this occurred with the first harvest in early August, on Ulawa when the first smoked nuts are ready. In both cases a priest sacrificed nuts and pudding to the ancestors ([Ivens 1927](../references.md#source-Ivens1927): 367-369). On Choiseul C. salomonense has been elevated to a high level of spiritual significance manifested in a variety of practices ([McClatchey et al. 2006a](../references.md#source-McClatcheyetal2006a) ). The cultural importance of Canarium is seen in the Marovo term buruburu 'Canarium spp. (generic)', which is also used for 'year', the interval between two ripenings of canarium nuts ([Hviding 2005](../references.md#source-Hviding2005): 107).
+C. indicum and C. salomonense are especially valued for their oily nuts and there is ev- idence that this was already true in POc times (ch.2, §4). Canarium nuts are broken open with a stone. Along the northeast coast of New Guinea, in the Bismarcks, in Bougainville and in the Solomons, their kernels are eaten raw or smoked, or the smoked nuts are pounded with sago, bananas or a root crop 3 to make an oily pudding (POc &ast;puro-ŋ, ch.12, §4.2) (Paij- mans 1976: 123-124,Peekel1984:281,[Bourke 1996](../references.md#source-Bourke1996),Kwa'ioloa&Burt2001: 102).ATakia speaker once described the pudding to me as 'pork when there is no pig': it is presented to honoured guests. [Hviding](../references.md#source-Hviding2005) ([2005](../references.md#source-Hviding2005): 128, 133) says it is 'a very important food, as much now as in the old days' in Marovo, where traditionally the first puddings were presented to spir- its. Similarly on Small Malaita and Ulawa there were ceremonies associated with the first nuts: on Small Malaita this occurred with the first harvest in early August, on Ulawa when the first smoked nuts are ready. In both cases a priest sacrificed nuts and pudding to the ancestors ([Ivens 1927](../references.md#source-Ivens1927): 367-369). On Choiseul C. salomonense has been elevated to a high level of spiritual significance manifested in a variety of practices ([McClatchey et al. 2006a](../references.md#source-McClatcheyetal2006a) ). The cultural importance of Canarium is seen in the Marovo term buruburu 'Canarium spp. (generic)', which is also used for 'year', the interval between two ripenings of canarium nuts ([Hviding 2005](../references.md#source-Hviding2005): 107).
 
 Among the Kwara'ae Canarium wood is r,egarded as unsuitable for building, as it be- comes worm-eaten ([Kwa'ioloa & Burt 2001](../references.md#source-KwaioloaandBurt2001): 103), but [Powell](../references.md#source-Powell1976) ([1976](../references.md#source-Powell1976)) reports that the Bola use it for canoe hulls and building materials. The Kwara'ae use its resin for caulking cracks in canoes.
 
@@ -78,7 +81,7 @@ C. harveyi is almost identical in appearance to C. salomonense and was earlier t
 
 Of the three terms reconstructed below, POc &ast;[ka]ŋaRi was almost certainly the term for C. indicum as well as the generic term for Canarium species.[^5]
 
-Note that the initial syllable of &ast;[ka]ŋaRi is reflected only in Admiralties, North New Guinea and Papuan Tip languages (and perhaJPS in Raga and Namakir), whereas Meso-Melanesian and Eastern Oceanic reflexes point to &ast;ŋaRi. This distribution justifies the reconstruction of POc forms with and without initial &ast;ka-, which may represent or have been reanalysed as the prefix &ast;ka- 'tree' reflecting earlier &ast;kayu 'tree' (ch.2, [§7.1.2](#s-7-1)). Bola taŋari may reflect the addition of an otherwise unknown prefix ta- to &ast;ŋaRi.
+Note that the initial syllable of &ast;[ka]ŋaRi is reflected only in Admiralties, North New Guinea and Papuan Tip languages (and perhaJPS in Raga and Namakir), whereas Meso-Melanesian and Eastern Oceanic reflexes point to &ast;ŋaRi. This distribution justifies the reconstruction of POc forms with and without initial &ast;ka-, which may represent or have been reanalysed as the prefix &ast;ka- 'tree' reflecting earlier &ast;kayu 'tree' (ch.2, §7.1.2). Bola taŋari may reflect the addition of an otherwise unknown prefix ta- to &ast;ŋaRi.
 
 Marshallese kaŋal 'Pisonia grand is' looks as if it is a borrowing from a language retain- ing initial ka-, i.e. Admiralties or Western Oceanic, but on current knowledge of Oceanic settlement history it is difficult to see how this could have occurred.
 
@@ -307,7 +310,7 @@ cf. also:
 <tr>
 <td>Mic</td>
 <td>Marshallese</td>
-<td>kaŋal</td>
+<td><i>kaŋal</i></td>
 <td>
 '<span>Pisonia grand is</span>'</td>
 </tr>
@@ -317,7 +320,7 @@ cf. also:
 
 <a id="p-316"></a>
 
-The denotatum of PWOc &ast;pinuaq is not clear, as the one Papuan Tip witness is glossed 'Terminalia catappa', the Meso-Melanesian witnesses all 'canarium almond', presumably C. indicum. It is possible-but not probable-that lthe items listed below reflect POc &ast;pinu(q)an 'Macaranga spp.' ([§2.5](#s-2-5)) with a change in denotatum.
+The denotatum of PWOc &ast;pinuaq is not clear, as the one Papuan Tip witness is glossed 'Terminalia catappa', the Meso-Melanesian witnesses all 'canarium almond', presumably C. indicum. It is possible-but not probable-that lthe items listed below reflect POc &ast;pinu(q)an 'Macaranga spp.' (§2.5) with a change in denotatum.
 
 <table>
 <tr>
@@ -444,7 +447,8 @@ The POc reconstructions &ast;(q)alipa and &ast;lalipa are problematic both seman
 
 
 <a id="s-2-2"></a>
-## 2.2. Inocarpus fagifer, Tahitian chestnut, Pacific chestnut, Polynesian chestnut, TP aila, Bnamambe (Fabaceae)
+
+### 2.2. Inocarpus fagifer, Tahitian chestnut, Pacific chestnut, Polynesian chestnut, TP aila, Bnamambe (Fabaceae)
 
 
 Figure 11.2 Inocarpus fagifer, Tahitian chestnut: A, tree; B, portion of branch bearing fruit; C, inflorescence.
@@ -696,14 +700,15 @@ Blust (ACD) argues that [Dempwolff](../references.md#source-Dempwolff1938) ([193
 
 [Ivens](../references.md#source-Ivens1929) ([1929](../references.md#source-Ivens1929)) assumes that Sa'a (SES) mapʷe 'Inocarpus fagifer' is a borrowing from Mota, but this supposition seems unnecessary.
 
-The Tahitian reflex above is glossed 'kidney' as well as 'Inocarpusfagifer', and the Ra- panui reflex denotes only 'kidney'. As noted in [§2.1](#s-2-1), there is a tendency for names of nuts also to be used as (or as part of) the term for the kidney.
+The Tahitian reflex above is glossed 'kidney' as well as 'Inocarpusfagifer', and the Ra- panui reflex denotes only 'kidney'. As noted in §2.1, there is a tendency for names of nuts also to be used as (or as part of) the term for the kidney.
 
 
 <a id="s-2-3"></a>
-## 2.3. Barringtonia spp. other than B. asiatica, cutnut, bush nut, TP pao, Bnavele (Lecythidaceae)
+
+### 2.3. Barringtonia spp. other than B. asiatica, cutnut, bush nut, TP pao, Bnavele (Lecythidaceae)
 
 
-The genus Barringtonia has a number of species (see also ch.5, [§5.2](#s-5-2)), but only three have edi- ble nuts: B. novae-hiberniae (syn. B. oblongifolia, B. brosimos), B. procera (syn. B. magnifica, B. excelsa, B. schuchardtiana, B. guppyana) and B. edulis (syn. B. calyptrata, B. excelsa, B. samoensis, B. seaturae). They are small trees, growing to between 7 and 20m, which fruit 2-3 times a year, producing a fruit with a fleshy e:xocarp, a thin fibrous mesocarp and a thin, hard endocarp, within which is a large oily seed with a thin, minutely hairy skin (Figure 11.3).[^8] The seed is edible raw or cooked ([Evans 1999](../references.md#source-Evans1999): 12-17, 31, 44, [Gardner & Pawley 2006](../references.md#source-GardnerandPawley2006)). Bar- ringtonia species with edible nuts grow today in villages on northeast mainland New Guinea and in the Bismarcks, the Solomons and in Vanuatu.
+The genus Barringtonia has a number of species (see also ch.5, §5.2), but only three have edi- ble nuts: B. novae-hiberniae (syn. B. oblongifolia, B. brosimos), B. procera (syn. B. magnifica, B. excelsa, B. schuchardtiana, B. guppyana) and B. edulis (syn. B. calyptrata, B. excelsa, B. samoensis, B. seaturae). They are small trees, growing to between 7 and 20m, which fruit 2-3 times a year, producing a fruit with a fleshy e:xocarp, a thin fibrous mesocarp and a thin, hard endocarp, within which is a large oily seed with a thin, minutely hairy skin (Figure 11.3).[^8] The seed is edible raw or cooked ([Evans 1999](../references.md#source-Evans1999): 12-17, 31, 44, [Gardner & Pawley 2006](../references.md#source-GardnerandPawley2006)). Bar- ringtonia species with edible nuts grow today in villages on northeast mainland New Guinea and in the Bismarcks, the Solomons and in Vanuatu.
 
 [Peekel 1984](../references.md#source-Peekel1984): 397 says that the seeds of B. novae-hiberniae are superior to those of B. procera. Otherwise the three species are very similar and are sometimes confused in botanical reports. [Jebb](../references.md#source-Jebb1992) ([1992](../references.md#source-Jebb1992)) provides a careful and relatively recent study of the edible species, and the synonyms above are based on his listing. There are numerous cultivars, and this has led to the proliferation of synonyms as well as confusions about which species a given cultivar represents. [Evans](../references.md#source-Evans1999) ([1999](../references.md#source-Evans1999): 38) comments that in indigenous Solomons taxonomies B. edulis is often classified with B. novae-hiberniae.
 
@@ -829,32 +834,32 @@ The final &ast;-(ŋ) is added on the basis of Kara falaŋ. However, the absence 
 Also seemingly reconstructable on the basis of the cognate set below is POc &ast;pele, but the fact that it differs from POc &ast;pala(ŋ) only in its vowels suggests that some or all of the terms in the set reflect borrowings associated with the westward expansion of either B. procera or B. edulis. Additionally problematic are the fact that the two terms found in New Britain (Nakanai, Meramera uele) denote other nut trees and not a Barringtonia sp., and the fact that they reflect POc initial &ast;w- rather than &ast;p-.
 
 ```
-MM:     Nakanai        uele          'Canarium mehenbethane' ([Floyd 1954](../references.md#source-Floyd1954))
-MM:     Meramera       uele          'Tahitian chestnut'
-MM:     Vaghua         vele          'cut nut'
-MM:     Babatana       vele          'B. procera, B. edulis, B. novae-hiberniae' (W. McClatchey, pers. comm.)
-NCV:    Mota          vele           'Barringtonia edulis'
-NCV:    Tamambo       (vu)vale       'Barringtonia edulis'
-NCV:    Raga          vele           'Barringtonia edulis'
-NCV:    Apma          vʷez           'Barringtonia edulis'
-NCV:    Lonwolwol     woleh          'a common edible nut'
-NCV:    Namakir       vil            'Barringtonia edulis'
-NCV:    Nguna         na-vīla        'Barringtonia edulis'
-SV:     Sye           vel(ŋah)      'Barringtonia edulis'
-SV:     Ura           ni-ver(ŋi}    'Barringtonia edulis'
+   MM:     Nakanai        uele          'Canarium mehenbethane' ([Floyd 1954](../references.md#source-Floyd1954))
+   MM:     Meramera       uele          'Tahitian chestnut'
+   MM:     Vaghua         vele          'cut nut'
+   MM:     Babatana       vele          'B. procera, B. edulis, B. novae-hiberniae' (W. McClatchey, pers. comm.)
+   NCV:    Mota          vele           'Barringtonia edulis'
+   NCV:    Tamambo       (vu)vale       'Barringtonia edulis'
+   NCV:    Raga          vele           'Barringtonia edulis'
+   NCV:    Apma          vʷez           'Barringtonia edulis'
+   NCV:    Lonwolwol     woleh          'a common edible nut'
+   NCV:    Namakir       vil            'Barringtonia edulis'
+   NCV:    Nguna         na-vīla        'Barringtonia edulis'
+   SV:     Sye           vel(ŋah)      'Barringtonia edulis'
+   SV:     Ura           ni-ver(ŋi}    'Barringtonia edulis'
 ```
 
 Although &ast;kinu 'edible Barringtonia species' has reflexes in both Meso-Melanesian and SE Solomonic languages, the members of the set are spread across the border between West- em and Eastern Oceanic, so borrowing is more probable than shared inheritance from POc.
 
 ```
-MM:     Roviana        kinu          'Barringtonia sp., with edible nut'
-MM:     Nduke          kino          'cut nut'
-MM:     Hoava          kinu          'cut nut'
-MM:     Kusaghe        kinu          'Barringtonia procera, cut nut' ([Evans 1999](../references.md#source-Evans1999):39)
-SES:    Gela          kinu          'k shore tree with ed. fruit'
-SES:    Lau            kinu          'cut nut, Barringtonia edulis'
-SES:    Kwaio          kinu          'cut nut'
-SES:    Kwara'ae       kiun-kinu     'cut nut, Barringtonia edulis' ([Evans 1999](../references.md#source-Evans1999):39)
+   MM:     Roviana        kinu          'Barringtonia sp., with edible nut'
+   MM:     Nduke          kino          'cut nut'
+   MM:     Hoava          kinu          'cut nut'
+   MM:     Kusaghe        kinu          'Barringtonia procera, cut nut' ([Evans 1999](../references.md#source-Evans1999):39)
+   SES:    Gela          kinu          'k shore tree with ed. fruit'
+   SES:    Lau            kinu          'cut nut, Barringtonia edulis'
+   SES:    Kwaio          kinu          'cut nut'
+   SES:    Kwara'ae       kiun-kinu     'cut nut, Barringtonia edulis' ([Evans 1999](../references.md#source-Evans1999):39)
 ```
 
 
@@ -864,7 +869,8 @@ Figure 11.4 Terminalia catappa, sea almond: Left A, tree; B, shoot bearing fruit
 
 
 <a id="s-2-4"></a>
-## 2.4. Terminalia spp. (Combretaceae)
+
+### 2.4. Terminalia spp. (Combretaceae)
 
 
 A number of Terminalia species have edible 'nuts', but only two are reported to be planted in NW Island Melanesia. They are T. catappa (sea almond, Indian almond, Java almond, TP talis, P alite, B natavoa) and T. kaernbachii (okari nut, B natalie).[^12] T. catappa is dis- tributed from southern India to Polynesia, but T. kaernbachii occurs indigenously only in New Guinea and the Bismarck Archipelago ([Bourke 1996](../references.md#source-Bourke1996), [Walter & Sam 2002](../references.md#source-WalterandSam2002): 260). Sev- eral other species with edible nuts occur in NW Island Melanesia but are only harvested from the wild (T. copelandii, T. impediens; lPaijmans 1976: 123-124), and yet other species have fruits with edible flesh (T. megalocarpa, syn. T. solomonensis, T. lapalagon). Several Terminalia species found indigenously in the Solomons provide good timber: T. brassii, T. calamansanai and T. sepicana ([Evans 1999](../references.md#source-Evans1999): 10--11).
@@ -1095,7 +1101,7 @@ Comments in the agronomic literature about the relative insignificance of T. cat
 <tr>
 <td>SV</td><td>Lenakel</td><td><i>telh</i></td>
 <td>
-'<span>k.o. tree with fiattish oval brown fruit which is cracked open and eaten</span>'</td>
+'<span>k.o. tree with flattish oval brown fruit which is cracked open and eaten</span>'</td>
 </tr>
 <tr>
 <td>SV</td><td>Anejom</td><td><i>n-tejeθ</i></td>
@@ -1316,7 +1322,7 @@ cf. also:
 <tr>
 <td>MM</td>
 <td>Nehan</td>
-<td>kasasas</td>
+<td><i>kasasas</i></td>
 <td>
 '<span>Terminalia samoensis</span>'</td>
 </tr>
@@ -1328,10 +1334,11 @@ cf. also:
 
 
 <a id="s-2-5"></a>
-## 2.5. Pandanus spp., screw pines (Pandanaceae)
+
+### 2.5. Pandanus spp., screw pines (Pandanaceae)
 
 
-Pandanus trees are an easily recognised fea1ture in the forests of NW Island Melanesia. All species have aerial roots and very large thick leaves. The leaves of some species serve on canoes as sails, awnings, deck-houses, bailers and in houses as roofing, mats and wall lin- ing. Sewn leaves are used for rain capes. POc &ast;qebal 'pandanus mat' is reconstructed in vol. 1, ch.4, [§3.1](#s-3-1). The fruits of all species are syncarps, compound fruits with many seg- ments, each a drupe, arranged around a core, and the fruits and/or seeds of various species are a source of food. Recognition of the various species, however, is much more difficult, partly because of intra-species variability which is at least partly the result of cultivation. [Barrau](../references.md#source-Barrau1962) ([1962](../references.md#source-Barrau1962): 161-163) remarks that there is much confusion in the Linnaean naming of Pandanus species, and [Henderson & Hancock](../references.md#source-HendersonandHancock1988) ([1988](../references.md#source-HendersonandHancock1988): 80, 232-236) do not provide names for the Solomons species they describe. Our sources are also often vague in their glosses of terms for pandanus types. Consequently it is possible that there are inaccuracies here. The four species for which POc terms can be reconstructed with reasonable certainty are:[^16]
+Pandanus trees are an easily recognised fea1ture in the forests of NW Island Melanesia. All species have aerial roots and very large thick leaves. The leaves of some species serve on canoes as sails, awnings, deck-houses, bailers and in houses as roofing, mats and wall lin- ing. Sewn leaves are used for rain capes. POc &ast;qebal 'pandanus mat' is reconstructed in vol. 1, ch.4, §3.1. The fruits of all species are syncarps, compound fruits with many seg- ments, each a drupe, arranged around a core, and the fruits and/or seeds of various species are a source of food. Recognition of the various species, however, is much more difficult, partly because of intra-species variability which is at least partly the result of cultivation. [Barrau](../references.md#source-Barrau1962) ([1962](../references.md#source-Barrau1962): 161-163) remarks that there is much confusion in the Linnaean naming of Pandanus species, and [Henderson & Hancock](../references.md#source-HendersonandHancock1988) ([1988](../references.md#source-HendersonandHancock1988): 80, 232-236) do not provide names for the Solomons species they describe. Our sources are also often vague in their glosses of terms for pandanus types. Consequently it is possible that there are inaccuracies here. The four species for which POc terms can be reconstructed with reasonable certainty are:[^16]
 
 - • P. tectorius, the coastal pandanus: the most widespread and most exploited species throughout Oceania; its leaves are used for making mats;
 - • P. dubius: it is widely distributed and r,emarkable for the size and strength of its leaves.
@@ -1342,7 +1349,7 @@ All except P. dub ius are sources of food, and the third and fourth are cultivat
 
 11.2.5.1 Pandanus tectorius (syn. P. odoratissimus), coa.stal pandanus (Pandanaceae)
 
-Pandanus tectorius usually grows just behind the shore line to a height of 5-10 m. Its leaves are 1-2 m long, fiat sheets tapering to a point. The orange fruit is made up of 'fingers' 6--8 em long, 4--5cm wide, each consisting of 8--17 parallel nuts (Figure 11 .5, left). The species shows considerable variability, consistent with having been cultivated over a long period of time, and is often found near villages and old village sites ([Peekel 1984](../references.md#source-Peekel1984):38, [Walter & Sam 2002](../references.md#source-WalterandSam2002): 216--217). In NW Island Melanesia its use is patchy: it is used in Manus, the south coast of New Britain, in New Ireland and in Bougainville ([Bourke n.d.](../references.md#source-Bourkend)).[^17]
+Pandanus tectorius usually grows just behind the shore line to a height of 5-10 m. Its leaves are 1-2 m long, flat sheets tapering to a point. The orange fruit is made up of 'fingers' 6--8 em long, 4--5cm wide, each consisting of 8--17 parallel nuts (Figure 11 .5, left). The species shows considerable variability, consistent with having been cultivated over a long period of time, and is often found near villages and old village sites ([Peekel 1984](../references.md#source-Peekel1984):38, [Walter & Sam 2002](../references.md#source-WalterandSam2002): 216--217). In NW Island Melanesia its use is patchy: it is used in Manus, the south coast of New Britain, in New Ireland and in Bougainville ([Bourke n.d.](../references.md#source-Bourkend)).[^17]
 
 
 <a id="p-328"></a>
@@ -1908,7 +1915,7 @@ The fruit are prized as a foodstuff and widely consumed. They are typically spli
 
 Figure 11.6 Pandanus conoideus, marita: A, syncarp.
 
-POc &ast;mʷafia apparently denoted Pan- danus conoideus. 21 This reconstruction is open to doubt, as there are no reflexes from New Ireland or New Britain, where the species is rare, and only one from main- land New Guinea. It is possible that Maisin mmJgi 'Pandanus sp.' and PMic &ast;maŋU 'pandanus leaf' are also cognate. If so, they reflect a POc form in which &ast;-fi- has been replaced by &ast;-ŋ-. Another interpretation of the data is also possible, namely that the items listed below, other than Arosi mʷa-mʷana, reflect POc &ast;mofiak 'fat, oil, coconut cream; tasty' (ch.12, [§4.2](#s-4-2)), since the fruit of Pandanus conoideus are both oily and tasty. If this were so, then Arosi mʷa-mʷana and the items listed under 'cf. also' would probably reflect a PEOc &ast;mʷaŋV 'pandanus leaf.
+POc &ast;mʷafia apparently denoted Pan- danus conoideus. 21 This reconstruction is open to doubt, as there are no reflexes from New Ireland or New Britain, where the species is rare, and only one from main- land New Guinea. It is possible that Maisin mmJgi 'Pandanus sp.' and PMic &ast;maŋU 'pandanus leaf' are also cognate. If so, they reflect a POc form in which &ast;-fi- has been replaced by &ast;-ŋ-. Another interpretation of the data is also possible, namely that the items listed below, other than Arosi mʷa-mʷana, reflect POc &ast;mofiak 'fat, oil, coconut cream; tasty' (ch.12, §4.2), since the fruit of Pandanus conoideus are both oily and tasty. If this were so, then Arosi mʷa-mʷana and the items listed under 'cf. also' would probably reflect a PEOc &ast;mʷaŋV 'pandanus leaf.
 
 <table>
 <tr>
@@ -2016,35 +2023,35 @@ cf. also:
 <tr>
 <td>Mic</td>
 <td>Kosraean</td>
-<td>mᶭeŋ</td>
+<td><i>mᶭeŋ</i></td>
 <td>
 '<span>pandanus</span>'</td>
 </tr>
 <tr>
 <td>PT</td>
 <td>Maisin</td>
-<td>moŋgi</td>
+<td><i>moŋgi</i></td>
 <td>
 '<span>Pandanus sp.</span>'</td>
 </tr>
 <tr>
 <td>Mic</td>
 <td>Marshallese</td>
-<td>māŋ</td>
+<td><i>māŋ</i></td>
 <td>
 '<span>pandanus leaves</span>'</td>
 </tr>
 <tr>
 <td>Mic</td>
 <td>Trukese</td>
-<td>mə̄ŋ</td>
+<td><i>mə̄ŋ</i></td>
 <td>
 '<span>pandanus leaf, especially when softened by a shell</span>'</td>
 </tr>
 <tr>
 <td>Mic</td>
 <td>Woleaian</td>
-<td>māŋü</td>
+<td><i>māŋü</i></td>
 <td>
 '<span>pandanus leaf</span>'</td>
 </tr>
@@ -2299,7 +2306,8 @@ The four reconstructions below each denoted a species or a variety of Pandanus, 
 
 
 <a id="s-2-6"></a>
-## 2.6. Sterculia vitiensis (syn. S. tannaensis) (Sterculiaceae)
+
+### 2.6. Sterculia vitiensis (syn. S. tannaensis) (Sterculiaceae)
 
 
 In a sense Sterculia vitiensis does not belong here, as it was not known to POc speakers. There are a number of small species of Sterculia in the Bismarcks and Solomons, but S. vitiensis is a large canopy tree, up to 30m tall. It is found in the central and especially the southern islands of Vanuatu and in Fiji.
@@ -2309,7 +2317,7 @@ In a sense Sterculia vitiensis does not belong here, as it was not known to POc 
 
 It is planted for its edible seeds (its wood is soft and not durable). The fruit is a large (9 x 7 em) hollow capsule, light yellowish green when it is ripe, with a groove down one side which splits open to reveal a vermilion interior and a row of elongate (1-2 em) glossy black seeds along the split edges. S. vitiensis is not particularly abundant, and tends to be found in locations associated with human activity. The ripe seeds are grilled either in their shells or separately ([Wheatley 1992](../references.md#source-Wheatley1992): 230, 232, [Walter & Sam 2002](../references.md#source-WalterandSam2002): 247-248).
 
-Although the seeds of other species are sometimes eaten in the Bismarcks ([Floyd 1954](../references.md#source-Floyd1954), Powell1976), the only reconstructable name for a Sterculia species is, as one might expect, a Proto Remote Oceanic etymon, &ast;wasi-wasi 'Sterculia vitiensis'. There is a formally identical POc etymon, POc &ast;wasi-wasi 'Abroma augusta'. A. augusta is a small shrub (ch.7, [§6.1.1](#s-6-1)) and S. vitiensis a large tree, so it is not clear whether the two terms were innovated independently or have a common origin.
+Although the seeds of other species are sometimes eaten in the Bismarcks ([Floyd 1954](../references.md#source-Floyd1954), Powell1976), the only reconstructable name for a Sterculia species is, as one might expect, a Proto Remote Oceanic etymon, &ast;wasi-wasi 'Sterculia vitiensis'. There is a formally identical POc etymon, POc &ast;wasi-wasi 'Abroma augusta'. A. augusta is a small shrub (ch.7, §6.1.1) and S. vitiensis a large tree, so it is not clear whether the two terms were innovated independently or have a common origin.
 
 <table>
 <tr>
@@ -2371,7 +2379,8 @@ Although the seeds of other species are sometimes eaten in the Bismarcks ([Floyd
 
 
 <a id="s-2-7"></a>
-## 2.7. Pangium edule, pangi, ankle-rattle tree, TP sis, solomon, Bnavangge, nalake (Flacourtiaceae)
+
+### 2.7. Pangium edule, pangi, ankle-rattle tree, TP sis, solomon, Bnavangge, nalake (Flacourtiaceae)
 
 
 Pangium edule is included in this section because it is a cul- tivated tree (Peekel1984: 384, [Kennedy & Clarke 2004](../references.md#source-KennedyandClarke2004)) and produces a fruit the flesh of which is eaten in some places. It is not a major food source.
@@ -2484,12 +2493,14 @@ The only reconstructable term for P. edule is PEOc &ast;paRage. Given that the t
 
 
 <a id="s-3"></a>
+
 ## 3. Domesticated fruit trees
 
 
 
 <a id="s-3-1"></a>
-## 3.1. Burckella obovata (syn. Bassia erskineana, Payena mentzelii, Illipe hollrungii), red silkwood, TP bukabuk, Bnaduldule, nandunde (Sapotaceae)
+
+### 3.1. Burckella obovata (syn. Bassia erskineana, Payena mentzelii, Illipe hollrungii), red silkwood, TP bukabuk, Bnaduldule, nandunde (Sapotaceae)
 
 
 
@@ -2501,7 +2512,7 @@ In the Solomons and Vanuatu the wood is used for crossbeams in houses, for outri
 
 The POc form &ast;fiatu was first reconstructed by [Blust](../references.md#source-Blust1978b) ([1978b](../references.md#source-Blust1978b)) as an unnamed but de- scribed tree type. Further reflexes indicate that this is Burckella obovata, to which [Gowers](../references.md#source-Gowers1976) ([1976](../references.md#source-Gowers1976): 38) gives the English designation 'red silkwood'. Evidence for POc &ast;-q is provided by Sye yetu and Ura ni-yere (John Lynch, pers. comm.), where preservation of the final vowel reflects the earlier presence of &ast;-q.
 
-The gloss of PMP &ast;fiatuq below, 'a hard- wood tree taxon, including at least Palaquium spp.', is inferred from the glosses of Blust' s supporting data. Species of Burckella and Palaquium and perhaps other genera seem to have been included in a single taxon through- out Oceanic history (see the discussion associ- ated with PCP &ast;bau 'hardwood taxon' in ch.7, [§4.10](#s-4-10)).
+The gloss of PMP &ast;fiatuq below, 'a hard- wood tree taxon, including at least Palaquium spp.', is inferred from the glosses of Blust' s supporting data. Species of Burckella and Palaquium and perhaps other genera seem to have been included in a single taxon through- out Oceanic history (see the discussion associ- ated with PCP &ast;bau 'hardwood taxon' in ch.7, §4.10).
 
 Figure 11.8 Burckella obovata: A, tree; B, flowering shoot; C, shoot bearing fruit; D, old seed.
 
@@ -2729,7 +2740,8 @@ Figure 11.8 Burckella obovata: A, tree; B, flowering shoot; C, shoot bearing fru
 
 
 <a id="s-3-2"></a>
-## 3.2. Clymenia polyandra and Citrus spp. (Rutaceae)
+
+### 3.2. Clymenia polyandra and Citrus spp. (Rutaceae)
 
 
 [Barrau](../references.md#source-Barrau1955) ([1955](../references.md#source-Barrau1955): 85) considers that all edible species of the genus Citrus were introduced to Melanesia by Europeans, and R. M. Bourke' s (pers. comm.) research confirms this. We would not therefore expect to find a reconstructable POc term meaning 'citrus'. But the reconstruc- tion of POc &ast;molis 'citrus fruit' is well-supported ([Lynch 1984](../references.md#source-Lynch1984)), and its reflexes are today used in many languages for several citrus species.
@@ -2914,7 +2926,8 @@ The alternative answer is that there were inedible or barely edible Citrus speci
 
 
 <a id="s-3-3"></a>
-## 3.3. Corynocarpus cribbianus (syn. C. australasicus, C. cribbiana, Helicia cribbiana) (Cocynocarpaceae)
+
+### 3.3. Corynocarpus cribbianus (syn. C. australasicus, C. cribbiana, Helicia cribbiana) (Cocynocarpaceae)
 
 
 A small fruit tree which was apparently cultivated in the past, Corynocarpus cribbianus is reported from the Admiralties, from offshore islands around Madang (north coast of New Guinea), from Tangga Island (east of New Ireland) and in the Solomons from Guadalcanal and Malaita, but apparently not in New Britain or New Ireland. 25 It grows to a height of 7-10 m on Tangga Island, but sometimes to 20m elsewhere in Papua New Guinea. The mango-shaped fruit, 10--12cm long and 8-10cm in diameter, grow in clusters at the ends of branches. They are sweet but not juicy, and eaten raw or boiled. Two varieties are reported from Tangga and Kwara' ae: one has red, pear-shaped fruit, the other white and more ovoid. C. cribbianus continues to be grown from seed in some places but has become rare in the Solomons, where it was apparently more widely cultivated in the past. Today it is only a snack food for hunters in the forest ([French 1986](../references.md#source-French1986):234, O' Collins & Lamothe 1989, [Kwa'ioloa & Burt 2001](../references.md#source-KwaioloaandBurt2001): 168).
@@ -2969,7 +2982,7 @@ cf. also:
 <tr>
 <td>NCV</td>
 <td>Apma</td>
-<td>tabʷi</td>
+<td><i>tabʷi</i></td>
 <td>
 '<span>Corynocarpus simi/is</span>'(<a href="../references.md#source-WalterandSam2002">WalterandSam2002</a>)
 </td>
@@ -2977,7 +2990,7 @@ cf. also:
 <tr>
 <td>SES</td>
 <td>Lengo</td>
-<td>tebu</td>
+<td><i>tebu</i></td>
 <td>
 '<span>Corynocarpus cribbianus</span>'(<a href="../references.md#source-HendersonandHancock1988">HendersonandHancock1988</a>)
 </td>
@@ -2985,7 +2998,7 @@ cf. also:
 <tr>
 <td>NCV</td>
 <td>Tamambo</td>
-<td>tabʷea</td>
+<td><i>tabʷea</i></td>
 <td>
 '<span>Corynocarpus simi/is</span>'(<a href="../references.md#source-WalterandSam2002">WalterandSam2002</a>)
 </td>
@@ -2993,7 +3006,7 @@ cf. also:
 <tr>
 <td>SES</td>
 <td>To'aba'ita</td>
-<td>tebu</td>
+<td><i>tebu</i></td>
 <td>
 '<span>Corynocarpus cribbianus</span>'(<a href="../references.md#source-HendersonandHancock1988">HendersonandHancock1988</a>)
 </td>
@@ -3006,12 +3019,13 @@ cf. also:
 
 
 <a id="s-3-4"></a>
-## 3.4. Mangifera spp., mango (Anacardiaceae)
+
+### 3.4. Mangifera spp., mango (Anacardiaceae)
 
 
 We cannot be completely sure of the original referents of the five mango terms reconstructed below. When Austronesian speakers arrived in the Bismarcks, they encountered the fibrous and ill-tasting indigenous mangoes Mangifera minor and M. foetida. The sweet-tasting M . indica, the species widely consumed today, arrived with Europeans after about 1870 ([Bourke forthcoming](../references.md#source-Bourkeforthcoming)).
 
-It is possible that PMP &ast;pahuq referred 1co M. indica and PMP &ast;wai to other Mangifera species (ACD ). I have found only two refiexe:s of PMP &ast;pahuq in Oceanic languags, namely Vitu vau and Bola vao. Vitu (in the French Islands, north of New Britain) is among the most conservative of Oceanic languages, and has remained quite isolated at least since early in the spread of the Western Oceanic dialect network. Bola is close by on New Britain. One may infer that &ast;pau(q) occurred in POc, but not with the gloss 'M. indica'. It was replaced at a very early stage by &ast;wai, as this was the appropriate term for the indigenous (non-indica) species, with &ast;wai-wai perhaps denoting wild varieties ([§7.2](#s-7-2)). The species M. minor was specifically designated by POc &ast;koRa.
+It is possible that PMP &ast;pahuq referred 1co M. indica and PMP &ast;wai to other Mangifera species (ACD ). I have found only two refiexe:s of PMP &ast;pahuq in Oceanic languags, namely Vitu vau and Bola vao. Vitu (in the French Islands, north of New Britain) is among the most conservative of Oceanic languages, and has remained quite isolated at least since early in the spread of the Western Oceanic dialect network. Bola is close by on New Britain. One may infer that &ast;pau(q) occurred in POc, but not with the gloss 'M. indica'. It was replaced at a very early stage by &ast;wai, as this was the appropriate term for the indigenous (non-indica) species, with &ast;wai-wai perhaps denoting wild varieties (§7.2). The species M. minor was specifically designated by POc &ast;koRa.
 
 M. minor, the traditional wild mango indigenous to the Bismarcks, is 10-25 m tall. The introduced M. indica needs a drier period each year to bear, whereas M. minor does not, and so the latter continues to be eaten mainly in locations where M. indica does not bear regularly. It is occasionally cultivated from seed. Its leaves are narrower than those of M . indica (Peekel1984: 326, [French 1986](../references.md#source-French1986):206--207, [Bourke in preparation](../references.md#source-Bourkeinpreparation), n.d.).
 
@@ -3159,7 +3173,7 @@ M. minor, the traditional wild mango indigenous to the Bismarcks, is 10-25 m tal
 
 <a id="p-342"></a>
 
-PWOc &ast;kasuwai 'mango' seems to be a compound, with an unidentified element &ast;kasu- and &ast;wai 'mango'. TheSE Solomons terms below reflect PSES &ast;yohai, which in tum reflects a putative POc t &ast;koyai. However, PSES &ast;yohai probably reflects the borrowing of a reflex of &ast;kasuwai, perhaps before the dispersal of PSES, as the terms are regular reflexes of &ast;yohai.
+PWOc &ast;kasuwai 'mango' seems to be a compound, with an unidentified element &ast;kasu- and &ast;wai 'mango'. TheSE Solomons terms below reflect PSES &ast;yohai, which in turn reflects a putative POc t &ast;koyai. However, PSES &ast;yohai probably reflects the borrowing of a reflex of &ast;kasuwai, perhaps before the dispersal of PSES, as the terms are regular reflexes of &ast;yohai.
 
 <table>
 <tr>
@@ -3223,28 +3237,28 @@ cf. also:
 <tr>
 <td>SES</td>
 <td>Arosi</td>
-<td>ʔai</td>
+<td><i>ʔai</i></td>
 <td>
 '<span>mango</span>'; '<span>tree or plant with stem and branches; not used of a fern cycad, sago palm, coconut etc, but used of small plants, eg. balsam.</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
 <td>Fagani</td>
-<td>yai</td>
+<td><i>yai</i></td>
 <td>
 '<span>mango</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
 <td>Longgu</td>
-<td>?eoai</td>
+<td><i>?eoai</i></td>
 <td>
 '<span>mango</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
 <td>West Guadalcanal</td>
-<td>yoai</td>
+<td><i>yoai</i></td>
 <td>
 '<span>mango</span>'</td>
 </tr>
@@ -3287,7 +3301,8 @@ cf. also:
 
 
 <a id="s-3-5"></a>
-## 3.5. Pometia pinnata, ocean lychee, island lychee, TP ton, taun, P obit, inkori, Bnandao (Sapindaceae)
+
+### 3.5. Pometia pinnata, ocean lychee, island lychee, TP ton, taun, P obit, inkori, Bnandao (Sapindaceae)
 
 
 Pometia pinnata, an ancient New Guinea domesticate ([Yen 1996](../references.md#source-Yen1996)), is a tall canopy hardwood tree of 20--45 m (Figure 11.9, left). [Peekel](../references.md#source-Peekel1984) ([1984](../references.md#source-Peekel1984): 335) writes that its fruit, green or red and 4--6cm in diameter, the sweet pulp of which similar in taste and texture to a lychee and is eaten raw, is the most valued in the Bismarck Archipelago after the Malay apple. The skin of the ripe fruit is peeled off like that of a mandarin. The pulp surrounds a seed, up to 3 em in diameter, which is poisonous and requires extensive processing and cooking before it can be eaten. [French](../references.md#source-French1986) ([1986](../references.md#source-French1986): 215) reports that there are also varieties of P. pinnata with inedible flesh.
@@ -3587,7 +3602,8 @@ Figure 11.9 Left Pometia pinnata, island lychee: A, young tree; B, shoot and edi
 
 
 <a id="s-3-6"></a>
-## 3.6. Spondias cytherea (syn. S. dulcis, S. mangifera), golden apple, Polynesian plum, hog plum, Tahitian apple, Bnaos (Anacardiaceae)
+
+### 3.6. Spondias cytherea (syn. S. dulcis, S. mangifera), golden apple, Polynesian plum, hog plum, Tahitian apple, Bnaos (Anacardiaceae)
 
 
 Spondias cytherea is a lowland sub canopy tree of medium height, 10-25 m. tall, distributed from island SE Asia to western Polynesia, and occurring in several varieties, a probable result of domestication (Figure 11.9, right). Within the Bismarcks it occurs mainly in the Admiralties, on Mussau Island and in New Ireland ([Bourke n.d.](../references.md#source-Bourkend)). The tree is widely cultivated near villages in the Bismarcks, the Solomons (mainly in the Reeflslands) and Vanuatu, but is also spread by fruit bats ([Henderson & Hancock 1988](../references.md#source-HendersonandHancock1988):47, [Walter & Sam 2002](../references.md#source-WalterandSam2002):243-244, [French 1986](../references.md#source-French1986): 219).
@@ -3794,12 +3810,12 @@ There was a single widely reflected POc term, &ast;quRis. I have assumed below t
 
 <a id="p-346"></a>
 
-In the Bismarcks an imported thorny shrub, Ximenia americana (syn. X. elliptica, X. ac- uleata),[^27] is evidently perceived as resembling S. cytherea, to judge from the names below. The resemblance is based on the fact that X. americana also has edible yellow ellipsoid fruit, but no larger than a cherry (Peekel1984: 160). E Kara combines the POc prefix &ast;mala- 're- sembling' (ch.2, [§7.1.4](#s-7-1)) and ukis 'S. cytherea'. The base ukis is the reflex of POc &ast;quRis 'S. cytherea' that would be expected in Tigak, immediately to the north ofKara. Further south, in Patpatar, the term for X. americana is ku-kuris, the reduplication implying that X. americana is an inferior or wild version of S. cytherea (ch.2, [§7.2](#s-7-2)).
+In the Bismarcks an imported thorny shrub, Ximenia americana (syn. X. elliptica, X. ac- uleata),[^27] is evidently perceived as resembling S. cytherea, to judge from the names below. The resemblance is based on the fact that X. americana also has edible yellow ellipsoid fruit, but no larger than a cherry (Peekel1984: 160). E Kara combines the POc prefix &ast;mala- 're- sembling' (ch.2, §7.1.4) and ukis 'S. cytherea'. The base ukis is the reflex of POc &ast;quRis 'S. cytherea' that would be expected in Tigak, immediately to the north ofKara. Further south, in Patpatar, the term for X. americana is ku-kuris, the reduplication implying that X. americana is an inferior or wild version of S. cytherea (ch.2, §7 .2).
 
 ```
-MM:      Kara (E)        mala-ukis       'Ximenia americana' ('false Spondias cytherea')
-MM:      Patpatar        ku-kuris        'Ximenia americana' ('small Spondias cytherea')
-MM:      Tolai           kuri-val        'Ximenia americana' (kuri 'Spondias cytherea') ([Record 1945](../references.md#source-Record1945))
+      MM:      Kara (E)        mala-ukis       'Ximenia americana' ('false Spondias cytherea')
+      MM:      Patpatar        ku-kuris        'Ximenia americana' ('small Spondias cytherea')
+      MM:      Tolai           kuri-val        'Ximenia americana' (kuri 'Spondias cytherea') ([Record 1945](../references.md#source-Record1945))
 ```
 
 PNCV &ast;usi below appears to be an irregular reflex of POc &ast;quRis. Two possible explana- tions present themselves. First, &ast;(q)usi is a metathesised reflex of &ast;quRis (> t&ast;uis > &ast;usi). Second, although POc final consonants were regularly lost in PNCV, [Clark](../references.md#source-Clark2008) ([2008](../references.md#source-Clark2008)) points to a dozen or so words in which the expected CVCV form exists alongside an extended form CVCVCV, representing the full POc form with an added vowel, most often &ast;-i. The extended forms, for which Clark offers no explanation, are found throughout North Vanuatu and north Malakula, but without much consistency in any one language. One of these, in the form he reconstructs, is &ast;quRisi, which with regular deletion of POc &ast;q- and &ast;-R- gives &ast;u(i)si.
@@ -3877,7 +3893,7 @@ Some of these reflexes are (also) used to denote the pawpaw/papaya, Carica papay
 
 <a id="p-347"></a>
 
-There are two possible external cognates of the PNCV etymon below. The first is Mussau (Adm) malai 'Spondias cytherea' (Lepofs~v 1992). However, Mussau -ai does not corre- spond regularly with Paamese, Nguna -i. The second is Wayan (Fij) maoli 'Spondias cyth- erea', but Wayan -ao- does not correspond regularly with PNCV &ast;-a-. In parts of northern Vanuatu the term has been reapplied to Dracontomelon vitiense (ch.7, [§4.4](#s-4-4)).
+There are two possible external cognates of the PNCV etymon below. The first is Mussau (Adm) malai 'Spondias cytherea' (Lepofs~v 1992). However, Mussau -ai does not corre- spond regularly with Paamese, Nguna -i. The second is Wayan (Fij) maoli 'Spondias cyth- erea', but Wayan -ao- does not correspond regularly with PNCV &ast;-a-. In parts of northern Vanuatu the term has been reapplied to Dracontomelon vitiense (ch.7, §4.4).
 
 <table>
 <tr>
@@ -3948,14 +3964,14 @@ There are two possible external cognates of the PNCV etymon below. The first is 
 
 
 
-Also puzzling is the connection between PNCV &ast;mali and the items for Garuga flori- bunda listed below. There is reason to think that this is not a chance resemblance, as the Proto Remote Oceanic term &ast;mala-usi 'Garuga sp.' literally meant 'like Spondias cytherea' (ch.7, [§4.8](#s-4-8)), i.e. there was/is a perceived resemblance between Garuga and Spondias species. We cannot simply include the items below in the cognate set for PNCV &ast;mali above, however, as the Paamese, Lewo and S Efate reflexes of &ast;mal-mali diff1er from their reflexes of &ast;mali. PNCV &ast;mal-mali 'Garuga floribunda'
+Also puzzling is the connection between PNCV &ast;mali and the items for Garuga flori- bunda listed below. There is reason to think that this is not a chance resemblance, as the Proto Remote Oceanic term &ast;mala-usi 'Garuga sp.' literally meant 'like Spondias cytherea' (ch.7, §4.8), i.e. there was/is a perceived resemblance between Garuga and Spondias species. We cannot simply include the items below in the cognate set for PNCV &ast;mali above, however, as the Paamese, Lewo and S Efate reflexes of &ast;mal-mali diff1er from their reflexes of &ast;mali. PNCV &ast;mal-mali 'Garuga floribunda'
 
 ```
-NCV:    Mwotlap       na-mal-mali (ey)
-NCV:    Paamese       e-imoumol
-NCV:    Lewo          (puru )mal-mal
-NCV:    Baki          (buru )mar-maro
-NCV:    S Efate       n(a)-mal-mil
+  NCV:    Mwotlap       na-mal-mali (ey)
+  NCV:    Paamese       e-imoumol
+  NCV:    Lewo          (puru )mal-mal
+  NCV:    Baki          (buru )mar-maro
+  NCV:    S Efate       n(a)-mal-mil
 ```
 
 
@@ -3963,7 +3979,8 @@ NCV:    S Efate       n(a)-mal-mil
 
 
 <a id="s-3-7"></a>
-## 3.7. Syzygium malaccense (syn. Eugenia malaccensis, E. jambos, jambosa malaccensis), Malay apple, rose apple, TP laulau, P kabarae, Bnakavika (Myrtaceae)
+
+### 3.7. Syzygium malaccense (syn. Eugenia malaccensis, E. jambos, jambosa malaccensis), Malay apple, rose apple, TP laulau, P kabarae, Bnakavika (Myrtaceae)
 
 
 Many Syzygium species which occur in the Pa- cific have edible fruit. The most important is S. malaccense, which is distributed from SE Asia to Polynesia, but [Peekel](../references.md#source-Peekel1984) ([1984](../references.md#source-Peekel1984): 408-415) and [Walter & Sam](../references.md#source-WalterandSam2002) ([2002](../references.md#source-WalterandSam2002): 251-252) list numerous species which occur in NW Island Melanesia.
@@ -4317,7 +4334,7 @@ cf. also:
 <tr>
 <td>MM</td>
 <td>Nehan</td>
-<td>mariah</td>
+<td><i>mariah</i></td>
 <td>
 '<span>Alpinia sp.</span>'</td>
 </tr>
@@ -4359,6 +4376,7 @@ cf. also:
 
 
 <a id="s-4"></a>
+
 ## 4. Other nut and fruit trees
 
 
@@ -4376,11 +4394,12 @@ Nut and fruit trees   3 51
 
 The distributions of some of the above are such that they may have been unknown to speakers of POc, but it is also possible that our sources are not detailed enough to provide us with the data needed to support a reconstruction.
 
-The fruits of several species of Ficus are eaten. [Bourke](../references.md#source-Bourkend) ([n.d.](../references.md#source-Bourkend)) names F. copiosa, F. tinctoria and F. wassa. These are treated in ch.lO, [§4](#s-4).
+The fruits of several species of Ficus are eaten. [Bourke](../references.md#source-Bourkend) ([n.d.](../references.md#source-Bourkend)) names F. copiosa, F. tinctoria and F. wassa. These are treated in ch.lO, §4.
 
 
 <a id="s-4-1"></a>
-## 4.1. Finschia chloroxantha (syn. F. waterhousiana, F. densiflora, Grevillea densiflora) (Proteaceae)
+
+### 4.1. Finschia chloroxantha (syn. F. waterhousiana, F. densiflora, Grevillea densiflora) (Proteaceae)
 
 
 Finschia chloroxantha is a medium-sized lowland rain forest tree with a blackish trunk and stilt roots (Figure 11.11, right). When it blooms it makes a spectacular display of bright orange or light golden yellow pendulous flowers. Its seeds are edible, eaten raw as snacks in the Solomons and after cooking in New Guinea. Its red-brown wood is strong and is used for timber, furniture and drums in the Solomons. Its leaves were used to treat sores and ulcers on Santa Isabel ([Henty 1982](../references.md#source-Henty1982), [Henderson & Hancock 1988](../references.md#source-HendersonandHancock1988):74--76, [Evans 1999](../references.md#source-Evans1999): 19, [Kwa'ioloa & Burt 2001](../references.md#source-KwaioloaandBurt2001): 124).
@@ -4388,7 +4407,7 @@ Finschia chloroxantha is a medium-sized lowland rain forest tree with a blackish
 The cognate set below allows only a PEOc reconstruction. The one Western Oceanic item, Maringe ylama, is probably a borrowing from a neighbouring SE Solomonic language, especially as Maringe yl- typically reflects POc &ast;/-, not &ast;g-. The species is not mentioned by [Peekel](../references.md#source-Peekel1984) ([1984](../references.md#source-Peekel1984)), a major source of botanical terms from New Ireland.
 
 ```
-MM:     Maringe       ylama         'Finschia cloroxantha' ([Henderson & Hancock 1988](../references.md#source-HendersonandHancock1988): 74)
+  MM:     Maringe       ylama         'Finschia cloroxantha' ([Henderson & Hancock 1988](../references.md#source-HendersonandHancock1988): 74)
 ```
 
 <table>
@@ -4446,17 +4465,18 @@ MM:     Maringe       ylama         'Finschia cloroxantha' ([Henderson & Hancock
 
 
 <a id="s-4-2"></a>
-## 4.2. Parartocarpus venenosa (syn. Parartocarpus involucrata) (Moraceae)
+
+### 4.2. Parartocarpus venenosa (syn. Parartocarpus involucrata) (Moraceae)
 
 
-Parartocarpus venenosa is a large lowland forest tree growing to about 35m, with girths of over 1.5 m, which resembles the breadfruit (Figure 11.11, left) (ch.9, [§4](#s-4)). Its fruit is brown or yellow and highly aromatic; it forms an irregularly shaped syncarp about 18cm across, a compound fruit with many segments about 3cm long arranged around the core, and is eaten raw. It is especially popular in New Britain, but there is no record of cultivation. Elsewhere in lowland New Guinea, the Bismarcks and the Solomons it is generally less significant but is known and consumed ([Barrau 1962](../references.md#source-Barrau1962): 177, Paijmans 1976: 124, [Peekel 1984](../references.md#source-Peekel1984): 132, [Bourke in preparation](../references.md#source-Bourkeinpreparation), [French 1986](../references.md#source-French1986): 259). [Henderson & Hancock](../references.md#source-HendersonandHancock1988) ([1988](../references.md#source-HendersonandHancock1988)) report that it is not very sweet and has a powdery texture: it is filling but not succulent. Its timber is generally not regarded as useful.
+Parartocarpus venenosa is a large lowland forest tree growing to about 35m, with girths of over 1.5 m, which resembles the breadfruit (Figure 11.11, left) (ch.9, §4). Its fruit is brown or yellow and highly aromatic; it forms an irregularly shaped syncarp about 18cm across, a compound fruit with many segments about 3cm long arranged around the core, and is eaten raw. It is especially popular in New Britain, but there is no record of cultivation. Elsewhere in lowland New Guinea, the Bismarcks and the Solomons it is generally less significant but is known and consumed ([Barrau 1962](../references.md#source-Barrau1962): 177, Paijmans 1976: 124, [Peekel 1984](../references.md#source-Peekel1984): 132, [Bourke in preparation](../references.md#source-Bourkeinpreparation), [French 1986](../references.md#source-French1986): 259). [Henderson & Hancock](../references.md#source-HendersonandHancock1988) ([1988](../references.md#source-HendersonandHancock1988)) report that it is not very sweet and has a powdery texture: it is filling but not succulent. Its timber is generally not regarded as useful.
 
 
 <a id="p-352"></a>
 
 Figure 11.11 Left Parartocarpus venenosa: A, young tree; B, branch bearing shoot, male flower and edible fruit; C, seed. Right Finschia chloroxantha: D, tree with stilt roots; E, flowering shoot; F, fruit cluster.
 
-Although reflexes of PWOc &ast;lapuka mean 'breadfruit' in some languages, the fact that there were at least two other POc terms for breadfruit (ch.9, [§4](#s-4)) suggests that the reflexes glossed 'Parartocarpus venenosa' retain the POc denotation. Kwara'ae rakwa-na is irregular, with initial r- for expected t 1- and suffixed -na (medial -kw- is a regular reflex of &ast;-pw-). Araki levu is irregular with-e- fort-a-.
+Although reflexes of PWOc &ast;lapuka mean 'breadfruit' in some languages, the fact that there were at least two other POc terms for breadfruit (ch.9, §4) suggests that the reflexes glossed 'Parartocarpus venenosa' retain the POc denotation. Kwara'ae rakwa-na is irregular, with initial r- for expected t 1- and suffixed -na (medial -kw- is a regular reflex of &ast;-pw-). Araki levu is irregular with-e- fort-a-.
 
 <table>
 <tr>
@@ -4514,14 +4534,14 @@ cf. also:
 <tr>
 <td>NCV</td>
 <td>Araki</td>
-<td>levu</td>
+<td><i>levu</i></td>
 <td>
 '<span>breadfruit, Artocarpus altilis</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
 <td>Kwara’ae</td>
-<td>rakwa-na</td>
+<td><i>rakwa-na</i></td>
 <td>
 '<span>Parartocarpus venenosa</span>'</td>
 </tr>
@@ -4554,11 +4574,11 @@ cf. also:
 
 [^10]: In Kara, Patpatar and Tolai of New Ireland the name of B. procera is a compound (e.g. paua-hutun in Patpatar) of the names of B. novae-hiberniae (paua) and B. asiatica (hutun) (Peekel1984: 397). [Jebb](../references.md#source-Jebb1992) ([1992](../references.md#source-Jebb1992)) suggests that this is evidence for a recent introduction of B. procera into the Bismarck Archipelago (he cites Bourke's research). This is only weak circumstantial evidenc1~, however, as a glance through Peekel shows that such compound plant names are common, and [Evans](../references.md#source-Evans1999) ([1999](../references.md#source-Evans1999)) reports that such a compound is used inS Malaitan to denote B. edulis because the nut is eaten but fish poison is extracted from the bark.
 
-[^11]: Predictably, kubar means 'red'. However, pala means 'coconut husk', perhaps alluding to the green pericarp of an unhusked young coconut. However, this term does not reflect either of the POc terms reconstructed for ' coconut husk' (ch.12, [§4.4](#s-4-4).)
+[^11]: Predictably, kubar means 'red'. However, pala means 'coconut husk', perhaps alluding to the green pericarp of an unhusked young coconut. However, this term does not reflect either of the POc terms reconstructed for ' coconut husk' (ch.12, §4.4.)
 
 [^12]: In Hiri Motu, the lingua franca of parts of southern Papua New Guinea, the term okari denotes T. kaernbachii; in Tok Pis in it denotes T. impediens, cultivated on the coasts of the Madang, East Sepik and Sandaun Provinces of mainland Papua New Guinea; ([Bourke & Allen forthcoming](../references.md#source-BourkeandAllenforthcoming)) .
 
-[^13]: The gloss of the Mwotlap and Mota terms, Albizia sam an, can be ignored for reconstructive purposes, as the latter is an introduced tree (ch.7, [§3.2](#s-3-2)), and was certainly not a POc denotatum of &ast;tapoRa.
+[^13]: The gloss of the Mwotlap and Mota terms, Albizia sam an, can be ignored for reconstructive purposes, as the latter is an introduced tree (ch.7, §3.2), and was certainly not a POc denotatum of &ast;tapoRa.
 
 [^14]: This term was recorded only in the inland dialect in which coastal Takia land rare merged as l, i.e. tapa[ is a regular reflex of &ast;tapoRa.
 
@@ -4584,7 +4604,7 @@ cf. also:
 
 [^25]: It is not mentioned by [Peekel](../references.md#source-Peekel1984) ([1984](../references.md#source-Peekel1984)).
 
-[^26]: Note that Garuga (ch.7, [§4.8](#s-4-8)) is said to resemble Spondias cytherea. See PNCV &ast;mal-mali below.
+[^26]: Note that Garuga (ch.7, §4.8) is said to resemble Spondias cytherea. See PNCV &ast;mal-mali below.
 
 [^27]: Despite its name, Ximenia americana has an African origin.
 

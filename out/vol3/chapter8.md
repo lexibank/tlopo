@@ -4,14 +4,15 @@ by Malcolm Ross
 
 
 <a id="s-1"></a>
+
 ## 1. Introduction
 
 
-The plants treated in this chapter grow in secondary lowland rain forest or in grasslands, i.e., in the forest which regrows on old fallow areas and on the grasslands that appear when regrowth doesn' t occur. The dominant characteristics of secondary forest plants are that they do not grow large enough to become canopy trees and they are intolerant of shade-they need sunlight ([Henderson & Hancock 1988](../references.md#source-HendersonandHancock1988): 323). As long as secondary regrowth remains low enough in stature, they survive, but when they lose their dominance to taller trees typical of the primary rain forest canopy, they cease to reproduce at that location (see ch.2, [§3.2.2](#s-3-2)).
+The plants treated in this chapter grow in secondary lowland rain forest or in grasslands, i.e., in the forest which regrows on old fallow areas and on the grasslands that appear when regrowth doesn' t occur. The dominant characteristics of secondary forest plants are that they do not grow large enough to become canopy trees and they are intolerant of shade-they need sunlight ([Henderson & Hancock 1988](../references.md#source-HendersonandHancock1988): 323). As long as secondary regrowth remains low enough in stature, they survive, but when they lose their dominance to taller trees typical of the primary rain forest canopy, they cease to reproduce at that location (see ch.2, §3.2.2).
 
-If, as seems to be the case, there was little or no agriculture in the Bismarck Archipe- lago before the arrival of the ancestors of Proto Oceanic (POc) speakers (see ch.2, [§4](#s-4) ), then one might infer that there was no secondary regrowth and no grassland in the region in POc times. However, regrowth would certainly have occurred in New Britain in the wake of vol- canic eruptions which must on occasion have wiped out tracts of primary forest. 1 Because grasslands occur primarily in drier areas, there is still very little grassland in the Bismarcks.
+If, as seems to be the case, there was little or no agriculture in the Bismarck Archipelago before the arrival of the ancestors of Proto Oceanic (POc) speakers (see ch.2, §4 ), then one might infer that there was no secondary regrowth and no grassland in the region in POc times. However, regrowth would certainly have occurred in New Britain in the wake of volcanic eruptions which must on occasion have wiped out tracts of primary forest.[^1] Because grasslands occur primarily in drier areas, there is still very little grassland in the Bismarcks.
 
-If, then, there was relatively little secondary forest in the Bismarcks-and what there was would ultimately have returned to primary forest-where were today's secondary forest trees located? They would have grown in locations with sufficient gaps in the canopy to let in sunlight. The more salt-tolerant grew on the coastal edge of the littoral forest, and others grew along river and stream banks. The immediate pre-Oceanic inhabitants of the Bismarcks appear to have led fairly sedentary lives and probably sometimes replanted useful trees closer to their dwellings (see discussion inch. 2, [§4](#s-4)). Very little is known about their lifestyle except by inference, but they presumably lived in clearings, perhaps especially on low hilltops, and these would also have provided environmen1cs for some oftoday' s secondary forest trees.
+If, then, there was relatively little secondary forest in the Bismarcks-and what there was would ultimately have returned to primary forest-where were today's secondary forest trees located? They would have grown in locations with sufficient gaps in the canopy to let in sunlight. The more salt-tolerant grew on the coastal edge of the littoral forest, and others grew along river and stream banks. The immediate pre-Oceanic inhabitants of the Bismarcks appear to have led fairly sedentary lives and probably sometimes replanted useful trees closer to their dwellings (see discussion inch. 2, §4). Very little is known about their lifestyle except by inference, but they presumably lived in clearings, perhaps especially on low hilltops, and these would also have provided environmen1cs for some oftoday' s secondary forest trees.
 
 
 <a id="p-238"></a>
@@ -20,15 +21,17 @@ One thing is clear: most of the species treated in this chapter were known to PO
 
 
 <a id="s-2"></a>
+
 ## 2. Trees and shrubs
 
 
 
 <a id="s-2-1"></a>
-## 2.1. Acalypha spp., copper leaf, Bredlif (Euphorbiaceae)
+
+### 2.1. Acalypha spp., copper leaf, Bredlif (Euphorbiaceae)
 
 
-[Peekel](../references.md#source-Peekel1984) ([1984](../references.md#source-Peekel1984): 308-309) distinguishes three shmbs of the genus Acalypha, namely A. longi- spica, A. grandis and A. wilkesiana, all in the 2--4 m range. The first two are indigenous to the Bismarcks, the last an import from Fiji. They have hairy twigs, their flowers grow in long spikes, and two of them, A. grandis and A. wilkesiana, have red leaves.
+[Peekel](../references.md#source-Peekel1984) ([1984](../references.md#source-Peekel1984): 308-309) distinguishes three shrubs of the genus Acalypha, namely A. longispica, A. grandis and A. wilkesiana, all in the 2--4 m range. The first two are indigenous to the Bismarcks, the last an import from Fiji. They have hairy twigs, their flowers grow in long spikes, and two of them, A. grandis and A. wilkesiana, have red leaves.
 
 A. longispica is common in secondary forest. A. grandis is grown as an ornamental shrub in New Ireland, but the Kwarae'ae take short poles from it, using them in small buildings, to stake yams and to plant living pig fences (Kwa''ioloa & Burt 2001: 148).
 
@@ -204,7 +207,8 @@ POc &ast;ka[(r,ŋa]qabusi appears to have denoted a taxon including at least A. 
 
 
 <a id="s-2-2"></a>
-## 2.2. Alphitonia spp. (Rhamnaceae)
+
+### 2.2. Alphitonia spp. (Rhamnaceae)
 
 
 Trees of the genus Alphitonia are sub-canopy trees which are conspicuous because of their light grey bark and leaves which are shiny brown or green on the upper surface but grey, white or silver underneath with brown veins (Peeh:l1984: 345). The Bismarcks species named by Peekel are A. macrocarpa, 8-10 m tall, and Al. excelsa, 10--20 m tall. Apparently very similar to the latter are A. incana (syn. A. philippensis) and A. zizyphoides (whitewood, B waetwud, huremi), the latter growing up to 30 m tall. Found respectively in NW Island Melanesia and from Vanuatu to eastern Polynesia, they are important in house construction and in tradi- tional medicine. The leaves were used as soap (Powel11976, [Whistler 1991b](../references.md#source-Whistler1991b): 126, [Wheatley 1992](../references.md#source-Wheatley1992): 193-195, [Kwa'ioloa & Burt 2001](../references.md#source-KwaioloaandBurt2001): 116, [Thomson & Thaman 2006](../references.md#source-ThomsonandThaman2006)).
@@ -272,7 +276,7 @@ cf. also:
 <tr>
 <td>NCV</td>
 <td>Raga</td>
-<td>dovae</td>
+<td><i>dovae</i></td>
 <td>
 '<span>Alphitonia zizyphoides</span>'(<a href="../references.md#source-Walsh2004">Walsh2004</a>)
 </td>
@@ -285,14 +289,15 @@ cf. also:
 
 
 <a id="s-2-3"></a>
-## 2.3. Commersonia bartramia (Sterculiaceae)
+
+### 2.3. Commersonia bartramia (Sterculiaceae)
 
 
 Commersonia bartramia is a common small bushy tree which grows up to 15m in height, and is particularly common in secondary for- est. It has a thin trunk, often crooked or leaning when it is competing with other trees for light ([Wheatley 1992](../references.md#source-Wheatley1992): 221).
 
 C. bartramia grows fast and, if the light al- lows it, straight, and is thus a valued timber in the Bismarcks and the Solomons, as it provides numerous rafters. The wood is lightweight, tough, cardboard-like and termite-proof. How- ever, the Kwara'ae regard it as good only for building cookhouses. On New Britain and in the Solomons it is regarded as good fire- wood. In both the Bismarcks and the Solomons the bast (inner bark fibre) is an important source of cordage, used to make fishing lines, nets and baskets, and among the N akanai the bast is beaten into masks ([Floyd 1954](../references.md#source-Floyd1954), Pow- el11976, Peekel1984: 371, Henderson & Han- cock 1988: 194, [Kwa'ioloa & Burt 2001](../references.md#source-KwaioloaandBurt2001): 160).
 
-The POc term for C. bartramia was &ast;Ja- maR. The Mwotlap, Mota and Vera'a reflexes include a reflex of the prefix &ast;mala- 'like '. One   Figure 8.1 Commersonia bartramia: A, tree; would thus expect them to denote a plant that         B, leaf: C, stem bearing leaves and flowering resembled C. bertramia, but they apparently                    shoot; D, ageing mature fruit. denote C. bertramia itself (ch.2, [§7.1.4](#s-7-1)).
+The POc term for C. bartramia was &ast;Ja- maR. The Mwotlap, Mota and Vera'a reflexes include a reflex of the prefix &ast;mala- 'like'. One   Figure 8.1 Commersonia bartramia: A, tree; would thus expect them to denote a plant that         B, leaf: C, stem bearing leaves and flowering resembled C. bertramia, but they apparently                    shoot; D, ageing mature fruit. denote C. bertramia itself (ch.2, §7.1.4).
 
 <table>
 <tr>
@@ -371,7 +376,8 @@ The POc term for C. bartramia was &ast;Ja- maR. The Mwotlap, Mota and Vera'a ref
 
 
 <a id="s-2-4"></a>
-## 2.4. Glochidion philippicum, little cheese tree, Bnamalao (Euphorbiaceae)
+
+### 2.4. Glochidion philippicum, little cheese tree, Bnamalao (Euphorbiaceae)
 
 
 The little cheese tree, Glochidion philippicum (syn. G. ramiflorum ), grows 10--20 m tall, and is common in secondary forest. Its fruit are dry greyish green disc-like capsules shaped like a Dutch cheese round or a flattened Australian pumpkin, which split open to reveal red or orange seeds ([Peekel 1984](../references.md#source-Peekel1984): 295).
@@ -574,7 +580,8 @@ PWOc &ast;jimʷaR or &ast;jimiR in all probability denoted the caulking substanc
 
 
 <a id="s-2-5"></a>
-## 2.5. Macaranga spp., P sa 'osa 'o, Bnavenue (Euphorbiaceae)
+
+### 2.5. Macaranga spp., P sa 'osa 'o, Bnavenue (Euphorbiaceae)
 
 
 There are a number of species of M acaranga growing in the Bismarcks and the Solomons and appearing as the glosses of items in the cognate sets below, but they are all rather similar. All are shrubs or small tre1es, usually 5-10 m and occasionally 15 m tall. Their saplings need light and do not flourish in primary forest, so they are found where the habitat is more open and oflten in gar- den regrowth or secondary forest ([Powell 1976](../references.md#source-Powell1976), [Peekel 1984](../references.md#source-Peekel1984):305-207, [Henderson & Hancock 1988](../references.md#source-HendersonandHancock1988): 196-197, [Wheatley 1992](../references.md#source-Wheatley1992):99-101, [Kwa'ioloa & Burt 2001](../references.md#source-KwaioloaandBurt2001): 147, [Hviding 2005](../references.md#source-Hviding2005): 109, 148).
@@ -588,7 +595,7 @@ The only species singled out for more detailed description in the sources is M. 
 
 Four reconstructions are offered, two for POc, two for PWOc, and all with the meaning 'Macaranga spp.'. They are POc &ast;koka, POc &ast;pinu(q)an, PWOc &ast;bara and PWOc &ast;kobo. Of these the only one for which a more specific denotatum can be inferred is POc &ast;pinu(q)an, glossed as 'taxon of Macaranga spp., perhaps M. involucrata' .
 
-POc &ast;koka probably denoted several Macaranga species. Known reflexes with this mean- ing are found in New Ireland (MM) and in the Banks Islands of extreme north Vanuatu (NCV). The distribution of the items in the set below suggests that the term was reapplied to Bischofiajavanica (ch.7, [§5.1](#s-5-1)) in Eastern Oceanic. The grounds for the reapplication are unclear, as Macaranga species are 5-10 m tall, whereas Bischofiajavanica is a canopy tree up to 30m.
+POc &ast;koka probably denoted several Macaranga species. Known reflexes with this mean- ing are found in New Ireland (MM) and in the Banks Islands of extreme north Vanuatu (NCV). The distribution of the items in the set below suggests that the term was reapplied to Bischofiajavanica (ch.7, §5 .1) in Eastern Oceanic. The grounds for the reapplication are unclear, as Macaranga species are 5-10 m tall, whereas Bischofiajavanica is a canopy tree up to 30m.
 
 <table>
 <tr>
@@ -811,7 +818,7 @@ PMP &ast;binu(q)an below is reconstructed on the basis of the Oceanic data and o
 
 
 
-There are formal questions associated with the reconstruction of PWOc &ast;kobo 'taxon of M acaranga spp.'. First, Far-east Manggarai, Razong, Rembong (all CMP) kebak 'M acaranga tanarius' ([Verheijen 1990](../references.md#source-Verheijen1990): 226) is probably cognate with the items below. If so, we would expect a POc form t&ast;koba(k) rather than &ast;kobo, so final PWOc &ast;-o may represent an idiosyn- cratic innovation. Second, &ast;kobo seems to have been confiated with &ast;kope 'bamboo sp.' (see ch. l3, [§3.1](#s-3-1)) in Motu.
+There are formal questions associated with the reconstruction of PWOc &ast;kobo 'taxon of M acaranga spp.'. First, Far-east Manggarai, Razong, Rembong (all CMP) kebak 'M acaranga tanarius' ([Verheijen 1990](../references.md#source-Verheijen1990): 226) is probably cognate with the items below. If so, we would expect a POc form t&ast;koba(k) rather than &ast;kobo, so final PWOc &ast;-o may represent an idiosyn- cratic innovation. Second, &ast;kobo seems to have been conflated with &ast;kope 'bamboo sp.' (see ch. l3, §3 .1) in Motu.
 
 <table>
 <tr>
@@ -863,7 +870,8 @@ There are formal questions associated with the reconstruction of PWOc &ast;kobo 
 
 
 <a id="s-2-6"></a>
-## 2.6. Pipturus argenteus (syn. P. velutinus, P. incanus, Urtica argentea, U incana) (Urticaceae)
+
+### 2.6. Pipturus argenteus (syn. P. velutinus, P. incanus, Urtica argentea, U incana) (Urticaceae)
 
 
 Pipturus argenteus is a small tree, 3-6 m tall, growing mainly in secondary forest. It has a short bole and leaves which are dark green on the upper surface and greyish green to silver underneath. The small white fruits are edible and sweet, but are not harvested systematically: they are eaten by children or as a bush snack. The bast is a useful cordage material, but the timber is used if at all for temporary shelters. It is unsuitable for house-building and is poor firewood, because it refuses to bum and because the smoke is an irritant (Peekel1984: 153, [Whistler 1991b](../references.md#source-Whistler1991b): 99, [Wheatley 1992](../references.md#source-Wheatley1992), [Kwa'ioloa & Burt 2001](../references.md#source-KwaioloaandBurt2001): 157, [Thieberger 2006b](../references.md#source-Thieberger2006b)). In Papua New Guinea the leaves are sometimes eaten, but it is not clear whether this includes locations in the Bismarcks ([French 1986](../references.md#source-French1986):90, [May 1984](../references.md#source-May1984): 63). [Arentz et al.](../references.md#source-Arentzetal1989) ([1989](../references.md#source-Arentzetal1989): 91) report that in part of New Britain an infusion of the leaves is used against a cough.
@@ -1058,7 +1066,8 @@ There is disagreement among cognates with regard to the final &ast;-aqi of POc &
 
 
 <a id="s-2-7"></a>
-## 2.7. Rhus taitensis (syn. R. retusa, R. rufa), P a.kwasi (Anacardiaceae)
+
+### 2.7. Rhus taitensis (syn. R. retusa, R. rufa), P a.kwasi (Anacardiaceae)
 
 
 Rhus taitensis is a tree which grows to 10--15 min secondary forest. At flowering time it is covered in white flowers. This is a deciduous tree, and when the leaves are ready to fall, they tum bright red (Peekel1984: 325).
@@ -1074,7 +1083,7 @@ The premier uses of R. taitensis, however, all have to do with producing black c
 
 Lagoon ([Hviding 2005](../references.md#source-Hviding2005): 131). In parts of the Solomons the pounded charcoal is mixed with Macaranga urophylla to make paint. In Tonga it was used in hair dye ([Whistler 1991b](../references.md#source-Whistler1991b): 121).
 
-A number of groups in Indonesia and Melanesia practised ritual tooth-blackening as part of initiation, and this was perhaps also a custom among Proto Oceanic speakers ([Chowning 1991](../references.md#source-Chowning1991): 48-49).5 Across southern New Britain the blackening material was mineral (probably manganese). In Malaita it was made from R. taitensis, and made the teeth shiny black and allegedly strong. The veins and stems were removed from the leaves, and what remained was roasted in bamboo, then pulverised. This powder was mixed with a crushed blue-black powdery rock known as oko, and a chemical reaction produced a black mixture which was cooked further to produce a viscous dye which was coated onto the subject' s teeth and left there for a week (during which the subject ate no solid foods). Occasionally the black would wear off after a few weeks, but usually it remained for life ([Henderson & Hancock 1988](../references.md#source-HendersonandHancock1988): 238, [Kwa'ioloa & Burt 2001](../references.md#source-KwaioloaandBurt2001): 108; see also vol.1, ch.4, [§5.3](#s-5-3)).
+A number of groups in Indonesia and Melanesia practised ritual tooth-blackening as part of initiation, and this was perhaps also a custom among Proto Oceanic speakers ([Chowning 1991](../references.md#source-Chowning1991): 48-49).5 Across southern New Britain the blackening material was mineral (probably manganese). In Malaita it was made from R. taitensis, and made the teeth shiny black and allegedly strong. The veins and stems were removed from the leaves, and what remained was roasted in bamboo, then pulverised. This powder was mixed with a crushed blue-black powdery rock known as oko, and a chemical reaction produced a black mixture which was cooked further to produce a viscous dye which was coated onto the subject' s teeth and left there for a week (during which the subject ate no solid foods). Occasionally the black would wear off after a few weeks, but usually it remained for life ([Henderson & Hancock 1988](../references.md#source-HendersonandHancock1988): 238, [Kwa'ioloa & Burt 2001](../references.md#source-KwaioloaandBurt2001): 108; see also vol.1, ch.4, §5.3).
 
 <table>
 <tr>
@@ -1165,7 +1174,8 @@ A number of groups in Indonesia and Melanesia practised ritual tooth-blackening 
 
 
 <a id="s-2-8"></a>
-## 2.8. Trema orienta/is (syn. T. scaberrima. T. aspera) (Ulmaceae)
+
+### 2.8. Trema orienta/is (syn. T. scaberrima. T. aspera) (Ulmaceae)
 
 
 Trema orienta/is is a secondary forest tree growing as tall as 12 m, with shiny bright green twigs and egg-shaped leaves, rough and dark green on the upper surface, pale green under- neath ([Peekel 1984](../references.md#source-Peekel1984): 131 ).
@@ -1232,7 +1242,8 @@ Blust (ACD) reconstructs PWMP &ast;deRuŋ on the basis of western Malaya-Polynes
 
 
 <a id="s-2-9"></a>
-## 2.9. Trichospermum spp. (syn. Althoffia, Grewia) (Tiliaceae)
+
+### 2.9. Trichospermum spp. (syn. Althoffia, Grewia) (Tiliaceae)
 
 
 Figure 8.4 Trichospermum richii.
@@ -1348,10 +1359,11 @@ POc &ast;maRako 'Trichospermum peekelii' is an unproblematic reconstruction.
 
 
 <a id="s-3"></a>
+
 ## 3. Grasses
 
 
-Although grasslands are rare in the Bismarck Archipelago, grasses of course grow there, especially on the edges of forests, around garden clearings and in secondary forest. The most common grass in the Bismarcks is Paspalum conjugatum (Figure 8.5, left), which can grow to a metre high (Peekell984: 48), but it appears to have been introduced from the New World (R. Gardner, pers. comm.). Evans (ch.3, [§4.5](#s-4-5)) reconstructs POc &ast;pali[s,j]i 'generic term for grasses and other grass-like plants'. She notes that the generic term for a taxon quite often represents an extension of the meaning of a term for a particular and salient subtaxon. There is flimsy evidence that the Proto Remote Oceanic reflex of &ast;pali[sj ]i was not only the generic but by this time denoted the creeping beach grass, Thuarea involuta, known in Hawai' i as kuroiwa grass. This is its specific denotation in both Mwotlap (NCV) and Woleaian (Mic).
+Although grasslands are rare in the Bismarck Archipelago, grasses of course grow there, especially on the edges of forests, around garden clearings and in secondary forest. The most common grass in the Bismarcks is Paspalum conjugatum (Figure 8.5, left), which can grow to a metre high (Peekell984: 48), but it appears to have been introduced from the New World (R. Gardner, pers. comm.). Evans (ch.3, §4.5) reconstructs POc &ast;pali[s,j]i 'generic term for grasses and other grass-like plants'. She notes that the generic term for a taxon quite often represents an extension of the meaning of a term for a particular and salient subtaxon. There is flimsy evidence that the Proto Remote Oceanic reflex of &ast;pali[sj ]i was not only the generic but by this time denoted the creeping beach grass, Thuarea involuta, known in Hawai' i as kuroiwa grass. This is its specific denotation in both Mwotlap (NCV) and Woleaian (Mic).
 
 Two less widely reflected terms, the refllexes of which are generic terms for grass, are POc &ast;rabum and &ast;(quta)quta.
 
@@ -1786,11 +1798,12 @@ It is probable that the Central Papuan (Taboro, Hula, Motu and Doura) forms in t
 
 
 
-Blust (ACD) also reconstructs PCEMP &ast;bitu, POc &ast;pitu 'I. cylindrica' on the basis of Savu widu, Kambera witu (both CMP) and Tangga (MM).fit, all 'I. cylindrica'. To these one might add Nyelayu (NCal) uc 'I. cylindrica'. Blust (ACD) considers Gedaged pit 'roofing material of sago leaves' a possible member of this set, since sago leaves and sword grass are both widely used as roofing thatch. However, POc &ast;pitu is a rather unconvincing reconstruction, the more so as other apparent Meso-Melanesian reflexes point to a hard-stemmed cane or reed as a denotatum: Patpatar, Tolai pit, 'Saccharum edule', Teop vito 'a wild variety of S. edule'). It may be that these reflect a confusion between reflexes of POc &ast;pitu 'I. cylindrica' and POc &ast;pijo 'cane or reed taxon, including Saccharum spontaneum' ([§3.4](#s-3-4)).
+Blust (ACD) also reconstructs PCEMP &ast;bitu, POc &ast;pitu 'I. cylindrica' on the basis of Savu widu, Kambera witu (both CMP) and Tangga (MM).fit, all 'I. cylindrica'. To these one might add Nyelayu (NCal) uc 'I. cylindrica'. Blust (ACD) considers Gedaged pit 'roofing material of sago leaves' a possible member of this set, since sago leaves and sword grass are both widely used as roofing thatch. However, POc &ast;pitu is a rather unconvincing reconstruction, the more so as other apparent Meso-Melanesian reflexes point to a hard-stemmed cane or reed as a denotatum: Patpatar, Tolai pit, 'Saccharum edule', Teop vito 'a wild variety of S. edule'). It may be that these reflect a confusion between reflexes of POc &ast;pitu 'I. cylindrica' and POc &ast;pijo 'cane or reed taxon, including Saccharum spontaneum' (§3.4).
 
 
 <a id="s-3-2"></a>
-## 3.2. Coix lacrymajobi, Job's tears (Poaceae)
+
+### 3.2. Coix lacrymajobi, Job's tears (Poaceae)
 
 
 Coix lacryma-jobi is a robust tropical grass, 1--1.5 m high, with shiny grains like tears (Fig- ure 8.5, right). The grains are the hardened flower-cases of female spikelets. They tum various colours-yellow, purple, white or brown-and are used in rattles and necklaces in places as far apart as New Britain and Malaita ([Kwa'ioloa & Burt 2001](../references.md#source-KwaioloaandBurt2001):204, [Powell 1976](../references.md#source-Powell1976)). Powell reports that the leaves are eaten in New Britain.
@@ -1838,7 +1851,8 @@ Coix lacryma-jobi is a robust tropical grass, 1--1.5 m high, with shiny grains l
 
 
 <a id="s-3-3"></a>
-## 3.3. Miscanthus jloridulus (syn. M. japonicus, Saccharum jloridulum), Bwaelken (Poaceae)
+
+### 3.3. Miscanthus jloridulus (syn. M. japonicus, Saccharum jloridulum), Bwaelken (Poaceae)
 
 
 A reed-like grass dominant on dry hillsides, Miscanthusfloridulus grows to about 2m tall. In some areas it is the predominant material for constructing house walls. In Kwara'ae the solid stems are used as roof battens to which sago thatch is attached, and also as arrow-shafts (Peekel1984: 47, [Kwa'ioloa & Burt 2001](../references.md#source-KwaioloaandBurt2001): 203).
@@ -1927,12 +1941,13 @@ A reed-like grass dominant on dry hillsides, Miscanthusfloridulus grows to about
 
 
 <a id="s-3-4"></a>
-## 3.4. Saccharum spontaneum, wild sugarcane (Poaceae)
+
+### 3.4. Saccharum spontaneum, wild sugarcane (Poaceae)
 
 
-Saccharum spontaneum is a tall grass up to 3m in height, with jointed, fibrous stalks similar to those of sugarcane, S. officinarum (ch.13, [§2.1](#s-2-1) ), to which it is quite closely related. Its English name 'wild sugarcane' reflects an earlier belief that it was the wild source of sugarcane.
+Saccharum spontaneum is a tall grass up to 3m in height, with jointed, fibrous stalks similar to those of sugarcane, S. officinarum (ch.13, §2.1 ), to which it is quite closely related. Its English name 'wild sugarcane' reflects an earlier belief that it was the wild source of sugarcane.
 
-The reconstruction below originates with [French-Wright](../references.md#source-FrenchWright1983) ([1983](../references.md#source-FrenchWright1983)), who glosses the form as 'a kind of wild sugarcane '. An expanded cognate set was given with the reconstruction &ast;pijo 'Saccharum sp.' in [Ross](../references.md#source-Ross1996d) ([1996d](../references.md#source-Ross1996d)), but some of the items listed there are now attributed to POc &ast;bitu(ŋ) 'bamboo sp.' (ch.13, [§3.1](#s-3-1)). [Chowning](../references.md#source-Chowning2001) ([2001](../references.md#source-Chowning2001): 81) criticises the sugarcane/Saccharum gloss as too precise, and I have modified the gloss below to take account of the reflexes in the New Guinea region that have other denotations.
+The reconstruction below originates with [French-Wright](../references.md#source-FrenchWright1983) ([1983](../references.md#source-FrenchWright1983)), who glosses the form as 'a kind of wild sugarcane'. An expanded cognate set was given with the reconstruction &ast;pijo 'Saccharum sp.' in [Ross](../references.md#source-Ross1996d) ([1996d](../references.md#source-Ross1996d)), but some of the items listed there are now attributed to POc &ast;bitu(ŋ) 'bamboo sp.' (ch.13, §3.1). [Chowning](../references.md#source-Chowning2001) ([2001](../references.md#source-Chowning2001): 81) criticises the sugarcane/Saccharum gloss as too precise, and I have modified the gloss below to take account of the reflexes in the New Guinea region that have other denotations.
 
 
 <a id="p-254"></a>

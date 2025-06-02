@@ -8,8 +8,8 @@ Map 2: Geographic limits of historically known Oceanic speakers and of presently
 1.1 Aims
 
    This is the first of a set of five volumes bringing together the results of recent work on the
-lexicon of the Proto Oceanic (POc) language.[1] Volume 1 deals with material culture, volume
-2 with the physical world including landscape and conceptions of location, meteorology,
+lexicon of the Proto Oceanic (POc) language.[1] Volume 1 deals with material culture, volume 2 with
+the physical world including landscape and conceptions of location, meteorology,
 astronomy and time, volume 3 with flora and fauna, volume 4 with terminologies centring on
 human beings, including the body and basic human conditions and activities, and social
 organisation, and volume 5 with grammatical (closed) categories including adjectives, pronouns,
@@ -219,21 +219,29 @@ for a form because none of the glosses of its reflexes is its protomeaning.
 In terminological reconstruction the meanings of protomorphemes are not determined in
 advance. Instead, cognate sets are collected and their meanings are compared with regard to:
 
-__ul__
-their specific denotations, where these are known;
-the geographic and genetic distribution of these denotations (i.e. are the glosses from which the protogloss is reconstructed well distributed?);
-any derivational relationships to other reconstructions;
-their place within a working hypothesis of the relevant POc terminology (e.g., are terms complementary -'bow' implies 'arrow'; 'seine net' implies 'floats' and 'weights'? Are there different levels of classification-generic, specific, and so on?).
+- their specific denotations, where these are known;
+
+- the geographic and genetic distribution of these denotations (i.e. are the glosses from which
+  the protogloss is reconstructed well distributed?);
+
+- any derivational relationships to other reconstructions;
+
+- their place within a working hypothesis of the relevant POc terminology (e.g., are terms
+  complementary -'bow' implies 'arrow'; 'seine net' implies 'floats' and 'weights'? Are there
+  different levels of classification-generic, specific, and so on?).
 
 For example, it proved possible to reconstruct the following POc terms for tying with cords
 (Ch. 9, §10):
 
-__ul__
-POc *buku 'tie (a knot); fasten'
-POc *pʷita 'tie by encircling'
-POc *paqu(s), *paqus-i- 'bind, lash; construct (canoe +) by lashing together'
-POc *pisi 'bind up, tie up, wind round, wrap'
-POc *kiti 'tie, bind'
+- POc _*buku_ 'tie (a knot); fasten'
+
+- POc _*pʷita_ 'tie by encircling'
+
+- POc _*paqu(s)_, _*paqus-i-_ 'bind, lash; construct (canoe +) by lashing together'
+
+- POc _*pisi_ 'bind up, tie up, wind round, wrap'
+
+- POc _*kiti_ 'tie, bind'
 
 In each of the supporting cognate sets from contemporary languages there are a number of
 items whose glosses in the dictionaries or word lists are too vague to tell the analyst anything
@@ -431,20 +439,24 @@ account for, irregularities in cognate sets.
    Work based on the sound correspondences of both Oceanic and non-Oceanic languages
 has resulted in the following reconstructed paradigm of POc phonemes:
 
-__pre__
-pʷ          p           t            c           k           q
-bʷ          b           d            j           g
-                        s
-mʷ          m           n            ñ           ŋ
-                        r                                    R
-                        dr
-                        l
-w                                    y
+__block__
+---- ---- ---- ---- ---- ----
+pʷ   p    t    c    k    q
+bʷ   b    d    j    g
+-    -    s
+mʷ   m    n    ñ    ŋ
+-    -    r    -    -    R
+-    -    dr
+-    -    l
+w    -    -    y
+---- ---- ---- ---- ---- ----
 
-__pre__
-            i                        u
-            e                        o
-                        a
+__block__
+---- ---- ----
+i    -    u
+e    -    o
+-    a
+---- ---- ----
 
 The orthography used here and in the POc reconstructions in this work is from Ross (1988),
 with the addition of _*pʷ_. POc phonology is discussed in greater detail in Chapter 2, §2.12   Malcolm Ross, Andrew Pawley and Meredith Osmond
@@ -544,14 +556,20 @@ written in an orthography identical to our standard.
 
    Bracketing and segmentation conventions in protoforms are:
 
-__ul__
-   _(x)_      it cannot be determined whether _x_ was present
-   _(x,y)_    either _x_ or _y_ was present
-   _[x]_      the item is reconstructable in two forms, one with and one without _x_
-   [x,y]      the item is reconstructable in two forms, one with _x_ and one with _y_
-   _x-y_      _x_ and _y_ are separate morphemes
-   _x-_       _x_ takes an enclitic or a suffix
-   _<x>_      _x_ is an infix
+-   _(x)_      it cannot be determined whether _x_ was present
+
+-   _(x,y)_    either _x_ or _y_ was present
+
+-   _[x]_      the item is reconstructable in two forms, one with and one without _x_
+
+-   [x,y]      the item is reconstructable in two forms, one with _x_ and one with _y_
+
+-   _x-y_      _x_ and _y_ are separate morphemes
+
+-   _x-_       _x_ takes an enclitic or a suffix
+
+-   _<x>_      _x_ is an infix
+
 
                           14              Malcolm Ross, Andrew Pawley and Meredith Osmond
 
@@ -648,8 +666,10 @@ widely reflected items in which it is reconstructed. Reflexes which signal its p
 
 a) velarised bilabials (usually _pʷ_) in contexts where they do not reflect _*bʷ_;
    see _*pʷaraq_, _*pʷararaq_ 'thunder', _*pʷatik_ 'potato yam, aerial yam, Dioscorea bulbifera', _*ku(p,pʷ)ena_ 'fishing net';
+
 b) apparent fortis reflexes of _*p_ in Western Oceanic and SES languages in environments where a lenis reflex is usually found;
-   see _*(p,pʷ)ilak_ 'lightning', _*pʷaraq_, _*pʷararaq_ 'thunder', _*pʷatik_ 'potato yam, aerial yam, Dioscorea bulbifera', _*pʷita_ 'snare; to snare', _*(p,pʷ)aRaRa_ 'handle' ;
+   see _*(p,pʷ)ilak_ 'lightning', _*pʷaraq_, _*pʷararaq_ 'thunder', _*pʷatik_ 'potato yam, aerial yam, Dioscorea bulbifera', _*pʷita_ 'snare; to snare', _*(p,pʷ)aRaRa_ 'handle';
+
 c) apparent reflexes of _*b_ or _*bʷ_ in Polynesian or Nuclear Micronesian (and occasionally other) languages;
    see _*la(p,pʷ)a(r,R)_ 'lightning, phosphorescence', _*pʷaraq_, _*pʷararaq_ 'thunder', _*ku(p,pʷ)ena_ 'fishing net', _*(p,pʷ)aRaRa_ 'handle'.
 
@@ -832,22 +852,24 @@ merged and then split. As a result, for example, PMP _*p_ became either POc _*p_
 and the same was true of PMP _*b_, giving the kind of crossover seen in the initial consonants
 of these examples:
 
-__pre__
-PMP *panas           'hot, warm'              POc *panas
-PMP *punay           'wild pigeon'            POc *bune
-PMP *baqeRuh         'new'                    POc *paqoRu
-PMP *beRek           'pig'                    POc *boRok            'domestic pig'.
+__table__
+PMP | POc
+_*panas_           'hot, warm'    |  _*panas_
+_*punay_           'wild pigeon'  |  _*bune_
+_*baqeRuh_         'new'          |  _*paqoRu_
+_*beRek_           'pig'          |  _*boRok_      'domestic pig'.
 
 
 20   Malcolm Ross
 
 Similarly, either PMP *k or PMP *g could become either POc *k or POc *g. For example,
 
-__pre__
-PMP *kuDen           'cooking pot'            POc *kuron
-PMP *kabut           'mist'                   POc *gabu
-PMP *gapgap          'stammer'                POc *kaka(p)
-PMP *gemgem          'make a fist'            POc *gugu(m) 'grasp in fist, clench fist'.[4]
+__table__
+PMP | POc
+_*kuDen_           'cooking pot'    | _*kuron_
+_*kabut_           'mist'           | _*gabu_
+_*gapgap_          'stammer'        | _*kaka(p)_
+_*gemgem_          'make a fist'    | _*gugu(m)_ 'grasp in fist, clench fist'.[4]
 
 [4]  PMP etyma with an unambiguous initial _*g-_ are rare, and this example shows a mismatch between the
   vowels of PMP and POc (see Ch. 9, §7).
@@ -910,15 +932,14 @@ Hoava (WOc, MM), all verbs in the corpus have transitive and intransitive altern
    We can reconstruct three major classes of POc intransitive verb on the basis of semantic
 and morphological criteria, as shown in Table 2.
 
-__Table 2: Classes of intransitive verb in Proto Oceanic__
+: Table 2: Classes of intransitive verb in Proto Oceanic
 
 __table__
-|                 |  1      |  2  |   3 | 4   |
-|             --- |  ---    | --- | --- | --- |
-|                 | inherently stative or inherently dynamic? | intransitive  subject | forms a transitive? | forms a causative? |
-| A verbs         | dynamic | A   | yes | yes |
-| U verbs         | neither | U   | yes | yes |
-| U-stative verbs | stative | U   | no  | yes |
+                 |  1      |  2  |   3 | 4
+                 | inherently stative or inherently dynamic? | intransitive  subject | forms a transitive? | forms a causative?
+ A verbs         | dynamic | A   | yes | yes
+ U verbs         | neither | U   | yes | yes
+ U-stative verbs | stative | U   | no  | yes
 
     As Table 2 shows, the only criterion which distinguishes all three classes from each other
 is a semantic one: is the intransitive verb inherently dynamic[8], inherently stative, or inherently
@@ -935,7 +956,8 @@ labelling is infelicitous in
     today's terms as it confuses macrorole (A, U) and role (agent, patient, experiencer, theme etc.). The distinctions
     between the three classes were first demonstrated systematically by Pawley (1973: 126- 140) with data from
     Motu (PT), Roviana (MM), Kwara'ae (SES), Arosi (SES), and Bauan Fijian. The seminal work on Fijian A
-    and U verbs is Arms (1974a). Biggs (1974) addresses parallel issues in Polynesian, Foley (1976) in Malayo-Polynesian. Boumaa Fijian examples in this section are from Dixon (1988:204, 231).
+    and U verbs is Arms (1974a). Biggs (1974) addresses parallel issues in Polynesian, Foley (1976) in Malayo-Polynesian.
+    Boumaa Fijian examples in this section are from Dixon (1988:204, 231).
 
     Fijian preserves the classification in Table 2 quite clearly, although individual verb forms
 in modern Fijian are not always in the same classes as the POc etyma they reflect. Intransitive
@@ -945,8 +967,10 @@ Boumaa Fijian clauses in (1) illustrate:
 
 22      Malcolm Ross
 
-__pre__
-(1) a. Au   rabe.
+
+__igt__
+(1) Boumaa (Fij): (Dixon 1988:204, 231)
+    a. Au   rabe.
        s:1s kick
        'I'm kicking.'
     b. Au    rabe-t-a     a   polo.
@@ -957,8 +981,9 @@ __pre__
 and U-stative. With U verbs the subject of the intransitive is the object of the corresponding
 transitive:
 
-__pre__
-(2) a. E    gagi  a   dovu.
+__igt__
+(2) Boumaa (Fij): (Dixon 1988:204, 231)
+    a. E    gagi  a   dovu.
        s:3s crush ART sugarcane
        'The sugarcane is being crushed.'
     b. Au   gagi-a     a   dovu.
@@ -972,11 +997,15 @@ gagi in (4) are inherently neither dynamic nor stative. With appropriate aspect 
 context, the clause in (4) may be given either a dynamic ('the sugarcane is being crushed') or
 a stative ('the sugarcane is [already] crushed') interpretation.
 
-__pre__
-(3) E    loaloa   a   ʔolii yai.
+__igt__
+(3) Boumaa (Fij): (Dixon 1988:204, 231)
+    E    loaloa   a   ʔolii yai.
     s:3s be.black ART dog   this
     'This dog is black.'
-(4) E    gagi  a   dovu.
+
+__igt__
+(4) Boumaa (Fij): (Dixon 1988:204, 231)
+    E    gagi  a   dovu.
     s:3s crush ART sugarcane
     'The sugarcane is crushed.'
 
@@ -1028,12 +1057,11 @@ suffix is known in the Oceanic literature as the '(close) transitive suffix' and
 regardless of whether the root was A or U :
 
 __table__
-| (5) |         | intransitive                | corresponding transitive        |               |
-| --- | ---     | ---                         | ---                             | ---           |
-|     | A verbs | _*kinit_[12] 'pinch'        | _*kinit-i-_ 'pinch (s.o/s.t)'   | (Ch. 9, §6.3) |
-|     |         | _*inum_ 'drink '            | _*inum-i-_  'drink (s.t.)'      |               |
-|     | U verbs | _*pʷosa(k)_ 'crack open'    | _*pʷosak-i-_ 'crack (s.t.) open'| (Ch. 9, §5.2) |
-|     |         | _*loŋoR_ 'be audible'       | _*loŋoR-i-_ 'hear, listen to'   |               |
+ (5) |         | intransitive                | corresponding transitive        |
+     | A verbs | _*kinit_[12] 'pinch'        | _*kinit-i-_ 'pinch (s.o/s.t)'   | (Ch. 9, §6.3)
+     |         | _*inum_ 'drink '            | _*inum-i-_  'drink (s.t.)'      |
+     | U verbs | _*pʷosa(k)_ 'crack open'    | _*pʷosak-i-_ 'crack (s.t.) open'| (Ch. 9, §5.2)
+     |         | _*loŋoR_ 'be audible'       | _*loŋoR-i-_ 'hear, listen to'   |
 
 [12] Note that _*kinit_ is reconstructed with final _*-t_ but _*pwosa(k)_ with parenthesised _*-k_ simply because we have a
      reflex of _*kinit_ in a language which retains POc final consonants, but none for _*pwosa(k)_. Following the
@@ -1048,14 +1076,13 @@ when the verb was used intransitively. Hence it was not a transitive suffix in P
 in some cases it was derived from an earlier suffix. With vowel-final roots, as with
 consonant-final, there was no formal difference between A and U roots:
 
-__pre__
-| (6) |         | intransitive              | corresponding transitive              |               |
-| --- | ---     | ---                       | ---                                   | ---           |
-|     | A verbs | _*kati_ 'husk with teeth' | _*kati-_ 'husk (s.t.) with teeth'     | (Ch. 9, §3.7) |
-|     |         | _*muri_ 'follow'          | _*muri-_ 'follow (s.t./s.o.)'         |               |
-|     |         | _*soka_ 'pierce, stab'    | _*soka-i-_ 'pierce, stab (s.t./s.o.)' | (Ch. 9, §4.1) |
-|     | U verbs | _*wase_ 'be shared out'   | _*wase-_ 'share (s.t.) out'           |               |
-|     |         | _*poli_ 'be bought'       | _*poli-_ 'buy (s.t.)'                 |               |
+__table__
+ (6) |         | intransitive              | corresponding transitive              |
+     | A verbs | _*kati_ 'husk with teeth' | _*kati-_ 'husk (s.t.) with teeth'     | (Ch. 9, §3.7)
+     |         | _*muri_ 'follow'          | _*muri-_ 'follow (s.t./s.o.)'         |
+     |         | _*soka_ 'pierce, stab'    | _*soka-i-_ 'pierce, stab (s.t./s.o.)' | (Ch. 9, §4.1)
+     | U verbs | _*wase_ 'be shared out'   | _*wase-_ 'share (s.t.) out'           |
+     |         | _*poli_ 'be bought'       | _*poli-_ 'buy (s.t.)'                 |
 
    Below are some examples of POc intransitive/transitive verb pairs with their Boumaa
 Fijian reflexes. The POc transitive includes the third person object enclitic _*a_:
@@ -1063,20 +1090,19 @@ Fijian reflexes. The POc transitive includes the third person object enclitic _*
 24    Malcolm Ross
 
 __table__
-| (7)| POc          |                      | Boumaa Fijian |                    |
-| ---| ---          | ---                  | ---           | ---                |
-|    | _*inum_      | 'drink '             | _unu_         |                    |
-|    | _*inum-i-a_  | 'drink it'           | _unu-m-a_     |                    |
-|    | _*loŋoR_     | 'be audible'         | _roŋo_        |                    |
-|    | _*loŋoR-i-a_ | 'hear it'            | _roŋo-ð-a_    |                    |
-|    | _*taŋis_     | 'weep'               | _taŋi_        |                    |
-|    | _*taŋis-i-a_ | 'weep for it'        | _taŋi-ð-a_    |                    |
-|    | _*soka_      | 'stab'               | _ðoʔa_        | 'throw a spear'    |
-|    | _*soka-i-a_  | 'stab it'            | _ðoʔa-a_      | 'throw a spear at' |
-|    | _*kati_      | 'husk with teeth'    | _ʔati_        | 'bite'             |
-|    | _*kati-a_    | 'husk it with teeth' | _ʔati-a_      | 'bite it'          |
-|    | _*wase_      | 'be shared out'      | _wase_        |                    |
-|    | _*wase-a_    | 'share it out'       | _wase-a_      |                    |
+ (7)| POc          |                      | Boumaa Fijian |
+    | _*inum_      | 'drink '             | _unu_         |
+    | _*inum-i-a_  | 'drink it'           | _unu-m-a_     |
+    | _*loŋoR_     | 'be audible'         | _roŋo_        |
+    | _*loŋoR-i-a_ | 'hear it'            | _roŋo-ð-a_    |
+    | _*taŋis_     | 'weep'               | _taŋi_        |
+    | _*taŋis-i-a_ | 'weep for it'        | _taŋi-ð-a_    |
+    | _*soka_      | 'stab'               | _ðoʔa_        | 'throw a spear'
+    | _*soka-i-a_  | 'stab it'            | _ðoʔa-a_      | 'throw a spear at'
+    | _*kati_      | 'husk with teeth'    | _ʔati_        | 'bite'
+    | _*kati-a_    | 'husk it with teeth' | _ʔati-a_      | 'bite it'
+    | _*wase_      | 'be shared out'      | _wase_        |
+    | _*wase-a_    | 'share it out'       | _wase-a_      |
 
 The reader will notice that formal restructuring has occurred in Fijian. The POc final consonant
 is lost from consonant-final intransitives. This leads to a resegrnentation of the transitive,
@@ -1093,12 +1119,11 @@ been lost, with the result that a language has a set of transitive suffixes with
 in Longgu.
 
 __table__
-| (8)| POc            |               | Longgu      |
-| ---|---             | ---           | ---         |
-|    | _*inum_        | 'drink'       |  _inu_      |
-|    | _*inum-i-a_    | 'drink it'    |  _inu-vi-a_ |
-|    | _*taŋis_       | 'weep'        |  _aŋi_      |
-|    | _*taŋis-i-a_   | 'weep for it' |  _aŋi-si-a_ |
+ (8)| POc            |               | Longgu
+    | _*inum_        | 'drink'       |  _inu_
+    | _*inum-i-a_    | 'drink it'    |  _inu-vi-a_
+    | _*taŋis_       | 'weep'        |  _aŋi_
+    | _*taŋis-i-a_   | 'weep for it' |  _aŋi-si-a_
 
 The consonant of the _-Ci-_ suffix is known as the 'thematic consonant'. Transitive verbs in our
 data corpus are often cited with a reflex of POc _*a_ o:3s. Where this can readily be omitted
@@ -1125,15 +1150,15 @@ this feature for POc.
 
                                                                             Phonology and grammar                  25
 
-__pre__
-(9)                                                         Proto Oceanic
-                                                      intransitive  transitive         Ch. 9[14]
-        PAn *tektek 'hack off'                       *toto(k)           *toki-         3.2
-        PMP *(c,s)uk(c,s)uk 'skewer'                 *(su)su(k)         *suki-         4.1
-        PAn *tuqtuq 'hammer, pound'                  *tutuk             *tuki-         5.1
-        PMP *pakpak 'clap, slap'                     *baba(k)           *baki-         5.1
-        PAn *buCbuC 'pluck out'                      *pupu(t)           *puti-         6.1
-        PMP *pespes 'squeeze, press out'             *popo(s)           *posi-         7
+__table__
+(9)  |                                      |        Proto Oceanic  |  Proto Oceanic |
+     |                                      |           intransitive|  transitive  |       Ch. 9[14]
+     |   PAn *tektek 'hack off'             |          *toto(k)     |      *toki-  |       3.2
+     |   PMP *(c,s)uk(c,s)uk 'skewer'       |          *(su)su(k)   |      *suki-  |       4.1
+     |   PAn *tuqtuq 'hammer, pound'        |          *tutuk       |      *tuki-  |       5.1
+     |   PMP *pakpak 'clap, slap'           |          *baba(k)     |      *baki-  |       5.1
+     |   PAn *buCbuC 'pluck out'            |          *pupu(t)     |      *puti-  |       6.1
+     |   PMP *pespes 'squeeze, press out'   |          *popo(s)     |      *posi-  |       7
 
 We also find 'deponent' cases in POc where a PAn/PMP reduplicated monosyllable and a
 POc transitive monosyllable + _*-i-_ form are reconstructable, but no intransitive form. This is
@@ -1180,13 +1205,13 @@ in POc, illustrated in (10), the first two being the most widely represented:
 
 26       Malcolm Ross
 
-__pre__
-(10)    Class           intransitive                               transitive
-          both             *kinit     'pinch'                        *kinit-i- 'pinch (s.o/s.t)'
-          both             *kati       'husk with teeth'             *kati-    'husk (s.t.) with teeth'
-          both             *toto(k)   'cut, chop'                    *toki-    'cut, chop (s.t.)'
-          A verb           *kani-kani 'eat'                          *kani- 'eat (s.t.)'
-          U verb           *ma-liŋi  'be poured out'                *liŋi    'pour (s.t.) out'.
+__table__
+(10)  |  Class     |    intransitive                       |   transitive
+      |  both      |    _*kinit_     'pinch'               |   _*kinit-i-_ 'pinch (s.o/s.t)'
+      |  both      |    _*kati_       'husk with teeth'    |   _*kati-_    'husk (s.t.) with teeth'
+      |  both      |    _*toto(k)_   'cut, chop'           |   _*toki-_    'cut, chop (s.t.)'
+      |  A verb    |    _*kani-kani_ 'eat'                 |   _*kani-_ 'eat (s.t.)'
+      |  U verb    |    _*ma-liŋi_  'be poured out'        |   _*liŋi_    'pour (s.t.) out'.
 
     As the foregoing examples show, in the reconstructions a transitive verb is marked with a
 final hyphen. If an intransitive/transitive pair is reconstructed, it will be shown as, e.g., _*kinit_,
@@ -1246,17 +1271,17 @@ suffix, is attached to an A or U root to form a transitive verb. In its canonic 
 of this verb is a referent which would appear as an oblique with the corresponding direct
 transitive. For example:
 
-__pre__
-(11)     POc                                                  Boumaa Fijian
-           *taŋis            'weep'                       taŋi
-           *taŋis-i-a        'weep for it'                taŋi-o-a
-           *taŋis-akini-a    'weep about it'              taŋi-oaʔin-a
-           *soka             'stab, spear'                ooʔa
-           *soka-i-a         'stab, spear it'             ooʔa-
-           *soka-(C)-akini-a 'stab, spear with it'        ooʔa-taʔin-a
-           *puni             'hide'                       vuni
-           *puni-a           'hide it'                    vunt-a
-           *puni-(C)-akini-a 'hide (s.t.) for s.o. '      vuni-taʔin-a
+__table__
+(11)  |   POc                                         |     Boumaa Fijian
+      |   _*taŋis_            'weep'                  |     _taŋi_
+      |   _*taŋis-i-a_        'weep for it'           |     _taŋi-o-a_
+      |   _*taŋis-akini-a_    'weep about it'         |     _taŋi-oaʔin-a_
+      |   _*soka_             'stab, spear'           |     _ooʔa_
+      |   _*soka-i-a_         'stab, spear it'        |     _ooʔa-_
+      |   _*soka-(C)-akini-a_ 'stab, spear with it'   |     _ooʔa-taʔin-a_
+      |   _*puni_             'hide'                  |     _vuni_
+      |   _*puni-a_           'hide it'               |     _vuni-a_
+      |   _*puni-(C)-akini-a_ 'hide (s.t.) for s.o. ' |     _vuni-taʔin-a_
 
 Again there are two reconstructable forms, POc _*-aki_ and _*-akini_. The difference between
 them needs more research, as does their status, their POc function, and the history of their
@@ -1292,33 +1317,33 @@ Ross (1995b:95-96).
 
 28      Malcolm Ross
 
-__pre__
-(12) PAn root *-buC 'weed, pull, pluck out' (Blust 1988: 86-87)
-     POc      *pupu(t), *puti-                        'pick (fruit +), pluck (feathers +)'
-     POc      *(s,j)apu(t), *(s,j)aput-i-           'pull out, pull up, pluck (fruit, nuts)'
-     POc      *tapu(t), *taput-i                      'strip (crops), pull off'
+__table__
+(12) | PAn root |  *-buC                        |  'weed, pull, pluck out' (Blust 1988: 86-87)
+     | POc      |  *pupu(t), *puti-             |   'pick (fruit +), pluck (feathers +)'
+     | POc      |  *(s,j)apu(t), *(s,j)aput-i-  |   'pull out, pull up, pluck (fruit, nuts)'
+     | POc      |  *tapu(t), *taput-i           |   'strip (crops), pull off'
 
 The pair _*pupu(t)_, _*puti-_ reflects PAn _*buC-buC_ in accordance with the paradigm in (9),
 whilst the intransitive roots _*(s,j)apu(t)_ and _*taput_ apparently reflect PAn forms _**sa-buC_
 and _**ta-buC_.[20] 0ther such sets are:
 
-__pre__
-(13) PAn root *-pak 'break, crack, split' (Blust 1988: 135-136)
-     POc *sapaki 'pluck off, break off (leaves) with the hand' (Ch. 9, §6.1)
-     POc *paki 'pluck, break off (leaves) with the hand' (Ch. 9, §6.1)
-     POc *lopa(k) 'break' (Ch. 9, §6.2)
+__table__
+(13) |  PAn root | *-pak     |  'break, crack, split' (Blust 1988: 135-136)
+     |  POc      |  *sapaki  |  'pluck off, break off (leaves) with the hand' (Ch. 9, §6.1)
+     |  POc      |  *paki    |  'pluck, break off (leaves) with the hand' (Ch. 9, §6.1)
+     |  POc      |  *lopa(k) |  'break' (Ch. 9, §6.2)
 
-__pre__
-(14) PAn root *-Tuk 'knock, pound, beat ' (Blust 1988: 160- 161) (Ch. 9, §5.1)
-     POc *tutuk, *tuki- 'pound, mash by pounding, hammer, crack by hammering'
-     POc *putu(k) 'repeatedly knock, pound, beat'
-     POc *butu(k), *butuk-i- 'repeatedly knock, pound, beat'
+__table__
+(14) |  PAn root |  *-Tuk               |  'knock, pound, beat ' (Blust 1988: 160- 161) (Ch. 9, §5.1)
+     |  POc      |  *tutuk, *tuki-      |  'pound, mash by pounding, hammer, crack by hammering'
+     |  POc      |  *putu(k)            |  'repeatedly knock, pound, beat'
+     |  POc      |  *butu(k), *butuk-i- |  'repeatedly knock, pound, beat'
 
-__pre__
-(15) PAn root *-Tak 'sound of cracking, splitting, knocking' (Blust 1988: 157- 158)
-      POc *potak, *potak-i- 'crack open, split open, make incision' (Ch. 9, §3.8)
-      POc *botak, *botak-i- 'crack open, split open, make incision' (Ch. 9, §3.8)
-      POc *pita(k), *pitak-i- 'break, split' (Ch. 9, §5.2)
+__table__
+(15) |  PAn root |  *-Tak               |  'sound of cracking, splitting, knocking' (Blust 1988: 157- 158)
+     |   POc     |  *potak, *potak-i-   |  'crack open, split open, make incision' (Ch. 9, §3.8)
+     |   POc     |  *botak, *botak-i-   |  'crack open, split open, make incision' (Ch. 9, §3.8)
+     |   POc     |  *pita(k), *pitak-i- |  'break, split' (Ch. 9, §5.2)
 
 An additional complication consists in the fact that Blust finds PAn/PMP roots which differ
 only in the voicing of the root-initial consonant and which have similar meanings. Since
@@ -1351,25 +1376,26 @@ history. A good basic description of such a system is provided by Schachter (198
 
                                                                              Phonology and grammar   29
 
-__pre__
-(16) The PMP verbal system (based on Wolff 1973 and Ross 1995a)
-                                     nominalisations _or_
-                                     indicative independent              non-indicative
-                                     imperfective    perfective             or dependent
-Actor focus or intransitive          _<um>_√           _<um-in>_√         √
-Actor focus only                     _[ma]N-_√         _naN-_√            _paN-_√
-Patient focus or intransitive        √_-en_            _<in>_√            √_-a_
-Location focus                       √_-an_            _<in>_√_-an_         √_-i_
-Instrument or beneficiary focus      _i-_√             _i-<in>_√          √_-án_
+__table__
+(16)|                                  |                 |                  |
+    | | nominalisations _or_ indicative independent imperfective | nominalisations _or_ indicative independent perfective | non-indicative or dependent
+    | Actor focus or intransitive      |    _<um>_√      |     _<um-in>_√   |      √
+    | Actor focus only                 |    _[ma]N-_√    |     _naN-_√      |      _paN-_√
+    | Patient focus or intransitive    |    √_-en_       |     _<in>_√      |      √_-a_
+    | Location focus                   |    √_-an_       |     _<in>_√_-an_ |        √_-i_
+    | Instrument or beneficiary focus  |    _i-_√        |     _i-<in>_√    |      √_-án_
+
+: The PMP verbal system (based on Wolff 1973 and Ross 1995a)
 
 The symbol √ represents the verb root and <…> an infix after the root-initial consonant. PMP
 _-N-_ represents an underlying velar nasal which combined with a root-initial voiceless obstruent
 to give the homorganic nasal, and with a root-initial voiced obstruent to give either the
 homorganic nasal or a nasal + obstruent sequence:
 
-__pre__
-(17) *paN- + *takaw 'steal'         ->      *panakaw 'steal (actor focus)'
-     *paN- + *deŋeR 'hear'          ->      *pandeŋeR 'hear (actor focus)'
+__table__
+(17) |                             |          |
+     | _*paN-_ + _*takaw_ 'steal'  |     →    |    _*panakaw_ 'steal (actor focus)'
+     | _*paN-_ + _*deŋeR_ 'hear'   |     →    |    _*pandeŋeR_ 'hear (actor focus)'
 
 The systemic features relevant to this discussion are that (i) there were two sets of verb
 forms, the first used in indicative independent clauses and the other in non-indicative
@@ -1381,16 +1407,14 @@ actor focus forms.
 scholars (Pawley & Reid 1980, Starosta, Pawley & Reid 1982, Wolff 1980). The POc
 system in (18) is set out in such a way that it corresponds with (16).
 
-__pre__
-(18) The POc verbal system
-                              nominalisation                     verb
-                              imperfective perfective
-Intransitive                                                    √
-(relic transitives)           (√-on)                            (paN-√, N-√)
-Transitive                    √-an              <in>√(-an)       √-i-
+__table__
+(18)| |   nominalisation imperfective | nominalisation perfective | verb
+    | Intransitive            |               |               |  √
+    | (relic transitives)     |   (√-on)      |               |  (paN-√, N-√)
+    | Transitive              |    √-an       |   <in>√(-an)  |  √-i-
+    | Applicative             |    i-√        |               |  √-aki[ni]-
 
-Applicative                   i-√                               √-aki[ni]-
-
+: The POc verbal system
 
 The stages by which the PMP system became the POc system lie beyond the scope of this
 chapter (Ross 1997 provides a hypothesised sequence), but the main changes (not necessarily
@@ -1398,8 +1422,10 @@ in diachronic order) were:
 
 a)      Instrument or beneficiary focus *√-án was replaced by *√-aki[ni]-. This change is also
         reflected in many languages in Indonesia.
+
 b)      PMP patient focus forms were lost, and the function of location focus forms was
         extended to include patient focus. These forms became the POc transitives.
+
 c)     The PMP indicative independent verbal forms lost their verbal functions and remained
         only as nominalisers, leaving the erstwhile non-indicative/dependent verbal forms as the
         only verbal forms.
@@ -1410,16 +1436,17 @@ c)     The PMP indicative independent verbal forms lost their verbal functions a
 been described in §3.1.2. The only additions are the parenthesised forms, representing possible
 fossils. Evidence for these is given in (19).
 
-__pre__
-(19) POc relic verb forms (Ross 1988: 41 -42 gives supporting data)
-        PMP                                POc
-        root            *[pa]N-root
-        *takaw          *panakaw           *panako          'steal'
-        *ka(ʔe)n        *paŋa(ʔe)n         *paŋan           'eat'
-        *ka(ʔe)n-i                         *kani-           'eat'
-        *sepsep         *ñep               *sopi-, *ñopi-   'suck'
-        *da(n)daŋ       *naŋ               *raŋi-, *naŋ     'shine' (Ch. 9, § 11)
-        *buni           *muni              *puni-, *muni-   'hide (VT)'
+__table__
+(19) | PMP            |                   |  POc                |
+     |   root         |     _*[pa]N-_root |                     |
+     |   _*takaw_     |     _*panakaw_    |  _*panako_          |  'steal'
+     |   _*ka(ʔe)n_   |     _*paŋa(ʔe)n_  |  _*paŋan_           |  'eat'
+     |   _*ka(ʔe)n-i_ |                   |  _*kani-_           |  'eat'
+     |   _*sepsep_    |     _*ñep_        |  _*sopi-_, _*ñopi-_ |  'suck'
+     |   _*da(n)daŋ_  |     _*naŋ_        |  _*raŋi-_, _*naŋ_   |  'shine' (Ch. 9, § 11)
+     |   _*buni_      |     _*muni_       |  _*puni-_, _*muni-_ |  'hide (VT)'
+
+: POc relic verb forms (Ross 1988: 41-42 gives supporting data)
 
 In POc _*panako_ and _*paŋan_, we have clear cases where *paN- is preserved. The pair _*paŋan_
 and _*kani_ is evidence that some relic of the focus system may have continued to exist until
@@ -1436,13 +1463,13 @@ nasal; cf. §2.4) of their initial consonant. For the verbs in (20), the data ju
 of two forms. For those in (21), the case is not quite so clear, but there are forms which
 indicate that there may also have been a POc form with a nasal-grade initial.
 
-__pre__
-(20)      POc                                              POc
-          *puru(k), *puruk-i- 'pierce, bore (hole)'        *buru
-          *putu(k) 'repeatedly knock, pound, beat'         *butu(k), *butuk-i-
-          *kiri 'file, rasp, saw'                          *giri
-          *kora(s), *koras-i- 'scrape out'                 *gora(s), *goras-i-
-          *rama(R) 'torch; fish with torch'                *drama(R)
+__table__
+(20)   |   POc                                        |      POc
+       |   *puru(k), *puruk-i- 'pierce, bore (hole)'  |      *buru
+       |   *putu(k) 'repeatedly knock, pound, beat'   |      *butu(k), *butuk-i-
+       |   *kiri 'file, rasp, saw'                    |      *giri
+       |   *kora(s), *koras-i- 'scrape out'           |      *gora(s), *goras-i-
+       |   *rama(R) 'torch; fish with torch'          |      *drama(R)
 
 
 [22] This doubling up of morphology has at least two possible explanations. One, _*-i-_ was added to
@@ -1452,24 +1479,24 @@ _*maN-_ and _*-i_ co-occur in a single verb form. The evidence to date is too th
 
                                                                  Phonology and grammar              31
 
-__pre__
-(21)     POc                                        Reflexes with voiced initials
-     *poka 'to divide, cut up'                        Wayan boka(ti-) 'split or cut s.t. in half'
-                                                      Carolinian pax 'be cut, split'
-     *potak, *potak-i- 'crack open'                   Motu bota(i) 'beat, thrash'
-                                                      Wayan bote(ki) 'split or crack s.t. open'
-     *(p,pʷ)i(p,pʷ)i(t) 'press, wring, squeeze s.t.'   Gumawana bibi 'squeeze (boil +)'
-                                                    Arosi bibi 'crush, squeeze, crowd'
-     *kili(s), *kilis-i- 'twist, bore, rotate'      Bauan gili- 'twist or rub in the hands'
-                                                    Nadroga gili- 'braid'
-     *kutu 'cut'                                    Bauan gutu, gutuv(a) 'cut off, sever'
-     *kinit, *kinit-i- 'pinch off'                  Gumawana ginisi 'pinch s.o.'
-                                                    Lau gini-gini 'pinch off with the nails'
-                                                                                   ,
-     *kawit, kawit-i- 'hook, catch hold of'         Lukep -gaot 'pick (breadfruit)
-                                                    Dobu geuta 'hook fruit, fruit hook'
-                                                    Lau gau 'pluck fruit with bamboo, crook'
-     *sapu(t), *saput-i- 'pull out, up, pluck'      Roviana zapu 'pull coconuts from a tree'
+__table__
+(21)|     POc                                          |  Reflexes with voiced initials
+    | _*poka_ 'to divide, cut up'                      |  Wayan _boka(ti-)_ 'split or cut s.t. in half'
+    |                                                  |  Carolinian _pax_ 'be cut, split'
+    | _*potak_, _*potak-i-_ 'crack open'               |  Motu _bota(i)_ 'beat, thrash'
+    |                                                  |  Wayan _bote(ki)_ 'split or crack s.t. open'
+    | _*(p,pʷ)i(p,pʷ)i(t)_ 'press, wring, squeeze s.t.'|  Gumawana _bibi_ 'squeeze (boil +)'
+    |                                                  |  Arosi _bibi_ 'crush, squeeze, crowd'
+    | _*kili(s)_, _*kilis-i-_ 'twist, bore, rotate'    |  Bauan _gili-_ 'twist or rub in the hands'
+    |                                                  |  Nadroga _gili-_ 'braid'
+    | _*kutu_ 'cut'                                    |  Bauan _gutu_, _gutuv(a)_ 'cut off, sever'
+    | _*kinit_, _*kinit-i-_ 'pinch off'                |  Gumawana _ginisi_ 'pinch s.o.'
+    |                                                  |  Lau _gini-gini_ 'pinch off with the nails'
+    |                                                  |                               ,
+    | _*kawit_, _kawit-i-_ 'hook, catch hold of'       |  Lukep _-gaot_ 'pick (breadfruit)
+    |                                                  |  Dobu _geuta_ 'hook fruit, fruit hook'
+    |                                                  |  Lau _gau_ 'pluck fruit with bamboo, crook'
+    | _*sapu(t)_, _*saput-i-_ 'pull out, up, pluck'    |  Roviana _zapu_ 'pull coconuts from a tree'
 
 The pairs _*p_/_*b_, _*k_/_*g_, _*s_/_*j_ and _*r_/_*dr_ are represented in (20) and (21). Differences in
 token frequency are probably largely attributable to differences in the frequency of these
@@ -1504,15 +1531,15 @@ they often have a voiceless initial obstruent:
 
 32    Malcolm Ross
 
-__pre__
-(22)   POc                                             PMP
-       *putu(k) 'repeatedly knock, pound, beat'        *buTuk
-       *kiri 'file, rasp, saw'                         *kirkir
-       *poka 'to divide, cut up'                       *peka
-       *potak, *potak-i- 'crack open'                  *beTak
-       *(p,pʷ)i(p,pʷ)i(t) 'press, wring, squeeze s.t.' *pitpit
-       *kinit, *kinit-i- 'pinch off'                   *kinit
-       *kawit, kawit-i- 'hook, catch hold of'          *kawit
+__table__
+(22) |  POc                                               | PMP
+     |  _*putu(k)_ 'repeatedly knock, pound, beat'        | _*buTuk_
+     |  _*kiri_ 'file, rasp, saw'                         | _*kirkir_
+     |  _*poka_ 'to divide, cut up'                       | _*peka_
+     |  _*potak_, _*potak-i-_ 'crack open'                | _*beTak_
+     |  _*(p,pʷ)i(p,pʷ)i(t)_ 'press, wring, squeeze s.t.' | _*pitpit_
+     |  _*kinit, _*kinit-i-_ 'pinch off'                  | _*kinit_
+     |  _*kawit, _*kawit-i-_ 'hook, catch hold of'        | _*kawit_
 
 This means that instead of the pair _*kiri_/_*giri_, for example, descended from PMP
 voiceless-initial _*kirkir_, we would expect a pair _*kiri_/_**ŋiri_, corresponding to the pairs in the lower half
@@ -1564,31 +1591,29 @@ had other senses too.
 
                                                                          Phonology and grammar       33
 
-__pre__
-(23) PMP              nominalisation
-                      imperfective   perfective              *kaʔen 'eat'
-Patient               √-en             <in>√            *kaʔen-en 'thing to be eaten, food'
-                                                           *k<in>aʔen 'thing eaten'
-Location              √-an             <in>√-an         *kaʔen-an 'place where one eats'
-                                                           *k<in>aʔen-an 'place where one has eaten'
-Instrument            i-√              (i-<in>√)        *i-kaʔen 'thing one eats with'
+__table__
+(23) |PMP  | nominalisation imperfective | nominalisation perfective | *kaʔen 'eat'
+     | Patient    |           √-en      |       <in>√      |      *kaʔen-en 'thing to be eaten, food'
+     |            |                     |                  |        *k<in>aʔen 'thing eaten'
+     |Location    |          √-an       |      <in>√-an    |     *kaʔen-an 'place where one eats'
+     |            |                     |                  |        *k<in>aʔen-an 'place where one has eaten'
+     |Instrument  |          i-√        |      (i-<in>√)   |     *i-kaʔen 'thing one eats with'
 
-The affix combination *i-<in>√ is parenthesised because I know of no reflexes of it as a
-nominaliser. Reflexes of *<in>√-an are known only from Oceanic, and may reflect a local
+The affix combination _*i-<in>_√ is parenthesised because I know of no reflexes of it as a
+nominaliser. Reflexes of _*<in>_√-an are known only from Oceanic, and may reflect a local
 innovation.
 
    The corresponding POc nominalisations are tabulated in (24). Although the verbal focus
 system had disappeared in POc, it is reasonably clear that the nominalising morphology
 continued to be associated with semantic roles:
 
-__pre__
-(24) POc              nominalisation
-                      imperfective perfective              *kani 'eat'
-Patient               (√-on)           <in>√           *kano'1 'thing to be eaten, food'
-                                                          *k<imani 'thing eaten'
-Location              √-an             <in>√-an         *kan-an, *kana'1 'place where one eats'
-                                                          *k<iman-an 'place where one has eaten'
-Instrument            i-√                               *i-kani 'thing one eats with'
+__table__
+(24) |POc | nominalisation imperfective |nominalisation perfective   |           *kani 'eat'
+     |Patient       |        (√-on)    |       <in>√       |    *kano'1 'thing to be eaten, food'
+     |              |                  |                   |    *k<imani 'thing eaten'
+     |Location      |        √-an      |       <in>√-an    |     *kan-an, *kana'1 'place where one eats'
+     |              |                  |                   |     *k<iman-an 'place where one has eaten'
+     |Instrument    |        i-√       |                   |     *i-kani 'thing one eats with'
 
 The affix combination _*√-on_ is parenthesised because it survived only in fossilised forms like
 POc _*kanoŋ(a)_ 'flesh, meat, coconut flesh' (Ross 1996d: 174). However, it is clear that the
@@ -1690,16 +1715,14 @@ portmanteau marker of third person subject and perfective aspect, whilst _vaɣor
 preceded by the article _a_ and means 'a new one'.
 (25) Bali-Vitu:
 
-__pre__
+__igt__
+(25) Bali-Vitu (MM):
         a. A       vaga  beini  ti           zaɣata.
            ARTICLE canoe that   PERFECTlVE:3 bad
            'That canoe is broken.'
-
-__pre__
         b. A       rumaka beini a       vaɣoru.
            ARTICLE house  that  ARTICLE new
            'That house is new.'
-
 
 
 2.4 Assigning reconstructions to word classes
@@ -2029,23 +2052,38 @@ set out below.
 
 44     Roger Green and Andrew Pawley
 
-__ul__
 (1) There is a preference for coastal settlements, handy to reef/lagoon systems and beaches with landing places for boats, and to garden land in the interior.
+
 (2) Both dispersed and nucleated settlements are common. Dispersed settlements, sometimes containing hamlets inhabited by a few extended families, are commonest where land is plentiful. Nucleated settlements, consisting of villages of up to 300 people, are invariably found when land is in short supply and, where attacks are feared, settlements may be situated in inaccessible places with defences constructed.
+
 (3) In villages where the terrain allows, main dwellings are generally arranged in parallel lines on each side of a rectangular space that serves as a ceremonial centre for the settlement.
+
 (4) Villages divide into sections or wards each belonging to a single lineage (or section of a lineage) and containing one or more households.
+
 (5) The sections are not physically bounded but each lineage owns certain house sites and these sites have considerable ritual importance.
+
 (6) Each family or extended family has a rectangular main house, which in western Melanesia is generally raised on piles; but in eastern Melanesia, nuclear Micronesia and Polynesia comes in both rectangular, oval, and round forms and is usually (there are some exceptions in Micronesia) built on the ground or, in some regions, on a flat mound.
+
 (7) Main dwelling houses have two-section thatched roofs with high gable. This relatively heavy superstructure is supported by large posts and beams.
+
 (8) There is a porch in the front of raised houses and often on those built on the ground.
+
 (9) The interior of the main dwelling is divided into compartments with an inner room or compartment for sleeping and an outer 'living room'.
+
 (10) While main houses serve as sleeping places and as storage places for valuables, much daily life takes place in smaller, less durable structures erected on the ground near the main dwelling and used for various daytime activities such as preparing food, cooking, eating, weaving mats, conversation with neighbours and sometimes for sleeping in at night. These structures, including kitchen and day-houses, are less well built, being open-sided or only partly walled, often with flat roofs of coconut leaves or rough thatching.
+
 (11) Coastal settlements have open-sided boat houses, each usually belonging to an extended family.
+
 (12) In yam-growing areas there are storage houses with raised platforms for keeping yams; similar structures often occur elsewhere.
+
 (13) In parts of Melanesia a men's house is commonly part of the hamlet or village, providing a centre where men and boys may congregate and perform certain rituals from which women are barred.
+
 (14) A menstrual hut is sometimes built near the main dwelling of a family.
+
 (15) Ovens made with heated stones, including both earth ovens (where the food is cooked in pits) and above-ground ovens, occur close to the dwellings.
+
 (16) Graves, often marked by piles of stones, may be sited under or close to the main dwelling house.
+
 (17) The ritual activity of kin groups is focused in dwelling houses. The principal ritual foci within the house are the posts, entrance, ridge-pole and hearth.
 
    In a passage cited earlier, Hauser-Schäublin (1989) discussed features of house design
@@ -2120,14 +2158,20 @@ house. Arosi speakers, of San Cristobal in the Solomons, for instance, first dis
 only, a shrine (a small house on poles)' and then distinguish at least the following kinds of
 _ruma_ (Fox 1978):
 
-__ul__
 - _ruma huri_, a round house, taller than the well-known Santa Cruz round house
+
 - _ruma gaura_, a double, oblong house
+
 - _ruma ora_, a house with ten posts or more (five pairs of posts)
+
 - _ruma pʷarapʷara_, a house roughly built, with roof of whole fronds instead of thatching
+
 - _ruma rangi_, a house with two roofs, the second roof only above the upper part of the first roof, made by extending the rafters upwards
+
 - _ruma rokera_, like ruma rangi but the two roofs close together
+
 - _ruma sinakuhi_, house with rounded end
+
 - _ruma waiho_, simplest form of oblong house with six posts (three pairs).
 
 Are there significant structural differences between the houses and settlements of Austronesian
@@ -2137,15 +2181,22 @@ been much cultural influence across linguistic boundaries. But if we exclude the
 problematic cases, the following generalisations about non-Austronesian societies seem to
 apply rather widely. 
 
-__ol__
 (1) There is a preference for inland settlements. 
-(2) Main dwelling houses are built on the ground, not on piles. 
-(3) Houses are relatively small and lack a high, gabled roof requiring strong crossbeams and centre-posts. Instead, the roof is relatively low and flat or domed with the support of centre poles. 
-(4) Timbers are lashed, and seldom secured by wooden pins or pegs. 
-(5) There is no projecting gable. 
-(6) There is no porch or raised open platform outside the room. 
-(7) There is often a men's house. 
-(8) Boat houses are absent. 
+
+(2) Main dwelling houses are built on the ground, not on piles.
+
+(3) Houses are relatively small and lack a high, gabled roof requiring strong crossbeams and centre-posts. Instead, the roof is relatively low and flat or domed with the support of centre poles.
+
+(4) Timbers are lashed, and seldom secured by wooden pins or pegs.
+
+(5) There is no projecting gable.
+
+(6) There is no porch or raised open platform outside the room.
+
+(7) There is often a men's house.
+
+(8) Boat houses are absent.
+
 (10) Stone heated ovens, including earth ovens, are made close to the dwellings.
 
    The ethnological evidence suggests various questions for culture history. Can we show by
@@ -2771,7 +2822,6 @@ POc *lua(ŋ) 'hole, pit, cave'
   Pn:  Takuu            rua                'depression, hole in ground'
   Pn:  Hawaiian         lua                'hole, pit'
   Pn:  Tokelauan        lua                'big hole or pit'
-
 >
 
 <
@@ -2891,7 +2941,7 @@ POc *panua (1) 'inhabited area or territory'; (2) 'community together with its l
   NNG: Manam          |anua izara|      'dawn' (_anua idaradara_ 'evening glow')
   NNG: Tami           panu              'house'
   PT:  Motu           hanua             'village, town'
-  PT:  Motu           hanua(boi)        'night' (boi < POc _*boŋi_ 'night')
+  PT:  Motu           hanua(boi)        'night' (_boi_ < POc _*boŋi_ 'night')
   PT:  Molima         vanua             'house'
   MM:  Vitu           vanua             'garden'
   MM:  Tabar          vanua             'house'

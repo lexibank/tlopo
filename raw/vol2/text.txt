@@ -232,12 +232,13 @@ their place within a working hypothesis of the relevant POc terminology (e.g., a
 For example, it proved possible to reconstruct the following POc terms for tying with cords
 (vol.1, pp.291–293):
 
-__pre__
-    POc *buku                  ‘tie (a knot); fasten’
-    POc *pwita                 ‘tie by encircling’
-    POc *paqu(s), *paqus-i-    ‘bind, lash; construct (canoe +) by lashing together’
-    POc *pisi                  ‘bind up, tie up, wind round, wrap’
-    POc *kiti                  ‘tie, bind’
+__table__
+    Reconstruction | Gloss
+    POc *buku                |  ‘tie (a knot); fasten’
+    POc *pwita               |  ‘tie by encircling’
+    POc *paqu(s), *paqus-i-  |  ‘bind, lash; construct (canoe +) by lashing together’
+    POc *pisi                |  ‘bind up, tie up, wind round, wrap’
+    POc *kiti                |  ‘tie, bind’
 
 In each of the supporting cognate sets from contemporary languages there are a number of
 items whose glosses in the dictionaries or word lists are too vague to tell the analyst
@@ -289,13 +290,13 @@ agreements in their meanings is much more important than the number of cognates.
 enough to make a secure reconstruction if a cognate set occurs in just two languages in a
 family, with agreement in meaning, provided that the two languages belong to different
 first-order subgroups and provided that there is no reason to suspect that the resemblances
-are due to borrowing or chance. The PMP term *apij ‘twins’ is reflected in several
-Western Malayo-Polynesian languages (e.g. Batak apid ‘twins, double (fused) banana’) but
+are due to borrowing or chance. The PMP term _*apij_ ‘twins’ is reflected in several
+Western Malayo-Polynesian languages (e.g. Batak _apid_ ‘twins, double (fused) banana’) but
 in only a single Oceanic language (Roviana avisi ‘twins of the same sex’). Because
 Roviana belongs to a different first-order branch of Malayo-Polynesian from the Western
 Malayo-Polynesian witnesses and because there is virtually no chance that the agreement
 is due to borrowing or chance similarity, this distribution is enough to justify the
-reconstruction of PMP *apij, POc *apic ‘twins’.
+reconstruction of PMP _*apij_, POc _*apic_ ‘twins’.
 
     Although the subgrouping of Austronesian languages and questions about which
 protolanguage was spoken where remain somewhat controversial, it is impossible to
@@ -2536,7 +2537,6 @@ POc *poŋa-poŋa ‘swamp, mud’
  NNG: Kilenge       pa-paŋa              ‘swamp, mud’
  NNG: Bariai        paŋa-paŋa            ‘mud’
  SES: ‘Are’are      pona                 ‘swamp, swampy ground’
-
 >
 
    The final two reconstructed forms in this section probably referred to wet taro swamp
@@ -9534,7 +9534,8 @@ These attributes turn up in odd lexicalised expressions, for example, Motu (PT) 
 [9] This differs from the possessive-like attribute constructions reconstructed by Ross (1998b). There, the
   possessor is non-specific; here the possessor is apparently specific.
 
-__pre__
+__igt__
+    POc:
     *a  tina-ña     Rumaq
     ART mother-P:3S house
     ‘a/the big house’ (more literally: ‘a/the mother of house(s)’)
@@ -9545,7 +9546,7 @@ been replaced in a language, this construction often shares in the lexical repla
 in Lewo (Early 1994a), the term for ‘little’/‘child’ still reflects _*natu-ña_, but the term for
 ‘very big’/‘mother’ has undergone lexical replacement:
 
-__pre__
+__igt__
 Lewo (NCV):
 a. nari-n      sisi
    offspring-n child
@@ -11085,7 +11086,8 @@ preposition _i_ or with no preposition. Relational local nouns express intrinsic
 relation to objects. For example, _ubu-_ ‘inside’ is treated as possessum in relation to the
 possessor _pera_ ‘basket’:
 
-__pre__
+__igt__
+    Longgu
      vugi   ubu-na       pera-i
      banana inside-P:3SG basket-SG
      ‘The banana is inside the basket.’

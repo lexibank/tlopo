@@ -1,7 +1,13 @@
 """
+Run
 
+$ pandoc -s -f markdown -t html5 out/vol1/chapter3.md -c pandoc.css  > c3.html
+
+to create HTML!
 """
+import shlex
 import itertools
+import subprocess
 import collections
 
 from tqdm import tqdm
@@ -89,8 +95,15 @@ order by g.cldf_formReference
 """
         return {fid: list(iter_glosses(rows)) for fid, rows in itertools.groupby(db.query(q, (rid,)), lambda r: r[0])}
 
+    def pandoc(input):
+        subprocess.check_call(shlex.split(
+            'pandoc -s -f markdown -t html5 -c ../../pandoc_book.css {} -o {}/{}.html'.format(
+                input, input.parent, input.stem)))
+
     out.joinpath('references.md').write_text(render(
         '# References\n\n[](Source?with_anchor&with_link#cldf:__all__)', cldf), encoding='utf-8')
+    pandoc(out.joinpath('references.md'))
+
     for vol in "1234":
         vout = out / 'vol{}'.format(vol)
         if not vout.exists():
@@ -110,3 +123,4 @@ order by g.cldf_formReference
                     glosses_by_formid=glosses_by_formid),
             )
             vout.joinpath(chapter.name).write_text(render(res, ds.cldf_reader()), encoding='utf-8')
+            pandoc(vout.joinpath(chapter.name))

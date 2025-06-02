@@ -4,6 +4,7 @@ by Green, R. and Pawley, A.
 
 
 <a id="s-1"></a>
+
 ## 1. Aims and methodological preliminaries
 
 
@@ -48,35 +49,40 @@ The weakest link in linguistic reconstructions is meaning. Semantic change is no
 
 The linguistic comparative method works well only at fairly shallow time depths because cumulative change wears away the evidence of common origin. There have been few cases in which the genetic comparative method has reliably penetrated much deeper than about 6,000 years. No special mystique should be attached to this particular figure - it happens that several of the large, well-defined language families in the world are the outcome of dispersals that began within the last 5,000 to 6,000 years.[^4] When the relevant cognate sets survive, the reconstructions for prehistoric 'artefacts' and 'ecofacts' accessible to historical linguistics cover an extremely wide range of cultural domains - so this discipline is well equipped to recover elements of the perishable material often unavailable to archaeologists as well as cognitive aspects of social organisation, beliefs, and ideology that archaeologists find difficult to infer. However, historical linguistics must look to archaeology to supplement its relatively weak methods for locating reconstructed prehistoric languages in space and in absolute time.
 
-But here an old problem arises: How can reconstructed languages be correlated with archaeological assemblages? For instance, how can one make a strong claim about whether a particular Lapita site was occupied by Austronesian speakers or by non-Austronesian speakers? Aren't there culture areas where people speaking different, indeed unrelated, languages share very similar material cultures? Welch et al. (1992) certainly make such a claim concerning the Sepik coast (and Lapita), but things have not turned out to be as clearcut as they supposed (cf. [Moore & Romney 1994](../references.md#source-MooreRomney1994), 1995, Roberts, [Moore & Romney 1995](../references.md#source-MooreRomney1995)). The answer is that we can confidently make the Austronesian-Lapita association only when one or more of the following conditions are met: (a) when there is good evidence for believing that Austronesian speakers were the only people to inhabit a region in prehistoric times - as is the case in, say, Micronesia, Fiji and Polynesia - or at least around the time in question, as appears to be the case in, say, the area of Central Papua around Port Moresby 2,000 years ago; (b) when there is well-established continuity between the prehistoric site or sites in question and recent, historically documented Austronesian-speaking communities in the region; (c) in the case of regions known to have been inhabited by both Austronesian and non-Austronesian speakers, when the material culture of Austronesian speakers is sharply distinct from that of non-Austronesian speakers. And if a site was occupied by Austronesian speakers, we may ask how it can be shown that the occupants were speakers of, say, stage A or subgroup A of Austronesian rather than stage B or subgroup B. The short answer is that this is a complicated business that involves taking account of the distribution of subgroups, continuities and discontinuities in the archaeological sequence, and geographic, demographic and political factors.
+But here an old problem arises: How can reconstructed languages be correlated with archaeological assemblages? For instance, how can one make a strong claim about whether a particular Lapita site was occupied by Austronesian speakers or by non-Austronesian speakers? Aren't there culture areas where people speaking different, indeed unrelated, languages share very similar material cultures? Welch et al. (1992) certainly make such a claim concerning the Sepik coast (and Lapita), but things have not turned out to be as clearcut as they supposed (cf. [Moore & Romney 1994](../references.md#source-MooreRomney1994), [1995](../references.md#source-MooreRomney1995), Roberts, [Moore & Romney 1995](../references.md#source-MooreRomney1995)). The answer is that we can confidently make the Austronesian-Lapita association only when one or more of the following conditions are met: (a) when there is good evidence for believing that Austronesian speakers were the only people to inhabit a region in prehistoric times - as is the case in, say, Micronesia, Fiji and Polynesia - or at least around the time in question, as appears to be the case in, say, the area of Central Papua around Port Moresby 2,000 years ago; (b) when there is well-established continuity between the prehistoric site or sites in question and recent, historically documented Austronesian-speaking communities in the region; (c) in the case of regions known to have been inhabited by both Austronesian and non-Austronesian speakers, when the material culture of Austronesian speakers is sharply distinct from that of non-Austronesian speakers. And if a site was occupied by Austronesian speakers, we may ask how it can be shown that the occupants were speakers of, say, stage A or subgroup A of Austronesian rather than stage B or subgroup B. The short answer is that this is a complicated business that involves taking account of the distribution of subgroups, continuities and discontinuities in the archaeological sequence, and geographic, demographic and political factors.
 
 
 <a id="p-41"></a>
 
 Our strategy, since the mid-1960s, has been to seek detailed, systematic points of connection between particular prehistoric cultures and cultural sequences in the Pacific Islands, as defined by archaeology and historical linguistics, respectively, always with an eye on the comparative ethnology.[^5] The islands of the Polynesian Triangle, settled so late in human history, have been an ideal laboratory to make such correlations. In Melanesia, a region with a far more complex prehistory, but receiving far less attention, the pieces have not come together nearly so well. But over the past 30 years it has gradually become increasingly evident that the settlement of Near Oceania by Austronesian speakers preceded the first Austronesian settlement of Remote Oceania by only a few hundred years.
 
-Between 1500 and 1000 BC variants of a culture known as Lapita appear in the archaeological record across a wide belt in the Southwest and Central Pacific (Allen & Gosden 1991, [Galipaud 1992](../references.md#source-Galipaud1992), [Green 1967](../references.md#source-Green1967), 1979, 1994a, [Kirch & Hunt 1988](../references.md#source-KirchandHunt1988), [Spriggs 1990](../references.md#source-Spriggs1990), 1995, 1996; see Map 5). The chief markers of Lapita sites are well-made earthenware with a characteristic variety of vessel shapes, with some vessels decorated by very distinctive, elaborate dentate-stamped geometric motifs. Lapita pottery is usually associated with other features. Settlements are in the hamlet-to-village range and nearly always situated on small islands or on the coast of large islands and handy to beaches that would provide good launching sites for boats. The Lapita tool kit frequently contains ground and polished stone and shell adzes; obsidian and chert flake tools, often imported from remote sources; one-piece shell fishhooks; pearlshell knives and scrapers; various kinds of conus shell disks and pendants; earth ovens; and middens full of lagoon fish and turtle bones and also containing the bones of dog, chicken and pig.
+Between 1500 and 1000 BC variants of a culture known as Lapita appear in the archaeological record across a wide belt in the Southwest and Central Pacific (Allen & Gosden 1991, [Galipaud 1992](../references.md#source-Galipaud1992), [Green 1967](../references.md#source-Green1967), [1979](../references.md#source-Green1979), [1994a](../references.md#source-Green1994a), [Kirch & Hunt 1988](../references.md#source-KirchandHunt1988), [Spriggs 1990](../references.md#source-Spriggs1990), [1995](../references.md#source-Spriggs1995), [1996](../references.md#source-Spriggs1996); see Map 5). The chief markers of Lapita sites are well-made earthenware with a characteristic variety of vessel shapes, with some vessels decorated by very distinctive, elaborate dentate-stamped geometric motifs. Lapita pottery is usually associated with other features. Settlements are in the hamlet-to-village range and nearly always situated on small islands or on the coast of large islands and handy to beaches that would provide good launching sites for boats. The Lapita tool kit frequently contains ground and polished stone and shell adzes; obsidian and chert flake tools, often imported from remote sources; one-piece shell fishhooks; pearlshell knives and scrapers; various kinds of conus shell disks and pendants; earth ovens; and middens full of lagoon fish and turtle bones and also containing the bones of dog, chicken and pig.
 
 The earliest Lapita sites are in the Bismarck Archipelago. There the distinctive pottery style appears suddenly, full blown, around 1500 BC. No exact match has yet been found outside of Oceania but the ultimate antecedents of Lapita probably lie further west, in Indonesia and Southeast Asia, where broadly similar pottery traditions can be found, although these lack the complex decorative style characteristic of Lapita. In the Bismarcks, the earliest Lapita pottery style is known as Early or Far Western Lapita. After 1200 BC it was replaced in that region by a style, known as Western Lapita, with modified vessel forms and decorative patterns which continued in some sites up till about 500 BC. A slightly modified form of Western Lapita pottery was present in sites in Santa Cruz, Vanuatu and New Caledonia by 1200 BC. By 1200-1000 BC another variant, known as Eastern Lapita, appears in Fiji, Tonga and Samoa.
 
 
 <a id="p-42"></a>
 
-Map 5: Lapita sites in the south-west Pacific (after [Spriggs 1995](../references.md#source-Spriggs1995): 113)
+<a id="map-5"> </a>
+
+![Map 5: Lapita sites in the south-west Pacific (after [Spriggs 1995](../references.md#source-Spriggs1995): 113)](../../raw/vol1/maps/map_5.png)
+
+
 
 
 <a id="p-43"></a>
 
-On currently favoured subgrouping hypotheses, the likeliest dispersal centre for the Oceanic subgroup was the Bismarck Archipelago ([Pawley & Ross 1993](../references.md#source-PawleyandRoss1993), 1995, [Ross 1988](../references.md#source-Ross1988); cf. also [Grace 1961](../references.md#source-Grace1961), 1964). This conclusion is consistent with the view that the break-up of Proto Oceanic (POc) was associated with the dispersal of the Lapita culture beyond the Bismarcks after about 1300 BC.
+On currently favoured subgrouping hypotheses, the likeliest dispersal centre for the Oceanic subgroup was the Bismarck Archipelago ([Pawley & Ross 1993](../references.md#source-PawleyandRoss1993), [1995](../references.md#source-PawleyandRoss1995), [Ross 1988](../references.md#source-Ross1988); cf. also [Grace 1961](../references.md#source-Grace1961), [1964](../references.md#source-Grace1964)). This conclusion is consistent with the view that the break-up of Proto Oceanic (POc) was associated with the dispersal of the Lapita culture beyond the Bismarcks after about 1300 BC.
 
 Throughout Remote Oceania the appearance of the Lapita culture can be associated with the first arrival in the region of Austronesian languages, specifically members of the Oceanic subgroup. The connections are easiest to make in Fiji and Western Polynesia, regions that almost certainly were not inhabited by humans before the bearers of the Lapita culture arrived. In Fiji and Polynesia there is a continuity of tradition, with more or less gradual change, from Eastern Lapita material culture to later archaeological cultures that are clearly ancestral to recent, historically documented cultures. Comparable continuities are harder to demonstrate in parts of Remote Oceania west of Fiji, where the archaeological record has become more complex, but a strong case can still be made there for the Lapita-Oceanic Austronesian association ([Green 1997](../references.md#source-Green1997)).
 
 
 <a id="s-2"></a>
+
 ## 2. Settlement patterns: evidence from archaeology and comparative ethnology
 
 
-The archaeological record tells us much about the siting and size of Lapita sites. All 36 sites of known size are on the coast (see Map 5), usually handy to lagoons and beaches that would have provided seafood and canoe landing and launching places. Settlements cover the typical Oceanic ethnographic range from hamlets to small villages, though a few are larger (the largest being 72,500 m²) ([Green 1994b](../references.md#source-Green1994b)). But what does archaeology tell us of the internal organisation of Lapita settlements? Disappointingly little. Although the size of most Lapita living sites has been calculated from surface features, such as the distribution of potsherds, only a few sites have been extensively excavated. Thus, reconstructions of the internal organisation of Lapita settlements rest mainly on a few large-scale investigations of portions of settlement areas (e.g. [Best 1984](../references.md#source-Best1984), [Frimigacci 1974](../references.md#source-Frimigacci1974), 1980, [Kirch 1988](../references.md#source-Kirch1988), [Poulsen 1987](../references.md#source-Poulsen1987), [Sheppard & Green 1991](../references.md#source-SheppardGreen1991)).
+The archaeological record tells us much about the siting and size of Lapita sites. All 36 sites of known size are on the coast (see Map 5), usually handy to lagoons and beaches that would have provided seafood and canoe landing and launching places. Settlements cover the typical Oceanic ethnographic range from hamlets to small villages, though a few are larger (the largest being 72,500 m²) ([Green 1994b](../references.md#source-Green1994b)). But what does archaeology tell us of the internal organisation of Lapita settlements? Disappointingly little. Although the size of most Lapita living sites has been calculated from surface features, such as the distribution of potsherds, only a few sites have been extensively excavated. Thus, reconstructions of the internal organisation of Lapita settlements rest mainly on a few large-scale investigations of portions of settlement areas (e.g. [Best 1984](../references.md#source-Best1984), [Frimigacci 1974](../references.md#source-Frimigacci1974), [1980](../references.md#source-Frimigacci1980), [Kirch 1988](../references.md#source-Kirch1988), [Poulsen 1987](../references.md#source-Poulsen1987), [Sheppard & Green 1991](../references.md#source-SheppardGreen1991)).
 
 The ethnological record on settlement patterns and architecture in Austronesian-speaking societies is far too extensive to review here. Our remarks must be very brief and selective. We will use selected ethnological evidence and a comparative approach mainly to generate hypotheses that might be tested against evidence from archaeology and/or linguistics.
 
@@ -85,23 +91,39 @@ For example, certain features of Austronesian settlements in Oceania were so wid
 
 <a id="p-44"></a>
 
-- (1) There is a preference for coastal settlements, handy to reef/lagoon systems and beaches with landing places for boats, and to garden land in the interior.
-- (2) Both dispersed and nucleated settlements are common. Dispersed settlements, sometimes containing hamlets inhabited by a few extended families, are commonest where land is plentiful. Nucleated settlements, consisting of villages of up to 300 people, are invariably found when land is in short supply and, where attacks are feared, settlements may be situated in inaccessible places with defences constructed.
-- (3) In villages where the terrain allows, main dwellings are generally arranged in parallel lines on each side of a rectangular space that serves as a ceremonial centre for the settlement.
-- (4) Villages divide into sections or wards each belonging to a single lineage (or section of a lineage) and containing one or more households.
-- (5) The sections are not physically bounded but each lineage owns certain house sites and these sites have considerable ritual importance.
-- (6) Each family or extended family has a rectangular main house, which in western Melanesia is generally raised on piles; but in eastern Melanesia, nuclear Micronesia and Polynesia comes in both rectangular, oval, and round forms and is usually (there are some exceptions in Micronesia) built on the ground or, in some regions, on a flat mound.
-- (7) Main dwelling houses have two-section thatched roofs with high gable. This relatively heavy superstructure is supported by large posts and beams.
-- (8) There is a porch in the front of raised houses and often on those built on the ground.
-- (9) The interior of the main dwelling is divided into compartments with an inner room or compartment for sleeping and an outer 'living room'.
-- (10) While main houses serve as sleeping places and as storage places for valuables, much daily life takes place in smaller, less durable structures erected on the ground near the main dwelling and used for various daytime activities such as preparing food, cooking, eating, weaving mats, conversation with neighbours and sometimes for sleeping in at night. These structures, including kitchen and day-houses, are less well built, being open-sided or only partly walled, often with flat roofs of coconut leaves or rough thatching.
-- (11) Coastal settlements have open-sided boat houses, each usually belonging to an extended family.
-- (12) In yam-growing areas there are storage houses with raised platforms for keeping yams; similar structures often occur elsewhere.
-- (13) In parts of Melanesia a men's house is commonly part of the hamlet or village, providing a centre where men and boys may congregate and perform certain rituals from which women are barred.
-- (14) A menstrual hut is sometimes built near the main dwelling of a family.
-- (15) Ovens made with heated stones, including both earth ovens (where the food is cooked in pits) and above-ground ovens, occur close to the dwellings.
-- (16) Graves, often marked by piles of stones, may be sited under or close to the main dwelling house.
-- (17) The ritual activity of kin groups is focused in dwelling houses. The principal ritual foci within the house are the posts, entrance, ridge-pole and hearth.
+(1) There is a preference for coastal settlements, handy to reef/lagoon systems and beaches with landing places for boats, and to garden land in the interior.
+
+(2) Both dispersed and nucleated settlements are common. Dispersed settlements, sometimes containing hamlets inhabited by a few extended families, are commonest where land is plentiful. Nucleated settlements, consisting of villages of up to 300 people, are invariably found when land is in short supply and, where attacks are feared, settlements may be situated in inaccessible places with defences constructed.
+
+(3) In villages where the terrain allows, main dwellings are generally arranged in parallel lines on each side of a rectangular space that serves as a ceremonial centre for the settlement.
+
+(4) Villages divide into sections or wards each belonging to a single lineage (or section of a lineage) and containing one or more households.
+
+(5) The sections are not physically bounded but each lineage owns certain house sites and these sites have considerable ritual importance.
+
+(6) Each family or extended family has a rectangular main house, which in western Melanesia is generally raised on piles; but in eastern Melanesia, nuclear Micronesia and Polynesia comes in both rectangular, oval, and round forms and is usually (there are some exceptions in Micronesia) built on the ground or, in some regions, on a flat mound.
+
+(7) Main dwelling houses have two-section thatched roofs with high gable. This relatively heavy superstructure is supported by large posts and beams.
+
+(8) There is a porch in the front of raised houses and often on those built on the ground.
+
+(9) The interior of the main dwelling is divided into compartments with an inner room or compartment for sleeping and an outer 'living room'.
+
+(10) While main houses serve as sleeping places and as storage places for valuables, much daily life takes place in smaller, less durable structures erected on the ground near the main dwelling and used for various daytime activities such as preparing food, cooking, eating, weaving mats, conversation with neighbours and sometimes for sleeping in at night. These structures, including kitchen and day-houses, are less well built, being open-sided or only partly walled, often with flat roofs of coconut leaves or rough thatching.
+
+(11) Coastal settlements have open-sided boat houses, each usually belonging to an extended family.
+
+(12) In yam-growing areas there are storage houses with raised platforms for keeping yams; similar structures often occur elsewhere.
+
+(13) In parts of Melanesia a men's house is commonly part of the hamlet or village, providing a centre where men and boys may congregate and perform certain rituals from which women are barred.
+
+(14) A menstrual hut is sometimes built near the main dwelling of a family.
+
+(15) Ovens made with heated stones, including both earth ovens (where the food is cooked in pits) and above-ground ovens, occur close to the dwellings.
+
+(16) Graves, often marked by piles of stones, may be sited under or close to the main dwelling house.
+
+(17) The ritual activity of kin groups is focused in dwelling houses. The principal ritual foci within the house are the posts, entrance, ridge-pole and hearth.
 
 In a passage cited earlier, Hauser-Schäublin (1989) discussed features of house design among Austronesian peoples of the central north coast of New Guinea. Let us take another example, from south-eastern New Guinea. The traditional dwelling houses of the people of Goodenough Island in the D'Entrecasteaux group were, by Austronesian standards, extremely modest structures, smaller and less elaborately constructed than the grander houses of many regions. Yet they exhibit most of the basic structural features of dwelling houses among the coastal Austronesian-speaking peoples living throughout the New Guinea area. The following description (cited in [Young 1993](../references.md#source-Young1993): 182) applies to the early contact period of 1911-12.
 
@@ -121,41 +143,71 @@ Note also the gender arrangements and symbolic structures of relations within an
 
 <a id="p-46"></a>
 
-Figure 2: Typical Baegu (Malaita, Solomon Islands) dwelling and community layout (from [Oliver 1989](../references.md#source-Oliver1989):335) (Baegu terms are _luma_ 'dwelling house, _lalo_ 'women's sleeping quarters', _beu_ 'men's house', _bisi_ 'menstrual hut')
+<a id="fig-2"> </a>
+
+![Figure 2: Typical Baegu (Malaita, Solomon Islands) dwelling and community layout (from [Oliver 1989](../references.md#source-Oliver1989):335) (Baegu terms are _luma_ 'dwelling house, _lalo_ 'women's sleeping quarters', _beu_ 'men's house', _bisi_ 'menstrual hut')](../../raw/vol1/maps/fig_2.png)
+
+
 
 
 <a id="p-47"></a>
 
 
 <a id="s-2-1"></a>
-## 2.1. Dwelling house architecture
+
+### 2.1. Dwelling house architecture
 
 
 Most Oceanic-speaking societies distinguish by name more than one design of dwelling house. Arosi speakers, of San Cristobal in the Solomons, for instance, first distinguish _ruma_ 'a house, oblong in shape' from _hare_ 'a shed for yams, a house with roof thatched on one side only, a shrine (a small house on poles)' and then distinguish at least the following kinds of _ruma_ ([Fox 1978](../references.md#source-Fox1978)):
 
-- - _ruma huri_, a round house, taller than the well-known Santa Cruz round house
-- - _ruma gaura_, a double, oblong house
-- - _ruma ora_, a house with ten posts or more (five pairs of posts)
-- - _ruma pʷarapʷara_, a house roughly built, with roof of whole fronds instead of thatching
-- - _ruma rangi_, a house with two roofs, the second roof only above the upper part of the first roof, made by extending the rafters upwards
-- - _ruma rokera_, like ruma rangi but the two roofs close together
-- - _ruma sinakuhi_, house with rounded end
-- - _ruma waiho_, simplest form of oblong house with six posts (three pairs).
+- _ruma huri_, a round house, taller than the well-known Santa Cruz round house
+
+- _ruma gaura_, a double, oblong house
+
+- _ruma ora_, a house with ten posts or more (five pairs of posts)
+
+- _ruma pʷarapʷara_, a house roughly built, with roof of whole fronds instead of thatching
+
+- _ruma rangi_, a house with two roofs, the second roof only above the upper part of the first roof, made by extending the rafters upwards
+
+- _ruma rokera_, like ruma rangi but the two roofs close together
+
+- _ruma sinakuhi_, house with rounded end
+
+- _ruma waiho_, simplest form of oblong house with six posts (three pairs).
 
 Are there significant structural differences between the houses and settlements of Austronesian and non-Austronesian speakers in Melanesia? It is hazardous to generalise - in these matters individual societies in Melanesia show considerable variation and in certain regions there has been much cultural influence across linguistic boundaries. But if we exclude the most problematic cases, the following generalisations about non-Austronesian societies seem to apply rather widely.
 
-__ol__ (1) There is a preference for inland settlements. (2) Main dwelling houses are built on the ground, not on piles. (3) Houses are relatively small and lack a high, gabled roof requiring strong crossbeams and centre-posts. Instead, the roof is relatively low and flat or domed with the support of centre poles. (4) Timbers are lashed, and seldom secured by wooden pins or pegs. (5) There is no projecting gable. (6) There is no porch or raised open platform outside the room. (7) There is often a men's house. (8) Boat houses are absent. (10) Stone heated ovens, including earth ovens, are made close to the dwellings.
+(1) There is a preference for inland settlements.
+
+(2) Main dwelling houses are built on the ground, not on piles.
+
+(3) Houses are relatively small and lack a high, gabled roof requiring strong crossbeams and centre-posts. Instead, the roof is relatively low and flat or domed with the support of centre poles.
+
+(4) Timbers are lashed, and seldom secured by wooden pins or pegs.
+
+(5) There is no projecting gable.
+
+(6) There is no porch or raised open platform outside the room.
+
+(7) There is often a men's house.
+
+(8) Boat houses are absent.
+
+(10) Stone heated ovens, including earth ovens, are made close to the dwellings.
 
 The ethnological evidence suggests various questions for culture history. Can we show by linguistic or archaeological evidence that these features were part of the settlement patterns of Proto Oceanic speakers and their immediate descendants?
 
 
 <a id="s-3"></a>
+
 ## 3. Settlement patterns: evidence from comparative linguistics
 
 
 
 <a id="s-3-1"></a>
-## 3.1. Subgrouping
+
+### 3.1. Subgrouping
 
 
 Given the minimal subgrouping assumptions set out in the Introduction, we can reconstruct a Proto Oceanic etymon for any set of cognate lexical units that is regularly reflected in at least one language in any two of the following subgroups or sets: (a) the Admiralties, (b) Western Oceanic, (c) Eastern Oceanic, or in at least one Oceanic language and one non-Oceanic Austronesian language.
@@ -165,18 +217,20 @@ Given the minimal subgrouping assumptions set out in the Introduction, we can re
 
 Interstages later than Proto Oceanic are also of interest. Of particular concern are those that might be associated with archaeologically discernible events, such as the first appearance of the Lapita culture in certain regions or changes in architectural or settlement patterns. Lapita appears in the Bismarck Archipelago between 1500 and 1300 BC and spread rapidly south-east across the SW Pacific as far as Fiji and Western Polynesia. If the bearers of Lapita spoke hardly differentiated dialects of Oceanic when they spread to the major archipelagos of SW Melanesia, it should occasion no surprise that it is hard to find evidence for subgroups that span different archipelagos in that region. What we do find is a number of fairly well-defined subgroups confined to particular island groups of Remote Oceania.
 
-There are two prominent exceptions to this prevalence of geographically compact major subgroups. Each of the Polynesian and Nuclear Micronesian groups is spread over a number of far-flung archipelagos. The many innovations defining the Polynesian subgroup indicate a long pause, probably on the order of 1,000 years, in a compact area before dispersal ([Clark 1979](../references.md#source-Clark1979), [Pawley 1996a](../references.md#source-Pawley1996a)). From the internal subgrouping of Polynesian one can deduce that this 'homeland' was in the Tonga-Samoa area ([Green 1966](../references.md#source-Green1966), 1981). Evidence for a period of common development uniting the Polynesian subgroup with the Fijian languages and Rotuman ([Geraghty 1983](../references.md#source-Geraghty1983), 1986, [Pawley 1996a](../references.md#source-Pawley1996a)) is consistent with this view, as is the archaeological evidence for the Fiji-West Polynesia region ([Green 1981](../references.md#source-Green1981), [Kirch & Green 1987](../references.md#source-KirchGreen1987)). The internal structure of the Nuclear Micronesian subgroup, as defined by [Bender](../references.md#source-Bender1971) ([1971](../references.md#source-Bender1971)) and [Jackson](../references.md#source-Jackson1983) ([1983](../references.md#source-Jackson1983)), suggests an initial dispersal centre somewhere in the eastern half of Micronesia.
+There are two prominent exceptions to this prevalence of geographically compact major subgroups. Each of the Polynesian and Nuclear Micronesian groups is spread over a number of far-flung archipelagos. The many innovations defining the Polynesian subgroup indicate a long pause, probably on the order of 1,000 years, in a compact area before dispersal ([Clark 1979](../references.md#source-Clark1979), [Pawley 1996a](../references.md#source-Pawley1996a)). From the internal subgrouping of Polynesian one can deduce that this 'homeland' was in the Tonga-Samoa area ([Green 1966](../references.md#source-Green1966), [1981](../references.md#source-Green1981)). Evidence for a period of common development uniting the Polynesian subgroup with the Fijian languages and Rotuman ([Geraghty 1983](../references.md#source-Geraghty1983), [1986](../references.md#source-Geraghty1986), [Pawley 1996a](../references.md#source-Pawley1996a)) is consistent with this view, as is the archaeological evidence for the Fiji-West Polynesia region ([Green 1981](../references.md#source-Green1981), [Kirch & Green 1987](../references.md#source-KirchGreen1987)). The internal structure of the Nuclear Micronesian subgroup, as defined by [Bender](../references.md#source-Bender1971) ([1971](../references.md#source-Bender1971)) and [Jackson](../references.md#source-Jackson1983) ([1983](../references.md#source-Jackson1983)), suggests an initial dispersal centre somewhere in the eastern half of Micronesia.
 
 
 <a id="s-3-2"></a>
-## 3.2. Lexical reconstructions
+
+### 3.2. Lexical reconstructions
 
 
 A number of cognate sets yield lexical reconstructions that tell something about early Austronesian settlement patterns. These are treated here under the headings: (a) kinds of buildings, (b) house site and main structural components of house, (c) other structures associated with buildings or settlements and (d) spatial organisation of settlements. We will focus on those etyma that are definitely or possibly attributable to Proto Oceanic, noting in passing others that have considerable antiquity but cannot be reconstructed for Proto Oceanic.
 
 
 <a id="s-3-3"></a>
-## 3.3. Kinds of buildings
+
+### 3.3. Kinds of buildings
 
 
 [Blust](../references.md#source-Blust1987) ([1987](../references.md#source-Blust1987)) compared four widely distributed cognate sets whose members generally name types of domestic buildings. He attributed the reconstruction _&ast;Rumaq_ 'dwelling house' to both PAn and PMP but could reconstruct the terms _&ast;balay_, _&ast;kamaliR_ and _&ast;lepaw_ only as far back as PMP, tentatively attributing to them the respective senses of 'public building', 'men's house' and 'granary'. His formal reconstructions are secure but the semantic reconstructions for the last three forms are somewhat problematic. _&ast;lepaw_ is not known to have Oceanic reflexes. The other three terms are all reflected in a number of Oceanic subgroups and therefore must be attributed to POc. Let us briefly review the lexical reconstructions and supporting data.
@@ -479,7 +533,8 @@ As was noted earlier, [Fox](../references.md#source-Fox1993) ([1993](../referenc
 
 
 <a id="s-3-4"></a>
-## 3.4. House site and main structural components of house
+
+### 3.4. House site and main structural components of house
 
 
 In Indonesia and western Melanesia, contemporary dwelling houses are often raised on piles, but as one moves east, and especially in Remote Oceania, dwellings are usually constructed on the ground, often on flat mounds of earth raised some 40 cm to 150 cm. In the archaeological record for Oceania, houses on piles (often over water) are known or inferred for Early Far Western Lapita sites (the Mussau and Arawe Groups) and Western Lapita sites (Kreslo, Nissan, Buka). In contrast, in the Reef Islands of Remote Oceania, Lapita houses have sand floors with debris up against the walls and features within the ground floor are known. New Caledonian Lapita buildings also have sand floors.
@@ -589,7 +644,11 @@ It is probably significant that this cognate set is restricted to the Southeast 
 
 <a id="p-52"></a>
 
-Figure 3a: POc _&ast;Rumaq_ 'house'  POc _&ast;qatop_ 'thatch, roof', POc _&ast;kataman_ 'doorway', POc _&ast;tete_ 'ladder or log bridge', POc _&ast;gabʷari_ 'area underneath house'
+<a id="fig-3a"> </a>
+
+![Figure 3a: POc _&ast;Rumaq_ 'house'  POc _&ast;qatop_ 'thatch, roof', POc _&ast;kataman_ 'doorway', POc _&ast;tete_ 'ladder or log bridge', POc _&ast;gabʷari_ 'area underneath house'](../../raw/vol1/maps/fig_3a.png)
+
+
 
 <table>
 <tr>
@@ -659,7 +718,11 @@ _&ast;kataman_ probably referred to an entrance with its wooden framework. From 
 
 <a id="p-53"></a>
 
-Figure 3b: POc _&ast;Rumaq_ 'house', POc _&ast;pupuŋ-an_ 'ridgepole', POc _&ast;kaso_ 'rafter', POc _&ast;aRiRi_ 'post', POc _&ast;turu(s)_ 'post', POc _&ast;bou_ 'main bearers supporting raised floor/roof or centre post supporting ridgepole, POc _&ast;soko(r)_ 'bracing timber, crossbeam'
+<a id="fig-3b"> </a>
+
+![Figure 3b: POc _&ast;Rumaq_ 'house', POc _&ast;pupuŋ-an_ 'ridgepole', POc _&ast;kaso_ 'rafter', POc _&ast;aRiRi_ 'post', POc _&ast;turu(s)_ 'post', POc _&ast;bou_ 'main bearers supporting raised floor/roof or centre post supporting ridgepole, POc _&ast;soko(r)_ 'bracing timber, crossbeam'](../../raw/vol1/maps/fig_3b.png)
+
+
 
 The following group of ten cognate sets indicate that early Austronesian dwelling houses were built with a robust and fairly heavy superstructure, including ridgepole, thatched roof, rafters and crossbeams. Those sets indicating POc _&ast;pupuŋ-an_ 'ridgepole' and POc _&ast;qatop_ 'thatch, roof' are consistent with ethnographic evidence indicating that gabled houses with a ridgepole supporting a thatched, probably two-section roof were built by both PMP and POc speakers.
 
@@ -1238,21 +1301,21 @@ cf. also:
 <tr>
 <td>SES</td>
 <td>Arosi</td>
-<td>bou</td>
+<td><i>bou</i></td>
 <td>
 '<span>seasoned dry wood</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
 <td>Gela</td>
-<td>bou</td>
+<td><i>bou</i></td>
 <td>
 '<span>(timber) hard or seasoned</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
 <td>Lau</td>
-<td>bou</td>
+<td><i>bou</i></td>
 <td>
 '<span>seasoned log</span>'</td>
 </tr>
@@ -1323,7 +1386,7 @@ cf. also:
 <tr>
 <td>NNG</td>
 <td>Dami</td>
-<td>soko</td>
+<td><i>soko</i></td>
 <td>
 '<span>roof</span>'</td>
 </tr>
@@ -1335,7 +1398,8 @@ cf. also:
 
 
 <a id="s-3-5"></a>
-## 3.5. Other structures associated with buildings
+
+### 3.5. Other structures associated with buildings
 
 
 Under this heading we include terms for partitions, shelves, steps, and so on.
@@ -1406,14 +1470,14 @@ cf. also:
 <tr>
 <td>SES</td>
 <td>Gela</td>
-<td>voki</td>
+<td><i>voki</i></td>
 <td>
 '<span>room, partition in a house</span>'</td>
 </tr>
 </table>
 
 
-The meaning of _&ast;logi_ is not entirely clear. The weight of the ethnographic and linguistic evidence suggests that it probably referred to an inner room or partition containing a bed or sleeping platform screened off from the outer and more public area of a house. In contemporary societies the inner room is generally used as a bedroom for husband and wife and for storing valuables. However, it is conceivable that the POc term did have a more generalised meaning and could be applied to any partitioned area, whether house or garden (see also [Ch.5, § 12](chapter5.md#s-12)).
+The meaning of _&ast;logi_ is not entirely clear. The weight of the ethnographic and linguistic evidence suggests that it probably referred to an inner room or partition containing a bed or sleeping platform screened off from the outer and more public area of a house. In contemporary societies the inner room is generally used as a bedroom for husband and wife and for storing valuables. However, it is conceivable that the POc term did have a more generalised meaning and could be applied to any partitioned area, whether house or garden (see also Ch. 5, § 12).
 
 <table>
 <tr>
@@ -1505,7 +1569,7 @@ cf. also:
 <tr>
 <td>Mic</td>
 <td>Kiribatese</td>
-<td>pata</td>
+<td><i>pata</i></td>
 <td>
 '<span>small house, hut, cabin, hovel</span>'</td>
 </tr>
@@ -1766,13 +1830,14 @@ The Nauna, Loniu and Lau forms point to POc _&ast;paRa_, the Fijian reflex to _&
 
 
 
-The Polynesian forms reflect PPn glottal stop rather than expected _&ast;k_, a development found in several other words ([Geraghty 1983](../references.md#source-Geraghty1983), 1986).
+The Polynesian forms reflect PPn glottal stop rather than expected _&ast;k_, a development found in several other words ([Geraghty 1983](../references.md#source-Geraghty1983), [1986](../references.md#source-Geraghty1986)).
 
-As metal tools were almost certainly unknown to the early Austronesians, POc _&ast;pako_ and its PMP source presumably referred to wooden pegs or pins. In many languages the reflex of this term was later applied to iron nails. Terms for stone woodworking tools can be reconstructed for PAn and later interstages (see [Ch.4, §4.1](chapter4.md#s-4-1)), indicating a woodworking tradition continuing from PAn times.
+As metal tools were almost certainly unknown to the early Austronesians, POc _&ast;pako_ and its PMP source presumably referred to wooden pegs or pins. In many languages the reflex of this term was later applied to iron nails. Terms for stone woodworking tools can be reconstructed for PAn and later interstages (see Ch. 4, §4.1), indicating a woodworking tradition continuing from PAn times.
 
 
 <a id="s-3-6"></a>
-## 3.6. Other structures associated with settlements
+
+### 3.6. Other structures associated with settlements
 
 
 A general term for fireplace or hearth is reconstructable for PMP and continued in POco We cannot tell from linguistic evidence whether or not fireplaces for cooking were built inside main dwelling houses.
@@ -1859,7 +1924,7 @@ A general term for fireplace or hearth is reconstructable for PMP and continued 
 
 
 
-A term for an oven made with hot stones, POc _&ast;qumun_ is widely attested (see [Ch.6, §2.6](chapter6.md#s-2-6), for further discussion).
+A term for an oven made with hot stones, POc _&ast;qumun_ is widely attested (see Ch. 6, §2.6, for further discussion).
 
 <table>
 <tr>
@@ -2269,7 +2334,7 @@ The PT and SES forms in the above set are cognate on the assumption that metathe
 
 
 
-One further reconstruction, POc _&ast;kaRi_ 'garden fence or partition', is given with supporting evidence in [Chapter 5, § 6](chapter5.md#s-6) . Also included here is a reconstruction for a path.
+One further reconstruction, POc _&ast;kaRi_ 'garden fence or partition', is given with supporting evidence in Chapter 5, § 6 . Also included here is a reconstruction for a path.
 
 <table>
 <tr>
@@ -2393,7 +2458,8 @@ One further reconstruction, POc _&ast;kaRi_ 'garden fence or partition', is give
 
 
 <a id="s-3-7"></a>
-## 3.7. Settlement patterns
+
+### 3.7. Settlement patterns
 
 
 Some contemporary Oceanic societies live in villages of up to several hundred people in size; others live in scattered hamlets or homesteads containing one or two extended families. No POc term specifically meaning 'village' or 'nucleated settlement' can be reconstructed with any confidence. It appears that present-day terms denoting 'village' or some sort of nucleated settlement originally meant something else. This point is illustrated by the following four cognate sets.
@@ -2454,7 +2520,7 @@ Some contemporary Oceanic societies live in villages of up to several hundred pe
 <tr>
 <td>PT</td><td>Motu</td><td><i>hanua(boi)</i></td>
 <td>
-'<span>night</span>' (<span>boi &lt; POc <em>*boŋi</em> 'night'</span>)</td>
+'<span>night</span>' (<span><em>boi</em> &lt; POc <em>*boŋi</em> 'night'</span>)</td>
 </tr>
 <tr>
 <td>PT</td><td>Molima</td><td><i>vanua</i></td>
@@ -2601,21 +2667,21 @@ cf. also:
 <tr>
 <td>NCV</td>
 <td>Mota</td>
-<td>varea</td>
+<td><i>varea</i></td>
 <td>
 '<span>village, place of a village settlement</span>'</td>
 </tr>
 <tr>
 <td>NCV</td>
 <td>Nguna</td>
-<td>varea</td>
+<td><i>varea</i></td>
 <td>
 '<span>men's house</span>'</td>
 </tr>
 <tr>
 <td>NCV</td>
 <td>Raga</td>
-<td>a-vare</td>
+<td><i>a-vare</i></td>
 <td>
 '<span>outside the house</span>'</td>
 </tr>
@@ -2746,31 +2812,32 @@ cf. also:
 <tr>
 <td>Fij</td>
 <td>Bauan</td>
-<td>lala</td>
+<td><i>lala</i></td>
 <td>
 '<span>(esp. land) empty, unoccupied, uninhabited</span>'</td>
 </tr>
 <tr>
 <td>NCV</td>
 <td>Lonwolwol</td>
-<td>har</td>
+<td><i>har</i></td>
 <td>
 '<span>dancing place, ceremonial clearing in village</span>'</td>
 </tr>
 <tr>
 <td>Pn</td>
 <td>Tongan</td>
-<td>lala</td>
+<td><i>lala</i></td>
 <td>
-'<span>(place) uninhabited, empty or almost so</span>'; '<span>half-cook, cook lightly (fish)</span>'; '<span>taxon of shrubs inc. Vitex trifolia, Dendrolobium umbellatum and Wikstroemiafoetida</span>'</td>
+'<span>(place) uninhabited, empty or almost so</span>'; '<span>half-cook, cook lightly (fish)</span>'; '<span>taxon of shrubs inc. Vitex trifolia, Dendrolobium umbellatum and Wikstroemia foetida</span>'</td>
 </tr>
 </table>
 
 
-Various POc terms for garden land and for land not under cultivation can be reconstructed (see [Ch.5, §3](chapter5.md#s-3)). Here we cite only one, POc _&ast;qutan_ 'bushland, hinterland, away from village and gardens close to village' which goes back to PAn _&ast;quCan_ 'fallow land' ([Blust 1989](../references.md#source-Blust1989)); 'scrubland, bush' (ACD).
+Various POc terms for garden land and for land not under cultivation can be reconstructed (see Ch. 5, §3). Here we cite only one, POc _&ast;qutan_ 'bushland, hinterland, away from village and gardens close to village' which goes back to PAn _&ast;quCan_ 'fallow land' ([Blust 1989](../references.md#source-Blust1989)); 'scrubland, bush' (ACD).
 
 
 <a id="s-4"></a>
+
 ## 4. On variation and change in early Oceanic architectural styles and settlement patterns
 
 
@@ -2785,6 +2852,7 @@ In interstages postdating the break-up of POc a number of changes can be discern
 
 
 <a id="s-5"></a>
+
 ## 5. Conclusion
 
 
@@ -2797,11 +2865,11 @@ Where comparable evidence is available, the testimonies of archaeology, ethnolog
 
 [^2]: [Blust](../references.md#source-Blust1976b) ([1976b](../references.md#source-Blust1976b)) points out ways in which archaeological and linguistic evidence can be complementary, corroboratory or contradictory.
 
-[^3]:  The nature of the contrast between the historical methods of comparative ethnology and linguistics is discussed in [Blust](../references.md#source-Blust1980a) ([1980a](../references.md#source-Blust1980a)), Green (l 994a) and [Pawley and Ross](../references.md#source-PawleyandRoss1993) ([1993](../references.md#source-PawleyandRoss1993), 1995).
+[^3]:  The nature of the contrast between the historical methods of comparative ethnology and linguistics is discussed in [Blust](../references.md#source-Blust1980a) ([1980a](../references.md#source-Blust1980a)), Green (l 994a) and [Pawley and Ross](../references.md#source-PawleyandRoss1993) ([1993](../references.md#source-PawleyandRoss1993), [1995](../references.md#source-PawleyandRoss1995)).
 
-[^4]:  It has been suggested that the expansion of many of the world's large, well-defined language groups was associated with the spread of agriculture ([Bellwood 1991](../references.md#source-Bellwood1991), [Renfrew 1987](../references.md#source-Renfrew1987), 1992). Be that as it may, reconstruction of fairly remote protolanguages is certainly easiest when the number of descendants is large, as is the case with such well-known families as Indo-European (at least 140 languages) and Austronesian (about 1,000 languages). The conservativeness of a good many Austronesian languages is such that, if they were to change no more over the next 5,000 years than they have in the past 5,000 or so, their genetic relatedness would still be obvious, some 10,000 years after their divergence.
+[^4]:  It has been suggested that the expansion of many of the world's large, well-defined language groups was associated with the spread of agriculture ([Bellwood 1991](../references.md#source-Bellwood1991), [Renfrew 1987](../references.md#source-Renfrew1987), [1992](../references.md#source-Renfrew1992)). Be that as it may, reconstruction of fairly remote protolanguages is certainly easiest when the number of descendants is large, as is the case with such well-known families as Indo-European (at least 140 languages) and Austronesian (about 1,000 languages). The conservativeness of a good many Austronesian languages is such that, if they were to change no more over the next 5,000 years than they have in the past 5,000 or so, their genetic relatedness would still be obvious, some 10,000 years after their divergence.
 
-[^5]:  For example, [Green](../references.md#source-Green1966) ([1966](../references.md#source-Green1966), 1967, 1979, 1981, 1986, 1994a, 1994b); [Kirch and Green](../references.md#source-KirchGreen1987) ([1987](../references.md#source-KirchGreen1987)); [Pawley](../references.md#source-Pawley1981) ([1981](../references.md#source-Pawley1981), 1982a, 1996a); Pawley and R.Green (1973, 1984); Pawley and K.Green (1971); [Pawley and Pawley](../references.md#source-PawleyandPawley1994) ([1994](../references.md#source-PawleyandPawley1994)); [Pawley and Ross](../references.md#source-PawleyandRoss1993) ([1993](../references.md#source-PawleyandRoss1993)). We have not been alone in this enterprise. From the 1920s on, Kenneth Emory was a pioneer in Polynesian culture history, when archaeological and historical linguistic studies in that region were in their infancy and the main reliance was on comparative ethnology. For more recent interdisciplinary work see [Bellwood](../references.md#source-Bellwood1978) ([1978](../references.md#source-Bellwood1978), 1985, 1987, 1991); [Blust](../references.md#source-Blust1976b) ([1976b](../references.md#source-Blust1976b), 1980a, 1984-85, 1994); [Chowning](../references.md#source-Chowning1991) ([1991](../references.md#source-Chowning1991)); [French-Wright](../references.md#source-FrenchWright1983) ([1983](../references.md#source-FrenchWright1983)); [Kirch](../references.md#source-Kirch1984) ([1984](../references.md#source-Kirch1984)); [Osmond](../references.md#source-Osmond1996) ([1996](../references.md#source-Osmond1996)); [Ross](../references.md#source-Ross1989a) ([1989a](../references.md#source-Ross1989a)); Shutler and Marek (1975); [Walter](../references.md#source-Walter1989) ([1989](../references.md#source-Walter1989)); and various papers in Pawley and Ross eds (1994).
+[^5]:  For example, [Green](../references.md#source-Green1966) ([1966](../references.md#source-Green1966), [1967](../references.md#source-Green1967), [1979](../references.md#source-Green1979), [1981](../references.md#source-Green1981), [1986](../references.md#source-Green1986), [1994a](../references.md#source-Green1994a), [1994b](../references.md#source-Green1994b)); [Kirch and Green](../references.md#source-KirchGreen1987) ([1987](../references.md#source-KirchGreen1987)); [Pawley](../references.md#source-Pawley1981) ([1981](../references.md#source-Pawley1981), [1982a](../references.md#source-Pawley1982a), [1996a](../references.md#source-Pawley1996a)); Pawley and R.Green (1973, 1984); Pawley and K.Green (1971); [Pawley and Pawley](../references.md#source-PawleyandPawley1994) ([1994](../references.md#source-PawleyandPawley1994)); [Pawley and Ross](../references.md#source-PawleyandRoss1993) ([1993](../references.md#source-PawleyandRoss1993)). We have not been alone in this enterprise. From the 1920s on, Kenneth Emory was a pioneer in Polynesian culture history, when archaeological and historical linguistic studies in that region were in their infancy and the main reliance was on comparative ethnology. For more recent interdisciplinary work see [Bellwood](../references.md#source-Bellwood1978) ([1978](../references.md#source-Bellwood1978), [1985](../references.md#source-Bellwood1985), [1987](../references.md#source-Bellwood1987), [1991](../references.md#source-Bellwood1991)); [Blust](../references.md#source-Blust1976b) ([1976b](../references.md#source-Blust1976b), [1980a](../references.md#source-Blust1980a), [1984](../references.md#source-Blust1984)-85, 1994); [Chowning](../references.md#source-Chowning1991) ([1991](../references.md#source-Chowning1991)); [French-Wright](../references.md#source-FrenchWright1983) ([1983](../references.md#source-FrenchWright1983)); [Kirch](../references.md#source-Kirch1984) ([1984](../references.md#source-Kirch1984)); [Osmond](../references.md#source-Osmond1996) ([1996](../references.md#source-Osmond1996)); [Ross](../references.md#source-Ross1989a) ([1989a](../references.md#source-Ross1989a)); Shutler and Marek (1975); [Walter](../references.md#source-Walter1989) ([1989](../references.md#source-Walter1989)); and various papers in Pawley and Ross eds (1994).
 
 [^6]: Blust (ACD) has proposed POc _&ast;pala_ or _&ast;paRa_ 'platform, firewood shelf above the hearth' and, under the entry headed Western Malayo-Polynesian _&ast;palapala_ 'scaffolding', also refers to PMP _&ast;paRa_ 'storage shelf'.
 

@@ -4,6 +4,7 @@ by Malcolm Ross
 
 
 <a id="s-1"></a>
+
 ## 1. Introduction
 
 
@@ -48,17 +49,18 @@ An English time adjunct may interact with the the tense of the predicate. In the
 
 Aspect and mood categories are more widely distributed across major Oceanic subgroups than tense categories, and it is therefore probable that POc lacked tense but made extensive use of aspect and mood. Aspect included continuative/habitual, probably marked by reduplication of the verb stem, and completive (perhaps expressed by a serial verb construction ending in the verb ‘finish’). Mood distinguished realis and irrealis. Realis was used for past and present events considered to have occurred or to be occurring, irrealis for future events and all events considered not to have actually occurred (e.g. conditionals). From the lack of tense, we might expect temporal direction to be marked more often on time expressions than it is in English, and this is true in that the temporal prefix _&ast;na-_ marks an expression as past (p.324).
 
-Much play has been made in the linguistic literature of the idea that by metaphorical extension spatial relations form the model for other grammatical patterns ([Gruber 1965](../references.md#source-Gruber1965), [Anderson 1971](../references.md#source-Anderson1971), [Jackendoff 1976](../references.md#source-Jackendoff1976), 1983, 1991, 1992). This has often been emphasised with regard to time (H. [Clark 1973](../references.md#source-Clark1973), [Jackendoff 1983](../references.md#source-Jackendoff1983):189–193, [Jackendoff 1992](../references.md#source-Jackendoff1992)). However, when we examine the parallels between space and time in English (_at the corner_/ _at six o’clock_, _in Canberra_/_in 1999_, _from Sydney to Canberra_/_from Tuesday to Thursday_), then look for them in Oceanic languages, we find that they do not loom nearly as large in Oceania because so many English parallels depend on the use of calendrical units. Even so, there are some parallels between space and time in Oceanic languages.
+Much play has been made in the linguistic literature of the idea that by metaphorical extension spatial relations form the model for other grammatical patterns ([Gruber 1965](../references.md#source-Gruber1965), [Anderson 1971](../references.md#source-Anderson1971), [Jackendoff 1976](../references.md#source-Jackendoff1976), [1983](../references.md#source-Jackendoff1983), [1991](../references.md#source-Jackendoff1991), [1992](../references.md#source-Jackendoff1992)). This has often been emphasised with regard to time (H. [Clark 1973](../references.md#source-Clark1973), [Jackendoff 1983](../references.md#source-Jackendoff1983):189–193, [Jackendoff 1992](../references.md#source-Jackendoff1992)). However, when we examine the parallels between space and time in English (_at the corner_/ _at six o’clock_, _in Canberra_/_in 1999_, _from Sydney to Canberra_/_from Tuesday to Thursday_), then look for them in Oceanic languages, we find that they do not loom nearly as large in Oceania because so many English parallels depend on the use of calendrical units. Even so, there are some parallels between space and time in Oceanic languages.
 
 
 <a id="p-299"></a>
 
-Semantically, there is an analogy between the spatial domain and the temporal domain, if we take it that time is a line running from past to future through a deictic point, usually the time of speaking. However, the analogy is limited: space is three-dimensional, but time is only a single dimension. In this analogy, there are parallels between a specific location and a specific time, between generic location (‘at home’) and generic time (‘at night’), and between a path (‘from Sydney to Canberra’) and a duration (‘from midday until midnight’). These parallels are realised in Oceanic languages by the use of similar grammar for both domains (pp.320–321). More specifically, there is a deictic parallel between ‘here’ and ‘now’, but other deictic parallels are less obvious, especially in Oceania, where spatial deixis tends to be person-oriented ([Ch.8, §3.4.1](chapter8.md#s-3-4)).[^6] There is also a parallel between temporal directionality (past vs future) and geographic (e.g. ‘seawards’ vs ‘inland’, ‘up’ vs ‘down’) or intrinsic directionality (e.g. ‘to the back’ vs ‘to the front’), as well as between temporal distance (‘long ago’) and spatial distance (‘far away’). However, the distance parallels are limited, as expressions of spatial distance do not also involve direction, whereas expressions of temporal distance typically include past or future denotation (‘earlier’/‘later’). The spatial domain typically lacks anything analogous to the lexicalisation of temporal distances or times within natural cycles (‘today’ vs ‘yesterday’ vs ‘tomorrow’, ‘midnight’ vs ‘morning’ vs ’midday’).
+Semantically, there is an analogy between the spatial domain and the temporal domain, if we take it that time is a line running from past to future through a deictic point, usually the time of speaking. However, the analogy is limited: space is three-dimensional, but time is only a single dimension. In this analogy, there are parallels between a specific location and a specific time, between generic location (‘at home’) and generic time (‘at night’), and between a path (‘from Sydney to Canberra’) and a duration (‘from midday until midnight’). These parallels are realised in Oceanic languages by the use of similar grammar for both domains (pp.320–321). More specifically, there is a deictic parallel between ‘here’ and ‘now’, but other deictic parallels are less obvious, especially in Oceania, where spatial deixis tends to be person-oriented (Ch. 8, §3.4.1).[^6] There is also a parallel between temporal directionality (past vs future) and geographic (e.g. ‘seawards’ vs ‘inland’, ‘up’ vs ‘down’) or intrinsic directionality (e.g. ‘to the back’ vs ‘to the front’), as well as between temporal distance (‘long ago’) and spatial distance (‘far away’). However, the distance parallels are limited, as expressions of spatial distance do not also involve direction, whereas expressions of temporal distance typically include past or future denotation (‘earlier’/‘later’). The spatial domain typically lacks anything analogous to the lexicalisation of temporal distances or times within natural cycles (‘today’ vs ‘yesterday’ vs ‘tomorrow’, ‘midnight’ vs ‘morning’ vs ’midday’).
 
 The remainder of this chapter is devoted to reconstructing temporal expressions. It is organised on the basis of the listing under ‘Time’, part A, of the list above. Part B of that list deals with duration. One would expect most duration expressions to be expressed grammatically, and at most a few like ‘for a little while’ and ‘for a long time’ to be lexicalised. However, I have been unable to reconstruct any lexicalised POc duration expressions. I have attempted to find a term for ‘time’ in the sense of duration (as in ‘for a long time’). Oceanic languages clearly have terms with this meanings, but they do not form a cognate set. A number of languages, however, use the reflex of POc _&ast;boŋi_ (p.305) in this sense, and it is possible that this was a POc usage too.
 
 
 <a id="s-2"></a>
+
 ## 2. Undirected times: times within cycles
 
 
@@ -66,7 +68,8 @@ Cyclic times recognised in Oceanic languages are all natural, as noted above. Th
 
 
 <a id="s-2-1"></a>
-## 2.1. The day and times of day: synchronic overview
+
+### 2.1. The day and times of day: synchronic overview
 
 
 In most Oceanic languages, the times of the day form a rough taxonomy, with the primary and secondary taxa as follows:
@@ -91,53 +94,53 @@ Below I give taxonomies drawn from Drehet (Adm), Takia (NNG), Gapapaiwa (PT), Ki
 
 ```
 Drehet (Adm)
-night                        [kom]piŋ N
-midnight                  kxikilie-piŋ ADV (kxikilie ‘middle’, piŋ ‘night’)
-pre-dawn                  hepwehe-laŋ ADV (laŋ ‘daytime’)
-daytime                      laŋ N
-morning                      kxepiŋ N (piŋ ‘night’)
-dawn                      koŋ-tupurip ADV (koŋ ‘place’)
-early morning             kxekxepiŋ N (kxepiŋ ‘morning’)
-(at) sunrise              aŋ imi liki ADVP (aŋ ‘sun’, imi ‘come’, liki ‘up top’)
-aŋ yaʔaŋ ADVP (aŋ ‘sun’, yaʔaŋ ‘go through’)
-middle of day                —
-(at) mid-morning           aŋ tikimiŋ mʷalaŋ ADVP (aŋ ‘sun’, tikimiŋ ‘be present’, mʷalaŋ ‘hill’)
-(at) noon                  aŋ imi kxikilie koŋ ADVP (aŋ ‘sun’, imi ‘come’, kxikilie ‘middle’, koŋ
-‘place’)
-afternoon/evening            piyih N
-(at) sunset               aŋ ilie pʷiniek ADV (aŋ ‘sun’, ilie ‘go’, pʷiniek ‘down below’)
-upayah V
+ night                        [kom]piŋ N
+    midnight                  kxikilie-piŋ ADV (kxikilie ‘middle’, piŋ ‘night’)
+    pre-dawn                  hepwehe-laŋ ADV (laŋ ‘daytime’)
+ daytime                      laŋ N
+ morning                      kxepiŋ N (piŋ ‘night’)
+    dawn                      koŋ-tupurip ADV (koŋ ‘place’)
+    early morning             kxekxepiŋ N (kxepiŋ ‘morning’)
+    (at) sunrise              aŋ imi liki ADVP (aŋ ‘sun’, imi ‘come’, liki ‘up top’)
+                              aŋ yaʔaŋ ADVP (aŋ ‘sun’, yaʔaŋ ‘go through’)
+ middle of day                —
+   (at) mid-morning           aŋ tikimiŋ mʷalaŋ ADVP (aŋ ‘sun’, tikimiŋ ‘be present’, mʷalaŋ ‘hill’)
+   (at) noon                  aŋ imi kxikilie koŋ ADVP (aŋ ‘sun’, imi ‘come’, kxikilie ‘middle’, koŋ
+                              ‘place’)
+ afternoon/evening            piyih N
+    (at) sunset               aŋ ilie pʷiniek ADV (aŋ ‘sun’, ilie ‘go’, pʷiniek ‘down below’)
+                              upayah V
 ```
 
 ```
 Takia (NNG)
-night                        tidom N
-daylight/daytime             ad, adad N (ad ‘sun’)
-sunrise to sunset            nal N
-morning[^7]                     tidomlom ADV (tidom ‘night’, lo ‘in’, mi ‘only’)
-dawn                      salso, sasulo
-midday                       ad uyan, adian NP (ad ‘sun’, uyan ‘good’)
-noon                       ad biben NP (ad ‘sun’, biben ‘its heart’)
-afternoon/evening[^8]           gurai, guraian (? < gurai uyan ‘evening’ + ‘good’) N, NP
+ night                        tidom N
+ daylight/daytime             ad, adad N (ad ‘sun’)
+ sunrise to sunset            nal N
+ morning[^7]                     tidomlom ADV (tidom ‘night’, lo ‘in’, mi ‘only’)
+    dawn                      salso, sasulo
+ midday                       ad uyan, adian NP (ad ‘sun’, uyan ‘good’)
+   noon                       ad biben NP (ad ‘sun’, biben ‘its heart’)
+ afternoon/evening[^8]           gurai, guraian (? < gurai uyan ‘evening’ + ‘good’) N, NP
 ```
 
 ```
 Gapapaiwa (PT)
-night                        didibara N
-midnight                  pom baso NP (pom apparently archaic ‘night’)
-just before sunrise       mara didibarai ADVP (mara ‘time’, didibara ‘night’, -i POSTP)
-daylight                 gabudara (archaic: ‘sun, day, time’) N, madeɣa N
-morning, sunrise to 10 a.m.
-boiboi N
-sunrise, dawn             mara tomtom (mara ‘time’, tomtom ‘k.o. seaweed’)
-just after sunrise        mara boiboi (mara ‘time’, boiboi ‘morning’)
-midday                       madeɣa pu NP (madeɣa ‘daylight’, pu ‘middle’)
-afternoon/evening, about 3 to 7 p.m.
-ravi ADV
-about 3 to 5 p.m.       ravi madeɣinai ADVP (ravi ‘evening’, madeɣina ‘its light’, -i POSTP)
-about 5 to 7 p.m.       ravi didibarai ADVP (ravi ‘evening’, didibara ‘night’, -i POSTP)
-sundown                 ravi pikana NP (ravi ‘evening’)
-sunset                  madeɣa ivokutuvi (madeɣa ‘daylight’)
+ night                        didibara N
+    midnight                  pom baso NP (pom apparently archaic ‘night’)
+    just before sunrise       mara didibarai ADVP (mara ‘time’, didibara ‘night’, -i POSTP)
+ daylight                 gabudara (archaic: ‘sun, day, time’) N, madeɣa N
+ morning, sunrise to 10 a.m.
+                          boiboi N
+    sunrise, dawn             mara tomtom (mara ‘time’, tomtom ‘k.o. seaweed’)
+    just after sunrise        mara boiboi (mara ‘time’, boiboi ‘morning’)
+ midday                       madeɣa pu NP (madeɣa ‘daylight’, pu ‘middle’)
+ afternoon/evening, about 3 to 7 p.m.
+                        ravi ADV
+      about 3 to 5 p.m.       ravi madeɣinai ADVP (ravi ‘evening’, madeɣina ‘its light’, -i POSTP)
+      about 5 to 7 p.m.       ravi didibarai ADVP (ravi ‘evening’, didibara ‘night’, -i POSTP)
+      sundown                 ravi pikana NP (ravi ‘evening’)
+      sunset                  madeɣa ivokutuvi (madeɣa ‘daylight’)
 ```
 
 
@@ -145,51 +148,51 @@ sunset                  madeɣa ivokutuvi (madeɣa ‘daylight’)
 
 ```
 Kiriwina (PT)
-night                        bogi/[b]ibog N/ADV
-midnight                lubulotoula/elubulotoula N/ADV
-first streak of dawn    bulubuvisiga ADV
-halflight               dudubali
-about 5 a.m.            kikivisiga
-daytime                      yam/iyam N/ADV
-morning, 6–9am               kaukwau, gabogi (bogi ‘night’)
-early morning           o-lile-yam ADV
-dawn                    isiga ADV
-sunrise                 iyuwola kalasia VP (-yuwola ‘rise’, kalasia ‘sun’)
-about 9 a.m.            ipokala valu (-pokala ‘present, give’, valu ‘land’)
-midday                       lalavi/ilalavi N/ADV
-noon                    itowota kalasia VP (kalasia ‘sun’)
-afternoon/evening            kwayavi/ikwayavi N/ADV
-about 3 p.m.            itobalia kalasia VP (kalasia ‘sun’)
-sunset                  isalili kalasia VP (-salilia ‘drown’, kalasia ‘sun’)
+ night                        bogi/[b]ibog N/ADV
+      midnight                lubulotoula/elubulotoula N/ADV
+      first streak of dawn    bulubuvisiga ADV
+      halflight               dudubali
+      about 5 a.m.            kikivisiga
+ daytime                      yam/iyam N/ADV
+ morning, 6–9am               kaukwau, gabogi (bogi ‘night’)
+      early morning           o-lile-yam ADV
+      dawn                    isiga ADV
+      sunrise                 iyuwola kalasia VP (-yuwola ‘rise’, kalasia ‘sun’)
+      about 9 a.m.            ipokala valu (-pokala ‘present, give’, valu ‘land’)
+ midday                       lalavi/ilalavi N/ADV
+      noon                    itowota kalasia VP (kalasia ‘sun’)
+ afternoon/evening            kwayavi/ikwayavi N/ADV
+      about 3 p.m.            itobalia kalasia VP (kalasia ‘sun’)
+      sunset                  isalili kalasia VP (-salilia ‘drown’, kalasia ‘sun’)
 ```
 
 ```
 Motu (PT)
-night                        hanuaboi N, boi N
-middle of the night     malo N
-midnight                malokihi, malo hevani
-morning twilight        daba vaburana NP (vabura ‘twilight’)
-daylight                     rani N, V
-morning                      daba N
-peep of dawn            daba e kinia VP (kinia ‘nip’)
-first shafts of light   daba e rotoa VP (rotoa ‘cut in strips’)
-light in the east       daba e daria VP (daria ‘husk, tear’)
-light before sunrise    daba mamana NP (mama ‘light from lamp’)
-dawn                    daba e mamaia VP (mamaia ‘chew’)
-daybreak                daba matana NP (mata ‘eye’)
-early morning           galuna
-dawn ‘spreads’          daba e tataia VP (tataia ‘strike, hit’)
-daylight                daba e rere VP, daba rere NP (rere ‘(go) from place to place’)
-daytime, sun                 dina N
-about 9 a.m.            dina e taolara VP
-9 a.m.–noon             dina e tubua VP (tubua ‘grow’)
-midday                   adoata N (ado ‘sun’ [not used independently], ata ‘up above’)
-about 3 p.m.             dina gelona NP
-afternoon/evening          adorahi N (ado ‘sun’ [not used independently])
-(just before) sunset     dina kerekere VP, dina kerekerena NP (kerena ‘light reflected in
-the sea’)
-evening twilight         mairu
-7–8 p.m.                 adorahi gamagamana NP
+ night                        hanuaboi N, boi N
+      middle of the night     malo N
+      midnight                malokihi, malo hevani
+      morning twilight        daba vaburana NP (vabura ‘twilight’)
+ daylight                     rani N, V
+ morning                      daba N
+      peep of dawn            daba e kinia VP (kinia ‘nip’)
+      first shafts of light   daba e rotoa VP (rotoa ‘cut in strips’)
+      light in the east       daba e daria VP (daria ‘husk, tear’)
+      light before sunrise    daba mamana NP (mama ‘light from lamp’)
+      dawn                    daba e mamaia VP (mamaia ‘chew’)
+      daybreak                daba matana NP (mata ‘eye’)
+      early morning           galuna
+      dawn ‘spreads’          daba e tataia VP (tataia ‘strike, hit’)
+      daylight                daba e rere VP, daba rere NP (rere ‘(go) from place to place’)
+ daytime, sun                 dina N
+      about 9 a.m.            dina e taolara VP
+      9 a.m.–noon             dina e tubua VP (tubua ‘grow’)
+   midday                   adoata N (ado ‘sun’ [not used independently], ata ‘up above’)
+   about 3 p.m.             dina gelona NP
+ afternoon/evening          adorahi N (ado ‘sun’ [not used independently])
+   (just before) sunset     dina kerekere VP, dina kerekerena NP (kerena ‘light reflected in
+                            the sea’)
+   evening twilight         mairu
+   7–8 p.m.                 adorahi gamagamana NP
 ```
 
 
@@ -197,41 +200,41 @@ evening twilight         mairu
 
 ```
 Gela (SES)
-night                      boŋi N
-all night, until morning dai-dani-hagi
-midnight                 kutu ni boŋi NP (kutu ‘stomach, womb’, boŋi ‘night), boŋi hau
-(hau ‘raise, lift’)
-cockcrow, 4 a.m.         danimarao
-after cockcrow           labota
-morning twilight         labota mulemule (mulemule ‘be nauseated’)
-just before dawn         marao
-daytime                    dani N, daidani
-morning                    puipuŋi N
-sunrise                  soga ni aho NP (soga ‘jump’)
-dawn                     na dani te vavala VP
-break, of dawn           lavahi V
-middle of the day          kutu ni dani NP (kutu ‘stomach, womb’, dani ‘daytime),
-danikama (kama ‘big’)
-noon                     hinagota (hina ‘sunlight’), turinunu (turi ‘walk’, nunu ‘shadow’)
-latter part of the day   levu ni dani (levu ‘side’)
-afternoon/evening          nulavi
-dusk                       lioliohahi
+ night                      boŋi N
+   all night, until morning dai-dani-hagi
+   midnight                 kutu ni boŋi NP (kutu ‘stomach, womb’, boŋi ‘night), boŋi hau
+                            (hau ‘raise, lift’)
+   cockcrow, 4 a.m.         danimarao
+   after cockcrow           labota
+   morning twilight         labota mulemule (mulemule ‘be nauseated’)
+   just before dawn         marao
+ daytime                    dani N, daidani
+ morning                    puipuŋi N
+   sunrise                  soga ni aho NP (soga ‘jump’)
+   dawn                     na dani te vavala VP
+   break, of dawn           lavahi V
+ middle of the day          kutu ni dani NP (kutu ‘stomach, womb’, dani ‘daytime),
+                            danikama (kama ‘big’)
+   noon                     hinagota (hina ‘sunlight’), turinunu (turi ‘walk’, nunu ‘shadow’)
+   latter part of the day   levu ni dani (levu ‘side’)
+ afternoon/evening          nulavi
+ dusk                       lioliohahi
 ```
 
 ```
 Marshallese (Mic)
-night                      pɯoŋw V
-midnight                 lukwən pɯoŋw N (lukwə- ‘middle’, pɯoŋw ‘night’)
-day                        ṛɯān N
-morning                    cippɯoŋw V (cip ‘rise’, pɯoŋw ‘night’)
-sunrise                  takinalɯ (alɯ ‘sun’)
-daybreak, dawn           okṛɯān V (okaṛɯ ‘root’, ṛɯān ‘day’), ṛɯāntak V (ṛɯān ‘day’, tak
-‘upward’), ciṛɯān (ṛɯān ‘day’), corɯāntak V (co ‘appear’, ṛɯāntak
-‘daybreak’), mɯəcawʌnene N, V
-noon                       raɛlɛp V
-hottest time of day      pwiltəŋtəŋ N (pwil ‘hot’, təŋtəŋ ‘most’)
-evening                    cota V
-sunset                   tulbkun alɯ (tulbk ‘go down’, alɯ ‘sun’)
+ night                      pɯoŋw V
+   midnight                 lukwən pɯoŋw N (lukwə- ‘middle’, pɯoŋw ‘night’)
+ day                        ṛɯān N
+ morning                    cippɯoŋw V (cip ‘rise’, pɯoŋw ‘night’)
+   sunrise                  takinalɯ (alɯ ‘sun’)
+   daybreak, dawn           okṛɯān V (okaṛɯ ‘root’, ṛɯān ‘day’), ṛɯāntak V (ṛɯān ‘day’, tak
+                            ‘upward’), ciṛɯān (ṛɯān ‘day’), corɯāntak V (co ‘appear’, ṛɯāntak
+                            ‘daybreak’), mɯəcawʌnene N, V
+ noon                       raɛlɛp V
+   hottest time of day      pwiltəŋtəŋ N (pwil ‘hot’, təŋtəŋ ‘most’)
+ evening                    cota V
+   sunset                   tulbkun alɯ (tulbk ‘go down’, alɯ ‘sun’)
 ```
 
 
@@ -239,47 +242,48 @@ sunset                   tulbkun alɯ (tulbk ‘go down’, alɯ ‘sun’)
 
 ```
 Wayan (Fij)
-night                       boŋi N, V
-just after dark        aviavi boŋi N (aviavi ‘evening’, boŋi ‘night’)
-midnight               boŋilevu V (boŋi ‘night’, levu ‘big’)
-before sunrise         gwatagwata boŋiboŋi N, V (gwatagwata ‘morning’, boŋi ‘night’)
-daytime                     siŋa V
-morning                     gwatagwata V (gwata ‘go out before dawn’)
-be nearly morning       mata gwatagwata
-just before and around dawn gwatagwata ðakaðā
-dawn                    gwatagwata tūtū V (gwatagwata ‘morning’, tūtū ‘exactly’)
-dawn, daylight          ðeðe N, V (= ‘be light’)
-midday                  siŋa-levu V (siŋa ‘day’, levu ‘big’)
-late afternoon, evening aviavi V
-mid-afternoon          aviavi tūtū N (aviavi ‘afternoon’, tūtū ‘exactly’)
-almost twilight        sī-aviavi ðeðe V (sī-aviavi ‘twilight’, ðeðe ‘be light’)
-afternoon twilight     sī-aviavi V
-just before dusk       karati-avi V
-be almost dusk         mata boŋi
-dusk                   sī-aviavi karawa V (sī-aviavi ‘twilight’, karawa ‘blue-green’)
+ night                       boŋi N, V
+      just after dark        aviavi boŋi N (aviavi ‘evening’, boŋi ‘night’)
+      midnight               boŋilevu V (boŋi ‘night’, levu ‘big’)
+      before sunrise         gwatagwata boŋiboŋi N, V (gwatagwata ‘morning’, boŋi ‘night’)
+ daytime                     siŋa V
+ morning                     gwatagwata V (gwata ‘go out before dawn’)
+      be nearly morning       mata gwatagwata
+      just before and around dawn gwatagwata ðakaðā
+      dawn                    gwatagwata tūtū V (gwatagwata ‘morning’, tūtū ‘exactly’)
+      dawn, daylight          ðeðe N, V (= ‘be light’)
+ midday                  siŋa-levu V (siŋa ‘day’, levu ‘big’)
+ late afternoon, evening aviavi V
+      mid-afternoon          aviavi tūtū N (aviavi ‘afternoon’, tūtū ‘exactly’)
+      almost twilight        sī-aviavi ðeðe V (sī-aviavi ‘twilight’, ðeðe ‘be light’)
+      afternoon twilight     sī-aviavi V
+      just before dusk       karati-avi V
+      be almost dusk         mata boŋi
+      dusk                   sī-aviavi karawa V (sī-aviavi ‘twilight’, karawa ‘blue-green’)
 ```
 
 ```
 Niuean (Pn)
 Note: maŋa-aho, moŋo ‘part of day’
-night                 pō N/V
-midnight               maŋa-aho tulotopō NP (pō ‘night’)
-daylight                    aho N
-morning                     poŋi-poŋi N
-dawn                   maŋa-aho maheŋiheŋi NP (maheŋiheŋi ‘be twilight’)
-sunrise                moŋo hake laā NP (hake ‘rise’, laā ‘sun’)
-early morning          maŋa-aho kō moa NP (kō ‘crow’, moa ‘chicken’)
-middle of the day           —
-broad daylight         aho-teka NP (aho ‘daylight’, -teka ‘very’), aho-tea
-midday                 moŋo/maŋa-aho tūpou laā NP (tūpou ‘be directly above’, laā ‘sun’)
-afternoon              moŋo/maŋa-aho pale laā NP (pale ‘turn’, laā ‘sun’)
-late afternoon, evening afi-afi N
-sunset                 moŋo/maŋa-aho tō laā NP (tō ‘fall’, laā ‘sun’)
+ night                 pō N/V
+      midnight               maŋa-aho tulotopō NP (pō ‘night’)
+ daylight                    aho N
+ morning                     poŋi-poŋi N
+      dawn                   maŋa-aho maheŋiheŋi NP (maheŋiheŋi ‘be twilight’)
+      sunrise                moŋo hake laā NP (hake ‘rise’, laā ‘sun’)
+      early morning          maŋa-aho kō moa NP (kō ‘crow’, moa ‘chicken’)
+ middle of the day           —
+      broad daylight         aho-teka NP (aho ‘daylight’, -teka ‘very’), aho-tea
+      midday                 moŋo/maŋa-aho tūpou laā NP (tūpou ‘be directly above’, laā ‘sun’)
+      afternoon              moŋo/maŋa-aho pale laā NP (pale ‘turn’, laā ‘sun’)
+ late afternoon, evening afi-afi N
+      sunset                 moŋo/maŋa-aho tō laā NP (tō ‘fall’, laā ‘sun’)
 ```
 
 
 <a id="s-2-2"></a>
-## 2.2. The day and times of day: reconstructions
+
+### 2.2. The day and times of day: reconstructions
 
 
 
@@ -288,35 +292,35 @@ sunset                 moŋo/maŋa-aho tō laā NP (tō ‘fall’, laā ‘sun�
 A reconstructable taxonomy for POc is given below (the word-class labels are none too certain). The primary terms for ‘night’ and ‘daylight’ were evidently &ast;boŋi and &ast;raqani. No third-order terms are reconstructable.
 
 ```
-night                   &ast;boŋi N, V ‘night, day of twenty-four hours’
-&ast;rodrom V ‘be dark, be night’
-&ast;marom V ‘be dark’
-daylight               &ast;raqani N, V ‘daytime, daylight’
-&ast;qaco N ‘sun, daylight’
-&ast;sinaR N, V ‘shine, sun’
-morning                 &ast;boŋi-boŋi N, ADV ‘early morning from dawn to perhaps
-about 10 a.m.’
-middle of the day       —
-late afternoon, evening &ast;Rapi N, &ast;Rapi-Rapi ADV ‘late afternoon and evening,
-from about 3 p.m. to sunset’
+ night                   &ast;boŋi N, V ‘night, day of twenty-four hours’
+                         &ast;rodrom V ‘be dark, be night’
+                         &ast;marom V ‘be dark’
+  daylight               &ast;raqani N, V ‘daytime, daylight’
+                         &ast;qaco N ‘sun, daylight’
+                         &ast;sinaR N, V ‘shine, sun’
+ morning                 &ast;boŋi-boŋi N, ADV ‘early morning from dawn to perhaps
+                           about 10 a.m.’
+ middle of the day       —
+ late afternoon, evening &ast;Rapi N, &ast;Rapi-Rapi ADV ‘late afternoon and evening,
+                           from about 3 p.m. to sunset’
 ```
 
 [Pawley](../references.md#source-Pawleynd) ([n.d.](../references.md#source-Pawleynd)) notes an idiomatic construction in which at least some of these terms co- occurred with POc _&ast;panua_ which, among other things, meant ‘the visible world, land and sky’ (vol. 1, p.62). The combination of _&ast;panua_ and _&ast;boŋi_, probably as a verb, is reflected in:
 
 ```
-Motu (PT)                hanua-boi ‘night’
-Wayan, Bauan (Fij)       boŋi na vanua ‘be night’
-Rotuman (Fij)            hanua he poŋ ‘it is getting late, night is coming on’
-Rennellese (Pn)          henua pō ‘night time’
+  Motu (PT)                hanua-boi ‘night’
+  Wayan, Bauan (Fij)       boŋi na vanua ‘be night’
+  Rotuman (Fij)            hanua he poŋ ‘it is getting late, night is coming on’
+  Rennellese (Pn)          henua pō ‘night time’
 ```
 
 Presumably the combination meant something like ‘the world is becoming dark’. The expressions below reflect the same construction, with ‘night’ replaced by ‘daylight’:
 
 ```
-Lau (SES)               fanua sato ‘sunny weather’ (< POc &ast;qaco)
-Wayan (Fij)             siŋa na vanua ‘be daylight’ (< POc &ast;sinaR)
-siŋa-levu na vanua ‘be midday’ (levu ‘big’)
-Rotuman (Fij)           hanua ran ‘daylight, dawn’ (< POc &ast;raqani)
+  Lau (SES)               fanua sato ‘sunny weather’ (< POc &ast;qaco)
+  Wayan (Fij)             siŋa na vanua ‘be daylight’ (< POc &ast;sinaR)
+                          siŋa-levu na vanua ‘be midday’ (levu ‘big’)
+  Rotuman (Fij)           hanua ran ‘daylight, dawn’ (< POc &ast;raqani)
 ```
 
 9.2.2.1 Night
@@ -1387,15 +1391,15 @@ The POc term for the first few hours of daylight was _&ast;boŋi-boŋi_, self-ev
 Interestingly, terms for ‘early morning’ in some Oceanic languages that do not reflect _&ast;boŋi-boŋi_ nonetheless include that language’s root for ‘night’:
 
 ```
-night                    early morning
-Drehet (Adm)                 piŋ                      kxe-piŋ
-Lou (Adm)                    keli-peŋ                 pati-peŋ
-Loniu (Adm)                  peŋ                      ma-peŋ
-Bing (NNG)                   boŋan ‘last night’       boŋ-sag (sag ‘only’)
-Takia (NNG)                  tidom                    tidom-lom (lo ‘in’, mi ‘only’)
-Mapos Buang (NNG)            buk                      mon-buk
-Kiriwina (PT)                bogi                     ga-bogi
-Marshallese (Mic)            pwoŋ                     cip-pwoŋ (cip ‘rise’)
+                               night                    early morning
+  Drehet (Adm)                 piŋ                      kxe-piŋ
+  Lou (Adm)                    keli-peŋ                 pati-peŋ
+  Loniu (Adm)                  peŋ                      ma-peŋ
+  Bing (NNG)                   boŋan ‘last night’       boŋ-sag (sag ‘only’)
+  Takia (NNG)                  tidom                    tidom-lom (lo ‘in’, mi ‘only’)
+  Mapos Buang (NNG)            buk                      mon-buk
+  Kiriwina (PT)                bogi                     ga-bogi
+  Marshallese (Mic)            pwoŋ                     cip-pwoŋ (cip ‘rise’)
 ```
 
 POc _&ast;puko_ ‘morning’ is only distributed over a certain area of Oceania — from New Britain to central Vanuatu — but this is enough to meet our criteria for POc reconstruction. To judge from the verbal morphology that occurs on a number of reflexes, _&ast;puko_ often occurred as a verb. Unfortunately none of the reflexes occurs with a gloss which would confirm that this referred to the same time period as POc _&ast;boŋi-boŋi_ ‘early morning’.
@@ -1536,14 +1540,14 @@ POc _&ast;puko_ ‘morning’ is only distributed over a certain area of Oceania
 Outside Polynesia, very few languages have a dedicated word for this part of the day, and those that do show no sign of cognation. Most languages have a phrasal expression, sometimes meaning ‘the middle of the day’:
 
 ```
-Loniu (Adm)               tiko aŋ (tiko ‘middle’, aŋ ‘day, sun’)
-Gapapaiwa (PT)            madeɣa pu (madeɣa ‘daylight’, pu ‘middle’)
-Roviana (MM)              korapa rane (korapa ‘middle’, rane ‘daylight’)
-Gela (SES)                kutu ni dani (kutu ‘stomach, womb’, dani ‘daytime)
+ Loniu (Adm)               tiko aŋ (tiko ‘middle’, aŋ ‘day, sun’)
+ Gapapaiwa (PT)            madeɣa pu (madeɣa ‘daylight’, pu ‘middle’)
+ Roviana (MM)              korapa rane (korapa ‘middle’, rane ‘daylight’)
+ Gela (SES)                kutu ni dani (kutu ‘stomach, womb’, dani ‘daytime)
 Others have a noun phrase whose head is ‘sun, daylight’, modified by ‘big’ or ‘good’:
-Takia (NNG)               ad uyan, adian (ad ‘sun’, uyan ‘good’)
-Gela (SES)                dani-kama (dani ‘daylight’, kama ‘big’)
-Wayan (Fij)               siŋa-levu (siŋa ‘day’, levu ‘big’)
+ Takia (NNG)               ad uyan, adian (ad ‘sun’, uyan ‘good’)
+ Gela (SES)                dani-kama (dani ‘daylight’, kama ‘big’)
+ Wayan (Fij)               siŋa-levu (siŋa ‘day’, levu ‘big’)
 ```
 
 [Biggs and Clark](../references.md#source-BiggsandClark1993) ([1993](../references.md#source-BiggsandClark1993)) reconstruct PPn _&ast;qaho-atea_ ‘late morning and early afternoon’, from PPn _&ast;qaho_ ‘daylight’ and _&ast;qātea_ ‘clear, unobstructed’. The addition of Anejom reflexes raises the reconstruction to Proto Remote Oceanic _&ast;qaso-qatea_ (Lynch pers. comm.).
@@ -1952,7 +1956,8 @@ I have not been able to reconstruct any third-order terms for parts of the day. 
 
 
 <a id="s-2-3"></a>
-## 2.3. The moon and its phases
+
+### 2.3. The moon and its phases
 
 
 POc _&ast;pulan_ ‘moon’ also meant ‘month’. The reconstruction here is repeated from Chapter 6 (p.164).
@@ -2099,7 +2104,7 @@ Phases of the moon are probably named in every Oceanic language. However, there 
 
 <a id="p-316"></a>
 
-Maximal systems, like those found in Micronesia and in Central Eastern Polynesian languages, have thirty names, one for each day of a lunar month.[^14] Between the minimal and the maximal systems are systems that divide the month into phases of two or three nights each (e.g. Sa’a as reported by [Ivens 1927](../references.md#source-Ivens1927), 1929). Some Oceanic communities, like Mwotlap (NCV), seem to divide the lunar month into phases based on sixths rather than quarters. That is, they have terms for the new moon and (roughly) the 5th, 10th, 15th, 20th and 25th days ([François 2001](../references.md#source-Francois2001)). From White, Kokhonigita and Pulomana’s (1988) dictionary definitions it seems that Maringe may also be such a language. Kiriwina apparently names days only from the 10th to the 20th day. The Lamotrek days, as listed by [Christian](../references.md#source-Christian1899) ([1899](../references.md#source-Christian1899)) are divided into two sections of respectively ten and twenty days.
+Maximal systems, like those found in Micronesia and in Central Eastern Polynesian languages, have thirty names, one for each day of a lunar month.[^14] Between the minimal and the maximal systems are systems that divide the month into phases of two or three nights each (e.g. Sa’a as reported by [Ivens 1927](../references.md#source-Ivens1927), [1929](../references.md#source-Ivens1929)). Some Oceanic communities, like Mwotlap (NCV), seem to divide the lunar month into phases based on sixths rather than quarters. That is, they have terms for the new moon and (roughly) the 5th, 10th, 15th, 20th and 25th days ([François 2001](../references.md#source-Francois2001)). From White, Kokhonigita and Pulomana’s (1988) dictionary definitions it seems that Maringe may also be such a language. Kiriwina apparently names days only from the 10th to the 20th day. The Lamotrek days, as listed by [Christian](../references.md#source-Christian1899) ([1899](../references.md#source-Christian1899)) are divided into two sections of respectively ten and twenty days.
 
 Proto Micronesian and Proto Central–Eastern Polynesian sets of day names could probably be reconstructed, but the two sets would not be cognate and, unlike the month names, it is not possible to attribute literal meanings to most of their members (although some of the Polynesian sets apparently name supernatural beings). Hence for POc purposes there is little point in reconstructing them. In fact, there is not a great deal that can be reconstructed of the way that POc speakers talked about moon phases.
 
@@ -2108,14 +2113,14 @@ The first phase is strictly speaking the days of darkness. Interestingly, the so
 The denotation of the first visible phase often makes reference to the moon’s thin crescent shape. A number of languages compare it to a crescent-shaped pearlshell ornament, and it is possible that this image was also used in POc. Such artefacts have not appeared in the archaeological record, but they are fairly common ethnographically and a term for them, POc _&ast;japi_ was reconstructed in vol. 1 (p.104). It is reflected in the Arosi term below.
 
 ```
-PT:  Motu       hua doɣaɣi          ‘new moon’ (doɣaɣi ‘crescent shaped pearl shell ornament’)
-MM:  Nakanai    mapa-le-Gileme      ‘moon when it is small’ (lit. ‘payment for
-Gileme’: the reference is to a goldlip shell
-used in brideprice)
-kalisu              ‘noseplug of mother-of pearl; new moon’
-SES: Arosi      siʔe-dahi           ‘a phase of the moon’ (siʔe ‘rub fire’ or ‘stripes’,
-dahi ‘crescent shaped ornament made from
-gold-lipped pearlshell’)
+ PT:  Motu       hua doɣaɣi          ‘new moon’ (doɣaɣi ‘crescent shaped pearl shell ornament’)
+ MM:  Nakanai    mapa-le-Gileme      ‘moon when it is small’ (lit. ‘payment for
+                                      Gileme’: the reference is to a goldlip shell
+                                      used in brideprice)
+                 kalisu              ‘noseplug of mother-of pearl; new moon’
+ SES: Arosi      siʔe-dahi           ‘a phase of the moon’ (siʔe ‘rub fire’ or ‘stripes’,
+                                      dahi ‘crescent shaped ornament made from
+                                      gold-lipped pearlshell’)
 ```
 
 Other descriptive terms also occur:
@@ -2124,12 +2129,12 @@ Other descriptive terms also occur:
 <a id="p-317"></a>
 
 ```
-PT:     Kiriwina     kapatu             ‘new moon’ (-kapatu ‘close, become small’)
-SES:    Gela         rau ni lei         ‘thin sickle of young moon, new moon’
-(‘blade of grass, Imperata cylindrica’)
-vula taŋeu         ‘crescent moon’ (vula ‘moon’, taŋeu ‘split’)
-Fij:    Wayan        tāgaga ni vula     ‘horns of the moon’ (tāgaga ‘forked top piece
-of mast of traditional canoe’)
+ PT:     Kiriwina     kapatu             ‘new moon’ (-kapatu ‘close, become small’)
+ SES:    Gela         rau ni lei         ‘thin sickle of young moon, new moon’
+                                           (‘blade of grass, Imperata cylindrica’)
+                      vula taŋeu         ‘crescent moon’ (vula ‘moon’, taŋeu ‘split’)
+ Fij:    Wayan        tāgaga ni vula     ‘horns of the moon’ (tāgaga ‘forked top piece
+                                           of mast of traditional canoe’)
 ```
 
 Other languages refer to what was apparently the same phase as ‘the young moon’, and here a reconstruction is perhaps possible: POc _&ast;pulan paqoRu_, where _&ast;pulan_ is ‘moon’ (p.315) and _&ast;paqoRu_ is ‘new, young’ (Ch. 7, p.210). Note, however, that I have also treated terms in which lexical replacement has occurred as reflexes of this item.
@@ -2180,26 +2185,26 @@ Other languages refer to what was apparently the same phase as ‘the young moon
 Some languages have a term which means, literally, ‘unripe moon’. This evidently refers to a phase between the new moon and the full moon, but exactly what part of the waxing half of the month it denotes is not clear.
 
 ```
-PT: Kiriwina   tubukona tubu-geguda   ‘first quarter’ (tubukona ‘moon’, tubu
-‘grow’, geguda ‘unripe’)
-PT: Motu       hua karukaru           ‘young moon’ (hua ‘moon’, karukaru
-‘undercooked, not fully ripe’
-Pn: Niuean     mahina pula mui        ‘new moon, first quarter’ (mahina ‘moon’,
-pula ‘rise’, mui ‘unripe’)
+ PT: Kiriwina   tubukona tubu-geguda   ‘first quarter’ (tubukona ‘moon’, tubu
+                                       ‘grow’, geguda ‘unripe’)
+ PT: Motu       hua karukaru           ‘young moon’ (hua ‘moon’, karukaru
+                                       ‘undercooked, not fully ripe’
+ Pn: Niuean     mahina pula mui        ‘new moon, first quarter’ (mahina ‘moon’,
+                                        pula ‘rise’, mui ‘unripe’)
 ```
 
 Mwotlap, where we know with reasonable certainly that the moon phases are roughly of five days apiece, has a term meaning ‘a piece of the moon’, which refers roughly to the 5th day after the moon’s appearance (whereas ‘the unripe moon’ seems to refer roughly to the 7th). One other language, Drehet, has a similar term:
 
 ```
-Adm: Drehet    puŋ rekxek          moon phases: 1st and 3rd quarters (puŋ
-‘moon’, rekxek ‘a quarter, a piece’)
-NCV: Mwotlap   no-wol ɣaytɛ-ɣi     ‘one-third moon’ (wol ‘moon’, ɣayte ‘half, piece’)
+ Adm: Drehet    puŋ rekxek          moon phases: 1st and 3rd quarters (puŋ
+                                    ‘moon’, rekxek ‘a quarter, a piece’)
+ NCV: Mwotlap   no-wol ɣaytɛ-ɣi     ‘one-third moon’ (wol ‘moon’, ɣayte ‘half, piece’)
 ```
 
 Maringe has a term with an apparently similar meaning to Mwotlap:
 
 ```
-MM:     Maringe     khafa                     ‘moon between new and half moon’
+ MM:     Maringe     khafa                     ‘moon between new and half moon’
 ```
 
 Curiously, this is about as far as we can go with reconstructing POc moon phases. Many languages have a term which is glossed in English as ‘half moon’, but I have found none that are cognate with each other, and none that agree on the metaphor they use. Every language has a term for the full moon, but, again, I find no cognates and no agreement on metaphor. A good many languages also have terms for the night (or two nights) immediately before and/or immediately after the full moon.
@@ -2209,10 +2214,11 @@ Curiously, this is about as far as we can go with reconstructing POc moon phases
 
 
 <a id="s-2-4"></a>
-## 2.4. The year and its seasons
+
+### 2.4. The year and its seasons
 
 
-Probably the main seasons for POc speakers living in northwest Melanesia were meteorological: the dry, when the southeast trades blew with reasonable consistency, and the wet, when there were sporadic northwesterly winds. The POc terms for these were respectively _&ast;raki_ and _&ast;apaRat_, which seem to have referred centrally to the seasons, with typical weather and wind direction as inevitable components of their meanings. More details are given in [Chapter 5, §4.2](chapter5.md#s-4-2), whence the reconstructions below are repeated.
+Probably the main seasons for POc speakers living in northwest Melanesia were meteorological: the dry, when the southeast trades blew with reasonable consistency, and the wet, when there were sporadic northwesterly winds. The POc terms for these were respectively _&ast;raki_ and _&ast;apaRat_, which seem to have referred centrally to the seasons, with typical weather and wind direction as inevitable components of their meanings. More details are given in Chapter 5, §4.2, whence the reconstructions below are repeated.
 
 <table>
 <tr>
@@ -2460,12 +2466,12 @@ Probably the main seasons for POc speakers living in northwest Melanesia were me
 The terms I have reconstructed above refer to wind directions and to seasons. A further development is that one of the seasonal terms comes to mean ‘year’ (perhaps something like ‘the annual round’ would be more accurate). Reflexes of both POc _&ast;raki_ ‘dry season’ and POc _&ast;apaRat_ which are used in this way are listed below, but local seasonal/wind terms also tend to be used in this way.
 
 ```
-NNG:    Kove             hai              ‘southeast trade, year’
-NNG:    Bariai           rai              ‘year’
-NNG:    Lukep            rai              ‘year’
-Mic:    Woleaian         ẓaxi            ‘year, age, summer season’
-MM:     Barok            awat             ‘year’
-MM:     Siar             yahrat           ‘year’
+ NNG:    Kove             hai              ‘southeast trade, year’
+ NNG:    Bariai           rai              ‘year’
+ NNG:    Lukep            rai              ‘year’
+ Mic:    Woleaian         ẓaxi            ‘year, age, summer season’
+ MM:     Barok            awat             ‘year’
+ MM:     Siar             yahrat           ‘year’
 ```
 
 In [Ross](../references.md#source-Ross1995c) ([1995c](../references.md#source-Ross1995c)) I wrote, ‘There is … no doubt that POc had a separate (and widely reflected) word for year’, and followed it with the reconstruction of POc _&ast;taqun_ below. This statement stands, but with a qualification. The Buang, Tongan and East Futunan reflexes indicate that _&ast;taqun_ may have been used particularly to denote the yam-growing cycle. This would not be surprising: the greater yam, Dioscorea alata (POc _&ast;qupi_; [Ross 1996d](../references.md#source-Ross1996d)) is a highly prized — but not especially nutritious — crop throughout much of Oceania, with much ritual associated with its growth cycle, and so it is a highly salient marker of a year. It is likely that that it already had the meaning ‘yam season cycle’ in POc times.
@@ -2601,13 +2607,15 @@ In Polynesian languages, there is a tendency, stronger in the east that in the w
 
 
 <a id="s-2-5"></a>
-## 2.5. Lunar month names
+
+### 2.5. Lunar month names
 
 
 Throughout much of Oceania there were calendars based on lunar months. However, discussion of these lies beyond the scope of this chapter, which is concerned with the labelling of time units whose connection to nature is fairly transparent. Calendrical names have complex associations with their users’ culture, both material and non-material, and will receive a chapter to themselves in a later volume.
 
 
 <a id="s-3"></a>
+
 ## 3. Directed times: present, past and future
 
 
@@ -2620,7 +2628,8 @@ There is strong evidence that most of the temporal terms that are reconstructabl
 
 
 <a id="s-3-1"></a>
-## 3.1. Deictic time: ‘now’, ‘today’
+
+### 3.1. Deictic time: ‘now’, ‘today’
 
 
 No POc form which uniquely means ‘now’ or ‘today’ is reconstructable. In many languages the same term is used for both meanings. Insofar as etymologising is possible (and more often than not it isn’t), the term for ‘now’ or ‘today’ is formed by one of two strategies. In the first, the proximal demonstrative is used. Thus Lou (Adm) _tapoŋ_, Drehet (Adm) _iⁿdah_, Kaulong (NNG) _ai_, Bing (NNG) _nien_, Takia (NNG) _ete_, Gumawana (PT) _ame_, Patpatar (MM) _kaiken_, Longgu (SES) _nene_ are each both ‘here’ and ‘now’. Nêlêmwa (NCal) _lʰeny_ is both ‘this’ and ‘today’.
@@ -2631,7 +2640,8 @@ The claim is sometimes made that Oceanic systems of spatial deixis are also used
 
 
 <a id="s-3-2"></a>
-## 3.2. Vague temporal distance
+
+### 3.2. Vague temporal distance
 
 
 There are relatively few lexical items in Oceanic languages denoting vague temporal distances. Lexical items for ‘in the past’ and ‘in the future’ used relative to the time of speaking are also used respectively for ‘earlier’ and ‘later’, i.e., for expressions relative to a time named by the speaker. Expressions for ‘recently’ and ‘soon’ are usually phrasal or clausal (e.g. ‘a little time has passed/will pass …’), not lexical.
@@ -3034,7 +3044,8 @@ It is hard to avoid the conclusion that _&ast;tuqaRi_ ‘(be) long ago; old (of 
 
 
 <a id="s-3-3"></a>
-## 3.3. Distances within a day or measured by days
+
+### 3.3. Distances within a day or measured by days
 
 
 POc temporal bases themselves were in general directionless, i.e. neutral between past and future. The exception to this was _&ast;ñoRap_ ‘yesterday’. There is no clearly reconstructable term for ‘tomorrow’, and both ‘yesterday’ and ‘tomorrow’ are often denoted by terms which reflect as their base either POc _&ast;boŋi_ ‘night, day of twenty-four hours’ (p.305) or POc _&ast;raqani_ ‘daytime, daylight’ (p.309). ‘The day before yesterday’ and ‘the day after tomorrow’ both had as their base the directionless _&ast;waRisa_ ‘two days from today’ (p.332).
@@ -3046,9 +3057,9 @@ POc temporal bases themselves were in general directionless, i.e. neutral betwee
 By distances within a day, I mean expressions corresponding to English ‘last night’, ‘tonight’, ‘this morning’, ‘this evening’. Oceanic data relating to these are very thin indeed. I suspect the main reason for this is that expressions consisting of ‘today’ or ‘yesterday’ plus ‘morning’ or ‘evening’ are often used, and they are simply not noted in dictionaries. For example:
 
 ```
-Adm: Drehet     kumwiŋ ‘now, today’   piŋ ‘night’    piŋ kumwiŋ ‘tonight’
-PT:  Ubir       ari ‘now, today’      fom ‘night’    ari-fom ‘tonight’
-PT:  Kiriwina   lagaila ‘today’       bogi ‘night’   lagaila bogi ‘tonight’
+  Adm: Drehet     kumwiŋ ‘now, today’   piŋ ‘night’    piŋ kumwiŋ ‘tonight’
+  PT:  Ubir       ari ‘now, today’      fom ‘night’    ari-fom ‘tonight’
+  PT:  Kiriwina   lagaila ‘today’       bogi ‘night’   lagaila bogi ‘tonight’
 ```
 
 There are a few languages where _&ast;qa-_ is prefixed to a part of the day to form a future expression, _&ast;[qa]na-_ to form a past expression, but it is not clear whether these expressions are reconstructable for POc or are simply independent innovations resulting from the productivity of the prefixes. Thus we find Nakanai (MM) _ala-logo_ ‘last night’ vs _ga-logo_ ‘tonight’ (_-logo_ < _&ast;rodrom_ ‘night’), Nehan (MM) _na-boung_ ‘last night’, _na-liwo_ ‘this morning (past)’ vs _ro-liwo_ ‘tomorrow’ (the origin of _ro-_ is unknown), and Tongan (Pn) _ʔane-pō_ ‘last night’ vs _ʔa-pō_ ‘tonight’. Niuean (Pn) has terms reflecting _&ast;[qa]na-_: _ne-poŋi-poŋi_ ‘this morning (past)’, _ne-pō_ ‘last night’, and _ne-afi-afi_ ‘yesterday evening’. [Biggs and Clark](../references.md#source-BiggsandClark1993) ([1993](../references.md#source-BiggsandClark1993)) reconstruct PPn _&ast;qana-pō_ ‘last night’:
@@ -3463,9 +3474,9 @@ The Southern Vanuatu members of the set below reflect a Proto South Vanuatu form
 There seem to be at least two other variants on this form. Certain Papuan Tip languages reflect _&ast;Ropa_:
 
 ```
-PT:      Tawala          lolowa          ‘before, (a few) days back’
-PT:      Dobu            lowa            ‘day before yesterday’
-PT:      Kiriwina        lova            ‘yesterday’
+ PT:      Tawala          lolowa          ‘before, (a few) days back’
+ PT:      Dobu            lowa            ‘day before yesterday’
+ PT:      Kiriwina        lova            ‘yesterday’
 ```
 
 This seems to be the outcome of a three-step process. First, the vowels of _&ast;ñoRap_ metathesised to _&ast;ñaRop_ (as they have done in Selau _narowa_ in the first _&ast;ñoRap_ set above). Then, _&ast;ñ_ became _&ast;n_ and a paragogic _&ast;-a_ was added, both regular changes, giving _&ast;naRopa_. Finally, _&ast;na-_ was reinterpreted as the past formative, leaving the base _&ast;Ropa_ reflected above.
@@ -3473,14 +3484,14 @@ This seems to be the outcome of a three-step process. First, the vowels of _&ast
 The forms below reflect Proto NCV _&ast;na-novi_ ‘yesterday’. This contrasts with Proto NCV _&ast;novi_ ‘tomorrow’ (Nokuku _pʷa-novi_, Kiai _i-novi_, Tolomako _i novi_) and so may have nothing to do with _&ast;na-ñoRap_. [Clark](../references.md#source-Clark1996) ([1996](../references.md#source-Clark1996)) thinks it reflects a conflation of POc _&ast;na-ñoRap_ and _&ast;na-Rapi_ (below), however, and he may be right.
 
 ```
-NCV: Raga               ninovi           ‘yesterday’
-NCV: Nokuku             nonovi           ‘yesterday’
-NCV: Kiai               nanovi           ‘yesterday’
-NCV: Tamambo            (na)nanovi       ‘yesterday’
-NCV: Lonwolwol          nono             ‘yesterday’
-NCV: Namakir            nanov            ‘yesterday’
-NCV: Nguna              nanova           ‘yesterday’
-NCV: Tolomako           na novi          ‘yesterday’
+ NCV: Raga               ninovi           ‘yesterday’
+ NCV: Nokuku             nonovi           ‘yesterday’
+ NCV: Kiai               nanovi           ‘yesterday’
+ NCV: Tamambo            (na)nanovi       ‘yesterday’
+ NCV: Lonwolwol          nono             ‘yesterday’
+ NCV: Namakir            nanov            ‘yesterday’
+ NCV: Nguna              nanova           ‘yesterday’
+ NCV: Tolomako           na novi          ‘yesterday’
 ```
 
 The term below reflects POc _&ast;boŋi_ ‘night, day of twenty-four hours’ prefixed with the past formative _&ast;na-_. The reconstruction of _&ast;na-boŋi_ ‘yesterday’ as far back as POc is questionable, as it is not well attested outside Meso-Melanesian languages.
@@ -3561,56 +3572,56 @@ cf. also:
 <tr>
 <td>SES</td>
 <td>Gela</td>
-<td>(i)boŋi</td>
+<td><i>(i)boŋi</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
 <td>Hahon</td>
-<td>(ro)bon</td>
+<td><i>(ro)bon</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
 <td>Hote</td>
-<td>(wak)buk</td>
+<td><i>(wak)buk</i></td>
 <td>
 '<span>yesterday</span>' (<span><em>wak</em> &lt; POc <em>*qaco</em> ‘sun’</span>)</td>
 </tr>
 <tr>
 <td>NNG</td>
 <td>Kairiru</td>
-<td>(ra)buŋ</td>
+<td><i>(ra)buŋ</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
 <td>NCV</td>
 <td>Labo</td>
-<td>(lo)mbun</td>
+<td><i>(lo)mbun</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
 <td>NCV</td>
 <td>Port Sandwich</td>
-<td>(xi)mboŋ</td>
+<td><i>(xi)mboŋ</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
 <td>Siar</td>
-<td>(la)buŋ</td>
+<td><i>(la)buŋ</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
 <td>PT</td>
 <td>Tawala</td>
-<td>pom</td>
+<td><i>pom</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
@@ -3620,17 +3631,17 @@ cf. also:
 
 <a id="p-328"></a>
 
-A few Western Oceanic terms for ‘yesterday’ reflect POc _&ast;raqani_ ‘daytime, daylight’ (p.309). Reflexes in Sio (NNG) and in the Central Papuan subgroup of Papuan Tip languages have a prefix which appears to reflect a preposition reflex of POc _&ast;ua_ (VF) ‘go towards addressee’, (DIR) ‘towards addressee’ ([Ch.8, §3.4.4](chapter8.md#s-3-4)).
+A few Western Oceanic terms for ‘yesterday’ reflect POc _&ast;raqani_ ‘daytime, daylight’ (p.309). Reflexes in Sio (NNG) and in the Central Papuan subgroup of Papuan Tip languages have a prefix which appears to reflect a preposition reflex of POc _&ast;ua_ (VF) ‘go towards addressee’, (DIR) ‘towards addressee’ (Ch. 8, §3.4.4).
 
 ```
-NNG:    Sio               wa-lani           (ADV) ‘day before yesterday ’
-NNG:    Wogeo             ra-ran            ‘yesterday’
-PT:     Sinaugoro         ɣwa-laɣani        ‘yesterday’
-PT:     Keapara           va-raɣani         ‘yesterday’
-PT:     Motu              va-rani           ‘yesterday’
-PT:     Roro              ua-rani           ‘yesterday’
-PT:     Kuni              ua-nani           ‘yesterday’
-PT:     E. Mekeo          a-ŋani            ‘yesterday’
+ NNG:    Sio               wa-lani           (ADV) ‘day before yesterday ’
+ NNG:    Wogeo             ra-ran            ‘yesterday’
+ PT:     Sinaugoro         ɣwa-laɣani        ‘yesterday’
+ PT:     Keapara           va-raɣani         ‘yesterday’
+ PT:     Motu              va-rani           ‘yesterday’
+ PT:     Roro              ua-rani           ‘yesterday’
+ PT:     Kuni              ua-nani           ‘yesterday’
+ PT:     E. Mekeo          a-ŋani            ‘yesterday’
 ```
 
 The term below is clearly the same root as _&ast;Rapi_/_&ast;Rapi-Rapi_ ‘late afternoon and evening, from about 3 p.m. to sunset’ (p.313). I have placed a question mark against the reconstructed gloss below, as it is not attested in the data. However, the gloss ‘yesterday’ is presumably the result of extension of meanings denoting ‘last evening’. Nuclear Polynesian languages reflect an unexplained innovation whereby _&ast;qa-na-api_ became _&ast;qa-na-napi_.
@@ -3747,14 +3758,14 @@ cf. also:
 <tr>
 <td>SES</td>
 <td>Longgu</td>
-<td>(ŋa)lavi</td>
+<td><i>(ŋa)lavi</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
 <td>Fij</td>
 <td>Wayan</td>
-<td>(ni)avi</td>
+<td><i>(ni)avi</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
@@ -3771,23 +3782,23 @@ There is no POc term for ‘tomorrow’ that is as unambiguously reconstructable
 We might expect that just as POc _&ast;na-boŋi_ (p.327), with the past formative, was perhaps used for ‘yesterday’, so _&ast;boŋi_ ‘night, day of twenty-four hours’, without a formative, might also have served for ‘tomorrow’. But this would have been ambiguous in at least some contexts, so we would expect some disambiguating marker. We do indeed find reflexes of _&ast;boŋi_ used for ‘tomorrow’, and some of these are listed below, but they do not form a cognate set, and their disambiguating markers vary from demonstratives (Iduna, Sinaugoro) through an adposition (Dawawa) to irrealis enclitics (Mindiri, Bilibil, Matukar).
 
 ```
-Adm: Drehet             (neke)piŋ          (ADV) ‘tomorrow’
-Adm: Lou                (ti)peŋ            ‘tomorrow’
-Adm: Nyindrou           (na)biŋi           ‘tomorrow’
-NNG: Malalamai          boŋ(o)             ‘tomorrow’
-NNG: Bing               boŋ(sag)           ‘tomorrow’
-NNG: Mindiri            bum(po)            ‘tomorrow’
-NNG: Bilibil            boi(lap)           ‘tomorrow’
-NNG: Gedaged            boŋ(anip)          ‘tomorrow’
-NNG: Takia              boŋ                ‘tomorrow’
-NNG: Matukar            bo(ip)             ‘tomorrow’
-NNG: Sera               puiŋ(eteik)        ‘tomorrow’
-PT: Iduna               bogi(yadi)         ‘tomorrow’
-PT: Muyuw               (nu)bweig          ‘tomorrow’
-PT: Sinaugoro           boi(nani)          (ADV) ‘tomorrow’
-NCV: Paamese            (visu)voŋ          ‘tomorrow’
-NCV: Namakir            (paʔa)bog          ‘tomorrow’
-Mic: Kiribatese         (niŋā)boŋ          ‘tomorrow’
+  Adm: Drehet             (neke)piŋ          (ADV) ‘tomorrow’
+  Adm: Lou                (ti)peŋ            ‘tomorrow’
+  Adm: Nyindrou           (na)biŋi           ‘tomorrow’
+  NNG: Malalamai          boŋ(o)             ‘tomorrow’
+  NNG: Bing               boŋ(sag)           ‘tomorrow’
+  NNG: Mindiri            bum(po)            ‘tomorrow’
+  NNG: Bilibil            boi(lap)           ‘tomorrow’
+  NNG: Gedaged            boŋ(anip)          ‘tomorrow’
+  NNG: Takia              boŋ                ‘tomorrow’
+  NNG: Matukar            bo(ip)             ‘tomorrow’
+  NNG: Sera               puiŋ(eteik)        ‘tomorrow’
+  PT: Iduna               bogi(yadi)         ‘tomorrow’
+  PT: Muyuw               (nu)bweig          ‘tomorrow’
+  PT: Sinaugoro           boi(nani)          (ADV) ‘tomorrow’
+  NCV: Paamese            (visu)voŋ          ‘tomorrow’
+  NCV: Namakir            (paʔa)bog          ‘tomorrow’
+  Mic: Kiribatese         (niŋā)boŋ          ‘tomorrow’
 ```
 
 We also find reduplicated reflexes of _&ast;boŋi_, but I take these to be reflexes of POc _&ast;boŋi-boŋi_ ‘early morning from dawn to 9 or 10 a.m.’ (p.310). I doubt whether the sense ‘tomorrow’ is also reconstructable for _&ast;boŋi-boŋi_ and assume that these are the outcomes of parallel innovations, similar to those via which reflexes of _&ast;Rapi_ ‘evening’ came to mean ‘yesterday’.
@@ -4006,35 +4017,35 @@ cf. also:
 <tr>
 <td>SES</td>
 <td>'Are'are</td>
-<td>itani</td>
+<td><i>itani</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
 <td>Longgu</td>
-<td>dañi</td>
+<td><i>dañi</i></td>
 <td>
 (V) '<span>tomorrow; daylight</span>'</td>
 </tr>
 <tr>
 <td>NCV</td>
 <td>Port Sandwich</td>
-<td>(pe)an</td>
+<td><i>(pe)an</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
 <td>Sa'a</td>
-<td>i deni</td>
+<td><i>i deni</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
 <td>NCV</td>
 <td>Sakao</td>
-<td>(lak)ren</td>
+<td><i>(lak)ren</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
@@ -4509,15 +4520,15 @@ The Proto Tanna (SV) and Proto Polynesian reflexes of _&ast;qa-na-_ lost the pas
 The contrast between _&ast;waRisa_ with and without _&ast;na-_ is reflected in the following pairs:
 
 ```
-&ast;waRisa                           &ast;[qa-]na-waRisa
-‘day after tomorrow’              ‘day before yesterday’
-MM: Patpatar             uaris                             nauaris
-MM: Tolai (Nodup)        oari(a)                           nari(a)
-NCV: Mota                arisa                             anarisa
-NCV: Port Sandwich       (x)ois                            (xi)nois
-SV: Sye                  wisas ‘five days hence’           nowisas ‘five days ago’
-SV: Anejom               (ho)viș ‘three days from today’   nviș ‘day before yesterday,
-day after tomorrow’
+                           &ast;waRisa                           &ast;[qa-]na-waRisa
+                           ‘day after tomorrow’              ‘day before yesterday’
+  MM: Patpatar             uaris                             nauaris
+  MM: Tolai (Nodup)        oari(a)                           nari(a)
+  NCV: Mota                arisa                             anarisa
+  NCV: Port Sandwich       (x)ois                            (xi)nois
+  SV: Sye                  wisas ‘five days hence’           nowisas ‘five days ago’
+  SV: Anejom               (ho)viș ‘three days from today’   nviș ‘day before yesterday,
+                                                               day after tomorrow’
 ```
 
 
@@ -4629,14 +4640,16 @@ A number of languages have terms meaning ‘in three days time’ (i.e. ‘the d
 
 
 <a id="s-3-4"></a>
-## 3.4. Distances within a month/years or measured by months/years
+
+### 3.4. Distances within a month/years or measured by months/years
 
 
 As far as I can tell, only temporal distances within a day and those measured in days were lexicalised in POc. Distances related to the longer periods of months, seasons or years were not lexicalised.
 
 
 <a id="s-3-5"></a>
-## 3.5. The interrogative local noun ‘when?’
+
+### 3.5. The interrogative local noun ‘when?’
 
 
 

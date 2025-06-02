@@ -4,10 +4,11 @@ by Ross Clark
 
 
 <a id="s-1"></a>
+
 ## 1. Introduction
 
 
-There may not have been a domain of the Proto Oceanic lexicon corresponding precisely to the Class Aves. The creatures referred to by reflexes of POc &ast;manuk (below) almost always include bats and sometimes other flying animals. For example, Kwaio laŋasi (a taboo replacement for manu) ‘in the broadest categorical sense, includes birds, butterflies, moths, bats, dragonflies and one species of frogs (_Pseudophryne sp._)’ ([Keesing 1975](../references.md#source-Keesing1975):119). At its widest &ast;manuk may have encompassed the entire non-aquatic animal kingdom (for discussion see chapter 8, §[§5](#s-5) and 6). More restrictive expressions are often coined by adding a modifier to &ast;manuk, typically the verb ‘to fly’, for example Chuukese mac ‘living creature of land or air (other than human)’, maeeaŋ ‘bird’ (ef. eaŋ ‘fly’). The organisation of this book, however, follows the Linnaean classification, and bats will be found in chapter 5, with only a couple of cross-references below to connect the two.
+There may not have been a domain of the Proto Oceanic lexicon corresponding precisely to the Class Aves. The creatures referred to by reflexes of POc &ast;manuk (below) almost always include bats and sometimes other flying animals. For example, Kwaio laŋasi (a taboo replacement for manu) ‘in the broadest categorical sense, includes birds, butterflies, moths, bats, dragonflies and one species of frogs (_Pseudophryne sp._)’ ([Keesing 1975](../references.md#source-Keesing1975):119). At its widest &ast;manuk may have encompassed the entire non-aquatic animal kingdom (for discussion see chapter 8, §§5 and 6). More restrictive expressions are often coined by adding a modifier to &ast;manuk, typically the verb ‘to fly’, for example Chuukese mac ‘living creature of land or air (other than human)’, maeeaŋ ‘bird’ (ef. eaŋ ‘fly’). The organisation of this book, however, follows the Linnaean classification, and bats will be found in chapter 5, with only a couple of cross-references below to connect the two.
 
 <table>
 <tr>
@@ -381,6 +382,7 @@ A widespread belief was that the voices of certain species could foretell such e
 
 
 <a id="s-2"></a>
+
 ## 2. The life and parts of birds
 
 
@@ -590,14 +592,14 @@ Both of the above refer to the overall covering of birds that is analogous to th
 A number of forms suggested a variant reconstruction &ast;la-lau[^1]
 
 ```
-NNG: Manam               la-lau            ‘feather’
-NNG: Bing                la-lahaw          ‘tail feathers of poultry’
-MM:     Tangga       o-lo-lo       ‘hair, feathers
-MM:     Nehan        la-le         ‘feather’
-SES:    Kwaio        la-la(ŋala)   ‘feather’
-NCV:    Raga         la-lau        ‘feather’
-SV:     Anejom       na-lau        ‘feather’
-Fij:    Wayan        lau-lau       ‘tail’
+    NNG: Manam               la-lau            ‘feather’
+    NNG: Bing                la-lahaw          ‘tail feathers of poultry’
+   MM:     Tangga       o-lo-lo       ‘hair, feathers
+   MM:     Nehan        la-le         ‘feather’
+   SES:    Kwaio        la-la(ŋala)   ‘feather’
+   NCV:    Raga         la-lau        ‘feather’
+   SV:     Anejom       na-lau        ‘feather’
+   Fij:    Wayan        lau-lau       ‘tail’
 ```
 
 
@@ -1033,21 +1035,21 @@ cf. also:
 <tr>
 <td>PT</td>
 <td>Balawaia</td>
-<td>muru</td>
+<td><i>muru</i></td>
 <td>
 '<span>beak</span>'</td>
 </tr>
 <tr>
 <td>PT</td>
 <td>Gapapaiwa</td>
-<td>mutu</td>
+<td><i>mutu</i></td>
 <td>
 '<span>lips, beak</span>'</td>
 </tr>
 <tr>
 <td>PT</td>
 <td>Iduna</td>
-<td>mudu</td>
+<td><i>mudu</i></td>
 <td>
 '<span>carved prow</span>'</td>
 </tr>
@@ -1412,7 +1414,7 @@ cf. also:
 <tr>
 <td>Fij</td>
 <td>Rotuman</td>
-<td>kalofi</td>
+<td><i>kalofi</i></td>
 <td>
  (<span>expected †<em>ʔafolu</em></span>)</td>
 </tr>
@@ -1425,13 +1427,13 @@ cf. also:
 A word of more general reference, POc &ast;puaq, originally ‘fruit’, but generalised as a classifier for a wide range of more or less spherical objects, is sometimes used for eggs, but this may well be the result of repeated local extensions.
 
 ```
-NNG:      Gitua       pua                ‘egg’
-NNG:      Lukep(Pono) pua-na             ‘egg’
-PT:       Bwaidoga    fou                ‘egg’
-SES:      Arosi        hua i kua         ‘fowl’s egg’
-Pn:       Rennellese   hua               ‘fruit, berry, egg’
-Pn:       E Futunan   fua ʔi moa         ‘hen’s egg’
-Pn:       Maori        hua               ‘fruit, egg’
+  NNG:      Gitua       pua                ‘egg’
+  NNG:      Lukep(Pono) pua-na             ‘egg’
+  PT:       Bwaidoga    fou                ‘egg’
+  SES:      Arosi        hua i kua         ‘fowl’s egg’
+  Pn:       Rennellese   hua               ‘fruit, berry, egg’
+  Pn:       E Futunan   fua ʔi moa         ‘hen’s egg’
+  Pn:       Maori        hua               ‘fruit, egg’
 ```
 
 Despite the great variety in the form and construction of birds’ nests (note PMic &ast;fata ‘platform, nest’ from POc &ast;patar ‘platform’, vol.l, p.57 and p. 190), a common term can be reconstructed (sometimes stated as also applying to nests or dens of animals).
@@ -1911,21 +1913,21 @@ cf. also: Polynesian reflexes show ŋ for expected k:
 <tr>
 <td>Pn</td>
 <td>Maori</td>
-<td>toŋi</td>
+<td><i>toŋi</i></td>
 <td>
 '<span>peck, nibble</span>'</td>
 </tr>
 <tr>
 <td>Pn</td>
 <td>Nukuoro</td>
-<td>toŋi</td>
+<td><i>toŋi</i></td>
 <td>
 '<span>peck at</span>'</td>
 </tr>
 <tr>
 <td>Pn</td>
 <td>Samoan</td>
-<td>toŋi</td>
+<td><i>toŋi</i></td>
 <td>
 </td>
 </tr>
@@ -1937,6 +1939,7 @@ cf. also: Polynesian reflexes show ŋ for expected k:
 
 
 <a id="s-3"></a>
+
 ## 3. Bird names
 
 
@@ -1949,7 +1952,7 @@ It may be useful, nevertheless, to have some idea of what such a taxonomy would 
 
 <a id="p-283"></a>
 
-On the other hand, some Kalam taxa correspond to Linnaean groups larger than the genus, and some cut across the terminology altogether, recognizing convergent similarities: spsep refers both to the Mountain Pygmy Parrot (Micropsitta bruijtif) and the Pink-faced Nuthatch (Daphoenositta mirandct). sskl refers to both Whitehead’s Swiftlet (Collocalia whiteheadi) and the Pacific Swallow (Hirundo tahitica). (Cf. POc &ast;kabakabal in [§5.12](#s-5-12).)
+On the other hand, some Kalam taxa correspond to Linnaean groups larger than the genus, and some cut across the terminology altogether, recognizing convergent similarities: spsep refers both to the Mountain Pygmy Parrot (Micropsitta bruijtif) and the Pink-faced Nuthatch (Daphoenositta mirandct). sskl refers to both Whitehead’s Swiftlet (Collocalia whiteheadi) and the Pacific Swallow (Hirundo tahitica). (Cf. POc &ast;kabakabal in §5.12.)
 
 Most birds produce some sound audible to humans, whether territorial song, flocking calls or alarm cries, and often this is distinctive enough to be recognised as emblematic of the bird itself. The transcoding of bird vocalizations into human speech sounds is a universal phenomenon, and birds are probably onomatopoetically named more than any other class of living things. In theory this can pose an obstacle to the comparative method, if the independent application of an onomatopoetic name to the same bird in different languages produces pseudo-cognates. However, the more remotely related the two languages, the less likely such pairs of names are to follow regular sound correspondences. The approach taken here will be to accept exact cognate sets as genuine, but cases where there are repeated irregularities despite similarity of phonetic form will be taken as, at least, suspect for reconstruction purposes.
 
@@ -1959,6 +1962,7 @@ Below I present nearly 200 cognate sets, of which about 80 are attributed to Pro
 
 
 <a id="s-4"></a>
+
 ## 4. The domestic bird: Gallus gallus
 
 
@@ -2518,49 +2522,49 @@ cf. also: Possible borrowings from Polynesian include:
 <tr>
 <td>NCal</td>
 <td>Ajie</td>
-<td>meyɛ</td>
+<td><i>meyɛ</i></td>
 <td>
 </td>
 </tr>
 <tr>
 <td>Fij</td>
 <td>Bauan</td>
-<td>mō</td>
+<td><i>mō</i></td>
 <td>
 '<span>Sooty Crake, Porzana tabuensis</span>'</td>
 </tr>
 <tr>
 <td>Mic</td>
 <td>Kiribatese</td>
-<td>moa</td>
+<td><i>moa</i></td>
 <td>
 ; '<span>front, fore part</span>'</td>
 </tr>
 <tr>
 <td>Fij</td>
 <td>Rotuman</td>
-<td>moa</td>
+<td><i>moa</i></td>
 <td>
 ; '<span>young kao-kao</span>' (<span>see above</span>)</td>
 </tr>
 <tr>
 <td>NCal</td>
 <td>Tinrin</td>
-<td>meɔ</td>
+<td><i>meɔ</i></td>
 <td>
 </td>
 </tr>
 <tr>
 <td>Fij</td>
 <td>Wayan</td>
-<td>mō</td>
+<td><i>mō</i></td>
 <td>
 '<span>rail sp., probably Porzana tabuensis</span>'</td>
 </tr>
 <tr>
 <td>Yap</td>
 <td>Yapese</td>
-<td>moeʔ</td>
+<td><i>moeʔ</i></td>
 <td>
 </td>
 </tr>
@@ -2609,7 +2613,7 @@ cf. also:
 <tr>
 <td>Fij</td>
 <td>Rotuman</td>
-<td>ʔufa</td>
+<td><i>ʔufa</i></td>
 <td>
  (<span>borrowed from Polynesian source</span>)</td>
 </tr>
@@ -2620,6 +2624,7 @@ The male of the species is most commonly simply denoted by ‘male fowl’ (Mana
 
 
 <a id="s-5"></a>
+
 ## 5. Non-passerine land and fresh water birds
 
 
@@ -2627,7 +2632,8 @@ Though in species numbers they are roughly a third of the total, this group of f
 
 
 <a id="s-5-1"></a>
-## 5.1. Cassowaries (_Casuariidae_)
+
+### 5.1. Cassowaries (_Casuariidae_)
 
 
 A single species of this family of huge flightless birds, the Dwarf Cassowary (_Casuarius bennetti_), lives in the Oceanic homeland. Although cassowaries do not extend even into the Solomons, enough reflexes exist in languages of the NNG, PT and MM groups to support the reconstruction below. Attribution of such a form to POc is further supported by numerous cognates in languages to the west, e.g. Biak (SHWNG) (man)swar, Kaiwai (CMP) asawar (Anceaux 1961).
@@ -2736,7 +2742,8 @@ Figure 6.2    _Casuarius bennetti_, Dwarf Cassowary
 
 
 <a id="s-5-2"></a>
-## 5.2. Herons (_Ardeidae_)
+
+### 5.2. Herons (_Ardeidae_)
 
 
 The herons of the homeland include three species of large herons or egrets of the genus Egretta as well as the Green-backed Heron (Butorides striatus), the Nankeen Night Heron (Nycticorax caledonicus) and two bitterns (Ixobrychus spp,). Most cognate sets refer to the large and conspicuous Egretta herons, which may have been the basis for a generic term.
@@ -2965,7 +2972,7 @@ It appears that &ast;kao may have been a generic term for herons in PCP. Both Fi
 Both Polynesian Outlier names are presumably borrowed from SE Solomonic languages.
 
 ```
-TM:   Buma          ove(ne)       ‘Reef Heron, Egretta sacra’
+  TM:   Buma          ove(ne)       ‘Reef Heron, Egretta sacra’
 ```
 
 <table>
@@ -3132,14 +3139,14 @@ cf. also:
 <tr>
 <td>Fij</td>
 <td>Bauan</td>
-<td>belō</td>
+<td><i>belō</i></td>
 <td>
 '<span>Egretta sacra</span>'</td>
 </tr>
 <tr>
 <td>Fij</td>
 <td>Rotuman</td>
-<td>pelō</td>
+<td><i>pelō</i></td>
 <td>
 '<span>Egretta sacra</span>'</td>
 </tr>
@@ -3189,21 +3196,21 @@ cf. also:
 <tr>
 <td>NCV</td>
 <td>Labo</td>
-<td>nə-ᵐbunuoj</td>
+<td><i>nə-ᵐbunuoj</i></td>
 <td>
 '<span>heron</span>'</td>
 </tr>
 <tr>
 <td>NCV</td>
 <td>Letemboi</td>
-<td>na-liᵐbanua</td>
+<td><i>na-liᵐbanua</i></td>
 <td>
 '<span>heron</span>'</td>
 </tr>
 <tr>
 <td>NCV</td>
 <td>Southwest Bay</td>
-<td>(li)ᵐbanui</td>
+<td><i>(li)ᵐbanui</i></td>
 <td>
 '<span>heron</span>'</td>
 </tr>
@@ -3348,7 +3355,7 @@ cf. also:
 <tr>
 <td>Pn</td>
 <td>Rennellese</td>
-<td>kagau</td>
+<td><i>kagau</i></td>
 <td>
 '<span>Egretta sacra</span>'</td>
 </tr>
@@ -3438,14 +3445,14 @@ cf. also: Compare, with unexpected referents:
 <tr>
 <td>Pn</td>
 <td>Niuean</td>
-<td>motuku</td>
+<td><i>motuku</i></td>
 <td>
 ; '<span>Bristle-thighed Curlew, <em>Numenius tahitiensis</em></span>'</td>
 </tr>
 <tr>
 <td>Pn</td>
 <td>Rennellese</td>
-<td>matuku</td>
+<td><i>matuku</i></td>
 <td>
 '<span>a kind of <em>gupe</em> pigeon, perhaps the female</span>'</td>
 </tr>
@@ -3570,7 +3577,8 @@ Compared with extensive cognate sets for the Egretta herons, only two small sets
 
 
 <a id="s-5-3"></a>
-## 5.3. Ducks (_Anatidae_)
+
+### 5.3. Ducks (_Anatidae_)
 
 
 The Pacific Black Duck (Anas superciliosa) is the most common duck of the Oceanic region, but the Grey Teal (Anas gibberifrons) is also present in the homeland, as are two species of Whistling Ducks (Dendrocygna spp,), and various other species of this family are known as migrants. There is no evidence of domestication of any duck species in pre-European Oceania. Many languages use a separate lexical item for the introduced domesticates, as Samoanpato ‘domestic duck’ (from Spanish), toloa ‘wild duck’. Very few descriptions offer glosses more precise than ‘duck’ or ‘wild duck’. However, Idunageluluva is explicitly stated to cover both species of Anas mentioned above, and Nelemwa kerorop includes both these as well as the Mallard, _A. platyrhynchos_). There may be a terminological agreement between Caaac and Fijian (Lomaivitilevu) in which the Whistling Duck is described as ‘red duck’ (Caaac rilaŋ mia, Fijian ga-damu).
@@ -3687,7 +3695,7 @@ Figure 6.4   Anas superciliosci, Pacific Black Duck
 The following possible Maori reflex refers to a different waterfowl, but the formal development would be regular. (The grebe is presently found only in the South Island, where Maori &ast;/7 > ŋ
 
 ```
-Pn:      Maori (South Island) kd(mana)            Great Crested Grebe, Podiceps cristatus
+  Pn:      Maori (South Island) kd(mana)            Great Crested Grebe, Podiceps cristatus
 ```
 
 The following reconstruction is a metathetic variant of the above, apparently a local development in SE Solomonic and Micronesian.
@@ -3753,7 +3761,7 @@ cf. also: Probably borrowed from a SE Solomonic language:
 <tr>
 <td>MM</td>
 <td>Marovo</td>
-<td>araŋa</td>
+<td><i>araŋa</i></td>
 <td>
 '<span>Anas superciliosa</span>'</td>
 </tr>
@@ -3876,7 +3884,7 @@ cf. also: A probable Polynesian borrowing:
 <tr>
 <td>TM</td>
 <td>Buma</td>
-<td>teloloa</td>
+<td><i>teloloa</i></td>
 <td>
 '<span>Anas superciliosa</span>'</td>
 </tr>
@@ -3886,16 +3894,16 @@ cf. also: A probable Polynesian borrowing:
 A number of other Polynesian and Fijian languages have bird names formally cognate with the above, but referring to shore and sea birds. (A number of these innovations are in the languages of atolls, where ducks are rare or non-occurrent owing to the absence of surface fresh water.):
 
 ```
-Fij:    Kadavu         toro, taro      ‘_Sula spp._’
-Fij:    Wayan          toro            ‘probably Frigatebird, _Fregata spp._’
-Pn:     Nukuria        koroa           ‘Whimbrel, _Numenius phaeopus_’
-Pn:     Takuu          taroa           ‘_Numenius phaeopus_’
-Pn:     Luangiua       kaloa(kule)     ‘Bar-tailed Godwit, Limosa lapponica’
-Pn:     Sikaiana       toloa           ‘_Numenius phaeopus_, Limosa lapponica
-Pn:     Rennellese     togoa           ‘Great Egret, Egretta alba’
-Pn:     Tuamotuan      toroa           ‘booby, _Sula sp._’
-Pn:     Rarotongan     toroa           ‘booby, _Sula spp._’
-Pn:     Maori          toroa           ‘albatross, _Diomedea spp._’
+    Fij:    Kadavu         toro, taro      ‘_Sula spp._’
+    Fij:    Wayan          toro            ‘probably Frigatebird, _Fregata spp._’
+    Pn:     Nukuria        koroa           ‘Whimbrel, _Numenius phaeopus_’
+    Pn:     Takuu          taroa           ‘_Numenius phaeopus_’
+    Pn:     Luangiua       kaloa(kule)     ‘Bar-tailed Godwit, Limosa lapponica’
+    Pn:     Sikaiana       toloa           ‘_Numenius phaeopus_, Limosa lapponica
+    Pn:     Rennellese     togoa           ‘Great Egret, Egretta alba’
+    Pn:     Tuamotuan      toroa           ‘booby, _Sula sp._’
+    Pn:     Rarotongan     toroa           ‘booby, _Sula spp._’
+    Pn:     Maori          toroa           ‘albatross, _Diomedea spp._’
 ```
 
 
@@ -3932,19 +3940,20 @@ Pn:     Maori          toroa           ‘albatross, _Diomedea spp._’
 Maori applies formally cognate terms to two quite different species:
 
 ```
-Pn:    Maori         mokorā       ‘New Zealand Robin, Petroica australis (female)’
-Pn:    Maori         makorā       ‘Silver Gull, Larus novaehollandiae’
+ Pn:    Maori         mokorā       ‘New Zealand Robin, Petroica australis (female)’
+ Pn:    Maori         makorā       ‘Silver Gull, Larus novaehollandiae’
 ```
 
 A strikingly resemblant form occurs in Motu. The only known source of Polynesian loanwords here would be 19th century missionaries from the Cook Islands, but it seems odd to have a wild species named in this way.
 
 ```
-PT:     Motu             mokoraha         ‘Wandering Whistling Duck, Dendrocygna areuata’
+    PT:     Motu             mokoraha         ‘Wandering Whistling Duck, Dendrocygna areuata’
 ```
 
 
 <a id="s-5-4"></a>
-## 5.4. Diurnal raptors (_Pandionidae_, _Accipitridae_, _Falconidae_)
+
+### 5.4. Diurnal raptors (_Pandionidae_, _Accipitridae_, _Falconidae_)
 
 
 These three families are treated together because of obvious similarities in appearance and habits, as well as overlap in naming practices. They are well represented in the homeland, with at least ten species. Roughly from largest to smallest, they include the White-bellied Sea Eagle (Haliaeetus leucogaster), the Osprey (Pandion haliaetus), several goshawks of genus Accipiter', the Brahminy Kite (Haliastur indus), the Black Honey Buzzard (Henicopernis infuscata), the Crested Baza (Aviceda subcristata), and probably both the Peregrine Falcon (Falcoperegrinus) and the Oriental Hobby (Falco severus).
@@ -4016,7 +4025,7 @@ cf. also:
 <tr>
 <td>MM</td>
 <td>Nehan</td>
-<td>targau</td>
+<td><i>targau</i></td>
 <td>
 '<span>Red-footed Booby, Sula sula</span>'</td>
 </tr>
@@ -4101,7 +4110,7 @@ The fish-eagle (Haliaeetus) was probably the largest flying creature known to th
 The following is formally connected, but from an area with no eagles—perhaps still referring to the largest bird in the area:
 
 ```
-Mic:    Puluwatese mallap            ‘frigate bird’
+   Mic:    Puluwatese mallap            ‘frigate bird’
 ```
 
 Two other sets are derived from the bird generic &ast;manuk, though the second element is less easy to identify.
@@ -4505,7 +4514,7 @@ cf. also:
 <tr>
 <td>Pn</td>
 <td>Rennellese</td>
-<td>tava</td>
+<td><i>tava</i></td>
 <td>
 '<span>Australian Goshawk, Accipiterfasciatus</span>' (<span>borrowed from a SE Solomonic source</span>)</td>
 </tr>
@@ -4601,7 +4610,7 @@ cf. also:
 
 
 
-The following may be cognate with PSOc &ast;mala ([§5.4.2](#s-5-4) on p.303):
+The following may be cognate with PSOc &ast;mala (§5.4.2 on p.303):
 
 <table>
 <tr>
@@ -4746,7 +4755,7 @@ cf. also:
 <tr>
 <td>Fij</td>
 <td>Wayan</td>
-<td>kītu</td>
+<td><i>kītu</i></td>
 <td>
 '<span>swamphen, Porphyrioporphyrio</span>'</td>
 </tr>
@@ -4804,21 +4813,21 @@ cf. also:
 <tr>
 <td>NNG</td>
 <td>Adzera</td>
-<td>ŋasŋas</td>
+<td><i>ŋasŋas</i></td>
 <td>
 '<span>type of eagle</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
 <td>Gela</td>
-<td>kisokiso</td>
+<td><i>kisokiso</i></td>
 <td>
 '<span>bird sp. in the forest</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
 <td>Takia</td>
-<td>ŋesaŋes</td>
+<td><i>ŋesaŋes</i></td>
 <td>
 '<span>hawk</span>'</td>
 </tr>
@@ -5153,14 +5162,14 @@ cf. also: Borrowed from a North-Central Vanuatu language:
 <tr>
 <td>Pn</td>
 <td>Ifira-Mele</td>
-<td>mala</td>
+<td><i>mala</i></td>
 <td>
 '<span>Circus approximans</span>'</td>
 </tr>
 <tr>
 <td>Pn</td>
 <td>Ifira-Mele</td>
-<td>mala-pʷēriki</td>
+<td><i>mala-pʷēriki</i></td>
 <td>
 '<span>Peregrine Falcon, Falcoperegrinus</span>'</td>
 </tr>
@@ -5376,7 +5385,8 @@ The following could be an irregular development of &ast;mala, the languages show
 
 
 <a id="s-5-5"></a>
-## 5.5. Megapodes (_Megapodiidae_)
+
+### 5.5. Megapodes (_Megapodiidae_)
 
 
 Megapodes or scrub fowl (_Megapodius spp._) are found from the homeland south to Vanuatu and as far east as the island of Niuafo’ou in Tonga. The representative in the homeland is the Bismarck Scrub Fowl (_M. eremitd_). All three of the name-sets below may be of imitative origin, given the bird’s two-syllable calls ending in [au]-like sounds. (Hadden (2004a:78) gives 'paa-atd, ‘keeawau keeawuh’, ‘keereow keerow’ and ‘kiau kiaiV as representations of its calls.)
@@ -5706,7 +5716,8 @@ The following set shows many irregularities suggestive of independent onomatopoe
 
 
 <a id="s-5-6"></a>
-## 5.6. Pheasants and quails (_Phasianidae_)
+
+### 5.6. Pheasants and quails (_Phasianidae_)
 
 
 Apart from the domestic fowl, the only representative of this family in the homeland is the Indian Blue Quail (Coturnix chinensis). In the following comparison, a POc reconstruction is justified if the Mangap and Tolai forms are regarded as continuing the PAn etymon.
@@ -5749,7 +5760,8 @@ Figure 6.9   Porphyria porphyrio, Purple Swamphen
 
 
 <a id="s-5-7"></a>
-## 5.7. Rails (_Rallidae_)
+
+### 5.7. Rails (_Rallidae_)
 
 
 The numerous rails of Oceania include the very widespread Purple Swamphen (Porphyrio porphyrio), easily recognised by its large size and red forehead. Among the smaller species are the Buff-banded Rail (Rcillus philippensis) and White-browed Rail (Porzana cinered), which occur throughout much of the Oceanic region, and in the homeland three others of the genus Rallus, as well as the Bare-eyed Rail (Eulabeornisplumbeiventris), Red-necked Crake (Rallinci tricolor), and Rufous-tailed Moorhen (Amaurornis olivaceus).
@@ -6008,8 +6020,8 @@ The similarity is enhanced by two SE Solomonic languages in which the word, whil
 <a id="p-309"></a>
 
 ```
-SES:   Gela            bilake, bulake ‘swamp hen’
-SES:   Malango         bulaki          ‘Porphyrio porphyria’
+   SES:   Gela            bilake, bulake ‘swamp hen’
+   SES:   Malango         bulaki          ‘Porphyrio porphyria’
 ```
 
 A group of New Caledonian names for the smaller rail echo the canonical form of &ast;b walaRe and &ast;b (v)olake’.
@@ -6215,14 +6227,14 @@ cf. also: Two Outlier languages apply a possible reflex of this word to a differ
 <tr>
 <td>Pn</td>
 <td>Kapingamarangi</td>
-<td>moeho</td>
+<td><i>moeho</i></td>
 <td>
 '<span><em>Aplonis opaca</em></span>'</td>
 </tr>
 <tr>
 <td>Pn</td>
 <td>Nukuoro</td>
-<td>moso</td>
+<td><i>moso</i></td>
 <td>
 '<span>Micronesian Starling, <em>Aplonis opaca</em></span>'</td>
 </tr>
@@ -6236,7 +6248,8 @@ The Nukuoro name looks like a regular development of PPn &ast;moso, but the Kapi
 
 
 <a id="s-5-8"></a>
-## 5.8. Pigeons and doves (_Columbidae_)
+
+### 5.8. Pigeons and doves (_Columbidae_)
 
 
 This family is among the most richly elaborated in the Oceanic realm. Almost every island has at least one or two representatives, and the Proto Oceanic speakers may have been acquainted with twenty or more species. The most widely distributed _Columbidae_ belong to two genera: the Imperial Pigeons (Ducula spp,), and the much smaller Fruit Doves (Ptilinopus spp,). Other genera represented include Gymnophaps, Columba, Macropygia, Reinward- toena, Chalcophaps, Gallicolumba, Henicophaps, and the shaggy-plumaged Nicobar Pigeon, Caloenas nicobarica.
@@ -6790,28 +6803,28 @@ cf. also:
 <tr>
 <td>MM</td>
 <td>Kia</td>
-<td>babaluhu</td>
+<td><i>babaluhu</i></td>
 <td>
 '<span>pigeon</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
 <td>Maringe</td>
-<td>balʰu</td>
+<td><i>balʰu</i></td>
 <td>
 '<span>pigeon (generic)</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
 <td>Roviana</td>
-<td>baruku</td>
+<td><i>baruku</i></td>
 <td>
 '<span>fruit pigeon</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
 <td>Simbo</td>
-<td>ba(r)ɣu</td>
+<td><i>ba(r)ɣu</i></td>
 <td>
 '<span>pigeon sp.</span>'</td>
 </tr>
@@ -6874,7 +6887,7 @@ cf. also: Probable borrowing from a North Vanuatu language:
 <tr>
 <td>Pn</td>
 <td>Pileni</td>
-<td>nu-mbona</td>
+<td><i>nu-mbona</i></td>
 <td>
 '<span>pigeon</span>'</td>
 </tr>
@@ -6884,15 +6897,15 @@ cf. also: Probable borrowing from a North Vanuatu language:
 Probably a local development of the above are the following Solomons forms reflecting &ast;boRa.
 
 ```
-MM:    Nehan         bor      ‘Grey-breasted Quail Dove, Gallicolumba beccarii) and ground doves generally’
-MM:    Maringe       bora     ‘variety of balhu [pigeon] found in forest’
-MM:    Kia           bora     ‘Knob-billed Fruit Dove, Ptilinopus insolitus’
-SES:   Bugotu        bora     ‘pigeon’
-SES:   Gela          bola     ‘pigeon spp.’
-SES:   To’aba’ita    bola     ‘pigeon, probably _Ducula sp._’
-SES:   Kwara’ae      bola     ‘pigeon like kurukuru but lives inland’
-SES:   Kwaio         bola     ‘pigeon’
-SES:   ’Are’are      pora     ‘a pigeon’
+    MM:    Nehan         bor      ‘Grey-breasted Quail Dove, Gallicolumba beccarii) and ground doves generally’
+    MM:    Maringe       bora     ‘variety of balhu [pigeon] found in forest’
+    MM:    Kia           bora     ‘Knob-billed Fruit Dove, Ptilinopus insolitus’
+    SES:   Bugotu        bora     ‘pigeon’
+    SES:   Gela          bola     ‘pigeon spp.’
+    SES:   To’aba’ita    bola     ‘pigeon, probably _Ducula sp._’
+    SES:   Kwara’ae      bola     ‘pigeon like kurukuru but lives inland’
+    SES:   Kwaio         bola     ‘pigeon’
+    SES:   ’Are’are      pora     ‘a pigeon’
 ```
 
 
@@ -7036,21 +7049,21 @@ cf. also: Probable Polynesian loans:
 <tr>
 <td>TM</td>
 <td>Buma</td>
-<td>(te)lupe</td>
+<td><i>(te)lupe</i></td>
 <td>
 '<span>pigeon spp.</span>'</td>
 </tr>
 <tr>
 <td>Mic</td>
 <td>Kiribatese</td>
-<td>rupe</td>
+<td><i>rupe</i></td>
 <td>
 '<span>Micronesian Pigeon, Ducula oceanica</span>'</td>
 </tr>
 <tr>
 <td>Fij</td>
 <td>Rotuman</td>
-<td>rupe(vao)</td>
+<td><i>rupe(vao)</i></td>
 <td>
 '<span>bird sp.</span>' (<span>vao ‘forest’</span>)</td>
 </tr>
@@ -7959,7 +7972,7 @@ cf. also:
 <tr>
 <td>NNG</td>
 <td>Gedaged</td>
-<td>kududuk</td>
+<td><i>kududuk</i></td>
 <td>
 '<span>bird like small dove, bluish green</span>'</td>
 </tr>
@@ -8025,21 +8038,21 @@ cf. also:
 <tr>
 <td>SES</td>
 <td>Bauro</td>
-<td>kuvʷau</td>
+<td><i>kuvʷau</i></td>
 <td>
 '<span>Red-knobbed Pigeon, Ducula rubricera</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
 <td>Bauro</td>
-<td>kuvʷau (mano)</td>
+<td><i>kuvʷau (mano)</i></td>
 <td>
 '<span>White-throated Pigeon, Columba vitiensis</span>'</td>
 </tr>
 <tr>
 <td>Pn</td>
 <td>Rennellese</td>
-<td>kiou</td>
+<td><i>kiou</i></td>
 <td>
 '<span>small <em>Ducula sp.</em></span>' (<span>borrowed from a SES language</span>)</td>
 </tr>
@@ -8161,7 +8174,7 @@ cf. also:
 <tr>
 <td>MM</td>
 <td>Tolai</td>
-<td>bilul</td>
+<td><i>bilul</i></td>
 <td>
 '<span>Nicobar Pigeon, Caloenas nicobarica</span>'</td>
 </tr>
@@ -8172,7 +8185,8 @@ Possibly cognate are forms in SHWNG languages (Ansus mambaru, Biak mambruk) refe
 
 
 <a id="s-5-9"></a>
-## 5.9. Parrots (_Loriidae_, _Cacatuidae_, _Psittacidae_)
+
+### 5.9. Parrots (_Loriidae_, _Cacatuidae_, _Psittacidae_)
 
 
 The three families united here are represented by nine diverse genera in the homeland. By far the largest bird, not confusible with any other, is the Blue-eyed Cockatoo (Cacatua oph- thalmica). The large Eclectus Parrot (Eclectus roralus) shows striking sexual dimorphism, with males (green) and females (red) often lexically distinguished. The Rainbow Lory (Tri- choglossus haematodus) is probably the most conspicuous and widespread parrot in western Oceania. Among other middle-sized parrots are the Cardinal Lory (Chalcopsitta cardinalis).: the Purple-bellied Lory (Lorins hypoinochrous) and the Singing Parrot (Geoffroyus hetero- elitus'). Smaller parrots include two Lorikeets of the genus Charmosyna, which, along with the closely related genus Vini, are found as far as eastern Polynesia. Smallest of all are the Pygmy Parrots of genus Micropsitta and the Orange-fronted Hanging Parrot (Loriculus aurantiifrons). For the last (which is found no further east than New Guinea) not a single name was found in any of the sources.
@@ -8278,14 +8292,14 @@ cf. also: Compare perhaps:
 <tr>
 <td>MM</td>
 <td>Maringe</td>
-<td>veɣa</td>
+<td><i>veɣa</i></td>
 <td>
 '<span>Cacatua ducorps</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
 <td>Nduke</td>
-<td>vakvoa</td>
+<td><i>vakvoa</i></td>
 <td>
 '<span>Ducorps Cockatoo, Cacatua ducorps</span>'</td>
 </tr>
@@ -8870,21 +8884,21 @@ cf. also:
 <tr>
 <td>MM</td>
 <td>Maringe</td>
-<td>sivoro</td>
+<td><i>sivoro</i></td>
 <td>
 '<span>Trichoglossus haematodus</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
 <td>Nduke</td>
-<td>sivoro</td>
+<td><i>sivoro</i></td>
 <td>
 '<span>Yellow-bibbed Lory, Lorius chlorocercus and Duchess Lorikeet, Charmosyna margarethae</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
 <td>Roviana</td>
-<td>sivoro</td>
+<td><i>sivoro</i></td>
 <td>
 '<span>parrot sp. like rosella</span>'</td>
 </tr>
@@ -9148,21 +9162,21 @@ cf. also:
 <tr>
 <td>Mic</td>
 <td>Mokilese</td>
-<td>cerēt</td>
+<td><i>cerēt</i></td>
 <td>
 '<span>Trichoglossus rubiginosus</span>'</td>
 </tr>
 <tr>
 <td>Pn</td>
 <td>Nukuoro</td>
-<td>serete</td>
+<td><i>serete</i></td>
 <td>
 '<span>parakeet</span>'</td>
 </tr>
 <tr>
 <td>Mic</td>
 <td>Ponapean</td>
-<td>serēt</td>
+<td><i>serēt</i></td>
 <td>
 '<span>Ponape Lory, Trichoglossus ruhiginosus</span>'</td>
 </tr>
@@ -9373,7 +9387,7 @@ cf. also: Probable loanword from a North-Central Vanuatu language:
 <tr>
 <td>Pn</td>
 <td>Tikopia</td>
-<td>leŋa</td>
+<td><i>leŋa</i></td>
 <td>
 '<span>Duchess Lorikeet, Charmosyna margarethae, also Cardinal Honeyeater, <em>Myzomela cardinalis</em></span>'</td>
 </tr>
@@ -9526,7 +9540,7 @@ cf. also: A loan from a Southeast Solomonic language:
 <tr>
 <td>Pn</td>
 <td>Rennellese</td>
-<td>ɣinei</td>
+<td><i>ɣinei</i></td>
 <td>
 '<span>Finsch’s Pygmy Parrot, Micropsitta finschii</span>'</td>
 </tr>
@@ -9632,7 +9646,7 @@ cf. also: Polynesian borrowing (the species is a recent introduction from the Au
 <tr>
 <td>Mic</td>
 <td>Kiribatese</td>
-<td>kura</td>
+<td><i>kura</i></td>
 <td>
 '<span>Kuhl’s Lory, Vini kuhlii</span>'</td>
 </tr>
@@ -9642,16 +9656,16 @@ cf. also: Polynesian borrowing (the species is a recent introduction from the Au
 The renown of this parrot’s feathers has produced a range of extended meanings, beyond bird names, as in PPn &ast;kula ‘(bright) red’ and the following:
 
 ```
-Pn:       Tikopia      kura          ‘honored; of ritual value’
-Pn:       W Uvean      kula          ‘flying fox fur’
-Pn:       Pukapukan    (wulu) kula   ‘red feathers from western islands’ (wulu ‘feathers’)
-Pn:       Rapanui      kura          ‘short, multi-coloured feathers of certain birds’
-Pn:       Marquesan    kuwa          ‘red, applied to feathers, cloth etc. imported to the
-islands, also to the scarlet berries or peas used in
-their ornaments’ (Crook et al. 1799)
-Pn:    Tahitian     ʔura            ‘red feathers, formerly sacred to the gods’
-Pn:    Maori        kura            ‘red feathers; ornamented with feathers; precious,
-treasure’
+   Pn:       Tikopia      kura          ‘honored; of ritual value’
+   Pn:       W Uvean      kula          ‘flying fox fur’
+   Pn:       Pukapukan    (wulu) kula   ‘red feathers from western islands’ (wulu ‘feathers’)
+   Pn:       Rapanui      kura          ‘short, multi-coloured feathers of certain birds’
+   Pn:       Marquesan    kuwa          ‘red, applied to feathers, cloth etc. imported to the
+                                        islands, also to the scarlet berries or peas used in
+                                        their ornaments’ (Crook et al. 1799)
+   Pn:    Tahitian     ʔura            ‘red feathers, formerly sacred to the gods’
+   Pn:    Maori        kura            ‘red feathers; ornamented with feathers; precious,
+                                       treasure’
 ```
 
 
@@ -9659,7 +9673,8 @@ treasure’
 
 
 <a id="s-5-10"></a>
-## 5.10. Cuckoos (_Cuculidae_)
+
+### 5.10. Cuckoos (_Cuculidae_)
 
 
 Eight species of this family are recorded from the homeland, two as seasonal visitors. They include parasitic cuckoos of the genera Cuculus, Cacomantis, Chalcites, Urodynamis, Urody- namis and Scythrops, and two Coucals of the genus Centropus. Names recorded, however, are far fewer than for the parrots with a comparable number of species. Only one small cognate set of Proto Oceanic scope has been found.
@@ -9890,12 +9905,13 @@ The Maori reflex above refers to a bird which, though not closely related, has a
 Although Micronesian borrowing would not be expected, the similarity of the following is intriguing:
 
 ```
-Pn:       Mangarevan pakanei        ‘name of a bird mentioned by Laval, possibly the cuckoo’ (Hiroa 1938)
+   Pn:       Mangarevan pakanei        ‘name of a bird mentioned by Laval, possibly the cuckoo’ (Hiroa 1938)
 ```
 
 
 <a id="s-5-11"></a>
-## 5.11. Owls (_Tytonidae_, _Strigidae_)
+
+### 5.11. Owls (_Tytonidae_, _Strigidae_)
 
 
 The Barn Owls (_Tytonidae_) and Typical Owls (_Strigidae_) are each represented in Oceania by a single genus. The Barn Owl (Tyto alba) is probably the most widespread owl of the Oceanic region. In the homeland it coexists with the endemic New Britain Barn Owl (Tyto aurantia). There are also two Hawk Owls of the genus Ninox. While the voice of the Barn Owl is described as a screech, Typical Owls (like pigeons) have calls whose acoustic profile suggests the low second formant of [u]-type vowels. The Solomon Islands Hawk Owl (Ninox jacquinoti). for example, has a call described as ‘’Kuurrroo’ with rolled ‘r” (Hadden 2004a: 155). The prevalence of such vowels in the first three cognate sets places them under a certain degree of uncertainty. Note, however, that reflexes of &ast;lulu are found mostly in areas where the Barn Owl is the only owl present, and are therefore unlikely to be imitative.
@@ -10011,14 +10027,14 @@ cf. also:
 <tr>
 <td>MM</td>
 <td>Kia</td>
-<td>kikituru</td>
+<td><i>kikituru</i></td>
 <td>
 '<span>owl</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
 <td>Mangap</td>
-<td>uloto</td>
+<td><i>uloto</i></td>
 <td>
 '<span>owl</span>'</td>
 </tr>
@@ -10074,14 +10090,14 @@ cf. also:
 <tr>
 <td>MM</td>
 <td>Halia</td>
-<td>tutul</td>
+<td><i>tutul</i></td>
 <td>
 '<span>Fearful Owl, Nesasio solomonensis</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
 <td>Tinputz</td>
-<td>toruruen</td>
+<td><i>toruruen</i></td>
 <td>
 '<span>owl</span>'</td>
 </tr>
@@ -10174,7 +10190,7 @@ cf. also: A Polynesian borrowing:
 <tr>
 <td>Fij</td>
 <td>Rotuman</td>
-<td>ruru</td>
+<td><i>ruru</i></td>
 <td>
 '<span>owl spp</span>'</td>
 </tr>
@@ -10184,7 +10200,7 @@ cf. also:
 <tr>
 <td>TM</td>
 <td>Buma</td>
-<td>e-luro</td>
+<td><i>e-luro</i></td>
 <td>
 </td>
 </tr>
@@ -10196,20 +10212,20 @@ cf. also:
 
 Figure 6.13     Tyto alba, Barn Owl
 
-An unusually large number of Polynesian bird names reflect &ast;lulu but are applied to various seabirds (compare &ast;toloa, [§5.3](#s-5-3)):
+An unusually large number of Polynesian bird names reflect &ast;lulu but are applied to various seabirds (compare &ast;toloa, §5.3):
 
 ```
-Pn:    Tuvalu   lulu                ‘Phoenix Petrel, _Pterodroma alba_’
-Pn:    Rapanui ruru                 ‘Giant Petrel, Macronectes giganteus’
-Pn:    Tahitian ruro                ‘Tahiti Kingfisher, _Halcyon venerata_’
-Pn:    Manihiki ruru                ‘large sea bird sp. with hooked bill’
-Pn:    Maori    ruru-tdiko          ‘Black Petrel, Procellariaparkinsoni’
+  Pn:    Tuvalu   lulu                ‘Phoenix Petrel, _Pterodroma alba_’
+  Pn:    Rapanui ruru                 ‘Giant Petrel, Macronectes giganteus’
+  Pn:    Tahitian ruro                ‘Tahiti Kingfisher, _Halcyon venerata_’
+  Pn:    Manihiki ruru                ‘large sea bird sp. with hooked bill’
+  Pn:    Maori    ruru-tdiko          ‘Black Petrel, Procellariaparkinsoni’
 ```
 
 And borrowed from Polynesian:
 
 ```
-Mic: Kiribati      ruru             ‘_Pterodroma alba_’
+  Mic: Kiribati      ruru             ‘_Pterodroma alba_’
 ```
 
 There is at present an owl-free area in Eastern Polynesia, which may account for the maritime application of some of these words. However, owls and petrels have in common that they are seldom seen, and mainly known by their calls at night. Spenneman (2004:149) notes that licemluao, the present Marshallese term for the female of the Short-eared Owl (Asio flam- meus) was given by an earlier source for a type of petrel. (The name is probably analysable as /z- ‘feminine prefix’ + ? + mu‘a ‘cry’ + o ‘oh!’.)
@@ -10416,10 +10432,11 @@ There is at present an owl-free area in Eastern Polynesia, which may account for
 
 
 <a id="s-5-12"></a>
-## 5.12. Swifts and swallows (_Apodidae_, _Hemiprocnidae_, _Hirundinidae_)
+
+### 5.12. Swifts and swallows (_Apodidae_, _Hemiprocnidae_, _Hirundinidae_)
 
 
-These three groups are closely allied in general appearance and habits and rarely distinguished terminologically. The swiftlets are familiar birds of garden areas throughout much of Oceania. The most common species noted are the White-rumped Swiftlet (Aerodramus spodiopygius), Uniform Swiftlet (_A. vanikorensis_) and White-bellied Swiftlet (Collocalia esculenta). These are not in general lexically distinguished. The few terms recorded for the Pacific Swallow (Hirundo lahitica) and the even fewer for the Whiskered Tree-swift (Hemiprocne mystacea) are often lexically associated with those for the Swiftlets, and where they are not, they do not support any independently reconstructible term. These birds are also terminologically linked with small insectivorous bats: SE Ambrym (NCV) avæp ‘any small bat; swiftlet’; E Futunan pekapeka ‘White-rumped Swiftlet’,pekapeka saʔi ‘small bat sp.’ (see ch.5, [§2.9](#s-2-9)).
+These three groups are closely allied in general appearance and habits and rarely distinguished terminologically. The swiftlets are familiar birds of garden areas throughout much of Oceania. The most common species noted are the White-rumped Swiftlet (Aerodramus spodiopygius), Uniform Swiftlet (_A. vanikorensis_) and White-bellied Swiftlet (Collocalia esculenta). These are not in general lexically distinguished. The few terms recorded for the Pacific Swallow (Hirundo lahitica) and the even fewer for the Whiskered Tree-swift (Hemiprocne mystacea) are often lexically associated with those for the Swiftlets, and where they are not, they do not support any independently reconstructible term. These birds are also terminologically linked with small insectivorous bats: SE Ambrym (NCV) avæp ‘any small bat; swiftlet’; E Futunan pekapeka ‘White-rumped Swiftlet’,pekapeka saʔi ‘small bat sp.’ (see ch.5, §2.9).
 
 
 <a id="p-334"></a>
@@ -10535,7 +10552,7 @@ cf. also: A probable borrowing from a North Vanuatu language, with metathesis (c
 <tr>
 <td>Pn</td>
 <td>Tikopia</td>
-<td>paka(lili)</td>
+<td><i>paka(lili)</i></td>
 <td>
 '<span>Uniform Swiftlet, Aerodramus vanikorensis</span>'</td>
 </tr>
@@ -10545,21 +10562,21 @@ cf. also:
 <tr>
 <td>PT</td>
 <td>Iduna</td>
-<td>(manu) yayabama</td>
+<td><i>(manu) yayabama</i></td>
 <td>
 '<span>White-bellied Swiftlet, Collocalia esculenta</span>'</td>
 </tr>
 <tr>
 <td>SV</td>
 <td>Sye</td>
-<td>ni-mpem</td>
+<td><i>ni-mpem</i></td>
 <td>
 '<span>Aerodramus spodiopygius</span>'</td>
 </tr>
 <tr>
 <td>SV</td>
 <td>Ura</td>
-<td>n-ibem</td>
+<td><i>n-ibem</i></td>
 <td>
 '<span>white-rumped swiftlet</span>'</td>
 </tr>
@@ -10798,7 +10815,8 @@ Figure 6.14   Hemiprocne mystacea, Whiskered Tree-swift
 
 
 <a id="s-5-13"></a>
-## 5.13. Kingfishers (_Alcedinidae_)
+
+### 5.13. Kingfishers (_Alcedinidae_)
 
 
 Ten species of Kingfisher are recorded for the homeland, half of them in the genus Halcyon, which extends widely through Oceania. Particularly widespread are the White-collared Kingfisher (_H. chloris_), the Sacred Kingfisher (_H. sanetd_) and the White-headed Kingfisher (_H. saiirophaga_). Other kingfishers of the homeland include the very large White-tailed Kingfisher (Tanysiptera sylvia), and the small birds of genera Ceyx arx&Alcedo. A number of good cognate sets exist, but assignment to species is very problematic. The relatively few terms for non-Halcyon species do not form any useful cognate sets. Blust (2002:113) compares POc &ast;(sj)iko with PMP &ast;cikep ‘catch with hands’.
@@ -10994,7 +11012,7 @@ cf. also: A probable borrowing from a Southeast Solomonic language:
 <tr>
 <td>Pn</td>
 <td>Rennellese</td>
-<td>liɣo</td>
+<td><i>liɣo</i></td>
 <td>
 '<span><em>Halcyon chloris</em></span>'</td>
 </tr>
@@ -11009,9 +11027,9 @@ Figure 6.15     _Halcyon chloris_, White-collared Kingfisher
 This word appears to have been reshaped in Polynesian to PPn &ast;tiko-tara, a compound analysable as ‘defecate’ + ‘end of house’. Some outliers have returned to a historically earlier form through non-Pn influence. The Bauan Fijian word for kingfisher has a general resemblance to the Polynesian &ast;tikotara forms, but cannot be formally reconciled with them; more exact agreement is found in the first part of the word sikorere, though with slightly deviant reference:
 
 ```
-Fij:    Bauan         seðala           ‘_Halcyon spp._’
-sikorere         ‘White-breasted Wood Swallow, Artamus
-leucorhynchus’
+   Fij:    Bauan         seðala           ‘_Halcyon spp._’
+                         sikorere         ‘White-breasted Wood Swallow, Artamus
+                                          leucorhynchus’
 ```
 
 The following two sets are likely to be at least influenced by imitation of the voice of Halcyon kingfishers, represented as ki-ki-ki-ki-ki-i-i-ee (Watling 2004:137).
@@ -11235,7 +11253,8 @@ The following two sets are likely to be at least influenced by imitation of the 
 
 
 <a id="s-5-14"></a>
-## 5.14. Rollers (_Coraciidae_)
+
+### 5.14. Rollers (_Coraciidae_)
 
 
 The single species in this family in the Oceanic homeland, the Dollar Bird (Eurystomus orientalist can be associated with two small cognate sets, though there are problems of identification.
@@ -11307,7 +11326,8 @@ There are very similar names for this bird in some Papuan languages of Bougainvi
 
 
 <a id="s-5-15"></a>
-## 5.15. Hornbills (_Bucerotidae_)
+
+### 5.15. Hornbills (_Bucerotidae_)
 
 
 Two good cognate sets are available for the single species, Blyth’s Hombill (Acerosplicatus), which occurs throughout New Guinea and the Solomons.
@@ -11394,13 +11414,13 @@ Figure 6.16   Aceros plicatus, Blyth's Hornbill
 The following indicate a considerable broadening of the reference of this term in some SE Solomonic languages:
 
 ```
-SES:   ’Are’are    pina (ni duo)      ‘big grey pigeon’ (ano ‘garden’)
-SES:   Sa’a        pine (ni on)       ‘Nicobar Pigeon, Caloenas nicobarica’
-SES:   Arosi       bina               ‘hawk’
-bina( ni asi)      ‘booby’ (asi ‘sea’)
-bina (ahuri)       ‘Caloenas nicobarica’
-bina (ni mon)      ‘Caloenas nicobarica’ (mou ‘garden)
-bina (suʔu)        ‘Caloenas nicobarica’ (suʔu ‘lake, swamp’)
+   SES:   ’Are’are    pina (ni duo)      ‘big grey pigeon’ (ano ‘garden’)
+   SES:   Sa’a        pine (ni on)       ‘Nicobar Pigeon, Caloenas nicobarica’
+   SES:   Arosi       bina               ‘hawk’
+                      bina( ni asi)      ‘booby’ (asi ‘sea’)
+                      bina (ahuri)       ‘Caloenas nicobarica’
+                      bina (ni mon)      ‘Caloenas nicobarica’ (mou ‘garden)
+                      bina (suʔu)        ‘Caloenas nicobarica’ (suʔu ‘lake, swamp’)
 ```
 
 The hombill’s voice is described as ‘various deep grunts and honking notes’ (Coates & Peckover 2001:113). Given the lack of exact agreement among the following names, it is likely that at least some represent repeated imitative coinages.
@@ -11513,6 +11533,7 @@ The very large bill of the hornbill would account for the mis-identification as 
 
 
 <a id="s-6"></a>
+
 ## 6. Passerine birds
 
 
@@ -11520,7 +11541,8 @@ Although the Passerines belong to a single order (Passeriformes) among more than
 
 
 <a id="s-6-1"></a>
-## 6.1. Trillers and cuckoo-shrikes (_Campephagidae_)
+
+### 6.1. Trillers and cuckoo-shrikes (_Campephagidae_)
 
 
 The cuckoo-shrikes (_Coracina spp._) and trillers (_Lalage spp._) extend from the homeland into southern Melanesia. Some local cognate sets exist.
@@ -11679,21 +11701,21 @@ cf. also:
 <tr>
 <td>MM</td>
 <td>Banoni</td>
-<td>kuisa</td>
+<td><i>kuisa</i></td>
 <td>
 '<span>Coracina papuensis</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
 <td>Malango</td>
-<td>koiso</td>
+<td><i>koiso</i></td>
 <td>
 '<span><em>Coracina spp.</em></span>'</td>
 </tr>
 <tr>
 <td>MM</td>
 <td>Teop</td>
-<td>kuisau</td>
+<td><i>kuisau</i></td>
 <td>
 '<span>Papuan Cuckoo Shrike, Coracinapapuensis</span>'</td>
 </tr>
@@ -11702,7 +11724,8 @@ cf. also:
 
 
 <a id="s-6-2"></a>
-## 6.2. Thrushes (_Turdidae_)
+
+### 6.2. Thrushes (_Turdidae_)
 
 
 The only species for which any significant base of terms exists is the Island Thrush (Turdus poliocephalus).
@@ -11755,7 +11778,8 @@ The only species for which any significant base of terms exists is the Island Th
 
 
 <a id="s-6-3"></a>
-## 6.3. Fantails (_Rhipiduridae_) and flycatchers (_Monarchidae_)
+
+### 6.3. Fantails (_Rhipiduridae_) and flycatchers (_Monarchidae_)
 
 
 The flycatchers (Myiagra.:Monarcha) and fantails (Rhipidura) extend widely into the Oceanic region, but evince only a few local cognate sets.
@@ -11865,7 +11889,7 @@ cf. also: A probable borrowing from some North--Central Vanuatu language:
 <tr>
 <td>Pn</td>
 <td>Emae</td>
-<td>takerokero</td>
+<td><i>takerokero</i></td>
 <td>
 </td>
 </tr>
@@ -11966,7 +11990,7 @@ cf. also:
 <tr>
 <td>MM</td>
 <td>Halia</td>
-<td>pipikula</td>
+<td><i>pipikula</i></td>
 <td>
 '<span>Willy Wagtail</span>'</td>
 </tr>
@@ -12040,7 +12064,7 @@ cf. also: The following potential cognate may be a local formation, cf. tatara �
 <tr>
 <td>SES</td>
 <td>Arosi</td>
-<td>tatara(pʷera)</td>
+<td><i>tatara(pʷera)</i></td>
 <td>
 '<span>wagtail</span>'</td>
 </tr>
@@ -12113,21 +12137,21 @@ cf. also: Apparently at least in part a borrowing from some SE Solomonic languag
 <tr>
 <td>Pn</td>
 <td>Rennellese</td>
-<td>maŋiɣape</td>
+<td><i>maŋiɣape</i></td>
 <td>
 </td>
 </tr>
 <tr>
 <td>Pn</td>
 <td>Rennellese</td>
-<td>maɣiɣape</td>
+<td><i>maɣiɣape</i></td>
 <td>
 '<span>Rennell Fantail, Rhipidura rennelliana</span>'</td>
 </tr>
 <tr>
 <td>Pn</td>
 <td>Rennellese</td>
-<td>maɣuɣape</td>
+<td><i>maɣuɣape</i></td>
 <td>
 </td>
 </tr>
@@ -12234,7 +12258,8 @@ The first part of this compound clearly relates to/'/// ‘turn’, referring to
 
 
 <a id="s-6-4"></a>
-## 6.4. Whistlers (_Pachycephalidae_)
+
+### 6.4. Whistlers (_Pachycephalidae_)
 
 
 The Golden Whistler, Pachycephala pectoralis, is the only widespread species in this family.
@@ -12279,7 +12304,8 @@ The Golden Whistler, Pachycephala pectoralis, is the only widespread species in 
 
 
 <a id="s-6-5"></a>
-## 6.5. Whiteyes (_Zosteropidae_)
+
+### 6.5. Whiteyes (_Zosteropidae_)
 
 
 A single species of this family, the White-throated White-eye, _Zosterops meeki_, occurs in the Oceanic homeland, but others of the same genus are very widely found throughout Oceania, with at least one local cognate set.
@@ -12345,14 +12371,14 @@ cf. also:
 <tr>
 <td>NCV</td>
 <td>Mota</td>
-<td>(mʷa)leɣ</td>
+<td><i>(mʷa)leɣ</i></td>
 <td>
 </td>
 </tr>
 <tr>
 <td>NCV</td>
 <td>Mwotlap</td>
-<td>(na-mʷ)lıgleg</td>
+<td><i>(na-mʷ)lıgleg</i></td>
 <td>
 </td>
 </tr>
@@ -12362,7 +12388,7 @@ cf. also: probable borrowing from a North-Central Vanuatu language
 <tr>
 <td>Pn</td>
 <td>Emae</td>
-<td>lako</td>
+<td><i>lako</i></td>
 <td>
 </td>
 </tr>
@@ -12372,8 +12398,8 @@ cf. also: probable borrowing from a North-Central Vanuatu language
 These SV words are possible cognates:
 
 ```
-SV:   Ura     (u)lcap                      ‘_Zosterops flavifrons_’
-SV:   Sye     (u)lcap, ne-lcap, (we)lcap   ‘_Zosterops flavifrons_’
+  SV:   Ura     (u)lcap                      ‘_Zosterops flavifrons_’
+  SV:   Sye     (u)lcap, ne-lcap, (we)lcap   ‘_Zosterops flavifrons_’
 ```
 
 
@@ -12384,13 +12410,14 @@ Figure 6.18     _Philemon buceroides_, Helmeted Friarbird
 The following two items are the only possible Southeast Solomonic cognate found, and a possible Rennellese borrowing from a SE Solomonic language:
 
 ```
-SES:   Gela       (laulau)laka ‘very small bird sp.’
-Pn:    Rennellese ɣaɣa         ‘Woodford’s White-eye, Woodfordia supereiliosa’
+      SES:   Gela       (laulau)laka ‘very small bird sp.’
+      Pn:    Rennellese ɣaɣa         ‘Woodford’s White-eye, Woodfordia supereiliosa’
 ```
 
 
 <a id="s-6-6"></a>
-## 6.6. Honeyeaters (_Meliphagidae_)
+
+### 6.6. Honeyeaters (_Meliphagidae_)
 
 
 The honeyeaters of the homeland region include several belonging to the genus Myzomela, as well as the New Britain Friarbird (_Philemon cockerelli_) and Gilliard’s Honeyeater (Melidectes whitemanensis). Other birds of this family can be found as far as Fiji and western Polynesia.
@@ -12466,7 +12493,7 @@ cf. also:
 <tr>
 <td>Pn</td>
 <td>Pileni</td>
-<td>mihi</td>
+<td><i>mihi</i></td>
 <td>
 '<span>red-fronted bird used for feather money</span>' (<span>expected †<em>*miti</em></span>)</td>
 </tr>
@@ -12479,15 +12506,15 @@ cf. also:
 The friarbirds (_Philemon spp._) are a large and distinctive type of honeyeater represented by three species in the homeland region. The following terms present various formal problems, but could be derived from some form such as POc &ast;(sa)quka, with metathesis to &ast;(sa)-kuqa[^9]
 
 ```
-Adm: Loniu              coPuka          ‘White-naped Friarbird, _Philemon albitorques_’
-Adm: Titan              cauka           ‘friarbird, probably New Britain Friarbird,
-_Philemon cockerelli_’
-NNG:     Musom          kuaŋ            Teatherhead’ (Philemon)
-NNG:     Aribwatsa      uwaŋ            Teatherhead’
-PT:      Iduna          takowa          ‘Little Friarbird, _Philemon citreogularis_’
-PT:      Gapapaiwa      sakoa           ‘Helmeted Friarbird, _Philemon buceroides_’
-MM:      Nakanai        kau             ‘_Philemon cockerelli_’
-MM:      Tolai          kəo, kau        ‘_Philemon cockerelli_’
+   Adm: Loniu              coPuka          ‘White-naped Friarbird, _Philemon albitorques_’
+   Adm: Titan              cauka           ‘friarbird, probably New Britain Friarbird,
+                                           _Philemon cockerelli_’
+   NNG:     Musom          kuaŋ            Teatherhead’ (Philemon)
+   NNG:     Aribwatsa      uwaŋ            Teatherhead’
+   PT:      Iduna          takowa          ‘Little Friarbird, _Philemon citreogularis_’
+   PT:      Gapapaiwa      sakoa           ‘Helmeted Friarbird, _Philemon buceroides_’
+   MM:      Nakanai        kau             ‘_Philemon cockerelli_’
+   MM:      Tolai          kəo, kau        ‘_Philemon cockerelli_’
 ```
 
 <table>
@@ -12591,7 +12618,8 @@ This set may be related to an innovative generic for ‘bird’ in a number of C
 
 
 <a id="s-6-7"></a>
-## 6.7. Starlings (_Stumidae_)
+
+### 6.7. Starlings (_Stumidae_)
 
 
 Starlings of the genus Aplonis, and the Yellow-faced Mynah, _Mino dumontii_, extend throughout much of Oceania. The first two cognate sets may be related.
@@ -12727,7 +12755,7 @@ cf. also: Probably borrowed from a SES language is
 <tr>
 <td>Pn</td>
 <td>Rennellese</td>
-<td>(ɣā)pilu</td>
+<td><i>(ɣā)pilu</i></td>
 <td>
 '<span><em>Aplonis sp.</em></span>'</td>
 </tr>
@@ -12737,21 +12765,21 @@ cf. also:
 <tr>
 <td>NCV</td>
 <td>Mota</td>
-<td>wotepispis</td>
+<td><i>wotepispis</i></td>
 <td>
 '<span>Island Thrush, Turdus poliocephalus</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
 <td>Teop</td>
-<td>buiŋbuiŋ</td>
+<td><i>buiŋbuiŋ</i></td>
 <td>
 '<span><em>Aplonis metallica</em></span>'</td>
 </tr>
 <tr>
 <td>MM</td>
 <td>Tinputz</td>
-<td>bosiŋ</td>
+<td><i>bosiŋ</i></td>
 <td>
 '<span>starling (general term)</span>'</td>
 </tr>
@@ -12763,7 +12791,7 @@ cf. also:
 
 The definition of Drehet pwisi is a good description of _Aplonis metallica_. Yapese gce'Ppluw ‘small black bird sp.’ bears a striking resemblance to the Rennellese word, but given the lack of precise identification and the absence of known borrowing in this direction, this is probably coincidental.
 
-The following appears to be a continuation of POc &ast;midi, reconstructed above ([§6.6](#s-6-6)) as originally applying to honeyeaters, but extended in Polynesia to the starlings and toilers, on the basis of similarities which remain unclear.
+The following appears to be a continuation of POc &ast;midi, reconstructed above (§6.6) as originally applying to honeyeaters, but extended in Polynesia to the starlings and toilers, on the basis of similarities which remain unclear.
 
 <table>
 <tr>
@@ -12821,7 +12849,7 @@ cf. also: Probable Polynesian borrowing:
 <tr>
 <td>SES</td>
 <td>Lau</td>
-<td>miti</td>
+<td><i>miti</i></td>
 <td>
 </td>
 </tr>
@@ -12864,21 +12892,21 @@ cf. also:
 <tr>
 <td>MM</td>
 <td>Banoni</td>
-<td>ciɣino</td>
+<td><i>ciɣino</i></td>
 <td>
 </td>
 </tr>
 <tr>
 <td>MM</td>
 <td>Halia</td>
-<td>cigilio</td>
+<td><i>cigilio</i></td>
 <td>
 '<span><em>Mino dumontii</em> or Fead Island Starling, <em>Aplonis feadensis</em></span>'</td>
 </tr>
 <tr>
 <td>MM</td>
 <td>Torau</td>
-<td>sigineu</td>
+<td><i>sigineu</i></td>
 <td>
 </td>
 </tr>
@@ -12887,7 +12915,8 @@ cf. also:
 
 
 <a id="s-6-8"></a>
-## 6.8. Wood swallows (_Artamidae_)
+
+### 6.8. Wood swallows (_Artamidae_)
 
 
 The Bismarck Wood Swallow (_Artamus insignis_) has congenerics elsewhere in Melanesia, but only two very local cognate sets have been found.
@@ -12958,7 +12987,8 @@ The Bismarck Wood Swallow (_Artamus insignis_) has congenerics elsewhere in Mela
 
 
 <a id="s-6-9"></a>
-## 6.9. Crows (_Corvidae_)
+
+### 6.9. Crows (_Corvidae_)
 
 
 Again a single species, the Australian Crow (_Corvus orru_') is present in the homeland, with congenerics elsewhere in Melanesia. Both &ast;(kao)kao and &ast;kaka are likely to show some influence of widespread representations of crow vocalizations such as English caw.
@@ -13326,6 +13356,7 @@ The following reconstruction seems very likely to have denoted some (probably bl
 
 
 <a id="s-7"></a>
+
 ## 7. Sea and shore birds
 
 
@@ -13333,7 +13364,8 @@ The sea and shore birds have in common that the species tend to be wide ranging 
 
 
 <a id="s-7-1"></a>
-## 7.1. Petrels (_Procellariidae_, _Hydrobatidae_)
+
+### 7.1. Petrels (_Procellariidae_, _Hydrobatidae_)
 
 
 Petrels come to land only to breed, and may be known primarily from the strange noises they make at their burrows at night. Of several species recorded for the homeland, only the Wedge-tailed Shearwater (_Puffinus pacificus_) breeds in the vicinity and is present year round.
@@ -13544,7 +13576,7 @@ cf. also: The Rotuman form is a loan from Polynesian:
 <tr>
 <td>Fij</td>
 <td>Rotuman</td>
-<td>tɔviko</td>
+<td><i>tɔviko</i></td>
 <td>
 '<span>shearwater</span>' (<span>expected †<em>fɔiʔo</em></span>)</td>
 </tr>
@@ -13611,7 +13643,8 @@ cf. also: The Rotuman form is a loan from Polynesian:
 
 
 <a id="s-7-2"></a>
-## 7.2. Tropic-birds (_Phaethontidae_)
+
+### 7.2. Tropic-birds (_Phaethontidae_)
 
 
 The two species of tropic-bird (Phaethon) are rare in Papua New Guinea waters but more frequently encountered in Remote Oceania. The Red-tailed Tropic Bird (_P. rubricauda_) and the White-tailed Tropic Bird (_P. lepturus_) differ, as their names suggest, in the colour of the two extremely elongated tail feathers by which this type of bird is readily recognised. They are generally covered by a single lexical item, though there may be a conventional specifier for one or the other, as in Tongan tavake toto ‘_P. rubricauda_’ (to to ‘blood’).
@@ -13683,7 +13716,7 @@ cf. also: Probable borrowing from a Micronesian language:
 <tr>
 <td>Yap</td>
 <td>Yapese</td>
-<td>yūg</td>
+<td><i>yūg</i></td>
 <td>
 '<span>type of white dove-like bird with a long tail</span>'</td>
 </tr>
@@ -13786,28 +13819,28 @@ cf. also: Probable Polynesian borrowings:
 <tr>
 <td>SV</td>
 <td>Anejom</td>
-<td>n-tauoɣ</td>
+<td><i>n-tauoɣ</i></td>
 <td>
 '<span><em>Phaethon spp.</em></span>'</td>
 </tr>
 <tr>
 <td>TM</td>
 <td>Buma</td>
-<td>tavake</td>
+<td><i>tavake</i></td>
 <td>
 '<span>tropic bird</span>'</td>
 </tr>
 <tr>
 <td>Mic</td>
 <td>Kiribatese</td>
-<td>tāke</td>
+<td><i>tāke</i></td>
 <td>
 '<span><em>Phaethon rubricauda</em></span>'</td>
 </tr>
 <tr>
 <td>Fij</td>
 <td>Rotuman</td>
-<td>tœvœke</td>
+<td><i>tœvœke</i></td>
 <td>
 '<span><em>Phaethon lepturus</em></span>' (<span>expected †<em>fœvœʔe</em></span>)</td>
 </tr>
@@ -13817,7 +13850,7 @@ cf. also: Probable Fijian cognate or borrowing:
 <tr>
 <td>Fij</td>
 <td>Bauan</td>
-<td>tawake</td>
+<td><i>tawake</i></td>
 <td>
 '<span>banner</span>'</td>
 </tr>
@@ -13831,7 +13864,8 @@ Figure 6.20   Sulci dactylatra, Blue-faccd Booby
 
 
 <a id="s-7-3"></a>
-## 7.3. Boobies (_Sulidae_)
+
+### 7.3. Boobies (_Sulidae_)
 
 
 Of the three Boobies (genus Sula) found in Oceania, the Brown Booby (_S. leucogaster_) is present year round in New Guinea waters. The Red-footed Booby (_S. sula_), however, is also widely reported, while the Blue-faced Booby (_S. dactylatra_) appears to be the least common. Only in Polynesia and Micronesia are the three species lexically distinguished.
@@ -13905,9 +13939,9 @@ Of the three Boobies (genus Sula) found in Oceania, the Brown Booby (_S. leucoga
 The following terms for petrels appear to be cognate:
 
 ```
-Pn:    Tongan [^13]  fuakō         ‘Wedge-tailed Shearwater, _Puffinus pacificus_’
-Pn:    Hawaiian     uaʔu          ‘Hawaiian Petrel, _Pterodroma phaeopygia_’
-Pn:    Hawaiian     ʔaʔo          ‘Manx Shearwater, _Puffinus puffinus_’
+    Pn:    Tongan [^13]  fuakō         ‘Wedge-tailed Shearwater, _Puffinus pacificus_’
+    Pn:    Hawaiian     uaʔu          ‘Hawaiian Petrel, _Pterodroma phaeopygia_’
+    Pn:    Hawaiian     ʔaʔo          ‘Manx Shearwater, _Puffinus puffinus_’
 ```
 
 
@@ -13989,7 +14023,7 @@ cf. also: A probable Polynesian borrowing:
 <tr>
 <td>Mic</td>
 <td>Kiribatese</td>
-<td>mouakena</td>
+<td><i>mouakena</i></td>
 <td>
 '<span><em>Sula dactylatra</em></span>'</td>
 </tr>
@@ -14112,7 +14146,7 @@ cf. also: A Polynesian borrowing:
 <tr>
 <td>Fij</td>
 <td>Rotuman</td>
-<td>kanɔpu</td>
+<td><i>kanɔpu</i></td>
 <td>
  (<span>expected †<em>anɔʔu</em></span>)</td>
 </tr>
@@ -14125,9 +14159,9 @@ The following three forms suggest POc &ast;kalau ‘booby’, but may be scatter
 <a id="p-357"></a>
 
 ```
-NNG: Mangap      kalau              ‘bird sp.’
-Mic: Marshallese kalMo              ‘_Sula leucogaster_’
-Pn:  Nukuoro     kalau              ‘brown booby’
+   NNG: Mangap      kalau              ‘bird sp.’
+   Mic: Marshallese kalMo              ‘_Sula leucogaster_’
+   Pn:  Nukuoro     kalau              ‘brown booby’
 ```
 
 This term is restricted to the central and northern Polynesian Outliers:
@@ -14220,7 +14254,8 @@ This term is restricted to the central and northern Polynesian Outliers:
 
 
 <a id="s-7-4"></a>
-## 7.4. Frigate birds (_Fregatidae_)
+
+### 7.4. Frigate birds (_Fregatidae_)
 
 
 Two species of frigate bird are common in New Guinea waters, the Great Frigate Bird (Fre- gata minor') and the Lesser Frigate Bird (F. arieP). (The identifications of other species for Puluwat and Roviana below are likely to be erroneous.) Two clear POc reconstructions can be justified, though there seems to be no consistent lexical differentiation between the two species in the sources for contemporary languages.
@@ -14331,7 +14366,7 @@ cf. also: A borrowing from a SE Solomonic language:
 <tr>
 <td>Pn</td>
 <td>Pileni</td>
-<td>kaula, koula</td>
+<td><i>kaula, koula</i></td>
 <td>
 </td>
 </tr>
@@ -14601,7 +14636,8 @@ The Ajie name is explained as ‘the one who tells about the day’.
 
 
 <a id="s-7-5"></a>
-## 7.5. Waders (_Charadriidae_, _Scolopacidae_, _Burhinidae_)
+
+### 7.5. Waders (_Charadriidae_, _Scolopacidae_, _Burhinidae_)
 
 
 More than twenty species of these shore birds frequent the coasts of the Oceanic homeland, but most are migrants seen only seasonally. Among the most commonly identified are the Bristle-thighed Curlew (_Numenius lahiliensis_). Whimbrel (_Numenius phaeopus_), Bartailed Godwit (Limosa lapponica), Wandering Tattler (_Heteroscelus incanus_). Pacific Golden Plover (_Pluvialis fulvd_), and Ruddy Turnstone (_Arenaria interpres_). Field identification of these birds can be difficult, and even in Polynesia and Micronesia there are few cognate sets with completely consistent reference.
@@ -14705,8 +14741,8 @@ More than twenty species of these shore birds frequent the coasts of the Oceanic
 These Polynesian Outlier names are probably borrowings from Southeast Solomonic and Central Vanuatu languages, respectively:
 
 ```
-Pn:     Rennellese siviu            ‘Great Sand Plover, Charadrius lesehinaultii’
-Pn:     Emae       siviu            ‘large shore bird sp.’
+   Pn:     Rennellese siviu            ‘Great Sand Plover, Charadrius lesehinaultii’
+   Pn:     Emae       siviu            ‘large shore bird sp.’
 ```
 
 <table>
@@ -14803,28 +14839,28 @@ cf. also:
 <tr>
 <td>TM</td>
 <td>Buma</td>
-<td>vivi</td>
+<td><i>vivi</i></td>
 <td>
 '<span><em>Charadrius sp.</em></span>'</td>
 </tr>
 <tr>
 <td>NCV</td>
 <td>S.E. Ambrym</td>
-<td>hehe</td>
+<td><i>hehe</i></td>
 <td>
 '<span>sandpiper sp.</span>'</td>
 </tr>
 <tr>
 <td>Pn</td>
 <td>Sikaiana</td>
-<td>(vīvī)tai</td>
+<td><i>(vīvī)tai</i></td>
 <td>
 '<span>Pacific Golden Plover, <em>Pluvialis fulva</em></span>'</td>
 </tr>
 <tr>
 <td>Pn</td>
 <td>Tuvalu</td>
-<td>vivi(tai)</td>
+<td><i>vivi(tai)</i></td>
 <td>
 '<span>Wandering Tattler, <em>Heteroscelus incanus</em></span>'</td>
 </tr>
@@ -15076,21 +15112,21 @@ cf. also: A probable Polynesian borrowing is Nehan tulia in the following three 
 <tr>
 <td>MM</td>
 <td>Nehan</td>
-<td>tui-tui-tulia</td>
+<td><i>tui-tui-tulia</i></td>
 <td>
 '<span><em>Pluvialis fulva</em></span>'</td>
 </tr>
 <tr>
 <td>MM</td>
 <td>Nehan</td>
-<td>tulia</td>
+<td><i>tulia</i></td>
 <td>
 '<span><em>Actitis hypoleucos</em></span>'</td>
 </tr>
 <tr>
 <td>MM</td>
 <td>Nehan</td>
-<td>tuliaŋ</td>
+<td><i>tuliaŋ</i></td>
 <td>
 '<span><em>Arenaria interpres</em></span>'</td>
 </tr>
@@ -15208,7 +15244,7 @@ cf. also: Probably borrowed from Polynesian:
 <tr>
 <td>MM</td>
 <td>Halia</td>
-<td>kivi</td>
+<td><i>kivi</i></td>
 <td>
 '<span>generic term for waders, esp. <em>Pluvialis fulva</em></span>'</td>
 </tr>
@@ -15356,7 +15392,7 @@ cf. also: Probable borrowing from a Micronesian language:
 <tr>
 <td>Yap</td>
 <td>Yapese</td>
-<td>ʔkuleŋ</td>
+<td><i>ʔkuleŋ</i></td>
 <td>
 '<span>type of sea bird</span>'</td>
 </tr>
@@ -15419,14 +15455,14 @@ cf. also: Probable borrowings from some Micronesian language are:
 <tr>
 <td>Pn</td>
 <td>Kapingamarangi</td>
-<td>kaka</td>
+<td><i>kaka</i></td>
 <td>
 '<span>Bristle-thighed Curlew, <em>Numenius lahiliensis</em></span>'</td>
 </tr>
 <tr>
 <td>Pn</td>
 <td>Nukuoro</td>
-<td>kaka</td>
+<td><i>kaka</i></td>
 <td>
 '<span>bird sp.</span>'</td>
 </tr>
@@ -15476,7 +15512,7 @@ cf. also: The following may be cognate, though the semantic connection is hardly
 <tr>
 <td>Pn</td>
 <td>Tongan</td>
-<td>lafu</td>
+<td><i>lafu</i></td>
 <td>
 '<span>petrel</span>'</td>
 </tr>
@@ -15533,7 +15569,8 @@ Finally, one very distinctive shore bird, much larger than the rest, with heavy 
 
 
 <a id="s-7-6"></a>
-## 7.6. Terns (_Laridae_)
+
+### 7.6. Terns (_Laridae_)
 
 
 The family _Laridae_ includes both gulls and terns. Gulls are mainly birds of the temperate zones, and are only rare visitors to tropical Oceania. The common gloss ‘seagull’ in dictionaries and vocabularies of languages in this area almost certainly indicates a tern. Several species of tern (Sterna, Thalasseus') are common in the waters of the homeland, along with noddies (Anous) and the very distinctive White Tern (Gygis alba).
@@ -15760,7 +15797,7 @@ cf. also:
 <tr>
 <td>Mic</td>
 <td>Sonsorolese</td>
-<td>kirigay, xirixax</td>
+<td><i>kirigay, xirixax</i></td>
 <td>
 '<span>Common Noddy, <em>Anous stolidus</em></span>'</td>
 </tr>
@@ -15901,7 +15938,7 @@ cf. also:
 <tr>
 <td>MM</td>
 <td>Nehan</td>
-<td>kara</td>
+<td><i>kara</i></td>
 <td>
 '<span>tern (generic)</span>'</td>
 </tr>
@@ -16058,8 +16095,8 @@ cf. also:
 The following two terms from Polynesian Outliers show a closer resemblance to the Halia form above than to the rest of Polynesian, and are probably borrowed from some North Solomons language:
 
 ```
-Pn:    Takuu        kinakina
-Pn:    Sikaiana     kinakina
+   Pn:    Takuu        kinakina
+   Pn:    Sikaiana     kinakina
 ```
 
 <table>
@@ -16337,14 +16374,14 @@ cf. also: probable Polynesian borrowings:
 <tr>
 <td>Mic</td>
 <td>Kiribatese</td>
-<td>tara(ŋoŋo)</td>
+<td><i>tara(ŋoŋo)</i></td>
 <td>
 '<span><em>Sterna lunata</em></span>'</td>
 </tr>
 <tr>
 <td>Fij</td>
 <td>Rotuman</td>
-<td>tala</td>
+<td><i>tala</i></td>
 <td>
 '<span>Thalasseus bergii</span>' (<span>expected ``fala</span>)</td>
 </tr>
@@ -16489,28 +16526,28 @@ cf. also: An irrular change leads to forms reflecting PCEPn *ijoio'.
 <tr>
 <td>Pn</td>
 <td>Hawaiian</td>
-<td>noio</td>
+<td><i>noio</i></td>
 <td>
 '<span>White-capped Noddy, <em>Anous minutus</em></span>'</td>
 </tr>
 <tr>
 <td>Pn</td>
 <td>Mangareva</td>
-<td>ŋoio</td>
+<td><i>ŋoio</i></td>
 <td>
 </td>
 </tr>
 <tr>
 <td>Pn</td>
 <td>Rarotongan</td>
-<td>ŋōio</td>
+<td><i>ŋōio</i></td>
 <td>
 </td>
 </tr>
 <tr>
 <td>Pn</td>
 <td>Tahitian</td>
-<td>ʔōio</td>
+<td><i>ʔōio</i></td>
 <td>
 </td>
 </tr>

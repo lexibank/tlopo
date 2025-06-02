@@ -4,30 +4,33 @@ by Malcolm Ross
 
 
 <a id="s-1"></a>
+
 ## 1. Introduction
 
 
-Green vegetables form an important part of &ast;tamaji (ch.2, [§6.2](#s-6-2)), the ingredients of a meal which accompany &ast;kanaŋ, starchy food (ch.2, [§6.1](#s-6-1)). [Henderson & Hancock](../references.md#source-HendersonandHancock1988) ([1988](../references.md#source-HendersonandHancock1988): 83) point out that there is often no meat or fish component in the accompanying ingredients in the Solomons, and that these often consist only of green vegetables, which are a major source of protein. This explains the popularity of the high-protein Abelmoschus manihot. Solomon Islanders consume a diverse range of green v,egetables, some cultivated, some collected from the wild, and the same is true in the Bismarcks.
+Green vegetables form an important part of &ast;tamaji (ch.2, §6.2), the ingredients of a meal which accompany &ast;kanaŋ, starchy food (ch.2, §6.1). [Henderson & Hancock](../references.md#source-HendersonandHancock1988) ([1988](../references.md#source-HendersonandHancock1988): 83) point out that there is often no meat or fish component in the accompanying ingredients in the Solomons, and that these often consist only of green vegetables, which are a major source of protein. This explains the popularity of the high-protein Abelmoschus manihot. Solomon Islanders consume a diverse range of green v,egetables, some cultivated, some collected from the wild, and the same is true in the Bismarcks.
 
-Probably the most widely cultivated leafy vegetables in the Bismarck Archipelago are Abelmoschus manihot ([§2.1](#s-2-1)) and various species of Amaranthus ([§2.2](#s-2-2)). However, all the lat- ter except Amaranthus tricolor are introduced plants (R.M. Bourke, pers. comm.) and were most probably not present in the gardens of Proto Oceanic speakers. Young leaves and peti- oles of Colocasia esculenta taro (ch.9, [§2.2.1](#s-2-2)) are also commonly eaten as vegetables, and many languages have a separate word for them (ch.4, [§2.5](#s-2-5)).
+Probably the most widely cultivated leafy vegetables in the Bismarck Archipelago are Abelmoschus manihot (§2.1) and various species of Amaranthus (§2.2). However, all the lat- ter except Amaranthus tricolor are introduced plants (R.M. Bourke, pers. comm.) and were most probably not present in the gardens of Proto Oceanic speakers. Young leaves and peti- oles of Colocasia esculenta taro (ch.9, §2.2.1) are also commonly eaten as vegetables, and many languages have a separate word for them (ch.4, §2.5).
 
-Ferns recorded as being eaten include species of Asplenium, Athyrium, Ctenitis, Cyathea ([§3.1](#s-3-1)), Dennstaedtia, Diplazium and Dryopteris, as well as Cyclosorus truncatus (Paijmans 1976: 125). Diplazium esculentum is noted by [Henderson & Hancock](../references.md#source-HendersonandHancock1988) ([1988](../references.md#source-HendersonandHancock1988): 84) as the most widely eaten fern in the Solomons. However, the only fern for which a POc term is recon- structed here is Cyathea ([§3.1](#s-3-1)).
+Ferns recorded as being eaten include species of Asplenium, Athyrium, Ctenitis, Cyathea (§3.1), Dennstaedtia, Diplazium and Dryopteris, as well as Cyclosorus truncatus (Paijmans 1976: 125). Diplazium esculentum is noted by [Henderson & Hancock](../references.md#source-HendersonandHancock1988) ([1988](../references.md#source-HendersonandHancock1988): 84) as the most widely eaten fern in the Solomons. However, the only fern for which a POc term is recon- structed here is Cyathea (§3.1).
 
-An important seasonal food in some areas is the inflorescence (the unopened flower) of Saccharum edule ([§3.2](#s-3-2)). Another edible grass, Setaria palmifolia (no reconstruction), is an important vegetable in inland areas of the Bismarcks and New Guinea (M. Bourke, pers. comm.). The stinging herb Laportea interrupta (syn. Fleurya interrupta, Urtica interrupta) is cultivated and eaten by the Tolai of the Gazelle Peninsula of New Britain (ch.7, [§6.3.2](#s-6-3)). The leaves of M orinda citrifolia are also eaten as a green vegetable in parts of Papua New Guinea (ch.l3, [§3.4](#s-3-4)). Despite the large number of species that serve as green vegetables, however, only a few terms for them have be1;:n reconstructed.
+An important seasonal food in some areas is the inflorescence (the unopened flower) of Saccharum edule (§3.2). Another edible grass, Setaria palmifolia (no reconstruction), is an important vegetable in inland areas of the Bismarcks and New Guinea (M. Bourke, pers. comm.). The stinging herb Laportea interrupta (syn. Fleurya interrupta, Urtica interrupta) is cultivated and eaten by the Tolai of the Gazelle Peninsula of New Britain (ch.7, §6.3 .2). The leaves of M orinda citrifolia are also eaten as a green vegetable in parts of Papua New Guinea (ch.l3, §3.4). Despite the large number of species that serve as green vegetables, however, only a few terms for them have be1;:n reconstructed.
 
-Trees of the genus Ficus ([§4](#s-4)) are included here because leaves of some freestanding species serve as green vegetables in NW Island Melanesia. This is not true of all Ficus species in the region, but it is convenient to keep all species of the genus together, as there are diffi- culties in tying the glosses of some reconstructions down to particular species.
+Trees of the genus Ficus (§4) are included here because leaves of some freestanding species serve as green vegetables in NW Island Melanesia. This is not true of all Ficus species in the region, but it is convenient to keep all species of the genus together, as there are diffi- culties in tying the glosses of some reconstructions down to particular species.
 
 
 <a id="p-294"></a>
 
 
 <a id="s-2"></a>
+
 ## 2. Leafy vegetables
 
 
 
 <a id="s-2-1"></a>
-## 2.1. Abelmoschus manihot (syn. Hibiscus manihot), slippety cabbage, bush cabbage, island cabbage, TP aibika, P slipari kabis, Bkabis aelan (Malvaceae)
+
+### 2.1. Abelmoschus manihot (syn. Hibiscus manihot), slippety cabbage, bush cabbage, island cabbage, TP aibika, P slipari kabis, Bkabis aelan (Malvaceae)
 
 
 Figure 10.1 Abelmoschus manihot: A, plant (height 1.5 m); B, stem with leaf (edible) and flower bud; C, flower; D, varieties displayed to show the diversity in leaf shape.
@@ -325,7 +328,8 @@ The meaning of the etymon reconstructed below is not clear. It may have been ano
 
 
 <a id="s-2-2"></a>
-## 2.2. Amaranthus tricolor (syn. A. gangeticus, A. oleraceus), Chinese spinach, Joseph's coat amaranth, TP aupa (Amaranthaceae)
+
+### 2.2. Amaranthus tricolor (syn. A. gangeticus, A. oleraceus), Chinese spinach, Joseph's coat amaranth, TP aupa (Amaranthaceae)
 
 
 Amaranthus tricolor is described by [Peekel](../references.md#source-Peekel1984) ([1984](../references.md#source-Peekel1984): 166--168) as an erect plant 0.6--1.2 m tall, with many long leaves growing directly from the stem and no or almost no terminal flower cluster. Varieties with the multicoloured leaves to which tricolor refers are decorative plants in gardens in western countries, but the varieties grown as a green vegetable in gardens in India, China, In- donesia, Papua New Guinea and the Solomons usually have green leaves.
@@ -376,7 +380,8 @@ The only reconstruction is at the level of PNCV:
 
 
 <a id="s-2-3"></a>
-## 2.3. Gnetum gnemon, TP tulip (Gnetaceae)
+
+### 2.3. Gnetum gnemon, TP tulip (Gnetaceae)
 
 
 Gnetum gnemon is a small tree found in lowland forests in the Bismarcks, the Solomons, Vanu- atu and Fiji, growing to between 8 and 15 m in height. Leaf stalks grow directly from the branch in pairs: hence its Tok Pisin name, tulip 'two-leaf' (Figure 10.3). The young leaves and shoots are widely cooked and eaten as a veg- etable. It has red or orange fruit, the seeds and mesocarp of which are roasted and eaten in some areas (Paijmans 1976: 124, [Evans 1999](../references.md#source-Evans1999): 19-21 , [Hviding 2005](../references.md#source-Hviding2005): 139): Evans singles out the is- lands of the Temotu Province of the Solomons for special mention. In the wild it grows along rivers and streams, but not near the beach, as it appears to dislike salt spray ([Manner & Elevitch 2006a](../references.md#source-MannerandElevitch2006a)). [Peekel](../references.md#source-Peekel1984) ([1984](../references.md#source-Peekel1984): 37) describes it as a 'cul- tivated tree' and [Kennedy & Clarke](../references.md#source-KennedyandClarke2004) ([2004](../references.md#source-KennedyandClarke2004)) men- tion it in their list of species that are subjeclt to arboriculture.
@@ -422,7 +427,8 @@ Misima kusai provides evidence for the final &ast;-q of POc &ast;kusaq. Misima h
 
 
 <a id="s-2-4"></a>
-## 2.4. Polyscias spp., panax, B nalaslas (Araliaceae)
+
+### 2.4. Polyscias spp., panax, B nalaslas (Araliaceae)
 
 
 Polyscias species are erect thin shrubs between one and 5 m in height found at least as far east as Fiji. They grow wild in shady environments and have green foliage which is eaten as a green vegetable in New Guinea, the Bismarcks, the Solomons and Vanuatu. In NW Is- land Melanesia they are often planted (from cuttings) as hedges, but when they are cultivated in sunlight, their appearance changes, as the foliage turns pale green or yellow and culti- vated shrubs are often pruned to obtain a thick bushy form. [French](../references.md#source-French1986) ([1986](../references.md#source-French1986): 74) names five species growing in Papua New Guinea, namely P. cumingiana, P. scutellaria, P.fruticosa, P. macgillivrayi and P. verticillata, and [Henderson & Hancock](../references.md#source-HendersonandHancock1988) ([1988](../references.md#source-HendersonandHancock1988): 111-112) list all except the first for the Solomons (Figure 10.4). They comment that the greens have 'a pleasant mild "curry" taste'.
@@ -509,7 +515,7 @@ No POc term is unambiguously reconstmctable, but it is possible that the reflexe
 
 
 
-The items reflecting PNCV &ast;lalaso 'Polyscias scutellaria' (?)below appear to be cognate with Lau, Kwara'ae (SES) lalato 'Xylocarpus granatum' (ch.6, [§4.6](#s-4-6)). However, they are not cognate in the strict sense. Each set of items reflects an independent innovation entailing reduplication of a reflex of POc &ast;lasoR 'testicles'. In the case of Xylocarpus granatum the comparison is with rounded fruit that hang heavily ([Kwa'ioloa & Burt 2001](../references.md#source-KwaioloaandBurt2001): 122). Explain- ing PNCV &ast;lalaso is more problematic. [Lynch](../references.md#source-Lynch2004a) ([2004a](../references.md#source-Lynch2004a)) glosses the reconstruction 'Polyscias scutellaria' on the basis of the gloss of its reflexes in Paamese, Lewo, Apma, Nguna and S Efate. However, its denotation in Mota seems to be the aerial yam, Dioscorea bulbifera (ch.9, [§2.1.3](#s-2-1)), and it is easy to infer a perceived resemblance between testicles and tubers on the vine. If this inference is correct, then D. bulb!fera may have been the PNCV sense of &ast;lalaso, rather than P. scutellaria.
+The items reflecting PNCV &ast;lalaso 'Polyscias scutellaria' (?)below appear to be cognate with Lau, Kwara'ae (SES) lalato 'Xylocarpus granatum' (ch.6, §4.6). However, they are not cognate in the strict sense. Each set of items reflects an independent innovation entailing reduplication of a reflex of POc &ast;lasoR 'testicles'. In the case of Xylocarpus granatum the comparison is with rounded fruit that hang heavily ([Kwa'ioloa & Burt 2001](../references.md#source-KwaioloaandBurt2001): 122). Explain- ing PNCV &ast;lalaso is more problematic. [Lynch](../references.md#source-Lynch2004a) ([2004a](../references.md#source-Lynch2004a)) glosses the reconstruction 'Polyscias scutellaria' on the basis of the gloss of its reflexes in Paamese, Lewo, Apma, Nguna and S Efate. However, its denotation in Mota seems to be the aerial yam, Dioscorea bulbifera (ch.9, §2.1.3), and it is easy to infer a perceived resemblance between testicles and tubers on the vine. If this inference is correct, then D. bulb!fera may have been the PNCV sense of &ast;lalaso, rather than P. scutellaria.
 
 <table>
 <tr>
@@ -564,12 +570,14 @@ The items reflecting PNCV &ast;lalaso 'Polyscias scutellaria' (?)below appear to
 
 
 <a id="s-3"></a>
+
 ## 3. Other green vegetables
 
 
 
 <a id="s-3-1"></a>
-## 3.1. Cyathea spp., B blakpam (Cyatheaceae)
+
+### 3.1. Cyathea spp., B blakpam (Cyatheaceae)
 
 
 Among the many ferns eaten in Melanesia, there is just one tree-fern genus for which a putative POc term has been reconstructed. This is Proto Remote Oceanic &ast;b (wJata 'Cyathea'. POc &ast;(b,bʷ)ata is also reconstructed below, but only one cognate has been found outside Remote Oceania: Kove va-vala 'cycad'. This means that we can be reasonably certain that POc &ast;b (wJata denoted a tree fern, but we as yet have no way of knowing for certain whether this was a Cycas or a Cyathea. The most widespread tree-fern in the Bismarcks Cyathea contaminans (syn. Alsophila latebrosa), with a stem 5-8 m tall ([Peekel 1984](../references.md#source-Peekel1984): 9), is a good candidate for the denotation of &ast;(b,bʷ)ata, but a better distributed cognate set is needed in order to confirm this. The Nakanai of New Britain ate the fronds of Cyathea spp. and used the trunks to make fishing spears ([Floyd 1954](../references.md#source-Floyd1954)). On Waya Island (western Fiji) the sap of the young parts of this tree-fern was applied externally to cure headaches, and the scales were used to stuff pillows. The pith of the trunk was eaten as famine food ([Gardner & Pawley 2006](../references.md#source-GardnerandPawley2006)).
@@ -681,7 +689,8 @@ Among the many ferns eaten in Melanesia, there is just one tree-fern genus for w
 
 
 <a id="s-3-2"></a>
-## 3.2. Saccharum edule, 'coastalpitpit' (in Papua New Guinea), TP, Ppitpit, Bnaviso (Poaceae)
+
+### 3.2. Saccharum edule, 'coastalpitpit' (in Papua New Guinea), TP, Ppitpit, Bnaviso (Poaceae)
 
 
 Saccharum edule is a tall grass related to sugar- cane (Saccharum officinarum). [Henderson & Hancock](../references.md#source-HendersonandHancock1988) ([1988](../references.md#source-HendersonandHancock1988): 101) write, 'It grows in a variety of locations, but seems best adapted to low altitude, where it can form quite dense stands sometimes attaining heights of four metres or more.' It is cultivated for the unopened inflo- rescence (flower) at the tip of the cane, harvested as an important seasonal vegetable which is either roasted in its leafy sheath or cooked in coconut cream with other vegetables (Figure 10.5).
@@ -770,7 +779,7 @@ cf. also:
 <tr>
 <td>PT</td>
 <td>Motu</td>
-<td>tabogana</td>
+<td><i>tabogana</i></td>
 <td>
 '<span>wild pitpit</span>' (<span>for †tabu(ɣ)a: apparently borrowed</span>)</td>
 </tr>
@@ -782,12 +791,14 @@ cf. also:
 
 
 <a id="s-4"></a>
+
 ## 4. Ficus spp., banyans, figs (Moraceae)
 
 
 
 <a id="s-4-1"></a>
-## 4.1. Terms for classes of Ficus
+
+### 4.1. Terms for classes of Ficus
 
 
 Worldwide there are about a thousand species of Ficus, including the common fig, F. carica. Over 500 species occur in the Asia-Pacific region. Many of them have a limited distribution. F. granatum, for example, is limited to Vanuatu, F. scabra to Vanuatu, New Caledonia, Fiji, Tonga and Samoa ([Walter & Sam 2002](../references.md#source-WalterandSam2002): 164, 166). As a consequence, it is difficult to gloss reconstructed terms with their species, as the same term was apparently applied to similar species at different locations. The one distinction that is more easily made is between independently growing species and stranglers.
@@ -1121,12 +1132,12 @@ POc &ast;qayawan also seems to have a second set of reflexes in Micronesia. A pu
 <a id="p-305"></a>
 
 ```
-Mic:      Kosraean         kɔn(-yc)         'banyan tree'
-Mic:      Chuukese         <Jwar             'Ficus tinctoria'
-Mic:      Puluwatese       yawann            'banyan'
-Mic:      Satawalese       awal              'banyan'
-Mic:      Woleaian         gewann            'banyan'
-Mic:      Ulithian         howe!             'banyan'
+    Mic:      Kosraean         kɔn(-yc)         'banyan tree'
+    Mic:      Chuukese         <Jwar             'Ficus tinctoria'
+    Mic:      Puluwatese       yawann            'banyan'
+    Mic:      Satawalese       awal              'banyan'
+    Mic:      Woleaian         gewann            'banyan'
+    Mic:      Ulithian         howe!             'banyan'
 ```
 
 POc &ast;ba[k,g]a denoted a taxon of freestanding, medium-sized Ficus species. Denotata of reflexes include F. nodosa, F. wassa, F. prolixa, F. obliqua, F. mutabilis and F. tinctoria, none of them stranglers. [^6]
@@ -1281,28 +1292,28 @@ cf. also:
 <tr>
 <td>Adm</td>
 <td>Mussau</td>
-<td>baga(laim)</td>
+<td><i>baga(laim)</i></td>
 <td>
 '<span>large variety of Malay apple, Syzygium gomata</span>'</td>
 </tr>
 <tr>
 <td>Adm</td>
 <td>Mussau</td>
-<td>paka</td>
+<td><i>paka</i></td>
 <td>
 '<span>Terminalia catappa</span>'</td>
 </tr>
 <tr>
 <td>Adm</td>
 <td>Titan</td>
-<td>baga-bak</td>
+<td><i>baga-bak</i></td>
 <td>
 '<span>tree sp. with nut-like fruit</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
 <td>Tolai</td>
-<td>baga</td>
+<td><i>baga</i></td>
 <td>
 '<span>Canarium mehenbethene (Record 1945)</span>'</td>
 </tr>
@@ -1316,7 +1327,8 @@ Figure 10.6 Left Ficus copiosa: A, tree; B, shoot with leaves; C, leaf; D, figs 
 
 
 <a id="s-4-2"></a>
-## 4.2. Ficus copiosa and F. wassa, sandpaper cabbage, sandpaper fig, TP kumu musong (Moraceae)
+
+### 4.2. Ficus copiosa and F. wassa, sandpaper cabbage, sandpaper fig, TP kumu musong (Moraceae)
 
 
 [Bourke](../references.md#source-Bourkend) ([n.d.](../references.md#source-Bourkend)) names three lowland indigenous Ficus species in Papua New Guinea that have edible figs: F. copiosa (TP kumu musong), F. wassa and F. tinctoria. They are small free- standing trees or shrubs and grow both in the highlands and in the lowlands. The three species are self-sown and there is no evidence of cultivation in Papua New Guinea. The figs of the three species are eaten, particularly those of F. copiosa, which are eaten raw. However, the main food product of these species in Papua New Guinea, and again especially of F. copiosa, is their young leaves, which are used as a green vegetable (in Papua New Guinea by about one-third of the rural population; [Bourke & Allen forthcoming](../references.md#source-BourkeandAllenforthcoming)). The Tok Pisin term kumu musong means 'hairy greens'.
@@ -1506,7 +1518,7 @@ POc &ast;pʷabosi is the most likely candidate for a term denoting F. wassa. All
 
 <a id="p-308"></a>
 
-POc &ast;qa(l,R)a may have been another term for Ficus copiosa ([§4.2](#s-4-2)).
+POc &ast;qa(l,R)a may have been another term for Ficus copiosa (§4.2).
 
 <table>
 <tr>
@@ -1567,7 +1579,8 @@ POc &ast;qa(l,R)a may have been another term for Ficus copiosa ([§4.2](#s-4-2))
 
 
 <a id="s-4-3"></a>
-## 4.3. Ficus tinctoria, dye fig (Moraceae)
+
+### 4.3. Ficus tinctoria, dye fig (Moraceae)
 
 
 Ficus tinctoria is an erect shrub 2-4 m tall with yellow-orange or red edible figs, found on coral rocks and cliffs on the foreshore or inland in coral soil. It is distributed from India and China through SE Asia, New Guinea and right through the islands as far as western Polynesia, but is absent from New Caledonia ([Peekel 1984](../references.md#source-Peekel1984): 147, [Walter & Sam 2002](../references.md#source-WalterandSam2002): 169). Its leaves are a green vegetable in Papua New Guinea ([Bourke n.d.](../references.md#source-Bourkend)).
@@ -1676,7 +1689,8 @@ POc &ast;(c,j )api appears to have denoted a species with edible leaves, possibl
 
 
 <a id="s-4-4"></a>
-## 4.4. Other names for Ficus species
+
+### 4.4. Other names for Ficus species
 
 
 The reconstructions below denote Ficus species, but it is not usually certain which one(s).

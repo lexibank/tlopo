@@ -4,6 +4,7 @@ by Lichtenberk, F. and Osmond, M.
 
 
 <a id="s-1"></a>
+
 ## 1. Introduction
 
 
@@ -11,6 +12,7 @@ Much of this chapter is reproduced from [Lichtenberk](../references.md#source-Li
 
 
 <a id="s-2"></a>
+
 ## 2. Fire and the fireplace
 
 
@@ -98,7 +100,8 @@ There is a well-attested term for fire that can be traced back to PAn:
 
 
 <a id="s-2-1"></a>
-## 2.1. Fire plough
+
+### 2.1. Fire plough
 
 
 Fire was produced throughout the Oceanic world by friction. Often this was achieved by rubbing a piece of wood rapidly to and fro along a long groove or furrow cut into a second piece of wood. We have a term specifically for the action of lighting a fire with fire-plough. Note that the Central Pacific terms have unexplained vowel fronting.
@@ -262,21 +265,22 @@ A Papuan Tip language, Minaveha, likewise uses a compound term for the upper fri
 Across the Oceanic region it is possible to find some variation in fire-making methods, although we have no reconstructions for methods other than by fire-plough. Bing on the PNG north coast and Mapos Buang in the Huon Gulf area (both NNG) offer evidence for a method in which rattan or vine is sawn rapidly around a piece of wood:
 
 ```
-NNG: Mapos Buang  vaŋkC rurŋ       'make a fire by the traditional method using a
-piece of rattan, sawing it back and forth around a
-piece of dry wood with a split in it, lying on a little
-pile of tinder'
-NNG: Bing         baŋ-baŋ          'fire-stick and vine'
+ NNG: Mapos Buang  vaŋkC rurŋ       'make a fire by the traditional method using a
+                                     piece of rattan, sawing it back and forth around a
+                                     piece of dry wood with a split in it, lying on a little
+                                     pile of tinder'
+ NNG: Bing         baŋ-baŋ          'fire-stick and vine'
 ```
 
-Another north coast language, Gedaged, has a term, _wol_, referring to a bow string. Fire is produced by pulling a bow string rapidly back and forth over a piece of wood. The action implied may be the same as in Carolinian _bʷuru-bʷur_ 'make a fire by generating friction with a traditional drill' (from POc _&ast;buru_ 'bore a hole, drill' ; see [Ch.9, §4.2](chapter9.md#s-4-2)).
+Another north coast language, Gedaged, has a term, _wol_, referring to a bow string. Fire is produced by pulling a bow string rapidly back and forth over a piece of wood. The action implied may be the same as in Carolinian _bʷuru-bʷur_ 'make a fire by generating friction with a traditional drill' (from POc _&ast;buru_ 'bore a hole, drill' ; see Ch. 9, §4.2).
 
 
 <a id="s-2-2"></a>
-## 2.2. Firewood
+
+### 2.2. Firewood
 
 
-In addition to the general term POc _&ast;kaiu_ 'wood, stick ', we can reconstruct a PEOc term _&ast;papia_, specifically for firewood. Note that an identical term is reconstructable for PEOc (cognates in SES and Fiji) with the meaning 'cook in native oven' ([§3.1](#s-3-1)).
+In addition to the general term POc _&ast;kaiu_ 'wood, stick ', we can reconstruct a PEOc term _&ast;papia_, specifically for firewood. Note that an identical term is reconstructable for PEOc (cognates in SES and Fiji) with the meaning 'cook in native oven' (§3.1).
 
 <table>
 <tr>
@@ -321,7 +325,8 @@ In addition to the general term POc _&ast;kaiu_ 'wood, stick ', we can reconstru
 
 
 <a id="s-2-3"></a>
-## 2.3. Firebrand, torch
+
+### 2.3. Firebrand, torch
 
 
 Blust has reconstructed a PMP term for wood alight but not yet consumed:
@@ -463,13 +468,14 @@ A burning brand, typically made from coconut fronds, served as a torch.
 
 
 <a id="s-2-4"></a>
-## 2.4. Fireplace, hearth
+
+### 2.4. Fireplace, hearth
 
 
 
 <a id="p-147"></a>
 
-Green and Pawley ([Ch.3, §3.6](chapter3.md#s-3-6)) note a general term for fireplace or hearth, PMP _&ast;dapuR_, POc _&ast;rapu(R)_, with a frequent secondary meaning, particularly in Oceania, of 'ashes'. Compounding may be used to distinguish the fireplace as 'place of ashes'.
+Green and Pawley (Ch. 3, §3.6) note a general term for fireplace or hearth, PMP _&ast;dapuR_, POc _&ast;rapu(R)_, with a frequent secondary meaning, particularly in Oceania, of 'ashes'. Compounding may be used to distinguish the fireplace as 'place of ashes'.
 
 <table>
 <tr>
@@ -551,7 +557,7 @@ cf. also:
 <tr>
 <td>Pn</td>
 <td>Tongan</td>
-<td>(ta)lafu</td>
+<td><i>(ta)lafu</i></td>
 <td>
 '<span>fireplace on a boat</span>'</td>
 </tr>
@@ -624,18 +630,19 @@ There is a second term, PAn _&ast;qabu_, POc _&ast;qapu_, with similar reference
 
 
 <a id="s-2-5"></a>
-## 2.5. Trivet
+
+### 2.5. Trivet
 
 
 We would expect to be able to reconstruct a term for a trivet, an arrangement of three stones on which the cooking pot is placed, but no clear reflex of PMP _&ast;dalikan_, 'trivet' ([Blust 1986](../references.md#source-Blust1986)) has been found, in spite of the presence of terms for trivet in north-west Melanesia and Fiji. For example:
 
 ```
-Adm: Mussau              atu ko-tolu        'trivet' (lit. 'three stones')
-PT:  Motu                (bo)dika           'the three stones for cooking-pot rest'
-PT:  Muyuw               alikwaw            'fireplace'
-PT:  Molima              duku-duku          'stones that support a pot, tripod effect'
-Fij: Wayan               soqita (vatu)      'trivet'
-Fij: Yasawa              sue                'hearth, trivet'
+ Adm: Mussau              atu ko-tolu        'trivet' (lit. 'three stones')
+ PT:  Motu                (bo)dika           'the three stones for cooking-pot rest'
+ PT:  Muyuw               alikwaw            'fireplace'
+ PT:  Molima              duku-duku          'stones that support a pot, tripod effect'
+ Fij: Wayan               soqita (vatu)      'trivet'
+ Fij: Yasawa              sue                'hearth, trivet'
 ```
 
 
@@ -643,7 +650,8 @@ Fij: Yasawa              sue                'hearth, trivet'
 
 
 <a id="s-2-6"></a>
-## 2.6. Stone oven
+
+### 2.6. Stone oven
 
 
 A far more soundly based reconstruction is POc _&ast;qumun_ 'oven made with hot stones, cook in a stone or earth oven', which has reflexes in every major Oceanic subgroup, together with some external cognates.[^2] However, archaeological evidence points to such ovens having much greater antiquity in Near Oceania and Australia than in Southeast Asia (Allen, et al. 1989: 550-551; [Horton 1994](../references.md#source-Horton1994):380-381). The external cognates are therefore regarded as possible borrowings, and a higher-level reconstruction is not proposed.
@@ -746,7 +754,8 @@ A far more soundly based reconstruction is POc _&ast;qumun_ 'oven made with hot 
 
 
 <a id="s-2-7"></a>
-## 2.7. Covering and uncovering an oven
+
+### 2.7. Covering and uncovering an oven
 
 
 The usual implement for handling hot stones and food in the oven was tongs, probably a bent or folded piece of cane or midrib of a coconut frond. Note that some terms have been derived from the transitive verb form POc _&ast;kapit-i-_ 'grasp (with tongs)'.
@@ -850,14 +859,14 @@ cf. also:
 <tr>
 <td>Pn</td>
 <td>Tongan</td>
-<td>(hi)kofi</td>
+<td><i>(hi)kofi</i></td>
 <td>
 '<span>tongs</span>'</td>
 </tr>
 <tr>
 <td>Pn</td>
 <td>West Futunan</td>
-<td>(i)kofi</td>
+<td><i>(i)kofi</i></td>
 <td>
 '<span>large wooden tongs for removing stones from oven</span>'</td>
 </tr>
@@ -1089,6 +1098,7 @@ Only certain kinds of stones are suitable for use in stone ovens. Although some 
 
 
 <a id="s-3"></a>
+
 ## 3. Cooking methods
 
 
@@ -1101,7 +1111,8 @@ He has listed terms for a range of cooking methods, with a word of warning as to
 
 
 <a id="s-3-1"></a>
-## 3.1. Cooking in stone oven
+
+### 3.1. Cooking in stone oven
 
 
 <table>
@@ -1146,7 +1157,8 @@ Lichtenberk also gives a reconstruction, _&ast;biti_ 'cook with hot stones (eith
 
 
 <a id="s-3-2"></a>
-## 3.2. Roasting, burning, branding
+
+### 3.2. Roasting, burning, branding
 
 
 <table>
@@ -1311,14 +1323,16 @@ Lichtenberk also gives a reconstruction, _&ast;biti_ 'cook with hot stones (eith
 
 
 <a id="s-3-3"></a>
-## 3.3. Piercing, pricking
+
+### 3.3. Piercing, pricking
 
 
-When food was roasted, instead of simply being placed in the fire, it may have been skewered. The terms referring to skewering and skewers were also used to refer to testing food by pricking to see whether it was done. (See PMP _&ast;cukcuk_, _suksuk_ 'skewer', and POc _&ast;(su)su(k)_ 'anything used to pierce, prick, a skewer'; _&ast;(su)suk-i-_ 'pierce, prick'; [Ch.4, §3.2.1](chapter4.md#s-3-2) and [Ch.9, §4.1](chapter9.md#s-4-1)).
+When food was roasted, instead of simply being placed in the fire, it may have been skewered. The terms referring to skewering and skewers were also used to refer to testing food by pricking to see whether it was done. (See PMP _&ast;cukcuk_, _suksuk_ 'skewer', and POc _&ast;(su)su(k)_ 'anything used to pierce, prick, a skewer'; _&ast;(su)suk-i-_ 'pierce, prick'; Ch. 4, §3.2.1 and Ch. 9, §4.1).
 
 
 <a id="s-3-4"></a>
-## 3.4. Boiling, steaming
+
+### 3.4. Boiling, steaming
 
 
 Two verbs are reconstructable for POc with the meaning 'boil'. The problem is that the sources of data do not usually distinguish between boiling and steaming, both of which are practised in Oceania, 'boil' being the usual gloss. The difference between boiling and steaming lies in the amount of liquid used. For boiling, the food is (more or less) entirely covered with the liquid; for steaming, only a small amount of liquid is used. If POc did have a lexical distinction between the two processes, there is some evidence, albeit weak, that the verb for 'boil' was &ast;nasu and that the one for 'steam' was &ast;napu, It is also conceivable that of the two terms, &ast;nasu was unmarked and could be used to refer to both types of process.
@@ -1406,14 +1420,15 @@ Two verbs are reconstructable for POc with the meaning 'boil'. The problem is th
 
 
 
-It is possible that the forms attributed to PPT &ast;na(q)u(q) 'clay dish' in [Chapter 4, §2.1.5](chapter4.md#s-2-1), are also reflexes of &ast;napu: see the discussion there.
+It is possible that the forms attributed to PPT &ast;na(q)u(q) 'clay dish' in Chapter 4, §2.1.5, are also reflexes of &ast;napu: see the discussion there.
 
 
 <a id="s-3-5"></a>
-## 3.5. Warming
+
+### 3.5. Warming
 
 
-Lichtenberk contributes a POc term which he glosses as 'warm oneself by fire; warm up, reheat (esp. food)' . Ann Chowning has added cognates from Kove, Molima and Nakanai which, like the Pukapuka term, refer to heating of leaves in preparation for mat making (see [Chapter 4, §3.1.1](chapter4.md#s-3-1)).The POc gloss has been generalised accordingly.
+Lichtenberk contributes a POc term which he glosses as 'warm oneself by fire; warm up, reheat (esp. food)' . Ann Chowning has added cognates from Kove, Molima and Nakanai which, like the Pukapuka term, refer to heating of leaves in preparation for mat making (see Chapter 4, §3.1.1).The POc gloss has been generalised accordingly.
 
 <table>
 <tr>
@@ -1525,9 +1540,9 @@ cf. also:
 <tr>
 <td>Pn</td>
 <td>Tongan</td>
-<td>lala</td>
+<td><i>lala</i></td>
 <td>
-'<span>(place) uninhabited, empty or almost so</span>'; '<span>half-cook, cook lightly (fish)</span>'; '<span>taxon of shrubs inc. Vitex trifolia, Dendrolobium umbellatum and Wikstroemiafoetida</span>'</td>
+'<span>(place) uninhabited, empty or almost so</span>'; '<span>half-cook, cook lightly (fish)</span>'; '<span>taxon of shrubs inc. Vitex trifolia, Dendrolobium umbellatum and Wikstroemia foetida</span>'</td>
 </tr>
 </table>
 
@@ -1537,7 +1552,8 @@ cf. also:
 
 
 <a id="s-3-6"></a>
-## 3.6. Singeing
+
+### 3.6. Singeing
 
 
 A term can be reconstructed for the action of singeing food in preparation for cooking:
@@ -1602,7 +1618,8 @@ A term can be reconstructed for the action of singeing food in preparation for c
 
 
 <a id="s-3-7"></a>
-## 3.7. Wrapping prior to oven-cooking
+
+### 3.7. Wrapping prior to oven-cooking
 
 
 Two similar terms for wrapping food for cooking (baking or roasting), POc _&ast;kapu(t)_, _&ast;kaput-i-_ and POc _&ast;kopu_, have been reconstructed. [Mills](../references.md#source-Mills1981) ([1981](../references.md#source-Mills1981): 73) has proposed PMP _&ast;kaput_ 'close, cover', while [Blust](../references.md#source-Blust1986) ([1986](../references.md#source-Blust1986):45) gives a gloss of 'tie or clasp together' for an identical PMP reconstruction. Oceanic reflexes indicate two distinct terms, although there may have been some blending of meaning in daughter languages. Lichtenberk suggests that the two POc terms may have referred to different ways of wrapping food; [Firth](../references.md#source-Firth1957) ([1957](../references.md#source-Firth1957)), for instance, gives four terms for different ways of wrapping food in Tikopia. From the glosses below, it seems possible that _&ast;kapu(t)_, _&ast;kaput-i-_ referred to covering (as an earth oven is covered), whilst &ast;kopu referred to the wrapping of the food in bundles. For both terms, reflexes indicate wider reference than to food alone. In Polynesia they have come to refer more specifically to clothing or blankets.
@@ -1828,7 +1845,8 @@ Two similar terms for wrapping food for cooking (baking or roasting), POc _&ast;
 
 
 <a id="s-3-8"></a>
-## 3.8. Uncooked food
+
+### 3.8. Uncooked food
 
 
 Lichtenberk also considers terms for uncooked food. He proposes a general POc term _&ast;(a)mataq_ for raw food (possibly excluding certain foodstuffs) which also refers to unripe foodstuff, such as fruit. Its reflexes in fact seem to reflect two forms, _&ast;mataq_ and _&ast;qa-mataq_, the latter presumably derived from the former, but the function of _&ast;qa-_ is unclear.
@@ -2016,7 +2034,7 @@ Lichtenberk also considers terms for uncooked food. He proposes a general POc te
 
 
 
-PAn/PMP _&ast;maqataq_ evidently consisted of _&ast;ma-_ 'anticausative' ([Ch.2, §3.1.2](chapter2.md#s-3-1)) + _qataq_ 'eat something raw'. The POc reflex _&ast;mataq_ shows irregular loss of medial _&ast;-q-_. The unaffixed base also survived in POc, and is reflected, with meanings similar to _&ast;mataq_, in some Oceanic languages.
+PAn/PMP _&ast;maqataq_ evidently consisted of _&ast;ma-_ 'anticausative' (Ch. 2, §3.1.2) + _qataq_ 'eat something raw'. The POc reflex _&ast;mataq_ shows irregular loss of medial _&ast;-q-_. The unaffixed base also survived in POc, and is reflected, with meanings similar to _&ast;mataq_, in some Oceanic languages.
 
 <table>
 <tr>
@@ -2149,7 +2167,8 @@ Alongside _&ast;qataq_, PAn also had a term _&ast;qetaq_, which retained its ver
 
 
 <a id="s-3-9"></a>
-## 3.9. Food cooked or ripe
+
+### 3.9. Food cooked or ripe
 
 
 Similarly, the term for 'cooked' also meant 'ripe'; both glosses could be subsumed as 'ready to be eaten'.
@@ -2273,6 +2292,7 @@ Another term with meaning similar to _&ast;maosak_ stresses the good quality of 
 
 
 <a id="s-4"></a>
+
 ## 4. Preserving
 
 
@@ -2283,7 +2303,8 @@ Lichtenberk (p.277) records two main ways of preserving food in Oceania. One is 
 
 
 <a id="s-4-1"></a>
-## 4.1. Drying, smoking
+
+### 4.1. Drying, smoking
 
 
 <table>
@@ -2389,7 +2410,8 @@ Malcolm Ross (pers.comm.) reconstructs:
 
 
 <a id="s-4-2"></a>
-## 4.2. Fermentation
+
+### 4.2. Fermentation
 
 
 Fermentation of food is geographically much more restricted. Small islands, particularly atolls, are susceptible to food shortages as a result of drought or prolonged stormy weather which makes fishing impossible, and have greater need for food reserves. Food fermentation is practised primarily in those areas where sago is not available as a staple, the latter being easily stored for lengthy periods of time. Assuming that sago was available as a foodstuff in POc times (see [Dutton 1994](../references.md#source-Dutton1994)), Lichtenberk argues (p.278) that the nearly complementary distribution of sago as a staple and fermented foodstuff suggests that the presence of fermentation in Micronesia and Polynesia is due to independent developments. Also relevant, however, is the fact that fermented breadfruit is regarded as one of the few foods suitable for carrying on longer sea voyages, and thus a prime suspect, along with its term, for borrowing. [Yen](../references.md#source-Yen1975) ([1975](../references.md#source-Yen1975)) writes that in Melanesia fermentation appears to be practised only in Santa Cruz and ascribes its presence there to Polynesian influence. However, David Walsh has pointed out (pers.comm. with Lichtenberk) that fermentation is practised also in some areas in Vanuatu. (See the Namakir form mada below.) Ross (Food plants, vol. 3) points out that there is a curious cross-over between the reflexes of PEOc _&ast;mara_ 'preserved breadfruit' and POc _&ast;madraR_ 'grow ripe, overripe', _&ast;madraR-i-_ 'grow ripe, overripe from (s.t.) (?)'. In scattered languages in Vanuatu, Fiji and Micronesia, a reflex of _&ast;madraR_/_&ast;madraR-i-_ has taken over the 'preserved breadfruit' sense which we would instead expect to find associated with a reflex &ast;mara. Since closely related languages both in Vanuatu and in Micronesia disagree as to which term they reflect, Ross infers that the closeness of both form and meaning has led to confusion between the two terms, leading to more than one independent occurrence of crossover. POc &ast;madraR seems to have been applied specifically to breadfruit and bananas, both of which become soft and mushy when overripe. Breadfruit and bananas are also the two foodstuffs which today are most commonly preserved by fermentation ([Yen 1975](../references.md#source-Yen1975)). Chowning lists a Nakanai cognate which indicates that the original POc term may have meant simply 'be spoiled (of food or drink)', with its meaning narrowing in Eastern Oceanic.
@@ -2655,12 +2677,14 @@ Other terms which in parts of Polynesia refer to fermented breadfruit are derive
 
 
 <a id="s-5"></a>
+
 ## 5. Food processing
 
 
 
 <a id="s-5-1"></a>
-## 5.1. Pounding
+
+### 5.1. Pounding
 
 
 We have terms for the action of pounding or crushing, but have been unable to reconstruct any term for the implement or implements involved apart from PWOc _&ast;walu_ 'sago beater' and POc _&ast;ike_ '(bark-cloth) beater' (for the latter, see Ch. 4, §S . l).
@@ -2698,18 +2722,19 @@ Sago is pounded with an implement consisting of a head like a small adze, mounte
 
 > Pounded foods are widespread in Oceania ([Yen 1975](../references.md#source-Yen1975)). In Pidgin and in English they are referred to as 'puddings' (although not all puddings require pounding). The usual main ingredient is tubers (taro, yam), cooked and pounded, mashed into a paste together with other ingredients such as coconut cream or nuts, and then usually recooked.
 
-A large wooden bowl (POc &ast;tabiRa, PCP &ast;kumete, see [Ch.4, §2.2.1](chapter4.md#s-2-2)) was traditionally used as a mortar. Sago was pounded in a trough, stronger and hea vier than a bowl, and designed so that water could run off from one end. Only isolated terms have been located (Muyuw kas 'trough for sago-making'; Loniu _kupʷi_ 'trough in which sago is pounded').
+A large wooden bowl (POc &ast;tabiRa, PCP &ast;kumete, see Ch. 4, §2.2.1) was traditionally used as a mortar. Sago was pounded in a trough, stronger and hea vier than a bowl, and designed so that water could run off from one end. Only isolated terms have been located (Muyuw kas 'trough for sago-making'; Loniu _kupʷi_ 'trough in which sago is pounded').
 
 
 <a id="p-161"></a>
 
 Figure 22: taro stamper (no reconstruction) (from [Nevermann 1934](../references.md#source-Nevermann1934): 192) PWOc &ast;walu 'sago beater' (from [Nevermann 1934](../references.md#source-Nevermann1934): 174)
 
-As Blust (ACD) notes, terms dealing with the action of pounding frequently contain the root _&ast;-tuk_. A number of reconstructions have been made which evidently refer to hitting, pounding, beating, breaking open, and so on, not just of foodstuffs, but with general application. Cognate sets for the following reconstructions are included in [Chapter 9, §5.1](chapter9.md#s-5-1): POc _&ast;tutuk_ 'pound, mash by pounding, hammer, crack by hammering' (from PAn _&ast;tuqtuq_); POc _&ast;tuki-_ 'pound'; POc _&ast;putu(k)_ 'knock, pound, beat' (ACD) (from PMP _&ast;buTuk_); and POc _&ast;qatuŋ-i_ 'strike from above, pound'.
+As Blust (ACD) notes, terms dealing with the action of pounding frequently contain the root _&ast;-tuk_. A number of reconstructions have been made which evidently refer to hitting, pounding, beating, breaking open, and so on, not just of foodstuffs, but with general application. Cognate sets for the following reconstructions are included in Chapter 9, §5.1: POc _&ast;tutuk_ 'pound, mash by pounding, hammer, crack by hammering' (from PAn _&ast;tuqtuq_); POc _&ast;tuki-_ 'pound'; POc _&ast;putu(k)_ 'knock, pound, beat' (ACD) (from PMP _&ast;buTuk_); and POc _&ast;qatuŋ-i_ 'strike from above, pound'.
 
 
 <a id="s-5-2"></a>
-## 5.2. Grating, scraping
+
+### 5.2. Grating, scraping
 
 
 Foodstuffs such as tubers and coconut meat are often grated before further processing. Tubers also need to be scraped to remove dirt. Both processes can be carried out with a shell such as a cockle, and the scraper/grater may be referred to by its shell name. Scrapers and graters are not always separately identified. The same implement may serve both functions, just as the same verb may refer to both actions.
@@ -3340,9 +3365,9 @@ A number of formally similar terms have been reconstructed for the action of scr
 
 
 
-Yet another reconstruction is POc _&ast;asa(q)_ 'grate, sharpen by grating or rubbing' from PAn _&ast;Sasaq_ 'whet, sharpen' (see [Ch.4, §4.1](chapter4.md#s-4-1).S).
+Yet another reconstruction is POc _&ast;asa(q)_ 'grate, sharpen by grating or rubbing' from PAn _&ast;Sasaq_ 'whet, sharpen' (see Ch. 4, §4.1.S).
 
-Lichtenberk comments (pp. 280-281) on the recurring sound symbolism evident in these items, a feature which Blust has identified with PAn forms meaning 'rub, scrape, scratch'. Terms with similar sound symbolism readily undergo conflation. Lichtenberk also refers to the possibility that in POc or pre-POc times there was some kind of derivational relation among at least some of the forms, noting that unlike the other forms, _&ast;ko(r,R)as_ took as its direct object a noun phrase referring to the stuff scraped off rather than the object being scraped (e.g. the coconut meat rather than the coconut). (See also [Ch.9, §2.2](chapter9.md#s-2-2).)
+Lichtenberk comments (pp. 280-281) on the recurring sound symbolism evident in these items, a feature which Blust has identified with PAn forms meaning 'rub, scrape, scratch'. Terms with similar sound symbolism readily undergo conflation. Lichtenberk also refers to the possibility that in POc or pre-POc times there was some kind of derivational relation among at least some of the forms, noting that unlike the other forms, _&ast;ko(r,R)as_ took as its direct object a noun phrase referring to the stuff scraped off rather than the object being scraped (e.g. the coconut meat rather than the coconut). (See also Ch. 9, §2.2.)
 
 <table>
 <tr>
@@ -3399,10 +3424,11 @@ Lichtenberk comments (pp. 280-281) on the recurring sound symbolism evident in t
 
 
 <a id="s-5-3"></a>
-## 5.3. Peeling
+
+### 5.3. Peeling
 
 
-Lichtenberk lists a number of terms for the action of peeling. The first is a transitive verb formed from the base _&ast;kulit_ 'skin'. See also POc _&ast;supi_ 'sharpen, shave, pare' ([Ch.9, §3.6](chapter9.md#s-3-6)) some of whose reflexes also mean 'peel'.
+Lichtenberk lists a number of terms for the action of peeling. The first is a transitive verb formed from the base _&ast;kulit_ 'skin'. See also POc _&ast;supi_ 'sharpen, shave, pare' (Ch. 9, §3.6) some of whose reflexes also mean 'peel'.
 
 <table>
 <tr>
@@ -3601,7 +3627,8 @@ Lichtenberk lists a number of terms for the action of peeling. The first is a tr
 
 
 <a id="s-5-4"></a>
-## 5.4. Fish scaling
+
+### 5.4. Fish scaling
 
 
 <table>
@@ -3646,7 +3673,8 @@ Lichtenberk lists a number of terms for the action of peeling. The first is a tr
 
 
 <a id="s-5-5"></a>
-## 5.5. Husking
+
+### 5.5. Husking
 
 
 The following term may have referred both to the husking of coconuts and to the implement used. This was a sharpened stick, usually set finnly in the ground. The same term is sometimes used to refer to a digging stick.
@@ -3782,7 +3810,7 @@ The following term may have referred both to the husking of coconuts and to the 
 
 
 
-POc _&ast;soka_, _soka-i-_ (V) 'pierce; stab' (see [Ch.9, §4.1](chapter9.md#s-4-1)) (Lichtenberk has _&ast;joka_) and POc _&ast;potak_ 'crack or split open (nuts, coconuts) are also used of husking coconuts:
+POc _&ast;soka_, _soka-i-_ (V) 'pierce; stab' (see Ch. 9, §4.1) (Lichtenberk has _&ast;joka_) and POc _&ast;potak_ 'crack or split open (nuts, coconuts) are also used of husking coconuts:
 
 <table>
 <tr>
@@ -3876,7 +3904,8 @@ POc _&ast;soka_, _soka-i-_ (V) 'pierce; stab' (see [Ch.9, §4.1](chapter9.md#s-4
 
 
 <a id="s-5-6"></a>
-## 5.6. Straining
+
+### 5.6. Straining
 
 
 The most common method of straining, necessary for processing such foodstuffs as sago and coconut cream, and also used in the production of kava, is by using the fibrous spathe of a coconut frond.
@@ -3981,7 +4010,8 @@ The most common method of straining, necessary for processing such foodstuffs as
 
 
 <a id="s-5-7"></a>
-## 5.7. Plucking
+
+### 5.7. Plucking
 
 
 <table>
@@ -4081,7 +4111,8 @@ The most common method of straining, necessary for processing such foodstuffs as
 
 
 <a id="s-5-8"></a>
-## 5.8. Wringing, squeezing
+
+### 5.8. Wringing, squeezing
 
 
 Lichtenberk includes several terms for squeezing or wringing:
@@ -4208,21 +4239,21 @@ cf. also:
 <tr>
 <td>SES</td>
 <td>Arosi</td>
-<td>bibi</td>
+<td><i>bibi</i></td>
 <td>
 '<span>crush, squeeze, crowd</span>'</td>
 </tr>
 <tr>
 <td>PT</td>
 <td>Gumawana</td>
-<td>(vata)bibi</td>
+<td><i>(vata)bibi</i></td>
 <td>
 '<span>squeeze up against something</span>'</td>
 </tr>
 <tr>
 <td>PT</td>
 <td>Gumawana</td>
-<td>bibi</td>
+<td><i>bibi</i></td>
 <td>
 '<span>squeeze (boil +)</span>'</td>
 </tr>
@@ -4375,7 +4406,7 @@ cf. also:
 
 
 
-Another reconstruction, POc _&ast;piri_ 'twist, wrap around', whose reflexes refer typically to the manufacture of rope or twine (see [Ch.4, §3.2](chapter4.md#s-3-2)), has reflexes in some languages which refer to extracting coconut milk by squeezing it through coconut fibre (MM: Kia _piriki_ 'wring, squeeze coconut milk', NCV: Tamambo _viri_ 'twist, plait, braid; coconut milk'. See also SES: Arosi _biri-yi_ 'squeeze coconut milk through fibre').
+Another reconstruction, POc _&ast;piri_ 'twist, wrap around', whose reflexes refer typically to the manufacture of rope or twine (see Ch. 4, §3.2), has reflexes in some languages which refer to extracting coconut milk by squeezing it through coconut fibre (MM: Kia _piriki_ 'wring, squeeze coconut milk', NCV: Tamambo _viri_ 'twist, plait, braid; coconut milk'. See also SES: Arosi _biri-yi_ 'squeeze coconut milk through fibre').
 
 Lichtenberk writes (p.283):
 
@@ -4386,7 +4417,8 @@ Lichtenberk writes (p.283):
 
 
 <a id="s-5-9"></a>
-## 5.9. Mixing
+
+### 5.9. Mixing
 
 
 Finally, Lichtenberk lists terms for mixing or stirring:
@@ -4536,7 +4568,7 @@ Blust records another:
 
 ## Notes
 
-[^1]:  Meredith Osmond is responsible for reordering and revising Lichtenberk's work in order to integrate it into the present volume and for some additional reconstructions in [§2](#s-2), Fire and the fireplace. Some data and comments have been added from Malcolm Ross's verb analysis in Chapter 9.
+[^1]:  Meredith Osmond is responsible for reordering and revising Lichtenberk's work in order to integrate it into the present volume and for some additional reconstructions in §2, Fire and the fireplace. Some data and comments have been added from Malcolm Ross's verb analysis in Chapter 9.
 
 [^2]: WMP: Chamorro _chum_ 'hole in the ground for baking'; CMP: Fordata _umun_ 'pit in which tubers are baked'; Kei _umun_ 'pit in which food is cooked'.
 
@@ -4544,6 +4576,6 @@ Blust records another:
 
 [^4]: [Geraghty](../references.md#source-Geraghty1990) ([1990](../references.md#source-Geraghty1990):65) also cites PCP _&ast;ŋiwai_ on the basis of an Eastern Fijian term 'browned by exposure to sun',
 
-[^5]:   See [Chapter 9, §2.2](chapter9.md#s-2-2)and accompanying footnote 2. Ross proposes PAn root _&ast;-ras_ 'grate, scrape, scar', POc _&ast;kora(s)_, _&ast;koras-i-_ 'scrape out (coconut meat +); dregs of strained coconut scrapings'.
+[^5]:   See Chapter 9, §2.2and accompanying footnote 2. Ross proposes PAn root _&ast;-ras_ 'grate, scrape, scar', POc _&ast;kora(s)_, _&ast;koras-i-_ 'scrape out (coconut meat +); dregs of strained coconut scrapings'.
 
 [^6]:   Depending on whether the NNG term is ascribed to &ast;koRi or &ast;kori(s), &ast;koris-i-.

@@ -4,6 +4,7 @@ by Meredith Osmond and Andrew Pawley
 
 
 <a id="s-1"></a>
+
 ## 1. Introduction
 
 
@@ -44,12 +45,14 @@ The mammals known to POc speakers may be divided into those indigenous to the Bi
 
 
 <a id="s-2"></a>
+
 ## 2. Indigenous terrestrial mammals
 
 
 
 <a id="s-2-1"></a>
-## 2.1. Introduction
+
+### 2.1. Introduction
 
 
 
@@ -286,28 +289,28 @@ cf. also:
 <tr>
 <td>NNG</td>
 <td>Ali</td>
-<td>meik</td>
+<td><i>meik</i></td>
 <td>
 '<span>wallaby</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
 <td>Kairiru</td>
-<td>meik</td>
+<td><i>meik</i></td>
 <td>
 '<span>wallaby</span>'</td>
 </tr>
 <tr>
 <td>PT</td>
 <td>Kuni</td>
-<td>man</td>
+<td><i>man</i></td>
 <td>
 '<span>wallaby, <em>M. agilis</em></span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
 <td>Matukar</td>
-<td>maku(sik)</td>
+<td><i>maku(sik)</i></td>
 <td>
 '<span>wallaby</span>' (<span>-sik perhaps from POc <em>*siki</em> ‘small’</span>)</td>
 </tr>
@@ -332,7 +335,8 @@ Fewer than twenty terms for _Dendrolagus_ have been collected in total, all bar 
 
 
 <a id="s-2-3"></a>
-## 2.3. Cuscuses (_Phalangeridae_)
+
+### 2.3. Cuscuses (_Phalangeridae_)
 
 
 The phalangerids include the cuscuses of the New Guinea region and the brushtail possums of Australia. They are large arboreal herbivores. Several species of cuscus are present in mainland New Guinea and in the D’Entrecasteaux, Louisiade and Trobriand Islands. Phalangers are common in the islands immediately to the west and southwest of New Guinea, including Sulawesi, Timor, Ambon, Seram, Burn and Kei. Groves (1984) notes that Ambon and Seram have a distinct variety of Phalanger orientalis, and concludes that it got there without human intervention.
@@ -454,10 +458,10 @@ Figure 5.2   SpHocuscus maculatus, spotted cuscus
 The following Southeast Solomonic terms reflect _&ast;kadora_, with _-r-_ for expected _-l-_. This is consistent with borrowing from Meso-Melanesian neighbours in the western Solomons.
 
 ```
-SES:    Gela         kadora      ‘cuscus’
-SES:    W G’canal    kadora      ‘cuscus’
-SES:    Talise       kadora      ‘cuscus’
-SES:    Malango      kadora      ‘cuscus’
+      SES:    Gela         kadora      ‘cuscus’
+      SES:    W G’canal    kadora      ‘cuscus’
+      SES:    Talise       kadora      ‘cuscus’
+      SES:    Malango      kadora      ‘cuscus’
 ```
 
 A second reconstruction is more weakly supported. It is well represented in the Cristobal- Malaitan branch of SE Solomonic but otherwise is reflected only in Gela, where the reflex refers to a juvenile cuscus, and in one Papuan Tip language.
@@ -527,7 +531,8 @@ A second reconstruction is more weakly supported. It is well represented in the 
 
 
 <a id="s-2-4"></a>
-## 2.4. Other possum families (_Acrobatidae_, _Burramyidae_, _Petauridae_, _Pseudocheiridae_)
+
+### 2.4. Other possum families (_Acrobatidae_, _Burramyidae_, _Petauridae_, _Pseudocheiridae_)
 
 
 Besides the cuscuses, four other families within the super-family Phalangeroidea are represented in New Guinea. They include little feather-tailed possums (_Acrobatidae_), pygmy possums (_Burramyidae_), sugar gliders, striped possums and long-fingered striped trioks (all _Petauridae_) and ringtail possums (_Pseudocheiridae_). The _Acrobatidae_ and _Burramyidae_ are restricted to the Australian-New Guinea land mass. Sugar gliders are also found in the D’Entrecasteaux, Louisiade and Trobriand Islands and New Britain, and outside the Oceanic region on Halmahera, Kei and Aru. They are absent from New Ireland, the Solomons and the Admiralties. The _Pseudocheiridae_ are poor dispersers who prefer montane forests, and are confined to New Guinea and a few of the larger islands off the coast of western New Guinea. A PNGOc term for ‘sugar glider’ is supported by probable cognates shared by several Papuan Tip languages and at least one North New Guinea language. However, reflexes show a number of irregularities, and it is necessary to reconstruct doublets.
@@ -588,14 +593,14 @@ cf. also:
 <tr>
 <td>PT</td>
 <td>Gapapaiwa</td>
-<td>surasura</td>
+<td><i>surasura</i></td>
 <td>
 '<span>flying squirrel</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
 <td>Tolai</td>
-<td>diradira</td>
+<td><i>diradira</i></td>
 <td>
 '<span>flying squirrel</span>' (<span><em>d-</em> for †<em>∅</em></span>)</td>
 </tr>
@@ -609,7 +614,8 @@ Figure 5.3   Petaurus breviceps, sugar glider
 
 
 <a id="s-2-5"></a>
-## 2.5. Bandicoots (_Peroryctidae_)
+
+### 2.5. Bandicoots (_Peroryctidae_)
 
 
 New Guinea is home to several genera of the family _Peroryctidae_, the bandicoots. They include _Echymipera_ (common or spiny bandicoot, long-nosed bandicoot), _Peroryctes_ (giant bandicoot, Raffray’s bandicoot), and _Microperoryctes_ (mouse bandicoot, striped bandicoot). The mouse bandicoot is found only in the west of West Papua but the other genera are distributed widely on mainland New Guinea. Bandicoots are not present in the Solomons. Spriggs (1997:54) writes that at Pamwak, in Manus, bandicoots appear suddenly in the archaeological record at about 13,000 BP and quickly become dominant in the faunal record. This suggests human introduction. To the west of New Guinea, outside the region occupied by speakers of Oceanic languages, bandicoot species are present on Seram, Yapen, Waigeo, Kei and Aru. Compilers of wordlists are often unfamiliar with bandicoots, describing them as ‘large bush rats’, ‘marsupial rats’ or similar.
@@ -731,10 +737,10 @@ Figure 5.4   _Microperoryctes longicauda_, long-tailed bandicoot
 The following are probably borrowed from a pre-Oceanic or early Oceanic language ([Ross 1988](../references.md#source-Ross1988):21):
 
 ```
-NNG: Megiar       madar        ‘bandicoot’
-NNG: Takia        madar        ‘bandicoot’
-NNG: Yabem        mojaŋ        ‘marsupial rat, cuscus, possum, tree kangaroo’
-NNG: MaposBuang   masaŋ        ‘possum, _Pseudocheirus corinnae_, yellow-green ring-tailed possum’
+  NNG: Megiar       madar        ‘bandicoot’
+  NNG: Takia        madar        ‘bandicoot’
+  NNG: Yabem        mojaŋ        ‘marsupial rat, cuscus, possum, tree kangaroo’
+  NNG: MaposBuang   masaŋ        ‘possum, _Pseudocheirus corinnae_, yellow-green ring-tailed possum’
 ```
 
 
@@ -742,7 +748,8 @@ NNG: MaposBuang   masaŋ        ‘possum, _Pseudocheirus corinnae_, yellow-gree
 
 
 <a id="s-2-6"></a>
-## 2.6. Marsupial carnivores (_Dasyuridae_)
+
+### 2.6. Marsupial carnivores (_Dasyuridae_)
 
 
 The _Dasyuridae_ are a family of carnivorous and insectivorous marsupial rodents, including various antechinus species and quolls and, most famously, the Tasmanian devil. Five genera of dasyurids are unique to New Guinea and three genera are common to New Guinea and Australia. Most dasyurids are small, weighing between 100-500 grams, although quolls of the New Guinea rainforest may exceed half a kilogram in weight ([Flannery 1995](../references.md#source-Flannery1995)b: 83). Dasyurids may be either diurnal or nocturnal, and some antechinus species are partly arboreal. Many species are found in rainforest, often at middle to high altitudes. Few members of the family have been recorded from coastal Austronesian-speaking areas, although one antechinus is found on Normanby in the D’Entrecasteaux Group, and other dasyurids have been recorded from the Aru Islands. [Flannery](../references.md#source-Flannery1995) ([1995](../references.md#source-Flannery1995)b:84) comments that quolls will enter villages to catch rats, and are respected as fierce predators by most New Guineans familiar with them, who show great caution when handling them.
@@ -751,14 +758,16 @@ No Oceanic terms for dasyurids have been recorded. It is likely that compilers o
 
 
 <a id="s-2-7"></a>
-## 2.7. Echidnas (_Tachyglossidae_)
+
+### 2.7. Echidnas (_Tachyglossidae_)
 
 
 Monotremes are represented in New Guinea by two genera of echidna: _Tachyglossus_ (short- beaked echidna) and _Zaglossus_ (long-beaked echidna). Both are regarded as rare. [Flannery](../references.md#source-Flannery1995) ([1995](../references.md#source-Flannery1995)b:67) suggests that hunting pressure has severely reduced their numbers. Very little is known about the distribution and natural history of _Tachyglossus_, but it has been recorded in the Markham valley and around Port Moresby, and from the island of Salawati off the Bird’s Head. _Zaglossus_ has also been reported from both the western and eastern extremities of New Guinea, but is found only where population densities are low. A term for the echidna is present in only two languages in our sample (Sinaugoro _modagini_ ‘anteater’ (cf. _moda_ ‘bandicoot’) and Motu _miɣu_ ‘short-beaked echidna’) and no reconstructions are possible.
 
 
 <a id="s-2-8"></a>
-## 2.8. Rats (_Muridae_)
+
+### 2.8. Rats (_Muridae_)
 
 
 Rats were a significant source of protein for many Oceanic communities in prehistoric times. The diversity of rat species diminishes sharply as one moves from New Guinea to the Bismarcks and Solomons. In New Guinea the murid fauna is ‘abundant and diverse, and for the size of the land mass, one of the most species-rich found anywhere on earth’ ([Flannery 1995](../references.md#source-Flannery1995)b:231). There are some 27 genera there, including Hydromys, Leptomys, Mallomys, Melomys, Pogonomys, Uromys, Rattus and Stenomys, although only a subset of these are present in any one region. Most New Guinea area species are endemic.
@@ -1046,28 +1055,28 @@ cf. also: the following terms for ‘rat’ from Malakula languages:
 <tr>
 <td>NCV</td>
 <td>Naman</td>
-<td>labët</td>
+<td><i>labët</i></td>
 <td>
 </td>
 </tr>
 <tr>
 <td>NCV</td>
 <td>Nati</td>
-<td>ne-lemput</td>
+<td><i>ne-lemput</i></td>
 <td>
 </td>
 </tr>
 <tr>
 <td>NCV</td>
 <td>Neve’ei</td>
-<td>ne-labut</td>
+<td><i>ne-labut</i></td>
 <td>
 </td>
 </tr>
 <tr>
 <td>NCV</td>
 <td>Southwest Bay</td>
-<td>lambut</td>
+<td><i>lambut</i></td>
 <td>
 </td>
 </tr>
@@ -1296,11 +1305,11 @@ Lincoln (2007) points to terms for ‘rat’ in various PT languages from Milne 
 Figure 5.6   Dobsonia moluccensis, greater bare-backed bat
 
 ```
-PT:     Oyaoya         gimau
-PT:     Logea          gimʷau
-PT:     Tubetube       gimʷau
-PT:     Saliba         yimʷau
-PT:     Gilagila       gibʷau
+   PT:     Oyaoya         gimau
+   PT:     Logea          gimʷau
+   PT:     Tubetube       gimʷau
+   PT:     Saliba         yimʷau
+   PT:     Gilagila       gibʷau
 ```
 
 The following reconstruction is attributable to Proto Western Oceanic on the basis of cognates in North New Guinea, New Ireland and NW Solomonic.
@@ -1350,7 +1359,8 @@ The following reconstruction is attributable to Proto Western Oceanic on the bas
 
 
 <a id="s-2-9"></a>
-## 2.9. Bats (Order: Chiroptera, Suborders Megachiroptera, Microchiroptera)
+
+### 2.9. Bats (Order: Chiroptera, Suborders Megachiroptera, Microchiroptera)
 
 
 
@@ -1529,7 +1539,7 @@ cf. also:
 <tr>
 <td>Adm</td>
 <td>Titan</td>
-<td>pálimet</td>
+<td><i>pálimet</i></td>
 <td>
 '<span>flying fox, fruit-eating bat</span>'</td>
 </tr>
@@ -1625,35 +1635,35 @@ cf. also: the following, which are glossed’flying fox’ and appear to reflect
 <tr>
 <td>PT</td>
 <td>Balawaia</td>
-<td>maioba</td>
+<td><i>maioba</i></td>
 <td>
 </td>
 </tr>
 <tr>
 <td>PT</td>
 <td>Hula</td>
-<td>maopa</td>
+<td><i>maopa</i></td>
 <td>
 </td>
 </tr>
 <tr>
 <td>PT</td>
 <td>Maopa</td>
-<td>maopa</td>
+<td><i>maopa</i></td>
 <td>
 </td>
 </tr>
 <tr>
 <td>Adm</td>
 <td>Mussau</td>
-<td>marieba</td>
+<td><i>marieba</i></td>
 <td>
 '<span>flying fox</span>' (<span><em>-r-</em> for †<em>-l-</em></span>)</td>
 </tr>
 <tr>
 <td>PT</td>
 <td>Ouma</td>
-<td>maiba</td>
+<td><i>maiba</i></td>
 <td>
 </td>
 </tr>
@@ -1740,12 +1750,14 @@ An unrelated Mwotlap term, il-h'dij fb''oŋ from POc &ast;boi]i ‘night’) ref
 
 
 <a id="s-3"></a>
+
 ## 3. Introduced terrestrial mammals
 
 
 
 <a id="s-3-1"></a>
-## 3.1. Pigs (genus Sus, family _Suidae_)
+
+### 3.1. Pigs (genus Sus, family _Suidae_)
 
 
 Island Southeast Asia is the centre of genetic diversity of the genus Sus, containing six of the 10 generally recognised species: _S. verrucosus_ (the Javan warty pig), _S. barbatus_ (the bearded pig of Malaysia, Sumatra and Borneo with a subspecies in Palawan), _S. celebensis_ (the Sulawesi warty pig), _S. cebifrons_ (the Visayan warty pig), _S. philippensis_ (the Philippines warty pig) and _S. scrofa_ (the common wild pig, endemic to Europe, North Africa, parts of Asia and parts of the Indo-Malaysian archipelago). No pig species is native to New Guinea or any part of Oceania.
@@ -2014,42 +2026,42 @@ cf. also: The following are all Polynesian loans.
 <tr>
 <td>Fij</td>
 <td>Bauan</td>
-<td>vuaka</td>
+<td><i>vuaka</i></td>
 <td>
 </td>
 </tr>
 <tr>
 <td>NCal</td>
 <td>Iaai</td>
-<td>buaka</td>
+<td><i>buaka</i></td>
 <td>
 </td>
 </tr>
 <tr>
 <td>PT</td>
 <td>Magori</td>
-<td>uaka</td>
+<td><i>uaka</i></td>
 <td>
 </td>
 </tr>
 <tr>
 <td>NCal</td>
 <td>Nêlêmwa</td>
-<td>puaka</td>
+<td><i>puaka</i></td>
 <td>
 </td>
 </tr>
 <tr>
 <td>PT</td>
 <td>Sariba</td>
-<td>puaka</td>
+<td><i>puaka</i></td>
 <td>
 </td>
 </tr>
 <tr>
 <td>PT</td>
 <td>Yoba</td>
-<td>uaʔa</td>
+<td><i>uaʔa</i></td>
 <td>
 </td>
 </tr>
@@ -2115,14 +2127,14 @@ cf. also:
 <tr>
 <td>SES</td>
 <td>Arosi</td>
-<td>bʷa-bʷa</td>
+<td><i>bʷa-bʷa</i></td>
 <td>
 '<span>female (only of pigs)</span>' (<span>zero for †-/</span>)</td>
 </tr>
 <tr>
 <td>SES</td>
 <td>Sa'a</td>
-<td>pʷa-pʷa</td>
+<td><i>pʷa-pʷa</i></td>
 <td>
 '<span>female of an animal; lay eggs</span>' (<span>zero for †-/</span>)</td>
 </tr>
@@ -2174,7 +2186,8 @@ In NCV there is a widespread cognate set pointing to PNCV &ast;b wara-h' ara ‘
 
 
 <a id="s-3-2"></a>
-## 3.2. Dogs (_Canis sp._)
+
+### 3.2. Dogs (_Canis sp._)
 
 
 Dogs were brought by humans to Island Southeast Asia, Oceania and Australia from mainland SE Asia within the last few millennia. The pre-European dogs of Oceania and Australia did not bark, but rather howled.
@@ -2227,28 +2240,28 @@ cf. also:
 <tr>
 <td>SES</td>
 <td>Longgu</td>
-<td>ʔusu</td>
+<td><i>ʔusu</i></td>
 <td>
 </td>
 </tr>
 <tr>
 <td>MM</td>
 <td>Petats</td>
-<td>kus</td>
+<td><i>kus</i></td>
 <td>
 </td>
 </tr>
 <tr>
 <td>SES</td>
 <td>Sa'a</td>
-<td>ʔusu</td>
+<td><i>ʔusu</i></td>
 <td>
 </td>
 </tr>
 <tr>
 <td>MM</td>
 <td>Solos</td>
-<td>kus</td>
+<td><i>kus</i></td>
 <td>
 </td>
 </tr>
@@ -2391,49 +2404,49 @@ cf. also:
 <tr>
 <td>SES</td>
 <td>Birao</td>
-<td>kau</td>
+<td><i>kau</i></td>
 <td>
 </td>
 </tr>
 <tr>
 <td>SES</td>
 <td>Gela</td>
-<td>kau</td>
+<td><i>kau</i></td>
 <td>
 </td>
 </tr>
 <tr>
 <td>SES</td>
 <td>Lengo</td>
-<td>kau</td>
+<td><i>kau</i></td>
 <td>
 </td>
 </tr>
 <tr>
 <td>MM</td>
 <td>Mono-Alu</td>
-<td>ʔau-ʔau</td>
+<td><i>ʔau-ʔau</i></td>
 <td>
 </td>
 </tr>
 <tr>
 <td>MM</td>
 <td>Roviana</td>
-<td>ka-kau(la)</td>
+<td><i>ka-kau(la)</i></td>
 <td>
 '<span>indigenous dog, gen. reddish brown. Always howls, never barks</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
 <td>Tolo</td>
-<td>kau</td>
+<td><i>kau</i></td>
 <td>
 </td>
 </tr>
 <tr>
 <td>MM</td>
 <td>Torau</td>
-<td>kau-kau</td>
+<td><i>kau-kau</i></td>
 <td>
 </td>
 </tr>
@@ -2468,35 +2481,35 @@ cf. also:
 <tr>
 <td>SES</td>
 <td>Ghari</td>
-<td>pai</td>
+<td><i>pai</i></td>
 <td>
 </td>
 </tr>
 <tr>
 <td>SES</td>
 <td>Malango</td>
-<td>pai</td>
+<td><i>pai</i></td>
 <td>
 </td>
 </tr>
 <tr>
 <td>Adm</td>
 <td>Mussau</td>
-<td>paua</td>
+<td><i>paua</i></td>
 <td>
 </td>
 </tr>
 <tr>
 <td>Adm</td>
 <td>Seimat</td>
-<td>paua</td>
+<td><i>paua</i></td>
 <td>
 </td>
 </tr>
 <tr>
 <td>SES</td>
 <td>West Guadalcanal</td>
-<td>pai</td>
+<td><i>pai</i></td>
 <td>
 </td>
 </tr>
@@ -2506,15 +2519,15 @@ cf. also:
 PPn &ast;kuli ‘dog’ is well-attested but has no secure non-Polynesian cognates. All apparent cognates in languages of Melanesia and Micronesia are almost certainly borrowings from Polynesian sources. A sample of such borrowed forms, all glossed ‘dog’, is listed below. Although a term from Mota is included, Codrington and Palmer note in their 1896 dictionary that there were no dogs on Banks Islands at first contact.
 
 ```
-NCV:    Mota        kurut
-NCV:    Paamese     hul
-NCV:    Lewo        kuli
-NCV:    Raga        vʷiriu
-SV:     Anejom      kuri
-SV:     Lenakel     kuri
-Mic:    Kiribati    kiri
-Mic:    Marshallese kiṛiw
-Mic:    Ponapean    kiti
+    NCV:    Mota        kurut
+    NCV:    Paamese     hul
+    NCV:    Lewo        kuli
+    NCV:    Raga        vʷiriu
+    SV:     Anejom      kuri
+    SV:     Lenakel     kuri
+    Mic:    Kiribati    kiri
+    Mic:    Marshallese kiṛiw
+    Mic:    Ponapean    kiti
 ```
 
 
@@ -2522,14 +2535,16 @@ Mic:    Ponapean    kiti
 
 
 <a id="s-4"></a>
+
 ## 4. Aquatic mammals
 
 
-The aquatic mammals of tropical Oceania consist of various cetaceans (whales and dolphins) and the dugong. In Oceanic languages these animals are often classified as kinds of fish (POc &ast;ikair, cf ch.8, [§2](#s-2)).
+The aquatic mammals of tropical Oceania consist of various cetaceans (whales and dolphins) and the dugong. In Oceanic languages these animals are often classified as kinds of fish (POc &ast;ikair, cf ch.8, §2).
 
 
 <a id="s-4-1"></a>
-## 4.1. Cetaceans
+
+### 4.1. Cetaceans
 
 
 5.4.1.1 Whales
@@ -2644,7 +2659,7 @@ cf. also:
 <tr>
 <td>NCV</td>
 <td>Ambae</td>
-<td>vure(gi)</td>
+<td><i>vure(gi)</i></td>
 <td>
 </td>
 </tr>
@@ -2729,42 +2744,42 @@ cf. also:
 <tr>
 <td>Fij</td>
 <td>Bauan</td>
-<td>tavuto</td>
+<td><i>tavuto</i></td>
 <td>
 '<span>sperm whale, whose teeth furnish the tabua</span>'</td>
 </tr>
 <tr>
 <td>SV</td>
 <td>Kwamera</td>
-<td>təfra</td>
+<td><i>təfra</i></td>
 <td>
 </td>
 </tr>
 <tr>
 <td>NCV</td>
 <td>Namakir</td>
-<td>taviraʔ</td>
+<td><i>taviraʔ</i></td>
 <td>
 </td>
 </tr>
 <tr>
 <td>NCV</td>
 <td>South Efate</td>
-<td>tafra</td>
+<td><i>tafra</i></td>
 <td>
 </td>
 </tr>
 <tr>
 <td>SV</td>
 <td>Sye</td>
-<td>tovura</td>
+<td><i>tovura</i></td>
 <td>
 </td>
 </tr>
 <tr>
 <td>Fij</td>
 <td>Wayan</td>
-<td>tavuto</td>
+<td><i>tavuto</i></td>
 <td>
 '<span>generic for all large whales</span>'</td>
 </tr>
@@ -2995,28 +3010,28 @@ cf. also:
 <tr>
 <td>Fij</td>
 <td>Bauan</td>
-<td>giō</td>
+<td><i>giō</i></td>
 <td>
 '<span>shark (generic)</span>'</td>
 </tr>
 <tr>
 <td>Fij</td>
 <td>Kadavu</td>
-<td>giō</td>
+<td><i>giō</i></td>
 <td>
 '<span>shark (generic)</span>'</td>
 </tr>
 <tr>
 <td>SV</td>
 <td>Sye</td>
-<td>(so)furwav(oh)</td>
+<td><i>(so)furwav(oh)</i></td>
 <td>
 '<span>dolphin</span>'</td>
 </tr>
 <tr>
 <td>SV</td>
 <td>Ura</td>
-<td>(so)furwav(os)</td>
+<td><i>(so)furwav(os)</i></td>
 <td>
 '<span>dolphin</span>'</td>
 </tr>
@@ -3030,7 +3045,8 @@ Figure 5.8    Dugong dugon, dugong
 
 
 <a id="s-4-2"></a>
-## 4.2. Dugong (Dugong dugori)
+
+### 4.2. Dugong (Dugong dugori)
 
 
 Dugongs are large aquatic mammals, with paddle-like forelimbs, no hindlimbs and a fluked, dolphin-like tail. They graze on beds of seagrass and are found in shallow coastal waters throughout the Indo-Malaysian archipelago, New Guinea and nearby islands including the Admiralties and Bismarcks, and in the Solomons, Vanuatu and New Caledonia, but not in Fiji or places further east (Chambers et al. 1989:1). Dugongs are prized by Pacific Islanders for their flesh, oil and small ivory tusks. Spears and nets are the main methods of capture. In the Trobriands and Manus very strong nets made from pandanus leaves are used while in the Siassi islands nets are made from the bark of a tree (Pyne 1972:276).
@@ -3154,21 +3170,21 @@ cf. also:
 <tr>
 <td>MM</td>
 <td>Babatana</td>
-<td>jui</td>
+<td><i>jui</i></td>
 <td>
 </td>
 </tr>
 <tr>
 <td>NNG</td>
 <td>Kaiep</td>
-<td>kuoi</td>
+<td><i>kuoi</i></td>
 <td>
 </td>
 </tr>
 <tr>
 <td>NNG</td>
 <td>Kairiru</td>
-<td>qui</td>
+<td><i>qui</i></td>
 <td>
 </td>
 </tr>
@@ -3179,12 +3195,14 @@ No reflexes of POc &ast;ruyuŋ have been found in Eastern Oceanic languages. For
 
 
 <a id="s-5"></a>
+
 ## 5. Reptiles
 
 
 
 <a id="s-5-1"></a>
-## 5.1. Marine turtles (_Chelonidae_)
+
+### 5.1. Marine turtles (_Chelonidae_)
 
 
 At least four large species of marine turtles are common to the Oceanic region: the hawksbill (Eretmochelys imbricatd), with its beak-like mouth, the green turtle (Chelonia mydas), with brown or black carapace, the loggerhead (_Caretta caretta_), with its very large head, and the leatherback (Dermochelys coriacea), distinguished from other turtles by its lack of a bony shell, its carapace being covered by thick leathery skin. The much smaller olive fidley (Lep- idochelys olivacea) spends almost all of its time in the open ocean and is less familiar to Pacific Islanders. Turtles are prized by Oceanic communities for their flesh and fat and (in the case of the hawksbill) for their shells.
@@ -3198,44 +3216,44 @@ Figure 5.9   Chelonia mydas, green turtle
 
 ```
 NNG: Lukep (Pono) pon                    ‘turtle’
-olol                   ‘hawksbill turtle’
-padodo                 ‘green turtle’
-kawadui                ‘leatherback turtle’
-MM: Kia             tege                ‘turtle generic’
-tege ŋapo           ‘hawksbill turtle’
-tege mogaha         ‘green turtle’
-tege babaru         ‘leatherback turtle’
-tege kakapodoko     ‘loggerhead turtle’
-MM: Marovo          vonu                ‘turtle (generic)’
-vonu pede           ‘hawksbill turtle’
-vonu ihana          ‘green turtle’
-kariatolu           ‘leatherback turtle’
-kakapodoko          ‘loggerhead turtle’
-SES: Sa’a           honu                ‘turtle (generic)’
-honu hapa           ‘hawksbill turtle’ (hapa ‘turtleshell’)
-honu iʔe            ‘green turtle’ (iʔe ‘fish’)
-kule oŋo            ‘leatherback turtle’ (kule ‘shore’, oŋo ‘mangrove’)
-SES: Arosi          honu                ‘turtle (generic)’
-honu hapa           ‘hawksbill turtle’
-honu hau            ‘soft-shelled turtle’?
-honu marabona       ‘large sp. of turtle’
-honu orobiu         ‘leatherback turtle’
-honu ʔeʔero       ‘female turtle’
-honu maraw        ‘male turtle’
-Mic: Chuukese          win               ‘generic for sea turtles’
-maw               ‘hawksbill turtle’
-winiccen          ‘hawksbill turtle’
-winimʷen         ‘green turtle’
-woŋ               ‘leatherback turtle’
-Fij:   Wayan           ika-bula          ‘turtle generic’
-taku              ‘hawksbill turtle’
-ika-du            ‘green turtle’
-tosiviwalu        ‘leatherback turtle’
-tu-vonu           ‘loggerhead turtle’
-bala              ‘male turtle’
-Pn:    Tikopia        fonu               ‘turtle (generic)’
-fonu koroa         ‘hawksbill turtle’ koroa ‘goods, treasure’)
-fonu tea           ‘green turtle’ (tea ‘white, light-coloured’)
+                  olol                   ‘hawksbill turtle’
+                  padodo                 ‘green turtle’
+                  kawadui                ‘leatherback turtle’
+ MM: Kia             tege                ‘turtle generic’
+                     tege ŋapo           ‘hawksbill turtle’
+                     tege mogaha         ‘green turtle’
+                     tege babaru         ‘leatherback turtle’
+                     tege kakapodoko     ‘loggerhead turtle’
+ MM: Marovo          vonu                ‘turtle (generic)’
+                     vonu pede           ‘hawksbill turtle’
+                     vonu ihana          ‘green turtle’
+                     kariatolu           ‘leatherback turtle’
+                     kakapodoko          ‘loggerhead turtle’
+ SES: Sa’a           honu                ‘turtle (generic)’
+                     honu hapa           ‘hawksbill turtle’ (hapa ‘turtleshell’)
+                     honu iʔe            ‘green turtle’ (iʔe ‘fish’)
+                     kule oŋo            ‘leatherback turtle’ (kule ‘shore’, oŋo ‘mangrove’)
+ SES: Arosi          honu                ‘turtle (generic)’
+                     honu hapa           ‘hawksbill turtle’
+                     honu hau            ‘soft-shelled turtle’?
+                     honu marabona       ‘large sp. of turtle’
+                     honu orobiu         ‘leatherback turtle’
+                        honu ʔeʔero       ‘female turtle’
+                        honu maraw        ‘male turtle’
+ Mic: Chuukese          win               ‘generic for sea turtles’
+                        maw               ‘hawksbill turtle’
+                        winiccen          ‘hawksbill turtle’
+                        winimʷen         ‘green turtle’
+                        woŋ               ‘leatherback turtle’
+ Fij:   Wayan           ika-bula          ‘turtle generic’
+                        taku              ‘hawksbill turtle’
+                        ika-du            ‘green turtle’
+                        tosiviwalu        ‘leatherback turtle’
+                        tu-vonu           ‘loggerhead turtle’
+                        bala              ‘male turtle’
+ Pn:    Tikopia        fonu               ‘turtle (generic)’
+                       fonu koroa         ‘hawksbill turtle’ koroa ‘goods, treasure’)
+                       fonu tea           ‘green turtle’ (tea ‘white, light-coloured’)
 ```
 
 
@@ -3648,7 +3666,8 @@ The leatherback turtle, Dermochelys coriacea, is the largest turtle in the world
 
 
 <a id="s-5-2"></a>
-## 5.2. Crocodiles (_Crocodylidae_)
+
+### 5.2. Crocodiles (_Crocodylidae_)
 
 
 The archaeologist Simon Best has published a comprehensive review of the distribution of crocodiles in the Pacific (Best 1988). Two species occur in Melanesia: Crocodylus porosus, the estuarine or saltwater crocodile and _C. novaeguineae_. The latter is found in freshwater swamps and lakes in lowland New Guinea. The normal (breeding) range of _C. porosus_ extends from south-west India to the Solomons, and from the Tropic of Capricorn in Australia to the Philippines. The easternmost limit for breeding populations is the Santa Cruz group. Individual animals are capable of very long journeys, over 1000 km, and have been reliably recorded in northern Vanuatu, Fiji and Kiribati, but these occasional occurrences do not represent an extension of their breeding range.
@@ -3804,12 +3823,13 @@ Figure 5.11   Varanus indicus, water monitor
 
 
 <a id="s-5-3"></a>
-## 5.3. Lizards
+
+### 5.3. Lizards
 
 
 5.5.3.1 Introduction
 
-Lizards are discussed here under the following headings: monitors ([§5.3.2](#s-5-3)), iguanas ([§5.3.3](#s-5-3)), geckos ([§5.3.4](#s-5-3)), skinks ([§5.3.5](#s-5-3)) and indeterminate ([§5.3.6](#s-5-3)), but there is frequent transfer of name within cognate sets from one family to another. Monitor lizards and iguanas belong to different families, although these names are used interchangeably in some wordlists. The Australian goanna bel ongs with the monitor lizards of Indonesia, New Guinea and the western Pacific. The iguana is of South American origin, and is found in the Pacific today only in the Galapagos Islands, Fiji, Tonga, Wallis and Futuna. In many sources the gloss ‘iguana’ is incorrectly applied to monitor lizards.
+Lizards are discussed here under the following headings: monitors (§5.3.2), iguanas (§5.3.3), geckos (§5.3.4), skinks (§5.3.5) and indeterminate (§5.3.6), but there is frequent transfer of name within cognate sets from one family to another. Monitor lizards and iguanas belong to different families, although these names are used interchangeably in some wordlists. The Australian goanna bel ongs with the monitor lizards of Indonesia, New Guinea and the western Pacific. The iguana is of South American origin, and is found in the Pacific today only in the Galapagos Islands, Fiji, Tonga, Wallis and Futuna. In many sources the gloss ‘iguana’ is incorrectly applied to monitor lizards.
 
 5.5.3.2 Monitors (_Varanidae_)
 
@@ -3894,7 +3914,7 @@ cf. also:
 <tr>
 <td>SES</td>
 <td>To'aba'ita</td>
-<td>gʷalu(aʔa)</td>
+<td><i>gʷalu(aʔa)</i></td>
 <td>
 '<span>green-blooded skink, <em>Prasinohaema virens</em></span>'</td>
 </tr>
@@ -4088,7 +4108,7 @@ cf. also:
 <tr>
 <td>MM</td>
 <td>Nakanai</td>
-<td>vareki</td>
+<td><i>vareki</i></td>
 <td>
 '<span>monitor lizard, skin used for drum-head</span>'</td>
 </tr>
@@ -4195,7 +4215,7 @@ cf. also:
 <tr>
 <td>NCV</td>
 <td>Tamambo</td>
-<td>vohare</td>
+<td><i>vohare</i></td>
 <td>
 '<span>k.o. lizard</span>'</td>
 </tr>
@@ -4240,7 +4260,7 @@ A number of Western Malayo-Polynesian terms for gecko are onomatopoeic, typicall
 
 We have reconstructed POc &ast;bili ‘k.o. lizard’, which may be an irregular reflex of a PAn term, &ast;bulilik ‘lizard sp.’ (Blust 2002), but on present evidence the connection is uncertain. Its reflexes in Polynesian languages carry two meanings, ‘gecko’ (or sometimes ‘lizard (generic)’) and ‘adhere to’, pointing to a lizard name that reflects its character.
 
-Some of the Polynesian reflexes may be compounded with the generic term for lizard, PPn &ast;moko, from POc &ast;mo(g,k)o ‘k.o. snake’ (see [§5.4.1](#s-5-4)).
+Some of the Polynesian reflexes may be compounded with the generic term for lizard, PPn &ast;moko, from POc &ast;mo(g,k)o ‘k.o. snake’ (see §5.4.1).
 
 <table>
 <tr>
@@ -4296,7 +4316,7 @@ cf. also:
 <tr>
 <td>Pn</td>
 <td>Tikopia</td>
-<td>(moko)pili</td>
+<td><i>(moko)pili</i></td>
 <td>
 '<span>gecko</span>' (<span>for †<em>piri</em></span>)</td>
 </tr>
@@ -4487,28 +4507,28 @@ cf. also:
 <tr>
 <td>PT</td>
 <td>Molima</td>
-<td>kekepa</td>
+<td><i>kekepa</i></td>
 <td>
 '<span>green tree skink</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
 <td>Nakanai</td>
-<td>kavega</td>
+<td><i>kavega</i></td>
 <td>
 '<span>lizard</span>'</td>
 </tr>
 <tr>
 <td>SHWNG</td>
 <td>Serui-Laut</td>
-<td>kafei</td>
+<td><i>kafei</i></td>
 <td>
 '<span>house lizard</span>' (<span>Smits 1992:239</span>)</td>
 </tr>
 <tr>
 <td>MM</td>
 <td>Tolai</td>
-<td>keveu</td>
+<td><i>keveu</i></td>
 <td>
 '<span>k.o. iguana</span>' (<span>monitor</span>)</td>
 </tr>
@@ -4517,7 +4537,8 @@ cf. also:
 
 
 <a id="s-5-4"></a>
-## 5.4. Snakes (sub-order Serpentes)
+
+### 5.4. Snakes (sub-order Serpentes)
 
 
 5.5.4.1 Land snakes
@@ -4858,7 +4879,7 @@ cf. also:
 <tr>
 <td>PT</td>
 <td>Sariba</td>
-<td>(kenokeno)mugu</td>
+<td><i>(kenokeno)mugu</i></td>
 <td>
 '<span>lazy snake</span>' (<span><em>keno</em> ‘lie down’</span>)</td>
 </tr>
@@ -4986,13 +5007,14 @@ Agreement between Central Pacific and Vanuatu languages allows reconstruction of
 In the Banks languages of northern Vanuatu the sea snake, Laticauda semifasciata, is referred to by reflexes of &ast;m wai.
 
 ```
-NCV: Mota             mʷai           ‘sea snake’
-NCV: Mwotlap          mʷe            ‘sea snake characterised by black and white stripes;
-succubus, female demon, harmful’
+   NCV: Mota             mʷai           ‘sea snake’
+   NCV: Mwotlap          mʷe            ‘sea snake characterised by black and white stripes;
+                                        succubus, female demon, harmful’
 ```
 
 
 <a id="s-6"></a>
+
 ## 6. Amphibians
 
 
@@ -5062,28 +5084,28 @@ cf. also:
 <tr>
 <td>SES</td>
 <td>Arosi</td>
-<td>haro</td>
+<td><i>haro</i></td>
 <td>
 '<span>tadpole</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
 <td>Arosi</td>
-<td>pʷaro(ʔama-ʔama)</td>
+<td><i>pʷaro(ʔama-ʔama)</i></td>
 <td>
 '<span>k.o. large frog</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
 <td>Nakanai</td>
-<td>pere</td>
+<td><i>pere</i></td>
 <td>
 '<span>small frog</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
 <td>Tolai</td>
-<td>per</td>
+<td><i>per</i></td>
 <td>
 '<span>frog</span>'</td>
 </tr>
@@ -5133,84 +5155,84 @@ cf. also:
 <tr>
 <td>SES</td>
 <td>Arosi</td>
-<td>wairau</td>
+<td><i>wairau</i></td>
 <td>
 '<span>frog</span>'</td>
 </tr>
 <tr>
 <td>PT</td>
 <td>Balawaia</td>
-<td>kura(fege)</td>
+<td><i>kura(fege)</i></td>
 <td>
  (<span>fege ‘small frog’</span>)</td>
 </tr>
 <tr>
 <td>SES</td>
 <td>Bugotu</td>
-<td>kui-kuli</td>
+<td><i>kui-kuli</i></td>
 <td>
 '<span>frog</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
 <td>Halia</td>
-<td>kura</td>
+<td><i>kura</i></td>
 <td>
 '<span>frog, lives in dry places</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
 <td>Kia</td>
-<td>kule</td>
+<td><i>kule</i></td>
 <td>
 '<span>frog</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
 <td>Lungga</td>
-<td>(ba)karau</td>
+<td><i>(ba)karau</i></td>
 <td>
 '<span>frog</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
 <td>Manam</td>
-<td>kuru(basi)</td>
+<td><i>kuru(basi)</i></td>
 <td>
 '<span>k.o. green tree frog</span>'</td>
 </tr>
 <tr>
 <td>PT</td>
 <td>Mekeo</td>
-<td>kulua</td>
+<td><i>kulua</i></td>
 <td>
 '<span>k.o. tree frog</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
 <td>Nduke</td>
-<td>(pa)karau</td>
+<td><i>(pa)karau</i></td>
 <td>
 '<span>frog</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
 <td>Roviana</td>
-<td>(ba)karao</td>
+<td><i>(ba)karao</i></td>
 <td>
 '<span>frog</span>'</td>
 </tr>
 <tr>
 <td>PT</td>
 <td>Sudest</td>
-<td>kula</td>
+<td><i>kula</i></td>
 <td>
 '<span>small frog</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
 <td>Tinputz</td>
-<td>kura</td>
+<td><i>kura</i></td>
 <td>
 '<span>frog, Ranid</span>'</td>
 </tr>
@@ -5263,28 +5285,28 @@ cf. also:
 <tr>
 <td>MM</td>
 <td>Halia</td>
-<td>karou</td>
+<td><i>karou</i></td>
 <td>
 '<span>frog, stays in fresh water</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
 <td>Nakanai</td>
-<td>karu-karu</td>
+<td><i>karu-karu</i></td>
 <td>
 '<span>frog, not eaten</span>'</td>
 </tr>
 <tr>
 <td>PT</td>
 <td>Sariba</td>
-<td>kʷalu-kʷalu</td>
+<td><i>kʷalu-kʷalu</i></td>
 <td>
 </td>
 </tr>
 <tr>
 <td>PT</td>
 <td>Wedau</td>
-<td>qeru</td>
+<td><i>qeru</i></td>
 <td>
 </td>
 </tr>
@@ -5364,28 +5386,28 @@ cf. also:
 <tr>
 <td>SES</td>
 <td>'Are'are</td>
-<td>koʔe</td>
+<td><i>koʔe</i></td>
 <td>
 '<span>frog</span>'</td>
 </tr>
 <tr>
 <td>PT</td>
 <td>Gapapaiwa</td>
-<td>kʷere</td>
+<td><i>kʷere</i></td>
 <td>
 '<span>frog</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
 <td>Gela</td>
-<td>kere(rao)</td>
+<td><i>kere(rao)</i></td>
 <td>
 '<span>k.o. frog</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
 <td>Lau</td>
-<td>kʷere</td>
+<td><i>kʷere</i></td>
 <td>
 '<span>k.o. frog</span>'</td>
 </tr>
@@ -5448,7 +5470,7 @@ cf. also:
 <tr>
 <td>Adm</td>
 <td>Lou</td>
-<td>rek-rek</td>
+<td><i>rek-rek</i></td>
 <td>
 '<span>large green frog, bullfrog</span>'</td>
 </tr>
@@ -5532,18 +5554,20 @@ From the following cognate set, it appears that &ast;kuni may be reconstructed a
 
 
 <a id="s-7"></a>
+
 ## 7. Body parts
 
 
 
 <a id="s-7-1"></a>
-## 7.1. Mammal body parts
+
+### 7.1. Mammal body parts
 
 
 
 <a id="p-266"></a>
 
-Most mammal body-part terms are also terms for human body-parts. For instance, ‘fur’ equates with ‘body hair’ (typically from POc &ast;pulu), both ‘hind leg’ and ‘fore leg’ with ‘leg’ (POc &ast;qaqe ‘leg, foot’ or POc &ast;paqal ‘thigh’), ‘paw’ with ‘hand’ (POc &ast;lima), and ‘claw’ with ‘nail’ (POc &ast;kuku). The generic term for teeth, animal or human, was POc &ast;[l,n]ipon, a term which could also include ‘tusk’ (see [§7.1.2](#s-7-1) below).
+Most mammal body-part terms are also terms for human body-parts. For instance, ‘fur’ equates with ‘body hair’ (typically from POc &ast;pulu), both ‘hind leg’ and ‘fore leg’ with ‘leg’ (POc &ast;qaqe ‘leg, foot’ or POc &ast;paqal ‘thigh’), ‘paw’ with ‘hand’ (POc &ast;lima), and ‘claw’ with ‘nail’ (POc &ast;kuku). The generic term for teeth, animal or human, was POc &ast;[l,n]ipon, a term which could also include ‘tusk’ (see §7.1.2 below).
 
 5.7.1.1 Canine tooth
 
@@ -5613,7 +5637,7 @@ cf. also:
 <tr>
 <td>MM</td>
 <td>Nduke</td>
-<td>patu</td>
+<td><i>patu</i></td>
 <td>
 '<span>tooth</span>' (<span>reflects *p; polite</span>)</td>
 </tr>
@@ -5738,14 +5762,14 @@ cf. also:
 <tr>
 <td>MM</td>
 <td>Nakanai</td>
-<td>logo</td>
+<td><i>logo</i></td>
 <td>
 '<span>night</span>' (<span>regular reflex</span>); '<span>tooth, tusk, claw</span>' (<span><em>t-</em> for †<em>s-</em></span>)</td>
 </tr>
 <tr>
 <td>MM</td>
 <td>Tolai</td>
-<td>lokono</td>
+<td><i>lokono</i></td>
 <td>
 '<span>tusk, pig with tusks</span>'</td>
 </tr>
@@ -5875,7 +5899,8 @@ A number of Polynesian languages use reflexes of PPn &ast;siku to refer to fish 
 
 
 <a id="s-7-2"></a>
-## 7.2. Reptile body parts
+
+### 7.2. Reptile body parts
 
 
 5.7.2.1 Turtle shell
@@ -5939,7 +5964,7 @@ A POc term for the shell or carapace of turtles rests on agreement between Proto
 
 
 
-In many Polynesian languages and at least one Southeast Solomonic language, reflexes of POc &ast;qunap ‘fish scales’ also refer to the shell of a turtle. (See also chapter 2, [§66.3](#s-66-3))
+In many Polynesian languages and at least one Southeast Solomonic language, reflexes of POc &ast;qunap ‘fish scales’ also refer to the shell of a turtle. (See also chapter 2, §66.3)
 
 <table>
 <tr>
@@ -5992,7 +6017,7 @@ cf. also:
 <tr>
 <td>MM</td>
 <td>Kia</td>
-<td>ŋapo</td>
+<td><i>ŋapo</i></td>
 <td>
 '<span>turtle shell</span>'</td>
 </tr>
@@ -6006,7 +6031,7 @@ POc speakers almost certainly had names for several different parts of a turtle 
 
 <a id="p-269"></a>
 
-From the few items located, it seems that in Polynesia flippers of turtle, stingray and whale may have been denoted by a derivative of the verb POc &ast;kaba ‘wing’, PEOc &ast;kaba-kaba ‘to flap wings’, reflexes of which can also refer to pectoral fins of fish (see ch.2, [§66.4](#s-66-4) and ch.6, [§2](#s-2)). Terms for ‘turtle egg’ are commonly reflexes of the generic term for egg, POc &ast;qatoluR. However, at least one language, To’aba’ita (SES) has a term, k‘alarum applying specifically to ‘a collection of turtle or spider eggs’. Sa’a (SES) has apota ‘eggs of turtle or crocodile’.
+From the few items located, it seems that in Polynesia flippers of turtle, stingray and whale may have been denoted by a derivative of the verb POc &ast;kaba ‘wing’, PEOc &ast;kaba-kaba ‘to flap wings’, reflexes of which can also refer to pectoral fins of fish (see ch.2, §66.4 and ch.6, §2). Terms for ‘turtle egg’ are commonly reflexes of the generic term for egg, POc &ast;qatoluR. However, at least one language, To’aba’ita (SES) has a term, k‘alarum applying specifically to ‘a collection of turtle or spider eggs’. Sa’a (SES) has apota ‘eggs of turtle or crocodile’.
 
 
 ## Notes
