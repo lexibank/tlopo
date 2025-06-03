@@ -3347,7 +3347,7 @@ PWOc &ast;bita appears to have the same range of meaning. Although there are onl
 
 12.5.1.3 Midrib of the frond
 
-Modem languages tend to have a distinctive term for the midrib or spine of a coconut frond, e.g. Iduna domoluluna '(main) stalk of coconut leaf, Nduke kilikava- 'stem of coconut frond, especially at thick end ', Wayan Fijian balotu 'a coconut frond stalk stripped of its leaflets; the stem of the coconut frond, used for firewood and torches'. There are two candidate terms for this meaning, POc &ast;bala(p,b )a(q) and POc &ast;sasaRi. Both may have denoted both the palm frond and the midrib-unsurprisingly, as a midrib is accompanied by its leaflets until they are stripped off.
+Modern languages tend to have a distinctive term for the midrib or spine of a coconut frond, e.g. Iduna domoluluna '(main) stalk of coconut leaf, Nduke kilikava- 'stem of coconut frond, especially at thick end ', Wayan Fijian balotu 'a coconut frond stalk stripped of its leaflets; the stem of the coconut frond, used for firewood and torches'. There are two candidate terms for this meaning, POc &ast;bala(p,b )a(q) and POc &ast;sasaRi. Both may have denoted both the palm frond and the midrib-unsurprisingly, as a midrib is accompanied by its leaflets until they are stripped off.
 
 <table>
 <tr>

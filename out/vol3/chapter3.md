@@ -265,8 +265,6 @@ Figure 3.4     A partial classification of foods in Wayan Fijian
 
 [Kwa'ioloa & Burt](../references.md#source-KwaioloaandBurt2001) ([2001](../references.md#source-KwaioloaandBurt2001)) present a classification and description of _rū bulao kī_ 'growing things' in Kwara'ae, and this classification is shown schematically in Figure 3.5. Their classification is as much to present a catalogue of Kwara'ae plant names and uses as to describe the Kwara'ae folk botanical taxonomy, and so descriptive names have been given to groups of plants that are recognised as similar by Kwara'ae speakers, but that did not necessarily form labelled taxa originally. In developing Figure 3.5 only those labels from Kwa'ioloa and Burt which denote traditionally overt or covert categories have been included. Terms that were traditionally used by Kwara'ae speakers are in bold and those that have been developed for Kwa'ioloa and Burt's book but appear to reflect originally covert categories are in plain text. As can be seen the Kwara'ae folk taxonomy is quite shallow with only four or five levels.
 
-ru bulao ki or 7ai 1
-
 Figure 3.5      A partial ethnobotanical taxonomy of Kwara'ae
 
 
@@ -1622,27 +1620,27 @@ It is unclear how pandanus were classified by POc speakers. In Kwara'ae, pandanu
 
 A number of modern Oceanic languages have a category of plants that is glossed as 'weeds', as can be seen from the following list. In a number of languages, including Poeng, Gela and Kwara'ae this category appears to denote plants growing unwanted in garden plots. However, these categories do not have cognate labels. POc _&ast;talu(n)_ 'old garden, fallow land, land returning to secondary growth' (vol.1, ch.5, §3.2) may have denoted land with this type of vegetation, but a term for the vegetation itself does not appear to be reconstructable.
 
-```
-  NNG: Mapos Buang  vavɔ̄ŋ         'scrub, brush, weeds'
-  NNG: Labu         wahe          'weeds'
-  NNG: Poeng        kilanna       'weed; growing in old garden spot'
-  NNG: Takia        ud            'weed, wild grass (generic)'
-  NNG: Mangap       momotia       'weed (N)'
-  PT:  Iduna        boya          'smalll weeds'
-  PT:  Gumawana     nauna         'weeds, grass'
-  PT:  Misima       mʷawín        'grass; weeds, to have weeds'
-  MM:  Ramoaaina    bual          'full of weeds'
-  MM:  Ramoaaina    palep         'weeds, rubbish; in a plantation'
-  MM:  Teop         subui         'weeds'
-  SES: Gela         makiri        'smalll weeds in a garden'
-  SES: Lau          ʔoroʔoro      'weeds, grass, anything small growing up'
-  SES: Lau          murua         'weeds and grass'
-  SES: Kwaio        fufulu        'weed, grass'
-  SES: Kwara'ae     laua          'weeds, plants that can (and often should) be pulled out when they grow in places like gardens; seedlings, saplings'
-  Mic: Mokilese     tipʷtipʷ      'grass, weeds; overgrown with grass or weeds, littered (with objects)'
-  Mic: Chuukese     wəɾɨŋŋaw      'useless plant, weed' (cf. _wəɾɨ_ 'bush, vegetation generally', _ŋŋaw_ 'bad, ugly, unfitting, unsuitable')
-  Pn:  Maori        otaota        'herbs in general, weeds, litter'
-```
+|      |             |            |                                                                                                                      |
+|:-----|:------------|:-----------|:---------------------------------------------------------------------------------------------------------------------|
+| NNG: | Mapos Buang | _vavɔ̄ŋ_   | 'scrub, brush, weeds'                                                                                                |
+| NNG: | Labu        | _wahe_     | 'weeds'                                                                                                              |
+| NNG: | Poeng       | _kilanna_  | 'weed; growing in old garden spot'                                                                                   |
+| NNG: | Takia       | _ud_       | 'weed, wild grass (generic)'                                                                                         |
+| NNG: | Mangap      | _momotia_  | 'weed (N)'                                                                                                           |
+| PT:  | Iduna       | _boya_     | 'smalll weeds'                                                                                                       |
+| PT:  | Gumawana    | _nauna_    | 'weeds, grass'                                                                                                       |
+| PT:  | Misima      | _mʷawín_   | 'grass; weeds, to have weeds'                                                                                        |
+| MM:  | Ramoaaina   | _bual_     | 'full of weeds'                                                                                                      |
+| MM:  | Ramoaaina   | _palep_    | 'weeds, rubbish; in a plantation'                                                                                    |
+| MM:  | Teop        | _subui_    | 'weeds'                                                                                                              |
+| SES: | Gela        | _makiri_   | 'smalll weeds in a garden'                                                                                           |
+| SES: | Lau         | _ʔoroʔoro_ | 'weeds, grass, anything small growing up'                                                                            |
+| SES: | Lau         | _murua_    | 'weeds and grass'                                                                                                    |
+| SES: | Kwaio       | _fufulu_   | 'weed, grass'                                                                                                        |
+| SES: | Kwara'ae    | _laua_     | 'weeds, plants that can (and often should) be pulled out when they grow in places like gardens; seedlings, saplings' |
+| Mic: | Mokilese    | _tipʷtipʷ_ | 'grass, weeds; overgrown with grass or weeds, littered (with objects)'                                               |
+| Mic: | Chuukese    | _wəɾɨŋŋaw_ | 'useless plant, weed' (cf. _wəɾɨ_ 'bush, vegetation generally', _ŋŋaw_ 'bad, ugly, unfitting, unsuitable')           |
+| Pn:  | Maori       | _otaota_   | 'herbs in general, weeds, litter'                                                                                    |
 
 
 <a id="p-82"></a>
