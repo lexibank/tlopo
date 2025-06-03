@@ -481,91 +481,91 @@ The encoding of the two categories of ingredient in the lexicon varies from lang
 
 : __Arosi__ (SES) ([Fox 1978](../references.md#source-Fox1978))
 
-|       |                 |                                                      |
-|:------|:----------------|:-----------------------------------------------------|
-| VERBS | ŋaU             | 'eat' (vT) (POc &ast;ŋau 'gnaw, chew')                   |
-|       | maŋa            | 'eat' (vi) (POc &ast;pmyan)                              |
-|       | ŋaU- ko ŋari    | 'eat one thing without relish' (koŋari 'empty')      |
-|       | ʔonari          | 'eat only fish'                                      |
-|       | ŋau-bʷara-bʷara | 'eat one thing with relish'(b'vara-bʷara 'fern sp.') |
-|       | mamu            | 'eat two kinds offood together'                      |
-|       | ŋau-kokona      | 'eat only greens' (kokona 'smooth, slippery')        |
-| NOUNS | hinaŋa          | 'starchy foods'                                      |
+|       |                   |                                                        |
+|:------|:------------------|:-------------------------------------------------------|
+| VERBS | _ŋau_             | 'eat' (vT) (POc _&ast;ŋau_ 'gnaw, chew')                   |
+|       | _maŋa_            | 'eat' (vi) (POc _&ast;paŋan_)                              |
+|       | _ŋau-koŋari_      | 'eat one thing without relish' (_koŋari_ 'empty')      |
+|       | _ʔonari_          | 'eat only fish'                                        |
+|       | _ŋau-bʷara-bʷara_ | 'eat one thing with relish' (_bʷara-bʷara_ 'fern sp.') |
+|       | _mamu_            | 'eat two kinds of food together'                       |
+|       | _ŋau-kokona_      | 'eat only greens' (kokona 'smooth, slippery')          |
+| NOUNS | _hinaŋa_          | 'starchy foods'                                        |
 
 : __Anejom__ (SV) ([Lynch 2001a](../references.md#source-Lynch2001a))
 
-|       |             |                                                                           |
-|:------|:------------|:--------------------------------------------------------------------------|
-| VERBS | yifi        | 'eat' (vT) (POc &ast;kani)                                                    |
-|       | haŋ         | 'eat' (vi) (POc &ast;paŋan)                                                   |
-|       | topʷ-haŋ    | 'eat starch without additions' (topw'just, merely, only')                 |
-|       | leyley      | 'eat meat or fish without starch'                                         |
-| N& v  | aθepyafi    | 'eat meat or fish with taro' (vi, vT); 'meat or fish eaten with taro' (N) |
-| NOUNS | in-haŋ      | 'food, meal' (POc &ast;paŋan)                                                 |
-|       | ni-tai-yifi | 'food (generic)' (lit. ART-thing-eat) (POc &ast;kani)                         |
-|       | ni-tai-haŋ  | 'food (generic)' (lit. ART-thing-eat) (POc &ast;paŋan)                        |
+|       |              |                                                                           |
+|:------|:-------------|:--------------------------------------------------------------------------|
+| VERBS | _ɣiñ_        | 'eat' (vT) (POc &ast;kani)                                                    |
+|       | _haŋ_        | 'eat' (vi) (POc &ast;paŋan)                                                   |
+|       | _topʷ-haŋ_   | 'eat starch without additions' (topw'just, merely, only')                 |
+|       | _leɣleɣ_     | 'eat meat or fish without starch'                                         |
+| N& v  | _aθepyañ_    | 'eat meat or fish with taro' (vi, vT); 'meat or fish eaten with taro' (N) |
+| NOUNS | _in-haŋ_     | 'food, meal' (POc &ast;paŋan)                                                 |
+|       | _ni-tai-ɣiñ_ | 'food (generic)' (lit. ART-thing-eat) (POc _&ast;kani_)                       |
+|       | _ni-tai-haŋ_ | 'food (generic)' (lit. ART-thing-eat) (POc _&ast;paŋan_)                      |
 
 : __Sye__ (SV) (T. [Crowley 2000](../references.md#source-Crowley2000))
 
-|       |           |                                                                     |
-|:------|:----------|:--------------------------------------------------------------------|
-| VERBS | -eni      | 'eat' (vT) (POc &ast;kani)                                              |
-|       | -Vaŋ      | 'eat' (vi) (POc &ast;paŋan)                                             |
-|       | -elat     | 'eat meat or fish'                                                  |
-|       | -aŋot     | 'hungry for meat' (lit. 'itch')                                     |
-|       | -etki     | 'eat meat or fish with starchy food' [^11]                           |
-| NOUNS | n-vaŋ     | 'food' (POc &ast;paŋan)                                                 |
-|       | potninvaŋ | 'staples, including yam and banana' (< poti-n n-vaŋ 'base of food') |
+|       |             |                                                                       |
+|:------|:------------|:----------------------------------------------------------------------|
+| VERBS | _-eni_      | 'eat' (vT) (POc _&ast;kani_)                                              |
+|       | _-vaŋ_      | 'eat' (vi) (POc _&ast;paŋan_)                                             |
+|       | _-elat_     | 'eat meat or fish'                                                    |
+|       | _-aŋot_     | 'hungry for meat' (lit. 'itch')                                       |
+|       | _-etki_     | 'eat meat or fish with starchy food' [^11]                             |
+| NOUNS | _n-vaŋ_     | 'food' (POc _&ast;paŋan_)                                                 |
+|       | _potninvaŋ_ | 'staples, including yam and banana' (< _poti-n n-vaŋ_ 'base of food') |
 
 : __Kosraean__ (Mic) (Lee 197 6)
 
-|       |         |                                                                                 |
-|:------|:--------|:--------------------------------------------------------------------------------|
-| VERBS | kim is  | 'eat'                                                                           |
-|       | ktlja   | 'eat'                                                                           |
-|       | kiyɔyɔi | 'eat one kind of food without side dish'                                        |
-|       | koknck  | 'eat main dish without side dish'                                               |
-| V&N   | mOŋO    | 'eat' (v); 'food' (N) (PMic &ast;mʷaŋau 'eat (staple food)' (v); 'staple food' (N)) |
-|       | cnM     | 'eat a side dish of (s.t.)' (v); 'side dish' (N)                                |
-| NOUNS | kiyɔyɔ  | 'one kind of food eaten without side dish; naked'                               |
-|       | cnte    | 'side-dish'                                                                     |
+|       |           |                                                                                 |
+|:------|:----------|:--------------------------------------------------------------------------------|
+| VERBS | _kɨmɨs_   | 'eat'                                                                           |
+|       | _kʌfa_    | 'eat'                                                                           |
+|       | _kiyɔyɔi_ | 'eat one kind of food without side dish'                                        |
+|       | _kokɒɛk_  | 'eat main dish without side dish'                                               |
+| V&N   | _moŋo_    | 'eat' (v); 'food' (N) (PMic &ast;mʷaŋau 'eat (staple food)' (v); 'staple food' (N)) |
+|       | _ɛnʌt_    | 'eat a side dish of (s.t.)' (v); 'side dish' (N)                                |
+| NOUNS | _kiyɔyɔ_  | 'one kind of food eaten without side dish; naked'                               |
+|       | _ɛnte_    | 'side-dish'                                                                     |
 
 
 <a id="p-39"></a>
 
 : __Wayan__ (Fij) ([Pawley & Sayaba 2003](../references.md#source-PawleyandSayaba2003))
 
-|       |           |                                                                             |
-|:------|:----------|:----------------------------------------------------------------------------|
-| VERBS | kani      | 'eat' (vT) (POc &ast;kani)                                                      |
-|       | tovi      | 'crave for meat or fish' (vT)                                               |
-| NOUNS | maŋiti    | 'food, something to eat; staples (root crops, bananas, breadfruit)'         |
-|       | ilava     | 'savoury food, preferably fish or meat, eaten with staples'                 |
-|       | vzdagwana | 'protein food, especially seafood, and leafy vegetables eaten with staples' |
+|       |             |                                                                             |
+|:------|:------------|:----------------------------------------------------------------------------|
+| VERBS | _kani_      | 'eat' (vT) (POc _&ast;kani_)                                                    |
+|       | _tovi_      | 'crave for meat or fish' (vT)                                               |
+| NOUNS | _maŋiti_    | 'food, something to eat; staples (root crops, bananas, breadfruit)'         |
+|       | _ilava_     | 'savoury food, preferably fish or meat, eaten with staples'                 |
+|       | _vīdāgʷana_ | 'protein food, especially seafood, and leafy vegetables eaten with staples' |
 
 : __Proto Polynesian__ (POLLEX)
 
-|       |              |                                               |
-|:------|:-------------|:----------------------------------------------|
-| VERBS | &ast;kai         | 'eat' (POc &ast;kani)                             |
-|       | &ast;samu        | 'eat only protein food'                       |
-| NOUNS | &ast;kina, &ast;kiki | 'food eaten as a relish with other food' [^12] |
+|       |                  |                                               |
+|:------|:-----------------|:----------------------------------------------|
+| VERBS | _&ast;kai_           | 'eat' (POc _&ast;kani_)                           |
+|       | _&ast;samu_          | 'eat only protein food'                       |
+| NOUNS | _&ast;kina_, _&ast;kiki_ | 'food eaten as a relish with other food' [^12] |
 
 Aside from POc _&ast;kani_ and _&ast;paŋan_,[^13] which are widely reflected, the sets of semantically similar forms above contain no cognate sets that justify POc reconstructions. Other cognate sets are decidedly localised but similar meanings recur:
 
 |     |     |                                                                                                           |                                                     |
 |:----|:----|:----------------------------------------------------------------------------------------------------------|:----------------------------------------------------|
-| 1   | (v) | 'eat starchy food; eat (generic)'                                                                         | (all)                                               |
+| 1   | (V) | 'eat starchy food; eat (generic)'                                                                         | (all)                                               |
 |     | (N) | 'starchy vegetables', also used hypemymously for 'food (generic)'                                         | Mapos Buang, Sursurunga, Arosi, Wayan               |
-| 2   | (v) | 'eat food consisting of starch and additional ingredients (coconut milk, leafy vegetables, fish or meat)' | Mapos Buang, Ramoaaina, Arosi, Anejom               |
-|     | (v) | 'mix and/or cook food consisting of  starch and additional ingredients'                                   | Mapos Buang, Iduna, Patpatar                        |
+| 2   | (V) | 'eat food consisting of starch and additional ingredients (coconut milk, leafy vegetables, fish or meat)' | Mapos Buang, Ramoaaina, Arosi, Anejom               |
+|     | (V) | 'mix and/or cook food consisting of  starch and additional ingredients'                                   | Mapos Buang, Iduna, Patpatar                        |
 |     | (N) | 'food consisting of starch and additional ingredients'                                                    | Patpatar                                            |
-| 3   | (v) | 'eat (s.t.) as an addition to starch'                                                                     | Sursurunga, Anejom, Sye, Kosraean                   |
+| 3   | (V) | 'eat (s.t.) as an addition to starch'                                                                     | Sursurunga, Anejom, Sye, Kosraean                   |
 |     | (N) | 'fish or meat and leafy vegetables as an addition to starch'                                              | Anejom, Kosraean, Wayan, PPn                        |
-| 4   | (v) | 'eat fish or meat without starch'                                                                         | Iduna, Ramoaaina, Arosi, Anejom, Sye, Kosraean, PPn |
-|     | (v) | 'crave fish or meat'                                                                                      | Iduna, Patpatar, Sye, Wayan                         |
+| 4   | (V) | 'eat fish or meat without starch'                                                                         | Iduna, Ramoaaina, Arosi, Anejom, Sye, Kosraean, PPn |
+|     | (V) | 'crave fish or meat'                                                                                      | Iduna, Patpatar, Sye, Wayan                         |
 |     | (N) | 'fish and meat as food'                                                                                   | Mapos Buang, Iduna, Sursurunga                      |
-| 5   | (v) | 'eat greens alone'                                                                                        | Ramoaaina, Arosi                                    |
+| 5   | (V) | 'eat greens alone'                                                                                        | Ramoaaina, Arosi                                    |
 
 The meanings above are categorised into those referring to (1) starchy vegetables and hypemymously to food in general; (2) food consisting of starch and additional ingredients (coconut milk, leafy vegetables, fish or meat); (3) the additions; (4) fish and meat without starch; (5) leafy vegetables.
 
@@ -586,7 +586,7 @@ The ubiquitousness of verbs and nouns which presuppose the 'starchy food' (§6.1
 ### 6.1. Starchy food
 
 
-Staple food sources are easily grown starchy foods ofvegetable origin that are high in food energy. Dictionary definitions of terms for 'staple food' or 'starchy food' in Oceanic languages are rarely exhaustive, sometimes referring to yams, sometimes to taro, sometimes to root crops in general. This is, of course, often due to variations in the staples consumed from one area to another: taro is grown in wetter regions, yams in drier areas, and breadfruit on atolls. For New Guinea Bourke (in preparation) lists Colocasia taro, yams (Dioscorea esculenta and D. alata ), banana and sago as the most important staple foods before the arrival of the sweet potato. An early botanical account suggests that taro, some yam species, bananas and breadfruit probably formed the traditional staple foods of Pacific islanders ([Guppy 1906](../references.md#source-Guppy1906): 412-415). [Pawley & Sayaba](../references.md#source-PawleyandSayaba2003) ([2003](../references.md#source-PawleyandSayaba2003)) define Wayan maŋiti as including the staples bananas and breadfruit as well as root crops, and knowledge of Oceanic eating habits justifies assuming definitions of this kind of breadth for the corresponding terms in many Oceanic languages. The sago palm is included with oth1;:r staples in chapter 9 because it serves as a staple in some Oceanic societies and as a famine food in others.
+Staple food sources are easily grown starchy foods of vegetable origin that are high in food energy. Dictionary definitions of terms for 'staple food' or 'starchy food' in Oceanic languages are rarely exhaustive, sometimes referring to yams, sometimes to taro, sometimes to root crops in general. This is, of course, often due to variations in the staples consumed from one area to another: taro is grown in wetter regions, yams in drier areas, and breadfruit on atolls. For New Guinea Bourke (in preparation) lists Colocasia taro, yams (Dioscorea esculenta and D. alata ), banana and sago as the most important staple foods before the arrival of the sweet potato. An early botanical account suggests that taro, some yam species, bananas and breadfruit probably formed the traditional staple foods of Pacific islanders ([Guppy 1906](../references.md#source-Guppy1906): 412-415). [Pawley & Sayaba](../references.md#source-PawleyandSayaba2003) ([2003](../references.md#source-PawleyandSayaba2003)) define Wayan _maŋiti_ as including the staples bananas and breadfruit as well as root crops, and knowledge of Oceanic eating habits justifies assuming definitions of this kind of breadth for the corresponding terms in many Oceanic languages. The sago palm is included with othrr staples in chapter 9 because it serves as a staple in some Oceanic societies and as a famine food in others.
 
 Two POc forms are reconstructed with the probable meaning 'starchy food' and hypernymously 'food in general': _&ast;kanaŋ_ and _&ast;kuta_.
 
@@ -900,19 +900,19 @@ Several reflexes of POc _&ast;kuta_ denote a major staple in the language concer
 '<span>chew sugar cane</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Molima</td><td><i>?uta</i></td>
+<td>PT</td><td>Molima</td><td><i>ʔuta</i></td>
 <td>
 '<span>chew</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Molima</td><td><i>?utaʔuta</i></td>
+<td>PT</td><td>Molima</td><td><i>ʔutaʔuta</i></td>
 <td>
 '<span>Dioscorea pentaphylla</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td>Iduna</td><td><i>kuda</i></td>
 <td>
-'<span>chew</span>' (<span>-d- for t-t-</span>)</td>
+'<span>chew</span>' (<span><em>-d-</em> for †<em>-t-</em></span>)</td>
 </tr>
 <tr>
 <td>PT</td><td>Ubir</td><td><i>ut</i></td>
@@ -927,7 +927,7 @@ Several reflexes of POc _&ast;kuta_ denote a major staple in the language concer
 <tr>
 <td>SES</td><td>Gela</td><td><i>kut-i</i></td>
 <td>
-'<span>feed</span>' (<span>used as causative of vaŋa 'eat'; Fox 1955</span>)</td>
+'<span>feed</span>' (<span>used as causative of <em>vaŋa</em> 'eat'; Fox 1955</span>)</td>
 </tr>
 <tr>
 <td>SES</td><td>Tolo</td><td><i>kuta</i></td>
@@ -935,7 +935,7 @@ Several reflexes of POc _&ast;kuta_ denote a major staple in the language concer
 '<span>eat</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Kwamera</td><td><i>kd-kata-n</i></td>
+<td>SV</td><td>Kwamera</td><td><i>kə-kətə-n</i></td>
 <td>
 '<span>baked food</span>'</td>
 </tr>
@@ -1072,34 +1072,34 @@ The first two categories appear at first sight to be rather similar, but the evi
 
 In several Western Oceanic languages some plant names begin with a prefix that means 'tree or shrub'. Examples from three languages are given below, together with the protoforms which they reflect. The three prefixes are Yabem _ka-_, Muyuw _a-_ and Patpatar _i-_, each of which is assumed to reflect POc _&ast;kayu_ 'tree'. Yabem _ka-_ occurs on most tree names, Muyuw _a-_ on many, and Patpatar _i-_ on just a few.[^17]
 
-: NNG: Yabem ka-:
+: NNG: Yabem _ka-_:
 
-|         |                        |      |             |             |
-|:--------|:-----------------------|:-----|:------------|:------------|
-| ka-to?  | 'mangrove'             | POc  | &ast;toŋoR      | ch.6, § 3.1 |
-| ka-dada | 'k.o. grassland shrub' | POc  | &ast;jajal      | ch.l3, §6.4 |
-| ka-bʷɛŋ | 'ironwood'             | PWOc | &ast;bʷana      | ch.7, §4.9  |
-| ka-maʔ  | 'Cordyline sp.'        | PWOc | &ast;mʷa(r,R)ep | ch.l3, §6.2 |
-| ka-bɔ?  | 'k.o. mangrove tree'   | PWOc | &ast;baul       | ch.6, §2.1  |
+|           |                        |      |               |             |
+|:----------|:-----------------------|:-----|:--------------|:------------|
+| _ka-toʔ_  | 'mangrove'             | POc  | _&ast;toŋoR_      | ch.6, § 3.1 |
+| _ka-dada_ | 'k.o. grassland shrub' | POc  | _&ast;jajal_      | ch.l3, §6.4 |
+| _ka-bʷɛŋ_ | 'ironwood'             | PWOc | _&ast;bʷana_      | ch.7, §4.9  |
+| _ka-maʔ_  | 'Cordyline sp.'        | PWOc | _&ast;mʷa(r,R)ep_ | ch.l3, §6.2 |
+| _ka-bɔʔ_  | 'k.o. mangrove tree'   | PWOc | _&ast;baul_       | ch.6, §2.1  |
 
-: PT: Muyuw a-:
+: PT: Muyuw _a-_:
 
-|                 |                         |                               |              |
-|:----------------|:------------------------|:------------------------------|:-------------|
-| a-mʷakot        | 'Dysoxylum spp.'        | POc       &ast;maqota             | ch.7, §4.5   |
-| a-yayak         | 'Myristica schleintzii' | POc       &ast;(d,r)aRa(q,k)(a,i) | ch.7, §5.9   |
-| a-gi-gaway      | 'Ficus tinctoria'       | POc       &ast;qayawan            | ch.10, §4    |
-| a-nag           | 'Cordia sp.'            | PWOc      &ast;nagi               | ch.5, §4.1.1 |
-| a-simʷal(gayas) | 'Glochidion sp.'        | PWOc      &ast;ji(m,mʷ)(a,i)R     | ch.8, §2.4   |
-| a-kobwow        | 'Macaranga tanarius'    | PWOc      &ast;kobo               | ch.7, §2.5   |
+|                   |                         |                                 |              |
+|:------------------|:------------------------|:--------------------------------|:-------------|
+| _a-mʷakot_        | 'Dysoxylum spp.'        | POc       _&ast;maqota_             | ch.7, §4.5   |
+| _a-yayak_         | 'Myristica schleintzii' | POc       _&ast;(d,r)aRa(q,k)(a,i)_ | ch.7, §5.9   |
+| _a-gi-gaway_      | 'Ficus tinctoria'       | POc       _&ast;qayawan_            | ch.10, §4    |
+| _a-nag_           | 'Cordia sp.'            | PWOc      _&ast;nagi_               | ch.5, §4.1.1 |
+| _a-simʷal(gayas)_ | 'Glochidion sp.'        | PWOc      _&ast;ji(m,mʷ)(a,i)R_     | ch.8, §2.4   |
+| _a-kobʷow_        | 'Macaranga tanarius'    | PWOc      _&ast;kobo_               | ch.7, §2.5   |
 
-: MM: Patpatar i-:
+: MM: Patpatar _i-_:
 
-|           |                         |     |                 |              |
-|:----------|:------------------------|:----|:----------------|:-------------|
-| i-nas-nas | 'Tournefortia argentea' | POc | &ast;na[su]-nasu    | ch.5, §4.1.5 |
-| i-walas   | 'Semecarpus forstenii'  | POc | &ast;[wa]lasi       | ch.7, §6.1.6 |
-| i-kon     | 'Heritiera littoralis'  | POc | &ast;kayu (ni) qone | ch.6, §4.4   |
+|             |                         |     |                   |              |
+|:------------|:------------------------|:----|:------------------|:-------------|
+| _i-nas-nas_ | 'Tournefortia argentea' | POc | _&ast;na[su]-nasu_    | ch.5, §4.1.5 |
+| _i-walas_   | 'Semecarpus forstenii'  | POc | _&ast;[wa]lasi_       | ch.7, §6.1.6 |
+| _i-kon_     | 'Heritiera littoralis'  | POc | _&ast;kayu (ni) qone_ | ch.6, §4.4   |
 
 A simple preliminary hypothesis is that these prefixes label their denotata as members of the POc _&ast;kayu_ taxon, 'trees and shrubs' (ch.3, §4.2). But if this were so, we would expect to find the prefix on every tree name in these languages and we would also expect to find prefixes reflecting the other primary plant taxa, _&ast;waroc_ 'vine', _&ast;pali[s,j]i_ 'grass', _&ast;taliŋa_ 'mushroom' and _&ast;l[i,u]mut_ 'moss, algae. Neither expectation is fulfilled.
 
@@ -1203,7 +1203,7 @@ The Bola (MM) reflex of POc _&ast;[ka]ŋaRi_ is _taŋari_, implying either repla
 
 In certain NCV languages tree names occur with one of two prefixes. In Tamambo, stems naming trees and large bushes (but not other plant types) are regularly prefixed with _vu-_ 'tree ', e.g. _vu-mambue_ 'chestnut tree ', _vu-niu_ 'coconut palm', _vu-ŋai-ŋai_ 'canarium nut tree' ([Jauncey 1997](../references.md#source-Jauncey1997)). Vines, ferns, tubers and grasses are not prefixed with _vu-_, but Jauncey observes that 'some large kinds of bushes are marked as trees, but only if they do have a main central trunk'. This supports her inference that _vu-_ reflects POc _&ast;puqu(n)_ 'base of tree; source, origin' (ch. 4, §2.1).
 
-Contrasting with _vu-_ is the prefix _ra-_ 'leaf of (ROOT)', reflecting POc _&ast;raun_ 'leaf (ch. 4, §2.5), e.g. _ra-yaviya_ 'leaf of Malay apple', _ra-yatabola_ 'leaf of Dracontomelon vitiense', _ra-moli_ 'leaf of citrus tree'.
+Contrasting with _vu-_ is the prefix _ra-_ 'leaf of (ROOT)', reflecting POc _&ast;raun_ 'leaf (ch. 4, §2.5), e.g. _ra-ɣaviɣa_ 'leaf of Malay apple', _ra-ɣatabola_ 'leaf of Dracontomelon vitiense', _ra-moli_ 'leaf of citrus tree'.
 
 Both prefixes derive countable units. Thus [_vu-_ROOT] means 'a tree of the kind denoted by ROOT' and [_ra-_ROOT] means 'a leaf of the kind of tree denoted by ROOT'. This interpretation receives support from the fact that the prefixes also occur with _xai_ 'tree, wood': _vu-xai_ is 'a tree', i.e. _vu-_ denotes the unit and _xai_ the nature of the unit. POc _&ast;puqu(n)_ meant 'base of tree', but by metonymy acquired the sense 'a tree-like unit'. [François](../references.md#source-Francois2002) ([2002](../references.md#source-Francois2002): 50) reports that the Araki prefixes _vi-_ and _da-_ have similar functions to Tamambo _vu-_ and _ra-_ respectively.
 
@@ -1224,19 +1224,19 @@ Wayan, like other Fijian languages, here preserves a POc noun phrase constructio
 
 : Table 2.1 Classifiers in SE Solomonic languages and Proto Polynesian
 
-|                  | Kwara'ae   | Kwaio   | Lau    | PPn     | POc             |                |
-|:-----------------|:-----------|:--------|:-------|:--------|:----------------|:---------------|
-| compact objects  | faʔi       | fe?e    | …      | &ast;foqi   | &ast;puaq qi        | 'fruit'        |
-| people           |            | …       | …      | &ast;toko   | &ast;tau +? (ni)    | 'person, body' |
-| wooden objects   |            | …       | ʔai    | …       | &ast;kayu (ni)      | 'tree'         |
-| 'head'           | gʷaʔi      | gʷe?e   | …      | …       | &ast;pʷatu qi       | 'head'         |
-| flat objects     | ʔaha       | …       | …      | …       | …               |                |
-| vertical objects | baʔe       | …       | …      | …       | …               |                |
-| containers       | taʔe       | …       | …      | …       | …               |                |
-| pieces of        | afu        | me?e    | …      | …       | …               |                |
-| units of class   | maʔe       | māʔe    | …      | …       | &ast;mata qi?       | 'eye'          |
-| leaves           | raʔi       | (gāʔe)  | …      | …       | &ast;raun qi        | 'leaf          |
-| clumps           | fiʔi       | fūʔi    | fi,fui | &ast;fu(h)i | PEOc &ast;pu qi (?) | 'clump'        |
+|                  | Kwara'ae   | Kwaio    | Lau         | PPn       | POc               |                |
+|:-----------------|:-----------|:---------|:------------|:----------|:------------------|:---------------|
+| compact objects  | _faʔi_     | _fe?e_   | …           | _&ast;foqi_   | _&ast;puaq qi_        | 'fruit'        |
+| people           | …          | …        | …           | _&ast;toko_   | _&ast;tau_ + ? _(ni)_ | 'person, body' |
+| wooden objects   | …          | …        | _ʔai_       | …         | _&ast;kayu (ni)_      | 'tree'         |
+| 'head'           | _gʷaʔi_    | _gʷe?e_  | …           | …         | _&ast;pʷatu qi_       | 'head'         |
+| flat objects     | _ʔaba_     | …        | …           | …         | …                 |                |
+| vertical objects | _baʔe_     | …        | …           | …         | …                 |                |
+| containers       | _taʔe_     | …        | …           | …         | …                 |                |
+| pieces of        | _afu_      | _me?e_   | …           | …         | …                 |                |
+| units of class   | _maʔe_     | _māʔe_   | …           | …         | _&ast;mata qi?_       | 'eye'          |
+| leaves           | _raʔi_     | _(gāʔe)_ | …           | …         | _&ast;raun qi_        | 'leaf          |
+| clumps           | _fiʔi_     | _fūʔi_   | _fi_, _fui_ | _&ast;fu(h)i_ | PEOc _&ast;pu qi_ (?) | 'clump'        |
 
 In the first variant of the construction, the head noun is a zero-valency noun:
 
@@ -1278,26 +1278,19 @@ Examples from Nakanai (MM) are: _mala-savula_ 'a plant, Ficus sp.' (< _savula_ '
 
 In Kwara'ae (SES), [Kwa'ioloa & Burt](../references.md#source-KwaioloaandBurt2001) ([2001](../references.md#source-KwaioloaandBurt2001)) note the following instances:
 
-|             |                                          |
-|:------------|:-----------------------------------------|
-| mala-ŋali   | 'Canarium asperum'                       |
-| mala-ʔadoʔa | 'Canarium harveyi'                       |
-| mala-ʔafiʔo | 'Syzygium aqueum                         |
-| mala-rufa   | 'Metrosideros parviflora'                |
-| mala-ʔasai  | 'wild mango tree, Mangifera mucronulata' |
-| mala-kona   | 'Burckella sorei'                        |
-| mala-dili   | 'a shrub, Dracaena angustifolia'         |
-| ŋali        | 'canarium nut, C. indicum'               |
-| ʔadoʔa      | 'C. salomonense'                         |
-| ʔafiʔo      | 'Malay apple, S. malaccense'             |
-| rufa        | 'Syzygium lauterbachii'                  |
-| ʔasai       | 'mango tree, M. indica'                  |
-| kona        | 'B. obovata'                             |
-| dili        | 'a shrub, Cordyline fruticosa'           |
+|               |                                          |          |                                |
+|:--------------|:-----------------------------------------|:---------|:-------------------------------|
+| _mala-ŋali_   | 'Canarium asperum'                       | _ŋali_   | 'canarium nut, C. indicum'     |
+| _mala-ʔadoʔa_ | 'Canarium harveyi'                       | _ʔadoʔa_ | 'C. salomonense'               |
+| _mala-ʔafiʔo_ | 'Syzygium aqueum                         | _ʔafiʔo_ | 'Malay apple, S. malaccense'   |
+| _mala-rufa_   | 'Metrosideros parviflora'                | _rufa_   | 'Syzygium lauterbachii'        |
+| _mala-ʔasai_  | 'wild mango tree, Mangifera mucronulata' | _ʔasai_  | 'mango tree, M. indica'        |
+| _mala-kona_   | 'Burckella sorei'                        | _kona_   | 'B. obovata'                   |
+| _mala-dili_   | 'a shrub, Dracaena angustifolia'         | _dili_   | 'a shrub, Cordyline fruticosa' |
 
 In Raga (NCV), [Walsh](../references.md#source-Walsh2004) ([2004](../references.md#source-Walsh2004)) notes _mal-buliva_ 'unidentified Ficus sp.' (< _buliva_ 'Ficus aspera'), _mal-ɣaviɣa_ 'unidentified tree sp.' (< _ɣaviɣa_ 'Malay apple, Syzygium malaccensis'), _mal-walahi_ 'unidentified tree sp.' (< _walahi_ 'Semicarpus vitiensis') and _mal-bei-bei_ 'unidentified Polyscias sp.' (< _bei_ 'Polyscias sp.').
 
-Examples are also found in Fijian and Polynesian languages. Like reduplication as a process in forming plant names, POc &ast;mala- as a plant-name formative receives support from evidence outside Oceanic which suggests that it is descended from a PMP form ([Ross 2005](../references.md#source-Ross2005)b).
+Examples are also found in Fijian and Polynesian languages. Like reduplication as a process in forming plant names, POc _&ast;mala-_ as a plant-name formative receives support from evidence outside Oceanic which suggests that it is descended from a PMP form ([Ross 2005](../references.md#source-Ross2005)b).
 
 
 <a id="s-7-2"></a>
@@ -1339,7 +1332,7 @@ The POc term ancestral to Dobu _udi_ 'banana' was _&ast;pudi_ (ch.9, §3). Its r
 '<span>wild banana</span>' (<span><em>udi</em> 'banana'</span>)</td>
 </tr>
 <tr>
-<td>PT</td><td>Sudest</td><td><i>yudu-yudu</i></td>
+<td>PT</td><td>Sudest</td><td><i>ɣudu-ɣudu</i></td>
 <td>
 '<span>wild banana seeds</span>' (<span><em>yudu</em> 'banana'</span>)</td>
 </tr>
@@ -1386,7 +1379,7 @@ In Marovo (MM) several forms are found with a somewhat different semantic deriva
 
 [^10]: _-kuda_ chew, __taʔula__ 'banana leaf under food', the latter presumably a reference to the fact that vegetables and meat are eaten together at features where food is laid out on banana leaves.
 
-[^11]: T. [Crowley](../references.md#source-Crowley2000) ([2000](../references.md#source-Crowley2000)) glosses -etki 'eat something with something else ', but his example suggests the gloss given here.
+[^11]: T. [Crowley](../references.md#source-Crowley2000) ([2000](../references.md#source-Crowley2000)) glosses _-etki_ 'eat something with something else', but his example suggests the gloss given here.
 
 [^12]: Presumably with starchy food.
 

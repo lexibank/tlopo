@@ -210,7 +210,7 @@ A small number of subtaxa of _wā_ denote more than one species, but here too th
 _rautolu_
 :   Generic, includes various _wā_ and shrub taxa with 3-partite leaves.
 
-1. Canavalia rosea. Common vine of sandy foreshore, flowers pink-purple, pods about 10 x 2 em, often wrinkled. Leaves said to have been used after childbirth in some way.
+1. Canavalia rosea. Common vine of sandy foreshore, flowers pink-purple, pods about 10 x 2 cm, often wrinkled. Leaves said to have been used after childbirth in some way.
 
 2. Canavalia sericea. Local on sandy foreshore, the leaves silver-hairy.
 
@@ -272,16 +272,16 @@ Figure 3.5      A partial ethnobotanical taxonomy of Kwara'ae
 
 <a id="p-65"></a>
 
-The nominal use of _bulao_ 'to grow' in _rū bulao kī_ 'growing things' is a way to refer to the kingdom category of all plants. Most growing things can also be denoted by _ʔai_ 'tree', although more commonly ʔai has a narrower meaning. It is not clear if Kwara'ae speakers traditionally recognised a category of all plants or if this category results from the need for a way to talk of all plants when working on Kwai'oloa and Burt's book. Burt notes that the classification of plants by Kwara'ae speakers is mainly for 'pragmatic and utilitarian pur- poses' and that not all categories are mutually exclusive, but rather the categories overlap in various ways ([Kwa'ioloa & Burt 2001](../references.md#source-KwaioloaandBurt2001): 16). Kwara'ae speakers appear to classify the majority of ru bulao ki 'growing things' into three categories: ʔai 'tree', jiʔi-ru 'clumps' and kwazo 'vines'. The distinguishing characteristics of ʔai plants are a hard trunk and a branching growth structure. Kwara'ae ʔai can also be used more broadly to denote palms, soft-cored trees (eg. pawpaw), cordyline shrubs, gingers and ferns, which are not considered ʔai 'tree' in the narrow sense of the word.fiʔi-ru 'clumps' is the descriptive term, comprising the classifier, fiʔi and the noun ru 'things', to denote plants that grow as a cluster of stems. Thus fiʔi-ru 'clumps' encompasses plants like gingers, bamboos and ferns. The termfiʔi-ru 'clumps' is listed as a possible life-form taxon in Figure 3.5, although it is not entirely clear if this is a traditional Kwara'ae taxon. However, Burt notes that this category of plants includes those which can be indicated by the classifier fiʔi, and so traditionally fiʔi-ru 'clumps' may have been a covert category. The term kwazo 'vines' denotes plants with a climbing or creeping growth structure, that is those plants used as cordage, a secondary meaning of kwazo. However, kwazo does not include the vines of edible tubers which are referred to as kwaza. While they appear to form the basis of botanical classification in Kwara' ae, these three life-form taxa are not mutually exclusive but rather se:em to be labelled groups along a continuum of morphological characteristics, such that ʔai 'tree' normally referring to plants with single hard stems and branches may sometimes be used to refer to cordyline shrubs, which under other circumstances may be referred to asjiʔi-ru 'clumps' .
+The nominal use of _bulao_ 'to grow' in _rū bulao kī_ 'growing things' is a way to refer to the kingdom category of all plants. Most growing things can also be denoted by _ʔai_ 'tree', although more commonly _ʔai_ has a narrower meaning. It is not clear if Kwara'ae speakers traditionally recognised a category of all plants or if this category results from the need for a way to talk of all plants when working on Kwai'oloa and Burt's book. Burt notes that the classification of plants by Kwara'ae speakers is mainly for 'pragmatic and utilitarian purposes' and that not all categories are mutually exclusive, but rather the categories overlap in various ways ([Kwa'ioloa & Burt 2001](../references.md#source-KwaioloaandBurt2001): 16). Kwara'ae speakers appear to classify the majority of _rū bulao ki_ 'growing things' into three categories: _ʔai_ 'tree', _fiʔi-rū_ 'clumps' and _kʷalo_ 'vines'. The distinguishing characteristics of _ʔai_ plants are a hard trunk and a branching growth structure. Kwara'ae _ʔai_ can also be used more broadly to denote palms, soft-cored trees (eg. pawpaw), cordyline shrubs, gingers and ferns, which are not considered _ʔai_ 'tree' in the narrow sense of the word. _fiʔi-rū_ 'clumps' is the descriptive term, comprising the classifier, _fiʔi_ and the noun _rū_ 'things', to denote plants that grow as a cluster of stems. Thus _fiʔi-rū_ 'clumps' encompasses plants like gingers, bamboos and ferns. The term _fiʔi-rū_ 'clumps' is listed as a possible life-form taxon in Figure 3.5, although it is not entirely clear if this is a traditional Kwara'ae taxon. However, Burt notes that this category of plants includes those which can be indicated by the classifier _fiʔi_, and so traditionally _fiʔi-rū_ 'clumps' may have been a covert category. The term kwazo 'vines' denotes plants with a climbing or creeping growth structure, that is those plants used as cordage, a secondary meaning of _kʷalo_. However, _kʷalo_ does not include the vines of edible tubers which are referred to as _kʷala_. While they appear to form the basis of botanical classification in Kwara'ae, these three life-form taxa are not mutually exclusive but rather seem to be labelled groups along a continuum of morphological characteristics, such that _ʔai_ 'tree' normally referring to plants with single hard stems and branches may sometimes be used to refer to cordyline shrubs, which under other circumstances may be referred to _fiʔi-rū_ 'clumps' .
 
-Palms do not fit within this three-way classification at all. As noted, palms may be referred to as ʔai, but only in its broad sense that denotes all plants, and not in its more narrow sense. Burt ([Kwa'ioloa and Burt 2001](../references.md#source-KwaioloaandBurt2001): 17) describes palms as a covert category. K wara' ae speakers generally refer to palms by the individual names, but recognise and readily acknowledge the similarities amongst them. Palms may be described as ru ki gasiʔi rebani 'things we tear into flat pieces', denoting their shared use for slatting and battens. This is a function that characterises palms, but is not restricted to them. [Kwa'ioloa and Burt](../references.md#source-KwaioloaandBurt2001) ([2001](../references.md#source-KwaioloaandBurt2001):186) use the word niniu to label the category of palms, describing it as denoting kinds of trees (ʔai) that are similar in being tall and erect with leaves that emerge from a stave or mid-rib. Members of the niniu taxon are not eaten or burnt as fuel, but are important in making platforms and walls as well as battens for thatching, and their fronds are used for making brooms. The term niniu, an apparent reduplication of niu 'coconut, Cocos nucifera' suggests that this category may be based on resemblance of form and use of palms to niu 'coconut'. However, niu 'coconut' itself is not referred to as niniu, probably bee: ause of its common occurrence and importance ([Kwa'ioloa and Burt 2001](../references.md#source-KwaioloaandBurt2001): 17).
+Palms do not fit within this three-way classification at all. As noted, palms may be referred to as _ʔai_, but only in its broad sense that denotes all plants, and not in its more narrow sense. Burt ([Kwa'ioloa and Burt 2001](../references.md#source-KwaioloaandBurt2001): 17) describes palms as a covert category. Kwara'ae speakers generally refer to palms by the individual names, but recognise and readily acknowledge the similarities amongst them. Palms may be described as _rū ki gasiʔi rebani_ 'things we tear into flat pieces', denoting their shared use for slatting and battens. This is a function that characterises palms, but is not restricted to them. [Kwa'ioloa and Burt](../references.md#source-KwaioloaandBurt2001) ([2001](../references.md#source-KwaioloaandBurt2001):186) use the word _niniu_ to label the category of palms, describing it as denoting kinds of trees (ʔai) that are similar in being tall and erect with leaves that emerge from a stave or mid-rib. Members of the _niniu_ taxon are not eaten or burnt as fuel, but are important in making platforms and walls as well as battens for thatching, and their fronds are used for making brooms. The term _niniu_, an apparent reduplication of _niu_ 'coconut, Cocos nucifera' suggests that this category may be based on resemblance of form and use of palms to _niu_ 'coconut'. However, _niu_ 'coconut' itself is not referred to as _niniu_, probably because of its common occurrence and importance ([Kwa'ioloa and Burt 2001](../references.md#source-KwaioloaandBurt2001): 17).
 
-The other small category of plants that do1es not fit within any of the three major categories is laua 'weeds'. It denotes small plants that 'can (and often should) be 'pulled up' when they grow in places like gardens' ([Kwa'ioloa and Burt 2001](../references.md#source-KwaioloaandBurt2001): 17). However, the term laua can also be used to refer to seedlings or saplings.
+The other small category of plants that does not fit within any of the three major categories is _laua_ 'weeds'. It denotes small plants that 'can (and often should) be 'pulled up' when they grow in places like gardens' ([Kwa'ioloa and Burt 2001](../references.md#source-KwaioloaandBurt2001): 17). However, the term _laua_ can also be used to refer to seedlings or saplings.
 
 
 <a id="p-66"></a>
 
-Kwara'ae ʔai 'tree' is a large category with over 200 named types described in [Kwa'ioloa and Burt](../references.md#source-KwaioloaandBurt2001) ([2001](../references.md#source-KwaioloaandBurt2001): 102-181). They classify ʔai into three groups: (i) ʔai doe ki 'big trees'; (ii) ʔai ne?e kesi doe liu goʔo ki 'trees which don' t get very big'; and (iii) ʔai ne?e tiʔitiʔi goʔo ki 'trees which are just small'. These descriptive labels and the groups they represent appear to have been established for the convenience ofKwa'ioloa and Burt' s (2001) book, and it is unclear if they are in common usage amongst Kwara'ae speakers. Thus they are not listed in Figure 3.5. The majority of the named types of ʔai appear to denote single scientific species and form the lowest level of classification. However, a few are further subclassified. For example, !ami- /ami 'archidendron, Archidendron oblongum' denotes two named varieties of Archidendron oblongum that appear to be distinguished on the basis of morphological characteristics. The small tree, ʔalaʔala 'Codiaeum variegatum' also encompasses a number of named varieties ([Kwa'ioloa and Burt 2001](../references.md#source-KwaioloaandBurt2001):134, 175).
+Kwara'ae _ʔai_ 'tree' is a large category with over 200 named types described in [Kwa'ioloa and Burt](../references.md#source-KwaioloaandBurt2001) ([2001](../references.md#source-KwaioloaandBurt2001): 102-181). They classify _ʔai_ into three groups: (i) _ʔai doe kī_ 'big trees'; (ii) _ʔai ne?e kesi doe liu goʔo kī_ 'trees which don't get very big'; and (iii) _ʔai ne?e tiʔitiʔi goʔo kī_ 'trees which are just small'. These descriptive labels and the groups they represent appear to have been established for the convenience of [Kwa'ioloa and Burt's](../references.md#source-KwaioloaandBurt2001) ([2001](../references.md#source-KwaioloaandBurt2001)) book, and it is unclear if they are in common usage amongst Kwara'ae speakers. Thus they are not listed in Figure 3.5. The majority of the named types of _ʔai_ appear to denote single scientific species and form the lowest level of classification. However, a few are further subclassified. For example, _lami-lami_ 'archidendron, Archidendron oblongum' denotes two named varieties of Archidendron oblongum that appear to be distinguished on the basis of morphological characteristics. The small tree, _ʔalaʔala_ 'Codiaeum variegatum' also encompasses a number of named varieties ([Kwa'ioloa and Burt 2001](../references.md#source-KwaioloaandBurt2001):134, 175).
 
 _lamilami_
 :   A very big tree, archidendron, Archidendron oblongum.
@@ -315,14 +315,14 @@ _alaʔala_
     _ʔalaʔala ogamu_
     :   Wants-to-break _ʔalaʔala_, with a leaf that has breaking points.
 
-[Kwa'ioloa & Burt](../references.md#source-KwaioloaandBurt2001) ([2001](../references.md#source-KwaioloaandBurt2001): 193-219) divide. .n:ʔi-ru 'clumps' into a number of groups. The groupfiʔi-ru ne?e boeboena ka ofifafiafaʔina k'i 'clumps with leaf-tubes sheathing the stem' encompasses plants like gingers, bananas and alpinas. That is, leafy plants with soft-core stems that are sheathed with leaves. The group fiʔi-ru ne?e kasiruʔa ki 'clumps which are sectioned' is the descriptive term used for plants like bamboos and reeds that have stems with nodes and can thus be cut into internode se:ctions. These two categories are not listed in Figure 3.5 as they represent groups of plants that can be seen as similar in form and use, but are apparently not categories traditionally recognised by Kwara'ae speakers. [Kwa'ioloa & Burt](../references.md#source-KwaioloaandBurt2001) ([2001](../references.md#source-KwaioloaandBurt2001): 207 -213) use the term takuma to denote all ferns. Strictly speaking takuma refers to Diplazium proliferum and other ferns are referred to by their individual names. However, takuma would also be used to refer to a bundle of different edible ferns that included Diplazium proliferum, suggesting the traditional presence of a covert category at least. Thus takuma as a category denotes Diplazium proliferum, an important fern, and other plants considered similar in terms of morphological characteristics, namely a short dark bole, long curled-over leaves and the lack of flowers or fruit. [Kwa'ioloa and Burt](../references.md#source-KwaioloaandBurt2001) ([2001](../references.md#source-KwaioloaandBurt2001):212) also include in this category kwaʔe, the generic term for tree-ferns, which also denotes the 'proper' or important tree-fern Cyathea lunulata. Tree-ferns are plants with leaves like ferns but trunks like trees. The young leaf-shoots are eaten and the trunks used for building. The term kwaʔe encompasses a number of different named varieties.
+[Kwa'ioloa & Burt](../references.md#source-KwaioloaandBurt2001) ([2001](../references.md#source-KwaioloaandBurt2001): 193-219) divide _fiʔi-rū_ 'clumps' into a number of groups. The group _fiʔi-rū ne?e boeboena ka ofi fafia faʔina kī_ 'clumps with leaf-tubes sheathing the stem' encompasses plants like gingers, bananas and alpinas. That is, leafy plants with soft-core stems that are sheathed with leaves. The group _fiʔi-rū ne?e kasiruʔa kī_ 'clumps which are sectioned' is the descriptive term used for plants like bamboos and reeds that have stems with nodes and can thus be cut into internode sections. These two categories are not listed in Figure 3.5 as they represent groups of plants that can be seen as similar in form and use, but are apparently not categories traditionally recognised by Kwara'ae speakers. [Kwa'ioloa & Burt](../references.md#source-KwaioloaandBurt2001) ([2001](../references.md#source-KwaioloaandBurt2001): 207 -213) use the term _takuma_ to denote all ferns. Strictly speaking _takuma_ refers to Diplazium proliferum and other ferns are referred to by their individual names. However, _takuma_ would also be used to refer to a bundle of different edible ferns that included Diplazium proliferum, suggesting the traditional presence of a covert category at least. Thus _takuma_ as a category denotes Diplazium proliferum, an important fern, and other plants considered similar in terms of morphological characteristics, namely a short dark bole, long curled-over leaves and the lack of flowers or fruit. [Kwa'ioloa and Burt](../references.md#source-KwaioloaandBurt2001) ([2001](../references.md#source-KwaioloaandBurt2001):212) also include in this category _kʷaʔe_, the generic term for tree-ferns, which also denotes the 'proper' or important tree-fern Cyathea lunulata. Tree-ferns are plants with leaves like ferns but trunks like trees. The young leaf-shoots are eaten and the trunks used for building. The term _kʷaʔe_ encompasses a number of different named varieties.
 
-The category of fiʔi-ru 'clumps' also includes a number of other plants that do not fit into any of these three smaller categories, including the various types of named pandanus. Within the scope of the book, [Kwa'ioloa & Burt](../references.md#source-KwaioloaandBurt2001) ([2001](../references.md#source-KwaioloaandBurt2001): 214) use the termfaʔu for all types of pandanus. However, it is not clear that this is a traditional Kwara'ae category, and so it is not included in Figure 3.5.
+The category of _fiʔi-rū_ 'clumps' also includes a number of other plants that do not fit into any of these three smaller categories, including the various types of named pandanus. Within the scope of the book, [Kwa'ioloa & Burt](../references.md#source-KwaioloaandBurt2001) ([2001](../references.md#source-KwaioloaandBurt2001): 214) use the term _faʔu_ for all types of pandanus. However, it is not clear that this is a traditional Kwara'ae category, and so it is not included in Figure 3.5.
 
 
 <a id="p-67"></a>
 
-The term kwazo 'vines' appears to be a smaller taxon than either ʔai 'trees' or fiʔi-ru 'clumps', with only 38 subtaxa listed by Kwa'ioloa and Burt. A few of these are further subclassified, but the majority are terminal taxa. It is not clear where grasses and grass-like plants fit into the Kwara'ae classification, as they are not mentioned by Kwa'ioloa and Burt, although one grass, lai 'Imperata conferta' is classified as laua 'weeds' .
+The term _kʷalo_ 'vines' appears to be a smaller taxon than either _ʔai_ 'trees' or _fiʔi-rū_ 'clumps', with only 38 subtaxa listed by Kwa'ioloa and Burt. A few of these are further subclassified, but the majority are terminal taxa. It is not clear where grasses and grass-like plants fit into the Kwara'ae classification, as they are not mentioned by Kwa'ioloa and Burt, although one grass, _lai_ 'Imperata conferta' is classified as _laua_ 'weeds' .
 
 
 <a id="s-3-3"></a>
@@ -330,35 +330,55 @@ The term kwazo 'vines' appears to be a smaller taxon than either ʔai 'trees' or
 ### 3.3. Arosi
 
 
-The determination of ethnobotanical taxonomies in other modern Oceanic societies has been based on dictionaries and lexicons and so the conclusions are less certain. However, such dictionary searches do suggest that a number of other Oceanic languages, including Nduke (Meso-Melanesian, [Scales n.d.](../references.md#source-Scalesnd)), Arosi (SE S:olomonic, [Fox 1978](../references.md#source-Fox1978)) and Samoan (Polynesian, [Milner 1966](../references.md#source-Milner1966)), have systems of ethnobotanical classification that are not greatly different from that ofKwara'ae and Wayan Fijian. Figure 3.6 shows schematically an Arosi taxonomy that can be constructed from plant names in Fox' s dictionary.[^4]
+The determination of ethnobotanical taxonomies in other modern Oceanic societies has been based on dictionaries and lexicons and so the conclusions are less certain. However, such dictionary searches do suggest that a number of other Oceanic languages, including Nduke (Meso-Melanesian, [Scales n.d.](../references.md#source-Scalesnd)), Arosi (SE Solomonic, [Fox 1978](../references.md#source-Fox1978)) and Samoan (Polynesian, [Milner 1966](../references.md#source-Milner1966)), have systems of ethnobotanical classification that are not greatly different from that of Kwara'ae and Wayan Fijian. Figure 3.6 shows schematically an Arosi taxonomy that can be constructed from plant names in Fox's dictionary.[^4]
 
-Again, Arosi appears to have no form which denotes all plants in contrast to non-plants. There is a general term which denotes uncultivated plants, namely hara 'a wild plant that grows of itself, is not planted by man'. However, a contrasting term for cultivated plants was not found. Arosi has at least four major life-fc)rm categories of plants which seem to be based on morphological characteristics similar to those defining the life-form categories in Wayan Fijian.
+Again, Arosi appears to have no form which denotes all plants in contrast to non-plants. There is a general term which denotes uncultivated plants, namely _hara_ 'a wild plant that grows of itself, is not planted by man'. However, a contrasting term for cultivated plants was not found. Arosi has at least four major life-form categories of plants which seem to be based on morphological characteristics similar to those defining the life-form categories in Wayan Fijian.
 
-```
-      ʔai A tree or plant having stems and branches; not used of fern, cycad, sago palm, coconut
-            etc., but used of small plants, eg. balsam.
-       rari Any herb or shrub which has no main stem, as flax.
-       warawaro Vines.
-       kaariya Mushroom, fungus .
-```
+_ʔai_
+:   A tree or plant having stems and branches; not used of fern, cycad, sago palm, coconut
+    etc., but used of small plants, eg. balsam.
 
-The important morphological characteristic of ʔai-type plants is apparently the presence of a main stem and branching structure, but [Fox](../references.md#source-Fox1978) ([1978](../references.md#source-Fox1978)) notes that ʔai can also be used 'loosely' to refer to coconut palms and tree-ferns, plants which lack branching structure but do have a distinct main stem. In contrast to Wayan, ʔai in Arosi does not in its primary mean- ing include palms. The term rari denotes herbs and shrubs that lack a main stem, and since 'as flax' is included in the definition, it is possible that this taxon may also include grass-like plants. However, as I did not find an Arosi term that appeared to denote a life-form taxon en- compassing grasses, in Figure 3.6 various names of grasses have been represented as primary taxa. Plant types that could be labelled ferns and epiphytes in English also do not appear to be included in any of the other four life-form categories and have been represented as primary taxa.
+_rari_
+:   Any herb or shrub which has no main stem, as flax.
 
-The subtaxa of the four major life-form categories generally form the lowest level within the classification. However, of the 200 or more plant names which are encompassed by the ʔai taxa, there are at least five which are further subclassified. For example,
+_warawaro_
+:   Vines.
 
-```
-       hahe (mahe) A shrub, sweet-smelling and sacred, planted in hera, burial grounds, and used
-            to decorate armlets; long glossy leaves, four sepals, petals and stamens in the white
-            flowers, Euodia hortensis.
-         hahe bora with dark leaves
-          hahe mora with pale leaves
-          hahe rei with very small leaves
-          boboro a species of hahe
-    ʔoʔo A species of tree
-          ʔoʔomaradaro variety used for gong making
-          ʔoʔorawaraha another variety
-          ʔoʔoriʔi a variety used for making outrigger canoes
-```
+_kaariŋa_
+:   Mushroom, fungus.
+
+The important morphological characteristic of _ʔai_-type plants is apparently the presence of a main stem and branching structure, but [Fox](../references.md#source-Fox1978) ([1978](../references.md#source-Fox1978)) notes that _ʔai_ can also be used 'loosely' to refer to coconut palms and tree-ferns, plants which lack branching structure but do have a distinct main stem. In contrast to Wayan, _ʔai_ in Arosi does not in its primary meaning include palms. The term _rari_ denotes herbs and shrubs that lack a main stem, and since 'as flax' is included in the definition, it is possible that this taxon may also include grass-like plants. However, as I did not find an Arosi term that appeared to denote a life-form taxon encompassing grasses, in Figure 3.6 various names of grasses have been represented as primary taxa. Plant types that could be labelled ferns and epiphytes in English also do not appear to be included in any of the other four life-form categories and have been represented as primary taxa.
+
+The subtaxa of the four major life-form categories generally form the lowest level within the classification. However, of the 200 or more plant names which are encompassed by the _ʔai_ taxa, there are at least five which are further subclassified. For example,
+
+_hahe (mahe)_
+:   A shrub, sweet-smelling and sacred, planted in hera, burial grounds, and used
+    to decorate armlets; long glossy leaves, four sepals, petals and stamens in the white
+    flowers, Euodia hortensis.
+
+    _hahe bora_
+    :   with dark leaves
+
+    _hahe mora_
+    :   with pale leaves
+
+    _hahe rei_
+    :   with very small leaves
+
+    _boboro_
+    :   a species of hahe
+
+_ʔoʔo_
+:   A species of tree
+
+    _ʔoʔomaradaro_
+    :   variety used for gong making
+
+    _ʔoʔorawaraha_
+    :   another variety
+
+    _ʔoʔoriʔi_
+    :   a variety used for making outrigger canoes
 
 (plants)
 
@@ -367,7 +387,7 @@ Figure 3.6  Arosi ethnobotanical classification
 
 <a id="p-69"></a>
 
-Arosi warawaro 'vines' is another category that includes a large number of sub taxa, with between 50 and 100 named items occurring in the dictionary. However, all of the subtaxa of warawaro 'vines' form the lowest level of classification. The same is true of the sub taxa of rari 'herbs and shrubs' and kaariŋa 'mushrooms'.
+Arosi _warawaro_ 'vines' is another category that includes a large number of sub taxa, with between 50 and 100 named items occurring in the dictionary. However, all of the subtaxa of _warawaro_ 'vines' form the lowest level of classification. The same is true of the sub taxa of _rari_ 'herbs and shrubs' and _kaariŋa_ 'mushrooms'.
 
 
 <a id="s-3-4"></a>
@@ -375,23 +395,34 @@ Arosi warawaro 'vines' is another category that includes a large number of sub t
 ### 3.4. Nduke
 
 
-Nduke speakers distinguish seven primary taxa of plants. The term yae, primarily used to denote 'trees' can also be used to refer to all plants ([Scales n.d.](../references.md#source-Scalesnd)).
+Nduke speakers distinguish seven primary taxa of plants. The term _ɣae_, primarily used to denote 'trees' can also be used to refer to all plants ([Scales n.d.](../references.md#source-Scalesnd)).
 
-```
-    yae A general name for any kind of tree, bamboo, tree-ferns and other tall plants (except
-        grass) that have woody stems.
-    veve A general name for vines and creepers.
-    heheu A general name for all kinds of grass (mostly Poaceae family). Also used to refer to
-         dicot herbs.
-    lulumutu A general name for green algae that grows inside concrete tanks etc. and moss
-         that grows on trees.
-    roya A general name for plants which grow as brambles or thickets.
-    havoro Flower, also used as the general name for flowering plants such as orchids.
-    pureke A general name for mushrooms. Often refers to a kind of edible mushroom that
-         grows on rotting sago palm trunks in swamps.
-```
+_ɣae_
+:   A general name for any kind of tree, bamboo, tree-ferns and other tall plants (except
+    grass) that have woody stems.
 
-The category yae 'tree' is the largest in Nduke with over 200 subtaxa. Many of these are terminal taxa, but some are further subclassified. Unusually amongst Oceanic languages bam- boos and tree-ferns are classified as yae 'tree' in Nduke. Veve 'vines and creepers' consists of about 20 subtaxa and heheu 'grasses and dicot herbs' over 10, all of which are terminal taxa. Roya, a 'general term for plants which grow as brambles and thickets,' refers more to areas where the vegetation is characterised by thicket-type growth, than particular types of plants that are characterised by thicket-type growth (Ian Scales, pers.comm.).
+_veve_
+:   A general name for vines and creepers.
+
+_heheu_
+:   A general name for all kinds of grass (mostly Poaceae family). Also used to refer to
+    dicot herbs.
+
+_lulumutu_
+:   A general name for green algae that grows inside concrete tanks etc. and moss
+    that grows on trees.
+
+_roɣa_
+:   A general name for plants which grow as brambles or thickets.
+
+_havoro_
+:   Flower, also used as the general name for flowering plants such as orchids.
+
+_pureke_
+:   A general name for mushrooms. Often refers to a kind of edible mushroom that
+    grows on rotting sago palm trunks in swamps.
+
+The category _ɣae_ 'tree' is the largest in Nduke with over 200 subtaxa. Many of these are terminal taxa, but some are further subclassified. Unusually amongst Oceanic languages bamboos and tree-ferns are classified as _ɣae_ 'tree' in Nduke. Veve 'vines and creepers' consists of about 20 subtaxa and _heheu_ 'grasses and dicot herbs' over 10, all of which are terminal taxa. _Roɣa_, a 'general term for plants which grow as brambles and thickets,' refers more to areas where the vegetation is characterised by thicket-type growth, than particular types of plants that are characterised by thicket-type growth (Ian Scales, pers.comm.).
 
 
 <a id="s-3-5"></a>
@@ -399,20 +430,31 @@ The category yae 'tree' is the largest in Nduke with over 200 subtaxa. Many of t
 ### 3.5. Samoan
 
 
-In Samoan there appear to be at least six primary taxa of plants, as shown below with the terms and definitions from [Milner](../references.md#source-Milner1966) ([1966](../references.md#source-Milner1966)). Samoan laʔau, as well as being the generic term which denotes 'trees', also appears to be used as the generic term for all plants and occurs as the initial element in a number of plant names, including trees (laʔau lopa 'red sandalwood, Adenanthera species'), shrubs (laʔaufailafa 'candelabra bush, Cassia species'), herbs (laʔau faimoti 'herb, Euphorbia species' ), and woody vines (laʔau ʔie 'liane, Freycinetia species ').
+In Samoan there appear to be at least six primary taxa of plants, as shown below with the terms and definitions from [Milner](../references.md#source-Milner1966) ([1966](../references.md#source-Milner1966)). Samoan _lāʔau_, as well as being the generic term which denotes 'trees', also appears to be used as the generic term for all plants and occurs as the initial element in a number of plant names, including trees (_lāʔau lopā_ 'red sandalwood, Adenanthera species'), shrubs (_laʔau failafa_ 'candelabra bush, Cassia species'), herbs (_lāʔau faimoti_ 'herb, Euphorbia species'), and woody vines (_lāʔau ʔie_ 'liane, Freycinetia species').
 
 
 <a id="p-70"></a>
 
-```
-    liiʔau Plant, tree
-     ʔoliʔou General name given to large ferns
-     pupuvao Tall grass, weeds
-     mutia Grass
-     fue General name given to creepers and lianas
-     taliya Name given to several types of fungus, including Jew's-ear
-     limu General name given to mosses, lichens, algae, and seaweeds
-```
+_lāʔau_
+:   Plant, tree
+
+_ʔoliʔolī_
+:   General name given to large ferns
+
+_pupuvao_
+:   Tall grass, weeds
+
+_mutia_
+:   Grass
+
+_fue_
+:   General name given to creepers and lianas
+
+_taliŋa_
+:   Name given to several types of fungus, including Jew's-ear
+
+_limu_
+:   General name given to mosses, lichens, algae, and seaweeds
 
 
 <a id="s-4"></a>
@@ -420,17 +462,23 @@ In Samoan there appear to be at least six primary taxa of plants, as shown below
 ## 4. Botanical taxa in Proto Oceanic
 
 
-A number of the primary botanical taxa that are: shared by many modern Oceanic languages have cognate labels and are reconstructable for POc. Clearly reconstructable for POc are the following five terms that denoted broad categories of plants, apparently based on particular morphological characteristics.
+A number of the primary botanical taxa that are shared by many modern Oceanic languages have cognate labels and are reconstructable for POc. Clearly reconstructable for POc are the following five terms that denoted broad categories of plants, apparently based on particular morphological characteristics.
 
-```
-     &ast;kayu Tree or shrub -generic name for plants with woody stems and branches, probably
-           not including palms or tree-ferns (§4.2).
-     &ast;waRoc Generic term for vines and creepers, plants with creeping or climbing growth struc-
-           ture (§4.4).
-     &ast;pali[sj]i Generic term for grasses and other 'grass-like' plants (§4.5).
-     &ast;limut, &ast;lumut Generic term for mosses, algae and seaweeds (§4.6).
-     &ast;taliya Generic term for mushrooms and fleshy fungi (§4.7).
-```
+_&ast;kayu_
+:   Tree or shrub -generic name for plants with woody stems and branches, probably
+    not including palms or tree-ferns (§4.2).
+
+_&ast;waRoc_
+:   Generic term for vines and creepers, plants with creeping or climbing growth structure (§4.4).
+
+_&ast;pali[sj]i_
+:   Generic term for grasses and other 'grass-like' plants (§4.5).
+
+_&ast;limut_, _&ast;lumut_
+:   Generic term for mosses, algae and seaweeds (§4.6).
+
+_&ast;taliŋa_
+:   Generic term for mushrooms and fleshy fungi (§4.7).
 
 
 <a id="s-4-1"></a>
@@ -438,19 +486,19 @@ A number of the primary botanical taxa that are: shared by many modern Oceanic l
 ### 4.1. Plant
 
 
-A term denoting all plants is not reconstructable for POc. A number of modern Oceanic lan- guages do have a general term for plants, but these terms appear to be post-POc innovations. The list below gives the general terms for 'plant' in a number of languages, but none are cognate. In NE Ambae and Anejom these gene:ral terms for 'plants' are nominalisations of verbal terms. For example, NE Ambae rivurivu 'plant' is a reduplicated form of the transitive verb rivu 'to plant s.t. ', and Anejom nita-awafi is formed from the verb awafi 'to plant' with the instrumental prefix.
+A term denoting all plants is not reconstructable for POc. A number of modern Oceanic languages do have a general term for plants, but these terms appear to be post-POc innovations. The list below gives the general terms for 'plant' in a number of languages, but none are cognate. In NE Ambae and Anejom these gene:ral terms for 'plants' are nominalisations of verbal terms. For example, NE Ambae rivurivu 'plant' is a reduplicated form of the transitive verb _rivu_ 'to plant s.t.', and Anejom _nita-awañ_ is formed from the verb _awañ_ 'to plant' with the instrumental prefix.
 
-```
-  Adm: Lou            koe              'plant (N)'
-  NNG: Poeng          kinkiniŋ        '(all) growing things; grass, tree'
-  NNG: Sissano (Arop) oraman           'plants (generic)'
-  SES: Bugotu         jou              'to plant, a plant'
-  NCV: Ambae          rivurivu         'plant (N)'
-  SV:  Anejom         nita-awafi       'plant, s.t. planted or to be planted'
-  Mic: Chuukese       patawar          'plant (general term), vegetation (uncultivated); tree, bush, shrub, fern, grass'
-```
+|      |                |             |                                                                                   |
+|:-----|:---------------|:------------|:----------------------------------------------------------------------------------|
+| Adm: | Lou            | _koe_       | 'plant (N)'                                                                       |
+| NNG: | Poeng          | _kinkiniŋ_  | '(all) growing things; grass, tree'                                               |
+| NNG: | Sissano (Arop) | _oraman_    | 'plants (generic)'                                                                |
+| SES: | Bugotu         | _jou_       | 'to plant, a plant'                                                               |
+| NCV: | Ambae          | _rivurivu_  | 'plant (N)'                                                                       |
+| SV:  | Anejom         | _nita-awañ_ | 'plant, s.t. planted or to be planted'                                            |
+| Mic: | Chuukese       | _pətəwər_   | 'plant (general term), vegetation (uncultivated); tree, bush, shrub, fern, grass' |
 
-A Proto Micronesian form &ast;fadoka 'planted thing, cultivated plants' is reconstructable (Bender et al 2003:24), but appears to be restricted to meaning something that has been planted rather than all plants. This form looks to be a nominalisation of a Proto Microne- sian verbal &ast;fadoki 'to plant'.[^5]
+A Proto Micronesian form _&ast;fadoka_ 'planted thing, cultivated plants' is reconstructable (Bender et al 2003:24), but appears to be restricted to meaning something that has been planted rather than all plants. This form looks to be a nominalisation of a Proto Microne- sian verbal _&ast;fadoki_ 'to plant'.[^5]
 
 
 <a id="p-71"></a>
@@ -531,7 +579,7 @@ A Proto Micronesian form &ast;fadoka 'planted thing, cultivated plants' is recon
 
 
 
-If POc speakers did have a category that included all plants, then it appears to have been covert. In this respect POc would have been like most modern Oceanic languages which lack a general term 'plant'. [Gardner and Pawley](../references.md#source-GardnerandPawley1992) ([1992](../references.md#source-GardnerandPawley1992):8-9) note that in Wayan the category 'plant' is best considered covert as no term has 'plant' as its central meaning. Wayan kai 'generic for trees and shrubs (and occasionally low bushy plants)' is sometimes used as a generic for all plants. It is difficult to assert the presence or absence of a covert kingdom category in POc. From meanings of reflexes in the daughter languages, it is not clear that the general meaning of 'plants' can be reconstructed as a secondary meaning of terms denoting other more specific categories of plants.
+If POc speakers did have a category that included all plants, then it appears to have been covert. In this respect POc would have been like most modern Oceanic languages which lack a general term 'plant'. [Gardner and Pawley](../references.md#source-GardnerandPawley1992) ([1992](../references.md#source-GardnerandPawley1992):8-9) note that in Wayan the category 'plant' is best considered covert as no term has 'plant' as its central meaning. Wayan _kai_ 'generic for trees and shrubs (and occasionally low bushy plants)' is sometimes used as a generic for all plants. It is difficult to assert the presence or absence of a covert kingdom category in POc. From meanings of reflexes in the daughter languages, it is not clear that the general meaning of 'plants' can be reconstructed as a secondary meaning of terms denoting other more specific categories of plants.
 
 
 <a id="s-4-2"></a>
@@ -539,7 +587,7 @@ If POc speakers did have a category that included all plants, then it appears to
 ### 4.2. Tree
 
 
-The most stable primary taxon label, in that it is reflected most widely amongst the mod- em languages is &ast;kayu, the general term for trees and other plants with woody stems and branches. While some languages, like Bing, appear to have retained the original vowel-glide- vowel sequence, the majority have simplified it in some way. These changes appear to have occurred reasonably late in the development of this form, since there are closely related lan- guages that show different types of changes. For example, &ast;kayu is reflected as au in Mono, but as yae in Nduke, two NW Solomonic languages, and as kau in Bauan and kai in Wayan, two Fijian languages.
+The most stable primary taxon label, in that it is reflected most widely amongst the modern languages is _&ast;kayu_, the general term for trees and other plants with woody stems and branches. While some languages, like Bing, appear to have retained the original vowel-glide-vowel sequence, the majority have simplified it in some way. These changes appear to have occurred reasonably late in the development of this form, since there are closely related languages that show different types of changes. For example, _&ast;kayu_ is reflected as _au_ in Mono, but as _ɣae_ in Nduke, two NW Solomonic languages, and as _kau_ in Bauan and _kai_ in Wayan, two Fijian languages.
 
 <table>
 <tr>
@@ -741,12 +789,12 @@ The most stable primary taxon label, in that it is reflected most widely amongst
 
 <a id="p-72"></a>
 
-Many reflexes of &ast;kayu have additional senses besides 'tree or shrub', namely 'wood, timber', 'stick' and 'firewood'. For the POc term both 'tree or shrub, general name for plants with woody stems and branches' and 'wood, timber' are reconstructed as they seem to be the best supported by the modern reflexes. The descriptions in a number of modern languages suggest that woodiness and a main stem, along with branching growth structure are likely to have been the salient characteristics of &ast;kayu plants in POc.
+Many reflexes of _&ast;kayu_ have additional senses besides 'tree or shrub', namely 'wood, timber', 'stick' and 'firewood'. For the POc term both 'tree or shrub, general name for plants with woody stems and branches' and 'wood, timber' are reconstructed as they seem to be the best supported by the modern reflexes. The descriptions in a number of modern languages suggest that woodiness and a main stem, along with branching growth structure are likely to have been the salient characteristics of _&ast;kayu_ plants in POc.
 
 
 <a id="p-73"></a>
 
-In Polynesian languages there has been a semantic shift and the reflexes of &ast;kayu have the meaning of stem or stalk. The Proto Polynesian term for tree or woody plant was &ast;raʔakau. This form was a compound of reflexes of POc &ast;raqan 'branch' and &ast;kayu 'tree', supporting the idea that the presence of a main stem and branching growth structure were the salient features of this category.
+In Polynesian languages there has been a semantic shift and the reflexes of _&ast;kayu_ have the meaning of stem or stalk. The Proto Polynesian term for tree or woody plant was &ast;_raʔakau_. This form was a compound of reflexes of POc _&ast;raqan_ 'branch' and _&ast;kayu_ 'tree', supporting the idea that the presence of a main stem and branching growth structure were the salient features of this category.
 
 <table>
 <tr>
@@ -807,12 +855,12 @@ In Polynesian languages there has been a semantic shift and the reflexes of &ast
 ### 4.3. Palms
 
 
-Were palms considered &ast;kayu? For the majority of reflexes of POc &ast;kayu it is not clear from the dictionary definitions whether palms are included within the category. For languages where the definitions are explicit about the status of palms, in some cases palms are included and in others not. For example, in Gela and Arosi (SE Solomonic) the categories denoted by yai and ʔai, respectively, do not include palms. In Wayan Fijian, on the other hand, kai does appear to encompass palms, with a number of different palms, including masei 'fan palm (Pritchardia pacifica)', niu 'coconut (Cocos nucifera)' and soŋa 'palm used for thatching (Sagus vitiensis, Arecaceae)' defined as part of the kai taxon in [Pawley and Sayaba](../references.md#source-PawleyandSayaba2003) ([2003](../references.md#source-PawleyandSayaba2003)). In a few languages palms appear to form labelled categories of their own. Thus Anejom nakwai is the generic term for palms, though excluding coconuts ([Lynch 2001a](../references.md#source-Lynch2001a): 173). In Samoan niu is a 'general name for palms, especially the coconut palm' ([Milner 1966](../references.md#source-Milner1966): 156-7). Also in Tongan there is evidence that niu 'coconut tree or fruit' can be used to refer to palms more generally since it optionally occurs as part of the name for fan palm (niu piu or piu 'fan palm, Eupritchardia pacifica', [Churchward 1959](../references.md#source-Churchward1959)). Burt describes palms as a covert category in Kwara'ae ([Kwa'ioloa & Burt 2001](../references.md#source-KwaioloaandBurt2001): 17). That is, while Kwara'ae speakers recognise and acknowledge the similarities amongst palms, they do not name such a category.[^6]
+Were palms considered _&ast;kayu_? For the majority of reflexes of POc _&ast;kayu_ it is not clear from the dictionary definitions whether palms are included within the category. For languages where the definitions are explicit about the status of palms, in some cases palms are included and in others not. For example, in Gela and Arosi (SE Solomonic) the categories denoted by _ɣai_ and _ʔai_, respectively, do not include palms. In Wayan Fijian, on the other hand, _kai_ does appear to encompass palms, with a number of different palms, including _māsei_ 'fan palm (Pritchardia pacifica)', _niu_ 'coconut (Cocos nucifera)' and _soŋa_ 'palm used for thatching (Sagus vitiensis, Arecaceae)' defined as part of the _kai_ taxon in [Pawley and Sayaba](../references.md#source-PawleyandSayaba2003) ([2003](../references.md#source-PawleyandSayaba2003)). In a few languages palms appear to form labelled categories of their own. Thus Anejom _nakʷai_ is the generic term for palms, though excluding coconuts ([Lynch 2001a](../references.md#source-Lynch2001a): 173). In Samoan _niu_ is a 'general name for palms, especially the coconut palm' ([Milner 1966](../references.md#source-Milner1966): 156-7). Also in Tongan there is evidence that _niu_ 'coconut tree or fruit' can be used to refer to palms more generally since it optionally occurs as part of the name for fan palm (_niu piu_ or _piu_ 'fan palm, Eupritchardia pacifica', [Churchward 1959](../references.md#source-Churchward1959)). Burt describes palms as a covert category in Kwara'ae ([Kwa'ioloa & Burt 2001](../references.md#source-KwaioloaandBurt2001): 17). That is, while Kwara'ae speakers recognise and acknowledge the similarities amongst palms, they do not name such a category.[^6]
 
 
 <a id="p-74"></a>
 
-A term denoting palms as a category does not appear to be reconstructable for POc, and it seems likely that palms were considered primary taxa within the system. But was 'palm' a covert category for POc speakers, as it is today for Kwara'ae speakers? There is some evi- dence for this in that terms for different parts of palms, such as &ast;bala(p,b )a(q) 'palm branch' and &ast;[pa]paq[ a-] 'frond of palm' are reconstmctable, suggesting the recognition of a cate- gory of plants with similar morphological characteristics (Malcolm Ross pers. comm.). It is of course possible that the variation in the treatment of palms amongst the modern languages refiectes variation in POc. Thus it could be that palms were considered &ast;kayu 'tree, shrub' by some speakers of POc and not others and in some circumstances and not others. Such a situation would not be unexpected in the light of studies on ethnobotanical classifications.
+A term denoting palms as a category does not appear to be reconstructable for POc, and it seems likely that palms were considered primary taxa within the system. But was 'palm' a covert category for POc speakers, as it is today for Kwara'ae speakers? There is some evidence for this in that terms for different parts of palms, such as _&ast;bala(p,b )a(q)_ 'palm branch' and _&ast;[pa]paq[a-]_ 'frond of palm' are reconstructable, suggesting the recognition of a category of plants with similar morphological characteristics (Malcolm Ross pers. comm.). It is of course possible that the variation in the treatment of palms amongst the modern languages refiectes variation in POc. Thus it could be that palms were considered _&ast;kayu_ 'tree, shrub' by some speakers of POc and not others and in some circumstances and not others. Such a situation would not be unexpected in the light of studies on ethnobotanical classifications.
 
 
 <a id="s-4-4"></a>
@@ -820,9 +868,9 @@ A term denoting palms as a category does not appear to be reconstructable for PO
 ### 4.4. Vine, creeper
 
 
-POc &ast;waRoc denoted plants with creeping or climbing growth structure, that is vines and creepers. As reflexes of &ast;waRoc in Gedaged and Wayan encompass lianes, or woody vines, it seems likely that POc &ast;waRoc did too. But further evidence that creepers and woody vines were treated as part of the same taxon is needed.[^7]
+POc _&ast;waRoc_ denoted plants with creeping or climbing growth structure, that is vines and creepers. As reflexes of _&ast;waRoc_ in Gedaged and Wayan encompass lianes, or woody vines, it seems likely that POc _&ast;waRoc_ did too. But further evidence that creepers and woody vines were treated as part of the same taxon is needed.[^7]
 
-The final consonant of the POc form is reconstructed as &ast;c rather than &ast;s, as although the internal Oceanic evidence cannot disambiguate the choice between &ast;c and &ast;s, the external evidence points to &ast;c.
+The final consonant of the POc form is reconstructed as _&ast;c_ rather than _&ast;s_, as although the internal Oceanic evidence cannot disambiguate the choice between _&ast;c_ and _&ast;s_, the external evidence points to _&ast;c_.
 
 <table>
 <tr>
@@ -960,7 +1008,7 @@ The final consonant of the POc form is reconstructed as &ast;c rather than &ast;
 ### 4.5. Grass
 
 
-POc &ast;pali[s,j]i appears to have been the generic for plants lacking a main stem and with narrow-leafed foliage, that is grasses and grass-like plants.
+POc _&ast;pali[s,j]i_ appears to have been the generic for plants lacking a main stem and with narrow-leafed foliage, that is grasses and grass-like plants.
 
 <table>
 <tr>
@@ -1098,11 +1146,11 @@ POc &ast;pali[s,j]i appears to have been the generic for plants lacking a main s
 
 <a id="p-76"></a>
 
-The cognate set given above reflects both POc &ast;palisi and &ast;paliji. In many languages POc &ast;sand &ast;j have merged. However, Nauna, Pak, SW Tanna and Anejom reflect &ast;j while Poeng, Halia and the SE Solomonic languages reflect &ast;s. In the Micronesian languages this form appears to have undergone metathesis of the two medial consonants, giving Proto Micronesian &ast;fadili 'generic term for grass'. A parallel change has occurred in the North New Guinea languages. I take these metatheses to be independent innovations.[^10]
+The cognate set given above reflects both POc _&ast;palisi_ and _&ast;paliji_. In many languages POc _&ast;s_ and _&ast;j_ have merged. However, Nauna, Pak, SW Tanna and Anejom reflect _&ast;j_ while Poeng, Halia and the SE Solomonic languages reflect _&ast;s_. In the Micronesian languages this form appears to have undergone metathesis of the two medial consonants, giving Proto Micronesian _&ast;fadili_ 'generic term for grass'. A parallel change has occurred in the North New Guinea languages. I take these metatheses to be independent innovations.[^10]
 
-The semantic scope of &ast;pali[s,j]i in POc is not totally clear. Poeng, Kwaio, Chuukese and Carolinian support the reconstruction of this term as a generic for grasses, but there are also several languages where reflexes of &ast;pali[ s,j ]i denote particular, but different, types of grass, including Mota, Sye, Anejom, W oleaian and Samoan. Thus while a generic meaning is reconstructed for POc &ast;pali[ s,j ]i, it needs to be noted that it is not so well-supported as the reconstruction of other life-form taxa.
+The semantic scope of _&ast;pali[s,j]i_ in POc is not totally clear. Poeng, Kwaio, Chuukese and Carolinian support the reconstruction of this term as a generic for grasses, but there are also several languages where reflexes of _&ast;pali[s,j]i_ denote particular, but different, types of grass, including Mota, Sye, Anejom, Woleaian and Samoan. Thus while a generic meaning is reconstructed for POc _&ast;pali[s,j]i_, it needs to be noted that it is not so well-supported as the reconstruction of other life-form taxa.
 
-On the basis of modern languages it seems likely that POc would have had a primary taxon that included at least grasses and/or herbs. In Wayan Fijian o usually denotes non- bambusoid grasses, but does occur as the initial element in the names of reeds (o sina) and bamboos (o bitu). In Nduke heheu is glossed as 'grasses and dicot herbs' and appears to be restricted to soft grasses, bamboos being part of the yae 'tree' taxon. In other languages, like Gumawana, Lau and Mokilese, apparently generic terms for grass are also glossed weeds. Arosi, on the other hand, does not appear to have a generic term for grasses, although rari 'herbs and shrubs with no main stem' may encompass grasses as well. Such a category would also appear to fit within the system of the other, better-supported, higher-order taxa of POc. At this stage &ast;pali[sj ]i appears to be the most likely label for such a category, but further data and research may lead to different conclusions.
+On the basis of modern languages it seems likely that POc would have had a primary taxon that included at least grasses and/or herbs. In Wayan Fijian _ō_ usually denotes non-bambusoid grasses, but does occur as the initial element in the names of reeds (_ō sina_) and bamboos (_ō bitu_). In Nduke heheu is glossed as 'grasses and dicot herbs' and appears to be restricted to soft grasses, bamboos being part of the _ɣae_ 'tree' taxon. In other languages, like Gumawana, Lau and Mokilese, apparently generic terms for grass are also glossed weeds. Arosi, on the other hand, does not appear to have a generic term for grasses, although _rari_ 'herbs and shrubs with no main stem' may encompass grasses as well. Such a category would also appear to fit within the system of the other, better-supported, higher-order taxa of POc. At this stage _&ast;pali[s,j]i_ appears to be the most likely label for such a category, but further data and research may lead to different conclusions.
 
 
 <a id="s-4-6"></a>
@@ -1110,9 +1158,9 @@ On the basis of modern languages it seems likely that POc would have had a prima
 ### 4.6. Moss, algae, seaweed
 
 
-There also appears to have been variation in the POc term that denoted mosses, algae and seaweeds, such that &ast;lumut and &ast;limut are both reconstructable. This life-form taxa seems to have been characterised by the morphological characteristic of 'leaflessness', thus including mosses, lichens and algae, and extended to other plants which share with algae the ecological characteristics of growing underwater. That both forms were present in POc and many lower level proto-languages can be seen from the way reflexes of each occur in quite closely related languages. For example, Tinputz and Roviana are both NW Solomonic languages, and Tinputz has a form nimus reflecting POc &ast;limut and Roviana a form lumu-lumutu, reflecting POc &ast;lumut. The same is true of the Micronesian languages, where W oleaian has a form rumw11 and Mokilese a form limw. It is also possible that there were fully-reduplicated variants of these forms in POc, thus &ast;limulimut and &ast;lumulumut, since languages from a range of subgroups have reduplicated reflexes.
+There also appears to have been variation in the POc term that denoted mosses, algae and seaweeds, such that _&ast;lumut_ and _&ast;limut_ are both reconstructable. This life-form taxa seems to have been characterised by the morphological characteristic of 'leaflessness', thus including mosses, lichens and algae, and extended to other plants which share with algae the ecological characteristics of growing underwater. That both forms were present in POc and many lower level proto-languages can be seen from the way reflexes of each occur in quite closely related languages. For example, Tinputz and Roviana are both NW Solomonic languages, and Tinputz has a form _nimus_ reflecting POc _&ast;limut_ and Roviana a form _lumu-lumutu_, reflecting POc _&ast;lumut_. The same is true of the Micronesian languages, where Woleaian has a form _ɾumʷu_ and Mokilese a form _limʷ_. It is also possible that there were fully-reduplicated variants of these forms in POc, thus _&ast;limulimut_ and _&ast;lumulumut_, since languages from a range of subgroups have reduplicated reflexes.
 
-Evidence from non-Oceanic languages suggests that &ast;lumut may have been the older form meaning 'moss'. For example, Indonesian lumut '1. moss, lichen, bryophyte; 2. algae', Ilokano lumot 'moss, a slippery river seaweed; fine freshwater algae ', Tagalog lumot 'moss'. Ilokano and Tagalog also have forms limu 'seaweed' without the final -t, and it is possible that pre-POc &ast;lumut 'moss' and &ast;limu 'seaweed' were conflated in POc.
+Evidence from non-Oceanic languages suggests that _&ast;lumut_ may have been the older form meaning 'moss'. For example, Indonesian _lumut_ '1. moss, lichen, bryophyte; 2. algae', Ilokano _lumot_ 'moss, a slippery river seaweed; fine freshwater algae ', Tagalog _lumot_ 'moss'. Ilokano and Tagalog also have forms _limu_ 'seaweed' without the final _-t_, and it is possible that pre-POc _&ast;lumut_ 'moss' and _&ast;limu_ 'seaweed' were conflated in POc.
 
 
 <a id="p-77"></a>
@@ -1257,7 +1305,7 @@ Evidence from non-Oceanic languages suggests that &ast;lumut may have been the o
 '<span>moss, seaweed; to be covered with moss, having moss</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Carolinian</td><td><i>tūmʷ</i></td>
+<td>Mic</td><td>Carolinian</td><td><i>lūmʷ</i></td>
 <td>
 '<span>moss; seaweed variety that grows luxuriantly on rocks and sunken vessels and that breaks off and washes onto shore</span>'</td>
 </tr>
@@ -1378,7 +1426,7 @@ Evidence from non-Oceanic languages suggests that &ast;lumut may have been the o
 ### 4.7. Mushrooms, fungi
 
 
-In a number of modern Oceanic languages the life-form term for mushrooms and other fleshy fungi is homophonous with the bodypart term 'ear'. For example, in Wayan Fijian taliŋa de- notes fleshy fungi such as mushrooms and bracket fungi as well as 'ear'. The polysemy of 'mushroom' and 'ear' is also found with non-cognate forms in a number of Oceanic lan- guages, such that innovative terms can be seen to have both meanings. For example, in NE Ambae gwero has both the meaning of 'ear' and of 'mushroom', and the same is true for the Nakanai term gavusa '(a) mushroom (Agaricaceae); ear'. The cognate set for POc &ast;taliŋa below supports the reconstruction of this same polysemy. That the 'mushroom' meaning is not a post-POc innovation is supported by the f:1ct that reflexes of&ast;taliŋa occur in a number oflanguages with 'mushroom' meanings, but not with the 'ear' meaning. Of the languages in the cognate set below, the four North New Guinea languages, Nakanai, Gela and Tolo are all languages where the reflex of &ast;taliŋa no longer has the meaning of 'ear', but has retained the 'mushroom' meaning. In Anejom in-ticŋa-, the reflex of &ast;taliŋa, retains only the 'ear' mean- ing, but the historical presence of the 'mushroom' meaning is indicated by the occurrence of in-ticŋa- in a number of compounds referring to mushrooms. In Rotuman, Bauan Fijian, a number of Polynesian and Micronesian languages terms for mushrooms literally mean 'ear of spirit/ghost'. The Rotuman form faliŋa ne ʔatua and the Tikopian form tariŋa ŋa a tua look to be cognate compounds, but in other languages the second part of the compound does not appear to be cognate.
+In a number of modern Oceanic languages the life-form term for mushrooms and other fleshy fungi is homophonous with the bodypart term 'ear'. For example, in Wayan Fijian _taliŋa_ denotes fleshy fungi such as mushrooms and bracket fungi as well as 'ear'. The polysemy of 'mushroom' and 'ear' is also found with non-cognate forms in a number of Oceanic languages, such that innovative terms can be seen to have both meanings. For example, in NE Ambae _gʷero_ has both the meaning of 'ear' and of 'mushroom', and the same is true for the Nakanai term _gavusa_ '(a) mushroom (Agaricaceae); ear'. The cognate set for POc _&ast;taliŋa_ below supports the reconstruction of this same polysemy. That the 'mushroom' meaning is not a post-POc innovation is supported by the fact that reflexes of _&ast;taliŋa_ occur in a number of languages with 'mushroom' meanings, but not with the 'ear' meaning. Of the languages in the cognate set below, the four North New Guinea languages, Nakanai, Gela and Tolo are all languages where the reflex of _&ast;taliŋa_ no longer has the meaning of 'ear', but has retained the 'mushroom' meaning. In Anejom _in-ticŋa-_, the reflex of _&ast;taliŋa_, retains only the 'ear' meaning, but the historical presence of the 'mushroom' meaning is indicated by the occurrence of _in-ticŋa-_ in a number of compounds referring to mushrooms. In Rotuman, Bauan Fijian, a number of Polynesian and Micronesian languages terms for mushrooms literally mean 'ear of spirit/ghost'. The Rotuman form _faliŋa ne ʔatua_ and the Tikopian form _tariŋa ŋa a tua_ look to be cognate compounds, but in other languages the second part of the compound does not appear to be cognate.
 
 <table>
 <tr>
@@ -1406,7 +1454,7 @@ In a number of modern Oceanic languages the life-form term for mushrooms and oth
 '<span>mushroom</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Sissano-Arop</td><td><i>təlin</i></td>
+<td>NNG</td><td>Sissano-Arop</td><td><i>tɛlin</i></td>
 <td>
 '<span>mushrooms, edible</span>'</td>
 </tr>
@@ -1533,40 +1581,46 @@ In a number of modern Oceanic languages the life-form term for mushrooms and oth
 ### 4.8. Other terms
 
 
-The five primary taxa reconstructed here do not appear to have encompassed all plants that would have been known to POc speakers, or indeed, for which terms can be reconstructed. The contrast between POc &ast;kayu 'plants with woody stems and branches ', &ast;pali[s,j]i 'grass- like plants' and &ast;waRoc 'plants with creeping or climbing growth structure' leaves open the question of how non-woody leafy plants, such as alpinias or gingers and the like, would have been classified by a POc speaker. In Kwara'aefiʔi-ru is the descriptive category that encom- passes plants which grow as a cluster of stems, including plants like ginger with leaf-tubes sheathing the stem, plants with sectioned stems like bamboo, plants like ferns and pandanus ([Kwa'ioloa and Burt 2001](../references.md#source-KwaioloaandBurt2001): 193-219). Hawaiian appears to have a similar category, pu which denotes plants with a 'cluster of several stalks, as of banana, pandanus, kava; clump, as of sugarcane' ([Pukui & Elbert 1971](../references.md#source-PukuiElbert1971): 317). In Marovo (Meso-Melanesian), there is a general term rokoroko for leafy shrubs which may have a similar range, and in Anejom the term nathancai, literally 'young tree' is used to denote saplings and plants smaller than trees, in- cluding ferns and crotons (Lynch 2001 a: 189). However, as far as I am aware there does not appear to be a general term for non-woody leafy plants which can be reconstructed for POc.
+The five primary taxa reconstructed here do not appear to have encompassed all plants that would have been known to POc speakers, or indeed, for which terms can be reconstructed. The contrast between POc _&ast;kayu_ 'plants with woody stems and branches', _&ast;pali[s,j]i_ 'grass- like plants' and _&ast;waRoc_ 'plants with creeping or climbing growth structure' leaves open the question of how non-woody leafy plants, such as alpinias or gingers and the like, would have been classified by a POc speaker. In Kwara'ae _fiʔi-rū_ is the descriptive category that encompasses plants which grow as a cluster of stems, including plants like ginger with leaf-tubes sheathing the stem, plants with sectioned stems like bamboo, plants like ferns and pandanus ([Kwa'ioloa and Burt 2001](../references.md#source-KwaioloaandBurt2001): 193-219). Hawaiian appears to have a similar category, _pū_ which denotes plants with a 'cluster of several stalks, as of banana, pandanus, kava; clump, as of sugarcane' ([Pukui & Elbert 1971](../references.md#source-PukuiElbert1971): 317). In Marovo (Meso-Melanesian), there is a general term _rokoroko_ for leafy shrubs which may have a similar range, and in Anejom the term _nathancai_, literally 'young tree' is used to denote saplings and plants smaller than trees, including ferns and crotons (Lynch 2001 a: 189). However, as far as I am aware there does not appear to be a general term for non-woody leafy plants which can be reconstructed for POc.
 
 
 <a id="p-80"></a>
 
-Ferns and tree-ferns are also plants which do not appear to fit into any of the life-form categories reconstructed for POc. In Kwara'ae there is a general term for tree-ferns, kwaʔe, and a number of other Oceanic languages also have general terms that denote tree-ferns:
+Ferns and tree-ferns are also plants which do not appear to fit into any of the life-form categories reconstructed for POc. In Kwara'ae there is a general term for tree-ferns, _kʷaʔe_, and a number of other Oceanic languages also have general terms that denote tree-ferns:
 
-```
-  Mic: Kosraean   po             'kind of plant: tree fern'
-  Fij: Wayan      balabala       'generic for tree ferns (Cyathea spp.), sometimes extended to include other large ferns, such as Pteris tripartita. (i) Cyathea lunulata (Cyatheaceae); (ii) Cyathea sp., perhaps C. propinqua; (iii) Calochlaena straminea (Dicksoniaceae); (iv). Pteris tripartita (Adiantaceae).
-  Pn:  Hawaiian   ʔamaʔu         'all species of an endemic genus of ferns (Sadleria), with trunk more or less evident'.
-```
+---- ---------- ---------- ----------------------------------------------------------
+Mic: Kosraean   _po_       'kind of plant: tree fern'
+Fij: Wayan      _balabala_ 'generic for tree ferns (Cyathea spp.), sometimes extended
+                           to include other large ferns, such as Pteris tripartita.
+                           (i) Cyathea lunulata (Cyatheaceae);
+                           (ii) Cyathea sp., perhaps C. propinqua;
+                           (iii) Calochlaena straminea (Dicksoniaceae);
+                           (iv). Pteris tripartita (Adiantaceae).
+Pn:  Hawaiian   _ʔamaʔu_   'all species of an endemic genus of ferns (Sadleria),
+                           with trunk more or less evident'.
+---- ---------- ---------- -----------------------------------------------------------
 
 From this it seems possible that tree-ferns formed a higher-order taxon in POc, but no term appears to be reconstructable to back up such a hypothesis.
 
-In Wayan balabala 'tree-ferns' contrasts with another primary taxon diŋi, a generic for at least two types of terrestrial ferns. In Kwara'ae takuma 'Diplazium proliferum' is sometimes used to denote a collection of edible ferns that includes Diplazium proliferum Woodsiaceae, though more commonly ferns are referred to by their individual names. In other languages, such as Iduna, Kosraean, Samoan and Hawaiian there are terms that may denote ferns more generally, but it is not clear from the dictionary definitions. A generic term for ferns does not appear to be reconstructable for POc, and it seems likely that the individual names of ferns were considered to be primary taxa.
+In Wayan balabala 'tree-ferns' contrasts with another primary taxon _diŋi_, a generic for at least two types of terrestrial ferns. In Kwara'ae _takuma_ 'Diplazium proliferum' is sometimes used to denote a collection of edible ferns that includes Diplazium proliferum Woodsiaceae, though more commonly ferns are referred to by their individual names. In other languages, such as Iduna, Kosraean, Samoan and Hawaiian there are terms that may denote ferns more generally, but it is not clear from the dictionary definitions. A generic term for ferns does not appear to be reconstructable for POc, and it seems likely that the individual names of ferns were considered to be primary taxa.
 
-```
-  PT:  Iduna       maiwa        '(edible) ferns'
-  Mic: Kosraean    fa           'a kind of plant: fern'
-  Mic: Mokilese    p w:Y        'fern'
-  Fij: Wayan       diŋi         'generic lthat includes at least the following two medium-sized terrestrial ferns: Nephrolepis hiserrata (Davalliaceae), ladder fern, locally comm.n in open mid-altitude forest; Sphaerostephanos invisus (Thelypteridaceae), common on dry grassy hillsides.
-  Pn:  Samoan      ʔoliʔoll     '(i) general name given to large ferns; (ii) tree-fern (Also phila species)'
-  Pn:  Hawaiian    kupukupu     'general name for ferns on a single stem' (also name for sword fern)
-```
+|      |          |            |                                                                                                                                                                                                                                                                |
+|:-----|:---------|:-----------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| PT:  | Iduna    | _maiwa_    | '(edible) ferns'                                                                                                                                                                                                                                               |
+| Mic: | Kosraean | _fa_       | 'a kind of plant: fern'                                                                                                                                                                                                                                        |
+| Mic: | Mokilese | _pʷɔ_      | 'fern'                                                                                                                                                                                                                                                         |
+| Fij: | Wayan    | _diŋi_     | 'generic lthat includes at least the following two medium-sized terrestrial ferns: Nephrolepis hiserrata (Davalliaceae), ladder fern, locally comm.n in open mid-altitude forest; Sphaerostephanos invisus (Thelypteridaceae), common on dry grassy hillsides. |
+| Pn:  | Samoan   | _ʔoliʔolī_ | '(i) general name given to large ferns; (ii) tree-fern (Also phila species)'                                                                                                                                                                                   |
+| Pn:  | Hawaiian | _kupukupu_ | 'general name for ferns on a single stem' (also name for sword fern)                                                                                                                                                                                           |
 
 
 <a id="p-81"></a>
 
-POc &ast;qauR appears to have been the general term for bamboos, with a number of more specific terms also reconstructable (ch.l3, §3.1 ). [Kwa'ioloa and Burt](../references.md#source-KwaioloaandBurt2001) ([2001](../references.md#source-KwaioloaandBurt2001)) use the descriptive term fiʔi-ru 'clumps' or 'plants which grow as several stems', or more narrowly fiʔi-ru ne?e kasiruʔa ki 'clumps which are sectioned' to represent a group of plants including bam- boos which have similar growth patterns and uses. In Kwara'ae kaʔo 'bamboo, Nastus ob- tusus' is called 'proper bamboo', but this tenn does not appear to be used as a generic for all bamboos (outside ofKwa'ioloa and Burt' s book). In Wayan Fijian, bamboos and reeds are included in the i5 'grasses' taxon. But there is no clear evidence that bamboos were considered part of any larger category that can be reconstructed for POc.
+POc _&ast;qauR_ appears to have been the general term for bamboos, with a number of more specific terms also reconstructable (ch.l3, §3.1 ). [Kwa'ioloa and Burt](../references.md#source-KwaioloaandBurt2001) ([2001](../references.md#source-KwaioloaandBurt2001)) use the descriptive term _fiʔi-rū_ 'clumps' or 'plants which grow as several stems', or more narrowly _fiʔi-rū ne?e kasiruʔa kī_ 'clumps which are sectioned' to represent a group of plants including bamboos which have similar growth patterns and uses. In Kwara'ae _kaʔo_ 'bamboo, Nastus obtusus' is called 'proper bamboo', but this term does not appear to be used as a generic for all bamboos (outside of Kwa'ioloa and Burt's book). In Wayan Fijian, bamboos and reeds are included in the _ō_ 'grasses' taxon. But there is no clear evidence that bamboos were considered part of any larger category that can be reconstructed for POc.
 
-It is unclear how pandanus were classified by POc speakers. In Kwara'ae, pandanus are considered to be part of the larger category of fiʔi-ru 'clumps', whereas in Wayan Fijian pandanus are considered part of the kai 'trees and shrubs' taxon. In ch.11, §2.5 Ross reconstructs a number of terms for different types of pandanus and suggests that &ast;padran 'coastal pandanus, Pandanus tectorius' was also the: generic term for pandanus. This is supported most strongly by Carolinian where the reflex of &ast;padran, faa..s is the generic term for pandanus (Jackson & Marek 1991: 59). Thus it seems likely that pandanus in POc were either: (a) usually known by their individual names and were unaffiliated primary taxa; or (b) were classified as a distinct taxon known as &ast;pad ran 'pandanus (generic)'.
+It is unclear how pandanus were classified by POc speakers. In Kwara'ae, pandanus are considered to be part of the larger category of _fiʔi-rū_ 'clumps', whereas in Wayan Fijian pandanus are considered part of the _kai_ 'trees and shrubs' taxon. In ch.11, §2.5 Ross reconstructs a number of terms for different types of pandanus and suggests that _&ast;padran_ 'coastal pandanus, Pandanus tectorius' was also the generic term for pandanus. This is supported most strongly by Carolinian where the reflex of _&ast;padran_, _fāṣ_ is the generic term for pandanus (Jackson & Marek 1991: 59). Thus it seems likely that pandanus in POc were either: (a) usually known by their individual names and were unaffiliated primary taxa; or (b) were classified as a distinct taxon known as _&ast;padran_ 'pandanus (generic)'.
 
-A number of modern Oceanic languages have a category of plants that is glossed as 'weeds', as can be seen from the following list. In a number of languages, including Poeng, Gela and Kwara'ae this category appears to denote plants growing unwanted in garden plots. However, these categories do not have cognate labels. POc &ast;talu(n) 'old garden, fallow land, land returning to secondary growth' (vol.1, ch.5, §3.2) may have denoted land with this type of vegetation, but a term for the vegetation itself does not appear to be reconstructable.
+A number of modern Oceanic languages have a category of plants that is glossed as 'weeds', as can be seen from the following list. In a number of languages, including Poeng, Gela and Kwara'ae this category appears to denote plants growing unwanted in garden plots. However, these categories do not have cognate labels. POc _&ast;talu(n)_ 'old garden, fallow land, land returning to secondary growth' (vol.1, ch.5, §3.2) may have denoted land with this type of vegetation, but a term for the vegetation itself does not appear to be reconstructable.
 
 ```
   NNG: Mapos Buang  vavɔ̄ŋ         'scrub, brush, weeds'
@@ -1599,42 +1653,22 @@ A number of modern Oceanic languages have a category of plants that is glossed a
 ## 5. Conclusions
 
 
-Figure 3.7 shows schematically a partial ethnobotanical classification for POc based on the reconstruction of higher-order taxa presented here and plant names presented in chapters 5-13. The kingdom rank category of 'plant' had no name in POc, and it is unclear if it was an implicit category or not. POc appears to have had five major life-form taxa: &ast;kayu 'tree or shrub, generic name for plants with woody stems and branches, probably not including palms or tree-ferns'; &ast;waRoc 'general term for vines and creepers, plants with creeping or climbing growth structure '; &ast;pali[sj ]i 'generic term for grasses and possibly also sedges and other grass-like plants'; &ast;limut or &ast;lumut 'generic term for mosses, algaes and seaweeds'; and &ast;taliŋa 'generic term for mushrooms and fleshy fungi'.
+Figure 3.7 shows schematically a partial ethnobotanical classification for POc based on the reconstruction of higher-order taxa presented here and plant names presented in chapters 5-13. The kingdom rank category of 'plant' had no name in POc, and it is unclear if it was an implicit category or not. POc appears to have had five major life-form taxa: _&ast;kayu_ 'tree or shrub, generic name for plants with woody stems and branches, probably not including palms or tree-ferns'; _&ast;waRoc_ 'general term for vines and creepers, plants with creeping or climbing growth structure '; _&ast;pali[s,j]i_ 'generic term for grasses and possibly also sedges and other grass-like plants'; _&ast;limut_ or _&ast;lumut_ 'generic term for mosses, algaes and seaweeds'; and _&ast;taliŋa_ 'generic term for mushrooms and fleshy fungi'.
 
 Ross's reconstructions of plant names in chapters 5-13 suggest that the subtaxa of these life-form categories tended to be terminal taxa. However, as folk generics tend to be more stable than specifics (Pawley this volume), it is not surprising that Ross is unable to reconstruct many terms for specifics. Rather, it is likely that POc behaved like contemporary languages in similar environmental and cultural contexts and had named folk taxa within many of the folk generics that Ross reconstructs.
 
-In chapters 5-13 of this volume Ross reconstructs POc names for over 80 plants which were most probably considered subtaxa of the &ast;kayu 'tree, shrub' category. The majority of these reconstructions, like &ast;tuRi-tuRi 'candlenut tree, Aleurites moluccana', &ast;putun 'Barringtonia asiatica', &ast;aRu 'a shore tree, Casuarina equisetifolia', &ast;paRu 'a small shore tree, Hibiscus tiliaceus', &ast;qatita 'the putty nut, Parinarium laurinum' and &ast;quRis 'Polynesian plum, Spondias dulcis', denote a single 'scientific' species. A few reconstructions, such as &ast;kalaqabusi 'a shrub, Acalypha species' and &ast;kapika 'Malay apple and rose apple, Eugenia species' denote two or more 'scientific' species, but still appear to have formed the lowest level within the classification. It is only with a few types of &ast;kayu 'tree, shrub' that Ross found evidence to reconstruct a folk generic that denoted several different species and terms for folk species within the generic category. For example, the POc term &ast;[ka]ŋaRi was polysemous, denoting both Canarium species in general and Canarium indicum in particular. A second POc term &ast;qalip 'canarium almond, Canarium species' may have denoted a separate species (ch.ll, §2.1). There are also a few types of &ast;kayu 'tree, shrub' for which Ross can reconstruct more than one POc term, such as &ast;fiofium and &ast;kurat both denoting the Indian Mulberry tree (Morinda citrifolia), which may reflect cases where POc speakers distinguished by name different varieties of a single 'scientific' species, but often the difference between these terms in POc is not entirely clear.
+In chapters 5-13 of this volume Ross reconstructs POc names for over 80 plants which were most probably considered subtaxa of the _&ast;kayu_ 'tree, shrub' category. The majority of these reconstructions, like _&ast;tuRi-tuRi_ 'candlenut tree, Aleurites moluccana', _&ast;putun_ 'Barringtonia asiatica', _&ast;aRu_ 'a shore tree, Casuarina equisetifolia', _&ast;paRu_ 'a small shore tree, Hibiscus tiliaceus', _&ast;qatita_ 'the putty nut, Parinarium laurinum' and _&ast;quRis_ 'Polynesian plum, Spondias dulcis', denote a single 'scientific' species. A few reconstructions, such as _&ast;kalaqabusi_ 'a shrub, Acalypha species' and _&ast;kapika_ 'Malay apple and rose apple, Eugenia species' denote two or more 'scientific' species, but still appear to have formed the lowest level within the classification. It is only with a few types of _&ast;kayu_ 'tree, shrub' that Ross found evidence to reconstruct a folk generic that denoted several different species and terms for folk species within the generic category. For example, the POc term _&ast;[ka]ŋaRi_ was polysemous, denoting both Canarium species in general and Canarium indicum in particular. A second POc term _&ast;qalip_ 'canarium almond, Canarium species' may have denoted a separate species (ch.ll, §2.1). There are also a few types of _&ast;kayu_ 'tree, shrub' for which Ross can reconstruct more than one POc term, such as _&ast;ñoñum_ and _&ast;kurat_ both denoting the Indian Mulberry tree (Morinda citrifolia), which may reflect cases where POc speakers distinguished by name different varieties of a single 'scientific' species, but often the difference between these terms in POc is not entirely clear.
 
-As expected from the comparative evidence, POc speakers appear to have had more levels within the classification of food plants than with non-food plants. Thus, although it appears that for most plants folk generics denoting a particular 'scientific' species formed the lowest level of classification, for some food plants POc speakers appear to have used folk generics to refer to a cluster of similar species and other more specific terms to denote single species. This was seen above with &ast;[ka]ŋaRi 'canarium almond, Canarium indicum; Canarium species in general', and can be seen in Figure 3. 7 with regards to types of yams. Alongside the terms for specific species of yams, POc speakers also appear to have used &ast;qupi 'greater yam, Dioscorea alata; yam (generic)' to denote yams in general (ch.9, §2.1). The fine grade dis- tinctions made in the naming and classification of food plants in POc can perhaps best be seen in the reconstructions of different types of edible &ast;pudi 'bananas' (ch.9, §3), and several different growth stages for &ast;niuR 'coconut (generic)' (ch.12, §3). It is also likely that, like Wayan Fijian speakers, POc speakers had other systems of classifying plants, such as in terms of food categories. For example, Ross (ch.10, §2.1) reconstructs a term &ast;wasa which denoted Abelmoschus manihot, but also appears to have referred to the general category of 'edible greens'.
+As expected from the comparative evidence, POc speakers appear to have had more levels within the classification of food plants than with non-food plants. Thus, although it appears that for most plants folk generics denoting a particular 'scientific' species formed the lowest level of classification, for some food plants POc speakers appear to have used folk generics to refer to a cluster of similar species and other more specific terms to denote single species. This was seen above with _&ast;[ka]ŋaRi_ 'canarium almond, Canarium indicum; Canarium species in general', and can be seen in Figure 3. 7 with regards to types of yams. Alongside the terms for specific species of yams, POc speakers also appear to have used _&ast;qupi_ 'greater yam, Dioscorea alata; yam (generic)' to denote yams in general (ch.9, §2.1). The fine grade distinctions made in the naming and classification of food plants in POc can perhaps best be seen in the reconstructions of different types of edible _&ast;pudi_ 'bananas' (ch.9, §3), and several different growth stages for _&ast;niuR_ 'coconut (generic)' (ch.12, §3). It is also likely that, like Wayan Fijian speakers, POc speakers had other systems of classifying plants, such as in terms of food categories. For example, Ross (ch.10, §2.1) reconstructs a term _&ast;wasa_ which denoted Abelmoschus manihot, but also appears to have referred to the general category of 'edible greens'.
 
 (plants)
 
-```
-                                                                                I
-      I                   I            I                &ast;. I                    I                    I                  I                I        I
-                                                                       n
-&ast;pali[sj]i           &ast;kayu         &ast;taliŋa              lzmut,             &ast;waRoc                &ast;qauR          &ast;padran 1         &ast;piRu     &ast;baibai(t)
-                                                                                                               adrhe
-                                                        &ast;lumut
-  grass               tree        mushroom                                   vine                 bamboo         pandanus         fan palm     cycad
-                                                            1
-          '                   '                    ' moss, agae                                            &ast;
-                                                                                                                  2
-     &ast;paRu              &ast;[ka]ŋaRi 1           &ast;quRis               &ast;tupa               &ast;qupi 1             p
-                                                                                                           Pandanus           Pandanus
-Hibiscus tiliaceus   Canarium spp.         Spondias dulcis        Derris vine        yam (generic)             .          d. .
-                                                                                           I                 tectonu'       o om""'m"'
-          &ast;[ka]ŋaRi2             &ast;qalip                               &ast;qupi2                &ast;pʷatik             &ast;pʷasepe                                 ;::;;
-     Canarium indicum         a Canarium sp.                       Dioscorea alata     Dioscorea bulbifera      greater yam                               <:::>
-                                                                                                                                                          g"
-                                                                                                                                                          Ei
-                                           Figure 3.7        Partial Proto Oceanic ethnobotanical classification                                          ;::;;
-```
+Figure 3.7 Partial Proto Oceanic ethnobotanical classification
 
 
 <a id="p-84"></a>
 
-The form &ast;qauR 'bamboos (generic)' (ch.13, §3.1) denoted an additional life-form taxon, and &ast;padran 'coastal pandanus, Pandanus tectorius' (ch.11, §2.5.1) may have also been used as a generic for all pandanus and thus been a life-form taxon. Palms may have formed a covert category, but it seems likely that they were referred to by their individual names and were unaffiliated to any other primary taxa. Ferns and tree-ferns also appear to have been unaffiliated taxa.
+The form _&ast;qauR_ 'bamboos (generic)' (ch.13, §3.1) denoted an additional life-form taxon, and _&ast;padran_ 'coastal pandanus, Pandanus tectorius' (ch.11, §2.5.1) may have also been used as a generic for all pandanus and thus been a life-form taxon. Palms may have formed a covert category, but it seems likely that they were referred to by their individual names and were unaffiliated to any other primary taxa. Ferns and tree-ferns also appear to have been unaffiliated taxa.
 
 
 ## Notes
@@ -1645,16 +1679,16 @@ The form &ast;qauR 'bamboos (generic)' (ch.13, §3.1) denoted an additional life
 
 [^3]: [Randall](../references.md#source-Randall1976) ([1976](../references.md#source-Randall1976)) argues that taxonomic tree hierarchies are probably not stored directly in the memory, but rather when necessary people can recall the perceptual characteristics of classes of flora and fauna to be used for different purposes, including gardening, foraging, naming plants and creating classification schema. If this is indeed the case, then a reason for changes in the meaning and scope of higher-order taxa within a classification may also be the result of changes in speakers' views of what fits within a taxon each time it is used for a particular purpose.
 
-[^4]: It is not clear from the dictionary definitions which other plants would be classified as rari.
+[^4]: It is not clear from the dictionary definitions which other plants would be classified as _rari_.
 
-[^5]: [Osmond](../references.md#source-Osmond1998) ([1998](../references.md#source-Osmond1998): 132) reconstructs POc &ast;asok 'plant in holes in the ground', along with a Proto Western Oceanic form &ast;pasok-i- 'to plant sth (tubers etc)' that looks to be a form derived with the causative prefix &ast;pa-. The Micronesian forms below are likely cognates of Proto Western Oceanic &ast;pasok-i-, suggesting the reconstruction of &ast;pasok-i- 'to plant something' for POc.
+[^5]: [Osmond](../references.md#source-Osmond1998) ([1998](../references.md#source-Osmond1998): 132) reconstructs POc _&ast;asok_ 'plant in holes in the ground', along with a Proto Western Oceanic form _&ast;pasok-i-_ 'to plant sth (tubers etc)' that looks to be a form derived with the causative prefix _&ast;pa-_. The Micronesian forms below are likely cognates of Proto Western Oceanic _&ast;pasok-i-_, suggesting the reconstruction of _&ast;pasok-i-_ 'to plant something' for POc.
 
-[^6]: To solve the problem of explicitly describing such a covert category in their classification and description of plants in Kwara'ae, [Kwa'ioloa and Burt](../references.md#source-KwaioloaandBurt2001) ([2001](../references.md#source-KwaioloaandBurt2001): 17, 186) label palms as niniu 'kinds of trees that are similar in being tall and erect and that are used for platforming and walling and for battens for thatching', but this does not appear to be a conventional Kwara'ae usage.
+[^6]: To solve the problem of explicitly describing such a covert category in their classification and description of plants in Kwara'ae, [Kwa'ioloa and Burt](../references.md#source-KwaioloaandBurt2001) ([2001](../references.md#source-KwaioloaandBurt2001): 17, 186) label palms as _niniu_ 'kinds of trees that are similar in being tall and erect and that are used for platforming and walling and for battens for thatching', but this does not appear to be a conventional Kwara'ae usage.
 
-[^7]: A third meaning, 'vein' is found in reflexes from a number of subgroups (Adm, NNG, PT, NCV, SV, Mic). Similar meanings are also found with some cognates in non-Oceanic Austronesian languages, such as Simalur olor 'root, vein, tendon' (Blust ACD).
+[^7]: A third meaning, 'vein' is found in reflexes from a number of subgroups (Adm, NNG, PT, NCV, SV, Mic). Similar meanings are also found with some cognates in non-Oceanic Austronesian languages, such as Simalur _olor_ 'root, vein, tendon' (Blust ACD).
 
-[^8]: SW Tanna _nə-vhilək_ 'grass' leads Lynch (2001 c: 246) to reconstruct Proto Southern Vanuatu &ast;na-(p, v)alijiy, suggesting that the POc form was &ast;pali[s,j]ik with a final &ast;-k. However, there is no other evidence for POc &ast;-k, and so I do not reconstruct it.
+[^8]: SW Tanna _nə-vhilək_ 'grass' leads Lynch (2001 c: 246) to reconstruct Proto Southern Vanuatu _&ast;na-(p,v)alijiy_, suggesting that the POc form was _&ast;pali[s,j]ik_ with a final _&ast;-k_. However, there is no other evidence for POc _&ast;-k_, and so I do not reconstruct it.
 
-[^9]: The loss of POc &ast;s in Samoan is irregular.
+[^9]: The loss of POc _&ast;s_ in Samoan is irregular.
 
-[^10]: One language, Simalur (WMP), reflects Proto Malayo·-Polynesian &ast;j, suggesting POc &ast;c (Blust ACD) .
+[^10]: One language, Simalur (WMP), reflects Proto Malayo-Polynesian _&ast;j_, suggesting POc _&ast;c_ (Blust ACD) .
