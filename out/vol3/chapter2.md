@@ -1153,19 +1153,19 @@ Significantly, for six out of seven the dictionary independently lists a meaning
 
 [Kwa'ioloa & Burt](../references.md#source-KwaioloaandBurt2001) ([2001](../references.md#source-KwaioloaandBurt2001)) list thirty-six names of trees, big and not so big, beginning with _ʔai-_. Most of these are explicitly descriptive, according to Kwa'ioloa and Burt. The first eleven are listed below, and nine out of eleven are descriptive.
 
-|             |                                       |          |                             |
-|:------------|:--------------------------------------|:---------|:----------------------------|
-| _ʔaibū_     | 'tree, Diospyros ebenum'              | …        |                             |
-| _ʔaisarufi_ | 'tree, Eugenia if.fusa'               | _sarufi_ | 'big tree, Litsea alba'     |
-| _ʔaisaliŋa_ | 'big tree, Aporosa papuana'           | _aliŋa_  | 'ear'                       |
-| _ʔaisubu_   | 'big tree, Pimeleodendron amboinicum' | …        |                             |
-| _ʔaiuluulu_ | 'big tree, Vitex cofassus'            | _uluulu_ | 'bushy'                     |
-| _ʔaikame_   | 'big tree, Putranjiva roxburgii       | _kame_   | 'monitor lizard'            |
-| _ʔaikusi_   | 'big tree, Cryptocarya alleniana"     | _kusi_   | 'greybird'                  |
-| _ʔaikaʔo_   | 'big tree, Xylopia papuana'           | _kaʔo_   | 'bamboo'                    |
-| _ʔailali_   | 'Tahitian chestnut, Inocarpusfagifer' | _lali_   | 'kidney'                    |
-| _ʔairade_   | 'trees, Dysoxylum' spp.               | _rade_   | 'stink'                     |
-| _ʔaininiu_  | 'big tree, Horifieldia irya'          | _niniu_  | 'palm, Gulubia macrospadix' |
+|             |                                        |          |                             |
+|:------------|:---------------------------------------|:---------|:----------------------------|
+| _ʔaibū_     | 'tree, Diospyros ebenum'               | …        |                             |
+| _ʔaisarufi_ | 'tree, Eugenia if.fusa'                | _sarufi_ | 'big tree, Litsea alba'     |
+| _ʔaisaliŋa_ | 'big tree, Aporosa papuana'            | _aliŋa_  | 'ear'                       |
+| _ʔaisubu_   | 'big tree, Pimeleodendron amboinicum'  | …        |                             |
+| _ʔaiuluulu_ | 'big tree, Vitex cofassus'             | _uluulu_ | 'bushy'                     |
+| _ʔaikame_   | 'big tree, Putranjiva roxburgii        | _kame_   | 'monitor lizard'            |
+| _ʔaikusi_   | 'big tree, Cryptocarya alleniana"      | _kusi_   | 'greybird'                  |
+| _ʔaikaʔo_   | 'big tree, Xylopia papuana'            | _kaʔo_   | 'bamboo'                    |
+| _ʔailali_   | 'Tahitian chestnut, Inocarpus fagifer' | _lali_   | 'kidney'                    |
+| _ʔairade_   | 'trees, Dysoxylum' spp.                | _rade_   | 'stink'                     |
+| _ʔaininiu_  | 'big tree, Horifieldia irya'           | _niniu_  | 'palm, Gulubia macrospadix' |
 
 
 <a id="p-46"></a>

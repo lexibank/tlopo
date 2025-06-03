@@ -10,7 +10,7 @@ by Malcolm Ross
 
 A Proto Oceanic (POc) meal was typically made up of two categories of ingredient, &ast;kanaŋ 'staple food, starchy food' (ch.2, §6.1) and &ast;tamaji 'additional ingredients to accompany starchy food' (ch.2, §6.2). The main ingredients of &ast;tamaji were-or rather are in today's Oceanic societies-green vegetables, treated in chapter 10, and coconut cream, treated in §4.2 of chapter 12.
 
-The present chapter treats staple foods. The chapter is divided according to the four cat- egories of staple foods: root crops (§2), bananas (§3), breadfruit (§4) and stem starch, prin- cipally sago (§5).
+The present chapter treats staple foods. The chapter is divided according to the four categories of staple foods: root crops (§2), bananas (§3), breadfruit (§4) and stem starch, principally sago (§5).
 
 
 <a id="s-2"></a>
@@ -27,13 +27,13 @@ Of the root crops found in the Pacific today, the widely consumed sweet potato (
 
 Yams and taro differ in their distributions since yams, and especially Dioscorea alata, have more demanding environmental requirements. Unlike Colocasia taro, which thrives in generally rainy areas, in damp soil, and up to altitudes of 2200 m or so, yams require seasonal rainfall and flourish in deep, well-drained soils. They are grown in open gardens as they need sunlight. Although D. alata and D. esculenta require a similar environment, D. alata can be grown at altitudes up to 1900 m, D. esculenta only to less than 1000 m (M. Bourke, pers. comm.). Thus [Ivens](../references.md#source-Ivens1927) ([1927](../references.md#source-Ivens1927)) describes a difference in root crops among speakers of dialects of South Malaitan. On the island of Ulawa, only D. alata was cultivated. On Small Malaita D. esculenta was also grown on the low hills. On Malaita proper, people lived on the central ridge at 1000 m and had no yams, only taro.
 
-Because of its environmental tolerance the taro tuber Colocasia esculenta is the most im- portant subsistence plant in Melanesia ([Barrau 1955](../references.md#source-Barrau1955): 50). When the ancestors of POc speak- ers arrived in the region C. esculenta was already the dominant staple over much of New Guinea. In drier lowland and mid-altitude areas Dioscorea species predominated ([Bourke 1982](../references.md#source-Bourke1982), [Swadling & Hide 2005](../references.md#source-SwadlingandHide2005)). However, it seems likely on circumstantial grounds that the yam D. alata was an important staple of POc speakers, at least immediately after their arrival in the Bismarcks.
+Because of its environmental tolerance the taro tuber Colocasia esculenta is the most important subsistence plant in Melanesia ([Barrau 1955](../references.md#source-Barrau1955): 50). When the ancestors of POc speakers arrived in the region C. esculenta was already the dominant staple over much of New Guinea. In drier lowland and mid-altitude areas Dioscorea species predominated ([Bourke 1982](../references.md#source-Bourke1982), [Swadling & Hide 2005](../references.md#source-SwadlingandHide2005)). However, it seems likely on circumstantial grounds that the yam D. alata was an important staple of POc speakers, at least immediately after their arrival in the Bismarcks.
 
-POc speakers lived on small islands and in coastal enclaves (vo1.2, ch.2), and most of their environments were probably suitable for growing D. alata. Taro would have assumed greater importance as they moved inland on the larger islands. Significantly, one of the POc terms for Colocasia taro was &ast;mʷapo(q), a borrowing from a mainland Papuan language (§2 .2.1 ). Taro was certainly known to POc speakers-they also had their own Austronesian word for it, &ast;talo(s)-but the presence of a Papuan borrowing for such a seemingly central item of diet implies that taro cultivation came to assume greater importance through contact with taro growers on the New Guinea mainland.
+POc speakers lived on small islands and in coastal enclaves (vo1.2, ch.2), and most of their environments were probably suitable for growing D. alata. Taro would have assumed greater importance as they moved inland on the larger islands. Significantly, one of the POc terms for Colocasia taro was &ast;mʷapo(q), a borrowing from a mainland Papuan language (§2 .2.1). Taro was certainly known to POc speakers-they also had their own Austronesian word for it, &ast;talo(s)-but the presence of a Papuan borrowing for such a seemingly central item of diet implies that taro cultivation came to assume greater importance through contact with taro growers on the New Guinea mainland.
 
 Both yams and taro allow some variety in !their preparation for eating: they are boiled, braised or baked whole or in large chunks, and sometimes they are eaten grated or mashed.
 
-A huge number of varieties of both yams and Colocasia taro (in the tens, if not the hundreds) are individually named in Oceanic-speaking communities ([Malinowski 1935](../references.md#source-Malinowski1935)a: 100--104, [Fox 1978](../references.md#source-Fox1978), [Barrau 1962](../references.md#source-Barrau1962): 99-100). Where more than one name for a species is re- constructed, it may be that one or other name denoted a variety. However, no deliberate attempt has been made here to reconstruct names for varieties, partly because sources do not provide Linnaean names for individual varieties and partly because their names are often transparently descriptive and have probably been innovated over and over again.
+A huge number of varieties of both yams and Colocasia taro (in the tens, if not the hundreds) are individually named in Oceanic-speaking communities ([Malinowski 1935](../references.md#source-Malinowski1935)a: 100--104, [Fox 1978](../references.md#source-Fox1978), [Barrau 1962](../references.md#source-Barrau1962): 99-100). Where more than one name for a species is reconstructed, it may be that one or other name denoted a variety. However, no deliberate attempt has been made here to reconstruct names for varieties, partly because sources do not provide Linnaean names for individual varieties and partly because their names are often transparently descriptive and have probably been innovated over and over again.
 
 
 <a id="s-2-1"></a>
@@ -46,15 +46,15 @@ Unlike the Araceae (taros and taro-like plants; §2.2) with their large leaves, 
 
 <a id="p-257"></a>
 
-BarraUt (1955: 39--40) points out that yam-growing communities require a good under- standing of the seasons. 'Flowering and fructification of local plants often indicate to the natives the season best suited for the various agricultural activities.' Thus on Espiritu Santo (Vanuatu) and in Fiji, yams are planted when the coral trees, Erythrina variegata (ch.5, §5.5), are in flower ([Baker & Harrison 1936](../references.md#source-BakerandHarrison1936)).
+BarraUt (1955: 39--40) points out that yam-growing communities require a good understanding of the seasons. 'Flowering and fructification of local plants often indicate to the natives the season best suited for the various agricultural activities.' Thus on Espiritu Santo (Vanuatu) and in Fiji, yams are planted when the coral trees, Erythrina variegata (ch.5, §5.5), are in flower ([Baker & Harrison 1936](../references.md#source-BakerandHarrison1936)).
 
-Preparing and planting a yam garden requires a major effort, and in many yam-growing communities the planting was associated with rituals and incantations calling on the spirits to stand guard over the crop, protecting it from thieves, yam beetles and other malign beings ([Fox 1924](../references.md#source-Fox1924): 104-106, [Malinowski 1935](../references.md#source-Malinowski1935)a). On Ulawa the rituals began the night before plant- ing by blessing the pieces of yam to be planted, followed in the morning by incantations in the garden and culminating with a small feast ([Ivens 1927](../references.md#source-Ivens1927): 358-361). Weeding also had as- sociated ritual. The women bathed, and then ceremonially cleansed themselves with Euodia sprigs (ch.7, §5.6) before they went to weed the yam garden. When the yams were ready for harvesting, the priest took to the beach two yams tied with Dracaena (ch.13, §6.1), where he sacrificed them to the sea spirits on behalf of the village. Only after this might the villagers harvest their yams as they needed them ([Ivens 1927](../references.md#source-Ivens1927): 362-363). On both Small Malaita and Ulawa the yams were first placed in a temporary shelter near the garden, then transferred to a storehouse ([Ivens 1927](../references.md#source-Ivens1927): 363-366). Malinowski' s (1935) account of yam cultivation among the Kilivila is similar to Ivens' account of the Ulawa; the processes are the same, the rituals pervasive, but yam cultivation is strictly a male domain.
+Preparing and planting a yam garden requires a major effort, and in many yam-growing communities the planting was associated with rituals and incantations calling on the spirits to stand guard over the crop, protecting it from thieves, yam beetles and other malign beings ([Fox 1924](../references.md#source-Fox1924): 104-106, [Malinowski 1935](../references.md#source-Malinowski1935)a). On Ulawa the rituals began the night before planting by blessing the pieces of yam to be planted, followed in the morning by incantations in the garden and culminating with a small feast ([Ivens 1927](../references.md#source-Ivens1927): 358-361). Weeding also had associated ritual. The women bathed, and then ceremonially cleansed themselves with Euodia sprigs (ch.7, §5.6) before they went to weed the yam garden. When the yams were ready for harvesting, the priest took to the beach two yams tied with Dracaena (ch.13, §6.1), where he sacrificed them to the sea spirits on behalf of the village. Only after this might the villagers harvest their yams as they needed them ([Ivens 1927](../references.md#source-Ivens1927): 362-363). On both Small Malaita and Ulawa the yams were first placed in a temporary shelter near the garden, then transferred to a storehouse ([Ivens 1927](../references.md#source-Ivens1927): 363-366). Malinowski' s (1935) account of yam cultivation among the Kilivila is similar to Ivens' account of the Ulawa; the processes are the same, the rituals pervasive, but yam cultivation is strictly a male domain.
 
 Because they are seasonal, communities dependent on fresh yams alone would undergo regular food shortages while the young yams were growing ([Barrau 1955](../references.md#source-Barrau1955): 58). Before the advent of the sweet potato a few hundred years ago, the perils of shortage were avoided in two ways. First, yams were often co-staples with other starchy foods: inNew Guinea societies with either Colocasia taro or bananas ([Bourke 1982](../references.md#source-Bourke1982)), in Vanuatu coastal communities with breadfruit ([Walter & Sam 2002](../references.md#source-WalterandSam2002): 41). Secondly, by storage: of the root crops grown in NW Island Melanesia, yams can be stored longest, kept on shaded or dark shelves in a dry, well aired location for up to six months, providing food between harvest periods ([Henderson & Hancock 1988](../references.md#source-HendersonandHancock1988): 19). Yam storage houses are a salient feature in Melanesian villages from the Trobriand Islands of Papua New Guinea to New Caledonia ([Barrau 1955](../references.md#source-Barrau1955): 58).
 
 9.2.1.1 Why so few yam terms?
 
-Today six yam species are found in Melanesia: D. alata, D. bulbifera, D. esculenta, D. pen- taphylla, D. hispida, and D. nummularia (BarraUt 1955: 56, [Bourke 1982](../references.md#source-Bourke1982)). The first four are present throughout the region, but POc names can be reconstructed for only the first two. This is curious, because the two main garden yam species in NW Island Melanesia today are the greater yam, D. alata, and the lesser yam, D. esculenta. We might expect to reconstruct a POc term for at least the first four species, and certainly for D. esculenta, but no term for the latter can be reconstructed with certainty. Barrau (1965) suggests that D. nummularia, which he found cultivated in scattered locations throughout the Pacific,[^3] was also once much more widely cultivated than it is today. No term can be reconstructed for it, but this is likely to be an artifact of the data: no source offers a term for it.
+Today six yam species are found in Melanesia: D. alata, D. bulbifera, D. esculenta, D. pentaphylla, D. hispida, and D. nummularia (BarraUt 1955: 56, [Bourke 1982](../references.md#source-Bourke1982)). The first four are present throughout the region, but POc names can be reconstructed for only the first two. This is curious, because the two main garden yam species in NW Island Melanesia today are the greater yam, D. alata, and the lesser yam, D. esculenta. We might expect to reconstruct a POc term for at least the first four species, and certainly for D. esculenta, but no term for the latter can be reconstructed with certainty. Barrau (1965) suggests that D. nummularia, which he found cultivated in scattered locations throughout the Pacific,[^3] was also once much more widely cultivated than it is today. No term can be reconstructed for it, but this is likely to be an artifact of the data: no source offers a term for it.
 
 
 <a id="p-258"></a>
@@ -69,9 +69,9 @@ The visible differences between D. alata, D. esculenta and D. bulbifera are show
 
 9.2.1.2 Dioscorea alata, greater yam, water yam, winged yam, TP yam, P iam (Dioscoreaceae)
 
-Left to themselves, D. alata tubers come in an amazing variety of forms, as shown in Fig- ure 9.2. In various parts of Oceanic-speaking Melanesia-the Papuan Tip islands, Fiji, New Caledonia-farmers strove to produce yams with a regular form and giant length. [Barrau](../references.md#source-Barrau1955) ([1955](../references.md#source-Barrau1955): 57) mentions a 2.6 m yam seen in New Caledonia in 1953. These long yams were produced by hollowing out a cylindrical growing hole and lining it with wooden sticks to provide growth space for the tuber. More generally, the yield is maximised by staking the growing vine with a support 2-3m high.
+Left to themselves, D. alata tubers come in an amazing variety of forms, as shown in Figure 9.2. In various parts of Oceanic-speaking Melanesia-the Papuan Tip islands, Fiji, New Caledonia-farmers strove to produce yams with a regular form and giant length. [Barrau](../references.md#source-Barrau1955) ([1955](../references.md#source-Barrau1955): 57) mentions a 2.6 m yam seen in New Caledonia in 1953. These long yams were produced by hollowing out a cylindrical growing hole and lining it with wooden sticks to provide growth space for the tuber. More generally, the yield is maximised by staking the growing vine with a support 2-3m high.
 
-It is not nutrition that drives the desire to produce the largest and the most yams in Melane- sian societies, but rather competition for prestig1;:, carried out by exhibiting one's success as a yam grower. Thus among Kilivila speakers of the Trobriands yams are displayed first in con- ical heaps in the garden, then again in front of the in-law's storehouse, before being placed in one's own storehouse. A good feast, from the host's perspective, is one at which the guests eat their fill of yam, then see how full their host's storehouse remains after the feast. A large yam with a fantastic form is good for display. The very fact that yams can be stored places them above taro in the food hierarchy because it allows a man to accumulate them until he can dis- tribute them at a feast in the large quantities which bolster his prestige ([Howes 2003](../references.md#source-Howes2003): 67-68, 96-97).
+It is not nutrition that drives the desire to produce the largest and the most yams in Melanesian societies, but rather competition for prestig1;:, carried out by exhibiting one's success as a yam grower. Thus among Kilivila speakers of the Trobriands yams are displayed first in con- ical heaps in the garden, then again in front of the in-law's storehouse, before being placed in one's own storehouse. A good feast, from the host's perspective, is one at which the guests eat their fill of yam, then see how full their host's storehouse remains after the feast. A large yam with a fantastic form is good for display. The very fact that yams can be stored places them above taro in the food hierarchy because it allows a man to accumulate them until he can dis- tribute them at a feast in the large quantities which bolster his prestige ([Howes 2003](../references.md#source-Howes2003): 67-68, 96-97).
 
 
 <a id="p-259"></a>
@@ -488,9 +488,9 @@ cf. also:
 
 9.2.1.3 Dioscorea bulbifera, potato yam, aerial yam, air potato (Dioscoreaceae)
 
-The terms 'potato yam' and 'aerial yam' reflect the fact that D. bulbifera has multiple aerial bulbils rather than a single basal tuber. Except in parts of Papua New Guinea it is not culti- vated but quite commonly grows wild ([Barrau 1962](../references.md#source-Barrau1962): 113). Its bulbils contain a toxin, dioscor- ine, and need to be cooked and grated, then washed continuously in fresh water for several hours ([Barrau 1955](../references.md#source-Barrau1955): 59). In Papua New Guinea it is sometimes cultivated as a minor staple alongside the two major staple species, D. alata and D. esculenta ([Bourke 1982](../references.md#source-Bourke1982)).
+The terms 'potato yam' and 'aerial yam' reflect the fact that D. bulbifera has multiple aerial bulbils rather than a single basal tuber. Except in parts of Papua New Guinea it is not cultivated but quite commonly grows wild ([Barrau 1962](../references.md#source-Barrau1962): 113). Its bulbils contain a toxin, dioscorine, and need to be cooked and grated, then washed continuously in fresh water for several hours ([Barrau 1955](../references.md#source-Barrau1955): 59). In Papua New Guinea it is sometimes cultivated as a minor staple alongside the two major staple species, D. alata and D. esculenta ([Bourke 1982](../references.md#source-Bourke1982)).
 
-POc &ast;pʷatika evidently referred to the potato yam, D. bulbifera, because its reflexes de- note this species in widely separated languages: Patpatar (MM), Kwara'ae (SES) and Sye and Ura (SV) (the Chuukese form appears to be borrowed). The languages in which it is glossed 'lesser yam' (D. esculenta) are contiguous and appear to represent a semantic innovation local to central New Ireland.
+POc &ast;pʷatika evidently referred to the potato yam, D. bulbifera, because its reflexes denote this species in widely separated languages: Patpatar (MM), Kwara'ae (SES) and Sye and Ura (SV) (the Chuukese form appears to be borrowed). The languages in which it is glossed 'lesser yam' (D. esculenta) are contiguous and appear to represent a semantic innovation local to central New Ireland.
 
 <table>
 <tr>
@@ -582,9 +582,9 @@ cf. also:
 
 Dioscorea esculenta has a prickly vine stem and winds clockwise around its stake, whereas D. alata winds anti-clockwise (Figure 9.1).
 
-The reasons why a POc etymon for this widespread species is apparently not recon- structable are discussed in §2.1.1. There are,, however, a number of terms in NNG and MM languages which imply that there may have been a PWOc term for the species.6 Two forms are quite widely reflected, &ast;ka-misa and &ast;ma-misa. The &ast;ka-l&ast;ma- alternation is typical of sta- tive (adjective-like) verbs in POc,? implying that this was originally an epithet applied to D. esculenta rather than a noun. However, no other meaning for this word can be reconstructed at present.
+The reasons why a POc etymon for this widespread species is apparently not reconstructable are discussed in §2.1.1. There are,, however, a number of terms in NNG and MM languages which imply that there may have been a PWOc term for the species.6 Two forms are quite widely reflected, &ast;ka-misa and &ast;ma-misa. The &ast;ka-l&ast;ma- alternation is typical of stative (adjective-like) verbs in POc,? implying that this was originally an epithet applied to D. esculenta rather than a noun. However, no other meaning for this word can be reconstructed at present.
 
-The possibility of reconstructing PWOc &ast;ka-misal&ast;ma-misa 'lesser yam, D. esculenta' perhaps means that the lesser yam was domesticated in NW Island Melanesia after the break- up of POc but before PWOc had dispersed far. Against this inference, however, is the fact that we would also expect to find reflexes of such a significant item in languages of the Papuan Tip linkage, the third member linkage of Western Oceanic, yet none have been found. 8 The S Efate and Wayan Fijian forms are both very doubtful cognates.
+The possibility of reconstructing PWOc &ast;ka-misal&ast;ma-misa 'lesser yam, D. esculenta' perhaps means that the lesser yam was domesticated in NW Island Melanesia after the break-up of POc but before PWOc had dispersed far. Against this inference, however, is the fact that we would also expect to find reflexes of such a significant item in languages of the Papuan Tip linkage, the third member linkage of Western Oceanic, yet none have been found.[^8] The S Efate and Wayan Fijian forms are both very doubtful cognates.
 
 <table>
 <tr>
@@ -918,20 +918,20 @@ cf. also:
 ### 2.2. Taro (Araceae)
 
 
-Most major food plant terms both in English and in Oceanic languages refer to a single genus. The English term 'taro' is an exception. In much of the Pacific 'taro' is used to refer collec- tively to five genera of the Araceae family, namely Colocasia, Cyrtosperma, Alocasia, Amor- phophallus, and Xanthosoma, each represented by a single cultivated species in the Pacific and shown in Figure 9.3. The most important species are-and in POc times probably were- Colocasia esculenta and Cyrtosperma merkusii.
+Most major food plant terms both in English and in Oceanic languages refer to a single genus. The English term 'taro' is an exception. In much of the Pacific 'taro' is used to refer collectively to five genera of the Araceae family, namely Colocasia, Cyrtosperma, Alocasia, Amor- phophallus, and Xanthosoma, each represented by a single cultivated species in the Pacific and shown in Figure 9.3. The most important species are - and in POc times probably were - Colocasia esculenta and Cyrtosperma merkusii.
 
 9.2.2.1 Colocasia esculenta (syn. C. antiquorum), taro, Asian taro, TP taro tru (Araceae)
 
 Like the other Araceae, in its natural state Colocasia taro prefers a shady, damp (and even swampy) environment, which explains its cultivation in rain forest environments and the need for irrigation elsewhere. It is often grown on crudely terraced slopes, the terraces supported by tree trunks or stick fences. It is usually propagated by planting a section from the top of the tuber together with the plant' s stem (the leaves are removed). Less often a cutting or a sucker from the side of the corm is used. [Ivens](../references.md#source-Ivens1927) ([1927](../references.md#source-Ivens1927): 355) reports from Ulawa that, because taro is not a seasonal crop, the farmer may simply cut the top off a newly pulled tuber and re-plant it immediately. Tubers are ready for harvesting 7-12 months after planting. It grows throughout the year, obviating the need for storage ([Barrau 1955](../references.md#source-Barrau1955): 50-52).
 
-Two POc terms for C. esculenta can be reconstructed: &ast;talo(s) and &ast;mʷapo(q). This syn- onymy perhaps reflects the complex history of taro cultivation by early Oceanic speakers. On the one hand they brought with them varieties of taro that they named &ast;talo(s). Evidence for this is that the term was inherited from PMP. On the other hand they interacted with Papuan speakers in NW Melanesia and may have acquired new taro varieties from them, along with the label &ast;mʷapo(q), which apparently entered POc from a mainland Papuan lan- guage. Reflexes of a possible source occur in languages of the northern Adelbert Range in the present-day Madang Province (see [Z'Graggen 1980](../references.md#source-ZGraggen1980)), and the widespread currency in Papuan languages of words with a form resembling mao is noted by [Dutton](../references.md#source-Dutton1973) ([1973](../references.md#source-Dutton1973): 443) and [Hays](../references.md#source-Hays2005) ([2005](../references.md#source-Hays2005): 642).
+Two POc terms for C. esculenta can be reconstructed: &ast;talo(s) and &ast;mʷapo(q). This synonymy perhaps reflects the complex history of taro cultivation by early Oceanic speakers. On the one hand they brought with them varieties of taro that they named &ast;talo(s). Evidence for this is that the term was inherited from PMP. On the other hand they interacted with Papuan speakers in NW Melanesia and may have acquired new taro varieties from them, along with the label &ast;mʷapo(q), which apparently entered POc from a mainland Papuan language. Reflexes of a possible source occur in languages of the northern Adelbert Range in the present-day Madang Province (see [Z'Graggen 1980](../references.md#source-ZGraggen1980)), and the widespread currency in Papuan languages of words with a form resembling mao is noted by [Dutton](../references.md#source-Dutton1973) ([1973](../references.md#source-Dutton1973): 443) and [Hays](../references.md#source-Hays2005) ([2005](../references.md#source-Hays2005): 642).
 
 
 <a id="p-266"></a>
 
-The cognate set from which POc &ast;mʷapo(q) is reconstructed contains several formal dif- ficulties. The alternation of reflexes of POc &ast;m and &ast;mw in certain items including this one has been discussed by [Blust](../references.md#source-Blust1981a) ([1981a](../references.md#source-Blust1981a)). [French-Wright](../references.md#source-FrenchWright1983) ([1983](../references.md#source-FrenchWright1983): 130--132) also considers the al- ternation between zero and reflexes of POc &ast;-p·· in this set, choosing to reconstruct two POc forms, one with and one without &ast;-p-, but suspecting that they are reflexes of a single form. With more data at our disposal, it is clear on both formal and semantic grounds that this is a single cognate set, but one in which two common sporadic changes often occur, namely that &ast;mw becomes &ast;m and that &ast;pis lost between vowels when one is rounded. Some of the NNG reflexes (Kove, Gitua and Mangap) complicate the picture by reflecting POc &ast;-q. These vari- ations may mean that the earliest forms in Oceanic do not date back to POc itself but represent slightly later borrowings from dialect to dialect among early Oceanic dialects.
+The cognate set from which POc &ast;mʷapo(q) is reconstructed contains several formal difficulties. The alternation of reflexes of POc &ast;m and &ast;mw in certain items including this one has been discussed by [Blust](../references.md#source-Blust1981a) ([1981a](../references.md#source-Blust1981a)). [French-Wright](../references.md#source-FrenchWright1983) ([1983](../references.md#source-FrenchWright1983): 130--132) also considers the alternation between zero and reflexes of POc &ast;-p·· in this set, choosing to reconstruct two POc forms, one with and one without &ast;-p-, but suspecting that they are reflexes of a single form. With more data at our disposal, it is clear on both formal and semantic grounds that this is a single cognate set, but one in which two common sporadic changes often occur, namely that &ast;mw becomes &ast;m and that &ast;pis lost between vowels when one is rounded. Some of the NNG reflexes (Kove, Gitua and Mangap) complicate the picture by reflecting POc &ast;-q. These variations may mean that the earliest forms in Oceanic do not date back to POc itself but represent slightly later borrowings from dialect to dialect among early Oceanic dialects.
 
-The distribution of the two cognate sets is also interesting. Whilst POc &ast;mʷapo(q) is dis- tributed throughout Oceania, POc &ast;talo(s) hardly occurs in Western Oceanic. Its only known Western Oceanic reflexes are in Manam (NNG), Motu (PT) and Roviana and Marovo (MM). In the cases of Manam and Motu, no reflex has been found in nearby closely related lan- guages, and it is quite possible that these are borrowings from an Eastern Oceanic language or from an English-based pidgin. 10 In any case, POc &ast;talo(s) has been widely replaced by POc &ast;mʷapo(q) in Western Oceanic languages. John Lynch (pers. comm.) points out that reflexes of &ast;talo(s) have been replaced by reflexes of PSOc &ast;bʷeta in all of North/Central Vanuatu except South Efate (which arguably subgroups with South Vanuatu).
+The distribution of the two cognate sets is also interesting. Whilst POc &ast;mʷapo(q) is distributed throughout Oceania, POc &ast;talo(s) hardly occurs in Western Oceanic. Its only known Western Oceanic reflexes are in Manam (NNG), Motu (PT) and Roviana and Marovo (MM). In the cases of Manam and Motu, no reflex has been found in nearby closely related languages, and it is quite possible that these are borrowings from an Eastern Oceanic language or from an English-based pidgin. 10 In any case, POc &ast;talo(s) has been widely replaced by POc &ast;mʷapo(q) in Western Oceanic languages. John Lynch (pers. comm.) points out that reflexes of &ast;talo(s) have been replaced by reflexes of PSOc &ast;bʷeta in all of North/Central Vanuatu except South Efate (which arguably subgroups with South Vanuatu).
 
 A search for languages in which reflexes of &ast;talo(s) and &ast;mʷapo(q) are in contrast has turned up very little, but this may be an artefact of inadequate data. Only Arosi reflects both terms, each as the first element of names of taro varieties (see below). 11 The Arosi generic term for taro is bʷa, reflecting neither POc term.
 
@@ -1296,7 +1296,7 @@ Figure 9.3   Taro (Araceae) genera and Amorphophallus: growth habit
 
 
 
-The leaves of Colocasia esculenta are eaten as a green vegetable in many parts of Ocea- nia, and many languages have a separate word for them (ch.4, §2.5). A possible POc term for taro leaves, POc &ast;gal(a,o) is weakly supported, along with a possible PWOc candidate, &ast;[qa]pʷasu-'possible' because only its NNG and PT reflexes denote leaves; its MM reflexes denote Colocasia esculenta itself.
+The leaves of Colocasia esculenta are eaten as a green vegetable in many parts of Oceania, and many languages have a separate word for them (ch.4, §2.5). A possible POc term for taro leaves, POc &ast;gal(a,o) is weakly supported, along with a possible PWOc candidate, &ast;[qa]pʷasu-'possible' because only its NNG and PT reflexes denote leaves; its MM reflexes denote Colocasia esculenta itself.
 
 <table>
 <tr>
@@ -1388,62 +1388,66 @@ The leaves of Colocasia esculenta are eaten as a green vegetable in many parts o
 
 
 
-Other terms for parts of the taro plant are reconstructed in chapter 4. They are • POc &ast;[s,j ]uti(q) 'banana or taro sucker, slip, cutting, shoot (i.e. propagation material)' (ch.4, §2.6Y 2 • POc &ast;baRa-baRa 'stem or stalk of non-woody plants, such as taro and banana, probably also the soft stems of leaves' (ch.4, §2.2) • POc &ast;up(e,a) 'taro seedling' (ch.4, §2.6)
+Other terms for parts of the taro plant are reconstructed in chapter 4. They are
+
+- POc &ast;[s,j ]uti(q) 'banana or taro sucker, slip, cutting, shoot (i.e. propagation material)' (ch.4, §2.6Y 2
+
+- POc &ast;baRa-baRa 'stem or stalk of non-woody plants, such as taro and banana, probably also the soft stems of leaves' (ch.4, §2.2)
+
+- POc &ast;up(e,a) 'taro seedling' (ch.4, §2.6)
 
 9.2.2.2 Cyrtosperma merkusii (syn. C. chamissonis, C. edule), swamp taro, giant taro, Pkakake, kakama, B wota taro (Araceae)
 
-At 4 metres tall swamp taro, Cyrtosperma merkusii, is a giant among the Araceae. It grows wild or is cultivated in swampy areas on many of the islands of Melanesia, Polynesia and Micronesia. Cyrtosperma taro is commonly grown in the mud directly behind the mangrove swamp ([Barrau 1955](../references.md#source-Barrau1955): 25-26). In pre-European times it was cultivated in the Bismarcks (on Manus and New Ireland), the Solomons, Vanuatu, Micronesia, western Polynesia and parts of Fiji but not on mainland New Guinea, in New Caledonia, or in eastern Polynesia (Bar- rau 1962: 103, Andrew Pawley, pers. comm.). It tolerates saline swamps and requires little labour to cultivate ([Bourke 1982](../references.md#source-Bourke1982)). Because of its suitability for marginal conditions, it is an important staple on atolls in Micronesia. Elsewhere it has only marginal importance as a food crop. It is propagated by planting cuttings in marshy ground, and the tuber, which may weigh up to 15 kg, is harvested only after three years or longer. It is usually cooked by baking (Bar- rau 1955: 53). Its huge waxy leaves are used in the Solomons for sealing stone ovens and for laying out food ([Henderson & Hancock 1988](../references.md#source-HendersonandHancock1988): 29-30).
+At 4 metres tall swamp taro, Cyrtosperma merkusii, is a giant among the Araceae. It grows wild or is cultivated in swampy areas on many of the islands of Melanesia, Polynesia and Micronesia. Cyrtosperma taro is commonly grown in the mud directly behind the mangrove swamp ([Barrau 1955](../references.md#source-Barrau1955): 25-26). In pre-European times it was cultivated in the Bismarcks (on Manus and New Ireland), the Solomons, Vanuatu, Micronesia, western Polynesia and parts of Fiji but not on mainland New Guinea, in New Caledonia, or in eastern Polynesia ([Barrau 1962](../references.md#source-Barrau1962): 103, Andrew Pawley, pers. comm.). It tolerates saline swamps and requires little labour to cultivate ([Bourke 1982](../references.md#source-Bourke1982)). Because of its suitability for marginal conditions, it is an important staple on atolls in Micronesia. Elsewhere it has only marginal importance as a food crop. It is propagated by planting cuttings in marshy ground, and the tuber, which may weigh up to 15 kg, is harvested only after three years or longer. It is usually cooked by baking ([Barrau 1955](../references.md#source-Barrau1955): 53). Its huge waxy leaves are used in the Solomons for sealing stone ovens and for laying out food ([Henderson & Hancock 1988](../references.md#source-HendersonandHancock1988): 29-30).
 
-The reconstruction of a term for 'swamp taro' has a chequered history. In [Ross](../references.md#source-Ross1996d) ([1996d](../references.md#source-Ross1996d)) I proposed that the POc name for swamp taro was &ast;bulaka, but indicated that there was a formal problem with this reconstruction. Its NCV reflexes lack a consonant corresponding to &ast;-!- , and [Clark](../references.md#source-Clark1996) ([1996](../references.md#source-Clark1996)) accordingly reconstructed PNCV &ast;buaga 'taro'. [Geraghty](../references.md#source-Geraghty1990) ([1990](../references.md#source-Geraghty1990): 57-58) observed that POc &ast;R, but not &ast;I, is often lost in NCV languages, and took this as evidence for PEOc &ast;buRaka, rather than &ast;bulaka, citing Nakanai bureka in support of this. This is just one of three N akanai reflexes, however, 13 and at least two out of the three must be borrowings.
+The reconstruction of a term for 'swamp taro' has a chequered history. In [Ross](../references.md#source-Ross1996d) ([1996d](../references.md#source-Ross1996d)) I proposed that the POc name for swamp taro was &ast;bulaka, but indicated that there was a formal problem with this reconstruction. Its NCV reflexes lack a consonant corresponding to &ast;-!- , and [Clark](../references.md#source-Clark1996) ([1996](../references.md#source-Clark1996)) accordingly reconstructed PNCV &ast;buaga 'taro'. [Geraghty](../references.md#source-Geraghty1990) ([1990](../references.md#source-Geraghty1990): 57-58) observed that POc &ast;R, but not &ast;I, is often lost in NCV languages, and took this as evidence for PEOc &ast;buRaka, rather than &ast;bulaka, citing Nakanai bureka in support of this. This is just one of three N akanai reflexes, however,[^13] and at least two out of the three must be borrowings.
 
 
 <a id="p-270"></a>
 
-Geraghty suggested that Polynesian reflexes were probably borrowings from Microne- sian, and [Barrau](../references.md#source-Barrau1959) ([1959](../references.md#source-Barrau1959)) and [Whistler](../references.md#source-Whistler1991a) ([1991a](../references.md#source-Whistler1991a): 47, 58-59) suggested that Cyrtosperma merkusii was indeed introduced into Polynesia from Micronesia. [Kikusawa](../references.md#source-Kikusawa2003) ([2003](../references.md#source-Kikusawa2003)) has expanded on this and argues that the Micronesian terms below, other than Marshallese, reflect Proto Chuuk- ic-Ponapeic &ast;pwulaka 'swamp taro, Cyrtosperma merkusii' (Chuukic-Ponapeic is a subgroup of Micronesian), and that all the other terms listed below were borrowed directly or indirectly from a Chuukic-Ponapeic language.
+Geraghty suggested that Polynesian reflexes were probably borrowings from Micronesian, and [Barrau](../references.md#source-Barrau1959) ([1959](../references.md#source-Barrau1959)) and [Whistler](../references.md#source-Whistler1991a) ([1991a](../references.md#source-Whistler1991a): 47, 58-59) suggested that Cyrtosperma merkusii was indeed introduced into Polynesia from Micronesia. [Kikusawa](../references.md#source-Kikusawa2003) ([2003](../references.md#source-Kikusawa2003)) has expanded on this and argues that the Micronesian terms below, other than Marshallese, reflect Proto Chuukic-Ponapeic &ast;pwulaka 'swamp taro, Cyrtosperma merkusii' (Chuukic-Ponapeic is a subgroup of Micronesian), and that all the other terms listed below were borrowed directly or indirectly from a Chuukic-Ponapeic language.
 
-Kikusawa may well be right, 14 as [Bourke](../references.md#source-Bourke1990) ([1990](../references.md#source-Bourke1990)) suggests that Cyrtosperma taro was introduced into the Bismarcks by Polynesians living on the atolls to the east. Swamp taro is the dominant root crop only in Micronesia, and the irregularities of reflexes outside Micronesia and Polynesia cause difficulties both for my &ast;bulaka and Geraghty's buRaka. 15 In order to demonstrate this, I list against each reflex below the POc form that it would reflect if it were directly inherited. The Micronesian terms, other than Marshallese, reflect PChk- Ponapeic &ast;pwulaka, which reflects a hypothetical POc &ast;bulaka. The Polynesian terms appear to reflect PPn &ast;pulaka, also reflecting a hypothetical POc &ast;bulaka. However, the claim in [Ross](../references.md#source-Ross1996d) ([1996d](../references.md#source-Ross1996d)) that they actually reflect POc &ast;bulaka collapses as we move westward, as does Geraghty's reconstruction of &ast;buRaka. NCV terms consistently reflect PNCV &ast;bu(R)aga, whilst MM and Adm reflexes are chaotic and               of sets most or all of whose members are borrowed.
+Kikusawa may well be right,[^14] as [Bourke](../references.md#source-Bourke1990) ([1990](../references.md#source-Bourke1990)) suggests that Cyrtosperma taro was introduced into the Bismarcks by Polynesians living on the atolls to the east. Swamp taro is the dominant root crop only in Micronesia, and the irregularities of reflexes outside Micronesia and Polynesia cause difficulties both for my &ast;bulaka and Geraghty's buRaka.[^15] In order to demonstrate this, I list against each reflex below the POc form that it would reflect if it were directly inherited. The Micronesian terms, other than Marshallese, reflect PChk-Ponapeic &ast;pwulaka, which reflects a hypothetical POc &ast;bulaka. The Polynesian terms appear to reflect PPn &ast;pulaka, also reflecting a hypothetical POc &ast;bulaka. However, the claim in [Ross](../references.md#source-Ross1996d) ([1996d](../references.md#source-Ross1996d)) that they actually reflect POc &ast;bulaka collapses as we move westward, as does Geraghty's reconstruction of &ast;buRaka. NCV terms consistently reflect PNCV &ast;bu(R)aga, whilst MM and Adm reflexes are chaotic and typical of sets most or all of whose members are borrowed.
 
-The items listed below denote 'swamp taro, Cyrtosperma merkusii' unless glossed other- wise.
+The items listed below denote 'swamp taro, Cyrtosperma merkusii' unless glossed otherwise.
 
 ```
-Adm: Mussau                 ulaa  &ast;pu(l,r,R)a(q,k)a
-Adm: Seimat                 hula  &ast;pula(q,k)a       'swamp taro, Alocasia sp., introduced from Aua' ([Sorensen 1950](../references.md#source-Sorensen1950))
-Adm: Aua                  fuula  &ast;pula(q,k )a      'taro'
-Adm: Lou                   pulak &ast;(p,b )ulaka
-MM: Nakanai                uta    &ast;u(l,r,R)a(q,k )a 'an inedible wild taro, Colocasia sp.'
-                           buleha &ast;bu(l,r,R)eqa     'an inedible wild taro, Colocasia sp.'
-                           bureka &ast;buseqa           'variety of elephant ear taro, Alocasia macrorrhizos'
-MM: Kara (E)               vulai  &ast;hulaqa                   'k.o. taro'
-MM: Patpatar               pulaka &ast;pulaka                   'Polynesian arrowroot, probably Tacca
-                                                            leontopetaloides' 16
-MM: Tolai                  pulaka &ast;pulaka                   'Polynesian arrowroot, probably Tacca
-                                                            leontopetaloides'
-NCV: Mota          puaka &ast;hu(R)aga                          'boggy ground, mud'
-NCV: Uripiv         suak    &ast;hu(R)aga                       '(rare) taro'
-NCV: Big Nambas boak        &ast;hu(R)aga                       'taro, Colocasia sp.'
-NCV: Port Sandwich          &ast;hu(R)aga                       'hill taro'
-NCV: Naman         huag     &ast;hu(R)aga
-NCV: Neve' ei     ni-hiaŋ &ast;hu(R)aga
-NCV: Avava          BUaŋ   &ast;hu(R)aga
-NCV: Nese          hoak     &ast;hu(R)aga
-NCV: Namakir       huag     &ast;hu(R)aga
-NCal: Xaracuu      huraa ?                                  'variety of taro'
-Mic: Marshallese   pʷaz     &ast;hulaqa                         'swamp taro patch'
-Mic: Mortlockese p wu!aʔ &ast;hula(q,k)a
-Mic: Chuukese      p wura   &ast;hula(q,k)a
-Mic: Puluwatese    p wuza   &ast;hula(q,k)a
-Mic: Satawalese    p wuza   &ast;hula(q,k)a
-Mic: Carolinian    hwuza    &ast;hula(q,k)a
-Mic: Woleaian      f"uraxe &ast;hulaka
-Mic: Pulo-Annan    vwuraxa &ast;hulaka
-Pn:   Anutan       pulaka &ast;hulaka
-Pn:   Pukapukan    pulaka &ast;hulaka
-Pn:   E Futunan    pulaka &ast;hulaka
-Pn:   E Uvean      pulaka &ast;hulaka
-Pn:   Samoan       pulaʔa &ast;hulaka
-Pn:   Tuvalu       pulaka &ast;hulaka
-Pn:   Tokelauan    pulaka &ast;hulaka
-Pn:   Raratangan   puraka &ast;hulaka                           'coarse kind of taro'
+ Adm:  Mussau         ulaa     &ast;pu(l,r,R)a(q,k)a
+ Adm:  Seimat         hula     &ast;pula(q,k)a        'swamp taro, Alocasia sp., introduced from Aua' ([Sorensen 1950](../references.md#source-Sorensen1950))
+ Adm:  Aua            fuula    &ast;pula(q,k )a       'taro'
+ Adm:  Lou            pulak    &ast;(p,b )ulaka
+ MM:   Nakanai        uta      &ast;u(l,r,R)a(q,k )a  'an inedible wild taro, Colocasia sp.'
+ MM:   Nakanai        buleha   &ast;bu(l,r,R)eqa      'an inedible wild taro, Colocasia sp.'
+ MM:   Nakanai        bureka   &ast;buseqa            'variety of elephant ear taro, Alocasia macrorrhizos'
+ MM:   Kara (E)       vulai    &ast;hulaqa            'k.o. taro'
+ MM:   Patpatar       pulaka   &ast;pulaka            'Polynesian arrowroot, probably Tacca leontopetaloides'[^16]
+ MM:   Tolai          pulaka   &ast;pulaka            'Polynesian arrowroot, probably Tacca leontopetaloides'
+ NCV:  Mota           puaka    &ast;hu(R)aga          'boggy ground, mud'
+ NCV:  Uripiv         suak     &ast;hu(R)aga          '(rare) taro'
+ NCV:  Big Nambas     boak     &ast;hu(R)aga          'taro, Colocasia sp.'
+ NCV:  Port Sandwich  mbuang   &ast;hu(R)aga          'hill taro'
+ NCV:  Naman          huag     &ast;hu(R)aga
+ NCV:  Neve'ei        ni-hiaŋ  &ast;hu(R)aga
+ NCV:  Avava          BUaŋ     &ast;hu(R)aga
+ NCV:  Nese           hoak     &ast;hu(R)aga
+ NCV:  Namakir        huag     &ast;hu(R)aga
+ NCal: Xaracuu        huraa    ?                  'variety of taro'
+ Mic:  Marshallese    pʷaz     &ast;hulaqa            'swamp taro patch'
+ Mic:  Mortlockese    p wu!aʔ  &ast;hula(q,k)a
+ Mic:  Chuukese       p wura   &ast;hula(q,k)a
+ Mic:  Puluwatese     p wuza   &ast;hula(q,k)a
+ Mic:  Satawalese     p wuza   &ast;hula(q,k)a
+ Mic:  Carolinian     hwuza    &ast;hula(q,k)a
+ Mic:  Woleaian       f"uraxe  &ast;hulaka
+ Mic:  Pulo-Annan     vwuraxa  &ast;hulaka
+ Pn:   Anutan         pulaka   &ast;hulaka
+ Pn:   Pukapukan      pulaka   &ast;hulaka
+ Pn:   E Futunan      pulaka   &ast;hulaka
+ Pn:   E Uvean        pulaka   &ast;hulaka
+ Pn:   Samoan         pulaʔa   &ast;hulaka
+ Pn:   Tuvalu         pulaka   &ast;hulaka
+ Pn:   Tokelauan      pulaka   &ast;hulaka
+ Pn:   Raratangan     puraka   &ast;hulaka            'coarse kind of taro'
 ```
 
 
@@ -1513,7 +1517,7 @@ The POc name for giant taro was &ast;piRaq, continuing a PMP etymon. The final &
 '<span>Alocasia macrorrhizos</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mwotlap</td><td><i>VI</i></td>
+<td>NCV</td><td>Mwotlap</td><td><i>vı</i></td>
 <td>
 '<span>Alocasia macrorrhizos</span>'</td>
 </tr>
@@ -1656,7 +1660,7 @@ The POc name for giant taro was &ast;piRaq, continuing a PMP etymon. The final &
 
 9.2.2.4 Another term for taro?
 
-The glosses suggest that the denotatum of POc &ast;(p,b )oso below belonged to the Araceae family, but it is impossible to infer its identity from the available data.
+The glosses suggest that the denotatum of POc &ast;(p,b)oso below belonged to the Araceae family, but it is impossible to infer its identity from the available data.
 
 <table>
 <tr>
@@ -1715,18 +1719,18 @@ Amorphophallus paeoniifolius is a wild plant. In the Austronesian speaking areas
 
 9.2.3.2 Tacca leontopetaloides, Polynesian arrowroot (Taccaceae)
 
-The tuber of Tacca leontopetaloides is bitter and requires considerable processing to produce a starch pudding somewhat like sago pudding. It was used in this way on the small islands of theSE Solomons and the Temotu Province, and in much of Polynesia ([Henderson & Hancock 1988](../references.md#source-HendersonandHancock1988): 34) but apparently had only limited us,e in the Bismarcks.
+The tuber of Tacca leontopetaloides is bitter and requires considerable processing to produce a starch pudding somewhat like sago pudding. It was used in this way on the small islands of the SE Solomons and the Temotu Province, and in much of Polynesia ([Henderson & Hancock 1988](../references.md#source-HendersonandHancock1988): 34) but apparently had only limited use in the Bismarcks.
 
 Interestingly, almost all the names I have collected for it reflect a reassignment of the name of some other starchy food:
 
-```
-    MM:      Patpatar          pulaka         < &ast;bulaka 'Cyrtosperma merkusii' (§2.2.2)
-    MM:      Tolai             pulaka         < &ast;bulaka 'Cyrtosperma merkusii' (§2.2.2)
-    TM:      Aiwoo             (to)piya       < POc &ast;piRaq 'Alocasia macrorrhizos' (§2.2.3)
-    Fij:     Bauan             yabia          < POc &ast;Rabia 'Metroxylon sagu' (§5.1)
-    Pn:      Pileni            pia            < POc &ast;Rabia 'Metroxylon sagu' (§5.1)
-    Pn:      Rarotongan        pia            < POc &ast;Rabia 'Metroxylon sagu' (§5.1)
-```
+|      |            |          |                                               |
+|:-----|:-----------|:---------|:----------------------------------------------|
+| MM:  | Patpatar   | pulaka   | < &ast;bulaka 'Cyrtosperma merkusii' (§2.2.2)     |
+| MM:  | Tolai      | pulaka   | < &ast;bulaka 'Cyrtosperma merkusii' (§2.2.2)     |
+| TM:  | Aiwoo      | (to)piya | < POc &ast;piRaq 'Alocasia macrorrhizos' (§2.2.3) |
+| Fij: | Bauan      | yabia    | < POc &ast;Rabia 'Metroxylon sagu' (§5.1)         |
+| Pn:  | Pileni     | pia      | < POc &ast;Rabia 'Metroxylon sagu' (§5.1)         |
+| Pn:  | Rarotongan | pia      | < POc &ast;Rabia 'Metroxylon sagu' (§5.1)         |
 
 
 <a id="p-274"></a>
@@ -1776,15 +1780,15 @@ The elements in the PPn binomial below are PPn &ast;ma 'fermented breadfruit' (P
 
 
 
-For the Micronesian names ofT. leontopetaloides, however, no origin has been found: Nauru (da)mag-mag, Proto Western Micronesian &ast;mʷaku-mʷaku 'arrowroot, T. leontopeta- loides ([Bender et al. 2003](../references.md#source-Benderetal2003)).
+For the Micronesian names ofT. leontopetaloides, however, no origin has been found: Nauru (da)mag-mag, Proto Western Micronesian &ast;mʷaku-mʷaku 'arrowroot, T. leontopetaloides ([Bender et al. 2003](../references.md#source-Benderetal2003)).
 
-9.2.3.3 Pueraria lobata (syn. P. novo-guineensis, P. thunbergiana, P. triloba, P. hirsuta, P. neo-caledonica, Pachyrrhizus trilobus, P. montanus, P.             Dolichos hirsutus, D. tuberosus, D. lobatus) (Fabaceae)
+9.2.3.3 Pueraria lobata (syn. P. novo-guineensis, P. thunbergiana, P. triloba, P. hirsuta, P. neo-caledonica, Pachyrrhizus trilobus, P. montanus, P. Dolichos hirsutus, D. tuberosus, D. lobatus) (Fabaceae)
 
 Figure 9.4 Tuber and plant parts of Pueraria lobata
 
 Pueraria species are half-woody lianas, 3-5m high, with stems covered in hairs, brown on older parts, rust-yellow to white on younger. The bast is used to make yam for rope, fishing lines and fish nets. One species, P.lobata (with an enormous number of synonyms), is found as far east as Samoa.
 
-P. lobata has a fleshy, tapioca-like tuber that is widely eaten in times of famine (Barrau 1965; [Peekel 1984](../references.md#source-Peekel1984): 253-255). Barrau (1965) supports Guppy' s (1906: 412) suggestion that P. lobata may also have been more widely cul- tivated by Oceanic speakers before the arrival of the sweet potato. It is still cultivated in the Kangean Islands (120 km east of Madura, In- donesia) and in New Caledonia, where Haudri- court (1964: 97), cited by Barrau, labels it 'a food for chiefs' rather than a famine food. One of Guppy' s mid-nineteenth-century sources noted that it also had ceremonial significance in Fiji.
+P. lobata has a fleshy, tapioca-like tuber that is widely eaten in times of famine (Barrau 1965; [Peekel 1984](../references.md#source-Peekel1984): 253-255). Barrau (1965) supports [Guppy's](../references.md#source-Guppy1906) ([1906](../references.md#source-Guppy1906): 412) suggestion that P. lobata may also have been more widely cultivated by Oceanic speakers before the arrival of the sweet potato. It is still cultivated in the Kangean Islands (120 km east of Madura, Indonesia) and in New Caledonia, where [Haudricourt](../references.md#source-Haudricourt1964) ([1964](../references.md#source-Haudricourt1964): 97), cited by Barrau, labels it 'a food for chiefs' rather than a famine food. One of Guppy's mid-nineteenth-century sources noted that it also had ceremonial significance in Fiji.
 
 No POc term for P. lobata is reconstructable, and the cognate set below is restricted to North-Central Vanuatu and Central Pacific, and thus allow only a Proto Remote Oceanic reconstruction. None of Barrau's sources make specific mention of the Bismarcks or the Solomons, and it may be that its significance has faded more definitely from folk memory there than on smaller islands where it still serves as a famine food.
 
@@ -1895,14 +1899,14 @@ In Papua New Guinea today bananas ane the second most widely consumed food crop 
 
 Banana leaves have a variety of uses. The most common are wrapping food for baking in a stone oven (vol.1, ch.6, §3.1) and laying out food on them at feasts.
 
-Edible bananas are all sterile hybrids with complex genetic histories, cultivars of the genus M usa. 17 In my 1996 attempt to gloss the various reconstructed terms for bananas, I employed the old division, based on morphological characteristics, of the genus M usa into five sections, varieties of which found in NW Melanesia belong to the sections Eumusa and Australimusa. In the past fifty years a new understanding of Musa sections has emerged, resulting in a reduction in their number from five to three, but two are still relevant to NW Melanesia, namely Musa [^18] (including the former Eumusa) and Callimusa (including the for- mer Australimusa) (Simmonds & Shepherd 195:5, [Wong et al. 2002](../references.md#source-Wongetal2002)). In Simmonds and Shep- herd' s cultivated banana nomenclature, each section contains species (plus subspecies) and hybrids, the latter labelled with letters denoting the subspecies from which they are derived:
+Edible bananas are all sterile hybrids with complex genetic histories, cultivars of the genus M usa. 17 In my 1996 attempt to gloss the various reconstructed terms for bananas, I employed the old division, based on morphological characteristics, of the genus M usa into five sections, varieties of which found in NW Melanesia belong to the sections Eumusa and Australimusa. In the past fifty years a new understanding of Musa sections has emerged, resulting in a reduction in their number from five to three, but two are still relevant to NW Melanesia, namely Musa [^18] (including the former Eumusa) and Callimusa (including the former Australimusa) (Simmonds & Shepherd 195:5, [Wong et al. 2002](../references.md#source-Wongetal2002)). In Simmonds and Shepherd's cultivated banana nomenclature, each section contains species (plus subspecies) and hybrids, the latter labelled with letters denoting the subspecies from which they are derived:
 
 
 <a id="p-276"></a>
 
-A for the various subspecies of Musa acuminata, B for those of M. balbisiana, S for the minor New Guinea species M. schizocarpa (all three in the section Musa) and T for Cal- limusa-derived genomes. Thus 'M. sapientum' and 'M. paradisiaca', the two alleged species recognised by Linnaeus, are both AAB triploid hybrids. [Arnaud and Horry's](../references.md#source-ArnaudandJPHorry1997) ([1997](../references.md#source-ArnaudandJPHorry1997)) survey of 108 banana varieties in Papua New Guinea includes AA and AB diploid and AAA, AAB and ABB triploid hybrids, as well as hybrids of Musa and Callimusa species. [^19]
+A for the various subspecies of Musa acuminata, B for those of M. balbisiana, S for the minor New Guinea species M. schizocarpa (all three in the section Musa) and T for Callimusa-derived genomes. Thus 'M. sapientum' and 'M. paradisiaca', the two alleged species recognised by Linnaeus, are both AAB triploid hybrids. [Arnaud and Horry's](../references.md#source-ArnaudandJPHorry1997) ([1997](../references.md#source-ArnaudandJPHorry1997)) survey of 108 banana varieties in Papua New Guinea includes AA and AB diploid and AAA, AAB and ABB triploid hybrids, as well as hybrids of Musa and Callimusa species.[^19]
 
-Biomolecular study confirms these sections and is currently bringing about a revision of ideas about the archaeobotany of bananas, which is considerably more complicated than previously thought (J. [Kennedy forthcoming](../references.md#source-Kennedyforthcoming)). The transfor- mation from wild to cultivated edible bananas occurred independently in the two sections. The wild species of the section M usa that have con- tributed to edible bananas are found over a re- gion stretching from eastern India and Sri Lanka through island SE Asia into the NW Melanesia as far as the Solomons, but the fact that New Guinea is home to many highly diverse diploid AA cultivars makes it the probable area of their domestication. Wild Callimusa species are con- fined to a region stretching from Halmahera to the Solomons, indicating that NW Melanesia was the region where Callimusa bananas were also first domesticated.
+Biomolecular study confirms these sections and is currently bringing about a revision of ideas about the archaeobotany of bananas, which is considerably more complicated than previously thought (J. [Kennedy forthcoming](../references.md#source-Kennedyforthcoming)). The transformation from wild to cultivated edible bananas occurred independently in the two sections. The wild species of the section M usa that have contributed to edible bananas are found over a region stretching from eastern India and Sri Lanka through island SE Asia into the NW Melanesia as far as the Solomons, but the fact that New Guinea is home to many highly diverse diploid AA cultivars makes it the probable area of their domestication. Wild Callimusa species are confined to a region stretching from Halmahera to the Solomons, indicating that NW Melanesia was the region where Callimusa bananas were also first domesticated.
 
 Figure 9.5 Traditional (diploid) banana plant
 
@@ -2131,7 +2135,7 @@ The likelihood that banana domestication first occurred in New Guinea, and that 
 
 <a id="p-278"></a>
 
-The term Musa troglodytarum is used (inaccurately) both of wild varieties of M. bal- bisiana and of Fe'i bananas. In the Uripiv and Samoan glosses below it is likely that it de- notes the latter, in agreement with the Bauan gloss. POc &ast;joRaga is glossed accordingly, but with a question mark, because this was the meaning of the Proto Remote Oceanic reflex but not necessarily of the POc term. Fe'i bananas are uncommon in New Guinea today, and it is not clear whether they were present in the Bismarcks in Proto Oceanic times.
+The term Musa troglodytarum is used (inaccurately) both of wild varieties of M. balbisiana and of Fe'i bananas. In the Uripiv and Samoan glosses below it is likely that it denotes the latter, in agreement with the Bauan gloss. POc &ast;joRaga is glossed accordingly, but with a question mark, because this was the meaning of the Proto Remote Oceanic reflex but not necessarily of the POc term. Fe'i bananas are uncommon in New Guinea today, and it is not clear whether they were present in the Bismarcks in Proto Oceanic times.
 
 <table>
 <tr>
@@ -2197,7 +2201,7 @@ The term Musa troglodytarum is used (inaccurately) both of wild varieties of M. 
 
 
 
-The glosses of the four terms below are vague, both because the glosses of present-day forms are often vague and for the reasons given above, but they appear to have denoted ba- nana cultivars. POc &ast;sakup perhaps denoted a cultivar with long fruit, as the glosses of its Gumawana, Motu and Kwara'ae reflexes suggest. In view of its upright bunches Kwara' ae sa-sao appears to denote a Fe'i cultivar (J. Kennedy, pers. comm.), but this is neither con- firmed nor disconfirmed by the glosses of its cognates. It is probable that POc &ast;bʷera was a descriptive term meaning 'white', since Puluwat p wer retains this meaning. The POc form is probably a reflex of PMP &ast;burak 'white'. If so, one may infer that it referred to bananas of the Musa group, since Fe'i bananas are typically copper-coloured.
+The glosses of the four terms below are vague, both because the glosses of present-day forms are often vague and for the reasons given above, but they appear to have denoted banana cultivars. POc &ast;sakup perhaps denoted a cultivar with long fruit, as the glosses of its Gumawana, Motu and Kwara'ae reflexes suggest. In view of its upright bunches Kwara'ae sa-sao appears to denote a Fe'i cultivar (J. Kennedy, pers. comm.), but this is neither confirmed nor disconfirmed by the glosses of its cognates. It is probable that POc &ast;bʷera was a descriptive term meaning 'white', since Puluwat p wer retains this meaning. The POc form is probably a reflex of PMP &ast;burak 'white'. If so, one may infer that it referred to bananas of the Musa group, since Fe'i bananas are typically copper-coloured.
 
 <table>
 <tr>
@@ -2339,7 +2343,7 @@ The glosses of the four terms below are vague, both because the glosses of prese
 <tr>
 <td>SES</td><td>To'aba'ita</td><td><i>baʔu</i></td>
 <td>
-'<span>banana plant and fruit</span>' (<span>syn.fudi, now archaic</span>)</td>
+'<span>banana plant and fruit</span>' (<span>syn. <em>fudi</em>, now archaic</span>)</td>
 </tr>
 <tr>
 <td>SES</td><td>Dori'o</td><td><i>baʔu</i></td>
@@ -2422,13 +2426,13 @@ cf. also:
 There is evidence for PWOc &ast;pudi-pudi "wild banana', a transparent reduplication of the generic POc term for banana (see ch. 2, §7.2).
 
 ```
-      NNG: Mangap              pin-pin         'wild banana'
-      PT:  Sudest              ɣudu-ɣudu       'wild banana seeds'
-      MM: Ramoaaina            udu-udu         'wild banana'
-      MM: Tolai                vudu-vudu       'wild banana, Ensete glaucum' 20 ([Arnaud & Horry 1997](../references.md#source-ArnaudandJPHorry1997): 19)
+      NNG: Mangap        pin-pin         'wild banana'
+      PT:  Sudest        ɣudu-ɣudu       'wild banana seeds'
+      MM:  Ramoaaina     udu-udu         'wild banana'
+      MM:  Tolai         vudu-vudu       'wild banana, Ensete glaucum'[^20] ([Arnaud & Horry 1997](../references.md#source-ArnaudandJPHorry1997): 19)
 ```
 
-Names for the various parts of the banana plant are discussed in chapter 4. Some are also mentioned in §2.2.1, as they are also used for the taro (and probably for other plants, too). Sorting out glosses is sometimes difficult, but the following inferences appear to be well founded (section numbers refer to ch. 4): the banana plant has a main stem, &ast;baRa-baRa (§2.2) of its own, from which protrudes a stem holding a bunch, &ast;puŋU (§2.8) of bananas, from which in turn grow small stems, &ast;kul'o (§2.8) each holding a hand, &ast;qitiŋ (§2.8) of bananas. [^21] A new banana plant is planted with a slip or cutting, &ast;[s,j]uli(q) (§2.6), and the new growth first appears as a shoot, &ast;qili (§2.6).
+Names for the various parts of the banana plant are discussed in chapter 4. Some are also mentioned in §2.2.1, as they are also used for the taro (and probably for other plants, too). Sorting out glosses is sometimes difficult, but the following inferences appear to be well founded (section numbers refer to ch. 4): the banana plant has a main stem, &ast;baRa-baRa (§2.2) of its own, from which protrudes a stem holding a bunch, &ast;puŋU (§2.8) of bananas, from which in turn grow small stems, &ast;kul'o (§2.8) each holding a hand, &ast;qitiŋ (§2.8) of bananas.[^21] A new banana plant is planted with a slip or cutting, &ast;[s,j]uli(q) (§2.6), and the new growth first appears as a shoot, &ast;qili (§2.6).
 
 
 <a id="p-280"></a>
@@ -2441,22 +2445,22 @@ Names for the various parts of the banana plant are discussed in chapter 4. Some
 
 Figure 9.6      Fruit, leaves and sections of breadfruit, Artocarpus altilis
 
-Breadfruit trees grow throughout the Oceanic-speaking region, except for New Zealand and the Chatham Islands. Breadfruit tend to be co·-staples with other starchy foods, providing starch when the other staples are out of season and vice versa. In Melanesia it is most signifi- cant as a staple in the Temotu Province of the Solomons, but is also important in SE Papua, the Bismarcks and Bougainville, 22 on the coasts of the islands of Vanuatu, in Micronesia, in Fiji and in parts of Polynesia ([Henderson & Hancock 1988](../references.md#source-HendersonandHancock1988):36, [Walter & Sam 2002](../references.md#source-WalterandSam2002): 107-108).
+Breadfruit trees grow throughout the Oceanic-speaking region, except for New Zealand and the Chatham Islands. Breadfruit tend to be co·-staples with other starchy foods, providing starch when the other staples are out of season and vice versa. In Melanesia it is most significant as a staple in the Temotu Province of the Solomons, but is also important in SE Papua, the Bismarcks and Bougainville, 22 on the coasts of the islands of Vanuatu, in Micronesia, in Fiji and in parts of Polynesia ([Henderson & Hancock 1988](../references.md#source-HendersonandHancock1988):36, [Walter & Sam 2002](../references.md#source-WalterandSam2002): 107-108).
 
-Breadfruit trees grow to a height of20 m and usually at altitudes below 1200 m. They are fairly tolerant with regard to soil, and grow in the coral soils of atolls. In the South Pacific, a tree yields 50 to 150 ovoid grapefruit-sized pale yellow to yellow-orange fruit per (annual) season. In some areas there is a second smaller fruiting halfway between main annual fruit- ings. The breadfruit is a syncarp, a compound fruit with many segments arranged around the core, which itself is the spike of the original flower. Each segment contains a seed surrounded by flesh and growing from the core on a fleshy receptacle. The segments are visible on the skin of the fruit as hexagon-like shapes, as shown in Figure 9.6. A breadfruit may weigh as much as 5 kg.
+Breadfruit trees grow to a height of20 m and usually at altitudes below 1200 m. They are fairly tolerant with regard to soil, and grow in the coral soils of atolls. In the South Pacific, a tree yields 50 to 150 ovoid grapefruit-sized pale yellow to yellow-orange fruit per (annual) season. In some areas there is a second smaller fruiting halfway between main annual fruitings. The breadfruit is a syncarp, a compound fruit with many segments arranged around the core, which itself is the spike of the original flower. Each segment contains a seed surrounded by flesh and growing from the core on a fleshy receptacle. The segments are visible on the skin of the fruit as hexagon-like shapes, as shown in Figure 9.6. A breadfruit may weigh as much as 5 kg.
 
 
 <a id="p-281"></a>
 
-Breadfruit seeds have a high protein conltent and are nutritionally the most valuable part of the fruit (Paijmans 1976: 123). Breadfruit are very rich in starch and contain about 25 % carbohydrates. They are usually roasted, baked, fried, or boiled before being eaten. The cook- ing method depends on the cultivar. They can be eaten raw, but in Papua New Guinea and the Solomons they are commonly baked whole in a fire or an oven, and then the skin and seeds are removed. Some fruit have seeds about the size and texture of chestnuts and taste rather like very dense young potatoes. They are removed from the baked fruit and sometimes roasted over the fire before eating. In New Guinea this is usually the only part that is eaten ([Walter & Sam 2002](../references.md#source-WalterandSam2002): 107-110, [Bourke & Allen forthcoming](../references.md#source-BourkeandAllenforthcoming)).
+Breadfruit seeds have a high protein conltent and are nutritionally the most valuable part of the fruit (Paijmans 1976: 123). Breadfruit are very rich in starch and contain about 25 % carbohydrates. They are usually roasted, baked, fried, or boiled before being eaten. The cooking method depends on the cultivar. They can be eaten raw, but in Papua New Guinea and the Solomons they are commonly baked whole in a fire or an oven, and then the skin and seeds are removed. Some fruit have seeds about the size and texture of chestnuts and taste rather like very dense young potatoes. They are removed from the baked fruit and sometimes roasted over the fire before eating. In New Guinea this is usually the only part that is eaten ([Walter & Sam 2002](../references.md#source-WalterandSam2002): 107-110, [Bourke & Allen forthcoming](../references.md#source-BourkeandAllenforthcoming)).
 
-The description above applies to breadfruit varieties in New Guinea and the Bismarck Archipelago. As one moves eastward across the Pacific, one finds breadfruit varieties that have been increasingly selected for flesh rather than seeds, so that most cultivars in Polynesia are seedless and are propagated by root cuttings. The genetic history is more complex than this implies, however, as two other species have contributed to the varieties subsumed under A. altilis. One is A. camansi, sometimes called 'breadnut', which occurred both wild and cultivated in New Guinea, the other A. mariannensis, endemic to the high islands of western Micronesia ([Yen 1991](../references.md#source-Yen1991), [Zerega 2003](../references.md#source-Zerega2003), cited by [Kennedy & Clarke 2004](../references.md#source-KennedyandClarke2004) ).
+The description above applies to breadfruit varieties in New Guinea and the Bismarck Archipelago. As one moves eastward across the Pacific, one finds breadfruit varieties that have been increasingly selected for flesh rather than seeds, so that most cultivars in Polynesia are seedless and are propagated by root cuttings. The genetic history is more complex than this implies, however, as two other species have contributed to the varieties subsumed under A. altilis. One is A. camansi, sometimes called 'breadnut', which occurred both wild and cultivated in New Guinea, the other A. mariannensis, endemic to the high islands of western Micronesia ([Yen 1991](../references.md#source-Yen1991), [Zerega 2003](../references.md#source-Zerega2003), cited by [Kennedy & Clarke 2004](../references.md#source-KennedyandClarke2004)).
 
-Because breadfruit trees usually produce large crops at certain times of the year, preser- vation is an issue. In parts of Papua New Guinea and in the Temotu archipelago, breadfruit are dried into a sort of biscuit ([French & Bridle 1978](../references.md#source-FrenchandBridle1978):40, [Henderson & Hancock 1988](../references.md#source-HendersonandHancock1988): 37). A traditional preservation technique in Vanuatu, Micronesia and Polynesia is to bury peeled and washed fruits in a leaf-lined pit where they ferment over several weeks and produce a sour, sticky paste. So stored, the product may last a year or more, and some pits are re- ported to have produced edible contents more than 30 years later (for terms associated with fermentation, see vol.1, ch.6, §4.2).
+Because breadfruit trees usually produce large crops at certain times of the year, preservation is an issue. In parts of Papua New Guinea and in the Temotu archipelago, breadfruit are dried into a sort of biscuit ([French & Bridle 1978](../references.md#source-FrenchandBridle1978):40, [Henderson & Hancock 1988](../references.md#source-HendersonandHancock1988): 37). A traditional preservation technique in Vanuatu, Micronesia and Polynesia is to bury peeled and washed fruits in a leaf-lined pit where they ferment over several weeks and produce a sour, sticky paste. So stored, the product may last a year or more, and some pits are reported to have produced edible contents more than 30 years later (for terms associated with fermentation, see vol.1, ch.6, §4.2).
 
 A common breadfruit product is a mix tune of cooked or fermented breadfruit mash mixed with coconut milk and baked in banana leaves. In Vanuatu breadfruit are sometimes grated before cooking, or made into small balls and cooked in coconut milk.
 
-All parts of the tree yield latex, a milky juice, which is used in some locations for boat caulking. At least in parts of New Britain and Vanuatu it is used to catch birds (Powell1976, [Walter & Sam 2002](../references.md#source-WalterandSam2002): 109). It also has medicinal uses. On Manus (Admiralties) the latex is di- luted and drunk as treatment for dysentry, diarrhoea and stomach ache ([O'Collins & Lamothe 1989](../references.md#source-OCollinsandLamothe1989)). On Vanua Lava (Banks Islands, Vanuatu) latex from the breadfruit is mixed with la- tex from Ficus adenosperma as a potion against excessive menstrual discharge ([Bourdy & Walter 1994](../references.md#source-BourdyandWalter1994)). It is also used in Vanuatu to 'patch' damaged yams for storage ([Walter & Sam 2002](../references.md#source-WalterandSam2002): 109).
+All parts of the tree yield latex, a milky juice, which is used in some locations for boat caulking. At least in parts of New Britain and Vanuatu it is used to catch birds (Powell1976, [Walter & Sam 2002](../references.md#source-WalterandSam2002): 109). It also has medicinal uses. On Manus (Admiralties) the latex is diluted and drunk as treatment for dysentry, diarrhoea and stomach ache ([O'Collins & Lamothe 1989](../references.md#source-OCollinsandLamothe1989)). On Vanua Lava (Banks Islands, Vanuatu) latex from the breadfruit is mixed with latex from Ficus adenosperma as a potion against excessive menstrual discharge ([Bourdy & Walter 1994](../references.md#source-BourdyandWalter1994)). It is also used in Vanuatu to 'patch' damaged yams for storage ([Walter & Sam 2002](../references.md#source-WalterandSam2002): 109).
 
 The Bola and the Nakanai of New Britain beat the inner bark into cloth and use it for articles of clothing, including rain capes and it was formerly also used in this way in Tonga ([Floyd 1954](../references.md#source-Floyd1954), [Powell 1976](../references.md#source-Powell1976), [Walter & Sam 2002](../references.md#source-WalterandSam2002): 109). Infusions of the bark and leaves are used to treat disorders of the digestive tract in parts of Vanuatu. The wood sometimes serves for making outriggers and paddles and for firewood.
 
@@ -2465,20 +2469,20 @@ Two POc terms for 'breadfruit' are reconstructed with reasonable certainty, &ast
 
 <a id="p-282"></a>
 
-By far the most widespread and frequently reflected of the three is POc &ast;kuluR, inherited from PMP, with reflexes in the Admiralties and Mussau, North New Guinea, Papuan Tip, Bali-Vitu (MM), the Willaumez group (MM), New Caledonia and Central Pacific. It is ap- parently also reflected in the Chuukic subgroup of Micronesian with a change in denotation to Barringtonia asiatica. A variant form &ast;kunuR is reflected in North New Guinea, languages of the Ngero-Vitiaz and Markham groups and in the Willaumez (MM) language Meramera (which has probably borrowed it from a Ngero-Vitiaz language). 23 There are also possible reflexes of &ast;kunuR in Papuan Tip languages, but these are open to two interpretations. One is that they indeed reflect &ast;kunuR. The other is that the Dobu, Kalokalo and Wedau forms below reflect &ast;kuluR, as POc &ast;I is regularly refllected as n in these languages, and that Suau and the Central Papuan languages (Balawaia, Motu, Roro and Mekeo) have borrowed from a language with a n. This second hypothesis encounters a problem. Although the Central Papuan languages have a number of loans from the Are-Taupota group to which W edau be- longs ([Ross 1994](../references.md#source-Ross1994a)a), Suau shows no sign of such loans. What is more, Suau (Daui) unuli and Suau (Kwato) ʔunuli are the expected reflexes of &ast;kunuR, displaying a uniquely Suauic par- agogic -i after the earlier final consonant, and Wedau kunori is clearly a loan from Suauic. Thus the first hypothesis is apparently correct: Papuan Tip languages also reflect &ast;kunuR. In consequence, &ast;kunuR can be reconstructed to PNGOc, and it is tentatively marked thus below-'tentatively', because we would expect all North New Guinea terms to reflect the PNGOc etymon, but some of the Bel languages (Bilibil, Gedaged and Takia) and all the Schouten languages (Wogeo, Manam, Ali and Sissano are cited below) instead reflect POc &ast;kuluR, and I have no explanation for this.
+By far the most widespread and frequently reflected of the three is POc &ast;kuluR, inherited from PMP, with reflexes in the Admiralties and Mussau, North New Guinea, Papuan Tip, Bali-Vitu (MM), the Willaumez group (MM), New Caledonia and Central Pacific. It is apparently also reflected in the Chuukic subgroup of Micronesian with a change in denotation to Barringtonia asiatica. A variant form &ast;kunuR is reflected in North New Guinea, languages of the Ngero-Vitiaz and Markham groups and in the Willaumez (MM) language Meramera (which has probably borrowed it from a Ngero-Vitiaz language).[^23] There are also possible reflexes of &ast;kunuR in Papuan Tip languages, but these are open to two interpretations. One is that they indeed reflect &ast;kunuR. The other is that the Dobu, Kalokalo and Wedau forms below reflect &ast;kuluR, as POc &ast;I is regularly refllected as n in these languages, and that Suau and the Central Papuan languages (Balawaia, Motu, Roro and Mekeo) have borrowed from a language with a n. This second hypothesis encounters a problem. Although the Central Papuan languages have a number of loans from the Are-Taupota group to which W edau belongs ([Ross 1994](../references.md#source-Ross1994a)a), Suau shows no sign of such loans. What is more, Suau (Daui) unuli and Suau (Kwato) ʔunuli are the expected reflexes of &ast;kunuR, displaying a uniquely Suauic paragogic -i after the earlier final consonant, and Wedau kunori is clearly a loan from Suauic. Thus the first hypothesis is apparently correct: Papuan Tip languages also reflect &ast;kunuR. In consequence, &ast;kunuR can be reconstructed to PNGOc, and it is tentatively marked thus below-'tentatively', because we would expect all North New Guinea terms to reflect the PNGOc etymon, but some of the Bel languages (Bilibil, Gedaged and Takia) and all the Schouten languages (Wogeo, Manam, Ali and Sissano are cited below) instead reflect POc &ast;kuluR, and I have no explanation for this.
 
-Reflexes of POc &ast;baReko are found in New Ireland (MM), NW Solomonic (MM), SE Solomonic, Temotu, North-Central and Southem Vanuatu. In three Central Papuan languages, Lala, Roro and Kuni, the reflex of &ast;baReko denotes 'sago palm', a shift from one starch source to another. In the sense 'breadfruit', reflexes of &ast;kuluRrv&ast;kunuR and &ast;baReko are geographically in complementary distribution. The distribution of &ast;baReko forms an unin- terrupted block across much oflsland Melanesia excluding New Caledonia, with reflexes of &ast;kuluRrv&ast;kunuR across most of the remaining Oceanic-speaking region. Just two reflexes of &ast;baReko in the sense 'breadfruit' occur outside the block. One is Tawala beleha, which dis- plays the wrong vowels and may be a chance resemblance. The other is Tomoip buŋ-biria. 24 Tomoip is situated near the languages of the Mengen family (NNG), but it is a New Ireland outlier ([Ross 1988](../references.md#source-Ross1988): 292-293) and as such is an extension from the block.
+Reflexes of POc &ast;baReko are found in New Ireland (MM), NW Solomonic (MM), SE Solomonic, Temotu, North-Central and Southem Vanuatu. In three Central Papuan languages, Lala, Roro and Kuni, the reflex of &ast;baReko denotes 'sago palm', a shift from one starch source to another. In the sense 'breadfruit', reflexes of &ast;kuluRrv&ast;kunuR and &ast;baReko are geographically in complementary distribution. The distribution of &ast;baReko forms an uninterrupted block across much oflsland Melanesia excluding New Caledonia, with reflexes of &ast;kuluRrv&ast;kunuR across most of the remaining Oceanic-speaking region. Just two reflexes of &ast;baReko in the sense 'breadfruit' occur outside the block. One is Tawala beleha, which displays the wrong vowels and may be a chance resemblance. The other is Tomoip buŋ-biria.[^24] Tomoip is situated near the languages of the Mengen family (NNG), but it is a New Ireland outlier ([Ross 1988](../references.md#source-Ross1988): 292-293) and as such is an extension from the block.
 
 How are we to explain the complementary distribution? It is clear from non-Oceanic cognates and from its Oceanic distribution that the usual POc term for breadfruit was &ast;kuluR. But on our criteria for POc reconstruction (ch. 1, §3.2.3) &ast;baReko must also be reconstructed to POc, as it is reflected in Westem Oceanic (MM), SE Solomonic, Temotu, and North and South Vanuatu. The distributions suggest that POc &ast;kuluR was the default term for A. altilis and that it was then replaced by &ast;baReko in a block from New Ireland to South Vanuatu. However, the reflexes of &ast;baReko are generally regular, suggesting that replacement took place very early in the history of Oceanic.[^25]
 
 
 <a id="p-283"></a>
 
-POc &ast;baReko or perhaps &ast;beta may have denoted A. calamansi or a particular breadfruit cultivar or, for example, the cooked breadfruit, but these possibilities remain speculations. Scattered areas-many North New Guinea languages on New Britain, scattered languages in the islands of the Papuan Tip area, much of Central and South Vanuatu, and Microne- sia-have a breadfruit term other than &ast;kuluRrv &ast;kunuR and &ast;baReko. Two of these, POc(?) &ast;beta and Proto Remote Oceanic &ast;maRi, are sufficiently widespread to warrant mention
+POc &ast;baReko or perhaps &ast;beta may have denoted A. calamansi or a particular breadfruit cultivar or, for example, the cooked breadfruit, but these possibilities remain speculations. Scattered areas - many North New Guinea languages on New Britain, scattered languages in the islands of the Papuan Tip area, much of Central and South Vanuatu, and Micronesia - have a breadfruit term other than &ast;kuluRrv &ast;kunuR and &ast;baReko. Two of these, POc(?) &ast;beta and Proto Remote Oceanic &ast;maRi, are sufficiently widespread to warrant mention.
 
 POc (?) &ast;beta has a more restricted distribution: its reflexes occur in the New Georgia group, within SE Solomonic only in Gela, and in North-Central Vanuatu. This distribution requires that it be reconstructed for POc. The fact that its only non-Eastern Oceanic reflexes are in Nduke and Roviana in New Georgia in the northwest Solomons raises the possibility that &ast;beta is a PEOc term that has been borrowed westward, but there is no other evidence I know of for Eastern Oceanic loans in New Georgia.
 
-A fourth term, Proto Remote Oceanic &ast;maRi 'breadfruit', is limited to South Vanuatu, Micronesian and Polynesian, but [Geraghty](../references.md#source-Geraghty2004) ([2004](../references.md#source-Geraghty2004): 88) attributes Polynesian reflexes of the form mei (presum- ably for tmai or tmal) to borrowing, presumably from a Micronesian source. Again the distribution requires an explanation, this time because it is bipartite, but I can provide none.
+A fourth term, Proto Remote Oceanic &ast;maRi 'breadfruit', is limited to South Vanuatu, Micronesian and Polynesian, but [Geraghty](../references.md#source-Geraghty2004) ([2004](../references.md#source-Geraghty2004): 88) attributes Polynesian reflexes of the form mei (presumably for tmai or tmal) to borrowing, presumably from a Micronesian source. Again the distribution requires an explanation, this time because it is bipartite, but I can provide none.
 
 <table>
 <tr>
@@ -2558,7 +2562,7 @@ A fourth term, Proto Remote Oceanic &ast;maRi 'breadfruit', is limited to South 
 '<span>breadfruit</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Sissano</td><td><i>utC</i></td>
+<td>NNG</td><td>Sissano</td><td><i>uʎ</i></td>
 <td>
 '<span>breadfruit</span>'</td>
 </tr>
@@ -2760,7 +2764,7 @@ A fourth term, Proto Remote Oceanic &ast;maRi 'breadfruit', is limited to South 
 <tr>
 <td>PT</td><td>Tawala</td><td><i>beleha</i></td>
 <td>
-'<span>breadfruilt</span>' (<span>for tbale[h]o</span>)</td>
+'<span>breadfruit</span>' (<span>for tbale[h]o</span>)</td>
 </tr>
 <tr>
 <td>PT</td><td>Lala</td><td><i>baleʔo</i></td>
@@ -2775,23 +2779,23 @@ A fourth term, Proto Remote Oceanic &ast;maRi 'breadfruit', is limited to South 
 <tr>
 <td>MM</td><td>Lavongai</td><td><i>beiŋo</i></td>
 <td>
-'<span>breadfruilt</span>'</td>
+'<span>breadfruit</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Tigak</td><td><i>bego</i></td>
 <td>
-'<span>breadfruilt</span>' (<a href="../references.md#source-Beney1980">Beney1980</a>)
+'<span>breadfruit</span>' (<a href="../references.md#source-Beney1980">Beney1980</a>)
 </td>
 </tr>
 <tr>
 <td>MM</td><td>Nalik</td><td><i>bərəuə</i></td>
 <td>
-'<span>breadfruilt</span>'</td>
+'<span>breadfruit</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Tabar</td><td><i>bareu</i></td>
 <td>
-'<span>breadfruilt</span>'</td>
+'<span>breadfruit</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Lihir</td><td><i>bale</i></td>
@@ -2802,27 +2806,27 @@ A fourth term, Proto Remote Oceanic &ast;maRi 'breadfruit', is limited to South 
 <tr>
 <td>MM</td><td>Tangga</td><td><i>bīe</i></td>
 <td>
-'<span>breadfruilt</span>'</td>
+'<span>breadfruit</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Tomoip</td><td><i>(buŋ)biria</i></td>
 <td>
-'<span>breadfruilt</span>'</td>
+'<span>breadfruit</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Nehan</td><td><i>bario</i></td>
 <td>
-'<span>breadfruilt</span>'</td>
+'<span>breadfruit</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Halia</td><td><i>baleo</i></td>
 <td>
-'<span>breadfruilt</span>'</td>
+'<span>breadfruit</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Tinputz</td><td><i>baniu</i></td>
 <td>
-'<span>breadfruilt</span>'</td>
+'<span>breadfruit</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Teop</td><td><i>banio</i></td>
@@ -2833,7 +2837,7 @@ A fourth term, Proto Remote Oceanic &ast;maRi 'breadfruit', is limited to South 
 <tr>
 <td>MM</td><td>Uruava</td><td><i>bareo</i></td>
 <td>
-'<span>breadfruilt</span>'</td>
+'<span>breadfruit</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Babatana</td><td><i>bario</i></td>
@@ -2844,22 +2848,22 @@ A fourth term, Proto Remote Oceanic &ast;maRi 'breadfruit', is limited to South 
 <tr>
 <td>TM</td><td>Aiwoo</td><td><i>ñi-bälo</i></td>
 <td>
-'<span>breadfruilt</span>'</td>
+'<span>breadfruit</span>'</td>
 </tr>
 <tr>
 <td>TM</td><td>Natügu</td><td><i>bia</i></td>
 <td>
-'<span>breadfruilt</span>'</td>
+'<span>breadfruit</span>'</td>
 </tr>
 <tr>
 <td>TM</td><td>Tanema</td><td><i>baloe</i></td>
 <td>
-'<span>breadfruilt</span>'</td>
+'<span>breadfruit</span>'</td>
 </tr>
 <tr>
 <td>TM</td><td>Buma</td><td><i>bale</i></td>
 <td>
-'<span>breadfruilt</span>'</td>
+'<span>breadfruit</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Gela</td><td><i>baleɣo</i></td>
@@ -3117,9 +3121,7 @@ A fourth term, Proto Remote Oceanic &ast;maRi 'breadfruit', is limited to South 
 
 Names of some breadfruit parts are reconstructed in chapter 4. They are:
 
-- • PWOc &ast;kalijo 'edible kernel of breadfruit segments' (ch.4, §2.9)
-- • POc &ast;malo- 'breadfruit flower, breadfruit core' (ch.4, §2.9)
-- • POc &ast;bul[i,u]t 'sap (of plant) or other sticky substance; be sticky' (Micronesian and Polynesian reflexes denote the latex of the breadfruit tree; ch.4, §2.11)
+- PWOc &ast;kalijo 'edible kernel of breadfruit segments' (ch.4, §2.9) - POc &ast;malo- 'breadfruit flower, breadfruit core' (ch.4, §2.9) - POc &ast;bul[i,u]t 'sap (of plant) or other sticky substance; be sticky' (Micronesian and Polynesian reflexes denote the latex of the breadfruit tree; ch.4, §2.11)
 
 
 <a id="s-5"></a>
@@ -3135,7 +3137,7 @@ Names of some breadfruit parts are reconstructed in chapter 4. They are:
 
 The starch source in aM etroxylon sagu palm is the pith within its trunk. The palm only flowers and fruits once, and large stocks of carbohydrate are accumulated in the trunk in preparation for this event, after which the palm dies. This reserve of starch reaches its maximum just before flowering, when sago-eaters fell the palm and harvest its starch.
 
-Sago palms are species of the genus M etroxylon. They grow in fresh-water swamps and wetlands, but not on permanently flooded sites. The species which produces most food starch, M. sagu, reaches 15 min height and has a bole diameter without leaf sheaths of 35-60 em. Each palm is produced from a root stock which gives out several shoots, with the result that sago stands are naturally very dense. Other species vary in height, some smaller, some larger, the very largest, M. amicarum, growing to 33m.
+Sago palms are species of the genus Metroxylon. They grow in fresh-water swamps and wetlands, but not on permanently flooded sites. The species which produces most food starch, M. sagu, reaches 15 min height and has a bole diameter without leaf sheaths of 35-60 em. Each palm is produced from a root stock which gives out several shoots, with the result that sago stands are naturally very dense. Other species vary in height, some smaller, some larger, the very largest, M. amicarum, growing to 33m.
 
 There are a number of different species of M etroxylon found in the Oceanic-speaking region. Those upon which the literature ([Barrau 1955](../references.md#source-Barrau1955):45--46, 1962: 140--143, [Henderson & Hancock 1988](../references.md#source-HendersonandHancock1988): 34--35, [McClatchey et al. 2006b](../references.md#source-McClatcheyetal2006b)) appears to agree are: [^26]
 
@@ -3155,16 +3157,16 @@ It seems probable that sago starch was consumed by POc speakers. The POc homelan
 
 Figure 9.7   Extracting the starch from a sago trunk
 
-It is probably true to say that in Oceanic-speaking communities sago is only a staple where a marshy environment causes other staples to be in short supply. Except at locations in the Ad- miralties, it is always a supplement to garden staples, not a replacement. Although there are communities in New Guinea which get their sago entirely from natural palm stands, Oceanic- speaking communities probably also plant palms from suckers (transplanting seedlings is rare; [Rhoads 1986](../references.md#source-Rhoads1986)).
+It is probably true to say that in Oceanic-speaking communities sago is only a staple where a marshy environment causes other staples to be in short supply. Except at locations in the Ad- miralties, it is always a supplement to garden staples, not a replacement. Although there are communities in New Guinea which get their sago entirely from natural palm stands, Oceanic-speaking communities probably also plant palms from suckers (transplanting seedlings is rare; [Rhoads 1986](../references.md#source-Rhoads1986)).
 
-Sago palms grow very quickly, up to 1.5 m of vertical stem growth per year. They are harvested at the age of 7 to 15 years just before they flower. The palm is felled, the trunk is cut into sections. These are either split lengthways or the bark is half peeled off, and in pre-contact times the pith was extracted with tools made from hard wood, rough stone or sharpened bamboo. Commonly the crushed pith is washed and pounded, crushed or wrung (POc &ast;poRos, vol.1 ,ch.9, §7) in an inclined trough made from a sago leaf petiole (see Figure 9.7). The starchy liquid thus extracted from the fibrous residue runs through a coconut frond- netting strainer (POc &ast;Runut, vol.1, ch.6, §5.6; this volume, ch.12, §5.2) and is collected in leaf pans to settle. The water is decanted so that the starch can dry. The dried starch is sago flour, which is almost pure carbohydrate, for which reason it is rarely eaten alone. To preserve it, sago flour is wrapped in sago leaves or placed in clay pots and simply dampened with water from time to time. It is sometimes eaten as a porridge with additional ingredients, sometimes made into a paste which is baked into a pancake or biscuit with other ingredients, and sometimes baked in a hollow bamboo over a fire ([May 1984](../references.md#source-May1984): 54).
+Sago palms grow very quickly, up to 1.5 m of vertical stem growth per year. They are harvested at the age of 7 to 15 years just before they flower. The palm is felled, the trunk is cut into sections. These are either split lengthways or the bark is half peeled off, and in pre-contact times the pith was extracted with tools made from hard wood, rough stone or sharpened bamboo. Commonly the crushed pith is washed and pounded, crushed or wrung (POc &ast;poRos, vol.1 ,ch.9, §7) in an inclined trough made from a sago leaf petiole (see Figure 9.7). The starchy liquid thus extracted from the fibrous residue runs through a coconut frondnetting strainer (POc &ast;Runut, vol.1, ch.6, §5.6; this volume, ch.12, §5.2) and is collected in leaf pans to settle. The water is decanted so that the starch can dry. The dried starch is sago flour, which is almost pure carbohydrate, for which reason it is rarely eaten alone. To preserve it, sago flour is wrapped in sago leaves or placed in clay pots and simply dampened with water from time to time. It is sometimes eaten as a porridge with additional ingredients, sometimes made into a paste which is baked into a pancake or biscuit with other ingredients, and sometimes baked in a hollow bamboo over a fire ([May 1984](../references.md#source-May1984): 54).
 
 
 <a id="p-288"></a>
 
-At least on Malaita and in the Temotu archipelago chunks of unprocessed pith are some- times baked as an emergency food ([Kwa'ioloa & Burt 2001](../references.md#source-KwaioloaandBurt2001): 191, [Henderson & Hancock 1988](../references.md#source-HendersonandHancock1988): 34). Throughout Oceania, sago leaves, which are pinnate, not palmate, provide excel- lent roofing thatch. They were evidently used for this purpose by POc speakers, who called the leaves and thatch &ast;qatop (vol.1, ch.3, §3.4). Parts of the sago palm have a variety of uses, and not just in the sago-making process itself. As well as thatching, among the Bola of New Britain the leaves are used for making screens, pillows, and canoe sails, laths of skin from the leaf midrib are made into matting which serves as a fish trap, and midribs are used to make internal partitions and heavy stiff rope ([Powell 1976](../references.md#source-Powell1976)). The Kwara'ae feed the pith to pigs. They use the leaf spines to make needles for stitching sago thatch and darts for shooting birds, as well as for making brooms. The leaf shoot is stained and used to make decorative armbands. The frond bases used to be used as stools, and a fallen palm becomes a source of sago grubs and sago fungus, both of which are 1eaten ([Kwa'ioloa & Burt 2001](../references.md#source-KwaioloaandBurt2001): 191).
+At least on Malaita and in the Temotu archipelago chunks of unprocessed pith are sometimes baked as an emergency food ([Kwa'ioloa & Burt 2001](../references.md#source-KwaioloaandBurt2001): 191, [Henderson & Hancock 1988](../references.md#source-HendersonandHancock1988): 34). Throughout Oceania, sago leaves, which are pinnate, not palmate, provide excellent roofing thatch. They were evidently used for this purpose by POc speakers, who called the leaves and thatch &ast;qatop (vol.1, ch.3, §3.4). Parts of the sago palm have a variety of uses, and not just in the sago-making process itself. As well as thatching, among the Bola of New Britain the leaves are used for making screens, pillows, and canoe sails, laths of skin from the leaf midrib are made into matting which serves as a fish trap, and midribs are used to make internal partitions and heavy stiff rope ([Powell 1976](../references.md#source-Powell1976)). The Kwara'ae feed the pith to pigs. They use the leaf spines to make needles for stitching sago thatch and darts for shooting birds, as well as for making brooms. The leaf shoot is stained and used to make decorative armbands. The frond bases used to be used as stools, and a fallen palm becomes a source of sago grubs and sago fungus, both of which are 1eaten ([Kwa'ioloa & Burt 2001](../references.md#source-KwaioloaandBurt2001): 191).
 
-There was apparently just one POc term for the sago palm, namely POc &ast;Rabia. As the Fijian and Polynesian reflexes below show, early Central Pacific speakers reassigned PCP &ast;abia, reflecting POc &ast;Rabia, to another starch source, Tacca leontopetaloides, Polynesian arrowroot (§2.3.2). [Kikusawa](../references.md#source-Kikusawa2003) ([2003](../references.md#source-Kikusawa2003): 49) argues-correctly, I think-that PPn &ast;pia 'Polynes- ian arrowroot' is cognate with Bauan yabia 'arrowroot', and reflects loss of initial &ast;a- from PCP &ast;abia.[^30]
+There was apparently just one POc term for the sago palm, namely POc &ast;Rabia. As the Fijian and Polynesian reflexes below show, early Central Pacific speakers reassigned PCP &ast;abia, reflecting POc &ast;Rabia, to another starch source, Tacca leontopetaloides, Polynesian arrowroot (§2.3.2). [Kikusawa](../references.md#source-Kikusawa2003) ([2003](../references.md#source-Kikusawa2003): 49) argues-correctly, I think-that PPn &ast;pia 'Polynesian arrowroot' is cognate with Bauan yabia 'arrowroot', and reflects loss of initial &ast;a- from PCP &ast;abia.[^30]
 
 <table>
 <tr>
@@ -3324,7 +3326,7 @@ There was apparently just one POc term for the sago palm, namely POc &ast;Rabia.
 
 <a id="p-289"></a>
 
-In [Ross](../references.md#source-Ross1993) ([1993](../references.md#source-Ross1993)) I followed [Dutton](../references.md#source-Dutton1994) ([1994](../references.md#source-Dutton1994))1 in reconstructing POc &ast;sag(u) 'sago starch' as a continuation ofDempwolff' s (1938) PMP &ast;sa[ŋ]gu 'sago starch'. I now think this recon- struction is too insecure to stand. As [Chowning](../references.md#source-Chowning2001) ([2001](../references.md#source-Chowning2001): 79) points out, some of the supporting data are semantically doubtful reflexes, and others may represent borrowings from Tok Pisin saksak 'sago'. I still think that Kara (E) sa-sak 'sago', Solos sa-sak and Haku saka-saka, both 'sago pancake', may represent a continuation ofDempwolff' s etymon, but I cannot be sure.
+In [Ross](../references.md#source-Ross1993) ([1993](../references.md#source-Ross1993)) I followed [Dutton](../references.md#source-Dutton1994) ([1994](../references.md#source-Dutton1994))1 in reconstructing POc &ast;sag(u) 'sago starch' as a continuation ofDempwolff' s (1938) PMP &ast;sa[ŋ]gu 'sago starch'. I now think this reconstruction is too insecure to stand. As [Chowning](../references.md#source-Chowning2001) ([2001](../references.md#source-Chowning2001): 79) points out, some of the supporting data are semantically doubtful reflexes, and others may represent borrowings from Tok Pisin saksak 'sago'. I still think that Kara (E) sa-sak 'sago', Solos sa-sak and Haku saka-saka, both 'sago pancake', may represent a continuation ofDempwolff' s etymon, but I cannot be sure.
 
 A glance through chapter 4 shows that where the parts of a sago palm resemble those of the coconut palm, the same terms are used for both. Thus most of the terms in §5.1 of ch.12 probably also applied to the fronds of the sago palm. The petioles of some sago species are covered in thorns, for which the POc term was &ast;ruRi or &ast;druRi (ch.4, 2.12).
 
@@ -3334,9 +3336,9 @@ A glance through chapter 4 shows that where the parts of a sago palm resemble th
 ### 5.2. Cycas spp., cycad, Malayan palm fern, TP baibai, Bnamele (Cycadaceae)
 
 
-Cycads are palm-like plants of the family Cycadaceae (unlike sago, coconut, betelnut and the black, fan and nipa palms, all members of the family Arecaceae). Until a decade ago Cycas rumphii (syn. Cycas circinalis) was believed to be the only cycad species in Oceanic-speaking territory. However, recent work on the genus reported by [Laubenfels & Adema](../references.md#source-LaubenfelsandAdema1998) ([1998](../references.md#source-LaubenfelsandAdema1998)) has established that two species, C. rumphii and c, have almost identical distributions extending from the north coast of New Guinea eastward through the Bismarcks and into the Solomons with outliers in Micronesia. At least one of these is evidently also present in Vanuatu and New Caledonia, to judge from the data listed below.31
+Cycads are palm-like plants of the family Cycadaceae (unlike sago, coconut, betelnut and the black, fan and nipa palms, all members of the family Arecaceae). Until a decade ago Cycas rumphii (syn. Cycas circinalis) was believed to be the only cycad species in Oceanic-speaking territory. However, recent work on the genus reported by [Laubenfels & Adema](../references.md#source-LaubenfelsandAdema1998) ([1998](../references.md#source-LaubenfelsandAdema1998)) has established that two species, C. rumphii and c, have almost identical distributions extending from the north coast of New Guinea eastward through the Bismarcks and into the Solomons with outliers in Micronesia. At least one of these is evidently also present in Vanuatu and New Caledonia, to judge from the data listed below.[^31]
 
-The description here is limited to C. rumphii, but, as some sources treat C. scratchleyana as a synonym of C. rumphii, I assume that the two species have almost identical features. C. rumphii grows 3-10m tall. [Guppy](../references.md#source-Guppy1906) ([1906](../references.md#source-Guppy1906): 413), cited by Barrau (1965), considered C. rumphii to have been one of the early food sources of the Pacific Islands. Barrau mentions oral traditions about its use in New Guinea, Vanuatu, New Caledonia and Fiji. The seeds were and sometimes still are used at least as famine foods on islands throughout its Pacific distribution. Such is the strength of these oral traditions that Barrau concurs with Guppy' s view that it was at one time more than a famine food, pointing to the popularity of food made from the seeds, for example, on Guam. Other sources mention the seed pudding as something prized in places as far apart as the Ninigo Islands ([Sorensen 1950](../references.md#source-Sorensen1950)) and Bellona ([Christiansen 1975](../references.md#source-Christiansen1975)). Exploitation of the stem starch seems to have been much rarer in the Pacific (it is more common in parts of Asia; [Thieret 1958](../references.md#source-Thieret1958), [Whiting 1953](../references.md#source-Whiting1953)), but it occurred at Wedau (north coast of SE Papua, [Kahn 1986](../references.md#source-Kahn1986)), in the Solomons and in New Caledonia. In the Solomons the starch was processed in much the same way as sago starch (and as with sago, the starch was harvested before fruiting; ch.9, §5.1 [Parkinson 1907](../references.md#source-Parkinson1907)). In New Caledonia the stem starch was cut up and cooked (Jumelle 1907, cited by [Thieret 1958](../references.md#source-Thieret1958)). In Tonga the grated stem starch was rinsed and the starch that settled out was collected as a famine food ([Whistler 1991b](../references.md#source-Whistler1991b)).
+The description here is limited to C. rumphii, but, as some sources treat C. scratchleyana as a synonym of C. rumphii, I assume that the two species have almost identical features. C. rumphii grows 3-10m tall. [Guppy](../references.md#source-Guppy1906) ([1906](../references.md#source-Guppy1906): 413), cited by Barrau (1965), considered C. rumphii to have been one of the early food sources of the Pacific Islands. Barrau mentions oral traditions about its use in New Guinea, Vanuatu, New Caledonia and Fiji. The seeds were and sometimes still are used at least as famine foods on islands throughout its Pacific distribution. Such is the strength of these oral traditions that Barrau concurs with Guppy's view that it was at one time more than a famine food, pointing to the popularity of food made from the seeds, for example, on Guam. Other sources mention the seed pudding as something prized in places as far apart as the Ninigo Islands ([Sorensen 1950](../references.md#source-Sorensen1950)) and Bellona ([Christiansen 1975](../references.md#source-Christiansen1975)). Exploitation of the stem starch seems to have been much rarer in the Pacific (it is more common in parts of Asia; [Thieret 1958](../references.md#source-Thieret1958), [Whiting 1953](../references.md#source-Whiting1953)), but it occurred at Wedau (north coast of SE Papua, [Kahn 1986](../references.md#source-Kahn1986)), in the Solomons and in New Caledonia. In the Solomons the starch was processed in much the same way as sago starch (and as with sago, the starch was harvested before fruiting; ch.9, §5.1 [Parkinson 1907](../references.md#source-Parkinson1907)). In New Caledonia the stem starch was cut up and cooked (Jumelle 1907, cited by [Thieret 1958](../references.md#source-Thieret1958)). In Tonga the grated stem starch was rinsed and the starch that settled out was collected as a famine food ([Whistler 1991b](../references.md#source-Whistler1991b)).
 
 
 <a id="p-290"></a>
@@ -3345,13 +3347,13 @@ The seeds need considerable processing before they can be eaten, as they contain
 
 C. rumphii also has a variety of other uses. Its bark sap is reported as a wood glue in Marovo and northern Malaita. In a number of places in the Bismarcks and the Solomons seeds are threaded on a string and used as a bull-roarer toy ([Peekel 1984](../references.md#source-Peekel1984): 35, [Henderson & Hancock 1988](../references.md#source-HendersonandHancock1988): 140, [Hviding 2005](../references.md#source-Hviding2005): 143).
 
-Various parts of the plant are used to cover small wounds and tropical ulcers. In the Bismar- cks it is the resin of the fruit ([Peekel 1984](../references.md#source-Peekel1984): 35, [Holdsworth et al. 1982](../references.md#source-Holdsworthetal1982)); in the Morobe Province of Papua New Guinea, the raw seeds (Barrau 1965); among Drehet speakers in Manus, it is sap obtained by cutting a notch in the bark ([Beard n.d.](../references.md#source-Beardnd)); on Santa Ana (Solomons), the pulp of a scraped fruit. In the Reefs a bark preparation is used to treat a stomach ailment ([Henderson & Hancock 1988](../references.md#source-HendersonandHancock1988): 140).
+Various parts of the plant are used to cover small wounds and tropical ulcers. In the Bismarcks it is the resin of the fruit ([Peekel 1984](../references.md#source-Peekel1984): 35, [Holdsworth et al. 1982](../references.md#source-Holdsworthetal1982)); in the Morobe Province of Papua New Guinea, the raw seeds (Barrau 1965); among Drehet speakers in Manus, it is sap obtained by cutting a notch in the bark ([Beard n.d.](../references.md#source-Beardnd)); on Santa Ana (Solomons), the pulp of a scraped fruit. In the Reefs a bark preparation is used to treat a stomach ailment ([Henderson & Hancock 1988](../references.md#source-HendersonandHancock1988): 140).
 
-Figure 9.8 Cycas rumphii: A, plant with fronds removed to show fruit; B, apex of leaf wiili leaflets; C, fruit; D, single fruit, longitu- dinal section.
+Figure 9.8 Cycas rumphii: A, plant with fronds removed to show fruit; B, apex of leaf wiili leaflets; C, fruit; D, single fruit, longitudinal section.
 
-Barrau's assertion that C. rumphii played an important role in earlier Oceanic cultures rec1eives some support from the fact that sev- eral terms for it are reconstructable: POc &ast;p(w)atoRu and &ast;bai-bai(t), PEOc &ast;mʷa(q)ele and PCP   &ast;loŋo-loŋo. The geographic distributions of these terms scarcely overlap.
+Barrau's assertion that C. rumphii played an important role in earlier Oceanic cultures receives some support from the fact that several terms for it are reconstructable: POc &ast;p(w)atoRu and &ast;bai-bai(t), PEOc &ast;mʷa(q)ele and PCP   &ast;loŋo-loŋo. The geographic distributions of these terms scarcely overlap.
 
-The glosses of many of the terms listed below  refer simply to 'cycad' or 'Cycas'. None is identified as 'C. scratchleyana', and there is rea- sonable support for glossing all of them 'Cycas rumphii, but this is likely to be due to the fact that the two species were not distinguished until recently.
+The glosses of many of the terms listed below  refer simply to 'cycad' or 'Cycas'. None is identified as 'C. scratchleyana', and there is reasonable support for glossing all of them 'Cycas rumphii', but this is likely to be due to the fact that the two species were not distinguished until recently.
 
 <table>
 <tr>
@@ -3692,11 +3694,11 @@ Most of the forms below point to PEOc &ast;mʷele. However, Namakir and Wayan po
 
 This chapter has treated POc terms for staple foods, i.e. sources of starch. 'Starchy food' was evidently a POc category of meal ingredient and was the hyponymous sense of POc &ast;kanaŋ 'food'. Additional ingredients to accompany starch were probably POc &ast;tamaji.
 
-The main root crops grown by POc speakers were evidently &ast;qupi, the greater yam (Dioscorea alata), &ast;pʷatika, the potato yam (D. bulbifera), and &ast;talo(s) or &ast;mʷapo(q), taro (Colocasia esculenta) (&ast;talo(s) was the inherited term, &ast;mʷapo(q) a borrowing from a New Guinea mainland Papuan language). They also grew &ast;piRaq, giant taro (Alocasia macror- rhizos). The importance of the greater yam and Colocasia taro is attested by the fact that several terms can be reconstructed for (cultivars of?) each. The lesser yam, PWOc &ast;kamisa or &ast;mamisa (Dioscorea esculenta), seems to have been domesticated by early Oceanic speak- ers shortly after the break-up of POc.
+The main root crops grown by POc speakers were evidently &ast;qupi, the greater yam (Dioscorea alata), &ast;pʷatika, the potato yam (D. bulbifera), and &ast;talo(s) or &ast;mʷapo(q), taro (Colocasia esculenta) (&ast;talo(s) was the inherited term, &ast;mʷapo(q) a borrowing from a New Guinea mainland Papuan language). They also grew &ast;piRaq, giant taro (Alocasia macrorrhizos). The importance of the greater yam and Colocasia taro is attested by the fact that several terms can be reconstructed for (cultivars of?) each. The lesser yam, PWOc &ast;kamisa or &ast;mamisa (Dioscorea esculenta), seems to have been domesticated by early Oceanic speakers shortly after the break-up of POc.
 
 The swamp taro, Cyrtosperma merkusii, was a later introduction, reaching Melanesia probably from Micronesia. The arrival of other modern root crops postdates the European presence in Central and South America: they are the sweet potato (Ipomoea batatas), cassava (Manihot esculenta) and Xanthosoma taro.
 
-The banana, &ast;pudi (Musa cultivars), and the breadfruit, &ast;kuluR and &ast;baReko (Artocarpus altilis) were also important sources of starch for POc speakers, but the sago palm, &ast;Ra- bia (Metroxylon species), was probably no more than a supplementary or emergency starch source.
+The banana, &ast;pudi (Musa cultivars), and the breadfruit, &ast;kuluR and &ast;baReko (Artocarpus altilis) were also important sources of starch for POc speakers, but the sago palm, &ast;Rabia (Metroxylon species), was probably no more than a supplementary or emergency starch source.
 
 
 ## Notes
@@ -3731,7 +3733,7 @@ The banana, &ast;pudi (Musa cultivars), and the breadfruit, &ast;kuluR and &ast;
 
 [^15]: Cyrtosperma is reported to have been present in New Ireland 16,500 years ago ([Barton & White 1993](../references.md#source-BartonandWhite1993), cited by [Swadling & Hide 2005](../references.md#source-SwadlingandHide2005): 307). I do not know how this meshes with the much later history that concerns us here.
 
-[^16]: The dictionary source defines this term as 'wild arrowroot, Amorphophallus campanulatus' (= A. paeoni- ifolius). [Peekel](../references.md#source-Peekel1984) ([1984](../references.md#source-Peekel1984): 91) gives bulaka as 'Polynesian arrowroot, probably Tacca leontopetaloides' in both Patpatar and Tolai, and I take him to be the more reliable source with regard to botanical identifications. [Hay](../references.md#source-Hay1990) ([1990](../references.md#source-Hay1990): 42) notes that the leaves of the two plants are easily confused.
+[^16]: The dictionary source defines this term as 'wild arrowroot, Amorphophallus campanulatus' (= A. paeoniifolius). [Peekel](../references.md#source-Peekel1984) ([1984](../references.md#source-Peekel1984): 91) gives bulaka as 'Polynesian arrowroot, probably Tacca leontopetaloides' in both Patpatar and Tolai, and I take him to be the more reliable source with regard to botanical identifications. [Hay](../references.md#source-Hay1990) ([1990](../references.md#source-Hay1990): 42) notes that the leaves of the two plants are easily confused.
 
 [^17]: The taxonomic and archaeobotanical informatiom in this section is drawn from two papers which Jean Kennedy kindly made available to me: J. [Kennedy 2008](../references.md#source-Kennedy2008) and forthcoming.
 
@@ -3759,8 +3761,8 @@ The banana, &ast;pudi (Musa cultivars), and the breadfruit, &ast;kuluR and &ast;
 
 [^29]: [McClatchey et al.](../references.md#source-McClatcheyetal2006b) ([2006b](../references.md#source-McClatcheyetal2006b)) also list M. paulcoxii (Samoa) but say it is possibly a cultivar of M. warburgii.
 
-[^30]: Samoan pia (and its cognates) thus do not reflect POc &ast;piRaq 'giant taro,Alocasia macrorrhizos', as I assumed in [Ross](../references.md#source-Ross1996d) ([1996d](../references.md#source-Ross1996d)). The regular PPn reflex of POc &ast;piRaq would be t&ast;fia.
+[^30]: Samoan pia (and its cognates) thus do not reflect POc &ast;piRaq 'giant taro, Alocasia macrorrhizos', as I assumed in [Ross](../references.md#source-Ross1996d) ([1996d](../references.md#source-Ross1996d)). The regular PPn reflex of POc &ast;piRaq would be t&ast;fia.
 
-[^31]: A third species, C. celebica, has a discontinuous distribution- from Borneo to the Moluccas, and from Bou- gainville to Tonga, with an outliers in the Marianas.
+[^31]: A third species, C. celebica, has a discontinuous distribution- from Borneo to the Moluccas, and from Bougainville to Tonga, with an outliers in the Marianas.
 
 [^32]: PMP &ast;patuRu is supported by the Oceanic data here and by the following non-Oceanic cognates: Pinatubo Samba! patogo, Tagalog patugo, Hanunuo pitugu, Panay Bisayan pitogo ([Madulid 2001b](../references.md#source-Madulid2001b): 87), Kangean Madurese p<Jtoko, Gorontalo patuhu, Buolpotugu, Buginese patuku ([Heyne 1950](../references.md#source-Heyne1950): 107).

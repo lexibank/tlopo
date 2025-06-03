@@ -293,11 +293,13 @@ cf. also:
 ### 2.3. Commersonia bartramia (Sterculiaceae)
 
 
-Commersonia bartramia is a common small bushy tree which grows up to 15m in height, and is particularly common in secondary for- est. It has a thin trunk, often crooked or leaning when it is competing with other trees for light ([Wheatley 1992](../references.md#source-Wheatley1992): 221).
+Commersonia bartramia is a common small bushy tree which grows up to 15m in height, and is particularly common in secondary forest. It has a thin trunk, often crooked or leaning when it is competing with other trees for light ([Wheatley 1992](../references.md#source-Wheatley1992): 221).
 
-C. bartramia grows fast and, if the light al- lows it, straight, and is thus a valued timber in the Bismarcks and the Solomons, as it provides numerous rafters. The wood is lightweight, tough, cardboard-like and termite-proof. How- ever, the Kwara'ae regard it as good only for building cookhouses. On New Britain and in the Solomons it is regarded as good fire- wood. In both the Bismarcks and the Solomons the bast (inner bark fibre) is an important source of cordage, used to make fishing lines, nets and baskets, and among the N akanai the bast is beaten into masks ([Floyd 1954](../references.md#source-Floyd1954), Pow- el11976, Peekel1984: 371, Henderson & Han- cock 1988: 194, [Kwa'ioloa & Burt 2001](../references.md#source-KwaioloaandBurt2001): 160).
+C. bartramia grows fast and, if the light allows it, straight, and is thus a valued timber in the Bismarcks and the Solomons, as it provides numerous rafters. The wood is lightweight, tough, cardboard-like and termite-proof. However, the Kwara'ae regard it as good only for building cookhouses. On New Britain and in the Solomons it is regarded as good firewood. In both the Bismarcks and the Solomons the bast (inner bark fibre) is an important source of cordage, used to make fishing lines, nets and baskets, and among the N akanai the bast is beaten into masks ([Floyd 1954](../references.md#source-Floyd1954), Powel11976, Peekel1984: 371, [Henderson & Hancock 1988](../references.md#source-HendersonandHancock1988): 194, [Kwa'ioloa & Burt 2001](../references.md#source-KwaioloaandBurt2001): 160).
 
-The POc term for C. bartramia was &ast;Ja- maR. The Mwotlap, Mota and Vera'a reflexes include a reflex of the prefix &ast;mala- 'like'. One   Figure 8.1 Commersonia bartramia: A, tree; would thus expect them to denote a plant that         B, leaf: C, stem bearing leaves and flowering resembled C. bertramia, but they apparently                    shoot; D, ageing mature fruit. denote C. bertramia itself (ch.2, §7.1.4).
+The POc term for C. bartramia was &ast;JamaR. The Mwotlap, Mota and Vera'a reflexes include a reflex of the prefix &ast;mala- 'like'. One would thus expect them to denote a plant that resembled C. bertramia, but they apparently denote C. bertramia itself (ch.2, §7.1.4).
+
+Figure 8.1 Commersonia bartramia: A, tree; B, leaf: C, stem bearing leaves and flowering shoot; D, ageing mature fruit.
 
 <table>
 <tr>
@@ -584,7 +586,7 @@ PWOc &ast;jimʷaR or &ast;jimiR in all probability denoted the caulking substanc
 ### 2.5. Macaranga spp., P sa 'osa 'o, Bnavenue (Euphorbiaceae)
 
 
-There are a number of species of M acaranga growing in the Bismarcks and the Solomons and appearing as the glosses of items in the cognate sets below, but they are all rather similar. All are shrubs or small tre1es, usually 5-10 m and occasionally 15 m tall. Their saplings need light and do not flourish in primary forest, so they are found where the habitat is more open and oflten in gar- den regrowth or secondary forest ([Powell 1976](../references.md#source-Powell1976), [Peekel 1984](../references.md#source-Peekel1984):305-207, [Henderson & Hancock 1988](../references.md#source-HendersonandHancock1988): 196-197, [Wheatley 1992](../references.md#source-Wheatley1992):99-101, [Kwa'ioloa & Burt 2001](../references.md#source-KwaioloaandBurt2001): 147, [Hviding 2005](../references.md#source-Hviding2005): 109, 148).
+There are a number of species of M acaranga growing in the Bismarcks and the Solomons and appearing as the glosses of items in the cognate sets below, but they are all rather similar. All are shrubs or small tre1es, usually 5-10 m and occasionally 15 m tall. Their saplings need light and do not flourish in primary forest, so they are found where the habitat is more open and oflten in garden regrowth or secondary forest ([Powell 1976](../references.md#source-Powell1976), [Peekel 1984](../references.md#source-Peekel1984):305-207, [Henderson & Hancock 1988](../references.md#source-HendersonandHancock1988): 196-197, [Wheatley 1992](../references.md#source-Wheatley1992):99-101, [Kwa'ioloa & Burt 2001](../references.md#source-KwaioloaandBurt2001): 147, [Hviding 2005](../references.md#source-Hviding2005): 109, 148).
 
 From the Bismarcks to Vanuatu much the same uses are Figure 8.2 M acaranga tanarius. reported for M acaranga species. The lightweight wood is used for rafters, wall frames and roof battens where better timber is not available, and for cages for pet birds. The wood is fast-burning and good for roasting food. The leaves are used to clean children's noses and for personal hygiene. Additionally the Bola of New Britain use the wood for outrigger booms, the leaves for wrapping, and the fruit for medicinal purposes ([Lentfer 2003](../references.md#source-Lentfer2003), Powell1976).
 
@@ -612,7 +614,7 @@ POc &ast;koka probably denoted several Macaranga species. Known reflexes with th
 <i>&ast;koka</i>
 </td>
 <td>
-'<span>tree sp., Bischofiajavanica</span>' (<span>POLLEX</span>)</td>
+'<span>tree sp., Bischofia javanica</span>' (<span>POLLEX</span>)</td>
 </tr>
 <tr>
 <td><strong>PCP</strong></td><td> </td>
@@ -620,7 +622,7 @@ POc &ast;koka probably denoted several Macaranga species. Known reflexes with th
 <i>&ast;koka</i>
 </td>
 <td>
-'<span>tree sp., Bischofiajavanica</span>'</td>
+'<span>tree sp., Bischofia javanica</span>' (<span>see ch.7, §5.1</span>)</td>
 </tr>
 <tr>
 <td>MM</td><td>Patpatar</td><td><i>koka</i></td>
@@ -794,13 +796,13 @@ PMP &ast;binu(q)an below is reconstructed on the basis of the Oceanic data and o
 <tr>
 <td>MM</td><td>Tolai</td><td><i>bara-bara</i></td>
 <td>
-'<span>M acaranga sp.</span>' (<a href="../references.md#source-Record1945">Record1945</a>)
+'<span>Macaranga sp.</span>' (<a href="../references.md#source-Record1945">Record1945</a>)
 </td>
 </tr>
 <tr>
 <td>MM</td><td>Patpatar</td><td><i>(pala)bara</i></td>
 <td>
-'<span>M acaranga aleuritoides</span>'</td>
+'<span>Macaranga aleuritoides</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Petats</td><td><i>vana-van</i></td>
@@ -879,11 +881,11 @@ Pipturus argenteus is a small tree, 3-6 m tall, growing mainly in secondary fore
 
 <a id="p-245"></a>
 
-The POc term for Pipturus argenteus was &ast;qaramʷaqi. Both instances of &ast;q require com- ment here.
+The POc term for Pipturus argenteus was &ast;qaramʷaqi. Both instances of &ast;q require comment here.
 
-Blust (ACD) reconstructs PMP &ast;adamay without initial &ast;q-, but adds that if Sundanese haramay 'Boehmeria nivea' (a member of the family Urticacea) is cognate, then the recon- struction will be &ast;qadamay. The Kara, Patpatar, Notsi, Pije, Nelemwa and Tongan reflexes also reflect &ast;q-, and it is thus reasonable to infer that the PMP form was &ast;qadamay.
+Blust (ACD) reconstructs PMP &ast;adamay without initial &ast;q-, but adds that if Sundanese haramay 'Boehmeria nivea' (a member of the family Urticacea) is cognate, then the reconstruction will be &ast;qadamay. The Kara, Patpatar, Notsi, Pije, Nelemwa and Tongan reflexes also reflect &ast;q-, and it is thus reasonable to infer that the PMP form was &ast;qadamay.
 
-There is disagreement among cognates with regard to the final &ast;-aqi of POc &ast;qaramʷaqi. Blust reconstructs the final &ast;-ay of PMP &ast;adamay with no &ast;-q- on the basis ofCebuano handa- lamay 'Pipturus argenteus', Maranao aramai 'Pipturus arborescens' and the Sun danese re- flex above, and so putative POc &ast;-q- must be a post-PMP innovation. PMP &ast;-ay is normally reflected as POc &ast;-e, but Raga, Sye and Anejom  -ai reflect POc &ast;-aqi, not &ast;-e. POc &ast;-q- is also reflected in Kara kaimek and Patpatar karanek, which sporadically retain it as k. POc &ast;-aqi is also arguably the source of -e in Marshallese arm we and of long -e in Wayan rome. Against the reconstruction of &ast;-aqi are the Seimat, Apma, S Efate and all Central Pacific reflexes other than Wayan. [Geraghty](../references.md#source-Geraghty1990) ([1990](../references.md#source-Geraghty1990): 55) accounts for long final -a in Central Pacific reflexes by reconstructing PEOc/PCP &ast;(q)aromʷaRa. PEOc &ast;-R- is usually lost in PCP but occasionally retained as &ast;-/-, which, Geraghty suggests, is reflected in NE Viti Levu ŋala 'Pipturus sp.' (1990: 91). However, shorn of not just one but two syllables, this is a ques- tionable reflex, and so I reconstruct PCP &ast;qaromw(e,a). The ambiguity of the final long vowel is due to the disagreement between Wayan -e and Lau Fijian and Polynesian -a. Geraghty is right, however, to take the long final vowel seriously, and it is not clear to me how this innovation arose.
+There is disagreement among cognates with regard to the final &ast;-aqi of POc &ast;qaramʷaqi. Blust reconstructs the final &ast;-ay of PMP &ast;adamay with no &ast;-q- on the basis of Cebuano handa- lamay 'Pipturus argenteus', Maranao aramai 'Pipturus arborescens' and the Sun danese reflex above, and so putative POc &ast;-q- must be a post-PMP innovation. PMP &ast;-ay is normally reflected as POc &ast;-e, but Raga, Sye and Anejom  -ai reflect POc &ast;-aqi, not &ast;-e. POc &ast;-q- is also reflected in Kara kaimek and Patpatar karanek, which sporadically retain it as k. POc &ast;-aqi is also arguably the source of -e in Marshallese arm we and of long -e in Wayan rome. Against the reconstruction of &ast;-aqi are the Seimat, Apma, S Efate and all Central Pacific reflexes other than Wayan. [Geraghty](../references.md#source-Geraghty1990) ([1990](../references.md#source-Geraghty1990): 55) accounts for long final -a in Central Pacific reflexes by reconstructing PEOc/PCP &ast;(q)aromʷaRa. PEOc &ast;-R- is usually lost in PCP but occasionally retained as &ast;-/-, which, Geraghty suggests, is reflected in NE Viti Levu ŋala 'Pipturus sp.' (1990: 91). However, shorn of not just one but two syllables, this is a questionable reflex, and so I reconstruct PCP &ast;qaromw(e,a). The ambiguity of the final long vowel is due to the disagreement between Wayan -e and Lau Fijian and Polynesian -a. Geraghty is right, however, to take the long final vowel seriously, and it is not clear to me how this innovation arose.
 
 <table>
 <tr>
@@ -1058,7 +1060,7 @@ There is disagreement among cognates with regard to the final &ast;-aqi of POc &
 <tr>
 <td>Pn</td><td>Marquesan</td><td><i>hoka</i></td>
 <td>
-'<span>shrubs or small trees, Pipturus spp.)</span>'</td>
+'<span>shrubs or small trees, Pipturus spp.</span>'</td>
 </tr>
 </table>
 
@@ -1072,11 +1074,11 @@ There is disagreement among cognates with regard to the final &ast;-aqi of POc &
 
 Rhus taitensis is a tree which grows to 10--15 min secondary forest. At flowering time it is covered in white flowers. This is a deciduous tree, and when the leaves are ready to fall, they tum bright red (Peekel1984: 325).
 
-In New Ireland fishing net floats are made from the white wood. When it is cut down and has dried out, it splits exceptionally easily, but has few uses. In Kwara'ae the tree is a source of protein food in the form of the grubs of a caterpillar that feeds on it ([Kwa'ioloa & Burt 2001](../references.md#source-KwaioloaandBurt2001): 108). On New Hanover (immediately to the north of New Ireland) the young shoots are eaten by women to induce abortion and used for a variety of medicinal pur- poses ([Holdsworth et al. 1982](../references.md#source-Holdsworthetal1982))
+In New Ireland fishing net floats are made from the white wood. When it is cut down and has dried out, it splits exceptionally easily, but has few uses. In Kwara'ae the tree is a source of protein food in the form of the grubs of a caterpillar that feeds on it ([Kwa'ioloa & Burt 2001](../references.md#source-KwaioloaandBurt2001): 108). On New Hanover (immediately to the north of New Ireland) the young shoots are eaten by women to induce abortion and used for a variety of medicinal purposes ([Holdsworth et al. 1982](../references.md#source-Holdsworthetal1982))
 
 Figure 8.3 Rhus taitensis: A, tree; B, stem bearing leaves; C, branch bearing fruit.
 
-The premier uses of R. taitensis, however, all have to do with producing black colouring materi- als. In Marovo pandanus leaves are stained black by boiling them in a mixture that includes pounded R. taitensis leaves and a particular seaweed. Gard- ner & Pawley (2006) report a similar process from W aya Island, where the dye was also used to blacken hair. The charcoal of R. taitensis was an ingredient in the black putty used for the caulking and glossy surface finish of war canoes in Marovo
+The premier uses of R. taitensis, however, all have to do with producing black colouring materials. In Marovo pandanus leaves are stained black by boiling them in a mixture that includes pounded R. taitensis leaves and a particular seaweed. [Gardner & Pawley](../references.md#source-GardnerandPawley2006) ([2006](../references.md#source-GardnerandPawley2006)) report a similar process from Waya Island, where the dye was also used to blacken hair. The charcoal of R. taitensis was an ingredient in the black putty used for the caulking and glossy surface finish of war canoes in Marovo
 
 
 <a id="p-247"></a>
@@ -1178,14 +1180,14 @@ A number of groups in Indonesia and Melanesia practised ritual tooth-blackening 
 ### 2.8. Trema orienta/is (syn. T. scaberrima. T. aspera) (Ulmaceae)
 
 
-Trema orienta/is is a secondary forest tree growing as tall as 12 m, with shiny bright green twigs and egg-shaped leaves, rough and dark green on the upper surface, pale green under- neath ([Peekel 1984](../references.md#source-Peekel1984): 131 ).
+Trema orienta/is is a secondary forest tree growing as tall as 12 m, with shiny bright green twigs and egg-shaped leaves, rough and dark green on the upper surface, pale green underneath ([Peekel 1984](../references.md#source-Peekel1984): 131 ).
 
 On the north coast of New Britain the bast serves as material for canoe lashings and for making nets to catch birds and pigs and the bark is used to wrap pork and vegetables for cooking. The wood is used for beams and as firewood (Powell1976). [Wheatley](../references.md#source-Wheatley1992) ([1992](../references.md#source-Wheatley1992): 237) reports similar uses from Vanuatu.
 
 
 <a id="p-248"></a>
 
-Blust (ACD) reconstructs PWMP &ast;deRuŋ on the basis of western Malaya-Polynesian re- flexes alone. The reflexes below show that POc &ast;droRu(ŋ) 'Trema sp.' is reconstructable and thus that Blust's reconstruction should be re-labelled as PMP.
+Blust (ACD) reconstructs PWMP &ast;deRuŋ on the basis of western Malaya-Polynesian reflexes alone. The reflexes below show that POc &ast;droRu(ŋ) 'Trema sp.' is reconstructable and thus that Blust's reconstruction should be re-labelled as PMP.
 
 <table>
 <tr>
@@ -1248,9 +1250,9 @@ Blust (ACD) reconstructs PWMP &ast;deRuŋ on the basis of western Malaya-Polynes
 
 Figure 8.4 Trichospermum richii.
 
-Peekel records two species of Trichospermum in New Ireland, T. peekelii (syn. T.fauroensis, T. psilo- cladum) in the north and T. pleiostigma (syn. T. quadrivale, Althoifia tetrapyxis) in the south, with an overlap in the Madak-speaking area.
+Peekel records two species of Trichospermum in New Ireland, T. peekelii (syn. T.fauroensis, T. psilocladum) in the north and T. pleiostigma (syn. T. quadrivale, Althoifia tetrapyxis) in the south, with an overlap in the Madak-speaking area.
 
-Both species grow to 10--20 m and have a single stem with radial branches which form a roundish to conical crown. When it is in bloom, the crown is cov- ered in fllowers and is a white mass with a sweet smell which reaches quite a distance. Because the saplings are shade-intolerant, they tend to occur in secondary regrowth, although individual specimens may attain canopy height and survive-but they are unable to re- produce.
+Both species grow to 10--20 m and have a single stem with radial branches which form a roundish to conical crown. When it is in bloom, the crown is covered in fllowers and is a white mass with a sweet smell which reaches quite a distance. Because the saplings are shade-intolerant, they tend to occur in secondary regrowth, although individual specimens may attain canopy height and survive-but they are unable to reproduce.
 
 The two species provide straight poles for rafters. They are also good firewood and are among the species that were used as fireploughs. The bark can be pulled off in strips and is used for carrying bundles of garden produce or wood, and to cover house entrances and as roofing for temporary shelters. The Kwara'ae used it to make warriors' shields ([Peekel 1984](../references.md#source-Peekel1984):357, [Wheatley 1992](../references.md#source-Wheatley1992):233, [Kwa'ioloa & Burt 2001](../references.md#source-KwaioloaandBurt2001): 136--137).
 
@@ -1363,7 +1365,7 @@ POc &ast;maRako 'Trichospermum peekelii' is an unproblematic reconstruction.
 ## 3. Grasses
 
 
-Although grasslands are rare in the Bismarck Archipelago, grasses of course grow there, especially on the edges of forests, around garden clearings and in secondary forest. The most common grass in the Bismarcks is Paspalum conjugatum (Figure 8.5, left), which can grow to a metre high (Peekell984: 48), but it appears to have been introduced from the New World (R. Gardner, pers. comm.). Evans (ch.3, §4.5) reconstructs POc &ast;pali[s,j]i 'generic term for grasses and other grass-like plants'. She notes that the generic term for a taxon quite often represents an extension of the meaning of a term for a particular and salient subtaxon. There is flimsy evidence that the Proto Remote Oceanic reflex of &ast;pali[sj ]i was not only the generic but by this time denoted the creeping beach grass, Thuarea involuta, known in Hawai' i as kuroiwa grass. This is its specific denotation in both Mwotlap (NCV) and Woleaian (Mic).
+Although grasslands are rare in the Bismarck Archipelago, grasses of course grow there, especially on the edges of forests, around garden clearings and in secondary forest. The most common grass in the Bismarcks is Paspalum conjugatum (Figure 8.5, left), which can grow to a metre high (Peekell984: 48), but it appears to have been introduced from the New World (R. Gardner, pers. comm.). Evans (ch.3, §4.5) reconstructs POc &ast;pali[s,j]i 'generic term for grasses and other grass-like plants'. She notes that the generic term for a taxon quite often represents an extension of the meaning of a term for a particular and salient subtaxon. There is flimsy evidence that the Proto Remote Oceanic reflex of &ast;pali[sj ]i was not only the generic but by this time denoted the creeping beach grass, Thuarea involuta, known in Hawai'i as kuroiwa grass. This is its specific denotation in both Mwotlap (NCV) and Woleaian (Mic).
 
 Two less widely reflected terms, the refllexes of which are generic terms for grass, are POc &ast;rabum and &ast;(quta)quta.
 
@@ -1466,8 +1468,6 @@ Two less widely reflected terms, the refllexes of which are generic terms for gr
 
 <a id="p-250"></a>
 
-Scm
-
 Figure 8.5 Left Paspalum conjugatum. Middle Imperata cylindrica, sword grass. Right Coix lacryma-jobi, Job's tears.
 
 In Proto Remote Oceanic, &ast;mʷanaya, anothe:r apparently generic term for grass occurred. This quite possibly also denoted a specific but now uncertain subtaxon.
@@ -1537,9 +1537,9 @@ I. cylindrica (known as alang-alang in Malay), a vigorous grass 1-2m high, is wi
 
 Three POc etyma can be reconstructed with the denotatum I. cylindrica, namely &ast;Reqi(t), &ast;guRu(n) and &ast;pitu. Both have non-Oceanic cognates denoting the same species, and any difference in their usages is unknown.
 
-By far the most frequently reflected etymon is &ast;Reqi(t). POc &ast;guRun has scattered re- flexes .
+By far the most frequently reflected etymon is &ast;Reqi(t). POc &ast;guRun has scattered reflexes.
 
-Blust (ACD) reconstructs PAn &ast;Riaq 'sword grass, Imperata cylindrica' on the basis of Formosan reflexes. Whether PCEMP &ast;Reqi is an irregular development from this, I do not know. This reconstruction is attributed to PCEMP on the basis of Far East Manggarai riʔi ([Verheijen 1990](../references.md#source-Verheijen1990):221 ), Sasak re, Rotinese li (all CMP), all 'sword grass, Imperata cylindrica' . Roviana and Marovo have the form rekiti, reflecting earlier &ast;rekit, but this appears to be an unsourced borrowing, as (i) the regular           of POc &ast;-q- is zero and (ii) other languages which regularly retain a final POc consonant (Diodio, Wedau and Tawala) do not retain it here. The expected reflex in Roviana and Marovo is trei, found in their close relative Nduke. All other languages in this cognate set with a non-zero reflex of POc &ast;-q- reflect it regularly: no reflexes other than Roviana and Marovo r,equire the reconstruction of &ast;-k- in this etymon.
+Blust (ACD) reconstructs PAn &ast;Riaq 'sword grass, Imperata cylindrica' on the basis of Formosan reflexes. Whether PCEMP &ast;Reqi is an irregular development from this, I do not know. This reconstruction is attributed to PCEMP on the basis of Far East Manggarai riʔi ([Verheijen 1990](../references.md#source-Verheijen1990):221 ), Sasak re, Rotinese li (all CMP), all 'sword grass, Imperata cylindrica'. Roviana and Marovo have the form rekiti, reflecting earlier &ast;rekit, but this appears to be an unsourced borrowing, as (i) the regular reflex of POc &ast;-q- is zero and (ii) other languages which regularly retain a final POc consonant (Diodio, Wedau and Tawala) do not retain it here. The expected reflex in Roviana and Marovo is trei, found in their close relative Nduke. All other languages in this cognate set with a non-zero reflex of POc &ast;-q- reflect it regularly: no reflexes other than Roviana and Marovo r,equire the reconstruction of &ast;-k- in this etymon.
 
 <table>
 <tr>
@@ -1806,7 +1806,7 @@ Blust (ACD) also reconstructs PCEMP &ast;bitu, POc &ast;pitu 'I. cylindrica' on 
 ### 3.2. Coix lacrymajobi, Job's tears (Poaceae)
 
 
-Coix lacryma-jobi is a robust tropical grass, 1--1.5 m high, with shiny grains like tears (Fig- ure 8.5, right). The grains are the hardened flower-cases of female spikelets. They tum various colours-yellow, purple, white or brown-and are used in rattles and necklaces in places as far apart as New Britain and Malaita ([Kwa'ioloa & Burt 2001](../references.md#source-KwaioloaandBurt2001):204, [Powell 1976](../references.md#source-Powell1976)). Powell reports that the leaves are eaten in New Britain.
+Coix lacryma-jobi is a robust tropical grass, 1--1.5 m high, with shiny grains like tears (Figure 8.5, right). The grains are the hardened flower-cases of female spikelets. They tum various colours-yellow, purple, white or brown-and are used in rattles and necklaces in places as far apart as New Britain and Malaita ([Kwa'ioloa & Burt 2001](../references.md#source-KwaioloaandBurt2001):204, [Powell 1976](../references.md#source-Powell1976)). Powell reports that the leaves are eaten in New Britain.
 
 
 <a id="p-253"></a>
@@ -1878,12 +1878,12 @@ A reed-like grass dominant on dry hillsides, Miscanthusfloridulus grows to about
 <tr>
 <td>MM</td><td>Nduke</td><td><i>piu</i></td>
 <td>
-'<span>Miscanthusfloridulus</span>' (<span>unexpected final consonant deletion</span>)</td>
+'<span>Miscanthus floridulus</span>' (<span>unexpected final consonant deletion</span>)</td>
 </tr>
 <tr>
 <td>MM</td><td>Roviana</td><td><i>piu</i></td>
 <td>
-'<span>Miscanthusfloridulus</span>' (<span>unexpected final consonant deletion</span>)</td>
+'<span>Miscanthus floridulus</span>' (<span>unexpected final consonant deletion</span>)</td>
 </tr>
 <tr>
 <td>MM</td><td>Marovo</td><td><i>piu</i></td>
@@ -1893,17 +1893,17 @@ A reed-like grass dominant on dry hillsides, Miscanthusfloridulus grows to about
 <tr>
 <td>NCV</td><td>Uripiv</td><td><i>na-viʙ</i></td>
 <td>
-'<span>Miscanthusfloridulus</span>'</td>
+'<span>Miscanthus floridulus</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Tape</td><td><i>vieb</i></td>
 <td>
-'<span>Miscanthusfloridulus</span>'</td>
+'<span>Miscanthus floridulus</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Avava</td><td><i>viaʙ</i></td>
 <td>
-'<span>Miscanthusfloridulus</span>'</td>
+'<span>Miscanthus floridulus</span>'</td>
 </tr>
 <tr>
 <td>SV</td><td>Sye</td><td><i>(nre)n-yuŋ</i></td>
