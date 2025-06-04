@@ -370,7 +370,7 @@ Figure 5.1 Left Ipomoea pes-caprae, morning glory. Right Wedelia biflora.
 ### 3.2. Wedelia biflora (syn. Wollastonia biflora) (Asteraceae)
 
 
-Wedelia biflora (Figure 5.1, right) is a herbaceous or half-shrubby coastal plant, usually 1.5-2.5 m tall, with yellow flowers. On the beach it sometimes forms impenetrable thickets, but it also occurs in the littoral forest, where it climbs as high as 6m (Peekel1984: 561).
+Wedelia biflora (Figure 5.1, right) is a herbaceous or half-shrubby coastal plant, usually 1.5-2.5 m tall, with yellow flowers. On the beach it sometimes forms impenetrable thickets, but it also occurs in the littoral forest, where it climbs as high as 6m ([Peekel 1984](../references.md#source-Peekel1984): 561).
 
 The leaves are filled with a tasty milk-like sap, and Tangga speakers (offshore east of southern New Ireland) boil and eat them ([Bell 1947](../references.md#source-Bell1947): 244)). At Marovo the leaves are an ingredient in cures for stomach ache ([Hviding 2005](../references.md#source-Hviding2005): 108).
 
@@ -480,7 +480,7 @@ cf. also:
 
 5.4.1.1 Cordia subcordata, kerosene wood, island walnut, sea trumpet, Pacific rosewood, P. kerasin wud, B burao blong solwata (Boraginaceae)
 
-A twisted shore tree 8-15 m tall, Cordia subcordata (Figure 5.2, left) is well known for its very strong black-veined heartwood, which may remain as a skeleton after the rest of a dead tree has rotted away (W. McClatchey, pers. comm.). It occurs in varieties with orange and yellow flowers (Peekel1984: 471, [Hviding 2005](../references.md#source-Hviding2005): 131).
+A twisted shore tree 8-15 m tall, Cordia subcordata (Figure 5.2, left) is well known for its very strong black-veined heartwood, which may remain as a skeleton after the rest of a dead tree has rotted away (W. McClatchey, pers. comm.). It occurs in varieties with orange and yellow flowers ([Peekel 1984](../references.md#source-Peekel1984): 471, [Hviding 2005](../references.md#source-Hviding2005): 131).
 
 Its wood is lightweight but durable. In the western Solomons, in Vanuatu and on Waya Island it is used for carving ([Gowers 1976](../references.md#source-Gowers1976): 56, [Hviding 2005](../references.md#source-Hviding2005): 131, [Gardner & Pawley 2006](../references.md#source-GardnerandPawley2006), [Friday & Okano 2006](../references.md#source-FridayandOkano2006)). In earlier times the Marovo also used it for house posts, but its use in construction seems never to have been widespread. On New Ireland, however, the ceremonial V-shaped entrance to a men's house was always made of C. subcordata ([Record 1945](../references.md#source-Record1945)). In Tonga it was used for carving and for construction ([Whistler 1991b](../references.md#source-Whistler1991b): 108). [Gowers](../references.md#source-Gowers1976) ([1976](../references.md#source-Gowers1976): 56) and [Capell](../references.md#source-Capell1941) ([1941](../references.md#source-Capell1941)) report that its sap served as an adhesive in Vanuatu and Fiji.
 
@@ -1071,7 +1071,7 @@ cf. also:
 
 5.4.1.3 Hibiscus tiliaceus, beach hibiscus, TP mangas, P. B burao (Malvaceae)
 
-Hibiscus tiliaceus is a small sprawling, tangled shore tree with small girth, a branching trunk and pale yellow flowers (Figure 5.2, right). It grows 5-15 m tall (Peekel1984: 364, [Henderson & Hancock 1988](../references.md#source-HendersonandHancock1988): 161). Barrau (1965) reports that the bark was eaten in New Caledonia, and almost every source agrees that it provides fibre to make cordage, mats and nets (e.g. [Floyd 1954](../references.md#source-Floyd1954), [O'Collins & Lamothe 1989](../references.md#source-OCollinsandLamothe1989), [Whistler 1991b](../references.md#source-Whistler1991b): 29).
+Hibiscus tiliaceus is a small sprawling, tangled shore tree with small girth, a branching trunk and pale yellow flowers (Figure 5.2, right). It grows 5-15 m tall ([Peekel 1984](../references.md#source-Peekel1984): 364, [Henderson & Hancock 1988](../references.md#source-HendersonandHancock1988): 161). Barrau (1965) reports that the bark was eaten in New Caledonia, and almost every source agrees that it provides fibre to make cordage, mats and nets (e.g. [Floyd 1954](../references.md#source-Floyd1954), [O'Collins & Lamothe 1989](../references.md#source-OCollinsandLamothe1989), [Whistler 1991b](../references.md#source-Whistler1991b): 29).
 
 The POc term for Hibiscus tiliaceus was _&ast;paRu_. Blust (ACD) suggests that it is reflected in terms for 'tie' like Bauan _vau_ 'tie, bind' and Samoan _fau_ 'bind, lash together', but it is now clear that these terms reflect POc _&ast;paqu(s)_, _&ast;paqus-i-_ 'bind, lash; construct canoe by tying together' (vol.1, ch.9, §10).
 
@@ -2506,7 +2506,7 @@ The reconstructions of PCEMP _&ast;(d,r)a(d,r)ap_ and POc _&ast;dradrap_ below a
 
 red sandalwood, B. bisa, nabisa (Mimosaceae)
 
-A tree which grows to 8-15 m on sandy foreshores and coral soil, Adenanthera pavonina is well known for its shiny scarlet, disk-shaped seeds about 6 mm in diameter which serve widely as necklace beads. It has a small, yellowish flower which grows in dense drooping rat's-tail flower heads resembling catkins. Its fllowers are white to yellowish, and the seeds grow in curved hanging pods, with a bulge opposite each seed, which curl up and turn brown (Peekel1984: 210).
+A tree which grows to 8-15 m on sandy foreshores and coral soil, Adenanthera pavonina is well known for its shiny scarlet, disk-shaped seeds about 6 mm in diameter which serve widely as necklace beads. It has a small, yellowish flower which grows in dense drooping rat's-tail flower heads resembling catkins. Its fllowers are white to yellowish, and the seeds grow in curved hanging pods, with a bulge opposite each seed, which curl up and turn brown ([Peekel 1984](../references.md#source-Peekel1984): 210).
 
 
 <a id="p-149"></a>
@@ -2557,7 +2557,7 @@ For naming purposes, Barringtonia species in NW Island Melanesia fall into two g
 
 Two other species with inedible nuts, B. racemosa and B. niedenzuana, resemble B. edulis in appearance.[^16] The Patpatar and Tolai names for B. racemosa are respectively _paua-paua_ and _pao-pao_, reduplicated forms of Patpatar _paua_ and Tolai _pao_ 'B. edulis' ([Peekel 1984](../references.md#source-Peekel1984): 397-399), the reduplication expressing the inferiority of B. racemosa (ch.2, §7.2).
 
-B. asiatica is a large beach tree, 10--20 m high, which is able to grow with its roots in salt water at times. It has large white and pink flowers which open at night and close in the morning, and ten-centimetre square fruits that float in the sea and sprout when they reach the shore. Fishermen use them as buoys or fishing floats. The seeds contain a poison. In New Ireland they are grated and thrown into the water to stun fish in pools on the reef. At Marovo they are sometimes used to kill dogs, but they also serve as medication for ringworm, scabies and other skin diseases ([French-Wright 1983](../references.md#source-FrenchWright1983): 157, Peekel1984: 397, [Hviding 2005](../references.md#source-Hviding2005): 139)
+B. asiatica is a large beach tree, 10--20 m high, which is able to grow with its roots in salt water at times. It has large white and pink flowers which open at night and close in the morning, and ten-centimetre square fruits that float in the sea and sprout when they reach the shore. Fishermen use them as buoys or fishing floats. The seeds contain a poison. In New Ireland they are grated and thrown into the water to stun fish in pools on the reef. At Marovo they are sometimes used to kill dogs, but they also serve as medication for ringworm, scabies and other skin diseases ([French-Wright 1983](../references.md#source-FrenchWright1983): 157, [Peekel 1984](../references.md#source-Peekel1984): 397, [Hviding 2005](../references.md#source-Hviding2005): 139)
 
 Two terms are reconstructable, POc _&ast;putun_, which is reflected all over Oceania except in parts of Vanuatu, where it is replaced by PNCV _&ast;vuabu_,[^17] and in the Chuukic languages of Micronesia, where it is replaced by a reflex of POc _&ast;kuluR_ 'breadfruit, Artocarpus altilis' (Ch.9, §4).
 
@@ -2922,7 +2922,7 @@ Figure 5.8 Barringtonia asiatica.
 
 Often with a short gnarled trunk or branches leaning out over the sea, Calophyllum inophyllum is a salient shore tree about 10--20 metres tall with fragrant flowers and small round fruit ([Hviding 2005](../references.md#source-Hviding2005): 106).
 
-Its red wood is very hard and difficult to work when it is seasoned. The grain is interlocked, and so the wood does not split easily ([Margetts 2005b](../references.md#source-Margetts2005b)). Its straight smaller branches are used for pig spears, for outrigger booms and for building ([Sorensen 1950](../references.md#source-Sorensen1950), [Floyd 1954](../references.md#source-Floyd1954), Peekel1984: 377, [Gardner & Pawley 2006](../references.md#source-GardnerandPawley2006)). In Vanuatu the sap serves for patching holes in wood. In other parts of the Pacific the gum, bark, leaves, roots, flowers and oil from the seeds are used in traditional medicine ([Gowers 1976](../references.md#source-Gowers1976):40, [Gardner & Pawley 2006](../references.md#source-GardnerandPawley2006)). Its macerated leaves are used to stupefy octopus in holes in the reef and its burnt fruit provide black hair dye. In the Ninigos, where Seimat is spoken, a brown dye is made from the yellowish milky sap ([Record 1945](../references.md#source-Record1945), [Sorensen 1950](../references.md#source-Sorensen1950)).
+Its red wood is very hard and difficult to work when it is seasoned. The grain is interlocked, and so the wood does not split easily ([Margetts 2005b](../references.md#source-Margetts2005b)). Its straight smaller branches are used for pig spears, for outrigger booms and for building ([Sorensen 1950](../references.md#source-Sorensen1950), [Floyd 1954](../references.md#source-Floyd1954), [Peekel 1984](../references.md#source-Peekel1984): 377, [Gardner & Pawley 2006](../references.md#source-GardnerandPawley2006)). In Vanuatu the sap serves for patching holes in wood. In other parts of the Pacific the gum, bark, leaves, roots, flowers and oil from the seeds are used in traditional medicine ([Gowers 1976](../references.md#source-Gowers1976):40, [Gardner & Pawley 2006](../references.md#source-GardnerandPawley2006)). Its macerated leaves are used to stupefy octopus in holes in the reef and its burnt fruit provide black hair dye. In the Ninigos, where Seimat is spoken, a brown dye is made from the yellowish milky sap ([Record 1945](../references.md#source-Record1945), [Sorensen 1950](../references.md#source-Sorensen1950)).
 
 Other species of Calophyllum grow inland, hence straight, and provide even better timber than C. inophyllum, including canoe hulls. C. kajewskii (syn. C. peekelii) is a rain forest tree than grows up to 50 m.
 
@@ -3562,7 +3562,7 @@ The reconstruction below depends on the inference that Muyuw _apul_ is cognate w
 ### 5.4. Casuarina equisetifolia, casuarina, beach she-oak, TP yar, Baeantri, oktri (Casuarinaceae)
 
 
-Casuarina equisetifolia is a large coastal tree with an oddly feathery appearance caused by its needle-like leaves. Typically it grows to 20m, but Frederick Damon (pers.comm.) reports specimens on Woodlark Island of 40-45 m, towering above the rest of the forest. It yields heavy hard dark red-brown wood. The casuarina is used for building throughout most of NW Island Melanesia. In Kwara'ae country, clubs and axe handles are also made from it ([Floyd 1954](../references.md#source-Floyd1954), Peekel1984: 123, [Kwa'ioloa & Burt 2001](../references.md#source-KwaioloaandBurt2001): 143, [Whistler & Elevitch 2006b](../references.md#source-WhistlerandElevitch2006b)) .
+Casuarina equisetifolia is a large coastal tree with an oddly feathery appearance caused by its needle-like leaves. Typically it grows to 20m, but Frederick Damon (pers.comm.) reports specimens on Woodlark Island of 40-45 m, towering above the rest of the forest. It yields heavy hard dark red-brown wood. The casuarina is used for building throughout most of NW Island Melanesia. In Kwara'ae country, clubs and axe handles are also made from it ([Floyd 1954](../references.md#source-Floyd1954), [Peekel 1984](../references.md#source-Peekel1984): 123, [Kwa'ioloa & Burt 2001](../references.md#source-KwaioloaandBurt2001): 143, [Whistler & Elevitch 2006b](../references.md#source-WhistlerandElevitch2006b)) .
 
 Figure 5.10 Casuarina equisetifolia.
 
@@ -3935,7 +3935,7 @@ The set below was gleaned from [Guppy](../references.md#source-Guppy1896) ([1896
 
 Typically growing to 10-15 m, but sometimes to 20m, Erythrina variegata (Figure 5.11, left) occurs in two common forms. One has the variegated or yellowed leaves that have given rise to its name, as well as thorn-covered branches. The other form has green leaves and sometimes no thorns or just a few at the base of the trunk (Will McClatchey, pers. comm.). There are distinctive orange-red flowers in a spiral at the end of each branch. The bole is usually short and the trunk branches low with numerous ascending branches.
 
-E. variegata is typically found in sandy soil in littoral forest, but it is also often planted as an ornamental tree and as a support for the betel vine (Peekel1984: 249, [Wheatley 1992](../references.md#source-Wheatley1992): 139-141, [Whistler & Elevitch 2006c](../references.md#source-WhistlerandElevitch2006c)). [Gowers](../references.md#source-Gowers1976) ([1976](../references.md#source-Gowers1976): 75) - but not Wheatley - says that in Vanuatu it is an introduced tree, but the NCV and SV reflexes of POc _&ast;rarap_ 'Erythrina spp.' speak against this. Indeed, Vanuatu is one of the locations where the flowering of E. variegata is the marker of the yam-planting season (ch.9, §2.1).
+E. variegata is typically found in sandy soil in littoral forest, but it is also often planted as an ornamental tree and as a support for the betel vine ([Peekel 1984](../references.md#source-Peekel1984): 249, [Wheatley 1992](../references.md#source-Wheatley1992): 139-141, [Whistler & Elevitch 2006c](../references.md#source-WhistlerandElevitch2006c)). [Gowers](../references.md#source-Gowers1976) ([1976](../references.md#source-Gowers1976): 75) - but not Wheatley - says that in Vanuatu it is an introduced tree, but the NCV and SV reflexes of POc _&ast;rarap_ 'Erythrina spp.' speak against this. Indeed, Vanuatu is one of the locations where the flowering of E. variegata is the marker of the yam-planting season (ch.9, §2.1).
 
 
 <a id="p-159"></a>
@@ -4099,7 +4099,7 @@ As noted in §4.1.8, the expected reflex of POc _&ast;rarap_ 'Indian coral tree,
 <tr>
 <td>MM</td><td>Maringe</td><td><i>grara</i></td>
 <td>
-'<span>Erythrina orienta/is</span>' (<span>W. McClatchey, pers. comm.</span>)</td>
+'<span>Erythrina orientalis</span>' (<span>W. McClatchey, pers. comm.</span>)</td>
 </tr>
 <tr>
 <td>SES</td><td>Gela</td><td><i>rara</i></td>
@@ -4798,7 +4798,7 @@ G. speciosa is sometimes labelled with the same term as the epiphyte Fagraea ber
 ### 5.9. Gyrocarpus americanus, canoe tree, B naove, kenutri (Hernandiaceae)
 
 
-[Wheatley](../references.md#source-Wheatley1992) ([1992](../references.md#source-Wheatley1992): 114) comments that the canoe tree, Gyrocarpus americanus, is a key indicator of a region with a distinct dry season. It is confined to coastal strips and low coral plateaus which lie in a rain shadow during the drier season when the SE trades are prevalent. Because of its location and because its soft wood is easily worked, it is the tree from which dugout canoes are made in north and central Vanuatu - and this is its only use. It is used for the same purpose in New Ireland (Peekel1984: 192). On Waya Island the soft wood was used to construct simple in-shore fishing rafts, and the bark was made into a tonic and medicine for high blood pressure ([Gardner & Pawley 2006](../references.md#source-GardnerandPawley2006)).
+[Wheatley](../references.md#source-Wheatley1992) ([1992](../references.md#source-Wheatley1992): 114) comments that the canoe tree, Gyrocarpus americanus, is a key indicator of a region with a distinct dry season. It is confined to coastal strips and low coral plateaus which lie in a rain shadow during the drier season when the SE trades are prevalent. Because of its location and because its soft wood is easily worked, it is the tree from which dugout canoes are made in north and central Vanuatu - and this is its only use. It is used for the same purpose in New Ireland ([Peekel 1984](../references.md#source-Peekel1984): 192). On Waya Island the soft wood was used to construct simple in-shore fishing rafts, and the bark was made into a tonic and medicine for high blood pressure ([Gardner & Pawley 2006](../references.md#source-GardnerandPawley2006)).
 
 The canoe tree grows to a height of 30-40 m. It has a smooth grey-brown trunk, which can be huge (Peekel reports a specimen 8.25 m in diameter), and a sparse crown which loses its leaves in the dry season.
 
@@ -5403,7 +5403,7 @@ POLLEX2 and [Geraghty](../references.md#source-Geraghty2004) ([2004](../referenc
 
 Two Premna species concern us here. P. integrifolia (syn. P. divaricata) is reported in the Bismarcks, P. corymbosa (syn. P. serratifoUa) in the Solomons and Vanuatu (Figure 5.14, right).[^27] Both are small trees, 4--8 m tall, usually growing immediately behind the beach, although P. integrifolia is reportedly also found in primary forest. At Marovo P. corymbosa grows mainly on coral islets on ocean-facing reefs, typically together with Pemphis acidula.
 
-Both Premna species tend to branch at the base, with several erect branches, but sometimes they sprawl horizontally. They have hard yellowish wood, white flowers and blue-black to black berries 6--9 mm across, reminiscent of European elderflower and elderberries (Peekel1984:479, [Henderson & Hancock 1988](../references.md#source-HendersonandHancock1988):169-171, [Wheatley 1992](../references.md#source-Wheatley1992):244, [Kwa'ioloa & Burt 2001](../references.md#source-KwaioloaandBurt2001): 164, [Hviding 2005](../references.md#source-Hviding2005): 107-108).
+Both Premna species tend to branch at the base, with several erect branches, but sometimes they sprawl horizontally. They have hard yellowish wood, white flowers and blue-black to black berries 6--9 mm across, reminiscent of European elderflower and elderberries ([Peekel 1984](../references.md#source-Peekel1984):479, [Henderson & Hancock 1988](../references.md#source-HendersonandHancock1988):169-171, [Wheatley 1992](../references.md#source-Wheatley1992):244, [Kwa'ioloa & Burt 2001](../references.md#source-KwaioloaandBurt2001): 164, [Hviding 2005](../references.md#source-Hviding2005): 107-108).
 
 Sometimes planted as live fences, Premna species provide rafters and fast-burning wood for the cooking fire. They are particularly known, however, for two uses: they provide good wood for traditional fireploughs, and they are commonly used for various medicinal purposes. A common cure for headache is to insert heated leaves and shoots in the nose or to inhale the vapour from a hot infusion. The leaves and shoots are also used to treat pain by rubbing them on the afflicted body part. [Arentz et al.](../references.md#source-Arentzetal1989) ([1989](../references.md#source-Arentzetal1989): 91) also report that the leaves are boiled and the infusion is drunk against diarrhoea.
 

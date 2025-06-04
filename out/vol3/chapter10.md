@@ -8,13 +8,13 @@ by Malcolm Ross
 ## 1. Introduction
 
 
-Green vegetables form an important part of &ast;tamaji (ch.2, §6.2), the ingredients of a meal which accompany &ast;kanaŋ, starchy food (ch.2, §6.1). [Henderson & Hancock](../references.md#source-HendersonandHancock1988) ([1988](../references.md#source-HendersonandHancock1988): 83) point out that there is often no meat or fish component in the accompanying ingredients in the Solomons, and that these often consist only of green vegetables, which are a major source of protein. This explains the popularity of the high-protein Abelmoschus manihot. Solomon Islanders consume a diverse range of green v,egetables, some cultivated, some collected from the wild, and the same is true in the Bismarcks.
+Green vegetables form an important part of _&ast;tamaji_ (ch.2, §6.2), the ingredients of a meal which accompany _&ast;kanaŋ_, starchy food (ch.2, §6.1). [Henderson & Hancock](../references.md#source-HendersonandHancock1988) ([1988](../references.md#source-HendersonandHancock1988): 83) point out that there is often no meat or fish component in the accompanying ingredients in the Solomons, and that these often consist only of green vegetables, which are a major source of protein. This explains the popularity of the high-protein Abelmoschus manihot. Solomon Islanders consume a diverse range of green vegetables, some cultivated, some collected from the wild, and the same is true in the Bismarcks.
 
 Probably the most widely cultivated leafy vegetables in the Bismarck Archipelago are Abelmoschus manihot (§2.1) and various species of Amaranthus (§2.2). However, all the latter except Amaranthus tricolor are introduced plants (R.M. Bourke, pers. comm.) and were most probably not present in the gardens of Proto Oceanic speakers. Young leaves and petioles of Colocasia esculenta taro (ch.9, §2.2.1) are also commonly eaten as vegetables, and many languages have a separate word for them (ch.4, §2.5).
 
 Ferns recorded as being eaten include species of Asplenium, Athyrium, Ctenitis, Cyathea (§3.1), Dennstaedtia, Diplazium and Dryopteris, as well as Cyclosorus truncatus (Paijmans 1976: 125). Diplazium esculentum is noted by [Henderson & Hancock](../references.md#source-HendersonandHancock1988) ([1988](../references.md#source-HendersonandHancock1988): 84) as the most widely eaten fern in the Solomons. However, the only fern for which a POc term is reconstructed here is Cyathea (§3.1).
 
-An important seasonal food in some areas is the inflorescence (the unopened flower) of Saccharum edule (§3.2). Another edible grass, Setaria palmifolia (no reconstruction), is an important vegetable in inland areas of the Bismarcks and New Guinea (M. Bourke, pers. comm.). The stinging herb Laportea interrupta (syn. Fleurya interrupta, Urtica interrupta) is cultivated and eaten by the Tolai of the Gazelle Peninsula of New Britain (ch.7, §6.3 .2). The leaves of M orinda citrifolia are also eaten as a green vegetable in parts of Papua New Guinea (ch.l3, §3.4). Despite the large number of species that serve as green vegetables, however, only a few terms for them have be1;:n reconstructed.
+An important seasonal food in some areas is the inflorescence (the unopened flower) of Saccharum edule (§3.2). Another edible grass, Setaria palmifolia (no reconstruction), is an important vegetable in inland areas of the Bismarcks and New Guinea (M. Bourke, pers. comm.). The stinging herb Laportea interrupta (syn. Fleurya interrupta, Urtica interrupta) is cultivated and eaten by the Tolai of the Gazelle Peninsula of New Britain (ch.7, §6.3 .2). The leaves of Morinda citrifolia are also eaten as a green vegetable in parts of Papua New Guinea (ch.l3, §3.4). Despite the large number of species that serve as green vegetables, however, only a few terms for them have been reconstructed.
 
 Trees of the genus Ficus (§4) are included here because leaves of some freestanding species serve as green vegetables in NW Island Melanesia. This is not true of all Ficus species in the region, but it is convenient to keep all species of the genus together, as there are difficulties in tying the glosses of some reconstructions down to particular species.
 
@@ -37,7 +37,7 @@ Figure 10.1 Abelmoschus manihot: A, plant (height 1.5 m); B, stem with leaf (edi
 
 Abelmoschus manihot is a low, many-branched tree-like shrub, seemingly present in every garden throughout the Bismarck Archipelago and the Solomons (Figure 10.1). [Barrau](../references.md#source-Barrau1955) ([1955](../references.md#source-Barrau1955): 77) calls it 'truly the traditional vegetable of the whole of Melanesia'. Cuttings are planted in mixed crop gardens and are also harvested from young regrowth in abandoned gardens. There are many varieties, the young shoots and leaves of which have a high protein-to-calorie ratio and are cooked in stone ovens, boiled or steamed in bamboo containers or roasted in bark (Paijmans 1976: 124, [Hviding 2005](../references.md#source-Hviding2005): 131).
 
-POc &ast;wasa primarily denoted A. manihot, evidently the most salient and commonly consumed green vegetable in Lapita communities, but it also appears to have been used hypernymously for 'green vegetables' in general, to judge from the glosses below.
+POc _&ast;wasa_ primarily denoted A. manihot, evidently the most salient and commonly consumed green vegetable in Lapita communities, but it also appears to have been used hypernymously for 'green vegetables' in general, to judge from the glosses below.
 
 <table>
 <tr>
@@ -141,7 +141,7 @@ POc &ast;wasa primarily denoted A. manihot, evidently the most salient and commo
 
 <a id="p-295"></a>
 
-[French-Wright](../references.md#source-FrenchWright1983) ([1983](../references.md#source-FrenchWright1983): 162) also reconstmcts a term POc &ast;bele which apparently denoted A. manihot alone. [Geraghty](../references.md#source-Geraghty2004) ([2004](../references.md#source-Geraghty2004): 85) suspects that the Polynesian terms are borrowed from Fijian, since Fijian bele can be glossed as 'soft leaf'. If, however, the Gedaged, Sye and Ura terms are cognate, this observation is not relevant.
+[French-Wright](../references.md#source-FrenchWright1983) ([1983](../references.md#source-FrenchWright1983): 162) also reconstructs a term POc _&ast;bele_ which apparently denoted A. manihot alone. [Geraghty](../references.md#source-Geraghty2004) ([2004](../references.md#source-Geraghty2004): 85) suspects that the Polynesian terms are borrowed from Fijian, since Fijian _bele_ can be glossed as 'soft leaf'. If, however, the Gedaged, Sye and Ura terms are cognate, this observation is not relevant.
 
 <table>
 <tr>
@@ -286,7 +286,7 @@ Two terms for A. manihot can be reconstructed in lower interstage languages.
 
 <a id="p-296"></a>
 
-The meaning of the etymon reconstructed below is not clear. It may have been another generic for green vegetables in general or denoted a kind of green vegetable. On the evidence ofLau alone, may have been Abelmoschus manihot. It was probably not Amaranthus viridis, as this appears to have been unknown to POc speakers.
+The meaning of the etymon reconstructed below is not clear. It may have been another generic for green vegetables in general or denoted a kind of green vegetable. On the evidence of Lau alone, may have been Abelmoschus manihot. It was probably not Amaranthus viridis, as this appears to have been unknown to POc speakers.
 
 <table>
 <tr>
@@ -384,15 +384,15 @@ The only reconstruction is at the level of PNCV:
 ### 2.3. Gnetum gnemon, TP tulip (Gnetaceae)
 
 
-Gnetum gnemon is a small tree found in lowland forests in the Bismarcks, the Solomons, Vanuatu and Fiji, growing to between 8 and 15 m in height. Leaf stalks grow directly from the branch in pairs: hence its Tok Pisin name, tulip 'two-leaf' (Figure 10.3). The young leaves and shoots are widely cooked and eaten as a vegetable. It has red or orange fruit, the seeds and mesocarp of which are roasted and eaten in some areas (Paijmans 1976: 124, [Evans 1999](../references.md#source-Evans1999): 19-21, [Hviding 2005](../references.md#source-Hviding2005): 139): Evans singles out the islands of the Temotu Province of the Solomons for special mention. In the wild it grows along rivers and streams, but not near the beach, as it appears to dislike salt spray ([Manner & Elevitch 2006a](../references.md#source-MannerandElevitch2006a)). [Peekel](../references.md#source-Peekel1984) ([1984](../references.md#source-Peekel1984): 37) describes it as a 'cul- tivated tree' and [Kennedy & Clarke](../references.md#source-KennedyandClarke2004) ([2004](../references.md#source-KennedyandClarke2004)) mention it in their list of species that are subjeclt to arboriculture.
+Gnetum gnemon is a small tree found in lowland forests in the Bismarcks, the Solomons, Vanuatu and Fiji, growing to between 8 and 15 m in height. Leaf stalks grow directly from the branch in pairs: hence its Tok Pisin name, _tulip_ 'two-leaf' (Figure 10.3). The young leaves and shoots are widely cooked and eaten as a vegetable. It has red or orange fruit, the seeds and mesocarp of which are roasted and eaten in some areas (Paijmans 1976: 124, [Evans 1999](../references.md#source-Evans1999): 19-21, [Hviding 2005](../references.md#source-Hviding2005): 139): Evans singles out the islands of the Temotu Province of the Solomons for special mention. In the wild it grows along rivers and streams, but not near the beach, as it appears to dislike salt spray ([Manner & Elevitch 2006a](../references.md#source-MannerandElevitch2006a)). [Peekel](../references.md#source-Peekel1984) ([1984](../references.md#source-Peekel1984): 37) describes it as a 'cultivated tree' and [Kennedy & Clarke](../references.md#source-KennedyandClarke2004) ([2004](../references.md#source-KennedyandClarke2004)) mention it in their list of species that are subject to arboriculture.
 
-Figure 10.3 Gnetum gnemon: A, tree; B, fruiting branch with edible young leaves and fruit; C, mature edible fruit; D, flowering
+Figure 10.3 Gnetum gnemon: A, tree; B, fruiting branch with edible young leaves and fruit; C, mature edible fruit; D, flowering branch with edible flower.
 
-On New Britain and Manus and in the Siassi Islands the bark fibre of G. gnemon is reported as being used to make ropes and string ([Floyd 1954](../references.md#source-Floyd1954), O' Collins & Lamothe 1989, [Bugenhagen & Bugenhagen 2007](../references.md#source-BugenhagenandBugenhagen2007)). On Manus the bark is also used as a wrapping material.
+On New Britain and Manus and in the Siassi Islands the bark fibre of G. gnemon is reported as being used to make ropes and string ([Floyd 1954](../references.md#source-Floyd1954), [O'Collins & Lamothe 1989](../references.md#source-OCollinsandLamothe1989), [Bugenhagen & Bugenhagen 2007](../references.md#source-BugenhagenandBugenhagen2007)). On Manus the bark is also used as a wrapping material.
 
-POc &ast;kusaq 'k.o. edible greens' may have branch with edible flower. denoted G. gnemon, but more widespread reflexes are needed before we can be sure of this. Like the other terms for green vegetables reconstructed in this chapter, reflexes refer to more than one kind of green vegetable.
+POc _&ast;kusaq_ 'k.o. edible greens' may have denoted G. gnemon, but more widespread reflexes are needed before we can be sure of this. Like the other terms for green vegetables reconstructed in this chapter, reflexes refer to more than one kind of green vegetable.
 
-Misima kusai provides evidence for the final &ast;-q of POc &ast;kusaq. Misima has borrowed much of its vocabulary from Suauic dialects: these add paragogic -i after a final consonant, and -i here points to the earlier presence of &ast;-q.
+Misima _kusai_ provides evidence for the final _&ast;-q_ of POc _&ast;kusaq_. Misima has borrowed much of its vocabulary from Suauic dialects: these add paragogic _-i_ after a final consonant, and _-i_ here points to the earlier presence of _&ast;-q_.
 
 
 <a id="p-298"></a>
@@ -438,9 +438,9 @@ Figure 10.4 Polyscias species: A, P. scutellaria, young shoot with small portion
 
 <a id="p-299"></a>
 
-[Peekel](../references.md#source-Peekel1984) ([1984](../references.md#source-Peekel1984): 421-422) describes the first three. P. cumingiana (syn. P. pinnata, P. rumphiana) and P. scutellaria (syn. Nothopanax scutellarium, Crassula scutellaria) are tree-like shrubs respectively 2-5m and 3-6m in height, the leaves of which are used for packing fish for cooking and as a green vegetable. [Hviding](../references.md#source-Hviding2005) ([2005](../references.md#source-Hviding2005): 122) notes that in Marovo the large green and yellow leaves of P. cumingiana are used as ingredient in stews. P.fruticosa (syn. Panax fruticosum, N othopanax fruticosum ), is a smaller shrub, 0.8-3 m high, with smaller leaves. According to [Gardner & Pawley](../references.md#source-GardnerandPawley2006) ([2006](../references.md#source-GardnerandPawley2006)), on Wayajuice extracted from the leaves of Polyscias was dropped into the nostrils as a cure for earache or headache.
+[Peekel](../references.md#source-Peekel1984) ([1984](../references.md#source-Peekel1984): 421-422) describes the first three. P. cumingiana (syn. P. pinnata, P. rumphiana) and P. scutellaria (syn. Nothopanax scutellarium, Crassula scutellaria) are tree-like shrubs respectively 2-5m and 3-6m in height, the leaves of which are used for packing fish for cooking and as a green vegetable. [Hviding](../references.md#source-Hviding2005) ([2005](../references.md#source-Hviding2005): 122) notes that in Marovo the large green and yellow leaves of P. cumingiana are used as ingredient in stews. P.fruticosa (syn. Panax fruticosum, N othopanax fruticosum ), is a smaller shrub, 0.8-3 m high, with smaller leaves. According to [Gardner & Pawley](../references.md#source-GardnerandPawley2006) ([2006](../references.md#source-GardnerandPawley2006)), on Waya juice extracted from the leaves of Polyscias was dropped into the nostrils as a cure for earache or headache.
 
-No POc term is unambiguously reconstmctable, but it is possible that the reflexes below of PSOc &ast;(la)lawis 'Polyscias sp.' may be cognate with Muyuw (PT) (a)lawiluw ([Damon 2004](../references.md#source-Damon2004)) and Lau (SES) lausi, both denoting 'Celtis nymanii', a small tree used in housebuilding and firewood, the leaves of which provide a cure for rheumatism ([Fox 1974](../references.md#source-Fox1974), [Kwa'ioloa & Burt 2001](../references.md#source-KwaioloaandBurt2001): 157-158). If so, then POc &ast;lawis, gloss unknown (a tree-like shub or small tree species), would be reconstructable. Lau lausi presents a problem, however, as it reflects a form &ast;lawisi with final &ast;-sand echo vowel &ast;-i: this is a canonic NW Solomonic form, and we are forced to postulate borrowing into Lau, where such borrowings do not usually occur.
+No POc term is unambiguously reconstructable, but it is possible that the reflexes below of PSOc _&ast;(la)lawis_ 'Polyscias sp.' may be cognate with Muyuw (PT) _(a)lawiluw_ ([Damon 2004](../references.md#source-Damon2004)) and Lau (SES) _lausi_, both denoting 'Celtis nymanii', a small tree used in housebuilding and firewood, the leaves of which provide a cure for rheumatism ([Fox 1974](../references.md#source-Fox1974), [Kwa'ioloa & Burt 2001](../references.md#source-KwaioloaandBurt2001): 157-158). If so, then POc _&ast;lawis_, gloss unknown (a tree-like shub or small tree species), would be reconstructable. Lau _lausi_ presents a problem, however, as it reflects a form _&ast;lawisi_ with final _&ast;-s_ and echo vowel _&ast;-i_: this is a canonic NW Solomonic form, and we are forced to postulate borrowing into Lau, where such borrowings do not usually occur.
 
 <table>
 <tr>
@@ -515,7 +515,7 @@ No POc term is unambiguously reconstmctable, but it is possible that the reflexe
 
 
 
-The items reflecting PNCV &ast;lalaso 'Polyscias scutellaria' (?)below appear to be cognate with Lau, Kwara'ae (SES) lalato 'Xylocarpus granatum' (ch.6, §4.6). However, they are not cognate in the strict sense. Each set of items reflects an independent innovation entailing reduplication of a reflex of POc &ast;lasoR 'testicles'. In the case of Xylocarpus granatum the comparison is with rounded fruit that hang heavily ([Kwa'ioloa & Burt 2001](../references.md#source-KwaioloaandBurt2001): 122). Explain- ing PNCV &ast;lalaso is more problematic. [Lynch](../references.md#source-Lynch2004a) ([2004a](../references.md#source-Lynch2004a)) glosses the reconstruction 'Polyscias scutellaria' on the basis of the gloss of its reflexes in Paamese, Lewo, Apma, Nguna and S Efate. However, its denotation in Mota seems to be the aerial yam, Dioscorea bulbifera (ch.9, §2.1.3), and it is easy to infer a perceived resemblance between testicles and tubers on the vine. If this inference is correct, then D. bulb!fera may have been the PNCV sense of &ast;lalaso, rather than P. scutellaria.
+The items reflecting PNCV _&ast;lalaso_ 'Polyscias scutellaria' (?) below appear to be cognate with Lau, Kwara'ae (SES) _lalato_ 'Xylocarpus granatum' (ch.6, §4.6). However, they are not cognate in the strict sense. Each set of items reflects an independent innovation entailing reduplication of a reflex of POc _&ast;lasoR_ 'testicles'. In the case of Xylocarpus granatum the comparison is with rounded fruit that hang heavily ([Kwa'ioloa & Burt 2001](../references.md#source-KwaioloaandBurt2001): 122). Explaining PNCV _&ast;lalaso_ is more problematic. [Lynch](../references.md#source-Lynch2004a) ([2004a](../references.md#source-Lynch2004a)) glosses the reconstruction 'Polyscias scutellaria' on the basis of the gloss of its reflexes in Paamese, Lewo, Apma, Nguna and S Efate. However, its denotation in Mota seems to be the aerial yam, Dioscorea bulbifera (ch.9, §2.1.3), and it is easy to infer a perceived resemblance between testicles and tubers on the vine. If this inference is correct, then D. bulbifera may have been the PNCV sense of _&ast;lalaso_, rather than P. scutellaria.
 
 <table>
 <tr>
@@ -580,7 +580,7 @@ The items reflecting PNCV &ast;lalaso 'Polyscias scutellaria' (?)below appear to
 ### 3.1. Cyathea spp., B blakpam (Cyatheaceae)
 
 
-Among the many ferns eaten in Melanesia, there is just one tree-fern genus for which a putative POc term has been reconstructed. This is Proto Remote Oceanic &ast;(b,bʷ)ala 'Cyathea'. POc &ast;(b,bʷ)ala is also reconstructed below, but only one cognate has been found outside Remote Oceania: Kove va-vala 'cycad'. This means that we can be reasonably certain that POc _&ast;(b,bʷ)ala_ denoted a tree fern, but we as yet have no way of knowing for certain whether this was a Cycas or a Cyathea. The most widespread tree-fern in the Bismarcks Cyathea contaminans (syn. Alsophila latebrosa), with a stem 5-8 m tall ([Peekel 1984](../references.md#source-Peekel1984): 9), is a good candidate for the denotation of &ast;(b,bʷ)ala, but a better distributed cognate set is needed in order to confirm this. The Nakanai of New Britain ate the fronds of Cyathea spp. and used the trunks to make fishing spears ([Floyd 1954](../references.md#source-Floyd1954)). On Waya Island (western Fiji) the sap of the young parts of this tree-fern was applied externally to cure headaches, and the scales were used to stuff pillows. The pith of the trunk was eaten as famine food ([Gardner & Pawley 2006](../references.md#source-GardnerandPawley2006)).
+Among the many ferns eaten in Melanesia, there is just one tree-fern genus for which a putative POc term has been reconstructed. This is Proto Remote Oceanic _&ast;(b,bʷ)ala_ 'Cyathea'. POc _&ast;(b,bʷ)ala_ is also reconstructed below, but only one cognate has been found outside Remote Oceania: Kove _va-vala_ 'cycad'. This means that we can be reasonably certain that POc _&ast;(b,bʷ)ala_ denoted a tree fern, but we as yet have no way of knowing for certain whether this was a Cycas or a Cyathea. The most widespread tree-fern in the Bismarcks Cyathea contaminans (syn. Alsophila latebrosa), with a stem 5-8 m tall ([Peekel 1984](../references.md#source-Peekel1984): 9), is a good candidate for the denotation of _&ast;(b,bʷ)ala_, but a better distributed cognate set is needed in order to confirm this. The Nakanai of New Britain ate the fronds of Cyathea spp. and used the trunks to make fishing spears ([Floyd 1954](../references.md#source-Floyd1954)). On Waya Island (western Fiji) the sap of the young parts of this tree-fern was applied externally to cure headaches, and the scales were used to stuff pillows. The pith of the trunk was eaten as famine food ([Gardner & Pawley 2006](../references.md#source-GardnerandPawley2006)).
 
 <table>
 <tr>
@@ -699,7 +699,7 @@ S. edule was apparently domesticated long ago, and its several varieties are pro
 
 Figure 10.5 Saccharum edule: A, stand of plants; B, swollen tips ready for market (ca 50cm long); C, stem with suckers; D, semi-mature edible inflorescence.
 
-It is possible that Far East Manggarai, Kepo, Waerana, Razong, Rembong (all CMP) tebor 'Saccharum sp.' ([Verheijen 1990](../references.md#source-Verheijen1990): 240) are cognate with the items below. If it is, then PCEMP &ast;tabuqaR is reconstructable and the reconstruction below is elevated to POc.
+It is possible that Far East Manggarai, Kepo, Waerana, Razong, Rembong (all CMP) _tebor_ 'Saccharum sp.' ([Verheijen 1990](../references.md#source-Verheijen1990): 240) are cognate with the items below. If it is, then PCEMP _&ast;tabuqaR_ is reconstructable and the reconstruction below is elevated to POc.
 
 <table>
 <tr>
@@ -781,7 +781,7 @@ cf. also:
 <td>Motu</td>
 <td><i>tabogana</i></td>
 <td>
-'<span>wild pitpit</span>' (<span>for †tabu(ɣ)a: apparently borrowed</span>)</td>
+'<span>wild pitpit</span>' (<span>for †<em>tabu(ɣ)a</em>: apparently borrowed</span>)</td>
 </tr>
 </table>
 
@@ -803,9 +803,9 @@ cf. also:
 
 Worldwide there are about a thousand species of Ficus, including the common fig, F. carica. Over 500 species occur in the Asia-Pacific region. Many of them have a limited distribution. F. granatum, for example, is limited to Vanuatu, F. scabra to Vanuatu, New Caledonia, Fiji, Tonga and Samoa ([Walter & Sam 2002](../references.md#source-WalterandSam2002): 164, 166). As a consequence, it is difficult to gloss reconstructed terms with their species, as the same term was apparently applied to similar species at different locations. The one distinction that is more easily made is between independently growing species and stranglers.
 
-Independently growing Ficus species are usually of medium size, up to about 15 m tall, and often have edible leaves. Strangler figs, however, sometimes grow to 40 m and form part of the forest canopy. A strangler starts its life as an epiphyte high in a tree where a tiny sticky seed has been deposited in animal droppings. The new seedling grows slowly at first, getting nutrients from leaf litter. It sends out thin roots that snake down the trunk of the host tree or dangle as aerial roots from its branches. When the roots reach the ground they dig in and grow aggressively, competing with the host tree for water and nutrients. The roots form a network that encircles the host and fuses together. As the roots grow thicker they squeeze the host' s trunk, cutting off its nutrient supply. In the canopy the strangler' s leaves grow more densely than the host' s, depriving it of sunlight. Eventually the host dies from strangulation, insufficient sunlight and root competition, and the strangler fig stands on its own. If the host rots away, a hollow centre remains.
+Independently growing Ficus species are usually of medium size, up to about 15 m tall, and often have edible leaves. Strangler figs, however, sometimes grow to 40 m and form part of the forest canopy. A strangler starts its life as an epiphyte high in a tree where a tiny sticky seed has been deposited in animal droppings. The new seedling grows slowly at first, getting nutrients from leaf litter. It sends out thin roots that snake down the trunk of the host tree or dangle as aerial roots from its branches. When the roots reach the ground they dig in and grow aggressively, competing with the host tree for water and nutrients. The roots form a network that encircles the host and fuses together. As the roots grow thicker they squeeze the host's trunk, cutting off its nutrient supply. In the canopy the strangler's leaves grow more densely than the host's, depriving it of sunlight. Eventually the host dies from strangulation, insufficient sunlight and root competition, and the strangler fig stands on its own. If the host rots away, a hollow centre remains.
 
-A salient feature of the genus Ficus is its figs, which technically are not fruits. A fig is a 'false fruit' or multiple fruit, in which the flow1;o:rs and seeds grow together to form a single mass. What is commonly called the 'fruit' of a fig is a syconium, an almost closed receptacle with many small male and female flowers arranged on the inner surface. Technically, the fruit of a fig is one of the many seed-bearing flowers inside the syconium. The syconium typically has a bulbous shape with a small opening at the distal end that gives access to tiny wasps (Agaoninae spp.) that pollinate the flowers in the process of laying their eggs within the syconium, thus enjoying a symbiotic relationship with the fig tree.
+A salient feature of the genus Ficus is its figs, which technically are not fruits. A fig is a 'false fruit' or multiple fruit, in which the flowers and seeds grow together to form a single mass. What is commonly called the 'fruit' of a fig is a syconium, an almost closed receptacle with many small male and female flowers arranged on the inner surface. Technically, the fruit of a fig is one of the many seed-bearing flowers inside the syconium. The syconium typically has a bulbous shape with a small opening at the distal end that gives access to tiny wasps (Agaoninae spp.) that pollinate the flowers in the process of laying their eggs within the syconium, thus enjoying a symbiotic relationship with the fig tree.
 
 The literature reports numerous instances of the bark, the latex or the leaves of one or other Ficus species being used for medicinal purposes. On Vanua Lava (Banks Islands, Vanuatu) latex from Artocarpus altilis and Ficus adenosperma is mixed as a potion against excessive menstrual discharge ([Bourdy & Walter 1994](../references.md#source-BourdyandWalter1994)). On Chuuk the bark of Ficus prolixa is used as medicine against evil spirits, its fruits and leaves used as medicine, and its roots are used to flavor a special breadfruit pudding ([Goodenough & Sugita 1980](../references.md#source-GoodenoughandSugita1980)). On Lihir the leaves are heated and rubbed on painful joints, bones, muscles. They can also be used to heal sickness after eating the wrong kind of fish. They also have ritual power, and are used to make parcels containing several other types of medicinal leaves (S. [Foale 2001](../references.md#source-Foale2001)).
 
@@ -814,11 +814,11 @@ The inner bark of Ficus species is used in New Britain for male garments, and ol
 
 <a id="p-303"></a>
 
-Three POc terms for apparently superordinate Ficus taxa are reconstructable: &ast;nunuk, &ast;qayawan and &ast;ba[k,g]a.
+Three POc terms for apparently superordinate Ficus taxa are reconstructable: _&ast;nunuk_, _&ast;qayawan_ and _&ast;ba[k,g]a_.
 
-POc &ast;nunuk denoted either a taxon including all Ficus species known to POc speakers or a taxon including just small freestanding species; it is unclear which. The fact that Peekel does not give Tolai nunu as the name for any of the 16 species for which he provides vernacular names implies that it is a generic term for all Ficus. On the other hand, the fact that the more carefully specified glosses other than Lou denote small freestanding species (F. aspera, F. subulata and F. vitiensis) suggests the latter.
+POc _&ast;nunuk_ denoted either a taxon including all Ficus species known to POc speakers or a taxon including just small freestanding species; it is unclear which. The fact that Peekel does not give Tolai _nunu_ as the name for any of the 16 species for which he provides vernacular names implies that it is a generic term for all Ficus. On the other hand, the fact that the more carefully specified glosses other than Lou denote small freestanding species (F. aspera, F. subulata and F. vitiensis) suggests the latter.
 
-[Mahdi](../references.md#source-Mahdi1999) ([1999](../references.md#source-Mahdi1999)) suggests either that &ast;nunuk reflects the same root as that in POc &ast;[qa]nunu 'shadow' or that some Oceanic terms for Ficus species reflect&ast;[qa]nunu rather than &ast;nunuk, but I see no evidence for either proposal.
+[Mahdi](../references.md#source-Mahdi1999) ([1999](../references.md#source-Mahdi1999)) suggests either that _&ast;nunuk_ reflects the same root as that in POc _&ast;[qa]nunu_ 'shadow' or that some Oceanic terms for Ficus species reflect _&ast;[qa]nunu_ rather than _&ast;nunuk_, but I see no evidence for either proposal.
 
 <table>
 <tr>
@@ -899,7 +899,7 @@ POc &ast;nunuk denoted either a taxon including all Ficus species known to POc s
 
 
 
-It is probable that &ast;qayawan denoted a strangler fig taxon. The Gedaged, Kara, Tolai and Patpatar reflexes each denote a taxon of strangler figs: Ficus benjamina ('weeping fig, Java fig, Java willow' ), F. katabibi and F. rebareba are described by [Peekel](../references.md#source-Peekel1984) ([1984](../references.md#source-Peekel1984): 139) as stranglers.4 The Micronesian and Niuean reJflexes denote F. prolixa, also a strangler. Kara, Tolai and Patpatar are located in New Ireland, i.e. in the Oceanic heartland of the Bismarcks, and I assume that they are likely to retain the original sense of &ast;qayawan, whereas F. tinctoria (Muyuw, Wayan) and F. pritchardii (Wayan), neither of them stranglers, are more likely to reflect shifts in denotation. Whether POc &ast;qayawan denoted a taxon which included all strangler fig species or just a subset, we cannot tell.
+It is probable that _&ast;qayawan_ denoted a strangler fig taxon. The Gedaged, Kara, Tolai and Patpatar reflexes each denote a taxon of strangler figs: Ficus benjamina ('weeping fig, Java fig, Java willow'), F. katabibi and F. rebareba are described by [Peekel](../references.md#source-Peekel1984) ([1984](../references.md#source-Peekel1984): 139) as stranglers.[^4] The Micronesian and Niuean reflexes denote F. prolixa, also a strangler. Kara, Tolai and Patpatar are located in New Ireland, i.e. in the Oceanic heartland of the Bismarcks, and I assume that they are likely to retain the original sense of _&ast;qayawan_, whereas F. tinctoria (Muyuw, Wayan) and F. pritchardii (Wayan), neither of them stranglers, are more likely to reflect shifts in denotation. Whether POc _&ast;qayawan_ denoted a taxon which included all strangler fig species or just a subset, we cannot tell.
 
 <table>
 <tr>
@@ -1003,7 +1003,7 @@ It is probable that &ast;qayawan denoted a strangler fig taxon. The Gedaged, Kar
 <tr>
 <td>PT</td><td>Muyuw</td><td><i>(a)gi-gaway</i></td>
 <td>
-'<span>Ficus tinctoria (metathesis &lt; *gayaw)</span>'</td>
+'<span>Ficus tinctoria (metathesis &lt; <em>*gayaw</em>)</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td>Tawala</td><td><i>kiyaha</i></td>
@@ -1018,7 +1018,7 @@ It is probable that &ast;qayawan denoted a strangler fig taxon. The Gedaged, Kar
 <tr>
 <td>MM</td><td>Tolai</td><td><i>kiau, kuiau</i></td>
 <td>
-'<span>Ficus benjamina, F. katabibi, F. rebareba, F. prolixa</span>' (<a href="../references.md#source-Record1945">Record1945: kuiau 'F. indica'</a>)
+'<span>Ficus benjamina, F. katabibi, F. rebareba, F. prolixa</span>' (<a href="../references.md#source-Record1945">Record1945: _kuiau_ 'F. indica'</a>)
 </td>
 </tr>
 <tr>
@@ -1126,23 +1126,16 @@ It is probable that &ast;qayawan denoted a strangler fig taxon. The Gedaged, Kar
 
 <a id="p-304"></a>
 
-POc &ast;qayawan also seems to have a second set of reflexes in Micronesia. A putative PMic &ast;kawani 'Ficus sp.' can be reconstructed. However, the correspondences here-especially the word-final reflexes of &ast;n-indicate that this is an early borrowing via the Caroline Islands from a western Austronesian language.
+POc _&ast;qayawan_ also seems to have a second set of reflexes in Micronesia. A putative PMic _&ast;kawani_ 'Ficus sp.' can be reconstructed. However, the correspondences here - especially the word-final reflexes of _&ast;n_ - indicate that this is an early borrowing via the Caroline Islands from a western Austronesian language.
 
 
 <a id="p-305"></a>
 
-|      |            |          |                   |
-|:-----|:-----------|:---------|:------------------|
-| Mic: | Kosraean   | kɔn(-yɛ) | 'banyan tree'     |
-| Mic: | Chuukese   | əwə̄r    | 'Ficus tinctoria' |
-| Mic: | Puluwatese | yawann   | 'banyan'          |
-| Mic: | Satawalese | awal     | 'banyan'          |
-| Mic: | Woleaian   | gewann   | 'banyan'          |
-| Mic: | Ulithian   | howe!    | 'banyan'          |
+__formgroup__ Mic:   Kosraean        kɔn(-yɛ)        'banyan tree' Mic:   Chuukese        əwə̄r            'Ficus tinctoria' Mic:   Puluwatese      yawann          'banyan' Mic:   Satawalese      awal            'banyan' Mic:   Woleaian        gewann          'banyan' Mic:   Ulithian        howe!           'banyan'
 
-POc &ast;ba[k,g]a denoted a taxon of freestanding, medium-sized Ficus species. Denotata of reflexes include F. nodosa, F. wassa, F. prolixa, F. obliqua, F. mutabilis and F. tinctoria, none of them stranglers. [^6]
+POc _&ast;ba[k,g]a_ denoted a taxon of freestanding, medium-sized Ficus species. Denotata of reflexes include F. nodosa, F. wassa, F. prolixa, F. obliqua, F. mutabilis and F. tinctoria, none of them stranglers. [^6]
 
-The items under 'cf. also' are probably not cognate. Three of them point to a term for a nut tree, a species of either Canarium or Terminalia, but data are insufficient to reconstruct this term. [Mahdi](../references.md#source-Mahdi1999) ([1999](../references.md#source-Mahdi1999)) suggests that this term is cognate with Western Malaya-Polynesian terms reflecting a putative &ast;pakat 'root'.
+The items under 'cf. also' are probably not cognate. Three of them point to a term for a nut tree, a species of either Canarium or Terminalia, but data are insufficient to reconstruct this term. [Mahdi](../references.md#source-Mahdi1999) ([1999](../references.md#source-Mahdi1999)) suggests that this term is cognate with Western Malaya-Polynesian terms reflecting a putative _&ast;pakat_ 'root'.
 
 <table>
 <tr>
@@ -1331,7 +1324,7 @@ Figure 10.6 Left Ficus copiosa: A, tree; B, shoot with leaves; C, leaf; D, figs 
 ### 4.2. Ficus copiosa and F. wassa, sandpaper cabbage, sandpaper fig, TP kumu musong (Moraceae)
 
 
-[Bourke](../references.md#source-Bourkend) ([n.d.](../references.md#source-Bourkend)) names three lowland indigenous Ficus species in Papua New Guinea that have edible figs: F. copiosa (TP kumu musong), F. wassa and F. tinctoria. They are small freestanding trees or shrubs and grow both in the highlands and in the lowlands. The three species are self-sown and there is no evidence of cultivation in Papua New Guinea. The figs of the three species are eaten, particularly those of F. copiosa, which are eaten raw. However, the main food product of these species in Papua New Guinea, and again especially of F. copiosa, is their young leaves, which are used as a green vegetable (in Papua New Guinea by about one-third of the rural population; [Bourke & Allen forthcoming](../references.md#source-BourkeandAllenforthcoming)). The Tok Pisin term kumu musong means 'hairy greens'.
+[Bourke](../references.md#source-Bourkend) ([n.d.](../references.md#source-Bourkend)) names three lowland indigenous Ficus species in Papua New Guinea that have edible figs: F. copiosa (TP kumu musong), F. wassa and F. tinctoria. They are small freestanding trees or shrubs and grow both in the highlands and in the lowlands. The three species are self-sown and there is no evidence of cultivation in Papua New Guinea. The figs of the three species are eaten, particularly those of F. copiosa, which are eaten raw. However, the main food product of these species in Papua New Guinea, and again especially of F. copiosa, is their young leaves, which are used as a green vegetable (in Papua New Guinea by about one-third of the rural population; [Bourke & Allen forthcoming](../references.md#source-BourkeandAllenforthcoming)). The Tok Pisin term _kumu musong_ means 'hairy greens'.
 
 
 <a id="p-307"></a>
@@ -1340,9 +1333,9 @@ F. copiosa and F. wassa are similar (Figure 10.6). Both rejoice in the name 'san
 
 F. copiosa (syn. F. longipedunculata, F. acanthrophylla) has twigs covered in bristles ([Peekel 1984](../references.md#source-Peekel1984): 141). It grows widely in New Guinea, the Bismarcks and the Solomons. In Marovo F. copiosa is traditionally an important leaf vegetable, and young leaves and shoots are either cooked in coconut cream or mixed with crushed smoked Canarium nuts ([Hviding 2005](../references.md#source-Hviding2005): 138).
 
-F. wassa (syn. F. portus-finschii, F. papus (Peekel), F. uauasie (Peekel) is a tree 5-20 m tall with twigs that are hairy and pungent and figs that tum red when ripe (Peekel1984: 141). It is found from eastern Indonesia through New Guinea, the Bismarcks and the Solomons to Vanuatu ([Walter & Sam 2002](../references.md#source-WalterandSam2002): 168). The leaves of the wild trees are cooked as a vegetable in Papua New Guinea, the Solomons and Vanuatu ([Henderson & Hancock 1988](../references.md#source-HendersonandHancock1988): 125, [Wheatley 1992](../references.md#source-Wheatley1992): 170--172). In Vanuatu green figs are 1eaten cooked. Figs ripen quickly, and must be eaten immediately. Lactating women regularly eat the leaves, which are said to stimulate milk production ([Walter & Sam 2002](../references.md#source-WalterandSam2002): 168-169).
+F. wassa (syn. F. portus-finschii, F. papus (Peekel), F. uauasie (Peekel) is a tree 5-20 m tall with twigs that are hairy and pungent and figs that turn red when ripe ([Peekel 1984](../references.md#source-Peekel1984): 141). It is found from eastern Indonesia through New Guinea, the Bismarcks and the Solomons to Vanuatu ([Walter & Sam 2002](../references.md#source-WalterandSam2002): 168). The leaves of the wild trees are cooked as a vegetable in Papua New Guinea, the Solomons and Vanuatu ([Henderson & Hancock 1988](../references.md#source-HendersonandHancock1988): 125, [Wheatley 1992](../references.md#source-Wheatley1992): 170--172). In Vanuatu green figs are eaten cooked. Figs ripen quickly, and must be eaten immediately. Lactating women regularly eat the leaves, which are said to stimulate milk production ([Walter & Sam 2002](../references.md#source-WalterandSam2002): 168-169).
 
-There is enough agreement among the meanings of reflexes of POc &ast;iguRa to suggest that it had sandpapery leaves and denoted ei1cher F. copiosa or F. wassa or both.
+There is enough agreement among the meanings of reflexes of POc _&ast;iguRa_ to suggest that it had sandpapery leaves and denoted either F. copiosa or F. wassa or both.
 
 <table>
 <tr>
@@ -1389,7 +1382,7 @@ There is enough agreement among the meanings of reflexes of POc &ast;iguRa to su
 
 
 
-POc &ast;pʷabosi is the most likely candidate for a term denoting F. wassa. All named reflexes denote a small or medium-sized freestanding Ficus sp. The set below, from which I tentatively reconstruct POc &ast;pʷabosi, contains some doublets and a number of phonological irregularities, especially in regard to the bilabials. I infer that the two POc bilabials were not identical, but that assimilation has operated to make them so in several reflexes. Doublets are probably the outcomes of local borrowings. An interstage ancestral to Solos, Petats and probably Teop replaced the initial bilabial obstruent with &ast;u-.
+POc _&ast;pʷabosi_ is the most likely candidate for a term denoting F. wassa. All named reflexes denote a small or medium-sized freestanding Ficus sp. The set below, from which I tentatively reconstruct POc _&ast;pʷabosi_, contains some doublets and a number of phonological irregularities, especially in regard to the bilabials. I infer that the two POc bilabials were not identical, but that assimilation has operated to make them so in several reflexes. Doublets are probably the outcomes of local borrowings. An interstage ancestral to Solos, Petats and probably Teop replaced the initial bilabial obstruent with _&ast;u-_.
 
 <table>
 <tr>
@@ -1426,7 +1419,7 @@ POc &ast;pʷabosi is the most likely candidate for a term denoting F. wassa. All
 <tr>
 <td>MM</td><td>Nakanai</td><td><i>vovosi</i></td>
 <td>
-'<span>Ficus sp., with edible leaves</span>' (<span>-v- fort-b-</span>)</td>
+'<span>Ficus sp., with edible leaves</span>' (<span><em>-v-</em> for †<em>-b-</em></span>)</td>
 </tr>
 <tr>
 <td>MM</td><td>Kara (East)</td><td><i>[ka]pavus</i></td>
@@ -1518,7 +1511,7 @@ POc &ast;pʷabosi is the most likely candidate for a term denoting F. wassa. All
 
 <a id="p-308"></a>
 
-POc &ast;qa(l,R)a may have been another term for Ficus copiosa (§4.2).
+POc _&ast;qa(l,R)a_ may have been another term for Ficus copiosa (§4.2).
 
 <table>
 <tr>
@@ -1585,7 +1578,7 @@ POc &ast;qa(l,R)a may have been another term for Ficus copiosa (§4.2).
 
 Ficus tinctoria is an erect shrub 2-4 m tall with yellow-orange or red edible figs, found on coral rocks and cliffs on the foreshore or inland in coral soil. It is distributed from India and China through SE Asia, New Guinea and right through the islands as far as western Polynesia, but is absent from New Caledonia ([Peekel 1984](../references.md#source-Peekel1984): 147, [Walter & Sam 2002](../references.md#source-WalterandSam2002): 169). Its leaves are a green vegetable in Papua New Guinea ([Bourke n.d.](../references.md#source-Bourkend)).
 
-POc &ast;tmJa appears to have denoted F. tinctoria. This is its meaning in New Ireland. In southern Vanuatu it denotes F. granatum, another medium-sized freestanding species with edible figs, limited in its distribution to Vanuatu ([Walter & Sam 2002](../references.md#source-WalterandSam2002): 163-164).
+POc _&ast;taŋa_ appears to have denoted F. tinctoria. This is its meaning in New Ireland. In southern Vanuatu it denotes F. granatum, another medium-sized freestanding species with edible figs, limited in its distribution to Vanuatu ([Walter & Sam 2002](../references.md#source-WalterandSam2002): 163-164).
 
 <table>
 <tr>
@@ -1652,7 +1645,7 @@ POc &ast;tmJa appears to have denoted F. tinctoria. This is its meaning in New I
 
 
 
-POc &ast;(c,j )api appears to have denoted a species with edible leaves, possibly F. tinctoria.
+POc _&ast;(c,j)api_ appears to have denoted a species with edible leaves, possibly F. tinctoria.
 
 <table>
 <tr>
@@ -1695,7 +1688,7 @@ POc &ast;(c,j )api appears to have denoted a species with edible leaves, possibl
 
 The reconstructions below denote Ficus species, but it is not usually certain which one(s).
 
-It is possible that POc &ast;seRa denoted Ficus adenosperma, a freestanding tree 5-15 m tall with green or yellow figs that are eaten in times of food shortage in some communities (Peekel1984: 147; [Walter & Sam 2002](../references.md#source-WalterandSam2002): 169).
+It is possible that POc _&ast;seRa_ denoted Ficus adenosperma, a freestanding tree 5-15 m tall with green or yellow figs that are eaten in times of food shortage in some communities ([Peekel 1984](../references.md#source-Peekel1984): 147; [Walter & Sam 2002](../references.md#source-WalterandSam2002): 169).
 
 <table>
 <tr>
@@ -1730,7 +1723,7 @@ It is possible that POc &ast;seRa denoted Ficus adenosperma, a freestanding tree
 
 
 
-POc &ast;bauRa may have denoted a species of strangler fig.
+POc _&ast;bauRa_ may have denoted a species of strangler fig.
 
 <table>
 <tr>
@@ -1760,7 +1753,7 @@ POc &ast;bauRa may have denoted a species of strangler fig.
 
 
 
-The glosses give no real clue to the denotatum of POc &ast;ka(mʷa)-kamʷa, other than that it was perhaps a freestanding species.
+The glosses give no real clue to the denotatum of POc _&ast;ka(mʷa)-kamʷa_, other than that it was perhaps a freestanding species.
 
 <table>
 <tr>
@@ -1790,7 +1783,7 @@ The glosses give no real clue to the denotatum of POc &ast;ka(mʷa)-kamʷa, othe
 
 
 
-The gloss of PNCV &ast;buliva is clearly Ficus scabra (a species found only in central and souther Vanuatu, New Caledonia, Fiji and w1estem Polynesia; [Walter & Sam 2002](../references.md#source-WalterandSam2002): 166), but the denotation of PEOc &ast;bulipa remains unclear.
+The gloss of PNCV _&ast;buliva_ is clearly Ficus scabra (a species found only in central and souther Vanuatu, New Caledonia, Fiji and western Polynesia; [Walter & Sam 2002](../references.md#source-WalterandSam2002): 166), but the denotation of PEOc &ast;bulipa remains unclear.
 
 
 <a id="p-310"></a>
@@ -1924,16 +1917,16 @@ The gloss of PNCV &ast;buliva is clearly Ficus scabra (a species found only in c
 
 ## Notes
 
-[^1]: The antiquity in New Guinea of A. dubius, also ofSE Asian origin, is unknown; [Bourke & Allen forthcoming](../references.md#source-BourkeandAllenforthcoming).
+[^1]: The antiquity in New Guinea of A. dubius, also of SE Asian origin, is unknown; [Bourke & Allen forthcoming](../references.md#source-BourkeandAllenforthcoming).
 
-[^2]: In her publications Chowning cites the alternant tavuahi.
+[^2]: In her publications Chowning cites the alternant _tavuahi_.
 
 [^3]: Walter and Sam gloss this as 'F. adenosperma' in their appendix of vernacular names. This seems to be an editorial error, as F. aspera is the species described in the body of the book (161- 162).
 
 [^4]: F. katabibi and F. rebareba are Peekel's temporary names: I have found them nowhere else in the literature.
 
-[^5]: [Bender et al.](../references.md#source-Benderetal1983) ([1983](../references.md#source-Benderetal1983)) use the gloss F. carolinensis, but Ddilipps et al. (1988) list this as a variety of F. prolixa.
+[^5]: [Bender et al.](../references.md#source-Benderetal1983) ([1983](../references.md#source-Benderetal1983)) use the gloss F. carolinensis, but [Defilipps et al.](../references.md#source-Defilippsetal1988) ([1988](../references.md#source-Defilippsetal1988)) list this as a variety of F. prolixa.
 
-[^6]: F. obliqua may be freestanding or a strangler. F. bengalensis (if it is correctly identified), is a recent introduc- tion.
+[^6]: F. obliqua may be freestanding or a strangler. F. bengalensis (if it is correctly identified), is a recent introduction.
 
 [^7]: One of these forms, probably papus, is presumably a borrowing.

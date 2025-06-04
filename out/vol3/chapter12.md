@@ -2582,7 +2582,7 @@ PSV &ast;n<J-vutoy 'brain' ([Lynch 2001c](../references.md#source-Lynch2001c))
 
 Fibre from coconut husks ('coir' < Malay kayar 'rope') is used for floor matting, brushes, ropes and strainers. Husks and shells are used for fuel. 17 Most Oceanic languages have distinct terms for the husk of coconuts, probably reflecting its importance for cordage and for fuel ([Firth 1985](../references.md#source-Firth1985): 369). For example, in Kiribati there are names for all the operations involved in making string from benu 'coconut husk (for making string)', namely tao-benu 'soaking the benu'; tae-benu 'taking it out of the soaking pit'; tiri-benu 'beating the benu to clean it'; ake-ake or ake-a te benu 'to hackle it'; bo-binoka 'to arrange benu ready for twisting'; kakano 'twist the benu on thigh to make string' ([Sabatier 1971](../references.md#source-Sabatier1971): 63).
 
-Doublet forms, POc &ast;punut and &ast;pʷenu(t), both 'coconut husk', appear to be reconstructable. Blust (ACD) also reconstructs the PMP doublets &ast;bunut and &ast;benut. PMP &ast;bunut is clearly the source of POc &ast;punut, but PMP &ast;benut is just as clearly not the source of &ast;pʷenu(t), as its expected POc reflex would be t&ast;ponut. Inst1~ad, &ast;pʷenu(t) reflects a shift of the rounding feature of &ast;-u- forward to &ast;p-. The change is not regular, and perhaps the result of vowel dissimilation. The Nduke, Bugotu, Gela, Longgu and Puluwatese point to an initial labiovelar.
+Doublet forms, POc &ast;punut and &ast;pʷenu(t), both 'coconut husk', appear to be reconstructable. Blust (ACD) also reconstructs the PMP doublets &ast;bunut and &ast;benut. PMP &ast;bunut is clearly the source of POc &ast;punut, but PMP &ast;benut is just as clearly not the source of &ast;pʷenu(t), as its expected POc reflex would be †&ast;ponut. Inst1~ad, &ast;pʷenu(t) reflects a shift of the rounding feature of &ast;-u- forward to &ast;p-. The change is not regular, and perhaps the result of vowel dissimilation. The Nduke, Bugotu, Gela, Longgu and Puluwatese point to an initial labiovelar.
 
 <table>
 <tr>
@@ -2724,7 +2724,7 @@ Evidence for the word-final &ast;t of POc &ast;pʷenu(t) is indirect. The Nduke 
 <tr>
 <td>MM</td><td>Nduke</td><td><i>pe-penete-</i></td>
 <td>
-'<span>husk of a mature coconut; thick coir or fibre that makes up the inside of the husk</span>' (<span>for tpenutu</span>)</td>
+'<span>husk of a mature coconut; thick coir or fibre that makes up the inside of the husk</span>' (<span>for †_penutu</span>)</td>
 </tr>
 <tr>
 <td>MM</td><td>Maringe</td><td><i>pʷetu</i></td>
@@ -3378,7 +3378,7 @@ Modern languages tend to have a distinctive term for the midrib or spine of a co
 <tr>
 <td>Adm</td><td>Loniu</td><td><i>palapa</i></td>
 <td>
-'<span>branch, especially of palm tree</span>' (<span>for tpalaha</span>)</td>
+'<span>branch, especially of palm tree</span>' (<span>for †_palaha</span>)</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>palalafa</i></td>

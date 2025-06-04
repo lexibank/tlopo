@@ -312,7 +312,7 @@ If a POc plant name has cognates in eastern Indonesia, especially in EMP languag
 &ast;bulipa                  'Ficus sp.'
 &ast;gama                    'Finschia cloroxantha'
 &ast;(k)a(r,ŋadroŋa        'Acalypha sp.'
-&ast;koka                    'tree sp., Bischofiajavanica'
+&ast;koka                    'tree sp., Bischofia javanica'
 &ast;mabʷe                   'Tahitian chestnut, I nocarpus fagifer'
 &ast;melo                    'Elaeocarpus angustifolius'
 &ast;milo                    'Thespesia populnea'
