@@ -76,12 +76,12 @@ It is not nutrition that drives the desire to produce the largest and the most y
 
 <a id="p-259"></a>
 
-Figure 9.1     Growth habit of three yam (Dioscorea) species
+Figure 9.1: Growth habit of three yam (Dioscorea) species
 
 
 <a id="p-260"></a>
 
-Figure 9.2    Yam (Dioscorea alata) tuber shapes
+Figure 9.2: Yam (Dioscorea alata) tuber shapes
 
 The most widely reflected term for D. alata is POc _&ast;qupi_, which is also widely reflected in a second sense as the generic term for yams.
 
@@ -1200,7 +1200,7 @@ A search for languages in which reflexes of _&ast;talo(s)_ and _&ast;mʷapo(q)_ 
 
 <a id="p-268"></a>
 
-Figure 9.3   Taro (Araceae) genera and Amorphophallus: growth habit
+Figure 9.3: Taro (Araceae) genera and Amorphophallus: growth habit
 
 <table>
 <tr>
@@ -1737,7 +1737,7 @@ For the Micronesian names of T. leontopetaloides, however, no origin has been fo
 
 9.2.3.3 Pueraria lobata (syn. P. novo-guineensis, P. thunbergiana, P. triloba, P. hirsuta, P. neo-caledonica, Pachyrrhizus trilobus, P. montanus, P. Dolichos hirsutus, D. tuberosus, D. lobatus) (Fabaceae)
 
-Figure 9.4 Tuber and plant parts of Pueraria lobata
+Figure 9.4: Tuber and plant parts of Pueraria lobata
 
 Pueraria species are half-woody lianas, 3-5m high, with stems covered in hairs, brown on older parts, rust-yellow to white on younger. The bast is used to make yam for rope, fishing lines and fish nets. One species, P.lobata (with an enormous number of synonyms), is found as far east as Samoa.
 
@@ -1861,7 +1861,7 @@ A for the various subspecies of Musa acuminata, B for those of M. balbisiana, S 
 
 Biomolecular study confirms these sections and is currently bringing about a revision of ideas about the archaeobotany of bananas, which is considerably more complicated than previously thought (J. [Kennedy forthcoming](../references.md#source-Kennedyforthcoming)). The transformation from wild to cultivated edible bananas occurred independently in the two sections. The wild species of the section Musa that have contributed to edible bananas are found over a region stretching from eastern India and Sri Lanka through island SE Asia into the NW Melanesia as far as the Solomons, but the fact that New Guinea is home to many highly diverse diploid AA cultivars makes it the probable area of their domestication. Wild Callimusa species are confined to a region stretching from Halmahera to the Solomons, indicating that NW Melanesia was the region where Callimusa bananas were also first domesticated.
 
-Figure 9.5 Traditional (diploid) banana plant
+Figure 9.5: Traditional (diploid) banana plant
 
 J. [Kennedy](../references.md#source-Kennedy2008) ([2008](../references.md#source-Kennedy2008)) points out that all bananas east of the Solomons were carried there by settlers. These belong to three distinct lineages. The first consists of so-called _Fe'i_ bananas, hybrids among several Callimusa species (and the world's only edible Callimusa bananas). The other two, both known as 'Pacific plantains', are derived from Musa species. One involves M. acuminata, subspecies banksii, endemic to New Guinea, and the other is a cross between the M. acuminata subspecies banksii and errans, the latter endemic to the Philippines. _Fe'i_ bananas and banksii derivatives both originated in New Guinea, but the site of banksii/errans hybridisation is unknown. Archaeological evidence from Kuk in the New Guinea Highlands indicates that edible diploids derived from M. acuminata banksii were under cultivation by 7000 years ago, but the origins of _Fe'i_ bananas and banksii/errans hybrids cannot be dated. The geographic and chronological unknowns do not exclude the possibility that all three lineages were carried into the Pacific by early Oceanic speakers, but they do not confirm it either.
 
@@ -2391,7 +2391,7 @@ Names for the various parts of the banana plant are discussed in chapter 4. Some
 ## 4. Artocarpus altilis (syn. A. communis! A. incisus), breadfruit, TP kapiak, P beletiutu (Moraceae)
 
 
-Figure 9.6      Fruit, leaves and sections of breadfruit, Artocarpus altilis
+Figure 9.6: Fruit, leaves and sections of breadfruit, Artocarpus altilis
 
 Breadfruit trees grow throughout the Oceanic-speaking region, except for New Zealand and the Chatham Islands. Breadfruit tend to be co-staples with other starchy foods, providing starch when the other staples are out of season and vice versa. In Melanesia it is most significant as a staple in the Temotu Province of the Solomons, but is also important in SE Papua, the Bismarcks and Bougainville,[^22] on the coasts of the islands of Vanuatu, in Micronesia, in Fiji and in parts of Polynesia ([Henderson & Hancock 1988](../references.md#source-HendersonandHancock1988):36, [Walter & Sam 2002](../references.md#source-WalterandSam2002): 107-108).
 
@@ -3116,7 +3116,7 @@ It seems probable that sago starch was consumed by POc speakers. The POc homelan
 
 <a id="p-287"></a>
 
-Figure 9.7   Extracting the starch from a sago trunk
+Figure 9.7: Extracting the starch from a sago trunk
 
 It is probably true to say that in Oceanic-speaking communities sago is only a staple where a marshy environment causes other staples to be in short supply. Except at locations in the Admiralties, it is always a supplement to garden staples, not a replacement. Although there are communities in New Guinea which get their sago entirely from natural palm stands, Oceanic-speaking communities probably also plant palms from suckers (transplanting seedlings is rare; [Rhoads 1986](../references.md#source-Rhoads1986)).
 
@@ -3310,7 +3310,7 @@ C. rumphii also has a variety of other uses. Its bark sap is reported as a wood 
 
 Various parts of the plant are used to cover small wounds and tropical ulcers. In the Bismarcks it is the resin of the fruit ([Peekel 1984](../references.md#source-Peekel1984): 35, [Holdsworth et al. 1982](../references.md#source-Holdsworthetal1982)); in the Morobe Province of Papua New Guinea, the raw seeds (Barrau 1965); among Drehet speakers in Manus, it is sap obtained by cutting a notch in the bark ([Beard n.d.](../references.md#source-Beardnd)); on Santa Ana (Solomons), the pulp of a scraped fruit. In the Reefs a bark preparation is used to treat a stomach ailment ([Henderson & Hancock 1988](../references.md#source-HendersonandHancock1988): 140).
 
-Figure 9.8 Cycas rumphii: A, plant with fronds removed to show fruit; B, apex of leaf wiili leaflets; C, fruit; D, single fruit, longitudinal section.
+Figure 9.8: Cycas rumphii: A, plant with fronds removed to show fruit; B, apex of leaf wiili leaflets; C, fruit; D, single fruit, longitudinal section.
 
 Barrau's assertion that C. rumphii played an important role in earlier Oceanic cultures receives some support from the fact that several terms for it are reconstructable: POc _&ast;(p,pʷ)atoRu_ and _&ast;bai-bai(t)_, PEOc _&ast;mʷa(q)ele_ and PCP _&ast;loŋo-loŋo_. The geographic distributions of these terms scarcely overlap.
 

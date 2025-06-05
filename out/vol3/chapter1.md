@@ -149,8 +149,8 @@ The strength of a lexical reconstruction rests crucially on the distribution of 
 
 The rake-like form of Figure 1.2 almost certainly reflects the very rapid settlement of Oceania out of the Bismarcks,[^16] but it confronts us with a methodological question. If we follow the rubric that we make a reconstruction if a cognate set occurs in languages of just two primary subgroups, then reflexes of an etymon in, say, a SE Solomonic language and a Micronesian language would be sufficient evidence for a POc reconstruction and the absence of reflexes in Admiralty and Western Oceanic would be irrelevant. Given what we know about the location of the POc homeland (in the Bismarcks; vol.2, ch.2) and the early eastward spread of Oceanic speakers, this is too loose a criterion. Instead, we assume two hypothetical nodes not shown in the tree in Figure 1.2.[^17] These are
 
-- • Remote Oceanic, comprising Southern Oceanic, Micronesian and Central Pacific;
-- • Eastern Oceanic, comprising SE Solomonic and Remote Oceanic.[^18]
+- Remote Oceanic, comprising Southern Oceanic, Micronesian and Central Pacific;
+- Eastern Oceanic, comprising SE Solomonic and Remote Oceanic.[^18]
 
 ."
 

@@ -1076,7 +1076,7 @@ Oceanic speaking communities exploiting reefs and mangrove swamps typically dist
 
 <a id="p-172"></a>
 
-Figure 4.3 Scylla serrata, mangrove crab
+Figure 4.3:Scylla serrata, mangrove crab
 
 4.3.5.1 _Portunidae_, mangrove and swimming crabs
 
@@ -3294,9 +3294,9 @@ There are ten pretty secure POc reconstructions for kinds of bivalves: _&ast;jap
 
 <a id="p-189"></a>
 
-Figure 4.6   Left to right Univalve shells: turban, trochus, cone, murex
+Figure 4.6:Left to right Univalve shells: turban, trochus, cone, murex
 
-Figure 4.7   _Tridacna gigas_, giant clam
+Figure 4.7:_Tridacna gigas_, giant clam
 
 4.4.5.1 Tridacninae, giant clams
 
@@ -6201,7 +6201,7 @@ Oceanic languages generally have a generic name for living corals of the branchi
 
 4.6.3 _Scyphozoa_, _Ctenophora_ and _Hydrozoa_: true jellyfish, comb jellyfish and hydroids
 
-Figure 4.10   _Physalis sp._, Portuguese man o’ war
+Figure 4.10:_Physalis sp._, Portuguese man o’ war
 
 True jellyfish (_Scyphozoa_) are members of the _Cnidaria_, whose tentacles face down. They represent the medusa or free-swimming phase of _Scyphozoa_, preceding their polyp phase. _Ctenophora_, comb jellyfish, are colourless, oval blobs of jelly that float slowly. _Hydrozoa_ are polyps which form fuzz-like colonies on rocks, after a brief phase as a free-swimming organism. This group includes fire corals, hydroids and siphonophores. Hydroids are feathery colonial organisms growing on the surface of coral.
 

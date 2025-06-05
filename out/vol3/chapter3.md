@@ -82,7 +82,7 @@ As in many Oceanic languages, in Wayan there is no single lexical item that conv
 
 <a id="p-59"></a>
 
-Figure 3.2      A partial ethnobotanical taxonomy of Wayan Fijian
+Figure 3.2: A partial ethnobotanical taxonomy of Wayan Fijian
 
 _kai_
 :   1. Wood
@@ -246,14 +246,14 @@ _sīlā_
 
 <a id="p-62"></a>
 
-Figure 3.3  A partial plant taxonomy of Wayan Fijian, showing taxonomic depth of some cultivated food plants
+Figure 3.3: A partial plant taxonomy of Wayan Fijian, showing taxonomic depth of some cultivated food plants
 
 As can be seen from Figure 3.2, the taxonomy of wild plants in Wayan Fijian is quite shallow, including four named levels. The naming of cultivated food plants, however, comprises a deeper taxonomy. Thus while labels for particular species, and more commonly genera, form the lowest level of classification among wild plants, for cultivated food plants there will often be a number of named varieties below the folk species level. In fact, as shown by Figure 3.3, if cultivated food plants are incorporated in the Wayan ethnobotanical classification, the taxonomy includes at least six levels. Figure 3.3 shows this with a selection of the named types of yams. Yams are considered to be part of the _wā_ 'vine' taxon, one group of which, the Dioscorea species are denoted by the generic term _uvi_. More specifically _uvi_ denotes Dioscorea alata yams and encompasses a large number of named varieties, some of which are themselves further subclassified. Thus _keu_ 'a variety of _uvi_ with a curved tuber' has three varieites: _damuni_ 'with chocolate-coloured skin'; _damuni ni vuna_ 'large, with very pronounced curve' and _keu dū_ 'the common variety'.
 
 
 <a id="p-63"></a>
 
-Figure 3.4     A partial classification of foods in Wayan Fijian
+Figure 3.4: A partial classification of foods in Wayan Fijian
 
 [Gardner & Pawley](../references.md#source-GardnerandPawley1992) ([1992](../references.md#source-GardnerandPawley1992): 15) also note other categories of plants in Wayan which cut across the taxonomy presented above. For example, while in one sense _uvi_ 'Dioscorea species of yams' would be categorised as _wā_ 'vines', they can also be classified as _marawa_ 'ground crops, food plants other than trees'. The system of classification that includes _marawa_ 'ground crops' is partially shown in Figure 3.4. _Marawa_ 'ground crops' contrasts with _vuata_ 'tree crops, trees that bear edible fruit', and encompasses not only root crops such as yam, taro and sweet potato, but also other non-tree food crops such as melons, maize, sugarcane and bananas ([Gardner & Pawley 1992](../references.md#source-GardnerandPawley1992): 15), and thus is not a category that fits within the taxonomy presented in Figure 3.2. This latter taxonomy is based primarily on the use and cultural status of the plants, in contrast to the former taxonomy that is based mostly on the morphological and ecological characteristics of the plants.
 
@@ -265,7 +265,7 @@ Figure 3.4     A partial classification of foods in Wayan Fijian
 
 [Kwa'ioloa & Burt](../references.md#source-KwaioloaandBurt2001) ([2001](../references.md#source-KwaioloaandBurt2001)) present a classification and description of _rū bulao kī_ 'growing things' in Kwara'ae, and this classification is shown schematically in Figure 3.5. Their classification is as much to present a catalogue of Kwara'ae plant names and uses as to describe the Kwara'ae folk botanical taxonomy, and so descriptive names have been given to groups of plants that are recognised as similar by Kwara'ae speakers, but that did not necessarily form labelled taxa originally. In developing Figure 3.5 only those labels from Kwa'ioloa and Burt which denote traditionally overt or covert categories have been included. Terms that were traditionally used by Kwara'ae speakers are in bold and those that have been developed for Kwa'ioloa and Burt's book but appear to reflect originally covert categories are in plain text. As can be seen the Kwara'ae folk taxonomy is quite shallow with only four or five levels.
 
-Figure 3.5      A partial ethnobotanical taxonomy of Kwara'ae
+Figure 3.5: A partial ethnobotanical taxonomy of Kwara'ae
 
 
 <a id="p-65"></a>
@@ -380,7 +380,7 @@ _ʔoʔo_
 
 (plants)
 
-Figure 3.6  Arosi ethnobotanical classification
+Figure 3.6: Arosi ethnobotanical classification
 
 
 <a id="p-69"></a>
@@ -1661,7 +1661,7 @@ As expected from the comparative evidence, POc speakers appear to have had more 
 
 (plants)
 
-Figure 3.7 Partial Proto Oceanic ethnobotanical classification
+Figure 3.7: Partial Proto Oceanic ethnobotanical classification
 
 
 <a id="p-84"></a>

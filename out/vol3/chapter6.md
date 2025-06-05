@@ -25,7 +25,7 @@ Behind the seaward edge the outer zone of the mangrove forest consists generally
 
 Behind the Rhizophora zone the mangrove forest canopy begins to assume the stature of a land-based forest as Bruguiera species (§3.1) take over from Rhizophora. Depending on local conditions, Ceriops tagal sometimes occurs between Bruguiera and the landward margin.
 
-Figure 6.1 Rhizophora apiculata, the tall-stilted mangrove, prop-root mangrove: A, stilt roots and trunk; B, flower; C, leaves, fruit and hypocotyl (viviparous seedling).
+Figure 6.1: Rhizophora apiculata, the tall-stilted mangrove, prop-root mangrove: A, stilt roots and trunk; B, flower; C, leaves, fruit and hypocotyl (viviparous seedling).
 
 On the landward margin the mangrove forest becomes more diverse, forming a canopy up to 25 m tall, which in the Bismarcks includes Camptostemon schultzii (no reconstruction), Cerbera manghas (§4.1 ), Excoecaria agallocha (§4.3), Heritiera littoralis (§4.4), Inocarpus fagifer (ch. 11, §2.2), Intsia bijuga (ch.7, §4.9), Lumnitzera littorea (no reconstruction) and Xylocarpus granatum (§4.6). Intsia bijuga and Inocarpus fagifer are also common lowland swamp forest and rain forest trees and the latter is also a nut tree. They are not treated here but in chapters 7 and 11 respectively. Because the landward margin of the mangrove forest is more open, it has an undergrowth of shrubs and low-stature trees including Dolichandrone spathacea (§4.2) and Myristica hollrungii (no reconstruction). The Nypa fruticans palm also grows on the landward side of estuarine swamps (§4.5) (Paijmans 1976:31-34, [Mueller-Dombois & Fosberg 1998](../references.md#source-MuellerDomboisandFosberg1998):50--5 1).
 
@@ -168,7 +168,7 @@ As a generic, Saliba _pauli_ includes Ceriops tagal, Rhizophora spp. and Bruguie
 
 In the Bismarcks Bruguiera gymnorrhiza, the orange or large-leafed mangrove, dominates the inner zone of the mangrove forest. It often grows in stiff mud, as well as in tidal areas, and tolerates a wide range of salinity levels. It contrasts sharply in appearance with Rhizophora apiculata, as it is taller, 15-30 m tall, and has an erect trunk and regularly arranged lateral branches. Its rounded or plank-like buttresses branch over and over again as they near the ground. Sometimes there are also stilt roots. Traditionally, the fruit was rarely eaten. When it was, it was processed to remove the tannin, then cooked in coconut cream as a vegetable ([Henderson & Hancock 1988](../references.md#source-HendersonandHancock1988): 105, 107, [Allen & Duke 2006](../references.md#source-AllenandDuke2006)).
 
-Figure 6.2 Bruguiera gymnorrhiza, orange mangrove: A, tree; B, shoot bearing edible fruit.
+Figure 6.2: Bruguiera gymnorrhiza, orange mangrove: A, tree; B, shoot bearing edible fruit.
 
 The wood of B. gymnorrhiza is hard, but it is not durable in water and is therefore used only for internal construction, e.g. rafters. It is also used to make charcoal ([Streicher 1982](../references.md#source-Streicher1982), [Peekel 1984](../references.md#source-Peekel1984): 400). The Nakanai also use it for axe handles and digging sticks ([Floyd 1954](../references.md#source-Floyd1954)). In areas where people depend on sago because they have little dryland agriculture, sprouted Bruguiera fruits are sometimes collected and subjected to lengthy processing so that they can be eaten ([Barrau 1955](../references.md#source-Barrau1955): 25-26). The bark was used as an abortifacient in Malaita and for the treatment of bums in the western Solomons.
 
@@ -463,7 +463,7 @@ Three Cerbera species are associated with mangrove swamps. All three grow in coa
 
 The genus is named after Cerberus, the Greek mythological dog of Hades, because all its parts are highly toxic: they contain cerberin, a substance that blocks electric impulses in mammals, including the heart beat. Even smoke from burning Cerbera wood is toxic. In parts of the Pacific Cerbera sap was used to poison animals and people ([Powell 1976](../references.md#source-Powell1976), [Tomlinson 1986](../references.md#source-Tomlinson1986)). [Whistler](../references.md#source-Whistler1992) ([1992](../references.md#source-Whistler1992)) reports that the fruit was eaten by suicides in the Marquesas. On Waya Island an extract of the bark in oil was used to exorcise demons ([Gardner & Pawley 2006](../references.md#source-GardnerandPawley2006)).
 
-Figure 6.3 Cerbera odollam: bottom left, longitudinal section of fruit.
+Figure 6.3: Cerbera odollam: bottom left, longitudinal section of fruit.
 
 Two reconstructions are presented below: PWOc _&ast;(p,pʷ)awa(t)_ 'Cerbera spp., probably C.floribunda and C. manghas' and PCP _&ast;rewa_ 'tree, Cerbera sp., probably Cerbera odollam'. [Milke](../references.md#source-Milke1968) ([1968](../references.md#source-Milke1968)) also offers POc _&ast;pasa_ 'Cerbera sp.', based on Gedaged _safa_ (metathesis), Bauan _vasa_ 'C. odollam', Samoan _fasa_, 'Uvea'[^1] _faha_, both 'variety of pandanus'. The alleged metathesis and the semantic discrepancies make cognacy too uncertain for one to accept this reconstruction without further comparisons.
 
@@ -702,7 +702,7 @@ It is used in New Ireland to make propeller-like shark fishing floats ([Peekel 1
 
 Excoecaria agallocha is a shrub or small tree with a thick trunk that mostly grows in saltwater inland of A vicennia, Rhizophora and Bruguiera species ([Peekel 1984](../references.md#source-Peekel1984):316, [Hviding 2005](../references.md#source-Hviding2005): 135). According to Hviding the sap is harmful to people's eyes. He also notes that its dead, dry wood is very good for slow-burning firesticks and for fuel for cooking fires. On New Britain an infusion made from the leaves is mixed with the sap of a Liliaceae species and used against fever ([Arentz et al. 1989](../references.md#source-Arentzetal1989): 91).
 
-Figure 6.4 Excoecaria agallocha, milky mangrove.
+Figure 6.4: Excoecaria agallocha, milky mangrove.
 
 Lynch (2004) reconstructs PSOc _&ast;(t,d)oto(q)_, noting, 'Final _&ast;-o_ is overtly reflected in at least Lenakel and the New Caledonian languages, suggesting final _&ast;-q_.' I reconstruct POc _&ast;dotoq_ 'sticky liquids including the sap of (some?) trees'; 'a mangrove tree, probably Excoecaria agallocha' with initial _&ast;d-_ and final _&ast;-q_ because it appears to be an irregular reflex (for expected POc †_&ast;ditoq_) of PAn _&ast;diteq_ 'sticky substance' (ACD). There are two sets of reasons for thinking that items meaning 'sticky sap' and items denoting Excoecaria agallocha (or in some cases Cerbera manghas, also a mangrove) reflect the same POc etymon.
 
@@ -814,7 +814,7 @@ Lynch (2004) reconstructs PSOc _&ast;(t,d)oto(q)_, noting, 'Final _&ast;-o_ is o
 
 Heritiera littoralis typically grows in sand at the high-tide limit of estuaries and mangrove swamps in the Bismarcks, the Solomons, Vanuatu and New Caledonia. Up to 25m tall, it has a short bole, straight trunk, planklike buttresses, and large conspicuous hard brown nuts about 7cm long and 4cm in diameter. Its wood is very strong when it has dried out, and is used among other things for rafters, planks and spear shafts ([Peekel 1984](../references.md#source-Peekel1984): 374, [Wheatley 1992](../references.md#source-Wheatley1992):223-225, [Kwa'ioloa & Burt 2001](../references.md#source-KwaioloaandBurt2001): 136, [Hviding 2005](../references.md#source-Hviding2005): 101).
 
-Figure 6.5   Heritiera littoralis
+Figure 6.5: Heritiera littoralis
 
 The cognate set below has few members, but they are widespread enough to support a POc reconstruction which entails the POc term _&ast;qone_ 'sand, sandy beach' or _&ast;qone-qone_ 'sandy' (vo1.2, ch.3, §7.5). If the interpretation of the Patpatar prefix _i-_ offered in chapter 2, §7.1 is correct, then Patpatar _i-kon_ points to POc _&ast;kayu qone_, 'tree of beach, beach tree'. Although Tolai _ka-_ is not a regular prefix in tree names, it quite possibly reflects _&ast;kayu_ in this instance, as the latter must have been an intrinsic part of the name. Nyelayu _kʰon_ reflects _&ast;kV-kon_ at a recent interstage and has a history like that of the Tolai reflex. Proto Southeast Solomonic _&ast;(q)one-(q)one_ reflects POc _&ast;qone-qone_ 'sandy'.
 
@@ -958,7 +958,7 @@ Final POc _&ast;-q_ of _&ast;nipaq_ is attested by the presence of paragogic _-i
 ### 4.6. Xylocarpus spp. (syn. X obovatus, Carapa obovata), puzzlenut tree (Meliaceae)
 
 
-Figure 6.6 Xylocarpus granatum, puzzlenut tree: leaves flowers and fruit.
+Figure 6.6: Xylocarpus granatum, puzzlenut tree: leaves flowers and fruit.
 
 Xylocarpus granatum and X. moluccensis are foreshore trees or shrubs, with a trunk 3-15 metres tall and up to 70cm in diameter. The wood is reddish and the old bark peels off to reveal new, papery bark inside. Both are widespread between mangrove stands and near the beach. X. granatum has smaller fruit than X. moluccensis, which has a large red fruit with flesh surrounding a seed which is triangular-pyramidal in shape and 5-8cm across. The fruit of X. moluccensis hangs heavily and is larger than the fruits of other trees, earning the tree the name 'testicles tree' in Kwara'ae (_faʔi lalato_; [Kwa'ioloa & Burt 2001](../references.md#source-KwaioloaandBurt2001): 122) and in Uripiv (_n-ai laslas_; J. Lynch, pers. comm.).[^5] The fruit is divided into four quadrants, each containing 3-5 irregular woody seeds ([Johns 1976](../references.md#source-Johns1976): 206). The: seeds are used by children as a puzzle, the goal of which is to put the fallen seeds together as a ball ([Peekel 1984](../references.md#source-Peekel1984): 285). Hence the English label 'puzzlenut'.
 

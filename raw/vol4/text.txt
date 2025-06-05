@@ -278,21 +278,21 @@ reconstructed for a form because none of the glosses of its reflexes is its prot
 In terminological reconstruction the meanings of protomorphemes are not determined in advance.
 Instead, cognate sets are collected and their meanings are compared with regard to:
 
-__ul__
-    their specific denotations, where these are known;
-    the geographic and genetic distribution of these denotations (i.e. are the glosses from which the protogloss is reconstructed well distributed?);
-    any derivational relationships to other reconstructions;
-    their place within a working hypothesis of the relevant POc terminology (e.g., are terms complementary —‘bow’ implies ‘arrow’; ‘seine net’ implies ‘floats’ and ‘weights’? Are there different levels of classification—generic, specific, and so on?).
+__block__
+- their specific denotations, where these are known;
+- the geographic and genetic distribution of these denotations (i.e. are the glosses from which the protogloss is reconstructed well distributed?);
+- any derivational relationships to other reconstructions;
+- their place within a working hypothesis of the relevant POc terminology (e.g., are terms complementary —‘bow’ implies ‘arrow’; ‘seine net’ implies ‘floats’ and ‘weights’? Are there different levels of classification—generic, specific, and so on?).
 
 For example, it proved possible to reconstruct the following POc terms for tying with cords
 (vol.l, ch.9, §10):
 
-__ul__
-POc *buku ‘tie (a knot); fasten’
-POc *p‘ita ‘tie by encircling’
-POc *paqu(s), *pciqus-i- ‘bind, lash; construct (canoe +) by lashing together’
-POc *pisi ‘bind up, tie up, wind round, wrap’
-POc *kiti ‘tie, bind’
+__block__
+- POc *buku ‘tie (a knot); fasten’
+- POc *p‘ita ‘tie by encircling’
+- POc *paqu(s), *pciqus-i- ‘bind, lash; construct (canoe +) by lashing together’
+- POc *pisi ‘bind up, tie up, wind round, wrap’
+- POc *kiti ‘tie, bind’
 
 6   Malcolm Ross, Andrew Pawley and Meredith Osmond
 
@@ -1063,9 +1063,9 @@ cycle, tidal movements, winds and currents. The times of certain fish to be fat,
 and to aggregate in a certain spot for spawning or feeding would have been marked.
 
      This chapter deals mainly with the names of fishes. Paul Geraghty (1994) and Robin
-Hooper (1994) have provided a substantial starting point with their work on rconstructing
-fish names for Proto Central Pacific and Proto Polynesian respectively. Their data and lower-
-level reconstructions are reproduced here when included in a higher level reconstruction.
+Hooper (1994) have provided a substantial starting point with their work on reconstructing
+fish names for Proto Central Pacific and Proto Polynesian respectively. Their data and lower-level
+reconstructions are reproduced here when included in a higher level reconstruction.
 Otherwise I simply record the existence of a PCP or PPn reconstruction.
 
      In most Oceanic languages the lexicon of fish names is the largest of all faunal fields. The
@@ -1076,7 +1076,6 @@ Admiralties (Akimichi & Sakiyama 1991), over 400 for both Marovo in the NW Solom
 The evidence is overwhelming that knowledge of fish is, or has been until the breakdown
 of traditional lifestyles, extremely detailed, and one not restricted to a small group of
 people, but widespread among the majority of Oceanic communities.
-
 
 [1] I am particularly grateful to Malcolm Ross who has spent many hours checking and suggesting solutions
  to problematic cognate sets, and to Paul Geraghty for a host of detailed comments. Andrew Pawley has also
@@ -1202,9 +1201,9 @@ daughter languages. See chapter 8 for a fuller discussion.
 PAn *Sikan ‘fish’ (ACD)
 PMP *hikan ‘fish’ (ACD)
 POc *ikan ‘fish (generic)’
-  Adm: Nyindrou      ni         ‘fish’
-  Adm: Lenkau        nik        ‘fish, excl. turtle, dolphin etc.’
-  Adm: Penchal       nii        ‘fish, including turtle, dolphin, whale, octopus’
+  Adm:  Nyindrou     ni         ‘fish’
+  Adm:  Lenkau       nik        ‘fish, excl. turtle, dolphin etc.’
+  Adm:  Penchal      nii        ‘fish, including turtle, dolphin, whale, octopus’
   NNG:  Gitua        iga        ‘fish’
   NNG:  Manam        iʔa        ‘fish’
   NNG:  Takia        i          ‘fish’
@@ -1253,8 +1252,6 @@ POc *ikan ‘fish (generic)’
                                                                                       Fish    29
 
 
-
-
 2.4 Sharks: _Carcharhinidae_, _Sphyrnidae_ etc
 
 In this section and in §5 on rays, I am dealing with sub-orders rather than families.
@@ -1274,7 +1271,7 @@ sharks.
 
 30    Meredith Osmond
 
-                        Figure 2.1   _Carcharodon carcharias_, great white shark
+Figure 2.1:   _Carcharodon carcharias_, great white shark
 
    Proto Oceanic speakers undoubtedly distinguished many different species of sharks by
 name, as contemporary Oceanic speech communities do, but reconstructed terms have not
@@ -1622,7 +1619,7 @@ cf. also:
 
 2.7 Sardines and herrings (_Clupeidae_) and anchovies (_Engraulidae_)
 
-Figure 2.3 _Spratelloides delicatulus_, small round herring
+Figure 2.3:_Spratelloides delicatulus_, small round herring
 
 Sardines and herrings are small migratory fishes which congregate in enormous shoals
 in shallow coastal waters. Flesh is oily but tasty (Munro 1967: p.50). They are taken in nets
@@ -2089,7 +2086,7 @@ cf. also:
 
                                                                                      Fish   47
 
-Figure 2.6   _Myrichthys colubrinus_, harlequin snake eel
+Figure 2.6:_Myrichthys colubrinus_, harlequin snake eel
 
 <
 PMP *kasuli ‘_Anguillidae_, freshwater eel’ (ACD: PWMP *kasuli)
@@ -2148,7 +2145,7 @@ cf. also:
 
 2.12 Flying fishes (_Exocoetidae_)
 
-Figure 2.7 _Exocoetus volitans_, blue flying fish
+Figure 2.7:_Exocoetus volitans_, blue flying fish
 
 These fish are pelagic, swimming near the surface and gliding above the water for considerable distances. They inhabit open coastal and oceanic waters, are attracted to light at night
 and often leap aboard vessels. Their flesh is of good quality (Munro 1967: p. 115). In Sa’a (Malaita),
@@ -2225,7 +2222,7 @@ to the same suborder.
 
 50   Meredith Osmond
 
-Figure 2.8   _Hemiramphus lutkei_, Lutke's halfbeak
+Figure 2.8:_Hemiramphus lutkei_, Lutke's halfbeak
 
 <
 POc *sipa ‘_Hemiramphus_ spp.’
@@ -2400,7 +2397,7 @@ cf. also:
 
 54     Meredith Osmond
 
-Figure 2.10   Left _Myripristis murdjan_, crimson squirrelfish. Right _Sargocentron spiniferum_, armoured soldierfish.
+Figure 2.10:Left _Myripristis murdjan_, crimson squirrelfish. Right _Sargocentron spiniferum_, armoured soldierfish.
 
 <
 POc *kuru[ru] ‘_Myripristis spp._, squirrelfish’
@@ -2516,7 +2513,7 @@ cf. also:
 
                                                                                                  Fish   57
 
-Figure 2.12    Mugil cephalus, flathead grey mullet
+Figure 2.12:Mugil cephalus, flathead grey mullet
 
 
     Kove (NNG) uses the same comparison, albeit with a non-cognate term for ‘crocodile’,
@@ -2754,7 +2751,7 @@ _Sphyraena picuda_ or _Agrioposphyraena barracuda_.
 
 62    Meredith Osmond
 
-Figure 2.13    Sphyraena jello, slender sea pike
+Figure 2.13:Sphyraena jello, slender sea pike
 
 <
 PMP *qalu ‘barracuda’ (ACD)
@@ -3007,20 +3004,18 @@ POc *kalika ‘_Epinephelidae_, rock cod’
 
    Distinctive markings are often reflected in compound terms such as the following:
 
-__pre__
-  MM:     Patpatar      mata girit        ‘k.o. fish’ (mata ‘face’, girit ‘to sketch, draw’)
-  MM:     Halia         mata goumana      ‘giant chanda perch, freshwater fish’(go///w
-                                          ‘marking, scar’)
-  SES:    Gela          aŋora gere        ‘Cephalopholis sexmaculata, six spotted rock cod’
-                                          (gere ‘to sketch, make lines’)
-  SES:    Gela          kusele gere-gerea ‘Epinephelus quoyanus, longfin rock cod (gere-gere
-                                          ‘to sketch, make lines’)
+__formgroup__
+  MM:  Patpatar   mata girit         ‘k.o. fish’ (mata ‘face’, girit ‘to sketch, draw’)
+  MM:  Halia      mata goumana       ‘giant chanda perch, freshwater fish’ (_goum_ ‘marking, scar’)
+  SES: Gela       aŋora gere         ‘Cephalopholis sexmaculata, six spotted rock cod’ (_gere_ ‘to sketch, make lines’)
+  SES: Gela       kusele gere-gerea  ‘Epinephelus quoyanus, longfin rock cod (_gere-gere_ ‘to sketch, make lines’)
 
     Lower level reconstructions include PNCV _*tabʷale_ ‘grouper fish’ (François 2005:499),
 PCP _*ŋʷajala_ ‘_Epinephelus spp._’, PPn _*ŋatala_ ‘Epinephelus, smaller stage’,
 PCP/PPn _*munua_ ‘large _Epinephelus sp._’, PCP _*dralā_ ‘red _Cephalopholis sp._’, PPn _*lalī_
 ‘red rock cod spp.’, PPn *fāpuku ‘_Epinephelus sp._, possibly _E. polyphekadion_. marbled sea
-bass’, PPn _*loi_ ‘Cephalopholis argus, peacock rock cod’, PPn _*mataele_ ‘_Serranidae_’ (Geraghty 1004: p.149, Hooper 1994: pp.204-205)
+bass’, PPn _*loi_ ‘Cephalopholis argus, peacock rock cod’, PPn _*mataele_ ‘_Serranidae_’
+(Geraghty 1004: p.149, Hooper 1994: pp.204-205)
 
 
 2.23 Flagtails (_Kuhliidae_)
@@ -3041,7 +3036,7 @@ spending daylight in caves or under ledges (Munro 1967: p.284).
 
 68   Meredith Osmond
 
-Figure 2.14   _Epinephelus lanceolatus_, Queensland grouper
+Figure 2.14:_Epinephelus lanceolatus_, Queensland grouper
 
 
    The PPn term, _*mata-pula_ ‘_Priacanthus cruentatus_, red globe-eye’ is a descriptive compound
@@ -3083,7 +3078,7 @@ caranx, (not necessarily the largest).
                                                                                         Fish    69
 
 
-Figure 2.15   Left Gnathanodon speciosus, golden trevally. Right Alectis indica, plumed trevally.
+Figure 2.15: Left Gnathanodon speciosus, golden trevally. Right Alectis indica, plumed trevally.
 
 <
 PMP *qatulay ‘Trachurops crumenophthalmus, the big-eyed scad’ (ACD)
@@ -3129,7 +3124,6 @@ PPn *filu ‘_Carangidae_’ (Hooper 1994)
 70 Meredith Osmond
 
 
-
    Reflexes of the next set have consistent reference to larger species only in the Central
 Pacific. _Caranx ignobilis_ and _C. sexfasciatus_ are among the largest of the trevallies.
 
@@ -3147,7 +3141,7 @@ PPn *qulua ‘_Caranx sp._, probably mature phase of _C. ignobilis_’ (Hooper 1
   Pn:  Marquesan     uʔua         ‘_C. ignobilis_’
   Pn:  Hawaiian      ulua         ‘general name for _Caranx spp._’
 cf. also:
-  Mic: Kiribati      urua         ‘adult trevally’ (for Punua)
+  Mic: Kiribati      urua         ‘adult trevally’ (for †_unua_)
 >
 
 <
@@ -3158,7 +3152,7 @@ POc *mamula ‘carangid’
   SES: Gela          mamula        ‘k.o. small fish’
   SES: To’aba’ita    mamula        ‘Caranx melampygus, bluefin trevally’
   SES: Kwaio         mamula        ‘k.o. fish’
-  SES: Lau           mamula        ‘k.o. fish’ (=ʔeda-ʔeda)
+  SES: Lau           mamula        ‘k.o. fish’ (=_ʔeda-ʔeda_)
   SES: Arosi         mamura        ‘k.o. fish’
   SES: ’Are’are      mamu          ‘_C. melampygus_’
   Mic: Woleaian      mamʷu(six)    ‘mackerel scad, Decapterus ’ (-six ‘small’)
@@ -3169,9 +3163,8 @@ POc *mamula ‘carangid’
                                                                                     Fish   71
 
 
-
-    Oceanic reflexes of the next set refer fairly consistently to _Scomberoides spp._ (=Chorine-
-mus), fishes known variously as leatherskin, whitefish, queenfish, skinnyfish or giant dart.
+    Oceanic reflexes of the next set refer fairly consistently to _Scomberoides spp._ (=Chorinemus),
+fishes known variously as leatherskin, whitefish, queenfish, skinnyfish or giant dart.
 They can grow to over a metre in length. Blust (ACD) has reconstructed PMP _*lajih_ ‘dolphinfish’
 and PMP _*daRi_ ‘leatherskin’, with Oceanic reflexes of the former apparently referring
 to the leatherskin. The two Mutu (NNG) terms below suggest that the dolphinfish may sometimes be
@@ -3203,7 +3196,7 @@ PCP *laði ‘_Scomberoides sp._’ (Geraghty 1994)
   Fij: Wailevu     laði         ‘Scomberoides tol’
 PPn *lai ‘Scomberoides ’ (Hooper 1994)
   Pn:  Tongan      lai          ‘k.o. fish’
-  Pn:  Niuean      lai(loa)     ‘_S. lysan_, leatherskin or leatherback’ (loa ‘long’)
+  Pn:  Niuean      lai(loa)     ‘_S. lysan_, leatherskin or leatherback’ (_loa_ ‘long’)
   Pn:  Samoan      lai          ‘_Scomberoides sp._’
   Pn:  Hawaiian    lai          ‘_Scomberoides sp._’
 >
@@ -3227,24 +3220,24 @@ examples are largely restricted to the Solomons (the only exception being Samoan
 be that _*mala_ came to be used in the Solomons as a generic for carangids, as Hviding has
 suggested for Marovo. For this reason no POc reconstruction is proposed.
 
-__pre__
+__formgroup__
   MM:  Patpatar    mala(la)     ‘k.o. fish’
-  MM:  Nehan       mala(ŋuh)    ‘Trachinotus russelli, common dart’ (ŋuh ‘kiss’) [T. botla]
-  MM:  Marovo      mara         ‘generic for all Carangids (trevallies etc.)’ (15 compound terms for kinds) (for ^mald)
-  SES: Gela        mala(boro)   ‘Selaroides leptolepis, smooth-tailed trevally’ (mala ‘as, like’; boro ‘bottom, keel of canoe’)
-  SES: Gela        mala(hau)    ‘various kingfish and jack spp.’ (hau ‘old’)
+  MM:  Nehan       mala(ŋuh)    ‘Trachinotus russelli, common dart’ (_ŋuh_ ‘kiss’) [T. botla]
+  MM:  Marovo      mara         ‘generic for all Carangids (trevallies etc.)’ (15 compound terms for kinds) (for †_mala_)
+  SES: Gela        mala(boro)   ‘Selaroides leptolepis, smooth-tailed trevally’ (_mala_ ‘as, like’; boro ‘bottom, keel of canoe’)
+  SES: Gela        mala(hau)    ‘various kingfish and jack spp.’ (_hau_ ‘old’)
 
 <
 PPn *mala ‘k.o. fish’
   Pn:  Tongan        mala             ‘large serranid’
   Pn:  Niuatoputapu  mala             ‘k.o. fish’
   Pn:  Samoan        mala(uli)        ‘certain fish of genus Caranx (considered fit for chiefs) when about 30cm long’ (uli ‘black’)
-  Pn:  Tokelauan     mala(tea)        ‘Cheilinus undulalus’ (tea ‘white’)
+  Pn:  Tokelauan     mala(tea)        ‘Cheilinus undulalus’ (_tea_ ‘white’)
 >
 
 <
 PEOc *taliku ‘Carangid’
-  SES:      Gela          taliɣu(mane)     ‘Caranx ignobilis, giant trevally’ (mane ‘male’)
+  SES:      Gela          taliɣu(mane)     ‘Caranx ignobilis, giant trevally’ (_mane_ ‘male’)
   SES:      Arosi         ariu             ‘k.o. fish, kingfish’
   SES:      Kahua         ariu             ‘jack, _Carangidae_ (generic)’
   NCV:      NE Ambae      taliu            ‘trevally, _Carangidae_’ (loss of _k_ unexplained)
@@ -3263,24 +3256,24 @@ PPn *lupo-lupo ‘juvenile _Caranx spp._’ (Hooper 1994)
   Pn:   Tokelauan     lupo-lupo     ‘juveniles of all _Caranx spp._ ’
 >
 
-[18] Blust (1986: 73) lists a number of fish names with prefix _mala_ from Cebuano (WMP) (_mala-patí_ ‘k.o. fish’.
-_mala-sugí_ ‘swordfish, sailfish’, _mala-tindúk_ ‘mackerel scad’), and one from Samar (WMP) (_mala-punti_ ‘blue-
- spotted sea perch’), but there is insufficient information to identity a common meaning.
+[18] Blust (1986: 73) lists a number of fish names with prefix _mala_ from Cebuano (WMP)
+(_mala-patí_ ‘k.o. fish’. _mala-sugí_ ‘swordfish, sailfish’, _mala-tindúk_ ‘mackerel scad’),
+and one from Samar (WMP) (_mala-punti_ ‘blue-spotted sea perch’), but there is insufficient
+information to identity a common meaning.
 
                                                                                   Fish      73
 
 
-
     Lower level reconstructions include PNCV _*dilit(i,u)_ ‘_Caranx spp._’ (François 2005:494),
 PCP _*i-kata_, PPn _*kata_ ‘growth term for Caranx sp’, PCP/PPn _*laweŋa_ ‘_Alectis indicus_,
-plumed trevally or mirrorfish’, PCP _*jeu_, PPn _*teu_ ‘Carangid’, PPn _*aseu_ ‘_Caranx
-sp._’, PPn _*tafaquli_ ‘_Caranx sp._, possibly _C. lugubris_’ and PPn _*soke(lau)_ ‘Carangid’
+plumed trevally or mirrorfish’, PCP _*jeu_, PPn _*teu_ ‘Carangid’, PPn _*aseu_ ‘_Caranx sp._’,
+PPn _*tafaquli_ ‘_Caranx sp._, possibly _C. lugubris_’ and PPn _*soke(lau)_ ‘Carangid’
 (Geraghty 1994: pp.150-151, Hooper 1994: pp.206-210).
 
 
 2.27 Dolphinfishes (_Coryphaenidae_)
 
-Figure 2.16 _Coryphaena hippurus_, common dolphinfish
+Figure 2.16:_Coryphaena hippurus_, common dolphinfish
 
 Dolphinfish are large swift-swimming powerful fish, pelagic and mostly oceanic,
 but sometimes found around reefs. They are spectacular fighters which leap from
@@ -3340,7 +3333,7 @@ PPn *huli ‘fusilier sp.’ (Hooper 1994: ‘fusilier or mackerel sp.’)
   Pn:  Pukapukan       uli          ‘large size of tikava, _Pterocaesio tile_, tricoloured fusilier’
 >
 
-     PCP/PPn *tikawa ‘_Caesio sp._’ is reconstructed by Geraghty (p.152), Hooper (p.210).
+PCP/PPn _*tikawa_ ‘_Caesio sp._’ is reconstructed by Geraghty (p.152), Hooper (p.210).
 
 
 2.30 Snappers or sea-perch, basses, jobfishes (_Lutjanidae_)
@@ -3358,9 +3351,7 @@ others may be names of particular species at a certain stage of growth.
 
                                                                                               Fish     75
 
-
-
-                          Figure 2.17    _Lutjanus fulviflamma_, Dory snapper
+Figure 2.17:    _Lutjanus fulviflamma_, Dory snapper
 
 
    The proposed gloss of POc _*qutur_ is based on the agreement of non-Oceanic cognates
@@ -3388,8 +3379,8 @@ PPn *qutu ‘Aprion virescens, grey jobfish’ (Hooper 1994)
 >
 
 
-[19] Pendau (WMP) _utur_ ‘jobfish’ (Phil Quick pers. conun.) and Sangir _utude_ ‘kind of deep-sea fish caught by
- line’ (ACD).
+[19] Pendau (WMP) _utur_ ‘jobfish’ (Phil Quick pers. conun.) and Sangir _utude_ ‘kind of deep-sea
+fish caught by line’ (ACD).
 
 76    Meredith Osmond
 
@@ -3503,8 +3494,8 @@ cf. also:
 and PPn _*taŋaqu_  ‘_Lutjanus_ spp. including _L. vaigiensis_ [L.fulvus] and probably other yellow
 or yellow-red species’ (Hooper 1994: pp.210-211 and A. Hooper & Huntsman (1991:120).
 
-    PPn _*palu_ is included here with supporting evidence as an unusual case. Hooper and Huntsman (1991:119-127)
-write that in Polynesia the two fishes which are associated most
+    PPn _*palu_ is included here with supporting evidence as an unusual case.
+Hooper and Huntsman (1991:119-127) write that in Polynesia the two fishes which are associated most
 strongly with the name _palu_ are unrelated: the oilfish _Ruvettus pretiosus_ and the deep sea
 snappers (ruby snapper _Etelis carbunculus_, flower snapper _Pristipomoides zonatus_, big-eyed
 snapper _Pristipomoides argyrogrammicus_, and the small-toothed jobfish _Aphareus furca_).
@@ -3552,11 +3543,12 @@ reflected in its name as a reduplicated term for ‘beard’. They also have a p
 large adipose eyelids, which reflect adaptation to muddy environments where sense of touch
 compensates for loss of vision. The flesh has excellent flavour and texture (Munro 1967: p. 189).
 
-    Our only reconstruction is at PPn level, PPn _*kumi-kumia_ ‘_Polydactylus sexfilis_. _P. ple-
-beius_: threadfin’ (from POc _*kumi_ ‘beard’ (Hooper p.204). Hooper notes that the Tokelauan
+    Our only reconstruction is at PPn level, PPn _*kumi-kumia_ ‘_Polydactylus sexfilis_.
+_P. plebeius_: threadfin’ (from POc _*kumi_ ‘beard’ (Hooper p.204). Hooper notes that the Tokelauan
 word for _P. sexfilis_ is _ava-ava_. also meaning ‘beard’.
 
-    Misima (PT) has a term _kum-kum_ ‘generic for damselfish, _Chromis spp._ and others’, considered a chance resemblance.
+Misima (PT) has a term _kum-kum_ ‘generic for damselfish, _Chromis spp._ and others’, considered
+a chance resemblance.
 
 
 2.33 Mojarras, silver biddies (_Gerreidae_)
@@ -3601,11 +3593,11 @@ POc *(k,q)umutuR ‘_Plectorhinchus spp._, sweetlips’
   Adm:      Nali        komwet        ‘_Plectorhinchus spp._’
   NNG:      Mutu        umut          ‘_Plectorhinchus spp._’
   NNG:      Kove        mutur(iŋo)    ‘_P. chaetodonoides_, harlequin sweetlip’
-  MM:       Patpatar    a-umut        ‘many kinds spotted sweetlips’ (a article)
+  MM:       Patpatar    a-umut        ‘many kinds spotted sweetlips’ (_a_ article)
   MM:       Nakanai     kumu          ‘demoiselle’
   MM:       Nehan       mutur         ‘sweetlip’
   SES:      Gela        kometulu      ‘_Plectorhinchus spp._’
-  SES:      Lau         mumu          ‘_Plectorhinchus spp._, sweetlip’ (for ^lunni)
+  SES:      Lau         mumu          ‘_Plectorhinchus spp._, sweetlip’ (for †_lumu_)
   Fij:      Wayan       umotu         ‘_P. flavomaeulalus_’
 >
 
@@ -3636,18 +3628,18 @@ a higher order interstage. POc _*kawa-kawa_ ‘rock cod, grouper’ (§22) is co
 
 2.36 Emperors and large-eyed breams (_Lethrinidae_)
 
-Figure 2.18 _Lethrinus variegatus_, variegated emperor
+Figure 2.18:_Lethrinus variegatus_, variegated emperor
 
 Emperors inhabit shallow coastal waters around rocky outcrops and coral reefs, moving
 in schools. Most are fairly brightly coloured
 in shades of red and green. Their flesh is excellent (Munro 1967: p.324). Four genera are identified,
-_Lethrinus_, _Gnathodentex_, _Gymnocranius_ and _Monotaxis_. We have seven POc reconstructions, but in a number of instances
-their reflexes have come to be applied to
-different referents in daughter languages. In
-such cases reconstructions are simply labelled
+_Lethrinus_, _Gnathodentex_, _Gymnocranius_ and _Monotaxis_. We have seven POc reconstructions, but
+in a number of instances their reflexes have come to be applied to
+different referents in daughter languages. In such cases reconstructions are simply labelled
 _Lethrinidae_ ox _Lethrinus spp._
 
-     In the following set there has been confusion with reflexes of POc _*(k,q)ulapi)_ ‘parrotfish’ (§47) in Tokelauan.
+In the following set there has been confusion with reflexes of POc _*(k,q)ulapi)_ ‘parrotfish’
+(§47) in Tokelauan.
 
 <
 PMP *kulambar ‘Gnathodentex, Scolopsis’ (Blust2002: PWMP)
@@ -3662,26 +3654,26 @@ PPn *kulapo ‘fish sp. ’ (Hooper 1994)
   Pn:  E Uvean       kulapo          ‘Lethrinus nematacanthus, threadfin emperor’ [L. genivittatus]
   Pn:  Tokelauan     kulapo          ‘Scants harid, juvenile’ [Hipposcarus harid]
 cf. also:
-  Fij: Rotuman       ulapu           ‘k.o. fish’ (0- for f?-)
-  Pn:  Samoan        ulapo           ‘lighter coloured species of genus Scarus (parrotfish) when about 15 cm long’ (0-for f?-)
+  Fij: Rotuman       ulapu           ‘k.o. fish’ (_∅-_ for †_ʔ-_)
+  Pn:  Samoan        ulapo           ‘lighter coloured species of genus Scarus (parrotfish) when about 15 cm long’ (_∅-_ for †_ʔ-_)
 >
 
     Western Oceanic reflexes in the next set show unexpected loss of final syllable.
 
 <
 POc *kasika ‘large emperor, _Lethrinus sp._’
-  Adm:   Titan        kasi           ‘_L. miniatus_’[21]
-  Adm:   Andra        kasi           ‘emperor, five _Lethrinus spp._’
-  PT:    Sinaugoro    ari            ‘a reef fish’
-  PT:    Motu         adia           ‘Aprion virescens, green jobfish, Lethrinus microdon, small-tooth emperor’ (Oram)
-  MM:    Teop         ahi-ahi        ‘Lethrinella miniata, long-nosed emperor [Lethrinus miniatus or _Z. olivaceus_]’
-  SES:   Kahua        ɣasiɣa         ‘_L. elongatus_’ [Z. olivaceus]
-  NCV:   Mwotlap      na-wawsɪ       ‘_L. harak_’ (thumbprint emperor)
-  NCV:   Dorig        wawsɪɣ         ‘_Z. harak_’
-  Mic:   Mokilese     katek          ‘k.o. emperor’
-  Mic:   Satawalese   yœtik          ‘_Lethrinus sp._’
-  Fij:   Rotuman      ʔasiʔa         ‘snapper’
-  Fij:   Wayan        kaðika         ‘_L. variegatus_’
+  Adm: Titan        kasi           ‘_L. miniatus_’[21]
+  Adm: Andra        kasi           ‘emperor, five _Lethrinus spp._’
+  PT:  Sinaugoro    ari            ‘a reef fish’
+  PT:  Motu         adia           ‘Aprion virescens, green jobfish, Lethrinus microdon, small-tooth emperor’ (Oram)
+  MM:  Teop         ahi-ahi        ‘Lethrinella miniata, long-nosed emperor [Lethrinus miniatus or _Z. olivaceus_]’
+  SES: Kahua        ɣasiɣa         ‘_L. elongatus_’ [Z. olivaceus]
+  NCV: Mwotlap      na-wawsɪ       ‘_L. harak_’ (thumbprint emperor)
+  NCV: Dorig        wawsɪɣ         ‘_Z. harak_’
+  Mic: Mokilese     katek          ‘k.o. emperor’
+  Mic: Satawalese   yœtik          ‘_Lethrinus sp._’
+  Fij: Rotuman      ʔasiʔa         ‘snapper’
+  Fij: Wayan        kaðika         ‘_L. variegatus_’
 >
 
 [21] _Lethrinus miniatus_ is the trumpet emperor, a different fish from _L. olivaceus_. the long-nosed emperor, albeit one with which it is often confused. _L. elongatus_ is a synonym for _L. olivaceus_, ‘long-nosed emperor’
@@ -3730,19 +3722,19 @@ cf. also:
 
 <
 POc *[oka]oka ‘k.o. fish, possibly _Lethrinus spp._’ (ACD)
-  PT:      Bwaidoga         oka               ‘fish sp.’
-  MM:      Tolai            ok                ‘fish sp.’
-  Mic:     Kiribati         oka-oka           ‘reef fish, scavenger fish, _Lethrinus obsoletus_’
-  Pn:      K’marangi        oko-oko           ‘scavenger fish, _Lethrinus miniates_’
+  PT:  Bwaidoga         oka               ‘fish sp.’
+  MM:  Tolai            ok                ‘fish sp.’
+  Mic: Kiribati         oka-oka           ‘reef fish, scavenger fish, _Lethrinus obsoletus_’
+  Pn:  K’marangi        oko-oko           ‘scavenger fish, _Lethrinus miniates_’
 >
 
 <
 POc *koraŋ ‘emperor, _Lethrinidae_’
-  Adm:     Titan            kolaŋ             ‘emperor, _Lethrinidae_’
-  Adm:     Nali             kolan             ‘emperor, _Lethrinidae_’
-  Adm:     Loniu            walaŋ             ‘emperor sp.’
-  Adm:     Andra            oleŋ              ‘_Lethrinus semicinctus_, reticulated emperor’
-  MM:      Marovo           kora-koraŋa       ‘small emperor’
+  Adm: Titan            kolaŋ             ‘emperor, _Lethrinidae_’
+  Adm: Nali             kolan             ‘emperor, _Lethrinidae_’
+  Adm: Loniu            walaŋ             ‘emperor sp.’
+  Adm: Andra            oleŋ              ‘_Lethrinus semicinctus_, reticulated emperor’
+  MM:  Marovo           kora-koraŋa       ‘small emperor’
 >
 
     It is possible that the items in the set below are related to those above through a borrowing
@@ -3752,7 +3744,7 @@ in early Oceanic.
 POc *kawaŋo ‘k.o. fish, probably _Lethrinus sp._’
   MM:  Nehan        aŋ-uaŋ [23]
   SES: Lau          ʔakʷaŋo      ‘k.o. large fish’
-  SES: Sa’a         awaŋo        ‘k.o. fish eaten only by older men’ (0- for f?-)
+  SES: Sa’a         awaŋo        ‘k.o. fish eaten only by older men’ (_∅-_ for †_ʔ-_)
 PCP *kawaŋo ‘Lethrinus nebulosus ’ (Geraghty 1994)
   Fij: Wayan        kawaŋo       ‘_L. nebulosus_, spangled emperor’
   Pn:  Tongan       koaŋo        ‘k.o. fish like snapper, but bluish in colour’
@@ -3766,18 +3758,19 @@ PEOc *n(u,o)sct ‘_Lethrinus sp._’
 >
 
     Also reconstructed are PCP *ŋujula ‘_Lethrinus elongates_’, PCP _*kabatiko_ ‘_Lethrinus
-sp._’, and PCP _*(m,b)ū_, PPn _*mū_ ‘_Monotaxisg randoculis_, large-eyed sea bream’ (Geraghty 1994: p. 153, Hooper p.212).
+sp._’, and PCP _*(m,b)ū_, PPn _*mū_ ‘_Monotaxisg randoculis_, large-eyed sea bream’
+(Geraghty 1994: p. 153, Hooper p.212).
 POc _*sabutu_ ‘Lutjanus ox_Lethrinus sp._’ has also been reconstructed (see cognate set in §30)
 
-[23] Nehan _aŋ-uaŋ_ is a reduplicated reflex. As POc _*w_ is lost in NW Solomonic languages, I infer that _-uaŋ_ reflects
- an earlier interstage _*kuaŋo_ ‘emperor’.
+[23] Nehan _aŋ-uaŋ_ is a reduplicated reflex. As POc _*w_ is lost in NW Solomonic languages, I
+infer that _-uaŋ_ reflects an earlier interstage _*kuaŋo_ ‘emperor’.
 
 84   Meredith Osmond
 
 
 2.37 Goatfishes (_Mullidae_)
 
- Figure 2.19 _Parupeneus signatus_, black-spotted goatfish
+Figure 2.19: _Parupeneus signatus_, black-spotted goatfish
 
 The _Mullidae_ have large scales and two barbels
 at the chin. Small to moderate in size and usually red or gold, they are bottom-dwellers, often
@@ -3798,7 +3791,7 @@ POc *tiqo ‘goatfish sp. or spp.’
   NNG: Bing          tiy         ‘goatfish, commonly found in shallow waters and bays’
   PT:  Motu          sio         ‘_Parupeneus spp._’ (Oram n.d.)
   PT:  Roro          sio         ‘k.o. fish’
-  PT:  Gumawana siwo-siwo        ‘goatfish’
+  PT:  Gumawana      siwo-siwo   ‘goatfish’
   MM:  Nehan         tio         ‘k.o. goatfish’
   MM:  Teop          sio         ‘_Parupeneus spp._’
   SES: Gela          tio         ‘_Parupeneus spp._’
@@ -3833,10 +3826,10 @@ PPn *wete ‘k.o. goatfish, including Miulloidichthys’ (Geraghty 2010)[25]
 POc *mʷacasi ‘goatfish’ [26]
   Adm: Lou          mʷarase         ‘goatfish’
   Adm: Nali         mʷalasei        ‘goatfish’
-  Adm: Loniu        mʷasas          ‘goatfish sp.’(-5- for f-2-)
-  Adm: Penchal      mʷaracei        ‘goatfish’ (Akimichi) (-r- for f-/-)
-  Adm: Lenkau       mʷasei          ‘goatfish’ (-0- for f-/z-)
-  MM:  Lihir        mawis           ‘Parapeneus bifasciatus, doublebar goatfish’ [P. trifasciatus] (-u - for f-s-)
+  Adm: Loniu        mʷasas          ‘goatfish sp.’(_-s-_ for †_-ʔ-_)
+  Adm: Penchal      mʷaracei        ‘goatfish’ (Akimichi) (_-r-_ for †_-l-_)
+  Adm: Lenkau       mʷasei          ‘goatfish’ (_-∅-_ for †_-h-_)
+  MM:  Lihir        mawis           ‘Parapeneus bifasciatus, doublebar goatfish’ [P. trifasciatus] (_-w-_ for †_-s-_)
   MM:  Nehan        maheh           ‘goatfish’
   SES: ’Are’are     matasi          ‘mullet fish’ (goatfish are sometimes known as red mullet)
   SES: Lau          matasi          ‘goatfish (generic)’
@@ -3850,12 +3843,12 @@ PCP *ŋʷaðaði ‘_Parupeneus sp._’ (Geraghty 1994)
 
 <
 POc *sua-sua ‘goatfish’
-  NNG:      Manam           sua-sua           ‘goatfish, catfish’
-  MM:       Marovo          sua(ra)           ‘generic for goatfish’
-  NCV:      S Efate         sus               ‘goatfish’
-  SV:       Kwamera         (ie)su            ‘goatfish’
-  NCal:     Iaai            (wa)si            ‘_M. flavolineatus_’’
-  Fij:      Wayan           ðū-ðū             ‘Parapeneus spp., goatfish’
+  NNG:  Manam           sua-sua           ‘goatfish, catfish’
+  MM:   Marovo          sua(ra)           ‘generic for goatfish’
+  NCV:  S Efate         sus               ‘goatfish’
+  SV:   Kwamera         (ie)su            ‘goatfish’
+  NCal: Iaai            (wa)si            ‘_M. flavolineatus_’’
+  Fij:  Wayan           ðū-ðū             ‘Parapeneus spp., goatfish’
 >
 
     The PPn reconstruction in the next set appears to be an old compound, but the meaning
@@ -3866,8 +3859,8 @@ of _*-ama_ is unknown.
  (i) lowering of the final vowel to _*o_. (ii) breaking of the vowel _o_ as _we_, and (iii) metathesis to _*wete_. He has
  tracked the same series of changes in PCP _*deu_ ‘unravel’ > PPn _*wete_ ‘untie’.
 
-[26] Admiralties terms apparently reflect Proto Admiralty *mʷacasei with some irregularities. Most other items
- reflect POc *mʷacasi.
+[26] Admiralties terms apparently reflect Proto Admiralty _*mʷacasei_ with some irregularities. Most other items
+ reflect POc _*mʷacasi_.
 
 86   Meredith Osmond
 
@@ -3890,7 +3883,7 @@ suggests that they are borrowings from a Polynesian language.
 
 <
 POc *sapulu ‘goatfish spp.’
-   PT:  Motu        dahuru        ‘k.o. fish’ (-r- for f-/-)
+   PT:  Motu        dahuru        ‘k.o. fish’ (_-r-_ for †_-l-_)
    Mic: Ponapean    epil          ‘_M. vanicolensis_, yellowfin goatfish’
    Mic: Mokilese    ɔpil          ‘goatfish’
    Fij: Lau         yavulu        ‘Mulloidichthys vanicolensis’
@@ -3934,7 +3927,7 @@ POc _*manipis_ ‘thin’- vol.2, p.202).
 
 2.39 Drummers, rudderfishes (_Kyphosidae_)
 
-Figure 2.20   _Kyphosus cinerascens_, ashen drummer
+Figure 2.20:_Kyphosus cinerascens_, ashen drummer
 
 Drummers or rudderfishes are a small family. Fishes are typically small, finely and closely scaled, and dull
 in colour. Most species are pelagic, often found under floating medusae. They are herbivorous fish, feeding
@@ -4008,11 +4001,11 @@ POc *bunaR ‘batfish, _Platax sp._ or spp., possibly _Naso sp._ or spp.’ [27]
   TM:  Buma        bunero           ‘batfish, _Platax sp._’
   Mic: Mokilese    pʷūn             ‘batfish’
   Pn:  Rennellese  puna             ‘general name for Moorish idols, batfish and some high, flat coral fish with extended fins’
-  Fij: Wayan       vuna-vuna        ‘juvenile phase of seabat or angelfish, _Platax pinnatus_’ (for †buna)
+  Fij: Wayan       vuna-vuna        ‘juvenile phase of seabat or angelfish, _Platax pinnatus_’ (for †_buna_)
 >
 
 
-[27] Disambiguated from POc *buna(r,R) by evidence from Palauan bits and Pendau bunag (R. Blust pers. comm.)
+[27] Disambiguated from POc _*buna(r,R)_ by evidence from Palauan _bils_ and Pendau _bunag_ (R. Blust pers. comm.)
 
                                                                                      Fish   89
 
@@ -4025,17 +4018,15 @@ black, red, orange, yellow and white. The fishes are diurnal and some species ar
 territorial, inhabiting one or more heads of plate coral. At dusk they retreat to reef crevices
 where they remain motionless until dawn (Allen & Swainston 1993:60).
 
-Figure 2.21 _Chaetodon sp._, coralfish
+Figure 2.21:_Chaetodon sp._, coralfish
 
-     Both Hooper (1994: p. 188) and Hviding (1996:192)
-have commented on the fact that in Oceanic languages butterflyfish, coralfish and angelfish are
-sometimes lumped together under one generic term, although angelfish belong in a separate
-family, _Pomacanthidae_. _Chaetodontidae_ are of little value for food, and there is apparently little
-point in distinguishing species or growth stages.
-I have two POc reconstructions, which presumably contrasted in meaning, but reflexes of both
- _*bebek_ and _*tipi-tipi_ have in some languages
-been used as the generic form for butterflyfish,
-coralfish, and perhaps others, and I have been
+     Both Hooper (1994: p. 188) and Hviding (1996:192) have commented on the fact that in Oceanic
+languages butterflyfish, coralfish and angelfish are sometimes lumped together under one generic
+term, although angelfish belong in a separate family, _Pomacanthidae_. _Chaetodontidae_ are of
+little value for food, and there is apparently little point in distinguishing species or growth
+stages. I have two POc reconstructions, which presumably contrasted in meaning, but reflexes of
+both  _*bebek_ and _*tipi-tipi_ have in some languages been used as the generic form for
+butterflyfish, coralfish, and perhaps others, and I have been
 unable to differentiate between their meanings. Although the final _*-k_ of _*bebek_ is not
 supported by the evidence given here, there can be no doubt that the same word in POc referred
 to both ‘butterfly’ and ‘butterflyfish’.
@@ -4044,9 +4035,9 @@ to both ‘butterfly’ and ‘butterflyfish’.
 POc *bebek ‘generic for _Chaetodontidae_, coralfish and butterflyfish’ (also ‘butterfly’; ch.7, §3)
   Adm: Penchal      pʷep         ‘_Chaetodontidae_, coralfish’
   Adm: Nali         pep          ‘_Chaetodontidae_, coralfish’
-  PT:  Motu         bebe         ‘_Chaetodon spp._’ (Oramn.d.) (kau-bebe ‘butterfly’)
+  PT:  Motu         bebe         ‘_Chaetodon spp._’ (Oramn.d.) (_kau-bebe_ ‘butterfly’)
   MM:  Bola         bebe         ‘butterflyfish’
-  MM:  Nakanai      bebe(o)      ‘k.o. fish’ (bebe ‘butterfly’)
+  MM:  Nakanai      bebe(o)      ‘k.o. fish’ (_bebe_ ‘butterfly’)
   SES: Kwaio        bebe         ‘tropical reef fish, including several species such as Moorish idol’
   SES: Lau          bebe         ‘generic for coralfish, _Chaetodon_’, butterfly’
   NCV: Mwotlap      bem          ‘_Chaetodon lineolatus_, lined butterflyfish’
@@ -4091,14 +4082,12 @@ POc *buRi-buRi ‘k.o. fish, possibly angelfish’
 
 2.44 Damselfishes or demoiselles, anemonefishes, sergeant-majors, pullers (_Pomacentridae_)
 
-Figure 2.22 _Adudefduf sp._, sergeant-major
+Figure 2.22: _Adudefduf sp._, sergeant-major
 
-These are very active brilliant little fishes of the
-coral reefs, seeking shelter among branches of
-coral and in crevices. They are often left in tide
-pools. They are trim and shapely, greatly suggesting butterflyfish in mode of life. Coloration
-is highly variable, ranging from grey to yellow to
-blue. Genera include _Pomacentrus_ (damselfish),
+These are very active brilliant little fishes of the coral reefs, seeking shelter among branches of
+coral and in crevices. They are often left in tide pools. They are trim and shapely, greatly
+suggesting butterflyfish in mode of life. Coloration is highly variable, ranging from grey to
+yellow to blue. Genera include _Pomacentrus_ (damselfish),
 _Amphiprion_ (anemonefish, clownfish), _Abudefduf_ (sergeant-majors) and _Chromis_ (pullers), and
 there are dozens of species. Two POc terms are
 reconstructed, the second one, _*taku-takuŋ_, possibly the term for juveniles, those of many species
@@ -4125,11 +4114,11 @@ PPn *mutu[mutu] ‘_Pomacentridae_’ (Hooper 1994)
                                                                                     Fish    91
 
 
-    Reflexes of POc *taku-takui], reconstructed below, have been reduplicated in various
-ways. Gumawana and PPn both reflect *t(o,u)kukuij, where the first syllable, *t(o,u)- is per
-haps itself a reduction of *taku-. Bing and Takia both reflect full reduplication after loss of
-*-k- Only Teop reflects the more usual Oceanic reduplication in ^taku-takuŋ. Central Pacific
-terms show assimilation of the first vowel *a > u.
+    Reflexes of POc _*taku-takuŋ_, reconstructed below, have been reduplicated in various
+ways. Gumawana and PPn both reflect _*t(o,u)kukuŋ_, where the first syllable, _*t(o,u)_- is per
+haps itself a reduction of _*taku-_. Bing and Takia both reflect full reduplication after loss of
+_*-k-_ Only Teop reflects the more usual Oceanic reduplication in _*taku-takuŋ_. Central Pacific
+terms show assimilation of the first vowel _*a_ > _u_.
 
 <
 POc *taku-takuŋ ‘small coral fish, damselfish or similar’
@@ -4154,14 +4143,12 @@ PPn *tukuku ‘_Pomacentridae_’
 Many _Cirrhitidae_ are richly coloured and abundant about coral reefs and rocks. They are
 solitary and sedentary, frequently seen sitting on top of coral heads, from which they make
 quick short darts for food (Munro 1967: p.442). Two reconstructions are possible at PPn level,
-_*patuki_ (Geraghty p.157) and _*qulu-tuki_ (Hooper p.206). Their association with *tuki ‘to
+_*patuki_ (Geraghty p.157) and _*qulu-tuki_ (Hooper p.206). Their association with _*tuki_ ‘to
 beat, pound’, is not understood.
 
 92   Meredith Osmond
 
-
-                 Figure 2.23   Cheilinus undulatus, double-headed Maori wrasse
-
+Figure 2.23:   Cheilinus undulatus, double-headed Maori wrasse
 
 2.46 Wrasses, tuskfishes (_Labridae_)
 
@@ -4249,8 +4236,8 @@ cf. also:
 <
 POc *merari ‘wrasse or parrotfish’
   NNG: Kove          lali              ‘parrotfish, bright blue-green fins and tail’ (irregular loss of first syllable)
-  NCV: Ambae         |mʷera (mavute)|  ‘checkerboard wrasse?’  [Halichoeres hortulanus] (mavute ‘white’) (loss of final *-ri unexpected)
-  NCV: Mota          mera              ‘k.o. fish’ (loss of final *-ri unexpected)
+  NCV: Ambae         |mʷera (mavute)|  ‘checkerboard wrasse?’  [Halichoeres hortulanus] (mavute ‘white’) (loss of final _*-ri_ unexpected)
+  NCV: Mota          mera              ‘k.o. fish’ (loss of final _*-ri_ unexpected)
   Mic: Marshallese   meṛœ              ‘parrotfish;  wrasse’
   Mic: Ponapean      merer             ‘wrasse’
 PCP *m[e,a]rari ‘Novaculichthys, wrasse’ (Geraghty 1994)
@@ -4305,13 +4292,11 @@ wrasse’ (_ŋutu-loa_ lit. ‘long nose’) (Geraghty p.159, Hooper pp.217-218)
 
 2.47 Parrotfishes (_Scaridae_)
 
-Figure 2.24 Bolbometopon muricatum, double-headed parrotfish
+Figure 2.24:Bolbometopon muricatum, double-headed parrotfish
 
-Parrotfish are closely related to the wrasses, although
-the latter are carnivorous. Parrotfish are herbivorous,
-typically large, the jaws with a bony beak. They are reef
-dwellers, feeding chiefly on vegetable matter, but their
-strong beaks easily crush molluscs and coral. Most pass
+Parrotfish are closely related to the wrasses, although the latter are carnivorous. Parrotfish are
+herbivorous, typically large, the jaws with a bony beak. They are reef dwellers, feeding chiefly
+on vegetable matter, but their strong beaks easily crush molluscs and coral. Most pass
 through one to three colour phases. Juveniles are usually plain, with mottling; immatures usually patterned
 with red, brown or purple, adults with blue, green, yellow, orange or red patterns (Munro 1967: p.431). Like the
 wrasses they retreat into holes in the coral at night to sleep. Genera include _Scarus_, _Hipposcarus_ and _Bolbometopon_.
@@ -4326,7 +4311,7 @@ POc *(k,q)ulapi ‘parrotfish spp., incl. _Hipposcarus longiceps_, long-nosed pa
   Adm: Loniu         uleh          ‘long-nosed parrotfish’
   Adm: Lenkau        ulep          ‘_Scaridae_, parrotfish’
   Adm: Titan         ula           ‘_Scaridae_’
-  PT:  Iduna         ulahi         ‘k.o. fish, large’ (for ^unavi)
+  PT:  Iduna         ulahi         ‘k.o. fish, large’ (for †_unavi_)
   MM:  Patpatar      uleh          ‘k.o. fish’
   MM:  Kara (East)   uləfi         ‘k.o. fish’
   SES: Gela          ulavi         ‘_H. longiceps_, longnose parrotfish’
@@ -4351,8 +4336,6 @@ PPn *qulafi ‘_Scaridae spp._’ (Hooper 1994)
 [31] _H. harid_ is an Indian Ocean species closely related to _H. longiceps_ (Kailola:377, FishBase)
 
 96   Meredith Osmond
-
-
 
     The double-headed or hump-headed parrotfish, _Bolbometopon muricatum_, is distinguished
 by its size and the hump on its forehead. While most species of parrotfish are under 50 cm in
@@ -4465,7 +4448,7 @@ cf. also:
    Pn:  Pukapukan      mōyē               ‘k.o. wrasse, _Stethojulis bandanensis_’
 >
 
-    Lower-level reconstructions include PNCV *saumʷa ‘parrotfish, _Scarus
+    Lower-level reconstructions include PNCV _*saumʷa_ ‘parrotfish, _Scarus
 sp._’ (François 2005:499), PCP _*bobo_ ‘_Scarus sp._’ (Geraghty p. 160) and PPn _*qufu_ ‘wrasse
 or parrotfish’ (Hooper 1994: p.217).
 
@@ -4474,9 +4457,9 @@ or parrotfish’ (Hooper 1994: p.217).
 
 2.48 Sandperches, Grubfishes (_Pinguipedidae_, and also _Mugiloididae_, _Parapercidae_)
 
-Fijian iko-tokoto-nivosai and PNPn *takoto (E Uvean and Samoan), although evidently similar,
-are both independently derived from the verb PCP *(ta)kolo ‘lie down’, which is typical
-sandperch behaviour (Geraghty p. 160). Samoan taʔoto is glossed ‘saury’, a fish from a different
+Fijian _iko-tokoto-nivōsai_ and PNPn _*takoto_ (E Uvean and Samoan), although evidently similar,
+are both independently derived from the verb PCP _*(ta)koto_ ‘lie down’, which is typical
+sandperch behaviour (Geraghty p. 160). Samoan _taʔoto_ is glossed ‘saury’, a fish from a different
 family, but one which also tends to lie on the bottom, sometimes burying itself in sand.
 No widespread cognate sets have been located.
 
@@ -4497,14 +4480,14 @@ which inhabit similar environments.
 <
 POc *kakawa ‘goby, blenny’
   PT:   Muyuw         kʷak            ‘gobies’ (Damon 1990)
-  SES:  Gela          |kakau (pilo)|  ‘blennies generic, particularly incl. rockskippers’ (pilo ‘to wave about’)
-  SES:  Lau           akʷa-akʷa       ‘sp. of walking fish in the mangroves’ (for] ʔakwa-ʔakw a)
+  SES:  Gela          |kakau (pilo)|  ‘blennies generic, particularly incl. rockskippers’ (_pilo_ ‘to wave about’)
+  SES:  Lau           akʷa-akʷa       ‘sp. of walking fish in the mangroves’ (for †_ʔakʷa-ʔakʷa_)
   SES:  Arosi         ʔaʔawa          ‘blenny’
   SV:   Anejom        ne-koa          ‘_Ecsenius sp._, blenny’
   Mic:  Woleaian      xawe-xaw        ‘Chloriirus spp., wrasse’
   Pn:   Hawaiian      ʔaʔawa          ‘Bodianus bilunulalus. wrasse’
 cf. also:
-   Pn:  Rennellese    kagapa          ‘small inedible rock-climbing black fish, prob. blennies’ (reflects a hypothetical *kalawa)
+   Pn:  Rennellese    kagapa          ‘small inedible rock-climbing black fish, prob. blennies’ (reflects a hypothetical _*kalawa_)
 >
 
    Lower level reconstructions include PCP _*(m,p)anoko_ ‘generic for gobies, mudskippers, blennies’,
@@ -4573,13 +4556,14 @@ Hooper (p.215) has reconstructed PNPn _*laulau-fau_ ‘_Zanclus canescens_, Moor
 
 2.54 Unicornfishes, surgeonfishes, bristletooths, tangs (_Acanthuridae_)
 
- Figure 2.25 _Naso unicornis_, long-snouted unicornfish
+Figure 2.25: _Naso unicornis_, long-snouted unicornfish
 
 All _Acanthuridae_ are herbivorous coral reef fish, scraping algae with their fine
 teeth. Genera include _Naso_, _Acanthurus_, _Zebrasoma_ and _Ctenochaetus_. They have
 thick leathery skin and a spine with one or more knife-like barbs on the tail which
-are capable of severe wounding. Surgeonfish are so named because of these lancetlike spines, unicorn fish because of the
-horn-like projection on the forehead. Juveniles differ greatly and are usually separately named in vernacular nomenclatures
+are capable of severe wounding. Surgeonfish are so named because of these lancetlike spines,
+unicorn fish because of the horn-like projection on the forehead. Juveniles differ greatly and
+are usually separately named in vernacular nomenclatures
 (Munro 1967: p.482). More POc reconstructions have been made for _Acanthuridae_ than for
 any other family. Three refer to the genus Naso ‘unicornfish’, but only one, _*qume_, clearly
 refers to a single species, _Naso unicornis_.
@@ -4592,7 +4576,7 @@ POc *qume ‘Naso unicornis, long-snouted unicornfish’
   SES: To’aba’ita      umea            ‘_N. unicornis_’
   SES: Langalanga      ume             ‘_N. unicornis_’
   SES: Lau             ʔume            ‘k.o. black flattish fish, good eating’
-  SES: Ulawa           |ume (totoro)|  ‘_N. unicornis_’ (totoro ‘crest’)
+  SES: Ulawa           |ume (totoro)|  ‘_N. unicornis_’ (_totoro_ ‘crest’)
   SES: Arosi           ume             ‘_N. unicornis_’
   NCV: Mota            ume             ‘large fish with a lump on the forehead’
   NCV: Vera’a          ʊm              ‘_N. tuberosus_’ (hump-nosed unicornfish)
@@ -4603,13 +4587,13 @@ POc *qume ‘Naso unicornis, long-snouted unicornfish’
 PPn *qume ‘Naso sp., unicornfish’ (Hooper 1994)
   Pn:  Tongan          ʔume            ‘_N. unicornis_’
   Pn:  Niuatoputapu    ʔume            ‘_Naso spp._’
-  Pn:  Samoan          ume             ‘name given to mature fishes of the genus Naso when about 30 cm long and over’ (ume-lei ‘Naso when about 15 cm long’)
-  Pn:  Rennellese      ʔume            ‘k.o. large fish, similar topunoŋi, perhaps a unicorn fish or parrot fish’
-  Pn:  Rennellese      |ʔume (kan)|    ‘a unicorn fish’ (kanu ‘patterned’)
+  Pn:  Samoan          ume             ‘name given to mature fishes of the genus Naso when about 30 cm long and over’ (_ume-lei_ ‘Naso when about 15 cm long’)
+  Pn:  Rennellese      ʔume            ‘k.o. large fish, similar to _punoŋi_, perhaps a unicorn fish or parrot fish’
+  Pn:  Rennellese      |ʔume (kan)|    ‘a unicorn fish’ (_kanu_ ‘patterned’)
   Pn:  Rarotongan      ume             ‘fish sp., leather-jacket’
   Pn:  Tikopia         ume             ‘_N. unicornis_’’
 cf. also:
-  PT:  Kilivila        gum             ‘k.o. fish’ (g- for fA>)
+  PT:  Kilivila        gum             ‘k.o. fish’ (_g-_ for †_k_)
 >
 
 
@@ -4643,7 +4627,7 @@ POc *m(a,o)nuRV ‘_Naso sp._, unicornfish’
   Adm:     Mussau       manoi          ‘unicornfish’
   NNG:     Bing         manur          ‘_N. lituratus_, poll unicornfish’ (Also known as stripe-face or orange-spine unicornfish)
   Mic:     Satawalese   mono           ‘k.o. surgeonfish, _Naso sp._’
-  Pn:      Pukapukan    maono          ‘Acanthurus guttatus, white-spotted surgeonfish’ (p unexpected)
+  Pn:      Pukapukan    maono          ‘Acanthurus guttatus, white-spotted surgeonfish’ (_o_ unexpected)
 >
 
     A number of terms for surgeonfish have been reconstructed. The following reconstruction,
@@ -4701,7 +4685,7 @@ POc *katawan ‘_Acanthurus_ taxon, surgeonfish’
 <
 PMP *paliR ‘surgeonfish’ (Blust 2002: PWMP)
 POc *[qa]paliR ‘_Acanthurus_, surgeonfish’
-  PT:  Misima        havani       ‘_A. nigricauda_, blackstreak surgeonfish’ (initial h- for |0)
+  PT:  Misima        havani       ‘_A. nigricauda_, blackstreak surgeonfish’ (initial _h-_ for †∅)
   MM:  Marovo        valiri       ‘generic for several medium sized dark surgeonfish’
   TM:  Buma          waviliro     ‘_A. lineatus_, lined surgeonfish’
 PCP *qavali ‘_Acanthurus sp._’ (Geraghty 1994)
@@ -4714,7 +4698,7 @@ cf. also:
 
 104     Meredith Osmond
 
-Figure 2.26   Left _Zebrasoma veliferum_, sailfin tang. Right _Acanthurus lineatus_, blue-lined surgeonfish.
+Figure 2.26:Left _Zebrasoma veliferum_, sailfin tang. Right _Acanthurus lineatus_, blue-lined surgeonfish.
 
 <
 POc *[s,j]abiŋ ‘_Acanthurus spp._, incl. _A. guttatus_, white-spotted surgeonfish’
@@ -4761,7 +4745,7 @@ PPn *qaloŋo ‘_Acanthurus sp._, probably _H. lineatus_, blue-lined surgeonfish
 <
 POc *kir[i,au] ‘_Acanthuridae_’
   Adm: Andra        kirau          ‘surgeonfish’
-  NNG: Tami         gilau          ‘_A. bleekeri_, k.o. surgeonfish’ [A. mata] (g- for exp æ-)
+  NNG: Tami         gilau          ‘_A. bleekeri_, k.o. surgeonfish’ [A. mata] (_g-_ for expected _k-_)
   NNG: Bing         kir            ‘surgeonfish’
   NNG: Kove         kiri           ‘fish, unicornfish?’
   MM:  Patpatar     kilo           ‘surgeonfish’ (_-l-_ for †_-r-_)
@@ -4806,13 +4790,13 @@ cf. also:
 <
 POc *ma(k,q)eto ‘a dark fish, possibly _Ctenochaetus striatus_’ (POc _*maqeto(m)_ ‘black’; cf. vol.2, p.206)
   MM:  Lihir       (mats)maket    ‘_C. striatus_’
-  MM:  Bola        meto           ‘k.o. fish’ (for ^mayeto)
+  MM:  Bola        meto           ‘k.o. fish’ (for †_maɣeto_)
   SES: Lau         mae(iʔa)       ‘k.o. fish’
   SES: ’Are’are    make           ‘black’
   SES: Arosi       maeo           ‘black’
   NCV: Uripiv      (ni)met        ‘Acanthurus blochii’
   NCV: Paamese     na-meto        ‘k.o. black fish’
-  Fij: Rotuman     vaefa          ‘Acanthurus triostegus’ (y- < POc */w w-)[34]
+  Fij: Rotuman     vaefa          ‘Acanthurus triostegus’ (_v-_ < POc _*mʷ-_)[34]
 PPn *maqito ‘_Acanthuridae_, possibly Ctenochaetus striatus, lined bristletooth’ (Hooper 1994)
   Pn:  Niuean      meito          ‘_A. xanthopterus_, yellowfin surgeonfish, edible’
   Pn:  E Uvean     maʔito         ‘_C. striatus_’
@@ -4857,7 +4841,7 @@ PPn *palaŋi ‘_Acanthurus sp._ of large size and elongate shape’ (Hooper 199
   Pn:  Tahitian       paraʔi       ‘_A. xanthopterus_’
   Pn:  Hawaiian       palani       ‘_A. dussumieri_, a surgeonfish famous for a strong odor’
 cf. also:
-  NNG: Kove           balaŋu-ŋu    ‘large fish’ (Z>- for fv-)
+  NNG: Kove           balaŋu-ŋu    ‘large fish’ (_b-_ for †_v-_)
   NNG: Manam          bela-bela    ‘_N. lituratus_, poll unicorn fish’
   MM:  Nehan          lake-lak     ‘Naso lituratus’ (no /k/ in Nehan?)
 >
@@ -4876,11 +4860,11 @@ Proto Remote Oceanic *manini ‘Acanthurus triostegus, convict tang’
 
    Geraghty (1994: pp. 161-162) adds further PCP reconstructions: PCP _*tusi_ ‘_Acanthurus sp._’
 (PPn _*tusi_ ‘mark, stripe’); _*masa_ ‘a small dark _Acanthuridae_, possibly _Zebrasoma scopas_.
-blue-lined tang or _A. pyroferus_, mimic surgeonfish’ and *ma(c,s)i-ma(c,s)i ) ‘_Naso sp._’.
+blue-lined tang or _A. pyroferus_, mimic surgeonfish’ and _*ma(c,s)i-ma(c,s)i_) ‘_Naso sp._’.
 
 108     Meredith Osmond
 
-Figure 2.27 _Siganus punctatus_, gold-spotted spinefoot
+Figure 2.27: _Siganus punctatus_, gold-spotted spinefoot
 
 2.55 Rabbitfishes, spinefeet (_Siganidae_)
 
@@ -5013,7 +4997,7 @@ reconstructed PPn _*maŋā_ ‘k.o. fish’ with meaning in Eastern Polynesian l
 
                                                                                    Fish    111
 
-Figure 2.28   Katsuwonus pelamis, skipjack tuna
+Figure 2.28: Katsuwonus pelamis, skipjack tuna
 
 
 2.57 Skipjacks, Spanish mackerels, mackerels, tunas, tunnies, albacores, wahoos (_Scombridae_)
@@ -5087,13 +5071,11 @@ PPn *qalu ‘Katsuwonuspelamis, skipjack tuna’ (Hooper 1994)
 
                                                                                   Fish   113
 
-
-                 Figure 2.29   _Scomberomorus commerson_, Spanish mackerel
-
+Figure 2.29:   _Scomberomorus commerson_, Spanish mackerel
 
     Blust (2002:130) notes that Tagalog is the only non-Oceanic language known to have a
-presumptive cognate, atun ‘tunny fish’, albeit with an unexpected high vowel, and concludes
-that ‘*qatun probably was a lexical innovation in POc and that the early Spanish explorers in
+presumptive cognate, _atun_ ‘tunny fish’, albeit with an unexpected high vowel, and concludes
+that ‘_*qatun_ probably was a lexical innovation in POc and that the early Spanish explorers in
 the Pacific borrowed the term from an Oceanic language (most likely in the western Solomon
 Islands) that preserved final consonants, and then introduced it into the Philippines’.
 
@@ -5228,7 +5210,7 @@ fish. The only reconstruction, PPn _*paqala_ ‘_Acanthocybium solandri_, wahoo�
 
 2.58 Marlins and sailfishes (_Istiophoridae_); swordfishes (_Xiphiidae_)
                                                        
-Figure 2.30 _Istiophorus platypterus_, Pacific sailfish
+Figure 2.30: _Istiophorus platypterus_, Pacific sailfish
 
 The _Istiophoridae_ are identified by an upper jaw in the form of a long sword. They
 are big-game fish, large, fast and powerful, and pelagic in open waters. Three marlins are
@@ -5262,7 +5244,6 @@ PPn *sakula ‘swordfish, sailfish’ (Hooper 1994)
   Pn:  K’marangi    |hakulā (tuakua)|  ‘_Makaira_ sp., marlin’
   Pn:  K’marangi    hakulā-hakulā      ‘_Istiophorus_ sp., sailfish’
 >
-
 
                                                                                   Fish    117
 
@@ -5330,7 +5311,7 @@ POc *[l]alali ‘flatfish incl. flounders, soles’
   NCV:  Mwotlap      lel             ‘flat fish’
   SV:   Anejom       n-acac          ‘flatfish, adapted for life on sand’
   NCal: Iaai         nʰen            ‘_Bothus sp._’
-PCP *lalali, *ali ‘flatfish’ (Geraghty 1994: *(y)ali)
+PCP *lalali, *ali ‘flatfish’ (Geraghty 1994: _*(y)ali_)
   Fij:  Bauan        lālali          ‘large flounder’
 PPn *ali ‘Bothus spp., flounder’ (Hooper 1994)
   Pn:   Niuean       ali             ‘_Bothus sp._, flatfish, flounder’
@@ -5353,7 +5334,7 @@ POc *lapaq ‘various flat fishes incl. sole and flounder’
    Mic:       Chuukese        lippə(r)         ‘all flatfishes’
    Mic:       Satawalese      nippæ(r)         ‘left eye flounder’
 cf. also:
-   Pn:        K’marangi       pai-pai          ‘Arnoglossns. flounder’
+   Pn:        K’marangi       pai-pai          ‘Arnoglossus, flounder’
 >
 
 [35] Reflected by Ambon _(al)ali_ ‘halibut, flounder’ and the Oceanic data.
@@ -5363,7 +5344,7 @@ cf. also:
 
 2.60 Stonefishes (_Synanceiidae_)
                                                       
-Figure 2.31 _Synanceia verrucosa_, reef stonefish
+Figure 2.31: _Synanceia verrucosa_, reef stonefish
 
 Scorpionfishes and lionfishes were formerly included with stonefishes as _Scorpaenidae_, but
 stonefishes have now been classified as a separate family, _Synanceiidae_. The latter are
@@ -5435,14 +5416,12 @@ PPn *nofu ‘Synaceja verrucosa, _Scorpaenidae spp._’ [Synanceiidae spp.] (Hoo
 
 120   Meredith Osmond
 
-
-
 2.61 Triggerfishes (_Balistidae_); filefishes and leatherjackets (_Monacanthidae_)
 
 
                                                                                                   Fish     121
 
-Figure 2.32     Monacanthus sp., scribbled leatherjacket
+Figure 2.32: Monacanthus sp., scribbled leatherjacket
 
 
 Triggerfishes (_Balistidae_) are characterised by a football shape, leathery skin, and small
@@ -5506,7 +5485,7 @@ POc *bubu ‘_Balistes_ taxon, triggerfish’
   SES: Lau          bubu         ‘triggerfish’
   SES: Kwaio        bubu         ‘reef triggerfish’
   SES: ’Are’are     pupu         ‘small fish’
-  SES: Arosi        bubu         ‘k.o. fish, _Balistes_’ (also bubu baru-baru)
+  SES: Arosi        bubu         ‘k.o. fish, _Balistes_’ (also _bubu baru-baru_)
   SES: Bauro        pupu         ‘_Balistoides viridescens_’
   NCV: Vera’a       bum          ‘_Balistidae_’
   Mic: Satawalese   pʷūpʷ        ‘triggerfish (generic)’
@@ -5571,7 +5550,7 @@ page 122, but this seems due to chance, as the glosses clearly allow a separate 
 
 124     Meredith Osmond
 
-Figure 2.33   Ostracion nasus, shortnosed boxfish
+Figure 2.33: Ostracion nasus, shortnosed boxfish
 
 <
 POc *bʷaReu ‘_Ostracion_, boxfish’
@@ -5667,7 +5646,7 @@ PPn *tautu ‘Diodon spp., porcupine fish’ (Hooper 1994)
 
 126    Meredith Osmond
 
-Figure 2.34     Arothron leopardus, leopard pufferfish
+Figure 2.34: Arothron leopardus, leopard pufferfish
 
 
    The next reconstruction is a semantic extension of POc _*poto(k)_ ‘thorn’ (vol.3, p. 125).
@@ -5693,8 +5672,8 @@ PPn *foto ‘barb of stingray’ (pollex) (see §66.6)
 <
 POc *bʷoe-bʷoe ‘pufferfish’
   MM:   Tabar       pu-pui         ‘pufferfish’
-  SES:  Gela        boe-bote       ‘generic pufferfish, _Tetradontidae_’ (-f- unexpected)
-  SES:  Longgu      |boe (sina)|   ‘_Diodon hystrix_, porcupinefish’ (sina ‘his/her younger sibling’)
+  SES:  Gela        boe-bote       ‘generic pufferfish, _Tetradontidae_’ (_-t-_ unexpected)
+  SES:  Longgu      |boe (sina)|   ‘_Diodon hystrix_, porcupinefish’ (_sina_ ‘his/her younger sibling’)
   SES:  To’aba’ita  |boe (ni asi)| ‘_Arothron hispidus_, pufferfish’ (lit. ‘inflated thing? of the sea’)
   SES:  Langalanga  boe            ‘_M. hispidiis_’ (white-spotted puffer)
   SES:  Lau         boe            ‘toadfish’
@@ -5779,7 +5758,7 @@ and _Naucrates ductor_, pilot fish’ with suggested etymology _*tali-tali_ ‘w
 ‘to steer’.
 
 
-                                   Figure 2.35   Remora remora
+Figure 2.35:   Remora remora
 
                                                                                  Fish   129
 
@@ -5852,12 +5831,12 @@ cf. also:
 
 <
 POc *koro ‘gills’
-  MM:       Vitu         koro-koro
-  MM:       Bulu         kolo-kolo
-  Mic:      Kiribati     ō
-  Mic:      Marshallese  oṛ
-  Mic:      Chuukese     wōr
-  Mic:      Woleaian     woẓo
+  MM:  Vitu         koro-koro
+  MM:  Bulu         kolo-kolo
+  Mic: Kiribati     ō
+  Mic: Marshallese  oṛ
+  Mic: Chuukese     wōr
+  Mic: Woleaian     woẓo
 >
 
 <
@@ -7799,7 +7778,7 @@ _*kaRu(i)ki_, _*kuka_, _*rakum(u)_, _*qalimaŋo_, _*tubaRa_.
 
 172   Andrew Pawley
 
-Figure 4.3 Scylla serrata, mangrove crab
+Figure 4.3:Scylla serrata, mangrove crab
 
 4.3.5.1 _Portunidae_, mangrove and swimming crabs
 
@@ -8615,9 +8594,9 @@ _*kuku_, _*kima_, _*sapulu(q)_, _*tiRom_, _*tu(qu)asi_, _*tu(q)e-tu(q)e_ and _*(
 
                                                                            Aquatic invertebrates   189
 
-Figure 4.6   Left to right Univalve shells: turban, trochus, cone, murex
+Figure 4.6:Left to right Univalve shells: turban, trochus, cone, murex
 
-Figure 4.7   _Tridacna gigas_, giant clam
+Figure 4.7:_Tridacna gigas_, giant clam
 
 
 4.4.5.1 Tridacninae, giant clams
@@ -9597,7 +9576,7 @@ PPn *puŋa ‘coral rock’
 
 4.6.3 _Scyphozoa_, _Ctenophora_ and _Hydrozoa_: true jellyfish, comb jellyfish and hydroids
 
-Figure 4.10   _Physalis sp._, Portuguese man o’ war
+Figure 4.10:_Physalis sp._, Portuguese man o’ war
 
 True jellyfish (_Scyphozoa_) are members of the
 _Cnidaria_, whose tentacles face down. They represent the medusa or free-swimming phase of
@@ -10139,7 +10118,7 @@ cf. also:
                                                             Mammals, reptiles, amphibians   223
 
 
-Figure 5.1   _Dendrolagus dorianus_, Doria’s tree kangaroo
+Figure 5.1:_Dendrolagus dorianus_, Doria’s tree kangaroo
 
 
 5.2.2.2 Tree kangaroos (Genus _Dendrolagus_)
@@ -12942,7 +12921,7 @@ term for ‘bird’.
 
 284   Ross Clark
 
-Figure 6.1   Gallus gallus, Red Jungle Fowl
+Figure 6.1:Gallus gallus, Red Jungle Fowl
 
 <
 PMP *manuk ‘bird, fowl’
@@ -14090,7 +14069,7 @@ POc *bʷalciRe ‘Purple Swamphen, Porphyrioporphyrio’
 
 308     Ross Clark
 
-Figure 6.10   Rallus philippensis, Buff-banded Rail
+Figure 6.10:Rallus philippensis, Buff-banded Rail
 
 Another possible POc reconstruction for the same bird is the following:
 
@@ -15934,7 +15913,7 @@ __pre__
 
 346     Ross Clark
 
-Figure 6.18     _Philemon buceroides_, Helmeted Friarbird
+Figure 6.18:_Philemon buceroides_, Helmeted Friarbird
 
     The following two items are the only possible Southeast Solomonic cognate found, and
 a possible Rennellese borrowing from a SE Solomonic language:
@@ -17095,7 +17074,7 @@ PNPn *[ta]lakia ‘White-capped Noddy, _Anous minutus_’
 
 The Oceanic Lexicon Project is concerned both with reconstruction of POc terms and their
 meanings and with compiling a picture of the kind of culture that can be associated with these
-reconstructed concepts.1 My intention here is not just to identify the insects that existed in
+reconstructed concepts.[1] My intention here is not just to identify the insects that existed in
 the world of Proto Oceanic speakers but also to consider their role in it. Were they dangerous
 or merely pesky, harmless, insignificant or perhaps useful? Were they associated with the
 supernatural? The perceived role of an insect depends on the way in which it impinges on
@@ -17136,7 +17115,7 @@ where two or more very similar reconstructions can be made for the same insect. 
 for noisy insects are likely to be influenced by onomatopoeia, while terms for insects that
 jump or sting or tickle may be derived from relevant verbs. This may help explain why I can
 have several reconstructions for an insect that are based on quite limited cognate sets, but
-no one dominant form. In contrast, terms such as POc *kutu ‘louse’ and POc *laijo ‘fly’ are
+no one dominant form. In contrast, terms such as POc _*kutu_ ‘louse’ and POc _*laŋo_ ‘fly’ are
 particularly stable, their reflexes occurring in a very high proportion of languages throughout
 the Oceanic region.
 
@@ -17144,32 +17123,32 @@ the Oceanic region.
 a possible supernatural marker. In 1983 Robert Blust presented a paper at the Third Eastern
 Conference on Austronesian Linguistics entitled _A linguistic key to the early Austronesian spirit world_[2].
 It dealt with the frequent occurrence of an affix, often fossilised, in Austronesian
-languages, traceable back to PAn. Its typical form was qali- or kali-, although there were
+languages, traceable back to PAn. Its typical form was _qali-_ or _kali-_, although there were
 a number of variants. Blust listed 62 lexical sets containing over 570 examples from about
  50 languages distributed geographically from Taiwan to Polynesia, with the vast majority
 occurring in Western Malayo-Polynesian languages. When these 62 lexical sets were sorted
 into semantic categories, 20 were for creepy-crawly life forms, the largest single category.
 Other categories were bats/birds (six sets including doves, owls), striking natural phenomena
 (six sets, including rainbows, echoes, whirlpools), body parts (five sets, including pupil of
-eye, hair whorl), and muddled psychological states (four sets, including being dizzy, talk-
-ing/walking in one’s sleep). The puzzle for Blust was to assign a single conceptual principle
-that linked these apparently disparate meanings. If qali-lkali- was a morpheme, what did it
+eye, hair whorl), and muddled psychological states (four sets, including being dizzy, talking/walking
+in one’s sleep). The puzzle for Blust was to assign a single conceptual principle
+that linked these apparently disparate meanings. If _qali-_/_kali-_ was a morpheme, what did it
 mean?
 
-    He realised that in a substantial number of cases the referents had a connection— most
-commonly a dangerous connection— with the world of spirits. Insects in particular were as sociated
-with spirits of the dead. The qali-lkali- terms listed by Blust (updated in 2001:37)
+    He realised that in a substantial number of cases the referents had a connection — most
+commonly a dangerous connection — with the world of spirits. Insects in particular were associated
+with spirits of the dead. The _qali-_/_kali-_ terms listed by Blust (updated in 2001:37)
 refer to the following creepy-crawlies: ant/termite, honey bee, bumble bee, beetle, butterfly,
 caterpillar, centipede, cockroach, crab, cricket, dragonfly, earthworm, firefly, flea, gecko,
 grasshopper, jungle leech, paddy leech, luminous millipede, scorpion, snake, spider, wasp.
 Other phenomena he lists (rainbows, whirlpools, sleep-walking etc.) are thought of as supernatural
-events/conditions. In other words, the qali-lkali- terms indicated a taboo, a warning
+events/conditions. In other words, the _qali-_/_kali-_ terms indicated a taboo, a warning
 that certain kinds of behaviour were to be avoided in the presence of these creatures or events.
 It would be an advantage for such taboos to be linguistically clearly marked, to be learned
 early by children.
 
     Blust strengthens his argument by considering the kinds of insects which are not marked
-by qali-lkali-. He sorts them into creatures that (i) tend to invade human space (maggot,
+by _qali-_/_kali-_. He sorts them into creatures that (i) tend to invade human space (maggot,
 horsefly, housefly, both types of lice, mosquito, nit), or (ii) are economically important either
 because they are edible (sago grub), or because they cause damage to human crops or
 constructions (termite).[3] In contrast, the marked creatures have little or no economic importance.
@@ -17184,16 +17163,16 @@ properties which might be regarded as supernatural (pp 37-38).
                                                             Insects and other creepy-crawlies          373
 
 
-    Blust concludes his argument: ‘In short, then, the function of the qali-lkali- prefix
+    Blust concludes his argument: ‘In short, then, the function of the _qali-_/_kali-_ prefix
 evidently was to mark facets of experience that were regarded as spiritually dangerous, hence
 requiring special precautions of a sort likely to be violated by incompletely accultured children.
 It did this purely by lengthening the affixed word to an atypical quadrisyllable shape,
 hence marking the associated semantic categories as those requiring particular behavioural
 sensitivity’ (p.59).
 
-     One of my purposes in this study, then, is to see to what extent gɑ/z-denoted insects are
+     One of my purposes in this study, then, is to see to what extent _qɑli_-denoted insects are
 regarded as creatures with supernatural associations in Oceanic languages. At first glance,
-it would seem that the Oceanic lexical forms no longer hold the same warning take care
+it would seem that the Oceanic lexical forms no longer hold the same WARNING TAKE CARE
 message. Nonetheless, the affix, or traces of it, occurs in a large number of Oceanic languages
 in a range of insect terms, and I have been able to reconstruct it to POc level in a small number
 of items.
@@ -17201,22 +17180,19 @@ of items.
 
 7.2 Lice (Order Anoplura: Family _Pediculidae_)
 
-One of the largest cognate sets in the entire lexicon
-of POc reconstructions is that reflecting *kutu ‘louse’.
-Its reflexes serve in places as a generic term for lice
-and fleas, often in compound form, when they refer to
-other creatures parasitic on plants or animals such as
-‘pig louse’ or ‘dog flea’. The very size of the set (I
-have over 100 reflexes) and their consistency of referent, must reflect its relative salience for witnesses in
-contemporary languages. The set below is simply a representative sample. Also reconstructed is POc *tuma
-‘body louse’. In Nakanai, Roviana and Gela, languages
-where reflexes of both *kutu and *tuma survive, reflexes of *tuma now refer to ‘flea, house louse, bed
-bug’, ‘house bug’ or ‘(mat-eating) moth’ respectively.
-As well, I have a widely reflected term for the louse egg
-or nit and a number of terms for the action of searching for headlice. This grooming activity was no doubt
-a regular feature of social life.
+One of the largest cognate sets in the entire lexicon of POc reconstructions is that reflecting
+_*kutu_ ‘louse’. Its reflexes serve in places as a generic term for lice and fleas, often in
+compound form, when they refer to other creatures parasitic on plants or animals such as
+‘pig louse’ or ‘dog flea’. The very size of the set (I have over 100 reflexes) and their
+consistency of referent, must reflect its relative salience for witnesses in contemporary
+languages. The set below is simply a representative sample. Also reconstructed is POc _*tuma_
+‘body louse’. In Nakanai, Roviana and Gela, languages where reflexes of both _*kutu_ and _*tuma_
+survive, reflexes of _*tuma_ now refer to ‘flea, house louse, bed bug’, ‘house bug’ or
+‘(mat-eating) moth’ respectively. As well, I have a widely reflected term for the louse egg
+or nit and a number of terms for the action of searching for headlice. This grooming activity was
+no doubt a regular feature of social life.
 
-Figure 7.1   Pediciilus humanus capitis, head louse (male)
+Figure 7.1: Pediciilus humanus capitis, head louse (male)
 
 
 374 Meredith Osmond
@@ -17246,7 +17222,7 @@ POc *kutu (1) ‘louse (generic)’; (2) ‘head louse’
   SES:    Lau           ʔū            ‘louse, flea’
   SES:    ’Are’are      ū             ‘louse, flea’
   NCV:    Mota          wutu          ‘louse’
-  NCV:    Raga          gutu          ‘generic for biting lice and sucking lice’ (gutu-boe ‘pig louse’, gutu-n-manu ‘bird louse’)
+  NCV:    Raga          gutu          ‘generic for biting lice and sucking lice’ (_gutu-boe_ ‘pig louse’, gutu-n-manu ‘bird louse’)
   NCV:    Tamambo       hutu          ‘louse’
   NCV:    Nguna         kūtu          ‘louse’
   SV:     Lenakel       kur           ‘louse’
@@ -17259,7 +17235,7 @@ POc *kutu (1) ‘louse (generic)’; (2) ‘head louse’
   Fij:    Rotuman       ʔufu          ‘louse’
   Fij:    Wayan         kutu          (1) ‘head louse’; (2) ‘generic for lice and fleas’
   Fij:    Bauan         kutu          ‘crab louse, flea’
-  Pn:     Tongan        kutu          ‘louse’ (kutu-fisi ‘flea’, kutu-lotuma ‘bedbug’)
+  Pn:     Tongan        kutu          ‘louse’ (_kutu-fisi_ ‘flea’, _kutu-lotuma_ ‘bedbug’)
   Pn:     Rennellese    kutu          ‘louse, bird louse, mite, leech, tiny insects of various kinds’
   Pn:     Samoan        ʔutu          ‘louse’
   Pn:     E Futunan     kutu          ‘head louse’
@@ -17273,12 +17249,12 @@ POc *kutu (1) ‘louse (generic)’; (2) ‘head louse’
 7.2.2 Body lice
 
 Because clothes did not feature strongly in the lives of Proto Oceanic speakers, who did not
-make use of woven cloth, I have preferred to gloss the POc reflex of PAn *tumeS ‘clothes
-louse’ as ‘body louse’. These creatures would no doubt have continued to exist in Proto
+make use of woven cloth, I have preferred to gloss the POc reflex of PAn _*tumeS_ ‘clothes louse’
+as ‘body louse’. These creatures would no doubt have continued to exist in Proto
 Oceanic household items such as the woven pandanus matting generally used as sleeping
-mats (vol.l, p.80). Although the term has survived in Proto Oceanic, its PAn/PMP meaning
+mats (vol.1, p.80). Although the term has survived in Proto Oceanic, its PAn/PMP meaning
 has been restored in Niuean and East Futunan reflexes, perhaps fortuituously, through the
-modem advent of clothing. It seems that in societies where woven clothes were not worn, the
+modern advent of clothing. It seems that in societies where woven clothes were not worn, the
 distinction between the different kinds of lice was not significant, and either term was used
 in places as a generic for functionally similar creatures.
 
@@ -17294,7 +17270,7 @@ POc *tuma ‘body louse’
   MM:      Nakanai        tuma            ‘house louse, bed bug, flea’
   MM:      Bola           tuma            ‘bug’
   MM:      Nehan          tuma(su)        ‘bedbug’
-  MM:      Roviana        tuma(o)         ‘house bug’ (ef also tuma-rere ‘stinking black cockroach’, tuma-rititi ‘k.o. dragonfly’)
+  MM:      Roviana        tuma(o)         ‘house bug’ (cf also _tuma-rere_ ‘stinking black cockroach’, _tuma-rititi_ ‘k.o. dragonfly’)
   SES:     Gela           tuma            ‘(mat-eating) moth’
   SES:     Fagani         (a)umʷa         ‘louse’
   Pn:      Niuean         tuma            ‘clothes louse’
@@ -17305,7 +17281,7 @@ POc *tuma ‘body louse’
 
 7.2.3 Nits
 
-In addition to POc *lisaq ‘nit’ I have reconstructed PWOc *lejaq ‘nit’. Both forms are securely based. No language has reflexes of both. Their formal similarity may be due to chance
+In addition to POc _*lisaq_ ‘nit’ I have reconstructed PWOc _*lejaq_ ‘nit’. Both forms are securely based. No language has reflexes of both. Their formal similarity may be due to chance
 or may reflect an early borrowing.
 
 <
@@ -17341,8 +17317,8 @@ POc *lisaq ‘nit’ [4]
   Pn:     Hawaiian    lia, liha
 >
 
-[4] Retention of final vowel in Lenakel ki-lha, Kwamera Ida-reset suggests that *-q was present (John Lynch,
- pers. comm.)
+[4] Retention of final vowel in Lenakel _ki-lha_, Kwamera _(kʷa)resa_ suggests that _*-q_ was
+present (John Lynch, pers. comm.)
 
 376 Meredith Osmond
 
@@ -17374,8 +17350,8 @@ PWOc *ka(R,r)oma ‘nit’
 7.2.4 Search head for lice
 
 One POc term and one Proto Remote Oceanic term have been reconstructed with specific reference to searching
-for lice. Other terms with more general meaning, particularly POc *tirop, *tirop-i ‘look
-intently’, are sometimes used. In Kove (NNG) the expression is ravu tuma ‘feel for lice’
+for lice. Other terms with more general meaning, particularly POc _*tirop_, _*tirop-i_ ‘look
+intently’, are sometimes used. In Kove (NNG) the expression is _ravu tuma_ ‘feel for lice’
 (Ann Chowning, pers. comm.).These terms indicate the likelihood of reciprocal grooming,
 an activity undertaken in many societies as part of social interaction.
 
@@ -17384,10 +17360,10 @@ PMP *tin[d]ap ‘look intently’ (Dempwolff 1938)
 POc *tiro(p),   *tirop-i- ‘look intently, look for (lice etc.)’
   MM:     Roviana    ti-tiro              ‘search for’
   SES:    Lau        irofi                ‘look at fixedly, look for’
-  SES:    Kwaio      |ilo(i) (falaina)|   ‘search hair (i.e. for lice)’ (falaina ‘hair’)
+  SES:    Kwaio      |ilo(i) (falaina)|   ‘search hair (i.e. for lice)’ (_falaina_ ‘hair’)
   SES:    ’Are’are   iro                  ‘look for, collect’
   SES:    Sa’a       irohi                ‘clear the head of lice’
-  SES:    Arosi      (ha)irōhi            ‘look for lice in the hair’ (ha- ‘verbal prefix’)
+  SES:    Arosi      (ha)irōhi            ‘look for lice in the hair’ (_ha-_ ‘verbal prefix’)
   Pn:     W Futunan  jiro(a)              ‘look carefully, search for’
   Pn:     Maori      tiro                 ‘look into, examine’
 >
@@ -17415,10 +17391,10 @@ Proto Remote Oceanic *pakit, *pakit-i- ‘search hair for lice’
 7.3 Butterflies (Order Lepidoptera = ‘scaly wings’)
 
 A number of formally similar reconstructions for butterfly have been made above the level
-of POc: PAn *(qali)-bei]bei]. : PMP *kali-mbembeij and PSHWNG ^kalə-mbombəŋ. From the
-first-mentioned one would expect the regularly derived POc *kali-boboij . It does appear, but
+of POc: PAn _*(qali)-beŋbeŋ_, PMP _*kali-mbembeŋ_ and PSHWNG _*kalə-mbombəŋ_. From the
+first-mentioned one would expect the regularly derived POc _*kali-boboŋ_. It does appear, but
 its reflexes are with one exception limited to the North New Guinea subgroup. The most
-widespread Oceanic cognate set, yielding POc *(kau)bebek, cannot be derived directly from
+widespread Oceanic cognate set, yielding POc _*(kau)bebek_, cannot be derived directly from
 PMP.
 
 378   Meredith Osmond
@@ -17444,9 +17420,9 @@ POc *[kali]bobo(ŋ) ‘butterfly’
   NNG:    Wogeo        bobo
 >
 
-   POc *[kau]bebek has reflexes throughout almost the entire Oceanic region apart from
-NNG. The added -a in Molima, Dobu, Sewa Bay, Duau, Bwaidoga and ’Auhelawa reflects a
-regular process, but the labialisation of *k is unexpected.
+   POc _*[kau]bebek_ has reflexes throughout almost the entire Oceanic region apart from
+NNG. The added _-a_ in Molima, Dobu, Sewa Bay, Duau, Bwaidoga and ’Auhelawa reflects a
+regular process, but the labialisation of _*k_ is unexpected.
 
 <
 POc *[kau]bebek ‘butterfly, moth’
@@ -17502,7 +17478,7 @@ PPT *qara-bembem ‘butterfly’
   PT:      Are         ara-bembemta
 >
 
-    In Western Oceanic, but with just two reflexes, I find—
+    In Western Oceanic, but with just two reflexes, I find —
 
 <
 PWOc *bebelo ‘butterfly’
@@ -17510,7 +17486,7 @@ PWOc *bebelo ‘butterfly’
   MM:      Torau       bebelo
 >
 
-—and in that part of MM which lies within the Northwest Solomons:
+— and in that part of MM which lies within the Northwest Solomons:
 
 <
 Proto Northwest Solomonic *pepele ‘butterfly’
@@ -17525,14 +17501,13 @@ cf. also
    TM:     Teanu       mebeli
 >
 
-    What are we to make of these variations? Butterflies, like lice and flies, are commonplace, but whereas I have extremely stable cognate sets for the latter two, butterfly terms in
-
 380     Meredith Osmond
 
-
+    What are we to make of these variations? Butterflies, like lice and flies, are commonplace,
+but whereas I have extremely stable cognate sets for the latter two, butterfly terms in
 Western Oceanic have many slightly different forms. It is as if there is wordplay, with small
 changes being deliberately made to a word. Was there something culturally significant about
-butterflies, perhaps some trace of the supernatural that the kali- prefix reflects, that gave rise
+butterflies, perhaps some trace of the supernatural that the _kali-_ prefix reflects, that gave rise
 to some taboo about the use of the normal term? Although I have examples of an association
 between butterflies and the supernatural in Sa’a (Ivens 1927:187), Maori (Andrew Crowe
 pers. comm.) and Easter Island (Steven Roger Fischer pers. comm.) I have no comparable
@@ -17546,16 +17521,16 @@ particular clans in their traditional form. Others may continue the legends but 
 to use traditional names (Pech 1991:116). If this were the case, it would be the names, rather
 than the creature, which were subject to some kind of taboo. It may have been some such reason
 that is the explanation for the numerous variations in the WOc butterfly term. The EOc
-terms, however, are quite consistent, all derived from one of the WOc variations, *bebek, so
+terms, however, are quite consistent, all derived from one of the WOc variations, _*bebek_, so
 evidently no longer subject to the same taboo pressures.
 
      Although POc speakers evidently included moths and butterflies within one generic term,
 I have a lower-level reconstruction which is limited to moths, possibly a particular kind of
-moth. Samoan and Tikopia reflect *lele-fua while the Central Eastern Polynesian languages
+moth. Samoan and Tikopia reflect _*lele-fua_ while the Central Eastern Polynesian languages
 appear to have added a prefix of unclear function.
 
 <
-PNPn *[pu]lele-fua ‘k.o. moth’ (pollex: *lele ‘fly swiftly’)
+PNPn *[pu]lele-fua ‘k.o. moth’ (pollex: _*lele_ ‘fly swiftly’)
   Pn:     Samoan     lele-fua          ‘moth’
   Pn:     Tikopia    rere-fue          ‘large moth’
   Pn:     Rarotongan purere-ʔua        ‘large moth sp.’
@@ -17567,17 +17542,15 @@ PNPn *[pu]lele-fua ‘k.o. moth’ (pollex: *lele ‘fly swiftly’)
 
 7.4 Mosquitoes (Order Diptera = ‘two wings’: Family _Culicidae_)
 
-A POc reconstruction for ‘mosquito’, ^hamuk, is based on
-numerous cognates from all major subgroups, with little
-variation in meaning, together with a PMP antecedent. In
-some Papuan Tip languages reflexes form compounds to
-refer to a range of small flying biting insects. The PT reflexes have undergone a common sporadic vowel change,
-lowering of unstressed -u to -o.
+A POc reconstruction for ‘mosquito’, _*ñamuk_, is based on numerous cognates from all major
+subgroups, with little variation in meaning, together with a PMP antecedent. In some Papuan Tip
+languages reflexes form compounds to refer to a range of small flying biting insects. The PT
+reflexes have undergone a common sporadic vowel change, lowering of unstressed _-u_ to _-o_.
 
     A number of terms that refer to the mosquito have been
-reconstructed in addition to *hamuk.
+reconstructed in addition to _*ñamuk_.
 
-    Figure 7.2  _Anopheles sp._, mosquito
+Figure 7.2:  _Anopheles sp._, mosquito
 
                                                  Insects and other creepy-crowlies   381
 
@@ -17591,11 +17564,11 @@ POc *ñamuk ‘mosquito’
   NNG:    Lukep (Pono) nam           ‘mosquito’
   NNG:    Kaiwa        namuk         ‘mosquito’
   NNG:    Manam        nam           ‘mosquito’
-  PT:     Molima       namo-namo     ‘fly’ (namo-kili ‘mosquito’, namo-kodu-kodu ‘k.o. sandfly’)
-  PT:     Bwaidoga     nimoɣa        ‘mosquito’ (namo-kili-kili ‘fruit-fly’)
+  PT:     Molima       namo-namo     ‘fly’ (_namo-kili_ ‘mosquito’, _namo-kodu-kodu_ ‘k.o. sandfly’)
+  PT:     Bwaidoga     nimoɣa        ‘mosquito’ (_namo-kili-kili_ ‘fruit-fly’)
   PT:     Maisin       namoɣi        ‘mosquito’
-  PT:     Minaveha     namo-namo     ‘fly (generic)’ (namo-kina ‘mosquito’, vivia namo-namo ‘wasp, small red variety’)
-  PT:     Gapapaiwa    namo-namo     ‘fly’ (namo-kiri ‘mosquito)
+  PT:     Minaveha     namo-namo     ‘fly (generic)’ (_namo-kina_ ‘mosquito’, _vivia namo-namo_ ‘wasp, small red variety’)
+  PT:     Gapapaiwa    namo-namo     ‘fly’ (_namo-kīri_ ‘mosquito)
   PT:     Are          namo-namo     ‘housefly’
   PT:     Motu         namo          ‘mosquito’
   PT:     Sudest       ñamo-ñamo     ‘fruitfly’
@@ -17610,7 +17583,7 @@ POc *ñamuk ‘mosquito’
   NCV:    Mota         namu          ‘mosquito’
   NCV:    Raga         namu          ‘generic for mosquitoes’
   NCV:    Paamese      a-namu        ‘mosquito’
-  NCV:    Nese         namɣo         (regular metathesis of final *-Vk)
+  NCV:    Nese         namɣo         (regular metathesis of final _*-Vk_)
   SV:     Sye          yomoɣ         ‘mosquito’
   SV:     Anejom       n-yamʷ        ‘mosquito’
   NCal:   Nixumwak     nabuc         ‘mosquito’
@@ -17628,19 +17601,19 @@ POc *ñamuk ‘mosquito’
 382 Meredith Osmond
 
 
-   The following reconstruction shares the same second syllable as *hamuk ‘mosquito’.
-Both *hamuk and *simuk evidently referred to ‘mosquito’ in WOc, although *simuk may
-have had a broader semantic range than *hamuk, its reflexes at times referring to other small
-biting flies. Southeast Solomonic terms reflect Proto Southeast Solomonic *simi rather than f *simu.
-(Maringe si-simi is evidently borrowed from a neighbouring SES language). Reflexes of
-*simuk are not found in subgroups east of the Solomons.
+   The following reconstruction shares the same second syllable as _*ñamuk_ ‘mosquito’.
+Both _*ñamuk_ and _*simuk_ evidently referred to ‘mosquito’ in WOc, although _*simuk_ may
+have had a broader semantic range than _*ñamuk_, its reflexes at times referring to other small
+biting flies. Southeast Solomonic terms reflect Proto Southeast Solomonic _*simi_ rather than †_*simu_.
+(Maringe _si-simi_ is evidently borrowed from a neighbouring SES language). Reflexes of
+_*simuk_ are not found in subgroups east of the Solomons.
 
 <
 POc *simuk ‘mosquito, small biting fly’
   NNG:    Tuam          sum                ‘mosquito’
   NNG:    Mato          simak              ‘sandfly’
   NNG:    Labu          sumu(si)           ‘mosquito’
-  PT:     Wedau         imo(kini)          ‘mosquito’ (kini ‘to sting’)
+  PT:     Wedau         imo(kini)          ‘mosquito’ (_kini_ ‘to sting’)
   PT:     Tawala        himo(kini)         ‘mosquito’
   PT:     Tawala        himo-himo(kini)    ‘sandfly’
   PT:     Dawawa        simo(kin)          ‘mosquito’
@@ -17660,14 +17633,14 @@ POc *simuk ‘mosquito, small biting fly’
   SES:    Sa’a          sime               ‘mosquito’
 >
 
-    Another term, POc *ma-kini(t), is also reconstructable, with reflexes thar refer to ‘mosquito’
+    Another term, POc _*ma-kini(t)_, is also reconstructable, with reflexes thar refer to ‘mosquito’
 in Western Oceanic, but in Remote Oceanic rather to the state of being stung. As a literal
-translation of a form of the verb *kini-t, ‘to pinch’, *ma-kini(t) means ‘to get pinched’, i.e. ‘get
-stung’. The languages in which reflexes of *ma-kini(t) are listed have all lost POc final consonants,
-and putative final *-t is reconstructed on the basis of etymology. In languages such
-as (PT) Gumawana, the meaning of the verb gini includes ‘to puncture, spear, inject, sting’.
-Reflexes of *kini-t appear frequently in PT languages as the second element in compound
-terms referring to biting insects. (See also POc *simuk above.)
+translation of a form of the verb _*kini-t_, ‘to pinch’, _*ma-kini(t)_ means ‘to get pinched’, i.e. ‘get
+stung’. The languages in which reflexes of _*ma-kini(t)_ are listed have all lost POc final consonants,
+and putative final _*-t_ is reconstructed on the basis of etymology. In languages such
+as (PT) Gumawana, the meaning of the verb _gini_ includes ‘to puncture, spear, inject, sting’.
+Reflexes of _*kini-t_ appear frequently in PT languages as the second element in compound
+terms referring to biting insects. (See also POc _*simuk_ above.)
 
 <
 POc *ma-kini(t) ‘mosquito’
@@ -17687,10 +17660,10 @@ cf. also:
                                                      Insects and other creepy-crawlies      383
 
 
-    A tendency to identify small buzzing and biting insects with nasal-initial terms and fre
-quent reduplication is noted with *hamuk as well as POc 'djiŋi(ŋ) and PWOc *yati-yati below,
-and is apparent also in the terms for sandfly/midge/gnat in the following section (POc *niku-
-niku, *nonok, *iji(s,j)i'y Most are onomatopaeic, using //, h and ŋ almost interchangeably,
+    A tendency to identify small buzzing and biting insects with nasal-initial terms and frequent
+reduplication is noted with _*ñamuk_ as well as POc _*ŋiŋi(ŋ)_ and PWOc _*ŋati-ŋati_ below,
+and is apparent also in the terms for sandfly/midge/gnat in the following section (POc
+_*niku-niku_, _*nonok_, _*ŋi(s,j)i_). Most are onomatopaeic, using _n_, _ñ_ and _ŋ_ almost interchangeably,
 making it difficult to trace cognate forms.
 
 <
@@ -17725,7 +17698,7 @@ Cognates in the following sets refer to a range of very small flying biting inse
 of identity may be due to the fact that speakers have no real need to distinguish these insects
 more precisely.
 
-    POc *niku-niku from PMP *nik-nik rather than the expected '`''diinik may simply be another
+    POc _*niku-niku_ from PMP _*nik-nik_ rather than the expected †_*ninik_ may simply be another
 example of the playful variation prevalent in some insect terms.
 
 384 Meredith Osmond
@@ -17743,8 +17716,8 @@ POc *niku-niku ‘small biting fly’
   MM:     Vangunu         niku-niku     ‘midge’
 >
 
-    Polynesian reflexes of *nonok ‘sandfly, midge’ appear to refer to fruitflies and perhaps
-other small non-biting flies. The Cristobal-Malaitan terms reflect PCM *nono(i)tasi, literally
+    Polynesian reflexes of _*nonok_ ‘sandfly, midge’ appear to refer to fruitflies and perhaps
+other small non-biting flies. The Cristobal-Malaitan terms reflect PCM _*nono(i)tasi_, literally
 ‘fly of salt water’.
 
 <
@@ -17807,11 +17780,11 @@ PWOc *ki(r,R)i-ki(r,R)i ‘sandfly’
 
 7.6.1 Flies (generic); houseflies
 
-Blust (2002) has reconstructed both PMP *lalej ‘housefly’ and PMP ^laŋaw ‘botfly, bluebottle’.
+Blust (2002) has reconstructed both PMP _*lalej_ ‘housefly’ and PMP _*laŋaw_ ‘botfly, bluebottle’.
 The latter became in POc the generic term for flies, with reflexes often referring
 specifically to the common housefly.
 
-    Reflexes of POc *larjo ‘fly’ are both numerous and widespread, occurring in all major
+    Reflexes of POc _*laŋo_ ‘fly’ are both numerous and widespread, occurring in all major
 subgroups. In a number of languages including Lou (Adm), Gela (SES) and Hawaiian (Pn),
 the term is used in compounds as first element, referring to a range of flies (housefly, blowfly,
 horsefly, March fly, bluebottle fly etc.).
@@ -17860,8 +17833,6 @@ POc *laŋo ‘fly’
 386 Meredith Osmond
 
 
-
-
 7.6.2 Horseflies and March flies
 
 Members of the horsefly and March fly families suck the blood of mammals, inflicting a
@@ -17870,10 +17841,8 @@ painful bite. Few terms have been collected, and no reconstructions have been po
 
 7.7 Dragonflies and damselflies (Order Odonata = ‘flies with teeth’)
 
-Dragonflies and damselflies are arguably the most
-acomplished aerialists in the animal kingdom. Swift
-and agile, they can reverse direction in midair within
-one body length, hover with ease and fly backwards.
+Dragonflies and damselflies are arguably the most acomplished aerialists in the animal kingdom. Swift
+and agile, they can reverse direction in midair within one body length, hover with ease and fly backwards.
 They copulate in the air, typically over a body of fresh
 water, where the female lays her eggs. Although cognate sets have been elusive, a remarkable consistency
 of meaning has emerged in descriptive compounds
@@ -17882,56 +17851,49 @@ SE New Britain to the Solomons to Fiji. Terms referring to copulation have evide
 by euphemisms in many languages. Lack of cognacy in the
 terms for water is due to the tendency in some languages to generalise terms originally referring
 specifically to fresh water, rain, river, pond and so on. For instance, the second element
-in the Pendau (central Sulawesi) term for a dragonfly, tuntu/rano, translates literally as ‘lake’
-(Phil Quick pers. comm.). POc *waiR ‘water’ is attested in the two following (non-cognate)
+in the Pendau (central Sulawesi) term for a dragonfly, _tuntu/rano_, translates literally as ‘lake’
+(Phil Quick pers. comm.). POc _*waiR_ ‘water’ is attested in the two following (non-cognate)
 sets by terms from SES, NCV and Fiji.
 
-Figure 7.3   Dragonfly
+Figure 7.3: Dragonfly
 
                                                       Insects and other creepy-crowlies      387
 
-
-__pre__
-   NNG:    Poeng         roro-me        (roro ‘copulate’, me ‘water’)
-   SES:    Gela          hita-hita-beti (hito ‘to cohabit’, bell ‘water, stream’)
-   SES:    Arosi         ʔani-wai       (ʔani ‘fornicate’, wai ‘water’)
+__formgroup__
+   NNG:    Poeng         roro-me        (_roro_ ‘copulate’, _me_ ‘water’)
+   SES:    Gela          hita-hita-beti (_hito_ ‘to cohabit’, _beti_ ‘water, stream’)
+   SES:    Arosi         ʔani-wai       (_ʔani_ ‘fornicate’, _wai_ ‘water’)
    Mic:    Chuukese      nifefecon      (‘the one that copulates with water’; Davis 1999)
-   Fij:    Wayan         dulu-dulu-wai (dulu ‘copulate’, wai ‘water’)
-   Fij:    Bauan         ðai-ðai-wai    (ðai ‘copulate’, wai ‘water’)
+   Fij:    Wayan         dulu-dulu-wai (_dulu_ ‘copulate’, _wai_ ‘water’)
+   Fij:    Bauan         ðai-ðai-wai    (_ðai_ ‘copulate’, _wai_ ‘water’)
 
    Other compounds retain the water connection, but vary the verbal concept.
 
-__pre__
-   PT:     Sudest            (wawa
-                         wawa-emba       mbwa ‘water’)
-   SES:    Gela          gi to-be ti
-                             (‘steal water’)
-   SES:    Tolo              (ici “T, kolo ‘water’)
-                         ici-kolo
-   SES:    Lau           nalu-kafo
-                             (‘scoop up water’)
-                             kafo (‘skim water’)
-                         tatara
-   SES: Longgu               ‘large dragonfly with tail like a helicopter’ (lit
-                         tatara-wai
-                             ‘skim water’)
-   SES: Sa’a      tdtara-wai (‘skim water’)
-   SES: Arosi     tdtd-wai   (‘skim water’)
-   SES: ’Are’are  tatara-wa  (‘skim water’)
-   NCV: Mota      roro-pei   (roro ‘sink’, pei ‘water’)
-   NCV: Paamese   menmen-oai (men-men cf. munmun ‘drink’, oai ‘water’)
-   NCV: SE Ambrym mnnmnn-oi (‘drink water’)
+__formgroup__
+   PT:  Sudest     wawa-emba     (wawa ?, mbwa ‘water’)
+   SES: Gela       gito-beti     (‘steal water’)
+   SES: Tolo       ici-kolo      (ici ?, kolo ‘water’)
+   SES: Lau        nalu-kafo     (‘scoop up water’)
+   SES: Lau        tatara kafo   (‘skim water’)
+   SES: Longgu     tatara-wai    ‘large dragonfly with tail like a helicopter’ (lit ‘skim water’)
+   SES: Sa’a       tātara-wai    (‘skim water’)
+   SES: Arosi      tātā-wai      (‘skim water’)
+   SES: ’Are’are   tatara-wa     (‘skim water’)
+   NCV: Mota       roro-pei      (_roro_ ‘sink’, _pei_ ‘water’)
+   NCV: Paamese    menmen-oai    (_men-men_ cf. _munmun_ ‘drink’, _oai_ ‘water’)
+   NCV: SE Ambrym  munmun-oi     (‘drink water’)
 
-    Samoan retains the skimming element in seʔe-mu ‘dragonfly’ (seʔe ‘glide’, mil ‘flying
+    Samoan retains the skimming element in _seʔe-mū_ ‘dragonfly’ (_seʔe_ ‘glide’, _mū_ ‘flying
 insect’).
 
-    The Rennellese describe it as a sailing insect: mann-mann hogan (hogan ‘sailor, ocean
+    The Rennellese describe it as a sailing insect: _manu-manu hogau_ (_hogau_ ‘sailor, ocean
 voyager’).
 
     There are isolated instances of dragonflies being used in sorcery, as a means of causing death
 in Kiribati (Rosemary Grimble 1972:26-27) and to facilitate theft in Tahiti (Henry 1971:391),
 but rather than reflecting something specific about the role of dragonflies in POc
-times, this is probably no more than an indication that certain insects were commonly regarded as agents of the gods and spirits.
+times, this is probably no more than an indication that certain insects were commonly regarded as
+agents of the gods and spirits.
 
 
 7.8 Bees (Order Hymenoptera = ‘membrane wings’: Super Family Apoidea)
@@ -17949,10 +17911,10 @@ cf. also:
 388    Meredith Osmond
 
 
-    Although the following reconstruction bears some resemblance to PMP *(n,h)ik-(n,h)ik,
+    Although the following reconstruction bears some resemblance to PMP _*(n,ñ)ik-(n,ñ)ik_,
 ‘tiny biting insect: gnat, sandfly, fruitfly’ (§5), it is lacking a final consonant and may simply
-have been generated independently on onomatopoeic grounds. The initial ŋ- of the Lau and
-Sa’a cognates is a common variation on n- and h- that occurs in terms for buzzing insects.
+have been generated independently on onomatopoeic grounds. The initial _ŋ-_ of the Lau and
+Sa’a cognates is a common variation on _n-_ and _ñ-_ that occurs in terms for buzzing insects.
 
 <
 POc *(n,ñ)i(n,ñ)i ‘bee, buzzing insect’
@@ -17969,7 +17931,7 @@ POc *(n,ñ)i(n,ñ)i ‘bee, buzzing insect’
 
 7.9 Wasps (Order Hymenoptera): Families _Ichneumonidae_, _Vespidae_ (paper wasp), _Sphecidae_ (mud-dauber wasp, mason wasp)
 
-I have been unable to identify a particular species that can be identified by POc *pupuk. It
+I have been unable to identify a particular species that can be identified by POc _*pupuk_. It
 may be a name given to any wasp-like insect that infests wood.
 
 <
@@ -17996,9 +17958,9 @@ POc *pupuk ‘k.o. borer wasp or bee that infests wood and bamboo’
   Pn:  Marquesan   huhu            ‘white wood-eating worm’
 cf. also:
   PT:  Minaveha    vuvu(ha)        ‘bee, small black variety that bores holes in wood’
-  MM:  Nakanai     vuvu(li)        ‘k.o. stinging worm which is painful’ (reflects ^pupuni)
-  MM:  Roviana     vuvu(nu)        ‘wood-eating worm’ (reflects *pupun rather than *pupuk)
-  NCV: Raga        |huhu (gai)|    ‘generic for wood-boring beetle larvae’ (expect vuvu)
+  MM:  Nakanai     vuvu(li)        ‘k.o. stinging worm which is painful’ (reflects †_*pupuni_)
+  MM:  Roviana     vuvu(nu)        ‘wood-eating worm’ (reflects _*pupun_ rather than _*pupuk_)
+  NCV: Raga        |huhu (gai)|    ‘generic for wood-boring beetle larvae’ (expect _vuvu_)
   NCV: Raga        |huhu (lua)|    ‘bee or wasp, hairy body, large head, painful sting’
 >
 
@@ -18007,7 +17969,7 @@ cf. also:
                                                     Insects and other creepy-crawlies        389
 
 
-    The next reconstruction, POc *bubu ‘k.o. wasp’, may simply be a variant of POc *pupuk.
+    The next reconstruction, POc *bubu ‘k.o. wasp’, may simply be a variant of POc _*pupuk_.
 
 <
 POc *bubu ‘k.o. wasp’
@@ -18025,16 +17987,16 @@ cf. also:
    SES:  Sa’a       pupu(oro)      ‘an insect which digs up the ground and leaves a track’ (pro ‘stoop down’)
   SES:   Arosi      buburu(mʷago)  ‘mason bee, v large variety’ (_mʷago_ ‘earth, soil, brown?’. Also _totora mʷago_ ‘mason bee’)
   SES:   Arosi      buburu(atoā)   ‘k.o. cricket’ (atod ‘noon’)
-  Pn:    Tikopia    pupu(matau)    ‘dragonfly’ (trad, embodiment of spirit) (matau ‘fishhook’?)
+  Pn:    Tikopia    pupu(matau)    ‘dragonfly’ (trad, embodiment of spirit) (_matau_ ‘fishhook’?)
 >
 
     I am unable to account for the existence of two very similar POc reconstructions for
-‘wasp’, *manipo and *(n,h)i(n,h)ipo, although presumably they are contrasted with *pupukl
-*bubu. Nor can they be divided according to their subgroups; reflexes of both appear in the
-Admiralties and in the Southeast Solomons. Wandamen (SHWNG) anibar ‘wasp/bee’ may
-be a non-Oceanic cognate. A third group reflects Proto Central Papuan *naniyo. It seems that
+‘wasp’, _*manipo_ and _*(n,ñ)i(n,ñ)ipo_, although presumably they are contrasted with
+_*pupuk_/_*bubu_. Nor can they be divided according to their subgroups; reflexes of both appear in the
+Admiralties and in the Southeast Solomons. Wandamen (SHWNG) _anibar_ ‘wasp/bee’ may
+be a non-Oceanic cognate. A third group reflects Proto Central Papuan _*naniɣo_. It seems that
 here we have yet another example of wordplay. It is difficult to know whether the resemblance
-between *(n,h)i(n,h)ipo ‘wasp’ below and *(n,h)i(n,h)i ‘bee, buzzing insect’ (§8) arose by
+between _*(n,ñ)i(n,ñ)ipo_ ‘wasp’ below and _*(n,ñ)i(n,ñ)i_ ‘bee, buzzing insect’ (§8) arose by
 chance or reflects common ancestry in some way.
 
 390 Meredith Osmond
@@ -18065,8 +18027,8 @@ Proto Central Papuan *naniɣo ‘wasp’
    PT:  Lala       naniʔo        ‘wasp’
 >
 
-    In the next set we find the same lowering of an unstressed vowel from l-ul to l-ol in Papuan
-Tip languages that was noted in reflexes of POc *hamuk (§4).
+    In the next set we find the same lowering of an unstressed vowel from /_-u_/ to /_-o_/ in Papuan
+Tip languages that was noted in reflexes of POc _*ñamuk_ (§4).
 
 <
 PWOc *gumu ‘k.o. wasp’
@@ -18089,44 +18051,44 @@ PWOc *gumu ‘k.o. wasp’
 Although sources for a number of languages give a term for ants in general, I cannot reconstruct
 a POc generic. It is likely that the dominant ant species varies from place to place, and
 that the term for that species has become the generic term in that area. In Yabem (NNG), for
-instance, the generic term is lese?, in Sudest (PT) it is vwara-vwara, in Vitu (MM) duri-duri.
-and in Kwaio (SES), ta-galo. In Wayan Fijian kadi (from POc *kadik ‘stinging black ant’)
-has become the generic. In Niue and Tonga, Id (from POc *loRo ‘large red stinging ant’) is
+instance, the generic term is _lêsêʔ_, in Sudest (PT) it is _vwara-vwara_, in Vitu (MM) _duri-duri_,
+and in Kwaio (SES), _ta-galo_. In Wayan Fijian _kadi_ (from POc _*kadik_ ‘stinging black ant’)
+has become the generic. In Niue and Tonga, _lō_ (from POc _*loRo_ ‘large red stinging ant’) is
 the generic form. However, a number of POc reconstructions can be made for ant taxa.
 
 <
 POc *kadik ‘stinging black ant’
-  Adm :    Nyindrou       karak           ‘ant’ (Tryon 1995)
-  NNG:     Kaulong        keh-keh         ‘(?) (red) ant’
-  MM:      Bulu           kadi            ‘stinging black ant’
-  MM:      Tolai          kədik           ‘black ant’ (kərəkum ‘large red ant’)
-  MM:      Nehan          kadik           ‘tree ant’
-  MM:      Simbo          kadiki          ‘black ant’
-  SES:     Gela           ɣadi            ‘k.o. black ant, bulldog ant’
-  SES:     Lengo          ɣadi            ‘black ant’
-  SES:     Longgu         hadi            ‘black ant that bites’ (possibly a borrowing from Malango)
-  SES:     Lau            kadi            ‘bulldog ant’
-  SES:     Kwaio          (kā)kadi        ‘stinging black ant’
-  NCV:    Mwotlap        ɣen             ‘big stinging black ant’
-  NCV:    Nguna          kādi            ‘black biting ant’
-  NCV:    NE Ambae       gadi            ‘fire ant’
-  NCV:    Nese           na-ɣajɣe        ‘fire ant’ (regular final *-Vk metathesis)
-  SV:      Ura            (w)asek         ‘small stinging black ant’
-  SV:      Lenakel        kasək           ‘soldier ant’
-  SV:      Anejom         n-ɣas           ‘fire ant’
-  Mic:     Woleaian       (u)xeṣi         ‘k.o. black ant’
-  Mic:     Carolinian     (wu)xeṣ         ‘large black ant with a painful stinging bite, makes its nest near rotting trees’
-  Mic:     Kosraean       kaṣ(kin)        ‘k.o. ant’
-  Mic:     Ponapean       kāc̣             ‘ant’
-  Fij:     Wayan          kadi            ‘generic for ants; large ants’
-  Fij:     Bauan          kadi            ‘large black ant, stings’
+  Adm: Nyindrou    karak         ‘ant’ (Tryon 1995)
+  NNG: Kaulong     keh-keh       ‘(?) (red) ant’
+  MM:  Bulu        kadi          ‘stinging black ant’
+  MM:  Tolai       kədik         ‘black ant’ (_kərəkum_ ‘large red ant’)
+  MM:  Nehan       kadik         ‘tree ant’
+  MM:  Simbo       kadiki        ‘black ant’
+  SES: Gela        ɣadi          ‘k.o. black ant, bulldog ant’
+  SES: Lengo       ɣadi          ‘black ant’
+  SES: Longgu      hadi          ‘black ant that bites’ (possibly a borrowing from Malango)
+  SES: Lau         kadi          ‘bulldog ant’
+  SES: Kwaio       (kā)kadi      ‘stinging black ant’
+  NCV: Mwotlap     ɣen           ‘big stinging black ant’
+  NCV: Nguna       kādi          ‘black biting ant’
+  NCV: NE Ambae    gadi          ‘fire ant’
+  NCV: Nese        na-ɣajɣe      ‘fire ant’ (regular final _*-Vk_ metathesis)
+  SV:  Ura         (w)asek       ‘small stinging black ant’
+  SV:  Lenakel     kasək         ‘soldier ant’
+  SV:  Anejom      n-ɣas         ‘fire ant’
+  Mic: Woleaian    (u)xeṣi       ‘k.o. black ant’
+  Mic: Carolinian  (wu)xeṣ       ‘large black ant with a painful stinging bite, makes its nest near rotting trees’
+  Mic: Kosraean    kaṣ(kin)      ‘k.o. ant’
+  Mic: Ponapean    kāc̣           ‘ant’
+  Fij: Wayan       kadi          ‘generic for ants; large ants’
+  Fij: Bauan       kadi          ‘large black ant, stings’
 >
 
-    Rufus Pech refers to the stinging red ant of the north New Guinea coast (lol in Tami) in
+    Rufus Pech refers to the stinging red ant of the north New Guinea coast (_lol_ in Tami) in
 the following way: ‘This is perhaps the most enterprising and obviously ubiquitous species
 of ant in the Melanesian lowlands. They build huge nests in trees by drawing and sticking
-together bunches of leaves, are carnivorous, and defend their territory ferociously.’ (Pech
-1991:91). POc *loRo probably referred to this group of ants although witnesses in Eastern
+together bunches of leaves, are carnivorous, and defend their territory ferociously.’
+(Pech 1991:91). POc _*loRo_ probably referred to this group of ants although witnesses in Eastern
 Oceanic have a wider range of reference.
 
 <
@@ -18156,8 +18118,8 @@ cf. also:
   Adm: Lou           lolɛ          ‘small black sugar ant’
 >
 
-[6] The reconstruction of PMP *loRo is based on comparison of the Oceanic reflexes with a WMP term. Pendau
- to ‘big red tree ant’ (Phil Quick, pers. comm.).
+[6] The reconstruction of PMP _*loRo_ is based on comparison of the Oceanic reflexes with a WMP term. Pendau
+ _lō_ ‘big red tree ant’ (Phil Quick, pers. comm.).
 
 392 Meredith Osmond
 
@@ -18171,8 +18133,8 @@ PPn *lō-qata ‘large ant’ (PPn *qata ‘image, likeness’)
   Pn:    Nanumea       loata       ‘large ant’
 >
 
-   The three reconstructions which follow, POc *drui ‘ant’, POc *\driu\driu ‘small red or
-brown ants’ and PWOc *didi ‘small ant’ may all be variants of the same etymon.
+   The three reconstructions which follow, POc _*drui_ ‘ant’, POc _*[driu]driu_ ‘small red or
+brown ants’ and PWOc _*didi_ ‘small ant’ may all be variants of the same etymon.
 
 <
 POc *drui ‘ant’
@@ -18205,7 +18167,7 @@ POc *[driu]driu ‘small red or brown ants’
   Fij: Wayan         (kā)driu-driu      ‘very small ants’
 >
 
-    Given that all terms in the following set except Nduke are binomials, *didi may have been
+    Given that all terms in the following set except Nduke are binomials, _*didi_ may have been
 a generic for ‘ant’.
 
 <
@@ -18221,7 +18183,7 @@ PWOc *didi ‘small ant’
    The next set consists of possibly related items, but there are too many irregularities to
 permit a POc reconstruction.
 
-__pre__
+__formgroup__
   NNG:      Vehes           kakak                 ‘ant’
   NNG:      Mapos Buang     kakok                 ‘ant’
   NNG:      Mumeng (Kumaru) kakok                 ‘ant’
@@ -18230,20 +18192,20 @@ __pre__
   MM:       Tolai           kakakau               ‘small black ant’
   SES:      Arosi           ʔaʔaki                ‘large black ant, bulldog ant, w painful bite’
 
-   Although the following terms for ‘ant’ appear to be related (reflecting POc *kal(a,o)\ all
+   Although the following terms for ‘ant’ appear to be related (reflecting POc _*kal(a,o)_) all
 except Marshallese carry additional unrelated morphemes which cannot be accounted for.
 
-__pre__
-   Adm:     Loniu       kalo(n)                   ‘ant’
-   PT:      Saliba      kalakala-pʷ asipʷ asi   ‘black ants’
-   MM:      Teop        ano(hi)                   ‘ant’
-   SES:     ’Are’are    (ta)karo                  ‘small black ant’
-   NCV:     Nguna       (ma)kdla                  ‘red ant’
-   Mic:     Marshallese kal(lep)                  ‘big black ant’ (lep ‘big’)
+__formgroup__
+  Adm: Loniu         kalo(n)               ‘ant’
+  PT:  Saliba        kalakala-pʷasipʷasi   ‘black ants’
+  MM:  Teop          ano(hi)               ‘ant’
+  SES: ’Are’are      (ta)karo              ‘small black ant’
+  NCV: Nguna         (ma)kdla              ‘red ant’
+  Mic: Marshallese   kal(lep)              ‘big black ant’ (_lep_ ‘big’)
 cf. also:
-   NNG:     Manam         kala(poaki)             ‘k.o. red ant’
-  NCV: Mota            kalo                    ‘crawl, creep’
-  SV:  Lenakel         (ma)kal                 ‘large brown spider’
+  NNG: Manam         kala(poaki)           ‘k.o. red ant’
+  NCV: Mota          kalo                  ‘crawl, creep’
+  SV:  Lenakel       (ma)kal               ‘large brown spider’
 
 
 394 Meredith Osmond
@@ -18251,12 +18213,12 @@ cf. also:
 
 7.11 Termites (Order Isoptera = ‘equal wings’)
 
-POc *ane is well-supported as a term for ‘termite/white ant’. There are occasional mentions
-of an association of white ants with the supernatural in SES languages. In Arosi ane-hau
+POc _*ane_ is well-supported as a term for ‘termite/white ant’. There are occasional mentions
+of an association of white ants with the supernatural in SES languages. In Arosi _ane-hau_
 refers to ‘k.o. white ant that lives in the ground; these ants were thought to be incarnations of
 the dead’, while in Sa’a they are ‘the food of ghosts on Malapa’. However, they would have
 been regarded as pests, and it is not surprising that we have no record of their ever being
-referred to by a *kah- term.
+referred to by a _*kali-_ term.
 
 <
 PAn *SayaN ‘white ant, termite’ (Blust 2002)
@@ -18290,25 +18252,22 @@ POc *ane ‘termite’
 
 7.12 Crickets, grasshoppers (Order Orthoptera - ‘straightwings’); Cicadas (Order Hemiptera= ‘half wings’)
 
-Figure 7.4 _Grvllus sp._, cricket
+Figure 7.4: _Grvllus sp._, cricket
 
 
-If a generic term existed in POc, either for grasshoppers, or
-for grasshoppers + crickets + cicadas (+ mantises), I have not
-been able to reconstruct it. Although I have a number of reconstructions, their reflexes show considerable variation in
-gloss. Some terms refer to ‘singing insect’, which may indicate either cricket or cicada. Lack of agreement in glosses
-may reflect indifference among speakers, although I would
-expect a generic term if particular varieties were not seen as
-important. Some languages have simply adopted verb forms
-for ‘grasshopper’— etymons from Kove (piti-piti ‘jumping
-insect found in beach rubbish’ and Raga (visi[ribi] ‘taro plant
-hopper’) are from POc *pitik ‘spring up suddenly’/ POc
-*pitik-pitik jump repeatedly . In Dobu crickets are named
-kelei ʔana toelita, literally ‘wallaby’s teacher’ (Ralph Lawton. pers. comm.). A grasshopper
-named kokoru-bote in Arosi is remarkable for the use found
-for it. It is described as ‘a large grasshopper, put on one’s head to eat lice’ (from koru ‘eat’,
-bote ‘lice’). Together with mantises and stick insects, grasshoppers and crickets are valued as
-food. Kwaio has a term, faPafulu glossed as ‘generic term for edible insects, incl. grasshoppers,
+If a generic term existed in POc, either for grasshoppers, or for grasshoppers + crickets + cicadas
+(+ mantises), I have not been able to reconstruct it. Although I have a number of reconstructions,
+their reflexes show considerable variation in gloss. Some terms refer to ‘singing insect’, which
+may indicate either cricket or cicada. Lack of agreement in glosses may reflect indifference among
+speakers, although I would expect a generic term if particular varieties were not seen as
+important. Some languages have simply adopted verb forms for ‘grasshopper’ - etymons from Kove
+(_piti-piti_ ‘jumping insect found in beach rubbish’) and Raga (_visi[ribi]_ ‘taro plant
+hopper’) are from POc _*pitik_ ‘spring up suddenly’/ POc _*pitik-pitik_ jump repeatedly. In Dobu
+crickets are named _kelei ʔana toeʔita_, literally ‘wallaby’s teacher’ (Ralph Lawton. pers. comm.).
+A grasshopper named _kokoru-bote_ in Arosi is remarkable for the use found
+for it. It is described as ‘a large grasshopper, put on one’s head to eat lice’ (from _koru_ ‘eat’,
+_bote_ ‘lice’). Together with mantises and stick insects, grasshoppers and crickets are valued as
+food. Kwaio has a term, _faʔafulu_ glossed as ‘generic term for edible insects, incl. grasshoppers,
 stick insects etc.’ Their appeal would no doubt be as a kind of snack food, a chance
 variation on their regular diet.
 
@@ -18332,7 +18291,7 @@ cf. also:
    NCV:  Mwotlap          titi(key)         ‘grasshopper’
 >
 
-    Any resemblance between POc *riija and Proto Remote Oceanic *liijo-liijo is probably fortuituous.
+    Any resemblance between POc _*riŋa_ and Proto Remote Oceanic _*liŋo-liŋo_ is probably fortuituous.
 
 <
 POc *riŋa ‘orthopterous insect’
@@ -18343,14 +18302,14 @@ POc *riŋa ‘orthopterous insect’
 
 396 Meredith Osmond
 
-                                      Figure 7.5   Cicada
+Figure 7.5:   Cicada
 
 <
 Proto Remote Oceanic *liŋo-liŋo ‘night insect, probably a cricket’
   Mic:    Kiribati      niŋo-niŋo     ‘an insect which chirps at night’
   Fij:    Bauan         liŋo-liŋo     ‘night insect, esp. k.o. moth’
   Pn:     Tongan        liŋo-liŋo     ‘k.o. cricket’
-  Pn:     Samoan        liŋo-liŋo     ‘cicada, sings in daytime. Pdlisi sings at night’ (Stair 1983:207)
+  Pn:     Samoan        liŋo-liŋo     ‘cicada, sings in daytime. _ʔālisi_ sings at night’ (Stair 1983:207)
   Pn:     Tikopia       riŋo-riŋo     ‘cricket (_Gryllidae_). Rarely seen’
 >
 
@@ -18360,7 +18319,7 @@ POc *siko ‘grasshopper’
   SES: Lau           siko          ‘grasshopper’
   SES: Kwara’ae      siko          ‘grasshopper’ (Whitmore 1966)
   SES: To’aba’ita    siko          ‘generic for a class of insects that includes locusts, grasshoppers, stick insects, mantises, cicadas’
-  NCV: Nese          (narra)sɣo    ‘grasshopper’ (narra ‘?’)
+  NCV: Nese          (narra)sɣo    ‘grasshopper’ (_narra_ ‘?’)
 >
 
 <
@@ -18368,11 +18327,11 @@ POc *sakʷa ‘grasshopper or stick insect’
   NNG:    Gedaged       sok(sok)      ‘stick insect’
   NNG:    Takia         sok           ‘large insect, prickly, with six legs, eaten’
   PT:     Molima        saga-saga     ‘green mantis (eaten)’
-  MM:     Kara (East)   saɣwa         ‘grasshopper’ (reflects *saqa)
+  MM:     Kara (East)   saɣwa         ‘grasshopper’ (reflects _*saqa_)
   Mic:    Carolinian    tāxa          ‘grasshopper’
 >
 
-    The next term, POc *lale ‘cicada’, is based on external evidence plus reflexes from two
+    The next term, POc _*lale_ ‘cicada’, is based on external evidence plus reflexes from two
 closely related languages. It remains an uncertain reconstruction.
 
                                                      Insects and other creepy-crowlies     397
@@ -18384,7 +18343,8 @@ POc *l(a,e)le ‘cicada’
   PT:    Dobu           lele          ‘cicada’
 >
 
-    The next reconstruction is reliable in form only at PEOc level, and there is little consistency of gloss even within Polynesian languages.
+    The next reconstruction is reliable in form only at PEOc level, and there is little
+consistency of gloss even within Polynesian languages.
 
 <
 PEOc *(s,j)eqe ‘grasshopper ?’
@@ -18399,10 +18359,10 @@ PPn *seqe ‘insect spp. including mantis, stick insect, locust’
   Pn:  Tokelauan     hē           ‘locust, grasshopper’
 >
 
-    John Lynch (pers. comm.) notes a number of NCV forms for ‘cicada’ (Motapuŋa, Naman
-bngale, Neve’ei nalbugalr Tape bəŋale, Paamese halvuŋahi). and Namakir biŋaleh ‘cricket’
-which support PNCV *bu(g,ij)alis(V) . This in turn suggests a possible relationship with the
-following PPn reconstruction, *kalisi.
+    John Lynch (pers. comm.) notes a number of NCV forms for ‘cicada’ (Mota _puŋa_, Naman
+_bəgale_, Neve’ei _na/bugali_ Tape _bəŋale_, Paamese _ha/vuŋalii_). and Namakir _biŋaleh_ ‘cricket’
+which support PNCV _*bu(g,ŋ)alis(V)_. This in turn suggests a possible relationship with the
+following PPn reconstruction, _*kālisi_.
 
 <
 PPn *kālisi ‘cicada, cricket’
@@ -18424,15 +18384,15 @@ PPn *wāwā ‘orthopterous insect’
 
 7.13 Mantises (Order Mantodea = ‘like a prophet’), stick insects (Order Phasmatodea = ‘like a ghost’)
 
-Figure 7.6 Above Praying mantis. Below Stick insect.
+Figure 7.6: Above Praying mantis. Below Stick insect.
 
 
 398   Meredith Osmond
 
 
 Although there is some confusion of gloss within cognate sets, it seems clear that POc speakers
-distinguished praying mantises (*papa) from stick insects (*mimis-mata). The ability to
-project a milky chemical painful to the skin which is reflected in POc *mimis-mata is a defensive
+distinguished praying mantises (_*papa_) from stick insects (_*mimis-mata_). The ability to
+project a milky chemical painful to the skin which is reflected in POc _*mimis-mata_ is a defensive
 mechanism of at least some stick insects (Serkan Alasya, CSIRO Entomology, pers.
 comm.).
 
@@ -18444,7 +18404,7 @@ POc *papa ‘praying mantis’
   MM: Nehan        popo(hɔsoi)  ‘walking stick insect’
 >
 
-    POc *mimis-mata, literally ‘urinate’ + ‘eye’, reflects awareness that the stick insect can
+    POc _*mimis-mata_, literally ‘urinate’ + ‘eye’, reflects awareness that the stick insect can
 eject a fluid which causes pain if it touches the eye. One of the better-known Phasmatodea
 of the Oceanic region is Megacrania batesii, the pandanus stick insect.
 
@@ -18457,16 +18417,16 @@ cf. also:
    PT: Molima     mata-seʔa-seʔa   ‘large poisonous beetle’ (_seʔai_ or _seiʔa_ ‘to squirt poison, as a millipede; lit. squirt in eye??)
 >
 
-[7] The reconstruction of PMP *(kali)papa is based on comparison of the Oceanic reflexes with a WMP term,
- Pendau ɑ/zpapa ‘grasshopper, praying mantis’ (Phil Quick, pers. comm.).
+[7] The reconstruction of PMP _*(kali)papa_ is based on comparison of the Oceanic reflexes with a WMP term,
+ Pendau _ali papā_ ‘grasshopper, praying mantis’ (Phil Quick, pers. comm.).
 
                                                        Insects and other creepy-crowlies       399
 
 
     Closely related to stick insects are leaf insects. The only terms I have located are
-descriptive compounds: Tawala (PT) hiaga luguna (hiaga ‘T, lugu ‘leaf’), Tongan moko-moko
-tuʔaniu (moko-moko ‘crawling insect, tuPaniu ‘midrib of coconut leaflet’), and Rennellese
-manu gaukei (‘insect’ + ‘leaf’).
+descriptive compounds: Tawala (PT) _hiaga luguna_ (_hiaga_ ‘?’, _lugu_ ‘leaf’), Tongan
+_moko-moko tuʔaniu_ (_moko-moko_ ‘crawling insect, _tuʔaniu_ ‘midrib of coconut leaflet’), and Rennellese
+_manu gaukei_ (‘insect’ + ‘leaf’).
 
     Some varieties of mantis and stick insect are listed as edible in a number of languages.
 
@@ -18475,9 +18435,9 @@ manu gaukei (‘insect’ + ‘leaf’).
 
 Judging from ethnographic references and brief elaborations in wordlists, it is fireflies, among
 all the insects of the Oceanic world, which are most associated with supernatural qualities.
-For Takia (NNG) speakers, a firefly, lutot, is thought to be a messenger of someone’s death
-(Bugenhagen wordlist). The term for a firefly in Sissano (NNG), mas eyiaw, is a compound
-term, mas being defined as ‘devil; spirit of dead relative’ and eyiaw as ‘evil spirit; thief’
+For Takia (NNG) speakers, a firefly, _lutot_, is thought to be a messenger of someone’s death
+(Bugenhagen wordlist). The term for a firefly in Sissano (NNG), _mas eyiaw_, is a compound
+term, _mas_ being defined as ‘devil; spirit of dead relative’ and _eyiaw_ as ‘evil spirit; thief’
 (Whitacre wordlist). Seligmann quotes a report from Bartie Bay (Wedau, PT) that ‘if a firefly
 enters a house at night, it is a sign that someone in the house will die.’ (1910:653). Molima
 (PT) speakers regard fireflies as emissaries of witches who enter the house at night in order
@@ -18486,10 +18446,10 @@ to report back on who is there, and for that reason they are killed as soon as t
 embody spirits of the dead, they are delighted if a firefly enters the house at night, because
 it is a sign that someone recently dead is paying a visit (Ann Chowning, pers. comm.). Ivens
 writes that fireflies are popularly classified as ghosts in Sa’a and Ulawa (1927:189), and in
-his Sa’a dictionary he defines fireflies (pulu-pulu) as ‘souls of dead persons’. The Tolo people
+his Sa’a dictionary he defines fireflies (_pulu-pulu_) as ‘souls of dead persons’. The Tolo people
 of Guadalcanal regard cicadas and fireflies as the ghosts of unknown people, or ghosts of the
 forest (Ivens 1930:229). Tamambo (NCV) speakers are frightened of them, and try to avoid
-them as Tittle devils’ (Dorothy Jauncey pers. comm.). In Wayan Fijian, fireflies (tdtdvuatd)
+them as ‘little devils’ (Dorothy Jauncey pers. comm.). In Wayan Fijian, fireflies (_tōtōvuata_)
 are believed to be a sign of the gods inspecting fruit crops. The Rennellese see a firefly as the
 embodiment of a goddess.
 
@@ -18497,9 +18457,9 @@ embodiment of a goddess.
 speakers. Blust (pers. comm.) provides additional evidence from Isneg (northern Philippines)
 that fireflies are precursors of death, and Karo Batak (northern Sumatra) where their presence
 in a house signals that thieves will come. Of all POc reconstructions, then, I should expect that
-for ‘firefly’ to be most likely to retain the kali-lqali- indicator of supernatural status. I have
-limited evidence supporting two reconstructions derived from PMP *qali-petpet, POc *qa!i-
-popot ‘firefly’ and POc *(k,q)ali-totop ‘firefly’, the latter with metathesis. POc *(k,q)ali-totop
+for ‘firefly’ to be most likely to retain the _kali-_/_qali-_ indicator of supernatural status. I have
+limited evidence supporting two reconstructions derived from PMP _*qali-petpet_, POc _*qali-popot_
+‘firefly’ and POc _*(k,q)ali-totop_ ‘firefly’, the latter with metathesis. POc _*(k,q)ali-totop_
 depends on one reflex, from Rennellese, for reconstruction of its first element and on another,
 Nduke, for reconstruction of its second element.
 
@@ -18522,38 +18482,33 @@ POc *(k,q)ali-totop ‘firefly’ (metathesis)
 400     Meredith Osmond
 
 
-    A putative reconstruction, POc *bulu-bulu ‘firefly’, must be regarded as dubious because
+    A putative reconstruction, POc _*bulu-bulu_ ‘firefly’, must be regarded as dubious because
 witnesses are from adjoining subgroups where borrowing cannot be ruled out. Etymons may
-be derived from POc *bulut ‘gum’ whose reflexes can include ‘a torch (of gum)’, and thus
+be derived from POc _*bulut_ ‘gum’ whose reflexes can include ‘a torch (of gum)’, and thus
 extend to ‘light, firefly’.
 
-__pre__
-   MM:      Nehan           bol-bol      ‘lightning bug, near swamps’
-   SES:     Gela            bulu         (tora) ‘firefly; phosphorescent fungus’ (bulu ‘torch,
-                                         lamp’)8
-   SES:     Sa’a            pulu-pulu    ‘firefly. Regarded as souls of dead persons, and
-                                         killed when they enter a house’
-   SES:     Kwaio           bulu-buhi    ‘star; firefly. Believed (esp. when enters house) to
-                                         be a messenger from an ancestral spirit.’
-   SES:     Arosi           buru-buru    ‘firefly; torch (of gum)’
-                            buburu(atod) ‘k.o. cricket’ (atod ‘noon’)
-   SES:     ’Are’are        puru-puru    ‘star; firefly’
-   SES:     To’aba’ita      bubulu       ‘star; firefly; beetle sp.’
+__formgroup__
+   MM:  Nehan        bol-bol      ‘lightning bug, near swamps’
+   SES: Gela         bulu         (tora) ‘firefly; phosphorescent fungus’ (bulu ‘torch, lamp’)[8]
+   SES: Sa’a         pulu-pulu    ‘firefly. Regarded as souls of dead persons, and killed when they enter a house’
+   SES: Kwaio        bulu-buhi    ‘star; firefly. Believed (esp. when enters house) to be a messenger from an ancestral spirit.’
+   SES: Arosi        buru-buru    ‘firefly; torch (of gum)’
+   SES: Arosi        buburu(atod) ‘k.o. cricket’ (atod ‘noon’)
+   SES: ’Are’are     puru-puru    ‘star; firefly’
+   SES: To’aba’ita   bubulu       ‘star; firefly; beetle sp.’
 
-      Other terms use reflexes of POc *mata ‘eye’, sometimes extended to ‘star’ and ‘firefly’.
+      Other terms use reflexes of POc _*mata_ ‘eye’, sometimes extended to ‘star’ and ‘firefly’.
 
-__pre__
-  NNG: Mengen (Poeng) mata                        ‘eye; star; firefly’ (mata-balaŋ ‘bee/wasp’)
-  MM: Nakanai         mata(tabu)                  ‘star; firefly’
-                      mata(laso)                  ‘k.o. long glow worm’
+__formgroup__
+  NNG: Mengen (Poeng)  mata                        ‘eye; star; firefly’ (_mata-balaŋ_ ‘bee/wasp’)
+  MM: Nakanai          mata(tabu)                  ‘star; firefly’
+  MM: Nakanai          mata(laso)                  ‘k.o. long glow worm’
 
 Other languages may make similar associations between fireflies, stars and sometimes phosphorescence.
 
-__pre__
-   NNG: Sengseng           limlek             ‘firefly; star’
-   MM: Roviana             pinoro             ‘phosphorescence as seen in the sea or on fireflies’
-                                              etc.’ (pino-pino ‘a star’)
-
+__formgroup__
+   NNG: Sengseng    limlek    ‘firefly; star’
+   MM:  Roviana     pinoro    ‘phosphorescence as seen in the sea or on fireflies etc.’ (_pino-pino_ ‘a star’)
 
 
 7.15 Beetles (Order Coleoptera)
@@ -18566,19 +18521,20 @@ palm and is considered a serious pest in many parts of the Pacific, is believed 
 introduced from southeast Asia only in the 20th century (Gressitt & Homabrook 1985:34).
 A beetle similar in appearance and behaviour is Xylotrupes gideon, found in almost all parts
 of New Guinea. Presumably, speakers used an existing beetle term to refer to the introduced
-beetle. The second reconstruction, POc ‘kumuk. probably refers to longicorn beetles, those
+beetle. The second reconstruction, POc _*kamak_, probably refers to longicorn beetles, those
 with extremely long antenna (Family _Cerambycidae_), the larvae of which attack timber.
 
-[8] This etymon and Bugotu tora ‘to be phosphorescent’ support PGuadalcanal-Gelic *[to]tora ‘firefly, s.t. phos phorescent’.
+[8] This etymon and Bugotu _tora_ ‘to be phosphorescent’ support PGuadalcanal-Gelic _*[to]tora_
+‘firefly, s.t. phosphorescent’.
 
                                                       Insects and other creepy-crawlies    401
 
-         Figure 7.7   Left Longicom beetle. Right Oryctes rhinoceros, rhinoceros-beetle.
+Figure 7.7:   Left Longicom beetle. Right Oryctes rhinoceros, rhinoceros-beetle.
 
 <
 POc *tabuRuRu ‘k.o. beetle’
   NNG: Sengseng        taput          ‘an enormous black beetle’
-  MM:  Nakanai         tabuburu       ‘coconut beetle’ (expect ^tabururu)
+  MM:  Nakanai         tabuburu       ‘coconut beetle’ (expect †_tabururu_)
   MM:  Tabar           taburu(ŋa)     ‘beetle’
   MM:  Tolai           taburur        ‘horned beetle’
   MM:  Kara (East)     tevu(ŋun)      ‘rhinoceros beetle’
@@ -18605,10 +18561,10 @@ cf. also:
 402     Meredith Osmond
 
 
-    A surprising omission from most wordlists are terms for the taro beetle (Papnana unin-
-odis). Although these beetles may be as long-established in the region as the tubers which we
+    A surprising omission from most wordlists are terms for the taro beetle (Papnana uninodis).
+Although these beetles may be as long-established in the region as the tubers which we
 know were cultivated in Proto Oceanic times, I have not been able to reconstruct a term for
-them other than Proto Southeast Solomonic *ko[l,R]o-ko[l,R]o ‘beetle that attacks plants’. Damage
+them other than Proto Southeast Solomonic _*ko[l,R]o-ko[l,R]o_ ‘beetle that attacks plants’. Damage
 to the tuber is caused by the adult beetles, and not by their larval stage which feeds on soil
 and roots (Robin Hide, pers. comm.). I can locate very few terms for the pest in Western
 Oceanic languages, none cognate. Although damaged tubers cause significant economic loss
@@ -18620,15 +18576,15 @@ Proto Southeast Solomonic *ko[l,R]o-ko[l,R]o ‘beetle that attacks plants’
    SES: Bugotu       kololo       ‘coconut beetle’
    SES: Gela         kololo       ‘taro-eating beetle’
    SES: ’Are’are     ʔoro-ʔoro    ‘taro-boring beetle’
-   SES: To’aba’ita   ʔoro(kʷao)   ‘k.o. white worm, attacks sugar-cane stems’ (k‘ao ‘white’)
+   SES: To’aba’ita   ʔoro(kʷao)   ‘k.o. white worm, attacks sugar-cane stems’ (_kʷao_ ‘white’)
 cf. also:
    SES: Sa’a         ʔoroʔoro     ‘beetle that bores into yams’ (for †_ʔoloʔolo_)
 >
 
-    Wordlists contain a few references to edible beetles. Sudest (PT) has a term gilai ‘a large
-black sago beetle; people eat both the adults and the larvae’; Nakanai (MM) has komaga
-‘an edible insect like a long thin black beetle’ and bureka ‘large (6 ins) edible insect found
-in trees’; Wayan (Fij) has gou ‘large beetle, _Coleopterus sp._, 2 inches long with hard shell.
+    Wordlists contain a few references to edible beetles. Sudest (PT) has a term _gilai_ ‘a large
+black sago beetle; people eat both the adults and the larvae’; Nakanai (MM) has _komaga_
+‘an edible insect like a long thin black beetle’ and _bureka_ ‘large (6 ins) edible insect found
+in trees’; Wayan (Fij) has _gou_ ‘large beetle, _Coleopterus sp._, 2 inches long with hard shell.
 Eaten by some people’.
 
 
@@ -18645,7 +18601,7 @@ POc *ipos ‘cockroach’ (ACD)
   NNG:  Mutu         up           ‘cockroach’
   NNG:  Kaulong      e-yus        ‘cockroach’
   NNG:  Sengseng     e-yus        ‘cockroach’
-  MM:   Tolai        ipi(na)      ‘sp. beetle’ (ipina-koto ‘cockroach’)
+  MM:   Tolai        ipi(na)      ‘sp. beetle’ (_ipina-koto_ ‘cockroach’)
   NCal: Cemuhi       iwet         ‘cockroach’
   NCal: Nemi         yuet         ‘cockroach’
 cf. also:
@@ -18656,7 +18612,7 @@ cf. also:
 
 <
 POc *musi ‘cockroach’
-  PT:    Roro          muhi          ‘cockroach’ (for expected must')
+  PT:    Roro          muhi          ‘cockroach’ (for expected _musi_)
   MM:    Maringe       mhi-mhi(gi)   ‘stink beetle’
   SES:   Bugotu        muhu          ‘cockroach, beetle’
   SES:   Gela          muhu          ‘cockroach’
@@ -18664,7 +18620,7 @@ POc *musi ‘cockroach’
   SES:   Ghari         mosu          ‘small cockroach’
 >
 
-    Final -u for f-z in the SES items appears to reflect vowel assimilation.
+    Final _-u_ for †_-i_ in the SES items appears to reflect vowel assimilation.
 
     The next set shows a variety of reduplication patterns. Some Polynesian terms show possible
 contamination from English cockroach or Spanish cucaracha.
@@ -18694,8 +18650,8 @@ PPn *moŋa-moŋa ‘cockroach’ (pollex)
 
 7.17 Grubs, caterpillars
 
-Grubs and caterpillars are the larval stages of beetles (Coleoptera) and butterflies (Lepi-
-doptera). Particular kinds are more likely to be named if they are a useful food source, or
+Grubs and caterpillars are the larval stages of beetles (Coleoptera) and butterflies (Lepidoptera).
+Particular kinds are more likely to be named if they are a useful food source, or
 if they attack crops.
 
 
@@ -18706,17 +18662,17 @@ if they attack crops.
 a valuable source of protein. Sago grows in low-lying, swampy areas of Melanesia
 where other food plants do not thrive. Lack of the means of a varied diet may contribute
 to the specialised sago grub cultivation employed by the Labu (NNG) people.[9] In Sissano
-the sago grubs, yiat, are used in food offerings to the spirits in some healing ceremonies
+the sago grubs, _yiat_, are used in food offerings to the spirits in some healing ceremonies
 (Whiteacre wordlist).
 
-    The Admiralties languages in the next set all have -e- for ^-a-.
+    The Admiralties languages in the next set all have _-e-_ for †_-a-_.
 
 <
 PMP *qabated ‘sago grub’ (Blust 2002)
 POc *qapator ‘sago grub, edible’
   Adm: Loniu            het             ‘sago grub’
   Adm: Ere              ehet            ‘sago grub’
-  Adm: Titan            aet             ‘sago grub’ (for ]ahat)
+  Adm: Titan            aet             ‘sago grub’ (for †_ahat_)
   Adm: Pak              keher           ‘sago grub’
   Adm: Penchal          kahɛt           ‘sago grub’
   Adm: Lenkau           kehetr          ‘sago grub’
@@ -18737,18 +18693,18 @@ POc *qapator ‘sago grub, edible’
   SV:  Sye              n-avat          ‘edible wood grub’
   SV:  Anejom           n-ahat          ‘edible wood grub’
   Fij: Wayan            avato           ‘wood-boring grubs of various species’
-  Fij: Bauan            yavato          ‘grub in a tree, develops into the coleopterous called qou’
+  Fij: Bauan            yavato          ‘grub in a tree, develops into the coleopterous called _qou_’
   Pn:  Tongan           ʔofato          ‘k.o. white grub found in timber, sometimes eaten’
-  Pn:  Samoan           ʔafato          ‘large edible grub, found in dry trees’ (P- unexpected)
+  Pn:  Samoan           ʔafato          ‘large edible grub, found in dry trees’ (_ʔ-_ unexpected)
   Pn:  E Futunan        ʔafato          ‘larvae which are eaten; large edible grub, found in dry trees’
-  Pn:  Rennellese       ahato           ‘larva of longicorn beetle Olethrus tyrranus’ (for y'lahalo)
+  Pn:  Rennellese       ahato           ‘larva of longicorn beetle Olethrus tyrranus’ (for †_ʔahato_)
 cf. also:
   PT:  Sinaugoro        kavata          ‘caterpillar’
-  MM:  Nakanai          (k,g)avato      ‘black lizard, found in rotten trees’ (kopa ‘larva of a beetle, found in trees and eaten’)
+  MM:  Nakanai          (k,g)avato      ‘black lizard, found in rotten trees’ (_kopa_ ‘larva of a beetle, found in trees and eaten’)
 >
 
 [9] C. W. L. Mercer (1994) describes a study conducted on the inland margin of the Labu swamp (near Lae), where
- the thorny steɪmned sago palm species Metroxylon rumphii is used almost exclusively by the Labu people for
+ the thorny stemmed sago palm species Metroxylon rumphii is used almost exclusively by the Labu people for
  raising the grub of the palm weevil Rhynchophorus ferrugineus papuanus, which is an important source of
  protein (and also a pest of the living palms).
 
@@ -18756,8 +18712,8 @@ cf. also:
 
 
 
-   POc *muno may have been a generic term for caterpillars. Reflexes are not found in
-Central Pacific where a reflex of POc *qanupe is the most widespread term for ‘caterpillar’.
+   POc _*muno_ may have been a generic term for caterpillars. Reflexes are not found in
+Central Pacific where a reflex of POc _*qanupe_ is the most widespread term for ‘caterpillar’.
 
 <
 POc *muno[-muno] ‘caterpillar, grub’
@@ -18777,9 +18733,9 @@ cf. also:
    MM:      Nduke          meno             ‘taro beetle’
 >
 
-    WOc cognates of POc *qanupe refer to trepangs,[10] also known as beche-de-mer or sea
+    WOc cognates of POc _*qanupe_ refer to trepangs,[10] also known as beche-de-mer or sea
 slugs (ch.4, §5.2.1), while Eastern Oceanic cognates refer to caterpillars. Without external
-cognates, the meaning of POc *qanupe is indeterminate.
+cognates, the meaning of POc _*qanupe_ is indeterminate.
 
 [10] Thanks to Ann Chowning for bringing this to my notice.
 
@@ -18806,23 +18762,24 @@ PEOc *qanupe ‘caterpillar’
 
 7.18 Centipedes (Class Chilopoda): Millipedes (Class Diplopoda)
 
-Another *qali- term, POc *qalipan ‘centipede’, is reconstructable, probably embracing millipedes
+Another _*qali-_ term, POc _*qalipan_ ‘centipede’, is reconstructable, probably embracing millipedes
 as well. Evidence of an association between centipedes and the supernatural comes
 from ethnographic descriptions as well as linguistic clues. For instance, Sengseng (NNG)
 speakers consider centipedes to be supernatural beings, and carefully remove them from their
-houses (Ann Chowning, pers. comm.). Elbert’s Rennellese dictionary defines ʔagi-paipai as
+houses (Ann Chowning, pers. comm.). Elbert’s Rennellese dictionary defines _ʔagi-paipai_ as
 ‘centipede, considered the embodiment of non-worshipped deities and a loathsome creature’.
-In his Tikopia dictionary Firth defines morokau as ‘centipede. Trad, held to be frequent embodiment of spirit’. There is also a Samoan term atna-loa ‘k.o. centipede with poisonous
-bite’, whose prefix atua- has supernatural significance (discussed in §27). In addition to the
-*qalipan cognate set I list non-cognate terms for centipede from a range of languages across
-several subgroups which all exhibit a reflex of the qali-lkali- prefix.
+In his Tikopia dictionary Firth defines _morokau_ as ‘centipede. Trad. held to be frequent embodiment of spirit’. There is also a Samoan term _atua-loa_ ‘k.o. centipede with poisonous
+bite’, whose prefix _atua-_ has supernatural significance (discussed in §27). In addition to the
+_*qalipan_ cognate set I list non-cognate terms for centipede from a range of languages across
+several subgroups which all exhibit a reflex of the _qali-_/_kali-_ prefix.
 
-    Reflexes of *qalipan are numerous and widespread. As well, I have a number of lower-
-level reconstructions, possibly for particular kinds of centipede. Two kinds of centipede/ millipede are described in wordlists, categorised by behaviour or luminosity rather than number
+    Reflexes of _*qalipan_ are numerous and widespread. As well, I have a number of lower-level
+reconstructions, possibly for particular kinds of centipede. Two kinds of centipede/millipede are
+described in wordlists, categorised by behaviour or luminosity rather than number
 of legs. One, when threatened, squirts a kind of acid from between its scales which can cause
 blisters or even permanent eye damage, while a second is described as phosphorescent or
-luminous. A millipede in Arosi (SES), doŋa, is also singled out as having a vile smell. I have
-one lower-level reconstruction for the luminous variety, PPn *taqe-tuli ‘phosphorescent centipede or millipede’, whose first element is derived from POc *taqe ‘excrement’, implying
+luminous. A millipede in Arosi (SES), _doŋa_, is also singled out as having a vile smell. I have
+one lower-level reconstruction for the luminous variety, PPn _*taqe-tuli_ ‘phosphorescent centipede or millipede’, whose first element is derived from POc _*taqe_ ‘excrement’, implying
 strongly that the creature is considered unpleasant in Central Pacific languages. In Tahiti,
 however, where there are two kinds, not venomous, one short and thick and light brown, the
 other long, threadlike and phosphorescent, they were well regarded. Teuira Henry (1971:391)
@@ -18863,16 +18820,16 @@ cf. also:
                                                         Insects and other creepy-crowlies     407
 
 
-    Other terms for centipede which apparently exhibit a reflex of the qali-kali- prefix include:
+    Other terms for centipede which apparently exhibit a reflex of the _qali-_/_kali-_ prefix include:
 
-__pre__
+__formgroup__
     Adm:     Drehet       kxane-pup
     PT:      Molima       gani-geva
     MM:      Ririo        kali-gava
     MM:      Sisiqa       kala-gava
     MM:      Babatana     kali-gava
 
-    The compound terms below yield a reconstructed first element, PWOc *mʷali-.
+    The compound terms below yield a reconstructed first element, PWOc _*mʷali-_.
 
 <
 PWOc *mʷali- ‘millipede’
@@ -18883,7 +18840,7 @@ cf. also:
   PT:  Molima       pʷali(keke)   ‘millipede’
 >
 
-    POc *weli (1) ‘fireworm, sea centipede’; (2) ? ‘k.o. millipede’ is included in chapter 4,
+    POc _*weli_ (1) ‘fireworm, sea centipede’; (2) ? ‘k.o. millipede’ is included in chapter 4,
 §7.2.
 
 <
@@ -18899,53 +18856,46 @@ cf. also:
 408   Meredith Osmond
 
 
-    In Bugotu (SES) the term for a phosphorescent centipede, /zwz tora, is a literal description:
-(liva ‘centipede’, tora ‘phosphorescent’).
+    In Bugotu (SES) the term for a phosphorescent centipede, _liva tora_, is a literal description:
+(_liva_ ‘centipede’, _tora_ ‘phosphorescent’).
 
-    Reflexes of a reconstruction from a different semantic field, POc *taqe ‘excrement’ (see
+    Reflexes of a reconstruction from a different semantic field, POc _*taqe_ ‘excrement’ (see
 ch.2, p.60), have extended their meaning to refer to a centipede in Kahua (SES) and Bauan Fijian and a scorpion in Tamambo (NCV) and Anejom (SV), no doubt reflecting their common
 characterisation as painful stinger.
 
 
 7.19 Scorpions (Class Arachnida: Order Scorpiones)
 
-A substantial number of terms for scorpions have been
-collected, but only a single reconstruction, Proto SE
-Solomonic *vtzrz ‘scorpion’ (not listed here) has been possible. In the Solomons, many terms are compounds or
-phrases which include the word for centipede (Gela liva-ni
-mala, Birao kaukau-liva, Lengo aliva-ni-yoro). Although
-centipedes and scorpions belong to different zoological
-classes, the linking of the two creatures in this way may be
-due to the similar appearance of grasping pincers, and to
-the facts that both are capable of delivering a severe bite
-or sting, and both frequent the same habitat, under rocks
-or leaf litter. The scorpion is named as crab-like in Gapa-
-paiwa (g‘aya-gwaya ‘scorpion; idiom for one who moves
-slowly and fearfully on heights) (gwaya Arab (generic)’)
-and possibly also in Molima (dowa ‘scorpion, land crab’),
-although Chowning adds a question mark to her gloss.
+A substantial number of terms for scorpions have been collected, but only a single reconstruction, Proto SE
+Solomonic _*vari_ ‘scorpion’ (not listed here) has been possible. In the Solomons, many terms are compounds or
+phrases which include the word for centipede (Gela _liva-ni mala_, Birao _kaukau-liva_, Lengo
+_aliva-ni-ɣoro_). Although centipedes and scorpions belong to different zoological classes, the
+linking of the two creatures in this way may be due to the similar appearance of grasping pincers,
+and to the facts that both are capable of delivering a severe bite or sting, and both frequent the
+same habitat, under rocks or leaf litter. The scorpion is named as crab-like in Gapapaiwa
+(gʷaɣa-gʷaɣa ‘scorpion; idiom for one who moves slowly and fearfully on heights) (gʷaɣa ‘crab (generic)’)
+and possibly also in Molima (_dowa_ ‘scorpion, land crab’), although Chowning adds a question mark to her gloss.
 
-                                                                   Figure 7.8   _Honnurus sp._,
-                                                                             scorpion
+Figure 7.8:   _Honnurus sp._, scorpion
 
 7.20 Spiders (Order Araneae)
 
 Although POc speakers would undoubtedly have named a range of spiders, I have not been
 able to link reconstructions with specific kinds of spider. I have only one lower-level example
-in which a name is assigned to a particular spider — PCP *tuku-tuku ‘k.o. spider that lets itself
-down by a single thread’. POc *lawaq, traceable back to PAn, with cognates right across
+in which a name is assigned to a particular spider — PCP _*tuku-tuku_ ‘k.o. spider that lets itself
+down by a single thread’. POc _*lawaq_, traceable back to PAn, with cognates right across
 the Oceanic region, may have referred primarily to ‘spider’ but by POc times had come to
-refer as well to ‘spider web’ and ‘k.o. fish net’ (see vol.l, p.212). I also find a number of
-reconstructions with formal similarities, including POc *koko, POc *gagao *(g,k)a(g,k)a-,
-PWOc *kuku, and PEOc *\ko\ko-miji. Some kind of word play has evidently taken place,
+refer as well to ‘spider web’ and ‘k.o. fish net’ (see vol.1, p.212). I also find a number of
+reconstructions with formal similarities, including POc _*koko_, POc _*gagao_~_*(g,k)a(g,k)a-_,
+PWOc _*kuku_, and PEOc _*[ko]ko-miji. Some kind of word play has evidently taken place,
 although I have no ethnographic evidence that particular spiders are associated with any kind
 of supernatural belief or taboo. On the contrary, they are freely eaten in many communities.
 Wordlists of a number of languages including Molima and Sinaugoro (PT), Takia (NNG) and
 Hawaiian (Pn), record particular kinds of edible spider.
 
-    Reconstructions other than *lawaq have an unusually large number of reflexes which are
+    Reconstructions other than _*lawaq_ have an unusually large number of reflexes which are
 compounds with a non-reflected element. These reconstructions may refer to particular kinds
-of spider. As Pawley (2000:8) has noted, names for folk specifics in plants and animals, or, to
+of spider. As Pawley (2000: 8) has noted, names for folk specifics in plants and animals, or, to
 be more exact, the secondary or modifying terms in binomials, are notoriously unstable and
 will, in most cases, not be reconstructable for a language as remote in time as POc.
 
@@ -18977,8 +18927,8 @@ POc *lawaq ‘spider, spider web’ (Also ‘fish net’ )
   Fij:   Bauan         |tina-ni-viritā lawa-lawa|   ‘spider’ (lit. ‘mother of cobweb’)
 >
 
-   PPn *lewe is probably cognate, with reduplication and addition of the prefix *ka~, which
-may reflect *kʷakʷa, discussed below the next item.
+   PPn _*lewe_ is probably cognate, with reduplication and addition of the prefix _*ka-_, which
+may reflect _*kʷakʷa_, discussed below the next item.
 
 <
 PPn *ka-lewe-lewe ‘cobweb, spider’ (pollex)
@@ -18994,9 +18944,9 @@ PPn *ka-lewe-lewe ‘cobweb, spider’ (pollex)
 >
 
     In the cognate set below the Malai (NNG) term and those from the Malakula languages
-Nahai’i, Axamb and Nisvai (NCV) speak in favour of a freestanding POc *gagao, whilst
+Nahai’i, Axamb and Nisvai (NCV) speak in favour of a freestanding POc _*gagao_, whilst
 the Molima (PT), Teop, Simbo, Torau, Kia, Kokota (all MM) and Gela (SES) terms point to
-*gaga- and *kaka- as forms occurring in compounds.
+_*gaga-_ and _*kaka-_ as forms occurring in compounds.
 
 <
 POc *gagao~*(g,k)a(g,k)a- ‘k.o. spider’
@@ -19018,18 +18968,18 @@ POc *gagao~*(g,k)a(g,k)a- ‘k.o. spider’
 410     Meredith Osmond
 
 
-    POc *koko and PWOc *kuku may be variants of the same term as *kaka. Two alternate
-hypotheses about their origins are (a) that *ko reflects the second syllable of *gagao, and
-(b) that the reflexes supporting *kaka-, *koko and *knku reflect POc *k‘ak"a. : Evidence for
-(b) is that (i) SE Solomonic languages retain k-.: and this is diagnostic of POc *k w~, and (ii)
-Western Oceanic (PT, MM) reflexes other than Simbo retain k- rather than leniting it to y- or
-zero, the usual reflexes of *k-.
+    POc _*koko_ and PWOc _*kuku_ may be variants of the same term as _*kaka_. Two alternate
+hypotheses about their origins are (a) that _*ko_ reflects the second syllable of _*gagao_, and
+(b) that the reflexes supporting _*kaka-_, _*koko_ and _*kuku_ reflect POc _*kʷakʷa_. Evidence for
+(b) is that (i) SE Solomonic languages retain _k-_ and this is diagnostic of POc _*kʷ-_, and (ii)
+Western Oceanic (PT, MM) reflexes other than Simbo retain _k-_ rather than leniting it to _ɣ-_ or
+zero, the usual reflexes of _*k-_.
 
-    POc *koko becomes *\ko\ko-miji ‘k.o. spider’ in PSES with the addition of -mijr an
-element which occurs also in other compounds meaning ‘spider’ (Dori’o [SES] kala-midi)
-although not found separately. It also may occur in Nakanai kamimisi ‘spider’, if intepreted
-as kami-misi with kami- < kali by assimilation. I am unable to suggest a meaning for POc
-*-miji, other than to note that I have found it only in spider terms.
+    POc _*koko_ becomes *[ko]ko-miji ‘k.o. spider’ in PSES with the addition of _-miji_ an
+element which occurs also in other compounds meaning ‘spider’ (Dori’o [SES] _kala-midi_)
+although not found separately. It also may occur in Nakanai _kamimisi_ ‘spider’, if intepreted
+as _kami-misi_ with _kami-_ < _kali_ by assimilation. I am unable to suggest a meaning for POc
+_*-miji_, other than to note that I have found it only in spider terms.
 
 <
 POc *koko ‘spider’
@@ -19080,7 +19030,7 @@ PWOc *ka(p,b)ilakʷa ‘k.o. spider’
 >
 
    The only reconstruction which can safely be attributed to a particular kind of spider is PCP
-*tnkn-tnkn ‘k.o. spider which lowers itself on a single thread’, from PCP *tuku ‘let down’.
+_*tuku-tuku_ ‘k.o. spider which lowers itself on a single thread’, from PCP _*tuku_ ‘let down’.
 
 <
 PCP *tuku-tuku ‘k.o. spider which lowers itself on a single thread’
@@ -19098,8 +19048,8 @@ PCP *tuku-tuku ‘k.o. spider which lowers itself on a single thread’
 There is a well-supported POc reconstruction for ‘leech’ based on reflexes in NNG, PT and
 NCV languages. I have not so far located any term for leech, cognate or otherwise, east of Fiji,
 and assume that the creatures are not found in Micronesia or Polynesia (with the exception of
-New Zealand, where the Maori term is ŋata i.e. ‘snake’) (Ross Clark, pers. comm.). Pawley
-has reconstructed a similar term, Proto Remote Oceanic *drumane ‘anemone’ (ch.4, §6.1) which is almost in
+New Zealand, where the Maori term is _ŋata_ i.e. ‘snake’) (Ross Clark, pers. comm.). Pawley
+has reconstructed a similar term, Proto Remote Oceanic _*drumane_ ‘anemone’ (ch.4, §6.1) which is almost in
 complementary distribution, and the terms may be related.
 
 412   Meredith Osmond
@@ -19133,16 +19083,16 @@ cf. also:
 
 There is a widespread belief among Austronesian speakers that dental caries is caused by a
 small worm. Both the creature and the associated condition are named in different languages
-by reflexes of various reconstructed terms for ‘worm’. Blust comments on two WMP languages, Cebuano and Malagasy, whose reflexes of PAn *qulej ‘maggot’ refer also to ‘tooth
+by reflexes of various reconstructed terms for ‘worm’. Blust comments on two WMP languages, Cebuano and Malagasy, whose reflexes of PAn _*qulej_ ‘maggot’ refer also to ‘tooth
 decay’ or ‘toothache, supposed to be occasioned by a small worm in the tooth’ (ACD) (§23).
-Dobu (PT) has a term kimwata ‘the supposed insect which causes caries in children’ (m''ata
-‘snake’). The To’aba’ita term is wd-lifo ‘tooth decay, believed to be caused by worms’ (ira
-‘worm, grub, maggot, caterpillar, larva’, lifo ‘tooth’). Other WMP languages refer to tooth
-decay by reflexes of PMP *bukbuk ‘weevil that infests wood, bamboo, and rice; dust produced by
+Dobu (PT) has a term _kimʷata_ ‘the supposed insect which causes caries in children’ (_mʷata_
+‘snake’). The To’aba’ita term is _wā-lifo_ ‘tooth decay, believed to be caused by worms’ (_wā_
+‘worm, grub, maggot, caterpillar, larva’, _lifo_ ‘tooth’). Other WMP languages refer to tooth
+decay by reflexes of PMP _*bukbuk_ ‘weevil that infests wood, bamboo, and rice; dust produced by
 the boring of this insect; tooth decay’ (ACD) (§9). Codrington also reports the belief
 as existing in the Banks Islands (NCV) (1891:193).
 
-    It seems likely that POc *m‘’ata-m"’ata, the reduplicated form of *m‘ata ‘snake’, was a
+    It seems likely that POc _*mʷata-mʷata_, the reduplicated form of _*mʷata_ ‘snake’, was a
 generic for worms and worm-like creatures, including caterpillars and millipedes. In places
 it has reverted to its unreduplicated form, either as a generic for snakes and other snake-like
 creatures, or, as in Micronesia and Seimat, to refer to worms alone. In Micronesia there are
@@ -19183,9 +19133,9 @@ PEOc *mʷata ‘snake, worm’
 
 7.22.2 Other worm taxa
 
-Blust has reconstructed PMP *bulati ‘roundworm, ascaris, intestinal worm; also earthworm?’
-(ACD) without Oceanic reflexes. I have reconstructed POc *sulati ‘worm’ which evidently
-carries a common root, -lati. The Oceanic evidence does not permit further differentiation of
+Blust has reconstructed PMP _*bulati_ ‘roundworm, ascaris, intestinal worm; also earthworm?’
+(ACD) without Oceanic reflexes. I have reconstructed POc _*sulati_ ‘worm’ which evidently
+carries a common root, _-lati_. The Oceanic evidence does not permit further differentiation of
 meaning.
 
 <
@@ -19199,11 +19149,11 @@ POc *sulati ‘worm’
   NCV: Nguna           a-sulati      ‘hookworm, tapeworm’
 >
 
-    The next reconstruction, PNGOc *dim wan ‘k.o. worm’, bears some similarity to POc
-*droman ‘leech’ but a contrast is preserved in some languages, e.g. Molima domana ‘mountain leech’,
-dim‘a-m"’ ana ‘worm’; Dobudomana ‘leech’, di-dim'ana ‘common earthworms,
-small lizards’; Gapapaiwatfomam ‘leech’, dimo(moga) ‘earthworm’; Sinaugorodoma ‘leech’,
-dimo ‘worm’). The resemblance appears to be accidental.
+    The next reconstruction, PNGOc _*dimʷan_ ‘k.o. worm’, bears some similarity to POc
+_*droman_ ‘leech’ but a contrast is preserved in some languages, e.g. Molima _domana_ ‘mountain leech’,
+_dimʷa-mʷana_ ‘worm’; Dobu _domana_ ‘leech’, _di-dimʷana_ ‘common earthworms,
+small lizards’; Gapapaiwa _domani_ ‘leech’, _dimo(moga)_ ‘earthworm’; Sinaugoro _doma_ ‘leech’,
+_dimo_ ‘worm’). The resemblance appears to be accidental.
 
 414     Meredith Osmond
 
@@ -19218,7 +19168,7 @@ PNGOc *dimʷan ‘k.o. worm’
   PT:      Duau         di-dimʷana       ‘worm’
   PT:      Gapapaiwa    dimo(moga)       ‘earthworm’
   PT:      Gumawana     dimona-na        ‘an earthworm’
-  PT:      Muyuw        simʷa(mʷat)      ‘maggots, worms’ (mwat ‘snake’)
+  PT:      Muyuw        simʷa(mʷat)      ‘maggots, worms’ (_mʷat_ ‘snake’)
   PT:      Sudest       jimo-jimo        ‘earthworm’
   PT:      Sinaugoro    dimo             ‘worm’
   PT:      Hula         rimo             ‘worm’
@@ -19236,14 +19186,14 @@ cf. also:
    Adm: Loniu          (te)keli-mʷet ‘earthworm, grub’
 >
 
-    See also chapter 4, §7.1 and §7.2, for POc *ibo ‘sandworm’ and POc *weli ‘fireworm’
+    See also chapter 4, §7.1 and §7.2, for POc _*ibo_ ‘sandworm’ and POc _*weli_ ‘fireworm’
 respectively.
 
 
 7.23 Maggots
 
-POc *quloc continues the PAn term for ‘maggot’, *qidej. Some reflexes show HI instead of
-lul in the first vowel, a common sporadic change in many forms.
+POc _*quloc_ continues the PAn term for ‘maggot’, _*qulej_. Some reflexes show /_i_/ instead of
+/_u_/ in the first vowel, a common sporadic change in many forms.
 
 <
 PAn *qulej ‘maggot’ (ACD)
@@ -19284,13 +19234,14 @@ POc *quloc ‘maggot’
 
 
     The next reconstruction illustrates what was evidently a productive process in POc, the
-addition of -a(n) to a term X, where X could be water, sennit, people, pigs etc., to indicate a
-state of being ‘full of X’ or in the case of insects, infested with the insect. Besides POc *qulos-a(n) ‘be maggoty’
-I can reconstruct PEOc *kutu-a(n) ‘(be) lousy’ (To’aba’ita ʔu-la, Samoan
-ʔutu-a, Pukapukan wutu-a). Further examples from SES languages show the process applied
-to other insect names: Sa’apote ‘head louse’, pote-la ‘lousy’; To’aba’ita, Lau wet ‘maggot,
-worm’, wd-la ‘maggoty, wormy’, and I add a Polynesian example, Tongan moijomoqa-ʔia
-‘infested with beetles or cockroaches’, from moŋomoŋa ‘any kind of beetle or cockroach’.
+addition of _-a(n)_ to a term X, where X could be water, sennit, people, pigs etc., to indicate a
+state of being ‘full of X’ or in the case of insects, infested with the insect. Besides POc
+_*qulos-a(n)_ ‘be maggoty’
+I can reconstruct PEOc _*kutu-a(n)_ ‘(be) lousy’ (To’aba’ita _ʔu-la_, Samoan _ʔutu-a_,
+Pukapukan _wutu-a_). Further examples from SES languages show the process applied
+to other insect names: Sa’a _pote_ ‘head louse’, _pote-la_ ‘lousy’; To’aba’ita, Lau _wā_ ‘maggot,
+worm’, _wā-la_ ‘maggoty, wormy’, and I add a Polynesian example, Tongan _moŋomoŋa-ʔia_
+‘infested with beetles or cockroaches’, from _moŋomoŋa_ ‘any kind of beetle or cockroach’.
 
 <
 PMP *qulej-an ‘have worms’ (ACD)
@@ -19302,7 +19253,8 @@ POc *quloc-a(n) ‘be maggoty’
   Pn:     Samoan        ilo-a          ‘be maggoty’
 >
 
-    Reduplication on verbs serves to indicate frequentative aspect, while its nominal counterpart means ‘full of, lots of N’.
+    Reduplication on verbs serves to indicate frequentative aspect, while its nominal counterpart
+means ‘full of, lots of N’.
 
 416     Meredith Osmond
 
@@ -19325,7 +19277,7 @@ under one generalised reconstruction.
 PPn *mū ‘flying insect’ (pollex)
   Pn:     Tongan        mū             ‘moth’
   Pn:     E Futunan     mū-mū          ‘dragonfly’
-  Pn:     Samoan        (seʔe)mū       ‘dragonfly’ (seʔe ‘glide’)
+  Pn:     Samoan        (seʔe)mū       ‘dragonfly’ (_seʔe_ ‘glide’)
   Pn:     Rarotongan    mū             ‘big reddish moth that flies round lamps at night’
   Pn:     Maori         mū             ‘insects’
   Pn:     Hawaiian      mū             ‘general term for insects that eat cloth, wood, plants’
@@ -19334,27 +19286,27 @@ PPn *mū ‘flying insect’ (pollex)
 
 7.25 Semantic extensions and generalisations
 
-Chapter 8 contains a detailed examination of *manuk and *manu-manuk. POc *manuk evidently had two
+Chapter 8 contains a detailed examination of _*manuk_ and _*manu-manuk_. POc _*manuk_ evidently had two
 senses, one restricted, the other extended. The restricted sense was ‘bird’
 or more precisely ‘bird + bat’, hence ‘flying vertebrate’. The extended sense was ‘creature’,
 probably excluding people and things that swam in the sea. In POc, diminutives were regularly
-formed by reduplication. So *manu-manuk meant either ‘small flying creature’, or
+formed by reduplication. So _*manu-manuk_ meant either ‘small flying creature’, or
 simply ‘small creature’. Beyond that I have only fragments of information to go on as clues
 to how POc speakers classified their world of insects and other creepy-crawlies. It is likely
 that most languages had generic terms for butterflies, flies, spiders, hoppers, ants, grubs and
 so on, although I have been able to reconstruct reliable generic terms for only the first two.
 
      There is some evidence that there were two broader categories in PPn, the flying creatures,
-*manu-lele and the crawlers, *mcmu-totolo. Rennellese has mami-mami-gege ‘fly-
-ing/jumping creatures’, and manu-manu-totogo ‘creeping creatures’, the latter including reptiles
+_*manu-lele_ and the crawlers, _*manu-totolo_. Rennellese has _manu-manu-gege_
+‘flying/jumping creatures’, and _manu-manu-totogo_ ‘creeping creatures’, the latter including reptiles
 other than turtles. Nanumea, a dialect of Tuvalu (Pn), has forms cognate with the Rennellese,
-manu lele ‘bird, flying insect’ and manu totolo ‘ground animal e.g. spider, lizard, land
-mammal’. Niue also has cognate terms but insects are excluded in both: manu lele ‘bird, can
-include flying fox but not flying insects’ and manu totolo ‘any walking or crawling creature
-but not insects’. Speakers of the Hula dialect of Keapara (Papuan Tip) distinguish manu-
-manu ‘flying insect’ and mani-mani ‘creeping insect’. According to Fox (1974), Lau (SES)
-divides the entire animal kingdom three ways, with wdwd ‘generic for all creatures in or
-on the ground’, manu ‘generic for all creatures that fly’ and iʔa ‘generic for all creatures in
+_manu lele_ ‘bird, flying insect’ and _manu totolo_ ‘ground animal e.g. spider, lizard, land
+mammal’. Niue also has cognate terms but insects are excluded in both: _manu lele_ ‘bird, can
+include flying fox but not flying insects’ and _manu totolo_ ‘any walking or crawling creature
+but not insects’. Speakers of the Hula dialect of Keapara (Papuan Tip) distinguish _manu-manu_
+‘flying insect’ and _mani-mani_ ‘creeping insect’. According to Fox (1974), Lau (SES)
+divides the entire animal kingdom three ways, with _wāwā_ ‘generic for all creatures in or
+on the ground’, _manu_ ‘generic for all creatures that fly’ and _iʔa_ ‘generic for all creatures in
 water’.
 
                                                      Insects and other creepy-crowlies    417
@@ -19364,39 +19316,39 @@ water’.
 class, in this case ‘fly’, and also be used as the first element in binomials defining members
 of that class. Examples include:
 
-__pre__
-  Adm: Lou              laij-laŋ(a)          ‘fly, flying insect’
-                        laŋ-et               ‘housefly’
-                        laij-laŋa-n palawa   ‘honey bee’
-                        laŋ-laŋ ŋara         ‘bluebottle, horsefly, March fly’
-  NNG: Sengseng         laŋ                  ‘fly’
-                        latjiyuyu            ‘hornet with papery nest’
-                        laijoijoŋ            ‘insect that makes holes in wood’
-  MM:     Tolai         laŋa                 ‘fly’
-                        laŋa bulit           ‘bee’ (bulit ‘gum’)
-  SES:    Gela          laijo                ‘fly’
-                        laijo mbeli          ‘k.o. hover fly’
-                        laijo ni bolo        ‘k.o. large fly’ (bolo ‘pig’)
-                        laŋo ni uvu          ‘k.o. red fly’
-                        laŋo pasa-pasa       ‘k.o. large fly’ (pasa-pasa ‘to scold’)
-                        laijo vuru           ‘large k.o. fly with yellow wings’
-  Pn:     Niuean        laijo                ‘common fly’
-                        laijo fufti          ‘mason wasp’
-                        laŋo meli            ‘bee’
-  Pn:     Hawaiian      nalo                 ‘the common housefly and other similar flies’
-                        nalo ʔaki            ‘small stinging fly’
-                        nalo hope ʔeha       ‘hornet’ (lit. ‘fly with stinging posterior’)
-                        nalo keleawe         ‘hoverfly’? (lit. ‘brass/copperfly’)
-                        nalo lawe-lepo       ‘mud wasp’ (lit. ‘dirt-toting fly’)
-                        nalo meli            ‘honey bee’
-                        nalo nahu            ‘stinging fly’ (lit. ‘biting fly’)
-                        nalo paka            ‘tick; ensign fly’ (lit. ‘lean fly’)
-                        nalo pilau           ‘bluebottle fly’ (lit. ‘stink fly’)
+__formgroup__
+  Adm: Lou           laŋ-laŋ(a)            ‘fly, flying insect’
+  Adm: Lou           laŋ-et                ‘housefly’
+  Adm: Lou           |laŋ-laŋa-n palawa|   ‘honey bee’
+  Adm: Lou           |laŋ-laŋ ŋara|        ‘bluebottle, horsefly, March fly’
+  NNG: Sengseng      laŋ                   ‘fly’
+  NNG: Sengseng      laŋiyuyu              ‘hornet with papery nest’
+  NNG: Sengseng      laŋoŋoŋ               ‘insect that makes holes in wood’
+  MM:  Tolai         laŋa                  ‘fly’
+  MM:  Tolai         |laŋa bulit|          ‘bee’ (bulit ‘gum’)
+  SES: Gela          laŋo                  ‘fly’
+  SES: Gela          |laŋo mbeli|          ‘k.o. hover fly’
+  SES: Gela          |laŋo ni bolo|        ‘k.o. large fly’ (bolo ‘pig’)
+  SES: Gela          |laŋo ni uvu|         ‘k.o. red fly’
+  SES: Gela          |laŋo pasa-pasa|      ‘k.o. large fly’ (pasa-pasa ‘to scold’)
+  SES: Gela          |laŋo vuru|           ‘large k.o. fly with yellow wings’
+  Pn:  Niuean        laŋo                  ‘common fly’
+  Pn:  Niuean        |laŋo fufu|           ‘mason wasp’
+  Pn:  Niuean        |laŋo meli|           ‘bee’
+  Pn:  Hawaiian      nalo                  ‘the common housefly and other similar flies’
+  Pn:  Hawaiian      |nalo ʔaki|           ‘small stinging fly’
+  Pn:  Hawaiian      |nalo hope ʔeha|      ‘hornet’ (lit. ‘fly with stinging posterior’)
+  Pn:  Hawaiian      |nalo keleawe|        ‘hoverfly’? (lit. ‘brass/copperfly’)
+  Pn:  Hawaiian      |nalo lawe-lepo|      ‘mud wasp’ (lit. ‘dirt-toting fly’)
+  Pn:  Hawaiian      |nalo meli|           ‘honey bee’
+  Pn:  Hawaiian      |nalo nahu|           ‘stinging fly’ (lit. ‘biting fly’)
+  Pn:  Hawaiian      |nalo paka|           ‘tick; ensign fly’ (lit. ‘lean fly’)
+  Pn:  Hawaiian      |nalo pilau|          ‘bluebottle fly’ (lit. ‘stink fly’)
 
-    In some Polynesian languages the reflex of POc *moko ‘k.o. snake’ (p.260) has become
+    In some Polynesian languages the reflex of POc _*moko_ ‘k.o. snake’ (p.260) has become
 a class marker for a whole range of creepy-crawlies:
 
-__pre__
+__formgroup__
   Pn:    Niuean        moko                  ‘insect, grub, caterpillar; lizard, any creeping
                                              creature’
                        moko elo              ‘stinkbeetle’ (elo ‘to stink’)
@@ -21095,61 +21047,56 @@ whether they are used only as collectives.
 
 8.6.2 What did POc *manu-manuk mean?
 
-It might seem a straightforward matter to conclude that *manu-manuk was a generic or collective
+It might seem a straightforward matter to conclude that _*manu-manuk_ was a generic or collective
 term for insects in general. However, two complicating factors must be addressed.
 
      In many Oceanic languages a semi-productive use of nominal reduplication is to name
-a taxon which resembles that named by the simple form but is smaller or otherwise atypical—not
+a taxon which resembles that named by the simple form but is smaller or otherwise atypical — not
 quite the real thing (for discussion of this function of reduplication in Oceanic see
-Ross 2008a:50-51). Given such a mechanism, we must consider the possibility that a reduplicated
-form of *manuk developed independently in Papuan Tip, Southeast Solomonic and
+Ross 2008a: 50-51). Given such a mechanism, we must consider the possibility that a reduplicated
+form of _*manuk_ developed independently in Papuan Tip, Southeast Solomonic and
 Polynesian. On the formal level, such parallel development would not be surprising. However,
 it seems unlikely that the meaning of the reduplicated derivative would in both cases
 have been ‘insects, creepy crawlies’.
 
      The other complicating factor is that a case can be made for attributing another sense to
-POc *manu-manuk, roughly ‘all creatures’ or‘all creatures other than those that live in water’.
-It was noted above (§5.2.2) that reflexes of *manu-manuk have this broader range of reference
+POc _*manu-manuk_, roughly ‘all creatures’ or ‘all creatures other than those that live in water’.
+It was noted above (§5.2.2) that reflexes of _*manu-manuk_ have this broader range of reference
 in Lou, Rotuman and the Fijian languages. However, I prefer to regard the Lou, Rotuman
-and Fijian uses as post-POc innovations, in which the reflex of *manu-manuk replaced the
-*manuk reflex as the general term for creatures or land creatures. Thus the conclusion that
-*manu-manuk existed in POc as a general term for insects and other small land invertebrates
-still stands.11 Some languages, chiefly in Polynesia, have narrowed its application use to just
+and Fijian uses as post-POc innovations, in which the reflex of _*manu-manuk_ replaced the
+_*manuk_ reflex as the general term for creatures or land creatures. Thus the conclusion that
+_*manu-manuk_ existed in POc as a general term for insects and other small land invertebrates
+still stands.[11] Some languages, chiefly in Polynesia, have narrowed its application use to just
 one or a few insects but in one language its scope has been extended to encompass all living
 things.
 
-[11] Blust (2002) reconstructs a reduplicated form PMP *manu-mcmuk meaning ‘bird’, widely reflected with this
- sense in WMP languages, alongside PMP *mamik ‘chicken’.
+[11] Blust (2002) reconstructs a reduplicated form PMP _*manu-manuk_ meaning ‘bird’, widely reflected with this
+ sense in WMP languages, alongside PMP _*manuk_ ‘chicken’.
 
 452   Andrew Pawley
 
 
 8.7 Conclusions
 
-We have looked into the semantic histories of five POc terms, *ikan, *pinarjoda, *sisiq.
-*manuk and *manu-manuk, each a candidate for the status of a high-level generic or life
+We have looked into the semantic histories of five POc terms, _*ikan_, _*pinaŋoda_, _*sisiq_,
+_*manuk_ and _*manu-manuk_, each a candidate for the status of a high-level generic or life
 form in the POc taxonomy of animals but each having reflexes with highly variable meanings.
 Approximate semantic reconstructions can be given for each POc term, as follows:
 
-__pre__
- *ikan             ‘high-level generic (life form) with two senses: 1. typical fish’; (2)
-                   ‘typical fish, sharks, rays, eels, cetaceans and dugongs, turtles and
-                   crocodiles, and possibly octopus and squid’
- *pinaqoda         ‘collective term (not a life-form): seafood (other than fish) gathered on
-                   the reef’
- *sisiq            ‘folk generic: small globular gastropods (nerites, moon shells, periwinkles, etc.) which are an important part of the diet. Possibly also used as
-                   a collective or high-level generic for edible gastropods in general’
-  *manuk           ‘high-level generic (life form): birds, bats and flying insects’
-  *manu-manuk      ‘high-level collective or generic (life form): insects and other small land
-                   invertebrates’
+__tablenh__
+ _*ikan_        |     ‘high-level generic (life form) with two senses: 1. typical fish’; (2) ‘typical fish, sharks, rays, eels, cetaceans and dugongs, turtles and crocodiles, and possibly octopus and squid’
+ _*pinaŋoda_    |     ‘collective term (not a life-form): seafood (other than fish) gathered on the reef’
+ _*sisiq_         |   ‘folk generic: small globular gastropods (nerites, moon shells, periwinkles, etc.) which are an important part of the diet. Possibly also used as a collective or high-level generic for edible gastropods in general’
+  _*manuk_         |  ‘high-level generic (life form): birds, bats and flying insects’
+  _*manu-manuk_     | ‘high-level collective or generic (life form): insects and other small land invertebrates’
 
     Let us now return briefly to two questions asked at the outset. First, are the variations
 in the meanings of major generics across daughter languages random or do they follow an
 implicational scale, a natural sequence of semantic extension or contraction?
 
-    Variations in definitions given to reflexes of *ikan. *sisiq, *manuk and *manu-manuk
+    Variations in definitions given to reflexes of _*ikan_, _*sisiq_, _*manuk_ and _*manu-manuk_
 do appear to conform to implication scales, roughly those sketched in Tables 8.1, 8.9, 8.11
-and 8.16, respectively. (We leave aside *pinaqoda, which was a collective rather than a true
+and 8.16, respectively. (We leave aside _*pinaŋoda_, which was a collective rather than a true
 generic.) However, the nature of the data are such that we can only give approximate analyses.
 Undoubtedly, finer-grained data and analysis would show that this picture is too simple. While
 my main focus has been on the meanings of these five etyma, the foregoing question might
@@ -21163,10 +21110,10 @@ POc terms? Can some of the changes be attributed to differences in the range of 
 life encountered by different communities? All I will say here is that Oceanic islands differ
 considerably in the richness of their land fauna, with atolls, and small, geographically remote
 high islands having extremely impoverished fauna and that this variation may have played a
-part in the semantic histories of two of the five terms considered here, *manuk and *manu-
-mamik. Brown (1981) has already pointed to the dominance of birds over other large land
-animals as a possible driver of semantic change in *manuk reflexes (see §5.2.1). But the
+part in the semantic histories of two of the five terms considered here, _*manuk_ and
+_*manu-manuk_. Brown (1981) has already pointed to the dominance of birds over other large land
+animals as a possible driver of semantic change in _*manuk_ reflexes (see §5.2.1). But the
 other three terms all refer to aquatic (chiefly marine) animals and, leaving aside crocodiles
 and dugongs, the main types of marine fauna are fairly well represented throughout tropical
-Oceania. It follows that shifts in the referential range of reflexes of POc *tkan, *pinaqoda
-and *sisiq must be explained in terms of other factors.
+Oceania. It follows that shifts in the referential range of reflexes of POc _*ikan_, _*pinaŋoda_
+and _*sisiq_ must be explained in terms of other factors.

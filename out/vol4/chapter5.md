@@ -320,7 +320,7 @@ cf. also:
 
 <a id="p-223"></a>
 
-Figure 5.1   _Dendrolagus dorianus_, Doria’s tree kangaroo
+Figure 5.1:_Dendrolagus dorianus_, Doria’s tree kangaroo
 
 5.2.2.2 Tree kangaroos (Genus _Dendrolagus_)
 

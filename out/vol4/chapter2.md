@@ -10,7 +10,7 @@ by Meredith Osmond
 
 Proto Oceanic speaking communities subsisted on what they could grow and gather and what they could glean from the reef and sea.[^1] Through their dependence on fishing, the inhabitants would have amassed knowledge of the environments favoured by particular fish, and awareness of fish habits as they related to such things as season of the year, the lunar and diurnal cycle, tidal movements, winds and currents. The times of certain fish to be fat, to be abundant, and to aggregate in a certain spot for spawning or feeding would have been marked.
 
-This chapter deals mainly with the names of fishes. Paul [Geraghty](../references.md#source-Geraghty1994) ([1994](../references.md#source-Geraghty1994)) and Robin Hooper (1994) have provided a substantial starting point with their work on rconstructing fish names for Proto Central Pacific and Proto Polynesian respectively. Their data and lower- level reconstructions are reproduced here when included in a higher level reconstruction. Otherwise I simply record the existence of a PCP or PPn reconstruction.
+This chapter deals mainly with the names of fishes. Paul [Geraghty](../references.md#source-Geraghty1994) ([1994](../references.md#source-Geraghty1994)) and Robin Hooper (1994) have provided a substantial starting point with their work on reconstructing fish names for Proto Central Pacific and Proto Polynesian respectively. Their data and lower-level reconstructions are reproduced here when included in a higher level reconstruction. Otherwise I simply record the existence of a PCP or PPn reconstruction.
 
 In most Oceanic languages the lexicon of fish names is the largest of all faunal fields. The lists of local fish names available to me include almost 300 items for Mbunai Titan in the Admiralties (Akimichi & Sakiyama 1991), over 400 for both Marovo in the NW Solomons ([Hviding 1996](../references.md#source-Hviding1996)), and Wayan Fijian ([Pawley & Sayaba 2003](../references.md#source-PawleyandSayaba2003)), 250 for Kapingamarangi in Polynesia (Lieber 1994) and around 400 for Satawalese in Micronesia (Akimichi & Sauchomal 1982). The evidence is overwhelming that knowledge of fish is, or has been until the breakdown of traditional lifestyles, extremely detailed, and one not restricted to a small group of people, but widespread among the majority of Oceanic communities.
 
@@ -332,7 +332,7 @@ Most sharks inhabit shallow coastal waters around reefs. A number of species are
 
 <a id="p-30"></a>
 
-Figure 2.1   _Carcharodon carcharias_, great white shark
+Figure 2.1:   _Carcharodon carcharias_, great white shark
 
 Proto Oceanic speakers undoubtedly distinguished many different species of sharks by name, as contemporary Oceanic speech communities do, but reconstructed terms have not been clearly identified with particular species at a level higher than Proto Central Pacific.
 
@@ -1499,7 +1499,7 @@ cf. also:
 ## 7. Sardines and herrings (_Clupeidae_) and anchovies (_Engraulidae_)
 
 
-Figure 2.3 _Spratelloides delicatulus_, small round herring
+Figure 2.3:_Spratelloides delicatulus_, small round herring
 
 Sardines and herrings are small migratory fishes which congregate in enormous shoals in shallow coastal waters. Flesh is oily but tasty (Munro 1967: p.50). They are taken in nets in Oceanic communities.
 
@@ -3114,7 +3114,7 @@ cf. also:
 
 <a id="p-47"></a>
 
-Figure 2.6   _Myrichthys colubrinus_, harlequin snake eel
+Figure 2.6:_Myrichthys colubrinus_, harlequin snake eel
 
 <table>
 <tr>
@@ -3336,7 +3336,7 @@ PPn _&ast;toke_ ‘sea eel’ has also been reconstructed (Hooper 1994: p.198).
 ## 12. Flying fishes (_Exocoetidae_)
 
 
-Figure 2.7 _Exocoetus volitans_, blue flying fish
+Figure 2.7:_Exocoetus volitans_, blue flying fish
 
 These fish are pelagic, swimming near the surface and gliding above the water for considerable distances. They inhabit open coastal and oceanic waters, are attracted to light at night and often leap aboard vessels. Their flesh is of good quality (Munro 1967: p. 115). In Sa’a (Malaita), flying fish, like the bonito, require a certain supernatural power to be caught. Certain formalities must be followed and particular sacrifices made before a canoe can set out to catch flying fish ([Codrington 1891](../references.md#source-Codrington1891):138).
 
@@ -3517,7 +3517,7 @@ The change in gloss in PPn below can be explained because of close resemblance b
 
 <a id="p-50"></a>
 
-Figure 2.8   _Hemiramphus lutkei_, Lutke's halfbeak
+Figure 2.8:_Hemiramphus lutkei_, Lutke's halfbeak
 
 <table>
 <tr>
@@ -4206,7 +4206,7 @@ cf. also:
 
 <a id="p-54"></a>
 
-Figure 2.10   Left _Myripristis murdjan_, crimson squirrelfish. Right _Sargocentron spiniferum_, armoured soldierfish.
+Figure 2.10:Left _Myripristis murdjan_, crimson squirrelfish. Right _Sargocentron spiniferum_, armoured soldierfish.
 
 <table>
 <tr>
@@ -4585,7 +4585,7 @@ cf. also:
 
 <a id="p-57"></a>
 
-Figure 2.12    Mugil cephalus, flathead grey mullet
+Figure 2.12:Mugil cephalus, flathead grey mullet
 
 Kove (NNG) uses the same comparison, albeit with a non-cognate term for ‘crocodile’, _baɣele ele ɑto_ ‘seahorse, pipefish’ (bayele ‘crocodile’, _ele_ 'its',_ato_ ‘messenger’) (Ann Chowning, pers. comm.[^11]). In Dobu (PT) the term for crocodile is _warigoa_, and that for seahorse or pipefish _wari-warigoa_, reduplication of the first two syllables being a common way of indicating an inferior or diminutive form of the named item ([Ross 2005](../references.md#source-Ross2005):199).
 
@@ -5345,7 +5345,7 @@ Five POc terms are reconstructable, with _&ast;qonos_ possibly the generic. Fina
 
 <a id="p-62"></a>
 
-Figure 2.13    Sphyraena jello, slender sea pike
+Figure 2.13:Sphyraena jello, slender sea pike
 
 <table>
 <tr>
@@ -6180,15 +6180,7 @@ cf. also:
 
 Distinctive markings are often reflected in compound terms such as the following:
 
-```
-  MM:     Patpatar      mata girit        ‘k.o. fish’ (mata ‘face’, girit ‘to sketch, draw’)
-  MM:     Halia         mata goumana      ‘giant chanda perch, freshwater fish’(go///w
-                                          ‘marking, scar’)
-  SES:    Gela          aŋora gere        ‘Cephalopholis sexmaculata, six spotted rock cod’
-                                          (gere ‘to sketch, make lines’)
-  SES:    Gela          kusele gere-gerea ‘Epinephelus quoyanus, longfin rock cod (gere-gere
-                                          ‘to sketch, make lines’)
-```
+__formgroup__ MM:  Patpatar   mata girit         ‘k.o. fish’ (mata ‘face’, girit ‘to sketch, draw’) MM:  Halia      mata goumana       ‘giant chanda perch, freshwater fish’ (_goum_ ‘marking, scar’) SES: Gela       aŋora gere         ‘Cephalopholis sexmaculata, six spotted rock cod’ (_gere_ ‘to sketch, make lines’) SES: Gela       kusele gere-gerea  ‘Epinephelus quoyanus, longfin rock cod (_gere-gere_ ‘to sketch, make lines’)
 
 Lower level reconstructions include PNCV _&ast;tabʷale_ ‘grouper fish’ (François 2005:499), PCP _&ast;ŋʷajala_ ‘_Epinephelus spp._’, PPn _&ast;ŋatala_ ‘Epinephelus, smaller stage’, PCP/PPn _&ast;munua_ ‘large _Epinephelus sp._’, PCP _&ast;dralā_ ‘red _Cephalopholis sp._’, PPn _&ast;lalī_ ‘red rock cod spp.’, PPn &ast;fāpuku ‘_Epinephelus sp._, possibly _E. polyphekadion_. marbled sea bass’, PPn _&ast;loi_ ‘Cephalopholis argus, peacock rock cod’, PPn _&ast;mataele_ ‘_Serranidae_’ (Geraghty 1004: p.149, Hooper 1994: pp.204-205)
 
@@ -6211,7 +6203,7 @@ These are small to moderate-sized fishes of distinctive appearance. All are brig
 
 <a id="p-68"></a>
 
-Figure 2.14   _Epinephelus lanceolatus_, Queensland grouper
+Figure 2.14:_Epinephelus lanceolatus_, Queensland grouper
 
 The PPn term, _&ast;mata-pula_ ‘_Priacanthus cruentatus_, red globe-eye’ is a descriptive compound (lit. _mata_ ‘eye’ + _pula_ ‘shine, glow’) (Hooper 1994: p.202). The same compound is found in Kove (NNG), where the referent is a large freshwater fish, probably _Centropomidae_ (§21).
 
@@ -6238,7 +6230,7 @@ I have six POc reconstructions, but can be confident of matching terms with spec
 
 <a id="p-69"></a>
 
-Figure 2.15   Left Gnathanodon speciosus, golden trevally. Right Alectis indica, plumed trevally.
+Figure 2.15: Left Gnathanodon speciosus, golden trevally. Right Alectis indica, plumed trevally.
 
 <table>
 <tr>
@@ -6533,7 +6525,7 @@ cf. also:
 <td>Kiribatese</td>
 <td><i>urua</i></td>
 <td>
-'<span>adult trevally</span>' (<span>for Punua</span>)</td>
+'<span>adult trevally</span>' (<span>for †<em>unua</em></span>)</td>
 </tr>
 </table>
 
@@ -6580,7 +6572,7 @@ cf. also:
 <tr>
 <td>SES</td><td>Lau</td><td><i>mamula</i></td>
 <td>
-'<span>k.o. fish</span>' (<span>=ʔeda-ʔeda</span>)</td>
+'<span>k.o. fish</span>' (<span>=<em>ʔeda-ʔeda</em></span>)</td>
 </tr>
 <tr>
 <td>SES</td><td>Arosi</td><td><i>mamura</i></td>
@@ -6604,7 +6596,7 @@ cf. also:
 
 <a id="p-71"></a>
 
-Oceanic reflexes of the next set refer fairly consistently to _Scomberoides spp._ (=Chorine- mus), fishes known variously as leatherskin, whitefish, queenfish, skinnyfish or giant dart. They can grow to over a metre in length. Blust (ACD) has reconstructed PMP _&ast;lajih_ ‘dolphinfish’ and PMP _&ast;daRi_ ‘leatherskin’, with Oceanic reflexes of the former apparently referring to the leatherskin. The two Mutu (NNG) terms below suggest that the dolphinfish may sometimes be referred to as the leatherskin’s mother. For dolphinfish sets, see §27 below.
+Oceanic reflexes of the next set refer fairly consistently to _Scomberoides spp._ (=Chorinemus), fishes known variously as leatherskin, whitefish, queenfish, skinnyfish or giant dart. They can grow to over a metre in length. Blust (ACD) has reconstructed PMP _&ast;lajih_ ‘dolphinfish’ and PMP _&ast;daRi_ ‘leatherskin’, with Oceanic reflexes of the former apparently referring to the leatherskin. The two Mutu (NNG) terms below suggest that the dolphinfish may sometimes be referred to as the leatherskin’s mother. For dolphinfish sets, see §27 below.
 
 <table>
 <tr>
@@ -6749,7 +6741,7 @@ Oceanic reflexes of the next set refer fairly consistently to _Scomberoides spp.
 <tr>
 <td>Pn</td><td>Niuean</td><td><i>lai(loa)</i></td>
 <td>
-'<span><em>S. lysan</em>, leatherskin or leatherback</span>' (<span>loa ‘long’</span>)</td>
+'<span><em>S. lysan</em>, leatherskin or leatherback</span>' (<span><em>loa</em> ‘long’</span>)</td>
 </tr>
 <tr>
 <td>Pn</td><td>Samoan</td><td><i>lai</i></td>
@@ -6798,13 +6790,7 @@ Oceanic reflexes of the next set refer fairly consistently to _Scomberoides spp.
 
 Malcolm Ross (vol.2, pp.49-50) reconstructs POc _&ast;mala_ ‘resembling’ which occurs in plant names and occasionally, it seems, in fish names as well. Of the terms listed in the set below, those consisting of a compound _mala_ + modifier could all be considered ‘resembling’ examples. If this is the common meaning of _&ast;mala_ we would expect it to be reflected in terms for fishes not necessarily related.[^18] The fact that the most frequent reference in this set is to carangids suggests that a similar form was a POc fish name. However, because the carangid examples are largely restricted to the Solomons (the only exception being Samoan), it may be that _&ast;mala_ came to be used in the Solomons as a generic for carangids, as Hviding has suggested for Marovo. For this reason no POc reconstruction is proposed.
 
-```
-  MM:  Patpatar    mala(la)     ‘k.o. fish’
-  MM:  Nehan       mala(ŋuh)    ‘Trachinotus russelli, common dart’ (ŋuh ‘kiss’) [T. botla]
-  MM:  Marovo      mara         ‘generic for all Carangids (trevallies etc.)’ (15 compound terms for kinds) (for ^mald)
-  SES: Gela        mala(boro)   ‘Selaroides leptolepis, smooth-tailed trevally’ (mala ‘as, like’; boro ‘bottom, keel of canoe’)
-  SES: Gela        mala(hau)    ‘various kingfish and jack spp.’ (hau ‘old’)
-```
+__formgroup__ MM:  Patpatar    mala(la)     ‘k.o. fish’ MM:  Nehan       mala(ŋuh)    ‘Trachinotus russelli, common dart’ (_ŋuh_ ‘kiss’) [T. botla] MM:  Marovo      mara         ‘generic for all Carangids (trevallies etc.)’ (15 compound terms for kinds) (for †_mala_) SES: Gela        mala(boro)   ‘Selaroides leptolepis, smooth-tailed trevally’ (_mala_ ‘as, like’; boro ‘bottom, keel of canoe’) SES: Gela        mala(hau)    ‘various kingfish and jack spp.’ (_hau_ ‘old’)
 
 <table>
 <tr>
@@ -6833,7 +6819,7 @@ Malcolm Ross (vol.2, pp.49-50) reconstructs POc _&ast;mala_ ‘resembling’ whi
 <tr>
 <td>Pn</td><td>Tokelauan</td><td><i>mala(tea)</i></td>
 <td>
-'<span>Cheilinus undulalus</span>' (<span>tea ‘white’</span>)</td>
+'<span>Cheilinus undulalus</span>' (<span><em>tea</em> ‘white’</span>)</td>
 </tr>
 </table>
 
@@ -6851,7 +6837,7 @@ Malcolm Ross (vol.2, pp.49-50) reconstructs POc _&ast;mala_ ‘resembling’ whi
 <tr>
 <td>SES</td><td>Gela</td><td><i>taliɣu(mane)</i></td>
 <td>
-'<span>Caranx ignobilis, giant trevally</span>' (<span>mane ‘male’</span>)</td>
+'<span>Caranx ignobilis, giant trevally</span>' (<span><em>mane</em> ‘male’</span>)</td>
 </tr>
 <tr>
 <td>SES</td><td>Arosi</td><td><i>ariu</i></td>
@@ -6947,7 +6933,7 @@ Lower level reconstructions include PNCV _&ast;dilit(i,u)_ ‘_Caranx spp._’ (
 ## 27. Dolphinfishes (_Coryphaenidae_)
 
 
-Figure 2.16 _Coryphaena hippurus_, common dolphinfish
+Figure 2.16:_Coryphaena hippurus_, common dolphinfish
 
 Dolphinfish are large swift-swimming powerful fish, pelagic and mostly oceanic, but sometimes found around reefs. They are spectacular fighters which leap from the water when hooked. They have brilliant colouration and excellent flesh. Munro (pp.218-219) records two species for the family, with _Coryphaena hippurus_ being larger and better known than _C. equiselis_. They are not to be confused with dolphins, cetaceans of the family _Delphinidae_, although some Polynesian dictionaries gloss their term for _C. hippurus_ as ‘dolphin’.
 
@@ -7095,7 +7081,7 @@ Most fusiliers are brilliantly coloured with iridescent blue and yellow. They ca
 
 
 
-PCP/PPn &ast;tikawa ‘_Caesio sp._’ is reconstructed by Geraghty (p.152), Hooper (p.210).
+PCP/PPn _&ast;tikawa_ ‘_Caesio sp._’ is reconstructed by Geraghty (p.152), Hooper (p.210).
 
 
 <a id="s-30"></a>
@@ -7110,7 +7096,7 @@ There are many species of _Lutjanidae_, some quite distinctive in markings, and 
 
 <a id="p-75"></a>
 
-Figure 2.17    _Lutjanus fulviflamma_, Dory snapper
+Figure 2.17:    _Lutjanus fulviflamma_, Dory snapper
 
 The proposed gloss of POc _&ast;qutur_ is based on the agreement of non-Oceanic cognates with those of the Central Pacific.[^19] _Aprion virescens_, the green jobfish, is found at depths that vary from 0-180 metres (FishBase). See §20 regarding the homophony of this etymon with POc _&ast;qutur_ ‘k.o. fish, possibly Sphyraena sp., barracuda’ .
 
@@ -7763,7 +7749,7 @@ Most are brilliantly coloured, inhabiting sand and rubble areas around reefs. Th
 
 These are a small family frequenting sandy shores and muddy estuaries, and at times, coral reefs. They are known chiefly for the free filaments in the pectoral fin, a feature which is reflected in its name as a reduplicated term for ‘beard’. They also have a projecting snout and large adipose eyelids, which reflect adaptation to muddy environments where sense of touch compensates for loss of vision. The flesh has excellent flavour and texture (Munro 1967: p. 189).
 
-Our only reconstruction is at PPn level, PPn _&ast;kumi-kumia_ ‘_Polydactylus sexfilis_. _P. ple- beius_: threadfin’ (from POc _&ast;kumi_ ‘beard’ (Hooper p.204). Hooper notes that the Tokelauan word for _P. sexfilis_ is _ava-ava_. also meaning ‘beard’.
+Our only reconstruction is at PPn level, PPn _&ast;kumi-kumia_ ‘_Polydactylus sexfilis_. _P. plebeius_: threadfin’ (from POc _&ast;kumi_ ‘beard’ (Hooper p.204). Hooper notes that the Tokelauan word for _P. sexfilis_ is _ava-ava_. also meaning ‘beard’.
 
 Misima (PT) has a term _kum-kum_ ‘generic for damselfish, _Chromis spp._ and others’, considered a chance resemblance.
 
@@ -7905,7 +7891,7 @@ Some of the following forms attributed to POc _&ast;(k,q)umutuR_ show loss of th
 <tr>
 <td>MM</td><td>Patpatar</td><td><i>a-umut</i></td>
 <td>
-'<span>many kinds spotted sweetlips</span>' (<span>a article</span>)</td>
+'<span>many kinds spotted sweetlips</span>' (<span><em>a</em> article</span>)</td>
 </tr>
 <tr>
 <td>MM</td><td>Nakanai</td><td><i>kumu</i></td>
@@ -7925,7 +7911,7 @@ Some of the following forms attributed to POc _&ast;(k,q)umutuR_ show loss of th
 <tr>
 <td>SES</td><td>Lau</td><td><i>mumu</i></td>
 <td>
-'<span><em>Plectorhinchus spp.</em>, sweetlip</span>' (<span>for ^lunni</span>)</td>
+'<span><em>Plectorhinchus spp.</em>, sweetlip</span>' (<span>for †<em>lumu</em></span>)</td>
 </tr>
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>umotu</i></td>
@@ -8005,7 +7991,7 @@ There is a PPn reconstruction, _&ast;kawa-kawa_ ‘Terapon jarbua, crescent perc
 ## 36. Emperors and large-eyed breams (_Lethrinidae_)
 
 
-Figure 2.18 _Lethrinus variegatus_, variegated emperor
+Figure 2.18:_Lethrinus variegatus_, variegated emperor
 
 Emperors inhabit shallow coastal waters around rocky outcrops and coral reefs, moving in schools. Most are fairly brightly coloured in shades of red and green. Their flesh is excellent (Munro 1967: p.324). Four genera are identified, _Lethrinus_, _Gnathodentex_, _Gymnocranius_ and _Monotaxis_. We have seven POc reconstructions, but in a number of instances their reflexes have come to be applied to different referents in daughter languages. In such cases reconstructions are simply labelled _Lethrinidae_ ox _Lethrinus spp._
 
@@ -8085,14 +8071,14 @@ cf. also:
 <td>Rotuman</td>
 <td><i>ulapu</i></td>
 <td>
-'<span>k.o. fish</span>' (<span>0- for f?-</span>)</td>
+'<span>k.o. fish</span>' (<span><em>∅-</em> for †<em>ʔ-</em></span>)</td>
 </tr>
 <tr>
 <td>Pn</td>
 <td>Samoan</td>
 <td><i>ulapo</i></td>
 <td>
-'<span>lighter coloured species of genus Scarus (parrotfish) when about 15 cm long</span>' (<span>0-for f?-</span>)</td>
+'<span>lighter coloured species of genus Scarus (parrotfish) when about 15 cm long</span>' (<span><em>∅-</em> for †<em>ʔ-</em></span>)</td>
 </tr>
 </table>
 
@@ -8426,7 +8412,7 @@ It is possible that the items in the set below are related to those above throug
 <tr>
 <td>SES</td><td>Sa'a</td><td><i>awaŋo</i></td>
 <td>
-'<span>k.o. fish eaten only by older men</span>' (<span>0- for f?-</span>)</td>
+'<span>k.o. fish eaten only by older men</span>' (<span><em>∅-</em> for †<em>ʔ-</em></span>)</td>
 </tr>
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>kawaŋo</i></td>
@@ -8481,7 +8467,7 @@ Also reconstructed are PCP &ast;ŋujula ‘_Lethrinus elongates_’, PCP _&ast;k
 ## 37. Goatfishes (_Mullidae_)
 
 
-Figure 2.19 _Parupeneus signatus_, black-spotted goatfish
+Figure 2.19: _Parupeneus signatus_, black-spotted goatfish
 
 The _Mullidae_ have large scales and two barbels at the chin. Small to moderate in size and usually red or gold, they are bottom-dwellers, often occurring in large schools (Munro 1967: p.334). Genera include _Mulloidichthys_, _Parupeneus_, _Upeneus_ and _Pseudupeneus_. Both in Andra (Adm) ([McEldowney 1995](../references.md#source-Mceldowney1995)) and Kapingamarangi (Pn) (Lieber 1994), goatfish are reported as particularly numerous in stone fishtrap catches. Most species are considered good eating. We have five POc reconstructions, one of which is traceable with consistent referent back to PAn, and one which probably refers to a growth stage.
 
@@ -8695,22 +8681,22 @@ The _Mullidae_ have large scales and two barbels at the chin. Small to moderate 
 <tr>
 <td>Adm</td><td>Loniu</td><td><i>mʷasas</i></td>
 <td>
-'<span>goatfish sp.</span>' (<span>-5- for f-2-</span>)</td>
+'<span>goatfish sp.</span>' (<span><em>-s-</em> for †<em>-ʔ-</em></span>)</td>
 </tr>
 <tr>
 <td>Adm</td><td>Penchal</td><td><i>mʷaracei</i></td>
 <td>
-'<span>goatfish</span>' (<span>-r- for f-/-; Akimichi</span>)</td>
+'<span>goatfish</span>' (<span><em>-r-</em> for †<em>-l-</em>; Akimichi</span>)</td>
 </tr>
 <tr>
 <td>Adm</td><td>Lenkau</td><td><i>mʷasei</i></td>
 <td>
-'<span>goatfish</span>' (<span>-0- for f-/z-</span>)</td>
+'<span>goatfish</span>' (<span><em>-∅-</em> for †<em>-h-</em></span>)</td>
 </tr>
 <tr>
 <td>MM</td><td>Lihir</td><td><i>mawis</i></td>
 <td>
-'<span>Parapeneus bifasciatus, doublebar goatfish</span>' (<span>-u - for f-s-</span>)</td>
+'<span>Parapeneus bifasciatus, doublebar goatfish</span>' (<span><em>-w-</em> for †<em>-s-</em></span>)</td>
 </tr>
 <tr>
 <td>MM</td><td>Nehan</td><td><i>maheh</i></td>
@@ -8892,7 +8878,7 @@ The zero reflex of initial _&ast;s-_ in the Ponapean, Mokilese and Lau Fijian re
 <tr>
 <td>PT</td><td>Motu</td><td><i>dahuru</i></td>
 <td>
-'<span>k.o. fish</span>' (<span>-r- for f-/-</span>)</td>
+'<span>k.o. fish</span>' (<span><em>-r-</em> for †<em>-l-</em></span>)</td>
 </tr>
 <tr>
 <td>Mic</td><td>Ponapean</td><td><i>epil</i></td>
@@ -9002,7 +8988,7 @@ No POc reconstruction has been made. A lower level reconstruction includes PCP _
 ## 39. Drummers, rudderfishes (_Kyphosidae_)
 
 
-Figure 2.20   _Kyphosus cinerascens_, ashen drummer
+Figure 2.20:_Kyphosus cinerascens_, ashen drummer
 
 Drummers or rudderfishes are a small family. Fishes are typically small, finely and closely scaled, and dull in colour. Most species are pelagic, often found under floating medusae. They are herbivorous fish, feeding chiefly on algae and seaweed. The flesh is regarded as edible but of poor quality (Munro 1967: p.352).
 
@@ -9245,7 +9231,7 @@ Allen & Swainston (1993:58) describe the batfishes of the genus _Platax_ as amon
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>vuna-vuna</i></td>
 <td>
-'<span>juvenile phase of seabat or angelfish, <em>Platax pinnatus</em></span>' (<span>for †buna</span>)</td>
+'<span>juvenile phase of seabat or angelfish, <em>Platax pinnatus</em></span>' (<span>for †<em>buna</em></span>)</td>
 </tr>
 </table>
 
@@ -9262,9 +9248,9 @@ Allen & Swainston (1993:58) describe the batfishes of the genus _Platax_ as amon
 
 Butterflyfish are among the most readily recognised of coral reef fishes due to their graceful shapes and wide range of brilliant colour patterns. Colours are usually combinations of black, red, orange, yellow and white. The fishes are diurnal and some species are extremely territorial, inhabiting one or more heads of plate coral. At dusk they retreat to reef crevices where they remain motionless until dawn (Allen & Swainston 1993:60).
 
-Figure 2.21 _Chaetodon sp._, coralfish
+Figure 2.21:_Chaetodon sp._, coralfish
 
-Both Hooper (1994: p. 188) and [Hviding](../references.md#source-Hviding1996) ([1996](../references.md#source-Hviding1996):192) have commented on the fact that in Oceanic languages butterflyfish, coralfish and angelfish are sometimes lumped together under one generic term, although angelfish belong in a separate family, _Pomacanthidae_. _Chaetodontidae_ are of little value for food, and there is apparently little point in distinguishing species or growth stages. I have two POc reconstructions, which presumably contrasted in meaning, but reflexes of both _&ast;bebek_ and _&ast;tipi-tipi_ have in some languages been used as the generic form for butterflyfish, coralfish, and perhaps others, and I have been unable to differentiate between their meanings. Although the final _&ast;-k_ of _&ast;bebek_ is not supported by the evidence given here, there can be no doubt that the same word in POc referred to both ‘butterfly’ and ‘butterflyfish’.
+Both Hooper (1994: p. 188) and [Hviding](../references.md#source-Hviding1996) ([1996](../references.md#source-Hviding1996):192) have commented on the fact that in Oceanic languages butterflyfish, coralfish and angelfish are sometimes lumped together under one generic term, although angelfish belong in a separate family, _Pomacanthidae_. _Chaetodontidae_ are of little value for food, and there is apparently little point in distinguishing species or growth stages. I have two POc reconstructions, which presumably contrasted in meaning, but reflexes of both  _&ast;bebek_ and _&ast;tipi-tipi_ have in some languages been used as the generic form for butterflyfish, coralfish, and perhaps others, and I have been unable to differentiate between their meanings. Although the final _&ast;-k_ of _&ast;bebek_ is not supported by the evidence given here, there can be no doubt that the same word in POc referred to both ‘butterfly’ and ‘butterflyfish’.
 
 <table>
 <tr>
@@ -9288,7 +9274,7 @@ Both Hooper (1994: p. 188) and [Hviding](../references.md#source-Hviding1996) ([
 <tr>
 <td>PT</td><td>Motu</td><td><i>bebe</i></td>
 <td>
-'<span><em>Chaetodon spp.</em></span>' (<span>kau-bebe ‘butterfly’; Oramn.d.</span>)</td>
+'<span><em>Chaetodon spp.</em></span>' (<span><em>kau-bebe</em> ‘butterfly’; Oramn.d.</span>)</td>
 </tr>
 <tr>
 <td>MM</td><td>Bola</td><td><i>bebe</i></td>
@@ -9298,7 +9284,7 @@ Both Hooper (1994: p. 188) and [Hviding](../references.md#source-Hviding1996) ([
 <tr>
 <td>MM</td><td>Nakanai</td><td><i>bebe(o)</i></td>
 <td>
-'<span>k.o. fish</span>' (<span>bebe ‘butterfly’</span>)</td>
+'<span>k.o. fish</span>' (<span><em>bebe</em> ‘butterfly’</span>)</td>
 </tr>
 <tr>
 <td>SES</td><td>Kwaio</td><td><i>bebe</i></td>
@@ -9449,7 +9435,7 @@ Angelfish are small to moderate-sized marine fish, frequenting coral reefs. They
 ## 44. Damselfishes or demoiselles, anemonefishes, sergeant-majors, pullers (_Pomacentridae_)
 
 
-Figure 2.22 _Adudefduf sp._, sergeant-major
+Figure 2.22: _Adudefduf sp._, sergeant-major
 
 These are very active brilliant little fishes of the coral reefs, seeking shelter among branches of coral and in crevices. They are often left in tide pools. They are trim and shapely, greatly suggesting butterflyfish in mode of life. Coloration is highly variable, ranging from grey to yellow to blue. Genera include _Pomacentrus_ (damselfish), _Amphiprion_ (anemonefish, clownfish), _Abudefduf_ (sergeant-majors) and _Chromis_ (pullers), and there are dozens of species. Two POc terms are reconstructed, the second one, _&ast;taku-takuŋ_, possibly the term for juveniles, those of many species being distinctively marked by a yellow body with bright blue stripes (Allen & Swainston 1993:74).
 
@@ -9546,7 +9532,7 @@ These are very active brilliant little fishes of the coral reefs, seeking shelte
 
 <a id="p-91"></a>
 
-Reflexes of POc &ast;taku-takui], reconstructed below, have been reduplicated in various ways. Gumawana and PPn both reflect &ast;t(o,u)kukuij, where the first syllable, &ast;t(o,u)- is per haps itself a reduction of &ast;taku-. Bing and Takia both reflect full reduplication after loss of &ast;-k- Only Teop reflects the more usual Oceanic reduplication in ^taku-takuŋ. Central Pacific terms show assimilation of the first vowel &ast;a > u.
+Reflexes of POc _&ast;taku-takuŋ_, reconstructed below, have been reduplicated in various ways. Gumawana and PPn both reflect _&ast;t(o,u)kukuŋ_, where the first syllable, _&ast;t(o,u)_- is per haps itself a reduction of _&ast;taku-_. Bing and Takia both reflect full reduplication after loss of _&ast;-k-_ Only Teop reflects the more usual Oceanic reduplication in _&ast;taku-takuŋ_. Central Pacific terms show assimilation of the first vowel _&ast;a_ > _u_.
 
 <table>
 <tr>
@@ -9638,12 +9624,12 @@ Reflexes of POc &ast;taku-takui], reconstructed below, have been reduplicated in
 ## 45. Hawkfishes (_Cirrhitidae_)
 
 
-Many _Cirrhitidae_ are richly coloured and abundant about coral reefs and rocks. They are solitary and sedentary, frequently seen sitting on top of coral heads, from which they make quick short darts for food (Munro 1967: p.442). Two reconstructions are possible at PPn level, _&ast;patuki_ (Geraghty p.157) and _&ast;qulu-tuki_ (Hooper p.206). Their association with &ast;tuki ‘to beat, pound’, is not understood.
+Many _Cirrhitidae_ are richly coloured and abundant about coral reefs and rocks. They are solitary and sedentary, frequently seen sitting on top of coral heads, from which they make quick short darts for food (Munro 1967: p.442). Two reconstructions are possible at PPn level, _&ast;patuki_ (Geraghty p.157) and _&ast;qulu-tuki_ (Hooper p.206). Their association with _&ast;tuki_ ‘to beat, pound’, is not understood.
 
 
 <a id="p-92"></a>
 
-Figure 2.23   Cheilinus undulatus, double-headed Maori wrasse
+Figure 2.23:   Cheilinus undulatus, double-headed Maori wrasse
 
 
 <a id="s-46"></a>
@@ -9958,12 +9944,12 @@ cf. also:
 <tr>
 <td>NCV</td><td>Ambae</td><td><i>mʷera (mavute)</i></td>
 <td>
-'<span>checkerboard wrasse?</span>' (<span>loss of final *-ri unexpected; mavute ‘white’</span>)</td>
+'<span>checkerboard wrasse?</span>' (<span>loss of final <em>*-ri</em> unexpected; mavute ‘white’</span>)</td>
 </tr>
 <tr>
 <td>NCV</td><td>Mota</td><td><i>mera</i></td>
 <td>
-'<span>k.o. fish</span>' (<span>loss of final *-ri unexpected</span>)</td>
+'<span>k.o. fish</span>' (<span>loss of final <em>*-ri</em> unexpected</span>)</td>
 </tr>
 <tr>
 <td>Mic</td><td>Marshallese</td><td><i>meṛœ</i></td>
@@ -10161,7 +10147,7 @@ Lower-level reconstructions include PCP _&ast;labe_, PPn _&ast;lape_ [^29] ‘_L
 ## 47. Parrotfishes (_Scaridae_)
 
 
-Figure 2.24 Bolbometopon muricatum, double-headed parrotfish
+Figure 2.24:Bolbometopon muricatum, double-headed parrotfish
 
 Parrotfish are closely related to the wrasses, although the latter are carnivorous. Parrotfish are herbivorous, typically large, the jaws with a bony beak. They are reef dwellers, feeding chiefly on vegetable matter, but their strong beaks easily crush molluscs and coral. Most pass through one to three colour phases. Juveniles are usually plain, with mottling; immatures usually patterned with red, brown or purple, adults with blue, green, yellow, orange or red patterns (Munro 1967: p.431). Like the wrasses they retreat into holes in the coral at night to sleep. Genera include _Scarus_, _Hipposcarus_ and _Bolbometopon_.
 
@@ -10237,7 +10223,7 @@ Parrotfish are closely related to the wrasses, although the latter are carnivoro
 <tr>
 <td>PT</td><td>Iduna</td><td><i>ulahi</i></td>
 <td>
-'<span>k.o. fish, large</span>' (<span>for ^unavi</span>)</td>
+'<span>k.o. fish, large</span>' (<span>for †<em>unavi</em></span>)</td>
 </tr>
 <tr>
 <td>MM</td><td>Patpatar</td><td><i>uleh</i></td>
@@ -10608,7 +10594,7 @@ cf. also:
 <td>Mota</td>
 <td><i>mera</i></td>
 <td>
-'<span>k.o. fish</span>' (<span>loss of final *-ri unexpected</span>)</td>
+'<span>k.o. fish</span>' (<span>loss of final <em>*-ri</em> unexpected</span>)</td>
 </tr>
 </table>
 
@@ -10731,7 +10717,7 @@ cf. also:
 </table>
 
 
-Lower-level reconstructions include PNCV &ast;saumʷa ‘parrotfish, _Scarus sp._’ (François 2005:499), PCP _&ast;bobo_ ‘_Scarus sp._’ (Geraghty p. 160) and PPn _&ast;qufu_ ‘wrasse or parrotfish’ (Hooper 1994: p.217).
+Lower-level reconstructions include PNCV _&ast;saumʷa_ ‘parrotfish, _Scarus sp._’ (François 2005:499), PCP _&ast;bobo_ ‘_Scarus sp._’ (Geraghty p. 160) and PPn _&ast;qufu_ ‘wrasse or parrotfish’ (Hooper 1994: p.217).
 
 
 <a id="p-99"></a>
@@ -10742,7 +10728,7 @@ Lower-level reconstructions include PNCV &ast;saumʷa ‘parrotfish, _Scarus sp.
 ## 48. Sandperches, Grubfishes (_Pinguipedidae_, and also _Mugiloididae_, _Parapercidae_)
 
 
-Fijian iko-tokoto-nivosai and PNPn &ast;takoto (E Uvean and Samoan), although evidently similar, are both independently derived from the verb PCP &ast;(ta)kolo ‘lie down’, which is typical sandperch behaviour (Geraghty p. 160). Samoan taʔoto is glossed ‘saury’, a fish from a different family, but one which also tends to lie on the bottom, sometimes burying itself in sand. No widespread cognate sets have been located.
+Fijian _iko-tokoto-nivōsai_ and PNPn _&ast;takoto_ (E Uvean and Samoan), although evidently similar, are both independently derived from the verb PCP _&ast;(ta)koto_ ‘lie down’, which is typical sandperch behaviour (Geraghty p. 160). Samoan _taʔoto_ is glossed ‘saury’, a fish from a different family, but one which also tends to lie on the bottom, sometimes burying itself in sand. No widespread cognate sets have been located.
 
 
 <a id="s-49"></a>
@@ -10770,12 +10756,12 @@ Gobies are very small sluggish fishes abundant about reefs and coral. They are u
 <tr>
 <td>SES</td><td>Gela</td><td><i>kakau (pilo)</i></td>
 <td>
-'<span>blennies generic, particularly incl. rockskippers</span>' (<span>pilo ‘to wave about’</span>)</td>
+'<span>blennies generic, particularly incl. rockskippers</span>' (<span><em>pilo</em> ‘to wave about’</span>)</td>
 </tr>
 <tr>
 <td>SES</td><td>Lau</td><td><i>akʷa-akʷa</i></td>
 <td>
-'<span>sp. of walking fish in the mangroves</span>' (<span>for] ʔakwa-ʔakw a</span>)</td>
+'<span>sp. of walking fish in the mangroves</span>' (<span>for †<em>ʔakʷa-ʔakʷa</em></span>)</td>
 </tr>
 <tr>
 <td>SES</td><td>Arosi</td><td><i>ʔaʔawa</i></td>
@@ -10806,7 +10792,7 @@ cf. also:
 <td>Rennellese</td>
 <td><i>kagapa</i></td>
 <td>
-'<span>small inedible rock-climbing black fish, prob. blennies</span>' (<span>reflects a hypothetical *kalawa</span>)</td>
+'<span>small inedible rock-climbing black fish, prob. blennies</span>' (<span>reflects a hypothetical <em>*kalawa</em></span>)</td>
 </tr>
 </table>
 
@@ -10948,7 +10934,7 @@ Moorish idols superficially resemble butterflyfish, with strongly marked bands o
 ## 54. Unicornfishes, surgeonfishes, bristletooths, tangs (_Acanthuridae_)
 
 
-Figure 2.25 _Naso unicornis_, long-snouted unicornfish
+Figure 2.25: _Naso unicornis_, long-snouted unicornfish
 
 All _Acanthuridae_ are herbivorous coral reef fish, scraping algae with their fine teeth. Genera include _Naso_, _Acanthurus_, _Zebrasoma_ and _Ctenochaetus_. They have thick leathery skin and a spine with one or more knife-like barbs on the tail which are capable of severe wounding. Surgeonfish are so named because of these lancetlike spines, unicorn fish because of the horn-like projection on the forehead. Juveniles differ greatly and are usually separately named in vernacular nomenclatures (Munro 1967: p.482). More POc reconstructions have been made for _Acanthuridae_ than for any other family. Three refer to the genus Naso ‘unicornfish’, but only one, _&ast;qume_, clearly refers to a single species, _Naso unicornis_.
 
@@ -11006,7 +10992,7 @@ All _Acanthuridae_ are herbivorous coral reef fish, scraping algae with their fi
 <tr>
 <td>SES</td><td>Ulawa</td><td><i>ume (totoro)</i></td>
 <td>
-'<span><em>N. unicornis</em></span>' (<span>totoro ‘crest’</span>)</td>
+'<span><em>N. unicornis</em></span>' (<span><em>totoro</em> ‘crest’</span>)</td>
 </tr>
 <tr>
 <td>SES</td><td>Arosi</td><td><i>ume</i></td>
@@ -11056,17 +11042,17 @@ All _Acanthuridae_ are herbivorous coral reef fish, scraping algae with their fi
 <tr>
 <td>Pn</td><td>Samoan</td><td><i>ume</i></td>
 <td>
-'<span>name given to mature fishes of the genus Naso when about 30 cm long and over</span>' (<span>ume-lei ‘Naso when about 15 cm long’</span>)</td>
+'<span>name given to mature fishes of the genus Naso when about 30 cm long and over</span>' (<span><em>ume-lei</em> ‘Naso when about 15 cm long’</span>)</td>
 </tr>
 <tr>
 <td>Pn</td><td>Rennellese</td><td><i>ʔume</i></td>
 <td>
-'<span>k.o. large fish, similar topunoŋi, perhaps a unicorn fish or parrot fish</span>'</td>
+'<span>k.o. large fish, similar to <em>punoŋi</em>, perhaps a unicorn fish or parrot fish</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Rennellese</td><td><i>ʔume (kan)</i></td>
 <td>
-'<span>a unicorn fish</span>' (<span>kanu ‘patterned’</span>)</td>
+'<span>a unicorn fish</span>' (<span><em>kanu</em> ‘patterned’</span>)</td>
 </tr>
 <tr>
 <td>Pn</td><td>Rarotongan</td><td><i>ume</i></td>
@@ -11087,7 +11073,7 @@ cf. also:
 <td>Kilivila</td>
 <td><i>gum</i></td>
 <td>
-'<span>k.o. fish</span>' (<span>g- for fA&gt;</span>)</td>
+'<span>k.o. fish</span>' (<span><em>g-</em> for †<em>k</em></span>)</td>
 </tr>
 </table>
 
@@ -11219,7 +11205,7 @@ In the next set, PNPn languages have added reflexes of PPn _&ast;tifi_ ‘tip, p
 <tr>
 <td>Pn</td><td>Pukapukan</td><td><i>maono</i></td>
 <td>
-'<span>Acanthurus guttatus, white-spotted surgeonfish</span>' (<span>p unexpected</span>)</td>
+'<span>Acanthurus guttatus, white-spotted surgeonfish</span>' (<span><em>o</em> unexpected</span>)</td>
 </tr>
 </table>
 
@@ -11462,7 +11448,7 @@ cf. also:
 <tr>
 <td>PT</td><td>Misima</td><td><i>havani</i></td>
 <td>
-'<span><em>A. nigricauda</em>, blackstreak surgeonfish</span>' (<span>initial h- for |0</span>)</td>
+'<span><em>A. nigricauda</em>, blackstreak surgeonfish</span>' (<span>initial <em>h-</em> for †∅</span>)</td>
 </tr>
 <tr>
 <td>MM</td><td>Marovo</td><td><i>valiri</i></td>
@@ -11506,7 +11492,7 @@ cf. also:
 
 <a id="p-104"></a>
 
-Figure 2.26   Left _Zebrasoma veliferum_, sailfin tang. Right _Acanthurus lineatus_, blue-lined surgeonfish.
+Figure 2.26:Left _Zebrasoma veliferum_, sailfin tang. Right _Acanthurus lineatus_, blue-lined surgeonfish.
 
 <table>
 <tr>
@@ -11708,7 +11694,7 @@ The transfer of meaning in Micronesian languages in the next set is unexplained.
 <tr>
 <td>NNG</td><td>Tami</td><td><i>gilau</i></td>
 <td>
-'<span><em>A. bleekeri</em>, k.o. surgeonfish</span>' (<span>g- for exp æ-</span>)</td>
+'<span><em>A. bleekeri</em>, k.o. surgeonfish</span>' (<span><em>g-</em> for expected <em>k-</em></span>)</td>
 </tr>
 <tr>
 <td>NNG</td><td>Bing</td><td><i>kir</i></td>
@@ -11903,7 +11889,7 @@ cf. also:
 <tr>
 <td>MM</td><td>Bola</td><td><i>meto</i></td>
 <td>
-'<span>k.o. fish</span>' (<span>for ^mayeto</span>)</td>
+'<span>k.o. fish</span>' (<span>for †<em>maɣeto</em></span>)</td>
 </tr>
 <tr>
 <td>SES</td><td>Lau</td><td><i>mae(iʔa)</i></td>
@@ -11933,7 +11919,7 @@ cf. also:
 <tr>
 <td>Fij</td><td>Rotuman</td><td><i>vaefa</i></td>
 <td>
-'<span>Acanthurus triostegus</span>' (<span>y- &lt; POc */w w-</span>)</td>
+'<span>Acanthurus triostegus</span>' (<span><em>v-</em> &lt; POc <em>*mʷ-</em></span>)</td>
 </tr>
 <tr>
 <td>Pn</td><td>Niuean</td><td><i>meito</i></td>
@@ -12114,7 +12100,7 @@ cf. also:
 <td>Kove</td>
 <td><i>balaŋu-ŋu</i></td>
 <td>
-'<span>large fish</span>' (<span>Z&gt;- for fv-</span>)</td>
+'<span>large fish</span>' (<span><em>b-</em> for †<em>v-</em></span>)</td>
 </tr>
 <tr>
 <td>NNG</td>
@@ -12186,12 +12172,12 @@ cf. also:
 
 
 
-[Geraghty](../references.md#source-Geraghty1994) ([1994](../references.md#source-Geraghty1994): pp. 161-162) adds further PCP reconstructions: PCP _&ast;tusi_ ‘_Acanthurus sp._’ (PPn _&ast;tusi_ ‘mark, stripe’); _&ast;masa_ ‘a small dark _Acanthuridae_, possibly _Zebrasoma scopas_. blue-lined tang or _A. pyroferus_, mimic surgeonfish’ and &ast;ma(c,s)i-ma(c,s)i ) ‘_Naso sp._’.
+[Geraghty](../references.md#source-Geraghty1994) ([1994](../references.md#source-Geraghty1994): pp. 161-162) adds further PCP reconstructions: PCP _&ast;tusi_ ‘_Acanthurus sp._’ (PPn _&ast;tusi_ ‘mark, stripe’); _&ast;masa_ ‘a small dark _Acanthuridae_, possibly _Zebrasoma scopas_. blue-lined tang or _A. pyroferus_, mimic surgeonfish’ and _&ast;ma(c,s)i-ma(c,s)i_) ‘_Naso sp._’.
 
 
 <a id="p-108"></a>
 
-Figure 2.27 _Siganus punctatus_, gold-spotted spinefoot
+Figure 2.27: _Siganus punctatus_, gold-spotted spinefoot
 
 
 <a id="s-55"></a>
@@ -12664,7 +12650,7 @@ Snake mackerels (_Gempylus serpens_, _Promethichthys prometheus_, _Ruvettus pret
 
 <a id="p-111"></a>
 
-Figure 2.28   Katsuwonus pelamis, skipjack tuna
+Figure 2.28: Katsuwonus pelamis, skipjack tuna
 
 
 <a id="s-57"></a>
@@ -12878,9 +12864,9 @@ Munro recognised distinct families: _Katsuwonidae_ (skipjack and dogtooth tuna),
 
 <a id="p-113"></a>
 
-Figure 2.29   _Scomberomorus commerson_, Spanish mackerel
+Figure 2.29:   _Scomberomorus commerson_, Spanish mackerel
 
-Blust (2002:130) notes that Tagalog is the only non-Oceanic language known to have a presumptive cognate, atun ‘tunny fish’, albeit with an unexpected high vowel, and concludes that ‘&ast;qatun probably was a lexical innovation in POc and that the early Spanish explorers in the Pacific borrowed the term from an Oceanic language (most likely in the western Solomon Islands) that preserved final consonants, and then introduced it into the Philippines’.
+Blust (2002:130) notes that Tagalog is the only non-Oceanic language known to have a presumptive cognate, _atun_ ‘tunny fish’, albeit with an unexpected high vowel, and concludes that ‘_&ast;qatun_ probably was a lexical innovation in POc and that the early Spanish explorers in the Pacific borrowed the term from an Oceanic language (most likely in the western Solomon Islands) that preserved final consonants, and then introduced it into the Philippines’.
 
 <table>
 <tr>
@@ -13369,7 +13355,7 @@ François (2005:499) reconstructs PNCV _&ast;rowou_ ‘bonito, _Thunnus sp._’.
 ## 58. Marlins and sailfishes (_Istiophoridae_); swordfishes (_Xiphiidae_)
 
 
-Figure 2.30 _Istiophorus platypterus_, Pacific sailfish
+Figure 2.30: _Istiophorus platypterus_, Pacific sailfish
 
 The _Istiophoridae_ are identified by an upper jaw in the form of a long sword. They are big-game fish, large, fast and powerful, and pelagic in open waters. Three marlins are recognised, _Makaira indica_ (black marlin), _M. mazara_ (blue marlin) and Tetrapturus audax (striped marlin). The sailfish (_Istiophorus platypterus_) has an extremely elevated dorsal fin forming a sail-like structure which folds into a groove. The swordfish (_Xiphias gladius_) is readily known by its particularly long blade-like rostrum. The adult swordfish differs from the marlin and sailfish in having no scales. The name for the sailfish in PMP and POc, _&ast;saku-layaR_, is a compound, derived from _&ast;saku_ ‘needlefish, garfish, long toms’ (§13) plus _&ast;layaR_ ‘sail’ (see vol.l, p. 194). Referential range in reflexes often includes swordfishes and marlin as well as sailfishes, although the first two lack the sail-like dorsal fin.
 
@@ -13611,7 +13597,7 @@ Flatfishes are poorly represented in tropical waters in comparison with their ab
 <i>&ast;lalali, ali</i>
 </td>
 <td>
-'<span>flatfish</span>' (<span>Geraghty 1994: *(y)ali</span>)</td>
+'<span>flatfish</span>' (<span>Geraghty 1994: <em>*(y)ali</em></span>)</td>
 </tr>
 <tr>
 <td><strong>PPn</strong></td><td> </td>
@@ -13793,7 +13779,7 @@ cf. also:
 <td>Kapingamarangi</td>
 <td><i>pai-pai</i></td>
 <td>
-'<span>Arnoglossns. flounder</span>'</td>
+'<span>Arnoglossus, flounder</span>'</td>
 </tr>
 </table>
 
@@ -13807,7 +13793,7 @@ cf. also:
 ## 60. Stonefishes (_Synanceiidae_)
 
 
-Figure 2.31 _Synanceia verrucosa_, reef stonefish
+Figure 2.31: _Synanceia verrucosa_, reef stonefish
 
 Scorpionfishes and lionfishes were formerly included with stonefishes as _Scorpaenidae_, but stonefishes have now been classified as a separate family, _Synanceiidae_. The latter are shallowwater fishes, very sluggish, spending most of their life concealed in mud or among rocks and coral. Most have grotesquely misshapen heads and bodies covered with rough warty skin. If trodden on, they can inject an extremely painful neurotoxin which, in some cases, has proved fatal to man (Munro 1967: p.538). Reflexes of POc _&ast;[ñ,n]opu(q)_ are numerous and widespread. Most Oceanic languages have merged /ñ/ and /n/, so provide no evidence for choosing between competing reconstructions, but Sudest reflects _&ast;ñ_ only, while Titan, Loniu and Wayan reflect _n_ only. Lynch (pers. comm.) suggests the _i_ of the Naman term _(ni)niv_ might be evidence supporting initial _&ast;ñ-_. Although the referent is consistent throughout almost all Western Oceanic languages, it has apparently become a generic for fishes with poisonous spines, including at least some scorpionfishes in Micronesia, Wayan Fijian and parts of Polynesia.
 
@@ -14099,7 +14085,7 @@ Scorpionfishes and lionfishes were formerly included with stonefishes as _Scorpa
 
 <a id="p-121"></a>
 
-Figure 2.32     Monacanthus sp., scribbled leatherjacket
+Figure 2.32: Monacanthus sp., scribbled leatherjacket
 
 Triggerfishes (_Balistidae_) are characterised by a football shape, leathery skin, and small mouth with powerful jaws. They are feeble swimmers, herbivorous, generally solitary in habit, seeking shelter among coral heads and weeds. The flesh of many is poisonous, although others are used for food (Munro 1967: p.557). Closely related to _Balistidae_ are the _Monacanthidae_ (formerly _Aluteridae_), leatherjackets and filefishes. They differ from triggerfish in skin texture, leatherjackets having a leathery skin while that of filefish is rough and velvety (Munro p.564). Four POc terms are reconstructable, with _&ast;jumu_ the most likely candidate for a generic term. _&ast;bubu_ and _&ast;[bʷaRu]bʷaRu_ may, like _&ast;lio-lio_, have had more specific reference. Variability of gloss frequently indicates only variability of common names for the same species. For instance, common names for Pseudobalistesfuscus include the yellow-spotted triggerfish (Allen & Swainston) or brown triggerfish (Kailola). Although juveniles have yellow lines and spots, adults have overall dark coloration.
 
@@ -14318,7 +14304,7 @@ Triggerfishes (_Balistidae_) are characterised by a football shape, leathery ski
 <tr>
 <td>SES</td><td>Arosi</td><td><i>bubu</i></td>
 <td>
-'<span>k.o. fish, <em>Balistes</em></span>' (<span>also bubu baru-baru</span>)</td>
+'<span>k.o. fish, <em>Balistes</em></span>' (<span>also <em>bubu baru-baru</em></span>)</td>
 </tr>
 <tr>
 <td>SES</td><td>Bauro</td><td><i>pupu</i></td>
@@ -14566,7 +14552,7 @@ Members of this family are bottom dwellers in shallow water often around coral r
 
 <a id="p-124"></a>
 
-Figure 2.33   Ostracion nasus, shortnosed boxfish
+Figure 2.33: Ostracion nasus, shortnosed boxfish
 
 <table>
 <tr>
@@ -14921,7 +14907,7 @@ Puffers are sluggish fish which fill the belly with air when disturbed, and then
 
 <a id="p-126"></a>
 
-Figure 2.34     Arothron leopardus, leopard pufferfish
+Figure 2.34: Arothron leopardus, leopard pufferfish
 
 The next reconstruction is a semantic extension of POc _&ast;poto(k)_ ‘thorn’ (vol.3, p. 125). PCP _&ast;voto_, PPn _&ast;foto_ refer to the barb of a stingray.
 
@@ -15009,12 +14995,12 @@ The next reconstruction is a semantic extension of POc _&ast;poto(k)_ ‘thorn�
 <tr>
 <td>SES</td><td>Gela</td><td><i>boe-bote</i></td>
 <td>
-'<span>generic pufferfish, <em>Tetradontidae</em></span>' (<span>-f- unexpected</span>)</td>
+'<span>generic pufferfish, <em>Tetradontidae</em></span>' (<span><em>-t-</em> unexpected</span>)</td>
 </tr>
 <tr>
 <td>SES</td><td>Longgu</td><td><i>boe (sina)</i></td>
 <td>
-'<span><em>Diodon hystrix</em>, porcupinefish</span>' (<span>sina ‘his/her younger sibling’</span>)</td>
+'<span><em>Diodon hystrix</em>, porcupinefish</span>' (<span><em>sina</em> ‘his/her younger sibling’</span>)</td>
 </tr>
 <tr>
 <td>SES</td><td>To'aba'ita</td><td><i>boe (ni asi)</i></td>
@@ -15300,7 +15286,7 @@ Flying gurnards are semipelagic, with lesser powers of flight than the true flyi
 
 Remoras (_Echeneis naucrates_ and _Remora remora_), also known as suckerfish, have a modified adhesive disk on the upper surface of the head with which they attach themselves to large floating objects, frequently sharks. The Gela (SES) term for remoras is _rao-rago bagea_, literally ‘joined to sharks’. I have no POc reconstruction for remora. I noted in §4 that the Motu reflex of POc _&ast;maŋewa_ ‘k.o. shark’ and the PCP reflex of _&ast;bakewa_ ‘shark (generic)’ denote the remora, not the shark. Hooper (1994: p.216) proposes PPn _&ast;tali-tali-quli_ ‘Echeneis sp., remora, and _Naucrates ductor_, pilot fish’ with suggested etymology _&ast;tali-tali_ ‘wait upon’ and _&ast;quli_ ‘to steer’.
 
-Figure 2.35   Remora remora
+Figure 2.35:   Remora remora
 
 
 <a id="p-129"></a>
@@ -16564,7 +16550,7 @@ In this chapter I have reconstructed around 145 Proto Oceanic names for fish spr
 
 [^17]: Iaai normally does not retain final consonants, so this may have been a compound (John Lynch, pers. comm.).
 
-[^18]: [Blust](../references.md#source-Blust1986) ([1986](../references.md#source-Blust1986): 73) lists a number of fish names with prefix _mala_ from Cebuano (WMP) (_mala-patí_ ‘k.o. fish’. _mala-sugí_ ‘swordfish, sailfish’, _mala-tindúk_ ‘mackerel scad’), and one from Samar (WMP) (_mala-punti_ ‘blue- spotted sea perch’), but there is insufficient information to identity a common meaning.
+[^18]: [Blust](../references.md#source-Blust1986) ([1986](../references.md#source-Blust1986): 73) lists a number of fish names with prefix _mala_ from Cebuano (WMP) (_mala-patí_ ‘k.o. fish’. _mala-sugí_ ‘swordfish, sailfish’, _mala-tindúk_ ‘mackerel scad’), and one from Samar (WMP) (_mala-punti_ ‘blue-spotted sea perch’), but there is insufficient information to identity a common meaning.
 
 [^19]: Pendau (WMP) _utur_ ‘jobfish’ (Phil Quick pers. conun.) and Sangir _utude_ ‘kind of deep-sea fish caught by line’ (ACD).
 
@@ -16580,9 +16566,9 @@ In this chapter I have reconstructed around 145 Proto Oceanic names for fish spr
 
 [^25]: Geraghty (2010) argues that PPn _&ast;wete_ may be a regular reflex of PCP _&ast;teu_ involving the following changes: (i) lowering of the final vowel to _&ast;o_. (ii) breaking of the vowel _o_ as _we_, and (iii) metathesis to _&ast;wete_. He has tracked the same series of changes in PCP _&ast;deu_ ‘unravel’ > PPn _&ast;wete_ ‘untie’.
 
-[^26]: Admiralties terms apparently reflect Proto Admiralty &ast;mʷacasei with some irregularities. Most other items reflect POc &ast;mʷacasi.
+[^26]: Admiralties terms apparently reflect Proto Admiralty _&ast;mʷacasei_ with some irregularities. Most other items reflect POc _&ast;mʷacasi_.
 
-[^27]: Disambiguated from POc &ast;buna(r,R) by evidence from Palauan bits and Pendau bunag (R. Blust pers. comm.)
+[^27]: Disambiguated from POc _&ast;buna(r,R)_ by evidence from Palauan _bils_ and Pendau _bunag_ (R. Blust pers. comm.)
 
 [^28]: PCP _&ast;tuvu_ reflects the same assimilation of _&ast;-a-_ to _&ast;-u-_ as PCP _&ast;tukuku_ (< POc _&ast;takuŋ_) (§44).
 

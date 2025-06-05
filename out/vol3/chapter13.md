@@ -363,7 +363,7 @@ Areca catechu is a slender palm which grows up to 30 m. Its crown is smaller rel
 
 <a id="p-392"></a>
 
-Figure 13.1 Left: Areca catechu, betelnut: A, tree; B, portion of inflorescence; C, portion of fruit cluster; D, fruit: longitudinal section showing fibrous exocarp and inner chewed 'nut'. Right: Piper betle: E, plant; F, G, H, flowering shoots of three varieties.
+Figure 13.1: Left: Areca catechu, betelnut: A, tree; B, portion of inflorescence; C, portion of fruit cluster; D, fruit: longitudinal section showing fibrous exocarp and inner chewed 'nut'. Right: Piper betle: E, plant; F, G, H, flowering shoots of three varieties.
 
 Chewing betelnut as a stimulant is widespread in Papua New Guinea and the Solomon Islands, but not in other parts of the Pacific. Palms are grown in village groves or singly near houses. The seed may be chewed alone, but usually people chew a quid consisting of the seed, lime and a catkin or leaf of Piper betle (§2.2.2) (Paijmans 1976: 135).[^1] Chewing the seed induces salivation, and if lime is present it turns the chewed mass bright red. Some people swallow all but the initial burst of saliva, whilst others spit out the red masticate. Initially, chewing leads to a very short-lived dizziness, folllowed by a sense of renewed wakefulness. In Papua New Guinea and parts of the Solomons chewing betelnut is a social ritual when people meet. Convention requires that the host offer betelnut to visitors ([Henderson & Hancock 1988](../references.md#source-HendersonandHancock1988): 146). The husk of the fruit is sometimes used to clean the teeth after chewing, as the quid causes uncleaned teeth to turn dark brown.
 
@@ -752,7 +752,7 @@ cf. also:
 
 13.2.2.3 Piper methysticum, kava (Piperaceae)
 
-Figure 13.2 Leaves, stem and plant habit of kava, Piper methysticum
+Figure 13.2: Leaves, stem and plant habit of kava, Piper methysticum
 
 The kava plant, Piper methysticum, is a many branching plant with rounded green leaves. The plant is grown, usually near houses, exclusively from cuttings, and a narcotic is made from it in parts of Remote Oceania. Traditionally kava is consumed as a drink. The root is first reduced to small fragments by chewing, grinding or pounding. The fragments are deposited in a bowl, mixed with water and strained through the cloth-like fibre of a coconut spathe (ch.12, §5.3) to give a cloudy grey liquid (Paijmans 1976: 135). In Fiji, Tonga and Samoa the liquid is made from mature roots, is of low strength and plays a part in various ceremonies. In Vanuatu it is made from the roots of green plants and often has a much greater narcotic effect. Initially it causes the blood vessels in the lips and tongue to contract with a certain numbing effect. The drinker then senses some degree of euphoria, followed by a sense of calm well-being and clear thinking and a general relaxation of the muscles.
 
@@ -1112,7 +1112,7 @@ Three species of the thin-walled genus Nastus are reported from the region. One 
 
 The first two N astus species, and especially N. obtusus, have similar uses to those of Schizostachyum, but the third N astus species is considered by the Kwara'ae to be useless ([Henderson & Hancock 1988](../references.md#source-HendersonandHancock1988): 176, 199-201, [Kwa'ioloa & Burt 2001](../references.md#source-KwaioloaandBurt2001):200--202, [Hviding 2005](../references.md#source-Hviding2005): 112).
 
-Figure 13.3 N astus obtusus
+Figure 13.3: Nastus obtusus
 
 The term reconstructed as &ast;qauR 'bamboo spp.' below was probably the generic term for bamboos of the three genera mentioned above, as it still is in some modern languages. In Tolai, for example, we find the following:
 
@@ -1749,7 +1749,7 @@ Aleurites moluccana is a tree which grows to between 10 and 35 m in height, depe
 
 In Vanuatu A. moluccana is not cultivated, as planted seeds do not germinate well, but people protect new seedlings ([Walter & Sam 2002](../references.md#source-WalterandSam2002): 88). In Fiji the tree occurs close to villages but not in the wild, implying that it is planted.
 
-Figure 13.4 Aleurites moluccana: A, tree; B, leaves and inflorescence; C, whole fruit; D, kernel (candlenut).
+Figure 13.4: Aleurites moluccana: A, tree; B, leaves and inflorescence; C, whole fruit; D, kernel (candlenut).
 
 The candlenut owes its name to the fact that in earlier times the nuts were threaded onto the midrib of a coconut palm leaf and lit, burning slowly one after another and giving a feeble light. The smoke given off is also a good insect repellant ([Sperlich 1997](../references.md#source-Sperlich1997)). Charred seeds are used in New Ireland to make a sooty paint for blackening the face in mourning ([Peekel 1984](../references.md#source-Peekel1984): 313) and by Ponapeans for making a black or brown dye. The oil extracted from them is also used as a paint base in New Britain ([Powell 1976](../references.md#source-Powell1976)) and to polish wood in Fiji, where an extract of the seed is also used to scent the oil ([Gardner & Pawley 2006](../references.md#source-GardnerandPawley2006)). The products of A. moluccana have numerous medicinal uses ([Walter & Sam 2002](../references.md#source-WalterandSam2002): 89).
 
@@ -1863,7 +1863,7 @@ B. papyrifera is native to Japan and Taiwan and is an ancient introduction into 
 
 As Osmond & Ross noted in vol.1 (ch.4, §5.1), [Kooijman](../references.md#source-Kooijman1972) ([1972](../references.md#source-Kooijman1972):446--453) believes from descriptions of manufacture and an examination of museum pieces that bark cloth in New Guinea was made from Ficus and Artocarpus species rather than from Broussonetia papyrifera, from which bark cloth is made in other parts of the Pacific, e.g. Fiji ([Gardner & Pawley 2006](../references.md#source-GardnerandPawley2006)). However, the glosses of the items listed below suggest fairly strongly that speakers of Oceanic languages in widely separated New Guinea locations were using B. papyrifera to make bark cloth at European contact.
 
-Figure 13.5 Broussonetia papyrifera, paper mulberry
+Figure 13.5: Broussonetia papyrifera, paper mulberry
 
 POc &ast;malo probably denoted B. papyrifera, the tree which throughout much of the Pacific provides the bast from which barkcloth is made. If this is so, then B. papyrifera must have been introduced into the Pacific islands by early Oceanic speakers. [Matthews](../references.md#source-Matthews1996) ([1996](../references.md#source-Matthews1996)), however, notes its absence from the Philippines and Borneo, and thinks it possible that it did not arrive in Polynesia with the earliest colonisers. POc &ast;malo also denoted the cloth and the male genital covering made from it, and it is just possible that these were its primary meanings. It is also possible that some of the reflexes below reflect early Pacific Pidgin malo or maro 'loincloth'. PMP &ast;mal(u,aw) apparently denoted a species of tree which provided bast for clothmaking, but it is unclear which species this was, as it is reconstructed on the basis of POc &ast;malo and Kaili (WMP, Sulawesi: Parigi dialect) malo 'old term for Trema amboinensis, the tree whose bast is most commonly used for barkcloth in Sulawesi' ([Adriani & Kruijt 1901](../references.md#source-AdrianiandKruijt1901): 140, note 5, cited by R. [Kennedy 1934](../references.md#source-Kennedy1934): 242).
 
@@ -2013,7 +2013,7 @@ M. citrifolia is a tree with many uses in Oceanic speaking societies. Wild young
 
 <a id="p-407"></a>
 
-Figure 13.6 Left Morinda citrifolia, Indian mUtlberry: A, mature tree; B, shoot bearing leaves, fruit and flowers. Right Derris species: A, climbing plant; B, base of mature vine; C, woody vine stem; D, vine with leaves and pods; E, stem with inflorescence; F, immature leaf.
+Figure 13.6: Left Morinda citrifolia, Indian mUtlberry: A, mature tree; B, shoot bearing leaves, fruit and flowers. Right Derris species: A, climbing plant; B, base of mature vine; C, woody vine stem; D, vine with leaves and pods; E, stem with inflorescence; F, immature leaf.
 
 There were apparently two POc labels for M. citrifolia, &ast;fiofiu and &ast;kurat. If [Verheijen](../references.md#source-Verheijen1990) ([1990](../references.md#source-Verheijen1990): 86) has correctly identified the referent of Bima (CMP) nonu as M. citrifolia (he marks it with a question mark), then &ast;fiofiu is reconstructable for PCEMP and was inherited into POc. If Tagalog, Bisayan, Tausug nino M. citrifolia ([Madulid 2001a](../references.md#source-Madulid2001a): 527) are also cognate with POc &ast;fiofiu, then PMP &ast;fiefiu is reconstructable. Milke reconstructed this etymon as POc &ast;fiofium with final &ast;-m, but the only reflexes with this segment are Gedaged nonom and Takia nom. Both languages lose POc final &ast;- VC, and it is more likely that -m in both languages irregularly reflects medial POc &ast;-fi-, with reduplication in Gedaged.
 
@@ -3881,7 +3881,7 @@ Crinum asiaticum is a large lily with long erect leaves that are arranged in a s
 
 <a id="p-422"></a>
 
-Figure 13.10 Left: Heliconia solomonensis: A, plant; B, mature inflorescence, open and showing fruit. Right: Crinum asiaticum, spider lily.
+Figure 13.10: Left: Heliconia solomonensis: A, plant; B, mature inflorescence, open and showing fruit. Right: Crinum asiaticum, spider lily.
 
 At Tinputz (Bougainville) the pounded roots of this plant were mixed with red iron oxide and the mixture was rubbed onto coconut palm trunks to ensure that they bore well ([Blackwood 1935](../references.md#source-Blackwood1935): 311). The Nakanai of New Britain and the Marovo use the light-coloured leaf bases as trolling lures to catch large fish, in Marovo barracuda and Spanish mackerel ([Hviding 2005](../references.md#source-Hviding2005): 103, [Floyd 1954](../references.md#source-Floyd1954)). The Nakanai also use the leaves for making women's leaf skirts. In Marovo the leaves are used to treat bruises and fractures.
 

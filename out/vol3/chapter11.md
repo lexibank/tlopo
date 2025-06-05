@@ -40,7 +40,7 @@ Canarium is one of a suite of plants that were domesticated in the rain forests 
 
 <a id="p-313"></a>
 
-Figure 11.1 Left Canarium indicum: A, tree; B, portion of leaf showing terminal four leaflets; C, portion of branch showing large stipules (leaftike appendages at base of leaf stalk); D, immature inflorescence; E. cluster of fruit.; F, opened pericarp (exocarp + mesocarp + endocarp); G, opened shell/endocarp; H. edible kernel. Right Parts of the Canarium indicum fruit
+Figure 11.1: Left Canarium indicum: A, tree; B, portion of leaf showing terminal four leaflets; C, portion of branch showing large stipules (leaftike appendages at base of leaf stalk); D, immature inflorescence; E. cluster of fruit.; F, opened pericarp (exocarp + mesocarp + endocarp); G, opened shell/endocarp; H. edible kernel. Right Parts of the Canarium indicum fruit
 
 A number of Canarium species occur today in northwest island Melanesia (eight have been recorded in the Solomons) but only three cultivated species are common within their respective ranges: C. indicum (P ngali), C. salomonense (P andoa) and C. harveyi ([Evans 1999](../references.md#source-Evans1999): 3).[^1] Of these, only C. indicum occurs in New Guinea and the Bismarcks ([Bourke 1996](../references.md#source-Bourke1996)), and was presumably the only common species known to POc speakers before they reached the Solomons. Its range extends from Halmahera to Vanuatu. C. salomonense is found in Bougainville and the Solomons and in New Guinea, but not in the Bismarcks. C. harveyi apparently originated on Santa Cruz Island as the result of selection and has spread eastward to Tikopia, Anuta, Fiji, Samoa, Tonga and Niue ([Leenhouts 1959](../references.md#source-Leenhouts1959),[Yen 1996](../references.md#source-Yen1996)). [^2]
 
@@ -432,7 +432,7 @@ The POc reconstructions _&ast;(q)alipa_ and _&ast;lalipa_ are problematic both s
 ### 2.2. Inocarpus fagifer, Tahitian chestnut, Pacific chestnut, Polynesian chestnut, TP aila, Bnamambe (Fabaceae)
 
 
-Figure 11.2 Inocarpus fagifer, Tahitian chestnut: A, tree; B, portion of branch bearing fruit; C, inflorescence.
+Figure 11.2: Inocarpus fagifer, Tahitian chestnut: A, tree; B, portion of branch bearing fruit; C, inflorescence.
 
 Inocarpus fagifer is a common second storey tree of the foreshore or lowland forest, reaching 15-30 m in height in the Bismarcks but shorter on islands further east. Its trunk is straight and fluted (Figure 11 .2). Its fruit is a pod about 8cm long which does not release its single white seed, which must be cooked to be palatable. The enormous variety of its forms reflects the fact that it has long been cultivated (Bourke & AUen (forthcoming) report that it is cultivated by a sixth of Papua New Guinea's rural population). Leaves may be elongated and narrow or oblong and wide. The fruit may be rounded, crescent-shaped or elongated-oval and green, brown or yellow ([Walter & Sam2002](../references.md#source-WalterandSam2002): 183-184). Right across Oceania it is either boiled or roasted like a chestnut (Paijmans 1976: 124, [Evans 1999](../references.md#source-Evans1999): 19-21, S. [Foale 2001](../references.md#source-Foale2001), [Walter & Sam 2002](../references.md#source-WalterandSam2002): 183, [Gardner & Pawley 2006](../references.md#source-GardnerandPawley2006)). Hence the English term 'Tahitian chestnut'. It is then either eaten without further treatment, or in the Solomons and Fiji grated on coral and made into bread or pudding ([Capell 1941](../references.md#source-Capell1941), [Peekel 1984](../references.md#source-Peekel1984): 245, [Evans 1999](../references.md#source-Evans1999): 19, [Walter & Sam 2002](../references.md#source-WalterandSam2002): 185). In parts of Vanuatu it is a major alternative food between the two yam seasons, and the nuts are stored in various ways ([Walter & Sam 2002](../references.md#source-WalterandSam2002): 185).
 
@@ -696,7 +696,7 @@ The genus Barringtonia has a number of species (see also ch.5, §5.2), but only 
 
 <a id="p-320"></a>
 
-Figure 11.3 Barringtonia edulis, cut nut: A, tree; B, flowering shoot; C, flower; D, portion of string of fruit; E. longitudinal section of ripe fruit and edible kernel (from [Henderson & Hancock 1988](../references.md#source-HendersonandHancock1988): 62), F, detailed longitudinal section of fruit; G, transverse section of fruit.
+Figure 11.3: Barringtonia edulis, cut nut: A, tree; B, flowering shoot; C, flower; D, portion of string of fruit; E. longitudinal section of ripe fruit and edible kernel (from [Henderson & Hancock 1988](../references.md#source-HendersonandHancock1988): 62), F, detailed longitudinal section of fruit; G, transverse section of fruit.
 
 Of the three species, it seems probable that only B. novae-hiberniae was present in the Bismarcks in early Oceanic times, although, like B. edulis, it is only a minor food source in present-day Papua New Guinea. It is the only species of the three which grows wild in the forests of Papua New Guinea ([Jebb 1992](../references.md#source-Jebb1992)), and it is also the species which [Peekel](../references.md#source-Peekel1984) ([1984](../references.md#source-Peekel1984): 397) reports as being tended or planted in gardens and around villages in New Ireland for its edible seeds.
 
@@ -823,7 +823,7 @@ __formgroup__ MM:  Roviana       kinu         'Barringtonia sp., with edible nut
 
 <a id="p-323"></a>
 
-Figure 11.4 Terminalia catappa, sea almond: Left A, tree; B, shoot bearing fruit; C, flowering shoot; D, fruit with edible kernel (from [Henderson & Hancock 1988](../references.md#source-HendersonandHancock1988): 71). Right Parts of fruit: E, longitudinal section.
+Figure 11.4: Terminalia catappa, sea almond: Left A, tree; B, shoot bearing fruit; C, flowering shoot; D, fruit with edible kernel (from [Henderson & Hancock 1988](../references.md#source-HendersonandHancock1988): 71). Right Parts of fruit: E, longitudinal section.
 
 
 <a id="s-2-4"></a>
@@ -1670,7 +1670,7 @@ POc _&ast;padran_ appears to have specifically denoted Pandanus tectorius, but w
 
 <a id="p-330"></a>
 
-Figure 11.5 Left Pandanus tectorius: A, tree at its tallest; B, young plant when leaves harvested; C, end portion of leaf (no thorns); D, portion of surface of syncarp; E, longitudinal section of fruit segment. Right Pandanus dubius: F, tree, height 3m; G, syncarp from above; H, longitudinal section of fruit segment with edible kernel; J, leaf tip showing curved spike.
+Figure 11.5: Left Pandanus tectorius: A, tree at its tallest; B, young plant when leaves harvested; C, end portion of leaf (no thorns); D, portion of surface of syncarp; E, longitudinal section of fruit segment. Right Pandanus dubius: F, tree, height 3m; G, syncarp from above; H, longitudinal section of fruit segment with edible kernel; J, leaf tip showing curved spike.
 
 [Lynch](../references.md#source-Lynch2004a) ([2004a](../references.md#source-Lynch2004a)) suggests that the following set may also reflect POc _&ast;poipoi_.
 
@@ -1871,7 +1871,7 @@ Pandanus conoideus is a small tree, 4-7 m high, found in New Guinea, from the co
 
 The fruit are prized as a foodstuff and widely consumed. They are typically split, wrapped in leaves and cooked in an earth oven or roasted over a fire. The pulp and seeds are removed from the core, mashed with water and strained to produce a thick, rich red sauce with which other foods are seasoned ([Sorensen 1950](../references.md#source-Sorensen1950), [Barrau 1962](../references.md#source-Barrau1962): 163, [May 1984](../references.md#source-May1984), [Bourke in preparation](../references.md#source-Bourkeinpreparation)).
 
-Figure 11.6 Pandanus conoideus, marita: A, syncarp.
+Figure 11.6: Pandanus conoideus, marita: A, syncarp.
 
 POc _&ast;mʷafia_ apparently denoted Pandanus conoideus.[^21] This reconstruction is open to doubt, as there are no reflexes from New Ireland or New Britain, where the species is rare, and only one from mainland New Guinea. It is possible that Maisin _moŋgi_ 'Pandanus sp.' and PMic _&ast;maŋu_ 'pandanus leaf' are also cognate. If so, they reflect a POc form in which _&ast;-ñ-_ has been replaced by _&ast;-ŋ-_.
 
@@ -2347,7 +2347,7 @@ Pangium edule is included in this section because it is a cultivated tree ([Peek
 
 The tree grows 25-30 m tall, with 3-5 triangular buttresses up to 1 m in height. Leaves are arranged in spirals at the ends of branches. The fruit of wild trees contains cyanogenetic glucosides and is poisonous, but the fruit of cultivated trees is edible ([Peekel 1984](../references.md#source-Peekel1984): 384). The fruit, up to 15 cm long with a rough brown skin, is enclosed in a bright yellow mesocarp and green skin. It contains a number of red-brown seeds, each in its own very hard case, surrounded by a soft yellow strong-smelling pulp ([French 1986](../references.md#source-French1986): 193, [Evans 1999](../references.md#source-Evans1999): 19).
 
-Figure 11.7     Pangium edule
+Figure 11.7: Pangium edule
 
 
 <a id="p-336"></a>
@@ -2474,7 +2474,7 @@ The POc form _&ast;ñatu_ was first reconstructed by [Blust](../references.md#so
 
 The gloss of PMP _&ast;ñatuq_ below, 'a hardwood tree taxon, including at least Palaquium spp.', is inferred from the glosses of Blust's supporting data. Species of Burckella and Palaquium and perhaps other genera seem to have been included in a single taxon throughout Oceanic history (see the discussion associated with PCP &ast;bau 'hardwood taxon' in ch.7, §4.10).
 
-Figure 11.8 Burckella obovata: A, tree; B, flowering shoot; C, shoot bearing fruit; D, old seed.
+Figure 11.8: Burckella obovata: A, tree; B, flowering shoot; C, shoot bearing fruit; D, old seed.
 
 <table>
 <tr>
@@ -3558,7 +3558,7 @@ The POc term for P. pinnata was _&ast;tawan_, reflected in all major Oceanic sub
 
 <a id="p-344"></a>
 
-Figure 11.9 Left Pometia pinnata, island lychee: A, young tree; B, shoot and edible fruit; C, inflorescence. Right Spondias cytherea, golden apple: D, young tree; E, shoot with leaves, leaflets and a cluster of edible fruit.
+Figure 11.9: Left Pometia pinnata, island lychee: A, young tree; B, shoot and edible fruit; C, inflorescence. Right Spondias cytherea, golden apple: D, young tree; E, shoot with leaves, leaflets and a cluster of edible fruit.
 
 
 <a id="s-3-6"></a>
@@ -3935,7 +3935,7 @@ __formgroup__ NCV:    Mwotlap       na-mal-mali (ey) NCV:    Paamese       e-imo
 
 Many Syzygium species which occur in the Pacific have edible fruit. The most important is S. malaccense, which is distributed from SE Asia to Polynesia, but [Peekel](../references.md#source-Peekel1984) ([1984](../references.md#source-Peekel1984): 408-415) and [Walter & Sam](../references.md#source-WalterandSam2002) ([2002](../references.md#source-WalterandSam2002): 251-252) list numerous species which occur in NW Island Melanesia.
 
-Figure 11.10 Syzygium malaccense: A, tree; B, shoot; C, branch with opened and unopened flowers; D, edible fruit.
+Figure 11.10: Syzygium malaccense: A, tree; B, shoot; C, branch with opened and unopened flowers; D, edible fruit.
 
 S. malaccense is an erect tree of medium height, 5-25 m tall, with spectacular white or pink flowers that look like small powder puffs and ellipsoid two-seeded fruit 4--9cm long that are white, pink or red when they are mature. The fruit approach a European apple in texture, but are often more watery in flavour. They are widely and, to quote Sorensen, 'avidly' consumed throughout the Pacific ([Sorensen 1950](../references.md#source-Sorensen1950), [Peekel 1984](../references.md#source-Peekel1984): 408, [Walter & Sam 2002](../references.md#source-WalterandSam2002): 250, [Bourke in preparation](../references.md#source-Bourkeinpreparation)). They are eaten fresh, soon after picking. S. malaccense is found around villages and in coconut groves, in gardens and old fallows, and in open forests, although it is not clear whether it is indigenous to Melanesia or whether cultivated varieties have simply propagated themselves into the wild. Transplantation of better forms to village and garden areas is widespread (Paijmans 1976: 123-124, [Walter & Sam 2002](../references.md#source-WalterandSam2002): 250). The wood is used for buildings in Vanuatu and Fiji, and for canoes in Vanuatu. Juice extracted from the leaves is used for abdominal pains, sore throats, toothache and generally for pain and fever ([Henderson & Hancock 1988](../references.md#source-HendersonandHancock1988): 43-44, [Walter & Sam 2002](../references.md#source-WalterandSam2002): 250).
 
@@ -4422,7 +4422,7 @@ Parartocarpus venenosa is a large lowland forest tree growing to about 35m, with
 
 <a id="p-352"></a>
 
-Figure 11.11 Left Parartocarpus venenosa: A, young tree; B, branch bearing shoot, male flower and edible fruit; C, seed. Right Finschia chloroxantha: D, tree with stilt roots; E, flowering shoot; F, fruit cluster.
+Figure 11.11: Left Parartocarpus venenosa: A, young tree; B, branch bearing shoot, male flower and edible fruit; C, seed. Right Finschia chloroxantha: D, tree with stilt roots; E, flowering shoot; F, fruit cluster.
 
 Although reflexes of PWOc _&ast;lapuka_ mean 'breadfruit' in some languages, the fact that there were at least two other POc terms for breadfruit (ch.9, §4) suggests that the reflexes glossed 'Parartocarpus venenosa' retain the POc denotation. Kwara'ae _rakʷa-na_ is irregular, with initial _r-_ for expected †_l-_ and suffixed _-na_ (medial _-kʷ-_ is a regular reflex of _&ast;-pʷ-_). Araki levu is irregular with _-e-_ for †_-a-_.
 

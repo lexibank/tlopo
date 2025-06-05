@@ -33,7 +33,7 @@ Trees of the genus Ficus (§4) are included here because leaves of some freestan
 ### 2.1. Abelmoschus manihot (syn. Hibiscus manihot), slippety cabbage, bush cabbage, island cabbage, TP aibika, P slipari kabis, Bkabis aelan (Malvaceae)
 
 
-Figure 10.1 Abelmoschus manihot: A, plant (height 1.5 m); B, stem with leaf (edible) and flower bud; C, flower; D, varieties displayed to show the diversity in leaf shape.
+Figure 10.1: Abelmoschus manihot: A, plant (height 1.5 m); B, stem with leaf (edible) and flower bud; C, flower; D, varieties displayed to show the diversity in leaf shape.
 
 Abelmoschus manihot is a low, many-branched tree-like shrub, seemingly present in every garden throughout the Bismarck Archipelago and the Solomons (Figure 10.1). [Barrau](../references.md#source-Barrau1955) ([1955](../references.md#source-Barrau1955): 77) calls it 'truly the traditional vegetable of the whole of Melanesia'. Cuttings are planted in mixed crop gardens and are also harvested from young regrowth in abandoned gardens. There are many varieties, the young shoots and leaves of which have a high protein-to-calorie ratio and are cooked in stone ovens, boiled or steamed in bamboo containers or roasted in bark (Paijmans 1976: 124, [Hviding 2005](../references.md#source-Hviding2005): 131).
 
@@ -336,7 +336,7 @@ Amaranthus tricolor is described by [Peekel](../references.md#source-Peekel1984)
 
 A number of Amaranthus species are grown in New Guinea and the Bismarcks today, but probably only A. tricolor, an ancient introduction from SE Asia, was present traditionally.[^1] Others, mostly Central and South American domesticates, have been introduced by Europeans since 1870 ([Bourke forthcoming](../references.md#source-Bourkeforthcoming), [Bourke & Allen forthcoming](../references.md#source-BourkeandAllenforthcoming)).
 
-Figure 10.2 Aramanthus tricolor, Chinese spinach
+Figure 10.2: Aramanthus tricolor, Chinese spinach
 
 A. tricolor is grown from seed in mixed gardens and gathered whole after 1-2 months growth. Some plants are left to go to seed, and the seeds stored for planting. The spinach-like leaves are, like Abelmoschus manihot, cooked in stone ovens, boiled or steamed in bamboo containers or roasted in bark (Paijmans 1976: 124-125).
 
@@ -386,7 +386,7 @@ The only reconstruction is at the level of PNCV:
 
 Gnetum gnemon is a small tree found in lowland forests in the Bismarcks, the Solomons, Vanuatu and Fiji, growing to between 8 and 15 m in height. Leaf stalks grow directly from the branch in pairs: hence its Tok Pisin name, _tulip_ 'two-leaf' (Figure 10.3). The young leaves and shoots are widely cooked and eaten as a vegetable. It has red or orange fruit, the seeds and mesocarp of which are roasted and eaten in some areas (Paijmans 1976: 124, [Evans 1999](../references.md#source-Evans1999): 19-21, [Hviding 2005](../references.md#source-Hviding2005): 139): Evans singles out the islands of the Temotu Province of the Solomons for special mention. In the wild it grows along rivers and streams, but not near the beach, as it appears to dislike salt spray ([Manner & Elevitch 2006a](../references.md#source-MannerandElevitch2006a)). [Peekel](../references.md#source-Peekel1984) ([1984](../references.md#source-Peekel1984): 37) describes it as a 'cultivated tree' and [Kennedy & Clarke](../references.md#source-KennedyandClarke2004) ([2004](../references.md#source-KennedyandClarke2004)) mention it in their list of species that are subject to arboriculture.
 
-Figure 10.3 Gnetum gnemon: A, tree; B, fruiting branch with edible young leaves and fruit; C, mature edible fruit; D, flowering branch with edible flower.
+Figure 10.3: Gnetum gnemon: A, tree; B, fruiting branch with edible young leaves and fruit; C, mature edible fruit; D, flowering branch with edible flower.
 
 On New Britain and Manus and in the Siassi Islands the bark fibre of G. gnemon is reported as being used to make ropes and string ([Floyd 1954](../references.md#source-Floyd1954), [O'Collins & Lamothe 1989](../references.md#source-OCollinsandLamothe1989), [Bugenhagen & Bugenhagen 2007](../references.md#source-BugenhagenandBugenhagen2007)). On Manus the bark is also used as a wrapping material.
 
@@ -433,7 +433,7 @@ Misima _kusai_ provides evidence for the final _&ast;-q_ of POc _&ast;kusaq_. Mi
 
 Polyscias species are erect thin shrubs between one and 5 m in height found at least as far east as Fiji. They grow wild in shady environments and have green foliage which is eaten as a green vegetable in New Guinea, the Bismarcks, the Solomons and Vanuatu. In NW Island Melanesia they are often planted (from cuttings) as hedges, but when they are cultivated in sunlight, their appearance changes, as the foliage turns pale green or yellow and cultivated shrubs are often pruned to obtain a thick bushy form. [French](../references.md#source-French1986) ([1986](../references.md#source-French1986): 74) names five species growing in Papua New Guinea, namely P. cumingiana, P. scutellaria, P.fruticosa, P. macgillivrayi and P. verticillata, and [Henderson & Hancock](../references.md#source-HendersonandHancock1988) ([1988](../references.md#source-HendersonandHancock1988): 111-112) list all except the first for the Solomons (Figure 10.4). They comment that the greens have 'a pleasant mild "curry" taste'.
 
-Figure 10.4 Polyscias species: A, P. scutellaria, young shoot with small portion of inflorescence; B, terminal portion of inflorescence; C, P. verticillata: flowering shoot and leaf; D, P. fruticosa: leaflet; E and F, leaflets of two other Polyscias species.
+Figure 10.4: Polyscias species: A, P. scutellaria, young shoot with small portion of inflorescence; B, terminal portion of inflorescence; C, P. verticillata: flowering shoot and leaf; D, P. fruticosa: leaflet; E and F, leaflets of two other Polyscias species.
 
 
 <a id="p-299"></a>
@@ -697,7 +697,7 @@ Saccharum edule is a tall grass related to sugarcane (Saccharum officinarum). [H
 
 S. edule was apparently domesticated long ago, and its several varieties are propagated only by cultivation ([Barrau 1962](../references.md#source-Barrau1962): 157-158). It is grown from cuttings consisting of three or four nodes of the cane, i.e. 30--40 em long, and usually grows in clumps up to two or three metres in height. In Papua New Guinea it is cultivated in gardens up to an altitude of 1800 m. It is also grown in the Solomons, Vanuatu and Fiji.
 
-Figure 10.5 Saccharum edule: A, stand of plants; B, swollen tips ready for market (ca 50cm long); C, stem with suckers; D, semi-mature edible inflorescence.
+Figure 10.5: Saccharum edule: A, stand of plants; B, swollen tips ready for market (ca 50cm long); C, stem with suckers; D, semi-mature edible inflorescence.
 
 It is possible that Far East Manggarai, Kepo, Waerana, Razong, Rembong (all CMP) _tebor_ 'Saccharum sp.' ([Verheijen 1990](../references.md#source-Verheijen1990): 240) are cognate with the items below. If it is, then PCEMP _&ast;tabuqaR_ is reconstructable and the reconstruction below is elevated to POc.
 
@@ -1316,7 +1316,7 @@ cf. also:
 
 <a id="p-306"></a>
 
-Figure 10.6 Left Ficus copiosa: A, tree; B, shoot with leaves; C, leaf; D, figs on trunk. Right Ficus wassa: A, tree; B, shoot showing leaf arrangement and figs on stem; C, young shoot with edible leaves; D, fruit on lower branch.
+Figure 10.6: Left Ficus copiosa: A, tree; B, shoot with leaves; C, leaf; D, figs on trunk. Right Ficus wassa: A, tree; B, shoot showing leaf arrangement and figs on stem; C, young shoot with edible leaves; D, fruit on lower branch.
 
 
 <a id="s-4-2"></a>

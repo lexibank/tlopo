@@ -28,6 +28,10 @@ def md_string(s):
 FILTERS['markdown'] = md_string
 
 
+def register(parser):
+    parser.add_argument('--chapter', default=None)
+
+
 def run(args):
     ds = Dataset()
     out = ds.dir / 'out'
@@ -95,16 +99,23 @@ order by g.cldf_formReference
 """
         return {fid: list(iter_glosses(rows)) for fid, rows in itertools.groupby(db.query(q, (rid,)), lambda r: r[0])}
 
-    def pandoc(input):
+    def pandoc(input, md):
         subprocess.check_call(shlex.split(
-            'pandoc -s -f markdown -t html5 -c ../../pandoc_book.css {} -o {}/{}.html'.format(
-                input, input.parent, input.stem)))
+            'pandoc --metadata title="{}" -s -f markdown -t html5 -c ../../pandoc_book.css {} -o {}/{}.html'.format(
+                md['title'], input, input.parent, input.stem)))
 
     out.joinpath('references.md').write_text(render(
         '# References\n\n[](Source?with_anchor&with_link#cldf:__all__)', cldf), encoding='utf-8')
-    pandoc(out.joinpath('references.md'))
+    pandoc(out.joinpath('references.md'), dict(title='References'))
+
+    v, c = None, None
+    if args.chapter:
+        v, _, c = args.chapter.partition('-')
 
     for vol in "1234":
+        if v and vol != v:
+            continue
+        md = ds.raw_dir.joinpath('vol{}'.format(vol)).read_json('md.json')
         vout = out / 'vol{}'.format(vol)
         if not vout.exists():
             vout.mkdir()
@@ -113,6 +124,14 @@ order by g.cldf_formReference
                 if p.is_file():
                     p.unlink()
         for chapter in tqdm(ds.cldf_dir.joinpath('vol{}'.format(vol)).glob('chapter*.md')):
+            cnum = chapter.stem.replace('chapter', '')
+            if c and cnum != c:
+                continue
+            for cmd in md['chapters']:
+                if cmd['number'] == cnum:
+                    break
+            else:
+                raise ValueError((vol, cnum))
             res = render(
                 chapter,
                 cldf,
@@ -123,4 +142,4 @@ order by g.cldf_formReference
                     glosses_by_formid=glosses_by_formid),
             )
             vout.joinpath(chapter.name).write_text(render(res, ds.cldf_reader()), encoding='utf-8')
-            pandoc(vout.joinpath(chapter.name))
+            pandoc(vout.joinpath(chapter.name), cmd)

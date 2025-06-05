@@ -362,7 +362,7 @@ No reconstruction can be made for another beach creeper, Canavalia rosea (syn. C
 
 <a id="p-133"></a>
 
-Figure 5.1 Left Ipomoea pes-caprae, morning glory. Right Wedelia biflora.
+Figure 5.1: Left Ipomoea pes-caprae, morning glory. Right Wedelia biflora.
 
 
 <a id="s-3-2"></a>
@@ -607,7 +607,7 @@ POc _&ast;kanawa(n)_, _&ast;toRu_ and _&ast;jasi_ and PWOc _&ast;nagi_ are all r
 
 <a id="p-135"></a>
 
-Figure 5.2 Left Cordia subcordata, kerosene wood: A, tree; B, small branch with flowers and leaves; C, fruit cluster Right Hibiscus tiliaceus, cotton wood: D, leaf; E, shoot with flower; F, matured over-ripe fruit cluster.
+Figure 5.2: Left Cordia subcordata, kerosene wood: A, tree; B, small branch with flowers and leaves; C, fruit cluster Right Hibiscus tiliaceus, cotton wood: D, leaf; E, shoot with flower; F, matured over-ripe fruit cluster.
 
 <table>
 <tr>
@@ -2011,7 +2011,7 @@ Tournefortia argentea is a small heliotropic beach tree 5-8 m tall with silvery 
 
 No term for 'Tournefortia argentea' is reconstructed at a higher-order level than PPn _&ast;tau-sinu_ or PMic _&ast;cen_. There is no obvious reason for this, as it is a common tree in the Bismarcks. However, the data offer tiny hints that in POc T. argentea formed a taxon with Scaevola taccada (§4.1.5), i.e. POc _&ast;na[su]-nasu_ 'Scaevola taccada' also denoted T. argentea, perhaps with a modifier added to distinguish between the two species. Thus the Patpatar (New Ireland) term for T. argentea is _i-nas-nas_, reflecting POc _&ast;nasu-nasu_, whilst the term for S. taccada is _i-nas-nas-madil-madil_. Conversely E Uvean _tauhunu_ 'S. taccada' reflects PPn _&ast;tau-suni_ 'T. argentea'. Will McClatchey (pers. comm.) tells me that a taxon consisting of T. argentea and S. taccada makes sense for two reasons: 'First, the plants live in the same environment and have the same suite of adaptations for survival. Second, in my experience working with healers and fisherpersons, they use the two for very similar purposes.'
 
-Figure 5.5 Tournefortia argentea.
+Figure 5.5: Tournefortia argentea.
 
 
 <a id="p-145"></a>
@@ -2189,7 +2189,7 @@ The PMic form _&ast;cen_ 'Tournefortia argentea' looks at first sight as if it a
 
 Vitex trifolia is an erect shrub or small tree: 1-5 m tall which grows on the beach and on muddy stream banks. In the older botanical literature it is sometimes confused with V. rotundifolia, a low-lying shrub less that a metre in height, growing inland on poor sandy soils (W. McClatchey, pers. comm.), and the two evidently form a taxon in Wayan Fijian: _drala ni mataðawa_ 'beach drala' but _drala kaka_ 'wild drala'.
 
-Figure 5.6 Vitex trifolia.
+Figure 5.6: Vitex trifolia.
 
 V. trifolia has sprays of blue-purple flowers and fruit. All parts of the plant are aromatic. On New Ireland the crushed leaves are used against headache. On Waya juice from the leaves is used as a healing agent for wounds ([Peekel 1984](../references.md#source-Peekel1984):481, [Gardner & Pawley 2006](../references.md#source-GardnerandPawley2006)).
 
@@ -2314,7 +2314,7 @@ Flagellaria indica is a climbing cane-like vine whose stem, 1-1.5cm thick, grows
 
 The long strong woody stem remains pliable and serves the functions of a rope. The stems are prepared for use as cordage by splitting them and drying them in the sun. They serve as a binding and plaiting material, especially to sew sago matting ([Sorensen 1950](../references.md#source-Sorensen1950), [Peekel 1984](../references.md#source-Peekel1984): 76). They are also used as anchor cables and as rope: for bindings in canoe- and house construction and in roofing ([Floyd 1954](../references.md#source-Floyd1954), S. [Foale 2001](../references.md#source-Foale2001), [Thieberger 2006b](../references.md#source-Thieberger2006b)). In various parts of the Solomons lengths of whole F. indica complete with their long leaves are joined together to make scarelines (Marovo _arara_, a reduplicated form of _ara_ 'F. indica' ). These are laid out to encircle fish on reef flats or in the lagoon and scare them into traps or into an area of shallow water with a limited exit ([Henderson & Hancock 1988](../references.md#source-HendersonandHancock1988):216, [Hviding 2005](../references.md#source-Hviding2005): 101). On Lihir a potion made from F. indica is said to impart the ability to fight well (S. [Foale 2001](../references.md#source-Foale2001)).
 
-Figure 5.7 Flagellaria indica: A, climbing plant; B, leaf with tendrils; C; shoot with fruit; D, flowers .
+Figure 5.7: Flagellaria indica: A, climbing plant; B, leaf with tendrils; C; shoot with fruit; D, flowers .
 
 POc _&ast;waR[e]_ 'Flagellaria indica' reflects PMP _&ast;huaR_ 'Flagellaria indica' (ACD). The expected POc descendant of this form is _&ast;waR_, and this is reflected by Nduke _[a]r-ara_ (reduplicated) and Kokota _n-ara_.[^14] POc was seemingly resistant to monosyllabic content words, and Mussau, Seimat and Kwara'ae reflect a form with a final vowel, which shows up as _&ast;-e_ in Mussau and Kwara'ae.
 
@@ -2561,7 +2561,7 @@ B. asiatica is a large beach tree, 10--20 m high, which is able to grow with its
 
 Two terms are reconstructable, POc _&ast;putun_, which is reflected all over Oceania except in parts of Vanuatu, where it is replaced by PNCV _&ast;vuabu_,[^17] and in the Chuukic languages of Micronesia, where it is replaced by a reflex of POc _&ast;kuluR_ 'breadfruit, Artocarpus altilis' (Ch.9, §4).
 
-Figure 5.8 Barringtonia asiatica.
+Figure 5.8: Barringtonia asiatica.
 
 <table>
 <tr>
@@ -2928,7 +2928,7 @@ Other species of Calophyllum grow inland, hence straight, and provide even bette
 
 There are a number of reconstructions with Calophyllum species as denotata. The most widely reflected is POc _&ast;pitaquR_, inherited from PMP, and it is reasonably clear that it denoted 'Calophyllum inophyllum'. The only evidence we have for the POc retention of PMP _&ast;-R_ is found in the reflexes in New Georgia languages: Nduke _vizolo_, Roviana _vi-vizolo_ and Marovo _vi-vijolo_. However, the expected form in these languages is †_vita(ɣ)uru_, and the actual forms must be outcomes of borrowing. The languages of the western Solomons have complex and ill understood borrowing histories ([Ross forthcoming](../references.md#source-Rossforthcoming)) .
 
-Figure 5.9 Calophyllum inophyllum: A, mature tree; B, flowering shoot; C, fruit cluster.
+Figure 5.9: Calophyllum inophyllum: A, mature tree; B, flowering shoot; C, fruit cluster.
 
 
 <a id="p-153"></a>
@@ -3564,7 +3564,7 @@ The reconstruction below depends on the inference that Muyuw _apul_ is cognate w
 
 Casuarina equisetifolia is a large coastal tree with an oddly feathery appearance caused by its needle-like leaves. Typically it grows to 20m, but Frederick Damon (pers.comm.) reports specimens on Woodlark Island of 40-45 m, towering above the rest of the forest. It yields heavy hard dark red-brown wood. The casuarina is used for building throughout most of NW Island Melanesia. In Kwara'ae country, clubs and axe handles are also made from it ([Floyd 1954](../references.md#source-Floyd1954), [Peekel 1984](../references.md#source-Peekel1984): 123, [Kwa'ioloa & Burt 2001](../references.md#source-KwaioloaandBurt2001): 143, [Whistler & Elevitch 2006b](../references.md#source-WhistlerandElevitch2006b)) .
 
-Figure 5.10 Casuarina equisetifolia.
+Figure 5.10: Casuarina equisetifolia.
 
 The POc term for the casuarina was _&ast;aRu_, but a compound form can also be reconstructed, namely POc _&ast;aRu-taŋis_, consisting of _&ast;aRu_ plus _&ast;taŋis_ 'weep' - perhaps a metaphorical reference to the feathery and sometimes hanging foliage of the casuarina. However, I have no independent evidence of Oceanic speakers who make this connection.
 
@@ -3940,7 +3940,7 @@ E. variegata is typically found in sandy soil in littoral forest, but it is also
 
 <a id="p-159"></a>
 
-Figure 5.11     Left Erythrina variegata, Indian coral tree. Right Fagraea berteroana.
+Figure 5.11: Left Erythrina variegata, Indian coral tree. Right Fagraea berteroana.
 
 Among the Nakanai E. variegata saplings are used to make pig spears and the leaves to dress wounds. It is widely used to make living fences ([Floyd 1954](../references.md#source-Floyd1954), [Arentz et al. 1989](../references.md#source-Arentzetal1989)). Boiled in coconut milk the leaves make an excellent vegetable. [Sorensen](../references.md#source-Sorensen1950) ([1950](../references.md#source-Sorensen1950)) writes that they are eaten by immigrants to Ninigo but not by its natives.
 
@@ -4594,7 +4594,7 @@ Flueggea flexuosa is a medium-sized tree of 10--15 m which grows on coral in coa
 
 It provides moderately heavy hard straight wood which is slow to rot in contact with dry soil. It is considered to be among the best building timbers in the Solomons and so is used for posts and for house construction by the Nduke, as well as for pig fences. It is best for largescale construction, since it cracks as it dries, and for this reason is not used for carving ([Kwa'ioloa & Burt 2001](../references.md#source-KwaioloaandBurt2001): 107, [Hviding 2005](../references.md#source-Hviding2005): 129, [Scales n.d.](../references.md#source-Scalesnd)). At Marovo scrapings of the bark are an ingredient in many medicines.
 
-Figure 5.12 Flueggea flexuosa: tree and fruit-bearing shoot.
+Figure 5.12: Flueggea flexuosa: tree and fruit-bearing shoot.
 
 Although the Madak reflex refers to Falcataria moluccana, a tree vastly different in size (at 60 m the tallest in the forest), [Kwa'ioloa & Burt](../references.md#source-KwaioloaandBurt2001) ([2001](../references.md#source-KwaioloaandBurt2001): 107) perceive its leaves to be similar to the leaves of F. flexuosa.
 
@@ -4701,7 +4701,7 @@ Guettarda speciosa is a hardwood tree with a short bole that grows to a height o
 
 This tree has a number of uses: in the small islands of the Calvados chain (off the southeastern tip of the New Guinea mainland) it is used in house construction ([Kinch 1999](../references.md#source-Kinch1999)). At Marovo it is used for firewood and for making barkcloth mallets ([Hviding 2005](../references.md#source-Hviding2005): 151).
 
-Figure 5.13 Guettarda speciosa .
+Figure 5.13: Guettarda speciosa .
 
 G. speciosa is sometimes labelled with the same term as the epiphyte Fagraea berteroana, apparently because both are sweet-smelling (§5.6), but the POc term for G. speciosa was _&ast;pʷano_ or _&ast;pʷano-pʷano_.
 
@@ -5314,7 +5314,7 @@ Two forms denoting Pisonia species are reconstructable. POc _&ast;[a]nuliŋ_ may
 
 <a id="p-169"></a>
 
-Figure 5.14 Left Pisonia grandis: A, tree; B, shoot; C, flowering shoot with small leaves. Right Premna corymbosa: A, tree; B, flowering shoot with leaves .
+Figure 5.14: Left Pisonia grandis: A, tree; B, shoot; C, flowering shoot with small leaves. Right Premna corymbosa: A, tree; B, flowering shoot with leaves .
 
 
 <a id="p-170"></a>
@@ -5327,7 +5327,7 @@ Figure 5.14 Left Pisonia grandis: A, tree; B, shoot; C, flowering shoot with sma
 
 Pongamia pinnata is a beach tree, 5-10 m tall, with white flowers ([Peekel 1984](../references.md#source-Peekel1984): 241). Its crushed roots are sometimes used as fish poison, which explains why the Marovo call it _tuva_ (reflecting POc _&ast;tupa_ 'Derris sp. '), as Derris is the commonest fish poison in NW Island Melanesia. The Nakanai also used the crushed leaves for medicinal purposes ([Floyd 1954](../references.md#source-Floyd1954), [Hviding 2005](../references.md#source-Hviding2005): 188-149).
 
-Figure 5.15 Pongamia pinnata.
+Figure 5.15: Pongamia pinnata.
 
 The only POc candidate for a name for P. pinnata is _&ast;pesi_. It is clear from the glosses below that it denoted a coastal forest tree (or a taxon of such trees). On the evidence of Wayan Fijian, its PCP reflex denoted a taxon of coastal forest trees, including Pongamia pinnata and Intsia bijuga (and in Polynesian languages its denotation is limited to the latter). With only one cognate (Teop) outside Central Pacific, it is difficult to know whether the denotatum of _&ast;pesi_ was P. pinnata alone, or a taxon as in Wayan.
 

@@ -165,7 +165,7 @@ A PMP form for 'A. scholaris', namely _&ast;ditah_, is reconstructable (ACD), bu
 ### 3.2. Falcataria moluccana (syn. Albizia falcataria, A. moluccana, A. falcata, Paraserianthes falcataria) (Mimosaceae)
 
 
-Figure 7.1 Falcataria moluccana.
+Figure 7.1: Falcataria moluccana.
 
 F. moluccana was until recently known as Albizia falcataria. Because there are items in the data glossed 'Albizia sp.' which may in fact denote F. moluccana, the genera Falcataria and Albizia are handled together here.
 
@@ -303,7 +303,7 @@ Octomeles sumatrana is one of the tallest trees in the Bismarck Archipelago and 
 
 The reconstruction below is for PWOc only, but this is not surprising in view of the limited distribution. Two versions of the reconstruction are supported, _&ast;kuRim(a,o)_ and _&ast;iRim(a,o)_. They overlap geographically, and their initial syllables may simply reflect different prefixes (ch.2, §7.1.2).
 
-Figure 7.2    Octomeles sumatrana.
+Figure 7.2: Octomeles sumatrana.
 
 
 <a id="p-190"></a>
@@ -941,7 +941,7 @@ Two terms are reconstructable: POc _&ast;raqu(p)_ and PNCV _&ast;katabola_. The 
 ### 4.5. Dysoxylum spp., stinktree, stinkwood, Bstingwud (Meliaceae)
 
 
-Figure 7.4   Dysoxylum arborescens.
+Figure 7.4: Dysoxylum arborescens.
 
 A number of Dysoxylum species grow in NW Island Melanesia, ranging from the tall canopy tree D. gaudichaudianum (syn. D. amooriodes) sometimes growing to 35 m, to the sub-canopy tree D. kaniense. An important tree between these extremes is D. arborescens, also a canopy tree, but usually only 20--30 m high ([Wheatley 1992](../references.md#source-Wheatley1992): 157-160, [Kwa'ioloa & Burt2001](../references.md#source-KwaioloaandBurt2001): 181, [Conn & Damas 2006](../references.md#source-ConnandDamas2006)).
 
@@ -1161,7 +1161,7 @@ Within island Melanesia E. medullosum (Figure 7.5, left) is present in the Bisma
 
 <a id="p-198"></a>
 
-Figure 7.5 Left Endospermum medullosum, cheesewood,: A, tree; B, leaves and flowers; C, fruit. Right Pterocarpus indicus, New Guinea rosewood: A, tree; B, portion ofleafwith leaflets; C, shoot with pods.
+Figure 7.5: Left Endospermum medullosum, cheesewood,: A, tree; B, leaves and flowers; C, fruit. Right Pterocarpus indicus, New Guinea rosewood: A, tree; B, portion ofleafwith leaflets; C, shoot with pods.
 
 A somewhat smaller but similar member of the genus is E. moluccanum (syn. E. formicarum),[^14] sometimes a canopy tree up to 25m high, sometimes a sub-canopy tree ([Conn & Damas 2006](../references.md#source-ConnandDamas2006)).
 
@@ -1693,7 +1693,7 @@ The inherited meaning of POc _&ast;qipil_ was apparently 'Intsia bijuga', but th
 
 <a id="p-202"></a>
 
-Figure 7.6 Left Intsia bijuga, ironwood: A: young tree; B, leaves and flowers; C, seed pod. Right Vitex cofassus, New Guinea teak: A, tree; B, flowering stem with leaves and portion of terminal inflorescence; C, portion of fruiting inflorescence and stem.
+Figure 7.6: Left Intsia bijuga, ironwood: A: young tree; B, leaves and flowers; C, seed pod. Right Vitex cofassus, New Guinea teak: A, tree; B, flowering stem with leaves and portion of terminal inflorescence; C, portion of fruiting inflorescence and stem.
 
 <table>
 <tr>
@@ -2287,7 +2287,7 @@ The PEOc term _&ast;koka_ is reconstructable. The lack of a POc term may simply 
 
 <a id="p-208"></a>
 
-Figure 7.7 Left Bischofia javanica, Java cedar: A, tree; B compound leaf; C, branch bearing cluster of fruit. Right Cananga odorata, ylang-ylang: A,      B, leaves; C, flowering shoot; D, fruit cluster.
+Figure 7.7: Left Bischofia javanica, Java cedar: A, tree; B compound leaf; C, branch bearing cluster of fruit. Right Cananga odorata, ylang-ylang: A,      B, leaves; C, flowering shoot; D, fruit cluster.
 
 <table>
 <tr>
@@ -2526,7 +2526,7 @@ The sources of the data supporting POc _&ast;nipus_ 'Cryptocarya sp.', [O'Collin
 
 Damon (In preparation) mentions that the nuts have a rich cinnamon-like smell and are important for medicinal purposes on Woodlark Island. Curiously, Muyuw people do not know the tree, as it grows away from areas they frequent, but they know its nuts because birds swallow them whole, then excrete them in their nests, complete with the endocarp, whence they are collected.
 
-Figure 7.8     Cryptocarya aromatica.
+Figure 7.8: Cryptocarya aromatica.
 
 <table>
 <tr>
@@ -2850,7 +2850,7 @@ There is remarkable agreement across sources about its uses, which do not vary m
 
 Fewer sources mention medicinal uses: the Bola of New Britain use an infusion of the bark, and the leaves are used medicinally in Vanuatu ([Powell 1976](../references.md#source-Powell1976), [Wheatley 1992](../references.md#source-Wheatley1992): 225).
 
-Figure 7.9 Kleinhovia hospita: A, tree; B, shoot with a mature and an old inflorescence; C, leaf.
+Figure 7.9: Kleinhovia hospita: A, tree; B, shoot with a mature and an old inflorescence; C, leaf.
 
 Most of the terms below are from NCV languages, and they present a minor puzzle. [Lynch](../references.md#source-Lynch2004a) ([2004a](../references.md#source-Lynch2004a)) divides them into two groups and makes two resemblant but seemingly irreconcilable PNCV reconstructions, _&ast;ma(t,d)aka_ (Banks, Malakula, Epi) and _&ast;matala_ (Banks, Santo, Malakula, Paama, Efate). There are also MM and SES reflexes, however, and here the terms reflect POc _&ast;ma(i)tagaR(a)_. Lynch's PNCV _&ast;ma(t,d)aka_, modified here to _&ast;ma(t,d)aga_, reflects this unproblematically. This leaves Lynch's PNCV _&ast;matala_, which I take to reflect an early borrowing from a language which had lost _&ast;-k-_ but retained _&ast;-R-_ as _-l-_ (the SES languages of Malaita reflect this pattern of reflexes, but there is no good reason to suppose that a language descended from the borrowing source still exists).
 
@@ -3376,7 +3376,7 @@ Reconstructing the POc term for the putty nut is a little tricky, as [Chowning](
 
 <a id="p-218"></a>
 
-Figure 7.10 Left Parinari glaberrima: A, tree; B, shoot bearing one mature and one old inflores- cence; C and D, nut. Right Caryota rumphiana: A, tree; B, leaflet; C, portion of inflorescence; D, fruiting inflorescence; E, fruit; F, larvae of Rhynocaphorus beetle in a rotting trunk.
+Figure 7.10: Left Parinari glaberrima: A, tree; B, shoot bearing one mature and one old inflores- cence; C and D, nut. Right Caryota rumphiana: A, tree; B, leaflet; C, portion of inflorescence; D, fruiting inflorescence; E, fruit; F, larvae of Rhynocaphorus beetle in a rotting trunk.
 
 POc _&ast;qatita_. Of the Western Oceanic forms, Wogeo _kətita_ and Kara _katita_ reflect _&ast;katita_, whilst the rest may reflect either _&ast;katita_ or _&ast;qatita_. On the simplest interpretation of the data I reconstruct PWOc _&ast;katita_. The Eastern Oceanic forms, on the other hand, reflect _&ast;qatita_. POc _&ast;(q,k)atita_ below reflects this ambiguity.
 
@@ -4900,7 +4900,7 @@ Dendrocnide species are much better described in the literature than Laportea sp
 
 <a id="p-231"></a>
 
-Figure 7.11 Left Hornstedtia lycostoma: A, plant, about 3 m high, with suckers and inflorescences; B, inflorescences; C, longitudinal section oflarge fruit. Right Calamus hollrungii, rattan: A, leaf base and spikes; B, inflorescence; C, fruit; D, portion of leaf tip with barbs.
+Figure 7.11: Left Hornstedtia lycostoma: A, plant, about 3 m high, with suckers and inflorescences; B, inflorescences; C, longitudinal section oflarge fruit. Right Calamus hollrungii, rattan: A, leaf base and spikes; B, inflorescence; C, fruit; D, portion of leaf tip with barbs.
 
 Apparently none of the trees is used for timber, but Ann Chowning (pers. comm.) reports that on New Britain Nakanai and Meramera speakers dry Laportea bark over a fire and use it for roofs and walls. [Wheatley](../references.md#source-Wheatley1992) ([1992](../references.md#source-Wheatley1992): 240) comments that D. moroides (syn. L. moroides), a canopy tree of 25 m found in central Vanuatu, is considered useless because the wood is very soft and rots quickly. The leaves and bark of a number of species have medicinal uses. The leaves of a Dendrocnide species were used medicinally on Manam Island. They were boiled in water or with grated coconut to cure constipation or general seediness ([Wedgwood 1934](../references.md#source-Wedgwood1934): 286--287). [Peekel](../references.md#source-Peekel1984) ([1984](../references.md#source-Peekel1984): 151) notes that the finely chopped leaves of D. longifolia (a shrub or small tree, 3-5m high) were mixed in to dogs' food to make them hunt more keenly. D. latifolia was used in much the same way on Mwotlap, except that here the recipients were warriors: they were given a soup made from the leaves to render them quicker tempered and stronger in battle ([Wheatley 1992](../references.md#source-Wheatley1992): 238).
 

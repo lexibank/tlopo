@@ -1973,7 +1973,7 @@ A number of Oceanic languages use a word for fowl which is most commonly the gen
 
 <a id="p-284"></a>
 
-Figure 6.1   Gallus gallus, Red Jungle Fowl
+Figure 6.1:Gallus gallus, Red Jungle Fowl
 
 <table>
 <tr>
@@ -5862,7 +5862,7 @@ The numerous rails of Oceania include the very widespread Purple Swamphen (Porph
 
 <a id="p-308"></a>
 
-Figure 6.10   Rallus philippensis, Buff-banded Rail
+Figure 6.10:Rallus philippensis, Buff-banded Rail
 
 Another possible POc reconstruction for the same bird is the following:
 
@@ -12405,7 +12405,7 @@ These SV words are possible cognates:
 
 <a id="p-346"></a>
 
-Figure 6.18     _Philemon buceroides_, Helmeted Friarbird
+Figure 6.18:_Philemon buceroides_, Helmeted Friarbird
 
 The following two items are the only possible Southeast Solomonic cognate found, and a possible Rennellese borrowing from a SE Solomonic language:
 

@@ -299,7 +299,7 @@ C. bartramia grows fast and, if the light allows it, straight, and is thus a val
 
 The POc term for C. bartramia was _&ast;jamaR_. The Mwotlap, Mota and Vera'a reflexes include a reflex of the prefix _&ast;mala-_ 'like'. One would thus expect them to denote a plant that resembled C. bertramia, but they apparently denote C. bertramia itself (ch.2, §7.1.4).
 
-Figure 8.1 Commersonia bartramia: A, tree; B, leaf: C, stem bearing leaves and flowering shoot; D, ageing mature fruit.
+Figure 8.1: Commersonia bartramia: A, tree; B, leaf: C, stem bearing leaves and flowering shoot; D, ageing mature fruit.
 
 <table>
 <tr>
@@ -588,7 +588,7 @@ PWOc _&ast;jimʷaR_ or _&ast;jimiR_ in all probability denoted the caulking subs
 
 There are a number of species of Macaranga growing in the Bismarcks and the Solomons and appearing as the glosses of items in the cognate sets below, but they are all rather similar. All are shrubs or small tre1es, usually 5-10 m and occasionally 15 m tall. Their saplings need light and do not flourish in primary forest, so they are found where the habitat is more open and often in garden regrowth or secondary forest ([Powell 1976](../references.md#source-Powell1976), [Peekel 1984](../references.md#source-Peekel1984):305-207, [Henderson & Hancock 1988](../references.md#source-HendersonandHancock1988): 196-197, [Wheatley 1992](../references.md#source-Wheatley1992):99-101, [Kwa'ioloa & Burt 2001](../references.md#source-KwaioloaandBurt2001): 147, [Hviding 2005](../references.md#source-Hviding2005): 109, 148).
 
-Figure 8.2 M acaranga tanarius.
+Figure 8.2: M acaranga tanarius.
 
 From the Bismarcks to Vanuatu much the same uses are reported for Macaranga species. The lightweight wood is used for rafters, wall frames and roof battens where better timber is not available, and for cages for pet birds. The wood is fast-burning and good for roasting food. The leaves are used to clean children's noses and for personal hygiene. Additionally the Bola of New Britain use the wood for outrigger booms, the leaves for wrapping, and the fruit for medicinal purposes ([Lentfer 2003](../references.md#source-Lentfer2003), [Powell 1976](../references.md#source-Powell1976)).
 
@@ -1078,7 +1078,7 @@ Rhus taitensis is a tree which grows to 10--15 min secondary forest. At flowerin
 
 In New Ireland fishing net floats are made from the white wood. When it is cut down and has dried out, it splits exceptionally easily, but has few uses. In Kwara'ae the tree is a source of protein food in the form of the grubs of a caterpillar that feeds on it ([Kwa'ioloa & Burt 2001](../references.md#source-KwaioloaandBurt2001): 108). On New Hanover (immediately to the north of New Ireland) the young shoots are eaten by women to induce abortion and used for a variety of medicinal purposes ([Holdsworth et al. 1982](../references.md#source-Holdsworthetal1982))
 
-Figure 8.3 Rhus taitensis: A, tree; B, stem bearing leaves; C, branch bearing fruit.
+Figure 8.3: Rhus taitensis: A, tree; B, stem bearing leaves; C, branch bearing fruit.
 
 The premier uses of R. taitensis, however, all have to do with producing black colouring materials. In Marovo pandanus leaves are stained black by boiling them in a mixture that includes pounded R. taitensis leaves and a particular seaweed. [Gardner & Pawley](../references.md#source-GardnerandPawley2006) ([2006](../references.md#source-GardnerandPawley2006)) report a similar process from Waya Island, where the dye was also used to blacken hair. The charcoal of R. taitensis was an ingredient in the black putty used for the caulking and glossy surface finish of war canoes in Marovo Lagoon ([Hviding 2005](../references.md#source-Hviding2005): 131). In parts of the Solomons the pounded charcoal is mixed with Macaranga urophylla to make paint. In Tonga it was used in hair dye ([Whistler 1991b](../references.md#source-Whistler1991b): 121).
 
@@ -1248,7 +1248,7 @@ Blust (ACD) reconstructs PWMP _&ast;deRuŋ_ on the basis of western Malaya-Polyn
 ### 2.9. Trichospermum spp. (syn. Althoffia, Grewia) (Tiliaceae)
 
 
-Figure 8.4 Trichospermum richii.
+Figure 8.4: Trichospermum richii.
 
 Peekel records two species of Trichospermum in New Ireland, T. peekelii (syn. T.fauroensis, T. psilocladum) in the north and T. pleiostigma (syn. T. quadrivale, Althoifia tetrapyxis) in the south, with an overlap in the Madak-speaking area.
 
@@ -1468,7 +1468,7 @@ Two less widely reflected terms, the refllexes of which are generic terms for gr
 
 <a id="p-250"></a>
 
-Figure 8.5 Left Paspalum conjugatum. Middle Imperata cylindrica, sword grass. Right Coix lacryma-jobi, Job's tears.
+Figure 8.5: Left Paspalum conjugatum. Middle Imperata cylindrica, sword grass. Right Coix lacryma-jobi, Job's tears.
 
 In Proto Remote Oceanic, _&ast;mʷanaya_, another apparently generic term for grass occurred. This quite possibly also denoted a specific but now uncertain subtaxon.
 
