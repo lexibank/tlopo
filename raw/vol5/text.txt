@@ -1532,7 +1532,6 @@ reconstructions. The third is an index to the English glosses.
 
 2              People: gender, age cohorts and marital status
 
-
 2.1    Introduction
 
 A volume entitled ‘Body and mind’ and devoted to the human person would not be complete
@@ -1551,22 +1550,22 @@ and childbearing. In all Oceanic societies the transition, for both male and fem
 childhood to adolescence or marriageable age, and then from the single to the married state, is
 observed both terminologically and ceremonially (Pawley 1982b:269-70).
 
-    In Manam (NNG), for example, boys are called nat until around 15 years of age. When
-their hair has been cut (second stage of initiation) they are called amuna. This will continue
-until they marry, when they become tamoat. In old age men are called imanei and finally
+    In Manam (NNG), for example, boys are called _nat_ until around 15 years of age. When
+their hair has been cut (second stage of initiation) they are called _amuna_. This will continue
+until they marry, when they become _tamoat_. In old age men are called _imanei_ and finally
 ikamoan (Böhm 1983:239).
 
-    A small girl in Manam is also called nat. As a young marriageable woman she is barasi. A
-married woman is called aine. If she remains unmarried she is called kosikosi; if her husband
-dies the term for a widow is ŋiŋar. When she is around 50 years old she is designated ain
-molmolu. An old woman is ain ikib or manei. Manam also has terms for a woman’s status in
-terms of number of children: biau ‘woman with one child’, pagar ‘woman with two or more
-children’, kupi ‘childless or sterile woman’ (Böhm 1983, wordlist).
+    A small girl in Manam is also called _nat_. As a young marriageable woman she is _barasi_. A
+married woman is called _aine_. If she remains unmarried she is called _kosikosi_; if her husband
+dies the term for a widow is _ŋiŋar_. When she is around 50 years old she is designated
+_ain molmolu_. An old woman is _ain ikib_ or _manei_. Manam also has terms for a woman’s status in
+terms of number of children: _biau_ ‘woman with one child’, _pagar_ ‘woman with two or more children’,
+_kupi_ ‘childless or sterile woman’ (Böhm 1983, wordlist).
 
-    In To’aba’ita (SES), wane is the male gender marker and kini or ai the female. Wela is the
-name for a child regardless of sex, even if one quite big, as long as not married. A newly-
-married man is wane fālu, a newly-married woman kini fālu. A married person is gʷauliʔi
-wane or gʷauliʔi ai. The addition of -ʔa to these last two terms means they are ‘somewhat
+    In To’aba’ita (SES), _wane_ is the male gender marker and _kini_ or _ai_ the female. _Wela_ is the
+name for a child regardless of sex, even if one quite big, as long as not married. A newly-married
+man is _wane fālu_, a newly-married woman _kini fālu_. A married person is _gʷauliʔi wane_ or
+_gʷauliʔi ai_. The addition of _-ʔa_ to these last two terms means they are ‘somewhat
 old’ (Lichtenberk 2008).
 
 
@@ -1578,21 +1577,22 @@ old’ (Lichtenberk 2008).
 There are five POc reconstructions whose reflexes suggest a meaning ‘person’ (Pawley 1985):
 
 __block__
-•     *tau ‘person in any form, including ghosts and supernatural person-like beings’
-•     *tamʷataq ‘living person’ (contrasting with *tau-mate ‘dead person’)
-•     *qata ‘person’
-•     *tinoni ‘person, people’
-•     *k(w)a(i)- ‘person’
+•     _*tau_ ‘person in any form, including ghosts and supernatural person-like beings’
+•     _*tamʷataq ‘living person’ (contrasting with *tau-mate ‘dead person’)
+•     _*qata_ ‘person’
+•     _*tinoni_ ‘person, people’
+•     _*(k,kʷ)a(i)-_ ‘person’
 
 Reflexes of these terms show differences in geographical distribution. Languages of the
-Southeast and Northwest Solomons reflect *tinoni ‘person, people’ (this distribution may be
+Southeast and Northwest Solomons reflect _*tinoni_ ‘person, people’ (this distribution may be
 due to local contact), while languages of Vanuatu and New Caledonia have reflexes of POc
-*qata. POc *tau- and *qata- are also frequently used in compounds.
+_*qata_. POc _*tau-_ and _*qata-_ are also frequently used in compounds.
+
 
 2.2.1 POc *tau
 
-  PAn *Cau ‘person’ is a well attested reconstruction, continued as PMP and POc *tau.
-Reflexes of POc *tau occur in three structural contexts:
+  PAn _*Cau_ ‘person’ is a well attested reconstruction, continued as PMP and POc _*tau_.
+Reflexes of POc _*tau_ occur in three structural contexts:
 
 __block__
 •     as an independent lexical item, typically meaning ‘man’ or ‘person’ (§2.2.1.1);
@@ -1611,28 +1611,28 @@ one of these compounds to become the basic term for ‘person’, displacing *ta
 because ‘living person’ was always in opposition to ‘spirit, ghost’. In Mussau, for example,
 where tau occurs in compounds, the standalone form for ‘person’ is tau-matu, i.e. a compound
 has replaced tau.
+
    The gloss offered below from Pawley (1985) takes account of the three types of reflex
 mentioned above.
 
 <
 PAn *Cau ‘person’ (ACD)
 POc *tau ‘person in any form, including ghosts and supernatural person-like beings’ (Pawley 1985)
-  NNG: Atui               tu               ‘man’
-  NNG: Akolet-V           a-to             ‘man’
-  PT:    Molima           (tomo)tau        ‘person; men’
-  PT:    Molima                        (ʔoloto) tau     ‘human being’ (ʔoloto ‘man’)
-  PT:    Kilivila         tau              ‘man’
-  PT:    Misima           tau              ‘man; male of any age; male (of animals)’
-  PT:    Sudest           tau              ‘people’ (lolo ‘person’)
-  PT:     Sinaugoro         tau                ‘man, male in general'’
-  PT:     Motu              tau                ‘the body; a man’
-  PT:     Dawawa            tau                ‘person’
+  NNG: Atui             tu               ‘man’
+  NNG: Akolet-V         a-to             ‘man’
+  PT:  Molima           (tomo)tau        ‘person; men’
+  PT:  Molima           (ʔoloto) tau     ‘human being’ (ʔoloto ‘man’)
+  PT:  Kilivila         tau              ‘man’
+  PT:  Misima           tau              ‘man; male of any age; male (of animals)’
+  PT:  Sudest           tau              ‘people’ (lolo ‘person’)
+  PT:  Sinaugoro        tau              ‘man, male in general'’
+  PT:  Motu             tau              ‘the body; a man’
+  PT:  Dawawa           tau              ‘person’
 cf. also:
-   SES: Gela                tau                ‘spouse’
+  SES: Gela             tau              ‘spouse’
 >
 
                                                                                     People 39
-
 
 Bender et al. (2003) reconstruct PMic *tau ‘person’, but it appears that Micronesian reflexes
 only occur in the compounds listed here. The first element of the reflexes below is different in
@@ -1640,16 +1640,15 @@ form from the reflexes of prefixed PMic *tawu-, which remain productive in a num
 languages, as illustrated in §2.2.1.2.
 
 <
-PMic *tau ‘person’ (Bender et al. 2003), *tau-mate ‘dead person’, *tau-tubʷa ‘spirit of a
- deceased person’
+PMic *tau ‘person’ (Bender et al. 2003), *tau-mate ‘dead person’, *tau-tubʷa ‘spirit of a deceased person’
  Mic: Marshallese       cə(təbʷ)          ‘spirit’
  Mic: Chuukese          sō(tupʷ)          ‘not visible person, departed, dead’
- Mic: Chuukese                       sō(pe)            ‘ghost’
- Mic: Chuukese                       sō(mæ)            ‘corpse’
+ Mic: Chuukese          sō(pe)            ‘ghost’
+ Mic: Chuukese          sō(mæ)            ‘corpse’
  Mic: Puluwatese        hō(tupʷ)          ‘departed person, ghost’
- Mic: Puluwatese                       hō(mæ)            ‘bad ghost of departed person’
- Mic: Carolinian        sō(tubʷ), sō(mæ) ‘respectful term for one who is dead’
- Mic: Carolinian                       sō(pe)            ‘respectful term for ghost or spirit’
+ Mic: Puluwatese        hō(mæ)            ‘bad ghost of departed person’
+ Mic: Carolinian        sō(tubʷ), sō(mæ)  ‘respectful term for one who is dead’
+ Mic: Carolinian        sō(pe)            ‘respectful term for ghost or spirit’
  Mic: Pulo Annian       ou(tuɸʷa)         ‘spirit, god’
 >
 
@@ -1681,116 +1680,138 @@ and Arosi au-henua ‘man of the place’ are found, both reflecting POc *tau-pa
 <
 PAn *Cau ‘person’ (ACD)
 POc *tau- ‘person who VERBs, person from PLACENAME’
-  Adm: Mussau            tau                  ‘person who …’
-  PT:    Kukuya          tau-                 ‘person who …’
-  PT:    Tawala          tu-                  ‘person who …’
-  PT:    Dobu            to-                  ‘person who …’
-  PT:    Gumawana        to-                  ‘person who …’
-  PT:    Iduna           to-                  ‘person who …’
-  PT:    Dawawa          tau-                 ‘person who …’
-  PT:    Misima          to-                  ‘person who …’
-  PT:    Motu            tau                  ‘person from …’ (e.g. tau erema ‘an Erema man’)
-  MM: Nakanai            tau-                 ‘man, person, used only in connection with sibling and village affiliation, and in expressions showing relations between two or more persons’[1]
-  MM: Teop               to-                  ‘person who …’
+  Adm: Mussau          tau                  ‘person who …’
+  PT:  Kukuya          tau-                 ‘person who …’
+  PT:  Tawala          tu-                  ‘person who …’
+  PT:  Dobu            to-                  ‘person who …’
+  PT:  Gumawana        to-                  ‘person who …’
+  PT:  Iduna           to-                  ‘person who …’
+  PT:  Dawawa          tau-                 ‘person who …’
+  PT:  Misima          to-                  ‘person who …’
+  PT:  Motu            tau                  ‘person from …’ (e.g. tau erema ‘an Erema man’)
+  MM:  Nakanai         tau-                 ‘man, person, used only in connection with sibling and village affiliation, and in expressions showing relations between two or more persons’[1]
+  MM:  Teop            to-                  ‘person who …’
 PMic *tawu- ‘master, expert’ (Bender et al. 2003)
-  Mic: Woleaian          sau-, tau-           ‘master, expert’
-  Mic: Ponapean          sow-                 ‘expert at’
-  Mic: Carolinian        sɔu-                 ‘expert’
-  Mic: Chuukic           sowu-                ‘master, expert’
-  Mic: Puluwatese        hawu-                ‘expert, master, lord’
+  Mic: Woleaian        sau-, tau-           ‘master, expert’
+  Mic: Ponapean        sow-                 ‘expert at’
+  Mic: Carolinian      sɔu-                 ‘expert’
+  Mic: Chuukic         sowu-                ‘master, expert’
+  Mic: Puluwatese      hawu-                ‘expert, master, lord’
 PPn *tau- ‘person who …, person from …’
-  Pn:    Samoan          tau-                 ‘person who …, person from …’
-  Pn:    Rennellese      tau-                 ‘person who …’
-  Pn:    Pukapukan       tau                  ‘person from …’
+  Pn:  Samoan          tau-                 ‘person who …, person from …’
+  Pn:  Rennellese      tau-                 ‘person who …’
+  Pn:  Pukapukan       tau                  ‘person from …’
 >
 
-
+__table__
 Mussau (Adm)
 tau ni-nama-nama        [person NOM-REDUP-eat] ‘person who eats a lot’
 tau ni-kinari           [person NOM-sing] ‘person who likes to sing’
-tau ŋ-ai-noŋo-noŋo anna [person CSTR-AGENT-REDUP-hear think] ‘servant’ (lit. ‘person who
-                        hears wishes’)
+tau ŋ-ai-noŋo-noŋo anna [person CSTR-AGENT-REDUP-hear think] ‘servant’ (lit. ‘person who hears wishes’)
 tau ŋ-ai-nama ŋ-asi     [person CSTR-AGENT-eat LIG-taro] ‘person who eats taro’
-tau ŋ-ai-ssa tee-ira    [person CSTR-AGENT-bad with-O:3P] ‘their enemies’ (lit. ‘people who
-                        do bad with them’)
+tau ŋ-ai-ssa tee-ira    [person CSTR-AGENT-bad with-O:3P] ‘their enemies’ (lit. ‘people who do bad with them’)
 tau ni-tam aikaaia      [person NOM-NEGATIVE.VERB believe] ‘unbeliever’
-Kukuya (PT)
-tau vivenena           ‘one who teaches’,
-tau nonona             ‘one who hears, listener’,
-tau nuauya             ‘one who understands, wise man’ etc.
-Tawala (PT)
-tu-danene              ‘thief’
+
+__table__
+Kukuya (PT)   |
+tau vivenena  |         ‘one who teaches’,
+tau nonona    |         ‘one who hears, listener’,
+tau nuauya    |         ‘one who understands, wise man’ etc.
+
 
 [1]
     The gloss is from Chowning (2014). We have no examples.
 
                                                                                      People 41
 
+__table_
+Tawala (PT)   |
+tu-danene     |           ‘thief’
+tu-dayadayabu |        ‘poor people’
 
-tu-dayadayabu       ‘poor people’
-Gumawana (PT)
-to-kani-giloilo     ‘one who eats very little’ (kani ‘eat’, giloilo ‘hermit crab’)
-to-piki             ‘stingy person’ (piki ‘stingy’)
-to-vatulukʷana      ‘teacher’ (vatulukʷana ‘teach’)
-to-yausa            ‘spy’ (yausa (V) ‘spy’)
-Iduna (PT)
-to-bogau            ‘sorcerer’ (bogau ‘sorcery’)
-to-bonaʔabi         ‘obedient person’ (bonaʔabi ‘obedience’)
-to-dibumuhiga       ‘hard worker’ (dibumuhiga ‘diligence’)
-to-faha             ‘gardener’ (faha (V) ‘plant’)
-to-faisewa          ‘worker’ (faisewa (V) ‘work’)
-Dawawa (PT)
-tau-noya          ‘slave’ (noya ‘work’)
-tau-paka          ‘owner’ (paka ‘garden’)
-tau-suku          ‘victim as a result of payback’
-tau-waisamasamani ‘accuser’ (wai- CAUSATIVE, samana (V) ‘report’)
-Misima (PT)
-to-gulagula         ‘poor person’ (gulagula ‘(be) poor’)
-to-honi             ‘greedy person’ (honi ‘(be) greedy’)
-to-kewakewa         ‘people who come to- feast’ (who bring a pig) (kewa ‘carry on pole’)
-to-losidai          ‘drummers; (men who) beat drums’ (sidai ‘hand drum’)
-to-pahepahenapu     ‘advisor; wise man’ (pahenapu ‘exhort, advise’)
-Teop (MM)
-to kikira           ‘keeper’ (kikira ‘take care of’)
-to kiu              ‘workman, servant’ (kiu ‘work’)
-to rarare           ‘judge’ (rare (N) ‘judge’)
-to suga             ‘rebel’ (suga ‘neglect’)
-Puluwatese (Mic)
-haw-eyikɔ           ‘sorcerer who chants to stop rain’ (yeyikɔ ‘chant spell to stop rain’)
-haw-fāi             ‘one who treats injuries’ (faai ‘be bruised’, (N) ‘bruise’)
-haw-hæfey           ‘traditional medical practitioner’ (hæfey ‘traditional medicine’)
-haw-kāpuŋ           (N) ‘judge’ (kāpuŋ (V) ‘judge’)
-haw-kkawɨyīmʷ       ‘housebuilder’ (kkawɨ ‘build’; yīmʷ ‘house’)
-haw-pʷe             ‘diviner’ (pʷe ‘to divine’)
-Carolinian (Mic)
-sɔu-xekkæy          ‘person who laughs a lot’ (ghekkáy ‘laugh’)
-sɔu-kkə̄l           ‘singer’ (kkə̄l ‘sing’)
-sɔu-sæfey           ‘traditional medical practitioner’ (sáfey ‘traditional medicine’)
-sɔu-mʷær            ‘gentleman’ (mʷár ‘lei, flower garland’)
-sɔu-ffəl            ‘priest, counsellor’ (ffəl ‘preach, give advice’)
-sɔu-fīyouw          ‘warrior’ (fīyouw ‘fight’)
-sɔu-mǣs                ‘thief’
-Woleaian (Mic)
-tau-yeŋāŋ              ‘expert, good worker’ (yeŋāŋ ‘work’)
-tau-rix                ‘good runner’ (rix ‘run’)
-tau-yaf                ‘swimmer’ (yaf ‘swim’)
-tau-farewa             ‘canoe-builder’ (wa ‘canoe’)
-tau-fita               ‘skilled fisherman’ (fita ‘fishing’)
-tau-fitex              ‘person who fights continuously’ (fitex ‘war’)
-Bauan (Fij)
-dau bati               ‘specialist in tattooing’ (bati ‘tooth, tattooing instrument’)
-dau lali               ‘drummer’ (lali ‘hand drum’)
-Samoan (Pn)
-tau-fanua              ‘commoner; land-owner’ (fanua ‘land’)
-tau-tai                ‘master fisherman’ (tai ‘sea’)
-tau-uta                ‘landlubber’ (uta ‘island’)
-tau-malae              ‘host, person who received (important) visitors’ (malae ‘village green’)
-Rennellese (Pn)
-tau-haŋe               ‘house owner’
-tau-manaha             ‘chief/owner of a settlement’ (manaha ‘exogamous patrilineal descent
-                       group’)
-tau-hinaŋaŋo           ‘clever or learned (person)’ (hinaŋaŋo ‘thought’)
-tau-kese               ‘unrelated person, enemy’ (kese ‘strange, varied, deceitful’
+__table_
+Gumawana (PT)  |
+to-kani-giloilo|       ‘one who eats very little’ (kani ‘eat’, giloilo ‘hermit crab’)
+to-piki        |       ‘stingy person’ (piki ‘stingy’)
+to-vatulukʷana |       ‘teacher’ (vatulukʷana ‘teach’)
+to-yausa       |       ‘spy’ (yausa (V) ‘spy’)
+
+__table_
+Iduna (PT) |
+to-bogau       |      ‘sorcerer’ (bogau ‘sorcery’)
+to-bonaʔabi    |      ‘obedient person’ (bonaʔabi ‘obedience’)
+to-dibumuhiga  |      ‘hard worker’ (dibumuhiga ‘diligence’)
+to-faha        |      ‘gardener’ (faha (V) ‘plant’)
+to-faisewa     |      ‘worker’ (faisewa (V) ‘work’)
+
+__table_
+Dawawa (PT) |
+tau-noya          | ‘slave’ (noya ‘work’)
+tau-paka          | ‘owner’ (paka ‘garden’)
+tau-suku          | ‘victim as a result of payback’
+tau-waisamasamani | ‘accuser’ (wai- CAUSATIVE, samana (V) ‘report’)
+
+__table_
+Misima (PT) |
+to-gulagula      |    ‘poor person’ (gulagula ‘(be) poor’)
+to-honi          |    ‘greedy person’ (honi ‘(be) greedy’)
+to-kewakewa      |    ‘people who come to- feast’ (who bring a pig) (kewa ‘carry on pole’)
+to-losidai       |    ‘drummers; (men who) beat drums’ (sidai ‘hand drum’)
+to-pahepahenapu  |    ‘advisor; wise man’ (pahenapu ‘exhort, advise’)
+
+__table_
+Teop (MM) |
+to kikira        |    ‘keeper’ (kikira ‘take care of’)
+to kiu           |    ‘workman, servant’ (kiu ‘work’)
+to rarare        |    ‘judge’ (rare (N) ‘judge’)
+to suga          |    ‘rebel’ (suga ‘neglect’)
+
+__table_
+Puluwatese (Mic) |
+haw-eyikɔ        |    ‘sorcerer who chants to stop rain’ (yeyikɔ ‘chant spell to stop rain’)
+haw-fāi          |    ‘one who treats injuries’ (faai ‘be bruised’, (N) ‘bruise’)
+haw-hæfey        |    ‘traditional medical practitioner’ (hæfey ‘traditional medicine’)
+haw-kāpuŋ        |    (N) ‘judge’ (kāpuŋ (V) ‘judge’)
+haw-kkawɨyīmʷ    |    ‘housebuilder’ (kkawɨ ‘build’; yīmʷ ‘house’)
+haw-pʷe          |    ‘diviner’ (pʷe ‘to divine’)
+
+__table_
+Carolinian (Mic)|
+sɔu-xekkæy      |    ‘person who laughs a lot’ (ghekkáy ‘laugh’)
+sɔu-kkə̄l       |    ‘singer’ (kkə̄l ‘sing’)
+sɔu-sæfey       |    ‘traditional medical practitioner’ (sáfey ‘traditional medicine’)
+sɔu-mʷær        |    ‘gentleman’ (mʷár ‘lei, flower garland’)
+sɔu-ffəl        |    ‘priest, counsellor’ (ffəl ‘preach, give advice’)
+sɔu-fīyouw      |    ‘warrior’ (fīyouw ‘fight’)
+sɔu-mǣs         |       ‘thief’
+
+__table_
+Woleaian (Mic)|
+tau-yeŋāŋ     |         ‘expert, good worker’ (yeŋāŋ ‘work’)
+tau-rix       |         ‘good runner’ (rix ‘run’)
+tau-yaf       |         ‘swimmer’ (yaf ‘swim’)
+tau-farewa    |         ‘canoe-builder’ (wa ‘canoe’)
+tau-fita      |         ‘skilled fisherman’ (fita ‘fishing’)
+tau-fitex     |         ‘person who fights continuously’ (fitex ‘war’)
+
+__table_
+Bauan (Fij)|
+dau bati   |            ‘specialist in tattooing’ (bati ‘tooth, tattooing instrument’)
+dau lali   |            ‘drummer’ (lali ‘hand drum’)
+
+__table_
+Samoan (Pn)|
+tau-fanua  |            ‘commoner; land-owner’ (fanua ‘land’)
+tau-tai    |            ‘master fisherman’ (tai ‘sea’)
+tau-uta    |             ‘landlubber’ (uta ‘island’)
+tau-malae  |             ‘host, person who received (important) visitors’ (malae ‘village green’)
+
+__table_
+Rennellese (Pn)|
+tau-haŋe       |         ‘house owner’
+tau-manaha     |         ‘chief/owner of a settlement’ (manaha ‘exogamous patrilineal descent group’)
+tau-hinaŋaŋo   |         ‘clever or learned (person)’ (hinaŋaŋo ‘thought’)
+tau-kese       |         ‘unrelated person, enemy’ (kese ‘strange, varied, deceitful’
 
 
 42 Malcolm Ross and Meredith Osmond
@@ -1807,34 +1828,34 @@ the paradigm or, in Duau, in just the third person, or, in Bunama, in the first 
 
 <
 PWOc *tau- EMPHATIC PRONOUN FORMATIVE
- NNG: Kove             tau
- NNG: Lukep (Pono) tau-
- NNG: Tami             tau
- NNG: Adzera           ru
- NNG: Dangal           rau
- NNG: Yalu             (i)ro
- NNG: Wampar           ra
- NNG: Bukawa           dau
- NNG: Labu             lo
- NNG: Mapos Buang lo
- PT:    Iduna          tau-
-  PT:      Molima              tau-
-  PT:      Dobu                tau-
-  PT:      Sewa Bay            tau-
-  PT:      Tawala              tau-           FREE PRONOUN FORMATIVE
-  PT:      Wedau               tau-           FREE PRONOUN FORMATIVE
-  PT:      Ubir                tao-
-  PT:      Anuki               ta-, tou-      FREE PRONOUN FORMATIVE
-  PT:      Gumawana            tau-
-  PT:      Misima              to-to-
-  PT:      Budibud             to-
-  PT:      Dawawa              tau-           FREE PRONOUN FORMATIVE
-  PT:      Bunama              tau-           FREE PRONOUN FORMATIVE
-  PT:      Sinaugoro           tau-ɣe-
-  PT:      Kuni                kau-
-  PT:      Roro                hau-
-  MM:      Nehan               totou-
-  MM:      Babatana            ta-na-
+ NNG: Kove           tau
+ NNG: Lukep (Pono)   tau-
+ NNG: Tami           tau
+ NNG: Adzera         ru
+ NNG: Dangal         rau
+ NNG: Yalu           (i)ro
+ NNG: Wampar         ra
+ NNG: Bukawa         dau
+ NNG: Labu           lo
+ NNG: Mapos Buang    lo
+ PT:  Iduna          tau-
+ PT:  Molima         tau-
+ PT:  Dobu           tau-
+ PT:  Sewa Bay       tau-
+ PT:  Tawala         tau-           (FREE PRONOUN FORMATIVE)
+ PT:  Wedau          tau-           (FREE PRONOUN FORMATIVE)
+ PT:  Ubir           tao-
+ PT:  Anuki          ta-, tou-      (FREE PRONOUN FORMATIVE)
+ PT:  Gumawana       tau-
+ PT:  Misima         to-to-
+ PT:  Budibud        to-
+ PT:  Dawawa         tau-           (FREE PRONOUN FORMATIVE)
+ PT:  Bunama         tau-           (FREE PRONOUN FORMATIVE)
+ PT:  Sinaugoro      tau-ɣe-
+ PT:  Kuni           kau-
+ PT:  Roro           hau-
+ MM:  Nehan          totou-
+ MM:  Babatana       ta-na-
 >
 
                                                                                   People 43
@@ -1846,6 +1867,7 @@ with the default alienable possession classifier, Sinaugoro ɣe- and Babatana na
    The Bunama set is the ordinary free pronoun set. Note that Bunama retains inherited second-
 person free pronouns, but replaces first- and third-person pronouns with the emphatics.
 
+__table__
                     PWOc    Yabem          Bunama   Dawawa      Sinaugoro    Babatana
                             (NNG)          (PT)     (PT)        (PT)         (MM)
 Singular 1          *tau-gu tau-ʔ          tau-gu   tau-gu      tau-ɣe-gu    ta-na-gu
@@ -1869,6 +1891,7 @@ discussed in §2.2.1.2.
 It seems likely that POc *tamwataq had already become a synonym of monosyllabic *tau
 (§2.2.1.1) in the sense ‘living person’. In several major subgroups – Admiralties, North New
 Guinea, Fijian, Polynesian – reflexes of *ta-mwataq are the general term for a human being.
+
 44 Malcolm Ross and Meredith Osmond
 
 
@@ -1889,34 +1912,34 @@ of the POc form *tamwataq is uncontested.
 <
 PMP *tau-mataq ‘person’ (Dempwolff, Blust 1993a)
 POc *tamwataq ‘human being, especially in ordinary living form’ (Pawley 1985) (*mataq ‘raw, new, green’) (vol.1:155)
-  Adm: Loniu                amat          ‘human being, person, often used to refer only to males’
-  Adm: Bipi                 xamak         ‘person’
-  Adm: Nyindrou             dramak        ‘person’
-  NNG: Manam                tamoata       ‘man, mankind’
-  NNG: Wogeo                ramata        ‘person’
-  NNG: Mangap-Mbula tomoto                ‘man’
-  NNG: Sio                  tamɔta        ‘person; man (generic)’
-  NNG: Tuam                 tamot         ‘man’
-  NNG: Gedaged              tamoḷ         ‘man, male, human being’
-  NNG: Megiar               tamot         ‘man’
-  PT:     Dobu              tomota        ‘people; human race’
-  PT:     Kiriwina          tomota        ‘people; person’
-  MM: Notsi                 tamət         ‘man’
-  MM: Lihir                 tomat         ‘man; husband’
-  MM: Sursurunga            təm           ‘one characterised by.. /one whose job is..’
-  MM: Nehan                 tamat         ‘person, man’
-  MM: Haku                  tamata        ‘man; husband’
-  MM: Banoni                tamata        ‘man’
-  SV: Lenakel               (ie)ram-      ‘chief’
-  Fij:    Wayan             tamata        'human being, person’
-  Fij:    Bauan             tamata        'human being, people in general’
+  Adm: Loniu          amat          ‘human being, person, often used to refer only to males’
+  Adm: Bipi           xamak         ‘person’
+  Adm: Nyindrou       dramak        ‘person’
+  NNG: Manam          tamoata       ‘man, mankind’
+  NNG: Wogeo          ramata        ‘person’
+  NNG: Mangap-Mbula   tomoto        ‘man’
+  NNG: Sio            tamɔta        ‘person; man (generic)’
+  NNG: Tuam           tamot         ‘man’
+  NNG: Gedaged        tamoḷ         ‘man, male, human being’
+  NNG: Megiar         tamot         ‘man’
+  PT:  Dobu           tomota        ‘people; human race’
+  PT:  Kiriwina       tomota        ‘people; person’
+  MM:  Notsi          tamət         ‘man’
+  MM:  Lihir          tomat         ‘man; husband’
+  MM:  Sursurunga     təm           ‘one characterised by.. /one whose job is..’
+  MM:  Nehan          tamat         ‘person, man’
+  MM:  Haku           tamata        ‘man; husband’
+  MM:  Banoni         tamata        ‘man’
+  SV:  Lenakel        (ie)ram-      ‘chief’
+  Fij: Wayan          tamata        'human being, person’
+  Fij: Bauan          tamata        'human being, people in general’
 PPn *taŋata ‘man(kind); person’ (POLLEX)
-  Pn:     Tongan            taŋata        ‘person’
-  Pn:     Niuean            taŋata        ‘person, human, mankind’
-  Pn:     Rennellese        taŋata        ‘man, person’
-  Pn:     Samoan            taŋata        ‘human of either sex’
+  Pn:  Tongan         taŋata        ‘person’
+  Pn:  Niuean         taŋata        ‘person, human, mankind’
+  Pn:  Rennellese     taŋata        ‘man, person’
+  Pn:  Samoan         taŋata        ‘human of either sex’
 cf. also:
-   Adm: Mussau                 taumatu            ‘person, human being’
+  Adm: Mussau         taumatu       ‘person, human being’
 >
 
 [2] For discussion, see Blust (1984) and Lynch (2002).
@@ -1933,19 +1956,19 @@ their first element (§2.2.3.2).
 
 <
 POc *tau-mate ‘dead person’ (tau ‘person’ + mate ‘die, dead’)
- PT:     Muyuw           toumat             ‘dead person’
- PT:     Kilivila        tomata             ‘corpse, dead person’
- PT:     Molima          tomate             ‘dead person’
- PT:     Misima          tomati             ‘dead person; person who has just died’
- MM: Roviana             tomate-            ‘corpse; ghost, spirit’
+ PT:  Muyuw           toumat             ‘dead person’
+ PT:  Kilivila        tomata             ‘corpse, dead person’
+ PT:  Molima          tomate             ‘dead person’
+ PT:  Misima          tomati             ‘dead person; person who has just died’
+ MM:  Roviana         tomate-            ‘corpse; ghost, spirit’
 PMic *tau-mate ‘dead person’
- Mic: Chuukese           sōmæ               ‘corpse’
- Mic: Puluwatese         hōmæ               ‘bad ghost of departed person’
+ Mic: Chuukese        sōmæ               ‘corpse’
+ Mic: Puluwatese      hōmæ               ‘bad ghost of departed person’
 cf. also
-   NCV: Mota                   tamate             ‘a dead man; a ghost, a dead man in separation from his body...’
-  NCV: Mwotlap                 tmat               ‘corpse’
-  NCV: Nokuku                  temate             ‘spirit’
-  NCV: Paamese                 temate             ‘spirit of dead’
+ NCV: Mota            tamate             ‘a dead man; a ghost, a dead man in separation from his body...’
+ NCV: Mwotlap         tmat               ‘corpse’
+ NCV: Nokuku          temate             ‘spirit’
+ NCV: Paamese         temate             ‘spirit of dead’
 >
 
 
@@ -1986,29 +2009,29 @@ himself’; cf. §2.2.1.3).
 <
 PMP *qaRta ‘outsiders, alien people’ (Blust 1972b, ACD)
 POc *qata ‘person’ (François 2013)
- NNG: Numbami             ata                ‘self’
- NNG: Kaiwa               ate                ‘self’
- NNG: Hote (Misim)        da                 ‘self’
+ NNG:  Numbami            ata                ‘self’
+ NNG:  Kaiwa              ate                ‘self’
+ NNG:  Hote (Misim)       da                 ‘self’
 PNCV *qata ‘individual, person, human being’ (Clark 2009, François 2013)
- NCV: Lehali              n-at               ‘person’ (François 2013)
- NCV: Löyöp               n-at               ‘person’ (François 2013)
- NCV: Volow               n-at               ‘person’ (François 2013)
- NCV: Mwotlap             n-ɛt               ‘person’ (François 2013)
- NCV: Raga                ata(tu)            ‘person’
- NCV: Namakir             ʔat                ‘person’
- NCV: S Efate             n-at               ‘person; someone (indefinite but nonspecific)’
- SV: Anejom               n-at               ‘person, fellow’
+ NCV:  Lehali             n-at               ‘person’ (François 2013)
+ NCV:  Löyöp              n-at               ‘person’ (François 2013)
+ NCV:  Volow              n-at               ‘person’ (François 2013)
+ NCV:  Mwotlap            n-ɛt               ‘person’ (François 2013)
+ NCV:  Raga               ata(tu)            ‘person’
+ NCV:  Namakir            ʔat                ‘person’
+ NCV:  S Efate            n-at               ‘person; someone (indefinite but nonspecific)’
+ SV:   Anejom             n-at               ‘person, fellow’
  NCal: Nemi               kac                ‘man’
  NCal: Jawe               kac                ‘man’
  NCal: Nêlêmwa            ak                 ‘man’
- NCal: Nêlêmwa                         axa-t              ‘man, male’
+ NCal: Nêlêmwa            axa-t              ‘man, male’
  NCal: Iaai               at                 ‘person’
 cf. also:
-   NCal: Pije                kaca                   ‘stranger, foreigner’
-   NCal: Fwâi                kaya                   ‘stranger, foreigner’
-   NCal: Jawe                kaya                   ‘stranger, foreigner’
-   NCal: Nemi                kaca                   ‘stranger, foreigner’
-   NCal: Xârâcùù             ka                     ‘stranger, foreigner’ (Grace 1972).
+ NCal: Pije               kaca               ‘stranger, foreigner’
+ NCal: Fwâi               kaya               ‘stranger, foreigner’
+ NCal: Jawe               kaya               ‘stranger, foreigner’
+ NCal: Nemi               kaca               ‘stranger, foreigner’
+ NCal: Xârâcùù            ka                 ‘stranger, foreigner’ (Grace 1972).
 >
 
 2.2.3.2 Compounds formed with POc *qata- ‘person’
@@ -2027,7 +2050,6 @@ it almost certainly reflects POc *qata(r) ‘image, reflection, soul, spirit’,
 
                                                                                        People 47
 
-
     François (2013) points out that where a term for a category or people begins with *ta-, this
 is potentially ambiguous between an origin in *qata- and one in *tau-. However, as just noted,
 there seems to be a systematic difference in meaning between *tau- and *qata-. There is also a
@@ -2042,10 +2064,10 @@ has few reflexes and may reflect parallel innovations.
 
 <
 PROc *[qa]ta-maquri ‘living person’
-  NCV: Mota              tamaur                 ‘man alive’ (cf. tamate ‘man dead’)
-  NCV: Nguna             na-tamʷoli             ‘human being’
-  NCV: S Efate           n-atamwol              ‘person’ (mwol ‘be alive’)
-  Fij:  Rotuman          famori                 ‘human being’
+  NCV: Mota             tamaur                 ‘man alive’ (cf. tamate ‘man dead’)
+  NCV: Nguna            na-tamʷoli             ‘human being’
+  NCV: S Efate          n-atamwol              ‘person’ (mwol ‘be alive’)
+  Fij: Rotuman          famori                 ‘human being’
 >
 
 The second element of Proto Torres-Banks *(qa)ta-dunu ‘individual, person’ reflects PNCV
@@ -2091,13 +2113,13 @@ limited range makes it difficult to establish its POc meaning.
 a term for people in general and sometimes for males only.
 
 <
-PEMP *tinoni ‘man, male’3
+PEMP *tinoni ‘man, male’[3]
 POc *tinoni ‘person, people’
-  MM: Vitu                tinoni                     ‘person’
-  MM: Solos               tinon                      ‘man; husband’
-  MM: Papapana            sinoni                     ‘husband’
-  MM: Nduke               tinoni                     ‘person’
-  MM: Roviana             tinoni-                    ‘people’
+  MM:  Vitu               tinoni                     ‘person’
+  MM:  Solos              tinon                      ‘man; husband’
+  MM:  Papapana           sinoni                     ‘husband’
+  MM:  Nduke              tinoni                     ‘person’
+  MM:  Roviana            tinoni-                    ‘people’
   SES: Bugotu             tinoni                     ‘man, mankind, person’
   SES: Gela               tinoni                     ‘man, human being, person (living)’
   SES: Longgu             inoni                      ‘person, man’
@@ -2118,7 +2140,7 @@ languages in particular, there are numerous forms beginning with ka- which denot
 of person, and we have taken these to be reflexes of *ka. Some of them may well have other
 origins. Where possible the modifier that follows the reflex of *ka- is identified. Second, the
 form of the reconstruction is uncertain. POc *kʷa- is reflected as far east as Bugotu (with
-exceptions in Medebur and Bola), switching to *kʷai- from Malaita and Makira eastward.4
+exceptions in Medebur and Bola), switching to *kʷai- from Malaita and Makira eastward.[4]
 Reconstruction of initial *kʷ-, rather than *k-, is also uncertain. POc *kʷ was an unstable
 phoneme that is reflected as kʷ only in Papuan Tip languages and Western Fijian (Ross 2011).
 In these and some other languages *kʷa sometimes becomes *ko. Among the reflexes
@@ -2141,61 +2163,61 @@ includes some non-cognate forms). Proto Malaita-Makira, however, normally reflec
 <
 POc *k(w)a(i) ‘person belonging to a category’ (Pawley 1985: PEOc *kai ‘person’)
 PWOc *k(w)a[i] ‘person belonging to a category’
- NNG: Bariai               ka-kau-iriria      ‘young man’
- NNG: Medebur              kai-dik-waun       ‘young man’ (waun ‘new, young’; cf. wai-dik ‘woman’)
- NNG: Medebur                          kai-n              ‘boy’
- NNG: Manam                ka-leti            ‘foreigner, white man’
- SJ:      Tobati           ha-r               ‘person’
- SJ:      Ormu             ka-ru              ‘person’
- PT:      Iduna            kʷa-na             ‘person of group’ (e.g. kʷana-ʔoyaʔoya ‘man of the mountains’, kʷana-koyokoyo ‘poor/bad man’)
- PT:      Iduna                          ka-liva            ‘man, male, person’
- MM: Vitu                  kaka               ‘person’
- MM: Bulu                  kaka-tara          ‘person’ (tara ‘mature’)
- MM: Bola                  kakai              ‘boss’
- MM: Tabar                 ka                 ‘man’
- MM: Madak                 ka-dioŋ            ‘stranger, foreign -person’
- MM: Madak                          ka-vus             ‘white person’
- MM: Sursurunga            ka-lik             ‘child’ (-lik endearment particle)
- MM: Sursurunga                          kə-ləmul           ‘person’
- MM: Sursurunga                          kə-ləu             ‘man, boy’
- MM: Tangga                ka-ltu             ‘man’
- MM: Ramoaaina             ka-ulung           ‘ignorant person; bush dweller’
- MM: Ramoaaina                          kə-puana           ‘pitied person’
- MM: Solos                 ka-tun             ‘person’ (tun < Proto NW Solomonic *tuna ‘correct, proper’)
- MM: Petats                ka-tun             ‘person’ (see Solos ka-tun)
- MM: Halia (Haku)          ka-tun             ‘person’ (see Solos ka-tun)
- MM: Mono-Alu              ka-nega            ‘man, husband; big’
+ NNG: Bariai           ka-kau-iriria      ‘young man’
+ NNG: Medebur          kai-dik-waun       ‘young man’ (waun ‘new, young’; cf. wai-dik ‘woman’)
+ NNG: Medebur          kai-n              ‘boy’
+ NNG: Manam            ka-leti            ‘foreigner, white man’
+ SJ:  Tobati           ha-r               ‘person’
+ SJ:  Ormu             ka-ru              ‘person’
+ PT:  Iduna            kʷa-na             ‘person of group’ (e.g. kʷana-ʔoyaʔoya ‘man of the mountains’, kʷana-koyokoyo ‘poor/bad man’)
+ PT:  Iduna            ka-liva            ‘man, male, person’
+ MM:  Vitu             kaka               ‘person’
+ MM:  Bulu             kaka-tara          ‘person’ (tara ‘mature’)
+ MM:  Bola             kakai              ‘boss’
+ MM:  Tabar            ka                 ‘man’
+ MM:  Madak            ka-dioŋ            ‘stranger, foreign -person’
+ MM:  Madak            ka-vus             ‘white person’
+ MM:  Sursurunga       ka-lik             ‘child’ (-lik endearment particle)
+ MM:  Sursurunga       kə-ləmul           ‘person’
+ MM:  Sursurunga       kə-ləu             ‘man, boy’
+ MM:  Tangga           ka-ltu             ‘man’
+ MM:  Ramoaaina        ka-ulung           ‘ignorant person; bush dweller’
+ MM:  Ramoaaina        kə-puana           ‘pitied person’
+ MM:  Solos            ka-tun             ‘person’ (tun < Proto NW Solomonic *tuna ‘correct, proper’)
+ MM:  Petats           ka-tun             ‘person’ (see Solos ka-tun)
+ MM:  Halia (Haku)     ka-tun             ‘person’ (see Solos ka-tun)
+ MM:  Mono-Alu         ka-nega            ‘man, husband; big’
 Proto Malaita-Makira *ɣai ‘person, person belonging to …’
-  SES:    To’aba’ita       ʔai            ‘collectivity’ (e.g. kai ni bulisi ‘police unit’)
-  SES:    Kwaio            ai             ‘person’
-  SES:    Lau              ʔai            ‘person, individual, woman’
-  SES:    Arosi            ai             ‘native of place’ (e.g. ai [ni] Waŋo ‘native of Wango’)
+ SES: To’aba’ita       ʔai            ‘collectivity’ (e.g. kai ni bulisi ‘police unit’)
+ SES: Kwaio            ai             ‘person’
+ SES: Lau              ʔai            ‘person, individual, woman’
+ SES: Arosi            ai             ‘native of place’ (e.g. ai [ni] Waŋo ‘native of Wango’)
 PNCV *kai-masi ‘sorcerer’ (Clark 2009) (*masi-ŋa ‘love magic’)
- NCV: Paamese            eimasi           ‘evil spirit’
- NCV: Nguna              na-kaimasi       'sorcerer'
- NCV: Nguna                        na-kā            ‘people (of a particular chief or place)’
+ NCV: Paamese          eimasi           ‘evil spirit’
+ NCV: Nguna            na-kaimasi       'sorcerer'
+ NCV: Nguna            na-kā            ‘people (of a particular chief or place)’
 >
 
 50 Malcolm Ross and Meredith Osmond
 
 <
 Proto Fijian *k(w)ai ‘person of a place or category specified by the modifier’
-  Fij:    Bauan              kai                ‘person of group’ (e.g. kai Viti ‘Fijian’, kai ðolo ‘person of the interior)’
-  Fij:    Wayan              koi                ‘person of a place or category specified by the modifier’ (e.g. koi Niusiladi ‘New Zealander’, koi ata ‘inhabitant of the interior of Viti Levu and other large islands; inlander’)
+  Fij: Bauan       kai           ‘person of group’ (e.g. kai Viti ‘Fijian’, kai ðolo ‘person of the interior)’
+  Fij: Wayan       koi           ‘person of a place or category specified by the modifier’ (e.g. koi Niusiladi ‘New Zealander’, koi ata ‘inhabitant of the interior of Viti Levu and other large islands; inlander’)
 PPn *kai ‘person of one place or kind’ (plural: *ka-kai) (POLLEX)
-  Pn:    Tongan            kai-fonua           ‘commoner’ (fonua ‘land, territory, place)
-  Pn:    Tongan                         ka-kai              ‘people’
-  Pn:    Tongan                         kai-na              ‘occupied by strangers’ (-na stative formative)
-  Pn:    Samoan            ʔa-ʔai              ‘village, town’
-  Pn:    Samoan                         ʔai-nā              ‘be inhabited’
-  Pn:    E Futunan         ka-kai              ‘people, nation’
-  Pn:    E Uvean           kai-fenua           ‘commoner, peasant’ (fenua ‘land’)
-  Pn:    E Uvean                         kai-amaki           ‘bad person who seeks to do ill to others’
-  Pn:    Tokelauan         ka-kai              ‘village, city, town’
-  Pn:    Pukapukan         ka-kai              ‘all the people of a place’
-  Pn:    Tahitian          ai-ani              ‘a shameless beggar’ (ani ‘hungry’)
-  Pn:    Tuamotuan         kai                 ‘body, group of blood relatives’
-  Pn:    Māori             kai-                agentive nominalising prefix
+  Pn: Tongan       kai-fonua     ‘commoner’ (fonua ‘land, territory, place)
+  Pn: Tongan       ka-kai        ‘people’
+  Pn: Tongan       kai-na        ‘occupied by strangers’ (-na stative formative)
+  Pn: Samoan       ʔa-ʔai        ‘village, town’
+  Pn: Samoan       ʔai-nā        ‘be inhabited’
+  Pn: E Futunan    ka-kai        ‘people, nation’
+  Pn: E Uvean      kai-fenua     ‘commoner, peasant’ (fenua ‘land’)
+  Pn: E Uvean      kai-amaki     ‘bad person who seeks to do ill to others’
+  Pn: Tokelauan    ka-kai        ‘village, city, town’
+  Pn: Pukapukan    ka-kai        ‘all the people of a place’
+  Pn: Tahitian     ai-ani        ‘a shameless beggar’ (ani ‘hungry’)
+  Pn: Tuamotuan    kai           ‘body, group of blood relatives’
+  Pn: Māori        kai-          (agentive nominalising prefix)
 >
 
 
@@ -2227,7 +2249,6 @@ mʷaqane.
 
                                                                                          People 51
 
-
    The few forms that reflect *maRuqane all mean ‘male, man’. There is good evidence that
 POc *mwaqane had two uses. As an independent noun, it meant ‘male, man’, but as a directly
 possessed noun (§3.1.1) it meant ‘brother of a woman’. It appears with this sense in the
@@ -2237,57 +2258,57 @@ Admiralties and across Remote Oceanic, establishing its POc origin.
 PAn *RuqaLay ‘male, man’ (ACD)
 PMP *[ma]Ruqanay ‘male, man’ (ACD)
 POc *maRuqane ‘man, male’ (Blust 1993a)
-  PT:   Motu           maruane                      (N) ‘male’
-  MM: Mono-Alu         manuale                      ‘male’ (metathesis)
-  MM: Lungga           marane                       ‘man’
-  MM: Vangunu          maroani                      ‘man’
+  PT: Motu           maruane                      (N) ‘male’
+  MM: Mono-Alu       manuale                      ‘male’ (metathesis)
+  MM: Lungga         marane                       ‘man’
+  MM: Vangunu        maroani                      ‘man’
 >
 
 <
 PAn *ma-RuqaLay ‘male, man’ (ACD)
 PMP *ma-Ruqanay ‘male, man’
 POc *mwaqane ‘man, male; brother (of woman)’ (Milke 1958: *mwane ‘brother (of woman)’)
-  Adm: Seimat          wawan             ‘man as opposed to woman’
-  Adm: Lou             mwanɛ-            ‘brother (woman speaking)’
-  NNG: Manam           mʷane             ‘male’
-  NNG: Terebu          maken             ‘man’
+  Adm:  Seimat         wawan             ‘man as opposed to woman’
+  Adm:  Lou            mwanɛ-            ‘brother (woman speaking)’
+  NNG:  Manam          mʷane             ‘male’
+  NNG:  Terebu         maken             ‘man’
   PT:   Molima         moane             ‘spouse’
-  MM: Vitu             mane              ‘young man’
-  MM: Ramoaaina        muana             ‘man’
-  MM: Kia              mane              ‘man’
-  MM: Kokota           mane              ‘man’
-  SES: Bugotu          mane              ‘male, male person’
-  SES: Gela            mane              ‘male, man, person, native’ (used in compound to identify occupation or place of identity)
-  SES: Longgu          mʷanei            ‘man, male’
-  SES: Lau             ŋʷane             ‘male’
-  SES: Kwaio           wane              ‘man, male, human being’
-  SES: Sa’a            mwane             ‘male, man, boy’
-  SES: To’aba’ita      wane              ‘man, husband; person of unspecified sex’5
-  NCV: Nokuku          mane-             ‘brother’
-  NCV: Kiai            mane-             ‘(elder) brother (of woman)’
-  NCV: Sakao           mana-             ‘(man’s) brother’
-  NCV: Big Nambas      mʷana-            ‘brother (of woman)’
-  NCV: Paamese         mano-             ‘brother (of woman)’
-  NCV: Lewo            mʷene-            ‘brother (of woman)’
-  SV: Sye              mano-             ‘brother (of woman)’
-  SV: N Tanna          mʷanə-            ‘brother (of woman)’
-  SV: Whitesands           nəmwanə-           ‘brother (of woman)’
-  SV: Lenakel              nə-mʷanə-          ‘brother (of woman)’
-  NCal: Nixumwak           mʷala-             ‘brother of woman’ (Lynch 2002)
-  NCal: Iaai               mañi-              ‘opposite sex sibling’
-  Mic: Kiribati            te-mʷāne           ‘man, male’
-  Mic: Kiribati                         mʷāne              ‘male’
-  Mic: Kiribati                         mʷāne-             ‘his/her sibling of opposite sex’
-  Mic:    Marshallese      mʷmʷahan           ‘man, male, wife’s brother’
-  Mic:    Mokilese         mʷān               ‘man, male’
-  Mic:    Puluwatese       mʷǣn               ‘man, male’
-  Mic:    Puluwatese                         mʷǣne-             ‘brother of (a woman)’
-  Mic:    Carolinian       mʷǣl               ‘man, male’
-  Fij:    Bauan            ŋane               ‘sibling of opposite sex’
-  Fij:    Wayan            ŋʷane              ‘sibling of opposite sex’
-  Fij:    Nadrau           umane              ‘male’ (Lynch 2002)
-  Pn:     Tongan           (tuo)ŋaʔane        ‘brother or male cousin of woman’
-  Pn:     Samoan           (tua)ŋane          ‘brother of woman’
+  MM:   Vitu           mane              ‘young man’
+  MM:   Ramoaaina      muana             ‘man’
+  MM:   Kia            mane              ‘man’
+  MM:   Kokota         mane              ‘man’
+  SES:  Bugotu         mane              ‘male, male person’
+  SES:  Gela           mane              ‘male, man, person, native’ (used in compound to identify occupation or place of identity)
+  SES:  Longgu         mʷanei            ‘man, male’
+  SES:  Lau            ŋʷane             ‘male’
+  SES:  Kwaio          wane              ‘man, male, human being’
+  SES:  Sa’a           mwane             ‘male, man, boy’
+  SES:  To’aba’ita     wane              ‘man, husband; person of unspecified sex’5
+  NCV:  Nokuku         mane-             ‘brother’
+  NCV:  Kiai           mane-             ‘(elder) brother (of woman)’
+  NCV:  Sakao          mana-             ‘(man’s) brother’
+  NCV:  Big Nambas     mʷana-            ‘brother (of woman)’
+  NCV:  Paamese        mano-             ‘brother (of woman)’
+  NCV:  Lewo           mʷene-            ‘brother (of woman)’
+  SV:   Sye            mano-             ‘brother (of woman)’
+  SV:   N Tanna        mʷanə-            ‘brother (of woman)’
+  SV:   Whitesands     nəmwanə-           ‘brother (of woman)’
+  SV:   Lenakel        nə-mʷanə-          ‘brother (of woman)’
+  NCal: Nixumwak       mʷala-             ‘brother of woman’ (Lynch 2002)
+  NCal: Iaai           mañi-              ‘opposite sex sibling’
+  Mic:  Kiribati       te-mʷāne           ‘man, male’
+  Mic:  Kiribati       mʷāne              ‘male’
+  Mic:  Kiribati       mʷāne-             ‘his/her sibling of opposite sex’
+  Mic:  Marshallese    mʷmʷahan           ‘man, male, wife’s brother’
+  Mic:  Mokilese       mʷān               ‘man, male’
+  Mic:  Puluwatese     mʷǣn               ‘man, male’
+  Mic:  Puluwatese     mʷǣne-             ‘brother of (a woman)’
+  Mic:  Carolinian     mʷǣl               ‘man, male’
+  Fij:  Bauan          ŋane               ‘sibling of opposite sex’
+  Fij:  Wayan          ŋʷane              ‘sibling of opposite sex’
+  Fij:  Nadrau         umane              ‘male’ (Lynch 2002)
+  Pn:   Tongan         (tuo)ŋaʔane        ‘brother or male cousin of woman’
+  Pn:   Samoan         (tua)ŋane          ‘brother of woman’
 >
 
 [5] ‘May occur alone or in compound as male gender marker or to further identify s.o.’
@@ -2307,7 +2328,7 @@ POc *qata-mwaqane ‘man, male; brother (of woman)’
   NNG: Kove             tamone             ‘man’
   NNG: Sio              tamɔne             ‘man, male’
   NNG: Mangseng         to-tomone          ‘male (human)’
-  NNG: Mamusi (Kakuna) tamane              ‘man, person’
+  NNG: Mamusi (Kakuna)  tamane              ‘man, person’
   NNG: Numbami          tamone             ‘man’
   MM: Vitu              tamoɣane           ‘man’ (mane ‘boy of 12+’)
   MM: Bola              tamuɣane           ‘young man’
@@ -2324,7 +2345,7 @@ PSOc *qata-mʷaqane ‘man, male’ (Lynch 2004b)
   NCV: Raga             atamwani           ‘man, male’
   NCV: Paamese          tomane             ‘male, masculine’
   NCV: Uripiv           n-orman            ‘man, male’
-  NCV: Port Sandwich roman                   ‘cock’
+  NCV: Port Sandwich    roman                   ‘cock’
   NCV: Namakir           tamwaʔan            ‘man, male’
 PSV *n-atamʷaqane, *i-atamʷaqane ‘man, male’
   SV: Sye                n-atman             ‘man, male’
@@ -2356,14 +2377,14 @@ PNGOc *qata-mwaq(a) ‘man, male’
   NNG: Mangap          tom-tom               ‘person’
   NNG: Dami            tamo                  ‘married man’
   NNG: Medebur         toma                  ‘person’
-  NNG: Mapos Buang alam                      ‘people; relatives’
+  NNG: Mapos Buang     alam                  ‘people; relatives’
   SJ:    Tarpia        tamu                  ‘man’
 Proto Markham *ɣaram ‘man’
   NNG: Mari            garam                 ‘man’
   NNG: Wampur          garam                 ‘man’
   NNG: Sirasira        garaŋ(gat)            ‘man’
   NNG: Adzera          garam                 ‘man’
-  NNG: Adzera                     garam(gar)            ‘person’
+  NNG: Adzera          garam(gar)            ‘person’
   NNG: Musom           arom                  ‘man’
   NNG: Sirak           arom                  ‘man’
   NNG: Wampar          gara(gab)             ‘person’
@@ -2374,7 +2395,7 @@ Proto Markham *ɣaram ‘man’
 
 The terms for ‘woman, female’ present one of the most challenging reconstructive tasks in
 Austronesian historical linguistics, with a number of terms derived from PAn *bahi ‘woman,
-female’. (Blust 1982b, ACD). 6 Although POc reflects only two of the many variants reflected in
+female’. (Blust 1982b, ACD).[6] Although POc reflects only two of the many variants reflected in
 non-Oceanic languages, namely *pine and *papine, it has generated variants of its own. With
 some exceptions, most in Vanuatu, *pine occurs only in the compounds presented below.
 
@@ -2391,72 +2412,72 @@ replaced by *w-, again an unexplained change.
 PAn *b‹in›ahi ‘woman, female’ (Blust 1982b, ACD)
 PMP *b‹in›ahi, *ba-b‹in›ahi ‘woman, female’
 POc *pine ‘woman, female; sister of man’
-  PT:     Iduna          vine-             ‘woman of (PLACENAME)’
-  PT:     Iduna                       vine(sikʷa)       ‘widow, widowed woman’
-  PT:     Iduna                       vine(ulatana)     ‘young unmarried girl, teenager’
-  MM: Vitu               vine              ‘young girl’ (cf. tavine ‘woman’)
-  MM: Roviana            vine(ki)          ‘female’
-  NCV: Lo Toga           (ləkʷɛ)vinə       ‘woman’
-  NCV: Lehali            (n-lɔk)vɛn        ‘woman’
-  NCV: Nokuku            le-vina           ‘woman’
-  NCV: Larëvat           ne-vən            ‘woman’
-  NCV: W Ambrym          vēn               ‘woman’
-  NCV: Paamese           a-hine            ‘woman’
-  NCV: Paamese                       a-hino-           ‘sister of man’
-  NCV: Pt Sandwich       pene-             ‘sister of man’
-  NCV: Lewo              vine-             ‘sister of man’
-  SV: Ura                vi-, vinu-        ‘sister of man’
-  SV: N Tanna            vənə-             ‘sister of man’
-  SV: Whitesands         nə-vnə-           ‘sister of man’
-  SV: Lenakel            no-uin-           ‘sister of man’
-  SV: SW Tanna           na-uin-           ‘sister of man’
-  SV: Kwamera            pini-             ‘sister of man’
+  PT:  Iduna          vine-             ‘woman of (PLACENAME)’
+  PT:  Iduna          vine(sikʷa)       ‘widow, widowed woman’
+  PT:  Iduna          vine(ulatana)     ‘young unmarried girl, teenager’
+  MM:  Vitu           vine              ‘young girl’ (cf. tavine ‘woman’)
+  MM:  Roviana        vine(ki)          ‘female’
+  NCV: Lo Toga        (ləkʷɛ)vinə       ‘woman’
+  NCV: Lehali         (n-lɔk)vɛn        ‘woman’
+  NCV: Nokuku         le-vina           ‘woman’
+  NCV: Larëvat        ne-vən            ‘woman’
+  NCV: W Ambrym       vēn               ‘woman’
+  NCV: Paamese        a-hine            ‘woman’
+  NCV: Paamese        a-hino-           ‘sister of man’
+  NCV: Pt Sandwich    pene-             ‘sister of man’
+  NCV: Lewo           vine-             ‘sister of man’
+  SV:  Ura            vi-, vinu-        ‘sister of man’
+  SV:  N Tanna        vənə-             ‘sister of man’
+  SV:  Whitesands     nə-vnə-           ‘sister of man’
+  SV:  Lenakel        no-uin-           ‘sister of man’
+  SV:  SW Tanna       na-uin-           ‘sister of man’
+  SV:  Kwamera        pini-             ‘sister of man’
 PPn *fine ‘woman’
-  Pn:     Tongan         fine(-motuʔa)     ‘elderly woman’
-  Pn:     Tongan                       fine(-mui)        ‘young woman’
-  Pn:     Tongan                       fine(-ʔeiki)      ‘lady’
-  Pn:     Tikopia        fine              ‘term of address to wife or between sisters-in-law’
-  Pn:     Maori          hine              ‘term of address to girl, young woman’
+  Pn:  Tongan         fine(-motuʔa)     ‘elderly woman’
+  Pn:  Tongan         fine(-mui)        ‘young woman’
+  Pn:  Tongan         fine(-ʔeiki)      ‘lady’
+  Pn:  Tikopia        fine              ‘term of address to wife or between sisters-in-law’
+  Pn:  Maori          hine              ‘term of address to girl, young woman’
 >
 
 <
 POc *papine ‘woman, female; sister of man’ (Milke 1958)
- Adm: Kele             pihin                ‘woman’
- Adm: Lou              pɛin                 ‘woman’
- Adm: Nyindrou         bihin                ‘young single woman, virgin’
-  NNG: Roinji            pain             ‘woman’
-  NNG: Gedaged           pain             ‘woman’
-  NNG: Manam             aine             ‘woman, female, girl’
-  NNG: Wogeo             vaine            ‘woman’
-  PT:  Dobu              waine            ‘woman’ (w- for †0̷-)
-  PT:  Gapapaiwa         wavine           ‘woman’ (w- for †v-)
-  PT:  Sinaugoro         vavine           ‘woman’
-  PT:  Motu              hahine           ‘woman, female’
-  MM: Lavongai           aina             ‘woman’
-  MM: Tabar              vevine           ‘woman’
-  MM: Barok              une              ‘woman’
-  MM: Patpatar           hahin            ‘woman’
-  MM: Tolai              vavina           ‘woman’
-  MM: Siar               fain             ‘woman’
-  MM: Petats             hihin            ‘woman’
-  MM: Torau              baina            ‘woman’ (b- for †0̷-)
-  SES: Bugotu            vavine           ‘opposite-sex sibling’
-  SES: Gela              vavine           ‘opposite-sex sibling’
-  NCV: Mota              vavine           ‘woman, female (used also of animals and birds)’
-  NCV: Raga              vavine           ‘woman’
-  NCV: Tamambo           vavine           ‘woman’
-  NCV: Kiai              vavine-          ‘younger sister of male’
-  NCV: Tape              vevn-            ‘sister of man’
-  NCV: Namakir           vavin            ‘woman, female’
-  SV: Sye                vevn-            ‘sister of man’
-  Fij: Rotuman           hani             ‘woman, girl, wife’
-  Pn:  Tongan            fefine           ‘woman’
-  Pn;  Niuean            fifine           ‘woman’
-  Pn:  E Futunan         fafine           ‘woman’
-  Pn:  Pukapukan         wawine           ‘woman, wife’
-  Pn:  Rennellese        hahine           ‘woman’
-  Pn:  Samoan            fafine           ‘woman’
-  Pn:  Tikopia           fafine           ‘woman’
+ Adm: Kele             pihin            ‘woman’
+ Adm: Lou              pɛin             ‘woman’
+ Adm: Nyindrou         bihin            ‘young single woman, virgin’
+ NNG: Roinji           pain             ‘woman’
+ NNG: Gedaged          pain             ‘woman’
+ NNG: Manam            aine             ‘woman, female, girl’
+ NNG: Wogeo            vaine            ‘woman’
+ PT:  Dobu             waine            ‘woman’ (w- for †0̷-)
+ PT:  Gapapaiwa        wavine           ‘woman’ (w- for †v-)
+ PT:  Sinaugoro        vavine           ‘woman’
+ PT:  Motu             hahine           ‘woman, female’
+ MM:  Lavongai         aina             ‘woman’
+ MM:  Tabar            vevine           ‘woman’
+ MM:  Barok            une              ‘woman’
+ MM:  Patpatar         hahin            ‘woman’
+ MM:  Tolai            vavina           ‘woman’
+ MM:  Siar             fain             ‘woman’
+ MM:  Petats           hihin            ‘woman’
+ MM:  Torau            baina            ‘woman’ (b- for †0̷-)
+ SES: Bugotu           vavine           ‘opposite-sex sibling’
+ SES: Gela             vavine           ‘opposite-sex sibling’
+ NCV: Mota             vavine           ‘woman, female (used also of animals and birds)’
+ NCV: Raga             vavine           ‘woman’
+ NCV: Tamambo          vavine           ‘woman’
+ NCV: Kiai             vavine-          ‘younger sister of male’
+ NCV: Tape             vevn-            ‘sister of man’
+ NCV: Namakir          vavin            ‘woman, female’
+ SV:  Sye              vevn-            ‘sister of man’
+ Fij: Rotuman          hani             ‘woman, girl, wife’
+ Pn:  Tongan           fefine           ‘woman’
+ Pn;  Niuean           fifine           ‘woman’
+ Pn:  E Futunan        fafine           ‘woman’
+ Pn:  Pukapukan        wawine           ‘woman, wife’
+ Pn:  Rennellese       hahine           ‘woman’
+ Pn:  Samoan           fafine           ‘woman’
+ Pn:  Tikopia          fafine           ‘woman’
 >
 
 [6] Oceanic forms are derived from PMP *b‹in›ahi, a form of the root *bahi infixed with *‹in› PERFECTIVE.
@@ -2466,18 +2487,18 @@ POc *papine ‘woman, female; sister of man’ (Milke 1958)
 
 <
 POc *paipine ‘woman, female; sister (of man)’
- PT:    Suau (Daui)     waihin             ‘woman’ (w- for †h-)
- PT:    Nimoa           waiine             ‘woman’ (w- for †0̷-)
- SES: Bugotu            vaivine            ‘woman, female’
- SES: Gela              vaivine            ‘woman’
- SES: Bauro             hehene             ‘woman’ (assimilation of *ai > e)
- SES: Fagani            hehene             ‘woman’
- SES: Kahua             hehene             ‘woman’
- SES: Arosi             haihine            ‘woman’
- Mic: Kiribati          te-aiine           ‘woman’
- Mic: Chuukese          fēfiɾ              ‘woman; womanhood; female; left hand or side’
- Mic: Chuukese                        fēfiɾa-           ‘sister (of man)’
-  Mic:   Woleaian        faifire           ‘woman, sister’
+ PT:  Suau (Daui)     waihin             ‘woman’ (w- for †h-)
+ PT:  Nimoa           waiine             ‘woman’ (w- for †0̷-)
+ SES: Bugotu          vaivine            ‘woman, female’
+ SES: Gela            vaivine            ‘woman’
+ SES: Bauro           hehene             ‘woman’ (assimilation of *ai > e)
+ SES: Fagani          hehene             ‘woman’
+ SES: Kahua           hehene             ‘woman’
+ SES: Arosi           haihine            ‘woman’
+ Mic: Kiribati        te-aiine           ‘woman’
+ Mic: Chuukese        fēfiɾ              ‘woman; womanhood; female; left hand or side’
+ Mic: Chuukese        fēfiɾa-           ‘sister (of man)’
+ Mic: Woleaian        faifire           ‘woman, sister’
 >
 
 56 Malcolm Ross and Meredith Osmond
@@ -2490,38 +2511,39 @@ element is often reduced to ta-.
 
 <
 POc *qata-pine ‘woman, female’
-  NNG: Bariai             taine          ‘woman’
-  NNG: Sio                taine          ‘woman, sister’
-  NNG: Ulau-Suain         tein           ‘woman’
-  MM: Vitu                tavine         ‘woman’
-  MM: Bola (Harua)        ɣatavine       ‘woman’
-  MM: Nakanai             hatavile       ‘woman, female’; ‘sister, man speaking’
-  MM: Meramera            tavine         ‘woman’
-  MM: E Kara              tefin          ‘woman’
-  MM: W Kara              tefin          ‘woman’
-  MM: Nalik               rəfin          ‘woman’
+  NNG: Bariai        taine          ‘woman’
+  NNG: Sio           taine          ‘woman, sister’
+  NNG: Ulau-Suain    tein           ‘woman’
+  MM:  Vitu          tavine         ‘woman’
+  MM:  Bola (Harua)  ɣatavine       ‘woman’
+  MM:  Nakanai       hatavile       ‘woman, female’; ‘sister, man speaking’
+  MM:  Meramera      tavine         ‘woman’
+  MM:  E Kara        tefin          ‘woman’
+  MM:  W Kara        tefin          ‘woman’
+  MM:  Nalik         rəfin          ‘woman’
 PSOc *qata-vine ‘woman, female’ (Lynch 2004b)
-  NCV: Mota               tavine         ‘woman, female’
-  NCV: Uripiv             n-esevin       ‘woman, female’
-  NCV: S Efate            tafin          ‘woman servant, slave’
+  NCV: Mota          tavine         ‘woman, female’
+  NCV: Uripiv        n-esevin       ‘woman, female’
+  NCV: S Efate       tafin          ‘woman servant, slave’
 PSV *n-atavine, *i-atavine (Lynch 2004b)
-  SV: Sye                 n-ahiven       ‘woman, female’
-  SV: Ura                 y-arvin        ‘woman, female’
-  SV: Anejom              n-ataheñ       ‘girl, female; sister of male’
+  SV:  Sye           n-ahiven       ‘woman, female’
+  SV:  Ura           y-arvin        ‘woman, female’
+  SV:  Anejom        n-ataheñ       ‘girl, female; sister of male’
 Proto Tanna *p-atavine
-  SV: N Tanna             p-etan         ‘woman, female’
-  SV: Whitesands          p-ətan         ‘woman, female’
-  SV: Lenakel             p-eravɛn       ‘woman, female’
-  SV: SW Tanna            p-ilavən       ‘woman, female’
+  SV:  N Tanna        p-etan         ‘woman, female’
+  SV:  Whitesands     p-ətan         ‘woman, female’
+  SV:  Lenakel        p-eravɛn       ‘woman, female’
+  SV:  SW Tanna       p-ilavən       ‘woman, female’
 cf. also:
-   Pn:    Tongan         taʔa-hine         ‘girl, young woman’ (borrowing)
-   Pn:    Rennellese     taʔa-hine         ‘term of reference for a sister, daughter, niece’
-   Pn:    Samoan         te-ine            ‘girl’
+  Pn:  Tongan         taʔa-hine      ‘girl, young woman’ (borrowing)
+  Pn:  Rennellese     taʔa-hine      ‘term of reference for a sister, daughter, niece’
+  Pn:  Samoan         te-ine         ‘girl’
 >
 
    Data from the westerly part of the north coast of New Guinea point to a variant *mapine
 for *papine:
 
+__formgroup__
   NNG: Kaiep             main              ‘woman’
   NNG: Kairiru           moin              ‘woman’
   SJ:  Tarpia            mupin             ‘woman’
@@ -2533,6 +2555,7 @@ for *papine:
 
 This in turn also seems to have formed a compound *(qa)ta-mapine:
 
+__formgroup__
      NNG: Kove                   tamine                ‘woman’
      NNG: Ali                    tamiñ                 ‘woman’
      NNG: Mutu                   tamen                 ‘woman’
@@ -2556,8 +2579,8 @@ __block__
 
 It is sometimes difficult to align terms from different languages, first because in most dictionaries
 age cohort terms appear to be incompletely listed, and secondly because dictionaries typically give
-only relative ages,7 and definitions like ‘young girl’ are vague. However, the five basic terms in
-an eight-language sample are laid out in Table 13.8
+only relative ages,[7] and definitions like ‘young girl’ are vague. However, the five basic terms in
+an eight-language sample are laid out in Table 13.[8]
 
     Several observations are in order. The empty cells in Table 13 marked with ‘…’ might be
 filled if the data were more complete, but the empty cells marked with ‘—’ are probably
@@ -2593,14 +2616,13 @@ Mwotlap also has a term n-ɛt su [ART-person little] ‘children’ contrasting 
 58 Malcolm Ross and Meredith Osmond
 
 
-                                            Table 13         Age cohort terms in eight Oceanic languages
+: Table 13         Age cohort terms in eight Oceanic languages
 
+__table__
                               Adm              NNG              NNG      MM              SES                  NCV                  NCV     Fij
                               Khehek           Numbami          Mutu     Nehan           To’aba’ita           Mwotlap              Paamese Wayan
  1 young person               nah              ekapa/kolapa     pain     keketiki        wela                 na-mʷalmʷal/nυ-lυmɣɛp ēhon    driadria
-
  2 young adult                —                kolapa asasa     ŋēr pāɣu mamahoho-liki   —                    —                    —        —
-
      marriageable young woman lupup pihiŋ/pecih ekapa wowe      nabiu    komadia         θāriʔi               —                    atouli   vulau
      marriageable young man   lupup kemeŋ      kolapa dewala …           mamanai-liki    ʔalakʷa, darā (v)    —                    meakoi   saravou
                                                                                          kʷaiagaŋaʔi,                              ahin,
@@ -2616,8 +2638,9 @@ Mwotlap also has a term n-ɛt su [ART-person little] ‘children’ contrasting 
                                                                                                                                       People 59
 
 
-                          Table 14        Age cohort terms in eight Oceanic languages from birth to the onset of adulthood
+: Table 14        Age cohort terms in eight Oceanic languages from birth to the onset of adulthood
 
+__table__
                     Adm               NNG                 NNG               MM           SES               NCV            NCV       Fij
                     Khehek            Numbami             Mutu              Nehan        To’aba’ita        Mwotlap        Paamese   Wayan
                                                                                                            na-mʷalmʷal/nʊ-
@@ -2657,6 +2680,7 @@ and 14. Reconstruction in this semantic domain is not easy, as a wealth of local
 cohorts are found but few terms that have survived across a number of Oceanic primary
 subgroups
 
+
 2.4.2 Young person from birth to onset of adulthood
 
 The English word ‘child’ has two meanings: (1) offspring and (2) young boy or girl. Thus (1)
@@ -2676,7 +2700,7 @@ something like English ‘fellow, guy’, i.e. a colloquial way of referring to 
 number of CMP languages the term for a newborn is ‘red child’, and in some of these the term
 ‘red’ reflects PMP *ma-iRaq ‘red’ (ACD). In PCEMP and POc this became *meRaq
 ‘red’ (vol.2:206; ACD). The terms below are drawn from a geographically well distributed
-range of CMP languages.9 The association between ‘red’ and ‘newborn’ seems to have been
+range of CMP languages.[9] The association between ‘red’ and ‘newborn’ seems to have been
 lost in early Oceanic, but POc *meRa seems to have had the specific meaning ‘newborn’ (see
 Misima and Arosi glosses) and the metonomic usage ‘young person from birth to onset of
 adulthood’.
@@ -2687,57 +2711,56 @@ adulthood’.
 
 <
 PCEMP *anak meRaq ‘newborn baby’ (*anak ‘child’, *meRaq ‘red’)
-  CMP: Hawu            ana mea           ‘newborn, infant’
-  CMP: Helong          ana mea           ‘newborn, infant, baby (pre-toddler)’
-  CMP: Tetun           kau mea           ‘newborn, infant’ (kau-k oan ‘very young child’; mea-k/-n ‘gold, rust, reddish’)
-  CMP: Buru:           an-miha-n         ‘newborn, infant’ (regular truncation of ana-t/-n ‘child, offspring’, miha-t/-n ‘reddish-brown’)
+  CMP: Hawu           |ana mea|         ‘newborn, infant’
+  CMP: Helong         |ana mea|         ‘newborn, infant, baby (pre-toddler)’
+  CMP: Tetun          |kau mea|         ‘newborn, infant’ (kau-k oan ‘very young child’; mea-k/-n ‘gold, rust, reddish’)
+  CMP: Buru:          an-miha-n         ‘newborn, infant’ (regular truncation of ana-t/-n ‘child, offspring’, miha-t/-n ‘reddish-brown’)
 POc *meRa ‘newborn; young person from birth to onset of adulthood’
-  PT:    Misima        me-melo-na        ‘infant; newborn’ (-o for †-a)
-  PT:    Motu          mero              ‘child’ (-o for †-a)
-  PT:    Sinaugoro     mero              ‘child’ (-o for †-a)
+  PT:  Misima         me-melo-na        ‘infant; newborn’ (-o for †-a)
+  PT:  Motu           mero              ‘child’ (-o for †-a)
+  PT:  Sinaugoro      mero              ‘child’ (-o for †-a)
 PEOc *mʷeRa ‘newborn; young person from birth to onset of adulthood’ (Cashmore 1969: *mʷela ‘child’)
-  SES: Longgu          mwela             ‘child, young person’
-  SES: Longgu                     mʷela-kiki        ‘child’ (kiki ‘small’)
-  SES: Arosi           mʷera             ‘very small child’
-  SES: Lau             wela              ‘child, person’
-  SES: Lau                     wela ābu          ‘very young infant’ (ābu ‘taboo’)
-  SES: Kwaio           wela              ‘child’
-  SES: Sa’a            mwela             ‘child’
-  SES: To’aba’ita      wela              ‘child of any age up to young unmarried adult’
-  SES: Kwaio           wela              ‘child’
-  SES: ’Are’are        mera              ‘child of any age up to young unmarried adult’
-  SES: ’Are’are                     mera masike       ‘child 3–8 years old’ (masike ‘small’)
-  SES: ’Are’are                     iʔi ni mera       ‘child 8 –12 years old’
-  SES: ’Are’are                     reoreo ni mera ‘child 8 –15 years old’ (reoreo ‘wild yam’)
-  SES: ’Are’are                     sisiri ni mera    ‘child 8 –15 years old’
-  SES: ’Are’are                     mera haoru        ‘child 12–16 years old’ (haoru ‘new, young’)
-  SES: ’Are’are                     mera nanau        ‘male 16–20 years old’ (nanau ‘unmarried male’)
-  SES: Arosi           mʷera             ‘very small child’[10]
+  SES: Longgu         mwela             ‘child, young person’
+  SES: Longgu         mʷela-kiki        ‘child’ (kiki ‘small’)
+  SES: Arosi          mʷera             ‘very small child’
+  SES: Lau            wela              ‘child, person’
+  SES: Lau            |wela ābu|        ‘very young infant’ (ābu ‘taboo’)
+  SES: Kwaio          wela              ‘child’
+  SES: Sa’a           mwela             ‘child’
+  SES: To’aba’ita     wela              ‘child of any age up to young unmarried adult’
+  SES: Kwaio          wela              ‘child’
+  SES: ’Are’are       mera              ‘child of any age up to young unmarried adult’
+  SES: ’Are’are       |mera masike|     ‘child 3–8 years old’ (masike ‘small’)
+  SES: ’Are’are       |iʔi ni mera|     ‘child 8 –12 years old’
+  SES: ’Are’are       |reoreo ni mera|  ‘child 8 –15 years old’ (reoreo ‘wild yam’)
+  SES: ’Are’are       |sisiri ni mera|  ‘child 8 –15 years old’
+  SES: ’Are’are       |mera haoru|      ‘child 12–16 years old’ (haoru ‘new, young’)
+  SES: ’Are’are       |mera nanau|      ‘male 16–20 years old’ (nanau ‘unmarried male’)
+  SES: Arosi          mʷera             ‘very small child’[10]
 PNCV *mwera, *mʷara ‘child’ (Clark 2009)
-  NCV: Lo Toga         werə              ‘baby’
-  NCV: Lehali          (sus)wæj          ‘child’
-  NCV: Volow           (n-ɛt)mʷɛj        ‘child’
-  NCV: Mwotlap         (n-ɪt)mʷɛj        ‘child’
-  NCV: Mota            mwera             ‘child’
-  NCV: Nokuku          mʷer              ‘child (of)’
-  NCV: Nokuku                     mʷer (kekara)     ‘baby’ (kekara ‘red’)
-  NCV: Kiai            mera              ‘man, person, human being’
-  NCV: NE Ambae        mʷera             ‘man’
-  NCV: W Ambrym        mere              ‘small, a little bit, young, thin...’,
-  NCV: W Ambrym                      (tesi)mre                    ‘child, young one’
-     NCV: Uripiv        mweri                        ‘man, fellow, people’
-     NCV: Port Sandwich mʷera(ur)                    ‘bush man’ (la-ur ‘interior forest’)
-     NCV: Paamese       a-mē                         ‘adult married man in village; larrikin, young man who acts tough’
-     NCV: Lewo                  mwē                  ‘young’
-     NCV: S Efate               na-mʷer              ‘people
-     Pn:  Emae                  mea                  ‘baby’
+  NCV: Lo Toga        werə              ‘baby’
+  NCV: Lehali         (sus)wæj          ‘child’
+  NCV: Volow          (n-ɛt)mʷɛj        ‘child’
+  NCV: Mwotlap        (n-ɪt)mʷɛj        ‘child’
+  NCV: Mota           mwera             ‘child’
+  NCV: Nokuku         mʷer              ‘child (of)’
+  NCV: Nokuku         |mʷer (kekara)|   ‘baby’ (kekara ‘red’)
+  NCV: Kiai           mera              ‘man, person, human being’
+  NCV: NE Ambae       mʷera             ‘man’
+  NCV: W Ambrym       mere              ‘small, a little bit, young, thin...’,
+  NCV: W Ambrym       (tesi)mre         ‘child, young one’
+  NCV: Uripiv         mweri             ‘man, fellow, people’
+  NCV: Port Sandwich  mʷera(ur)         ‘bush man’ (la-ur ‘interior forest’)
+  NCV: Paamese        a-mē              ‘adult married man in village; larrikin, young man who acts tough’
+  NCV: Lewo           mwē               ‘young’
+  NCV: S Efate        na-mʷer           ‘people
+  Pn:  Emae           mea               ‘baby’
 >
 
 [10] Given that Fox (1978) also glosses reduplicated mʷera mʷera as ‘very small child’, we wonder whether
      his gloss of mʷera is erroneous.
 
 62 Malcolm Ross and Meredith Osmond
-
 
    It is possible that the apparent PNCV doublet *mʷara above is the product of reflexes of
 *mʷera that have undergone contamination by reflexes of POc *mʷala ‘young unmarried
@@ -2748,43 +2771,45 @@ far between. POc seems simply to have used the terms for ‘male’ (§2.3.1) an
 ‘female’ (§2.3.2) alone or as modifiers to a ‘young person’ term, as in ’Are’are (SES) mera
 māne ‘boy’ and mera keni ‘girl’.
 
+
 2.4.2.1 Baby, infant, newborn
 
 POc apparently had two terms for ‘baby’, *meRa-meRa and *kʷawaq. No language has been
 found in which they contrast. The use of reduplication in POc for a diminutive or a small
 version of the denotatum of the root was noted in vol.3:50–51. POc *meRa-meRa thus meant
 ‘baby, very young child’, a small version of *mʷeRa ‘young person from birth to onset of
-adulthood’ (§2.4.2). Polynesian reflexes are often modifiers of a reflex of PPn *tama ‘child’. 11
+adulthood’ (§2.4.2). Polynesian reflexes are often modifiers of a reflex of PPn *tama ‘child’.[11]
 
 <
 POc *meRa-meRa ‘baby, very young child’
- NNG: Maleu            (la)mela-mela    ‘child’
- PT:    Gumawana       me-meya          ‘a baby’
- PT:    Tawala         meya-meya        ‘tiny baby, up to a few months old’ (for †mela- mela)
- PT:    Dobu           (gʷama) meya-meya-na ‘baby, suckling’ (gʷama ‘child’) (for †mela-mela)
- SES: Arosi            mʷera-mʷera      ‘very small child’
- NCV: Veraa            mʷɛr-mʷɛrɛ       ‘child’
- NCV: Vurës            mʷir-mʷiar       ‘child’
- NCV: Mwesen           mʷɛr-mʷɛr        ‘child’
- NCV: Dorig            mʷɛr-mʷɛr        ‘child’
- NCV: Nokuku           mʷer-mʷera       ‘child; give birth’
+ NNG: Maleu         (la)mela-mela    ‘child’
+ PT:  Gumawana      me-meya          ‘a baby’
+ PT:  Tawala        meya-meya        ‘tiny baby, up to a few months old’ (for †mela- mela)
+ PT:  Dobu          |(gʷama) meya-meya-na|  ‘baby, suckling’ (gʷama ‘child’) (for †mela-mela)
+ SES: Arosi         mʷera-mʷera      ‘very small child’
+ NCV: Veraa         mʷɛr-mʷɛrɛ       ‘child’
+ NCV: Vurës         mʷir-mʷiar       ‘child’
+ NCV: Mwesen        mʷɛr-mʷɛr        ‘child’
+ NCV: Dorig         mʷɛr-mʷɛr        ‘child’
+ NCV: Nokuku        mʷer-mʷera       ‘child; give birth’
 PNPn *tama-mea-mea ‘newborn child’
- Pn:    Samoan         (tama)mea-mea ‘newly born baby (from birth to 2 months)’
- Pn:    Luangiua       (kama)-mea       ‘small’
- Pn:    Pileni         me-mea           ‘child, baby’
-    Pn:   Takuu              (tama) meamea       ‘baby’
-    Pn:   Rennellese         (tama) mea-mea      ‘new born child’
-    Pn:   Tikopia            me-mēa              ‘babe, infant’
-    Pn:   Māori              (tama) mea-mea      ‘son by a slave wife’
+ Pn:  Samoan        (tama)mea-mea    ‘newly born baby (from birth to 2 months)’
+ Pn:  Luangiua      (kama)-mea       ‘small’
+ Pn:  Pileni        me-mea           ‘child, baby’
+ Pn:  Takuu         |(tama) meamea|    ‘baby’
+ Pn:  Rennellese    |(tama) mea-mea|   ‘new born child’
+ Pn:  Tikopia       me-mēa           ‘babe, infant’
+ Pn:  Māori         |(tama) mea-mea|   ‘son by a slave wife’
 cf. also:
-   PT:    Misima             melu-melu           ‘young, infant; youngest child’
-   PT:    Misima                          me-melóna           ‘infant; newborn’
+ PT:  Misima        melu-melu        ‘young, infant; youngest child’
+ PT:  Misima        me-melóna        ‘infant; newborn’
 >
 
 [11] PPn *tama ‘child’ is derived from POc *tama- ‘father’, enshrining a development whereby *tama came
      to denote the reciprocal relationship between father and child. Note Gela tama ‘prefix of reciprocal
      relation’, e.g. tama-dale ‘father and children’, tama-kukua ‘a man and his grandparents’, tama-vavineni
      ‘sister and brother’; Bauan vei-tama-ni (V) ‘be related as father and child’, (N) ‘father and child’.
+
                                                                                         People 63
 
 
@@ -2795,26 +2820,26 @@ it.
 
 <
 POc *kʷawaq ‘baby, small child’ (Lynch 2004b: Proto Southern Melanesian *kawaq).
-  PT:    Dawawa           wawai             ‘infant’
-  PT:    Misima           wawaya            ‘baby, child’
-  MM: Tinputz             koaʔ              ‘child (before puberty), offspring’
-  MM: Teop                kua               ‘child’
+  PT:   Dawawa           wawai             ‘infant’
+  PT:   Misima           wawaya            ‘baby, child’
+  MM:   Tinputz          koaʔ              ‘child (before puberty), offspring’
+  MM:   Teop             kua               ‘child’
 PSV *kova(q) ‘baby, small child’ (Lynch 2004b)
-  SV: Lenakel             kova              ‘baby, small child’
-  SV: Kwamera             kova              ‘baby, small child’
-  NCal: Pije              hawak, hyaok      ‘child’
-  NCal: Fwâi              haok              ‘child’
-  NCal: Nemi              hyaok             ‘child’
+  SV:   Lenakel          kova              ‘baby, small child’
+  SV:   Kwamera          kova              ‘baby, small child’
+  NCal: Pije             hawak, hyaok      ‘child’
+  NCal: Fwâi             haok              ‘child’
+  NCal: Nemi             hyaok             ‘child’
 Proto Central Micronesian *ka(w)o ‘newly born, infant’ (Bender et al. 2003)
-  Mic: Kiribati           te-kao            ‘umbilical cord’.
-  Mic: Marshallese        kaw               ‘foetus, embryo, still-born baby’;
-  Mic: Chuukese           kƨ̄-kɔ            ‘baby (up to three months)’
-  Mic: Chuukese                        (ni)kkɔ           ‘baby girl’
-  Mic: Chuukese                        (wu)kkɔ           ‘baby boy’
-  Mic: Puluwatese         (li)kkɔ           ‘baby girl’
-  Mic: Puluwatese                        (wu)kkɔ           ‘baby boy’
-  Mic: Carolinian         xɔ̄xɔ             ‘baby, infant’
-  Fij:   Wayan            -kawa             ‘that which is reproduced by a plant or animal: seed, progeny, offspring, descendants, stock’
+  Mic:  Kiribati         te-kao            ‘umbilical cord’.
+  Mic:  Marshallese      kaw               ‘foetus, embryo, still-born baby’;
+  Mic:  Chuukese         kƨ̄-kɔ             ‘baby (up to three months)’
+  Mic:  Chuukese         (ni)kkɔ           ‘baby girl’
+  Mic:  Chuukese         (wu)kkɔ           ‘baby boy’
+  Mic:  Puluwatese       (li)kkɔ           ‘baby girl’
+  Mic:  Puluwatese       (wu)kkɔ           ‘baby boy’
+  Mic:  Carolinian        xɔ̄xɔ             ‘baby, infant’
+  Fij:  Wayan            -kawa             ‘that which is reproduced by a plant or animal: seed, progeny, offspring, descendants, stock’
 >
 
 2.4.2.2 Child
@@ -2842,13 +2867,13 @@ relationship.
 
 <
 POc *-liki ‘small’ (vol.2:194)
- MM: Nakanai                e-gu-li-liki      ‘child (not offspring)’
- MM: Nakanai                           e-gu-liki-liki    ‘children’
- MM: Nalik                  nafna-lik         ‘child’
- MM: Madak                  kā-lik            ‘children’
- MM: Sursurunga             ka-lik            ‘child, baby, person (used of males of any age, but only of female children)’
- MM: Sursurunga                           ka-lilik          ‘children, guys (colloquial)’
-    MM: Patpatar            tama-lik          ‘baby boy (the small member of the father–child pairing)’
+ MM: Nakanai         e-gu-li-liki      ‘child (not offspring)’
+ MM: Nakanai         e-gu-liki-liki    ‘children’
+ MM: Nalik           nafna-lik         ‘child’
+ MM: Madak           kā-lik            ‘children’
+ MM: Sursurunga      ka-lik            ‘child, baby, person (used of males of any age, but only of female children)’
+ MM: Sursurunga      ka-lilik          ‘children, guys (colloquial)’
+ MM: Patpatar        tama-lik          ‘baby boy (the small member of the father–child pairing)’
 >
 
 There is good evidence that Proto Polynesian distinguished between singular *tama-qiti
@@ -2859,7 +2884,7 @@ POc *qitik ‘small’ (vol.2:193–194)
 PPn *tama-qiti ‘child’ (* qiti ‘small’) (POLLEX)
   Pn:    Tongan             tama-siʔi          ‘child’ (metathesis: PPn *-qiti > Pre-Tongan *-ʔisi > -siʔi)
   Pn:    Samoan             tama-iti           ‘children’
-  Pn:    Samoan                          tama-iti-iti       ‘small child’
+  Pn:    Samoan             tama-iti-iti       ‘small child’
   Pn:    Tokelauan          tama-iti           ‘child; offspring; childhood, youth; immature, young’
   Pn:    Anutan             tama-ti            ‘child’
   Pn:    Emae               tama-ti-iti        ‘child’
@@ -2901,6 +2926,7 @@ PPn *tama-riki ‘children’ (POLLEX)
 
    Finally, the items below simply reflect one of the terms for ‘small’.
 
+__formgroup__
   PT: Tawala                kiki-              ‘little, young rather than short of height’
   MM: Notsi                 ci                 ‘child’ (< PWOc *siki)
   MM: Lihir                 cik                ‘child’ (< PWOc *siki)
@@ -2923,28 +2949,28 @@ for ‘person’ (perhaps POc *tau; §2.2.1.1), sometimes omitted, and a reflex 
 PAn *baqeRuh ‘new; bachelor’ (ACD)
 POc *paqoRu ‘new, young, recent’ (vol.2:203)
 POc *tau paqoRu ‘young person of marriageable age’ (Pawley 1982a:270)
-  PT:    Motu           tauhau             ‘youth, young man’ (for †tauharu)
-  Pn:    Tongan         tāupoʔou           ‘virgin, maiden, an esp. attractive young woman’
-  Pn:    Samoan         tāu pōu            ‘title of village maiden’
-  Pn:    E Futunan      taupoʔou           ‘virgin’
-  Pn:    Rennellese     taupoʔou           ‘unmarried person’
+  PT:  Motu           tauhau            ‘youth, young man’ (for †tauharu)
+  Pn:  Tongan         tāupoʔou          ‘virgin, maiden, an esp. attractive young woman’
+  Pn:  Samoan         |tāu pōu|         ‘title of village maiden’
+  Pn:  E Futunan      taupoʔou          ‘virgin’
+  Pn:  Rennellese     taupoʔou          ‘unmarried person’
 cf. also
-   NNG: Medebur          kaidik-waun       ‘young man’ (kaidik ‘man’, waun ‘new, young’)
-   NNG: Mutu             ŋēr pāɣu          ‘young adult’ (ŋēr ‘person’, pāɣu ‘new’)
-   NNG: Atui             ul-po             ‘young man’ (po ‘new’)
-   PT:   Gumawana        tubu-wau          ‘young man, normally 15–30 years of age’ (tubu ‘grandchild, grandparent’, vau ‘new’)
-  PT:    Misima          he-val            ‘young man’ (valu- ‘new)
-  PT:    Sinaugoro       fou variɣu        ‘teenage virgin’ (variɣu ‘new’)
-  MM:    Torau           podo-auru         ‘young man’ (podo ‘be born’, auru ‘new’)
-  MM:    Mono-Alu        poro-haulu        ‘young man’ (poro ‘be born’, haulu ‘new’)
-  SES:   Bugotu          (lu)vaolu         ‘youth’
-  SES    Gela            vaolu             ‘new; young, fresh, in one’s prime’
-  SES:   ’Are’are        (māne) haoru      ‘a young unmarried man; a newcomer’ (māne ‘male’. haoru ‘new’)
-  SES:   ’Are’are                       (keni) haoru      ‘a marriageable girl’ (keni 'female’, haoru ‘new’)
-  SES: Ulawa             (keni) haʔolu     ‘maiden’ (keni 'female’)
-  NCV: Lewo              yaru viu lala     ‘the young guys’ (yaru ‘people’, viu ‘new’, lala PLURAL)
-  Fij:   Bauan           ðaura-vou         ‘youth, young man of marriageable age’ (vou new’)
-  Fij:   Wayan           sara-vou          ‘young man of marriageable age’ (vou new’)
+  NNG: Medebur        kaidik-waun       ‘young man’ (kaidik ‘man’, waun ‘new, young’)
+  NNG: Mutu           |ŋēr pāɣu|        ‘young adult’ (ŋēr ‘person’, pāɣu ‘new’)
+  NNG: Atui           ul-po             ‘young man’ (po ‘new’)
+  PT:  Gumawana       tubu-wau          ‘young man, normally 15–30 years of age’ (tubu ‘grandchild, grandparent’, vau ‘new’)
+  PT:  Misima         he-val            ‘young man’ (valu- ‘new)
+  PT:  Sinaugoro      fou variɣu        ‘teenage virgin’ (variɣu ‘new’)
+  MM:  Torau          podo-auru         ‘young man’ (podo ‘be born’, auru ‘new’)
+  MM:  Mono-Alu       poro-haulu        ‘young man’ (poro ‘be born’, haulu ‘new’)
+  SES: Bugotu         (lu)vaolu         ‘youth’
+  SES  Gela           vaolu             ‘new; young, fresh, in one’s prime’
+  SES: ’Are’are       |(māne) haoru|    ‘a young unmarried man; a newcomer’ (māne ‘male’. haoru ‘new’)
+  SES: ’Are’are       |(keni) haoru|    ‘a marriageable girl’ (keni 'female’, haoru ‘new’)
+  SES: Ulawa          |(keni) haʔolu|   ‘maiden’ (keni 'female’)
+  NCV: Lewo           |yaru viu lala|   ‘the young guys’ (yaru ‘people’, viu ‘new’, lala PLURAL)
+  Fij: Bauan          ðaura-vou         ‘youth, young man of marriageable age’ (vou new’)
+  Fij: Wayan          sara-vou          ‘young man of marriageable age’ (vou new’)
 >
 
 66 Malcolm Ross and Meredith Osmond
