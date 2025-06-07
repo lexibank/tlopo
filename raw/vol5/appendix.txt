@@ -1,0 +1,236 @@
+12            Appendix A: Data sources
+
+
+
+A.1 Introduction
+Below are listed data sources consulted in the course of the research reported in this volume.
+These sources are divided into data collections which collate lexical material from a number of
+languages, published or publicly available dictionaries and vocabularies, and unpublished
+sources.
+
+
+A.2 Data collections
+We have made use of a number of published or publicly available data collections, each of
+which collates data across part or all of Oceanic:
+    Oceanic as a whole: Blust & Trussell (ongoing), Greenhill, Blust & Gray (2008)
+    Languages of the Rai Coast (northeast New Guinea): Lincoln 1976
+    Solomon Islands (including Temotu): Tryon & Hackman (1983)
+    Vanuatu: Tryon (1976)
+    North and Central Vanuatu: Clark (2009)
+    South Vanuatu: Lynch (2001c)
+    Micronesian: Bender et al. (2003)
+    Polynesian: Clark & Biggs (2006) (there is now an online version at http://pollex.org.nz/
+        about/; see also Greenhill & Clark 2011)
+
+
+A.3 Published or publicly available dictionaries and vocabularies
+These sources are listed in the references at the end of the volume. They are listed here in
+alphabetical sequence by language name:
+
+Amara                                  Thurston (1996a)
+Anejom                                 Lynch & Tepahae (2001)
+Anus                                   Grace (1971)
+Araki                                  François (2002, 2008)
+Aria                                   Thurston (1996b)
+’Are’are                               Geerts (1970)
+
+
+                                             601
+602 Appendix A
+
+
+Arosi                            Fox (1978)
+Bing                             Simons & Simons (1977)
+Bola                             Goodenough (1997)
+Bulu                             Goodenough (1997)
+Bugotu                           Ivens (1940)
+Bunama                           Lithgow (2007)
+Carolinian                       Jackson & Marck (1991)
+Cèmuhî                           Rivierre (1994)
+Chuukese (= Trukese)             Goodenough & Sugita (1980)
+Bauan Fijian (= Standard Fijian) Capell (1941)
+Boumaa Fijian                    R. M. W. Dixon (1988)
+                                 J. W. Dixon (n. d.), Grant (1953), Lithgow & Lith-
+Dobu
+                                                                       gow (2006)
+Fwâi                             Haudricourt & Ozanne-Rivierre (1982)
+Gapapaiwa                        McGuckin & McGuckin (1992)
+Gedaged                          Mager (1952)
+Gela (= Nggela)                  Fox (1955)
+Halia                            Allen & Allen (2006)
+Hawaiian                         Pukui & Elbert (1971)
+Iamalele                         Beaumont & Beaumont (2007)
+Jawe                             Haudricourt & Ozanne-Rivierre (1982)
+Kairiru                          Wivell (1981)
+Kayupulau                        Grace (1971)
+Kilivila                         Senft (1986)
+Kiribati (= Gilbertese)          Sabatier (1971), Thaman (1987)
+Kokota                           Palmer (2004)
+Kosraean (= Kusaiean)            Lee (1976)
+Kove                             Chowning (2009)
+Kwaio                            Keesing (1975)
+Kwamera                          Lindstrom (1986)
+Labu                             Siegel (1984)
+Lamogai                          Thurston (1996b)
+Lau                              Fox (1974)
+Lavongai                         Fast & Dast (1989)
+Lenakel                          Lynch (1977)
+Loniu                            Hamel (1994)
+Lonwolwol                        Paton (1973)
+Lou                              Blust (1998a)
+Manam                            Böhm (1975)
+Mangap                           Bugenhagen & Bugenhagen (2007)
+Maori                            Williams (1971)
+Mapos Buang                      Rambok & Hooley (2010)
+Maringe (= Cheke Holo = Hograno) White et al. (1988)
+Marovo                           Hviding (1995)
+                                                            Data sources 603
+
+
+Marshallese                 Abo et al. (1976)
+Mato                        McHenry, Stober & Troolin (1996)
+Matukar                     Barth (2012)
+Meramera                    Goodenough (1997)
+Minaveha                    Nenegemo & Lovell (1995)
+Misima                      Callister (1987)
+Mokilese                    Harrison & Albert (1977)
+Mota                        Codrington & Palmer (1896)
+Motu                        Lister-Turner & Clark (1954)
+Mouk                        Thurston (1996b)
+Mussau                      Blust (1984)
+Muyuw                       Lithgow & Lithgow (1974)
+Mwotlap                     François (2012)
+Nakanai                     Chowning & Goodenough (2014)
+Nehan                       Glennon & Glennon (n.d.)
+Nemi                        Haudricourt & Ozanne-Rivierre (1982)
+Niuean                      Sperlich (1997)
+Nyelâyu                     Ozanne-Rivierre (1998)
+Paamese                     T. Crowley (1992)
+Pije                        Haudricourt & Ozanne-Rivierre (1982)
+Pingelapese                 Good & Welley (1989)
+Ponapean                    Rehg & Sohl (1979)
+Puluwatese                  Elbert (1972)
+Rennell and Bellona         Elbert (1975)
+Roinji                      McHenry, Stober & Troolin (1996)
+Rotuman                     Churchward (1940)
+Roviana                     Waterhouse (1949)
+Sa’a                        Ivens (1918, 1929)
+Samoan                      Milner (1966)
+Sengseng                    Chowning (1996)
+Southeast Ambrym            Parker (1970)
+South Efate                 Thieberger (2006b, 2011)
+Southwest Tanna             Lynch (1982)
+Sudest                      Anderson (2007)
+Sye (= Sie, Eromango)       T. Crowley (2000), Lynch (2001b)
+Tamambo                     Jauncey (2011)
+Tanga                       Bell (1977)
+Tench (= Tenis)             Lithgow & Claassen (1968)
+Teop                        Schwartz et al. (2007)
+Tigak                       Beaumont (1979)
+Titan                       Bowern (2011)
+Tikopia                     Firth (1985)
+To’aba'‘ta                  Lichtenberk (2008)
+Tolai (= Kuanua, Raluana)   Rickard (1964), Lanyon-Orgill (1962)
+Tolo                        S. S. Crowley (1986)
+604 Appendix A
+
+
+Tongan                                 Churchward (1959)
+Ughele                                 Frostad (2012)
+Ulawa                                  Ivens (1918)
+Ura                                    Lynch 1983
+Vurës                                  Malau (2011)
+Wayan Fijian                           Pawley & Sayaba (2003)
+Wedau                                  Jennings (1956)
+Woleaian                               Sohn & Tawerilmang (1976)
+Yabem (= Jabem)                        Zahn (1982)
+
+
+
+A.4 Unpublished sources
+Unpublished sources consist mostly of electronic files from various sources. A few are
+mimeos or typescripts. Dates are given where they are known, but in most cases the
+materials are undated.
+•   Electronic files provided by various scholars, some of which are themselves based on
+    a variety of primary sources. These include:
+•   Electronic files of lexical data collated during the research leading to the publication
+    of Ross (1988), whose sources are listed in Appendices A and B of that work.
+•   Electronic files from the Comparative Austronesian Dictionary project which
+    resulted in Tryon (1995), which lists its own sources.
+•   Electronic files of Biggs and Clark's POLLEX: Proto Polynesian lexicon. We refer to a
+    June 2006 version, abbreviated POLLEX (there is now an online version at http://
+    pollex.org.nz; see also Greenhill & Clark 2011)
+•   Electronic files of dictionaries in progress kindly made available by the Summer
+    Institute of Linguistics (Papua New Guinea branch) and members thereof. Languages
+    and those who compiled/supplied the dictionary are as follows:
+
+    Arop-Lokep                         Jeffrey D’Jernes and Lucille D’Jernes
+    Bariai                             Steve Gallagher
+    Bing [= Biliau]                    Doug Bennett
+    Bola                               Brent Wiebe
+    Mapos Buang                        Bruce Hooley
+    Dami                               George Elliott
+    Dawawa                             Martin Knauber and Beate Knauber
+    Gapapaiwa                          Ed McGuckin and Catherine McGuckin
+    Gumawana                           Clif Olson
+    Hote                               Marguerite Muzzey
+    East Kara                          Perry Schlie and Virginia Schlie
+    Kaulong                            Craig Throop
+    Drehet [= Khehek]                  Stephan Beard
+                                                                         Data sources 605
+
+
+    Lou                               Robert Stutzman and Vema Stutzman
+    Madak                             Bob Lee
+    Manam                             Stephen Blewett and Kim Blewett
+    Mangseng                          Lloyd Milligan
+    Mengen                            Fred Madden
+    Misima                            Bill Callister
+    Mumeng [Patep]                    Linda Vissering and Karen Wilson
+    Mussau                            John Brownie, 2015
+    Mutu                              Robert Bugenhagen & Salme Bugenhagen, 2007
+    Nakanai [= Lakalai]               Ray Johnston
+    Nehan                             John Glennon and Ariana Glennon
+    Nochi                             Leland Erickson and Laurinda Erickson
+    Nyindrou [= Lindrou]              William H. Martin and others
+    Patpatar                          Ed Condra
+    Ramoaaina [= Duke of York]        Lisbeth Fritzell and Robyn Davies
+    Siar                              Larry Erdman
+    Sinaugoro [Balawaia]              Gerhard Tauberschmidt
+    Sio                               Stephen Clark and Dawn Clark
+    Sissano [Arop]                    Stephen Whitacre
+    Sudest                            Mike Anderson
+    Sursurunga                        Don Hutchisson
+    Takia                             Salme Bugenhagen, Judy Rehberg, Curtis Thomas,
+                                      Bruce Waters
+    Tawala                            Bryan Ezard
+    Teop                              David Snyder
+    Tinputz                           Roman Hostetler
+    Titan                             Keith Lusk
+
+•   Electronic files and manuscripts of dictionaries, vocabularies and wordlists for single
+    languages, as follows:
+     Adzera                            Karl Holzknecht
+     Babatana                          Will McClatchey, 2007
+     Baluan                            Dineke Schokkin, 2015
+     Banoni                            Peter Lincoln, 2005
+     Gao                               Johanna Whiteley, 2012
+     Gitua                             Peter Lincoln, 1976?
+     Kiriwina (= Kilivila)             Ralph Lawton
+     Kubokota                          Debra McDougall, 2000
+     Lewo                              Robert Early
+     Longgu                            Deborah Hill
+     Molima                            Ann Chowning
+     Mutu                              Alice Pomponio
+     Nduke                             Ian Scales
+     Northeast Ambae                   Catriona Hyslop
+606 Appendix A
+
+
+    Numbami             Joel Bradshaw
+    Piva                Peter Lincoln, 1973
+    Seimat (= Ninigo)   W. Smythe
+    Takia               Malcolm Ross
+    Teanu (= Buma)      Alexandre François
+    Varisi              Fr Stephen Farrant
+    Zabana (= Kia)      D. Ama and M. Fitzsimons

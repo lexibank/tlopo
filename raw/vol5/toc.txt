@@ -1,0 +1,636 @@
+                 Contents overview
+
+
+Chapter contents in detail                                                           vi
+List of tables                                                                     xvii
+List of figures and maps                                                           xviii
+Abbreviations                                                                       xix
+Acknowledgments                                                                      xx
+Chapter 1        Introduction
+                 Malcolm Ross, Andrew Pawley and Meredith Osmond                      1
+Chapter 2        People: gender, age cohorts and marital status
+                 Malcolm Ross and Meredith Osmond                                    37
+Chapter 3        The human body
+                 Meredith Osmond and Malcolm Ross                                    75
+Chapter 4        Bodily conditions and activities
+                 Malcolm Ross and Meredith Osmond                                  209
+Chapter 5        Health and disease
+                 Meredith Osmond                                                   334
+Chapter 6        Posture and movement
+                 Malcolm Ross                                                      367
+Chapter 7        Physical acts
+                 Malcolm Ross                                                      457
+Chapter 8        Perception
+                 Meredith Osmond and Andrew Pawley                                 489
+Chapter 9        Body part metaphors
+                 Meredith Osmond                                                   519
+Chapter 10       Cognition
+                 Malcolm Ross and Meredith Osmond                                  535
+Chapter 11       Describing people: stature, temperament, emotion and evaluation
+                 Malcolm Ross and Meredith Osmond                                  567
+Appendix A       Data sources                                                      601
+Appendix B       Languages                                                         607
+
+
+                                             iv
+v Contents overview
+
+
+References                                    641
+Index of reconstructions by protolanguage     667
+Alphabetical index of reconstructions         693
+Index of English glosses of reconstructions   721
+                 Chapter contents in detail
+
+
+
+Contents overview                                                               iv
+Chapter contents in detail                                                      vi
+
+List of tables                                                               xviiii
+
+List of figures and maps                                              xviiiii
+   Figures            . . . . . . . . . . . . . . . . . . . . . . . . xviiiii
+   Maps               . . . . . . . . . . . . . . . . . . . . . . . . xviiiii
+Abbreviations                                                                  xix
+Acknowledgments                                                                 xx
+1 Introduction                                                                   1
+  1.1 Aims                . . . . . . . . . . . . . . . . . . . . . . . . 1
+  1.2 The relation of the current project to previous work           . . . . . . 5
+  1.3 Reconstructing the lexicon         . . . . . . . . . . . . . . . . . . 6
+       1.3.1 Terminological reconstruction              . . . . . . . . . . . . 7
+       1.3.2 Subgrouping and reconstruction             . . . . . . . . . . . . 9
+              1.3.2.1 Subgrouping        . . . . . . . . . . . . . . . . . . 9
+              1.3.2.2 Kinds of subgroup                . . . . . . . . . . . . 11
+              1.3.2.3 Further notes on subgroups       . . . . . . . . . . . . 14
+              1.3.2.4 Criteria for reconstruction      . . . . . . . . . . . . 14
+       1.3.3 Sound correspondences . . . . . . . . . . . . . . . . . . 18
+       1.3.4 Proto Oceanic phonology and orthography                . . . . . . 18
+              1.3.4.1 Reconstructed Proto Oceanic phonology         . . . . . . 18
+              1.3.4.2 The Proto Austronesian and Proto Malayo-Polynesian
+                  antecedents of Proto Oceanic phonology            . . . . . . 19
+       1.3.5 Proto Oceanic bound verbal morphology                  . . . . . . 21
+              1.3.5.1 A-verbs, U-verbs and statives . . . . . . . . . . . . 22
+              1.3.5.2 Transitivising morphology: *-i and *-akin[i] . . . . . . 23
+              1.3.5.3 Causativising morphology: *pa- and *paka- . . . . . . 25
+              1.3.5.4 Detransitivising morphology: reduplication, *ma-/*ka-,
+                  *ta- and *paRi-       . . . . . . . . . . . . . . . . . . 26
+              1.3.5.5 Malayo-Polynesian fossils: verbal morphology              26
+              1.3.5.6 Malayo-Polynesian fossils: verbal derivations . . . . . . 29
+
+                                        vi
+vii Chapter contents in detail
+
+
+  1.4   Conventions common to the series             . . . . .     . . . .         .   .   .   30
+        1.4.1 Presentation of reconstructions        . . . . .     . . . .         .   .   .   30
+        1.4.2 Data      . . . . . . . . . . . . . . . . .          . . . .         .   .   .   33
+        1.4.3 Conventions used in representing reconstructions       . . .         .   .   .   34
+  1.5   Indexes         . . . . . . . . . . . . . . . . .          . . . .         .   .   .   36
+
+2 People: gender, age cohorts and marital status                                               37
+  2.1 Introduction       . . . . . . . . . . . . . . . . . . . . . . .                     .   37
+  2.2 Person             . . . . . . . . . . . . . . . . . . . . . . .                     .   38
+       2.2.1 POc *tau . . . . . . . . . . . . . . . . . . . . . . .                        .   38
+              2.2.1.1 Unbound reflexes of POc *tau ‘person’      . . . . .                 .   38
+              2.2.1.2 Compounds formed with POc *tau- ‘person who…,
+                  person from…’       . . . . . . . . . . . . . . . . .                    . 39
+              2.2.1.3 Pronominals formed with POc *tau-          . . . . .                 . 42
+       2.2.2 POc *tam ataq ‘living person’ and POc *tau-mate ‘dead person’
+                         w
+                                                                                             43
+              2.2.2.1 POc *tamwataq ‘living person’ . . . . . . . . . . .                  . 43
+              2.2.2.2 POc *tau-mate ‘dead person’ . . . . . . . . . . .                    . 45
+       2.2.3 POc *qata ‘person’       . . . . . . . . . . . . . . . . .                    . 45
+              2.2.3.1 Unbound reflexes of POc * qata ‘person’    . . . . .                 . 45
+              2.2.3.2 Compounds formed with POc *qata- ‘person’                              46
+       2.2.4 POc *tinoni ‘person, people’           . . . . . . . . . . .                  . 48
+       2.2.5 POc *k a(i) ‘person’ . . . . . . . . . . . . . . . . .
+                     (w)
+                                                                                           . 48
+  2.3 People by gender . . . . . . . . . . . . . . . . . . . . . . .                       . 50
+       2.3.1 Man, male                . . . . . . . . . . . . . . . . .                    . 50
+       2.3.2 Woman . . . . . . . . . . . . . . . . . . . . . . .                           . 53
+  2.4 People by age cohort            . . . . . . . . . . . . . . . . .                    . 57
+       2.4.1 Oceanic age cohort terms               . . . . . . . . . . .                  . 57
+       2.4.2 Young person from birth to onset of adulthood       . . . . .                 . 60
+              2.4.2.1 Baby, infant, newborn         . . . . . . . . . . .                  . 62
+              2.4.2.2 Child           . . . . . . . . . . . . . . . . .                    . 63
+       2.4.3 Young (unmarried) person               . . . . . . . . . . .                  . 65
+       2.4.4 Fully grown adult        . . . . . . . . . . . . . . . . .                    . 67
+       2.4.5 Mature person            . . . . . . . . . . . . . . . . .                    . 67
+       2.4.6 Old person               . . . . . . . . . . . . . . . . .                    . 68
+  2.5 People by absence of relationship             . . . . . . . . . . .                  . 70
+       2.5.1 Orphan . . . . . . . . . . . . . . . . . . . . . . .                          . 70
+       2.5.2 Unmarried person         . . . . . . . . . . . . . . . . .                    . 70
+       2.5.3 Widow, widower           . . . . . . . . . . . . . . . . .                    . 71
+  2.6 Twins              . . . . . . . . . . . . . . . . . . . . . . .                     . 72
+
+3 The human body                                                                               75
+  3.1 Introduction     . . . . . . . . . . . . . . .       .   .   .   .   .   .   .   .   .   75
+       3.1.1 Direct possession       . . . . . . . . .     .   .   .   .   .   .   .   .   .   75
+       3.1.2 Relational local nouns . . . . . . . . .      .   .   .   .   .   .   .   .   .   76
+  3.2 The body         . . . . . . . . . . . . . . .       .   .   .   .   .   .   .   .   .   77
+       3.2.1 The ‘complete skin’, metonymically the body               .   .   .   .   .   .   78
+                                                      Chapter contents in detail viii
+
+
+      3.2.2 The trunk . . . . . . . . . . . . . . . . . . . . . . . . 79
+3.3   Bodily materials . . . . . . . . . . . . . . . . . . . . . . . . 81
+      3.3.1 Flesh        . . . . . . . . . . . . . . . . . . . . . . . . 81
+      3.3.2 Fat          . . . . . . . . . . . . . . . . . . . . . . . . 82
+      3.3.3 Blood        . . . . . . . . . . . . . . . . . . . . . . . . 82
+      3.3.4 Bone         . . . . . . . . . . . . . . . . . . . . . . . . 84
+      3.3.5 Skin         . . . . . . . . . . . . . . . . . . . . . . . . 89
+      3.3.6 Scar         . . . . . . . . . . . . . . . . . . . . . . . . 91
+      3.3.7 Head hair . . . . . . . . . . . . . . . . . . . . . . . . 91
+              3.3.7.1 Grey hair         . . . . . . . . . . . . . . . . . . 94
+              3.3.7.2 Bald              . . . . . . . . . . . . . . . . . . 94
+      3.3.8 Body hair . . . . . . . . . . . . . . . . . . . . . . . . 95
+      3.3.9 Veins, arteries, sinews and tendons         . . . . . . . . . . . . 98
+3.4   The head and its parts           . . . . . . . . . . . . . . . . . . 101
+      3.4.1 *qulu ‘head’               . . . . . . . . . . . . . . . . . . 101
+      3.4.2 *p(w)atu(k) ‘outer shell, skull’, *bwatu(k) ‘head, top of’ and
+                *pwau- ‘head’          . . . . . . . . . . . . . . . . . . 103
+              3.4.2.1 *p atu(k) (vs *bwatu(k))
+                          (w)
+                                                      . . . . . . . . . . . . 103
+              3.4.2.2 *bwatu(k) and *pwau-            . . . . . . . . . . . . 105
+      3.4.3 Forehead                   . . . . . . . . . . . . . . . . . . 108
+      3.4.4 Brain . . . . . . . . . . . . . . . . . . . . . . . . 110
+      3.4.5 Back of head, nape         . . . . . . . . . . . . . . . . . . 112
+      3.4.6 Top of head, fontanelle . . . . . . . . . . . . . . . . . . 113
+      3.4.7 Face       . . . . . . . . . . . . . . . . . . . . . . . . 114
+      3.4.8 Side of face, cheek, temple               . . . . . . . . . . . . 116
+      3.4.9 The eye and its parts . . . . . . . . . . . . . . . . . . 117
+              3.4.9.1 Eye              . . . . . . . . . . . . . . . . . . 117
+              3.4.9.2 Eyelash, eyebrow hair           . . . . . . . . . . . . 118
+              3.4.9.3 Eyebrow ridge                   . . . . . . . . . . . . 119
+              3.4.9.4 Eyelid           . . . . . . . . . . . . . . . . . . 120
+              3.4.9.5 Eyeball          . . . . . . . . . . . . . . . . . . 121
+      3.4.10 Ear       . . . . . . . . . . . . . . . . . . . . . . . . 121
+      3.4.11 The nose and its parts . . . . . . . . . . . . . . . . . . 123
+              3.4.11.1 Nose            . . . . . . . . . . . . . . . . . . 123
+              3.4.11.2 Channel above the upper lip . . . . . . . . . . . . 125
+              3.4.11.3 Nostrils        . . . . . . . . . . . . . . . . . . 125
+      3.4.12 The mouth and its parts . . . . . . . . . . . . . . . . . . 126
+              3.4.12.1 External mouth                 . . . . . . . . . . . . 126
+              3.4.12.2 Lips            . . . . . . . . . . . . . . . . . . 127
+              3.4.12.3 Inner mouth . . . . . . . . . . . . . . . . . . 128
+              3.4.12.4 Tongue          . . . . . . . . . . . . . . . . . . 130
+              3.4.12.5 Teeth           . . . . . . . . . . . . . . . . . . 131
+              3.4.12.6 Gums            . . . . . . . . . . . . . . . . . . 134
+      3.4.13 Chin, jaw and beard       . . . . . . . . . . . . . . . . . . 134
+      3.4.14 Neck, throat, voice       . . . . . . . . . . . . . . . . . . 137
+3.5   Parts of the trunk               . . . . . . . . . . . . . . . . . . 141
+ix Chapter contents in detail
+
+
+        3.5.1 Back      . . . . . . . . . . . . . . . . . . . . . . . .            141
+        3.5.2 Flat of back              . . . . . . . . . . . . . . . . . .        142
+        3.5.3 Shoulder                  . . . . . . . . . . . . . . . . . .        142
+        3.5.4 Armpit . . . . . . . . . . . . . . . . . . . . . . . .               144
+        3.5.5 Chest . . . . . . . . . . . . . . . . . . . . . . . .                144
+        3.5.6 Rib cage . . . . . . . . . . . . . . . . . . . . . . . .             145
+        3.5.7 Breast . . . . . . . . . . . . . . . . . . . . . . . .               148
+        3.5.8 Nipple . . . . . . . . . . . . . . . . . . . . . . . .               149
+        3.5.9 Belly . . . . . . . . . . . . . . . . . . . . . . . .                149
+        3.5.10 Navel, umbilical cord . . . . . . . . . . . . . . . . . .           151
+               3.5.10.1 POc *puso- ‘navel, umbilical cord’           . . . . . .   151
+               3.5.10.2 POc *bwito- ‘navel, umbilical cord’          . . . . . .   152
+               3.5.10.3 Conflated forms                . . . . . . . . . . . .     154
+        3.5.11 Lower abdomen            . . . . . . . . . . . . . . . . . .        154
+        3.5.12 Buttocks                 . . . . . . . . . . . . . . . . . .        155
+        3.5.13 Genitalia                . . . . . . . . . . . . . . . . . .        156
+               3.5.13.1 Penis           . . . . . . . . . . . . . . . . . .        156
+               3.5.13.2 Scrotum and testicles          . . . . . . . . . . . .     157
+               3.5.13.3 Female genitalia               . . . . . . . . . . . .     158
+  3.6   Limbs           . . . . . . . . . . . . . . . . . . . . . . . .            159
+        3.6.1 Hand, arm                 . . . . . . . . . . . . . . . . . .        160
+        3.6.2 Parts of the arm          . . . . . . . . . . . . . . . . . .        162
+        3.6.3 Left hand and right hand                 . . . . . . . . . . . .     163
+        3.6.4 Leg, foot                 . . . . . . . . . . . . . . . . . .        167
+        3.6.5 Parts of the leg and foot                . . . . . . . . . . . .     168
+               3.6.5.1 Thigh            . . . . . . . . . . . . . . . . . .        168
+               3.6.5.2 Knee             . . . . . . . . . . . . . . . . . .        169
+               3.6.5.3 Calf and shin . . . . . . . . . . . . . . . . . .           171
+               3.6.5.4 Heel             . . . . . . . . . . . . . . . . . .        171
+        3.6.6 Footprint                 . . . . . . . . . . . . . . . . . .        172
+        3.6.7 Groin, crotch             . . . . . . . . . . . . . . . . . .        173
+        3.6.8 Parts common to arm/hand and leg/foot                  . . . . . .   173
+               3.6.8.1 Elbow and knee                  . . . . . . . . . . . .     173
+                        3.6.8.1.1 POc *pwatu[ka]- ‘elbow, knee; joint, node’ and
+                              PSOc *bwau- ‘knee, joint’              . . . . . .   174
+                        3.6.8.1.2 Other terms for joint, elbow and knee            175
+               3.6.8.2 Fingers and toes, finger- and toenails        . . . . . .   176
+               3.6.8.3 Palm of hand and sole of foot . . . . . . . . . . . .       178
+               3.6.8.4 Back of hand and top of foot . . . . . . . . . . . .        179
+  3.7   Internal organs . . . . . . . . . . . . . . . . . . . . . . . .            180
+        3.7.1 Internal organs in general               . . . . . . . . . . . .     180
+        3.7.2 Heart . . . . . . . . . . . . . . . . . . . . . . . .                181
+        3.7.3 Lungs . . . . . . . . . . . . . . . . . . . . . . . .                182
+        3.7.4 Stomach . . . . . . . . . . . . . . . . . . . . . . . .              184
+        3.7.5 Intestines                . . . . . . . . . . . . . . . . . .        187
+        3.7.6 Liver . . . . . . . . . . . . . . . . . . . . . . . .                189
+                                                                 Chapter contents in detail x
+
+
+        3.7.7 Gall bladder            . . . . . .    .   .   .   .   .   .   .   .   .   .   .   .   191
+        3.7.8 Spleen . . . . . . . . . . . .         .   .   .   .   .   .   .   .   .   .   .   .   192
+        3.7.9 Kidney . . . . . . . . . . . .         .   .   .   .   .   .   .   .   .   .   .   .   192
+        3.7.10 Bladder . . . . . . . . . . . .       .   .   .   .   .   .   .   .   .   .   .   .   194
+        3.7.11 Uterus, placenta and amniotic fluid   .   .   .   .   .   .   .   .   .   .   .   .   195
+  3.8   Bodily emissions              . . . . . .    .   .   .   .   .   .   .   .   .   .   .   .   196
+        3.8.1 Tears . . . . . . . . . . . .          .   .   .   .   .   .   .   .   .   .   .   .   196
+        3.8.2 Earwax and deafness . . . . . .        .   .   .   .   .   .   .   .   .   .   .   .   197
+        3.8.3 Snot, nasal mucus       . . . . . .    .   .   .   .   .   .   .   .   .   .   .   .   198
+        3.8.4 Saliva . . . . . . . . . . . .         .   .   .   .   .   .   .   .   .   .   .   .   200
+        3.8.5 Semen, smegma           . . . . . .    .   .   .   .   .   .   .   .   .   .   .   .   201
+        3.8.6 Faeces, excrement       . . . . . .    .   .   .   .   .   .   .   .   .   .   .   .   202
+  3.9   Incorporeal parts             . . . . . .    .   .   .   .   .   .   .   .   .   .   .   .   203
+        3.9.1 Shadow, reflection, image, likeness    .   .   .   .   .   .   .   .   .   .   .   .   204
+        3.9.2 Name . . . . . . . . . . . .           .   .   .   .   .   .   .   .   .   .   .   .   205
+
+4 Bodily conditions and activities                                                                   209
+  4.1 Introduction     . . . . . . . . . . . . . . .             .   .   .   .   .   .   .   .   .   209
+  4.2 Living, dying, reproducing and growing         . . .       .   .   .   .   .   .   .   .   .   210
+       4.2.1 Living, dying and being healthy         . . .       .   .   .   .   .   .   .   .   .   210
+              4.2.1.1 Being alive . . . . . . . . .              .   .   .   .   .   .   .   .   .   210
+              4.2.1.2 Dying and being dead           . . .       .   .   .   .   .   .   .   .   .   212
+       4.2.2 Reproducing               . . . . . . . . .         .   .   .   .   .   .   .   .   .   216
+              4.2.2.1 Copulating       . . . . . . . . .         .   .   .   .   .   .   .   .   .   216
+              4.2.2.2 Sexual desire . . . . . . . . .            .   .   .   .   .   .   .   .   .   218
+              4.2.2.3 Being pregnant                 . . .       .   .   .   .   .   .   .   .   .   218
+              4.2.2.4 Giving birth . . . . . . . . .             .   .   .   .   .   .   .   .   .   219
+       4.2.3 Growing                   . . . . . . . . .         .   .   .   .   .   .   .   .   .   223
+  4.3 Ingestion and related activities and states    . . .       .   .   .   .   .   .   .   .   .   224
+       4.3.1 Eating and chewing        . . . . . . . . .         .   .   .   .   .   .   .   .   .   224
+              4.3.1.1 Eating           . . . . . . . . .         .   .   .   .   .   .   .   .   .   224
+              4.3.1.2 Chewing and then eating, gnawing                       .   .   .   .   .   .   233
+              4.3.1.3 Chewing without swallowing . . .           . . .       .   .   .   .   .   .   235
+       4.3.2 Drinking and sucking . . . . . . . . .              . . .       .   .   .   .   .   .   241
+              4.3.2.1 Drinking         . . . . . . . . .         . . .       .   .   .   .   .   .   241
+                       4.3.2.1.1 Pouring down the throat                     .   .   .   .   .   .   245
+                       4.3.2.1.2 Sipping and slurping                        .   .   .   .   .   .   246
+              4.3.2.2 Sucking-and-drinking           . . .       . . .       .   .   .   .   .   .   246
+              4.3.2.3 Sucking the breast and suckling                        .   .   .   .   .   .   250
+              4.3.2.4 Sucking at a pipe to inhale smoke                      .   .   .   .   .   .   252
+       4.3.3 Being hungry, thirsty, replete          . . .       .   .   .   .   .   .   .   .   .   253
+              4.3.3.1 Being hungry . . . . . . . . .             .   .   .   .   .   .   .   .   .   253
+              4.3.3.2 Being thirsty . . . . . . . . .            .   .   .   .   .   .   .   .   .   255
+              4.3.3.3 Being replete, sated           . . .       .   .   .   .   .   .   .   .   .   256
+       4.3.4 Swallowing                . . . . . . . . .         .   .   .   .   .   .   .   .   .   257
+       4.3.5 Other actions performed with the mouth                          .   .   .   .   .   .   265
+xi Chapter contents in detail
+
+
+               4.3.5.1 Biting          . . . . . . . . . . .      .   .   .   .   .   .   .   265
+               4.3.5.2 Licking and tasting            . . . . .   .   .   .   .   .   .   .   268
+               4.3.5.3 Holding in the mouth           . . . . .   .   .   .   .   .   .   .   270
+               4.3.5.4 Rinse mouth . . . . . . . . . . .          .   .   .   .   .   .   .   272
+        4.3.6 Actions performed with the lips         . . . . .   .   .   .   .   .   .   .   272
+               4.3.6.1 The sucking noise signal       . . . . .   .   .   .   .   .   .   .   273
+               4.3.6.2 Signalling with a kissing noise                .   .   .   .   .   .   274
+        4.3.7 Other events involving the digestive system             .   .   .   .   .   .   275
+               4.3.7.1 Hiccups         . . . . . . . . . . .      .   .   .   .   .   .   .   275
+               4.3.7.2 Belching        . . . . . . . . . . .      .   .   .   .   .   .   .   276
+               4.3.7.3 Farting         . . . . . . . . . . .      .   .   .   .   .   .   .   277
+  4.4   Emitting and eliminating substances from the body             .   .   .   .   .   .   278
+        4.4.1 Bleeding                 . . . . . . . . . . .      .   .   .   .   .   .   .   279
+        4.4.2 Menstruating             . . . . . . . . . . .      .   .   .   .   .   .   .   279
+        4.4.3 Spitting and spittle     . . . . . . . . . . .      .   .   .   .   .   .   .   280
+        4.4.4 Vomiting                 . . . . . . . . . . .      .   .   .   .   .   .   .   284
+        4.4.5 Ejaculation of seminal fluid            . . . . .   .   .   .   .   .   .   .   286
+        4.4.6 Sweating, perspiring and perspiration . . . . .     .   .   .   .   .   .   .   286
+        4.4.7 Urinating and urine      . . . . . . . . . . .      .   .   .   .   .   .   .   287
+        4.4.8 Defecating               . . . . . . . . . . .      .   .   .   .   .   .   .   291
+  4.5   Respiration and events involving the respiratory organs       .   .   .   .   .   .   292
+        4.5.1 Breathing                . . . . . . . . . . .      .   .   .   .   .   .   .   292
+        4.5.2 Gasping and panting . . . . . . . . . . .           .   .   .   .   .   .   .   295
+        4.5.3 Snoring . . . . . . . . . . . . . . . . .           .   .   .   .   .   .   .   296
+        4.5.4 Blowing air from the mouth              . . . . .   .   .   .   .   .   .   .   297
+        4.5.5 Gaping . . . . . . . . . . . . . . . . .            .   .   .   .   .   .   .   299
+        4.5.6 Yawning                  . . . . . . . . . . .      .   .   .   .   .   .   .   300
+        4.5.7 Coughing                 . . . . . . . . . . .      .   .   .   .   .   .   .   301
+        4.5.8 Sniffing and blowing one’s nose         . . . . .   .   .   .   .   .   .   .   303
+        4.5.9 Sneezing                 . . . . . . . . . . .      .   .   .   .   .   .   .   305
+  4.6   Sleeping and waking            . . . . . . . . . . .      .   .   .   .   .   .   .   308
+        4.6.1 Sleeping . . . . . . . . . . . . . . . . .          .   .   .   .   .   .   .   308
+        4.6.2 Being tired              . . . . . . . . . . .      .   .   .   .   .   .   .   310
+               4.6.2.1 Being sleepy . . . . . . . . . . .         .   .   .   .   .   .   .   310
+               4.6.2.2 Being weary, exhausted         . . . . .   .   .   .   .   .   .   .   312
+        4.6.3 Dreaming                 . . . . . . . . . . .      .   .   .   .   .   .   .   313
+        4.6.4 Waking up and opening the eyes          . . . . .   .   .   .   .   .   .   .   315
+        4.6.5 Blinking and closing the eyes           . . . . .   .   .   .   .   .   .   .   317
+  4.7   Physical responses to emotion, pain or cold . . . . .     .   .   .   .   .   .   .   318
+        4.7.1 Laughing                 . . . . . . . . . . .      .   .   .   .   .   .   .   318
+        4.7.2 Grinning                 . . . . . . . . . . .      .   .   .   .   .   .   .   319
+        4.7.3 Weeping and crying       . . . . . . . . . . .      .   .   .   .   .   .   .   320
+        4.7.4 Grunting and moaning . . . . . . . . . . .          .   .   .   .   .   .   .   323
+        4.7.5 Goosebumps               . . . . . . . . . . .      .   .   .   .   .   .   .   324
+        4.7.6 Trembling and shivering                 . . . . .   .   .   .   .   .   .   .   324
+  4.8   Temperature     . . . . . . . . . . . . . . . . .         .   .   .   .   .   .   .   328
+                                                                       Chapter contents in detail xii
+
+
+        4.8.1 Feeling cold             . . . . . . . . . . . . . . . . . . 329
+        4.8.2 Feeling hot              . . . . . . . . . . . . . . . . . . 331
+
+5 Health and disease                                                                                           334
+  5.1 Introduction     . . . . . . . . . . . . . . . . . . . . . . . .                                         334
+  5.2 Concept of illness             . . . . . . . . . . . . . . . . . .                                       335
+  5.3 Illnesses and afflictions      . . . . . . . . . . . . . . . . . .                                       336
+       5.3.1 General terms           . . . . . . . . . . . . . . . . . .                                       336
+       5.3.2 Painful skin conditions . . . . . . . . . . . . . . . . . .                                       339
+              5.3.2.1 Boil, ulcer, wound             . . . . . . . . . . . .                                   339
+              5.3.2.2 Pus            . . . . . . . . . . . . . . . . . .                                       342
+              5.3.2.3 Stinging       . . . . . . . . . . . . . . . . . .                                       343
+              5.3.2.4 Itching        . . . . . . . . . . . . . . . . . .                                       343
+              5.3.2.5 Wart, cyst     . . . . . . . . . . . . . . . . . .                                       345
+       5.3.3 Skin infections         . . . . . . . . . . . . . . . . . .                                       345
+              5.3.3.1 Scabies        . . . . . . . . . . . . . . . . . .                                       346
+              5.3.3.2 Ringworm, tinea imbricata . . . . . . . . . . . .                                        347
+              5.3.3.3 Tinea versicolor alias pityriasis versicolor or tinea flava                              348
+       5.3.4 Yaws (Framboesia)       . . . . . . . . . . . . . . . . . .                                       349
+       5.3.5 Fever, malaria          . . . . . . . . . . . . . . . . . .                                       350
+       5.3.6 Rheumatism, arthritis . . . . . . . . . . . . . . . . . .                                         351
+       5.3.7 Asthma, breathlessness . . . . . . . . . . . . . . . . . .                                        351
+       5.3.8 Coughing                . . . . . . . . . . . . . . . . . .                                       353
+       5.3.9 Diarrhoea               . . . . . . . . . . . . . . . . . .                                       353
+       5.3.10 Vomiting               . . . . . . . . . . . . . . . . . .                                       354
+       5.3.11 Swelling and elephantiasis             . . . . . . . . . . . .                                   354
+       5.3.12 Epilepsy . . . . . . . . . . . . . . . . . . . . . . . .                                         356
+       5.3.13 Eye disorders          . . . . . . . . . . . . . . . . . .                                       356
+       5.3.14 Deafness and dumbness                  . . . . . . . . . . . .                                   357
+       5.3.15 Tooth decay and toothache              . . . . . . . . . . . .                                   359
+       5.3.16 Giddiness              . . . . . . . . . . . . . . . . . .                                       359
+       5.3.17 Club-footed            . . . . . . . . . . . . . . . . . .                                       360
+       5.3.18 Madness                . . . . . . . . . . . . . . . . . .                                       360
+  5.4 Healing          . . . . . . . . . . . . . . . . . . . . . . . .                                         361
+       5.4.1 Natural healing         . . . . . . . . . . . . . . . . . .                                       361
+       5.4.2 Assisted healing        . . . . . . . . . . . . . . . . . .                                       362
+              5.4.2.1 Spraying masticated substances on to affected part                                       362
+              5.4.2.2 Massage        . . . . . . . . . . . . . . . . . .                                       363
+              5.4.2.3 Use of plants . . . . . . . . . . . . . . . . . .                                        365
+  5.5 Conclusion       . . . . . . . . . . . . . . . . . . . . . . . .                                         365
+
+6 Posture and movement                                                                                         367
+  6.1 Introduction     . . . . . .     .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   367
+  6.2 Posture verbs . . . . . .        .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   367
+       6.2.1 Sit, be located           .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   369
+       6.2.2 Stand . . . . . .         .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   373
+xiii Chapter contents in detail
+
+
+         6.2.3 Lie       . . . . . . . . . . . . . . . . . .         .   .   .   .   .   .   378
+         6.2.4 Non-cardinal posture verbs            . . . . . .     .   .   .   .   .   .   380
+                6.2.4.1 Squat, sit on haunches       . . . . . .     .   .   .   .   .   .   380
+                6.2.4.2 Kneel           . . . . . . . . . . . .      .   .   .   .   .   .   380
+                6.2.4.3 Hang            . . . . . . . . . . . .      .   .   .   .   .   .   381
+                6.2.4.4 Lean, slant     . . . . . . . . . . . .      .   .   .   .   .   .   384
+   6.3   Manner of movement verbs . . . . . . . . . . . .            .   .   .   .   .   .   384
+         6.3.1 Locomotion on land       . . . . . . . . . . . .      .   .   .   .   .   .   385
+                6.3.1.1 Go, move        . . . . . . . . . . . .      .   .   .   .   .   .   385
+                6.3.1.2 Move from one location to another            .   .   .   .   .   .   392
+                6.3.1.3 Walk, step, stride           . . . . . .     .   .   .   .   .   .   393
+                6.3.1.4 Move quickly, hurry, run     . . . . . .     .   .   .   .   .   .   395
+                6.3.1.5 Crawl, creep . . . . . . . . . . . .         .   .   .   .   .   .   396
+                6.3.1.6 Limp, hop       . . . . . . . . . . . .      .   .   .   .   .   .   398
+                6.3.1.7 Roll            . . . . . . . . . . . .      .   .   .   .   .   .   398
+                6.3.1.8 Climb           . . . . . . . . . . . .      .   .   .   .   .   .   399
+         6.3.2 Locomotion in the air . . . . . . . . . . . .         .   .   .   .   .   .   400
+                6.3.2.1 Fly             . . . . . . . . . . . .      .   .   .   .   .   .   400
+                6.3.2.2 Fall (from a height)         . . . . . .     .   .   .   .   .   .   402
+         6.3.3 Locomotion in and on water            . . . . . .     .   .   .   .   .   .   403
+                6.3.3.1 Travel by sea . . . . . . . . . . . .        .   .   .   .   .   .   403
+                6.3.3.2 Wade            . . . . . . . . . . . .      .   .   .   .   .   .   404
+                6.3.3.3 Swim            . . . . . . . . . . . .      .   .   .   .   .   .   405
+                6.3.3.4 Dive, go under water         . . . . . .     .   .   .   .   .   .   406
+                6.3.3.5 Float, drift    . . . . . . . . . . . .      .   .   .   .   .   .   407
+   6.4   Direction verbs . . . . . . . . . . . . . . . . . .         .   .   .   .   .   .   409
+         6.4.1 Return . . . . . . . . . . . . . . . . . .            .   .   .   .   .   .   409
+         6.4.2 Turn round               . . . . . . . . . . . .      .   .   .   .   .   .   411
+         6.4.3 Go beyond, pass by, surpass           . . . . . .     .   .   .   .   .   .   416
+         6.4.4 Arrive, appear           . . . . . . . . . . . .      .   .   .   .   .   .   417
+   6.5   Accompanied movement verbs . . . . . . . . . . . .          .   .   .   .   .   .   419
+         6.5.1 Accompany                . . . . . . . . . . . .      .   .   .   .   .   .   419
+         6.5.2 Gather, congregate       . . . . . . . . . . . .      .   .   .   .   .   .   419
+         6.5.3 Precede and follow       . . . . . . . . . . . .      .   .   .   .   .   .   420
+   6.6   Caused movement verbs          . . . . . . . . . . . .      .   .   .   .   .   .   422
+         6.6.1 Simple caused movement                . . . . . .     .   .   .   .   .   .   424
+                6.6.1.1 Taking          . . . . . . . . . . . .      .   .   .   .   .   .   424
+                6.6.1.2 Raising and lowering         . . . . . .     .   .   .   .   .   .   429
+                6.6.1.3 Force-profiling verbs: pushing and pulling   .   .   .   .   .   .   430
+                         6.6.1.3.1 Pushing           . . . . . .     .   .   .   .   .   .   430
+                         6.6.1.3.2 Pulling           . . . . . .     .   .   .   .   .   .   432
+         6.6.2 Accompanied caused movement           . . . . . .     .   .   .   .   .   .   433
+                6.6.2.1 Carrying in general          . . . . . .     .   .   .   .   .   .   434
+                6.6.2.2 Carrying on the head         . . . . . .     .   .   .   .   .   .   435
+                6.6.2.3 Carrying hanging from the head               .   .   .   .   .   .   436
+                6.6.2.4 Carrying piggyback           . . . . . .     .   .   .   .   .   .   437
+                                                         Chapter contents in detail xiv
+
+
+              6.6.2.5 Carrying a child in a sling on the back       . . . . .               .   438
+              6.6.2.6 Carrying on the shoulder         . . . . . . . . . . .                .   438
+              6.6.2.7 Carrying hanging from shoulder                . . . . .               .   439
+              6.6.2.8 Carrying with a shoulder pole                 . . . . .               .   439
+              6.6.2.8 Carrying with a shoulder pole                 . . . . .               .   439
+              6.6.2.9 Carrying on a long shoulder pole between two people                       448
+              6.6.2.10 Carrying under the arm (and on the hip)      . . . . .               .   441
+              6.6.2.11 Carrying in both arms           . . . . . . . . . . .                .   443
+              6.6.2.12 Carrying on a canoe             . . . . . . . . . . .                .   443
+              6.6.2.13 Dragging        . . . . . . . . . . . . . . . . .                    .   445
+        6.6.3 Unaccompanied caused movement            . . . . . . . . . . .                .   445
+              6.6.3.1 Putting          . . . . . . . . . . . . . . . . .                    .   446
+                       6.6.3.1.1 Simple putting        . . . . . . . . . . .                .   449
+                       6.6.3.1.2 Posture-profiling verbs of putting . . . . .               .   450
+                       6.6.3.1.3 Path-profiling verbs of putting    . . . . .               .   451
+                       6.6.3.1.4 ‘Putting’ in reverse: removing     . . . . .               .   452
+              6.6.3.2 Sending, dropping, throwing and pouring . . . . .                     .   453
+                       6.6.3.2.1 Throwing              . . . . . . . . . . .                .   453
+                       6.6.3.2.2 Pouring               . . . . . . . . . . .                .   454
+
+7 Physical acts                                                                                 457
+  7.1 Introduction     . . . . . . . . . . . . . . .        .   .   .   .   .   .   .   .   .   457
+  7.2 Doing and working              . . . . . . . . .      .   .   .   .   .   .   .   .   .   458
+       7.2.1 Doing . . . . . . . . . . . . . . .            .   .   .   .   .   .   .   .   .   458
+       7.2.2 Working . . . . . . . . . . . . . . .          .   .   .   .   .   .   .   .   .   459
+  7.3 Hand and arm actions           . . . . . . . . .      .   .   .   .   .   .   .   .   .   462
+       7.3.1 Beckoning and waving . . . . . . . . .         .   .   .   .   .   .   .   .   .   462
+       7.3.2 Fanning . . . . . . . . . . . . . . .          .   .   .   .   .   .   .   .   .   464
+       7.3.3 Seizing, grabbing, snatching, taking hold of               .   .   .   .   .   .   466
+       7.3.4 Grasping, gripping, holding with hand . . .    .   .   .   .   .   .   .   .   .   467
+  7.4 Interpersonal actions          . . . . . . . . .      .   .   .   .   .   .   .   .   .   469
+       7.4.1 Slapping and clapping . . . . . . . . .        .   .   .   .   .   .   .   .   .   470
+       7.4.2 Tickling . . . . . . . . . . . . . . .         .   .   .   .   .   .   .   .   .   471
+  7.5 Foot and leg actions           . . . . . . . . .      .   .   .   .   .   .   .   .   .   473
+       7.5.1 Stamping and treading on               . . .   .   .   .   .   .   .   .   .   .   473
+  7.6 Bathing and washing            . . . . . . . . .      .   .   .   .   .   .   .   .   .   475
+       7.6.1 Bathing, immersing oneself             . . .   .   .   .   .   .   .   .   .   .   475
+       7.6.2 Washing and cleaning . . . . . . . . .         .   .   .   .   .   .   .   .   .   481
+  7.7 Verbs with a location component               . . .   .   .   .   .   .   .   .   .   .   484
+       7.7.1 Wait      . . . . . . . . . . . . . . .        .   .   .   .   .   .   .   .   .   484
+       7.7.2 Hiding . . . . . . . . . . . . . . .           .   .   .   .   .   .   .   .   .   485
+
+8 Perception                                                           489
+  8.1 Introduction     . . . . . . . . . . . . . . . . . . . . . . . . 489
+  8.2 Seeing           . . . . . . . . . . . . . . . . . . . . . . . . 491
+  8.3 Hearing          . . . . . . . . . . . . . . . . . . . . . . . . 499
+xv Chapter contents in detail
+
+
+  8.4   Smelling        . . . . . .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   503
+  8.5   Tasting         . . . . . .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   510
+  8.5   Perceiving by touch           .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   513
+  8.6   Conclusions     . . . . . .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   515
+
+9 Body part metaphors               . . . . . . . . . .                       . . .       .   .   .   .   .   519
+  9.1 Introduction    . . . . . . . . . . . . . . . .                         . . .       .   .   .   .   .   519
+  9.2 Implicated body parts: POc *qate- and *lalom                                .       .   .   .   .   .   520
+       9.2.1 POc *qate-             . . . . . . . . . .                       . . .       .   .   .   .   .   520
+       9.2.2 POc *lalom             . . . . . . . . . .                       . . .       .   .   .   .   .   522
+  9.3 Terms implicating other body parts           . . . .                    . . .       .   .   .   .   .   525
+  9.4 The emotion/cognition continuum: *qate- vs *lalom                           .       .   .   .   .   .   530
+  9.5 The modifying terms           . . . . . . . . . .                       . . .       .   .   .   .   .   532
+  9.6 Conclusion      . . . . . . . . . . . . . . . .                         . . .       .   .   .   .   .   533
+
+10 Cognition                                                                                                  535
+   10.1 Introduction     . . . . . . .    .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   535
+   10.2 Knowing          . . . . . . .    .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   536
+   10.3 Thinking         . . . . . . .    .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   542
+   10.4 True and believing to be true .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   548
+   10.5 Remembering . . . . . . .         .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   555
+   10.6 Forgetting       . . . . . . .    .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   557
+   10.7 Deciding         . . . . . . .    .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   559
+   10.8 Being undecided, of two minds                         .   .   .   .   .   .   .   .   .   .   .   .   559
+   10.9 Agreeing, being of one mind .     .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   561
+   10.10 Choosing        . . . . . . .    .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   562
+   10.11 Learning and teaching        .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   563
+   10.12 Conclusion      . . . . . . .    .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   566
+
+11 Describing people: stature, temperament, emotion and evaluation                                            567
+   11.1 Introduction     . . . . . . . . . . . . . . . . . . . .                              .   .   .   .   567
+   11.2 Properties of the human body . . . . . . . . . . . . . .                              .   .   .   .   568
+        11.2.1 Stature: tall vs short  . . . . . . . . . . . . . .                            .   .   .   .   568
+        11.2.2 Size: big vs small      . . . . . . . . . . . . . .                            .   .   .   .   568
+        11.2.3 Girth: fat vs thin      . . . . . . . . . . . . . .                            .   .   .   .   569
+        11.2.4 Strength: strong vs weak                . . . . . . . .                        .   .   .   .   571
+   11.3 Properties of the human temperament            . . . . . . . .                        .   .   .   .   573
+        11.3.1 Tame vs untamed         . . . . . . . . . . . . . .                            .   .   .   .   576
+               11.3.1.1 Tame, accustomed to            . . . . . . . .                        .   .   .   .   576
+               11.3.1.2 Untamed, wild                  . . . . . . . .                        .   .   .   .   578
+        11.3.2 Brave vs cowardly       . . . . . . . . . . . . . .                            .   .   .   .   578
+               11.3.2.1 Brave, courageous              . . . . . . . .                        .   .   .   .   578
+               11.3.2.2 Cowardly, timid                . . . . . . . .                        .   .   .   .   579
+        11.3.3 Obstinate, stubborn     . . . . . . . . . . . . . .                            .   .   .   .   580
+        11.3.4 Ignorant vs wise and stupid vs intelligent          . .                        .   .   .   .   581
+               11.3.4.1 Ignorant, stupid               . . . . . . . .                        .   .   .   .   581
+                                                                                         Chapter contents in detail xvi
+
+
+                11.3.4.2 Wise, intelligent             . . . . . . . . .                                            .   .   .   583
+    11.4 Emotion expressions            . . . . . . . . . . . . . . .                                               .   .   .   583
+         11.4.1 Afraid . . . . . . . . . . . . . . . . . . . . .                                                    .   .   .   584
+         11.4.2 Ashamed, embarrassed, shy              . . . . . . . . .                                            .   .   .   585
+         11.4.3 Love, be compassionate, be sorry for, have pity, sympathise                                                     586
+         11.4.4 Happy . . . . . . . . . . . . . . . . . . . . .                                                     .   .   .   588
+         11.4.5 Sad      . . . . . . . . . . . . . . . . . . . . .                                                  .   .   .   589
+         11.4.6 Angry . . . . . . . . . . . . . . . . . . . . .                                                     .   .   .   591
+         11.4.7 Confused                . . . . . . . . . . . . . . .                                               .   .   .   591
+         11.4.8 Surprised               . . . . . . . . . . . . . . .                                               .   .   .   592
+    11.5 Desiring and wanting           . . . . . . . . . . . . . . .                                               .   .   .   593
+    11.6 Evaluation: good vs bad        . . . . . . . . . . . . . . .                                               .   .   .   595
+         11.6.1 Good . . . . . . . . . . . . . . . . . . . . .                                                      .   .   .   595
+         11.6.2 Bad      . . . . . . . . . . . . . . . . . . . . .                                                  .   .   .   597
+
+Appendix A: Data sources                                                                                                        601
+  A.1 Introduction     . . . . . . . . . . . . . . . . . .                                              .   .   .   .   .   .   601
+  A.2 Data collections . . . . . . . . . . . . . . . . . .                                              .   .   .   .   .   .   601
+  A.3 Published or publicly available dictionaries and vocabularies                                     .   .   .   .   .   .   601
+  A.4 Unpublished sources              . . . . . . . . . . . .                                          .   .   .   .   .   .   604
+
+Appendix B: Languages                                                  607
+  B.1 Introduction     . . . . . . . . . . . . . . . . . . . . . . . . 607
+  B.2 Languages by subgroups       . . . . . . . . . . . . . . . . . . 607
+  B.3 Language finderlist          . . . . . . . . . . . . . . . . . . 621
+References ...................................................................................................................... 641
+Index of reconstructions by protolanguage ............................................................... 667
+Alphabetical index of reconstructions ........................................................................ 693
+Index of English glosses of reconstructions ............................................................... 721
+             List of tables
+
+
+Table 1  Reconstructed paradigm of POc phonemes          . . . . . . . . . . . . 19
+Table 2  POc orthographies after Grace (1969) and Ross (1988)          . . . . . . 19
+Table 3  Correspondences between PMP and POc protophonemes             . . . . . . 20
+Table 4  Proto Oceanic transitivising *-i . . . . . . . . . . . . . . . . . . 24
+Table 5  Classes of intransitive verb in Proto Oceanic . . . . . . . . . . . . 24
+Table 6  A schematic representation of the English, PMP and POc voice systems      27
+Table 7  The PMP voice morphology (partial)              . . . . . . . . . . . . 27
+Table 8  POc forms reflecting a fossilised allomorph of the PMP actor voice
+         infix *‹um›      . . . . . . . . . . . . . . . . . . . . . . . . 28
+Table 9 POc forms reflecting fossilised PMP perfective infix *‹in›     . . . . . . 29
+Table 10 POc forms reflecting a fossilised PMP *paN-, *N- or *maN- . . . . . . 29
+Table 11 Abbreviations for the genealogical or geographic groups       . . . . . . 32
+Table 12 Bracketing and segmentation conventions in protoforms         . . . . . . 34
+Table 13 Age cohort terms in eight Oceanic languages . . . . . . . . . . . . 58
+Table 14 Age cohort terms in eight Oceanic languages from birth to the onset
+         of adulthood     . . . . . . . . . . . . . . . . . . . . . . . . 59
+Table 15 Hypothetical POc forms for ‘swallow’           . . . . . . . . . . . . 257
+Table 16 Verbs of putting in Wayan Fijian               . . . . . . . . . . . . 447
+Table 17 Verbs of putting in Mangap-Mbula               . . . . . . . . . . . . 448
+Table 18 Posture-profiling verbs of putting in Oceanic languages      . . . . . . 451
+Table 19 English perception verbs        . . . . . . . . . . . . . . . . . . 490
+Table 20 Some verbs of smelling that take both actor and source as subject        503
+Table 21 Sense extensions of reflexes of POc *roŋoR ‘hear’ in some Oceanic
+         languages       . . . . . . . . . . . . . . . . . . . . . . . . 517
+Table 22 Verbs of knowing in the four witness languages               . . . . . . 537
+Table 23 Verbs of thinking in the four witness languages              . . . . . . 543
+Table 24 BELIEVE verbs formed from the causative prefix + a true verb             549
+Table 25 Other BELIEVE lexemes formed with a true verb                . . . . . . 549
+Table 26 Verbs of remembering in the four witness languages           . . . . . . 555
+Table 27 Predicates of indecision in three witness languages          . . . . . . 560
+Table 28 Verbs of teaching formed with a causative prefix             . . . . . . 564
+
+
+
+
+                                        xvii
+             List of figures and maps
+
+
+
+Figures
+Figure 1 Schematic diagram showing higher-order subgroups of Austronesian
+         languages . . . . . . . . . . . . . . . . . . .                           9
+Figure 2 Schematic diagram showing the subgroups of Oceanic Austronesian
+         languages . . . . . . . . . . . . . . . . . . . .                        10
+
+
+Maps
+Map 1     The Austronesian language family and major subgroups . . . . . . 2
+Map 2     Geographic limits of historically known Oceanic speakers and presently
+          documented Lapita sites . . . . . . . . . . . . . . . . . 4
+Map 3     Groups of Oceanic languages used in cognate sets . . . . . . . . 13
+Map 4     Oceanic language groups in northwest Melanesia: the Admiralties and St
+          Matthias groups and the subgroups of Western Oceanic . . . . . . . 13
+Map 5     Locations of Eastern Admiralties languages . . . . . . . . . . 629
+Map 6     Locations of languages of the Western Admiralties family, the North New
+          Guinea linkage and the Sarmi-Jayapura family . . . . . . . . . 630
+Map 7     Locations of languages of the Papuan Tip family . . . . . . . . 631
+Map 8     Locations of languages of the Meso-Melanesian linkage and the St
+          Matthias group . . . . . . . . . . . . . . . . . . . 632
+Map 9     Locations of Southeast Solomonic languages . . . . . . . . . 633
+Map 10    Locations of Temotu languages and Pileni . . . . . . . . . . 634
+Map 11    Locations of languages of north Vanuatu . . . . . . . . . . 635
+Map 12    Locations of languages of central Vanuatu . . . . . . . . . . 636
+Map 13    Locations of South Vanuatu and New Caledonia languages . . . . . 637
+Map 14    Locations of Nuclear Micronesian and some Polynesian languages, and of
+          Yapese and Nauruan . . . . . . . . . . . . . . . .                      638
+Map 15    Locations of Fijian and most Polynesian languages . . . . . .           639
+
+
+
+
+                                        xviii

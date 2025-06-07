@@ -1,0 +1,44 @@
+              Abbreviations
+
+
+Abbreviations are listed below, other than glosses of pronominals. Bound pronominals
+are glossed in accordance with the schema X:nY, where X is one of O (object), P (posses-
+sor) or S (subject); n is 1, 2 or 3, indicating person, and Y is one of SG (singular) or PL
+(plural).
+
+
+
+ACD   Blust & Trussel (ongoing)                   PMic Proto Micronesian
+ADJ   adjective                                   PMM Proto Meso-Melanesian
+Adm Admiralties                                   PMP    Proto Malayo-Polynesian
+ART   article                                     Pn     Polynesian
+BPM body part metaphor                            PNCV Proto North/Central Vanuatu
+CAUS  causative                                   PNGOc Proto New Guinea Oceanic
+CEMP Central/Eastern                              PNNG Proto North New Guinea
+         Malayo-Polynesian                        PNPn Proto Nuclear Polynesian
+CMP Central Malayo-Polynesian                     POc    Proto Oceanic
+CSTR  construct marker                            POLLEX Clark & Biggs (2006)
+DIR   directional (vol.2:267–282)                 PPn    Proto Polynesian
+esp.  especially                                  PREP   preposition
+Fij   Fijian                                      PROc Proto Remote Oceanic
+k.o.  kind of                                     PSOc Proto Southem Oceanic
+Mic   Nuclear Micronesian                         PSV    Proto South Vanuatu
+MM Meso-Melanesian                                PT     Papuan Tip
+N     noun                                        PWMP Proto Western Malayo-Polynesian
+NCal New Caledonia                                PWOc Proto Western Oceanic
+NCV North/Central Vanuatu                         RECIP  reciprocal
+N LOC relational local noun (§3.1.2)              S      singular
+NNG North New Guinea                              s.o.   someone
+NOM   nominaliser                                 s.t.   something
+PAdm Proto Admiralty                              SES    Southeast Solomonic
+PAn Proto Austronesian                            SJ     Sarmi/Jayapura
+PCEMP Proto Central/Eastern Malayo-               SV     South Vanuatu
+         Polynesian                               TM     Temotu
+PCP Proto Central Pacific                         V      verb
+PEMP Proto Eastern Malayo-Polynesian              VI     intransitive verb
+PEOc Proto Eastem Oceanic                         VSt    stative verb
+PEPn Proto Eastern Polynesian                     VT     transitive verb
+PERF   perfect                                    wMP western Malayo-Polynesian
+
+
+                                            xix
