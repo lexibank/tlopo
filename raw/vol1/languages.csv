@@ -163,12 +163,13 @@ misim,Hote (Misim),NNG,Western Oceanic | North New Guinea [NNG] | Huon Gulf | So
 kaiwa,Kaiwa,NNG,Western Oceanic | North New Guinea [NNG] | Huon Gulf | South Huon Gulf,,,iwal1237,-7.20938,146.983
 kapin,Kapin,NNG,Western Oceanic | North New Guinea [NNG] | Huon Gulf | South Huon Gulf,,,kapi1250,-7.06,146.53
 maposbuang,Mapos Buang,NNG,Western Oceanic | North New Guinea [NNG] | Huon Gulf | South Huon Gulf,Mapos-Buang,,mapo1242,-6.86672,146.77399999999997
-mangga,Mangga,NNG,Western Oceanic | North New Guinea [NNG] | Huon Gulf | South Huon Gulf,Mangga Buang,Dialect of Buang,mang1404,-7.00,146.69
+mangga,Mangga,NNG,Western Oceanic | North New Guinea [NNG] | Huon Gulf | South Huon Gulf,Mangga Buang; Manga Buang,Dialect of Buang,mang1404,-7.00,146.69
 buang,Buang,NNG,Western Oceanic | North New Guinea [NNG] | Huon Gulf | South Huon Gulf,,,mapo1247,-6.932815,146.7295
 numbami,Numbami,NNG,Western Oceanic | North New Guinea [NNG] | Huon Gulf | South Huon Gulf,,,numb1247,-7.52806,147.298
 patep,Patep,NNG,Western Oceanic | North New Guinea [NNG] | Huon Gulf | South Huon Gulf,Mumeng (Patep); Mumeng-Patep,,pate1247,-6.92,146.64
 vehes,Vehes,NNG,Western Oceanic | North New Guinea [NNG] | Huon Gulf | South Huon Gulf,,,vehe1237,-6.92151,146.895
 mumeng,Mumeng,NNG,Western Oceanic | North New Guinea [NNG] | Huon Gulf | South Huon Gulf,,,mume1239,-6.9481850000000005,146.5645
+piu,Piu,NNG,Western Oceanic | North New Guinea [NNG] | Huon Gulf | South Huon Gulf,,,piuu1237,-6.97,146.46
 mumengdambi,Mumeng (Dambi),NNG,Western Oceanic | North New Guinea [NNG] | Huon Gulf | South Huon Gulf,,,damb1246,-7.01,146.47
 kumarumumeng,Kumaru Mumeng,NNG,Western Oceanic | North New Guinea [NNG] | Huon Gulf | South Huon Gulf,Mumeng (Kumaru); Mumeng K,,kuma1278,-7.11,146.57
 zenag,Zenag,NNG,Western Oceanic | North New Guinea [NNG] | Huon Gulf | South Huon Gulf,,,zena1237,-6.94,146.55
@@ -197,7 +198,7 @@ barim,Barim,NNG,Western Oceanic | North New Guinea [NNG] | Ngero/Vitiaz | Vitiaz
 kilenge,Kilenge,NNG,Western Oceanic | North New Guinea [NNG] | Ngero/Vitiaz | Vitiaz Strait (areal grouping only),,,kile1242,-5.61613,148.445
 maleu,Maleu,NNG,Western Oceanic | North New Guinea [NNG] | Ngero/Vitiaz | Vitiaz Strait (areal grouping only),,,male1290,-5.62, 148.44
 mato,Mato,NNG,Western Oceanic | North New Guinea [NNG] | Ngero/Vitiaz | Vitiaz Strait (areal grouping only),Nenaya,"= Nenaya, Nengaya",mato1252,-5.92,146.86
-lukeppono,Lukep (Pono),NNG,Western Oceanic | North New Guinea [NNG] | Ngero/Vitiaz | Vitiaz Strait (areal grouping only),Arop-Lokep; Arop-Lukep,= Arop-Lokep,arop1243,-5.31671,147.10299999999998
+lukeppono,Lukep (Pono),NNG,Western Oceanic | North New Guinea [NNG] | Ngero/Vitiaz | Vitiaz Strait (areal grouping only),Arop-Lokep; Arop-Lukep; Lukep Pono,= Arop-Lokep,arop1243,-5.31671,147.10299999999998
 lukep,Lukep,NNG,Western Oceanic | North New Guinea [NNG] | Ngero/Vitiaz | Vitiaz Strait (areal grouping only),,,arop1243,-5.31671,147.10299999999998
 malasanga,Malasanga,NNG,Western Oceanic | North New Guinea [NNG] | Ngero/Vitiaz | Vitiaz Strait (areal grouping only),,,mala1487,-5.9401,147.05800000000002
 mangap,Mangap,NNG,Western Oceanic | North New Guinea [NNG] | Ngero/Vitiaz | Vitiaz Strait (areal grouping only),Kairnanga; Mangap-Mbula; Mbula; Mangap-M.; Mangap Mb.; Mangap Mbula,"= Mangap-Mbula, Kaimanga",mbul1263,-5.66965,148.041
@@ -378,7 +379,7 @@ tolo,Tolo,SES,Eastern Oceanic | Southeast Solomonic [SES] | Bugotu/Gela/Guadalca
 westguadalcanal,West Guadalcanal,SES,Eastern Oceanic | Southeast Solomonic [SES] | Bugotu/Gela/Guadalcanal | Gela/Guadalcanal,W. Guad.; W Guad.; W Guadalcanal; W G’canal,,ghar1239,-9.4791,159.917
 gae,Gae,SES,Eastern Oceanic | Southeast Solomonic [SES] | Bugotu/Gela/Guadalcanal | Gela/Guadalcanal,,,gaee1238,-9.48,159.92
 longgu,Longgu,SES,Eastern Oceanic | Southeast Solomonic [SES] | Bugotu/Gela/Guadalcanal | Longgu/Malaita/Makira,,,long1395,-9.75258,160.66299999999998
-areare,'Are'are,SES,Eastern Oceanic | Southeast Solomonic [SES] | Bugotu/Gela/Guadalcanal | Longgu/Malaita/Makira | Malaita/Makira,’Are’are; ‘Are’are; ’Are’Are,,area1240,-9.20699,161.15800000000002
+areare,'Are'are,SES,Eastern Oceanic | Southeast Solomonic [SES] | Bugotu/Gela/Guadalcanal | Longgu/Malaita/Makira | Malaita/Makira,’Are’are; ‘Are’are; ’Are’Are; ‘Are‘are,,area1240,-9.20699,161.15800000000002
 arosi,Arosi,SES,Eastern Oceanic | Southeast Solomonic [SES] | Bugotu/Gela/Guadalcanal | Longgu/Malaita/Makira | Malaita/Makira,E. Arosi,,aros1241,-10.2441,161.43200000000002
 baegu,Baegu,SES,Eastern Oceanic | Southeast Solomonic [SES] | Bugotu/Gela/Guadalcanal | Longgu/Malaita/Makira | Malaita/Makira,,,baeg1237,-8.49014,160.771
 bauro,Bauro,SES,Eastern Oceanic | Southeast Solomonic [SES] | Bugotu/Gela/Guadalcanal | Longgu/Malaita/Makira | Malaita/Makira,Bauro (West),,baur1252,-10.5826,161.863
@@ -434,7 +435,7 @@ motlav,Motlav,NCV,"Eastern Oceanic | North/Central Vanuatu [NCV] (groupings are 
 mwotlap,Mwotlap,NCV,"Eastern Oceanic | North/Central Vanuatu [NCV] (groupings are areal, based on Clark 1994) | Banks & Torres, Maewo, Ambae, North Pentecost",,,motl1237,-13.66,167.71
 volow,Volow,NCV,"Eastern Oceanic | North/Central Vanuatu [NCV] (groupings are areal, based on Clark 1994) | Banks & Torres, Maewo, Ambae, North Pentecost",,= dialect of Mwotlap,volo1238,-13.66,167.71
 fortsenal,Fortsenal,NCV,"Eastern Oceanic | North/Central Vanuatu [NCV] (groupings are areal, based on Clark 1994) | Espiritu Santo",,,fort1240,-15.4484,166.931
-kiai,Kiai,NCV,"Eastern Oceanic | North/Central Vanuatu [NCV] (groupings are areal, based on Clark 1994) | Espiritu Santo",,,fort1240,-15.4484,166.931
+kiai,Kiai,NCV,"Eastern Oceanic | North/Central Vanuatu [NCV] (groupings are areal, based on Clark 1994) | Espiritu Santo",Kiai (Tazia),,fort1240,-15.4484,166.931
 tambotalo,Tambotalo,NCV,"Eastern Oceanic | North/Central Vanuatu [NCV] (groupings are areal, based on Clark 1994) | Espiritu Santo",,,tamb1253,-15.50,167.14
 aore,Aore,NCV,"Eastern Oceanic | North/Central Vanuatu [NCV] (groupings are areal, based on Clark 1994) | Espiritu Santo",,,aore1237,-15.58,167.17
 sharkbay,Shark Bay,NCV,"Eastern Oceanic | North/Central Vanuatu [NCV] (groupings are areal, based on Clark 1994) | Espiritu Santo",,,shar1251,-15.295,167.152
