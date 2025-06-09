@@ -2155,7 +2155,7 @@ Proto Malaita-Makira *ɣai ‘person, person belonging to …’
  SES: Arosi            ai             ‘native of place’ (e.g. ai [ni] Waŋo ‘native of Wango’)
 PNCV *kai-masi ‘sorcerer’ (Clark 2009) (*masi-ŋa ‘love magic’)
  NCV: Paamese          eimasi           ‘evil spirit’
- NCV: Nguna            na-kaimasi       'sorcerer'
+ NCV: Nguna            na-kaimasi       ‘sorcerer’
  NCV: Nguna            na-kā            ‘people (of a particular chief or place)’
 >
 
@@ -12607,11 +12607,11 @@ PPn *|fia inu| ‘thirsty’ (lit. ‘want drink’)
   Pn:     K’marangi            hieinu                  ‘thirsty’
   Pn:     Takuu                fīunu                   ‘thirsty’
 cf. also:
-   NNG: Takia                   |you o -mat|             ‘thirsty’ [water for -die]
-   MM: Nehan                    |mala inum|              ‘thirsty’ [want drink]
-   SES: Gela                    haga-inu               ‘thirsty’ [want-drink]
-   SES: Kwaio                   |maali goʔu|             ‘thirsty’ [in.need.of drink]
-   Fij:   Wayan                 |mata som|               ‘thirsty’ [want drink]
+   NNG: Takia                   |you o -mat|             ‘thirsty’ (water for -die)
+   MM: Nehan                    |mala inum|              ‘thirsty’ (want drink)
+   SES: Gela                    haga-inu               ‘thirsty’ (want-drink)
+   SES: Kwaio                   |maali goʔu|             ‘thirsty’ (in.need.of drink)
+   Fij:   Wayan                 |mata som|               ‘thirsty’ (want drink)
 >
 
     Second, a number of languages use a body-part expression (cf §9.3) in which the body part
@@ -12630,7 +12630,7 @@ POc *masuR ‘sated with food or drink’ is supported by well distributed refle
  Oceania.
 
 <
-PMP *masuR ‘sated, full (of food)’ (Goodenough 1997)15
+PMP *masuR ‘sated, full (of food)’ (Goodenough 1997)[15]
 POc *masuR ‘sated with food or drink’ (Geraghty 1983: PEOc *mazu)
  Adm: Wuvulu              magu             ‘satiated’
  MM: Bola                 maru             ‘sated, full (of food)’
@@ -12648,7 +12648,7 @@ PMic *masu ‘sated with food or drink’ (Bender et al., 2003)
  Mic: Puluwatese         mat               ‘sated with food or drink’
  Mic: Carolinian         mat               ‘sated with food or drink’
  Mic: Woleaian           matʉ              ‘sated with food or drink’
- Fij:   (dialect unknown) maðu             ‘sated’ (Geraghty 1983)
+ Fij: (dialect unknown) maðu             ‘sated’ (Geraghty 1983)
  Pn:    Tongan           mahu              ‘productive (of land, soil), have plenty of food’
  Pn:    Niuean           mahu              (VI) ‘abound with food’; (N) ‘abundance of food’
 >
@@ -12707,8 +12707,9 @@ restricted to Polynesia.
 
 <
 PCEMP *belen ‘swallow’ (ACD)
-POc *polo(m) (VI), *polom-i- (VT) ‘swallow’ (Lynch 2001b)
-PPn *folo , *folom-i ‘swallow, ingest’ (POLLEX)
+POc *polo(m) (VI) ‘swallow’ (Lynch 2001b)
+POc *polom-i- (VT) ‘swallow’ (Lynch 2001b)
+PPn *folo, *folom-i ‘swallow, ingest’ (POLLEX)
   Pn:    Tongan            folo(-ʔi, -a)      ‘swallow’
   Pn:    Niuean            folo               (VT) ‘swallow (s.t.)’
   Pn:    Niuean            fo-folo            ‘swallow in one gulp’
@@ -12785,7 +12786,7 @@ have -i- in their first syllable, but these are presumably local developments.
 
 <
 PMP *tilen ‘swallow’ (ACD)
-POc (?) *tilo(m)-*tilom-i ‘swallow’
+POc (?) *tilo(m), *tilom-i ‘swallow’
  Fij:     Bauan             tilo                           (VI) ‘swallow’
  Fij:     Bauan             tilom-a                        (VT) ‘swallow s.t.’
 >
@@ -12804,24 +12805,26 @@ merged.
 
 <
 PMP *tilen ‘swallow’ (ACD)
-POc *tolo(m) (VI), *tolom-i- (VT) ‘swallow’ (Lynch 2001b)
+POc *tolo(m) (VI) ‘swallow’ (Lynch 2001b)
+POc *tolom-i- (VT) ‘swallow’ (Lynch 2001b)
   Adm: Seimat              tolom-i            (VT) ‘swallow’
   NCV: Mota                tolo               ‘make a noise in the throat; belch’
 Proto New Caledonia *tonom ‘swallow’ (Lynch 2001b)
   NCal: Nyelâyu            cẽlẽm              ‘swallow’
   NCal: Nêlêmwa            (va)ɣanom          ‘swallow’
-  NCal: Cèmuhî             nēm(ihĩ)           ‘swallow’20
+  NCal: Cèmuhî             nēm(ihĩ)           ‘swallow’[20]
   NCal: Tîrî               num(ĩ)             ‘swallow’
 >
 
 <
 PMP *tilen ‘swallow’ (ACD)
-POc *toloŋ (VI), *toloŋ-i- (VT) ‘swallow’(Lynch 2001b)
+POc *toloŋ (VI) ‘swallow’(Lynch 2001b)
+POc *toloŋ-i- (VT) ‘swallow’(Lynch 2001b)
  Adm: Drehet                -seleŋ            ‘swallow’
  NNG: Gedaged               -talaŋ-ani-       ‘swallow’
  NNG: Megiar                -tuluŋ-i-         ‘swallow’
  NNG: Medebur               -tuluŋ-i-         ‘swallow’
- NNG: Psohoh                kluŋi             ‘swallow’21
+ NNG: Psohoh                kluŋi             ‘swallow’[21]
  NNG: Numbami               -toloŋa           ‘swallow, gulp down’
  PT:     Saliba             tonor-i           ‘swallow’ (Capell 1943)
  PT:     Dawawa             tonoɣa            ‘swallow’
@@ -12851,8 +12854,10 @@ Efate is the closest external relative of the South Vanuatu languages (Lynch 200
 
 <
 PMP *tilen ‘swallow’ (ACD)
-POc *toloŋ (VI), *toloŋ-i- (VT) ‘swallow’(Lynch 2001b)
-PWOc *toŋol (VI), *toŋol-i- (VTI) ‘swallow’
+POc *toloŋ (VI) ‘swallow’(Lynch 2001b)
+POc *toloŋ-i- (VT) ‘swallow’(Lynch 2001b)
+PWOc *toŋol (VI) ‘swallow’
+PWOc *toŋol-i- (VTI) ‘swallow’
  NNG: Tami                toŋ                         ‘swallow’
  NNG: Avau                ŋon                         ‘swallow’[22]
  NNG: Roinji              tuŋa                        ‘swallow’
@@ -12876,7 +12881,8 @@ PWOc *toŋol (VI), *toŋol-i- (VTI) ‘swallow’
 
 <
 PMP *tilen ‘swallow’ (ACD)
-POc *toloŋ (VI), *toloŋ-i- (VT) ‘swallow’
+POc *toloŋ (VI) ‘swallow’
+POc *toloŋ-i- (VT) ‘swallow’
 Proto S Efate/SV *a-tVŋol-i ‘swallow’ (Lynch 2001b)
   NCV: S Efate              tnol            ‘swallow’
   SV: Sye                   e-tŋol-i        ‘swallow’
@@ -12890,7 +12896,8 @@ intransitive and transitive forms is retained, final *-m being retained in trans
 
 <
 PMP *tilen ‘swallow’ (ACD)
-POc *tolo(m) (VI), *tolom-i- (VT) ‘swallow’ (Lynch 2001b)
+POc *tolo(m) (VI) ‘swallow’ (Lynch 2001b)
+POc *tolom-i- (VT) ‘swallow’ (Lynch 2001b)
 PNNG *tono ‘swallow’
  NNG: Tuam                 -tona              ‘swallow’
   NNG: Malai             -ton                      ‘swallow’
@@ -12967,8 +12974,10 @@ to reconstruct these as POc alternants. Forms in d- occur only in NCV languages
 
 <
 PMP *tilen ‘swallow’ (ACD)
-POc *tolo(m) (VI), *tolom-i- (VT) ‘swallow’ (Lynch 2001a)
-PNCV *dolo (VI), *dolom-i- (VT) ‘swallow’ (Clark 2009)
+POc *tolo(m) (VI) ‘swallow’ (Lynch 2001a)
+POc *tolom-i- (VT) ‘swallow’ (Lynch 2001a)
+PNCV *dolo (VI) ‘swallow’ (Clark 2009)
+PNCV *dolom-i- (VT) ‘swallow’ (Clark 2009)
  NCV: Mota                 nolo               ‘swallow’
  NCV: Raga                 dolom-i-a          ‘swallow’
  NCV: W Ambrym             rlum               (VI) ‘swallow’
@@ -13004,8 +13013,10 @@ reflects nasalisation of *-l- as *-n- and acoustic reinterpretation of a *tn- cl
 
 <
 PMP *tilen ‘swallow’ (ACD)
-POc *tolo(m) (VI), *tolom-i- (VT) ‘swallow’ (Lynch 2001b)
-Proto Meso-Melanesian *konom (VI), *konom-i- (VT) ‘swallow’ (Lynch 2001b)
+POc *tolo(m) (VI) ‘swallow’ (Lynch 2001b)
+POc *tolom-i- (VT) ‘swallow’ (Lynch 2001b)
+Proto Meso-Melanesian *konom (VI) ‘swallow’ (Lynch 2001b)
+Proto Meso-Melanesian *konom-i- (VT) ‘swallow’ (Lynch 2001b)
  MM: Lavongai              konem              ‘swallow’
  MM: Lavongai              konomo             ‘throat’
  MM: Tigak                 kanam              ‘swallow’
@@ -13063,7 +13074,8 @@ above. Second, it may reflect a blend of *tolom with an ancestor of PNNG *soŋo 
 separately. Or it may have a separate but unknown extra-Oceanic origin.
 
 <
-POc *sonom (VI), *sonom-i- (VT) ‘swallow’ (cf. PNNG *soŋo ‘chew betel’ above)
+POc *sonom (VI) ‘swallow’ (cf. PNNG *soŋo ‘chew betel’ above)
+POc *sonom-i- (VT) ‘swallow’ (cf. PNNG *soŋo ‘chew betel’ above)
  NNG: Bariai             -son               ‘swallow’
  NNG: Gitua             son                 ‘swallow’
  PT:    Dawawa          sonom               ‘suck’
@@ -13125,7 +13137,8 @@ Polynesian reflexes probably reflects *kati.
 
 <
 PAn *kaRat ‘bite’ (Blust 1999a)
-POc *kaRat (VI), *kaRat-i- (VT) ‘bite’
+POc *kaRat (VI) ‘bite’
+POc *kaRat-i- (VT) ‘bite’
   Adm: Loniu               -yeti           (VT) ‘bite’
   Adm: Mussau              kata            ‘bite’
   NNG: Tami                kalat           ‘chew’
@@ -13197,13 +13210,13 @@ POc *kati[-] ‘bite’
 
     Unambigous reflexes of POc *koto(p) have been found only in NW Solomonic languages
 and in one NCV language. However, it is possible that POc *ŋoto (VI), *ŋot-i (VT) ‘bite’
-reflects a putative PMP †*[ma]ŋete[b, p], a possible intransitive form of the same root (of
+reflects a putative PMP †*[ma]ŋete[b,p], a possible intransitive form of the same root (of
 which no non-Oceanic reflexes are known; cf. §1.3.5.5). If so, then the intransitivising
 function of initial *ŋ- had clearly been lost in Proto Oceanic, as a new transitive was formed
 by adding the POc transitive suffix *-i to the new root.
 
 <
-PMP *kete[b, p] ‘bite’ (ACD)
+PMP *kete[b,p] ‘bite’ (ACD)
 POc *koto(p) ‘bite’
  MM: Solos                 (he)koto            ‘bite’ (he- ‘causative prefix)
  MM: Petats                kot                 ‘bite’
@@ -13216,8 +13229,9 @@ POc *koto(p) ‘bite’
 >
 
 <
-PMP †*[ma]ŋete[b, p] (VI) ‘bite’ (ACD)
-POc *ŋoto (VI), *ŋot-i (VT) ‘bite, nibble’
+PMP †*[ma]ŋete[b,p] (VI) ‘bite’ (ACD)
+POc *ŋoto (VI) ‘bite, nibble’
+POc *ŋot-i (VT) ‘bite, nibble’
  MM: Sursurunga             ŋut-ŋut            (VI) ‘bite, nibble, chew’
  MM: Sursurunga             ŋut-i              (VT) ‘bite, nibble, chew’
  MM: Nehan                  ŋoto               ‘gnaw, bite on’
@@ -13237,7 +13251,8 @@ canonic derivation of POc verbs from PMP reduplicated monosyllables applies, giv
 
 <
 PMP *gutgut ‘front teeth, incisors; gnaw, bite or tear off with the incisors’ (ACD)
-POc *kukut (VI), *kut-i (VT) ‘bite’
+POc *kukut (VI) ‘bite’
+POc *kut-i (VT) ‘bite’
 PMic *ku, *kuku, *kuti, *kukuti ‘bite’ (Bender et al., 2003)
  Mic: Marshallese    kkic           ‘bite’
  Mic: Chuukese       kɨk-kɨk        ‘bite, be wont to bite’
@@ -13256,7 +13271,7 @@ mentioned in §4.3.1.2.
 POc (?) *ŋiri ‘bite’ (?)
  NNG: Sio                     ŋiri              ‘bite’
  NNG: Bing                    ŋire-r            ‘bite’ (-r is final reduplication)
- SES: Bugotu                  ŋiri (kei)        ‘gnash teeth’ (kei ‘tooth’)
+ SES: Bugotu                  |ŋiri (kei)|        ‘gnash teeth’ (kei ‘tooth’)
 >
 
 4.3.5.2 Licking and tasting
@@ -13273,7 +13288,9 @@ treated as a separate verb rather than being integrated into the first set below
 cannot be distinguished on the basis of meaning.
 
 <
-POc *d(r)amʷi(s) (VI), *d(r)amʷis-i- (VT), *(d,dr)amʷe (VT) ‘lick, taste’
+POc *d(r)amʷi(s) (VI) ‘lick, taste’
+POc *d(r)amʷis-i- (VT) ‘lick, taste’
+POc *(d,dr)amʷe (VT) ‘lick, taste’
  Adm: Mussau           rame                ‘lick’
  Adm: Lou              rem                 ‘lick’
  Adm: Lou              rem-rem             ‘lick, stick out tongue’
@@ -13319,7 +13336,8 @@ PMic *camw(a,i)t-i ‘lick’ (Bender et al., 2003)
 
 
 <
-PNGOc *d(r)amʷa (VI), *d(r)amʷar-i- (VT) ‘lick’
+PNGOc *d(r)amʷa (VI) ‘lick’
+PNGOc *d(r)amʷar-i- (VT) ‘lick’
  NNG: Mangseng          romo                ‘taste, lick’
  NNG: Mangseng          romal               ‘lick’
  NNG: Malasanga         rama                ‘taste (food)’
@@ -13374,8 +13392,8 @@ POc *komi ‘close the jaws on s.t., hold s.t. in the mouth’
  NCV: Mota                kom                    ‘keep food in mouth, in cheek’
  NCV: Tamambo             kumi                   ‘hold in mouth’
  NCV: Raga                ɣum-ɣumi               ‘gargle’
- SV: Lenakel              a-kum   w             ‘hold s.t. in the mouth’
- SV: Anejom               a-kumw                 ‘put in the mouth’
+ SV: Lenakel              a-kumʷ                 ‘hold s.t. in the mouth’
+ SV: Anejom               a-kumʷ                 ‘put in the mouth’
  Fij:   Wayan             kum-ti                 (VT) ‘hold s.t. in the mouth’
  Pn:    Tongan            komi-komi              ‘(of biting) be tenacious, refusing to let go’
  Pn:    Rennellese        komi                   ‘clasp firmly; hold, as in the mouth’
@@ -13391,7 +13409,8 @@ the forms below, but the absence of a *q- reflex from the SE Solomonic forms poi
 
 <
 PMP *eŋgem (?) ‘hold in the mouth’ (ACD)
-POc *ogom (VI), *ogom-i (VT) ‘hold in the mouth’
+POc *ogom (VI) ‘hold in the mouth’
+POc *ogom-i (VT) ‘hold in the mouth’
  SES: Gela                ogom-i            ‘hold a solid in the mouth’
  SES: Sa’a                okom-i            (VI, VT) ‘roll around in the mouth and swallow whole’
  SES: Kwaio               okom-ia           ‘swallow’
@@ -13420,7 +13439,7 @@ PSV *a-gumʷ-i ‘put or hold in mouth, suck (on)’ (Lynch 2001c)
 >
 
 <
-PAn*qumuR ‘fill the mouth with food or water’ (ACD)
+PAn *qumuR ‘fill the mouth with food or water’ (ACD)
 POc *qumu(R) ‘suck, hold in mouth’
   Adm: Lou               kum               ‘suck on something, as a popsicle’
   Pn:   Ontong Java      umi               ‘smoke’
@@ -13444,9 +13463,9 @@ PMP *muRmuR ‘hold in the mouth and suck’ (ACD)
 POc *mumu(R) ‘hold in the mouth and suck’
  Adm: Mussau             mumumu           ‘suck’
  SES: Lau                mumu             ‘close the lips’
- SES: Sa’a               mumu             (VI) ‘close up mouth
+ SES: Sa’a               mumu             (VI) ‘close up mouth’
  SES: Sa’a               mumu-ʔi          (VT) ‘hold in lips, teeth’
- SES: Arosi              mumu             (VI) ‘close up mouth
+ SES: Arosi              mumu             (VI) ‘close up mouth’
  SES: Arosi              mumu-ʔi          (VT) ‘hold in lips, teeth’
 cf. also
  Fij: Bauan            bubu               ‘suck sugarcane etc.’
@@ -13500,7 +13519,7 @@ similar meanings, but their forms do not allow one to unite them in a single set
 
 <
 PMP *misik ‘sucking noise made as a signal to another person’ (ACD)
-POc *misi(k) ‘make sucking noise with lips or teeth, as a signal or sign of annoyance’29
+POc *misi(k) ‘make sucking noise with lips or teeth, as a signal or sign of annoyance’[29]
   NNG: Wab             mis               ‘suck’
   PT:  Molima          (lo)misi          ‘smack the lips (in rejection)’
   PT:  Gumasi          (kala)misi-misi   ‘say no by smacking lips’
@@ -13579,7 +13598,8 @@ Although some of the terms below are glossed ‘kiss’, it is questionable whet
 concept was one of kissing, rather than of making a sucking noise to attract attention.
 
 <
-POc *[u]jumu (VI), *[u]jum-i- (VT) ‘suck, kiss, make kissing sound’
+POc *[u]jumu (VI) ‘suck, kiss, make kissing sound’
+POc *[u]jum-i- (VT) ‘suck, kiss, make kissing sound’
  Adm: Lou             sum              ‘kiss’
  Adm: Lou             sum(rek)         ‘push lips for “no”’
  NNG: Kaulong         hom              ‘lick’
@@ -13588,7 +13608,7 @@ POc *[u]jumu (VI), *[u]jum-i- (VT) ‘suck, kiss, make kissing sound’
  NNG: Bariai          sum-sum-i        ‘beckon with a kissing noise’
  MM: Bola             dumu             ‘call a dog by a kissing sound’
  MM: Madak            sumsu            ‘kiss’
- MM: Sursurunga       usum             (VT) [sic] ‘smell (s.t.), sniff’
+ MM: Sursurunga       usum             (VT) ‘smell (s.t.), sniff’ (sic)
  MM: Sursurunga       usm-ai           (VT) ‘smell (s.t.), sniff’
  SES: Arosi           tom-i-           ‘suck’
 PNCV *zum-i ‘kiss, make kissing sound’ (Clark 2009)
@@ -13814,7 +13834,7 @@ PSOc *ma-daRa ‘bleed’ (Lynch 2001c)
   NCV: Paamese           medā            ‘bleed’
   NCV: Nguna             madā            ‘bleed’
   NCV: S Efate           mra             ‘bleed’
-PSV *a-mada[ ] ‘bleed’ (Lynch 2001c)
+PSV *a-mada[] ‘bleed’ (Lynch 2001c)
   SV: Sye                o-mnre          ‘bleed’
   SV: Lenakel            ə-mta           ‘bleed’
   SV: Kwamera            meta            ‘bleed’
@@ -13863,8 +13883,8 @@ and Fijian all reflect *k-, as reconstructed here. Polynesian languages reflect 
 *q-.
 
 <
-PEMP *kanisu or *kanusu or *kanusi or *kinusu ‘to spit’ (Blust 1978a:213: PEMP *qanus-(i)))
-POc *kanisu or *kanusi (N) ‘spittle’; (V) ‘spit’
+PEMP *(kanisu,kanusu,kanusi,kinusu) ‘to spit’ (Blust 1978a:213: PEMP *qanus-(i))
+POc *(kanisu,kanusi) (N) ‘spittle’; (V) ‘spit’
   Adm: Mussau               kanusu               ‘to spit’
   NNG: Kairiru              qanswo-i             (VT) ‘to spit on’
   PT:   Ubir                kanu                 ‘saliva’
@@ -14085,7 +14105,7 @@ POc *[mu]mutaq (VI) ‘vomit’
   NNG: Mumeng (Patep)   mutaʔ               ‘vomit’
   PT:    Ubir           mout                (N, V) ‘vomit’
   PT:    Motu           mu-muta             (N, V) ‘vomit’
-  MM: Lavongai          mutak               ‘vomit’ ?
+  MM: Lavongai          mutak               (?) ‘vomit’
   MM: Notsi             muta                ‘vomit’
   MM: Lamasong          muta                ‘vomit’
   MM: Tinputz           mut                 ‘vomit’
@@ -14123,7 +14143,8 @@ and the transitive form in *-akin[i] marked the product as the object (*luaq-aki
 <
 PMP *liwaq ‘spit out, vomit’ (Dempwolff 1938: *livah)
 POc *luaq (VI) ‘eject forcefully from body; vomit, spit out, (?) discharge seminal fluid’
-POc *luaq-i (VT) ‘vomit on’, *luaq-akin[i] (VT) ‘vomit s.t. up’
+POc *luaq-i (VT) ‘vomit on’
+POc *luaq-akin[i] (VT) ‘vomit s.t. up’
  Adm: Mussau        luek-i             ‘vomit’ (probably < POc *luaq-aki; Blust 1998:95)
  Adm: Lou           luek               ‘spit out’ (as above)
  NNG: Mangap        lua-i              ‘spit out of mouth’
@@ -14160,7 +14181,7 @@ POc *luaq-i (VT) ‘vomit on’, *luaq-akin[i] (VT) ‘vomit s.t. up’
  Fij: Bauan         lua                ‘vomit’
  Fij: Bauan         lua-ða             (VT) ‘vomit on s.t.’
  Fij: Bauan         lua-ra, lua-raka   (VT) ‘vomit s.t. up’
- Fij: Wayan         lue-ði-            VT) ‘vomit on s.t.’
+ Fij: Wayan         lue-ði-            (VT) ‘vomit on s.t.’
  Fij: Wayan         lue-ðakini-        (VT) ‘vomit s.t. up; blurt s.t. out’
  Pn:  Tongan        lua                (VI) ‘vomit’
  Pn:  Rennellese    gua                ‘throw up, vomit; discharge seminal fluid’
@@ -14290,7 +14311,9 @@ POc *mimiq ‘urinate’
 >
 
 <
-POc *mimi(s) ‘urinate’, *mimis-i- ‘urinate on s.t.’, *mimis-aki[ni]- ‘pass s.t. in the urine’
+POc *mimi(s) ‘urinate’
+POc *mimis-i- ‘urinate on s.t.’
+POc *mimis-aki[ni]- ‘pass s.t. in the urine’
  MM:  Bola           mimi           ‘urinate’
  MM:  Nakanai        mimis-i        ‘urinate’
  MM:  Meramera       mimi           ‘urinate’
@@ -14327,7 +14350,7 @@ POc *mimi(s) ‘urinate’, *mimis-i- ‘urinate on s.t.’, *mimis-aki[ni]- ‘
  NCV: Ninde          müsmüs         ‘urinate’ (John Lynch, pers. comm.)
  NCV: Avok           mismis         ‘urinate’ (John Lynch, pers. comm.)
  NCV: Nasvang        mismis         ‘urinate’ (John Lynch, pers. comm.)
- NCV: Nisvai         mis/busbus     ‘urinate’ (John Lynch, pers. comm.)
+ NCV: Nisvai         mis(busbus)     ‘urinate’ (John Lynch, pers. comm.)
  NCV: Maskelynes     mismis         ‘urinate’ (John Lynch, pers. comm.)
  NCV: Pt Sandwich    misü           ‘urinate’ (John Lynch, pers. comm.)
  NCV: Nahavaq        mis            ‘urinate’ (John Lynch, pers. comm.)
@@ -14346,7 +14369,7 @@ POc *mimi(s) ‘urinate’, *mimis-i- ‘urinate on s.t.’, *mimis-aki[ni]- ‘
  Pn:  Niuean         mimi           ‘urinate’
  Pn:  Rennellese     mimi           ‘urinate’
  Pn:  Samoan         mīmī           ‘urinate’
- Pn:  Tikopia        mī, mīmī       ‘urinate
+ Pn:  Tikopia        mī, mīmī       ‘urinate’
  Pn:  Maori          mimi           ‘urinate’
  Pn:  Hawaiian       mimi           ‘urine, urinate’
 cf. also:
@@ -14363,7 +14386,9 @@ cf. also:
 
 
 <
-PSOc *meRe- ‘urine’, *[me]meRe ‘urinate’, meRes-i- ‘urinate on’ (Clark 2009: PNCV *memere ‘urine, urinate’)
+PSOc *meRe- ‘urine’ (Clark 2009: PNCV *memere ‘urine, urinate’)
+PSOc *[me]meRe ‘urinate’ (Clark 2009: PNCV *memere ‘urine, urinate’)
+PSOc *meRes-i- ‘urinate on’ (Clark 2009: PNCV *memere ‘urine, urinate’)
   NCV: Mota              meme              ‘bladder; urine, urinate’
   NCV: Mwotlap           mem               ‘urinate’
   NCV: Araki             m̫ere             ‘urine, urinate’
@@ -14437,7 +14462,9 @@ Tikopia tiko is the regular word, while peka is used in the presence of kin with
 constraint of relationship is observed.
 
 <
-POc *pekas ‘defecate; faeces’, pekas-i ‘defecate on s.t.’, pekas-aki[ni] ‘defecate s.t.’
+POc *pekas ‘defecate; faeces’
+POc *pekas-i ‘defecate on s.t.’
+POc *pekas-aki[ni] ‘defecate s.t.’
  Adm: Seimat              pepe-a              ‘faeces, defecation’
  Adm: Loniu               pehe                ‘defecate’
  Adm: Lou                 pɛɛk                ‘excrete’
@@ -14631,7 +14658,7 @@ only in lacking the initial consonant. The forms with m- apparently reflect an a
 (§1.3.5.5).
 
 <
-POc *[m]ase ‘breathe’ ?
+POc *[m]ase (?) ‘breathe’
  MM: Tabar                 mase                ‘breathe’
  MM: Lamasong              mas                 ‘breathe’
  MM: Madak                 mas                 ‘breathe’
@@ -14688,7 +14715,7 @@ cf. also:
   NNG: Sio           ŋa-ŋa         ‘breathe hard, pant’
   MM:  Nakanai       lala(hate)    ‘breathe, sigh’ (hate ‘liver, innards’)
   MM:  Ramoaaina     ŋoro-ŋoro     ‘pant, be breathless, be out of breath’ (conflates reflexes of *ŋaRa ‘pant’ and *ŋorok ‘grunt’)
-  MM:  Roviana       ŋa-ŋaha       ‘pant with exertion
+  MM:  Roviana       ŋa-ŋaha       ‘pant with exertion’
 >
 
 4.5.3 Snoring
@@ -14700,7 +14727,7 @@ reduplicated form *ŋoro-ŋorok means ‘channel above upper lip’ (§3.4.12).
 PMP *ŋorok ‘snore’
 POc *ŋorok ‘grunt, growl, snore’
  Adm: Lou                 ŋur                ‘grunt, growl, snore’
- Adm: Mussau              ŋō                 ‘to snore’ (for †ŋol)
+ Adm: Mussau              ŋō                 ‘to snore’ (for †_ŋol_)
  NNG: Takia               ŋur                ‘snore’
  NNG: Lukep               ŋoro               ‘breathe’
  NNG: Sio                 ŋoro               ‘snore, gasp for breath’
@@ -14816,9 +14843,9 @@ PMP *qaŋa[p,b] ‘gape, open the mouth wide’ (ACD)
 POc *(q)aŋap ‘gape’
  Adm: Mussau            aŋa               ‘gape’
  SES: Lau               āŋa               ‘open mouth wide’
- SES: Lau               āŋa fafa          ‘gape’ (fafā ‘wide open’)
+ SES: Lau               |āŋa fafa|          ‘gape’ (fafā ‘wide open’)
  SES: Sa’a              aŋa               ‘to open’
- SES: Sa’a              aŋa wawa          ‘open the mouth to speak’ (wawa ‘mouth’)
+ SES: Sa’a              |aŋa wawa|          ‘open the mouth to speak’ (wawa ‘mouth’)
  NCV: Mota              waŋa              ‘open the mouth, gape, gasp’
  Fij:    Wayan          ðaŋa              ‘vagina’
 >
@@ -14890,7 +14917,7 @@ Reduplicated forms of the kind Blust refers to are shown separately below the ma
 set.
 
 <
-PAn *ma-Suab, *Suab (V) yawn; (N) yawning’ (ACD)
+PAn *ma-Suab, *Suab (V)  ‘yawn; (N) yawning’ (ACD)
 PMP *ma-huab ‘(V) yawn, (N) yawning’ (ACD)
 PCEMP *mawab ‘(V) yawn, (N) yawning’ (Blust 1993a, ACD)
 POc *mawap ‘(V) yawn, (N) yawning’
@@ -14943,7 +14970,7 @@ POc *ma-mawap ‘to yawn’ (ACD)
   SES: Lau              ma-maofi         ‘yawn’
   NCV: Mota             ma-maova         ‘to gape, yawn’
   NCV: Raga             ma-maoava        ‘to yawn’
-  NCV: Tamambo          (ɣani) mao-mao   ‘yawn’ (ɣani ‘eat’) (awa > ao)
+  NCV: Tamambo          |(ɣani) mao-mao|   ‘yawn’ (ɣani ‘eat’) (awa > ao)
 PPn *ma-mawa ‘to yawn’ (POLLEX)
   Pn:   Tongan          ma-mao           ‘to yawn’
   Pn:   Niuean          ma-mao           ‘to yawn’
@@ -14965,7 +14992,8 @@ to have won out in the Bel group (part of North New Guinea) and in much of SE So
 POc *kuk(a,u) is intriguing: few reflexes are found, but their distribution indicates a POc origin.
 
 <
-POc *koso (VI), *koso-ŋa (N) ‘cough’
+POc *koso (VI) ‘cough’
+POc *koso-ŋa (N) ‘cough’
  Adm: Drehet              ohuŋ                 (N) ‘cough’
  NNG: Poeng               koso                 ‘cough’
  NNG: Medebur             koso                 ‘cough’
@@ -15013,7 +15041,7 @@ PNCV *vuru ‘cough’ (Clark 2009)
   NCV: Paamese          hilu               ‘cough; have a cold’
   NCV: Lewo             wuri               ‘choke’
   NCV: Port Sandwich    pü                 ‘cough’
-  NCV: Nguna            (maro)vuru         ‘be short of breath,
+  NCV: Nguna            (maro)vuru         ‘be short of breath’
   NCV: S Efate          puk                (VI) ‘cough’
   SV: Sye               na-vruɣ            (N) ‘cough’
   Fij: Bauan            vū                 (VI) ‘cough, cough up’
@@ -15044,10 +15072,10 @@ PPn *tale (N,V) ‘cough’ (POLLEX)
 >
 
 <
-PPn: *male (VI) ‘cough, clear the throat’ (POLLEX)
+PPn *male (VI) ‘cough, clear the throat’ (POLLEX)
   Pn:   Tongan             male-male           ‘cough’
   Pn:   Rennellese         mage-mage           ‘clear throat of hoarseness’
-  Pn:   Samoan             male, male-male ‘cough’ (polite register)
+  Pn:   Samoan             male, male-male     ‘cough’ (polite register)
   Pn:   Tikopia            mare                ‘clear the throat’
   Pn:   Maori              mare                ‘cough, phlegm’
   Pn:   Tahitian           mare                ‘cough’
@@ -15192,7 +15220,7 @@ POc ?*(k)asiŋe(k) ‘sneeze’
  NNG: Ham              -eskiŋ            ‘sneeze’ (metathesis of *k- and *-s-)
  NNG: Manam            -kinso            ‘sneeze’ (metathesis of *-s- and *-ŋ-)
  NNG: Bam              (i)aksieŋ         ‘sneeze’
- NNG: Hote             -ik kasiŋe        ‘sneeze’ (-s- for †-l-)
+ NNG: Hote             |-ik kasiŋe|        ‘sneeze’ (-s- for †-l-)
 cf. also:
  NNG: Akolet           kicim             ‘sneeze’
  NNG: Mangseng         (ia)ksiem         ‘sneeze’
@@ -15347,9 +15375,9 @@ PMic *maturu ‘sleep’ (Bender et. al., 2003)
 <
 PWOc *mataip ‘be fast asleep’
  PT:   Wedau             matave               ‘lie down, sleep, be asleep’
- PT:   Dobu              (ʔeno)mʷataya        ‘sleep’, as distinct from ‘lie’ (ʔeno ‘lie down’)
- PT:   Iamalele          (ʔeno)mataiva        (VI) (fall) asleep
- PT:   Iamalele          mataiva              (ADVERB) (sleep) soundly
+ PT:   Dobu              (ʔeno)mʷataya        ‘sleep’ (as distinct from ‘lie’, _ʔeno_ ‘lie down’)
+ PT:   Iamalele          (ʔeno)mataiva        (VI) ‘(fall) asleep’
+ PT:   Iamalele          mataiva              (ADV) ‘(sleep) soundly’
  PT:   Iduna             (-eno)mataiɣa        ‘sleep heavily, be dead to the world’
  MM: Tigak               matai                ‘sleep’
  MM: Tiang               mətəi                ‘sleep’
@@ -15482,12 +15510,12 @@ particle *via (§11.5) and a term for ‘sleep’ (cf. ‘wants to eat’ for �
 for ‘thirsty’; §§4.3.3.1–2).
 
 <
-PCP *via moze ‘sleepy’ (lit. ‘want sleep’)
-  Fij:   Bauan             via moðe            (VI) ‘sleepy’
-  Pn:    Tongan            fie mohe-a          (VI) ‘be sleepy’
-  Pn:    Marquesan         hia moe             ‘sleepy’
+PCP *|via moze| ‘sleepy’ (lit. ‘want sleep’)
+  Fij:   Bauan             |via moðe  |          (VI) ‘sleepy’
+  Pn:    Tongan            |fie mohe-a|          (VI) ‘be sleepy’
+  Pn:    Marquesan         |hia moe   |          ‘sleepy’
 cf. also:
-   Fij:   Wayan             mata-moðe          ‘be sleepy’ (mata- ‘want’)
+   Fij:   Wayan            |mata-moðe |         ‘be sleepy’ (mata- ‘want’)
 >
 
 312 Malcolm Ross and Meredith Osmond
@@ -15511,18 +15539,18 @@ gentle, easy’ (vol.2:215). The Polynesian reflexes show irregular loss of *-m-
 
 <
 POc *malu[-malumu] ‘weak, tired’
- MM: Ramoaaina         malu-malum                    ‘weak, faint, sick’
- MM: Tolai             [mal-]malu                    ‘weak, tired, of a part of the body’
- MM: Patpatar          mal-malu(ŋo)                  ‘tired from working; lazy’
- Fij:   Bauan          malu-malumu                   ‘weak, faint, sick, soft’
- Pn:    Tongan         molū                          ‘soft, tender, flexible’
- Pn:    Niuean         molū                          ‘soft, weak, humble’
- Pn:    Pukapukan      malū                          ‘weak, gentle’
- Pn:    Tikopia        malūlū                        ‘weary; soft, weak, flabby’ (-l- for †-r-)
+ MM: Ramoaaina       malu-malum          ‘weak, faint, sick’
+ MM: Tolai           [mal-]malu          ‘weak, tired, of a part of the body’
+ MM: Patpatar        mal-malu(ŋo)        ‘tired from working; lazy’
+ Fij: Bauan          malu-malumu         ‘weak, faint, sick, soft’
+ Pn:  Tongan         molū                ‘soft, tender, flexible’
+ Pn:  Niuean         molū                ‘soft, weak, humble’
+ Pn:  Pukapukan      malū                ‘weak, gentle’
+ Pn:  Tikopia        malūlū              ‘weary; soft, weak, flabby’ (-l- for †-r-)
 cf. also:
-   SES: Arosi                    marō                ‘weary, bodily tired’
-   NCV: Mota                     male                ‘weak’41
-   NCV: Namakir                  molo-mal            ‘lazy’
+ SES: Arosi          marō                ‘weary, bodily tired’
+ NCV: Mota           male                ‘weak’[41]
+ NCV: Namakir        molo-mal            ‘lazy’
 >
 
    PCP *wai-wai ‘weak, tired’ is apparently a reduplicated reflex of POc *waiR ‘river, fresh
@@ -15531,11 +15559,11 @@ dissolve’ points to the connection between water and weakness.
 
 <
 PCP *wai-wai ‘weak, tired’
-  Fij:   Rotuman         vai-vai            ‘flexible, easily bent’
+  Fij: Rotuman       vai-vai     ‘flexible, easily bent’
 PPn *wai-wai ‘weak, lacking strength’ (POLLEX)
-  Pn:    Tongan          vaivaia            (VI) ‘feel weak’
-  Pn:    Samoan          vāivai             ‘be weak; be tired; be timid, faint-hearted; watery (of a mix); faint, of colours’
-  Pn:    Tokelauan       vāivai             ‘tiredness, weariness, exhaustion’
+  Pn:  Tongan        vaivaia     (VI) ‘feel weak’
+  Pn:  Samoan        vāivai      ‘be weak; be tired; be timid, faint-hearted; watery (of a mix); faint, of colours’
+  Pn:  Tokelauan     vāivai      ‘tiredness, weariness, exhaustion’
 >
 
    PPn *fītaqa ‘be tired, fatigued’ evidently reflects POc *pita ‘heavy, difficult’, reconstructed
@@ -15621,7 +15649,7 @@ cf. also:
 The next set is almost in complementary geographic distribution to the *nipi/*mipi sets.
 
 <
-POc *(b,bw)o(l,R)e ‘to dream’ (Geraghty 1990: *boRe; Lynch 2002: PEOc *bwoRe)
+POc *(b,bʷ)o(l,R)e ‘to dream’ (Geraghty 1990: *boRe; Lynch 2002: PEOc *bwoRe)
  MM: Tabar          (para)bore          ‘have a dream’
  SES: Lengo         bole                ‘dream’
  SES: Lau           (teo)bole           ‘to dream’ (teo ‘sleep’)
@@ -15629,11 +15657,11 @@ POc *(b,bw)o(l,R)e ‘to dream’ (Geraghty 1990: *boRe; Lynch 2002: PEOc *bwoRe
  SES: Kwaio         bole                ‘dream’
  SES: ’Are’are      |(maʔasu) pore|     ‘to dream’ (maʔasu ‘sleep’)
  SES: ’Are’are      |(maʔasu) poreha|   (N) ‘a dream’
- SES: Sa’a          |(maʔahu) pwole|    ‘to dream’ (maʔahu ‘sleep’)
- SES: Arosi         bwore               ‘dream’
+ SES: Sa’a          |(maʔahu) pʷole|    ‘to dream’ (maʔahu ‘sleep’)
+ SES: Arosi         bʷore               ‘dream’
  SES: To’aba’ita    (bīŋa)bole          (VI) ‘dream’ (bīŋa ‘sleep’)
 PNCV *bore (N,V) ‘dream’ (Clark 2009)
- NCV: Mota          bwore               ‘to dream, dream of person or thing’
+ NCV: Mota          bʷore               ‘to dream, dream of person or thing’
  NCV: Paamese       poi                 ‘dream’
  NCV: Namakir       bor                 ‘dream’
  NCal: Iaai         bwi                 ‘dream’
@@ -15716,7 +15744,8 @@ but no POc intransitive verb with this sense has been identified. The reason see
 expression meaning ‘open the eyes’ is used in many languages for ‘wake up’.
 
 <
-PCP *qadra (VI) ‘awaken, be awake’, *qadrav-i- (VT) ‘keep watch over’
+PCP *qadra (VI) ‘awaken, be awake’
+PCP *qadrav-i- (VT) ‘keep watch over’
   Fij:  Bauan             yadra             (VI) ‘open the eyes, wake up’
   Fij:  Bauan             yadrav-a          (VT) ‘watch for’
   Fij:  Wayan             adra              (VI) ‘wake up’
@@ -15774,7 +15803,8 @@ in winking or blinking, rather than the initial stage of going to sleep. There i
 
 <
 PMP *kimet ‘blink, flash’ (Blust 1986)
-POc *kimo ‘blink, wink’, *kimo-kimo ‘keep blinking or winking’
+POc *kimo ‘blink, wink’
+POc *kimo-kimo ‘keep blinking or winking’
  Fij:   Bauan              kimo-mo         ‘blink in bright light’
  Fij:   Wayan              kimo-mo         ‘(eyes) be half-closed’
  Fij:   Wayan              kimo-kimo       ‘(eyes) blink constantly, (flame) flicker’
@@ -15791,12 +15821,12 @@ cf. also:
 >
 
 <
-PSOc *bwil(i,u) ‘close eyes’ (Lynch 2004)
+PSOc *bʷil(i,u) ‘close eyes’ (Lynch 2004)
   NCV: Tamambo             buelu-buelu        ‘close eyes’
-  NCV: Uripiv              -pwil              ‘shut eye, blink’
-  NCV: Lonwolwol           bwil               ‘close eyes’
-  NCV: N Efate             pwili              ‘close eyes’
-  NCV: Lewo                pwelu              ‘close eyes’
+  NCV: Uripiv              -pʷil              ‘shut eye, blink’
+  NCV: Lonwolwol           bʷil               ‘close eyes’
+  NCV: N Efate             pʷili              ‘close eyes’
+  NCV: Lewo                pʷelu              ‘close eyes’
   SV: Lenakel              a-pul              ‘close eyes, sleep’
   SV: Kwamera              a-pri              ‘sleep, close eyes, wink, blink’
 >
@@ -15829,7 +15859,8 @@ POc *malip ‘laugh’ (ACD)
   MM: Label                malih              ‘laugh’
   Mic: Woleaian            mmali              ‘laugh, smile, grin’
   Mic: Puluwatese          mel                ‘laugh, giggle a little, smile’
-PCP *mali ‘laugh, smile, grin’, *mali-mali ‘keep laughing’
+PCP *mali ‘laugh, smile, grin’
+PCP *mali-mali ‘keep laughing’
   Fij:  Wayan              mali               (VI) ‘laugh, smile, grin’
   Fij:  Wayan              mali-mali          ‘keep laughing’
   Fij:  Wayan              mali-ðakini-       (VT) ‘laugh at’
@@ -15894,16 +15925,16 @@ may be a secondary meaning that has arisen independently in various daughter-lan
 <
 PMP *ŋiŋi ‘grin, show the teeth’ (ACD: PWMP)
 POc *ŋiŋi ‘bare one’s teeth, grin’
- NNG: Kove                 ŋiŋi            ‘laugh’
- NNG: Gitua                ŋiŋ             ‘laugh’
- NNG: Kilenge              ŋiŋ             ‘laugh’
- NNG: Poeng                ŋiŋi-           ‘tooth’
- PT:     Motu              ɣiɣi            ‘snarl’
- PT:     Sudest            ŋiŋi-           ‘teeth’
+ NNG: Kove              ŋiŋi            ‘laugh’
+ NNG: Gitua             ŋiŋ             ‘laugh’
+ NNG: Kilenge           ŋiŋ             ‘laugh’
+ NNG: Poeng             ŋiŋi-           ‘tooth’
+ PT:  Motu              ɣiɣi            ‘snarl’
+ PT:  Sudest            ŋiŋi-           ‘teeth’
 cf. also:
-   Mic: Ponapean            ŋī-                ‘tooth’
-   Mic: Carolinian          ŋī-                ‘tooth’
-   Mic: Woleaian            ŋi-                ‘tooth’
+ Mic: Ponapean          ŋī-             ‘tooth’
+ Mic: Carolinian        ŋī-             ‘tooth’
+ Mic: Woleaian          ŋi-             ‘tooth’
 >
 
 320 Malcolm Ross and Meredith Osmond
@@ -15925,30 +15956,30 @@ POc *ŋisi ‘bare one’s teeth, grin’
 
 <
 POc *[ŋi]ŋisa ‘bare one’s teeth, grin’
- PT:     Tawala            gigiha                   ‘bare teeth in anger’
- MM: Lavongai              ŋisa-                    ‘tooth’
- MM: Tigak                 ŋisa-                    ‘tooth’
- MM: Tabar                 ŋiŋica                   ‘laugh’
- MM: Sursurunga            ŋisa-                    ‘tooth’
- MM: Patpatar              ŋise                     ‘show teeth’
- MM: Patpatar              ŋise-                    ‘teeth’
- MM: Tangga                ŋisa-                    ‘tooth; mouth’
- MM: Madak                 ŋisa-                    ‘tooth’
- MM: Tolai                 ŋie-                     ‘mouth’
- MM: Label                 ŋis                      ‘tooth’
- MM: Siar                  ŋise-                    ‘tooth’
- MM: Siar                  (kabin)ŋise-             ‘molar tooth’
- SES: Arosi                ŋi-ŋita                  ‘show the teeth, snarl’
- NCV: Mota                 ŋi-ŋisa                  ‘grin’
- NCV: Raga                 ŋi-ŋiha                  ‘smile’
- NCV: Uripiv               -ŋis                     ‘grin, smile’
- SV: Lenakel               n-iŋhə                   ‘gums; smile’
- SV: Kwamera               n-iŋaha                  ‘gums; smile’
- Pn:     Tikopia           ŋisa                     (N) ‘smile’
- Pn:     Tikopia            ŋisa-ŋisa                (V) ‘smile’
+ PT:  Tawala            gigiha               ‘bare teeth in anger’
+ MM:  Lavongai          ŋisa-                ‘tooth’
+ MM:  Tigak             ŋisa-                ‘tooth’
+ MM:  Tabar             ŋiŋica               ‘laugh’
+ MM:  Sursurunga        ŋisa-                ‘tooth’
+ MM:  Patpatar          ŋise                 ‘show teeth’
+ MM:  Patpatar          ŋise-                ‘teeth’
+ MM:  Tangga            ŋisa-                ‘tooth; mouth’
+ MM:  Madak             ŋisa-                ‘tooth’
+ MM:  Tolai             ŋie-                 ‘mouth’
+ MM:  Label             ŋis                  ‘tooth’
+ MM:  Siar              ŋise-                ‘tooth’
+ MM:  Siar              (kabin)ŋise-         ‘molar tooth’
+ SES: Arosi             ŋi-ŋita              ‘show the teeth, snarl’
+ NCV: Mota              ŋi-ŋisa              ‘grin’
+ NCV: Raga              ŋi-ŋiha              ‘smile’
+ NCV: Uripiv            -ŋis                 ‘grin, smile’
+ SV:  Lenakel           n-iŋhə               ‘gums; smile’
+ SV:  Kwamera           n-iŋaha              ‘gums; smile’
+ Pn:  Tikopia           ŋisa                 (N) ‘smile’
+ Pn:  Tikopia           ŋisa-ŋisa            (V) ‘smile’
 cf. also:
-   PT:    Motu                 ise-                 ‘tooth’ (s for †d)
-   PT:    Mekeo                nie-                 ‘tooth’
+ PT:  Motu              ise-                 ‘tooth’ (s for †d)
+ PT:  Mekeo             nie-                 ‘tooth’
 >
 
 4.7.3 Weeping and crying
@@ -16018,7 +16049,8 @@ POc *tanis-aki[ni]- ‘cry because of s.t.’
  NCV:  Nguna           taŋis-i         ‘cry for, mourn’
  SV:   Sye             toŋi            ‘cry for’
  NCal: Iaai            teŋe            ‘cry’
-PMic *taŋi ‘cry, weep’, *taŋiSi- ‘cry, weep for s.o./s.t.’ (Bender et al. 2003)
+PMic *taŋi ‘cry, weep’
+PMic *taŋiSi- ‘cry, weep for s.o./s.t.’ (Bender et al. 2003)
  Mic:  Kiribati        taŋ, taŋi-taŋ   ‘cry’
  Mic:  Kiribati        taŋir-a         ‘desire, cry for (s.t.)’
  Mic:  Kosraean        tʌŋ             ‘cry’
@@ -16049,29 +16081,30 @@ PMic *taŋi ‘cry, weep’, *taŋiSi- ‘cry, weep for s.o./s.t.’ (Bender et 
 
 
 <
-POc *ŋara(s) ‘cry loudly’, *ŋaras-i- ‘cry loudly for’ (ACD: *ŋara ‘complain loudly’)
- Adm: Mussau               ŋala               ‘cry’
- MM: Sursurunga            ŋə-ŋə-ŋar          ‘cry out in pain (of childbirth)’
- MM: Sursurunga            ŋə-ŋra-i           ‘anguish; cry out in distress’
-  MM:     Konomala         naŋə               ‘cry’
-  MM:     Tolai            ŋa-ŋara            ‘cry, scream, squeal, as a pig’
-  MM:     Solos            ŋa                 ‘cry’
-  MM:     Petats           ŋal                ‘cry’
-  MM:     Halia (Haku)     ŋala               ‘cry’
-  MM:     Selau            ŋara               ‘cry’
-  SES:    Bugotu           ŋara               ‘rail, shout at, threaten’
-  SES:    Gela             ŋa-ŋarah-a         ‘cry loudly’
-  SES:    Talise           ŋara               ‘cry’
-  SES:    Birao            ŋara               ‘cry’
-  SES:    ’Are’are         nara               ‘cry’
-  SES:    Oroha            nara               ‘cry’
-  SES:    Arosi            ŋara               ‘cry’
-  SES:    Arosi            ŋaras-i            ‘cry for’
-  SES: Sa’a                ŋara               ‘cry’
-  NCV: Mota                ŋara               ‘cry’
-  NCV: Raga                ŋara-i             ‘shout, call out, shriek, screech, yell’
-  NCV: Tamambo             ŋara               ‘cry (especially of children)’
-  Pn:  Tongan              ŋala               ‘cry loudly, howl’
+POc *ŋara(s) ‘cry loudly’
+POc *ŋaras-i- ‘cry loudly for’ (ACD: *ŋara ‘complain loudly’)
+ Adm: Mussau           ŋala               ‘cry’
+ MM:  Sursurunga       ŋə-ŋə-ŋar          ‘cry out in pain (of childbirth)’
+ MM:  Sursurunga       ŋə-ŋra-i           ‘anguish; cry out in distress’
+ MM:  Konomala         naŋə               ‘cry’
+ MM:  Tolai            ŋa-ŋara            ‘cry, scream, squeal, as a pig’
+ MM:  Solos            ŋa                 ‘cry’
+ MM:  Petats           ŋal                ‘cry’
+ MM:  Halia (Haku)     ŋala               ‘cry’
+ MM:  Selau            ŋara               ‘cry’
+ SES: Bugotu           ŋara               ‘rail, shout at, threaten’
+ SES: Gela             ŋa-ŋarah-a         ‘cry loudly’
+ SES: Talise           ŋara               ‘cry’
+ SES: Birao            ŋara               ‘cry’
+ SES: ’Are’are         nara               ‘cry’
+ SES: Oroha            nara               ‘cry’
+ SES: Arosi            ŋara               ‘cry’
+ SES: Arosi            ŋaras-i            ‘cry for’
+ SES: Sa’a             ŋara               ‘cry’
+ NCV: Mota             ŋara               ‘cry’
+ NCV: Raga             ŋara-i             ‘shout, call out, shriek, screech, yell’
+ NCV: Tamambo          ŋara               ‘cry (especially of children)’
+ Pn:  Tongan           ŋala               ‘cry loudly, howl’
 >
 
 
@@ -16089,18 +16122,18 @@ below do not reflect POc *[ŋuk]ŋuk ‘grunt, moan’ but are independent coina
 <
 PMP *ŋuk, *ŋuk-ŋuk ‘grunt, moan’ (ACD)
 POc *[ŋuk]ŋuk ‘grunt, moan’ (ACD)
- Adm: Lou                ŋok                  ‘grunt from falling’
- NNG: Gedaged            ŋuk-ŋuk              ‘stutter, catch one’s breath, when crying’
- NNG: Sio                ŋɔ                   ‘grunt (animal sound)’
- NNG: Mapos Buang        ŋūk                  ‘grunt, mumble’
- MM: Tolai               ŋuk, ŋukuk           (VI) ‘to whine, murmur, cry’
- Fij:   Rotuman          ŋu                   ‘grumble, complain, grunt’
- Fij:   Wayan            ŋūŋū                 ‘groan’
- Fij:   Wayan            ŋūŋū-raki            ‘groan a lot’
- Pn:    Tongan           ŋū                   ‘grunt’
- Pn:    Samoan           ŋū                   ‘growl’
- Pn:    Tikopia          ŋu                   ‘grunt; utter’
- Pn:    Hawaiian         nū-nū                ‘moaning, groaning, cooing, grunting’
+ Adm: Lou              ŋok                  ‘grunt from falling’
+ NNG: Gedaged          ŋuk-ŋuk              ‘stutter, catch one’s breath, when crying’
+ NNG: Sio              ŋɔ                   ‘grunt (animal sound)’
+ NNG: Mapos Buang      ŋūk                  ‘grunt, mumble’
+ MM:  Tolai            ŋuk, ŋukuk           (VI) ‘to whine, murmur, cry’
+ Fij: Rotuman          ŋu                   ‘grumble, complain, grunt’
+ Fij: Wayan            ŋūŋū                 ‘groan’
+ Fij: Wayan            ŋūŋū-raki            ‘groan a lot’
+ Pn:  Tongan           ŋū                   ‘grunt’
+ Pn:  Samoan           ŋū                   ‘growl’
+ Pn:  Tikopia          ŋu                   ‘grunt; utter’
+ Pn:  Hawaiian         nū-nū                ‘moaning, groaning, cooing, grunting’
 >
 
 324 Malcolm Ross and Meredith Osmond
@@ -16120,12 +16153,12 @@ __formgroup__
      PT:  Sudest      viⁿde              ‘goosebumps’ (viⁿde-viⁿde ‘thorns’)
      Pn:  Niuean      ta-tala            ‘have goosebumps, raise prickles’ (POc *tara ‘fish spear’, PPn *tala ‘barb’) (vol.2:224)
 
-<
+FIXME - must recognize grammatical glosses <
 PCP *voto-voto (V) ‘have goosebumps’
   Fij: Wayan    voto, voto-voto       ‘thorn, prickle; gooseflesh’ (POc *poto(k)); ‘thorn’ (vol.3:125)
   Fij: Wayan    |sē PRO votovoto|     (V) ‘have goosebumps’ (sē ‘blossom, bloom’)
   Pn:  Niuean   foto-foto             ‘feel prickly, have goosebumps’
->
+FIXME >
 
 
 4.7.6 Trembling and shivering
@@ -16150,33 +16183,33 @@ also occurred in terms for ‘be cold’, one might infer that its earliest mean
 and for shivering with cold or a fever.
 
 <
-POc *riri/*ridriŋ ‘tremble, shiver’
- NNG: Mangap                riŋriŋ             ‘tremor, shaking’
- NNG: Sio                   rindi              (ADJ) ‘standing on end (as a frightened cat’s fur)’
- NNG: Wab                   rir                ‘afraid’ (for †lil)
-  NNG: Ulau-Suain          rara-rir            ‘tremble’
-  NNG: Ali                 ri-rir              ‘tremble’
-  MM: Bola (Harua)         pa-riri             ‘tremble’
-  MM: Nakanai              pa-ri-riri          ‘tremble’ (-r- three times for †-l-)
-  SES: Bugotu              ariri               ‘shake, tremble, of persons, shiver as with ague’
-  SES: Longgu              ʔari-ʔariri         ‘be excited, shake from excitement or cold’ (ʔ- for 0̷-)
-  SES: Lau                  a-riri             ‘be shaken, tremble with ague’
-  SES: Kwaio                a-lili             ‘tremble’
-  SES: ’Are’are             a-riri             ‘tremble, shiver’
-  SES: Sa’a                 a-riri             ‘tremble, shiver from cold or fear’
-  SES: Arosi                a-riri             ‘tremble with fear, be very feverish’
-  NCV: Kiai                 (sarsarama)riri    ‘tremble (as in malaria)’
-  NCV: Uripiv               e-ɾi-ɾiɾ           ‘shiver’ (John Lynch, pers. comm.)
-  Fij:   Bauan              lili(wa)           ‘cold’
-  Pn:    Samoan             lili               ‘shiver, tremble’
+POc *riri, *ridriŋ ‘tremble, shiver’
+ NNG: Mangap             riŋriŋ             ‘tremor, shaking’
+ NNG: Sio                rindi              (ADJ) ‘standing on end (as a frightened cat’s fur)’
+ NNG: Wab                rir                ‘afraid’ (for †lil)
+ NNG: Ulau-Suain         rara-rir           ‘tremble’
+ NNG: Ali                ri-rir             ‘tremble’
+ MM:  Bola (Harua)       pa-riri            ‘tremble’
+ MM:  Nakanai            pa-ri-riri         ‘tremble’ (-r- three times for †-l-)
+ SES: Bugotu             ariri              ‘shake, tremble, of persons, shiver as with ague’
+ SES: Longgu             ʔari-ʔariri        ‘be excited, shake from excitement or cold’ (ʔ- for 0̷-)
+ SES: Lau                a-riri             ‘be shaken, tremble with ague’
+ SES: Kwaio              a-lili             ‘tremble’
+ SES: ’Are’are           a-riri             ‘tremble, shiver’
+ SES: Sa’a               a-riri             ‘tremble, shiver from cold or fear’
+ SES: Arosi              a-riri             ‘tremble with fear, be very feverish’
+ NCV: Kiai               (sarsarama)riri    ‘tremble (as in malaria)’
+ NCV: Uripiv             e-ɾi-ɾiɾ           ‘shiver’ (John Lynch, pers. comm.)
+ Fij: Bauan              lili(wa)           ‘cold’
+ Pn:  Samoan             lili               ‘shiver, tremble’
 PPn *taka-lili ‘tremble, shiver’
-  Pn:    Tongan             teke-lili          ‘shiver, tremble, quiver, esp. with cold or rage’
-  Pn:    E Futunan          taka-lili          ‘shiver with cold, tremble with fear’
-  Pn:    W Uvean            taka-lili          ‘shiver with cold, tremble with desire’
-  Pn:    Anutan             taka-riri          ‘shake as in shivering or convulsion’
-  Pn:    Rennellese         taka-gigi          ‘shudder, as when hearing a sharp and painful noise’
+ Pn:  Tongan             teke-lili          ‘shiver, tremble, quiver, esp. with cold or rage’
+ Pn:  E Futunan          taka-lili          ‘shiver with cold, tremble with fear’
+ Pn:  W Uvean            taka-lili          ‘shiver with cold, tremble with desire’
+ Pn:  Anutan             taka-riri          ‘shake as in shivering or convulsion’
+ Pn:  Rennellese         taka-gigi          ‘shudder, as when hearing a sharp and painful noise’
 cf. also:
-   NNG: Mangap             -mo-riri            ‘be timid, afraid (to do s.t.)’
+ NNG: Mangap             -mo-riri           ‘be timid, afraid (to do s.t.)’
 >
 
 [42] Of the six forms, only *ridriŋ has a reflex (Mangap riŋriŋ) with a final consonant.
@@ -16204,26 +16237,26 @@ the meaning ‘fear’ in Bel languages (Bilibil etc.) and in Fijian. The Takia 
 
 <
 POc *rere ‘tremble, shiver, shake with fear, be fearful’
- Adm: Titan                lel                 (VI) ‘shake, tremble’
- Adm: Titan                lele-ani             (VT) ‘shake’
-  NNG: Bilibil            -rer                 ‘fear (s.o.)’
-  NNG: Matukar            rer                  ‘fear (s.o.)’
-  NNG: Megiar             -rer                 ‘fear (s.o.)’
-  NNG: Takia              -rer                 ‘afraid, fearful; fear (s.o.)’
-  NNG: Takia              tini- i-rer          ‘be afraid’ [skin- it-afraid]
- NNG: Medebur             -rer                 ‘fear (s.o.)’
- NNG: Manam               rere(sabu)           ‘fear, tremble, shudder’
- NNG: Bam                 -rier                ‘tremble’
- NNG: Wogeo               -re-rere             ‘tremble’
- NNG: Kaulong             reh                  ‘(?) shake’ [sic]
- SES: Arosi               rere(bʷeru)          ‘run away’ (bʷeru ‘run’)
- NCV: Mota                rere                 ‘tremble, shake with fear’
- NCV: Mwotlap             yeyey                ‘tremble, quiver with cold, fever or age’
- Fij:    Bauan            rere                 ‘fear’
+ Adm: Titan            lel                 (VI) ‘shake, tremble’
+ Adm: Titan            lele-ani            (VT) ‘shake’
+ NNG: Bilibil          -rer                ‘fear (s.o.)’
+ NNG: Matukar          rer                 ‘fear (s.o.)’
+ NNG: Megiar           -rer                ‘fear (s.o.)’
+ NNG: Takia            -rer                ‘afraid, fearful; fear (s.o.)’
+ NNG: Takia            |tini- i-rer|       ‘be afraid’ (skin- it-afraid)
+ NNG: Medebur          -rer                ‘fear (s.o.)’
+ NNG: Manam            rere(sabu)          ‘fear, tremble, shudder’
+ NNG: Bam              -rier               ‘tremble’
+ NNG: Wogeo            -re-rere            ‘tremble’
+ NNG: Kaulong          reh                 ‘(?) shake’ (sic)
+ SES: Arosi            rere(bʷeru)         ‘run away’ (bʷeru ‘run’)
+ NCV: Mota             rere                ‘tremble, shake with fear’
+ NCV: Mwotlap          yeyey               ‘tremble, quiver with cold, fever or age’
+ Fij: Bauan            rere                ‘fear’
 PMic *rere ‘tremble (with fear)’
- Mic: Kosraean            rar-rar              ‘tremble (with fear)’
- Mic: Chuukese            rer                  ‘tremble (with fear)’
- Mic: Ponapean            rɛr                  ‘tremble (with fear)’
+ Mic: Kosraean         rar-rar             ‘tremble (with fear)’
+ Mic: Chuukese         rer                 ‘tremble (with fear)’
+ Mic: Ponapean         rɛr                 ‘tremble (with fear)’
 >
 
 
@@ -16239,30 +16272,30 @@ was rare medially and almost non-existent initially, suggesting that *dredre was
 
 <
 POc *dre(r,dr)e ‘tremble, shake’
-  MM: Tabar                 deri             ‘tremble’
-  MM: Notsi                 dil              ‘tremble’
-  MM: Lihir                 del              ‘tremble’
-  MM: Lamasong              de               ‘tremble’
-  MM: Madak                 dede             ‘tremble in fear’
-  MM: Ramoaaina             dada-der         ‘shake, shiver, tremble (from fright)’
-  MM: Siar                  te-ter           ‘tremble’ (t- for †d-)
-  SES: Gela                 dede             ‘shake (of something unstable)’
+  MM: Tabar             deri          ‘tremble’
+  MM: Notsi             dil           ‘tremble’
+  MM: Lihir             del           ‘tremble’
+  MM: Lamasong          de            ‘tremble’
+  MM: Madak             dede          ‘tremble in fear’
+  MM: Ramoaaina         dada-der      ‘shake, shiver, tremble (from fright)’
+  MM: Siar              te-ter        ‘tremble’ (t- for †d-)
+  SES: Gela             dede          ‘shake (of something unstable)’
 PMic *cece ‘shake, tremble’ (Bender et al. 2003)
-  Mic: Kiribati             rere             ‘dart quickly’
-  Mic: Chuukese             c̣cẹ̄ c̣         ‘quake, tremor, shake, shiver, tremble’
-  Mic: Puluwatese           ceec, cece-      (VI, N) ‘shake, tremble’
-  Mic: Carolinian           ṣec̣             ‘shake, tremble’
-  Mic: Woleaian             c̣cø̣ c̣cø̣      ‘shake, tremble’
+  Mic: Kiribati         rere          ‘dart quickly’
+  Mic: Chuukese         c̣c̣ēc̣          ‘quake, tremor, shake, shiver, tremble’
+  Mic: Puluwatese       ceec, cece-   (VI, N) ‘shake, tremble’
+  Mic: Carolinian       ṣec̣           ‘shake, tremble’
+  Mic: Woleaian         c̣c̣øc̣c̣ø        ‘shake, tremble’
 PPn *tete ‘shiver, tremble’
-  Pn:     Tongan            tete             ‘tremble, shiver, quiver, vibrate’
-  Pn:     Samoan            tete             ‘tremble, shiver, shake’
-  Pn:     E Futunan        tete               (VI, N) ‘tremble’
-  Pn:     E Uvean          tete               ‘tremble’
-  Pn:     Luangiua         ke-keke            ‘quiver’
-  Pn:     Rapanui          tete-tete          ‘fever; tremble’
-  Pn:     Mangarevan       tete               ‘tremble with fear or shiver with cold’
-  Pn:     Tuamotuan        tete               ‘chatter, as teeth with cold’
-  Pn:     Māori            tete-tete          ‘chatter, rattle’
+  Pn:  Tongan           tete          ‘tremble, shiver, quiver, vibrate’
+  Pn:  Samoan           tete          ‘tremble, shiver, shake’
+  Pn:  E Futunan        tete          (VI, N) ‘tremble’
+  Pn:  E Uvean          tete          ‘tremble’
+  Pn:  Luangiua         ke-keke       ‘quiver’
+  Pn:  Rapanui          tete-tete     ‘fever; tremble’
+  Pn:  Mangarevan       tete          ‘tremble with fear or shiver with cold’
+  Pn:  Tuamotuan        tete          ‘chatter, as teeth with cold’
+  Pn:  Māori            tete-tete     ‘chatter, rattle’
 >
 
                                                         Bodily conditions and activities 327
@@ -16277,7 +16310,7 @@ or *drudru.
 <
 POc *ruru ‘shake, tremble’
  NNG: Tuam                -rur                ‘tremble’
- NNG: MalaI               -rur                ‘tremble’
+ NNG: Malai               -rur                ‘tremble’
  NNG: Gitua               ruru                ‘tremble’
  NNG: Mangap              -mu-rur             ‘shiver, tremble; be frightened, be surprised’
  NNG: Sio                 ruru                ‘shake; fear, be afraid’
@@ -16404,17 +16437,17 @@ may have been wider than this. No semantic difference between them is discernibl
 <
 PMP *ma-diŋdiŋ ‘cold’ (Blust 1970)
 POc *ma-ridri(ŋ) ‘(s.o.) be cold’
- NNG: Mutu                 marir                ‘(s.o.) cold’ (final -r for †-d)
- NNG: Apalik               miri-n               ‘(s.o.) cold’ (or < POc *madridriŋ)
- NNG: Bebeli               merir                ‘(s.o.) cold’ (or < POc *madridriŋ)
- NNG: Kaiep                marir                ‘(s.o.) cold’ (or < POc *madridriŋ)
- NNG: Kairiru              -merir               ‘(s.o.) cold’ (or < POc *madridriŋ)
- SJ:    Kayupulau          mariri-e             ‘(s.o.) cold’ (or < POc *madridriŋ)
- NCV: Mota                 ma-marir             ‘cold’ (final -r for †-n)
- NCV: Merlav               marir                ‘cold’ (final -r for †-n)
- NCV: Kiai                 (sarsara)mariri      ‘tremble (as in malaria)’
- NCV: Namakir              miladi-n             ‘cold’ (-l- for †-r-)
- NCV: Nguna                malādi               ‘cold’ (-l- for †-r-)
+ NNG: Mutu               marir                ‘(s.o.) cold’ (final -r for †-d)
+ NNG: Apalik             miri-n               ‘(s.o.) cold’ (or < POc *madridriŋ)
+ NNG: Bebeli             merir                ‘(s.o.) cold’ (or < POc *madridriŋ)
+ NNG: Kaiep              marir                ‘(s.o.) cold’ (or < POc *madridriŋ)
+ NNG: Kairiru            -merir               ‘(s.o.) cold’ (or < POc *madridriŋ)
+ SJ:  Kayupulau          mariri-e             ‘(s.o.) cold’ (or < POc *madridriŋ)
+ NCV: Mota               ma-marir             ‘cold’ (final -r for †-n)
+ NCV: Merlav             marir                ‘cold’ (final -r for †-n)
+ NCV: Kiai               (sarsara)mariri      ‘tremble (as in malaria)’
+ NCV: Namakir            miladi-n             ‘cold’ (-l- for †-r-)
+ NCV: Nguna              malādi               ‘cold’ (-l- for †-r-)
 >
 
 330 Malcolm Ross and Meredith Osmond
@@ -16444,7 +16477,7 @@ PMic *maci, *macici ‘be cold’ (Bender et al. 2003)
 >
 
 <
-PMP *maka-diŋdiŋ ‘cold’ (Blust 1970)43
+PMP *maka-diŋdiŋ ‘cold’ (Blust 1970)[43]
 POc *maka-ridriŋ ‘(s.o.) be cold’
   MM: Nakanai               maka-rigi              ‘cold, be cold’
   MM: Notsi                 maka-dil               ‘(s.o.) cold’
@@ -16478,7 +16511,8 @@ PPn *maka-lili ‘cold, chilly’ (POLLEX)
 *malaso-ŋ ‘cold (noun)’.
 
 <
-POc *malaso (VI) ‘be cold’, *malaso-ŋ (N) ‘cold’
+POc *malaso (VI) ‘be cold’
+POc *malaso-ŋ (N) ‘cold’
  NNG: Roinji              malasu(na)         ‘(s.o.) cold’
  NNG: Wab                 malsuŋ             ‘cold’
  NNG: Bing                malsoŋ             ‘cold’
@@ -16494,20 +16528,20 @@ POc *malaso (VI) ‘be cold’, *malaso-ŋ (N) ‘cold’
    Finally, the cognate set below has an uneven distribution, but the correspondence is good.
 
 <
-POc *p(ʷ )o(q)ut ‘be cold’
- MM: Nehan                   pous-pous-pousu ‘stiff, numb with cold’
- MM: Petats                  pout            ‘(s.o.) cold’
- MM: Halia                   bout            ‘(water) cold’
+POc *(p,pʷ)o(q)ut ‘be cold’
+ MM: Nehan               pous-pous-pousu  ‘stiff, numb with cold’
+ MM: Petats              pout             ‘(s.o.) cold’
+ MM: Halia               bout             ‘(water) cold’
 PMic *fou ‘feel cold’
- Mic: Marshallese            (pi)yaw          ‘chilly, cool’
- Mic: Mokilese               pow              ‘feel cold’
- Mic: Mokilese               (ko)pow          ‘feel cold (of people)’
-  Mic:    Chuukese           fə̄w             ‘cold, be cold’
-  Mic:    Chuukese           əffə̄w           ‘chills’
-  Mic:    Chuukese           a-ffə̄w          ‘be cold to 3the touch’
-  Mic:    Woleaian           fø̄ʉ             ‘be cold, cool, shiver’
-  Mic:    Woleaian           (xaẓi)fø̄ʉ       ‘be cold, chilly’
-  Mic:    Carolinian         ffōy, ffə̄y      ‘feel cold’
+ Mic: Marshallese        (pi)yaw          ‘chilly, cool’
+ Mic: Mokilese           pow              ‘feel cold’
+ Mic: Mokilese           (ko)pow          ‘feel cold (of people)’
+ Mic: Chuukese           fə̄w              ‘cold, be cold’
+ Mic: Chuukese           əffə̄w            ‘chills’
+ Mic: Chuukese           a-ffə̄w           ‘be cold to 3the touch’
+ Mic: Woleaian           fø̄ʉ              ‘be cold, cool, shiver’
+ Mic: Woleaian           (xaẓi)fø̄ʉ        ‘be cold, chilly’
+ Mic: Carolinian         ffōy, ffə̄y       ‘feel cold’
 >
 
 4.8.2 Feeling hot
@@ -16519,41 +16553,43 @@ derived from the verb POc *tunu ‘roast on embers or in fire’ (vol.1:293).
 
 <
 PMP *[ma]panas ‘be/become warm, hot (of fire, sun, fever, water)’ (ACD)
-POc *[ma]panas ‘warm, hot’, *pa-panas-i- ‘warm (s.t.) up’
- Adm: Mussau           anasa              ‘(s.o.) hot’
-  NNG: Kove              wana-wana        ‘(s.o.) hot’
-  NNG: Tami              wa-wan           ‘(s.o.) hot’
-  NNG: Arawe             ka-wanes         ‘(s.o.) hot’
-  NNG: Takia             wana-na-n        ‘hot’
-  NNG: Numbami           wa-wana          ‘hot’
-  NNG: Mapos Buang       vanɛ             ‘hot’
-  SJ:  Sobei             me-fna           ‘(s.o.) hot’
-  MM: Tigak              ma-nas           ‘(s.o.) hot’
-  MM: Ramoaaina          vu-van           ‘(s.o.) hot’
-  SES: Gela              pa-pana          ‘heat up (food)’
-  SES: Longgu            pa-pana          ‘be warm’
-  SES: Longgu            pa-panaz-i-      ‘warm (s.o.)’
-  SES: Bauro             ma-hana          ‘warm’
-  SV: Kwamera            -a-pʷan-a-pʷan ‘hot’
-  SV: Anejom             a-hen-hen
-  Fij:  Rotuman          mah-mahana       ‘warm’
-PPn *ma-fana ‘be warm’, *faka-fana ‘warm (s.t.) up (POLLEX)
-  Pn:   Tongan           ma-fana          ‘warm (of food, water, drink); unpleasantly warm, stuffy (of room’)
-  Pn:   Tongan           mā-fana          ‘warmth; warm (of country, time, day); pleasantly warm’
-  Pn:   Niuafo’ou        mā-fana          ‘warm’
-  Pn:   Niuean           ma-fana          ‘warm’
-  Pn:   Niuean           faka-fana        ‘warm up (as food)’
-  Pn:   Samoan           mā-fana-fana     ‘warm’
-  Pn:   Samoan           faʔa-fana        ‘reheat, warm up food’
-  Pn:   Tuvalu           ma-fana          ‘warm, re-bake’
-  Pn:   E Futunan        mā-fana          ‘warm’
-  Pn:   E Futunan        faka-fana        ‘warm up cold food’
-  Pn:   Sikaiana         mā-hana          ‘warm’
-  Pn:   Luangiua         ma-haŋa          ‘warm; feverish’
-  Pn:   Takuu            ma-fana          ‘(of water, etc. but not weather) warm; feverish’
-  Pn:   Hawaiian         ma-hana          ‘warm’
-  Pn:   Tahitian         ma-hana-hana     ‘warm’
-  Pn:   Mangarevan       maʔana           ‘warm’
+POc *[ma]panas ‘warm, hot’
+POc *pa-panas-i- ‘warm (s.t.) up’
+ Adm: Mussau           anasa            ‘(s.o.) hot’
+ NNG: Kove             wana-wana        ‘(s.o.) hot’
+ NNG: Tami             wa-wan           ‘(s.o.) hot’
+ NNG: Arawe            ka-wanes         ‘(s.o.) hot’
+ NNG: Takia            wana-na-n        ‘hot’
+ NNG: Numbami          wa-wana          ‘hot’
+ NNG: Mapos Buang      vanɛ             ‘hot’
+ SJ:  Sobei            me-fna           ‘(s.o.) hot’
+ MM:  Tigak            ma-nas           ‘(s.o.) hot’
+ MM:  Ramoaaina        vu-van           ‘(s.o.) hot’
+ SES: Gela             pa-pana          ‘heat up (food)’
+ SES: Longgu           pa-pana          ‘be warm’
+ SES: Longgu           pa-panaz-i-      ‘warm (s.o.)’
+ SES: Bauro            ma-hana          ‘warm’
+ SV:  Kwamera          -a-pʷan-a-pʷan   ‘hot’
+ SV:  Anejom           a-hen-hen
+ Fij: Rotuman          mah-mahana       ‘warm’
+PPn *ma-fana ‘be warm’
+PPn *faka-fana ‘warm (s.t.) up’ (POLLEX)
+ Pn:  Tongan           ma-fana          ‘warm (of food, water, drink); unpleasantly warm, stuffy (of room)’
+ Pn:  Tongan           mā-fana          ‘warmth; warm (of country, time, day); pleasantly warm’
+ Pn:  Niuafo’ou        mā-fana          ‘warm’
+ Pn:  Niuean           ma-fana          ‘warm’
+ Pn:  Niuean           faka-fana        ‘warm up (as food)’
+ Pn:  Samoan           mā-fana-fana     ‘warm’
+ Pn:  Samoan           faʔa-fana        ‘reheat, warm up food’
+ Pn:  Tuvalu           ma-fana          ‘warm, re-bake’
+ Pn:  E Futunan        mā-fana          ‘warm’
+ Pn:  E Futunan        faka-fana        ‘warm up cold food’
+ Pn:  Sikaiana         mā-hana          ‘warm’
+ Pn:  Luangiua         ma-haŋa          ‘warm; feverish’
+ Pn:  Takuu            ma-fana          ‘(of water, etc. but not weather) warm; feverish’
+ Pn:  Hawaiian         ma-hana          ‘warm’
+ Pn:  Tahitian         ma-hana-hana     ‘warm’
+ Pn:  Mangarevan       maʔana           ‘warm’
 >
 
 
@@ -16738,9 +16774,9 @@ POc *[ma]saki(t) (V) ‘be in pain, sick’; (N) ‘sickness’
  NNG: Mapos Buang   rak               ‘sick’
  NNG: Sengseng      sahi              ‘sick’ (h reflects *g)
  MM:  Vitu          maðaɣi            ‘sick’
- MM:  Tigak         masak             ‘be in painʼ
+ MM:  Tigak         masak             ‘be in pain’
  MM:  Tolai         maki              (N) ‘pain, ache’; (VI) ‘to ache, be sore’
- SES: Gela          (va)haɣi          ‘be in pain; be ill, have malariaʼ
+ SES: Gela          (va)haɣi          ‘be in pain; be ill, have malaria’
  SES: Talise        masaɣe            ‘sick’
  SES: Tolo          masahe            ‘sick, ill; illness, disease’
  SES: Kwaio         mataʔi            ‘fever, malaria’
@@ -16842,7 +16878,7 @@ POc *p(w)idik ‘throb’
   Fij:    Bauan             vidi-vidi        (N) ‘tick (of clock or watch)’
   Fij:    Bauan             vidi-raka        ‘suffer jumping pain, in fits and starts’
   Fij:    Wayan             vidik-i          ‘flick s.t.’
-  Fij:    Wayan             vidi ni uto      (N) ‘heartbeat’ (uto ‘heart’)
+  Fij:    Wayan             |vidi ni uto|      (N) ‘heartbeat’ (uto ‘heart’)
 >
 
   Reflexes of PAn *maCay, PMP *matay ‘die, dead’ (§4.2.1.2) carry a number of extended
@@ -16936,9 +16972,9 @@ cf. also:
 >
 
 <
-PMP *mata ni baReq ‘core of a boil’ (ACD)
-POc *mata ni paR(a,o)(q) ‘core of a boil’
- Fij:   Bauan             mata ni bō         ‘core of a boil’
+PMP *|mata ni baReq| ‘core of a boil’ (ACD)
+POc *|mata ni paR(a,o)(q)| ‘core of a boil’
+ Fij:   Bauan             |mata ni bō|         ‘core of a boil’
 >
 
 <
@@ -17010,7 +17046,7 @@ narrowed to ‘sore, boil’ in NNG languages, to elephantiasis in Arosi, and to
 in Mokilese.
 
 <
-POc *boto[-] probably ‘swelling’
+POc *boto[-] ‘swelling’ (probably)
  NNG: Lukep (Pono)        botoboto             ‘sore’
  NNG: Mangap              ᵐbeete               ‘sore, ulcer’
  NNG: Sio                 ᵐboto                ‘sore’
@@ -17112,7 +17148,8 @@ that the Kaiwa, Numbami and the EOc reflexes of POc *kaRat added to their meanin
 
 <
 PAn *kaRat ‘bite’ (Blust 1999a)
-POc *kaRat (VI), *kaRat-i (VT) ‘bite’
+POc *kaRat (VI) ‘bite’
+POc *kaRat-i (VT) ‘bite’
   NNG: Kaiwa               alas               ‘itchy’
   NNG: Numbami             ka-kalata          ‘itchy’
   SES: Bugotu              ɣaðat-i            (VT) ‘to sting, bite s.t.’
@@ -17126,15 +17163,15 @@ PNCV *kaRa-ti ‘itchy, stinging; bite’ (Clark 2009)
 
 <
 POc *karak ‘ringworm; to itch’
- Adm: Lou                kara(mosa)            ‘an itch’ (mo-mosa-n ‘itchy’)
- NNG: Yabem              (ŋa)kalaʔ             ‘burning, itchy, scratchy, tickling, sexually excited’
-  NNG: Bukawa               (ŋa)galaʔ          ‘itchy’
-  NNG: Kaulong              kalek              ‘to itch; to scratch’
-  PT:  Dawawa               ɣara-ɣara          ‘itching’
-  MM: E Kara                ma-ɣarak           ‘itch’
-  MM: Tolai                 kara-karek         ‘itchy’
-  MM: Ramoaaina             kəra(bi)           ‘to itch, smart’
-  MM: Babatana              kiraka             ‘to itch’ (-i- for †-a-)
+ Adm: Lou                kara(mosa)         ‘an itch’ (_mo-mosa-n_ ‘itchy’)
+ NNG: Yabem              (ŋa)kalaʔ          ‘burning, itchy, scratchy, tickling, sexually excited’
+ NNG: Bukawa             (ŋa)galaʔ          ‘itchy’
+ NNG: Kaulong            kalek              ‘to itch; to scratch’
+ PT:  Dawawa             ɣara-ɣara          ‘itching’
+ MM: E Kara              ma-ɣarak           ‘itch’
+ MM: Tolai               kara-karek         ‘itchy’
+ MM: Ramoaaina           kəra(bi)           ‘to itch, smart’
+ MM: Babatana            kiraka             ‘to itch’ (_-i-_ for †_-a-_)
 >
 
    A number of languages across cognate sets also use their term for ‘itchy’ to mean ‘sexually
@@ -17143,13 +17180,14 @@ Hawaiian in Pn; §4.2.2.2).
 
 <
 PAn *gaCel ‘itch, feel itchy’ (ACD)
-PMP *gatel ‘itch’ (N); *ma-gatel ‘be itchy’ (ACD)
+PMP *gatel ‘itch’ (N)
+PMP *ma-gatel ‘be itchy’ (ACD)
 POc *makato ‘(be) itchy’
   NNG: Medebur              makato
   NNG: Kaiep                maket
   MM: Lihir                 makat
 cf. also:
-   Adm: Drehet              mwaʔatoŋ           ‘itchy’ (mwaʔati ‘to itch’ )
+   Adm: Drehet              mwʷʔatoŋ           ‘itchy’ (_mʷaʔati_ ‘to itch’ )
    NNG: Gedaged             maga(gau)          ‘to itch, lust after’
    MM: Nakanai              makasili           ‘to itch’
 >
@@ -17158,13 +17196,13 @@ cf. also:
 
 <
 PPn *maŋe(s,h)o ‘itch(y), sexually titillated’ (POLLEX: *maŋeho)
-  Pn:   Niuean             maŋiho               ‘to itch; scabies, a tree whose leaves cause a painful sting; to be hot (of spices)’ (-h < *-s- or *-h-)
-  Pn:   Samoan             maŋeso               (V) ‘itch’ (-s < *-s-)
+  Pn:   Niuean             maŋiho               ‘to itch; scabies, a tree whose leaves cause a painful sting; to be hot (of spices)’ (_-h_ < _*-s-_ or _*-h-_)
+  Pn:   Samoan             maŋeso               (V) ‘itch’ (_-s_ < _*-s-_)
   Pn:   E Futunan          maŋeo                ‘itchy’
   Pn:   Rennellese         maŋeo                ‘itch, sore; be sexually titillated’
   Pn:   Tikopia            maŋeo                ‘yaws, be afflicted with yaws’
   Pn:   W Futunan          maŋeo                ‘be itchy, the itch’
-  Pn:   Hawaiian           maneʔo               ‘itch, itchy; sexually titillated’ (-ʔ- for †-0̷-)
+  Pn:   Hawaiian           maneʔo               ‘itch, itchy; sexually titillated’ (_-ʔ-_ for †_-0̷-_)
 cf. also:
    Adm: Lou                  ŋaɛs               ‘scratch an itch’
 >
@@ -17214,25 +17252,24 @@ as noted below.
 <
 PAn *kuris ‘scurfy skin disease, scabies’; (V) ‘scratch’ (ACD)
 POc *kuri-kuri ‘scabies’
-   PT:    Dobu             kuli-kuli           ‘scabies’
-   PT:    Molima           kuli-kuli           ‘skin disease in people; mange in dogs’
-   PT:    Iduna            kuli-kuli           ‘scabies’
-   SES: Kwaio              koli-koli           ‘scabies’
+   PT:  Dobu             kuli-kuli           ‘scabies’
+   PT:  Molima           kuli-kuli           ‘skin disease in people; mange in dogs’
+   PT:  Iduna            kuli-kuli           ‘scabies’
+   SES: Kwaio            koli-koli           ‘scabies’
 cf. also:
-   PT:    Motu             kuhi-kuhi           ‘scabies; itch’
+   PT:  Motu             kuhi-kuhi           ‘scabies; itch’
 >
 
 <
-PMP *karut ‘scratch, rasp’5
-POc *kʷaru-kʷaru, *kʷaro-kʷaro ‘k.o. skin disease, probably scabies’ (POc *kʷaru(t),
- *kʷarut-i- ‘scratch with fingernails’; vol.1:237, modified by Ross 2011)
- Adm: Lou                  kor-koro            ‘patchy skin fungus’
- MM: Nehan                 kar-karu(ana)       ‘rash’
- NCV: Lewo                 koro-koro           ‘k.o. skin disease’
- NCV: Nguna                karo(a)             ‘scabies, rough surface’ (karo ‘scratch, scrape’)
- NCV: Avava                koro-kor            ‘scabies’
- NCV: Nāti                 nü-kar              ‘scabies’
- Fij:   Bauan              karo-karo           ‘scabies’
+PMP *karut ‘scratch, rasp’[5]
+POc *kʷaru-kʷaru, *kʷaro-kʷaro ‘k.o. skin disease, probably scabies’ (POc _*kʷaru(t)_, _*kʷarut-i-_ ‘scratch with fingernails’; vol.1:237, modified by Ross 2011)
+ Adm: Lou                kor-koro            ‘patchy skin fungus’
+ MM:  Nehan              kar-karu(ana)       ‘rash’
+ NCV: Lewo               koro-koro           ‘k.o. skin disease’
+ NCV: Nguna              karo(a)             ‘scabies, rough surface’ (karo ‘scratch, scrape’)
+ NCV: Avava              koro-kor            ‘scabies’
+ NCV: Nāti               nü-kar              ‘scabies’
+ Fij: Bauan              karo-karo           ‘scabies’
 >
 
    Dictionary-makers of Papua New Guinea languages tend to attribute reflexes of POc
@@ -17244,16 +17281,15 @@ neck caused by a bacterial infection of local lymph nodes, but this shift in den
 surprising one, as scabies also causes skin eruptions.
 
 <
-POc *kʷasi-kʷasi ‘scabies’ (cf. POc *kʷasi[-] ‘scrape, scratch’; *kʷasi ‘scraper made from
- mussel shell’; vol.1:240–241, modified by Ross 2011)
- NNG: Yabem               kasɪ              ‘scabies, itch, rash’
- NNG: Kaulong             ma-kas            ‘ringworm, tinea (?)’ (ma- < PMP *ma- ‘stative’)
- MM: Nakanai              kasi-kasi         ‘scabies’
- MM: Patpatar             kas-kās           ‘scabies’ (kas ‘scrape’)
- MM:  Sursurunga        kaskas            ‘scabies’ (kasi ‘scrape’)
- Pn:  Tongan            kahi              ‘diseased swellings, scrofula on neck, piles’
- Pn:  E Uvean           kahi              ‘scrofula’
- Pn:  E Futunan         kasi              ‘scrofula’
+POc *kʷasi-kʷasi ‘scabies’ (cf. POc _*kʷasi[-]_ ‘scrape, scratch’, _*kʷasi_ ‘scraper made from mussel shell’; vol.1:240–241, modified by Ross 2011)
+ NNG: Yabem            kasɪ              ‘scabies, itch, rash’
+ NNG: Kaulong          ma-kas            ‘ringworm, tinea (?)’ (_ma-_ < PMP _*ma-_ ‘stative’)
+ MM: Nakanai           kasi-kasi         ‘scabies’
+ MM: Patpatar          kas-kās           ‘scabies’ (_kas_ ‘scrape’)
+ MM: Sursurunga        kaskas            ‘scabies’ (_kasi_ ‘scrape’)
+ Pn: Tongan            kahi              ‘diseased swellings, scrofula on neck, piles’
+ Pn: E Uvean           kahi              ‘scrofula’
+ Pn: E Futunan         kasi              ‘scrofula’
 >
 
 [5] Blust (ACD) reconstructs PAn *karut ‘scrape, rasp’, but the Formosan reflexes mean ‘rake’. The ACD’s
@@ -17298,18 +17334,18 @@ itching as a secondary sense.
 
 <
 POc *karak ‘ringworm; to itch’
- Adm: Drehet             karaʔ(ah)            ‘ringworm’
- NNG: Manam              kare                 ‘ringworm’ (for †ʔare)
- NNG: Tami               gala-gal             ‘ringworm’
- NNG: Hote               kalak                ‘ringworm’
- MM: Vitu                kere                 ‘ringworm’
- MM: Bulu                kera                 ‘ringworm’
- MM: Nakanai             kara(kobe)           ‘ringworm’
- MM: Sursurunga          kar-kar              ‘ringworm’
-  MM: Tolai              kara-kare(n)           ‘a person covered with ringworm and therefore without hair on the body; an abusive term’
-  MM: Tolai               kar-kar                ‘ringworm’
-  Fij: Bauan              kara                   ‘ringworm’
-  Fij: Wayan              kara                   ‘skin disease in which pale spots appear on the skin’ (probably tinea versicolor)
+ Adm: Drehet         karaʔ(ah)        ‘ringworm’
+ NNG: Manam          kare             ‘ringworm’ (for †ʔare)
+ NNG: Tami           gala-gal         ‘ringworm’
+ NNG: Hote           kalak            ‘ringworm’
+ MM: Vitu            kere             ‘ringworm’
+ MM: Bulu            kera             ‘ringworm’
+ MM: Nakanai         kara(kobe)       ‘ringworm’
+ MM: Sursurunga      kar-kar          ‘ringworm’
+ MM: Tolai          kara-kare(n)      ‘a person covered with ringworm and therefore without hair on the body; an abusive term’
+ MM: Tolai           kar-kar          ‘ringworm’
+ Fij: Bauan          kara             ‘ringworm’
+ Fij: Wayan          kara             ‘skin disease in which pale spots appear on the skin’ (probably tinea versicolor)
 >
 
 
@@ -17367,10 +17403,10 @@ cognacy of the Tawala term below is suspect on both semantic and formal grounds 
 Proto Remote Oceanic *tani ‘disease characterised by pale patches on skin’
   Mic: Ponapean        c̣en-c̣en        ‘disease characterised by pale patches on skin’ (Christian 1899:37)
   Mic: Kiribati        tan-tan        ‘spotted, as skin’
-  Mic: Marshallese     can            ‘skin disease, white spots on skin'
+  Mic: Marshallese     can            ‘skin disease, white spots on skin’
   Fij: Bauan           dani           ‘chloasma, spots or discolouration of skin; tinea’
 PPn *tane ‘skin disease, tinea’ (POLLEX)
-  Pn:  Tongan          tane           (N,v) ‘skin disease, pityriasis, k.o. skin disease’
+  Pn:  Tongan          tane           (N, V) ‘skin disease, pityriasis, k.o. skin disease’
   Pn:  Samoan          tane           ‘name given to various skin conditions includ. tinea’
   Pn:  Tikopia         tane           ‘light skin patch in colour, not disease’
   Pn:  Hawaiian        kane           ‘tinea’
@@ -17415,7 +17451,8 @@ Pawley, pers. comm.).
 
 
 <
-PAn *Luka ‘sore, wound’, *ma-Luka ‘wounded’ (ACD)
+PAn *Luka ‘sore, wound’ (ACD)
+PAn *ma-Luka ‘wounded’ (ACD)
 POc *luka ‘yaws’
 Proto Southeast Solomonic *luka-luka ‘yaws in adults’
   SES: Bugotu           lua-luka       ‘yaws’
@@ -17489,15 +17526,15 @@ identified by this term.
 PMP *ŋulŋul ‘arthritic or rheumatic pain’ (ACD)
 POc *ŋu-ŋu(l) ‘inflammation of joints’
 PPn *ŋu-ŋu ‘rheumatism, arthritis’ (POLLEX)
-  Pn:    Niuean             ŋuŋu             ‘inflammation of the joints, gout, arthritis’
-  Pn:    Tongan             ŋuŋu             ‘various kinds of swelling or tumour’
-  Pn:    E Futunan          ŋuŋu             ‘arthritic swelling of the joints’
-  Pn:    Pukapukan          (maki) ŋuŋu      ‘rheumatic pain’
-  Pn:    Samoan             ŋuŋu             ‘name given to a number of complaints, including rheumatism, gout, arthritis, etc.’
-  Pn:    Rarotongan         ŋuŋu             ‘rheumatism; lameness’
-  Pn:    Hawaiian           nunu             ‘swollen, puffed up; to swell’
+  Pn: Niuean             ŋuŋu             ‘inflammation of the joints, gout, arthritis’
+  Pn: Tongan             ŋuŋu             ‘various kinds of swelling or tumour’
+  Pn: E Futunan          ŋuŋu             ‘arthritic swelling of the joints’
+  Pn: Pukapukan          |(maki) ŋuŋu|      ‘rheumatic pain’
+  Pn: Samoan             ŋuŋu             ‘name given to a number of complaints, including rheumatism, gout, arthritis, etc.’
+  Pn: Rarotongan         ŋuŋu             ‘rheumatism; lameness’
+  Pn: Hawaiian           nunu             ‘swollen, puffed up; to swell’
 cf. also:
-   MM: Nakanai              golu               ‘painful condition of the bones’ (Chowning)
+  MM: Nakanai            golu             ‘painful condition of the bones’ (Chowning)
 >
 
 5.3.7 Asthma, breathlessness
@@ -17572,20 +17609,20 @@ secure, *sana. Reflexes of the first are well distributed.
 
 <
 POc *surup ‘diarrhoea’
- NNG: Mutu                  suruv              ‘have diarrhoea’
- PT:    Kilivila            solu               ‘diarrhoea, dysentery’
- MM: Kia                    suru               ‘diarrhoea’
- MM: Babatana               suru               ‘diarrhoea’
- MM: Babatana               |moro suru|          ‘dysentery’ (moro ‘ill’)
-  MM:     Maringe           s(n)uru            ‘have diarrhoea’
-  MM:     Roviana           huru               ‘diarrhoea’
-  SES:    Bugotu            su-suru            ‘diarrhoea’
-  SES:    Gela              suru               ‘diarrhoea’
-  SES:    Gela              |suru gabu|          ‘dysentery’ (gabu ‘blood’)
-  NCV: Mota                 si-sire            ‘looseness of bowels, diarrhoea’
-  NCV: Lewo                 suru               ‘defaecate’
-  NCV: Namakir              si-sirieʔ          ‘have diarrhoea’
-  NCV: Nguna                siro               ‘have diarrhoea’
+ NNG: Mutu              suruv              ‘have diarrhoea’
+ PT:  Kilivila          solu               ‘diarrhoea, dysentery’
+ MM:  Kia               suru               ‘diarrhoea’
+ MM:  Babatana          suru               ‘diarrhoea’
+ MM:  Babatana          |moro suru|        ‘dysentery’ (moro ‘ill’)
+ MM:  Maringe           s(n)uru            ‘have diarrhoea’
+ MM:  Roviana           huru               ‘diarrhoea’
+ SES: Bugotu            su-suru            ‘diarrhoea’
+ SES: Gela              suru               ‘diarrhoea’
+ SES: Gela              |suru gabu|        ‘dysentery’ (gabu ‘blood’)
+ NCV: Mota              si-sire            ‘looseness of bowels, diarrhoea’
+ NCV: Lewo              suru               ‘defaecate’
+ NCV: Namakir           si-sirieʔ          ‘have diarrhoea’
+ NCV: Nguna             siro               ‘have diarrhoea’
 >
 
    The POc status of *sana depends on Kilivila -sola being a reflex, as no other non-
@@ -17653,8 +17690,8 @@ POc *pʷiRa ‘elephantiasis’ (Geraghty 1990: *puRa)
  Mic: Mokilese            pir               ‘lymph nodes’
  Pn:     Tongan           fua               ‘elephantiasis’ (veʔe-fua ‘of legs’, loho-fua ‘of testicle’ etc.)
  Pn:     Niuean           (hui)fua          ‘elephantiasis’ (lit. ‘leg swell’)
- Pn:  Samoan               fua-fua               ‘abscess, pimple’
- Pn:  Tikopia              (faka)foa             ‘swelling on body’
+ Pn:  Samoan               fua-fua          ‘abscess, pimple’
+ Pn:  Tikopia              (faka)foa        ‘swelling on body’
 >
 
 
@@ -17671,8 +17708,8 @@ PMP *tu(m)buq ‘grow, thrive, swell’ (Blust 1986)
 POc *tubuq ‘to grow, swell’
  NNG: Numbami             tubu               ‘grow, fatten’
  PT:    Kilivila          tobʷawa            ‘elephantiasis’
- PT:    Kukuya            (ae) tubu-tubu     ‘elephantiasis’ (of leg ae)
- PT:    Molima            (ae) tubu-tubu     ‘elephantiasis of the legs’
+ PT:    Kukuya            |(ae) tubu-tubu|     ‘elephantiasis’ (of leg ae)
+ PT:    Molima            |(ae) tubu-tubu|     ‘elephantiasis of the legs’
  PT:    Motu              tubu               ‘grow; ferment; swell’
  PT:    Bwaidoga          tubuga             ‘grow large, swell’
  PT:    Mekeo             ufu                ‘swell’
@@ -17692,13 +17729,13 @@ POc *tubuq ‘to grow, swell’
  NCal: Nemi               hiᵑguk             ‘swell’
  Mic: pi                  tibu               ‘swell, swelling, swollen’
  Fij:   Wayan             tubu               ‘grow’
- Fij:   Bauan             tubu               (VI) ‘grow, increase; (N) ‘a rash, any disease that rises above the skin’
+ Fij:   Bauan             tubu               (VI) ‘grow, increase’; (N) ‘a rash, any disease that rises above the skin’
  Pn:    Tongan            tupu               (VI) ‘grow, rise, swell’
  Pn:    Pukapukan         tupu               ‘grow, develop’
  Pn:    Samoan            tupu               ‘grow, break out, happen’; (N) ‘growth’
  Pn:    Tikopia           tupu               ‘grow, change into; abnormal growth, swelling’
 cf. also:
- Pn:   Samoan             tupa[7]              ‘elephantiasis’
+ Pn:   Samoan             tupa [7]              ‘elephantiasis’
 >
 
 [7]  Samoans may refer to a leg swollen by elephantiasis as vae-tupa. Stair (1983:170) translates this as ‘crab-
@@ -17780,7 +17817,7 @@ PPn *pula ‘foreign body in eye’
   Pn:    Tuamotuan         pura               ‘any small foreign substance in eye’
 cf. also:
    Adm: Seimat              pulaxa            ‘blind’ (borrowed?)
- >
+>
 
    A single Oceanic reflex supported by one from wMP permits a POc reconstruction for
 ‘cross-eyed’.
@@ -17818,7 +17855,8 @@ POc *tuli ‘deaf, earwax’
   Fij:    Bauan              dule              ‘earwax’ (-e for †-i)
   Fij:    Wayan              tule              ‘earwax’ (-e for †-i)
   Fij:    Rotuman            fuli              ‘be deaf’
-PPn *tuli ‘deaf’, *taqe-tuli ‘earwax (*taqe ’faeces’) (POLLEX)
+PPn *tuli ‘deaf’
+PPn *taqe-tuli ‘earwax’ (_*taqe_ ‘faeces’) (POLLEX)
   Pn:     Tongan             tuli              ‘deaf’
   Pn:     Samoan             tuli              ‘deaf’
   Pn:     E Futunan          tuli-tuli         ‘deaf’
@@ -17837,7 +17875,7 @@ reconstructions are proposed, one with pre-Oceanic antecedents.
 PMP *beŋel ‘deaf’ (ACD)
 PCEMP *beŋel ‘mute, unable to speak’ (ACD)
 POc *boŋol ‘deaf mute’
-  Adm: Mussau           (taliŋa) boloŋo ‘deaf’ (metathesis)
+  Adm: Mussau           |(taliŋa) boloŋo| ‘deaf’ (metathesis)
   MM: Ramoaaina         boŋ                ‘foolish, mute’
   SV: Sye               o-mŋol             ‘deaf’
 cf. also:
@@ -17891,7 +17929,7 @@ a stem *aliali, which presumably arose as a variant of *lili.
 
 <
 POc *lili, *talili ‘(be) dizzy’
- Adm: Seimat             (pula) tali-talia   ‘giddy’ (‘eye revolving’)
+ Adm: Seimat             |(pula) tali-talia|   ‘giddy’ (‘eye revolving’)
  NNG: Gedaged            (ki)lili            ‘giddy, vertiginous; to faint’
  NNG: Manam              (soa)lili           (VI) ‘be dizzy’ (soa ‘very much’)
  MM: Tolai               talili              (VI) ‘be dizzy or giddy’
@@ -18077,18 +18115,18 @@ cf. also:
 
 <
 POc *puRuk ‘to spray spittle etc. from the mouth for magical purposes’ (cf. *puku(R) ‘cough’)
- Adm: Seimat          pūk                (VI) ‘spit’
- NNG: Gedaged         fuɬe-k             ‘to spray, by blowing saliva, ginger, water etc.; besprinkle, splatter’
- NNG: Hote            apok               ‘to spit’
- NNG: Lukep           puru               ‘to spew; whale’
- PT:  Motu            pururu-a           (VT) ‘to spit out’
- MM:  Patpatar        puruk              ‘spit with a lot of air’
- MM:  Tolai           puruk              (VI,VT) ‘blow from the mouth in such a way as to scatter its contents, as a wizard blows lime into the air, and as a doctor blows saliva on to a wound’
- SES: Kwaio           fulu               ‘blow’
- NCV: Kiai            puru-sia           ‘spit on’
+ Adm: Seimat      pūk             (VI) ‘spit’
+ NNG: Gedaged     fuɬe-k          ‘to spray, by blowing saliva, ginger, water etc.; besprinkle, splatter’
+ NNG: Hote        apok            ‘to spit’
+ NNG: Lukep       puru            ‘to spew; whale’
+ PT:  Motu        pururu-a        (VT) ‘to spit out’
+ MM:  Patpatar    puruk           ‘spit with a lot of air’
+ MM:  Tolai       puruk           (VI,VT) ‘blow from the mouth in such a way as to scatter its contents, as a wizard blows lime into the air, and as a doctor blows saliva on to a wound’
+ SES: Kwaio       fulu            ‘blow’
+ NCV: Kiai        puru-sia        ‘spit on’
  cf. also:
- Adm: Lou             pirek              ‘blow with the mouth’
- Adm: Lou             purik              ‘break wind, fart’
+ Adm: Lou         pirek           ‘blow with the mouth’
+ Adm: Lou         purik           ‘break wind, fart’
 >
 
 5.4.2.2 Massage
@@ -18116,20 +18154,20 @@ POc *samo(s), *samos-i- ‘massage, stroke’
 
 <
 Proto Remote Oceanic *amosi ‘massage, stroke’ (Clark 2009: PNCV *amosi)
-  NCV: Nokuku            mosi-             ‘wipe’
-  NCV: Paamese           amusi             ‘stroke, massage, caress’
-  NCV: Port Sandwich mʷis-mʷis-i           ‘to stroke (a cat)’
-  NCV: Nguna             mʷo-mʷosi         ‘massage’
-  NCV: Valpei            mʷosi             ‘rub’
-  Fij: Bauan             yamo              ‘feel with the hand’
-  Fij:  Wayan            amoð-i               (VT) ‘massage s.o. lightly’
+  NCV: Nokuku           mosi-             ‘wipe’
+  NCV: Paamese          amusi             ‘stroke, massage, caress’
+  NCV: Port Sandwich    mʷis-mʷis-i       ‘to stroke (a cat)’
+  NCV: Nguna            mʷo-mʷosi         ‘massage’
+  NCV: Valpei           mʷosi             ‘rub’
+  Fij: Bauan            yamo              ‘feel with the hand’
+  Fij: Wayan            amoð-i            (VT) ‘massage s.o. lightly’
 PPn *amo(amo) ‘stroke, rub gently’
-  Pn:   Tongan           amo                  ‘stroke with palm of hand’
-  Pn:   E Futunan        amo-amo              ‘rub gently, stroke’
-  Pn:   Rennellese       amo                  ‘rub gently, anoint, caress’
-  Pn:   Tikopia          āmo(āmo)             ‘smear on (with repeated stroking motions)’
+  Pn:  Tongan           amo               ‘stroke with palm of hand’
+  Pn:  E Futunan        amo-amo           ‘rub gently, stroke’
+  Pn:  Rennellese       amo               ‘rub gently, anoint, caress’
+  Pn:  Tikopia          āmo(āmo)          ‘smear on (with repeated stroking motions)’
 cf. also:
-   NCV: Paamese          kamusi             ‘stroke, massage, caress’
+  NCV: Paamese          kamusi            ‘stroke, massage, caress’
 >
 
 [8] Also described in Seligman 1910:167.
@@ -18173,7 +18211,7 @@ PPn *lomi ‘squeeze, press down upon’ (POLLEX)
 POc *(d,dr)aRi ‘rub, smear, anoint’
  Adm: Mussau              rari-a              ‘to rub, as medicine on the skin’
  SES: Gela                dali                ‘paint, smear, anoint, massage’
-  SES: To’aba’ita           daria               (VT) ‘massage’
+ SES: To’aba’ita          daria               (VT) ‘massage’
 >
 
                                                                          Health and disease 365
@@ -18393,22 +18431,23 @@ into the ‘sit, stay, dwell’ domain, but its POc meaning seems to have been n
 indeed inchoative, a matter discussed below.
 
 <
-POc *mono(ŋ) ‘sit, stay, dwell’, *monoŋ-i ‘sit on’
+POc *mono(ŋ) ‘sit, stay, dwell’
+POc *monoŋ-i ‘sit on’
  MM: Tabar                 mon                ‘dwell’
  MM: Lihir                 mon                ‘dwell’
  MM: Sursurunga            mon-mon            ‘remain, stay behind at home’
  MM: Patpatar              mona               ‘stay at home; lounge around; keep watch’
  MM: Tolai                 mono               ‘remain and take care of the home, boat etc.’
  SES: Gela                 mono               ‘stop a while, stay’
-  SES: Bugotu               mono               ‘abide, stay, dwell, be (at)’
-  SES: Bugotu               monoŋ-i            (VT) ‘abide in’
-  SES: Talise               mono               ‘lie down’
-  SES: Tolo                 mono               ‘lie down’
-  SES: Arosi                mono               ‘live, dwell, reside’
-  SES: Arosi                monoŋ-aʔi          (VT) ‘reside at’
-  SES: Bauro                mono               ‘stay in another village’
-  NCV: Lewo                 mono               ‘lie down, be horizontal; remain (at)’
-  NCal: Nengone             meneŋ              ‘reside, be in a place’
+ SES: Bugotu               mono               ‘abide, stay, dwell, be (at)’
+ SES: Bugotu               monoŋ-i            (VT) ‘abide in’
+ SES: Talise               mono               ‘lie down’
+ SES: Tolo                 mono               ‘lie down’
+ SES: Arosi                mono               ‘live, dwell, reside’
+ SES: Arosi                monoŋ-aʔi          (VT) ‘reside at’
+ SES: Bauro                mono               ‘stay in another village’
+ NCV: Lewo                 mono               ‘lie down, be horizontal; remain (at)’
+ NCal: Nengone             meneŋ              ‘reside, be in a place’
 >
 
 [4] A number of sources gloss a verb as ‘be’, but ‘be (at)’ is used here to indicate locative usage,
@@ -18423,46 +18462,47 @@ apparent reflexes of *nopo(q). Wayan novo is the regular reflex, whereas nō is 
 Bauan no. The items listed under ‘cf. also’ may be cognate, but they display irregularities.
 
 <
-POc *nopo(q) ‘sit, stay, dwell’ (Milke 1968), ‘sit’ (Blust 1993a)
-  PT:    Motu               noho                ‘dwell, remain’ (persons, not things)
-  MM: Patpatar              noh                 ‘dwell, lie’
-  SES: Lau                  nofo                ‘dwell, stop, stay’
-  SES: Lau                  nofo-s-i            (VT) ‘dwell, stop, stay (somewhere)’
-  SES: Arosi                nohu                ‘sit quiet’
-  NCV: Mota                 (va)nov             ‘cause to dwell’
-  NCal: Xârâcùù             nöö                 ‘stay’ (Moyse-Faurie 2015)
-  Mic: Carolinian           no                  ‘be (at), stay, remain, live’
-  Fij:   Bauan              nō                  ‘lie (of things)’
-  Fij:   Wayan              nō                  ‘live, be (at), stay, dwell’
-  Fij:   Wayan              novo                ‘keep still, be motionless, stay without moving, keep quiet, be subdued, acquiescent, peaceful’
-  Fij:   Rotuman            noho                ‘dwell’
-PPn *nofo ‘sit, dwell’, *nofoq-i (VT) ‘sit on, dwell in’ (POLLEX)
-  Pn:    Tongan             nofo                ‘sit, stay, dwell’
-  Pn:    Tongan             nōfoʔ-ia            ‘be constantly occupied’
-  Pn:    Tongan             nōfoʔ-i             (VT) ‘sit on, dwell in, occupy’
-  Pn:    Niuean             nofo                ‘sit, dwell’
-  Pn:    Samoan             nofo                ‘sit, dwell, stay’
-  Pn:    Samoan             nōfo-ia             ‘be occupied’
-  Pn:    Samoan             nōfo-aʔi            (VT) ‘sit on/at, occupy’
-  Pn:    W Uvean            nō                  ‘sit, be (at)’ (Moyse-Faurie 2015)
-  Pn:    E Futunan          nofo                ‘sit, be (at) (of animates)’ (Moyse-Faurie 2015)
-  Pn:    E Futunan          nofoʔ-i             ‘be inhabited by’
-  Pn:    E Futunan          nofoʔ-aki           ‘stay together’
-  Pn:    Tikopia            nofo                ‘sit, stay, dwell, live’
-  Pn:    Tokelauan          nofo                ‘sit, reside, stay’
-  Pn:    Pukapukan          nō                  ‘sit, stay, dwell’
-  Pn:    W Futunan          nofo                ‘sit’
-  Pn:     Rapanui          noho               ‘sit’
-  Pn:     Marquesan        noho               ‘sit, dwell, stay’
-  Pn:     Tuamotuan        noho               ‘sit, dwell’
-  Pn:     Tahitian         noho               ‘sit, dwell’
-  Pn:     Māori            noho               ‘stay, live’
-  Pn:     Māori            noh-ia             ‘be sat on, be inhabited’
+POc *nopo(q) ‘sit, stay, dwell’ (Milke 1968); ‘sit’ (Blust 1993a)
+  PT:   Motu               noho               ‘dwell, remain’ (persons, not things)
+  MM:   Patpatar           noh                ‘dwell, lie’
+  SES:  Lau                nofo               ‘dwell, stop, stay’
+  SES:  Lau                nofo-s-i           (VT) ‘dwell, stop, stay (somewhere)’
+  SES:  Arosi              nohu               ‘sit quiet’
+  NCV:  Mota               (va)nov            ‘cause to dwell’
+  NCal: Xârâcùù            nöö                ‘stay’ (Moyse-Faurie 2015)
+  Mic:  Carolinian         no                 ‘be (at), stay, remain, live’
+  Fij:  Bauan              nō                 ‘lie (of things)’
+  Fij:  Wayan              nō                 ‘live, be (at), stay, dwell’
+  Fij:  Wayan              novo               ‘keep still, be motionless, stay without moving, keep quiet, be subdued, acquiescent, peaceful’
+  Fij:  Rotuman            noho               ‘dwell’
+PPn *nofo ‘sit, dwell’
+PPn *nofoq-i (VT) ‘sit on, dwell in’ (POLLEX)
+  Pn:   Tongan             nofo               ‘sit, stay, dwell’
+  Pn:   Tongan             nōfoʔ-ia           ‘be constantly occupied’
+  Pn:   Tongan             nōfoʔ-i            (VT) ‘sit on, dwell in, occupy’
+  Pn:   Niuean             nofo               ‘sit, dwell’
+  Pn:   Samoan             nofo               ‘sit, dwell, stay’
+  Pn:   Samoan             nōfo-ia            ‘be occupied’
+  Pn:   Samoan             nōfo-aʔi           (VT) ‘sit on/at, occupy’
+  Pn:   W Uvean            nō                 ‘sit, be (at)’ (Moyse-Faurie 2015)
+  Pn:   E Futunan          nofo               ‘sit, be (at) (of animates)’ (Moyse-Faurie 2015)
+  Pn:   E Futunan          nofoʔ-i            ‘be inhabited by’
+  Pn:   E Futunan          nofoʔ-aki          ‘stay together’
+  Pn:   Tikopia            nofo               ‘sit, stay, dwell, live’
+  Pn:   Tokelauan          nofo               ‘sit, reside, stay’
+  Pn:   Pukapukan          nō                 ‘sit, stay, dwell’
+  Pn:   W Futunan          nofo               ‘sit’
+  Pn:   Rapanui            noho               ‘sit’
+  Pn:   Marquesan          noho               ‘sit, dwell, stay’
+  Pn:   Tuamotuan          noho               ‘sit, dwell’
+  Pn:   Tahitian           noho               ‘sit, dwell’
+  Pn:   Māori              noho               ‘stay, live’
+  Pn:   Māori              noh-ia             ‘be sat on, be inhabited’
 cf. also:
-   NNG: Malai              (u)nep             ‘dwell’
-   NNG: Lukep              nepa               ‘sit down’
-   MM: Kia                 nohe               ‘sit’
-   MM: Bugotu              nohe               ‘sit’
+  NNG:  Malai              (u)nep             ‘dwell’
+  NNG:  Lukep              nepa               ‘sit down’
+  MM:   Kia                nohe               ‘sit’
+  MM:   Bugotu             nohe               ‘sit’
 >
 
 
@@ -18477,30 +18517,30 @@ Admiralties languages lose POc final consonants. Evidence as to whether *mia[n] 
 regular reflex).
 
 <
-POc (? ) *mia[n] ‘sit, stay, live’
- Adm: Drehet                 -mi(ŋ)           ‘sit’
- NNG: Mangseng               mimi(ŋa)         ‘alive’
- NNG: Numbami                -mi              ‘dwell, live, stay, remain, be (at)’
- NNG: Bam                    (i)mi            ‘dwell’
- NNG: Wogeo                  mi-mia           ‘dwell’
- NNG: Sissano (Arop)         -mɛn             ‘stay, remain, wait, be (at)’
- PT:      Iduna              -mia             (V) ‘stay, live’; (N) ‘staying, existence, living’
- PT:      Dobu               mia(toa)         ‘sit’
- PT:      Saliba             -mia             ‘stay’
- PT:      Ubir               -mian            ‘dwell’
- PT:      Tawala             -mi-mie(ya)      (V) ‘live permanently’; (N) ‘permanent residence’
-  PT:     Dawawa           -mia               ‘live, stay’
-  PT:     Dawawa           -(tau)mia          ‘stay for a while’
-  PT:     Misima           mi-                ‘still; staying’
-  PT:     Misima           mina               ‘stay’
-  PT:     Motu             -mia               ‘remain’ (things, not persons)
-  PT:     Gabadi           -mia(do)           ‘sit’
-  MM:     Vitu             mia                ‘sit, dwell’
-  MM:     Bali             mia                ‘dwell’
-  MM:     Bali             miaŋa              ‘sit’
-  MM: Tigak                min(aŋ)            ‘dwell’
-  MM: W Kara               mi(ta)             ‘dwell’
-  Mic: Ponapean            mi                 ‘exist, be (at)’
+POc (?) *mia[n] ‘sit, stay, live’
+ Adm: Drehet           -mi(ŋ)           ‘sit’
+ NNG: Mangseng         mimi(ŋa)         ‘alive’
+ NNG: Numbami          -mi              ‘dwell, live, stay, remain, be (at)’
+ NNG: Bam              (i)mi            ‘dwell’
+ NNG: Wogeo            mi-mia           ‘dwell’
+ NNG: Sissano (Arop)   -mɛn             ‘stay, remain, wait, be (at)’
+ PT:  Iduna            -mia             (V) ‘stay, live’; (N) ‘staying, existence, living’
+ PT:  Dobu             mia(toa)         ‘sit’
+ PT:  Saliba           -mia             ‘stay’
+ PT:  Ubir             -mian            ‘dwell’
+ PT:  Tawala           -mi-mie(ya)      (V) ‘live permanently’; (N) ‘permanent residence’
+ PT:  Dawawa           -mia             ‘live, stay’
+ PT:  Dawawa           -(tau)mia        ‘stay for a while’
+ PT:  Misima           mi-              ‘still; staying’
+ PT:  Misima           mina             ‘stay’
+ PT:  Motu             -mia             ‘remain’ (things, not persons)
+ PT:  Gabadi           -mia(do)         ‘sit’
+ MM:  Vitu             mia              ‘sit, dwell’
+ MM:  Bali             mia              ‘dwell’
+ MM:  Bali             miaŋa            ‘sit’
+ MM:  Tigak            min(aŋ)          ‘dwell’
+ MM:  W Kara           mi(ta)           ‘dwell’
+ Mic: Ponapean         mi               ‘exist, be (at)’
 >
 
 372 Malcolm Ross
@@ -18540,7 +18580,7 @@ POc *toka ‘come to rest, settle (on bottom of vessel, on reef)’
  MM:   Nehan            toka, toko          ‘stay put, perch (as a bird)’
  MM:   Teop             toka                ‘perch, stand on’
  SES:  Gela             toɣa                ‘dwell’
- SES:  Gela             kabu toɣa-toɣa       ‘squat on one’s heels; be on sentry duty’ (kabu ‘attentive’)
+ SES:  Gela             |kabu toɣa-toɣa|    ‘squat on one’s heels; be on sentry duty’ (kabu ‘attentive’)
  SES:  Sa’a             oʔa                 (VI) ‘settle, of birds; squat on haunches’
  SES:  Arosi            oʔa                 ‘stay, dwell, abide; to settle, of birds’
  SES:  Bauro            oɣa                 ‘sit’
@@ -18659,7 +18699,7 @@ PNCV *tuqu, *tuquru ‘stand’ (Clark 2009)
  NCV:  Port Sandwich    tül                ‘stand’
  NCV:  Ninde            tox                ‘dwell’
  NCV:  Lewo             sū                 ‘be at, remain, stay’
- NCV:  Lewo             su(m[ʷ]alu)        ‘stand, get up’
+ NCV:  Lewo             su([m,mʷ]alu)        ‘stand, get up’
  NCV:  Namakir          tu(marak)          ‘stand’ (marak ‘rise’)
  NCV:  Nguna            dū                 ‘stand, be standing’
  NCV:  Nguna            tu(leana)          ‘get up, stand up, rise’ (leana ‘straight’)
@@ -18685,7 +18725,9 @@ PMic *tuu ‘to stand; stopped, halted’ (Bender et al 2003)
  Mic:  Carolinian       ɨ̄(lɔ)             ‘stop’
  Mic:  Puluwatese       wɨ̄(tæ)            ‘stand up, rise’
  Mic:  Chuukese         wɨ                 ‘stand erect, be upright; be stopped, halted (of s.t. in motion)’
-PCP *tuqu ‘stand, be somewhere’, tuqur-a (VT) ‘stand on/near s.t.’, tuqur-aki- ‘stand up with’
+PCP *tuqu ‘stand, be somewhere’
+PCP *tuqur-a (VT) ‘stand on/near s.t.’
+PCP *tuqur-aki- ‘stand up with’
  Fij:  Rotuman          fū                 ‘stand, be situated’
  Fij:  Bauan            tū                 (VI) ‘stand, be in a place’
  Fij:  Bauan            tūr-a              (VT) ‘stand on/near s.t.’
@@ -18846,7 +18888,8 @@ POc *qenop ‘lie, rest horizontally’ (ACD)
   PT:    Dobu              ʔeno               ‘sleep’
   PT:    Dobu              ʔeno-ʔeno          ‘lie down’
   PT:   Motu               eno                (VI) ‘lie down’
-PEOc *qenop ‘lie, rest horizontally’; (VT) *qenop-i- ‘lie on, rest on s.t.’
+PEOc *qenop ‘lie, rest horizontally’
+PEOc *qenop-i- (VT) ‘lie on, rest on s.t.’
   SES: Gela                eno                ‘lie down’
   SES: Gela                enov-aɣi           ‘lay s.t. down’
   SES: Talise              eno                ‘lie down’
@@ -18925,7 +18968,8 @@ POc *tike ‘squat, sit on haunches’
   PT:  Kilivila            siki              ‘sit down’
   PT:  Kilivila            sigigi(na)        ‘squat on haunches’ (-g- for †-k-)
   MM:  Bola                (pa)sike          ‘crouch’
-PPn *tike ‘squat’, tike-tike ‘keep squatting’ (POLLEX)
+PPn *tike ‘squat’
+PPn *tike-tike ‘keep squatting’ (POLLEX)
   Pn:  Tongan              sike              ‘squat, sit on heels’
   Pn:  Tongan              sike-sike         ‘keep squatting’
   Pn:  Niuean              tike-tike         ‘squat on the heels’
@@ -19082,7 +19126,7 @@ POc *kuRu (VI) ‘hang’
  MM: Banoni               va-ɣu-ɣuru        ‘hang up’ (va- CAUSATIVE)
   SES: To’aba’ita         kulu              (VI) ‘hang down, be suspended (of things too short to dangle)’
   SES: To’aba’ita         kulu-fani-        (VT) ‘hang, suspend’
-  SES: Lau                (dau) kulu-kulu   (VI) ‘hang’
+  SES: Lau                |(dau) kulu-kulu|   (VI) ‘hang’
   SES: Lau                ku-kulu-          (VT) ‘hang up’
   SES: Lau                fā-kulu           (VT) ‘hang up’ (fā- CAUSATIVE)
   SES: Lau                fā-ku-kulu        ‘cause to hang down’
@@ -19267,29 +19311,29 @@ POc *lako ‘go (away, to)’
  MM: Solos                nao(meh)            ‘come’ (< POc *lako + *mai ‘come’)
  MM: Hahon                nao                 ‘go’
  MM: Tinputz              no(h)               ‘go; walk’
- MM: Tinputz              no(mah)             ‘come (< POc *lako + *mai ‘come’)
- MM: Teop                 nao                  ‘go’
- MM: Teop                 no(mo)               ‘come’ (< POc *lako + *mai ‘come’)
- MM: Papapana             nau                  ‘go’
- MM: Torau                lao                  ‘go’
- MM: Torau                lao(ma)              ‘come’ (< POc *lako + *mai ‘come’)
- MM: Mono-Alu             lao(ma)              ‘come’ (< POc *lako + *mai ‘come’)
- MM: Nduke                laɣo                 ‘go’
- MM: Zabana               lao                  ‘go’
- MM: Kokota               lao                  ‘go’
- SES: Sa’a                laʔo                 ‘approach; go/steer toward (a place)’
- SES: Bauro               raɣo                 ‘go’
- SES: Fagani              raɣo                 ‘go’
- NCV: Mota                laɣo                 ‘step, stretch the legs’
- NCV: Raga                laɣo                 ‘walk, travel’
- NCV: Nokuku              lako                 ‘step, walk, go’
- Mic: Kiribati            nako                 ‘go’
- Mic: Chuukese            ɾɔ                   ‘go, walk’
- Mic: Woleaian            nako                 ‘go’
- Mic: Puluwatese          lɔ                   ‘go, walk’
- Mic: Pulo Annian         ɾaxo                 ‘go, walk’
- Fij: Rotuman             laʔo                 ‘go’
- Fij: Bauan               lako                 ‘go’
+ MM: Tinputz              no(mah)             ‘come’ (< POc *lako + *mai ‘come’)
+ MM: Teop                 nao                 ‘go’
+ MM: Teop                 no(mo)              ‘come’ (< POc *lako + *mai ‘come’)
+ MM: Papapana             nau                 ‘go’
+ MM: Torau                lao                 ‘go’
+ MM: Torau                lao(ma)             ‘come’ (< POc *lako + *mai ‘come’)
+ MM: Mono-Alu             lao(ma)             ‘come’ (< POc *lako + *mai ‘come’)
+ MM: Nduke                laɣo                ‘go’
+ MM: Zabana               lao                 ‘go’
+ MM: Kokota               lao                 ‘go’
+ SES: Sa’a                laʔo                ‘approach; go/steer toward (a place)’
+ SES: Bauro               raɣo                ‘go’
+ SES: Fagani              raɣo                ‘go’
+ NCV: Mota                laɣo                ‘step, stretch the legs’
+ NCV: Raga                laɣo                ‘walk, travel’
+ NCV: Nokuku              lako                ‘step, walk, go’
+ Mic: Kiribati            nako                ‘go’
+ Mic: Chuukese            ɾɔ                  ‘go, walk’
+ Mic: Woleaian            nako                ‘go’
+ Mic: Puluwatese          lɔ                  ‘go, walk’
+ Mic: Pulo Annian         ɾaxo                ‘go, walk’
+ Fij: Rotuman             laʔo                ‘go’
+ Fij: Bauan               lako                ‘go’
 >
 
 
@@ -19310,6 +19354,7 @@ developments (perhaps associated with bimoraicity preference), the more so as th
 (NCV) -le ‘leave (a place)’, reflect coalescence either of *la + transitive suffix*-i or possibly
 of *la + locative preposition*i.
 
+<
 PMP *lakaw ‘move, go, walk’ (ACD)
 POc *la ‘go (away, to)’
  Adm: Loniu             -la                           ‘go’
@@ -19371,13 +19416,13 @@ go seawards’. This is discussed in vol.2 (p279).
 
 <
 PMP *panaw ‘go away, depart, leave on a journey’ (ACD)
-POc *pano ‘go (away)’, (?) ‘move in a transverse direction’
+POc *pano ‘go (away)’; (?) ‘move in a transverse direction’
   NNG:  Kaulong         van                 ‘move’
   MM:   Vitu            vano                ‘go (away)’
   MM:   Tiang           pən                 ‘go’
   MM:   Bola            vano                ‘go’
   MM:   Bilur           van                 ‘go’
-  SES:  Bugotu          vano                ‘go, come’; (DIR) ‘thither’; (used in comparisons: ) ‘beyond, more’
+  SES:  Bugotu          vano                ‘go, come’; (DIR) ‘thither’; ‘beyond, more’ (used in comparisons)
   SES:  Gela            vano                ‘walk’
   SES:  Ghari           vano                ‘walk’
   SES:  Gela            vano                ‘away, further off; to go’
@@ -19396,7 +19441,8 @@ POc *pano ‘go (away)’, (?) ‘move in a transverse direction’
   NCV:  Lonwolwol       van                 ‘go, pass (and so also of time); continue (to do s.t.)’; (DIR) ‘away’
   NCV:  Lewo            vano                ‘go’
   NCV:  Nguna           vano                ‘go’
-PSV *van ‘go’, *a(v, p)an ‘go, walk’
+PSV *van ‘go’
+PSV *a(v,p)an ‘go, walk’
   SV:   Sye             a-van               ‘walk’
   SV:   Whitesands      vən                 ‘go’
   SV:   Lenakel         vən                 ‘go’
@@ -19404,7 +19450,7 @@ PSV *van ‘go’, *a(v, p)an ‘go, walk’
   SV:   SW Tanna        vən                 ‘go’
   SV:   SW Tanna        a-vən               ‘go, walk’
   SV:   Kwamera         vən                 ‘go’
-  SV:   Kwamera         a-vən, u-vən, e-vən ‘go, walk’
+  SV:   Kwamera         |a-vən, u-vən, e-vən| ‘go, walk’
   SV:   Anejom          han                 ‘go’
   SV:   Anejom          a-pan               ‘go, walk’
   NCal: Nyelâyu         van                 ‘go’
@@ -19504,7 +19550,7 @@ POc *oRo ‘come, go’
  Fij:   Rotuman              ō                   ‘come, go’ (probable Pn loan)
  Pn:    Tongan               ō                   ‘go’ (non-singular form of both hau ‘come’ and alu ‘go’)
   Pn:     Niue               ō                   ‘come, go’ (non-singular form of both hau ‘come’ and fano ‘go’)
-  Pn:     Samoan             ō                   plural of alu ‘go, get’; ‘go side by side, go together with’
+  Pn:     Samoan             ō                   ‘go, get’ (plural of _alu_); ‘go side by side, go together with’
   Pn:     Anuta              ō                   ‘come, go’
   Pn:     E Uvean            ō                   ‘come, go’ (plural)
   Pn:     Takuu              ō                   ‘come, go’ (plural)
@@ -19534,7 +19580,7 @@ this decision may be mistaken.
 <
 POc *pana ‘go, move, walk’ (ACD)
  PT: Sudest          vana         ‘go’
- PT: Sinaugoro       fana-        ‘step’ (in compounds: fana-beretoɣa ‘step to the side’, fana-kau ‘step on’, fana-tari ‘step down’
+ PT: Sinaugoro       fana-        ‘step’ (in compounds: _fana-beretoɣa_ ‘step to the side’, _fana-kau_ ‘step on’, _fana-tari_ ‘step down’)
  MM: Vitu            vana         ‘walk, travel’
  MM: E Kara          pan          ‘go’
  MM: Patpatar        han          ‘go, walk’
@@ -19544,7 +19590,7 @@ POc *pana ‘go, move, walk’ (ACD)
  MM: Label           han          ‘go, go away; come’
  Pn: Kapingamarangi  hana         ‘go’
  Pn: Rarotongan      ana          ‘move (of a person)’
- Pn: Rarotongan      ana mai      ‘come/move here (toward speaker)’
+ Pn: Rarotongan      |ana mai|      ‘come/move here (toward speaker)’
  Pn: Rarotongan      aná-atu      ‘go/move away (from speaker)’
  Pn: Maori           fana         ‘travel, come, go’
 >
@@ -19755,7 +19801,7 @@ POc *joŋas ‘move quickly’
  MM: Sursurunga          saŋar             ‘hurry, (be) quick; quickly’ (-r for †-s)
 PMic *Saŋa ‘move quickly’ (Bender et al. 2003: *caŋa)
  Mic: Kiribati           raŋa              ‘move fast’
- Mic: Ponapean           taŋ               ‘run, flee, swim (as fish); ‘run to (s.t.)’
+ Mic: Ponapean           taŋ               ‘run, flee, swim (as fish)’; ‘run to (s.t.)’
  Mic: Chuukese           c̣aŋ              ‘fly, be flying (as a bird)’
 >
 
@@ -19777,7 +19823,7 @@ POc *kaRaka ‘crawl on all fours’
  NCV: Rerep            karah        ‘creep on the knees’
  NCV: Port Sandwich    kalax        ‘crawl’
  NCV: Paamese          keaa         ‘crawl’
- NCV: N Efate          karaka       ‘walk bent over, hands supporting body (indicates child will soon walk properly)
+ NCV: N Efate          karaka       ‘walk bent over, hands supporting body (indicates child will soon walk properly)’
  SV:  Anejom           a-ɣraɣ       ‘creep, crawl’
 >
 
@@ -19787,7 +19833,7 @@ POc *kaRaka ‘crawl on all fours’
 
 <
 POc *(d,dr)aRaC ‘crawl (along the ground)’
- NNG: Mutu               n darab            ‘crawl’
+ NNG: Mutu               ⁿdarab            ‘crawl’
  NNG: Poeng              ralaŋ             ‘crawl; walk on hands and feet/knees’
  NNG: Poeng              ralasi            ‘crawl; go underneath’
  PT:     Gumawana        dale              ‘crawl on the ground; bow (to s.o.)’
@@ -19836,11 +19882,11 @@ POc *tige ‘hop on one leg, limp’
   MM: Teop                 sige               ‘lame’
   MM: Teop                 sige-sige          ‘limp, hop’
   SES: Longgu              ti-tike            ‘hop’ (t- for †0̷; -k- for †-g-)
-  NCV: Avava               si-sige/(t)        ‘hop’ (John Lynch, pers. comm.)
+  NCV: Avava               si-sige(t)        ‘hop’ (John Lynch, pers. comm.)
   NCV: Ninde               səge-səge          ‘hop’ (John Lynch, pers. comm.)
   NCV: S Efate             tig-tig            ‘hop’
 PPn *teki ‘hop’ (POLLEX)
-  Pn:     Emae             saere fakatuu-teki ‘walk or stand on tiptoe’ (saere ‘go’)
+  Pn:     Emae             |saere fakatuu-teki| ‘walk or stand on tiptoe’ (_saere_ ‘go’)
   Pn:     Marquesan        teki               ‘limp, lame, hop’
   Pn:     Tongarevan       teki               ‘hop’
   Pn:     Tongarevan       (pere)teki         ‘hopscotch’
@@ -19889,7 +19935,7 @@ POc *p(w)uluk-i- (VT) ‘roll’
 PNCV *[v,b]uluk-i ‘fold, bend’ (Clark 2009)
   NCV: Mota                   wuluɣ         ‘close over’
   NCV: Uripiv                 -ʙulk-i       ‘bend, fold’
-  NCV: Port Sandwich      buru g-i m     ŋ ‘bend knees; fold (material); roll’
+  NCV: Port Sandwich          ᵐburuᵑg-i     ‘bend knees; fold (material); roll’
 >
 
 <
@@ -20051,7 +20097,7 @@ POc *p(w)uk(w)a ‘fall’
  MM: Tigak                     puka            ‘fall’
  MM: E Kara                    poɣo            ‘fall’
  MM: W Kara                    poko            ‘fall’
- MM: Tiang                     pukə            ‘fall (from tree +)
+ MM: Tiang                     pukə            ‘fall’ (from tree +)
  MM: Lihir                     puok            ‘fall’
  MM: Konomala                  puka            ‘fall’
  MM: Patpatar                  puko            ‘fall’
@@ -20460,7 +20506,7 @@ POc *mule ‘return, restore’ (ACD)
  NCV: Nokuku        mule              ‘go back, go home’
  NCV: Kiai          mule              ‘go home, return’
  NCV: Kiai          mule-i-           ‘give back’
- NCV: NE Ambae      mule              ‘go home
+ NCV: NE Ambae      mule              ‘go home’
  NCV: Raga          mule              ‘reach a certain point’
  NCV: Malo          mule              ‘return home’
  NCV: N Ambrym      mol               ‘return, back’
@@ -20530,7 +20576,7 @@ POc apparently had two homophonous verbs with the root *liu, one glossed ‘turn
 direction’ (this section) and the other *liu ‘go beyond, pass, surpass’ (§6.4.3). It is possible that
 both reflect PAn *liuS, which Blust (ACD) glosses ‘circumambulate, circumvent’. However, its
 Formosan reflexes suggest that PAn *liuS formed both intransitive and transitive verbs
-meaning ‘turn around’,12 the sense inherited by POc. Whether PAn *liuS was also ancestral to
+meaning ‘turn around’,[12] the sense inherited by POc. Whether PAn *liuS was also ancestral to
 PMP *liu ‘surpass, exceed’ is not clear.
 
     In addition to POc *liu ‘turn aside, change direction’, a reduplicated *li-liu ‘turn around, go
@@ -20543,7 +20589,8 @@ of turning around rather than simply of going back.
 which *l had been replaced by *r. This is not a regular sound change.
 
 <
-POc *liu ‘turn aside, change direction’; *li-liu ‘turn around, go back’ (ACD)
+POc *liu ‘turn aside, change direction’
+POc *li-liu ‘turn around, go back’ (ACD)
  Adm: Baluan          li-liu              ‘go back’
  NNG: Poeng           (ga)liu             ‘return (said to person nearby)’
  NNG: Poeng           (kaga)liu           ‘return (said to someone going far away)’
@@ -20572,7 +20619,7 @@ PNCV *li(u)-liu (VI) ‘return; be backwards, be upside down’ (Clark 2009: *li
  NCV: Port Sandwich   li-l                ‘backwards’
  NCV: Port Sandwich   li-li               ‘upside down’
  NCV: Port Sandwich   li-li-in-i          ‘back to front’
- NCV: Lonwolwol       lu-lu (ne)          ‘backwards, back to front, wrong way round, upside down’
+ NCV: Lonwolwol       |lu-lu (ne)|          ‘backwards, back to front, wrong way round, upside down’
  NCV: Tolomako        li-liu              ‘return’
  NCV: Neve’ei         ma-li-li            ‘return’
  NCV: Naha’ai         ma-li-liu           ‘return’
@@ -20662,7 +20709,8 @@ and emphasised the spontaneity of the event (§1.3.5.4; Evans 2003:300). However
 instance, the prefix simply functions to reduce valency.
 
 <
-POc *[ta]bulo(s) (VI) ‘turn round, turn back’, bulos-i- (VT) ‘turn round, turn back’
+POc *[ta]bulo(s) (VI) ‘turn round, turn back’
+POc *bulos-i- (VT) ‘turn round, turn back’
  NNG: Medebur               ta-wul             (VI) ‘turn round’
  NNG: Wogeo                 ta-bul             (VI) ‘turn round’
  NNG: Kis                   -tu-bu-bl-i        (VI) ‘turn round’
@@ -20711,9 +20759,10 @@ These considerations point to the reconstruction of POc *pulo(s) (VI) ‘turn ro
 form *vulos-i.
 
 <
-POc *pulo(s) (VI) ‘turn round’, *pulos-i- (VT) ‘turn (s.t.) round’
+POc *pulo(s) (VI) ‘turn round’
+POc *pulos-i- (VT) ‘turn (s.t.) round’
  Adm: Seimat               hūlo                (VI) ‘turn about, as a man’
- NNG Gitua                 pule-le             (VI) ‘turn round’
+ NNG: Gitua                 pule-le             (VI) ‘turn round’
  NNG: Kove                 -pale-le            (VI) ‘turn round’
  NNG: Bariai               -pale-le            (VI) ‘turn round’
  NNG: Kilenge              -pulie              (VI) ‘turn round’
@@ -20736,7 +20785,7 @@ POc *pulo(s) (VI) ‘turn round’, *pulos-i- (VT) ‘turn (s.t.) round’
 
 <
 PNCV *viles-i, *vilos-i ‘turn’ (Clark 2009)
- NCV: Mota                  vile-ris          ‘change, be changed’ [ris ‘change’],
+ NCV: Mota                  vile-ris          ‘change, be changed’ (_ris_ ‘change’)
  NCV: Mwotlap               vɪy               ‘reverse direction’
  NCV: Kiai                  ri-vules-i-       (VT) ‘turn’
  NCV: Naman                 vələs             ‘turn around; change’
@@ -20777,7 +20826,7 @@ PNCV *liu ‘go beyond, exceed’ (Clark 2009)
  NCV: Kiai              lui-               ‘lead, go first, be ahead; go beyond’
  NCV: Tamambo           liu                ‘win; be better’
  NCV: Sak               lö(d)              ‘exceed, surpass, go beyond’
- NCV: Paamese           lii (muli)         ‘pass, go past; miss; more than’
+ NCV: Paamese           |lii (muli)|         ‘pass, go past; miss; more than’
  NCV: Lewo              liu                ‘pass, go past; miss; more than’
  NCV: Namakir           liw                ‘too much, too many, very’
  NCV: Nguna             lius-              ‘past, beyond; to surpass, pass’
@@ -20811,7 +20860,7 @@ vitu-votu ‘new moon’, Rerep nebur mi uet ‘new moon’.
 PMP *betu ‘appear, come into view’ (ACD)
 POc *potu ‘appear, come into view’ (ACD)
  Adm: Mussau        otu          (VI) ‘show up’
- NNG: Amara         pod/uod      (VI) ‘appear, arrive’
+ NNG: Amara         pod, uod      (VI) ‘appear, arrive’
  NNG: Bariai        ot           ‘arrive; emerge’
  NNG: Kove          put          ‘appear, enter a garden, come out’
  NNG: Mangseng      =pot         ‘out, off’ (‘=’ marks an enclitic boundary)
@@ -20855,13 +20904,13 @@ POc *pʷosa ‘appear’
  PT:    Dobu               (a)pʷesa        ‘appear, arrive, arrive there, depart, happen’
  PT:    Bunama             (ha)pʷesa       ‘appear’
  MM: Patpatar              posa            ‘appear, stick out’
- MM: Patpatar              po-posa/pa-posa (N) ‘appearing of sun, moon, stars’
+ MM: Patpatar              po-posa, pa-posa (N) ‘appearing of sun, moon, stars’
   SES: ’Are’are            huta            ‘be born, appear, rise up’
   SES: Sa’a                uwota           ‘appear on the horizon’
 >
 
 <
-POc *pura‘ arrive, appear’
+POc *pura ‘arrive, appear’
  NNG: Manam                pura               ‘come, arrive’
  NNG: Bam                  -pur               ‘come back’
  NNG: Kairiru              -fur               ‘appear, arrive on the scene’
@@ -20896,11 +20945,11 @@ POc *pʷaka ‘come into view’
  NNG: Mangap             pok                 ‘burst forth into the open, appear, come into view, break’
   SES: Arosi              pʷā                ‘rise’
   SES: Sa’a               pʷaʔa              ‘rise (of heavenly bodies)’
-?? PMic *pʷax(a,e) ‘come into view, reveal’ (Bender et al. 2003)
+PMic (?) *pʷax(a,e) ‘come into view, reveal’ (Bender et al. 2003)
   Mic: Kosraean           fæk                ‘say, tell, announce’
   Mic: Ponapean           pʷar               ‘appear’
   Mic: Mokilese           pʷar               ‘emerge, come to view’
-  Mic: Pingelapese        pʷar               ‘appear, rise (of sun)
+  Mic: Pingelapese        pʷar               ‘appear, rise (of sun)’
   Mic: Chuukese           pʷæ, pʷǣ-          ‘come into view’
   Mic: Puluwatese         pʷá, pʷǣ-          ‘appear’
   Mic: Carolinian         bʷæ                ‘be(come) visible, appear’
@@ -20935,8 +20984,9 @@ but the Nguna and Wayan Fijian use of *so(k,g)on-i as intransitive render this a
 420 Malcolm Ross
 
 <
-POc *so(k,g)o(n) (VI) ‘gather, congregate’, *so(k,g)on-i (VT?) ‘gather, bring together’
- Adm: Mussau        ai-soko-soko-iaa   (VT) gather together (ai- RECIP)
+POc *so(k,g)o(n) (VI) ‘gather, congregate’
+POc *so(k,g)on-i (VT?) ‘gather, bring together’
+ Adm: Mussau        ai-soko-soko-iaa   (VT) ‘gather together’ (_ai-_ RECIP)
 PNCV *soko ‘add, join’ (Clark 2009)
  NCV: Mota          soɣo               ‘give, bring, contribute, distribute; descriptive prefix to numerals, of things together in a bunch, such as coconuts; to measure money, a measure of money’
  NCV: Mota          soɣon              ‘bring together, pack, stow’
@@ -24631,7 +24681,7 @@ PPn *tiro ‘look, observe’, *tirof-i ‘gaze at s.t.’
   Pn:  Samoan          tilo-tilo             ‘peep, peer, survey, look over’
   Pn:  Samoan          tilof-i-a          ‘be looked at, gazed at’
   Pn:  Tikopia         tiro-tiro          ‘look in pool as a mirror’
-  Pn:  Maori           tiro, ti-tiro      (VI) ‘look, look into, examine'
+  Pn:  Maori           tiro, ti-tiro      (VI) ‘look, look into, examine’
 >
 
 496 Meredith Osmond and Andrew Pawley
@@ -24664,7 +24714,7 @@ POc *kilat (VI, U-verb) ‘be seen clearly, discerned, recognised’; (VT) ‘se
  Mic: Ponapean            kila(ŋ)           ‘see, discern, look at, observe, examine’
  Mic: Chuukese            kira              (VT) ‘see, behold, find s.t.’
  Mic: Chuukese            kira-             (VI) ‘be seen, found’ (in compounds only)
- Mic: Ponapean            kila(ŋ)           (VT) ‘see, discern, look at, observe, examine'
+ Mic: Ponapean            kila(ŋ)           (VT) ‘see, discern, look at, observe, examine’
  Mic: Woleaian            xa-xira           (VT) ‘recognise it’ (xa- CAUS)
  Mic: Woleaian            xira              (VSt) ‘be clear, seen clearly, recognised’
  Pn:     Tongan           ki-kila           (VI) ‘look with wide-open eyes’
@@ -25087,8 +25137,9 @@ smell of s.t.’.
 
 <
 PAn *Sajek (N) ‘smell’; (VT) ‘to smell (s.t.)’ (ACD)
-PMP *hajek ‘smell, sniff, kiss’7
-POc *asok (VI) ‘to sniff, kiss’ *asok-i- (VT) ‘sniff or kiss s.t.’ (ACD)
+PMP *hajek ‘smell, sniff, kiss’[7]
+POc *asok (VI) ‘to sniff, kiss’ (ACD)
+POc *asok-i- (VT) ‘sniff or kiss s.t.’ (ACD)
   Adm: Wuvulu                ato                 ‘to sniff, smell’
   Adm: Seimat                aso-i               ‘to sniff, smell’
   PT:    Molima              yaso                ‘to smell s.t.’
@@ -25111,7 +25162,8 @@ derived by any known derivational process and may simply be a matter of chance
 resemblance.
 
 <
-POc *bona(s) (VI) ‘to smell, stink’; *bonas-i- (VT) either ‘smell (s.t.)’ or ‘(s.t.) smell of (s.t.)’
+POc *bona(s) (VI) ‘to smell, stink’
+POc *bonas-i- (VT) ‘smell (s.t.)’; ‘(s.t.) smell of (s.t.)’
  NNG:  Maenge             bona                (N) ‘unpleasant smells’
  PT:   Motu               bona                (N) ‘smell, scent’
  PT:   Motu               bona-ia             (VT) ‘to smell’
@@ -25190,8 +25242,10 @@ Kiribati pwoi (zero-valency noun) and Bauan boi (intransitive verb).
 
 <
 PMP *bahu (VI) ‘smell bad’ (Dempwolff, cited by Blust, ACD)
-POc *bo[-], *boe- (N) ‘odour, scent’; *bo (VI) ‘have an odour, be smelly’
-PNCV *b[o,u][-] (N) ‘odour, scent’; *b[o,u] (VI) ‘have an odour, be smelly’
+POc *bo[-], *boe- (N) ‘odour, scent’
+POc *bo (VI) ‘have an odour, be smelly’
+PNCV *b[o,u][-] (N) ‘odour, scent’
+PNCV *b[o,u] (VI) ‘have an odour, be smelly’
  NCV: Port Sandwich       mbo                       ‘to stink, rotten’
  NCV: Port Sandwich       na-mbo-             ‘smell, odour’
  NCV: Uripiv              o-po                ‘rotten’
@@ -25441,7 +25495,7 @@ POc *mamis ‘to try by tasting; sweet’
  PT:   Balawaia            mami-                 (N) ‘taste’
  MM: Meramera              mamis-i               ‘sweet’
  SES: Gela                 mami-a                ‘tasting good’
- SES: Sa’a                 mami                  (VI) ‘to taste'
+ SES: Sa’a                 mami                  (VI) ‘to taste’
  SES: Kwaio                mami                  ‘normal tasting, neither sweet nor sour’
  SES: Kwaio                mami toʔona           ‘try food, taste’ (toʔo ‘receive, catch’)
  SV: Anejom                a-mθa                 ‘extremely sweet’
@@ -27241,7 +27295,7 @@ __table__
  Fij:     Bauan       vaka-dina-dina ‘confirm, witness’                    dina
                       vaka-dina-t- ‘believe’
  Fij:     Wayan       vaka-dū-ni- ' ‘believe; confirm truth or accuracy dū
-                      of s.t.'
+                      of s.t.’
  Pn:     Tongan       faka-moʔoni ‘bear witness, prove, verify’            moʔoni
  Pn:     Niuean       faka-mooli ‘witness, tell truth, prove’              mooli
  Pn:     Rennellese haka-māʔogi ‘verify as true’                           māʔogi
