@@ -29136,9 +29136,9 @@ PSV *a-metaɣ[VT] (VI) ‘be afraid, fear’ (Lynch 2001c)
 differ from one language to the next. For example:
 
 __formgroup__
-  NNG: Mangap               kuli- i-mozōro       [skin- it-scatter] ‘really frightened’
-  NNG: Mangap               mata- koikoi         [eye- evasive] ‘fearful’
-  NNG: Takia                ilo- i-rer           [insides- it-tremble] ‘afraid, frightened, fearful’
+  NNG: Mangap               |kuli- i-mozōro|     [skin- it-scatter] ‘really frightened’
+  NNG: Mangap               |mata- koikoi  |     [eye- evasive] ‘fearful’
+  NNG: Takia                |ilo- i-rer    |     [insides- it-tremble] ‘afraid, frightened, fearful’
   PT:  Tawala               nugo-helele          [mind-fearful] ‘nervous, anxious, afraid, shaking with fear, surprised, have pounding heart’
 
 11.4.2 Ashamed, embarrassed, shy
@@ -29855,12 +29855,12 @@ inaminates and meaning something like ‘be unfit for use’. But some languages
 reflexes of *jika to describe negative emotions or behavioural qualities:
 
 __formgroup__
-  PT:     Motu            kara dika          [conduct bad] ‘sin’
-  PT:     Motu            gaiho dika         [character bad] ‘inhospitable, mean’
-  PT:     Motu            lalo dika          [insides bad] ‘miserable’
-  MM: Maringe             diʔa na̰ñafa       [heart bad] ‘sad, sadness’
-  SES: Gela               lio dika           [disposition bad] ‘sad, sorry; to hate’
-  SES: Bugotu             dika hehe          [bad heart/mind/wish] ‘grief, to grieve, be sad; bear ill will’
+  PT:     Motu            |kara dika  |       [conduct bad] ‘sin’
+  PT:     Motu            |gaiho dika |       [character bad] ‘inhospitable, mean’
+  PT:     Motu            |lalo dika  |       [insides bad] ‘miserable’
+  MM: Maringe             |diʔa na̰ñafa|       [heart bad] ‘sad, sadness’
+  SES: Gela               |lio dika   |       [disposition bad] ‘sad, sorry; to hate’
+  SES: Bugotu             |dika hehe  |       [bad heart/mind/wish] ‘grief, to grieve, be sad; bear ill will’
 
 <
 POc *jika ‘be soiled, weakened’
