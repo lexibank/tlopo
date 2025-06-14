@@ -155,7 +155,7 @@ class Dataset(BaseDataset):
         per_pl = collections.defaultdict(list)
         for vol in range(1, 7):
             print(vol)
-            if vol != 5:
+            if vol != 2:
                 continue
             t = self.raw_dir / 'vol{}'.format(vol) / 'text.txt'
             if not t.exists():
@@ -208,7 +208,8 @@ class Dataset(BaseDataset):
             #        print(v, k)
             #for k, v in bycat.items():
             #     print(k, v)
-            print(vol.igts)
+            #print(vol.igts)
+            list(vol.chapters)
 
     def add_form(self, writer, protoform_or_reflex, gloss2id, langs, poc_gloss='none'):
         gloss = protoform_or_reflex.glosses[0].gloss if protoform_or_reflex.glosses else poc_gloss
@@ -218,7 +219,8 @@ class Dataset(BaseDataset):
             writer.add_concept(ID=slug(str(gloss)), Name=gloss)
 
         if isinstance(protoform_or_reflex, Protoform):
-            return writer.add_lexemes(
+            try:
+                return writer.add_lexemes(
                 ID='{}-{}'.format(slug(protoform_or_reflex.protolanguage), slug(protoform_or_reflex.form)),
                 Language_ID=slug(protoform_or_reflex.protolanguage),
                 Parameter_ID=gloss2id[gloss],
@@ -227,7 +229,10 @@ class Dataset(BaseDataset):
                 Comment=protoform_or_reflex.comment,
                 Source=[r.cldf_id for r in protoform_or_reflex.sources or []],
                 # Doubt=getattr(form, 'doubt', False),
-            )[0]
+                )[0]
+            except IndexError:
+                print(protoform_or_reflex)
+                raise
         else:
             assert isinstance(protoform_or_reflex, Reflex)
             return writer.add_lexemes(
@@ -280,8 +285,9 @@ class Dataset(BaseDataset):
             for alt in v['Alternative_Names'].split('; '):
                 langs[alt] = v
 
+        fgs = 0
         for vol in range(1, 7):
-            if vol not in {1, 2, 3, 4}:
+            if vol not in {1, 2, 3, 4, 5}:
                 continue
             t = self.raw_dir / 'vol{}'.format(vol) / 'text.txt'
             if not t.exists():
@@ -289,6 +295,9 @@ class Dataset(BaseDataset):
             vol = Volume(t.parent, langs, Source.from_bibtex(self.etc_dir.read('citation.bib')), args.writer.cldf.sources)
             for i, rec in enumerate(vol.reconstructions):
                 reconstructions.append(rec)
+            for i, fg in enumerate(vol.formgroups):
+                fgs += len(fg.forms)
+
             mddir = self.cldf_dir.joinpath(vol.dir.name)
             mddir.mkdir(exist_ok=True)
             for num, chapter in vol.chapters.items():
@@ -417,6 +426,7 @@ class Dataset(BaseDataset):
                         # Source=[str(ref) for ref in form.gloss.refs],
                         # Doubt=form.doubt,
                     ))
+        print(fgs)
 
     def local_schema(self, cldf):
         """

@@ -4235,7 +4235,7 @@ this _*i_ reflects the incorporation into _*(m,mʷ)ata_ of the generic possessiv
 which would frequently have occurred immediately after it (e.g. POc _**(m,mʷ)ata-qi kiRam_
 'axe blade') and is reflected in Mota matai above.
 
-__pre__
+__formgroup__
     Adm: Loniu                   mʷati           'axe'
     NNG: Takia                   mait            '(small) knife'
     NNG: Manam                   moita           'knife'
@@ -4632,7 +4632,7 @@ cloth', and PPn _*ŋafi-ŋafi_ 'old mat or bark-cloth' (Biggs 1993).
     The only term reconstructable for the Southeast Solomons is apparently limited to the
 island of Malaita.
 
-__pre__
+__formgroup__
     SES:    Lau                maku    'bark-cloth'
     SES:    Kwaio              maku    'bark-cloth'
     SES:    'Are'are           maku    'cloth for married women, a fringe of string or a piece of pandanus worn in front and behind, not around the hips'
@@ -6456,7 +6456,7 @@ PEOc *pasi 'plant yams'
 
    Other terms are reflexes of POc _*(su)suk-i_ 'pierce, sew' (Ch. 9, §4.1):
 
-__pre__
+__formgroup__
  SES: Arosi               suʔi              'transplant, put in a seedling'
  NCV: Mota               sug               'dig up, transplant'
  Fij:  Bauan              ðuki              'dig up ground, loosen ground with a stick'
@@ -7103,11 +7103,8 @@ although we have no reconstructions for methods other than by fire-plough. Bing 
 north coast and Mapos Buang in the Huon Gulf area (both NNG) offer evidence for a
 method in which rattan or vine is sawn rapidly around a piece of wood:
 
-__pre__
- NNG: Mapos Buang  vaŋkC rurŋ       'make a fire by the traditional method using a
-                                     piece of rattan, sawing it back and forth around a
-                                     piece of dry wood with a split in it, lying on a little
-                                     pile of tinder'
+__formgroup__
+ NNG: Mapos Buang  |vaŋkC rurŋ|       'make a fire by the traditional method using a piece of rattan, sawing it back and forth around a piece of dry wood with a split in it, lying on a little pile of tinder'
  NNG: Bing         baŋ-baŋ          'fire-stick and vine'
 
 Another north coast language, Gedaged, has a term, _wol_, referring to a bow string. Fire is
@@ -7226,12 +7223,12 @@ stones on which the cooking pot is placed, but no clear reflex of PMP _*dalikan_
 (Blust 1986) has been found, in spite of the presence of terms for trivet in north-west Melanesia
 and Fiji. For example:
 
-__pre__
- Adm: Mussau              atu ko-tolu        'trivet' (lit. 'three stones')
+__formgroup__
+ Adm: Mussau              |atu ko-tolu|        'trivet' (lit. 'three stones')
  PT:  Motu                (bo)dika           'the three stones for cooking-pot rest'
  PT:  Muyuw               alikwaw            'fireplace'
  PT:  Molima              duku-duku          'stones that support a pot, tripod effect'
- Fij: Wayan               soqita (vatu)      'trivet'
+ Fij: Wayan               |soqita (vatu)|      'trivet'
  Fij: Yasawa              sue                'hearth, trivet'
 
 148    Frantisek Lichtenberk and Meredith Osmond
@@ -8725,7 +8722,7 @@ canoes, but evidently excluded canoes without outriggers or sails.
     Cognates belonging to the set above are sometimes placed together with forms listed
 below:
 
-__pre__
+__formgroup__
     WMP: Malay       waŋkaŋ         'Chinese junk'
     WMP: Javanese    waŋkaŋ         'Chinese junk'
     WMP: Ngaju Dayak vaŋkaŋ         'Chinese junk'
@@ -9007,7 +9004,7 @@ POc *raki(t) ?'raft; join outrigger, join two hulls'
 Chowning (1985: 59) gives the following as possible cognates, although the final vowel is
 problematic:
 
-__pre__
+__formgroup__
   NNG: Kove                laye               'raft'
   MM:  Nakanai             lage               'raft'
 
@@ -11222,7 +11219,7 @@ there were, as well as collecting of reef and lagoon fish and shellfish". (p. 13
    Artefacts are considered alongside the linguistic evidence. With regard to angling, we have
 the following POc reconstructions:
 
-__pre__
+__block__
   *apon                   'fishing line'
   *kawil                  'fishhook'
   *ta(g,k)o               'barbless (?) fishhook'
@@ -11270,7 +11267,7 @@ trochus shell, which are associated with Lapita sites. They note (p.243) that:
 
    We have eight POc terms that relate to netting:
 
-__pre__
+__block__
   *pukot                 'fishing net, seine'
   *reke                  'fishing net, seine net'
   *lawa((n,q))           'k.o. fishnet'
@@ -11293,7 +11290,7 @@ to identify shells and stones from a Lapita site as net weights and line sinkers
    It is unlikely that the remainder of our fishing terminology, with the possible exception of
 the stone fish weirs, can ever be supported by archaeological evidence:
 
-__pre__
+__block__
  *pupu                   'basketry fish trap'
  *baRa                   'fence' ('fish weir' only in PCP)
  *tupa                   'derris fish poison'
@@ -11302,7 +11299,7 @@ __pre__
 
 The pointed weapon terminology consists of:
 
-__pre__
+__block__
   *sao(t)                    (N, V) 'spear'
   *sua                       (N, V) 'spear, weapon retained in the hand'
   *soka, *soka-i-            'pierce; stab'
@@ -11329,21 +11326,21 @@ from Main Reef Islands circa 3100 BP.
    I can find no archaeological evidence for any kind of club, our two (weakly supported)
 terms notwithstanding:
 
-__pre__
+__block__
      *paru         (N, V) 'club'
      *gapi         'stone? club'
 
 However, for the slingshot we have pointed-end tridachna shell slingstones from Main Reef
 Islands documented by Green (1979:39):
 
-__pre__
+__block__
     *maga                    'slingshot; stone'
     *kalo                    'sling; tum round and round'
 
    The trail and pitfall spikes, the snare trap and the birdlime lack any supporting evidence
 from archaeology.
 
-__pre__
+__block__
    *suja                       'sharpened stake set in ground'
    *pʷita, *pʷita-i-           (N, V) 'snare'
    *bulit                      'gum, resin (birdlime?)'
@@ -11559,7 +11556,7 @@ PWOc *karo 'scratch with fingernails or claws'
 
 238     Malcolm Ross, Ross Clark and Meredith Osmond
 
-__pre__
+__tablenh__
 1) POc *kara(s), *karas-i-         'peel or scrape (skin off tubers)
    POc *ko[r,Rja(s), *ko[r,Rjas-i- 'scrape out (coconut meat +); dregs of strained coconut scrapings'
 2) POc *kari(s), *karis-i-         'scrape (tubers, coconuts)'
@@ -11730,7 +11727,7 @@ POc *kosi[-] 'scrape, scratch (to mark s.t.)'
    There are three other reconstructions which overlap semantically with those above. They
 are:
 
-__pre__
+__tablenh__
 POc *rasi[-]             'grate, scrape (tubers, coconuts); scratch'
 PEOc *saqalo             'scrape, clean by scraping; rub smooth'
 PEOc *paro(s), *paros-i- 'chafe, of skin; scrape'
@@ -11917,18 +11914,18 @@ instance, Iduna, a Papuan Tip language, has dozens of cutting terms which are co
 with _-tala-_ 'chop, cut (of tree, boat), shave (of beard), peck (with beak)" a reflex of POc
 _*taRa(q)_ 'adze'. They include:
 
-__pre__
-   -tala-kehi-            'cut small (of wood, with a knife)'
-   -tala-kelikeli-        'cut long grooves or scratches (with knife)'
-   -tala-kowa-            'take a cutting'
-   -tala-kʷaili-          'take leaf out (of coconut frond)'
-   -tala-kwane-kwane-     'cut one after another, chip at holding adze vertically'
-   -tala-Iukuwe-          'cut into'
-   -tala-muhu-muhu-       'cut into tiny pieces (of wood)'
-   -tala-bwa?e-bwa?e-     'chip round marks with sharp edge of knife'
-   -tala-dobo-            'break with knife (of food, wood)'
-   -tala-done-            'cut into'
-   -tala-golohi-          'cut off, chop off (branches), (cause to) tear by cutting'
+__formgroup__
+ PT: Iduna  -tala-kehi-            'cut small (of wood, with a knife)'
+ PT: Iduna   -tala-kelikeli-        'cut long grooves or scratches (with knife)'
+ PT: Iduna   -tala-kowa-            'take a cutting'
+ PT: Iduna   -tala-kʷaili-          'take leaf out (of coconut frond)'
+ PT: Iduna   -tala-kwane-kwane-     'cut one after another, chip at holding adze vertically'
+ PT: Iduna   -tala-Iukuwe-          'cut into'
+ PT: Iduna   -tala-muhu-muhu-       'cut into tiny pieces (of wood)'
+ PT: Iduna   -tala-bwa?e-bwa?e-     'chip round marks with sharp edge of knife'
+ PT: Iduna   -tala-dobo-            'break with knife (of food, wood)'
+ PT: Iduna   -tala-done-            'cut into'
+ PT: Iduna   -tala-golohi-          'cut off, chop off (branches), (cause to) tear by cutting'
 
 
 The evidence suggests that _*taRa(q)_ 'adze' already had a corresponding verb _*taRaq-i-_, in
@@ -11999,7 +11996,7 @@ In some cases it is reasonably clear that they were distinguished by the kinds o
 were cut. In other cases it is difficult to reconstruct semantic distinctions. Reconstructable
 verbs are:
 
-__pre__
+__tablenh__
 POc  *utu(s), *utus-i-           'sever, separate'
 POc  *kutu[-]                    'cut'
 POc  *ma-utus, *motus            'become, be broken off, severed'
@@ -12084,7 +12081,7 @@ POc *ma-utus, *motus 'become, be broken off, severed'
 Note that the Malaita-Makira languages of SES have formed a new transitive verb _*motus-i-_
 'break off' from the intransitive _*ma-utus_:
 
-__pre__
+__formgroup__
    SES: Longgu      mousi-            'cut, break, pull in two; cut clean away, cut right off'
    SES: Sa'a        mousi             (VT) 'break off'
    SES: Arosi       mosi              'break'
@@ -12863,7 +12860,7 @@ and POc _*sua_ referred respectively to a bone needle (Ch.4, §3.2.1) and a spea
 but are included here because of their verbal uses and their potential for confusion with the
 other terms.
 
-__pre__
+__tablenh__
 POc       *(su)su(k)        'anything used to pierce, prick; (V) pierce, prick, sew'; *suki- 'pierce, prick, sew (mats)'
 POc       *tuRi[-]          'sew, thread, string together'
 POc       *(su)suRi[-]      'bone (needle); sew'
@@ -12995,7 +12992,7 @@ reconstructed:
 266      Malcolm Ross, Ross Clark and Meredith Osmond
 
 
-__pre__
+__tablenh__
 POc     *puru(k), *puruk-i- 'pierce, bore (hole)'
 POc     *buru[-]            'pierce, bore (hole), drill'
 PWOc    *bʷaR(i,e)[-]       'pierce, bore (hole)'
@@ -13069,7 +13066,7 @@ POc (?) *paRo[-] 'drill through, pierce, perforate' (ACD)
    A number of terms for hitting are reconstructable, with meanings which vary particularly
 according to the manner of hitting, like English _clout_, _slap_, _punch_, _pound_, _knock_ and so on:
 
-__pre__
+__tablenh__
 POc *punu(q), *punuq-i-               'hit, strike, fight, kill'
 POc *qubu, *qubʷi-                    'hit with fist or with a weapon'
 POc *rapu(t), *raput-i-               'hit with hand or stick, slash'
@@ -13408,7 +13405,7 @@ agent subject and a patient object. It is possible that the forms without final 
 intransitively with the patient (rather than the agent) as their subject. That is, they meant
 'break spontaneously' or 'be broken', belonging to the neutral verb class (Ch. 2, §3.1.1).
 
-__pre__
+__tablenh__
 POc *pita(k), *pitak-i-     'break, split'
 POc *piti(k), *pitik-i-     '(crack)'
 POc *pu(q)a(R), *pu(q)aR-i- 'break (s.t. hard), smash'
@@ -13549,7 +13546,7 @@ POc *rabo(k) 'break, smash'
 to the PAn roots they reflect. Thus the first set reflects the PAn root _*-buC_ 'weed, pull,
 pluck out' (Ch. 2, §3.1.3):
 
-__pre__
+__tablenh__
 POc *pupu(t), *puti                'pick (fruit +), pluck (feathers +)'
 POc *sapu(t), *saput-i-            'pull out, pull up, pluck (fruit, nuts)'
 POc *tapu(t), *taput-i             'strip (crops), pull off'
@@ -13562,7 +13559,7 @@ although their POc meanings both refer to plucking leaves off a branch by hand. 
 has only Fijian and Polynesian reflexes, but is reconstructed for POc on the basis of the
 reconstructable PAn root:
 
-__pre__
+__tablenh__
 POc *sapaki                        'pluck off, break off (leaves) with the hand'
 POc *paki                          'pluck, break off (leaves) with the hand'
 
@@ -13797,7 +13794,7 @@ extracted by squeezing. The last two items listed here referred to squeezing som
 holding it tight. There are several formal overlaps among the items in this section, and these
 are discussed below.
 
-__pre__
+__tablenh__
 POc *(p,pʷ)i(p,pʷ)i(t), *(p,pʷ)iti- 'press, wring, squeeze s.t. (e.g. in order to extract liquid)'
 POc *popo(s), *pos-i-            'squeeze, press out'
 PNNG *(p,pʷ)isa(k), *(p,pʷ)isak-i- 'squeeze (grated coconut +)'
@@ -13925,7 +13922,7 @@ It seems likely that in some languages reflexes of POc _*poRo(s)_ 'squeeze out, 
 fibres on the thigh' have been conflated. Thus the items below have meanings usually associated
 with reflexes of _*poRo(s)_ but their forms reflect _*piro_ or _*pilo(s)_, _*pilos-i-_:
 
-__pre__
+__formgroup__
    PT:    Iduna         vilo-             'twist, wring (of clothes)'
    SES:   Kwaio         filo, filo-       'squeeze, wring'
    SES:   'Are'are      hirosi            'wring, twist, roll'
@@ -14015,7 +14012,7 @@ reflexes of some of these verbs overlap in their semantics with those in §7. Ot
 used of plaiting and weaving to make artefacts such as mats and baskets. They are the
 following, presented in Chapter 4, §3.2:
 
-__pre__
+__tablenh__
 POc       *patu(R), *patuR-i- 'tie, plait, weave (mats, baskets +)'
 POc       *aiia               'woven, braided'
 POc       *paus, *paus-i-     'weave, plait'

@@ -2014,12 +2014,12 @@ a compound connecting ‘river’ or ‘fresh water’ with a body part. The mos
 label is ‘leg’ or more likely, ‘foot of river’, and this may well reflect a POc collocation. We
 find:
 
-__pre__
- NNG: Mapos Buang        |bel vaɣa|          (_bel_ ‘water’, _vaɣa_ ‘leg/foot’)
- NNG: Takia              |you ŋe-n|          (_you_ ‘water’, _ŋe-_ ‘leg/foot’)
- PT:  Iduna              |gufa wa-ʔage|      (_gufa_ ‘river’, _ʔage-_ ‘leg/foot’)
- PT:  Molima             |goʔila ae(na)|     (_goʔila_ ‘fresh water’, _ae_ ‘leg/foot’)
- SES: Lau                |ʔae-na kafo|       (_ʔae-_ ‘foot/leg’, _kafo_ ‘water’)
+__formgroup__
+ NNG: Mapos Buang        |bel vaɣa|       ‘mouth of river’   (_bel_ ‘water’, _vaɣa_ ‘leg/foot’)
+ NNG: Takia              |you ŋe-n|       ‘mouth of river’   (_you_ ‘water’, _ŋe-_ ‘leg/foot’)
+ PT:  Iduna              |gufa wa-ʔage|   ‘mouth of river’   (_gufa_ ‘river’, _ʔage-_ ‘leg/foot’)
+ PT:  Molima             |goʔila ae(na)|  ‘mouth of river’   (_goʔila_ ‘fresh water’, _ae_ ‘leg/foot’)
+ SES: Lau                |ʔae-na kafo|    ‘mouth of river’   (_ʔae-_ ‘foot/leg’, _kafo_ ‘water’)
 
 
 3.3.4 Cape, prominent land
@@ -2770,12 +2770,12 @@ POc *|mata waiR| ‘spring of water, source of a river’
 Other compounds retaining reflexes of POc _*mata_ ‘eye’ but varying in their term for
 ‘water’ include the following:
 
-__pre__
- NNG: Kaulong         |eki maran|
- NNG: Yabem           |bu mata|
- PT:  Iduna           |gufa wa-mata|
- MM:  Tolai           |mətə nə tavə|
- SES: Lau             |mā-fulafula|
+__formgroup__
+ NNG: Kaulong         |eki maran|     ‘spring of water’
+ NNG: Yabem           |bu mata|       ‘spring of water’
+ PT:  Iduna           |gufa wa-mata|  ‘spring of water’
+ MM:  Tolai           |mətə nə tavə|  ‘spring of water’
+ SES: Lau             |mā-fulafula|   ‘spring of water’
 
 
 3.6.3 Waterfall
@@ -3680,7 +3680,7 @@ POc *puruŋ, *puru-puruŋ ‘(?) glow or flame of fire’
 Certain Papuan languages of the central and western Solomons show resemblant forms that
 are presumably borrowed from an Oceanic source.
 
-__pre__
+__tablenh__
   Papuan: Lavukaleve  huluhuluru        ‘flame’
   Papuan: Baniata     vuvuru            ‘flame’
 
@@ -3936,8 +3936,8 @@ or twice a century, and affect only localised places. Although a number of terms
 wave’ have been collected, and are listed below, cognates exist only within low level
 subgroups.
 
-__pre__
-  Adm: Mussau        manu gagaga ‘tidal wave’ (manu ‘water’)
+__formgroup__
+  Adm: Mussau        |manu gagaga|        ‘tidal wave’ (_manu_ ‘water’)
   Adm: Lou           ultum              ‘tidal wave’
   MM:  Nakanai       karoro             ‘tidal wave’
   MM:  Tolai         roro               ‘tidal wave’
@@ -3949,7 +3949,7 @@ __pre__
   SES: Arosi         asi-ora            ‘tidal wave’ (_ora_ ‘possessed by foul ghost’)
   NCV: Tamambo       |tasi wala-walau|  ‘tidal wave’ (_walau_ ‘to run’)
   Fij: Bauan         |ua tale-tale|     ‘tidal wave’ (_ua_ ‘tide, wave’, _tale-tale_ ‘repeated backwash of waves’)
-  Fij: Bauan         |ua loka|          ‘tidal wave (_ua_ ‘tide, wave’, _loka_ ‘very heavy breakers or high tides that flow inland’)
+  Fij: Bauan         |ua loka|          ‘tidal wave’ (_ua_ ‘tide, wave’, _loka_ ‘very heavy breakers or high tides that flow inland’)
   Pn:  Tongan        |peau kula|        ‘tidal wave’ (lit. ‘wave red’)
   Pn:  Niuean        |peau afi|         ‘tidal wave’ (lit. ‘wave fire’)
   Pn:  Hawaiian      |kai hōʔeʔe|       ‘tidal wave’
@@ -4207,15 +4207,15 @@ modifier probably existed in POc, denoting conditions or defined areas of sea. M
 contemporary languages possess such compounds. For example, Lau (SES) distinguishes
 the following compounds whose first element is _asi_ (< _*tasik_).
 
-__pre__
-         asiʔabua                        ‘deep blue sea’
-         asidalafa                       ‘open ocean’
-         asidaudau                       ‘open sea outside reef’
-         asifolā, asimae                 ‘sea within reef’
-         asimauri                        ‘sea outside reef’
-         asinamo                         ‘lagoon within reef’
-         asīle                           ‘where reef drops to deep water’
-         asirū                           ‘sea where there is no reef’
+__formgroup__
+  SES: Lau       asiʔabua                        ‘deep blue sea’
+  SES: Lau       asidalafa                       ‘open ocean’
+  SES: Lau       asidaudau                       ‘open sea outside reef’
+  SES: Lau       asifolā, asimae                 ‘sea within reef’
+  SES: Lau       asimauri                        ‘sea outside reef’
+  SES: Lau       asinamo                         ‘lagoon within reef’
+  SES: Lau       asīle                           ‘where reef drops to deep water’
+  SES: Lau       asirū                           ‘sea where there is no reef’
 
 In Polynesian languages reflexes of _*tasik_ chiefly refer to the sea near the shore, the
 shallow coastal waters, while another term, PPn _*moana_ (see below) has been adopted to
@@ -4357,7 +4357,7 @@ with free-flowing current’, with the reflex of POc _*waiR_ ‘water’ replaci
 
    In a number of languages, rough water is described by reflexes of POc *saqat ‘bad’.
 
-__pre__
+__formgroup__
  PT:  Kiriwina          (ipai)saga       ‘rough, of sea, weather’
  SES: ’Are’are          | āsi taʔa |     ‘rough sea’
  SES: Arosi             | asi taʔa |     ‘confused sea’
@@ -4582,7 +4582,7 @@ protolanguages, all showing some degree of formal similarity:
 
                                                                          The seascape   101
 
-__pre__
+__tablenh__
  PAn        *buCaq         ‘foam, froth’
  PAn        *puCaq         ‘foam, froth, lather’
  PMP        *budaq         ‘foam, bubbles, lather, scum, froth’
@@ -5078,7 +5078,7 @@ and _*p-in-aŋ-oda_ ‘shellfish, seafood gathered on the reef’ (where _*paŋ-
 (underlying form _*paN-_) and _-in-_ the noun-deriving infix discussed in vol. 1, p.29 and p.33
 respectively). A selection of reflexes follows:
 
-__pre__
+__formgroup__
  PT:  Motu                 haoda            (V) ‘fish’
  SES: Bugotu               vagoda           ‘hunt for shellfish on the reef’
  SES: Gela                 vaŋoda           ‘collect food on the reef; anything on the reef; gatherer of reef food’
@@ -5086,8 +5086,8 @@ __pre__
  NCV: Mota                 vaŋona           ‘catch fish with a line; get shellfish on the reef or in a canoe’
  NCV: Nguna                (pa)vagoda       ‘look for shellfish’
  NCV: Nguna                vinagoda         ‘shellfish’
- NCV: Lonwolwol            fogōr            ‘look for fish (on reef etc.)
- SV:  Anejom               a-haŋeþ          ‘forage on reef’
+ NCV: Lonwolwol            fogōr            ‘look for fish (on reef etc.)’
+ SV:  Anejom               a-haŋeč          ‘forage on reef’
 
                                                                              The seascape      111
 
@@ -5661,8 +5661,9 @@ Guinea and into the Bismarck Archipelago and then the New Georgia group of the
 northwest Solomons, they continued to encounter this and other kinds of local variation,
 but the southeast trades always continued to be the prevailing winds.
 
-__pre__
-              Table 3: Approximate summary of seasons in some Pacific locations
+: Table 3: Approximate summary of seasons in some Pacific locations
+
+__table__
                                 Southern Hemisphere Winter              Southern Hemisphere Summer
 Philippines                     southwest monsoon, wet season;           northeast trades, dry season,
                                 in centre and north some cyclones        orographic rain
@@ -5809,7 +5810,7 @@ POc *mur[i,e] (N) ‘breeze’; (V) ‘blow gently’
 
 The terms below may also reflect POc _*mur[i,e]_, but with a change in meaning.
 
-__pre__
+__formgroup__
  NNG: Amara           o-mur          ‘southeast trade’
  NNG: Bing            mur-mōriy      ‘wind which blows strongly from the west, often causing damage’
  PT:  Motu            miri(gini)     ‘north wind’
@@ -6166,7 +6167,7 @@ unlikely candidates for the source).
 
                                                                 Meteorological phenomena         135
 
-__pre__
+__formgroup__
  SES: Arosi                worosi             ‘northwest gale’
  SES: ’Are’are             awarosi            ‘the northwest wind’
  SES: Sa’a                 awalosi            ‘northwest wind’
@@ -6181,9 +6182,9 @@ the source of the final _-a_ of Trukic and Woleaian forms. Secondly, the forms m
 ‘(northeast) trade wind’, not, as we might here expect, something like ‘southwest storm
 wind’:
 
-__pre__
+__formgroup__
  Mic: Ponapean           (nan-)par    ‘tradewind season’
- Mic: Proto Trukic       *parata      ‘tradewind’
+ Proto Trukic       *parata      ‘tradewind’
  Mic: L. Mortlockese     paras        ‘rain that comes in due to wind’
  Mic: Woleaian           paẓasa       ‘tradewind’
 
@@ -6330,7 +6331,7 @@ items below and apparently denoting a northwesterly wind.[9]
 [9] Ramoaaina _tailaur_ ‘wind from New Ireland direction’ (basically east) seems to reflect another compound,
   where the first morpheme may reflect POc _*tasik_ ‘sea, saltwater’.
 
-__pre__
+__formgroup__
   MM: Roviana         toŋa-rauru     ‘wind from direction of Lauru (approx north to northwest)’
   NCV: Mota           toŋa-lau       ‘northwest wind’
   NCV: Raga           toŋa-lau       ‘wind from direction of Ambae, i.e. northwest wind’
@@ -6432,7 +6433,7 @@ development also affects local seasonal/wind terms. Thus these items reflect POc
 
 140    Malcolm Ross
 
-__pre__
+__formgroup__
  NNG: Kove               hai              ‘southeast trade, year’
  NNG: Bariai             rai              ‘year’
  NNG: Lukep              rai              ‘year’
@@ -6440,7 +6441,7 @@ __pre__
 
 — whilst the two below reflect POc _*apaRat_ ‘northwest wind’:
 
-__pre__
+__formgroup__
  MM: Barok             awat            ‘year’
  MM: Siar              yahrat          ‘year’
 
@@ -6736,7 +6737,7 @@ POc *kapu(t) ‘low cloud, mist, fog’
 The Bali and Fijian forms below are problematic, as they reflect POc *kabu(t), not
 *kapu(t)
 
-__pre__
+__formgroup__
  MM: Vitu             ɣabu-ɣabu     ‘fog’
  Fij:    Bauan        kabu          ‘mist’
  Fij:    Wayan        kabu          (N) ‘mist, haze, fog’; (V) ‘be covered in cloud, mist, fog’
@@ -7318,13 +7319,13 @@ PChk *pai-laŋi ‘horizon’ (Marck 1994)
 sky. Lau and Kwaio both have _ʔaena asi_, literally ‘foot/leg of the sea’. Other terms retain
 the more usual second element meaning ‘sky’ but vary the first element:
 
-__pre__
+__formgroup__
  PT: Motu           |guba dokona|          ‘horizon’ (_guba_[4] ‘sky’ _doko_ ‘end’)
  SES: Lau           |ʔaena salo|           ‘horizon’ (_ʔaena_ ‘foot’, _salo_[5] ‘sky’)
  SES: Arosi         waʔa-ni-aro            ‘horizon’ (lit. ‘beginning of the sky’)
  Mic: Chuukese      epī-ɾeŋ                ‘horizon’ (_epi-_ ‘bottom’, _ɾeŋi_ ‘sky’)
  Mic: Marshallese   |kapin laŋ|            ‘horizon’ (_kapi_ ‘bottom’, _laŋ_ ‘sky’)
- Mic: Kosraean      pe kʌṣa                ‘horizon’ (_pe_ ‘side’, _kʌṣa_ ‘sky/heaven’)
+ Mic: Kosraean      |pe kʌṣa|                ‘horizon’ (_pe_ ‘side’, _kʌṣa_ ‘sky/heaven’)
  Mic: Kiribati      |te tataŋa ni mainiku| ‘eastern horizon’ (lit. ‘roof-plate of east’)
  Mic: Kiribati      |te tataŋa ni maeao|   ‘western horizon’ (lit. ‘roof-plate of west’) (Grimble 1931:198)
  Fij: Bauan         vū-ni-laŋi             ‘horizon’ (lit. ‘base of sky’)
@@ -7790,10 +7791,10 @@ PMic *|fitū rāni| ‘Morning Star’ ( > POc _*raqani_ ‘daytime, daylight’
 
 (ii) other compounds
 
-__pre__
-  NNG: Gedaged        boi tinan         ‘Morning Star’ (boi ‘star’, tinan ‘mother’ or ‘big’; cf. p.195)[13]
-  NNG: Manam          goai zama         ‘Morning Star’ (goai ‘star’, zama ‘tomorrow’)
-  PT:  Motu           hisiu bada        ‘Morning Star’ (hisiu ‘star’, bada ‘large’)
+__formgroup__
+  NNG: Gedaged        |boi tinan |        ‘Morning Star’ (boi ‘star’, tinan ‘mother’ or ‘big’; cf. p.195)[13]
+  NNG: Manam          |goai zama |        ‘Morning Star’ (goai ‘star’, zama ‘tomorrow’)
+  PT:  Motu           |hisiu bada|        ‘Morning Star’ (hisiu ‘star’, bada ‘large’)
 
 
 [13] POc _*tina_, literally ‘mother’, sometimes carries the interpretation ‘big’ in contrast to ‘child/small’.
@@ -7803,12 +7804,12 @@ __pre__
 
 Evening Star (various compounds):
 
-__pre__
- MM:  Roviana          govete pisi    ‘Evening Star, Venus’ (govete ‘to flee, run away’, pisi ‘to sting or bite, as insects’)
- SES: To’aba’ita       bubufaŋa       ‘Evening Star’ (bubu ‘look at’, faŋa ‘eat; food’
+__formgroup__
+ MM:  Roviana          |govete pisi|    ‘Evening Star, Venus’ (govete ‘to flee, run away’, pisi ‘to sting or bite, as insects’)
+ SES: To’aba’ita       bubufaŋa       ‘Evening Star’ (bubu ‘look at’, faŋa ‘eat; food’)
  SES: Lau              būbūfaŋa       ‘Evening Star’ (būbū ‘look at, gaze’, faŋa ‘to have a meal, food’)
- SES: Arosi            maŋai ŋau      ‘Evening Star’ (maŋa ‘eat’, ŋau ‘eat food’
- Pn:  Tikopia          fetū ramaŋa    Alternative name for evening star when standing in west, in monsoon nights (lit. ‘torchlight fishing star’)
+ SES: Arosi            |maŋai ŋau|      ‘Evening Star’ (maŋa ‘eat’, ŋau ‘eat food’)
+ Pn:  Tikopia          |fetū ramaŋa|   ‘Alternative name for evening star when standing in west, in monsoon nights’ (lit. ‘torchlight fishing star’)
  Pn:  Hawaiian         hōkū-kau-ʔōpae ‘Evening Star’ (lit. ‘star for placing shrimp’)
 
 
@@ -7851,7 +7852,7 @@ We also have various references to particular stars as Manuk’s head, Manuk’s
 
                                                               Navigation and the heavens         169
 
-__pre__
+__formgroup__
  Adm: Ninigo           mānifono                    ‘Sirius’ (fono ‘head’)
  Adm: Ninigo           mānitola                    ‘Procyon’
  Adm: Ninigo           mānihaiup                   ‘Canopus’ (Lewis 1994:406)
@@ -7861,7 +7862,7 @@ __pre__
  Pn:  Rennellese      |te tino-manu|               ‘three bright stars at the end of Taurus’ (tino ‘body’)
  Pn:  Anutan          |te kaokao o manu|           ‘Manuk’s armpit: a group of four small stars near Sirius; said to pass almost directly over Tikopia when approaching from Anuta’
  Pn:  Anutan          |te tino a manu|             ‘Sirius’ (tino ‘body’)
- Pn:  Tikopia         |te opiŋa o manu|            ‘Manuk’s armpit’ (Feinberg 1988:101) A Tikopian name but commonly used on Anuta.
+ Pn:  Tikopia         |te opiŋa o manu|            ‘Manuk’s armpit’ (Feinberg 1988:101) (A Tikopian name but commonly used on Anuta.)
 
 
 Procyon (or Betelgeuse) and Canopus are widely referred to as the north wing and
@@ -7873,15 +7874,15 @@ reference has been dropped.[15]
    _pāy yēr_ and _paɨ yeɨẓ_ ‘southern wing’ but apply them to the northern and southern wings of the
    constellation Aquila.
 
-__pre__
- Mic: Satawalese     paīne-māne-mefuŋ         ‘Procyon (lit. ‘northern wing of Manuk’)
- Mic: Satawalese     paīne-māne-meir          ‘Canopus (lit. ‘southern wing of Manuk’)
- Pn: Anutan          te kapakau paka-tokerau  ‘Procyon, the ‘north wing (of Manuk constellation)’ (kapakau ‘wing’, tokerau ‘north’)
- Pn: Anutan          te kapakau paka-toŋa     ‘Canopus, Manuk’s east wing’ (kapakau ‘wing’, toŋa ‘south/east’)
- Pn: Tikopia         kapakau faka-tokerau     ‘Betelgeuse’
- Pn: Tikopia         kapakau faka-toŋa        ‘probably Canopus’
- Pn: Pileni          trekapekau ki taumako    ‘Betelgeuse’(Taumako is an island east northeast of Pileni)
- Pn: Pileni          trekapekau ki ndeni      ‘Canopus’(Ndeni is an island southwest of Pileni) (Lewis 1994:408)
+__formgroup__
+ Mic: Satawalese     paīne-māne-mefuŋ         ‘Procyon’ (lit. ‘northern wing of Manuk’)
+ Mic: Satawalese     paīne-māne-meir          ‘Canopus’ (lit. ‘southern wing of Manuk’)
+ Pn: Anutan          |te kapakau paka-tokerau|  ‘Procyon, the north wing (of Manuk constellation)’ (kapakau ‘wing’, tokerau ‘north’)
+ Pn: Anutan          |te kapakau paka-toŋa |    ‘Canopus, Manuk’s east wing’ (kapakau ‘wing’, toŋa ‘south/east’)
+ Pn: Tikopia         |kapakau faka-tokerau |    ‘Betelgeuse’
+ Pn: Tikopia         |kapakau faka-toŋa    |    ‘probably Canopus’
+ Pn: Pileni          |trekapekau ki taumako|    ‘Betelgeuse’ (Taumako is an island east northeast of Pileni)
+ Pn: Pileni          |trekapekau ki ndeni  |    ‘Canopus’ (Ndeni is an island southwest of Pileni) (Lewis 1994:408)
 
 
    Individual stars within a constellation are frequently named because of their
@@ -8071,15 +8072,15 @@ PEOc *bubu ‘Southern Cross; triggerfish’
    Other terms are descriptive, with the net metaphor and the cross shape or crucifix
 recurring.
 
-__pre__
+__formgroup__
  SES: Sa’a          ʔape                ‘Southern Cross’ (lit. ‘large square fishing net fixed on four upright poles’)
  Fij: Bauan         kalokalo-ni-ðeva    ‘Southern Cross’ (_kalokalo_ ‘star’, _ðeva_ ‘the south or southeast wind’)
- Pn: Anutan         te kupeŋa           ‘The Net: Southern Cross’
- Pn: Tikopia        te kau kupeŋa       ‘pole-net handle’ (_kau_ ‘handle’ probably refers to the Pointers rather than the Cross, which is the net.)
+ Pn: Anutan         |te kupeŋa    |       ‘The Net: Southern Cross’
+ Pn: Tikopia        |te kau kupeŋa|       ‘pole-net handle’ (_kau_ ‘handle’ probably refers to the Pointers rather than the Cross, which is the net.)
  Pn: Rennellese     kau-kupeŋa          ‘Southern Cross; net handle, net frame’
- Pn: K’marangi      tina ti raŋi        ‘Southern Cross’ (lit. ‘sky mother’)
- Pn: Tikopia        te uru a taŋata     ‘Southern Cross’ (lit. ‘man’s head’)
- Pn: Tikopia        rakau tapu          ‘Southern Cross’ (lit. ‘sacred timber’) (Lewis 1994:407)
+ Pn: K’marangi      |tina ti raŋi   |     ‘Southern Cross’ (lit. ‘sky mother’)
+ Pn: Tikopia        |te uru a taŋata|     ‘Southern Cross’ (lit. ‘man’s head’)
+ Pn: Tikopia        |rakau tapu     |     ‘Southern Cross’ (lit. ‘sacred timber’) (Lewis 1994:407)
  Pn: Hawaiian       hōkū-keʔa           ‘Southern Cross’ (keʔa ‘cross, crucifix’)
 
 
@@ -8089,12 +8090,12 @@ __pre__
 translatable as the ‘two men’. The Sa’a form is derived from POc _*mwaqane_ ‘man, male’,
 while the Polynesian examples are reflexes of POc _*tamwataq_ ‘living person’.
 
-__pre__
-  SES: Sa’a           ro mwane           ‘Pointers (to Southern Cross)’ (lit. ‘two men’)
-  Pn:  Samoan         lua taŋata         ‘Pointers: Alpha and Beta Centauri’ (Åkerblom 1968:27)
-  Pn:  Tikopia        rua taŋata         ‘Southern Cross’ (Lewis 1994:407)
-  Pn:  Tokelauan      na taŋata          ‘these two stars are guides for voyages from Tokelau to Samoa’ (MacGregor 1937:89)
-  Pn:  Anutan         rua taŋata         Lit. ‘double man’: ‘constellation consisting of two bright stars near the Southern Cross. Centaurus, also known as te kau o te kupeŋa ‘handle of fishing net’’
+__formgroup__
+  SES: Sa’a           |ro mwane  |         ‘Pointers (to Southern Cross)’ (lit. ‘two men’)
+  Pn:  Samoan         |lua taŋata|         ‘Pointers: Alpha and Beta Centauri’ (Åkerblom 1968:27)
+  Pn:  Tikopia        |rua taŋata|         ‘Southern Cross’ (Lewis 1994:407)
+  Pn:  Tokelauan      |na taŋata |         ‘these two stars are guides for voyages from Tokelau to Samoa’ (MacGregor 1937:89)
+  Pn:  Anutan         |rua taŋata|         ‘constellation consisting of two bright stars near the Southern Cross. Centaurus, also known as te _kau o te kupeŋa_ handle of fishing net’ (Lit. ‘double man’)
 
 
 174    Meredith Osmond
@@ -8107,11 +8108,11 @@ in Sa’a, Lau and two Polynesian languages which all name the constellation wit
 word for tongs. This may simply reflect independent recognition of a common household
 utensil shape.
 
-__pre__
+__formgroup__
  SES: Sa’a           ireki               ‘the Southern Triangle’ (lit. ‘tongs’)
  SES: Lau            sākai               ‘bamboo tongs: name of constellation of six stars’
- Pn: Tikopia         te ūkopi            ‘the Tongs (Taurus’s forehead), particularly Aldebaran’ (Feinberg 1988:101). (Firth has ūkofi)
- Pn: Anutan          te aŋa-aŋa          ‘the Tongs: a constellation consisting of seven stars from Taurus arranged in a V pattern’
+ Pn: Tikopia         |te ūkopi  |          ‘the Tongs (Taurus’s forehead), particularly Aldebaran’ (Feinberg 1988:101) (Firth has ūkofi)
+ Pn: Anutan          |te aŋa-aŋa|          ‘the Tongs: a constellation consisting of seven stars from Taurus arranged in a V pattern’
 
 
 In Fiji the constellation is known as _laða_, literally ‘a sail’.
@@ -8133,10 +8134,10 @@ PEOc *u(C)unu ‘Aldebaran’
 
 Other names located for Aldebaran include:
 
-__pre__
- Mic: Kiribati         te boto-n-aiai   ‘Aldebaran (in Taurus)’ (lit. ‘base of ribs (aiai) of canoe’, because it stands in the V-shaped portion of Taurus) (Grimble 1931:241)
- Mic: Marshallese      lɯoc-lɯaplɯap ‘Aldebaran in Taurus’ (lit. ‘big bonito’)
- Pn: Tahitian          ana muri         ‘Aldebaran’ (Lewis 1994:403) (‘rear pillar supporting the sky’; cf. ana mua ‘front pillar, Antares)
+__formgroup__
+ Mic: Kiribati         |te boto-n-aiai|   ‘Aldebaran (in Taurus)’ (lit. ‘base of ribs (aiai) of canoe’, because it stands in the V-shaped portion of Taurus) (Grimble 1931:241)
+ Mic: Marshallese      lɯɔ̄c-lɯaplɯap ‘Aldebaran in Taurus’ (lit. ‘big bonito’)
+ Pn: Tahitian          |ana muri|         ‘Aldebaran’ (Lewis 1994:403) (‘rear pillar supporting the sky’; cf. ana mua ‘front pillar, Antares)
  Pn: Maori             wero-i-te-kokota ‘Aldebaran’ (‘herald of the digging season’)
 
 
@@ -8375,9 +8376,9 @@ PPn *maqafu ‘Magellanic Clouds’
 In Samoa, and also Anuta, they could simply be referred to as ‘flying cloud’ and
 ‘stationary cloud’ (Makemson 1941:187).
 
-__pre__
-  Pn: Samoan           ao lele, ao toʔa
-  Pn: Anutan           ao rere, ao toka
+__formgroup__
+  Pn: Samoan           |ao lele, ao toʔa|   ‘Magellanic Clouds’
+  Pn: Anutan           |ao rere, ao toka|   ‘Magellanic Clouds’
 
 In Bauan they were _matādravu ni sautū_, literally ‘hearth of peace and plenty’.
 
@@ -8887,8 +8888,9 @@ Polynesian are listed in Table 4.
 
                                                                      Navigation and the heavens     189
 
-__pre__
-            Table 4: Reconstructions of heavenly body and other navigation terms
+: Table 4: Reconstructions of heavenly body and other navigation terms
+
+__table__
 Term                 POc                               PMic                     PPn
 sun                  *qaco ‘sun, daytime’              *alo ‘sun’                *qaso ‘day as time span’
                                                                                  PNPn *qaho ‘daytime’
@@ -9185,7 +9187,7 @@ small class, these meanings all fall into the domains of dimension, age and valu
    The small-class terms in the twenty languages for the three most frequent meanings,
 ‘big’, ‘small’ and ‘new’, are listed below:
 
-__pre__
+__table__
                           ‘big’                     ‘small’                 ‘new’
  Maleu                    amviŋe                    kapori-                 —
  Mangap-Mbula             biibi                     musaana                 —
@@ -9367,7 +9369,7 @@ with PPn _*qiti_ ‘small (SG)’ (from POc _*qitik_), but there is no evidence 
 occurred at an earlier interstage. This contrast is reflected in the following compounds,
 which reflect PPn _*tama_ ‘child’ (from POc _*tama-_ ‘father’):
 
-__pre__
+__table__
       PPn                      *tama-qiti                 *tama-riki
                                ‘child’                    ‘chidren’
       Tongan                   (tama-siʔi)[8]               tama-iki
@@ -9778,7 +9780,7 @@ from each other’. In Southeast Solomonic languages it occurs with reflexes of 
 causative _*pa-_ or _*paka-_, also used to form adverbs, and I assume this is the function of
 the prefix here:
 
-__pre__
+__formgroup__
  SES: W Guad.            (va)sau          ‘far’
  SES: Sa’a               (haʔa)tau        ‘far’
  SES: Arosi              (haʔa)tau        ‘far’
@@ -10206,21 +10208,19 @@ process whereby a colour term is derived from a noun, and in some it appears to 
 productive process.[18] Blust’s examples are drawn from twenty-four languages. Among
 them we find the following:
 
-__pre__
-Mussau (Adm):[19]
- bo-boŋi-e-na        ‘black’                         bo      ‘night’
- rae-rae-a-na        ‘red’                           rae     ‘blood’
- usou-usou-e-na      ‘white’                         (no unreduplicated root)
- vero-veroŋ-a-na     ‘black’                         (no unreduplicated root)
- riu-riu-e-na        ‘thin (of animates’)            riu     ‘bone’
+__formgroup__
+ Adm: Mussau [19] bo-boŋi-e-na        ‘black’                         (_bo_ ‘night’)
+ Adm: Mussau [19] rae-rae-a-na        ‘red’                           (_rae_ ‘blood’)
+ Adm: Mussau [19] usou-usou-e-na      ‘white’                         (no unreduplicated root)
+ Adm: Mussau [19] vero-veroŋ-a-na     ‘black’                         (no unreduplicated root)
+ Adm: Mussau [19] riu-riu-e-na        ‘thin (of animates)’            (_riu_ ‘bone’)
 
-__pre__
-Kairiru (NNG):
- jir-jir            ‘black, dirty, old’          jir       ‘mangrove swamp’
- kiet-kiet          ‘black’                      kiet      ‘black paint’
- pun-pun            ‘white’                      pun       ‘pigeon’
- mera-mer           ‘red’                        mer       ‘red paint’
- yaŋ-yaŋ            ‘yellow’                     yaŋ       ‘yellow paint, white or yellow skinned people’
+__formgroup__
+ NNG: Kairiru  jir-jir            ‘black, dirty, old’          (_jir_ ‘mangrove swamp’)
+ NNG: Kairiru  kiet-kiet          ‘black’                      (_kiet_ ‘black paint’)
+ NNG: Kairiru  pun-pun            ‘white’                      (_pun_ ‘pigeon’)
+ NNG: Kairiru  mera-mer           ‘red’                        (_mer_ ‘red paint’)
+ NNG: Kairiru  yaŋ-yaŋ            ‘yellow’                     (_yaŋ_ ‘yellow paint, white or yellow skinned people’)
 
 [18] Lichtenberk (1983:611) was offered the apparent nonce form _taʔe-taʔe_, from _taʔe_ ‘faeces’ in Manam,
    when he asked an informant to identify a particular shade of brown.
@@ -10230,19 +10230,26 @@ Kairiru (NNG):
 
                                                       Properties of inanimate objects    215
 
-__pre__
-Manam (NNG):
- ziŋ-ziŋ     ‘black’                       ziŋ       ‘black ashes’
- jim-jim     ‘black’                       jim       ‘rain, cloud; black, dark deep (sea)’
- wa-wawa     ‘white’                       wawa      ‘discoloured (light) patch of skin)’
- dara-dara   ‘red’                         dara      ‘blood’
- ʔate-ʔateʔa ‘brown’                       ʔateʔa    ‘ground’
+__formgroup__
+ NNG: Manam  ziŋ-ziŋ      ‘black’
+ NNG: Manam  ziŋ          ‘black ashes’
+ NNG: Manam  jim-jim      ‘black’
+ NNG: Manam  jim          ‘rain, cloud; black, dark deep (sea)’
+ NNG: Manam  wa-wawa      ‘white’
+ NNG: Manam  wawa         ‘discoloured (light) patch of skin)’
+ NNG: Manam  dara-dara    ‘red’
+ NNG: Manam  dara         ‘blood’
+ NNG: Manam  ʔate-ʔateʔa  ‘brown’
+ NNG: Manam  ʔateʔa       ‘ground’
 
-__pre__
-Mota (NCV):
- me-mea         ‘red’                      mea       ‘red pigment’, mea-mea ‘k.o. red fish’
- sor-soroga     ‘dark red’                 soroga    ‘red, colour of pes nai when ripe’
- aŋo-aŋo        ‘yellow’                   aŋo       ‘turmeric; yellow’
+__formgroup__
+ NCV: Mota  me-mea         ‘red’
+ NCV: Mota  mea            ‘red pigment’
+ NCV: Mota  mea-mea        ‘k.o. red fish’
+ NCV: Mota  sor-soroga     ‘dark red’
+ NCV: Mota  soroga         ‘red, colour of pes nai when ripe’
+ NCV: Mota  aŋo-aŋo        ‘yellow’
+ NCV: Mota  aŋo            ‘turmeric; yellow’
 
 From these examples we see that the colour term is often derived from a noun whose
 referent has that colour as a salient characteristic. We also see that in closely related
@@ -11266,7 +11273,7 @@ is reconstructable this is also shown.
 
 Familiar-place and geographic local nouns:
 
-__pre__
+__table__
                    as common noun                    as local noun               adverb
  *qutan            ‘bushland, hinterland’            ‘inland’                    *qa-qutan
  *loŋa             …                                 ‘inland’                    —
@@ -11281,7 +11288,7 @@ __pre__
 
 Relational local nouns:
 
-__pre__
+__table__
                                     as common noun           as local noun       adverb
  *lalo-, *lo-, *lalom               —                        ‘inside’            —
  *papa-,*pa-, *papak, *pak          —                        ‘underside’         —
@@ -11784,11 +11791,12 @@ POc (N LOC) *liwaŋ ‘in the middle’
 that of an English preposition, as in these Tabar (MM) examples, where the relational noun
 _paki-_ ‘underneath’ performs a function similar to that of the English preposition under.[10]
 
-__pre__
-      i    paki-na          mi  vanua
+__igt__
+    Tabar (MM):
+     a) i    paki-na          mi  vanua
       PREP underneath-P:3SG ART house
       ‘under the house’ (more literally ‘at the house’s underneath’)
-      i    paki-gu
+     b) i    paki-gu
       PREP underneath-P:1SG
       ‘under me’
 
@@ -11800,7 +11808,8 @@ __pre__
 In these Lengo (SES) expressions the relational noun muri- ‘back’ performs a function
 similar to that of the English preposition behind.
 
-__pre__
+__igt__
+    Lengo (SES):
      i    muri-e    na  vae
      PREP back-CSTR ART house
      ‘behind the house’ (more literally ‘at the house’s back’)
@@ -11810,7 +11819,8 @@ __pre__
 
 Hence we can with reasonable confidence make POc reconstructions such as:
 
-__pre__
+__igt__
+    POc:
      *i   lalo-ña      Rumaq
      PREP inside-P:3SG house
      ‘inside the house’ (more literally ‘at the house’s inside’)
@@ -12369,7 +12379,7 @@ reflexes of this word has extended to include the backs and rear parts of inanim
 specification of ‘back’ in the Marshallese and Woleaian reflexes below supports this
 interpretation.
 
-__pre__
+__formgroup__
   Yap: Yapese           (wu)ɽuʔ        ‘outside of’
   NNG: Manam            (e)luku        ‘outside ’
   Mic: Kosraean         lɨkɨ           ‘outside’
@@ -12841,10 +12851,10 @@ Polynesian languages apparently produced _*fē_ as an alternant to _*fea_ (< _*p
 The forms are listed below. Where a reconstruction is preceded by a question mark, the
 forms beneath it may be the result of parallel developments.
 
-__pre__
-? POc (N LOC) *pea ‘where at?’
+__formgroup__
+POc (?) (N LOC) *pea ‘where at?’
  Adm: Mussau            bea         ‘where?’
-? PNCV (ADV) *vea, *bea
+PNCV (?) (ADV) *vea, *bea
  NCV: Mota              vea         ‘where?’
  NCV: Kiai              vea         ‘where?’
  NCV: Tamambo           (a)bea      ‘where?’
@@ -12863,7 +12873,7 @@ PPn (ADV) *[i] fea ‘where at?’
  Pn:  K’marangi         hē          ‘where’
  Pn:  Mae               fē          ‘where?’
  Pn:  Nukuria           ihē         ‘where?’
-? POc (N LOC)*[i] pia ‘where at?’
+POc (?) (N LOC) *[i] pia ‘where at?’
  MM:  Nehan             ia          ‘where?’
  MM:  Solos             īa          ‘where?’
  MM:  Petats            īa          ‘where?’
@@ -12906,12 +12916,14 @@ it follows the locomotion verb _-lob_ ‘fly’, in the second the geographic di
                                Talking about space: terms of location and direction     267
 
 
-__pre__
+__igt__
+   Yabem (NNG):
       balosi ge-lob     ge-yà      loʔ
       dove   S:3SG-fly  S:3SG-go:3 mountain
       ‘The doves flew off to the mountain.’
 
-__pre__
+__igt__
+   Yabem (NNG):
     ke-pi       lom         ge-yà.
     S:3SG-go.up men’s.house S:3SG-go:3
     ‘He climbed up to the men’s house.’
@@ -12920,7 +12932,8 @@ __pre__
 direction, where they follow a locomotion verb (transitive or intransitive). In this example,
 the locomotion verb is _-pwanɛʔ_ ‘insert’, the geographic directional verb _-sep_ ‘go down’.
 
-__pre__
+__igt__
+   Yabem (NNG):
     ya-pwanɛʔ            mɔ e-sep           aò-ʔ-sùŋ
     S:1SG-IRR:insert taro S:3SG-IRR:descend mouth-P:1SG-hole
     ‘I’ll put the taro into my mouth.’
@@ -12929,7 +12942,8 @@ __pre__
 geographic directional verb and deictic directional verb, e.g. _-ne_ ‘sink’, _-sep_ ‘go down’ and
 _-yà_ ‘go away from speaker and addressee’ in this example.
 
-__pre__
+__igt__
+   Yabem (NNG):
     waŋ    ge-ne        ke-sep     gweʔ ge-yà
     canoe S:3SG-sink S:3SG-descend sea  S:3SG-go:3
     ‘The canoe sank into the sea.’
@@ -12939,7 +12953,8 @@ constructions, where the first verb is a directional verb expressing ‘go [up/d
 or ‘come and …’, the second a verb expressing the main event of the predication. This
 example is from Bali (MM):
 
-__pre__
+__igt__
+   Yabem (NNG):
     Hizi mi=ri     zio     ki    vahi-aŋa ihaŋa.
     they IRR=HYP:3 go.down SEQ:3 get-PL   fish
     ‘They will go and catch fish.’
@@ -12960,7 +12975,8 @@ _=la_ reflect the POc deictic directional verb forms _*ma_ ‘come’ and _*la_ 
 respectively. Each is preceded by a locomotion verb (‘carry’, ‘walk’), reflecting an earlier
 serial verb construction of deictic direction.
 
-__pre__
+__igt__
+   Sisiqa (MM):
     ra ko-gisu=me              kavia kuda
     I  S:1SG:REAL-carry=hither some  coconut
     ‘I have brought some coconuts.’
@@ -12976,7 +12992,8 @@ directional enclitics, _-raʔe_ ‘up, to one’s right when facing sea’ (< ge
 verb POc _*sake_ ‘go up’, p.273) and _-laʔo_ ‘away’ (< deictic directional verb POc _*lako_
 ‘go:3’, p.287) reflecting an earlier three-verb sequence (Lichtenberk 1983:576–582).
 
-__pre__
+__igt__
+   Manam (NNG):
       Ogi i-doʔ-i-raʔe-laʔo.
       axe S:3SG-take-O:3PL-upward-away
       ‘He took the axes away upward.’
@@ -12987,7 +13004,8 @@ below) and comes to form a constituent primarily with the following locative exp
 Prepositional reflexes of POc _*mai_ ‘come’ occur in Polynesian languages. In Samoan, for
 example, we find (Mosel & Hovdhaugen 1992:147):
 
-__pre__
+__igt__
+    Samoan (Pn):
       Na   oso  i    lalo le  tama mai  le  solofanua …
       PAST jump PREP down ART boy  PREP ART horse
       ‘The boy jumped down from the horse …’
@@ -13000,7 +13018,8 @@ phrase or a local noun. This distribution reflects its verbal ancestry: a POc de
 directional verb could be followed by a locative expression consisting of a local noun or a
 prepositional phrase. Hence in Longgu, vu is the allative relator reflecting *ua:
 
-__pre__
+__igt__
+    Longgu (SES):
       … m-ara     la maʔa           vu masuʔu
         and-S:3PL go PERFECTIVE R bush
       ‘… and they went into the bush’
@@ -13014,7 +13033,8 @@ direction of the event in relation to the speech act participants. In the best d
 Sinaugoro (PT) (Tauberschmidt 1999:31–32), the clitics are enclitics to the preverbal
 subject/aspect/mood marking complex. In this example =ma reflects POc _*ma_ ‘come’.
 
-__pre__
+__igt__
+    Sinaugoro (PT): (Tauberschmidt 1999:31–32)
       Si=ma             ɣani-ɣani.
       S:1IPL=near.me ITR-eat
       ‘Let’s eat here.’
@@ -13039,7 +13059,7 @@ islands, in some languages ‘downward’ also means ‘seaward’, and ‘upwar
    A pair of antonyms occurred in POc. These were the generic verbs of movement down
 and up:
 
-__pre__
+__tablenh__
         *sipo ‘go downward’               *sake ‘go upward’
 
    As I noted earlier (p.229), POc apparently had a subsystem of geographic direction
@@ -13124,7 +13144,7 @@ and _*sake_. I return briefly to the reconstruction of _*sipo_ and _*sake_ as di
 
   Three possible verbs of downward movement are reconstructed below. They are:
 
-__pre__
+__tablenh__
 POc *sipo ‘go down, downwards’
 POc *sobu ‘go downward, dive down’
 POc *surup ‘(?) enter, penetrate; go down’
@@ -13344,18 +13364,18 @@ reflect unexplained anomalies. The New Caledonian forms reflect the same contras
 between an adverb in _*j-_ and a verb in _*s-_ as was noted above with regard to POc
 _*[s,j]u[(a,u)]_ ‘go down vertically, fall’.
 
-__pre__
+__formgroup__
  NNG:    Takia            (-s)da         ‘move up, be high, be full, go up, rise, board (a canoe)’
  NCal:   Nêlêmwa          da             (DIR) ‘upward’
-                          (o-)da         ‘go upward’ (o ‘go’)
+ NCal:   Nêlêmwa          (o-)da         ‘go upward’ (o ‘go’)
  NCal:   Nyelâyu          -da            (DIR) ‘upward’
-                          ta             ‘go upward’
+ NCal:   Nyelâyu          ta             ‘go upward’
  NCal:   Nemi             -da            (DIR) ‘upward’
-                          ta             ‘go upward’
+ NCal:   Nemi             ta             ‘go upward’
  NCal:   Cèmuhî           da             (DIR) ‘upward’
- NCal:   Tinrin           Éa(-jɯ)        ‘go up’
+ NCal:   Tinrin           ɖa(-jɯ)        ‘go up’
  Fij:    Wayan            ða(va)         ‘ascend, go up a slope’
-                          ða(dra)        (DIR) ‘upward’
+ Fij:    Wayan            ða(dra)        (DIR) ‘upward’
 
 
 8.3.3.3 _*sipo_ and _*sake_ as directions at sea
@@ -13424,7 +13444,7 @@ suggesting that the equation itself should be reconstructed for POc, even if the
 themselves are hard to reconstruct. Except for Wayan, the terms listed below are drawn
 from François (2004a).
 
-__pre__
+__table__
                            ‘downward,                   ‘upward,
                              northwest’                 southeast’
  PT:      Saliba           sae                          dobi
@@ -13515,7 +13535,7 @@ additions can be reconstructed as a POc category.
 sample of person-oriented systems is given below. The forms given are those used
 adnominally, except where shown (they may also have other language-specific uses).
 
-__pre__
+__table__
                                near speaker near addressee           distal
  Adm:    Mussau                toko              o[ia]               teke
  NNG:    Lukep (Pono)          i                 in                  ni
@@ -13568,7 +13588,7 @@ system.
    system of ‘come to[wards] speaker’ and ‘go away (from speaker)’. The latter is usually descended from
    one of ‘go:2’, ‘go:3’ or ‘go away (from speaker)’.
 
-__pre__
+__table__
                                come          go:2          go:3      go away
  Adm: Loniu                    mɛ            —             la        yaw
  Adm: Kele                     sa            —             la        aw (also doh ‘come from’)
@@ -13590,7 +13610,7 @@ __pre__
     The main deictic directional forms of POc, which account for the majority of the forms
 listed above, were as follows:
 
-__pre__
+__table__
                                    verb                            directional adverb
     come          *mai, *ma        ‘come’                          ‘towards speaker’ (p.281)
     go:2          *ua              ‘go towards addressee’          ‘towards addressee’ (p.283)
@@ -13633,7 +13653,7 @@ long/short pair, but they are regionally distributed, unlike the other three pai
    Two other verbs seem to have been used as deictic directional verbs, but probably not as
 directional enclitics, in POc. They are less well attested than the verbs reconstructed above.
 
-__pre__
+__tablenh__
     come                     *pwati            ‘come’ (p.283)
     go:3/go away             *[y]aku           ‘go (to)’ or ‘go away’ (p.293)
 
@@ -14057,7 +14077,7 @@ POc *lako, *la (V)‘go (to)’; (DIR) ‘away from speaker’
 
 
    It is reasonable to expect that the processes that have created prepositions and relators
-from the deictic direction verbs _*mai_/_*ma_ ‘[come] towards speaker’and _*ua_ ‘[go] towards
+from the deictic direction verbs _*mai_/_*ma_ ‘[come] towards speaker’ and _*ua_ ‘[go] towards
 addressee’ may also have created them from _*lako_/_*la_ ‘go (to)’, (DIR) ‘away from speaker’.
 Although there are a good many prepositional reflexes, many of them are problematic
 because they have more than one possible source. In the set below, it is probable that some
@@ -14066,9 +14086,9 @@ items reflect POc _*lalo-_, _*lo-_, _*la-_ (N LOC) ‘inside’ rather than POc 
 
                                  Talking about space: terms of location and direction      289
 
-__pre__
- 1. POc *lako, *la ‘go (to)’; (DIR) ‘away from speaker’ (p.287)
- 2. POc *lalo-, *lo-, *la- (N LOC) ‘inside’ (p.246)
+__tablenh__
+POc *lako, *la ‘go (to)’; (DIR) ‘away from speaker’ (p.287)
+POc *lalo-, *lo-, *la- (N LOC) ‘inside’ (p.246)
  Adm: Loniu                 lo               (PREP) ‘in’
  NNG: Arawe                 lu-O:, li-O:     (PREP w N PERS, PRO PERS) locative, allative
  NNG: Mamusi                la               (PREP) general
@@ -14096,7 +14116,8 @@ It is tempting to attribute all forms reflecting _*la_ to the short form of _*la
 evidence against this. In Lihir (MM), _la_ is a short form of _lilie-_ ‘inside’ (reflecting _*lalo-_),
 as we find phrases like the one below where _la_ must be a (relational) noun:
 
-__pre__
+__igt__
+   Lihir (MM):
     i       la     liom
     PREP    inside house
     ‘in the house’
@@ -14230,16 +14251,17 @@ comitative’.[33] There is also evidence of conflation.
    was reconstructed for some interstage later than POc as _*pa_ by Ross (1988:106).
 
    The clearest piece of evidence that _*pano_/_*pa_ played a role in the history of some of the
-items in the set below is that Hoava pa behaves as a relator, i.e. it occurs before a
+items in the set below is that Hoava _pa_ behaves as a relator, i.e. it occurs before a
 preposition.
 
-__pre__
+__igt__
+    Hoava (MM):
       ria    pu tata mae pa tani        sa   gato
       D:3PL REL close come R PREP:3SG ART:SG tree
       ‘they who come close to the tree’
 
 Relators reflect erstwhile deictic directional verbs (Ross 2003), and so _*pano_/_*pa_ is the
-most likely candidate for the ancestor of Hoava pa. Other probable straightforward reflexes
+most likely candidate for the ancestor of Hoava _pa_. Other probable straightforward reflexes
 of _*pano_/_*pa_ are the Kiriwina, Roviana and Nguna forms, and perhaps the Label locative
 preposition _ha_, as it contrasts with instrumental _pa_ (from PWOc _*pʷa_).
 
@@ -14252,15 +14274,14 @@ POc benefactive prepositional verb _*pani_ and a PWOc instrumental preposition _
 the data allow, but should not be treated too seriously, as there are likely to be gaps in the
 glosses.
 
-__pre__
+__tablenh__
  1. POc *pano, *pa ‘go away; move in a transverse direction’ (p.289)
  2. POc *pani ‘give’, (PREPV) benefactive (Pawley 1973, Lichtenberk 1985b)
  3. PWOc *pʷa (PREP) instrumental, comitative
  NNG: Kove                 pa, pa-O:       (PREP) locative, temporal, allative, ablative
  NNG: Bariai               pa-O:           (PREP) locative, allative, ablative, benefactive
  NNG: Malai                pa-D:           (PREP) allative, instrumental
- NNG: Gitua                pa-O:           (PREP) temporal, allative, benefactive, ablative,
-                                             instrument
+ NNG: Gitua                pa-O:           (PREP) temporal, allative, benefactive, ablative, instrument
  NNG: Malalamai            pa-O:           (PREP) allative, benefactive
  NNG: Lukep                pa-O:           (PREP) allative, benefactive
  NNG: Malasanga            pa-O:           (PREP) benefactive, comitative
@@ -15176,7 +15197,7 @@ PPn *poŋi-poŋi ‘(N, V) morning’
   Interestingly, terms for ‘early morning’ in some Oceanic languages that do not reflect
 _*boŋi-boŋi_ nonetheless include that language’s root for ‘night’:
 
-__pre__
+__table__
                                night                    early morning
   Drehet (Adm)                 piŋ                      kxe-piŋ
   Lou (Adm)                    keli-peŋ                 pati-peŋ
@@ -15229,7 +15250,7 @@ POc *puko ‘(N, V) morning’
 and those that do show no sign of cognation. Most languages have a phrasal expression,
 sometimes meaning ‘the middle of the day’:
 
-__pre__
+__tablenh__
  Loniu (Adm)               tiko aŋ (tiko ‘middle’, aŋ ‘day, sun’)
  Gapapaiwa (PT)            madeɣa pu (madeɣa ‘daylight’, pu ‘middle’)
  Roviana (MM)              korapa rane (korapa ‘middle’, rane ‘daylight’)
@@ -15448,27 +15469,21 @@ appeared in the archaeological record, but they are fairly common ethnographical
 term for them, POc _*japi_ was reconstructed in vol. 1 (p.104). It is reflected in the Arosi
 term below.
 
-__pre__
- PT:  Motu       hua doɣaɣi          ‘new moon’ (doɣaɣi ‘crescent shaped pearl shell ornament’)
- MM:  Nakanai    mapa-le-Gileme      ‘moon when it is small’ (lit. ‘payment for
-                                      Gileme’: the reference is to a goldlip shell
-                                      used in brideprice)
-                 kalisu              ‘noseplug of mother-of pearl; new moon’
- SES: Arosi      siʔe-dahi           ‘a phase of the moon’ (siʔe ‘rub fire’ or ‘stripes’,
-                                      dahi ‘crescent shaped ornament made from
-                                      gold-lipped pearlshell’)
+__formgroup__
+ PT:  Motu       |hua doɣaɣi|          ‘new moon’ (doɣaɣi ‘crescent shaped pearl shell ornament’)
+ MM:  Nakanai    mapa-le-gileme      ‘moon when it is small’ (lit. ‘payment for Gileme’: the reference is to a goldlip shell used in brideprice)
+ MM:  Nakanai    kalisu              ‘noseplug of mother-of pearl; new moon’
+ SES: Arosi      siʔe-dahi           ‘a phase of the moon’ (siʔe ‘rub fire’ or ‘stripes’, dahi ‘crescent shaped ornament made from gold-lipped pearlshell’)
 
 Other descriptive terms also occur:
 
                                                                                Time    317
 
-__pre__
- PT:     Kiriwina     kapatu             ‘new moon’ (-kapatu ‘close, become small’)
- SES:    Gela         rau ni lei         ‘thin sickle of young moon, new moon’
-                                           (‘blade of grass, Imperata cylindrica’)
-                      vula taŋeu         ‘crescent moon’ (vula ‘moon’, taŋeu ‘split’)
- Fij:    Wayan        tāgaga ni vula     ‘horns of the moon’ (tāgaga ‘forked top piece
-                                           of mast of traditional canoe’)
+__formgroup__
+ PT:  Kiriwina     kapatu               ‘new moon’ (-kapatu ‘close, become small’)
+ SES: Gela         |rau ni lei     |    ‘thin sickle of young moon, new moon’ (‘blade of grass, Imperata cylindrica’)
+ SES: Gela         |vula taŋeu     |    ‘crescent moon’ (_vula_ ‘moon’, _taŋeu_ ‘split’)
+ Fij: Wayan        |tāgaga ni vula |    ‘horns of the moon’ (_tāgaga_ ‘forked top piece of mast of traditional canoe’)
 
    Other languages refer to what was apparently the same phase as ‘the young moon’, and
 here a reconstruction is perhaps possible: POc _*pulan paqoRu_, where _*pulan_ is ‘moon’
@@ -15489,27 +15504,23 @@ POc *|pulan paqoRu| ‘new moon, young moon’
 refers to a phase between the new moon and the full moon, but exactly what part of the
 waxing half of the month it denotes is not clear.
 
-__pre__
- PT: Kiriwina   tubukona tubu-geguda   ‘first quarter’ (tubukona ‘moon’, tubu
-                                       ‘grow’, geguda ‘unripe’)
- PT: Motu       hua karukaru           ‘young moon’ (hua ‘moon’, karukaru
-                                       ‘undercooked, not fully ripe’
- Pn: Niuean     mahina pula mui        ‘new moon, first quarter’ (mahina ‘moon’,
-                                        pula ‘rise’, mui ‘unripe’)
+__formgroup__
+ PT: Kiriwina   |tubukona tubu-geguda|   ‘first quarter’ (_tubukona_ ‘moon’, _tubu_ ‘grow’, geguda ‘unripe’)
+ PT: Motu       |hua karukaru|           ‘young moon’ (_hua_ ‘moon’, _karukaru_ ‘undercooked, not fully ripe’)
+ Pn: Niuean     |mahina pula mui|        ‘new moon, first quarter’ (_mahina_ ‘moon’, _pula_ ‘rise’,_ mui_ ‘unripe’)
 
    Mwotlap, where we know with reasonable certainly that the moon phases are roughly of
 five days apiece, has a term meaning ‘a piece of the moon’, which refers roughly to the 5th
 day after the moon’s appearance (whereas ‘the unripe moon’ seems to refer roughly to the
 7th). One other language, Drehet, has a similar term:
 
-__pre__
- Adm: Drehet    puŋ rekxek          moon phases: 1st and 3rd quarters (puŋ
-                                    ‘moon’, rekxek ‘a quarter, a piece’)
- NCV: Mwotlap   no-wol ɣaytɛ-ɣi     ‘one-third moon’ (wol ‘moon’, ɣayte ‘half, piece’)
+__formgroup__
+ Adm: Drehet    |puŋ rekxek|          ‘moon phases: 1st and 3rd quarters’ (puŋ ‘moon’, rekxek ‘a quarter, a piece’)
+ NCV: Mwotlap   |no-wol ɣaytɛ-ɣi|     ‘one-third moon’ (wol ‘moon’, ɣayte ‘half, piece’)
 
 Maringe has a term with an apparently similar meaning to Mwotlap:
 
-__pre__
+__formgroup__
  MM:     Maringe     khafa                     ‘moon between new and half moon’
 
    Curiously, this is about as far as we can go with reconstructing POc moon phases. Many
@@ -15589,7 +15600,7 @@ like ‘the annual round’ would be more accurate). Reflexes of both POc _*raki
 and POc _*apaRat_ which are used in this way are listed below, but local seasonal/wind
 terms also tend to be used in this way.
 
-__pre__
+__formgroup__
  NNG:    Kove             hai              ‘southeast trade, year’
  NNG:    Bariai           rai              ‘year’
  NNG:    Lukep            rai              ‘year’
@@ -15849,10 +15860,16 @@ I suspect the main reason for this is that expressions consisting of ‘today’
 plus ‘morning’ or ‘evening’ are often used, and they are simply not noted in dictionaries.
 For example:
 
-__pre__
-  Adm: Drehet     kumwiŋ ‘now, today’   piŋ ‘night’    piŋ kumwiŋ ‘tonight’
-  PT:  Ubir       ari ‘now, today’      fom ‘night’    ari-fom ‘tonight’
-  PT:  Kiriwina   lagaila ‘today’       bogi ‘night’   lagaila bogi ‘tonight’
+__formgroup__
+  Adm: Drehet     kumwiŋ           ‘now, today’
+  Adm: Drehet     piŋ              ‘night’
+  Adm: Drehet     |piŋ kumwiŋ|     ‘tonight’
+  PT:  Ubir       ari              ‘now, today’
+  PT:  Ubir       fom              ‘night’
+  PT:  Ubir       ari-fom          ‘tonight’
+  PT:  Kiriwina   lagaila          ‘today’
+  PT:  Kiriwina   bogi             ‘night’
+  PT:  Kiriwina   |lagaila bogi|   ‘tonight’
 
    There are a few languages where _*qa-_ is prefixed to a part of the day to form a future
 expression, _*[qa]na-_ to form a past expression, but it is not clear whether these
@@ -15973,7 +15990,7 @@ POc *na-ñoRap ‘yesterday’ (*i na-ñoRap, *qa-na-ñoRap (?))
    There seem to be at least two other variants on this form. Certain Papuan Tip languages
 reflect _*Ropa_:
 
-__pre__
+__formgroup__
  PT:      Tawala          lolowa          ‘before, (a few) days back’
  PT:      Dobu            lowa            ‘day before yesterday’
  PT:      Kiriwina        lova            ‘yesterday’
@@ -15989,7 +16006,7 @@ NCV _*novi_ ‘tomorrow’ (Nokuku _pʷa-novi_, Kiai _i-novi_, Tolomako _i novi_
 nothing to do with _*na-ñoRap_. Clark (1996) thinks it reflects a conflation of POc
 _*na-ñoRap_ and _*na-Rapi_ (below), however, and he may be right.
 
-__pre__
+__formgroup__
  NCV: Raga               ninovi           ‘yesterday’
  NCV: Nokuku             nonovi           ‘yesterday’
  NCV: Kiai               nanovi           ‘yesterday’
@@ -15997,7 +16014,7 @@ __pre__
  NCV: Lonwolwol          nono             ‘yesterday’
  NCV: Namakir            nanov            ‘yesterday’
  NCV: Nguna              nanova           ‘yesterday’
- NCV: Tolomako           na novi          ‘yesterday’
+ NCV: Tolomako           |na novi|          ‘yesterday’
 
    The term below reflects POc _*boŋi_ ‘night, day of twenty-four hours’ prefixed with the
 past formative _*na-_. The reconstruction of _*na-boŋi_ ‘yesterday’ as far back as POc is
@@ -16036,7 +16053,7 @@ POc (?) *na-boŋi ‘yesterday’
 languages have a prefix which appears to reflect a preposition reflex of POc _*ua_ (VF) ‘go
 towards addressee’, (DIR) ‘towards addressee’ (Ch. 8, §3.4.4).
 
-__pre__
+__formgroup__
  NNG:    Sio               wa-lani           (ADV) ‘day before yesterday ’
  NNG:    Wogeo             ra-ran            ‘yesterday’
  PT:     Sinaugoro         ɣwa-laɣani        ‘yesterday’
@@ -16093,7 +16110,7 @@ find reflexes of _*boŋi_ used for ‘tomorrow’, and some of these are listed 
 not form a cognate set, and their disambiguating markers vary from demonstratives (Iduna,
 Sinaugoro) through an adposition (Dawawa) to irrealis enclitics (Mindiri, Bilibil, Matukar).
 
-__pre__
+__formgroup__
   Adm: Drehet             (neke)piŋ          (ADV) ‘tomorrow’
   Adm: Lou                (ti)peŋ            ‘tomorrow’
   Adm: Nyindrou           (na)biŋi           ‘tomorrow’
@@ -16326,7 +16343,7 @@ POc *[qa-]na-waRisa ‘day before yesterday’
 
 The contrast between _*waRisa_ with and without _*na-_ is reflected in the following pairs:
 
-__pre__
+__table__
                            *waRisa                           *[qa-]na-waRisa
                            ‘day after tomorrow’              ‘day before yesterday’
   MM: Patpatar             uaris                             nauaris

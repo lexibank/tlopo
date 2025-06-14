@@ -3005,10 +3005,10 @@ POc *kalika ‘_Epinephelidae_, rock cod’
    Distinctive markings are often reflected in compound terms such as the following:
 
 __formgroup__
-  MM:  Patpatar   mata girit         ‘k.o. fish’ (mata ‘face’, girit ‘to sketch, draw’)
-  MM:  Halia      mata goumana       ‘giant chanda perch, freshwater fish’ (_goum_ ‘marking, scar’)
-  SES: Gela       aŋora gere         ‘Cephalopholis sexmaculata, six spotted rock cod’ (_gere_ ‘to sketch, make lines’)
-  SES: Gela       kusele gere-gerea  ‘Epinephelus quoyanus, longfin rock cod (_gere-gere_ ‘to sketch, make lines’)
+  MM:  Patpatar   |mata girit       |  ‘k.o. fish’ (mata ‘face’, girit ‘to sketch, draw’)
+  MM:  Halia      |mata goumana     |  ‘giant chanda perch, freshwater fish’ (_goum_ ‘marking, scar’)
+  SES: Gela       |aŋora gere       |  ‘Cephalopholis sexmaculata, six spotted rock cod’ (_gere_ ‘to sketch, make lines’)
+  SES: Gela       |kusele gere-gerea|  ‘Epinephelus quoyanus, longfin rock cod’ (_gere-gere_ ‘to sketch, make lines’)
 
     Lower level reconstructions include PNCV _*tabʷale_ ‘grouper fish’ (François 2005:499),
 PCP _*ŋʷajala_ ‘_Epinephelus spp._’, PPn _*ŋatala_ ‘Epinephelus, smaller stage’,
@@ -3222,7 +3222,7 @@ suggested for Marovo. For this reason no POc reconstruction is proposed.
 
 __formgroup__
   MM:  Patpatar    mala(la)     ‘k.o. fish’
-  MM:  Nehan       mala(ŋuh)    ‘Trachinotus russelli, common dart’ (_ŋuh_ ‘kiss’) [T. botla]
+  MM:  Nehan       mala(ŋuh)    ‘Trachinotus russelli, common dart’ (_ŋuh_ ‘kiss’; T. botla)
   MM:  Marovo      mara         ‘generic for all Carangids (trevallies etc.)’ (15 compound terms for kinds) (for †_mala_)
   SES: Gela        mala(boro)   ‘Selaroides leptolepis, smooth-tailed trevally’ (_mala_ ‘as, like’; boro ‘bottom, keel of canoe’)
   SES: Gela        mala(hau)    ‘various kingfish and jack spp.’ (_hau_ ‘old’)
@@ -17860,28 +17860,28 @@ Figure 7.3: Dragonfly
                                                       Insects and other creepy-crowlies      387
 
 __formgroup__
-   NNG:    Poeng         roro-me        (_roro_ ‘copulate’, _me_ ‘water’)
-   SES:    Gela          hita-hita-beti (_hito_ ‘to cohabit’, _beti_ ‘water, stream’)
-   SES:    Arosi         ʔani-wai       (_ʔani_ ‘fornicate’, _wai_ ‘water’)
-   Mic:    Chuukese      nifefecon      (‘the one that copulates with water’; Davis 1999)
-   Fij:    Wayan         dulu-dulu-wai (_dulu_ ‘copulate’, _wai_ ‘water’)
-   Fij:    Bauan         ðai-ðai-wai    (_ðai_ ‘copulate’, _wai_ ‘water’)
+   NNG:    Poeng         roro-me      ‘dragonfly’  (_roro_ ‘copulate’, _me_ ‘water’)
+   SES:    Gela          hita-hita-beti ‘dragonfly’ (_hito_ ‘to cohabit’, _beti_ ‘water, stream’)
+   SES:    Arosi         ʔani-wai      ‘dragonfly’  (_ʔani_ ‘fornicate’, _wai_ ‘water’)
+   Mic:    Chuukese      nifefecon     ‘dragonfly’  (‘the one that copulates with water’; Davis 1999)
+   Fij:    Wayan         dulu-dulu-wai ‘dragonfly’ (_dulu_ ‘copulate’, _wai_ ‘water’)
+   Fij:    Bauan         ðai-ðai-wai   ‘dragonfly’  (_ðai_ ‘copulate’, _wai_ ‘water’)
 
    Other compounds retain the water connection, but vary the verbal concept.
 
 __formgroup__
-   PT:  Sudest     wawa-emba     (wawa ?, mbwa ‘water’)
-   SES: Gela       gito-beti     (‘steal water’)
-   SES: Tolo       ici-kolo      (ici ?, kolo ‘water’)
-   SES: Lau        nalu-kafo     (‘scoop up water’)
-   SES: Lau        tatara kafo   (‘skim water’)
+   PT:  Sudest     wawa-emba    ‘dragonfly’  (wawa ?, mbwa ‘water’)
+   SES: Gela       gito-beti    ‘dragonfly’  (‘steal water’)
+   SES: Tolo       ici-kolo     ‘dragonfly’  (ici ?, kolo ‘water’)
+   SES: Lau        nalu-kafo    ‘dragonfly’  (‘scoop up water’)
+   SES: Lau        |tatara kafo|  ‘dragonfly’  (‘skim water’)
    SES: Longgu     tatara-wai    ‘large dragonfly with tail like a helicopter’ (lit ‘skim water’)
-   SES: Sa’a       tātara-wai    (‘skim water’)
-   SES: Arosi      tātā-wai      (‘skim water’)
-   SES: ’Are’are   tatara-wa     (‘skim water’)
-   NCV: Mota       roro-pei      (_roro_ ‘sink’, _pei_ ‘water’)
-   NCV: Paamese    menmen-oai    (_men-men_ cf. _munmun_ ‘drink’, _oai_ ‘water’)
-   NCV: SE Ambrym  munmun-oi     (‘drink water’)
+   SES: Sa’a       tātara-wai   ‘dragonfly’  (‘skim water’)
+   SES: Arosi      tātā-wai     ‘dragonfly’  (‘skim water’)
+   SES: ’Are’are   tatara-wa    ‘dragonfly’  (‘skim water’)
+   NCV: Mota       roro-pei     ‘dragonfly’  (_roro_ ‘sink’, _pei_ ‘water’)
+   NCV: Paamese    menmen-oai   ‘dragonfly’  (_men-men_ cf. _munmun_ ‘drink’, _oai_ ‘water’)
+   NCV: SE Ambrym  munmun-oi    ‘dragonfly’  (‘drink water’)
 
     Samoan retains the skimming element in _seʔe-mū_ ‘dragonfly’ (_seʔe_ ‘glide’, _mū_ ‘flying
 insect’).
@@ -18489,13 +18489,13 @@ extend to ‘light, firefly’.
 
 __formgroup__
    MM:  Nehan        bol-bol      ‘lightning bug, near swamps’
-   SES: Gela         bulu         (tora) ‘firefly; phosphorescent fungus’ (bulu ‘torch, lamp’)[8]
+   SES: Gela         |bulu (tora)| ‘firefly; phosphorescent fungus’ (bulu ‘torch, lamp’)[8]
    SES: Sa’a         pulu-pulu    ‘firefly. Regarded as souls of dead persons, and killed when they enter a house’
    SES: Kwaio        bulu-buhi    ‘star; firefly. Believed (esp. when enters house) to be a messenger from an ancestral spirit.’
    SES: Arosi        buru-buru    ‘firefly; torch (of gum)’
-   SES: Arosi        buburu(atod) ‘k.o. cricket’ (atod ‘noon’)
+   SES: Arosi        buburu(atoā) ‘k.o. cricket’ (atod ‘noon’)
    SES: ’Are’are     puru-puru    ‘star; firefly’
-   SES: To’aba’ita   bubulu       ‘star; firefly; beetle sp.’
+   SES: To’aba’ita   būbulu       ‘star; firefly; beetle sp.’
 
       Other terms use reflexes of POc _*mata_ ‘eye’, sometimes extended to ‘star’ and ‘firefly’.
 
@@ -18823,11 +18823,11 @@ cf. also:
     Other terms for centipede which apparently exhibit a reflex of the _qali-_/_kali-_ prefix include:
 
 __formgroup__
-    Adm:     Drehet       kxane-pup
-    PT:      Molima       gani-geva
-    MM:      Ririo        kali-gava
-    MM:      Sisiqa       kala-gava
-    MM:      Babatana     kali-gava
+    Adm:     Drehet       kxane-pup ‘centipede’
+    PT:      Molima       gani-geva ‘centipede’
+    MM:      Ririo        kali-gava ‘centipede’
+    MM:      Sisiqa       kala-gava ‘centipede’
+    MM:      Babatana     kali-gava ‘centipede’
 
     The compound terms below yield a reconstructed first element, PWOc _*mʷali-_.
 
@@ -19338,7 +19338,7 @@ __formgroup__
   Pn:  Hawaiian      nalo                  ‘the common housefly and other similar flies’
   Pn:  Hawaiian      |nalo ʔaki|           ‘small stinging fly’
   Pn:  Hawaiian      |nalo hope ʔeha|      ‘hornet’ (lit. ‘fly with stinging posterior’)
-  Pn:  Hawaiian      |nalo keleawe|        ‘hoverfly’? (lit. ‘brass/copperfly’)
+  Pn:  Hawaiian      |nalo keleawe|        ‘hoverfly?’ (lit. ‘brass/copperfly’)
   Pn:  Hawaiian      |nalo lawe-lepo|      ‘mud wasp’ (lit. ‘dirt-toting fly’)
   Pn:  Hawaiian      |nalo meli|           ‘honey bee’
   Pn:  Hawaiian      |nalo nahu|           ‘stinging fly’ (lit. ‘biting fly’)

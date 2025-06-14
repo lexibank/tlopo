@@ -11194,7 +11194,7 @@ __formgroup__
   Adm: Seimat       |taxiŋ i paxi|      (lit. 'ear of ancestral spirit')
   Mic: Ponapean     |saleŋ en eni|
   Mic: Mortlockese  |sadiŋa-n anu|      'mushroom' (lit. 'ear of ghost')
-  Mic: Puluwatese   |hadiŋaʔ-n hoomaʔ|  'tree fungus, mushroom' (hoomaʔ 'bad ghost of dead ''
+  Mic: Puluwatese   |hadiŋaʔ-n hoomaʔ|  'tree fungus, mushroom' (hoomaʔ 'bad ghost of dead ')
   Mic: Chuukese     |seniŋe-r soomaʔ|
   Fij: Rotuman      |faliaŋ ne ʔatua|   'toadstool or fungus'
   Fij: Bauan        |daliŋa ni kalou|
@@ -12765,42 +12765,42 @@ are borrowed.
     The items listed below denote 'swamp taro, Cyrtosperma merkusii' unless glossed otherwise.
 
 __formgroup__
- Adm:  Mussau         ulaa     *pu(l,r,R)a(q,k)a
- Adm:  Seimat         hula     *pula(q,k)a        'swamp taro, Alocasia sp., introduced from Aua' (Sorensen 1950)
- Adm:  Aua            fuula    *pula(q,k )a       'taro'
- Adm:  Lou            pulak    *(p,b )ulaka
- MM:   Nakanai        uta      *u(l,r,R)a(q,k )a  'an inedible wild taro, Colocasia sp.'
- MM:   Nakanai        buleha   *bu(l,r,R)eqa      'an inedible wild taro, Colocasia sp.'
- MM:   Nakanai        bureka   *buseqa            'variety of elephant ear taro, Alocasia macrorrhizos'
- MM:   Kara (E)       vulai    *hulaqa            'k.o. taro'
- MM:   Patpatar       pulaka   *pulaka            'Polynesian arrowroot, probably Tacca leontopetaloides'[16]
- MM:   Tolai          pulaka   *pulaka            'Polynesian arrowroot, probably Tacca leontopetaloides'
- NCV:  Mota           puaka    *hu(R)aga          'boggy ground, mud'
- NCV:  Uripiv         suak     *hu(R)aga          '(rare) taro'
- NCV:  Big Nambas     boak     *hu(R)aga          'taro, Colocasia sp.'
- NCV:  Port Sandwich  mbuang   *hu(R)aga          'hill taro'
- NCV:  Naman          huag     *hu(R)aga
- NCV:  Neve'ei        ni-hiaŋ  *hu(R)aga
- NCV:  Avava          BUaŋ     *hu(R)aga
- NCV:  Nese           hoak     *hu(R)aga
- NCV:  Namakir        huag     *hu(R)aga
- NCal: Xaracuu        huraa    ?                  'variety of taro'
- Mic:  Marshallese    pʷaz     *hulaqa            'swamp taro patch'
- Mic:  Mortlockese    pʷulaʔ  *hula(q,k)a
- Mic:  Chuukese       pʷura   *hula(q,k)a
- Mic:  Puluwatese     pʷula   *hula(q,k)a
- Mic:  Satawalese     pʷula   *hula(q,k)a
- Mic:  Carolinian     bʷula    *hula(q,k)a
- Mic:  Woleaian       f"uraxe  *hulaka
- Mic:  Pulo-Annan     vʷuraxa  *hulaka
- Pn:   Anutan         pulaka   *hulaka
- Pn:   Pukapukan      pulaka   *hulaka
- Pn:   E Futunan      pulaka   *hulaka
- Pn:   E Uvean        pulaka   *hulaka
- Pn:   Samoan         pulaʔa   *hulaka
- Pn:   Tuvalu         pulaka   *hulaka
- Pn:   Tokelauan      pulaka   *hulaka
- Pn:   Raratangan     puraka   *hulaka            'coarse kind of taro'
+ Adm:  Mussau         ulaa      'swamp taro, Cyrtosperma merkusii'  (would reflect _*pu(l,r,R)a(q,k)a_)
+ Adm:  Seimat         hula      'swamp taro, Alocasia sp., introduced from Aua' (Sorensen 1950)  (would reflect _*pula(q,k)a_)
+ Adm:  Aua            fuula     'taro'  (would reflect _*pula(q,k)a_)
+ Adm:  Lou            pulak     'swamp taro, Cyrtosperma merkusii'  (would reflect _*(p,b)ulaka_)
+ MM:   Nakanai        ula       'an inedible wild taro, Colocasia sp.'  (would reflect _*u(l,r,R)a(q,k)a_)
+ MM:   Nakanai        buleha    'an inedible wild taro, Colocasia sp.'  (would reflect _*bu(l,r,R)eqa_)
+ MM:   Nakanai        bureka    'variety of elephant ear taro, Alocasia macrorrhizos'  (would reflect _*buseqa_)
+ MM:   Kara (E)       vuləi     'k.o. taro'  (would reflect _*hulaqa_)
+ MM:   Patpatar       pulaka    'Polynesian arrowroot, probably Tacca leontopetaloides'  (would reflect _*pulaka_) [16]
+ MM:   Tolai          pulaka    'Polynesian arrowroot, probably Tacca leontopetaloides'  (would reflect _*pulaka_)
+ NCV:  Mota           puaka     'boggy ground, mud'  (would reflect _*hu(R)aga_)
+ NCV:  Uripiv         ʙuak      '(rare) taro'  (would reflect _*hu(R)aga_)
+ NCV:  Big Nambas     bōak      'taro, Colocasia sp.'  (would reflect _*hu(R)aga_)
+ NCV:  Port Sandwich  ᵐbuaᵑg    'hill taro'  (would reflect _*hu(R)aga_)
+ NCV:  Naman          buag      'swamp taro, Cyrtosperma merkusii'  (would reflect _*hu(R)aga_)
+ NCV:  Neve'ei        ni-biaŋ   'swamp taro, Cyrtosperma merkusii'  (would reflect _*hu(R)aga_)
+ NCV:  Avava          ʙuaŋ      'swamp taro, Cyrtosperma merkusii'  (would reflect _*hu(R)aga_)
+ NCV:  Nese           boak      'swamp taro, Cyrtosperma merkusii'  (would reflect _*hu(R)aga_)
+ NCV:  Namakir        buag      'swamp taro, Cyrtosperma merkusii'  (would reflect _*hu(R)aga_)
+ NCal: Xaracuu        buraa     'variety of taro'  (would reflect ?)
+ Mic:  Marshallese    pɯəl      'swamp taro patch'  (would reflect _*hulaqa_)
+ Mic:  Mortlockese    pʷulᴂ    'swamp taro, Cyrtosperma merkusii'  (would reflect _*hula(q,k)a_)
+ Mic:  Chuukese       pʷuɾa     'swamp taro, Cyrtosperma merkusii'  (would reflect _*hula(q,k)a_)
+ Mic:  Puluwatese     pʷula     'swamp taro, Cyrtosperma merkusii'  (would reflect _*hula(q,k)a_)
+ Mic:  Satawalese     pʷula     'swamp taro, Cyrtosperma merkusii'  (would reflect _*hula(q,k)a_)
+ Mic:  Carolinian     bʷula     'swamp taro, Cyrtosperma merkusii'  (would reflect _*hula(q,k)a_)
+ Mic:  Woleaian       fʷuraxe   'swamp taro, Cyrtosperma merkusii'  (would reflect _*hulaka_)
+ Mic:  Pulo-Annan     vʷuraxa   'swamp taro, Cyrtosperma merkusii'  (would reflect _*hulaka_)
+ Pn:   Anutan         pulaka    'swamp taro, Cyrtosperma merkusii'  (would reflect _*hulaka_)
+ Pn:   Pukapukan      pulaka    'swamp taro, Cyrtosperma merkusii'  (would reflect _*hulaka_)
+ Pn:   E Futunan      pulaka    'swamp taro, Cyrtosperma merkusii'  (would reflect _*hulaka_)
+ Pn:   E Uvean        pulaka    'swamp taro, Cyrtosperma merkusii'  (would reflect _*hulaka_)
+ Pn:   Samoan         pulaʔa    'swamp taro, Cyrtosperma merkusii'  (would reflect _*hulaka_)
+ Pn:   Tuvalu         pulaka    'swamp taro, Cyrtosperma merkusii'  (would reflect _*hulaka_)
+ Pn:   Tokelauan      pulaka    'swamp taro, Cyrtosperma merkusii'  (would reflect _*hulaka_)
+ Pn:   Rarotongan     puraka    'coarse kind of taro'  (would reflect _*hulaka_)
 
 [14] However, Kikusawa's paper contains some problems. Firstly, she reconstructs POc _*biRaq_, denoting both
 Alocasia and Cyrtosperma, i.e. giant taros in general (only Wayan _via_ supports the double gloss), but it is clear
@@ -13226,7 +13226,7 @@ __formgroup__
       NNG: Mangap        pin-pin         'wild banana'
       PT:  Sudest        ɣudu-ɣudu       'wild banana seeds'
       MM:  Ramoaaina     udu-udu         'wild banana'
-      MM:  Tolai         vudu-vudu       'wild banana, Ensete glaucum'[20] (Arnaud & Horry 1997: 19)
+      MM:  Tolai         vudu-vudu       'wild banana, Ensete glaucum' (Arnaud & Horry 1997: 19) [20]
 
     Names for the various parts of the banana plant are discussed in chapter 4. Some are
 also mentioned in §2.2.1, as they are also used for the taro (and probably for other plants,
@@ -14424,7 +14424,7 @@ __formgroup__
     Mic:   Puluwatese      yawann          'banyan'
     Mic:   Satawalese      awal            'banyan'
     Mic:   Woleaian        gewann          'banyan'
-    Mic:   Ulithian        howe!           'banyan'
+    Mic:   Ulithian        howel           'banyan'
 
     POc _*ba[k,g]a_ denoted a taxon of freestanding, medium-sized Ficus species. Denotata
 of reflexes include F. nodosa, F. wassa, F. prolixa, F. obliqua, F. mutabilis and F. tinctoria,
@@ -15222,7 +15222,7 @@ __formgroup__
    NCV: Namakir       vil           'Barringtonia edulis'
    NCV: Nguna         na-vīla       'Barringtonia edulis'
    SV:  Sye           vel(ŋah)      'Barringtonia edulis'
-   SV:  Ura           ni-ver(ŋi}    'Barringtonia edulis'
+   SV:  Ura           ni-ver(ŋi)    'Barringtonia edulis'
 
    Although _*kinu_ 'edible Barringtonia species' has reflexes in both Meso-Melanesian and
 SE Solomonic languages, the members of the set are spread across the border between Western
@@ -16408,14 +16408,15 @@ term _*mala-usi_ 'Garuga sp.' literally meant 'like Spondias cytherea' (ch.7, §
 was/is a perceived resemblance between Garuga and Spondias species. We cannot simply
 include the items below in the cognate set for PNCV _*mali_ above, however, as the Paamese,
 Lewo and S Efate reflexes of _*mal-mali_ differ from their reflexes of _*mali_.
-PNCV *mal-mali 'Garuga floribunda'
 
-__formgroup__
-  NCV:    Mwotlap       na-mal-mali (ey)
+<
+PNCV *mal-mali 'Garuga floribunda'
+  NCV:    Mwotlap       |na-mal-mali (ey)|
   NCV:    Paamese       e-imoumol
-  NCV:    Lewo          (puru )mal-mal
-  NCV:    Baki          (buru )mar-maro
+  NCV:    Lewo          (puru)mal-mal
+  NCV:    Baki          (buru)mar-maro
   NCV:    S Efate       n(a)-mal-mil
+>
 
 348   Malcolm Ross
 
@@ -18167,10 +18168,10 @@ spadix; coconut spathe' (POLLEX), reflected in most Polynesian languages.
 __formgroup__
    Adm: Titan        páⁿrol        'sheath of flower of the coconut palm, when dry; used as firewood'
    NNG: Numbami      wawanziŋa     'sheath over coconut blossoms (used as tray)'
-   PT:  Iduna        lelewaka      '(split) pod of coconut; covers kakaiyona
+   PT:  Iduna        lelewaka      '(split) pod of coconut; covers kakaiyona'
    PT:  Iduna        kakaiyo-na    'twigs, hand on which coconuts grow'
    PT:  Tawala       kena         'sheath covering new coconut flowers'
-   MM:  Nduke        rereto-       'spathe of the coconut, the 'boat' that accompanies the flowers and baby coconuts'
+   MM:  Nduke        rereto-       'spathe of the coconut, the "boat" that accompanies the flowers and baby coconuts'
    MM:  Nduke        baɣutu-       'stem that supports the flowers, and later the fruit, of the coconut'
    SES: Gela         mbagona       'spathe of coconut flowers'
    SES: Gela         tu            'spathe of coconut flowers'
