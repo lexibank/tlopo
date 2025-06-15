@@ -193,7 +193,7 @@ The line where sea meets sky is commonly referred to by a compound — either ed
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>taha(a)-raŋi</i></td>
+<td>Pn</td><td>Māori</td><td><i>taha(a)-raŋi</i></td>
 <td>
 </td>
 </tr>
@@ -249,21 +249,101 @@ Similarly, PChk _&ast;pai-laŋi_ may be from POc _&ast;baRa_ ‘fence’(see vol
 
 Two SE Solomonic languages describe the horizon in terms of the sea rather than the sky. Lau and Kwaio both have _ʔaena asi_, literally ‘foot/leg of the sea’. Other terms retain the more usual second element meaning ‘sky’ but vary the first element:
 
-```
- PT: Motu           |guba dokona|          ‘horizon’ (_guba_[^4] ‘sky’ _doko_ ‘end’)
- SES: Lau           |ʔaena salo|           ‘horizon’ (_ʔaena_ ‘foot’, _salo_[^5] ‘sky’)
- SES: Arosi         waʔa-ni-aro            ‘horizon’ (lit. ‘beginning of the sky’)
- Mic: Chuukese      epī-ɾeŋ                ‘horizon’ (_epi-_ ‘bottom’, _ɾeŋi_ ‘sky’)
- Mic: Marshallese   |kapin laŋ|            ‘horizon’ (_kapi_ ‘bottom’, _laŋ_ ‘sky’)
- Mic: Kosraean      pe kʌṣa                ‘horizon’ (_pe_ ‘side’, _kʌṣa_ ‘sky/heaven’)
- Mic: Kiribati      |te tataŋa ni mainiku| ‘eastern horizon’ (lit. ‘roof-plate of east’)
- Mic: Kiribati      |te tataŋa ni maeao|   ‘western horizon’ (lit. ‘roof-plate of west’) ([Grimble 1931](../references.md#source-Grimble1931):198)
- Fij: Bauan         vū-ni-laŋi             ‘horizon’ (lit. ‘base of sky’)
- Fij: Wayan         vū-ni-laŋi             ‘horizon’
- Pn: Hawaiian       kumu-lani              ‘horizon’ (lit. ‘base of sky’)
- Pn: Hawaiian       pōʔai-lani             ‘horizon’ (lit. ‘sky circle’)
- Pn: Hawaiian       kūkulu-o-lani          ‘horizon’ ([Åkerblom 1968](../references.md#source-Akerblom1968):15) (_kūkulu_ ‘pillar, post, side, edge, horizon’ denotes the four pillars which were the principal supports of the heavenly dome ([Makemson 1939](../references.md#source-Makemson1939):19))
-```
+<table>
+<tr>
+<td>PT</td>
+<td>Motu</td>
+<td><i>guba dokona</i></td>
+<td>
+'<span>horizon</span>' (<span><em>guba</em>[4] ‘sky’ <em>doko</em> ‘end’</span>)</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>Lau</td>
+<td><i>ʔaena salo</i></td>
+<td>
+'<span>horizon</span>' (<span><em>ʔaena</em> ‘foot’, <em>salo</em>[5] ‘sky’</span>)</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>Arosi</td>
+<td><i>waʔa-ni-aro</i></td>
+<td>
+'<span>horizon</span>' (<span>lit. ‘beginning of the sky’</span>)</td>
+</tr>
+<tr>
+<td>Mic</td>
+<td>Trukese</td>
+<td><i>epī-ɾeŋ</i></td>
+<td>
+'<span>horizon</span>' (<span><em>epi-</em> ‘bottom’, <em>ɾeŋi</em> ‘sky’</span>)</td>
+</tr>
+<tr>
+<td>Mic</td>
+<td>Marshallese</td>
+<td><i>kapin laŋ</i></td>
+<td>
+'<span>horizon</span>' (<span><em>kapi</em> ‘bottom’, <em>laŋ</em> ‘sky’</span>)</td>
+</tr>
+<tr>
+<td>Mic</td>
+<td>Kosraean</td>
+<td><i>pe kʌṣa</i></td>
+<td>
+'<span>horizon</span>' (<span><em>pe</em> ‘side’, <em>kʌṣa</em> ‘sky/heaven’</span>)</td>
+</tr>
+<tr>
+<td>Mic</td>
+<td>Kiribatese</td>
+<td><i>te tataŋa ni mainiku</i></td>
+<td>
+'<span>eastern horizon</span>' (<span>lit. ‘roof-plate of east’</span>)</td>
+</tr>
+<tr>
+<td>Mic</td>
+<td>Kiribatese</td>
+<td><i>te tataŋa ni maeao</i></td>
+<td>
+'<span>western horizon</span>' (<span>lit. ‘roof-plate of west’</span>)(<a href="../references.md#source-Grimble1931">Grimble1931: 198</a>)
+</td>
+</tr>
+<tr>
+<td>Fij</td>
+<td>Bauan</td>
+<td><i>vū-ni-laŋi</i></td>
+<td>
+'<span>horizon</span>' (<span>lit. ‘base of sky’</span>)</td>
+</tr>
+<tr>
+<td>Fij</td>
+<td>Wayan</td>
+<td><i>vū-ni-laŋi</i></td>
+<td>
+'<span>horizon</span>'</td>
+</tr>
+<tr>
+<td>Pn</td>
+<td>Hawaiian</td>
+<td><i>kumu-lani</i></td>
+<td>
+'<span>horizon</span>' (<span>lit. ‘base of sky’</span>)</td>
+</tr>
+<tr>
+<td>Pn</td>
+<td>Hawaiian</td>
+<td><i>pōʔai-lani</i></td>
+<td>
+'<span>horizon</span>' (<span>lit. ‘sky circle’</span>)</td>
+</tr>
+<tr>
+<td>Pn</td>
+<td>Hawaiian</td>
+<td><i>kūkulu-o-lani</i></td>
+<td>
+'<span>horizon</span>' (<span><em>kūkulu</em> ‘pillar, post, side, edge, horizon’ denotes the four pillars which were the principal supports of the heavenly dome (Makemson 1939:19)</span>)(<a href="../references.md#source-Akerblom1968">Akerblom1968: 15</a>)
+</td>
+</tr>
+</table>
 
 
 <a id="p-159"></a>
@@ -545,7 +625,7 @@ Proto Nuclear Polynesian shows a split between &ast;qaso ‘day, as a period of 
 '<span>daylight</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>ao</i></td>
+<td>Pn</td><td>Māori</td><td><i>ao</i></td>
 <td>
 (N) '<span>daytime as opposed to night</span>'; (VI) '<span>dawn, become day</span>'</td>
 </tr>
@@ -732,7 +812,7 @@ Proto Nuclear Polynesian shows a split between &ast;qaso ‘day, as a period of 
 '<span>day, date</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>raŋi</i></td>
+<td>Pn</td><td>Māori</td><td><i>raŋi</i></td>
 <td>
 '<span>day, as period of time</span>' (<span><em>ŋ</em> for <em>n</em> unexplained</span>)</td>
 </tr>
@@ -858,7 +938,7 @@ The preceding cognate set may ultimately be connected with the following one. Ho
 (N) '<span>sun</span>'; (V) '<span>sun, sunbathe, dry in the sun</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>rā</i></td>
+<td>Pn</td><td>Māori</td><td><i>rā</i></td>
 <td>
 '<span>sun</span>'</td>
 </tr>
@@ -1153,7 +1233,7 @@ Building on its ‘shine’ meaning, POc _&ast;sinaR_ has given rise to a number
 '<span>moon, month</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>māhina</i></td>
+<td>Pn</td><td>Māori</td><td><i>māhina</i></td>
 <td>
 '<span>moon, month</span>'</td>
 </tr>
@@ -1687,25 +1767,79 @@ Morning Star: (i) compounds from ‘star’ + ‘daytime’
 
 (ii) other compounds
 
-```
-  NNG: Gedaged        boi tinan         ‘Morning Star’ (boi ‘star’, tinan ‘mother’ or ‘big’; cf. p.195)[^13]
-  NNG: Manam          goai zama         ‘Morning Star’ (goai ‘star’, zama ‘tomorrow’)
-  PT:  Motu           hisiu bada        ‘Morning Star’ (hisiu ‘star’, bada ‘large’)
-```
+<table>
+<tr>
+<td>NNG</td>
+<td>Gedaged</td>
+<td><i>boi tinan </i></td>
+<td>
+'<span>Morning Star</span>' (<span>boi ‘star’, tinan ‘mother’ or ‘big’; cf. p.195</span>)</td>
+</tr>
+<tr>
+<td>NNG</td>
+<td>Manam</td>
+<td><i>goai zama </i></td>
+<td>
+'<span>Morning Star</span>' (<span>goai ‘star’, zama ‘tomorrow’</span>)</td>
+</tr>
+<tr>
+<td>PT</td>
+<td>Motu</td>
+<td><i>hisiu bada</i></td>
+<td>
+'<span>Morning Star</span>' (<span>hisiu ‘star’, bada ‘large’</span>)</td>
+</tr>
+</table>
 
 
 <a id="p-168"></a>
 
 Evening Star (various compounds):
 
-```
- MM:  Roviana          govete pisi    ‘Evening Star, Venus’ (govete ‘to flee, run away’, pisi ‘to sting or bite, as insects’)
- SES: To’aba’ita       bubufaŋa       ‘Evening Star’ (bubu ‘look at’, faŋa ‘eat; food’
- SES: Lau              būbūfaŋa       ‘Evening Star’ (būbū ‘look at, gaze’, faŋa ‘to have a meal, food’)
- SES: Arosi            maŋai ŋau      ‘Evening Star’ (maŋa ‘eat’, ŋau ‘eat food’
- Pn:  Tikopia          fetū ramaŋa    Alternative name for evening star when standing in west, in monsoon nights (lit. ‘torchlight fishing star’)
- Pn:  Hawaiian         hōkū-kau-ʔōpae ‘Evening Star’ (lit. ‘star for placing shrimp’)
-```
+<table>
+<tr>
+<td>MM</td>
+<td>Roviana</td>
+<td><i>govete pisi</i></td>
+<td>
+'<span>Evening Star, Venus</span>' (<span>govete ‘to flee, run away’, pisi ‘to sting or bite, as insects’</span>)</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>To'aba'ita</td>
+<td><i>bubufaŋa</i></td>
+<td>
+'<span>Evening Star</span>' (<span>bubu ‘look at’, faŋa ‘eat; food’</span>)</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>Lau</td>
+<td><i>būbūfaŋa</i></td>
+<td>
+'<span>Evening Star</span>' (<span>būbū ‘look at, gaze’, faŋa ‘to have a meal, food’</span>)</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>Arosi</td>
+<td><i>maŋai ŋau</i></td>
+<td>
+'<span>Evening Star</span>' (<span>maŋa ‘eat’, ŋau ‘eat food’</span>)</td>
+</tr>
+<tr>
+<td>Pn</td>
+<td>Tikopia</td>
+<td><i>fetū ramaŋa</i></td>
+<td>
+'<span>Alternative name for evening star when standing in west, in monsoon nights</span>' (<span>lit. ‘torchlight fishing star’</span>)</td>
+</tr>
+<tr>
+<td>Pn</td>
+<td>Hawaiian</td>
+<td><i>hōkū-kau-ʔōpae</i></td>
+<td>
+'<span>Evening Star</span>' (<span>lit. ‘star for placing shrimp’</span>)</td>
+</tr>
+</table>
 
 6.5.2.2 Big Bird (Constellation including Sirius, Canopus, Procyon, Betelgeuse, Rigel)
 
@@ -1782,31 +1916,142 @@ We also have various references to particular stars as Manuk’s head, Manuk’s
 
 <a id="p-169"></a>
 
-```
- Adm: Ninigo           mānifono                    ‘Sirius’ (fono ‘head’)
- Adm: Ninigo           mānitola                    ‘Procyon’
- Adm: Ninigo           mānihaiup                   ‘Canopus’ ([Lewis 1994](../references.md#source-Lewis1994):406)
- Mic: Kiribati         pwāpwā-ni-man               ‘Sirius’ (pwāpwā ‘chest’)
- Mic: Kiribati         man-ati                     ‘Rigel’ (ati ‘heart’)
- Mic: Puluwatese       yinekin-mān                 ‘Sirius’ (yinek ‘body, trunk’)
- Pn:  Rennellese      |te tino-manu|               ‘three bright stars at the end of Taurus’ (tino ‘body’)
- Pn:  Anutan          |te kaokao o manu|           ‘Manuk’s armpit: a group of four small stars near Sirius; said to pass almost directly over Tikopia when approaching from Anuta’
- Pn:  Anutan          |te tino a manu|             ‘Sirius’ (tino ‘body’)
- Pn:  Tikopia         |te opiŋa o manu|            ‘Manuk’s armpit’ ([Feinberg 1988](../references.md#source-Feinberg1988):101) A Tikopian name but commonly used on Anuta.
-```
+<table>
+<tr>
+<td>Adm</td>
+<td>Seimat</td>
+<td><i>mānifono</i></td>
+<td>
+'<span>Sirius</span>' (<span>fono ‘head’</span>)</td>
+</tr>
+<tr>
+<td>Adm</td>
+<td>Seimat</td>
+<td><i>mānitola</i></td>
+<td>
+'<span>Procyon</span>'</td>
+</tr>
+<tr>
+<td>Adm</td>
+<td>Seimat</td>
+<td><i>mānihaiup</i></td>
+<td>
+'<span>Canopus</span>'(<a href="../references.md#source-Lewis1994">Lewis1994: 406</a>)
+</td>
+</tr>
+<tr>
+<td>Mic</td>
+<td>Kiribatese</td>
+<td><i>pwāpwā-ni-man</i></td>
+<td>
+'<span>Sirius</span>' (<span>pwāpwā ‘chest’</span>)</td>
+</tr>
+<tr>
+<td>Mic</td>
+<td>Kiribatese</td>
+<td><i>man-ati</i></td>
+<td>
+'<span>Rigel</span>' (<span>ati ‘heart’</span>)</td>
+</tr>
+<tr>
+<td>Mic</td>
+<td>Puluwatese</td>
+<td><i>yinekin-mān</i></td>
+<td>
+'<span>Sirius</span>' (<span>yinek ‘body, trunk’</span>)</td>
+</tr>
+<tr>
+<td>Pn</td>
+<td>Rennellese</td>
+<td><i>te tino-manu</i></td>
+<td>
+'<span>three bright stars at the end of Taurus</span>' (<span>tino ‘body’</span>)</td>
+</tr>
+<tr>
+<td>Pn</td>
+<td>Anutan</td>
+<td><i>te kaokao o manu</i></td>
+<td>
+'<span>Manuk’s armpit: a group of four small stars near Sirius; said to pass almost directly over Tikopia when approaching from Anuta</span>'</td>
+</tr>
+<tr>
+<td>Pn</td>
+<td>Anutan</td>
+<td><i>te tino a manu</i></td>
+<td>
+'<span>Sirius</span>' (<span>tino ‘body’</span>)</td>
+</tr>
+<tr>
+<td>Pn</td>
+<td>Tikopia</td>
+<td><i>te opiŋa o manu</i></td>
+<td>
+'<span>Manuk’s armpit</span>' (<span>A Tikopian name but commonly used on Anuta.</span>)(<a href="../references.md#source-Feinberg1988">Feinberg1988: 101</a>)
+</td>
+</tr>
+</table>
 
 Procyon (or Betelgeuse) and Canopus are widely referred to as the north wing and south/east wing respectively in Micronesian Satawalese, where reference to Manuk is included, and in the Polynesian Outliers of Anuta, Tikopia and Pileni, where the Manuk reference has been dropped.[^15]
 
-```
- Mic: Satawalese     paīne-māne-mefuŋ         ‘Procyon (lit. ‘northern wing of Manuk’)
- Mic: Satawalese     paīne-māne-meir          ‘Canopus (lit. ‘southern wing of Manuk’)
- Pn: Anutan          te kapakau paka-tokerau  ‘Procyon, the ‘north wing (of Manuk constellation)’ (kapakau ‘wing’, tokerau ‘north’)
- Pn: Anutan          te kapakau paka-toŋa     ‘Canopus, Manuk’s east wing’ (kapakau ‘wing’, toŋa ‘south/east’)
- Pn: Tikopia         kapakau faka-tokerau     ‘Betelgeuse’
- Pn: Tikopia         kapakau faka-toŋa        ‘probably Canopus’
- Pn: Pileni          trekapekau ki taumako    ‘Betelgeuse’(Taumako is an island east northeast of Pileni)
- Pn: Pileni          trekapekau ki ndeni      ‘Canopus’(Ndeni is an island southwest of Pileni) ([Lewis 1994](../references.md#source-Lewis1994):408)
-```
+<table>
+<tr>
+<td>Mic</td>
+<td>Satawalese</td>
+<td><i>paīne-māne-mefuŋ</i></td>
+<td>
+'<span>Procyon</span>' (<span>lit. ‘northern wing of Manuk’</span>)</td>
+</tr>
+<tr>
+<td>Mic</td>
+<td>Satawalese</td>
+<td><i>paīne-māne-meir</i></td>
+<td>
+'<span>Canopus</span>' (<span>lit. ‘southern wing of Manuk’</span>)</td>
+</tr>
+<tr>
+<td>Pn</td>
+<td>Anutan</td>
+<td><i>te kapakau paka-tokerau</i></td>
+<td>
+'<span>Procyon, the north wing (of Manuk constellation)</span>' (<span>kapakau ‘wing’, tokerau ‘north’</span>)</td>
+</tr>
+<tr>
+<td>Pn</td>
+<td>Anutan</td>
+<td><i>te kapakau paka-toŋa </i></td>
+<td>
+'<span>Canopus, Manuk’s east wing</span>' (<span>kapakau ‘wing’, toŋa ‘south/east’</span>)</td>
+</tr>
+<tr>
+<td>Pn</td>
+<td>Tikopia</td>
+<td><i>kapakau faka-tokerau </i></td>
+<td>
+'<span>Betelgeuse</span>'</td>
+</tr>
+<tr>
+<td>Pn</td>
+<td>Tikopia</td>
+<td><i>kapakau faka-toŋa    </i></td>
+<td>
+'<span>probably Canopus</span>'</td>
+</tr>
+<tr>
+<td>Pn</td>
+<td>Pileni</td>
+<td><i>trekapekau ki taumako</i></td>
+<td>
+'<span>Betelgeuse</span>' (<span>Taumako is an island east northeast of Pileni</span>)</td>
+</tr>
+<tr>
+<td>Pn</td>
+<td>Pileni</td>
+<td><i>trekapekau ki ndeni  </i></td>
+<td>
+'<span>Canopus</span>' (<span>Ndeni is an island southwest of Pileni</span>)(<a href="../references.md#source-Lewis1994">Lewis1994: 408</a>)
+</td>
+</tr>
+</table>
 
 Individual stars within a constellation are frequently named because of their significance as seasonal or navigational markers, and at times because of a mythical association. It appears, however, that communities have at times retained familiar star names but applied them to different stars, stars more appropriate markers of a season or sea route as the location varied. Reflexes of the following PPn reconstruction applied, in compound form, to a number of bright stars and planets, as well as to the months and seasons over which the stars presided ([Makemson 1941](../references.md#source-Makemson1941):254). In Eastern Polynesia, references are typically to Sirius.
 
@@ -1843,7 +2088,7 @@ Individual stars within a constellation are frequently named because of their si
 '<span>star name: may be Venus, Jupiter or Saturn</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>takurua</i></td>
+<td>Pn</td><td>Māori</td><td><i>takurua</i></td>
 <td>
 '<span>Sirius; winter</span>' (<a href="../references.md#source-Akerblom1968">Akerblom1968: 19</a>)
 </td>
@@ -1887,7 +2132,7 @@ We have another PPn reconstruction whose reference is apparently to a star or st
 '<span>Mercury</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>tākero</i></td>
+<td>Pn</td><td>Māori</td><td><i>tākero</i></td>
 <td>
 '<span>an unidentified star; Mercury</span>'</td>
 </tr>
@@ -2068,7 +2313,7 @@ In Polynesia and Micronesia a different term, translatable literally as ‘small
 '<span>Pleiades</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>matariki</i></td>
+<td>Pn</td><td>Māori</td><td><i>matariki</i></td>
 <td>
 '<span>Pleiades, the first appearance of which before sunrise indicated the beginning of the Maori year (about the middle of June)</span>'</td>
 </tr>
@@ -2157,29 +2402,117 @@ Although the Southern Cross is typically associated with the southern hemisphere
 
 Other terms are descriptive, with the net metaphor and the cross shape or crucifix recurring.
 
-```
- SES: Sa’a          ʔape                ‘Southern Cross’ (lit. ‘large square fishing net fixed on four upright poles’)
- Fij: Bauan         kalokalo-ni-ðeva    ‘Southern Cross’ (_kalokalo_ ‘star’, _ðeva_ ‘the south or southeast wind’)
- Pn: Anutan         te kupeŋa           ‘The Net: Southern Cross’
- Pn: Tikopia        te kau kupeŋa       ‘pole-net handle’ (_kau_ ‘handle’ probably refers to the Pointers rather than the Cross, which is the net.)
- Pn: Rennellese     kau-kupeŋa          ‘Southern Cross; net handle, net frame’
- Pn: K’marangi      tina ti raŋi        ‘Southern Cross’ (lit. ‘sky mother’)
- Pn: Tikopia        te uru a taŋata     ‘Southern Cross’ (lit. ‘man’s head’)
- Pn: Tikopia        rakau tapu          ‘Southern Cross’ (lit. ‘sacred timber’) ([Lewis 1994](../references.md#source-Lewis1994):407)
- Pn: Hawaiian       hōkū-keʔa           ‘Southern Cross’ (keʔa ‘cross, crucifix’)
-```
+<table>
+<tr>
+<td>SES</td>
+<td>Sa'a</td>
+<td><i>ʔape</i></td>
+<td>
+'<span>Southern Cross</span>' (<span>lit. ‘large square fishing net fixed on four upright poles’</span>)</td>
+</tr>
+<tr>
+<td>Fij</td>
+<td>Bauan</td>
+<td><i>kalokalo-ni-ðeva</i></td>
+<td>
+'<span>Southern Cross</span>' (<span><em>kalokalo</em> ‘star’, <em>ðeva</em> ‘the south or southeast wind’</span>)</td>
+</tr>
+<tr>
+<td>Pn</td>
+<td>Anutan</td>
+<td><i>te kupeŋa    </i></td>
+<td>
+'<span>The Net: Southern Cross</span>'</td>
+</tr>
+<tr>
+<td>Pn</td>
+<td>Tikopia</td>
+<td><i>te kau kupeŋa</i></td>
+<td>
+'<span>pole-net handle</span>' (<span><em>kau</em> ‘handle’ probably refers to the Pointers rather than the Cross, which is the net.</span>)</td>
+</tr>
+<tr>
+<td>Pn</td>
+<td>Rennellese</td>
+<td><i>kau-kupeŋa</i></td>
+<td>
+'<span>Southern Cross; net handle, net frame</span>'</td>
+</tr>
+<tr>
+<td>Pn</td>
+<td>Kapingamarangi</td>
+<td><i>tina ti raŋi   </i></td>
+<td>
+'<span>Southern Cross</span>' (<span>lit. ‘sky mother’</span>)</td>
+</tr>
+<tr>
+<td>Pn</td>
+<td>Tikopia</td>
+<td><i>te uru a taŋata</i></td>
+<td>
+'<span>Southern Cross</span>' (<span>lit. ‘man__s head’</span>)</td>
+</tr>
+<tr>
+<td>Pn</td>
+<td>Tikopia</td>
+<td><i>rakau tapu     </i></td>
+<td>
+'<span>Southern Cross</span>' (<span>lit. ‘sacred timber’</span>)(<a href="../references.md#source-Lewis1994">Lewis1994: 407</a>)
+</td>
+</tr>
+<tr>
+<td>Pn</td>
+<td>Hawaiian</td>
+<td><i>hōkū-keʔa</i></td>
+<td>
+'<span>Southern Cross</span>' (<span>keʔa ‘cross, crucifix’</span>)</td>
+</tr>
+</table>
 
 6.5.2.6 The Pointers
 
 The Pointers, Alpha and Beta Centauri, are widely referred to by compounds translatable as the ‘two men’. The Sa’a form is derived from POc _&ast;mwaqane_ ‘man, male’, while the Polynesian examples are reflexes of POc _&ast;tamwataq_ ‘living person’.
 
-```
-  SES: Sa’a           ro mwane           ‘Pointers (to Southern Cross)’ (lit. ‘two men’)
-  Pn:  Samoan         lua taŋata         ‘Pointers: Alpha and Beta Centauri’ ([Åkerblom 1968](../references.md#source-Akerblom1968):27)
-  Pn:  Tikopia        rua taŋata         ‘Southern Cross’ ([Lewis 1994](../references.md#source-Lewis1994):407)
-  Pn:  Tokelauan      na taŋata          ‘these two stars are guides for voyages from Tokelau to Samoa’ ([MacGregor 1937](../references.md#source-Macgregor1937):89)
-  Pn:  Anutan         rua taŋata         Lit. ‘double man’: ‘constellation consisting of two bright stars near the Southern Cross. Centaurus, also known as te kau o te kupeŋa ‘handle of fishing net’’
-```
+<table>
+<tr>
+<td>SES</td>
+<td>Sa'a</td>
+<td><i>ro mwane  </i></td>
+<td>
+'<span>Pointers (to Southern Cross)</span>' (<span>lit. ‘two men’</span>)</td>
+</tr>
+<tr>
+<td>Pn</td>
+<td>Samoan</td>
+<td><i>lua taŋata</i></td>
+<td>
+'<span>Pointers: Alpha and Beta Centauri</span>'(<a href="../references.md#source-Akerblom1968">Akerblom1968: 27</a>)
+</td>
+</tr>
+<tr>
+<td>Pn</td>
+<td>Tikopia</td>
+<td><i>rua taŋata</i></td>
+<td>
+'<span>Southern Cross</span>'(<a href="../references.md#source-Lewis1994">Lewis1994: 407</a>)
+</td>
+</tr>
+<tr>
+<td>Pn</td>
+<td>Tokelauan</td>
+<td><i>na taŋata </i></td>
+<td>
+'<span>these two stars are guides for voyages from Tokelau to Samoa</span>'(<a href="../references.md#source-Macgregor1937">Macgregor1937: 89</a>)
+</td>
+</tr>
+<tr>
+<td>Pn</td>
+<td>Anutan</td>
+<td><i>rua taŋata</i></td>
+<td>
+'<span>constellation consisting of two bright stars near the Southern Cross. Centaurus, also known as te <em>kau o te kupeŋa</em> handle of fishing net</span>' (<span>Lit. ‘double man’</span>)</td>
+</tr>
+</table>
 
 
 <a id="p-174"></a>
@@ -2188,12 +2521,37 @@ The Pointers, Alpha and Beta Centauri, are widely referred to by compounds trans
 
 No cognates are evident for the constellation, but there are semantically parallel forms in Sa’a, Lau and two Polynesian languages which all name the constellation with the local word for tongs. This may simply reflect independent recognition of a common household utensil shape.
 
-```
- SES: Sa’a           ireki               ‘the Southern Triangle’ (lit. ‘tongs’)
- SES: Lau            sākai               ‘bamboo tongs: name of constellation of six stars’
- Pn: Tikopia         te ūkopi            ‘the Tongs (Taurus’s forehead), particularly Aldebaran’ ([Feinberg 1988](../references.md#source-Feinberg1988):101). (Firth has ūkofi)
- Pn: Anutan          te aŋa-aŋa          ‘the Tongs: a constellation consisting of seven stars from Taurus arranged in a V pattern’
-```
+<table>
+<tr>
+<td>SES</td>
+<td>Sa'a</td>
+<td><i>ireki</i></td>
+<td>
+'<span>the Southern Triangle</span>' (<span>lit. ‘tongs’</span>)</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>Lau</td>
+<td><i>sākai</i></td>
+<td>
+'<span>bamboo tongs: name of constellation of six stars</span>'</td>
+</tr>
+<tr>
+<td>Pn</td>
+<td>Tikopia</td>
+<td><i>te ūkopi  </i></td>
+<td>
+'<span>the Tongs (Taurus’s forehead), particularly Aldebaran</span>' (<span>Firth has ūkofi</span>)(<a href="../references.md#source-Feinberg1988">Feinberg1988: 101</a>)
+</td>
+</tr>
+<tr>
+<td>Pn</td>
+<td>Anutan</td>
+<td><i>te aŋa-aŋa</i></td>
+<td>
+'<span>the Tongs: a constellation consisting of seven stars from Taurus arranged in a V pattern</span>'</td>
+</tr>
+</table>
 
 In Fiji the constellation is known as _laða_, literally ‘a sail’.
 
@@ -2255,12 +2613,38 @@ There is a possible PEOc reconstruction for Aldebaran, the single brightest star
 
 Other names located for Aldebaran include:
 
-```
- Mic: Kiribati         te boto-n-aiai   ‘Aldebaran (in Taurus)’ (lit. ‘base of ribs (aiai) of canoe’, because it stands in the V-shaped portion of Taurus) ([Grimble 1931](../references.md#source-Grimble1931):241)
- Mic: Marshallese      lɯoc-lɯaplɯap ‘Aldebaran in Taurus’ (lit. ‘big bonito’)
- Pn: Tahitian          ana muri         ‘Aldebaran’ ([Lewis 1994](../references.md#source-Lewis1994):403) (‘rear pillar supporting the sky’; cf. ana mua ‘front pillar, Antares)
- Pn: Maori             wero-i-te-kokota ‘Aldebaran’ (‘herald of the digging season’)
-```
+<table>
+<tr>
+<td>Mic</td>
+<td>Kiribatese</td>
+<td><i>te boto-n-aiai</i></td>
+<td>
+'<span>Aldebaran (in Taurus)</span>' (<span>lit. ‘base of ribs (aiai) of canoe’, because it stands in the V-shaped portion of Taurus</span>)(<a href="../references.md#source-Grimble1931">Grimble1931: 241</a>)
+</td>
+</tr>
+<tr>
+<td>Mic</td>
+<td>Marshallese</td>
+<td><i>lɯɔ̄c-lɯaplɯap</i></td>
+<td>
+'<span>Aldebaran in Taurus</span>' (<span>lit. ‘big bonito’</span>)</td>
+</tr>
+<tr>
+<td>Pn</td>
+<td>Tahitian</td>
+<td><i>ana muri</i></td>
+<td>
+'<span>Aldebaran</span>' (<span>‘rear pillar supporting the sky’; cf. ana mua ‘front pillar, Antares</span>)(<a href="../references.md#source-Lewis1994">Lewis1994: 403</a>)
+</td>
+</tr>
+<tr>
+<td>Pn</td>
+<td>Māori</td>
+<td><i>wero-i-te-kokota</i></td>
+<td>
+'<span>Aldebaran</span>' (<span>‘herald of the digging season’</span>)</td>
+</tr>
+</table>
 
 
 <a id="p-175"></a>
@@ -2465,7 +2849,7 @@ Antares, in the western constellation of Scorpio, ranks with the Pleiades as the
 '<span>a star, Antares?</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>rerehu or rehua</i></td>
+<td>Pn</td><td>Māori</td><td><i>rerehu or rehua</i></td>
 <td>
 '<span>Antares</span>' (<a href="../references.md#source-Makemson1941">Makemson1941: 98</a>)
 </td>
@@ -2507,7 +2891,7 @@ Antares, in the western constellation of Scorpio, ranks with the Pleiades as the
 '<span>Antares</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>mere-mere</i></td>
+<td>Pn</td><td>Māori</td><td><i>mere-mere</i></td>
 <td>
 '<span>Venus as evening star</span>'</td>
 </tr>
@@ -3002,10 +3386,22 @@ I have located terms only within Polynesia and Fiji for the Magellanic Clouds. T
 
 In Samoa, and also Anuta, they could simply be referred to as ‘flying cloud’ and ‘stationary cloud’ ([Makemson 1941](../references.md#source-Makemson1941):187).
 
-```
-  Pn: Samoan           ao lele, ao toʔa
-  Pn: Anutan           ao rere, ao toka
-```
+<table>
+<tr>
+<td>Pn</td>
+<td>Samoan</td>
+<td><i>ao lele, ao toʔa</i></td>
+<td>
+'<span>Magellanic Clouds</span>'</td>
+</tr>
+<tr>
+<td>Pn</td>
+<td>Anutan</td>
+<td><i>ao rere, ao toka</i></td>
+<td>
+'<span>Magellanic Clouds</span>'</td>
+</tr>
+</table>
 
 In Bauan they were _matādravu ni sautū_, literally ‘hearth of peace and plenty’.
 
@@ -3386,7 +3782,7 @@ The POc term usually contrasted with _&ast;sake_ ‘to go up, upwards’ is _&as
 '<span>down, come down, descend</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>iho</i></td>
+<td>Pn</td><td>Māori</td><td><i>iho</i></td>
 <td>
 '<span>downwards</span>'</td>
 </tr>
@@ -3576,74 +3972,74 @@ Reconstructions of navigation terms for Proto Oceanic, Proto Micronesian and Pro
 
 <a id="p-189"></a>
 
-```
-            Table 4: Reconstructions of heavenly body and other navigation terms
-Term                 POc                               PMic                     PPn
-sun                  &ast;qaco ‘sun, daytime’              &ast;alo ‘sun’                &ast;qaso ‘day as time span’
-                                                                                 PNPn &ast;qaho ‘daytime’
-                     &ast;raqani ‘daytime’                 &ast;rāni ‘day’               …
-                     &ast;[dr,r]aqaa ‘sun’s heat, light’                             &ast;laqā ‘sun’
-                     &ast;raraŋ ‘be warm’                  &ast;raŋ                      &ast;rara ‘heat over fire’
-                     &ast;sinaR ‘to shine, sun’            &ast;sina ‘light, shine’      &ast;mā-sina ‘moon’
-moon                 &ast;pulan                            …                         &ast;pula ‘to glow’
-                     &ast;(d)rama(R) ‘light’               &ast;marama                   &ast;marama ‘moon’
-                                                                                 &ast;mā-rama ‘light, bright’
-star (generic)       &ast;pituqun                          &ast;fitū                     &ast;fetuqu
-Venus                &ast;ma-dala                          &ast;matal                    …
-                     …                                 &ast;fituu rāni               &ast;fetuqu qaho ‘day star’
-Bird constellation   &ast;manuk                            &ast;ma(a)nu                  &ast;manu
-Sirius?              …                                 …                         &ast;takulua
-star in Orion        …                                 …                         &ast;tākelo
-Orion’s Belt         &ast;tolu-                            &ast;telu-                    &ast;tolu-
-Pleiades             &ast;bulu(q)                          …                         …
-                     …                                 …                         &ast;mataliki
-Southern Cross       ? &ast;paRi                           …                         …
-                     …                                 &ast;pwupwu                   …
-Pointers             …                                  …                        PNPn &ast;rua taŋata
-Aldebaran            …                                 &ast;u(C)unu                  …
-Polaris              …                                 PChk &ast;fitū mwakut         …
-Altair               …                                 PChk &ast;mai-lapa            …
----
-Term                     POc                         PMic                        PPn
-Antares                  …                          &ast;(d,z)umuri                  …
-                         …                          …                            PNPn &ast;mele-mele
-                                                                                 PCEPn &ast;refua
-Pegasus                  …                          &ast;lakV                        …
-Dolphin constellation    …                          &ast;kua                         …
-Cassiopeia               …                          PChk &ast;ukulīk                 …
-Bowl constellation       …                          &ast;tapia                       …
-(Delphinus)
-Arcturus                 …                          &ast;aremoi                      …
-Corvus constellation     …                          PChk &ast;taropwolu              …
-Leo constellation        …                          PChk &ast;ici                    …
-Vega                     …                          PChk &ast;mul                    …
-Dip net constellation    …                          PChk &ast;caw                    …
-(Corona Borealis)
-stars in Ursa Major      …                          PChk &ast;wuleko                 …
-Equeleus constellation   …                          PChk &ast;tə̄(d,z)a              …
-Magellanic Clouds        …                          …                            &ast;maqafu
-Milky Way                …                          …                            &ast;kaniwa
-sky                      &ast;laŋit                     &ast;laŋi                        &ast;laŋi
-                         …                          &ast;kadawa ‘heavens’            …
-horizon                  …                          PChk &ast;pai-laŋi               &ast;tafa-qaki-laŋi
-star path (that which    …                          …                            &ast;kaweiŋa
-is steered for)
-star rise                &ast;sake ‘to rise, upwards’   &ast;sake                        &ast;hake ‘upwards’
-star set                 &ast;sipo ‘to go down,         &ast;tipwo                       &ast;hifo ‘downwards’
-                         downwards’
-                         …                          &ast;zolo ‘to descend,           …
-                                                    disappear (below horizon)’
-ocean swell              &ast;ŋalu(n) ‘wave, swell’     &ast;ŋalu ‘wave, swell’          &ast;ŋalu ‘wave’
-wave, swell              &ast;bayau ‘ocean swell,       &ast;peau                        …
-                         whether breaking or not’
-lightning                &ast;lap(w)a(r,R)              …                            &ast;lapa ‘flash of light’
-open sea                 &ast;masawa(n,ŋ)               &ast;masawa                      &ast;moana
-sea, salt water          &ast;tasik                     &ast;tasi                        &ast;tahi ‘shallow sea’
-deep blue sea            &ast;laman                     …                            …
-current                  &ast;qaRus                     &ast;aus                         &ast;qau
-reef                     &ast;sakaRu                    &ast;sakau ‘reef, shoal,         &ast;hakau ‘coral reef’
-                                                    reef island’
-```
+: Table 4: Reconstructions of heavenly body and other navigation terms
+
+| Term                 POc                               PMic                     PPn                       |
+|:----------------------------------------------------------------------------------------------------------|
+| sun                  &ast;qaco ‘sun, daytime’              &ast;alo ‘sun’                &ast;qaso ‘day as time span’ |
+| PNPn &ast;qaho ‘daytime’                                                                                      |
+| &ast;raqani ‘daytime’                 &ast;rāni ‘day’               …                                             |
+| &ast;[dr,r]aqaa ‘sun’s heat, light’                             &ast;laqā ‘sun’                                   |
+| &ast;raraŋ ‘be warm’                  &ast;raŋ                      &ast;rara ‘heat over fire’                        |
+| &ast;sinaR ‘to shine, sun’            &ast;sina ‘light, shine’      &ast;mā-sina ‘moon’                               |
+| moon                 &ast;pulan                            …                         &ast;pula ‘to glow’          |
+| &ast;(d)rama(R) ‘light’               &ast;marama                   &ast;marama ‘moon’                                |
+| &ast;mā-rama ‘light, bright’                                                                                  |
+| star (generic)       &ast;pituqun                          &ast;fitū                     &ast;fetuqu                  |
+| Venus                &ast;ma-dala                          &ast;matal                    …                        |
+| …                                 &ast;fituu rāni               &ast;fetuqu qaho ‘day star’                       |
+| Bird constellation   &ast;manuk                            &ast;ma(a)nu                  &ast;manu                    |
+| Sirius?              …                                 …                         &ast;takulua                 |
+| star in Orion        …                                 …                         &ast;tākelo                  |
+| Orion’s Belt         &ast;tolu-                            &ast;telu-                    &ast;tolu-                   |
+| Pleiades             &ast;bulu(q)                          …                         …                        |
+| …                                 …                         &ast;mataliki                                     |
+| Southern Cross       ? &ast;paRi                           …                         …                        |
+| …                                 &ast;pwupwu                   …                                             |
+| Pointers             …                                  …                        PNPn &ast;rua taŋata         |
+| Aldebaran            …                                 &ast;u(C)unu                  …                        |
+| Polaris              …                                 PChk &ast;fitū mwakut         …                        |
+| Altair               …                                 PChk &ast;mai-lapa            …                        |
+| ---                                                                                                       |
+| Term                     POc                         PMic                        PPn                      |
+| Antares                  …                          &ast;(d,z)umuri                  …                        |
+| …                          …                            PNPn &ast;mele-mele                                   |
+| PCEPn &ast;refua                                                                                              |
+| Pegasus                  …                          &ast;lakV                        …                        |
+| Dolphin constellation    …                          &ast;kua                         …                        |
+| Cassiopeia               …                          PChk &ast;ukulīk                 …                        |
+| Bowl constellation       …                          &ast;tapia                       …                        |
+| (Delphinus)                                                                                               |
+| Arcturus                 …                          &ast;aremoi                      …                        |
+| Corvus constellation     …                          PChk &ast;taropwolu              …                        |
+| Leo constellation        …                          PChk &ast;ici                    …                        |
+| Vega                     …                          PChk &ast;mul                    …                        |
+| Dip net constellation    …                          PChk &ast;caw                    …                        |
+| (Corona Borealis)                                                                                         |
+| stars in Ursa Major      …                          PChk &ast;wuleko                 …                        |
+| Equeleus constellation   …                          PChk &ast;tə̄(d,z)a              …                        |
+| Magellanic Clouds        …                          …                            &ast;maqafu                  |
+| Milky Way                …                          …                            &ast;kaniwa                  |
+| sky                      &ast;laŋit                     &ast;laŋi                        &ast;laŋi                    |
+| …                          &ast;kadawa ‘heavens’            …                                                 |
+| horizon                  …                          PChk &ast;pai-laŋi               &ast;tafa-qaki-laŋi          |
+| star path (that which    …                          …                            &ast;kaweiŋa                 |
+| is steered for)                                                                                           |
+| star rise                &ast;sake ‘to rise, upwards’   &ast;sake                        &ast;hake ‘upwards’          |
+| star set                 &ast;sipo ‘to go down,         &ast;tipwo                       &ast;hifo ‘downwards’        |
+| downwards’                                                                                                |
+| …                          &ast;zolo ‘to descend,           …                                                 |
+| disappear (below horizon)’                                                                                |
+| ocean swell              &ast;ŋalu(n) ‘wave, swell’     &ast;ŋalu ‘wave, swell’          &ast;ŋalu ‘wave’             |
+| wave, swell              &ast;bayau ‘ocean swell,       &ast;peau                        …                        |
+| whether breaking or not’                                                                                  |
+| lightning                &ast;lap(w)a(r,R)              …                            &ast;lapa ‘flash of light’   |
+| open sea                 &ast;masawa(n,ŋ)               &ast;masawa                      &ast;moana                   |
+| sea, salt water          &ast;tasik                     &ast;tasi                        &ast;tahi ‘shallow sea’      |
+| deep blue sea            &ast;laman                     …                            …                        |
+| current                  &ast;qaRus                     &ast;aus                         &ast;qau                     |
+| reef                     &ast;sakaRu                    &ast;sakau ‘reef, shoal,         &ast;hakau ‘coral reef’      |
+| reef island’                                                                                              |
 
 From the table, it can be seen that _&ast;manuk_ ‘bird’ and _&ast;tolu_ ‘three’ for Orion’s Belt, are the only star reconstructions with reflexes in both Polynesian and Micronesian languages. Success in reconstructing non-western constellation names has been almost entirely limited to Micronesia, with its descriptive names like PMic _&ast;kua_ ‘Dolphin constellation’, PMic _&ast;tapia_ ‘Bowl constellation’ and PChk _&ast;caw_ ‘Dip net constellation’. This may simply reflect the adequacy of our sources, with more star terms being included in Micronesian dictionaries than Polynesian, perhaps because the terms have been retained more recently in Micronesian memory. Makemson, my most consistently useful source for Polynesian star names, lists a number of Polynesian constellation names by their English translation and with western equivalents where they exist. They are The Seven (Big Dipper), the Darts (Orion’s Belt), the Wild Duck (Crux), the White Sea-swallow (Cygnus), the Pigeon-roost, the Birdsnare (Orion) and the Canoe of Tamarereti (Tail of the Scorpion) (1941:197–198). However, I have been unable to reconstruct any of these as PPn constellation names on linguistic evidence, and there is no evidence that the same images are used in Micronesian terms.
 

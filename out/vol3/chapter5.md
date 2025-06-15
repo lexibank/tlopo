@@ -351,7 +351,7 @@ No reconstruction can be made for another beach creeper, Canavalia rosea (syn. C
 '<span>gourd, Lagenaria siceraria</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>hue</i></td>
+<td>Pn</td><td>Māori</td><td><i>hue</i></td>
 <td>
 '<span>gourd, Lagenaria siceraria</span>'</td>
 </tr>
@@ -768,7 +768,7 @@ The term _&ast;jasi_ is reconstructed for PCEMP and POc (rather than PEOc, as th
 '<span>heartwood</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>tai(ki)</i></td>
+<td>Pn</td><td>Māori</td><td><i>tai(ki)</i></td>
 <td>
 '<span>heartwood</span>'</td>
 </tr>
@@ -1194,7 +1194,7 @@ The POc term for Hibiscus tiliaceus was _&ast;paRu_. Blust (ACD) suggests that i
 '<span>a forest tree growing near rivers, Agathis macrophylla</span>' (<span><em>leru</em> 'Hibiscus tiliaceus'</span>)</td>
 </tr>
 <tr>
-<td>TM</td><td>Aiwoo</td><td><i>(nuo)po</i></td>
+<td>TM</td><td>Äiwoo</td><td><i>(nuo)po</i></td>
 <td>
 '<span>Hibiscus tiliaceus</span>'</td>
 </tr>
@@ -1463,7 +1463,7 @@ The cognate set below contains a number of puzzles. It has just one Western Ocea
 '<span>Hibiscus tiliaceus</span>' (<span>metathesis</span>)</td>
 </tr>
 <tr>
-<td>NCV</td><td>Larevat</td><td><i>balgo</i></td>
+<td>NCV</td><td>Larëvat</td><td><i>balgo</i></td>
 <td>
 '<span>Hibiscus tiliaceus</span>' (<span>metathesis</span>)</td>
 </tr>
@@ -1483,7 +1483,7 @@ The cognate set below contains a number of puzzles. It has just one Western Ocea
 '<span>Hibiscus abelmoschus</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Nêlêmwa</td><td><i>paxela</i></td>
+<td>NCal</td><td>Nêlêmwâ</td><td><i>paxela</i></td>
 <td>
 '<span>Hibiscus abelmoschus</span>'</td>
 </tr>
@@ -1994,7 +1994,7 @@ Thespesia populnea is a tree typically 5-10 m and sometimes as much as 15m in he
 '<span>Thespesia populnea</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>miro</i></td>
+<td>Pn</td><td>Māori</td><td><i>miro</i></td>
 <td>
 '<span>tree sp., Podocarpus ferrugineus</span>'</td>
 </tr>
@@ -2084,7 +2084,7 @@ Reconstructing the PPn form from the cognate set below is tricky. There are two 
 '<span>Tournefortia argentea</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>tauhinu</i></td>
+<td>Pn</td><td>Māori</td><td><i>tauhinu</i></td>
 <td>
 '<span>shrub sp., Pomaderris phylicaefolia</span>'</td>
 </tr>
@@ -2786,7 +2786,7 @@ Figure 5.8: Barringtonia asiatica.
 '<span>Barringtonia asiatica</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Nêlêmwa</td><td><i>(haele)wot</i></td>
+<td>NCal</td><td>Nêlêmwâ</td><td><i>(haele)wot</i></td>
 <td>
 '<span>Barringtonia asiatica</span>'</td>
 </tr>
@@ -3072,7 +3072,7 @@ Other reconstructions glossed 'Calophyllum inophyllum' are Proto Meso-Melanesian
 '<span>Calophyllum inophyllum</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Nêlêmwa</td><td><i>fek</i></td>
+<td>NCal</td><td>Nêlêmwâ</td><td><i>fek</i></td>
 <td>
 '<span>Calophyllum inophyllum</span>'</td>
 </tr>
@@ -3415,7 +3415,7 @@ Although a number of the reflexes below are glossed Calophyllum inophyllum, the 
 '<span>Calophyllum inophyllum</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Nêlêmwa</td><td><i>fiiyo</i></td>
+<td>NCal</td><td>Nêlêmwâ</td><td><i>fiiyo</i></td>
 <td>
 '<span>Calophyllum caledonicum</span>'</td>
 </tr>
@@ -4388,7 +4388,7 @@ POc _&ast;buRat_ was apparently the specific term for Fagraea berteroana. Centra
 '<span>Fagraea schlechteri</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Nêlêmwa</td><td><i>buak</i></td>
+<td>NCal</td><td>Nêlêmwâ</td><td><i>buak</i></td>
 <td>
 '<span>Fagraea schlechteri</span>'</td>
 </tr>
@@ -4573,7 +4573,7 @@ POc _&ast;buRat_ was apparently the specific term for Fagraea berteroana. Centra
 '<span>Guettarda speciosa</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>puapua</i></td>
+<td>Pn</td><td>Māori</td><td><i>puapua</i></td>
 <td>
 '<span>a white-flowered climber, Clematis paniculata)</span>'</td>
 </tr>
@@ -5053,7 +5053,7 @@ Two forms denoting Pisonia species are reconstructable. POc _&ast;[a]nuliŋ_ may
 '<span>Albizia salomonensis</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Nêlêmwa</td><td><i>ôôli</i></td>
+<td>NCal</td><td>Nêlêmwâ</td><td><i>ôôli</i></td>
 <td>
 '<span>Pisonia grandis</span>'</td>
 </tr>
@@ -5268,7 +5268,7 @@ Two forms denoting Pisonia species are reconstructable. POc _&ast;[a]nuliŋ_ may
 '<span>Hernandia nymphaeifolia</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>puka</i></td>
+<td>Pn</td><td>Māori</td><td><i>puka</i></td>
 <td>
 '<span>Meryta sinclairii, Eugenia maire</span>'</td>
 </tr>
@@ -5303,7 +5303,7 @@ Two forms denoting Pisonia species are reconstructable. POc _&ast;[a]nuliŋ_ may
 '<span>large tree spp., Pisonia grandis, P. umbellifera</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>pukatea</i></td>
+<td>Pn</td><td>Māori</td><td><i>pukatea</i></td>
 <td>
 '<span>a large tree with white bark, Laurelia novaezelandiae</span>'</td>
 </tr>

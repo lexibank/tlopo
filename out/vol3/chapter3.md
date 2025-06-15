@@ -839,7 +839,7 @@ In Polynesian languages there has been a semantic shift and the reflexes of _&as
 '<span>tree, plant, wood, timber</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>rākau</i></td>
+<td>Pn</td><td>Māori</td><td><i>rākau</i></td>
 <td>
 '<span>tree; wood, timber; stick</span>'</td>
 </tr>
@@ -1268,7 +1268,7 @@ Evidence from non-Oceanic languages suggests that _&ast;lumut_ may have been the
 '<span>moss, lichen; k.o. seaweed</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Vures</td><td><i>lum-lum</i></td>
+<td>NCV</td><td>Vurës</td><td><i>lum-lum</i></td>
 <td>
 '<span>moss, seaweed, algae</span>' (<span>cf. motumtum 'soft, slow'</span>)</td>
 </tr>
@@ -1407,7 +1407,7 @@ Evidence from non-Oceanic languages suggests that _&ast;lumut_ may have been the
 '<span>a general name for all kinds of plants living under water, both fresh and salt, also algae living in any damp place in air, as on ground, on rocks and on other plants; also mosses, liverworts, lichens</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>rimu, rimu-rimu</i></td>
+<td>Pn</td><td>Māori</td><td><i>rimu, rimu-rimu</i></td>
 <td>
 '<span>seaweed; moss, mildew</span>'</td>
 </tr>
@@ -1557,12 +1557,12 @@ In a number of modern Oceanic languages the life-form term for mushrooms and oth
 '<span>Name given to several types of fungus, including Jew's-ear</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>tariŋa (rakau)</i></td>
+<td>Pn</td><td>Māori</td><td><i>tariŋa (rakau)</i></td>
 <td>
 '<span>a fungus</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>tariŋa (o tiakiwai)</i></td>
+<td>Pn</td><td>Māori</td><td><i>tariŋa (o tiakiwai)</i></td>
 <td>
 '<span>Jew's ear fungus, Auricularia auricula-judea</span>' (<span>Also called <em>tariŋa kuri</em> (dog), <em>tariŋa hakeke</em></span>)</td>
 </tr>

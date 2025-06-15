@@ -278,7 +278,7 @@ Three MM languages (Bulu, Kia and Roviana) reflect POc _&ast;q<in>uma_ <NOM> + '
 '<span>begin to be brush-covered, of a fallow garden</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>taru-taru</i></td>
+<td>Pn</td><td>Māori</td><td><i>taru-taru</i></td>
 <td>
 '<span>weeds, herbs</span>'</td>
 </tr>
@@ -420,7 +420,7 @@ The Mussau and Tolo reflexes mean 'garden': this change of meaning is probably d
 '<span>wilds, wilderness</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>wao</i></td>
+<td>Pn</td><td>Māori</td><td><i>wao</i></td>
 <td>
 '<span>forest</span>'</td>
 </tr>
@@ -622,7 +622,7 @@ In some Central Pacific languages, reflexes of _&ast;gʷele_ carry a similar ran
 '<span>earth, ground, dirt, land, soil, world</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>kere-</i></td>
+<td>Pn</td><td>Māori</td><td><i>kere-</i></td>
 <td>
 '<span>earth (in compounds only)</span>'</td>
 </tr>
@@ -924,7 +924,7 @@ cf. also:
 '<span>gather up in handfuls; clear up rubbish</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>koko</i></td>
+<td>Pn</td><td>Māori</td><td><i>koko</i></td>
 <td>
 '<span>scoop up</span>'</td>
 </tr>
@@ -1178,7 +1178,7 @@ Both _&ast;kali_ and _&ast;keli_ are reconstructable for POc, and both apparentl
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>kari</i></td>
+<td>Pn</td><td>Māori</td><td><i>kari</i></td>
 <td>
 '<span>dig for, dig up</span>'</td>
 </tr>
@@ -2535,11 +2535,29 @@ cf. also:
 
 Other terms are reflexes of POc _&ast;(su)suk-i_ 'pierce, sew' (Ch. 9, §4.1):
 
-```
- SES: Arosi               suʔi              'transplant, put in a seedling'
- NCV: Mota               sug               'dig up, transplant'
- Fij:  Bauan              ðuki              'dig up ground, loosen ground with a stick'
-```
+<table>
+<tr>
+<td>SES</td>
+<td>Arosi</td>
+<td><i>suʔi</i></td>
+<td>
+'<span>transplant, put in a seedling</span>'</td>
+</tr>
+<tr>
+<td>NCV</td>
+<td>Mota</td>
+<td><i>sug</i></td>
+<td>
+'<span>dig up, transplant</span>'</td>
+</tr>
+<tr>
+<td>Fij</td>
+<td>Bauan</td>
+<td><i>ðuki</i></td>
+<td>
+'<span>dig up ground, loosen ground with a stick</span>'</td>
+</tr>
+</table>
 
 <table>
 <tr>
@@ -2596,7 +2614,7 @@ Other terms are reflexes of POc _&ast;(su)suk-i_ 'pierce, sew' (Ch. 9, §4.1):
 '<span>bury, plant</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>tanumi(a)</i></td>
+<td>Pn</td><td>Māori</td><td><i>tanumi(a)</i></td>
 <td>
 '<span>bury</span>'</td>
 </tr>
@@ -3056,7 +3074,7 @@ cf. also:
 '<span>wither, of full-grown taro plants</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>paro</i></td>
+<td>Pn</td><td>Māori</td><td><i>paro</i></td>
 <td>
 '<span>shrunk, wilted</span>'</td>
 </tr>

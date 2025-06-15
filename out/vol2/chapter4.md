@@ -246,7 +246,7 @@ Four POc words denoting ‘sea’ have been reconstructed: _&ast;tasik_, _&ast;m
 '<span>sea, sea water, coast bordering the sea, tide</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>tai</i></td>
+<td>Pn</td><td>Māori</td><td><i>tai</i></td>
 <td>
 '<span>sea near shore, tide; shore as opposed to inland</span>'</td>
 </tr>
@@ -264,16 +264,64 @@ Four POc words denoting ‘sea’ have been reconstructed: _&ast;tasik_, _&ast;m
 
 In addition to these simple terms, a number of compound terms consisting of _&ast;tasik_ plus a modifier probably existed in POc, denoting conditions or defined areas of sea. Many contemporary languages possess such compounds. For example, Lau (SES) distinguishes the following compounds whose first element is _asi_ (< _&ast;tasik_).
 
-```
-         asiʔabua                        ‘deep blue sea’
-         asidalafa                       ‘open ocean’
-         asidaudau                       ‘open sea outside reef’
-         asifolā, asimae                 ‘sea within reef’
-         asimauri                        ‘sea outside reef’
-         asinamo                         ‘lagoon within reef’
-         asīle                           ‘where reef drops to deep water’
-         asirū                           ‘sea where there is no reef’
-```
+<table>
+<tr>
+<td>SES</td>
+<td>Lau</td>
+<td><i>asiʔabua</i></td>
+<td>
+'<span>deep blue sea</span>'</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>Lau</td>
+<td><i>asidalafa</i></td>
+<td>
+'<span>open ocean</span>'</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>Lau</td>
+<td><i>asidaudau</i></td>
+<td>
+'<span>open sea outside reef</span>'</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>Lau</td>
+<td><i>asifolā, asimae</i></td>
+<td>
+'<span>sea within reef</span>'</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>Lau</td>
+<td><i>asimauri</i></td>
+<td>
+'<span>sea outside reef</span>'</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>Lau</td>
+<td><i>asinamo</i></td>
+<td>
+'<span>lagoon within reef</span>'</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>Lau</td>
+<td><i>asīle</i></td>
+<td>
+'<span>where reef drops to deep water</span>'</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>Lau</td>
+<td><i>asirū</i></td>
+<td>
+'<span>sea where there is no reef</span>'</td>
+</tr>
+</table>
 
 In Polynesian languages reflexes of _&ast;tasik_ chiefly refer to the sea near the shore, the shallow coastal waters, while another term, PPn _&ast;moana_ (see below) has been adopted to refer to the open sea.
 
@@ -405,7 +453,7 @@ Polynesian languages reflect another term for ‘ocean’:
 '<span>sea, esp. deep sea, ocean, as distinct from inshore waters on and around reef</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>moana</i></td>
+<td>Pn</td><td>Māori</td><td><i>moana</i></td>
 <td>
 '<span>sea</span>'</td>
 </tr>
@@ -739,11 +787,29 @@ These compounds are echoed in Wayan (Fij) terms _wai mate_ ‘quiet sea’ and _
 
 In a number of languages, rough water is described by reflexes of POc &ast;saqat ‘bad’.
 
-```
- PT:  Kiriwina          (ipai)saga       ‘rough, of sea, weather’
- SES: ’Are’are          | āsi taʔa |     ‘rough sea’
- SES: Arosi             | asi taʔa |     ‘confused sea’
-```
+<table>
+<tr>
+<td>PT</td>
+<td>Kilivila</td>
+<td><i>(ipai)saga</i></td>
+<td>
+'<span>rough, of sea, weather</span>'</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>'Are'are</td>
+<td><i>āsi taʔa </i></td>
+<td>
+'<span>rough sea</span>'</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>Arosi</td>
+<td><i>asi taʔa </i></td>
+<td>
+'<span>confused sea</span>'</td>
+</tr>
+</table>
 
 
 <a id="s-2-3"></a>
@@ -827,7 +893,7 @@ Several terms denoting current or flow of water can be reconstructed for POc. Re
 '<span>current</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Nêlêmwa</td><td><i>aut</i></td>
+<td>NCal</td><td>Nêlêmwâ</td><td><i>aut</i></td>
 <td>
 '<span>wave, swell</span>'</td>
 </tr>
@@ -897,7 +963,7 @@ Several terms denoting current or flow of water can be reconstructed for POc. Re
 '<span>a current, as of a river or of the ocean; the wake of a boat or ship</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>au</i></td>
+<td>Pn</td><td>Māori</td><td><i>au</i></td>
 <td>
 '<span>current, wake of a canoe; rapid; whirlpool</span>'</td>
 </tr>
@@ -999,7 +1065,7 @@ The bare PAn verb _&ast;qañud_ ‘drift on a current, carried away by flowing w
 '<span>floating on water</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>mānu</i></td>
+<td>Pn</td><td>Māori</td><td><i>mānu</i></td>
 <td>
 '<span>float; be launched: so start, of an expedition by water; overflow; be flooded</span>'</td>
 </tr>
@@ -1401,7 +1467,7 @@ Reflexes of POc _&ast;ŋalu(n)_ in some languages refer to ocean waves in genera
 '<span>wave, swell (normally used as collective in singular)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>ŋaru</i></td>
+<td>Pn</td><td>Māori</td><td><i>ŋaru</i></td>
 <td>
 '<span>wave of the sea, corrugation</span>'</td>
 </tr>
@@ -1587,7 +1653,7 @@ cf. also:
 '<span>(waves etc.) pound against and wear away; flow over, as the tide</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>pari</i></td>
+<td>Pn</td><td>Māori</td><td><i>pari</i></td>
 <td>
 '<span>flowing, of tide; flow over s.t., of tide</span>'</td>
 </tr>
@@ -1606,15 +1672,15 @@ Blust (ACD) has reconstructed several forms denoting ‘foam’ for PAn and lowe
 
 <a id="p-101"></a>
 
-```
- PAn        &ast;buCaq         ‘foam, froth’
- PAn        &ast;puCaq         ‘foam, froth, lather’
- PMP        &ast;budaq         ‘foam, bubbles, lather, scum, froth’
- POc        &ast;puro          ‘foam, bubbles’
- PMP        &ast;busa          ‘foam’
- PAn        &ast;bujeq         ‘foam, bubbles, lather, scum, froth’
- PAn        &ast;bua           ‘foam, bubbles, froth’
-```
+|                                                                |
+|:---------------------------------------------------------------|
+| PAn        &ast;buCaq         ‘foam, froth’                        |
+| PAn        &ast;puCaq         ‘foam, froth, lather’                |
+| PMP        &ast;budaq         ‘foam, bubbles, lather, scum, froth’ |
+| POc        &ast;puro          ‘foam, bubbles’                      |
+| PMP        &ast;busa          ‘foam’                               |
+| PAn        &ast;bujeq         ‘foam, bubbles, lather, scum, froth’ |
+| PAn        &ast;bua           ‘foam, bubbles, froth’               |
 
 PAn _&ast;buCaq_ and _&ast;puCaq_ are to our knowledge not reflected in Oceanic languages (the expected POc reflexes of either would be _&ast;&ast;puta(q)_ and _&ast;&ast;buta(q)_). Of the other forms, PMP _&ast;budaq_ (POc _&ast;pura(q)_) and POc _&ast;puro_ are discussed in Chapter 3 (see p.61 and p.83 respectively), whilst PMP _&ast;busa_ and PAn _&ast;bujeq_ are referred to below. Blust’s reflexes of _&ast;bua_ are two from Taiwan, together with the Tolai and Maori reflexes that we prefer to attribute to PMP _&ast;busa_ (the expected Maori form is _&ast;&ast;puha_).
 
@@ -1666,7 +1732,7 @@ There is an additional formal complication, namely that PMP _&ast;bujeq_ seems t
 '<span>foam</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>pua</i></td>
+<td>Pn</td><td>Māori</td><td><i>pua</i></td>
 <td>
 '<span>foam of the sea; foaming, breaking</span>'</td>
 </tr>
@@ -2809,7 +2875,7 @@ POc _&ast;buŋa_ ‘smooth round coral’ is evidently derived from PMP _&ast;bu
 '<span>coral sp., lime, abrasive stone</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>puŋa-puŋa</i></td>
+<td>Pn</td><td>Māori</td><td><i>puŋa-puŋa</i></td>
 <td>
 '<span>pumice</span>'</td>
 </tr>
@@ -3134,17 +3200,71 @@ POc _&ast;oda_ ‘reef’ is widely reflected in Micronesian languages, but othe
 
 However, further evidence supporting oda as a term for ‘reef’ lies in two reconstructions made by Ross [Clark](../references.md#source-Clark1991) ([1991](../references.md#source-Clark1991)), POc _&ast;paŋ-oda_ ‘gather shellfish and other seafood on the reef’ and _&ast;p-in-aŋ-oda_ ‘shellfish, seafood gathered on the reef’ (where _&ast;paŋ-_ is the verbal suffix (underlying form _&ast;paN-_) and _-in-_ the noun-deriving infix discussed in vol. 1, p.29 and p.33 respectively). A selection of reflexes follows:
 
-```
- PT:  Motu                 haoda            (V) ‘fish’
- SES: Bugotu               vagoda           ‘hunt for shellfish on the reef’
- SES: Gela                 vaŋoda           ‘collect food on the reef; anything on the reef; gatherer of reef food’
- SES: Sa’a                 haŋoda           ‘haliotis (sea ear) used as bait for crayfish’
- NCV: Mota                 vaŋona           ‘catch fish with a line; get shellfish on the reef or in a canoe’
- NCV: Nguna                (pa)vagoda       ‘look for shellfish’
- NCV: Nguna                vinagoda         ‘shellfish’
- NCV: Lonwolwol            fogōr            ‘look for fish (on reef etc.)
- SV:  Anejom               a-haŋeþ          ‘forage on reef’
-```
+<table>
+<tr>
+<td>PT</td>
+<td>Motu</td>
+<td><i>haoda</i></td>
+<td>
+'<span>to fish</span>'; (V) '<span>fish</span>'</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>Bugotu</td>
+<td><i>vagoda</i></td>
+<td>
+'<span>hunt for shellfish on the reef</span>'</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>Gela</td>
+<td><i>vaŋoda</i></td>
+<td>
+(V) '<span>collect food on the reef.</span>'; (N) '<span>shellfish, crustaceans and echinoderms gathered on the reef</span>'; '<span>collect food on the reef; anything on the reef; gatherer of reef food</span>'</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>Sa'a</td>
+<td><i>haŋoda</i></td>
+<td>
+'<span>Haliotis, abalone</span>'; '<span>haliotis (sea ear) used as bait for crayfish</span>'</td>
+</tr>
+<tr>
+<td>NCV</td>
+<td>Mota</td>
+<td><i>vaŋona</i></td>
+<td>
+'<span>catch fish with a line, get shell-fish, etc. for a relish</span>'; '<span>catch fish with a line; get shellfish on the reef or in a canoe</span>'</td>
+</tr>
+<tr>
+<td>NCV</td>
+<td>Nguna</td>
+<td><i>(pa)vagoda</i></td>
+<td>
+'<span>look for shellfish</span>'</td>
+</tr>
+<tr>
+<td>NCV</td>
+<td>Nguna</td>
+<td><i>vinagoda</i></td>
+<td>
+'<span>shellfish</span>'</td>
+</tr>
+<tr>
+<td>NCV</td>
+<td>Lonwolwol</td>
+<td><i>fogōr</i></td>
+<td>
+'<span>look for fish (on reef etc.)</span>'</td>
+</tr>
+<tr>
+<td>SV</td>
+<td>Anejom</td>
+<td><i>a-haŋeč</i></td>
+<td>
+'<span>forage on reef</span>'</td>
+</tr>
+</table>
 
 
 <a id="p-111"></a>
@@ -3699,7 +3819,7 @@ Small deep holes are a feature of the reef flat, but the only reconstructable te
 '<span>lagoon</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>roto</i></td>
+<td>Pn</td><td>Māori</td><td><i>roto</i></td>
 <td>
 '<span>lake, pool</span>'</td>
 </tr>
@@ -3872,7 +3992,7 @@ The final nasal of _&ast;sawa(n,ŋ)_ is unexpected but attested in languages tha
 '<span>channel, passage (in the reef), gap</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>awa</i></td>
+<td>Pn</td><td>Māori</td><td><i>awa</i></td>
 <td>
 '<span>channel, landing place for canoes</span>'</td>
 </tr>

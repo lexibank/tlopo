@@ -163,7 +163,7 @@ The generic term for any kind of wearing down by friction was  POc _&ast;asa(q)_
 '<span>grater, grindstone</span>' (<span><em>i-</em> &lt; POc <em>*i-</em> INS</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>aha-aha</i></td>
+<td>Pn</td><td>Māori</td><td><i>aha-aha</i></td>
 <td>
 '<span>saw-like instrument of shark teeth set in a wooden mounting</span>'</td>
 </tr>
@@ -396,16 +396,16 @@ POc _&ast;karu(t)_, _&ast;karut-i-_ seems to have referred to scratching with fi
 
 <a id="p-238"></a>
 
-```
-1) POc &ast;kara(s), &ast;karas-i-         'peel or scrape (skin off tubers)
-   POc &ast;ko[r,Rja(s), &ast;ko[r,Rjas-i- 'scrape out (coconut meat +); dregs of strained coconut scrapings'
-2) POc &ast;kari(s), &ast;karis-i-         'scrape (tubers, coconuts)'
-   PEOc &ast;kori(s), &ast;koris-i-        'scrape (esp. coconuts), grate (esp. coconuts)'
-3) PEOc &ast;kaRi                      'scraper; bivalve sp., used as a scraper'
-   POc &ast;koRi[-]                    'scraper; bivalve sp., used as a scraper; scrape with a shell'
-4) POc &ast;kasi[-]                    'k.o. mussel, used as food scraper; scrape out or off'
-   POc &ast;kosi[-]                    'scrape, scratch (to mark s.t.)'
-```
+|                                                                                                    |
+|:---------------------------------------------------------------------------------------------------|
+| 1) POc &ast;kara(s), &ast;karas-i-         'peel or scrape (skin off tubers)                               |
+| POc &ast;ko[r,Rja(s), &ast;ko[r,Rjas-i- 'scrape out (coconut meat +); dregs of strained coconut scrapings' |
+| 2) POc &ast;kari(s), &ast;karis-i-         'scrape (tubers, coconuts)'                                     |
+| PEOc &ast;kori(s), &ast;koris-i-        'scrape (esp. coconuts), grate (esp. coconuts)'                    |
+| 3) PEOc &ast;kaRi                      'scraper; bivalve sp., used as a scraper'                       |
+| POc &ast;koRi[-]                    'scraper; bivalve sp., used as a scraper; scrape with a shell'     |
+| 4) POc &ast;kasi[-]                    'k.o. mussel, used as food scraper; scrape out or off'          |
+| POc &ast;kosi[-]                    'scrape, scratch (to mark s.t.)'                                   |
 
 However, it is notable that the reconstructions above form pairs which can be accounted for by a sporadic sound change whereby /a/ becomes /o/ after /k/ in many Oceanic languages, perhaps especially in frequently used words. This change occurs independently in different places, presumably through velarisation of the vowel. Thus in Chapter 6, §3.7, we find POc _&ast;kapu(t)_ and POc _&ast;kopu_, both reflecting PMP _&ast;kaput_ and referring to wrapping food for cooking, and in Chapter 6, §2.7, POc _&ast;kapit_ 'tongs' with Tongan and W. Futunan reflexes where the root is _kofi_ rather than _kafi_. In certain Papuan Tip languages the POc pronoun _&ast;kamiu_ 'you (PL)' is reflected with /o/ for _&ast;a_ (Iduna _omi_, Dobu _ʔomi_, Duau, Suau _komi_, Misima _komiu_). This implies that each pair may represent only one POc form, as shown below. We incorporate [Lichtenberk's](../references.md#source-Lichtenberk1994) ([1994](../references.md#source-Lichtenberk1994): 280-281) insight that these verbs differ according to whether the object is stuff scraped off (e.g. coconut meat) or the object of scraping (e.g. coconut shell):
 
@@ -985,11 +985,11 @@ cf. also:
 
 There are three other reconstructions which overlap semantically with those above. They are:
 
-```
-POc &ast;rasi[-]             'grate, scrape (tubers, coconuts); scratch'
-PEOc &ast;saqalo             'scrape, clean by scraping; rub smooth'
-PEOc &ast;paro(s), &ast;paros-i- 'chafe, of skin; scrape'
-```
+|                                                                      |
+|:---------------------------------------------------------------------|
+| POc &ast;rasi[-]             'grate, scrape (tubers, coconuts); scratch' |
+| PEOc &ast;saqalo             'scrape, clean by scraping; rub smooth'     |
+| PEOc &ast;paro(s), &ast;paros-i- 'chafe, of skin; scrape'                    |
 
 <table>
 <tr>
@@ -1091,7 +1091,7 @@ The two PEOc items below straddle the semantic divide between this section and t
 '<span>scrape pandanus leaves for making mats</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>hāro</i></td>
+<td>Pn</td><td>Māori</td><td><i>hāro</i></td>
 <td>
 '<span>remove outer skin of flax leaves by scraping with a shell, to scutch</span>'</td>
 </tr>
@@ -1144,12 +1144,12 @@ The two PEOc items below straddle the semantic divide between this section and t
 (V) '<span>file, saw, or rasp</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>faro, fa-faro</i></td>
+<td>Pn</td><td>Māori</td><td><i>faro, fa-faro</i></td>
 <td>
 '<span>scrape</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>faro-faro</i></td>
+<td>Pn</td><td>Māori</td><td><i>faro-faro</i></td>
 <td>
 '<span>scrape</span>'</td>
 </tr>
@@ -1577,7 +1577,7 @@ Of the verbs reconstructed below, POc _&ast;salap_ refers to the action performe
 '<span>brush lightly, stroke, smear</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>tahi</i></td>
+<td>Pn</td><td>Māori</td><td><i>tahi</i></td>
 <td>
 '<span>sweep</span>'</td>
 </tr>
@@ -1629,19 +1629,85 @@ Of the verbs reconstructed below, POc _&ast;salap_ refers to the action performe
 
 Prior to the introduction of steel blades, cutting of timber would have been achieved by stone axe or adze (replaced with Tridacna shell blade when suitable stone was unobtainable), and of softer materials by sharpened shell or piece of bamboo, or a piece of obsidian or flint. In some languages, terms for the implement serve as a base for various cutting activities. For instance, Iduna, a Papuan Tip language, has dozens of cutting terms which are compounds with _-tala-_ 'chop, cut (of tree, boat), shave (of beard), peck (with beak)" a reflex of POc _&ast;taRa(q)_ 'adze'. They include:
 
-```
-   -tala-kehi-            'cut small (of wood, with a knife)'
-   -tala-kelikeli-        'cut long grooves or scratches (with knife)'
-   -tala-kowa-            'take a cutting'
-   -tala-kʷaili-          'take leaf out (of coconut frond)'
-   -tala-kwane-kwane-     'cut one after another, chip at holding adze vertically'
-   -tala-Iukuwe-          'cut into'
-   -tala-muhu-muhu-       'cut into tiny pieces (of wood)'
-   -tala-bwa?e-bwa?e-     'chip round marks with sharp edge of knife'
-   -tala-dobo-            'break with knife (of food, wood)'
-   -tala-done-            'cut into'
-   -tala-golohi-          'cut off, chop off (branches), (cause to) tear by cutting'
-```
+<table>
+<tr>
+<td>PT</td>
+<td>Iduna</td>
+<td><i>-tala-kehi-</i></td>
+<td>
+'<span>cut small (of wood, with a knife)</span>'</td>
+</tr>
+<tr>
+<td>PT</td>
+<td>Iduna</td>
+<td><i>-tala-kelikeli-</i></td>
+<td>
+'<span>cut long grooves or scratches (with knife)</span>'</td>
+</tr>
+<tr>
+<td>PT</td>
+<td>Iduna</td>
+<td><i>-tala-kowa-</i></td>
+<td>
+'<span>take a cutting</span>'</td>
+</tr>
+<tr>
+<td>PT</td>
+<td>Iduna</td>
+<td><i>-tala-kʷaili-</i></td>
+<td>
+'<span>take leaf out (of coconut frond)</span>'</td>
+</tr>
+<tr>
+<td>PT</td>
+<td>Iduna</td>
+<td><i>-tala-kwane-kwane-</i></td>
+<td>
+'<span>cut one after another, chip at holding adze vertically</span>'</td>
+</tr>
+<tr>
+<td>PT</td>
+<td>Iduna</td>
+<td><i>-tala-Iukuwe-</i></td>
+<td>
+'<span>cut into</span>'</td>
+</tr>
+<tr>
+<td>PT</td>
+<td>Iduna</td>
+<td><i>-tala-muhu-muhu-</i></td>
+<td>
+'<span>cut into tiny pieces (of wood)</span>'</td>
+</tr>
+<tr>
+<td>PT</td>
+<td>Iduna</td>
+<td><i>-tala-bwa?e-bwa?e-</i></td>
+<td>
+'<span>chip round marks with sharp edge of knife</span>'</td>
+</tr>
+<tr>
+<td>PT</td>
+<td>Iduna</td>
+<td><i>-tala-dobo-</i></td>
+<td>
+'<span>break with knife (of food, wood)</span>'</td>
+</tr>
+<tr>
+<td>PT</td>
+<td>Iduna</td>
+<td><i>-tala-done-</i></td>
+<td>
+'<span>cut into</span>'</td>
+</tr>
+<tr>
+<td>PT</td>
+<td>Iduna</td>
+<td><i>-tala-golohi-</i></td>
+<td>
+'<span>cut off, chop off (branches), (cause to) tear by cutting</span>'</td>
+</tr>
+</table>
 
 The evidence suggests that _&ast;taRa(q)_ 'adze' already had a corresponding verb _&ast;taRaq-i-_, in POc.
 
@@ -1883,18 +1949,18 @@ There are a large number of reconstruct able POc terms for 'cut' (and many more 
 
 A number of verbs referring to cutting something off or severing it can be reconstructed. In some cases it is reasonably clear that they were distinguished by the kinds of object which were cut. In other cases it is difficult to reconstruct semantic distinctions. Reconstructable verbs are:
 
-```
-POc  &ast;utu(s), &ast;utus-i-           'sever, separate'
-POc  &ast;kutu[-]                    'cut'
-POc  &ast;ma-utus, &ast;motus            'become, be broken off, severed'
-POc  &ast;muju                       'be clipped off'
-POc  &ast;mujuki-                    'clip off (protruding growth close to the surface)'
-POc  &ast;koti[-]                    'cut off (hair, taro tops +)'
-POc  &ast;paRi[-]                    'cut or lop off branches'
-POc  &ast;pwuti[-]                   'cut off'
-POc  &ast;siba                       'cut, slice'
-PEOc &ast;polos, &ast;polos-i            'cut across, sever'
-```
+|                                                                                      |
+|:-------------------------------------------------------------------------------------|
+| POc  &ast;utu(s), &ast;utus-i-           'sever, separate'                                   |
+| POc  &ast;kutu[-]                    'cut'                                               |
+| POc  &ast;ma-utus, &ast;motus            'become, be broken off, severed'                    |
+| POc  &ast;muju                       'be clipped off'                                    |
+| POc  &ast;mujuki-                    'clip off (protruding growth close to the surface)' |
+| POc  &ast;koti[-]                    'cut off (hair, taro tops +)'                       |
+| POc  &ast;paRi[-]                    'cut or lop off branches'                           |
+| POc  &ast;pwuti[-]                   'cut off'                                           |
+| POc  &ast;siba                       'cut, slice'                                        |
+| PEOc &ast;polos, &ast;polos-i            'cut across, sever'                                 |
 
 
 <a id="p-247"></a>
@@ -2148,12 +2214,36 @@ In the following set, the occurrence of stative perfective glosses like 'torn', 
 
 Note that the Malaita-Makira languages of SES have formed a new transitive verb _&ast;motus-i-_ 'break off' from the intransitive _&ast;ma-utus_:
 
-```
-   SES: Longgu      mousi-            'cut, break, pull in two; cut clean away, cut right off'
-   SES: Sa'a        mousi             (VT) 'break off'
-   SES: Arosi       mosi              'break'
-   SES: Lau         mūsi              (VT) 'tear, tear off, separate, sever, cut or break off'
-```
+<table>
+<tr>
+<td>SES</td>
+<td>Longgu</td>
+<td><i>mousi-</i></td>
+<td>
+'<span>cut, break, pull in two; cut clean away, cut right off</span>'</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>Sa'a</td>
+<td><i>mousi</i></td>
+<td>
+(VT) '<span>break off</span>'</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>Arosi</td>
+<td><i>mosi</i></td>
+<td>
+'<span>break</span>'</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>Lau</td>
+<td><i>mūsi</i></td>
+<td>
+(VT) '<span>tear, tear off, separate, sever, cut or break off</span>'</td>
+</tr>
+</table>
 
 Although the forms attributed to POc _&ast;muju_ 'be terminated' look remarkably similar to those attributed to &ast;ma-utus, the differences in form and meaning are consistent enough to require a separate reconstruction:
 
@@ -2674,7 +2764,7 @@ The reconstructions below are separated from those of splitting in §3.8largely 
 '<span>adze, axe</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>toki</i></td>
+<td>Pn</td><td>Māori</td><td><i>toki</i></td>
 <td>
 '<span>adze, axe</span>'</td>
 </tr>
@@ -2897,7 +2987,7 @@ The two items below, POc _&ast;taba(s)_, _&ast;taba(s)-i-_ 'cut' and POc _&ast;t
 '<span>cleave apart, sunder, cut</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>tapahi</i></td>
+<td>Pn</td><td>Māori</td><td><i>tapahi</i></td>
 <td>
 '<span>cut, chop</span>'</td>
 </tr>
@@ -3586,7 +3676,7 @@ For similar unexplained fronting of the vowel in Central Pacific languages see a
 '<span>scrape</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>tahi</i></td>
+<td>Pn</td><td>Māori</td><td><i>tahi</i></td>
 <td>
 '<span>trim wood</span>'</td>
 </tr>
@@ -3885,7 +3975,7 @@ Of the Polynesian reflexes, we have, on grounds of meaning, attributed Rennelles
 '<span>peel off in long thin strips</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>ihi</i></td>
+<td>Pn</td><td>Māori</td><td><i>ihi</i></td>
 <td>
 '<span>split, divide; separate; strip bark off a tree</span>'</td>
 </tr>
@@ -4839,7 +4929,7 @@ Verbs of tearing refer basically to forcible separation.
 '<span>tear, strip, as bark</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>hae</i></td>
+<td>Pn</td><td>Māori</td><td><i>hae</i></td>
 <td>
 '<span>slit</span>'</td>
 </tr>
@@ -4975,14 +5065,14 @@ cf. also:
 
 The terms listed below entail formal and semantic overlaps to a seemingly embarassing degree. However, there is evidence that all these terms occurred in POc: _&ast;(su)suRi_ and _&ast;s(u,i)ri_, for example, are supported by the existence of contrasting reflexes in Mussau, _sui_ and _suli_. Reflexes of the first three are used to refer to sewing, but the POc verb which specifically referred to that activity was none of these, but _&ast;saqit_ (Ch.4, §3.2.1). POc _&ast;(su)suRi_ and POc _&ast;sua_ referred respectively to a bone needle (Ch.4, §3.2.1) and a spear (Ch. 8, §9), but are included here because of their verbal uses and their potential for confusion with the other terms.
 
-```
-POc       &ast;(su)su(k)        'anything used to pierce, prick; (V) pierce, prick, sew'; &ast;suki- 'pierce, prick, sew (mats)'
-POc       &ast;tuRi[-]          'sew, thread, string together'
-POc       &ast;(su)suRi[-]      'bone (needle); sew'
-POc       &ast;s(u,i)ri[-]      'pierce, poke' ([Blust 1998b](../references.md#source-Blust1998b))
-POc       &ast;soka, soka-i-    (V) 'pierce; stab, poke hole in (s.t.)'
-POc       &ast;sua              (N, v) 'spear (weapon retained in the hand)'
-```
+|                                                                                                                          |
+|:-------------------------------------------------------------------------------------------------------------------------|
+| POc       &ast;(su)su(k)        'anything used to pierce, prick; (V) pierce, prick, sew'; &ast;suki- 'pierce, prick, sew (mats)' |
+| POc       &ast;tuRi[-]          'sew, thread, string together'                                                               |
+| POc       &ast;(su)suRi[-]      'bone (needle); sew'                                                                         |
+| POc       &ast;s(u,i)ri[-]      'pierce, poke' ([Blust 1998b](../references.md#source-Blust1998b))                                                                 |
+| POc       &ast;soka, soka-i-    (V) 'pierce; stab, poke hole in (s.t.)'                                                      |
+| POc       &ast;sua              (N, v) 'spear (weapon retained in the hand)'                                                 |
 
 <table>
 <tr>
@@ -5422,7 +5512,7 @@ POc       &ast;sua              (N, v) 'spear (weapon retained in the hand)'
 '<span>pierce</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>hoka</i></td>
+<td>Pn</td><td>Māori</td><td><i>hoka</i></td>
 <td>
 '<span>pierce</span>'</td>
 </tr>
@@ -5499,13 +5589,13 @@ Drilling or boring was performed by rotating a harder implement, e.g. one with a
 
 <a id="p-266"></a>
 
-```
-POc     &ast;puru(k), &ast;puruk-i- 'pierce, bore (hole)'
-POc     &ast;buru[-]            'pierce, bore (hole), drill'
-PWOc    &ast;bʷaR(i,e)[-]       'pierce, bore (hole)'
-POc (?) &ast;paRo[-]            'drill through, pierce, perforate'
-POc     &ast;wiri(t)            'twist, turn, revolve' (see §8 for supporting evidence)
-```
+|                                                                                     |
+|:------------------------------------------------------------------------------------|
+| POc     &ast;puru(k), &ast;puruk-i- 'pierce, bore (hole)'                                   |
+| POc     &ast;buru[-]            'pierce, bore (hole), drill'                            |
+| PWOc    &ast;bʷaR(i,e)[-]       'pierce, bore (hole)'                                   |
+| POc (?) &ast;paRo[-]            'drill through, pierce, perforate'                      |
+| POc     &ast;wiri(t)            'twist, turn, revolve' (see §8 for supporting evidence) |
 
 None of the first three reconstructions is particularly well supported by the evidence, and their formal similarity leaves us questioning whether there is a derivational relationship between them. However, the evidence does not at this stage allow us to combine them. They all refer to actions which entail turning an instrument in order to make a hole.
 
@@ -5728,7 +5818,7 @@ The following item may be reconstructable only for PEOc. The two WOc items have 
 '<span>bore hole in s.t.</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>fao</i></td>
+<td>Pn</td><td>Māori</td><td><i>fao</i></td>
 <td>
 '<span>perforate, chisel out</span>'</td>
 </tr>
@@ -5750,20 +5840,20 @@ The following item may be reconstructable only for PEOc. The two WOc items have 
 
 A number of terms for hitting are reconstructable, with meanings which vary particularly according to the manner of hitting, like English _clout_, _slap_, _punch_, _pound_, _knock_ and so on:
 
-```
-POc &ast;punu(q), &ast;punuq-i-               'hit, strike, fight, kill'
-POc &ast;qubu, &ast;qubʷi-                    'hit with fist or with a weapon'
-POc &ast;rapu(t), &ast;raput-i-               'hit with hand or stick, slash'
-POc &ast;tutuk, &ast;tuki[-]                  'pound, mash by pounding, hammer, crack by hammering'
-POc &ast;putu(k) and &ast;butu(k), &ast;butuk-i-  'repeatedly knock, pound, beat'
-POc &ast;qatu(ŋ), &ast;qatuŋ-i-               'strike from above, pound'
-POc &ast;babak, &ast;baki[ -]                 'strike one against another, knock'
-POc &ast;tupu, &ast;tupu-i-                   'knock against, knock over, stub (toe), stumble against'
-POc &ast;pʷasa(r,R), &ast;pʷasa(r,R)-i-       'slap, hit'
-PWOc &ast;sapu[-]                         'hit'
-PCP &ast;sau, &ast;sauti-                     'strike, beat, chop'
-PCP &ast;(v,b)asu                         'a drum '; (V) 'drum, thump'
-```
+|                                                                                                |
+|:-----------------------------------------------------------------------------------------------|
+| POc &ast;punu(q), &ast;punuq-i-               'hit, strike, fight, kill'                               |
+| POc &ast;qubu, &ast;qubʷi-                    'hit with fist or with a weapon'                         |
+| POc &ast;rapu(t), &ast;raput-i-               'hit with hand or stick, slash'                          |
+| POc &ast;tutuk, &ast;tuki[-]                  'pound, mash by pounding, hammer, crack by hammering'    |
+| POc &ast;putu(k) and &ast;butu(k), &ast;butuk-i-  'repeatedly knock, pound, beat'                          |
+| POc &ast;qatu(ŋ), &ast;qatuŋ-i-               'strike from above, pound'                               |
+| POc &ast;babak, &ast;baki[ -]                 'strike one against another, knock'                      |
+| POc &ast;tupu, &ast;tupu-i-                   'knock against, knock over, stub (toe), stumble against' |
+| POc &ast;pʷasa(r,R), &ast;pʷasa(r,R)-i-       'slap, hit'                                              |
+| PWOc &ast;sapu[-]                         'hit'                                                    |
+| PCP &ast;sau, &ast;sauti-                     'strike, beat, chop'                                     |
+| PCP &ast;(v,b)asu                         'a drum '; (V) 'drum, thump'                             |
 
 The most general term for 'hit' in POc was _&ast;punuq_, _&ast;punuq-i-_, often used for striking another person, sometimes with the extended meaning of fighting and/or killing them. Reflexes of _&ast;qubu_, _&ast;qubu-i-_ and POc _&ast;Ra(p,b)u(s)_, _&ast;Ra(p,b)us-i-_ appear in very similar contexts to those of _&ast;punuq_, _&ast;punuq-i-_, but there is some evidence that _&ast;qubu_, _&ast;qubu-i-_ may have referred to striking with the fist or a weapon and better evidence that _&ast;Ra(p,b)u(s)_, _&ast;Ra(p,b)us-i-_ referred to striking hard with the hand or with a stick.
 
@@ -6177,7 +6267,7 @@ The morphological relationship between intransitive &ast;qubu and transitive _&a
 '<span>kneaded, mixed to a pulp; earth, dirt</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>rapu</i></td>
+<td>Pn</td><td>Māori</td><td><i>rapu</i></td>
 <td>
 '<span>squeeze (in working food to a pulp)</span>'</td>
 </tr>
@@ -6999,7 +7089,7 @@ The final item is reconstructable only for PCP and appears to be derived from a 
 '<span>drum</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>pahu(u)</i></td>
+<td>Pn</td><td>Māori</td><td><i>pahu(u)</i></td>
 <td>
 '<span>wooden gong</span>'</td>
 </tr>
@@ -7020,13 +7110,13 @@ The first two reconstructions below, POc _&ast;pʷosa(k)_, _&ast;pʷosak-i-_ and
 
 The remaining verbs in this subsection all appear to have been used transitively, with an agent subject and a patient object. It is possible that the forms without final _&ast;-i-_ were used intransitively with the patient (rather than the agent) as their subject. That is, they meant 'break spontaneously' or 'be broken', belonging to the neutral verb class (Ch. 2, §3.1.1).
 
-```
-POc &ast;pita(k), &ast;pitak-i-     'break, split'
-POc &ast;piti(k), &ast;pitik-i-     '(crack)'
-POc &ast;pu(q)a(R), &ast;pu(q)aR-i- 'break (s.t. hard), smash'
-PEOc &ast;pora(k), &ast;porak-i-    'break, damage'
-POc &ast;rabo(k)                'break, smash'
-```
+|                                                        |
+|:-------------------------------------------------------|
+| POc &ast;pita(k), &ast;pitak-i-     'break, split'             |
+| POc &ast;piti(k), &ast;pitik-i-     '(crack)'                  |
+| POc &ast;pu(q)a(R), &ast;pu(q)aR-i- 'break (s.t. hard), smash' |
+| PEOc &ast;pora(k), &ast;porak-i-    'break, damage'            |
+| POc &ast;rabo(k)                'break, smash'             |
 
 <table>
 <tr>
@@ -7610,20 +7700,20 @@ cf. also:
 
 The verbs reconstructed in this subsection fall into two formal and semantic sets, according to the PAn roots they reflect. Thus the first set reflects the PAn root _&ast;-buC_ 'weed, pull, pluck out' (Ch. 2, §3.1.3):
 
-```
-POc &ast;pupu(t), &ast;puti                'pick (fruit +), pluck (feathers +)'
-POc &ast;sapu(t), &ast;saput-i-            'pull out, pull up, pluck (fruit, nuts)'
-POc &ast;tapu(t), &ast;taput-i             'strip (crops), pull off'
-```
+|                                                                             |
+|:----------------------------------------------------------------------------|
+| POc &ast;pupu(t), &ast;puti                'pick (fruit +), pluck (feathers +)'     |
+| POc &ast;sapu(t), &ast;saput-i-            'pull out, pull up, pluck (fruit, nuts)' |
+| POc &ast;tapu(t), &ast;taput-i             'strip (crops), pull off'                |
 
 PPn _&ast;lohu_ 'fruit-plucking pole, hook something with a pole' ([Biggs 1993](../references.md#source-Biggs1993)), probably also reflects PAn _&ast;-buC_ via an otherwise unattested POc _&ast;&ast;loput_.
 
 The second set also seems to reflect a single PAn root, namely _&ast;-pak_ 'break, crack, split', although their POc meanings both refer to plucking leaves off a branch by hand. POc _&ast;paki_ has only Fijian and Polynesian reflexes, but is reconstructed for POc on the basis of the reconstructable PAn root:
 
-```
-POc &ast;sapaki                        'pluck off, break off (leaves) with the hand'
-POc &ast;paki                          'pluck, break off (leaves) with the hand'
-```
+|                                                                                  |
+|:---------------------------------------------------------------------------------|
+| POc &ast;sapaki                        'pluck off, break off (leaves) with the hand' |
+| POc &ast;paki                          'pluck, break off (leaves) with the hand'     |
 
 <table>
 <tr>
@@ -8352,7 +8442,7 @@ cf. also:
 '<span>pinch with nails, nip</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>kini</i></td>
+<td>Pn</td><td>Māori</td><td><i>kini</i></td>
 <td>
 '<span>nip, pinch</span>'</td>
 </tr>
@@ -8556,16 +8646,16 @@ The verb below appears to be derived from a noun PMP/POc _&ast;kawit_ 'hook '. T
 
 POc evidently had a substantial number of verbs used of squeezing or wringing something to extract liquid. The substance to which this probably applied with the greatest frequency was grated coconut which had been soaked in water, from which coconut 'cream' is extracted by squeezing. The last two items listed here referred to squeezing something by holding it tight. There are several formal overlaps among the items in this section, and these are discussed below.
 
-```
-POc &ast;(p,pʷ)i(p,pʷ)i(t), &ast;(p,pʷ)iti- 'press, wring, squeeze s.t. (e.g. in order to extract liquid)'
-POc &ast;popo(s), &ast;pos-i-            'squeeze, press out'
-PNNG &ast;(p,pʷ)isa(k), &ast;(p,pʷ)isak-i- 'squeeze (grated coconut +)'
-POc &ast;poRo(s), &ast;poRos-i           'squeeze out, wring out (liquid)'
-POc &ast;momo(s)                     'squeeze'
-POc &ast;losi(t)                         'squeeze, wring'
-PEOc &ast;gugu(m), &ast;gumi-                'grasp in fist, clench fist'
-POc &ast;gumu(t), &ast;gumut-i-              'hold tight'
-```
+|                                                                                                    |
+|:---------------------------------------------------------------------------------------------------|
+| POc &ast;(p,pʷ)i(p,pʷ)i(t), &ast;(p,pʷ)iti- 'press, wring, squeeze s.t. (e.g. in order to extract liquid)' |
+| POc &ast;popo(s), &ast;pos-i-            'squeeze, press out'                                              |
+| PNNG &ast;(p,pʷ)isa(k), &ast;(p,pʷ)isak-i- 'squeeze (grated coconut +)'                                    |
+| POc &ast;poRo(s), &ast;poRos-i           'squeeze out, wring out (liquid)'                                 |
+| POc &ast;momo(s)                     'squeeze'                                                         |
+| POc &ast;losi(t)                         'squeeze, wring'                                              |
+| PEOc &ast;gugu(m), &ast;gumi-                'grasp in fist, clench fist'                                  |
+| POc &ast;gumu(t), &ast;gumut-i-              'hold tight'                                                  |
 
 
 <a id="p-282"></a>
@@ -9015,13 +9105,43 @@ cf. also:
 
 It seems likely that in some languages reflexes of POc _&ast;poRo(s)_ 'squeeze out, wring out (liquid) and POc _&ast;piro[-]_ 'twist together' or PEOc _&ast;pilo(s)_, _&ast;pilos-i-_ 'make a cord by twisting fibres on the thigh' have been conflated. Thus the items below have meanings usually associated with reflexes of _&ast;poRo(s)_ but their forms reflect _&ast;piro_ or _&ast;pilo(s)_, _&ast;pilos-i-_:
 
-```
-   PT:    Iduna         vilo-             'twist, wring (of clothes)'
-   SES:   Kwaio         filo, filo-       'squeeze, wring'
-   SES:   'Are'are      hirosi            'wring, twist, roll'
-   Fij:   Wayan         vilo              'be squeezed and strained through a cloth, as in preparing kava or coconut cream; be wrung out, dried by wringing with the hands'
-   Fij:   Wayan         vilooi-           'squeeze and strain s.t.; wring out wet clothes'
-```
+<table>
+<tr>
+<td>PT</td>
+<td>Iduna</td>
+<td><i>vilo-</i></td>
+<td>
+'<span>twist, wring (of clothes)</span>'</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>Kwaio</td>
+<td><i>filo, filo-</i></td>
+<td>
+'<span>squeeze, wring</span>'</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>'Are'are</td>
+<td><i>hirosi</i></td>
+<td>
+'<span>wring, twist, roll</span>'</td>
+</tr>
+<tr>
+<td>Fij</td>
+<td>Wayan</td>
+<td><i>vilo</i></td>
+<td>
+'<span>be squeezed and strained through a cloth, as in preparing kava or coconut cream; be wrung out, dried by wringing with the hands</span>'</td>
+</tr>
+<tr>
+<td>Fij</td>
+<td>Wayan</td>
+<td><i>vilooi-</i></td>
+<td>
+'<span>squeeze and strain s.t.; wring out wet clothes</span>'</td>
+</tr>
+</table>
 
 Note that the reflexes of _&ast;poRos-i-_ above are all WOc, whilst those of _&ast;pilos-i-_ are EOc. This distribution suggests that conflation occurred in PEOc, with reflexes of POc _&ast;piro[-]_ 'twist together' and POc _&ast;poRo(s)_ 'squeeze out, wring out (liquid) becoming conflated both formally and semantically, giving rise to _pilos-i-_ in place of _&ast;poRos-i-_.
 
@@ -9264,7 +9384,7 @@ The vowel is also 'wrong' (except perhaps in the Arosi reflex) in the pair below
 '<span>express, wring out</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>kumu-, kumuti-</i></td>
+<td>Pn</td><td>Māori</td><td><i>kumu-, kumuti-</i></td>
 <td>
 '<span>clench, close (as hand), carry in the hand; hold breath</span>'</td>
 </tr>
@@ -9283,13 +9403,13 @@ The vowel is also 'wrong' (except perhaps in the Arosi reflex) in the pair below
 
 The verbs in this section have to do with twisting, plaiting and braiding in general, and more specifically with twisting or rolling fibres to make various kinds of string or cord. The reflexes of some of these verbs overlap in their semantics with those in §7. Other verbs are used of plaiting and weaving to make artefacts such as mats and baskets. They are the following, presented in Chapter 4, §3.2:
 
-```
-POc       &ast;patu(R), &ast;patuR-i- 'tie, plait, weave (mats, baskets +)'
-POc       &ast;aiia               'woven, braided'
-POc       &ast;paus, &ast;paus-i-     'weave, plait'
-POc       &ast;tiki[-] (V)        'plait (mat +)' (ACD)
-POc       &ast;pai                'weave'
-```
+|                                                                     |
+|:--------------------------------------------------------------------|
+| POc       &ast;patu(R), &ast;patuR-i- 'tie, plait, weave (mats, baskets +)' |
+| POc       &ast;aiia               'woven, braided'                      |
+| POc       &ast;paus, &ast;paus-i-     'weave, plait'                        |
+| POc       &ast;tiki[-] (V)        'plait (mat +)' (ACD)                 |
+| POc       &ast;pai                'weave'                               |
 
 <table>
 <tr>
@@ -9695,7 +9815,7 @@ cf. also:
 <td>Sa'a</td>
 <td><i>pulo</i></td>
 <td>
-'<span>turn over, twist</span>'</td>
+(VI) '<span>reach, turn back, return</span>'; '<span>turn over, twist</span>'</td>
 </tr>
 </table>
 
@@ -9741,7 +9861,7 @@ An unrelated PPn term has been reconstructed for the same process, _&ast;amo_ 'p
 '<span>thread</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>roi(roki)</i></td>
+<td>Pn</td><td>Māori</td><td><i>roi(roki)</i></td>
 <td>
 '<span>secured, tied up; knot, bind</span>'</td>
 </tr>
@@ -9899,7 +10019,7 @@ An unrelated PPn term has been reconstructed for the same process, _&ast;amo_ 'p
 '<span>pat</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>pōpō</i></td>
+<td>Pn</td><td>Māori</td><td><i>pōpō</i></td>
 <td>
 '<span>pat with hand, soothe</span>'</td>
 </tr>
@@ -10058,7 +10178,7 @@ The term below bears a formal and semantic resemblance to POc &ast;piri 'twist' 
 '<span>(of thread, top, coin +) spin; drill; revolve, rotate</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>wiri</i></td>
+<td>Pn</td><td>Māori</td><td><i>wiri</i></td>
 <td>
 '<span>bore, twist; gimlet, auger</span>'</td>
 </tr>
@@ -10150,7 +10270,7 @@ The term below bears a formal and semantic resemblance to POc &ast;piri 'twist' 
 '<span>be bent, curved</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>roku</i></td>
+<td>Pn</td><td>Māori</td><td><i>roku</i></td>
 <td>
 '<span>bend; to be weighed down</span>'</td>
 </tr>
@@ -10363,7 +10483,7 @@ The verb POc _&ast;pʷita_ 'tie by encircling' was evidently used of tying a cor
 '<span>(garments) be too tight</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>ɸita</i></td>
+<td>Pn</td><td>Māori</td><td><i>ɸita</i></td>
 <td>
 '<span>firm, secure, fast</span>'</td>
 </tr>
@@ -11035,7 +11155,7 @@ cf. also:
 '<span>be set alight</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>tuŋi</i></td>
+<td>Pn</td><td>Māori</td><td><i>tuŋi</i></td>
 <td>
 '<span>set light to</span>'</td>
 </tr>

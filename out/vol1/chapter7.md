@@ -310,11 +310,29 @@ The primary sense of POc _&ast;waga_ was perhaps 'large sailing canoe' in contra
 
 Cognates belonging to the set above are sometimes placed together with forms listed below:
 
-```
-    WMP: Malay       waŋkaŋ         'Chinese junk'
-    WMP: Javanese    waŋkaŋ         'Chinese junk'
-    WMP: Ngaju Dayak vaŋkaŋ         'Chinese junk'
-```
+<table>
+<tr>
+<td>None</td>
+<td>Malay</td>
+<td><i>waŋkaŋ</i></td>
+<td>
+'<span>Chinese junk</span>'</td>
+</tr>
+<tr>
+<td>None</td>
+<td>Javanese</td>
+<td><i>waŋkaŋ</i></td>
+<td>
+'<span>Chinese junk</span>'</td>
+</tr>
+<tr>
+<td>WMP</td>
+<td>Ngaju Dayak</td>
+<td><i>vaŋkaŋ</i></td>
+<td>
+'<span>Chinese junk</span>'</td>
+</tr>
+</table>
 
 
 <a id="p-179"></a>
@@ -725,7 +743,7 @@ No term for double canoe can safely be reconstructed for any very early Austrone
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>hourua</i></td>
+<td>Pn</td><td>Māori</td><td><i>hourua</i></td>
 <td>
 </td>
 </tr>
@@ -976,10 +994,22 @@ A possible cognate occurs in a single Western Oceanic language, Mekeo of the Cen
 
 [Chowning](../references.md#source-Chowning1985) ([1985](../references.md#source-Chowning1985): 59) gives the following as possible cognates, although the final vowel is problematic:
 
-```
-  NNG: Kove                laye               'raft'
-  MM:  Nakanai             lage               'raft'
-```
+<table>
+<tr>
+<td>NNG</td>
+<td>Kove</td>
+<td><i>laye</i></td>
+<td>
+'<span>raft</span>'</td>
+</tr>
+<tr>
+<td>MM</td>
+<td>Nakanai</td>
+<td><i>lage</i></td>
+<td>
+'<span>raft</span>'</td>
+</tr>
+</table>
 
 
 <a id="p-185"></a>
@@ -1164,7 +1194,7 @@ PMP _&ast;papan_ evidently referred to any plank or board (see Ch. 3, §3. S). I
 '<span>top strake, gunwale</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>oa</i></td>
+<td>Pn</td><td>Māori</td><td><i>oa</i></td>
 <td>
 '<span>side boards of a canoe</span>'</td>
 </tr>
@@ -1299,7 +1329,7 @@ There is no well-supported PMP reconstruction for 'dugout underbody of canoe (to
 '<span>dugout underbody when washstrakes are present</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>takere</i></td>
+<td>Pn</td><td>Māori</td><td><i>takere</i></td>
 <td>
 </td>
 </tr>
@@ -1358,7 +1388,7 @@ A PPn term for 'bilge, interior of hull' is well supported but cognates have not
 '<span>inside of a container; bilge of a canoe</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>riu</i></td>
+<td>Pn</td><td>Māori</td><td><i>riu</i></td>
 <td>
 '<span>bilge, valley, basin</span>'</td>
 </tr>
@@ -1540,7 +1570,7 @@ In many regions of Oceania larger canoes are constructed with a projecting headb
 '<span>projecting headboard</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>ihu (waka)</i></td>
+<td>Pn</td><td>Māori</td><td><i>ihu (waka)</i></td>
 <td>
 '<span>carved figurehead on prow</span>'</td>
 </tr>
@@ -1653,12 +1683,12 @@ While outrigger canoes with simple dugout hull are suitable for inshore sailing,
 '<span>stern</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>tau(-rapa)</i></td>
+<td>Pn</td><td>Māori</td><td><i>tau(-rapa)</i></td>
 <td>
 '<span>carved end-piece affixed to stern</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>tau(-ihu)</i></td>
+<td>Pn</td><td>Māori</td><td><i>tau(-ihu)</i></td>
 <td>
 '<span>carved figurehead affixed to prow</span>'</td>
 </tr>
@@ -2358,7 +2388,7 @@ A PMP term for 'sail' (the object) is continued in all the major subgroups:
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>rā</i></td>
+<td>Pn</td><td>Māori</td><td><i>rā</i></td>
 <td>
 </td>
 </tr>
@@ -2454,7 +2484,7 @@ The following form is well attested though its reflexes show a range of meanings
 '<span>mast</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>tira (tū)</i></td>
+<td>Pn</td><td>Māori</td><td><i>tira (tū)</i></td>
 <td>
 '<span>yard of sail, upper sprit</span>'</td>
 </tr>
@@ -2503,7 +2533,7 @@ POc or PCP _&ast;jila_ has commonly (e.g. [Blust 1976a](../references.md#source-
 (N) '<span>core, centre, main theme</span>'; (V) '<span>centre around, revolve around s.t.</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>(rā) kau-tū</i></td>
+<td>Pn</td><td>Māori</td><td><i>(rā) kau-tū</i></td>
 <td>
 '<span>mast and sail</span>'</td>
 </tr>
@@ -3151,7 +3181,7 @@ A third form attributable to PEOc, _&ast;sua(C)_, also has some reflexes glossed
 '<span>ceremonial paddle with wide blade; go to a ship at anchor (? by paddling)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>hua</i></td>
+<td>Pn</td><td>Māori</td><td><i>hua</i></td>
 <td>
 '<span>steer, paddle</span>'</td>
 </tr>
@@ -3479,7 +3509,7 @@ The following PMP reconstruction is given by [Blust](../references.md#source-Blu
 (v) '<span>scoop, ladle or bail out liquid</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>ahu</i></td>
+<td>Pn</td><td>Māori</td><td><i>ahu</i></td>
 <td>
 '<span>bailer</span>'</td>
 </tr>
@@ -3522,7 +3552,7 @@ The next comparison shows a PPn term for 'bailer' and 'bail', derived from a PMP
 '<span>bail, scoop; anything used as a bailer</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>tatā</i></td>
+<td>Pn</td><td>Māori</td><td><i>tatā</i></td>
 <td>
 '<span>bail, scoop; anything used as a bailer</span>'</td>
 </tr>
@@ -3793,7 +3823,7 @@ There are two fairly well-supported PMP reconstructions to do with anchoring. In
 '<span>(vessel) fetch up, come in to land</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>tau</i></td>
+<td>Pn</td><td>Māori</td><td><i>tau</i></td>
 <td>
 '<span>come to anchor, ride at anchor, lie to</span>'</td>
 </tr>
@@ -3935,7 +3965,7 @@ The PMP and POc term _&ast;sawaŋ_ or _&ast;sawaq_ appears to have been the conv
 '<span>anchorage</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>awa</i></td>
+<td>Pn</td><td>Māori</td><td><i>awa</i></td>
 <td>
 '<span>channel, landing place for canoes</span>'</td>
 </tr>
@@ -3948,7 +3978,7 @@ cf. also:
 <td>Tongan</td>
 <td><i>ava</i></td>
 <td>
-'<span>hole, aperture</span>'</td>
+'<span>hole, aperture</span>'; '<span>passage, opening</span>' (<span>for †<em>ʔava</em></span>)</td>
 </tr>
 <tr>
 <td>Pn</td>
@@ -4076,7 +4106,7 @@ While boatsheds, for building and sheltering boats, are common in the Malayo-Pol
 '<span>canoe yard for sacred canoes</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>farau</i></td>
+<td>Pn</td><td>Māori</td><td><i>farau</i></td>
 <td>
 '<span>temporary shed or booth</span>'; '<span>canoe shed</span>'</td>
 </tr>
@@ -4310,7 +4340,7 @@ In the following set the Central Pacific forms clearly refer to long-distance sa
 '<span>voyage overseas, travel abroad</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>farau</i></td>
+<td>Pn</td><td>Māori</td><td><i>farau</i></td>
 <td>
 '<span>travel, particularly by water</span>'; '<span>company of travellers</span>'</td>
 </tr>

@@ -1081,7 +1081,7 @@ Water may be carried and stored in bamboo or coconut-shell bottles stoppered wit
 '<span>water container</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>wal</i></td>
+<td>Pn</td><td>Māori</td><td><i>wal</i></td>
 <td>
 '<span>vessel to hold water + ; calabash</span>'</td>
 </tr>
@@ -1121,7 +1121,7 @@ but adds a warning note that the Oceanic forms cited may reflect POc _&ast;waiR_
 '<span>flask made of coconut shell</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>tahā</i></td>
+<td>Pn</td><td>Māori</td><td><i>tahā</i></td>
 <td>
 '<span>calabash with narrow mouth</span>'</td>
 </tr>
@@ -1628,7 +1628,7 @@ cf. also:
 '<span>bag, basket</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>kete</i></td>
+<td>Pn</td><td>Māori</td><td><i>kete</i></td>
 <td>
 '<span>plaited flax basket with carrying handles</span>'</td>
 </tr>
@@ -1864,7 +1864,7 @@ Woven mats are made from the leaves of a range of palms, and frequently the same
 '<span>coconut leaf floormat</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>takapau</i></td>
+<td>Pn</td><td>Māori</td><td><i>takapau</i></td>
 <td>
 '<span>floormat; plaited floormat</span>' (<span>metathesis</span>)</td>
 </tr>
@@ -1920,7 +1920,7 @@ Woven mats are made from the leaves of a range of palms, and frequently the same
 '<span>plaited coconut leaf wall screen</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>pora</i></td>
+<td>Pn</td><td>Māori</td><td><i>pora</i></td>
 <td>
 '<span>coarse cloak; floormat</span>'</td>
 </tr>
@@ -2341,7 +2341,7 @@ The simplest material for tying would have been lengths of vine or rattan, or st
 '<span>thread</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>roi(roki)</i></td>
+<td>Pn</td><td>Māori</td><td><i>roi(roki)</i></td>
 <td>
 '<span>secured, tied up; knot, bind</span>'</td>
 </tr>
@@ -2411,7 +2411,7 @@ An unrelated PPn term has been reconstructed for the same process, _&ast;amo_ 'p
 '<span>kind of plaiting</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>tari</i></td>
+<td>Pn</td><td>Māori</td><td><i>tari</i></td>
 <td>
 '<span>plaiting as opposed to weaving or twining</span>'</td>
 </tr>
@@ -2887,7 +2887,7 @@ The product of tying a piece of cordage is, of course, a knot. POc seems to have
 '<span>knot, as in a tree</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>puku</i></td>
+<td>Pn</td><td>Māori</td><td><i>puku</i></td>
 <td>
 '<span>swelling, tumor, knob; head of seed, cob of corn; swell</span>'</td>
 </tr>
@@ -3433,13 +3433,43 @@ Note the change in meaning in the three examples given at the end of the followi
 
 The following are possibly related to the set above but all reflect an extra _&ast;i_ (Loniu and Tawala reflect a possible POc _&ast;mʷati_, the NNG items a putative _&ast;(m,mʷ)aita_). It is possible that this _&ast;i_ reflects the incorporation into _&ast;(m,mʷ)ata_ of the generic possessive preposition _&ast;qi_, which would frequently have occurred immediately after it (e.g. POc _&ast;&ast;(m,mʷ)ata-qi kiRam_ 'axe blade') and is reflected in Mota matai above.
 
-```
-    Adm: Loniu                   mʷati           'axe'
-    NNG: Takia                   mait            '(small) knife'
-    NNG: Manam                   moita           'knife'
-    NNG: Kairiru                 mʷeit           'knife'
-    PT:  Tawala                  mʷasi-mʷasi     'machete, bush knife'
-```
+<table>
+<tr>
+<td>Adm</td>
+<td>Loniu</td>
+<td><i>mʷati</i></td>
+<td>
+'<span>axe</span>'</td>
+</tr>
+<tr>
+<td>NNG</td>
+<td>Takia</td>
+<td><i>mait</i></td>
+<td>
+'<span>(small) knife</span>'</td>
+</tr>
+<tr>
+<td>NNG</td>
+<td>Manam</td>
+<td><i>moita</i></td>
+<td>
+'<span>knife</span>'</td>
+</tr>
+<tr>
+<td>NNG</td>
+<td>Kairiru</td>
+<td><i>mʷeit</i></td>
+<td>
+'<span>knife</span>'</td>
+</tr>
+<tr>
+<td>PT</td>
+<td>Tawala</td>
+<td><i>mʷasi-mʷasi</i></td>
+<td>
+'<span>machete, bush knife</span>'</td>
+</tr>
+</table>
 
 
 <a id="p-90"></a>
@@ -4082,7 +4112,7 @@ A group of eastern Polynesian languages have a term for obsidian probably derive
 '<span>obsidian</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>matā</i></td>
+<td>Pn</td><td>Māori</td><td><i>matā</i></td>
 <td>
 '<span>obsidian, flint, quartz</span>'</td>
 </tr>
@@ -4141,7 +4171,7 @@ There is evidence that all three of the basic methods for shaping stone-flaking 
 '<span>volcanic stone used as hone or sharpener</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>hōaŋa</i></td>
+<td>Pn</td><td>Māori</td><td><i>hōaŋa</i></td>
 <td>
 '<span>sandstone used in grinding stone</span>'</td>
 </tr>
@@ -4259,7 +4289,7 @@ From its form it is clear that PCP _&ast;vuqa(i)ŋa_ is a nominalisation. The co
 '<span>grater, grindstone</span>' (<span><em>i-</em> &lt; POc <em>*i-</em> INS</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>aha-aha</i></td>
+<td>Pn</td><td>Māori</td><td><i>aha-aha</i></td>
 <td>
 '<span>saw-like instrument of shark teeth set in a wooden mounting</span>'</td>
 </tr>
@@ -4525,11 +4555,29 @@ A number of reconstructions have been made at PCP or PPn level, but the similari
 
 The only term reconstructable for the Southeast Solomons is apparently limited to the island of Malaita.
 
-```
-    SES:    Lau                maku    'bark-cloth'
-    SES:    Kwaio              maku    'bark-cloth'
-    SES:    'Are'are           maku    'cloth for married women, a fringe of string or a piece of pandanus worn in front and behind, not around the hips'
-```
+<table>
+<tr>
+<td>SES</td>
+<td>Lau</td>
+<td><i>maku</i></td>
+<td>
+'<span>bark-cloth</span>'</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>Kwaio</td>
+<td><i>maku</i></td>
+<td>
+'<span>bark-cloth</span>'</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>'Are'are</td>
+<td><i>maku</i></td>
+<td>
+'<span>cloth for married women, a fringe of string or a piece of pandanus worn in front and behind, not around the hips</span>'</td>
+</tr>
+</table>
 
 We have a reconstruction for the mallet used in beating _tapa_ which goes back as far as PMP:
 
@@ -5006,7 +5054,7 @@ In Fiji and Polynesia, reflexes of a different term, PCP _&ast;sinu_ 'oil' are u
 '<span>dye the hair with the juice of pani (tree)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>pani</i></td>
+<td>Pn</td><td>Māori</td><td><i>pani</i></td>
 <td>
 '<span>paint, besmear</span>'</td>
 </tr>
@@ -5647,7 +5695,7 @@ POc inherited _&ast;saRu_ 'comb' from PMP. However, Remote Oceanic reflexes refl
 (N, v) '<span>comb</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>heru(a)</i></td>
+<td>Pn</td><td>Māori</td><td><i>heru(a)</i></td>
 <td>
 </td>
 </tr>
@@ -6268,7 +6316,7 @@ Although words for musical instruments are candidates for borrowing, the fact th
 '<span>drum</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>pahū</i></td>
+<td>Pn</td><td>Māori</td><td><i>pahū</i></td>
 <td>
 '<span>wooden gong</span>'</td>
 </tr>
@@ -6484,7 +6532,7 @@ Figure 17: POc &ast;salap 'broom'
 '<span>brush lightly, stroke, smear</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>tahi</i></td>
+<td>Pn</td><td>Māori</td><td><i>tahi</i></td>
 <td>
 '<span>sweep</span>'</td>
 </tr>

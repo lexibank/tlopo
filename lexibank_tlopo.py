@@ -4,7 +4,7 @@ import collections
 import attr
 import pylexibank
 from clldutils.misc import slug
-from pyetymdict import Dataset as BaseDataset, Language as BaseLanguage
+from pyetymdict import Dataset as BaseDataset, Language as BaseLanguage, Form as BaseForm
 from pylexibank import LexibankWriter
 from pycldf.sources import Source, Sources
 
@@ -21,6 +21,16 @@ class TlopoWriter(LexibankWriter):
             kw['Language_ID'],
             form,
             self._count[(kw['Language_ID'], form)])
+
+
+@attr.s
+class Form(BaseForm):
+    Morpheme_Gloss = attr.ib(
+        default=None,
+        metadata={
+            'dc:description':
+                'Some forms (often multi-word expressions) are listed with morpheme glosses.'}
+    )
 
 
 @attr.s
@@ -41,6 +51,7 @@ class Dataset(BaseDataset):
     id = "tlopo"
 
     language_class = Variety
+    lexeme_class = Form
 
     # define the way in which forms should be handled
     form_spec = pylexibank.FormSpec(
@@ -242,6 +253,7 @@ class Dataset(BaseDataset):
                 Description=gloss,
                 Value=protoform_or_reflex.form,
                 Comment=None,
+                Morpheme_Gloss=protoform_or_reflex.morpheme_gloss,
                 Source=[],  # FIXME: add the sources for the language!
                 # Doubt=getattr(form, 'doubt', False),
             )[0]
@@ -285,7 +297,7 @@ class Dataset(BaseDataset):
             for alt in v['Alternative_Names'].split('; '):
                 langs[alt] = v
 
-        fgs = 0
+        fgs = []
         for vol in range(1, 7):
             if vol not in {1, 2, 3, 4, 5}:
                 continue
@@ -296,7 +308,7 @@ class Dataset(BaseDataset):
             for i, rec in enumerate(vol.reconstructions):
                 reconstructions.append(rec)
             for i, fg in enumerate(vol.formgroups):
-                fgs += len(fg.forms)
+                fgs.append(fg)
 
             mddir = self.cldf_dir.joinpath(vol.dir.name)
             mddir.mkdir(exist_ok=True)
@@ -407,6 +419,9 @@ class Dataset(BaseDataset):
                     Name=name,
                     Cognateset_ID=csid,
                     CognatesetReference_ID=rec.id,
+                    #
+                    # FIXME: cfsets must also remember gloss_ids!
+                    #
                 ))
                 for j, w in enumerate(items, start=1):
                     assert w.lang in langs
@@ -426,7 +441,35 @@ class Dataset(BaseDataset):
                         # Source=[str(ref) for ref in form.gloss.refs],
                         # Doubt=form.doubt,
                     ))
-        print(fgs)
+
+        for fg in fgs:
+            args.writer.objects['cf.csv'].append(dict(
+                ID=fg.id,
+                Name=fg.id,
+                Cognateset_ID=None,
+                CognatesetReference_ID=None,
+                #
+                # FIXME: cfsets must also remember gloss_ids!
+                #
+            ))
+            for j, w in enumerate(fg.forms, start=1):
+                assert w.lang in langs
+                lid = langs[w.lang]['ID']
+
+                if (lid, w.form) not in words:
+                    lex = self.add_form(args.writer, w, gloss2id, langs)
+                    words[(lid, w.form)] = (lex, {})
+                else:
+                    lex = words[(lid, w.form)][0]
+                self.add_glosses(args.writer, w, lex['ID'], words[(lid, w.form)][1], [])
+
+                args.writer.objects['cfitems.csv'].append(dict(
+                    ID='{}-{}'.format(fg.id, j),
+                    Form_ID=lex['ID'],
+                    Cfset_ID=fg.id,
+                    # Source=[str(ref) for ref in form.gloss.refs],
+                    # Doubt=form.doubt,
+                ))
 
     def local_schema(self, cldf):
         """

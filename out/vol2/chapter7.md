@@ -62,29 +62,28 @@ Except for one language (Sye) in which terms denoting strength/toughness belong 
 
 The small-class terms in the twenty languages for the three most frequent meanings, ‘big’, ‘small’ and ‘new’, are listed below:
 
-```
-                          ‘big’                     ‘small’                 ‘new’
- Maleu                    amviŋe                    kapori-                 —
- Mangap-Mbula             biibi                     musaana                 —
- Gumawana                 —                         —                       vau
- Tawala                   banei-                    habulu-                 wou-
- Saliba (Suau)            woiyawaudoi               gagili                  —
- Bali-Vitu                kapou                     kakauku                 vahoru
- Nakanai                  uru                       bisi                    halaba
- Tigak                    lavu                      —                       —
- Halia                    pani                      —                       —
- Teop                     —                         rutaa                   —
- Zabana                        leɣaha                           rekaha                       foforu
- Longgu                        bweina, vae                      kiki                         —
- Tamambo                       tawera                           vorivori                     —
- Paamese                       haitamene                        havivii                      haiitee-haau
- Lewo                          —                                —                            viu
- Sye                           oroŋ, nmah                       viroɣ                        —
- Tinrin                        d̡oṛo                           hɯwɯ[-n̡ã]                   hãmã[-n̡ã]
- Xârâcùù                       mwƭƭ                             —                            —
- Mokilese                      soapoan, leklekin                —                            —
- Bauan                         levu                             lailai                       vou
-```
+| ‘big’                     ‘small’                 ‘new’                                                  |
+|:---------------------------------------------------------------------------------------------------------|
+| Maleu                    amviŋe                    kapori-                 —                             |
+| Mangap-Mbula             biibi                     musaana                 —                             |
+| Gumawana                 —                         —                       vau                           |
+| Tawala                   banei-                    habulu-                 wou-                          |
+| Saliba (Suau)            woiyawaudoi               gagili                  —                             |
+| Bali-Vitu                kapou                     kakauku                 vahoru                        |
+| Nakanai                  uru                       bisi                    halaba                        |
+| Tigak                    lavu                      —                       —                             |
+| Halia                    pani                      —                       —                             |
+| Teop                     —                         rutaa                   —                             |
+| Zabana                        leɣaha                           rekaha                       foforu       |
+| Longgu                        bweina, vae                      kiki                         —            |
+| Tamambo                       tawera                           vorivori                     —            |
+| Paamese                       haitamene                        havivii                      haiitee-haau |
+| Lewo                          —                                —                            viu          |
+| Sye                           oroŋ, nmah                       viroɣ                        —            |
+| Tinrin                        d̡oṛo                           hɯwɯ[-n̡ã]                   hãmã[-n̡ã]    |
+| Xârâcùù                       mwƭƭ                             —                            —            |
+| Mokilese                      soapoan, leklekin                —                            —            |
+| Bauan                         levu                             lailai                       vou          |
 
 
 <a id="p-196"></a>
@@ -325,17 +324,16 @@ Inherited POc terms for ‘small’ were _&ast;qitik_, with a variant _&ast;qite
 
 In Proto Polynesian, _&ast;riki_ (reflecting POc _&ast;riki(t,q)_) had become plural, contrasting with PPn _&ast;qiti_ ‘small (SG)’ (from POc _&ast;qitik_), but there is no evidence that this had occurred at an earlier interstage. This contrast is reflected in the following compounds, which reflect PPn _&ast;tama_ ‘child’ (from POc _&ast;tama-_ ‘father’):
 
-```
-      PPn                      &ast;tama-qiti                 &ast;tama-riki
-                               ‘child’                    ‘chidren’
-      Tongan                   (tama-siʔi)[^8]               tama-iki
-      E Uvean                  (tama-siʔi)                tama-liki
-      Rennellese               tama-ʔiti-ʔiti             tama-giki
-      Hawaiian                 kama-iki (rare)            kama-liʔi
-      Tahitian                 tama-iti                   tama-riʔi
-      Rarorongan               tama-iti                   tama-riki
-      Maori                    tama-iti                   tama-riki
-```
+| PPn                      &ast;tama-qiti                 &ast;tama-riki   |
+|:-----------------------------------------------------------------|
+| ‘child’                    ‘chidren’                             |
+| Tongan                   (tama-siʔi)[^8]               tama-iki   |
+| E Uvean                  (tama-siʔi)                tama-liki    |
+| Rennellese               tama-ʔiti-ʔiti             tama-giki    |
+| Hawaiian                 kama-iki (rare)            kama-liʔi    |
+| Tahitian                 tama-iti                   tama-riʔi    |
+| Rarorongan               tama-iti                   tama-riki    |
+| Maori                    tama-iti                   tama-riki    |
 
 The reconstruction of PPn _&ast;riki_ is complicated by the fact that Tongan has two forms: _iki_, reflecting _&ast;riki_, and _liki_, which occurs only in compounds. The latter may be a borrowing. On the other hand, it may reflect the separately reconstructable form POc _&ast;liki_ (see below). If it does, then we are left with the possibility that some of the Polynesian forms here attributed to POc _&ast;riki(t,q)_ instead reflect POc _&ast;liki_, as POc _&ast;r_ and _&ast;l_ have merged in all Polynesian languages other than Tongan and Niuean.
 
@@ -439,7 +437,7 @@ Also apparently reconstructable are _&ast;drik(i)_, _&ast;liki_, _&ast;siki_ and
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>iti</i></td>
+<td>Pn</td><td>Māori</td><td><i>iti</i></td>
 <td>
 </td>
 </tr>
@@ -562,12 +560,12 @@ Also apparently reconstructable are _&ast;drik(i)_, _&ast;liki_, _&ast;siki_ and
 '<span>small</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>riki</i></td>
+<td>Pn</td><td>Māori</td><td><i>riki</i></td>
 <td>
 '<span>small</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>ri-riki</i></td>
+<td>Pn</td><td>Māori</td><td><i>ri-riki</i></td>
 <td>
 '<span>small (PL)</span>'</td>
 </tr>
@@ -1181,7 +1179,7 @@ The other two terms, _&ast;[ma]lago_ and _&ast;[ma]lawa_, clearly are derived. T
 '<span>be old, ancient; be a long time</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>loa</i></td>
+<td>Pn</td><td>Māori</td><td><i>loa</i></td>
 <td>
 '<span>long, tall</span>'</td>
 </tr>
@@ -1289,7 +1287,7 @@ Two terms for ‘short’ are reconstructed. All the supporting data for _&ast;t
 '<span>short</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>poto</i></td>
+<td>Pn</td><td>Māori</td><td><i>poto</i></td>
 <td>
 '<span>short</span>'</td>
 </tr>
@@ -1522,12 +1520,36 @@ A POc verbal root _&ast;sauq_ (V) ‘be far away’ is reconstructable.
 
 In Ysabel (MM) languages, POc _&ast;sauq_ is reflected with the reciprocal prefix _&ast;paRi-_, as in Kia _(vari)hau_ ‘far’ and Laghu _(vari)hau_ ‘far’. I take it that the sense was formerly ‘far from each other’. In Southeast Solomonic languages it occurs with reflexes of the POc causative _&ast;pa-_ or _&ast;paka-_, also used to form adverbs, and I assume this is the function of the prefix here:
 
-```
- SES: W Guad.            (va)sau          ‘far’
- SES: Sa’a               (haʔa)tau        ‘far’
- SES: Arosi              (haʔa)tau        ‘far’
- SES: Bauro              (haɣa)tau        ‘far’
-```
+<table>
+<tr>
+<td>SES</td>
+<td>West Guadalcanal</td>
+<td><i>(va)sau</i></td>
+<td>
+'<span>far</span>'</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>Sa'a</td>
+<td><i>(haʔa)tau</i></td>
+<td>
+'<span>far</span>'</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>Arosi</td>
+<td><i>(haʔa)tau</i></td>
+<td>
+'<span>far</span>'</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>Bauro</td>
+<td><i>(haɣa)tau</i></td>
+<td>
+'<span>far</span>'</td>
+</tr>
+</table>
 
 The POc antonym of _&ast;sauq_ ‘be far away’ was the root _&ast;raŋi_ ‘be near’. However, _&ast;raŋi_ is not reflected without verb-deriving prefixes and is thus not reconstructable alone in POc. Most commonly it is reflected with _&ast;ga-_, a prefix that I do not recognise: it may be a variant of _&ast;ka-_, which also occurs with _&ast;raŋi_.
 
@@ -1713,7 +1735,7 @@ There was also a POc term &ast;tata ‘near’, perhaps an adverb:
 (ADV) '<span>near</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>tata</i></td>
+<td>Pn</td><td>Māori</td><td><i>tata</i></td>
 <td>
 '<span>be near, close</span>'</td>
 </tr>
@@ -2946,42 +2968,209 @@ One colour term of the form _&ast;ma-_ + ROOT has no known non-Oceanic cognates.
 
 [Blust](../references.md#source-Blust2001) ([2001](../references.md#source-Blust2001)) observes that colour terms with a reduplicated root are common in Oceanic languages. Generally, but not always, the initial CVCV- is copied. He infers that this reduplication reflects the unmarking of an earlier use of reduplication to express intensity. Whatever its origin, however, in many Oceanic languages reduplication is a derivational process whereby a colour term is derived from a noun, and in some it appears to be a productive process.[^18] Blust’s examples are drawn from twenty-four languages. Among them we find the following:
 
-```
-Mussau (Adm):[^19]
- bo-boŋi-e-na        ‘black’                         bo      ‘night’
- rae-rae-a-na        ‘red’                           rae     ‘blood’
- usou-usou-e-na      ‘white’                         (no unreduplicated root)
- vero-veroŋ-a-na     ‘black’                         (no unreduplicated root)
- riu-riu-e-na        ‘thin (of animates’)            riu     ‘bone’
-```
+<table>
+<tr>
+<td>Adm</td>
+<td>Mussau</td>
+<td><i>bo-boŋi-e-na</i></td>
+<td>
+'<span>black</span>' (<span><em>bo</em> ‘night’</span>)</td>
+</tr>
+<tr>
+<td>Adm</td>
+<td>Mussau</td>
+<td><i>rae-rae-a-na</i></td>
+<td>
+'<span>red</span>' (<span><em>rae</em> ‘blood’</span>)</td>
+</tr>
+<tr>
+<td>Adm</td>
+<td>Mussau</td>
+<td><i>usou-usou-e-na</i></td>
+<td>
+'<span>white</span>' (<span>no unreduplicated root</span>)</td>
+</tr>
+<tr>
+<td>Adm</td>
+<td>Mussau</td>
+<td><i>vero-veroŋ-a-na</i></td>
+<td>
+'<span>black</span>' (<span>no unreduplicated root</span>)</td>
+</tr>
+<tr>
+<td>Adm</td>
+<td>Mussau</td>
+<td><i>riu-riu-e-na</i></td>
+<td>
+'<span>thin (of animates)</span>' (<span><em>riu</em> ‘bone’</span>)</td>
+</tr>
+</table>
 
-```
-Kairiru (NNG):
- jir-jir            ‘black, dirty, old’          jir       ‘mangrove swamp’
- kiet-kiet          ‘black’                      kiet      ‘black paint’
- pun-pun            ‘white’                      pun       ‘pigeon’
- mera-mer           ‘red’                        mer       ‘red paint’
- yaŋ-yaŋ            ‘yellow’                     yaŋ       ‘yellow paint, white or yellow skinned people’
-```
+<table>
+<tr>
+<td>NNG</td>
+<td>Kairiru</td>
+<td><i>jir-jir</i></td>
+<td>
+'<span>black, dirty, old</span>' (<span><em>jir</em> ‘mangrove swamp’</span>)</td>
+</tr>
+<tr>
+<td>NNG</td>
+<td>Kairiru</td>
+<td><i>kiet-kiet</i></td>
+<td>
+'<span>black</span>' (<span><em>kiet</em> ‘black paint’</span>)</td>
+</tr>
+<tr>
+<td>NNG</td>
+<td>Kairiru</td>
+<td><i>pun-pun</i></td>
+<td>
+'<span>white</span>' (<span><em>pun</em> ‘pigeon’</span>)</td>
+</tr>
+<tr>
+<td>NNG</td>
+<td>Kairiru</td>
+<td><i>mera-mer</i></td>
+<td>
+'<span>red</span>'</td>
+</tr>
+<tr>
+<td>NNG</td>
+<td>Kairiru</td>
+<td><i>yaŋ-yaŋ</i></td>
+<td>
+'<span>yellow</span>'</td>
+</tr>
+</table>
 
 
 <a id="p-215"></a>
 
-```
-Manam (NNG):
- ziŋ-ziŋ     ‘black’                       ziŋ       ‘black ashes’
- jim-jim     ‘black’                       jim       ‘rain, cloud; black, dark deep (sea)’
- wa-wawa     ‘white’                       wawa      ‘discoloured (light) patch of skin)’
- dara-dara   ‘red’                         dara      ‘blood’
- ʔate-ʔateʔa ‘brown’                       ʔateʔa    ‘ground’
-```
+<table>
+<tr>
+<td>NNG</td>
+<td>Manam</td>
+<td><i>ziŋ-ziŋ</i></td>
+<td>
+'<span>black</span>'</td>
+</tr>
+<tr>
+<td>NNG</td>
+<td>Manam</td>
+<td><i>ziŋ</i></td>
+<td>
+'<span>black ashes</span>'</td>
+</tr>
+<tr>
+<td>NNG</td>
+<td>Manam</td>
+<td><i>jim-jim</i></td>
+<td>
+'<span>black</span>'</td>
+</tr>
+<tr>
+<td>NNG</td>
+<td>Manam</td>
+<td><i>jim</i></td>
+<td>
+'<span>rain, cloud; black, dark deep (sea)</span>'</td>
+</tr>
+<tr>
+<td>NNG</td>
+<td>Manam</td>
+<td><i>wa-wawa</i></td>
+<td>
+'<span>white</span>'</td>
+</tr>
+<tr>
+<td>NNG</td>
+<td>Manam</td>
+<td><i>wawa</i></td>
+<td>
+'<span>discoloured (light) patch of skin)</span>'</td>
+</tr>
+<tr>
+<td>NNG</td>
+<td>Manam</td>
+<td><i>dara-dara</i></td>
+<td>
+'<span>red</span>'</td>
+</tr>
+<tr>
+<td>NNG</td>
+<td>Manam</td>
+<td><i>dara</i></td>
+<td>
+'<span>blood</span>'</td>
+</tr>
+<tr>
+<td>NNG</td>
+<td>Manam</td>
+<td><i>ʔate-ʔateʔa</i></td>
+<td>
+'<span>brown</span>'</td>
+</tr>
+<tr>
+<td>NNG</td>
+<td>Manam</td>
+<td><i>ʔateʔa</i></td>
+<td>
+'<span>ground</span>'</td>
+</tr>
+</table>
 
-```
-Mota (NCV):
- me-mea         ‘red’                      mea       ‘red pigment’, mea-mea ‘k.o. red fish’
- sor-soroga     ‘dark red’                 soroga    ‘red, colour of pes nai when ripe’
- aŋo-aŋo        ‘yellow’                   aŋo       ‘turmeric; yellow’
-```
+<table>
+<tr>
+<td>NCV</td>
+<td>Mota</td>
+<td><i>me-mea</i></td>
+<td>
+'<span>red</span>'</td>
+</tr>
+<tr>
+<td>NCV</td>
+<td>Mota</td>
+<td><i>mea</i></td>
+<td>
+'<span>red pigment</span>'</td>
+</tr>
+<tr>
+<td>NCV</td>
+<td>Mota</td>
+<td><i>mea-mea</i></td>
+<td>
+'<span>k.o. red fish</span>'</td>
+</tr>
+<tr>
+<td>NCV</td>
+<td>Mota</td>
+<td><i>sor-soroga</i></td>
+<td>
+'<span>dark red</span>'</td>
+</tr>
+<tr>
+<td>NCV</td>
+<td>Mota</td>
+<td><i>soroga</i></td>
+<td>
+'<span>red, colour of pes nai when ripe</span>'</td>
+</tr>
+<tr>
+<td>NCV</td>
+<td>Mota</td>
+<td><i>aŋo-aŋo</i></td>
+<td>
+'<span>yellow</span>' (<span><em>aŋo</em> ‘turmeric’</span>)</td>
+</tr>
+<tr>
+<td>NCV</td>
+<td>Mota</td>
+<td><i>aŋo</i></td>
+<td>
+'<span>turmeric</span>'; '<span>turmeric; yellow</span>'</td>
+</tr>
+</table>
 
 From these examples we see that the colour term is often derived from a noun whose referent has that colour as a salient characteristic. We also see that in closely related Kairiru and Manam ([Ross 1988](../references.md#source-Ross1988):122–132) different derivations have occurred, indicating that the process remains productive, or has done so until recently. This observation leads to a reconstructive problem: we often find cognate reduplicated forms in a number of different languages, and it is sometimes hard to determine whether the reduplication had already occurred in POc or whether the reduplicated forms result from independent parallel derivations. We can arrange cases on a rough cline. At one extreme is POc _&ast;[yaŋo]yaŋo_ ‘yellow’, whose reflexes occur so consistently across Oceania that it seems over-cautious not to reconstruct it. The base form was POc _&ast;yaŋo_ ‘turmeric, Curcuma longa’ ([Ross 1996d](../references.md#source-Ross1996d):216).
 
@@ -3554,7 +3743,7 @@ The data require that we reconstruct two variants for each of the three terms. T
 (V) '<span>lie down</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>ta-koto</i></td>
+<td>Pn</td><td>Māori</td><td><i>ta-koto</i></td>
 <td>
 (V) '<span>lie down</span>'</td>
 </tr>

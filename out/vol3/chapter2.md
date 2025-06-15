@@ -321,7 +321,7 @@ The term _&ast;qutan_ appears to have denoted uncultivated land in general, whet
 '<span>wilds, wilderness</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>wao</i></td>
+<td>Pn</td><td>Māori</td><td><i>wao</i></td>
 <td>
 '<span>forest</span>'</td>
 </tr>
@@ -772,7 +772,7 @@ cf. also:
 <td>Motu</td>
 <td><i>ani-ani</i></td>
 <td>
-'<span>food</span>'</td>
+(VI) '<span>eat; food</span>'; '<span>food</span>'</td>
 </tr>
 <tr>
 <td>MM</td>

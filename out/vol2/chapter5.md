@@ -87,39 +87,39 @@ When Austronesian speakers travelled eastwards, probably from Halmahera, and mov
 
 As the migrants emerged from the lee of the cordillera onto the Huon Peninsula and crossed to New Britain, two things occurred which presumably came to be reflected in POc terminology. First, they had left the monsoonal region behind them, and during the SHS they experienced the fairly windless rainy season of the ITCZ, with some sporadic northwesterly winds. Secondly they encountered for the first time the southeast trades of the SHW, during which the north coasts of the Huon Peninsula and of New Britain have their dry season, whilst their south coasts suffer torrential orographic rain ([Howlett 1967](../references.md#source-Howlett1967):36–38). As they later spread around the coasts and offshore islands of Papua New Guinea and into the Bismarck Archipelago and then the New Georgia group of the northwest Solomons, they continued to encounter this and other kinds of local variation, but the southeast trades always continued to be the prevailing winds.
 
-```
-              Table 3: Approximate summary of seasons in some Pacific locations
-                                Southern Hemisphere Winter              Southern Hemisphere Summer
-Philippines                     southwest monsoon, wet season;           northeast trades, dry season,
-                                in centre and north some cyclones        orographic rain
-Sumatra, Borneo                 in north, southwest monsoon;             in north, northeast monsoon
-                                in south, southeast monsoon;             in south, northwest monsoon,
-                                humid wind and rain                      clouds and rain
-rest of Indonesia               southeast monsoon, dry season;           northwest monsoon,
-                                in west, some orographic rain            clouds and rain
-Manus Island, New Britain,      southeast trades,                        ITCZ
-Huon Peninsula, tip of Papua    heavy orographic rain                    convectional rain
-Papua New Guinea rest           southeast trades,                        ITCZ
-                                dry season                               convectional rain
-New Georgia group               southeast trades                         ITCZ
-                                heavy orographic rain                    convectional rain
-rest of northwest Solomon       southeast trades                         ITCZ
-Islands                         dry season                               convectional rain
-southeast Solomon Islands,      southeast trades                         variable stormy weather
-Vanuatu, New Caledonia          dry season                               some cyclones
-Fiji                            southeast trades, dry season             variable stormy weather
-                                heavy orographic rain                    some cyclones
-Tonga, Samoa, Wallis, Futuna,   southeast trades                         variable stormy weather
-Cooks, Tahiti, Tuamotus         dry season                               some cyclones
-Tuvalu, Tokelau, southern       southeast trades                         ITCZ
-Gilberts, Nauru                 humid wind, some rain                    convectional rain
-northern Gilberts,              ITCZ                                     ITCZ
-southern Marshalls              convectional rain                        convectional rain
-northern Marshalls,             variable stormy weather                  northeast trades
-Carolines                                                                some rain
-Hawaii                          northeast trades                         northeast trades
-                                some orographic rain                     some orographic rain
-```
+: Table 3: Approximate summary of seasons in some Pacific locations
+
+| Southern Hemisphere Winter              Southern Hemisphere Summer                                     |
+|:-------------------------------------------------------------------------------------------------------|
+| Philippines                     southwest monsoon, wet season;           northeast trades, dry season, |
+| in centre and north some cyclones        orographic rain                                               |
+| Sumatra, Borneo                 in north, southwest monsoon;             in north, northeast monsoon   |
+| in south, southeast monsoon;             in south, northwest monsoon,                                  |
+| humid wind and rain                      clouds and rain                                               |
+| rest of Indonesia               southeast monsoon, dry season;           northwest monsoon,            |
+| in west, some orographic rain            clouds and rain                                               |
+| Manus Island, New Britain,      southeast trades,                        ITCZ                          |
+| Huon Peninsula, tip of Papua    heavy orographic rain                    convectional rain             |
+| Papua New Guinea rest           southeast trades,                        ITCZ                          |
+| dry season                               convectional rain                                             |
+| New Georgia group               southeast trades                         ITCZ                          |
+| heavy orographic rain                    convectional rain                                             |
+| rest of northwest Solomon       southeast trades                         ITCZ                          |
+| Islands                         dry season                               convectional rain             |
+| southeast Solomon Islands,      southeast trades                         variable stormy weather       |
+| Vanuatu, New Caledonia          dry season                               some cyclones                 |
+| Fiji                            southeast trades, dry season             variable stormy weather       |
+| heavy orographic rain                    some cyclones                                                 |
+| Tonga, Samoa, Wallis, Futuna,   southeast trades                         variable stormy weather       |
+| Cooks, Tahiti, Tuamotus         dry season                               some cyclones                 |
+| Tuvalu, Tokelau, southern       southeast trades                         ITCZ                          |
+| Gilberts, Nauru                 humid wind, some rain                    convectional rain             |
+| northern Gilberts,              ITCZ                                     ITCZ                          |
+| southern Marshalls              convectional rain                        convectional rain             |
+| northern Marshalls,             variable stormy weather                  northeast trades              |
+| Carolines                                                                some rain                     |
+| Hawaii                          northeast trades                         northeast trades              |
+| some orographic rain                     some orographic rain                                          |
 
 
 <a id="p-126"></a>
@@ -359,7 +359,7 @@ Three terms for winds of differing strengths are reconstructable. POc _&ast;jaŋ
 '<span>cool breeze</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>hau</i></td>
+<td>Pn</td><td>Māori</td><td><i>hau</i></td>
 <td>
 '<span>wind, breeze</span>'</td>
 </tr>
@@ -427,7 +427,7 @@ Three terms for winds of differing strengths are reconstructable. POc _&ast;jaŋ
 '<span>(breeze) blow lightly</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>muri-muri</i></td>
+<td>Pn</td><td>Māori</td><td><i>muri-muri</i></td>
 <td>
 '<span>breeze</span>'</td>
 </tr>
@@ -442,12 +442,36 @@ Three terms for winds of differing strengths are reconstructable. POc _&ast;jaŋ
 
 The terms below may also reflect POc _&ast;mur[i,e]_, but with a change in meaning.
 
-```
- NNG: Amara           o-mur          ‘southeast trade’
- NNG: Bing            mur-mōriy      ‘wind which blows strongly from the west, often causing damage’
- PT:  Motu            miri(gini)     ‘north wind’
- PT:  Mekeo           mili(kini)     ‘north wind’
-```
+<table>
+<tr>
+<td>NNG</td>
+<td>Amara</td>
+<td><i>o-mur</i></td>
+<td>
+'<span>southeast trade</span>'</td>
+</tr>
+<tr>
+<td>NNG</td>
+<td>Bing</td>
+<td><i>mur-mōriy</i></td>
+<td>
+'<span>wind which blows strongly from the west, often causing damage</span>'</td>
+</tr>
+<tr>
+<td>PT</td>
+<td>Motu</td>
+<td><i>miri(gini)</i></td>
+<td>
+'<span>north wind</span>'</td>
+</tr>
+<tr>
+<td>PT</td>
+<td>Mekeo</td>
+<td><i>mili(kini)</i></td>
+<td>
+'<span>north wind</span>'</td>
+</tr>
+</table>
 
 The Mangap, Motu and Mekeo terms have _-i-_ where _-u-_ is expected. This may reflect vowel assimilation.
 
@@ -827,7 +851,7 @@ It seems likely that the form _&ast;i(p,pʷ)i_ is the result of an idiosyncratic
 '<span>blow smoke</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>ihi</i></td>
+<td>Pn</td><td>Māori</td><td><i>ihi</i></td>
 <td>
 '<span>blow, of wind</span>'</td>
 </tr>
@@ -903,7 +927,7 @@ Two other forms meaning ‘blow’ are also reconstructable. These are also form
 '<span>(wind) blow; blow (flute)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>pu-puhi</i></td>
+<td>Pn</td><td>Māori</td><td><i>pu-puhi</i></td>
 <td>
 '<span>blow (as the wind, a whale); shoot (as a gun)</span>'</td>
 </tr>
@@ -1375,7 +1399,7 @@ POc _&ast;apaRat_ probably also denoted the accompanying wet season (SHS). The g
 '<span>strong wind</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Nêlêmwa</td><td><i>(w)āvac</i></td>
+<td>NCal</td><td>Nêlêmwâ</td><td><i>(w)āvac</i></td>
 <td>
 '<span>north wind</span>' (<span>Lynch pers. comm.</span>)</td>
 </tr>
@@ -1450,7 +1474,7 @@ POc _&ast;apaRat_ probably also denoted the accompanying wet season (SHS). The g
 '<span>(storm) break forth violently</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>āfā</i></td>
+<td>Pn</td><td>Māori</td><td><i>āfā</i></td>
 <td>
 '<span>storm, hurricane</span>'</td>
 </tr>
@@ -1466,20 +1490,55 @@ Related forms also occur in Southeast Solomonic and Micronesian languages, but a
 
 <a id="p-135"></a>
 
-```
- SES: Arosi                worosi             ‘northwest gale’
- SES: ’Are’are             awarosi            ‘the northwest wind’
- SES: Sa’a                 awalosi            ‘northwest wind’
-```
+<table>
+<tr>
+<td>SES</td>
+<td>Arosi</td>
+<td><i>worosi</i></td>
+<td>
+'<span>northwest gale</span>'</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>'Are'are</td>
+<td><i>awarosi</i></td>
+<td>
+'<span>the northwest wind</span>'</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>Sa'a</td>
+<td><i>awalosi</i></td>
+<td>
+'<span>northwest wind</span>'</td>
+</tr>
+</table>
 
 The Micronesian forms are odd in two ways. Firstly, if sound correspondences are applied to infer their putative POc ancestor, the result is _&ast;&ast;barat[a]_, a form which is certainly not POc, but which is consistent with an early borrowing from a WMP language, perhaps a Philippine language. Its initial _&ast;b-_ and final _&ast;-t_ reflect the corresponding phonemes of PMP _&ast;habaRat_. Certain Philippine languages also reflect PMP _&ast;habaRat-an_ with the locative suffix _&ast;-an_, e.g. Cebuano _habagatan_ ‘southwest’, and the suffix may be the source of the final _-a_ of Trukic and Woleaian forms. Secondly, the forms mean ‘(northeast) trade wind’, not, as we might here expect, something like ‘southwest storm wind’:
 
-```
- Mic: Ponapean           (nan-)par    ‘tradewind season’
- Mic: Proto Trukic       &ast;parata      ‘tradewind’
- Mic: L. Mortlockese     paras        ‘rain that comes in due to wind’
- Mic: Woleaian           paẓasa       ‘tradewind’
-```
+<table>
+<tr>
+<td>Mic</td>
+<td>Ponapean</td>
+<td><i>(nan-)par</i></td>
+<td>
+'<span>tradewind season</span>'</td>
+</tr>
+<tr>
+<td>Mic</td>
+<td>Mortlockese</td>
+<td><i>paras</i></td>
+<td>
+'<span>rain that comes in due to wind</span>'</td>
+</tr>
+<tr>
+<td>Mic</td>
+<td>Woleaian</td>
+<td><i>paẓasa</i></td>
+<td>
+'<span>tradewind</span>'</td>
+</tr>
+</table>
 
 Blust (ACD) takes it that PMP _&ast;habaRat_ ‘southwest monsoon season, wet season’ formed a pair with PMP _&ast;timuR_, implying that the latter referred to the northeast trades and the dry season. However, such a pairing seems to have arisen among the WMP languages of Indonesia, where reflexes of _&ast;habaRat_ mean ‘west’ and of _&ast;timuR_ ‘east’. In Philippine languages, where we might expect the PMP sense to be retained, reflexes of _&ast;timuR_ refer to a south or east wind, but not a monsoonal wind. (The PMP term for northeast trades seems to have been _&ast;qamíh-an_,[^8] lost when Austronesian speakers crossed into the southern hemisphere.) PMP _&ast;timuR_ also has reflexes in Oceanic languages, and POc _&ast;timu(R)_ seems to have meant ‘wind bringing light rain’. In Papuan Tip languages forms which appear to reflect _&ast;timu(R)_ have undergone a curious semantic shift and now mean ‘island’ (Ch. 3, §2.2). Relevant data are listed below.
 
@@ -1698,7 +1757,7 @@ The ancestry of PPn _&ast;toŋa_ is unclear, and I return to this below. Data su
 '<span>south wind</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>toŋa</i></td>
+<td>Pn</td><td>Māori</td><td><i>toŋa</i></td>
 <td>
 '<span>south</span>'</td>
 </tr>
@@ -1874,11 +1933,29 @@ POc _&ast;tokalau(r)_ ‘(?) northerly wind’ reflects two PMP morphemes, as [D
 
 POc may also have inherited a semantically related term _&ast;toŋa-laur_, reflected in the items below and apparently denoting a northwesterly wind.[^9]
 
-```
-  MM: Roviana         toŋa-rauru     ‘wind from direction of Lauru (approx north to northwest)’
-  NCV: Mota           toŋa-lau       ‘northwest wind’
-  NCV: Raga           toŋa-lau       ‘wind from direction of Ambae, i.e. northwest wind’
-```
+<table>
+<tr>
+<td>MM</td>
+<td>Roviana</td>
+<td><i>toŋa-rauru</i></td>
+<td>
+'<span>wind from direction of Lauru (approx north to northwest)</span>'</td>
+</tr>
+<tr>
+<td>NCV</td>
+<td>Mota</td>
+<td><i>toŋa-lau</i></td>
+<td>
+'<span>northwest wind</span>'</td>
+</tr>
+<tr>
+<td>NCV</td>
+<td>Raga</td>
+<td><i>toŋa-lau</i></td>
+<td>
+'<span>wind from direction of Ambae, i.e. northwest wind</span>'</td>
+</tr>
+</table>
 
 This term seems to contain the morpheme _&ast;toŋa_ (cf. PPn _&ast;toŋa_ ‘southeasterly quadrant, southeast wind’ above), implying its existence in POc, even though its POc meaning remains unknown. It is perhaps also reflected in Gela _sau-toŋa_ ‘north wind’, where _sau_ reflects POc _&ast;sau_ ‘breeze’. However, caution is necessary here: it is possible that the three terms above simply reflect a sporadic sound change in POc _&ast;tokalau(r)_ ‘(?) northerly wind’.
 
@@ -2168,19 +2245,55 @@ The terms I have reconstructed above refer to wind directions and to seasons, so
 
 <a id="p-140"></a>
 
-```
- NNG: Kove               hai              ‘southeast trade, year’
- NNG: Bariai             rai              ‘year’
- NNG: Lukep              rai              ‘year’
- Mic: Woleaian           ẓaxi             ‘year, age, summer season’
-```
+<table>
+<tr>
+<td>NNG</td>
+<td>Kove</td>
+<td><i>hai</i></td>
+<td>
+'<span>southeast trade, year</span>'</td>
+</tr>
+<tr>
+<td>NNG</td>
+<td>Bariai</td>
+<td><i>rai</i></td>
+<td>
+'<span>year</span>'</td>
+</tr>
+<tr>
+<td>NNG</td>
+<td>Lukep</td>
+<td><i>rai</i></td>
+<td>
+'<span>year</span>'</td>
+</tr>
+<tr>
+<td>Mic</td>
+<td>Woleaian</td>
+<td><i>ẓaxi</i></td>
+<td>
+'<span>year, age, summer season</span>'</td>
+</tr>
+</table>
 
 — whilst the two below reflect POc _&ast;apaRat_ ‘northwest wind’:
 
-```
- MM: Barok             awat            ‘year’
- MM: Siar              yahrat          ‘year’
-```
+<table>
+<tr>
+<td>MM</td>
+<td>Barok</td>
+<td><i>awat</i></td>
+<td>
+'<span>year</span>'</td>
+</tr>
+<tr>
+<td>MM</td>
+<td>Siar</td>
+<td><i>yahrat</i></td>
+<td>
+'<span>year</span>'</td>
+</tr>
+</table>
 
 
 <a id="s-5"></a>
@@ -3231,11 +3344,29 @@ The items below—POc _&ast;kapu(t)_/_&ast;kopu_ ‘low cloud, mist, fog’ and 
 
 The Bali and Fijian forms below are problematic, as they reflect POc &ast;kabu(t), not &ast;kapu(t)
 
-```
- MM: Vitu             ɣabu-ɣabu     ‘fog’
- Fij:    Bauan        kabu          ‘mist’
- Fij:    Wayan        kabu          (N) ‘mist, haze, fog’; (V) ‘be covered in cloud, mist, fog’
-```
+<table>
+<tr>
+<td>MM</td>
+<td>Vitu</td>
+<td><i>ɣabu-ɣabu</i></td>
+<td>
+'<span>fog</span>'</td>
+</tr>
+<tr>
+<td>Fij</td>
+<td>Bauan</td>
+<td><i>kabu</i></td>
+<td>
+'<span>sow or scatter small seeds</span>'; '<span>mist</span>'</td>
+</tr>
+<tr>
+<td>Fij</td>
+<td>Wayan</td>
+<td><i>kabu</i></td>
+<td>
+(N) '<span>mist, haze, fog</span>'; (V) '<span>be covered in cloud, mist, fog</span>'</td>
+</tr>
+</table>
 
 It seems likely that &ast;kopu already occurred in POc as a doublet of _&ast;kapu(t)_ resulting from assimilation of the rounding feature of the second vowel to that of the first. Such a change was once productive in both Rotuman and Tongan (Andrew Pawley, pers. comm.).
 
@@ -3405,7 +3536,7 @@ As if this were not already complicated enough, a further curiosity is the recon
 '<span>raincloud (sign of rain)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>kapua</i></td>
+<td>Pn</td><td>Māori</td><td><i>kapua</i></td>
 <td>
 '<span>cloud, mist</span>'</td>
 </tr>
@@ -3773,7 +3904,7 @@ A semantically related term was POc _&ast;bata_, which, to judge from a constell
 '<span>raindrop</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>pata</i></td>
+<td>Pn</td><td>Māori</td><td><i>pata</i></td>
 <td>
 '<span>raindrop</span>'</td>
 </tr>
@@ -3883,7 +4014,7 @@ In search of other terms associated in one way or another with rain, I tried to 
 '<span>rainbow</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>(ā)niwaniwa</i></td>
+<td>Pn</td><td>Māori</td><td><i>(ā)niwaniwa</i></td>
 <td>
 '<span>rainbow</span>'</td>
 </tr>

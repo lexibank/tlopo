@@ -350,7 +350,7 @@ As mentioned above, Oceanic languages have terms denoting different parts of woo
 '<span>stem; chief, root, origin, source, cause</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>pū</i></td>
+<td>Pn</td><td>Māori</td><td><i>pū</i></td>
 <td>
 '<span>bunch, bundle, anything growing in a bunch, tuft, heap, stack</span>'</td>
 </tr>
@@ -413,7 +413,7 @@ Terms with similar meanings to Wayan _ŋau_ 'main or centre section of trunk' an
 '<span>top ends of small twigs or branches</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>(ka)uru</i></td>
+<td>Pn</td><td>Māori</td><td><i>(ka)uru</i></td>
 <td>
 '<span>the head of a tree</span>'</td>
 </tr>
@@ -476,7 +476,7 @@ Terms for different types of wood or tissue in woody stems are present in Wayan,
 '<span>sap, sapwood</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>taitea</i></td>
+<td>Pn</td><td>Māori</td><td><i>taitea</i></td>
 <td>
 '<span>white wood, sapwood</span>'</td>
 </tr>
@@ -521,7 +521,7 @@ POc _&ast;uso_ 'umbilical cord, core' may also have been used to refer to the co
 '<span>navel, cord pith, core, core-like centre</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>uho, iho</i></td>
+<td>Pn</td><td>Māori</td><td><i>uho, iho</i></td>
 <td>
 '<span>umbilical cord, heart (of a tree), pith, inside, kernel</span>'</td>
 </tr>
@@ -1104,7 +1104,7 @@ PPn _&ast;maŋa_ 'branch, fork; branching, forked' is a well-supported reconstru
 '<span>bifurcation, branching off</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>maŋa</i></td>
+<td>Pn</td><td>Māori</td><td><i>maŋa</i></td>
 <td>
 '<span>(tree) branch</span>'</td>
 </tr>

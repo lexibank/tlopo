@@ -631,7 +631,7 @@ _&ast;gabʷari-_ evidently took inalienable possessive marking, with 3rd person 
 '<span>any artificially raised platform or mound of earth, a walled platform; form a mound of earth</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>ahu</i></td>
+<td>Pn</td><td>Māori</td><td><i>ahu</i></td>
 <td>
 '<span>platform of stones</span>'</td>
 </tr>
@@ -812,7 +812,7 @@ The following group of ten cognate sets indicate that early Austronesian dwellin
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>(tā)huhu</i></td>
+<td>Pn</td><td>Māori</td><td><i>(tā)huhu</i></td>
 <td>
 </td>
 </tr>
@@ -973,7 +973,7 @@ A second POc term for thatch is reconstructable, namely _&ast;rau(n)_, whose pri
 '<span>leaf; thatch</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>rau</i></td>
+<td>Pn</td><td>Māori</td><td><i>rau</i></td>
 <td>
 '<span>thatch</span>'</td>
 </tr>
@@ -1763,7 +1763,7 @@ The Nauna, Loniu and Lau forms point to POc _&ast;paRa_, the Fijian reflex to _&
 '<span>flat board, plank; rock</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>papa</i></td>
+<td>Pn</td><td>Māori</td><td><i>papa</i></td>
 <td>
 '<span>flat rock, slab, board</span>'</td>
 </tr>
@@ -2007,7 +2007,7 @@ A term for an oven made with hot stones, POc _&ast;qumun_ is widely attested (se
 '<span>earth oven</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>umu</i></td>
+<td>Pn</td><td>Māori</td><td><i>umu</i></td>
 <td>
 '<span>earth oven</span>'</td>
 </tr>
@@ -2181,12 +2181,12 @@ The PT and SES forms in the above set are cognate on the assumption that metathe
 '<span>fish weir with stone walls</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>pā</i></td>
+<td>Pn</td><td>Māori</td><td><i>pā</i></td>
 <td>
 '<span>stockade, fortified place; fish weir</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>pā-ia</i></td>
+<td>Pn</td><td>Māori</td><td><i>pā-ia</i></td>
 <td>
 '<span>block up, act as barrier</span>'</td>
 </tr>
@@ -2445,7 +2445,7 @@ One further reconstruction, POc _&ast;kaRi_ 'garden fence or partition', is give
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>ara</i></td>
+<td>Pn</td><td>Māori</td><td><i>ara</i></td>
 <td>
 </td>
 </tr>
@@ -2731,7 +2731,7 @@ For POc _&ast;malaqai_, [Milke](../references.md#source-Milke1968) ([1968](../re
 '<span>open space in the middle of a village, meeting-ground</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>marae</i></td>
+<td>Pn</td><td>Māori</td><td><i>marae</i></td>
 <td>
 '<span>enclosed space before house, courtyard</span>'</td>
 </tr>

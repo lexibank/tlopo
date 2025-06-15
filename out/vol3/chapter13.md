@@ -157,7 +157,7 @@ The POc term &ast;topu 'sugarcane, Saccharum officinarum' continues PAn &ast;teb
 '<span>coconut</span>'</td>
 </tr>
 <tr>
-<td>TM</td><td>Asuboa</td><td><i>u-ñio</i></td>
+<td>TM</td><td>Asumboa</td><td><i>u-ñio</i></td>
 <td>
 '<span>coconut</span>'</td>
 </tr>
@@ -232,7 +232,7 @@ The POc term &ast;topu 'sugarcane, Saccharum officinarum' continues PAn &ast;teb
 '<span>sugarcane</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Larevat</td><td><i>n-sev</i></td>
+<td>NCV</td><td>Larëvat</td><td><i>n-sev</i></td>
 <td>
 '<span>sugarcane</span>'</td>
 </tr>
@@ -870,7 +870,7 @@ The best supported hypothesis appears to be that Piper methysticum is a domestic
 '<span>kava</span>'; '<span>kava; sour, bitter</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Vures</td><td><i>ɣe</i></td>
+<td>NCV</td><td>Vurës</td><td><i>ɣe</i></td>
 <td>
 '<span>kava; sour, bitter</span>'</td>
 </tr>
@@ -935,12 +935,12 @@ The best supported hypothesis appears to be that Piper methysticum is a domestic
 '<span>kava; sour</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>kawa</i></td>
+<td>Pn</td><td>Māori</td><td><i>kawa</i></td>
 <td>
 '<span>sour, bitter; perform certain kinds of ceremony</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>kawa-kawa</i></td>
+<td>Pn</td><td>Māori</td><td><i>kawa-kawa</i></td>
 <td>
 '<span>Macropiper excelsum</span>'</td>
 </tr>
@@ -1352,7 +1352,7 @@ Among languages which retain a reflex of the final consonant, Mussau and Petats 
 '<span>bamboo</span>' (<span>*q</span>)</td>
 </tr>
 <tr>
-<td>NCal</td><td>Nêlêmwa</td><td><i>ŋ-ga</i></td>
+<td>NCal</td><td>Nêlêmwâ</td><td><i>ŋ-ga</i></td>
 <td>
 '<span>bamboo</span>' (<span>*q</span>)</td>
 </tr>
@@ -2893,7 +2893,7 @@ The root above was the source of the POc term for 'yellow', &ast;yaŋo-yaŋo:
 '<span>yellow</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>reŋa-reŋa</i></td>
+<td>Pn</td><td>Māori</td><td><i>reŋa-reŋa</i></td>
 <td>
 '<span>a large: herb with curcuma-like leaves and short rhizome, Arthropodium cirratum</span>' (<span>R. Gardner, pers. comm.</span>)</td>
 </tr>
@@ -3529,7 +3529,7 @@ cf. also:
 '<span>Cordyline fruticosa</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>tĩ</i></td>
+<td>Pn</td><td>Māori</td><td><i>tĩ</i></td>
 <td>
 '<span>Cordyline sp.</span>'</td>
 </tr>
@@ -3599,7 +3599,7 @@ Medial parenthesised &ast;-q- is reconstructed in POc &ast;kaRi(q)a on the assum
 '<span>Cordyline sp.</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Larevat</td><td><i>na-ɣri</i></td>
+<td>NCV</td><td>Larëvat</td><td><i>na-ɣri</i></td>
 <td>
 '<span>Cordyline sp.</span>'</td>
 </tr>

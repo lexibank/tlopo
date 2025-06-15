@@ -261,7 +261,7 @@ The most widely reflected term for D. alata is POc _&ast;qupi_, which is also wi
 '<span>greater yam; yam (generic)</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Nêlêmwa</td><td><i>kuvic</i></td>
+<td>NCal</td><td>Nêlêmwâ</td><td><i>kuvic</i></td>
 <td>
 '<span>greater yam; yam (generic)</span>'</td>
 </tr>
@@ -672,7 +672,7 @@ cf. also:
 <td>Wayan</td>
 <td><i>mami</i></td>
 <td>
-'<span>cooking banana with short thick fruit; sweet-tasting, but skin remains green and flesh hard even when ripe</span>'</td>
+'<span>cooking banana with short thick fruit; sweet-tasting, but skin remains green and flesh hard even when ripe</span>'; '<span>cooking banana, sweet-tasting</span>'</td>
 </tr>
 </table>
 
@@ -770,7 +770,7 @@ Further terms for yam can be reconstructed, but it is unclear which species they
 '<span>Dioscorea sp.</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Larevat</td><td><i>dram</i></td>
+<td>NCV</td><td>Larëvat</td><td><i>dram</i></td>
 <td>
 '<span>Dioscorea sp.</span>'</td>
 </tr>
@@ -825,7 +825,7 @@ Further terms for yam can be reconstructed, but it is unclear which species they
 '<span>D. bulbifera</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Nêlêmwa</td><td><i>demʷa</i></td>
+<td>NCal</td><td>Nêlêmwâ</td><td><i>demʷa</i></td>
 <td>
 '<span>D. bulbifera</span>'</td>
 </tr>
@@ -1401,7 +1401,261 @@ Kikusawa may well be right,[^14] as [Bourke](../references.md#source-Bourke1990)
 
 The items listed below denote 'swamp taro, Cyrtosperma merkusii' unless glossed otherwise.
 
-__formgroup__ Adm:  Mussau         ulaa     &ast;pu(l,r,R)a(q,k)a Adm:  Seimat         hula     &ast;pula(q,k)a        'swamp taro, Alocasia sp., introduced from Aua' ([Sorensen 1950](../references.md#source-Sorensen1950)) Adm:  Aua            fuula    &ast;pula(q,k )a       'taro' Adm:  Lou            pulak    &ast;(p,b )ulaka MM:   Nakanai        uta      &ast;u(l,r,R)a(q,k )a  'an inedible wild taro, Colocasia sp.' MM:   Nakanai        buleha   &ast;bu(l,r,R)eqa      'an inedible wild taro, Colocasia sp.' MM:   Nakanai        bureka   &ast;buseqa            'variety of elephant ear taro, Alocasia macrorrhizos' MM:   Kara (E)       vulai    &ast;hulaqa            'k.o. taro' MM:   Patpatar       pulaka   &ast;pulaka            'Polynesian arrowroot, probably Tacca leontopetaloides'[^16] MM:   Tolai          pulaka   &ast;pulaka            'Polynesian arrowroot, probably Tacca leontopetaloides' NCV:  Mota           puaka    &ast;hu(R)aga          'boggy ground, mud' NCV:  Uripiv         suak     &ast;hu(R)aga          '(rare) taro' NCV:  Big Nambas     boak     &ast;hu(R)aga          'taro, Colocasia sp.' NCV:  Port Sandwich  mbuang   &ast;hu(R)aga          'hill taro' NCV:  Naman          huag     &ast;hu(R)aga NCV:  Neve'ei        ni-hiaŋ  &ast;hu(R)aga NCV:  Avava          BUaŋ     &ast;hu(R)aga NCV:  Nese           hoak     &ast;hu(R)aga NCV:  Namakir        huag     &ast;hu(R)aga NCal: Xaracuu        huraa    ?                  'variety of taro' Mic:  Marshallese    pʷaz     &ast;hulaqa            'swamp taro patch' Mic:  Mortlockese    pʷulaʔ  &ast;hula(q,k)a Mic:  Chuukese       pʷura   &ast;hula(q,k)a Mic:  Puluwatese     pʷula   &ast;hula(q,k)a Mic:  Satawalese     pʷula   &ast;hula(q,k)a Mic:  Carolinian     bʷula    &ast;hula(q,k)a Mic:  Woleaian       f"uraxe  &ast;hulaka Mic:  Pulo-Annan     vʷuraxa  &ast;hulaka Pn:   Anutan         pulaka   &ast;hulaka Pn:   Pukapukan      pulaka   &ast;hulaka Pn:   E Futunan      pulaka   &ast;hulaka Pn:   E Uvean        pulaka   &ast;hulaka Pn:   Samoan         pulaʔa   &ast;hulaka Pn:   Tuvalu         pulaka   &ast;hulaka Pn:   Tokelauan      pulaka   &ast;hulaka Pn:   Raratangan     puraka   &ast;hulaka            'coarse kind of taro'
+<table>
+<tr>
+<td>Adm</td>
+<td>Mussau</td>
+<td><i>ulaa</i></td>
+<td>
+'<span>swamp taro, Cyrtosperma merkusii</span>' (<span>would reflect <em>*pu(l,r,R)a(q,k)a</em></span>)</td>
+</tr>
+<tr>
+<td>Adm</td>
+<td>Seimat</td>
+<td><i>hula</i></td>
+<td>
+'<span>swamp taro, Alocasia sp., introduced from Aua</span>' (<span>would reflect <em>*pula(q,k)a</em></span>)(<a href="../references.md#source-Sorensen1950">Sorensen1950</a>)
+</td>
+</tr>
+<tr>
+<td>Adm</td>
+<td>Aua</td>
+<td><i>fuula</i></td>
+<td>
+'<span>taro</span>' (<span>would reflect <em>*pula(q,k)a</em></span>)</td>
+</tr>
+<tr>
+<td>Adm</td>
+<td>Lou</td>
+<td><i>pulak</i></td>
+<td>
+'<span>swamp taro, Cyrtosperma merkusii</span>' (<span>would reflect <em>*(p,b)ulaka</em></span>)</td>
+</tr>
+<tr>
+<td>MM</td>
+<td>Nakanai</td>
+<td><i>ula</i></td>
+<td>
+'<span>an inedible wild taro, Colocasia sp.</span>' (<span>would reflect <em>*u(l,r,R)a(q,k)a</em></span>)</td>
+</tr>
+<tr>
+<td>MM</td>
+<td>Nakanai</td>
+<td><i>buleha</i></td>
+<td>
+'<span>an inedible wild taro, Colocasia sp.</span>' (<span>would reflect <em>*bu(l,r,R)eqa</em></span>)</td>
+</tr>
+<tr>
+<td>MM</td>
+<td>Nakanai</td>
+<td><i>bureka</i></td>
+<td>
+'<span>variety of elephant ear taro, Alocasia macrorrhizos</span>' (<span>would reflect <em>*buseqa</em></span>)</td>
+</tr>
+<tr>
+<td>MM</td>
+<td>Kara (East)</td>
+<td><i>vuləi</i></td>
+<td>
+'<span>k.o. taro</span>' (<span>would reflect <em>*hulaqa</em></span>)</td>
+</tr>
+<tr>
+<td>MM</td>
+<td>Patpatar</td>
+<td><i>pulaka</i></td>
+<td>
+'<span>Polynesian arrowroot, probably Tacca leontopetaloides</span>' (<span>would reflect <em>*pulaka</em></span>)</td>
+</tr>
+<tr>
+<td>MM</td>
+<td>Tolai</td>
+<td><i>pulaka</i></td>
+<td>
+'<span>Polynesian arrowroot, probably Tacca leontopetaloides</span>' (<span>would reflect <em>*pulaka</em></span>)</td>
+</tr>
+<tr>
+<td>NCV</td>
+<td>Mota</td>
+<td><i>puaka</i></td>
+<td>
+'<span>boggy ground, mud</span>' (<span>would reflect <em>*hu(R)aga</em></span>)</td>
+</tr>
+<tr>
+<td>NCV</td>
+<td>Uripiv</td>
+<td><i>ʙuak</i></td>
+<td>
+'<span>(rare) taro</span>' (<span>would reflect <em>*hu(R)aga</em></span>)</td>
+</tr>
+<tr>
+<td>NCV</td>
+<td>Big Nambas</td>
+<td><i>bōak</i></td>
+<td>
+'<span>taro, Colocasia sp.</span>' (<span>would reflect <em>*hu(R)aga</em></span>)</td>
+</tr>
+<tr>
+<td>NCV</td>
+<td>Port Sandwich</td>
+<td><i>ᵐbuaᵑg</i></td>
+<td>
+'<span>hill taro</span>' (<span>would reflect <em>*hu(R)aga</em></span>)</td>
+</tr>
+<tr>
+<td>NCV</td>
+<td>Naman</td>
+<td><i>buag</i></td>
+<td>
+'<span>swamp taro, Cyrtosperma merkusii</span>' (<span>would reflect <em>*hu(R)aga</em></span>)</td>
+</tr>
+<tr>
+<td>NCV</td>
+<td>Neve’ei</td>
+<td><i>ni-biaŋ</i></td>
+<td>
+'<span>swamp taro, Cyrtosperma merkusii</span>' (<span>would reflect <em>*hu(R)aga</em></span>)</td>
+</tr>
+<tr>
+<td>NCV</td>
+<td>Avava</td>
+<td><i>ʙuaŋ</i></td>
+<td>
+'<span>swamp taro, Cyrtosperma merkusii</span>' (<span>would reflect <em>*hu(R)aga</em></span>)</td>
+</tr>
+<tr>
+<td>NCV</td>
+<td>Nese</td>
+<td><i>boak</i></td>
+<td>
+'<span>swamp taro, Cyrtosperma merkusii</span>' (<span>would reflect <em>*hu(R)aga</em></span>)</td>
+</tr>
+<tr>
+<td>NCV</td>
+<td>Namakir</td>
+<td><i>buag</i></td>
+<td>
+'<span>swamp taro, Cyrtosperma merkusii</span>' (<span>would reflect <em>*hu(R)aga</em></span>)</td>
+</tr>
+<tr>
+<td>NCal</td>
+<td>Xârâcùù</td>
+<td><i>buraa</i></td>
+<td>
+'<span>variety of taro</span>' (<span>would reflect ?</span>)</td>
+</tr>
+<tr>
+<td>Mic</td>
+<td>Marshallese</td>
+<td><i>pɯəl</i></td>
+<td>
+'<span>swamp taro patch</span>' (<span>would reflect <em>*hulaqa</em></span>)</td>
+</tr>
+<tr>
+<td>Mic</td>
+<td>Mortlockese</td>
+<td><i>pʷulᴂ</i></td>
+<td>
+'<span>swamp taro, Cyrtosperma merkusii</span>' (<span>would reflect <em>*hula(q,k)a</em></span>)</td>
+</tr>
+<tr>
+<td>Mic</td>
+<td>Trukese</td>
+<td><i>pʷuɾa</i></td>
+<td>
+'<span>swamp taro, Cyrtosperma merkusii</span>' (<span>would reflect <em>*hula(q,k)a</em></span>)</td>
+</tr>
+<tr>
+<td>Mic</td>
+<td>Puluwatese</td>
+<td><i>pʷula</i></td>
+<td>
+'<span>swamp taro, Cyrtosperma merkusii</span>' (<span>would reflect <em>*hula(q,k)a</em></span>)</td>
+</tr>
+<tr>
+<td>Mic</td>
+<td>Satawalese</td>
+<td><i>pʷula</i></td>
+<td>
+'<span>swamp taro, Cyrtosperma merkusii</span>' (<span>would reflect <em>*hula(q,k)a</em></span>)</td>
+</tr>
+<tr>
+<td>Mic</td>
+<td>Carolinian</td>
+<td><i>bʷula</i></td>
+<td>
+'<span>swamp taro, Cyrtosperma merkusii</span>' (<span>would reflect <em>*hula(q,k)a</em></span>)</td>
+</tr>
+<tr>
+<td>Mic</td>
+<td>Woleaian</td>
+<td><i>fʷuraxe</i></td>
+<td>
+'<span>swamp taro, Cyrtosperma merkusii</span>' (<span>would reflect <em>*hulaka</em></span>)</td>
+</tr>
+<tr>
+<td>Mic</td>
+<td>Pulo-Annan</td>
+<td><i>vʷuraxa</i></td>
+<td>
+'<span>swamp taro, Cyrtosperma merkusii</span>' (<span>would reflect <em>*hulaka</em></span>)</td>
+</tr>
+<tr>
+<td>Pn</td>
+<td>Anutan</td>
+<td><i>pulaka</i></td>
+<td>
+'<span>swamp taro, Cyrtosperma merkusii</span>' (<span>would reflect <em>*hulaka</em></span>)</td>
+</tr>
+<tr>
+<td>Pn</td>
+<td>Pukapukan</td>
+<td><i>pulaka</i></td>
+<td>
+'<span>swamp taro, Cyrtosperma merkusii</span>' (<span>would reflect <em>*hulaka</em></span>)</td>
+</tr>
+<tr>
+<td>Pn</td>
+<td>East Futunan</td>
+<td><i>pulaka</i></td>
+<td>
+'<span>swamp taro, Cyrtosperma merkusii</span>' (<span>would reflect <em>*hulaka</em></span>)</td>
+</tr>
+<tr>
+<td>Pn</td>
+<td>East Uvean</td>
+<td><i>pulaka</i></td>
+<td>
+'<span>swamp taro, Cyrtosperma merkusii</span>' (<span>would reflect <em>*hulaka</em></span>)</td>
+</tr>
+<tr>
+<td>Pn</td>
+<td>Samoan</td>
+<td><i>pulaʔa</i></td>
+<td>
+'<span>swamp taro, Cyrtosperma merkusii</span>' (<span>would reflect <em>*hulaka</em></span>)</td>
+</tr>
+<tr>
+<td>Pn</td>
+<td>Tuvalu</td>
+<td><i>pulaka</i></td>
+<td>
+'<span>swamp taro, Cyrtosperma merkusii</span>' (<span>would reflect <em>*hulaka</em></span>)</td>
+</tr>
+<tr>
+<td>Pn</td>
+<td>Tokelauan</td>
+<td><i>pulaka</i></td>
+<td>
+'<span>swamp taro, Cyrtosperma merkusii</span>' (<span>would reflect <em>*hulaka</em></span>)</td>
+</tr>
+<tr>
+<td>Pn</td>
+<td>Rarotongan</td>
+<td><i>puraka</i></td>
+<td>
+'<span>coarse kind of taro</span>' (<span>would reflect <em>*hulaka</em></span>)</td>
+</tr>
+</table>
 
 
 <a id="p-271"></a>
@@ -1595,7 +1849,7 @@ The POc name for giant taro was _&ast;piRaq_, continuing a PMP etymon. The final
 '<span>Alocasia macrorrhizos</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Nêlêmwa</td><td><i>pia</i></td>
+<td>NCal</td><td>Nêlêmwâ</td><td><i>pia</i></td>
 <td>
 '<span>Alocasia macrorrhizos</span>'</td>
 </tr>
@@ -1829,7 +2083,7 @@ The gloss of the Raga reflex refers to famine food, and probably denotes P. loba
 '<span>root</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>aka</i></td>
+<td>Pn</td><td>Māori</td><td><i>aka</i></td>
 <td>
 '<span>Metrosideros spp. that begin life as climbing vines.</span>'</td>
 </tr>
@@ -1957,7 +2211,7 @@ The likelihood that banana domestication first occurred in New Guinea, and that 
 '<span>banana</span>'</td>
 </tr>
 <tr>
-<td>TM</td><td>Aiwoo</td><td><i>no-u</i></td>
+<td>TM</td><td>Äiwoo</td><td><i>no-u</i></td>
 <td>
 '<span>banana</span>'</td>
 </tr>
@@ -2211,7 +2465,7 @@ The glosses of the four terms below are vague, both because the glosses of prese
 '<span>banana</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Larevat</td><td><i>(nəv)saɣ</i></td>
+<td>NCV</td><td>Larëvat</td><td><i>(nəv)saɣ</i></td>
 <td>
 '<span>banana</span>'</td>
 </tr>
@@ -2378,7 +2632,37 @@ cf. also:
 
 There is evidence for PWOc _&ast;pudi-pudi_ 'wild banana', a transparent reduplication of the generic POc term for banana (see ch. 2, §7.2).
 
-__formgroup__ NNG: Mangap        pin-pin         'wild banana' PT:  Sudest        ɣudu-ɣudu       'wild banana seeds' MM:  Ramoaaina     udu-udu         'wild banana' MM:  Tolai         vudu-vudu       'wild banana, Ensete glaucum'[^20] ([Arnaud & Horry 1997](../references.md#source-ArnaudandJPHorry1997): 19)
+<table>
+<tr>
+<td>NNG</td>
+<td>Mangap</td>
+<td><i>pin-pin</i></td>
+<td>
+'<span>wild banana</span>' (<span><em>pin</em> 'banana'</span>)</td>
+</tr>
+<tr>
+<td>PT</td>
+<td>Sudest</td>
+<td><i>ɣudu-ɣudu</i></td>
+<td>
+'<span>wild banana seeds</span>' (<span><em>yudu</em> 'banana'</span>)</td>
+</tr>
+<tr>
+<td>MM</td>
+<td>Ramoaaina</td>
+<td><i>udu-udu</i></td>
+<td>
+'<span>wild banana</span>' (<span><em>un</em> 'banana'</span>)</td>
+</tr>
+<tr>
+<td>MM</td>
+<td>Tolai</td>
+<td><i>vudu-vudu</i></td>
+<td>
+'<span>wild banana, Ensete glaucum</span>'(<a href="../references.md#source-ArnaudandJPHorry1997">ArnaudandJPHorry1997: 19</a>)
+</td>
+</tr>
+</table>
 
 Names for the various parts of the banana plant are discussed in chapter 4. Some are also mentioned in §2.2.1, as they are also used for the taro (and probably for other plants, too). Sorting out glosses is sometimes difficult, but the following inferences appear to be well founded (section numbers refer to ch. 4): the banana plant has a main stem, _&ast;baRa-baRa_ (§2.2) of its own, from which protrudes a stem holding a bunch, _&ast;puŋu_ (§2.8) of bananas, from which in turn grow small stems, _&ast;kulo_ (§2.8) each holding a hand, _&ast;qitiŋ_ (§2.8) of bananas.[^21] A new banana plant is planted with a slip or cutting, _&ast;[s,j]uli(q)_ (§2.6), and the new growth first appears as a shoot, _&ast;qili_ (§2.6).
 
@@ -2547,7 +2831,7 @@ A fourth term, Proto Remote Oceanic _&ast;maRi_ 'breadfruit', is limited to Sout
 '<span>breadfruit</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Nêlêmwa</td><td><i>cen</i></td>
+<td>NCal</td><td>Nêlêmwâ</td><td><i>cen</i></td>
 <td>
 '<span>breadfruit</span>'</td>
 </tr>
@@ -2796,7 +3080,7 @@ A fourth term, Proto Remote Oceanic _&ast;maRi_ 'breadfruit', is limited to Sout
 </td>
 </tr>
 <tr>
-<td>TM</td><td>Aiwoo</td><td><i>ñi-bälo</i></td>
+<td>TM</td><td>Äiwoo</td><td><i>ñi-bälo</i></td>
 <td>
 '<span>breadfruit</span>'</td>
 </tr>
@@ -3241,7 +3525,7 @@ There was apparently just one POc term for the sago palm, namely POc _&ast;Rabia
 '<span>sago</span>'</td>
 </tr>
 <tr>
-<td>TM</td><td>Asuboa</td><td><i>(lov)ne-te</i></td>
+<td>TM</td><td>Asumboa</td><td><i>(lov)ne-te</i></td>
 <td>
 '<span>sago</span>'</td>
 </tr>
@@ -3406,12 +3690,12 @@ The glosses of many of the terms listed below  refer simply to 'cycad' or 'Cycas
 '<span>cycad</span>'</td>
 </tr>
 <tr>
-<td>TM</td><td>Aiwoo</td><td><i>(nʷasi)poyi</i></td>
+<td>TM</td><td>Äiwoo</td><td><i>(nʷasi)poyi</i></td>
 <td>
 '<span>Cycas rumphii</span>'</td>
 </tr>
 <tr>
-<td>TM</td><td>Aiwoo</td><td><i>(nʷasi)poyi</i></td>
+<td>TM</td><td>Äiwoo</td><td><i>(nʷasi)poyi</i></td>
 <td>
 '<span>Cycas rumphii</span>'</td>
 </tr>

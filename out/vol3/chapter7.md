@@ -1044,7 +1044,7 @@ POc _&ast;maqota_ perhaps denoted a taxon including several Dysoxylum species. A
 '<span>hard, red, wood that drifts to Takuu</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>māota</i></td>
+<td>Pn</td><td>Māori</td><td><i>māota</i></td>
 <td>
 '<span>Dysoxylum spectabile</span>'</td>
 </tr>
@@ -1575,7 +1575,7 @@ Polynesian languages, meanwhile, have reapplied the PCP reflex of POc _&ast;pesi
 '<span>Casuarina equisetifolia</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>toa-toa</i></td>
+<td>Pn</td><td>Māori</td><td><i>toa-toa</i></td>
 <td>
 '<span>Phyllocladus glaucus</span>'</td>
 </tr>
@@ -1823,7 +1823,7 @@ In view of this variation we can be sure only that POc _&ast;kalaka_ denoted a s
 '<span>tree sp.</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>karaka</i></td>
+<td>Pn</td><td>Māori</td><td><i>karaka</i></td>
 <td>
 '<span>Corynocarpus laevigata</span>'</td>
 </tr>
@@ -2383,7 +2383,7 @@ Figure 7.7: Left Bischofia javanica, Java cedar: A, tree; B compound leaf; C, br
 '<span>Bischofia javanica</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>koka</i></td>
+<td>Pn</td><td>Māori</td><td><i>koka</i></td>
 <td>
 '<span>some edible plant</span>'</td>
 </tr>
@@ -2934,7 +2934,7 @@ Most of the terms below are from NCV languages, and they present a minor puzzle.
 '<span>Kleinhovia hospita</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Larevat</td><td><i>medrak</i></td>
+<td>NCV</td><td>Larëvat</td><td><i>medrak</i></td>
 <td>
 '<span>Kleinhovia hospita</span>'</td>
 </tr>
@@ -2971,7 +2971,7 @@ Most of the terms below are from NCV languages, and they present a minor puzzle.
 </td>
 </tr>
 <tr>
-<td>NCV</td><td>Vures</td><td><i>matal</i></td>
+<td>NCV</td><td>Vurës</td><td><i>matal</i></td>
 <td>
 '<span>Kleinhovia hospita</span>'</td>
 </tr>
@@ -3301,7 +3301,7 @@ The reconstruction that emerges from the discussion above is POc _&ast;daRaka_, 
 </td>
 </tr>
 <tr>
-<td>NCV</td><td>Vures</td><td><i>daraɣ</i></td>
+<td>NCV</td><td>Vurës</td><td><i>daraɣ</i></td>
 <td>
 '<span>Myristica fatua</span>' (<a href="../references.md#source-Francois2004b">Francois2004b</a>)
 </td>
@@ -3516,7 +3516,85 @@ Blust (ACD) reconstructs doublets _&ast;qatita_ and _&ast;qarita_ for this item.
 
 Among directly inherited Admiralties reflexes of _&ast;qatita_, those in Likum, Drehet and Lou have initial _k-_. The reflexes below, however, agree not only in appearing to reflect _&ast;-r-_ but also in loss of the initial consonant. This suggests that they may all reflect a single early borrowing of a form _&ast;arita_.
 
-__formgroup__ Adm:   Mussau         arita             'putty nut' Adm:   Lindrou        alik              'putty nut, Parinari laurina' Adm:   Nauna          alit              'putty nut, Parinari laurina' Adm:   Penchal        alit              'putty nut, Parinari laurina' Adm:   Pak            ehir              'putty nut, Parinari laurina' Adm:   Nali           n-alit            'putty nut, Parinari laurina' Adm:   Ere            arit              'putty nut, Parinari laurina' Adm:   Titan          alit              'putty nut, Parinari laurina' Adm:   Sori-Harengan  ahiʔ              'putty nut, Parinari laurina' Adm:   Leipon         yerit             'putty nut, Parinari laurina' Adm:   Loniu          eit, aʔat         'putty nut, Parinari laurina'
+<table>
+<tr>
+<td>Adm</td>
+<td>Mussau</td>
+<td><i>arita</i></td>
+<td>
+'<span>putty nut</span>'</td>
+</tr>
+<tr>
+<td>Adm</td>
+<td>Nyindrou</td>
+<td><i>alik</i></td>
+<td>
+'<span>putty nut, Parinari laurina</span>'</td>
+</tr>
+<tr>
+<td>Adm</td>
+<td>Nauna</td>
+<td><i>alit</i></td>
+<td>
+'<span>putty nut, Parinari laurina</span>'</td>
+</tr>
+<tr>
+<td>Adm</td>
+<td>Penchal</td>
+<td><i>alit</i></td>
+<td>
+'<span>putty nut, Parinari laurina</span>'</td>
+</tr>
+<tr>
+<td>Adm</td>
+<td>Pak</td>
+<td><i>ehir</i></td>
+<td>
+'<span>putty nut, Parinari laurina</span>'</td>
+</tr>
+<tr>
+<td>Adm</td>
+<td>Nali</td>
+<td><i>n-alit</i></td>
+<td>
+'<span>putty nut, Parinari laurina</span>'</td>
+</tr>
+<tr>
+<td>Adm</td>
+<td>Ere</td>
+<td><i>arit</i></td>
+<td>
+'<span>putty nut, Parinari laurina</span>'</td>
+</tr>
+<tr>
+<td>Adm</td>
+<td>Titan</td>
+<td><i>alit</i></td>
+<td>
+'<span>putty nut, Parinari laurina</span>'</td>
+</tr>
+<tr>
+<td>Adm</td>
+<td>Sori-Harengan</td>
+<td><i>ahiʔ</i></td>
+<td>
+'<span>putty nut, Parinari laurina</span>'</td>
+</tr>
+<tr>
+<td>Adm</td>
+<td>Leipon</td>
+<td><i>yerit</i></td>
+<td>
+'<span>putty nut, Parinari laurina</span>'</td>
+</tr>
+<tr>
+<td>Adm</td>
+<td>Loniu</td>
+<td><i>eit, aʔat</i></td>
+<td>
+'<span>putty nut, Parinari laurina</span>'</td>
+</tr>
+</table>
 
 A number of Meso-Melanesian reflexes lack the initial syllable, reflecting a possible Proto Meso-Melanesian altemant _&ast;tita_.[^25] For clarity's sake these are listed separately below. There are also two SE Solomonic reflexes of _&ast;tita_, in Gela and Bugotu, but both languages are prone to borrow from NW Solomonic (and thus Meso-Melanesian) neighbours.
 
@@ -4688,7 +4766,7 @@ The presence of _-i-_ in Kwaio and Kwara'ae _kʷailasi_ and Lau _koilasi_ probab
 '<span>Semecarpus vitiensis</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Nêlêmwa</td><td><i>wââric</i></td>
+<td>NCal</td><td>Nêlêmwâ</td><td><i>wââric</i></td>
 <td>
 '<span>Semecarpus vitiensis</span>'</td>
 </tr>
@@ -5071,7 +5149,7 @@ Several forms below reflect PAn _&ast;lateŋ_ with a prefixed syllable: POc _&as
 '<span>k.o. nettle</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Vures</td><td><i>silat</i></td>
+<td>NCV</td><td>Vurës</td><td><i>silat</i></td>
 <td>
 '<span>Dendrocnide sp.</span>' (<a href="../references.md#source-Francois2004b">Francois2004b</a>)
 </td>
@@ -5485,18 +5563,133 @@ Because it receives little light, the forest floor is often almost bare of plant
 
 The generic term for mushrooms and fleshy fungi was POc _&ast;taliŋa_ (Ch 3, §4. 7), formally identical to _&ast;taliŋa_ 'ear' and presumably reflecting a perception that some fungi resemble the human ear. [Blust](../references.md#source-Blust2000) ([2000](../references.md#source-Blust2000)) points out that more detailed descriptions specify the referent of _&ast;taliŋa_ reflexes as jelly fungus, which do not have the umbrella-like shape of a mushroom but 'sprout directly from the trunks of dead trees as a collection of folded tissues which may appear cup-like or ear-like'. Their names include reference to 'ear' in a number of cultures around the world. In Austronesian languages, including some in Oceania, the name also specifies the ear's owner. Since they grow on tree bark, they are sometimes named 'tree ear'. Whether one should therefore reconstruct POc _&ast;taliŋa qi kayu_ 'tree fungus' (lit. 'ear of tree') is a little debatable. This may well have been a POc locution, as Blust also notes its occurrence in non-Oceanic Austronesian languages, but it may also have been coined more than once in the history of Austronesian languages. Most of the terms below are from [Blust](../references.md#source-Blust2000) ([2000](../references.md#source-Blust2000)).
 
-__formgroup__ Adm: Mondropolon  |can-n-i kei|    (cane-n 'her/his ear') SV:  Anejom       in-ticŋa-nɣai    'mushroom (arboreal)' (cf. in-yai 'tree') Pn:  Maori        |tariŋa rākau|
+<table>
+<tr>
+<td>Adm</td>
+<td>Mondropolon</td>
+<td><i>can-n-i kei</i></td>
+<td>
+ (<span>cane-n 'her/his ear'</span>)</td>
+</tr>
+<tr>
+<td>SV</td>
+<td>Anejom</td>
+<td><i>in-ticŋa-nɣai</i></td>
+<td>
+'<span>mushroom (arboreal)</span>' (<span>cf. in-yai 'tree'</span>)</td>
+</tr>
+<tr>
+<td>Pn</td>
+<td>Māori</td>
+<td><i>tariŋa rākau</i></td>
+<td>
+</td>
+</tr>
+</table>
 
 Some jelly fungi are named 'rat ear', apparently because of their shape:
 
-__formgroup__ NCV: Paamese      |raliŋe-n asu|     'kind of fungus which grows on dry wood' Mic: Marshallese  |lɔcilŋi-n kicṛik| 'toadstool, Auricularia amp/a, and other ear-like Basidiomycetes (fungi)' Pn:  Rarotongan   |tariŋa kiore|      'fungus sp. which grows on decaying trees' Pn:  Tuamotuan    |tariŋa kiore| Pn:  Maori        |taliŋa ʔimoa|
+<table>
+<tr>
+<td>NCV</td>
+<td>Paamese</td>
+<td><i>raliŋe-n asu</i></td>
+<td>
+'<span>kind of fungus which grows on dry wood</span>'</td>
+</tr>
+<tr>
+<td>Mic</td>
+<td>Marshallese</td>
+<td><i>lɔcilŋi-n kicṛik</i></td>
+<td>
+'<span>toadstool, Auricularia amp/a, and other ear-like Basidiomycetes (fungi)</span>'</td>
+</tr>
+<tr>
+<td>Pn</td>
+<td>Rarotongan</td>
+<td><i>tariŋa kiore</i></td>
+<td>
+'<span>fungus sp. which grows on decaying trees</span>'</td>
+</tr>
+<tr>
+<td>Pn</td>
+<td>Tuamotuan</td>
+<td><i>tariŋa kiore</i></td>
+<td>
+</td>
+</tr>
+<tr>
+<td>Pn</td>
+<td>Māori</td>
+<td><i>taliŋa ʔimoa</i></td>
+<td>
+</td>
+</tr>
+</table>
 
 A number of Oceanic terms translate as 'ghost ear'. Blust suggests that this reflects their spiritual significance, associated with the hallucinogenic properties of some fungi and with their sudden appearance after a thunder storm - which also accounts for the 'thunder ear' terms below. The distribution of 'ghost ear' terms perhaps justifies the reconstruction of POc _&ast;taliŋa qi qanitu_, literally 'ear of spirit of dead', but the term for 'spirit of dead' varies across languages.
 
 
 <a id="p-236"></a>
 
-__formgroup__ Adm: Seimat       |taxiŋ i paxi|      (lit. 'ear of ancestral spirit') Mic: Ponapean     |saleŋ en eni| Mic: Mortlockese  |sadiŋa-n anu|      'mushroom' (lit. 'ear of ghost') Mic: Puluwatese   |hadiŋaʔ-n hoomaʔ|  'tree fungus, mushroom' (hoomaʔ 'bad ghost of dead '' Mic: Chuukese     |seniŋe-r soomaʔ| Fij: Rotuman      |faliaŋ ne ʔatua|   'toadstool or fungus' Fij: Bauan        |daliŋa ni kalou| Pn:  Tikopia      |tariŋa ŋa atua|
+<table>
+<tr>
+<td>Adm</td>
+<td>Seimat</td>
+<td><i>taxiŋ i paxi</i></td>
+<td>
+ (<span>lit. 'ear of ancestral spirit'</span>)</td>
+</tr>
+<tr>
+<td>Mic</td>
+<td>Ponapean</td>
+<td><i>saleŋ en eni</i></td>
+<td>
+</td>
+</tr>
+<tr>
+<td>Mic</td>
+<td>Mortlockese</td>
+<td><i>sadiŋa-n anu</i></td>
+<td>
+'<span>mushroom</span>' (<span>lit. 'ear of ghost'</span>)</td>
+</tr>
+<tr>
+<td>Mic</td>
+<td>Puluwatese</td>
+<td><i>hadiŋaʔ-n hoomaʔ</i></td>
+<td>
+'<span>tree fungus, mushroom</span>' (<span>hoomaʔ 'bad ghost of dead '</span>)</td>
+</tr>
+<tr>
+<td>Mic</td>
+<td>Trukese</td>
+<td><i>seniŋe-r soomaʔ</i></td>
+<td>
+</td>
+</tr>
+<tr>
+<td>Fij</td>
+<td>Rotuman</td>
+<td><i>faliaŋ ne ʔatua</i></td>
+<td>
+'<span>toadstool or fungus</span>'</td>
+</tr>
+<tr>
+<td>Fij</td>
+<td>Bauan</td>
+<td><i>daliŋa ni kalou</i></td>
+<td>
+'<span>fungus (lit: ear of spirit)</span>'; '<span>mushroom</span>' (<span>lit. ‘god__s ear’</span>); </td>
+</tr>
+<tr>
+<td>Pn</td>
+<td>Tikopia</td>
+<td><i>tariŋa ŋa atua</i></td>
+<td>
+</td>
+</tr>
+</table>
 
 The data below support a PMic reconstruction.
 

@@ -379,32 +379,30 @@ Discarding the Loniu definition as under-informative, we get the comparative bre
 
 Of the Western Oceanic reflexes that follow, only the definitions for Kilivila, Muyuw and Motu are reasonably informative. The latter are all Papuan Tip languages. It can be seen from Table 8.8 that two of the three Papuan Tip witnesses agree in including sharks, rays, eels and crocodiles but disagree over cetaceans and turtles.
 
-|                                                                                                                             |
-|:----------------------------------------------------------------------------------------------------------------------------|
-| _North New Guinea_                                                                                                          |
-| Manam ika                     ‘fish’                                                                                        |
-| Yabem    i                   ‘fish’                                                                                         |
-| _Papuan Tip_                                                                                                                |
-| Dobuan       iyana           ‘fish, including alligators’                                                                   |
-| Kilivila     yena            ‘fish, including sharks, rays and eels, but excluding aquatic mammals, turtles or cephalopods’ |
-| Molima      iyana           ‘fish’                                                                                          |
-| Muyuw       yin             ‘fish, turtles, crocodiles, but not shellfish’                                                  |
-| cf. also:                                                                                                                   |
-| Motu        fiarume         ‘fish, excluding sharks, rays, eels and also cephalopods’ (N. Oram field notes)                 |
-| _Meso-Melanesian_                                                                                                           |
-| Tolai     en                  ‘fish’                                                                                        |
-| Nakanai ia                    ‘fish’                                                                                        |
-| Roviana iyana                 ‘generic name for                                                                             |
+|                    |         |                                                                                                |
+|:-------------------|:--------|:-----------------------------------------------------------------------------------------------|
+| _North New Guinea_ |         |                                                                                                |
+| Manam              | ika     | ‘fish’                                                                                         |
+| Yabem              | i       | ‘fish’                                                                                         |
+| _Papuan Tip_       |         |                                                                                                |
+| Dobuan             | iyana   | ‘fish, including alligators’                                                                   |
+| Kilivila           | yena    | ‘fish, including sharks, rays and eels, but excluding aquatic mammals, turtles or cephalopods’ |
+| Molima             | iyana   | ‘fish’                                                                                         |
+| Muyuw              | yin     | ‘fish, turtles, crocodiles, but not shellfish’                                                 |
+| cf. also:          |         |                                                                                                |
+| Motu               | gʷarume | ‘fish, excluding sharks, rays, eels and also cephalopods’ (N. Oram field notes)                |
+| _Meso-Melanesian_  |         |                                                                                                |
+| Tolai              | en      | ‘fish’                                                                                         |
+| Nakanai            | ia      | ‘fish’                                                                                         |
+| Roviana            | iɣana   | ‘generic name for                                                                              |
 
-```
-                 Table 8.8         Semantic range of _&ast;ikan_ in Papuan Tip languages
-                typical   shark,     whale,                croc­ octopus, crusta-   shelled
-                                              eel turtle                                      Grade
-                 fish      ray      dolphin                odile   squid   cean     mollusc
-    Kilivila       +        +             -    +    -       ?       —        -        -       2,4
-    Muyuw          +        +             ?    +    +       +       ?        ?                 6
-    Motu           +        -             -    -    -       —       —        —        —        1
-```
+: Table 8.8         Semantic range of _&ast;ikan_ in Papuan Tip languages
+
+|          | typical fish   | shark, ray   | whale, dolphin   | eel   | turtle   | crocodile   | octopus, squid   | crustacean   | shelled mollusc   | Grade   |
+|:---------|:---------------|:-------------|:-----------------|:------|:---------|:------------|:-----------------|:-------------|:------------------|:--------|
+| Kilivila | +              | +            | -                | +     | -        | ?           | -                | -            | -                 | 2,4     |
+| Muyuw    | +              | +            | ?                | +     | +        | +           | ?                | ?            | -                 | 6       |
+| Motu     | +              | -            | -                | -     | -        | -           | -                | -            | -                 | 1       |
 
 
 <a id="p-436"></a>
@@ -438,30 +436,25 @@ More light might be shed on the scope of POc _&ast;ikan_ if it could be shown to
 
 Dictionaries of some Polynesian languages explicitly mention a two-way contrast between a reflex of PPn _&ast;ika_, denoting fish and other large aquatic vertebrates such as dolphins and turtles and a term, reflecting PPn _&ast;fiŋota_, that denotes forms of sea life other than &ast;ika, but especially molluscs and other invertebrates found on the reef. Compare, for example, the Tongan and Samoan entries in the following comparison:
 
-```
- Polynesian
-    Tongan           fiŋota      ‘sea creature other than ika (fish, turtles, etc.) especially
-                                 shellfish, but also crustaceans, cephalopods, jellyfish, eels,
-                                 sea-snakes, sea cucumbers, starfish, seaweed’
-     Samoan          fiiŋota     ‘general term for sea animals except fish, cetaceans and turtles, especially molluscs, crustaceans, echinoderms and sea
-                                 cucumbers’
-    Niuatoputapu finjota         ‘shelled marine animals that creep or crawl: Crustacea, molluscs and echinoderms’
-    East Futuna      finjota     ‘coquillage’ [molluscs with external shells]
-    Tokelauan        fiiŋota     ‘general term for shellfish’
-    Ifira-Mele       finjota     ‘shellfish’ [molluscs with external shells]
-    Takuu            fiinota     ‘various types of shellfish and seafoods gathered by women’
-```
+| _Polynesian_   |         |                                                                                                                                                                            |
+|:---------------|:--------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Tongan         | fiŋota  | ‘sea creature other than ika (fish, turtles, etc.) especially shellfish, but also crustaceans, cephalopods, jellyfish, eels, sea-snakes, sea cucumbers, starfish, seaweed’ |
+| Samoan         | fiiŋota | ‘general term for sea animals except fish, cetaceans and turtles, especially molluscs, crustaceans, echinoderms and sea cucumbers’                                         |
+| Niuatoputapu   | finjota | ‘shelled marine animals that creep or crawl: Crustacea, molluscs and echinoderms’                                                                                          |
+| East Futuna    | finjota | ‘coquillage’ [molluscs with external shells]                                                                                                                               |
+| Tokelauan      | fiiŋota | ‘general term for shellfish’                                                                                                                                               |
+| Ifira-Mele     | finjota | ‘shellfish’ [molluscs with external shells]                                                                                                                                |
+| Takuu          | fiinota | ‘various types of shellfish and seafoods gathered by women’                                                                                                                |
 
 Cognates outside Polynesian are scarce, except in Papuan Tip languages. In the following, _g_ for POc _&ast;ŋ_  in Dobuan and Molima is unexpected (but regular in Kilivila).
 
-```
- Papuan Tip
-    Dobuan      igoda          ‘shellfish’
-                igo-igoda      ‘any inedible shellfish’
-                lo-igoda       ‘to gather shellfish’
-    Molima      igoda          ‘to collect shellfish’
-    Kilivila    vigoda         ‘shellfish (live, or shell only)’
-```
+| _Papuan Tip_   |           |                                   |
+|:---------------|:----------|:----------------------------------|
+| Dobuan         | igoda     | ‘shellfish’                       |
+|                | igo-igoda | ‘any inedible shellfish’          |
+|                | lo-igoda  | ‘to gather shellfish’             |
+| Molima         | igoda     | ‘to collect shellfish’            |
+| Kilivila       | vigoda    | ‘shellfish (live, or shell only)’ |
 
 
 <a id="p-438"></a>
@@ -470,44 +463,40 @@ A problem with many of these definitions is that for some English speakers the t
 
 Clark argues convincingly that PPn _&ast;fiŋota_ and Papuan Tip _vigoda_, _igoda_ are reductions of POc _&ast;p-in-aŋoda_, the nominalization of a verb, _&ast;paŋoda_, by means of a well-attested nominalising infix _&ast;-in-_[^6] The primary sense of _&ast;paŋoda_ was ‘to gather seafood (other than fish) on the reef’ with the additional sense ‘to fish, catch fish’. This verb is widely attested in Oceanic. Selected examples are given below. In some witnesses, especially in Western Oceanic, POc _&ast;ŋ_ is unexpectedly reflected as a stop, _g_.
 
-```
- Meso-Melanesian
-   Teop         yagana                   ‘to fish, (N) fishing’
- SE Solomonic
-    Bugotu              vaŋoda           ‘hunt for shellfish on the reef’
-    Gela                vaŋoda           (1) ‘collect food on the reef’; (2) ‘anything of the reef:
-                                         starfish, crab, octopus, sea egg’, (3) ‘shell of mollusk or
-                                         crab’, (4) ‘gatherer of reef food’, (5) ‘fisher’
- Micronesian
-    Marshallese yaged                    ‘go fishing’
- North and Central Vanuatu
-   Mota          vaŋona                  (v) ‘catch fish with a line, get shellfish’, (v) ‘things got to
-                                         eat on the reef or by fishing, things for a relish to go with
-                                         vegetable food’
-      Namakir           ba-vaŋot         ‘to fish’
-      Nguna             pa-vaŋoda        ‘to fish, to gather shells’
-      Paamese           vaŋor            ‘gather shellfish on reef’
-      Anejom            (a)haŋej         ‘forage on the reef’
- Central Pacific
-   Rotuman              haŋota           ‘to fish, fishing excursion, shoal of certain fish’
- Polynesian
-    Tongan             faaŋota           ‘to fish or search for any kind oifiŋotd’
-    Niuean             faŋota            ‘gather shellfish on the reef’
-    Samoan             faaŋota           ‘to fish; fishing’
-    Rennellese          haŋota           ‘to fish or gather shells, especially by women on the reef’
-```
+|                             |           |                                                                                                                                                                         |
+|:----------------------------|:----------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| _Meso-Melanesian_           |           |                                                                                                                                                                         |
+| Teop                        | yagana    | ‘to fish, (N) fishing’                                                                                                                                                  |
+| _SE Solomonic_              |           |                                                                                                                                                                         |
+| Bugotu                      | vaŋoda    | ‘hunt for shellfish on the reef’                                                                                                                                        |
+| Gela                        | vaŋoda    | (1) ‘collect food on the reef’; (2) ‘anything of the reef: starfish, crab, octopus, sea egg’, (3) ‘shell of mollusk or crab’, (4) ‘gatherer of reef food’, (5) ‘fisher’ |
+| _Micronesian_               |           |                                                                                                                                                                         |
+| Marshallese                 | yaged     | ‘go fishing’                                                                                                                                                            |
+| _North and Central Vanuatu_ |           |                                                                                                                                                                         |
+| Mota                        | vaŋona    | (v) ‘catch fish with a line, get shellfish’, (v) ‘things got to eat on the reef or by fishing, things for a relish to go with vegetable food’                           |
+| Namakir                     | ba-vaŋot  | ‘to fish’                                                                                                                                                               |
+| Nguna                       | pa-vaŋoda | ‘to fish, to gather shells’                                                                                                                                             |
+| Paamese                     | vaŋor     | ‘gather shellfish on reef’                                                                                                                                              |
+| Anejom                      | (a)haŋej  | ‘forage on the reef’                                                                                                                                                    |
+| _Central Pacific_           |           |                                                                                                                                                                         |
+| Rotuman                     | haŋota    | ‘to fish, fishing excursion, shoal of certain fish’                                                                                                                     |
+| _Polynesian_                |           |                                                                                                                                                                         |
+| Tongan                      | faaŋota   | ‘to fish or search for any kind oifiŋotd’                                                                                                                               |
+| Niuean                      | faŋota    | ‘gather shellfish on the reef’                                                                                                                                          |
+| Samoan                      | faaŋota   | ‘to fish; fishing’                                                                                                                                                      |
+| Rennellese                  | haŋota    | ‘to fish or gather shells, especially by women on the reef’                                                                                                             |
 
 
 <a id="p-439"></a>
 
 A few languages retain a reflex of _&ast;pinaŋoda_ in which the infix is transparently preserved.
 
-```
- Meso-Melanesian
-   Tolai   winagonoi            ‘generic name for sea-shells’
- North and Central Vanuatu
-   Nguna vinagoda               ‘shell, shellfish’
-```
+|                             |           |                               |
+|:----------------------------|:----------|:------------------------------|
+| _Meso-Melanesian_           |           |                               |
+| Tolai                       | winagonoi | ‘generic name for sea-shells’ |
+| _North and Central Vanuatu_ |           |                               |
+| Nguna                       | vinagoda  | ‘shell, shellfish’            |
 
 Can we conclude that POc _&ast;piniaŋoda_ was a major generic, a life-form of the same rank as _&ast;ikan_? Almost certainly not. Clark concludes that _&ast;pinaŋoda_ was probably not a biological taxon in the strict sense but a collective, a term for a diverse category of things, namely ‘seafood gathered on the reef’ in which shellfish, i.e. molluscs, were the focal members. Unfortunately, sources for contemporary Oceanic languages seldom provide discourse examples to show how speakers talk about reflexes of _&ast;pinaŋoda_. Whenever examples are given they show the noun being used to refer to a non-specific entity, an undifferentiated collectivity. Given the heterogeneity of the types of edibles subsumed under this term it would be surprising if it behaves, grammatically, as anything other than a collective.
 
@@ -531,43 +520,38 @@ However, no widespread cognate set has been found that consistently serves as a 
 Perhaps the strongest candidate for a POc generic in this domain is _&ast;sisiq_, which may have had variants _&ast;siseq_ and/or _&ast;sisuq_[^7] Reflexes of _&ast;sisiq_ vary greatly in range of reference across Oceanic languages.
 
 ```
- North New Guinea
-    Takia         sisei                 ‘generic term for all varieties of sea shells’
- Papuan Tip
-    Dobuan               sisi-yara      ‘a bivalve, Asaphis diehloma’
-                         sisi-we        ‘common whelk’
-      Molima             sisi-ʔalo      ‘a brown bivalve, small and edible, found in tidal flats
-      Motu               dudu           ‘name of a shellfish’ (&ast;z > u unexpected)
-      Sinaugoro          dudu           ‘cone shell’ (&ast;z > u unexpected)
- Meso-Melanesian
-   Nakanai               e-sisi         ‘a shellfish’
-   Roviana               sise           ‘general name for a number of small shells’
- Southeast Solomonic
-    ’Are’are       sisi                 ‘a shellfish’
-                   sisi-                ‘first element in compound names for certain molluscs,
-                                        e.g. sisi-nanara, sisi-nikau’
-      Arosi              sisi-          ‘first element in compound names for certain molluscs,
-                                        e.g. sisi-apir ‘limpet’, sisi-nahu ‘small gastropod sp. in
-                                        streams’
-      To’aba’ita         sisi-          ‘first element in compound names for a few mollusk
-                                        species, e.g. sisi-afufu, sisi-ʔeiria
-      Lau                sisi-afufu     ‘mollusc sp.’
-      Gela               hihi-vuhi      ‘freshwater snail sp., Nerita brevispina’
- North and Central Vanuatu
-    Tolomako        sise, sisi          ‘shellfish’ (scope uncertain)
-    Mota            sese                ‘a smooth shell, turris; in which the gatou ‘hermit crab
-                                        lives
-      NE Ambae           hihe           ‘_Nerita sp._’
-      Raga               hiha           ‘sea snail, winkle’
-      Uripiv             (na)ses        ‘periwinkle (?)’
-      SE Ambrym          ses            ‘shellfish of family _Neritidae_’
-      Nakanamanga        siisa          ‘snail, incl. nerites (sisa karo)’
-                         sususa         ‘maculated moon snail, periwinkles, mitres’
-      S Efate            ses            ‘nerite’
- New Caledonia
-   Cemuhi                ti             ‘generic term for gastropods’
-   Fwai                  thik           ‘trochus, but used generically for gastropods’
-   Nemi                  thik           ‘trochus, but used generically for gastropods’
+_North New Guinea_ |       |
+ Takia       | sisei       |   ‘generic term for all varieties of sea shells’
+_Papuan Tip_ |             |
+ Dobuan      | sisi-yara   |   ‘a bivalve, Asaphis diehloma’
+             | sisi-we     |   ‘common whelk’
+ Molima      | sisi-ʔalo   |   ‘a brown bivalve, small and edible, found in tidal flats
+ Motu        | dudu        |   ‘name of a shellfish’ (&ast;z > u unexpected)
+ Sinaugoro   | dudu        |   ‘cone shell’ (&ast;z > u unexpected)
+_Meso-Melanesian_ |        |
+ Nakanai     | e-sisi      |    ‘a shellfish’
+ Roviana     | sise        |    ‘general name for a number of small shells’
+_Southeast Solomonic_ |    |
+ ’Are’are    | sisi        |   ‘a shellfish’
+             | sisi-       |   ‘first element in compound names for certain molluscs, e.g. sisi-nanara, sisi-nikau’
+ Arosi       | sisi-       |   ‘first element in compound names for certain molluscs, e.g. sisi-apir ‘limpet’, sisi-nahu ‘small gastropod sp. in streams’
+ To’aba’ita  | sisi-       |   ‘first element in compound names for a few mollusk species, e.g. sisi-afufu, sisi-ʔeiria
+ Lau         | sisi-afufu  |   ‘mollusc sp.’
+ Gela        | hihi-vuhi   |   ‘freshwater snail sp., Nerita brevispina’
+_North and Central Vanuatu_ | |
+ Tolomako    | sise, sisi   |  ‘shellfish’ (scope uncertain)
+ Mota        | sese         |  ‘a smooth shell, turris; in which the gatou ‘hermit crab lives
+ NE Ambae    | hihe         |  ‘_Nerita sp._’
+ Raga        | hiha         |  ‘sea snail, winkle’
+ Uripiv      | (na)ses      |  ‘periwinkle (?)’
+ SE Ambrym   | ses          |  ‘shellfish of family _Neritidae_’
+ Nakanamanga | siisa        |  ‘snail, incl. nerites (sisa karo)’
+             | sususa       |  ‘maculated moon snail, periwinkles, mitres’
+ S Efate     | ses          |  ‘nerite’
+_New Caledonia_ |           |
+ Cemuhi      | ti           |      ‘generic term for gastropods’
+ Fwai        | thik        |      ‘trochus, but used generically for gastropods’
+ Nemi        | thik        |      ‘trochus, but used generically for gastropods’
 ```
 
 

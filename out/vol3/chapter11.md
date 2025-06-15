@@ -814,11 +814,163 @@ The final _&ast;-(ŋ)_ is added on the basis of Kara _falaŋ_. However, the abse
 
 Also seemingly reconstructable on the basis of the cognate set below is POc _&ast;pele_, but the fact that it differs from POc _&ast;pala(ŋ)_ only in its vowels suggests that some or all of the terms in the set reflect borrowings associated with the westward expansion of either B. procera or B. edulis. Additionally problematic are the fact that the two terms found in New Britain (Nakanai, Meramera _uele_) denote other nut trees and not a Barringtonia sp., and the fact that they reflect POc initial _&ast;w-_ rather than _&ast;p-_.
 
-__formgroup__ MM:  Nakanai       uele          'Canarium mehenbethane' ([Floyd 1954](../references.md#source-Floyd1954)) MM:  Meramera      uele          'Tahitian chestnut' MM:  Vaghua        vele          'cut nut' MM:  Babatana      vele          'B. procera, B. edulis, B. novae-hiberniae' (W. McClatchey, pers. comm.) NCV: Mota          vele          'Barringtonia edulis' NCV: Tamambo       (vu)vale      'Barringtonia edulis' NCV: Raga          vele          'Barringtonia edulis' NCV: Apma          vʷez          'Barringtonia edulis' NCV: Lonwolwol     woleh         'a common edible nut' NCV: Namakir       vil           'Barringtonia edulis' NCV: Nguna         na-vīla       'Barringtonia edulis' SV:  Sye           vel(ŋah)      'Barringtonia edulis' SV:  Ura           ni-ver(ŋi}    'Barringtonia edulis'
+<table>
+<tr>
+<td>MM</td>
+<td>Nakanai</td>
+<td><i>uele</i></td>
+<td>
+'<span>Canarium mehenbethane</span>'(<a href="../references.md#source-Floyd1954">Floyd1954</a>)
+</td>
+</tr>
+<tr>
+<td>MM</td>
+<td>Meramera</td>
+<td><i>uele</i></td>
+<td>
+'<span>Tahitian chestnut</span>'</td>
+</tr>
+<tr>
+<td>MM</td>
+<td>Vaghua</td>
+<td><i>vele</i></td>
+<td>
+'<span>cut nut</span>'</td>
+</tr>
+<tr>
+<td>MM</td>
+<td>Babatana</td>
+<td><i>vele</i></td>
+<td>
+'<span>B. procera, B. edulis, B. novae-hiberniae</span>' (<span>W. McClatchey, pers. comm.</span>)</td>
+</tr>
+<tr>
+<td>NCV</td>
+<td>Mota</td>
+<td><i>vele</i></td>
+<td>
+'<span>Barringtonia edulis</span>'</td>
+</tr>
+<tr>
+<td>NCV</td>
+<td>Tamambo</td>
+<td><i>(vu)vale</i></td>
+<td>
+'<span>Barringtonia edulis</span>'</td>
+</tr>
+<tr>
+<td>NCV</td>
+<td>Raga</td>
+<td><i>vele</i></td>
+<td>
+'<span>Barringtonia edulis</span>'</td>
+</tr>
+<tr>
+<td>NCV</td>
+<td>Apma</td>
+<td><i>vʷez</i></td>
+<td>
+'<span>Barringtonia edulis</span>'</td>
+</tr>
+<tr>
+<td>NCV</td>
+<td>Lonwolwol</td>
+<td><i>woleh</i></td>
+<td>
+'<span>a common edible nut</span>'</td>
+</tr>
+<tr>
+<td>NCV</td>
+<td>Namakir</td>
+<td><i>vil</i></td>
+<td>
+'<span>Barringtonia edulis</span>'</td>
+</tr>
+<tr>
+<td>NCV</td>
+<td>Nguna</td>
+<td><i>na-vīla</i></td>
+<td>
+'<span>Barringtonia edulis</span>'</td>
+</tr>
+<tr>
+<td>SV</td>
+<td>Sye</td>
+<td><i>vel(ŋah)</i></td>
+<td>
+'<span>Barringtonia edulis</span>'</td>
+</tr>
+<tr>
+<td>SV</td>
+<td>Ura</td>
+<td><i>ni-ver(ŋi)</i></td>
+<td>
+'<span>Barringtonia edulis</span>'</td>
+</tr>
+</table>
 
 Although _&ast;kinu_ 'edible Barringtonia species' has reflexes in both Meso-Melanesian and SE Solomonic languages, the members of the set are spread across the border between Western and Eastern Oceanic, so borrowing is more probable than shared inheritance from POc.
 
-__formgroup__ MM:  Roviana       kinu         'Barringtonia sp., with edible nut' MM:  Nduke         kino         'cut nut' MM:  Hoava         kinu         'cut nut' MM:  Kusaghe       kinu         'Barringtonia procera, cut nut' ([Evans 1999](../references.md#source-Evans1999):39) SES: Gela         kinu          'k shore tree with ed. fruit' SES: Lau           kinu         'cut nut, Barringtonia edulis' SES: Kwaio         kinu         'cut nut' SES: Kwara'ae      kiun-kinu    'cut nut, Barringtonia edulis' ([Evans 1999](../references.md#source-Evans1999):39)
+<table>
+<tr>
+<td>MM</td>
+<td>Roviana</td>
+<td><i>kinu</i></td>
+<td>
+'<span>Barringtonia sp., with edible nut</span>'</td>
+</tr>
+<tr>
+<td>MM</td>
+<td>Nduke</td>
+<td><i>kino</i></td>
+<td>
+'<span>cut nut</span>'</td>
+</tr>
+<tr>
+<td>MM</td>
+<td>Hoava</td>
+<td><i>kinu</i></td>
+<td>
+'<span>cut nut</span>'</td>
+</tr>
+<tr>
+<td>MM</td>
+<td>Kusaghe</td>
+<td><i>kinu</i></td>
+<td>
+'<span>Barringtonia procera, cut nut</span>'(<a href="../references.md#source-Evans1999">Evans1999: 39</a>)
+</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>Gela</td>
+<td><i>kinu</i></td>
+<td>
+'<span>k shore tree with ed. fruit</span>'</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>Lau</td>
+<td><i>kinu</i></td>
+<td>
+'<span>cut nut, Barringtonia edulis</span>'</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>Kwaio</td>
+<td><i>kinu</i></td>
+<td>
+'<span>cut nut</span>'</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>Kwara’ae</td>
+<td><i>kiun-kinu</i></td>
+<td>
+'<span>cut nut, Barringtonia edulis</span>'(<a href="../references.md#source-Evans1999">Evans1999: 39</a>)
+</td>
+</tr>
+</table>
 
 
 <a id="p-323"></a>
@@ -1534,7 +1686,7 @@ POc _&ast;padran_ appears to have specifically denoted Pandanus tectorius, but w
 </td>
 </tr>
 <tr>
-<td>NCV</td><td>Vures</td><td><i>(wö)gœr</i></td>
+<td>NCV</td><td>Vurës</td><td><i>(wö)gœr</i></td>
 <td>
 '<span>Pandanus tectorius</span>' (<a href="../references.md#source-Francois2004b">Francois2004b</a>)
 </td>
@@ -2438,7 +2590,7 @@ The only reconstructable term for P. edule is PEOc _&ast;paRage_. Given that the
 '<span>Pangium edule</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Nati</td><td><i>ne-vaŋk</i></td>
+<td>NCV</td><td>Nāti</td><td><i>ne-vaŋk</i></td>
 <td>
 '<span>Pangium edule</span>'</td>
 </tr>
@@ -2607,7 +2759,7 @@ Figure 11.8: Burckella obovata: A, tree; B, flowering shoot; C, shoot bearing fr
 '<span>Burckella obovata</span>'</td>
 </tr>
 <tr>
-<td>TM</td><td>Aiwoo</td><td><i>ñi-nou</i></td>
+<td>TM</td><td>Äiwoo</td><td><i>ñi-nou</i></td>
 <td>
 '<span>Burckella obovata</span>'</td>
 </tr>
@@ -2918,7 +3070,7 @@ POc _&ast;i(u)bu_ 'Corynocarpus cribbianus' is tentatively reconstructed - 'tent
 </td>
 </tr>
 <tr>
-<td>TM</td><td>Aiwoo</td><td><i>(nua)dabu</i></td>
+<td>TM</td><td>Äiwoo</td><td><i>(nua)dabu</i></td>
 <td>
 '<span>Corynocarpus cribbianus</span>' (<a href="../references.md#source-HendersonandHancock1988">HendersonandHancock1988</a>)
 </td>
@@ -3547,7 +3699,7 @@ The POc term for P. pinnata was _&ast;tawan_, reflected in all major Oceanic sub
 '<span>Pandanus sp.</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>tawa</i></td>
+<td>Pn</td><td>Māori</td><td><i>tawa</i></td>
 <td>
 '<span>Beilschmiedia tawa</span>'</td>
 </tr>
@@ -3772,7 +3924,30 @@ There was a single widely reflected POc term, _&ast;quRis_. I have assumed below
 
 In the Bismarcks an imported thorny shrub, Ximenia americana (syn. X. elliptica, X. aculeata),[^27] is evidently perceived as resembling S. cytherea, to judge from the names below. The resemblance is based on the fact that X. americana also has edible yellow ellipsoid fruit, but no larger than a cherry ([Peekel 1984](../references.md#source-Peekel1984): 160). E Kara combines the POc prefix _&ast;mala-_ 'resembling' (ch.2, §7.1.4) and _ukis_ 'S. cytherea'. The base _ukis_ is the reflex of POc _&ast;quRis_ 'S. cytherea' that would be expected in Tigak, immediately to the north of Kara. Further south, in Patpatar, the term for X. americana is _ku-kuris_, the reduplication implying that X. americana is an inferior or wild version of S. cytherea (ch.2, §7 .2).
 
-__formgroup__ MM: Kara (E)    mala-ukis      'Ximenia americana' ('false Spondias cytherea') MM: Patpatar    ku-kuris       'Ximenia americana' ('small Spondias cytherea') MM: Tolai       kuri-val       'Ximenia americana' (_kuri_ 'Spondias cytherea') ([Record 1945](../references.md#source-Record1945))
+<table>
+<tr>
+<td>MM</td>
+<td>Kara (East)</td>
+<td><i>mala-ukis</i></td>
+<td>
+'<span>Ximenia americana</span>' (<span>'false Spondias cytherea'</span>)</td>
+</tr>
+<tr>
+<td>MM</td>
+<td>Patpatar</td>
+<td><i>ku-kuris</i></td>
+<td>
+'<span>Ximenia americana</span>' (<span>'small Spondias cytherea'</span>)</td>
+</tr>
+<tr>
+<td>MM</td>
+<td>Tolai</td>
+<td><i>kuri-val</i></td>
+<td>
+'<span>Ximenia americana</span>' (<span><em>kuri</em> 'Spondias cytherea'</span>)(<a href="../references.md#source-Record1945">Record1945</a>)
+</td>
+</tr>
+</table>
 
 PNCV _&ast;usi_ below appears to be an irregular reflex of POc _&ast;quRis_. Two possible explanations present themselves. First, _&ast;(q)usi_ is a metathesised reflex of _&ast;quRis_ (> †_&ast;uis_ > _&ast;usi_). Second, although POc final consonants were regularly lost in PNCV, [Clark](../references.md#source-Clark2008) ([2008](../references.md#source-Clark2008)) points to a dozen or so words in which the expected CVCV form exists alongside an extended form CVCVCV, representing the full POc form with an added vowel, most often _&ast;-i_. The extended forms, for which Clark offers no explanation, are found throughout North Vanuatu and north Malakula, but without much consistency in any one language. One of these, in the form he reconstructs, is _&ast;quRisi_, which with regular deletion of POc _&ast;q-_ and _&ast;-R-_ gives _&ast;u(i)si_.
 
@@ -3920,9 +4095,45 @@ There are two possible external cognates of the PNCV etymon below. The first is 
 
 
 
-Also puzzling is the connection between PNCV _&ast;mali_ and the items for Garuga floribunda listed below. There is reason to think that this is not a chance resemblance, as the Proto Remote Oceanic term _&ast;mala-usi_ 'Garuga sp.' literally meant 'like Spondias cytherea' (ch.7, §4.8), i.e. there was/is a perceived resemblance between Garuga and Spondias species. We cannot simply include the items below in the cognate set for PNCV _&ast;mali_ above, however, as the Paamese, Lewo and S Efate reflexes of _&ast;mal-mali_ differ from their reflexes of _&ast;mali_. PNCV &ast;mal-mali 'Garuga floribunda'
+Also puzzling is the connection between PNCV _&ast;mali_ and the items for Garuga floribunda listed below. There is reason to think that this is not a chance resemblance, as the Proto Remote Oceanic term _&ast;mala-usi_ 'Garuga sp.' literally meant 'like Spondias cytherea' (ch.7, §4.8), i.e. there was/is a perceived resemblance between Garuga and Spondias species. We cannot simply include the items below in the cognate set for PNCV _&ast;mali_ above, however, as the Paamese, Lewo and S Efate reflexes of _&ast;mal-mali_ differ from their reflexes of _&ast;mali_.
 
-__formgroup__ NCV:    Mwotlap       na-mal-mali (ey) NCV:    Paamese       e-imoumol NCV:    Lewo          (puru )mal-mal NCV:    Baki          (buru )mar-maro NCV:    S Efate       n(a)-mal-mil
+<table>
+<tr>
+<td><strong>PNCV</strong></td><td> </td>
+<td>
+<i>&ast;mal-mali</i>
+</td>
+<td>
+'<span>Garuga floribunda</span>'</td>
+</tr>
+<tr>
+<td>NCV</td><td>Mwotlap</td><td><i>na-mal-mali (ey)</i></td>
+<td>
+</td>
+</tr>
+<tr>
+<td>NCV</td><td>Paamese</td><td><i>e-imoumol</i></td>
+<td>
+</td>
+</tr>
+<tr>
+<td>NCV</td><td>Lewo</td><td><i>(puru)mal-mal</i></td>
+<td>
+</td>
+</tr>
+<tr>
+<td>NCV</td><td>Baki</td><td><i>(buru)mar-maro</i></td>
+<td>
+</td>
+</tr>
+<tr>
+<td>NCV</td><td>South Efate</td><td><i>n(a)-mal-mil</i></td>
+<td>
+</td>
+</tr>
+</table>
+
+
 
 
 <a id="p-348"></a>
@@ -4212,7 +4423,7 @@ The POc term for S. malaccense was _&ast;kapika_, reflected in all major Oceanic
 '<span>Syzygium malaccense</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>kahika</i></td>
+<td>Pn</td><td>Māori</td><td><i>kahika</i></td>
 <td>
 '<span>Metrosideros fulgens, Dacrycarpus dacrydioides</span>' (<span>R. Gardner, pers. comm.</span>)</td>
 </tr>
@@ -4356,7 +4567,16 @@ Finschia chloroxantha is a medium-sized lowland rain forest tree with a blackish
 
 The cognate set below allows only a PEOc reconstruction. The one Western Oceanic item, Maringe _ɣlama_, is probably a borrowing from a neighbouring SE Solomonic language, especially as Maringe _ɣl-_ typically reflects POc _&ast;l-_, not _&ast;g-_. The species is not mentioned by [Peekel](../references.md#source-Peekel1984) ([1984](../references.md#source-Peekel1984)), a major source of botanical terms from New Ireland.
 
-__formgroup__ MM:     Maringe       ɣlama         'Finschia cloroxantha' ([Henderson & Hancock 1988](../references.md#source-HendersonandHancock1988): 74)
+<table>
+<tr>
+<td>MM</td>
+<td>Maringe</td>
+<td><i>ɣlama</i></td>
+<td>
+'<span>Finschia cloroxantha</span>'(<a href="../references.md#source-HendersonandHancock1988">HendersonandHancock1988: 74</a>)
+</td>
+</tr>
+</table>
 
 <table>
 <tr>

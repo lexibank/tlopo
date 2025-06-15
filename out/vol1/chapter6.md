@@ -247,7 +247,7 @@ A separate term for the upper frictioning stick can be reconstructed, but only f
 '<span>stick held in the hand when making fire</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>kau-rima-rima</i></td>
+<td>Pn</td><td>Māori</td><td><i>kau-rima-rima</i></td>
 <td>
 '<span>upper stick of fire-plough</span>'</td>
 </tr>
@@ -264,13 +264,22 @@ A Papuan Tip language, Minaveha, likewise uses a compound term for the upper fri
 
 Across the Oceanic region it is possible to find some variation in fire-making methods, although we have no reconstructions for methods other than by fire-plough. Bing on the PNG north coast and Mapos Buang in the Huon Gulf area (both NNG) offer evidence for a method in which rattan or vine is sawn rapidly around a piece of wood:
 
-```
- NNG: Mapos Buang  vaŋkC rurŋ       'make a fire by the traditional method using a
-                                     piece of rattan, sawing it back and forth around a
-                                     piece of dry wood with a split in it, lying on a little
-                                     pile of tinder'
- NNG: Bing         baŋ-baŋ          'fire-stick and vine'
-```
+<table>
+<tr>
+<td>NNG</td>
+<td>Mapos Buang</td>
+<td><i>vaŋkC rurŋ</i></td>
+<td>
+'<span>make a fire by the traditional method using a piece of rattan, sawing it back and forth around a piece of dry wood with a split in it, lying on a little pile of tinder</span>'</td>
+</tr>
+<tr>
+<td>NNG</td>
+<td>Bing</td>
+<td><i>baŋ-baŋ</i></td>
+<td>
+'<span>fire-stick and vine</span>'</td>
+</tr>
+</table>
 
 Another north coast language, Gedaged, has a term, _wol_, referring to a bow string. Fire is produced by pulling a bow string rapidly back and forth over a piece of wood. The action implied may be the same as in Carolinian _bʷuru-bʷur_ 'make a fire by generating friction with a traditional drill' (from POc _&ast;buru_ 'bore a hole, drill' ; see Ch. 9, §4.2).
 
@@ -312,7 +321,7 @@ In addition to the general term POc _&ast;kaiu_ 'wood, stick ', we can reconstru
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>wahie</i></td>
+<td>Pn</td><td>Māori</td><td><i>wahie</i></td>
 <td>
 </td>
 </tr>
@@ -458,7 +467,7 @@ A burning brand, typically made from coconut fronds, served as a torch.
 '<span>look for with light; torch</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>huru</i></td>
+<td>Pn</td><td>Māori</td><td><i>huru</i></td>
 <td>
 '<span>glow</span>'</td>
 </tr>
@@ -636,14 +645,50 @@ There is a second term, PAn _&ast;qabu_, POc _&ast;qapu_, with similar reference
 
 We would expect to be able to reconstruct a term for a trivet, an arrangement of three stones on which the cooking pot is placed, but no clear reflex of PMP _&ast;dalikan_, 'trivet' ([Blust 1986](../references.md#source-Blust1986)) has been found, in spite of the presence of terms for trivet in north-west Melanesia and Fiji. For example:
 
-```
- Adm: Mussau              atu ko-tolu        'trivet' (lit. 'three stones')
- PT:  Motu                (bo)dika           'the three stones for cooking-pot rest'
- PT:  Muyuw               alikwaw            'fireplace'
- PT:  Molima              duku-duku          'stones that support a pot, tripod effect'
- Fij: Wayan               soqita (vatu)      'trivet'
- Fij: Yasawa              sue                'hearth, trivet'
-```
+<table>
+<tr>
+<td>Adm</td>
+<td>Mussau</td>
+<td><i>atu ko-tolu</i></td>
+<td>
+'<span>trivet</span>' (<span>lit. 'three stones'</span>)</td>
+</tr>
+<tr>
+<td>PT</td>
+<td>Motu</td>
+<td><i>(bo)dika</i></td>
+<td>
+'<span>the three stones for cooking-pot rest</span>'</td>
+</tr>
+<tr>
+<td>PT</td>
+<td>Muyuw</td>
+<td><i>alikwaw</i></td>
+<td>
+'<span>fireplace</span>'</td>
+</tr>
+<tr>
+<td>PT</td>
+<td>Molima</td>
+<td><i>duku-duku</i></td>
+<td>
+'<span>stones that support a pot, tripod effect</span>'</td>
+</tr>
+<tr>
+<td>Fij</td>
+<td>Wayan</td>
+<td><i>soqita (vatu)</i></td>
+<td>
+'<span>trivet</span>'</td>
+</tr>
+<tr>
+<td>Fij</td>
+<td>Yasawa</td>
+<td><i>sue</i></td>
+<td>
+'<span>hearth, trivet</span>'</td>
+</tr>
+</table>
 
 
 <a id="p-148"></a>
@@ -742,7 +787,7 @@ A far more soundly based reconstruction is POc _&ast;qumun_ 'oven made with hot 
 '<span>earth oven</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>umu</i></td>
+<td>Pn</td><td>Māori</td><td><i>umu</i></td>
 <td>
 '<span>earth oven</span>'</td>
 </tr>
@@ -950,7 +995,7 @@ Lichtenberk adds a number of other terms which, as well as being used in relatio
 '<span>cover over, press down (oven +); bake food (from technique of covering earth oven with leaf pads in cooking)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>tao</i></td>
+<td>Pn</td><td>Māori</td><td><i>tao</i></td>
 <td>
 '<span>cook in earth oven; weigh down</span>'</td>
 </tr>
@@ -1019,7 +1064,7 @@ Lichtenberk adds a number of other terms which, as well as being used in relatio
 '<span>uncover (earth oven +)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>huke</i></td>
+<td>Pn</td><td>Māori</td><td><i>huke</i></td>
 <td>
 '<span>uncover (esp. earth oven)</span>'</td>
 </tr>
@@ -1608,7 +1653,7 @@ A term can be reconstructed for the action of singeing food in preparation for c
 '<span>cook fish or fowl in flames</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>hu-hunu</i></td>
+<td>Pn</td><td>Māori</td><td><i>hu-hunu</i></td>
 <td>
 </td>
 </tr>
@@ -1736,7 +1781,7 @@ Two similar terms for wrapping food for cooking (baking or roasting), POc _&ast;
 '<span>covering (for the upper part of the body); fine soft mat often used as body covering</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>kākahu</i></td>
+<td>Pn</td><td>Māori</td><td><i>kākahu</i></td>
 <td>
 '<span>clothing</span>'</td>
 </tr>
@@ -3409,12 +3454,12 @@ Lichtenberk comments (pp. 280-281) on the recurring sound symbolism evident in t
 (V) '<span>file, saw, or rasp</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>faro, fa-faro</i></td>
+<td>Pn</td><td>Māori</td><td><i>faro, fa-faro</i></td>
 <td>
 '<span>scrape</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>faro-faro</i></td>
+<td>Pn</td><td>Māori</td><td><i>faro-faro</i></td>
 <td>
 '<span>scrape</span>'</td>
 </tr>
@@ -3797,7 +3842,7 @@ The following term may have referred both to the husking of coconuts and to the 
 '<span>coconut-husking stake</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>koo</i></td>
+<td>Pn</td><td>Māori</td><td><i>koo</i></td>
 <td>
 '<span>implement for digging or planting</span>'</td>
 </tr>

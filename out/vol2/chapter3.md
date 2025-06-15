@@ -720,7 +720,7 @@ The primary role of _&ast;motus_ in POc appears to have been as a stative verb, 
 '<span>islet; be cut, severed</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>motu</i></td>
+<td>Pn</td><td>Māori</td><td><i>motu</i></td>
 <td>
 '<span>island</span>'</td>
 </tr>
@@ -1112,7 +1112,7 @@ The reflexes of POc _&ast;nuku_ are semantically diverse, ranging from ‘sand�
 '<span>earth, land</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>nuku</i></td>
+<td>Pn</td><td>Māori</td><td><i>nuku</i></td>
 <td>
 '<span>the earth, generally personified; wide extent of the land, fenua</span>'</td>
 </tr>
@@ -1335,7 +1335,7 @@ The next set has specific reference to ‘bay’ only in Polynesia. As a POc ter
 '<span>valley, low place among the hills</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>ɸaŋa</i></td>
+<td>Pn</td><td>Māori</td><td><i>ɸaŋa</i></td>
 <td>
 '<span>bay, harbour, estuary</span>'</td>
 </tr>
@@ -1381,7 +1381,7 @@ Polynesian languages use a compound for the mouth of a river, with elements deri
 '<span>mouth of river</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>muri-wai</i></td>
+<td>Pn</td><td>Māori</td><td><i>muri-wai</i></td>
 <td>
 '<span>backwater, lagoon at mouth of river</span>'</td>
 </tr>
@@ -1396,13 +1396,43 @@ Polynesian languages use a compound for the mouth of a river, with elements deri
 
 No POc reconstruction is available for ‘river mouth’. This concept was probably named by a compound connecting ‘river’ or ‘fresh water’ with a body part. The most widespread label is ‘leg’ or more likely, ‘foot of river’, and this may well reflect a POc collocation. We find:
 
-```
- NNG: Mapos Buang        |bel vaɣa|          (_bel_ ‘water’, _vaɣa_ ‘leg/foot’)
- NNG: Takia              |you ŋe-n|          (_you_ ‘water’, _ŋe-_ ‘leg/foot’)
- PT:  Iduna              |gufa wa-ʔage|      (_gufa_ ‘river’, _ʔage-_ ‘leg/foot’)
- PT:  Molima             |goʔila ae(na)|     (_goʔila_ ‘fresh water’, _ae_ ‘leg/foot’)
- SES: Lau                |ʔae-na kafo|       (_ʔae-_ ‘foot/leg’, _kafo_ ‘water’)
-```
+<table>
+<tr>
+<td>NNG</td>
+<td>Mapos Buang</td>
+<td><i>bel vaɣa</i></td>
+<td>
+'<span>mouth of river</span>' (<span><em>bel</em> ‘water’, <em>vaɣa</em> ‘leg/foot’</span>)</td>
+</tr>
+<tr>
+<td>NNG</td>
+<td>Takia</td>
+<td><i>you ŋe-n</i></td>
+<td>
+'<span>mouth of river</span>' (<span><em>you</em> ‘water’, <em>ŋe-</em> ‘leg/foot’</span>)</td>
+</tr>
+<tr>
+<td>PT</td>
+<td>Iduna</td>
+<td><i>gufa wa-ʔage</i></td>
+<td>
+'<span>mouth of river</span>' (<span><em>gufa</em> ‘river’, <em>ʔage-</em> ‘leg/foot’</span>)</td>
+</tr>
+<tr>
+<td>PT</td>
+<td>Molima</td>
+<td><i>goʔila ae(na)</i></td>
+<td>
+'<span>mouth of river</span>' (<span><em>goʔila</em> ‘fresh water’, <em>ae</em> ‘leg/foot’</span>)</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>Lau</td>
+<td><i>ʔae-na kafo</i></td>
+<td>
+'<span>mouth of river</span>' (<span><em>ʔae-</em> ‘foot/leg’, <em>kafo</em> ‘water’</span>)</td>
+</tr>
+</table>
 
 
 <a id="s-3-4"></a>
@@ -1684,7 +1714,7 @@ The final reconstruction, PEOc _&ast;mata_ ‘point of land, headland’ is evid
 '<span>point of the mainland (= south)</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Nêlêmwa</td><td><i>mā(wamʷa)</i></td>
+<td>NCal</td><td>Nêlêmwâ</td><td><i>mā(wamʷa)</i></td>
 <td>
 '<span>point of the mainland (= south)</span>'</td>
 </tr>
@@ -1704,7 +1734,7 @@ The final reconstruction, PEOc _&ast;mata_ ‘point of land, headland’ is evid
 '<span>western end of Rennell Island</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>mata</i></td>
+<td>Pn</td><td>Māori</td><td><i>mata</i></td>
 <td>
 '<span>point of land, headland</span>'</td>
 </tr>
@@ -2023,7 +2053,7 @@ Even quite small islands can be dominated by high peaks. While a number of peaks
 '<span>boil, lump, corner</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Nêlêmwa</td><td><i>bū-</i></td>
+<td>NCal</td><td>Nêlêmwâ</td><td><i>bū-</i></td>
 <td>
 '<span>mound, hillock</span>'</td>
 </tr>
@@ -2169,7 +2199,7 @@ In Polynesia the typical term for mountain is a reflex of _&ast;maquŋa_.
 '<span>hill, mountain peak</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>mauŋa</i></td>
+<td>Pn</td><td>Māori</td><td><i>mauŋa</i></td>
 <td>
 '<span>mountain</span>'</td>
 </tr>
@@ -2243,7 +2273,7 @@ A compound term for mountain ridge (‘back’ + ‘bone’) is reconstructable 
 '<span>ridge (of mountain, house etc)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>tua-hiwi</i></td>
+<td>Pn</td><td>Māori</td><td><i>tua-hiwi</i></td>
 <td>
 '<span>ridge of a hill, rising ground</span>'</td>
 </tr>
@@ -2437,7 +2467,7 @@ We have one POc reconstruction for ‘cliff’. Two further reconstructions are 
 '<span>cliff overhanging sea</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>pari</i></td>
+<td>Pn</td><td>Māori</td><td><i>pari</i></td>
 <td>
 '<span>cliff</span>'</td>
 </tr>
@@ -2501,7 +2531,7 @@ We have one POc reconstruction for ‘cliff’. Two further reconstructions are 
 '<span>a craggy rock or precipice</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>mato</i></td>
+<td>Pn</td><td>Māori</td><td><i>mato</i></td>
 <td>
 '<span>deep valley</span>'</td>
 </tr>
@@ -2821,7 +2851,7 @@ The Mussau and Tolo reflexes mean ‘garden’: this change of meaning is probab
 '<span>wilds, wilderness</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>wao</i></td>
+<td>Pn</td><td>Māori</td><td><i>wao</i></td>
 <td>
 '<span>forest</span>'</td>
 </tr>
@@ -2910,7 +2940,7 @@ The next POc reconstruction contrasts with _&ast;quma_ ‘garden, cultivated lan
 '<span>cultivation plot</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>taru-taru</i></td>
+<td>Pn</td><td>Māori</td><td><i>taru-taru</i></td>
 <td>
 '<span>weeds, herbs</span>'</td>
 </tr>
@@ -3331,7 +3361,7 @@ The final two reconstructed forms in this section probably referred to wet taro 
 '<span>pondfield</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>hūhi</i></td>
+<td>Pn</td><td>Māori</td><td><i>hūhi</i></td>
 <td>
 (N) '<span>swamp</span>'</td>
 </tr>
@@ -3506,7 +3536,7 @@ In POc a single word, _&ast;waiR_, evidently denoted both ‘fresh water’ and 
 '<span>water, esp. fresh running</span>' (<span>as opp. to <em>nupu</em> ‘pool of still water’</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>wai</i></td>
+<td>Pn</td><td>Māori</td><td><i>wai</i></td>
 <td>
 '<span>water; liquid, oil, etc.</span>'</td>
 </tr>
@@ -3693,7 +3723,7 @@ We have one lower-level reconstruction for a river branch.
 (V) '<span>fork, branch out, divide</span>'; (N) '<span>branch, fork</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>maŋa</i></td>
+<td>Pn</td><td>Māori</td><td><i>maŋa</i></td>
 <td>
 '<span>branch of a river</span>'</td>
 </tr>
@@ -3917,7 +3947,7 @@ Polynesian languages have a well-attested term for ‘spring’ which continues 
 '<span>spring of water</span>' (<span>Yen</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>puna</i></td>
+<td>Pn</td><td>Māori</td><td><i>puna</i></td>
 <td>
 '<span>spring, well up, flow</span>'</td>
 </tr>
@@ -4078,13 +4108,43 @@ A number of languages use a compound, translatable literally as ‘eye of water�
 
 Other compounds retaining reflexes of POc _&ast;mata_ ‘eye’ but varying in their term for ‘water’ include the following:
 
-```
- NNG: Kaulong         |eki maran|
- NNG: Yabem           |bu mata|
- PT:  Iduna           |gufa wa-mata|
- MM:  Tolai           |mətə nə tavə|
- SES: Lau             |mā-fulafula|
-```
+<table>
+<tr>
+<td>NNG</td>
+<td>Kaulong</td>
+<td><i>eki maran</i></td>
+<td>
+'<span>spring of water</span>'</td>
+</tr>
+<tr>
+<td>NNG</td>
+<td>Yabem</td>
+<td><i>bu mata</i></td>
+<td>
+'<span>spring of water</span>'</td>
+</tr>
+<tr>
+<td>PT</td>
+<td>Iduna</td>
+<td><i>gufa wa-mata</i></td>
+<td>
+'<span>spring of water</span>'</td>
+</tr>
+<tr>
+<td>MM</td>
+<td>Tolai</td>
+<td><i>mətə nə tavə</i></td>
+<td>
+'<span>spring of water</span>'</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>Lau</td>
+<td><i>mā-fulafula</i></td>
+<td>
+'<span>spring of water</span>'</td>
+</tr>
+</table>
 
 
 <a id="s-6-3"></a>
@@ -4399,7 +4459,7 @@ The generic term for ‘stone’ or ‘rock’ was POc _&ast;patu_.
 '<span>stone, rock</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>ɸatu</i></td>
+<td>Pn</td><td>Māori</td><td><i>ɸatu</i></td>
 <td>
 '<span>stone, rock</span>'</td>
 </tr>
@@ -4667,7 +4727,7 @@ Dead coral was evidently valued as coral rubble (POc _&ast;giri-giri_), and as a
 '<span>gravel</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>kiri-kiri</i></td>
+<td>Pn</td><td>Māori</td><td><i>kiri-kiri</i></td>
 <td>
 '<span>gravel</span>'</td>
 </tr>
@@ -4923,7 +4983,7 @@ A distinctive term, PCP _&ast;vuqa(i)ŋa_, is reflected in Fijian and Polynesian
 '<span>volcanic stone used as hone or sharpener</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>hōaŋa</i></td>
+<td>Pn</td><td>Māori</td><td><i>hōaŋa</i></td>
 <td>
 '<span>sandstone used in grinding stone</span>'</td>
 </tr>
@@ -5052,7 +5112,7 @@ There is a well-attested POc term for ‘sand’ which continues a PAn etymon (s
 '<span>sand</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Nêlêmwa</td><td><i>on</i></td>
+<td>NCal</td><td>Nêlêmwâ</td><td><i>on</i></td>
 <td>
 '<span>sand</span>'</td>
 </tr>
@@ -5087,7 +5147,7 @@ There is a well-attested POc term for ‘sand’ which continues a PAn etymon (s
 '<span>general name for soil, earth, sand, gravel</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>one</i></td>
+<td>Pn</td><td>Māori</td><td><i>one</i></td>
 <td>
 '<span>beach; sand, mud; in various names for different kinds of soil</span>'</td>
 </tr>
@@ -5179,7 +5239,7 @@ A reduplicated form of the above can also be reconstructed. This may have denote
 '<span>sandy, dirty, gritty</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>one-one</i></td>
+<td>Pn</td><td>Māori</td><td><i>one-one</i></td>
 <td>
 '<span>earth, soil; land</span>'</td>
 </tr>
@@ -5392,7 +5452,7 @@ Central Pacific shows an innovation in replacing _&ast;tano(q)_ with _&ast;gʷel
 '<span>soiled, muddy</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>kere-</i></td>
+<td>Pn</td><td>Māori</td><td><i>kere-</i></td>
 <td>
 '<span>earth (in compounds only)</span>'</td>
 </tr>
@@ -5918,7 +5978,7 @@ It appears that most Oceanic languages use a single term to refer to both ‘hot
 '<span>blaze</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>kora</i></td>
+<td>Pn</td><td>Māori</td><td><i>kora</i></td>
 <td>
 (N) '<span>spark; fire, fuel</span>'; (V) '<span>gleam</span>'</td>
 </tr>
@@ -6212,17 +6272,17 @@ POc used at least two terms to denote ashes. These had distinct but overlapping 
 '<span>ashes</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>rehu</i></td>
+<td>Pn</td><td>Māori</td><td><i>rehu</i></td>
 <td>
 '<span>fine dust, haze, mist, spray</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>(puŋa)rehu</i></td>
+<td>Pn</td><td>Māori</td><td><i>(puŋa)rehu</i></td>
 <td>
 '<span>ashes</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>(ŋa)rahu</i></td>
+<td>Pn</td><td>Māori</td><td><i>(ŋa)rahu</i></td>
 <td>
 '<span>charcoal; any black pigment; cinders</span>'</td>
 </tr>
@@ -6582,14 +6642,14 @@ cf. also:
 <table>
 <tr>
 <td>Pn</td>
-<td>Maori</td>
+<td>Māori</td>
 <td><i>mura</i></td>
 <td>
 '<span>flame, blaze</span>'</td>
 </tr>
 <tr>
 <td>Pn</td>
-<td>Maori</td>
+<td>Māori</td>
 <td><i>mura-mura</i></td>
 <td>
 '<span>burst into flame</span>'</td>
@@ -6827,7 +6887,7 @@ POc, like some of its daughter languages, seems to have distinct terms for smoke
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>au, au-ahi</i></td>
+<td>Pn</td><td>Māori</td><td><i>au, au-ahi</i></td>
 <td>
 </td>
 </tr>
@@ -6958,7 +7018,7 @@ PCP _&ast;kobulu_, possibly meaning ‘thick smoke or cloud’ is indicated by r
 (N) '<span>smoke</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>kōpuru</i></td>
+<td>Pn</td><td>Māori</td><td><i>kōpuru</i></td>
 <td>
 '<span>heavy passing clouds</span>'; '<span>fusty, mouldy</span>'</td>
 </tr>
@@ -6968,7 +7028,7 @@ cf. also:
 <table>
 <tr>
 <td>NCal</td>
-<td>Ajie</td>
+<td>Ajië</td>
 <td><i>kemnru</i></td>
 <td>
 '<span>fire</span>'</td>
@@ -7114,12 +7174,12 @@ cf. also: the following, where there is semantic correspondence even though one 
 '<span>burn</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>huru</i></td>
+<td>Pn</td><td>Māori</td><td><i>huru</i></td>
 <td>
 '<span>glow</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>huru-huru</i></td>
+<td>Pn</td><td>Māori</td><td><i>huru-huru</i></td>
 <td>
 '<span>diffused glow</span>'</td>
 </tr>
@@ -7129,10 +7189,10 @@ cf. also: the following, where there is semantic correspondence even though one 
 
 Certain Papuan languages of the central and western Solomons show resemblant forms that are presumably borrowed from an Oceanic source.
 
-```
-  Papuan: Lavukaleve  huluhuluru        ‘flame’
-  Papuan: Baniata     vuvuru            ‘flame’
-```
+|                                               |
+|:----------------------------------------------|
+| Papuan: Lavukaleve  huluhuluru        ‘flame’ |
+| Papuan: Baniata     vuvuru            ‘flame’ |
 
 
 <a id="p-80"></a>
@@ -7250,7 +7310,7 @@ cf. also:
 '<span>emit sparks, as a fire</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>makaro</i></td>
+<td>Pn</td><td>Māori</td><td><i>makaro</i></td>
 <td>
 '<span>be dimly visible</span>'</td>
 </tr>
@@ -7537,7 +7597,7 @@ cf. also:
 '<span>earthquake</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>mahuika</i></td>
+<td>Pn</td><td>Māori</td><td><i>mahuika</i></td>
 <td>
 '<span>deity from whom fire was obtained by Maaui-tikitiki</span>'</td>
 </tr>
@@ -7851,7 +7911,7 @@ POc _&ast;solo_ was probably a verb, but its reflexes refer, inter alia, to land
 '<span>landslide</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>horo</i></td>
+<td>Pn</td><td>Māori</td><td><i>horo</i></td>
 <td>
 '<span>landslide</span>'</td>
 </tr>
@@ -7923,24 +7983,120 @@ POc _&ast;solo_ was probably a verb, but its reflexes refer, inter alia, to land
 
 No POc term denoting tidal wave has been reconstructed. In contemporary languages, terms for tidal wave are compounds, with the first element often a reflex of _&ast;tasik_ ‘sea’ (Ch.4, §2.1) or _&ast;[u]Ruap_ ‘high tide’ (§2.6). These terms do not usually distinguish tsunamis, caused by undersea earth movements, from floods caused by a combination of high tide and strong wind. In any case, catastrophic tidal waves probably occur only once or twice a century, and affect only localised places. Although a number of terms for ‘tidal wave’ have been collected, and are listed below, cognates exist only within low level subgroups.
 
-```
-  Adm: Mussau        manu gagaga ‘tidal wave’ (manu ‘water’)
-  Adm: Lou           ultum              ‘tidal wave’
-  MM:  Nakanai       karoro             ‘tidal wave’
-  MM:  Tolai         roro               ‘tidal wave’
-  MM:  Ramoaaina     tai-gugu           ‘tidal wave’ (_tai_ ‘sea’)
-  SES: Gela          gogo               ‘tidal wave’
-  SES: Gela          lua-lua            ‘flood, tidal wave’ (_lua_ ‘full tide’)
-  SES: Bugotu        gogovi             ‘tidal wave’
-  SES: Arosi         rua-rua            ‘flood of water’
-  SES: Arosi         asi-ora            ‘tidal wave’ (_ora_ ‘possessed by foul ghost’)
-  NCV: Tamambo       |tasi wala-walau|  ‘tidal wave’ (_walau_ ‘to run’)
-  Fij: Bauan         |ua tale-tale|     ‘tidal wave’ (_ua_ ‘tide, wave’, _tale-tale_ ‘repeated backwash of waves’)
-  Fij: Bauan         |ua loka|          ‘tidal wave (_ua_ ‘tide, wave’, _loka_ ‘very heavy breakers or high tides that flow inland’)
-  Pn:  Tongan        |peau kula|        ‘tidal wave’ (lit. ‘wave red’)
-  Pn:  Niuean        |peau afi|         ‘tidal wave’ (lit. ‘wave fire’)
-  Pn:  Hawaiian      |kai hōʔeʔe|       ‘tidal wave’
-```
+<table>
+<tr>
+<td>Adm</td>
+<td>Mussau</td>
+<td><i>manu gagaga</i></td>
+<td>
+'<span>tidal wave</span>' (<span><em>manu</em> ‘water’</span>)</td>
+</tr>
+<tr>
+<td>Adm</td>
+<td>Lou</td>
+<td><i>ultum</i></td>
+<td>
+'<span>tidal wave</span>'</td>
+</tr>
+<tr>
+<td>MM</td>
+<td>Nakanai</td>
+<td><i>karoro</i></td>
+<td>
+'<span>tidal wave</span>'</td>
+</tr>
+<tr>
+<td>MM</td>
+<td>Tolai</td>
+<td><i>roro</i></td>
+<td>
+'<span>tidal wave</span>'</td>
+</tr>
+<tr>
+<td>MM</td>
+<td>Ramoaaina</td>
+<td><i>tai-gugu</i></td>
+<td>
+'<span>tidal wave</span>' (<span><em>tai</em> ‘sea’</span>)</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>Gela</td>
+<td><i>gogo</i></td>
+<td>
+'<span>tidal wave</span>'</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>Gela</td>
+<td><i>lua-lua</i></td>
+<td>
+'<span>boil over, as food cooked in bamboo; to spit out</span>'; '<span>flood, tidal wave</span>' (<span><em>lua</em> ‘full tide’</span>)</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>Bugotu</td>
+<td><i>gogovi</i></td>
+<td>
+'<span>tidal wave</span>'</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>Arosi</td>
+<td><i>rua-rua</i></td>
+<td>
+'<span>flood of water</span>'</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>Arosi</td>
+<td><i>asi-ora</i></td>
+<td>
+'<span>tidal wave</span>' (<span><em>ora</em> ‘possessed by foul ghost’</span>)</td>
+</tr>
+<tr>
+<td>NCV</td>
+<td>Tamambo</td>
+<td><i>tasi wala-walau</i></td>
+<td>
+'<span>tidal wave</span>' (<span><em>walau</em> ‘to run’</span>)</td>
+</tr>
+<tr>
+<td>Fij</td>
+<td>Bauan</td>
+<td><i>ua tale-tale</i></td>
+<td>
+'<span>tidal wave</span>' (<span><em>ua</em> ‘tide, wave’, <em>tale-tale</em> ‘repeated backwash of waves’</span>)</td>
+</tr>
+<tr>
+<td>Fij</td>
+<td>Bauan</td>
+<td><i>ua loka</i></td>
+<td>
+'<span>tidal wave</span>' (<span><em>ua</em> ‘tide, wave’, <em>loka</em> ‘very heavy breakers or high tides that flow inland’</span>)</td>
+</tr>
+<tr>
+<td>Pn</td>
+<td>Tongan</td>
+<td><i>peau kula</i></td>
+<td>
+'<span>tidal wave</span>' (<span>lit. ‘wave red’</span>)</td>
+</tr>
+<tr>
+<td>Pn</td>
+<td>Niuean</td>
+<td><i>peau afi</i></td>
+<td>
+'<span>tidal wave</span>' (<span>lit. ‘wave fire’</span>)</td>
+</tr>
+<tr>
+<td>Pn</td>
+<td>Hawaiian</td>
+<td><i>kai hōʔeʔe</i></td>
+<td>
+'<span>tidal wave</span>'</td>
+</tr>
+</table>
 
 
 <a id="p-86"></a>
@@ -8143,7 +8299,7 @@ Flooding for coastal dwellers on small Oceanic islands is likely to be the resul
 '<span>sea flood, tide</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>roma</i></td>
+<td>Pn</td><td>Māori</td><td><i>roma</i></td>
 <td>
 '<span>flood, flood tide, stream, current</span>'</td>
 </tr>
@@ -8276,7 +8432,7 @@ The meanings of the prefix _&ast;qā-_, and the alternative form _&ast;pua-_ (bl
 '<span>whirlwind, cyclone</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>ā-fiofio</i></td>
+<td>Pn</td><td>Māori</td><td><i>ā-fiofio</i></td>
 <td>
 '<span>whirlwind</span>'</td>
 </tr>
@@ -8354,7 +8510,7 @@ The next item may be associated in some way with POc _&ast;piro_ ‘twist togeth
 '<span>wavelets in a ring</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>ripo</i></td>
+<td>Pn</td><td>Māori</td><td><i>ripo</i></td>
 <td>
 '<span>eddy, whirlpool</span>'</td>
 </tr>

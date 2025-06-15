@@ -743,7 +743,7 @@ PMP _&ast;binu(q)an_ below is reconstructed on the basis of the Oceanic data and
 '<span>Macaranga sp.</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Larevat</td><td><i>nə-vənu</i></td>
+<td>NCV</td><td>Larëvat</td><td><i>nə-vənu</i></td>
 <td>
 '<span>Macaranga sp.</span>'</td>
 </tr>
@@ -965,7 +965,7 @@ There is disagreement among cognates with regard to the final _&ast;-aqi_ of POc
 '<span>Pipturus argenteus</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Nêlêmwa</td><td><i>hâlamʷi</i></td>
+<td>NCal</td><td>Nêlêmwâ</td><td><i>hâlamʷi</i></td>
 <td>
 '<span>Pipturus argenteus</span>'</td>
 </tr>
@@ -1166,7 +1166,7 @@ A number of groups in Indonesia and Melanesia practised ritual tooth-blackening 
 '<span>a large: timber tree</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>tawai</i></td>
+<td>Pn</td><td>Māori</td><td><i>tawai</i></td>
 <td>
 '<span>large trees, Nothofagus (southern beech) spp.).</span>'</td>
 </tr>
@@ -1348,7 +1348,7 @@ POc _&ast;maRako_ 'Trichospermum peekelii' is an unproblematic reconstruction.
 '<span>Gossypium tomentosum, Abutilon incanum</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>mako-mako</i></td>
+<td>Pn</td><td>Māori</td><td><i>mako-mako</i></td>
 <td>
 '<span>wineberry, Aristotelia serrata</span>'</td>
 </tr>
@@ -1404,7 +1404,7 @@ Two less widely reflected terms, the refllexes of which are generic terms for gr
 '<span>grass</span>'</td>
 </tr>
 <tr>
-<td>TM</td><td>Asuboa</td><td><i>lɔbumɔ</i></td>
+<td>TM</td><td>Asumboa</td><td><i>lɔbumɔ</i></td>
 <td>
 '<span>grass</span>'</td>
 </tr>
@@ -1493,7 +1493,7 @@ In Proto Remote Oceanic, _&ast;mʷanaya_, another apparently generic term for gr
 '<span>grass</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Nati</td><td><i>nö-mʷönei</i></td>
+<td>NCV</td><td>Nāti</td><td><i>nö-mʷönei</i></td>
 <td>
 '<span>grass</span>'</td>
 </tr>

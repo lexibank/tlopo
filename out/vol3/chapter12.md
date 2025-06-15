@@ -136,7 +136,7 @@ POc _&ast;niuR_ appears to have been used in at least two senses: the fruit at a
 '<span>coconut</span>'</td>
 </tr>
 <tr>
-<td>TM</td><td>Asuboa</td><td><i>u-ñio</i></td>
+<td>TM</td><td>Asumboa</td><td><i>u-ñio</i></td>
 <td>
 '<span>coconut</span>'</td>
 </tr>
@@ -191,7 +191,7 @@ POc _&ast;niuR_ appears to have been used in at least two senses: the fruit at a
 '<span>coconut</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Nêlêmwa</td><td><i>nu</i></td>
+<td>NCal</td><td>Nêlêmwâ</td><td><i>nu</i></td>
 <td>
 '<span>coconut</span>'</td>
 </tr>
@@ -925,7 +925,7 @@ Other than the items mentioned in the previous paragraph, none of the items belo
 '<span>ripe coconut</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Larevat</td><td><i>(nən) meraŋ</i></td>
+<td>NCV</td><td>Larëvat</td><td><i>(nən) meraŋ</i></td>
 <td>
 '<span>ripe coconut</span>'</td>
 </tr>
@@ -1041,7 +1041,36 @@ Growth stage 12, the sprouted coconut, is evidently strongly associated in Ocean
 
 The cognate set below apparently reflects POc _&ast;tubuq_ 'grow, swell' (vol.1, ch.5, §9.2), with the added meaning '(plant) sprout'. Probably, as in Taboro _niu tubu-na_, the verb was used attributively with the term for coconut to denote growth stage 12.
 
-__formgroup__ PT:    Taboro       |(niu) tubu-na|     'sprouted coconut' PT:    Motu         tubu                'sprouted coconut' PT:    Roro         kupu                'coconut sprouted' NCV:   NE Ambae     tubu                'germinated coconut or its pith'
+<table>
+<tr>
+<td>PT</td>
+<td>Taboro</td>
+<td><i>(niu) tubu-na</i></td>
+<td>
+'<span>sprouted coconut</span>'</td>
+</tr>
+<tr>
+<td>PT</td>
+<td>Motu</td>
+<td><i>tubu</i></td>
+<td>
+'<span>grow; fennent; swell</span>'; '<span>grow; ferment; swell</span>'; '<span>sprouted coconut</span>'</td>
+</tr>
+<tr>
+<td>PT</td>
+<td>Roro</td>
+<td><i>kupu</i></td>
+<td>
+'<span>coconut sprouted</span>'</td>
+</tr>
+<tr>
+<td>NCV</td>
+<td>Ambae</td>
+<td><i>tubu</i></td>
+<td>
+'<span>germinated coconut or its pith</span>'</td>
+</tr>
+</table>
 
 POc _&ast;tabʷa_ 'coconut growth stage 12: sprouted' is formally similar to but almost certainly distinct from the set above. There are two difficulties with this set. First, the NNG and NCV glosses denote a later growth stage. Second, the Polynesian items reflect a form with POc _&ast;-p-_ rather than _-bʷ-_.
 
@@ -2779,7 +2808,7 @@ Evidence for the word-final _&ast;t_ of POc _&ast;pʷenu(t)_ is indirect. The Nd
 '<span>make a join in plaiting etc</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>fenu</i></td>
+<td>Pn</td><td>Māori</td><td><i>fenu</i></td>
 <td>
 '<span>twist, spin a cord, strand of a garment, warp (in weaving); a single element in basketry</span>'</td>
 </tr>
@@ -3308,7 +3337,7 @@ POc _&ast;ramaR_ 'coconut leaf used as a torch when fishing', reflecting PMP _&a
 '<span>torch (made of dry coconut leaflets +); fishing with torches</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>rama</i></td>
+<td>Pn</td><td>Māori</td><td><i>rama</i></td>
 <td>
 '<span>torch; eeling with torches</span>'</td>
 </tr>
@@ -3744,7 +3773,92 @@ There was perhaps no separate term in most Oceanic languages for the inflorescen
 
 Terms for the boat-shaped spathe, shown in Figure 12.3, and for the spadix (the branching flower stalk which becomes the stalk of a bunch of coconuts) are more common, although some languages do not distinguish between the two, whilst others have more than one term. The spathe is used for firewood and as a bowl or tray. Sugary sap can be tapped from the flower stalk ([French 1986](../references.md#source-French1986): 31). Sample terms are listed below. PPn had a term _&ast;loso-loso_ 'coconut spadix; coconut spathe' (POLLEX), reflected in most Polynesian languages.
 
-__formgroup__ Adm: Titan        páⁿrol        'sheath of flower of the coconut palm, when dry; used as firewood' NNG: Numbami      wawanziŋa     'sheath over coconut blossoms (used as tray)' PT:  Iduna        lelewaka      '(split) pod of coconut; covers kakaiyona PT:  Iduna        kakaiyo-na    'twigs, hand on which coconuts grow' PT:  Tawala       kena         'sheath covering new coconut flowers' MM:  Nduke        rereto-       'spathe of the coconut, the 'boat' that accompanies the flowers and baby coconuts' MM:  Nduke        baɣutu-       'stem that supports the flowers, and later the fruit, of the coconut' SES: Gela         mbagona       'spathe of coconut flowers' SES: Gela         tu            'spathe of coconut flowers' SES: Gela         liliki        'flower case of coconut' Fij: Wayan        sāmoa         'hard sheath or calyx enclosing flower of coconut (used as torch); coconut flower before sheath bursts' Pn:  Tikopia      taume         'coconut spathe, when dry used for fuel'
+<table>
+<tr>
+<td>Adm</td>
+<td>Titan</td>
+<td><i>páⁿrol</i></td>
+<td>
+'<span>sheath of flower of the coconut palm, when dry; used as firewood</span>'</td>
+</tr>
+<tr>
+<td>NNG</td>
+<td>Numbami</td>
+<td><i>wawanziŋa</i></td>
+<td>
+'<span>sheath over coconut blossoms (used as tray)</span>'</td>
+</tr>
+<tr>
+<td>PT</td>
+<td>Iduna</td>
+<td><i>lelewaka</i></td>
+<td>
+'<span>(split) pod of coconut; covers kakaiyona</span>'</td>
+</tr>
+<tr>
+<td>PT</td>
+<td>Iduna</td>
+<td><i>kakaiyo-na</i></td>
+<td>
+'<span>twigs, hand on which coconuts grow</span>'</td>
+</tr>
+<tr>
+<td>PT</td>
+<td>Tawala</td>
+<td><i>kena</i></td>
+<td>
+'<span>sheath covering new coconut flowers</span>'</td>
+</tr>
+<tr>
+<td>MM</td>
+<td>Nduke</td>
+<td><i>rereto-</i></td>
+<td>
+'<span>spathe of the coconut, the "boat" that accompanies the flowers and baby coconuts</span>'</td>
+</tr>
+<tr>
+<td>MM</td>
+<td>Nduke</td>
+<td><i>baɣutu-</i></td>
+<td>
+'<span>stem that supports the flowers, and later the fruit, of the coconut</span>'</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>Gela</td>
+<td><i>mbagona</i></td>
+<td>
+'<span>spathe of coconut flowers</span>'</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>Gela</td>
+<td><i>tu</i></td>
+<td>
+'<span>spathe of coconut flowers</span>'</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>Gela</td>
+<td><i>liliki</i></td>
+<td>
+'<span>flower case of coconut</span>'</td>
+</tr>
+<tr>
+<td>Fij</td>
+<td>Wayan</td>
+<td><i>sāmoa</i></td>
+<td>
+'<span>hard sheath or calyx enclosing flower of coconut (used as torch); coconut flower before sheath bursts</span>'</td>
+</tr>
+<tr>
+<td>Pn</td>
+<td>Tikopia</td>
+<td><i>taume</i></td>
+<td>
+'<span>coconut spathe, when dry used for fuel</span>'</td>
+</tr>
+</table>
 
 The Wayan and Tikopia terms above reflect POc _&ast;jamu((q)a)_ which, however, evidently had the more general sense 'cluster of flowers or fruit, usually palms' (ch.4, §2. 8). If there was a dedicated POc term for the coconut spathe and/or spadix, we have been unable to reconstruct it.
 
@@ -3792,7 +3906,22 @@ The importance of the coconut in POc culture is attested - as we might expect - 
 
 [^15]: Productive nominalisations of reflexes of POc _&ast;kani_ 'eat' in Oceanic languages usually mean 'staple food' and by extension 'food in general' (ch.2, §6.1).
 
-[^16]: [Lynch](../references.md#source-Lynch2001c) ([2001c](../references.md#source-Lynch2001c)) reconstructs PSV _&ast;nə-vutoy_ 'brain' with an unexpected initial _&ast;v-_ reflected in Anejom _h-_. Its resemblance to PAdm _&ast;puto-_ is probably accidental, as its reflexes only denote 'brain' and it is probably a reflex of POc _&ast;qutok_ in which PSV _&ast;v-_ (normally < POc _&ast;p-_) is an idiosyncratic innovation. __formgroup__ PSV &ast;nə-vutoy 'brain' ([Lynch 2001c](../references.md#source-Lynch2001c)) SV:   Anejom     n-hutu(ma)    'brains' SV:   N Tanna    no-uta        'brains' SV    Lenakel    neno-urək    'brain'
+[^16]: [Lynch](../references.md#source-Lynch2001c) ([2001c](../references.md#source-Lynch2001c)) reconstructs PSV _&ast;nə-vutoy_ 'brain' with an unexpected initial _&ast;v-_ reflected in Anejom _h-_. Its resemblance to PAdm _&ast;puto-_ is probably accidental, as its reflexes only denote 'brain' and it is probably a reflex of POc _&ast;qutok_ in which PSV _&ast;v-_ (normally < POc _&ast;p-_) is an idiosyncratic innovation. <table>
+<tr>
+<td>SV</td>
+<td>Anejom</td>
+<td><i>n-hutu(ma)</i></td>
+<td>
+'<span>brains</span>'</td>
+</tr>
+<tr>
+<td>SV</td>
+<td>N. Tanna</td>
+<td><i>no-uta</i></td>
+<td>
+'<span>brains</span>'</td>
+</tr>
+</table>
 
 [^17]: Terms for husking and breaking open a coconut are reconstructed in vol.1, ch.6, §5.5.
 

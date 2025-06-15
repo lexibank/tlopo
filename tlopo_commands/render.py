@@ -61,7 +61,44 @@ where csrf.`cognatesetreferences.csv_cldf_id` = ?
 
     def cfs(rid):
         q = """
-select cf.cldf_id, cf.cldf_name, l.`Group`, l.cldf_name, l.is_proto, f.cldf_value, g.cldf_name, g.cldf_comment, g.Part_Of_Speech, gs.SourceTable_id, gs.context
+            select cf.cldf_id, \
+                   cf.cldf_name, \
+                   l.`Group`, \
+                   l.cldf_name, \
+                   l.is_proto, \
+                   f.cldf_value, \
+                   g.cldf_name, \
+                   g.cldf_comment, \
+                   g.Part_Of_Speech, \
+                   gs.SourceTable_id, \
+                   gs.context
+            from `cf.csv` as cf \
+                     join `cfitems.csv` as c on (cf.cldf_id = c.Cfset_ID) \
+                     join formtable as f on (c.cldf_formReference = f.cldf_id) \
+                     join languagetable as l on f.cldf_languageReference = l.cldf_id \
+                     left join `glosses.csv` as g on f.cldf_id = g.cldf_formReference \
+                     left join `glosses.csv_SourceTable` as gs \
+                               on gs.`glosses.csv_cldf_id` = g.cldf_id
+            where cf.cognatesetreference_id = ?
+            order by cf.cldf_id, l.cldf_name, f.cldf_value, g.cldf_name \
+            """
+        res = collections.OrderedDict()
+        for cfid, rows in itertools.groupby(db.query(q, (rid,)), lambda r: r[0]):
+            # _, cfname, group, lname, _, form, gloss, cmt, pos, srcid, pages
+            rows = list(rows)
+            res[(cfid, rows[0][1])] = []
+            for (group, lname, form), glosses in itertools.groupby(rows, lambda r: (r[2], r[3],
+                                                                                    r[5])):
+                res[(cfid, rows[0][1])].append((group, lname, form, []))
+                for (g, cmt, pos), sources in itertools.groupby(glosses,
+                                                                lambda r: (r[6], r[7], r[8])):
+                    res[(cfid, rows[0][1])][-1][-1].append(
+                        (g, cmt, pos, [(r[-2], r[-1]) for r in sources if r[-2]]))
+        return res
+
+    def cfitems(cfid):
+        q = """
+select l.`Group`, l.cldf_name, l.is_proto, f.cldf_value, f.Morpheme_Gloss, g.cldf_name, g.cldf_comment, g.Part_Of_Speech, gs.SourceTable_id, gs.context
 from 
       `cf.csv` as cf
       join `cfitems.csv` as c on (cf.cldf_id = c.Cfset_ID)
@@ -69,19 +106,19 @@ from
       join languagetable as l on f.cldf_languageReference = l.cldf_id
       left join `glosses.csv` as g on f.cldf_id = g.cldf_formReference
       left join `glosses.csv_SourceTable` as gs on gs.`glosses.csv_cldf_id` = g.cldf_id
-where cf.cognatesetreference_id = ?
-order by cf.cldf_id, l.cldf_name, f.cldf_value, g.cldf_name
+where cf.cldf_id = ?
 """
-        res = collections.OrderedDict()
-        for cfid, rows in itertools.groupby(db.query(q, (rid,)), lambda r: r[0]):
-            #_, cfname, group, lname, _, form, gloss, cmt, pos, srcid, pages
-            rows = list(rows)
-            res[(cfid, rows[0][1])] = []
-            for (group, lname, form), glosses in itertools.groupby(rows, lambda r: (r[2], r[3], r[5])):
-                res[(cfid, rows[0][1])].append((group, lname, form, []))
-                for (g, cmt, pos), sources in itertools.groupby(glosses, lambda r: (r[6], r[7], r[8])):
-                    res[(cfid, rows[0][1])][-1][-1].append((g, cmt, pos, [(r[-2], r[-1]) for r in sources if r[-2]]))
-        return res
+        res = []
+        rows = db.query(q, (cfid,))
+        with_morpheme_gloss = False
+        for (group, lname, form, mgloss), glosses in itertools.groupby(rows, lambda r: (r[0], r[1], r[3], r[4])):
+            res.append((group, lname, form, mgloss, []))
+            if mgloss:
+                with_morpheme_gloss = True
+            for (g, cmt, pos), sources in itertools.groupby(glosses, lambda r: (r[5], r[6], r[7])):
+                res[-1][-1].append((g, cmt, pos, [(r[-2], r[-1]) for r in sources if r[-2]]))
+        # FIXME: determine whether there are non-empty morpheme glosses!
+        return res, with_morpheme_gloss
 
     def glosses_by_formid(rid):
         def iter_glosses(rows):
@@ -112,7 +149,7 @@ order by g.cldf_formReference
     if args.chapter:
         v, _, c = args.chapter.partition('-')
 
-    for vol in "1234":
+    for vol in "12345":
         if v and vol != v:
             continue
         md = ds.raw_dir.joinpath('vol{}'.format(vol)).read_json('md.json')
@@ -139,6 +176,7 @@ order by g.cldf_formReference
                 func_dict=dict(
                     get_reconstruction=f,
                     get_cfs=cfs,
+                    get_cfitems=cfitems,
                     glosses_by_formid=glosses_by_formid),
             )
             vout.joinpath(chapter.name).write_text(render(res, ds.cldf_reader()), encoding='utf-8')

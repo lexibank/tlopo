@@ -487,7 +487,7 @@ Figure 28: POc &ast;sika 'netting needle'
 '<span>k.o. fish weir; space through which birds frequently fly, where traps are set up</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>mata</i></td>
+<td>Pn</td><td>Māori</td><td><i>mata</i></td>
 <td>
 '<span>mesh of net</span>'</td>
 </tr>
@@ -1332,7 +1332,7 @@ The kernel of the fruit of Barringtonia asiatica (POc _&ast;putun_) is used for 
 '<span>torch (made of dry coconut leaflets +); fishing with torches</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>rama</i></td>
+<td>Pn</td><td>Māori</td><td><i>rama</i></td>
 <td>
 '<span>torch; eeling with torches</span>'</td>
 </tr>
@@ -2004,7 +2004,7 @@ With regard to the reconstruction of _&ast;(p,pʷ)_, see Chapter 2, §2.1.
 '<span>k.o. arrow thrown in game</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>teka</i></td>
+<td>Pn</td><td>Māori</td><td><i>teka</i></td>
 <td>
 '<span>dart used in a traditional game</span>'</td>
 </tr>
@@ -2387,7 +2387,7 @@ Birds are caught for food throughout the region, often by netting or by ground s
 '<span>(garments) be too tight</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>ɸita</i></td>
+<td>Pn</td><td>Māori</td><td><i>ɸita</i></td>
 <td>
 '<span>firm, secure, fast</span>'</td>
 </tr>
@@ -2516,14 +2516,12 @@ A similar range of fauna to Mussau's occurs in the Lapita sites in the Arawe Isl
 
 Artefacts are considered alongside the linguistic evidence. With regard to angling, we have the following POc reconstructions:
 
-```
   &ast;apon                   'fishing line'
   &ast;kawil                  'fishhook'
   &ast;ta(g,k)o               'barbless (?) fishhook'
   &ast;qunap                  'turtle shell; fishhook'
   &ast;bayan                  'trolling lure'
   &ast;bani, &ast;baŋi            'bait; fodder'
-```
 
 Of these items, fishhooks have proved the most useful in developing local culture sequences. One-piece fishhooks made from several kinds of shell are now well documented from a number of Lapita sites, ranging from Talepakemalai (Mussau) to Lolokoka (Niuatoputapu, Tonga), one site at the latter dating back to about 2800 BP. "Most of the Mussau hooks are fairly large (about 5 cm in shank length) and were probably designed for hand-lining from canoes, in order to catch larger benthic species such as groupers. A few hooks are smaller, however, and could have been used for taking smaller species on reefs and along coastlines." ([Kirch 1997](../references.md#source-Kirch1997): 200). Most hooks so far found are of Turbo, Trochus and pearlshell. Linguistic evidence supports clamshell and tortoiseshell. Presumably all of these were used, as well as the less durable coconut shell, bone and Pemphis acidula wood, which are in use today. Also from Mussau sites come examples of carefully crafted lures made from Trochus shell. These trolling lures "are streamlined for hydrodynamic lift in the water, and have finely carved grooves for attaching both the line and hackles (probably feathers or pig bristles) near the recurved point". (pp.200-201)
 
@@ -2538,7 +2536,6 @@ A pertinent observation on the connection between present-day fishing techniques
 
 We have eight POc terms that relate to netting:
 
-```
   &ast;pukot                 'fishing net, seine'
   &ast;reke                  'fishing net, seine net'
   &ast;lawa((n,q))           'k.o. fishnet'
@@ -2547,7 +2544,6 @@ We have eight POc terms that relate to netting:
   &ast;buli(q)               'cowrie shell used as net sinker'
   &ast;sika                  'netting needle'
   &ast;mata-                 'mesh of net'
-```
 
 Although netting itself will not endure, we have limited physical evidence of dragnetting from Tikopia in the form of cowrie shell net weights. Kirch and Yen (p.245) have been able to identify shells and stones from a Lapita site as net weights and line sinkers:
 
@@ -2555,17 +2551,14 @@ Although netting itself will not endure, we have limited physical evidence of dr
 
 It is unlikely that the remainder of our fishing terminology, with the possible exception of the stone fish weirs, can ever be supported by archaeological evidence:
 
-```
  &ast;pupu                   'basketry fish trap'
  &ast;baRa                   'fence' ('fish weir' only in PCP)
  &ast;tupa                   'derris fish poison'
  &ast;puna                   'vine used for fish poison'
  &ast;(d)rama(R)             (N) 'torch'; (V) 'fish at night with torch'
-```
 
 The pointed weapon terminology consists of:
 
-```
   &ast;sao(t)                    (N, V) 'spear'
   &ast;sua                       (N, V) 'spear, weapon retained in the hand'
   &ast;soka, &ast;soka-i-            'pierce; stab'
@@ -2578,7 +2571,6 @@ The pointed weapon terminology consists of:
   &ast;(p,pʷ)anaq, (p,pʷ)anaq-i- 'bow'; (V) 'shoot'
   &ast;tibʷa(ŋ), &ast;tibʷaŋ-i-      'dart, arrow; shoot with dart, arrow'
   &ast;lolo(s)                   'bowstring'
-```
 
 232                  Meredith Osmond
 
@@ -2586,25 +2578,19 @@ The only archaeological evidence we have for spears, bows and arrows, darts, etc
 
 I can find no archaeological evidence for any kind of club, our two (weakly supported) terms notwithstanding:
 
-```
      &ast;paru         (N, V) 'club'
      &ast;gapi         'stone? club'
-```
 
 However, for the slingshot we have pointed-end tridachna shell slingstones from Main Reef Islands documented by [Green](../references.md#source-Green1979) ([1979](../references.md#source-Green1979):39):
 
-```
     &ast;maga                    'slingshot; stone'
     &ast;kalo                    'sling; tum round and round'
-```
 
 The trail and pitfall spikes, the snare trap and the birdlime lack any supporting evidence from archaeology.
 
-```
    &ast;suja                       'sharpened stake set in ground'
    &ast;pʷita, &ast;pʷita-i-           (N, V) 'snare'
    &ast;bulit                      'gum, resin (birdlime?)'
-```
 
 Although we can look to archaeology to confirm the hypothesis that durable artefacts will be found in sites associated with Oceanic-speaking communities, there is little hope of archaeological recovery of the perishable artefacts in question. Here, linguistics adds an extra dimension to research on the prehistory of Oceania.
 

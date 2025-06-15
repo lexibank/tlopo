@@ -209,7 +209,7 @@ Two terms for A. manihot can be reconstructed in lower interstage languages.
 '<span>Abelmoschus manihot</span>' (<span>Franccois 2004b: Proto Banks *sasar</span>)</td>
 </tr>
 <tr>
-<td>NCV</td><td>Vures</td><td><i>sasar</i></td>
+<td>NCV</td><td>Vurës</td><td><i>sasar</i></td>
 <td>
 '<span>Abelmoschus manihot</span>'</td>
 </tr>
@@ -462,7 +462,7 @@ No POc term is unambiguously reconstructable, but it is possible that the reflex
 '<span>Polyscias sp.</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Larevat</td><td><i>ne-lav</i></td>
+<td>NCV</td><td>Larëvat</td><td><i>ne-lav</i></td>
 <td>
 '<span>Polyscias sp.</span>'</td>
 </tr>
@@ -676,7 +676,7 @@ Among the many ferns eaten in Melanesia, there is just one tree-fern genus for w
 '<span>a large mountain fern, Marattiafraxinea; potato fern Marattia salicina</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>para</i></td>
+<td>Pn</td><td>Māori</td><td><i>para</i></td>
 <td>
 '<span>King fern, Marattia salicina</span>'</td>
 </tr>
@@ -1131,7 +1131,50 @@ POc _&ast;qayawan_ also seems to have a second set of reflexes in Micronesia. A 
 
 <a id="p-305"></a>
 
-__formgroup__ Mic:   Kosraean        kɔn(-yɛ)        'banyan tree' Mic:   Chuukese        əwə̄r            'Ficus tinctoria' Mic:   Puluwatese      yawann          'banyan' Mic:   Satawalese      awal            'banyan' Mic:   Woleaian        gewann          'banyan' Mic:   Ulithian        howe!           'banyan'
+<table>
+<tr>
+<td>Mic</td>
+<td>Kosraean</td>
+<td><i>kɔn(-yɛ)</i></td>
+<td>
+'<span>banyan tree</span>'</td>
+</tr>
+<tr>
+<td>Mic</td>
+<td>Trukese</td>
+<td><i>əwə̄r</i></td>
+<td>
+'<span>Ficus tinctoria</span>'</td>
+</tr>
+<tr>
+<td>Mic</td>
+<td>Puluwatese</td>
+<td><i>yawann</i></td>
+<td>
+'<span>banyan</span>'</td>
+</tr>
+<tr>
+<td>Mic</td>
+<td>Satawalese</td>
+<td><i>awal</i></td>
+<td>
+'<span>banyan</span>'</td>
+</tr>
+<tr>
+<td>Mic</td>
+<td>Woleaian</td>
+<td><i>gewann</i></td>
+<td>
+'<span>banyan</span>'</td>
+</tr>
+<tr>
+<td>Mic</td>
+<td>Ulithian</td>
+<td><i>howel</i></td>
+<td>
+'<span>banyan</span>'</td>
+</tr>
+</table>
 
 POc _&ast;ba[k,g]a_ denoted a taxon of freestanding, medium-sized Ficus species. Denotata of reflexes include F. nodosa, F. wassa, F. prolixa, F. obliqua, F. mutabilis and F. tinctoria, none of them stranglers. [^6]
 

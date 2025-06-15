@@ -1,12 +1,18 @@
-cf. also: {{ ctx['Name'] or '' }}
+{% set items, with_morpheme_gloss = get_cfitems(ctx['ID']) %}
 <table>
-{% for item in cldf['cfitems.csv']: %}
-{% if item['Cfset_ID'] == ctx['ID'] %}
+{% for group, lname, form, mgloss, glosses in items: %}
 <tr>
-<td>{{ cldf.get_object('FormTable', item['Form_ID']).language.name }}</td>
-<td>{{ cldf.get_object('FormTable', item['Form_ID']).cldf.value }}</td>
-<td>{{ cldf.get_object('FormTable', item['Form_ID']).cldf.description }}</td>
-</tr>
+<td>{{ group }}</td>
+<td>{{ lname }}</td>
+<td><i>{{ form }}</i></td>
+{% if with_morpheme_gloss %}
+<td>[{{ mgloss }}]</td>
 {% endif %}
+<td>
+{% for g, cmt, pos, srcs in glosses %}{% if pos %}({{ pos }}) {% endif %}{% if g %}'{{ g|markdown }}'{% endif %}{% if cmt %} ({{ cmt|markdown }}){% endif %}{% if srcs %}
+({% for srcid, pages in srcs %}<a href="../references.md#source-{{ srcid }}">{{ srcid }}{% if pages %}: {{ pages }}{% endif %}</a>{% if loop.last == False %}; {% endif %}{% endfor %})
+{% endif %}{% if loop.last == False %}; {% endif %}{% endfor %}
+</td>
+</tr>
 {% endfor %}
 </table>

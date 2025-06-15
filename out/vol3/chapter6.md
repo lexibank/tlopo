@@ -385,7 +385,7 @@ POc _&ast;toŋoR_ was fairly clearly the generic term for mangroves. It also see
 '<span>mangrove</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Nêlêmwa</td><td><i>kan</i></td>
+<td>NCal</td><td>Nêlêmwâ</td><td><i>kan</i></td>
 <td>
 '<span>Bruguiera gymnorrhiza</span>'</td>
 </tr>
@@ -606,7 +606,7 @@ The initial rounded bilabial of POc _&ast;(p,pʷ)awa(t)_ is reconstructed on the
 '<span>Cerbera lactaria; false sea-mango, Cerbera odollam</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Maori</td><td><i>rewa-rewa</i></td>
+<td>Pn</td><td>Māori</td><td><i>rewa-rewa</i></td>
 <td>
 '<span>tree, Knightia excelsa, with long narrow leaves</span>'</td>
 </tr>
