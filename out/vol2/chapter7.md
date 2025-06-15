@@ -19,13 +19,24 @@ Property words in European languages are typically adjectives. It is fairly cert
 
 Languages in which there is no adjective class or in which there is a small class of adjectives or adjective-like words are fairly common among the world’s languages, as [Dixon](../references.md#source-Dixon1977) ([1977](../references.md#source-Dixon1977), [1982](../references.md#source-Dixon1982)) has shown, and, if we count the small class of adjectival nouns as more adjective-like than adjectival verbs, then Dixon’s generalisation extends to POc. Dixon divides properties into seven semantic categories: dimension, age, value, colour, physical property, human/animal propensity, and speed. In Oceanic languages, speed belongs with strength and toughness, a subcategory of physical property, and so I treat it thus (§5.3). Of Dixon’s categories, I will here not discuss value (‘good’, ‘bad’), human/ animal propensity (e.g. ‘kind’, ‘clever’, ‘happy’, ‘jealous’, ‘tame’) or speed (‘quick’, ‘slow’), as these are applied either entirely or generally to animate rather than to inanimate entities. The category of physical properties is a large one, and some of its subcategories will also be ignored here, for similar reasons.[^2] This leaves the following semantic categories which include properties of inanimate objects:
 
-__ol__ 1.    dimension and distance: e.g. ‘big’, ‘small’, ‘long’, ‘short’, ‘wide’, ‘narrow’, ‘near’, ‘far’ 2.    age: e.g. ‘new’, ‘old’ 3.    colour: e.g. ‘red’, ‘black’, ‘white’, ‘yellow’ 4.    physical property: a. form: e.g. ‘straight’, ‘flat’, ‘rough’, ‘smooth’ b. weight: ‘heavy’, ‘light’ c. strength, toughness and speed: ‘strong’, ‘weak’, ‘hard’, ‘soft’ d. content: ‘full’, ‘empty’ e. temperature: e.g. ‘hot’, ‘cold’ f. wetness and dryness: e.g. ‘wet’, ‘dry’
+   1.    dimension and distance: e.g. ‘big’, ‘small’, ‘long’, ‘short’, ‘wide’, ‘narrow’, ‘near’, ‘far’
+   2.    age: e.g. ‘new’, ‘old’
+   3.    colour: e.g. ‘red’, ‘black’, ‘white’, ‘yellow’
+   4.    physical property:
+         a. form: e.g. ‘straight’, ‘flat’, ‘rough’, ‘smooth’
+         b. weight: ‘heavy’, ‘light’
+         c. strength, toughness and speed: ‘strong’, ‘weak’, ‘hard’, ‘soft’
+         d. content: ‘full’, ‘empty’
+         e. temperature: e.g. ‘hot’, ‘cold’
+         f. wetness and dryness: e.g. ‘wet’, ‘dry’
 
 This categorisation is somewhat ad hoc, but, other than colours, its terms situate the object they describe relative to ‘a contextually determined standard of evaluation’ ([Croft 1990](../references.md#source-Croft1990):260). These standards of evaluation are the basic human standards of dimension, age and so on. I add distance to Dixon’s dimension category, as terms for ‘near’ and ‘far’ overlap with dimension terms in Oceanic languages.
 
 Dixon assigns languages to one of three broad types with regard to the grammatical behaviour of their property terms. There are:
 
-__ol__ A.     languages like English, where there is a large open class of adjectives; B.     languages like Samoan, where there is no distinct class of adjectives, but an open class of property terms which is a subclass of verbs; C.     languages like Hausa, which have a closed, usually rather small, class of ‘adjectives’ and one or more open classes of property terms which are subclasses of nouns and/or verbs.
+  A.     languages like English, where there is a large open class of adjectives;
+  B.     languages like Samoan, where there is no distinct class of adjectives, but an open class of property terms which is a subclass of verbs;
+  C.     languages like Hausa, which have a closed, usually rather small, class of ‘adjectives’ and one or more open classes of property terms which are subclasses of nouns and/or verbs.
 
 I have placed ‘adjectives’ in inverted commas in Type C because Dixon defines this class in terms of its meanings rather than in terms of its grammatical behaviour. In languages of Type A, there is an adjective class, i.e. a class of property terms whose grammatical behaviour is distinct from nouns or verbs. In languages of Type B, there is no such class. In languages of Type C, there is a closed class of property terms. Dixon does not discuss their grammatical behaviour in depth, and one can envisage several subtypes of Type C, depending on (i) whether the members of the closed class are adjectives (i.e. behave differently from nouns and verbs) or form a subclass of nouns or verbs, and (ii) whether the one or more open classes are subclasses of nouns and/or verbs. He indicates, however, that the closed class is more likely to grammatically resemble nouns than verbs (1982:56). As I indicated above, POc was evidently a Type C language where the closed class was indeed a subclass of noun, the open class a subclass of verb.
 
@@ -38,52 +49,54 @@ Basically, POc property terms conformed to these generalisations ([Ross 1998a](.
 
 I have found twenty Oceanic languages which have a small property-term class for which a probably exhaustive list of underived members is available. The meanings represented in these small classes are listed below, together with the number of languages in whose small class each meaning is represented:
 
-- __dimension__
-- ‘big’        17
-- ‘small’      16
-- ‘long, tall’ 6
-- ‘short’       4
-- ‘thin’        1
-- ‘far’         1
-- __age__
-- ‘new’ 9
-- ‘old’ 6
-- ‘ripe’ 1
-- __value__
-- ‘good’         5
-- ‘bad’          4
-- ‘true, real’   2
-- ‘beautiful’    1
-- __strength/toughness__
-- ‘hard, strong’ 1
-- ‘soft’         1
+|                        |     |
+|:-----------------------|:----|
+| __dimension__          |     |
+| ‘big’                  | 17  |
+| ‘small’                | 16  |
+| ‘long, tall’           | 6   |
+| ‘short’                | 4   |
+| ‘thin’                 | 1   |
+| ‘far’                  | 1   |
+| __age__                |     |
+| ‘new’                  | 9   |
+| ‘old’                  | 6   |
+| ‘ripe’                 | 1   |
+| __value__              |     |
+| ‘good’                 | 5   |
+| ‘bad’                  | 4   |
+| ‘true, real’           | 2   |
+| ‘beautiful’            | 1   |
+| __strength/toughness__ |     |
+| ‘hard, strong’         | 1   |
+| ‘soft’                 | 1   |
 
 Except for one language (Sye) in which terms denoting strength/toughness belong to the small class, these meanings all fall into the domains of dimension, age and value.
 
 The small-class terms in the twenty languages for the three most frequent meanings, ‘big’, ‘small’ and ‘new’, are listed below:
 
-| ‘big’                     ‘small’                 ‘new’                                                  |
-|:---------------------------------------------------------------------------------------------------------|
-| Maleu                    amviŋe                    kapori-                 —                             |
-| Mangap-Mbula             biibi                     musaana                 —                             |
-| Gumawana                 —                         —                       vau                           |
-| Tawala                   banei-                    habulu-                 wou-                          |
-| Saliba (Suau)            woiyawaudoi               gagili                  —                             |
-| Bali-Vitu                kapou                     kakauku                 vahoru                        |
-| Nakanai                  uru                       bisi                    halaba                        |
-| Tigak                    lavu                      —                       —                             |
-| Halia                    pani                      —                       —                             |
-| Teop                     —                         rutaa                   —                             |
-| Zabana                        leɣaha                           rekaha                       foforu       |
-| Longgu                        bweina, vae                      kiki                         —            |
-| Tamambo                       tawera                           vorivori                     —            |
-| Paamese                       haitamene                        havivii                      haiitee-haau |
-| Lewo                          —                                —                            viu          |
-| Sye                           oroŋ, nmah                       viroɣ                        —            |
-| Tinrin                        d̡oṛo                           hɯwɯ[-n̡ã]                   hãmã[-n̡ã]    |
-| Xârâcùù                       mwƭƭ                             —                            —            |
-| Mokilese                      soapoan, leklekin                —                            —            |
-| Bauan                         levu                             lailai                       vou          |
+|               | ‘big’                 | ‘small’      | ‘new’          |
+|:--------------|:----------------------|:-------------|:---------------|
+| Maleu         | _amviŋe_              | _kapori-_    | —              |
+| Mangap-Mbula  | _biibi_               | _musaana_    | —              |
+| Gumawana      | —                     | —            | _vau_          |
+| Tawala        | _banei-_              | _habulu-_    | _wou-_         |
+| Saliba (Suau) | _woiyawaudoi_         | _gagili_     | —              |
+| Bali-Vitu     | _kapou_               | _kakauku_    | _vahoru_       |
+| Nakanai       | _uru_                 | _bisi_       | _halaba_       |
+| Tigak         | _lavu_                | —            | —              |
+| Halia         | _pani_                | —            | —              |
+| Teop          | —                     | _rutaa_      | —              |
+| Zabana        | _leɣaha_              | _rekaha_     | _foforu_       |
+| Longgu        | _bʷeina_, _vae_       | _kiki_       | —              |
+| Tamambo       | _tawera_              | _vorivori_   | —              |
+| Paamese       | _haitamene_           | _havivii_    | _haiitee-haau_ |
+| Lewo          | —                     | —            | _viu_          |
+| Sye           | _oroŋ_, _nmah_        | _viroɣ_      | —              |
+| Tinrin        | _ḍoṛo_                | _hɯwɯ[-ṇã]_ | _hãmã[-ṇã]_   |
+| Xârâcùù       | _mʷĩĩ_                | —            | —              |
+| Mokilese      | _soapoan_, _leklekin_ | —            | —              |
+| Bauan         | _levu_                | _lailai_     | _vou_          |
 
 
 <a id="p-196"></a>
@@ -249,37 +262,37 @@ The Mapos Buang and Mumeng Patep forms may be non-cognate, as their final -k ref
 '<span>big, important</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Lenakel</td><td><i>ipwər</i></td>
+<td>SV</td><td>Lenakel</td><td><i>ipʷər</i></td>
 <td>
 '<span>big, important</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>N. Tanna</td><td><i>empwət</i></td>
+<td>SV</td><td>N. Tanna</td><td><i>empʷət</i></td>
 <td>
 '<span>big, important</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Whitesands</td><td><i>epwət</i></td>
+<td>SV</td><td>Whitesands</td><td><i>epʷət</i></td>
 <td>
 '<span>big, important</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Anejom</td><td><i>(a)lpwas</i></td>
+<td>SV</td><td>Anejom</td><td><i>(a)lpʷas</i></td>
 <td>
 '<span>big, important</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Marshallese</td><td><i>lɯap</i></td>
+<td>Mic</td><td>Marshallese</td><td><i>lᶭap</i></td>
 <td>
 '<span>great, large</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Marshallese</td><td><i>lɯ-lɯap</i></td>
+<td>Mic</td><td>Marshallese</td><td><i>lᶭ-lᶭap</i></td>
 <td>
 '<span>great, large (PL)</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Marshallese</td><td><i>lɯap-lɯap</i></td>
+<td>Mic</td><td>Marshallese</td><td><i>lᶭap-lᶭap</i></td>
 <td>
 '<span>very great, very large</span>'</td>
 </tr>
@@ -324,16 +337,15 @@ Inherited POc terms for ‘small’ were _&ast;qitik_, with a variant _&ast;qite
 
 In Proto Polynesian, _&ast;riki_ (reflecting POc _&ast;riki(t,q)_) had become plural, contrasting with PPn _&ast;qiti_ ‘small (SG)’ (from POc _&ast;qitik_), but there is no evidence that this had occurred at an earlier interstage. This contrast is reflected in the following compounds, which reflect PPn _&ast;tama_ ‘child’ (from POc _&ast;tama-_ ‘father’):
 
-| PPn                      &ast;tama-qiti                 &ast;tama-riki   |
-|:-----------------------------------------------------------------|
-| ‘child’                    ‘chidren’                             |
-| Tongan                   (tama-siʔi)[^8]               tama-iki   |
-| E Uvean                  (tama-siʔi)                tama-liki    |
-| Rennellese               tama-ʔiti-ʔiti             tama-giki    |
-| Hawaiian                 kama-iki (rare)            kama-liʔi    |
-| Tahitian                 tama-iti                   tama-riʔi    |
-| Rarorongan               tama-iti                   tama-riki    |
-| Maori                    tama-iti                   tama-riki    |
+| PPn        | &ast;tama-qiti   ‘child’   | &ast;tama-riki ‘children’   |
+|:-----------|:-----------------------|:------------------------|
+| Tongan     | (tama-siʔi)[^8]         | tama-iki                |
+| E Uvean    | (tama-siʔi)            | tama-liki               |
+| Rennellese | tama-ʔiti-ʔiti         | tama-giki               |
+| Hawaiian   | kama-iki (rare)        | kama-liʔi               |
+| Tahitian   | tama-iti               | tama-riʔi               |
+| Rarorongan | tama-iti               | tama-riki               |
+| Maori      | tama-iti               | tama-riki               |
 
 The reconstruction of PPn _&ast;riki_ is complicated by the fact that Tongan has two forms: _iki_, reflecting _&ast;riki_, and _liki_, which occurs only in compounds. The latter may be a borrowing. On the other hand, it may reflect the separately reconstructable form POc _&ast;liki_ (see below). If it does, then we are left with the possibility that some of the Polynesian forms here attributed to POc _&ast;riki(t,q)_ instead reflect POc _&ast;liki_, as POc _&ast;r_ and _&ast;l_ have merged in all Polynesian languages other than Tongan and Niuean.
 
@@ -377,7 +389,7 @@ Also apparently reconstructable are _&ast;drik(i)_, _&ast;liki_, _&ast;siki_ and
 </td>
 </tr>
 <tr>
-<td>NNG</td><td>Zenag</td><td><i>ktok</i></td>
+<td>NNG</td><td>Zenag</td><td><i>ktɔk</i></td>
 <td>
 </td>
 </tr>
@@ -587,7 +599,7 @@ Also apparently reconstructable are _&ast;drik(i)_, _&ast;liki_, _&ast;siki_ and
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
-<i>&ast;drik(it,iq)</i>
+<i>&ast;drik(i(t,q))</i>
 </td>
 <td>
 '<span>small</span>'</td>
@@ -598,7 +610,7 @@ Also apparently reconstructable are _&ast;drik(i)_, _&ast;liki_, _&ast;siki_ and
 '<span>small</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kosraean</td><td><i>ṣik</i></td>
+<td>Mic</td><td>Kosraean</td><td><i>ṣɨk</i></td>
 <td>
 '<span>small</span>'</td>
 </tr>
@@ -848,7 +860,7 @@ There is good evidence that POc had at least two lexicalised possessee-like attr
 '<span>mother, huge, large</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Drehet</td><td><i>neci</i></td>
+<td>Adm</td><td>Drehet</td><td><i>neči</i></td>
 <td>
 '<span>child; small, little</span>'</td>
 </tr>
@@ -1262,7 +1274,7 @@ Two terms for ‘short’ are reconstructed. All the supporting data for _&ast;t
 '<span>short</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>pwa-pwatu</i></td>
+<td>SES</td><td>Arosi</td><td><i>pʷa-pʷatu</i></td>
 <td>
 '<span>short</span>'</td>
 </tr>
@@ -2312,7 +2324,7 @@ Two POc terms for ‘new’ can be reconstructed: the adjectival noun _&ast;paqo
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
-<i>&ast;ka(l,r)abwa</i>
+<i>&ast;ka(l,r)abʷa</i>
 </td>
 <td>
 '<span>new</span>'</td>
@@ -2958,7 +2970,7 @@ One colour term of the form _&ast;ma-_ + ROOT has no known non-Oceanic cognates.
 '<span>green, blue</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Marshallese</td><td><i>maṛɯɔṛɯɔ</i></td>
+<td>Mic</td><td>Marshallese</td><td><i>maṛᶭɔṛᶭɔ</i></td>
 <td>
 '<span>green</span>'</td>
 </tr>
@@ -4478,7 +4490,7 @@ Two POc terms, _&ast;[ma]lumu_ and _&ast;ma-luas_, express ‘soft, gentle’.
 '<span>soft</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Sio</td><td><i>malbe</i></td>
+<td>NNG</td><td>Sio</td><td><i>malɒe</i></td>
 <td>
 '<span>limp, squishy, soft</span>'</td>
 </tr>
@@ -4533,7 +4545,7 @@ Two POc terms, _&ast;[ma]lumu_ and _&ast;ma-luas_, express ‘soft, gentle’.
 '<span>peaceful</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Puluwatese</td><td><i>maliwa-li</i></td>
+<td>Mic</td><td>Puluwatese</td><td><i>malɨwa-lɨ</i></td>
 <td>
 '<span>to be easy or slow, to be calm (as the sea), to be gentle</span>'</td>
 </tr>
@@ -4865,7 +4877,7 @@ Two terms are reconstructable for ‘hot, warm’, _&ast;[ma]panas_ and _&ast;ma
 '<span>hot</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Kwamera</td><td><i>-(a)pwan-(a)pwan</i></td>
+<td>SV</td><td>Kwamera</td><td><i>-(a)pʷan-(a)pʷan</i></td>
 <td>
 '<span>hot</span>'</td>
 </tr>

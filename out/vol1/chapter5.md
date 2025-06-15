@@ -793,7 +793,7 @@ It seems from its reflexes that POc _&ast;quma_ meant 'clear land for a garden' 
 '<span>cover, as weeds a garden</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>sam</i></td>
+<td>Fij</td><td>Bauan</td><td><i>sani</i></td>
 <td>
 '<span>remove leaves</span>'</td>
 </tr>
@@ -1309,7 +1309,7 @@ cf. also:
 <tr>
 <td>MM</td>
 <td>Label</td>
-<td><i>kit</i></td>
+<td><i>kil</i></td>
 <td>
 </td>
 </tr>
@@ -1351,14 +1351,14 @@ cf. also:
 <tr>
 <td>MM</td>
 <td>Patpatar</td>
-<td><i>kit</i></td>
+<td><i>kil</i></td>
 <td>
 '<span>dig (with a stick)</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
 <td>Ramoaaina</td>
-<td><i>kit</i></td>
+<td><i>kil</i></td>
 <td>
 </td>
 </tr>
@@ -1731,85 +1731,85 @@ We have reconstructions going back at least as far as PMP for two kinds of taro 
 
 [Ross](../references.md#source-Ross1996d) ([1996d](../references.md#source-Ross1996d)) includes the following POc reconstructions for items he classifies as "staples and related food plants":
 
-__taro__
+| __taro__   |             |                                                       |
+|:-----------|:------------|:------------------------------------------------------|
+| POc        | _&ast;talo(s)_  | 'taro, Colocasia esculenta'                           |
+| POc        | _&ast;mʷapo(q)_ | 'taro'                                                |
+| POc        | _&ast;piRaq_    | 'giant taro, elephant ear taro, Alocasia macrorrhiza' |
+| POc        | _&ast;bulaka_   | 'swamp taro, Cyrtosperma chamissonis'                 |
+| POc        | _&ast;kamʷa_    | 'k.o. wild taro (?)'                                  |
+| POc        | _&ast;(b,p)oso_ | 'k.o. taro'                                           |
 
-- &ast;talo(s) 'taro, Colocasia esculenta' ;
-- &ast;mwapo(q) 'taro';
-- &ast;piRaq 'giant taro, elephant ear taro, Alocasia macrorrhiza ' ;
-- &ast;bulaka 'swamp taro, Cyrtosperma chamissonis ' ;
-- &ast;kamwa 'k.o. wild taro (?)';
-- &ast;(b,p)oso 'k.o. taro' ;
+| __yams__   |               |                                                           |
+|:-----------|:--------------|:----------------------------------------------------------|
+| POc        | _&ast;qupi_       | 'greater yam, Dioscorea alata ; also used as yam generic' |
+| POc        | _&ast;pʷatik_     | 'potato yam, aerial yam, Dioscorea bulbifera'             |
+| POc        | (?) _&ast;mamis_  | 'k.o. yam'                                                |
+| POc        | _&ast;mʷaruqen_   | 'k.o. yam: wild yam (??)'                                 |
+| POc        | _&ast;udu(r,R)_   | 'k.o. greater yam'                                        |
+| POc        | _&ast;pʷasepe_    | 'greater yam'                                             |
+| PWOc       | _&ast;gobu_       | 'potato yam, Dioscorea bulbifera (?)'                     |
+| PWOc       | _&ast;(q,k)amisa_ | 'lesser yam, Dioscorea esculenta'                         |
+| PEOc       | _&ast;damu_       | 'k.o. yam'                                                |
 
-__yams__
+| __coconut (Cocos nucifera)__   |         |                                   |
+|:-------------------------------|:--------|:----------------------------------|
+| POc                            | _&ast;niuR_ | 'ripe coconut; coconut (generic)' |
 
-- &ast;qupi 'greater yam, Dioscorea alata ; also used as yam generic';
-- &ast;pʷatik 'potato yam, aerial yam, Dioscorea bulbifera' ;
-- (?) &ast;mamis 'k.o. yam' ;
-- &ast;mwaruqen 'k.o. yam: wild yam (??)';
-- &ast;udu(r,R) 'k.o. greater yam ';
-- &ast;pʷasepe 'greater yam',
-- PWOc &ast;gobu 'potato yam, Dioscorea bulbifera (?)',
-- PWOc &ast;(q,k)amisa 'lesser yam, Dioscorea esculenta';
-- PEOc &ast;damu 'k.o. yam' ;
+| __breadfruit (Artocarpus and Parartocarpus spp.)__   |           |                                  |
+|:-----------------------------------------------------|:----------|:---------------------------------|
+| POc                                                  | _&ast;kuluR_  | 'breadfruit, Artocarpus altilis' |
+| POc                                                  | _&ast;baReqo_ | 'breadfruit fruit (?)'           |
+| POc                                                  | _&ast;beta_   | 'k.o. breadfruit'                |
+| PEOc                                                 | _&ast;ma(R)i_ | 'breadfruit'                     |
 
-__coconut (Cocos nucifera)__
+| __bananas__   |            |                               |
+|:--------------|:-----------|:------------------------------|
+| POc           | _&ast;pudi_    | 'banana, Musa cultivars'      |
+| POc           | _&ast;joRaga_  | 'banana, A ustralimusa group' |
+| POc           | _&ast;sakup_   | 'k.o. cooking banana'         |
+| POc           | _&ast;bʷera_   | 'banana type'                 |
+| POc           | _&ast;baqapun_ | 'k.o. banana'                 |
+| POc           | _&ast;tawai_   | 'k.o. banana'                 |
+| PWOc          | _&ast;bʷatiq_  | 'k.o. banana'                 |
 
-- &ast;niuR 'ripe coconut; coconut (generic)'
-
-__breadfruit (Artocarpus and Parartocarpus spp.)__
-
-- &ast;kuluR 'breadfruit, Artocarpus altilis';
-- &ast;baReqo 'breadfruit fruit (?)';
-- &ast;beta 'k.o. breadfruit';
-- PEOc &ast;ma(R)i 'breadfruit' ;
-
-__bananas__
-
-- &ast;pudi 'banana, Musa cultivars';
-- &ast;joRaga 'banana, A ustralimusa group';
-- &ast;sakup 'k.o. cooking banana';
-- &ast;bwera 'banana type';
-- &ast;baqapun 'k.o. banana';
-- &ast;tawai 'k.o. banana';
-- PWOc &ast;bʷatiq 'k.o. banana' ;
-
-__sugarcane__
-
-- &ast;topu 'sugarcane, Saccharum officinarum ' ;
-- &ast;pijo 'k.o. edible wild cane or reed, possibly Saccharum spontaneum';
+| __sugarcane__   |         |                                                                |
+|:----------------|:--------|:---------------------------------------------------------------|
+| POc             | _&ast;topu_ | 'sugarcane, Saccharum officinarum '                            |
+| POc             | _&ast;pijo_ | 'k.o. edible wild cane or reed, possibly Saccharum spontaneum' |
 
 
 <a id="p-128"></a>
 
-__sago__
+| __sago__   |          |                         |
+|:-----------|:---------|:------------------------|
+| POc        | _&ast;Rabia_ | 'sago, Metroxylon spp.' |
 
-- &ast;Rabia 'sago, Metroxylon spp.';
-
-__greens__
-
-- &ast;bele 'shrub species, Abelmoschus manihot (syn. Hibiscus manihot)';
+| __greens__   |         |                                                              |
+|:-------------|:--------|:-------------------------------------------------------------|
+| POc          | _&ast;bele_ | 'shrub species, Abelmoschus manihot (syn. Hibiscus manihot)' |
 
 No doubt a variety of green leaves were eaten but other reconstructions (e.g. &ast;kusa(q)) do not permit a definition more precise than 'k.o. edible greens'.
 
-__other fruit trees__
+| __other fruit trees__   |                   |                                                                                                     |
+|:------------------------|:------------------|:----------------------------------------------------------------------------------------------------|
+| POc                     | _&ast;wai_, _&ast;waiwai_ | 'mango (generic)'                                                                                   |
+| POc                     | _&ast;pau(q)_         | 'mango, probably Mangifera indica '[^6]                                                              |
+| POc                     | _&ast;koRa_           | 'wild mango, Mangifera minor'                                                                       |
+| POc                     | _&ast;quRis_          | 'Polynesian plum, hog plum, Tahitian apple, golden apple, Spondias Cytherea (syn. Spondias dulcis)' |
+| POc                     | _&ast;molis_          | 'citrus fruit or citrus-like fruit'                                                                 |
+| POc                     | _&ast;kapika_         | 'Malay apple and rose apple, Eugenia spp.'                                                          |
+| POc                     | _&ast;tawan_          | 'Pometia pinnata'                                                                                   |
+| POc                     | _&ast;natu(q)_        | 'k.o. tree with avocado-like fruit and hard wood, Burckella obovata'                                |
 
-- &ast;wai, &ast;waiwai 'mango (generic)';
-- &ast;pau(q) 'mango, probably Mangifera indica '[^6];
-- &ast;koRa 'wild mango, Mangifera minor';
-- &ast;quRis 'Polynesian plum, hog plum, Tahitian apple, golden apple, Spondias Cytherea (syn. Spondias dulcis)';
-- &ast;molis 'citrus fruit or citrus-like fruit';
-- &ast;kapika 'Malay apple and rose apple, Eugenia spp.';
-- &ast;tawan 'Pometia pinnata ';
-- &ast;natu(q) 'k.o. tree with avocado-like fruit and hard wood, Burckella obovata ';
-
-__nut trees__
-
-- &ast;raqu(p) 'New Guinea walnut, Dracontomelon dao ' (syn. D. mangiferum, D. edule);
-- &ast;(w,v)ele 'cut nut, Barringtonia sp.';
-- &ast;[ka]ŋaRi 'canarium almond, Canarium spp.';
-- &ast;qalip 'canarium almond, Canarium sp.';
-- &ast;talise 'Java almond, Indian almond, Terminalia catappa';
-- &ast;qipi 'Tahitian chestnut, Pacific chestnut, Inocarpus fagifer' (syn. Inocarpus edulis).';
+| __nut trees__   |             |                                                                                    |
+|:----------------|:------------|:-----------------------------------------------------------------------------------|
+| POc             | _&ast;raqu(p)_  | 'New Guinea walnut, Dracontomelon dao' (syn. D. mangiferum, D. edule)              |
+| POc             | _&ast;(w,v)ele_ | 'cut nut, Barringtonia sp.'                                                        |
+| POc             | _&ast;[ka]ŋaRi_ | 'canarium almond, Canarium spp.'                                                   |
+| POc             | _&ast;qalip_    | 'canarium almond, Canarium sp.'                                                    |
+| POc             | _&ast;talise_   | 'Java almond, Indian almond, Terminalia catappa'                                   |
+| POc             | _&ast;qipi_     | 'Tahitian chestnut, Pacific chestnut, Inocarpus fagifer' (syn. Inocarpus edulis).' |
 
 No garden is complete or likely to succeed without an abundance of colourful and aromatic herbs and shrubs. In addition to their ornamental qualities, these herbs and shrubs play a major role in various forms of garden magic and ritual. Reconstructions for two such are &ast;laqia 'ginger, Zingiber officinale', whose role is magical rather than culinary, and &ast;yaŋo 'turmeric, Curcuma longa', which has both an edible root and a rich orange pigment, of ritual significance in many Oceanic societies.
 

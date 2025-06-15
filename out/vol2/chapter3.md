@@ -438,7 +438,7 @@ POc _&ast;tanoq_ ‘earth, ground, soil; land’ has already been reconstructed 
 '<span>earth, ground; land, island, country</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Iaai</td><td><i>kono</i></td>
+<td>NCal</td><td>Iaai</td><td><i>kɔnɔ</i></td>
 <td>
 '<span>earth, ground</span>'</td>
 </tr>
@@ -598,17 +598,17 @@ Two POc terms are glossed ‘island’. These were probably reserved for small i
 '<span>island (only in names)</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Xârâcùù</td><td><i>nii</i></td>
+<td>NCal</td><td>Xârâcùù</td><td><i>nɨi</i></td>
 <td>
 '<span>island</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Satawalese</td><td><i>(a)lit</i></td>
+<td>Mic</td><td>Satawalese</td><td><i>(a)lɨt</i></td>
 <td>
 '<span>small island</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Woleaian</td><td><i>(ya)rita</i></td>
+<td>Mic</td><td>Woleaian</td><td><i>(ya)rɨta</i></td>
 <td>
 '<span>small uninhabited island</span>'</td>
 </tr>
@@ -2076,13 +2076,13 @@ Even quite small islands can be dominated by high peaks. While a number of peaks
 
 
 
-Reflexes of _&ast;pwotu_ refer consistently to ‘mountain’ only in MM languages, while some SES languages adopt the ‘knot, swelling’ meaning.
+Reflexes of _&ast;pʷotu_ refer consistently to ‘mountain’ only in MM languages, while some SES languages adopt the ‘knot, swelling’ meaning.
 
 <table>
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
-<i>&ast;pwotu</i>
+<i>&ast;pʷotu</i>
 </td>
 <td>
 '<span>protuberance, bulge; mountain(?)</span>'</td>
@@ -2395,13 +2395,13 @@ We have one POc reconstruction for ‘cliff’. Two further reconstructions are 
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
-<i>&ast;pwaka(r,R)</i>
+<i>&ast;pʷaka(r,R)</i>
 </td>
 <td>
 '<span>steep rocky ground, cliff</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Lou</td><td><i>pwak</i></td>
+<td>Adm</td><td>Lou</td><td><i>pʷak</i></td>
 <td>
 '<span>cave</span>'</td>
 </tr>
@@ -3064,7 +3064,7 @@ A number of reconstructions are loosely glossed ‘swamp’. In wordlists these 
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
-<i>&ast;pwaca</i>
+<i>&ast;pʷaca</i>
 </td>
 <td>
 '<span>swamp</span>'</td>
@@ -3191,13 +3191,13 @@ In the next two sets, emphasis is perhaps on the mud itself rather than on a mud
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
-<i>&ast;p(w)ita(k)</i>
+<i>&ast;(p,pʷ)ita(k)</i>
 </td>
 <td>
 '<span>mud</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Lou</td><td><i>pwi-pwire</i></td>
+<td>Adm</td><td>Lou</td><td><i>pʷi-pʷire</i></td>
 <td>
 '<span>mud, swamp</span>'</td>
 </tr>
@@ -3212,7 +3212,7 @@ In the next two sets, emphasis is perhaps on the mud itself rather than on a mud
 '<span>mud</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>pwī-pwī</i></td>
+<td>SES</td><td>Sa'a</td><td><i>pʷī-pʷī</i></td>
 <td>
 '<span>mud, slush</span>'</td>
 </tr>
@@ -3713,7 +3713,7 @@ We have one lower-level reconstruction for a river branch.
 '<span>V-shaped bend where a tributary meets the main stream</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kiribatese</td><td><i>mwāŋa</i></td>
+<td>Mic</td><td>Kiribatese</td><td><i>mʷāŋa</i></td>
 <td>
 '<span>branching off, branch road, limb of a tree</span>'</td>
 </tr>
@@ -4004,7 +4004,7 @@ The next reconstruction, in its simple form _&ast;pura(q)_, was primarily a verb
 <tr>
 <td>SES</td><td>Gela</td><td><i>vuraɣa ni beti</i></td>
 <td>
-(N) '<span>spring</span>' (<span>beti ‘water’</span>)</td>
+(N) '<span>spring</span>' (<span><em>beti</em> ‘water’</span>)</td>
 </tr>
 <tr>
 <td>SES</td><td>Tolo</td><td><i>vura-vura(na)</i></td>
@@ -4243,7 +4243,7 @@ POc _&ast;tape_ has been reconstructed in Chapter 4 as both a noun and verb mean
 <tr>
 <td>MM</td><td>Tolai</td><td><i>tavit</i></td>
 <td>
-(VI) '<span>to run, of water</span>' (<span>tava ‘water’</span>)</td>
+(VI) '<span>to run, of water</span>' (<span><em>tava</em> ‘water’</span>)</td>
 </tr>
 </table>
 
@@ -4414,12 +4414,12 @@ The generic term for ‘stone’ or ‘rock’ was POc _&ast;patu_.
 '<span>prefix for stone, rocks in compounds</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Puluwatese</td><td><i>fawi-</i></td>
+<td>Mic</td><td>Puluwatese</td><td><i>fawɨ-</i></td>
 <td>
 '<span>stone, coral, rock</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Woleaian</td><td><i>fai-</i></td>
+<td>Mic</td><td>Woleaian</td><td><i>faɨ-</i></td>
 <td>
 '<span>stone, rock</span>'</td>
 </tr>
@@ -4689,7 +4689,7 @@ Dead coral was evidently valued as coral rubble (POc _&ast;giri-giri_), and as a
 <tr>
 <td>PT</td><td>Dobu</td><td><i>gili-gili</i></td>
 <td>
-'<span>coral, broken</span>' (<span>gili ‘coral’</span>)</td>
+'<span>coral, broken</span>' (<span><em>gili</em> ‘coral’</span>)</td>
 </tr>
 <tr>
 <td>PT</td><td>Suau (Daui)</td><td><i>gili</i></td>
@@ -4766,7 +4766,7 @@ The chewing of betel nut, combined with lime and pepper as a stimulant, is wides
 '<span>lime, burnt coral or limestone</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Lou</td><td><i>knp</i></td>
+<td>Adm</td><td>Lou</td><td><i>kɔp</i></td>
 <td>
 '<span>lime; lime gourd</span>'</td>
 </tr>
@@ -5253,7 +5253,7 @@ A reduplicated form of the above can also be reconstructed. This may have denote
 ### 7.6. Earth, soil
 
 
-Two POc terms meaning ‘soil’ are well-supported: _&ast;tanoq_ appears to have had three senses, (i) ‘earth, soil (as substance)’; (ii) ‘land, ground (as area or as opposed to sea)’ (this chapter, §2.1 and vol. 1, p.119), and (iii) ‘down on the ground, down below (as location)’ (Ch.8, §2.2.5). POc &ast;pway(a) was probably limited to the first meaning.
+Two POc terms meaning ‘soil’ are well-supported: _&ast;tanoq_ appears to have had three senses, (i) ‘earth, soil (as substance)’; (ii) ‘land, ground (as area or as opposed to sea)’ (this chapter, §2.1 and vol. 1, p.119), and (iii) ‘down on the ground, down below (as location)’ (Ch.8, §2.2.5). POc _&ast;pʷay(a)_ was probably limited to the first meaning.
 
 Some soils contained pigments useful in both body and pot decoration. Although various wordlists include terms for red, white or yellow clay, we have not been able to reconstruct terms. Teeth-blackening was practised among Western Oceanic speakers (PWOc _&ast;tapal_ ‘substance used to blacken teeth’; vol. 1, p.101), but it is unclear from the literature whether the substance was mineral or vegetable matter .
 
@@ -5267,7 +5267,7 @@ Some soils contained pigments useful in both body and pot decoration. Although v
 '<span>soil, earth</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Titan</td><td><i>pwa(ñ)</i></td>
+<td>Adm</td><td>Titan</td><td><i>pʷa(ñ)</i></td>
 <td>
 '<span>ground, down, land</span>'</td>
 </tr>
@@ -5305,7 +5305,7 @@ Some soils contained pigments useful in both body and pot decoration. Although v
 
 
 
-In the cognate set above, final -a is reflected only in PT languages, where it is often added after a POc final consonant. It is thus unclear whether _&ast;y_ was final in this POc item. The Titan final _-ñ_ and Sa’a final _-nā_ are also not understood.
+In the cognate set above, final _-a_ is reflected only in PT languages, where it is often added after a POc final consonant. It is thus unclear whether _&ast;y_ was final in this POc item. The Titan final _-ñ_ and Sa’a final _-nā_ are also not understood.
 
 
 <a id="p-69"></a>
@@ -5496,7 +5496,7 @@ Clay was used in pot manufacture, which was practised by POc speakers (see vol. 
 '<span>clay</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Gedaged</td><td><i>lal</i></td>
+<td>NNG</td><td>Gedaged</td><td><i>l̥al̥</i></td>
 <td>
 '<span>clay, used by the Yabob and Bilibil people to make pots</span>'</td>
 </tr>
@@ -5611,7 +5611,7 @@ POc _&ast;maqasin_ seems to have been both a stative verb meaning ‘be salty’
 '<span>salty</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Rotuman</td><td><i>mnsi</i></td>
+<td>Fij</td><td>Rotuman</td><td><i>mɔsi</i></td>
 <td>
 '<span>salt</span>'</td>
 </tr>
@@ -5747,7 +5747,7 @@ The PAn name for fire, _&ast;Sapuy_, is among the more stable terms in the lexic
 </td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>ahi</i></td>
+<td>PT</td><td>Motu</td><td><i>lahi</i></td>
 <td>
 </td>
 </tr>
@@ -6414,7 +6414,7 @@ However, many Western Oceanic languages have forms that point to a form &ast;kap
 '<span>ashes</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kairiru</td><td><i>kyaf</i></td>
+<td>NNG</td><td>Kairiru</td><td><i>kʸaf</i></td>
 <td>
 '<span>ashes</span>'</td>
 </tr>
@@ -7029,7 +7029,7 @@ cf. also:
 <tr>
 <td>NCal</td>
 <td>Ajië</td>
-<td><i>kemnru</i></td>
+<td><i>kemɔru</i></td>
 <td>
 '<span>fire</span>'</td>
 </tr>
@@ -7280,7 +7280,7 @@ cf. also:
 (V) '<span>(of fire) crackle and spark</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kiribatese</td><td><i>mwākaro</i></td>
+<td>Mic</td><td>Kiribatese</td><td><i>mʷākaro</i></td>
 <td>
 '<span>embers, live coals, charoal; burning without flames</span>'</td>
 </tr>
@@ -7325,7 +7325,7 @@ cf. also:
 <i>&ast;kalo-kalo</i>
 </td>
 <td>
-'<span>glimmer</span>' (<span>cf. *makalo ‘burn with glow’</span>)</td>
+'<span>glimmer</span>' (<span>cf. <em>*makalo</em> ‘burn with glow’</span>)</td>
 </tr>
 <tr>
 <td>Mic</td><td>Kiribatese</td><td><i>-karo-karo</i></td>

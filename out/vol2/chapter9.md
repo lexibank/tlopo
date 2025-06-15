@@ -928,7 +928,7 @@ The POc term which specifically denoted daylight was _&ast;raqani_, reconstructe
 '<span>daytime, daylight</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Nauna</td><td><i>lin</i></td>
+<td>Adm</td><td>Nauna</td><td><i>lɨn</i></td>
 <td>
 '<span>day</span>'</td>
 </tr>
@@ -1023,7 +1023,7 @@ The POc term which specifically denoted daylight was _&ast;raqani_, reconstructe
 '<span>day</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Marshallese</td><td><i>ṛɯān</i></td>
+<td>Mic</td><td>Marshallese</td><td><i>ṛᶭān</i></td>
 <td>
 '<span>day, date</span>'</td>
 </tr>
@@ -1132,7 +1132,7 @@ The primary meaning of POc _&ast;qaco_ was ‘sun’, but it was also used for �
 '<span>sun</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Marshallese</td><td><i>alɯ</i></td>
+<td>Mic</td><td>Marshallese</td><td><i>alᶭ</i></td>
 <td>
 '<span>sun</span>'</td>
 </tr>
@@ -1390,16 +1390,16 @@ The POc term for the first few hours of daylight was _&ast;boŋi-boŋi_, self-ev
 
 Interestingly, terms for ‘early morning’ in some Oceanic languages that do not reflect _&ast;boŋi-boŋi_ nonetheless include that language’s root for ‘night’:
 
-| night                    early morning                                               |
-|:-------------------------------------------------------------------------------------|
-| Drehet (Adm)                 piŋ                      kxe-piŋ                        |
-| Lou (Adm)                    keli-peŋ                 pati-peŋ                       |
-| Loniu (Adm)                  peŋ                      ma-peŋ                         |
-| Bing (NNG)                   boŋan ‘last night’       boŋ-sag (sag ‘only’)           |
-| Takia (NNG)                  tidom                    tidom-lom (lo ‘in’, mi ‘only’) |
-| Mapos Buang (NNG)            buk                      mon-buk                        |
-| Kiriwina (PT)                bogi                     ga-bogi                        |
-| Marshallese (Mic)            pwoŋ                     cip-pwoŋ (cip ‘rise’)          |
+|                   | night              | early morning                  |
+|:------------------|:-------------------|:-------------------------------|
+| Drehet (Adm)      | piŋ                | kxe-piŋ                        |
+| Lou (Adm)         | keli-peŋ           | pati-peŋ                       |
+| Loniu (Adm)       | peŋ                | ma-peŋ                         |
+| Bing (NNG)        | boŋan ‘last night’ | boŋ-sag (sag ‘only’)           |
+| Takia (NNG)       | tidom              | tidom-lom (lo ‘in’, mi ‘only’) |
+| Mapos Buang (NNG) | buk                | mon-buk                        |
+| Kiriwina (PT)     | bogi               | ga-bogi                        |
+| Marshallese (Mic) | pʷoŋ               | cip-pwoŋ (cip ‘rise’)          |
 
 POc _&ast;puko_ ‘morning’ is only distributed over a certain area of Oceania — from New Britain to central Vanuatu — but this is enough to meet our criteria for POc reconstruction. To judge from the verbal morphology that occurs on a number of reflexes, _&ast;puko_ often occurred as a verb. Unfortunately none of the reflexes occurs with a gloss which would confirm that this referred to the same time period as POc _&ast;boŋi-boŋi_ ‘early morning’.
 
@@ -1538,16 +1538,20 @@ POc _&ast;puko_ ‘morning’ is only distributed over a certain area of Oceania
 
 Outside Polynesia, very few languages have a dedicated word for this part of the day, and those that do show no sign of cognation. Most languages have a phrasal expression, sometimes meaning ‘the middle of the day’:
 
-|                                                                                       |
-|:--------------------------------------------------------------------------------------|
-| Loniu (Adm)               tiko aŋ (tiko ‘middle’, aŋ ‘day, sun’)                      |
-| Gapapaiwa (PT)            madeɣa pu (madeɣa ‘daylight’, pu ‘middle’)                  |
-| Roviana (MM)              korapa rane (korapa ‘middle’, rane ‘daylight’)              |
-| Gela (SES)                kutu ni dani (kutu ‘stomach, womb’, dani ‘daytime)          |
-| Others have a noun phrase whose head is ‘sun, daylight’, modified by ‘big’ or ‘good’: |
-| Takia (NNG)               ad uyan, adian (ad ‘sun’, uyan ‘good’)                      |
-| Gela (SES)                dani-kama (dani ‘daylight’, kama ‘big’)                     |
-| Wayan (Fij)               siŋa-levu (siŋa ‘day’, levu ‘big’)                          |
+|                |                                                    |
+|:---------------|:---------------------------------------------------|
+| Loniu (Adm)    | tiko aŋ (tiko ‘middle’, aŋ ‘day, sun’)             |
+| Gapapaiwa (PT) | madeɣa pu (madeɣa ‘daylight’, pu ‘middle’)         |
+| Roviana (MM)   | korapa rane (korapa ‘middle’, rane ‘daylight’)     |
+| Gela (SES)     | kutu ni dani (kutu ‘stomach, womb’, dani ‘daytime) |
+
+Others have a noun phrase whose head is ‘sun, daylight’, modified by ‘big’ or ‘good’:
+
+|             |                                         |
+|:------------|:----------------------------------------|
+| Takia (NNG) | ad uyan, adian (ad ‘sun’, uyan ‘good’)  |
+| Gela (SES)  | dani-kama (dani ‘daylight’, kama ‘big’) |
+| Wayan (Fij) | siŋa-levu (siŋa ‘day’, levu ‘big’)      |
 
 [Biggs and Clark](../references.md#source-BiggsandClark1993) ([1993](../references.md#source-BiggsandClark1993)) reconstruct PPn _&ast;qaho-atea_ ‘late morning and early afternoon’, from PPn _&ast;qaho_ ‘daylight’ and _&ast;qātea_ ‘clear, unobstructed’. The addition of Anejom reflexes raises the reconstruction to Proto Remote Oceanic _&ast;qaso-qatea_ (Lynch pers. comm.).
 
@@ -2274,7 +2278,7 @@ Maringe has a term with an apparently similar meaning to Mwotlap:
 <tr>
 <td>MM</td>
 <td>Maringe</td>
-<td><i>khafa</i></td>
+<td><i>kʰafa</i></td>
 <td>
 '<span>moon between new and half moon</span>'</td>
 </tr>
@@ -2308,7 +2312,7 @@ Probably the main seasons for POc speakers living in northwest Melanesia were me
 '<span>northeast, northeast wind</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Titan</td><td><i>ᵑray</i></td>
+<td>Adm</td><td>Titan</td><td><i>ⁿray</i></td>
 <td>
 '<span>wind from the mainland, mountain breeze, blows at night</span>'</td>
 </tr>
@@ -2363,7 +2367,7 @@ Probably the main seasons for POc speakers living in northwest Melanesia were me
 '<span>east wind</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Marshallese</td><td><i>ṛɯak</i></td>
+<td>Mic</td><td>Marshallese</td><td><i>ṛᶭak</i></td>
 <td>
 '<span>south, summer</span>'</td>
 </tr>
@@ -3169,7 +3173,7 @@ By distances within a day, I mean expressions corresponding to English ‘last n
 <tr>
 <td>Adm</td>
 <td>Drehet</td>
-<td><i>kumwiŋ</i></td>
+<td><i>kumʷiŋ</i></td>
 <td>
 '<span>now, today</span>'</td>
 </tr>
@@ -3183,7 +3187,7 @@ By distances within a day, I mean expressions corresponding to English ‘last n
 <tr>
 <td>Adm</td>
 <td>Drehet</td>
-<td><i>piŋ kumwiŋ</i></td>
+<td><i>piŋ kumʷiŋ</i></td>
 <td>
 '<span>tonight</span>'</td>
 </tr>
@@ -3835,14 +3839,14 @@ cf. also:
 <tr>
 <td>NCV</td>
 <td>Labo</td>
-<td><i>(lo)mbun</i></td>
+<td><i>(lo)ᵐbun</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
 <td>NCV</td>
 <td>Port Sandwich</td>
-<td><i>(xi)mboŋ</i></td>
+<td><i>(xi)ᵐboŋ</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
@@ -4103,7 +4107,7 @@ We might expect that just as POc _&ast;na-boŋi_ (p.327), with the past formativ
 <tr>
 <td>NNG</td>
 <td>Mindiri</td>
-<td><i>bum(po)</i></td>
+<td><i>bum(pɔ)</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
@@ -4788,7 +4792,7 @@ The Proto Tanna (SV) and Proto Polynesian reflexes of _&ast;qa-na-_ lost the pas
 '<span>five days hence</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Anejom</td><td><i>(ho)viṣ</i></td>
+<td>SV</td><td>Anejom</td><td><i>(ho)viθ</i></td>
 <td>
 '<span>three days from today</span>'</td>
 </tr>
@@ -4874,7 +4878,7 @@ The Proto Tanna (SV) and Proto Polynesian reflexes of _&ast;qa-na-_ lost the pas
 '<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Anejom</td><td><i>nviṣ</i></td>
+<td>SV</td><td>Anejom</td><td><i>nviθ</i></td>
 <td>
 '<span>day before yesterday, day after tomorrow</span>'</td>
 </tr>
@@ -4904,16 +4908,14 @@ The Proto Tanna (SV) and Proto Polynesian reflexes of _&ast;qa-na-_ lost the pas
 
 The contrast between _&ast;waRisa_ with and without _&ast;na-_ is reflected in the following pairs:
 
-| &ast;waRisa                           &ast;[qa-]na-waRisa                                      |
-|:---------------------------------------------------------------------------------------|
-| ‘day after tomorrow’              ‘day before yesterday’                               |
-| MM: Patpatar             uaris                             nauaris                     |
-| MM: Tolai (Nodup)        oari(a)                           nari(a)                     |
-| NCV: Mota                arisa                             anarisa                     |
-| NCV: Port Sandwich       (x)ois                            (xi)nois                    |
-| SV: Sye                  wisas ‘five days hence’           nowisas ‘five days ago’     |
-| SV: Anejom               (ho)viș ‘three days from today’   nviș ‘day before yesterday, |
-| day after tomorrow’                                                                    |
+|                    | &ast;waRisa  ‘day after tomorrow’   | &ast;[qa-]na-waRisa ‘day before yesterday’          |
+|:-------------------|:--------------------------------|:------------------------------------------------|
+| MM: Patpatar       | uaris                           | nauaris                                         |
+| MM: Tolai (Nodup)  | oari(a)                         | nari(a)                                         |
+| NCV: Mota          | arisa                           | anarisa                                         |
+| NCV: Port Sandwich | (x)ois                          | (xi)nois                                        |
+| SV: Sye            | wisas ‘five days hence’         | nowisas ‘five days ago’                         |
+| SV: Anejom         | (ho)viθ ‘three days from today’ | nviθ ‘day before yesterday, day after tomorrow’ |
 
 
 <a id="p-334"></a>

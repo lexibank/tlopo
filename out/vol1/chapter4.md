@@ -397,19 +397,19 @@ Both cooking pots and narrow-necked water jars may have utilised lids. In additi
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
-<i>&ast;tupi</i>
+<i>&ast;tutup</i>
 </td>
 <td>
-'<span>cover (s.t.)</span>' (<a href="../references.md#source-Blust1978b">Blust1978b</a>)
+'<span>cover</span>' (<a href="../references.md#source-Lichtenberk1994">Lichtenberk1994</a>)
 </td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
-<i>&ast;tutup</i>
+<i>&ast;tupi</i>
 </td>
 <td>
-'<span>cover</span>' (<a href="../references.md#source-Lichtenberk1994">Lichtenberk1994</a>)
+'<span>cover (s.t.)</span>' (<a href="../references.md#source-Blust1978b">Blust1978b</a>)
 </td>
 </tr>
 <tr>
@@ -462,7 +462,7 @@ Both cooking pots and narrow-necked water jars may have utilised lids. In additi
 
 
 
-Note that _&ast;tup-a(n,ŋ)_ is a nominalised form derived from _&ast;[tu]tup_, _&ast;tupi_ (see discussion of nominalisations in Chapter 2, §3.2.1).
+Note that _&ast;tup-a((n,ŋ))_ is a nominalised form derived from _&ast;[tu]tup_, _&ast;tupi_ (see discussion of nominalisations in Chapter 2, §3.2.1).
 
 4.2.1.7 Tools in pot manufacture
 
@@ -2307,7 +2307,7 @@ The simplest material for tying would have been lengths of vine or rattan, or st
 <i>&ast;loqi</i>
 </td>
 <td>
-'<span>make thread by rolling fibres on the thigh</span>' (<a href="../references.md#source-Chowning1991">Chowning1991: *loi 'thread made …'</a>)
+'<span>make thread by rolling fibres on the thigh</span>' (<a href="../references.md#source-Chowning1991">Chowning1991: _*loi_ 'thread made …'</a>)
 </td>
 </tr>
 <tr>
@@ -3271,7 +3271,7 @@ The following term for needle, POc _&ast;saRum_, evidently had specific referenc
 '<span>sharpened stick (used as adze, digging stick +)</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Ponapean</td><td><i>ki</i></td>
+<td>Mic</td><td>Ponapean</td><td><i>kī</i></td>
 <td>
 '<span>shell adze</span>'</td>
 </tr>
@@ -3672,7 +3672,7 @@ The existence of axe and adze heads with characteristic shaping to accommodate a
 <i>&ast;(p,pʷ)aRara</i>
 </td>
 <td>
-'<span>handle</span>' (<a href="../references.md#source-Milke1968">Milke1968: *paRaRa</a>)
+'<span>handle</span>' (<a href="../references.md#source-Milke1968">Milke1968: _*paRaRa_</a>)
 </td>
 </tr>
 <tr>
@@ -3821,7 +3821,7 @@ Although PCP _&ast;sele_ 'knife; cut with a knife' seems to have cognates elsewh
 '<span>instrument for slicing, knife (generic)</span>' (<span>e.g. <em>isele loku</em> 'pocket knife', <em>isele ni drukudruku</em> 'bushknife, machete'; <em>i-</em> &lt; POc <em>*i-</em> INS</span>)</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>sele, sele(</i></td>
+<td>Fij</td><td>Bauan</td><td><i>sele, sele(va)</i></td>
 <td>
 '<span>cut with a knife; operate on; castrate</span>'</td>
 </tr>
@@ -4591,26 +4591,18 @@ We have a reconstruction for the mallet used in beating _tapa_ which goes back a
 '<span>tapa-beating mallet</span>'</td>
 </tr>
 <tr>
-<td>WMP</td><td>Uma</td><td><i>ike</i></td>
-<td>
-'<span>tapa-beating mallet</span>' (<a href="../references.md#source-Kennedy1934">Kennedy1934: 237</a>)
-</td>
-</tr>
-</table>
-
-
-
-
-<a id="p-98"></a>
-
-<table>
-<tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
 <i>&ast;ike</i>
 </td>
 <td>
 '<span>tapa beater</span>'</td>
+</tr>
+<tr>
+<td>WMP</td><td>Uma</td><td><i>ike</i></td>
+<td>
+'<span>tapa-beating mallet</span>' (<a href="../references.md#source-Kennedy1934">Kennedy1934: 237</a>)
+</td>
 </tr>
 <tr>
 <td>SES</td><td>Sa'a</td><td><i>iki (ʔoʔo)</i></td>
@@ -4645,6 +4637,9 @@ We have a reconstruction for the mallet used in beating _tapa_ which goes back a
 </table>
 
 
+
+
+<a id="p-98"></a>
 
 [Biggs](../references.md#source-Biggs1993) ([1993](../references.md#source-Biggs1993)) has PPn reconstructions for the action of beating _tapa_ (_&ast;tutu_), and the board or anvil on which this was done (_&ast;tutua_). Both terms are derived from PAn _&ast;tuqtuq_ 'hammer, pound, crush ', POc _&ast;tutuk_ (see Ch. 9, §5.1). It is of interest that the Toradja of central Sulawesi also have a term _totua_ for the wooden board on which the bark-cloth is beaten ([Kennedy 1934](../references.md#source-Kennedy1934)).
 
@@ -6750,7 +6745,7 @@ Use of a wooden headrest as a pillow is widespread. Terms can be traced back to 
 (VT) '<span>use as pillow</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Trukese</td><td><i>wɨn</i></td>
+<td>Mic</td><td>Trukese</td><td><i>wɨ̄n</i></td>
 <td>
 '<span>pillow, headrest</span>'</td>
 </tr>
@@ -6819,11 +6814,11 @@ Figure 18: POc _&ast;quluŋ-an_ 'wooden headrest' (from [Nevermann 1934](../refe
 
 Our reconstructions are for items which draw on a range of raw materials. They include:
 
-- - vegetable products (a variety of timbers, bamboo, coconut shell, leaves, vine, cane and bark)
-- - stone (of variable quality, the most useful being obsidian, flint and basalt)
-- - coral and shell (Tridacna, Trochus, Conus, clam, pearlshell and others; turtle shell)
-- - animal products (bone, skin)
-- - earth products (pigments, earth, clay).
+- vegetable products (a variety of timbers, bamboo, coconut shell, leaves, vine, cane and bark)
+- stone (of variable quality, the most useful being obsidian, flint and basalt)
+- coral and shell (Tridacna, Trochus, Conus, clam, pearlshell and others; turtle shell)
+- animal products (bone, skin)
+- earth products (pigments, earth, clay).
 
 While most of these would be readily available throughout the western Oceanic region, two in particular - obsidian and clay of good, workable quality - are limited in their distribution. Although obsidian and clay pots were widely traded, cognate sets supporting reconstructions are relatively few. The potting term evidence, however, for all its limitations, shows considerable continuity of terms from PMP to POco The paucity of Oceanic terms may be due in part to the scattered nature of pot-making settlements, together with the widespread replacement in recent times of pots by tinware, but is also no doubt due to the long-term disappearance of the skill in the eastern Oceanic region. Although traces of Lapita pots have been uncovered as far east as Fiji-Tonga-Samoa, the manufacture and use of pottery was evidently abandoned in Polynesia early in the first millenium AD ([Kirch 1997](../references.md#source-Kirch1997):68). Fiji is the most easterly place where pottery manufacture survives in the Pacific. In the Solomons, archaeologists have found few traces of pottery other than some scattered remains on Buka Island ([Kirch 1997](../references.md#source-Kirch1997):53), and, more recently, in Marovo Lagoon, western Solomons (Peter Shepherd, pers.comm.).
 

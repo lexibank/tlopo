@@ -280,15 +280,15 @@ Above, I wrote that transitivising morphology is determined in most cases by the
 
 <a id="p-25"></a>
 
-| (9)   |                                  | Proto Oceanic   | Proto Oceanic   |           |
-|:------|:---------------------------------|:----------------|:----------------|:----------|
-|       |                                  | intransitive    | transitive      | Ch. 9[^14] |
-|       | PAn &ast;tektek 'hack off'           | &ast;toto(k)        | &ast;toki-          | 3.2       |
-|       | PMP &ast;(c,s)uk(c,s)uk 'skewer'     | &ast;(su)su(k)      | &ast;suki-          | 4.1       |
-|       | PAn &ast;tuqtuq 'hammer, pound'      | &ast;tutuk          | &ast;tuki-          | 5.1       |
-|       | PMP &ast;pakpak 'clap, slap'         | &ast;baba(k)        | &ast;baki-          | 5.1       |
-|       | PAn &ast;buCbuC 'pluck out'          | &ast;pupu(t)        | &ast;puti-          | 6.1       |
-|       | PMP &ast;pespes 'squeeze, press out' | &ast;popo(s)        | &ast;posi-          | 7         |
+| (9)   |                                    | Proto Oceanic   | Proto Oceanic   |           |
+|:------|:-----------------------------------|:----------------|:----------------|:----------|
+|       |                                    | intransitive    | transitive      | Ch. 9[^14] |
+|       | PAn _&ast;tektek_ 'hack off'           | &ast;toto(k)        | &ast;toki-          | 3.2       |
+|       | PMP _&ast;(c,s)uk(c,s)uk_ 'skewer'     | &ast;(su)su(k)      | &ast;suki-          | 4.1       |
+|       | PAn _&ast;tuqtuq_ 'hammer, pound'      | &ast;tutuk          | &ast;tuki-          | 5.1       |
+|       | PMP _&ast;pakpak_ 'clap, slap'         | &ast;baba(k)        | &ast;baki-          | 5.1       |
+|       | PAn _&ast;buCbuC_ 'pluck out'          | &ast;pupu(t)        | &ast;puti-          | 6.1       |
+|       | PMP _&ast;pespes_ 'squeeze, press out' | &ast;popo(s)        | &ast;posi-          | 7         |
 
 We also find 'deponent' cases in POc where a PAn/PMP reduplicated monosyllable and a POc transitive monosyllable + _&ast;-i-_ form are reconstructable, but no intransitive form. This is perhaps a reflection of the fact that in many cases the formal relationship between reflexes of the intransitive and transitive forms, especially after loss of the final consonant from the intransitive, has become so opaque that the pairing of all but the most frequently used forms has been lost.
 

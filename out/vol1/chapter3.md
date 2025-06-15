@@ -1151,7 +1151,7 @@ Four POc terms can be reconstructed that referred either to posts or beams in a 
 '<span>house post, pillar</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>liii</i></td>
+<td>SES</td><td>Lau</td><td><i>lili</i></td>
 <td>
 '<span>sideposts; tum to one side</span>'</td>
 </tr>
@@ -1209,7 +1209,7 @@ There are some formal problems with the previous set. Some Oceanic forms show un
 '<span>middle posts of a house, with fork on which the ridgepole (<em>saŋa</em>) sits</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Carolinian</td><td><i>ɨr</i></td>
+<td>Mic</td><td>Carolinian</td><td><i>ɨ̄r</i></td>
 <td>
 '<span>main house post</span>'</td>
 </tr>
@@ -2750,7 +2750,7 @@ Another POc term whose reflexes in a few daughter languages now mean 'village' i
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
-<i>&ast;mwalala</i>
+<i>&ast;mʷalala</i>
 </td>
 <td>
 '<span>cleared land, land free of encumbrances, i.e. cleared of vegetation but not built on or planted</span>'</td>

@@ -735,7 +735,7 @@ No term for double canoe can safely be reconstructed for any very early Austrone
 <tr>
 <td>Pn</td><td>Rennellese</td><td><i>haʔugua</i></td>
 <td>
-'<span>the double canoe in which the ancestor Kaituʔu sailed when he discovered Rennell and Bellona</span>'</td>
+'<span>the double canoe in which the ancestor <em>Kaituʔu</em> sailed when he discovered Rennell and Bellona</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tuvalu</td><td><i>foulua</i></td>
@@ -763,7 +763,7 @@ cf. also:
 <td>Hawaiian</td>
 <td><i>waʔa kau-lua</i></td>
 <td>
-'<span>double canoe</span>' (<span>vs waʔa kau-kasi 'single-hulled canoe'</span>)</td>
+'<span>double canoe</span>' (<span>vs <em>waʔa kau-kasi</em> 'single-hulled canoe'</span>)</td>
 </tr>
 <tr>
 <td>Pn</td>
@@ -998,7 +998,7 @@ A possible cognate occurs in a single Western Oceanic language, Mekeo of the Cen
 <tr>
 <td>NNG</td>
 <td>Kove</td>
-<td><i>laye</i></td>
+<td><i>laɣe</i></td>
 <td>
 '<span>raft</span>'</td>
 </tr>
@@ -1263,7 +1263,7 @@ We can reconstruct PMP _&ast;kiRam_ 'adze/axe' and _&ast;taRaqi_ (V) 'adze, carv
 '<span>thwart</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>(i)ooka</i></td>
+<td>Fij</td><td>Bauan</td><td><i>(i)ðoka</i></td>
 <td>
 '<span>collar-beam in house</span>' (<span><em>i-</em> &lt; POc <em>*i-</em> INS</span>)</td>
 </tr>
@@ -1414,7 +1414,7 @@ Two well-attested POc locative nouns having the general sense of 'rear, back par
 '<span>rear, stern</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Mussau</td><td><i>mun</i></td>
+<td>Adm</td><td>Mussau</td><td><i>muri</i></td>
 <td>
 '<span>stern</span>'</td>
 </tr>
@@ -1429,7 +1429,7 @@ Two well-attested POc locative nouns having the general sense of 'rear, back par
 '<span>stern</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Vitu</td><td><i>mun</i></td>
+<td>MM</td><td>Vitu</td><td><i>muri</i></td>
 <td>
 '<span>stern</span>'</td>
 </tr>
@@ -2013,7 +2013,7 @@ The outrigger float is connected to the hull by booms, two or three in the case 
 </td>
 </tr>
 <tr>
-<td>NNG</td><td>Gedaged</td><td><i>ala</i></td>
+<td>NNG</td><td>Gedaged</td><td><i>aia</i></td>
 <td>
 </td>
 </tr>
@@ -2090,7 +2090,7 @@ A POc reconstruction for the connective sticks (stanchions, struts) was made by 
 <tr>
 <td><strong>PEMP</strong></td><td> </td>
 <td>
-<i>&ast;patoto</i>
+<i>&ast;patotV</i>
 </td>
 <td>
 '<span>connective sticks or stanchions attaching floats to booms</span>'</td>
@@ -2225,7 +2225,7 @@ A POc term can be reconstructed with the sense 'starboard or free side of the ca
 '<span>lee side of canoe</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>kata</i></td>
+<td>Fij</td><td>Bauan</td><td><i>katā</i></td>
 <td>
 '<span>starboard side of canoe</span>'; '<span>larger hull of double canoe</span>'</td>
 </tr>
@@ -3494,7 +3494,7 @@ The following PMP reconstruction is given by [Blust](../references.md#source-Blu
 '<span>bail water, scoop up</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>yaou</i></td>
+<td>Fij</td><td>Bauan</td><td><i>yaðu</i></td>
 <td>
 (V) '<span>ladle, scoop</span>'</td>
 </tr>
@@ -3526,7 +3526,7 @@ The next comparison shows a PPn term for 'bailer' and 'bail', derived from a PMP
 <tr>
 <td><strong>PPn</strong></td><td> </td>
 <td>
-<i>&ast;tatii</i>
+<i>&ast;tatā</i>
 </td>
 <td>
 (V) '<span>bail out</span>'; (N) '<span>bailer</span>'</td>
@@ -3689,7 +3689,7 @@ A PMP term for canoe rollers or skids is well attested, with reflexes in Philipp
 '<span>rollers for canoe</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Marshallese</td><td><i>lʷaŋ</i></td>
+<td>Mic</td><td>Marshallese</td><td><i>lᶭaŋ</i></td>
 <td>
 '<span>rollers for canoe</span>'</td>
 </tr>
@@ -3865,7 +3865,7 @@ The PMP and POc term _&ast;sawaŋ_ or _&ast;sawaq_ appears to have been the conv
 '<span>channel, inlet of water, narrow passage in reef</span>'</td>
 </tr>
 <tr>
-<td>None</td><td>Malay</td><td><i>sawaŋi</i></td>
+<td>None</td><td>Malay</td><td><i>sawaŋ</i></td>
 <td>
 '<span>breakwater</span>'</td>
 </tr>
@@ -4081,7 +4081,7 @@ While boatsheds, for building and sheltering boats, are common in the Malayo-Pol
 '<span>boatshed</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>alafolau</i></td>
+<td>Pn</td><td>Tongan</td><td><i>ala folau</i></td>
 <td>
 '<span>boatshed</span>' (<span>first <em>-l-</em> unexpected; cf. <em>ala folau</em> 'fit to go to sea'</span>)</td>
 </tr>
@@ -4325,7 +4325,7 @@ In the following set the Central Pacific forms clearly refer to long-distance sa
 '<span>travel by sea, make a voyage; depart, sail</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>folau(ŋa)</i></td>
+<td>Pn</td><td>Samoan</td><td><i>fōlau(ŋa)</i></td>
 <td>
 '<span>voyage</span>' (<span>-ŋa &lt; NOM</span>)</td>
 </tr>
@@ -4370,7 +4370,7 @@ Lawrence Reid (pers.comm.) suggests that the Malayo-Polynesian forms derive from
 
 <a id="p-207"></a>
 
-Blust (l 978a:216) offers the following:
+[Blust](../references.md#source-Blust1978a) ([1978a](../references.md#source-Blust1978a):216) offers the following:
 
 <table>
 <tr>
@@ -4417,7 +4417,7 @@ The sound correspondences are regular, but one would like further cognates to st
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
-<i>&ast;piiu(k)</i>
+<i>&ast;pilu(k)</i>
 </td>
 <td>
 '<span>tack</span>'</td>

@@ -89,37 +89,22 @@ As the migrants emerged from the lee of the cordillera onto the Huon Peninsula a
 
 : Table 3: Approximate summary of seasons in some Pacific locations
 
-| Southern Hemisphere Winter              Southern Hemisphere Summer                                     |
-|:-------------------------------------------------------------------------------------------------------|
-| Philippines                     southwest monsoon, wet season;           northeast trades, dry season, |
-| in centre and north some cyclones        orographic rain                                               |
-| Sumatra, Borneo                 in north, southwest monsoon;             in north, northeast monsoon   |
-| in south, southeast monsoon;             in south, northwest monsoon,                                  |
-| humid wind and rain                      clouds and rain                                               |
-| rest of Indonesia               southeast monsoon, dry season;           northwest monsoon,            |
-| in west, some orographic rain            clouds and rain                                               |
-| Manus Island, New Britain,      southeast trades,                        ITCZ                          |
-| Huon Peninsula, tip of Papua    heavy orographic rain                    convectional rain             |
-| Papua New Guinea rest           southeast trades,                        ITCZ                          |
-| dry season                               convectional rain                                             |
-| New Georgia group               southeast trades                         ITCZ                          |
-| heavy orographic rain                    convectional rain                                             |
-| rest of northwest Solomon       southeast trades                         ITCZ                          |
-| Islands                         dry season                               convectional rain             |
-| southeast Solomon Islands,      southeast trades                         variable stormy weather       |
-| Vanuatu, New Caledonia          dry season                               some cyclones                 |
-| Fiji                            southeast trades, dry season             variable stormy weather       |
-| heavy orographic rain                    some cyclones                                                 |
-| Tonga, Samoa, Wallis, Futuna,   southeast trades                         variable stormy weather       |
-| Cooks, Tahiti, Tuamotus         dry season                               some cyclones                 |
-| Tuvalu, Tokelau, southern       southeast trades                         ITCZ                          |
-| Gilberts, Nauru                 humid wind, some rain                    convectional rain             |
-| northern Gilberts,              ITCZ                                     ITCZ                          |
-| southern Marshalls              convectional rain                        convectional rain             |
-| northern Marshalls,             variable stormy weather                  northeast trades              |
-| Carolines                                                                some rain                     |
-| Hawaii                          northeast trades                         northeast trades              |
-| some orographic rain                     some orographic rain                                          |
+|                                                         | Southern Hemisphere Winter                                                    | Southern Hemisphere Summer                                                |
+|:--------------------------------------------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------|
+| Philippines                                             | southwest monsoon, wet season; in centre and north some cyclones              | northeast trades, dry season, orographic rain                             |
+| Sumatra, Borneo                                         | in north, southwest monsoon; in south, southeast monsoon; humid wind and rain | in north, northeast monsoon; in south, northwest monsoon, clouds and rain |
+| rest of Indonesia                                       | southeast monsoon, dry season; in west, some orographic rain                  | northwest monsoon, clouds and rain                                        |
+| Manus Island, New Britain, Huon Peninsula, tip of Papua | southeast trades, heavy orographic rain                                       | ITCZ, convectional rain                                                   |
+| Papua New Guinea rest                                   | southeast trades, dry season                                                  | ITCZ, convectional rain                                                   |
+| New Georgia group                                       | southeast trades, heavy orographic rain                                       | ITCZ, convectional rain                                                   |
+| rest of northwest Solomon Islands                       | southeast trades, dry season                                                  | ITCZ, convectional rain                                                   |
+| southeast Solomon Islands, Vanuatu, New Caledonia       | southeast trades, dry season                                                  | variable stormy weather, some cyclones                                    |
+| Fiji                                                    | southeast trades, dry season, heavy orographic rain                           | variable stormy weather, some cyclones                                    |
+| Tonga, Samoa, Wallis, Futuna, Cooks, Tahiti, Tuamotus   | southeast trades, dry season                                                  | variable stormy weather, some cyclones                                    |
+| Tuvalu, Tokelau, southern Gilberts, Nauru               | southeast trades, humid wind, some rain                                       | ITCZ, convectional rain                                                   |
+| northern Gilberts, southern Marshalls                   | ITCZ, convectional rain                                                       | ITCZ, convectional rain                                                   |
+| northern Marshalls, Carolines                           | variable stormy weather                                                       | northeast trades, some rain                                               |
+| Hawaii                                                  | northeast trades,  some orographic rain                                       | northeast trades, some orographic rain                                    |
 
 
 <a id="p-126"></a>
@@ -820,7 +805,7 @@ It seems likely that the form _&ast;i(p,pʷ)i_ is the result of an idiosyncratic
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
-<i>&ast;ip(p,pʷ)i</i>
+<i>&ast;i(p,pʷ)i</i>
 </td>
 <td>
 '<span>(wind, person) blow</span>'</td>
@@ -2539,7 +2524,7 @@ PEOc _&ast;ma-lua(s)_ ‘soft, gentle, (weather) calm’ is descended from POc _
 '<span>peaceful</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Puluwatese</td><td><i>maliwa-li</i></td>
+<td>Mic</td><td>Puluwatese</td><td><i>malɨwa-lɨ</i></td>
 <td>
 '<span>to be easy or slow, to be calm (as the sea), to be gentle</span>'</td>
 </tr>

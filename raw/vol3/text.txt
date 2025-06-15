@@ -1785,9 +1785,9 @@ cf. also:
 PMic *walu 'vegetation, forest' (Bender et al. 2003)
  Mic: Pohnpeian     wāl           'jungle, forest'
  Mic: Mortlockese   wali-wel      'forest'
- Mic: Chuukese      wani-wan      'vegetation, bush'
+ Mic: Chuukese      wənɨ-wən      'vegetation, bush'
  Mic: Puluwatese    wāl           'forest, jungle'
- Mic: Carolinian    wali-wal      'forest, jungle'
+ Mic: Carolinian    walɨ-wal      'forest, jungle'
  Mic: Carolinian    wal(lap)      'dense: forest, thickly forested area'
  Fij: Rotuman       vao           'forest, large number of trees or big plants growing together'
 >
@@ -3528,14 +3528,14 @@ verbal terms. For example, NE Ambae rivurivu 'plant' is a reduplicated form of t
 verb _rivu_ 'to plant s.t.', and Anejom _nita-awañ_ is formed from the verb _awañ_ 'to plant' with
 the instrumental prefix.
 
-__tablenh__
-  Adm: | Lou            | _koe_         |      'plant (N)'
-  NNG: | Poeng          | _kinkiniŋ_    |     '(all) growing things; grass, tree'
-  NNG: | Sissano (Arop) | _oraman_      |      'plants (generic)'
-  SES: | Bugotu         | _jou_         |      'to plant, a plant'
-  NCV: | Ambae          | _rivurivu_    |      'plant (N)'
-  SV:  | Anejom         | _nita-awañ_  |      'plant, s.t. planted or to be planted'
-  Mic: | Chuukese       | _pətəwər_     |      'plant (general term), vegetation (uncultivated); tree, bush, shrub, fern, grass'
+__formgroup__
+  Adm: Lou             koe             'plant (N)'
+  NNG: Poeng           kinkiniŋ        '(all) growing things; grass, tree'
+  NNG: Sissano (Arop)  oraman          'plants (generic)'
+  SES: Bugotu          jou             'to plant, a plant'
+  NCV: Ambae           rivurivu        'plant (N)'
+  SV:  Anejom          nita-awañ       'plant, s.t. planted or to be planted'
+  Mic: Chuukese        pətəwər         'plant (general term), vegetation (uncultivated); tree, bush, shrub, fern, grass'
 
     A Proto Micronesian form _*fadoka_ 'planted thing, cultivated plants' is reconstructable
 (Bender et al 2003:24), but appears to be restricted to meaning something that has been
@@ -3838,7 +3838,7 @@ that pre-POc _*lumut_ 'moss' and _*limu_ 'seaweed' were conflated in POc.
                                                        Ethnobotanicat classification   77
 
 <
-POc *lumut 'generic term for mosses, algaes and seaweeds' (Capelll943)
+POc *lumut 'generic term for mosses, algaes and seaweeds' (Capell 1943)
   Adm: Lou           lum             'seaweed; weed/grass growing in sea water'
   NNG: Manam         lumta           'moss'
   NNG: Mangap        lum             'algae, green slimy growth on trees, stones etc under water'
@@ -3975,18 +3975,10 @@ appear to be a general term for non-woody leafy plants which can be reconstructe
 categories reconstructed for POc. In Kwara'ae there is a general term for tree-ferns, _kʷaʔe_,
 and a number of other Oceanic languages also have general terms that denote tree-ferns:
 
-__block__
----- ---------- ---------- ----------------------------------------------------------
-Mic: Kosraean   _po_       'kind of plant: tree fern'
-Fij: Wayan      _balabala_ 'generic for tree ferns (Cyathea spp.), sometimes extended
-                           to include other large ferns, such as Pteris tripartita.
-                           (i) Cyathea lunulata (Cyatheaceae);
-                           (ii) Cyathea sp., perhaps C. propinqua;
-                           (iii) Calochlaena straminea (Dicksoniaceae);
-                           (iv). Pteris tripartita (Adiantaceae).
-Pn:  Hawaiian   _ʔamaʔu_   'all species of an endemic genus of ferns (Sadleria),
-                           with trunk more or less evident'.
----- ---------- ---------- -----------------------------------------------------------
+__formgroup__
+ Mic: Kosraean   po       'kind of plant: tree fern'
+ Fij: Wayan      balabala 'generic for tree ferns (Cyathea spp.), sometimes extended to include other large ferns, such as Pteris tripartita'; (i) 'Cyathea lunulata (Cyatheaceae)'; (ii) 'Cyathea sp., perhaps C. propinqua'; (iii) 'Calochlaena straminea (Dicksoniaceae)'; (iv) 'Pteris tripartita (Adiantaceae)'
+ Pn:  Hawaiian   ʔamaʔu   'all species of an endemic genus of ferns (Sadleria), with trunk more or less evident'
 
     From this it seems possible that tree-ferns formed a higher-order taxon in POc, but no
 term appears to be reconstructable to back up such a hypothesis.
@@ -4000,13 +3992,13 @@ generally, but it is not clear from the dictionary definitions. A generic term f
 appear to be reconstructable for POc, and it seems likely that the individual names of ferns
 were considered to be primary taxa.
 
-__tablenh__
-  PT:  | Iduna     |   _maiwa_    |     '(edible) ferns'
-  Mic: | Kosraean  |   _fa_       |     'a kind of plant: fern'
-  Mic: | Mokilese  |   _pʷɔ_      |   'fern'
-  Fij: | Wayan     |   _diŋi_     |     'generic lthat includes at least the following two medium-sized terrestrial ferns: Nephrolepis hiserrata (Davalliaceae), ladder fern, locally comm.n in open mid-altitude forest; Sphaerostephanos invisus (Thelypteridaceae), common on dry grassy hillsides.
-  Pn:  | Samoan    |   _ʔoliʔolī_ |     '(i) general name given to large ferns; (ii) tree-fern (Also phila species)'
-  Pn:  | Hawaiian  |   _kupukupu_ |     'general name for ferns on a single stem' (also name for sword fern)
+__formgroup__
+  PT:  Iduna       maiwa       '(edible) ferns'
+  Mic: Kosraean    fa          'a kind of plant: fern'
+  Mic: Mokilese    pʷɔ         'fern'
+  Fij: Wayan       diŋi        'generic that includes at least the following two medium-sized terrestrial ferns: Nephrolepis hiserrata (Davalliaceae), ladder fern, locally common in open mid-altitude forest; Sphaerostephanos invisus (Thelypteridaceae), common on dry grassy hillsides.'
+  Pn:  Samoan      ʔoliʔolī    '(i) general name given to large ferns; (ii) tree-fern (Also phila species)'
+  Pn:  Hawaiian    kupukupu    'general name for ferns on a single stem' (also name for sword fern)
 
                                                              Ethnobotanical classification    81
 
@@ -4038,26 +4030,26 @@ plots. However, these categories do not have cognate labels. POc _*talu(n)_ 'old
 land, land returning to secondary growth' (vol.1, ch.5, §3.2) may have denoted land with this
 type of vegetation, but a term for the vegetation itself does not appear to be reconstructable.
 
-__tablenh__
-  NNG: | Mapos Buang  | _vavɔ̄ŋ_      |    'scrub, brush, weeds'
-  NNG: | Labu         | _wahe_        |   'weeds'
-  NNG: | Poeng        | _kilanna_     |   'weed; growing in old garden spot'
-  NNG: | Takia        | _ud_          |   'weed, wild grass (generic)'
-  NNG: | Mangap       | _momotia_     |   'weed (N)'
-  PT:  | Iduna        | _boya_        |   'smalll weeds'
-  PT:  | Gumawana     | _nauna_       |   'weeds, grass'
-  PT:  | Misima       | _mʷawín_      |   'grass; weeds, to have weeds'
-  MM:  | Ramoaaina    | _bual_        |   'full of weeds'
-  MM:  | Ramoaaina    | _palep_       |   'weeds, rubbish; in a plantation'
-  MM:  | Teop         | _subui_       |   'weeds'
-  SES: | Gela         | _makiri_      |   'smalll weeds in a garden'
-  SES: | Lau          | _ʔoroʔoro_    |   'weeds, grass, anything small growing up'
-  SES: | Lau          | _murua_       |   'weeds and grass'
-  SES: | Kwaio        | _fufulu_      |   'weed, grass'
-  SES: | Kwara'ae     | _laua_        |   'weeds, plants that can (and often should) be pulled out when they grow in places like gardens; seedlings, saplings'
-  Mic: | Mokilese     | _tipʷtipʷ_    |   'grass, weeds; overgrown with grass or weeds, littered (with objects)'
-  Mic: | Chuukese     | _wəɾɨŋŋaw_    |   'useless plant, weed' (cf. _wəɾɨ_ 'bush, vegetation generally', _ŋŋaw_ 'bad, ugly, unfitting, unsuitable')
-  Pn:  | Maori        | _otaota_      |   'herbs in general, weeds, litter'
+__formgroup__
+  NNG: Mapos Buang  vavɔ̄ŋ         'scrub, brush, weeds'
+  NNG: Labu         wahe          'weeds'
+  NNG: Poeng        kilanna       'weed; growing in old garden spot'
+  NNG: Takia        ud            'weed, wild grass (generic)'
+  NNG: Mangap       momotia       'weed (N)'
+  PT:  Iduna        boya          'smalll weeds'
+  PT:  Gumawana     nauna         'weeds, grass'
+  PT:  Misima       mʷawín        'grass; weeds, to have weeds'
+  MM:  Ramoaaina    bual          'full of weeds'
+  MM:  Ramoaaina    palep         'weeds, rubbish; in a plantation'
+  MM:  Teop         subui         'weeds'
+  SES: Gela         makiri        'smalll weeds in a garden'
+  SES: Lau          ʔoroʔoro      'weeds, grass, anything small growing up'
+  SES: Lau          murua         'weeds and grass'
+  SES: Kwaio        fufulu        'weed, grass'
+  SES: Kwara'ae     laua          'weeds, plants that can (and often should) be pulled out when they grow in places like gardens; seedlings, saplings'
+  Mic: Mokilese     tipʷtipʷ      'grass, weeds; overgrown with grass or weeds, littered (with objects)'
+  Mic: Chuukese     wəɾɨŋŋaw      'useless plant, weed' (cf. _wəɾɨ_ 'bush, vegetation generally', _ŋŋaw_ 'bad, ugly, unfitting, unsuitable')
+  Pn:  Maori        otaota        'herbs in general, weeds, litter'
 
 82   Bethwyn Evans
 
@@ -4406,7 +4398,7 @@ PMP *bataŋ 'stalk, trunk' (Dempwolff 1938)
 POc *pata(ŋ) 'tree trunk' (Bender et al. 2003)
   Adm: Lou         pata-                   'stem or trunk'
   Adm: Titan       patá-                   'trunk, stem'
-  NCV: Paamese     vat(i-āi)               'trunk oftree'
+  NCV: Paamese     vat(i-āi)               'trunk of tree'
   Mic: Chuukese    (nee-)fasaŋa [4]        'torso, trunk'
   Mic: Pulo-Annan  ðāta, ðata-             'tree trunk'
 >
@@ -4423,8 +4415,8 @@ base, source or origin of stories etc.[5]
 
 <
 PMP *puqun 'base of tree, source, origin' (ACD)
-POc *puqu(n) 'base oftree; source, origin'
-  NNG:  Bing         fuw          'base oftree'
+POc *puqu(n) 'base of tree; source, origin'
+  NNG:  Bing         fuw          'base of tree'
   NNG:  Gedaged      fu-          'origin, beginning, start'
   NNG:  Takia        fu-          'originator, host; base, as in base of a tree'
   NNG:  Poeng        pu-          'base, source of s.t.'
@@ -4509,7 +4501,7 @@ PPn *tahi '(heart)wood' (POLLEX)
 
 
 <
-PNPn *tai-tea 'sapwood' (*tea 'white') (POLLEX)
+PNPn *tai-tea 'sapwood' (_*tea_ 'white') (POLLEX)
    Pn: Tokelauan    taitea        'the soft white wood of Cordia subcordata'
    Pn: Hawaiian     kaikea        'sap, sapwood'
    Pn: Maori        taitea        'white wood, sapwood'
@@ -4552,14 +4544,14 @@ POc *baRa-baRa 'stem or stalk of non-woody plants, such as taro and banana, prob
   PT:  Tawala       palapala   '(plant) main stalk, stalk of mustard leaf eaten with betel nut'
   SES: Bauro        parapara   'stalk of flowers; involucre of flower, sheath of leaves'
   Mic: Kiribati     ba         'leaf, palm, midrib of palm leaf'
-  Mic: Kosraean     pee        'stalk (of taro or banana), stem'
+  Mic: Kosraean     pᴂ        'stalk (of taro or banana), stem'
   Mic: Marshallese  pap        'coconut frond, midrib of frond'
-  Mic: Satawalese   -pee       'counting classifier for coconut or taro leaves'
-  Mic: Woleaian     -pa        'numeral classifier for chained or strung objects such as palm fronds, leis, shell belts'
-  Mic: Ponapean     pa         'leaf of any large-leaved plant such as taro'
-  Fij: Bauan        ba         'stalk of taro leaves (only)'
-  Fij: Wayan        baba       'leaf-stalk (petiole) or stem of certan single-stemmed plants whose leaves unfold from the stalk, especially taro, banana and leaf-stalk of palms'
-  Fij: Yasawa       baba       'stalk or stem of certain large-leafed plants, especially taro, banana, coconut.'
+  Mic: Satawalese   -pᴂ       'counting classifier for coconut or taro leaves'
+  Mic: Woleaian     -pā        'numeral classifier for chained or strung objects such as palm fronds, leis, shell belts'
+  Mic: Ponapean     pā         'leaf of any large-leaved plant such as taro'
+  Fij: Bauan        bā         'stalk of taro leaves (only)'
+  Fij: Wayan        bābā       'leaf-stalk (petiole) or stem of certan single-stemmed plants whose leaves unfold from the stalk, especially taro, banana and leaf-stalk of palms'
+  Fij: Yasawa       bābā       'stalk or stem of certain large-leafed plants, especially taro, banana, coconut.'
 >
 
                                                                                    Parts of plants        93
@@ -4628,7 +4620,7 @@ denote both major branches of trees and small branches or twigs.
 <
 PAn *daqan 'branch' (Blust 1993)
 POc *raqan 'branch of tree or other plant' (Ross 1988)
-  Adm: Drehet         (i)ᵑra       'branch'
+  Adm: Drehet         (i)ⁿra       'branch'
   PT:  Misima         la           '(tree) branch'
   PT:  Motu           raɣa         'fruit-bearing palm branch'
   MM:  Siar           rakan        '(tree) branch'
@@ -4912,7 +4904,7 @@ and Ramoaaina, in both of which the expected reflex is zero, but instead we find
 <
 PMP *dalij 'buttress roots' (ACD)
 POc *lali(c,t) 'buttress roots'
-  Adm: Lou           lit, lila-n     'exposed root or vein' (vowel metathesis)
+  Adm: Lou           lil, lila-n     'exposed root or vein' (vowel metathesis)
   MM:  Tolai         lalit           'space between the buttresses of a tree'
   MM:  Ramoaaina     lalit           'buttresses of trees'
   SES: Gela          lali            'buttress roots of some trees'
@@ -7161,7 +7153,7 @@ Figure 5.8: Barringtonia asiatica.
 PMP *butun 'a shore tree, Barringtonia' (Dempwolff 1938)
 POc *putun 'Barringtonia asiatica' (Biggs 196:5: _*putu_; French-Wright 1983)
   Adm:  Seimat       hut           'Barringtonia asiatica' (Sorensen 1950)
-  Adm:  Drehet       puk           'type oftr,ee with poisonous seed used to kill fish'
+  Adm:  Drehet       puk           'type of tree with poisonous seed used to kill fish'
   Adm:  Loniu        put           'tree sp. and its fruit, used for stunning fish'
   NNG:  Malai        putin         'Barringtonia asiatica'
   NNG:  Sio          puto          'Barringtonia asiatica'
@@ -17435,7 +17427,7 @@ POc *kanoŋ 'flesh, inner substance, coconut flesh'
   NNG: Lukep (Pono)    kano-       'fruit (of, e.g., breadfruit), inner substance'
   NNG: Sio             kanaŋo      'coconut flesh'
   MM:  Tangga          kono        'coconut flesh'
-  SES: Arosi           ʔano        'bulb, tuber, part oftree below ground'
+  SES: Arosi           ʔano        'bulb, tuber, part of tree below ground'
 PPn *[ka-]kano 'flesh, seed' (POLLEX)
   Pn:  Tongan          kano        'flesh, substance'
   Pn:  Tongan          ka-kano     'flesh, contents or substance'

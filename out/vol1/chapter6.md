@@ -268,7 +268,7 @@ Across the Oceanic region it is possible to find some variation in fire-making m
 <tr>
 <td>NNG</td>
 <td>Mapos Buang</td>
-<td><i>vaŋkC rurŋ</i></td>
+<td><i>vaŋkɛ rurŋ</i></td>
 <td>
 '<span>make a fire by the traditional method using a piece of rattan, sawing it back and forth around a piece of dry wood with a split in it, lying on a little pile of tinder</span>'</td>
 </tr>
@@ -452,7 +452,7 @@ A burning brand, typically made from coconut fronds, served as a torch.
 '<span>torch made from the long hard outer husk of young coconuts</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Mokilese</td><td><i>tɨl</i></td>
+<td>Mic</td><td>Mokilese</td><td><i>tɨ̈l</i></td>
 <td>
 </td>
 </tr>
@@ -829,7 +829,7 @@ The usual implement for handling hot stones and food in the oven was tongs, prob
 <i>&ast;kapi(t), kapit-i-</i>
 </td>
 <td>
-'<span>grasp (with tongs)</span>' (<span>A few reflexes show unexpected-s, via palatisation before<em> -i; Lichtenberk reconstructs </em>kapis.</span>) (<a href="../references.md#source-Grace1969">Grace1969</a>)
+'<span>grasp (with tongs)</span>' (<span>A few reflexes show unexpected <em>-s</em>, via palatisation before <em><em>-i_; Lichtenberk reconstructs _</em>kapis</em>.</span>) (<a href="../references.md#source-Grace1969">Grace1969</a>)
 </td>
 </tr>
 <tr>
@@ -970,7 +970,7 @@ Lichtenberk adds a number of other terms which, as well as being used in relatio
 '<span>press down, apply weight on</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Marshallese</td><td><i>cōōn</i></td>
+<td>Mic</td><td>Marshallese</td><td><i>cōn</i></td>
 <td>
 '<span>press down on</span>'</td>
 </tr>
@@ -1330,7 +1330,7 @@ Lichtenberk also gives a reconstruction, _&ast;biti_ 'cook with hot stones (eith
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
-<i>&ast;mwaRi</i>
+<i>&ast;mʷaRi</i>
 </td>
 <td>
 '<span>roast, burn</span>' (<a href="../references.md#source-Grace1969">Grace1969</a>)
@@ -3211,7 +3211,7 @@ A number of formally similar terms have been reconstructed for the action of scr
 '<span>scrape, as coconut, wood</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>on</i></td>
+<td>PT</td><td>Motu</td><td><i>ori</i></td>
 <td>
 '<span>grate coconut, chew pandanus fruit</span>'</td>
 </tr>
@@ -4472,7 +4472,7 @@ Finally, Lichtenberk lists terms for mixing or stirring:
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
-<i>&ast;mo(n,n)o</i>
+<i>&ast;mo(n,ñ)o</i>
 </td>
 <td>
 '<span>knead</span>'</td>
@@ -4500,7 +4500,7 @@ Finally, Lichtenberk lists terms for mixing or stirring:
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
-<i>&ast;(n,n)(a,o)tu</i>
+<i>&ast;(n,ñ)(a,o)tu</i>
 </td>
 <td>
 '<span>knead</span>'</td>

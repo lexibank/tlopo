@@ -139,7 +139,7 @@ The most soundly based reconstruction for sky is POc _&ast;laŋit_ (see also p.1
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>(lomā)laŋi</i></td>
 <td>
-'<span>sky, heavens</span>' (<span>loma ‘inside’</span>)</td>
+'<span>sky, heavens</span>' (<span><em>loma</em> ‘inside’</span>)</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>laŋi</i></td>
@@ -175,7 +175,7 @@ The line where sea meets sky is commonly referred to by a compound — either ed
 <i>&ast;(tafa)tafa-qaki-laŋi, (tafa)tafa-qi-laŋi</i>
 </td>
 <td>
-'<span>horizon</span>' (<span>*tafa ‘side, edge’, laŋi ‘sky’</span>)</td>
+'<span>horizon</span>' (<span><em>*tafa</em> ‘side, edge’, <em>laŋi</em> ‘sky’</span>)</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>(tafa)tafa-ʔaki-laŋi</i></td>
@@ -1942,7 +1942,7 @@ We also have various references to particular stars as Manuk’s head, Manuk’s
 <tr>
 <td>Mic</td>
 <td>Kiribatese</td>
-<td><i>pwāpwā-ni-man</i></td>
+<td><i>pʷāpʷā-ni-man</i></td>
 <td>
 '<span>Sirius</span>' (<span>pwāpwā ‘chest’</span>)</td>
 </tr>
@@ -2004,7 +2004,7 @@ Procyon (or Betelgeuse) and Canopus are widely referred to as the north wing and
 <tr>
 <td>Mic</td>
 <td>Satawalese</td>
-<td><i>paīne-māne-meir</i></td>
+<td><i>paīne-māne-meɨr</i></td>
 <td>
 '<span>Canopus</span>' (<span>lit. ‘southern wing of Manuk’</span>)</td>
 </tr>
@@ -2013,14 +2013,14 @@ Procyon (or Betelgeuse) and Canopus are widely referred to as the north wing and
 <td>Anutan</td>
 <td><i>te kapakau paka-tokerau</i></td>
 <td>
-'<span>Procyon, the north wing (of Manuk constellation)</span>' (<span>kapakau ‘wing’, tokerau ‘north’</span>)</td>
+'<span>Procyon, the north wing (of Manuk constellation)</span>' (<span><em>kapakau</em> ‘wing’, <em>tokerau</em> ‘north’</span>)</td>
 </tr>
 <tr>
 <td>Pn</td>
 <td>Anutan</td>
 <td><i>te kapakau paka-toŋa </i></td>
 <td>
-'<span>Canopus, Manuk’s east wing</span>' (<span>kapakau ‘wing’, toŋa ‘south/east’</span>)</td>
+'<span>Canopus, Manuk’s east wing</span>' (<span><em>kapakau</em> ‘wing’, <em>toŋa</em> ‘south/east’</span>)</td>
 </tr>
 <tr>
 <td>Pn</td>
@@ -2465,7 +2465,7 @@ Other terms are descriptive, with the net metaphor and the cross shape or crucif
 <td>Hawaiian</td>
 <td><i>hōkū-keʔa</i></td>
 <td>
-'<span>Southern Cross</span>' (<span>keʔa ‘cross, crucifix’</span>)</td>
+'<span>Southern Cross</span>' (<span><em>keʔa</em> ‘cross, crucifix’</span>)</td>
 </tr>
 </table>
 
@@ -2477,7 +2477,7 @@ The Pointers, Alpha and Beta Centauri, are widely referred to by compounds trans
 <tr>
 <td>SES</td>
 <td>Sa'a</td>
-<td><i>ro mwane  </i></td>
+<td><i>ro mʷane  </i></td>
 <td>
 '<span>Pointers (to Southern Cross)</span>' (<span>lit. ‘two men’</span>)</td>
 </tr>
@@ -2770,7 +2770,7 @@ Antares, in the western constellation of Scorpio, ranks with the Pleiades as the
 '<span>Antares</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kiribatese</td><td><i>rimwi(mata)</i></td>
+<td>Mic</td><td>Kiribatese</td><td><i>rimʷi(mata)</i></td>
 <td>
 '<span>Antares</span>'</td>
 </tr>
@@ -2785,7 +2785,7 @@ Antares, in the western constellation of Scorpio, ranks with the Pleiades as the
 '<span>Antares</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Trukese</td><td><i>tumwur</i></td>
+<td>Mic</td><td>Trukese</td><td><i>tumʷur</i></td>
 <td>
 '<span>Antares</span>'</td>
 </tr>
@@ -2795,22 +2795,22 @@ Antares, in the western constellation of Scorpio, ranks with the Pleiades as the
 '<span>Scorpio</span>' (<span>includes Antares</span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td>Puluwatese</td><td><i>timir</i></td>
+<td>Mic</td><td>Puluwatese</td><td><i>tɨmɨr</i></td>
 <td>
 '<span>Antares; a month about January</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Carolinian</td><td><i>tumwur</i></td>
+<td>Mic</td><td>Carolinian</td><td><i>tumʷur</i></td>
 <td>
 '<span>Antares</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Satawalese</td><td><i>tumwur</i></td>
+<td>Mic</td><td>Satawalese</td><td><i>tumʷur</i></td>
 <td>
 '<span>Antares; a month about January</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Woleaian</td><td><i>tumwiẓi</i></td>
+<td>Mic</td><td>Woleaian</td><td><i>tumʷiẓi</i></td>
 <td>
 '<span>Antares</span>'</td>
 </tr>
@@ -2849,7 +2849,7 @@ Antares, in the western constellation of Scorpio, ranks with the Pleiades as the
 '<span>a star, Antares?</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>rerehu or rehua</i></td>
+<td>Pn</td><td>Māori</td><td><i>rerehu, rehua</i></td>
 <td>
 '<span>Antares</span>' (<a href="../references.md#source-Makemson1941">Makemson1941: 98</a>)
 </td>
@@ -3035,7 +3035,7 @@ cf. also:
 <td>Marshallese</td>
 <td><i>lᶭɔkʷan lᶭakeke</i></td>
 <td>
-'<span>Cassiopeia</span>' (<span>lit. ‘tail of porpoise’. Lakeke is a constellation shaped like a porpoise</span>)</td>
+'<span>Cassiopeia</span>' (<span>lit. ‘tail of porpoise’. <em>Lakeke</em> is a constellation shaped like a porpoise</span>)</td>
 </tr>
 </table>
 
@@ -3143,7 +3143,7 @@ The following star reconstructions are limited to Proto Chuukic, a subgroup of M
 <tr>
 <td><strong>PChk</strong></td><td> </td>
 <td>
-<i>&ast;taropwolu</i>
+<i>&ast;taropʷolu</i>
 </td>
 <td>
 '<span>constellation Corvus</span>'</td>
@@ -3436,7 +3436,7 @@ In Bauan they were _matādravu ni sautū_, literally ‘hearth of peace and plen
 <tr>
 <td>Pn</td><td>Tikopia</td><td><i>te kau tu keniva</i></td>
 <td>
-'<span>the Milky Way</span>' (<span>lit. ‘handle of keniva’</span>)</td>
+'<span>the Milky Way</span>' (<span>lit. ‘handle of <em>keniva</em>’</span>)</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tokelauan</td><td><i>kaniva</i></td>
@@ -3974,72 +3974,63 @@ Reconstructions of navigation terms for Proto Oceanic, Proto Micronesian and Pro
 
 : Table 4: Reconstructions of heavenly body and other navigation terms
 
-| Term                 POc                               PMic                     PPn                       |
-|:----------------------------------------------------------------------------------------------------------|
-| sun                  &ast;qaco ‘sun, daytime’              &ast;alo ‘sun’                &ast;qaso ‘day as time span’ |
-| PNPn &ast;qaho ‘daytime’                                                                                      |
-| &ast;raqani ‘daytime’                 &ast;rāni ‘day’               …                                             |
-| &ast;[dr,r]aqaa ‘sun’s heat, light’                             &ast;laqā ‘sun’                                   |
-| &ast;raraŋ ‘be warm’                  &ast;raŋ                      &ast;rara ‘heat over fire’                        |
-| &ast;sinaR ‘to shine, sun’            &ast;sina ‘light, shine’      &ast;mā-sina ‘moon’                               |
-| moon                 &ast;pulan                            …                         &ast;pula ‘to glow’          |
-| &ast;(d)rama(R) ‘light’               &ast;marama                   &ast;marama ‘moon’                                |
-| &ast;mā-rama ‘light, bright’                                                                                  |
-| star (generic)       &ast;pituqun                          &ast;fitū                     &ast;fetuqu                  |
-| Venus                &ast;ma-dala                          &ast;matal                    …                        |
-| …                                 &ast;fituu rāni               &ast;fetuqu qaho ‘day star’                       |
-| Bird constellation   &ast;manuk                            &ast;ma(a)nu                  &ast;manu                    |
-| Sirius?              …                                 …                         &ast;takulua                 |
-| star in Orion        …                                 …                         &ast;tākelo                  |
-| Orion’s Belt         &ast;tolu-                            &ast;telu-                    &ast;tolu-                   |
-| Pleiades             &ast;bulu(q)                          …                         …                        |
-| …                                 …                         &ast;mataliki                                     |
-| Southern Cross       ? &ast;paRi                           …                         …                        |
-| …                                 &ast;pwupwu                   …                                             |
-| Pointers             …                                  …                        PNPn &ast;rua taŋata         |
-| Aldebaran            …                                 &ast;u(C)unu                  …                        |
-| Polaris              …                                 PChk &ast;fitū mwakut         …                        |
-| Altair               …                                 PChk &ast;mai-lapa            …                        |
-| ---                                                                                                       |
-| Term                     POc                         PMic                        PPn                      |
-| Antares                  …                          &ast;(d,z)umuri                  …                        |
-| …                          …                            PNPn &ast;mele-mele                                   |
-| PCEPn &ast;refua                                                                                              |
-| Pegasus                  …                          &ast;lakV                        …                        |
-| Dolphin constellation    …                          &ast;kua                         …                        |
-| Cassiopeia               …                          PChk &ast;ukulīk                 …                        |
-| Bowl constellation       …                          &ast;tapia                       …                        |
-| (Delphinus)                                                                                               |
-| Arcturus                 …                          &ast;aremoi                      …                        |
-| Corvus constellation     …                          PChk &ast;taropwolu              …                        |
-| Leo constellation        …                          PChk &ast;ici                    …                        |
-| Vega                     …                          PChk &ast;mul                    …                        |
-| Dip net constellation    …                          PChk &ast;caw                    …                        |
-| (Corona Borealis)                                                                                         |
-| stars in Ursa Major      …                          PChk &ast;wuleko                 …                        |
-| Equeleus constellation   …                          PChk &ast;tə̄(d,z)a              …                        |
-| Magellanic Clouds        …                          …                            &ast;maqafu                  |
-| Milky Way                …                          …                            &ast;kaniwa                  |
-| sky                      &ast;laŋit                     &ast;laŋi                        &ast;laŋi                    |
-| …                          &ast;kadawa ‘heavens’            …                                                 |
-| horizon                  …                          PChk &ast;pai-laŋi               &ast;tafa-qaki-laŋi          |
-| star path (that which    …                          …                            &ast;kaweiŋa                 |
-| is steered for)                                                                                           |
-| star rise                &ast;sake ‘to rise, upwards’   &ast;sake                        &ast;hake ‘upwards’          |
-| star set                 &ast;sipo ‘to go down,         &ast;tipwo                       &ast;hifo ‘downwards’        |
-| downwards’                                                                                                |
-| …                          &ast;zolo ‘to descend,           …                                                 |
-| disappear (below horizon)’                                                                                |
-| ocean swell              &ast;ŋalu(n) ‘wave, swell’     &ast;ŋalu ‘wave, swell’          &ast;ŋalu ‘wave’             |
-| wave, swell              &ast;bayau ‘ocean swell,       &ast;peau                        …                        |
-| whether breaking or not’                                                                                  |
-| lightning                &ast;lap(w)a(r,R)              …                            &ast;lapa ‘flash of light’   |
-| open sea                 &ast;masawa(n,ŋ)               &ast;masawa                      &ast;moana                   |
-| sea, salt water          &ast;tasik                     &ast;tasi                        &ast;tahi ‘shallow sea’      |
-| deep blue sea            &ast;laman                     …                            …                        |
-| current                  &ast;qaRus                     &ast;aus                         &ast;qau                     |
-| reef                     &ast;sakaRu                    &ast;sakau ‘reef, shoal,         &ast;hakau ‘coral reef’      |
-| reef island’                                                                                              |
+| Term                                    | POc                                           | PMic                                          | PPn                      |
+|:----------------------------------------|:----------------------------------------------|:----------------------------------------------|:-------------------------|
+| sun                                     | &ast;qaco ‘sun, daytime’                          | &ast;alo ‘sun’                                    | &ast;qaso ‘day as time span’ |
+|                                         |                                               |                                               | PNPn &ast;qaho ‘daytime’     |
+|                                         | &ast;raqani ‘daytime’                             | &ast;rāni ‘day’                                   | …                        |
+|                                         | &ast;[dr,r]aqaa ‘sun’s heat, light’               |                                               | &ast;laqā ‘sun’              |
+|                                         | &ast;raraŋ ‘be warm’                              | &ast;raŋ                                          | &ast;rara ‘heat over fire’   |
+|                                         | &ast;sinaR ‘to shine, sun’                        | &ast;sina ‘light, shine’                          | &ast;mā-sina ‘moon’          |
+| moon                                    | &ast;pulan                                        | …                                             | &ast;pula ‘to glow’          |
+|                                         | &ast;(d)rama(R) ‘light’                           | &ast;marama                                       | &ast;marama ‘moon’           |
+|                                         |                                               |                                               | &ast;mā-rama ‘light, bright’ |
+| star (generic)                          | &ast;pituqun                                      | &ast;fitū                                         | &ast;fetuqu                  |
+| Venus                                   | &ast;ma-dala                                      | &ast;matal                                        | …                        |
+|                                         | …                                             | &ast;fituu rāni                                   | &ast;fetuqu qaho ‘day star’  |
+| Bird constellation                      | &ast;manuk                                        | &ast;ma(a)nu                                      | &ast;manu                    |
+| Sirius?                                 | …                                             | …                                             | &ast;takulua                 |
+| star in Orion                           | …                                             | …                                             | &ast;tākelo                  |
+| Orion’s Belt                            | &ast;tolu-                                        | &ast;telu-                                        | &ast;tolu-                   |
+| Pleiades                                | &ast;bulu(q)                                      | …                                             | …                        |
+|                                         | …                                             | …                                             | &ast;mataliki                |
+| Southern Cross                          | ? &ast;paRi                                       | …                                             | …                        |
+|                                         | …                                             | &ast;pʷupʷu                                       | …                        |
+| Pointers                                | …                                             | …                                             | PNPn &ast;rua taŋata         |
+| Aldebaran                               | …                                             | &ast;u(C)unu                                      | …                        |
+| Polaris                                 | …                                             | PChk &ast;fitū mʷakut                             | …                        |
+| Altair                                  | …                                             | PChk &ast;mai-lapa                                | …                        |
+| Antares                                 | …                                             | &ast;(d,z)umuri                                   | …                        |
+|                                         | …                                             | …                                             | PNPn &ast;mele-mele          |
+|                                         |                                               |                                               | PCEPn &ast;refua             |
+| Pegasus                                 | …                                             | &ast;lakV                                         | …                        |
+| Dolphin constellation                   | …                                             | &ast;kua                                          | …                        |
+| Cassiopeia                              | …                                             | PChk &ast;ukulīk                                  | …                        |
+| Bowl constellation (Delphinus)          | …                                             | &ast;tapia                                        | …                        |
+| Arcturus                                | …                                             | &ast;aremoi                                       | …                        |
+| Corvus constellation                    | …                                             | PChk &ast;taropʷolu                               | …                        |
+| Leo constellation                       | …                                             | PChk &ast;ici                                     | …                        |
+| Vega                                    | …                                             | PChk &ast;mul                                     | …                        |
+| Dip net constellation (Corona Borealis) | …                                             | PChk &ast;caw                                     | …                        |
+| stars in Ursa Major                     | …                                             | PChk &ast;wuleko                                  | …                        |
+| Equeleus constellation                  | …                                             | PChk &ast;tə̄(d,z)a                               | …                        |
+| Magellanic Clouds                       | …                                             | …                                             | &ast;maqafu                  |
+| Milky Way                               | …                                             | …                                             | &ast;kaniwa                  |
+| sky                                     | &ast;laŋit                                        | &ast;laŋi                                         | &ast;laŋi                    |
+|                                         | …                                             | &ast;kadawa ‘heavens’                             | …                        |
+| horizon                                 | …                                             | PChk &ast;pai-laŋi                                | &ast;tafa-qaki-laŋi          |
+| star path (that which is steered for)   | …                                             | …                                             | &ast;kaweiŋa                 |
+| star rise                               | &ast;sake ‘to rise, upwards’                      | &ast;sake                                         | &ast;hake ‘upwards’          |
+| star set                                | &ast;sipo ‘to go down, downwards’                 | &ast;tipwo                                        | &ast;hifo ‘downwards’        |
+|                                         | …                                             | &ast;zolo ‘to descend, disappear (below horizon)’ | …                        |
+| ocean swell                             | &ast;ŋalu(n) ‘wave, swell’                        | &ast;ŋalu ‘wave, swell’                           | &ast;ŋalu ‘wave’             |
+| wave, swell                             | &ast;bayau ‘ocean swell, whether breaking or not’ | &ast;peau                                         | …                        |
+| lightning                               | &ast;lap(w)a(r,R)                                 | …                                             | &ast;lapa ‘flash of light’   |
+| open sea                                | &ast;masawa(n,ŋ)                                  | &ast;masawa                                       | &ast;moana                   |
+| sea, salt water                         | &ast;tasik                                        | &ast;tasi                                         | &ast;tahi ‘shallow sea’      |
+| deep blue sea                           | &ast;laman                                        | …                                             | …                        |
+| current                                 | &ast;qaRus                                        | &ast;aus                                          | &ast;qau                     |
+| reef                                    | &ast;sakaRu                                       | &ast;sakau ‘reef, shoal, reef island’             | &ast;hakau ‘coral reef’      |
 
 From the table, it can be seen that _&ast;manuk_ ‘bird’ and _&ast;tolu_ ‘three’ for Orion’s Belt, are the only star reconstructions with reflexes in both Polynesian and Micronesian languages. Success in reconstructing non-western constellation names has been almost entirely limited to Micronesia, with its descriptive names like PMic _&ast;kua_ ‘Dolphin constellation’, PMic _&ast;tapia_ ‘Bowl constellation’ and PChk _&ast;caw_ ‘Dip net constellation’. This may simply reflect the adequacy of our sources, with more star terms being included in Micronesian dictionaries than Polynesian, perhaps because the terms have been retained more recently in Micronesian memory. Makemson, my most consistently useful source for Polynesian star names, lists a number of Polynesian constellation names by their English translation and with western equivalents where they exist. They are The Seven (Big Dipper), the Darts (Orion’s Belt), the Wild Duck (Crux), the White Sea-swallow (Cygnus), the Pigeon-roost, the Birdsnare (Orion) and the Canoe of Tamarereti (Tail of the Scorpion) (1941:197–198). However, I have been unable to reconstruct any of these as PPn constellation names on linguistic evidence, and there is no evidence that the same images are used in Micronesian terms.
 

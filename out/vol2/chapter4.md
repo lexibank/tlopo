@@ -362,7 +362,7 @@ POc _&ast;masawa(n,ŋ)_ has reflexes in both Western Oceanic and Eastern Oceanic
 '<span>the open sea</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>matakwa</i></td>
+<td>SES</td><td>Lau</td><td><i>matakʷa</i></td>
 <td>
 '<span>open sea</span>'</td>
 </tr>
@@ -392,7 +392,7 @@ POc _&ast;masawa(n,ŋ)_ has reflexes in both Western Oceanic and Eastern Oceanic
 '<span>space between fingers</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Kwamera</td><td><i>(kwán)mahan</i></td>
+<td>SV</td><td>Kwamera</td><td><i>(kʷán)mahan</i></td>
 <td>
 '<span>storage place, space, nothingness, an opening between the clouds</span>'</td>
 </tr>
@@ -572,7 +572,7 @@ The PCEMP reconstruction in the next set is supported by cognates in the Central
 '<span>open sea</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Lenakel</td><td><i>limwnān</i></td>
+<td>SV</td><td>Lenakel</td><td><i>lɨmʷnān</i></td>
 <td>
 '<span>deep water</span>'</td>
 </tr>
@@ -913,12 +913,12 @@ Several terms denoting current or flow of water can be reconstructed for POc. Re
 '<span>current, stream</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Woleaian</td><td><i>yait</i></td>
+<td>Mic</td><td>Woleaian</td><td><i>yaɨt</i></td>
 <td>
 '<span>current, tidal or nontidal movement of lake or ocean water</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Puluwatese</td><td><i>yawit</i></td>
+<td>Mic</td><td>Puluwatese</td><td><i>yawɨt</i></td>
 <td>
 '<span>current; to flow, as a current</span>'</td>
 </tr>
@@ -1030,7 +1030,7 @@ The bare PAn verb _&ast;qañud_ ‘drift on a current, carried away by flowing w
 '<span>drift, as a becalmed canoe</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Woleaian</td><td><i>māri</i></td>
+<td>Mic</td><td>Woleaian</td><td><i>mārɨ</i></td>
 <td>
 '<span>drift, be adrift (as a canoe)</span>'</td>
 </tr>
@@ -1393,12 +1393,12 @@ Two types of wave commonly distinguished in Oceanic languages are (a) surf, wave
 '<span>wave</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Puluwatese</td><td><i>no</i></td>
+<td>Mic</td><td>Puluwatese</td><td><i>nɔ</i></td>
 <td>
 '<span>wave, be many waves, as in a strong sea</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Woleaian</td><td><i>lo</i></td>
+<td>Mic</td><td>Woleaian</td><td><i>lɔ</i></td>
 <td>
 '<span>wave, surf</span>'</td>
 </tr>
@@ -1672,15 +1672,15 @@ Blust (ACD) has reconstructed several forms denoting ‘foam’ for PAn and lowe
 
 <a id="p-101"></a>
 
-|                                                                |
-|:---------------------------------------------------------------|
-| PAn        &ast;buCaq         ‘foam, froth’                        |
-| PAn        &ast;puCaq         ‘foam, froth, lather’                |
-| PMP        &ast;budaq         ‘foam, bubbles, lather, scum, froth’ |
-| POc        &ast;puro          ‘foam, bubbles’                      |
-| PMP        &ast;busa          ‘foam’                               |
-| PAn        &ast;bujeq         ‘foam, bubbles, lather, scum, froth’ |
-| PAn        &ast;bua           ‘foam, bubbles, froth’               |
+|     |          |                                      |
+|:----|:---------|:-------------------------------------|
+| PAn | _&ast;buCaq_ | ‘foam, froth’                        |
+| PAn | _&ast;puCaq_ | ‘foam, froth, lather’                |
+| PMP | _&ast;budaq_ | ‘foam, bubbles, lather, scum, froth’ |
+| POc | _&ast;puro_  | ‘foam, bubbles’                      |
+| PMP | _&ast;busa_  | ‘foam’                               |
+| PAn | _&ast;bujeq_ | ‘foam, bubbles, lather, scum, froth’ |
+| PAn | _&ast;bua_   | ‘foam, bubbles, froth’               |
 
 PAn _&ast;buCaq_ and _&ast;puCaq_ are to our knowledge not reflected in Oceanic languages (the expected POc reflexes of either would be _&ast;&ast;puta(q)_ and _&ast;&ast;buta(q)_). Of the other forms, PMP _&ast;budaq_ (POc _&ast;pura(q)_) and POc _&ast;puro_ are discussed in Chapter 3 (see p.61 and p.83 respectively), whilst PMP _&ast;busa_ and PAn _&ast;bujeq_ are referred to below. Blust’s reflexes of _&ast;bua_ are two from Taiwan, together with the Tolai and Maori reflexes that we prefer to attribute to PMP _&ast;busa_ (the expected Maori form is _&ast;&ast;puha_).
 
@@ -3428,7 +3428,7 @@ Isolated patches of submerged reef occur in the open sea between the outer (barr
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
-<i>&ast;mwaloq</i>
+<i>&ast;mʷaloq</i>
 </td>
 <td>
 '<span>submerged rock or coral reef, coral head</span>'</td>
@@ -3718,7 +3718,7 @@ A feature of coral atolls and of some high islands with barrier reefs is the enc
 '<span>lagoon</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Woleaian</td><td><i>ramw</i></td>
+<td>Mic</td><td>Woleaian</td><td><i>ramʷ</i></td>
 <td>
 '<span>lagoon, lake</span>'</td>
 </tr>
@@ -4015,7 +4015,7 @@ The final nasal of _&ast;sawa(n,ŋ)_ is unexpected but attested in languages tha
 <i>&ast;mata (qi,ni) sawa(n,ŋ)</i>
 </td>
 <td>
-'<span>channel in fringing reef giving passage to boats; landing place</span>' (<span>Pawley &amp; Pawley 1994; <em>mata ‘eye’, </em>qi or *ni ‘genitive linker’</span>)</td>
+'<span>channel in fringing reef giving passage to boats; landing place</span>' (<span>Pawley &amp; Pawley 1994; <em><em>mata_ ‘eye’, _</em>qi</em> or <em>*ni</em> ‘genitive linker’</span>)</td>
 </tr>
 <tr>
 <td>Adm</td><td>Lou</td><td><i>mara-sa</i></td>
@@ -4048,7 +4048,7 @@ The final nasal of _&ast;sawa(n,ŋ)_ is unexpected but attested in languages tha
 '<span>landing place where the sea is calm</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Kwaio</td><td><i>mā li takwa</i></td>
+<td>SES</td><td>Kwaio</td><td><i>mā li takʷa</i></td>
 <td>
 '<span>landing place</span>'</td>
 </tr>
