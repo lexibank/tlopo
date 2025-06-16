@@ -7582,11 +7582,11 @@ and Santa Isabel and in one SES language, shows a superficial resemblance to the
 Pacific forms but the sound correspondences do not match and point instead to an earlier
 form such as _*pepete_ or _*tepe-tepe_).
 
-__pre__
+__formgroup__
     MM:      Roviana         pepete          ‘a crustacean resembling _Ibacus ciliatus_’
     MM:      Marovo          pepete          ‘shovel-nosed lobster’
     MM:      Nduke           epete           ‘shovel-nosed lobster, _Thenus_ or _Ibacus sp._’
-    MM:      Maringe         phapate         ‘edible saltwater crustacean, crayfish-like’
+    MM:      Maringe         pʰapate         ‘edible saltwater crustacean, crayfish-like’
     SES:     Ghari           tepe-tepe       ‘small crayfish of reef’ (metathesis?)
 
 
@@ -7640,7 +7640,7 @@ POc *qayuyu ‘coconut crab, Birgus latro’ (Blust 1972b)
   Yap:    Yapese       ʔayūy
   Adm:    Mussau       aiu
   Adm:    Titan        kasusu
-  Adm:    Wuvulu       arum           (Blust 1996b: 20)
+  Adm:    Wuvulu       aruru           (Blust 1996b: 20)
   PT:     Dobu         ʔayuyu
   SES:    Tolo         ui
   SES:    Lau          kasukasu       (_*q_ > _k_ irregular)
@@ -7690,7 +7690,7 @@ POc *qumʷaŋ (1) ‘generic for hermit crabs’; (2) ‘generic for hermit and 
   NNG:  Takia        gum           ‘hermit crab’
   PT:   Dobu         gumana        ‘hermit crab’
   PT:   Molima       gumana        ‘hermit crab’
-  PT:   Gapapaiwa    gumaya        ‘hermit crab’
+  PT:   Gapapaiwa    gumaɣa        ‘hermit crab’
   PT:   Misima       go-gaman      ‘hermit crab’
   MM:   Tolai        quman         ‘hermit crab, _Paguridae sp._’
   MM:   Tabar        guma          ‘hermit crab’
@@ -7708,9 +7708,9 @@ PPn *quŋa ‘generic for hermit crab’ (pollex gives ‘hermit crab sp.’)
   Pn:   Niuean       uŋa-uŋa       ‘sea-dwelling hermit crab’
   Pn:   Samoan       uŋa           ‘name given to hermit crabs in general’
   Pn:   Tikopia      uŋa           ‘hermit crab’
-  Pn:   Rennellese   ʔuqa          ‘hermit crab, _Coenobita_ sp.’
-  Pn:   Rennellese   |ʔuqa mouku|  ‘forest-dwelling hermit crabs’
-  Pn:   Rennellese   |ʔuqa pūŋou|  ‘sea-dwelling hermit crab carrying the _puŋou_ parasite’
+  Pn:   Rennellese   ʔuŋa          ‘hermit crab, _Coenobita_ sp.’
+  Pn:   Rennellese   |ʔuŋa mouku|  ‘forest-dwelling hermit crabs’
+  Pn:   Rennellese   |ʔuŋa pūŋou|  ‘sea-dwelling hermit crab carrying the _puŋou_ parasite’
 >
 
                                                                              Aquatic invertebrates   171
@@ -7775,7 +7775,7 @@ _*kaRu(i)ki_, _*kuka_, _*rakum(u)_, _*qalimaŋo_, _*tubaRa_.
 
 172   Andrew Pawley
 
-Figure 4.3:Scylla serrata, mangrove crab
+Figure 4.3: Scylla serrata, mangrove crab
 
 4.3.5.1 _Portunidae_, mangrove and swimming crabs
 
@@ -8747,7 +8747,7 @@ POc *kuku(r) ‘mussel sp. or spp., used as food grater or scraper’ (see vol.l
   NNG: Kove         kuku            ‘little black horse mussel’
   SES: Gela         ɣuɣu            ‘mollusc sp.’
   SES: Arosi        kuku            ‘a small bivalve, _Area sp._’
-  NCV: Lonwolwol huhu               ‘a sharpened shell, for scraping’
+  NCV: Lonwolwol    huhu            ‘a sharpened shell, for scraping’
   Fij: Bauan        kuku            ‘generic for mussels, incl. Modiola spp.’
 PPn *kuku ‘mussel sp. (_Mytilidae_)’ (pollex)
   Pn:  Tongan       kuku            ‘pink-fleshed mussel’
