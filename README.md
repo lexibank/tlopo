@@ -25,8 +25,8 @@ Available online at http://hdl.handle.net/1885/106908
 ![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
 
 - **Varieties:** 692 (linked to 0 different Glottocodes)
-- **Concepts:** 17,546 (linked to 0 different Concepticon concept sets)
-- **Lexemes:** 37,055
+- **Concepts:** 17,549 (linked to 0 different Concepticon concept sets)
+- **Lexemes:** 37,060
 - **Sources:** 5
 - **Synonymy:** 1.05
 - **Cognacy:** 35,623 cognates in 2,495 cognate sets (0 singletons)
@@ -36,7 +36,7 @@ Available online at http://hdl.handle.net/1885/106908
 
 
 
-- Entries missing sources: 37051/37055 (99.99%)
+- Entries missing sources: 37056/37060 (99.99%)
 
 # Contributors
 
