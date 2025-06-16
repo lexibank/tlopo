@@ -859,8 +859,9 @@ information rather than ask the reader repeatedly to look elsewhere in the book.
 end of each volume and in the final volume are intended to make it easier to use the volumes
 collectively as a work of reference.
 
-__pre__
-            Table 1.3     Abbreviations for the genealogical or geographic groups
+: Table 1.3     Abbreviations for the genealogical or geographic groups
+
+__tablenh__
     Yap:     Yapese(one language)
     Adm:    Admiralty and Mussau/Tench
     SJ:      Sarmi/Jayapura
@@ -869,8 +870,7 @@ __pre__
     MM:      Meso-Melanesian
     SES:     Southeast Solomonic
     TM:      Temotu
-    NCV:    North/Central Vanuatu, i.e. the reintegrated network formed by the North and
-             Central Vanuatu linkages
+    NCV:    North/Central Vanuatu, i.e. the reintegrated network formed by the North and Central Vanuatu linkages
     SV:      Southern Vanuatu
     NCal:    Loyalty and New Caledonia
     Mic:     Micronesian
@@ -1304,7 +1304,7 @@ POc *bakewa ‘shark (generic)’
   SES: Sa’a           paʔewa       (1) ‘shark’; (2) ‘generic term for all sea-ghosts, incarnations where sharks or swordfish or gropers are in question’
   SES: Kwaio          baʔekʷa      ‘shark (generic)’
   SES: Kahua          pagewa       ‘shark (generic)’
-  NCV: Lo-Toga        paɣewa       ‘shark’
+  NCV: Lo-Toga        pəɣewa       ‘shark’
   NCV: Mota           paɣoa        ‘shark’
   NCV: Mwotlap        baɣo         ‘_Carcharhinidae spp._’
   NCV: Namakir        bake         ‘shark’
@@ -1324,7 +1324,7 @@ PPn *pakewa ‘_Carangoides ferdau_ jordan ’ (Hooper: _Carangoides orthogrammu
   Pn:   Tokelauan     pakeva       ‘black-spot jack, _Carangoides ferdaujordan_’
   Pn:   Tuamotuan     pakeva       ‘k.o. fish’
 cf. also:
-  TM:    Buma         boe, bʷoe     ‘shark’
+  TM:    Buma         boe~bʷoe     ‘shark’
 >
 
                                                                                    Fish   31
@@ -1385,12 +1385,12 @@ POc *kʷarawa ‘k.o. shark’
   PT:   Motu         karava         ‘k.o. fish’
   MM:   Bali         kaluɣa         ‘shark’
   MM:   Vitu         kaliɣa         ‘shark’
-  NCal: Nixumwak arau               ‘k.o. shark’
+  NCal: Nixumwak     ārau           ‘k.o. shark’
   Fij:   Rakiraki    karawa         ‘_Isurus_, mako shark’ (Paul Geraghty pers. comm.)
 PPn *qalawa ‘k.o. shark’
   Pn:   E Uvean      ʔalava         ‘_Carcharhinus limbatus_, black-tipped shark’
   Pn:   Tongan       ʔalava         ‘k.o. shark’ (marked with a wavy stripe)
-  Pn:   Rennellese lagaba           ‘large shark, probably black-tip or mullet shark, _C. melanopterus_’
+  Pn:   Rennellese   ʔagaba         ‘large shark, probably black-tip or mullet shark, _C. melanopterus_’
   Pn:   Samoan       alava          ‘k.o. shark’
   Pn:   Tuvalu       alava          ‘_C. longimanus_, white-tipped shark’
   Pn:   K’marangi    alawa          ‘_C. longimanus_, Oceanic white-tipped shark’
@@ -1431,7 +1431,7 @@ both tiger sharks and sardines (Geraghty 1994: p. 143).
 large predatory fish, reflexes of POc _*taŋiRi_ ‘Spanish mackerel’ (§57) have been incorporated
 into names for a kind of shark in Muyuw (PT) and Marovo (MM).
 
-__pre__
+__formgroup__
     PT: Muyuw     |tagili gal|    ‘shark’
     MM: Marovo    |kiso taŋiri|   ‘Galeocerdo cuvier, tiger shark, the most dangerous shark in Marovo’
 
@@ -1454,7 +1454,7 @@ fishes. They are specialised in having largely abandoned the bottom-living habit
 the surface, often leaping from the water. Manta rays inhabit open ocean, and are seldom seen near
 shore.
 
-     Figure 2.2    _Aetobatus narinari_, spotted eagle ray
+Figure 2.2    _Aetobatus narinari_, spotted eagle ray
 
      Reflexes of POc _*paRi_ are numerous and widespread. It seems
 that the POc term had both a generic and a specific sense. Although most of the reflexes
@@ -1531,12 +1531,7 @@ PEOc *|vaRi manu| ‘__Aetobatus narinari__, eagle ray’ (Geraghty 1990)
   SES: Arosi      |hari manu|     ‘eagle ray’
   SES: Bauro      |hari manu|     ‘eagle ray’
   Fij: Bauan      |vai manu|      ‘skate or ray’
->
-
-36   Meredith Osmond
-
-<
-PPn *fai-manu ‘__Aetobatus narinari__, eagle ray’ (Hooper 1994)
+PPn *fai-manu ‘_Aetobatus narinari_, eagle ray’ (Hooper 1994)
   Pn:    Tongan     |fai manu|         ‘eagle ray’
   Pn:    Samoan     |fai manu|         ‘ray sp.’
   Pn:    Tuvalu     |fai manu|         ‘spotted eagle ray’
@@ -1544,6 +1539,8 @@ PPn *fai-manu ‘__Aetobatus narinari__, eagle ray’ (Hooper 1994)
   Pn:    Tahitian   |fai manu|         ‘eagle ray’
   Pn:    Maori      |whai manu|        ‘eagle ray’
 >
+
+36   Meredith Osmond
 
     Banks Islands languages (North Vanuatu) support Proto Banks _*vaRi mala_ ‘eagle ray’,
 where the term for ‘hawk’ rather than ‘bird’ is the modifier (Alexandre François, pers. comm.).
@@ -1664,7 +1661,7 @@ PCP *vaya ‘k.o. small school fish’ (Geraghty: ‘k.o. anchovy’)
 <
 POc *jaja ‘small fish, herring or anchovy’
   NNG: Bing         (yiy)zaz      ‘k.o. fish, _Clupeidae_’ (yiy ‘fish’)
-PCP *ðaða ‘_Spratelloides sp._’ (Geraghty 1994)
+PCP *ðaðā ‘_Spratelloides sp._’ (Geraghty 1994)
   Fij: Verata       ðaða          ‘_Spratelloides_’
 PPn *sasā ‘anchovy’ (Hooper: ‘_Spratelloides sp._’ [herring])
   Pn:  Tongan       hahā          ‘k.o. small fish, anchovy’
@@ -1761,7 +1758,7 @@ PEOc *buma ‘k.o. fish, possibly sardine’
    Pn:   Luangiua      puma            ‘k.o. fish’ (probably loan from a Solomons language)
 cf. also: The items listed here other than from Ba are due to John Lynch (pers. comm.)
    NCV:  Neve’ei       na-buŋ          ‘fish intermediate between sardine and mackerel’
-   NCV:  Nati          ni-ᶭpuŋ         ‘mackerel’
+   NCV:  Nati          ni-ᵐpuŋ         ‘mackerel’
    NCV:  Nahavaq       ne-buŋ          ‘mackerel’
    NCV:  Nese          na-buŋo         ‘mackerel’
    NCV:  South Efate   na-pumʷ         ‘_Scombridae_’
@@ -1811,7 +1808,7 @@ PPn *qawa ‘Chanos chanos, milkfish or salmon herring’ (Hooper 1994)
   Pn:   Hawaiian    awa           ‘_Chanos chanos_, milkfish’
 cf. also:
   SES:  Arosi       ʔawa          ‘k.o. fish’
-  Mic:  Kiribati    tdwa          ‘fry of milkfish’
+  Mic:  Kiribati    tāwa          ‘fry of milkfish’
 >
 
 
@@ -1828,7 +1825,7 @@ a lizard. The flesh is not very bony but insipid (Munro 1967: p.70).
 42 Meredith Osmond
 
 
-                          Figure 2.4    _Plotosus lineatus_, striped eel catfish
+Figure 2.4    _Plotosus lineatus_, striped eel catfish
 
 
 2.10 Catfish (_Plotosidae_)
@@ -2009,10 +2006,10 @@ have deep-water forms.
 
 <
 Proto Remote Oceanic *bonu ‘k.o. eel, probably conger’
-  Mic:  Kiribati    (ra)pʷono    ‘moray eel’ (ra- ‘defective’?)
+  Mic:  Kiribati    (ra)pʷono    ‘moray eel’ (_ra-_ ‘defective’?)
 PCP *bon(u,o) ‘conger eel’ (Geraghty: *bonu ‘_Ophichthidae_, snake eel’)
-  Fij:  Bauan       bomi         ‘_Scolecenchelys macropterus_, slender snake eel’
-  Fij:  Rewa        bomi(ika)    ‘_Conger sp._’
+  Fij:  Bauan       bonu         ‘_Scolecenchelys macropterus_, slender snake eel’
+  Fij:  Rewa        bonu(ika)    ‘_Conger sp._’
   Fij:  Wayan       bonu         ‘an eel of the mangrove swamp, probably conger’
   Pn:   Tongan      ponu(taliŋa) ‘k.o. eel, inedible’
   Pn:   Tongan      ponu-ponu    ‘k.o. sea worm’
@@ -2272,7 +2269,7 @@ POc *saku ‘needlefishes, garfishes, long toms (Belonidae)’
   NCV:  Namakir         soka(raru)    ‘garfish’
   NCal: Iaai            (wa)saə       ‘_Hemiramphus far_’
   Mic:  Kiribati        raku          ‘swordfish’
-  Mic:  Kiribati        ran(bara)     ‘garfish’ (bara ‘small fry’)
+  Mic:  Kiribati        rau(bara)     ‘garfish’ (bara ‘small fry’)
   Mic:  Marshallese     tak           ‘_Beloneplatyura_’ [Platybelone argahisplalyura]
   Mic:  Ponapean        tāk           ‘needlefish’
   Mic:  Mokilese        tɔk           ‘needlefish, barred long tom?’
@@ -2375,7 +2372,7 @@ POc *taRaqan ‘_Sargocentron spp._, squirrelfish, including _S. spiniferum_’ 
   NCV:  S Efate       tra(kap)        ‘squirrelfish’
   NCal: Pije          jalā            ‘_Holocentrus spinifer_’ [S. spiniferum]
   NCal: Jawe          jarak           ‘_Holocentrus spinifer_’ [S. spiniferum]
-PMic *tara ‘squirrelfish’ (Bender et al. 2003)
+PMic *tarā ‘squirrelfish’ (Bender et al. 2003)
   Mic:  Kiribati      tā              ‘_Sargocentron spp._’
   Mic:  Marshallese   ceṛa            ‘_Sargocentron_, _Myripristis spp._, squirrelfish’
   Mic:  Ponapean      sara            ‘_S. spiniferum_, spinecheek squirrelfish’
@@ -2385,7 +2382,7 @@ PMic *tara ‘squirrelfish’ (Bender et al. 2003)
 PPn *taqa ‘_Sargocentron spiniferum_, armoured soldierfish’ (Hooper 1994)
   Pn:   Tongan        taʔa            ‘_S. spiniferum_, red, edible’
   Pn:   Niuean        tā              ‘_Myripristis violacea_, lattice soldierfish’
-  Pn:   Pukapukan td                  ‘_S. spiniferum_’
+  Pn:   Pukapukan     tā              ‘_S. spiniferum_’
   Pn:   Samoan        tā(malau)       ‘name given to certain fishes of genus Sargocentron when about 30cm in length’ (See also under *malau below, p.55.)
   Pn:   K’marangi     tā              ‘_S. ruber_, red squirrelfish’  [S. rubrum]
   Pn:   Tokelauan     tā              ‘_S. spiniferum_’
@@ -2420,7 +2417,7 @@ POc *kuru[ru] ‘_Myripristis spp._, squirrelfish’
   Mic: Mokilese       kīr              ‘k.o. soldierfish’
   Mic: Marshallese    kuṛ              ‘_Sargocentron binotatus_’
 PCP *kuru     ‘_Myripristis_’ (Geraghty 1994)
-  Fij: Rotuman ʔuru                    ‘red blunt-nosed fish’
+  Fij: Rotuman        ʔuru             ‘red blunt-nosed fish’
   Fij: Bauan          kuru             ‘fish with a long snout’
 PPn *kuru ‘_Myripristis sp._’ (Hooper 1994)
   Pn:  Niuean         kū               ‘small red fish’
@@ -2588,7 +2585,7 @@ PNCV *kanase ‘mullet’ (Clark 2009:107)
   SV:   Ura         (w)ana        ‘mullet’
   NCal: Nelemwa     hâlāt         ‘adult mullet’
   NCal: Iaai        enei          ‘adult mullet’
-PCP *kanade ‘_Liza spp._’ (Geraghty 1994)
+PCP *kanaðe ‘_Liza spp._’ (Geraghty 1994)
   Fij:  Rotuman     ʔanasi        ‘jumping mullet’
   Fij:  Bauan       kanaðe        ‘_Mugilidae_’
   Fij:  Wayan       kanaðe        ‘certain grey and blue-tailed mullet species including _Valamugil sp._’
@@ -2755,7 +2752,7 @@ Figure 2.13:Sphyraena jello, slender sea pike
 
 <
 PMP *qalu ‘barracuda’ (ACD)
-POc *qcilu ‘Sphyraena taxon, incl. S. barracuda, great barracuda’
+POc *qalu ‘Sphyraena taxon, incl. S. barracuda, great barracuda’
   Adm:  Titan        al              ‘Sphyraenapicuda, giant sea-pike’ [S. barracuda]
   Adm:  Nauna        kul             ‘thick-bodied barracuda sp.’
   Adm:  Penchal      kul             ‘thick-bodied barracuda sp.’
@@ -2773,11 +2770,11 @@ cf. also:
 
 <
 POc *malisa ‘barracuda’ [13]
-  MM:       Patpatar    malisa           ‘k.o. fish, big, long, black and white’
-  MM:       Kara (East) malesa           ‘barracuda’
-  SES:      To’aba’ita ma-malita         ‘Sphyraena barracuda’ (Barnett); ‘immature barracuda’ (Lichtenberk)
-  SES:      Lau          ma-mahto        ‘S. picuda and S. forsteri at growth stage’
-  Fij:      Wayan        sila-sila       ‘largest barracudas, S. barracuda and possibly other _Sphyraena spp._’ (metathesis)
+  MM:  Patpatar     malisa          ‘k.o. fish, big, long, black and white’
+  MM:  Kara (East)  malesa          ‘barracuda’
+  SES: To’aba’ita   ma-malita       ‘Sphyraena barracuda’ (Barnett); ‘immature barracuda’ (Lichtenberk)
+  SES: Lau          ma-malīto        ‘S. picuda and S. forsteri at growth stage’
+  Fij: Wayan        sila-sila       ‘largest barracudas, S. barracuda and possibly other _Sphyraena spp._’ (metathesis)
 >
 
     The cognate set below points to a four-syllable reconstruction _*bʷara-wa(r,d,dr,R)a(q)_
@@ -3155,7 +3152,7 @@ POc *mamula ‘carangid’
   SES: Lau           mamula        ‘k.o. fish’ (=_ʔeda-ʔeda_)
   SES: Arosi         mamura        ‘k.o. fish’
   SES: ’Are’are      mamu          ‘_C. melampygus_’
-  Mic: Woleaian      mamʷu(six)    ‘mackerel scad, Decapterus ’ (-six ‘small’)
+  Mic: Woleaian      mamʷu(six)    ‘mackerel scad, Decapterus ’ (_-six_ ‘small’)
 >
 
 [17] Iaai normally does not retain final consonants, so this may have been a compound (John Lynch, pers. comm.).
@@ -3413,7 +3410,7 @@ that the next reconstruction included members of both families.
 <
 POc *sabutu ‘snapper (Lutjanus) or emperor (Lethrinus) sp. or spp.’
    Adm: Loniu       saput      ‘Lethrinus kallopterus, yellow-spotted emperor’ [Z. erythracanthus]
-   PT:  Sinaugoro rabutu       ‘a reef fish’
+   PT:  Sinaugoro   rabutu     ‘a reef fish’
    PT:  Motu        dabutu     ‘Acanlhopagrus berda, black bream’
 PCP *(ð,s)abutu ‘Lutjanus and _Lethrinus spp._’ (Geraghty 1994)
    Fij: Rotuman     saputu     ‘k.o. fish’
@@ -3452,7 +3449,7 @@ PPn *tāqea ‘Lutjanus sp., probably _L. gibbus_’ (Hooper reconstructs *taeqa
 POc *tasiwa ‘_Lutjanus spp._’
   Adm: Loniu         tus             ‘Lutjanus sebae, red emperor’
   PT:  Motu          tadiva          ‘Lutjanus gib bus, paddle-tail’
-  SES: Lau           |akʷasi (mai)|  ‘generic for four _Lutjanus spp._’ (Akimichi) (reflects metathesised form *tawasi)
+  SES: Lau           |akʷasi (mai)|  ‘generic for four _Lutjanus spp._’ (Akimichi) (reflects metathesised form _*tawasi_)
 PCP *tasiwa ‘_Lutjanus sp._’ (Geraghty 1994)
   Fij: Rotuman       sasiva          ‘_L. fulviflamma_, black spot seaperch’
 PPn *tahiwa ‘_L. monostigma_, one spot seaperch’ (Hooper: *taqiwa)
@@ -3752,7 +3749,7 @@ PCP *kawaŋo ‘Lethrinus nebulosus ’ (Geraghty 1994)
 >
 
 <
-PEOc *n(u,o)sct ‘_Lethrinus sp._’
+PEOc *n(u,o)sa ‘_Lethrinus sp._’
   SES: Kahua    nuta                           ‘_L. miniates_’
   NCV: NE Ambae noha                          ‘_Lethrinus spp._’
 >
@@ -3958,9 +3955,9 @@ PPn *ranue ‘_Kyohosidae_’
   Pn:  Tongan       nue            ‘k.o. fish’
   Pn:  Niuean       nue            ‘rudderfish or drummer, _Kyphosus sp._’
   Pn:  E Uvean      nue            ‘Kyphosus vaigiensis’ (possibly loan from Tongan)
-  Pn:  Pukapukan nanue             ‘_Kyphosus sp._’
+  Pn:  Pukapukan    nanue          ‘_Kyphosus sp._’
   Pn:  Samoan       nanue          ‘_Kyphosus sp._’
-  Pn:  Tokelauan nanue             ‘K cinerascens, ashen drummer’
+  Pn:  Tokelauan    nanue          ‘K cinerascens, ashen drummer’
   Pn:  Tikopia      nanue          ‘_K. cinerascens_’
   Pn:  Tahitian     nanue          ‘_Kyphosus sp._’
   Pn:  Hawaiian     nanue, nenue   ‘rudder or pilotfish’
@@ -4131,7 +4128,7 @@ PCP *dukuku ‘_Pomacentridae_’ (Geraghty: *duku)
   Fij: Kadavu        duxi-duxi          ‘_Abudefduf_’
 PPn *tukuku ‘_Pomacentridae_’
   Pn:  Tongan        tukuku             ‘k.o. fish, very small’
-  Pn:  Niuatoputapu  tukuku, tokuku ‘_Abudefduf_ _Pomacentrus_ and _Chromis_’
+  Pn:  Niuatoputapu  tukuku, tokuku     ‘_Abudefduf_ _Pomacentrus_ and _Chromis_’
   Pn:  Pukapukan     tutuku             ‘_Dascyllus spp._’
   Pn:  Samoan        tuʔuʔu             ‘certain small queer fishes of genera _Abudefduf_, _Pomacentrus_ and _Chromis_’
   Pn:  K’marangi     takuku             ‘_Abudefduf sp._, blue-banded damselfish’
@@ -4302,11 +4299,11 @@ with red, brown or purple, adults with blue, green, yellow, orange or red patter
 wrasses they retreat into holes in the coral at night to sleep. Genera include _Scarus_, _Hipposcarus_ and _Bolbometopon_.
 
 <
-PMP *[(k,g)]ulapi ‘parrotfish’ [30]
+PMP *[(k,q)]ulapi ‘parrotfish’ [30]
 POc *(k,q)ulapi ‘parrotfish spp., incl. _Hipposcarus longiceps_, long-nosed parrotfish’
   Adm: Lou           kʷel          ‘blue-speckled parrotfish’ [Leptoscarus vaigiensis]
   Adm: Nali          kuwei         ‘blue-speckled parrotfish’ (Akimichi)
-  Adm: Penchal       kwil          ‘blue-speckled parrotfish’
+  Adm: Penchal       kʷil          ‘blue-speckled parrotfish’
   Adm: Andra         ulah          ‘_H. harid_’ [31]
   Adm: Loniu         uleh          ‘long-nosed parrotfish’
   Adm: Lenkau        ulep          ‘_Scaridae_, parrotfish’
@@ -4353,9 +4350,9 @@ POc *kam(a,i,u)tuq ‘_Bolbometopon_, double-headed parrotfish’
   MM:  Patpatar        amatu           ‘k.o. fish, big and green’
   MM:  Ramoaaina       kamit           ‘k.o. shiny fish’
   Mic: Woleaian        xemasu(xur)     ‘k.o. parrotfish’
-PCP *kam(o,u)tu ‘female Scctrus sordidus’ (Geraghty 1994)
+PCP *kām(o,u)tu ‘female Scctrus sordidus’ (Geraghty 1994)
   Fij: Kadavu          kāmotu          ‘female _Scarus sordidus_’
-PPn *kamulu  ‘_Scarus sp._ ’ (Hooper 1994)
+PPn *kamutu  ‘_Scarus sp._ ’ (Hooper 1994)
   Pn:  Tongan          kamutu          ‘_Scarus sp._’ (Geraghty. Not in Churchward)
   Pn:  Tokelauan       kāmutu          ‘_S. jonesi_, female, green parrotfish’
 cf. also:
@@ -4828,7 +4825,7 @@ POc *bala(ŋ,k)i ‘Acanthurus and _Naso spp._’
   Mic: Marshallese    pɯilak       ‘Naso lituratus (poll unicomfish)’
   Mic: Ponapean       pʷulak       ‘_N. unicornis_’
   Mic: Kiribati       pʷāpʷā       ‘_A. guttatus_, spotted surgeonfish’
-PCP *balaŋt ‘_Acanthurus spp._’ (Geraghty 1994)
+PCP *balaŋi ‘_Acanthurus spp._’ (Geraghty 1994)
   Fij: Bauan          balaŋi       ‘_Teuthis sp._’ (spinefoot sp.)
   Fij: Wayan          balaŋi       ‘generic for _Acanthurus spp._, surgeonfish, tangs and unicorns’
   Fij: Kadavu         balaŋi       ‘Acanthurus and _Naso spp._’
@@ -4965,7 +4962,7 @@ POc *marawa ‘spinefoot sp.’
   Mic: Mokilese       mār            ‘k.o. spinefoot’
   Mic: Ponape         mār            ‘_A. puellus_’ (blue-lined spinefoot)
 PPn *marawa ‘rabbitfish, _S. rostratus_’ [S. argenteus]
-  Pn:   Rennellese maŋgau            ‘general name for some squirrelfish’
+  Pn:   Rennellese    maŋgau         ‘general name for some squirrelfish’
   Pn:   Samoan        mālava         ‘k.o. fish’
   Pn:   Pukapukan     mālava         ‘_S. rostratus_’
   Pn:   Rarotongan    marava         ‘_S. rostratus_’
@@ -5145,8 +5142,8 @@ PCP *walu ‘k.o. pelagic fish’ (Geraghty 1994)
 PPn *walu ‘_Scombridae_’ (Hooper 1994)
   Pn:  Tongan       valu             ‘general name for tuna spp.’ (_valu louniu_ ‘wahoo’)
   Pn:  Niuean       valu             ‘_Gymnosarda unicolor_, dogtooth tuna’
-  Pn:  E Uvean      vatu             ‘genus Thunnus (generic)’
-  Pn:  Tokelauan    vatu             ‘_G. unicolor_ when large’
+  Pn:  E Uvean      valu             ‘genus Thunnus (generic)’
+  Pn:  Tokelauan    valu             ‘_G. unicolor_ when large’
   Pn:  K’marangi    walu             ‘_Gymnosarda_ sp., dogtooth tuna’
   Pn:  Marquesan    vaʔu             ‘_Scombridae_’
 >
@@ -5234,7 +5231,7 @@ POc *saku-layaR ‘sailfish’
   Mic: Ponapean     teki-lār           ‘swordfish, sailfish, blue marlin’
 PCP *saku-laya ‘swordfish, sailfish’ (Geraghty 1994)
   Fij: Bauan        saku-laya          ‘the saw-fish proper’ (saku swordfish _Makaira spp._)
-PPn *sakula ‘swordfish, sailfish’ (Hooper 1994)
+PPn *sakulā ‘swordfish, sailfish’ (Hooper 1994)
   Pn:  Tongan       hakulā             ‘swordfish’ (haku ‘young hakuld)
   Pn:  Niuean       hakulā             ‘true swordfish’ (compare _hakupin_ ‘sailfish’, _haku taŋata_ ‘marlin’)
   Pn:  E Uvean      hakulā             ‘_Makaira mazara_, blue marlin’
@@ -5250,13 +5247,13 @@ PPn *sakula ‘swordfish, sailfish’ (Hooper 1994)
 
    The following reflect only the first element, *sakw.
 
-__pre__
-  NNG: Wogeo        sak barema            ‘sailfish’
+__formgroup__
+  NNG: Wogeo        |sak barema|          ‘sailfish’
   NNG: Lukep        sau-rere              ‘sailfish’
-  NCV: Paamese      me-sau koaa sesali    ‘_Tetrapturus audax_, marlin’ (lit. ‘fish which spears’)
+  NCV: Paamese      |me-sau koaa sesali|  ‘_Tetrapturus audax_, marlin’ (lit. ‘fish which spears’)
   SV:  Ura          yayo                  ‘marlin’
-  Fij: Wayan        saku vorowaga         ‘generic incl. most _Istiophoridae_, marlins and sailfishes’ (_vorowaga_ ‘boat-eating’)
-  Fij: Wayan        saku vorowaga tāŋwane ‘blue marlin’ (lit. male boat-eating marlin’)
+  Fij: Wayan        |saku vorowaga|       ‘generic incl. most _Istiophoridae_, marlins and sailfishes’ (_vorowaga_ ‘boat-eating’)
+  Fij: Wayan        |saku vorowaga tāŋwane| ‘blue marlin’ (lit. male boat-eating marlin’)
   Pn:  Hawaiian     aʔu                   ‘swordfish’ (_aʔu-lepe_ ‘sailfish’, _aʔu-kii_ ‘marlin’) (for `†_haʔu_)
 
     There is a second term which probably refered to a particular species or subgroup of
@@ -5716,7 +5713,7 @@ PPn *teqe-teqe ‘_Arothron_ and _Canthigaster_ spp., pufferfish’ (Hooper 1994
   Pn:  Tokelauan   tētē         ‘_M. meleagris_, guineafowl puffer’
   Pn:  Hawaiian    kēkē         ‘_M. hispidus_’ (white-spotted puffer)
 cf. also:
-  PT:  Roro        tele         ‘jellyfish’
+  PT:  Roro        teʔe         ‘jellyfish’
   Mic: Chuukese    sekun        ‘_Canthigaster_ spp., smooth puffers’
 >
 
@@ -5774,7 +5771,7 @@ POc *biRa ‘roe, fish eggs’ (ACD: *piRa)
   PT:   Dobu         bila         ‘fish roe’
   PT:   Tawala       bile         ‘roe’
   PT:   Tubetube     bile(na)     ‘fish internals’
-  PT:   Gapapaiwa    hire         ‘roe’
+  PT:   Gapapaiwa    bire         ‘roe’
   PT:   Hula         pila         ‘roe’
   MM:   Tolai        bira         ‘fat’
   MM:   Marovo       bira         ‘fish eggs’
@@ -5997,7 +5994,7 @@ POc *kapi-kapi ‘pectoral fins’
     Alternatively, a reflex of POc _*taliŋa_ ‘ear’ is sometimes used to refer to a pectoral fin.
 
 <
-POc *taliŋa ‘pectoral fins’ (semantic extension of *talhja ‘ear’)
+POc *taliŋa ‘pectoral fins’ (semantic extension of _*taliŋa_ ‘ear’)
   Adm: Mussau          (ū-)taliŋa     ‘external gills’ (lit. ‘feather + ear’)
   PT:  Motu            taia           ‘gill fins of fish’
   SES: Kwaio           aliŋa(na-iʔa)  ‘fish fin’ (lit.‘ear of fish’)
@@ -6260,27 +6257,27 @@ deep sea’, and functional categories, like ‘poisonous fish’.
 
 140      Andrew Pawley
 
-__pre__
-         Table 3.1     Details of languages cited (all Oceanic except Palauan and Pendau)
-   Name                  Location                        Subgroup          Main source
-   ---
-   Arosi                 Makira, eastern Solomons        SE Solomonic      Fox 1978
-   Gela                  Florida, central Solomons       SE Solomonic      Foale 1998
-   K’marangi             atoll south of the Carolines    Polynesian        Lieber and Dikepa 1974
-   Kiribati              atoll chain, Kiribati           Micronesian       Thaman & Tabano n.d.
-   Lau                   Malaita, SE Solomons            SE Solomonic      Fox 1974. Akimichi 1978
-   Marovo                New Georgia. W Solomons         NW Solomonic      Hviding 1990. 1996. 2005
-   Marquesan             Eastern Polynesia               Polynesian        Lavondes 1977
-   M’bunai Titan         Admiralty Islands. PNG          Admiralties       Akimichi & Sakivama 1991
-   Motu                  Central Province, PNG           Papuan Tip        Oram n.d.
-   Mutu (Mandok)         Vitiaz Straits, PNG             North New Guinea  Pomponio n.d.
-   Niuatoputapu          small high island, W Polynesia  dialect of Tongan Dye 1983
-   Palauan               Western Carolines               Malayo-Polynesian Helfmann & Randall 1973
-   Pendau                Central Sulawesi                Malayo-Polynesian Quick 2005. 2010
-   Satawalese            Central Carolines               Micronesian       Akimichi & Sauchomal 1982
-   Teop                  NE Bougainville, PNG            NW Solomonic      Shoffner 1976
-   Uvean (Wallisian)     high island, W Polynesia        Polynesian        Rensch 1983
-   Wayan                 small high island, W Fiji       Fijian            Pawley & Savaba 2003
+: Table 3.1     Details of languages cited (all Oceanic except Palauan and Pendau)
+
+__table__
+   Name                |  Location                      |  Subgroup          | Main source
+   Arosi               |  Makira, eastern Solomons      |  SE Solomonic      | Fox 1978
+   Gela                |  Florida, central Solomons     |  SE Solomonic      | Foale 1998
+   K’marangi           |  atoll south of the Carolines  |  Polynesian        | Lieber and Dikepa 1974
+   Kiribati            |  atoll chain, Kiribati         |  Micronesian       | Thaman & Tabano n.d.
+   Lau                 |  Malaita, SE Solomons          |  SE Solomonic      | Fox 1974. Akimichi 1978
+   Marovo              |  New Georgia. W Solomons       |  NW Solomonic      | Hviding 1990. 1996. 2005
+   Marquesan           |  Eastern Polynesia             |  Polynesian        | Lavondes 1977
+   M’bunai Titan       |  Admiralty Islands. PNG        |  Admiralties       | Akimichi & Sakivama 1991
+   Motu                |  Central Province, PNG         |  Papuan Tip        | Oram n.d.
+   Mutu (Mandok)       |  Vitiaz Straits, PNG           |  North New Guinea  | Pomponio n.d.
+   Niuatoputapu        |  small high island, W Polynesia|  dialect of Tongan | Dye 1983
+   Palauan             |  Western Carolines             |  Malayo-Polynesian | Helfmann & Randall 1973
+   Pendau              |  Central Sulawesi              |  Malayo-Polynesian | Quick 2005. 2010
+   Satawalese          |  Central Carolines             |  Micronesian       | Akimichi & Sauchomal 1982
+   Teop                |  NE Bougainville, PNG          |  NW Solomonic      | Shoffner 1976
+   Uvean (Wallisian)   |  high island, W Polynesia      |  Polynesian        | Rensch 1983
+   Wayan               |  small high island, W Fiji     |  Fijian            | Pawley & Savaba 2003
 
 
 3.2.2.2 Uninomials vs binomials
