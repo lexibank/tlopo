@@ -12851,7 +12851,7 @@ POc *piRaq 'giant taro, elephant ear taro, Alocasia macrorrhizos' (Blust 1972b)
   NCV:  Kiai        via            'Alocasia macrorrhizos'
   NCV:  Araki       via            'Alocasia macrorrhizos'
   NCV:  Raga        via            'Alocasia macrorrhizos'
-  NCV:  Big Nambas  ðix            'Alocasia macrorrhizos' (J. Lynch, pers. comm.)
+  NCV:  Big Nambas  ðᫀix            'Alocasia macrorrhizos' (J. Lynch, pers. comm.)
   NCV:  Uripiv      na-vi          'wild arrowroot, Amorphophallus paeoniifolius'
   NCV:  Tape        viaɣ           'Cyrtosperma merkusii'
   NCV:  Nese        na-dᫀi          'k.o. taro'
@@ -12924,12 +12924,12 @@ but apparently had only limited use in the Bismarcks.
 name of some other starchy food:
 
 __tablenh__
-    MM:  | Patpatar    |  pulaka      |   < *bulaka 'Cyrtosperma merkusii' (§2.2.2)
-    MM:  | Tolai       |  pulaka      |   < *bulaka 'Cyrtosperma merkusii' (§2.2.2)
-    TM:  | Aiwoo       |  (to)piya    |   < POc *piRaq 'Alocasia macrorrhizos' (§2.2.3)
-    Fij: | Bauan       |  yabia       |   < POc *Rabia 'Metroxylon sagu' (§5.1)
-    Pn:  | Pileni      |  pia         |   < POc *Rabia 'Metroxylon sagu' (§5.1)
-    Pn:  | Rarotongan  |  pia         |   < POc *Rabia 'Metroxylon sagu' (§5.1)
+    MM:  | Patpatar    |  _pulaka_      |   < *bulaka 'Cyrtosperma merkusii' (§2.2.2)
+    MM:  | Tolai       |  _pulaka_      |   < *bulaka 'Cyrtosperma merkusii' (§2.2.2)
+    TM:  | Aiwoo       |  _(to)piya_    |   < POc *piRaq 'Alocasia macrorrhizos' (§2.2.3)
+    Fij: | Bauan       |  _yabia_       |   < POc *Rabia 'Metroxylon sagu' (§5.1)
+    Pn:  | Pileni      |  _pia_         |   < POc *Rabia 'Metroxylon sagu' (§5.1)
+    Pn:  | Rarotongan  |  _pia_         |   < POc *Rabia 'Metroxylon sagu' (§5.1)
 
 274     Malcolm Ross
 
@@ -13101,8 +13101,8 @@ POc *pudi 'banana, Musa cultivars' (Capell1943: *puti)
   MM:   Tolai          vudu        'banana'
   TM:   Aiwoo          no-u        'banana'
   SES:  Gela           vudi        'banana'
-  SES:  To'aba'ita     judi        'banana' (archaic)
-  SES:  Lau            judi        'banana'
+  SES:  To'aba'ita     fudi        'banana' (archaic)
+  SES:  Lau            fudi        'banana'
   SES:  Sa'a           huti        'banana'
   NCV:  Naman          nə-vəj      'banana'
   NCV:  Nese           no-ðᫀic      'banana'
