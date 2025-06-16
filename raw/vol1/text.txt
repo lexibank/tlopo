@@ -10748,10 +10748,13 @@ From North New Guinea and New Ireland we have been able to reconstruct a lower-l
 term:
 
 <
-PWOc *maRi 'Derris root'
+PWOc *(m,mʷ)ali 'Derris root'
   NNG: Gitua               (waro)mali(ŋ)
   MM:  Nalik               mal-mal
 >
+
+## FIXME:    PWOc _*(m,mʷ)ali_ (incorrectly given as _*maRi_ in vol. 1, ch.8, §7) is reconstructed on the basis of North New Guinea and Meso-Melanesian languages.
+
 
 The method of stunning fish by throwing pounded Derris root into pools is widespread, and
 the three terms seem to have identical reference, although Derris eliptica is not mentioned
