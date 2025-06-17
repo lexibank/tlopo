@@ -15342,7 +15342,7 @@ pekapeka ‘White-rumped Swiftlet’,pekapeka saʔi ‘small bat sp.’ (see ch.
 
 <
 POc *kabakabal ‘swiftlet, Aerodramus or _Collocalia spp._’ (cf. *kaba etc. ‘wing, flap’ )
-  NNG: North Watut     koᵐbaqkoᵐb           ‘birdsp.’
+  NNG: North Watut     koᵐbaŋkoᵐb           ‘birdsp.’
   MM:  Tolai           kəbəkəbəl            ‘Collocalia esculenta’
   MM:  Tolai           kubəkubal            ‘swallow or swift sp.’ (expected †_kabəkabal_)
   MM:  Roviana         kapakapa(gema)       ‘a small greenish bird, frequents qema [Nephelium] trees’
@@ -15370,7 +15370,7 @@ cf. also:
 >
 
 <
-PCP *bekabeka ‘swiftlet’ (cf. POc *bweka ‘fruit bat, flying fox’, ch. 5, §2.9)
+PCP *bekabeka ‘swiftlet’ (cf. POc _*bʷeka_ ‘fruit bat, flying fox’, ch. 5, §2.9)
   Fij:  Lau          bekabeka(niðaŋi)    ‘White-rumped Swiftlet, Aerodramus spodiopygius’
   Pn:   Tongan       pekepeka(tea)       ‘Aerodramus spodiopygius’
   Pn:   Tongan       pekepeka            ‘Pacific Swallow, Hirundo tahitica’
@@ -15490,18 +15490,17 @@ to the Polynesian *tikotara forms, but cannot be formally reconciled with them; 
 exact agreement is found in the first part of the word sikorere, though with slightly deviant
 reference:
 
-__pre__
-   Fij:    Bauan         seðala           ‘_Halcyon spp._’
-                         sikorere         ‘White-breasted Wood Swallow, Artamus
-                                          leucorhynchus’
+__formgroup__
+   Fij: Bauan         sēðala           ‘_Halcyon spp._’
+   Fij: Bauan         sikorere         ‘White-breasted Wood Swallow, Artamus leucorhynchus’
 
    The following two sets are likely to be at least influenced by imitation of the voice of
-Halcyon kingfishers, represented as ki-ki-ki-ki-ki-i-i-ee (Watling 2004:137).
+Halcyon kingfishers, represented as _ki-ki-ki-ki-ki-i-i-ee_ (Watling 2004:137).
 
 338   Ross Clark
 
 <
-POc *ki(o)kio ‘kingfisher’ (cf. PAn *kiaw ‘puling sound of a bird’; Blust 1995)
+POc *ki(o)kio ‘kingfisher’ (cf. PAn _*kiaw_ ‘puling sound of a bird’; Blust 1995)
   Adm:  Nauna          kikiw          ‘kingfisher’
   Adm:  Seimat         kioki          ‘kingfisher’
   Adm:  Wuvulu         ioio           ‘kingfisher’
@@ -15583,7 +15582,7 @@ Two good cognate sets are available for the single species, Blyth’s Hombill (A
 which occurs throughout New Guinea and the Solomons.
 
 <
-POc *binam ‘hombill’ (ACD)
+POc *binam ‘hornbill’ (ACD)
   PT:    Tubetube      binam
   PT:    Dobu          binama
   PT:    Iduna         binama
@@ -15605,21 +15604,21 @@ POc *binam ‘hombill’ (ACD)
 The following indicate a considerable broadening of the reference of this term in some SE
 Solomonic languages:
 
-__pre__
-   SES:   ’Are’are    pina (ni duo)      ‘big grey pigeon’ (ano ‘garden’)
-   SES:   Sa’a        pine (ni on)       ‘Nicobar Pigeon, Caloenas nicobarica’
-   SES:   Arosi       bina               ‘hawk’
-                      bina( ni asi)      ‘booby’ (asi ‘sea’)
-                      bina (ahuri)       ‘Caloenas nicobarica’
-                      bina (ni mon)      ‘Caloenas nicobarica’ (mou ‘garden)
-                      bina (suʔu)        ‘Caloenas nicobarica’ (suʔu ‘lake, swamp’)
+__formgroup__
+   SES: ’Are’are    |pina (ni āno)|      ‘big grey pigeon’ (_āno_ ‘garden’)
+   SES: Sa’a        |pine (ni ou) |      ‘Nicobar Pigeon, Caloenas nicobarica’
+   SES: Arosi        bina                ‘hawk’
+   SES: Arosi       |bina( ni asi)|      ‘booby’ (asi ‘sea’)
+   SES: Arosi       |bina (ahuri) |      ‘Caloenas nicobarica’
+   SES: Arosi       |bina (ni mou)|      ‘Caloenas nicobarica’ (_mou_ ‘garden)
+   SES: Arosi       |bina (suʔu)  |      ‘Caloenas nicobarica’ (_suʔu_ ‘lake, swamp’)
 
-    The hombill’s voice is described as ‘various deep grunts and honking notes’ (Coates &
+    The hornbill’s voice is described as ‘various deep grunts and honking notes’ (Coates &
 Peckover 2001:113). Given the lack of exact agreement among the following names, it is
 likely that at least some represent repeated imitative coinages.
 
 <
-POc *koŋo(k) ‘hornbilT’
+POc *koŋo(k) ‘hornbill’
   NNG:    Amara          a-kŋok
   NNG:    Kilenge        a-kŋok
   NNG:    Sengseng       kaŋ-kaŋ
@@ -15902,9 +15901,9 @@ cf. also: probable borrowing from a North-Central Vanuatu language
 
 These SV words are possible cognates:
 
-__pre__
+__formgroup__
   SV:   Ura     (u)lcap                      ‘_Zosterops flavifrons_’
-  SV:   Sye     (u)lcap, ne-lcap, (we)lcap   ‘_Zosterops flavifrons_’
+  SV:   Sye     |(u)lcap, ne-lcap, (we)lcap|   ‘_Zosterops flavifrons_’
 
 346     Ross Clark
 
@@ -15913,7 +15912,7 @@ Figure 6.18:_Philemon buceroides_, Helmeted Friarbird
     The following two items are the only possible Southeast Solomonic cognate found, and
 a possible Rennellese borrowing from a SE Solomonic language:
 
-__pre__
+__formgroup__
       SES:   Gela       (laulau)laka ‘very small bird sp.’
       Pn:    Rennellese ɣaɣa         ‘Woodford’s White-eye, Woodfordia supereiliosa’
 
@@ -15948,16 +15947,15 @@ cf. also:
     The friarbirds (_Philemon spp._) are a large and distinctive type of honeyeater represented
 by three species in the homeland region. The following terms present various formal problems, but could be derived from some form such as POc *(sa)quka, with metathesis to *(sa)-kuqa[9]
 
-__pre__
-   Adm: Loniu              coPuka          ‘White-naped Friarbird, _Philemon albitorques_’
-   Adm: Titan              cauka           ‘friarbird, probably New Britain Friarbird,
-                                           _Philemon cockerelli_’
-   NNG:     Musom          kuaŋ            Teatherhead’ (Philemon)
-   NNG:     Aribwatsa      uwaŋ            Teatherhead’
-   PT:      Iduna          takowa          ‘Little Friarbird, _Philemon citreogularis_’
-   PT:      Gapapaiwa      sakoa           ‘Helmeted Friarbird, _Philemon buceroides_’
-   MM:      Nakanai        kau             ‘_Philemon cockerelli_’
-   MM:      Tolai          kəo, kau        ‘_Philemon cockerelli_’
+__formgroup__
+   Adm: Loniu          cɔʔuka          ‘White-naped Friarbird, _Philemon albitorques_’
+   Adm: Titan          cauka           ‘friarbird, probably New Britain Friarbird, _Philemon cockerelli_’
+   NNG: Musom          kuaŋ            ‘leatherhead’ (Philemon)
+   NNG: Aribwatsa      uwaŋ            ‘leatherhead’
+   PT:  Iduna          takowa          ‘Little Friarbird, _Philemon citreogularis_’
+   PT:  Gapapaiwa      sakoa           ‘Helmeted Friarbird, _Philemon buceroides_’
+   MM:  Nakanai        kau             ‘_Philemon cockerelli_’
+   MM:  Tolai          kəo, kau        ‘_Philemon cockerelli_’
 
 <
 Proto Remote Oceanic *(b,v)asilo ‘honeyeater’
