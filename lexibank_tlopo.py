@@ -328,6 +328,11 @@ class Dataset(BaseDataset):
         words = {}
         cognatesets = {}
 
+        #
+        # FIXME: store volume and chapter with each formgroup/cognatesetreference in order to create
+        # links into these from form-details pages!
+        #
+
         gloss2id = {}
         for i, rec in enumerate(reconstructions):
             # Add protoforms and reflex forms and glosses, keep IDs of forms and glosses!
@@ -413,6 +418,7 @@ class Dataset(BaseDataset):
                 #    print('cf table {} for known cogset!: {}'.format(i, rec.id))
                 #
                 # FIXME: cfsets must also remember gloss_ids!
+                # FIXME: inherit gloss from proto-form gloss!
                 #
                 args.writer.objects['cf.csv'].append(dict(
                     ID='{}-{}'.format(rec.id, i),

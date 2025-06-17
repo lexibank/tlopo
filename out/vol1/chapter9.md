@@ -55,7 +55,7 @@ The verbs in this section refer to continuously repeated contact between an impl
 
 The generic term for any kind of wearing down by friction was  POc _&ast;asa(q)_, _&ast;asaq-i-_ (Ch. 4, §4.1.5). While it is possible to reconstruct several terms that refer just or primarily to the grating of foodstuffs, it has proven more difficult to reconstruct a term referring specifically to the sharpening of cutting edges.  POc _&ast;kiri_/_&ast;giri_ is our most likely contender.
 
-<table>
+<table id="1-9-2-1-236-POc-asaq-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -171,7 +171,7 @@ The generic term for any kind of wearing down by friction was  POc _&ast;asa(q)_
 
 
 
-<table>
+<table id="1-9-2-1-236-POc-kiri-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -228,7 +228,7 @@ The generic term for any kind of wearing down by friction was  POc _&ast;asa(q)_
 
 
 
-<table>
+<table id="1-9-2-1-236-POc-giri-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -291,7 +291,7 @@ Various activities are subsumed under this heading. They include the separation 
 
 POc _&ast;karu(t)_, _&ast;karut-i-_ seems to have referred to scratching with fingernails or claws, and thus not to have been used of food preparation:
 
-<table>
+<table id="1-9-2-2-237-POc-karut-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -416,7 +416,7 @@ However, it is notable that the reconstructions above form pairs which can be ac
 
 We retain the pairs of forms below, because this interpretation is not conclusive: POc _&ast;kosi_ may reflect PAn _&ast;keskes_.
 
-<table>
+<table id="1-9-2-2-238-POc-koras-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -466,7 +466,7 @@ We retain the pairs of forms below, because this interpretation is not conclusiv
 
 <a id="p-239"></a>
 
-<table>
+<table id="1-9-2-2-239-POc-goras-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -494,7 +494,7 @@ We retain the pairs of forms below, because this interpretation is not conclusiv
 
 
 
-<table>
+<table id="1-9-2-2-239-POc-karas-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -574,7 +574,7 @@ cf. also:
 </table>
 
 
-<table>
+<table id="1-9-2-2-239-POc-karis-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -679,7 +679,7 @@ cf. also:
 
 <a id="p-240"></a>
 
-<table>
+<table id="1-9-2-2-240-PEOc-koris-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td>
@@ -724,7 +724,7 @@ cf. also:
 
 Note that _&ast;kori(s)_ may have occurred in POc, but its WOc reflexes would be indistinguishable from those of _&ast;koRi_ below unless the final _&ast;-s_ were reflected. The only WOc reflex which may fulfil this criterion is Tangga (MM) _koīs_ 'grater made from a hemisphere of coconut shell'.
 
-<table>
+<table id="1-9-2-2-240-PEOc-kari-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td>
@@ -758,7 +758,7 @@ Note that _&ast;kori(s)_ may have occurred in POc, but its WOc reflexes would be
 
 
 
-<table>
+<table id="1-9-2-2-240-POc-kori-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -831,7 +831,7 @@ Note that _&ast;kori(s)_ may have occurred in POc, but its WOc reflexes would be
 
 
 
-<table>
+<table id="1-9-2-2-240-POc-kasi-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -941,7 +941,7 @@ cf. also:
 
 <a id="p-241"></a>
 
-<table>
+<table id="1-9-2-2-241-POc-kosi-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -991,7 +991,7 @@ There are three other reconstructions which overlap semantically with those abov
 | PEOc | _&ast;saqalo_               | 'scrape, clean by scraping; rub smooth'     |
 | PEOc | _&ast;paro(s)_, _&ast;paros-i-_ | 'chafe, of skin; scrape'                    |
 
-<table>
+<table id="1-9-2-2-241-POc-rasi-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1051,7 +1051,7 @@ Lichtenberk (Ch. 6, §5.2) reconstructs this verb as _&ast;(r,R)asik_, but if th
 
 The two PEOc items below straddle the semantic divide between this section and the one below, in that they refer to actions in which rubbing is sufficient to remove substance from the surface of the object.
 
-<table>
+<table id="1-9-2-2-242-PEOc-saqalo-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td>
@@ -1104,7 +1104,7 @@ The two PEOc items below straddle the semantic divide between this section and t
 
 
 
-<table>
+<table id="1-9-2-2-242-PEOc-paros-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td>
@@ -1165,7 +1165,7 @@ The two PEOc items below straddle the semantic divide between this section and t
 
 Rubbing in Oceanic languages is roughly divisible into two semantic categories: rubbing in which abrasion is to the fore, as for example in making a fire, and rubbing for the purpose of making smooth. The generic term for abrasive rubbing was apparently POc _&ast;usuq_, whilst _&ast;suka_ referred to friction to make a fire. The POc term for 'rub smooth' was _&ast;quju(r)_, _&ast;qujur-i-_. Although it is sometimes difficult to distinguish the reflexes of _&ast;usuq_ and _&ast;quju(r)_, they were clearly separate verbs in POc. POc _&ast;pulu_ evidently referred to rubbing in association with washing.
 
-<table>
+<table id="1-9-2-3-242-POc-usuqp-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -1225,7 +1225,7 @@ Rubbing in Oceanic languages is roughly divisible into two semantic categories: 
 
 <a id="p-243"></a>
 
-<table>
+<table id="1-9-2-3-243-POc-suka-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1285,7 +1285,7 @@ Rubbing in Oceanic languages is roughly divisible into two semantic categories: 
 
 Note the unexplained fronting of the vowel in Central Pacific languages. For a similar example, see _&ast;supi_ 'sharpen, shave, pare' (§3.6).
 
-<table>
+<table id="1-9-2-3-243-POc-qujur-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1323,7 +1323,7 @@ Note the unexplained fronting of the vowel in Central Pacific languages. For a s
 
 
 
-<table>
+<table id="1-9-2-3-243-POc-pulu-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -1386,7 +1386,7 @@ Of the verbs reconstructed below, POc _&ast;salap_ refers to the action performe
 
 <a id="p-244"></a>
 
-<table>
+<table id="1-9-2-4-244-POc-salap-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1444,7 +1444,7 @@ Of the verbs reconstructed below, POc _&ast;salap_ refers to the action performe
 
 
 
-<table>
+<table id="1-9-2-4-244-POc-sapur-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1522,7 +1522,7 @@ Of the verbs reconstructed below, POc _&ast;salap_ refers to the action performe
 
 
 
-<table>
+<table id="1-9-2-4-244-POc-tapi-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1585,7 +1585,7 @@ Of the verbs reconstructed below, POc _&ast;salap_ refers to the action performe
 
 
 
-<table>
+<table id="1-9-2-4-244-POc-saro-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1629,7 +1629,7 @@ Of the verbs reconstructed below, POc _&ast;salap_ refers to the action performe
 
 Prior to the introduction of steel blades, cutting of timber would have been achieved by stone axe or adze (replaced with Tridacna shell blade when suitable stone was unobtainable), and of softer materials by sharpened shell or piece of bamboo, or a piece of obsidian or flint. In some languages, terms for the implement serve as a base for various cutting activities. For instance, Iduna, a Papuan Tip language, has dozens of cutting terms which are compounds with _-tala-_ 'chop, cut (of tree, boat), shave (of beard), peck (with beak)" a reflex of POc _&ast;taRa(q)_ 'adze'. They include:
 
-<table>
+<table id="1-9-3-None-245-pt-iduna-talakehi">
 <tr>
 <td>PT</td>
 <td>Iduna</td>
@@ -1711,7 +1711,7 @@ Prior to the introduction of steel blades, cutting of timber would have been ach
 
 The evidence suggests that _&ast;taRa(q)_ 'adze' already had a corresponding verb _&ast;taRaq-i-_, in POc.
 
-<table>
+<table id="1-9-3-None-245-POc-taraq-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -1851,7 +1851,7 @@ The evidence suggests that _&ast;taRa(q)_ 'adze' already had a corresponding ver
 
 The POc term for an obsidian blade was apparently _&ast;koto_ (Ch. 4, §4.1.3) and this is used as a verb in some languages. It is possible that the verb _&ast;koti_ (§3.1) is derived from this, but we cannot be sure.
 
-<table>
+<table id="1-9-3-None-246-POc-koto-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1967,7 +1967,7 @@ A number of verbs referring to cutting something off or severing it can be recon
 
 POc _&ast;utu(s)_, _&ast;utus-i-_ appears to have been a generic verb of severing or separating. POc _&ast;ma-utus_/_&ast;motus_ does not strictly belong here, as it is an inceptive or stative verb, not a verb of action. It is included because of its formal relationship with &ast;utus and because there are certain formal problems associated with POc _&ast;utu(s)_, _&ast;kutu_, _&ast;ma-utus_ and _&ast;muju_. The first of these is that some of the reflexes attributed to _&ast;utu(s)_ may in fact reflect _&ast;kutu_ (this is true, e.g., of Mangseng and Gumawana _utu_).
 
-<table>
+<table id="1-9-3-1-247-POc-utus-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -2049,7 +2049,7 @@ POc _&ast;utu(s)_, _&ast;utus-i-_ appears to have been a generic verb of severin
 
 
 
-<table>
+<table id="1-9-3-1-247-POc-kutu-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -2111,7 +2111,7 @@ cf. also:
 
 In the following set, the occurrence of stative perfective glosses like 'torn', together with the Nakanai form _&ast;ma-utu_, points to a reconstruction derived by prefixing _&ast;ma-_ to _&ast;utus_ above: the function of _&ast;ma-_ was to derive neutral (inceptive and stative) intransitive verbs (Ch. 2, §3.1.2). The hypothesis that the form _&ast;ma-utus_ occurred is supported by the derived transitive Longgu, Sa'a _mousi_ below, but the widespread presence of reflexes of _&ast;motus_ suggest that it occurred as an alternant in POc:
 
-<table>
+<table id="1-9-3-1-247-POc-mautus-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -2214,7 +2214,7 @@ In the following set, the occurrence of stative perfective glosses like 'torn', 
 
 Note that the Malaita-Makira languages of SES have formed a new transitive verb _&ast;motus-i-_ 'break off' from the intransitive _&ast;ma-utus_:
 
-<table>
+<table id="1-9-3-1-248-ses-longgu-mousi">
 <tr>
 <td>SES</td>
 <td>Longgu</td>
@@ -2247,7 +2247,7 @@ Note that the Malaita-Makira languages of SES have formed a new transitive verb 
 
 Although the forms attributed to POc _&ast;muju_ 'be terminated' look remarkably similar to those attributed to &ast;ma-utus, the differences in form and meaning are consistent enough to require a separate reconstruction:
 
-<table>
+<table id="1-9-3-1-248-POc-muju-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -2357,7 +2357,7 @@ cf. also:
 
 <a id="p-249"></a>
 
-<table>
+<table id="1-9-3-1-249-POc-koti-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -2455,7 +2455,7 @@ cf. also:
 
 
 
-<table>
+<table id="1-9-3-1-249-POc-pari-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -2499,7 +2499,7 @@ cf. also:
 
 
 
-<table>
+<table id="1-9-3-1-249-POc-puti-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -2552,7 +2552,7 @@ cf. also:
 
 
 
-<table>
+<table id="1-9-3-1-249-PEOc-polos-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td>
@@ -2599,7 +2599,7 @@ cf. also:
 
 <a id="p-250"></a>
 
-<table>
+<table id="1-9-3-1-250-POc-siba-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -2667,7 +2667,7 @@ cf. also:
 
 The reconstructions below are separated from those of splitting in §3.8largely because their meaning entailed cutting rather than other modes of separation.
 
-<table>
+<table id="1-9-3-2-250-POc-totok-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -2719,7 +2719,7 @@ The reconstructions below are separated from those of splitting in §3.8largely 
 
 
 
-<table>
+<table id="1-9-3-2-250-POc-toki-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -2772,7 +2772,7 @@ The reconstructions below are separated from those of splitting in §3.8largely 
 
 
 
-<table>
+<table id="1-9-3-2-250-POc-ppasi-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -2843,7 +2843,7 @@ cf. also:
 
 <a id="p-251"></a>
 
-<table>
+<table id="1-9-3-2-251-POc-poka-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -2924,7 +2924,7 @@ cf. also:
 
 The two items below, POc _&ast;taba(s)_, _&ast;taba(s)-i-_ 'cut' and POc _&ast;tapa(s)_, _&ast;tapas-i-_ 'cut into, incise', both appear to reflect PMP _&ast;tabas_ 'chop down, cut away'. Although both are formally good reflexes of PMP _&ast;tabas_ (Ch. 2, §2.4), it is very rare to find two POc reflexes of a PMP item which differ from each other in the voicing of their medial consonant, and we are unable to explain this.
 
-<table>
+<table id="1-9-3-2-251-POc-tabas-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -2998,7 +2998,7 @@ The two items below, POc _&ast;taba(s)_, _&ast;taba(s)-i-_ 'cut' and POc _&ast;t
 
 <a id="p-252"></a>
 
-<table>
+<table id="1-9-3-2-252-POc-tapas-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -3091,7 +3091,7 @@ The two verbs below refer to cutting wood or shell to shape it or carve it in th
 
 The reconstruction of POc _&ast;sapʷi_, as distinct from _&ast;sapi_ (§3.7), is justified by the semantic contrast between the two sets, and by unambiguous reflexes of POc &ast;_pʷ_ (Tawala, Dobu, Tolai, Bauro _-p-_, Port Sandwich _vʷ_).
 
-<table>
+<table id="1-9-3-3-252-POc-sapi-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -3174,7 +3174,7 @@ The reconstruction of POc _&ast;sapʷi_, as distinct from _&ast;sapi_ (§3.7), i
 
 
 
-<table>
+<table id="1-9-3-3-252-POc-kalas-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -3223,7 +3223,7 @@ The reconstruction of POc _&ast;sapʷi_, as distinct from _&ast;sapi_ (§3.7), i
 
 The two verbs below referred to cutting into parts of the human body. The PEOc term _&ast;tepe_ almost certainly referred to circumcision. If Motu _se-sehai_ is cognate, then the term is of POc antiquity, but both its form and meaning become less clear.
 
-<table>
+<table id="1-9-3-4-253-POc-tepai-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -3286,7 +3286,7 @@ The two verbs below referred to cutting into parts of the human body. The PEOc t
 
 
 
-<table>
+<table id="1-9-3-4-253-PEOc-soni-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td>
@@ -3342,7 +3342,7 @@ The two verbs below referred to cutting into parts of the human body. The PEOc t
 
 The two verbs reconstructed below referred to cutting, but the glosses of their reflexes do not allow us to reach clear conclusions about the kinds of cutting they were used for.
 
-<table>
+<table id="1-9-3-5-253-POc-qiris-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -3402,7 +3402,7 @@ The two verbs reconstructed below referred to cutting, but the glosses of their 
 
 <a id="p-254"></a>
 
-<table>
+<table id="1-9-3-5-254-POc-kolo-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -3470,7 +3470,7 @@ cf. also:
 ### 3.6. Sharpen, pare, shave
 
 
-<table>
+<table id="1-9-3-6-254-POc-supi-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -3603,7 +3603,7 @@ For similar unexplained fronting of the vowel in Central Pacific languages see a
 
 <a id="p-255"></a>
 
-<table>
+<table id="1-9-3-6-255-POc-tajim-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -3708,7 +3708,7 @@ We may divide the verbs in this subsection into three groups:
 
 POc _&ast;tosi_ 'score, split, pull apart lengthwise' is included here because it denotes an act preparatory to the splitting of, e.g., pandanus leaves, an action denoted by reflexes of some of the verbs listed above.
 
-<table>
+<table id="1-9-3-7-255-POc-kulit-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -3791,7 +3791,7 @@ POc _&ast;Risi(q)_ is also supported by external (Philippine) cognates with mean
 
 Of the Polynesian reflexes, we have, on grounds of meaning, attributed Rennellese _isi_ 'scoop, scrape (coconut meat from shell)' to  POc _&ast;isi_ but Samoan _isi_ etc to  POc _&ast;Risi(q)_.
 
-<table>
+<table id="1-9-3-7-256-POc-isi-a">
 <tr>
 <td><strong>PCEMP</strong></td><td> </td>
 <td>
@@ -3841,7 +3841,7 @@ Of the Polynesian reflexes, we have, on grounds of meaning, attributed Rennelles
 
 <a id="p-257"></a>
 
-<table>
+<table id="1-9-3-7-257-POc-sisi-a">
 <tr>
 <td><strong>PCEMP</strong></td><td> </td>
 <td>
@@ -3917,7 +3917,7 @@ Of the Polynesian reflexes, we have, on grounds of meaning, attributed Rennelles
 
 
 
-<table>
+<table id="1-9-3-7-257-POc-risiq-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -4003,7 +4003,7 @@ POc _&ast;tosi_ was evidently used of the action of scoring something with a poi
 
 <a id="p-258"></a>
 
-<table>
+<table id="1-9-3-7-258-POc-tosi-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -4075,7 +4075,7 @@ cf. also:
 </table>
 
 
-<table>
+<table id="1-9-3-7-258-POc-sali-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -4115,7 +4115,7 @@ cf. also:
 
 The contrast between PEOc _&ast;sapi_ and POc _&ast;sapʷi_ 'carve into shape, trim (with axe or adze), whittle', is referred to in §3.3. Note, however, that Gela _sapi_ formally reflects _&ast;sapʷi_ rather than _&ast;sapi_, and is included below on semantic grounds:
 
-<table>
+<table id="1-9-3-7-258-PEOc-sapi-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td>
@@ -4163,7 +4163,7 @@ The contrast between PEOc _&ast;sapi_ and POc _&ast;sapʷi_ 'carve into shape, t
 
 
 
-<table>
+<table id="1-9-3-7-258-POc-papak-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -4197,7 +4197,7 @@ The contrast between PEOc _&ast;sapi_ and POc _&ast;sapʷi_ 'carve into shape, t
 
 <a id="p-259"></a>
 
-<table>
+<table id="1-9-3-7-259-POc-kati-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -4266,7 +4266,7 @@ The contrast between PEOc _&ast;sapi_ and POc _&ast;sapʷi_ 'carve into shape, t
 
 The item above shows a sporadic change from POc _&ast;a_ to PEOc _&ast;e_. This resembles the change found in some reflexes of POc _&ast;kali_, _&ast;keli_ 'dig' (Ch. 5, §5.4), but in the latter case forms with both vowels must be reconstructed for POco
 
-<table>
+<table id="1-9-3-7-259-POc-ppilit-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -4335,7 +4335,7 @@ There are a number of verbs of splitting, apparently distinguished by the exact 
 
 <a id="p-260"></a>
 
-<table>
+<table id="1-9-3-8-260-POc-ppolaq-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -4409,7 +4409,7 @@ cf. also:
 </table>
 
 
-<table>
+<table id="1-9-3-8-260-POc-palaq-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -4509,7 +4509,7 @@ cf. also:
 
 The forms above suggest the following history. The POc form was (on MP evidence) _&ast;polaq_. Initial _&ast;po-_ first became _&ast;pʷo-_ through spread of lip-rounding from vowel to consonant, then _&ast;pʷo-_ dissimilated to _&ast;pʷa-_. Either each of these forms occurred in the speech of the POc community, or (less plausibly) independent parallel changes occurred in various daughter languages. Bauan _bola_ also points to a POc doublet _&ast;bolaq_ (Ch. 2, §3.1.3).
 
-<table>
+<table id="1-9-3-8-260-POc-potak-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -4609,7 +4609,7 @@ The forms above suggest the following history. The POc form was (on MP evidence)
 
 <a id="p-261"></a>
 
-<table>
+<table id="1-9-3-8-261-POc-botak-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -4658,7 +4658,7 @@ cf. also:
 </table>
 
 
-<table>
+<table id="1-9-3-8-261-POc-kakas-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -4728,7 +4728,7 @@ cf. also:
 </table>
 
 
-<table>
+<table id="1-9-3-8-261-POc-pisak-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -4790,7 +4790,7 @@ For other possible reflexes of POc _&ast;pisa(k)_, _&ast;pisak-i-_ 'split', see 
 
 <a id="p-262"></a>
 
-<table>
+<table id="1-9-3-8-262-POc-wakaq-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -4840,7 +4840,7 @@ For other possible reflexes of POc _&ast;pisa(k)_, _&ast;pisak-i-_ 'split', see 
 
 Verbs of tearing refer basically to forcible separation.
 
-<table>
+<table id="1-9-3-9-262-POc-sarek-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -4952,7 +4952,7 @@ Verbs of tearing refer basically to forcible separation.
 
 
 
-<table>
+<table id="1-9-3-9-262-POc-sirie-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -5018,7 +5018,7 @@ Verbs of tearing refer basically to forcible separation.
 
 <a id="p-263"></a>
 
-<table>
+<table id="1-9-3-9-263-POc-sika-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -5084,7 +5084,7 @@ The terms listed below entail formal and semantic overlaps to a seemingly embara
 | POc | _&ast;soka_, _&ast;soka-i-_ | (V) 'pierce; stab, poke hole in (s.t.)'                                                      |
 | POc | _&ast;sua_              | (N, v) 'spear (weapon retained in the hand)'                                                 |
 
-<table>
+<table id="1-9-4-1-263-POc-susuk-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -5141,7 +5141,7 @@ The terms listed below entail formal and semantic overlaps to a seemingly embara
 
 
 
-<table>
+<table id="1-9-4-1-263-POc-suki-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -5242,7 +5242,7 @@ The terms listed below entail formal and semantic overlaps to a seemingly embara
 
 <a id="p-264"></a>
 
-<table>
+<table id="1-9-4-1-264-POc-turi-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -5329,7 +5329,7 @@ The terms listed below entail formal and semantic overlaps to a seemingly embara
 
 
 
-<table>
+<table id="1-9-4-1-264-POc-susuri-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -5367,7 +5367,7 @@ The terms listed below entail formal and semantic overlaps to a seemingly embara
 
 
 
-<table>
+<table id="1-9-4-1-264-POc-suiri-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -5414,7 +5414,7 @@ The terms listed below entail formal and semantic overlaps to a seemingly embara
 
 <a id="p-265"></a>
 
-<table>
+<table id="1-9-4-1-265-POc-soka-a">
 <tr>
 <td><strong>PCEMP</strong></td><td> </td>
 <td>
@@ -5530,7 +5530,7 @@ The terms listed below entail formal and semantic overlaps to a seemingly embara
 
 
 
-<table>
+<table id="1-9-4-1-265-POc-sua-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -5609,7 +5609,7 @@ Drilling or boring was performed by rotating a harder implement, e.g. one with a
 
 None of the first three reconstructions is particularly well supported by the evidence, and their formal similarity leaves us questioning whether there is a derivational relationship between them. However, the evidence does not at this stage allow us to combine them. They all refer to actions which entail turning an instrument in order to make a hole.
 
-<table>
+<table id="1-9-4-2-266-POc-puruk-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -5642,7 +5642,7 @@ None of the first three reconstructions is particularly well supported by the ev
 
 
 
-<table>
+<table id="1-9-4-2-266-POc-buru-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -5709,7 +5709,7 @@ cf. also:
 </table>
 
 
-<table>
+<table id="1-9-4-2-266-PWOc-barie-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
 <td>
@@ -5757,7 +5757,7 @@ The following item may be reconstructable only for PEOc. The two WOc items have 
 
 <a id="p-267"></a>
 
-<table>
+<table id="1-9-4-2-267-POc-paro-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -5870,7 +5870,7 @@ The most general term for 'hit' in POc was _&ast;punuq_, _&ast;punuq-i-_, often 
 
 <a id="p-268"></a>
 
-<table>
+<table id="1-9-5-1-268-POc-punuq-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -5981,7 +5981,7 @@ The most general term for 'hit' in POc was _&ast;punuq_, _&ast;punuq-i-_, often 
 
 
 
-<table>
+<table id="1-9-5-1-268-POc-qubu-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -6094,7 +6094,7 @@ The morphological relationship between intransitive &ast;qubu and transitive _&a
 
 <a id="p-269"></a>
 
-<table>
+<table id="1-9-5-1-269-POc-raput-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -6292,7 +6292,7 @@ The items below, POc _&ast;tutuk_, _&ast;tuki-_ and _&ast;putu(k)_/_&ast;butu(k)
 
 <a id="p-270"></a>
 
-<table>
+<table id="1-9-5-1-270-POc-tutuk-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -6414,7 +6414,7 @@ The items below, POc _&ast;tutuk_, _&ast;tuki-_ and _&ast;putu(k)_/_&ast;butu(k)
 
 
 
-<table>
+<table id="1-9-5-1-270-POc-tuki-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -6507,7 +6507,7 @@ The items below, POc _&ast;tutuk_, _&ast;tuki-_ and _&ast;putu(k)_/_&ast;butu(k)
 
 POc &ast;putu(k) and &ast;butu(k), morphological variants of the same verb (Ch. 2, §3.1.3), referred to the sound of repeated knocking, rather than the action of hammering.
 
-<table>
+<table id="1-9-5-1-271-POc-putuk-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -6559,7 +6559,7 @@ POc &ast;putu(k) and &ast;butu(k), morphological variants of the same verb (Ch. 
 
 
 
-<table>
+<table id="1-9-5-1-271-POc-butuk-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -6604,7 +6604,7 @@ POc &ast;putu(k) and &ast;butu(k), morphological variants of the same verb (Ch. 
 
 The verbs reconstructed below denote a variety of kinds of hitting:
 
-<table>
+<table id="1-9-5-1-271-POc-qatu-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -6730,7 +6730,7 @@ The verbs reconstructed below denote a variety of kinds of hitting:
 
 <a id="p-272"></a>
 
-<table>
+<table id="1-9-5-1-272-POc-babak-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -6786,7 +6786,7 @@ The verbs reconstructed below denote a variety of kinds of hitting:
 
 
 
-<table>
+<table id="1-9-5-1-272-POc-baki-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -6824,7 +6824,7 @@ The verbs reconstructed below denote a variety of kinds of hitting:
 
 
 
-<table>
+<table id="1-9-5-1-272-POc-tupuk-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -6895,7 +6895,7 @@ The verbs reconstructed below denote a variety of kinds of hitting:
 
 A number of Eastern Oceanic items reflect a PEOc form _&ast;tipʷa_, and it is just possible that this is descended from a separate POc etymon.
 
-<table>
+<table id="1-9-5-1-273-POc-pasarr-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -6963,7 +6963,7 @@ A number of Eastern Oceanic items reflect a PEOc form _&ast;tipʷa_, and it is j
 
 
 
-<table>
+<table id="1-9-5-1-273-POc-sapuk-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -7009,7 +7009,7 @@ A number of Eastern Oceanic items reflect a PEOc form _&ast;tipʷa_, and it is j
 
 
 
-<table>
+<table id="1-9-5-1-273-PCP-sau-a">
 <tr>
 <td><strong>PCP</strong></td><td> </td>
 <td>
@@ -7059,7 +7059,7 @@ A number of Eastern Oceanic items reflect a PEOc form _&ast;tipʷa_, and it is j
 
 The final item is reconstructable only for PCP and appears to be derived from a noun:
 
-<table>
+<table id="1-9-5-1-273-PCP-vbasu-a">
 <tr>
 <td><strong>PCP</strong></td><td> </td>
 <td>
@@ -7128,7 +7128,7 @@ The remaining verbs in this subsection all appear to have been used transitively
 | PEOc | &ast;pora(k), &ast;porak-i-     | 'break, damage'            |
 | POc  | &ast;rabo(k)                | 'break, smash'             |
 
-<table>
+<table id="1-9-5-2-274-POc-posak-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -7241,7 +7241,7 @@ The remaining verbs in this subsection all appear to have been used transitively
 
 <a id="p-275"></a>
 
-<table>
+<table id="1-9-5-2-275-POc-paras-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -7279,7 +7279,7 @@ The remaining verbs in this subsection all appear to have been used transitively
 
 
 
-<table>
+<table id="1-9-5-2-275-POc-ppogaq-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -7381,7 +7381,7 @@ The remaining verbs in this subsection all appear to have been used transitively
 
 
 
-<table>
+<table id="1-9-5-2-275-POc-momok-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -7438,7 +7438,7 @@ The remaining verbs in this subsection all appear to have been used transitively
 
 
 
-<table>
+<table id="1-9-5-2-275-POc-pitak-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -7502,7 +7502,7 @@ The remaining verbs in this subsection all appear to have been used transitively
 
 <a id="p-276"></a>
 
-<table>
+<table id="1-9-5-2-276-POc-pitik-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -7535,7 +7535,7 @@ The remaining verbs in this subsection all appear to have been used transitively
 
 
 
-<table>
+<table id="1-9-5-2-276-POc-puqar-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -7593,7 +7593,7 @@ The remaining verbs in this subsection all appear to have been used transitively
 
 
 
-<table>
+<table id="1-9-5-2-276-PEOc-porak-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td>
@@ -7656,7 +7656,7 @@ cf. also:
 </table>
 
 
-<table>
+<table id="1-9-5-2-276-POc-rabok-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -7725,7 +7725,7 @@ The second set also seems to reflect a single PAn root, namely _&ast;-pak_ 'brea
 | POc | &ast;sapaki | 'pluck off, break off (leaves) with the hand' |
 | POc | &ast;paki   | 'pluck, break off (leaves) with the hand'     |
 
-<table>
+<table id="1-9-6-1-277-POc-puput-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -7797,7 +7797,7 @@ The second set also seems to reflect a single PAn root, namely _&ast;-pak_ 'brea
 
 
 
-<table>
+<table id="1-9-6-1-277-POc-puti-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -7925,7 +7925,7 @@ POc _&ast;puti-_ above bears a close formal resemblance to POc _&ast;pʷuti[-] '
 
 <a id="p-278"></a>
 
-<table>
+<table id="1-9-6-1-278-POc-saput-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -8002,7 +8002,7 @@ cf. also:
 </table>
 
 
-<table>
+<table id="1-9-6-1-278-POc-taput-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -8065,7 +8065,7 @@ cf. also:
 
 PEOc _&ast;tau(s,t)_, _&ast;tau(s,t)-i-_ below appears to represent an irregular development of the etymon above, with loss of medial _&ast;-p-_.
 
-<table>
+<table id="1-9-6-1-279-PEOc-taust-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td>
@@ -8094,7 +8094,7 @@ PEOc _&ast;tau(s,t)_, _&ast;tau(s,t)-i-_ below appears to represent an irregular
 
 
 
-<table>
+<table id="1-9-6-1-279-POc-sapaki-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -8157,7 +8157,7 @@ cf. also:
 </table>
 
 
-<table>
+<table id="1-9-6-1-279-POc-paki-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -8229,7 +8229,7 @@ cf. also:
 ### 6.2. Break off, snap off
 
 
-<table>
+<table id="1-9-6-2-279-POc-pati-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -8280,7 +8280,7 @@ cf. also:
 
 <a id="p-280"></a>
 
-<table>
+<table id="1-9-6-2-280-POc-lopak-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -8318,7 +8318,7 @@ cf. also:
 ### 6.3. Pinch, nip
 
 
-<table>
+<table id="1-9-6-3-280-POc-kinit-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -8460,7 +8460,7 @@ cf. also:
 
 
 
-<table>
+<table id="1-9-6-3-280-POc-ginit-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -8489,7 +8489,7 @@ cf. also:
 ### 6.4. Unhook, hook
 
 
-<table>
+<table id="1-9-6-4-280-PEOc-suqi-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td>
@@ -8542,7 +8542,7 @@ cf. also:
 
 The verb below appears to be derived from a noun PMP/POc _&ast;kawit_ 'hook '. This noun bears a remarkable resemblance to PMP/POc _&ast;kawil_ 'hook, fish hook' (Ch. 8, §4), and we take it that the latter may well represent an irregular offshoot of the former at some time in the distant past.
 
-<table>
+<table id="1-9-6-4-281-POc-kawit-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -8620,7 +8620,7 @@ The verb below appears to be derived from a noun PMP/POc _&ast;kawit_ 'hook '. T
 
 
 
-<table>
+<table id="1-9-6-4-281-POc-gawit-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -8670,7 +8670,7 @@ POc evidently had a substantial number of verbs used of squeezing or wringing so
 
 <a id="p-282"></a>
 
-<table>
+<table id="1-9-7-None-282-POc-ppippit-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -8766,7 +8766,7 @@ cf. also:
 </table>
 
 
-<table>
+<table id="1-9-7-None-282-POc-ppiti-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -8824,7 +8824,7 @@ cf. also:
 
 
 
-<table>
+<table id="1-9-7-None-282-POc-popos-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -8863,7 +8863,7 @@ cf. also:
 
 <a id="p-283"></a>
 
-<table>
+<table id="1-9-7-None-283-POc-posi-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -8945,7 +8945,7 @@ Blust (ACD) has also reconstructed PMP _&ast;pe(R)cit_ and _&ast;becit_, both 's
 
 Also reconstructable is PNNG _&ast;(p,pʷ)isa(k)_, _&ast;(p,pʷ)isak-i-_ 'squeeze (grated coconut +)'. It seems probable that this is a reflex of POc _&ast;pisa(k)_, _&ast;pisak-i-_ 'split' (§3.8) which has undergone a change in meaning (essentially from 'split a coconut to obtain its flesh' to 'squeeze the coconut flesh to obtain its sap'). The partial formal similarity of this item to those above may have abetted this shift.
 
-<table>
+<table id="1-9-7-None-283-PNNG-ppisak-a">
 <tr>
 <td><strong>PNNG</strong></td><td> </td>
 <td>
@@ -9020,7 +9020,7 @@ cf. also:
 </table>
 
 
-<table>
+<table id="1-9-7-None-283-POc-poros-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -9080,7 +9080,7 @@ cf. also:
 
 <a id="p-284"></a>
 
-<table>
+<table id="1-9-7-None-284-POc-porosi-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -9115,7 +9115,7 @@ cf. also:
 
 It seems likely that in some languages reflexes of POc _&ast;poRo(s)_ 'squeeze out, wring out (liquid) and POc _&ast;piro[-]_ 'twist together' or PEOc _&ast;pilo(s)_, _&ast;pilos-i-_ 'make a cord by twisting fibres on the thigh' have been conflated. Thus the items below have meanings usually associated with reflexes of _&ast;poRo(s)_ but their forms reflect _&ast;piro_ or _&ast;pilo(s)_, _&ast;pilos-i-_:
 
-<table>
+<table id="1-9-7-None-284-pt-iduna-vilo">
 <tr>
 <td>PT</td>
 <td>Iduna</td>
@@ -9155,7 +9155,7 @@ It seems likely that in some languages reflexes of POc _&ast;poRo(s)_ 'squeeze o
 
 Note that the reflexes of _&ast;poRos-i-_ above are all WOc, whilst those of _&ast;pilos-i-_ are EOc. This distribution suggests that conflation occurred in PEOc, with reflexes of POc _&ast;piro[-]_ 'twist together' and POc _&ast;poRo(s)_ 'squeeze out, wring out (liquid) becoming conflated both formally and semantically, giving rise to _pilos-i-_ in place of _&ast;poRos-i-_.
 
-<table>
+<table id="1-9-7-None-284-POc-momos-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -9186,7 +9186,7 @@ Note that the reflexes of _&ast;poRos-i-_ above are all WOc, whilst those of _&a
 
 
 
-<table>
+<table id="1-9-7-None-284-POc-losit-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -9263,7 +9263,7 @@ Note that the reflexes of _&ast;poRos-i-_ above are all WOc, whilst those of _&a
 
 The derivational relationship between the pair of verbs below, PEOc _&ast;gugu(m)_, _&ast;gum-i-_ 'grasp in fist, clench fist', evidently still subsists in some Pn languages. Although PEOc _&ast;gugu(m)_ is to our knowledge only reflected in Pn languages, this relationship persists and must go back to PEOc and probably to POc. There is an obvious historical relationship between this pair and Dempwolff's reconstruction of PMP _&ast;gemgem_ 'make a fist', but the reconstructable POc/PEOc vowel is 'wrong': _&ast;u_ for expected _&ast;o_.
 
-<table>
+<table id="1-9-7-None-285-PEOc-gugum-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -9295,7 +9295,7 @@ The derivational relationship between the pair of verbs below, PEOc _&ast;gugu(m
 
 
 
-<table>
+<table id="1-9-7-None-285-PEOc-gumi-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td>
@@ -9360,7 +9360,7 @@ The derivational relationship between the pair of verbs below, PEOc _&ast;gugu(m
 
 The vowel is also 'wrong' (except perhaps in the Arosi reflex) in the pair below, which, despite its formal and semantic similarity to the pair above, seems to have a different PMP origin. Similarity has apparently ensured that no language reflects both forms of each pair. Indeed, I suspect that some forms above are historical conflations of reflexes of PEOc _&ast;gumi-_ and _&ast;gumu_ (from POc _&ast;gumu(t)_).
 
-<table>
+<table id="1-9-7-None-285-POc-gumut-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -9421,7 +9421,7 @@ The verbs in this section have to do with twisting, plaiting and braiding in gen
 | POc | &ast;tiki[-] (V)        | 'plait (mat +)' (ACD)                 |
 | POc | &ast;pai                | 'weave'                               |
 
-<table>
+<table id="1-9-8-None-286-POc-piri-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -9558,7 +9558,7 @@ cf. also:
 
 <a id="p-287"></a>
 
-<table>
+<table id="1-9-8-None-287-PEOc-piripiri-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td>
@@ -9605,7 +9605,7 @@ Reduplication was regularly used to form intransitive verbs from verbs which wer
 
 The two terms below have undoubtedly been conflated in some languages, but the data justify separate reconstructions. With regard to the origin of PEOc _&ast;pilo(s)_, _&ast;pilos-i_, see the discussion associated with POc _&ast;poRo(s)_, _&ast;poRos-i-_ above (§7).
 
-<table>
+<table id="1-9-8-None-287-POc-piro-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -9697,7 +9697,7 @@ cf. also:
 </table>
 
 
-<table>
+<table id="1-9-8-None-287-PEOc-pilos-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td>
@@ -9835,7 +9835,7 @@ cf. also:
 
 An unrelated PPn term has been reconstructed for the same process, _&ast;amo_ 'prepare fibres for string-making (by rubbing between hands or on thigh); prepared fibre' ([Biggs 1993](../references.md#source-Biggs1993))
 
-<table>
+<table id="1-9-8-None-288-POc-loqi-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -9879,7 +9879,7 @@ An unrelated PPn term has been reconstructed for the same process, _&ast;amo_ 'p
 
 
 
-<table>
+<table id="1-9-8-None-288-PWOc-mali-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
 <td>
@@ -9913,7 +9913,7 @@ An unrelated PPn term has been reconstructed for the same process, _&ast;amo_ 'p
 
 
 
-<table>
+<table id="1-9-8-None-288-POc-pijir-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -9984,7 +9984,7 @@ An unrelated PPn term has been reconstructed for the same process, _&ast;amo_ 'p
 
 <a id="p-289"></a>
 
-<table>
+<table id="1-9-8-None-289-POc-boquk-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -10037,7 +10037,7 @@ An unrelated PPn term has been reconstructed for the same process, _&ast;amo_ 'p
 
 
 
-<table>
+<table id="1-9-8-None-289-PWOc-buogo-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
 <td>
@@ -10087,7 +10087,7 @@ cf. also:
 
 The two terms below, POc _&ast;kili(s)_, _&ast;kilis-i-_ 'twist, bore, rotate' and POc _&ast;wiri(t)_ 'twist, turn, revolve', are verbs of rotating, whose reflexes vary among twisting, drilling and braiding.
 
-<table>
+<table id="1-9-8-None-289-POc-kilis-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -10154,7 +10154,7 @@ cf. also:
 
 The term below bears a formal and semantic resemblance to POc &ast;piri 'twist' (§8) but is distinct from it:
 
-<table>
+<table id="1-9-8-None-289-POc-wirit-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -10205,7 +10205,7 @@ The term below bears a formal and semantic resemblance to POc &ast;piri 'twist' 
 ## 9. Bending and folding
 
 
-<table>
+<table id="1-9-9-None-290-POc-lokut-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -10305,7 +10305,7 @@ The second verb, _&ast;bukuti_, is odd, in that it implies a PMP root _&ast;&ast
 
 <a id="p-291"></a>
 
-<table>
+<table id="1-9-10-None-291-POc-buku-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -10353,7 +10353,7 @@ The second verb, _&ast;bukuti_, is odd, in that it implies a PMP root _&ast;&ast
 
 
 
-<table>
+<table id="1-9-10-None-291-POc-bukuti-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -10398,7 +10398,7 @@ The second verb, _&ast;bukuti_, is odd, in that it implies a PMP root _&ast;&ast
 
 The verb POc _&ast;pʷita_ 'tie by encircling' was evidently used of tying a cord around, e.g., a limb (see also Ch. 8, § 13):
 
-<table>
+<table id="1-9-10-None-291-POc-pita-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -10506,7 +10506,7 @@ The verb POc _&ast;pʷita_ 'tie by encircling' was evidently used of tying a cor
 
 POc _&ast;paqu(s)_, _&ast;paqus-i-_ was apparently used of tying together larger objects, like the parts of a canoe.
 
-<table>
+<table id="1-9-10-None-292-POc-paqus-a">
 <tr>
 <td><strong>PCEMP</strong></td><td> </td>
 <td>
@@ -10644,7 +10644,7 @@ POc _&ast;paqu(s)_, _&ast;paqus-i-_ was apparently used of tying together larger
 
 It is just possible that the item above is in fact identical to POc _&ast;paus_, _&ast;paus-i-_ 'weave, plait' (Ch. 4, §3.1.1). Unfortunately, we have found no language in which reflexes of the two items are in contrast. On the other hand, we find widely scattered reflexes with two separate sets of glosses, 'weave, plait' and 'bind, lash, fasten', and it seems judicious to keep them apart.
 
-<table>
+<table id="1-9-10-None-292-POc-pisi-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -10727,7 +10727,7 @@ It is just possible that the item above is in fact identical to POc _&ast;paus_,
 
 The item below, POc _&ast;kiti_ 'tie, bind', is reconstructed at POc level because it is fairly clear that there was a PAn root _&ast;-kit_. This, according to the theory of PAn monosyllabic roots outlined in Ch. 2, §3.1.3, would have resulted in a PMP _&ast;&ast;kit-kit_ 'tie, fasten' (as yet not directly attested), and this in its turn would have given rise to POc _&ast;&ast;kiki(t)_ and _&ast;kit-i-_, of which only the latter is attested:
 
-<table>
+<table id="1-9-10-None-293-POc-kiti-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -10787,7 +10787,7 @@ The item below, POc _&ast;kiti_ 'tie, bind', is reconstructed at POc level becau
 
 POc had a number of verbs expressing the various ways in which heat can be applied. The reflexes of some of these, like POc _&ast;mʷaRi_ 'roast, burn' (Ch. 6, §3.2), are used almost exclusively in the context of cooking, and are therefore presented in Chapter 6. The reflexes of others, like POc _&ast;tunu_ 'roast, burn' (Ch. 6, §3.2), POc _&ast;raraŋ_, _&ast;raraŋ-i-_ 'warm s.t./s.o.' (Ch. 4, §3.1.1), and POc _&ast;sunu_ 'singe' (Ch. 6, §3.6), are used both for cooking and for other kinds of heat application, and so are given here with reduced cognate sets. Two further terms, POc _&ast;soko(t)_, _&ast;sokot-i-_ 'burn (grass +)' and POc _&ast;tutu(ŋ)_, _&ast;tuŋi_ 'light, set fire to', were used for burning but apparently did not apply to cookery.
 
-<table>
+<table id="1-9-11-None-293-POc-tunu-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -10877,7 +10877,7 @@ POc had a number of verbs expressing the various ways in which heat can be appli
 
 <a id="p-294"></a>
 
-<table>
+<table id="1-9-11-None-294-POc-rara-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -10954,7 +10954,7 @@ POc had a number of verbs expressing the various ways in which heat can be appli
 
 
 
-<table>
+<table id="1-9-11-None-294-POc-sunu-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -11007,7 +11007,7 @@ POc had a number of verbs expressing the various ways in which heat can be appli
 
 
 
-<table>
+<table id="1-9-11-None-294-POc-sokot-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -11077,7 +11077,7 @@ cf. also:
 
 <a id="p-295"></a>
 
-<table>
+<table id="1-9-11-None-295-POc-tutu-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -11125,7 +11125,7 @@ cf. also:
 
 
 
-<table>
+<table id="1-9-11-None-295-POc-tui-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>

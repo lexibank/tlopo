@@ -486,7 +486,7 @@ _&ast;taliŋa_
 
 A term denoting all plants is not reconstructable for POc. A number of modern Oceanic languages do have a general term for plants, but these terms appear to be post-POc innovations. The list below gives the general terms for 'plant' in a number of languages, but none are cognate. In NE Ambae and Anejom these gene:ral terms for 'plants' are nominalisations of verbal terms. For example, NE Ambae rivurivu 'plant' is a reduplicated form of the transitive verb _rivu_ 'to plant s.t.', and Anejom _nita-awañ_ is formed from the verb _awañ_ 'to plant' with the instrumental prefix.
 
-<table>
+<table id="3-3-4-1-70-adm-lou-koe">
 <tr>
 <td>Adm</td>
 <td>Lou</td>
@@ -543,7 +543,7 @@ A Proto Micronesian form _&ast;fadoka_ 'planted thing, cultivated plants' is rec
 
 <a id="p-71"></a>
 
-<table>
+<table id="3-3-4-1-71-PMic-fadoka-a">
 <tr>
 <td><strong>PMic</strong></td><td> </td>
 <td>
@@ -581,7 +581,7 @@ A Proto Micronesian form _&ast;fadoka_ 'planted thing, cultivated plants' is rec
 
 
 
-<table>
+<table id="3-3-4-1-71-PMic-fadoki-a">
 <tr>
 <td><strong>PMic</strong></td><td> </td>
 <td>
@@ -629,7 +629,7 @@ If POc speakers did have a category that included all plants, then it appears to
 
 The most stable primary taxon label, in that it is reflected most widely amongst the modern languages is _&ast;kayu_, the general term for trees and other plants with woody stems and branches. While some languages, like Bing, appear to have retained the original vowel-glide-vowel sequence, the majority have simplified it in some way. These changes appear to have occurred reasonably late in the development of this form, since there are closely related languages that show different types of changes. For example, _&ast;kayu_ is reflected as _au_ in Mono, but as _ɣae_ in Nduke, two NW Solomonic languages, and as _kau_ in Bauan and _kai_ in Wayan, two Fijian languages.
 
-<table>
+<table id="3-3-4-2-71-POc-kayu-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -836,7 +836,7 @@ Many reflexes of _&ast;kayu_ have additional senses besides 'tree or shrub', nam
 
 In Polynesian languages there has been a semantic shift and the reflexes of _&ast;kayu_ have the meaning of stem or stalk. The Proto Polynesian term for tree or woody plant was &ast;_raʔakau_. This form was a compound of reflexes of POc _&ast;raqan_ 'branch' and _&ast;kayu_ 'tree', supporting the idea that the presence of a main stem and branching growth structure were the salient features of this category.
 
-<table>
+<table id="3-3-4-2-73-PPn-raakau-a">
 <tr>
 <td><strong>PPn</strong></td><td> </td>
 <td>
@@ -912,7 +912,7 @@ POc _&ast;waRoc_ denoted plants with creeping or climbing growth structure, that
 
 The final consonant of the POc form is reconstructed as _&ast;c_ rather than _&ast;s_, as although the internal Oceanic evidence cannot disambiguate the choice between _&ast;c_ and _&ast;s_, the external evidence points to _&ast;c_.
 
-<table>
+<table id="3-3-4-4-74-POc-waroc-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -1050,7 +1050,7 @@ The final consonant of the POc form is reconstructed as _&ast;c_ rather than _&a
 
 POc _&ast;pali[s,j]i_ appears to have been the generic for plants lacking a main stem and with narrow-leafed foliage, that is grasses and grass-like plants.
 
-<table>
+<table id="3-3-4-5-75-POc-palisji-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -1205,7 +1205,7 @@ Evidence from non-Oceanic languages suggests that _&ast;lumut_ may have been the
 
 <a id="p-77"></a>
 
-<table>
+<table id="3-3-4-6-77-POc-lumut-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1364,7 +1364,7 @@ Evidence from non-Oceanic languages suggests that _&ast;lumut_ may have been the
 
 
 
-<table>
+<table id="3-3-4-6-77-POc-limut-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1469,7 +1469,7 @@ Evidence from non-Oceanic languages suggests that _&ast;lumut_ may have been the
 
 In a number of modern Oceanic languages the life-form term for mushrooms and other fleshy fungi is homophonous with the bodypart term 'ear'. For example, in Wayan Fijian _taliŋa_ denotes fleshy fungi such as mushrooms and bracket fungi as well as 'ear'. The polysemy of 'mushroom' and 'ear' is also found with non-cognate forms in a number of Oceanic languages, such that innovative terms can be seen to have both meanings. For example, in NE Ambae _gʷero_ has both the meaning of 'ear' and of 'mushroom', and the same is true for the Nakanai term _gavusa_ '(a) mushroom (Agaricaceae); ear'. The cognate set for POc _&ast;taliŋa_ below supports the reconstruction of this same polysemy. That the 'mushroom' meaning is not a post-POc innovation is supported by the fact that reflexes of _&ast;taliŋa_ occur in a number of languages with 'mushroom' meanings, but not with the 'ear' meaning. Of the languages in the cognate set below, the four North New Guinea languages, Nakanai, Gela and Tolo are all languages where the reflex of _&ast;taliŋa_ no longer has the meaning of 'ear', but has retained the 'mushroom' meaning. In Anejom _in-ticŋa-_, the reflex of _&ast;taliŋa_, retains only the 'ear' meaning, but the historical presence of the 'mushroom' meaning is indicated by the occurrence of _in-ticŋa-_ in a number of compounds referring to mushrooms. In Rotuman, Bauan Fijian, a number of Polynesian and Micronesian languages terms for mushrooms literally mean 'ear of spirit/ghost'. The Rotuman form _faliŋa ne ʔatua_ and the Tikopian form _tariŋa ŋa a tua_ look to be cognate compounds, but in other languages the second part of the compound does not appear to be cognate.
 
-<table>
+<table id="3-3-4-7-78-POc-talia-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1629,7 +1629,7 @@ The five primary taxa reconstructed here do not appear to have encompassed all p
 
 Ferns and tree-ferns are also plants which do not appear to fit into any of the life-form categories reconstructed for POc. In Kwara'ae there is a general term for tree-ferns, _kʷaʔe_, and a number of other Oceanic languages also have general terms that denote tree-ferns:
 
-<table>
+<table id="3-3-4-8-80-mic-kosraean-po">
 <tr>
 <td>Mic</td>
 <td>Kosraean</td>
@@ -1657,7 +1657,7 @@ From this it seems possible that tree-ferns formed a higher-order taxon in POc, 
 
 In Wayan balabala 'tree-ferns' contrasts with another primary taxon _diŋi_, a generic for at least two types of terrestrial ferns. In Kwara'ae _takuma_ 'Diplazium proliferum' is sometimes used to denote a collection of edible ferns that includes Diplazium proliferum Woodsiaceae, though more commonly ferns are referred to by their individual names. In other languages, such as Iduna, Kosraean, Samoan and Hawaiian there are terms that may denote ferns more generally, but it is not clear from the dictionary definitions. A generic term for ferns does not appear to be reconstructable for POc, and it seems likely that the individual names of ferns were considered to be primary taxa.
 
-<table>
+<table id="3-3-4-8-80-pt-iduna-maiwa">
 <tr>
 <td>PT</td>
 <td>Iduna</td>
@@ -1711,7 +1711,7 @@ It is unclear how pandanus were classified by POc speakers. In Kwara'ae, pandanu
 
 A number of modern Oceanic languages have a category of plants that is glossed as 'weeds', as can be seen from the following list. In a number of languages, including Poeng, Gela and Kwara'ae this category appears to denote plants growing unwanted in garden plots. However, these categories do not have cognate labels. POc _&ast;talu(n)_ 'old garden, fallow land, land returning to secondary growth' (vol.1, ch.5, §3.2) may have denoted land with this type of vegetation, but a term for the vegetation itself does not appear to be reconstructable.
 
-<table>
+<table id="3-3-4-8-81-nng-maposbuang-vav">
 <tr>
 <td>NNG</td>
 <td>Mapos Buang</td>

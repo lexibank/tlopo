@@ -18,7 +18,7 @@ Much of this chapter is reproduced from [Lichtenberk](../references.md#source-Li
 
 There is a well-attested term for fire that can be traced back to PAn:
 
-<table>
+<table id="1-6-2-None-142-POc-api-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -108,7 +108,7 @@ Fire was produced throughout the Oceanic world by friction. Often this was achie
 
 Figure 19: POc &ast;suka, &ast;suka-i 'make fire with fire-plough'
 
-<table>
+<table id="1-6-2-1-144-POc-suka-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -168,7 +168,7 @@ Figure 19: POc &ast;suka, &ast;suka-i 'make fire with fire-plough'
 
 A second term is POc _&ast;usu(q,p)_, from PMP _&ast;usuq_ whose primary meaning is probably 'rub abrasively', but which in a number of Oceanic languages is recorded as meaning 'rub to make fire'.
 
-<table>
+<table id="1-6-2-1-144-POc-usuqp-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -232,7 +232,7 @@ A second term is POc _&ast;usu(q,p)_, from PMP _&ast;usuq_ whose primary meaning
 
 A separate term for the upper frictioning stick can be reconstructed, but only for the Central Eastern subgroup of Polynesia:
 
-<table>
+<table id="1-6-2-1-145-PCEPn-kaulima-a">
 <tr>
 <td><strong>PCEPn</strong></td><td> </td>
 <td>
@@ -264,7 +264,7 @@ A Papuan Tip language, Minaveha, likewise uses a compound term for the upper fri
 
 Across the Oceanic region it is possible to find some variation in fire-making methods, although we have no reconstructions for methods other than by fire-plough. Bing on the PNG north coast and Mapos Buang in the Huon Gulf area (both NNG) offer evidence for a method in which rattan or vine is sawn rapidly around a piece of wood:
 
-<table>
+<table id="1-6-2-1-145-nng-maposbuang-vakrur">
 <tr>
 <td>NNG</td>
 <td>Mapos Buang</td>
@@ -291,7 +291,7 @@ Another north coast language, Gedaged, has a term, _wol_, referring to a bow str
 
 In addition to the general term POc _&ast;kaiu_ 'wood, stick ', we can reconstruct a PEOc term _&ast;papia_, specifically for firewood. Note that an identical term is reconstructable for PEOc (cognates in SES and Fiji) with the meaning 'cook in native oven' (§3.1).
 
-<table>
+<table id="1-6-2-2-145-PEOc-papia-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td>
@@ -340,7 +340,7 @@ In addition to the general term POc _&ast;kaiu_ 'wood, stick ', we can reconstru
 
 Blust has reconstructed a PMP term for wood alight but not yet consumed:
 
-<table>
+<table id="1-6-2-3-146-POc-aliton-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -386,7 +386,7 @@ Figure 20: POc _&ast;sulu_ 'dry coconut leaf torch'
 
 A burning brand, typically made from coconut fronds, served as a torch.
 
-<table>
+<table id="1-6-2-3-146-POc-sulu-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -486,7 +486,7 @@ A burning brand, typically made from coconut fronds, served as a torch.
 
 Green and Pawley (Ch. 3, §3.6) note a general term for fireplace or hearth, PMP _&ast;dapuR_, POc _&ast;rapu(R)_, with a frequent secondary meaning, particularly in Oceania, of 'ashes'. Compounding may be used to distinguish the fireplace as 'place of ashes'.
 
-<table>
+<table id="1-6-2-4-147-POc-rapur-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -575,7 +575,7 @@ cf. also:
 
 There is a second term, PAn _&ast;qabu_, POc _&ast;qapu_, with similar reference. Blust (ACD) comments: "_&ast;qabu_ is among the most widespread and stable morphemes in the Austronesian family. It referred to ashes, and prototypically to the ashes in the fireplace (hence its recurrent replacement of PMP &ast;dapuR in the meaning 'hearth')."
 
-<table>
+<table id="1-6-2-4-147-POc-qapu-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -645,7 +645,7 @@ There is a second term, PAn _&ast;qabu_, POc _&ast;qapu_, with similar reference
 
 We would expect to be able to reconstruct a term for a trivet, an arrangement of three stones on which the cooking pot is placed, but no clear reflex of PMP _&ast;dalikan_, 'trivet' ([Blust 1986](../references.md#source-Blust1986)) has been found, in spite of the presence of terms for trivet in north-west Melanesia and Fiji. For example:
 
-<table>
+<table id="1-6-2-5-147-adm-mussau-atukotolu">
 <tr>
 <td>Adm</td>
 <td>Mussau</td>
@@ -701,7 +701,7 @@ We would expect to be able to reconstruct a term for a trivet, an arrangement of
 
 A far more soundly based reconstruction is POc _&ast;qumun_ 'oven made with hot stones, cook in a stone or earth oven', which has reflexes in every major Oceanic subgroup, together with some external cognates.[^2] However, archaeological evidence points to such ovens having much greater antiquity in Near Oceania and Australia than in Southeast Asia (Allen, et al. 1989: 550-551; [Horton 1994](../references.md#source-Horton1994):380-381). The external cognates are therefore regarded as possible borrowings, and a higher-level reconstruction is not proposed.
 
-<table>
+<table id="1-6-2-6-148-POc-qumun-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -805,7 +805,7 @@ A far more soundly based reconstruction is POc _&ast;qumun_ 'oven made with hot 
 
 The usual implement for handling hot stones and food in the oven was tongs, probably a bent or folded piece of cane or midrib of a coconut frond. Note that some terms have been derived from the transitive verb form POc _&ast;kapit-i-_ 'grasp (with tongs)'.
 
-<table>
+<table id="1-6-2-7-148-POc-kapit-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -925,7 +925,7 @@ Figure 21: POc &ast;kapit 'tongs' (from [Nevermann 1933](../references.md#source
 
 Lichtenberk adds a number of other terms which, as well as being used in relation to oven cooking, probably also have more general reference:
 
-<table>
+<table id="1-6-2-7-149-POc-taqon-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1006,7 +1006,7 @@ Lichtenberk adds a number of other terms which, as well as being used in relatio
 
 <a id="p-150"></a>
 
-<table>
+<table id="1-6-2-7-150-POc-pukes-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -1072,7 +1072,7 @@ Lichtenberk adds a number of other terms which, as well as being used in relatio
 
 
 
-<table>
+<table id="1-6-2-7-150-POc-uru-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -1160,7 +1160,7 @@ He has listed terms for a range of cooking methods, with a word of warning as to
 ### 3.1. Cooking in stone oven
 
 
-<table>
+<table id="1-6-3-1-151-PEOc-papi-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td>
@@ -1206,7 +1206,7 @@ Lichtenberk also gives a reconstruction, _&ast;biti_ 'cook with hot stones (eith
 ### 3.2. Roasting, burning, branding
 
 
-<table>
+<table id="1-6-3-2-151-POc-tunu-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -1326,7 +1326,7 @@ Lichtenberk also gives a reconstruction, _&ast;biti_ 'cook with hot stones (eith
 
 <a id="p-152"></a>
 
-<table>
+<table id="1-6-3-2-152-POc-mari-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1382,7 +1382,7 @@ When food was roasted, instead of simply being placed in the fire, it may have b
 
 Two verbs are reconstructable for POc with the meaning 'boil'. The problem is that the sources of data do not usually distinguish between boiling and steaming, both of which are practised in Oceania, 'boil' being the usual gloss. The difference between boiling and steaming lies in the amount of liquid used. For boiling, the food is (more or less) entirely covered with the liquid; for steaming, only a small amount of liquid is used. If POc did have a lexical distinction between the two processes, there is some evidence, albeit weak, that the verb for 'boil' was &ast;nasu and that the one for 'steam' was &ast;napu, It is also conceivable that of the two terms, &ast;nasu was unmarked and could be used to refer to both types of process.
 
-<table>
+<table id="1-6-3-4-152-POc-nasuq-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -1437,7 +1437,7 @@ Two verbs are reconstructable for POc with the meaning 'boil'. The problem is th
 
 <a id="p-153"></a>
 
-<table>
+<table id="1-6-3-4-153-POc-napu-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1475,7 +1475,7 @@ It is possible that the forms attributed to PPT &ast;na(q)u(q) 'clay dish' in Ch
 
 Lichtenberk contributes a POc term which he glosses as 'warm oneself by fire; warm up, reheat (esp. food)' . Ann Chowning has added cognates from Kove, Molima and Nakanai which, like the Pukapuka term, refer to heating of leaves in preparation for mat making (see Chapter 4, §3.1.1).The POc gloss has been generalised accordingly.
 
-<table>
+<table id="1-6-3-5-153-POc-rara-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -1603,7 +1603,7 @@ cf. also:
 
 A term can be reconstructed for the action of singeing food in preparation for cooking:
 
-<table>
+<table id="1-6-3-6-154-POc-sunu-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1669,7 +1669,7 @@ A term can be reconstructed for the action of singeing food in preparation for c
 
 Two similar terms for wrapping food for cooking (baking or roasting), POc _&ast;kapu(t)_, _&ast;kaput-i-_ and POc _&ast;kopu_, have been reconstructed. [Mills](../references.md#source-Mills1981) ([1981](../references.md#source-Mills1981): 73) has proposed PMP _&ast;kaput_ 'close, cover', while [Blust](../references.md#source-Blust1986) ([1986](../references.md#source-Blust1986):45) gives a gloss of 'tie or clasp together' for an identical PMP reconstruction. Oceanic reflexes indicate two distinct terms, although there may have been some blending of meaning in daughter languages. Lichtenberk suggests that the two POc terms may have referred to different ways of wrapping food; [Firth](../references.md#source-Firth1957) ([1957](../references.md#source-Firth1957)), for instance, gives four terms for different ways of wrapping food in Tikopia. From the glosses below, it seems possible that _&ast;kapu(t)_, _&ast;kaput-i-_ referred to covering (as an earth oven is covered), whilst &ast;kopu referred to the wrapping of the food in bundles. For both terms, reflexes indicate wider reference than to food alone. In Polynesia they have come to refer more specifically to clothing or blankets.
 
-<table>
+<table id="1-6-3-7-154-POc-kaput-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -1792,7 +1792,7 @@ Two similar terms for wrapping food for cooking (baking or roasting), POc _&ast;
 
 <a id="p-155"></a>
 
-<table>
+<table id="1-6-3-7-155-POc-kopu-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1896,7 +1896,7 @@ Two similar terms for wrapping food for cooking (baking or roasting), POc _&ast;
 
 Lichtenberk also considers terms for uncooked food. He proposes a general POc term _&ast;(a)mataq_ for raw food (possibly excluding certain foodstuffs) which also refers to unripe foodstuff, such as fruit. Its reflexes in fact seem to reflect two forms, _&ast;mataq_ and _&ast;qa-mataq_, the latter presumably derived from the former, but the function of _&ast;qa-_ is unclear.
 
-<table>
+<table id="1-6-3-8-155-POc-mataq-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -2032,7 +2032,7 @@ Lichtenberk also considers terms for uncooked food. He proposes a general POc te
 
 <a id="p-156"></a>
 
-<table>
+<table id="1-6-3-8-156-POc-qamataq-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -2081,7 +2081,7 @@ Lichtenberk also considers terms for uncooked food. He proposes a general POc te
 
 PAn/PMP _&ast;maqataq_ evidently consisted of _&ast;ma-_ 'anticausative' (Ch. 2, §3.1.2) + _qataq_ 'eat something raw'. The POc reflex _&ast;mataq_ shows irregular loss of medial _&ast;-q-_. The unaffixed base also survived in POc, and is reflected, with meanings similar to _&ast;mataq_, in some Oceanic languages.
 
-<table>
+<table id="1-6-3-8-156-POc-qataq-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -2125,7 +2125,7 @@ PAn/PMP _&ast;maqataq_ evidently consisted of _&ast;ma-_ 'anticausative' (Ch. 2,
 
 Alongside _&ast;qataq_, PAn also had a term _&ast;qetaq_, which retained its verbal use in POc, referring specifically to raw meat, fish and shellfish, and to the eating of such foods:
 
-<table>
+<table id="1-6-3-8-156-POc-kqoda-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -2218,7 +2218,7 @@ Alongside _&ast;qataq_, PAn also had a term _&ast;qetaq_, which retained its ver
 
 Similarly, the term for 'cooked' also meant 'ripe'; both glosses could be subsumed as 'ready to be eaten'.
 
-<table>
+<table id="1-6-3-9-157-POc-maosak-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -2307,7 +2307,7 @@ Similarly, the term for 'cooked' also meant 'ripe'; both glosses could be subsum
 
 Another term with meaning similar to _&ast;maosak_ stresses the good quality of the food:
 
-<table>
+<table id="1-6-3-9-157-POc-manoka-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -2352,7 +2352,7 @@ Lichtenberk (p.277) records two main ways of preserving food in Oceania. One is 
 ### 4.1. Drying, smoking
 
 
-<table>
+<table id="1-6-4-1-158-POc-tapa-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -2381,7 +2381,7 @@ Lichtenberk (p.277) records two main ways of preserving food in Oceania. One is 
 
 In addition, Blust offers the following:
 
-<table>
+<table id="1-6-4-1-158-POc-pakaqasu-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -2425,7 +2425,7 @@ In addition, Blust offers the following:
 
 Malcolm Ross (pers.comm.) reconstructs:
 
-<table>
+<table id="1-6-4-1-158-PNGOc-parra-a">
 <tr>
 <td><strong>PNGOc</strong></td><td> </td>
 <td>
@@ -2464,7 +2464,7 @@ Fermentation of food is geographically much more restricted. Small islands, part
 
 <a id="p-159"></a>
 
-<table>
+<table id="1-6-4-2-159-POc-mara-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -2557,7 +2557,7 @@ Fermentation of food is geographically much more restricted. Small islands, part
 
 
 
-<table>
+<table id="1-6-4-2-159-POc-madrar-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -2645,7 +2645,7 @@ Fermentation of food is geographically much more restricted. Small islands, part
 
 Other terms which in parts of Polynesia refer to fermented breadfruit are derived from POc &ast;maqasin.
 
-<table>
+<table id="1-6-4-2-159-POc-maqasin-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -2734,7 +2734,7 @@ Other terms which in parts of Polynesia refer to fermented breadfruit are derive
 
 We have terms for the action of pounding or crushing, but have been unable to reconstruct any term for the implement or implements involved apart from PWOc _&ast;walu_ 'sago beater' and POc _&ast;ike_ '(bark-cloth) beater' (for the latter, see Ch. 4, §S . l).
 
-<table>
+<table id="1-6-5-1-160-PWOc-walu-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
 <td>
@@ -2784,7 +2784,7 @@ As Blust (ACD) notes, terms dealing with the action of pounding frequently conta
 
 Foodstuffs such as tubers and coconut meat are often grated before further processing. Tubers also need to be scraped to remove dirt. Both processes can be carried out with a shell such as a cockle, and the scraper/grater may be referred to by its shell name. Scrapers and graters are not always separately identified. The same implement may serve both functions, just as the same verb may refer to both actions.
 
-<table>
+<table id="1-6-5-2-161-POc-kukur-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -2839,7 +2839,7 @@ Foodstuffs such as tubers and coconut meat are often grated before further proce
 
 <a id="p-162"></a>
 
-<table>
+<table id="1-6-5-2-162-POc-kasi-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -2916,7 +2916,7 @@ Foodstuffs such as tubers and coconut meat are often grated before further proce
 
 
 
-<table>
+<table id="1-6-5-2-162-PEOc-kari-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td>
@@ -2955,7 +2955,7 @@ Figure 23: POc _&ast;kaRi_, POc _&ast;koRi_ 'bivalve used as food scraper'
 
 <a id="p-163"></a>
 
-<table>
+<table id="1-6-5-2-163-POc-karas-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -3015,7 +3015,7 @@ Figure 23: POc _&ast;kaRi_, POc _&ast;koRi_ 'bivalve used as food scraper'
 
 A number of formally similar terms have been reconstructed for the action of scratching, scraping and grating. Although the reference is often primarily to preparation of foodstuffs, such terms are often used to refer to any similar action such as scratching the skin or scraping the bottom of a canoe.
 
-<table>
+<table id="1-6-5-2-163-POc-karis-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -3117,7 +3117,7 @@ A number of formally similar terms have been reconstructed for the action of scr
 
 
 
-<table>
+<table id="1-6-5-2-163-POc-korras-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -3158,7 +3158,7 @@ A number of formally similar terms have been reconstructed for the action of scr
 
 <a id="p-164"></a>
 
-<table>
+<table id="1-6-5-2-164-POc-goras-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -3186,7 +3186,7 @@ A number of formally similar terms have been reconstructed for the action of scr
 
 
 
-<table>
+<table id="1-6-5-2-164-POc-kori-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -3254,7 +3254,7 @@ A number of formally similar terms have been reconstructed for the action of scr
 
 
 
-<table>
+<table id="1-6-5-2-164-PEOc-koris-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td>
@@ -3302,7 +3302,7 @@ A number of formally similar terms have been reconstructed for the action of scr
 
 
 
-<table>
+<table id="1-6-5-2-164-POc-isi-a">
 <tr>
 <td><strong>PCEMP</strong></td><td> </td>
 <td>
@@ -3352,7 +3352,7 @@ A number of formally similar terms have been reconstructed for the action of scr
 
 <a id="p-165"></a>
 
-<table>
+<table id="1-6-5-2-165-POc-rasi-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -3414,7 +3414,7 @@ Yet another reconstruction is POc _&ast;asa(q)_ 'grate, sharpen by grating or ru
 
 Lichtenberk comments (pp. 280-281) on the recurring sound symbolism evident in these items, a feature which Blust has identified with PAn forms meaning 'rub, scrape, scratch'. Terms with similar sound symbolism readily undergo conflation. Lichtenberk also refers to the possibility that in POc or pre-POc times there was some kind of derivational relation among at least some of the forms, noting that unlike the other forms, _&ast;ko(r,R)as_ took as its direct object a noun phrase referring to the stuff scraped off rather than the object being scraped (e.g. the coconut meat rather than the coconut). (See also Ch. 9, §2.2.)
 
-<table>
+<table id="1-6-5-2-165-PEOc-paros-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td>
@@ -3475,7 +3475,7 @@ Lichtenberk comments (pp. 280-281) on the recurring sound symbolism evident in t
 
 Lichtenberk lists a number of terms for the action of peeling. The first is a transitive verb formed from the base _&ast;kulit_ 'skin'. See also POc _&ast;supi_ 'sharpen, shave, pare' (Ch. 9, §3.6) some of whose reflexes also mean 'peel'.
 
-<table>
+<table id="1-6-5-3-165-POc-kulit-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -3544,7 +3544,7 @@ Lichtenberk lists a number of terms for the action of peeling. The first is a tr
 
 <a id="p-166"></a>
 
-<table>
+<table id="1-6-5-3-166-POc-sisi-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -3612,7 +3612,7 @@ Lichtenberk lists a number of terms for the action of peeling. The first is a tr
 
 
 
-<table>
+<table id="1-6-5-3-166-POc-ppilit-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -3676,7 +3676,7 @@ Lichtenberk lists a number of terms for the action of peeling. The first is a tr
 ### 5.4. Fish scaling
 
 
-<table>
+<table id="1-6-5-4-166-POc-qunapi-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -3724,7 +3724,7 @@ Lichtenberk lists a number of terms for the action of peeling. The first is a tr
 
 The following term may have referred both to the husking of coconuts and to the implement used. This was a sharpened stick, usually set finnly in the ground. The same term is sometimes used to refer to a digging stick.
 
-<table>
+<table id="1-6-5-5-167-POc-kojom-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -3857,7 +3857,7 @@ The following term may have referred both to the husking of coconuts and to the 
 
 POc _&ast;soka_, _soka-i-_ (V) 'pierce; stab' (see Ch. 9, §4.1) (Lichtenberk has _&ast;joka_) and POc _&ast;potak_ 'crack or split open (nuts, coconuts) are also used of husking coconuts:
 
-<table>
+<table id="1-6-5-5-167-POc-potak-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -3955,7 +3955,7 @@ POc _&ast;soka_, _soka-i-_ (V) 'pierce; stab' (see Ch. 9, §4.1) (Lichtenberk ha
 
 The most common method of straining, necessary for processing such foodstuffs as sago and coconut cream, and also used in the production of kava, is by using the fibrous spathe of a coconut frond.
 
-<table>
+<table id="1-6-5-6-168-POc-runut-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -4059,7 +4059,7 @@ The most common method of straining, necessary for processing such foodstuffs as
 ### 5.7. Plucking
 
 
-<table>
+<table id="1-6-5-7-168-POc-puti-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -4162,7 +4162,7 @@ The most common method of straining, necessary for processing such foodstuffs as
 
 Lichtenberk includes several terms for squeezing or wringing:
 
-<table>
+<table id="1-6-5-8-169-POc-poros-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -4209,7 +4209,7 @@ Lichtenberk includes several terms for squeezing or wringing:
 
 
 
-<table>
+<table id="1-6-5-8-169-POc-ppippit-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -4308,7 +4308,7 @@ cf. also:
 
 <a id="p-170"></a>
 
-<table>
+<table id="1-6-5-8-170-POc-posi-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -4394,7 +4394,7 @@ cf. also:
 
 
 
-<table>
+<table id="1-6-5-8-170-POc-losit-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -4468,7 +4468,7 @@ Lichtenberk writes (p.283):
 
 Finally, Lichtenberk lists terms for mixing or stirring:
 
-<table>
+<table id="1-6-5-9-171-POc-monno-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -4496,7 +4496,7 @@ Finally, Lichtenberk lists terms for mixing or stirring:
 
 
 
-<table>
+<table id="1-6-5-9-171-POc-nnaotu-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -4524,7 +4524,7 @@ Finally, Lichtenberk lists terms for mixing or stirring:
 
 
 
-<table>
+<table id="1-6-5-9-171-POc-balur-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -4568,7 +4568,7 @@ Finally, Lichtenberk lists terms for mixing or stirring:
 
 Blust records another:
 
-<table>
+<table id="1-6-5-9-171-POc-quli-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>

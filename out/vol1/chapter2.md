@@ -404,7 +404,7 @@ The symbol √ represents the verb root and <…> an infix after the root-initia
 
 The systemic features relevant to this discussion are that (i) there were two sets of verb forms, the first used in indicative independent clauses and the other in non-indicative independent and dependent clauses; and (ii) those in the first set were formally identical with nominalisations. However, there were probably no nominalisations corresponding with the actor focus forms.
 
-The historical relationship between the PMP and simpler POc system has intrigued various scholars ([Pawley & Reid 1980](../references.md#source-PawleyReid1980), Starosta, Pawley & [Reid 1982](../references.md#source-Reid1982), [Wolff 1980](../references.md#source-Wolff1980)). The POc system in (18) is set out in such a way that it corresponds with (16).
+The historical relationship between the PMP and simpler POc system has intrigued various scholars ([Pawley & Reid 1980](../references.md#source-PawleyReid1980), [Starosta, Pawley & Reid 1982](../references.md#source-StarostaPawleyReid1982), [Wolff 1980](../references.md#source-Wolff1980)). The POc system in (18) is set out in such a way that it corresponds with (16).
 
 | (18)   |                     | nominalisation imperfective   | nominalisation perfective   | verb         |
 |:-------|:--------------------|:------------------------------|:----------------------------|:-------------|

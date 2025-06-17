@@ -49,7 +49,7 @@ The weakest link in linguistic reconstructions is meaning. Semantic change is no
 
 The linguistic comparative method works well only at fairly shallow time depths because cumulative change wears away the evidence of common origin. There have been few cases in which the genetic comparative method has reliably penetrated much deeper than about 6,000 years. No special mystique should be attached to this particular figure - it happens that several of the large, well-defined language families in the world are the outcome of dispersals that began within the last 5,000 to 6,000 years.[^4] When the relevant cognate sets survive, the reconstructions for prehistoric 'artefacts' and 'ecofacts' accessible to historical linguistics cover an extremely wide range of cultural domains - so this discipline is well equipped to recover elements of the perishable material often unavailable to archaeologists as well as cognitive aspects of social organisation, beliefs, and ideology that archaeologists find difficult to infer. However, historical linguistics must look to archaeology to supplement its relatively weak methods for locating reconstructed prehistoric languages in space and in absolute time.
 
-But here an old problem arises: How can reconstructed languages be correlated with archaeological assemblages? For instance, how can one make a strong claim about whether a particular Lapita site was occupied by Austronesian speakers or by non-Austronesian speakers? Aren't there culture areas where people speaking different, indeed unrelated, languages share very similar material cultures? Welch et al. (1992) certainly make such a claim concerning the Sepik coast (and Lapita), but things have not turned out to be as clearcut as they supposed (cf. [Moore & Romney 1994](../references.md#source-MooreRomney1994), [1995](../references.md#source-MooreRomney1995), Roberts, [Moore & Romney 1995](../references.md#source-MooreRomney1995)). The answer is that we can confidently make the Austronesian-Lapita association only when one or more of the following conditions are met: (a) when there is good evidence for believing that Austronesian speakers were the only people to inhabit a region in prehistoric times - as is the case in, say, Micronesia, Fiji and Polynesia - or at least around the time in question, as appears to be the case in, say, the area of Central Papua around Port Moresby 2,000 years ago; (b) when there is well-established continuity between the prehistoric site or sites in question and recent, historically documented Austronesian-speaking communities in the region; (c) in the case of regions known to have been inhabited by both Austronesian and non-Austronesian speakers, when the material culture of Austronesian speakers is sharply distinct from that of non-Austronesian speakers. And if a site was occupied by Austronesian speakers, we may ask how it can be shown that the occupants were speakers of, say, stage A or subgroup A of Austronesian rather than stage B or subgroup B. The short answer is that this is a complicated business that involves taking account of the distribution of subgroups, continuities and discontinuities in the archaeological sequence, and geographic, demographic and political factors.
+But here an old problem arises: How can reconstructed languages be correlated with archaeological assemblages? For instance, how can one make a strong claim about whether a particular Lapita site was occupied by Austronesian speakers or by non-Austronesian speakers? Aren't there culture areas where people speaking different, indeed unrelated, languages share very similar material cultures? Welch et al. (1992) certainly make such a claim concerning the Sepik coast (and Lapita), but things have not turned out to be as clearcut as they supposed (cf. [Moore & Romney 1994](../references.md#source-MooreRomney1994), [1995](../references.md#source-MooreRomney1995), [Roberts, Moore & Romney 1995](../references.md#source-RobertsMooreRomney1995)). The answer is that we can confidently make the Austronesian-Lapita association only when one or more of the following conditions are met: (a) when there is good evidence for believing that Austronesian speakers were the only people to inhabit a region in prehistoric times - as is the case in, say, Micronesia, Fiji and Polynesia - or at least around the time in question, as appears to be the case in, say, the area of Central Papua around Port Moresby 2,000 years ago; (b) when there is well-established continuity between the prehistoric site or sites in question and recent, historically documented Austronesian-speaking communities in the region; (c) in the case of regions known to have been inhabited by both Austronesian and non-Austronesian speakers, when the material culture of Austronesian speakers is sharply distinct from that of non-Austronesian speakers. And if a site was occupied by Austronesian speakers, we may ask how it can be shown that the occupants were speakers of, say, stage A or subgroup A of Austronesian rather than stage B or subgroup B. The short answer is that this is a complicated business that involves taking account of the distribution of subgroups, continuities and discontinuities in the archaeological sequence, and geographic, demographic and political factors.
 
 
 <a id="p-41"></a>
@@ -235,7 +235,7 @@ A number of cognate sets yield lexical reconstructions that tell something about
 
 [Blust](../references.md#source-Blust1987) ([1987](../references.md#source-Blust1987)) compared four widely distributed cognate sets whose members generally name types of domestic buildings. He attributed the reconstruction _&ast;Rumaq_ 'dwelling house' to both PAn and PMP but could reconstruct the terms _&ast;balay_, _&ast;kamaliR_ and _&ast;lepaw_ only as far back as PMP, tentatively attributing to them the respective senses of 'public building', 'men's house' and 'granary'. His formal reconstructions are secure but the semantic reconstructions for the last three forms are somewhat problematic. _&ast;lepaw_ is not known to have Oceanic reflexes. The other three terms are all reflected in a number of Oceanic subgroups and therefore must be attributed to POc. Let us briefly review the lexical reconstructions and supporting data.
 
-<table>
+<table id="1-3-3-3-48-POc-rumaq-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -337,7 +337,7 @@ The central sense of PAn, PMP and POc _&ast;Rumaq_ is uncontroversial: in contem
 
 <a id="p-49"></a>
 
-<table>
+<table id="1-3-3-3-49-POc-pale-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -465,7 +465,7 @@ Our view is that the primary sense of PMP _&ast;balay_ (and its POc continuation
 
 <a id="p-50"></a>
 
-<table>
+<table id="1-3-3-3-50-POc-kamalir-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -541,7 +541,7 @@ In Indonesia and western Melanesia, contemporary dwelling houses are often raise
 
 The following cognate set indicates that POc speakers built dwellings raised on piles. Although so far attested only in languages of NW Melanesia, the witnesses are widely dispersed and belong to two distinct high-order (probably first order) subgroups of Oceanic ([Ross 1988](../references.md#source-Ross1988)), so that the POc reconstruction looks secure.
 
-<table>
+<table id="1-3-3-4-51-POc-gabari-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -586,7 +586,7 @@ The following cognate set indicates that POc speakers built dwellings raised on 
 
 _&ast;gabʷari-_ evidently took inalienable possessive marking, with 3rd person singular suffix marking it as an integral part of a larger entity, namely, the house.
 
-<table>
+<table id="1-3-3-4-51-PEOc-apu-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td>
@@ -650,7 +650,7 @@ It is probably significant that this cognate set is restricted to the Southeast 
 
 
 
-<table>
+<table id="1-3-3-4-52-POc-kataman-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -726,7 +726,7 @@ _&ast;kataman_ probably referred to an entrance with its wooden framework. From 
 
 The following group of ten cognate sets indicate that early Austronesian dwelling houses were built with a robust and fairly heavy superstructure, including ridgepole, thatched roof, rafters and crossbeams. Those sets indicating POc _&ast;pupuŋ-an_ 'ridgepole' and POc _&ast;qatop_ 'thatch, roof' are consistent with ethnographic evidence indicating that gabled houses with a ridgepole supporting a thatched, probably two-section roof were built by both PMP and POc speakers.
 
-<table>
+<table id="1-3-3-4-53-POc-pupuan-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -828,7 +828,7 @@ The following group of ten cognate sets indicate that early Austronesian dwellin
 
 <a id="p-54"></a>
 
-<table>
+<table id="1-3-3-4-54-POc-qatop-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -930,7 +930,7 @@ The following group of ten cognate sets indicate that early Austronesian dwellin
 
 A second POc term for thatch is reconstructable, namely _&ast;rau(n)_, whose primary sense was 'leaf, leaves, foliage'.
 
-<table>
+<table id="1-3-3-4-54-POc-raun-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -984,7 +984,7 @@ A second POc term for thatch is reconstructable, namely _&ast;rau(n)_, whose pri
 
 <a id="p-55"></a>
 
-<table>
+<table id="1-3-3-4-55-POc-sajaq-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -1011,7 +1011,7 @@ A second POc term for thatch is reconstructable, namely _&ast;rau(n)_, whose pri
 
 
 
-<table>
+<table id="1-3-3-4-55-POc-kapit-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -1043,7 +1043,7 @@ A second POc term for thatch is reconstructable, namely _&ast;rau(n)_, whose pri
 
 
 
-<table>
+<table id="1-3-3-4-55-POc-kaso-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -1122,7 +1122,7 @@ A second POc term for thatch is reconstructable, namely _&ast;rau(n)_, whose pri
 
 Four POc terms can be reconstructed that referred either to posts or beams in a house.
 
-<table>
+<table id="1-3-3-4-55-POc-ariri-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -1166,7 +1166,7 @@ Four POc terms can be reconstructed that referred either to posts or beams in a 
 
 There are some formal problems with the previous set. Some Oceanic forms show unexpected absence of initial _&ast;a-_. Assimilation of the first consonant to the second apparently occurred in POc.
 
-<table>
+<table id="1-3-3-4-55-POc-turus-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -1225,7 +1225,7 @@ There are some formal problems with the previous set. Some Oceanic forms show un
 
 <a id="p-56"></a>
 
-<table>
+<table id="1-3-3-4-56-POc-bou-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1326,7 +1326,7 @@ The Papuan Tip (Bwaidoga, Misima) forms point to POc _&ast;pou_, other forms to 
 
 The next term, POc _&ast;soka(r)_, evidently referred to any sort of bracing timber in a house or boat.
 
-<table>
+<table id="1-3-3-4-56-POc-sokar-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -1404,7 +1404,7 @@ cf. also:
 
 Under this heading we include terms for partitions, shelves, steps, and so on.
 
-<table>
+<table id="1-3-3-5-57-POc-logi-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1479,7 +1479,7 @@ cf. also:
 
 The meaning of _&ast;logi_ is not entirely clear. The weight of the ethnographic and linguistic evidence suggests that it probably referred to an inner room or partition containing a bed or sleeping platform screened off from the outer and more public area of a house. In contemporary societies the inner room is generally used as a bedroom for husband and wife and for storing valuables. However, it is conceivable that the POc term did have a more generalised meaning and could be applied to any partitioned area, whether house or garden (see also Ch. 5, § 12).
 
-<table>
+<table id="1-3-3-5-57-POc-patar-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -1579,7 +1579,7 @@ cf. also:
 
 <a id="p-58"></a>
 
-<table>
+<table id="1-3-3-5-58-POc-parra-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -1647,7 +1647,7 @@ cf. also:
 
 The Nauna, Loniu and Lau forms point to POc _&ast;paRa_, the Fijian reflex to _&ast;para_, while other Oceanic forms cited here are compatible with either reconstruction. [^6]
 
-<table>
+<table id="1-3-3-5-58-POc-tete-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -1715,7 +1715,7 @@ The Nauna, Loniu and Lau forms point to POc _&ast;paRa_, the Fijian reflex to _&
 
 
 
-<table>
+<table id="1-3-3-5-58-POc-baban-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -1774,7 +1774,7 @@ The Nauna, Loniu and Lau forms point to POc _&ast;paRa_, the Fijian reflex to _&
 
 <a id="p-59"></a>
 
-<table>
+<table id="1-3-3-5-59-POc-pako-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -1842,7 +1842,7 @@ As metal tools were almost certainly unknown to the early Austronesians, POc _&a
 
 A general term for fireplace or hearth is reconstructable for PMP and continued in POco We cannot tell from linguistic evidence whether or not fireplaces for cooking were built inside main dwelling houses.
 
-<table>
+<table id="1-3-3-6-59-POc-rapur-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -1926,7 +1926,7 @@ A general term for fireplace or hearth is reconstructable for PMP and continued 
 
 A term for an oven made with hot stones, POc _&ast;qumun_ is widely attested (see Ch. 6, §2.6, for further discussion).
 
-<table>
+<table id="1-3-3-6-59-POc-qumun-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -2020,7 +2020,7 @@ A term for an oven made with hot stones, POc _&ast;qumun_ is widely attested (se
 
 Two terms referring specifically to pits are reconstructable:
 
-<table>
+<table id="1-3-3-6-60-POc-lua-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -2066,7 +2066,7 @@ Two terms referring specifically to pits are reconstructable:
 
 
 
-<table>
+<table id="1-3-3-6-60-POc-giru-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -2116,7 +2116,7 @@ Two terms referring specifically to pits are reconstructable:
 
 The PT and SES forms in the above set are cognate on the assumption that metathesis occurred in one set or the other. In many Oceanic languages a reflex of _&ast;lua(ŋ)_ is the general term for any sort of hole, including pits used for cooking or for storing breadfruit and certain other crops. POc _&ast;giRu_ or _&ast;guRi_ may have referred to deep pits dug for graves or wells.
 
-<table>
+<table id="1-3-3-6-60-POc-bara-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -2197,7 +2197,7 @@ The PT and SES forms in the above set are cognate on the assumption that metathe
 
 <a id="p-61"></a>
 
-<table>
+<table id="1-3-3-6-61-POc-bayat-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -2273,7 +2273,7 @@ The PT and SES forms in the above set are cognate on the assumption that metathe
 
 
 
-<table>
+<table id="1-3-3-6-61-POc-qarar-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -2336,7 +2336,7 @@ The PT and SES forms in the above set are cognate on the assumption that metathe
 
 One further reconstruction, POc _&ast;kaRi_ 'garden fence or partition', is given with supporting evidence in Chapter 5, § 6 . Also included here is a reconstruction for a path.
 
-<table>
+<table id="1-3-3-6-61-POc-jalan-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -2464,7 +2464,7 @@ One further reconstruction, POc _&ast;kaRi_ 'garden fence or partition', is give
 
 Some contemporary Oceanic societies live in villages of up to several hundred people in size; others live in scattered hamlets or homesteads containing one or two extended families. No POc term specifically meaning 'village' or 'nucleated settlement' can be reconstructed with any confidence. It appears that present-day terms denoting 'village' or some sort of nucleated settlement originally meant something else. This point is illustrated by the following four cognate sets.
 
-<table>
+<table id="1-3-3-7-62-POc-panua-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -2596,7 +2596,7 @@ Although reflexes of PMP _&ast;banua_ carry the meaning 'village' in a number of
 
 <a id="p-63"></a>
 
-<table>
+<table id="1-3-3-7-63-POc-pera-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -2692,7 +2692,7 @@ The term _&ast;pera_ is well-attested in both major subgroups of Southeast Solom
 
 For POc _&ast;malaqai_, [Milke](../references.md#source-Milke1968) ([1968](../references.md#source-Milke1968)) proposed the gloss 'village'. However, that gloss applies only to its few Western Oceanic reflexes. PPn _&ast;malaʔe_ clearly denoted an open space in the centre of a settlement, used for communal activities.
 
-<table>
+<table id="1-3-3-7-63-POc-maelaqai-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -2746,7 +2746,7 @@ Rotuman _maraʔe_ 'open space in centre of village' is indicated to be a loan fr
 
 Another POc term whose reflexes in a few daughter languages now mean 'village' is _&ast;mwalala_. Once again, however, the balance of the evidence suggests that it did not have this meaning in POco
 
-<table>
+<table id="1-3-3-7-64-POc-malala-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -2869,7 +2869,7 @@ Where comparable evidence is available, the testimonies of archaeology, ethnolog
 
 [^4]:  It has been suggested that the expansion of many of the world's large, well-defined language groups was associated with the spread of agriculture ([Bellwood 1991](../references.md#source-Bellwood1991), [Renfrew 1987](../references.md#source-Renfrew1987), [1992](../references.md#source-Renfrew1992)). Be that as it may, reconstruction of fairly remote protolanguages is certainly easiest when the number of descendants is large, as is the case with such well-known families as Indo-European (at least 140 languages) and Austronesian (about 1,000 languages). The conservativeness of a good many Austronesian languages is such that, if they were to change no more over the next 5,000 years than they have in the past 5,000 or so, their genetic relatedness would still be obvious, some 10,000 years after their divergence.
 
-[^5]:  For example, [Green](../references.md#source-Green1966) ([1966](../references.md#source-Green1966), [1967](../references.md#source-Green1967), [1979](../references.md#source-Green1979), [1981](../references.md#source-Green1981), [1986](../references.md#source-Green1986), [1994a](../references.md#source-Green1994a), [1994b](../references.md#source-Green1994b)); [Kirch and Green](../references.md#source-KirchGreen1987) ([1987](../references.md#source-KirchGreen1987)); [Pawley](../references.md#source-Pawley1981) ([1981](../references.md#source-Pawley1981), [1982a](../references.md#source-Pawley1982a), [1996a](../references.md#source-Pawley1996a)); Pawley and R.Green (1973, 1984); Pawley and K.Green (1971); Pawley and [Pawley](../references.md#source-Pawley1994) ([1994](../references.md#source-Pawley1994)); [Pawley and Ross](../references.md#source-PawleyandRoss1993) ([1993](../references.md#source-PawleyandRoss1993)). We have not been alone in this enterprise. From the 1920s on, Kenneth Emory was a pioneer in Polynesian culture history, when archaeological and historical linguistic studies in that region were in their infancy and the main reliance was on comparative ethnology. For more recent interdisciplinary work see [Bellwood](../references.md#source-Bellwood1978) ([1978](../references.md#source-Bellwood1978), [1985](../references.md#source-Bellwood1985), [1987](../references.md#source-Bellwood1987), [1991](../references.md#source-Bellwood1991)); [Blust](../references.md#source-Blust1976b) ([1976b](../references.md#source-Blust1976b), [1980a](../references.md#source-Blust1980a), [1984](../references.md#source-Blust1984)-85, 1994); [Chowning](../references.md#source-Chowning1991) ([1991](../references.md#source-Chowning1991)); [French-Wright](../references.md#source-FrenchWright1983) ([1983](../references.md#source-FrenchWright1983)); [Kirch](../references.md#source-Kirch1984) ([1984](../references.md#source-Kirch1984)); [Osmond](../references.md#source-Osmond1996) ([1996](../references.md#source-Osmond1996)); [Ross](../references.md#source-Ross1989a) ([1989a](../references.md#source-Ross1989a)); Shutler and Marek (1975); [Walter](../references.md#source-Walter1989) ([1989](../references.md#source-Walter1989)); and various papers in Pawley and Ross eds (1994).
+[^5]:  For example, [Green](../references.md#source-Green1966) ([1966](../references.md#source-Green1966), [1967](../references.md#source-Green1967), [1979](../references.md#source-Green1979), [1981](../references.md#source-Green1981), [1986](../references.md#source-Green1986), [1994a](../references.md#source-Green1994a), [1994b](../references.md#source-Green1994b)); [Kirch and Green](../references.md#source-KirchGreen1987) ([1987](../references.md#source-KirchGreen1987)); [Pawley](../references.md#source-Pawley1981) ([1981](../references.md#source-Pawley1981), [1982a](../references.md#source-Pawley1982a), [1996a](../references.md#source-Pawley1996a)); Pawley and R.Green (1973, 1984); Pawley and K.Green (1971); [Pawley and Pawley](../references.md#source-PawleyandPawley1994) ([1994](../references.md#source-PawleyandPawley1994)); [Pawley and Ross](../references.md#source-PawleyandRoss1993) ([1993](../references.md#source-PawleyandRoss1993)). We have not been alone in this enterprise. From the 1920s on, Kenneth Emory was a pioneer in Polynesian culture history, when archaeological and historical linguistic studies in that region were in their infancy and the main reliance was on comparative ethnology. For more recent interdisciplinary work see [Bellwood](../references.md#source-Bellwood1978) ([1978](../references.md#source-Bellwood1978), [1985](../references.md#source-Bellwood1985), [1987](../references.md#source-Bellwood1987), [1991](../references.md#source-Bellwood1991)); [Blust](../references.md#source-Blust1976b) ([1976b](../references.md#source-Blust1976b), [1980a](../references.md#source-Blust1980a), [1984](../references.md#source-Blust1984)-85, 1994); [Chowning](../references.md#source-Chowning1991) ([1991](../references.md#source-Chowning1991)); [French-Wright](../references.md#source-FrenchWright1983) ([1983](../references.md#source-FrenchWright1983)); [Kirch](../references.md#source-Kirch1984) ([1984](../references.md#source-Kirch1984)); [Osmond](../references.md#source-Osmond1996) ([1996](../references.md#source-Osmond1996)); [Ross](../references.md#source-Ross1989a) ([1989a](../references.md#source-Ross1989a)); Shutler and Marek (1975); [Walter](../references.md#source-Walter1989) ([1989](../references.md#source-Walter1989)); and various papers in Pawley and Ross eds (1994).
 
 [^6]: Blust (ACD) has proposed POc _&ast;pala_ or _&ast;paRa_ 'platform, firewood shelf above the hearth' and, under the entry headed Western Malayo-Polynesian _&ast;palapala_ 'scaffolding', also refers to PMP _&ast;paRa_ 'storage shelf'.
 

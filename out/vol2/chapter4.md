@@ -29,7 +29,7 @@ Four POc words denoting ‘sea’ have been reconstructed: _&ast;tasik_, _&ast;m
 
 <a id="p-92"></a>
 
-<table>
+<table id="2-4-2-1-92-POc-tasik-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -264,7 +264,7 @@ Four POc words denoting ‘sea’ have been reconstructed: _&ast;tasik_, _&ast;m
 
 In addition to these simple terms, a number of compound terms consisting of _&ast;tasik_ plus a modifier probably existed in POc, denoting conditions or defined areas of sea. Many contemporary languages possess such compounds. For example, Lau (SES) distinguishes the following compounds whose first element is _asi_ (< _&ast;tasik_).
 
-<table>
+<table id="2-4-2-1-93-ses-lau-asiabua">
 <tr>
 <td>SES</td>
 <td>Lau</td>
@@ -327,7 +327,7 @@ In Polynesian languages reflexes of _&ast;tasik_ chiefly refer to the sea near t
 
 POc _&ast;masawa(n,ŋ)_ has reflexes in both Western Oceanic and Eastern Oceanic meaning ‘deep ocean’ or ‘open sea’. It appears also to have had the sense ‘open space, clear space’ and to be etymologically related to POc _&ast;sawa(n,ŋ)_ ‘channel, passage’ (§3.5).
 
-<table>
+<table id="2-4-2-1-93-POc-masawan-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -417,7 +417,7 @@ POc _&ast;masawa(n,ŋ)_ has reflexes in both Western Oceanic and Eastern Oceanic
 
 Polynesian languages reflect another term for ‘ocean’:
 
-<table>
+<table id="2-4-2-1-93-PPn-moana-a">
 <tr>
 <td><strong>PPn</strong></td><td> </td>
 <td>
@@ -473,7 +473,7 @@ Ross Clark (pers. comm.) hypothesises that _&ast;moana_ may be derived from POc 
 
 The PCEMP reconstruction in the next set is supported by cognates in the Central Malayo-Polynesian languages Yamdena, Fordata and Kei, and the South Halmahera/Irian Jaya languages Buli and Numfor, all meaning ‘deep’ or ‘depth’. Cognates in Oceanic languages fairly consistently refer to deep water, and most probably to deep water just beyond the reef, i.e. where the sudden change of depth is significant.
 
-<table>
+<table id="2-4-2-1-94-POc-laman-a">
 <tr>
 <td><strong>PCEMP</strong></td><td> </td>
 <td>
@@ -585,7 +585,7 @@ The PCEMP reconstruction in the next set is supported by cognates in the Central
 
 Listed below are common-noun reflexes of _&ast;laur_. However, these are few and scattered, and it is possible that this term had no common-noun use in POc. For local-noun uses, see p.239.
 
-<table>
+<table id="2-4-2-1-95-POc-laur-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -679,7 +679,7 @@ Listed below are common-noun reflexes of _&ast;laur_. However, these are few and
 
 For sheltered or calm water, reflexes of POc _&ast;[ma-[d]]rapu_ ‘still, calm, windless’ or POc _&ast;malino_ ‘calm’ were used (for the full cognate sets see Chapter 5, §5.1). In Proto Eastern Oceanic, sheltered seas were referred to as ‘dead’ (_&ast;mate_), while open or exposed seas were described as ‘alive’ (_&ast;maqurip_). Codrington and Palmer write that this distinction also occurs in Malagasy (1896:205).
 
-<table>
+<table id="2-4-2-2-95-PEOc-tasikmate-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td>
@@ -745,7 +745,7 @@ cf. also:
 
 <a id="p-96"></a>
 
-<table>
+<table id="2-4-2-2-96-PEOc-tasikmaqurip-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td>
@@ -787,7 +787,7 @@ These compounds are echoed in Wayan (Fij) terms _wai mate_ ‘quiet sea’ and _
 
 In a number of languages, rough water is described by reflexes of POc &ast;saqat ‘bad’.
 
-<table>
+<table id="2-4-2-2-96-pt-kiriwina-ipaisaga">
 <tr>
 <td>PT</td>
 <td>Kilivila</td>
@@ -819,7 +819,7 @@ In a number of languages, rough water is described by reflexes of POc &ast;saqat
 
 Several terms denoting current or flow of water can be reconstructed for POc. Reflexes of _&ast;qaRus_ and _&ast;tape_ occur as both noun and verb. A third term, POc _&ast;ma-qañur_ ‘floating, adrift’ is a stative verb. There is also the doublet POc _&ast;qaliR_/_&ast;saliR_ ‘to flow, drift, float’, which has general application, i.e. to the movement of birds, winds and liquids.
 
-<table>
+<table id="2-4-2-3-96-POc-qarus-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -981,7 +981,7 @@ Several terms denoting current or flow of water can be reconstructed for POc. Re
 
 The bare PAn verb _&ast;qañud_ ‘drift on a current, carried away by flowing water’ does not appear to have reflexes in Oceanic languages, but the form _&ast;ma-qañud_ is well represented:
 
-<table>
+<table id="2-4-2-3-97-POc-maqanur-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -1073,7 +1073,7 @@ The bare PAn verb _&ast;qañud_ ‘drift on a current, carried away by flowing w
 
 
 
-<table>
+<table id="2-4-2-3-97-POc-tape-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1205,7 +1205,7 @@ The bare PAn verb _&ast;qañud_ ‘drift on a current, carried away by flowing w
 
 <a id="p-98"></a>
 
-<table>
+<table id="2-4-2-3-98-POc-qalir-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -1257,7 +1257,7 @@ The bare PAn verb _&ast;qañud_ ‘drift on a current, carried away by flowing w
 
 
 
-<table>
+<table id="2-4-2-3-98-POc-salir-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -1319,7 +1319,7 @@ The bare PAn verb _&ast;qañud_ ‘drift on a current, carried away by flowing w
 
 Two types of wave commonly distinguished in Oceanic languages are (a) surf, waves breaking on the shore, and (b) ocean swells, typically unbroken although the wind can whip up white caps. For instance, Mussau (Adm) has _koto_ ‘surf, breakers’ and _toŋe-toŋea_ ‘wave, swell in the open sea’, Motu (PT) has _hure-hure_ ‘surf’ and _sinaia_ ‘ocean swell, high waves which do not break’. In Roviana (MM) the corresponding terms are _tovovo_ ‘breakers, esp. on sea reef or exposed shore’ and _bogusu_ ‘ocean swell’, and in Tongan (Pn), _ŋalu_ ‘surf’ and _ākefua_ ‘to have an ocean swell (no breaking waves)’. Although we can reconstruct three POc terms for types of wave, _&ast;napo(k)_ ‘breaking wave, surf’, _&ast;ŋalu(n)_ ‘mounting wave, ocean wave’ and _&ast;bayau_ ‘ocean swell’, there is some crossover of meaning in reflexes of the first two forms. POc _&ast;bayau_ is the only reconstruction which appears to refer unambiguously to ocean swells. Three other reconstructions are relevant here. POc _&ast;loka_ referred to ‘high sea or tide, heavy breakers’, while POc _&ast;[u]Ruap_ with primary meaning ‘high tide’ (see §2.6 below) evidently referred also to ‘wave’. The term _&ast;bari_ ‘(waves) pound the coast at high tide’ is reconstructable for Proto Central Pacific.
 
-<table>
+<table id="2-4-2-4-99-POc-napok-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -1408,7 +1408,7 @@ Two types of wave commonly distinguished in Oceanic languages are (a) surf, wave
 
 Reflexes of POc _&ast;ŋalu(n)_ in some languages refer to ocean waves in general and in others to breaking waves or surf.
 
-<table>
+<table id="2-4-2-4-99-POc-alun-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -1489,7 +1489,7 @@ Reflexes of POc _&ast;ŋalu(n)_ in some languages refer to ocean waves in genera
 
 <a id="p-100"></a>
 
-<table>
+<table id="2-4-2-4-100-POc-bayau-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1562,7 +1562,7 @@ cf. also:
 </table>
 
 
-<table>
+<table id="2-4-2-4-100-POc-loka-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1610,7 +1610,7 @@ cf. also:
 
 
 
-<table>
+<table id="2-4-2-4-100-PCP-bari-a">
 <tr>
 <td><strong>PCP</strong></td><td> </td>
 <td>
@@ -1688,7 +1688,7 @@ No single contemporary Oceanic language we know of has reflexes of two of these 
 
 There is an additional formal complication, namely that PMP _&ast;bujeq_ seems to have two sets of reflexes in Oceanic languages, pointing to two POc forms: _&ast;buso_ and POc _&ast;puso_. It may be that POc indeed had both, _&ast;buso_ perhaps a verb, _&ast;puso_ a verb or a noun (see vol. 1, pp.30–31). Alternatively, forms apparently reflecting _&ast;buso_ may represent a conflation of _&ast;busa_ and _&ast;puso_, implying that &ast;buso did not in fact occur in POc.
 
-<table>
+<table id="2-4-2-5-101-POc-busa-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -1757,7 +1757,7 @@ cf. also:
 </table>
 
 
-<table>
+<table id="2-4-2-5-101-POc-buso-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -1817,7 +1817,7 @@ cf. also:
 
 <a id="p-102"></a>
 
-<table>
+<table id="2-4-2-5-102-POc-puso-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -1914,7 +1914,7 @@ In Wayan (spoken in the Wasaya group, western Fiji), terms for spring and neap t
 
 The reconstruction for low tide, POc _&ast;maqati_, which continues a PAn form, is a well- supported one. The same form is also widely attested in the sense ‘dry reef, reef exposed at low tide’.
 
-<table>
+<table id="2-4-2-6-103-POc-maqati-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -2149,7 +2149,7 @@ The reconstruction for low tide, POc _&ast;maqati_, which continues a PAn form, 
 
 POc _&ast;[ma]maca_ ‘dry up, evaporate’, has some reflexes which refer to low tide or to exposure of the reef at low tide. These may represent parallel semantic specialisations. (See also Chapter 7, §5.6)
 
-<table>
+<table id="2-4-2-6-105-POc-mamaca-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -2350,7 +2350,7 @@ POc _&ast;[ma]maca_ ‘dry up, evaporate’, has some reflexes which refer to lo
 
 POc _&ast;Ruap_ has been long-established as a term for high tide, with a PMP antecedent, _&ast;Ruab_. Further evidence in the form of the POc verb _&ast;[ma-]uRua(p)_ ‘flood, be flooded’ (see below) leads us to conclude that _&ast;Ruap_ had an alternant form _&ast;uRuap_.
 
-<table>
+<table id="2-4-2-6-106-POc-uruap-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -2459,7 +2459,7 @@ POc _&ast;Ruap_ has been long-established as a term for high tide, with a PMP an
 
 POc _&ast;ma-[u]Ruap_ and its counterpart, _&ast;ma-qati_ ‘low tide; be low tide, to ebb’ each had both a dynamic and a stative sense ([Evans & Ross 2001](../references.md#source-EvansandRoss2001)).
 
-<table>
+<table id="2-4-2-6-106-POc-mauruap-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -2494,7 +2494,7 @@ POc _&ast;ma-[u]Ruap_ and its counterpart, _&ast;ma-qati_ ‘low tide; be low ti
 
 Other reconstructions for high tide include the following (see also POc _&ast;lomak_ ‘flood, of sea’ (Ch. 3, p.87)):
 
-<table>
+<table id="2-4-2-6-106-POc-lubuk-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -2565,7 +2565,7 @@ Other reconstructions for high tide include the following (see also POc _&ast;lo
 
 <a id="p-107"></a>
 
-<table>
+<table id="2-4-2-6-107-PWOc-tunan-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
 <td>
@@ -2629,7 +2629,7 @@ Sometimes reflexes of POc _&ast;ponuq_ ‘full’ are used to refer to a high ti
 
 POc _&ast;laje_ was both a generic term for coral and the name for branching coral in contrast to _&ast;buŋa_ ‘smooth round or table coral’. The term _&ast;laje_ is widely attested in Oceanic but we know of only one probable cognate outside Oceanic, Lauje (Tomini-Tolitoli, Sulawesi) _lais_ ‘coral’. For _&ast;giri-giri_ ‘coral, coral rubble’, see Chapter 3, §7.3.
 
-<table>
+<table id="2-4-3-1-107-POc-laje-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -2775,7 +2775,7 @@ POc _&ast;laje_ was both a generic term for coral and the name for branching cor
 
 POc _&ast;buŋa_ ‘smooth round coral’ is evidently derived from PMP _&ast;buŋa_ ‘blossom’ through the latter’s extension of meaning to PMP _&ast;buŋa ni batu_ ‘coral sponge’ (lit. ‘blossom of stone’), which then reduced simply to _&ast;buŋa_ in Oceanic.
 
-<table>
+<table id="2-4-3-1-108-POc-bua-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -2890,7 +2890,7 @@ POc _&ast;buŋa_ ‘smooth round coral’ is evidently derived from PMP _&ast;bu
 
 In Polynesian languages, reflexes of _&ast;puŋa_ typically contrast with those of _&ast;feo_.
 
-<table>
+<table id="2-4-3-1-108-PPn-feo-a">
 <tr>
 <td><strong>PPn</strong></td><td> </td>
 <td>
@@ -2957,7 +2957,7 @@ Two POc reconstructions are glossed simply as ‘reef’, _&ast;sakaRu_ and _&as
 
 <a id="p-110"></a>
 
-<table>
+<table id="2-4-3-2-110-POc-sakaru-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -3140,7 +3140,7 @@ Two POc reconstructions are glossed simply as ‘reef’, _&ast;sakaRu_ and _&as
 
 POc _&ast;oda_ ‘reef’ is widely reflected in Micronesian languages, but otherwise is retained as a separate word (in our data) only in one Papuan Tip language.
 
-<table>
+<table id="2-4-3-2-110-POc-oda-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -3200,7 +3200,7 @@ POc _&ast;oda_ ‘reef’ is widely reflected in Micronesian languages, but othe
 
 However, further evidence supporting oda as a term for ‘reef’ lies in two reconstructions made by Ross [Clark](../references.md#source-Clark1991) ([1991](../references.md#source-Clark1991)), POc _&ast;paŋ-oda_ ‘gather shellfish and other seafood on the reef’ and _&ast;p-in-aŋ-oda_ ‘shellfish, seafood gathered on the reef’ (where _&ast;paŋ-_ is the verbal suffix (underlying form _&ast;paN-_) and _-in-_ the noun-deriving infix discussed in vol. 1, p.29 and p.33 respectively). A selection of reflexes follows:
 
-<table>
+<table id="2-4-3-2-110-pt-motu-haoda">
 <tr>
 <td>PT</td>
 <td>Motu</td>
@@ -3271,7 +3271,7 @@ However, further evidence supporting oda as a term for ‘reef’ lies in two re
 
 The following reconstruction is attested only in SE Solomonic languages and Rotuman.
 
-<table>
+<table id="2-4-3-2-111-PEOc-papo-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td>
@@ -3321,7 +3321,7 @@ A second Polynesian example comes from Niuatoputapu, an island with a volcanic r
 
 Although we can be confident that there were Proto Oceanic names for various reef zones, we have reconstructions only at lower levels. PPn _&ast;tuqa-hakau_ (from _&ast;tuqa_ ‘back’ + _&ast;hakau_ ‘reef’) refers variously to the reef’s outer edge or to the ocean just beyond. Marovo (MM), spoken on New Georgia, has a term _tabikale_ ‘steep reef dropoff, into deep water’. Lau (SES) also has an unrelated term, _fafo-ʔile_, for the seaward side of the reef translated by Ivens as literally ‘overhanging the precipice’.
 
-<table>
+<table id="2-4-3-2-112-PPn-tuqahakau-a">
 <tr>
 <td><strong>PPn</strong></td><td> </td>
 <td>
@@ -3356,7 +3356,7 @@ Although we can be confident that there were Proto Oceanic names for various ree
 
 A PCP reconstruction that may also apply to the reef’s outer edge is _&ast;qulu-qulu_, (possibly from POc/PPn _&ast;qulu_ ‘head’).
 
-<table>
+<table id="2-4-3-2-112-PCP-quluqulu-a">
 <tr>
 <td><strong>PCP</strong></td><td> </td>
 <td>
@@ -3424,7 +3424,7 @@ The windward and leeward sides of the reef were possibly described by the terms 
 
 Isolated patches of submerged reef occur in the open sea between the outer (barrier) reef and islands with shore reefs. These submerged reefs are dangerous to boats but are valuable fishing grounds. In some languages they are referred to by the generic word for ‘coral reef’, in others there is a separate term for a submerged patch of reef or rocks. In the following reconstruction, retention of the final vowel in Anejom and Mota suggests POc final _&ast;-q_ (John Lynch pers. comm.).
 
-<table>
+<table id="2-4-3-3-113-POc-maloq-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -3517,7 +3517,7 @@ Isolated patches of submerged reef occur in the open sea between the outer (barr
 
 POc _&ast;nuku_ ‘sand bank, sand spit, sandy ground’ is listed with full cognate set in Chapter 3 (p.45). From two of its cognates, Bugotu and Bauan Fijian, we can also reconstruct PEOc _&ast;nuku potu_ ‘point of reef or sandbank (presumably one that appears at low tide)’ (_&ast;potu_ ‘appear, emerge’).
 
-<table>
+<table id="2-4-3-3-114-PEOc-nukupotu-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td>
@@ -3542,7 +3542,7 @@ POc _&ast;nuku_ ‘sand bank, sand spit, sandy ground’ is listed with full cog
 
 Both the SE Solomonic and Micronesian reflexes of PEOc _&ast;baro_ refer to flat rocks in or near the sea.
 
-<table>
+<table id="2-4-3-3-114-PEOc-baro-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td>
@@ -3585,7 +3585,7 @@ Both the SE Solomonic and Micronesian reflexes of PEOc _&ast;baro_ refer to flat
 
 
 
-<table>
+<table id="2-4-3-3-114-PPn-toka-a">
 <tr>
 <td><strong>PPn</strong></td><td> </td>
 <td>
@@ -3644,7 +3644,7 @@ Reflexes of POc _&ast;baban_ ‘flat; flat rock, any hard flat surface’ are al
 
 A feature of coral atolls and of some high islands with barrier reefs is the enclosed or sheltered water usually referred to as a lagoon. These can be very large, examples being the Marovo and Lau lagoons in the Solomons within which are located a number of inhabited islands. Reflexes of POc _&ast;namo_ refer at times to the lagoon within a reef, and at others to a deep hole in the reef. The common meaning ‘enclosed water’ is retained.
 
-<table>
+<table id="2-4-3-4-114-POc-namo-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -3765,7 +3765,7 @@ In languages where the community’s activities are centred on the lagoon there 
 
 Small deep holes are a feature of the reef flat, but the only reconstructable term we have other than _&ast;namo_ is PPn _&ast;loto_ (see below). Ross in Chapter 8 has reconstructed POc _&ast;loto_ ‘space within a concave object’, and lists POc _&ast;lalo_, _&ast;lo-_ and _&ast;la-_, all as relational nouns referring to the space within something. Non-cognate terms include Andra (Adm) _lolu_ ‘small deep pools in reef’, Lau (SES) _lobo_ ‘a pool in the reef or in a river’ and Niuean (Pn) _lili_ ‘small hollow in the reef, as opposed to pools or puddles elsewhere’ and to deeper holes in the reef, which in Niuean are called pupuo.
 
-<table>
+<table id="2-4-3-4-115-POc-loto-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -3845,7 +3845,7 @@ A typical coral-fringed coastline or atoll has breaks in the reef which permit c
 
 The final nasal of _&ast;sawa(n,ŋ)_ is unexpected but attested in languages that retain POc final consonants.
 
-<table>
+<table id="2-4-3-5-116-POc-sawan-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -4008,7 +4008,7 @@ The final nasal of _&ast;sawa(n,ŋ)_ is unexpected but attested in languages tha
 
 <a id="p-117"></a>
 
-<table>
+<table id="2-4-3-5-117-POc-mataqinisawan-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -4080,7 +4080,7 @@ In similar vein, Nakanai has _(la)mata-la-sakalu_ ‘passage through the reef’
 
 POc _&ast;wasas_ seems basically to have denoted a space between two points, expanding its meaning in Central Pacific languages to mean ‘distance at sea’ and then finally simply ‘ocean’.
 
-<table>
+<table id="2-4-3-5-117-POc-wasas-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>

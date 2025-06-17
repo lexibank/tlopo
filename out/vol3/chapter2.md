@@ -264,7 +264,7 @@ Contrasting with _&ast;quma_ along the bush fallowing cycle was POc _&ast;talu(n
 
 The term _&ast;qutan_ appears to have denoted uncultivated land in general, whether it was _&ast;talu(n),_ land returning to secondary growth after cultivation, or bushland that had never been brought under cultivation. The term for the latter appears to have been POc _&ast;[waRu]waRu-_ 'appears' because there are phonological problems in the data. On one hand Misima, Proto Malaita-Makira and PPn all reflect the reconstructed form regularly, assuming that final _&ast;-o_ of PPn _&ast;wao_ reflects assimilation. On the other hand PMic medial _&ast;-l-_ reflects POc &ast;-l-, not _&ast;-R-_. This irregularity is unexplained, but cannot be dismissed too lightly, as Proto Malaita- Makira _&ast;[walu]walu_ could also reflect a form with POc _&ast;-l-_. I reconstruct POc _&ast;[waRu]waRu_ because this explains a larger range of reflexes, but further data might lead to a revision.[^7]
 
-<table>
+<table id="3-2-5-None-35-POc-waruwaru-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -595,7 +595,7 @@ POc _&ast;kanaŋ_ and its variant _&ast;kanan_, both 'staple food, food in gener
 
 <a id="p-41"></a>
 
-<table>
+<table id="3-2-6-1-41-POc-kana-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -875,7 +875,7 @@ A further twist is reflected in the forms under 'cf. also' above. The base of PM
 
 Several reflexes of POc _&ast;kuta_ denote a major staple in the language concerned, either banana or yam, suggesting that the POc term denoted 'staple food'. However, it is also pos- sible that _&ast;kuta_ was originally a specialised verb of eating, as the Gumawana, Iduna, Gela and Tolo glosses imply.
 
-<table>
+<table id="3-2-6-1-42-POc-kuta-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -956,7 +956,7 @@ The term POc _&ast;tamaji_ 'additional ingredients to accompany starchy food' is
 
 Reflexes of _&ast;tamaji_ with meanings supporting the reconstructed meaning are found in Mapos Buang (NNG), Gela, Longgu and Bauro[^16] (all SES) and perhaps Teop (MM). A larger number of reflexes support another meaning, 'provisions for a journey': they are found in Bariai, Takia (both NNG), Dawawa (PT) and Sursurunga (MM). However, these are all Western Oceanic reflexes, implying that this meaning may have developed in the west after Oceanic speakers had begun to spread out across Oceania.
 
-<table>
+<table id="3-2-6-2-43-POc-tamaji-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1108,7 +1108,7 @@ A simple preliminary hypothesis is that these prefixes label their denotata as m
 
 Data from other Oceanic languages suggest an alternative hypothesis, namely that a reflex of _&ast;kayu_ occurs in cases where the following root is in some way descriptive of the tree, i.e. cases parallel to English 'flame tree', 'rain tree', 'coral tree', 'bead tree' and 'canoe tree', all coinages naming trees of the Pacific. Among the data above Patpatar _i-kon_ 'Heritiera littoralis' is a strikingly obvious example of this. The cognate set below is presented in ch.6, §4.4, and it is argued there that it reflects POc _&ast;kayu qone_, which can be glossed 'beach tree' (_&ast;qone_ 'beach').
 
-<table>
+<table id="3-2-7-1-45-POc-kayuqone-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1271,7 +1271,7 @@ The classifier _faʔi_ is described by Deck as being used to count round, compac
 
 Plant names which begin with the POc prefix _&ast;mala-_ 'resembling' occur quite frequently in Oceanic languages.[^23] This has evidently been an important means of forming new plant names, most often by exploiting the resemblance of one tree to another.[^24] As in the reduplicative process described below (§7.2), the tree denoted by a name with _&ast;mala-_ is generally inferior in some way to the one denoted by the plain root.
 
-Examples from Nakanai (MM) are: _mala-savula_ 'a plant, Ficus sp.' (< _savula_ 'the fruit of a tree, candlenut, Aleurites moluccana'); _mala-sesege_ 'a plant, Acrostichum aureum' (< _e-sesege_ 'small black crablike shellfish (PLURAL)'); _mala-viva-viva_ 'a wild shrub, Clerondendron paniculatum, considered to be related to _e-viva_ 'cultivated shrub with edible leaves, Abelmoschus manihot'. Similar examples are found in other Meso-Melanesian languages: Kara and Patpatar of New Ireland and Nehan of Nissan Island ([Ross 2005](../references.md#source-Ross2005)b).
+Examples from Nakanai (MM) are: _mala-savula_ 'a plant, Ficus sp.' (< _savula_ 'the fruit of a tree, candlenut, Aleurites moluccana'); _mala-sesege_ 'a plant, Acrostichum aureum' (< _e-sesege_ 'small black crablike shellfish (PLURAL)'); _mala-viva-viva_ 'a wild shrub, Clerondendron paniculatum, considered to be related to _e-viva_ 'cultivated shrub with edible leaves, Abelmoschus manihot'. Similar examples are found in other Meso-Melanesian languages: Kara and Patpatar of New Ireland and Nehan of Nissan Island ([Ross 2005b](../references.md#source-Ross2005b)).
 
 
 <a id="p-50"></a>
@@ -1290,7 +1290,7 @@ In Kwara'ae (SES), [Kwa'ioloa & Burt](../references.md#source-KwaioloaandBurt200
 
 In Raga (NCV), [Walsh](../references.md#source-Walsh2004) ([2004](../references.md#source-Walsh2004)) notes _mal-buliva_ 'unidentified Ficus sp.' (< _buliva_ 'Ficus aspera'), _mal-ɣaviɣa_ 'unidentified tree sp.' (< _ɣaviɣa_ 'Malay apple, Syzygium malaccensis'), _mal-walahi_ 'unidentified tree sp.' (< _walahi_ 'Semicarpus vitiensis') and _mal-bei-bei_ 'unidentified Polyscias sp.' (< _bei_ 'Polyscias sp.').
 
-Examples are also found in Fijian and Polynesian languages. Like reduplication as a process in forming plant names, POc _&ast;mala-_ as a plant-name formative receives support from evidence outside Oceanic which suggests that it is descended from a PMP form ([Ross 2005](../references.md#source-Ross2005)b).
+Examples are also found in Fijian and Polynesian languages. Like reduplication as a process in forming plant names, POc _&ast;mala-_ as a plant-name formative receives support from evidence outside Oceanic which suggests that it is descended from a PMP form ([Ross 2005b](../references.md#source-Ross2005b)).
 
 
 <a id="s-7-2"></a>
@@ -1306,7 +1306,7 @@ From closely related Kilivila (Trobriand Islands) Ralph Lawton (pers. comm.) pro
 
 The POc term ancestral to Dobu _udi_ 'banana' was _&ast;pudi_ (ch.9, §3). Its reduplicated form _&ast;pudi-pudi_ is a candidate for reconstruction with the meaning 'wild banana', at least in PWOc.
 
-<table>
+<table id="3-2-7-2-50-PWOc-pudipudi-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
 <td>
@@ -1369,7 +1369,7 @@ In Marovo (MM) several forms are found with a somewhat different semantic deriva
 
 [^5]: The term is older, but is used, e.g., by ([Flavelle 1991](../references.md#source-Flavelle1991)) principally to designate the cultivation of a village orchard rather than the whole system of plant cultivation including garden, orchard and tending forest trees.
 
-[^6]: Madak (New Ireland) shares phonological features with its Papuan neighbour Kuot that are largely not shared by neighbouring Oceanic languages ([Ross 1994](../references.md#source-Ross1994a)c). Several languages of western and southwest New Britain (Bebeli, Sengseng, Kaulong) mark human gender in certain ways that are otherwise unknown in Oceanic languages.
+[^6]: Madak (New Ireland) shares phonological features with its Papuan neighbour Kuot that are largely not shared by neighbouring Oceanic languages ([Ross 1994c](../references.md#source-Ross1994c)). Several languages of western and southwest New Britain (Bebeli, Sengseng, Kaulong) mark human gender in certain ways that are otherwise unknown in Oceanic languages.
 
 [^7]: Gela ao may not be cognate, as the expected Gela form is t walu .
 
@@ -1403,6 +1403,6 @@ In Marovo (MM) several forms are found with a somewhat different semantic deriva
 
 [^22]: [Henderson & Hancock](../references.md#source-HendersonandHancock1988) ([1988](../references.md#source-HendersonandHancock1988): 277) write that _faʔi_ means 'small tree'. This is not correct: it is used with small trees because no other classifier is more appropriate.
 
-[^23]: The matters discussed in this section and the next are treated in greater detail in [Ross](../references.md#source-Ross2005) ([2005](../references.md#source-Ross2005)b).
+[^23]: The matters discussed in this section and the next are treated in greater detail in [Ross](../references.md#source-Ross2005b) ([2005b](../references.md#source-Ross2005b)).
 
 [^24]: On SE Solomonic evidence _&ast;mala-_ is probably a grammaticisation of a verb _&ast;mala_ 'resemble'. For Kwaio [Keesing](../references.md#source-Keesing1975) ([1975](../references.md#source-Keesing1975)) records _mala-_ 'prefix of resemblance', _mala-_ 'resemble'. For Arosi [Fox](../references.md#source-Fox1978) ([1978](../references.md#source-Fox1978)) records _mara_ 'like, as; imitate' (_mara ia_ 'like him'). In these languages, the reflex of _&ast;mala-_ evidently remains productive, but I have also found limited evidence of productivity in some languages outside the SE Solomonic group.

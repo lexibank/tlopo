@@ -23,7 +23,7 @@ Most Oceanic languages have a wide range of terms for different kinds of nets. T
 
 <a id="p-212"></a>
 
-<table>
+<table id="1-8-2-None-212-POc-pukot-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -102,7 +102,7 @@ Most Oceanic languages have a wide range of terms for different kinds of nets. T
 
 Reflexes of _&ast;pukot_ meaning specifically 'seine' occur in both WOc (Kove, Nakanai) and EOc (Arosi, Sa'a) witnesses. This suggests the strong possibility that _&ast;pukot_ denoted 'seine' in POco The more generalised meanings of other witnesses do not rule out this implication.
 
-<table>
+<table id="1-8-2-None-212-POc-reke-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -171,7 +171,7 @@ Reflexes of _&ast;pukot_ meaning specifically 'seine' occur in both WOc (Kove, N
 
 _&ast;reke_ perhaps also referred to a seine net, but its Eastern Oceanic reflexes imply that it may have referred to an end or pocket of the net.
 
-<table>
+<table id="1-8-2-None-212-POc-lawanq-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -226,7 +226,7 @@ _&ast;reke_ perhaps also referred to a seine net, but its Eastern Oceanic reflex
 
 <a id="p-213"></a>
 
-<table>
+<table id="1-8-2-None-213-POc-kuppena-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -298,7 +298,7 @@ Figure 27c: Another kind of _&ast;ku(p,pʷ)ena_. We lack a specific reconstructi
 
 The techniques that involve large nets usually require use of floats and sinkers. We have a reconstruction for net float:
 
-<table>
+<table id="1-8-2-None-214-POc-uto-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -373,7 +373,7 @@ There is also a competing form that co-exists with _&ast;utoŋ_ in the Central P
 
 The only terms I can locate for sinker are reflexes of POc _&ast;patu_ 'stone', or the name of the cowrie shell which is sometimes used as a sinker:
 
-<table>
+<table id="1-8-2-None-215-POc-buliq-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -407,7 +407,7 @@ The only terms I can locate for sinker are reflexes of POc _&ast;patu_ 'stone', 
 
 Other reconstructions that can be included within the vocabulary of nets are:
 
-<table>
+<table id="1-8-2-None-215-POc-sika-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -457,7 +457,7 @@ Other reconstructions that can be included within the vocabulary of nets are:
 
 Figure 28: POc &ast;sika 'netting needle'
 
-<table>
+<table id="1-8-2-None-215-POc-mata-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -504,7 +504,7 @@ POc _&ast;mata-_ and its reflexes in many contemporary languages extend to a ran
 
 Another term for net gauge is found in Eastern Oceania:
 
-<table>
+<table id="1-8-2-None-215-PCP-qava-a">
 <tr>
 <td><strong>PCP</strong></td><td> </td>
 <td>
@@ -543,7 +543,7 @@ Another term for net gauge is found in Eastern Oceania:
 
 Some communities use a scareline for fishing, in which leaves are tied to a long rope which is drawn through the water. A term for this has been reconstructed to PCP level, although it is possible that cognates are derived from POc _&ast;raun_ 'leaf':
 
-<table>
+<table id="1-8-3-None-216-PCP-rau-a">
 <tr>
 <td><strong>PCP</strong></td><td> </td>
 <td>
@@ -585,7 +585,7 @@ Use of fishhooks was evidently not an automatic 'given' in western Oceanic commu
 
 Nonetheless, the linguistic evidence leaves us in no doubt that POc speakers were familiar with the technique.
 
-<table>
+<table id="1-8-4-None-216-POc-apon-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -648,7 +648,7 @@ Nonetheless, the linguistic evidence leaves us in no doubt that POc speakers wer
 
 
 
-<table>
+<table id="1-8-4-None-216-POc-kawil-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -723,7 +723,7 @@ POc _&ast;kawil_ is widely attested. I have over fifty reflexes containing speci
 
 Figure 29: POc _&ast;kawil_ 'fish hook ', POc _&ast;ta(g,k)o_ '(barbless?) fish hook'. On the left is a coconut shell fish hook; on the right is a wooden two-piece fish hook
 
-<table>
+<table id="1-8-4-None-217-POc-tagko-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -763,7 +763,7 @@ Figure 29: POc _&ast;kawil_ 'fish hook ', POc _&ast;ta(g,k)o_ '(barbless?) fish 
 
 The extension of a meaning from a material to something made from that material is very common across languages (viz. English _glass_/_a glass_, _cork_/_a cork_). Examples occur in Oceanic languages as well (Bauan _gasau_ 'a reed ; an arrow ', Tolai _vat_ 'a stone, a sinker'). POc speakers evidently made fishhooks from a variety of shells, and in some daughter languages the term for a particular shell has become the term for a fishhook (made from that shell?). For instance, POc _&ast;kima_ 'clamshell' is reflected in some Central Papuan languages as _kimai_ 'fishhook' ([Ross 1994](../references.md#source-Ross1994a)a: 404). A similar example is:
 
-<table>
+<table id="1-8-4-None-217-POc-qunap-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -846,7 +846,7 @@ Figure 30: POc &ast;bayan 'trolling lure, trolling hook'
 
 We have evidence, both archaeological and linguistic, that trolling lures were also widely used. This technique of dragging a line through the water, with a lure of mother-of-pearl or similar bright shell, is used to catch bonito and other pelagic fish from large paddling or sailing canoes.
 
-<table>
+<table id="1-8-4-None-218-POc-bayan-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -966,7 +966,7 @@ John Lynch (pers.comm.) points out that the final _-ñ_ of Anejom _ne-pyañ_ ref
 
 <a id="p-219"></a>
 
-<table>
+<table id="1-8-4-None-219-POc-bani-a">
 <tr>
 <td><strong>PCEMP</strong></td><td> </td>
 <td>
@@ -1021,7 +1021,7 @@ A form PMP/POc _&ast;baŋi_ 'bait', is reconstructable on the basis of Javanese 
 ## 5. Fish trap
 
 
-<table>
+<table id="1-8-5-None-219-POc-pupu-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -1086,7 +1086,7 @@ The term is widely attested. It is noteworthy that we have no Polynesian cognate
 ## 6. Fish weir
 
 
-<table>
+<table id="1-8-6-None-220-POc-bara-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1131,7 +1131,7 @@ He describes various types of weirs, for example, _pa kiokio_ (roughly Z-shaped)
 ## 7. Fish poison
 
 
-<table>
+<table id="1-8-7-None-220-POc-tupa-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -1216,7 +1216,7 @@ He describes various types of weirs, for example, _pa kiokio_ (roughly Z-shaped)
 
 <a id="p-221"></a>
 
-<table>
+<table id="1-8-7-None-221-POc-puna-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1251,7 +1251,7 @@ He describes various types of weirs, for example, _pa kiokio_ (roughly Z-shaped)
 
 From North New Guinea and New Ireland we have been able to reconstruct a lower-level term:
 
-<table>
+<table id="1-8-7-None-221-PWOc-mmali-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
 <td>
@@ -1290,7 +1290,7 @@ The kernel of the fruit of Barringtonia asiatica (POc _&ast;putun_) is used for 
 ## 8. Torch fishing
 
 
-<table>
+<table id="1-8-8-None-221-POc-dramar-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -1355,7 +1355,7 @@ Night-fishing is still a popular and widespread activity throughout the region. 
 
 Most Oceanic languages contain a number of terms for spear, and it is probable that POc was no exception. There are various ways in which spears can be physically distinguished. There may be a distinction between fishing, fowling and fighting spears. Often, but not always, fishing spears have three or more prongs. Shorter spears can be used for thrusting, longer spears for hurling. Spears can be multi-barbed, have a single barb, or be barbless. They can be made with a head that separates from the shaft. Every language community will name its spears according to combinations of these and possibly other properties. Although we have been able to reconstruct perhaps six POc terms, it has been difficult to distinguish between them, other than to single out _&ast;tara_ and _&ast;kuj(u,i)r_ as probably fish spears. At the generic level-and that is itself a flexible category which can include arrows, and possibly other pointed weapons such as darts and spikes - _&ast;qio(r,R)_ seems to have the widest distribution, although it does not occur east of Vanuatu. For the Central Pacific, _&ast;sao(t)_ seems the most likely generic term. In POc times, some spears would have had obsidian heads, and the term used for these was evidently &ast;koto 'obsidian head of spear' (Ch. 4, §4.1.3).
 
-<table>
+<table id="1-8-9-None-222-POc-saot-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -1412,7 +1412,7 @@ Most Oceanic languages contain a number of terms for spear, and it is probable t
 
 
 
-<table>
+<table id="1-8-9-None-222-POc-qiorr-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1502,7 +1502,7 @@ Figure 32: POc _&ast;qio(r,R)_, POc _&ast;sao(t)_, POc _&ast;bako_ all 'spear' o
 
 As a subset of the above, certain NNG languages have inserted a medial consonant derived from epenthetic glides: Kove _iðo_ 'spear'; Bariai _ido_ 'arrow'; Gitua _izo_ 'spear'; Wogeo _iwo_ 'spear'. This appears to be a local feature, but not attributable to a common protolanguage.
 
-<table>
+<table id="1-8-9-None-223-POc-bako-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -1541,7 +1541,7 @@ As a subset of the above, certain NNG languages have inserted a medial consonant
 
 (In all these languages, _&ast;k_ is regularly lost.)
 
-<table>
+<table id="1-8-9-None-223-POc-kujuir-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1616,7 +1616,7 @@ There is sufficient consistency among the glosses of this set to suggest that th
 
 Figure 33: POc _&ast;kuj(u,i)r_, POc _&ast;tara_ 'fish spear'
 
-<table>
+<table id="1-8-9-None-224-POc-tara-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1671,7 +1671,7 @@ Figure 33: POc _&ast;kuj(u,i)r_, POc _&ast;tara_ 'fish spear'
 
 It seems from Western Oceanic and Mussau glosses that the original POc meaning of _&ast;tara_ is probably 'fish spear'. Pn glosses indicate a later narrowing of meaning to 'barb' or 'prong'.
 
-<table>
+<table id="1-8-9-None-224-POc-sua-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1734,7 +1734,7 @@ Other terms used to describe the action of spearing are derived from POc _&ast;s
 
 <a id="p-225"></a>
 
-<table>
+<table id="1-8-9-None-225-PEOc-sari-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td>
@@ -1759,7 +1759,7 @@ Other terms used to describe the action of spearing are derived from POc _&ast;s
 
 The bow, although evidently not as widespread as the spear, is used both for fighting and, in a smaller version, for shooting birds and other small game. It seems that _&ast;pusuR_ was the POc term for the bow and arrow, _&ast;(p,pʷ)anaq_ more probably for the act of shooting.
 
-<table>
+<table id="1-8-9-None-225-POc-pusur-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -1806,7 +1806,7 @@ The bow, although evidently not as widespread as the spear, is used both for fig
 
 
 
-<table>
+<table id="1-8-9-None-225-POc-ppanaq-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -1898,7 +1898,7 @@ The bow, although evidently not as widespread as the spear, is used both for fig
 
 With regard to the reconstruction of _&ast;(p,pʷ)_, see Chapter 2, §2.1.
 
-<table>
+<table id="1-8-9-None-225-POc-tiba-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -2024,7 +2024,7 @@ The glosses of the reflexes of POc _&ast;tibʷa(ŋ)_ suggest strongly that it re
 
 <a id="p-226"></a>
 
-<table>
+<table id="1-8-9-None-226-POc-lolos-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -2091,7 +2091,7 @@ In the Southeast Solomons, Fiji and Polynesia at least (I have little informatio
 
 <a id="p-227"></a>
 
-<table>
+<table id="1-8-10-None-227-POc-paru-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -2131,7 +2131,7 @@ In the Southeast Solomons, Fiji and Polynesia at least (I have little informatio
 
 and an even more questionable reconstruction, in view of irregular final vowels:
 
-<table>
+<table id="1-8-10-None-227-POc-gapi-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -2165,7 +2165,7 @@ and an even more questionable reconstruction, in view of irregular final vowels:
 ## 11. Slingshot
 
 
-<table>
+<table id="1-8-11-None-227-POc-maga-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -2218,7 +2218,7 @@ and an even more questionable reconstruction, in view of irregular final vowels:
 
 
 
-<table>
+<table id="1-8-11-None-227-POc-kaio-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -2252,7 +2252,7 @@ Slingshots would have been used for hunting birds, flying foxes and perhaps the 
 ## 12. Trail and pitfall spikes
 
 
-<table>
+<table id="1-8-12-None-228-POc-suja-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -2294,7 +2294,7 @@ The setting of sharp spikes or slivers of wood or bamboo, hardened in the fire, 
 
 Birds are caught for food throughout the region, often by netting or by ground snares, fashioned from a spring-laden twig and a noose. Although I can locate many terms which refer to snare, noose and bird trap, the cognate sets collected are few. The following term was both a noun and a verb. Terms reflecting _&ast;&ast;piti_ in MM and SES languages seem to be local inventions formed from a noun _&ast;&ast;pit_ (after loss of POc _&ast;-a_) with the addition of the transitive suffix _&ast;-i-_.
 
-<table>
+<table id="1-8-13-None-228-POc-pita-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -2402,7 +2402,7 @@ With regard to the reconstruction of _&ast;(p,pʷ)_, see Chapter 2, §2.1.
 
 <a id="p-229"></a>
 
-<table>
+<table id="1-8-13-None-229-PEOc-tari-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td>
@@ -2442,7 +2442,7 @@ Another widespread method of catching birds involves the use of birdlime. Hooley
 
 [Blust](../references.md#source-Blust1983) ([1983](../references.md#source-Blust1983)-84a) has reconstructed Proto WMP _&ast;pikat_ or _&ast;piket_ 'birdlime' and _&ast;mamikat_ or _&ast;makiket_ 'snare birds with birdlime', but I have not been able to locate any Oceanic reflexes. The reconstruction given below evidently refers generally to gum or resin, although in one instance, in Arosi, it is the first element in a compound, _buruhasi_, meaning 'bird trap'. The second element, _hasi_, means 'adhere'.
 
-<table>
+<table id="1-8-14-None-229-POc-bulit-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>

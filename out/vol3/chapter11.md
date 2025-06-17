@@ -66,7 +66,7 @@ Note that the initial syllable of _&ast;[ka]ŋaRi_ is reflected only in Admiralt
 
 Marshallese _kaŋal_ 'Pisonia grandis' looks as if it is a borrowing from a language retaining initial _ka-_, i.e. Admiralties or Western Oceanic, but on current knowledge of Oceanic settlement history it is difficult to see how this could have occurred.
 
-<table>
+<table id="3-11-2-1-315-POc-kaari-a">
 <tr>
 <td><strong>PCEMP</strong></td><td> </td>
 <td>
@@ -303,7 +303,7 @@ cf. also:
 
 The denotatum of PWOc _&ast;pinuaq_ is not clear, as the one Papuan Tip witness is glossed 'Terminalia catappa', the Meso-Melanesian witnesses all 'canarium almond', presumably C. indicum. It is possible - but not probable - that lthe items listed below reflect POc _&ast;pinu(q)an_ 'Macaranga spp.' (§2.5) with a change in denotatum.
 
-<table>
+<table id="3-11-2-1-316-PWOc-pinuaq-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
 <td>
@@ -351,7 +351,7 @@ The POc reconstructions _&ast;(q)alipa_ and _&ast;lalipa_ are problematic both s
 
 <a id="p-317"></a>
 
-<table>
+<table id="3-11-2-1-317-POc-qalipa-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -445,7 +445,7 @@ On Lihir the leaves of Inocarpus fagifer are used to parcel up food for cooking 
 
 Blust (ACD) argues that [Dempwolff](../references.md#source-Dempwolff1938) ([1938](../references.md#source-Dempwolff1938)) confused reflexes of POc _&ast;qipil_ 'ironwood, Intsia bijuga' (ch.7, 4.9) with those of POc _&ast;ipi_ 'Tahitian chestnut, Inocarpus fagifer'. The difference between the two denotata, he suggests, justifies separate reconstructions. He is certainly right, as Marovo has distinct reflexes of the two terms, respectively _kivili_ and _ivi_.[^7]
 
-<table>
+<table id="3-11-2-2-318-POc-ipi-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -569,7 +569,7 @@ Blust (ACD) argues that [Dempwolff](../references.md#source-Dempwolff1938) ([193
 
 <a id="p-319"></a>
 
-<table>
+<table id="3-11-2-2-319-PEOc-mabe-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td>
@@ -712,7 +712,7 @@ These considerations influence the interpretation and glossing of the reconstruc
 
 The final _&ast;-(ŋ)_ is added on the basis of Kara _falaŋ_. However, the absence of a reflex in other Meso-Melanesian languages, where a final-consonant reflex is expected, makes its reconstruction doubtful.
 
-<table>
+<table id="3-11-2-3-320-POc-pala-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -764,7 +764,7 @@ The final _&ast;-(ŋ)_ is added on the basis of Kara _falaŋ_. However, the abse
 
 <a id="p-322"></a>
 
-<table>
+<table id="3-11-2-3-322-PEOc-pala-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td>
@@ -814,7 +814,7 @@ The final _&ast;-(ŋ)_ is added on the basis of Kara _falaŋ_. However, the abse
 
 Also seemingly reconstructable on the basis of the cognate set below is POc _&ast;pele_, but the fact that it differs from POc _&ast;pala(ŋ)_ only in its vowels suggests that some or all of the terms in the set reflect borrowings associated with the westward expansion of either B. procera or B. edulis. Additionally problematic are the fact that the two terms found in New Britain (Nakanai, Meramera _uele_) denote other nut trees and not a Barringtonia sp., and the fact that they reflect POc initial _&ast;w-_ rather than _&ast;p-_.
 
-<table>
+<table id="3-11-2-3-322-mm-nakanai-uele">
 <tr>
 <td>MM</td>
 <td>Nakanai</td>
@@ -911,7 +911,7 @@ Also seemingly reconstructable on the basis of the cognate set below is POc _&as
 
 Although _&ast;kinu_ 'edible Barringtonia species' has reflexes in both Meso-Melanesian and SE Solomonic languages, the members of the set are spread across the border between Western and Eastern Oceanic, so borrowing is more probable than shared inheritance from POc.
 
-<table>
+<table id="3-11-2-3-322-mm-roviana-kinu">
 <tr>
 <td>MM</td>
 <td>Roviana</td>
@@ -998,7 +998,7 @@ In Vanuatu and on Waya (Fiji) the wood of T. catappa was carved. In Vanuatu it i
 
 Comments in the agronomic literature about the relative insignificance of T. catappa are belied by the fact that there is a term with very widespread reflexes, namely POc _&ast;talise_. The denotatum of reflexes from New Guinea and the Bismarcks is usually noted simply as 'Terminalia sp.', but it is a reasonable inference that reflexes from coastal locations in New Guinea, from New Britain and New Ireland and from small islands all denote T. catappa (R.M. Bourke, pers. comm.) and that this was the denotatum of POc _&ast;talise_. If this interpretation is correct, then no term for T. kaernbachii is reconstructable on the basis of the available data.
 
-<table>
+<table id="3-11-2-4-324-POc-talise-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -1280,7 +1280,7 @@ Comments in the agronomic literature about the relative insignificance of T. cat
 
 Two other POc terms possibly denoted Terminalia species: _&ast;tapoRa_ and _&ast;qatV_. The POc denotatum of _&ast;tapoRa_ is unclear. In PEOc it evidently denoted a species of Terminalia, possibly T. catappa,[^13] but the glosses of the Takia and Nehan reflexes make it impossible to determine its POc denotation.
 
-<table>
+<table id="3-11-2-4-326-POc-tapora-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1396,7 +1396,7 @@ Two other POc terms possibly denoted Terminalia species: _&ast;tapoRa_ and _&ast
 
 The set below appears to reflect a POc _&ast;qatV_. Superficially Nehan _kasasas_ appears cognate, but it is at best a borrowed reflex. The expected Nehan reflex would be _&ast;ata_: Nehan _k-_ and _-s-_ reflect POc _&ast;k_ and _&ast;s_ respectively. T. complanata and T. sepicana are both uncultivated edible species, the nuts of which are occasionally consumed as snacks, and so the gloss 'Terminalia sp. with edible nut' is well enough supported.
 
-<table>
+<table id="3-11-2-4-326-POc-qatv-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1472,7 +1472,7 @@ On Waya the trunks are used for house rafters and leaves for thatching ([Gardner
 
 POc _&ast;padran_ appears to have specifically denoted Pandanus tectorius, but was evidently also used as a generic for pandanus species. POc _&ast;kiRe_ and _&ast;poipoi_ probably denoted only P. tectorius or perhaps certain cultivars of P. tectorius.
 
-<table>
+<table id="3-11-2-5-328-POc-padran-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -1635,7 +1635,7 @@ POc _&ast;padran_ appears to have specifically denoted Pandanus tectorius, but w
 
 <a id="p-329"></a>
 
-<table>
+<table id="3-11-2-5-329-POc-kire-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -1731,7 +1731,7 @@ POc _&ast;padran_ appears to have specifically denoted Pandanus tectorius, but w
 
 
 
-<table>
+<table id="3-11-2-5-329-POc-poipoi-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1826,7 +1826,7 @@ Figure 11.5: Left Pandanus tectorius: A, tree at its tallest; B, young plant whe
 
 [Lynch](../references.md#source-Lynch2004a) ([2004a](../references.md#source-Lynch2004a)) suggests that the following set may also reflect POc _&ast;poipoi_.
 
-<table>
+<table id="3-11-2-5-330-PSOc-vaiyu-a">
 <tr>
 <td><strong>PSOc</strong></td><td> </td>
 <td>
@@ -1898,7 +1898,7 @@ The fruiting spike is edible but rarely eaten, [Sorensen](../references.md#sourc
 
 The POc term for P. dubius was _&ast;pakum_.[^20]
 
-<table>
+<table id="3-11-2-5-330-POc-pakum-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -2029,7 +2029,7 @@ POc _&ast;mʷafia_ apparently denoted Pandanus conoideus.[^21] This reconstructi
 
 Another interpretation of the data is also possible, namely that the items listed below, other than Arosi _mʷa-mʷana_, reflect POc _&ast;moñak_ 'fat, oil, coconut cream; tasty' (ch.12, §4.2), since the fruit of Pandanus conoideus are both oily and tasty. If this were so, then Arosi _mʷa-mʷana_ and the items listed under 'cf. also' would probably reflect a PEOc _&ast;mʷaŋV_ 'pandanus leaf.
 
-<table>
+<table id="3-11-2-5-332-POc-mana-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -2177,7 +2177,7 @@ cf. also:
 
 [Peekel](../references.md#source-Peekel1984) ([1984](../references.md#source-Peekel1984): 41) remarks that Pandanus lamekotensis is readily distinguished from other species. However, I have otherwise found it mentioned only by [Kennedy & Clarke](../references.md#source-KennedyandClarke2004) ([2004](../references.md#source-KennedyandClarke2004)), who provide no additional information, and it is possible that its distribution is limited to New Ireland. Indeed, Peekel did not find it in the south of New Ireland or on the Gazelle Peninsula of New Britain. It grows only on swampy creek banks, 4--7 m high with from 5 to 8 leaves, and its fruit clusters are oval, not 'fingers'. The ripe fruits, like those of P. tectorius are sometimes sucked by New Ireland villagers.
 
-<table>
+<table id="3-11-2-5-333-POc-kariqana-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -2230,7 +2230,7 @@ cf. also:
 
 The four reconstructions below each denoted a species or a variety of Pandanus, but the glosses do not allow us to determine which.
 
-<table>
+<table id="3-11-2-5-333-POc-ima-a">
 <tr>
 <td><strong>PCEMP</strong></td><td> </td>
 <td>
@@ -2275,7 +2275,7 @@ The four reconstructions below each denoted a species or a variety of Pandanus, 
 
 <a id="p-334"></a>
 
-<table>
+<table id="3-11-2-5-334-POc-ppasarr-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -2323,7 +2323,7 @@ The four reconstructions below each denoted a species or a variety of Pandanus, 
 
 
 
-<table>
+<table id="3-11-2-5-334-PWOc-sjaqkumu-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
 <td>
@@ -2367,7 +2367,7 @@ The four reconstructions below each denoted a species or a variety of Pandanus, 
 
 
 
-<table>
+<table id="3-11-2-5-334-PWOc-moke-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
 <td>
@@ -2431,7 +2431,7 @@ It is planted for its edible seeds (its wood is soft and not durable). The fruit
 
 Although the seeds of other species are sometimes eaten in the Bismarcks ([Floyd 1954](../references.md#source-Floyd1954), [Powell 1976](../references.md#source-Powell1976)), the only reconstructable name for a Sterculia species is, as one might expect, a Proto Remote Oceanic etymon, _&ast;wasi-wasi_ 'Sterculia vitiensis'. There is a formally identical POc etymon, POc _&ast;wasi-wasi_ 'Abroma augusta'. A. augusta is a small shrub (ch.7, §6.1.1) and S. vitiensis a large tree, so it is not clear whether the two terms were innovated independently or have a common origin.
 
-<table>
+<table id="3-11-2-6-335-ProtoRemoteOceanic-wasiwasi-a">
 <tr>
 <td><strong>ProtoRemoteOceanic</strong></td><td> </td>
 <td>
@@ -2510,7 +2510,7 @@ A well known use of P. edule seed cases in the Bismarcks, the Solomons and Vanua
 
 The only reconstructable term for P. edule is PEOc _&ast;paRage_. Given that the tree is present in the Bismarcks, it seems odd that no POc or PWOc term can be reconstructed, but this may be due to the absence of relevant data from the sources.
 
-<table>
+<table id="3-11-2-7-336-PEOc-parage-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td>
@@ -2628,7 +2628,7 @@ The gloss of PMP _&ast;ñatuq_ below, 'a hardwood tree taxon, including at least
 
 Figure 11.8: Burckella obovata: A, tree; B, flowering shoot; C, shoot bearing fruit; D, old seed.
 
-<table>
+<table id="3-11-3-1-337-POc-natuq-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -2865,7 +2865,7 @@ How are we to explain this? There are two possible answers. One is that _&ast;mo
 
 The alternative answer is that there were inedible or barely edible Citrus species in Melanesia before European contact, which have been largely replaced by imported edible species. A bush lemon, Citrus hystrix, with almost no edible flesh ([French 1986](../references.md#source-French1986): 226) may be one of these. We can only infer that POc _&ast;molis_ designated either citrus-like genera or inedible species of Citrus, or both.[^24]
 
-<table>
+<table id="3-11-3-2-339-POc-molis-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -3048,7 +3048,7 @@ A small fruit tree which was apparently cultivated in the past, Corynocarpus cri
 
 POc _&ast;i(u)bu_ 'Corynocarpus cribbianus' is tentatively reconstructed - 'tentatively' because the forms shown under 'cf. also' appear to be formally connected with the members of this set, suggesting a PEOc _&ast;tabʷV_, but the history of these forms or their relationship to the apparent reflexes of _&ast;i(u)bu_ is unclear.
 
-<table>
+<table id="3-11-3-3-340-POc-iubu-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -3141,7 +3141,7 @@ It is possible that PMP _&ast;pahuq_ referred to M. indica and PMP _&ast;wai_ to
 
 M. minor, the traditional wild mango indigenous to the Bismarcks, is 10-25 m tall. The introduced M. indica needs a drier period each year to bear, whereas M. minor does not, and so the latter continues to be eaten mainly in locations where M. indica does not bear regularly. It is occasionally cultivated from seed. Its leaves are narrower than those of M . indica ([Peekel 1984](../references.md#source-Peekel1984): 326, [French 1986](../references.md#source-French1986):206--207, [Bourke in preparation](../references.md#source-Bourkeinpreparation), n.d.).
 
-<table>
+<table id="3-11-3-4-341-POc-pauq-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -3175,7 +3175,7 @@ M. minor, the traditional wild mango indigenous to the Bismarcks, is 10-25 m tal
 
 
 
-<table>
+<table id="3-11-3-4-341-POc-wai-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -3248,7 +3248,7 @@ M. minor, the traditional wild mango indigenous to the Bismarcks, is 10-25 m tal
 
 
 
-<table>
+<table id="3-11-3-4-341-POc-kora-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -3287,7 +3287,7 @@ M. minor, the traditional wild mango indigenous to the Bismarcks, is 10-25 m tal
 
 PWOc _&ast;kasuwai_ 'mango' seems to be a compound, with an unidentified element _&ast;kasu-_ and _&ast;wai_ 'mango'. The SE Solomons terms below reflect PSES _&ast;ɣohai_, which in turn reflects a putative POc †_&ast;koyai_. However, PSES _&ast;ɣohai_ probably reflects the borrowing of a reflex of _&ast;kasuwai_, perhaps before the dispersal of PSES, as the terms are regular reflexes of _&ast;ɣohai_.
 
-<table>
+<table id="3-11-3-4-342-PWOc-kasuwai-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
 <td>
@@ -3377,7 +3377,7 @@ cf. also:
 </table>
 
 
-<table>
+<table id="3-11-3-4-342-PWOc-basi-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
 <td>
@@ -3426,7 +3426,7 @@ P. pinnata displays considerable variety in form, especially in the New Guinea r
 
 The POc term for P. pinnata was _&ast;tawan_, reflected in all major Oceanic subgroups except Micronesian.
 
-<table>
+<table id="3-11-3-5-343-POc-tawan-a">
 <tr>
 <td><strong>PEMP</strong></td><td> </td>
 <td>
@@ -3729,7 +3729,7 @@ The wood is too soft for use in buildings, but in Vanuatu it is used to make can
 
 There was a single widely reflected POc term, _&ast;quRis_. I have assumed below that the PCP form was _&ast;wi_, with irregular loss of _&ast;q-_ from expected †_&ast;qul_. However, loss of _&ast;q-_ is regular in Fijian, and so Fijian _wī_ is a regular reflex of either proto form. [Geraghty](../references.md#source-Geraghty2004) ([2004](../references.md#source-Geraghty2004): 87) suggests that the PCP form was indeed _&ast;qui_ and that the Polynesian forms reflect borrowing from Fijian - but such a borrowing would have had to occur very early, to find its way to the extremes of Polynesia. It seems more likely that the PCP indeed had _&ast;wī_.
 
-<table>
+<table id="3-11-3-6-345-POc-quris-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -3924,7 +3924,7 @@ There was a single widely reflected POc term, _&ast;quRis_. I have assumed below
 
 In the Bismarcks an imported thorny shrub, Ximenia americana (syn. X. elliptica, X. aculeata),[^27] is evidently perceived as resembling S. cytherea, to judge from the names below. The resemblance is based on the fact that X. americana also has edible yellow ellipsoid fruit, but no larger than a cherry ([Peekel 1984](../references.md#source-Peekel1984): 160). E Kara combines the POc prefix _&ast;mala-_ 'resembling' (ch.2, §7.1.4) and _ukis_ 'S. cytherea'. The base _ukis_ is the reflex of POc _&ast;quRis_ 'S. cytherea' that would be expected in Tigak, immediately to the north of Kara. Further south, in Patpatar, the term for X. americana is _ku-kuris_, the reduplication implying that X. americana is an inferior or wild version of S. cytherea (ch.2, §7 .2).
 
-<table>
+<table id="3-11-3-6-346-mm-karae-malaukis">
 <tr>
 <td>MM</td>
 <td>Kara (East)</td>
@@ -3953,7 +3953,7 @@ PNCV _&ast;usi_ below appears to be an irregular reflex of POc _&ast;quRis_. Two
 
 Some of these reflexes are (also) used to denote the pawpaw/papaya, Carica papaya, a recent introduction; this reflects a perception in Vanuatu that Spondias cytherea and papaya are similar and somehow related.
 
-<table>
+<table id="3-11-3-6-346-PNCV-usi-a">
 <tr>
 <td><strong>PNCV</strong></td><td> </td>
 <td>
@@ -4026,7 +4026,7 @@ Some of these reflexes are (also) used to denote the pawpaw/papaya, Carica papay
 
 There are two possible external cognates of the PNCV etymon below. The first is Mussau (Adm) _malai_ 'Spondias cytherea' ([Lepofsky 1992](../references.md#source-Lepofsky1992)). However, Mussau _-ai_ does not correspond regularly with Paamese, Nguna _-i_. The second is Wayan (Fij) _māoli_ 'Spondias cytherea', but Wayan _-āo-_ does not correspond regularly with PNCV _&ast;-a-_. In parts of northern Vanuatu the term has been reapplied to Dracontomelon vitiense (ch.7, §4.4).
 
-<table>
+<table id="3-11-3-6-347-PNCV-mali-a">
 <tr>
 <td><strong>PNCV</strong></td><td> </td>
 <td>
@@ -4097,7 +4097,7 @@ There are two possible external cognates of the PNCV etymon below. The first is 
 
 Also puzzling is the connection between PNCV _&ast;mali_ and the items for Garuga floribunda listed below. There is reason to think that this is not a chance resemblance, as the Proto Remote Oceanic term _&ast;mala-usi_ 'Garuga sp.' literally meant 'like Spondias cytherea' (ch.7, §4.8), i.e. there was/is a perceived resemblance between Garuga and Spondias species. We cannot simply include the items below in the cognate set for PNCV _&ast;mali_ above, however, as the Paamese, Lewo and S Efate reflexes of _&ast;mal-mali_ differ from their reflexes of _&ast;mali_.
 
-<table>
+<table id="3-11-3-6-347-PNCV-malmali-a">
 <tr>
 <td><strong>PNCV</strong></td><td> </td>
 <td>
@@ -4152,7 +4152,7 @@ S. malaccense is an erect tree of medium height, 5-25 m tall, with spectacular w
 
 The POc term for S. malaccense was _&ast;kapika_, reflected in all major Oceanic subgroups except Micronesian. It may also have served as a generic for Syzygium species in general.
 
-<table>
+<table id="3-11-3-7-348-POc-kapika-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -4439,7 +4439,7 @@ The POc term for S. malaccense was _&ast;kapika_, reflected in all major Oceanic
 
 The three more narrowly distributed cognate sets below reflect other terms for Syzygium species. Whether these denoted cultivars of S. malaccense or other species, it is impossible to say.
 
-<table>
+<table id="3-11-3-7-350-POc-pokaq-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -4469,7 +4469,7 @@ The three more narrowly distributed cognate sets below reflect other terms for S
 
 
 
-<table>
+<table id="3-11-3-7-350-POc-mariasapa-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -4502,7 +4502,7 @@ cf. also:
 </table>
 
 
-<table>
+<table id="3-11-3-7-350-PAdm-cay-a">
 <tr>
 <td><strong>PAdm</strong></td><td> </td>
 <td>
@@ -4567,7 +4567,7 @@ Finschia chloroxantha is a medium-sized lowland rain forest tree with a blackish
 
 The cognate set below allows only a PEOc reconstruction. The one Western Oceanic item, Maringe _ɣlama_, is probably a borrowing from a neighbouring SE Solomonic language, especially as Maringe _ɣl-_ typically reflects POc _&ast;l-_, not _&ast;g-_. The species is not mentioned by [Peekel](../references.md#source-Peekel1984) ([1984](../references.md#source-Peekel1984)), a major source of botanical terms from New Ireland.
 
-<table>
+<table id="3-11-4-1-350-mm-maringe-lama">
 <tr>
 <td>MM</td>
 <td>Maringe</td>
@@ -4578,7 +4578,7 @@ The cognate set below allows only a PEOc reconstruction. The one Western Oceanic
 </tr>
 </table>
 
-<table>
+<table id="3-11-4-1-350-PEOc-gama-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td>
@@ -4646,7 +4646,7 @@ Figure 11.11: Left Parartocarpus venenosa: A, young tree; B, branch bearing shoo
 
 Although reflexes of PWOc _&ast;lapuka_ mean 'breadfruit' in some languages, the fact that there were at least two other POc terms for breadfruit (ch.9, §4) suggests that the reflexes glossed 'Parartocarpus venenosa' retain the POc denotation. Kwara'ae _rakʷa-na_ is irregular, with initial _r-_ for expected †_l-_ and suffixed _-na_ (medial _-kʷ-_ is a regular reflex of _&ast;-pʷ-_). Araki levu is irregular with _-e-_ for †_-a-_.
 
-<table>
+<table id="3-11-4-2-352-PWOc-lapuka-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
 <td>

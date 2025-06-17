@@ -1,4 +1,4 @@
-<table>
+<table id="{{ ctx['ID'] }}">
 {% set glosses = glosses_by_formid(ctx['ID']) %}
 {% for fid, group, lname, is_proto, form in get_reconstruction(ctx['ID']) %}
 <tr>

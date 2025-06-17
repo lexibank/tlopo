@@ -39,7 +39,7 @@ POc _&ast;ka[(r,l)a]qabusi_ appears to have denoted a taxon including at least A
 
 [Whistler](../references.md#source-Whistler1991b) ([1991b](../references.md#source-Whistler1991b): 51-52) glosses the Tongan reflex 'cat's tail' (_pusi_ 'cat' ), arguing that as the cat was a European introduction to Tonga, the name must be post-contact. However, this cognate set gives the lie to this interpretation.
 
-<table>
+<table id="3-8-2-1-238-POc-karlaqabusi-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -182,7 +182,7 @@ POc _&ast;ka[(r,l)a]qabusi_ appears to have denoted a taxon including at least A
 
 <a id="p-239"></a>
 
-<table>
+<table id="3-8-2-1-239-PEOc-karladroa-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td>
@@ -215,7 +215,7 @@ Trees of the genus Alphitonia are sub-canopy trees which are conspicuous because
 
 If Lukep (Pono) (NNG) _doi_ 'Cerbera manghas' is cognate (the two trees are of similar size and have similarly shaped leaves), then POc _&ast;doi_ is reconstructable, but only with the vague sense 'a medium-sized tree sp.'.
 
-<table>
+<table id="3-8-2-2-239-PCP-doi-a">
 <tr>
 <td><strong>PCP</strong></td><td> </td>
 <td>
@@ -301,7 +301,7 @@ The POc term for C. bartramia was _&ast;jamaR_. The Mwotlap, Mota and Vera'a ref
 
 Figure 8.1: Commersonia bartramia: A, tree; B, leaf: C, stem bearing leaves and flowering shoot; D, ageing mature fruit.
 
-<table>
+<table id="3-8-2-3-240-POc-jamar-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -388,7 +388,7 @@ The dark brown wood is strong and durable and provides houseposts and other hous
 
 The POc term _&ast;mʷala(q)u_ almost certainly denoted the Bismarcks species G. philippicum. Of the other two species represented, G. stipulare is apparently limited to Vanuatu and G. perakense is not reported from the Bismarcks.
 
-<table>
+<table id="3-8-2-4-241-POc-malaqu-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -489,7 +489,7 @@ PWOc _&ast;jimʷaR_ or _&ast;jimiR_ in all probability denoted the caulking subs
 
 <a id="p-242"></a>
 
-<table>
+<table id="3-8-2-4-242-PWOc-jimar-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
 <td>
@@ -601,7 +601,7 @@ Four reconstructions are offered, two for POc, two for PWOc, and all with the me
 
 POc _&ast;koka_ probably denoted several Macaranga species. Known reflexes with this meaning are found in New Ireland (MM) and in the Banks Islands of extreme north Vanuatu (NCV). The distribution of the items in the set below suggests that the term was reapplied to Bischofia javanica (ch.7, §5 .1) in Eastern Oceanic. The grounds for the reapplication are unclear, as Macaranga species are 5-10 m tall, whereas Bischofia javanica is a canopy tree up to 30m.
 
-<table>
+<table id="3-8-2-5-243-POc-koka-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -657,7 +657,7 @@ POc _&ast;koka_ probably denoted several Macaranga species. Known reflexes with 
 
 PMP _&ast;binu(q)an_ below is reconstructed on the basis of the Oceanic data and of Tagalog _binuaŋ_ 'M. tanarius, M. grandifolia' ([Madulid 2001b](../references.md#source-Madulid2001b): 191).
 
-<table>
+<table id="3-8-2-5-243-POc-pinuqan-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -776,7 +776,7 @@ PMP _&ast;binu(q)an_ below is reconstructed on the basis of the Oceanic data and
 
 <a id="p-244"></a>
 
-<table>
+<table id="3-8-2-5-244-PWOc-bara-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
 <td>
@@ -824,7 +824,7 @@ PMP _&ast;binu(q)an_ below is reconstructed on the basis of the Oceanic data and
 
 There are formal questions associated with the reconstruction of PWOc _&ast;kobo_ 'taxon of Macaranga spp.'. First, Far-east Manggarai, Razong, Rembong (all CMP) _kebak_ 'Macaranga tanarius' ([Verheijen 1990](../references.md#source-Verheijen1990): 226) is probably cognate with the items below. If so, we would expect a POc form †_&ast;koba(k)_ rather than _&ast;kobo_, so final PWOc _&ast;-o_ may represent an idiosyncratic innovation. Second, _&ast;kobo_ seems to have been conflated with _&ast;kope_ 'bamboo sp.' (see ch. l3, §3 .1) in Motu.
 
-<table>
+<table id="3-8-2-5-244-PWOc-kobo-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
 <td>
@@ -889,7 +889,7 @@ Blust (ACD) reconstructs PMP _&ast;adamay_ without initial _&ast;q-_, but adds t
 
 There is disagreement among cognates with regard to the final _&ast;-aqi_ of POc _&ast;qaramʷaqi_. Blust reconstructs the final _&ast;-ay_ of PMP _&ast;adamay_ with no _&ast;-q-_ on the basis of Cebuano _handalamay_ 'Pipturus argenteus', Maranao _aramai_ 'Pipturus arborescens' and the Sundanese reflex above, and so putative POc _&ast;-q-_ must be a post-PMP innovation. PMP _&ast;-ay_ is normally reflected as POc _&ast;-e_, but Raga, Sye and Anejom _-ai_ reflect POc _&ast;-aqi_, not _&ast;-e_. POc _&ast;-q-_ is also reflected in Kara _kaimek_ and Patpatar _karanek_, which sporadically retain it as _k_. POc _&ast;-aqi_ is also arguably the source of _-e_ in Marshallese _armʷe_ and of long _-ē_ in Wayan _rōmē_. Against the reconstruction of _&ast;-aqi_ are the Seimat, Apma, S Efate and all Central Pacific reflexes other than Wayan. [Geraghty](../references.md#source-Geraghty1990) ([1990](../references.md#source-Geraghty1990): 55) accounts for long final _-ā_ in Central Pacific reflexes by reconstructing PEOc/PCP _&ast;(q)aromʷaRa_. PEOc _&ast;-R-_ is usually lost in PCP but occasionally retained as _&ast;-l-_, which, Geraghty suggests, is reflected in NE Viti Levu _ŋala_ 'Pipturus sp.' (1990: 91). However, short of not just one but two syllables, this is a questionable reflex, and so I reconstruct PCP _&ast;qaromʷ(ē,ā)_. The ambiguity of the final long vowel is due to the disagreement between Wayan _-ē_ and Lau Fijian and Polynesian _-ā_. Geraghty is right, however, to take the long final vowel seriously, and it is not clear to me how this innovation arose.
 
-<table>
+<table id="3-8-2-6-245-POc-qaramaqi-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -991,7 +991,7 @@ There is disagreement among cognates with regard to the final _&ast;-aqi_ of POc
 
 <a id="p-246"></a>
 
-<table>
+<table id="3-8-2-6-246-PCP-qaromea-a">
 <tr>
 <td><strong>PCP</strong></td><td> </td>
 <td>
@@ -1087,7 +1087,7 @@ The premier uses of R. taitensis, however, all have to do with producing black c
 
 A number of groups in Indonesia and Melanesia practised ritual tooth-blackening as part of initiation, and this was perhaps also a custom among Proto Oceanic speakers ([Chowning 1991](../references.md#source-Chowning1991): 48-49).[^5] Across southern New Britain the blackening material was mineral (probably manganese). In Malaita it was made from R. taitensis, and made the teeth shiny black and allegedly strong. The veins and stems were removed from the leaves, and what remained was roasted in bamboo, then pulverised. This powder was mixed with a crushed blue-black powdery rock known as _oko_, and a chemical reaction produced a black mixture which was cooked further to produce a viscous dye which was coated onto the subject's teeth and left there for a week (during which the subject ate no solid foods). Occasionally the black would wear off after a few weeks, but usually it remained for life ([Henderson & Hancock 1988](../references.md#source-HendersonandHancock1988): 238, [Kwa'ioloa & Burt 2001](../references.md#source-KwaioloaandBurt2001): 108; see also vol.1, ch.4, §5.3).
 
-<table>
+<table id="3-8-2-7-247-POc-tawasi-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1189,7 +1189,7 @@ On the north coast of New Britain the bast serves as material for canoe lashings
 
 Blust (ACD) reconstructs PWMP _&ast;deRuŋ_ on the basis of western Malaya-Polynesian reflexes alone. The reflexes below show that POc _&ast;droRu(ŋ)_ 'Trema sp.' is reconstructable and thus that Blust's reconstruction should be re-labelled as PMP.
 
-<table>
+<table id="3-8-2-8-248-POc-droru-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -1258,7 +1258,7 @@ The two species provide straight poles for rafters. They are also good firewood 
 
 POc _&ast;maRako_ 'Trichospermum peekelii' is an unproblematic reconstruction.
 
-<table>
+<table id="3-8-2-9-248-POc-marako-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1369,7 +1369,7 @@ Although grasslands are rare in the Bismarck Archipelago, grasses of course grow
 
 Two less widely reflected terms, the refllexes of which are generic terms for grass, are POc _&ast;rabum_ and _&ast;(quta)quta_.
 
-<table>
+<table id="3-8-3-None-249-POc-rabum-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1432,7 +1432,7 @@ Two less widely reflected terms, the refllexes of which are generic terms for gr
 
 
 
-<table>
+<table id="3-8-3-None-249-POc-qutaquta-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1472,7 +1472,7 @@ Figure 8.5: Left Paspalum conjugatum. Middle Imperata cylindrica, sword grass. R
 
 In Proto Remote Oceanic, _&ast;mʷanaya_, another apparently generic term for grass occurred. This quite possibly also denoted a specific but now uncertain subtaxon.
 
-<table>
+<table id="3-8-3-None-250-ProtoRemoteOceanic-manaya-a">
 <tr>
 <td><strong>ProtoRemoteOceanic</strong></td><td> </td>
 <td>
@@ -1545,7 +1545,7 @@ By far the most frequently reflected etymon is _&ast;Reqi(t)_. POc _&ast;guRun_ 
 
 Blust (ACD) reconstructs PAn _&ast;Riaq_ 'sword grass, Imperata cylindrica' on the basis of Formosan reflexes. Whether PCEMP _&ast;Reqi_ is an irregular development from this, I do not know. This reconstruction is attributed to PCEMP on the basis of Far East Manggarai _riʔi_ ([Verheijen 1990](../references.md#source-Verheijen1990):221), Sasak _re_, Rotinese _li_ (all CMP), all 'sword grass, Imperata cylindrica'. Roviana and Marovo have the form _rekiti_, reflecting earlier _&ast;rekit_, but this appears to be an unsourced borrowing, as (i) the regular reflex of POc _&ast;-q-_ is zero and (ii) other languages which regularly retain a final POc consonant (Diodio, Wedau and Tawala) do not retain it here. The expected reflex in Roviana and Marovo is †_rei_, found in their close relative Nduke. All other languages in this cognate set with a non-zero reflex of POc _&ast;-q-_ reflect it regularly: no reflexes other than Roviana and Marovo require the reconstruction of _&ast;-k-_ in this etymon.
 
-<table>
+<table id="3-8-3-1-251-POc-reqi-a">
 <tr>
 <td><strong>PCEMP</strong></td><td> </td>
 <td>
@@ -1741,7 +1741,7 @@ Blust (ACD) reconstructs PAn _&ast;Riaq_ 'sword grass, Imperata cylindrica' on t
 
 It is probable that the Central Papuan (Taboro, Hula, Motu and Doura) forms in the set below reflect borrowing from an intrusive Papuan Tip language, as they reflect _&ast;k-_ rather than _&ast;g-_ ([Ross 1994](../references.md#source-Ross1994a)a: 408).
 
-<table>
+<table id="3-8-3-1-252-POc-gurun-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -1815,7 +1815,7 @@ Coix lacryma-jobi is a robust tropical grass, 1--1.5 m high, with shiny grains l
 
 <a id="p-253"></a>
 
-<table>
+<table id="3-8-3-2-253-POc-sila-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1861,7 +1861,7 @@ Coix lacryma-jobi is a robust tropical grass, 1--1.5 m high, with shiny grains l
 
 A reed-like grass dominant on dry hillsides, Miscanthus floridulus grows to about 2m tall. In some areas it is the predominant material for constructing house walls. In Kwara'ae the solid stems are used as roof battens to which sago thatch is attached, and also as arrow-shafts ([Peekel 1984](../references.md#source-Peekel1984): 47, [Kwa'ioloa & Burt 2001](../references.md#source-KwaioloaandBurt2001): 203).
 
-<table>
+<table id="3-8-3-3-253-POc-piyu-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1956,7 +1956,7 @@ The reconstruction below originates with [French-Wright](../references.md#source
 
 <a id="p-254"></a>
 
-<table>
+<table id="3-8-3-4-254-POc-pijo-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>

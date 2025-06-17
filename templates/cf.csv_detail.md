@@ -1,5 +1,5 @@
 {% set items, with_morpheme_gloss = get_cfitems(ctx['ID']) %}
-<table>
+<table id="{{ ctx['ID'] }}">
 {% for group, lname, form, mgloss, glosses in items: %}
 <tr>
 <td>{{ group }}</td>

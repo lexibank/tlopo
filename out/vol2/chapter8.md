@@ -119,7 +119,7 @@ Relational local nouns:
 
 The preposition _&ast;i_, which occurred before local nouns, is widely reflected in Oceanic languages, but there are also many languages in which a local noun occurs without a preposition.
 
-<table>
+<table id="2-8-2-1-236-POc-i-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -352,7 +352,7 @@ There are a number of languages in which the reflex of _&ast;i_ is the general l
 
 As mentioned above, a number of local nouns also formed POc local adverbs with the prefix _&ast;qa-_. [Jauncey](../references.md#source-Jauncey1997) ([1997](../references.md#source-Jauncey1997)) notes for Tamambo that the prefix _a-_ means ‘location in/at a place’, and must be prefixed to a noun signifying a place in relation to the speaker, i.e. a local noun. The cognate set is listed below. This is the _&ast;qa-_ which [Pawley](../references.md#source-Pawley1972) ([1972](../references.md#source-Pawley1972):82, 114) found in Southeast Solomonic and Northern Vanuatu languages as a formative of temporal adverbs (Ch. 9, p.324).
 
-<table>
+<table id="2-8-2-1-237-POc-qa-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -451,7 +451,7 @@ As far as possible, the cognate sets below are limited to reflexes of local-noun
 
 As a common noun POc _&ast;qutan_ meant ‘bushland, hinterland’ (vol. 1, p.118; this volume, Ch. 3, §5.1). As a local noun, however, _&ast;qutan_ denoted the direction of the bush, namely ‘inland’. By extension, this has come to mean ‘upwards’ in a number of languages, by virtue of the fact that the inland region is significantly higher than the coast on many Pacific islands.
 
-<table>
+<table id="2-8-2-2-238-POc-qutan-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -617,7 +617,7 @@ As a common noun POc _&ast;qutan_ meant ‘bushland, hinterland’ (vol. 1, p.11
 
 The cognate set below has fewer members that the one above, but appears to reflect a local noun with similar meanings. Polynesian reflexes display a vowel change and a change in meaning from ‘inland’ to ‘top, space above, up top’, a change presumably mediated by the fact that on a high island (as opposed to atoll) the inland of the island was also its ‘top’.
 
-<table>
+<table id="2-8-2-2-239-POc-loa-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -714,7 +714,7 @@ POc _&ast;tasik_ is quite often reflected as a local noun and presumably functio
 
 It is unlikely that POc &ast;laman normally occurred as a local noun, as only two local noun reflexes have been found (Mussau [Adm] lamana ‘beach’, Tigak [MM] laman ‘down there, at the beach’).
 
-<table>
+<table id="2-8-2-2-239-POc-laur-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -812,7 +812,7 @@ It is unlikely that POc &ast;laman normally occurred as a local noun, as only tw
 
 <a id="p-240"></a>
 
-<table>
+<table id="2-8-2-2-240-POc-tasik-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -901,7 +901,7 @@ It is unlikely that POc &ast;laman normally occurred as a local noun, as only tw
 
 The items reconstructed above for ‘inland’ and ‘seawards’ were orientations at an angle to the coastline. Also recorded for a few languages are items referring to the two directions along the coastline. Possible PWOc candidates for these meanings are given below. Although the data are fragmentary, the fact that both members of the pair are recorded in widely separated languages supports their reconstruction. The Nalik glosses ‘south-east’ and ‘north-west’ are equivalent respectively to ‘to one’s left when facing the sea’ and ‘to one’s right when facing the sea’ if one is on the west coast of New Ireland.
 
-<table>
+<table id="2-8-2-2-240-PWOc-pa-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
 <td>
@@ -937,7 +937,7 @@ The items reconstructed above for ‘inland’ and ‘seawards’ were orientati
 
 
 
-<table>
+<table id="2-8-2-2-240-PWOc-ta-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
 <td>
@@ -982,7 +982,7 @@ Nakanai (MM) has the non-cognate pair of roots (used in directional and local ve
 
 The cognate set attesting POc _&ast;Rumaq_ ‘house’ was presented in vol. 1, p.48. It is reasonably clear that it also functioned as a local noun in the phrase _&ast;i Rumaq_ ‘at home’, and apparently also in the adverb _&ast;qa-Rumaq_.
 
-<table>
+<table id="2-8-2-2-241-POc-rumaq-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -1069,7 +1069,7 @@ The cognate set attesting POc _&ast;Rumaq_ ‘house’ was presented in vol. 1, 
 
 POc _&ast;tanoq_ is reconstructed as a common noun meaning ‘earth, soil, ground; land’ in vol. 1, p.119 and in this volume, p.41. However, there is well distributed evidence that as a local noun it meant ‘down below’. This is not surprising when one considers that POc speakers must generally have lived in stilt houses (vol. 1, Ch. 3) for whose inhabitants the ground was indeed ‘down below’.
 
-<table>
+<table id="2-8-2-2-241-POc-tanoq-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -1177,7 +1177,7 @@ A few of the reflexes of POc _&ast;atas_ ‘top, space above’ are monovalent r
 
 The items listed under ‘cf. also’ below reflect a Proto North Bougainville form _&ast;yasa_, which has replaced _&ast;yatasa_. Possibly _&ast;yasa_ is derived from expected _&ast;yatasa_ by idiosyncratic deletion of the middle syllable.
 
-<table>
+<table id="2-8-2-2-242-POc-atas-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -1374,7 +1374,7 @@ cf. also:
 
 POc _&ast;laŋit_ ‘sky, weather’ is reconstructed as a common noun in Chapter 5, but the reflexes below suggest that it was also used as a POc local noun.
 
-<table>
+<table id="2-8-2-2-243-POc-lait-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -1438,7 +1438,7 @@ The meanings above overlap with the adverb reflexes of POc _&ast;sake_ ‘go upw
 
 It is less clear whether POc _&ast;laka_ ‘up above’ was a noun or a verb. In Takia its reflex is a zero-valency noun, in Mapos Buang and Kiriwina a local adverb. These could be derived from either a noun or a directional verb. Monovalent noun reflexes occur in the two New Ireland (MM) languages Lihir and Siar, but in other New Ireland languages (Lavongai, Tigak and Kara) the reflexes are verbs. However, the Southeast Solomonic reflexes reflect the derived adverb _&ast;qa-laka_ ‘up there, up above’ (which was then used as a verb in some SES languages). Since _&ast;qa-_ is far more readily reconstructable as a prefix to nouns than to verbs, I assume that _&ast;laka_ was a noun.
 
-<table>
+<table id="2-8-2-2-243-POc-laka-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1525,7 +1525,7 @@ There is well distributed evidence that POc _&ast;liwaŋ_, _&ast;liwa-_/_&ast;li
 
 The forms listed below under ‘cf. also’ are similar in form to those listed here. However, the fact that they share a formal irregularity — they seem to reflect POc _&ast;lua_ — and a different meaning — ‘outside’ — suggests that POc _&ast;lua_ ‘outside’ may have been a separate etymon, and also a local noun.
 
-<table>
+<table id="2-8-2-2-244-POc-liwa-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -1704,7 +1704,7 @@ The most widely reflected POc term for ‘inside’ is _&ast;lalo-_/_&ast;lalom_
 
 In Polynesian languages reflexes of _&ast;lalo-_/_&ast;lalom_ denote the region underneath something. [Blust](../references.md#source-Blust1997) ([1997](../references.md#source-Blust1997)) suggests that this meaning change comes from the use of _&ast;lalom_ in relation to a planar surface, the sea, rather than a three-dimensional container.
 
-<table>
+<table id="2-8-2-3-246-POc-lalo-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -1955,7 +1955,7 @@ There is evidence that POc _&ast;lalo-_ had two short forms, _&ast;lo-_ and _&as
 
 There is, of course, also a possibility that _&ast;lalo-_ has undergone haplology to form _&ast;lo-_ more than once in the history of Oceanic languages, but reflexes of _&ast;lo-_ below and in §3.4.5 are widespread enough to warrant its reconstruction in POc.
 
-<table>
+<table id="2-8-2-3-247-POc-lo-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -2033,7 +2033,7 @@ There is, of course, also a possibility that _&ast;lalo-_ has undergone haplolog
 
 
 
-<table>
+<table id="2-8-2-3-247-POc-la-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -2071,7 +2071,7 @@ There is, of course, also a possibility that _&ast;lalo-_ has undergone haplolog
 
 POc _&ast;loto-_ ‘space within a concave object’ is not well supported. It has become the default relational noun for ‘inside’ in Polynesian languages (where POc _&ast;lalo-_ is reflected with the meaning ‘underneath’; see above) and is also reflected in Wayan Fijian, so it can be reconstructed for Proto Central Pacific. Its reconstruction in POc rests on a single Admiralties reflex, Loniu _lɔtiyɛ-_, with _-i-_ for expected _-o-_.
 
-<table>
+<table id="2-8-2-3-248-POc-loto-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -2124,7 +2124,7 @@ POc _&ast;loto-_ ‘space within a concave object’ is not well supported. It h
 
 In many Oceanic languages the word for ‘inside’ is the reflex of a POc body-part term. Two of these may have had the secondary meaning ‘inside’: POc _&ast;bʷal(o,a)-_, _&ast;bʷal(o,a)k_ seems to have denoted the belly, POc _&ast;tinaqe-_ the intestines.
 
-<table>
+<table id="2-8-2-3-248-POc-baloa-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -2202,7 +2202,7 @@ In many Oceanic languages the word for ‘inside’ is the reflex of a POc body-
 
 
 
-<table>
+<table id="2-8-2-3-248-POc-tinaqe-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -2260,7 +2260,7 @@ Scattered reflexes also suggest the reconstruction of monosyllabic forms without
 
 No reflexes occur in Central Pacific languages. In Fijian, _&ast;papa-_, _&ast;papak_ has been ousted by reflexes of POc _&ast;ruku-_ ‘underneath’ (see below), in Polynesian languages by reflexes of POc _&ast;lalom_ ‘inside’ (p.247).
 
-<table>
+<table id="2-8-2-3-249-POc-papa-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -2499,7 +2499,7 @@ Several reflexes of the first, POc _&ast;ruku-_, are concatenated with a reflex 
 
 The second term, POc _&ast;gabʷari-_ meant ‘the area underneath a raised house’ (vol. 1, p.51) and has come to mean ‘underneath’ in some languages by extension. POc _&ast;puqu-_, _puqun_ had the relational meaning ‘base, foundation’ when used in association with an object, as well as the more abstract meaning ‘origin, source, reason’.
 
-<table>
+<table id="2-8-2-3-250-POc-ruku-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -2567,7 +2567,7 @@ The second term, POc _&ast;gabʷari-_ meant ‘the area underneath a raised hous
 
 
 
-<table>
+<table id="2-8-2-3-250-POc-gabari-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -2633,7 +2633,7 @@ The second term, POc _&ast;gabʷari-_ meant ‘the area underneath a raised hous
 
 <a id="p-251"></a>
 
-<table>
+<table id="2-8-2-3-251-POc-puqu-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -2746,7 +2746,7 @@ The unsuffixed forms are a source of local adverbs meaning ‘above, up there’
 
 The Kiribati (Mic) reflex of POc _&ast;papo[-]_ also has the meaning ‘outside’, and this is the sole sense of the Nemi (NCal) and Polynesian reflexes. Blust (ACD) suggests that (as with _&ast;lalom_; p.246) this is the result of applying the term to the planar surface of the sea. In relation to the sea, _&ast;papo[-]_ was its surface and the space above it. This is beyond the land, hence ‘outside’ it.
 
-<table>
+<table id="2-8-2-3-252-POc-papo-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -2953,7 +2953,7 @@ The Kiribati (Mic) reflex of POc _&ast;papo[-]_ also has the meaning ‘outside�
 
 Given the tendency for body-part terms to be used by metaphorical extension as relational nouns (cf. p.248), it is unsurprising that the word for ‘head’ and ‘head hair’, POc _&ast;qulu[-]_, also acquired the meaning ‘top’.
 
-<table>
+<table id="2-8-2-3-253-POc-qulu-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -3141,7 +3141,7 @@ It is tempting to look for a POc relational noun which would correspond in its u
 
 This expectation is at least partly fulfilled. We can reconstruct POc _&ast;[pʷa]pʷaRa[-]_ ‘side; cheek’, a body-part term whose primary meaning was probably ‘side of the face’. Its uses are analogous to those of POc _&ast;mata[-]_ ‘eye; face; front’ (p.249). However, a good deal of confusion surrounds reflexes of _&ast;[pʷa]pʷaRa[-]_. Reflexes of POc _&ast;baban_/_&ast;bapan_ ‘plank; canoe plank or strake’ (vol. 1, p.185) are similar in both form and meaning to those of _&ast;[pʷa]pʷaRa[-]_. Listed under ‘cf. also’ below _&ast;[pʷa]pʷaRa[-]_ are terms whose glosses include the meaning ‘side’ but whose forms reflect _&ast;baban_. The Lau and Bauan reflexes have glosses which are associated with both items, suggesting conflation.
 
-<table>
+<table id="2-8-2-3-254-POc-papara-a">
 <tr>
 <td><strong>PCEMP</strong></td><td> </td>
 <td>
@@ -3269,7 +3269,7 @@ cf. also:
 
 POc &ast;pʷala(ŋ) ‘side, part’ is reconstructable, but its exact sense is unclear.
 
-<table>
+<table id="2-8-2-3-254-POc-pala-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -3322,7 +3322,7 @@ POc &ast;pʷala(ŋ) ‘side, part’ is reconstructable, but its exact sense is 
 
 POc _&ast;bali_ denoted ‘one of two (opposing) sides or parts’.
 
-<table>
+<table id="2-8-2-3-255-POc-bali-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -3401,7 +3401,7 @@ cf. also:
 
 There are two other reconstructions from which terms for ‘side’ are derived. One, POc _&ast;siriŋ_ ‘side, edge’, is derived from a PMP term whose basic meaning was apparently ‘be close to, be near to’. Only three Oceanic reflexes have been found to date. The other, PEOc _&ast;tapa-_ ‘side, outside’, is limited to Eastern Oceanic, where the earlier sense seems to have been ‘side’ in the sense of ‘outer surface other than front or back’.
 
-<table>
+<table id="2-8-2-3-255-POc-siri-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -3438,7 +3438,7 @@ There are two other reconstructions from which terms for ‘side’ are derived.
 
 
 
-<table>
+<table id="2-8-2-3-255-PEOc-tapa-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td>
@@ -3500,7 +3500,7 @@ It is reasonably clear that the ‘inside’/‘outside’ opposition found in E
 
 The terms in the set below could tempt us to reconstruct POc _&ast;luku-_ ‘side, outside’.[^16] However, their uneven distribution is suspicious, and it seems far more likely that they reflect PMP _&ast;likuD_, POc _&ast;liku(r)_ ‘(person’s) back’ ([Blust 1981b](../references.md#source-Blust1981b)). The meaning of scattered reflexes of this word has extended to include the backs and rear parts of inanimate objects (like POc _&ast;muri[-]_), and thence the external surfaces of objects in general. The specification of ‘back’ in the Marshallese and Woleaian reflexes below supports this interpretation.
 
-<table>
+<table id="2-8-2-3-256-yap-yapese-wuu">
 <tr>
 <td>Yap</td>
 <td>Yapese</td>
@@ -3570,7 +3570,7 @@ The terms in the set below could tempt us to reconstruct POc _&ast;luku-_ ‘sid
 
 According to [Blust](../references.md#source-Blust1997) ([1997](../references.md#source-Blust1997)), the PMP relational noun for ‘front’ was _&ast;qadəp_ ‘front’, which was also used of the human face. Although reflexes of this term have been replaced by body-part terms (see below) in a majority of Oceanic languages, enough reflexes survive to make it clear that its reflex POc _&ast;qaro-_, _&ast;qarop_ ‘front; face’ is reconstructable.
 
-<table>
+<table id="2-8-2-3-256-POc-qaro-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -3655,7 +3655,7 @@ Another generic POc term for ‘front’ (but probably not ‘face’) was _&ast
 
 As the glosses indicate, POc _&ast;muqa[-]_ had the temporal sense of ‘time before’ as well as the local sense of ‘front’. It was thus the antonym of POc _&ast;muri[-]_ ‘back, time after’ (§2.3.7).
 
-<table>
+<table id="2-8-2-3-257-POc-muqa-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -3863,7 +3863,7 @@ There is evidence in Western Oceanic languages for a competing form _&ast;muga_.
 
 Although _&ast;muqa_ and _&ast;muga_ are formally similar, a historical relationship between them is problematic: we would expect an alternation between POc _&ast;k_ and _&ast;g_, but not between _&ast;q_ and _&ast;g_.[^17]
 
-<table>
+<table id="2-8-2-3-258-PWOc-muga-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
 <td>
@@ -3986,7 +3986,7 @@ Although _&ast;muqa_ and _&ast;muga_ are formally similar, a historical relation
 
 The body-part terms whose reflexes are often used for ‘front’ are POc _&ast;mata[-]_ ‘eye, face, front’ and POc _&ast;nako[-]_ face, front’. The original and basic meanings of _&ast;mata[-]_ and _&ast;nako[-]_ were ‘eye’ and ‘face’ respectively. Nonetheless, reflexes of these terms occur with great frequency in the meaning ‘front’. Scattered reflexes below suggest that _&ast;i mata_ was a POc expression meaning ‘in front’, and other modern uses suggest that it has long been used for the front of an inanimate object, e.g. Nalik (MM) _la maran a fal_ [PREP eye PREP house] and Tolai (MM) _ta ra mata-na pal_ [PREP ART eye-P:3SG house], both ‘in front of the house’.
 
-<table>
+<table id="2-8-2-3-259-POc-mata-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -4127,7 +4127,7 @@ The body-part terms whose reflexes are often used for ‘front’ are POc _&ast;
 
 
 
-<table>
+<table id="2-8-2-3-259-POc-nako-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -4284,7 +4284,7 @@ There is evidence in the Gapapaiwa (PT), Ramoaaina (MM), Arosi (SES), Bauan (Fij
 
 It appears that the PMP root _&ast;udehi_ was also inherited into POc as the base _&ast;uri_, but only two reflexes have been found. They are both in NNG languages: Gedaged _uli_ ‘follow, pursue; come after, succeed; go to the rear’ and Kaulong _e-uli-_ ‘back’ (_e-_ ART).
 
-<table>
+<table id="2-8-2-3-261-POc-muri-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -4534,7 +4534,7 @@ It appears that the PMP root _&ast;udehi_ was also inherited into POc as the bas
 
 The reflexes below contain a Northwest Solomonic innovation whereby Proto Northwest Solomonic _&ast;mudi[-]_ is reconstructable (this would reflect POc _&ast;mudri_) instead of expected _&ast;&ast;muri[-]_.
 
-<table>
+<table id="2-8-2-3-262-ProtoNorthwestSolomonic-mudi-a">
 <tr>
 <td><strong>ProtoNorthwestSolomonic</strong></td><td> </td>
 <td>
@@ -4604,7 +4604,7 @@ The reflexes below contain a Northwest Solomonic innovation whereby Proto Northw
 
 The semantic and formal similarity of the reflexes of POc _&ast;burit_ below to those of POc _&ast;muri[-]_ above is evidently due to chance. In the 2003 version of this chapter, I attributed members of the set below to a putative PMP _&ast;pa-udehi_, paradigmatically related to PMP _&ast;ma-udehi_ (ancestral to POc _&ast;muri[-]_), but the presence in this set (listed in the ACD) of Bugotu _buriti_ indicates that I was wrong.
 
-<table>
+<table id="2-8-2-3-262-POc-burit-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -4701,7 +4701,7 @@ The semantic and formal similarity of the reflexes of POc _&ast;burit_ below to 
 
 One body-part term occurs with fair frequency with the sense of ‘back part of, space behind’. This is POc _&ast;takuRu[-]_ ‘(s.o.’s) back’. The evidence that this was a body-part term in POc is clear. It may also have been used by extension as a POc relational local noun, but it is also possible that local-noun uses in modern languages represent independent parallel developments.
 
-<table>
+<table id="2-8-2-3-263-POc-takuru-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -4932,7 +4932,7 @@ cf. also:
 
 The interrogative local noun ‘where?’ was POc _&ast;pai_. Micronesian reflexes of _&ast;i pai_ reflect Proto Micronesian _&ast;i-fā_ rather than expected _&ast;i-fai_.
 
-<table>
+<table id="2-8-2-4-264-POc-pai-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -5164,7 +5164,7 @@ The interrogative local noun ‘where?’ was POc _&ast;pai_. Micronesian reflex
 
 Also found are forms which appear to reflect _&ast;pea_, _&ast;pia_ and, in Polynesian, PPn _&ast;fē_. These probably reflect POc _&ast;pai-a_ (cf. Numbami _aia_, Sursurunga _aiə_, Uruava _veia_ above), together with vowel sequence reductions which have occurred independently but in parallel. The step from POc _&ast;paia_ to _&ast;pea_ is an obvious one. In a number of languages the height distance between the vowels of _&ast;pea_ has been maximised, giving _&ast;pia_. And in Polynesian, an innovation which is regular in Tongic and sporadic in some other Polynesian languages apparently produced _&ast;fē_ as an alternant to _&ast;fea_ (< _&ast;pea_ < _&ast;paia_). The forms are listed below. Where a reconstruction is preceded by a question mark, the forms beneath it may be the result of parallel developments.
 
-<table>
+<table id="2-8-2-4-265-adm-mussau-bea">
 <tr>
 <td>Adm</td>
 <td>Mussau</td>
@@ -5457,7 +5457,7 @@ As I noted earlier (p.229), POc apparently had a subsystem of geographic directi
 
 Recent work by [François](../references.md#source-Francois2003) ([2003](../references.md#source-Francois2003), [2004a](../references.md#source-Francois2004a)) suggests strongly that this subsystem was also applied metaphorically to directions at sea. The two cardinal directions at sea were evidently provided by the major winds, POc _&ast;apaRat_, the northwest storm wind, and _&ast;raki_, the southeast trade wind, as the reflexes below (repeated from Chapter 5, §4.2) suggest:
 
-<table>
+<table id="2-8-3-3-269-POc-aparat-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -5524,7 +5524,7 @@ Recent work by [François](../references.md#source-Francois2003) ([2003](../refe
 
 
 
-<table>
+<table id="2-8-3-3-269-POc-raki-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -5636,7 +5636,7 @@ The most widely reflected of these is _&ast;sipo_, the generic verb of downward 
 
 <a id="p-271"></a>
 
-<table>
+<table id="2-8-3-3-271-POc-sipo-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -5832,7 +5832,7 @@ The most widely reflected of these is _&ast;sipo_, the generic verb of downward 
 
 <a id="p-272"></a>
 
-<table>
+<table id="2-8-3-3-272-POc-sobu-a">
 <tr>
 <td><strong>PEMP</strong></td><td> </td>
 <td>
@@ -5899,7 +5899,7 @@ The most widely reflected of these is _&ast;sipo_, the generic verb of downward 
 
 
 
-<table>
+<table id="2-8-3-3-272-POc-surup-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -5968,7 +5968,7 @@ The most widely reflected of these is _&ast;sipo_, the generic verb of downward 
 
 The forms listed below also seem to constitute a cognate set, but, as the questions implicit in the reconstruction _&ast;[s,j]u[(a,u)]_ indicate, their history is not fully understood. The New Caledonian reflexes suggest a contrast between a directional adverbial form in _&ast;j-_ and a verb in _&ast;s-_, but this contrast is not reflected elsewhere in the set.
 
-<table>
+<table id="2-8-3-3-272-POc-sjuau-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -6101,7 +6101,7 @@ The forms listed below also seem to constitute a cognate set, but, as the questi
 
 POc &ast;wau ‘go seawards’ and _&ast;bala_ ‘move downward (?)’ are also tentatively reconstructed, but they are not well supported.
 
-<table>
+<table id="2-8-3-3-273-POc-wau-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -6139,7 +6139,7 @@ POc &ast;wau ‘go seawards’ and _&ast;bala_ ‘move downward (?)’ are also 
 
 
 
-<table>
+<table id="2-8-3-3-273-POc-bala-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -6176,7 +6176,7 @@ POc &ast;wau ‘go seawards’ and _&ast;bala_ ‘move downward (?)’ are also 
 
 The generic verb of upward movement was POc _&ast;sake_ ‘go upward, go southeast’, also used, for example, of boarding a canoe.
 
-<table>
+<table id="2-8-3-3-273-POc-sake-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -6467,7 +6467,7 @@ The generic verb of upward movement was POc _&ast;sake_ ‘go upward, go southea
 
 Some or all of the forms below probably also reflect POc _&ast;sake_ ‘go upward’, but they all reflect unexplained anomalies. The New Caledonian forms reflect the same contrast between an adverb in _&ast;j-_ and a verb in _&ast;s-_ as was noted above with regard to POc _&ast;[s,j]u[(a,u)]_ ‘go down vertically, fall’.
 
-<table>
+<table id="2-8-3-3-275-nng-takia-sda">
 <tr>
 <td>NNG</td>
 <td>Takia</td>
@@ -6551,7 +6551,7 @@ Some or all of the forms below probably also reflect POc _&ast;sake_ ‘go upwar
 
 Above I noted François’ (2004a) reconstruction of POc speakers’ use of terms for ‘go downward’ and ‘go upward’ for ‘go northwest’ and ‘go southeast’, i.e. directions corresponding with those of the major winds. François assumes that the relevant POc terms were _&ast;sipo_ and _&ast;sake_, reconstructed in §§3.3.1–3.3.2. As these were the generic terms for ‘go downward’ and ‘go upward’, his assumption is probably correct, but it is not particularly well supported by the available data, as the sets below show. In fact, all supporting data for both terms in these meanings come from Eastern Oceanic languages. The Yabem and Motu reflexes of _&ast;sipo_ have ‘wrong’ directions in their glosses. This may mean that this use of &ast;sake and _&ast;sipo_ was an Eastern Oceanic innovation, but it may also mean that insufficient Western Oceanic (and Admiralties) systems have been carefully recorded. In a number of Western Oceanic languages, ‘east’ and ‘west’ are translated as ‘place where the sun rises’ and ‘place where the sun sets’, but these phrasal expressions may be modern renderings of English ‘east’ and ‘west’.
 
-<table>
+<table id="2-8-3-3-275-POc-sipo-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -6602,7 +6602,7 @@ Above I noted François’ (2004a) reconstruction of POc speakers’ use of term
 
 <a id="p-276"></a>
 
-<table>
+<table id="2-8-3-3-276-POc-sake-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -6658,7 +6658,7 @@ Above I noted François’ (2004a) reconstruction of POc speakers’ use of term
 
 François also alludes to members of the Polynesian sets below. However, these are clearly locative nouns, and may just as well reflect an orientation to sunset and sunrise, as [Biggs](../references.md#source-Biggs1994) ([1994](../references.md#source-Biggs1994):25) implies.
 
-<table>
+<table id="2-8-3-3-276-PPn-sisifo-a">
 <tr>
 <td><strong>PPn</strong></td><td> </td>
 <td>
@@ -6692,7 +6692,7 @@ François also alludes to members of the Polynesian sets below. However, these a
 
 
 
-<table>
+<table id="2-8-3-3-276-PPn-sasake-a">
 <tr>
 <td><strong>PPn</strong></td><td> </td>
 <td>
@@ -6744,7 +6744,7 @@ In a scattering of Oceanic languages, the verbs POc _&ast;sipo_ ‘go downward�
 
 The meanings of the items listed below overlap substantially with reflexes of the POc local nouns _&ast;tanoq_ ‘down below’ (p.241) and POc _&ast;atas_ ‘top; space above’ (p.243). There are also a few reflexes below of _&ast;sipo_ and _&ast;sake_ which function as nouns, but it seems certain that these are the results of locally restricted developments.
 
-<table>
+<table id="2-8-3-3-277-POc-sipo-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -6802,7 +6802,7 @@ The meanings of the items listed below overlap substantially with reflexes of th
 
 
 
-<table>
+<table id="2-8-3-3-277-POc-sake-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -7025,7 +7025,7 @@ There is just one Oceanic reflex, Mangap (NNG) _-mar_ ‘come towards speaker’
 
 Also reconstructable is the POc form _&ast;ma_, reflected in WOc and CEOc languages. There is no reconstructable functional distinction between _&ast;-mai_ and _&ast;-ma_, as reflexes of both occur as verbs and as directional enclitics, and both should probably be glossed in POc as (V) ‘come’ and (DIR) ‘towards speaker’. In many languages, a reflex of _&ast;mai_ or _&ast;ma_ occurs as the second element of one or more compounds, and these are taken to be reflexes of an earlier final verb of a serial construction or reflexes of a directional enclitic (it is impossible to tell which). A number of these are listed below.
 
-<table>
+<table id="2-8-3-4-281-POc-mai-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -7398,7 +7398,7 @@ Also reconstructable is the POc form _&ast;ma_, reflected in WOc and CEOc langua
 
 In a number of languages POc _&ast;mai_/_&ast;ma_ is reflected as a preposition or a relator. However, the reflexes listed below are probably the result of parallel innovations in different groups of languages, and it is unnecessary to reconstruct a preposition or relator usage for POc _&ast;mai_/_&ast;ma_ (cf. §3.2).
 
-<table>
+<table id="2-8-3-4-283-POc-mai-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -7473,7 +7473,7 @@ In a number of languages POc _&ast;mai_/_&ast;ma_ is reflected as a preposition 
 
 One other POc morpheme with the same meanings as _&ast;mai_ may be reconstructable. This is _&ast;pʷati_. Note, however, that most reflexes are in the South New Ireland grouping of MM, and that the POc status of this reconstruction is dependent on the Arosi reflex alone.
 
-<table>
+<table id="2-8-3-4-283-POc-pati-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -7542,7 +7542,7 @@ It is just possible that POc _&ast;ua_ reflects PAn _&ast;kuSa_ ‘go’. Howeve
 
 Some of the reflexes of _&ast;ua_ can be confused with those of POc _&ast;pa_ and _&ast;ba_. That there is a contrast between _&ast;pa_ and _&ast;ua_ is attested by the pairs Adzera _fa_ ‘go’ (p.291) and _waʔ-_ ‘go out’ (p.286) and Kiriwina _va_ (PREP, p.292) and _wa_ (VF, below).
 
-<table>
+<table id="2-8-3-4-284-POc-ua-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -7628,7 +7628,7 @@ Some of the reflexes of _&ast;ua_ can be confused with those of POc _&ast;pa_ an
 
 In a number of languages POc _&ast;ua_ is reflected as a preposition or a relator (cf. §3.2).
 
-<table>
+<table id="2-8-3-4-284-POc-ua-b">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -7774,7 +7774,7 @@ The Bauan Fijian forms are tentatively included in the set above. The form _vuā
 
 Other reflexes of &ast;ua apparently occur as demonstratives in a number of languages.
 
-<table>
+<table id="2-8-3-4-285-POc-ua-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -7854,7 +7854,7 @@ Forms reflecting POc _&ast;watu_ are listed below. It is tempting to reconstruct
 
 Irregular loss of initial _&ast;w-_ is reflected in New Caledonian and Central Pacific (Fij and Pn) languages, which reflect _&ast;atu_ for expected _&ast;&ast;watu_. POc _&ast;w_ is lost regularly in all positions in Hoava and Roviana, word-initially in Gela and Bugotu, and sporadically in Mota and NE Ambae and other NCV languages.
 
-<table>
+<table id="2-8-3-4-286-POc-watu-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -8008,7 +8008,7 @@ Why did POc have the two forms _&ast;ua_ and _&ast;watu_? Evidently, as hinted b
 
 Just as POc _&ast;mai_ ‘come’ had a short form _&ast;ma_, so POc _&ast;lako_ ‘go’ had the short form _&ast;la_. Again, reflexes of both occur as verbs and as directional enclitics, and each probably had both functions in POc, viz. _&ast;mai_, _&ast;ma_ glossed as (V) ‘come’ and (DIR) ‘towards speaker’ and _&ast;lako_, _&ast;la_ glossed as (V) ‘go (to)’ and (DIR) ‘away from speaker’. In some languages, a reflex of _&ast;lako_ or _&ast;la_ occurs as the second element of one or more compounds, and these are again taken to be reflexes of an earlier final verb or directional enclitic.
 
-<table>
+<table id="2-8-3-4-287-POc-lako-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -8293,7 +8293,7 @@ POc _&ast;pano_, reconstructed below, perhaps had two uses. Firstly, it was a de
 
 As noted in §3.3, some reflexes of POc _&ast;pano_ indicate that it was also a geographic directional verb meaning ‘move in a transverse direction’, contrasting with ‘go up, go inland’ and ‘go down, go seawards’. However, it is not entirely clear whether this usage occurred in POc. On one hand, there is a non-Oceanic reflex with this meaning, namely Aralle-Tabulahan (South Sulawesi) _pano_ (DIR) ‘along the level’ ([McKenzie 1997](../references.md#source-Mckenzie1997)). On the other hand, within Oceanic the meaning ‘move in a transverse direction’ is reflected only in North–Central Vanuatu and New Caledonian languages. There are two interpretations of these data: either there were independent parallel innovations in South Sulawesi and Remote Oceanic, or this usage was inherited into POc but happens to have been lost in Western Oceanic and Southeast Solomonic.
 
-<table>
+<table id="2-8-3-4-290-POc-pano-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -8472,7 +8472,7 @@ The Harua form _mano_ appears to reflect the application of the PMP Actor focus 
 
 POc _&ast;pano_ evidently had a short form _&ast;pa_, giving a pair analogous to _&ast;mai_/_&ast;ma_ and _&ast;lako_/_&ast;la_ (pp.281, 287).
 
-<table>
+<table id="2-8-3-4-291-POc-pa-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -8604,7 +8604,7 @@ Bound items below are shown with the suffix paradigm that they take, one of obje
 
 Functionally and semantically the members of the small cognate set below resemble reflexes of POc _&ast;lako_, but phonologically they do not reflect it. The medial consonant is reconstructed on the basis of Yabem low tone, which reflects the loss of a Proto Huon Gulf voiced obstruent, probably either _&ast;v_ or _&ast;ɣ_, lenis reflexes of POc _&ast;p_ or _&ast;k_. Of these, both are lost intervocalically in Takia, but only _&ast;k_ is lost in the Admiralties languages.
 
-<table>
+<table id="2-8-3-4-293-POc-yaku-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -8646,7 +8646,7 @@ Functionally and semantically the members of the small cognate set below resembl
 
 POc _&ast;tani_ was a prepositional verb, reconstructed by [Pawley](../references.md#source-Pawley1973) ([1973](../references.md#source-Pawley1973)). It was not deictic, i.e. not oriented with regard to speaker or hearer, and so strictly does not belong here. It was transitive, and the object of the verb was the point of orientation from which movement takes place. I include it because its reflexes have become deictic directional adverbs in a few languages.
 
-<table>
+<table id="2-8-3-4-293-POc-tani-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>

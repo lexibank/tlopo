@@ -39,7 +39,7 @@ Abelmoschus manihot is a low, many-branched tree-like shrub, seemingly present i
 
 POc _&ast;wasa_ primarily denoted A. manihot, evidently the most salient and commonly consumed green vegetable in Lapita communities, but it also appears to have been used hypernymously for 'green vegetables' in general, to judge from the glosses below.
 
-<table>
+<table id="3-10-2-1-294-POc-wasa-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -143,7 +143,7 @@ POc _&ast;wasa_ primarily denoted A. manihot, evidently the most salient and com
 
 [French-Wright](../references.md#source-FrenchWright1983) ([1983](../references.md#source-FrenchWright1983): 162) also reconstructs a term POc _&ast;bele_ which apparently denoted A. manihot alone. [Geraghty](../references.md#source-Geraghty2004) ([2004](../references.md#source-Geraghty2004): 85) suspects that the Polynesian terms are borrowed from Fijian, since Fijian _bele_ can be glossed as 'soft leaf'. If, however, the Gedaged, Sye and Ura terms are cognate, this observation is not relevant.
 
-<table>
+<table id="3-10-2-1-295-POc-bele-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -199,7 +199,7 @@ POc _&ast;wasa_ primarily denoted A. manihot, evidently the most salient and com
 
 Two terms for A. manihot can be reconstructed in lower interstage languages.
 
-<table>
+<table id="3-10-2-1-295-ProtoRemoteOceanic-sasaru-a">
 <tr>
 <td><strong>ProtoRemoteOceanic</strong></td><td> </td>
 <td>
@@ -238,7 +238,7 @@ Two terms for A. manihot can be reconstructed in lower interstage languages.
 
 
 
-<table>
+<table id="3-10-2-1-295-PNCV-vera-a">
 <tr>
 <td><strong>PNCV</strong></td><td> </td>
 <td>
@@ -288,7 +288,7 @@ Two terms for A. manihot can be reconstructed in lower interstage languages.
 
 The meaning of the etymon reconstructed below is not clear. It may have been another generic for green vegetables in general or denoted a kind of green vegetable. On the evidence of Lau alone, may have been Abelmoschus manihot. It was probably not Amaranthus viridis, as this appears to have been unknown to POc speakers.
 
-<table>
+<table id="3-10-2-1-296-POc-pakge-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -345,7 +345,7 @@ A. tricolor is grown from seed in mixed gardens and gathered whole after 1-2 mon
 
 The only reconstruction is at the level of PNCV:
 
-<table>
+<table id="3-10-2-2-297-PNCV-keka-a">
 <tr>
 <td><strong>PNCV</strong></td><td> </td>
 <td>
@@ -397,7 +397,7 @@ Misima _kusai_ provides evidence for the final _&ast;-q_ of POc _&ast;kusaq_. Mi
 
 <a id="p-298"></a>
 
-<table>
+<table id="3-10-2-3-298-POc-kusaq-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -442,7 +442,7 @@ Figure 10.4: Polyscias species: A, P. scutellaria, young shoot with small portio
 
 No POc term is unambiguously reconstructable, but it is possible that the reflexes below of PSOc _&ast;(la)lawis_ 'Polyscias sp.' may be cognate with Muyuw (PT) _(a)lawiluw_ ([Damon 2004](../references.md#source-Damon2004)) and Lau (SES) _lausi_, both denoting 'Celtis nymanii', a small tree used in housebuilding and firewood, the leaves of which provide a cure for rheumatism ([Fox 1974](../references.md#source-Fox1974), [Kwa'ioloa & Burt 2001](../references.md#source-KwaioloaandBurt2001): 157-158). If so, then POc _&ast;lawis_, gloss unknown (a tree-like shub or small tree species), would be reconstructable. Lau _lausi_ presents a problem, however, as it reflects a form _&ast;lawisi_ with final _&ast;-s_ and echo vowel _&ast;-i_: this is a canonic NW Solomonic form, and we are forced to postulate borrowing into Lau, where such borrowings do not usually occur.
 
-<table>
+<table id="3-10-2-4-299-PSOc-lalawis-a">
 <tr>
 <td><strong>PSOc</strong></td><td> </td>
 <td>
@@ -480,7 +480,7 @@ No POc term is unambiguously reconstructable, but it is possible that the reflex
 
 
 
-<table>
+<table id="3-10-2-4-299-PNCV-bei-a">
 <tr>
 <td><strong>PNCV</strong></td><td> </td>
 <td>
@@ -517,7 +517,7 @@ No POc term is unambiguously reconstructable, but it is possible that the reflex
 
 The items reflecting PNCV _&ast;lalaso_ 'Polyscias scutellaria' (?) below appear to be cognate with Lau, Kwara'ae (SES) _lalato_ 'Xylocarpus granatum' (ch.6, §4.6). However, they are not cognate in the strict sense. Each set of items reflects an independent innovation entailing reduplication of a reflex of POc _&ast;lasoR_ 'testicles'. In the case of Xylocarpus granatum the comparison is with rounded fruit that hang heavily ([Kwa'ioloa & Burt 2001](../references.md#source-KwaioloaandBurt2001): 122). Explaining PNCV _&ast;lalaso_ is more problematic. [Lynch](../references.md#source-Lynch2004a) ([2004a](../references.md#source-Lynch2004a)) glosses the reconstruction 'Polyscias scutellaria' on the basis of the gloss of its reflexes in Paamese, Lewo, Apma, Nguna and S Efate. However, its denotation in Mota seems to be the aerial yam, Dioscorea bulbifera (ch.9, §2.1.3), and it is easy to infer a perceived resemblance between testicles and tubers on the vine. If this inference is correct, then D. bulbifera may have been the PNCV sense of _&ast;lalaso_, rather than P. scutellaria.
 
-<table>
+<table id="3-10-2-4-299-PNCV-lalaso-a">
 <tr>
 <td><strong>PNCV</strong></td><td> </td>
 <td>
@@ -582,7 +582,7 @@ The items reflecting PNCV _&ast;lalaso_ 'Polyscias scutellaria' (?) below appear
 
 Among the many ferns eaten in Melanesia, there is just one tree-fern genus for which a putative POc term has been reconstructed. This is Proto Remote Oceanic _&ast;(b,bʷ)ala_ 'Cyathea'. POc _&ast;(b,bʷ)ala_ is also reconstructed below, but only one cognate has been found outside Remote Oceania: Kove _va-vala_ 'cycad'. This means that we can be reasonably certain that POc _&ast;(b,bʷ)ala_ denoted a tree fern, but we as yet have no way of knowing for certain whether this was a Cycas or a Cyathea. The most widespread tree-fern in the Bismarcks Cyathea contaminans (syn. Alsophila latebrosa), with a stem 5-8 m tall ([Peekel 1984](../references.md#source-Peekel1984): 9), is a good candidate for the denotation of _&ast;(b,bʷ)ala_, but a better distributed cognate set is needed in order to confirm this. The Nakanai of New Britain ate the fronds of Cyathea spp. and used the trunks to make fishing spears ([Floyd 1954](../references.md#source-Floyd1954)). On Waya Island (western Fiji) the sap of the young parts of this tree-fern was applied externally to cure headaches, and the scales were used to stuff pillows. The pith of the trunk was eaten as famine food ([Gardner & Pawley 2006](../references.md#source-GardnerandPawley2006)).
 
-<table>
+<table id="3-10-3-1-300-POc-bbala-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -701,7 +701,7 @@ Figure 10.5: Saccharum edule: A, stand of plants; B, swollen tips ready for mark
 
 It is possible that Far East Manggarai, Kepo, Waerana, Razong, Rembong (all CMP) _tebor_ 'Saccharum sp.' ([Verheijen 1990](../references.md#source-Verheijen1990): 240) are cognate with the items below. If it is, then PCEMP _&ast;tabuqaR_ is reconstructable and the reconstruction below is elevated to POc.
 
-<table>
+<table id="3-10-3-2-301-PWOc-tabuqar-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
 <td>
@@ -820,7 +820,7 @@ POc _&ast;nunuk_ denoted either a taxon including all Ficus species known to POc
 
 [Mahdi](../references.md#source-Mahdi1999) ([1999](../references.md#source-Mahdi1999)) suggests either that _&ast;nunuk_ reflects the same root as that in POc _&ast;[qa]nunu_ 'shadow' or that some Oceanic terms for Ficus species reflect _&ast;[qa]nunu_ rather than _&ast;nunuk_, but I see no evidence for either proposal.
 
-<table>
+<table id="3-10-4-1-303-POc-nunuk-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -901,7 +901,7 @@ POc _&ast;nunuk_ denoted either a taxon including all Ficus species known to POc
 
 It is probable that _&ast;qayawan_ denoted a strangler fig taxon. The Gedaged, Kara, Tolai and Patpatar reflexes each denote a taxon of strangler figs: Ficus benjamina ('weeping fig, Java fig, Java willow'), F. katabibi and F. rebareba are described by [Peekel](../references.md#source-Peekel1984) ([1984](../references.md#source-Peekel1984): 139) as stranglers.[^4] The Micronesian and Niuean reflexes denote F. prolixa, also a strangler. Kara, Tolai and Patpatar are located in New Ireland, i.e. in the Oceanic heartland of the Bismarcks, and I assume that they are likely to retain the original sense of _&ast;qayawan_, whereas F. tinctoria (Muyuw, Wayan) and F. pritchardii (Wayan), neither of them stranglers, are more likely to reflect shifts in denotation. Whether POc _&ast;qayawan_ denoted a taxon which included all strangler fig species or just a subset, we cannot tell.
 
-<table>
+<table id="3-10-4-1-303-POc-qayawan-a">
 <tr>
 <td><strong>PEMP</strong></td><td> </td>
 <td>
@@ -1131,7 +1131,7 @@ POc _&ast;qayawan_ also seems to have a second set of reflexes in Micronesia. A 
 
 <a id="p-305"></a>
 
-<table>
+<table id="3-10-4-1-305-mic-kosraean-kny">
 <tr>
 <td>Mic</td>
 <td>Kosraean</td>
@@ -1180,7 +1180,7 @@ POc _&ast;ba[k,g]a_ denoted a taxon of freestanding, medium-sized Ficus species.
 
 The items under 'cf. also' are probably not cognate. Three of them point to a term for a nut tree, a species of either Canarium or Terminalia, but data are insufficient to reconstruct this term. [Mahdi](../references.md#source-Mahdi1999) ([1999](../references.md#source-Mahdi1999)) suggests that this term is cognate with Western Malaya-Polynesian terms reflecting a putative _&ast;pakat_ 'root'.
 
-<table>
+<table id="3-10-4-1-305-POc-bakga-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1380,7 +1380,7 @@ F. wassa (syn. F. portus-finschii, F. papus (Peekel), F. uauasie (Peekel) is a t
 
 There is enough agreement among the meanings of reflexes of POc _&ast;iguRa_ to suggest that it had sandpapery leaves and denoted either F. copiosa or F. wassa or both.
 
-<table>
+<table id="3-10-4-2-307-POc-igura-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1427,7 +1427,7 @@ There is enough agreement among the meanings of reflexes of POc _&ast;iguRa_ to 
 
 POc _&ast;pʷabosi_ is the most likely candidate for a term denoting F. wassa. All named reflexes denote a small or medium-sized freestanding Ficus sp. The set below, from which I tentatively reconstruct POc _&ast;pʷabosi_, contains some doublets and a number of phonological irregularities, especially in regard to the bilabials. I infer that the two POc bilabials were not identical, but that assimilation has operated to make them so in several reflexes. Doublets are probably the outcomes of local borrowings. An interstage ancestral to Solos, Petats and probably Teop replaced the initial bilabial obstruent with _&ast;u-_.
 
-<table>
+<table id="3-10-4-2-307-POc-pabosi-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1556,7 +1556,7 @@ POc _&ast;pʷabosi_ is the most likely candidate for a term denoting F. wassa. A
 
 POc _&ast;qa(l,R)a_ may have been another term for Ficus copiosa (§4.2).
 
-<table>
+<table id="3-10-4-2-308-POc-qalra-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -1623,7 +1623,7 @@ Ficus tinctoria is an erect shrub 2-4 m tall with yellow-orange or red edible fi
 
 POc _&ast;taŋa_ appears to have denoted F. tinctoria. This is its meaning in New Ireland. In southern Vanuatu it denotes F. granatum, another medium-sized freestanding species with edible figs, limited in its distribution to Vanuatu ([Walter & Sam 2002](../references.md#source-WalterandSam2002): 163-164).
 
-<table>
+<table id="3-10-4-3-308-POc-taa-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1654,7 +1654,7 @@ POc _&ast;taŋa_ appears to have denoted F. tinctoria. This is its meaning in Ne
 
 <a id="p-309"></a>
 
-<table>
+<table id="3-10-4-3-309-PSV-nat-a">
 <tr>
 <td><strong>PSV</strong></td><td> </td>
 <td>
@@ -1690,7 +1690,7 @@ POc _&ast;taŋa_ appears to have denoted F. tinctoria. This is its meaning in Ne
 
 POc _&ast;(c,j)api_ appears to have denoted a species with edible leaves, possibly F. tinctoria.
 
-<table>
+<table id="3-10-4-3-309-POc-cjapi-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -1733,7 +1733,7 @@ The reconstructions below denote Ficus species, but it is not usually certain wh
 
 It is possible that POc _&ast;seRa_ denoted Ficus adenosperma, a freestanding tree 5-15 m tall with green or yellow figs that are eaten in times of food shortage in some communities ([Peekel 1984](../references.md#source-Peekel1984): 147; [Walter & Sam 2002](../references.md#source-WalterandSam2002): 169).
 
-<table>
+<table id="3-10-4-4-309-POc-sera-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1768,7 +1768,7 @@ It is possible that POc _&ast;seRa_ denoted Ficus adenosperma, a freestanding tr
 
 POc _&ast;bauRa_ may have denoted a species of strangler fig.
 
-<table>
+<table id="3-10-4-4-309-POc-baura-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1798,7 +1798,7 @@ POc _&ast;bauRa_ may have denoted a species of strangler fig.
 
 The glosses give no real clue to the denotatum of POc _&ast;ka(mʷa)-kamʷa_, other than that it was perhaps a freestanding species.
 
-<table>
+<table id="3-10-4-4-309-POc-kamakama-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1831,7 +1831,7 @@ The gloss of PNCV _&ast;buliva_ is clearly Ficus scabra (a species found only in
 
 <a id="p-310"></a>
 
-<table>
+<table id="3-10-4-4-310-PEOc-bulipa-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td>
@@ -1912,7 +1912,7 @@ The gloss of PNCV _&ast;buliva_ is clearly Ficus scabra (a species found only in
 
 
 
-<table>
+<table id="3-10-4-4-310-PSOc-rivurivu-a">
 <tr>
 <td><strong>PSOc</strong></td><td> </td>
 <td>

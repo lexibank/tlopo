@@ -33,7 +33,7 @@ POc speakers lived on small islands and in coastal enclaves (vo1.2, ch.2), and m
 
 Both yams and taro allow some variety in their preparation for eating: they are boiled, braised or baked whole or in large chunks, and sometimes they are eaten grated or mashed.
 
-A huge number of varieties of both yams and Colocasia taro (in the tens, if not the hundreds) are individually named in Oceanic-speaking communities ([Malinowski 1935](../references.md#source-Malinowski1935)a: 100--104, [Fox 1978](../references.md#source-Fox1978), [Barrau 1962](../references.md#source-Barrau1962): 99-100). Where more than one name for a species is reconstructed, it may be that one or other name denoted a variety. However, no deliberate attempt has been made here to reconstruct names for varieties, partly because sources do not provide Linnaean names for individual varieties and partly because their names are often transparently descriptive and have probably been innovated over and over again.
+A huge number of varieties of both yams and Colocasia taro (in the tens, if not the hundreds) are individually named in Oceanic-speaking communities ([Malinowski 1935a](../references.md#source-Malinowski1935a): 100--104, [Fox 1978](../references.md#source-Fox1978), [Barrau 1962](../references.md#source-Barrau1962): 99-100). Where more than one name for a species is reconstructed, it may be that one or other name denoted a variety. However, no deliberate attempt has been made here to reconstruct names for varieties, partly because sources do not provide Linnaean names for individual varieties and partly because their names are often transparently descriptive and have probably been innovated over and over again.
 
 
 <a id="s-2-1"></a>
@@ -48,7 +48,7 @@ Unlike the Araceae (taros and taro-like plants; §2.2) with their large leaves, 
 
 [Barrau](../references.md#source-Barrau1955) ([1955](../references.md#source-Barrau1955): 39--40) points out that yam-growing communities require a good understanding of the seasons. 'Flowering and fructification of local plants often indicate to the natives the season best suited for the various agricultural activities.' Thus on Espiritu Santo (Vanuatu) and in Fiji, yams are planted when the coral trees, Erythrina variegata (ch.5, §5.5), are in flower ([Baker & Harrison 1936](../references.md#source-BakerandHarrison1936)).
 
-Preparing and planting a yam garden requires a major effort, and in many yam-growing communities the planting was associated with rituals and incantations calling on the spirits to stand guard over the crop, protecting it from thieves, yam beetles and other malign beings ([Fox 1924](../references.md#source-Fox1924): 104-106, [Malinowski 1935](../references.md#source-Malinowski1935)a). On Ulawa the rituals began the night before planting by blessing the pieces of yam to be planted, followed in the morning by incantations in the garden and culminating with a small feast ([Ivens 1927](../references.md#source-Ivens1927): 358-361). Weeding also had associated ritual. The women bathed, and then ceremonially cleansed themselves with Euodia sprigs (ch.7, §5.6) before they went to weed the yam garden. When the yams were ready for harvesting, the priest took to the beach two yams tied with Dracaena (ch.13, §6.1), where he sacrificed them to the sea spirits on behalf of the village. Only after this might the villagers harvest their yams as they needed them ([Ivens 1927](../references.md#source-Ivens1927): 362-363). On both Small Malaita and Ulawa the yams were first placed in a temporary shelter near the garden, then transferred to a storehouse ([Ivens 1927](../references.md#source-Ivens1927): 363-366). [Malinowski's](../references.md#source-Malinowski1935) ([1935](../references.md#source-Malinowski1935)) account of yam cultivation among the Kilivila is similar to Ivens' account of the Ulawa; the processes are the same, the rituals pervasive, but yam cultivation is strictly a male domain.
+Preparing and planting a yam garden requires a major effort, and in many yam-growing communities the planting was associated with rituals and incantations calling on the spirits to stand guard over the crop, protecting it from thieves, yam beetles and other malign beings ([Fox 1924](../references.md#source-Fox1924): 104-106, [Malinowski 1935a](../references.md#source-Malinowski1935a)). On Ulawa the rituals began the night before planting by blessing the pieces of yam to be planted, followed in the morning by incantations in the garden and culminating with a small feast ([Ivens 1927](../references.md#source-Ivens1927): 358-361). Weeding also had associated ritual. The women bathed, and then ceremonially cleansed themselves with Euodia sprigs (ch.7, §5.6) before they went to weed the yam garden. When the yams were ready for harvesting, the priest took to the beach two yams tied with Dracaena (ch.13, §6.1), where he sacrificed them to the sea spirits on behalf of the village. Only after this might the villagers harvest their yams as they needed them ([Ivens 1927](../references.md#source-Ivens1927): 362-363). On both Small Malaita and Ulawa the yams were first placed in a temporary shelter near the garden, then transferred to a storehouse ([Ivens 1927](../references.md#source-Ivens1927): 363-366). [Malinowski's](../references.md#source-Malinowski1935) ([1935](../references.md#source-Malinowski1935)) account of yam cultivation among the Kilivila is similar to Ivens' account of the Ulawa; the processes are the same, the rituals pervasive, but yam cultivation is strictly a male domain.
 
 Because they are seasonal, communities dependent on fresh yams alone would undergo regular food shortages while the young yams were growing ([Barrau 1955](../references.md#source-Barrau1955): 58). Before the advent of the sweet potato a few hundred years ago, the perils of shortage were avoided in two ways. First, yams were often co-staples with other starchy foods: in New Guinea societies with either Colocasia taro or bananas ([Bourke 1982](../references.md#source-Bourke1982)), in Vanuatu coastal communities with breadfruit ([Walter & Sam 2002](../references.md#source-WalterandSam2002): 41). Secondly, by storage: of the root crops grown in NW Island Melanesia, yams can be stored longest, kept on shaded or dark shelves in a dry, well aired location for up to six months, providing food between harvest periods ([Henderson & Hancock 1988](../references.md#source-HendersonandHancock1988): 19). Yam storage houses are a salient feature in Melanesian villages from the Trobriand Islands of Papua New Guinea to New Caledonia ([Barrau 1955](../references.md#source-Barrau1955): 58).
 
@@ -85,7 +85,7 @@ Figure 9.2: Yam (Dioscorea alata) tuber shapes
 
 The most widely reflected term for D. alata is POc _&ast;qupi_, which is also widely reflected in a second sense as the generic term for yams.
 
-<table>
+<table id="3-9-2-1-260-POc-qupi-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -299,7 +299,7 @@ The most widely reflected term for D. alata is POc _&ast;qupi_, which is also wi
 
 Three other terms can be reconstructed from cognate sets some of whose members are glossed 'large yam', 'greater yam' or 'D. alata'. This is weak evidence for inferring that the reconstructed terms denoted a D. alata cultivar. The terms are POc _&ast;mʷaruqe_, POc _&ast;udu(r,R)_ and POc _&ast;pʷasepe_.
 
-<table>
+<table id="3-9-2-1-261-POc-maruqe-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -375,7 +375,7 @@ Three other terms can be reconstructed from cognate sets some of whose members a
 
 <a id="p-262"></a>
 
-<table>
+<table id="3-9-2-1-262-POc-udurr-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -410,7 +410,7 @@ Three other terms can be reconstructed from cognate sets some of whose members a
 
 POc _&ast;pʷasepe_ 'Dioscorea alata variety(?)' is of interest, because it also seems to be the source of the PT forms listed below the cognate set. However, the sound correspondences attested by the PT forms are not those of PT languages but the distinctive reflexes (_&ast;pʷ_ > _kʷ_; _&ast;s_ > _t_) of North Malaitan languages of the SES group. Dictionaries are available for two North Malaitan languages, Lau ([Fox 1974](../references.md#source-Fox1974)) and Kwaio ([Keesing 1975](../references.md#source-Keesing1975)), but neither includes this item. I assume it is nonetheless a borrowing from a North Malaitan language, but I do not know the source of the borrowing.
 
-<table>
+<table id="3-9-2-1-262-POc-pasepe-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -484,7 +484,7 @@ The terms 'potato yam' and 'aerial yam' reflect the fact that D. bulbifera has m
 
 POc _&ast;pʷatika_ evidently referred to the potato yam, D. bulbifera, because its reflexes denote this species in widely separated languages: Patpatar (MM), Kwara'ae (SES) and Sye and Ura (SV) (the Chuukese form appears to be borrowed). The languages in which it is glossed 'lesser yam' (D. esculenta) are contiguous and appear to represent a semantic innovation local to central New Ireland.
 
-<table>
+<table id="3-9-2-1-262-POc-patika-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -578,7 +578,7 @@ The reasons why a POc etymon for this widespread species is apparently not recon
 
 The possibility of reconstructing PWOc _&ast;ka-misa_/_&ast;ma-misa_ 'lesser yam, D. esculenta' perhaps means that the lesser yam was domesticated in NW Island Melanesia after the break-up of POc but before PWOc had dispersed far. Against this inference, however, is the fact that we would also expect to find reflexes of such a significant item in languages of the Papuan Tip linkage, the third member linkage of Western Oceanic, yet none have been found.[^8] The S Efate and Wayan Fijian forms are both very doubtful cognates.
 
-<table>
+<table id="3-9-2-1-263-PWOc-kamisa-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
 <td>
@@ -639,7 +639,7 @@ cf. also:
 
 <a id="p-264"></a>
 
-<table>
+<table id="3-9-2-1-264-PWOc-mamisa-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
 <td>
@@ -681,7 +681,7 @@ cf. also:
 
 Further terms for yam can be reconstructed, but it is unclear which species they denoted.
 
-<table>
+<table id="3-9-2-1-264-PWOc-gobu-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
 <td>
@@ -715,7 +715,7 @@ Further terms for yam can be reconstructed, but it is unclear which species they
 
 
 
-<table>
+<table id="3-9-2-1-264-ProtoRemoteOceanic-damu-a">
 <tr>
 <td><strong>ProtoRemoteOceanic</strong></td><td> </td>
 <td>
@@ -846,7 +846,7 @@ cf. also:
 
 <a id="p-265"></a>
 
-<table>
+<table id="3-9-2-1-265-PWOc-kapul-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
 <td>
@@ -927,7 +927,7 @@ The distribution of the two cognate sets is also interesting. Whilst POc _&ast;m
 
 A search for languages in which reflexes of _&ast;talo(s)_ and _&ast;mʷapo(q)_ are in contrast has turned up very little, but this may be an artefact of inadequate data. Only Arosi reflects both terms, each as the first element of names of taro varieties (see below).[^11] The Arosi generic term for taro is _bʷa_, reflecting neither POc term.
 
-<table>
+<table id="3-9-2-2-266-POc-talos-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -1042,7 +1042,7 @@ A search for languages in which reflexes of _&ast;talo(s)_ and _&ast;mʷapo(q)_ 
 
 <a id="p-267"></a>
 
-<table>
+<table id="3-9-2-2-267-POc-mapoq-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1202,7 +1202,7 @@ A search for languages in which reflexes of _&ast;talo(s)_ and _&ast;mʷapo(q)_ 
 
 Figure 9.3: Taro (Araceae) genera and Amorphophallus: growth habit
 
-<table>
+<table id="3-9-2-2-268-PSOc-beta-a">
 <tr>
 <td><strong>PSOc</strong></td><td> </td>
 <td>
@@ -1288,7 +1288,7 @@ Figure 9.3: Taro (Araceae) genera and Amorphophallus: growth habit
 
 The leaves of Colocasia esculenta are eaten as a green vegetable in many parts of Oceania, and many languages have a separate word for them (ch.4, §2.5). A possible POc term for taro leaves, POc _&ast;gal(a,o)_ is weakly supported, along with a possible PWOc candidate, _&ast;[qa]pʷasu_ - 'possible' because only its NNG and PT reflexes denote leaves; its MM reflexes denote Colocasia esculenta itself.
 
-<table>
+<table id="3-9-2-2-268-POc-galao-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1325,7 +1325,7 @@ The leaves of Colocasia esculenta are eaten as a green vegetable in many parts o
 
 <a id="p-269"></a>
 
-<table>
+<table id="3-9-2-2-269-PWOc-qapasu-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
 <td>
@@ -1401,7 +1401,7 @@ Kikusawa may well be right,[^14] as [Bourke](../references.md#source-Bourke1990)
 
 The items listed below denote 'swamp taro, Cyrtosperma merkusii' unless glossed otherwise.
 
-<table>
+<table id="3-9-2-2-270-adm-mussau-ulaa">
 <tr>
 <td>Adm</td>
 <td>Mussau</td>
@@ -1669,7 +1669,7 @@ The giant taro, Alocasia macrorrhizos, growing to 3-4 m, is not strictly a root 
 
 The POc name for giant taro was _&ast;piRaq_, continuing a PMP etymon. The final _&ast;-q_ is attested in Gumawana, Bwaidoga, Big Nambas and Tape and indirectly in the retention of the final vowel in SV languages ([Lynch 2001c](../references.md#source-Lynch2001c): 121).
 
-<table>
+<table id="3-9-2-2-272-POc-piraq-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -1869,7 +1869,7 @@ The POc name for giant taro was _&ast;piRaq_, continuing a PMP etymon. The final
 
 The glosses suggest that the denotatum of POc _&ast;(p,b)oso_ below belonged to the Araceae family, but it is impossible to infer its identity from the available data.
 
-<table>
+<table id="3-9-2-2-273-POc-pboso-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1944,7 +1944,7 @@ Interestingly, almost all the names I have collected for it reflect a reassignme
 
 The elements in the PPn binomial below are PPn _&ast;ma_ 'fermented breadfruit' (POLLEX) and _&ast;soaʔa_ 'banana' (§3).
 
-<table>
+<table id="3-9-2-3-274-PPn-masoaa-a">
 <tr>
 <td><strong>PPn</strong></td><td> </td>
 <td>
@@ -2001,7 +2001,7 @@ No POc term for P. lobata is reconstructable, and the cognate set below is restr
 
 The gloss of the Raga reflex refers to famine food, and probably denotes P. lobata.
 
-<table>
+<table id="3-9-2-3-274-ProtoRemoteOceanic-raka-a">
 <tr>
 <td><strong>ProtoRemoteOceanic</strong></td><td> </td>
 <td>
@@ -2124,7 +2124,7 @@ J. [Kennedy](../references.md#source-Kennedy2008) ([2008](../references.md#sourc
 
 The likelihood that banana domestication first occurred in New Guinea, and that edible bananas spread from there into Asia and Africa, means that any bananas brought to New Guinea and the Bismarcks by Austronesian speakers probably came from this region in the first place. That bananas have long been a part of their diet is confirmed by the very well attested PMP term _&ast;punti_ and its POc continuation _&ast;pudi_. The fact that its reflexes are so widespread makes it certain that this was the generic term for bananas. Today's Oceanic speakers usually have numerous terms for the different banana cultivars in their gardens, but the fact that few people use Simmonds and Shepherd's nomenclature in glosses (and that old terms persist) makes it difficult or impossible to provide scientific names for these. Because of this difficulty, old species terms are retained in glosses.
 
-<table>
+<table id="3-9-3-None-277-POc-pudi-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -2344,7 +2344,7 @@ The likelihood that banana domestication first occurred in New Guinea, and that 
 
 The term Musa troglodytarum is used (inaccurately) both of wild varieties of M. balbisiana and of _Fe'i_ bananas. In the Uripiv and Samoan glosses below it is likely that it denotes the latter, in agreement with the Bauan gloss. POc _&ast;joRaga_ is glossed accordingly, but with a question mark, because this was the meaning of the Proto Remote Oceanic reflex but not necessarily of the POc term. _Fe'i_ bananas are uncommon in New Guinea today, and it is not clear whether they were present in the Bismarcks in Proto Oceanic times.
 
-<table>
+<table id="3-9-3-None-278-POc-joraga-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -2410,7 +2410,7 @@ The term Musa troglodytarum is used (inaccurately) both of wild varieties of M. 
 
 The glosses of the four terms below are vague, both because the glosses of present-day forms are often vague and for the reasons given above, but they appear to have denoted banana cultivars. POc _&ast;sakup_ perhaps denoted a cultivar with long fruit, as the glosses of its Gumawana, Motu and Kwara'ae reflexes suggest. In view of its upright bunches Kwara'ae _sa-sao_ appears to denote a _Fe'i_ cultivar (J. Kennedy, pers. comm.), but this is neither confirmed nor disconfirmed by the glosses of its cognates. It is probable that POc _&ast;bʷera_ was a descriptive term meaning 'white', since Puluwat _pʷer_ retains this meaning. The POc form is probably a reflex of PMP _&ast;burak_ 'white'. If so, one may infer that it referred to bananas of the Musa group, since _Fe'i_ bananas are typically copper-coloured.
 
-<table>
+<table id="3-9-3-None-278-POc-sakup-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -2486,7 +2486,7 @@ The glosses of the four terms below are vague, both because the glosses of prese
 
 <a id="p-279"></a>
 
-<table>
+<table id="3-9-3-None-279-POc-bera-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -2519,7 +2519,7 @@ The glosses of the four terms below are vague, both because the glosses of prese
 
 
 
-<table>
+<table id="3-9-3-None-279-POc-baqun-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -2592,7 +2592,7 @@ cf. also:
 </table>
 
 
-<table>
+<table id="3-9-3-None-279-PWOc-batiq-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
 <td>
@@ -2632,7 +2632,7 @@ cf. also:
 
 There is evidence for PWOc _&ast;pudi-pudi_ 'wild banana', a transparent reduplication of the generic POc term for banana (see ch. 2, §7.2).
 
-<table>
+<table id="3-9-3-None-279-nng-mangap-pinpin">
 <tr>
 <td>NNG</td>
 <td>Mangap</td>
@@ -2718,7 +2718,7 @@ POc (?) _&ast;beta_ has a more restricted distribution: its reflexes occur in th
 
 A fourth term, Proto Remote Oceanic _&ast;maRi_ 'breadfruit', is limited to South Vanuatu, Micronesian and Polynesian, but [Geraghty](../references.md#source-Geraghty2004) ([2004](../references.md#source-Geraghty2004): 88) attributes Polynesian reflexes of the form _mei_ (presumably for †_mai_ or †_mal_) to borrowing, presumably from a Micronesian source. Again the distribution requires an explanation, this time because it is bipartite, but I can provide none.
 
-<table>
+<table id="3-9-4-None-283-POc-kulur-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -2867,7 +2867,7 @@ A fourth term, Proto Remote Oceanic _&ast;maRi_ 'breadfruit', is limited to Sout
 
 <a id="p-284"></a>
 
-<table>
+<table id="3-9-4-None-284-PNGOc-kunur-a">
 <tr>
 <td><strong>PNGOc</strong></td><td> </td>
 <td>
@@ -2985,7 +2985,7 @@ A fourth term, Proto Remote Oceanic _&ast;maRi_ 'breadfruit', is limited to Sout
 
 
 
-<table>
+<table id="3-9-4-None-284-POc-bareko-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -3202,7 +3202,7 @@ A fourth term, Proto Remote Oceanic _&ast;maRi_ 'breadfruit', is limited to Sout
 
 <a id="p-285"></a>
 
-<table>
+<table id="3-9-4-None-285-POc-beta-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -3266,7 +3266,7 @@ A fourth term, Proto Remote Oceanic _&ast;maRi_ 'breadfruit', is limited to Sout
 
 
 
-<table>
+<table id="3-9-4-None-285-ProtoRemoteOceanic-mari-a">
 <tr>
 <td><strong>ProtoRemoteOceanic</strong></td><td> </td>
 <td>
@@ -3413,7 +3413,7 @@ At least on Malaita and in the Temotu archipelago chunks of unprocessed pith are
 
 There was apparently just one POc term for the sago palm, namely POc _&ast;Rabia_. As the Fijian and Polynesian reflexes below show, early Central Pacific speakers reassigned PCP _&ast;abia_, reflecting POc _&ast;Rabia_, to another starch source, Tacca leontopetaloides, Polynesian arrowroot (§2.3.2). [Kikusawa](../references.md#source-Kikusawa2003) ([2003](../references.md#source-Kikusawa2003): 49) argues - correctly, I think - that PPn _&ast;pia_ 'Polynesian arrowroot' is cognate with Bauan _yabia_ 'arrowroot', and reflects loss of initial _&ast;a-_ from PCP _&ast;abia_.[^30]
 
-<table>
+<table id="3-9-5-1-288-POc-rabia-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -3600,7 +3600,7 @@ Barrau's assertion that C. rumphii played an important role in earlier Oceanic c
 
 The glosses of many of the terms listed below  refer simply to 'cycad' or 'Cycas'. None is identified as 'C. scratchleyana', and there is reasonable support for glossing all of them 'Cycas rumphii', but this is likely to be due to the fact that the two species were not distinguished until recently.
 
-<table>
+<table id="3-9-5-2-290-POc-ppatoru-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -3650,7 +3650,7 @@ The glosses of many of the terms listed below  refer simply to 'cycad' or 'Cycas
 
 <a id="p-291"></a>
 
-<table>
+<table id="3-9-5-2-291-POc-baibait-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -3733,7 +3733,7 @@ The glosses of many of the terms listed below  refer simply to 'cycad' or 'Cycas
 
 
 
-<table>
+<table id="3-9-5-2-291-PCP-looloo-a">
 <tr>
 <td><strong>PCP</strong></td><td> </td>
 <td>
@@ -3779,7 +3779,7 @@ The glosses of many of the terms listed below  refer simply to 'cycad' or 'Cycas
 
 Most of the forms below point to PEOc _&ast;mʷele_. However, Namakir and Wayan point to _&ast;mʷali_, Santa Ana and Paamese to _&ast;mʷa(q)ele_, and Naman and Neve'ei also reflect a vowel sequence. Since the vowel sequence _&ast;ae_ is not known to have occurred in POc, I posit a medial _&ast;-q-_ and reconstruct PEOc _&ast;mʷa(q)ele_.
 
-<table>
+<table id="3-9-5-2-291-PEOc-maqele-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td>

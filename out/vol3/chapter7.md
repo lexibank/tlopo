@@ -66,7 +66,7 @@ At Marovo too, the dead were commonly buried in a sitting position between the b
 
 A PMP form for 'A. scholaris', namely _&ast;ditah_, is reconstructable (ACD), but I have found no Oceanic reflexes of this. Despite their apparent variation, the reflexes of POc _&ast;sabakap_ below are largely regular. Kara, Patpatar and Nehan reflect regular loss of _&ast;-k-_ but retain the final consonant. NNG languages, Nakanai and SES languages lose the final consonant. The Choiseul languages Varisi, Avaso, Ririo, Babatana and Sisingga reflect Proto Northwest Solomonic _&ast;baɣava_ (for †_&ast;abaɣava_) in which initial _&ast;s-_ is lost through lenition (a sporadic process) and the final consonant is retained with the addition of an echo vowel.
 
-<table>
+<table id="3-7-3-1-187-POc-sabakap-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -177,7 +177,7 @@ The reconstruction of a term (or terms) for F. moluccana is difficult. [Kwa'iolo
 
 All three reconstructions below entail uncertainties. POc _&ast;babak_ has just two reflexes. With regard to POc _&ast;pail_ and _&ast;kai(k)_, POc vowel sequences like _&ast;-ai-_ were fairly rare, and it is possible that _&ast;q_ intervened between _&ast;a_ and _&ast;i_, but _&ast;-q-_ is reflected in none of the modern languages nor in the CMP cognates which support the reconstruction of PCEMP _&ast;bail_[^3] and _&ast;ka(w)iak_.[^4] The latter is reconstructed with an uncertain medial _-w-_, reflected in E Sumba _kawia[ka]_. If _-w-_ was present at an earlier stage, it is irregularly lost in Nakanai _kai_.
 
-<table>
+<table id="3-7-3-2-188-POc-babak-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -203,7 +203,7 @@ All three reconstructions below entail uncertainties. POc _&ast;babak_ has just 
 
 <a id="p-189"></a>
 
-<table>
+<table id="3-7-3-2-189-POc-pail-a">
 <tr>
 <td><strong>PCEMP</strong></td><td> </td>
 <td>
@@ -264,7 +264,7 @@ All three reconstructions below entail uncertainties. POc _&ast;babak_ has just 
 
 
 
-<table>
+<table id="3-7-3-2-189-POc-kaik-a">
 <tr>
 <td><strong>PCEMP</strong></td><td> </td>
 <td>
@@ -308,7 +308,7 @@ Figure 7.2: Octomeles sumatrana.
 
 <a id="p-190"></a>
 
-<table>
+<table id="3-7-3-3-190-PWOc-kurimao-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
 <td>
@@ -415,7 +415,7 @@ C. brevipetiolatum is apparently not found in Remote Oceania, and its distributi
 
 <a id="p-191"></a>
 
-<table>
+<table id="3-7-4-1-191-POc-olaa-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -468,7 +468,7 @@ The possibility that there was such a taxon is strengthened by an observation by
 
 The Meso-Melanesian forms below, apparently reflecting Proto Meso-Melanesian _&ast;mud(e)u_ (rather than †_&ast;moso(u)_) are problematic. They may reflect a Proto Meso-Melanesian borrowing or a non-cognate chance resemblance.
 
-<table>
+<table id="3-7-4-2-192-POc-mmasoqu-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -662,7 +662,7 @@ In the Admiralties D. schlechteri is used for house construction. The timber is 
 
 The second and third vowels and the possible final consonant of POc _&ast;kulapu(R)_ 'Dillenia schlechteri' are due to the reconstruction of PMP _&ast;kelabuR_ 'large Dillenia species' on the basis of the data below and of Blit Manobo _klambug (daka)_ 'D. megalantha' (cf§5.4), Bagobo _kalambok_, Lanao _kalambuguy_,[^11] both 'D. philippensis' ([Madulid 2001b](../references.md#source-Madulid2001b): 100).
 
-<table>
+<table id="3-7-4-3-193-POc-kulapur-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -721,7 +721,7 @@ Bourke (in preparation, n.d.) writes that although D. dao was traditionally a si
 
 Two terms are reconstructable: POc _&ast;raqu(p)_ and PNCV _&ast;katabola_. The final bracketed _&ast;-p_ of _&ast;raqu(p)_ is added to take account of th1e final consonants of the Patpatar and Tolai reflexes. However, there are no known non-Oceanic reflexes of _&ast;-p_. The PCP _&ast;tawa-raqu_ 'Dracontomelon vitiense' contains a reflex of POc _&ast;tawan_ 'Pometia pinnata' (ch. 11, §3.5) as its first element, as the fruits of the two plants are similar in appearance ([Geraghty 2004](../references.md#source-Geraghty2004): 80).
 
-<table>
+<table id="3-7-4-4-194-POc-raqup-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -870,7 +870,7 @@ Two terms are reconstructable: POc _&ast;raqu(p)_ and PNCV _&ast;katabola_. The 
 
 <a id="p-195"></a>
 
-<table>
+<table id="3-7-4-4-195-PNCV-katabola-a">
 <tr>
 <td><strong>PNCV</strong></td><td> </td>
 <td>
@@ -954,7 +954,7 @@ POc _&ast;maqota_ perhaps denoted a taxon including several Dysoxylum species. A
 
 [Lynch](../references.md#source-Lynch2001c) ([2001c](../references.md#source-Lynch2001c): 242) attributes the SV members of the two cognate sets below to a single PSV etymon _&ast;ni-m(d,t)awan_, but they appear to reflect two etyma. PSV _&ast;nə-mtaw_ reflects metathesis of a variant form _&ast;mawota_, also reflected in Bauan Fijian _mavota_. Proto Erakor-Tafea ([Lynch 2001c](../references.md#source-Lynch2001c): 189) _&ast;tuan_ is a separate etymon.[^13]
 
-<table>
+<table id="3-7-4-5-196-POc-maqota-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1052,7 +1052,7 @@ POc _&ast;maqota_ perhaps denoted a taxon including several Dysoxylum species. A
 
 
 
-<table>
+<table id="3-7-4-5-196-ProtoErakorTafea-tuan-a">
 <tr>
 <td><strong>ProtoErakorTafea</strong></td><td> </td>
 <td>
@@ -1098,7 +1098,7 @@ Although plenty of names for Elaeocarpus species have been collected, surprising
 
 Two reconstructions are presented below. PEOc _&ast;melo_ 'Elaeocarpus angustifolius' is supported by just two reflexes, but the languages are sufficiently far apart to preclude borrowing.
 
-<table>
+<table id="3-7-4-6-197-PEOc-melo-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td>
@@ -1121,7 +1121,7 @@ Two reconstructions are presented below. PEOc _&ast;melo_ 'Elaeocarpus angustifo
 
 
 
-<table>
+<table id="3-7-4-6-197-PSV-nasjuvwas-a">
 <tr>
 <td><strong>PSV</strong></td><td> </td>
 <td>
@@ -1169,7 +1169,7 @@ Both species have lightweight wood that is used for fishing-net floats. [Peekel]
 
 POc _&ast;koma(r,R)(o,u)_ may have referred to either or both species. Like the large Elaeocarpus species (§4.6), Endospermum species are not prominent in Bismarcks rain forests, and appear to have undergone a good deal of local re-naming.
 
-<table>
+<table id="3-7-4-7-198-POc-komarrou-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1224,7 +1224,7 @@ There is apparently a traditional perception that G. floribunda resembles the sm
 
 PCP _&ast;manaui_ 'Garuga floribunda', also below, appears cognate with the PNCV form, but the medial consonants do not correspond, suggesting that one of the two forms is the result of borrowing. Since PNCV _&ast;mala-_ regularly reflects POc _&ast;mala-_, but PCP _&ast;mana-_ (instead of expected †_&ast;mala-_) does not, it is the Central Pacific forms that appear to reflect a borrowing.
 
-<table>
+<table id="3-7-4-8-199-PNCV-malausi-a">
 <tr>
 <td><strong>PNCV</strong></td><td> </td>
 <td>
@@ -1296,7 +1296,7 @@ PCP _&ast;manaui_ 'Garuga floribunda', also below, appears cognate with the PNCV
 
 
 
-<table>
+<table id="3-7-4-8-199-PNCV-usi-a">
 <tr>
 <td><strong>PNCV</strong></td><td> </td>
 <td>
@@ -1353,7 +1353,7 @@ It seems that PMP _&ast;teRas_ / POc _&ast;toRas_ was, in one of its senses, a s
 
 Polynesian languages, meanwhile, have reapplied the PCP reflex of POc _&ast;pesi_ 'a coastal forest tree, perhaps Pongamia pinnata' to Intsia bijuga (ch.5, §5.12).
 
-<table>
+<table id="3-7-4-9-200-POc-toras-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -1588,7 +1588,7 @@ Polynesian languages, meanwhile, have reapplied the PCP reflex of POc _&ast;pesi
 
 The inherited meaning of POc _&ast;qipil_ was apparently 'Intsia bijuga', but the glosses of its reflexes suggest that it also denoted 'Casuarina equisetifolia'. Note that 'ironwood' and 'kwila' both refer to 'Intsia bijuga'.
 
-<table>
+<table id="3-7-4-9-201-POc-qipil-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -1695,7 +1695,7 @@ The inherited meaning of POc _&ast;qipil_ was apparently 'Intsia bijuga', but th
 
 Figure 7.6: Left Intsia bijuga, ironwood: A: young tree; B, leaves and flowers; C, seed pod. Right Vitex cofassus, New Guinea teak: A, tree; B, flowering stem with leaves and portion of terminal inflorescence; C, portion of fruiting inflorescence and stem.
 
-<table>
+<table id="3-7-4-9-202-PWOc-bana-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
 <td>
@@ -1745,7 +1745,7 @@ Depending on location, P. costata (syn. Sideroxylon costa tum) varies in the Sol
 
 In view of this variation we can be sure only that POc _&ast;kalaka_ denoted a species of Planchonella, and perhaps several. Kairiru _lalak_ may reflect a reduplication of suffixless _&ast;laka_ after deletion of the (apparent) prefix _&ast;ka-_ 'tree' (ch.2, §7.1.2).
 
-<table>
+<table id="3-7-4-10-203-POc-kalaka-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1836,7 +1836,7 @@ In view of this variation we can be sure only that POc _&ast;kalaka_ denoted a s
 
 The glosses in the cognate set below imply that PCP _&ast;bau_ had the meaning which it retains in Wayan Fijian: 'Tree … taxon: generic, includes species of Burckella, Manilkara, Palaquium and Planchonella (Sapotaceae)' ([Pawley & Sayaba 2003](../references.md#source-PawleyandSayaba2003); see also ch.3, §3 .1). They are all medium to large rain forest trees of the family Sapotaceae. I had hesitated to assume that Teop _bau_ 'Leea tetramera' is cognate, as L. tetramera is a shrub, but Will Mc-Clatchey (pers. comm.) argues that all the plants listed below except Guettarda speciosa are hardwoods from which a useful club could be made and that this fact is central to the definition of the taxon. This being so, it is possible that POc _&ast;bau_ is identical with POc _&ast;bou_ 'Fagraea spp.' (ch.5, §5.6).
 
-<table>
+<table id="3-7-4-10-204-POc-bau-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1916,7 +1916,7 @@ In a variety of locations from the Bismarcks to Vanuatu an infusion of the young
 
 Two POc terms for P. indicus are reconstructable: _&ast;naRa_ and _&ast;Rigi_.
 
-<table>
+<table id="3-7-4-11-205-POc-nara-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -1989,7 +1989,7 @@ Two POc terms for P. indicus are reconstructable: _&ast;naRa_ and _&ast;Rigi_.
 
 
 
-<table>
+<table id="3-7-4-11-205-POc-rigi-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -2091,7 +2091,7 @@ The POc term for V. cofassus was _&ast;pasa(r,R)_.[^17] [Milke](../references.md
 
 Riwo and Takia reflect Proto Bel _&ast;payaRi_. The presence of the final consonant and added _-i_ points to a loan. Babatana _vadaka_ is also evidently a loan from an unknown source.
 
-<table>
+<table id="3-7-4-12-206-POc-pasarr-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -2289,7 +2289,7 @@ The PEOc term _&ast;koka_ is reconstructable. The lack of a POc term may simply 
 
 Figure 7.7: Left Bischofia javanica, Java cedar: A, tree; B compound leaf; C, branch bearing cluster of fruit. Right Cananga odorata, ylang-ylang: A,      B, leaves; C, flowering shoot; D, fruit cluster.
 
-<table>
+<table id="3-7-5-1-208-PEOc-koka-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td>
@@ -2410,7 +2410,7 @@ Use of the bark and flowers for medicinal purposes is widespread ([Floyd 1954](.
 
 POc _&ast;(m,mʷ)aso(q)u_ may have denoted a taxon which included C. odorata (§4.2). POc _&ast;pʷi(r,R)a_ and PSOc _&ast;diŋori(q)_ both appear to have denoted C. odorata alone.
 
-<table>
+<table id="3-7-5-2-209-POc-pirra-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -2448,7 +2448,7 @@ POc _&ast;(m,mʷ)aso(q)u_ may have denoted a taxon which included C. odorata (§
 
 
 
-<table>
+<table id="3-7-5-2-209-PSOc-dioriq-a">
 <tr>
 <td><strong>PSOc</strong></td><td> </td>
 <td>
@@ -2528,7 +2528,7 @@ Damon (In preparation) mentions that the nuts have a rich cinnamon-like smell an
 
 Figure 7.8: Cryptocarya aromatica.
 
-<table>
+<table id="3-7-5-3-210-POc-nipus-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -2556,7 +2556,7 @@ Figure 7.8: Cryptocarya aromatica.
 
 
 
-<table>
+<table id="3-7-5-3-210-PWOc-kammapar-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
 <td>
@@ -2590,7 +2590,7 @@ It was noted in §4.3 that Dillenia species range in size from trees of the lowe
 
 <a id="p-211"></a>
 
-<table>
+<table id="3-7-5-4-211-POc-drokol-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -2640,7 +2640,7 @@ Diospyros species are sub-canopy trees around 10 m tall with very hard black woo
 
 Although Diospyros species are well known sub-canopy trees, widely mentioned in the literature, the only reconstruction that has proven possible is PSOc _&ast;numo_. Otherwise only very local cognate sets are found, raising the possibility that the more important species have been introduced since POc times.
 
-<table>
+<table id="3-7-5-5-211-PSOc-numo-a">
 <tr>
 <td><strong>PSOc</strong></td><td> </td>
 <td>
@@ -2708,7 +2708,7 @@ Although POc _&ast;bala_ below is supported by only two reflexes, the notes prov
 
 <a id="p-212"></a>
 
-<table>
+<table id="3-7-5-6-212-POc-bala-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -2734,7 +2734,7 @@ Although POc _&ast;bala_ below is supported by only two reflexes, the notes prov
 
 A reasonable (but not the only) interpretation of the data below is that POc _&ast;bosi_ denoted a forest tree with white wood, perhaps Euodia elleryana, as the Meso-Melanesian data suggest, and was reapplied to another tree with white wood, Alphitonia zizyphoides, in southern Vanuatu.
 
-<table>
+<table id="3-7-5-6-212-POc-bosi-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -2807,7 +2807,7 @@ A reasonable (but not the only) interpretation of the data below is that POc _&a
 
 Despite the fact that the shrub E. hortensis (island musk) is often cultivated and occurs in varieties with acrid-smelling leaves of various shapes, green or yellow, which are used to keep flies away and employed for various medicinal and ritual purposes at many localities ([Ivens 1927](../references.md#source-Ivens1927):362, [Peekel 1984](../references.md#source-Peekel1984): 267-268, [Whistler 1991b](../references.md#source-Whistler1991b): 133, [Whistler 2000](../references.md#source-Whistler2000): 119, [Wheatley 1992](../references.md#source-Wheatley1992): 91, [Hviding 2005](../references.md#source-Hviding2005): 106; ch.9, §2.1), the only term reconstructed for E. hortensis is PCP _&ast;usi_.
 
-<table>
+<table id="3-7-5-6-212-PCP-usi-a">
 <tr>
 <td><strong>PCP</strong></td><td> </td>
 <td>
@@ -2854,7 +2854,7 @@ Figure 7.9: Kleinhovia hospita: A, tree; B, shoot with a mature and an old inflo
 
 Most of the terms below are from NCV languages, and they present a minor puzzle. [Lynch](../references.md#source-Lynch2004a) ([2004a](../references.md#source-Lynch2004a)) divides them into two groups and makes two resemblant but seemingly irreconcilable PNCV reconstructions, _&ast;ma(t,d)aka_ (Banks, Malakula, Epi) and _&ast;matala_ (Banks, Santo, Malakula, Paama, Efate). There are also MM and SES reflexes, however, and here the terms reflect POc _&ast;ma(i)tagaR(a)_. Lynch's PNCV _&ast;ma(t,d)aka_, modified here to _&ast;ma(t,d)aga_, reflects this unproblematically. This leaves Lynch's PNCV _&ast;matala_, which I take to reflect an early borrowing from a language which had lost _&ast;-k-_ but retained _&ast;-R-_ as _-l-_ (the SES languages of Malaita reflect this pattern of reflexes, but there is no good reason to suppose that a language descended from the borrowing source still exists).
 
-<table>
+<table id="3-7-5-7-213-POc-maitagara-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -2960,7 +2960,7 @@ Most of the terms below are from NCV languages, and they present a minor puzzle.
 
 <a id="p-214"></a>
 
-<table>
+<table id="3-7-5-7-214-PNCV-matala-a">
 <tr>
 <td><strong>PNCV</strong></td><td> </td>
 <td>
@@ -3041,7 +3041,7 @@ Most of the terms below are from NCV languages, and they present a minor puzzle.
 
 Proto Meso-Melanesian _&ast;p(i,u)lakis_ and POc _&ast;paqu_, both 'Kleinhovia hospita', are also reconstructable. The forms under 'cf also' appear to reflect a variant _&ast;paqi_ which may represent a conflation of the two etyma.
 
-<table>
+<table id="3-7-5-7-214-ProtoMesoMelanesian-piulakis-a">
 <tr>
 <td><strong>ProtoMesoMelanesian</strong></td><td> </td>
 <td>
@@ -3080,7 +3080,7 @@ Proto Meso-Melanesian _&ast;p(i,u)lakis_ and POc _&ast;paqu_, both 'Kleinhovia h
 
 
 
-<table>
+<table id="3-7-5-7-214-POc-paqu-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -3159,7 +3159,7 @@ Numerous Litsea species of varying statures occur in the Bismarcks and the Solom
 
 The reconstruction of PCEMP/POc _&ast;lowaŋa_ 'Litsea sp.' is made possible by the CMP reflexes recorded by [Verheijen](../references.md#source-Verheijen1990) ([1990](../references.md#source-Verheijen1990): 224): Kepo, Rembong (both CMP) _lowaŋ_ 'Litsea sp.'. Although Nakanai _loaga_ 'Gmelina sp.' is glossed as another species, both are used for canoe hulls, and the Nakanai term is almost certainly cognate with Nyindrou _lowaŋ_. Nakanai also provides us with the final vowel for the reconstruction; that there was a final vowel can be inferred from the fact that final consonants are lost in Nyindrou and in the CMP languages from which reflexes are drawn.
 
-<table>
+<table id="3-7-5-8-215-POc-lowaa-a">
 <tr>
 <td><strong>PCEMP</strong></td><td> </td>
 <td>
@@ -3228,7 +3228,7 @@ The other two questions-was the third vowel _&ast;a_ or _&ast;i_? what is the so
 
 The reconstruction that emerges from the discussion above is POc _&ast;daRaka_, but there is enough speculation above to commend prudence, and so I offer POc _&ast;(dr,d)aRa(q,k)a_ below.
 
-<table>
+<table id="3-7-5-9-216-POc-drdaraqka-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -3265,7 +3265,7 @@ The reconstruction that emerges from the discussion above is POc _&ast;daRaka_, 
 
 <a id="p-217"></a>
 
-<table>
+<table id="3-7-5-9-217-PNCV-drdaraqkai-a">
 <tr>
 <td><strong>PNCV</strong></td><td> </td>
 <td>
@@ -3380,7 +3380,7 @@ Figure 7.10: Left Parinari glaberrima: A, tree; B, shoot bearing one mature and 
 
 POc _&ast;qatita_. Of the Western Oceanic forms, Wogeo _kətita_ and Kara _katita_ reflect _&ast;katita_, whilst the rest may reflect either _&ast;katita_ or _&ast;qatita_. On the simplest interpretation of the data I reconstruct PWOc _&ast;katita_. The Eastern Oceanic forms, on the other hand, reflect _&ast;qatita_. POc _&ast;(q,k)atita_ below reflects this ambiguity.
 
-<table>
+<table id="3-7-5-10-218-POc-qkatita-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -3516,7 +3516,7 @@ Blust (ACD) reconstructs doublets _&ast;qatita_ and _&ast;qarita_ for this item.
 
 Among directly inherited Admiralties reflexes of _&ast;qatita_, those in Likum, Drehet and Lou have initial _k-_. The reflexes below, however, agree not only in appearing to reflect _&ast;-r-_ but also in loss of the initial consonant. This suggests that they may all reflect a single early borrowing of a form _&ast;arita_.
 
-<table>
+<table id="3-7-5-10-219-adm-mussau-arita">
 <tr>
 <td>Adm</td>
 <td>Mussau</td>
@@ -3603,7 +3603,7 @@ Attempting to account for _&ast;tita_ Blust (ACD) suggests that the initial syll
 
 <a id="p-220"></a>
 
-<table>
+<table id="3-7-5-10-220-ProtoMesoMelanesian-tita-a">
 <tr>
 <td><strong>ProtoMesoMelanesian</strong></td><td> </td>
 <td>
@@ -3690,7 +3690,7 @@ cf. also:
 
 The cognate set below appears at first sight to be related to Baegu, Kwara'ae, Sa'a and Lau _saia_ above, but _saia_ is the regular reflex of POc _&ast;qatita_, since _&ast;q-_ and _&ast;-t-_ are both deleted, and _s-_ is a regular accretion before the resulting initial _a-_, corresponding with Kwaio _l-_ in _laia_ and 'Are'are _r-_ in _raia_ (Frantisek [Lichtenberk 1988](../references.md#source-Lichtenberk1988)). These changes are quite different from those regularly reflected in PCP.
 
-<table>
+<table id="3-7-5-10-220-PCP-sea-a">
 <tr>
 <td><strong>PCP</strong></td><td> </td>
 <td>
@@ -3735,7 +3735,7 @@ The cognate set below appears at first sight to be related to Baegu, Kwara'ae, S
 
 It is not clear what connection (if any) the form below has with those above.
 
-<table>
+<table id="3-7-5-10-220-POc-marakita-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -3782,7 +3782,7 @@ Throughout NW Island Melanesia, the trunks are split to make floorboards ([Floyd
 
 The Oceanic data below were assembled by Blust (ACD). The reconstruction of PCEMP _&ast;bual(a)_ 'Caryota sp.' is based on these data and on W Sumba _ʔwuola_, E Sumba (both CMP) _ʔwuala_ 'C. mitis' ([Verheijen 1990](../references.md#source-Verheijen1990): 199).
 
-<table>
+<table id="3-7-5-11-221-POc-bualbual-a">
 <tr>
 <td><strong>PCEMP</strong></td><td> </td>
 <td>
@@ -3856,7 +3856,7 @@ The Oceanic data below were assembled by Blust (ACD). The reconstruction of PCEM
 
 PMP _&ast;katipa(l,n)_ below is reconstructed on the basis of the Oceanic data below and of Hanunuo, Mangyan (WMP) _katipan_ 'C. cumingii' ([Madulid 2001a](../references.md#source-Madulid2001a): 364) and Wandamen (EMP) _kasira_ 'black palm sp.' ([Smits & Voorhoeve 1992](../references.md#source-SmitsandVoorhoeve1992): 222).
 
-<table>
+<table id="3-7-5-11-221-POc-katipal-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -3902,7 +3902,7 @@ PMP _&ast;katipa(l,n)_ below is reconstructed on the basis of the Oceanic data b
 
 Tiny though the cognate set below is, the membership of its two members in different primary subgroups of Oceanic justifies a POc reconstruction.
 
-<table>
+<table id="3-7-5-11-222-POc-jouabo-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -3934,7 +3934,7 @@ POc _&ast;piRu_ denoted one or more Licuala species, a fan palm. As [French-Wrig
 
 On the basis of the non-Oceanic data supporting Blust's reconstruction of PMP _&ast;biRuʔ_ (ACD), we would expect the POc form _&ast;piRu_, and this is reflected everywhere except in northern Vanuatu, where a local form _&ast;piloqi_ is reflected. NCV forms sporadically retain a POc final consonant with an added _&ast;-i_, regularly lost in Volow, Mota and Merlav, and so the final _-ɣ_ of these items may reflect POc _&ast;-q_, a possibility recognised in the reconstruction of POc _&ast;piRu(q)_.
 
-<table>
+<table id="3-7-5-11-222-POc-piruq-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -4135,7 +4135,7 @@ Abroma augusta is a small shrub 1-2m tall, more common in the highlands of New G
 
 Reflexes of POc _&ast;wasi-wasi_ 'Abroma augusta' are found with this meaning only in Near Oceania. In Remote Oceania the name denotes a large forest tree, Sterculia vitiensis (ch. 11, §2.6), which does not occur in NW Island Melanesia. Will McClatchey (pers. comm.) suggests that the change in denotation was mediated by the fact that S. vitiensis is also a source of fibre.
 
-<table>
+<table id="3-7-6-1-223-POc-wasiwasi-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -4228,7 +4228,7 @@ Reflexes of POc _&ast;wasi-wasi_ 'Abroma augusta' are found with this meaning on
 
 The plant with the largest fronds (1.5m long) on New Ireland, Angiopteris evecta is a large fern common in shady inland forest. The fronds rise from a massive rootstock, fleshy and moist, but fragrant when dry ([Peekel 1984](../references.md#source-Peekel1984): 30). Because of their moisture, the Kwara'ae lay them out around garden boundaries to soften the soil in the belief that this will improve the quality of the taro ([Kwa'ioloa & Burt 2001](../references.md#source-KwaioloaandBurt2001): 211).
 
-<table>
+<table id="3-7-6-1-224-PCP-nasei-a">
 <tr>
 <td><strong>PCP</strong></td><td> </td>
 <td>
@@ -4283,7 +4283,7 @@ As the glosses below indicate, its stems are used in thatching, basket-making an
 
 <a id="p-225"></a>
 
-<table>
+<table id="3-7-6-1-225-POc-niniq-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -4345,7 +4345,7 @@ Wood from an unnamed Garcinia species is used for axe handles on New Britain and
 
 Very little information is available to help us determine the denotata of the species below, but it is a reasonable inference that POc _&ast;bulu_ denoted the small Garcinia novo-guineensis, as this is present in the Bismarcks (and is the gloss of the Motu reflex).
 
-<table>
+<table id="3-7-6-1-225-POc-bulu-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -4397,7 +4397,7 @@ Very little information is available to help us determine the denotata of the sp
 
 The denotatum of PWOc _&ast;tabun_ was probably a large canopy tree. Muyuw _tob_ is a large canopy tree with stilt roots, an apt description of G. latissima ([Conn & Damas 2006](../references.md#source-ConnandDamas2006)). Tolai _tabu-tabun_ is glossed G. scaphopetala, which grows to 30 m.[^29]
 
-<table>
+<table id="3-7-6-1-226-PWOc-tabun-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
 <td>
@@ -4423,7 +4423,7 @@ The denotatum of PWOc _&ast;tabun_ was probably a large canopy tree. Muyuw _tob_
 
 The tree designated by PSV _&ast;n-mobʷol_ was evidently also a large species, as G. sessilis and G. platyphylla are both canopy trees.
 
-<table>
+<table id="3-7-6-1-226-PSOc-mabbola-a">
 <tr>
 <td><strong>PSOc</strong></td><td> </td>
 <td>
@@ -4467,7 +4467,7 @@ The tree designated by PSV _&ast;n-mobʷol_ was evidently also a large species, 
 
 If the NW Solomonic items under 'cf. also', all glossed Cominsia gigantea (Marantaceae) (a leafy shrub), are cognate, then POc _&ast;jinu_ is reconstructable but with uncertain denotation.
 
-<table>
+<table id="3-7-6-1-226-PEOc-sinu-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td>
@@ -4590,7 +4590,7 @@ The distribution of the two species seems to be complementary: S.forstenii in th
 
 The presence of _-i-_ in Kwaio and Kwara'ae _kʷailasi_ and Lau _koilasi_ probably reflects a folk etymology which interprets the first syllable as _kʷai_ 'river, water' (< POc _&ast;waiR_), but there is no other evidence to suggest that this is the origin of POc initial _&ast;wa-_. Indeed, it is possible that this folk etymologising accounts for the loss of _&ast;wa-_ in a number of reflexes.
 
-<table>
+<table id="3-7-6-1-227-POc-walasi-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -4789,7 +4789,7 @@ The only wild leafy shrub for which a reconstruction has been made is Hornstedti
 
 Hornstedtia lycostoma is a leafy shrub, 3-6m tall, a tall wild ginger with long leaves and red flowers that issue directly from the stem (Figure 7.11, left). The edible seeds are sweet and are gathered especially by children who sometimes eat so many that they become constipated ([Powell 1976](../references.md#source-Powell1976), [Peekel 1984](../references.md#source-Peekel1984): 105-106, [Kwa'ioloa & Burt 2001](../references.md#source-KwaioloaandBurt2001): 195 [Hviding 2005](../references.md#source-Hviding2005): 110).
 
-<table>
+<table id="3-7-6-2-228-POc-dalidali-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -4853,7 +4853,7 @@ Reports from the north coast of New Britain say that pieces of rattan are used f
 
 POc _&ast;qu(w)e_[^33] presumably denoted all of the two or three species mentioned above.
 
-<table>
+<table id="3-7-6-3-229-POc-quwe-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -4987,7 +4987,7 @@ Apparently none of the trees is used for timber, but Ann Chowning (pers. comm.) 
 
 Several forms below reflect PAn _&ast;lateŋ_ with a prefixed syllable: POc _&ast;ja-latoŋ_, PAdm _&ast;la-latoŋ_, _&ast;ña-latoŋ_, PNCV _&ast;ga-latoŋ_. The existence of the various prefixed forms indicates that unprefixed _&ast;latoŋ_ was also inherited into POc, and this is borne out by a single unprefixed reflex below: Kove _lato_. POc _&ast;jalatoŋ_, the most widely reflected form, must also have been inherited, as non-Oceanic reflexes occur. Apart from a few languages in the extreme north of Vanuatu - Vures, Mwesen, Dorig, Merlav - which reflect the prefix _&ast;ja-_ regularly ([François 2004b](../references.md#source-Francois2004b)), most known reflexes in Vanuatu, listed separately below, reflect _&ast;ga-_ 'tree'.
 
-<table>
+<table id="3-7-6-3-232-POc-jalato-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -5199,7 +5199,7 @@ Several forms below reflect PAn _&ast;lateŋ_ with a prefixed syllable: POc _&as
 
 
 
-<table>
+<table id="3-7-6-3-232-PNCV-galato-a">
 <tr>
 <td><strong>PNCV</strong></td><td> </td>
 <td>
@@ -5268,7 +5268,7 @@ Several forms below reflect PAn _&ast;lateŋ_ with a prefixed syllable: POc _&as
 
 [Clark](../references.md#source-Clark1996) ([1996](../references.md#source-Clark1996)) plausibly suggests that PNCV _&ast;kara_ reflects POc _&ast;kaRat_ 'bite', and the final _-t_ of Big Nambas _n-harat_ appears to support this etymology.
 
-<table>
+<table id="3-7-6-3-233-POc-karat-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -5333,7 +5333,7 @@ Ferns of the genus Lygodium are climbing vines which wind around tree trunks. [P
 
 All are apparently used as binding material. The thicker L. circinnatum and, among the Roviana, L. trifurcatum are used for binding outrigger booms. The more delicate L. scandens is used in weaving, for tying bundles and as circlets for the arm or leg ([Waterhouse 1949](../references.md#source-Waterhouse1949), [Arentz et al. 1989](../references.md#source-Arentzetal1989): 93).
 
-<table>
+<table id="3-7-6-3-233-POc-qasam-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -5450,7 +5450,7 @@ According to Peekel M. peltata vines are used as binding material in circumstanc
 
 The Meso-Melanesian forms below other than Tolai _valearu_ reflect POc _&ast;paliaRa_, but reflexes of _&ast;paliaRua_ are found in New Ireland, southern Vanuatu and Fiji, and I take this to have been the POc form.
 
-<table>
+<table id="3-7-6-3-234-POc-paliarua-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -5513,7 +5513,7 @@ The POc term was _&ast;pʷete_.
 
 <a id="p-235"></a>
 
-<table>
+<table id="3-7-6-3-235-POc-pete-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -5563,7 +5563,7 @@ Because it receives little light, the forest floor is often almost bare of plant
 
 The generic term for mushrooms and fleshy fungi was POc _&ast;taliŋa_ (Ch 3, §4. 7), formally identical to _&ast;taliŋa_ 'ear' and presumably reflecting a perception that some fungi resemble the human ear. [Blust](../references.md#source-Blust2000) ([2000](../references.md#source-Blust2000)) points out that more detailed descriptions specify the referent of _&ast;taliŋa_ reflexes as jelly fungus, which do not have the umbrella-like shape of a mushroom but 'sprout directly from the trunks of dead trees as a collection of folded tissues which may appear cup-like or ear-like'. Their names include reference to 'ear' in a number of cultures around the world. In Austronesian languages, including some in Oceania, the name also specifies the ear's owner. Since they grow on tree bark, they are sometimes named 'tree ear'. Whether one should therefore reconstruct POc _&ast;taliŋa qi kayu_ 'tree fungus' (lit. 'ear of tree') is a little debatable. This may well have been a POc locution, as Blust also notes its occurrence in non-Oceanic Austronesian languages, but it may also have been coined more than once in the history of Austronesian languages. Most of the terms below are from [Blust](../references.md#source-Blust2000) ([2000](../references.md#source-Blust2000)).
 
-<table>
+<table id="3-7-7-None-235-adm-mondropolon-cannikei">
 <tr>
 <td>Adm</td>
 <td>Mondropolon</td>
@@ -5589,7 +5589,7 @@ The generic term for mushrooms and fleshy fungi was POc _&ast;taliŋa_ (Ch 3, §
 
 Some jelly fungi are named 'rat ear', apparently because of their shape:
 
-<table>
+<table id="3-7-7-None-235-ncv-paamese-ralienasu">
 <tr>
 <td>NCV</td>
 <td>Paamese</td>
@@ -5632,7 +5632,7 @@ A number of Oceanic terms translate as 'ghost ear'. Blust suggests that this ref
 
 <a id="p-236"></a>
 
-<table>
+<table id="3-7-7-None-236-adm-seimat-taxiipaxi">
 <tr>
 <td>Adm</td>
 <td>Seimat</td>
@@ -5693,7 +5693,7 @@ A number of Oceanic terms translate as 'ghost ear'. Blust suggests that this ref
 
 The data below support a PMic reconstruction.
 
-<table>
+<table id="3-7-7-None-236-PMic-talianipara-a">
 <tr>
 <td><strong>PMic</strong></td><td> </td>
 <td>
@@ -5723,7 +5723,7 @@ The data below support a PMic reconstruction.
 
 In our data sources terms for different kinds of fungus tend to be very few, and only one reconstruction is offered, based on work by [French-Wright](../references.md#source-FrenchWright1983) ([1983](../references.md#source-FrenchWright1983)).
 
-<table>
+<table id="3-7-7-None-236-PWOc-kokoi-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
 <td>

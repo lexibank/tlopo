@@ -56,7 +56,7 @@ The Bola of New Britain use Rhizophora species as building timber ([Powell 1976]
 
 The Proto Oceanic (POc) term for Rhizophora species was perhaps POc _&ast;wako(t)_, repeated here from ch.4, §2.4. Since it is Rhizophora species that have stilt roots, it is likely that the intended meaning of 'mangrove' in these glosses is Rhizophora, and the glosses of the Tawala, Mokilese and Ponapean reflexes suggest that POc _&ast;wako(t)_ may have been used metonymically for the whole tree and not just the roots.
 
-<table>
+<table id="3-6-2-1-175-POc-wakot-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -100,7 +100,7 @@ The Proto Oceanic (POc) term for Rhizophora species was perhaps POc _&ast;wako(t
 
 PWOc _&ast;baul_ perhaps denoted Rhizophora: its Tolai reflex, _baul_ 'mangrove, Rhizophora apiculata', contrasts with _toŋor_, the generic term for mangroves including both Rhizophora and Bruguiera species.
 
-<table>
+<table id="3-6-2-1-175-PWOc-baul-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
 <td>
@@ -174,7 +174,7 @@ The wood of B. gymnorrhiza is hard, but it is not durable in water and is theref
 
 POc _&ast;toŋoR_ was fairly clearly the generic term for mangroves. It also seems to have been the term for Bruguiera species. This is the denotatum of its reflexes in non-Oceanic languages and in some of the Oceanic languages listed below (and I suspect that where the gloss is simply 'mangrove', this is sometimes simply the result of poor glossing).
 
-<table>
+<table id="3-6-3-1-176-POc-toor-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -472,7 +472,7 @@ Two reconstructions are presented below: PWOc _&ast;(p,pʷ)awa(t)_ 'Cerbera spp.
 
 The initial rounded bilabial of POc _&ast;(p,pʷ)awa(t)_ is reconstructed on the basis of Teop _p-_ (the usual Teop reflex of _&ast;p_ is _v-_. The final _&ast;-t_ is uncertain because it is reflected in Misima, but not where it is also expected, in Teop, Nduke, Roviana and Marovo.
 
-<table>
+<table id="3-6-4-1-179-POc-ppawat-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -536,7 +536,7 @@ The initial rounded bilabial of POc _&ast;(p,pʷ)awa(t)_ is reconstructed on the
 
 
 
-<table>
+<table id="3-6-4-1-179-PCP-rewa-a">
 <tr>
 <td><strong>PCP</strong></td><td> </td>
 <td>
@@ -627,7 +627,7 @@ It is used in New Ireland to make propeller-like shark fishing floats ([Peekel 1
 
 <a id="p-180"></a>
 
-<table>
+<table id="3-6-4-2-180-POc-tui-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -713,7 +713,7 @@ Lynch (2004) reconstructs PSOc _&ast;(t,d)oto(q)_, noting, 'Final _&ast;-o_ is o
 
 <a id="p-181"></a>
 
-<table>
+<table id="3-6-4-3-181-POc-dotoq-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -821,7 +821,7 @@ The cognate set below has few members, but they are widespread enough to support
 
 <a id="p-182"></a>
 
-<table>
+<table id="3-6-4-4-182-POc-kayuqone-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -850,7 +850,7 @@ The cognate set below has few members, but they are widespread enough to support
 
 
 
-<table>
+<table id="3-6-4-4-182-ProtoSoutheastSolomonic-qoneqone-a">
 <tr>
 <td><strong>ProtoSoutheastSolomonic</strong></td><td> </td>
 <td>
@@ -890,7 +890,7 @@ Its fronds are used for matting ([Peekel 1984](../references.md#source-Peekel198
 
 Final POc _&ast;-q_ of _&ast;nipaq_ is attested by the presence of paragogic _-i_ in Saliba, which occurs only after a present or earlier word-final consonant.
 
-<table>
+<table id="3-6-4-5-182-POc-nipaq-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -964,7 +964,7 @@ Xylocarpus granatum and X. moluccensis are foreshore trees or shrubs, with a tru
 
 POc _&ast;tapi(l)_ is problematic because only the Muyuw reflex has a secure gloss, and because Gela _tavili_ - if it is cognate - reflects a POc final consonant and a paragogic _-i_, suggesting that it is a loan from a nearby NW Solomonic language. The only secure reconstruction is PCP _&ast;legi-legi_ 'puzzlenut tree, Xylocarpus granatum'.
 
-<table>
+<table id="3-6-4-6-183-POc-tapil-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -993,7 +993,7 @@ POc _&ast;tapi(l)_ is problematic because only the Muyuw reflex has a secure glo
 
 
 
-<table>
+<table id="3-6-4-6-183-PCP-legilegi-a">
 <tr>
 <td><strong>PCP</strong></td><td> </td>
 <td>

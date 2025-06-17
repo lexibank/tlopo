@@ -115,7 +115,7 @@ Each reconstructed word or etymon is attributed to a certain level of the Austro
 
 POc _&ast;waga_ (phonetically [waŋga] with [ŋg] being a single phoneme) is widely reflected within Oceanic as a general term for a canoe or boat with a hull, as opposed to a raft. In many Oceanic languages, however, the reflex of _&ast;waga_ refers chiefly to large sailing canoes and other large vessels, in contrast to dugout canoes and small outrigger canoes. This range of meanings, taken together with the cognate set under PMP _&ast;katiR_, suggests that _&ast;waga_ may have had two senses in POco
 
-<table>
+<table id="1-7-2-1-178-POc-waga-a">
 <tr>
 <td><strong>PCEMP</strong></td><td> </td>
 <td>
@@ -310,7 +310,7 @@ The primary sense of POc _&ast;waga_ was perhaps 'large sailing canoe' in contra
 
 Cognates belonging to the set above are sometimes placed together with forms listed below:
 
-<table>
+<table id="1-7-2-1-178-wmp-malay-waka">
 <tr>
 <td>None</td>
 <td>Malay</td>
@@ -339,7 +339,7 @@ Cognates belonging to the set above are sometimes placed together with forms lis
 
 and:
 
-<table>
+<table id="1-7-2-1-179-POc-paka-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -454,7 +454,7 @@ It is likely (Mark Donohue, pers.comm.) that the Chinese characters in question 
 
 The next term is reconstructable as far back as PMP. But note the disagreement between WMP and Oceanic witnesses as to its meaning.
 
-<table>
+<table id="1-7-2-1-180-POc-katir-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -568,7 +568,7 @@ Figure 24:  POc _&ast;waga_ 'canoe' (after [Koch n.d.](../references.md#source-K
 
 If POc _&ast;kati(R)_ referred to a small outrigger canoe, then the following set may reflect a term for a large outrigger canoe (perhaps synonymous with _&ast;waga_ in its narrower sense):
 
-<table>
+<table id="1-7-2-1-181-POc-tola-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -695,7 +695,7 @@ It has been suggested (Roger Green, pers.comm.) that the ocean-going double-hull
 
 No term for double canoe can safely be reconstructed for any very early Austronesian interstage. However, a number of Oceanic languages reflect the following form:
 
-<table>
+<table id="1-7-2-2-182-PEOc-paqurua-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td>
@@ -791,7 +791,7 @@ PEOc _&ast;paqurua_ is a compound formed from POc _&ast;paqu(s)_ 'bind, lash; co
 
 Numerous other reconstructions, attributable to interstages lower than PMP or POc, can be made for types of craft. For example, the following doublets (distinct words coexisting in a language whose similar form and meaning suggest they ultimately trace back to the same source) can be reconstructed:
 
-<table>
+<table id="1-7-2-2-183-PWMP-padaw-a">
 <tr>
 <td><strong>PWMP</strong></td><td> </td>
 <td>
@@ -819,7 +819,7 @@ Numerous other reconstructions, attributable to interstages lower than PMP or PO
 
 
 
-<table>
+<table id="1-7-2-2-183-PWMP-parasu-a">
 <tr>
 <td><strong>PWMP</strong></td><td> </td>
 <td>
@@ -858,7 +858,7 @@ Numerous other reconstructions, attributable to interstages lower than PMP or PO
 
 These forms have sometimes been compared with Oceanic forms represented by Tongan _folau_ 'voyage, travel by sea', Fijian _volau_ 'boat shed' (cf. _&ast;pa-laSud_, §9.2). A PPn reconstruction for a small canoe used close to shore is well supported:
 
-<table>
+<table id="1-7-2-2-184-PPn-paopao-a">
 <tr>
 <td><strong>PPn</strong></td><td> </td>
 <td>
@@ -895,7 +895,7 @@ A possible cognate occurs in a single Western Oceanic language, Mekeo of the Cen
 
 [Blust](../references.md#source-Blust1986) ([1986](../references.md#source-Blust1986):33) reconstructs the term _&ast;dakit_, noting a number of reflexes within the WMP region and a regular reflex in one Oceanic language, Motu. To these may be added many other Philippine and Northern Sulawesi reflexes (given in [Reid 1971](../references.md#source-Reid1971)) and possible reflexes in CMP and Western Oceanic.
 
-<table>
+<table id="1-7-2-2-184-POc-rakit-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -994,7 +994,7 @@ A possible cognate occurs in a single Western Oceanic language, Mekeo of the Cen
 
 [Chowning](../references.md#source-Chowning1985) ([1985](../references.md#source-Chowning1985): 59) gives the following as possible cognates, although the final vowel is problematic:
 
-<table>
+<table id="1-7-2-2-184-nng-kove-lae">
 <tr>
 <td>NNG</td>
 <td>Kove</td>
@@ -1038,7 +1038,7 @@ The question arises as to whether any or all of these features of hull design ar
 
 The comparisons below and in §2.5point to the use by speakers of PMP and its immediate descendants, of boats built up by planking and strengthened by thwarts:
 
-<table>
+<table id="1-7-2-4-185-POc-baban-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -1149,7 +1149,7 @@ PMP _&ast;papan_ evidently referred to any plank or board (see Ch. 3, §3. S). I
 
 <a id="p-186"></a>
 
-<table>
+<table id="1-7-2-4-186-POc-qora-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1219,7 +1219,7 @@ We can reconstruct PMP _&ast;kiRam_ 'adze/axe' and _&ast;taRaqi_ (V) 'adze, carv
 ### 2.5. Thwart, cross-seat
 
 
-<table>
+<table id="1-7-2-5-187-POc-sokar-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -1289,7 +1289,7 @@ We can reconstruct PMP _&ast;kiRam_ 'adze/axe' and _&ast;taRaqi_ (V) 'adze, carv
 
 There is no well-supported PMP reconstruction for 'dugout underbody of canoe (to which planking is added)' or for 'keel of built-up canoe' although _&ast;ba(ŋ)ka(q)_ (§2.1) is a candidate for the former. Such a term is, however, clearly reconstructable for PCP:
 
-<table>
+<table id="1-7-2-6-187-PCP-takele-a">
 <tr>
 <td><strong>PCP</strong></td><td> </td>
 <td>
@@ -1353,7 +1353,7 @@ There is no well-supported PMP reconstruction for 'dugout underbody of canoe (to
 
 A PPn term for 'bilge, interior of hull' is well supported but cognates have not been noted elsewhere. In some Polynesian languages the same term refers to the interior of any container, such as a cup or basket.
 
-<table>
+<table id="1-7-2-7-188-PPn-liu-a">
 <tr>
 <td><strong>PPn</strong></td><td> </td>
 <td>
@@ -1404,7 +1404,7 @@ A PPn term for 'bilge, interior of hull' is well supported but cognates have not
 
 Two well-attested POc locative nouns having the general sense of 'rear, back part', and 'front, front part', respectively, are reconstructable also with the specialised senses 'stern' and 'bow'. The first of these terms goes back at least to PMP.
 
-<table>
+<table id="1-7-2-8-188-POc-muri-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1454,7 +1454,7 @@ Two well-attested POc locative nouns having the general sense of 'rear, back par
 
 See also PPn _&ast;tau-muri_ 'afterdeck' (§2.10)
 
-<table>
+<table id="1-7-2-8-188-POc-muqa-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1517,7 +1517,7 @@ Figure 25: POc _&ast;ijuŋ_ 'projecting headboard of prow' (from [Nevermann 1934
 
 In many regions of Oceania larger canoes are constructed with a projecting headboard, part of it resting on the underbody abutting the washstrake, the rest sometimes extending several feet beyond. The end of such headboards usually consists of an elaborately carved figurehead, often a human or animal head or figure. There is a corresponding carved end-board at the stern, often standing more or less vertical. Such carved end-pieces are common, for example, in eastern Polynesia, the Solomon Islands, the Massim, the north coast of New Guinea and the Bismarck Archipelago. A POc reconstruction can be made for the name of the headboard:
 
-<table>
+<table id="1-7-2-9-189-POc-iju-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1618,7 +1618,7 @@ The central meaning of POc _&ast;ijuŋ_ was 'nose' and that of _&ast;ŋuju_ 'bea
 
 While outrigger canoes with simple dugout hull are suitable for inshore sailing, seaworthy canoes require at least 'end-decking', minimally a V-shaped piece covering the bow and stern of the dugout hull. The next comparison points to a PCP term for this piece; PCP _&ast;tau_ may come from POc _&ast;taRu_ 'cover up':
 
-<table>
+<table id="1-7-2-10-190-PCP-tau-a">
 <tr>
 <td><strong>PCP</strong></td><td> </td>
 <td>
@@ -1712,7 +1712,7 @@ Rick Jackson (pers.comm.) suggests Proto Trukic _&ast;tau_ (?) 'thwart, cross-se
 
 On medium-sized and large canoes a platform is sometimes built over the hull and the outrigger (or between the two bulls on double canoes); or two platforms are built, one on the outrigger and one on the starboard side. No PMP term for such a platform is reconstructable on present evidence but there is a strong candidate for a POc term, namely:
 
-<table>
+<table id="1-7-3-1-190-POc-patar-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -1829,7 +1829,7 @@ A deck hut is often added to large outrigger canoes but no widespread cognate se
 
 The meaning 'outrigger float' can be attributed to PMP _&ast;(c,s)a(R)man_. This term is well attested in Oceanic and Central/Eastern Malayo-Polynesian, but rare in WMP. In many WMP languages it has been replaced in this meaning by a reflex of _&ast;katiR_ (§2.1). In Oceanic languages the reflex of POc _&ast;saman_ also has the sense of 'outrigger side of the canoe' in contrast to _&ast;katae_ 'free side of canoe' (§4.4).
 
-<table>
+<table id="1-7-4-1-191-POc-saman-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -1983,7 +1983,7 @@ Oceanic languages of the Papuan Tip subgroup reflect _&ast;sarima_ rather than _
 
 The outrigger float is connected to the hull by booms, two or three in the case of small canoes but often five or more in larger, ocean-going canoes. A term for 'outrigger boom' can be constructed for POc but not for PMP:
 
-<table>
+<table id="1-7-4-2-192-POc-kiajo-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -2086,7 +2086,7 @@ Three main methods of connecting the outrigger float to the booms can be disting
 
 A POc reconstruction for the connective sticks (stanchions, struts) was made by [Milke](../references.md#source-Milke1968) ([1968](../references.md#source-Milke1968)) and is well attested. A single cognate in the north-west New Guinea language, Numfor, allows tentative attribution of this etymon (with indeterminate final vowel) to Proto Eastern Malayo-Polynesian.
 
-<table>
+<table id="1-7-4-3-193-POc-patoto-a">
 <tr>
 <td><strong>PEMP</strong></td><td> </td>
 <td>
@@ -2160,7 +2160,7 @@ A POc reconstruction for the connective sticks (stanchions, struts) was made by 
 
 A POc term can be reconstructed with the sense 'starboard or free side of the canoe, opposite the outrigger side (_&ast;saman_). In Central Pacific languages this term was also applied to the larger hull of a double canoe.
 
-<table>
+<table id="1-7-4-4-193-POc-katae-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -2280,7 +2280,7 @@ On some of these points the linguistic evidence appears to be silent. However, s
 
 A PMP term for 'sail' (the object) is continued in all the major subgroups:
 
-<table>
+<table id="1-7-5-1-194-POc-layar-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -2409,7 +2409,7 @@ Traditional Oceanic sails are made of matting, woven from pandanus leaves or oth
 
 The following form is well attested though its reflexes show a range of meanings:
 
-<table>
+<table id="1-7-5-2-195-POc-jila-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -2503,7 +2503,7 @@ POc or PCP _&ast;jila_ has commonly (e.g. [Blust 1976a](../references.md#source-
 ### 5.3. Mast or props supporting mast
 
 
-<table>
+<table id="1-7-5-3-196-PEOc-kaiutuqur-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td>
@@ -2560,7 +2560,7 @@ cf. also:
 
 POc _&ast;kaiu-tuqu(r)_ (evidently a compound of _&ast;kaiu_ 'wood, stick, pole' and _&ast;tuqu(r)_ 'stand; fixed') possibly referred to any main supporting timber including the prop or mast of a boat. This compound has reflexes in Southeast Solomonic, Polynesian and Nuclear Micronesian and possibly in Motu. It appears to have been already lexicalised in the immediate common ancestor of these groups.
 
-<table>
+<table id="1-7-5-3-196-PEOc-pana-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td>
@@ -2616,7 +2616,7 @@ As the Central Pacific languages in this comparison are all in the Fiji - West P
 
 The following cognate set appears to be confined to Central Pacific:
 
-<table>
+<table id="1-7-5-4-197-PCP-tuku-a">
 <tr>
 <td><strong>PCP</strong></td><td> </td>
 <td>
@@ -2659,7 +2659,7 @@ These forms may be cognate with PCP _&ast;tuku_ 'let go, slacken'. Again, the na
 
 A PMP term for steering oar is well supported. Contemporary languages which retain this term now apply it to rudders, but there is no reason to believe that rudders were in use in PMP times. A verbal use 'steer (a boat from the stem)' can also be reconstructed. In many languages this verbal use has now generalised to any kind of steering of a vessel or vehicle.
 
-<table>
+<table id="1-7-6-None-197-POc-quli-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -2784,7 +2784,7 @@ Under this heading fall objects used or carried on board, such as cargo, anchor,
 
 A single base can be reconstructed, used both as a verb '(boat +) be loaded, carry a cargo' and as a noun 'cargo, load'. However, it occurs in the form of a doublet, with and without initial _&ast;l-_.
 
-<table>
+<table id="1-7-7-1-198-POc-ujan-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -2889,7 +2889,7 @@ A single base can be reconstructed, used both as a verb '(boat +) be loaded, car
 
 There are two well-established PMP terms to do with paddling, _&ast;be(R)(c,s)ay_ and _&ast;pa-luja_:
 
-<table>
+<table id="1-7-7-2-198-POc-pose-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -3018,7 +3018,7 @@ There are two well-established PMP terms to do with paddling, _&ast;be(R)(c,s)ay
 
 <a id="p-199"></a>
 
-<table>
+<table id="1-7-7-2-199-POc-paluca-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -3121,7 +3121,7 @@ It is not clear whether PMP _&ast;be(R)(c,s)ay_ and _&ast;paluja_ differed in me
 
 A third form attributable to PEOc, _&ast;sua(C)_, also has some reflexes glossed 'to paddle'. However, the meanings associated with its putative reflexes are quite varied. These meanings include (i) 'scull, in which a standing person holds the oar vertically', (ii) 'punt or pole a boat in shallow water', (iii) 'to paddle', (iv) 'a paddle' and (v) 'to steer'. The range of meanings suggests an original reference to a standing person using an oar or pole to propel or to steer a boat. (cf. also PCP _&ast;sua_ 'tack', §9.2.)
 
-<table>
+<table id="1-7-7-2-200-PEOc-suac-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td>
@@ -3235,7 +3235,7 @@ cf. also:
 
 PMP _&ast;teken_ 'pole, staff' was evidently continued in POc both as a noun _&ast;tokon_ and as a transitive verb _&ast;tokon-i-_ (v) 'punt or pole (a boat)':
 
-<table>
+<table id="1-7-7-3-200-POc-tokon-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -3361,7 +3361,7 @@ cf. also:
 
 Three terms to do with bailing water from a vessel can be reconstructed at the PMP level, all of which are continued in PWMP, POc and PCP.
 
-<table>
+<table id="1-7-7-4-201-POc-limas-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -3436,7 +3436,7 @@ Figure 26: POc _&ast;lima(s)_ or _&ast;nima(s)_, POc _&ast;asu_ 'bailer'
 
 The following PMP reconstruction is given by [Blust](../references.md#source-Blust1978b) ([1978b](../references.md#source-Blust1978b): 94). Although 'scoop or ladle out' was probably the basic meaning, a number of Oceanic languages use the reflex of _&ast;asu_ to denote a bailer.
 
-<table>
+<table id="1-7-7-4-201-POc-asu-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -3522,7 +3522,7 @@ The following PMP reconstruction is given by [Blust](../references.md#source-Blu
 
 The next comparison shows a PPn term for 'bailer' and 'bail', derived from a PMP form which may have had a more restricted use.
 
-<table>
+<table id="1-7-7-4-202-PPn-tata-a">
 <tr>
 <td><strong>PPn</strong></td><td> </td>
 <td>
@@ -3570,7 +3570,7 @@ Compare WMP: Cebuano _tata_ 'empty a container by turning it upside down'. This 
 
 Seagoing canoes in many places carry a heap of sand, or an old clay pot or wooden basin filled with sand or earth, for use as a fireplace. A reconstruction for such an apparatus can be made only at PCP level:
 
-<table>
+<table id="1-7-7-5-202-PCP-tadravu-a">
 <tr>
 <td><strong>PCP</strong></td><td> </td>
 <td>
@@ -3646,7 +3646,7 @@ Outrigger canoes are normally launched from beaches and hauled ashore rather tha
 
 A PMP term for canoe rollers or skids is well attested, with reflexes in Philippine, Maluku and Oceanic languages.
 
-<table>
+<table id="1-7-8-1-203-POc-laon-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -3740,7 +3740,7 @@ A PMP term for canoe rollers or skids is well attested, with reflexes in Philipp
 
 There are two fairly well-supported PMP reconstructions to do with anchoring. In the following comparison the WMP terms refer to an anchor while the Oceanic terms support a verbal reconstruction 'be anchored or moored'.
 
-<table>
+<table id="1-7-8-2-203-POc-jauq-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -3842,7 +3842,7 @@ There are two fairly well-supported PMP reconstructions to do with anchoring. In
 
 The PMP and POc term _&ast;sawaŋ_ or _&ast;sawaq_ appears to have been the conventional name for a channel for boats to pass through or to land, or an area of calm water giving safe anchorage. [Blust](../references.md#source-Blust1983) ([1983](../references.md#source-Blust1983)-84a: 113) reconstructs _&ast;sawaq_ 'channel'.
 
-<table>
+<table id="1-7-8-3-204-POc-sawa-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -3992,7 +3992,7 @@ cf. also:
 
 There is clear evidence for a POc compound consisting of _&ast;mata_ 'opening, entrance; focal point' plus _&ast;sawaŋ_, with the sense 'landing place for boats' . The Southeast Solomonic and Kiribatese forms suggest the POc compound had the form _&ast;mata-ni-sawaŋ_, or _&ast;mata-qi-sawaŋ_, with one of the two POc genitive particles _&ast;ni_ or _&ast;qi_ ([Hooper 1985](../references.md#source-Hooper1985)) linking the two nouns. However, the Admiralty Islands and Fijian forms do not reflect the genitive.
 
-<table>
+<table id="1-7-8-3-204-POc-matasawa-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -4061,7 +4061,7 @@ There is clear evidence for a POc compound consisting of _&ast;mata_ 'opening, e
 
 While boatsheds, for building and sheltering boats, are common in the Malayo-Polynesian speaking region, no really widespread cognate set for such a building has been noted outside the Central Pacific group. Some Oceanic languages use a simple term reflecting PMP _&ast;balay_ 'house or building, probably with open sides' as Lou (Admiralties) _pal_ 'boatshed'. Others use a compound nominal whose components, as in English, are the words for 'boat' and 'house' . It may be that speakers of PMP used such a compound but it is hard to rule out the possibility of independent parallel developments in the daughter languages. However, there is good evidence for a distinctive PCP term for boatshed, evidently incorporating the term for 'make a sea voyage' (see POc _&ast;palau(r)_, §9.2):
 
-<table>
+<table id="1-7-8-4-205-PCP-avalau-a">
 <tr>
 <td><strong>PCP</strong></td><td> </td>
 <td>
@@ -4128,7 +4128,7 @@ A number of terms can be reconstructed at PMP or lower levels for concepts to do
 ### 9.1. Embark, ride
 
 
-<table>
+<table id="1-7-9-1-205-POc-sake-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -4237,7 +4237,7 @@ This was the PMP/POc term for 'ascend, climb, mount'.
 
 In the following set the Central Pacific forms clearly refer to long-distance sailing. There is some question whether the WMP forms are cognate with the Oceanic.
 
-<table>
+<table id="1-7-9-2-206-POc-palaur-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -4372,7 +4372,7 @@ Lawrence Reid (pers.comm.) suggests that the Malayo-Polynesian forms derive from
 
 [Blust](../references.md#source-Blust1978a) ([1978a](../references.md#source-Blust1978a):216) offers the following:
 
-<table>
+<table id="1-7-9-2-207-POc-tari-a">
 <tr>
 <td><strong>PEMP</strong></td><td> </td>
 <td>
@@ -4405,7 +4405,7 @@ Lawrence Reid (pers.comm.) suggests that the Malayo-Polynesian forms derive from
 
 The sound correspondences are regular, but one would like further cognates to strengthen the comparison. Lau _tari_ 'steer, keep straight on' and 'Are'are _tari_/_roro_ 'steer a canoe (the steersman drawing the paddle towards himself with big strokes) show a superficial likeness but are not demonstrably cognate, because _t_ in Malaitan languages derives from POc _&ast;s_. Rick Jackson (pers.comm.) reconstructs Proto Western Micronesian _&ast;taraki_ 'sail, travel by sea' with reflexes in Trukese, Ponapean and Marshallese but again the resemblance to PEMP _&ast;ta(d,R)i_ seems to be superficial.
 
-<table>
+<table id="1-7-9-2-207-POc-piluk-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -4477,7 +4477,7 @@ The sound correspondences are regular, but one would like further cognates to st
 
 The following reconstruction consists of a compound with _&ast;tau_ 'person, expert, owner' as the first element and _&ast;tasi(k)_ 'sea' as the second.
 
-<table>
+<table id="1-7-9-3-207-PEOc-tautasik-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td>
@@ -4561,7 +4561,7 @@ cf. also:
 
 In the following set the first element is again _&ast;tau_ 'person, owner'. The agreement between Polynesian and Papuan Tip languages may be the result of parallel development. However, in both groups the formation of compounds with _&ast;tau_ is no longer productive, so the chances are that the compounds in question are quite old.
 
-<table>
+<table id="1-7-9-4-208-POc-tauniwaga-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>

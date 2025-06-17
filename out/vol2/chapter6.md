@@ -40,7 +40,7 @@ For early Oceanic navigators, as for the Arabs, the Phoenicians, the Vikings and
 
 The most soundly based reconstruction for sky is POc _&ast;laŋit_ (see also p.142). In some Oceanic languages its meaning has been extended to include weather, apparently both as a general category and as a specific reference to kinds of weather, rain, wind etc.
 
-<table>
+<table id="2-6-2-1-157-POc-lait-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -168,7 +168,7 @@ The sky was typically conceptualised as something spanning a flat world from hor
 
 The line where sea meets sky is commonly referred to by a compound — either edge/walls/ base of sky, edge of sea, or similar. I have located two sets of cognates, one limited to Polynesia, the other to Micronesia. The first reflects PEOc _&ast;tapa_ ‘side’ (p.255) + _&ast;qi_ ‘non-specific possessor particle’ + _&ast;laŋit_ ‘sky’. The Tongan form and the East Uvean borrowing of that form reflect the replacement of the PPn preposition _&ast;ʔi_ by an unexplained _ʔaki_.
 
-<table>
+<table id="2-6-2-2-158-PPn-tafatafaqakilai-a">
 <tr>
 <td><strong>PPn</strong></td><td> </td>
 <td>
@@ -213,7 +213,7 @@ The line where sea meets sky is commonly referred to by a compound — either ed
 
 Similarly, PChk _&ast;pai-laŋi_ may be from POc _&ast;baRa_ ‘fence’(see vol.1, p.60) + _qi_ + _laŋit_ lit. ‘fence of sky’.
 
-<table>
+<table id="2-6-2-2-158-PChk-pailai-a">
 <tr>
 <td><strong>PChk</strong></td><td> </td>
 <td>
@@ -249,7 +249,7 @@ Similarly, PChk _&ast;pai-laŋi_ may be from POc _&ast;baRa_ ‘fence’(see vol
 
 Two SE Solomonic languages describe the horizon in terms of the sea rather than the sky. Lau and Kwaio both have _ʔaena asi_, literally ‘foot/leg of the sea’. Other terms retain the more usual second element meaning ‘sky’ but vary the first element:
 
-<table>
+<table id="2-6-2-2-158-pt-motu-gubadokona">
 <tr>
 <td>PT</td>
 <td>Motu</td>
@@ -365,7 +365,7 @@ At its highest point each day the sun is also an accurate indicator of due north
 
 Reconstruction of a POc term for the sun itself is not clearcut. Blust has reconstructed PMP _&ast;qajaw_ or _&ast;qalejaw_ as ‘day’, continued as POc _&ast;qajo_ ‘day’. In this he has revised both the form and meaning of Dempwolff’s (1938) reconstruction PMP _&ast;ha(ŋ)gav_ ‘day, sun’. Here we have opted for ‘sun’ as the primary meaning of POc _&ast;qaco_, and, by extension, ‘daytime’. There is evidence both within and without the Oceanic region that the senses of ‘day/daylight/daytime’ and ‘sun’ were commonly interchanged.
 
-<table>
+<table id="2-6-3-None-160-POc-qaco-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -550,7 +550,7 @@ Reconstruction of a POc term for the sun itself is not clearcut. Blust has recon
 
 <a id="p-161"></a>
 
-<table>
+<table id="2-6-3-None-161-PPn-qaso-a">
 <tr>
 <td><strong>PPn</strong></td><td> </td>
 <td>
@@ -595,7 +595,7 @@ Reconstruction of a POc term for the sun itself is not clearcut. Blust has recon
 
 Proto Nuclear Polynesian shows a split between &ast;qaso ‘day, as a period of time’ and &ast;qaho ‘daytime, daylight’.
 
-<table>
+<table id="2-6-3-None-161-PNPn-qaho-a">
 <tr>
 <td><strong>PNPn</strong></td><td> </td>
 <td>
@@ -633,7 +633,7 @@ Proto Nuclear Polynesian shows a split between &ast;qaso ‘day, as a period of 
 
 
 
-<table>
+<table id="2-6-3-None-161-POc-raqani-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -827,7 +827,7 @@ The Southeast Solomonic forms above are irregular, initial _d-_ reflecting _&ast
 
 The preceding cognate set may ultimately be connected with the following one. However, it is clear that reflexes of POc _&ast;raqani_ ‘daytime, daylight’ are synchronically distinct from reflexes of POc _&ast;[dr,r]aqā_ ‘sun’s heat, sunlight’; ‘(sun) shine; _&ast;[dr,r]aqa-ŋi_ ‘shine on, be hot, be bright’, in contemporary Oceanic languages which reflect both etyma.
 
-<table>
+<table id="2-6-3-None-162-POc-drraqa-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -963,7 +963,7 @@ Evidence for the transitive form _&ast;raqa-ŋi_ above comes from the Bugotu, La
 
 The following set focuses on effects of the sun’s heat as opposed to its light, and extends to heat from fire.
 
-<table>
+<table id="2-6-3-None-163-POc-rara-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1076,7 +1076,7 @@ The following set focuses on effects of the sun’s heat as opposed to its light
 
 Yet another contender for the POc term for sun is _&ast;sinaR_, which Blust (1998) glosses as ‘shine’. While some reflexes from across Oceania support ‘shine’, others lean towards the meaning ‘sun’. This may, however, be the result of independent parallel development.
 
-<table>
+<table id="2-6-3-None-163-POc-sinar-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -1198,7 +1198,7 @@ Yet another contender for the POc term for sun is _&ast;sinaR_, which Blust (199
 
 Building on its ‘shine’ meaning, POc _&ast;sinaR_ has given rise to a number of Polynesian terms which, with the addition of _mā-_, a stativising prefix, refer to the moon:
 
-<table>
+<table id="2-6-3-None-164-PPn-masina-a">
 <tr>
 <td><strong>PPn</strong></td><td> </td>
 <td>
@@ -1249,7 +1249,7 @@ Building on its ‘shine’ meaning, POc _&ast;sinaR_ has given rise to a number
 
 The moon is of little value as a navigational aid. Its typical role is as a marker of periods of time. Reflexes of POc _&ast;pulan_ ‘moon’ are widespread throughout the Admiralties, the Western Oceanic region, Southeast Solomons, Vanuatu and Fiji.
 
-<table>
+<table id="2-6-4-None-164-POc-pulan-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -1381,7 +1381,7 @@ The moon is of little value as a navigational aid. Its typical role is as a mark
 
 In Polynesia &ast;pulan is reflected as a verb, PPn _&ast;pula_ ‘to glow’ (with PPn _&ast;p_ instead of expected _&ast;f_), and the moon is referred to by reflexes of PEOc _&ast;ma[d]rama_.
 
-<table>
+<table id="2-6-4-None-165-PEOc-madrama-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td>
@@ -1453,7 +1453,7 @@ It has already been pointed out that the northern hemisphere sky differs from th
 ### 5.1. Star (generic)
 
 
-<table>
+<table id="2-6-5-1-166-POc-pituqun-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -1598,7 +1598,7 @@ The planets ‘wander’ in their movements and are of little use as guiding sta
 
 <a id="p-167"></a>
 
-<table>
+<table id="2-6-5-2-167-POc-madala-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -1684,7 +1684,7 @@ As in English, Venus often appears to have separate identities as Morning and Ev
 
 Morning Star: (i) compounds from ‘star’ + ‘daytime’
 
-<table>
+<table id="2-6-5-2-167-PPn-fetuquqaho-a">
 <tr>
 <td><strong>PPn</strong></td><td> </td>
 <td>
@@ -1730,7 +1730,7 @@ Morning Star: (i) compounds from ‘star’ + ‘daytime’
 
 
 
-<table>
+<table id="2-6-5-2-167-PMic-fiturani-a">
 <tr>
 <td><strong>PMic</strong></td><td> </td>
 <td>
@@ -1767,7 +1767,7 @@ Morning Star: (i) compounds from ‘star’ + ‘daytime’
 
 (ii) other compounds
 
-<table>
+<table id="2-6-5-2-167-nng-gedaged-boitinan">
 <tr>
 <td>NNG</td>
 <td>Gedaged</td>
@@ -1796,7 +1796,7 @@ Morning Star: (i) compounds from ‘star’ + ‘daytime’
 
 Evening Star (various compounds):
 
-<table>
+<table id="2-6-5-2-168-mm-roviana-govetepisi">
 <tr>
 <td>MM</td>
 <td>Roviana</td>
@@ -1845,7 +1845,7 @@ Evening Star (various compounds):
 
 One of the few constellations that I have been able to identify and trace back to POc is _&ast;manuk_, literally ‘bird’ (_manu_ in Pn), referred to by Lewis, Gladwin and others as ‘Big Bird’ or ‘Giant Bird’. Most of the stars which fall within the Western constellations of Orion and Canis Major would also be included within the larger Manuk constellation. [Lewis](../references.md#source-Lewis1978) ([1978](../references.md#source-Lewis1978):11) writes of following ‘the guiding star Betelgeuse in Orion, the northern wingtip of the Polynesian constellation Giant Bird, whose head is Sirius and whose nether wingtip Canopus.’ In his dictionary Firth describes Rigel, on Orion’s knee, as a central star of Manuk. Although Lewis and Firth refer to Betelgeuse as indicating Manuk’s northern wingtip, [Feinberg](../references.md#source-Feinberg1988) ([1988](../references.md#source-Feinberg1988):104) and [Thomas](../references.md#source-Thomas1987) ([1987](../references.md#source-Thomas1987):240) both mark it, from the point of view of Anuta and Satawal respectively, with Procyon. Both are feasible. Feinberg also notes (p.110) that on Nukumanu the Long Wing corresponds with Canopus but the Short Wing is marked by a star probably Monocerus.[^14]
 
-<table>
+<table id="2-6-5-2-168-POc-manuk-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -1916,7 +1916,7 @@ We also have various references to particular stars as Manuk’s head, Manuk’s
 
 <a id="p-169"></a>
 
-<table>
+<table id="2-6-5-2-169-adm-ninigo-manifono">
 <tr>
 <td>Adm</td>
 <td>Seimat</td>
@@ -1993,7 +1993,7 @@ We also have various references to particular stars as Manuk’s head, Manuk’s
 
 Procyon (or Betelgeuse) and Canopus are widely referred to as the north wing and south/east wing respectively in Micronesian Satawalese, where reference to Manuk is included, and in the Polynesian Outliers of Anuta, Tikopia and Pileni, where the Manuk reference has been dropped.[^15]
 
-<table>
+<table id="2-6-5-2-169-mic-satawalese-painemanemefu">
 <tr>
 <td>Mic</td>
 <td>Satawalese</td>
@@ -2058,7 +2058,7 @@ Individual stars within a constellation are frequently named because of their si
 
 <a id="p-170"></a>
 
-<table>
+<table id="2-6-5-2-170-PPn-takulua-a">
 <tr>
 <td><strong>PPn</strong></td><td> </td>
 <td>
@@ -2111,7 +2111,7 @@ In Hawaii, Sirius is also known as _hōkū-hoʔokele-waʔa_, literally ‘canoe-
 
 We have another PPn reconstruction whose reference is apparently to a star or stars within the constellation of Orion.
 
-<table>
+<table id="2-6-5-2-170-PPn-takelo-a">
 <tr>
 <td><strong>PPn</strong></td><td> </td>
 <td>
@@ -2171,7 +2171,7 @@ The Pleiades, or Seven Sisters, are a group of stars of moderate brightness whic
 
 Blust has reconstructed PMP _&ast;buluq_, POc _&ast;puluq_ ‘a constellation, the Pleiades’ with a single WMP reflex (from Sundanese) in addition to the Oceanic reflexes below. Many Polynesian languages use reflexes of PPn _&ast;mataliki_.
 
-<table>
+<table id="2-6-5-2-171-POc-buluq-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -2240,7 +2240,7 @@ In Polynesia and Micronesia a different term, translatable literally as ‘small
 
 <a id="p-172"></a>
 
-<table>
+<table id="2-6-5-2-172-PEOc-mataliki-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td>
@@ -2342,7 +2342,7 @@ Blust, in his Austronesian Comparative Dictionary, lists a number of Western Mal
 
 Although the Southern Cross is typically associated with the southern hemisphere, it is visible in the lower latitudes of the northern hemisphere, and is a significant navigational constellation for Micronesia. Specific terms indicate whether it is seen as upright, on either diagonal or lying horizontally on either side ([Lewis 1994](../references.md#source-Lewis1994):103–106). A PEOc reconstruction is proposed. The Hawaiian term, _newe_, may be a borrowing from the upright position Carolinian form (see below).
 
-<table>
+<table id="2-6-5-2-173-PEOc-bubu-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td>
@@ -2402,7 +2402,7 @@ Although the Southern Cross is typically associated with the southern hemisphere
 
 Other terms are descriptive, with the net metaphor and the cross shape or crucifix recurring.
 
-<table>
+<table id="2-6-5-2-173-ses-saa-ape">
 <tr>
 <td>SES</td>
 <td>Sa'a</td>
@@ -2473,7 +2473,7 @@ Other terms are descriptive, with the net metaphor and the cross shape or crucif
 
 The Pointers, Alpha and Beta Centauri, are widely referred to by compounds translatable as the ‘two men’. The Sa’a form is derived from POc _&ast;mwaqane_ ‘man, male’, while the Polynesian examples are reflexes of POc _&ast;tamwataq_ ‘living person’.
 
-<table>
+<table id="2-6-5-2-173-ses-saa-romane">
 <tr>
 <td>SES</td>
 <td>Sa'a</td>
@@ -2521,7 +2521,7 @@ The Pointers, Alpha and Beta Centauri, are widely referred to by compounds trans
 
 No cognates are evident for the constellation, but there are semantically parallel forms in Sa’a, Lau and two Polynesian languages which all name the constellation with the local word for tongs. This may simply reflect independent recognition of a common household utensil shape.
 
-<table>
+<table id="2-6-5-2-174-ses-saa-ireki">
 <tr>
 <td>SES</td>
 <td>Sa'a</td>
@@ -2557,7 +2557,7 @@ In Fiji the constellation is known as _laða_, literally ‘a sail’.
 
 There is a possible PEOc reconstruction for Aldebaran, the single brightest star of the group. The long vowel indicates a possible _&ast;u(C)u_ sequence.
 
-<table>
+<table id="2-6-5-2-174-PEOc-ucunu-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td>
@@ -2613,7 +2613,7 @@ There is a possible PEOc reconstruction for Aldebaran, the single brightest star
 
 Other names located for Aldebaran include:
 
-<table>
+<table id="2-6-5-2-174-mic-kiribati-tebotonaiai">
 <tr>
 <td>Mic</td>
 <td>Kiribatese</td>
@@ -2653,7 +2653,7 @@ Other names located for Aldebaran include:
 
 Polaris marks the centre of the North Celestial Pole. From the viewpoint of a stationary observer it never moves. It is also a good indicator of how far north of the Equator you happen to be. In Western terminology, if Polaris is 15° above the horizon, then your location will be at 15°N latitude. It disappears below the horizon as you move south across the Equator. It is valued by Micronesian sailors because it is always there unless obscured by cloud, and, being close to the horizon, it provides a good bearing ([Gladwin 1970](../references.md#source-Gladwin1970):148). The following compounds have been collected. Again we find semantic parallels even when the forms are not cognate.
 
-<table>
+<table id="2-6-5-2-175-PChk-fitumakut-a">
 <tr>
 <td><strong>PChk</strong></td><td> </td>
 <td>
@@ -2701,7 +2701,7 @@ Polaris marks the centre of the North Celestial Pole. From the viewpoint of a st
 
 The only cognate set located is from Micronesia. References may be at times to the constellation of Aquila rather than its most prominent star, Altair. The five Chuukic languages reflect ‘PEOc/PMic _&ast;maRi_/_&ast;mai_ ‘breadfruit’ while the Marshallese term, although formally similar, reflects POc _&ast;mata_ ‘eye’.
 
-<table>
+<table id="2-6-5-2-175-PChk-mailapa-a">
 <tr>
 <td><strong>PChk</strong></td><td> </td>
 <td>
@@ -2760,7 +2760,7 @@ The Maori name for Altair is _poutu-te-raŋi_ ‘pillar of heaven’, a referenc
 
 Antares, in the western constellation of Scorpio, ranks with the Pleiades as the most important of the calendar stars throughout the whole Pacific area ([Makemson 1941](../references.md#source-Makemson1941):98). I have located cognate sets from both Micronesia and Polynesia, terms from the latter referring at times to Venus.
 
-<table>
+<table id="2-6-5-2-176-PMic-dzumuri-a">
 <tr>
 <td><strong>PMic</strong></td><td> </td>
 <td>
@@ -2828,7 +2828,7 @@ Antares, in the western constellation of Scorpio, ranks with the Pleiades as the
 
 
 
-<table>
+<table id="2-6-5-2-176-PCEPn-refua-a">
 <tr>
 <td><strong>PCEPn</strong></td><td> </td>
 <td>
@@ -2870,7 +2870,7 @@ Antares, in the western constellation of Scorpio, ranks with the Pleiades as the
 
 
 
-<table>
+<table id="2-6-5-2-176-PNPn-melemele-a">
 <tr>
 <td><strong>PNPn</strong></td><td> </td>
 <td>
@@ -2910,7 +2910,7 @@ The Tahitians called Antares _ana mua_. For them it represented the front pillar
 
 The star names listed from this point onward are reconstructable only for Proto Micronesian or for the lower-order Micronesian interstage of Proto-Chuukic.
 
-<table>
+<table id="2-6-5-2-176-PMic-lakv-a">
 <tr>
 <td><strong>PMic</strong></td><td> </td>
 <td>
@@ -2954,7 +2954,7 @@ The star names listed from this point onward are reconstructable only for Proto 
 
 6.5.2.12 Dolphin constellation (including Cassiopeia)
 
-<table>
+<table id="2-6-5-2-177-PMic-kua-a">
 <tr>
 <td><strong>PMic</strong></td><td> </td>
 <td>
@@ -2997,7 +2997,7 @@ The star names listed from this point onward are reconstructable only for Proto 
 
 
 
-<table>
+<table id="2-6-5-2-177-PChk-ukulik-a">
 <tr>
 <td><strong>PChk</strong></td><td> </td>
 <td>
@@ -3042,7 +3042,7 @@ cf. also:
 
 6.5.2.13 Delphinus
 
-<table>
+<table id="2-6-5-2-177-PMic-tapia-a">
 <tr>
 <td><strong>PMic</strong></td><td> </td>
 <td>
@@ -3082,7 +3082,7 @@ cf. also:
 
 6.5.2.14 Arcturus
 
-<table>
+<table id="2-6-5-2-177-PMic-aremoi-a">
 <tr>
 <td><strong>PMic</strong></td><td> </td>
 <td>
@@ -3139,7 +3139,7 @@ In Tuamotuan and Hawaiian, Arcturus and possibly the whole constellation of Boot
 
 The following star reconstructions are limited to Proto Chuukic, a subgroup of Micronesian.
 
-<table>
+<table id="2-6-5-2-178-PChk-taropolu-a">
 <tr>
 <td><strong>PChk</strong></td><td> </td>
 <td>
@@ -3187,7 +3187,7 @@ The following star reconstructions are limited to Proto Chuukic, a subgroup of M
 
 
 
-<table>
+<table id="2-6-5-2-178-PChk-ici-a">
 <tr>
 <td><strong>PChk</strong></td><td> </td>
 <td>
@@ -3215,7 +3215,7 @@ The following star reconstructions are limited to Proto Chuukic, a subgroup of M
 
 
 
-<table>
+<table id="2-6-5-2-178-PChk-mul-a">
 <tr>
 <td><strong>PChk</strong></td><td> </td>
 <td>
@@ -3248,7 +3248,7 @@ The following star reconstructions are limited to Proto Chuukic, a subgroup of M
 
 
 
-<table>
+<table id="2-6-5-2-178-PChk-caw-a">
 <tr>
 <td><strong>PChk</strong></td><td> </td>
 <td>
@@ -3281,7 +3281,7 @@ The following star reconstructions are limited to Proto Chuukic, a subgroup of M
 
 
 
-<table>
+<table id="2-6-5-2-178-PChk-wuleko-a">
 <tr>
 <td><strong>PChk</strong></td><td> </td>
 <td>
@@ -3309,7 +3309,7 @@ The following star reconstructions are limited to Proto Chuukic, a subgroup of M
 
 
 
-<table>
+<table id="2-6-5-2-178-PChk-tdza-a">
 <tr>
 <td><strong>PChk</strong></td><td> </td>
 <td>
@@ -3354,7 +3354,7 @@ The following star reconstructions are limited to Proto Chuukic, a subgroup of M
 
 I have located terms only within Polynesia and Fiji for the Magellanic Clouds. The reference to _rua_ ‘two’ in Pileni and Manihiki is presumably to the Greater and Lesser Magellanic Clouds, which appear as two distinct nebulae, sometimes distinguished as ‘flying’ or ‘stationary’ respectively.
 
-<table>
+<table id="2-6-5-2-179-PPn-maqafu-a">
 <tr>
 <td><strong>PPn</strong></td><td> </td>
 <td>
@@ -3386,7 +3386,7 @@ I have located terms only within Polynesia and Fiji for the Magellanic Clouds. T
 
 In Samoa, and also Anuta, they could simply be referred to as ‘flying cloud’ and ‘stationary cloud’ ([Makemson 1941](../references.md#source-Makemson1941):187).
 
-<table>
+<table id="2-6-5-2-179-pn-samoan-aoleleaotoa">
 <tr>
 <td>Pn</td>
 <td>Samoan</td>
@@ -3409,7 +3409,7 @@ In Bauan they were _matādravu ni sautū_, literally ‘hearth of peace and plen
 
 [Makemson](../references.md#source-Makemson1941) ([1941](../references.md#source-Makemson1941):183) wrote that Polynesians could tell the time of night by the changing position of the Milky Way. She quotes a Hawaiian expression _huli ke ʔau_, literally ‘[the handle of] the Milky Way has turned’ as equivalent to ‘it is now past midnight’. The following cognate set is from Polynesia.
 
-<table>
+<table id="2-6-5-2-179-PPn-kaniwa-a">
 <tr>
 <td><strong>PPn</strong></td><td> </td>
 <td>
@@ -3471,7 +3471,7 @@ In Gedaged (NNG) the Milky Way is _wat-dadeŋ_ (_wat_ ‘driftwood, flotsam’, 
 
 Lewis records identical advice given to him by a Tongan navigator in 1965, who refers to ‘kaveinga, the star path’ (1978:18). This term has a well-supported PPn antecedent and etymology.
 
-<table>
+<table id="2-6-5-3-180-PPn-kaweia-a">
 <tr>
 <td><strong>PPn</strong></td><td> </td>
 <td>
@@ -3542,7 +3542,7 @@ Stars provide the most accurate bearings when they are low in the sky. Thus navi
 
 POc _&ast;sake_ had as its primary sense ‘rise, go up’. But it also had the sense of ‘ride on something, e.g. a canoe, catch a ride’. Both senses go back to PMP _&ast;sa(ŋ)kay_. POc reflexes can also carry the directional ‘east’.
 
-<table>
+<table id="2-6-5-4-181-POc-sake-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -3682,7 +3682,7 @@ POc _&ast;sake_ had as its primary sense ‘rise, go up’. But it also had the 
 
 The POc term usually contrasted with _&ast;sake_ ‘to go up, upwards’ is _&ast;sipo_ ‘go down, downwards’. Reflexes sometimes refer as well to the directional ‘west’ just as _&ast;sake_ reflexes refer to ‘east’.
 
-<table>
+<table id="2-6-5-4-182-POc-sipo-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>

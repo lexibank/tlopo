@@ -50,7 +50,7 @@ For swidden agriculturalists, land could be classified in one of three ways - as
 ### 3.1. Garden
 
 
-<table>
+<table id="1-5-3-1-117-POc-quma-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -168,7 +168,7 @@ Three MM languages (Bulu, Kia and Roviana) reflect POc _&ast;q<in>uma_ <NOM> + '
 
 <a id="p-118"></a>
 
-<table>
+<table id="1-5-3-1-118-POc-bbakurr-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -224,7 +224,7 @@ Three MM languages (Bulu, Kia and Roviana) reflect POc _&ast;q<in>uma_ <NOM> + '
 ### 3.2. Fallow land
 
 
-<table>
+<table id="1-5-3-2-118-POc-talun-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -292,7 +292,7 @@ Three MM languages (Bulu, Kia and Roviana) reflect POc _&ast;q<in>uma_ <NOM> + '
 ### 3.3. Uncultivated land
 
 
-<table>
+<table id="1-5-3-3-118-POc-qutan-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -389,7 +389,7 @@ The Mussau and Tolo reflexes mean 'garden': this change of meaning is probably d
 
 <a id="p-119"></a>
 
-<table>
+<table id="1-5-3-3-119-PEOc-wao-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td>
@@ -436,7 +436,7 @@ The Mussau and Tolo reflexes mean 'garden': this change of meaning is probably d
 
 The meaning of earth as soil would seem to be the central meaning of POc _&ast;tanoq_ (cf. POc _&ast;panua_ whose extended meanings included (1) inhabited area or territory; (2) community together with its land and things on it; (3) land, not sea; see Ch. 3, §3.7).
 
-<table>
+<table id="1-5-4-None-119-POc-tanoq-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -542,7 +542,7 @@ The form POc _&ast;tano(q)_ given in vol. 1, p.119 has now been revised to _&ast
 
 <a id="p-120"></a>
 
-<table>
+<table id="1-5-4-None-120-POc-paya-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -592,7 +592,7 @@ The form POc _&ast;tano(q)_ given in vol. 1, p.119 has now been revised to _&ast
 
 In some Central Pacific languages, reflexes of _&ast;gʷele_ carry a similar range of meanings.
 
-<table>
+<table id="1-5-4-None-120-PCP-gele-a">
 <tr>
 <td><strong>PCP</strong></td><td> </td>
 <td>
@@ -646,7 +646,7 @@ New gardens are traditionally prepared along the following lines. First, the und
 
 It seems from its reflexes that POc _&ast;quma_ meant 'clear land for a garden' (§3.1). In addition, the following terms are reconstructable.
 
-<table>
+<table id="1-5-5-1-120-POc-topa-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -678,7 +678,7 @@ It seems from its reflexes that POc _&ast;quma_ meant 'clear land for a garden' 
 
 
 
-<table>
+<table id="1-5-5-1-120-POc-salu-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -734,7 +734,7 @@ It seems from its reflexes that POc _&ast;quma_ meant 'clear land for a garden' 
 
 <a id="p-121"></a>
 
-<table>
+<table id="1-5-5-1-121-POc-poki-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -768,7 +768,7 @@ It seems from its reflexes that POc _&ast;quma_ meant 'clear land for a garden' 
 
 
 
-<table>
+<table id="1-5-5-1-121-POc-sani-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -806,7 +806,7 @@ It seems from its reflexes that POc _&ast;quma_ meant 'clear land for a garden' 
 
 
 
-<table>
+<table id="1-5-5-1-121-POc-sara-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -849,7 +849,7 @@ It seems from its reflexes that POc _&ast;quma_ meant 'clear land for a garden' 
 
 
 
-<table>
+<table id="1-5-5-1-121-PWOc-lamo-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
 <td>
@@ -898,7 +898,7 @@ cf. also:
 </table>
 
 
-<table>
+<table id="1-5-5-1-121-PEOc-kokoda-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td>
@@ -943,7 +943,7 @@ cf. also:
 
 The following reconstruction may refer particularly to the action of burning grass, undergrowth and debris. There are other burning terms more general in their application.
 
-<table>
+<table id="1-5-5-2-122-POc-sokot-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -1018,7 +1018,7 @@ Reflexes of POc _&ast;tunu_ 'roast on embers or in fire; burn (grass +); make de
 ### 5.3. Weeding
 
 
-<table>
+<table id="1-5-5-3-122-POc-papo-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -1081,7 +1081,7 @@ Reflexes of POc _&ast;tunu_ 'roast on embers or in fire; burn (grass +); make de
 
 
 
-<table>
+<table id="1-5-5-3-122-POc-rabut-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1127,7 +1127,7 @@ See also POc _&ast;puti-_ 'pick, pluck (feathers), pull out (weeds +)' (Ch. 9, �
 
 Both _&ast;kali_ and _&ast;keli_ are reconstructable for POc, and both apparently refer to digging as a general activity, including planting and digging up (tubers)[^3].
 
-<table>
+<table id="1-5-5-4-123-POc-kali-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -1191,7 +1191,7 @@ Both _&ast;kali_ and _&ast;keli_ are reconstructable for POc, and both apparentl
 
 
 
-<table>
+<table id="1-5-5-4-123-POc-keli-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1370,7 +1370,7 @@ cf. also:
 
 Although pigs usually have an unwanted, destructive effect on gardens, in some areas pigs are allowed to root in ground that has been harvested of its tubers. This contributes to turning over the soil in preparation for a second crop.
 
-<table>
+<table id="1-5-5-4-124-POc-suar-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1451,7 +1451,7 @@ cf. also:
 
 Two kinds of digging stick may be physically differentiated - the longer, heavier version used to break up the surface of the soil, and the smaller dibble used to poke holes in the soil for planting. These are seldom, if ever, differentiated in word lists and it may be that most languages use the same term for both.
 
-<table>
+<table id="1-5-5-5-124-POc-waso-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1517,7 +1517,7 @@ Note also Sengseng (NNG) _e-suk_ 'digging stick' and East Fijian _oukit-a_ (V) '
 
 Great damage can be done to gardens wherever there are bush pigs or wallabies. Although wallabies are not found in the Solomons or places east, wild pigs are found throughout virtually all of Melanesia. In these places, preparation of a garden usually includes construction of a strong fence. In addition to POc _&ast;baRa_ 'fence, wall, enclosure' (see Ch. 3, §3.6), a term which evidently encompasses all kinds of fences and walls, there are several terms which may apply more specifically to garden enclosures made of logs or stakes.
 
-<table>
+<table id="1-5-6-None-125-POc-qarar-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -1580,7 +1580,7 @@ Great damage can be done to gardens wherever there are bush pigs or wallabies. A
 
 Ross Clark (pers.comm.) has pointed out that PPn _&ast;loto-qa_ is reconstructable (where _&ast;-qa_ reflects POc _&ast;qaRa(r)_); this is evidently a fossilised compound, literally 'inside the fence', which in a number of Polynesian languages (Emae, Samoan, Tongan, Tikopia) means 'a garden'.
 
-<table>
+<table id="1-5-6-None-125-POc-kari-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1623,7 +1623,7 @@ Ross Clark (pers.comm.) has pointed out that PPn _&ast;loto-qa_ is reconstructab
 
 
 
-<table>
+<table id="1-5-6-None-125-POc-bayat-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1830,7 +1830,7 @@ No garden is complete or likely to succeed without an abundance of colourful and
 
 Taro is propagated either by replanting the cut-off top of a tuber or by transplanting the suckers that grow around the 'mother' taro. Alternatively, these are simply left in the ground after the mature taro has been harvested. Reconstructed terms for this propagation material may refer to other plants in addition to taro. They are POc _&ast;(s,j)uli(q)_ 'banana or taro sucker, slip, cutting, shoot (i.e. propagation material)'; POc _&ast;wasi_ 'taro stem, used for planting'; POc _&ast;bʷaŋo_ 'taro tops, top shoots of areca nut, coconut' and POc _&ast;up(e,a)_ 'taro seedling'.
 
-<table>
+<table id="1-5-8-1-129-POc-sjuliq-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -1928,7 +1928,7 @@ Taro is propagated either by replanting the cut-off top of a tuber or by transpl
 
 
 
-<table>
+<table id="1-5-8-1-129-POc-wasi-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -1972,7 +1972,7 @@ Taro is propagated either by replanting the cut-off top of a tuber or by transpl
 
 
 
-<table>
+<table id="1-5-8-1-129-POc-bao-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -2009,7 +2009,7 @@ Taro is propagated either by replanting the cut-off top of a tuber or by transpl
 
 <a id="p-130"></a>
 
-<table>
+<table id="1-5-8-1-130-POc-upea-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -2106,7 +2106,7 @@ These four items refer to parts of a plant which are used in its propagation. Ex
 
 One 'cutting' term has been reconstructed which may refer to the severing of anything from its parent body, such as hair or leaves, but whose reflexes in North New Guinea, the Southeast Solomons and Micronesia have also come to apply specifically to the action of cutting off tuber tops.
 
-<table>
+<table id="1-5-8-1-130-POc-koti-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -2169,7 +2169,7 @@ One 'cutting' term has been reconstructed which may refer to the severing of any
 
 Propagation of yams is generally by seed yams, small healthy yams selected from the previous year's crop, or by slices of larger yams. Ross has reconstructed PWOc _&ast;kapul_ 'seed yam'.
 
-<table>
+<table id="1-5-8-1-131-PWOc-kapul-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
 <td>
@@ -2224,7 +2224,7 @@ Propagation of yams is generally by seed yams, small healthy yams selected from 
 
 Ross suggests that this can probably be combined with the cognate set below.
 
-<table>
+<table id="1-5-8-1-131-PNGOc-kkapii-a">
 <tr>
 <td><strong>PNGOc</strong></td><td> </td>
 <td>
@@ -2267,7 +2267,7 @@ Ross suggests that this can probably be combined with the cognate set below.
 
 
 
-<table>
+<table id="1-5-8-1-131-POc-paji-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -2303,7 +2303,7 @@ Ross suggests that this can probably be combined with the cognate set below.
 
 Proto Oceanic _&ast;sopu_ referred to yam planting. This much is clear from the Muyuw and Gela glosses. It is impossible to know from the available reflexes, however, whether the activity referred to was specific or general.
 
-<table>
+<table id="1-5-8-2-131-POc-sopu-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -2360,7 +2360,7 @@ Proto Oceanic _&ast;sopu_ referred to yam planting. This much is clear from the 
 
 <a id="p-132"></a>
 
-<table>
+<table id="1-5-8-2-132-POc-asok-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -2425,7 +2425,7 @@ Proto Oceanic _&ast;sopu_ referred to yam planting. This much is clear from the 
 
 The following verb seems to have resulted from affixing _&ast;pa-_ 'causative' to _&ast;asok_ above.
 
-<table>
+<table id="1-5-8-2-132-PWOc-pasok-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
 <td>
@@ -2485,7 +2485,7 @@ The following verb seems to have resulted from affixing _&ast;pa-_ 'causative' t
 
 Despite the formal resemblance of the following set to the one above, it is probable that they are not historically related.
 
-<table>
+<table id="1-5-8-2-132-PEOc-pasi-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td>
@@ -2535,7 +2535,7 @@ cf. also:
 
 Other terms are reflexes of POc _&ast;(su)suk-i_ 'pierce, sew' (Ch. 9, §4.1):
 
-<table>
+<table id="1-5-8-2-132-ses-arosi-sui">
 <tr>
 <td>SES</td>
 <td>Arosi</td>
@@ -2559,7 +2559,7 @@ Other terms are reflexes of POc _&ast;(su)suk-i_ 'pierce, sew' (Ch. 9, §4.1):
 </tr>
 </table>
 
-<table>
+<table id="1-5-8-2-132-POc-tanum-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -2654,7 +2654,7 @@ cf. also:
 
 The following set suggests related reconstructions for 'mound up (earth) for yams' and 'yam mound'.
 
-<table>
+<table id="1-5-8-3-133-POc-pbukie-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -2726,7 +2726,7 @@ The following set suggests related reconstructions for 'mound up (earth) for yam
 ### 8.4. Sow (seed)
 
 
-<table>
+<table id="1-5-8-4-133-POc-kabur-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -2770,7 +2770,7 @@ Only a single Oceanic reflex has been located for this reconstruction, from the 
 ### 9.1. Sprout, shoot
 
 
-<table>
+<table id="1-5-9-1-134-POc-tupul-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -2799,7 +2799,7 @@ Only a single Oceanic reflex has been located for this reconstruction, from the 
 
 
 
-<table>
+<table id="1-5-9-1-134-POc-polok-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -2832,7 +2832,7 @@ Only a single Oceanic reflex has been located for this reconstruction, from the 
 
 
 
-<table>
+<table id="1-5-9-1-134-PWOc-pusuk-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
 <td>
@@ -2866,7 +2866,7 @@ Only a single Oceanic reflex has been located for this reconstruction, from the 
 ### 9.2. Grow, swell
 
 
-<table>
+<table id="1-5-9-2-134-POc-tubuq-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -2972,7 +2972,7 @@ Chapter 6, §3.9contains two reconstructions, POc _&ast;ma-osak_ 'ready to be ea
 
 Although any plant may become dry and droop through lack of water, it is a feature of yam vines that the leaves turn yellow and drop off when the tubers are ready to harvest.
 
-<table>
+<table id="1-5-9-4-135-POc-marao-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -3020,7 +3020,7 @@ Although any plant may become dry and droop through lack of water, it is a featu
 
 
 
-<table>
+<table id="1-5-9-4-135-POc-malai-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -3058,7 +3058,7 @@ cf. also:
 </table>
 
 
-<table>
+<table id="1-5-9-4-135-PEOc-palo-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td>
@@ -3093,7 +3093,7 @@ cf. also:
 
 We have not identified a reconstruction specifically for the digging up of tubers, either with or without the use of a digging stick, although _&ast;kali_/_&ast;keli_ (§5 ,4) is apparently a general term whose meaning includes this activity. It is possible that terms included under the heading 'weeding' were sometimes used to refer to pulling any plant out of the soil. Ann Chowning (pers.comm.) points out that, density of soil permitting, taro is often harvested by being pulled out directly by its thick stem, whereas yams have to be dug up. The reconstructions below relate to the gathering of fruit and nuts and sometimes leaves. They carry distinctions made on the basis of whether the item is plucked by hand, or with the aid of a stick or hook.
 
-<table>
+<table id="1-5-10-None-136-POc-kawit-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
@@ -3177,7 +3177,7 @@ The set above bears a formal and semantic resemblance to PMP/POc _&ast;kawil_ 'h
 
 The following sets, all relating to plucking by hand, have formal similarities, and it is sometimes hard to know which cognate set a given reflex belongs to. For discussion of the first three items below, see Ch. 9, §6.1.
 
-<table>
+<table id="1-5-10-None-136-POc-puput-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
@@ -3252,7 +3252,7 @@ The following sets, all relating to plucking by hand, have formal similarities, 
 
 <a id="p-137"></a>
 
-<table>
+<table id="1-5-10-None-137-POc-saput-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -3320,7 +3320,7 @@ cf. also:
 </table>
 
 
-<table>
+<table id="1-5-10-None-137-POc-taput-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -3369,7 +3369,7 @@ cf. also:
 
 
 
-<table>
+<table id="1-5-10-None-137-POc-sapaki-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -3398,7 +3398,7 @@ cf. also:
 
 
 
-<table>
+<table id="1-5-10-None-137-PEOc-sapi-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td>
@@ -3441,7 +3441,7 @@ cf. also:
 
 
 
-<table>
+<table id="1-5-10-None-137-PCP-paki-a">
 <tr>
 <td><strong>PCP</strong></td><td> </td>
 <td>
@@ -3501,7 +3501,7 @@ cf. also:
 
 <a id="p-138"></a>
 
-<table>
+<table id="1-5-10-None-138-POc-pari-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
@@ -3574,7 +3574,7 @@ The question to be resolved is whether the early Oceanic gardeners were familiar
 
 Working from our own linguistic sources, which include possibly more data from Western Oceanic languages than were available to Kirch and Lepofsky, we have not been able to add a single cognate set to those already listed by the latter.[^9] No reconstructions have been possible for such concepts as ditch or water channel or irrigated garden. A single reconstruction is possible to PCP level.
 
-<table>
+<table id="1-5-12-None-139-PCP-vusi-a">
 <tr>
 <td><strong>PCP</strong></td><td> </td>
 <td>
@@ -3611,7 +3611,7 @@ FIXME: In vol. 1, p.139 the form PCP _&ast;pusi_ was erroneously given for _&ast
 
 A second reconstruction is open to conjecture. Both Spriggs and Kirch and Lepofsky drew attention to the Hawaiian and Rapa (Austral Islands) terms for a pondfield, _loʔi_ and _roki_. We have a tentative reconstruction POc _&ast;logi_ meaning something like 'partition, partitioned area' with a reflex from Hote in the Huon Gulf (NNG), _lok_ '(garden) fence; wall of house' (Ch. 3, §3 .S).
 
-<table>
+<table id="1-5-12-None-139-POc-logi-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>

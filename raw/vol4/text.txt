@@ -344,7 +344,7 @@ was spoken where, remain in certain cases somewhat controversial, it is impossib
 to proceed without making some assumptions about these matters. Figures 1.1 and 1.2 are
 approximate renderings of our subgrouping assumptions. The upper part of the tree, shown in
 Figure 1.1, is due to Blust, originally presented in Blust (1977b) and repeated with additional
-supporting evidence in subsequent publications (1978, 1982, 1983-84, 1993, 2009).[4][5] The diagram
+supporting evidence in subsequent publications (1978, 1982, 1983-84, 1993, 2009a).[4][5] The diagram
 of the lower (Oceanic) part of the tree in Figure 1.2 shows nine primary subgroups of
 Oceanic. Its rake-like structure indicates that no convincing body of shared innovations has
 been found to allow any of the nine subgroups to be combined into higher-order groupings.
@@ -366,7 +366,7 @@ protolanguage, or, in italics, a group of languages.
 
 [4] For critical overviews of the literature on Austronesian subgrouping, see Ross (1995b), Adelaar (2005) and
  Blust (2009a). The CEMP and Central Malayo-Polynesian linkages, and also PEMP, have been called into
- question recently, but these issues lie beyond our present scope (Blust 20096, Donohue & Grimes 2008, Ross
+ question recently, but these issues lie beyond our present scope (Blust 2009b, Donohue & Grimes 2008, Ross
  20086).
 
 [5] The two very closely related languages Mussau and Tench form a minor exception.
@@ -9939,7 +9939,7 @@ and the Admiralties were still separated from the New Guinea mainland and each o
 220    Meredith Osmond and Andrew Pawley
 
 
-    Robert Blust (1982, 2002, 2009) has demonstrated the relevance of the Wallace Line to
+    Robert Blust (1982, 2002, 2009a) has demonstrated the relevance of the Wallace Line to
 the subgrouping of Austronesian languages. In the most generally accepted subgrouping of
 Austronesian languages, all the Austronesian languages of New Guinea fall into a lower order
 group, namely Eastern Malayo-Polynesian. Blust writes
@@ -9955,7 +9955,7 @@ group, namely Eastern Malayo-Polynesian. Blust writes
 |       could not have been present in PAN or PMP.
 |       … it is simplest to attribute these innovations to a single speech community that was
 |       ancestral to the [Central Malayo-Polynesian, South Halmahera-West New Guinea and
-|       Oceanic] languages (2009:715-716).
+|       Oceanic] languages (2009a: 715-716).
 
 Further significant zoogeographical boundaries occur within Oceania. As one travels from
 the New Guinea mainland to the Bismarck Archipelago, then east down the main Solomons
