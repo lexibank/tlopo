@@ -9109,12 +9109,12 @@ the following:
 200   Andrew Pawley
 
 <
-POc *nusa (doublet *nus) ‘small reef squid (_Loligo spp._) and smaller cuttlefish (_Sepia spp._)’
+POc *nusa (doublet _*nus_) ‘small reef squid (_Loligo spp._) and smaller cuttlefish (_Sepia spp._)’
    Adm:    Mussau       nusa           ‘small squid’
    NNG:    Bariai       gusa           ‘squid’
    NNG:    Gedaged      nui            ‘squid’
    NNG:    Manam        nuri           ‘squid’
-   PT:     Motu         nuse           ‘small octopus’ (-5- irregular)
+   PT:     Motu         nuse           ‘small octopus’ (_-s-_ irregular)
    MM:     Nakanai      luso           ‘cuttlefish’
    MM:     Bulu         guta           ‘squid’
    MM:     Maringe      nuho           ‘cuttlefish’
@@ -9124,7 +9124,7 @@ POc *nusa (doublet *nus) ‘small reef squid (_Loligo spp._) and smaller cuttlef
    SES:    Lau          nuto           ‘squid’
    SV:     Anejom       niθ            ‘generic for squids’
    NCal:   Fwai         nit            ‘squid’
-   Mic:    Puluwatese   ŋiit           ‘cuttlefish’ (ŋ for *n irregular)
+   Mic:    Puluwatese   ŋiit           ‘cuttlefish’ (_ŋ_ for _*n_ irregular)
 cf. also
    MM:     Tolai        (mara)nua      ‘octopus sp.’
 >
@@ -9150,7 +9150,7 @@ in WOc and in SES.
 <
 POc *mʷanagi, *mʷamʷagi ‘larger cuttlefish, _Sepia sp._ or spp.’
   Adm:     Lenkau        moman          ‘cuttlefish’
-  Adm:     Penchal       mʷamwak        ‘large red squid’
+  Adm:     Penchal       mʷamʷak        ‘large red squid’
   Adm:     Titan         mʷuamʷak       ‘cuttlefish’
   NNG:     Lamogai-Rauto wonek          ‘squid’
   NNG:     Akolet        e-vuñek        ‘squid’
@@ -9201,9 +9201,9 @@ PPn *kawe ‘tentacle of a cephalopod’ (pollex)
 >
 
 <
-POc *mata ‘the operculum or trapdoor of certain gastropod spp.’ (cf. POc *mata ‘eye, opening, most important part or focal point of a thing’)
+POc *mata ‘the operculum or trapdoor of certain gastropod spp.’ (cf. POc _*mata_ ‘eye, opening, most important part or focal point of a thing’)
   NNG: Gedaged           mala(n)               ‘operculum’
-  MM: Tolai              niata                 ‘operculum ’
+  MM: Tolai              mata                 ‘operculum ’
   MM: Poe                |(mangasi) mata(na)|  ‘operculum of turban shell’
   SES: Lau               mā                    ‘operculum of a univalve’
   NCV: Port Sandwich     mara(n)               ‘operculum’
@@ -9724,7 +9724,7 @@ occurs in a Santa Isabel language, Maringe: _na-udu_, where _na-_ reflects the P
 noun marker _*na_. The Maringe form may be a borrowing from a neighbouring SES language
 but it is noteworthy that its first vowel agrees with NCV rather than SES witnesses.
 
-__pre__
+__formgroup__
   MM: Maringe        na-udu         ‘Leodis viridis, palolo worm’
 
 <
@@ -9813,8 +9813,9 @@ these intermediates.
 
 214   Andrew Pawley
 
-__pre__
- Table 4.2   Terms for aquatic invertebrate groups known for Wayan and Proto Oceanic
+: Table 4.2   Terms for aquatic invertebrate groups known for Wayan and Proto Oceanic
+
+__table__
                                                      Wayan   POc
                         Crustaceans
                         lobsters                         3     1
@@ -10109,7 +10110,7 @@ cf. also:
   NNG:    Matukar     maku(sik)    ‘wallaby’ (-sik perhaps from POc _*siki_ ‘small’)
   NNG:    Kairiru     meik         ‘wallaby’
   NNG:    Ali         meik         ‘wallaby’
-  PT:     Kuni        man          ‘wallaby, _M. agilis_’
+  PT:     Kuni        mau          ‘wallaby, _M. agilis_’
 >
 
                                                             Mammals, reptiles, amphibians   223
@@ -10208,7 +10209,7 @@ POc *(k,kʷ)adroRa ‘phalanger, cuscus’ (Ross 1988: *kadroRa)
     The following Southeast Solomonic terms reflect _*kadora_, with _-r-_ for expected _-l-_. This
 is consistent with borrowing from Meso-Melanesian neighbours in the western Solomons.
 
-__pre__
+__formgroup__
       SES:    Gela         kadora      ‘cuscus’
       SES:    W G’canal    kadora      ‘cuscus’
       SES:    Talise       kadora      ‘cuscus’
@@ -10317,11 +10318,11 @@ POc *mʷajar ‘bandicoot’
 
 The following are probably borrowed from a pre-Oceanic or early Oceanic language (Ross 1988:21):
 
-__pre__
+__formgroup__
   NNG: Megiar       madar        ‘bandicoot’
   NNG: Takia        madar        ‘bandicoot’
   NNG: Yabem        mojaŋ        ‘marsupial rat, cuscus, possum, tree kangaroo’
-  NNG: MaposBuang   masaŋ        ‘possum, _Pseudocheirus corinnae_, yellow-green ring-tailed possum’
+  NNG: Mapos Buang   masaŋ        ‘possum, _Pseudocheirus corinnae_, yellow-green ring-tailed possum’
 
                                                        Mammals, reptiles, amphibians       229
 
@@ -10378,7 +10379,7 @@ present in Remote Oceania before the advent of humans.
 
 230   Meredith Osmond and Andrew Pawley
 
-                                 Figure 5.5   _Rattus exulans_, rat
+Figure 5.5   _Rattus exulans_, rat
 
 
     Five commensal rat species have been introduced to Oceania: Rattus rattus, _R. exulans_,
@@ -10570,12 +10571,12 @@ Milne Bay terms are from unpublished wordlists recorded by Pawley (1969).
 
                    Figure 5.6   Dobsonia moluccensis, greater bare-backed bat
 
-__pre__
-   PT:     Oyaoya         gimau
-   PT:     Logea          gimʷau
-   PT:     Tubetube       gimʷau
-   PT:     Saliba         yimʷau
-   PT:     Gilagila       gibʷau
+__formgroup__
+   PT:     Oyaoya         gimau   ‘rat’
+   PT:     Logea          gimʷau  ‘rat’
+   PT:     Tubetube       gimʷau  ‘rat’
+   PT:     Saliba         ɣimʷau  ‘rat’
+   PT:     Gilagila       gibʷau  ‘rat’
 
    The following reconstruction is attributable to Proto Western Oceanic on the basis of
 cognates in North New Guinea, New Ireland and NW Solomonic.
@@ -11001,16 +11002,16 @@ Polynesian sources. A sample of such borrowed forms, all glossed ‘dog’, is l
 Although a term from Mota is included, Codrington and Palmer note in their 1896 dictionary
 that there were no dogs on Banks Islands at first contact.
 
-__pre__
-    NCV:    Mota        kurut
-    NCV:    Paamese     hul
-    NCV:    Lewo        kuli
-    NCV:    Raga        vʷiriu
-    SV:     Anejom      kuri
-    SV:     Lenakel     kuri
-    Mic:    Kiribati    kiri
-    Mic:    Marshallese kiṛiw
-    Mic:    Ponapean    kiti
+__formgroup__
+    NCV:    Mota        kurut  ‘dog’
+    NCV:    Paamese     hul    ‘dog’
+    NCV:    Lewo        kuli   ‘dog’
+    NCV:    Raga        vʷiriu ‘dog’
+    SV:     Anejom      kuri   ‘dog’
+    SV:     Lenakel     kuri   ‘dog’
+    Mic:    Kiribati    kiri   ‘dog’
+    Mic:    Marshallese kiṛiw  ‘dog’
+    Mic:    Ponapean    kiti   ‘dog’
 
                                                       Mammals, reptiles, amphibians      243
 
@@ -11073,7 +11074,7 @@ cf. also:
 
 244   Meredith Osmond and Andrew Pawley
 
-                         Figure 5.7   Stenella longirostris, spinner dolphin
+Figure 5.7   Stenella longirostris, spinner dolphin
 
    PPn *taf(o, u)raqa ‘whale’ is well attested. Possible cognates occur in several non-Polynesian
 languages of central and southern Vanuatu, but these forms are probably borrowings from the
@@ -11216,7 +11217,7 @@ POc *ruyuŋ ‘dugong’
   PT:    Magori        rui
   MM:    Bulu          rui
   MM:    Tiang         iuŋ
-  MM:    Marovo        rumu    (-m- for †-ŋ-)
+  MM:    Marovo        rumu    (_-m-_ for †_-ŋ-_)
 cf. also:
   NNG:   Kaiep         kuoi
   NNG:   Kairiru       qui
@@ -11246,9 +11247,9 @@ four species and some distinguish male and female turtles, as the following exam
 
 248   Meredith Osmond and Andrew Pawley
 
-                       Figure 5.9   Chelonia mydas, green turtle
+Figure 5.9   Chelonia mydas, green turtle
 
-__pre__
+__tablenh__
 NNG: Lukep (Pono) pon                    ‘turtle’
                   olol                   ‘hawksbill turtle’
                   padodo                 ‘green turtle’
@@ -11322,7 +11323,7 @@ POc *poñu ‘turtle (generic)’
   MM:    Marovo        vonu      ‘turtle (generic)’
   MM:    Taiof         fon       ‘turtle’
   MM:    Banoni        ɣom       ‘turtle’
-  MM:    Babatana      vunii     ‘turtle’
+  MM:    Babatana      vunu     ‘turtle’
   MM:    Lungga        voñu      ‘turtle’
   SES:   Bugotu        voñu      ‘turtle’
   SES:   Gela          vonu      ‘turtle (generic) for hawksbill and green turtle’ (Foale)
@@ -11800,12 +11801,12 @@ POc *mʷata ‘snake (generic)’ (Ross 1988)
   SES:  Sa’a        mʷā
   SES:  Arosi       mʷā
   NCV:  Mota        mʷata
-  NCV:  Mwotlap     na-mʷal
+  NCV:  Mwotlap     na-mʷat
   NCV:  S Efate     mʷat
   SV:   Lenakel     mʷati(kalo)  ‘worm’
   Mic:  Kiribati    mʷata        ‘worm’
   Mic:  Woleaian    mʷata        ‘worm’
-  Fij:  Wayan       ŋʷala
+  Fij:  Wayan       ŋʷata
   Fij:  Bauan       ŋata         ‘snake (generic)’
   Pn:   Tongan      ŋata         ‘snake’ (There are no snakes in Tonga, but Tongans know snakes exist in Fiji and Samoa.)
   Pn:   Niuean      ŋata         ‘snake’ (Refers only to land snakes, even though there are none on Niue.)
@@ -11890,10 +11891,9 @@ PPn *takuhali ‘black and white banded sea snake’ (pollex)
     In the Banks languages of northern Vanuatu the sea snake, Laticauda semifasciata, is
 referred to by reflexes of *m wai.
 
-__pre__
-   NCV: Mota             mʷai           ‘sea snake’
-   NCV: Mwotlap          mʷe            ‘sea snake characterised by black and white stripes;
-                                        succubus, female demon, harmful’
+__formgroup__
+   NCV: Mota        mʷai     ‘sea snake’
+   NCV: Mwotlap     mʷe      ‘sea snake characterised by black and white stripes; succubus, female demon, harmful’
 
 
 5.6 Amphibians
@@ -12123,7 +12123,7 @@ PSOc *bati ‘tusk, upper canine tooth’ (John Lynch, pers. comm.)
   SV:  Anejom         ni-pat       ‘tusk, horn, tusked pig’
   Fij: Bauan          bati-na      ‘tooth (generic); tusk’
 cf. also:
-  MM:  Nduke          patu         ‘tooth’ (polite) (reflects *p)
+  MM:  Nduke          patu         ‘tooth’ (polite) (reflects _*p_)
 >
 
 
@@ -12158,7 +12158,7 @@ PNGOc *joŋa ‘(boar’s) tusk’
   PT:  Motu         doa         ‘tusk’
   PT:  Muyuw        dog         ‘tusk, horn’
 cf. also:
-  MM:  Nakanai      logo        ‘tooth, tusk, claw’ (_t-_ for †_s-_)
+  MM:  Nakanai      togo        ‘tooth, tusk, claw’ (_t-_ for †_s-_)
   MM:  Tolai        lokono      ‘tusk, pig with tusks’
 >
 
@@ -12275,7 +12275,7 @@ however, follows the Linnaean classification, and bats will be found in chapter 
 a couple of cross-references below to connect the two.
 
 <
-POc *mamik (1) ‘flying creature’; (2) ‘animal’
+POc *manuk (1) ‘flying creature’; (2) ‘animal’
   Adm:  Lou             mon-mon        ‘bird’
   NNG:  Mangap          man            ‘bird, also includes bats and other flying creatures with bones’
   NNG:  Lukep (Pono)    man            ‘bird (generic)’
@@ -12416,7 +12416,7 @@ POc *ipu ‘hair, feather’
   MM:     Tolai            ivu              ‘body hair, fur, feathers’
   SES:    Tolo             ivu-na           ‘hair, fur, feathers’
   SES:    Kwaio            ifīfu-na         ‘feather, hair’
-  SES:    Sa’a             ihit             ‘hair, feather’
+  SES:    Sa’a             ihu              ‘hair, feather’
 >
 
     Both of the above refer to the overall covering of birds that is analogous to the hair
@@ -12435,15 +12435,15 @@ POc *lawe ‘tail feather, plume’
 
     A number of forms suggested a variant reconstruction *la-lau[1]
 
-__pre__
-    NNG: Manam               la-lau            ‘feather’
-    NNG: Bing                la-lahaw          ‘tail feathers of poultry’
-   MM:     Tangga       o-lo-lo       ‘hair, feathers
-   MM:     Nehan        la-le         ‘feather’
-   SES:    Kwaio        la-la(ŋala)   ‘feather’
-   NCV:    Raga         la-lau        ‘feather’
-   SV:     Anejom       na-lau        ‘feather’
-   Fij:    Wayan        lau-lau       ‘tail’
+__formgroup__
+   NNG: Manam        la-lau        ‘feather’
+   NNG: Bing         la-lahaw      ‘tail feathers of poultry’
+   MM:  Tangga       o-lo-lo       ‘hair, feathers’
+   MM:  Nehan        la-le         ‘feather’
+   SES: Kwaio        la-la(ŋala)   ‘feather’
+   NCV: Raga         la-lau        ‘feather’
+   SV:  Anejom       na-lau        ‘feather’
+   Fij: Wayan        lau-lau       ‘tail’
 
 
 [1] This is distinct from POc *raun ‘leaves, head hair’, reflected in Titan (Adm) laun ‘leaf, hair, feathers’, Bariai
