@@ -15968,7 +15968,7 @@ Proto Remote Oceanic *(b,v)asilo ‘honeyeater’
 >
 
 This set may be related to an innovative generic for ‘bird’ in a number of Central Vanuatu
-languages: Apma b''ihil, N Ambrym p' ehel, Burmbar mbasir, etc.
+languages: Apma _bʷihil_, N Ambrym _pʷehel_, Burmbar _mbasir_, etc.
 
 <
 POc *ioli ‘honeyeater’
@@ -16002,7 +16002,7 @@ POc *pusiRa ‘Starling, _Aplonis sp._’
   MM:    Tolai             vuirə        ‘_Aplonis spp._’
   NCV:   Wusi (Nokovula)   wōhia        ‘New Hebrides Starling, _Aplonis zelandica_’
   Mic:   Ponapean          sie
-  Fij:   Rotuman           husila       ‘Striped Starling, _Aplonis labuensis_’ (*-R- > -l-, rare in Rotuman)
+  Fij:   Rotuman           husila       ‘Striped Starling, _Aplonis labuensis_’ (_*-R-_ > _-l-_, rare in Rotuman)
   Fij:   Bauan             voðia        ‘Fiji Shrikebill, Clytorhynchus vitiensis’
   Fij:   W Viti Levu       voðea        ‘_Aplonis labuensis_’
   Fij:   Lomaiviti         voðea        ‘_Aplonis labuensis_’
@@ -16105,7 +16105,7 @@ of widespread representations of crow vocalizations such as English caw.
 
 <
 POc *(kao)kao ‘crow, _Corvus sp._’ [11]
-     NNG: Yabem            aɔʔo        ‘crow, raven’
+     NNG: Yabem            aɔʔɔ        ‘crow, raven’
      NNG: North Watut      ŋaukŋauk    ‘raven’
      NNG: Mengen (Poeng)   kaokato
      PT:  Dobu             kaokao
@@ -16241,13 +16241,6 @@ Proto Remote Oceanic *ta(i)ko(k) ‘petrel’
 PSV *n-tako-tako(k) ‘petrel’
   SV:   Kwamera     təkurakák     ‘mutton bird (petrel spp.)’
   SV:   Lenakel     təkərka       ‘mutton bird’
->
-
-[12] Tongoa.
-
-                                                                                   Birds    353
-
-<
 PPn *taiko ‘petrel’
   Pn:   Tongan        teiko(o)       ‘Audubon’s Shearwater, Puffmus lherminieri) and Wedge-tailed Shearwater, _P. pacificus_’
   Pn:   Samoan        taʔiʔo         ‘_Puffmus sp._’
@@ -16261,6 +16254,10 @@ PPn *taiko ‘petrel’
 cf. also: The Rotuman form is a loan from Polynesian:
   Fij:  Rotuman       tɔviko         ‘shearwater’ (expected †_fɔiʔo_)
 >
+
+[12] Tongoa.
+
+                                                                                   Birds    353
 
 <
 PPn *lofa ‘petrel or other large sea bird’ (cf. PPn *lofa ‘extended, spread out (as a bird’s wings)’)
@@ -16358,7 +16355,7 @@ PPn *fua(kō) ‘Booby, _Sula sp._’
 
 The following terms for petrels appear to be cognate:
 
-__pre__
+__formgroup__
     Pn:    Tongan [13]  fuakō         ‘Wedge-tailed Shearwater, _Puffinus pacificus_’
     Pn:    Hawaiian     uaʔu          ‘Hawaiian Petrel, _Pterodroma phaeopygia_’
     Pn:    Hawaiian     ʔaʔo          ‘Manx Shearwater, _Puffinus puffinus_’
@@ -16422,10 +16419,10 @@ the previous set. The Nukuoro word is probably borrowed from Micronesia.
 
                                                                                   Birds   357
 
-__pre__
+__formgroup__
    NNG: Mangap      kalau              ‘bird sp.’
-   Mic: Marshallese kalMo              ‘_Sula leucogaster_’
-   Pn:  Nukuoro     kalau              ‘brown booby’
+   Mic: Marshallese kalᶭo              ‘_Sula leucogaster_’
+   Pn:  Nukuoro     kālau              ‘brown booby’
 
    This term is restricted to the central and northern Polynesian Outliers:
 
@@ -16585,7 +16582,7 @@ POc *jipiu ‘wader’
 These Polynesian Outlier names are probably borrowings from Southeast Solomonic and
 Central Vanuatu languages, respectively:
 
-__pre__
+__formgroup__
    Pn:     Rennellese siviu            ‘Great Sand Plover, Charadrius lesehinaultii’
    Pn:     Emae       siviu            ‘large shore bird sp.’
 
@@ -16759,7 +16756,7 @@ cf. also: Probable borrowings from some Micronesian language are:
   Pn:   K’marangi    kaka        ‘Bristle-thighed Curlew, _Numenius lahiliensis_’
 >
 
-    Hote (NNG) kakapyak, glossed as a ‘small black bird like a swallow; doesn’t sit in a tree
+    Hote (NNG) _kakapʸak_, glossed as a ‘small black bird like a swallow; doesn’t sit in a tree
 but on rock; morning and afternoon it catches insects in sky’ is a possible Western Oceanic
 cognate, but its similarity to the items above may be due to chance.
 
@@ -16917,9 +16914,9 @@ PPn *aki-aki ‘White Tern, Gygis alba’ (metathesis)
 form above than to the rest of Polynesian, and are probably borrowed from some North
 Solomons language:
 
-__pre__
-   Pn:    Takuu        kinakina
-   Pn:    Sikaiana     kinakina
+__formgroup__
+   Pn:    Takuu        kinakina ‘White Tern, Gygis alba’
+   Pn:    Sikaiana     kinakina ‘White Tern, Gygis alba’
 
 <
 POc *bʷauro ‘tern’
@@ -16938,7 +16935,7 @@ POc *golo ‘tern’
   MM:   Banoni      (va)ɣora      ‘noddy sp.’
   MM:   Marovo      (va)golo      ‘Greater Crested Tern, Thalassens bergii’
   MM:   Nduke       (va)golo      ‘_Sterna sp._, bergii’
-  MM:   Roviana     |(va) golo|   ‘sea bird, often seen with helekae following shoals of bonito etc.’
+  MM:   Roviana     |(va) golo|   ‘sea bird, often seen with _helekae_ following shoals of bonito etc.’
   MM:   Simbo       (va)golo      ‘sea bird sp.’
   MM:   Kia         (va)ɣolo      ‘Common Tern, _Sterna hirundo_’
   NCV:  Mwotlap     na-tkol       ‘Black-naped Tern, _Sterna sumatrana_) (??)’
@@ -16987,7 +16984,7 @@ PPn *tala ‘tern’
   Pn:  Manihiki     tara          ‘_Sterna fuscata_’
   Pn:  Maori        tara          ‘various tern and gull spp.’
 cf. also: probable Polynesian borrowings:
-  Fij: Rotuman      tala          ‘Thalasseus bergii’ (expected ``fala)
+  Fij: Rotuman      tala          ‘Thalasseus bergii’ (expected †_fala_)
   Mic: Kiribati     tara(ŋoŋo)    ‘_Sterna lunata_’
 >
 
@@ -17029,14 +17026,14 @@ PCP *ŋoŋo ‘Common Noddy, _Anous stolidus_’
  Pn:   Sikaiana        nono
  Pn:   Rennellese      ŋoŋo
  Pn:   Tikopia         ŋoŋo
-cf. also: An irrular change leads to forms reflecting PCEPn *ijoio'.
+cf. also: An irrular change leads to forms reflecting PCEPn _*ŋoio_'.
  Pn:   Hawaiian        noio           ‘White-capped Noddy, _Anous minutus_’
  Pn:   Mangarevan      ŋoio
  Pn:   Tahitian        ʔōio
  Pn:   Rarotongan      ŋōio
 >
 
-   The following term, like *lapiti above, may originally have been a compound of Gala
+   The following term, like _*lapiti_ above, may originally have been a compound of _*tala_
 with an unidentified second element:
 
 <
@@ -17856,14 +17853,14 @@ __formgroup__
    NNG:    Poeng         roro-me      ‘dragonfly’  (_roro_ ‘copulate’, _me_ ‘water’)
    SES:    Gela          hita-hita-beti ‘dragonfly’ (_hito_ ‘to cohabit’, _beti_ ‘water, stream’)
    SES:    Arosi         ʔani-wai      ‘dragonfly’  (_ʔani_ ‘fornicate’, _wai_ ‘water’)
-   Mic:    Chuukese      nifefecon     ‘dragonfly’  (‘the one that copulates with water’; Davis 1999)
+   Mic:    Chuukese      nifēfēcon     ‘dragonfly’  (‘the one that copulates with water’; Davis 1999)
    Fij:    Wayan         dulu-dulu-wai ‘dragonfly’ (_dulu_ ‘copulate’, _wai_ ‘water’)
    Fij:    Bauan         ðai-ðai-wai   ‘dragonfly’  (_ðai_ ‘copulate’, _wai_ ‘water’)
 
    Other compounds retain the water connection, but vary the verbal concept.
 
 __formgroup__
-   PT:  Sudest     wawa-emba    ‘dragonfly’  (wawa ?, mbwa ‘water’)
+   PT:  Sudest     wawa-eᵐba    ‘dragonfly’  (_wawa_ ?, _ᵐbʷa_ ‘water’)
    SES: Gela       gito-beti    ‘dragonfly’  (‘steal water’)
    SES: Tolo       ici-kolo     ‘dragonfly’  (ici ?, kolo ‘water’)
    SES: Lau        nalu-kafo    ‘dragonfly’  (‘scoop up water’)
@@ -18002,7 +17999,7 @@ POc *mañipo ‘k.o. wasp’
   SES: Bugotu      mañivo         ‘wasp’
   SES: Tolo        manivo         ‘wasp’
   SES: Lengo       manivo         ‘wasp’
-  SES: Arosi       ma-mcmiho      ‘hornet’
+  SES: Arosi       ma-maniho      ‘hornet’
 cf. also:
   NNG: Yabem       baniʔ          ‘generic for wasps, hornets’
 >
@@ -18015,7 +18012,7 @@ POc *(n,ñ)i(n,ñ)ipo ‘k.o. wasp’
 cf. also:
    NNG: Manam      niniko        ‘wasp’
 Proto Central Papuan *naniɣo ‘wasp’
-   PT:  Sinaugoro naniɣo         ‘small black and red wasp’
+   PT:  Sinaugoro  naniɣo        ‘small black and red wasp’
    PT:  Motu       naniɣo        ‘k.o. manu manu. hornet’
    PT:  Lala       naniʔo        ‘wasp’
 >
@@ -18120,7 +18117,7 @@ cf. also:
 The next set is possibly a compound form of the above.
 
 <
-PPn *lō-qata ‘large ant’ (PPn *qata ‘image, likeness’)
+PPn *lō-qata ‘large ant’ (PPn _*qata_ ‘image, likeness’)
   Pn:    Tongan        lōʔata      ‘k.o. black ant w painful bite’
   Pn:    Samoan        lōata       ‘k.o. large black ant’
   Pn:    Nanumea       loata       ‘large ant’
@@ -18189,11 +18186,11 @@ __formgroup__
 except Marshallese carry additional unrelated morphemes which cannot be accounted for.
 
 __formgroup__
-  Adm: Loniu         kalo(n)               ‘ant’
+  Adm: Loniu         kalɔ(n)               ‘ant’
   PT:  Saliba        kalakala-pʷasipʷasi   ‘black ants’
   MM:  Teop          ano(hi)               ‘ant’
   SES: ’Are’are      (ta)karo              ‘small black ant’
-  NCV: Nguna         (ma)kdla              ‘red ant’
+  NCV: Nguna         (ma)kāla              ‘red ant’
   Mic: Marshallese   kal(lep)              ‘big black ant’ (_lep_ ‘big’)
 cf. also:
   NNG: Manam         kala(poaki)           ‘k.o. red ant’
@@ -18265,7 +18262,7 @@ stick insects etc.’ Their appeal would no doubt be as a kind of snack food, a 
 variation on their regular diet.
 
 <
-POc *sisi(rR) ‘orthopterous insect’
+POc *sisi(r,R) ‘orthopterous insect’
    NNG:  Mengen (Poeng)   sisi              ‘grasshopper’
    NNG:  Lukep (Pono)     sis               ‘grasshopper’
    NNG:  Kaulong          u-sis             ‘grasshopper’
@@ -18484,7 +18481,7 @@ __formgroup__
    MM:  Nehan        bol-bol      ‘lightning bug, near swamps’
    SES: Gela         |bulu (tora)| ‘firefly; phosphorescent fungus’ (bulu ‘torch, lamp’)[8]
    SES: Sa’a         pulu-pulu    ‘firefly. Regarded as souls of dead persons, and killed when they enter a house’
-   SES: Kwaio        bulu-buhi    ‘star; firefly. Believed (esp. when enters house) to be a messenger from an ancestral spirit.’
+   SES: Kwaio        bulu-bulu    ‘star; firefly. Believed (esp. when enters house) to be a messenger from an ancestral spirit.’
    SES: Arosi        buru-buru    ‘firefly; torch (of gum)’
    SES: Arosi        buburu(atoā) ‘k.o. cricket’ (atod ‘noon’)
    SES: ’Are’are     puru-puru    ‘star; firefly’
@@ -18671,7 +18668,7 @@ POc *qapator ‘sago grub, edible’
   Adm: Lenkau           kehetr          ‘sago grub’
   NNG: Sissano (Arop)   yiat            ‘sago grub’
   NNG: Kove             awatolu         ‘sago grub’
-  NNG: Gedaged          gafat           ‘big grub found in rotten sago logs. Eaten raw or roasted. A great delicacy’ (initial g- unexpected)
+  NNG: Gedaged          gafat           ‘big grub found in rotten sago logs. Eaten raw or roasted. A great delicacy’ (initial _g-_ unexpected)
   PT:  Lala             avako           ‘grub, found in sago palms’
   SES: Gela             vato            ‘k.o. grub, eaten as food on Mala’
   SES: Ghari            vato            ‘white worm in decayed tree’
@@ -18943,7 +18940,7 @@ _*gaga-_ and _*kaka-_ as forms occurring in compounds.
 
 <
 POc *gagao~*(g,k)a(g,k)a- ‘k.o. spider’
-  NNG: Malai        (a)gagan       ‘spider’
+  NNG: Malai        (a)gagau       ‘spider’
   PT:  Molima       gaga(boʔa)     ‘house spider’
   MM:  Teop         kaka(rebasu)   ‘spider’
   MM:  Simbo        ɣaɣa(vere)     ‘spider’
@@ -19169,7 +19166,7 @@ PNGOc *dimʷan ‘k.o. worm’
 >
 
 <
-PPn *kele-mutu ‘earthworm, grub’ (pollex: PPn *kele ‘earth, dirt, soil’)
+PPn *kele-mutu ‘earthworm, grub’ (pollex: PPn _*kele_ ‘earth, dirt, soil’)
   Pn:     Niuean       kele-mutu     ‘worm’
   Pn:     Tongan       kele-mutu     ‘earthworm, grub’
   Pn:     Samoan       ʔele-mutu     ‘grub in rotten wood’
