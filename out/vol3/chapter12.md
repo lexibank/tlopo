@@ -294,111 +294,111 @@ The first three terminologies, for Gumawana, Petats and Arosi, have sets of term
 
 | Gumawana (PT):   | 9 stages                       |
 |:-----------------|:-------------------------------|
-| asipu            | 'very small, not drinkable'    |
-| gavi             | 'a bit bigger, not drinkable'  |
-| mosali           | 'bigger, not drinkable'        |
-| bosibosi         | 'large green, drinkable'       |
-| nakulamata       | 'starts turning brown'         |
-| nugomoyao        | 'brown but has not fallen yet' |
-| nadada           | 'dry and will fall'            |
-| nadaiyada        | 'dry and fallen'               |
-| tabona           | 'sprouted'                     |
+| _asipu_          | 'very small, not drinkable'    |
+| _gavi_           | 'a bit bigger, not drinkable'  |
+| _mosali_         | 'bigger, not drinkable'        |
+| _bosibosi_       | 'large green, drinkable'       |
+| _nakulamata_     | 'starts turning brown'         |
+| _nugomoyao_      | 'brown but has not fallen yet' |
+| _nadada_         | 'dry and will fall'            |
+| _nadaiyada_      | 'dry and fallen'               |
+| _tabona_         | 'sprouted'                     |
 
-| Petats (MM):   | 11 stages ([Blackwood 1935](../references.md#source-Blackwood1935): 310)                                    |
-|:---------------|:-------------------------------------------------------------------|
-| teo            | 'very young nut'                                                   |
-| pesis, peli    | 'young nut before it contains liquid'                              |
-| kakarut        | 'nut containing liquid before flesh appears'                       |
-| irabil         | 'nut with thin flesh layer at the cn~amy stage (drinking coconut)' |
-| kuvo           | 'nut with meat a little firmer, also used for drinking'            |
-| rut            | 'nut containing a little (bitter) liquid and thick flesh'          |
-| laŋ            | 'nut, the flesh of which has hardened (dry cococut)'               |
-| pitor          | 'mature nut, the outer skin of which is not yet dry'               |
-| tunun          | 'nut, the kernel of which has become spongy'                       |
-| tus, alaun     | 'nut which has become dry and fallen to the ground'                |
-| hala           | 'nut which has sprouted'                                           |
+| Petats (MM):    | 11 stages ([Blackwood 1935](../references.md#source-Blackwood1935): 310)                                    |
+|:----------------|:-------------------------------------------------------------------|
+| _teo_           | 'very young nut'                                                   |
+| _pesis_, _peli_ | 'young nut before it contains liquid'                              |
+| _kakarut_       | 'nut containing liquid before flesh appears'                       |
+| _irabil_        | 'nut with thin flesh layer at the cn~amy stage (drinking coconut)' |
+| _kuvo_          | 'nut with meat a little firmer, also used for drinking'            |
+| _rut_           | 'nut containing a little (bitter) liquid and thick flesh'          |
+| _laŋ_           | 'nut, the flesh of which has hardened (dry cococut)'               |
+| _pitor_         | 'mature nut, the outer skin of which is not yet dry'               |
+| _tunun_         | 'nut, the kernel of which has become spongy'                       |
+| _tus_, _alaun_  | 'nut which has become dry and fallen to the ground'                |
+| _hala_          | 'nut which has sprouted'                                           |
 
-| Arosi (SES):   | 12 stages ([Fox 1978](../references.md#source-Fox1978))                                            |
-|:---------------|:----------------------------------------------------------------|
-| ʔoraamai       | 'the first bud of a coconut'                                    |
-| kopu           | 'newly formed fruit'                                            |
-| poku           | 'young nut'                                                     |
-| poru           | 'green nut'                                                     |
-| pʷaruru        | 'young green drinking nut'                                      |
-| ʔobu           | 'drinking nut'                                                  |
-| niu pʷaikari   | 'a nut still containing liquid'                                 |
-| niu kokoru     | 'nut with hard flesh already formed' (lit. 'coconut egg-white') |
-| niu saramarai  | 'dry nut'                                                       |
-| doʔo           | 'ripe, dark nut' (lit. 'black')                                 |
-| niu matere     | 'fallen mature nut'                                             |
-| niu bʷaʔo      | 'very young palm'                                               |
+| Arosi (SES):    | 12 stages ([Fox 1978](../references.md#source-Fox1978))                                            |
+|:----------------|:----------------------------------------------------------------|
+| _ʔoraamai_      | 'the first bud of a coconut'                                    |
+| _kopu_          | 'newly formed fruit'                                            |
+| _poku_          | 'young nut'                                                     |
+| _poru_          | 'green nut'                                                     |
+| _pʷaruru_       | 'young green drinking nut'                                      |
+| _ʔobu_          | 'drinking nut'                                                  |
+| _niu pʷaikari_  | 'a nut still containing liquid'                                 |
+| _niu kokoru_    | 'nut with hard flesh already formed' (lit. 'coconut egg-white') |
+| _niu saramarai_ | 'dry nut'                                                       |
+| _doʔo_          | 'ripe, dark nut' (lit. 'black')                                 |
+| _niu matere_    | 'fallen mature nut'                                             |
+| _niu bʷaʔo_     | 'very young palm'                                               |
 
 
 <a id="p-359"></a>
 
 The order of the Mota items below is that given by [Codrington & Palmer](../references.md#source-CodringtonandPalmer1896) ([1896](../references.md#source-CodringtonandPalmer1896): 84), except that we have added _vara_, not included among their growth stage terms. However, their definitions (scattered under the various entries in the dictionary) suggest that their sequencing may be wrong, as _pulutyar_ and _pepeya_ appear to belong before _vusa maremare_ (see discussion in association with Table 12.1).
 
-| Mota (NCV):   | 14 stages ([Codrington & Palmer 1896](../references.md#source-CodringtonandPalmer1896))                                                     |
-|:--------------|:-----------------------------------------------------------------------------------------|
-| WOVaŋ         | 'bud'                                                                                    |
-| matrnateyapun | 'just set, like the eye of a yapun crab'                                                 |
-| sutarara      | 'shell just formed, liquid not yet drinkable' (sus 'breast', tarara 'never given birth') |
-| mʷalu         | 'young green coconut, liquid not yet drinkable'                                          |
-| yarake pʷarat | lit. 'fat of meat'                                                                       |
-| [vusa] yoryor | 'enough meat to scrape aflter drinking' (yor 'scrape ')                                  |
-| vusa          | 'green coconut for drinking'                                                             |
-| vusa maremare | 'nut with hard flesh' (maremare 'hard')                                                  |
-| vusa sisis    | 'flesh can be scraped with a thumbnail'                                                  |
-| pulut-yar     | 'ripening, flesh sticks to scraper' (lit. 'stick.to scrape')                             |
-| pepeya        | 'outer skin turning yellow' (pepeya 'yellow')                                            |
-| pane uwa      | lit. 'turtle fin' [^6]                                                                    |
-| kor           | 'ready to fall' (kor 'become dry, with heat or time')                                    |
-| vara          | 'a sprouting coconut'                                                                    |
+| Mota (NCV):     | 14 stages ([Codrington & Palmer 1896](../references.md#source-CodringtonandPalmer1896))                                                     |
+|:----------------|:-----------------------------------------------------------------------------------------|
+| _wovaŋ_         | 'bud'                                                                                    |
+| _matmateɣapun_  | 'just set, like the eye of a yapun crab'                                                 |
+| _sutarara_      | 'shell just formed, liquid not yet drinkable' (sus 'breast', tarara 'never given birth') |
+| _mʷalu_         | 'young green coconut, liquid not yet drinkable'                                          |
+| _ɣarake pʷarat_ | lit. 'fat of meat'                                                                       |
+| _[vusa] ɣorɣor_ | 'enough meat to scrape aflter drinking' (yor 'scrape ')                                  |
+| _vusa_          | 'green coconut for drinking'                                                             |
+| _vusa maremare_ | 'nut with hard flesh' (maremare 'hard')                                                  |
+| _vusa sisis_    | 'flesh can be scraped with a thumbnail'                                                  |
+| _pulut-ɣar_     | 'ripening, flesh sticks to scraper' (lit. 'stick.to scrape')                             |
+| _pepeɣa_        | 'outer skin turning yellow' (pepeya 'yellow')                                            |
+| _pane uwa_      | lit. 'turtle fin' [^6]                                                                    |
+| _kor_           | 'ready to fall' (kor 'become dry, with heat or time')                                    |
+| _vara_          | 'a sprouting coconut'                                                                    |
 
 The last three terminologies, Anejom, Wayan Fijian and Tikopia, differ from those above in that they appear to recognise no stages between a newly formed fruit and a drinkable green coconut, a fact that emerges clearly in Table 12.1. Whether these stages are less salient than others for speakers or whether the relevant terms are simply missing from the sources is not clear.
 
 Anejom and Tikopia also recognise respectively three and four stages of sprouted coconut, but it can be argued that these are growth stages of the palm, not of the fruit. The other languages may have corresponding terms that are not listed as coconut growth stages.
 
-| Anejom (SV):          | 11 stages ([Lynch 2001c](../references.md#source-Lynch2001c))                                             |
-|:----------------------|:--------------------------------------------------------------------|
-| nacomʷ                | 'flower'                                                            |
-| nohowa-nhuau          | 'very small coconut' (lit. 'fruit a.boil')                          |
-| inhivañereri          | 'green coconut with very soft flesh'                                |
-| inhivañwou            | 'green coconut with drinkable water'                                |
-| inhivañ               | 'green coconut for drinking'                                        |
-| inhivañyai            | 'green coconut with edible flesh, almost ripe' (lit. 'fruit tree ') |
-| neañ metou            | 'yellowish coconut' (lit. 'coconut ripe ')                          |
-| inhamesei, neañ mesei | 'dry coconut' (lit. 'coconut dry ')                                 |
-| nelaneañ              | 'germinated coconut or its pith'                                    |
-| neañθel               | 'sprouting coconut' (lit. 'coconut grows (v)')                      |
-| nerenren              | 'sprouting coconut, longer sprout than neafiBel'                    |
+| Anejom (SV):              | 11 stages ([Lynch 2001c](../references.md#source-Lynch2001c))                                             |
+|:--------------------------|:--------------------------------------------------------------------|
+| _nacomʷ_                  | 'flower'                                                            |
+| _nohowa-nhuau_            | 'very small coconut' (lit. 'fruit a.boil')                          |
+| _inhivañereri_            | 'green coconut with very soft flesh'                                |
+| _inhivañwou_              | 'green coconut with drinkable water'                                |
+| _inhivañ_                 | 'green coconut for drinking'                                        |
+| _inhivañɣai_              | 'green coconut with edible flesh, almost ripe' (lit. 'fruit tree ') |
+| _neañ metou_              | 'yellowish coconut' (lit. 'coconut ripe ')                          |
+| _inhamesei_, _neañ mesei_ | 'dry coconut' (lit. 'coconut dry ')                                 |
+| _nelaneañ_                | 'germinated coconut or its pith'                                    |
+| _neañθel_                 | 'sprouting coconut' (lit. 'coconut grows (v)')                      |
+| _nerenren_                | 'sprouting coconut, longer sprout than neafiBel'                    |
 
 
 <a id="p-360"></a>
 
 | Wayan Fijian (Fij):   | 7 stages ([Pawley & Sayaba 2003](../references.md#source-PawleyandSayaba2003))                                                                                                                                                                   |
 |:----------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| bu takeri             | 'very small coconut' (lit. 'fruit a.boil')                                                                                                                                                        |
-| sula                  | 'immature stage, before flesh has formed; full of liquid'                                                                                                                                         |
-| bu                    | 'coconut at a stage ideal for drinking and eating; still green but full-sized, flesh well developed and soft'                                                                                     |
-| bu oiOi-vutovuto      | 'stage between bu and drokai' (lit. 'drinking.coconut flesh.removed-flooded', i.e. a bu which still has liquid but the flesh of which is hardening; A. Pawley, pers. comm.)                       |
-| drokai                | 'stage of late maturity; meat is hardening but still good to eat; juice becoming acidic'                                                                                                          |
-| sama                  | 'fully mature, old, a stage when no juice is left inside the nut and the flesh is oily and no longer edible but ready to be dried for copra or to be grated and squeezed to obtain coconut cream' |
-| vara                  | 'ripe coconut, germinating; spongy flesh in kernel of ripe coconut'                                                                                                                               |
+| _bū takeri_           | 'very small coconut' (lit. 'fruit a.boil')                                                                                                                                                        |
+| _sula_                | 'immature stage, before flesh has formed; full of liquid'                                                                                                                                         |
+| _bū_                  | 'coconut at a stage ideal for drinking and eating; still green but full-sized, flesh well developed and soft'                                                                                     |
+| _bū ðiði-vutovuto_    | 'stage between bu and drokai' (lit. 'drinking.coconut flesh.removed-flooded', i.e. a bu which still has liquid but the flesh of which is hardening; A. Pawley, pers. comm.)                       |
+| _drokai_              | 'stage of late maturity; meat is hardening but still good to eat; juice becoming acidic'                                                                                                          |
+| _sama_                | 'fully mature, old, a stage when no juice is left inside the nut and the flesh is oily and no longer edible but ready to be dried for copra or to be grated and squeezed to obtain coconut cream' |
+| _vara_                | 'ripe coconut, germinating; spongy flesh in kernel of ripe coconut'                                                                                                                               |
 
-| Tikopia (Pn):      | 11 stages ([Firth 1985](../references.md#source-Firth1985))                                                                 |
-|:-------------------|:---------------------------------------------------------------------------------------|
-| foi karekare       | 'very young with soft shell' (joi classifier, karekare 'very young plant')             |
-| niu mata kaere     | 'young with soft shell and flesh barely formed' (lit. 'coconut unripe very.young')     |
-| niu mata [laui]    | 'green, with a firm shell and soft flesh' (lit. 'coconut unripe [good]')               |
-| niu motomoto       | 'fully grown with hard flesh'                                                          |
-| niu ŋaruru kiki    | 'the liquid splashes around inside'                                                    |
-| niu matua laui     | 'mature with fully developed flesh' (lit. 'coconut mature good ')                      |
-| niu pakuku         | 'dry, with darkened husk, last edible stage, fit for storage' (lit. 'coconut parched') |
-| niu somo           | 'germinated, beginning 1to sprout' (lit. 'coconut sprouts (v)')                        |
-| niu matatiri       | 'germinated, with a short sprout'                                                      |
-| niu kapakau maroro | 'germinated, with shoots of about 30 em' (lit. 'coconut fins flying.fish ')            |
-| niu raurau         | 'germinated, with shoots of about 50 em' (lit. 'coconut leafy')                        |
+| Tikopia (Pn):        | 11 stages ([Firth 1985](../references.md#source-Firth1985))                                                                 |
+|:---------------------|:---------------------------------------------------------------------------------------|
+| _foi kārekāre_       | 'very young with soft shell' (joi classifier, karekare 'very young plant')             |
+| _niu mata kaere_     | 'young with soft shell and flesh barely formed' (lit. 'coconut unripe very.young')     |
+| _niu mata [laui]_    | 'green, with a firm shell and soft flesh' (lit. 'coconut unripe [good]')               |
+| _niu motomoto_       | 'fully grown with hard flesh'                                                          |
+| _niu ŋaruru kiki_    | 'the liquid splashes around inside'                                                    |
+| _niu matua laui_     | 'mature with fully developed flesh' (lit. 'coconut mature good ')                      |
+| _niu pakuku_         | 'dry, with darkened husk, last edible stage, fit for storage' (lit. 'coconut parched') |
+| _niu somo_           | 'germinated, beginning 1to sprout' (lit. 'coconut sprouts (v)')                        |
+| _niu matatiri_       | 'germinated, with a short sprout'                                                      |
+| _niu kapakau maroro_ | 'germinated, with shoots of about 30 em' (lit. 'coconut fins flying.fish ')            |
+| _niu raurau_         | 'germinated, with shoots of about 50 em' (lit. 'coconut leafy')                        |
 
 Table 12.1 attempts a rough comparison of the seven growth stage terminologies above. A dot indicates that the language has a term corresponding at least roughly to the growth stage to its left. Two or more dots indicate that number of terms which more or less correspond to the growth stage. The problem of Mota is discussed above: if we reordered the terms on the basis of their definitions, the four dots against 'ripe, flesh hardened' would be reduced to two. The multiple entries on the bottom ('sprouted ') line are also touched on above.
 
@@ -431,19 +431,19 @@ This means that stages 2, 6, 9 and 12, shown in bold in Table 12.1 are the effec
 
 <a id="p-362"></a>
 
-| Tongan (Pn):      | 11 stages ([Churchward 1959](../references.md#source-Churchward1959))               |
-|:------------------|:------------------------------------------|
-| po-niu            | 'newly formed coconut'                    |
-| niu ŋono          |                                           |
-| niu mata-gono     |                                           |
-| niu mata-velivali | 'green, unripe'                           |
-| niu mata          | 'green drinking coconut'                  |
-| niu mata-hihiloku |                                           |
-| niumata-motomoto  |                                           |
-| niu motomoto      | 'not quite ripe'                          |
-| niu motuʔu        | 'quite ripe'                              |
-| niu matasili      | 'just beginning to sprout'                |
-| niu ʔuto          | 'with a bigger sprout than niu mata-sili' |
+| Tongan (Pn):        | 11 stages ([Churchward 1959](../references.md#source-Churchward1959))               |
+|:--------------------|:------------------------------------------|
+| _po-niu_            | 'newly formed coconut'                    |
+| _niu ŋono_          |                                           |
+| _niu mata-gono_     |                                           |
+| _niu mata-velivali_ | 'green, unripe'                           |
+| _niu mata_          | 'green drinking coconut'                  |
+| _niu mata-hihiloku_ |                                           |
+| _niumata-motomoto_  |                                           |
+| _niu motomoto_      | 'not quite ripe'                          |
+| _niu motuʔu_        | 'quite ripe'                              |
+| _niu matasili_      | 'just beginning to sprout'                |
+| _niu ʔuto_          | 'with a bigger sprout than niu mata-sili' |
 
 Thus we might expect to be able to reconstruct terms for the four landmark stages. This is broadly true, except that stage 2 terms are hard to reconstruct. Terms between the landmarks tend to involve descriptive modifiers, as seen in the literal translations of a number of Anejom and Tikopia terms, and these are easily replaced over time. A few are metaphorical, like Mota _matmateɣapun_ 'eye of a _ɣapun_ crab' and _pane uwa_ 'turtle fin'. New metaphors or descriptions are readily created by new generations of speakers, and we can be sure of little else than that some POc terms must also have been metaphorical or descriptive.
 
@@ -469,7 +469,7 @@ Two weakly supported etyma, POc _&ast;(q)a-bʷaji_ and PEOc _&ast;kiripʷa_, can
 '<span>coconut growth stage 2: very small newly formed fruit</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Kara (East)</td><td><i>vabos</i></td>
+<td>MM</td><td>Kara (East)</td><td><i>vəbos</i></td>
 <td>
 '<span>undeveloped coconut</span>'</td>
 </tr>
@@ -851,10 +851,11 @@ Other than the items mentioned in the previous paragraph, none of the items belo
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
-<i>&ast;(ma)RaŋaW</i>
+<i>&ast;(ma)Raŋaw</i>
 </td>
 <td>
-'<span>dry</span>' (<span>Blust 1981b</span>)</td>
+'<span>dry</span>' (<a href="../references.md#source-Blust1981b">Blust1981b</a>)
+</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
@@ -1561,7 +1562,7 @@ POc _&ast;suRuq_ appears to have denoted drinkable liquids in general, including
 '<span>coconut water, juice, soup</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>su</i></td>
+<td>Pn</td><td>Samoan</td><td><i>sū</i></td>
 <td>
 '<span>be moist; (taro) be watery</span>'</td>
 </tr>
@@ -1670,7 +1671,7 @@ The best candidate for 'coconut flesh' is POc _&ast;kanoŋ_, a fossilised reflex
 <tr>
 <td>SES</td><td>Arosi</td><td><i>ʔano</i></td>
 <td>
-'<span>bulb, tuber, part oftree below ground</span>'</td>
+'<span>bulb, tuber, part of tree below ground</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>kano</i></td>
@@ -2498,7 +2499,7 @@ The less widely reflected terms PAdm _&ast;puto-_, POc _&ast;pʷiras_ and PWOc _
 '<span>core, especially of coconut</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Titan</td><td><i>suto-n</i></td>
+<td>Adm</td><td>Titan</td><td><i>ʙuto-n</i></td>
 <td>
 '<span>coconut sprout, the soft spongy center of a coconut</span>'</td>
 </tr>
@@ -3004,7 +3005,7 @@ cf. also:
 <i>&ast;[pa]paq[a-]</i>
 </td>
 <td>
-'<span>frond ofapalm</span>' (<span>?</span>) (<a href="../references.md#source-Ross1996d">Ross1996d</a>)
+'<span>frond of a palm</span>' (<span>?</span>) (<a href="../references.md#source-Ross1996d">Ross1996d</a>)
 </td>
 </tr>
 <tr>
@@ -3716,7 +3717,7 @@ Two POc terms are reconstructable. The first, _&ast;kaka_ seems to have denoted 
 '<span>cloth-like material at top of coconut tree</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Pije</td><td><i>ufi</i></td>
+<td>NCal</td><td>Pije</td><td><i>uñ</i></td>
 <td>
 '<span>fibrous spathe of coconut frond; husk of coconut</span>'</td>
 </tr>

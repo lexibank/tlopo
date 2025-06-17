@@ -59,7 +59,7 @@ POc _&ast;ka[(r,l)a]qabusi_ appears to have denoted a taxon including at least A
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td>
-<i>&ast;ka(r,ŋaqabusi</i>
+<i>&ast;ka(r,l)aqabusi</i>
 </td>
 <td>
 '<span>Acalypha sp.</span>'</td>
@@ -510,7 +510,7 @@ PWOc _&ast;jimʷaR_ or _&ast;jimiR_ in all probability denoted the caulking subs
 '<span>caulking material</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Malalamai</td><td><i>simai</i></td>
+<td>NNG</td><td>Malalamai</td><td><i>simaɬ</i></td>
 <td>
 '<span>putty nut, Parinarium laurinum</span>' (<a href="../references.md#source-Lincoln1976">Lincoln1976</a>)
 </td>
@@ -642,12 +642,12 @@ POc _&ast;koka_ probably denoted several Macaranga species. Known reflexes with 
 '<span>Glochidion angulatum</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Hiw</td><td><i>na-ynya</i></td>
+<td>NCV</td><td>Hiw</td><td><i>nə-ɣɒɣə</i></td>
 <td>
 '<span>Macaranga tanarius</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mwotlap</td><td><i>no-yoy</i></td>
+<td>NCV</td><td>Mwotlap</td><td><i>no-ɣoɣ</i></td>
 <td>
 '<span>Macaranga tanarius</span>'</td>
 </tr>
@@ -1759,7 +1759,7 @@ It is probable that the Central Papuan (Taboro, Hula, Motu and Doura) forms in t
 '<span>sword grass, Imperata cylindrica</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kilenge</td><td><i>na-yu</i></td>
+<td>NNG</td><td>Kilenge</td><td><i>na-ɣu</i></td>
 <td>
 '<span>Imperata cylindrica</span>'</td>
 </tr>
@@ -1840,12 +1840,12 @@ Coix lacryma-jobi is a robust tropical grass, 1--1.5 m high, with shiny grains l
 '<span>Coix lacryma-jobi</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>sila</i></td>
+<td>Fij</td><td>Bauan</td><td><i>silā</i></td>
 <td>
 '<span>Coix lacryma-jobi</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>slla</i></td>
+<td>Fij</td><td>Wayan</td><td><i>sīlā</i></td>
 <td>
 '<span>Coix lacryma-jobi</span>'</td>
 </tr>

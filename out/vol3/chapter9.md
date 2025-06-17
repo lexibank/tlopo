@@ -1113,7 +1113,7 @@ A search for languages in which reflexes of _&ast;talo(s)_ and _&ast;mʷapo(q)_ 
 '<span>taro, C. esculenta</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Bing</td><td><i>muaw</i></td>
+<td>NNG</td><td>Bing</td><td><i>muāw</i></td>
 <td>
 '<span>k.o. yam</span>'</td>
 </tr>
@@ -1143,7 +1143,7 @@ A search for languages in which reflexes of _&ast;talo(s)_ and _&ast;mʷapo(q)_ 
 '<span>taro, C. esculenta</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Sinaugoro</td><td><i>mayo</i></td>
+<td>PT</td><td>Sinaugoro</td><td><i>maɣo</i></td>
 <td>
 '<span>yam (generic)</span>'</td>
 </tr>
@@ -1158,7 +1158,7 @@ A search for languages in which reflexes of _&ast;talo(s)_ and _&ast;mʷapo(q)_ 
 '<span>taro (generic); C. esculenta</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Teop</td><td><i>mil</i></td>
+<td>MM</td><td>Teop</td><td><i>mū</i></td>
 <td>
 '<span>taro, C. esculenta</span>'</td>
 </tr>
@@ -1168,7 +1168,7 @@ A search for languages in which reflexes of _&ast;talo(s)_ and _&ast;mʷapo(q)_ 
 '<span>taro, C. esculenta</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Maringe</td><td><i>mhau</i></td>
+<td>MM</td><td>Maringe</td><td><i>mʰau</i></td>
 <td>
 '<span>taro, C. esculenta</span>' (<a href="../references.md#source-HendersonandHancock1988">HendersonandHancock1988</a>)
 </td>
@@ -1184,7 +1184,7 @@ A search for languages in which reflexes of _&ast;talo(s)_ and _&ast;mʷapo(q)_ 
 '<span>taro sp.</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Xârâcùù</td><td><i>mwc</i></td>
+<td>NCal</td><td>Xârâcùù</td><td><i>mʷɛ</i></td>
 <td>
 '<span>taro, C. esculenta</span>'</td>
 </tr>
@@ -1754,7 +1754,7 @@ The POc name for giant taro was _&ast;piRaq_, continuing a PMP etymon. The final
 '<span>Alocasia macrorrhizos</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Big Nambas</td><td><i>ðix</i></td>
+<td>NCV</td><td>Big Nambas</td><td><i>ðᫀix</i></td>
 <td>
 '<span>Alocasia macrorrhizos</span>' (<span>J. Lynch, pers. comm.</span>)</td>
 </tr>
@@ -1930,14 +1930,14 @@ The tuber of Tacca leontopetaloides is bitter and requires considerable processi
 
 Interestingly, almost all the names I have collected for it reflect a reassignment of the name of some other starchy food:
 
-|      |            |          |                                               |
-|:-----|:-----------|:---------|:----------------------------------------------|
-| MM:  | Patpatar   | pulaka   | < &ast;bulaka 'Cyrtosperma merkusii' (§2.2.2)     |
-| MM:  | Tolai      | pulaka   | < &ast;bulaka 'Cyrtosperma merkusii' (§2.2.2)     |
-| TM:  | Aiwoo      | (to)piya | < POc &ast;piRaq 'Alocasia macrorrhizos' (§2.2.3) |
-| Fij: | Bauan      | yabia    | < POc &ast;Rabia 'Metroxylon sagu' (§5.1)         |
-| Pn:  | Pileni     | pia      | < POc &ast;Rabia 'Metroxylon sagu' (§5.1)         |
-| Pn:  | Rarotongan | pia      | < POc &ast;Rabia 'Metroxylon sagu' (§5.1)         |
+|      |            |            |                                               |
+|:-----|:-----------|:-----------|:----------------------------------------------|
+| MM:  | Patpatar   | _pulaka_   | < &ast;bulaka 'Cyrtosperma merkusii' (§2.2.2)     |
+| MM:  | Tolai      | _pulaka_   | < &ast;bulaka 'Cyrtosperma merkusii' (§2.2.2)     |
+| TM:  | Aiwoo      | _(to)piya_ | < POc &ast;piRaq 'Alocasia macrorrhizos' (§2.2.3) |
+| Fij: | Bauan      | _yabia_    | < POc &ast;Rabia 'Metroxylon sagu' (§5.1)         |
+| Pn:  | Pileni     | _pia_      | < POc &ast;Rabia 'Metroxylon sagu' (§5.1)         |
+| Pn:  | Rarotongan | _pia_      | < POc &ast;Rabia 'Metroxylon sagu' (§5.1)         |
 
 
 <a id="p-274"></a>
@@ -2221,12 +2221,12 @@ The likelihood that banana domestication first occurred in New Guinea, and that 
 '<span>banana</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>To'aba'ita</td><td><i>judi</i></td>
+<td>SES</td><td>To'aba'ita</td><td><i>fudi</i></td>
 <td>
 '<span>banana</span>' (<span>archaic</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>judi</i></td>
+<td>SES</td><td>Lau</td><td><i>fudi</i></td>
 <td>
 '<span>banana</span>'</td>
 </tr>
@@ -2501,7 +2501,7 @@ The glosses of the four terms below are vague, both because the glosses of prese
 '<span>k.o. banana</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Budibud</td><td><i>bʷela-mʷeza</i></td>
+<td>PT</td><td>Budibud</td><td><i>bʷela-mʷela</i></td>
 <td>
 '<span>banana</span>'</td>
 </tr>
@@ -2584,7 +2584,7 @@ cf. also:
 <tr>
 <td>NNG</td>
 <td>Mato</td>
-<td><i>bayup</i></td>
+<td><i>baɣup</i></td>
 <td>
 '<span>banana</span>'(<a href="../references.md#source-Stober2005">Stober2005</a>)
 </td>
@@ -2761,12 +2761,12 @@ A fourth term, Proto Remote Oceanic _&ast;maRi_ 'breadfruit', is limited to Sout
 '<span>breadfruit</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Ponam</td><td><i>gut</i></td>
+<td>Adm</td><td>Ponam</td><td><i>gul</i></td>
 <td>
 '<span>breadfruit</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Bilibil</td><td><i>uti</i></td>
+<td>NNG</td><td>Bilibil</td><td><i>uli</i></td>
 <td>
 '<span>breadfruit</span>'</td>
 </tr>
@@ -3641,7 +3641,7 @@ The glosses of many of the terms listed below  refer simply to 'cycad' or 'Cycas
 <tr>
 <td>MM</td><td>Nakanai</td><td><i>patola</i></td>
 <td>
-'<span>cycad</span>' (<span>-a for †-u</span>)</td>
+'<span>cycad</span>' (<span><em>-a</em> for †<em>-u</em></span>)</td>
 </tr>
 </table>
 

@@ -1473,7 +1473,8 @@ A POc verbal root _&ast;sauq_ (V) ‘be far away’ is reconstructable.
 <i>&ast;ma-Zauq</i>
 </td>
 <td>
-'<span>far away</span>' (<span>Blust 1981b</span>)</td>
+'<span>far away</span>' (<a href="../references.md#source-Blust1981b">Blust1981b</a>)
+</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
@@ -5451,7 +5452,8 @@ POc _&ast;[ma-](r,R)aŋo_ displays a phonological problem. Apparent non-Oceanic 
 <i>&ast;[ma]Raŋuʔ</i>
 </td>
 <td>
-'<span>dry</span>' (<span>Blust 1981b, Blust 1986</span>)</td>
+'<span>dry</span>' (<a href="../references.md#source-Blust1981b">Blust1981b</a>; <a href="../references.md#source-Blust1986">Blust1986</a>)
+</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>

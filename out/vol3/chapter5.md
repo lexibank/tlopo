@@ -863,7 +863,7 @@ The Seimat and Micronesian forms reflect POc †_&ast;biŋi-biŋi_ rather than _
 <tr>
 <td><strong>PCP</strong></td><td> </td>
 <td>
-<i>&ast;bibi</i>
+<i>&ast;bībī</i>
 </td>
 <td>
 '<span>Hernandia spp.</span>'</td>
@@ -1372,7 +1372,7 @@ The cognate set below contains a number of puzzles. It has just one Western Ocea
 <tr>
 <td><strong>ProtoSoutheastSolomonic</strong></td><td> </td>
 <td>
-<i>&ast;vayalo</i>
+<i>&ast;vaɣalo</i>
 </td>
 <td>
 '<span>Hibiscus tiliaceus</span>'</td>
@@ -1401,13 +1401,13 @@ The cognate set below contains a number of puzzles. It has just one Western Ocea
 </td>
 </tr>
 <tr>
-<td>SES</td><td>Bugotu</td><td><i>vayaoo</i></td>
+<td>SES</td><td>Bugotu</td><td><i>vaɣaðo</i></td>
 <td>
 '<span>Hibiscus tiliaceus</span>' (<a href="../references.md#source-HendersonandHancock1988">HendersonandHancock1988</a>)
 </td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>vayalo</i></td>
+<td>SES</td><td>Gela</td><td><i>vaɣalo</i></td>
 <td>
 '<span>tree sp.</span>'</td>
 </tr>
@@ -1438,12 +1438,12 @@ The cognate set below contains a number of puzzles. It has just one Western Ocea
 '<span>Hibiscus tiliaceus</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mwotlap</td><td><i>na-bwyal</i></td>
+<td>NCV</td><td>Mwotlap</td><td><i>na-bʷɣal</i></td>
 <td>
 '<span>Hibiscus rosa-sinensis</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>bʷayala</i></td>
+<td>NCV</td><td>Mota</td><td><i>bʷaɣala</i></td>
 <td>
 '<span>flowering hibiscus of many varieties</span>'</td>
 </tr>
@@ -1458,7 +1458,7 @@ The cognate set below contains a number of puzzles. It has just one Western Ocea
 '<span>Hibiscus tiliaceus</span>' (<span>metathesis</span>)</td>
 </tr>
 <tr>
-<td>NCV</td><td>Avava</td><td><i>balaya</i></td>
+<td>NCV</td><td>Avava</td><td><i>balaɣa</i></td>
 <td>
 '<span>Hibiscus tiliaceus</span>' (<span>metathesis</span>)</td>
 </tr>
@@ -1468,7 +1468,7 @@ The cognate set below contains a number of puzzles. It has just one Western Ocea
 '<span>Hibiscus tiliaceus</span>' (<span>metathesis</span>)</td>
 </tr>
 <tr>
-<td>NCV</td><td>South Efate</td><td><i>na-pwkal</i></td>
+<td>NCV</td><td>South Efate</td><td><i>na-pʷkal</i></td>
 <td>
 '<span>Hibiscus rosa-sinensis</span>'</td>
 </tr>
@@ -1478,12 +1478,12 @@ The cognate set below contains a number of puzzles. It has just one Western Ocea
 '<span>Hibiscus sp.</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Pije</td><td><i>pakela</i></td>
+<td>NCal</td><td>Pije</td><td><i>pakēla</i></td>
 <td>
 '<span>Hibiscus abelmoschus</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Nêlêmwâ</td><td><i>paxela</i></td>
+<td>NCal</td><td>Nêlêmwâ</td><td><i>paxēla</i></td>
 <td>
 '<span>Hibiscus abelmoschus</span>'</td>
 </tr>
@@ -2215,12 +2215,12 @@ In PPn the two forms would similarly have fallen together as _&ast;lala_, but he
 '<span>shrub, probably Vitex sp.</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Patpatar</td><td><i>data</i></td>
+<td>MM</td><td>Patpatar</td><td><i>dala</i></td>
 <td>
 '<span>Vitex trifolia</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tolai</td><td><i>data</i></td>
+<td>MM</td><td>Tolai</td><td><i>dala</i></td>
 <td>
 '<span>Vitex trifolia</span>'</td>
 </tr>
@@ -2515,30 +2515,61 @@ The wood is medium hard and in Vanuatu is used for houseposts ([Gowers 1976](../
 
 The distribution of A. pavonina is odd: it is reported from Papua New Guinea and Vanuatu, but not mentioned by Solomons sources. It is also missing from [Borrell's](../references.md#source-Borrell1989) ([1989](../references.md#source-Borrell1989)) flora checklist for Kairiru. It is native to SE Asia, but Rhys Gardner and Will McClatchey (both pers. comm.) suggest that it is a (recently?) introduced plant, at least from Fiji eastwards and perhaps also in Vanuatu. If this is so, then the two data sets require an explanation other than cognacy. The first set appears to support Proto Remote Oceanic _&ast;(m,mʷ)ata_, but the items glossed 'A. pavonina' are all from languages located in Vanuatu (Emae and Ifira-Mele are Polynesian outliers in Vanuatu) and probably reflect a series of borrowings. Items denoting other species are presumably chance resemblances.
 
-|      |            |                      |                                                                |
-|:-----|:-----------|:---------------------|:---------------------------------------------------------------|
-| NCV: | Namakir    | _na-mara_            | 'Adenanthera pavonina'([Wheatley 1992](../references.md#source-Wheatley1992): 133)                     |
-| NCV: | S Efate    | _na-mara_            | 'Adenanthera pavonina'([Wheatley 1992](../references.md#source-Wheatley1992): 133)                     |
-| Fij: | Bauan      | _mala_               | 'Dysoxylum lenticillare, tree with large yellow-green flowers' |
-| Fij: | Bauan      | _mala-mala_          | 'Dysoxylum spp.' ([Keppel et al. 2005](../references.md#source-Keppeletal2005))                          |
-| Pn:  | Tongan     | _mala-mala(-ʔa-toa)_ | 'small tree sp., Memecylon harveyi' ([Whistler 1991b](../references.md#source-Whistler1991b):81)        |
-| Pn:  | Niuean     | _ma-mala_            | 'k.o. tree'                                                    |
-| Pn:  | Emae       | _mara-mara_          | 'Adenanthera pavonina'                                         |
-| Pn:  | Ifira-Mele | _mʷara_              | 'Adenanthera pavonina' (probably borrowed from a NCV language) |
-| Pn:  | Tahitian   | _mara_               | 'k.o. tree, Nauclea forsteri'                                  |
-| Pn:  | Tuamotuan  | _mara_               | 'k.o. tree, Cordia subcordata'                                 |
+__formgrpoup__ NCV: Namakir     na-mara             'Adenanthera pavonina' ([Wheatley 1992](../references.md#source-Wheatley1992): 133) NCV: S Efate     na-mara             'Adenanthera pavonina' ([Wheatley 1992](../references.md#source-Wheatley1992): 133) Fij: Bauan       mala                'Dysoxylum lenticillare, tree with large yellow-green flowers' Fij: Bauan       mala-mala           'Dysoxylum spp.' ([Keppel et al. 2005](../references.md#source-Keppeletal2005)) Pn:  Tongan      mala-mala(-ʔa-toa)  'small tree sp., Memecylon harveyi' ([Whistler 1991b](../references.md#source-Whistler1991b):81) Pn:  Niuean      ma-mala             'k.o. tree' Pn:  Emae        mara-marā           'Adenanthera pavonina' Pn:  Ifira-Mele  mʷara               'Adenanthera pavonina' (probably borrowed from a NCV language) Pn:  Tahitian    mara                'k.o. tree, Nauclea forsteri' Pn:  Tuamotuan   mara                'k.o. tree, Cordia subcordata'
 
 The data below allow the reconstruction of PSOc _&ast;bisu_ 'bead tree, Adenanthera pavonina' but may actually reflect a Pacific Pidgin term based on English 'peas' or 'beads'.[^15]
 
-|      |         |             |                                  |
-|:-----|:--------|:------------|:---------------------------------|
-| NCV: | NEAmbae | _bise_      | 'Adenanthera pavonina'           |
-| NCV: | Araki   | _(vi)pisu_  | 'bead tree'                      |
-| NCV: | Tangoa  | _(vi)pisu_  | 'Adenanthera pavonina'           |
-| NCV: | Raga    | _bisa_      | 'Adenanthera pavonina'           |
-| NCV: | Paamese | _vise_      | 'Adenanthera pavonina'           |
-| NCV: | Lewo    | _(puru)piu_ | 'Adenanthera pavonina'           |
-| SV:  | Sye     | _ne-mpes_   | 'bead' (ecclesiastical use only) |
+<table>
+<tr>
+<td>NCV</td>
+<td>Ambae</td>
+<td><i>bise</i></td>
+<td>
+'<span>Adenanthera pavonina</span>'</td>
+</tr>
+<tr>
+<td>NCV</td>
+<td>Araki</td>
+<td><i>(vi)pisu</i></td>
+<td>
+'<span>bead tree</span>'</td>
+</tr>
+<tr>
+<td>NCV</td>
+<td>Tangoa</td>
+<td><i>(vi)pisu</i></td>
+<td>
+'<span>Adenanthera pavonina</span>'</td>
+</tr>
+<tr>
+<td>NCV</td>
+<td>Raga</td>
+<td><i>bisa</i></td>
+<td>
+'<span>Adenanthera pavonina</span>'</td>
+</tr>
+<tr>
+<td>NCV</td>
+<td>Paamese</td>
+<td><i>vise</i></td>
+<td>
+'<span>Adenanthera pavonina</span>'</td>
+</tr>
+<tr>
+<td>NCV</td>
+<td>Lewo</td>
+<td><i>(puru)piu</i></td>
+<td>
+'<span>Adenanthera pavonina</span>'</td>
+</tr>
+<tr>
+<td>SV</td>
+<td>Sye</td>
+<td><i>ne-mpes</i></td>
+<td>
+'<span>bead</span>' (<span>ecclesiastical use only</span>)</td>
+</tr>
+</table>
 
 
 <a id="s-5-2"></a>
@@ -2598,7 +2629,7 @@ Figure 5.8: Barringtonia asiatica.
 <tr>
 <td>Adm</td><td>Drehet</td><td><i>puk</i></td>
 <td>
-'<span>type oftr,ee with poisonous seed used to kill fish</span>'</td>
+'<span>type of tree with poisonous seed used to kill fish</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Loniu</td><td><i>put</i></td>
@@ -2991,7 +3022,7 @@ Other reconstructions glossed 'Calophyllum inophyllum' are Proto Meso-Melanesian
 '<span>Calophyllum inophyllum</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Nauna</td><td><i>pitiɨʔ</i></td>
+<td>Adm</td><td>Nauna</td><td><i>pitɨʔ</i></td>
 <td>
 '<span>Calophyllum inophyllum</span>'</td>
 </tr>
@@ -3062,7 +3093,7 @@ Other reconstructions glossed 'Calophyllum inophyllum' are Proto Meso-Melanesian
 '<span>Calophyllum inophyllum</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Jawe</td><td><i>pʰxhic</i></td>
+<td>NCal</td><td>Jawe</td><td><i>pʰic</i></td>
 <td>
 '<span>Calophyllum inophyllum</span>'</td>
 </tr>
@@ -3171,7 +3202,7 @@ The cognate set below supports the reconstruction of Proto Meso-Melanesian _&ast
 '<span>Calophyllum inophyllum</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Kara (East)</td><td><i>vuaf</i></td>
+<td>MM</td><td>Kara (East)</td><td><i>vuəf</i></td>
 <td>
 '<span>Calophyllum inophyllum</span>'</td>
 </tr>
@@ -4362,7 +4393,7 @@ POc _&ast;buRat_ was apparently the specific term for Fagraea berteroana. Centra
 '<span>Fagraea berteroana</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Marovo</td><td><i>bu-hurata</i></td>
+<td>MM</td><td>Marovo</td><td><i>bu-burata</i></td>
 <td>
 '<span>a woody climber of the elevated barrier reef</span>'</td>
 </tr>

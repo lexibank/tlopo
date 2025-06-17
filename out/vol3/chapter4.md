@@ -203,7 +203,7 @@ An apparently general term for tree trunk can be reconstructed for POc, namely _
 <tr>
 <td>NCV</td><td>Paamese</td><td><i>vat(i-āi)</i></td>
 <td>
-'<span>trunk oftree</span>'</td>
+'<span>trunk of tree</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Trukese</td><td><i>(nee-)fasaŋa</i></td>
@@ -242,12 +242,12 @@ As mentioned above, Oceanic languages have terms denoting different parts of woo
 <i>&ast;puqu(n)</i>
 </td>
 <td>
-'<span>base oftree; source, origin</span>'</td>
+'<span>base of tree; source, origin</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Bing</td><td><i>fuw</i></td>
 <td>
-'<span>base oftree</span>'</td>
+'<span>base of tree</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Gedaged</td><td><i>fu-</i></td>
@@ -463,7 +463,7 @@ Terms for different types of wood or tissue in woody stems are present in Wayan,
 <i>&ast;tai-tea</i>
 </td>
 <td>
-'<span>sapwood</span>' (<span>POLLEX; *tea 'white'</span>)</td>
+'<span>sapwood</span>' (<span>POLLEX; <em>*tea</em> 'white'</span>)</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tokelauan</td><td><i>taitea</i></td>
@@ -566,7 +566,7 @@ POc _&ast;baRa-baRa_ is a well-supported reconstruction, both in terms of form a
 '<span>leaf, palm, midrib of palm leaf</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kosraean</td><td><i>pee</i></td>
+<td>Mic</td><td>Kosraean</td><td><i>pᴂ</i></td>
 <td>
 '<span>stalk (of taro or banana), stem</span>'</td>
 </tr>
@@ -576,32 +576,32 @@ POc _&ast;baRa-baRa_ is a well-supported reconstruction, both in terms of form a
 '<span>coconut frond, midrib of frond</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Satawalese</td><td><i>-pee</i></td>
+<td>Mic</td><td>Satawalese</td><td><i>-pᴂ</i></td>
 <td>
 '<span>counting classifier for coconut or taro leaves</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Woleaian</td><td><i>-pa</i></td>
+<td>Mic</td><td>Woleaian</td><td><i>-pā</i></td>
 <td>
 '<span>numeral classifier for chained or strung objects such as palm fronds, leis, shell belts</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Ponapean</td><td><i>pa</i></td>
+<td>Mic</td><td>Ponapean</td><td><i>pā</i></td>
 <td>
 '<span>leaf of any large-leaved plant such as taro</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>ba</i></td>
+<td>Fij</td><td>Bauan</td><td><i>bā</i></td>
 <td>
 '<span>stalk of taro leaves (only)</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>baba</i></td>
+<td>Fij</td><td>Wayan</td><td><i>bābā</i></td>
 <td>
 '<span>leaf-stalk (petiole) or stem of certan single-stemmed plants whose leaves unfold from the stalk, especially taro, banana and leaf-stalk of palms</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Yasawa</td><td><i>baba</i></td>
+<td>Fij</td><td>Yasawa</td><td><i>bābā</i></td>
 <td>
 '<span>stalk or stem of certain large-leafed plants, especially taro, banana, coconut.</span>'</td>
 </tr>
@@ -693,7 +693,7 @@ Proto Austronesian _&ast;daqan_ 'branch', continued as POc _&ast;raqan_ 'branch 
 </td>
 </tr>
 <tr>
-<td>Adm</td><td>Drehet</td><td><i>(i)ᵑra</i></td>
+<td>Adm</td><td>Drehet</td><td><i>(i)ⁿra</i></td>
 <td>
 '<span>branch</span>'</td>
 </tr>
@@ -1441,7 +1441,7 @@ The POc term for 'buttress roots' was _&ast;lali(c,t)_. This is a more or less r
 '<span>buttress roots</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Lou</td><td><i>lit, lila-n</i></td>
+<td>Adm</td><td>Lou</td><td><i>lil, lila-n</i></td>
 <td>
 '<span>exposed root or vein</span>' (<span>vowel metathesis</span>)</td>
 </tr>
@@ -2909,7 +2909,7 @@ POc _&ast;jamu(qa,a)_, on the other hand, apparently referred to clusters of fru
 '<span>branching flower and fruit stem of coconut or fan palm</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>samoa</i></td>
+<td>Fij</td><td>Wayan</td><td><i>sāmoa</i></td>
 <td>
 '<span>hard sheath or calyx enclosing flower of coconut (used as torch); coconut flower before sheath bursts</span>'</td>
 </tr>
@@ -3021,9 +3021,9 @@ Also attributable to POc is a distinct term for the stem of fruit, probably deno
 '<span>(banana) stem</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Marshallese</td><td><i>kəlɯæ</i></td>
+<td>Mic</td><td>Marshallese</td><td><i>kəlᶭæ</i></td>
 <td>
-'<span>fruit s1cem; stalk, leaf-stem, petiole</span>'</td>
+'<span>fruit stem; stalk, leaf-stem, petiole</span>'</td>
 </tr>
 </table>
 
@@ -3120,7 +3120,7 @@ In a number of modern Oceanic languages, including Manam, Carolinian and Tikopia
 '<span>seed, (fruit) pips; block of coral, rock, stone; islet</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Carolinian</td><td><i>fay</i></td>
+<td>Mic</td><td>Carolinian</td><td><i>fāy</i></td>
 <td>
 '<span>stone, rock, seed, testicles</span>'</td>
 </tr>
@@ -3146,7 +3146,7 @@ In a number of modern Oceanic languages, including Manam, Carolinian and Tikopia
 
 <a id="p-119"></a>
 
-[Holzknecht](../references.md#source-Holzknecht1989) ([1989](../references.md#source-Holzknecht1989): 87) presents data from a number of Markham (NNG) languages to support the reconstruction of POc _&ast;lija(n)_ 'seed', the primary meaning of which was probably 'nit, louse egg' ([Ross 1989b](../references.md#source-Ross1989b): 481-482). More detailed Oceanic data indicates that the POc form was _&ast;lisaq_ 'nit, louse egg', reflecting an earlier PAn term _&ast;liseqeS_ 'nit, louse egg' (Blust 2002), and that a second form, _&ast;lejaŋ_ 'nit', is reconstructable for PWOc. Reflexes of POc _&ast;lisaq_ 'nit, louse egg' with the meaning 'seed' occur in Sa'a (SES) and Wusi (NCV), so it is possible that this was a secondary meaning in PEOc. The exact reference of PEOc _&ast;lisa_ 'seed' is unclear, but it probably denoted small seeds like grain at least, and may have referred more generally to the seeds of plants. The 'seed' meaning of reflexes of PWOc _&ast;lejan_ in several Markham (NNG) languages, including Adzera _niju-n_ 'seed' and N Watut _nejo_ 'seed', indicate that a similar shift in meaning has also occurTed with reflexes of this form.
+[Holzknecht](../references.md#source-Holzknecht1989) ([1989](../references.md#source-Holzknecht1989): 87) presents data from a number of Markham (NNG) languages to support the reconstruction of POc _&ast;lija(n)_ 'seed', the primary meaning of which was probably 'nit, louse egg' ([Ross 1989b](../references.md#source-Ross1989b): 481-482). More detailed Oceanic data indicates that the POc form was _&ast;lisaq_ 'nit, louse egg', reflecting an earlier PAn term _&ast;liseqeS_ 'nit, louse egg' ([Blust 2002](../references.md#source-Blust2002)), and that a second form, _&ast;lejaŋ_ 'nit', is reconstructable for PWOc. Reflexes of POc _&ast;lisaq_ 'nit, louse egg' with the meaning 'seed' occur in Sa'a (SES) and Wusi (NCV), so it is possible that this was a secondary meaning in PEOc. The exact reference of PEOc _&ast;lisa_ 'seed' is unclear, but it probably denoted small seeds like grain at least, and may have referred more generally to the seeds of plants. The 'seed' meaning of reflexes of PWOc _&ast;lejan_ in several Markham (NNG) languages, including Adzera _niju-n_ 'seed' and N Watut _nejo_ 'seed', indicate that a similar shift in meaning has also occurTed with reflexes of this form.
 
 <table>
 <tr>
@@ -3191,7 +3191,7 @@ As noted in §2.8, POc _&ast;puaq_ was another term that could refer to the seed
    MM:   Ramoaaina     tat         'breadfruit seed'
    SES:  Gela          dui         'breadfruit seed'
    Mic:  Kosraean      kɔlɔ        'breadfruit seed'
-   Mic:  Carolinian    bwuxili     'edibl1e seeds from one variety of breadfruit'
+   Mic:  Carolinian    bʷuxili     'edibl1e seeds from one variety of breadfruit'
 ```
 
 The data given by [Ross](../references.md#source-Ross1996d) ([1996d](../references.md#source-Ross1996d): 188) allow the reconstruction of PWOc _&ast;kalijo_ 'edible kernel of breadfruit segments', but no term with this meaning is reconstructable for POc.
@@ -3677,7 +3677,7 @@ The Oceanic data, shown in the cognate set below, suggest the reconstruction of 
 '<span>to join (VT)</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Marshallese</td><td><i>pɯil</i></td>
+<td>Mic</td><td>Marshallese</td><td><i>pᶭil</i></td>
 <td>
 '<span>sap, chewing gum</span>'</td>
 </tr>

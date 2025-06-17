@@ -857,7 +857,7 @@ POc _&ast;nunuk_ denoted either a taxon including all Ficus species known to POc
 <tr>
 <td>MM</td><td>Kara (East)</td><td><i>nunui</i></td>
 <td>
-'<span>cycad</span>' (<span>-i &lt; POc *-k</span>)</td>
+'<span>cycad</span>' (<span><em>-i</em> &lt; POc <em>*-k</em></span>)</td>
 </tr>
 <tr>
 <td>MM</td><td>Tolai</td><td><i>nunu</i></td>
@@ -1439,7 +1439,7 @@ POc _&ast;pʷabosi_ is the most likely candidate for a term denoting F. wassa. A
 <tr>
 <td><strong>PSOc</strong></td><td> </td>
 <td>
-<i>&ast;(b,ba,bo)bosi</i>
+<i>&ast;(b(a,o))bosi</i>
 </td>
 <td>
 '<span>Ficus sp.</span>' (<a href="../references.md#source-Lynch2004a">Lynch2004a</a>)

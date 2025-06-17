@@ -170,19 +170,19 @@ and subsequent versions of the pollex file, including Biggs & Clark (1993) and C
 Biggs (2006); for Proto Micronesian by scholars associated with the University of Hawai‘i
 (Bender et al. 1983, Bender et al. 2003); for the ancestor of the Banks and Torres languages by
 Alexandre François (several unpublished manuscripts); for Proto North and Central Vanuatu
-by Clark (1996, 2009); for Proto Southern Vanuatu by Lynch (1978, 1996, 2001); for New
+by Clark (1996, 2009); for Proto Southern Vanuatu by Lynch (1978, 1996b, 2001); for New
 Caledonia by Ozanne-Rivierre (1992), Haudricourt & Ozanne-Rivierre (1982) and Geraghty
 (1989); for Proto Southeast Solomonic by Levy (1980) and Lichtenberk (1988); for Proto Central
 Pacific by Hockett (1976), Geraghty (1983, 1986, 1996 together with a number of unpublished papers);
 for Proto Eastern Oceanic by Biggs (1965), Cashmore (1969), Levy & Smith
 (1970), and Geraghty (1990); and for Proto Central Papuan by Pawley (1975), Lynch (1978,
-1980), and Ross (1994).
+1980), and Ross (1994a).
 
     Robert Blust of the University of Hawai‘i has, in a series of papers (1970, 1980, 1983-84,
 1986, 1989) published extensive, alphabetically ordered, lexical reconstructions
 (with supporting cognate sets) for interstages earlier than POc, especially for Proto Austronesian, Proto
 Malayo-Polynesian and Proto Eastern Malayo-Polynesian. He has also written several papers
-investigating specific semantic fields (Blust 1980Z>, 1982, 1987, 1994). Blust has a major
+investigating specific semantic fields (Blust 1980b, 1982, 1987, 1994). Blust has a major
 work in progress, the Austronesian Comparative Dictionary (ACD), which will bring together
 all his reconstructions for Proto Austronesian and lower-order stages. This is stored in
 electronic form at the University of Hawai‘i. The version to which we refer dates from 1995.
@@ -191,7 +191,7 @@ electronic form at the University of Hawai‘i. The version to which we refer da
 
 
     Several papers predating our project systematically investigated particular semantic domains
-in the lexicon of POc, e.g. Milke (1958), French-Wright (1983), Pawley (1982, 1985),
+in the lexicon of POc, e.g. Milke (1958), French-Wright (1983), Pawley (1982a, 1985),
 Pawley & Green (1985), Lichtenberk (1986), Walter (1989), and the various papers in
 Pawley & Ross (1994). Ross (1988) contains a substantial number of new POc lexical reconstructions,
 as well as proposed modifications to the reconstructed POc sound system and the
@@ -207,7 +207,7 @@ in Appendix 1.
     Several compilations of reconstructions have provided valuable points of reference, both
 inside and outside the Oceanic group. We are indebted particularly to Bender et al. (2003),
 two editions of pollex (Biggs & Clark 1993 and Clark & Biggs 2006), Blust (ACD), Clark
-(2009) and Lynch (2001Z>).
+(2009) and Lynch (2001c).
 
     In the course of planning the several volumes for the present project, we came to realise
 that the form in which preliminary publications were presented—namely as essays, each
@@ -263,7 +263,7 @@ were unable to reconstruct a term where we had believed we should be able to. In
 we have discussed the reasons why our expectations were not met and what this may mean
 for Oceanic culture history.
 
-    Blust (1987a: 81) distinguishes between conventional ‘semantic reconstruction’, which
+    Blust (1987: 81) distinguishes between conventional ‘semantic reconstruction’, which
 asks, “What was the probable meaning of protomorpheme X?”, and Dyen and Aberle’s (1974)
 ‘lexical reconstruction’, where one asks, “What was the protomorpheme which probably
 meant ‘X’?” At first sight, it might appear that terminological reconstruction is a version
@@ -343,7 +343,7 @@ Although the subgrouping of Austronesian languages, and hypotheses about which p
 was spoken where, remain in certain cases somewhat controversial, it is impossible
 to proceed without making some assumptions about these matters. Figures 1.1 and 1.2 are
 approximate renderings of our subgrouping assumptions. The upper part of the tree, shown in
-Figure 1.1, is due to Blust, originally presented in Blust (1977) and repeated with additional
+Figure 1.1, is due to Blust, originally presented in Blust (1977b) and repeated with additional
 supporting evidence in subsequent publications (1978, 1982, 1983-84, 1993, 2009).[4][5] The diagram
 of the lower (Oceanic) part of the tree in Figure 1.2 shows nine primary subgroups of
 Oceanic. Its rake-like structure indicates that no convincing body of shared innovations has
@@ -364,7 +364,7 @@ In Figures 1.1 and 1.2 each node is either a single language,3 usually a reconst
 protolanguage, or, in italics, a group of languages.
 
 
-[4] For critical overviews of the literature on Austronesian subgrouping, see Ross (1995), Adelaar (2005) and
+[4] For critical overviews of the literature on Austronesian subgrouping, see Ross (1995b), Adelaar (2005) and
  Blust (2009a). The CEMP and Central Malayo-Polynesian linkages, and also PEMP, have been called into
  question recently, but these issues lie beyond our present scope (Blust 20096, Donohue & Grimes 2008, Ross
  20086).
@@ -446,7 +446,7 @@ than one immediate parent, indicated in Figure 1.2 by a dashed line around the r
 of languages. An example is the Fijian linkage, which represents the partial resynthesis of the
 Fiji-based descendants of earlier Western Central Pacific and Eastern Central Pacific linkages
 after Rotuman and Polynesian had split off from them (Geraghty & Pawley 1981, Geraghty
-1983, Pawley 19967?).[11] Geraghty reconstructed the history of the Fijian linkage by painstaking
+1983, Pawley 1996c).[11] Geraghty reconstructed the history of the Fijian linkage by painstaking
 analysis of innovations from at least two stages in its history. From the earlier period
 Western Fijian languages share innovations with Rotuman and Eastern Fijian with Polynesian.
 From a more recent period Western Fijian and Eastern Fijian languages share innovations
@@ -460,7 +460,7 @@ and others that share history with those to their north? The North/Central Vanua
 long assumed to be some sort of genealogical unit, appears to reflect the partial reintegration
 of at least two dialect networks, North Vanuatu and Central Vanuatu, that probably had not
 diverged greatly from each other, but the details of this history are difficult to elucidate (Lynch
-2000a).[12]
+2000c).[12]
 
     The languages of a linkage have no identifiable exclusively shared parent.Yet we have
 found many instances in which a cognate set is limited to one of the linkages in Figures 1.1
@@ -518,8 +518,8 @@ and would qualify it as a proper subgroup (see discussion in Lynch et al.
     Central Pacific is a proper subgroup, but one defined by only a handful of shared innovations,
 indicating that the period of unity was short (Geraghty 1996). The high-order subgrouping of
 Central Pacific is due to Geraghty (1983), except for the position of Rotuman,
-due to Pawley (1996Z>). Within Central Pacific is another long recognised proper subgroup,
-Polynesian, for which Pawley (1996«) lists diagnostic innovations.
+due to Pawley (1996c). Within Central Pacific is another long recognised proper subgroup,
+Polynesian, for which Pawley (1996a) lists diagnostic innovations.
 
 1.3.2.4 Criteria for reconstruction
 
@@ -632,7 +632,7 @@ languages and in Admiralty does not support a POc reconstruction, but the presen
 reflex in one or more of these languages and one of Western Oceanic, Temotu and Eastern
 Oceanic does support one.
 
-     In chapter 2 (§4) of volume 2 Pawley discusses Blust’s (1998) proposal that the primary
+     In chapter 2 (§4) of volume 2 Pawley discusses Blust’s (1998a) proposal that the primary
 split in Oceanic divides Admiralty from a subgroup embracing all other Oceanic languages.
 Pawley dubs the latter ‘Nuclear Oceanic’. If Blust’s subgrouping were accepted, then an
 etymon which lacked cognates outside Oceanic would need to be reflected both in an Admiralties
@@ -662,7 +662,7 @@ by Tryon (1976) and Clark (2009) for North and Central Vanuatu; by Lynch (1978, 
 for Southern Vanuatu; by Geraghty (1989), Haudricourt & Ozanne-Rivierre (1982), Ozanne-
 Rivierre (1992) and Ozanne-Rivierre (1995) for New Caledonia; by Jackson (1986) and Ross
 (1996a) for Nuclear Micronesian; by Geraghty (1986) for Central Pacific; by Biggs (1978)
-for Polynesian; by Ross (1996a) for Yapese; and by Ross (1996Z>) for Oceanic languages of
+for Polynesian; by Ross (1996a) for Yapese; and by Ross (1996b) for Oceanic languages of
 Irian Jaya.
 
 [18] On the positions of Yapese and Mussau. see respectively Ross (1996a) and Ross (1988:315-316, 331).
@@ -688,7 +688,7 @@ __pre__
 
     For non-Oceanic languages we have referred to sound correspondences given by Tsuchida
 (1976) for Formosan languages; by Zorc (1977, 1986) and Reid (1982) for the Philippines;
-by Adelaar (1992) and Nothofer (1975) for Malay and Javanese; by Sneddon (1984) for
+by Adelaar (1992b) and Nothofer (1975) for Malay and Javanese; by Sneddon (1984) for
 Sulawesi; by Collins (1983) for Central Maluku; and by Blust (1978a) for South Halmahera
 and Irian Jaya.
 
@@ -1130,7 +1130,7 @@ of New Georgia, western Solomons. He writes:
 Andra, McEldowney (1995); Chuukese. Davis (1999); Dobu, Lithgow (1975); Gela, Foale (1998); Kadavu Fijian,
 Kikusawa (1995); Kapingamarangi. Lieber (1994); Kiribatese, Thaman & Tebano (n.d.); Lau (of Malaita),
 Akimichi (1978); Lau Fijian, Paul Geraghty (pers. comm.); Motu, Oram (n.d.); Marovo, Hviding (1990, 1996, 2005);
- Marquesan, Lavondes (1977); Mbunai Titan, Akimichi & Sakiyama (1991); Misima, Kinch (1999); Mutu.
+ Marquesan, Lavondes (1977); Mbunai Titan, Akimichi & Sakiyama (1991); Misima, Kinch (1999b); Mutu.
  Pomponio (n.d.); Nadroga Fijian, Paul Geraghty (pers. comm.); Nduke, Ian Scales (pers. comm.); Niuatop-
  utapu. Dye 1983; Ponam. Carrier (1982); Pukapuka, Kevin Salisbury (pers. comm.); Raga, David Walsh (pers.
  comm.); Satawalese. Akimichi & Sauchomal (1982); Teop, Shoffner (1976); Uvean (Wallisian), Rensch (1983).
@@ -2517,7 +2517,7 @@ Figure 2.12:Mugil cephalus, flathead grey mullet
 _baɣele ele ɑto_ ‘seahorse, pipefish’ (bayele ‘crocodile’, _ele_ 'its',_ato_ ‘messenger’) (Ann Chowning,
  pers. comm.[11]). In Dobu (PT) the term for crocodile is _warigoa_, and that for seahorse
 or pipefish _wari-warigoa_, reduplication of the first two syllables being a common way of
-indicating an inferior or diminutive form of the named item (Ross 2005:199).
+indicating an inferior or diminutive form of the named item (Ross 2005b: 199).
 
 
 2.17 Razorfishes (_Centriscidae_)
@@ -2983,7 +2983,7 @@ cf. also:
   Pn:   Hawaiian      ʔaʔawa        ‘Bodianus bilunulatus, wrasse’
 >
 
-[16] Ross (1994:418) discounted the Motu term as cognate on the basis that the initial consonants of Motu _dono_
+[16] Ross (1994a: 418) discounted the Motu term as cognate on the basis that the initial consonants of Motu _dono_
  ‘brown spotted rock cod’, Lala _dono_ ‘k.o. fish’ and Roro _tono_ 'k.o. fish' all reflect POc _*s-_. However Motu _d-_,
 unlike the other two. also reflects POc _*d_.
 
@@ -6199,7 +6199,7 @@ to within a span of two or three centuries is possible because of the strong ass
 the appearance in the Bismarck Archipelago and subsequent spread across the SW Pacific of
 the highly distinctive archaeological culture known as Lapita and the initial diversification of
 Proto Oceanic within the Bismarcks and the subsequent spread of Oceanic languages across
-the SW Pacific (Green 2003, Kirch 1997, 2000, Pawley 2003, 2007, 2008, Spriggs 1997,
+the SW Pacific (Green 2003, Kirch 1997, 2000, Pawley 2003c, 2007, 2008, Spriggs 1997a,
 Summerhayes 2001).
 
                                                   Stability and change in Oceanic fish names             139
@@ -6846,7 +6846,7 @@ PCP, very few are kept in PPn.
 3.3.4 Variation in retention rate among languages in the sample
 
 The 12 languages vary greatly in their retention rates for fish names (Table 3.8). This finding
-is consistent with what is known about retention rates for basic vocabulary among Austronesian languages in general (Blust 1981, 1999).
+is consistent with what is known about retention rates for basic vocabulary among Austronesian languages in general (Blust 1981b, 1999b).
 
     The percentages for certain languages are likely to have been deflated by the
 incompleteness of the fish name lists for these languages, particularly Kiribati and Mutu and to a lesser
@@ -7558,7 +7558,7 @@ POc *[pa]paba ‘_Parribacus sp._ (_Scyllaridae_), slipper lobster’
 >
 
     There is a well attested term in PCP which shows some resemblance to the above. However,
-the correspondence of PPn _*t_ to Fijian _ð_ indicates a PCP palatal (which Blust (1978Z>)
+the correspondence of PPn _*t_ to Fijian _ð_ indicates a PCP palatal (which Blust (1978b)
 writes _*c_ and Geraghty 1986 as _*j_).
 
 <
@@ -7682,7 +7682,7 @@ stands as a generic for typical hermit crabs, in contrast to coconut crabs. Howe
 Oceanic languages reflexes have an extended sense that includes coconut crabs.
 
 <
-PAn *qumaŋ ‘hermit crab’ (Blust 1980a)
+PAn *qumaŋ ‘hermit crab’ (Blust 1980b)
 POc *qumʷaŋ (1) ‘generic for hermit crabs’; (2) ‘generic for hermit and coconut crabs’ (?)
   NNG:  Gedaged      (wa)gum       ‘hermit crab’
   NNG:  Manam        guma          ‘hermit crab’
@@ -7789,7 +7789,7 @@ crab of tidal swamps, round in shape, up to 10 inches in diameter, black on back
 large meaty claws’, unmistakeably a large _Scylla_ sp.
 
 <
-PMP *qalimaŋaw ‘mangrove crab’ (Blust 1980a)
+PMP *qalimaŋaw ‘mangrove crab’ (Blust 1980b)
 POc *qalimaŋo ‘large mangrove crab, Scylla serrata (_Portunidae_) and probably other portunids’
   NNG: Kove         alimaŋo        ‘mangrove crab’
   PT:  Molima       kalimana       ‘mangrove crab’
@@ -8198,7 +8198,7 @@ PPn *ami ‘crustacean roe’ (pollex)
 
 Molluscs are very important sources of protein food in Oceanic-speaking coastal communities.
 A survey of the Milne Bay coral reef systems recorded 945 species of molluscs living
-in reef habitats (Kinch 1999, Wells and Kinch, 2003). That figure excludes the many species
+in reef habitats (Kinch 1999b, Wells and Kinch, 2003). That figure excludes the many species
 that occupy mangrove and mudflat habitats, which were not surveyed. While the Milne Bay
 region has one of the richest marine faunas in the Pacific, it exemplifies the abundance of
 mollusc resources available to communities living close to coral reef systems.
@@ -8228,7 +8228,7 @@ also used as cutting and scraping tools.
 
      The importance of shellfish to speakers of Proto Oceanic and its immediate descendants is
 shown by the large quantities of gastropod and bivalve shells, and artefacts made from shell,
-that are found in Lapita sites (Gifford & Shutler Jr 1956, Kirch 1997, Spriggs 1997, Swadling 1977, 1996)
+that are found in Lapita sites (Gifford & Shutler Jr 1956, Kirch 1997, Spriggs 1997a, Swadling 1977, 1996)
 and other archaeological sites associated with Oceanic languages. Gifford and Shutler (1956)
 identified at least 74 species of molluscs occurring in Lapita sites in New
 Caledonia. Swadling (1977) reports 54 mollusc species from the Taurama sequence in Central
@@ -8315,7 +8315,7 @@ PPn *qalili ‘cat’s eye shell, _Turbo_ sp.’ (pollex)
   Pn:  Tikopia        alili           ‘greensnail; _Turbo_ spp. incl. _T. marmoratus_, _T. bargyrostomus_, _T. setosus_’
 >
 
-[6] Blust (1980a) gives this form as PWMP but Oceanic cognates allow it to be attributed to PMP.
+[6] Blust (1980b) gives this form as PWMP but Oceanic cognates allow it to be attributed to PMP.
 
                                                                    Aquatic invertebrates     183
 
@@ -8386,7 +8386,7 @@ of gastropods in a number of Oceanic languages, including Takia, Roviana, Bauan,
 and Samoan.
 
 <
-PMP *sisi[q] ‘edible snail’ (doublets *sisuq, *susuq) (Blust 1980a)
+PMP *sisi[q] ‘edible snail’ (doublets *sisuq, *susuq) (Blust 1980b)
 POc *sisiq (1) ‘various small, snail-like gastropods of nerite family’; (2) ‘probably generic for a wider class of edible gastropods’
   NNG:  Takia         sise(i)        ‘generic term for all varieties of sea shells’
   PT:   Molima        sisi(ʔalo)     ‘a brown bivalve, small and edible, found in tidal flats’
@@ -8445,7 +8445,7 @@ ovulids together under a single generic with subtaxa distinguished by binomials.
 well-attested POc reconstruction which continues a PMP etymon.
 
 <
-PMP *buliq ‘cowrie shell’ (Blust 1980a)
+PMP *buliq ‘cowrie shell’ (Blust 1980b)
 POc *buli(q) ‘generic for cowries’
   NNG:  Takia          bul             ‘k.o. shellfish: Ovula ovum, white egg cowrie’
   PT:   Kilivila       bune-buna       ‘cowrie’
@@ -9667,7 +9667,7 @@ cf. also:
                                                                   Aquatic invertebrates     211
 
 
-Although this cognate set formally matches PMP _*imbaw_ ‘marine mollusc sp.’ (Blust 1980a: 77)
+Although this cognate set formally matches PMP _*imbaw_ ‘marine mollusc sp.’ (Blust 1980b: 77)
 the latter reconstruction rests on cognates in two WMP languages which both refer to
 bivalves.
 
@@ -10089,7 +10089,7 @@ PPT *wagita ‘wallaby’
 in PT languages predictably add a final _-i_. Retention of final _*n_ plus the added vowel is
 unexpected in Motu and Magori, and suggests borrowing from a SE Papuan source, perhaps
 a dialect of Suau. At least two Central Papuan languages use reflexes of _*makan_ ‘wallaby’
-as a generic for ‘fish’. Ross (1994:422) uses the example of the two Sinaugoro dialects, one
+as a generic for ‘fish’. Ross (1994a: 422) uses the example of the two Sinaugoro dialects, one
 inland (Taboro), the other coastal (Balawaia), to suggest that the term was in some places
 generalised to cover protein food, and then restricted in some coastal languages to the main
 protein food available, namely fish.
@@ -10221,7 +10221,7 @@ refers to a juvenile cuscus, and in one Papuan Tip language.
 
 <
 POc *pu(dr,d,j)(o,u) ‘species of possum or cuscus’
-  PT:     Suau          hudu       ‘striped possum’ (Flannery 1995b:203)
+  PT:     Suau          hudu       ‘striped possum’ (Flannery 1995:203)
   SES:    Gela          vuto       ‘a young cuscus’
   SES:    Owa           futu       ‘possum’
   SES:    ’Are’are      huto       ‘possum’
@@ -10276,7 +10276,7 @@ _Echymipera_ (common or spiny bandicoot, long-nosed bandicoot), _Peroryctes_ (gi
 bandicoot, Raffray’s bandicoot), and _Microperoryctes_ (mouse bandicoot, striped bandicoot).
 The mouse bandicoot is found only in the west of West Papua but the other genera are
 distributed widely on mainland New Guinea. Bandicoots are not present in the Solomons.
-Spriggs (1997:54) writes that at Pamwak, in Manus, bandicoots appear suddenly in the
+Spriggs (1997a: 54) writes that at Pamwak, in Manus, bandicoots appear suddenly in the
 archaeological record at about 13,000 BP and quickly become dominant in the faunal record.
 This suggests human introduction. To the west of New Guinea, outside the region occupied
 by speakers of Oceanic languages, bandicoot species are present on Seram, Yapen, Waigeo,
@@ -10312,7 +10312,7 @@ POc *mʷajar ‘bandicoot’
   MM:  Meramera      maso             ‘bandicoot’
   MM:  Tolai         mā(ŋ)            ‘bandicoot’
   MM:  Ramoaaina     ma(n)            ‘bandicoot’
-  Mic: Ponapean      (keli)mʷet       ‘k.o. small bat’ (_keli-_ ‘prefix signifying danger, connection with spirit world’; Blust 2001)
+  Mic: Ponapean      (keli)mʷet       ‘k.o. small bat’ (_keli-_ ‘prefix signifying danger, connection with spirit world’; Blust 2001b)
   Fij: Namosi        ŋʷaða            ‘k.o. large rat’ (Blust 1993)
 >
 
@@ -10334,12 +10334,12 @@ The _Dasyuridae_ are a family of carnivorous and insectivorous marsupial rodents
 various antechinus species and quolls and, most famously, the Tasmanian devil. Five genera
 of dasyurids are unique to New Guinea and three genera are common to New Guinea and
 Australia. Most dasyurids are small, weighing between 100-500 grams, although quolls of the
-New Guinea rainforest may exceed half a kilogram in weight (Flannery 1995b: 83). Dasyurids
+New Guinea rainforest may exceed half a kilogram in weight (Flannery 1995: 83). Dasyurids
 may be either diurnal or nocturnal, and some antechinus species are partly arboreal. Many
 species are found in rainforest, often at middle to high altitudes. Few members of the family
 have been recorded from coastal Austronesian-speaking areas, although one antechinus is
 found on Normanby in the D’Entrecasteaux Group, and other dasyurids have been recorded
-from the Aru Islands. Flannery (1995b:84) comments that quolls will enter villages to catch
+from the Aru Islands. Flannery (1995:84) comments that quolls will enter villages to catch
 rats, and are respected as fierce predators by most New Guineans familiar with them, who
 show great caution when handling them.
 
@@ -10352,7 +10352,7 @@ them by a term such as ‘small marsupial rodent’.
 
 Monotremes are represented in New Guinea by two genera of echidna: _Tachyglossus_ (short-
 beaked echidna) and _Zaglossus_ (long-beaked echidna). Both are regarded as rare.
-Flannery (1995b:67) suggests that hunting pressure has severely reduced their numbers. Very little is
+Flannery (1995: 67) suggests that hunting pressure has severely reduced their numbers. Very little is
 known about the distribution and natural history of _Tachyglossus_, but it has been recorded
 in the Markham valley and around Port Moresby, and from the island of Salawati off the
 Bird’s Head. _Zaglossus_ has also been reported from both the western and eastern extremities
@@ -10367,7 +10367,7 @@ Rats were a significant source of protein for many Oceanic communities in prehis
 The diversity of rat species diminishes sharply as one moves from New Guinea to the Bismarcks
 and Solomons. In New Guinea the murid fauna is ‘abundant and diverse, and for
 the size of the land mass, one of the most species-rich found anywhere on earth’ (Flannery
-1995b:231). There are some 27 genera there, including Hydromys, Leptomys, Mallomys,
+1995: 231). There are some 27 genera there, including Hydromys, Leptomys, Mallomys,
 Melomys, Pogonomys, Uromys, Rattus and Stenomys, although only a subset of these are
 present in any one region. Most New Guinea area species are endemic.
 
@@ -10599,13 +10599,13 @@ PWOc *kotu ‘rat’
 
 
 Bats form a very large order consisting of two suborders and at least six families (Flannery
-1995b). The Megachiroptera include the fruit-sucking bats (flying foxes and fruit bats) and
+1995). The Megachiroptera include the fruit-sucking bats (flying foxes and fruit bats) and
 bats which feed on nectar and pollen. Figure 5.6 shows the greater bare-backed fruit bat,
 Dobsonia moluccensis (aka _D. mapna_). This species and others of the genus Dobsonia are
 widespread in New Guinea and Island Melanesia, as far east as the Solomons, as are other
 members of the family _Pteropodidae_ (fruit-bats). The Microchiroptera include tube-nosed
 bats, sheathtail bats, horseshoe bats and leaf-nosed bats, typically insectivorous, although at
-least one genus preys on small fish (Flannery 1995b:455). Several species of Microchiroptera
+least one genus preys on small fish (Flannery 1995: 455). Several species of Microchiroptera
 are recently described, and revision of the genera is ongoing.
 
     Reflexes of PMP *paniki ‘fruit bat, flying fox, _Pteropns spp._ ’ occur in the Philippines and
@@ -12708,7 +12708,7 @@ POc *(n,ñ)iku~*nuki ‘nest’
   NCV:    Paamese        a-nu, nūnu
 >
 
-[4] Cognates in SHWNG languages include Mor/7zZ>z. nrwi, Waropen m. Biak niw (Anceau.x 1961).
+[4] Cognates in SHWNG languages include Mor _nibi_, _niwi_, Waropen _ni_, Biak _niw_ (Anceaux 1961).
 
 280      Ross Clark
 
@@ -12842,7 +12842,7 @@ for living Oceanic languages do not yield up any useful cognate sets. Examples a
 nithidae), nightjars (_Caprimulgidae_), flowerpeckers (_Dicaeidae_), waxbills (_Estrildidae_) and
 drongos (_Dicruridae_). This lack, in turn, is primarily a result of the insufficiency of the data,
 particularly for languages of Northwest Melanesia, where the avifauna is the richest. The
-situation has improved, but only slightly, since my previous study (Clark 1994). There is still
+situation has improved, but only slightly, since my previous study (Clark 1994b). There is still
 an almost complete lack of really comprehensive studies.
 
     It may be useful, nevertheless, to have some idea of what such a taxonomy would have
@@ -13492,7 +13492,7 @@ __formgroup__
     Pn:     Maori          toroa           ‘albatross, _Diomedea spp._’
 
 [6] Southern Melanesian is a subgroup proposed by John Lynch comprising the Southern Vanuatu and
-New Caledonian languages. See for example Lynch (2004:317).
+New Caledonian languages. See for example Lynch (2004b: 317).
 
 296     Ross Clark
 
@@ -17127,7 +17127,7 @@ mean?
 
     He realised that in a substantial number of cases the referents had a connection — most
 commonly a dangerous connection — with the world of spirits. Insects in particular were associated
-with spirits of the dead. The _qali-_/_kali-_ terms listed by Blust (updated in 2001:37)
+with spirits of the dead. The _qali-_/_kali-_ terms listed by Blust (updated in 2001b: 37)
 refer to the following creepy-crawlies: ant/termite, honey bee, bumble bee, beetle, butterfly,
 caterpillar, centipede, cockroach, crab, cricket, dragonfly, earthworm, firefly, flea, gecko,
 grasshopper, jungle leech, paddy leech, luminous millipede, scorpion, snake, spider, wasp.
@@ -17145,10 +17145,10 @@ constructions (termite).[3] In contrast, the marked creatures have little or no 
 In addition, some of these, particularly fireflies and luminous millipedes, have unusual
 properties which might be regarded as supernatural (pp 37-38).
 
-[2] Now published as Blust (2001).
+[2] Now published as Blust (2001b).
 
 [3] Where a creature is listed as both marked and unmarked, the unmarked tends to be generic while the marked
- singles out individual species (Blust 2001:37).
+ singles out individual species (Blust 2001b: 37).
 
                                                             Insects and other creepy-crawlies          373
 
@@ -19452,8 +19452,8 @@ evidently an essential element of _*kali-_/_*qali-_ words at a stage earlier tha
 from the typical disyllabic base form to a quadrisyllable one. The prefix had ceased
 to be productive in POc.
 
-[14] Cf. Blust’s list of creatures marked with the prefix which include, inter alia, grasshopper, gecko, some ant
- spp. and some spider spp. (2001:37).
+[14] Cf. Blust’s (2001b: 37) list of creatures marked with the prefix which include, inter alia, grasshopper, gecko, some ant
+ spp. and some spider spp..
 
 420    Meredith Osmond
 
@@ -19892,7 +19892,7 @@ of Muyuw, another Papuan Tip language, is a bit more informative, offering _yin_
 dugongs, and octopus count as fish.
 
      In the case of major generics, different sources for the same language often offer conflicting
-definitions. The standard dictionary of Motu (Lister-Turner and Clark 1954) glosses
+definitions. The standard dictionary of Motu (Lister-Turner and Clark 1954a) glosses
 _gwarume_ simply as ‘fish’. However, Nigel Oram, who looked into the matter in some detail,
 obtained a different and narrower definition of this term from his informants, namely ‘fish,
 excluding sharks, rays, eels, and also excluding cephalopods’ (Oram, field notes). Capell’s (1941)
@@ -20362,7 +20362,7 @@ _Polynesian_      |           |
 
 [6] _*paŋoda_. in turn, was probably diachronically a morphologically complex verb, reflecting the PMP prefix
  _*paN-_ ‘actor focus verb derivative’ plus a root, where *V represents a nasal consonant whose point of articula tion was homorganic with and replaced the initial consonant of the root. Compare POc _*kan-i_ ‘to eat sth.’ and
- _*paŋ-an_ 'to eat (intr)’ and other examples in Ross (1998:29-30). This suggests that _*paŋoda_ was an
+ _*paŋ-an_ 'to eat (intr)’ and other examples in Ross (1998c: 29-30). This suggests that _*paŋoda_ was an
  intransitive verb, one that referred to the general act of gathering seafood on the reef but could not be used to single out
  particular things gathered. The root in this verb was most likely POc _*koda_ or _*qoda_ ‘(v) eat raw seafood (flesh
  of fish or molluscs)’, '(n) raw seafood’ (Geraghty 1983. Lichtenberk 1994). with PMP antecedent _*qe(n)taq_

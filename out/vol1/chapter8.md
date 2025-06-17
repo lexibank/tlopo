@@ -1255,7 +1255,7 @@ From North New Guinea and New Ireland we have been able to reconstruct a lower-l
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
 <td>
-<i>&ast;maRi</i>
+<i>&ast;(m,mʷ)ali</i>
 </td>
 <td>
 '<span>Derris root</span>'</td>
@@ -1273,6 +1273,8 @@ From North New Guinea and New Ireland we have been able to reconstruct a lower-l
 </table>
 
 
+
+## FIXME:    PWOc _&ast;(m,mʷ)ali_ (incorrectly given as _&ast;maRi_ in vol. 1, ch.8, §7) is reconstructed on the basis of North New Guinea and Meso-Melanesian languages.
 
 The method of stunning fish by throwing pounded Derris root into pools is widespread, and the three terms seem to have identical reference, although Derris eliptica is not mentioned specifically in relation to _&ast;puna_. Describing the technique used by Sa'a speakers, a Southeast Solomons language, [Ivens](../references.md#source-Ivens1927) ([1927](../references.md#source-Ivens1927) (reissued 1972):389) writes that:
 
@@ -2438,7 +2440,7 @@ Another widespread method of catching birds involves the use of birdlime. Hooley
 
 > The sap of this tree (dagXem) is used as birdlime for catching birds. The sap is collected in a length of bamboo and is then heated over a fire. When it is boiling a stick is dipped in and twisted and the sap adhering to it is chewed to make it soft and then wrapped in cordyline leaves. The sap is then spread on a suitable tree branch so that when birds come to eat the fruit of that tree they are caught. (from word list held on computer file at ANU)
 
-Blust (1983-84a) has reconstructed Proto WMP _&ast;pikat_ or _&ast;piket_ 'birdlime' and _&ast;mamikat_ or _&ast;makiket_ 'snare birds with birdlime', but I have not been able to locate any Oceanic reflexes. The reconstruction given below evidently refers generally to gum or resin, although in one instance, in Arosi, it is the first element in a compound, _buruhasi_, meaning 'bird trap'. The second element, _hasi_, means 'adhere'.
+[Blust](../references.md#source-Blust1983) ([1983](../references.md#source-Blust1983)-84a) has reconstructed Proto WMP _&ast;pikat_ or _&ast;piket_ 'birdlime' and _&ast;mamikat_ or _&ast;makiket_ 'snare birds with birdlime', but I have not been able to locate any Oceanic reflexes. The reconstruction given below evidently refers generally to gum or resin, although in one instance, in Arosi, it is the first element in a compound, _buruhasi_, meaning 'bird trap'. The second element, _hasi_, means 'adhere'.
 
 <table>
 <tr>

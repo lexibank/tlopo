@@ -339,7 +339,7 @@ cf. also:
 <tr>
 <td>Mic</td>
 <td>Carolinian</td>
-<td><i>wali-wal</i></td>
+<td><i>walɨ-wal</i></td>
 <td>
 '<span>forest, jungle</span>'</td>
 </tr>
@@ -381,7 +381,7 @@ cf. also:
 <tr>
 <td>Mic</td>
 <td>Trukese</td>
-<td><i>wani-wan</i></td>
+<td><i>wənɨ-wən</i></td>
 <td>
 '<span>vegetation, bush</span>'</td>
 </tr>

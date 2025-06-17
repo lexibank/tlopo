@@ -2209,7 +2209,8 @@ In many Oceanic languages the word for ‘inside’ is the reflex of a POc body-
 <i>&ast;tinaqi</i>
 </td>
 <td>
-'<span>small intestine</span>' (<span>Blust 1981b</span>)</td>
+'<span>small intestine</span>' (<a href="../references.md#source-Blust1981b">Blust1981b</a>)
+</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
@@ -3497,7 +3498,7 @@ It is reasonably clear that the ‘inside’/‘outside’ opposition found in E
 
 <a id="p-256"></a>
 
-The terms in the set below could tempt us to reconstruct POc _&ast;luku-_ ‘side, outside’.[^16] However, their uneven distribution is suspicious, and it seems far more likely that they reflect PMP _&ast;likuD_, POc _&ast;liku(r)_ ‘(person’s) back’ ([Blust 1981](../references.md#source-Blust1981b)b). The meaning of scattered reflexes of this word has extended to include the backs and rear parts of inanimate objects (like POc _&ast;muri[-]_), and thence the external surfaces of objects in general. The specification of ‘back’ in the Marshallese and Woleaian reflexes below supports this interpretation.
+The terms in the set below could tempt us to reconstruct POc _&ast;luku-_ ‘side, outside’.[^16] However, their uneven distribution is suspicious, and it seems far more likely that they reflect PMP _&ast;likuD_, POc _&ast;liku(r)_ ‘(person’s) back’ ([Blust 1981b](../references.md#source-Blust1981b)). The meaning of scattered reflexes of this word has extended to include the backs and rear parts of inanimate objects (like POc _&ast;muri[-]_), and thence the external surfaces of objects in general. The specification of ‘back’ in the Marshallese and Woleaian reflexes below supports this interpretation.
 
 <table>
 <tr>

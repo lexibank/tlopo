@@ -374,11 +374,13 @@ Like other palms, the trunk of the betel pallm can be split and the outer wood u
 
 POc &ast;buaq 'Areca catechu' is unusual, as both it and POc &ast;puaq 'fruit' evidently reflect a single etymon, PMP &ast;buaq, which had many meanings. Blust (ACD) gives the following glosses:
 
-fruit; areca palm and nut; grain; berry; s1~ed; nut; endosperm of a sprouting coconut; kidney; heart; finger; calf of the leg; testicle; various insects; scar tissue; roe; bud; flower; blossom; bear fruit; words, speech, or songs; meaning, contents of discussion; numeral classifier for roundish objects.
+fruit; areca palm and nut; grain; berry; seed; nut; endosperm of a sprouting coconut; kidney; heart; finger; calf of the leg; testicle; various insects; scar tissue; roe; bud; flower; blossom; bear fruit; words, speech, or songs; meaning, contents of discussion; numeral classifier for roundish objects.
 
 He makes the following observations:
 
-1. PMP &ast;buaq formed the head of many head-attribute constructions which functioned as the names of particular fruits (&ast;buaq kuluR 'breadfruit', &ast;buaq niuR 'coconut', &ast;buaq pahuq 'mango ', &ast;buaq punti 'banana', etc.) … . 2. PMP &ast;buaq almost certainly functioned in addition as a numeral classifier which applied to roundish or fruit like objects … . 3. Most WMP and CMP reflexes support an inference that the meanings 'fruit' and 'areca nut' were associated with the same morpheme, but the Oc[eanic] evidence suggests that there were two homophonous morphemes. I assume that one morpheme expressed both meanings, but that in POc these meanings become disassociated and connected respectively with oral and nasal grade reflexes of PMP &ast;buaq (POc &ast;puaq 'fruit', &ast;mpuaq [our POc &ast;buaq] 'betel [areca] nut') … Quite how this disassociation occurred is not clear, as no other similar cases are known. In vol. 1 (ch.2, §2.4), I explained that PMP &ast;band &ast;p merged then split again into POc &ast;b and &ast;p. As a result, one cannot predict whether a PMP etymon with initial &ast;b- will begin with POc &ast;b- or with POc &ast;p--but PMP &ast;buaq is the only etymon known to have both outcomes, in POc &ast;buaq 'betel [areca] nut' and POc &ast;puaq 'fruit' .
+ 1. PMP &ast;buaq formed the head of many head-attribute constructions which functioned as the names of particular fruits (&ast;buaq kuluR 'breadfruit', &ast;buaq niuR 'coconut', &ast;buaq pahuq 'mango ', &ast;buaq punti 'banana', etc.) … .
+ 2. PMP &ast;buaq almost certainly functioned in addition as a numeral classifier which applied to roundish or fruit like objects … .
+ 3. Most WMP and CMP reflexes support an inference that the meanings 'fruit' and 'areca nut' were associated with the same morpheme, but the Oc[eanic] evidence suggests that there were two homophonous morphemes. I assume that one morpheme expressed both meanings, but that in POc these meanings become disassociated and connected respectively with oral and nasal grade reflexes of PMP &ast;buaq (POc &ast;puaq 'fruit', &ast;mpuaq [our POc &ast;buaq] 'betel [areca] nut') … Quite how this disassociation occurred is not clear, as no other similar cases are known. In vol. 1 (ch.2, §2.4), I explained that PMP &ast;band &ast;p merged then split again into POc &ast;b and &ast;p. As a result, one cannot predict whether a PMP etymon with initial &ast;b- will begin with POc &ast;b- or with POc &ast;p--but PMP &ast;buaq is the only etymon known to have both outcomes, in POc &ast;buaq 'betel [areca] nut' and POc &ast;puaq 'fruit' .
 
 Frantisek [Lichtenberk](../references.md#source-Lichtenberk1998) ([1998](../references.md#source-Lichtenberk1998)) examines the question of whether POc speakers chewed betelnut, concluding that they did, since a suite of terms associated with betel chewing can be reconstructed. Certainly there are no grounds in the set below for thinking that POc &ast;buaq was diffused across Oceanic languages rather than continued from POc. The easternmost limit of betelnut-chewing is in the Temotu Province of the Solomons, but &ast;buaq is reflected in Southern Vanuatu, where it is applied to palms of other kinds (John Lynch, pers. comm.).
 
@@ -532,7 +534,7 @@ Frantisek [Lichtenberk](../references.md#source-Lichtenberk1998) ([1998](../refe
 <tr>
 <td>MM</td><td>Banoni</td><td><i>buɣava</i></td>
 <td>
-'<span>Areca catechu</span>' (<span>metathesis of *bu(v)aɣa</span>)</td>
+'<span>Areca catechu</span>' (<span>metathesis of <em>*bu(v)aɣa</em></span>)</td>
 </tr>
 <tr>
 <td>MM</td><td>Uruava</td><td><i>bua</i></td>
@@ -542,7 +544,7 @@ Frantisek [Lichtenberk](../references.md#source-Lichtenberk1998) ([1998](../refe
 <tr>
 <td>MM</td><td>Torau</td><td><i>buka</i></td>
 <td>
-'<span>Areca catechu</span>' (<span>metathesis of *buak</span>)</td>
+'<span>Areca catechu</span>' (<span>metathesis of <em>*buak</em></span>)</td>
 </tr>
 <tr>
 <td>TM</td><td>Buma</td><td><i>buioe</i></td>
@@ -717,7 +719,7 @@ The reconstruction of POc &ast;[pu-]pulu 'betel pepper, Piper betle' is taken fr
 '<span>Piper betle</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Petats</td><td><i>sit</i></td>
+<td>MM</td><td>Petats</td><td><i>sil</i></td>
 <td>
 '<span>Piper betle</span>'</td>
 </tr>
@@ -732,7 +734,7 @@ The reconstruction of POc &ast;[pu-]pulu 'betel pepper, Piper betle' is taken fr
 '<span>Piper betle</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Banoni</td><td><i>siyana</i></td>
+<td>MM</td><td>Banoni</td><td><i>siɣana</i></td>
 <td>
 '<span>betel pepper catkin</span>'</td>
 </tr>
@@ -835,22 +837,22 @@ The best supported hypothesis appears to be that Piper methysticum is a domestic
 '<span>Piper subbullatum (?)</span>' (<span>metathesis</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td>Maringe</td><td><i>khori</i></td>
+<td>MM</td><td>Maringe</td><td><i>kʰori</i></td>
 <td>
 '<span>(use) fish poison</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Lehali</td><td><i>n-ya</i></td>
+<td>NCV</td><td>Lehali</td><td><i>n-ɣa</i></td>
 <td>
 '<span>kava</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>yea</i></td>
+<td>NCV</td><td>Mota</td><td><i>ɣea</i></td>
 <td>
 '<span>kava</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mwotlap</td><td><i>na-ya</i></td>
+<td>NCV</td><td>Mwotlap</td><td><i>na-ɣa</i></td>
 <td>
 '<span>kava</span>'</td>
 </tr>
@@ -885,7 +887,7 @@ The best supported hypothesis appears to be that Piper methysticum is a domestic
 '<span>brackish water</span>' (<span><em>wi</em> 'water'</span>)</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>(wa)gawa-gawa</i></td>
+<td>Fij</td><td>Bauan</td><td><i>(wā)gawa-gawa</i></td>
 <td>
 '<span>Piper betle</span>'</td>
 </tr>
@@ -991,14 +993,6 @@ The denotations of PCP &ast;kawa as 'Piper sp.', 'Zingiber spp.' and 'fish-poiso
 '<span>a creeper used to poison fish</span>'</td>
 </tr>
 <tr>
-<td><strong>PPn</strong></td><td> </td>
-<td>
-<i>&ast;kawa-susu</i>
-</td>
-<td>
-'<span>shrub sp., Tephrosia sp., used to poison fish</span>'</td>
-</tr>
-<tr>
 <td>Pn</td><td>Tongan</td><td><i>kava-haha</i></td>
 <td>
 '<span>Derris trifoliata, used as a fish poison</span>'</td>
@@ -1012,6 +1006,19 @@ The denotations of PCP &ast;kawa as 'Piper sp.', 'Zingiber spp.' and 'fish-poiso
 <td>Pn</td><td>Samoan</td><td><i>ʔava-sa</i></td>
 <td>
 '<span>shrub sp., T ephrosia purpurea sp., used to poison fish</span>'</td>
+</tr>
+</table>
+
+
+
+<table>
+<tr>
+<td><strong>PPn</strong></td><td> </td>
+<td>
+<i>&ast;kawa-susu</i>
+</td>
+<td>
+'<span>shrub sp., Tephrosia sp., used to poison fish</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Niuean</td><td><i>kau-huhu</i></td>
@@ -1097,11 +1104,11 @@ The denotations of PCP &ast;kawa as 'Piper sp.', 'Zingiber spp.' and 'fish-poiso
 
 Three genera of bamboos are represented in NW Island Melanesia: Bambusa, Schizostachyum and N astus. They are treated together here, since only one of the reconstructable terms can be related to a particular species. A number of species are often cultivated.
 
-Three species of Bambusa, all thick-walled, are reported from the region. The most com- mon in the Bismarcks and the largest in the Solomons is B. vulgaris, with a culm (walled stem) about 5-10 m high and 10--15cm in diameter and a short internode distance around 30-50 em. However, B. vulgaris was introduced after European contact (Rhys Gardner, pers. comm.) and was not among the denotata of the POc terms below. B. blumeana is very similar and apparently important only in Malaita. B. forbesii, reported from the Bismarcks, is smaller, with a culm 2-4 m high and 1-4cm diameter,, and has broad leaves ([Peekel 1984](../references.md#source-Peekel1984): 55-56, [Henderson & Hancock 1988](../references.md#source-HendersonandHancock1988): 203-205).
+Three species of Bambusa, all thick-walled, are reported from the region. The most common in the Bismarcks and the largest in the Solomons is B. vulgaris, with a culm (walled stem) about 5-10 m high and 10-15cm in diameter and a short internode distance around 30-50 cm. However, B. vulgaris was introduced after European contact (Rhys Gardner, pers. comm.) and was not among the denotata of the POc terms below. B. blumeana is very similar and apparently important only in Malaita. B. forbesii, reported from the Bismarcks, is smaller, with a culm 2-4 m high and 1-4cm diameter, and has broad leaves ([Peekel 1984](../references.md#source-Peekel1984): 55-56, [Henderson & Hancock 1988](../references.md#source-HendersonandHancock1988): 203-205).
 
 Bambusa bamboos are used in housing construction for beams and rafters, as well as to make containers for lime and water and tongs for lifting the hot stones of a stone oven ([Henderson & Hancock 1988](../references.md#source-HendersonandHancock1988): 204--205). At Marovo they are used to make large traditional tuna-fishing rods and a whole stem serves as a 'ladder' to climb sago palms in order to cut its fronds ([Hviding 2005](../references.md#source-Hviding2005): 117).
 
-Two species of the thin-walled genus Schizostachyum are reported from the region. No comparative account is available, but the two appear similar. S. lima, found in the Bismarcks, has a culm about 4--8 m high and 4--10cm in diameter, with internode lengths of 50-80 em ([Peekel 1984](../references.md#source-Peekel1984): 55). S. tessellatum, found in the Solomons, is described as tall and very thin, growing wild in many habitats in clumps 10 m tall. It is the only bamboo amongst the three genera that is observed to flower regularly
+Two species of the thin-walled genus Schizostachyum are reported from the region. No comparative account is available, but the two appear similar. S. lima, found in the Bismarcks, has a culm about 4--8 m high and 4--10cm in diameter, with internode lengths of 50-80 cm ([Peekel 1984](../references.md#source-Peekel1984): 55). S. tessellatum, found in the Solomons, is described as tall and very thin, growing wild in many habitats in clumps 10 m tall. It is the only bamboo amongst the three genera that is observed to flower regularly
 
 
 <a id="p-399"></a>
@@ -1116,23 +1123,47 @@ Figure 13.3: Nastus obtusus
 
 The term reconstructed as &ast;qauR 'bamboo spp.' below was probably the generic term for bamboos of the three genera mentioned above, as it still is in some modern languages. In Tolai, for example, we find the following:
 
-```
-   MM:      Tolai            kaur                 'Bambusa vulgaris'
-   MM:      Tolai            kaurlubaŋ           'Bambusa vulgaris, larger variety'
-   MM:      Tolai            kaur goragoro        'Schizostachyum lima'
-   MM:      Tolai            kaurlaur             'thin·-walled bamboo species'
-```
+<table>
+<tr>
+<td>MM</td>
+<td>Tolai</td>
+<td><i>kaur</i></td>
+<td>
+'<span>k. o. bamboo</span>'; '<span>bamboo, generic</span>' (<span><em><em>k~q_ _</em>r~R</em></span>); '<span>Bambusa vulgaris</span>'</td>
+</tr>
+<tr>
+<td>MM</td>
+<td>Tolai</td>
+<td><i>kaur lubaŋ</i></td>
+<td>
+'<span>Bambusa vulgaris, larger variety</span>'</td>
+</tr>
+<tr>
+<td>MM</td>
+<td>Tolai</td>
+<td><i>kaur goragoro</i></td>
+<td>
+'<span>k. o. bamboo of which flutes are made</span>'; '<span>Schizostachyum lima</span>'</td>
+</tr>
+<tr>
+<td>MM</td>
+<td>Tolai</td>
+<td><i>kaur laur</i></td>
+<td>
+'<span>thin-walled bamboo species</span>'</td>
+</tr>
+</table>
 
-PAn &ast;qauR 'bamboo' is attested in Fom1osan languages, PMP &ast;qauR 'bamboo' in languages across Indonesia (Blust,[ ACD ](../references.md#source-Blust1995)), and a number of Oceanic languages have reflexes indicating POc &ast;qauR. However, there are als:o a number of languages that reflect initial &ast;k- rather than &ast;q-, and I show below the POc segments seemingly reflected by the consonant(s) of each form in order to illuminate the discussion here. In those Remote Oceanic languages which reflect POc &ast;k- and &ast;q- differently from one another the form indeed reflects initial &ast;q-. However, in Meso-Melanesian languages which reflect POc &ast;k- and &ast;q- differently and in Temotu languages the form reflects &ast;k-, not &ast;q-.
+PAn _&ast;qauR_ 'bamboo' is attested in Fom1osan languages, PMP _&ast;qauR_ 'bamboo' in languages across Indonesia (Blust,[ ACD ](../references.md#source-Blust1995)), and a number of Oceanic languages have reflexes indicating POc _&ast;qauR_. However, there are als:o a number of languages that reflect initial _&ast;k-_ rather than _&ast;q-_, and I show below the POc segments seemingly reflected by the consonant(s) of each form in order to illuminate the discussion here. In those Remote Oceanic languages which reflect POc _&ast;k-_ and _&ast;q-_ differently from one another the form indeed reflects initial _&ast;q-_. However, in Meso-Melanesian languages which reflect POc _&ast;k-_ and _&ast;q-_ differently and in Temotu languages the form reflects _&ast;k-_, not _&ast;q-_.
 
 
 <a id="p-400"></a>
 
-On the basis of Meso-Melanesian reflexes POc &ast;kauR 'bamboo' was reconstructed as in vol.1 (ch.4, §6.2). However, non-Oceanic and Remote Oceanic data support &ast;qauR.[^7]
+On the basis of Meso-Melanesian reflexes POc &ast;kauR 'bamboo' was reconstructed as in vol.1 (ch.4, §6.2). However, non-Oceanic and Remote Oceanic data support _&ast;qauR_.[^7]
 
-Among languages which retain a reflex of the final consonant, Mussau and Petats reflect &ast;d or &ast;dr, rather than &ast;R, and Nakanai reflects &ast;s or &ast;c.[^8] The Bilibil, Gedaged and Sio forms reflect final &ast;-R where the final consonant is normally lost.
+Among languages which retain a reflex of the final consonant, Mussau and Petats reflect _&ast;d_ or _&ast;dr_, rather than _&ast;R_, and Nakanai reflects _&ast;s_ or _&ast;c_.[^8] The Bilibil, Gedaged and Sio forms reflect final _&ast;-R_ where the final consonant is normally lost.
 
-[Blust](../references.md#source-Blust1984) ([1984](../references.md#source-Blust1984)) reconstructed POc &ast;kaudru [^9] 'bamboo sp.' to account for the Mussau, Petats and Selau forms.[^10] However, it does not account for the other irregularities below, and its putative reflexes are here treated as (albeit irregular) reflexes of POc &ast;qauR. Instead, the simplest linguistic explanation of these irregularities is that the forms reflect borrowings among neighbouring Oceanic languages. Indeed, it is possible that some of the forms with regular reflexes also result from borrowings, but happen to have regular reflexes of the consonants. However, it is not easy to see why such borrowings might have occurred, unless much of Near Oceania lacked useful bamboo species, and new species were imported by Oceanic speakers. [Hviding](../references.md#source-Hviding2005) ([2005](../references.md#source-Hviding2005): 107, 112, 117) hints at this when he writes that old people say that B. vulgaris, B. blumeana, N. obtusus and a Schizostachyum species were all long ago introduced to Marovo from elsewhere. It is just possible that some of these borrowings were associated with the introduction of B. vulgaris after contact with Europeans.
+[Blust](../references.md#source-Blust1984) ([1984](../references.md#source-Blust1984)) reconstructed POc _&ast;kaudru_[^9] 'bamboo sp.' to account for the Mussau, Petats and Selau forms.[^10] However, it does not account for the other irregularities below, and its putative reflexes are here treated as (albeit irregular) reflexes of POc _&ast;qauR_. Instead, the simplest linguistic explanation of these irregularities is that the forms reflect borrowings among neighbouring Oceanic languages. Indeed, it is possible that some of the forms with regular reflexes also result from borrowings, but happen to have regular reflexes of the consonants. However, it is not easy to see why such borrowings might have occurred, unless much of Near Oceania lacked useful bamboo species, and new species were imported by Oceanic speakers. [Hviding](../references.md#source-Hviding2005) ([2005](../references.md#source-Hviding2005): 107, 112, 117) hints at this when he writes that old people say that B. vulgaris, B. blumeana, N. obtusus and a Schizostachyum species were all long ago introduced to Marovo from elsewhere. It is just possible that some of these borrowings were associated with the introduction of B. vulgaris after contact with Europeans.
 
 <table>
 <tr>
@@ -1164,152 +1195,152 @@ Among languages which retain a reflex of the final consonant, Mussau and Petats 
 <tr>
 <td>Adm</td><td>Mussau</td><td><i>kauru</i></td>
 <td>
-'<span>large bamboo from which combs are made</span>' (<span><em>k~q </em>d~dr</span>)</td>
+'<span>large bamboo from which combs are made</span>' (<span><em><em>k~q_ _</em>d~dr</em></span>)</td>
 </tr>
 <tr>
 <td>NNG</td><td>Mangap</td><td><i>kau-kau</i></td>
 <td>
-'<span>bamboo (big)</span>' (<span>*k~q</span>)</td>
+'<span>bamboo (big)</span>' (<span><em>*k~q</em></span>)</td>
 </tr>
 <tr>
 <td>NNG</td><td>Bilibil</td><td><i>aur</i></td>
 <td>
-'<span>bamboo</span>' (<span><em>k~q </em>r~R</span>)</td>
+'<span>bamboo</span>' (<span><em><em>k~q_ _</em>r~R</em></span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td>Gedaged</td><td><i>aui</i></td>
+<td>NNG</td><td>Gedaged</td><td><i>auɬ</i></td>
 <td>
-'<span>bamboo, tall with thick walls</span>' (<span><em>k~q </em>r~R</span>)</td>
+'<span>bamboo, tall with thick walls</span>' (<span><em><em>k~q_ _</em>r~R</em></span>)</td>
 </tr>
 <tr>
 <td>NNG</td><td>Sio</td><td><i>kaul(a)</i></td>
 <td>
-'<span>bamboo</span>' (<span><em>k~q </em>r~R</span>)</td>
+'<span>bamboo</span>' (<span><em><em>k~q_ _</em>r~R</em></span>)</td>
 </tr>
 <tr>
 <td>NNG</td><td>Lukep (Pono)</td><td><i>kau-kau</i></td>
 <td>
-'<span>bamboo</span>' (<span>*k~q</span>)</td>
+'<span>bamboo</span>' (<span><em>*k~q</em></span>)</td>
 </tr>
 <tr>
 <td>NNG</td><td>Atui</td><td><i>kaur</i></td>
 <td>
-'<span>bamboo</span>' (<span><em>k~q </em>r~R~d~dr</span>)</td>
+'<span>bamboo</span>' (<span><em><em>k~q_ _</em>r~R~d~dr</em></span>)</td>
 </tr>
 <tr>
 <td>NNG</td><td>Akolet</td><td><i>e-kaur</i></td>
 <td>
-'<span>bamboo</span>' (<span><em>k~q </em>r~R~d~dr</span>)</td>
+'<span>bamboo</span>' (<span><em><em>k~q_ _</em>r~R~d~dr</em></span>)</td>
 </tr>
 <tr>
 <td>MM</td><td>Bali</td><td><i>kaura</i></td>
 <td>
-'<span>bamboo</span>' (<span><em>k </em>r~R</span>)</td>
+'<span>bamboo</span>' (<span><em><em>k_ _</em>r~R</em></span>)</td>
 </tr>
 <tr>
 <td>MM</td><td>Nakanai</td><td><i>kauru</i></td>
 <td>
-'<span>large bamboo</span>' (<span><em>k </em>s~c</span>)</td>
+'<span>large bamboo</span>' (<span><em><em>k_ _</em>s~c</em></span>)</td>
 </tr>
 <tr>
 <td>MM</td><td>Ramoaaina</td><td><i>kauru</i></td>
 <td>
-'<span>bamboo</span>' (<span><em>k~q </em>r~R</span>)</td>
+'<span>bamboo</span>' (<span><em><em>k~q_ _</em>r~R</em></span>)</td>
 </tr>
 <tr>
 <td>MM</td><td>Tolai</td><td><i>kaur</i></td>
 <td>
-'<span>bamboo, generic</span>' (<span><em>k~q </em>r~R</span>)</td>
+'<span>bamboo, generic</span>' (<span><em><em>k~q_ _</em>r~R</em></span>)</td>
 </tr>
 <tr>
 <td>MM</td><td>Patpatar</td><td><i>kor</i></td>
 <td>
-'<span>bamboo, generic</span>' (<span><em>k~q </em>r~R</span>)</td>
+'<span>bamboo, generic</span>' (<span><em><em>k~q_ _</em>r~R</em></span>)</td>
 </tr>
 <tr>
 <td>MM</td><td>Petats</td><td><i>kahur</i></td>
 <td>
-'<span>bamboo</span>' (<span><em>k </em>d~dr</span>)</td>
+'<span>bamboo</span>' (<span><em><em>k_ _</em>d~dr</em></span>)</td>
 </tr>
 <tr>
 <td>MM</td><td>Halia</td><td><i>kawur</i></td>
 <td>
-'<span>bamboo</span>' (<span><em>k </em>r~R~d~dr</span>)</td>
+'<span>bamboo</span>' (<span><em><em>k_ _</em>r~R~d~dr</em></span>)</td>
 </tr>
 <tr>
 <td>MM</td><td>Mono-Alu</td><td><i>aulu</i></td>
 <td>
-'<span>bamboo sp.</span>' (<span><em>k </em>r~R~l</span>)</td>
+'<span>bamboo sp.</span>' (<span><em><em>k_ _</em>r~R~l</em></span>)</td>
 </tr>
 <tr>
 <td>SES</td><td>Gela</td><td><i>ɣau</i></td>
 <td>
-'<span>a bamboo, bamboo knife</span>' (<span>*k~q</span>)</td>
+'<span>a bamboo, bamboo knife</span>' (<span><em>*k~q</em></span>)</td>
 </tr>
 <tr>
 <td>SES</td><td>Bugotu</td><td><i>ɣau</i></td>
 <td>
-'<span>bamboo; bamboo sliver used as a knife</span>' (<span>*k~q</span>)</td>
+'<span>bamboo; bamboo sliver used as a knife</span>' (<span><em>*k~q</em></span>)</td>
 </tr>
 <tr>
 <td>SES</td><td>West Guadalcanal</td><td><i>ɣau-ɣau</i></td>
 <td>
-'<span>bamboo</span>' (<span>*k~q</span>)</td>
+'<span>bamboo</span>' (<span><em>*k~q</em></span>)</td>
 </tr>
 <tr>
 <td>SES</td><td>Lau</td><td><i>ʔau</i></td>
 <td>
-'<span>bamboo</span>' (<span>*k~q</span>)</td>
+'<span>bamboo</span>' (<span><em>*k~q</em></span>)</td>
 </tr>
 <tr>
 <td>SES</td><td>Kwara’ae</td><td><i>kaʔo</i></td>
 <td>
-'<span>bamboo (generic)</span>' (<span>*k~q</span>)</td>
+'<span>bamboo (generic)</span>' (<span><em>*k~q</em></span>)</td>
 </tr>
 <tr>
 <td>SES</td><td>Kwaio</td><td><i>ʔau</i></td>
 <td>
-'<span>bamboo (generic)</span>' (<span>*k~q</span>)</td>
+'<span>bamboo (generic)</span>' (<span><em>*k~q</em></span>)</td>
 </tr>
 <tr>
 <td>SES</td><td>Sa'a</td><td><i>äu</i></td>
 <td>
-'<span>bamboo</span>' (<span>*k~q</span>)</td>
+'<span>bamboo</span>' (<span><em>*k~q</em></span>)</td>
 </tr>
 <tr>
 <td>SES</td><td>Arosi</td><td><i>ʔau</i></td>
 <td>
-'<span>a bamboo</span>' (<span>*k~q</span>)</td>
+'<span>a bamboo</span>' (<span><em>*k~q</em></span>)</td>
 </tr>
 <tr>
 <td>NCV</td><td>Mota</td><td><i>au</i></td>
 <td>
-'<span>the bamboo, generic</span>' (<span>*k~q</span>)</td>
+'<span>the bamboo, generic</span>' (<span><em>*k~q</em></span>)</td>
 </tr>
 <tr>
 <td>NCV</td><td>S.E. Ambrym</td><td><i>eou</i></td>
 <td>
-'<span>bamboo</span>' (<span>*k~q</span>)</td>
+'<span>bamboo</span>' (<span><em>*k~q</em></span>)</td>
 </tr>
 <tr>
 <td>NCV</td><td>Paamese</td><td><i>eau</i></td>
 <td>
-'<span>bamboo</span>' (<span>*k~q</span>)</td>
+'<span>bamboo</span>' (<span><em>*k~q</em></span>)</td>
 </tr>
 <tr>
 <td>NCV</td><td>Lewo</td><td><i>(pla)yu</i></td>
 <td>
-'<span>bamboo, as knife</span>' (<span>*k~q</span>)</td>
+'<span>bamboo, as knife</span>' (<span><em>*k~q</em></span>)</td>
 </tr>
 <tr>
 <td>NCV</td><td>Port Sandwich</td><td><i>n-au</i></td>
 <td>
-'<span>arrow</span>' (<span>*k~q</span>)</td>
+'<span>arrow</span>' (<span><em>*k~q</em></span>)</td>
 </tr>
 <tr>
 <td>NCV</td><td>Namakir</td><td><i>ʔo</i></td>
 <td>
-'<span>bamboo</span>' (<span>*q</span>)</td>
+'<span>bamboo</span>' (<span><em>*q</em></span>)</td>
 </tr>
 <tr>
 <td>NCV</td><td>Nguna</td><td><i>na-au</i></td>
@@ -1319,57 +1350,57 @@ Among languages which retain a reflex of the final consonant, Mussau and Petats 
 <tr>
 <td>SV</td><td>Sye</td><td><i>n-au</i></td>
 <td>
-'<span>bamboo</span>' (<span>*q</span>)</td>
+'<span>bamboo</span>' (<span><em>*q</em></span>)</td>
 </tr>
 <tr>
 <td>SV</td><td>Ura</td><td><i>n-au</i></td>
 <td>
-'<span>spear</span>' (<span>*q</span>)</td>
+'<span>spear</span>' (<span><em>*q</em></span>)</td>
 </tr>
 <tr>
 <td>SV</td><td>N. Tanna</td><td><i>n-ao</i></td>
 <td>
-'<span>bamboo</span>' (<span>*q</span>)</td>
+'<span>bamboo</span>' (<span><em>*q</em></span>)</td>
 </tr>
 <tr>
 <td>SV</td><td>Whitesands</td><td><i>n-au</i></td>
 <td>
-'<span>bamboo</span>' (<span>*q</span>)</td>
+'<span>bamboo</span>' (<span><em>*q</em></span>)</td>
 </tr>
 <tr>
 <td>SV</td><td>Lenakel</td><td><i>n-au</i></td>
 <td>
-'<span>bamboo</span>' (<span>*q</span>)</td>
+'<span>bamboo</span>' (<span><em>*q</em></span>)</td>
 </tr>
 <tr>
 <td>SV</td><td>Kwamera</td><td><i>n-au</i></td>
 <td>
-'<span>bamboo</span>' (<span>*q</span>)</td>
+'<span>bamboo</span>' (<span><em>*q</em></span>)</td>
 </tr>
 <tr>
 <td>SV</td><td>Anejom</td><td><i>n-au</i></td>
 <td>
-'<span>bamboo</span>' (<span>*q</span>)</td>
+'<span>bamboo</span>' (<span><em>*q</em></span>)</td>
 </tr>
 <tr>
 <td>NCal</td><td>Nêlêmwâ</td><td><i>ŋ-ga</i></td>
 <td>
-'<span>bamboo</span>' (<span>*q</span>)</td>
+'<span>bamboo</span>' (<span><em>*q</em></span>)</td>
 </tr>
 <tr>
 <td>NCal</td><td>Nyelâyu</td><td><i>ŋ-gao</i></td>
 <td>
-'<span>bamboo</span>' (<span>*q</span>)</td>
+'<span>bamboo</span>' (<span><em>*q</em></span>)</td>
 </tr>
 <tr>
 <td>NCal</td><td>Jawe</td><td><i>ŋ-go</i></td>
 <td>
-'<span>bamboo</span>' (<span>*q</span>)</td>
+'<span>bamboo</span>' (<span><em>*q</em></span>)</td>
 </tr>
 <tr>
 <td>NCal</td><td>Pije</td><td><i>(du)ko</i></td>
 <td>
-'<span>bamboo</span>' (<span>*q</span>)</td>
+'<span>bamboo</span>' (<span><em>*q</em></span>)</td>
 </tr>
 </table>
 
@@ -1435,42 +1466,42 @@ Reflexes of POc &ast;bʷau 'bamboo' are largely complementary to those of &ast;q
 '<span>bamboo</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Wedau</td><td><i>hau-hau</i></td>
+<td>PT</td><td>Wedau</td><td><i>bau-bau</i></td>
 <td>
 '<span>bamboo</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Tawala</td><td><i>hau-hau</i></td>
+<td>PT</td><td>Tawala</td><td><i>bau-bau</i></td>
 <td>
 '<span>bamboo</span>'</td>
 </tr>
 <tr>
-<td>None</td><td>Tubetube</td><td><i>hau-hau</i></td>
+<td>None</td><td>Tubetube</td><td><i>bau-bau</i></td>
 <td>
 '<span>bamboo</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>hau</i></td>
+<td>PT</td><td>Motu</td><td><i>bau</i></td>
 <td>
 '<span>bamboo</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Marshallese</td><td><i>hwae</i></td>
+<td>Mic</td><td>Marshallese</td><td><i>bʷae</i></td>
 <td>
 '<span>bamboo</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Woleaian</td><td><i>pʷai</i></td>
+<td>Mic</td><td>Woleaian</td><td><i>pʷāɨ</i></td>
 <td>
 '<span>bamboo</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Trukese</td><td><i>pʷaw</i></td>
+<td>Mic</td><td>Trukese</td><td><i>pʷāw</i></td>
 <td>
 '<span>bamboo</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Puluwatese</td><td><i>pʷay</i></td>
+<td>Mic</td><td>Puluwatese</td><td><i>pʷāy</i></td>
 <td>
 '<span>bamboo</span>'</td>
 </tr>
@@ -1494,7 +1525,7 @@ The two reconstructions below are better supported by non-Oceanic than by Oceani
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td>
-<i>&ast;hituŋ, pituŋ</i>
+<i>&ast;bituŋ, pituŋ</i>
 </td>
 <td>
 '<span>bamboo sp.</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
@@ -1503,7 +1534,7 @@ The two reconstructions below are better supported by non-Oceanic than by Oceani
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
-<i>&ast;hitu(ŋ)</i>
+<i>&ast;bitu(ŋ)</i>
 </td>
 <td>
 '<span>bamboo sp.</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
@@ -1512,19 +1543,19 @@ The two reconstructions below are better supported by non-Oceanic than by Oceani
 <tr>
 <td><strong>PCP</strong></td><td> </td>
 <td>
-<i>&ast;hitu</i>
+<i>&ast;bitu</i>
 </td>
 <td>
 '<span>bamboo sp., probably Schizostachyum glaucifolium</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>hitu</i></td>
+<td>Fij</td><td>Wayan</td><td><i>bitu</i></td>
 <td>
 '<span>generic for two bamboo species, Schizostachyum glaucifolium and Bambusa vulgaris</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>hitu</i></td>
+<td>Fij</td><td>Bauan</td><td><i>bitu</i></td>
 <td>
 '<span>bamboo, Bambusa sp. or Schizostachyum glaucifolium</span>'</td>
 </tr>
@@ -1541,7 +1572,7 @@ The two reconstructions below are better supported by non-Oceanic than by Oceani
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td>
-<i>&ast;hetuŋ</i>
+<i>&ast;betuŋ</i>
 </td>
 <td>
 '<span>bamboo of very large diameter, probably Dendrocalamus sp.</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
@@ -1550,7 +1581,7 @@ The two reconstructions below are better supported by non-Oceanic than by Oceani
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
-<i>&ast;hotu(ŋ)</i>
+<i>&ast;botu(ŋ)</i>
 </td>
 <td>
 '<span>large bamboo, presumably Bambusa sp.</span>' (<span>ACD: *potuŋ</span>)</td>
@@ -1600,53 +1631,53 @@ The two reconstructions below are better supported by non-Oceanic than by Oceani
 
 <a id="p-403"></a>
 
-The only non-WOe evidence for POc &ast;hwele 'bamboo' is from Lonwolwol (NCV), where hwele-ho consists of hwele- 'hollow vessel' and ho, apparently reflecting PNCV &ast;hue 'made of bamboo' (see below). A possible inference is that &ast;hwele denoted bamboo as a household utensil, e.g. a container for water.
+The only non-WOe evidence for POc _&ast;bʷele_ 'bamboo' is from Lonwolwol (NCV), where _bʷele-bo_ consists of _bʷele-_ 'hollow vessel' and _bo_, apparently reflecting PNCV _&ast;bue_ 'made of bamboo' (see below). A possible inference is that _&ast;bʷele_ denoted bamboo as a household utensil, e.g. a container for water.
 
 <table>
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
-<i>&ast;hwele</i>
+<i>&ast;bʷele</i>
 </td>
 <td>
 '<span>bamboo sp.</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Mapos Buang</td><td><i>a-pel</i></td>
+<td>NNG</td><td>Mapos Buang</td><td><i>a-pɛl</i></td>
 <td>
 '<span>bamboo sp.</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Patep</td><td><i>pel</i></td>
+<td>NNG</td><td>Patep</td><td><i>pɛel</i></td>
 <td>
 '<span>bamboo sp.</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Bulu</td><td><i>hele</i></td>
+<td>MM</td><td>Bulu</td><td><i>bele</i></td>
 <td>
 '<span>bamboo sp.</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nakanai</td><td><i>hele</i></td>
+<td>MM</td><td>Nakanai</td><td><i>bele</i></td>
 <td>
 '<span>small cultivated bamboo used for thatching rods</span>' (<a href="../references.md#source-Goodenough1997">Goodenough1997</a>)
 </td>
 </tr>
 <tr>
-<td>MM</td><td>Tiang</td><td><i>hele</i></td>
+<td>MM</td><td>Tiang</td><td><i>bele</i></td>
 <td>
 '<span>bamboo sp.</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Lonwolwol</td><td><i>hwele(ho)</i></td>
+<td>NCV</td><td>Lonwolwol</td><td><i>bʷele(bo)</i></td>
 <td>
-'<span>bamboo</span>' (<span>b'vele- 'hollow vessel'; -ho &lt;POc *hue '(made of) bamboo'</span>)</td>
+'<span>bamboo</span>' (<span><em>bʷele-</em> 'hollow vessel'; <em>-bo</em> &lt;POc <em>*bue</em> '(made of) bamboo'</span>)</td>
 </tr>
 </table>
 
 
 
-Hus (Adm) au 'bamboo' corresponds regularly with the NCV items below, implying that it and PNCV &ast;hue both reflect a POc &ast;hue '(made of) bamboo'.
+Hus (Adm) _ʙu_ 'bamboo' corresponds regularly with the NCV items below, implying that it and PNCV _&ast;bue_ both reflect a POc _&ast;bue_ '(made of) bamboo'.
 
 <table>
 <tr>
@@ -1667,7 +1698,7 @@ Hus (Adm) au 'bamboo' corresponds regularly with the NCV items below, implying t
 </td>
 </tr>
 <tr>
-<td>Adm</td><td>Hus</td><td><i>au</i></td>
+<td>Adm</td><td>Hus</td><td><i>ʙu</i></td>
 <td>
 '<span>bamboo</span>' (<a href="../references.md#source-Nevermann1934">Nevermann1934</a>)
 </td>
@@ -1703,7 +1734,7 @@ Hus (Adm) au 'bamboo' corresponds regularly with the NCV items below, implying t
 '<span>bamboo tree</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Uripiv</td><td><i>na-au</i></td>
+<td>NCV</td><td>Uripiv</td><td><i>na-ʙu</i></td>
 <td>
 '<span>bamboo</span>'</td>
 </tr>
@@ -1723,7 +1754,7 @@ Hus (Adm) au 'bamboo' corresponds regularly with the NCV items below, implying t
 '<span>bamboo</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Lonwolwol</td><td><i>(bʷele)ho</i></td>
+<td>NCV</td><td>Lonwolwol</td><td><i>(bʷele)bo</i></td>
 <td>
 '<span>bamboo</span>' (<span><em>bʷele-</em> 'hollow vessel, empty shell of</span>)</td>
 </tr>
@@ -1753,7 +1784,7 @@ Figure 13.4: Aleurites moluccana: A, tree; B, leaves and inflorescence; C, whole
 
 The candlenut owes its name to the fact that in earlier times the nuts were threaded onto the midrib of a coconut palm leaf and lit, burning slowly one after another and giving a feeble light. The smoke given off is also a good insect repellant ([Sperlich 1997](../references.md#source-Sperlich1997)). Charred seeds are used in New Ireland to make a sooty paint for blackening the face in mourning ([Peekel 1984](../references.md#source-Peekel1984): 313) and by Ponapeans for making a black or brown dye. The oil extracted from them is also used as a paint base in New Britain ([Powell 1976](../references.md#source-Powell1976)) and to polish wood in Fiji, where an extract of the seed is also used to scent the oil ([Gardner & Pawley 2006](../references.md#source-GardnerandPawley2006)). The products of A. moluccana have numerous medicinal uses ([Walter & Sam 2002](../references.md#source-WalterandSam2002): 89).
 
-POc &ast;tuRi-tuRi 'A. moluccana' is reconstructed below. It is quite widely supported, but it is by no means certain that its denotatum was A. moluccana. Blust (ACD) reconstructs PEMP &ast;tuRi-tuRi 'A. moluccana' on the basis of Biak kuker 'tree with edible nut' and Central Pacific reflexes. However, [Geraghty](../references.md#source-Geraghty2004) ([2004](../references.md#source-Geraghty2004): 72) believes that PPn &ast;tuitui 'A. moluccana' was identical with &ast;tuitui 'strung together', reflecting the fact that candlenuts are strung together for use as torches or sources of dye. He does not discuss Blust's reconstruction, but if Geraghty is right, the Biak, Motu and Roro terms must be dismissed as chance resemblances (none has the specific gloss A. muluccana).
+POc _&ast;tuRi-tuRi_ 'A. moluccana' is reconstructed below. It is quite widely supported, but it is by no means certain that its denotatum was A. moluccana. Blust (ACD) reconstructs PEMP _&ast;tuRi-tuRi_ 'A. moluccana' on the basis of Biak kuker 'tree with edible nut' and Central Pacific reflexes. However, [Geraghty](../references.md#source-Geraghty2004) ([2004](../references.md#source-Geraghty2004): 72) believes that PPn _&ast;tuitui_ 'A. moluccana' was identical with _&ast;tuitui_ 'strung together', reflecting the fact that candlenuts are strung together for use as torches or sources of dye. He does not discuss Blust's reconstruction, but if Geraghty is right, the Biak, Motu and Roro terms must be dismissed as chance resemblances (none has the specific gloss A. muluccana).
 
 <table>
 <tr>
@@ -1865,7 +1896,7 @@ As Osmond & Ross noted in vol.1 (ch.4, §5.1), [Kooijman](../references.md#sourc
 
 Figure 13.5: Broussonetia papyrifera, paper mulberry
 
-POc &ast;malo probably denoted B. papyrifera, the tree which throughout much of the Pacific provides the bast from which barkcloth is made. If this is so, then B. papyrifera must have been introduced into the Pacific islands by early Oceanic speakers. [Matthews](../references.md#source-Matthews1996) ([1996](../references.md#source-Matthews1996)), however, notes its absence from the Philippines and Borneo, and thinks it possible that it did not arrive in Polynesia with the earliest colonisers. POc &ast;malo also denoted the cloth and the male genital covering made from it, and it is just possible that these were its primary meanings. It is also possible that some of the reflexes below reflect early Pacific Pidgin malo or maro 'loincloth'. PMP &ast;mal(u,aw) apparently denoted a species of tree which provided bast for clothmaking, but it is unclear which species this was, as it is reconstructed on the basis of POc &ast;malo and Kaili (WMP, Sulawesi: Parigi dialect) malo 'old term for Trema amboinensis, the tree whose bast is most commonly used for barkcloth in Sulawesi' ([Adriani & Kruijt 1901](../references.md#source-AdrianiandKruijt1901): 140, note 5, cited by R. [Kennedy 1934](../references.md#source-Kennedy1934): 242).
+POc _&ast;malo_ probably denoted B. papyrifera, the tree which throughout much of the Pacific provides the bast from which barkcloth is made. If this is so, then B. papyrifera must have been introduced into the Pacific islands by early Oceanic speakers. [Matthews](../references.md#source-Matthews1996) ([1996](../references.md#source-Matthews1996)), however, notes its absence from the Philippines and Borneo, and thinks it possible that it did not arrive in Polynesia with the earliest colonisers. POc _&ast;malo_ also denoted the cloth and the male genital covering made from it, and it is just possible that these were its primary meanings. It is also possible that some of the reflexes below reflect early Pacific Pidgin malo or maro 'loincloth'. PMP _&ast;mal(u,aw)_ apparently denoted a species of tree which provided bast for clothmaking, but it is unclear which species this was, as it is reconstructed on the basis of POc _&ast;malo_ and Kaili (WMP, Sulawesi: Parigi dialect) _malo_ 'old term for Trema amboinensis, the tree whose bast is most commonly used for barkcloth in Sulawesi' ([Adriani & Kruijt 1901](../references.md#source-AdrianiandKruijt1901): 140, note 5, cited by R. [Kennedy 1934](../references.md#source-Kennedy1934): 242).
 
 <table>
 <tr>
@@ -1915,7 +1946,7 @@ POc &ast;malo probably denoted B. papyrifera, the tree which throughout much of 
 </td>
 </tr>
 <tr>
-<td>MM</td><td>Patpatar</td><td><i>mal</i></td>
+<td>MM</td><td>Patpatar</td><td><i>māl</i></td>
 <td>
 '<span>cloth, clothing</span>'</td>
 </tr>
@@ -1970,7 +2001,7 @@ POc &ast;malo probably denoted B. papyrifera, the tree which throughout much of 
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
-<i>&ast;m(w)ase</i>
+<i>&ast;(m,mʷ)ase</i>
 </td>
 <td>
 '<span>wild mulberry, paper mulberry, Broussonetia papyrifera</span>' (<a href="../references.md#source-Ross1996d">Ross1996d</a>)
@@ -2139,7 +2170,7 @@ The distributions of POc &ast;fiofiu and &ast;kurat are complementary: &ast;kura
 <tr>
 <td><strong>PSV</strong></td><td> </td>
 <td>
-<i>&ast;na-yura(t,c)</i>
+<i>&ast;na-ɣura(t,c)</i>
 </td>
 <td>
 '<span>Morinda citrifolia</span>' (<a href="../references.md#source-Lynch2001c">Lynch2001c</a>)
@@ -2315,7 +2346,9 @@ D. trifoliata is a smaller species but has a thicker stem, larger leaves and a w
 
 It seems likely that POc &ast;tupa referred to Derris creepers in general, or at least to those used in fishing, and perhaps also to D. elliptica in particular, as this was the source of the strongest poison. Also reconstructable are
 
-- POc &ast;puna(t) 'vine used for fish poison, probably Derris elliptica' - PWOc &ast;m(ʷ)ali 'Derris sp.' - Proto Remote Oceanic &ast;vuba 'k.o. vine, probably Derris elliptica'
+- POc &ast;puna(t) 'vine used for fish poison, probably Derris elliptica'
+- PWOc &ast;m(ʷ)ali 'Derris sp.'
+- Proto Remote Oceanic &ast;vuba 'k.o. vine, probably Derris elliptica'
 
 but I am unable to determine how they differed in meaning from each other or from &ast;tupa.
 
@@ -2429,19 +2462,19 @@ but I am unable to determine how they differed in meaning from each other or fro
 '<span>Derris sp. usually trifoliata</span>' (<span>nos 'vine'</span>)</td>
 </tr>
 <tr>
-<td>NCal</td><td>Nyelâyu</td><td><i>(fiale)jep</i></td>
+<td>NCal</td><td>Nyelâyu</td><td><i>(ñale)jep</i></td>
 <td>
 '<span>derris root</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Xârâcùù</td><td><i>(kwa)di</i></td>
+<td>NCal</td><td>Xârâcùù</td><td><i>(kʷa)dɨ</i></td>
 <td>
 '<span>derris root</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Woleaian</td><td><i>supe</i></td>
+<td>Mic</td><td>Woleaian</td><td><i>sūpe</i></td>
 <td>
-'<span>fish poison (root)</span>' (<span>-p- fort-f-</span>)</td>
+'<span>fish poison (root)</span>' (<span><em>-p-</em> for †<em>-f-</em></span>)</td>
 </tr>
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>tuva</i></td>
@@ -2518,7 +2551,7 @@ PMP &ast;bunat is reconstructed on the basis of the Oceanic data here and Botola
 
 <a id="p-411"></a>
 
-PWOc &ast;m (wJali (incorrectly given as &ast;maRi in vol. 1, ch.8, §7) is reconstructed on the basis of North New Guinea and Meso-Melanesian languages:
+PWOc _&ast;(m,mʷ)ali_ (incorrectly given as _&ast;maRi_ in vol. 1, ch.8, §7) is reconstructed on the basis of North New Guinea and Meso-Melanesian languages:
 
 <table>
 <tr>
@@ -2647,11 +2680,11 @@ The turmeric: plant, Curcuma longa, is much smaller than Alpinia species, being 
 
 Although it grows readily in the wild in locations where there is light, the Marovo and Kwara'ae sources also report that it is often cultivated. The rhizome provides spice. It is also a source of yellow dye, but the colour fades easily ([Floyd 1954](../references.md#source-Floyd1954), [Peekel 1984](../references.md#source-Peekel1984): 109). At Marovo the aromatic leaves are used for parcelling fish for the stone oven.
 
-Turmeric: also has ritual significance. At Marovo it is planted to keep evil spirits away from gardens, and in both Marovo and Kwara'ae the roots are chewed and spat out of the door or window of the house to fend off evil spirits ([Hviding 2005](../references.md#source-Hviding2005): 131). The Kwara'ae also chew it both with betelnut and alone, the latter both as a snack and medicinally.
+Turmeric also has ritual significance. At Marovo it is planted to keep evil spirits away from gardens, and in both Marovo and Kwara'ae the roots are chewed and spat out of the door or window of the house to fend off evil spirits ([Hviding 2005](../references.md#source-Hviding2005): 131). The Kwara'ae also chew it both with betelnut and alone, the latter both as a snack and medicinally.
 
 Figure 13.7     Curcuma longa
 
-There are two reconstructions, POc &ast;yaŋo and PEOc &ast;refJ (wJa. There is some evidence in the glosses of reflexes that the latter meant yellow material, including prepared turmeric and perhaps the yolk of an egg.
+There are two reconstructions, POc _&ast;yaŋo_ and PEOc _&ast;re(ŋ,ŋʷ)a_. There is some evidence in the glosses of reflexes that the latter meant yellow material, including prepared turmeric and perhaps the yolk of an egg.
 
 <table>
 <tr>
@@ -2666,7 +2699,7 @@ There are two reconstructions, POc &ast;yaŋo and PEOc &ast;refJ (wJa. There is 
 <tr>
 <td>NNG</td><td>Mangap</td><td><i>(n)aŋgo-ŋgo(ŋana)</i></td>
 <td>
-'<span>a plant, ginger type, yellow when crushed</span>' (<span>-ŋana 'nominaliser'</span>)</td>
+'<span>a plant, ginger type, yellow when crushed</span>' (<span><em>-ŋana</em> 'nominaliser'</span>)</td>
 </tr>
 <tr>
 <td>NNG</td><td>Adzera</td><td><i>yaŋa(n)</i></td>
@@ -2704,7 +2737,7 @@ There are two reconstructions, POc &ast;yaŋo and PEOc &ast;refJ (wJa. There is 
 '<span>turmeric</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Ponapean</td><td><i>ɔ̄fj</i></td>
+<td>Mic</td><td>Ponapean</td><td><i>ɔ̄ŋ</i></td>
 <td>
 '<span>turmeric</span>'</td>
 </tr>
@@ -2750,7 +2783,7 @@ There are two reconstructions, POc &ast;yaŋo and PEOc &ast;refJ (wJa. There is 
 
 <a id="p-413"></a>
 
-The root above was the source of the POc term for 'yellow', &ast;yaŋo-yaŋo:
+The root above was the source of the POc term for 'yellow', _&ast;yaŋo-yaŋo_:
 
 <table>
 <tr>
@@ -2828,7 +2861,7 @@ The root above was the source of the POc term for 'yellow', &ast;yaŋo-yaŋo:
 <i>&ast;[re]reŋʷa</i>
 </td>
 <td>
-'<span>yellow material, prepared turmeric(?)</span>' (<a href="../references.md#source-Biggs1965">Biggs1965: *reŋa</a>)
+'<span>yellow material, prepared turmeric(?)</span>' (<a href="../references.md#source-Biggs1965">Biggs1965: _*reŋa_</a>)
 </td>
 </tr>
 <tr>
@@ -2914,9 +2947,9 @@ Zingiber officinale (common ginger), 50-12<0cm tall, cultivated and wild, serves
 
 If it is true that Z. officinale did not find its way into Remote Oceania with Oceanic speakers, then one must ask whether it had in fact arrived in NW Island Melanesia by POc times. This is a matter which seems to require further research.
 
-In Marovo wild ginger was associated with magic and sorcery. The leaves of particular varieties were important in calling on ancestor spirits, and the roots were chewed for magi- cal purposes. In earlier times, one was planted at each comer of a garden to protect it against destructive magic. The roots of some varieties are chewed for their healing properties. Because of these associations, ginger is rarely used in ordinary cooking ([Hviding 2005](../references.md#source-Hviding2005): 130). 16 [Peekel](../references.md#source-Peekel1984) ([1984](../references.md#source-Peekel1984): 101) in any case reports that the rhizome of Z. zerumbet is less tasty than those of other Zingiber species.
+In Marovo wild ginger was associated with magic and sorcery. The leaves of particular varieties were important in calling on ancestor spirits, and the roots were chewed for magical purposes. In earlier times, one was planted at each comer of a garden to protect it against destructive magic. The roots of some varieties are chewed for their healing properties. Because of these associations, ginger is rarely used in ordinary cooking ([Hviding 2005](../references.md#source-Hviding2005): 130).[^16] [Peekel](../references.md#source-Peekel1984) ([1984](../references.md#source-Peekel1984): 101) in any case reports that the rhizome of Z. zerumbet is less tasty than those of other Zingiber species.
 
-Two POc terms are reconstructed below. The gloss of the first, &ast;laqia, remains a little doubtful because of the difficulty in dating the arrival of Z. officinale in NW Island Melanesia. POc &ast;para(k) evidently referred to Zingiberaceae species but just how large a taxon it denoted is currently unknown.
+Two POc terms are reconstructed below. The gloss of the first, _&ast;laqia_, remains a little doubtful because of the difficulty in dating the arrival of Z. officinale in NW Island Melanesia. POc _&ast;para(k)_ evidently referred to Zingiberaceae species but just how large a taxon it denoted is currently unknown.
 
 <table>
 <tr>
@@ -3087,7 +3120,7 @@ Figure 13.8   Codiaeum variegatum
 ## 6. Plants with large colourful leaves
 
 
-Here four plants are discussed. The first three, Codiaeum variegatum, Cordyline fruticosa and Dracaena angustifolia, are described separately but the reconstructions are presented together in §6.4 because there is evidence of a POc taxon, &ast;jiRi, which included 'Cordyline fruticosa and Dracaena angustifolia and of a PWOc taxon, &ast;mʷa(r,R)e, which included Codiaeum variegatum and Cordyline fruticosa. All three species are cultivated for their brightly coloured glossy leaves and are used decoratively, ceremonially and ritually.
+Here four plants are discussed. The first three, Codiaeum variegatum, Cordyline fruticosa and Dracaena angustifolia, are described separately but the reconstructions are presented together in §6.4 because there is evidence of a POc taxon, _&ast;jiRi_, which included 'Cordyline fruticosa and Dracaena angustifolia and of a PWOc taxon, _&ast;mʷa(r,R)e, which included Codiaeum variegatum and Cordyline fruticosa. All three species are cultivated for their brightly coloured glossy leaves and are used decoratively, ceremonially and ritually.
 
 
 <a id="s-6-1"></a>
@@ -3137,16 +3170,16 @@ In its mature form Dracaena angustifolia is a woody shrub growing to 3-6 m high.
 
 Cordyline and Dracaena varieties are both used as decorative plants and for making leaf skirts, and many Oceanic languages treat them as a single taxon. In E Kara (MM), for example, si denotes Cordyline fruticosa, and the binomial si tavul is Dracaena angustifolia. In Kwara'ae Cordyline fruticosa is dili and Dracaena angustifolia is mala-dili 'resembling cordyline' (see ch.2, §7 .1.4 ). Each of the cognate sets below spans plants of both genera, and it is probable that many more of the glosses should refer to both Cordyline and Dracaena: the full span of the denotation was missed when the data were recorded.
 
-[Chowning](../references.md#source-Chowning1963) ([1963](../references.md#source-Chowning1963), [2001](../references.md#source-Chowning2001): 81) suggests that the 'Prato-Melanesian' terms &ast;babaka, 18 &ast;dili (my POc &ast;jiRi 'Cordyline sp., Dracaena sp.") and &ast;male (my PWOc &ast;mʷa(r,R)e 'Codiaeum variegatum; Cordyline fruticosa') were each used collectively for three species. Her first two species are Codiaeum variegatum and Cordyline fruticosa. Her third, however, is not Dracaena angustifolia, but Cycas rumphii. She writes that all three are 'used primarily for decorative and magico-religious purposes' ([Chowning 1963](../references.md#source-Chowning1963)).[^19]
+[Chowning](../references.md#source-Chowning1963) ([1963](../references.md#source-Chowning1963), [2001](../references.md#source-Chowning2001): 81) suggests that the 'Prato-Melanesian' terms _&ast;babaka_,[^18] _&ast;dili_ (my POc _&ast;jiRi_ 'Cordyline sp., Dracaena sp.') and _&ast;male_ (my PWOc _&ast;mʷa(r,R)e_ 'Codiaeum variegatum; Cordyline fruticosa') were each used collectively for three species. Her first two species are Codiaeum variegatum and Cordyline fruticosa. Her third, however, is not Dracaena angustifolia, but Cycas rumphii. She writes that all three are 'used primarily for decorative and magico-religious purposes' ([Chowning 1963](../references.md#source-Chowning1963)).[^19]
 
-It is quite possible that PWOc &ast;mʷa(r,R)e indeed denoted a taxon including Codiaeum variegatum and Cordylinefruticosa, and perhaps other decorative plants (note Nakanai _mamale_ 'Cananga odorata'), but I have found no evidence of a term that denoted plants of all three species. Possibly Chowning considered some of the items collected together under PEOc &ast;mʷa(q)ele 'cycad' (ch.9, §5.2) to belong to the same cognate set as the items under PWOc &ast;mʷa(r,R)e below. Despite the formal similarity between the two reconstructions, however, the two cannot be reconciled: reflexes of the former agree in reflecting &ast;-l-, the latter in reflecting &ast;-(r,R)-. The two sets can be united only by positing irregular sound change or borrowing.[^20]
+It is quite possible that PWOc _&ast;mʷa(r,R)e_ indeed denoted a taxon including Codiaeum variegatum and Cordylinefruticosa, and perhaps other decorative plants (note Nakanai _mamale_ 'Cananga odorata'), but I have found no evidence of a term that denoted plants of all three species. Possibly Chowning considered some of the items collected together under PEOc _&ast;mʷa(q)ele_ 'cycad' (ch.9, §5.2) to belong to the same cognate set as the items under PWOc _&ast;mʷa(r,R)e_ below. Despite the formal similarity between the two reconstructions, however, the two cannot be reconciled: reflexes of the former agree in reflecting _&ast;-l-_, the latter in reflecting _&ast;-(r,R)-_. The two sets can be united only by positing irregular sound change or borrowing.[^20]
 
-Three other etyma are reconstructed below: POc &ast;jiRi, &ast;kaRi(q)a and &ast;jajal. POc &ast;jiRi indeed introduces a third species into the discussion, but it is Dracaena angustifolia, not
+Three other etyma are reconstructed below: POc _&ast;jiRi_, _&ast;kaRi(q)a_ and _&ast;jajal_. POc _&ast;jiRi_ indeed introduces a third species into the discussion, but it is Dracaena angustifolia, not
 
 
 <a id="p-418"></a>
 
-Cycas rumphii. The distribution of the reflexes of POc &ast;kaRi(q)a 'taxon of decorative plants' leaves us unable to determine which of the three species it denoted. POc &ast;jajal probably denoted a particular variety of Codiaeum variegatum.
+Cycas rumphii. The distribution of the reflexes of POc _&ast;kaRi(q)a_ 'taxon of decorative plants' leaves us unable to determine which of the three species it denoted. POc _&ast;jajal_ probably denoted a particular variety of Codiaeum variegatum.
 
 <table>
 <tr>
@@ -3155,7 +3188,7 @@ Cycas rumphii. The distribution of the reflexes of POc &ast;kaRi(q)a 'taxon of d
 <i>&ast;mʷa(r,R)e</i>
 </td>
 <td>
-'<span>taxon including Codiaeum variegatum and Cordylinefruticosa</span>' (<span>Ross 1996d; Chowning 1963: *male</span>)</td>
+'<span>taxon including Codiaeum variegatum and Cordylinefruticosa</span>' (<span>Ross 1996d; Chowning 1963: <em>*male</em></span>)</td>
 </tr>
 <tr>
 <td>NNG</td><td>Kove</td><td><i>mohe</i></td>
@@ -3373,7 +3406,7 @@ cf. also:
 '<span>Cordyline terminalis/fruticosa</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Notsi</td><td><i>cit</i></td>
+<td>MM</td><td>Notsi</td><td><i>cil</i></td>
 <td>
 '<span>cordyline</span>'</td>
 </tr>
@@ -3540,7 +3573,7 @@ cf. also:
 
 <a id="p-419"></a>
 
-Medial parenthesised &ast;-q- is reconstructed in POc &ast;kaRi(q)a on the assumption that Vitu kariya 'rattan' is cognate, but the difference in denotation calls this into doubt.
+Medial parenthesised _&ast;-q-_ is reconstructed in POc _&ast;kaRi(q)a_ on the assumption that Vitu _kariɣa_ 'rattan' is cognate, but the difference in denotation calls this into doubt.
 
 <table>
 <tr>
@@ -3755,7 +3788,7 @@ cf. also:
 '<span>Codiaeum variegatum</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>oaoa</i></td>
+<td>Fij</td><td>Bauan</td><td><i>ðaða</i></td>
 <td>
 '<span>Codiaeum variegatum</span>' (<a href="../references.md#source-Geraghty2004">Geraghty2004: 79</a>)
 </td>
@@ -3793,12 +3826,12 @@ The leaves are used for covering and sealing the stone oven because of their thi
 '<span>Heliconia sp</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nduke</td><td><i>vayo</i></td>
+<td>MM</td><td>Nduke</td><td><i>vaɣo</i></td>
 <td>
 '<span>a large: perennial herb with banana-like leaves, Heliconia salomonensis</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Marovo</td><td><i>vayo</i></td>
+<td>MM</td><td>Marovo</td><td><i>vaɣo</i></td>
 <td>
 '<span>tree sp. with large banana-like leaves, Heliconia sp.</span>'</td>
 </tr>
@@ -3823,7 +3856,7 @@ The leaves are used for covering and sealing the stone oven because of their thi
 '<span>a heliconium</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>va-va</i></td>
+<td>Fij</td><td>Wayan</td><td><i>vā-vā</i></td>
 <td>
 '<span>Heliconia sp.</span>'</td>
 </tr>
@@ -3916,12 +3949,12 @@ The forms listed below are clearly cognate, but it is not clear whether or how m
 '<span>a lily, Crinum asiaticum</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mwotlap</td><td><i>mw[a]lak</i></td>
+<td>NCV</td><td>Mwotlap</td><td><i>mʷ[a]lak</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>SV</td><td>Anejom</td><td><i>no-(hos)meley</i></td>
+<td>SV</td><td>Anejom</td><td><i>no-(hos)meleɣ</i></td>
 <td>
 '<span>Crinum sp.</span>'</td>
 </tr>
@@ -4164,7 +4197,7 @@ Shown in parentheses below are irregular phonological developments, implying tha
 '<span>cucumber, Cucumis sativus</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Patep</td><td><i>katima</i></td>
+<td>NNG</td><td>Patep</td><td><i>kətima</i></td>
 <td>
 '<span>cucumber, Cucumis sativus</span>' (<span><em>-a-</em> for †<em>-(o,u)-</em></span>)</td>
 </tr>
@@ -4195,7 +4228,7 @@ Shown in parentheses below are irregular phonological developments, implying tha
 '<span>a vegetable like a cucumber</span>' (<span><em>-r</em> for †<em>-n</em></span>)</td>
 </tr>
 <tr>
-<td>MM</td><td>Tinputz</td><td><i>asimu</i></td>
+<td>MM</td><td>Tinputz</td><td><i>asimū</i></td>
 <td>
 '<span>cucumber</span>'</td>
 </tr>
@@ -4234,7 +4267,7 @@ Shown in parentheses below are irregular phonological developments, implying tha
 
 [^9]: In Blust's orthography &ast;kaundu.
 
-[^10]: This reconstruction is maintained in the[ ACD ](../references.md#source-Blust1995)in the notes to the entry for &ast;qauR.
+[^10]: This reconstruction is maintained in the[ ACD ](../references.md#source-Blust1995)in the notes to the entry for _&ast;qauR_.
 
 [^11]: [Blust](../references.md#source-Blust1970) ([1970](../references.md#source-Blust1970)) reconstructs &ast;maru on the basis of Buru (CMP) maru and Oceanic reflexes, but the second syllables of the two forms do not correspond (as Blust notes).
 
@@ -4250,11 +4283,11 @@ Shown in parentheses below are irregular phonological developments, implying tha
 
 [^17]: According to Wheatley, the other leaves used as dance decoration were from Euodia hortensis (ch.7, §5 .6) and from Polyscias species (ch.lO, §2.4).
 
-[^18]: I do not have access to the data on the basis of which &ast;babaka was reconstructed.
+[^18]: I do not have access to the data on the basis of which _&ast;babaka_ was reconstructed.
 
-[^19]: In her 2001 discussion of PWOc &ast;m"a(r,R)e as presented by [Ross](../references.md#source-Ross1996d) ([1996d](../references.md#source-Ross1996d)), she corrects the gloss of Nakanai male from 'Codiaeum' to 'Cordyline' and adds the Kove etymon.
+[^19]: In her 2001 discussion of PWOc _&ast;mʷa(r,R)e_ as presented by [Ross](../references.md#source-Ross1996d) ([1996d](../references.md#source-Ross1996d)), she corrects the gloss of Nakanai _male_ from 'Codiaeum' to 'Cordyline' and adds the Kove etymon.
 
-[^20]: I initially thought that Anejom na-mraθ 'Croton insularis' was cognate with the items under POc &ast;m"a(r,R)e. However, members of the genus Croton are substantial trees which have little in common with Codiaeum variegatum, popularly called 'croton' (although both belong to the family Euphorbiaceae).
+[^20]: I initially thought that Anejom _na-mraθ_ 'Croton insularis' was cognate with the items under POc _&ast;mʷa(r,R)e_. However, members of the genus Croton are substantial trees which have little in common with Codiaeum variegatum, popularly called 'croton' (although both belong to the family Euphorbiaceae).
 
 [^21]: An editor's footnote indicates that [Peekel](../references.md#source-Peekel1984) ([1984](../references.md#source-Peekel1984): 98, 100) incorrectly identified H. indica as H. bihai, an American species.
 

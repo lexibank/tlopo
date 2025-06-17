@@ -54,12 +54,12 @@ Nevertheless the following descriptions of ethnobotanical classifications in mod
 
 In line with Hays' (1982: 93) range of explanations for folk taxonomies, the similar types of categories found within ethnobotanical classifications in Oceanic languages are unsurprising for a number of reasons. First, many features of the botanical classifications in Oceanic languages are those that would be predicted on the basis of what [Berlin](../references.md#source-Berlin1992) ([1992](../references.md#source-Berlin1992)) proposes as universal tendencies. For example, the life-form taxa of many Oceanic languages distinguish between woody plants, climbing or creeping plants and grass-like plants, morphological characteristics that form the basis of life-form taxa in many folk taxonomies (see also [Brown 1984](../references.md#source-Brown1984)). Further, since Oceanic languages are spoken within regions having more or less similar flora and fauna, it is not unexpected that more specific details of ethnobotanical classifications would be similar across Oceanic languages. Traditional Oceanic societies also share similar foraging-horticultural lifestyles, and thus certain utilitarian aspects of botanical folk taxonomies would also be expected to be similar. And finally, since all Oceanic languages are related, their systems of ethnobotanical classification might be expected to be similar because they have a common origin. Cognate lexical labels across modern Oceanic languages provide evidence for the common origin of certain taxa, and their reconstruction for POc.
 
-Pawley (2000) describes differences in the stability of terms denoting different types of taxa within ethnobiological classifications of Oceanic languages. He finds that the modifying terms in binomial names for folk specifics ane much less stable than the terms for folk generics, and suggests that one explanation for this is that species show a wide range of distinctive morphological and ecological characteristics from which one is picked out and named by the modifier in a binomial label, and such modifiers are liable to be replaced by competing labels (Pawley 2000:37). Higher-order generics (for example, life-form taxa) tend to be just as stable in form as folk generics, but less stable in meaning. The reason for this, Pawley (2000: 37) suggests, is that these higher-order taxa form much less homogeneous categories than lower-order taxa. They tend to consist of a disparate class of animals or plants which are linked by relatively few distingushing characteristics, a situation which allows speakers to extend or contract the boundaries of the class for certain purposes more easily. This can be seen particularly with the descriptions of Kwara'ae _ʔai_ and Wayan _ō_ below which have both broad and narrow conventionalised meanings.[^3] It is important to note that here, perhaps more that in other semantic domains, the reconstructions represent only a part of the original system and project a uniformity that is most likely unrealistic in a number of respects.
+[Pawley](../references.md#source-Pawley2000) ([2000](../references.md#source-Pawley2000)) describes differences in the stability of terms denoting different types of taxa within ethnobiological classifications of Oceanic languages. He finds that the modifying terms in binomial names for folk specifics ane much less stable than the terms for folk generics, and suggests that one explanation for this is that species show a wide range of distinctive morphological and ecological characteristics from which one is picked out and named by the modifier in a binomial label, and such modifiers are liable to be replaced by competing labels ([Pawley 2000](../references.md#source-Pawley2000):37). Higher-order generics (for example, life-form taxa) tend to be just as stable in form as folk generics, but less stable in meaning. The reason for this, [Pawley](../references.md#source-Pawley2000) ([2000](../references.md#source-Pawley2000): 37) suggests, is that these higher-order taxa form much less homogeneous categories than lower-order taxa. They tend to consist of a disparate class of animals or plants which are linked by relatively few distingushing characteristics, a situation which allows speakers to extend or contract the boundaries of the class for certain purposes more easily. This can be seen particularly with the descriptions of Kwara'ae _ʔai_ and Wayan _ō_ below which have both broad and narrow conventionalised meanings.[^3] It is important to note that here, perhaps more that in other semantic domains, the reconstructions represent only a part of the original system and project a uniformity that is most likely unrealistic in a number of respects.
 
 
 <a id="p-58"></a>
 
-Pawley (2000: 3-4) proposes that detailed reconstructions of lexical semantics are best made using what can be called the 'terminological method of reconstruction'. Thus hypotheses about the meanings of reconstructed lexical items are made within a particular semantic field and with reference to semantic relationships between terms within a semantic domain on the basis of the semantic field in modern Oceanic languages (see also Ross et al. 1998: 4-6). In accord with the terminological method the following section examines the ethnobotanical classifications found in a number of modern languages as a preliminary to reconstructing botanical life-form taxa for POc. Section 4 presents cognate sets which suggest the reconstruction of terms expected to have ocurred in POc. The meanings of the POc etyma reconstructed are based on both the meanings of the reflexes in daughter languages and on the apparent contrasts within the POc systems of ethnobotanical classification.
+[Pawley](../references.md#source-Pawley2000) ([2000](../references.md#source-Pawley2000): 3-4) proposes that detailed reconstructions of lexical semantics are best made using what can be called the 'terminological method of reconstruction'. Thus hypotheses about the meanings of reconstructed lexical items are made within a particular semantic field and with reference to semantic relationships between terms within a semantic domain on the basis of the semantic field in modern Oceanic languages (see also Ross et al. 1998: 4-6). In accord with the terminological method the following section examines the ethnobotanical classifications found in a number of modern languages as a preliminary to reconstructing botanical life-form taxa for POc. Section 4 presents cognate sets which suggest the reconstruction of terms expected to have ocurred in POc. The meanings of the POc etyma reconstructed are based on both the meanings of the reflexes in daughter languages and on the apparent contrasts within the POc systems of ethnobotanical classification.
 
 
 <a id="s-3"></a>
@@ -165,7 +165,7 @@ _bau_
 
 2. Manilkara vitiensis, smallish tree, often in exposed situations on coastal slopes;
 
-3. Palaquiumfijiense. smallish uncommon tree of higher-altitude forest;
+3. Palaquium fijiense. smallish uncommon tree of higher-altitude forest;
 
 4. Planchonella garberi (Sapotaceae).
 
@@ -486,15 +486,57 @@ _&ast;taliŋa_
 
 A term denoting all plants is not reconstructable for POc. A number of modern Oceanic languages do have a general term for plants, but these terms appear to be post-POc innovations. The list below gives the general terms for 'plant' in a number of languages, but none are cognate. In NE Ambae and Anejom these gene:ral terms for 'plants' are nominalisations of verbal terms. For example, NE Ambae rivurivu 'plant' is a reduplicated form of the transitive verb _rivu_ 'to plant s.t.', and Anejom _nita-awañ_ is formed from the verb _awañ_ 'to plant' with the instrumental prefix.
 
-|      |                |             |                                                                                   |
-|:-----|:---------------|:------------|:----------------------------------------------------------------------------------|
-| Adm: | Lou            | _koe_       | 'plant (N)'                                                                       |
-| NNG: | Poeng          | _kinkiniŋ_  | '(all) growing things; grass, tree'                                               |
-| NNG: | Sissano (Arop) | _oraman_    | 'plants (generic)'                                                                |
-| SES: | Bugotu         | _jou_       | 'to plant, a plant'                                                               |
-| NCV: | Ambae          | _rivurivu_  | 'plant (N)'                                                                       |
-| SV:  | Anejom         | _nita-awañ_ | 'plant, s.t. planted or to be planted'                                            |
-| Mic: | Chuukese       | _pətəwər_   | 'plant (general term), vegetation (uncultivated); tree, bush, shrub, fern, grass' |
+<table>
+<tr>
+<td>Adm</td>
+<td>Lou</td>
+<td><i>koe</i></td>
+<td>
+'<span>plant (N)</span>'</td>
+</tr>
+<tr>
+<td>NNG</td>
+<td>Poeng</td>
+<td><i>kinkiniŋ</i></td>
+<td>
+'<span>(all) growing things; grass, tree</span>'</td>
+</tr>
+<tr>
+<td>NNG</td>
+<td>Sissano-Arop</td>
+<td><i>oraman</i></td>
+<td>
+'<span>plants (generic)</span>'</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>Bugotu</td>
+<td><i>jou</i></td>
+<td>
+'<span>to plant, a plant</span>'</td>
+</tr>
+<tr>
+<td>NCV</td>
+<td>Ambae</td>
+<td><i>rivurivu</i></td>
+<td>
+'<span>plant (N)</span>'</td>
+</tr>
+<tr>
+<td>SV</td>
+<td>Anejom</td>
+<td><i>nita-awañ</i></td>
+<td>
+'<span>plant, s.t. planted or to be planted</span>'</td>
+</tr>
+<tr>
+<td>Mic</td>
+<td>Trukese</td>
+<td><i>pətəwər</i></td>
+<td>
+'<span>plant (general term), vegetation (uncultivated); tree, bush, shrub, fern, grass</span>'</td>
+</tr>
+</table>
 
 A Proto Micronesian form _&ast;fadoka_ 'planted thing, cultivated plants' is reconstructable (Bender et al 2003:24), but appears to be restricted to meaning something that has been planted rather than all plants. This form looks to be a nominalisation of a Proto Microne- sian verbal _&ast;fadoki_ 'to plant'.[^5]
 
@@ -1170,7 +1212,8 @@ Evidence from non-Oceanic languages suggests that _&ast;lumut_ may have been the
 <i>&ast;lumut</i>
 </td>
 <td>
-'<span>generic term for mosses, algaes and seaweeds</span>' (<span>Capelll943</span>)</td>
+'<span>generic term for mosses, algaes and seaweeds</span>' (<a href="../references.md#source-Capell1943">Capell1943</a>)
+</td>
 </tr>
 <tr>
 <td>Adm</td><td>Lou</td><td><i>lum</i></td>
@@ -1586,30 +1629,78 @@ The five primary taxa reconstructed here do not appear to have encompassed all p
 
 Ferns and tree-ferns are also plants which do not appear to fit into any of the life-form categories reconstructed for POc. In Kwara'ae there is a general term for tree-ferns, _kʷaʔe_, and a number of other Oceanic languages also have general terms that denote tree-ferns:
 
----- ---------- ---------- ----------------------------------------------------------
-Mic: Kosraean   _po_       'kind of plant: tree fern'
-Fij: Wayan      _balabala_ 'generic for tree ferns (Cyathea spp.), sometimes extended
-                           to include other large ferns, such as Pteris tripartita.
-                           (i) Cyathea lunulata (Cyatheaceae);
-                           (ii) Cyathea sp., perhaps C. propinqua;
-                           (iii) Calochlaena straminea (Dicksoniaceae);
-                           (iv). Pteris tripartita (Adiantaceae).
-Pn:  Hawaiian   _ʔamaʔu_   'all species of an endemic genus of ferns (Sadleria),
-                           with trunk more or less evident'.
----- ---------- ---------- -----------------------------------------------------------
+<table>
+<tr>
+<td>Mic</td>
+<td>Kosraean</td>
+<td><i>po</i></td>
+<td>
+'<span>kind of plant: tree fern</span>'</td>
+</tr>
+<tr>
+<td>Fij</td>
+<td>Wayan</td>
+<td><i>balabala</i></td>
+<td>
+'<span>generic for tree ferns (Cyathea spp.), sometimes extended to include other large ferns, such as Pteris tripartita</span>'; '<span>Cyathea lunulata (Cyatheaceae)</span>'; '<span>Cyathea sp., perhaps C. propinqua</span>'; '<span>Calochlaena straminea (Dicksoniaceae)</span>'; '<span>Pteris tripartita (Adiantaceae)</span>'</td>
+</tr>
+<tr>
+<td>Pn</td>
+<td>Hawaiian</td>
+<td><i>ʔamaʔu</i></td>
+<td>
+'<span>all species of an endemic genus of ferns (Sadleria), with trunk more or less evident</span>'</td>
+</tr>
+</table>
 
 From this it seems possible that tree-ferns formed a higher-order taxon in POc, but no term appears to be reconstructable to back up such a hypothesis.
 
 In Wayan balabala 'tree-ferns' contrasts with another primary taxon _diŋi_, a generic for at least two types of terrestrial ferns. In Kwara'ae _takuma_ 'Diplazium proliferum' is sometimes used to denote a collection of edible ferns that includes Diplazium proliferum Woodsiaceae, though more commonly ferns are referred to by their individual names. In other languages, such as Iduna, Kosraean, Samoan and Hawaiian there are terms that may denote ferns more generally, but it is not clear from the dictionary definitions. A generic term for ferns does not appear to be reconstructable for POc, and it seems likely that the individual names of ferns were considered to be primary taxa.
 
-|      |          |            |                                                                                                                                                                                                                                                                |
-|:-----|:---------|:-----------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| PT:  | Iduna    | _maiwa_    | '(edible) ferns'                                                                                                                                                                                                                                               |
-| Mic: | Kosraean | _fa_       | 'a kind of plant: fern'                                                                                                                                                                                                                                        |
-| Mic: | Mokilese | _pʷɔ_      | 'fern'                                                                                                                                                                                                                                                         |
-| Fij: | Wayan    | _diŋi_     | 'generic lthat includes at least the following two medium-sized terrestrial ferns: Nephrolepis hiserrata (Davalliaceae), ladder fern, locally comm.n in open mid-altitude forest; Sphaerostephanos invisus (Thelypteridaceae), common on dry grassy hillsides. |
-| Pn:  | Samoan   | _ʔoliʔolī_ | '(i) general name given to large ferns; (ii) tree-fern (Also phila species)'                                                                                                                                                                                   |
-| Pn:  | Hawaiian | _kupukupu_ | 'general name for ferns on a single stem' (also name for sword fern)                                                                                                                                                                                           |
+<table>
+<tr>
+<td>PT</td>
+<td>Iduna</td>
+<td><i>maiwa</i></td>
+<td>
+'<span>(edible) ferns</span>'</td>
+</tr>
+<tr>
+<td>Mic</td>
+<td>Kosraean</td>
+<td><i>fa</i></td>
+<td>
+'<span>a kind of plant: fern</span>'</td>
+</tr>
+<tr>
+<td>Mic</td>
+<td>Mokilese</td>
+<td><i>pʷɔ</i></td>
+<td>
+'<span>fern</span>'</td>
+</tr>
+<tr>
+<td>Fij</td>
+<td>Wayan</td>
+<td><i>diŋi</i></td>
+<td>
+'<span>generic that includes at least the following two medium-sized terrestrial ferns: Nephrolepis hiserrata (Davalliaceae), ladder fern, locally common in open mid-altitude forest; Sphaerostephanos invisus (Thelypteridaceae), common on dry grassy hillsides.</span>'</td>
+</tr>
+<tr>
+<td>Pn</td>
+<td>Samoan</td>
+<td><i>ʔoliʔolī</i></td>
+<td>
+'<span>(i) general name given to large ferns; (ii) tree-fern (Also phila species)</span>'</td>
+</tr>
+<tr>
+<td>Pn</td>
+<td>Hawaiian</td>
+<td><i>kupukupu</i></td>
+<td>
+'<span>general name for ferns on a single stem</span>' (<span>also name for sword fern</span>)</td>
+</tr>
+</table>
 
 
 <a id="p-81"></a>
@@ -1620,27 +1711,141 @@ It is unclear how pandanus were classified by POc speakers. In Kwara'ae, pandanu
 
 A number of modern Oceanic languages have a category of plants that is glossed as 'weeds', as can be seen from the following list. In a number of languages, including Poeng, Gela and Kwara'ae this category appears to denote plants growing unwanted in garden plots. However, these categories do not have cognate labels. POc _&ast;talu(n)_ 'old garden, fallow land, land returning to secondary growth' (vol.1, ch.5, §3.2) may have denoted land with this type of vegetation, but a term for the vegetation itself does not appear to be reconstructable.
 
-|      |             |            |                                                                                                                      |
-|:-----|:------------|:-----------|:---------------------------------------------------------------------------------------------------------------------|
-| NNG: | Mapos Buang | _vavɔ̄ŋ_   | 'scrub, brush, weeds'                                                                                                |
-| NNG: | Labu        | _wahe_     | 'weeds'                                                                                                              |
-| NNG: | Poeng       | _kilanna_  | 'weed; growing in old garden spot'                                                                                   |
-| NNG: | Takia       | _ud_       | 'weed, wild grass (generic)'                                                                                         |
-| NNG: | Mangap      | _momotia_  | 'weed (N)'                                                                                                           |
-| PT:  | Iduna       | _boya_     | 'smalll weeds'                                                                                                       |
-| PT:  | Gumawana    | _nauna_    | 'weeds, grass'                                                                                                       |
-| PT:  | Misima      | _mʷawín_   | 'grass; weeds, to have weeds'                                                                                        |
-| MM:  | Ramoaaina   | _bual_     | 'full of weeds'                                                                                                      |
-| MM:  | Ramoaaina   | _palep_    | 'weeds, rubbish; in a plantation'                                                                                    |
-| MM:  | Teop        | _subui_    | 'weeds'                                                                                                              |
-| SES: | Gela        | _makiri_   | 'smalll weeds in a garden'                                                                                           |
-| SES: | Lau         | _ʔoroʔoro_ | 'weeds, grass, anything small growing up'                                                                            |
-| SES: | Lau         | _murua_    | 'weeds and grass'                                                                                                    |
-| SES: | Kwaio       | _fufulu_   | 'weed, grass'                                                                                                        |
-| SES: | Kwara'ae    | _laua_     | 'weeds, plants that can (and often should) be pulled out when they grow in places like gardens; seedlings, saplings' |
-| Mic: | Mokilese    | _tipʷtipʷ_ | 'grass, weeds; overgrown with grass or weeds, littered (with objects)'                                               |
-| Mic: | Chuukese    | _wəɾɨŋŋaw_ | 'useless plant, weed' (cf. _wəɾɨ_ 'bush, vegetation generally', _ŋŋaw_ 'bad, ugly, unfitting, unsuitable')           |
-| Pn:  | Maori       | _otaota_   | 'herbs in general, weeds, litter'                                                                                    |
+<table>
+<tr>
+<td>NNG</td>
+<td>Mapos Buang</td>
+<td><i>vavɔ̄ŋ</i></td>
+<td>
+'<span>scrub, brush, weeds</span>'</td>
+</tr>
+<tr>
+<td>NNG</td>
+<td>Labu</td>
+<td><i>wahe</i></td>
+<td>
+'<span>weeds</span>'</td>
+</tr>
+<tr>
+<td>NNG</td>
+<td>Poeng</td>
+<td><i>kilanna</i></td>
+<td>
+'<span>weed; growing in old garden spot</span>'</td>
+</tr>
+<tr>
+<td>NNG</td>
+<td>Takia</td>
+<td><i>ud</i></td>
+<td>
+'<span>grass and weeds (generic)</span>'; '<span>weed, wild grass (generic)</span>'</td>
+</tr>
+<tr>
+<td>NNG</td>
+<td>Mangap</td>
+<td><i>momotia</i></td>
+<td>
+'<span>weed (N)</span>'</td>
+</tr>
+<tr>
+<td>PT</td>
+<td>Iduna</td>
+<td><i>boya</i></td>
+<td>
+'<span>smalll weeds</span>'</td>
+</tr>
+<tr>
+<td>PT</td>
+<td>Gumawana</td>
+<td><i>nauna</i></td>
+<td>
+'<span>weeds, grass</span>'</td>
+</tr>
+<tr>
+<td>PT</td>
+<td>Misima</td>
+<td><i>mʷawín</i></td>
+<td>
+'<span>grass; weeds, to have weeds</span>'</td>
+</tr>
+<tr>
+<td>MM</td>
+<td>Ramoaaina</td>
+<td><i>bual</i></td>
+<td>
+'<span>full of weeds</span>'</td>
+</tr>
+<tr>
+<td>MM</td>
+<td>Ramoaaina</td>
+<td><i>palep</i></td>
+<td>
+'<span>weeds, rubbish; in a plantation</span>'</td>
+</tr>
+<tr>
+<td>MM</td>
+<td>Teop</td>
+<td><i>subui</i></td>
+<td>
+'<span>weeds</span>'</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>Gela</td>
+<td><i>makiri</i></td>
+<td>
+'<span>smalll weeds in a garden</span>'</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>Lau</td>
+<td><i>ʔoroʔoro</i></td>
+<td>
+'<span>weeds, grass, anything small growing up</span>'</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>Lau</td>
+<td><i>murua</i></td>
+<td>
+'<span>weeds and grass</span>'</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>Kwaio</td>
+<td><i>fufulu</i></td>
+<td>
+'<span>weed, grass</span>'</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>Kwara’ae</td>
+<td><i>laua</i></td>
+<td>
+'<span>weeds, plants that can (and often should) be pulled out when they grow in places like gardens; seedlings, saplings</span>'</td>
+</tr>
+<tr>
+<td>Mic</td>
+<td>Mokilese</td>
+<td><i>tipʷtipʷ</i></td>
+<td>
+'<span>grass, weeds; overgrown with grass or weeds, littered (with objects)</span>'</td>
+</tr>
+<tr>
+<td>Mic</td>
+<td>Trukese</td>
+<td><i>wəɾɨŋŋaw</i></td>
+<td>
+'<span>useless plant, weed</span>' (<span>cf. <em>wəɾɨ</em> 'bush, vegetation generally', <em>ŋŋaw</em> 'bad, ugly, unfitting, unsuitable'</span>)</td>
+</tr>
+<tr>
+<td>Pn</td>
+<td>Māori</td>
+<td><i>otaota</i></td>
+<td>
+'<span>herbs in general, weeds, litter</span>'</td>
+</tr>
+</table>
 
 
 <a id="p-82"></a>

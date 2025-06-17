@@ -17,7 +17,7 @@ All are actively cultivated close to villages and have been subject to continuou
 
 <a id="p-312"></a>
 
-The remainder of this chapter is organised as follows. First, domesticated nut trees are treated (§2), then domesticated fruit trees (§3), and finally trees that are regularly exploited for their fruit but are generally not domesticated (§4). The boundary around this last category is somewhat arbitrary. It includes trees which are often mentioned in the literature as sources of edible fruit. It excludes trees that are more often mentioned as having other uses: these include Morinda citrifolia, and various species of Diospyros, Macaranga and Garcinia, the fruits of which are all mentioned by Paijmans (1976: 124) as occasionally consumed. It also excludes those species of Ficus which have edible figs, as these are treated in ch.1 0, §4.
+The remainder of this chapter is organised as follows. First, domesticated nut trees are treated (§2), then domesticated fruit trees (§3), and finally trees that are regularly exploited for their fruit but are generally not domesticated (§4). The boundary around this last category is somewhat arbitrary. It includes trees which are often mentioned in the literature as sources of edible fruit. It excludes trees that are more often mentioned as having other uses: these include Morinda citrifolia, and various species of Diospyros, Macaranga and Garcinia, the fruits of which are all mentioned by Paijmans (1976: 124) as occasionally consumed. It also excludes those species of Ficus which have edible figs, as these are treated in ch.10, §4.
 
 The trees investigated by [Kennedy & Clarke](../references.md#source-KennedyandClarke2004) ([2004](../references.md#source-KennedyandClarke2004)) in their examination of arboriculture include three that are considered among the staple foods in chapter 9: the banana plant (ch.9, §3), the breadfuit tree (ch.9, §4), and the sago palm (ch.9, §5.1). Another cultivated tree is Gnetum gnemon, the leaves of which serve as a green vegetable, treated in chapter 10, §2.3. These trees and plants are not considered further here, nor is the coconut palm, which is discussed in some detail in chapter 12. Instead, the focus of this chapter is nut- and fruit-bearing species that loom large in Bismarcks arboriculture.
 
@@ -434,7 +434,7 @@ The POc reconstructions _&ast;(q)alipa_ and _&ast;lalipa_ are problematic both s
 
 Figure 11.2: Inocarpus fagifer, Tahitian chestnut: A, tree; B, portion of branch bearing fruit; C, inflorescence.
 
-Inocarpus fagifer is a common second storey tree of the foreshore or lowland forest, reaching 15-30 m in height in the Bismarcks but shorter on islands further east. Its trunk is straight and fluted (Figure 11 .2). Its fruit is a pod about 8cm long which does not release its single white seed, which must be cooked to be palatable. The enormous variety of its forms reflects the fact that it has long been cultivated (Bourke & AUen (forthcoming) report that it is cultivated by a sixth of Papua New Guinea's rural population). Leaves may be elongated and narrow or oblong and wide. The fruit may be rounded, crescent-shaped or elongated-oval and green, brown or yellow ([Walter & Sam2002](../references.md#source-WalterandSam2002): 183-184). Right across Oceania it is either boiled or roasted like a chestnut (Paijmans 1976: 124, [Evans 1999](../references.md#source-Evans1999): 19-21, S. [Foale 2001](../references.md#source-Foale2001), [Walter & Sam 2002](../references.md#source-WalterandSam2002): 183, [Gardner & Pawley 2006](../references.md#source-GardnerandPawley2006)). Hence the English term 'Tahitian chestnut'. It is then either eaten without further treatment, or in the Solomons and Fiji grated on coral and made into bread or pudding ([Capell 1941](../references.md#source-Capell1941), [Peekel 1984](../references.md#source-Peekel1984): 245, [Evans 1999](../references.md#source-Evans1999): 19, [Walter & Sam 2002](../references.md#source-WalterandSam2002): 185). In parts of Vanuatu it is a major alternative food between the two yam seasons, and the nuts are stored in various ways ([Walter & Sam 2002](../references.md#source-WalterandSam2002): 185).
+Inocarpus fagifer is a common second storey tree of the foreshore or lowland forest, reaching 15-30 m in height in the Bismarcks but shorter on islands further east. Its trunk is straight and fluted (Figure 11.2). Its fruit is a pod about 8cm long which does not release its single white seed, which must be cooked to be palatable. The enormous variety of its forms reflects the fact that it has long been cultivated (Bourke & AUen (forthcoming) report that it is cultivated by a sixth of Papua New Guinea's rural population). Leaves may be elongated and narrow or oblong and wide. The fruit may be rounded, crescent-shaped or elongated-oval and green, brown or yellow ([Walter & Sam2002](../references.md#source-WalterandSam2002): 183-184). Right across Oceania it is either boiled or roasted like a chestnut (Paijmans 1976: 124, [Evans 1999](../references.md#source-Evans1999): 19-21, S. [Foale 2001](../references.md#source-Foale2001), [Walter & Sam 2002](../references.md#source-WalterandSam2002): 183, [Gardner & Pawley 2006](../references.md#source-GardnerandPawley2006)). Hence the English term 'Tahitian chestnut'. It is then either eaten without further treatment, or in the Solomons and Fiji grated on coral and made into bread or pudding ([Capell 1941](../references.md#source-Capell1941), [Peekel 1984](../references.md#source-Peekel1984): 245, [Evans 1999](../references.md#source-Evans1999): 19, [Walter & Sam 2002](../references.md#source-WalterandSam2002): 185). In parts of Vanuatu it is a major alternative food between the two yam seasons, and the nuts are stored in various ways ([Walter & Sam 2002](../references.md#source-WalterandSam2002): 185).
 
 
 <a id="p-318"></a>
@@ -645,7 +645,7 @@ Blust (ACD) argues that [Dempwolff](../references.md#source-Dempwolff1938) ([193
 '<span>Tahitian chestnut</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Nguna</td><td><i>na-mʷapʷwe</i></td>
+<td>NCV</td><td>Nguna</td><td><i>na-mʷapʷe</i></td>
 <td>
 '<span>Tahitian chestnut</span>'</td>
 </tr>
@@ -868,7 +868,7 @@ Also seemingly reconstructable on the basis of the cognate set below is POc _&as
 <tr>
 <td>NCV</td>
 <td>Apma</td>
-<td><i>vʷez</i></td>
+<td><i>vʷel</i></td>
 <td>
 '<span>Barringtonia edulis</span>'</td>
 </tr>
@@ -2985,7 +2985,7 @@ The alternative answer is that there were inedible or barely edible Citrus speci
 '<span>citrus fruit</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Lewo</td><td><i>mʷozu</i></td>
+<td>NCV</td><td>Lewo</td><td><i>mʷolu</i></td>
 <td>
 '<span>citrus fruit</span>'</td>
 </tr>
@@ -3022,7 +3022,7 @@ The alternative answer is that there were inedible or barely edible Citrus speci
 <tr>
 <td>SV</td><td>Anejom</td><td><i>ne-pceθ</i></td>
 <td>
-'<span>citrus fruit</span>' (<span>p unexplained</span>)</td>
+'<span>citrus fruit</span>' (<span><em>p</em> unexplained</span>)</td>
 </tr>
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>moli</i></td>
@@ -3349,28 +3349,28 @@ cf. also:
 <tr>
 <td>SES</td>
 <td>Arosi</td>
-<td><i>ʔai</i></td>
+<td><i>ʔāi</i></td>
 <td>
-'<span>mango</span>'; '<span>tree or plant with stem and branches; not used of a fern cycad, sago palm, coconut etc, but used of small plants, eg. balsam.</span>'</td>
+'<span>mango</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
 <td>Fagani</td>
-<td><i>yai</i></td>
+<td><i>ɣāi</i></td>
 <td>
 '<span>mango</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
 <td>Longgu</td>
-<td><i>ʔeoai</i></td>
+<td><i>ʔeðai</i></td>
 <td>
 '<span>mango</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
 <td>West Guadalcanal</td>
-<td><i>yoai</i></td>
+<td><i>ɣoai</i></td>
 <td>
 '<span>mango</span>'</td>
 </tr>
@@ -3393,7 +3393,7 @@ cf. also:
 '<span>mango</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Sudest</td><td><i>mbaoi</i></td>
+<td>PT</td><td>Sudest</td><td><i>mbaði</i></td>
 <td>
 '<span>mango</span>'</td>
 </tr>
@@ -3403,7 +3403,7 @@ cf. also:
 '<span>mango</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tinputz</td><td><i>pee?</i></td>
+<td>MM</td><td>Tinputz</td><td><i>pᴂ?</i></td>
 <td>
 '<span>mango</span>'</td>
 </tr>
@@ -3736,7 +3736,7 @@ There was a single widely reflected POc term, _&ast;quRis_. I have assumed below
 <i>&ast;quRis</i>
 </td>
 <td>
-'<span>Spondias cytherea</span>' (<span>Grace 1969 (Wilhelm Milke, pers. comm.: *quRi); Ross 1996d</span>)</td>
+'<span>Spondias cytherea</span>' (<span>Grace 1969 (Wilhelm Milke, pers. comm.: <em>*quRi</em>); Ross 1996d</span>)</td>
 </tr>
 <tr>
 <td><strong>PSV</strong></td><td> </td>
@@ -3796,12 +3796,12 @@ There was a single widely reflected POc term, _&ast;quRis_. I have assumed below
 '<span>Spondias cytherea</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>uti</i></td>
+<td>SES</td><td>Lau</td><td><i>uli</i></td>
 <td>
 '<span>Spondias cytherea</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Kwaio</td><td><i>uti</i></td>
+<td>SES</td><td>Kwaio</td><td><i>uli</i></td>
 <td>
 '<span>Spondias cytherea</span>'</td>
 </tr>
@@ -4181,7 +4181,7 @@ The POc term for S. malaccense was _&ast;kapika_, reflected in all major Oceanic
 <tr>
 <td><strong>PSV</strong></td><td> </td>
 <td>
-<i>&ast;na-yaviy</i>
+<i>&ast;na-ɣaviɣ</i>
 </td>
 <td>
 '<span>Syzygium malaccense</span>' (<a href="../references.md#source-Lynch2001c">Lynch2001c</a>)
@@ -4323,7 +4323,7 @@ The POc term for S. malaccense was _&ast;kapika_, reflected in all major Oceanic
 '<span>Malay apple</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Lenakel</td><td><i>nə-kəvəɣ</i></td>
+<td>SV</td><td>Lenakel</td><td><i>nə-kəvək</i></td>
 <td>
 '<span>Syzygium malaccense</span>'</td>
 </tr>
@@ -4449,7 +4449,7 @@ The three more narrowly distributed cognate sets below reflect other terms for S
 '<span>variety of Malay apple</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Mussau</td><td><i>oa</i></td>
+<td>Adm</td><td>Mussau</td><td><i>oā</i></td>
 <td>
 '<span>small variety of Malay apple, Syzygium gomata</span>'</td>
 </tr>

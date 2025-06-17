@@ -831,12 +831,12 @@ Two terms are reconstructable: POc _&ast;raqu(p)_ and PNCV _&ast;katabola_. The 
 '<span>Dracontomelon dao</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Sye</td><td><i>na-ray</i></td>
+<td>SV</td><td>Sye</td><td><i>na-raɣ</i></td>
 <td>
 '<span>Dracontomelon dao</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Kwamera</td><td><i>na-rai</i></td>
+<td>SV</td><td>Kwamera</td><td><i>nə-rai</i></td>
 <td>
 '<span>Dracontomelon dao</span>'</td>
 </tr>
@@ -1861,7 +1861,7 @@ The glosses in the cognate set below imply that PCP _&ast;bau_ had the meaning w
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>bau</i></td>
 <td>
-'<span>woody trees taxon including Burckella richii, Manilkara vitiensis, Palaquiumfijiense and Planchonella species</span>'</td>
+'<span>woody trees taxon including Burckella richii, Manilkara vitiensis, Palaquium fijiense and Planchonella species</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>bau</i></td>
@@ -4193,7 +4193,7 @@ Reflexes of POc _&ast;wasi-wasi_ 'Abroma augusta' are found with this meaning on
 '<span>Sterculia vitiensis</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Tape</td><td><i>(van)woso-wos</i></td>
+<td>NCV</td><td>Tape</td><td><i>(vən)woso-wos</i></td>
 <td>
 '<span>whitewood</span>'</td>
 </tr>
@@ -4203,7 +4203,7 @@ Reflexes of POc _&ast;wasi-wasi_ 'Abroma augusta' are found with this meaning on
 '<span>Sterculia vitiensis</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Lenakel</td><td><i>na-vha-vha</i></td>
+<td>SV</td><td>Lenakel</td><td><i>nə-vha-vha</i></td>
 <td>
 '<span>Sterculia vitiensis</span>'</td>
 </tr>
@@ -4246,7 +4246,7 @@ The plant with the largest fronds (1.5m long) on New Ireland, Angiopteris evecta
 '<span>giant fern, Angiopteris evecta, with edible root</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>naoi</i></td>
+<td>Fij</td><td>Bauan</td><td><i>naði</i></td>
 <td>
 '<span>the greater roots of the yaqona plant</span>'</td>
 </tr>
@@ -5650,21 +5650,21 @@ A number of Oceanic terms translate as 'ghost ear'. Blust suggests that this ref
 <tr>
 <td>Mic</td>
 <td>Mortlockese</td>
-<td><i>sadiŋa-n anu</i></td>
+<td><i>sᴂliŋa-n anu</i></td>
 <td>
 '<span>mushroom</span>' (<span>lit. 'ear of ghost'</span>)</td>
 </tr>
 <tr>
 <td>Mic</td>
 <td>Puluwatese</td>
-<td><i>hadiŋaʔ-n hoomaʔ</i></td>
+<td><i>hᴂliŋᴂ-n hoomᴂ</i></td>
 <td>
 '<span>tree fungus, mushroom</span>' (<span>hoomaʔ 'bad ghost of dead '</span>)</td>
 </tr>
 <tr>
 <td>Mic</td>
 <td>Trukese</td>
-<td><i>seniŋe-r soomaʔ</i></td>
+<td><i>seniŋe-r soomᴂ</i></td>
 <td>
 </td>
 </tr>
