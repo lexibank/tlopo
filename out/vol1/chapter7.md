@@ -14,7 +14,7 @@
 
 Between 3000 and 1000 BC, speakers of Austronesian languages spread across Island Southeast Asia and western Melanesia and into the previously uninhabited islands of the Central Pacific.[^1] By about 1000 AD they had colonised the whole of Polynesia and Micronesia and had settled Madagascar, more than half a world away.[^2] This farflung maritime dispersal of closely related peoples, without parallel in human history until the West European expansion of the 15th-20th centuries AD, must have been based on a fairly efficient sailing technology. What was this technology? When and where did it develop? To what extent was it modified during the Austronesian diaspora?
 
-There is already an extensive literature on these questions, much of it by culture historians who apply the typological comparative and distributional methods (discussed in §1.2) to sailing craft and sailing techniques. Our contribution will be to see what light can be thrown on these questions by comparing the vocabulary for watercraft and seafaring across the Austronesian family, using the genetic comparative method of historical linguistics. We will focus on the early phases of Austronesian expansion, that is, on cognate sets that probably go back more than 2,000 years. Little will be said here about the complex developments in boatbuilding which have taken place in Island Southeast Asia over the last couple of millenia, well after the main Austronesian dispersal across and beyond this region, or about modifications in the design of craft that according to Haddon and Hornell ([Haddon 1937](../references.md#source-Haddon1937), [Haddon & Hornell 1938](../references.md#source-HaddonHornell1938), [Hornell 1936](../references.md#source-Hornell1936)) have taken place in various regions of Oceania within the last millenium. An exhaustive study of material relevant to reconstructing terms for vessel design and seafaring at all stages in the history of the Austronesian family would take several years and fill a very large book.
+There is already an extensive literature on these questions, much of it by culture historians who apply the typological comparative and distributional methods (discussed in [§1.2](../contributions/1-7#s-1-2)) to sailing craft and sailing techniques. Our contribution will be to see what light can be thrown on these questions by comparing the vocabulary for watercraft and seafaring across the Austronesian family, using the genetic comparative method of historical linguistics. We will focus on the early phases of Austronesian expansion, that is, on cognate sets that probably go back more than 2,000 years. Little will be said here about the complex developments in boatbuilding which have taken place in Island Southeast Asia over the last couple of millenia, well after the main Austronesian dispersal across and beyond this region, or about modifications in the design of craft that according to Haddon and Hornell ([Haddon 1937](../sources/Haddon1937), [Haddon & Hornell 1938](../sources/HaddonHornell1938), [Hornell 1936](../sources/Hornell1936)) have taken place in various regions of Oceania within the last millenium. An exhaustive study of material relevant to reconstructing terms for vessel design and seafaring at all stages in the history of the Austronesian family would take several years and fill a very large book.
 
 
 <a id="p-174"></a>
@@ -29,7 +29,7 @@ Describing the sailing craft and navigation techniques in the Indo-Pacific regio
 
 Those writers who have drawn conclusions about the nature of early Austronesian sailing craft and navigation have generally relied on the 'typological comparative method' of historical reconstruction. The typological method is a theory of structural types, making assumptions about how structural features are linked in systems, what kinds of changes are possible or likely, which types are logically prior to others, etc. The kinds of historical inferences this method can give, when applied to a range of contemporary systems, are probabilistic ones: for example, the inference that type X is more likely to have given rise to type Y than vice versa. The typological method is often allied to a distributional one. The assumption is that one can infer much about the antiquity of a given structural type or feature from its geographic distribution. For instance, the observation that a certain complex of cultural features is found among widely scattered peoples speaking related languages can be taken as evidence that the complex was present in a common ancestral culture. On the other hand, if such a complex has a more restricted but continuous geographic distribution it is likely to have been an innovation that diffused over this region after the dispersal of the ancestral population.
 
-In his _Sailing Craft of Indonesia_ Adrian [Horridge](../references.md#source-Horridge1986) ([1986](../references.md#source-Horridge1986):2-3) employs a distributional argument when he writes:
+In his _Sailing Craft of Indonesia_ Adrian [Horridge](../sources/Horridge1986) ([1986](../sources/Horridge1986):2-3) employs a distributional argument when he writes:
 
 > The very wide distribution of their homogeneous cultural heritage shows that [the ancestral Malayo-Polynesians][^4] had an excellent knowledge of outrigger canoes for transporting fire, family, pigs, chickens and dogs, not to mention dozens of useful plants, by sea.
 
@@ -61,7 +61,7 @@ In Indonesia and contiguous regions of Island Southeast Asia the problems of dis
 
 Horridge's remarks remind us that the testimony of central Pacific cultures is likely to be crucial in reconstructing early Austronesian sailing technology. The relative isolation of the peoples of the more remote Pacific islands may have allowed some of them to continue the early Austronesian sailing culture with fewer changes than most peoples in Island Southeast Asia.
 
-A problem arises when students of comparative technology dabble in comparative linguistics without underpinning them by the careful studies of sound correspondences and subgroupings needed to distinguish between cognates, accidental resemblances and borrowings or to determine the relative chronology of linguistic innovations. The results of such dabblings will be largely worthless. Haddon and Hornell's ([Haddon 1937](../references.md#source-Haddon1937), [Haddon & Hornell 1938](../references.md#source-HaddonHornell1938), [Hornell 1936](../references.md#source-Hornell1936)) admirable survey, Canoes of Oceania, is marred by a number of fanciful historical speculations which rest in part on naive readings of linguistic similarities. To a much larger extent, however, their fanciful historical inferences rest on a diffusionist interpretation of the comparative material culture, uninformed by systematic study of comparative vocabulary or by archaeological evidence.
+A problem arises when students of comparative technology dabble in comparative linguistics without underpinning them by the careful studies of sound correspondences and subgroupings needed to distinguish between cognates, accidental resemblances and borrowings or to determine the relative chronology of linguistic innovations. The results of such dabblings will be largely worthless. Haddon and Hornell's ([Haddon 1937](../sources/Haddon1937), [Haddon & Hornell 1938](../sources/HaddonHornell1938), [Hornell 1936](../sources/Hornell1936)) admirable survey, Canoes of Oceania, is marred by a number of fanciful historical speculations which rest in part on naive readings of linguistic similarities. To a much larger extent, however, their fanciful historical inferences rest on a diffusionist interpretation of the comparative material culture, uninformed by systematic study of comparative vocabulary or by archaeological evidence.
 
 
 <a id="s-1-3"></a>
@@ -82,7 +82,7 @@ However, linguists need not feel unduly smug about the genetic comparative metho
 ### 1.4. Lexical sources
 
 
-Many previous publications isolate Austronesian cognate sets referring to canoe parts and seafaring. However, works compiled by linguists only list such cognate sets as isolated items within a larger body of semantically unordered material. This chapter draws together published comparisons and extends them. Sources giving relevant cognate sets or sound correspondences relevant to determining cognation include Bender et al (1983), [Biggs](../references.md#source-Biggs1978) ([1978](../references.md#source-Biggs1978), [1993](../references.md#source-Biggs1993)),[^6] [Blust](../references.md#source-Blust1970) ([1970](../references.md#source-Blust1970), [1972b](../references.md#source-Blust1972b), [1976a](../references.md#source-Blust1976a), [1978a](../references.md#source-Blust1978a), [1978b](../references.md#source-Blust1978b), [1980b](../references.md#source-Blust1980b), [1983](../references.md#source-Blust1983)-84a, 1986, 1989), [Clark](../references.md#source-Clark1994) ([1994](../references.md#source-Clark1994)), [Collins](../references.md#source-Collins1983) ([1983](../references.md#source-Collins1983)), [Dahl](../references.md#source-Dahl1973) ([1973](../references.md#source-Dahl1973)), [Dempwolff](../references.md#source-Dempwolff1938) ([1938](../references.md#source-Dempwolff1938)), [Ferrell](../references.md#source-Ferrell1969) ([1969](../references.md#source-Ferrell1969)), [Geraghty](../references.md#source-Geraghty1983) ([1983](../references.md#source-Geraghty1983)), [Jackson](../references.md#source-Jackson1983) ([1983](../references.md#source-Jackson1983)), [Milke](../references.md#source-Milke1961) ([1961](../references.md#source-Milke1961), [1968](../references.md#source-Milke1968)), [Pallesen](../references.md#source-Pallesen1985) ([1985](../references.md#source-Pallesen1985)), [Pawley](../references.md#source-Pawley1972) ([1972](../references.md#source-Pawley1972)), [Reid](../references.md#source-Reid1971) ([1971](../references.md#source-Reid1971)), [Ross](../references.md#source-Ross1988) ([1988](../references.md#source-Ross1988)), [Sneddon](../references.md#source-Sneddon1984) ([1984](../references.md#source-Sneddon1984)) and [Tryon](../references.md#source-Tryon1976) ([1976](../references.md#source-Tryon1976)). We have also consulted dictionaries of many contemporary languages.
+Many previous publications isolate Austronesian cognate sets referring to canoe parts and seafaring. However, works compiled by linguists only list such cognate sets as isolated items within a larger body of semantically unordered material. This chapter draws together published comparisons and extends them. Sources giving relevant cognate sets or sound correspondences relevant to determining cognation include Bender et al (1983), [Biggs](../sources/Biggs1978) ([1978](../sources/Biggs1978), [1993](../sources/Biggs1993)),[^6] [Blust](../sources/Blust1970) ([1970](../sources/Blust1970), [1972b](../sources/Blust1972b), [1976a](../sources/Blust1976a), [1978a](../sources/Blust1978a), [1978b](../sources/Blust1978b), [1980b](../sources/Blust1980b), [1983](../sources/Blust1983)-84a, 1986, 1989), [Clark](../sources/Clark1994) ([1994](../sources/Clark1994)), [Collins](../sources/Collins1983) ([1983](../sources/Collins1983)), [Dahl](../sources/Dahl1973) ([1973](../sources/Dahl1973)), [Dempwolff](../sources/Dempwolff1938) ([1938](../sources/Dempwolff1938)), [Ferrell](../sources/Ferrell1969) ([1969](../sources/Ferrell1969)), [Geraghty](../sources/Geraghty1983) ([1983](../sources/Geraghty1983)), [Jackson](../sources/Jackson1983) ([1983](../sources/Jackson1983)), [Milke](../sources/Milke1961) ([1961](../sources/Milke1961), [1968](../sources/Milke1968)), [Pallesen](../sources/Pallesen1985) ([1985](../sources/Pallesen1985)), [Pawley](../sources/Pawley1972) ([1972](../sources/Pawley1972)), [Reid](../sources/Reid1971) ([1971](../sources/Reid1971)), [Ross](../sources/Ross1988) ([1988](../sources/Ross1988)), [Sneddon](../sources/Sneddon1984) ([1984](../sources/Sneddon1984)) and [Tryon](../sources/Tryon1976) ([1976](../sources/Tryon1976)). We have also consulted dictionaries of many contemporary languages.
 
 
 <a id="s-1-5"></a>
@@ -92,7 +92,7 @@ Many previous publications isolate Austronesian cognate sets referring to canoe 
 
 Some fifty cognate sets will be discussed. These are ordered by semantic domains, such as type of vessel, beginning with types of vessels and hull construction and going on to outrigger structure, superstructure, sail and rigging, accessories, launching, beaching and anchoring and ending with terms for seafaring and seafarers.
 
-Each reconstructed word or etymon is attributed to a certain level of the Austronesian family tree, the highest level justified by the distribution of the cognate set across subgroups. Below it are listed the cognates from contemporary languages. These are ordered according to subgroup, usually proceeding roughly in a west to east direction, e.g. Western Malayo-Polynesian cognates precede CMP cognates which in turn precede Eastern Malayo-Polynesian cognates. As well as giving the highest-level reconstruction we often give intermediate-level reconstructions for named interstages, especially when the the interstage reconstruction differs significantly in form or meaning from the highest-order reconstruction. When listing cognates we occasionally acknowledge sources when the evidence comes from [Haddon](../references.md#source-Haddon1937) ([1937](../references.md#source-Haddon1937)), [Hornell](../references.md#source-Hornell1936) ([1936](../references.md#source-Hornell1936)) or Haddon and and Hornell (1938) or a source other than a published dictionary.
+Each reconstructed word or etymon is attributed to a certain level of the Austronesian family tree, the highest level justified by the distribution of the cognate set across subgroups. Below it are listed the cognates from contemporary languages. These are ordered according to subgroup, usually proceeding roughly in a west to east direction, e.g. Western Malayo-Polynesian cognates precede CMP cognates which in turn precede Eastern Malayo-Polynesian cognates. As well as giving the highest-level reconstruction we often give intermediate-level reconstructions for named interstages, especially when the the interstage reconstruction differs significantly in form or meaning from the highest-order reconstruction. When listing cognates we occasionally acknowledge sources when the evidence comes from [Haddon](../sources/Haddon1937) ([1937](../sources/Haddon1937)), [Hornell](../sources/Hornell1936) ([1936](../sources/Hornell1936)) or Haddon and and Hornell (1938) or a source other than a published dictionary.
 
 
 <a id="s-2"></a>
@@ -106,7 +106,7 @@ Each reconstructed word or etymon is attributed to a certain level of the Austro
 ### 2.1. Types of vessel
 
 
-[Haddon and Hornell](../references.md#source-HaddonHornell1938) ([1938](../references.md#source-HaddonHornell1938): 70-72) referred to ten or so putative cognate sets having the general sense of 'canoe' or 'boat' that go back to an early stage or stages of Austronesian. While early Austronesian speakers probably had several different named types of craft, most of Haddon and Hornell's etymologies are false. Only one of their putative cognate sets can be attributed to an early Austronesian interstage-that pointing to PCEMP _&ast;waŋka_, POc _&ast;waga_.
+[Haddon and Hornell](../sources/HaddonHornell1938) ([1938](../sources/HaddonHornell1938): 70-72) referred to ten or so putative cognate sets having the general sense of 'canoe' or 'boat' that go back to an early stage or stages of Austronesian. While early Austronesian speakers probably had several different named types of craft, most of Haddon and Hornell's etymologies are false. Only one of their putative cognate sets can be attributed to an early Austronesian interstage-that pointing to PCEMP _&ast;waŋka_, POc _&ast;waga_.
 
 
 <a id="p-178"></a>
@@ -123,37 +123,37 @@ POc _&ast;waga_ (phonetically [waŋga] with [ŋg] being a single phoneme) is wid
 '<span>outrigger canoe</span>'</td>
 </tr>
 <tr>
-<td>None</td><td>Buru</td><td><i>waga</i></td>
+<td>None</td><td><a href="../languages/buru">Buru</a></td><td><i>waga</i></td>
 <td>
 '<span>boat, canoe</span>'</td>
 </tr>
 <tr>
-<td>None</td><td>Komodo</td><td><i>waŋka</i></td>
+<td>None</td><td><a href="../languages/komodo">Komodo</a></td><td><i>waŋka</i></td>
 <td>
 '<span>boat, canoe</span>'</td>
 </tr>
 <tr>
-<td>None</td><td>Manggarai</td><td><i>waŋka</i></td>
+<td>None</td><td><a href="../languages/manggarai">Manggarai</a></td><td><i>waŋka</i></td>
 <td>
 '<span>canoe</span>'</td>
 </tr>
 <tr>
-<td>IJ</td><td>Mor</td><td><i>waʔa</i></td>
+<td>IJ</td><td><a href="../languages/mor">Mor</a></td><td><i>waʔa</i></td>
 <td>
 '<span>canoe</span>'</td>
 </tr>
 <tr>
-<td>IJ</td><td>Dusner</td><td><i>wak</i></td>
+<td>IJ</td><td><a href="../languages/dusner">Dusner</a></td><td><i>wak</i></td>
 <td>
 '<span>canoe</span>'</td>
 </tr>
 <tr>
-<td>SHWNG</td><td>Numfor</td><td><i>wa(i)</i></td>
+<td>SHWNG</td><td><a href="../languages/numfor">Numfor</a></td><td><i>wa(i)</i></td>
 <td>
 '<span>outrigger canoe</span>'</td>
 </tr>
 <tr>
-<td>None</td><td>Waropen</td><td><i>wa</i></td>
+<td>None</td><td><a href="../languages/waropen">Waropen</a></td><td><i>wa</i></td>
 <td>
 '<span>boat, canoe</span>'</td>
 </tr>
@@ -166,137 +166,137 @@ POc _&ast;waga_ (phonetically [waŋga] with [ŋg] being a single phoneme) is wid
 '<span>large sailing canoe</span>'; '<span>canoe (generic)</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Wuvulu</td><td><i>wa</i></td>
+<td>Adm</td><td><a href="../languages/wuvulu">Wuvulu</a></td><td><i>wa</i></td>
 <td>
 '<span>canoe</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Seimat</td><td><i>wa</i></td>
+<td>Adm</td><td><a href="../languages/seimat">Seimat</a></td><td><i>wa</i></td>
 <td>
 '<span>canoe</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Gedaged</td><td><i>wag</i></td>
+<td>NNG</td><td><a href="../languages/gedaged">Gedaged</a></td><td><i>wag</i></td>
 <td>
 '<span>large canoe that goes out on the high seas, has one or two masts and a large platform, ship or boat</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Gitua</td><td><i>waŋga</i></td>
+<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td><i>waŋga</i></td>
 <td>
 '<span>canoe</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Yabem</td><td><i>waŋ</i></td>
+<td>NNG</td><td><a href="../languages/yabem">Yabem</a></td><td><i>waŋ</i></td>
 <td>
 '<span>canoe, boat, ship</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Dobu</td><td><i>waga</i></td>
+<td>PT</td><td><a href="../languages/dobu">Dobu</a></td><td><i>waga</i></td>
 <td>
 '<span>sailing canoe</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Molima</td><td><i>waga</i></td>
+<td>PT</td><td><a href="../languages/molima">Molima</a></td><td><i>waga</i></td>
 <td>
 '<span>canoe in general</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Kilivila</td><td><i>waga</i></td>
+<td>PT</td><td><a href="../languages/kilivila">Kilivila</a></td><td><i>waga</i></td>
 <td>
 '<span>generic term for all kinds of sailing craft</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Wedau</td><td><i>waga</i></td>
+<td>PT</td><td><a href="../languages/wedau">Wedau</a></td><td><i>waga</i></td>
 <td>
 '<span>large canoe</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>aka</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>aka</i></td>
 <td>
 '<span>canoe</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>aka (paspasau)</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>aka (paspasau)</i></td>
 <td>
 '<span>canoe with plank sides</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Nyelâyu</td><td><i>waŋga-n</i></td>
+<td>NCal</td><td><a href="../languages/nyelayu">Nyelâyu</a></td><td><i>waŋga-n</i></td>
 <td>
 '<span>his canoe</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Xârâcùù</td><td><i>kwā</i></td>
+<td>NCal</td><td><a href="../languages/xaracuu">Xârâcùù</a></td><td><i>kwā</i></td>
 <td>
 '<span>canoe</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kiribatese</td><td><i>wā</i></td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>wā</i></td>
 <td>
 '<span>canoe</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Marshallese</td><td><i>wā</i></td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>wā</i></td>
 <td>
 '<span>canoe</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Puluwatese</td><td><i>wā</i></td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>wā</i></td>
 <td>
 '<span>canoe, vehicle of any kind</span>'; '<span>container, people in a canoe</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Puluwatese</td><td><i>wā(herak)</i></td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>wā(herak)</i></td>
 <td>
 '<span>large sailing canoe able to face the high seas</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Trukese</td><td><i>wā</i></td>
+<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td><i>wā</i></td>
 <td>
 '<span>canoe, boat, vehicle</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Woleaian</td><td><i>wa</i></td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>wa</i></td>
 <td>
 '<span>generic for all canoes</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>waga</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>waga</i></td>
 <td>
 '<span>generic for boats (traditionally canoes) of all kinds</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>vaka</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>vaka</i></td>
 <td>
 '<span>boat (generic)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>vaʔa</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>vaʔa</i></td>
 <td>
 '<span>boat (generic)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>vaʔa (folau)</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>vaʔa (folau)</i></td>
 <td>
 '<span>sailing boat (for long voyages)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tokelauan</td><td><i>vaka</i></td>
+<td>Pn</td><td><a href="../languages/tokelauan">Tokelauan</a></td><td><i>vaka</i></td>
 <td>
 '<span>canoe, craft, boat</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>vaka</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>vaka</i></td>
 <td>
 '<span>canoe (generic)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>vaka (tapu)</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>vaka (tapu)</i></td>
 <td>
 '<span>consecrated voyaging canoe</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Hawaiian</td><td><i>waʔa</i></td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>waʔa</i></td>
 <td>
 '<span>canoe</span>'</td>
 </tr>
@@ -304,7 +304,7 @@ POc _&ast;waga_ (phonetically [waŋga] with [ŋg] being a single phoneme) is wid
 
 
 
-The primary sense of POc _&ast;waga_ was perhaps 'large sailing canoe' in contrast to paddling canoes (dugouts and small outrigger canoes). This sense is widely reflected across subgroups of Oceanic. As the name of the largest and most prestigious type, &ast;waga would have been a natural choice as a generic term for all types of canoe and in a number of languages the generic sense has become primary. An example is from Kilivila, the language of the Kiriwina people of the Trobriand Islands (reported by [Haddon](../references.md#source-Haddon1937) ([1937](../references.md#source-Haddon1937):267-269), based on [Malinowski](../references.md#source-Malinowski1922) ([1922](../references.md#source-Malinowski1922)) and correspondence with Malinowski). In Kiriwina there are four named types of canoes. The _kewoʔu_ is a simple dugout with outrigger, used in the lagoon. The _kalipoulo_, a fishing canoe, is a larger dugout with several designs. These have in common a hull built up with a washstrake on each side, and transverse carved and painted breakwaters, and the hull usually has pointed ends, carved and painted. There is often a platform over the booms. The sail is a lateen. The _masawa_ is a large trading canoe, similarly constructed to the _kalipoulo_ but with two clinker-built washstrakes on each side and twenty or more booms covered by a continuous platform. It carries a large, elongated steering oar worked by two men. The _nagega_ is larger and more seaworthy than the _masawa_, with higher sides and more carrying capacity and a central standing mast, as opposed to a leaning mast stepped within the hull and shored by a prop. The generic term for all these craft is waga. In another part of Papua, around Samarai, [Abel](../references.md#source-Abel1902) ([1902](../references.md#source-Abel1902):62) reports that _vaga_ is the generic for all kinds of sailing canoes, but evidently excluded canoes without outriggers or sails.
+The primary sense of POc _&ast;waga_ was perhaps 'large sailing canoe' in contrast to paddling canoes (dugouts and small outrigger canoes). This sense is widely reflected across subgroups of Oceanic. As the name of the largest and most prestigious type, &ast;waga would have been a natural choice as a generic term for all types of canoe and in a number of languages the generic sense has become primary. An example is from Kilivila, the language of the Kiriwina people of the Trobriand Islands (reported by [Haddon](../sources/Haddon1937) ([1937](../sources/Haddon1937):267-269), based on [Malinowski](../sources/Malinowski1922) ([1922](../sources/Malinowski1922)) and correspondence with Malinowski). In Kiriwina there are four named types of canoes. The _kewoʔu_ is a simple dugout with outrigger, used in the lagoon. The _kalipoulo_, a fishing canoe, is a larger dugout with several designs. These have in common a hull built up with a washstrake on each side, and transverse carved and painted breakwaters, and the hull usually has pointed ends, carved and painted. There is often a platform over the booms. The sail is a lateen. The _masawa_ is a large trading canoe, similarly constructed to the _kalipoulo_ but with two clinker-built washstrakes on each side and twenty or more booms covered by a continuous platform. It carries a large, elongated steering oar worked by two men. The _nagega_ is larger and more seaworthy than the _masawa_, with higher sides and more carrying capacity and a central standing mast, as opposed to a leaning mast stepped within the hull and shored by a prop. The generic term for all these craft is waga. In another part of Papua, around Samarai, [Abel](../sources/Abel1902) ([1902](../sources/Abel1902):62) reports that _vaga_ is the generic for all kinds of sailing canoes, but evidently excluded canoes without outriggers or sails.
 
 Cognates belonging to the set above are sometimes placed together with forms listed below:
 
@@ -347,47 +347,47 @@ and:
 '<span>outrigger canoe, dugout canoe</span>'</td>
 </tr>
 <tr>
-<td>Fma</td><td>Kuvalan</td><td><i>baŋka</i></td>
+<td>Fma</td><td><a href="../languages/kuvalan">Kuvalan</a></td><td><i>baŋka</i></td>
 <td>
 '<span>canoe</span>'</td>
 </tr>
 <tr>
-<td>None</td><td>Aklanon</td><td><i>baŋca</i></td>
+<td>None</td><td><a href="../languages/aklanon">Aklanon</a></td><td><i>baŋca</i></td>
 <td>
 '<span>canoe</span>'</td>
 </tr>
 <tr>
-<td>None</td><td>Balangaw</td><td><i>baŋka</i></td>
+<td>None</td><td><a href="../languages/balangaw">Balangaw</a></td><td><i>baŋka</i></td>
 <td>
 '<span>canoe</span>'</td>
 </tr>
 <tr>
-<td>None</td><td>Cebuano</td><td><i>baŋkaʔ</i></td>
+<td>None</td><td><a href="../languages/cebuano">Cebuano</a></td><td><i>baŋkaʔ</i></td>
 <td>
 '<span>one-piece dugout between 5 and 15 metres, optionally with one or two masts and outrigger</span>'</td>
 </tr>
 <tr>
-<td>WMP</td><td>Ilongot</td><td><i>baŋka</i></td>
+<td>WMP</td><td><a href="../languages/ilongot">Ilongot</a></td><td><i>baŋka</i></td>
 <td>
 '<span>canoe</span>'</td>
 </tr>
 <tr>
-<td>None</td><td>Tagalog</td><td><i>baŋkaʔ</i></td>
+<td>None</td><td><a href="../languages/tagalog">Tagalog</a></td><td><i>baŋkaʔ</i></td>
 <td>
 '<span>canoe</span>'</td>
 </tr>
 <tr>
-<td>None</td><td>Tausug</td><td><i>baŋkaq</i></td>
+<td>None</td><td><a href="../languages/tausug">Tausug</a></td><td><i>baŋkaq</i></td>
 <td>
 '<span>dugout canoe (without outrigger)</span>'</td>
 </tr>
 <tr>
-<td>WMP</td><td>Laiyolo</td><td><i>biŋka</i></td>
+<td>WMP</td><td><a href="../languages/laiyolo">Laiyolo</a></td><td><i>biŋka</i></td>
 <td>
 '<span>canoe, boat</span>'</td>
 </tr>
 <tr>
-<td>WMP</td><td>Tolaki</td><td><i>baŋga</i></td>
+<td>WMP</td><td><a href="../languages/tolaki">Tolaki</a></td><td><i>baŋga</i></td>
 <td>
 '<span>canoe</span>'</td>
 </tr>
@@ -400,17 +400,17 @@ and:
 '<span>canoe</span>'</td>
 </tr>
 <tr>
-<td>None</td><td>Larike</td><td><i>haka</i></td>
+<td>None</td><td><a href="../languages/larike">Larike</a></td><td><i>haka</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>CMP</td><td>S. Nuaulu</td><td><i>haka</i></td>
+<td>CMP</td><td><a href="../languages/snuaulu">S. Nuaulu</a></td><td><i>haka</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>CMP</td><td>Kola</td><td><i>boka</i></td>
+<td>CMP</td><td><a href="../languages/kola">Kola</a></td><td><i>boka</i></td>
 <td>
 </td>
 </tr>
@@ -423,17 +423,17 @@ and:
 '<span>ship</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Roviana</td><td><i>vaka</i></td>
+<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td><i>vaka</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>vaka</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>vaka</i></td>
 <td>
 '<span>foreign vessel, European ship</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>haka</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>haka</i></td>
 <td>
 </td>
 </tr>
@@ -444,11 +444,11 @@ and:
 
 <a id="p-180"></a>
 
-Although the forms in the above two sets show a striking resemblance to POc _&ast;waga_, they are not demonstrably cognate. In the first set, initial _w-_ is irregular, suggesting that these are borrowed words, though the source of the borrowing is unclear (Alexander Adelaar, pers.comm.). In the second set, the uncharacteristic occurrence of the cluster _ŋk_ in the Philippine and Formosan forms suggests borrowing from a Malayo-Javanic or Sulawesi source (Lawrence Reid, pers.comm.). Tagalog and Cebuano b are not the regular reflexes of PMP _&ast;w_. At present, most of the few coastal Austronesian-speaking communities left on Taiwan proper use large bamboo sailing rafts for fishing. However, there is evidence that in the nineteenth century other kinds of craft including double outriggers were in use. [Scott](../references.md#source-Scott1982) ([1982](../references.md#source-Scott1982):337) cites an eighteenth century Chinese observer, Huang Shi-ching, describing a built-up dugout canoe called a _manka_ [or _banka_] as follows:
+Although the forms in the above two sets show a striking resemblance to POc _&ast;waga_, they are not demonstrably cognate. In the first set, initial _w-_ is irregular, suggesting that these are borrowed words, though the source of the borrowing is unclear (Alexander Adelaar, pers.comm.). In the second set, the uncharacteristic occurrence of the cluster _ŋk_ in the Philippine and Formosan forms suggests borrowing from a Malayo-Javanic or Sulawesi source (Lawrence Reid, pers.comm.). Tagalog and Cebuano b are not the regular reflexes of PMP _&ast;w_. At present, most of the few coastal Austronesian-speaking communities left on Taiwan proper use large bamboo sailing rafts for fishing. However, there is evidence that in the nineteenth century other kinds of craft including double outriggers were in use. [Scott](../sources/Scott1982) ([1982](../sources/Scott1982):337) cites an eighteenth century Chinese observer, Huang Shi-ching, describing a built-up dugout canoe called a _manka_ [or _banka_] as follows:
 
 > A manka is a single tree trunk hollowed out, with wooden planks fastened on both sides with rattans; since they have no putty for caulking and water easily enters, the barbarians keep baling with a ladle.
 
-It is likely (Mark Donohue, pers.comm.) that the Chinese characters in question are from the Hokkien dialect and should be read as _banka_, not _manka_ as reported by Scott. The form _&ast;ba(ŋ)ka_ is however reflected both in CMP and Oceanic, and must be attributed to their common ancestor, which [Blust](../references.md#source-Blust1993) ([1993](../references.md#source-Blust1993)) labels PCEMP.
+It is likely (Mark Donohue, pers.comm.) that the Chinese characters in question are from the Hokkien dialect and should be read as _banka_, not _manka_ as reported by Scott. The form _&ast;ba(ŋ)ka_ is however reflected both in CMP and Oceanic, and must be attributed to their common ancestor, which [Blust](../sources/Blust1993) ([1993](../sources/Blust1993)) labels PCEMP.
 
 The next term is reconstructable as far back as PMP. But note the disagreement between WMP and Oceanic witnesses as to its meaning.
 
@@ -470,37 +470,37 @@ The next term is reconstructable as far back as PMP. But note the disagreement b
 '<span>outrigger float</span>'</td>
 </tr>
 <tr>
-<td>None</td><td>Malay</td><td><i>katir</i></td>
+<td>None</td><td><a href="../languages/malay">Malay</a></td><td><i>katir</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>WMP</td><td>Madurese</td><td><i>kater</i></td>
+<td>WMP</td><td><a href="../languages/madurese">Madurese</a></td><td><i>kater</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>WMP</td><td>Sundanese</td><td><i>katir</i></td>
+<td>WMP</td><td><a href="../languages/sundanese">Sundanese</a></td><td><i>katir</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>None</td><td>Maranao</td><td><i>katig</i></td>
+<td>None</td><td><a href="../languages/maranao">Maranao</a></td><td><i>katig</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>None</td><td>Tausug</td><td><i>katig</i></td>
+<td>None</td><td><a href="../languages/tausug">Tausug</a></td><td><i>katig</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>None</td><td>Cebuano</td><td><i>katig</i></td>
+<td>None</td><td><a href="../languages/cebuano">Cebuano</a></td><td><i>katig</i></td>
 <td>
 [N] '<span>float of the outrigger</span>'; [V] '<span>provide a boat with outrigger</span>'</td>
 </tr>
 <tr>
-<td>WMP</td><td>Sasak</td><td><i>katir</i></td>
+<td>WMP</td><td><a href="../languages/sasak">Sasak</a></td><td><i>katir</i></td>
 <td>
 '<span>carry between two persons</span>'</td>
 </tr>
@@ -513,56 +513,56 @@ The next term is reconstructable as far back as PMP. But note the disagreement b
 '<span>(small) outrigger canoe or canoe hull</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Manam</td><td><i>kati</i></td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>kati</i></td>
 <td>
 '<span>outrigger canoe</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kairiru</td><td><i>qat</i></td>
+<td>NNG</td><td><a href="../languages/kairiru">Kairiru</a></td><td><i>qat</i></td>
 <td>
 '<span>outrigger canoe</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Tuam</td><td><i>kat</i></td>
+<td>NNG</td><td><a href="../languages/tuam">Tuam</a></td><td><i>kat</i></td>
 <td>
 '<span>canoe platform</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>asi</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>asi</i></td>
 <td>
 '<span>hull of large multi-hulled canoe (finished more roughly than single-hulled canoe)</span>'; '<span>large canoe</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>asi-asi</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>asi-asi</i></td>
 <td>
 '<span>temporary small double canoe</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Sinaugoro</td><td><i>gasi</i></td>
+<td>PT</td><td><a href="../languages/sinaugoro">Sinaugoro</a></td><td><i>gasi</i></td>
 <td>
 '<span>outrigger canoe</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Roro</td><td><i>ahi</i></td>
+<td>PT</td><td><a href="../languages/roro">Roro</a></td><td><i>ahi</i></td>
 <td>
 '<span>canoe, hull</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Lavongai</td><td><i>kati</i></td>
+<td>MM</td><td><a href="../languages/lavongai">Lavongai</a></td><td><i>kati</i></td>
 <td>
-'<span>large outrigger canoe 50 or more feet in length</span>' (<a href="../references.md#source-Haddon1937">Haddon1937: 141</a>)
+'<span>large outrigger canoe 50 or more feet in length</span>' (<a href="../sources/Haddon1937">Haddon1937: 141</a>)
 </td>
 </tr>
 </table>
 
 
 
-Although the WMP cognates denote 'outrigger float', there is a much stronger candidate for that meaning in PMP, namely _&ast;(c,s)a(R)man_ (§4.1). Therefore we conclude that _&ast;katiR_ is unlikely to have meant 'outrigger float' in PMP and that the WMP cognates probably show semantic change. In Oceanic, reflexes of _&ast;katiR_ are confined to Western Oceanic but are widely dispersed within that large group. The Western Oceanic comparisons strongly point to an earlier meaning such as 'canoe hull' or 'small outrigger canoe'.
+Although the WMP cognates denote 'outrigger float', there is a much stronger candidate for that meaning in PMP, namely _&ast;(c,s)a(R)man_ ([§4.1](../contributions/1-7#s-4-1)). Therefore we conclude that _&ast;katiR_ is unlikely to have meant 'outrigger float' in PMP and that the WMP cognates probably show semantic change. In Oceanic, reflexes of _&ast;katiR_ are confined to Western Oceanic but are widely dispersed within that large group. The Western Oceanic comparisons strongly point to an earlier meaning such as 'canoe hull' or 'small outrigger canoe'.
 
 
 <a id="p-181"></a>
 
-Figure 24:  POc _&ast;waga_ 'canoe' (after [Koch n.d.](../references.md#source-Kochnd): 147) POc _&ast;kati(R)_ '(small) outrigger canoe or canoe hull',  POc _&ast;(q)oRa_ 'topstrake', POc _&ast;soka(r)_ 'thwart',  POc _&ast;muri-_ 'stern ',  POc _&ast;muqa-_ 'front, bow', POc _&ast;patar_ 'platform, decking', POc _&ast;saman_ 'outrigger float',  POc _&ast;kiajo_ 'outrigger boom', POc _&ast;patoto_ 'connective sticks attaching float'
+Figure 24:  POc _&ast;waga_ 'canoe' (after [Koch n.d.](../sources/Kochnd): 147) POc _&ast;kati(R)_ '(small) outrigger canoe or canoe hull',  POc _&ast;(q)oRa_ 'topstrake', POc _&ast;soka(r)_ 'thwart',  POc _&ast;muri-_ 'stern ',  POc _&ast;muqa-_ 'front, bow', POc _&ast;patar_ 'platform, decking', POc _&ast;saman_ 'outrigger float',  POc _&ast;kiajo_ 'outrigger boom', POc _&ast;patoto_ 'connective sticks attaching float'
 
 If POc _&ast;kati(R)_ referred to a small outrigger canoe, then the following set may reflect a term for a large outrigger canoe (perhaps synonymous with _&ast;waga_ in its narrower sense):
 
@@ -584,52 +584,52 @@ If POc _&ast;kati(R)_ referred to a small outrigger canoe, then the following se
 [V] '<span>large canoe</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Titan</td><td><i>drol</i></td>
+<td>Adm</td><td><a href="../languages/titan">Titan</a></td><td><i>drol</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Adm</td><td>Koro</td><td><i>dual</i></td>
+<td>Adm</td><td><a href="../languages/koro">Koro</a></td><td><i>dual</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Adm</td><td>Nali</td><td><i>droi</i></td>
+<td>Adm</td><td><a href="../languages/nali">Nali</a></td><td><i>droi</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Adm</td><td>Lele</td><td><i>dol</i></td>
+<td>Adm</td><td><a href="../languages/lele">Lele</a></td><td><i>dol</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Adm</td><td>Ere</td><td><i>drual</i></td>
+<td>Adm</td><td><a href="../languages/ere">Ere</a></td><td><i>drual</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Adm</td><td>Bohuai</td><td><i>coal</i></td>
+<td>Adm</td><td><a href="../languages/bohuai">Bohuai</a></td><td><i>coal</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Adm</td><td>Mondropolon</td><td><i>col</i></td>
+<td>Adm</td><td><a href="../languages/mondropolon">Mondropolon</a></td><td><i>col</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Adm</td><td>Drehet</td><td><i>kxoŋ</i></td>
+<td>Adm</td><td><a href="../languages/drehet">Drehet</a></td><td><i>kxoŋ</i></td>
 <td>
 '<span>canoe, boat</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Ponam</td><td><i>hol</i></td>
+<td>Adm</td><td><a href="../languages/ponam">Ponam</a></td><td><i>hol</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Adm</td><td>Loniu</td><td><i>ton</i></td>
+<td>Adm</td><td><a href="../languages/loniu">Loniu</a></td><td><i>ton</i></td>
 <td>
 </td>
 </tr>
@@ -642,33 +642,33 @@ If POc _&ast;kati(R)_ referred to a small outrigger canoe, then the following se
 '<span>plank-built canoe</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Bugotu</td><td><i>tola</i></td>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>tola</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>tola</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>tola</i></td>
 <td>
-'<span>plank-built canoe with both ends turned up not very high</span>' (<a href="../references.md#source-Haddon1937">Haddon1937: 100</a>)
+'<span>plank-built canoe with both ends turned up not very high</span>' (<a href="../sources/Haddon1937">Haddon1937: 100</a>)
 </td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>ola</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>ola</i></td>
 <td>
 '<span>plank-built canoe (built up from a plank centre keel, with bow and stern keels), with no outrigger</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Baegu</td><td><i>ola</i></td>
+<td>SES</td><td><a href="../languages/baegu">Baegu</a></td><td><i>ola</i></td>
 <td>
 '<span>canoe</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Kwai</td><td><i>ola</i></td>
+<td>SES</td><td><a href="../languages/kwai">Kwai</a></td><td><i>ola</i></td>
 <td>
 '<span>canoe</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>ora</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>ora</i></td>
 <td>
 </td>
 </tr>
@@ -676,7 +676,7 @@ If POc _&ast;kati(R)_ referred to a small outrigger canoe, then the following se
 
 
 
-Evidence for the reconstruction occurs in two geographically separated primary subgroups of Oceanic, but apparently nowhere else. Despite this distribution, the evidence would be clear enough, were it not for (i) the meaning of the Proto Southeast Solomonic term, reconstructable as 'plank-built canoe', and (ii) the fact that the Lau, Baegu, Kwai and Arosi reflexes could well reflect, not _&ast;tola_, but POc _&ast;(q)oRa_ 'strake, probably topstrake (washstrake) (§2.4) (Cristobal-Malaitan languages regularly lose POc _&ast;t_). It is possible that the forms _ola_/_ora_ reflect a falling together of _&ast;tola_ and _&ast;(q)oRa_, the meaning narrowing in favour of _&ast;(q)oRa_ and then transferred to Bugotu, Gela _tola_.
+Evidence for the reconstruction occurs in two geographically separated primary subgroups of Oceanic, but apparently nowhere else. Despite this distribution, the evidence would be clear enough, were it not for (i) the meaning of the Proto Southeast Solomonic term, reconstructable as 'plank-built canoe', and (ii) the fact that the Lau, Baegu, Kwai and Arosi reflexes could well reflect, not _&ast;tola_, but POc _&ast;(q)oRa_ 'strake, probably topstrake (washstrake) ([§2.4](../contributions/1-7#s-2-4)) (Cristobal-Malaitan languages regularly lose POc _&ast;t_). It is possible that the forms _ola_/_ora_ reflect a falling together of _&ast;tola_ and _&ast;(q)oRa_, the meaning narrowing in favour of _&ast;(q)oRa_ and then transferred to Bugotu, Gela _tola_.
 
 Evidence from other Southeast Solomonic languages further confuses the issue. Gela and Tolo (Guadalcanal) _tiola_ 'generic term for plank-built canoes' and 'Are'are _iora_, Sa'a _iola_ 'plank-built canoe' might be explained as deriving from a bimorphemic form _&ast;ti-(q)oRa_. This might be liable to conflation with reflexes of _&ast;tola_ also.
 
@@ -703,17 +703,17 @@ No term for double canoe can safely be reconstructed for any very early Austrone
 '<span>double canoe</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>foorua</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>foorua</i></td>
 <td>
 '<span>outrigger canoe</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kiribatese</td><td><i>baurua</i></td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>baurua</i></td>
 <td>
 '<span>large single outrigger voyaging canoe</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Rotuman</td><td><i>foulua</i></td>
+<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td><i>foulua</i></td>
 <td>
 '<span>ship</span>' (<span>probably a Pn borrowing</span>)</td>
 </tr>
@@ -726,22 +726,22 @@ No term for double canoe can safely be reconstructed for any very early Austrone
 '<span>double canoe</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>faulua, foulua</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>faulua, foulua</i></td>
 <td>
 '<span>ship</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>haʔugua</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>haʔugua</i></td>
 <td>
 '<span>the double canoe in which the ancestor <em>Kaituʔu</em> sailed when he discovered Rennell and Bellona</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tuvalu</td><td><i>foulua</i></td>
+<td>Pn</td><td><a href="../languages/tuvalu">Tuvalu</a></td><td><i>foulua</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>hourua</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>hourua</i></td>
 <td>
 </td>
 </tr>
@@ -780,9 +780,9 @@ cf. also:
 </table>
 
 
-PEOc _&ast;paqurua_ is a compound formed from POc _&ast;paqu(s)_ 'bind, lash; construct by tying together' (Ch. 9, § 10) and _&ast;rua_ 'two'. While it is possible that Lau _foorua_ is borrowed from a Polynesian language, the details of form do not support this notion. Lau has the independent bases _foo_ 'bind' and _rua_ 'two'. [Haddon](../references.md#source-Haddon1937) ([1937](../references.md#source-Haddon1937): 77) reports Kinilaulau (Carteret Islands) _haulau_, _holua_ 'outrigger canoe ', but this term is probably borrowed from a Polynesian language believed to have been formerly spoken on the island or from nearby Takuu.
+PEOc _&ast;paqurua_ is a compound formed from POc _&ast;paqu(s)_ 'bind, lash; construct by tying together' ([Ch. 9, § 10](../contributions/1-9#s-10)) and _&ast;rua_ 'two'. While it is possible that Lau _foorua_ is borrowed from a Polynesian language, the details of form do not support this notion. Lau has the independent bases _foo_ 'bind' and _rua_ 'two'. [Haddon](../sources/Haddon1937) ([1937](../sources/Haddon1937): 77) reports Kinilaulau (Carteret Islands) _haulau_, _holua_ 'outrigger canoe ', but this term is probably borrowed from a Polynesian language believed to have been formerly spoken on the island or from nearby Takuu.
 
-[Friederici](../references.md#source-Friederici1928) ([1928](../references.md#source-Friederici1928):31) suggests that the double canoe of Oceania (or at least the type with smaller and finer-pointed port hull) originated from a canoe with a single outrigger, on the grounds that (a) in the double canoes of Polynesia and Fiji one of the two hulls is usually smaller, the smaller hull being called by the term for the outrigger float (e.g. _hama_ in Tongan), and (b) the connecting poles between the hulls are also called by the word for the outrigger booms (_kiato_ in Tongan). On the other hand, [Haddon and Hornell](../references.md#source-HaddonHornell1938) ([1938](../references.md#source-HaddonHornell1938): 43) argue that the most likely origin of the double canoe is from two dugouts lashed together or a short distance apart. They also note the possibility that the single outrigger canoe may ultimately be derived from the double canoe by reducing the port hull to form a float. As the smaller hull and the float and the connecting poles serve the same purpose in both types of vessels, the extension of terms seen in Tongan _hama_ and _hato_ is natural. On logical grounds alone it is hard to choose between these historical interpretations. And in this case the linguistic evidence is relatively unhelpful.
+[Friederici](../sources/Friederici1928) ([1928](../sources/Friederici1928):31) suggests that the double canoe of Oceania (or at least the type with smaller and finer-pointed port hull) originated from a canoe with a single outrigger, on the grounds that (a) in the double canoes of Polynesia and Fiji one of the two hulls is usually smaller, the smaller hull being called by the term for the outrigger float (e.g. _hama_ in Tongan), and (b) the connecting poles between the hulls are also called by the word for the outrigger booms (_kiato_ in Tongan). On the other hand, [Haddon and Hornell](../sources/HaddonHornell1938) ([1938](../sources/HaddonHornell1938): 43) argue that the most likely origin of the double canoe is from two dugouts lashed together or a short distance apart. They also note the possibility that the single outrigger canoe may ultimately be derived from the double canoe by reducing the port hull to form a float. As the smaller hull and the float and the connecting poles serve the same purpose in both types of vessels, the extension of terms seen in Tongan _hama_ and _hato_ is natural. On logical grounds alone it is hard to choose between these historical interpretations. And in this case the linguistic evidence is relatively unhelpful.
 
 
 <a id="p-183"></a>
@@ -799,17 +799,17 @@ Numerous other reconstructions, attributable to interstages lower than PMP or PO
 '<span>kind of sailboat</span>' (<span>Blust 1983-84a:90</span>)</td>
 </tr>
 <tr>
-<td>None</td><td>Maranao</td><td><i>padao</i></td>
+<td>None</td><td><a href="../languages/maranao">Maranao</a></td><td><i>padao</i></td>
 <td>
 '<span>sailboat</span>'</td>
 </tr>
 <tr>
-<td>None</td><td>Malay</td><td><i>layar padau</i></td>
+<td>None</td><td><a href="../languages/malay">Malay</a></td><td><i>layar padau</i></td>
 <td>
 '<span>storm sail</span>'</td>
 </tr>
 <tr>
-<td>None</td><td>Cebuano</td><td><i>paraw</i></td>
+<td>None</td><td><a href="../languages/cebuano">Cebuano</a></td><td><i>paraw</i></td>
 <td>
 '<span>schooner, galleon</span>'</td>
 </tr>
@@ -824,26 +824,26 @@ Numerous other reconstructions, attributable to interstages lower than PMP or PO
 <i>&ast;paraSu</i>
 </td>
 <td>
-'<span>boat</span>' (<a href="../references.md#source-Dempwolff1938">Dempwolff1938</a>)
+'<span>boat</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
 </td>
 </tr>
 <tr>
-<td>None</td><td>Toba Batak</td><td><i>parau</i></td>
+<td>None</td><td><a href="../languages/tobabatak">Toba Batak</a></td><td><i>parau</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>None</td><td>Javanese</td><td><i>perau</i></td>
+<td>None</td><td><a href="../languages/javanese">Javanese</a></td><td><i>perau</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>None</td><td>Malay</td><td><i>perau</i></td>
+<td>None</td><td><a href="../languages/malay">Malay</a></td><td><i>perau</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>WMP</td><td>Ngaju Dayak</td><td><i>parau</i></td>
+<td>WMP</td><td><a href="../languages/ngajudayak">Ngaju Dayak</a></td><td><i>parau</i></td>
 <td>
 </td>
 </tr>
@@ -854,7 +854,7 @@ Numerous other reconstructions, attributable to interstages lower than PMP or PO
 
 <a id="p-184"></a>
 
-These forms have sometimes been compared with Oceanic forms represented by Tongan _folau_ 'voyage, travel by sea', Fijian _volau_ 'boat shed' (cf. _&ast;pa-laSud_, §9.2). A PPn reconstruction for a small canoe used close to shore is well supported:
+These forms have sometimes been compared with Oceanic forms represented by Tongan _folau_ 'voyage, travel by sea', Fijian _volau_ 'boat shed' (cf. _&ast;pa-laSud_, [§9.2](../contributions/1-7#s-9-2)). A PPn reconstruction for a small canoe used close to shore is well supported:
 
 <table id="1-7-2-2-184-PPn-paopao-a">
 <tr>
@@ -866,22 +866,22 @@ These forms have sometimes been compared with Oceanic forms represented by Tonga
 '<span>small outrigger or dugout canoe for inshore use</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>pōpao</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>pōpao</i></td>
 <td>
 '<span>roughly made dugout canoe with two boom outrigger</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>paopao</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>paopao</i></td>
 <td>
 '<span>small outrigger canoe with two booms</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>paopao</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>paopao</i></td>
 <td>
 '<span>craft made from log simply hollowed out, not built up</span>'; '<span>canoe, sea-going but not sacralised, in contrast to vaka tapu</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Nukuoro</td><td><i>paopao</i></td>
+<td>Pn</td><td><a href="../languages/nukuoro">Nukuoro</a></td><td><i>paopao</i></td>
 <td>
 '<span>double-ended single outrigger with two booms</span>'</td>
 </tr>
@@ -891,7 +891,7 @@ These forms have sometimes been compared with Oceanic forms represented by Tonga
 
 A possible cognate occurs in a single Western Oceanic language, Mekeo of the Central Province of Papua. East Mekeo has _papao_ (dialect _fafao_) 'small canoe for children, also used as a trough for feeding pigs'. Reduction of the first vowel cluster of a reduplicated word is characteristic of Mekeo (Alan Jones, pers.comm.). This comparison points to POc _&ast;paopao_ 'small outrigger canoe', though it needs strengthening by further cognates beyond Polynesian.
 
-[Blust](../references.md#source-Blust1986) ([1986](../references.md#source-Blust1986):33) reconstructs the term _&ast;dakit_, noting a number of reflexes within the WMP region and a regular reflex in one Oceanic language, Motu. To these may be added many other Philippine and Northern Sulawesi reflexes (given in [Reid 1971](../references.md#source-Reid1971)) and possible reflexes in CMP and Western Oceanic.
+[Blust](../sources/Blust1986) ([1986](../sources/Blust1986):33) reconstructs the term _&ast;dakit_, noting a number of reflexes within the WMP region and a regular reflex in one Oceanic language, Motu. To these may be added many other Philippine and Northern Sulawesi reflexes (given in [Reid 1971](../sources/Reid1971)) and possible reflexes in CMP and Western Oceanic.
 
 <table id="1-7-2-2-184-POc-rakit-a">
 <tr>
@@ -900,76 +900,76 @@ A possible cognate occurs in a single Western Oceanic language, Mekeo of the Cen
 <i>&ast;dakit</i>
 </td>
 <td>
-[N] '<span>raft</span>'; [V] '<span>join along the length</span>' (<a href="../references.md#source-Blust1986">Blust1986</a>)
+[N] '<span>raft</span>'; [V] '<span>join along the length</span>' (<a href="../sources/Blust1986">Blust1986</a>)
 </td>
 </tr>
 <tr>
-<td>None</td><td>Aklanon</td><td><i>gākit</i></td>
+<td>None</td><td><a href="../languages/aklanon">Aklanon</a></td><td><i>gākit</i></td>
 <td>
 '<span>raft</span>'</td>
 </tr>
 <tr>
-<td>WMP</td><td>Gaddang</td><td><i>gakit</i></td>
+<td>WMP</td><td><a href="../languages/gaddang">Gaddang</a></td><td><i>gakit</i></td>
 <td>
 '<span>raft</span>'</td>
 </tr>
 <tr>
-<td>WMP</td><td>Isneg</td><td><i>gākit</i></td>
+<td>WMP</td><td><a href="../languages/isneg">Isneg</a></td><td><i>gākit</i></td>
 <td>
 '<span>raft</span>'</td>
 </tr>
 <tr>
-<td>WMP</td><td>Ivatan</td><td><i>dākit</i></td>
+<td>WMP</td><td><a href="../languages/ivatan">Ivatan</a></td><td><i>dākit</i></td>
 <td>
 '<span>raft</span>'</td>
 </tr>
 <tr>
-<td>WMP</td><td>Kankanay</td><td><i>lakit</i></td>
+<td>WMP</td><td><a href="../languages/kankanay">Kankanay</a></td><td><i>lakit</i></td>
 <td>
 '<span>raft</span>'</td>
 </tr>
 <tr>
-<td>None</td><td>Malay</td><td><i>rakit</i></td>
+<td>None</td><td><a href="../languages/malay">Malay</a></td><td><i>rakit</i></td>
 <td>
 '<span>raft</span>'</td>
 </tr>
 <tr>
-<td>None</td><td>Sangir</td><td><i>hakiq</i></td>
+<td>None</td><td><a href="../languages/sangir">Sangir</a></td><td><i>hakiq</i></td>
 <td>
 '<span>raft</span>'</td>
 </tr>
 <tr>
-<td>WMP</td><td>Sundanese</td><td><i>rakit</i></td>
+<td>WMP</td><td><a href="../languages/sundanese">Sundanese</a></td><td><i>rakit</i></td>
 <td>
 '<span>raft</span>'</td>
 </tr>
 <tr>
-<td>None</td><td>Wolio</td><td><i>rakii</i></td>
+<td>None</td><td><a href="../languages/wolio">Wolio</a></td><td><i>rakii</i></td>
 <td>
 [v] '<span>join along the length</span>'</td>
 </tr>
 <tr>
-<td>None</td><td>Balangaw</td><td><i>dakit</i></td>
+<td>None</td><td><a href="../languages/balangaw">Balangaw</a></td><td><i>dakit</i></td>
 <td>
 '<span>put very close</span>'</td>
 </tr>
 <tr>
-<td>WMP</td><td>Sika</td><td><i>dakit (wii)</i></td>
+<td>WMP</td><td><a href="../languages/sika">Sika</a></td><td><i>dakit (wii)</i></td>
 <td>
 '<span>(earth, flour, resin) cleave, stick together</span>'</td>
 </tr>
 <tr>
-<td>WMP</td><td>Maloh</td><td><i>daʔit</i></td>
+<td>WMP</td><td><a href="../languages/maloh">Maloh</a></td><td><i>daʔit</i></td>
 <td>
 '<span>raft</span>'</td>
 </tr>
 <tr>
-<td>WMP</td><td>Maloh</td><td><i>dakit</i></td>
+<td>WMP</td><td><a href="../languages/maloh">Maloh</a></td><td><i>dakit</i></td>
 <td>
 '<span>join along the length</span>'</td>
 </tr>
 <tr>
-<td>CMP</td><td>Taliabo</td><td><i>(ka)haŋkiʔ</i></td>
+<td>CMP</td><td><a href="../languages/taliabo">Taliabo</a></td><td><i>(ka)haŋkiʔ</i></td>
 <td>
 '<span>raft</span>' (<span>Charles Grimes, pers.comm.</span>)</td>
 </tr>
@@ -982,7 +982,7 @@ A possible cognate occurs in a single Western Oceanic language, Mekeo of the Cen
 '<span>raft; join outrigger, join two hulls</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>rai</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>rai</i></td>
 <td>
 '<span>prepare a canoe for the sea; tie the outrigger on; tie two canoes to make an <em>irai</em> (double-hulled canoe)</span>'</td>
 </tr>
@@ -990,7 +990,7 @@ A possible cognate occurs in a single Western Oceanic language, Mekeo of the Cen
 
 
 
-[Chowning](../references.md#source-Chowning1985) ([1985](../references.md#source-Chowning1985): 59) gives the following as possible cognates, although the final vowel is problematic:
+[Chowning](../sources/Chowning1985) ([1985](../sources/Chowning1985): 59) gives the following as possible cognates, although the final vowel is problematic:
 
 <table id="1-7-2-2-184-nng-kove-lae">
 <tr>
@@ -1020,7 +1020,7 @@ A possible cognate occurs in a single Western Oceanic language, Mekeo of the Cen
 
 In pre-European times three basic hull designs were found in Austronesian-speaking communities: (a) a dugout built from a single log; (b) a five-part canoe, composed of dug-out hull, with the sides raised by sewing one side piece or strake to each side, with forked, crutch-shaped pieces at each end; and (c) a built-up canoe, in which a number of planks or strakes are added to a keel. The keel may consist of a thick plank or a dugout underbody (or sometimes two or even three dugouts joined).
 
-Ethnologists have argued on logical grounds that types (b) and (c) developed from the dugout prototype. In his account of Philippine boat-building in the sixteenth and seventeenth centuries, [Scott](../references.md#source-Scott1982) ([1982](../references.md#source-Scott1982): 337-338) sketches a theory of the evolution of the hull of Philippine boats:
+Ethnologists have argued on logical grounds that types (b) and (c) developed from the dugout prototype. In his account of Philippine boat-building in the sixteenth and seventeenth centuries, [Scott](../sources/Scott1982) ([1982](../sources/Scott1982): 337-338) sketches a theory of the evolution of the hull of Philippine boats:
 
 > In the ship-building technique [developed in China and Europe in the Middle Ages] … a rigid framework of keel and ribs is first constructed … and the wooden planking of the hull then nailed to it with metal spikes or wooden trenails. The older technique was to build the hull first, plank by plank carved to fit, and to fasten the ribs in afterwards. This technique is probably a natural development of the one-log dugout canoe by adding one board to each side to obtain higher freeboard.
 
@@ -1034,7 +1034,7 @@ The question arises as to whether any or all of these features of hull design ar
 ### 2.4. Planking
 
 
-The comparisons below and in §2.5point to the use by speakers of PMP and its immediate descendants, of boats built up by planking and strengthened by thwarts:
+The comparisons below and in [§2.5](../contributions/1-7#s-2-5)point to the use by speakers of PMP and its immediate descendants, of boats built up by planking and strengthened by thwarts:
 
 <table id="1-7-2-4-185-POc-baban-a">
 <tr>
@@ -1046,27 +1046,27 @@ The comparisons below and in §2.5point to the use by speakers of PMP and its im
 '<span>plank (of boat +), strake</span>'</td>
 </tr>
 <tr>
-<td>None</td><td>Malay</td><td><i>papan</i></td>
+<td>None</td><td><a href="../languages/malay">Malay</a></td><td><i>papan</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>WMP</td><td>Madurese</td><td><i>papan</i></td>
+<td>WMP</td><td><a href="../languages/madurese">Madurese</a></td><td><i>papan</i></td>
 <td>
  (<span>Horridge</span>)</td>
 </tr>
 <tr>
-<td>WMP</td><td>Bajau</td><td><i>papan</i></td>
+<td>WMP</td><td><a href="../languages/bajau">Bajau</a></td><td><i>papan</i></td>
 <td>
  (<span>Horridge</span>)</td>
 </tr>
 <tr>
-<td>WMP</td><td>Buginese</td><td><i>papan</i></td>
+<td>WMP</td><td><a href="../languages/buginese">Buginese</a></td><td><i>papan</i></td>
 <td>
  (<span>Horridge</span>)</td>
 </tr>
 <tr>
-<td>None</td><td>Buru</td><td><i>papa-n</i></td>
+<td>None</td><td><a href="../languages/buru">Buru</a></td><td><i>papa-n</i></td>
 <td>
 </td>
 </tr>
@@ -1079,62 +1079,62 @@ The comparisons below and in §2.5point to the use by speakers of PMP and its im
 '<span>plank</span>'; '<span>canoe plank or strake</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Molima</td><td><i>baba</i></td>
+<td>PT</td><td><a href="../languages/molima">Molima</a></td><td><i>baba</i></td>
 <td>
 '<span>lower plank on canoe</span>'; '<span>put plank on canoe</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Wedau</td><td><i>papana</i></td>
+<td>PT</td><td><a href="../languages/wedau">Wedau</a></td><td><i>papana</i></td>
 <td>
 '<span>built-up canoe</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>baba</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>baba</i></td>
 <td>
 '<span>long side board of canoe</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>hapa</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>hapa</i></td>
 <td>
 '<span>plank</span>'; '<span>thwart of canoe</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Bugotu</td><td><i>pava</i></td>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>pava</i></td>
 <td>
 '<span>plank</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kosraean</td><td><i>pæp</i></td>
+<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td><i>pæp</i></td>
 <td>
 '<span>sides of canoe</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Puluwatese</td><td><i>pāp</i></td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>pāp</i></td>
 <td>
 '<span>board; canoe planks</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Trukese</td><td><i>pape-n (wā)</i></td>
+<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td><i>pape-n (wā)</i></td>
 <td>
 '<span>canoe strake</span>' (<span><em>pape-</em> 'plank', <em>-n</em> 'construct suffix', wā 'canoe'</span>)</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>bava</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>bava</i></td>
 <td>
 '<span>washstrake or upper planks of canoe</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>baba</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>baba</i></td>
 <td>
 '<span>side planks of canoe</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>papa</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>papa</i></td>
 <td>
 '<span>board, flat, hard surface</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Hawaiian</td><td><i>papa</i></td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>papa</i></td>
 <td>
 '<span>flat, hard surface, board</span>'</td>
 </tr>
@@ -1142,7 +1142,7 @@ The comparisons below and in §2.5point to the use by speakers of PMP and its im
 
 
 
-PMP _&ast;papan_ evidently referred to any plank or board (see Ch. 3, §3. S). It might be argued that this term could have been independently applied to canoe strakes or planks by different daughter languages after the break-up of PMP. However, the fact that in diverse Malayo-Polynesian languages reflexes of _&ast;papan_ are consistently used of canoe planks, even in cases when another general word for plank or board has developed, is a fairly strong indication that this application goes back to PMP times.
+PMP _&ast;papan_ evidently referred to any plank or board (see [Ch. 3, §3](../contributions/1-3#s-3). S). It might be argued that this term could have been independently applied to canoe strakes or planks by different daughter languages after the break-up of PMP. However, the fact that in diverse Malayo-Polynesian languages reflexes of _&ast;papan_ are consistently used of canoe planks, even in cases when another general word for plank or board has developed, is a fairly strong indication that this application goes back to PMP times.
 
 
 <a id="p-186"></a>
@@ -1157,42 +1157,42 @@ PMP _&ast;papan_ evidently referred to any plank or board (see Ch. 3, §3. S). I
 '<span>strake, probably topstrake (washstrake)</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Mono-Alu</td><td><i>ora</i></td>
+<td>MM</td><td><a href="../languages/monoalu">Mono-Alu</a></td><td><i>ora</i></td>
 <td>
 '<span>median strake at each end, above keel strakes on a canoe with dugout underbody</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>oa</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>oa</i></td>
 <td>
 '<span>washstrake, grooved and drilled for lashing to the hull</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>oa</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>oa</i></td>
 <td>
 '<span>gunwale and gunwale flange</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Pukapukan</td><td><i>oa</i></td>
+<td>Pn</td><td><a href="../languages/pukapukan">Pukapukan</a></td><td><i>oa</i></td>
 <td>
 '<span>washstrake</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rarotongan</td><td><i>oa</i></td>
+<td>Pn</td><td><a href="../languages/rarotongan">Rarotongan</a></td><td><i>oa</i></td>
 <td>
 '<span>sideplank or planks of a canoe, lashed to the main body; the gunwale or seaboard of a canoe</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tokelauan</td><td><i>oa</i></td>
+<td>Pn</td><td><a href="../languages/tokelauan">Tokelauan</a></td><td><i>oa</i></td>
 <td>
 '<span>gunwale</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>oa</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>oa</i></td>
 <td>
 '<span>top strake, gunwale</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>oa</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>oa</i></td>
 <td>
 '<span>side boards of a canoe</span>'</td>
 </tr>
@@ -1200,16 +1200,16 @@ PMP _&ast;papan_ evidently referred to any plank or board (see Ch. 3, §3. S). I
 
 
 
-Possible cognates of _&ast;(q)oRa_ occur in Cristobal-Malaitan languages of the Southeast Solomonic family: Arosi ora, Lau ola 'plank-built canoe (built up from a plank centre keel, with bow and stern keels), with no outrigger'. As noted in §2.1, however, their interpretation is difficult, as they could also reflect POc _&ast;tola_ 'large canoe'.
+Possible cognates of _&ast;(q)oRa_ occur in Cristobal-Malaitan languages of the Southeast Solomonic family: Arosi ora, Lau ola 'plank-built canoe (built up from a plank centre keel, with bow and stern keels), with no outrigger'. As noted in [§2.1](../contributions/1-7#s-2-1), however, their interpretation is difficult, as they could also reflect POc _&ast;tola_ 'large canoe'.
 
-The question of how planks were joined is connected to the question of whether early Austronesian communities used stone or metal tools, as the following remarks by [Scott](../references.md#source-Scott1982) ([1982](../references.md#source-Scott1982):338-339) make clear:
+The question of how planks were joined is connected to the question of whether early Austronesian communities used stone or metal tools, as the following remarks by [Scott](../sources/Scott1982) ([1982](../sources/Scott1982):338-339) make clear:
 
 > Historically there are two methods by which the planks in [Philippine] plank-built boats are fastened together - sewing and edge-pegging. Sewing - or, better said, lacing - the boards together is done by drilling a matching row of holes through the two boards near their adjoining edges, and running rattan strips through them in the manner of lacing up a shoe or basketball. This is the older technique and it can be performed with even a simple stone or bone drill, as was still being done in remote Pacific islands … Stone tools are probably inadequate for drilling deep holes in the thin edges of boards, and it is therefore not surprising that edge-pegging does not appear in those distant Pacific islands whose inhabitants presumably migrated there without metal.
 
 
 <a id="p-187"></a>
 
-We can reconstruct PMP _&ast;kiRam_ 'adze/axe' and _&ast;taRaqi_ (V) 'adze, carve' (Ch. 4, §4.1.1), with reflexes in Oceanic as well as in WMP witnesses, but there are no secure PMP or POc reconstructions for other equipment likely to have been used in boat-building.[^11] The current consensus among archaeologists is that the introduction of metal in eastern Asia postdated the break-up of PAn and PMP. Although [Blust](../references.md#source-Blust1976b) ([1976b](../references.md#source-Blust1976b)) has pointed to comparisons between Formosan and WMP forms suggesting that PAn speakers may have had a knowledge of metal tools, it is likely that this knowledge spread after the break-up of PAn and PMP.
+We can reconstruct PMP _&ast;kiRam_ 'adze/axe' and _&ast;taRaqi_ (V) 'adze, carve' ([Ch. 4, §4.1.1](../contributions/1-4#s-4-1-1)), with reflexes in Oceanic as well as in WMP witnesses, but there are no secure PMP or POc reconstructions for other equipment likely to have been used in boat-building.[^11] The current consensus among archaeologists is that the introduction of metal in eastern Asia postdated the break-up of PAn and PMP. Although [Blust](../sources/Blust1976b) ([1976b](../sources/Blust1976b)) has pointed to comparisons between Formosan and WMP forms suggesting that PAn speakers may have had a knowledge of metal tools, it is likely that this knowledge spread after the break-up of PAn and PMP.
 
 
 <a id="s-2-5"></a>
@@ -1224,21 +1224,21 @@ We can reconstruct PMP _&ast;kiRam_ 'adze/axe' and _&ast;taRaqi_ (V) 'adze, carv
 <i>&ast;seŋkar</i>
 </td>
 <td>
-'<span>cross-seat in boat, thwart</span>' (<a href="../references.md#source-Blust1972b">Blust1972b</a>)
+'<span>cross-seat in boat, thwart</span>' (<a href="../sources/Blust1972b">Blust1972b</a>)
 </td>
 </tr>
 <tr>
-<td>WMP</td><td>Iban</td><td><i>seŋka</i></td>
+<td>WMP</td><td><a href="../languages/iban">Iban</a></td><td><i>seŋka</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>None</td><td>Malay</td><td><i>seŋkar</i></td>
+<td>None</td><td><a href="../languages/malay">Malay</a></td><td><i>seŋkar</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>None</td><td>Tagalog</td><td><i>saŋkal</i></td>
+<td>None</td><td><a href="../languages/tagalog">Tagalog</a></td><td><i>saŋkal</i></td>
 <td>
 </td>
 </tr>
@@ -1251,27 +1251,27 @@ We can reconstruct PMP _&ast;kiRam_ 'adze/axe' and _&ast;taRaqi_ (V) 'adze, carv
 '<span>thwart</span>'; '<span>bracing timber, crossbeam</span>' (<span>cf. Ch. 3, §3.4</span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kiribatese</td><td><i>oka</i></td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>oka</i></td>
 <td>
 '<span>rafter of house going from horizontal beam to ridgepole</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>soka</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>soka</i></td>
 <td>
 '<span>thwart</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>(i)ðoka</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>(i)ðoka</i></td>
 <td>
 '<span>collar-beam in house</span>' (<span><em>i-</em> &lt; POc <em>*i-</em> INS</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>hoka</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>hoka</i></td>
 <td>
 '<span>upright timber supporting ridgepole</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>soʔa</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>soʔa</i></td>
 <td>
 '<span>collar beam of house</span>'</td>
 </tr>
@@ -1285,7 +1285,7 @@ We can reconstruct PMP _&ast;kiRam_ 'adze/axe' and _&ast;taRaqi_ (V) 'adze, carv
 ### 2.6. Underbody, keel
 
 
-There is no well-supported PMP reconstruction for 'dugout underbody of canoe (to which planking is added)' or for 'keel of built-up canoe' although _&ast;ba(ŋ)ka(q)_ (§2.1) is a candidate for the former. Such a term is, however, clearly reconstructable for PCP:
+There is no well-supported PMP reconstruction for 'dugout underbody of canoe (to which planking is added)' or for 'keel of built-up canoe' although _&ast;ba(ŋ)ka(q)_ ([§2.1](../contributions/1-7#s-2-1)) is a candidate for the former. Such a term is, however, clearly reconstructable for PCP:
 
 <table id="1-7-2-6-187-PCP-takele-a">
 <tr>
@@ -1297,42 +1297,42 @@ There is no well-supported PMP reconstruction for 'dugout underbody of canoe (to
 '<span>keel or dugout underbody to which planking is added</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>takele</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>takele</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>(i)takele</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>(i)takele</i></td>
 <td>
  (<span><em>i-</em> &lt; POc <em>*i-</em> INS</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>takele</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>takele</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>taʔele</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>taʔele</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>takere</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>takere</i></td>
 <td>
 '<span>bottom of container, bilge of a canoe hull</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rarotongan</td><td><i>takere</i></td>
+<td>Pn</td><td><a href="../languages/rarotongan">Rarotongan</a></td><td><i>takere</i></td>
 <td>
 '<span>dugout underbody when washstrakes are present</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>takere</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>takere</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Hawaiian</td><td><i>kaʔele</i></td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>kaʔele</i></td>
 <td>
 '<span>canoe hull; inside bottom of a container</span>'</td>
 </tr>
@@ -1361,32 +1361,32 @@ A PPn term for 'bilge, interior of hull' is well supported but cognates have not
 '<span>bilge, interior of hull</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>liu</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>liu</i></td>
 <td>
 '<span>bilge</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>liu</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>liu</i></td>
 <td>
 '<span>inside of a cup, canoe</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>liu</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>liu</i></td>
 <td>
 '<span>bilge water</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>giu</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>giu</i></td>
 <td>
 '<span>bilge, interior of basket, bowl +</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>riu</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>riu</i></td>
 <td>
 '<span>inside of a container; bilge of a canoe</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>riu</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>riu</i></td>
 <td>
 '<span>bilge, valley, basin</span>'</td>
 </tr>
@@ -1412,37 +1412,37 @@ Two well-attested POc locative nouns having the general sense of 'rear, back par
 '<span>rear, stern</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Mussau</td><td><i>muri</i></td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>muri</i></td>
 <td>
 '<span>stern</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Gedaged</td><td><i>muzi-n</i></td>
+<td>NNG</td><td><a href="../languages/gedaged">Gedaged</a></td><td><i>muzi-n</i></td>
 <td>
 '<span>rear, stern</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nakanai</td><td><i>mori</i></td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>mori</i></td>
 <td>
 '<span>stern</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Vitu</td><td><i>muri</i></td>
+<td>MM</td><td><a href="../languages/vitu">Vitu</a></td><td><i>muri</i></td>
 <td>
 '<span>stern</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Ghari</td><td><i>muri-na</i></td>
+<td>SES</td><td><a href="../languages/ghari">Ghari</a></td><td><i>muri-na</i></td>
 <td>
 '<span>stern of a boat, hindquarters</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>buri</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>buri</i></td>
 <td>
 '<span>stern, rear</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>puri</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>puri</i></td>
 <td>
 '<span>stern</span>'</td>
 </tr>
@@ -1450,7 +1450,7 @@ Two well-attested POc locative nouns having the general sense of 'rear, back par
 
 
 
-See also PPn _&ast;tau-muri_ 'afterdeck' (§2.10)
+See also PPn _&ast;tau-muri_ 'afterdeck' ([§2.10](../contributions/1-7#s-2-10))
 
 <table id="1-7-2-8-188-POc-muqa-a">
 <tr>
@@ -1462,37 +1462,37 @@ See also PPn _&ast;tau-muri_ 'afterdeck' (§2.10)
 '<span>front, bow of boat</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Mussau</td><td><i>mua</i></td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>mua</i></td>
 <td>
 '<span>bow</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Gedaged</td><td><i>muga(ŋ)</i></td>
+<td>NNG</td><td><a href="../languages/gedaged">Gedaged</a></td><td><i>muga(ŋ)</i></td>
 <td>
 '<span>front part, bow of boat</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Roviana</td><td><i>(ke)mua</i></td>
+<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td><i>(ke)mua</i></td>
 <td>
 '<span>bow</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>mua</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>mua</i></td>
 <td>
 '<span>tip, point, front</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>mua (e liu)</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>mua (e liu)</i></td>
 <td>
 '<span>prow of boat</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>(tau-)muʔa</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>(tau-)muʔa</i></td>
 <td>
 [V] '<span>steer for s.t.</span>'; [N] '<span>prow</span>'; [N] '<span>aim, goal</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>(tau-)mua</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>(tau-)mua</i></td>
 <td>
 '<span>bows of boats</span>'</td>
 </tr>
@@ -1500,7 +1500,7 @@ See also PPn _&ast;tau-muri_ 'afterdeck' (§2.10)
 
 
 
-See also PPn _&ast;tau-mu ʔa_ 'foredeck ' (§2.10).
+See also PPn _&ast;tau-mu ʔa_ 'foredeck ' ([§2.10](../contributions/1-7#s-2-10)).
 
 
 <a id="p-189"></a>
@@ -1511,7 +1511,7 @@ See also PPn _&ast;tau-mu ʔa_ 'foredeck ' (§2.10).
 ### 2.9. Carved projecting end-pieces
 
 
-Figure 25: POc _&ast;ijuŋ_ 'projecting headboard of prow' (from [Nevermann 1934](../references.md#source-Nevermann1934):285)
+Figure 25: POc _&ast;ijuŋ_ 'projecting headboard of prow' (from [Nevermann 1934](../sources/Nevermann1934):285)
 
 In many regions of Oceania larger canoes are constructed with a projecting headboard, part of it resting on the underbody abutting the washstrake, the rest sometimes extending several feet beyond. The end of such headboards usually consists of an elaborately carved figurehead, often a human or animal head or figure. There is a corresponding carved end-board at the stern, often standing more or less vertical. Such carved end-pieces are common, for example, in eastern Polynesia, the Solomon Islands, the Massim, the north coast of New Guinea and the Bismarck Archipelago. A POc reconstruction can be made for the name of the headboard:
 
@@ -1525,57 +1525,57 @@ In many regions of Oceania larger canoes are constructed with a projecting headb
 '<span>projecting headboard of prow, often with ornately carved figurehead</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Mussau</td><td><i>uru(gila)</i></td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>uru(gila)</i></td>
 <td>
 '<span>beak like projection on bow, in shape of bird</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>New Georgia language (unspecified) (Haddon 1937: 104, 106)</td><td><i>(toto)ishu</i></td>
+<td>MM</td><td><a href="../languages/ngl">New Georgia language (unspecified) (Haddon 1937: 104, 106)</a></td><td><i>(toto)ishu</i></td>
 <td>
 '<span>figurehead on canoe prow</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>ʔisu</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>ʔisu</i></td>
 <td>
 '<span>pieces erected on bow and stern</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>isu</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>isu</i></td>
 <td>
 '<span>prow</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>isu (fana)</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>isu (fana)</i></td>
 <td>
 '<span>pointed end of canoe</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongareva</td><td><i>isu</i></td>
+<td>Pn</td><td><a href="../languages/tongareva">Tongareva</a></td><td><i>isu</i></td>
 <td>
 '<span>projecting headboard</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Manihiki</td><td><i>ihu</i></td>
+<td>Pn</td><td><a href="../languages/manihiki">Manihiki</a></td><td><i>ihu</i></td>
 <td>
 '<span>projecting headboard</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>ihu (waka)</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>ihu (waka)</i></td>
 <td>
 '<span>carved figurehead on prow</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tahitian</td><td><i>ihu, ihu (vaʔa)</i></td>
+<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td><i>ihu, ihu (vaʔa)</i></td>
 <td>
 '<span>projecting headboard on prow</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Hawaiian</td><td><i>ihu</i></td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>ihu</i></td>
 <td>
 '<span>prow</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Hawaiian</td><td><i>(laʔau) ihu</i></td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>(laʔau) ihu</i></td>
 <td>
 '<span>end-piece at head</span>' (<span>vs Laʔau hope 'end-piece at stern'</span>)</td>
 </tr>
@@ -1588,12 +1588,12 @@ In many regions of Oceania larger canoes are constructed with a projecting headb
 '<span>carved prow</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Iduna</td><td><i>mudu</i></td>
+<td>PT</td><td><a href="../languages/iduna">Iduna</a></td><td><i>mudu</i></td>
 <td>
 '<span>carved prow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Roviana</td><td><i>ŋuzu-ŋuzu</i></td>
+<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td><i>ŋuzu-ŋuzu</i></td>
 <td>
 '<span>figurehead of a tomoko war canoe</span>'</td>
 </tr>
@@ -1626,67 +1626,67 @@ While outrigger canoes with simple dugout hull are suitable for inshore sailing,
 '<span>end-decking, end-piece covering bow and stern of canoe hull</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Rotuman</td><td><i>fau</i></td>
+<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td><i>fau</i></td>
 <td>
 [V] '<span>cover</span>'; [N] '<span>cover</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>tau</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>tau</i></td>
 <td>
 '<span>triangular decking covering bow and stern</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>tau(-muʔa)</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>tau(-muʔa)</i></td>
 <td>
 '<span>bow, foredeck</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>tau</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>tau</i></td>
 <td>
 '<span>deck</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>tau(-mua)</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>tau(-mua)</i></td>
 <td>
 '<span>bow, foredeck</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>tau(-muli)</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>tau(-muli)</i></td>
 <td>
 '<span>stern, afterdeck</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Nukuria</td><td><i>tau</i></td>
+<td>Pn</td><td><a href="../languages/nukuria">Nukuria</a></td><td><i>tau</i></td>
 <td>
 '<span>bow-board, stern-board</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>tau(-muli)</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>tau(-muli)</i></td>
 <td>
 '<span>stern</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tokelauan</td><td><i>tau</i></td>
+<td>Pn</td><td><a href="../languages/tokelauan">Tokelauan</a></td><td><i>tau</i></td>
 <td>
 '<span>point at which the keel meets the curve of the bow or stern</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tokelauan</td><td><i>tau(-mua)</i></td>
+<td>Pn</td><td><a href="../languages/tokelauan">Tokelauan</a></td><td><i>tau(-mua)</i></td>
 <td>
 '<span>bow, forepart of boat</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tokelauan</td><td><i>tau(-muli)</i></td>
+<td>Pn</td><td><a href="../languages/tokelauan">Tokelauan</a></td><td><i>tau(-muli)</i></td>
 <td>
 '<span>stern</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>tau(-rapa)</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>tau(-rapa)</i></td>
 <td>
 '<span>carved end-piece affixed to stern</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>tau(-ihu)</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>tau(-ihu)</i></td>
 <td>
 '<span>carved figurehead affixed to prow</span>'</td>
 </tr>
@@ -1717,7 +1717,7 @@ On medium-sized and large canoes a platform is sometimes built over the hull and
 <i>&ast;pa(n)tar</i>
 </td>
 <td>
-'<span>shelf; bed-frame of wooden or bamboo laths</span>' (<a href="../references.md#source-Blust1980b">Blust1980b: 123</a>)
+'<span>shelf; bed-frame of wooden or bamboo laths</span>' (<a href="../sources/Blust1980b">Blust1980b: 123</a>)
 </td>
 </tr>
 <tr>
@@ -1729,72 +1729,72 @@ On medium-sized and large canoes a platform is sometimes built over the hull and
 '<span>platform of any kind, including that erected over hull and outrigger framework</span>' (<span>cf Ch. 3, §3.5</span>)</td>
 </tr>
 <tr>
-<td>Adm</td><td>Seimat</td><td><i>paca</i></td>
+<td>Adm</td><td><a href="../languages/seimat">Seimat</a></td><td><i>paca</i></td>
 <td>
 '<span>canoe platform</span>' (<span>Haddon</span>)</td>
 </tr>
 <tr>
-<td>PT</td><td>Kilivila</td><td><i>pita-patile</i></td>
+<td>PT</td><td><a href="../languages/kilivila">Kilivila</a></td><td><i>pita-patile</i></td>
 <td>
 '<span>canoe platform</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Molima</td><td><i>vata-vata</i></td>
+<td>PT</td><td><a href="../languages/molima">Molima</a></td><td><i>vata-vata</i></td>
 <td>
 '<span>platform of any kind</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Molima</td><td><i>vata-vatala</i></td>
+<td>PT</td><td><a href="../languages/molima">Molima</a></td><td><i>vata-vatala</i></td>
 <td>
 '<span>canoe platform</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Suau (Daui)</td><td><i>pata-patari</i></td>
+<td>PT</td><td><a href="../languages/suaudaui">Suau (Daui)</a></td><td><i>pata-patari</i></td>
 <td>
 '<span>canoe platform of poles stretching across all the booms</span>' (<span>Haddon</span>)</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>pata</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>pata</i></td>
 <td>
 '<span>shelf, table</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tolai</td><td><i>vatar</i></td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>vatar</i></td>
 <td>
 '<span>bamboo or board platform on canoe</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>hā</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>hā</i></td>
 <td>
 '<span>platform</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>'Are'are</td><td><i>hā</i></td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>hā</i></td>
 <td>
 '<span>generic name for stage, shelf, small platform above fireplace</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Tolo</td><td><i>pata</i></td>
+<td>SES</td><td><a href="../languages/tolo">Tolo</a></td><td><i>pata</i></td>
 <td>
 '<span>raft</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Raga</td><td><i>bata</i></td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>bata</i></td>
 <td>
 '<span>canoe platform</span>' (<span>Haddon</span>)</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>vata</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>vata</i></td>
 <td>
 '<span>platform, shelf</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>hata</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>hata</i></td>
 <td>
 '<span>platform, canoe platform</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>fata</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>fata</i></td>
 <td>
 '<span>platform (over canoe +)</span>'</td>
 </tr>
@@ -1811,7 +1811,7 @@ On medium-sized and large canoes a platform is sometimes built over the hull and
 ### 3.2. Cabin, deck hut
 
 
-A deck hut is often added to large outrigger canoes but no widespread cognate set distinctively denoting such a structure has so far been noted. In a number of languages, reflexes of PMP _&ast;balay_, POc _&ast;pale_ 'hut, shed, open-sided house' (Ch. 3, §3.3) are used for a deck hut, for example, Fijian _vale waqa_ (lit. 'canoe house'), and _valevale_ 'hut' ([Hornell 1936](../references.md#source-Hornell1936):323), and this may also have been the case in POco
+A deck hut is often added to large outrigger canoes but no widespread cognate set distinctively denoting such a structure has so far been noted. In a number of languages, reflexes of PMP _&ast;balay_, POc _&ast;pale_ 'hut, shed, open-sided house' ([Ch. 3, §3.3](../contributions/1-3#s-3-3)) are used for a deck hut, for example, Fijian _vale waqa_ (lit. 'canoe house'), and _valevale_ 'hut' ([Hornell 1936](../sources/Hornell1936):323), and this may also have been the case in POco
 
 
 <a id="s-4"></a>
@@ -1825,7 +1825,7 @@ A deck hut is often added to large outrigger canoes but no widespread cognate se
 ### 4.1. Outrigger float, outrigger side of canoe
 
 
-The meaning 'outrigger float' can be attributed to PMP _&ast;(c,s)a(R)man_. This term is well attested in Oceanic and Central/Eastern Malayo-Polynesian, but rare in WMP. In many WMP languages it has been replaced in this meaning by a reflex of _&ast;katiR_ (§2.1). In Oceanic languages the reflex of POc _&ast;saman_ also has the sense of 'outrigger side of the canoe' in contrast to _&ast;katae_ 'free side of canoe' (§4.4).
+The meaning 'outrigger float' can be attributed to PMP _&ast;(c,s)a(R)man_. This term is well attested in Oceanic and Central/Eastern Malayo-Polynesian, but rare in WMP. In many WMP languages it has been replaced in this meaning by a reflex of _&ast;katiR_ ([§2.1](../contributions/1-7#s-2-1)). In Oceanic languages the reflex of POc _&ast;saman_ also has the sense of 'outrigger side of the canoe' in contrast to _&ast;katae_ 'free side of canoe' ([§4.4](../contributions/1-7#s-4-4)).
 
 <table id="1-7-4-1-191-POc-saman-a">
 <tr>
@@ -1837,47 +1837,47 @@ The meaning 'outrigger float' can be attributed to PMP _&ast;(c,s)a(R)man_. This
 '<span>outrigger float</span>'</td>
 </tr>
 <tr>
-<td>None</td><td>Sangir</td><td><i>sahemaŋ</i></td>
+<td>None</td><td><a href="../languages/sangir">Sangir</a></td><td><i>sahemaŋ</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>WMP</td><td>Tonsea</td><td><i>sareman</i></td>
+<td>WMP</td><td><a href="../languages/tonsea">Tonsea</a></td><td><i>sareman</i></td>
 <td>
 '<span>paddle</span>'</td>
 </tr>
 <tr>
-<td>WMP</td><td>Chamorro</td><td><i>sakman</i></td>
+<td>WMP</td><td><a href="../languages/chamorro">Chamorro</a></td><td><i>sakman</i></td>
 <td>
 '<span>large canoe from Polynesia or Papua. No outrigger, capable of carrying over 100 people</span>'</td>
 </tr>
 <tr>
-<td>WMP</td><td>Ambonese Malay</td><td><i>semaŋ</i></td>
+<td>WMP</td><td><a href="../languages/ambonesemalay">Ambonese Malay</a></td><td><i>semaŋ</i></td>
 <td>
 '<span>wooden strut which supports float</span>'</td>
 </tr>
 <tr>
-<td>None</td><td>Buru</td><td><i>seman</i></td>
+<td>None</td><td><a href="../languages/buru">Buru</a></td><td><i>seman</i></td>
 <td>
 '<span>wooden strut which supports float</span>'</td>
 </tr>
 <tr>
-<td>None</td><td>Larike</td><td><i>simanu</i></td>
+<td>None</td><td><a href="../languages/larike">Larike</a></td><td><i>simanu</i></td>
 <td>
 '<span>wooden strut which supports float</span>'</td>
 </tr>
 <tr>
-<td>CMP</td><td>Kola</td><td><i>ama</i></td>
+<td>CMP</td><td><a href="../languages/kola">Kola</a></td><td><i>ama</i></td>
 <td>
 '<span>wooden strut which supports float</span>'</td>
 </tr>
 <tr>
-<td>CMP</td><td>Dobel</td><td><i>yerʔman</i></td>
+<td>CMP</td><td><a href="../languages/dobel">Dobel</a></td><td><i>yerʔman</i></td>
 <td>
 '<span>wooden strut which supports float</span>'</td>
 </tr>
 <tr>
-<td>CMP</td><td>Ujir (Aru Is.)</td><td><i>arman</i></td>
+<td>CMP</td><td><a href="../languages/ujir">Ujir (Aru Is.)</a></td><td><i>arman</i></td>
 <td>
 </td>
 </tr>
@@ -1890,77 +1890,77 @@ The meaning 'outrigger float' can be attributed to PMP _&ast;(c,s)a(R)man_. This
 '<span>outrigger float</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Wuvulu</td><td><i>tama-ne</i></td>
+<td>Adm</td><td><a href="../languages/wuvulu">Wuvulu</a></td><td><i>tama-ne</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Adm</td><td>Seimat</td><td><i>cam</i></td>
+<td>Adm</td><td><a href="../languages/seimat">Seimat</a></td><td><i>cam</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Adm</td><td>Mussau</td><td><i>samana</i></td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>samana</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>NNG</td><td>Gedaged</td><td><i>sam</i></td>
+<td>NNG</td><td><a href="../languages/gedaged">Gedaged</a></td><td><i>sam</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>NNG</td><td>Manam</td><td><i>rama</i></td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>rama</i></td>
 <td>
 '<span>outrigger</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nehan</td><td><i>haman</i></td>
+<td>MM</td><td><a href="../languages/nehan">Nehan</a></td><td><i>haman</i></td>
 <td>
 '<span>boom</span>' (<span>vs niag 'float'</span>)</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>sama</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>sama</i></td>
 <td>
 '<span>outrigger of a canoe</span>'; '<span>tack, lie on the other tack</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Paamese</td><td><i>a-sem</i></td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>a-sem</i></td>
 <td>
 '<span>outrigger</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kiribatese</td><td><i>rama</i></td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>rama</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Mic</td><td>Marshallese</td><td><i>tam</i></td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>tam</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Mic</td><td>Puluwatese</td><td><i>tām</i></td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>tām</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Mic</td><td>Trukese</td><td><i>tām</i></td>
+<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td><i>tām</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>ðama</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>ðama</i></td>
 <td>
 '<span>outrigger float</span>'; '<span>smaller hull of double canoe</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>hama</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>hama</i></td>
 <td>
 '<span>outrigger</span>'; '<span>smaller hull of outrigger</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>ama</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>ama</i></td>
 <td>
 '<span>outrigger including float, always on port side</span>'</td>
 </tr>
@@ -1991,77 +1991,77 @@ The outrigger float is connected to the hull by booms, two or three in the case 
 '<span>outrigger boom</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Mussau</td><td><i>iaro</i></td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>iaro</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Adm</td><td>Loniu</td><td><i>kiec</i></td>
+<td>Adm</td><td><a href="../languages/loniu">Loniu</a></td><td><i>kiec</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>NNG</td><td>Wogeo</td><td><i>kiajo</i></td>
+<td>NNG</td><td><a href="../languages/wogeo">Wogeo</a></td><td><i>kiajo</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>NNG</td><td>Manam</td><td><i>kiazo</i></td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>kiazo</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>NNG</td><td>Gedaged</td><td><i>aia</i></td>
+<td>NNG</td><td><a href="../languages/gedaged">Gedaged</a></td><td><i>aia</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>NNG</td><td>Yabem</td><td><i>kion</i></td>
+<td>NNG</td><td><a href="../languages/yabem">Yabem</a></td><td><i>kion</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>NNG</td><td>Barim</td><td><i>kiada</i></td>
+<td>NNG</td><td><a href="../languages/barim">Barim</a></td><td><i>kiada</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>PT</td><td>Kilivila</td><td><i>kiaro</i></td>
+<td>PT</td><td><a href="../languages/kilivila">Kilivila</a></td><td><i>kiaro</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>PT</td><td>Aroma</td><td><i>iaro</i></td>
+<td>PT</td><td><a href="../languages/aroma">Aroma</a></td><td><i>iaro</i></td>
 <td>
 '<span>sticks connecting floats to boom</span>' (<span>Haddon</span>)</td>
 </tr>
 <tr>
-<td>NCV</td><td>Nguna</td><td><i>kiato</i></td>
+<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td><i>kiato</i></td>
 <td>
 '<span>outrigger boom</span>' (<span>prob. Pn borrowing</span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kiribatese</td><td><i>kiaro</i></td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>kiaro</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Mic</td><td>Kosraean</td><td><i>kiyɛs</i></td>
+<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td><i>kiyɛs</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>kiato</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>kiato</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>kiato</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>kiato</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>ʔiato</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>ʔiato</i></td>
 <td>
 </td>
 </tr>
@@ -2069,7 +2069,7 @@ The outrigger float is connected to the hull by booms, two or three in the case 
 
 
 
-Fijian _i-kaso_ 'outrigger boom' (zero for _&ast;i_ irregular) has sometimes been included in this set, but probably belongs to a separate set, along with such forms as Mota gaso 'rafter', Lau _ʔato_ 'rafter', which derive from a well-established etymon PMP &ast;kasaw, POc _&ast;kaso_ 'rafter' (Ch. 3, §3.4). However, the comparison with Lau _ato_ 'outrigger boom' suggests that POc _&ast;kaso_ probably had the general meaning 'connecting beam or brace', and as well as denoting crossbeams in a house may have been used as a synonym of _&ast;kiajo_.
+Fijian _i-kaso_ 'outrigger boom' (zero for _&ast;i_ irregular) has sometimes been included in this set, but probably belongs to a separate set, along with such forms as Mota gaso 'rafter', Lau _ʔato_ 'rafter', which derive from a well-established etymon PMP &ast;kasaw, POc _&ast;kaso_ 'rafter' ([Ch. 3, §3.4](../contributions/1-3#s-3-4)). However, the comparison with Lau _ato_ 'outrigger boom' suggests that POc _&ast;kaso_ probably had the general meaning 'connecting beam or brace', and as well as denoting crossbeams in a house may have been used as a synonym of _&ast;kiajo_.
 
 
 <a id="p-193"></a>
@@ -2082,7 +2082,7 @@ Fijian _i-kaso_ 'outrigger boom' (zero for _&ast;i_ irregular) has sometimes bee
 
 Three main methods of connecting the outrigger float to the booms can be distinguished: direct attachment, in which all of the booms are curved and lashed directly to the outrigger; indirect attachment, in which all of the booms are lashed to sticks that are implanted in or lashed to the float; and mixed attachment, in which some booms are attached directly and others indirectly. A great diversity of methods of indirect attachment is found.
 
-A POc reconstruction for the connective sticks (stanchions, struts) was made by [Milke](../references.md#source-Milke1968) ([1968](../references.md#source-Milke1968)) and is well attested. A single cognate in the north-west New Guinea language, Numfor, allows tentative attribution of this etymon (with indeterminate final vowel) to Proto Eastern Malayo-Polynesian.
+A POc reconstruction for the connective sticks (stanchions, struts) was made by [Milke](../sources/Milke1968) ([1968](../sources/Milke1968)) and is well attested. A single cognate in the north-west New Guinea language, Numfor, allows tentative attribution of this etymon (with indeterminate final vowel) to Proto Eastern Malayo-Polynesian.
 
 <table id="1-7-4-3-193-POc-patoto-a">
 <tr>
@@ -2094,7 +2094,7 @@ A POc reconstruction for the connective sticks (stanchions, struts) was made by 
 '<span>connective sticks or stanchions attaching floats to booms</span>'</td>
 </tr>
 <tr>
-<td>SHWNG</td><td>Numfor</td><td><i>fakok</i></td>
+<td>SHWNG</td><td><a href="../languages/numfor">Numfor</a></td><td><i>fakok</i></td>
 <td>
  (<span><em>k</em> for <em>*t</em> regular</span>)</td>
 </tr>
@@ -2107,42 +2107,42 @@ A POc reconstruction for the connective sticks (stanchions, struts) was made by 
 '<span>connective sticks attaching float</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Gedaged</td><td><i>patot</i></td>
+<td>NNG</td><td><a href="../languages/gedaged">Gedaged</a></td><td><i>patot</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>NNG</td><td>Tuam</td><td><i>patot</i></td>
+<td>NNG</td><td><a href="../languages/tuam">Tuam</a></td><td><i>patot</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>NNG</td><td>Mandok</td><td><i>patot</i></td>
+<td>NNG</td><td><a href="../languages/mandok">Mandok</a></td><td><i>patot</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>NNG</td><td>Kilenge</td><td><i>patutu</i></td>
+<td>NNG</td><td><a href="../languages/kilenge">Kilenge</a></td><td><i>patutu</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>PT</td><td>Arifama</td><td><i>batoto</i></td>
+<td>PT</td><td><a href="../languages/arifama">Arifama</a></td><td><i>batoto</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>MM</td><td>Lihir</td><td><i>hidudu</i></td>
+<td>MM</td><td><a href="../languages/lihir">Lihir</a></td><td><i>hidudu</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>NCV</td><td>Ambae</td><td><i>batoto</i></td>
+<td>NCV</td><td><a href="../languages/ambae">Ambae</a></td><td><i>batoto</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>(i)vatoto</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>(i)vatoto</i></td>
 <td>
  (<span><em>i-</em> &lt; POc: <em>*i-</em> INS</span>)</td>
 </tr>
@@ -2168,82 +2168,82 @@ A POc term can be reconstructed with the sense 'starboard or free side of the ca
 '<span>free side of canoe, opposite the outrigger</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Gedaged</td><td><i>atai</i></td>
+<td>NNG</td><td><a href="../languages/gedaged">Gedaged</a></td><td><i>atai</i></td>
 <td>
 '<span>projecting part of the canoe platform, opposite outrigger</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Barim</td><td><i>kat</i></td>
+<td>NNG</td><td><a href="../languages/barim">Barim</a></td><td><i>kat</i></td>
 <td>
 '<span>platform of canoe</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Manam</td><td><i>eteʔa</i></td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>eteʔa</i></td>
 <td>
 '<span>port side of canoe</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Tami</td><td><i>kataŋ</i></td>
+<td>NNG</td><td><a href="../languages/tami">Tami</a></td><td><i>kataŋ</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>MM</td><td>Vitu</td><td><i>kata</i></td>
+<td>MM</td><td><a href="../languages/vitu">Vitu</a></td><td><i>kata</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>gatae</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>gatae</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Mic</td><td>Kiribatese</td><td><i>katea</i></td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>katea</i></td>
 <td>
 '<span>leeward side of canoe</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Marshallese</td><td><i>kooca</i></td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>kooca</i></td>
 <td>
 '<span>lee side of canoe</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Ponapean</td><td><i>(pali)kasa</i></td>
+<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td><i>(pali)kasa</i></td>
 <td>
 '<span>lee side of canoe</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Trukese</td><td><i>asa</i></td>
+<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td><i>asa</i></td>
 <td>
 '<span>lee side of canoe</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Woleaian</td><td><i>(i)geta</i></td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>(i)geta</i></td>
 <td>
 '<span>lee side of canoe</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>katā</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>katā</i></td>
 <td>
 '<span>starboard side of canoe</span>'; '<span>larger hull of double canoe</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>katea</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>katea</i></td>
 <td>
 '<span>larger hull, main part of canoe as distinct from the ham</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>atea</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>atea</i></td>
 <td>
 '<span>hull side of a canoe, as opposed to the ama</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>katea</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>katea</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Hawaiian</td><td><i>ʔakea</i></td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>ʔakea</i></td>
 <td>
 '<span>starboard hull of double canoe</span>'</td>
 </tr>
@@ -2264,7 +2264,7 @@ No non-Oceanic cognates of this set are known.
 
 The characteristic Oceanic sail types are: (a) a triangular sprit sail with apex downwards and a spar along each of the two sides stemming from the apex, and (b) the (crab) claw sail-a triangular sail with the foreside fixed to a vertical mast and the afterside to a strongly curved sprit, whose lower end is attached to the foot of the mast. In Indonesia a number of other types of sail are found. Both fixed masts and moveable masts or props are used in Indonesia and in the Pacific Islands. The pole is stepped in a socket or on a thwart amidships and can be rotated and raked towards either end by means of running stays.
 
-We give here a further quote from [Horridge](../references.md#source-Horridge1986) ([1986](../references.md#source-Horridge1986):56-57):
+We give here a further quote from [Horridge](../sources/Horridge1986) ([1986](../sources/Horridge1986):56-57):
 
 > It is my belief, based on distribution, comparative vocabularies and engineering principles, that the fixed mast with a halyard spread into Malayo-Polynesian communities from the Indian Ocean along with the introduction of the pulley. A large sail of matting could not be raised at sea without a pulley unless it was pushed up by a loose pole. There are no signs that even the last Austronesian-speaking migrants to move out into the Pacific knew about the tripod mast, the tilted rectangular sail, the pulley or the quarter rudder lashed to a rudder support. All of these features also spread only a little way up the mainland coast towards China … The tilted rectangular sail seems to have spread from the Indian Ocean, perhaps even from … Egypt, and to have arrived in Indonesia about 2,000 years ago … It has spread eastwards about as far as the quarter rudder and the pulley.
 
@@ -2288,32 +2288,32 @@ A PMP term for 'sail' (the object) is continued in all the major subgroups:
 '<span>sail</span>'</td>
 </tr>
 <tr>
-<td>None</td><td>Malay</td><td><i>layar</i></td>
+<td>None</td><td><a href="../languages/malay">Malay</a></td><td><i>layar</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>None</td><td>Tagalog</td><td><i>layag</i></td>
+<td>None</td><td><a href="../languages/tagalog">Tagalog</a></td><td><i>layag</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>None</td><td>Maranao</td><td><i>laiag</i></td>
+<td>None</td><td><a href="../languages/maranao">Maranao</a></td><td><i>laiag</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>None</td><td>Tausug</td><td><i>layag</i></td>
+<td>None</td><td><a href="../languages/tausug">Tausug</a></td><td><i>layag</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>None</td><td>Cebuano</td><td><i>layag</i></td>
+<td>None</td><td><a href="../languages/cebuano">Cebuano</a></td><td><i>layag</i></td>
 <td>
 [N] '<span>sail of a boat</span>'; [V] '<span>put up the sail for a boat to sail</span>'</td>
 </tr>
 <tr>
-<td>None</td><td>Buru</td><td><i>lā</i></td>
+<td>None</td><td><a href="../languages/buru">Buru</a></td><td><i>lā</i></td>
 <td>
 </td>
 </tr>
@@ -2326,67 +2326,67 @@ A PMP term for 'sail' (the object) is continued in all the major subgroups:
 '<span>sail</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Gedaged</td><td><i>lai</i></td>
+<td>NNG</td><td><a href="../languages/gedaged">Gedaged</a></td><td><i>lai</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>NNG</td><td>Barim</td><td><i>lai</i></td>
+<td>NNG</td><td><a href="../languages/barim">Barim</a></td><td><i>lai</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>NNG</td><td>Yabem</td><td><i>lac</i></td>
+<td>NNG</td><td><a href="../languages/yabem">Yabem</a></td><td><i>lac</i></td>
 <td>
 [N] '<span>sail of a boat, a canoe</span>'; [v] '<span>sail, sail across, sail or steer a canoe towards a goal</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Dobu</td><td><i>naia</i></td>
+<td>PT</td><td><a href="../languages/dobu">Dobu</a></td><td><i>naia</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>lara</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>lara</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>NCV</td><td>Namakir</td><td><i>na-la</i></td>
+<td>NCV</td><td><a href="../languages/namakir">Namakir</a></td><td><i>na-la</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>NCV</td><td>Nguna</td><td><i>na-lae</i></td>
+<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td><i>na-lae</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>NCV</td><td>Paamese</td><td><i>alā</i></td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>alā</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Mic</td><td>Marshallese</td><td><i>(wec)lay</i></td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>(wec)lay</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>laða</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>laða</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>lā</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>lā</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>lā</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>lā</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>rā</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>rā</i></td>
 <td>
 </td>
 </tr>
@@ -2394,7 +2394,7 @@ A PMP term for 'sail' (the object) is continued in all the major subgroups:
 
 
 
-Traditional Oceanic sails are made of matting, woven from pandanus leaves or other plant fibres. It is therefore not surprising to find that reflexes of POc _&ast;qebal_ 'pandanus mat' also have the meaning 'sail' in a few languages. Given that POc _&ast;layaR_ 'sail' is well established, it is likely that _&ast;qebal_ independently acquired the sense 'sail' in more than one daughter language. For the cognate set, see Ch. 4, §3.1.
+Traditional Oceanic sails are made of matting, woven from pandanus leaves or other plant fibres. It is therefore not surprising to find that reflexes of POc _&ast;qebal_ 'pandanus mat' also have the meaning 'sail' in a few languages. Given that POc _&ast;layaR_ 'sail' is well established, it is likely that _&ast;qebal_ independently acquired the sense 'sail' in more than one daughter language. For the cognate set, see [Ch. 4, §3.1](../contributions/1-4#s-3-1).
 
 
 <a id="p-195"></a>
@@ -2417,67 +2417,67 @@ The following form is well attested though its reflexes show a range of meanings
 '<span>boom or yard of (triangular) sail</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Seimat</td><td><i>sil</i></td>
+<td>Adm</td><td><a href="../languages/seimat">Seimat</a></td><td><i>sil</i></td>
 <td>
 '<span>booms of triangular sail</span>' (<span>Haddon</span>)</td>
 </tr>
 <tr>
-<td>Adm</td><td>Penchal</td><td><i>cil</i></td>
+<td>Adm</td><td><a href="../languages/penchal">Penchal</a></td><td><i>cil</i></td>
 <td>
 '<span>sheet of sail</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Lou</td><td><i>(e)sil</i></td>
+<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td><i>(e)sil</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>NNG</td><td>Tuam</td><td><i>(na)sila</i></td>
+<td>NNG</td><td><a href="../languages/tuam">Tuam</a></td><td><i>(na)sila</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>(pane) sila</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>(pane) sila</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>NCV</td><td>Paamese</td><td><i>a-sil</i></td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>a-sil</i></td>
 <td>
 '<span>mast; central trunk of tree that grows straight up</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>sila</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>sila</i></td>
 <td>
 '<span>sheet of a sail</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>sila</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>sila</i></td>
 <td>
 [N] '<span>yard, for a sail to hang from</span>'; [V] '<span>shorten the sheet of a sail</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>tila</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>tila</i></td>
 <td>
 '<span>sprit or spar of sail</span>' (<span><em>tila lalo</em> 'lower sprit' vs <em>tila tu</em> 'yard, upper sprit'</span>); '<span>mast</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Pukapukan</td><td><i>tila</i></td>
+<td>Pn</td><td><a href="../languages/pukapukan">Pukapukan</a></td><td><i>tila</i></td>
 <td>
 '<span>yard of sail</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>tira</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>tira</i></td>
 <td>
 '<span>mast or spar of sailing canoe</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rarotongan</td><td><i>tira</i></td>
+<td>Pn</td><td><a href="../languages/rarotongan">Rarotongan</a></td><td><i>tira</i></td>
 <td>
 '<span>mast</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>tira (tū)</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>tira (tū)</i></td>
 <td>
 '<span>yard of sail, upper sprit</span>'</td>
 </tr>
@@ -2485,7 +2485,7 @@ The following form is well attested though its reflexes show a range of meanings
 
 
 
-POc or PCP _&ast;jila_ has commonly (e.g. [Blust 1976a](../references.md#source-Blust1976a), [Geraghty 1986](../references.md#source-Geraghty1986), [Ross 1988](../references.md#source-Ross1988)) been glossed 'sheet', referring to the rope fastened to the lower corner of a sail to hold it and control its angle. The weight of the evidence, however, suggests that the term referred in POc to the booms or poles used to extend and support a triangular sail, denoting either the upper pole (the yard) or the lower pole (the boom). The use of reflexes of _&ast;jila_ to denote a fixed mast is confined to certain parts of Polynesia and this sense probably represents a post-PPn innovation. Most Oceanic craft with triangular sails do not use a fixed mast. In one kind of rigging (spritsail) the longer of the two poles extending the sail serves as the mast, with a mast-shore or stays to secure it, or with the apex of the two poles resting on the deck. In another kind of rigging (lateen), the mast is a separate moveable pole which pivots on a thwart in the dugout or on a socket on the deck and is supported by ropes (stays or sheets) tied to the hull or outrigger and sometimes by a mast-shore. The use of reflexes of _&ast;jila_ for 'mast' and for 'sheet' in various Oceanic languages can thus be derived from the original functions of the booms as supporting and controlling the sail.
+POc or PCP _&ast;jila_ has commonly (e.g. [Blust 1976a](../sources/Blust1976a), [Geraghty 1986](../sources/Geraghty1986), [Ross 1988](../sources/Ross1988)) been glossed 'sheet', referring to the rope fastened to the lower corner of a sail to hold it and control its angle. The weight of the evidence, however, suggests that the term referred in POc to the booms or poles used to extend and support a triangular sail, denoting either the upper pole (the yard) or the lower pole (the boom). The use of reflexes of _&ast;jila_ to denote a fixed mast is confined to certain parts of Polynesia and this sense probably represents a post-PPn innovation. Most Oceanic craft with triangular sails do not use a fixed mast. In one kind of rigging (spritsail) the longer of the two poles extending the sail serves as the mast, with a mast-shore or stays to secure it, or with the apex of the two poles resting on the deck. In another kind of rigging (lateen), the mast is a separate moveable pole which pivots on a thwart in the dugout or on a socket on the deck and is supported by ropes (stays or sheets) tied to the hull or outrigger and sometimes by a mast-shore. The use of reflexes of _&ast;jila_ for 'mast' and for 'sheet' in various Oceanic languages can thus be derived from the original functions of the booms as supporting and controlling the sail.
 
 
 <a id="p-196"></a>
@@ -2506,27 +2506,27 @@ POc or PCP _&ast;jila_ has commonly (e.g. [Blust 1976a](../references.md#source-
 '<span>vertical supporting timber, prop supporting rig</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>auu</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>auu</i></td>
 <td>
 '<span>centre post of house</span>'; '<span>mast</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Carolinian</td><td><i>ayu</i></td>
+<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td><i>ayu</i></td>
 <td>
 '<span>mast</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>kau-tuʔu</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>kau-tuʔu</i></td>
 <td>
 '<span>yard on a mast</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>ʔau-tū</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>ʔau-tū</i></td>
 <td>
 [N] '<span>core, centre, main theme</span>'; [V] '<span>centre around, revolve around s.t.</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>(rā) kau-tū</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>(rā) kau-tū</i></td>
 <td>
 '<span>mast and sail</span>'</td>
 </tr>
@@ -2563,32 +2563,32 @@ POc _&ast;kaiu-tuqu(r)_ (evidently a compound of _&ast;kaiu_ 'wood, stick, pole'
 '<span>mast, boom stepped on foot of mast</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>pane</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>pane</i></td>
 <td>
 '<span>boom with forked end stepped on the foot of the mast</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>pane (sila)</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>pane (sila)</i></td>
 <td>
 '<span>projecting boom of a sail</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>(i)vanā</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>(i)vanā</i></td>
 <td>
 '<span>mast</span>' (<span><em>i-</em> &lt; POc <em>*i-</em> INS</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>fanā</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>fanā</i></td>
 <td>
 '<span>mast</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>fanā</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>fanā</i></td>
 <td>
 '<span>mast</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tokelauan</td><td><i>fanā</i></td>
+<td>Pn</td><td><a href="../languages/tokelauan">Tokelauan</a></td><td><i>fanā</i></td>
 <td>
 '<span>mast</span>'</td>
 </tr>
@@ -2619,22 +2619,22 @@ The following cognate set appears to be confined to Central Pacific:
 '<span>running stay supporting sail</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>tuku</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>tuku</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>tuku</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>tuku</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>tuʔu</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>tuʔu</i></td>
 <td>
 '<span>running stay from foredeck</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tokelauan</td><td><i>tuku</i></td>
+<td>Pn</td><td><a href="../languages/tokelauan">Tokelauan</a></td><td><i>tuku</i></td>
 <td>
 '<span>guy rope of traditional sail, fastened to the outrigger</span>'</td>
 </tr>
@@ -2662,42 +2662,42 @@ A PMP term for steering oar is well supported. Contemporary languages which reta
 [N] '<span>steering oar</span>'; [V] '<span>steer</span>'</td>
 </tr>
 <tr>
-<td>None</td><td>Cebuano</td><td><i>ulin</i></td>
+<td>None</td><td><a href="../languages/cebuano">Cebuano</a></td><td><i>ulin</i></td>
 <td>
 [N] '<span>stem</span>'; [V] '<span>steer (a boat from the stem)</span>'</td>
 </tr>
 <tr>
-<td>None</td><td>Maranao</td><td><i>olin</i></td>
+<td>None</td><td><a href="../languages/maranao">Maranao</a></td><td><i>olin</i></td>
 <td>
 '<span>steer (a vessel); manage affairs of another</span>'</td>
 </tr>
 <tr>
-<td>None</td><td>Maranao</td><td><i>olin(aq)</i></td>
+<td>None</td><td><a href="../languages/maranao">Maranao</a></td><td><i>olin(aq)</i></td>
 <td>
 '<span>steering mechanism</span>'</td>
 </tr>
 <tr>
-<td>None</td><td>Maranao</td><td><i>(paŋ)olin</i></td>
+<td>None</td><td><a href="../languages/maranao">Maranao</a></td><td><i>(paŋ)olin</i></td>
 <td>
 '<span>rudder</span>'</td>
 </tr>
 <tr>
-<td>WMP</td><td>Bajau</td><td><i>uli</i></td>
+<td>WMP</td><td><a href="../languages/bajau">Bajau</a></td><td><i>uli</i></td>
 <td>
 '<span>steer from the stem</span>'</td>
 </tr>
 <tr>
-<td>None</td><td>Sangir</td><td><i>uliŋ</i></td>
+<td>None</td><td><a href="../languages/sangir">Sangir</a></td><td><i>uliŋ</i></td>
 <td>
 [N] '<span>rudder</span>'; [v] '<span>steer</span>'</td>
 </tr>
 <tr>
-<td>None</td><td>Wolio</td><td><i>uli</i></td>
+<td>None</td><td><a href="../languages/wolio">Wolio</a></td><td><i>uli</i></td>
 <td>
 '<span>rudder</span>'</td>
 </tr>
 <tr>
-<td>CMP</td><td>Roti</td><td><i>uli</i></td>
+<td>CMP</td><td><a href="../languages/roti">Roti</a></td><td><i>uli</i></td>
 <td>
 [N] '<span>rudder</span>'; [V] '<span>steer</span>'</td>
 </tr>
@@ -2710,47 +2710,47 @@ A PMP term for steering oar is well supported. Contemporary languages which reta
 [N] '<span>rudder</span>'; [V] '<span>steer</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Lou</td><td><i>kuli(p)</i></td>
+<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td><i>kuli(p)</i></td>
 <td>
 '<span>steering oar</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Tami</td><td><i>gul</i></td>
+<td>NNG</td><td><a href="../languages/tami">Tami</a></td><td><i>gul</i></td>
 <td>
 '<span>steering oar</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Gedaged</td><td><i>ulu(m)</i></td>
+<td>NNG</td><td><a href="../languages/gedaged">Gedaged</a></td><td><i>ulu(m)</i></td>
 <td>
 '<span>rudder, steering</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Yabem</td><td><i>(ŋa)goliŋ</i></td>
+<td>NNG</td><td><a href="../languages/yabem">Yabem</a></td><td><i>(ŋa)goliŋ</i></td>
 <td>
 '<span>rudder</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Molima</td><td><i>kuliga</i></td>
+<td>PT</td><td><a href="../languages/molima">Molima</a></td><td><i>kuliga</i></td>
 <td>
 [N] '<span>steering oar</span>'; [V] '<span>steer</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Kilivila</td><td><i>kuliga</i></td>
+<td>PT</td><td><a href="../languages/kilivila">Kilivila</a></td><td><i>kuliga</i></td>
 <td>
 '<span>steering oar</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>uli</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>uli</i></td>
 <td>
 [N] '<span>steering oar, rudder, helm</span>'; [V] '<span>steer</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>ʔuli</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>ʔuli</i></td>
 <td>
 '<span>steer</span>' (<span><em>fohe ʔuli</em> 'rudder, steering oar'</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>uli</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>uli</i></td>
 <td>
 '<span>steer</span>' (<span><em>faʔa -uli</em> 'steer, helmsman'; <em>foe uli</em> 'rudder'</span>)</td>
 </tr>
@@ -2784,16 +2784,16 @@ A single base can be reconstructed, used both as a verb '(boat +) be loaded, car
 <i>&ast;lujan, ujan</i>
 </td>
 <td>
-[V] '<span>load (a vessel)</span>'; [N] '<span>load, cargo</span>' (<a href="../references.md#source-Blust1986">Blust1986</a>)
+[V] '<span>load (a vessel)</span>'; [N] '<span>load, cargo</span>' (<a href="../sources/Blust1986">Blust1986</a>)
 </td>
 </tr>
 <tr>
-<td>None</td><td>Tagalog</td><td><i>lulan</i></td>
+<td>None</td><td><a href="../languages/tagalog">Tagalog</a></td><td><i>lulan</i></td>
 <td>
 '<span>load, cargo, capacity of a vessel or vehicle</span>'</td>
 </tr>
 <tr>
-<td>WMP</td><td>Makassarese</td><td><i>luraŋ</i></td>
+<td>WMP</td><td><a href="../languages/makassarese">Makassarese</a></td><td><i>luraŋ</i></td>
 <td>
 [V] '<span>load</span>'</td>
 </tr>
@@ -2806,67 +2806,67 @@ A single base can be reconstructed, used both as a verb '(boat +) be loaded, car
 [v] '<span>load (a boat)</span>'; [N] '<span>cargo, freight</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Nauna</td><td><i>us</i></td>
+<td>Adm</td><td><a href="../languages/nauna">Nauna</a></td><td><i>us</i></td>
 <td>
 '<span>load as cargo in a boat</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Seimat</td><td><i>uxan-i</i></td>
+<td>Adm</td><td><a href="../languages/seimat">Seimat</a></td><td><i>uxan-i</i></td>
 <td>
 '<span>load as cargo in a boat</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Dobu</td><td><i>usana</i></td>
+<td>PT</td><td><a href="../languages/dobu">Dobu</a></td><td><i>usana</i></td>
 <td>
 '<span>load a canoe</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Sinaugoro</td><td><i>ɣura(udi)</i></td>
+<td>PT</td><td><a href="../languages/sinaugoro">Sinaugoro</a></td><td><i>ɣura(udi)</i></td>
 <td>
 '<span>load a canoe</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>uda-uda</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>uda-uda</i></td>
 <td>
 '<span>load a canoe</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>luda</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>luda</i></td>
 <td>
 '<span>load a vessel</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Bugotu</td><td><i>luja</i></td>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>luja</i></td>
 <td>
 '<span>load a vessel</span>' (<span><em>j</em> for <em>*d</em> unexplained</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>luda</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>luda</i></td>
 <td>
 '<span>load a vessel</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Kwaio</td><td><i>luda</i></td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>luda</i></td>
 <td>
 '<span>load a vessel</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Puluwatese</td><td><i>wutan</i></td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>wutan</i></td>
 <td>
 [v] '<span>loaded</span>'; [N] '<span>cargo, load</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>usa</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>usa</i></td>
 <td>
 '<span>carry a cargo</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>uta</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>uta</i></td>
 <td>
 [v] '<span>carry a cargo</span>'; [N] '<span>cargo, freight</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>uta</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>uta</i></td>
 <td>
 [V] '<span>carry a cargo</span>'; [N] '<span>cargo, freight</span>'</td>
 </tr>
@@ -2892,42 +2892,42 @@ There are two well-established PMP terms to do with paddling, _&ast;be(R)(c,s)ay
 [N] '<span>(canoe) paddle</span>'; [V] '<span>paddle</span>'</td>
 </tr>
 <tr>
-<td>None</td><td>Aklanon</td><td><i>bugsay</i></td>
+<td>None</td><td><a href="../languages/aklanon">Aklanon</a></td><td><i>bugsay</i></td>
 <td>
 [N] '<span>paddle</span>'</td>
 </tr>
 <tr>
-<td>None</td><td>Cebuano</td><td><i>bugsay</i></td>
+<td>None</td><td><a href="../languages/cebuano">Cebuano</a></td><td><i>bugsay</i></td>
 <td>
 '<span>paddle or row a boat</span>'</td>
 </tr>
 <tr>
-<td>WMP</td><td>Ngaju Dayak</td><td><i>besei</i></td>
+<td>WMP</td><td><a href="../languages/ngajudayak">Ngaju Dayak</a></td><td><i>besei</i></td>
 <td>
 [v] '<span>paddle</span>'</td>
 </tr>
 <tr>
-<td>WMP</td><td>Buginese</td><td><i>wise</i></td>
+<td>WMP</td><td><a href="../languages/buginese">Buginese</a></td><td><i>wise</i></td>
 <td>
 [N] '<span>paddle</span>'</td>
 </tr>
 <tr>
-<td>None</td><td>Wolio</td><td><i>bose</i></td>
+<td>None</td><td><a href="../languages/wolio">Wolio</a></td><td><i>bose</i></td>
 <td>
 [N] '<span>paddle</span>'</td>
 </tr>
 <tr>
-<td>CMP</td><td>Taliabo</td><td><i>bose</i></td>
+<td>CMP</td><td><a href="../languages/taliabo">Taliabo</a></td><td><i>bose</i></td>
 <td>
 [N] '<span>paddle</span>'</td>
 </tr>
 <tr>
-<td>None</td><td>Buru</td><td><i>sai</i></td>
+<td>None</td><td><a href="../languages/buru">Buru</a></td><td><i>sai</i></td>
 <td>
 [V] '<span>paddle</span>'</td>
 </tr>
 <tr>
-<td>None</td><td>Buru</td><td><i>sahi-n</i></td>
+<td>None</td><td><a href="../languages/buru">Buru</a></td><td><i>sahi-n</i></td>
 <td>
 [N] '<span>paddle</span>'</td>
 </tr>
@@ -2940,67 +2940,67 @@ There are two well-established PMP terms to do with paddling, _&ast;be(R)(c,s)ay
 [N] '<span>(canoe) paddle</span>'; [V] '<span>paddle</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Manam</td><td><i>ore</i></td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>ore</i></td>
 <td>
 [N] '<span>paddle</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>hode</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>hode</i></td>
 <td>
 [N] '<span>paddle</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Suau</td><td><i>wose</i></td>
+<td>PT</td><td><a href="../languages/suau">Suau</a></td><td><i>wose</i></td>
 <td>
 [N] '<span>paddle</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Roviana</td><td><i>vose</i></td>
+<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td><i>vose</i></td>
 <td>
 [N] '<span>paddle</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>vohe</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>vohe</i></td>
 <td>
 [N] '<span>paddle</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>fote</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>fote</i></td>
 <td>
 [N] '<span>paddle</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>hote</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>hote</i></td>
 <td>
 '<span>paddle</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>wose</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>wose</i></td>
 <td>
 [N] '<span>paddle</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>voðe</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>voðe</i></td>
 <td>
 [V] '<span>paddle</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>(i)voðe</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>(i)voðe</i></td>
 <td>
 [N] '<span>paddle</span>' (<span><em>i-</em> &lt; POc <em>*i-</em> INS</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>fohe</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>fohe</i></td>
 <td>
 [N] '<span>paddle</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>foe</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>foe</i></td>
 <td>
 [N] '<span>paddle</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Hawaiian</td><td><i>hoe</i></td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>hoe</i></td>
 <td>
 '<span>paddle</span>'</td>
 </tr>
@@ -3021,27 +3021,27 @@ There are two well-established PMP terms to do with paddling, _&ast;be(R)(c,s)ay
 [V] '<span>paddle</span>'; [N] '<span>paddle</span>'</td>
 </tr>
 <tr>
-<td>WMP</td><td>Nias</td><td><i>aluxa</i></td>
+<td>WMP</td><td><a href="../languages/nias">Nias</a></td><td><i>aluxa</i></td>
 <td>
 [N] '<span>paddle</span>'</td>
 </tr>
 <tr>
-<td>WMP</td><td>Sichule</td><td><i>luga</i></td>
+<td>WMP</td><td><a href="../languages/sichule">Sichule</a></td><td><i>luga</i></td>
 <td>
 [N] '<span>paddle</span>'</td>
 </tr>
 <tr>
-<td>WMP</td><td>Sichule</td><td><i>feluxa</i></td>
+<td>WMP</td><td><a href="../languages/sichule">Sichule</a></td><td><i>feluxa</i></td>
 <td>
 [V] '<span>paddle</span>'</td>
 </tr>
 <tr>
-<td>None</td><td>Toba Batak</td><td><i>luga</i></td>
+<td>None</td><td><a href="../languages/tobabatak">Toba Batak</a></td><td><i>luga</i></td>
 <td>
 [v] '<span>row</span>'</td>
 </tr>
 <tr>
-<td>WMP</td><td>Isneg</td><td><i>piloxa</i></td>
+<td>WMP</td><td><a href="../languages/isneg">Isneg</a></td><td><i>piloxa</i></td>
 <td>
 '<span>oars and paddles of a canoe</span>'</td>
 </tr>
@@ -3054,52 +3054,52 @@ There are two well-established PMP terms to do with paddling, _&ast;be(R)(c,s)ay
 [V] '<span>paddle</span>'; [N] '<span>paddle</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Likum</td><td><i>heluh</i></td>
+<td>Adm</td><td><a href="../languages/likum">Likum</a></td><td><i>heluh</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>MM</td><td>Roviana</td><td><i>valusa</i></td>
+<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td><i>valusa</i></td>
 <td>
 '<span>bonito fishing</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>haruta</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>haruta</i></td>
 <td>
 [V] '<span>paddle</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>falita, faluta</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>falita, faluta</i></td>
 <td>
 [V] '<span>paddle</span>'; [N] '<span>canoe</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Lonwolwol</td><td><i>faloh</i></td>
+<td>NCV</td><td><a href="../languages/lonwolwol">Lonwolwol</a></td><td><i>faloh</i></td>
 <td>
 [V] '<span>paddle</span>'; [N] '<span>paddle</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Paamese</td><td><i>valis, valus</i></td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>valis, valus</i></td>
 <td>
 '<span>row, paddle</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kiribatese</td><td><i>arina</i></td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>arina</i></td>
 <td>
 '<span>paddle</span>' (<span>metathesis</span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td>Mokilese</td><td><i>patil</i></td>
+<td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td><i>patil</i></td>
 <td>
 '<span>paddle</span>' (<span>metathesis</span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td>Ponapean</td><td><i>patil</i></td>
+<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td><i>patil</i></td>
 <td>
 '<span>paddle</span>' (<span>metathesis</span>)</td>
 </tr>
 <tr>
-<td>SV</td><td>Anejom</td><td><i>aheleθ</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>aheleθ</i></td>
 <td>
 '<span>paddle</span>'</td>
 </tr>
@@ -3112,7 +3112,7 @@ It is not clear whether PMP _&ast;be(R)(c,s)ay_ and _&ast;paluja_ differed in me
 
 <a id="p-200"></a>
 
-A third form attributable to PEOc, _&ast;sua(C)_, also has some reflexes glossed 'to paddle'. However, the meanings associated with its putative reflexes are quite varied. These meanings include (i) 'scull, in which a standing person holds the oar vertically', (ii) 'punt or pole a boat in shallow water', (iii) 'to paddle', (iv) 'a paddle' and (v) 'to steer'. The range of meanings suggests an original reference to a standing person using an oar or pole to propel or to steer a boat. (cf. also PCP _&ast;sua_ 'tack', §9.2.)
+A third form attributable to PEOc, _&ast;sua(C)_, also has some reflexes glossed 'to paddle'. However, the meanings associated with its putative reflexes are quite varied. These meanings include (i) 'scull, in which a standing person holds the oar vertically', (ii) 'punt or pole a boat in shallow water', (iii) 'to paddle', (iv) 'a paddle' and (v) 'to steer'. The range of meanings suggests an original reference to a standing person using an oar or pole to propel or to steer a boat. (cf. also PCP _&ast;sua_ 'tack', [§9.2](../contributions/1-7#s-9-2).)
 
 <table id="1-7-7-2-200-PEOc-suac-a">
 <tr>
@@ -3124,57 +3124,57 @@ A third form attributable to PEOc, _&ast;sua(C)_, also has some reflexes glossed
 [V] '<span>scull, row with oar held vertically</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>'Are'are</td><td><i>sua(hi)</i></td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>sua(hi)</i></td>
 <td>
 '<span>paddle against the wind</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>sua(la)</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>sua(la)</i></td>
 <td>
 '<span>punt, push a canoe with a pole</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>sua(li)</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>sua(li)</i></td>
 <td>
 '<span>push against</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>sua</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>sua</i></td>
 <td>
 [v] '<span>paddle, make a canoe voyage</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>sua(va)</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>sua(va)</i></td>
 <td>
 [N] '<span>paddling, canoe voyage</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Raga</td><td><i>hua</i></td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>hua</i></td>
 <td>
 [V] '<span>paddle</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Tangoa</td><td><i>sua</i></td>
+<td>NCV</td><td><a href="../languages/tangoa">Tangoa</a></td><td><i>sua</i></td>
 <td>
 [V] '<span>paddle</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Rotuman</td><td><i>sua</i></td>
+<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td><i>sua</i></td>
 <td>
 '<span>scull, paddle, oar</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>sua</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>sua</i></td>
 <td>
 '<span>scull, row, put an oar in two transversal poles lashed across the crossbeams near the deck of a canoe to help in rowing</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>sua</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>sua</i></td>
 <td>
 '<span>ceremonial paddle with wide blade; go to a ship at anchor (? by paddling)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>hua</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>hua</i></td>
 <td>
 '<span>steer, paddle</span>'</td>
 </tr>
@@ -3246,72 +3246,72 @@ PMP _&ast;teken_ 'pole, staff' was evidently continued in POc both as a noun _&a
 '<span>punt or pole (a boat)</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Gedaged</td><td><i>tok</i></td>
+<td>NNG</td><td><a href="../languages/gedaged">Gedaged</a></td><td><i>tok</i></td>
 <td>
 '<span>pole, stick, staff</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Tuam</td><td><i>to</i></td>
+<td>NNG</td><td><a href="../languages/tuam">Tuam</a></td><td><i>to</i></td>
 <td>
 '<span>punting pole</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Barim</td><td><i>to</i></td>
+<td>NNG</td><td><a href="../languages/barim">Barim</a></td><td><i>to</i></td>
 <td>
 '<span>punting pole</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>do, doa</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>do, doa</i></td>
 <td>
 [V] '<span>pole (a canoe)</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>to</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>to</i></td>
 <td>
 '<span>stay of house, prop of fence, brace</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Ghari</td><td><i>togon-i</i></td>
+<td>SES</td><td><a href="../languages/ghari">Ghari</a></td><td><i>togon-i</i></td>
 <td>
 '<span>stick for stirring stones</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>(i)toko</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>(i)toko</i></td>
 <td>
 '<span>staff, punting pole</span>' (<span><em>i-</em> &lt; POc <em>*i-</em> INS</span>)</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>tokon-i</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>tokon-i</i></td>
 <td>
 '<span>punt a boat</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>(i)toko</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>(i)toko</i></td>
 <td>
 '<span>staff, punting pole</span>' (<span><em>i-</em> &lt; POc <em>*i-</em> INS</span>)</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>tokon(a)</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>tokon(a)</i></td>
 <td>
 '<span>punt a boat</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>toko</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>toko</i></td>
 <td>
 '<span>punting pole, to punt</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>toʔo</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>toʔo</i></td>
 <td>
 '<span>punting pole, to punt</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>toko</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>toko</i></td>
 <td>
 '<span>punting pole, to punt</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tuvalu</td><td><i>toko</i></td>
+<td>Pn</td><td><a href="../languages/tuvalu">Tuvalu</a></td><td><i>toko</i></td>
 <td>
 '<span>punting pole, to punt</span>'</td>
 </tr>
@@ -3364,22 +3364,22 @@ Three terms to do with bailing water from a vessel can be reconstructed at the P
 '<span>bailer</span>'</td>
 </tr>
 <tr>
-<td>None</td><td>Cebuano</td><td><i>limas</i></td>
+<td>None</td><td><a href="../languages/cebuano">Cebuano</a></td><td><i>limas</i></td>
 <td>
 '<span>bailer</span>'; '<span>bilge water</span>'; '<span>bail water out</span>'</td>
 </tr>
 <tr>
-<td>None</td><td>Tagalog</td><td><i>limas</i></td>
+<td>None</td><td><a href="../languages/tagalog">Tagalog</a></td><td><i>limas</i></td>
 <td>
 '<span>bailer</span>'</td>
 </tr>
 <tr>
-<td>WMP</td><td>Hova</td><td><i>dima</i></td>
+<td>WMP</td><td><a href="../languages/hova">Hova</a></td><td><i>dima</i></td>
 <td>
 '<span>bailer</span>'</td>
 </tr>
 <tr>
-<td>CMP</td><td>Boano</td><td><i>limate</i></td>
+<td>CMP</td><td><a href="../languages/boano">Boano</a></td><td><i>limate</i></td>
 <td>
 '<span>bailer</span>'</td>
 </tr>
@@ -3392,32 +3392,32 @@ Three terms to do with bailing water from a vessel can be reconstructed at the P
 '<span>bailer</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kilenge</td><td><i>na-lima</i></td>
+<td>NNG</td><td><a href="../languages/kilenge">Kilenge</a></td><td><i>na-lima</i></td>
 <td>
 '<span>bail</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Mangseng</td><td><i>lima</i></td>
+<td>NNG</td><td><a href="../languages/mangseng">Mangseng</a></td><td><i>lima</i></td>
 <td>
 '<span>bail</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kiribatese</td><td><i>a-nima</i></td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>a-nima</i></td>
 <td>
 '<span>bailer</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Puluwatese</td><td><i>niim</i></td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>niim</i></td>
 <td>
 '<span>bailer</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>(i)nima</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>(i)nima</i></td>
 <td>
 '<span>bailer</span>' (<span><em>i-</em> &lt; POc <em>*i-</em> INS</span>)</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>nimat(a)</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>nimat(a)</i></td>
 <td>
 '<span>bail it out (canoe)</span>'</td>
 </tr>
@@ -3427,7 +3427,7 @@ Three terms to do with bailing water from a vessel can be reconstructed at the P
 
 Figure 26: POc _&ast;lima(s)_ or _&ast;nima(s)_, POc _&ast;asu_ 'bailer'
 
-The following PMP reconstruction is given by [Blust](../references.md#source-Blust1978b) ([1978b](../references.md#source-Blust1978b): 94). Although 'scoop or ladle out' was probably the basic meaning, a number of Oceanic languages use the reflex of _&ast;asu_ to denote a bailer.
+The following PMP reconstruction is given by [Blust](../sources/Blust1978b) ([1978b](../sources/Blust1978b): 94). Although 'scoop or ladle out' was probably the basic meaning, a number of Oceanic languages use the reflex of _&ast;asu_ to denote a bailer.
 
 <table id="1-7-7-4-201-POc-asu-a">
 <tr>
@@ -3439,12 +3439,12 @@ The following PMP reconstruction is given by [Blust](../references.md#source-Blu
 '<span>scoop or bail out</span>'</td>
 </tr>
 <tr>
-<td>None</td><td>Javanese</td><td><i>aŋsu</i></td>
+<td>None</td><td><a href="../languages/javanese">Javanese</a></td><td><i>aŋsu</i></td>
 <td>
 '<span>draw water</span>'</td>
 </tr>
 <tr>
-<td>None</td><td>Buru</td><td><i>asu-k</i></td>
+<td>None</td><td><a href="../languages/buru">Buru</a></td><td><i>asu-k</i></td>
 <td>
 '<span>scoop, dip or bail (water) with a scooper</span>'</td>
 </tr>
@@ -3457,52 +3457,52 @@ The following PMP reconstruction is given by [Blust](../references.md#source-Blu
 [V] '<span>scoop or ladle out</span>'; [N] '<span>ladle, bailer</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Wuvulu</td><td><i>atu</i></td>
+<td>Adm</td><td><a href="../languages/wuvulu">Wuvulu</a></td><td><i>atu</i></td>
 <td>
 '<span>bailer, spoon, ladle</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Aua</td><td><i>atu</i></td>
+<td>Adm</td><td><a href="../languages/aua">Aua</a></td><td><i>atu</i></td>
 <td>
 '<span>bailer, spoon, ladle</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Gedaged</td><td><i>yasi</i></td>
+<td>NNG</td><td><a href="../languages/gedaged">Gedaged</a></td><td><i>yasi</i></td>
 <td>
 '<span>scoop or ladle out</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Nguna</td><td><i>na-asu</i></td>
+<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td><i>na-asu</i></td>
 <td>
 '<span>canoe bailer</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Nguna</td><td><i>(m)asi</i></td>
+<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td><i>(m)asi</i></td>
 <td>
 '<span>bail</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Raga</td><td><i>ahu(a)</i></td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>ahu(a)</i></td>
 <td>
 '<span>bail water, scoop up</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>yaðu</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>yaðu</i></td>
 <td>
 [V] '<span>ladle, scoop</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>ohu</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>ohu</i></td>
 <td>
 '<span>ladle or bail out liquid</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>asu</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>asu</i></td>
 <td>
 [v] '<span>scoop, ladle or bail out liquid</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>ahu</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>ahu</i></td>
 <td>
 '<span>bailer</span>'</td>
 </tr>
@@ -3525,27 +3525,27 @@ The next comparison shows a PPn term for 'bailer' and 'bail', derived from a PMP
 [V] '<span>bail out</span>'; [N] '<span>bailer</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>tatā</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>tatā</i></td>
 <td>
 '<span>bail out</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>tatā</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>tatā</i></td>
 <td>
 '<span>bail, scoop; anything used as a bailer</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tokelauan</td><td><i>tatā</i></td>
+<td>Pn</td><td><a href="../languages/tokelauan">Tokelauan</a></td><td><i>tatā</i></td>
 <td>
 '<span>bail, scoop; anything used as a bailer</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rarotongan</td><td><i>tatā</i></td>
+<td>Pn</td><td><a href="../languages/rarotongan">Rarotongan</a></td><td><i>tatā</i></td>
 <td>
 '<span>bail, scoop; anything used as a bailer</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>tatā</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>tatā</i></td>
 <td>
 '<span>bail, scoop; anything used as a bailer</span>'</td>
 </tr>
@@ -3573,27 +3573,27 @@ Seagoing canoes in many places carry a heap of sand, or an old clay pot or woode
 '<span>portable fireplace or oven</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>tā-dravu</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>tā-dravu</i></td>
 <td>
 '<span>portable fireplace or oven</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>tā-lafu</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>tā-lafu</i></td>
 <td>
 '<span>portable fireplace or oven</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>tā-ŋahu</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>tā-ŋahu</i></td>
 <td>
 [N] '<span>fire</span>'; [v] '<span>build a fire for illumination</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>East Uvean</td><td><i>ta-lafu</i></td>
+<td>Pn</td><td><a href="../languages/eastuvean">East Uvean</a></td><td><i>ta-lafu</i></td>
 <td>
 '<span>cooking box filled with earth and small stones, formerly used in large sailing canoes</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tokelauan</td><td><i>tā-lefu-lefu</i></td>
+<td>Pn</td><td><a href="../languages/tokelauan">Tokelauan</a></td><td><i>tā-lefu-lefu</i></td>
 <td>
 '<span>ashtray</span>'</td>
 </tr>
@@ -3618,7 +3618,7 @@ cf. also:
 </table>
 
 
-The PCP form can be analysed into two elements: the second is clearly _&ast;dravu_ 'fireplace, hearth', which reflects POc _&ast;rapu(R)_ 'hearth, fireplace; ashes' (Ch. 6, §2.4). The origin of _&ast;tā_ is less clear.
+The PCP form can be analysed into two elements: the second is clearly _&ast;dravu_ 'fireplace, hearth', which reflects POc _&ast;rapu(R)_ 'hearth, fireplace; ashes' ([Ch. 6, §2.4](../contributions/1-6#s-2-4)). The origin of _&ast;tā_ is less clear.
 
 
 <a id="s-8"></a>
@@ -3649,17 +3649,17 @@ A PMP term for canoe rollers or skids is well attested, with reflexes in Philipp
 '<span>rollers, skids or blocks to move or raise a boat</span>'</td>
 </tr>
 <tr>
-<td>None</td><td>Maranao</td><td><i>laŋen</i></td>
+<td>None</td><td><a href="../languages/maranao">Maranao</a></td><td><i>laŋen</i></td>
 <td>
 '<span>rollers</span>'</td>
 </tr>
 <tr>
-<td>CMP</td><td>Asilulu</td><td><i>lane-t</i></td>
+<td>CMP</td><td><a href="../languages/asilulu">Asilulu</a></td><td><i>lane-t</i></td>
 <td>
 '<span>rollers</span>'</td>
 </tr>
 <tr>
-<td>None</td><td>Buru</td><td><i>laŋe</i></td>
+<td>None</td><td><a href="../languages/buru">Buru</a></td><td><i>laŋe</i></td>
 <td>
 '<span>rollers</span>'</td>
 </tr>
@@ -3672,52 +3672,52 @@ A PMP term for canoe rollers or skids is well attested, with reflexes in Philipp
 [N] '<span>rollers</span>'; [V] '<span>place rollers under a canoe</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>(i)raŋo</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>(i)raŋo</i></td>
 <td>
 [N] '<span>roller for canoe</span>'; [V] '<span>place rollers under a canoe</span>' (<span><em>i-</em> &lt; POc <em>*i-</em> INS</span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kiribatese</td><td><i>naŋo</i></td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>naŋo</i></td>
 <td>
 '<span>rollers for canoe</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Marshallese</td><td><i>lᶭaŋ</i></td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>lᶭaŋ</i></td>
 <td>
 '<span>rollers for canoe</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Woleaian</td><td><i>laŋo</i></td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>laŋo</i></td>
 <td>
 '<span>rollers for canoe</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>laŋo</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>laŋo</i></td>
 <td>
 '<span>place rollers (for canoe +)</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>laŋoni ni waga</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>laŋoni ni waga</i></td>
 <td>
 '<span>canoe rollers</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>laŋo</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>laŋo</i></td>
 <td>
 '<span>supporting block or beam</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>laŋo</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>laŋo</i></td>
 <td>
 [N] '<span>support, prop, pillow, bolster</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>gaŋo</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>gaŋo</i></td>
 <td>
 '<span>coaster (butt ends of coconut fronds or sticks) for dragging a canoe over the beach</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>raŋo</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>raŋo</i></td>
 <td>
 [N] '<span>canoe skid or block</span>'; [V] '<span>support (canoe +)</span>'</td>
 </tr>
@@ -3743,32 +3743,32 @@ There are two fairly well-supported PMP reconstructions to do with anchoring. In
 [N] '<span>anchor</span>'; [V] '<span>be anchored</span>'</td>
 </tr>
 <tr>
-<td>None</td><td>Tagalog</td><td><i>sawoq</i></td>
+<td>None</td><td><a href="../languages/tagalog">Tagalog</a></td><td><i>sawoq</i></td>
 <td>
 '<span>anchor</span>'</td>
 </tr>
 <tr>
-<td>None</td><td>Toba Batak</td><td><i>sawo</i></td>
+<td>None</td><td><a href="../languages/tobabatak">Toba Batak</a></td><td><i>sawo</i></td>
 <td>
 '<span>anchor</span>'</td>
 </tr>
 <tr>
-<td>None</td><td>Malay</td><td><i>sauh</i></td>
+<td>None</td><td><a href="../languages/malay">Malay</a></td><td><i>sauh</i></td>
 <td>
 '<span>anchor</span>'</td>
 </tr>
 <tr>
-<td>WMP</td><td>Ngaju Dayak</td><td><i>sauh</i></td>
+<td>WMP</td><td><a href="../languages/ngajudayak">Ngaju Dayak</a></td><td><i>sauh</i></td>
 <td>
 '<span>anchor</span>'</td>
 </tr>
 <tr>
-<td>None</td><td>Buru</td><td><i>sau</i></td>
+<td>None</td><td><a href="../languages/buru">Buru</a></td><td><i>sau</i></td>
 <td>
 '<span>anchor (possibly borrowed from Malay)</span>'</td>
 </tr>
 <tr>
-<td>SHWNG</td><td>Numfor</td><td><i>sau</i></td>
+<td>SHWNG</td><td><a href="../languages/numfor">Numfor</a></td><td><i>sau</i></td>
 <td>
 '<span>anchorage</span>'</td>
 </tr>
@@ -3781,42 +3781,42 @@ There are two fairly well-supported PMP reconstructions to do with anchoring. In
 '<span>be anchored or moored, come to anchor or rest</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>dau</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>dau</i></td>
 <td>
 '<span>(canoe) come to rest</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>dau</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>dau</i></td>
 <td>
 '<span>come to anchor; alight, be stationary, at rest</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>deu</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>deu</i></td>
 <td>
 '<span>(canoe) settle, be stationary</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>tau</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>tau</i></td>
 <td>
 '<span>anchor or moor a boat, park a car</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>tau</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>tau</i></td>
 <td>
 '<span>moor, anchor</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>tau</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>tau</i></td>
 <td>
 '<span>come to land</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>tau</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>tau</i></td>
 <td>
 '<span>(vessel) fetch up, come in to land</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>tau</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>tau</i></td>
 <td>
 '<span>come to anchor, ride at anchor, lie to</span>'</td>
 </tr>
@@ -3833,7 +3833,7 @@ There are two fairly well-supported PMP reconstructions to do with anchoring. In
 ### 8.3. Passage or channel, landing place
 
 
-The PMP and POc term _&ast;sawaŋ_ or _&ast;sawaq_ appears to have been the conventional name for a channel for boats to pass through or to land, or an area of calm water giving safe anchorage. [Blust](../references.md#source-Blust1983) ([1983](../references.md#source-Blust1983)-84a: 113) reconstructs _&ast;sawaq_ 'channel'.
+The PMP and POc term _&ast;sawaŋ_ or _&ast;sawaq_ appears to have been the conventional name for a channel for boats to pass through or to land, or an area of calm water giving safe anchorage. [Blust](../sources/Blust1983) ([1983](../sources/Blust1983)-84a: 113) reconstructs _&ast;sawaq_ 'channel'.
 
 <table id="1-7-8-3-204-POc-sawa-a">
 <tr>
@@ -3845,12 +3845,12 @@ The PMP and POc term _&ast;sawaŋ_ or _&ast;sawaq_ appears to have been the conv
 '<span>opening used by boats to pass through, channel or strait, safe passage or anchorage</span>'</td>
 </tr>
 <tr>
-<td>WMP</td><td>Chamorro</td><td><i>sagwaʔ</i></td>
+<td>WMP</td><td><a href="../languages/chamorro">Chamorro</a></td><td><i>sagwaʔ</i></td>
 <td>
 '<span>channel, inlet of water, narrow passage in reef</span>'</td>
 </tr>
 <tr>
-<td>None</td><td>Malay</td><td><i>sawaŋ</i></td>
+<td>None</td><td><a href="../languages/malay">Malay</a></td><td><i>sawaŋ</i></td>
 <td>
 '<span>breakwater</span>'</td>
 </tr>
@@ -3863,102 +3863,102 @@ The PMP and POc term _&ast;sawaŋ_ or _&ast;sawaq_ appears to have been the conv
 '<span>channel in reef giving passage to boats, landing place, anchorage</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Lou</td><td><i>(mara)sa</i></td>
+<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td><i>(mara)sa</i></td>
 <td>
 '<span>channel, passage between islands</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Titan</td><td><i>(mata)ca</i></td>
+<td>Adm</td><td><a href="../languages/titan">Titan</a></td><td><i>(mata)ca</i></td>
 <td>
 '<span>channel, passage between islands</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Wuvulu</td><td><i>tawa</i></td>
+<td>Adm</td><td><a href="../languages/wuvulu">Wuvulu</a></td><td><i>tawa</i></td>
 <td>
 '<span>channel, passage between islands</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Yabem</td><td><i>sawa</i></td>
+<td>NNG</td><td><a href="../languages/yabem">Yabem</a></td><td><i>sawa</i></td>
 <td>
 '<span>space, empty area</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>dava</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>dava</i></td>
 <td>
 '<span>lagoon in atoll, water in chasm or ditch</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Roviana</td><td><i>savaŋa</i></td>
+<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td><i>savaŋa</i></td>
 <td>
 '<span>strait between two islands</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>'Are'are</td><td><i>tawa</i></td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>tawa</i></td>
 <td>
 '<span>channel in reef, landing place</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>tawa</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>tawa</i></td>
 <td>
 '<span>landing place</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kiribatese</td><td><i>rawa</i></td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>rawa</i></td>
 <td>
 '<span>channel in reef</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Marshallese</td><td><i>tew</i></td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>tew</i></td>
 <td>
 '<span>channel in reef</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Ponapean</td><td><i>dāw</i></td>
+<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td><i>dāw</i></td>
 <td>
 '<span>channel in reef</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Trukese</td><td><i>tāw</i></td>
+<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td><i>tāw</i></td>
 <td>
 '<span>channel in reef</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Woleaian</td><td><i>tāwa</i></td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>tāwa</i></td>
 <td>
 '<span>channel in reef</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Rotuman</td><td><i>sava</i></td>
+<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td><i>sava</i></td>
 <td>
 '<span>passage or opening in a coral reef</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>(mata)ðawa</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>(mata)ðawa</i></td>
 <td>
 '<span>beach</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>(mata)sawa</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>(mata)sawa</i></td>
 <td>
 '<span>landing place</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>ava</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>ava</i></td>
 <td>
 '<span>harbour, opening in reef, channel</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>ava</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>ava</i></td>
 <td>
 '<span>channel, passage in reef; anchorage</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>East Futunan</td><td><i>ava</i></td>
+<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td><i>ava</i></td>
 <td>
 '<span>anchorage</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>awa</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>awa</i></td>
 <td>
 '<span>channel, landing place for canoes</span>'</td>
 </tr>
@@ -3983,7 +3983,7 @@ cf. also:
 </table>
 
 
-There is clear evidence for a POc compound consisting of _&ast;mata_ 'opening, entrance; focal point' plus _&ast;sawaŋ_, with the sense 'landing place for boats' . The Southeast Solomonic and Kiribatese forms suggest the POc compound had the form _&ast;mata-ni-sawaŋ_, or _&ast;mata-qi-sawaŋ_, with one of the two POc genitive particles _&ast;ni_ or _&ast;qi_ ([Hooper 1985](../references.md#source-Hooper1985)) linking the two nouns. However, the Admiralty Islands and Fijian forms do not reflect the genitive.
+There is clear evidence for a POc compound consisting of _&ast;mata_ 'opening, entrance; focal point' plus _&ast;sawaŋ_, with the sense 'landing place for boats' . The Southeast Solomonic and Kiribatese forms suggest the POc compound had the form _&ast;mata-ni-sawaŋ_, or _&ast;mata-qi-sawaŋ_, with one of the two POc genitive particles _&ast;ni_ or _&ast;qi_ ([Hooper 1985](../sources/Hooper1985)) linking the two nouns. However, the Admiralty Islands and Fijian forms do not reflect the genitive.
 
 <table id="1-7-8-3-204-POc-matasawa-a">
 <tr>
@@ -3995,47 +3995,47 @@ There is clear evidence for a POc compound consisting of _&ast;mata_ 'opening, e
 '<span>landing place, channel in fringing reef giving passage to boats</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Lou</td><td><i>mara-sa</i></td>
+<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td><i>mara-sa</i></td>
 <td>
 '<span>channel, landing place</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Titan</td><td><i>mata-ca</i></td>
+<td>Adm</td><td><a href="../languages/titan">Titan</a></td><td><i>mata-ca</i></td>
 <td>
 '<span>channel, landing place</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>maeta-wa</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>maeta-wa</i></td>
 <td>
 '<span>boat landing, landing place where the sea is calm</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Kwaio</td><td><i>maa-li-takwa</i></td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>maa-li-takwa</i></td>
 <td>
 '<span>landing place, salt water</span>' (<span>the Kwaio are an inland people</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>maa-li-tawa</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>maa-li-tawa</i></td>
 <td>
 '<span>opening in shore reef, land place</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>'Are'are</td><td><i>ma-ri-tawa</i></td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>ma-ri-tawa</i></td>
 <td>
 '<span>landing place, channel</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kiribatese</td><td><i>mata n rawa-rawa</i></td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>mata n rawa-rawa</i></td>
 <td>
 '<span>channel, gap in reef</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>mata-ðawa</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>mata-ðawa</i></td>
 <td>
 '<span>beach</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>mata-sawa</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>mata-sawa</i></td>
 <td>
 '<span>landing place</span>'</td>
 </tr>
@@ -4052,7 +4052,7 @@ There is clear evidence for a POc compound consisting of _&ast;mata_ 'opening, e
 ### 8.4. Boatshed
 
 
-While boatsheds, for building and sheltering boats, are common in the Malayo-Polynesian speaking region, no really widespread cognate set for such a building has been noted outside the Central Pacific group. Some Oceanic languages use a simple term reflecting PMP _&ast;balay_ 'house or building, probably with open sides' as Lou (Admiralties) _pal_ 'boatshed'. Others use a compound nominal whose components, as in English, are the words for 'boat' and 'house' . It may be that speakers of PMP used such a compound but it is hard to rule out the possibility of independent parallel developments in the daughter languages. However, there is good evidence for a distinctive PCP term for boatshed, evidently incorporating the term for 'make a sea voyage' (see POc _&ast;palau(r)_, §9.2):
+While boatsheds, for building and sheltering boats, are common in the Malayo-Polynesian speaking region, no really widespread cognate set for such a building has been noted outside the Central Pacific group. Some Oceanic languages use a simple term reflecting PMP _&ast;balay_ 'house or building, probably with open sides' as Lou (Admiralties) _pal_ 'boatshed'. Others use a compound nominal whose components, as in English, are the words for 'boat' and 'house' . It may be that speakers of PMP used such a compound but it is hard to rule out the possibility of independent parallel developments in the daughter languages. However, there is good evidence for a distinctive PCP term for boatshed, evidently incorporating the term for 'make a sea voyage' (see POc _&ast;palau(r)_, [§9.2](../contributions/1-7#s-9-2)):
 
 <table id="1-7-8-4-205-PCP-avalau-a">
 <tr>
@@ -4064,42 +4064,42 @@ While boatsheds, for building and sheltering boats, are common in the Malayo-Pol
 '<span>boatshed</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>volau</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>volau</i></td>
 <td>
 '<span>boatshed</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>volau</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>volau</i></td>
 <td>
 '<span>boatshed</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>ala folau</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>ala folau</i></td>
 <td>
 '<span>boatshed</span>' (<span>first <em>-l-</em> unexpected; cf. <em>ala folau</em> 'fit to go to sea'</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>afolau</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>afolau</i></td>
 <td>
 '<span>temporary shelter</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>āfolau</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>āfolau</i></td>
 <td>
 '<span>long house, used for e.g. receiving guests</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>aforau</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>aforau</i></td>
 <td>
 '<span>canoe shed</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>(mata) aforau</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>(mata) aforau</i></td>
 <td>
 '<span>canoe yard for sacred canoes</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>farau</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>farau</i></td>
 <td>
 '<span>temporary shed or booth</span>'; '<span>canoe shed</span>'</td>
 </tr>
@@ -4131,32 +4131,32 @@ A number of terms can be reconstructed at PMP or lower levels for concepts to do
 '<span>embark, be aboard, ride (on a vessel +)</span>'</td>
 </tr>
 <tr>
-<td>None</td><td>Cebuano</td><td><i>sakay</i></td>
+<td>None</td><td><a href="../languages/cebuano">Cebuano</a></td><td><i>sakay</i></td>
 <td>
 '<span>travel by sea, embark, ride on (a boat +)</span>'</td>
 </tr>
 <tr>
-<td>WMP</td><td>Ilokano</td><td><i>sakay</i></td>
+<td>WMP</td><td><a href="../languages/ilokano">Ilokano</a></td><td><i>sakay</i></td>
 <td>
 '<span>ride in a boat</span>'</td>
 </tr>
 <tr>
-<td>WMP</td><td>Bikol</td><td><i>(mag)-sakay</i></td>
+<td>WMP</td><td><a href="../languages/bikol">Bikol</a></td><td><i>(mag)-sakay</i></td>
 <td>
 '<span>ride in a boat</span>'</td>
 </tr>
 <tr>
-<td>None</td><td>Sangir</td><td><i>sakaeŋ</i></td>
+<td>None</td><td><a href="../languages/sangir">Sangir</a></td><td><i>sakaeŋ</i></td>
 <td>
 '<span>boat</span>' (<span>from PMP <em>*sakay-an</em> lit. 'thing to ride on'</span>)</td>
 </tr>
 <tr>
-<td>CMP</td><td>Asilulu</td><td><i>saka</i></td>
+<td>CMP</td><td><a href="../languages/asilulu">Asilulu</a></td><td><i>saka</i></td>
 <td>
 '<span>ascend, climb</span>'</td>
 </tr>
 <tr>
-<td>CMP</td><td>Selaru</td><td><i>sai</i></td>
+<td>CMP</td><td><a href="../languages/selaru">Selaru</a></td><td><i>sai</i></td>
 <td>
 '<span>climb, go up, ride, mount</span>'</td>
 </tr>
@@ -4169,47 +4169,47 @@ A number of terms can be reconstructed at PMP or lower levels for concepts to do
 '<span>embark, ride on a canoe</span>' (<span>prefix to numerals denoting number of crew carried by a canoe</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>tae</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>tae</i></td>
 <td>
 '<span>embark</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>'Are'are</td><td><i>taʔe</i></td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>taʔe</i></td>
 <td>
 '<span>ride, embark</span>' (<span>prefix in <em>taʔe taʔai</em> 'one-man canoe', <em>taʔe rua</em> 'two-man canoe +'</span>)</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>sage</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>sage</i></td>
 <td>
 '<span>prefix with numerals when men on board a canoe are numbered</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Mokilese</td><td><i>tak</i></td>
+<td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td><i>tak</i></td>
 <td>
 '<span>ride on (a vessel +)</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Ponapean</td><td><i>take</i></td>
+<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td><i>take</i></td>
 <td>
 '<span>ride</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Carolinian</td><td><i>tāta</i></td>
+<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td><i>tāta</i></td>
 <td>
 '<span>ride on s.t.</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Woleaian</td><td><i>tagē(a)</i></td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>tagē(a)</i></td>
 <td>
 '<span>ride on it, sail in it</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Woleaian</td><td><i>(tet)tag</i></td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>(tet)tag</i></td>
 <td>
 '<span>ride</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>ðake</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>ðake</i></td>
 <td>
 '<span>embark, go aboard</span>'</td>
 </tr>
@@ -4240,17 +4240,17 @@ In the following set the Central Pacific forms clearly refer to long-distance sa
 '<span>go down to the sea or coast</span>'</td>
 </tr>
 <tr>
-<td>None</td><td>Cebuano</td><td><i>palawud</i></td>
+<td>None</td><td><a href="../languages/cebuano">Cebuano</a></td><td><i>palawud</i></td>
 <td>
 '<span>go to sea</span>'</td>
 </tr>
 <tr>
-<td>WMP</td><td>Ilokano</td><td><i>palaud</i></td>
+<td>WMP</td><td><a href="../languages/ilokano">Ilokano</a></td><td><i>palaud</i></td>
 <td>
 '<span>go to the west, go down to the coast</span>'</td>
 </tr>
 <tr>
-<td>WMP</td><td>Tukang Besi</td><td><i>henaʔu</i></td>
+<td>WMP</td><td><a href="../languages/tukangbesi">Tukang Besi</a></td><td><i>henaʔu</i></td>
 <td>
 '<span>descend, go seawards, go west</span>'</td>
 </tr>
@@ -4263,77 +4263,77 @@ In the following set the Central Pacific forms clearly refer to long-distance sa
 '<span>go to sea, make a sea voyage</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Tolo</td><td><i>vola-volau</i></td>
+<td>SES</td><td><a href="../languages/tolo">Tolo</a></td><td><i>vola-volau</i></td>
 <td>
 '<span>run, race</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Raga</td><td><i>walau</i></td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>walau</i></td>
 <td>
 '<span>guide, steer, direct</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>wala-walau</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>wala-walau</i></td>
 <td>
 '<span>paddle all together</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Nguna</td><td><i>wo-wolau</i></td>
+<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td><i>wo-wolau</i></td>
 <td>
 '<span>steer canoe</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kiribatese</td><td><i>borau, bo-borau</i></td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>borau, bo-borau</i></td>
 <td>
 '<span>travel by sea</span>' (<span>prob. borrowed from a Pn source</span>)</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>volau</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>volau</i></td>
 <td>
 [v] '<span>make a sea voyage</span>'; [N] '<span>boat house</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>folau</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>folau</i></td>
 <td>
 '<span>voyage, travel by sea</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>folau(ʔaŋa)</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>folau(ʔaŋa)</i></td>
 <td>
 '<span>boat in which one voyages</span>' (<span>-ʔaŋa &lt; NOM</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>folau(ʔia)</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>folau(ʔia)</i></td>
 <td>
 '<span>be constantly visited by ships</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>hogau</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>hogau</i></td>
 <td>
 '<span>ocean voyage</span>'; '<span>canoe making an ocean voyage</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>folau</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>folau</i></td>
 <td>
 '<span>travel by sea, make a voyage; depart, sail</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>fōlau(ŋa)</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>fōlau(ŋa)</i></td>
 <td>
 '<span>voyage</span>' (<span>-ŋa &lt; NOM</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>folau(vaʔa)</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>folau(vaʔa)</i></td>
 <td>
 '<span>sailor</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>forau</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>forau</i></td>
 <td>
 '<span>voyage overseas, travel abroad</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>farau</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>farau</i></td>
 <td>
 '<span>travel, particularly by water</span>'; '<span>company of travellers</span>'</td>
 </tr>
@@ -4363,7 +4363,7 @@ Lawrence Reid (pers.comm.) suggests that the Malayo-Polynesian forms derive from
 
 <a id="p-207"></a>
 
-[Blust](../references.md#source-Blust1978a) ([1978a](../references.md#source-Blust1978a):216) offers the following:
+[Blust](../sources/Blust1978a) ([1978a](../sources/Blust1978a):216) offers the following:
 
 <table id="1-7-9-2-207-POc-tari-a">
 <tr>
@@ -4375,7 +4375,7 @@ Lawrence Reid (pers.comm.) suggests that the Malayo-Polynesian forms derive from
 '<span>steer a course (in navigating)</span>'</td>
 </tr>
 <tr>
-<td>SHWNG</td><td>Numfor</td><td><i>kar</i></td>
+<td>SHWNG</td><td><a href="../languages/numfor">Numfor</a></td><td><i>kar</i></td>
 <td>
 '<span>row (while facing one's destination)</span>'</td>
 </tr>
@@ -4388,7 +4388,7 @@ Lawrence Reid (pers.comm.) suggests that the Malayo-Polynesian forms derive from
 '<span>steer a course</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>tari</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>tari</i></td>
 <td>
 [N] '<span>rudder, steer oar</span>'; [v] '<span>steer a canoe</span>'</td>
 </tr>
@@ -4408,22 +4408,22 @@ The sound correspondences are regular, but one would like further cognates to st
 '<span>tack, sail to windward</span>'</td>
 </tr>
 <tr>
-<td>None</td><td>Javanese</td><td><i>biluk</i></td>
+<td>None</td><td><a href="../languages/javanese">Javanese</a></td><td><i>biluk</i></td>
 <td>
 '<span>tack</span>'</td>
 </tr>
 <tr>
-<td>None</td><td>Malay</td><td><i>belok</i></td>
+<td>None</td><td><a href="../languages/malay">Malay</a></td><td><i>belok</i></td>
 <td>
 '<span>tack</span>'</td>
 </tr>
 <tr>
-<td>WMP</td><td>Ngaju Dayak</td><td><i>biluk</i></td>
+<td>WMP</td><td><a href="../languages/ngajudayak">Ngaju Dayak</a></td><td><i>biluk</i></td>
 <td>
 '<span>tack</span>'</td>
 </tr>
 <tr>
-<td>None</td><td>Tausug</td><td><i>biluk</i></td>
+<td>None</td><td><a href="../languages/tausug">Tausug</a></td><td><i>biluk</i></td>
 <td>
 '<span>tack</span>'</td>
 </tr>
@@ -4436,7 +4436,7 @@ The sound correspondences are regular, but one would like further cognates to st
 '<span>tack</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>hilu-hilu</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>hilu-hilu</i></td>
 <td>
 '<span>zigzag</span>'</td>
 </tr>
@@ -4449,12 +4449,12 @@ The sound correspondences are regular, but one would like further cognates to st
 '<span>tack</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Rotuman</td><td><i>sua</i></td>
+<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td><i>sua</i></td>
 <td>
 '<span>tack about, change tack</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>hua</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>hua</i></td>
 <td>
 '<span>(boat) change from one tack to another</span>'</td>
 </tr>
@@ -4480,52 +4480,52 @@ The following reconstruction consists of a compound with _&ast;tau_ 'person, exp
 '<span>expert fisherman or sailor, mariner</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Sye</td><td><i>ntoɣ</i></td>
+<td>SV</td><td><a href="../languages/sye">Sye</a></td><td><i>ntoɣ</i></td>
 <td>
 '<span>sailor</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>S.W. Tanna</td><td><i>tahik</i></td>
+<td>SV</td><td><a href="../languages/swtanna">S.W. Tanna</a></td><td><i>tahik</i></td>
 <td>
 '<span>sailor</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Trukese</td><td><i>sowu-set</i></td>
+<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td><i>sowu-set</i></td>
 <td>
 '<span>master fisherman</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Carolinian</td><td><i>sou-lē-set</i></td>
+<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td><i>sou-lē-set</i></td>
 <td>
 '<span>skilled fisherman</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>toutai</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>toutai</i></td>
 <td>
 '<span>mariner, sailor; go fishing</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>toutai(ʔi)</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>toutai(ʔi)</i></td>
 <td>
 '<span>steer or pilot (a fishing boat)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>tautai</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>tautai</i></td>
 <td>
 '<span>go fishing in the sea</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>tautai</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>tautai</i></td>
 <td>
 '<span>master fisherman, captain of a boat or ship</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>tautai</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>tautai</i></td>
 <td>
 '<span>skilled seaman, expert fisherman</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tokelauan</td><td><i>tautai</i></td>
+<td>Pn</td><td><a href="../languages/tokelauan">Tokelauan</a></td><td><i>tautai</i></td>
 <td>
 '<span>master fisherman, skipper or captain of a boat</span>'</td>
 </tr>
@@ -4564,27 +4564,27 @@ In the following set the first element is again _&ast;tau_ 'person, owner'. The 
 '<span>owner of a boat</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Molima</td><td><i>to ni waga</i></td>
+<td>PT</td><td><a href="../languages/molima">Molima</a></td><td><i>to ni waga</i></td>
 <td>
 '<span>canoe owner or captain</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Muyuw</td><td><i>ta-ga-ni-wag</i></td>
+<td>PT</td><td><a href="../languages/muyuw">Muyuw</a></td><td><i>ta-ga-ni-wag</i></td>
 <td>
 '<span>canoe owner or captain</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>tau-kei ni waga</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>tau-kei ni waga</i></td>
 <td>
 '<span>boat owner</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>tau baka</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>tau baka</i></td>
 <td>
 '<span>canoe owner, act as a captain</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>tau vaka</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>tau vaka</i></td>
 <td>
 '<span>canoe owner</span>'</td>
 </tr>
@@ -4616,25 +4616,25 @@ The moral we might draw at this point is a rather obvious one: that for doing cu
 
 [^1]: This is a slightly revised version of a paper which is included in Pawley and Ross, eds. 1994. Unlike other chapters in this volume, this chapter takes account of the Austronesian language family as a whole, rather than just of its Oceanic subgroup. We have done this because the topic of canoes and seafaring is, in an obvious way, intimately associated with the Austronesian dispersal, of which the Oceanic dispersal was simply the later part: to ignore the earlier part would be somewhat arbitrary. We are grateful to many colleagues for help. Robert Blust, Charles Grimes, Ric Jackson, Jeff Marck and Bernd Nothofer provided corrections to many points of detail as well as additional evidence. Sander Adelaar, Wal Ambrose, Mark Donohue, Paul Geraghty, Geoff Irwin, Alan Jones, Nigel Oram, Lawrence Reid and Malcolm Ross also offered valuable comments or data.
 
-[^2]: See e.g. [Shutler and Marck](../references.md#source-ShutlerMarck1975) ([1975](../references.md#source-ShutlerMarck1975)), [Bellwood](../references.md#source-Bellwood1978) ([1978](../references.md#source-Bellwood1978), [1988](../references.md#source-Bellwood1988)), [Pawley and Green](../references.md#source-PawleyandGreen1973) ([1973](../references.md#source-PawleyandGreen1973), [1984](../references.md#source-PawleyandGreen1984)), [Spriggs](../references.md#source-Spriggs1984) ([1984](../references.md#source-Spriggs1984), [1989](../references.md#source-Spriggs1989), [1990](../references.md#source-Spriggs1990)) for discussion of the dating of the Austronesian diaspora, using C14 dating of archaeological assemblages that can be associated with Austronesian speakers.
+[^2]: See e.g. [Shutler and Marck](../sources/ShutlerMarck1975) ([1975](../sources/ShutlerMarck1975)), [Bellwood](../sources/Bellwood1978) ([1978](../sources/Bellwood1978), [1988](../sources/Bellwood1988)), [Pawley and Green](../sources/PawleyandGreen1973) ([1973](../sources/PawleyandGreen1973), [1984](../sources/PawleyandGreen1984)), [Spriggs](../sources/Spriggs1984) ([1984](../sources/Spriggs1984), [1989](../sources/Spriggs1989), [1990](../sources/Spriggs1990)) for discussion of the dating of the Austronesian diaspora, using C14 dating of archaeological assemblages that can be associated with Austronesian speakers.
 
-[^3]:  Among the scores of 20th century works on these subjects are [Best](../references.md#source-Best1923) ([1923](../references.md#source-Best1923), [1925](../references.md#source-Best1925)), Doran (1981), [Finney](../references.md#source-Finney1979) ([1979](../references.md#source-Finney1979)), [Friederici](../references.md#source-Friederici1933) ([1933](../references.md#source-Friederici1933)), [Gladwin](../references.md#source-Gladwin1970) ([1970](../references.md#source-Gladwin1970)), [Golson](../references.md#source-Golson1972) ([1972](../references.md#source-Golson1972)), [Haddon](../references.md#source-Haddon1937) ([1937](../references.md#source-Haddon1937)), [Haddon and Hornell](../references.md#source-HaddonHornell1938) ([1938](../references.md#source-HaddonHornell1938)), [Hornell](../references.md#source-Hornell1936) ([1936](../references.md#source-Hornell1936)), [Horridge](../references.md#source-Horridge1978) ([1978](../references.md#source-Horridge1978), [1981](../references.md#source-Horridge1981), [1986](../references.md#source-Horridge1986)), [Hutchins](../references.md#source-Hutchins1983) ([1983](../references.md#source-Hutchins1983)), [Irwin](../references.md#source-Irwin1989) ([1989](../references.md#source-Irwin1989), [1992](../references.md#source-Irwin1992)), [Lewis](../references.md#source-Lewis1972) ([1972](../references.md#source-Lewis1972)), [Sharp](../references.md#source-Sharp1956) ([1956](../references.md#source-Sharp1956)), [Siers](../references.md#source-Siers1977) ([1977](../references.md#source-Siers1977)), [Thomas](../references.md#source-Thomas1987) ([1987](../references.md#source-Thomas1987)).
+[^3]:  Among the scores of 20th century works on these subjects are [Best](../sources/Best1923) ([1923](../sources/Best1923), [1925](../sources/Best1925)), Doran (1981), [Finney](../sources/Finney1979) ([1979](../sources/Finney1979)), [Friederici](../sources/Friederici1933) ([1933](../sources/Friederici1933)), [Gladwin](../sources/Gladwin1970) ([1970](../sources/Gladwin1970)), [Golson](../sources/Golson1972) ([1972](../sources/Golson1972)), [Haddon](../sources/Haddon1937) ([1937](../sources/Haddon1937)), [Haddon and Hornell](../sources/HaddonHornell1938) ([1938](../sources/HaddonHornell1938)), [Hornell](../sources/Hornell1936) ([1936](../sources/Hornell1936)), [Horridge](../sources/Horridge1978) ([1978](../sources/Horridge1978), [1981](../sources/Horridge1981), [1986](../sources/Horridge1986)), [Hutchins](../sources/Hutchins1983) ([1983](../sources/Hutchins1983)), [Irwin](../sources/Irwin1989) ([1989](../sources/Irwin1989), [1992](../sources/Irwin1992)), [Lewis](../sources/Lewis1972) ([1972](../sources/Lewis1972)), [Sharp](../sources/Sharp1956) ([1956](../sources/Sharp1956)), [Siers](../sources/Siers1977) ([1977](../sources/Siers1977)), [Thomas](../sources/Thomas1987) ([1987](../sources/Thomas1987)).
 
 [^4]: Horridge recognizes the distinction that linguists now usually make between 'Austronesian', as the name of the entire language family, and 'Malayo-Polynesian', as the name for a putative subgroup that includes all Austronesian languages except those of Formosa.
 
 [^5]: It should be stressed that the genetic comparative method is not a discovery procedure that automatically yields correct interpretations of linguistic comparisons. There are invariably ambiguities in the evidence that require choice between two or more hypotheses. The method works best when (a) the number of putative cognate sets is large, (b) the witnesses (languages compared) have had little or no contact for a long time, (c) the number of such independent witnesses in the family is large, (d) the witnesses at each level fall into more than two subgroups.
 
-[^6]:   The version of POLLEX (= [Biggs 1993](../references.md#source-Biggs1993)) used here, in fact, dates from 1990.
+[^6]:   The version of POLLEX (= [Biggs 1993](../sources/Biggs1993)) used here, in fact, dates from 1990.
 
-[^7]:   Obsolete term, cited by [Ferrell](../references.md#source-Ferrell1969) ([1969](../references.md#source-Ferrell1969):42, 247); the only reported cognate in a Formosan witness.
+[^7]:   Obsolete term, cited by [Ferrell](../sources/Ferrell1969) ([1969](../sources/Ferrell1969):42, 247); the only reported cognate in a Formosan witness.
 
-[^8]: See [Pawley and Green](../references.md#source-PawleyandGreen1973) ([1973](../references.md#source-PawleyandGreen1973)), Green (1991 b) for the terms 'Near Oceania' and 'Remote Oceania'.
+[^8]: See [Pawley and Green](../sources/PawleyandGreen1973) ([1973](../sources/PawleyandGreen1973)), Green (1991 b) for the terms 'Near Oceania' and 'Remote Oceania'.
 
 [^9]: _b_ for expected _p_, possibly borrowed from a Polynesian source.
 
-[^10]: Obsolete ([Hornell 1936](../references.md#source-Hornell1936):302).
+[^10]: Obsolete ([Hornell 1936](../sources/Hornell1936):302).
 
-[^11]:  The fruit of the putty nut (Parinarium laurinum) is widely used to caulk or stop a vessel. In Proto Huon Gulf an identical term is reconstructable both for the nut and the glue that is made from it: Proto Huon Gulf _&ast;jimiR_ 'putty nut, caulking substance' ([Ross 1988](../references.md#source-Ross1988):79); Tami _jim_ 'caulking substance'; Tuam _zimir_ 'caulk'; Numbami _dimil-a_ 'caulk'. The following set is of uncertain relation to _&ast;jimiR_: POc _&ast;jema_ 'caulk' ([Milke 1968](../references.md#source-Milke1968)): Motu _dema-ia_ 'caulk'; E. Fijian _sema_ 'splice, join, patch', _sema-ta_ 'to splice, join, patch s.t.'
+[^11]:  The fruit of the putty nut (Parinarium laurinum) is widely used to caulk or stop a vessel. In Proto Huon Gulf an identical term is reconstructable both for the nut and the glue that is made from it: Proto Huon Gulf _&ast;jimiR_ 'putty nut, caulking substance' ([Ross 1988](../sources/Ross1988):79); Tami _jim_ 'caulking substance'; Tuam _zimir_ 'caulk'; Numbami _dimil-a_ 'caulk'. The following set is of uncertain relation to _&ast;jimiR_: POc _&ast;jema_ 'caulk' ([Milke 1968](../sources/Milke1968)): Motu _dema-ia_ 'caulk'; E. Fijian _sema_ 'splice, join, patch', _sema-ta_ 'to splice, join, patch s.t.'
 
 [^12]: Gedaged _g_ for expected zero.
 
@@ -4642,8 +4642,8 @@ The moral we might draw at this point is a rather obvious one: that for doing cu
 
 [^14]: Gloss dubious. Probably should be 'outrigger float'.
 
-[^15]: See [Pawley](../references.md#source-Pawley1973) ([1973](../references.md#source-Pawley1973): 172).
+[^15]: See [Pawley](../sources/Pawley1973) ([1973](../sources/Pawley1973): 172).
 
 [^16]: Paul Geraghty (pers.comm.) argues that the POc form was _&ast;katae_, and that the form _&ast;katea_ is a PPn innovation which has been borrowed by a few other languages.
 
-[^17]: According to [Best](../references.md#source-Best1925) ([1925](../references.md#source-Best1925): 183), the term _ra kautu_ [=_raa kautuu_] refers to a (triangular) sail with mast that is stepped upright in a cupped boss on the floor of the dugout.
+[^17]: According to [Best](../sources/Best1925) ([1925](../sources/Best1925): 183), the term _ra kautu_ [=_raa kautuu_] refers to a (triangular) sail with mast that is stepped upright in a cupped boss on the floor of the dugout.

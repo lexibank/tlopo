@@ -10,12 +10,12 @@ The terms reconstructed in this chapter denoted properties of inanimate objects 
 
 Oceanic languages make some distinctions between properties of inanimates and properties of animates that are not made in European languages, and vice versa. In most Oceanic languages there are distinct words for ‘old’ as applied to inanimate objects and ‘old’ as applied to human beings, and different temperature terms for the physical environment and for the human body. This appears to have been true in POc as well, where _&ast;[ma]tuqa_ ‘ripe, mature, adult, old’ was used of animates and POc _&ast;tuqaRi_ ‘long ago, old’ and _&ast;rapu-ka_ ‘old’ of inanimates.
 
-Property words in European languages are typically adjectives. It is fairly certain, however, that POc did not have a separate adjective word class. Instead, it had a small subclass of nouns and a large subclass of verbs that were used to express properties (see vol. 1, pp.34–35). For convenience, I have named these adjectival nouns and adjectival verbs. The test of whether a noun or verb is adjectival is that it can occur without any additional morphology as the modifier of a noun. However, these subclasses have undergone various redistributions in different Oceanic languages, and this can sometimes make it difficult to determine whether a given reconstruction was a noun or a verb. [Ross](../references.md#source-Ross1998a) ([1998a](../references.md#source-Ross1998a)) gives a detailed study of the syntax of POc adjectival categories and of subsequent developments, and a second study ([Ross 1998b](../references.md#source-Ross1998b)) focuses on the fate of adjectival verbs and nouns in certain Western Oceanic languages.
+Property words in European languages are typically adjectives. It is fairly certain, however, that POc did not have a separate adjective word class. Instead, it had a small subclass of nouns and a large subclass of verbs that were used to express properties (see vol. 1, pp.34–35). For convenience, I have named these adjectival nouns and adjectival verbs. The test of whether a noun or verb is adjectival is that it can occur without any additional morphology as the modifier of a noun. However, these subclasses have undergone various redistributions in different Oceanic languages, and this can sometimes make it difficult to determine whether a given reconstruction was a noun or a verb. [Ross](../sources/Ross1998a) ([1998a](../sources/Ross1998a)) gives a detailed study of the syntax of POc adjectival categories and of subsequent developments, and a second study ([Ross 1998b](../sources/Ross1998b)) focuses on the fate of adjectival verbs and nouns in certain Western Oceanic languages.
 
 
 <a id="p-194"></a>
 
-Languages in which there is no adjective class or in which there is a small class of adjectives or adjective-like words are fairly common among the world’s languages, as [Dixon](../references.md#source-Dixon1977) ([1977](../references.md#source-Dixon1977), [1982](../references.md#source-Dixon1982)) has shown, and, if we count the small class of adjectival nouns as more adjective-like than adjectival verbs, then Dixon’s generalisation extends to POc. Dixon divides properties into seven semantic categories: dimension, age, value, colour, physical property, human/animal propensity, and speed. In Oceanic languages, speed belongs with strength and toughness, a subcategory of physical property, and so I treat it thus (§5.3). Of Dixon’s categories, I will here not discuss value (‘good’, ‘bad’), human/ animal propensity (e.g. ‘kind’, ‘clever’, ‘happy’, ‘jealous’, ‘tame’) or speed (‘quick’, ‘slow’), as these are applied either entirely or generally to animate rather than to inanimate entities. The category of physical properties is a large one, and some of its subcategories will also be ignored here, for similar reasons.[^2] This leaves the following semantic categories which include properties of inanimate objects:
+Languages in which there is no adjective class or in which there is a small class of adjectives or adjective-like words are fairly common among the world’s languages, as [Dixon](../sources/Dixon1977) ([1977](../sources/Dixon1977), [1982](../sources/Dixon1982)) has shown, and, if we count the small class of adjectival nouns as more adjective-like than adjectival verbs, then Dixon’s generalisation extends to POc. Dixon divides properties into seven semantic categories: dimension, age, value, colour, physical property, human/animal propensity, and speed. In Oceanic languages, speed belongs with strength and toughness, a subcategory of physical property, and so I treat it thus ([§5.3](../contributions/2-7#s-5-3)). Of Dixon’s categories, I will here not discuss value (‘good’, ‘bad’), human/ animal propensity (e.g. ‘kind’, ‘clever’, ‘happy’, ‘jealous’, ‘tame’) or speed (‘quick’, ‘slow’), as these are applied either entirely or generally to animate rather than to inanimate entities. The category of physical properties is a large one, and some of its subcategories will also be ignored here, for similar reasons.[^2] This leaves the following semantic categories which include properties of inanimate objects:
 
    1.    dimension and distance: e.g. ‘big’, ‘small’, ‘long’, ‘short’, ‘wide’, ‘narrow’, ‘near’, ‘far’
    2.    age: e.g. ‘new’, ‘old’
@@ -28,7 +28,7 @@ Languages in which there is no adjective class or in which there is a small clas
          e. temperature: e.g. ‘hot’, ‘cold’
          f. wetness and dryness: e.g. ‘wet’, ‘dry’
 
-This categorisation is somewhat ad hoc, but, other than colours, its terms situate the object they describe relative to ‘a contextually determined standard of evaluation’ ([Croft 1990](../references.md#source-Croft1990):260). These standards of evaluation are the basic human standards of dimension, age and so on. I add distance to Dixon’s dimension category, as terms for ‘near’ and ‘far’ overlap with dimension terms in Oceanic languages.
+This categorisation is somewhat ad hoc, but, other than colours, its terms situate the object they describe relative to ‘a contextually determined standard of evaluation’ ([Croft 1990](../sources/Croft1990):260). These standards of evaluation are the basic human standards of dimension, age and so on. I add distance to Dixon’s dimension category, as terms for ‘near’ and ‘far’ overlap with dimension terms in Oceanic languages.
 
 Dixon assigns languages to one of three broad types with regard to the grammatical behaviour of their property terms. There are:
 
@@ -43,7 +43,7 @@ I have placed ‘adjectives’ in inverted commas in Type C because Dixon define
 
 One of Dixon’s central findings is that in a Type C language, the members of the closed class usually belong to the semantic domains of dimension, age, colour and value. However, the converse is usually not true: not all property terms in these domains are adjectives. Instead, there are semantic oppositions where one pole is denoted by an adjective, the other by a verbal form. Often, the verbal form denotes the outcome of an event (e.g. cooked) whereas the adjective denotes the state prior to such an event (e.g. raw).
 
-Basically, POc property terms conformed to these generalisations ([Ross 1998a](../references.md#source-Ross1998a)). The members of the adjectival noun class did indeed belong to the semantic domains of dimension, age, colour and value. However, they offer a small variation on Dixon’s typology in that there were no underived adjectival nouns denoting colours. Instead, colour adjectival nouns were derived from other nouns (§4), a complication which apparently does not occur in any of the languages in Dixon’s sample.
+Basically, POc property terms conformed to these generalisations ([Ross 1998a](../sources/Ross1998a)). The members of the adjectival noun class did indeed belong to the semantic domains of dimension, age, colour and value. However, they offer a small variation on Dixon’s typology in that there were no underived adjectival nouns denoting colours. Instead, colour adjectival nouns were derived from other nouns ([§4](../contributions/2-7#s-4)), a complication which apparently does not occur in any of the languages in Dixon’s sample.
 
 I have found twenty Oceanic languages which have a small property-term class for which a probably exhaustive list of underived members is available. The meanings represented in these small classes are listed below, together with the number of languages in whose small class each meaning is represented:
 
@@ -105,9 +105,9 @@ The practical consequence of these observations is that, among underived propert
 
 With other underived items, we encounter the problem noted in volume 1, p.35: it is often impossible to assign a POc reconstruction to the appropriate word class. But the situation is not all gloom in this regard. One indicator of the class of a property term is derivational morphology.
 
-Two morphemes occurred with some frequency in the derivation of these words, and others more rarely. The suffix _&ast;-ka_ derived adjectival nouns, whilst the prefix _&ast;ma-_ occurred in adjectival verbs. There is an important difference in the statuses of these affixes in POc, however. POc _&ast;-ka_ was apparently a productive suffix ([Ross 2000](../references.md#source-Ross2000); see below, for example _&ast;[tubu]tubu[-ka]_ ‘thick’ (p.208); _&ast;rapu-ka_ ‘old’ (p.211); _&ast;keja-ka_ ‘green’ (p.217)). PMP _&ast;ma-_ was a prefix that derived stative verbs, often from abstract nouns, and occurred as a fossil in a number of POc adjectival verb forms ([Evans & Ross 2001](../references.md#source-EvansandRoss2001)),[^3] for example, POc _&ast;mataq_ ‘raw’ (vol. 1, p.155), _&ast;maosak_ ‘ready to be eaten’ (vol. 1, p.157), _&ast;maqasin_ ‘be salty’ (vol. 1, p.159, this volume Ch. 3, §7.8, and several below). In a good many cases, forms with and without _&ast;ma-_ are reconstructable in POc, with no obvious difference in meaning (e.g. _&ast;[ma]lago_ ‘long, tall’ (p.204); _&ast;[ma]lawa_ ‘long, tall, far away’ (p.204); _&ast;[ma]tuqa_ ‘ripe, mature, adult, old’ (p.211)).[^4]
+Two morphemes occurred with some frequency in the derivation of these words, and others more rarely. The suffix _&ast;-ka_ derived adjectival nouns, whilst the prefix _&ast;ma-_ occurred in adjectival verbs. There is an important difference in the statuses of these affixes in POc, however. POc _&ast;-ka_ was apparently a productive suffix ([Ross 2000](../sources/Ross2000); see below, for example _&ast;[tubu]tubu[-ka]_ ‘thick’ (p.208); _&ast;rapu-ka_ ‘old’ (p.211); _&ast;keja-ka_ ‘green’ (p.217)). PMP _&ast;ma-_ was a prefix that derived stative verbs, often from abstract nouns, and occurred as a fossil in a number of POc adjectival verb forms ([Evans & Ross 2001](../sources/EvansandRoss2001)),[^3] for example, POc _&ast;mataq_ ‘raw’ (vol. 1, p.155), _&ast;maosak_ ‘ready to be eaten’ (vol. 1, p.157), _&ast;maqasin_ ‘be salty’ (vol. 1, p.159, this volume [Ch. 3, §7.8](../contributions/2-3#s-7-8), and several below). In a good many cases, forms with and without _&ast;ma-_ are reconstructable in POc, with no obvious difference in meaning (e.g. _&ast;[ma]lago_ ‘long, tall’ (p.204); _&ast;[ma]lawa_ ‘long, tall, far away’ (p.204); _&ast;[ma]tuqa_ ‘ripe, mature, adult, old’ (p.211)).[^4]
 
-More rarely occurring derivational morphemes are POc _&ast;ka-_, a fossilised alternant of _&ast;ma-_,[^5] ([Huang 2000](../references.md#source-Huang2000), [Zeitoun & Huang 2000](../references.md#source-ZeitounandHuang2000)); _&ast;pa-_ and _&ast;paka-_, the productive POc causative prefixes (vol. 1, pp.26–27), which were also used to form adverbs; and POc _&ast;ta-_, which was productive and derived agentless statives from dynamic transitive verbs.
+More rarely occurring derivational morphemes are POc _&ast;ka-_, a fossilised alternant of _&ast;ma-_,[^5] ([Huang 2000](../sources/Huang2000), [Zeitoun & Huang 2000](../sources/ZeitounandHuang2000)); _&ast;pa-_ and _&ast;paka-_, the productive POc causative prefixes (vol. 1, pp.26–27), which were also used to form adverbs; and POc _&ast;ta-_, which was productive and derived agentless statives from dynamic transitive verbs.
 
 
 <a id="p-197"></a>
@@ -122,9 +122,9 @@ The remainder of this chapter is concerned with reconstructed forms for POc prop
 
 7.2.1 ‘big’/‘small’
 
-It was noted above that lexical replacement of terms for ‘big’ and ‘small’ is common, whilst ‘new’ has tended to remain constant since POc times. A moment’s reflection shows that this is also true in English, apparently because people tend to exaggerate size and to play word games with the terms for it. As well as _big_ we find _large_, _great_, _huge_, _gigantic_, _enormous_, _immense_, _colossal_, _mammoth_, _massive_, _prodigious_ and more recently _ginormous_ and _humungous_. However, what seem to have been the basic POc terms are reconstructable. They are _&ast;lapuat_ ‘big, large, important’, _&ast;qitik_, _&ast;qitek_ ‘small’ and _&ast;riki(t,q)_ ‘small’, and the circumstantial evidence presented above suggests that they were adjectival nouns. This inference is moderately supported in the case of _&ast;lapuat_ by the presence of two reflexes of the reduplicated intensified form _&ast;lap(u)-lapuat_ (Tigak _lap-lavu_, Marshallese _lɯap-lɯap_) and one of a reduplicated plural form _&ast;la-lapuat_ (Marshallese _lɯ-lɯap_). Both reduplication strategies characterised adjectival nouns in POc ([Ross 1998a](../references.md#source-Ross1998a)).
+It was noted above that lexical replacement of terms for ‘big’ and ‘small’ is common, whilst ‘new’ has tended to remain constant since POc times. A moment’s reflection shows that this is also true in English, apparently because people tend to exaggerate size and to play word games with the terms for it. As well as _big_ we find _large_, _great_, _huge_, _gigantic_, _enormous_, _immense_, _colossal_, _mammoth_, _massive_, _prodigious_ and more recently _ginormous_ and _humungous_. However, what seem to have been the basic POc terms are reconstructable. They are _&ast;lapuat_ ‘big, large, important’, _&ast;qitik_, _&ast;qitek_ ‘small’ and _&ast;riki(t,q)_ ‘small’, and the circumstantial evidence presented above suggests that they were adjectival nouns. This inference is moderately supported in the case of _&ast;lapuat_ by the presence of two reflexes of the reduplicated intensified form _&ast;lap(u)-lapuat_ (Tigak _lap-lavu_, Marshallese _lɯap-lɯap_) and one of a reduplicated plural form _&ast;la-lapuat_ (Marshallese _lɯ-lɯap_). Both reduplication strategies characterised adjectival nouns in POc ([Ross 1998a](../sources/Ross1998a)).
 
-Elsewhere I have reconstructed the term for ‘big’ as &ast;labʷat ([Ross 1998a](../references.md#source-Ross1998a):109), as the medial consonant in many of the forms below seems to reflect either _&ast;b_ or _&ast;bʷ_. The Loniu and SV forms offer apparent disambiguation in favour of _&ast;bʷ_. Whilst _&ast;labʷat_ must have occurred in the history of many of the forms below, it is not reflected by the Roviana, Hoava, SES, Mota or Raga forms, where the medial consonant appears to reflect _&ast;p_ The form _&ast;lapuat_ accounts for apparent reflexes of both _&ast;-bʷ-_ and _&ast;-p-_. The forms which appear to reflect _&ast;-p-_ do just that. Moreover, Tigak _lavu_, West Kara _labu_, Raga _lavoa_ and Bauan levu directly reflect medial _&ast;-pu-_.[^6] The forms which appear to reflect _&ast;-bʷ-_ also do just that, but this _&ast;-bʷ-_ reflects a later interstage: POc medial _&ast;-pua-_ became first _&ast;-pʷa-_, then _&ast;-bʷa-_.
+Elsewhere I have reconstructed the term for ‘big’ as &ast;labʷat ([Ross 1998a](../sources/Ross1998a):109), as the medial consonant in many of the forms below seems to reflect either _&ast;b_ or _&ast;bʷ_. The Loniu and SV forms offer apparent disambiguation in favour of _&ast;bʷ_. Whilst _&ast;labʷat_ must have occurred in the history of many of the forms below, it is not reflected by the Roviana, Hoava, SES, Mota or Raga forms, where the medial consonant appears to reflect _&ast;p_ The form _&ast;lapuat_ accounts for apparent reflexes of both _&ast;-bʷ-_ and _&ast;-p-_. The forms which appear to reflect _&ast;-p-_ do just that. Moreover, Tigak _lavu_, West Kara _labu_, Raga _lavoa_ and Bauan levu directly reflect medial _&ast;-pu-_.[^6] The forms which appear to reflect _&ast;-bʷ-_ also do just that, but this _&ast;-bʷ-_ reflects a later interstage: POc medial _&ast;-pua-_ became first _&ast;-pʷa-_, then _&ast;-bʷa-_.
 
 The sound changes in the paragraph above remain tentative, as there are few cases to compare this cognate set with. However, the least obvious step proposed above is that _&ast;-bʷa-_ developed from _&ast;-pʷa-_, and there is reasonably good evidence for the step from _&ast;pʷ_ to _&ast;bʷ_ (vol. 1, p.16).
 
@@ -140,167 +140,167 @@ The Mapos Buang and Mumeng Patep forms may be non-cognate, as their final -k ref
 '<span>big, important</span>' (<span>Lichtenberk 1986:350: *la(m)pat ‘(be) big, great’</span>)</td>
 </tr>
 <tr>
-<td>Adm</td><td>Seimat</td><td><i>la-lap</i></td>
+<td>Adm</td><td><a href="../languages/seimat">Seimat</a></td><td><i>la-lap</i></td>
 <td>
 '<span>big, important</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Loniu</td><td><i>lapʷa(na-n)</i></td>
+<td>Adm</td><td><a href="../languages/loniu">Loniu</a></td><td><i>lapʷa(na-n)</i></td>
 <td>
 '<span>big, important</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Koro</td><td><i>laba-n</i></td>
+<td>Adm</td><td><a href="../languages/koro">Koro</a></td><td><i>laba-n</i></td>
 <td>
 '<span>chieftain</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Mussau</td><td><i>(kula)laba</i></td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>(kula)laba</i></td>
 <td>
 '<span>big, important</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Manam</td><td><i>laba</i></td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>laba</i></td>
 <td>
 '<span>big, wide</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Manam</td><td><i>labata-</i></td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>labata-</i></td>
 <td>
 '<span>width</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Terebu</td><td><i>labi</i></td>
+<td>NNG</td><td><a href="../languages/terebu">Terebu</a></td><td><i>labi</i></td>
 <td>
 '<span>big, important</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kairiru</td><td><i>(wo)lab</i></td>
+<td>NNG</td><td><a href="../languages/kairiru">Kairiru</a></td><td><i>(wo)lab</i></td>
 <td>
 '<span>big, important</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Ulau-Suain</td><td><i>laba</i></td>
+<td>NNG</td><td><a href="../languages/ulausuain">Ulau-Suain</a></td><td><i>laba</i></td>
 <td>
 '<span>big, important</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Lavongai</td><td><i>lava</i></td>
+<td>MM</td><td><a href="../languages/lavongai">Lavongai</a></td><td><i>lava</i></td>
 <td>
 '<span>big, important</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tigak</td><td><i>lavu</i></td>
+<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td><i>lavu</i></td>
 <td>
 '<span>big, important</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tigak</td><td><i>lap-lavu</i></td>
+<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td><i>lap-lavu</i></td>
 <td>
 '<span>very big</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Kara (West)</td><td><i>labu</i></td>
+<td>MM</td><td><a href="../languages/karawest">Kara (West)</a></td><td><i>labu</i></td>
 <td>
 '<span>big, important</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nalik</td><td><i>laba</i></td>
+<td>MM</td><td><a href="../languages/nalik">Nalik</a></td><td><i>laba</i></td>
 <td>
 '<span>big, important</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Roviana</td><td><i>lavata</i></td>
+<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td><i>lavata</i></td>
 <td>
 '<span>great</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Hoava</td><td><i>lavati</i></td>
+<td>MM</td><td><a href="../languages/hoava">Hoava</a></td><td><i>lavati</i></td>
 <td>
 '<span>be big</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Talise</td><td><i>lava</i></td>
+<td>SES</td><td><a href="../languages/talise">Talise</a></td><td><i>lava</i></td>
 <td>
 '<span>big, important</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>(a)lafa</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>(a)lafa</i></td>
 <td>
 '<span>chieftain</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>(a)laha</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>(a)laha</i></td>
 <td>
 '<span>chieftain</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>raha</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>raha</i></td>
 <td>
 '<span>big, important</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>lava</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>lava</i></td>
 <td>
 '<span>big, important</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Raga</td><td><i>lavoa</i></td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>lavoa</i></td>
 <td>
 '<span>big, important</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Lewo</td><td><i>lapa</i></td>
+<td>NCV</td><td><a href="../languages/lewo">Lewo</a></td><td><i>lapa</i></td>
 <td>
 '<span>fat</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Nguna</td><td><i>lapa</i></td>
+<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td><i>lapa</i></td>
 <td>
 '<span>big, important</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Lenakel</td><td><i>ipʷər</i></td>
+<td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td><i>ipʷər</i></td>
 <td>
 '<span>big, important</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>N. Tanna</td><td><i>empʷət</i></td>
+<td>SV</td><td><a href="../languages/ntanna">N. Tanna</a></td><td><i>empʷət</i></td>
 <td>
 '<span>big, important</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Whitesands</td><td><i>epʷət</i></td>
+<td>SV</td><td><a href="../languages/whitesands">Whitesands</a></td><td><i>epʷət</i></td>
 <td>
 '<span>big, important</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Anejom</td><td><i>(a)lpʷas</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>(a)lpʷas</i></td>
 <td>
 '<span>big, important</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Marshallese</td><td><i>lᶭap</i></td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>lᶭap</i></td>
 <td>
 '<span>great, large</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Marshallese</td><td><i>lᶭ-lᶭap</i></td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>lᶭ-lᶭap</i></td>
 <td>
 '<span>great, large (PL)</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Marshallese</td><td><i>lᶭap-lᶭap</i></td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>lᶭap-lᶭap</i></td>
 <td>
 '<span>very great, very large</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Woleaian</td><td><i>rap</i></td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>rap</i></td>
 <td>
 '<span>big, important</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>levu</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>levu</i></td>
 <td>
 '<span>big, important</span>'</td>
 </tr>
@@ -328,7 +328,7 @@ cf. also:
 
 <a id="p-198"></a>
 
-Inherited POc terms for ‘small’ were _&ast;qitik_, with a variant _&ast;qitek_, and _&ast;riki(t,q)_/_&ast;ri-riki(t,q)_. There is reasonable evidence in the cognate set below that POc _&ast;ri-riki(t,q)_ was a plural form. Since reduplication of the kind reflected in POc _&ast;ri-riki(t,q)_ was one of the ways in which POc plural adjectival nouns were marked ([Ross 1998a](../references.md#source-Ross1998a)),we can infer that POc _&ast;riki(t,q)_ was singular. In a number of languages which reflect _&ast;ri-riki(t,q)_, however, there is a suppletive singular form (another indicator that this was an adjectival noun, not an adjectival verb; [Ross 1998a](../references.md#source-Ross1998a)).
+Inherited POc terms for ‘small’ were _&ast;qitik_, with a variant _&ast;qitek_, and _&ast;riki(t,q)_/_&ast;ri-riki(t,q)_. There is reasonable evidence in the cognate set below that POc _&ast;ri-riki(t,q)_ was a plural form. Since reduplication of the kind reflected in POc _&ast;ri-riki(t,q)_ was one of the ways in which POc plural adjectival nouns were marked ([Ross 1998a](../sources/Ross1998a)),we can infer that POc _&ast;riki(t,q)_ was singular. In a number of languages which reflect _&ast;ri-riki(t,q)_, however, there is a suppletive singular form (another indicator that this was an adjectival noun, not an adjectival verb; [Ross 1998a](../sources/Ross1998a)).
 
 
 <a id="p-199"></a>
@@ -347,7 +347,7 @@ In Proto Polynesian, _&ast;riki_ (reflecting POc _&ast;riki(t,q)_) had become pl
 
 The reconstruction of PPn _&ast;riki_ is complicated by the fact that Tongan has two forms: _iki_, reflecting _&ast;riki_, and _liki_, which occurs only in compounds. The latter may be a borrowing. On the other hand, it may reflect the separately reconstructable form POc _&ast;liki_ (see below). If it does, then we are left with the possibility that some of the Polynesian forms here attributed to POc _&ast;riki(t,q)_ instead reflect POc _&ast;liki_, as POc _&ast;r_ and _&ast;l_ have merged in all Polynesian languages other than Tongan and Niuean.
 
-Also apparently reconstructable are _&ast;drik(i)_, _&ast;liki_, _&ast;siki_ and _&ast;kiki_. Despite their similarity, there is no point in trying to derive these from each other. Rather, the human affection for small creatures, and prototypically for babies, has resulted in the same kind of word play among Oceanic speakers as we hear in English _tiny_, _teeny_, _teeny-weeny_ and _wee_. If we ignore the criteria for reconstructing POc items and look for further candidates for word-play, we find for example _siʔi_ ‘small, younger’ in Tongan, _sisi_ in Futuna-Aniwa (Polynesian), and a long list in Puluwatese: _kitikit_, _iyekkit_, _kikkit_, _lekit_, _rik_, _rirrik_, _mettik_, _rarikrik_. It may well be, for example, that the items listed under _&ast;kiki_ are not due to shared inheritance but to independent parallel word play. It also seems, despite the doubts that have been expressed about this kind of sound symbolism (Hinton, Nichols & Ohala 1994:4), that Oceanic speakers have a preference for the high front vowel in terms for ‘little’, a phenomenon which is common in other areas of the world too ([Ultan 1978](../references.md#source-Ultan1978)).
+Also apparently reconstructable are _&ast;drik(i)_, _&ast;liki_, _&ast;siki_ and _&ast;kiki_. Despite their similarity, there is no point in trying to derive these from each other. Rather, the human affection for small creatures, and prototypically for babies, has resulted in the same kind of word play among Oceanic speakers as we hear in English _tiny_, _teeny_, _teeny-weeny_ and _wee_. If we ignore the criteria for reconstructing POc items and look for further candidates for word-play, we find for example _siʔi_ ‘small, younger’ in Tongan, _sisi_ in Futuna-Aniwa (Polynesian), and a long list in Puluwatese: _kitikit_, _iyekkit_, _kikkit_, _lekit_, _rik_, _rirrik_, _mettik_, _rarikrik_. It may well be, for example, that the items listed under _&ast;kiki_ are not due to shared inheritance but to independent parallel word play. It also seems, despite the doubts that have been expressed about this kind of sound symbolism (Hinton, Nichols & Ohala 1994:4), that Oceanic speakers have a preference for the high front vowel in terms for ‘little’, a phenomenon which is common in other areas of the world too ([Ultan 1978](../sources/Ultan1978)).
 
 <table id="2-7-2-None-199-POc-qitik-a">
 <tr>
@@ -367,87 +367,87 @@ Also apparently reconstructable are _&ast;drik(i)_, _&ast;liki_, _&ast;siki_ and
 '<span>small</span>'</td>
 </tr>
 <tr>
-<td>Yap</td><td>Yapese</td><td><i>ʔacīg</i></td>
+<td>Yap</td><td><a href="../languages/yapese">Yapese</a></td><td><i>ʔacīg</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>NNG</td><td>Gitua</td><td><i>keteka</i></td>
+<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td><i>keteka</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>NNG</td><td>Gedaged</td><td><i>kitik</i></td>
+<td>NNG</td><td><a href="../languages/gedaged">Gedaged</a></td><td><i>kitik</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>NNG</td><td>Bukawa</td><td><i>atiʔ</i></td>
+<td>NNG</td><td><a href="../languages/bukawa">Bukawa</a></td><td><i>atiʔ</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>NNG</td><td>Zenag</td><td><i>ktɔk</i></td>
+<td>NNG</td><td><a href="../languages/zenag">Zenag</a></td><td><i>ktɔk</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>MM</td><td>Roviana</td><td><i>ɣiteke</i></td>
+<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td><i>ɣiteke</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>MM</td><td>Zabana</td><td><i>te</i></td>
+<td>MM</td><td><a href="../languages/zabana">Zabana</a></td><td><i>te</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>SES</td><td>Kwara’ae</td><td><i>tiʔ-tiʔ</i></td>
+<td>SES</td><td><a href="../languages/kwaraae">Kwara’ae</a></td><td><i>tiʔ-tiʔ</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Mic</td><td>Carolinian</td><td><i>xit</i></td>
+<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td><i>xit</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Rapanui</td><td><i>ʔiti-ʔiti</i></td>
+<td>Pn</td><td><a href="../languages/rapanui">Rapanui</a></td><td><i>ʔiti-ʔiti</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>iti-iti</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>iti-iti</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>ʔiti-ʔiti</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>ʔiti-ʔiti</i></td>
 <td>
 '<span>be small, not much, nor many</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Hawaiian</td><td><i>iki</i></td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>iki</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Tahitian</td><td><i>iti</i></td>
+<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td><i>iti</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Tuamotuan</td><td><i>iti</i></td>
+<td>Pn</td><td><a href="../languages/tuamotuan">Tuamotuan</a></td><td><i>iti</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Rarotongan</td><td><i>iti</i></td>
+<td>Pn</td><td><a href="../languages/rarotongan">Rarotongan</a></td><td><i>iti</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>iti</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>iti</i></td>
 <td>
 </td>
 </tr>
@@ -465,7 +465,7 @@ Also apparently reconstructable are _&ast;drik(i)_, _&ast;liki_, _&ast;siki_ and
 <i>&ast;diki[t,q]</i>
 </td>
 <td>
-'<span>little, few, small in amount</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>little, few, small in amount</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -485,107 +485,107 @@ Also apparently reconstructable are _&ast;drik(i)_, _&ast;liki_, _&ast;siki_ and
 '<span>small (PL)</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Bali</td><td><i>(ma)ri-(ma)riki</i></td>
+<td>MM</td><td><a href="../languages/bali">Bali</a></td><td><i>(ma)ri-(ma)riki</i></td>
 <td>
 '<span>small (PL)</span>' (<span>cf. <em>kakauku</em> SG</span>)</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>-rig</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>-rig</i></td>
 <td>
 '<span>small</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Tamambo</td><td><i>(wa)ri-riɣi</i></td>
+<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td><i>(wa)ri-riɣi</i></td>
 <td>
 '<span>small (PL)</span>' (<span>cf. <em>vorivori</em> SG</span>)</td>
 </tr>
 <tr>
-<td>NCV</td><td>Raga</td><td><i>-rigi</i></td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>-rigi</i></td>
 <td>
 '<span>small</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Rotuman</td><td><i>ri-riʔi</i></td>
+<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td><i>ri-riʔi</i></td>
 <td>
 '<span>small, young (PL)</span>' (<span>cf. <em>meʔa-meʔa</em> SG</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>iki</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>iki</i></td>
 <td>
 '<span>small</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>i-iki</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>i-iki</i></td>
 <td>
 '<span>small (non-singular)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>iki-iki</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>iki-iki</i></td>
 <td>
 '<span>small</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tokelauan</td><td><i>liki</i></td>
+<td>Pn</td><td><a href="../languages/tokelauan">Tokelauan</a></td><td><i>liki</i></td>
 <td>
 '<span>small-sized</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tuvalu</td><td><i>liki</i></td>
+<td>Pn</td><td><a href="../languages/tuvalu">Tuvalu</a></td><td><i>liki</i></td>
 <td>
 '<span>small (of person or chicken)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>giki</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>giki</i></td>
 <td>
 '<span>small</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>riki</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>riki</i></td>
 <td>
 '<span>small</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Sikaiana</td><td><i>liki-liki</i></td>
+<td>Pn</td><td><a href="../languages/sikaiana">Sikaiana</a></td><td><i>liki-liki</i></td>
 <td>
 '<span>small</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Sikaiana</td><td><i>li-liki</i></td>
+<td>Pn</td><td><a href="../languages/sikaiana">Sikaiana</a></td><td><i>li-liki</i></td>
 <td>
 '<span>small (PL)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Hawaiian</td><td><i>liʔi</i></td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>liʔi</i></td>
 <td>
 '<span>small</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tahitian</td><td><i>riʔi</i></td>
+<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td><i>riʔi</i></td>
 <td>
 '<span>small (PL)</span>' (<span>cf. <em>iti</em> SG</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rarotongan</td><td><i>riki</i></td>
+<td>Pn</td><td><a href="../languages/rarotongan">Rarotongan</a></td><td><i>riki</i></td>
 <td>
 '<span>small</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>riki</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>riki</i></td>
 <td>
 '<span>small</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>ri-riki</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>ri-riki</i></td>
 <td>
 '<span>small (PL)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tuamotuan</td><td><i>riki</i></td>
+<td>Pn</td><td><a href="../languages/tuamotuan">Tuamotuan</a></td><td><i>riki</i></td>
 <td>
 '<span>small</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>West Futunan</td><td><i>rik-riki</i></td>
+<td>Pn</td><td><a href="../languages/westfutunan">West Futunan</a></td><td><i>rik-riki</i></td>
 <td>
 '<span>small (PL)</span>' (<span>cf. <em>sisi</em> SG</span>)</td>
 </tr>
@@ -603,42 +603,42 @@ Also apparently reconstructable are _&ast;drik(i)_, _&ast;liki_, _&ast;siki_ and
 '<span>small</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Amara</td><td><i>di-dik</i></td>
+<td>NNG</td><td><a href="../languages/amara">Amara</a></td><td><i>di-dik</i></td>
 <td>
 '<span>small</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kosraean</td><td><i>ṣɨk</i></td>
+<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td><i>ṣɨk</i></td>
 <td>
 '<span>small</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Carolinian</td><td><i>-ṣix</i></td>
+<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td><i>-ṣix</i></td>
 <td>
 '<span>small, little, weak (in compounds only)</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Marshallese</td><td><i>ṛik</i></td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>ṛik</i></td>
 <td>
 '<span>lowly, small</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Marshallese</td><td><i>ṛ-ṛik</i></td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>ṛ-ṛik</i></td>
 <td>
 '<span>lowly, small (PL)</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Marshallese</td><td><i>ṛik-ṛik</i></td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>ṛik-ṛik</i></td>
 <td>
 '<span>very lowly, very small</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Puluwatese</td><td><i>ṛik</i></td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>ṛik</i></td>
 <td>
 '<span>be small (usually as a qualifier)</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Puluwatese</td><td><i>ṛirrik</i></td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>ṛirrik</i></td>
 <td>
 '<span>small</span>'</td>
 </tr>
@@ -656,67 +656,67 @@ Also apparently reconstructable are _&ast;drik(i)_, _&ast;liki_, _&ast;siki_ and
 '<span>small</span>' (<span>perhaps only in compounds</span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td>Arove</td><td><i>(tu)lik-lik</i></td>
+<td>NNG</td><td><a href="../languages/arove">Arove</a></td><td><i>(tu)lik-lik</i></td>
 <td>
 '<span>small</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Lavongai</td><td><i>lik</i></td>
+<td>MM</td><td><a href="../languages/lavongai">Lavongai</a></td><td><i>lik</i></td>
 <td>
 '<span>small</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tigak</td><td><i>(lak)lik</i></td>
+<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td><i>(lak)lik</i></td>
 <td>
 '<span>small</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Lihir</td><td><i>(ia)lik</i></td>
+<td>MM</td><td><a href="../languages/lihir">Lihir</a></td><td><i>(ia)lik</i></td>
 <td>
 '<span>small</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Madak</td><td><i>(kaka)lik</i></td>
+<td>MM</td><td><a href="../languages/madak">Madak</a></td><td><i>(kaka)lik</i></td>
 <td>
 '<span>small</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tolai</td><td><i>(iki)lik</i></td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>(iki)lik</i></td>
 <td>
 '<span>small</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Minigir</td><td><i>(siki)liki</i></td>
+<td>MM</td><td><a href="../languages/minigir">Minigir</a></td><td><i>(siki)liki</i></td>
 <td>
 '<span>small</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Label</td><td><i>(si-sik)lik</i></td>
+<td>MM</td><td><a href="../languages/label">Label</a></td><td><i>(si-sik)lik</i></td>
 <td>
 '<span>small</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Label</td><td><i>(kak)lik</i></td>
+<td>MM</td><td><a href="../languages/label">Label</a></td><td><i>(kak)lik</i></td>
 <td>
 '<span>boy</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>-liki</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>-liki</i></td>
 <td>
 '<span>small (in compounds only)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>liʔi</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>liʔi</i></td>
 <td>
 '<span>scattered in small fragments</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Ifira-Mele</td><td><i>-riki</i></td>
+<td>Pn</td><td><a href="../languages/ifiramele">Ifira-Mele</a></td><td><i>-riki</i></td>
 <td>
 '<span>small</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Takuu</td><td><i>-riki</i></td>
+<td>Pn</td><td><a href="../languages/takuu">Takuu</a></td><td><i>-riki</i></td>
 <td>
  (<span>diminutive</span>)</td>
 </tr>
@@ -737,32 +737,32 @@ Also apparently reconstructable are _&ast;drik(i)_, _&ast;liki_, _&ast;siki_ and
 '<span>small</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Torau</td><td><i>kiki-(na)</i></td>
+<td>MM</td><td><a href="../languages/torau">Torau</a></td><td><i>kiki-(na)</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>kiki</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>kiki</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>SES</td><td>Talise</td><td><i>ki-kiki</i></td>
+<td>SES</td><td><a href="../languages/talise">Talise</a></td><td><i>ki-kiki</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>SES</td><td>Longgu</td><td><i>kiki</i></td>
+<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td><i>kiki</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>NCV</td><td>Axamb</td><td><i>kiki</i></td>
+<td>NCV</td><td><a href="../languages/axamb">Axamb</a></td><td><i>kiki</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>NCV</td><td>Port Sandwich</td><td><i>kekei</i></td>
+<td>NCV</td><td><a href="../languages/portsandwich">Port Sandwich</a></td><td><i>kekei</i></td>
 <td>
 </td>
 </tr>
@@ -775,27 +775,27 @@ Also apparently reconstructable are _&ast;drik(i)_, _&ast;liki_, _&ast;siki_ and
 '<span>small</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Adzera</td><td><i>(i)siʔ</i></td>
+<td>NNG</td><td><a href="../languages/adzera">Adzera</a></td><td><i>(i)siʔ</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>NNG</td><td>Manam</td><td><i>siʔi-siʔi</i></td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>siʔi-siʔi</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>MM</td><td>Minigir</td><td><i>siki(liki)</i></td>
+<td>MM</td><td><a href="../languages/minigir">Minigir</a></td><td><i>siki(liki)</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>MM</td><td>Label</td><td><i>si-sik(lik)</i></td>
+<td>MM</td><td><a href="../languages/label">Label</a></td><td><i>si-sik(lik)</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>MM</td><td>Babatana</td><td><i>(va)siki</i></td>
+<td>MM</td><td><a href="../languages/babatana">Babatana</a></td><td><i>(va)siki</i></td>
 <td>
 </td>
 </tr>
@@ -815,37 +815,37 @@ There is good evidence that POc had at least two lexicalised possessee-like attr
 '<span>her/his mother; big, biggest</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Bipi</td><td><i>tinan</i></td>
+<td>Adm</td><td><a href="../languages/bipi">Bipi</a></td><td><i>tinan</i></td>
 <td>
 '<span>big</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Nyindrou</td><td><i>tinan</i></td>
+<td>Adm</td><td><a href="../languages/nyindrou">Nyindrou</a></td><td><i>tinan</i></td>
 <td>
 '<span>large, big</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Tami</td><td><i>tina-tin</i></td>
+<td>NNG</td><td><a href="../languages/tami">Tami</a></td><td><i>tina-tin</i></td>
 <td>
 '<span>very big, monstrous</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Malai</td><td><i>tina</i></td>
+<td>NNG</td><td><a href="../languages/malai">Malai</a></td><td><i>tina</i></td>
 <td>
 '<span>big</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Takia</td><td><i>tinan</i></td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>tinan</i></td>
 <td>
 '<span>huge</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Label</td><td><i>tna</i></td>
+<td>MM</td><td><a href="../languages/label">Label</a></td><td><i>tna</i></td>
 <td>
 '<span>big</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Fortsenal</td><td><i>tina-na</i></td>
+<td>NCV</td><td><a href="../languages/fortsenal">Fortsenal</a></td><td><i>tina-na</i></td>
 <td>
 '<span>mother, huge, large</span>'</td>
 </tr>
@@ -858,27 +858,27 @@ There is good evidence that POc had at least two lexicalised possessee-like attr
 '<span>her/his child; small, smallest</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Drehet</td><td><i>neči</i></td>
+<td>Adm</td><td><a href="../languages/drehet">Drehet</a></td><td><i>neči</i></td>
 <td>
 '<span>child; small, little</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Dami</td><td><i>nālu</i></td>
+<td>NNG</td><td><a href="../languages/dami">Dami</a></td><td><i>nālu</i></td>
 <td>
 '<span>small, little</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Patpatar</td><td><i>nat</i></td>
+<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td><i>nat</i></td>
 <td>
 '<span>small</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tolai</td><td><i>nat</i></td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>nat</i></td>
 <td>
 '<span>small</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Lewo</td><td><i>nari-</i></td>
+<td>NCV</td><td><a href="../languages/lewo">Lewo</a></td><td><i>nari-</i></td>
 <td>
 '<span>child, smallest</span>'</td>
 </tr>
@@ -889,19 +889,19 @@ There is good evidence that POc had at least two lexicalised possessee-like attr
 
 <a id="p-202"></a>
 
-These attributes turn up in odd lexicalised expressions, for example, Motu (PT) _sina-vai_ ‘river’ (literally ‘mother of waters’ (Ch. 3, §6.1)); Gedaged _boi tinan_ ‘Morning Star’ (literally ‘mother of stars’ (Ch. 6, §5.2.1)).
+These attributes turn up in odd lexicalised expressions, for example, Motu (PT) _sina-vai_ ‘river’ (literally ‘mother of waters’ ([Ch. 3, §6.1](../contributions/2-3#s-6-1))); Gedaged _boi tinan_ ‘Morning Star’ (literally ‘mother of stars’ ([Ch. 6, §5.2.1](../contributions/2-6#s-5-2-1))).
 
 The reconstructable POc possessive construction was probably as follows:[^9]
 
 __igt__ POc: &ast;a  tina-ña     Rumaq ART mother-P:3S house ‘a/the big house’ (more literally: ‘a/the mother of house(s)’)
 
-This seems to have remained a live metaphor for a long time (and is perhaps still alive in some Oceanic languages). Evidence for this is that where the reflex of _&ast;tina-_ or _&ast;natu-_ has been replaced in a language, this construction often shares in the lexical replacement. Thus in Lewo ([Early 1994a](../references.md#source-Early1994a)), the term for ‘little’/‘child’ still reflects _&ast;natu-ña_, but the term for ‘very big’/‘mother’ has undergone lexical replacement:
+This seems to have remained a live metaphor for a long time (and is perhaps still alive in some Oceanic languages). Evidence for this is that where the reflex of _&ast;tina-_ or _&ast;natu-_ has been replaced in a language, this construction often shares in the lexical replacement. Thus in Lewo ([Early 1994a](../sources/Early1994a)), the term for ‘little’/‘child’ still reflects _&ast;natu-ña_, but the term for ‘very big’/‘mother’ has undergone lexical replacement:
 
 __igt__ Lewo (NCV): a. nari-n      sisi offspring-n child ‘a little kid’ (more literally ‘the offspring of children’) b. ane-n    laŋi mother-n wind ‘an immensely powerful hurricane’ (more literally ‘the mother of winds’)
 
 Similarly in Tinrin (New Caledonia) _hɯwɯ[n̡ã]_ is both ‘small’ and ‘child of, sprout of’.
 
-[Matisoff](../references.md#source-Matisoff1992) ([1992](../references.md#source-Matisoff1992)) has examined ‘mother of’ and ‘child of’ constructions which serve as augmentatives and diminutives in a range of Asian languages. Interestingly, whilst he reports a number of cases where ‘mother of’ and ‘child of’ are lexicalised in collocations where they mean something like ‘the most important’ and ‘a component/member of’, in none of these cases do ‘mother of’ and ‘child of’ seem to have been lexicalised as independent lexemes meaning ‘large’ and ‘small’.
+[Matisoff](../sources/Matisoff1992) ([1992](../sources/Matisoff1992)) has examined ‘mother of’ and ‘child of’ constructions which serve as augmentatives and diminutives in a range of Asian languages. Interestingly, whilst he reports a number of cases where ‘mother of’ and ‘child of’ are lexicalised in collocations where they mean something like ‘the most important’ and ‘a component/member of’, in none of these cases do ‘mother of’ and ‘child of’ seem to have been lexicalised as independent lexemes meaning ‘large’ and ‘small’.
 
 
 <a id="s-2-2"></a>
@@ -911,16 +911,16 @@ Similarly in Tinrin (New Caledonia) _hɯwɯ[n̡ã]_ is both ‘small’ and ‘c
 
 English (and other European languages) have several antonym pairs denoting dimensions. Tall refers to the longitudinal dimension of a vertically oriented object, long to the longitudinal dimension of a horizontally oriented object. Short is the antonym of both tall and long. Wide and narrow refer to the transverse dimension of a flat object, thick and thin to the transverse dimension of an object which is not flat. Far and near(by) refer to distances, not to objects.
 
-POc evidently made no horizontal/vertical distinction, so that _&ast;b(w)arapu_, _&ast;[ma]lago_ and _&ast;[ma]lawa_ were used for ‘tall’ and ‘long’, and the two latter items evidently also for ‘far’ (§2.2.1). There are fewer reflexes of _&ast;tuku_ and _&ast;botoŋ_ ‘short’, so it is harder to know just how they were used (§2.2.2).
+POc evidently made no horizontal/vertical distinction, so that _&ast;b(w)arapu_, _&ast;[ma]lago_ and _&ast;[ma]lawa_ were used for ‘tall’ and ‘long’, and the two latter items evidently also for ‘far’ ([§2.2.1](../contributions/2-7#s-2-2-1)). There are fewer reflexes of _&ast;tuku_ and _&ast;botoŋ_ ‘short’, so it is harder to know just how they were used ([§2.2.2](../contributions/2-7#s-2-2-2)).
 
 On the surface there appear to have been no POc etyma with the basic meanings ‘wide’ and ‘narrow’. However, it is just possible that _&ast;[ma]lawa_ simply denoted a large dimension, regardless of whether it was longitudinal (‘long’) or transverse (‘wide’). The evidence for this is indirect. POc _&ast;[ma]lawa_ ‘long, tall’ continues PMP _&ast;lawa_, glossed ‘wide’, but a number of non-Oceanic reflexes also mean long: Malagasy _lava_, Manggarai _lewe_, Ngadha _leva_, and Palue _lawa_ all mean ‘long’. Fordata _lawa_ is glossed ‘length’ (ACD). It therefore seems likely that PMP _&ast;lawa_ also meant ‘long’, and possible that POc _&ast;[ma]lawa_ meant both ‘wide’ and ‘long’.
 
 
 <a id="p-203"></a>
 
-In a number of daughter languages reflexes of POc _&ast;ta-pola(s)_ ‘spread out (as of a mat)’ (derivationally related to _&ast;polas-i-_ ‘spread (s.t.) out (VT)’; see p.208) are by extension used to mean ‘wide’ (§2.2.4). In some Western Oceanic languages a reflex of _&ast;baban_ ‘flat; board, plank, canoe strake; flat shelf of rock’ is used for ‘wide’, but this is by extension from ‘flat’. Fijian _raba_ ‘wide, broad’ reflects POc _&ast;raba(r)_, the basic meaning of which was also ‘flat, level’. Terms for ‘flat’ are covered in §5.1. No POc term for ‘narrow’ is reconstructable. Most modern languages use the terms for ‘big’ and ‘small’ with reference to the width of a path or a beach, and I infer that the same was true of POc.
+In a number of daughter languages reflexes of POc _&ast;ta-pola(s)_ ‘spread out (as of a mat)’ (derivationally related to _&ast;polas-i-_ ‘spread (s.t.) out (VT)’; see p.208) are by extension used to mean ‘wide’ ([§2.2.4](../contributions/2-7#s-2-2-4)). In some Western Oceanic languages a reflex of _&ast;baban_ ‘flat; board, plank, canoe strake; flat shelf of rock’ is used for ‘wide’, but this is by extension from ‘flat’. Fijian _raba_ ‘wide, broad’ reflects POc _&ast;raba(r)_, the basic meaning of which was also ‘flat, level’. Terms for ‘flat’ are covered in [§5.1](../contributions/2-7#s-5-1). No POc term for ‘narrow’ is reconstructable. Most modern languages use the terms for ‘big’ and ‘small’ with reference to the width of a path or a beach, and I infer that the same was true of POc.
 
-POc terms for ‘thick’ were POc _&ast;ma-tolu_, _&ast;kuba_ and _&ast;[tubu-]tubu(-ka)_, for ‘thin’ _&ast;manipis_ and _&ast;ma-tipi(s)_ (§2.2.5).
+POc terms for ‘thick’ were POc _&ast;ma-tolu_, _&ast;kuba_ and _&ast;[tubu-]tubu(-ka)_, for ‘thin’ _&ast;manipis_ and _&ast;ma-tipi(s)_ ([§2.2.5](../contributions/2-7#s-2-2-5)).
 
 7.2.2.1 ‘tall’, ‘long’
 
@@ -938,62 +938,62 @@ The other two terms, _&ast;[ma]lago_ and _&ast;[ma]lawa_, clearly are derived. T
 '<span>long, tall</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Kilivila</td><td><i>-vanau</i></td>
+<td>PT</td><td><a href="../languages/kilivila">Kilivila</a></td><td><i>-vanau</i></td>
 <td>
 '<span>long</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Kara (East)</td><td><i>vaiaf</i></td>
+<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td><i>vaiaf</i></td>
 <td>
 '<span>long</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nalik</td><td><i>baraf</i></td>
+<td>MM</td><td><a href="../languages/nalik">Nalik</a></td><td><i>baraf</i></td>
 <td>
 '<span>long</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Siar</td><td><i>ba-baraf</i></td>
+<td>MM</td><td><a href="../languages/siar">Siar</a></td><td><i>ba-baraf</i></td>
 <td>
 '<span>long</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nehan</td><td><i>barah</i></td>
+<td>MM</td><td><a href="../languages/nehan">Nehan</a></td><td><i>barah</i></td>
 <td>
 '<span>long</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Maringe</td><td><i>brahu</i></td>
+<td>MM</td><td><a href="../languages/maringe">Maringe</a></td><td><i>brahu</i></td>
 <td>
 '<span>long</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Bauro</td><td><i>borahu</i></td>
+<td>SES</td><td><a href="../languages/bauro">Bauro</a></td><td><i>borahu</i></td>
 <td>
 '<span>long</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Ambae</td><td><i>gʷaravu</i></td>
+<td>NCV</td><td><a href="../languages/ambae">Ambae</a></td><td><i>gʷaravu</i></td>
 <td>
 '<span>long</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Tamambo</td><td><i>baravu</i></td>
+<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td><i>baravu</i></td>
 <td>
 '<span>long</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Anejom</td><td><i>(o)pra</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>(o)pra</i></td>
 <td>
 '<span>long</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Cèmuhî</td><td><i>pílɛh́ɛ̃́-</i></td>
+<td>NCal</td><td><a href="../languages/cemuhi">Cèmuhî</a></td><td><i>pílɛh́ɛ̃́-</i></td>
 <td>
 '<span>tall, big, enormous; size</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>balavu</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>balavu</i></td>
 <td>
 '<span>long, tall</span>' (<span><em>l</em> for expected <em>*r</em></span>)</td>
 </tr>
@@ -1022,22 +1022,22 @@ The other two terms, _&ast;[ma]lago_ and _&ast;[ma]lawa_, clearly are derived. T
 '<span>long, tall</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Amara</td><td><i>melak</i></td>
+<td>NNG</td><td><a href="../languages/amara">Amara</a></td><td><i>melak</i></td>
 <td>
 '<span>far away</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Arove</td><td><i>malak</i></td>
+<td>NNG</td><td><a href="../languages/arove">Arove</a></td><td><i>malak</i></td>
 <td>
 '<span>long, far away</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kaulong</td><td><i>(no)malak</i></td>
+<td>NNG</td><td><a href="../languages/kaulong">Kaulong</a></td><td><i>(no)malak</i></td>
 <td>
 '<span>long</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Meramera</td><td><i>lago</i></td>
+<td>MM</td><td><a href="../languages/meramera">Meramera</a></td><td><i>lago</i></td>
 <td>
 '<span>long</span>'</td>
 </tr>
@@ -1052,7 +1052,7 @@ The other two terms, _&ast;[ma]lago_ and _&ast;[ma]lawa_, clearly are derived. T
 <i>&ast;lawa</i>
 </td>
 <td>
-'<span>wide</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>wide</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -1064,132 +1064,132 @@ The other two terms, _&ast;[ma]lago_ and _&ast;[ma]lawa_, clearly are derived. T
 '<span>(?) long, tall, far away; wide</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Lou</td><td><i>ɛlɛwɛ-n</i></td>
+<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td><i>ɛlɛwɛ-n</i></td>
 <td>
 '<span>long, tall</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Titan</td><td><i>aláwe-n</i></td>
+<td>Adm</td><td><a href="../languages/titan">Titan</a></td><td><i>aláwe-n</i></td>
 <td>
 '<span>long, tall</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Nyindrou</td><td><i>lawe</i></td>
+<td>Adm</td><td><a href="../languages/nyindrou">Nyindrou</a></td><td><i>lawe</i></td>
 <td>
 '<span>long, tall</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Gitua</td><td><i>malawa</i></td>
+<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td><i>malawa</i></td>
 <td>
 '<span>long; far away</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Malai</td><td><i>malau</i></td>
+<td>NNG</td><td><a href="../languages/malai">Malai</a></td><td><i>malau</i></td>
 <td>
 '<span>long; far away</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Mangap</td><td><i>molo</i></td>
+<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td><i>molo</i></td>
 <td>
 '<span>long, tall</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Sio</td><td><i>malawa</i></td>
+<td>NNG</td><td><a href="../languages/sio">Sio</a></td><td><i>malawa</i></td>
 <td>
 '<span>a long time</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Sio</td><td><i>malawa(e)</i></td>
+<td>NNG</td><td><a href="../languages/sio">Sio</a></td><td><i>malawa(e)</i></td>
 <td>
 '<span>a long way</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Bebeli</td><td><i>lo-loi</i></td>
+<td>NNG</td><td><a href="../languages/bebeli">Bebeli</a></td><td><i>lo-loi</i></td>
 <td>
 '<span>long</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Bing</td><td><i>malwe(i)</i></td>
+<td>NNG</td><td><a href="../languages/bing">Bing</a></td><td><i>malwe(i)</i></td>
 <td>
 '<span>long</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Takia</td><td><i>milae-n</i></td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>milae-n</i></td>
 <td>
 '<span>long</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kairiru</td><td><i>milawo-ŋ</i></td>
+<td>NNG</td><td><a href="../languages/kairiru">Kairiru</a></td><td><i>milawo-ŋ</i></td>
 <td>
 '<span>long</span>'</td>
 </tr>
 <tr>
-<td>SJ</td><td>Kayupulau</td><td><i>marawe</i></td>
+<td>SJ</td><td><a href="../languages/kayupulau">Kayupulau</a></td><td><i>marawe</i></td>
 <td>
 '<span>long</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Gumawana</td><td><i>manawe-</i></td>
+<td>PT</td><td><a href="../languages/gumawana">Gumawana</a></td><td><i>manawe-</i></td>
 <td>
 '<span>long</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Mekeo</td><td><i>maeva</i></td>
+<td>PT</td><td><a href="../languages/mekeo">Mekeo</a></td><td><i>maeva</i></td>
 <td>
 '<span>long</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nakanai</td><td><i>malau</i></td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>malau</i></td>
 <td>
 '<span>long</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nalik</td><td><i>laua-lau</i></td>
+<td>MM</td><td><a href="../languages/nalik">Nalik</a></td><td><i>laua-lau</i></td>
 <td>
 '<span>far away</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tolai</td><td><i>lo-lovi</i></td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>lo-lovi</i></td>
 <td>
 '<span>long</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Petats</td><td><i>ra-ro-n</i></td>
+<td>MM</td><td><a href="../languages/petats">Petats</a></td><td><i>ra-ro-n</i></td>
 <td>
 '<span>long</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Torau</td><td><i>marae-la</i></td>
+<td>MM</td><td><a href="../languages/torau">Torau</a></td><td><i>marae-la</i></td>
 <td>
 '<span>long</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Kwaio</td><td><i>la-lau</i></td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>la-lau</i></td>
 <td>
 '<span>far</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Ura</td><td><i>lau(pe)</i></td>
+<td>SV</td><td><a href="../languages/ura">Ura</a></td><td><i>lau(pe)</i></td>
 <td>
 '<span>long, tall</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Anejom</td><td><i>lau, laulau</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>lau, laulau</i></td>
 <td>
 '<span>long (of time)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>loa</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>loa</i></td>
 <td>
 '<span>long, tall</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>loa</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>loa</i></td>
 <td>
 '<span>be old, ancient; be a long time</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>loa</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>loa</i></td>
 <td>
 '<span>long, tall</span>'</td>
 </tr>
@@ -1214,32 +1214,32 @@ Two terms for ‘short’ are reconstructed. All the supporting data for _&ast;t
 '<span>short</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Mussau</td><td><i>tuku</i></td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>tuku</i></td>
 <td>
 '<span>short</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Mutu</td><td><i>tuku</i></td>
+<td>NNG</td><td><a href="../languages/mutu">Mutu</a></td><td><i>tuku</i></td>
 <td>
 '<span>short</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Bilibil</td><td><i>tu-tuk</i></td>
+<td>NNG</td><td><a href="../languages/bilibil">Bilibil</a></td><td><i>tu-tuk</i></td>
 <td>
 '<span>short</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Manam</td><td><i>-tuku(ra)</i></td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>-tuku(ra)</i></td>
 <td>
 '<span>short</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Label</td><td><i>tuk</i></td>
+<td>MM</td><td><a href="../languages/label">Label</a></td><td><i>tuk</i></td>
 <td>
 '<span>short</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Babatana</td><td><i>tuko</i></td>
+<td>MM</td><td><a href="../languages/babatana">Babatana</a></td><td><i>tuko</i></td>
 <td>
 '<span>short</span>'</td>
 </tr>
@@ -1257,47 +1257,47 @@ Two terms for ‘short’ are reconstructed. All the supporting data for _&ast;t
 '<span>short</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Bali</td><td><i>botoŋo</i></td>
+<td>MM</td><td><a href="../languages/bali">Bali</a></td><td><i>botoŋo</i></td>
 <td>
 '<span>short</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Meramera</td><td><i>boto</i></td>
+<td>MM</td><td><a href="../languages/meramera">Meramera</a></td><td><i>boto</i></td>
 <td>
 '<span>short</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tigak</td><td><i>poto</i></td>
+<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td><i>poto</i></td>
 <td>
 '<span>short</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>pʷa-pʷatu</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>pʷa-pʷatu</i></td>
 <td>
 '<span>short</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>boto</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>boto</i></td>
 <td>
 [postposed particle] '<span>restrictive, only, just</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Rotuman</td><td><i>pofo</i></td>
+<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td><i>pofo</i></td>
 <td>
 '<span>tiny; lump, small projection</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Ifira-Mele</td><td><i>pō-poto</i></td>
+<td>Pn</td><td><a href="../languages/ifiramele">Ifira-Mele</a></td><td><i>pō-poto</i></td>
 <td>
 '<span>short</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rapanui</td><td><i>poto-poto</i></td>
+<td>Pn</td><td><a href="../languages/rapanui">Rapanui</a></td><td><i>poto-poto</i></td>
 <td>
 '<span>short</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>poto</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>poto</i></td>
 <td>
 '<span>short</span>'</td>
 </tr>
@@ -1318,7 +1318,7 @@ A POc verbal root _&ast;sauq_ (V) ‘be far away’ is reconstructable.
 <i>&ast;Zauq</i>
 </td>
 <td>
-'<span>far away</span>' (<a href="../references.md#source-Dempwolff1938">Dempwolff1938</a>)
+'<span>far away</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
 </td>
 </tr>
 <tr>
@@ -1338,122 +1338,122 @@ A POc verbal root _&ast;sauq_ (V) ‘be far away’ is reconstructable.
 [ADV] '<span>far away</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Tawala</td><td><i>dau</i></td>
+<td>PT</td><td><a href="../languages/tawala">Tawala</a></td><td><i>dau</i></td>
 <td>
 [V] '<span>be far</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Tawala</td><td><i>dau-dau-na</i></td>
+<td>PT</td><td><a href="../languages/tawala">Tawala</a></td><td><i>dau-dau-na</i></td>
 <td>
 [ADJ] '<span>far, long</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>dau-dau</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>dau-dau</i></td>
 <td>
 [ADV] '<span>far away</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Bali</td><td><i>zauku</i></td>
+<td>MM</td><td><a href="../languages/bali">Bali</a></td><td><i>zauku</i></td>
 <td>
 '<span>far away</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Vitu</td><td><i>ðau</i></td>
+<td>MM</td><td><a href="../languages/vitu">Vitu</a></td><td><i>ðau</i></td>
 <td>
 '<span>far away</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Roviana</td><td><i>seu</i></td>
+<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td><i>seu</i></td>
 <td>
 '<span>far</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Hoava</td><td><i>seo</i></td>
+<td>MM</td><td><a href="../languages/hoava">Hoava</a></td><td><i>seo</i></td>
 <td>
 '<span>far</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>hau</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>hau</i></td>
 <td>
 '<span>far</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Bugotu</td><td><i>hau</i></td>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>hau</i></td>
 <td>
 '<span>far</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Talise</td><td><i>sau-na</i></td>
+<td>SES</td><td><a href="../languages/talise">Talise</a></td><td><i>sau-na</i></td>
 <td>
 '<span>far</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Birao</td><td><i>sau</i></td>
+<td>SES</td><td><a href="../languages/birao">Birao</a></td><td><i>sau</i></td>
 <td>
 '<span>far</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Longgu</td><td><i>tau</i></td>
+<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td><i>tau</i></td>
 <td>
 [V] '<span>be far</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Kwaio</td><td><i>tau</i></td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>tau</i></td>
 <td>
 '<span>far</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>tau</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>tau</i></td>
 <td>
 '<span>far off, distant</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Raga</td><td><i>hau(tu)</i></td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>hau(tu)</i></td>
 <td>
 [ADV] '<span>far</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Paamese</td><td><i>sau(tin)</i></td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>sau(tin)</i></td>
 <td>
 [ADV] '<span>far</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>N. Tanna</td><td><i>(i)sou</i></td>
+<td>SV</td><td><a href="../languages/ntanna">N. Tanna</a></td><td><i>(i)sou</i></td>
 <td>
 [ADV] '<span>far</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kiribatese</td><td><i>rā-roa</i></td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>rā-roa</i></td>
 <td>
 [ADV] '<span>far</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Ponapean</td><td><i>tō</i></td>
+<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td><i>tō</i></td>
 <td>
 [ADJ] '<span>distant, far off</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Mokilese</td><td><i>tō</i></td>
+<td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td><i>tō</i></td>
 <td>
 '<span>far</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Trukese</td><td><i>tōw</i></td>
+<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td><i>tōw</i></td>
 <td>
 '<span>far</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Carolinian</td><td><i>tāw</i></td>
+<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td><i>tāw</i></td>
 <td>
 '<span>far</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Woleaian</td><td><i>ttāw</i></td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>ttāw</i></td>
 <td>
 [ADV] '<span>far</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Rotuman</td><td><i>sou-sou</i></td>
+<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td><i>sou-sou</i></td>
 <td>
 [ADV] '<span>far</span>'</td>
 </tr>
@@ -1471,7 +1471,7 @@ A POc verbal root _&ast;sauq_ (V) ‘be far away’ is reconstructable.
 <i>&ast;ma-Zauq</i>
 </td>
 <td>
-'<span>far away</span>' (<a href="../references.md#source-Blust1981b">Blust1981b</a>)
+'<span>far away</span>' (<a href="../sources/Blust1981b">Blust1981b</a>)
 </td>
 </tr>
 <tr>
@@ -1483,7 +1483,7 @@ A POc verbal root _&ast;sauq_ (V) ‘be far away’ is reconstructable.
 [V] '<span>be far away</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Mussau</td><td><i>masau</i></td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>masau</i></td>
 <td>
 '<span>far away</span>'</td>
 </tr>
@@ -1496,32 +1496,32 @@ A POc verbal root _&ast;sauq_ (V) ‘be far away’ is reconstructable.
 [V] '<span>be far away</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Takia</td><td><i>asau</i></td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>asau</i></td>
 <td>
 [ADV, ADJ] '<span>far away</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Manam</td><td><i>kasau</i></td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>kasau</i></td>
 <td>
 [ADJ] '<span>far away</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Manam</td><td><i>kasau(ba)</i></td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>kasau(ba)</i></td>
 <td>
 [ADV] '<span>far away</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Babatana</td><td><i>köu</i></td>
+<td>MM</td><td><a href="../languages/babatana">Babatana</a></td><td><i>köu</i></td>
 <td>
 '<span>far</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Sisiqa</td><td><i>kəu</i></td>
+<td>MM</td><td><a href="../languages/sisiqa">Sisiqa</a></td><td><i>kəu</i></td>
 <td>
 '<span>far</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nduke</td><td><i>(ɣa)sau</i></td>
+<td>MM</td><td><a href="../languages/nduke">Nduke</a></td><td><i>(ɣa)sau</i></td>
 <td>
 '<span>far</span>'</td>
 </tr>
@@ -1595,37 +1595,37 @@ POc _&ast;raŋi_ appears to be descended from PMP _&ast;dani_. The replacement o
 '<span>be near</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Takia</td><td><i>giriŋe-n</i></td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>giriŋe-n</i></td>
 <td>
 '<span>close, near by</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Dami</td><td><i>garan</i></td>
+<td>NNG</td><td><a href="../languages/dami">Dami</a></td><td><i>garan</i></td>
 <td>
 '<span>to, near</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>garaŋi</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>garaŋi</i></td>
 <td>
 [ADV] '<span>near</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Kwaio</td><td><i>galani, galaŋi</i></td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>galani, galaŋi</i></td>
 <td>
 [ADV] '<span>near</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Kwaio</td><td><i>galani-a, galaŋi-a</i></td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>galani-a, galaŋi-a</i></td>
 <td>
 [V] '<span>be near</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>garaŋi</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>garaŋi</i></td>
 <td>
 '<span>near</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Fagani</td><td><i>karaŋi</i></td>
+<td>SES</td><td><a href="../languages/fagani">Fagani</a></td><td><i>karaŋi</i></td>
 <td>
 '<span>near</span>'</td>
 </tr>
@@ -1643,32 +1643,32 @@ POc _&ast;raŋi_ appears to be descended from PMP _&ast;dani_. The replacement o
 '<span>be near</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Mussau</td><td><i>kala-kalangi-na</i></td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>kala-kalangi-na</i></td>
 <td>
 [ADV] '<span>near</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Mangap</td><td><i>kolouŋa-na</i></td>
+<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td><i>kolouŋa-na</i></td>
 <td>
 [ADV] '<span>near</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Poeng</td><td><i>ko-koroŋo</i></td>
+<td>NNG</td><td><a href="../languages/poeng">Poeng</a></td><td><i>ko-koroŋo</i></td>
 <td>
 [ADV] '<span>near</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>ɣaraŋi</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>ɣaraŋi</i></td>
 <td>
 '<span>near</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Bugotu</td><td><i>ɣarani</i></td>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>ɣarani</i></td>
 <td>
 '<span>near</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Talise</td><td><i>ɣaraŋi</i></td>
+<td>SES</td><td><a href="../languages/talise">Talise</a></td><td><i>ɣaraŋi</i></td>
 <td>
 '<span>near</span>'</td>
 </tr>
@@ -1686,17 +1686,17 @@ POc _&ast;raŋi_ appears to be descended from PMP _&ast;dani_. The replacement o
 '<span>be near</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>West Guadalcanal</td><td><i>va-raŋi</i></td>
+<td>SES</td><td><a href="../languages/westguadalcanal">West Guadalcanal</a></td><td><i>va-raŋi</i></td>
 <td>
 '<span>near</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Bauro</td><td><i>haɣa-raŋi</i></td>
+<td>SES</td><td><a href="../languages/bauro">Bauro</a></td><td><i>haɣa-raŋi</i></td>
 <td>
 '<span>near</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Kahua</td><td><i>haɣa-raŋi</i></td>
+<td>SES</td><td><a href="../languages/kahua">Kahua</a></td><td><i>haɣa-raŋi</i></td>
 <td>
 '<span>near</span>'</td>
 </tr>
@@ -1716,37 +1716,37 @@ There was also a POc term &ast;tata ‘near’, perhaps an adverb:
 [ADV] '<span>near</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Lungga</td><td><i>tata</i></td>
+<td>MM</td><td><a href="../languages/lungga">Lungga</a></td><td><i>tata</i></td>
 <td>
 '<span>near</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nduke</td><td><i>tata</i></td>
+<td>MM</td><td><a href="../languages/nduke">Nduke</a></td><td><i>tata</i></td>
 <td>
 '<span>near</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Roviana</td><td><i>tata</i></td>
+<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td><i>tata</i></td>
 <td>
 [ADV] '<span>near</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Hoava</td><td><i>tata</i></td>
+<td>MM</td><td><a href="../languages/hoava">Hoava</a></td><td><i>tata</i></td>
 <td>
 '<span>near</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>tata</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>tata</i></td>
 <td>
 '<span>be near</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tahitian</td><td><i>fa-tata</i></td>
+<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td><i>fa-tata</i></td>
 <td>
 [ADV] '<span>near</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>tata</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>tata</i></td>
 <td>
 '<span>be near, close</span>'</td>
 </tr>
@@ -1763,7 +1763,7 @@ There was also a POc term &ast;tata ‘near’, perhaps an adverb:
 <i>&ast;belaj</i>
 </td>
 <td>
-'<span>spread out to dry</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>spread out to dry</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -1775,32 +1775,32 @@ There was also a POc term &ast;tata ‘near’, perhaps an adverb:
 '<span>spread out (as of a mat); wide</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Poeng</td><td><i>(sasa)pola</i></td>
+<td>NNG</td><td><a href="../languages/poeng">Poeng</a></td><td><i>(sasa)pola</i></td>
 <td>
 '<span>wide</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Bugotu</td><td><i>tavoða</i></td>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>tavoða</i></td>
 <td>
 '<span>wide</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>afola</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>afola</i></td>
 <td>
 '<span>wide</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>ahora</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>ahora</i></td>
 <td>
 '<span>wide</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Raga</td><td><i>tavola</i></td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>tavola</i></td>
 <td>
 '<span>flat, wide, smooth</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>tafola</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>tafola</i></td>
 <td>
 [VI] '<span>be spread out, scattered about</span>'</td>
 </tr>
@@ -1832,66 +1832,66 @@ Three forms can be reconstructed for ‘thick’. The third, _&ast;[tubu]tubu[-k
 <i>&ast;ma-tolu</i>
 </td>
 <td>
-'<span>thick</span>' (<a href="../references.md#source-Clark1996">Clark1996</a>)
+'<span>thick</span>' (<a href="../sources/Clark1996">Clark1996</a>)
 </td>
 </tr>
 <tr>
-<td>NNG</td><td>Manam</td><td><i>matoli</i></td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>matoli</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>NNG</td><td>Sio</td><td><i>mata-tola</i></td>
+<td>NNG</td><td><a href="../languages/sio">Sio</a></td><td><i>mata-tola</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>MM</td><td>Nakanai</td><td><i>bitolu</i></td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>bitolu</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>SES</td><td>West Guadalcanal</td><td><i>matolu</i></td>
+<td>SES</td><td><a href="../languages/westguadalcanal">West Guadalcanal</a></td><td><i>matolu</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>matol-tol</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>matol-tol</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>NCV</td><td>Paamese</td><td><i>mate-tel</i></td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>mate-tel</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>NCV</td><td>Nguna</td><td><i>matolu</i></td>
+<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td><i>matolu</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>SV</td><td>Anejom</td><td><i>(a)mesej</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>(a)mesej</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Mic</td><td>Marshallese</td><td><i>micel</i></td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>micel</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Mic</td><td>Ponapean</td><td><i>mosul</i></td>
+<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td><i>mosul</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Fij</td><td>Rotuman</td><td><i>mafolu</i></td>
+<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td><i>mafolu</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>matolu</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>matolu</i></td>
 <td>
 </td>
 </tr>
@@ -1917,12 +1917,12 @@ Three forms can be reconstructed for ‘thick’. The third, _&ast;[tubu]tubu[-k
 '<span>thick (in dimension)</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Nadroga</td><td><i>kuba</i></td>
+<td>Fij</td><td><a href="../languages/nadroga">Nadroga</a></td><td><i>kuba</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>SV</td><td>Kwamera</td><td><i>-kum-kum</i></td>
+<td>SV</td><td><a href="../languages/kwamera">Kwamera</a></td><td><i>-kum-kum</i></td>
 <td>
 </td>
 </tr>
@@ -1940,22 +1940,22 @@ Three forms can be reconstructed for ‘thick’. The third, _&ast;[tubu]tubu[-k
 '<span>thick (in dimension)</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tolai</td><td><i>tubu</i></td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>tubu</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>ūbu-ūbu-a</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>ūbu-ūbu-a</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>SES</td><td>Kwaio</td><td><i>ubu-ubu</i></td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>ubu-ubu</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>ub-ubu-ʔa</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>ub-ubu-ʔa</i></td>
 <td>
 </td>
 </tr>
@@ -1966,7 +1966,7 @@ Three forms can be reconstructed for ‘thick’. The third, _&ast;[tubu]tubu[-k
 
 <a id="p-209"></a>
 
-Two formally related terms are reconstructable for ‘thin’: _&ast;ma-tipi(s)_ and _&ast;manipis_. Although at first sight they look like forms derived with PMP _&ast;ma-_ and _&ast;maN-_ respectively, _&ast;manipis_ has cognates in Taiwan, reflecting PAn _&ast;maLipis_. The prefix _&ast;maN-_ in any case dates only from PMP, and so cannot be reflected in _&ast;manipis_. Instead, the two forms evidently reflect the same PAn monosyllabic root _&ast;-pis_ ‘thin, tenuous, fine’ ([Blust 1988](../references.md#source-Blust1988); see vol. 1, pp.27–28) and presumably differed in meaning by some subtlety which is not clear from their reflexes.
+Two formally related terms are reconstructable for ‘thin’: _&ast;ma-tipi(s)_ and _&ast;manipis_. Although at first sight they look like forms derived with PMP _&ast;ma-_ and _&ast;maN-_ respectively, _&ast;manipis_ has cognates in Taiwan, reflecting PAn _&ast;maLipis_. The prefix _&ast;maN-_ in any case dates only from PMP, and so cannot be reflected in _&ast;manipis_. Instead, the two forms evidently reflect the same PAn monosyllabic root _&ast;-pis_ ‘thin, tenuous, fine’ ([Blust 1988](../sources/Blust1988); see vol. 1, pp.27–28) and presumably differed in meaning by some subtlety which is not clear from their reflexes.
 
 <table id="2-7-2-2-209-POc-matipis-a">
 <tr>
@@ -1986,12 +1986,12 @@ Two formally related terms are reconstructable for ‘thin’: _&ast;ma-tipi(s)_
 '<span>thin</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Talise</td><td><i>matipi</i></td>
+<td>SES</td><td><a href="../languages/talise">Talise</a></td><td><i>matipi</i></td>
 <td>
 '<span>thin</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Birao</td><td><i>matipi</i></td>
+<td>SES</td><td><a href="../languages/birao">Birao</a></td><td><i>matipi</i></td>
 <td>
 '<span>thin</span>'</td>
 </tr>
@@ -2017,82 +2017,82 @@ Two formally related terms are reconstructable for ‘thin’: _&ast;ma-tipi(s)_
 '<span>thin</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Malai</td><td><i>manipi</i></td>
+<td>NNG</td><td><a href="../languages/malai">Malai</a></td><td><i>manipi</i></td>
 <td>
 '<span>thin</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Manam</td><td><i>manipi</i></td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>manipi</i></td>
 <td>
 '<span>thin</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Roviana</td><td><i>manivisi</i></td>
+<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td><i>manivisi</i></td>
 <td>
 '<span>thin</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Maringe</td><td><i>manivi</i></td>
+<td>MM</td><td><a href="../languages/maringe">Maringe</a></td><td><i>manivi</i></td>
 <td>
 '<span>thin</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Bugotu</td><td><i>manivi</i></td>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>manivi</i></td>
 <td>
 '<span>thin</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>manihi</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>manihi</i></td>
 <td>
 '<span>thin</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Ambae</td><td><i>manivi-nivi</i></td>
+<td>NCV</td><td><a href="../languages/ambae">Ambae</a></td><td><i>manivi-nivi</i></td>
 <td>
 '<span>be/become shallow, low tide, thin</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Raga</td><td><i>manev-nevi</i></td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>manev-nevi</i></td>
 <td>
 '<span>thin</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Paamese</td><td><i>mahini-hin</i></td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>mahini-hin</i></td>
 <td>
 '<span>thin</span>' (<span>metathesis</span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kiribatese</td><td><i>mmani</i></td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>mmani</i></td>
 <td>
 '<span>thin</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Ponapean</td><td><i>menipi-nip</i></td>
+<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td><i>menipi-nip</i></td>
 <td>
 '<span>thin</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Rotuman</td><td><i>mahini</i></td>
+<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td><i>mahini</i></td>
 <td>
 '<span>thin</span>' (<span>metathesis</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>manifi</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>manifi</i></td>
 <td>
 '<span>thin</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>manifi-nifi</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>manifi-nifi</i></td>
 <td>
 '<span>comparatively thin</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>manifi</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>manifi</i></td>
 <td>
 '<span>thin</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>mānifi-nifi</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>mānifi-nifi</i></td>
 <td>
 '<span>thin</span>'</td>
 </tr>
@@ -2106,7 +2106,7 @@ Two formally related terms are reconstructable for ‘thin’: _&ast;ma-tipi(s)_
 ## 3. Age
 
 
-Two POc terms for ‘new’ can be reconstructed: the adjectival noun _&ast;paqoRu_, which was also applied to animate beings in the sense of ‘young’ ([Pawley 1982b](../references.md#source-Pawley1982b)), and _&ast;ka(l,r)abwa_, which has fewer reflexes, but as these occur in both MM and NCV languages, it must be reconstructed as POc. Meso-Melanesian reflexes of the latter reflect _&ast;-l-_, North and Central Vanuatu reflexes reflect _&ast;-r-_.
+Two POc terms for ‘new’ can be reconstructed: the adjectival noun _&ast;paqoRu_, which was also applied to animate beings in the sense of ‘young’ ([Pawley 1982b](../sources/Pawley1982b)), and _&ast;ka(l,r)abwa_, which has fewer reflexes, but as these occur in both MM and NCV languages, it must be reconstructed as POc. Meso-Melanesian reflexes of the latter reflect _&ast;-l-_, North and Central Vanuatu reflexes reflect _&ast;-r-_.
 
 
 <a id="p-210"></a>
@@ -2118,7 +2118,7 @@ Two POc terms for ‘new’ can be reconstructed: the adjectival noun _&ast;paqo
 <i>&ast;baqeRuh</i>
 </td>
 <td>
-'<span>new</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>new</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -2138,177 +2138,177 @@ Two POc terms for ‘new’ can be reconstructed: the adjectival noun _&ast;paqo
 '<span>new, young</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Mussau</td><td><i>ou</i></td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>ou</i></td>
 <td>
 '<span>new</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Lou</td><td><i>pa-pa-peu-n</i></td>
+<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td><i>pa-pa-peu-n</i></td>
 <td>
 '<span>new</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Nyindrou</td><td><i>haʔun</i></td>
+<td>Adm</td><td><a href="../languages/nyindrou">Nyindrou</a></td><td><i>haʔun</i></td>
 <td>
 '<span>new</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Bariai</td><td><i>pau</i></td>
+<td>NNG</td><td><a href="../languages/bariai">Bariai</a></td><td><i>pau</i></td>
 <td>
 '<span>new</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Mutu</td><td><i>pagu</i></td>
+<td>NNG</td><td><a href="../languages/mutu">Mutu</a></td><td><i>pagu</i></td>
 <td>
 '<span>new</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Gitua</td><td><i>pagu</i></td>
+<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td><i>pagu</i></td>
 <td>
 '<span>new</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Lukep</td><td><i>pau-nu</i></td>
+<td>NNG</td><td><a href="../languages/lukep">Lukep</a></td><td><i>pau-nu</i></td>
 <td>
 '<span>new</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Mangap</td><td><i>po-po-ŋana</i></td>
+<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td><i>po-po-ŋana</i></td>
 <td>
 '<span>new</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kilenge</td><td><i>pau-a</i></td>
+<td>NNG</td><td><a href="../languages/kilenge">Kilenge</a></td><td><i>pau-a</i></td>
 <td>
 '<span>new</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Poeng</td><td><i>pau</i></td>
+<td>NNG</td><td><a href="../languages/poeng">Poeng</a></td><td><i>pau</i></td>
 <td>
 '<span>new</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Takia</td><td><i>fau-n</i></td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>fau-n</i></td>
 <td>
 '<span>new</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Numbami</td><td><i>wou</i></td>
+<td>NNG</td><td><a href="../languages/numbami">Numbami</a></td><td><i>wou</i></td>
 <td>
 '<span>new</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Yabem</td><td><i>wakuʔ</i></td>
+<td>NNG</td><td><a href="../languages/yabem">Yabem</a></td><td><i>wakuʔ</i></td>
 <td>
 '<span>new</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Manam</td><td><i>wau-wau</i></td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>wau-wau</i></td>
 <td>
 '<span>new</span>'</td>
 </tr>
 <tr>
-<td>SJ</td><td>Sobei</td><td><i>fe-fou</i></td>
+<td>SJ</td><td><a href="../languages/sobei">Sobei</a></td><td><i>fe-fou</i></td>
 <td>
 '<span>new</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Tawala</td><td><i>wou-na</i></td>
+<td>PT</td><td><a href="../languages/tawala">Tawala</a></td><td><i>wou-na</i></td>
 <td>
 '<span>new</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Misima</td><td><i>va-valu-na</i></td>
+<td>PT</td><td><a href="../languages/misima">Misima</a></td><td><i>va-valu-na</i></td>
 <td>
 '<span>new</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Kilivila</td><td><i>-vau</i></td>
+<td>PT</td><td><a href="../languages/kilivila">Kilivila</a></td><td><i>-vau</i></td>
 <td>
 '<span>new</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Bali</td><td><i>vaɣoru</i></td>
+<td>MM</td><td><a href="../languages/bali">Bali</a></td><td><i>vaɣoru</i></td>
 <td>
 '<span>new</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nalik</td><td><i>fakur</i></td>
+<td>MM</td><td><a href="../languages/nalik">Nalik</a></td><td><i>fakur</i></td>
 <td>
 '<span>new</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tabar</td><td><i>vouru</i></td>
+<td>MM</td><td><a href="../languages/tabar">Tabar</a></td><td><i>vouru</i></td>
 <td>
 '<span>new</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Teop</td><td><i>von</i></td>
+<td>MM</td><td><a href="../languages/teop">Teop</a></td><td><i>von</i></td>
 <td>
 '<span>new</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Mono</td><td><i>haolu-na</i></td>
+<td>MM</td><td><a href="../languages/mono">Mono</a></td><td><i>haolu-na</i></td>
 <td>
 '<span>new</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Zabana</td><td><i>fo-foru</i></td>
+<td>MM</td><td><a href="../languages/zabana">Zabana</a></td><td><i>fo-foru</i></td>
 <td>
 '<span>new</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>vaolu</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>vaolu</i></td>
 <td>
 '<span>new; young, fresh, beautiful, in one’s prime; renew</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>haoru</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>haoru</i></td>
 <td>
 '<span>new, recent, youthful, vigorous</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Paamese</td><td><i>hāu</i></td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>hāu</i></td>
 <td>
 '<span>new</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Nguna</td><td><i>vau</i></td>
+<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td><i>vau</i></td>
 <td>
 '<span>new</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Sye</td><td><i>(it)vau</i></td>
+<td>SV</td><td><a href="../languages/sye">Sye</a></td><td><i>(it)vau</i></td>
 <td>
 '<span>new, clean</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Ura</td><td><i>vau</i></td>
+<td>SV</td><td><a href="../languages/ura">Ura</a></td><td><i>vau</i></td>
 <td>
 '<span>new</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Lenakel</td><td><i>vi</i></td>
+<td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td><i>vi</i></td>
 <td>
 '<span>new</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Woleaian</td><td><i>fe</i></td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>fe</i></td>
 <td>
 '<span>new, cleaned</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>vou</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>vou</i></td>
 <td>
 '<span>new; newly, recently</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>foʔou</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>foʔou</i></td>
 <td>
 '<span>new, fresh; strange, unfamiliar</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>fou</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>fou</i></td>
 <td>
 '<span>new; fresh</span>'</td>
 </tr>
@@ -2329,42 +2329,42 @@ Two POc terms for ‘new’ can be reconstructed: the adjectival noun _&ast;paqo
 '<span>new</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Bulu</td><td><i>kalaba(ka)</i></td>
+<td>MM</td><td><a href="../languages/bulu">Bulu</a></td><td><i>kalaba(ka)</i></td>
 <td>
 '<span>new</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nakanai</td><td><i>halaba</i></td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>halaba</i></td>
 <td>
 '<span>new</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tolai</td><td><i>kalama</i></td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>kalama</i></td>
 <td>
 '<span>new</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Tamambo</td><td><i>haramba</i></td>
+<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td><i>haramba</i></td>
 <td>
 '<span>new</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>garagʷa</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>garagʷa</i></td>
 <td>
 '<span>new</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Raga</td><td><i>gara</i></td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>gara</i></td>
 <td>
 '<span>new</span>' (<span>unexpected loss of final syllable</span>)</td>
 </tr>
 <tr>
-<td>NCV</td><td>Tolomako</td><td><i>garavu</i></td>
+<td>NCV</td><td><a href="../languages/tolomako">Tolomako</a></td><td><i>garavu</i></td>
 <td>
 '<span>new</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Nduindui</td><td><i>karaᵑgʷa</i></td>
+<td>NCV</td><td><a href="../languages/nduindui">Nduindui</a></td><td><i>karaᵑgʷa</i></td>
 <td>
 '<span>new</span>'</td>
 </tr>
@@ -2372,7 +2372,7 @@ Two POc terms for ‘new’ can be reconstructed: the adjectival noun _&ast;paqo
 
 
 
-The antonym of _&ast;paqoRu_ ‘new, young’ was evidently _&ast;[ma]tuqa_ ‘ripe, mature, adult, old’. A difficulty in reconstructing this term is its formal and semantic similarity to POc _&ast;matuqu_ ‘coconut growth stage: ripe, brown but has not fallen yet’ ([Ross 1996d](../references.md#source-Ross1996d)). It is sometimes quite difficult to determine which of the two reconstructions a reflex like, for example, Sursurunga _matuk_ ‘ripe, well-developed, ready to harvest’ should be assigned to, and I suspect that reflexes of the two items have been conflated in some languages.
+The antonym of _&ast;paqoRu_ ‘new, young’ was evidently _&ast;[ma]tuqa_ ‘ripe, mature, adult, old’. A difficulty in reconstructing this term is its formal and semantic similarity to POc _&ast;matuqu_ ‘coconut growth stage: ripe, brown but has not fallen yet’ ([Ross 1996d](../sources/Ross1996d)). It is sometimes quite difficult to determine which of the two reconstructions a reflex like, for example, Sursurunga _matuk_ ‘ripe, well-developed, ready to harvest’ should be assigned to, and I suspect that reflexes of the two items have been conflated in some languages.
 
 It is hard to avoid the conclusion that _&ast;tuqaRi_ ‘(be) long ago; take a long time, old (of inanimates)’ is historically related to _&ast;[ma]tuqa_. If, as seems likely, Proto Buang _&ast;tkʷi_ ‘old’ (Patep _tkʷe_, Kapin _takʷi_) reflects _&ast;tuqaRi_, then it provides evidence for the putative _&ast;-q-_. However, I do not know where final _&ast;-Ri_ comes from. There are signs that _&ast;[ma]tuqa_ and _&ast;tuqaRi_ may occasionally have been conflated: a putative _&ast;ma-tuqaRi_ seems to be reflected in Gapapaiwa _maturi_ and Tubetube _matuli_ where _&ast;[ma]tuqa_ is expected, and in Tabar _ma-cari_ where _&ast;tuqaRi_ is expected.
 
@@ -2385,7 +2385,7 @@ Whereas _&ast;[ma]tuqa_ probably referred mainly to animates and to the vegetabl
 <i>&ast;CuqaS</i>
 </td>
 <td>
-'<span>mature, elder</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>mature, elder</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -2397,92 +2397,92 @@ Whereas _&ast;[ma]tuqa_ probably referred mainly to animates and to the vegetabl
 '<span>ripe, mature, adult, old</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Lou</td><td><i>matak</i></td>
+<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td><i>matak</i></td>
 <td>
 '<span>old person</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Poeng</td><td><i>matua</i></td>
+<td>NNG</td><td><a href="../languages/poeng">Poeng</a></td><td><i>matua</i></td>
 <td>
 '<span>ripe</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Dobu</td><td><i>matua</i></td>
+<td>PT</td><td><a href="../languages/dobu">Dobu</a></td><td><i>matua</i></td>
 <td>
 '<span>ripe</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Gapapaiwa</td><td><i>maturi</i></td>
+<td>PT</td><td><a href="../languages/gapapaiwa">Gapapaiwa</a></td><td><i>maturi</i></td>
 <td>
 '<span>half-ripe</span>'</td>
 </tr>
 <tr>
-<td>None</td><td>Tubetube</td><td><i>matuli</i></td>
+<td>None</td><td><a href="../languages/tubetube">Tubetube</a></td><td><i>matuli</i></td>
 <td>
 '<span>ripe</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Misima</td><td><i>matua</i></td>
+<td>PT</td><td><a href="../languages/misima">Misima</a></td><td><i>matua</i></td>
 <td>
 '<span>ripe</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Patpatar</td><td><i>matuko</i></td>
+<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td><i>matuko</i></td>
 <td>
 '<span>ripe</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>maua</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>maua</i></td>
 <td>
 '<span>ripe</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>matua</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>matua</i></td>
 <td>
 '<span>full-grown, ripe</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Raga</td><td><i>metua</i></td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>metua</i></td>
 <td>
 '<span>full-grown, mature</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Paamese</td><td><i>matū</i></td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>matū</i></td>
 <td>
 '<span>(s.o.) old</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Nguna</td><td><i>matua</i></td>
+<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td><i>matua</i></td>
 <td>
 '<span>old, ancient, mature, ripe, big</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Lenakel</td><td><i>matak</i></td>
+<td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td><i>matak</i></td>
 <td>
 '<span>ready to be eaten: ripe, cooked</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Anejom</td><td><i>metou</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>metou</i></td>
 <td>
 '<span>(fruit) ripe, mature, ready to pick</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>mātua</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>mātua</i></td>
 <td>
 '<span>mature, full-grown, adult, ripe</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Rotuman</td><td><i>mafua</i></td>
+<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td><i>mafua</i></td>
 <td>
 '<span>old</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>motuʔa</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>motuʔa</i></td>
 <td>
 '<span>old</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>matua</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>matua</i></td>
 <td>
 '<span>old (person)</span>'</td>
 </tr>
@@ -2500,127 +2500,127 @@ Whereas _&ast;[ma]tuqa_ probably referred mainly to animates and to the vegetabl
 '<span>(be) long ago; take a long time, old (of inanimates)</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Ali</td><td><i>care-ŋ</i></td>
+<td>NNG</td><td><a href="../languages/ali">Ali</a></td><td><i>care-ŋ</i></td>
 <td>
 '<span>old</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tabar</td><td><i>(ma)cari</i></td>
+<td>MM</td><td><a href="../languages/tabar">Tabar</a></td><td><i>(ma)cari</i></td>
 <td>
 '<span>old</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Sursurunga</td><td><i>torai-n</i></td>
+<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td><i>torai-n</i></td>
 <td>
 '<span>old</span>' (<span>metathesised</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td>Patpatar</td><td><i>tuare</i></td>
+<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td><i>tuare</i></td>
 <td>
 '<span>old</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Ramoaaina</td><td><i>turəi</i></td>
+<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>turəi</i></td>
 <td>
 '<span>old</span>' (<span>metathesised</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td>Siar</td><td><i>turai</i></td>
+<td>MM</td><td><a href="../languages/siar">Siar</a></td><td><i>turai</i></td>
 <td>
 '<span>old</span>' (<span>metathesised</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td>Uruava</td><td><i>tuari</i></td>
+<td>MM</td><td><a href="../languages/uruava">Uruava</a></td><td><i>tuari</i></td>
 <td>
 '<span>old</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Mono</td><td><i>tuali-na</i></td>
+<td>MM</td><td><a href="../languages/mono">Mono</a></td><td><i>tuali-na</i></td>
 <td>
 '<span>old</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Ririo</td><td><i>cuer</i></td>
+<td>MM</td><td><a href="../languages/ririo">Ririo</a></td><td><i>cuer</i></td>
 <td>
 '<span>old (thing)</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Bugotu</td><td><i>tuali</i></td>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>tuali</i></td>
 <td>
 '<span>(thing) old</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>kwali</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>kwali</i></td>
 <td>
 '<span>be old, worn out (house, net, etc.); descendant</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>wari</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>wari</i></td>
 <td>
 '<span>old, chiefly of living things; old man</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>tuai</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>tuai</i></td>
 <td>
 '<span>of long duration, old</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Tamambo</td><td><i>tuai</i></td>
+<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td><i>tuai</i></td>
 <td>
 '<span>of old</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Neve’ei</td><td><i>tuɣoi</i></td>
+<td>NCV</td><td><a href="../languages/neveei">Neve’ei</a></td><td><i>tuɣoi</i></td>
 <td>
 '<span>a long time ago</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Neve’ei</td><td><i>duɣoi</i></td>
+<td>NCV</td><td><a href="../languages/neveei">Neve’ei</a></td><td><i>duɣoi</i></td>
 <td>
 '<span>old (inanimates)</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Naman</td><td><i>toɣe</i></td>
+<td>NCV</td><td><a href="../languages/naman">Naman</a></td><td><i>toɣe</i></td>
 <td>
 '<span>a long time ago</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Nguna</td><td><i>tuai</i></td>
+<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td><i>tuai</i></td>
 <td>
 '<span>long ago, (thing) old</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Sye</td><td><i>(e)twai</i></td>
+<td>SV</td><td><a href="../languages/sye">Sye</a></td><td><i>(e)twai</i></td>
 <td>
 '<span>recently</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Sye</td><td><i>(it-e)twai</i></td>
+<td>SV</td><td><a href="../languages/sye">Sye</a></td><td><i>(it-e)twai</i></td>
 <td>
 '<span>long time ago</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Kwamera</td><td><i>tui</i></td>
+<td>SV</td><td><a href="../languages/kwamera">Kwamera</a></td><td><i>tui</i></td>
 <td>
 '<span>old, previous, of the past, long ago</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Anejom</td><td><i>(i)tuwu</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>(i)tuwu</i></td>
 <td>
 '<span>long ago</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>tuei</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>tuei</i></td>
 <td>
 '<span>take a long time, be slow, tardy, late</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>tuai</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>tuai</i></td>
 <td>
 '<span>be late, be late, take a long time</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>tuai</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>tuai</i></td>
 <td>
 '<span>be late, be delayed, take a long time</span>'</td>
 </tr>
@@ -2641,17 +2641,17 @@ Whereas _&ast;[ma]tuqa_ probably referred mainly to animates and to the vegetabl
 '<span>old (of inanimates)</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Bulu</td><td><i>rapu-rapu-ka</i></td>
+<td>MM</td><td><a href="../languages/bulu">Bulu</a></td><td><i>rapu-rapu-ka</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>SES</td><td>'Are'are</td><td><i>rahu-ʔa</i></td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>rahu-ʔa</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>lahu-ʔa</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>lahu-ʔa</i></td>
 <td>
 </td>
 </tr>
@@ -2679,7 +2679,7 @@ PMP terms were of the form _&ast;ma-_ + ROOT. Blust (ACD) concludes that PMP had
 <i>&ast;[ma]qitem</i>
 </td>
 <td>
-'<span>black, deep blue</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>black, deep blue</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -2699,47 +2699,47 @@ PMP terms were of the form _&ast;ma-_ + ROOT. Blust (ACD) concludes that PMP had
 '<span>black</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nalik</td><td><i>makit</i></td>
+<td>MM</td><td><a href="../languages/nalik">Nalik</a></td><td><i>makit</i></td>
 <td>
 '<span>black</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tabar</td><td><i>maketo</i></td>
+<td>MM</td><td><a href="../languages/tabar">Tabar</a></td><td><i>maketo</i></td>
 <td>
 '<span>black</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>meto</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>meto</i></td>
 <td>
 '<span>dirty</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>maeo</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>maeo</i></td>
 <td>
 '<span>full grown, ripe, black</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>maeto</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>maeto</i></td>
 <td>
 '<span>black</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Ambae</td><td><i>maeto</i></td>
+<td>NCV</td><td><a href="../languages/ambae">Ambae</a></td><td><i>maeto</i></td>
 <td>
 '<span>be black, blacken</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Raga</td><td><i>meto</i></td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>meto</i></td>
 <td>
 '<span>black</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Paamese</td><td><i>(na)meto</i></td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>(na)meto</i></td>
 <td>
 '<span>k.o. black fish</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Nguna</td><td><i>maeto</i></td>
+<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td><i>maeto</i></td>
 <td>
 '<span>angry</span>'</td>
 </tr>
@@ -2754,7 +2754,7 @@ PMP terms were of the form _&ast;ma-_ + ROOT. Blust (ACD) concludes that PMP had
 <i>&ast;ma-iRaq</i>
 </td>
 <td>
-'<span>red</span>' (<a href="../references.md#source-Blust1980b">Blust1980b</a>)
+'<span>red</span>' (<a href="../sources/Blust1980b">Blust1980b</a>)
 </td>
 </tr>
 <tr>
@@ -2766,67 +2766,67 @@ PMP terms were of the form _&ast;ma-_ + ROOT. Blust (ACD) concludes that PMP had
 '<span>red</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kaulong</td><td><i>mhe</i></td>
+<td>NNG</td><td><a href="../languages/kaulong">Kaulong</a></td><td><i>mhe</i></td>
 <td>
 '<span>red</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kairiru</td><td><i>mera-mer</i></td>
+<td>NNG</td><td><a href="../languages/kairiru">Kairiru</a></td><td><i>mera-mer</i></td>
 <td>
 '<span>red</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nalik</td><td><i>me-mek</i></td>
+<td>MM</td><td><a href="../languages/nalik">Nalik</a></td><td><i>me-mek</i></td>
 <td>
 '<span>red</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Siar</td><td><i>me-merek</i></td>
+<td>MM</td><td><a href="../languages/siar">Siar</a></td><td><i>me-merek</i></td>
 <td>
 '<span>red</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Bugotu</td><td><i>mela-</i></td>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>mela-</i></td>
 <td>
 '<span>red</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Longgu</td><td><i>mela-mela(ʔa)</i></td>
+<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td><i>mela-mela(ʔa)</i></td>
 <td>
 '<span>red</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>'Are'are</td><td><i>me-mera(ʔa)</i></td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>me-mera(ʔa)</i></td>
 <td>
 '<span>red</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>me-mea</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>me-mea</i></td>
 <td>
 '<span>red</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Ambae</td><td><i>memea</i></td>
+<td>NCV</td><td><a href="../languages/ambae">Ambae</a></td><td><i>memea</i></td>
 <td>
 '<span>be red, redden</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Xârâcùù</td><td><i>mĩã</i></td>
+<td>NCal</td><td><a href="../languages/xaracuu">Xârâcùù</a></td><td><i>mĩã</i></td>
 <td>
 '<span>red</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>mea</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>mea</i></td>
 <td>
 '<span>reddish</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rapanui</td><td><i>mea-mea</i></td>
+<td>Pn</td><td><a href="../languages/rapanui">Rapanui</a></td><td><i>mea-mea</i></td>
 <td>
 '<span>red</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rapanui</td><td><i>mea</i></td>
+<td>Pn</td><td><a href="../languages/rapanui">Rapanui</a></td><td><i>mea</i></td>
 <td>
 '<span>light red, pink</span>'</td>
 </tr>
@@ -2841,7 +2841,7 @@ PMP terms were of the form _&ast;ma-_ + ROOT. Blust (ACD) concludes that PMP had
 <i>&ast;ma-putiq</i>
 </td>
 <td>
-'<span>white, light in colour</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>white, light in colour</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -2853,12 +2853,12 @@ PMP terms were of the form _&ast;ma-_ + ROOT. Blust (ACD) concludes that PMP had
 '<span>white</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>mahui</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>mahui</i></td>
 <td>
 '<span>white</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Ambae</td><td><i>mavute</i></td>
+<td>NCV</td><td><a href="../languages/ambae">Ambae</a></td><td><i>mavute</i></td>
 <td>
 '<span>to be white, whiten</span>'</td>
 </tr>
@@ -2878,52 +2878,52 @@ One colour term of the form _&ast;ma-_ + ROOT has no known non-Oceanic cognates.
 '<span>green, blue</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Suau</td><td><i>ʔala-ʔalawa</i></td>
+<td>PT</td><td><a href="../languages/suau">Suau</a></td><td><i>ʔala-ʔalawa</i></td>
 <td>
 '<span>green</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tigak</td><td><i>makago</i></td>
+<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td><i>makago</i></td>
 <td>
 '<span>green</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nalik</td><td><i>marakaua</i></td>
+<td>MM</td><td><a href="../languages/nalik">Nalik</a></td><td><i>marakaua</i></td>
 <td>
 '<span>green</span>' (<span>metathesised</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td>Sursurunga</td><td><i>məkrau</i></td>
+<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td><i>məkrau</i></td>
 <td>
 '<span>green</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Maringe</td><td><i>ka-kahra</i></td>
+<td>MM</td><td><a href="../languages/maringe">Maringe</a></td><td><i>ka-kahra</i></td>
 <td>
 '<span>green, light blue</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Woleaian</td><td><i>xāẓawe-ẓaw</i></td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>xāẓawe-ẓaw</i></td>
 <td>
 '<span>green</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Rotuman</td><td><i>čarava</i></td>
+<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td><i>čarava</i></td>
 <td>
 '<span>blue</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>kara-karawa</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>kara-karawa</i></td>
 <td>
 '<span>blue; k.o. blue-green fish</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>karawa</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>karawa</i></td>
 <td>
 [V] '<span>be blue, blue-green, green</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>kara-karawa</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>kara-karawa</i></td>
 <td>
 [V, ADJ] '<span>blue, blue-green, green</span>'</td>
 </tr>
@@ -2944,32 +2944,32 @@ One colour term of the form _&ast;ma-_ + ROOT has no known non-Oceanic cognates.
 '<span>green, blue</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Talise</td><td><i>marao</i></td>
+<td>SES</td><td><a href="../languages/talise">Talise</a></td><td><i>marao</i></td>
 <td>
 '<span>green, blue</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Longgu</td><td><i>mʷarawa</i></td>
+<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td><i>mʷarawa</i></td>
 <td>
 '<span>green, blue</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Kwaio</td><td><i>malakʷa</i></td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>malakʷa</i></td>
 <td>
 '<span>green</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>marawā</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>marawā</i></td>
 <td>
 '<span>green, blue (if bright)</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kiribatese</td><td><i>māwawa</i></td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>māwawa</i></td>
 <td>
 '<span>green, blue</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Marshallese</td><td><i>maṛᶭɔṛᶭɔ</i></td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>maṛᶭɔṛᶭɔ</i></td>
 <td>
 '<span>green</span>'</td>
 </tr>
@@ -2977,7 +2977,7 @@ One colour term of the form _&ast;ma-_ + ROOT has no known non-Oceanic cognates.
 
 
 
-[Blust](../references.md#source-Blust2001) ([2001](../references.md#source-Blust2001)) observes that colour terms with a reduplicated root are common in Oceanic languages. Generally, but not always, the initial CVCV- is copied. He infers that this reduplication reflects the unmarking of an earlier use of reduplication to express intensity. Whatever its origin, however, in many Oceanic languages reduplication is a derivational process whereby a colour term is derived from a noun, and in some it appears to be a productive process.[^18] Blust’s examples are drawn from twenty-four languages. Among them we find the following:
+[Blust](../sources/Blust2001) ([2001](../sources/Blust2001)) observes that colour terms with a reduplicated root are common in Oceanic languages. Generally, but not always, the initial CVCV- is copied. He infers that this reduplication reflects the unmarking of an earlier use of reduplication to express intensity. Whatever its origin, however, in many Oceanic languages reduplication is a derivational process whereby a colour term is derived from a noun, and in some it appears to be a productive process.[^18] Blust’s examples are drawn from twenty-four languages. Among them we find the following:
 
 <table id="2-7-4-None-214-adm-mussau-boboiena">
 <tr>
@@ -3183,7 +3183,7 @@ One colour term of the form _&ast;ma-_ + ROOT has no known non-Oceanic cognates.
 </tr>
 </table>
 
-From these examples we see that the colour term is often derived from a noun whose referent has that colour as a salient characteristic. We also see that in closely related Kairiru and Manam ([Ross 1988](../references.md#source-Ross1988):122–132) different derivations have occurred, indicating that the process remains productive, or has done so until recently. This observation leads to a reconstructive problem: we often find cognate reduplicated forms in a number of different languages, and it is sometimes hard to determine whether the reduplication had already occurred in POc or whether the reduplicated forms result from independent parallel derivations. We can arrange cases on a rough cline. At one extreme is POc _&ast;[yaŋo]yaŋo_ ‘yellow’, whose reflexes occur so consistently across Oceania that it seems over-cautious not to reconstruct it. The base form was POc _&ast;yaŋo_ ‘turmeric, Curcuma longa’ ([Ross 1996d](../references.md#source-Ross1996d):216).
+From these examples we see that the colour term is often derived from a noun whose referent has that colour as a salient characteristic. We also see that in closely related Kairiru and Manam ([Ross 1988](../sources/Ross1988):122–132) different derivations have occurred, indicating that the process remains productive, or has done so until recently. This observation leads to a reconstructive problem: we often find cognate reduplicated forms in a number of different languages, and it is sometimes hard to determine whether the reduplication had already occurred in POc or whether the reduplicated forms result from independent parallel derivations. We can arrange cases on a rough cline. At one extreme is POc _&ast;[yaŋo]yaŋo_ ‘yellow’, whose reflexes occur so consistently across Oceania that it seems over-cautious not to reconstruct it. The base form was POc _&ast;yaŋo_ ‘turmeric, Curcuma longa’ ([Ross 1996d](../sources/Ross1996d):216).
 
 <table id="2-7-4-None-215-POc-yaoyao-a">
 <tr>
@@ -3195,137 +3195,137 @@ From these examples we see that the colour term is often derived from a noun who
 '<span>yellow</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Seimat</td><td><i>aŋo-aŋ</i></td>
+<td>Adm</td><td><a href="../languages/seimat">Seimat</a></td><td><i>aŋo-aŋ</i></td>
 <td>
 '<span>yellow</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Kele</td><td><i>aŋw-an</i></td>
+<td>Adm</td><td><a href="../languages/kele">Kele</a></td><td><i>aŋw-an</i></td>
 <td>
 '<span>yellow</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kove</td><td><i>yaŋo-yaŋo</i></td>
+<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td><i>yaŋo-yaŋo</i></td>
 <td>
 '<span>yellow</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Mutu</td><td><i>yaŋo-ŋa</i></td>
+<td>NNG</td><td><a href="../languages/mutu">Mutu</a></td><td><i>yaŋo-ŋa</i></td>
 <td>
 '<span>yellow</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Lukep</td><td><i>yoŋo-no</i></td>
+<td>NNG</td><td><a href="../languages/lukep">Lukep</a></td><td><i>yoŋo-no</i></td>
 <td>
 '<span>yellow</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Amara</td><td><i>aŋo-ˀaiŋo</i></td>
+<td>NNG</td><td><a href="../languages/amara">Amara</a></td><td><i>aŋo-ˀaiŋo</i></td>
 <td>
 '<span>yellow</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Poeng</td><td><i>ŋ-aŋo</i></td>
+<td>NNG</td><td><a href="../languages/poeng">Poeng</a></td><td><i>ŋ-aŋo</i></td>
 <td>
 '<span>yellow</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Gedaged</td><td><i>yaŋ-yaŋ</i></td>
+<td>NNG</td><td><a href="../languages/gedaged">Gedaged</a></td><td><i>yaŋ-yaŋ</i></td>
 <td>
 '<span>yellow</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Numbami</td><td><i>(me)yaŋo</i></td>
+<td>NNG</td><td><a href="../languages/numbami">Numbami</a></td><td><i>(me)yaŋo</i></td>
 <td>
 '<span>yellow</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Yabem</td><td><i>yaŋ-yaŋ</i></td>
+<td>NNG</td><td><a href="../languages/yabem">Yabem</a></td><td><i>yaŋ-yaŋ</i></td>
 <td>
 '<span>yellow</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Mapos Buang</td><td><i>saŋ-saŋ</i></td>
+<td>NNG</td><td><a href="../languages/maposbuang">Mapos Buang</a></td><td><i>saŋ-saŋ</i></td>
 <td>
 '<span>yellow</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Manam</td><td><i>zaŋ-zaŋ</i></td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>zaŋ-zaŋ</i></td>
 <td>
 '<span>yellow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Vitu</td><td><i>ɣaŋo-ɣaŋo</i></td>
+<td>MM</td><td><a href="../languages/vitu">Vitu</a></td><td><i>ɣaŋo-ɣaŋo</i></td>
 <td>
 '<span>yellow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nakanai</td><td><i>iala-lo</i></td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>iala-lo</i></td>
 <td>
 '<span>yellow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Kara (West)</td><td><i>iaŋ</i></td>
+<td>MM</td><td><a href="../languages/karawest">Kara (West)</a></td><td><i>iaŋ</i></td>
 <td>
 '<span>yellow</span>' (<span>East Kara <em>ioŋ</em> ‘turmeric’</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td>Taiof</td><td><i>aŋo-m</i></td>
+<td>MM</td><td><a href="../languages/taiof">Taiof</a></td><td><i>aŋo-m</i></td>
 <td>
 '<span>yellow</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>aŋo-aŋo</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>aŋo-aŋo</i></td>
 <td>
 '<span>yellow</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Talise</td><td><i>aŋo</i></td>
+<td>SES</td><td><a href="../languages/talise">Talise</a></td><td><i>aŋo</i></td>
 <td>
 '<span>yellow</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>aŋo-aŋo</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>aŋo-aŋo</i></td>
 <td>
 '<span>yellow</span>' (<span><em>aŋo</em> ‘turmeric’</span>)</td>
 </tr>
 <tr>
-<td>NCV</td><td>Raga</td><td><i>aŋo-ɣa</i></td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>aŋo-ɣa</i></td>
 <td>
 '<span>yellow, become yellow</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Sye</td><td><i>(mel)yeŋ</i></td>
+<td>SV</td><td><a href="../languages/sye">Sye</a></td><td><i>(mel)yeŋ</i></td>
 <td>
 '<span>yellow</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Ura</td><td><i>(mel)yeŋ, (un)iaŋ</i></td>
+<td>SV</td><td><a href="../languages/ura">Ura</a></td><td><i>(mel)yeŋ, (un)iaŋ</i></td>
 <td>
 '<span>yellow</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Anejom</td><td><i>yaŋ</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>yaŋ</i></td>
 <td>
 '<span>yellow</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Ponapean</td><td><i>ɔŋɔ̄ŋ</i></td>
+<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td><i>ɔŋɔ̄ŋ</i></td>
 <td>
 '<span>yellow</span>' (<span><em>ɔ̄ŋ</em> ‘turmeric’</span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td>Woleaian</td><td><i>yaŋo-yaŋ</i></td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>yaŋo-yaŋ</i></td>
 <td>
 '<span>yellow</span>' (<span><em>yaŋ</em> ‘ginger’</span>)</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>aŋo-aŋo</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>aŋo-aŋo</i></td>
 <td>
 [V, ADJ] '<span>(be) yellow</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>eŋa-eŋa</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>eŋa-eŋa</i></td>
 <td>
 '<span>yellow</span>' (<span><em>eŋa</em> ‘turmeric’</span>)</td>
 </tr>
@@ -3359,62 +3359,62 @@ In the light of this discussion, I reconstruct two pairs of POc colour terms, _&
 '<span>green</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Mangap</td><td><i>kes-keeze(ŋa-)</i></td>
+<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td><i>kes-keeze(ŋa-)</i></td>
 <td>
 '<span>green</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Sio</td><td><i>kenza</i></td>
+<td>NNG</td><td><a href="../languages/sio">Sio</a></td><td><i>kenza</i></td>
 <td>
 '<span>green</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Apalik</td><td><i>-kes-kes</i></td>
+<td>NNG</td><td><a href="../languages/apalik">Apalik</a></td><td><i>-kes-kes</i></td>
 <td>
 '<span>green</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Bebeli</td><td><i>ke-kese</i></td>
+<td>NNG</td><td><a href="../languages/bebeli">Bebeli</a></td><td><i>ke-kese</i></td>
 <td>
 '<span>green</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Mindiri</td><td><i>kiede</i></td>
+<td>NNG</td><td><a href="../languages/mindiri">Mindiri</a></td><td><i>kiede</i></td>
 <td>
 '<span>green</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Bilibil</td><td><i>yed-yed</i></td>
+<td>NNG</td><td><a href="../languages/bilibil">Bilibil</a></td><td><i>yed-yed</i></td>
 <td>
 '<span>green</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nakanai</td><td><i>ka-kesa</i></td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>ka-kesa</i></td>
 <td>
 '<span>green</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>gesa-gesa(ga)</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>gesa-gesa(ga)</i></td>
 <td>
 '<span>bright blue, or bright green</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Raga</td><td><i>geha(ga)</i></td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>geha(ga)</i></td>
 <td>
 '<span>blue-green</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Tamambo</td><td><i>ɣenja(ɣa)</i></td>
+<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td><i>ɣenja(ɣa)</i></td>
 <td>
 '<span>blue-green</span>' (<span>ɣenja ‘k.o. blue-green fish’</span>)</td>
 </tr>
 <tr>
-<td>NCV</td><td>Nguna</td><td><i>kesa-kesa</i></td>
+<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td><i>kesa-kesa</i></td>
 <td>
 '<span>blue</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>kesa</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>kesa</i></td>
 <td>
 '<span>green, yellow-green, with suggestion of off-colour; greyish-green</span>'</td>
 </tr>
@@ -3429,7 +3429,7 @@ In the light of this discussion, I reconstruct two pairs of POc colour terms, _&
 <i>&ast;biRiŋ</i>
 </td>
 <td>
-'<span>dark hue, dark red (?)</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>dark hue, dark red (?)</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -3441,37 +3441,37 @@ In the light of this discussion, I reconstruct two pairs of POc colour terms, _&
 '<span>dark hue, dirty</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kove</td><td><i>vihi-vihiŋa</i></td>
+<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td><i>vihi-vihiŋa</i></td>
 <td>
 '<span>green</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Aria</td><td><i>-vir</i></td>
+<td>NNG</td><td><a href="../languages/aria">Aria</a></td><td><i>-vir</i></td>
 <td>
 '<span>green</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tiang</td><td><i>biliŋə</i></td>
+<td>MM</td><td><a href="../languages/tiang">Tiang</a></td><td><i>biliŋə</i></td>
 <td>
 '<span>dirty</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Madak</td><td><i>biliŋa</i></td>
+<td>MM</td><td><a href="../languages/madak">Madak</a></td><td><i>biliŋa</i></td>
 <td>
 '<span>dirty</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Patpatar</td><td><i>biliŋe</i></td>
+<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td><i>biliŋe</i></td>
 <td>
 '<span>dirty</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>bili-bilia</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>bili-bilia</i></td>
 <td>
 '<span>dirty</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Kwaio</td><td><i>bili-biliʔa</i></td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>bili-biliʔa</i></td>
 <td>
 '<span>dirty</span>'</td>
 </tr>
@@ -3488,7 +3488,7 @@ There is one other reduplicated colour term which may be reconstructable, POc _&
 <i>&ast;bulan</i>
 </td>
 <td>
-'<span>white</span>' (<a href="../references.md#source-Blust1989">Blust1989</a>)
+'<span>white</span>' (<a href="../sources/Blust1989">Blust1989</a>)
 </td>
 </tr>
 <tr>
@@ -3500,22 +3500,22 @@ There is one other reduplicated colour term which may be reconstructable, POc _&
 '<span>white</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Sissano</td><td><i>owul-wul</i></td>
+<td>NNG</td><td><a href="../languages/sissano">Sissano</a></td><td><i>owul-wul</i></td>
 <td>
 '<span>white</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Psohoh</td><td><i>vul-vul</i></td>
+<td>NNG</td><td><a href="../languages/psohoh">Psohoh</a></td><td><i>vul-vul</i></td>
 <td>
 '<span>white</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>vula-vula</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>vula-vula</i></td>
 <td>
 '<span>white</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Nemi</td><td><i>pulo</i></td>
+<td>NCal</td><td><a href="../languages/nemi">Nemi</a></td><td><i>pulo</i></td>
 <td>
 '<span>white</span>'</td>
 </tr>
@@ -3550,52 +3550,52 @@ Terms denoting the shape and surface texture of an object include the meanings s
 '<span>flat; board, plank; canoe strake; flat shelf of rock</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Mutu</td><td><i>babaga</i></td>
+<td>NNG</td><td><a href="../languages/mutu">Mutu</a></td><td><i>babaga</i></td>
 <td>
 '<span>wide</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Mangap</td><td><i>baba(ŋa-n)</i></td>
+<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td><i>baba(ŋa-n)</i></td>
 <td>
 '<span>wide, broad</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Gedaged</td><td><i>baba(ŋa-n)</i></td>
+<td>NNG</td><td><a href="../languages/gedaged">Gedaged</a></td><td><i>baba(ŋa-n)</i></td>
 <td>
 '<span>wide</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Manam</td><td><i>baba</i></td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>baba</i></td>
 <td>
 '<span>flat; palm of the hand</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>papa</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>papa</i></td>
 <td>
 '<span>flat rock</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Teop</td><td><i>babana(o)</i></td>
+<td>MM</td><td><a href="../languages/teop">Teop</a></td><td><i>babana(o)</i></td>
 <td>
 '<span>wide</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Kwaio</td><td><i>baba</i></td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>baba</i></td>
 <td>
 '<span>flat</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>baba</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>baba</i></td>
 <td>
 '<span>flat; long side board of canoe</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>papa</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>papa</i></td>
 <td>
 '<span>flat hard sandstone forming a layer or bed at the coast in certain places; flat and smooth and hard, as a well-trodden track; board</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>papa</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>papa</i></td>
 <td>
 '<span>rock; floor mat; plain, level, flat, as a rock, board, nose, etc.</span>'</td>
 </tr>
@@ -3612,7 +3612,7 @@ The term _&ast;raba(r)_ may have denoted the property ‘flat’, but there are 
 <i>&ast;da(m)paD</i>
 </td>
 <td>
-'<span>flat, level</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>flat, level</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -3624,12 +3624,12 @@ The term _&ast;raba(r)_ may have denoted the property ‘flat’, but there are 
 '<span>flat, wide, broad</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>raba</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>raba</i></td>
 <td>
 [N] '<span>breadth, width</span>'; [ADJ] '<span>broad, wide</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Nadroga</td><td><i>raba</i></td>
+<td>Fij</td><td><a href="../languages/nadroga">Nadroga</a></td><td><i>raba</i></td>
 <td>
 '<span>wide, broad</span>'</td>
 </tr>
@@ -3663,7 +3663,7 @@ No term for ‘rough’ is reconstructable, but ‘smooth’, also with the sens
 <i>&ast;ma-dalis</i>
 </td>
 <td>
-'<span>smooth, slippery</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>smooth, slippery</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -3672,7 +3672,7 @@ No term for ‘rough’ is reconstructable, but ‘smooth’, also with the sens
 <i>&ast;[ma]dalit</i>
 </td>
 <td>
-'<span>smooth, slippery</span>' (<a href="../references.md#source-Blust1986">Blust1986</a>)
+'<span>smooth, slippery</span>' (<a href="../sources/Blust1986">Blust1986</a>)
 </td>
 </tr>
 <tr>
@@ -3684,17 +3684,17 @@ No term for ‘rough’ is reconstructable, but ‘smooth’, also with the sens
 '<span>smooth, slippery</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Siar</td><td><i>ma-madal</i></td>
+<td>MM</td><td><a href="../languages/siar">Siar</a></td><td><i>ma-madal</i></td>
 <td>
 '<span>smooth</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>madali</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>madali</i></td>
 <td>
 '<span>slippery</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>madari</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>madari</i></td>
 <td>
 '<span>wet and slippery, as rocks</span>'</td>
 </tr>
@@ -3719,42 +3719,42 @@ The data require that we reconstruct two variants for each of the three terms. T
 '<span>straight</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Vitu</td><td><i>maɣoto</i></td>
+<td>MM</td><td><a href="../languages/vitu">Vitu</a></td><td><i>maɣoto</i></td>
 <td>
 '<span>straight; (ground) flat</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tolai</td><td><i>ot</i></td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>ot</i></td>
 <td>
 '<span>straight</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>oto</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>oto</i></td>
 <td>
 '<span>go directly, straight; set face to do, stare straight at</span>' (<span>for expected *ɣoto</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td>West Guadalcanal</td><td><i>ɣoto</i></td>
+<td>SES</td><td><a href="../languages/westguadalcanal">West Guadalcanal</a></td><td><i>ɣoto</i></td>
 <td>
 '<span>straight, correct</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>koto</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>koto</i></td>
 <td>
 [V] '<span>lie down</span>'; [ADJ] '<span>extended, stretched out</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>to-koto</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>to-koto</i></td>
 <td>
 [V] '<span>lie down</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>ta-ʔoto</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>ta-ʔoto</i></td>
 <td>
 [V] '<span>lie down</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>ta-koto</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>ta-koto</i></td>
 <td>
 [V] '<span>lie down</span>'</td>
 </tr>
@@ -3780,52 +3780,52 @@ The data require that we reconstruct two variants for each of the three terms. T
 '<span>straight</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Lavongai</td><td><i>koroŋ</i></td>
+<td>MM</td><td><a href="../languages/lavongai">Lavongai</a></td><td><i>koroŋ</i></td>
 <td>
 '<span>straight</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Lamasong</td><td><i>tokodos</i></td>
+<td>MM</td><td><a href="../languages/lamasong">Lamasong</a></td><td><i>tokodos</i></td>
 <td>
 '<span>straight</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Patpatar</td><td><i>takodas</i></td>
+<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td><i>takodas</i></td>
 <td>
 '<span>straight</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tolai</td><td><i>kodo</i></td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>kodo</i></td>
 <td>
 '<span>straighten</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tolai</td><td><i>takodo</i></td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>takodo</i></td>
 <td>
 '<span>straight</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nehan</td><td><i>kod-kodoh</i></td>
+<td>MM</td><td><a href="../languages/nehan">Nehan</a></td><td><i>kod-kodoh</i></td>
 <td>
 '<span>straight</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>odo-odo</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>odo-odo</i></td>
 <td>
 '<span>go in a direct line, straight</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Kwaio</td><td><i>odo</i></td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>odo</i></td>
 <td>
 '<span>straight, correct</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>odo-odo</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>odo-odo</i></td>
 <td>
 '<span>be straight, go straight forward; be correct and proper</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>odo-odo</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>odo-odo</i></td>
 <td>
 '<span>straight</span>'</td>
 </tr>
@@ -3843,57 +3843,57 @@ The data require that we reconstruct two variants for each of the three terms. T
 '<span>straight</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Malai</td><td><i>dunu(ŋa)</i></td>
+<td>NNG</td><td><a href="../languages/malai">Malai</a></td><td><i>dunu(ŋa)</i></td>
 <td>
 '<span>straight</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Numbami</td><td><i>tonowa</i></td>
+<td>NNG</td><td><a href="../languages/numbami">Numbami</a></td><td><i>tonowa</i></td>
 <td>
 '<span>straight</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Laghu</td><td><i>to-tonu</i></td>
+<td>MM</td><td><a href="../languages/laghu">Laghu</a></td><td><i>to-tonu</i></td>
 <td>
 '<span>straight</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Kiai</td><td><i>tu-tunu</i></td>
+<td>NCV</td><td><a href="../languages/kiai">Kiai</a></td><td><i>tu-tunu</i></td>
 <td>
 '<span>good, straight, sweet</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Labo</td><td><i>tən</i></td>
+<td>NCV</td><td><a href="../languages/labo">Labo</a></td><td><i>tən</i></td>
 <td>
 '<span>straighten an arrow in the fire</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Kwamera</td><td><i>(a)tuən</i></td>
+<td>SV</td><td><a href="../languages/kwamera">Kwamera</a></td><td><i>(a)tuən</i></td>
 <td>
  (<span>verbal adjunct: implies straightening</span>)</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>donu</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>donu</i></td>
 <td>
 '<span>(be) straight, true, correct</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>donu</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>donu</i></td>
 <td>
 '<span>(be) right, correct, true</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>tonu</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>tonu</i></td>
 <td>
 '<span>be exact, be correct, be right</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>tonu</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>tonu</i></td>
 <td>
 '<span>(be) exact, correct, just</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Ifira-Mele</td><td><i>tō-tonu</i></td>
+<td>Pn</td><td><a href="../languages/ifiramele">Ifira-Mele</a></td><td><i>tō-tonu</i></td>
 <td>
 '<span>right, correct</span>'</td>
 </tr>
@@ -3913,41 +3913,41 @@ I have no explanation for the pair _&ast;mʷane-mʷane_ and _&ast;wane-wane_. Re
 <i>&ast;mʷane-mʷane</i>
 </td>
 <td>
-'<span>straight, direct; flat, level</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>straight, direct; flat, level</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
-<td>Adm</td><td>Aua</td><td><i>wane-wane</i></td>
+<td>Adm</td><td><a href="../languages/aua">Aua</a></td><td><i>wane-wane</i></td>
 <td>
 '<span>smooth, level; straight</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Pak</td><td><i>mʷane-n</i></td>
+<td>Adm</td><td><a href="../languages/pak">Pak</a></td><td><i>mʷane-n</i></td>
 <td>
 '<span>straight</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Nyindrou</td><td><i>mone-n</i></td>
+<td>Adm</td><td><a href="../languages/nyindrou">Nyindrou</a></td><td><i>mone-n</i></td>
 <td>
 '<span>straight</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Loniu</td><td><i>mʷɛnɛ-n</i></td>
+<td>Adm</td><td><a href="../languages/loniu">Loniu</a></td><td><i>mʷɛnɛ-n</i></td>
 <td>
 '<span>straight</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>mae-mane</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>mae-mane</i></td>
 <td>
 '<span>straight</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>ma-mana</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>ma-mana</i></td>
 <td>
 '<span>true</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Cèmuhî</td><td><i>mó-mʷɔn</i></td>
+<td>NCal</td><td><a href="../languages/cemuhi">Cèmuhî</a></td><td><i>mó-mʷɔn</i></td>
 <td>
 '<span>straight, right, correct</span>'</td>
 </tr>
@@ -3962,26 +3962,26 @@ I have no explanation for the pair _&ast;mʷane-mʷane_ and _&ast;wane-wane_. Re
 <i>&ast;wane-wane</i>
 </td>
 <td>
-'<span>straight, direct; flat, level</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>straight, direct; flat, level</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
-<td>NNG</td><td>Ali</td><td><i>wane(ŋ)</i></td>
+<td>NNG</td><td><a href="../languages/ali">Ali</a></td><td><i>wane(ŋ)</i></td>
 <td>
 '<span>straight</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Mortlockese</td><td><i>wane-wan</i></td>
+<td>Mic</td><td><a href="../languages/mortlockese">Mortlockese</a></td><td><i>wane-wan</i></td>
 <td>
 '<span>straight, steady, direct</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Puluwatese</td><td><i>wene-wen</i></td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>wene-wen</i></td>
 <td>
 '<span>be directly above; straight, direct, honest, exactly</span>'; '<span>greatly</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Woleaian</td><td><i>were-were</i></td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>were-were</i></td>
 <td>
 '<span>straight, steady, still</span>'</td>
 </tr>
@@ -4001,12 +4001,12 @@ The only antonym of the terms above is PWOc _&ast;kalis_ ‘crooked’, which is
 '<span>crooked</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Takia</td><td><i>kael(a-n)</i></td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>kael(a-n)</i></td>
 <td>
 '<span>crooked</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Sursurunga</td><td><i>kalis</i></td>
+<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td><i>kalis</i></td>
 <td>
 '<span>crooked</span>'</td>
 </tr>
@@ -4032,17 +4032,17 @@ Forms for ‘heavy’ are morphologically complex. POc _&ast;[pa]pat_ reflects t
 '<span>heavy</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Gitua</td><td><i>pat(aŋa-n)</i></td>
+<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td><i>pat(aŋa-n)</i></td>
 <td>
 '<span>heavy</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Maleu</td><td><i>-pat(aŋa)</i></td>
+<td>NNG</td><td><a href="../languages/maleu">Maleu</a></td><td><i>-pat(aŋa)</i></td>
 <td>
 '<span>heavy</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Yabem</td><td><i>(ŋa)wapaʔ</i></td>
+<td>NNG</td><td><a href="../languages/yabem">Yabem</a></td><td><i>(ŋa)wapaʔ</i></td>
 <td>
 '<span>heavy</span>'</td>
 </tr>
@@ -4060,66 +4060,66 @@ Forms for ‘heavy’ are morphologically complex. POc _&ast;[pa]pat_ reflects t
 <i>&ast;mapat</i>
 </td>
 <td>
-'<span>heavy</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>heavy</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
-<td>Adm</td><td>Nyindrou</td><td><i>mahaʔ(an)</i></td>
+<td>Adm</td><td><a href="../languages/nyindrou">Nyindrou</a></td><td><i>mahaʔ(an)</i></td>
 <td>
 '<span>heavy</span>'</td>
 </tr>
 <tr>
-<td>SJ</td><td>Sobei</td><td><i>mafo</i></td>
+<td>SJ</td><td><a href="../languages/sobei">Sobei</a></td><td><i>mafo</i></td>
 <td>
 '<span>heavy</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Bulu</td><td><i>mava</i></td>
+<td>MM</td><td><a href="../languages/bulu">Bulu</a></td><td><i>mava</i></td>
 <td>
 '<span>heavy</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Ramoaaina</td><td><i>məvət</i></td>
+<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>məvət</i></td>
 <td>
 '<span>heavy</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>mava</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>mava</i></td>
 <td>
 '<span>heavy, important</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Ambae</td><td><i>mava</i></td>
+<td>NCV</td><td><a href="../languages/ambae">Ambae</a></td><td><i>mava</i></td>
 <td>
 '<span>be/become heavy</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Rotuman</td><td><i>maha</i></td>
+<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td><i>maha</i></td>
 <td>
 '<span>heavy</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>ma-mafa</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>ma-mafa</i></td>
 <td>
 '<span>heavy</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>mafas-ia</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>mafas-ia</i></td>
 <td>
 '<span>(be) weighed down, burdened</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>mafat-aki</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>mafat-aki</i></td>
 <td>
 '<span>(rain) be heavy; (work) be heavy, difficult</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>ma-mafa</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>ma-mafa</i></td>
 <td>
 '<span>heavy</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>mafat-ia</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>mafat-ia</i></td>
 <td>
 '<span>exhausted, overcome</span>'</td>
 </tr>
@@ -4137,17 +4137,17 @@ Forms for ‘heavy’ are morphologically complex. POc _&ast;[pa]pat_ reflects t
 '<span>heavy</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Mussau</td><td><i>mamāta(na)</i></td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>mamāta(na)</i></td>
 <td>
 '<span>heavy</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tolai</td><td><i>mamat</i></td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>mamat</i></td>
 <td>
 '<span>heavy</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Roviana</td><td><i>mamata</i></td>
+<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td><i>mamata</i></td>
 <td>
 '<span>heavy</span>'</td>
 </tr>
@@ -4162,7 +4162,7 @@ Forms for ‘heavy’ are morphologically complex. POc _&ast;[pa]pat_ reflects t
 <i>&ast;[ma]Raqan</i>
 </td>
 <td>
-'<span>light in weight</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>light in weight</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -4174,82 +4174,82 @@ Forms for ‘heavy’ are morphologically complex. POc _&ast;[pa]pat_ reflects t
 '<span>light in weight</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>haraɣa</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>haraɣa</i></td>
 <td>
 '<span>easy, light (in weight)</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Bariai</td><td><i>malan</i></td>
+<td>NNG</td><td><a href="../languages/bariai">Bariai</a></td><td><i>malan</i></td>
 <td>
 '<span>light in weight</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Sio</td><td><i>malalɒka</i></td>
+<td>NNG</td><td><a href="../languages/sio">Sio</a></td><td><i>malalɒka</i></td>
 <td>
 '<span>light in weight</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Tami</td><td><i>malaga-lag</i></td>
+<td>NNG</td><td><a href="../languages/tami">Tami</a></td><td><i>malaga-lag</i></td>
 <td>
 '<span>light in weight</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Aria</td><td><i>mar̃kan</i></td>
+<td>NNG</td><td><a href="../languages/aria">Aria</a></td><td><i>mar̃kan</i></td>
 <td>
 '<span>light in weight</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Vitu</td><td><i>maraɣa</i></td>
+<td>MM</td><td><a href="../languages/vitu">Vitu</a></td><td><i>maraɣa</i></td>
 <td>
 '<span>light in weight</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nakanai</td><td><i>mara-mara</i></td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>mara-mara</i></td>
 <td>
 '<span>lightened, relieved</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>ma-mala</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>ma-mala</i></td>
 <td>
 '<span>light in weight</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Ambae</td><td><i>ma-marae</i></td>
+<td>NCV</td><td><a href="../languages/ambae">Ambae</a></td><td><i>ma-marae</i></td>
 <td>
 '<span>be/become light</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Raga</td><td><i>ma-mara</i></td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>ma-mara</i></td>
 <td>
 '<span>light in weight</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Paamese</td><td><i>melā-la</i></td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>melā-la</i></td>
 <td>
 '<span>light in weight</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Ponapean</td><td><i>marā-ra</i></td>
+<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td><i>marā-ra</i></td>
 <td>
 '<span>light in weight</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Nadroga</td><td><i>mā-mā</i></td>
+<td>Fij</td><td><a href="../languages/nadroga">Nadroga</a></td><td><i>mā-mā</i></td>
 <td>
 '<span>light in weight</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>mā-mā</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>mā-mā</i></td>
 <td>
 '<span>be light (in weight)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>maʔa-maʔa</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>maʔa-maʔa</i></td>
 <td>
 '<span>light in weight</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>mā-mā</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>mā-mā</i></td>
 <td>
 '<span>light in weight</span>'</td>
 </tr>
@@ -4263,7 +4263,7 @@ Forms for ‘heavy’ are morphologically complex. POc _&ast;[pa]pat_ reflects t
 ### 5.3. Strength, toughness and speed
 
 
-Oceanic speakers tend to express the cluster of concepts ‘hard’ (of physical substances), ‘strong’ (of human beings), ‘quickly moving’ and ‘energetic’ with a single lexeme, and ‘soft’, ‘weak’, ‘slow’ and ‘gentle’ also with a single lexeme. Terms for the first, again due entirely to Blust (ACD), are POc _&ast;paka(s)_ and _&ast;laga(s)_, neither of them particularly stable (i.e. we find few reflexes of them). Terms for its antonym are _&ast;[ma]lumu_ and _&ast;ma-luas_, both quite stable and thus widely reflected. The latter is also used of calm weather in eastern Oceanic languages (see Ch. 5, §5.1).
+Oceanic speakers tend to express the cluster of concepts ‘hard’ (of physical substances), ‘strong’ (of human beings), ‘quickly moving’ and ‘energetic’ with a single lexeme, and ‘soft’, ‘weak’, ‘slow’ and ‘gentle’ also with a single lexeme. Terms for the first, again due entirely to Blust (ACD), are POc _&ast;paka(s)_ and _&ast;laga(s)_, neither of them particularly stable (i.e. we find few reflexes of them). Terms for its antonym are _&ast;[ma]lumu_ and _&ast;ma-luas_, both quite stable and thus widely reflected. The latter is also used of calm weather in eastern Oceanic languages (see [Ch. 5, §5.1](../contributions/2-5#s-5-1)).
 
 
 <a id="p-222"></a>
@@ -4275,7 +4275,7 @@ Oceanic speakers tend to express the cluster of concepts ‘hard’ (of physical
 <i>&ast;ba(ŋ)kas</i>
 </td>
 <td>
-'<span>swift, strong, energetic, fast</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>swift, strong, energetic, fast</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -4284,11 +4284,11 @@ Oceanic speakers tend to express the cluster of concepts ‘hard’ (of physical
 <i>&ast;paka(s)</i>
 </td>
 <td>
-'<span>have strength, energy</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>have strength, energy</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>vaka</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>vaka</i></td>
 <td>
 '<span>have strength, energy</span>'</td>
 </tr>
@@ -4303,7 +4303,7 @@ Oceanic speakers tend to express the cluster of concepts ‘hard’ (of physical
 <i>&ast;la(ŋ)kas</i>
 </td>
 <td>
-'<span>spirited, energetic</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>spirited, energetic</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -4312,21 +4312,21 @@ Oceanic speakers tend to express the cluster of concepts ‘hard’ (of physical
 <i>&ast;laga(s)</i>
 </td>
 <td>
-'<span>spirited, energetic</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>spirited, energetic</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
-<td>MM</td><td>Sursurunga</td><td><i>lak-lak</i></td>
+<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td><i>lak-lak</i></td>
 <td>
 '<span>hard, stubborn</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>laga</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>laga</i></td>
 <td>
 '<span>strong, strength; energetic</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>raga</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>raga</i></td>
 <td>
 '<span>strong, strengthened, invigorated</span>'</td>
 </tr>
@@ -4343,7 +4343,7 @@ Two POc terms, _&ast;[ma]lumu_ and _&ast;ma-luas_, express ‘soft, gentle’.
 <i>&ast;[ma]lumu</i>
 </td>
 <td>
-'<span>soft, tender, gentle</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>soft, tender, gentle</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -4355,77 +4355,77 @@ Two POc terms, _&ast;[ma]lumu_ and _&ast;ma-luas_, express ‘soft, gentle’.
 '<span>soft, gentle, easy</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Bariai</td><td><i>marum</i></td>
+<td>NNG</td><td><a href="../languages/bariai">Bariai</a></td><td><i>marum</i></td>
 <td>
 '<span>soft</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Amara</td><td><i>mulum</i></td>
+<td>NNG</td><td><a href="../languages/amara">Amara</a></td><td><i>mulum</i></td>
 <td>
 '<span>soft</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nakanai</td><td><i>malumo</i></td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>malumo</i></td>
 <td>
 '<span>be soft (bread or sweet biscuits, or taro left too long in the ground)</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Lavongai</td><td><i>malum</i></td>
+<td>MM</td><td><a href="../languages/lavongai">Lavongai</a></td><td><i>malum</i></td>
 <td>
 '<span>soft</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Patpatar</td><td><i>ma-malum</i></td>
+<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td><i>ma-malum</i></td>
 <td>
 '<span>soft</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Mono</td><td><i>maluŋ</i></td>
+<td>MM</td><td><a href="../languages/mono">Mono</a></td><td><i>maluŋ</i></td>
 <td>
 '<span>soft</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>malumu</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>malumu</i></td>
 <td>
 '<span>easy</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Kwaio</td><td><i>malumu</i></td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>malumu</i></td>
 <td>
 '<span>good-looking</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>rumu</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>rumu</i></td>
 <td>
 '<span>oil</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>marumu-rumu</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>marumu-rumu</i></td>
 <td>
 '<span>soft</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>malum-lum</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>malum-lum</i></td>
 <td>
 '<span>soft, gentle</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Ambae</td><td><i>lu-lumu</i></td>
+<td>NCV</td><td><a href="../languages/ambae">Ambae</a></td><td><i>lu-lumu</i></td>
 <td>
 '<span>be/become sweet, good tasting</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Raga</td><td><i>lumu-lumu</i></td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>lumu-lumu</i></td>
 <td>
 '<span>soft</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Tamambo</td><td><i>ma-lu-lum</i></td>
+<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td><i>ma-lu-lum</i></td>
 <td>
 '<span>soft</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>malumu</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>malumu</i></td>
 <td>
 '<span>weak, faint, sick, soft</span>'</td>
 </tr>
@@ -4438,37 +4438,37 @@ Two POc terms, _&ast;[ma]lumu_ and _&ast;ma-luas_, express ‘soft, gentle’.
 '<span>soft (of a substance), calm (of day, sea)</span>' (<span>irregular loss of <em>*-m-</em> in all Polynesian reflexes</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>malū</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>malū</i></td>
 <td>
 '<span>soft, tender, flexible; (weather) mild, pleasantly calm; (pain) abated</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>molū</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>molū</i></td>
 <td>
 '<span>soft, weak, humble</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>malū</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>malū</i></td>
 <td>
 '<span>(substance) soft; (sea +) calm; (voice) bass</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>East Uvean</td><td><i>malū</i></td>
+<td>Pn</td><td><a href="../languages/eastuvean">East Uvean</a></td><td><i>malū</i></td>
 <td>
 '<span>calm, peaceful</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>East Futunan</td><td><i>malū</i></td>
+<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td><i>malū</i></td>
 <td>
 '<span>soft</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>magū</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>magū</i></td>
 <td>
 '<span>be soft, be slack</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tahitian</td><td><i>marū</i></td>
+<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td><i>marū</i></td>
 <td>
 '<span>soft, gentle, easy</span>'</td>
 </tr>
@@ -4489,67 +4489,67 @@ Two POc terms, _&ast;[ma]lumu_ and _&ast;ma-luas_, express ‘soft, gentle’.
 '<span>soft</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Sio</td><td><i>malɒe</i></td>
+<td>NNG</td><td><a href="../languages/sio">Sio</a></td><td><i>malɒe</i></td>
 <td>
 '<span>limp, squishy, soft</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Notsi</td><td><i>məlus</i></td>
+<td>MM</td><td><a href="../languages/notsi">Notsi</a></td><td><i>məlus</i></td>
 <td>
 '<span>soft</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Konomala</td><td><i>ma-mlas</i></td>
+<td>MM</td><td><a href="../languages/konomala">Konomala</a></td><td><i>ma-mlas</i></td>
 <td>
 '<span>soft</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Siar</td><td><i>ma-maluas</i></td>
+<td>MM</td><td><a href="../languages/siar">Siar</a></td><td><i>ma-maluas</i></td>
 <td>
 '<span>soft</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Ramoaaina</td><td><i>məl-məluə</i></td>
+<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>məl-məluə</i></td>
 <td>
 '<span>soft</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nehan</td><td><i>mal-malua-n</i></td>
+<td>MM</td><td><a href="../languages/nehan">Nehan</a></td><td><i>mal-malua-n</i></td>
 <td>
 '<span>soft</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>malua</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>malua</i></td>
 <td>
 '<span>soft</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>'Are'are</td><td><i>mārū-rū</i></td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>mārū-rū</i></td>
 <td>
 '<span>soft, gentle, flexible</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Ponapean</td><td><i>malu-n</i></td>
+<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td><i>malu-n</i></td>
 <td>
 '<span>calm, of the sea</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Mokilese</td><td><i>molu-n</i></td>
+<td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td><i>molu-n</i></td>
 <td>
 '<span>calm or fine, of weather</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Mortlockese</td><td><i>maləwa-ləw</i></td>
+<td>Mic</td><td><a href="../languages/mortlockese">Mortlockese</a></td><td><i>maləwa-ləw</i></td>
 <td>
 '<span>peaceful</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Puluwatese</td><td><i>malɨwa-lɨ</i></td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>malɨwa-lɨ</i></td>
 <td>
 '<span>to be easy or slow, to be calm (as the sea), to be gentle</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>mālua</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>mālua</i></td>
 <td>
 '<span>gently, slowly, quietly</span>'</td>
 </tr>
@@ -4583,107 +4583,107 @@ Three terms meaning ‘full’ are reconstructable. The first, _&ast;ponuq_, is 
 '<span>full</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Bariai</td><td><i>-won</i></td>
+<td>NNG</td><td><a href="../languages/bariai">Bariai</a></td><td><i>-won</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>NNG</td><td>Lukep</td><td><i>-pon</i></td>
+<td>NNG</td><td><a href="../languages/lukep">Lukep</a></td><td><i>-pon</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>NNG</td><td>Poeng</td><td><i>ponu</i></td>
+<td>NNG</td><td><a href="../languages/poeng">Poeng</a></td><td><i>ponu</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>NNG</td><td>Wogeo</td><td><i>-won</i></td>
+<td>NNG</td><td><a href="../languages/wogeo">Wogeo</a></td><td><i>-won</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>NNG</td><td>Kaiep</td><td><i>-wun</i></td>
+<td>NNG</td><td><a href="../languages/kaiep">Kaiep</a></td><td><i>-wun</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>honu</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>honu</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>PT</td><td>Mekeo</td><td><i>poŋu</i></td>
+<td>PT</td><td><a href="../languages/mekeo">Mekeo</a></td><td><i>poŋu</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>MM</td><td>Bali</td><td><i>vonuku</i></td>
+<td>MM</td><td><a href="../languages/bali">Bali</a></td><td><i>vonuku</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>MM</td><td>Meramera</td><td><i>vonu</i></td>
+<td>MM</td><td><a href="../languages/meramera">Meramera</a></td><td><i>vonu</i></td>
 <td>
 '<span>full; swell</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nakanai</td><td><i>volu</i></td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>volu</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>MM</td><td>Lihir</td><td><i>on</i></td>
+<td>MM</td><td><a href="../languages/lihir">Lihir</a></td><td><i>on</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>MM</td><td>Nehan</td><td><i>won</i></td>
+<td>MM</td><td><a href="../languages/nehan">Nehan</a></td><td><i>won</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>MM</td><td>Mono</td><td><i>honu</i></td>
+<td>MM</td><td><a href="../languages/mono">Mono</a></td><td><i>honu</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>vonu</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>vonu</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>SES</td><td>Talise</td><td><i>vonu</i></td>
+<td>SES</td><td><a href="../languages/talise">Talise</a></td><td><i>vonu</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>SES</td><td>Longgu</td><td><i>vonu</i></td>
+<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td><i>vonu</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>SES</td><td>Kwaio</td><td><i>fonu</i></td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>fonu</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>honu</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>honu</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>NCal</td><td>Nemi</td><td><i>punuk</i></td>
+<td>NCal</td><td><a href="../languages/nemi">Nemi</a></td><td><i>punuk</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Mic</td><td>Kiribatese</td><td><i>on</i></td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>on</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>fonu</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>fonu</i></td>
 <td>
 </td>
 </tr>
@@ -4704,37 +4704,37 @@ Three terms meaning ‘full’ are reconstructable. The first, _&ast;ponuq_, is 
 '<span>full</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Maleu</td><td><i>-uŋ</i></td>
+<td>NNG</td><td><a href="../languages/maleu">Maleu</a></td><td><i>-uŋ</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>NNG</td><td>Silisili</td><td><i>(ri)fuᵑg</i></td>
+<td>NNG</td><td><a href="../languages/silisili">Silisili</a></td><td><i>(ri)fuᵑg</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>NNG</td><td>Sukurum</td><td><i>fuaŋ</i></td>
+<td>NNG</td><td><a href="../languages/sukurum">Sukurum</a></td><td><i>fuaŋ</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>MM</td><td>Lamasong</td><td><i>-uŋ</i></td>
+<td>MM</td><td><a href="../languages/lamasong">Lamasong</a></td><td><i>-uŋ</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>MM</td><td>Patpatar</td><td><i>huŋ</i></td>
+<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td><i>huŋ</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>fuŋu</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>fuŋu</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>SES</td><td>Kwai</td><td><i>fuŋu</i></td>
+<td>SES</td><td><a href="../languages/kwai">Kwai</a></td><td><i>fuŋu</i></td>
 <td>
 </td>
 </tr>
@@ -4749,7 +4749,7 @@ Three terms meaning ‘full’ are reconstructable. The first, _&ast;ponuq_, is 
 <i>&ast;besuR</i>
 </td>
 <td>
-'<span>satisfied from having eaten enough, satiated</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>satisfied from having eaten enough, satiated</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -4761,32 +4761,32 @@ Three terms meaning ‘full’ are reconstructable. The first, _&ast;ponuq_, is 
 '<span>full</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Mussau</td><td><i>pasu</i></td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>pasu</i></td>
 <td>
 '<span>full</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Kara (East)</td><td><i>vəs</i></td>
+<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td><i>vəs</i></td>
 <td>
 '<span>full</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Notsi</td><td><i>us</i></td>
+<td>MM</td><td><a href="../languages/notsi">Notsi</a></td><td><i>us</i></td>
 <td>
 '<span>full</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tabar</td><td><i>vosu</i></td>
+<td>MM</td><td><a href="../languages/tabar">Tabar</a></td><td><i>vosu</i></td>
 <td>
 '<span>full</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Teop</td><td><i>(ha)pus</i></td>
+<td>MM</td><td><a href="../languages/teop">Teop</a></td><td><i>(ha)pus</i></td>
 <td>
 '<span>full</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Maringe</td><td><i>fodu</i></td>
+<td>MM</td><td><a href="../languages/maringe">Maringe</a></td><td><i>fodu</i></td>
 <td>
 '<span>full</span>'</td>
 </tr>
@@ -4809,7 +4809,7 @@ Two terms are reconstructable for ‘hot, warm’, _&ast;[ma]panas_ and _&ast;ma
 <i>&ast;[ma]panas</i>
 </td>
 <td>
-'<span>be/become warm, hot (of fire, sun, fever, water)</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>be/become warm, hot (of fire, sun, fever, water)</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -4821,82 +4821,82 @@ Two terms are reconstructable for ‘hot, warm’, _&ast;[ma]panas_ and _&ast;ma
 '<span>warm, hot</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Mussau</td><td><i>anasa</i></td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>anasa</i></td>
 <td>
 '<span>(s.o.) hot</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kove</td><td><i>wana-wana</i></td>
+<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td><i>wana-wana</i></td>
 <td>
 '<span>(s.o.) hot</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Arove</td><td><i>(ka)wanes</i></td>
+<td>NNG</td><td><a href="../languages/arove">Arove</a></td><td><i>(ka)wanes</i></td>
 <td>
 '<span>(s.o.) hot</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Takia</td><td><i>wanana-n</i></td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>wanana-n</i></td>
 <td>
 '<span>hot</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Numbami</td><td><i>wa-wana</i></td>
+<td>NNG</td><td><a href="../languages/numbami">Numbami</a></td><td><i>wa-wana</i></td>
 <td>
 '<span>hot</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Mapos Buang</td><td><i>vanɛ</i></td>
+<td>NNG</td><td><a href="../languages/maposbuang">Mapos Buang</a></td><td><i>vanɛ</i></td>
 <td>
 '<span>hot</span>'</td>
 </tr>
 <tr>
-<td>SJ</td><td>Sobei</td><td><i>mefna</i></td>
+<td>SJ</td><td><a href="../languages/sobei">Sobei</a></td><td><i>mefna</i></td>
 <td>
 '<span>(s.o.) hot</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tigak</td><td><i>manas</i></td>
+<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td><i>manas</i></td>
 <td>
 '<span>(s.o.) hot</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Maringe</td><td><i>brana</i></td>
+<td>MM</td><td><a href="../languages/maringe">Maringe</a></td><td><i>brana</i></td>
 <td>
 '<span>hot</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Longgu</td><td><i>pa-pana</i></td>
+<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td><i>pa-pana</i></td>
 <td>
 '<span>be warm</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Bauro</td><td><i>mahana-hana</i></td>
+<td>SES</td><td><a href="../languages/bauro">Bauro</a></td><td><i>mahana-hana</i></td>
 <td>
 '<span>hot</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Kwamera</td><td><i>-(a)pʷan-(a)pʷan</i></td>
+<td>SV</td><td><a href="../languages/kwamera">Kwamera</a></td><td><i>-(a)pʷan-(a)pʷan</i></td>
 <td>
 '<span>hot</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Anejom</td><td><i>(a)hen-hen</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>(a)hen-hen</i></td>
 <td>
 '<span>warm, hot</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Rotuman</td><td><i>mah-mahana</i></td>
+<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td><i>mah-mahana</i></td>
 <td>
 '<span>warm</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>māfana</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>māfana</i></td>
 <td>
 '<span>warm</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>māfana-fana</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>māfana-fana</i></td>
 <td>
 '<span>warm</span>'</td>
 </tr>
@@ -4914,7 +4914,7 @@ Two terms are reconstructable for ‘hot, warm’, _&ast;[ma]panas_ and _&ast;ma
 <i>&ast;maN-qinit</i>
 </td>
 <td>
-'<span>hot, warm</span>' (<span>*qinit ‘heat, warmth’</span>) (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>hot, warm</span>' (<span>*qinit ‘heat, warmth’</span>) (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -4926,12 +4926,12 @@ Two terms are reconstructable for ‘hot, warm’, _&ast;[ma]panas_ and _&ast;ma
 '<span>(?) become hot, warm</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Roviana</td><td><i>maŋini</i></td>
+<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td><i>maŋini</i></td>
 <td>
 '<span>warm</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Hoava</td><td><i>maŋini</i></td>
+<td>MM</td><td><a href="../languages/hoava">Hoava</a></td><td><i>maŋini</i></td>
 <td>
 '<span>warm</span>'</td>
 </tr>
@@ -4961,62 +4961,62 @@ The other cognate set meaning ‘cold’ appears to reflect both _&ast;malaso_ �
 '<span>(s.o.) cold</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Mutu</td><td><i>marir</i></td>
+<td>NNG</td><td><a href="../languages/mutu">Mutu</a></td><td><i>marir</i></td>
 <td>
 '<span>(s.o.) cold</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Apalik</td><td><i>miri-n</i></td>
+<td>NNG</td><td><a href="../languages/apalik">Apalik</a></td><td><i>miri-n</i></td>
 <td>
 '<span>(s.o.) cold</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Bebeli</td><td><i>merir</i></td>
+<td>NNG</td><td><a href="../languages/bebeli">Bebeli</a></td><td><i>merir</i></td>
 <td>
 '<span>(s.o.) cold</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kaulong</td><td><i>ŋlik</i></td>
+<td>NNG</td><td><a href="../languages/kaulong">Kaulong</a></td><td><i>ŋlik</i></td>
 <td>
 '<span>cold</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Poeng</td><td><i>ma-mariri</i></td>
+<td>NNG</td><td><a href="../languages/poeng">Poeng</a></td><td><i>ma-mariri</i></td>
 <td>
 '<span>(s.o.) cold</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kaiep</td><td><i>marir</i></td>
+<td>NNG</td><td><a href="../languages/kaiep">Kaiep</a></td><td><i>marir</i></td>
 <td>
 '<span>(s.o.) cold</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kairiru</td><td><i>-mer̃ir̃</i></td>
+<td>NNG</td><td><a href="../languages/kairiru">Kairiru</a></td><td><i>-mer̃ir̃</i></td>
 <td>
 '<span>(s.o.) cold</span>'</td>
 </tr>
 <tr>
-<td>SJ</td><td>Kayupulau</td><td><i>mariri-e</i></td>
+<td>SJ</td><td><a href="../languages/kayupulau">Kayupulau</a></td><td><i>mariri-e</i></td>
 <td>
 '<span>(s.o.) cold</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Raga</td><td><i>masisi</i></td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>masisi</i></td>
 <td>
 '<span>cold</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Merlav</td><td><i>marir</i></td>
+<td>NCV</td><td><a href="../languages/merlav">Merlav</a></td><td><i>marir</i></td>
 <td>
 '<span>(s.o.) cold</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kiribatese</td><td><i>mariri</i></td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>mariri</i></td>
 <td>
 '<span>feel cold</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Rotuman</td><td><i>matiti</i></td>
+<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td><i>matiti</i></td>
 <td>
 '<span>cold</span>'</td>
 </tr>
@@ -5034,42 +5034,42 @@ The other cognate set meaning ‘cold’ appears to reflect both _&ast;malaso_ �
 '<span>(s.o.) become cold</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Aua</td><td><i>maxixi</i></td>
+<td>Adm</td><td><a href="../languages/aua">Aua</a></td><td><i>maxixi</i></td>
 <td>
 '<span>cold</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Mondropolon</td><td><i>madri</i></td>
+<td>Adm</td><td><a href="../languages/mondropolon">Mondropolon</a></td><td><i>madri</i></td>
 <td>
 '<span>cold</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Takia</td><td><i>madid</i></td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>madid</i></td>
 <td>
 '<span>(s.o.) cold</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Manam</td><td><i>madidi</i></td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>madidi</i></td>
 <td>
 '<span>cold</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Ulau-Suain</td><td><i>madid</i></td>
+<td>NNG</td><td><a href="../languages/ulausuain">Ulau-Suain</a></td><td><i>madid</i></td>
 <td>
 '<span>(s.o.) cold</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tolai</td><td><i>madiriŋ</i></td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>madiriŋ</i></td>
 <td>
 '<span>cold (water, food)</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Halia</td><td><i>maririŋ</i></td>
+<td>MM</td><td><a href="../languages/halia">Halia</a></td><td><i>maririŋ</i></td>
 <td>
 '<span>(s.o.) cold</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Paamese</td><td><i>madil</i></td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>madil</i></td>
 <td>
 '<span>cold</span>'</td>
 </tr>
@@ -5087,27 +5087,27 @@ The other cognate set meaning ‘cold’ appears to reflect both _&ast;malaso_ �
 '<span>(s.o.) cold</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Notsi</td><td><i>makadil</i></td>
+<td>MM</td><td><a href="../languages/notsi">Notsi</a></td><td><i>makadil</i></td>
 <td>
 '<span>(s.o.) cold</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Bauro</td><td><i>maɣārisi</i></td>
+<td>SES</td><td><a href="../languages/bauro">Bauro</a></td><td><i>maɣārisi</i></td>
 <td>
 '<span>cold</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Tamambo</td><td><i>maɣariri</i></td>
+<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td><i>maɣariri</i></td>
 <td>
 '<span>cold</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>makalili</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>makalili</i></td>
 <td>
 '<span>cold, chilly</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>maʔalili</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>maʔalili</i></td>
 <td>
 '<span>(be) cold</span>'</td>
 </tr>
@@ -5136,52 +5136,52 @@ The other cognate set meaning ‘cold’ appears to reflect both _&ast;malaso_ �
 [N] '<span>cold</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Roinji</td><td><i>malasu(na)</i></td>
+<td>NNG</td><td><a href="../languages/roinji">Roinji</a></td><td><i>malasu(na)</i></td>
 <td>
 '<span>(s.o.) cold</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Wab</td><td><i>malsuŋ</i></td>
+<td>NNG</td><td><a href="../languages/wab">Wab</a></td><td><i>malsuŋ</i></td>
 <td>
 '<span>cold</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Bing</td><td><i>malsoŋ</i></td>
+<td>NNG</td><td><a href="../languages/bing">Bing</a></td><td><i>malsoŋ</i></td>
 <td>
 '<span>cold</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Mindiri</td><td><i>malas</i></td>
+<td>NNG</td><td><a href="../languages/mindiri">Mindiri</a></td><td><i>malas</i></td>
 <td>
 '<span>cold</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Megiar</td><td><i>malas</i></td>
+<td>NNG</td><td><a href="../languages/megiar">Megiar</a></td><td><i>malas</i></td>
 <td>
 '<span>(s.o.) cold</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nehan</td><td><i>malahoŋ</i></td>
+<td>MM</td><td><a href="../languages/nehan">Nehan</a></td><td><i>malahoŋ</i></td>
 <td>
 '<span>(s.o.) cold</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>malaso</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>malaso</i></td>
 <td>
 [N] '<span>cold</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Uripiv</td><td><i>melas</i></td>
+<td>NCV</td><td><a href="../languages/uripiv">Uripiv</a></td><td><i>melas</i></td>
 <td>
 [N] '<span>cold</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Lenakel</td><td><i>mhal</i></td>
+<td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td><i>mhal</i></td>
 <td>
 '<span>have a cold sore</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>S.W. Tanna</td><td><i>(ə)mla</i></td>
+<td>SV</td><td><a href="../languages/swtanna">S.W. Tanna</a></td><td><i>(ə)mla</i></td>
 <td>
 '<span>be cold</span>'</td>
 </tr>
@@ -5207,42 +5207,42 @@ The English words ‘dry’ and ‘wet’ are polysemous. The meanings of ‘dry
 '<span>be wet, soaked, waterlogged</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Bilibil</td><td><i>polo</i></td>
+<td>NNG</td><td><a href="../languages/bilibil">Bilibil</a></td><td><i>polo</i></td>
 <td>
 '<span>wet</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Lavongai</td><td><i>vuluk</i></td>
+<td>MM</td><td><a href="../languages/lavongai">Lavongai</a></td><td><i>vuluk</i></td>
 <td>
 '<span>wet</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Ramoaaina</td><td><i>polo</i></td>
+<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>polo</i></td>
 <td>
 [V] '<span>wet, muddy, swampy</span>'; [N] '<span>liquid, fluid</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>bulu-bulu</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>bulu-bulu</i></td>
 <td>
 '<span>be sticky, gluey, adhesive, cloggy, e.g. of clay or cloggy soil, too wet and lumpy to dig</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>(faka)pulu</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>(faka)pulu</i></td>
 <td>
 '<span>steep in water, ferment</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Mangareva</td><td><i>puru</i></td>
+<td>Pn</td><td><a href="../languages/mangareva">Mangareva</a></td><td><i>puru</i></td>
 <td>
 '<span>soaked</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tahitian</td><td><i>puru</i></td>
+<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td><i>puru</i></td>
 <td>
 '<span>soaked, waterlogged</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Hawaiian</td><td><i>pulu</i></td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>pulu</i></td>
 <td>
 '<span>soaked</span>'</td>
 </tr>
@@ -5250,7 +5250,7 @@ The English words ‘dry’ and ‘wet’ are polysemous. The meanings of ‘dry
 
 
 
-The most widely reflected POc term with a ‘dry’ meaning is _&ast;[ma]maca_, which denoted states in which otherwise present liquid was absent. Thus it was used among other things of food which had dried up through overcooking and of low tide (Ch. 4, §2.6). POc _&ast;[ma](r,R)aŋo_ ‘wither, dry up’ referred particularly to the dryness of dying vegetation and meant ‘withered, dry’ (vol. 1, p.135).
+The most widely reflected POc term with a ‘dry’ meaning is _&ast;[ma]maca_, which denoted states in which otherwise present liquid was absent. Thus it was used among other things of food which had dried up through overcooking and of low tide ([Ch. 4, §2.6](../contributions/2-4#s-2-6)). POc _&ast;[ma](r,R)aŋo_ ‘wither, dry up’ referred particularly to the dryness of dying vegetation and meant ‘withered, dry’ (vol. 1, p.135).
 
 POc _&ast;karaŋo_ is obviously formally related to _&ast;[ma]raŋo_, but its reflexes display the meanings both of this and of _&ast;[ma]maca_. POc _&ast;goRu_ appears to have been a synonym of _&ast;[ma](r,R)aŋo_.
 
@@ -5272,157 +5272,157 @@ POc _&ast;karaŋo_ is obviously formally related to _&ast;[ma]raŋo_, but its re
 [V] '<span>dry up, evaporate, be empty of liquid</span>'; [N] '<span>low tide</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Aua</td><td><i>mamaha</i></td>
+<td>Adm</td><td><a href="../languages/aua">Aua</a></td><td><i>mamaha</i></td>
 <td>
 '<span>dry</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kove</td><td><i>mamasa</i></td>
+<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td><i>mamasa</i></td>
 <td>
 '<span>dry</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Mutu</td><td><i>mamas</i></td>
+<td>NNG</td><td><a href="../languages/mutu">Mutu</a></td><td><i>mamas</i></td>
 <td>
 '<span>(food +) dry up</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Mangap</td><td><i>mamāza-ŋana</i></td>
+<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td><i>mamāza-ŋana</i></td>
 <td>
 '<span>dry</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Tami</td><td><i>mamat</i></td>
+<td>NNG</td><td><a href="../languages/tami">Tami</a></td><td><i>mamat</i></td>
 <td>
 '<span>dry</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Roinji</td><td><i>mamasa-na</i></td>
+<td>NNG</td><td><a href="../languages/roinji">Roinji</a></td><td><i>mamasa-na</i></td>
 <td>
 '<span>dry</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Bing</td><td><i>mas-mamasa</i></td>
+<td>NNG</td><td><a href="../languages/bing">Bing</a></td><td><i>mas-mamasa</i></td>
 <td>
 '<span>low tide</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Bing</td><td><i>mamsa-s</i></td>
+<td>NNG</td><td><a href="../languages/bing">Bing</a></td><td><i>mamsa-s</i></td>
 <td>
 '<span>dry</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Numbami</td><td><i>mamasa</i></td>
+<td>NNG</td><td><a href="../languages/numbami">Numbami</a></td><td><i>mamasa</i></td>
 <td>
 '<span>dry</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Wogeo</td><td><i>mamasa</i></td>
+<td>NNG</td><td><a href="../languages/wogeo">Wogeo</a></td><td><i>mamasa</i></td>
 <td>
 '<span>dry</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kairiru</td><td><i>-mamas</i></td>
+<td>NNG</td><td><a href="../languages/kairiru">Kairiru</a></td><td><i>-mamas</i></td>
 <td>
 '<span>dry</span>'</td>
 </tr>
 <tr>
-<td>SJ</td><td>Kayupulau</td><td><i>mamaxe</i></td>
+<td>SJ</td><td><a href="../languages/kayupulau">Kayupulau</a></td><td><i>mamaxe</i></td>
 <td>
 '<span>dry</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Gumawana</td><td><i>mamaya</i></td>
+<td>PT</td><td><a href="../languages/gumawana">Gumawana</a></td><td><i>mamaya</i></td>
 <td>
 '<span>low tide, shore</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Meramera</td><td><i>mamasa</i></td>
+<td>MM</td><td><a href="../languages/meramera">Meramera</a></td><td><i>mamasa</i></td>
 <td>
 '<span>low tide</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Lihir</td><td><i>mas</i></td>
+<td>MM</td><td><a href="../languages/lihir">Lihir</a></td><td><i>mas</i></td>
 <td>
 '<span>(food +) dry up</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Patpatar</td><td><i>mamasa</i></td>
+<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td><i>mamasa</i></td>
 <td>
 '<span>dry</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tolai</td><td><i>mamā</i></td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>mamā</i></td>
 <td>
 '<span>lowtide</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Siar</td><td><i>mas-mas</i></td>
+<td>MM</td><td><a href="../languages/siar">Siar</a></td><td><i>mas-mas</i></td>
 <td>
 '<span>(food +) dry up; low tide</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Roviana</td><td><i>masa</i></td>
+<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td><i>masa</i></td>
 <td>
 '<span>lowtide</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>mamaha</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>mamaha</i></td>
 <td>
 '<span>dry</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>mamata</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>mamata</i></td>
 <td>
 '<span>dry</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Raga</td><td><i>mamaha</i></td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>mamaha</i></td>
 <td>
 '<span>dry</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Ambae</td><td><i>mamaha</i></td>
+<td>NCV</td><td><a href="../languages/ambae">Ambae</a></td><td><i>mamaha</i></td>
 <td>
 '<span>be/become dry</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Tamambo</td><td><i>mamasa</i></td>
+<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td><i>mamasa</i></td>
 <td>
 '<span>dry (of ground +)</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Paamese</td><td><i>mes</i></td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>mes</i></td>
 <td>
 '<span>dry</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>maða</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>maða</i></td>
 <td>
 '<span>be empty, be dry</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>mamaða</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>mamaða</i></td>
 <td>
 '<span>dry, be dry</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>N. Tanna</td><td><i>mas</i></td>
+<td>SV</td><td><a href="../languages/ntanna">N. Tanna</a></td><td><i>mas</i></td>
 <td>
 '<span>lowtide</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Kwamera</td><td><i>maha</i></td>
+<td>SV</td><td><a href="../languages/kwamera">Kwamera</a></td><td><i>maha</i></td>
 <td>
 '<span>lowtide, empty of liquid</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>mamaha</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>mamaha</i></td>
 <td>
 '<span>lowtide</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>masa</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>masa</i></td>
 <td>
 '<span>be shallow</span>'</td>
 </tr>
@@ -5450,7 +5450,7 @@ POc _&ast;[ma-](r,R)aŋo_ displays a phonological problem. Apparent non-Oceanic 
 <i>&ast;[ma]Raŋuʔ</i>
 </td>
 <td>
-'<span>dry</span>' (<a href="../references.md#source-Blust1981b">Blust1981b</a>; <a href="../references.md#source-Blust1986">Blust1986</a>)
+'<span>dry</span>' (<a href="../sources/Blust1981b">Blust1981b</a>; <a href="../sources/Blust1986">Blust1986</a>)
 </td>
 </tr>
 <tr>
@@ -5462,72 +5462,72 @@ POc _&ast;[ma-](r,R)aŋo_ displays a phonological problem. Apparent non-Oceanic 
 '<span>become withered (of vegetation)</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Mussau</td><td><i>malaŋo</i></td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>malaŋo</i></td>
 <td>
 '<span>dry</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Manam</td><td><i>maraŋo</i></td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>maraŋo</i></td>
 <td>
 '<span>dry, arid</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kairiru</td><td><i>maraŋ</i></td>
+<td>NNG</td><td><a href="../languages/kairiru">Kairiru</a></td><td><i>maraŋ</i></td>
 <td>
 '<span>ripe coconut</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nalik</td><td><i>maraŋ</i></td>
+<td>MM</td><td><a href="../languages/nalik">Nalik</a></td><td><i>maraŋ</i></td>
 <td>
 '<span>ripe coconut</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Susurunga</td><td><i>maraŋ</i></td>
+<td>MM</td><td><a href="../languages/susurunga">Susurunga</a></td><td><i>maraŋ</i></td>
 <td>
 '<span>(be) old, dry; (old) coconut with lots of meat and little milk</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Patpatar</td><td><i>maraŋa</i></td>
+<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td><i>maraŋa</i></td>
 <td>
 '<span>dry coconut</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tolai</td><td><i>ma-raŋa</i></td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>ma-raŋa</i></td>
 <td>
 '<span>withered, dry (leaves, husk, tree)</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Selau</td><td><i>raŋo</i></td>
+<td>MM</td><td><a href="../languages/selau">Selau</a></td><td><i>raŋo</i></td>
 <td>
 '<span>dry</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Bugotu</td><td><i>raŋo</i></td>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>raŋo</i></td>
 <td>
 '<span>wither (leaves, yam vines)</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>raŋo</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>raŋo</i></td>
 <td>
 '<span>be withered, dry (esp. yams when vine withers)</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>raŋo</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>raŋo</i></td>
 <td>
 '<span>withered, dead (of grass, green boughs +)</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>raŋo</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>raŋo</i></td>
 <td>
 '<span>become dried up in the course of nature</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>maŋo</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>maŋo</i></td>
 <td>
 '<span>dry up; be dry (of wood, clothes)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>maŋo</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>maŋo</i></td>
 <td>
 '<span>dry (of wood, trees)</span>'</td>
 </tr>
@@ -5548,22 +5548,22 @@ POc _&ast;[ma-](r,R)aŋo_ displays a phonological problem. Apparent non-Oceanic 
 '<span>be dry; be low tide</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Yabem</td><td><i>(ŋa)kɛlɛŋ</i></td>
+<td>NNG</td><td><a href="../languages/yabem">Yabem</a></td><td><i>(ŋa)kɛlɛŋ</i></td>
 <td>
 '<span>dry (of a cloth etc)</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Zabana</td><td><i>karaŋo</i></td>
+<td>MM</td><td><a href="../languages/zabana">Zabana</a></td><td><i>karaŋo</i></td>
 <td>
 '<span>be dry; be low tide</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>karaŋo</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>karaŋo</i></td>
 <td>
 '<span>dry up; reef, low tide, harvest time</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lengo</td><td><i>karaŋo</i></td>
+<td>SES</td><td><a href="../languages/lengo">Lengo</a></td><td><i>karaŋo</i></td>
 <td>
 '<span>low tide</span>'</td>
 </tr>
@@ -5578,41 +5578,41 @@ POc _&ast;[ma-](r,R)aŋo_ displays a phonological problem. Apparent non-Oceanic 
 <i>&ast;goRu</i>
 </td>
 <td>
-'<span>dry, of vegetation; coconut growth stage 8: dry and ready to fall</span>' (<a href="../references.md#source-Ross1996d">Ross1996d</a>)
+'<span>dry, of vegetation; coconut growth stage 8: dry and ready to fall</span>' (<a href="../sources/Ross1996d">Ross1996d</a>)
 </td>
 </tr>
 <tr>
-<td>NNG</td><td>Mutu</td><td><i>gor-gori</i></td>
+<td>NNG</td><td><a href="../languages/mutu">Mutu</a></td><td><i>gor-gori</i></td>
 <td>
 '<span>dry</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Malai</td><td><i>gor-gori</i></td>
+<td>NNG</td><td><a href="../languages/malai">Malai</a></td><td><i>gor-gori</i></td>
 <td>
 '<span>dry, ripe coconut</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Mamusi</td><td><i>kolu-ŋana</i></td>
+<td>NNG</td><td><a href="../languages/mamusi">Mamusi</a></td><td><i>kolu-ŋana</i></td>
 <td>
 '<span>ripe coconut</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lengo</td><td><i>golu</i></td>
+<td>SES</td><td><a href="../languages/lengo">Lengo</a></td><td><i>golu</i></td>
 <td>
 '<span>coconut flesh</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>kor</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>kor</i></td>
 <td>
 '<span>become dry, with heat or time; coconut in its last condition before it falls from the tree; dry (of other things too)</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Tamambo</td><td><i>koru</i></td>
+<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td><i>koru</i></td>
 <td>
 '<span>dry, dying (of tree)</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Raga</td><td><i>ᵑgoru</i></td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>ᵑgoru</i></td>
 <td>
 '<span>dry</span>'</td>
 </tr>
@@ -5627,11 +5627,11 @@ POc _&ast;[ma-](r,R)aŋo_ displays a phonological problem. Apparent non-Oceanic 
 
 [^2]: These include natural states, e.g. ‘raw’/‘unripe’ (vol. 1, p.155), ‘ripe’ (vol. 1, p.157), ‘rotten’, and physical conditions of animate beings: (e.g. ‘alive’, ‘dead’, ‘healthy’, ‘sick’, ‘hungry’, ‘thirsty’).
 
-[^3]: The story of _&ast;ma-_ in [Evans and Ross](../references.md#source-EvansandRoss2001) ([2001](../references.md#source-EvansandRoss2001)) is better founded than that in vol. 1, p.25.
+[^3]: The story of _&ast;ma-_ in [Evans and Ross](../sources/EvansandRoss2001) ([2001](../sources/EvansandRoss2001)) is better founded than that in vol. 1, p.25.
 
-[^4]: This circumstance is discussed at length by [Evans and Ross](../references.md#source-EvansandRoss2001) ([2001](../references.md#source-EvansandRoss2001)).
+[^4]: This circumstance is discussed at length by [Evans and Ross](../sources/EvansandRoss2001) ([2001](../sources/EvansandRoss2001)).
 
-[^5]: At a very early period (PAn/PMP), _&ast;ka-_ was a morpheme that derived statives, whilst _&ast;ma-_ was the corresponding finite form (from _&ast;‹um›_ + _&ast;ka-_; with regard to _&ast;‹um›_ see vol. 1, p.29). Thus [Huang](../references.md#source-Huang2000) ([2000](../references.md#source-Huang2000):378) shows that in Mayrinax Atayal (Formosan) statives that take _ma-_ in their declarative affirmative form take _&ast;ka-_ in their negative form. [Zeitoun and Huang](../references.md#source-ZeitounandHuang2000) ([2000](../references.md#source-ZeitounandHuang2000)) show that in Pazeh, _ma-_ statives have _ka-_ in the irrealis (p.402), the imperative (p.406), and in non-‘actor’ focus forms of statives, e.g. _ka-kelem-an_ ‘be oversalted (of cooked food)’ vs _ma-kelem_ ‘be salty’ (p.407).
+[^5]: At a very early period (PAn/PMP), _&ast;ka-_ was a morpheme that derived statives, whilst _&ast;ma-_ was the corresponding finite form (from _&ast;‹um›_ + _&ast;ka-_; with regard to _&ast;‹um›_ see vol. 1, p.29). Thus [Huang](../sources/Huang2000) ([2000](../sources/Huang2000):378) shows that in Mayrinax Atayal (Formosan) statives that take _ma-_ in their declarative affirmative form take _&ast;ka-_ in their negative form. [Zeitoun and Huang](../sources/ZeitounandHuang2000) ([2000](../sources/ZeitounandHuang2000)) show that in Pazeh, _ma-_ statives have _ka-_ in the irrealis (p.402), the imperative (p.406), and in non-‘actor’ focus forms of statives, e.g. _ka-kelem-an_ ‘be oversalted (of cooked food)’ vs _ma-kelem_ ‘be salty’ (p.407).
 
 [^6]: For Tigak and W. Kara the interstages _&ast;-pʷu-_, then _&ast;-bu-_ must be posited. For Bauan, where we find levu for expected _&ast;&ast;lavua_, we must infer irregular raising of _&ast;-a-_ to _-e-_ and loss of later final _&ast;-a_.
 
@@ -5639,7 +5639,7 @@ POc _&ast;[ma-](r,R)aŋo_ displays a phonological problem. Apparent non-Oceanic 
 
 [^8]: Tongan and E. Uvean _-siʔi_ would reflect apparent PPn _&ast;tiqi_, and are therefore perhaps metathesised reflexes of PPn _&ast;qiti_.
 
-[^9]: This differs from the possessive-like attribute constructions reconstructed by [Ross](../references.md#source-Ross1998b) ([1998b](../references.md#source-Ross1998b)). There, the possessor is non-specific; here the possessor is apparently specific.
+[^9]: This differs from the possessive-like attribute constructions reconstructed by [Ross](../sources/Ross1998b) ([1998b](../sources/Ross1998b)). There, the possessor is non-specific; here the possessor is apparently specific.
 
 [^10]: A PMP form with &ast;ma- is reflected by Palawan mblaŋkbw, Molbog molaŋkow, and Uma molaŋko, all ‘tall’ (data from Tryon, ed. 1995).
 
@@ -5649,7 +5649,7 @@ POc _&ast;[ma-](r,R)aŋo_ displays a phonological problem. Apparent non-Oceanic 
 
 [^13]: The reconstruction of PMP _&ast;tipis_ ‘thin’ is supported by the Oceanic data listed here and by Indonesian, Javanese and Balinese _tipis_ ‘thin’.
 
-[^14]: [Tsuchida](../references.md#source-Tsuchida1976) ([1976](../references.md#source-Tsuchida1976):139) reconstructs PAn _&ast;Nix1epis_, in the orthography of [Ross](../references.md#source-Ross1992) ([1992](../references.md#source-Ross1992)) _&ast;Lihepis_. However, the only reflex of _&ast;-h-_ occurs in Saisiat (Taiwan) _lih-lihpih-an_, which may be the result of modifying _&ast;-li-_ to rhyme with _&ast;-pih_. Accordingly I reconstruct PAn _&ast;Lipis_, PMP _&ast;nipis_.
+[^14]: [Tsuchida](../sources/Tsuchida1976) ([1976](../sources/Tsuchida1976):139) reconstructs PAn _&ast;Nix1epis_, in the orthography of [Ross](../sources/Ross1992) ([1992](../sources/Ross1992)) _&ast;Lihepis_. However, the only reflex of _&ast;-h-_ occurs in Saisiat (Taiwan) _lih-lihpih-an_, which may be the result of modifying _&ast;-li-_ to rhyme with _&ast;-pih_. Accordingly I reconstruct PAn _&ast;Lipis_, PMP _&ast;nipis_.
 
 [^15]: This form is always suffixed to a classifier.
 
@@ -5657,11 +5657,11 @@ POc _&ast;[ma-](r,R)aŋo_ displays a phonological problem. Apparent non-Oceanic 
 
 [^17]: Blust (ACD) attributes these reflexes to _&ast;waRi_ ‘past (of time)’, but the current attribution is better supported by the set as a whole.
 
-[^18]: [Lichtenberk](../references.md#source-Lichtenberk1983) ([1983](../references.md#source-Lichtenberk1983):611) was offered the apparent nonce form _taʔe-taʔe_, from _taʔe_ ‘faeces’ in Manam, when he asked an informant to identify a particular shade of brown.
+[^18]: [Lichtenberk](../sources/Lichtenberk1983) ([1983](../sources/Lichtenberk1983):611) was offered the apparent nonce form _taʔe-taʔe_, from _taʔe_ ‘faeces’ in Manam, when he asked an informant to identify a particular shade of brown.
 
 [^19]: I have corrected Blust’s Mussau data on the basis of materials provided by John Brownie of the Summer Institute of Linguistics.
 
-[^20]: Blust’s 24-language survey suggests that property terms other than colour terms are only rarely reduplicated. This corroborates the research underlying [Ross](../references.md#source-Ross1998a) ([1998a](../references.md#source-Ross1998a)), where the only languages with a strong tendency to reduplicate property terms are those in Western Oceanic which have innovated a distinct adjective class.
+[^20]: Blust’s 24-language survey suggests that property terms other than colour terms are only rarely reduplicated. This corroborates the research underlying [Ross](../sources/Ross1998a) ([1998a](../sources/Ross1998a)), where the only languages with a strong tendency to reduplicate property terms are those in Western Oceanic which have innovated a distinct adjective class.
 
 [^21]: The Southeast Solomonic reflexes show unexplained loss of _&ast;k_.
 
@@ -5669,4 +5669,4 @@ POc _&ast;[ma-](r,R)aŋo_ displays a phonological problem. Apparent non-Oceanic 
 
 [^23]: Aua initial _w-_ could reflect either _&ast;mʷ-_ or _&ast;w-_, but I have assumed the Aua reflex to reflect _&ast;mʷane-mʷane_, as this is reflected elsewhere in the Admiralties.
 
-[^24]: In [Ross](../references.md#source-Ross1996d) ([1996d](../references.md#source-Ross1996d)) I reconstructed POc _&ast;[ma]Raŋ(o,u)_ ‘dry; coconut growth stage 8: dry and ready to fall’. However, its POc status rested on Baelelea (SES) _maleŋa_ ‘coconut’. I no longer think this is cognate with the NNG and MM forms which refer to a withered coconut, and take the latter simply to be an extension of meaning of reflexes of _&ast;[ma-](r,R)aŋo_.
+[^24]: In [Ross](../sources/Ross1996d) ([1996d](../sources/Ross1996d)) I reconstructed POc _&ast;[ma]Raŋ(o,u)_ ‘dry; coconut growth stage 8: dry and ready to fall’. However, its POc status rested on Baelelea (SES) _maleŋa_ ‘coconut’. I no longer think this is cognate with the NNG and MM forms which refer to a withered coconut, and take the latter simply to be an extension of meaning of reflexes of _&ast;[ma-](r,R)aŋo_.

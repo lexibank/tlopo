@@ -17,7 +17,7 @@ The rest of this introduction explains this categorisation. The reader is asked 
 
 One such interaction is illustrated in English sentences with the time adjunct _yesterday_. In _He worked __yesterday___ or _He was sick __yesterday___, the event lasts for a period of time — for all or part of _yesterday_. But in _He came __yesterday___, the event is to all intents and purposes punctiliar and _yesterday_ is construed as a point in time.[^1] Because many time expressions can be construed as denoting either a point of time or a period of time, no attempt is made under 1 to distinguish between points and periods: both are treated simply as ‘times’.
 
-There is a clear distinction, however, between the time expressions in 1 and the duration expressions in 2. A duration expression denotes a period which begins at one point in time and ends at another. Thus I can say _He worked __from midday until midnight___ or _He was sick __from midday until midnight___ but not _&ast;He arrived __from midday until midnight___. Some predicates of punctiliar meaning do co-occur with a duration expression, but the duration enforces a durative or an iterative construal of the predicate. Thus if I say _He came from __midday until midnight___, this is nonsensical as a punctiliar event, but may mean _He came and stayed __from midday until midnight___. If I say _The light flashed __at midnight___ or _The light flashed __until dawn___, it is the adjunct which determines how the predicate is construed. _Flash_ is semantically punctiliar and _at midnight_ is a time which can be read as punctiliar, so the light flashed only once. But _until dawn_ denotes a duration, so _The light flashed_ is construed as being iterative: the light flashed repeatedly ([Jackendoff 1991](../references.md#source-Jackendoff1991):40–42).
+There is a clear distinction, however, between the time expressions in 1 and the duration expressions in 2. A duration expression denotes a period which begins at one point in time and ends at another. Thus I can say _He worked __from midday until midnight___ or _He was sick __from midday until midnight___ but not _&ast;He arrived __from midday until midnight___. Some predicates of punctiliar meaning do co-occur with a duration expression, but the duration enforces a durative or an iterative construal of the predicate. Thus if I say _He came from __midday until midnight___, this is nonsensical as a punctiliar event, but may mean _He came and stayed __from midday until midnight___. If I say _The light flashed __at midnight___ or _The light flashed __until dawn___, it is the adjunct which determines how the predicate is construed. _Flash_ is semantically punctiliar and _at midnight_ is a time which can be read as punctiliar, so the light flashed only once. But _until dawn_ denotes a duration, so _The light flashed_ is construed as being iterative: the light flashed repeatedly ([Jackendoff 1991](../sources/Jackendoff1991):40–42).
 
 The duration expressions in the previous paragraph all entail, explicitly or implicitly (for _until dawn_, see below), a beginning point and an end point, but other duration expressions, are specified as a length of time: _for six nights_ or _for a long time_.
 
@@ -30,7 +30,7 @@ English also has generic time expressions like _in the mornings_ and _on weekday
 
 Implicit in the previous two paragraphs is the fact that some lexical items used in time expressions denote parts of cycles. In English, at least, _midnight_, _morning_ and _six o’clock_ are parts of the cycle represented by a day, _day_ or _Tuesday_ a part of the cycle represented by a week, _Autumn_ or _September_ a part of the cycle represented by a year. Such cycles are the basis of calendars. However, it is important to distinguish between arbitrary and natural calendrical units. Although the western (Gregorian) calendar grew out of a nature-based calendar, its units today are arbitrary in that they have boundaries which bear, at best, a quite indirect relationship to natural cycles. Thus _midnight_, _six o’clock_, _day_ (as a unit stretching from midnight to midnight), _Tuesday_ and _September_ are all arbitrary points or units. Thus a calendrical year begins (arbitrarily) on 1st January and ends on 31st December and is made up of arbitarily named calendrical months that occur in a fixed order. A calendrical month is made up (in the Gregorian calendar) of a predetermined number of sequentially numbered calendrical days.
 
-The only natural units observed on a day-to-day basis by western English-speaking societies in the temperate zones are the seasons. _Autumn_ is a natural unit (for most English-speakers it does not even have clear natural boundaries, but this is a different matter: a natural unit may have a defined boundary, as we will see below). The natural calendrical units that concern us in connection with Oceanic languages are essentially based on four kinds of cycle: horticultural, floral/faunal, meteorological and astronomical. A cyclic unit, incidentally, does not necessarily have defined boundaries. There is a distinction in English between _last year_, where _year_ is a calendrical unit, and _a year ago_, where _year_ is a length of time ([Leech 1969](../references.md#source-Leech1969):113–114). The same can be true of months and days.
+The only natural units observed on a day-to-day basis by western English-speaking societies in the temperate zones are the seasons. _Autumn_ is a natural unit (for most English-speakers it does not even have clear natural boundaries, but this is a different matter: a natural unit may have a defined boundary, as we will see below). The natural calendrical units that concern us in connection with Oceanic languages are essentially based on four kinds of cycle: horticultural, floral/faunal, meteorological and astronomical. A cyclic unit, incidentally, does not necessarily have defined boundaries. There is a distinction in English between _last year_, where _year_ is a calendrical unit, and _a year ago_, where _year_ is a length of time ([Leech 1969](../sources/Leech1969):113–114). The same can be true of months and days.
 
 Absolute time expressions in European languages involve a calendrical unit: _in 1999_ or _on 3rd May 2001_. Traditional Oceanic systems offered no equivalent to these, firstly because there was no labelling of years like _1999_ and secondly because there appears to have been no use of units within units like _on 3rd May 2001_, a day of a month within a month of a labelled year. Traditional labels for months and days were used deictically as described above like _in May_ or _on Tuesday_. This means that pre-contact Oceanic systems had no absolute time expressions.
 
@@ -39,7 +39,7 @@ Some Oceanic speaking communities, especially in Melanesia, apparently had nothi
 
 <a id="p-298"></a>
 
-The implications of this discussion can be a little difficult for a western-trained mind to grasp: the fact that, e.g., a month was a cycle, not a unit, means that months were conceptualised as the passing of cycles, not as collections of countable units. [Whorf](../references.md#source-Whorf1956) ([1956](../references.md#source-Whorf1956):139) says that _ten days_ in English is ‘an “imaginary”, mentally constructed group’— “imaginary” because it ‘cannot be objectively experienced’ like ‘ten men on a street corner’. [Foley](../references.md#source-Foley1997) ([1997](../references.md#source-Foley1997):205) comments on Whorf’s formulation that the use of a plural category to express the repetition of temporal cycles is a metaphorical extension from plural groupings of physical objects. Whorf says that the Hopi do not make this extension: if they count cycles at all, they do it with ordinal numbers: “first day”, “second day”, and so on.[^4] The situation in traditional Oceanic societies seems to have been similar. This extract from an oral account of Takia (Karkar Island, NNG) marriage practices as they were explained by an elderly man in 1987 contains similar insights:[^5]
+The implications of this discussion can be a little difficult for a western-trained mind to grasp: the fact that, e.g., a month was a cycle, not a unit, means that months were conceptualised as the passing of cycles, not as collections of countable units. [Whorf](../sources/Whorf1956) ([1956](../sources/Whorf1956):139) says that _ten days_ in English is ‘an “imaginary”, mentally constructed group’— “imaginary” because it ‘cannot be objectively experienced’ like ‘ten men on a street corner’. [Foley](../sources/Foley1997) ([1997](../sources/Foley1997):205) comments on Whorf’s formulation that the use of a plural category to express the repetition of temporal cycles is a metaphorical extension from plural groupings of physical objects. Whorf says that the Hopi do not make this extension: if they count cycles at all, they do it with ordinal numbers: “first day”, “second day”, and so on.[^4] The situation in traditional Oceanic societies seems to have been similar. This extract from an oral account of Takia (Karkar Island, NNG) marriage practices as they were explained by an elderly man in 1987 contains similar insights:[^5]
 
 > All right, and so they waited—in the old times they didn’t know about years. They always kept time by the moon. Thus when they wanted to set a time—when they wanted to set a time, they mentioned the month. But they also didn’t know the names of the months. The moon waned and waxed, that’s all. They would say the months in this way: they would count the months with their hands, they would count them with their fingers. And then they would say, the month of the little finger will come and will die, the next finger will die, and the next and in the fourth month the man and woman will get married. They said this—well—with regard to their saying that they would marry in four months …
 
@@ -47,12 +47,12 @@ An English time adjunct may interact with the the tense of the predicate. In the
 
 Aspect and mood categories are more widely distributed across major Oceanic subgroups than tense categories, and it is therefore probable that POc lacked tense but made extensive use of aspect and mood. Aspect included continuative/habitual, probably marked by reduplication of the verb stem, and completive (perhaps expressed by a serial verb construction ending in the verb ‘finish’). Mood distinguished realis and irrealis. Realis was used for past and present events considered to have occurred or to be occurring, irrealis for future events and all events considered not to have actually occurred (e.g. conditionals). From the lack of tense, we might expect temporal direction to be marked more often on time expressions than it is in English, and this is true in that the temporal prefix _&ast;na-_ marks an expression as past (p.324).
 
-Much play has been made in the linguistic literature of the idea that by metaphorical extension spatial relations form the model for other grammatical patterns ([Gruber 1965](../references.md#source-Gruber1965), [Anderson 1971](../references.md#source-Anderson1971), [Jackendoff 1976](../references.md#source-Jackendoff1976), [1983](../references.md#source-Jackendoff1983), [1991](../references.md#source-Jackendoff1991), [1992](../references.md#source-Jackendoff1992)). This has often been emphasised with regard to time ([H. Clark 1973](../references.md#source-HClark1973), [Jackendoff 1983](../references.md#source-Jackendoff1983):189–193, [Jackendoff 1992](../references.md#source-Jackendoff1992)). However, when we examine the parallels between space and time in English (_at the corner_/ _at six o’clock_, _in Canberra_/_in 1999_, _from Sydney to Canberra_/_from Tuesday to Thursday_), then look for them in Oceanic languages, we find that they do not loom nearly as large in Oceania because so many English parallels depend on the use of calendrical units. Even so, there are some parallels between space and time in Oceanic languages.
+Much play has been made in the linguistic literature of the idea that by metaphorical extension spatial relations form the model for other grammatical patterns ([Gruber 1965](../sources/Gruber1965), [Anderson 1971](../sources/Anderson1971), [Jackendoff 1976](../sources/Jackendoff1976), [1983](../sources/Jackendoff1983), [1991](../sources/Jackendoff1991), [1992](../sources/Jackendoff1992)). This has often been emphasised with regard to time ([H. Clark 1973](../sources/HClark1973), [Jackendoff 1983](../sources/Jackendoff1983):189–193, [Jackendoff 1992](../sources/Jackendoff1992)). However, when we examine the parallels between space and time in English (_at the corner_/ _at six o’clock_, _in Canberra_/_in 1999_, _from Sydney to Canberra_/_from Tuesday to Thursday_), then look for them in Oceanic languages, we find that they do not loom nearly as large in Oceania because so many English parallels depend on the use of calendrical units. Even so, there are some parallels between space and time in Oceanic languages.
 
 
 <a id="p-299"></a>
 
-Semantically, there is an analogy between the spatial domain and the temporal domain, if we take it that time is a line running from past to future through a deictic point, usually the time of speaking. However, the analogy is limited: space is three-dimensional, but time is only a single dimension. In this analogy, there are parallels between a specific location and a specific time, between generic location (‘at home’) and generic time (‘at night’), and between a path (‘from Sydney to Canberra’) and a duration (‘from midday until midnight’). These parallels are realised in Oceanic languages by the use of similar grammar for both domains (pp.320–321). More specifically, there is a deictic parallel between ‘here’ and ‘now’, but other deictic parallels are less obvious, especially in Oceania, where spatial deixis tends to be person-oriented (Ch. 8, §3.4.1).[^6] There is also a parallel between temporal directionality (past vs future) and geographic (e.g. ‘seawards’ vs ‘inland’, ‘up’ vs ‘down’) or intrinsic directionality (e.g. ‘to the back’ vs ‘to the front’), as well as between temporal distance (‘long ago’) and spatial distance (‘far away’). However, the distance parallels are limited, as expressions of spatial distance do not also involve direction, whereas expressions of temporal distance typically include past or future denotation (‘earlier’/‘later’). The spatial domain typically lacks anything analogous to the lexicalisation of temporal distances or times within natural cycles (‘today’ vs ‘yesterday’ vs ‘tomorrow’, ‘midnight’ vs ‘morning’ vs ’midday’).
+Semantically, there is an analogy between the spatial domain and the temporal domain, if we take it that time is a line running from past to future through a deictic point, usually the time of speaking. However, the analogy is limited: space is three-dimensional, but time is only a single dimension. In this analogy, there are parallels between a specific location and a specific time, between generic location (‘at home’) and generic time (‘at night’), and between a path (‘from Sydney to Canberra’) and a duration (‘from midday until midnight’). These parallels are realised in Oceanic languages by the use of similar grammar for both domains (pp.320–321). More specifically, there is a deictic parallel between ‘here’ and ‘now’, but other deictic parallels are less obvious, especially in Oceania, where spatial deixis tends to be person-oriented ([Ch. 8, §3.4.1](../contributions/2-8#s-3-4-1)).[^6] There is also a parallel between temporal directionality (past vs future) and geographic (e.g. ‘seawards’ vs ‘inland’, ‘up’ vs ‘down’) or intrinsic directionality (e.g. ‘to the back’ vs ‘to the front’), as well as between temporal distance (‘long ago’) and spatial distance (‘far away’). However, the distance parallels are limited, as expressions of spatial distance do not also involve direction, whereas expressions of temporal distance typically include past or future denotation (‘earlier’/‘later’). The spatial domain typically lacks anything analogous to the lexicalisation of temporal distances or times within natural cycles (‘today’ vs ‘yesterday’ vs ‘tomorrow’, ‘midnight’ vs ‘morning’ vs ’midday’).
 
 The remainder of this chapter is devoted to reconstructing temporal expressions. It is organised on the basis of the listing under ‘Time’, part A, of the list above. Part B of that list deals with duration. One would expect most duration expressions to be expressed grammatically, and at most a few like ‘for a little while’ and ‘for a long time’ to be lexicalised. However, I have been unable to reconstruct any lexicalised POc duration expressions. I have attempted to find a term for ‘time’ in the sense of duration (as in ‘for a long time’). Oceanic languages clearly have terms with this meanings, but they do not form a cognate set. A number of languages, however, use the reflex of POc _&ast;boŋi_ (p.305) in this sense, and it is possible that this was a POc usage too.
 
@@ -303,7 +303,7 @@ A reconstructable taxonomy for POc is given below (the word-class labels are non
                            from about 3 p.m. to sunset’
 ```
 
-[Pawley](../references.md#source-Pawleynd) ([n.d.](../references.md#source-Pawleynd)) notes an idiomatic construction in which at least some of these terms co- occurred with POc _&ast;panua_ which, among other things, meant ‘the visible world, land and sky’ (vol. 1, p.62). The combination of _&ast;panua_ and _&ast;boŋi_, probably as a verb, is reflected in:
+[Pawley](../sources/Pawleynd) ([n.d.](../sources/Pawleynd)) notes an idiomatic construction in which at least some of these terms co- occurred with POc _&ast;panua_ which, among other things, meant ‘the visible world, land and sky’ (vol. 1, p.62). The combination of _&ast;panua_ and _&ast;boŋi_, probably as a verb, is reflected in:
 
 ```
   Motu (PT)                hanua-boi ‘night’
@@ -321,7 +321,11 @@ Presumably the combination meant something like ‘the world is becoming dark’
   Rotuman (Fij)           hanua ran ‘daylight, dawn’ (< POc &ast;raqani)
 ```
 
-9.2.2.1 Night
+
+<a id="s-2-2-1"></a>
+
+### 2.2.1 Night
+
 
 POc _&ast;boŋi_ ‘night’ also meant ‘day of twenty-four hours’, to judge from the widely scattered reflexes with this meaning (see below NNG: Manam, Poeng; MM: Tolai; SES: Gela, Lau; NCV: Tamambo, Nokuku, Uripiv, Port Sandwich, Lonwolwol; Mic: Kiribatese; Pn: Samoan, Tuvalu, Nanumean, Rennellese, Hawaiian, Marquesan). Blust (ACD) notes that PMP _&ast;beRŋi_ is also reconstructable with both senses. The dual sense is not surprising: in European languages ‘day’ serves in the same way.
 
@@ -334,7 +338,7 @@ All Polynesian reflexes point back to PPn _&ast;pō_ (for expected _&ast;poŋi_,
 <i>&ast;beRŋi</i>
 </td>
 <td>
-'<span>night</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>night</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -346,292 +350,292 @@ All Polynesian reflexes point back to PPn _&ast;pō_ (for expected _&ast;poŋi_,
 '<span>night, day of twenty-four hours</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Mussau</td><td><i>bo</i></td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>bo</i></td>
 <td>
 '<span>night</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Mussau</td><td><i>bo-boŋi(ena)</i></td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>bo-boŋi(ena)</i></td>
 <td>
 '<span>black</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Loniu</td><td><i>peŋ</i></td>
+<td>Adm</td><td><a href="../languages/loniu">Loniu</a></td><td><i>peŋ</i></td>
 <td>
 '<span>night</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Drehet</td><td><i>piŋ</i></td>
+<td>Adm</td><td><a href="../languages/drehet">Drehet</a></td><td><i>piŋ</i></td>
 <td>
 '<span>night</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Manam</td><td><i>boŋ</i></td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>boŋ</i></td>
 <td>
 '<span>day, time</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Gedaged</td><td><i>boŋ(anip)</i></td>
+<td>NNG</td><td><a href="../languages/gedaged">Gedaged</a></td><td><i>boŋ(anip)</i></td>
 <td>
 '<span>at the end of night, tomorrow</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Gitua</td><td><i>boŋ</i></td>
+<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td><i>boŋ</i></td>
 <td>
 '<span>last night</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Yabem</td><td><i>-beʔ</i></td>
+<td>NNG</td><td><a href="../languages/yabem">Yabem</a></td><td><i>-beʔ</i></td>
 <td>
 '<span>be night</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Mangga</td><td><i>bus(in)</i></td>
+<td>NNG</td><td><a href="../languages/mangga">Mangga</a></td><td><i>bus(in)</i></td>
 <td>
 '<span>night, day of twenty-four hours</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Mapos Buang</td><td><i>buk</i></td>
+<td>NNG</td><td><a href="../languages/maposbuang">Mapos Buang</a></td><td><i>buk</i></td>
 <td>
 '<span>night, day of twenty-four hours</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Poeng</td><td><i>voŋ(a-lua)</i></td>
+<td>NNG</td><td><a href="../languages/poeng">Poeng</a></td><td><i>voŋ(a-lua)</i></td>
 <td>
 '<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>SJ</td><td>Sobei</td><td><i>pani</i></td>
+<td>SJ</td><td><a href="../languages/sobei">Sobei</a></td><td><i>pani</i></td>
 <td>
 '<span>night</span>'</td>
 </tr>
 <tr>
-<td>SJ</td><td>Kayupulau</td><td><i>boni</i></td>
+<td>SJ</td><td><a href="../languages/kayupulau">Kayupulau</a></td><td><i>boni</i></td>
 <td>
 '<span>night</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>(hanua)boi</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>(hanua)boi</i></td>
 <td>
 '<span>night; till night</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Molima</td><td><i>boi-boi</i></td>
+<td>PT</td><td><a href="../languages/molima">Molima</a></td><td><i>boi-boi</i></td>
 <td>
 '<span>night</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Dobu</td><td><i>boi-boi</i></td>
+<td>PT</td><td><a href="../languages/dobu">Dobu</a></td><td><i>boi-boi</i></td>
 <td>
 '<span>night</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Bwaidoga</td><td><i>boŋi</i></td>
+<td>PT</td><td><a href="../languages/bwaidoga">Bwaidoga</a></td><td><i>boŋi</i></td>
 <td>
 '<span>night</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Kilivila</td><td><i>bogi</i></td>
+<td>PT</td><td><a href="../languages/kilivila">Kilivila</a></td><td><i>bogi</i></td>
 <td>
 '<span>night; darkness</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tigak</td><td><i>vuŋ</i></td>
+<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td><i>vuŋ</i></td>
 <td>
 '<span>night</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Notsi</td><td><i>biŋ</i></td>
+<td>MM</td><td><a href="../languages/notsi">Notsi</a></td><td><i>biŋ</i></td>
 <td>
 '<span>night</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Patpatar</td><td><i>buŋ</i></td>
+<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td><i>buŋ</i></td>
 <td>
 '<span>night</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tolai</td><td><i>buŋ</i></td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>buŋ</i></td>
 <td>
 '<span>a day, either of twelve or twenty-four hours</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Halia</td><td><i>buŋ</i></td>
+<td>MM</td><td><a href="../languages/halia">Halia</a></td><td><i>buŋ</i></td>
 <td>
 '<span>night</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Mono-Alu</td><td><i>boi</i></td>
+<td>MM</td><td><a href="../languages/monoalu">Mono-Alu</a></td><td><i>boi</i></td>
 <td>
 '<span>night, day</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Simbo</td><td><i>boŋi</i></td>
+<td>MM</td><td><a href="../languages/simbo">Simbo</a></td><td><i>boŋi</i></td>
 <td>
 '<span>night</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Bugotu</td><td><i>boŋi</i></td>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>boŋi</i></td>
 <td>
 '<span>night</span>' (<span><em>ke boŋi</em> ‘by night, at night’</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>boŋi</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>boŋi</i></td>
 <td>
 '<span>night</span>' (<span><em>te mboŋi</em> ‘by night’</span>); '<span>a day, as a measure of time</span>' (<span><em>e rua na boŋi</em> ‘two days’</span>); '<span>yesterday</span>'; '<span>the weather</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>boŋi</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>boŋi</i></td>
 <td>
 '<span>night; a day, in reckoning time</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>poŋi</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>poŋi</i></td>
 <td>
 '<span>a time, a season</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>poŋi-ku</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>poŋi-ku</i></td>
 <td>
 '<span>my appointed time</span>' (<span><em>-ku</em> ‘my’</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td>'Are'are</td><td><i>poni</i></td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>poni</i></td>
 <td>
 '<span>evening, after sunset, night; an appointed day</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>boŋi</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>boŋi</i></td>
 <td>
 '<span>a night, last night</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>pʷoŋ</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>pʷoŋ</i></td>
 <td>
 '<span>night, darkness, to be dark</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Raga</td><td><i>boŋi</i></td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>boŋi</i></td>
 <td>
 '<span>night, darkness</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Tamambo</td><td><i>boŋi</i></td>
+<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td><i>boŋi</i></td>
 <td>
 '<span>day of twenty-four hours</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Nokuku</td><td><i>pon</i></td>
+<td>NCV</td><td><a href="../languages/nokuku">Nokuku</a></td><td><i>pon</i></td>
 <td>
 '<span>night, day of twenty-four hours</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Uripiv</td><td><i>(na)boŋ</i></td>
+<td>NCV</td><td><a href="../languages/uripiv">Uripiv</a></td><td><i>(na)boŋ</i></td>
 <td>
 '<span>day of twenty-four hours</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Port Sandwich</td><td><i>(na)boŋ</i></td>
+<td>NCV</td><td><a href="../languages/portsandwich">Port Sandwich</a></td><td><i>(na)boŋ</i></td>
 <td>
 '<span>day of twenty-four hours</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Lonwolwol</td><td><i>buŋ</i></td>
+<td>NCV</td><td><a href="../languages/lonwolwol">Lonwolwol</a></td><td><i>buŋ</i></td>
 <td>
 '<span>darkness, blackness; night; dark, black</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Lonwolwol</td><td><i>(wo)buŋ</i></td>
+<td>NCV</td><td><a href="../languages/lonwolwol">Lonwolwol</a></td><td><i>(wo)buŋ</i></td>
 <td>
 '<span>day of twenty-four hours</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Paamese</td><td><i>voŋi(ene)</i></td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>voŋi(ene)</i></td>
 <td>
 '<span>night</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Lewo</td><td><i>(yo)poŋi</i></td>
+<td>NCV</td><td><a href="../languages/lewo">Lewo</a></td><td><i>(yo)poŋi</i></td>
 <td>
 '<span>night</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Lewo</td><td><i>poŋi</i></td>
+<td>NCV</td><td><a href="../languages/lewo">Lewo</a></td><td><i>poŋi</i></td>
 <td>
 '<span>time, period</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Namakir</td><td><i>(e)boŋ</i></td>
+<td>NCV</td><td><a href="../languages/namakir">Namakir</a></td><td><i>(e)boŋ</i></td>
 <td>
 '<span>night</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Nguna</td><td><i>pʷōŋi</i></td>
+<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td><i>pʷōŋi</i></td>
 <td>
 '<span>night</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Lenakel</td><td><i>(la)pən</i></td>
+<td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td><i>(la)pən</i></td>
 <td>
 '<span>night, at night</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Kwamera</td><td><i>(nə)pən</i></td>
+<td>SV</td><td><a href="../languages/kwamera">Kwamera</a></td><td><i>(nə)pən</i></td>
 <td>
 '<span>night; a day of twenty-four hours</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Anejom</td><td><i>(ne)peñ</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>(ne)peñ</i></td>
 <td>
 '<span>night</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kiribatese</td><td><i>boŋ</i></td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>boŋ</i></td>
 <td>
 '<span>night; a day of twenty-four hours, period, season</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Marshallese</td><td><i>pɯoŋʷ</i></td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>pɯoŋʷ</i></td>
 <td>
 '<span>night, last night</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Ponapean</td><td><i>pʷōŋ</i></td>
+<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td><i>pʷōŋ</i></td>
 <td>
 '<span>night</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Ponapean</td><td><i>pʷoŋ</i></td>
+<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td><i>pʷoŋ</i></td>
 <td>
 '<span>numeral classifier used in counting nights</span>' (<span><em>pʷɔŋ sili-pʷoŋ</em> ‘three nights’</span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kosraean</td><td><i>foŋ</i></td>
+<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td><i>foŋ</i></td>
 <td>
 '<span>night</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Trukese</td><td><i>pʷōŋ</i></td>
+<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td><i>pʷōŋ</i></td>
 <td>
 '<span>night</span>' (<span>mostly in compounds</span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td>Puluwatese</td><td><i>-pʷoŋ</i></td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>-pʷoŋ</i></td>
 <td>
 '<span>counting classifier for nights</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Puluwatese</td><td><i>pʷōŋ</i></td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>pʷōŋ</i></td>
 <td>
 '<span>night; day of the month; be night</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Rotuman</td><td><i>poŋi</i></td>
+<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td><i>poŋi</i></td>
 <td>
 '<span>night, night-time; be night or evening or late in the day</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>boŋi</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>boŋi</i></td>
 <td>
 '<span>night</span>'</td>
 </tr>
@@ -644,47 +648,47 @@ All Polynesian reflexes point back to PPn _&ast;pō_ (for expected _&ast;poŋi_,
 '<span>night, day of twenty-four hours</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>pō</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>pō</i></td>
 <td>
 '<span>night</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>pō</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>pō</i></td>
 <td>
 '<span>night, day of twenty-four hours (especially in certain expressions), dark, blind</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tuvalu</td><td><i>pō</i></td>
+<td>Pn</td><td><a href="../languages/tuvalu">Tuvalu</a></td><td><i>pō</i></td>
 <td>
 '<span>night, day of twenty-four hours</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Nanumean</td><td><i>pō</i></td>
+<td>Pn</td><td><a href="../languages/nanumean">Nanumean</a></td><td><i>pō</i></td>
 <td>
 '<span>night, day of twenty-four hours</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>pō</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>pō</i></td>
 <td>
 '<span>night, become night, day of twenty-four hours</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Hawaiian</td><td><i>pō</i></td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>pō</i></td>
 <td>
 '<span>night, formerly the period of twenty-four hours beginning at nightfall</span>' (<span>the Hawaiian day began at nightfall</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>pō</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>pō</i></td>
 <td>
 '<span>night</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Marquesan</td><td><i>pō</i></td>
+<td>Pn</td><td><a href="../languages/marquesan">Marquesan</a></td><td><i>pō</i></td>
 <td>
 '<span>night; day of twenty-four hours</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rapanui</td><td><i>pō</i></td>
+<td>Pn</td><td><a href="../languages/rapanui">Rapanui</a></td><td><i>pō</i></td>
 <td>
 '<span>night</span>'</td>
 </tr>
@@ -720,126 +724,126 @@ The word for ‘night’ in a number of Oceanic languages reflects POc _&ast;rod
 <i>&ast;rodrom</i>
 </td>
 <td>
-'<span>be dark, be night</span>' (<a href="../references.md#source-Blust1984">Blust1984</a>)
+'<span>be dark, be night</span>' (<a href="../sources/Blust1984">Blust1984</a>)
 </td>
 </tr>
 <tr>
-<td>NNG</td><td>Kis</td><td><i>doma</i></td>
+<td>NNG</td><td><a href="../languages/kis">Kis</a></td><td><i>doma</i></td>
 <td>
 '<span>night</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Terebu</td><td><i>(bu)lom</i></td>
+<td>NNG</td><td><a href="../languages/terebu">Terebu</a></td><td><i>(bu)lom</i></td>
 <td>
 '<span>night</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Bola</td><td><i>rodo</i></td>
+<td>MM</td><td><a href="../languages/bola">Bola</a></td><td><i>rodo</i></td>
 <td>
 '<span>night</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nakanai</td><td><i>logo</i></td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>logo</i></td>
 <td>
 '<span>night</span>' (<span>regular reflex</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td>Meramera</td><td><i>na-lodo</i></td>
+<td>MM</td><td><a href="../languages/meramera">Meramera</a></td><td><i>na-lodo</i></td>
 <td>
 '<span>night</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Barok</td><td><i>dom(on)</i></td>
+<td>MM</td><td><a href="../languages/barok">Barok</a></td><td><i>dom(on)</i></td>
 <td>
 '<span>night</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Talise</td><td><i>rodo</i></td>
+<td>SES</td><td><a href="../languages/talise">Talise</a></td><td><i>rodo</i></td>
 <td>
 '<span>night</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>rodo</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>rodo</i></td>
 <td>
 '<span>night</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>ro-rodo(a)</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>ro-rodo(a)</i></td>
 <td>
 '<span>dark, dark in color</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>'Are'are</td><td><i>roto</i></td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>roto</i></td>
 <td>
 '<span>be dark, night; night darkness</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>roto</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>roto</i></td>
 <td>
 '<span>night</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>rodo</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>rodo</i></td>
 <td>
 '<span>dark, black, night</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Raga</td><td><i>dodo</i></td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>dodo</i></td>
 <td>
 '<span>rain cloud</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Ambae</td><td><i>dodo</i></td>
+<td>NCV</td><td><a href="../languages/ambae">Ambae</a></td><td><i>dodo</i></td>
 <td>
 '<span>be dark; dark cloud</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Tamambo</td><td><i>dodo</i></td>
+<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td><i>dodo</i></td>
 <td>
 '<span>night</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kiribatese</td><td><i>roro</i></td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>roro</i></td>
 <td>
 '<span>black, dark color</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kosraean</td><td><i>lɔṣ</i></td>
+<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td><i>lɔṣ</i></td>
 <td>
 '<span>dark</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Mokilese</td><td><i>ros</i></td>
+<td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td><i>ros</i></td>
 <td>
 '<span>dark</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Ponapean</td><td><i>roc̣</i></td>
+<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td><i>roc̣</i></td>
 <td>
 '<span>dark</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Puluwatese</td><td><i>rōṛ</i></td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>rōṛ</i></td>
 <td>
 '<span>dark</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Carolinian</td><td><i>roṣ</i></td>
+<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td><i>roṣ</i></td>
 <td>
 '<span>dark</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>lōlō</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>lōlō</i></td>
 <td>
 '<span>absolutely dark, pitch dark</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>lōlō</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>lōlō</i></td>
 <td>
 '<span>absolutely dark, pitch dark</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Marquesan</td><td><i>lōlō</i></td>
+<td>Pn</td><td><a href="../languages/marquesan">Marquesan</a></td><td><i>lōlō</i></td>
 <td>
 '<span>absolutely dark, pitch dark</span>'</td>
 </tr>
@@ -867,32 +871,32 @@ The two sets below probably do not reflect POc _&ast;rodrom_. Rather, _&ast;rodr
 '<span>be dark</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Wampur</td><td><i>maroʔ</i></td>
+<td>NNG</td><td><a href="../languages/wampur">Wampur</a></td><td><i>maroʔ</i></td>
 <td>
 '<span>night</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Minigir</td><td><i>marumu</i></td>
+<td>MM</td><td><a href="../languages/minigir">Minigir</a></td><td><i>marumu</i></td>
 <td>
 '<span>night</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tolai</td><td><i>marum</i></td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>marum</i></td>
 <td>
 '<span>night</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Ramoaaina</td><td><i>marum</i></td>
+<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>marum</i></td>
 <td>
 '<span>night</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Kandas</td><td><i>mirun</i></td>
+<td>MM</td><td><a href="../languages/kandas">Kandas</a></td><td><i>mirun</i></td>
 <td>
 '<span>night</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Bilur</td><td><i>morom</i></td>
+<td>MM</td><td><a href="../languages/bilur">Bilur</a></td><td><i>morom</i></td>
 <td>
 '<span>night</span>'</td>
 </tr>
@@ -903,7 +907,11 @@ The two sets below probably do not reflect POc _&ast;rodrom_. Rather, _&ast;rodr
 
 <a id="p-309"></a>
 
-9.2.2.2 Daytime
+
+<a id="s-2-2-2"></a>
+
+### 2.2.2 Daytime
+
 
 The POc term which specifically denoted daylight was _&ast;raqani_, reconstructed in Chapter 6 (p.161), to which the reader is referred for further detail.
 
@@ -914,7 +922,7 @@ The POc term which specifically denoted daylight was _&ast;raqani_, reconstructe
 <i>&ast;daqaNi</i>
 </td>
 <td>
-'<span>day</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>day</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -926,107 +934,107 @@ The POc term which specifically denoted daylight was _&ast;raqani_, reconstructe
 '<span>daytime, daylight</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Nauna</td><td><i>lɨn</i></td>
+<td>Adm</td><td><a href="../languages/nauna">Nauna</a></td><td><i>lɨn</i></td>
 <td>
 '<span>day</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Ponam</td><td><i>ran</i></td>
+<td>Adm</td><td><a href="../languages/ponam">Ponam</a></td><td><i>ran</i></td>
 <td>
 '<span>day</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Yabem</td><td><i>-lɛŋ</i></td>
+<td>NNG</td><td><a href="../languages/yabem">Yabem</a></td><td><i>-lɛŋ</i></td>
 <td>
 '<span>be daytime</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Kilivila</td><td><i>yam</i></td>
+<td>PT</td><td><a href="../languages/kilivila">Kilivila</a></td><td><i>yam</i></td>
 <td>
 '<span>daytime</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Sinaugoro</td><td><i>laɣani</i></td>
+<td>PT</td><td><a href="../languages/sinaugoro">Sinaugoro</a></td><td><i>laɣani</i></td>
 <td>
 '<span>daytime</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>rani</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>rani</i></td>
 <td>
 '<span>daytime</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nalik</td><td><i>ran</i></td>
+<td>MM</td><td><a href="../languages/nalik">Nalik</a></td><td><i>ran</i></td>
 <td>
 '<span>daytime</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Halia</td><td><i>lan</i></td>
+<td>MM</td><td><a href="../languages/halia">Halia</a></td><td><i>lan</i></td>
 <td>
 '<span>daytime</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Uruava</td><td><i>rani</i></td>
+<td>MM</td><td><a href="../languages/uruava">Uruava</a></td><td><i>rani</i></td>
 <td>
 '<span>daytime</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Roviana</td><td><i>rane</i></td>
+<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td><i>rane</i></td>
 <td>
 '<span>day</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Maringe</td><td><i>na-rane</i></td>
+<td>MM</td><td><a href="../languages/maringe">Maringe</a></td><td><i>na-rane</i></td>
 <td>
 '<span>day</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Bugotu</td><td><i>dani</i></td>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>dani</i></td>
 <td>
 '<span>morning, daylight</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Kwaio</td><td><i>dani</i></td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>dani</i></td>
 <td>
 '<span>day</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>'Are'are</td><td><i>tani</i></td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>tani</i></td>
 <td>
 '<span>daylight</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>(ma)ran</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>(ma)ran</i></td>
 <td>
 '<span>light, daylight, morning, day; be light; tomorrow’s light; the morrow</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Tamambo</td><td><i>rani</i></td>
+<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td><i>rani</i></td>
 <td>
 '<span>daylight</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Paamese</td><td><i>lani</i></td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>lani</i></td>
 <td>
 '<span>daybreak</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Lenakel</td><td><i>n-ian</i></td>
+<td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td><i>n-ian</i></td>
 <td>
 '<span>day</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Kwamera</td><td><i>ia-ran</i></td>
+<td>SV</td><td><a href="../languages/kwamera">Kwamera</a></td><td><i>ia-ran</i></td>
 <td>
 '<span>day</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Marshallese</td><td><i>ṛᶭān</i></td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>ṛᶭān</i></td>
 <td>
 '<span>day, date</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Ponapean</td><td><i>rān</i></td>
+<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td><i>rān</i></td>
 <td>
 '<span>day</span>'</td>
 </tr>
@@ -1043,7 +1051,7 @@ The primary meaning of POc _&ast;qaco_ was ‘sun’, but it was also used for �
 <i>&ast;qajaw, qalejaw</i>
 </td>
 <td>
-'<span>sun, daylight</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>sun, daylight</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -1055,112 +1063,112 @@ The primary meaning of POc _&ast;qaco_ was ‘sun’, but it was also used for �
 '<span>sun, daytime</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Ponam</td><td><i>al</i></td>
+<td>Adm</td><td><a href="../languages/ponam">Ponam</a></td><td><i>al</i></td>
 <td>
 '<span>sun</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Mondropolon</td><td><i>al</i></td>
+<td>Adm</td><td><a href="../languages/mondropolon">Mondropolon</a></td><td><i>al</i></td>
 <td>
 '<span>sun</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Bariai</td><td><i>ado</i></td>
+<td>NNG</td><td><a href="../languages/bariai">Bariai</a></td><td><i>ado</i></td>
 <td>
 '<span>day, sun</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Takia</td><td><i>ad</i></td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>ad</i></td>
 <td>
 '<span>sun</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Takia</td><td><i>ad-ad</i></td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>ad-ad</i></td>
 <td>
 '<span>daytime</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kaiwa</td><td><i>as</i></td>
+<td>NNG</td><td><a href="../languages/kaiwa">Kaiwa</a></td><td><i>as</i></td>
 <td>
 '<span>daytime</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Molima</td><td><i>ʔasu</i></td>
+<td>PT</td><td><a href="../languages/molima">Molima</a></td><td><i>ʔasu</i></td>
 <td>
 '<span>sun</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nakanai</td><td><i>haro</i></td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>haro</i></td>
 <td>
 '<span>sun; day</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tigak</td><td><i>ias</i></td>
+<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td><i>ias</i></td>
 <td>
 '<span>sun</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nalik</td><td><i>ias</i></td>
+<td>MM</td><td><a href="../languages/nalik">Nalik</a></td><td><i>ias</i></td>
 <td>
 '<span>sun</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Bugotu</td><td><i>aho</i></td>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>aho</i></td>
 <td>
 '<span>sun</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>aho</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>aho</i></td>
 <td>
 '<span>sun; good weather; put in the sun; experience good weather</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>sato</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>sato</i></td>
 <td>
 '<span>sun, sunshine, fine weather</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>loa</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>loa</i></td>
 <td>
 '<span>sun</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Namakir</td><td><i>ʔal</i></td>
+<td>NCV</td><td><a href="../languages/namakir">Namakir</a></td><td><i>ʔal</i></td>
 <td>
 '<span>sun</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Marshallese</td><td><i>alᶭ</i></td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>alᶭ</i></td>
 <td>
 '<span>sun</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Woleaian</td><td><i>yaro</i></td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>yaro</i></td>
 <td>
 '<span>sun</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Puluwatese</td><td><i>yælet</i></td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>yælet</i></td>
 <td>
 '<span>sun</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>ʔaho</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>ʔaho</i></td>
 <td>
 '<span>day</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>aso</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>aso</i></td>
 <td>
 '<span>day</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tuvalu</td><td><i>aho</i></td>
+<td>Pn</td><td><a href="../languages/tuvalu">Tuvalu</a></td><td><i>aho</i></td>
 <td>
 '<span>day (as time span)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>aso</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>aso</i></td>
 <td>
 '<span>day (as time span)</span>'</td>
 </tr>
@@ -1178,7 +1186,7 @@ The primary meaning of POc _&ast;qaco_ was ‘sun’, but it was also used for �
 <i>&ast;sinaR</i>
 </td>
 <td>
-'<span>ray of light</span>' (<a href="../references.md#source-Dempwolff1938">Dempwolff1938</a>)
+'<span>ray of light</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
 </td>
 </tr>
 <tr>
@@ -1190,72 +1198,72 @@ The primary meaning of POc _&ast;qaco_ was ‘sun’, but it was also used for �
 '<span>shine, sun</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Mussau</td><td><i>sinaka</i></td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>sinaka</i></td>
 <td>
 '<span>sun</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Lou</td><td><i>sinsin</i></td>
+<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td><i>sinsin</i></td>
 <td>
 '<span>sun</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>dina</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>dina</i></td>
 <td>
 '<span>sun; day</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Lavongai</td><td><i>sinaŋ</i></td>
+<td>MM</td><td><a href="../languages/lavongai">Lavongai</a></td><td><i>sinaŋ</i></td>
 <td>
 '<span>sun; (sun) shine</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tigak</td><td><i>siŋan</i></td>
+<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td><i>siŋan</i></td>
 <td>
 '<span>(sun) shine</span>' (<span>metathesis</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>sina</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>sina</i></td>
 <td>
 '<span>shine, give light</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>'Are'are</td><td><i>sina</i></td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>sina</i></td>
 <td>
 '<span>shine, brighten; light, brightness</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>sineli</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>sineli</i></td>
 <td>
 '<span>shine</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>siŋa</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>siŋa</i></td>
 <td>
 '<span>shine</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Trukese</td><td><i>ttiɾa</i></td>
+<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td><i>ttiɾa</i></td>
 <td>
 '<span>shine, ray, brightness, beam</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Puluwatese</td><td><i>tin</i></td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>tin</i></td>
 <td>
 '<span>shine, as the sun</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Rotuman</td><td><i>sina</i></td>
+<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td><i>sina</i></td>
 <td>
 '<span>light, lamp, star</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>siŋa</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>siŋa</i></td>
 <td>
 '<span>day, daylight, sun</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>ðina</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>ðina</i></td>
 <td>
 '<span>lamp, torch</span>'</td>
 </tr>
@@ -1263,7 +1271,11 @@ The primary meaning of POc _&ast;qaco_ was ‘sun’, but it was also used for �
 
 
 
-9.2.2.3 Early morning: from dawn to 9 or 10 a.m.
+
+<a id="s-2-2-3"></a>
+
+### 2.2.3 Early morning: from dawn to 9 or 10 a.m.
+
 
 The POc term for the first few hours of daylight was _&ast;boŋi-boŋi_, self-evidently a reduplicated form of POc _&ast;boŋi_ ‘night’.
 
@@ -1277,57 +1289,57 @@ The POc term for the first few hours of daylight was _&ast;boŋi-boŋi_, self-ev
 '<span>early morning from dawn to 9 or 10 a.m.</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Gapapaiwa</td><td><i>boi-boi</i></td>
+<td>PT</td><td><a href="../languages/gapapaiwa">Gapapaiwa</a></td><td><i>boi-boi</i></td>
 <td>
 '<span>morning; from sunrise to about 10 a.m.</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Dawawa</td><td><i>boi-boi</i></td>
+<td>PT</td><td><a href="../languages/dawawa">Dawawa</a></td><td><i>boi-boi</i></td>
 <td>
 '<span>morning, tomorrow</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Sinaugoro</td><td><i>boɣi-boɣi</i></td>
+<td>PT</td><td><a href="../languages/sinaugoro">Sinaugoro</a></td><td><i>boɣi-boɣi</i></td>
 <td>
 '<span>morning</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Sursurunga</td><td><i>(kə)buŋ-buŋ</i></td>
+<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td><i>(kə)buŋ-buŋ</i></td>
 <td>
 '<span>morning</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Mono-Alu</td><td><i>boi-boi(uana)</i></td>
+<td>MM</td><td><a href="../languages/monoalu">Mono-Alu</a></td><td><i>boi-boi(uana)</i></td>
 <td>
 '<span>in the morning (early?)</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Talise</td><td><i>boŋi-boŋi</i></td>
+<td>SES</td><td><a href="../languages/talise">Talise</a></td><td><i>boŋi-boŋi</i></td>
 <td>
 '<span>morning</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Birao</td><td><i>(bo)boŋi(hana)</i></td>
+<td>SES</td><td><a href="../languages/birao">Birao</a></td><td><i>(bo)boŋi(hana)</i></td>
 <td>
 '<span>morning</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>bo-boŋi</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>bo-boŋi</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>S.W. Tanna</td><td><i>(ie)n-pəŋe-n-pəŋ</i></td>
+<td>SV</td><td><a href="../languages/swtanna">S.W. Tanna</a></td><td><i>(ie)n-pəŋe-n-pəŋ</i></td>
 <td>
 '<span>morning</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Kwamera</td><td><i>nə-pnə-pən</i></td>
+<td>SV</td><td><a href="../languages/kwamera">Kwamera</a></td><td><i>nə-pnə-pən</i></td>
 <td>
 '<span>morning</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kiribatese</td><td><i>boŋi-boŋ</i></td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>boŋi-boŋ</i></td>
 <td>
 '<span>twilight</span>'</td>
 </tr>
@@ -1340,42 +1352,42 @@ The POc term for the first few hours of daylight was _&ast;boŋi-boŋi_, self-ev
 '<span>(N, V) morning</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>poŋi-poŋi</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>poŋi-poŋi</i></td>
 <td>
 '<span>be or become morning; by morning, early in the day</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>poŋi-poŋi</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>poŋi-poŋi</i></td>
 <td>
 '<span>tomorrow, this morning</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>East Uvean</td><td><i>poŋi-poŋi</i></td>
+<td>Pn</td><td><a href="../languages/eastuvean">East Uvean</a></td><td><i>poŋi-poŋi</i></td>
 <td>
 '<span>morning</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>poŋi-poŋi</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>poŋi-poŋi</i></td>
 <td>
 '<span>be dusky, twilight</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>poŋi-poŋi</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>poŋi-poŋi</i></td>
 <td>
 '<span>morning</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Nanumean</td><td><i>poŋi-poŋi</i></td>
+<td>Pn</td><td><a href="../languages/nanumean">Nanumean</a></td><td><i>poŋi-poŋi</i></td>
 <td>
 '<span>morning (6–8 a.m.)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tuvalu</td><td><i>poŋi-poŋi</i></td>
+<td>Pn</td><td><a href="../languages/tuvalu">Tuvalu</a></td><td><i>poŋi-poŋi</i></td>
 <td>
 '<span>morning (6–8 a.m.)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Anutan</td><td><i>poŋi-poŋi</i></td>
+<td>Pn</td><td><a href="../languages/anutan">Anutan</a></td><td><i>poŋi-poŋi</i></td>
 <td>
 '<span>morning (5–11 a.m.)</span>'</td>
 </tr>
@@ -1411,117 +1423,117 @@ POc _&ast;puko_ ‘morning’ is only distributed over a certain area of Oceania
 '<span>(N, V) morning</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Bilur</td><td><i>(la)puko</i></td>
+<td>MM</td><td><a href="../languages/bilur">Bilur</a></td><td><i>(la)puko</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Lungga</td><td><i>vuka</i></td>
+<td>MM</td><td><a href="../languages/lungga">Lungga</a></td><td><i>vuka</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Lungga</td><td><i>vu-vuɣe(i)</i></td>
+<td>MM</td><td><a href="../languages/lungga">Lungga</a></td><td><i>vu-vuɣe(i)</i></td>
 <td>
 '<span>morning</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nduke</td><td><i>vuɣe</i></td>
+<td>MM</td><td><a href="../languages/nduke">Nduke</a></td><td><i>vuɣe</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Roviana</td><td><i>vuɣo</i></td>
+<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td><i>vuɣo</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Vangunu</td><td><i>(pana)vuho</i></td>
+<td>MM</td><td><a href="../languages/vangunu">Vangunu</a></td><td><i>(pana)vuho</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Kia</td><td><i>(fu)fuɣo</i></td>
+<td>MM</td><td><a href="../languages/kia">Kia</a></td><td><i>(fu)fuɣo</i></td>
 <td>
 '<span>morning</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Kia</td><td><i>fuɣo</i></td>
+<td>MM</td><td><a href="../languages/kia">Kia</a></td><td><i>fuɣo</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Kokota</td><td><i>(fu)fu</i></td>
+<td>MM</td><td><a href="../languages/kokota">Kokota</a></td><td><i>(fu)fu</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Kokota</td><td><i>fugo(nare)</i></td>
+<td>MM</td><td><a href="../languages/kokota">Kokota</a></td><td><i>fugo(nare)</i></td>
 <td>
 '<span>morning</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Bugotu</td><td><i>vuo-vuɣo(i)</i></td>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>vuo-vuɣo(i)</i></td>
 <td>
 '<span>morning</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Oroha</td><td><i>hoʔo(a)</i></td>
+<td>SES</td><td><a href="../languages/oroha">Oroha</a></td><td><i>hoʔo(a)</i></td>
 <td>
 '<span>morning</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>(ma-hu)huʔo</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>(ma-hu)huʔo</i></td>
 <td>
 '<span>morning</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>(hā)hoʔo(a)</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>(hā)hoʔo(a)</i></td>
 <td>
 '<span>morning</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Fagani</td><td><i>(tei)hoɣo(a)</i></td>
+<td>SES</td><td><a href="../languages/fagani">Fagani</a></td><td><i>(tei)hoɣo(a)</i></td>
 <td>
 '<span>morning</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Bauro</td><td><i>(ma)hoɣo</i></td>
+<td>SES</td><td><a href="../languages/bauro">Bauro</a></td><td><i>(ma)hoɣo</i></td>
 <td>
 '<span>morning</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Kahua</td><td><i>(haɣa)hoɣo</i></td>
+<td>SES</td><td><a href="../languages/kahua">Kahua</a></td><td><i>(haɣa)hoɣo</i></td>
 <td>
 '<span>morning</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Raga</td><td><i>(vai)go-ugo</i></td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>(vai)go-ugo</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Tamambo</td><td><i>(a)vuho</i></td>
+<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td><i>(a)vuho</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Tangoa</td><td><i>vuho</i></td>
+<td>NCV</td><td><a href="../languages/tangoa">Tangoa</a></td><td><i>vuho</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Uripiv</td><td><i>(me)vi</i></td>
+<td>NCV</td><td><a href="../languages/uripiv">Uripiv</a></td><td><i>(me)vi</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Burmbar</td><td><i>(ma)vuk</i></td>
+<td>NCV</td><td><a href="../languages/burmbar">Burmbar</a></td><td><i>(ma)vuk</i></td>
 <td>
 '<span>morning</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Labo</td><td><i>(mitu)mbuko</i></td>
+<td>NCV</td><td><a href="../languages/labo">Labo</a></td><td><i>(mitu)mbuko</i></td>
 <td>
 '<span>morning</span>'</td>
 </tr>
@@ -1532,7 +1544,11 @@ POc _&ast;puko_ ‘morning’ is only distributed over a certain area of Oceania
 
 <a id="p-312"></a>
 
-9.2.2.4 Middle of the day: from 9 or 10 a.m. to about 3 p.m.
+
+<a id="s-2-2-4"></a>
+
+### 2.2.4 Middle of the day: from 9 or 10 a.m. to about 3 p.m.
+
 
 Outside Polynesia, very few languages have a dedicated word for this part of the day, and those that do show no sign of cognation. Most languages have a phrasal expression, sometimes meaning ‘the middle of the day’:
 
@@ -1551,7 +1567,7 @@ Others have a noun phrase whose head is ‘sun, daylight’, modified by ‘big�
 | Gela (SES)  | dani-kama (dani ‘daylight’, kama ‘big’) |
 | Wayan (Fij) | siŋa-levu (siŋa ‘day’, levu ‘big’)      |
 
-[Biggs and Clark](../references.md#source-BiggsandClark1993) ([1993](../references.md#source-BiggsandClark1993)) reconstruct PPn _&ast;qaho-atea_ ‘late morning and early afternoon’, from PPn _&ast;qaho_ ‘daylight’ and _&ast;qātea_ ‘clear, unobstructed’. The addition of Anejom reflexes raises the reconstruction to Proto Remote Oceanic _&ast;qaso-qatea_ (Lynch pers. comm.).
+[Biggs and Clark](../sources/BiggsandClark1993) ([1993](../sources/BiggsandClark1993)) reconstruct PPn _&ast;qaho-atea_ ‘late morning and early afternoon’, from PPn _&ast;qaho_ ‘daylight’ and _&ast;qātea_ ‘clear, unobstructed’. The addition of Anejom reflexes raises the reconstruction to Proto Remote Oceanic _&ast;qaso-qatea_ (Lynch pers. comm.).
 
 <table id="2-9-2-2-312-ProtoRemoteOceanic-qasoqatea-a">
 <tr>
@@ -1563,62 +1579,62 @@ Others have a noun phrase whose head is ‘sun, daylight’, modified by ‘big�
 '<span>late morning and early afternoon</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Anejom</td><td><i>afiat</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>afiat</i></td>
 <td>
 '<span>become day</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Anejom</td><td><i>n-afiat</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>n-afiat</i></td>
 <td>
 '<span>day, daytime</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Anejom</td><td><i>n-afiat-iat</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>n-afiat-iat</i></td>
 <td>
 '<span>midday</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>ahotea</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>ahotea</i></td>
 <td>
 '<span>broad daylight</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>aoatea</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>aoatea</i></td>
 <td>
 '<span>midday</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Anutan</td><td><i>avatea</i></td>
+<td>Pn</td><td><a href="../languages/anutan">Anutan</a></td><td><i>avatea</i></td>
 <td>
 '<span>midday</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>avatea</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>avatea</i></td>
 <td>
 '<span>midday</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>ʔaoʔatea</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>ʔaoʔatea</i></td>
 <td>
 [N, V] '<span>(be) early afternoon</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Hawaiian</td><td><i>awakea</i></td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>awakea</i></td>
 <td>
 '<span>noon</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>awatea</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>awatea</i></td>
 <td>
 '<span>broad daylight</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rarotongan</td><td><i>avatea</i></td>
+<td>Pn</td><td><a href="../languages/rarotongan">Rarotongan</a></td><td><i>avatea</i></td>
 <td>
 '<span>forenoon nine to twelve</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tahitian</td><td><i>avatea</i></td>
+<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td><i>avatea</i></td>
 <td>
 '<span>late morning to early afternoon</span>'</td>
 </tr>
@@ -1629,7 +1645,11 @@ Others have a noun phrase whose head is ‘sun, daylight’, modified by ‘big�
 
 <a id="p-313"></a>
 
-9.2.2.5 Late afternoon and evening, from about 3 p.m. to sunset
+
+<a id="s-2-2-5"></a>
+
+### 2.2.5 Late afternoon and evening, from about 3 p.m. to sunset
+
 
 Just one term is reconstructable for this period of the day, POc _&ast;Rapi_.
 
@@ -1640,7 +1660,7 @@ Just one term is reconstructable for this period of the day, POc _&ast;Rapi_.
 <i>&ast;Rabi</i>
 </td>
 <td>
-'<span>evening</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>; <a href="../references.md#source-Dempwolff1938">Dempwolff1938</a>)
+'<span>evening</span>' (<a href="../sources/Blust1995">Blust1995</a>; <a href="../sources/Dempwolff1938">Dempwolff1938</a>)
 </td>
 </tr>
 <tr>
@@ -1652,252 +1672,252 @@ Just one term is reconstructable for this period of the day, POc _&ast;Rapi_.
 '<span>(N, V) late afternoon and evening, from about 3 p.m. to sunset</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Mussau</td><td><i>(eloa)lai</i></td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>(eloa)lai</i></td>
 <td>
 '<span>evening</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Nyindrou</td><td><i>(be)yeh</i></td>
+<td>Adm</td><td><a href="../languages/nyindrou">Nyindrou</a></td><td><i>(be)yeh</i></td>
 <td>
 '<span>afternoon</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Tuam</td><td><i>rav-rav</i></td>
+<td>NNG</td><td><a href="../languages/tuam">Tuam</a></td><td><i>rav-rav</i></td>
 <td>
 '<span>evening</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Lukep (Pono)</td><td><i>rai</i></td>
+<td>NNG</td><td><a href="../languages/lukeppono">Lukep (Pono)</a></td><td><i>rai</i></td>
 <td>
 [N] '<span>afternoon from about 2 p.m. to darkness</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Sio</td><td><i>la-la</i></td>
+<td>NNG</td><td><a href="../languages/sio">Sio</a></td><td><i>la-la</i></td>
 <td>
 '<span>afternoon</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Tami</td><td><i>la-la</i></td>
+<td>NNG</td><td><a href="../languages/tami">Tami</a></td><td><i>la-la</i></td>
 <td>
 '<span>evening</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Takia</td><td><i>(g)rai(an)</i></td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>(g)rai(an)</i></td>
 <td>
 '<span>evening</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kela</td><td><i>(guru)rap</i></td>
+<td>NNG</td><td><a href="../languages/kela">Kela</a></td><td><i>(guru)rap</i></td>
 <td>
 '<span>evening</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Sukurum</td><td><i>(fi)raf</i></td>
+<td>NNG</td><td><a href="../languages/sukurum">Sukurum</a></td><td><i>(fi)raf</i></td>
 <td>
 '<span>evening</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Manam</td><td><i>rai-rai</i></td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>rai-rai</i></td>
 <td>
 '<span>evening</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Kilivila</td><td><i>kwayavi</i></td>
+<td>PT</td><td><a href="../languages/kilivila">Kilivila</a></td><td><i>kwayavi</i></td>
 <td>
 '<span>evening</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Gapapaiwa</td><td><i>ravi</i></td>
+<td>PT</td><td><a href="../languages/gapapaiwa">Gapapaiwa</a></td><td><i>ravi</i></td>
 <td>
 [ADV] '<span>afternoon; evening, from about 3 to 7 p.m.</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Gumawana</td><td><i>lavi-lavi</i></td>
+<td>PT</td><td><a href="../languages/gumawana">Gumawana</a></td><td><i>lavi-lavi</i></td>
 <td>
 [ADV] '<span>evening/late afternoon</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Iduna</td><td><i>lavi-lavi</i></td>
+<td>PT</td><td><a href="../languages/iduna">Iduna</a></td><td><i>lavi-lavi</i></td>
 <td>
 '<span>afternoon</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Sinaugoro</td><td><i>lavi-lavi</i></td>
+<td>PT</td><td><a href="../languages/sinaugoro">Sinaugoro</a></td><td><i>lavi-lavi</i></td>
 <td>
 [N] '<span>afternoon</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>(ado)rahi</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>(ado)rahi</i></td>
 <td>
 [N] '<span>late afternoon/evening</span>' (<span><em>ado</em> ‘sun’ [not used independently]</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td>Bali</td><td><i>(ga)ravi</i></td>
+<td>MM</td><td><a href="../languages/bali">Bali</a></td><td><i>(ga)ravi</i></td>
 <td>
 '<span>evening</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Meramera</td><td><i>lavi-lavi</i></td>
+<td>MM</td><td><a href="../languages/meramera">Meramera</a></td><td><i>lavi-lavi</i></td>
 <td>
 '<span>evening</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Kara (East)</td><td><i>(la)iaf</i></td>
+<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td><i>(la)iaf</i></td>
 <td>
 '<span>evening</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Lihir</td><td><i>(le)leh</i></td>
+<td>MM</td><td><a href="../languages/lihir">Lihir</a></td><td><i>(le)leh</i></td>
 <td>
 '<span>evening</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Sursurunga</td><td><i>rah-rah</i></td>
+<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td><i>rah-rah</i></td>
 <td>
 [N] '<span>afternoon</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Label</td><td><i>rah</i></td>
+<td>MM</td><td><a href="../languages/label">Label</a></td><td><i>rah</i></td>
 <td>
 '<span>evening</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Ramoaaina</td><td><i>(malu)rap</i></td>
+<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>(malu)rap</i></td>
 <td>
 [V] '<span>evening</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tolai</td><td><i>ravi(an)</i></td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>ravi(an)</i></td>
 <td>
 '<span>afternoon, evening</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Siar</td><td><i>raf</i></td>
+<td>MM</td><td><a href="../languages/siar">Siar</a></td><td><i>raf</i></td>
 <td>
 '<span>evening</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Taiof</td><td><i>(tou)raf</i></td>
+<td>MM</td><td><a href="../languages/taiof">Taiof</a></td><td><i>(tou)raf</i></td>
 <td>
 '<span>evening</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Banoni</td><td><i>(nē)navi</i></td>
+<td>MM</td><td><a href="../languages/banoni">Banoni</a></td><td><i>(nē)navi</i></td>
 <td>
 '<span>evening</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Torau</td><td><i>rai</i></td>
+<td>MM</td><td><a href="../languages/torau">Torau</a></td><td><i>rai</i></td>
 <td>
 '<span>evening</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Maringe</td><td><i>grafi</i></td>
+<td>MM</td><td><a href="../languages/maringe">Maringe</a></td><td><i>grafi</i></td>
 <td>
 '<span>evening</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>(nu)lavi</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>(nu)lavi</i></td>
 <td>
 '<span>evening</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Longgu</td><td><i>(zao)lavi</i></td>
+<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td><i>(zao)lavi</i></td>
 <td>
 [N] '<span>evening</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>(sau)lafi</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>(sau)lafi</i></td>
 <td>
 '<span>evening</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Kwaio</td><td><i>(lau)lafi</i></td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>(lau)lafi</i></td>
 <td>
 '<span>late afternoon</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>(sau)lehi</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>(sau)lehi</i></td>
 <td>
 '<span>evening, dusk, from 4 p.m. to dark</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>rav-rav</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>rav-rav</i></td>
 <td>
 '<span>evening, the dusk of evening</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Raga</td><td><i>rav-ravi</i></td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>rav-ravi</i></td>
 <td>
 '<span>late</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Raga</td><td><i>(ute)rav-ravi</i></td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>(ute)rav-ravi</i></td>
 <td>
 '<span>evening</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Tamambo</td><td><i>ravi-ravi</i></td>
+<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td><i>ravi-ravi</i></td>
 <td>
 '<span>late afternoon/evening</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Uripiv</td><td><i>riv-riv</i></td>
+<td>NCV</td><td><a href="../languages/uripiv">Uripiv</a></td><td><i>riv-riv</i></td>
 <td>
 '<span>afternoon</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Paamese</td><td><i>(medī)lahi</i></td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>(medī)lahi</i></td>
 <td>
 '<span>afternoon, evening</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Namakir</td><td><i>d(a)ravi(h)</i></td>
+<td>NCV</td><td><a href="../languages/namakir">Namakir</a></td><td><i>d(a)ravi(h)</i></td>
 <td>
 '<span>evening</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Sye</td><td><i>(pʷa)rap</i></td>
+<td>SV</td><td><a href="../languages/sye">Sye</a></td><td><i>(pʷa)rap</i></td>
 <td>
 '<span>evening</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Sye</td><td><i>(a)rap</i></td>
+<td>SV</td><td><a href="../languages/sye">Sye</a></td><td><i>(a)rap</i></td>
 <td>
 '<span>begin to get dark in late afternoon</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Anejom</td><td><i>(injup-u)ra</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>(injup-u)ra</i></td>
 <td>
 '<span>evening</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Nemi</td><td><i>(bate)ap</i></td>
+<td>NCal</td><td><a href="../languages/nemi">Nemi</a></td><td><i>(bate)ap</i></td>
 <td>
 '<span>evening</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>avi-avi</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>avi-avi</i></td>
 <td>
 '<span>late afternoon/evening</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>afi-afi</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>afi-afi</i></td>
 <td>
 '<span>evening</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>afi-afi</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>afi-afi</i></td>
 <td>
 '<span>evening</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>afi-afi</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>afi-afi</i></td>
 <td>
 '<span>late afternoon/evening</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Hawaiian</td><td><i>ahi-ahi</i></td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>ahi-ahi</i></td>
 <td>
 '<span>late afternoon, evening</span>'</td>
 </tr>
@@ -1917,27 +1937,27 @@ There are also Micronesian reflexes. These are not listed above because they sho
 '<span>evening, in the evening</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Mortlockese</td><td><i>(lɛ)fǣf</i></td>
+<td>Mic</td><td><a href="../languages/mortlockese">Mortlockese</a></td><td><i>(lɛ)fǣf</i></td>
 <td>
 '<span>evening</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Trukese</td><td><i>fǣf</i></td>
+<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td><i>fǣf</i></td>
 <td>
 '<span>evening meal, main meal</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Puluwatese</td><td><i>(lē)fæf</i></td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>(lē)fæf</i></td>
 <td>
 '<span>evening meal</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Carolinian</td><td><i>(lē)fǣf</i></td>
+<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td><i>(lē)fǣf</i></td>
 <td>
 '<span>evening, dusk</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Woleaian</td><td><i>fexāfi</i></td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>fexāfi</i></td>
 <td>
 '<span>last night</span>'</td>
 </tr>
@@ -1948,7 +1968,11 @@ There are also Micronesian reflexes. These are not listed above because they sho
 
 <a id="p-314"></a>
 
-9.2.2.6 Third-order terms for parts of the day
+
+<a id="s-2-2-6"></a>
+
+### 2.2.6 Third-order terms for parts of the day
+
 
 I have not been able to reconstruct any third-order terms for parts of the day. As the taxonomies above (pp.301–304) show, in modern Oceanic languages parts of the day smaller than ‘night’, ‘early morning’ and ‘late afternoon/evening’ are usually described by phrasal expressions. The only generalisation to be made is an obvious one—that ‘sunrise’ and ‘sunset’ are denoted by expressions meaning ‘the sun rises’ and ‘the sun sets’. Among the verbs for ‘rise’ and ‘set’ here were almost certainly _&ast;sake_ and _&ast;sipo_ respectively (see Ch. 6, pp.181–182 and Ch. 8, pp.271, 273).
 
@@ -1970,7 +1994,7 @@ POc _&ast;pulan_ ‘moon’ also meant ‘month’. The reconstruction here is r
 <i>&ast;bulaN</i>
 </td>
 <td>
-'<span>moon, month, menstruation</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>moon, month, menstruation</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -1979,7 +2003,7 @@ POc _&ast;pulan_ ‘moon’ also meant ‘month’. The reconstruction here is r
 <i>&ast;bulan</i>
 </td>
 <td>
-'<span>moon, month; menstruation</span>' (<a href="../references.md#source-Dempwolff1938">Dempwolff1938</a>)
+'<span>moon, month; menstruation</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
 </td>
 </tr>
 <tr>
@@ -1988,66 +2012,66 @@ POc _&ast;pulan_ ‘moon’ also meant ‘month’. The reconstruction here is r
 <i>&ast;pulan</i>
 </td>
 <td>
-'<span>moon, month</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>moon, month</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
-<td>Adm</td><td>Lou</td><td><i>pulan</i></td>
+<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td><i>pulan</i></td>
 <td>
 '<span>moon</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Mussau</td><td><i>ulana</i></td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>ulana</i></td>
 <td>
 '<span>moon</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>hua</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>hua</i></td>
 <td>
 '<span>moon, month</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tigak</td><td><i>ulan</i></td>
+<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td><i>ulan</i></td>
 <td>
 '<span>moon</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Bugotu</td><td><i>vula</i></td>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>vula</i></td>
 <td>
 '<span>moon, month</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>fula</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>fula</i></td>
 <td>
 '<span>the moon (but only in naming a month)</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Kwaio</td><td><i>fula</i></td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>fula</i></td>
 <td>
 '<span>moon (mainly in compounds)</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>hule</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>hule</i></td>
 <td>
 '<span>phases of the moon; full moon</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>hule i lade</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>hule i lade</i></td>
 <td>
 '<span>name of a month, July</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>hura</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>hura</i></td>
 <td>
 '<span>moon, month</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>vula</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>vula</i></td>
 <td>
 '<span>moon, month, season marked by moon</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>vula</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>vula</i></td>
 <td>
 '<span>moon, month</span>'</td>
 </tr>
@@ -2067,32 +2091,32 @@ As a verb, POc _&ast;sinaR_ ‘sun, shine’ (Ch. 6, p.163; above, p.310) has gi
 '<span>moon, month</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>māsina</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>māsina</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>māhina</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>māhina</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>māsina</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>māsina</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>East Futunan</td><td><i>māsina</i></td>
+<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td><i>māsina</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>East Uvean</td><td><i>māhina</i></td>
+<td>Pn</td><td><a href="../languages/eastuvean">East Uvean</a></td><td><i>māhina</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>māhina</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>māhina</i></td>
 <td>
 </td>
 </tr>
@@ -2105,11 +2129,11 @@ Phases of the moon are probably named in every Oceanic language. However, there 
 
 <a id="p-316"></a>
 
-Maximal systems, like those found in Micronesia and in Central Eastern Polynesian languages, have thirty names, one for each day of a lunar month.[^14] Between the minimal and the maximal systems are systems that divide the month into phases of two or three nights each (e.g. Sa’a as reported by [Ivens 1927](../references.md#source-Ivens1927), [1929](../references.md#source-Ivens1929)). Some Oceanic communities, like Mwotlap (NCV), seem to divide the lunar month into phases based on sixths rather than quarters. That is, they have terms for the new moon and (roughly) the 5th, 10th, 15th, 20th and 25th days ([François 2001](../references.md#source-Francois2001)). From White, Kokhonigita and Pulomana’s (1988) dictionary definitions it seems that Maringe may also be such a language. Kiriwina apparently names days only from the 10th to the 20th day. The Lamotrek days, as listed by [Christian](../references.md#source-Christian1899) ([1899](../references.md#source-Christian1899)) are divided into two sections of respectively ten and twenty days.
+Maximal systems, like those found in Micronesia and in Central Eastern Polynesian languages, have thirty names, one for each day of a lunar month.[^14] Between the minimal and the maximal systems are systems that divide the month into phases of two or three nights each (e.g. Sa’a as reported by [Ivens 1927](../sources/Ivens1927), [1929](../sources/Ivens1929)). Some Oceanic communities, like Mwotlap (NCV), seem to divide the lunar month into phases based on sixths rather than quarters. That is, they have terms for the new moon and (roughly) the 5th, 10th, 15th, 20th and 25th days ([François 2001](../sources/Francois2001)). From White, Kokhonigita and Pulomana’s (1988) dictionary definitions it seems that Maringe may also be such a language. Kiriwina apparently names days only from the 10th to the 20th day. The Lamotrek days, as listed by [Christian](../sources/Christian1899) ([1899](../sources/Christian1899)) are divided into two sections of respectively ten and twenty days.
 
 Proto Micronesian and Proto Central–Eastern Polynesian sets of day names could probably be reconstructed, but the two sets would not be cognate and, unlike the month names, it is not possible to attribute literal meanings to most of their members (although some of the Polynesian sets apparently name supernatural beings). Hence for POc purposes there is little point in reconstructing them. In fact, there is not a great deal that can be reconstructed of the way that POc speakers talked about moon phases.
 
-The first phase is strictly speaking the days of darkness. Interestingly, the sources vary as to how many of these there are, and [Grimble](../references.md#source-Grimble1931) ([1931](../references.md#source-Grimble1931)) claims that the Kiribati did not know.
+The first phase is strictly speaking the days of darkness. Interestingly, the sources vary as to how many of these there are, and [Grimble](../sources/Grimble1931) ([1931](../sources/Grimble1931)) claims that the Kiribati did not know.
 
 The denotation of the first visible phase often makes reference to the moon’s thin crescent shape. A number of languages compare it to a crescent-shaped pearlshell ornament, and it is possible that this image was also used in POc. Such artefacts have not appeared in the archaeological record, but they are fairly common ethnographically and a term for them, POc _&ast;japi_ was reconstructed in vol. 1 (p.104). It is reflected in the Arosi term below.
 
@@ -2192,32 +2216,32 @@ Other languages refer to what was apparently the same phase as ‘the young moon
 '<span>new moon, young moon</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Roviana</td><td><i>sidara vaqura</i></td>
+<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td><i>sidara vaqura</i></td>
 <td>
 '<span>new moon</span>' (<span><em>sidara</em> ‘moon’, <em>vaqura</em> ‘new, young’</span>)</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mwotlap</td><td><i>no-wol wɛhɛy</i></td>
+<td>NCV</td><td><a href="../languages/mwotlap">Mwotlap</a></td><td><i>no-wol wɛhɛy</i></td>
 <td>
 '<span>new moon</span>' (<span><em>no</em> ART, <em>wol</em> ‘moon’, <em>wɛhɛy</em> ‘new, young’</span>)</td>
 </tr>
 <tr>
-<td>SV</td><td>Lenakel</td><td><i>mouk vi</i></td>
+<td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td><i>mouk vi</i></td>
 <td>
 '<span>new moon</span>' (<span><em>mouk</em> ‘moon’, <em>vi</em> ‘new’</span>)</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>vula vou</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>vula vou</i></td>
 <td>
 '<span>new moon</span>' (<span><em>vula</em> ‘moon’, <em>vou</em> ‘new’</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>māhina foʔou</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>māhina foʔou</i></td>
 <td>
 '<span>new moon</span>' (<span><em>māhina</em> ‘moon’, <em>foʔou</em> ‘new’</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>mahina pula fōu</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>mahina pula fōu</i></td>
 <td>
 '<span>new moon</span>' (<span><em>mahina</em> ‘moon’, <em>pula</em> ‘rise’, <em>fōu</em> ‘new’</span>)</td>
 </tr>
@@ -2293,7 +2317,7 @@ Curiously, this is about as far as we can go with reconstructing POc moon phases
 ### 2.4. The year and its seasons
 
 
-Probably the main seasons for POc speakers living in northwest Melanesia were meteorological: the dry, when the southeast trades blew with reasonable consistency, and the wet, when there were sporadic northwesterly winds. The POc terms for these were respectively _&ast;raki_ and _&ast;apaRat_, which seem to have referred centrally to the seasons, with typical weather and wind direction as inevitable components of their meanings. More details are given in Chapter 5, §4.2, whence the reconstructions below are repeated.
+Probably the main seasons for POc speakers living in northwest Melanesia were meteorological: the dry, when the southeast trades blew with reasonable consistency, and the wet, when there were sporadic northwesterly winds. The POc terms for these were respectively _&ast;raki_ and _&ast;apaRat_, which seem to have referred centrally to the seasons, with typical weather and wind direction as inevitable components of their meanings. More details are given in [Chapter 5, §4.2](../contributions/2-5#s-4-2), whence the reconstructions below are repeated.
 
 <table id="2-9-2-4-318-POc-raki-a">
 <tr>
@@ -2305,112 +2329,112 @@ Probably the main seasons for POc speakers living in northwest Melanesia were me
 '<span>dry season when the southeast trades blow</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Lou</td><td><i>ra</i></td>
+<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td><i>ra</i></td>
 <td>
 '<span>northeast, northeast wind</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Titan</td><td><i>ⁿray</i></td>
+<td>Adm</td><td><a href="../languages/titan">Titan</a></td><td><i>ⁿray</i></td>
 <td>
 '<span>wind from the mainland, mountain breeze, blows at night</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Gitua</td><td><i>rak</i></td>
+<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td><i>rak</i></td>
 <td>
 '<span>southeast trade</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Mangap</td><td><i>rak-rak</i></td>
+<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td><i>rak-rak</i></td>
 <td>
 '<span>fresh morning (during windy season)</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Tami</td><td><i>lai</i></td>
+<td>NNG</td><td><a href="../languages/tami">Tami</a></td><td><i>lai</i></td>
 <td>
 '<span>southeast trade</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Maleu</td><td><i>(na)lai</i></td>
+<td>NNG</td><td><a href="../languages/maleu">Maleu</a></td><td><i>(na)lai</i></td>
 <td>
 '<span>southeast trade</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Ali</td><td><i>rai</i></td>
+<td>NNG</td><td><a href="../languages/ali">Ali</a></td><td><i>rai</i></td>
 <td>
 '<span>southeast trade</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Tumleo</td><td><i>riei</i></td>
+<td>NNG</td><td><a href="../languages/tumleo">Tumleo</a></td><td><i>riei</i></td>
 <td>
 '<span>southeast trade</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Vitu</td><td><i>raɣi</i></td>
+<td>MM</td><td><a href="../languages/vitu">Vitu</a></td><td><i>raɣi</i></td>
 <td>
 '<span>southeast trade</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Bulu</td><td><i>laɣi</i></td>
+<td>MM</td><td><a href="../languages/bulu">Bulu</a></td><td><i>laɣi</i></td>
 <td>
 '<span>southeast trade</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tigak</td><td><i>rei</i></td>
+<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td><i>rei</i></td>
 <td>
 '<span>wind</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Lewo</td><td><i>lagi(pesoi)</i></td>
+<td>NCV</td><td><a href="../languages/lewo">Lewo</a></td><td><i>lagi(pesoi)</i></td>
 <td>
 '<span>east wind</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Marshallese</td><td><i>ṛᶭak</i></td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>ṛᶭak</i></td>
 <td>
 '<span>south, summer</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Ponapean</td><td><i>rāk</i></td>
+<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td><i>rāk</i></td>
 <td>
 '<span>breadfruit season, season of plenty</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>draki</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>draki</i></td>
 <td>
 '<span>weather</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>draki</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>draki</i></td>
 <td>
 '<span>weather</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>laki</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>laki</i></td>
 <td>
 '<span>west</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>lak(oifie)</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>lak(oifie)</i></td>
 <td>
 '<span>fair, fine weather</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>East Uvean</td><td><i>laki</i></td>
+<td>Pn</td><td><a href="../languages/eastuvean">East Uvean</a></td><td><i>laki</i></td>
 <td>
 '<span>southeast or southwest wind</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Pukapukan</td><td><i>laki</i></td>
+<td>Pn</td><td><a href="../languages/pukapukan">Pukapukan</a></td><td><i>laki</i></td>
 <td>
 '<span>southwest wind</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>laʔi</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>laʔi</i></td>
 <td>
 '<span>southwest veering to northwest</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Hawaiian</td><td><i>laʔi</i></td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>laʔi</i></td>
 <td>
 '<span>calm, stillness, quiet (of sea, sky, wind)</span>'</td>
 </tr>
@@ -2425,7 +2449,7 @@ Probably the main seasons for POc speakers living in northwest Melanesia were me
 <i>&ast;habaRat</i>
 </td>
 <td>
-'<span>west monsoon</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>; <a href="../references.md#source-Dempwolff1938">Dempwolff1938</a>)
+'<span>west monsoon</span>' (<a href="../sources/Blust1995">Blust1995</a>; <a href="../sources/Dempwolff1938">Dempwolff1938</a>)
 </td>
 </tr>
 <tr>
@@ -2437,97 +2461,97 @@ Probably the main seasons for POc speakers living in northwest Melanesia were me
 '<span>wet season when northwesterlies blow and sea is rough</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Mussau</td><td><i>apae</i></td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>apae</i></td>
 <td>
 '<span>strong wind, storm wind</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Wuvulu</td><td><i>afā</i></td>
+<td>Adm</td><td><a href="../languages/wuvulu">Wuvulu</a></td><td><i>afā</i></td>
 <td>
 '<span>northwest wind</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Drehet</td><td><i>yaha</i></td>
+<td>Adm</td><td><a href="../languages/drehet">Drehet</a></td><td><i>yaha</i></td>
 <td>
 '<span>stormy season, generally from November to March; strong wind and rough sea from the northwest</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kove</td><td><i>awaha</i></td>
+<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td><i>awaha</i></td>
 <td>
 '<span>rain</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Gitua</td><td><i>yavara</i></td>
+<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td><i>yavara</i></td>
 <td>
 '<span>north wind</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Tami</td><td><i>yawal</i></td>
+<td>NNG</td><td><a href="../languages/tami">Tami</a></td><td><i>yawal</i></td>
 <td>
 '<span>northwest wind</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kairiru</td><td><i>yavar</i></td>
+<td>NNG</td><td><a href="../languages/kairiru">Kairiru</a></td><td><i>yavar</i></td>
 <td>
 '<span>northwest wind, makes sea rough</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Iduna</td><td><i>yavalata</i></td>
+<td>PT</td><td><a href="../languages/iduna">Iduna</a></td><td><i>yavalata</i></td>
 <td>
 '<span>rains with wind from the northwest in February and March</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Tawala</td><td><i>yawalata</i></td>
+<td>PT</td><td><a href="../languages/tawala">Tawala</a></td><td><i>yawalata</i></td>
 <td>
 '<span>light rain from southwest during dry season</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>lahara</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>lahara</i></td>
 <td>
 '<span>northwest wind and season</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Bali</td><td><i>vurata</i></td>
+<td>MM</td><td><a href="../languages/bali">Bali</a></td><td><i>vurata</i></td>
 <td>
 '<span>northwest wind</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nakanai</td><td><i>le-avala</i></td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>le-avala</i></td>
 <td>
 '<span>year, wet season</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Kara (East)</td><td><i>yefet</i></td>
+<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td><i>yefet</i></td>
 <td>
 '<span>wet season</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Barok</td><td><i>awat</i></td>
+<td>MM</td><td><a href="../languages/barok">Barok</a></td><td><i>awat</i></td>
 <td>
 '<span>year</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Siar</td><td><i>yahrat</i></td>
+<td>MM</td><td><a href="../languages/siar">Siar</a></td><td><i>yahrat</i></td>
 <td>
 '<span>year</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tinputz</td><td><i>ivat</i></td>
+<td>MM</td><td><a href="../languages/tinputz">Tinputz</a></td><td><i>ivat</i></td>
 <td>
 '<span>strong wind</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>ðavā</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>ðavā</i></td>
 <td>
 '<span>storm, strong wind bringing rain</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>afā</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>afā</i></td>
 <td>
 '<span>hurricane, gale or very severe storm</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>afā</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>afā</i></td>
 <td>
 '<span>storm, hurricane</span>'</td>
 </tr>
@@ -2585,7 +2609,7 @@ The terms I have reconstructed above refer to wind directions and to seasons. A 
 </tr>
 </table>
 
-In [Ross](../references.md#source-Ross1995c) ([1995c](../references.md#source-Ross1995c)) I wrote, ‘There is … no doubt that POc had a separate (and widely reflected) word for year’, and followed it with the reconstruction of POc _&ast;taqun_ below. This statement stands, but with a qualification. The Buang, Tongan and East Futunan reflexes indicate that _&ast;taqun_ may have been used particularly to denote the yam-growing cycle. This would not be surprising: the greater yam, Dioscorea alata (POc _&ast;qupi_; [Ross 1996d](../references.md#source-Ross1996d)) is a highly prized — but not especially nutritious — crop throughout much of Oceania, with much ritual associated with its growth cycle, and so it is a highly salient marker of a year. It is likely that that it already had the meaning ‘yam season cycle’ in POc times.
+In [Ross](../sources/Ross1995c) ([1995c](../sources/Ross1995c)) I wrote, ‘There is … no doubt that POc had a separate (and widely reflected) word for year’, and followed it with the reconstruction of POc _&ast;taqun_ below. This statement stands, but with a qualification. The Buang, Tongan and East Futunan reflexes indicate that _&ast;taqun_ may have been used particularly to denote the yam-growing cycle. This would not be surprising: the greater yam, Dioscorea alata (POc _&ast;qupi_; [Ross 1996d](../sources/Ross1996d)) is a highly prized — but not especially nutritious — crop throughout much of Oceania, with much ritual associated with its growth cycle, and so it is a highly salient marker of a year. It is likely that that it already had the meaning ‘yam season cycle’ in POc times.
 
 <table id="2-9-2-4-319-POc-taqun-a">
 <tr>
@@ -2594,7 +2618,7 @@ In [Ross](../references.md#source-Ross1995c) ([1995c](../references.md#source-Ro
 <i>&ast;taqun</i>
 </td>
 <td>
-'<span>period of a year</span>' (<a href="../references.md#source-Dempwolff1938">Dempwolff1938</a>)
+'<span>period of a year</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
 </td>
 </tr>
 <tr>
@@ -2606,102 +2630,102 @@ In [Ross](../references.md#source-Ross1995c) ([1995c](../references.md#source-Ro
 '<span>period of a year, yam season cycle (?), any cyclic period</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Bariai</td><td><i>taun</i></td>
+<td>NNG</td><td><a href="../languages/bariai">Bariai</a></td><td><i>taun</i></td>
 <td>
 '<span>the time when …</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Buang</td><td><i>ta</i></td>
+<td>NNG</td><td><a href="../languages/buang">Buang</a></td><td><i>ta</i></td>
 <td>
 '<span>year; a complete cycle of yam growing</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Ulau-Suain</td><td><i>taun</i></td>
+<td>NNG</td><td><a href="../languages/ulausuain">Ulau-Suain</a></td><td><i>taun</i></td>
 <td>
 '<span>year</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Bola</td><td><i>tahu(na)</i></td>
+<td>MM</td><td><a href="../languages/bola">Bola</a></td><td><i>tahu(na)</i></td>
 <td>
 '<span>the time when …</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Sursurunga</td><td><i>taul</i></td>
+<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td><i>taul</i></td>
 <td>
 '<span>season</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Patpatar</td><td><i>t<in>ahon, t<in>ohon</i></td>
+<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td><i>t<in>ahon, t<in>ohon</i></td>
 <td>
 '<span>year</span>' (<span>‹in› marks a nominalisation: vol. 1. p.33</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td>Ramoaaina</td><td><i>t<in>əwon</i></td>
+<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>t<in>əwon</i></td>
 <td>
 '<span>year</span>' (<span>‹in› marks a nominalisation: vol. 1. p.33</span>)</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>tau</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>tau</i></td>
 <td>
 '<span>season</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Nguna</td><td><i>(na)tau</i></td>
+<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td><i>(na)tau</i></td>
 <td>
 '<span>year</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kiribatese</td><td><i>tai</i></td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>tai</i></td>
 <td>
 '<span>time, season, harvest</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Trukese</td><td><i>sowu-</i></td>
+<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td><i>sowu-</i></td>
 <td>
 '<span>time, season</span>' (<span>in compounds</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>taʔu</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>taʔu</i></td>
 <td>
 '<span>yam season cycle, year</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>East Futunan</td><td><i>taʔu</i></td>
+<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td><i>taʔu</i></td>
 <td>
 '<span>yam season</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>tau</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>tau</i></td>
 <td>
 '<span>season, year</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>taʔu</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>taʔu</i></td>
 <td>
 '<span>season</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>taʔu ika</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>taʔu ika</i></td>
 <td>
 '<span>fish season (late July to early January)</span>' (<span><em>ika</em> ‘fish’</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tuvalu</td><td><i>tau(naŋa)</i></td>
+<td>Pn</td><td><a href="../languages/tuvalu">Tuvalu</a></td><td><i>tau(naŋa)</i></td>
 <td>
 '<span>year</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rapanui</td><td><i>taʔu</i></td>
+<td>Pn</td><td><a href="../languages/rapanui">Rapanui</a></td><td><i>taʔu</i></td>
 <td>
 '<span>year</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Anutan</td><td><i>tau</i></td>
+<td>Pn</td><td><a href="../languages/anutan">Anutan</a></td><td><i>tau</i></td>
 <td>
 '<span>year</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Mangareva</td><td><i>tau</i></td>
+<td>Pn</td><td><a href="../languages/mangareva">Mangareva</a></td><td><i>tau</i></td>
 <td>
 '<span>season, year</span>'</td>
 </tr>
@@ -2712,9 +2736,9 @@ In [Ross](../references.md#source-Ross1995c) ([1995c](../references.md#source-Ro
 
 <a id="p-320"></a>
 
-[Newell and Poligon](../references.md#source-NewellandPoligon1993) ([1993](../references.md#source-NewellandPoligon1993):486) define Batad Ifugao (Central Cordilleran, Philippines) _tawon_ as follows: ‘a measure of the time between a major event such as planting or harvesting rice until it recurs. Traditionally, reference is not to a calendar year; a year does not have a fixed beginning and end.’ The rice harvest was evidently replaced by the yam harvest in POc. Glosses in other languages suggest that _&ast;taqun_ was perhaps originally the name of a particular season, the dry season when food did not grow. We find Isneg (North Cordilleran) _mag-d‹in›axun_ ‘the hot, dry season’, derived from _taxun_ ‘year’ ([Vanoverbergh 1972](../references.md#source-Vanoverbergh1972)), and Binukid (Manobo) _taun_ ‘hunger season’ ([Post 1992](../references.md#source-Post1992)).
+[Newell and Poligon](../sources/NewellandPoligon1993) ([1993](../sources/NewellandPoligon1993):486) define Batad Ifugao (Central Cordilleran, Philippines) _tawon_ as follows: ‘a measure of the time between a major event such as planting or harvesting rice until it recurs. Traditionally, reference is not to a calendar year; a year does not have a fixed beginning and end.’ The rice harvest was evidently replaced by the yam harvest in POc. Glosses in other languages suggest that _&ast;taqun_ was perhaps originally the name of a particular season, the dry season when food did not grow. We find Isneg (North Cordilleran) _mag-d‹in›axun_ ‘the hot, dry season’, derived from _taxun_ ‘year’ ([Vanoverbergh 1972](../sources/Vanoverbergh1972)), and Binukid (Manobo) _taun_ ‘hunger season’ ([Post 1992](../sources/Post1992)).
 
-In Polynesian languages, there is a tendency, stronger in the east that in the west, for the reflex of POc _&ast;taqun_ / PPn _&ast;taqu_ to denote a ‘season’, in the sense of the dry season or the wet season. [Kirch and Green](../references.md#source-KirchandGreen2001) ([2001](../references.md#source-KirchandGreen2001):261, 265) believe that the use of these reflexes to mean ‘year’ postdates western contact, but it does seem that the annual cycle of planting and harvesting was a major element of the meaning of both POc _&ast;taqun_ and PPn _&ast;taqu_ ([Kirch & Green 2001](../references.md#source-KirchandGreen2001):267). The presence of the nominaliser _‹in›_ in the Patpatar and Ramoaaina reflexes above suggests that POc _&ast;taqun_ was also a verb meaning ‘last a year’.
+In Polynesian languages, there is a tendency, stronger in the east that in the west, for the reflex of POc _&ast;taqun_ / PPn _&ast;taqu_ to denote a ‘season’, in the sense of the dry season or the wet season. [Kirch and Green](../sources/KirchandGreen2001) ([2001](../sources/KirchandGreen2001):261, 265) believe that the use of these reflexes to mean ‘year’ postdates western contact, but it does seem that the annual cycle of planting and harvesting was a major element of the meaning of both POc _&ast;taqun_ and PPn _&ast;taqu_ ([Kirch & Green 2001](../sources/KirchandGreen2001):267). The presence of the nominaliser _‹in›_ in the Patpatar and Ramoaaina reflexes above suggests that POc _&ast;taqun_ was also a verb meaning ‘last a year’.
 
 
 <a id="s-2-5"></a>
@@ -2747,7 +2771,7 @@ No POc form which uniquely means ‘now’ or ‘today’ is reconstructable. In
 
 The second strategy is an extension of the first: a phrase corresponding to ‘this day’ is used. Hence Drehet (Adm) _laŋ nane_, Nguna _raŋi waia_, Niuean (Pn) _aho nei_, all ‘day’ + ‘this’. Nehan (MM) _ene dān_ once meant ‘this day’ (_dān_ < POc _&ast;raqani_ ‘daytime’) but now means only ‘today’.
 
-The claim is sometimes made that Oceanic systems of spatial deixis are also used for temporal purposes. There are very few well documented cases of this beyond the use of the proximal demonstrative ‘here’ for ‘now’. Such cases are Nêlêmwa (Bril 2002), Iaai ([Ozanne-Rivierre 2004](../references.md#source-OzanneRivierre2004)), Kosraean ([Lee 1975](../references.md#source-Lee1975):129), Mokilese ([Harrison 1976](../references.md#source-Harrison1976):77–81, 85) and Samoan ([Mosel 2004](../references.md#source-Mosel2004)). However, as [Anderson and Keenan](../references.md#source-AndersonandKeenan1985) ([1985](../references.md#source-AndersonandKeenan1985):298–299) observe with regard to Kosraean and Mokilese, even in these two Micronesian languages the temporal applications of the spatial deictics are not parallel. The same observation is true of the other languages just listed, and so no precise reconstruction of a temporal usage of spatial deictics in POc is possible.
+The claim is sometimes made that Oceanic systems of spatial deixis are also used for temporal purposes. There are very few well documented cases of this beyond the use of the proximal demonstrative ‘here’ for ‘now’. Such cases are Nêlêmwa (Bril 2002), Iaai ([Ozanne-Rivierre 2004](../sources/OzanneRivierre2004)), Kosraean ([Lee 1975](../sources/Lee1975):129), Mokilese ([Harrison 1976](../sources/Harrison1976):77–81, 85) and Samoan ([Mosel 2004](../sources/Mosel2004)). However, as [Anderson and Keenan](../sources/AndersonandKeenan1985) ([1985](../sources/AndersonandKeenan1985):298–299) observe with regard to Kosraean and Mokilese, even in these two Micronesian languages the temporal applications of the spatial deictics are not parallel. The same observation is true of the other languages just listed, and so no precise reconstruction of a temporal usage of spatial deictics in POc is possible.
 
 
 <a id="s-3-2"></a>
@@ -2792,57 +2816,57 @@ The reconstructions below are repeated from Chapter 8, but only reflexes with a 
 '<span>in front, formerly</span>' (<span>p.257</span>)</td>
 </tr>
 <tr>
-<td>Adm</td><td>Mussau</td><td><i>mu-mua</i></td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>mu-mua</i></td>
 <td>
 '<span>first of all, formerly</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tabar</td><td><i>mu-mua</i></td>
+<td>MM</td><td><a href="../languages/tabar">Tabar</a></td><td><i>mu-mua</i></td>
 <td>
 '<span>formerly</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Lihir</td><td><i>(i)muo</i></td>
+<td>MM</td><td><a href="../languages/lihir">Lihir</a></td><td><i>(i)muo</i></td>
 <td>
 '<span>formerly</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Taiof</td><td><i>(i)mua(n)</i></td>
+<td>MM</td><td><a href="../languages/taiof">Taiof</a></td><td><i>(i)mua(n)</i></td>
 <td>
 '<span>formerly</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>(a)mʷoa</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>(a)mʷoa</i></td>
 <td>
 '<span>before, first</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Raga</td><td><i>(a)mua</i></td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>(a)mua</i></td>
 <td>
 '<span>before, at first, first, in front of</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Port Sandwich</td><td><i>(a)mo</i></td>
+<td>NCV</td><td><a href="../languages/portsandwich">Port Sandwich</a></td><td><i>(a)mo</i></td>
 <td>
 [POSTVERBAL ADV] '<span>before</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Woleaian</td><td><i>[i]mʷowa-</i></td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>[i]mʷowa-</i></td>
 <td>
 '<span>front, before</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Woleaian</td><td><i>mʷ-mʷa-</i></td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>mʷ-mʷa-</i></td>
 <td>
 '<span>front, first, tip, before</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>(ʔi) muʔa [-atu]</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>(ʔi) muʔa [-atu]</i></td>
 <td>
 '<span>formerly</span>' (<span>-atu DIR; p.279</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>(ana)mua</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>(ana)mua</i></td>
 <td>
 '<span>formerly, in those days</span>'</td>
 </tr>
@@ -2855,37 +2879,37 @@ The reconstructions below are repeated from Chapter 8, but only reflexes with a 
 '<span>front; be in front; formerly</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Bariai</td><td><i>muga(eai)</i></td>
+<td>NNG</td><td><a href="../languages/bariai">Bariai</a></td><td><i>muga(eai)</i></td>
 <td>
 '<span>formerly</span>' (<span><em>-eai</em> POSTP</span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td>Lukep (Pono)</td><td><i>mugu</i></td>
+<td>NNG</td><td><a href="../languages/lukeppono">Lukep (Pono)</a></td><td><i>mugu</i></td>
 <td>
 '<span>first of all, formerly</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Mangap</td><td><i>muᵑgu</i></td>
+<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td><i>muᵑgu</i></td>
 <td>
 '<span>first of all, formerly, long ago</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Bing</td><td><i>mug</i></td>
+<td>NNG</td><td><a href="../languages/bing">Bing</a></td><td><i>mug</i></td>
 <td>
 '<span>formerly</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Adzera</td><td><i>moŋʔ</i></td>
+<td>NNG</td><td><a href="../languages/adzera">Adzera</a></td><td><i>moŋʔ</i></td>
 <td>
 '<span>prior</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Bali</td><td><i>muga-</i></td>
+<td>MM</td><td><a href="../languages/bali">Bali</a></td><td><i>muga-</i></td>
 <td>
 '<span>front</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Ramoaaina</td><td><i>(nə)mugə</i></td>
+<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>(nə)mugə</i></td>
 <td>
 '<span>in front; formerly</span>'</td>
 </tr>
@@ -2900,7 +2924,7 @@ The reconstructions below are repeated from Chapter 8, but only reflexes with a 
 <i>&ast;ma-udehi</i>
 </td>
 <td>
-'<span>be last; be after or behind; be late, be later; future</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>be last; be after or behind; be late, be later; future</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -2920,117 +2944,117 @@ The reconstructions below are repeated from Chapter 8, but only reflexes with a 
 '<span>at the back, later</span>' (<span>p.261</span>)</td>
 </tr>
 <tr>
-<td>Adm</td><td>Titan</td><td><i>muri-n</i></td>
+<td>Adm</td><td><a href="../languages/titan">Titan</a></td><td><i>muri-n</i></td>
 <td>
 '<span>behind, afterwards</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Bariai</td><td><i>muri(ai)</i></td>
+<td>NNG</td><td><a href="../languages/bariai">Bariai</a></td><td><i>muri(ai)</i></td>
 <td>
 '<span>later, afterwards</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Sio</td><td><i>muri</i></td>
+<td>NNG</td><td><a href="../languages/sio">Sio</a></td><td><i>muri</i></td>
 <td>
 '<span>later</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Gitua</td><td><i>mur</i></td>
+<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td><i>mur</i></td>
 <td>
 '<span>behind, afterwards</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Bing</td><td><i>mur(gam)</i></td>
+<td>NNG</td><td><a href="../languages/bing">Bing</a></td><td><i>mur(gam)</i></td>
 <td>
 '<span>later</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Dobu</td><td><i>muri-na</i></td>
+<td>PT</td><td><a href="../languages/dobu">Dobu</a></td><td><i>muri-na</i></td>
 <td>
 '<span>behind, afterwards</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Gapapaiwa</td><td><i>muri</i></td>
+<td>PT</td><td><a href="../languages/gapapaiwa">Gapapaiwa</a></td><td><i>muri</i></td>
 <td>
 '<span>back of s.t.; behind, afterwards</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Tawala</td><td><i>muri</i></td>
+<td>PT</td><td><a href="../languages/tawala">Tawala</a></td><td><i>muri</i></td>
 <td>
 '<span>back of s.t.; behind, afterwards</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Sinaugoro</td><td><i>muri-na(i)</i></td>
+<td>PT</td><td><a href="../languages/sinaugoro">Sinaugoro</a></td><td><i>muri-na(i)</i></td>
 <td>
 '<span>behind, afterwards</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Meramera</td><td><i>(muli)muli</i></td>
+<td>MM</td><td><a href="../languages/meramera">Meramera</a></td><td><i>(muli)muli</i></td>
 <td>
 '<span>later</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nakanai</td><td><i>(muli)muli</i></td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>(muli)muli</i></td>
 <td>
 '<span>later</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tigak</td><td><i>(ai)muk</i></td>
+<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td><i>(ai)muk</i></td>
 <td>
 '<span>later</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Ramoaaina</td><td><i>(na)mur</i></td>
+<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>(na)mur</i></td>
 <td>
 '<span>later, afterwards</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Mono-Alu</td><td><i>(muri)muri</i></td>
+<td>MM</td><td><a href="../languages/monoalu">Mono-Alu</a></td><td><i>(muri)muri</i></td>
 <td>
 '<span>later</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Vangunu</td><td><i>(tara)meji-na</i></td>
+<td>MM</td><td><a href="../languages/vangunu">Vangunu</a></td><td><i>(tara)meji-na</i></td>
 <td>
 '<span>after</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Varisi</td><td><i>(tara)muzi-na</i></td>
+<td>MM</td><td><a href="../languages/varisi">Varisi</a></td><td><i>(tara)muzi-na</i></td>
 <td>
 '<span>after</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>muri</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>muri</i></td>
 <td>
 '<span>behind, afterwards; back; outside of s.t.; afterbirth; posterity</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lengo</td><td><i>(i)muri(a)</i></td>
+<td>SES</td><td><a href="../languages/lengo">Lengo</a></td><td><i>(i)muri(a)</i></td>
 <td>
 '<span>after</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>muri</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>muri</i></td>
 <td>
 '<span>follow; behind, back; outside of s.t.; afterwards; left hand when facing an object</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>(e) muri</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>(e) muri</i></td>
 <td>
 '<span>behind, later</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>(ʔa)mui</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>(ʔa)mui</i></td>
 <td>
 '<span>later on, at some future time</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>muri</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>muri</i></td>
 <td>
 '<span>rear, hind part; sequel, time to come; behind, afterwards, backwards; youngest child</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>(i) muri</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>(i) muri</i></td>
 <td>
 '<span>afterwards</span>'</td>
 </tr>
@@ -3048,7 +3072,7 @@ The reconstructions below are repeated from Chapter 8, but only reflexes with a 
 <i>&ast;burit</i>
 </td>
 <td>
-'<span>hind part, rear, back</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>hind part, rear, back</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -3068,12 +3092,12 @@ The reconstructions below are repeated from Chapter 8, but only reflexes with a 
 '<span>behind, afterwards</span>' (<span>p.262</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>(i) buri</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>(i) buri</i></td>
 <td>
 '<span>afterwards</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>'Are'are</td><td><i>puri-na</i></td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>puri-na</i></td>
 <td>
 '<span>after</span>'</td>
 </tr>
@@ -3095,57 +3119,57 @@ It is hard to avoid the conclusion that _&ast;tuqaRi_ ‘(be) long ago; old (of 
 '<span>(be) long ago; take a long time, old (of inanimates)</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>tuai</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>tuai</i></td>
 <td>
 '<span>of long duration, old</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Tamambo</td><td><i>tuai</i></td>
+<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td><i>tuai</i></td>
 <td>
 '<span>of old</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Nguna</td><td><i>tuai</i></td>
+<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td><i>tuai</i></td>
 <td>
 '<span>long ago, (thing) old</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Sye</td><td><i>(e)twai</i></td>
+<td>SV</td><td><a href="../languages/sye">Sye</a></td><td><i>(e)twai</i></td>
 <td>
 '<span>recently</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Sye</td><td><i>(it-e)twai</i></td>
+<td>SV</td><td><a href="../languages/sye">Sye</a></td><td><i>(it-e)twai</i></td>
 <td>
 '<span>long time ago</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Kwamera</td><td><i>tui</i></td>
+<td>SV</td><td><a href="../languages/kwamera">Kwamera</a></td><td><i>tui</i></td>
 <td>
 '<span>old, previous, of the past, long ago</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Anejom</td><td><i>(i)tuwu</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>(i)tuwu</i></td>
 <td>
 '<span>long ago</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>tuei</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>tuei</i></td>
 <td>
 [V, ADJ] '<span>take a long time; be slow, late</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>tuai</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>tuai</i></td>
 <td>
 [V] '<span>be slow, late</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>(mai) tuai</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>(mai) tuai</i></td>
 <td>
 [PP] '<span>from of old, since very early times</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>tuai</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>tuai</i></td>
 <td>
 [V] '<span>be late, be delayed</span>'</td>
 </tr>
@@ -3161,9 +3185,13 @@ It is hard to avoid the conclusion that _&ast;tuqaRi_ ‘(be) long ago; old (of 
 
 POc temporal bases themselves were in general directionless, i.e. neutral between past and future. The exception to this was _&ast;ñoRap_ ‘yesterday’. There is no clearly reconstructable term for ‘tomorrow’, and both ‘yesterday’ and ‘tomorrow’ are often denoted by terms which reflect as their base either POc _&ast;boŋi_ ‘night, day of twenty-four hours’ (p.305) or POc _&ast;raqani_ ‘daytime, daylight’ (p.309). ‘The day before yesterday’ and ‘the day after tomorrow’ both had as their base the directionless _&ast;waRisa_ ‘two days from today’ (p.332).
 
-[Pawley](../references.md#source-Pawley1972) ([1972](../references.md#source-Pawley1972):32–33, 82) reconstructed the PEOc prefixes _&ast;qa-_ and _&ast;qana-_ as formatives of future and past temporal expressions respectively. In the light of wider evidence, it seems that _&ast;qana-_ was originally two prefixes: _&ast;qa-_ and _&ast;na-_. In both formatives _&ast;qa-_ is the POc adverbialising prefix described in Chapter 8 (p.235), whilst _&ast;na-_ was a prefix forming temporal bases situated in the past. Sometimes, it seems, it was attached to a base which had past meaning, but often it formed a past term from a base which did not express temporal direction. This _&ast;na-_ may well be of PMP antiquity, as it is reflected with the same function in (Western Malayo-Polynesian) languages of the Kaili-Pamona, Wotu-Wolio and SE Celebic families on the island of Sulawesi ([Mead 2001](../references.md#source-Mead2001)).
+[Pawley](../sources/Pawley1972) ([1972](../sources/Pawley1972):32–33, 82) reconstructed the PEOc prefixes _&ast;qa-_ and _&ast;qana-_ as formatives of future and past temporal expressions respectively. In the light of wider evidence, it seems that _&ast;qana-_ was originally two prefixes: _&ast;qa-_ and _&ast;na-_. In both formatives _&ast;qa-_ is the POc adverbialising prefix described in Chapter 8 (p.235), whilst _&ast;na-_ was a prefix forming temporal bases situated in the past. Sometimes, it seems, it was attached to a base which had past meaning, but often it formed a past term from a base which did not express temporal direction. This _&ast;na-_ may well be of PMP antiquity, as it is reflected with the same function in (Western Malayo-Polynesian) languages of the Kaili-Pamona, Wotu-Wolio and SE Celebic families on the island of Sulawesi ([Mead 2001](../sources/Mead2001)).
 
-9.3.3.1 Distances within a day
+
+<a id="s-3-3-1"></a>
+
+### 3.3.1 Distances within a day
+
 
 By distances within a day, I mean expressions corresponding to English ‘last night’, ‘tonight’, ‘this morning’, ‘this evening’. Oceanic data relating to these are very thin indeed. I suspect the main reason for this is that expressions consisting of ‘today’ or ‘yesterday’ plus ‘morning’ or ‘evening’ are often used, and they are simply not noted in dictionaries. For example:
 
@@ -3233,7 +3261,7 @@ By distances within a day, I mean expressions corresponding to English ‘last n
 </tr>
 </table>
 
-There are a few languages where _&ast;qa-_ is prefixed to a part of the day to form a future expression, _&ast;[qa]na-_ to form a past expression, but it is not clear whether these expressions are reconstructable for POc or are simply independent innovations resulting from the productivity of the prefixes. Thus we find Nakanai (MM) _ala-logo_ ‘last night’ vs _ga-logo_ ‘tonight’ (_-logo_ < _&ast;rodrom_ ‘night’), Nehan (MM) _na-boung_ ‘last night’, _na-liwo_ ‘this morning (past)’ vs _ro-liwo_ ‘tomorrow’ (the origin of _ro-_ is unknown), and Tongan (Pn) _ʔane-pō_ ‘last night’ vs _ʔa-pō_ ‘tonight’. Niuean (Pn) has terms reflecting _&ast;[qa]na-_: _ne-poŋi-poŋi_ ‘this morning (past)’, _ne-pō_ ‘last night’, and _ne-afi-afi_ ‘yesterday evening’. [Biggs and Clark](../references.md#source-BiggsandClark1993) ([1993](../references.md#source-BiggsandClark1993)) reconstruct PPn _&ast;qana-pō_ ‘last night’:
+There are a few languages where _&ast;qa-_ is prefixed to a part of the day to form a future expression, _&ast;[qa]na-_ to form a past expression, but it is not clear whether these expressions are reconstructable for POc or are simply independent innovations resulting from the productivity of the prefixes. Thus we find Nakanai (MM) _ala-logo_ ‘last night’ vs _ga-logo_ ‘tonight’ (_-logo_ < _&ast;rodrom_ ‘night’), Nehan (MM) _na-boung_ ‘last night’, _na-liwo_ ‘this morning (past)’ vs _ro-liwo_ ‘tomorrow’ (the origin of _ro-_ is unknown), and Tongan (Pn) _ʔane-pō_ ‘last night’ vs _ʔa-pō_ ‘tonight’. Niuean (Pn) has terms reflecting _&ast;[qa]na-_: _ne-poŋi-poŋi_ ‘this morning (past)’, _ne-pō_ ‘last night’, and _ne-afi-afi_ ‘yesterday evening’. [Biggs and Clark](../sources/BiggsandClark1993) ([1993](../sources/BiggsandClark1993)) reconstruct PPn _&ast;qana-pō_ ‘last night’:
 
 <table id="2-9-3-3-323-PPn-qanapo-a">
 <tr>
@@ -3245,42 +3273,42 @@ There are a few languages where _&ast;qa-_ is prefixed to a part of the day to f
 '<span>last night</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>ʔanepō</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>ʔanepō</i></td>
 <td>
 '<span>last night</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>ne-pō</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>ne-pō</i></td>
 <td>
 '<span>last night</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>anapō</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>anapō</i></td>
 <td>
 '<span>last night</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Anutan</td><td><i>anapo</i></td>
+<td>Pn</td><td><a href="../languages/anutan">Anutan</a></td><td><i>anapo</i></td>
 <td>
 '<span>last night</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>East Futunan</td><td><i>nāpō</i></td>
+<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td><i>nāpō</i></td>
 <td>
 '<span>last night</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>East Uvean</td><td><i>ʔana pō</i></td>
+<td>Pn</td><td><a href="../languages/eastuvean">East Uvean</a></td><td><i>ʔana pō</i></td>
 <td>
 '<span>last night</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Nukuria</td><td><i>anabō</i></td>
+<td>Pn</td><td><a href="../languages/nukuria">Nukuria</a></td><td><i>anabō</i></td>
 <td>
 '<span>last night</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tahitian</td><td><i>napo</i></td>
+<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td><i>napo</i></td>
 <td>
 '<span>last night</span>'</td>
 </tr>
@@ -3313,197 +3341,197 @@ The POc base for ‘yesterday’ was _&ast;ñoRap_. A few reflexes reflect accre
 '<span>yesterday</span>' (<span><em>|i ñoRap|, </em>qa-ñoRap (?)</span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kove</td><td><i>noha</i></td>
+<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td><i>noha</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Gitua</td><td><i>nora</i></td>
+<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td><i>nora</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Mangap</td><td><i>nēri</i></td>
+<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td><i>nēri</i></td>
 <td>
 [ADV] '<span>yesterday, subjectively recent time, just recently</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Sio</td><td><i>nola</i></td>
+<td>NNG</td><td><a href="../languages/sio">Sio</a></td><td><i>nola</i></td>
 <td>
 [ADV] '<span>yesterday; any unspecified prior time or day</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kilenge</td><td><i>nola</i></td>
+<td>NNG</td><td><a href="../languages/kilenge">Kilenge</a></td><td><i>nola</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Amara</td><td><i>noro</i></td>
+<td>NNG</td><td><a href="../languages/amara">Amara</a></td><td><i>noro</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Aria</td><td><i>narep</i></td>
+<td>NNG</td><td><a href="../languages/aria">Aria</a></td><td><i>narep</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Poeng</td><td><i>ŋalla</i></td>
+<td>NNG</td><td><a href="../languages/poeng">Poeng</a></td><td><i>ŋalla</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Mamusi</td><td><i>ŋala-na</i></td>
+<td>NNG</td><td><a href="../languages/mamusi">Mamusi</a></td><td><i>ŋala-na</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Roinji</td><td><i>nola</i></td>
+<td>NNG</td><td><a href="../languages/roinji">Roinji</a></td><td><i>nola</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Takia</td><td><i>nor</i></td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>nor</i></td>
 <td>
 [ADV] '<span>yesterday, recently</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Numbami</td><td><i>nolowa</i></td>
+<td>NNG</td><td><a href="../languages/numbami">Numbami</a></td><td><i>nolowa</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Yabem</td><td><i>no(gɛŋ)</i></td>
+<td>NNG</td><td><a href="../languages/yabem">Yabem</a></td><td><i>no(gɛŋ)</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kaiwa</td><td><i>nolik</i></td>
+<td>NNG</td><td><a href="../languages/kaiwa">Kaiwa</a></td><td><i>nolik</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Medebur</td><td><i>nora</i></td>
+<td>NNG</td><td><a href="../languages/medebur">Medebur</a></td><td><i>nora</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Manam</td><td><i>nora</i></td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>nora</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Ulau-Suain</td><td><i>nira-ñ</i></td>
+<td>NNG</td><td><a href="../languages/ulausuain">Ulau-Suain</a></td><td><i>nira-ñ</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Ali</td><td><i>nari</i></td>
+<td>NNG</td><td><a href="../languages/ali">Ali</a></td><td><i>nari</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Misima</td><td><i>noru</i></td>
+<td>PT</td><td><a href="../languages/misima">Misima</a></td><td><i>noru</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Bali</td><td><i>ŋorapa</i></td>
+<td>MM</td><td><a href="../languages/bali">Bali</a></td><td><i>ŋorapa</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Bulu</td><td><i>nola</i></td>
+<td>MM</td><td><a href="../languages/bulu">Bulu</a></td><td><i>nola</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Lavongai</td><td><i>(a)noŋo</i></td>
+<td>MM</td><td><a href="../languages/lavongai">Lavongai</a></td><td><i>(a)noŋo</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tigak</td><td><i>nogo</i></td>
+<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td><i>nogo</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Ramoaaina</td><td><i>narap</i></td>
+<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>narap</i></td>
 <td>
 '<span>before, formerly</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nehan</td><td><i>nerau</i></td>
+<td>MM</td><td><a href="../languages/nehan">Nehan</a></td><td><i>nerau</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Solos</td><td><i>nonoh</i></td>
+<td>MM</td><td><a href="../languages/solos">Solos</a></td><td><i>nonoh</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Halia</td><td><i>(i) nolaha</i></td>
+<td>MM</td><td><a href="../languages/halia">Halia</a></td><td><i>(i) nolaha</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Selau</td><td><i>narowa</i></td>
+<td>MM</td><td><a href="../languages/selau">Selau</a></td><td><i>narowa</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Taiof</td><td><i>nanaf</i></td>
+<td>MM</td><td><a href="../languages/taiof">Taiof</a></td><td><i>nanaf</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Teop</td><td><i>nanava</i></td>
+<td>MM</td><td><a href="../languages/teop">Teop</a></td><td><i>nanava</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Banoni</td><td><i>(ɣa)nanava</i></td>
+<td>MM</td><td><a href="../languages/banoni">Banoni</a></td><td><i>(ɣa)nanava</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Roviana</td><td><i>norae</i></td>
+<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td><i>norae</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Kia</td><td><i>norao</i></td>
+<td>MM</td><td><a href="../languages/kia">Kia</a></td><td><i>norao</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Maringe</td><td><i>ñora</i></td>
+<td>MM</td><td><a href="../languages/maringe">Maringe</a></td><td><i>ñora</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>nola</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>nola</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Bugotu</td><td><i>(i)ñoða</i></td>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>(i)ñoða</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>West Guadalcanal</td><td><i>(i)noa</i></td>
+<td>SES</td><td><a href="../languages/westguadalcanal">West Guadalcanal</a></td><td><i>(i)noa</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Motlav</td><td><i>a-nor</i></td>
+<td>NCV</td><td><a href="../languages/motlav">Motlav</a></td><td><i>a-nor</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kiribatese</td><td><i>noa</i></td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>noa</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
@@ -3514,7 +3542,7 @@ The POc base for ‘yesterday’ was _&ast;ñoRap_. A few reflexes reflect accre
 
 <a id="p-326"></a>
 
-The Southern Vanuatu members of the set below reflect a Proto South Vanuatu form reconstructed by [Lynch](../references.md#source-Lynch2001c) ([2001c](../references.md#source-Lynch2001c):211) as _&ast;na-yan(a,u)v_. POc _&ast;R_ is sporadically lost in Proto South Vanuatu, and these forms seem to reflect a metathesis of a reflex of _na-ñoRap_ to _&ast;na-Rañop_.
+The Southern Vanuatu members of the set below reflect a Proto South Vanuatu form reconstructed by [Lynch](../sources/Lynch2001c) ([2001c](../sources/Lynch2001c):211) as _&ast;na-yan(a,u)v_. POc _&ast;R_ is sporadically lost in Proto South Vanuatu, and these forms seem to reflect a metathesis of a reflex of _na-ñoRap_ to _&ast;na-Rañop_.
 
 <table id="2-9-3-3-326-POc-nanorap-a">
 <tr>
@@ -3526,112 +3554,112 @@ The Southern Vanuatu members of the set below reflect a Proto South Vanuatu form
 '<span>yesterday</span>' (<span><em>i na-ñoRap, </em>qa-na-ñoRap (?)</span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td>Lamogai</td><td><i>narnop</i></td>
+<td>NNG</td><td><a href="../languages/lamogai">Lamogai</a></td><td><i>narnop</i></td>
 <td>
 '<span>yesterday</span>' (<span>&lt; <em>*na-norap</em>: metathesis</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td>Tabar</td><td><i>nenora</i></td>
+<td>MM</td><td><a href="../languages/tabar">Tabar</a></td><td><i>nenora</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nduke</td><td><i>nonoro</i></td>
+<td>MM</td><td><a href="../languages/nduke">Nduke</a></td><td><i>nonoro</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>'Are'are</td><td><i>nonora</i></td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>nonora</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>nonola</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>nonola</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>nanora</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>nanora</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Fagani</td><td><i>nanora</i></td>
+<td>SES</td><td><a href="../languages/fagani">Fagani</a></td><td><i>nanora</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Bauro</td><td><i>ananora</i></td>
+<td>SES</td><td><a href="../languages/bauro">Bauro</a></td><td><i>ananora</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Kahua</td><td><i>nanora</i></td>
+<td>SES</td><td><a href="../languages/kahua">Kahua</a></td><td><i>nanora</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>ananora</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>ananora</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Motlav</td><td><i>(n)ananoa</i></td>
+<td>NCV</td><td><a href="../languages/motlav">Motlav</a></td><td><i>(n)ananoa</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Ambae</td><td><i>nainoa</i></td>
+<td>NCV</td><td><a href="../languages/ambae">Ambae</a></td><td><i>nainoa</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Sye</td><td><i>ninu</i></td>
+<td>SV</td><td><a href="../languages/sye">Sye</a></td><td><i>ninu</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Whitesands</td><td><i>neniəv</i></td>
+<td>SV</td><td><a href="../languages/whitesands">Whitesands</a></td><td><i>neniəv</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Lenakel</td><td><i>nenav</i></td>
+<td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td><i>nenav</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Kwamera</td><td><i>neiv</i></td>
+<td>SV</td><td><a href="../languages/kwamera">Kwamera</a></td><td><i>neiv</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Anejom</td><td><i>(i)yenev</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>(i)yenev</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kiribatese</td><td><i>nanoa</i></td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>nanoa</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Mortlockese</td><td><i>nanaw</i></td>
+<td>Mic</td><td><a href="../languages/mortlockese">Mortlockese</a></td><td><i>nanaw</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Puluwatese</td><td><i>nænewɨ</i></td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>nænewɨ</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Woleaian</td><td><i>rarowa</i></td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>rarowa</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>(e) nanoa</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>(e) nanoa</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
@@ -3670,7 +3698,7 @@ There seem to be at least two other variants on this form. Certain Papuan Tip la
 
 This seems to be the outcome of a three-step process. First, the vowels of _&ast;ñoRap_ metathesised to _&ast;ñaRop_ (as they have done in Selau _narowa_ in the first _&ast;ñoRap_ set above). Then, _&ast;ñ_ became _&ast;n_ and a paragogic _&ast;-a_ was added, both regular changes, giving _&ast;naRopa_. Finally, _&ast;na-_ was reinterpreted as the past formative, leaving the base _&ast;Ropa_ reflected above.
 
-The forms below reflect Proto NCV _&ast;na-novi_ ‘yesterday’. This contrasts with Proto NCV _&ast;novi_ ‘tomorrow’ (Nokuku _pʷa-novi_, Kiai _i-novi_, Tolomako _i novi_) and so may have nothing to do with _&ast;na-ñoRap_. [Clark](../references.md#source-Clark1996) ([1996](../references.md#source-Clark1996)) thinks it reflects a conflation of POc _&ast;na-ñoRap_ and _&ast;na-Rapi_ (below), however, and he may be right.
+The forms below reflect Proto NCV _&ast;na-novi_ ‘yesterday’. This contrasts with Proto NCV _&ast;novi_ ‘tomorrow’ (Nokuku _pʷa-novi_, Kiai _i-novi_, Tolomako _i novi_) and so may have nothing to do with _&ast;na-ñoRap_. [Clark](../sources/Clark1996) ([1996](../sources/Clark1996)) thinks it reflects a conflation of POc _&ast;na-ñoRap_ and _&ast;na-Rapi_ (below), however, and he may be right.
 
 <table id="2-9-3-3-327-ncv-raga-ninovi">
 <tr>
@@ -3743,62 +3771,62 @@ The term below reflects POc _&ast;boŋi_ ‘night, day of twenty-four hours’ p
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kairiru</td><td><i>nubuoŋ(nai)</i></td>
+<td>NNG</td><td><a href="../languages/kairiru">Kairiru</a></td><td><i>nubuoŋ(nai)</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Sursurunga</td><td><i>nabuŋ</i></td>
+<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td><i>nabuŋ</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tangga</td><td><i>nabiŋ</i></td>
+<td>MM</td><td><a href="../languages/tangga">Tangga</a></td><td><i>nabiŋ</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Konomala</td><td><i>nabuŋ</i></td>
+<td>MM</td><td><a href="../languages/konomala">Konomala</a></td><td><i>nabuŋ</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Patpatar</td><td><i>nabuŋ</i></td>
+<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td><i>nabuŋ</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tolai</td><td><i>nabuŋ</i></td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>nabuŋ</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Ramoaaina</td><td><i>nabuŋ</i></td>
+<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>nabuŋ</i></td>
 <td>
 [ADV] '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Kandas</td><td><i>nubuŋ</i></td>
+<td>MM</td><td><a href="../languages/kandas">Kandas</a></td><td><i>nubuŋ</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Bilur</td><td><i>naboŋ</i></td>
+<td>MM</td><td><a href="../languages/bilur">Bilur</a></td><td><i>naboŋ</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Label</td><td><i>naboŋ</i></td>
+<td>MM</td><td><a href="../languages/label">Label</a></td><td><i>naboŋ</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tinputz</td><td><i>noboen</i></td>
+<td>MM</td><td><a href="../languages/tinputz">Tinputz</a></td><td><i>noboen</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Kwaio</td><td><i>nāboni</i></td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>nāboni</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
@@ -3868,7 +3896,7 @@ cf. also:
 
 <a id="p-328"></a>
 
-A few Western Oceanic terms for ‘yesterday’ reflect POc _&ast;raqani_ ‘daytime, daylight’ (p.309). Reflexes in Sio (NNG) and in the Central Papuan subgroup of Papuan Tip languages have a prefix which appears to reflect a preposition reflex of POc _&ast;ua_ (VF) ‘go towards addressee’, (DIR) ‘towards addressee’ (Ch. 8, §3.4.4).
+A few Western Oceanic terms for ‘yesterday’ reflect POc _&ast;raqani_ ‘daytime, daylight’ (p.309). Reflexes in Sio (NNG) and in the Central Papuan subgroup of Papuan Tip languages have a prefix which appears to reflect a preposition reflex of POc _&ast;ua_ (VF) ‘go towards addressee’, (DIR) ‘towards addressee’ ([Ch. 8, §3.4.4](../contributions/2-8#s-3-4-4)).
 
 <table id="2-9-3-3-328-nng-sio-walani">
 <tr>
@@ -3957,82 +3985,82 @@ The term below is clearly the same root as _&ast;Rapi_/_&ast;Rapi-Rapi_ ‘late 
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Gapapaiwa</td><td><i>ravi-ravi</i></td>
+<td>PT</td><td><a href="../languages/gapapaiwa">Gapapaiwa</a></td><td><i>ravi-ravi</i></td>
 <td>
 [ADV] '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Bola</td><td><i>ravi</i></td>
+<td>MM</td><td><a href="../languages/bola">Bola</a></td><td><i>ravi</i></td>
 <td>
 [ADV] '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Meramera</td><td><i>lavi</i></td>
+<td>MM</td><td><a href="../languages/meramera">Meramera</a></td><td><i>lavi</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nakanai</td><td><i>(ala)lavi</i></td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>(ala)lavi</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Kara (East)</td><td><i>(la)nef</i></td>
+<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td><i>(la)nef</i></td>
 <td>
 '<span>yesterday</span>' (<span>metathesis</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td>Kara (West)</td><td><i>(ne)ief</i></td>
+<td>MM</td><td><a href="../languages/karawest">Kara (West)</a></td><td><i>(ne)ief</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nalik</td><td><i>(la)raf</i></td>
+<td>MM</td><td><a href="../languages/nalik">Nalik</a></td><td><i>(la)raf</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Lihir</td><td><i>(la)leh</i></td>
+<td>MM</td><td><a href="../languages/lihir">Lihir</a></td><td><i>(la)leh</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Barok</td><td><i>la</i></td>
+<td>MM</td><td><a href="../languages/barok">Barok</a></td><td><i>la</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Minigir</td><td><i>(na)ravi</i></td>
+<td>MM</td><td><a href="../languages/minigir">Minigir</a></td><td><i>(na)ravi</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nehan</td><td><i>(ne)rau</i></td>
+<td>MM</td><td><a href="../languages/nehan">Nehan</a></td><td><i>(ne)rau</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Mono-Alu</td><td><i>lahi</i></td>
+<td>MM</td><td><a href="../languages/monoalu">Mono-Alu</a></td><td><i>lahi</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>(ʔane)afi</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>(ʔane)afi</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>(ne)afi</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>(ne)afi</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>(ana)nafi</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>(ana)nafi</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Ifira-Mele</td><td><i>(nā)nafi</i></td>
+<td>Pn</td><td><a href="../languages/ifiramele">Ifira-Mele</a></td><td><i>(nā)nafi</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
@@ -4208,62 +4236,62 @@ We also find reduplicated reflexes of _&ast;boŋi_, but I take these to be refle
 '<span>(?) in the morning</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Barim</td><td><i>buŋ-buŋ</i></td>
+<td>NNG</td><td><a href="../languages/barim">Barim</a></td><td><i>buŋ-buŋ</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Lukep (Pono)</td><td><i>boŋ-boŋ</i></td>
+<td>NNG</td><td><a href="../languages/lukeppono">Lukep (Pono)</a></td><td><i>boŋ-boŋ</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Malasanga</td><td><i>buŋ-boŋ</i></td>
+<td>NNG</td><td><a href="../languages/malasanga">Malasanga</a></td><td><i>buŋ-boŋ</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Dawawa</td><td><i>boi-boi</i></td>
+<td>PT</td><td><a href="../languages/dawawa">Dawawa</a></td><td><i>boi-boi</i></td>
 <td>
 '<span>morning, tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tangga</td><td><i>(na)biŋ-biŋ</i></td>
+<td>MM</td><td><a href="../languages/tangga">Tangga</a></td><td><i>(na)biŋ-biŋ</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>bo-boŋi</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>bo-boŋi</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>(ʔa)poŋi-poŋi</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>(ʔa)poŋi-poŋi</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>poŋi-poŋi</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>poŋi-poŋi</i></td>
 <td>
 '<span>tomorrow, this morning</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>East Futunan</td><td><i>(ā)poŋi-poŋi</i></td>
+<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td><i>(ā)poŋi-poŋi</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>East Uvean</td><td><i>(a)poŋi-poŋi</i></td>
+<td>Pn</td><td><a href="../languages/eastuvean">East Uvean</a></td><td><i>(a)poŋi-poŋi</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>(a)poŋi-poŋi</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>(a)poŋi-poŋi</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>(ā)pō-pō</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>(ā)pō-pō</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
@@ -4276,7 +4304,7 @@ We also find reduplicated reflexes of _&ast;boŋi_, but I take these to be refle
 
 Reflexes of POc _&ast;puko_ ‘morning’ (p.311) have also come to mean ‘tomorrow’ in a number of languages.
 
-POc _&ast;ma-pua_ ‘tomorrow’ is reconstructable from the rather skewed cognate set below. Data from Sulawesi languages and Balinese cited by [Mead](../references.md#source-Mead2001) ([2001](../references.md#source-Mead2001)) point to the reconstruction of PMP _&ast;i-pu(h)a-n_ ‘day after tomorrow, day before yesterday’, and the POc root _&ast;-pua_ here apparently reflects PMP _&ast;-pu(h)a-_. However, the apparent shift in meaning is unexplained.
+POc _&ast;ma-pua_ ‘tomorrow’ is reconstructable from the rather skewed cognate set below. Data from Sulawesi languages and Balinese cited by [Mead](../sources/Mead2001) ([2001](../sources/Mead2001)) point to the reconstruction of PMP _&ast;i-pu(h)a-n_ ‘day after tomorrow, day before yesterday’, and the POc root _&ast;-pua_ here apparently reflects PMP _&ast;-pu(h)a-_. However, the apparent shift in meaning is unexplained.
 
 <table id="2-9-3-3-330-POc-mapua-a">
 <tr>
@@ -4288,57 +4316,57 @@ POc _&ast;ma-pua_ ‘tomorrow’ is reconstructable from the rather skewed cogna
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Loniu</td><td><i>mahu</i></td>
+<td>Adm</td><td><a href="../languages/loniu">Loniu</a></td><td><i>mahu</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Minaveha</td><td><i>mapu(tua)</i></td>
+<td>PT</td><td><a href="../languages/minaveha">Minaveha</a></td><td><i>mapu(tua)</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tigak</td><td><i>(a)mau(a)</i></td>
+<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td><i>(a)mau(a)</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tiang</td><td><i>məu(ə)</i></td>
+<td>MM</td><td><a href="../languages/tiang">Tiang</a></td><td><i>məu(ə)</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Kara (East)</td><td><i>mofu</i></td>
+<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td><i>mofu</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Kara (West)</td><td><i>mofu</i></td>
+<td>MM</td><td><a href="../languages/karawest">Kara (West)</a></td><td><i>mofu</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nalik</td><td><i>(la)maf</i></td>
+<td>MM</td><td><a href="../languages/nalik">Nalik</a></td><td><i>(la)maf</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Solos</td><td><i>mahu</i></td>
+<td>MM</td><td><a href="../languages/solos">Solos</a></td><td><i>mahu</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Petats</td><td><i>mahu</i></td>
+<td>MM</td><td><a href="../languages/petats">Petats</a></td><td><i>mahu</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Halia</td><td><i>mahu</i></td>
+<td>MM</td><td><a href="../languages/halia">Halia</a></td><td><i>mahu</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Selau</td><td><i>mawu</i></td>
+<td>MM</td><td><a href="../languages/selau">Selau</a></td><td><i>mawu</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
@@ -4358,42 +4386,42 @@ POc _&ast;ma-raqani_ was presumably originally a verb meaning ‘become light’
 '<span>become light</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Gapapaiwa</td><td><i>maram</i></td>
+<td>PT</td><td><a href="../languages/gapapaiwa">Gapapaiwa</a></td><td><i>maram</i></td>
 <td>
 '<span>tomorrow, in the future</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Kandas</td><td><i>markan</i></td>
+<td>MM</td><td><a href="../languages/kandas">Kandas</a></td><td><i>markan</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Patpatar</td><td><i>marakan</i></td>
+<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td><i>marakan</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>maran</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>maran</i></td>
 <td>
 '<span>light, daylight, morning, day; be light; tomorrow’s light; the morrow</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Raga</td><td><i>maran</i></td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>maran</i></td>
 <td>
 '<span>morning light, morning</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Labo</td><td><i>maxan</i></td>
+<td>NCV</td><td><a href="../languages/labo">Labo</a></td><td><i>maxan</i></td>
 <td>
 '<span>tomorrow, morning</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Sye</td><td><i>mran</i></td>
+<td>SV</td><td><a href="../languages/sye">Sye</a></td><td><i>mran</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Anejom</td><td><i>(i)mrañ</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>(i)mrañ</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
@@ -4454,42 +4482,42 @@ There is also a variety of forms that seem to reflect a root _&ast;tuqu_ ‘tomo
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Label</td><td><i>latu</i></td>
+<td>MM</td><td><a href="../languages/label">Label</a></td><td><i>latu</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Sursurunga</td><td><i>latiu</i></td>
+<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td><i>latiu</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Siar</td><td><i>latu</i></td>
+<td>MM</td><td><a href="../languages/siar">Siar</a></td><td><i>latu</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Marshallese</td><td><i>(i)lcu</i></td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>(i)lcu</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kosraean</td><td><i>lutu</i></td>
+<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td><i>lutu</i></td>
 <td>
 '<span>tomorrow, morning</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Trukese</td><td><i>ɾəwɨ</i></td>
+<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td><i>ɾəwɨ</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Puluwatese</td><td><i>layɨ</i></td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>layɨ</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Woleaian</td><td><i>raɨ</i></td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>raɨ</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
@@ -4502,17 +4530,17 @@ There is also a variety of forms that seem to reflect a root _&ast;tuqu_ ‘tomo
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Papapana</td><td><i>natui</i></td>
+<td>MM</td><td><a href="../languages/papapana">Papapana</a></td><td><i>natui</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Ghove</td><td><i>natui</i></td>
+<td>MM</td><td><a href="../languages/ghove">Ghove</a></td><td><i>natui</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Maringe</td><td><i>natuʔu</i></td>
+<td>MM</td><td><a href="../languages/maringe">Maringe</a></td><td><i>natuʔu</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
@@ -4525,17 +4553,17 @@ There is also a variety of forms that seem to reflect a root _&ast;tuqu_ ‘tomo
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mae</td><td><i>aretū</i></td>
+<td>NCV</td><td><a href="../languages/mae">Mae</a></td><td><i>aretū</i></td>
 <td>
 '<span>tomorrow, day after</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Nukuria</td><td><i>(bō)aledū</i></td>
+<td>Pn</td><td><a href="../languages/nukuria">Nukuria</a></td><td><i>(bō)aledū</i></td>
 <td>
 '<span>tomorrow night</span>' (<span><em>bō</em> ‘night’</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td>West Futunan</td><td><i>aratu</i></td>
+<td>Pn</td><td><a href="../languages/westfutunan">West Futunan</a></td><td><i>aratu</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
@@ -4543,9 +4571,13 @@ There is also a variety of forms that seem to reflect a root _&ast;tuqu_ ‘tomo
 
 
 
-9.3.3.4 A note on the derivations of ‘yesterday’ and ‘tomorrow’
 
-The derivational relationships (i) between POc _&ast;na-Rapi_ ‘yesterday’, _&ast;qa-na-Rapi_ ‘yesterday’ and POc _&ast;Rapi_ ‘evening’ and (ii) between POc _&ast;raqani_ ‘(become) daylight’ and POc _&ast;ma-raqani_ ‘tomorrow’ reflect a tendency across the world’s languages whereby terms for ‘yesterday’ and ‘tomorrow’ are derived from terms for ‘evening’ and ‘morning’ respectively. Terms meaning ‘in the evening’ and ‘in the morning’ lack temporal direction, but this is filled in by the presence of tense or (in some Oceanic languages) mood markers in the verb phrase, i.e. ‘in the evening’ is interpreted as ‘yesterday evening’, then comes by semantic extension to mean simply ‘yesterday’. A similar observation can be made for ‘tomorrow’. This interpretation is proposed by [Buck](../references.md#source-Buck1949) ([1949](../references.md#source-Buck1949):999–1000) for the similar derivations that are found for ‘tomorrow’ across much of the Indo-European family and for ‘yesterday’ in Modern Greek, and the Baltic and Slavonic languages. Parallel derivations have also occurred in Finnish and Estonian, in Turkic languages, in Arabic, in Pama-Nyungan and non-Pama-Nyungan Australian languages, in Siouan, in Chinese and in Japanese ([Ross 2001c](../references.md#source-Ross2001c)).
+<a id="s-3-3-4"></a>
+
+### 3.3.4 A note on the derivations of ‘yesterday’ and ‘tomorrow’
+
+
+The derivational relationships (i) between POc _&ast;na-Rapi_ ‘yesterday’, _&ast;qa-na-Rapi_ ‘yesterday’ and POc _&ast;Rapi_ ‘evening’ and (ii) between POc _&ast;raqani_ ‘(become) daylight’ and POc _&ast;ma-raqani_ ‘tomorrow’ reflect a tendency across the world’s languages whereby terms for ‘yesterday’ and ‘tomorrow’ are derived from terms for ‘evening’ and ‘morning’ respectively. Terms meaning ‘in the evening’ and ‘in the morning’ lack temporal direction, but this is filled in by the presence of tense or (in some Oceanic languages) mood markers in the verb phrase, i.e. ‘in the evening’ is interpreted as ‘yesterday evening’, then comes by semantic extension to mean simply ‘yesterday’. A similar observation can be made for ‘tomorrow’. This interpretation is proposed by [Buck](../sources/Buck1949) ([1949](../sources/Buck1949):999–1000) for the similar derivations that are found for ‘tomorrow’ across much of the Indo-European family and for ‘yesterday’ in Modern Greek, and the Baltic and Slavonic languages. Parallel derivations have also occurred in Finnish and Estonian, in Turkic languages, in Arabic, in Pama-Nyungan and non-Pama-Nyungan Australian languages, in Siouan, in Chinese and in Japanese ([Ross 2001c](../sources/Ross2001c)).
 
 It seems possible that the one directed lexical root above, PMP _&ast;ñeRab_, POc _&ast;ñoRap_ ‘yesterday’ is itself derivationally related to PMP _&ast;Rabi_ ‘evening’.
 
@@ -4570,227 +4602,227 @@ The Proto Tanna (SV) and Proto Polynesian reflexes of _&ast;qa-na-_ lost the pas
 '<span>two days from today</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Gitua</td><td><i>wariza</i></td>
+<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td><i>wariza</i></td>
 <td>
 '<span>day before yesterday</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Lukep</td><td><i>airi</i></td>
+<td>NNG</td><td><a href="../languages/lukep">Lukep</a></td><td><i>airi</i></td>
 <td>
 '<span>day before yesterday</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Mangap</td><td><i>urizi</i></td>
+<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td><i>urizi</i></td>
 <td>
 '<span>day before yesterday</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kilenge</td><td><i>olia</i></td>
+<td>NNG</td><td><a href="../languages/kilenge">Kilenge</a></td><td><i>olia</i></td>
 <td>
 '<span>day before yesterday</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Amara</td><td><i>ueri(o)</i></td>
+<td>NNG</td><td><a href="../languages/amara">Amara</a></td><td><i>ueri(o)</i></td>
 <td>
 '<span>day before yesterday</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Uvol</td><td><i>alia</i></td>
+<td>NNG</td><td><a href="../languages/uvol">Uvol</a></td><td><i>alia</i></td>
 <td>
 '<span>day before yesterday</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Roinji</td><td><i>walia</i></td>
+<td>NNG</td><td><a href="../languages/roinji">Roinji</a></td><td><i>walia</i></td>
 <td>
 '<span>day before yesterday</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Bing</td><td><i>wari(nan)</i></td>
+<td>NNG</td><td><a href="../languages/bing">Bing</a></td><td><i>wari(nan)</i></td>
 <td>
 '<span>day before yesterday</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Takia</td><td><i>wari</i></td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>wari</i></td>
 <td>
 '<span>day before yesterday, in the past</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Medebur</td><td><i>waijira</i></td>
+<td>NNG</td><td><a href="../languages/medebur">Medebur</a></td><td><i>waijira</i></td>
 <td>
 '<span>day before yesterday</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Numbami</td><td><i>walisawa</i></td>
+<td>NNG</td><td><a href="../languages/numbami">Numbami</a></td><td><i>walisawa</i></td>
 <td>
 '<span>day before yesterday</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Yabem</td><td><i>wali(gɛŋ)</i></td>
+<td>NNG</td><td><a href="../languages/yabem">Yabem</a></td><td><i>wali(gɛŋ)</i></td>
 <td>
 '<span>day before yesterday</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Misima</td><td><i>varira</i></td>
+<td>PT</td><td><a href="../languages/misima">Misima</a></td><td><i>varira</i></td>
 <td>
 '<span>before (in time)</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Kilivila</td><td><i>(silo)valela</i></td>
+<td>PT</td><td><a href="../languages/kilivila">Kilivila</a></td><td><i>(silo)valela</i></td>
 <td>
 '<span>a few days ago</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Sudest</td><td><i>vaiya</i></td>
+<td>PT</td><td><a href="../languages/sudest">Sudest</a></td><td><i>vaiya</i></td>
 <td>
 '<span>day before yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Bali</td><td><i>varira</i></td>
+<td>MM</td><td><a href="../languages/bali">Bali</a></td><td><i>varira</i></td>
 <td>
 '<span>day before yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Bola</td><td><i>rira</i></td>
+<td>MM</td><td><a href="../languages/bola">Bola</a></td><td><i>rira</i></td>
 <td>
 '<span>day before yesterday</span>' (<span>for expected <em>**arira</em></span>)</td>
 </tr>
 <tr>
-<td>MM</td><td>Bola</td><td><i>(gi)rira</i></td>
+<td>MM</td><td><a href="../languages/bola">Bola</a></td><td><i>(gi)rira</i></td>
 <td>
 '<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Meramera</td><td><i>lisa</i></td>
+<td>MM</td><td><a href="../languages/meramera">Meramera</a></td><td><i>lisa</i></td>
 <td>
 '<span>day before yesterday; formerly</span>' (<span>for expected <em>**walisa</em></span>)</td>
 </tr>
 <tr>
-<td>MM</td><td>Nakanai</td><td><i>uaisa</i></td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>uaisa</i></td>
 <td>
 '<span>the day after tomorrow</span>' (<span>for expected <em>**ualisa</em></span>)</td>
 </tr>
 <tr>
-<td>MM</td><td>Patpatar</td><td><i>uaris</i></td>
+<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td><i>uaris</i></td>
 <td>
 '<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tolai</td><td><i>oari</i></td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>oari</i></td>
 <td>
 '<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Siar</td><td><i>urisa(i)</i></td>
+<td>MM</td><td><a href="../languages/siar">Siar</a></td><td><i>urisa(i)</i></td>
 <td>
 '<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nehan</td><td><i>iorih</i></td>
+<td>MM</td><td><a href="../languages/nehan">Nehan</a></td><td><i>iorih</i></td>
 <td>
 '<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Halia</td><td><i>ialisa</i></td>
+<td>MM</td><td><a href="../languages/halia">Halia</a></td><td><i>ialisa</i></td>
 <td>
 '<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Halia</td><td><i>alisa</i></td>
+<td>MM</td><td><a href="../languages/halia">Halia</a></td><td><i>alisa</i></td>
 <td>
 '<span>day before yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Banoni</td><td><i>(d)onisa</i></td>
+<td>MM</td><td><a href="../languages/banoni">Banoni</a></td><td><i>(d)onisa</i></td>
 <td>
 '<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Mono-Alu</td><td><i>elila</i></td>
+<td>MM</td><td><a href="../languages/monoalu">Mono-Alu</a></td><td><i>elila</i></td>
 <td>
 '<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Maringe</td><td><i>(na)uriha</i></td>
+<td>MM</td><td><a href="../languages/maringe">Maringe</a></td><td><i>(na)uriha</i></td>
 <td>
 '<span>day after tomorrow</span>' (<span><em>na</em> ART</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>valiha</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>valiha</i></td>
 <td>
 '<span>day before yesterday, day after tomorrow, some time ago, by and by, some day</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Kwaio</td><td><i>kwalita</i></td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>kwalita</i></td>
 <td>
 '<span>three days ago</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>'Are'are</td><td><i>warita</i></td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>warita</i></td>
 <td>
 '<span>former, previous, past</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>'Are'are</td><td><i>i warita</i></td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>i warita</i></td>
 <td>
 '<span>formerly, in the old days</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Ulawa</td><td><i>i welita</i></td>
+<td>SES</td><td><a href="../languages/ulawa">Ulawa</a></td><td><i>i welita</i></td>
 <td>
 '<span>two days hence</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>i waite</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>i waite</i></td>
 <td>
 '<span>two days ago</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>arisa</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>arisa</i></td>
 <td>
 '<span>day before yesterday, day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Raga</td><td><i>(vai)wehe</i></td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>(vai)wehe</i></td>
 <td>
 '<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Port Sandwich</td><td><i>(x)ois</i></td>
+<td>NCV</td><td><a href="../languages/portsandwich">Port Sandwich</a></td><td><i>(x)ois</i></td>
 <td>
 '<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Lonwolwol</td><td><i>wuh</i></td>
+<td>NCV</td><td><a href="../languages/lonwolwol">Lonwolwol</a></td><td><i>wuh</i></td>
 <td>
 '<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Lewo</td><td><i>vewo</i></td>
+<td>NCV</td><td><a href="../languages/lewo">Lewo</a></td><td><i>vewo</i></td>
 <td>
 '<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Namakir</td><td><i>(pa)waih</i></td>
+<td>NCV</td><td><a href="../languages/namakir">Namakir</a></td><td><i>(pa)waih</i></td>
 <td>
 '<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Nguna</td><td><i>wāsa</i></td>
+<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td><i>wāsa</i></td>
 <td>
 '<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>South Efate</td><td><i>uāsa</i></td>
+<td>NCV</td><td><a href="../languages/southefate">South Efate</a></td><td><i>uāsa</i></td>
 <td>
 '<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Sye</td><td><i>wisas</i></td>
+<td>SV</td><td><a href="../languages/sye">Sye</a></td><td><i>wisas</i></td>
 <td>
 '<span>five days hence</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Anejom</td><td><i>(ho)viθ</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>(ho)viθ</i></td>
 <td>
 '<span>three days from today</span>'</td>
 </tr>
@@ -4811,92 +4843,92 @@ The Proto Tanna (SV) and Proto Polynesian reflexes of _&ast;qa-na-_ lost the pas
 '<span>day before yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Patpatar</td><td><i>nauaris</i></td>
+<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td><i>nauaris</i></td>
 <td>
 '<span>day before yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tolai–Nodup</td><td><i>nari(a)</i></td>
+<td>MM</td><td><a href="../languages/tolainodup">Tolai–Nodup</a></td><td><i>nari(a)</i></td>
 <td>
 '<span>day before yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Solos</td><td><i>nanis</i></td>
+<td>MM</td><td><a href="../languages/solos">Solos</a></td><td><i>nanis</i></td>
 <td>
 '<span>day before yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Petats</td><td><i>nalis</i></td>
+<td>MM</td><td><a href="../languages/petats">Petats</a></td><td><i>nalis</i></td>
 <td>
 '<span>day before yesterday</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>anarisa</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>anarisa</i></td>
 <td>
 '<span>day before yesterday</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Port Sandwich</td><td><i>(xi)nois</i></td>
+<td>NCV</td><td><a href="../languages/portsandwich">Port Sandwich</a></td><td><i>(xi)nois</i></td>
 <td>
 '<span>day before yesterday</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Paamese</td><td><i>noeise</i></td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>noeise</i></td>
 <td>
 '<span>day before yesterday</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Nguna</td><td><i>(n)anoasa</i></td>
+<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td><i>(n)anoasa</i></td>
 <td>
 '<span>day before yesterday</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Sye</td><td><i>nowisas</i></td>
+<td>SV</td><td><a href="../languages/sye">Sye</a></td><td><i>nowisas</i></td>
 <td>
 '<span>five days ago</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Lenakel</td><td><i>nihin</i></td>
+<td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td><i>nihin</i></td>
 <td>
 '<span>day before yesterday</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Lenakel</td><td><i>(to)nhi</i></td>
+<td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td><i>(to)nhi</i></td>
 <td>
 '<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Kwamera</td><td><i>neis</i></td>
+<td>SV</td><td><a href="../languages/kwamera">Kwamera</a></td><td><i>neis</i></td>
 <td>
 '<span>day before yesterday</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Kwamera</td><td><i>(tə)neis</i></td>
+<td>SV</td><td><a href="../languages/kwamera">Kwamera</a></td><td><i>(tə)neis</i></td>
 <td>
 '<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Anejom</td><td><i>nviθ</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>nviθ</i></td>
 <td>
 '<span>day before yesterday, day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>[ʔa]ʔanoiha</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>[ʔa]ʔanoiha</i></td>
 <td>
 '<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>[a]noiha</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>[a]noiha</i></td>
 <td>
 '<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>East Uvean</td><td><i>anoia</i></td>
+<td>Pn</td><td><a href="../languages/eastuvean">East Uvean</a></td><td><i>anoia</i></td>
 <td>
 '<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mae</td><td><i>anoisa</i></td>
+<td>NCV</td><td><a href="../languages/mae">Mae</a></td><td><i>anoisa</i></td>
 <td>
 '<span>day after tomorrow</span>'</td>
 </tr>
@@ -4930,87 +4962,87 @@ Apparently an alternative way of expressing ‘the day after tomorrow’ in POc 
 '<span>the day after tomorrow</span>' (<span>apparently by default, literally ‘two days’</span>)</td>
 </tr>
 <tr>
-<td>Adm</td><td>Lou</td><td><i>ru-peŋ</i></td>
+<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td><i>ru-peŋ</i></td>
 <td>
 '<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Titan</td><td><i>lu-poŋ</i></td>
+<td>Adm</td><td><a href="../languages/titan">Titan</a></td><td><i>lu-poŋ</i></td>
 <td>
 '<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kove</td><td><i>voŋo-hua</i></td>
+<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td><i>voŋo-hua</i></td>
 <td>
 '<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Bariai</td><td><i>boŋ-rua</i></td>
+<td>NNG</td><td><a href="../languages/bariai">Bariai</a></td><td><i>boŋ-rua</i></td>
 <td>
 '<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Tami</td><td><i>boŋ-lu</i></td>
+<td>NNG</td><td><a href="../languages/tami">Tami</a></td><td><i>boŋ-lu</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kilenge</td><td><i>voŋ-a</i></td>
+<td>NNG</td><td><a href="../languages/kilenge">Kilenge</a></td><td><i>voŋ-a</i></td>
 <td>
 '<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Maleu</td><td><i>vuŋ-ua</i></td>
+<td>NNG</td><td><a href="../languages/maleu">Maleu</a></td><td><i>vuŋ-ua</i></td>
 <td>
 '<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Amara</td><td><i>voŋo-ruo</i></td>
+<td>NNG</td><td><a href="../languages/amara">Amara</a></td><td><i>voŋo-ruo</i></td>
 <td>
 '<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Poeng</td><td><i>(ŋa)voŋa-lua</i></td>
+<td>NNG</td><td><a href="../languages/poeng">Poeng</a></td><td><i>(ŋa)voŋa-lua</i></td>
 <td>
 [ADV] '<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Kandas</td><td><i>ura-buŋ</i></td>
+<td>MM</td><td><a href="../languages/kandas">Kandas</a></td><td><i>ura-buŋ</i></td>
 <td>
 '<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Mono-Alu</td><td><i>boi-ua</i></td>
+<td>MM</td><td><a href="../languages/monoalu">Mono-Alu</a></td><td><i>boi-ua</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Nokuku</td><td><i>pon rua</i></td>
+<td>NCV</td><td><a href="../languages/nokuku">Nokuku</a></td><td><i>pon rua</i></td>
 <td>
 '<span>two days hence</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Kiai</td><td><i>pon-rua</i></td>
+<td>NCV</td><td><a href="../languages/kiai">Kiai</a></td><td><i>pon-rua</i></td>
 <td>
 '<span>the day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Uripiv</td><td><i>bon eru</i></td>
+<td>NCV</td><td><a href="../languages/uripiv">Uripiv</a></td><td><i>bon eru</i></td>
 <td>
 '<span>day before yesterday</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>boŋi-rua</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>boŋi-rua</i></td>
 <td>
 '<span>day before yesterday</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>ei boŋi-rua</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>ei boŋi-rua</i></td>
 <td>
 '<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>a boŋi-rua</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>a boŋi-rua</i></td>
 <td>
 '<span>day before yesterday</span>'</td>
 </tr>
@@ -5018,7 +5050,11 @@ Apparently an alternative way of expressing ‘the day after tomorrow’ in POc 
 
 
 
-9.3.3.6 More than two days from now
+
+<a id="s-3-3-6"></a>
+
+### 3.3.6 More than two days from now
+
 
 A number of languages have terms meaning ‘in three days time’ (i.e. ‘the day after the day after tomorrow’) and ‘three days ago’, and some have similar terms for up to five days. However, there is no sign of cognacy among them, and it is difficult to reconstruct terms in lower-order proto languages, let alone POc.
 
@@ -5050,7 +5086,7 @@ From the distributions of their reflexes, it seems that _&ast;ŋaican_ or _&ast;
 <i>&ast;ijan</i>
 </td>
 <td>
-'<span>when?</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>when?</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -5070,27 +5106,27 @@ From the distributions of their reflexes, it seems that _&ast;ŋaican_ or _&ast;
 '<span>when?</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Manam</td><td><i>aira</i></td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>aira</i></td>
 <td>
 '<span>when?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nakanai</td><td><i>(ga)isa</i></td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>(ga)isa</i></td>
 <td>
 '<span>when?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Meramera</td><td><i>aisa</i></td>
+<td>MM</td><td><a href="../languages/meramera">Meramera</a></td><td><i>aisa</i></td>
 <td>
 '<span>when?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tabar</td><td><i>(si)sa</i></td>
+<td>MM</td><td><a href="../languages/tabar">Tabar</a></td><td><i>(si)sa</i></td>
 <td>
 '<span>when?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Mono-Alu</td><td><i>(ro)isa</i></td>
+<td>MM</td><td><a href="../languages/monoalu">Mono-Alu</a></td><td><i>(ro)isa</i></td>
 <td>
 '<span>when?</span>'</td>
 </tr>
@@ -5116,107 +5152,107 @@ From the distributions of their reflexes, it seems that _&ast;ŋaican_ or _&ast;
 '<span>when?</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Malai</td><td><i>ŋez</i></td>
+<td>NNG</td><td><a href="../languages/malai">Malai</a></td><td><i>ŋez</i></td>
 <td>
 '<span>when?</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Gitua</td><td><i>ŋeza</i></td>
+<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td><i>ŋeza</i></td>
 <td>
 '<span>when?</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Lukep (Pono)</td><td><i>ŋe(lo)</i></td>
+<td>NNG</td><td><a href="../languages/lukeppono">Lukep (Pono)</a></td><td><i>ŋe(lo)</i></td>
 <td>
 '<span>when?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Sursurunga</td><td><i>aŋes</i></td>
+<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td><i>aŋes</i></td>
 <td>
 '<span>when?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tolai</td><td><i>(vi)ŋaia</i></td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>(vi)ŋaia</i></td>
 <td>
 '<span>when?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Ramoaaina</td><td><i>(na)ŋaian</i></td>
+<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>(na)ŋaian</i></td>
 <td>
 '<span>when?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Label</td><td><i>(na)ŋse</i></td>
+<td>MM</td><td><a href="../languages/label">Label</a></td><td><i>(na)ŋse</i></td>
 <td>
 '<span>when?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Siar</td><td><i>(la)ŋsiŋ</i></td>
+<td>MM</td><td><a href="../languages/siar">Siar</a></td><td><i>(la)ŋsiŋ</i></td>
 <td>
 '<span>when?</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>ŋaita</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>ŋaita</i></td>
 <td>
 '<span>when (future)?</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Fagani</td><td><i>kaitā</i></td>
+<td>SES</td><td><a href="../languages/fagani">Fagani</a></td><td><i>kaitā</i></td>
 <td>
 '<span>when?</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Kahua</td><td><i>keta</i></td>
+<td>SES</td><td><a href="../languages/kahua">Kahua</a></td><td><i>keta</i></td>
 <td>
 '<span>when?</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>aŋaisa</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>aŋaisa</i></td>
 <td>
 '<span>when (future)?</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Nokuku</td><td><i>(pʷa)nes</i></td>
+<td>NCV</td><td><a href="../languages/nokuku">Nokuku</a></td><td><i>(pʷa)nes</i></td>
 <td>
 '<span>when (future)?</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Port Sandwich</td><td><i>ŋais</i></td>
+<td>NCV</td><td><a href="../languages/portsandwich">Port Sandwich</a></td><td><i>ŋais</i></td>
 <td>
 '<span>when?</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kosraean</td><td><i>ŋɛ</i></td>
+<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td><i>ŋɛ</i></td>
 <td>
 '<span>when?</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Mokilese</td><td><i>ŋēt</i></td>
+<td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td><i>ŋēt</i></td>
 <td>
 '<span>when?</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Mortlockese</td><td><i>iŋɛ̃t</i></td>
+<td>Mic</td><td><a href="../languages/mortlockese">Mortlockese</a></td><td><i>iŋɛ̃t</i></td>
 <td>
 '<span>when?</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Puluwatese</td><td><i>yiŋet</i></td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>yiŋet</i></td>
 <td>
 '<span>when?</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Satawalese</td><td><i>ilēt</i></td>
+<td>Mic</td><td><a href="../languages/satawalese">Satawalese</a></td><td><i>ilēt</i></td>
 <td>
 '<span>when?</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Carolinian</td><td><i>inēta</i></td>
+<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td><i>inēta</i></td>
 <td>
 '<span>when?</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Woleaian</td><td><i>irēta</i></td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>irēta</i></td>
 <td>
 '<span>when?</span>'</td>
 </tr>
@@ -5242,142 +5278,142 @@ From the distributions of their reflexes, it seems that _&ast;ŋaican_ or _&ast;
 '<span>when?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Bali</td><td><i>ŋizaŋa</i></td>
+<td>MM</td><td><a href="../languages/bali">Bali</a></td><td><i>ŋizaŋa</i></td>
 <td>
 '<span>when?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Lavongai</td><td><i>aŋisan</i></td>
+<td>MM</td><td><a href="../languages/lavongai">Lavongai</a></td><td><i>aŋisan</i></td>
 <td>
 '<span>when?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Notsi</td><td><i>(la)ŋisa</i></td>
+<td>MM</td><td><a href="../languages/notsi">Notsi</a></td><td><i>(la)ŋisa</i></td>
 <td>
 '<span>when?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Madak</td><td><i>(na)ŋisa</i></td>
+<td>MM</td><td><a href="../languages/madak">Madak</a></td><td><i>(na)ŋisa</i></td>
 <td>
 '<span>when?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Barok</td><td><i>(la)ŋis</i></td>
+<td>MM</td><td><a href="../languages/barok">Barok</a></td><td><i>(la)ŋis</i></td>
 <td>
 '<span>when?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tangga</td><td><i>(na)ŋis</i></td>
+<td>MM</td><td><a href="../languages/tangga">Tangga</a></td><td><i>(na)ŋis</i></td>
 <td>
 '<span>when?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Bilur</td><td><i>iŋian</i></td>
+<td>MM</td><td><a href="../languages/bilur">Bilur</a></td><td><i>iŋian</i></td>
 <td>
 '<span>when?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nehan</td><td><i>(ma)ŋiha</i></td>
+<td>MM</td><td><a href="../languages/nehan">Nehan</a></td><td><i>(ma)ŋiha</i></td>
 <td>
 '<span>when?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Solos</td><td><i>(ha)ŋis</i></td>
+<td>MM</td><td><a href="../languages/solos">Solos</a></td><td><i>(ha)ŋis</i></td>
 <td>
 '<span>when?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Halia</td><td><i>(iha)ŋisa</i></td>
+<td>MM</td><td><a href="../languages/halia">Halia</a></td><td><i>(iha)ŋisa</i></td>
 <td>
 '<span>when?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Teop</td><td><i>(tobo)nihi</i></td>
+<td>MM</td><td><a href="../languages/teop">Teop</a></td><td><i>(tobo)nihi</i></td>
 <td>
 '<span>when?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Kia</td><td><i>niha</i></td>
+<td>MM</td><td><a href="../languages/kia">Kia</a></td><td><i>niha</i></td>
 <td>
 '<span>when?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Kokota</td><td><i>niha(o)</i></td>
+<td>MM</td><td><a href="../languages/kokota">Kokota</a></td><td><i>niha(o)</i></td>
 <td>
 '<span>when?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Maringe</td><td><i>(a)ñiha</i></td>
+<td>MM</td><td><a href="../languages/maringe">Maringe</a></td><td><i>(a)ñiha</i></td>
 <td>
 '<span>when?</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>ŋiha</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>ŋiha</i></td>
 <td>
 '<span>how many?</span>'; '<span>how much?</span>'; '<span>when?</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Bugotu</td><td><i>ñiha</i></td>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>ñiha</i></td>
 <td>
 '<span>when?</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lengo</td><td><i>iŋiða</i></td>
+<td>SES</td><td><a href="../languages/lengo">Lengo</a></td><td><i>iŋiða</i></td>
 <td>
 '<span>when?</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Talise</td><td><i>(ka)ŋisa</i></td>
+<td>SES</td><td><a href="../languages/talise">Talise</a></td><td><i>(ka)ŋisa</i></td>
 <td>
 '<span>when?</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Malango</td><td><i>iŋisa</i></td>
+<td>SES</td><td><a href="../languages/malango">Malango</a></td><td><i>iŋisa</i></td>
 <td>
 '<span>when?</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Birao</td><td><i>(daka)ŋisa</i></td>
+<td>SES</td><td><a href="../languages/birao">Birao</a></td><td><i>(daka)ŋisa</i></td>
 <td>
 '<span>when?</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Longgu</td><td><i>aŋita</i></td>
+<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td><i>aŋita</i></td>
 <td>
 '<span>when?</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>aŋita</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>aŋita</i></td>
 <td>
 '<span>when?</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Kwaio</td><td><i>aŋita</i></td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>aŋita</i></td>
 <td>
 '<span>when?</span>' (<span>also <em>nānita</em> ‘when?’</span>)</td>
 </tr>
 <tr>
-<td>NCV</td><td>Kiai</td><td><i>nisa</i></td>
+<td>NCV</td><td><a href="../languages/kiai">Kiai</a></td><td><i>nisa</i></td>
 <td>
 '<span>when (future)?</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Tolomako</td><td><i>i ŋisa</i></td>
+<td>NCV</td><td><a href="../languages/tolomako">Tolomako</a></td><td><i>i ŋisa</i></td>
 <td>
 '<span>when (future)?</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Anejom</td><td><i>iñiθ</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>iñiθ</i></td>
 <td>
 '<span>when?</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>ei ŋiða</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>ei ŋiða</i></td>
 <td>
 '<span>when (future)?</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>a ŋiða</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>a ŋiða</i></td>
 <td>
 '<span>when (past)?</span>'</td>
 </tr>
@@ -5400,97 +5436,97 @@ A scattering of languages reflect the past formative with either _&ast;ŋaican_ 
 '<span>when (past)</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nakanai</td><td><i>alaisa, alisa</i></td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>alaisa, alisa</i></td>
 <td>
 '<span>when (past)?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Selau</td><td><i>naŋsa</i></td>
+<td>MM</td><td><a href="../languages/selau">Selau</a></td><td><i>naŋsa</i></td>
 <td>
 '<span>when?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Papapana</td><td><i>noŋovita</i></td>
+<td>MM</td><td><a href="../languages/papapana">Papapana</a></td><td><i>noŋovita</i></td>
 <td>
 '<span>when?</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Kwaio</td><td><i>nānita</i></td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>nānita</i></td>
 <td>
 '<span>when?</span>' (<span>also <em>aŋita</em> ‘when?’</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td>'Are'are</td><td><i>nanita</i></td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>nanita</i></td>
 <td>
 '<span>when?</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>nageita</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>nageita</i></td>
 <td>
 '<span>when (past)?</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Oroha</td><td><i>nanita</i></td>
+<td>SES</td><td><a href="../languages/oroha">Oroha</a></td><td><i>nanita</i></td>
 <td>
 '<span>when?</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>ŋanite</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>ŋanite</i></td>
 <td>
 '<span>when?</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Fagani</td><td><i>anakaita</i></td>
+<td>SES</td><td><a href="../languages/fagani">Fagani</a></td><td><i>anakaita</i></td>
 <td>
 '<span>when?</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Bauro</td><td><i>anakaita</i></td>
+<td>SES</td><td><a href="../languages/bauro">Bauro</a></td><td><i>anakaita</i></td>
 <td>
 '<span>when?</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>anaŋaisa</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>anaŋaisa</i></td>
 <td>
 '<span>when (past)?</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Nokuku</td><td><i>nenesa</i></td>
+<td>NCV</td><td><a href="../languages/nokuku">Nokuku</a></td><td><i>nenesa</i></td>
 <td>
 '<span>when (past)?</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Kiai</td><td><i>nanisa</i></td>
+<td>NCV</td><td><a href="../languages/kiai">Kiai</a></td><td><i>nanisa</i></td>
 <td>
 '<span>when (past)?</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Tolomako</td><td><i>naŋisa</i></td>
+<td>NCV</td><td><a href="../languages/tolomako">Tolomako</a></td><td><i>naŋisa</i></td>
 <td>
 '<span>when (past)?</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Lonwolwol</td><td><i>neŋeh</i></td>
+<td>NCV</td><td><a href="../languages/lonwolwol">Lonwolwol</a></td><td><i>neŋeh</i></td>
 <td>
 '<span>when (past)?</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Paamese</td><td><i>neŋeise</i></td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>neŋeise</i></td>
 <td>
 '<span>when (past)?</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Nguna</td><td><i>naŋasa</i></td>
+<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td><i>naŋasa</i></td>
 <td>
 '<span>when?</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Sye</td><td><i>niŋoi</i></td>
+<td>SV</td><td><a href="../languages/sye">Sye</a></td><td><i>niŋoi</i></td>
 <td>
 '<span>when?</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kiribatese</td><td><i>niŋaira</i></td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>niŋaira</i></td>
 <td>
 '<span>when?</span>'</td>
 </tr>
@@ -5513,37 +5549,37 @@ In Proto Polynesian, reflexes of POc _&ast;ican_ and its derivatives had been lo
 '<span>when (future)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>ʔafē</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>ʔafē</i></td>
 <td>
 '<span>when (future)?</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>fē</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>fē</i></td>
 <td>
 '<span>when (future)?</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>āfea</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>āfea</i></td>
 <td>
 '<span>when (future)?</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Nanumean</td><td><i>āfea</i></td>
+<td>Pn</td><td><a href="../languages/nanumean">Nanumean</a></td><td><i>āfea</i></td>
 <td>
 '<span>when (future)?</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Ifira-Mele</td><td><i>āfea</i></td>
+<td>Pn</td><td><a href="../languages/ifiramele">Ifira-Mele</a></td><td><i>āfea</i></td>
 <td>
 '<span>when (future)?</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Hawaiian</td><td><i>āhea</i></td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>āhea</i></td>
 <td>
 '<span>when (future)?</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tahitian</td><td><i>āfea</i></td>
+<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td><i>āfea</i></td>
 <td>
 '<span>when (future)?</span>'</td>
 </tr>
@@ -5561,37 +5597,37 @@ In Proto Polynesian, reflexes of POc _&ast;ican_ and its derivatives had been lo
 '<span>when (past)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>ʔanefē</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>ʔanefē</i></td>
 <td>
 '<span>when (past)?</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>nefē</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>nefē</i></td>
 <td>
 '<span>when (past)?</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>anafea</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>anafea</i></td>
 <td>
 '<span>when (past)?</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Nanumean</td><td><i>nāfea</i></td>
+<td>Pn</td><td><a href="../languages/nanumean">Nanumean</a></td><td><i>nāfea</i></td>
 <td>
 '<span>when (past)?</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>anafea</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>anafea</i></td>
 <td>
 '<span>when (past)?</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Ifira-Mele</td><td><i>nafea</i></td>
+<td>Pn</td><td><a href="../languages/ifiramele">Ifira-Mele</a></td><td><i>nafea</i></td>
 <td>
 '<span>when (past)?</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Hawaiian</td><td><i>ināhea</i></td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>ināhea</i></td>
 <td>
 '<span>when (past)?</span>'</td>
 </tr>
@@ -5608,7 +5644,7 @@ In Proto Polynesian, reflexes of POc _&ast;ican_ and its derivatives had been lo
 
 [^3]: A discussion of Oceanic month names will appear in a future volume.
 
-[^4]: [Foley](../references.md#source-Foley1997) ([1997](../references.md#source-Foley1997):207) is careful to point out that Whorf is not talking about thought per se but about the kinds of conceptual systems that people use to construe experience.
+[^4]: [Foley](../sources/Foley1997) ([1997](../sources/Foley1997):207) is careful to point out that Whorf is not talking about thought per se but about the kinds of conceptual systems that people use to construe experience.
 
 [^5]: The text was recorded, transcribed and translated by Mait Kilil and myself.
 
@@ -5618,16 +5654,16 @@ In Proto Polynesian, reflexes of POc _&ast;ican_ and its derivatives had been lo
 
 [^8]: From about 2 p.m. when the sun is no longer directly overhead until sunset.
 
-[^9]:     Each of the two seasons which make up the Gilbertese year, _Nei Auti_ (Pleiades) and _Rimʷimāta_ (Antares) is divided into eight shorter periods called _boŋ_, each separately named (see [Grimble 1931](../references.md#source-Grimble1931):201).
+[^9]:     Each of the two seasons which make up the Gilbertese year, _Nei Auti_ (Pleiades) and _Rimʷimāta_ (Antares) is divided into eight shorter periods called _boŋ_, each separately named (see [Grimble 1931](../sources/Grimble1931):201).
 
-[^10]: Reconstructed on the basis of Proto Minahasan _&ast;dm̅dm̅_ ‘dark’ ([Sneddon 1978](../references.md#source-Sneddon1978)) and the Oceanic reflexes shown here.
+[^10]: Reconstructed on the basis of Proto Minahasan _&ast;dm̅dm̅_ ‘dark’ ([Sneddon 1978](../sources/Sneddon1978)) and the Oceanic reflexes shown here.
 
 [^11]: Blust (ACD) glosses this ‘day’, but the gloss given here appears more consonant with the data.
 
-[^12]: Tongan _ʔahoʔataa_ ‘at noon today’ seems at first sight to belong here, but, as [Churchward](../references.md#source-Churchward1959) ([1959](../references.md#source-Churchward1959)) shows, it reflects a probably unrelated base _-hoʔatā_.
+[^12]: Tongan _ʔahoʔataa_ ‘at noon today’ seems at first sight to belong here, but, as [Churchward](../sources/Churchward1959) ([1959](../sources/Churchward1959)) shows, it reflects a probably unrelated base _-hoʔatā_.
 
 [^13]: ‘New moon’ is also used in this sense in everyday English.
 
-[^14]: Sources listing days of the moon’s age are [Christian](../references.md#source-Christian1899) ([1899](../references.md#source-Christian1899):387–395) for Yapese, Ponapean, Lamotrek, Mortlockese and Woleaian, [Jackson and Marck](../references.md#source-JacksonandMarck1991) ([1991](../references.md#source-JacksonandMarck1991)) for Carolinian, [Lee](../references.md#source-Lee1976) ([1976](../references.md#source-Lee1976)) for Kosraean, [Tregear](../references.md#source-Tregearnd) ([n.d.](../references.md#source-Tregearnd)) for Hawai’ian, Tahitian, Marquesan, Rarotongan, Māori and Moriori, [Stimson](../references.md#source-Stimson1928) ([1928](../references.md#source-Stimson1928)) for Tahitian, [Williams](../references.md#source-Williams1928) ([1928](../references.md#source-Williams1928)) for Hawai’ian, Mangareva, Tahitian, Marquesan, Rarotongan, and Māori.
+[^14]: Sources listing days of the moon’s age are [Christian](../sources/Christian1899) ([1899](../sources/Christian1899):387–395) for Yapese, Ponapean, Lamotrek, Mortlockese and Woleaian, [Jackson and Marck](../sources/JacksonandMarck1991) ([1991](../sources/JacksonandMarck1991)) for Carolinian, [Lee](../sources/Lee1976) ([1976](../sources/Lee1976)) for Kosraean, [Tregear](../sources/Tregearnd) ([n.d.](../sources/Tregearnd)) for Hawai’ian, Tahitian, Marquesan, Rarotongan, Māori and Moriori, [Stimson](../sources/Stimson1928) ([1928](../sources/Stimson1928)) for Tahitian, [Williams](../sources/Williams1928) ([1928](../sources/Williams1928)) for Hawai’ian, Mangareva, Tahitian, Marquesan, Rarotongan, and Māori.
 
 [^15]: Blust (ACD) does not provide a gloss for &ast;ma-udehi. The gloss here is based on that for _&ast;udehi_.

@@ -33,31 +33,43 @@ Before we examine the Oceanic terms in question it is necessary to discuss some 
 
 A first consideration is the nature of the analytic apparatus needed to make sense of folk taxonomies and the task of choosing between competing frameworks. This leads into questions about how different kinds of classificatory terms differ in their semantic structure and their role in the taxonomy. Another concern, of a more practical kind, relates to which kinds of semantic information, which components of lexical meaning it is feasible to deal with when trying to reconstruct the semantic history of classificatory terms. Finally, there is the problem that most definitions of classificatory terms in Oceanic dictionaries, our main sources of data, suffer from serious shortcomings.
 
-8.1.2.1 What are taxonomies?
 
-A well-formed taxonomy is a system of semantic relations between lexical units that has the following properties:[^2] (i) Certain taxa stand in a class-inclusion or superordinate-hyponym relation. Thus, the statement _X is a fox terrier_ unilaterally entails that _X is a dog_, which in turn entails _X is an animal_. That is, _fox terrier_ is a hyponym of _dog_, which in turn is a hyponym of _animal_, (ii) Certain lexical units stand in a relation of incompatibility or contrast. Thus the statement _X is a fox terrier_ entails _X is not a labrador, alsatian or poodle_, and the statement _X is a dog_ entails _X is not a cat, seal or bear_, (iii) the hyponyms of a term X are _natural kinds_ of X. Thus, it can be said that _a fox terrier is a kind of dog_ and _a dog is a kind of animal_. A natural kind typically has many defining features (see §1.2.2) but all other features are subordinate to the one that defines its place in the taxonomy, the fact that it is a kind of something (a sparrow is a kind of bird, a dog is a kind of animal, a trout is a kind of fish).
+<a id="s-1-2-1"></a>
+
+### 1.2.1 What are taxonomies?
+
+
+A well-formed taxonomy is a system of semantic relations between lexical units that has the following properties:[^2] (i) Certain taxa stand in a class-inclusion or superordinate-hyponym relation. Thus, the statement _X is a fox terrier_ unilaterally entails that _X is a dog_, which in turn entails _X is an animal_. That is, _fox terrier_ is a hyponym of _dog_, which in turn is a hyponym of _animal_, (ii) Certain lexical units stand in a relation of incompatibility or contrast. Thus the statement _X is a fox terrier_ entails _X is not a labrador, alsatian or poodle_, and the statement _X is a dog_ entails _X is not a cat, seal or bear_, (iii) the hyponyms of a term X are _natural kinds_ of X. Thus, it can be said that _a fox terrier is a kind of dog_ and _a dog is a kind of animal_. A natural kind typically has many defining features (see [§1.2.2](../contributions/4-8#s-1-2-2)) but all other features are subordinate to the one that defines its place in the taxonomy, the fact that it is a kind of something (a sparrow is a kind of bird, a dog is a kind of animal, a trout is a kind of fish).
 
 The relation implied by ‘natural kind’ is not identical to ‘class-inclusion’ or ‘hyponymy’. Not all hyponyms are natural kinds. Some are ‘nominal kinds’, e.g. _spinster_, _bachelor_, _mare_, _ewe_, _ram_. Unlike natural kinds, contrasts between nominal kinds can be readily defined, approximately, in an analytic way in terms of just a few features, e.g. _bachelor = man who has never married_, _spinster = woman who has never married_, _ewe = adult female sheep_, _ram = adult male sheep_. It follows that the semantic difference between nominal hyponyms of the same set can be expressed analytically, as e.g. the difference between _bachelor_ and _spinster_ or _ram_ and _ewe_. It is not a dominant feature of nominal terms that they are kinds of something. Although one can say _a spinster is a woman_, _a mare is a horse_, _a ram is a sheep_ it is questionable whether it makes sense to say _a spinster is a kind of woman_, _a mare is a kind of horse_, or _a ram is a kind of sheep_.
 
 
 <a id="p-423"></a>
 
-8.1.2.2 Defining natural kinds
+
+<a id="s-1-2-2"></a>
+
+### 1.2.2 Defining natural kinds
+
 
 Natural kinds cannot readily be defined analytically. For example, the difference between _dog_ and _bird_ cannot be reduced to one or two distinguishing features: the two differ in indefinitely many ways. It is not clear how one should answer a question like: _What is the meaning of dog_? Apart from mentioning that dogs are a kind of animal, should a definition say that they have four legs and a tail, are furry, are carnivorous, bark and howl, have a very keen sense of smell, are pack animals, that people have selectively bred them to create many breeds, and keep them as pets, and for hunting game, rounding up sheep and cattle, and guarding property, that they are not eaten (at least in English-speaking societies), and so on? What about the meaning of ‘bird’? Should a definition mention all and only the universally valid morphological attributes, that birds have feathers and two legs, two wings (some only vestigial) and a beak, and that they lay eggs? Which if any behavioural characteristics should it mention: that birds typically fly (not all do), that they make nests (not all do), that they have diverse calls, that many male and female pairs mate for life, that they are typically wild creatures but some species are domesticated, and so on?
 
 Dictionary-makers typically baulk at the task of defining all the things that may distinguish natural kinds and are content to pick out just a few salient characteristics. For example, _The Macquarie Dictionary_ defines _dog_, in its primary sense, as ‘a domesticated carnivore, Canis familiaris, bred in a great many varieties’. The definition of _cat_ is almost identical, save for the Latin name: ‘a domesticated carnivore, Felis domestica (or _F. catus_), widely distributed in a number of breeds’. And dictionary definitions of terms of folk generic and life-form rank largely reflect scientific knowledge, not folk knowledge. Macquarie defines bird as ‘any of the Aves, a class of warm-blooded vertebrates, having a body more or less completely covered with feathers, and the forelimbs modified so as to form wings by which means most species fly’. As Anna Wierzbicka has repeatedly pointed out, such definitions are quite unsatisfactory as an account of folk knowledge about what these kinds of animals are.
 
-8.1.2.3 The taxonomic ranks and naming principles proposed by [Berlin](../references.md#source-Berlin1992) ([1992](../references.md#source-Berlin1992))
+
+<a id="s-1-2-3"></a>
+
+### 1.2.3 The taxonomic ranks and naming principles proposed by [Berlin](../sources/Berlin1992) ([1992](../sources/Berlin1992))
+
 
 Folk taxonomies must have at least two levels but can have many levels, as indicated by the sequence: _berkshire_ > _pig_ > _animal_ > _creature_, or _pinnacle floribunda_ > _floribunda rose_ > _rose_ > _flower_ > _plant_. One way of distinguishing the levels is to refer to them as primary, secondary, tertiary, etc. or as first-order, second-order, third-order, etc.
 
 
 <a id="p-424"></a>
 
-Instead of speaking of levels in a folk taxonomy in this way, Brent Berlin and his associates propose that taxa at each level be given rank status in a way that broadly parallels the taxonomic ranks of Western biology ([Berlin 1992](../references.md#source-Berlin1992), [Berlin et al. 1973](../references.md#source-Berlinetal1973)). Building on earlier work, [Berlin](../references.md#source-Berlin1992) ([1992](../references.md#source-Berlin1992)) also specifies some general principles of nomenclature. While the system of naming practices is distinct from the taxonomy, the two are systematically related so that we can often infer the taxonomic relations between particular taxa from the way they are named. A key nomenclatural distinction is between _uninomials_ (or _primary lexemes_) and _binomials_ (or _secondary lexemes_). Binomials are multiword names in which one element modifies the head noun, and where the head noun can stand alone as a generic name, e.g. _rock crab_, _mud crab_, _hammerhead shark_, _white-pointer shark_). A uninomial consists of a single morpheme, such as _herring_ or _perch_, or a compound or phrase that is idiomatic, such as the type of _hammerhead_ or _leatherjacket_, where no element can stand alone as a generic term (there is no category of fish called _head_ or _jacket_), or the type of _sea hare_, _sea cow_ and _seahorse_ (the creatures so named are not a kind of _hare_, _cow_ or _horse_).
+Instead of speaking of levels in a folk taxonomy in this way, Brent Berlin and his associates propose that taxa at each level be given rank status in a way that broadly parallels the taxonomic ranks of Western biology ([Berlin 1992](../sources/Berlin1992), [Berlin et al. 1973](../sources/Berlinetal1973)). Building on earlier work, [Berlin](../sources/Berlin1992) ([1992](../sources/Berlin1992)) also specifies some general principles of nomenclature. While the system of naming practices is distinct from the taxonomy, the two are systematically related so that we can often infer the taxonomic relations between particular taxa from the way they are named. A key nomenclatural distinction is between _uninomials_ (or _primary lexemes_) and _binomials_ (or _secondary lexemes_). Binomials are multiword names in which one element modifies the head noun, and where the head noun can stand alone as a generic name, e.g. _rock crab_, _mud crab_, _hammerhead shark_, _white-pointer shark_). A uninomial consists of a single morpheme, such as _herring_ or _perch_, or a compound or phrase that is idiomatic, such as the type of _hammerhead_ or _leatherjacket_, where no element can stand alone as a generic term (there is no category of fish called _head_ or _jacket_), or the type of _sea hare_, _sea cow_ and _seahorse_ (the creatures so named are not a kind of _hare_, _cow_ or _horse_).
 
-The following is a summary of the system of rank distinctions in folk taxonomies, and generalisations about nomenclature given in [Berlin](../references.md#source-Berlin1992) ([1992](../references.md#source-Berlin1992)).
+The following is a summary of the system of rank distinctions in folk taxonomies, and generalisations about nomenclature given in [Berlin](../sources/Berlin1992) ([1992](../sources/Berlin1992)).
 
 Most taxa belong to one of three ranks: _life form_, _folk generic_ or _folk specific_.
 
@@ -65,7 +77,7 @@ __Life-form__. A life-form is a taxon that (i) distinguishes a distinctive morph
 
 __Folk generic__. A folk generic (or folk genus) is a ‘natural’ category in several senses, one perceptual, the others linguistic. First, the members of this category are usually marked off from non-members by multiple characters of morphology and behaviour or ecological adaptation that will be evident to any close observer. Second, unlike folk species, the category is named by a uninomial rather than a binomial. Examples of English folk generics are _rose_, _oak_, _beech_, _blackbird_, _pig_, _dog_, _frog_, _toad_, _mullet_, _trout_, _whale_, _crocodile_. Third, the folk generic is the usual way of referring to a particular plant or animal if its identity is known. Depending on various factors, a folk genus may correspond to a single species in biological taxonomies, to a number of species or a genus, or to a number of genera or families. Many folk generics are subtaxa of life forms but Berlin recognises a category of unaffiliated generics, first-order taxa that do not belong to any life-form but are not themselves life-forms.
 
-__Folk species__. A folk genus sometimes further divides into folk species (or folk specifics), usually just a few taxa which contrast in a limited number of features with other members of the generic. Such specifics are usually the lowest-level taxa. [Berlin](../references.md#source-Berlin1992) ([1992](../references.md#source-Berlin1992)) holds that folk species names usually consist of the generic name plus a modifier, e.g. _red mullet_ vs _grey mullet_, or _mako shark_ vs _hammerhead shark_. [Bulmer](../references.md#source-Bulmer1970) ([1970](../references.md#source-Bulmer1970), [1974](../references.md#source-Bulmer1974)), however, finds that a fair number of animal folk species, among the Kalam people of the New Guinea highlands, are named by primary lexemes (uninomials).
+__Folk species__. A folk genus sometimes further divides into folk species (or folk specifics), usually just a few taxa which contrast in a limited number of features with other members of the generic. Such specifics are usually the lowest-level taxa. [Berlin](../sources/Berlin1992) ([1992](../sources/Berlin1992)) holds that folk species names usually consist of the generic name plus a modifier, e.g. _red mullet_ vs _grey mullet_, or _mako shark_ vs _hammerhead shark_. [Bulmer](../sources/Bulmer1970) ([1970](../sources/Bulmer1970), [1974](../sources/Bulmer1974)), however, finds that a fair number of animal folk species, among the Kalam people of the New Guinea highlands, are named by primary lexemes (uninomials).
 
 Three other ranks are sometimes distinguished in folk taxonomies.
 
@@ -82,9 +94,13 @@ For larger animals and some kinds of plants, at the level of the genus and often
 
 At higher levels the methods and motives underpinning folk and scientific classifications tend to diverge and therefore so do the categories. The higher you go, either in a folk taxonomy or a scientific taxonomy, the less the taxa are likely to conform to ‘natural kinds’. Western biologists aim to capture the evolutionary relationships of organisms, a concern peculiar to science. Ordinary people, on the other hand, impose higher order categories on cultural grounds, be they pragmatic or cosmological. Sometimes the grounds for grouping different kinds of organisms are broad likenesses in form and behaviour. For example, it is fairly common to find a taxon that subsumes both birds and bats, or both fish and whales. In other cases, social factors (e.g. ritual restrictions and taboos) and technological or economic factors (e.g. techniques used to obtain or process foods) peculiar to a society influence the grouping.
 
-8.1.2.4 Taxonomic generics vs collectives
 
-[Wierzbicka](../references.md#source-Wierzbicka1984) ([1984](../references.md#source-Wierzbicka1984), [1996](../references.md#source-Wierzbicka1996)) has advanced methodological objections to certain claims made by anthropologists, linguists and psychologists about the nature and membership of categories in folk taxonomies. She points out that people’s intuitions about category membership can’t reliably be established by asking them simple questions like ‘Is X a kind of Y?’ or by asking them to sort cards with pictures. Instead you need to find out how people talk spontaneously about such matters and to apply a variety of linguistic tests designed to bring out people’s tacit knowledge.[^3]
+<a id="s-1-2-4"></a>
+
+### 1.2.4 Taxonomic generics vs collectives
+
+
+[Wierzbicka](../sources/Wierzbicka1984) ([1984](../sources/Wierzbicka1984), [1996](../sources/Wierzbicka1996)) has advanced methodological objections to certain claims made by anthropologists, linguists and psychologists about the nature and membership of categories in folk taxonomies. She points out that people’s intuitions about category membership can’t reliably be established by asking them simple questions like ‘Is X a kind of Y?’ or by asking them to sort cards with pictures. Instead you need to find out how people talk spontaneously about such matters and to apply a variety of linguistic tests designed to bring out people’s tacit knowledge.[^3]
 
 
 <a id="p-426"></a>
@@ -93,9 +109,13 @@ Wierzbicka has argued persuasively for a distinction between true generic taxono
 
 This distinction between natural kinds and collectives will prove to be relevant in our discussion of Oceanic generics.
 
-8.1.2.5 Problems inherent in the semantics of generics
 
-For any generic term, the assumption that there is a single correct definition of its semantic range that can be uncovered by careful research is itself questionable. The fact is that members of a speech community often do not agree completely as to the scope of generics. The kind of variation is of the kind predicted by prototype theory ([Rosch 1973](../references.md#source-Rosch1973), [1975a](../references.md#source-Rosch1975a),b). Generally people agree on the membership of typical members of a class but disagree when it comes to marginal members. The definitions given in dictionaries tend to understate the amount of variation within the speech community.
+<a id="s-1-2-5"></a>
+
+### 1.2.5 Problems inherent in the semantics of generics
+
+
+For any generic term, the assumption that there is a single correct definition of its semantic range that can be uncovered by careful research is itself questionable. The fact is that members of a speech community often do not agree completely as to the scope of generics. The kind of variation is of the kind predicted by prototype theory ([Rosch 1973](../sources/Rosch1973), [1975a](../sources/Rosch1975a),b). Generally people agree on the membership of typical members of a class but disagree when it comes to marginal members. The definitions given in dictionaries tend to understate the amount of variation within the speech community.
 
 Consider, for example, English speakers’ use of the term _fish_. The _Shorter Oxford English Dictionary (SOED)_ makes a sharp distinction between popular and scientific definitions of this term.
 
@@ -116,13 +136,21 @@ A further difficulty is that directly questioning informants about classificatio
 
 It is important to recognize that speakers often distinguish two or more senses of generic terms, some with narrower reference, others with wider reference. English _animal_ is an example. There are some contexts, in popular speech, where _animal_ denotes a category that includes, roughly, mammals, four-legged reptiles and frogs but not birds, fish or invertebrates. There are other contexts where it includes all creatures other than humans. And there are still other contexts where it includes humans (‘Humans are different from the rest of the animal kingdom’).
 
-8.1.2.6 A modest objective
 
-Although I see the merit of Wierzbicka’s argument that definitions of a folk category should try to capture as fully as possible folk perceptions and knowledge about that category, the data to hand for Oceanic languages do not allow us to pursue such an objective (see §1.2.7). My concern with definitions in this chapter is more modest: to find the referential range of a category, the kinds of animals that speakers of a language include in it, where ‘kinds’ can be defined in biological terms (whether this be simply the species, genus, family, etc. recognised by biologists, or features of morphology or behaviour that allow us to identify biological categories, such as a folk taxon that consists of birds and bats).
+<a id="s-1-2-6"></a>
+
+### 1.2.6 A modest objective
+
+
+Although I see the merit of Wierzbicka’s argument that definitions of a folk category should try to capture as fully as possible folk perceptions and knowledge about that category, the data to hand for Oceanic languages do not allow us to pursue such an objective (see [§1.2.7](../contributions/4-8#s-1-2-7)). My concern with definitions in this chapter is more modest: to find the referential range of a category, the kinds of animals that speakers of a language include in it, where ‘kinds’ can be defined in biological terms (whether this be simply the species, genus, family, etc. recognised by biologists, or features of morphology or behaviour that allow us to identify biological categories, such as a folk taxon that consists of birds and bats).
 
 This objective might seem straightforward enough. But it is not, for reasons outlined in the following section.
 
-8.1.2.7 Shortcomings of dictionary definitions
+
+<a id="s-1-2-7"></a>
+
+### 1.2.7 Shortcomings of dictionary definitions
+
 
 For anyone wishing to compare taxonomies of flora and fauna in Oceanic languages a serious problem is the poor quality of definitions provided in dictionaries and other sources. Ideally, the taxonomies of a language should be inferable from information given in the dictionary.[^4]
 
@@ -135,9 +163,9 @@ For example, many Oceanic dictionaries give a bare gloss, ‘general term for fi
 
 A slightly different sort of gap is exemplified by an entry in Dixon’s (1970) dictionary of Dobuan, a Papuan Tip language, which glosses _iyana_ as ‘fish, including alligators’. Leaving aside the detail that alligators but not crocodiles are found in New Guinea waters, we are left wondering what else besides fish and crocodiles counts as _iyana_. Lithgow’s dictionary of Muyuw, another Papuan Tip language, is a bit more informative, offering _yin_ ‘fish, turtles, crocodiles, but not shellfish’. But again, we are not told whether, say, eels, cetaceans, dugongs, and octopus count as fish.
 
-In the case of major generics, different sources for the same language often offer conflicting definitions. The standard dictionary of Motu ([Lister-Turner and Clark 1954a](../references.md#source-ListerTurnerandClark1954a)) glosses _gwarume_ simply as ‘fish’. However, Nigel Oram, who looked into the matter in some detail, obtained a different and narrower definition of this term from his informants, namely ‘fish, excluding sharks, rays, eels, and also excluding cephalopods’ (Oram, field notes). Capell’s (1941) dictionary of Standard Fijian (based on the Bauan dialect of Eastern Fijian) glosses _ika_ as ‘fish’, overlooking the fact that the Fijian term has a broader sense that includes turtles, dolphins and whales (P. Geraghty, pers. comm.).
+In the case of major generics, different sources for the same language often offer conflicting definitions. The standard dictionary of Motu ([Lister-Turner and Clark 1954a](../sources/ListerTurnerandClark1954a)) glosses _gwarume_ simply as ‘fish’. However, Nigel Oram, who looked into the matter in some detail, obtained a different and narrower definition of this term from his informants, namely ‘fish, excluding sharks, rays, eels, and also excluding cephalopods’ (Oram, field notes). Capell’s (1941) dictionary of Standard Fijian (based on the Bauan dialect of Eastern Fijian) glosses _ika_ as ‘fish’, overlooking the fact that the Fijian term has a broader sense that includes turtles, dolphins and whales (P. Geraghty, pers. comm.).
 
-Fox’s (1955) dictionary of Gela (Gela) defines _iga_ as a class name for any kind of sea creature: ‘sea creature: fish, mollusc, crayfish, whale, squid, sea anemone, etc.’. However, in his study of Gela fishing the zoologist Simon [Foale](../references.md#source-Foale1998) ([1998](../references.md#source-Foale1998)) distinguishes two uses of _iga_: ‘bony and cartiligenousfish’ vs ‘all fish, whales, dolphins, dugongs, turtles, crocodiles’. Neither definition exactly matches Fox’s. (Foale’s definition of the second, extended sense does not include squid, (shelled) molluscs, crayfish or anemones.) Do such differences reflect variation among informants or less than exhaustive enquiry on the part of the authors, or a bit of both?
+Fox’s (1955) dictionary of Gela (Gela) defines _iga_ as a class name for any kind of sea creature: ‘sea creature: fish, mollusc, crayfish, whale, squid, sea anemone, etc.’. However, in his study of Gela fishing the zoologist Simon [Foale](../sources/Foale1998) ([1998](../sources/Foale1998)) distinguishes two uses of _iga_: ‘bony and cartiligenousfish’ vs ‘all fish, whales, dolphins, dugongs, turtles, crocodiles’. Neither definition exactly matches Fox’s. (Foale’s definition of the second, extended sense does not include squid, (shelled) molluscs, crayfish or anemones.) Do such differences reflect variation among informants or less than exhaustive enquiry on the part of the authors, or a bit of both?
 
 A further problem is that dictionaries, quite understandably, seldom provide a corpus of examples showing how a term is used in everyday discourse. Such a corpus would, among other things, help us decide whether a particular term is a true taxonomic generic rather than a collective.
 
@@ -188,7 +216,11 @@ The following discussion compares dictionary definitions of reflexes of POc _&as
 ### 2.2. Reflexes of _&ast;ikan_
 
 
-8.2.2.1 Central Pacific
+
+<a id="s-2-2-1"></a>
+
+### 2.2.1 Central Pacific
+
 
 Relatively detailed definitions of reflexes of _&ast;ikan_ are available for many Central Pacific languages.
 
@@ -266,16 +298,20 @@ The Polynesian languages cited here agree fairly well in their range of referent
 
 Rotuman and the Fijian languages agree in including eels and cephalopods, as well as sharks and rays, cetaceans and turtles, and in excluding crustaceans and molluscs with shells. Table 8.3 proposes likely semantic profdes for PPn and Proto Central Pacific.
 
-8.2.2.2 Micronesian
+
+<a id="s-2-2-2"></a>
+
+### 2.2.2 Micronesian
+
 
 Details follow of reflexes of _&ast;ikan_ in five Micronesian languages for which quite informative definitions are available. The semantic range exhibited by these definitions is summarised in Table 8.4.
 
 |             |            |                                                                                                                                                                                                                                                                               |
 |:------------|:-----------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Kiribati    | ika        | ‘fish: all swimming marine creatures including turtles, dugong, whales and porpoises, but not squid or octopus’                                                                                                                                                               |
-| Marshallese | ek         | ‘fish’ ([Abo et al. 1976](../references.md#source-Aboetal1976)) However, in the English-Marshallese finder list, under ‘fish’, the authors list terms for ‘dolphin’, ‘giant octopus’, and ‘jellyfish’ as well as ‘shark’, ‘eel’, but not ‘whale’ or ‘turtle’                                                         |
+| Marshallese | ek         | ‘fish’ ([Abo et al. 1976](../sources/Aboetal1976)) However, in the English-Marshallese finder list, under ‘fish’, the authors list terms for ‘dolphin’, ‘giant octopus’, and ‘jellyfish’ as well as ‘shark’, ‘eel’, but not ‘whale’ or ‘turtle’                                                         |
 | Carolinian  | ix         | ‘generic term for fish’ (Jackson and Marek 1991). However, in the English-Carolinian finder list, under ‘fish’, the authors list terms for ‘porpoise’, ‘whale’, ‘octopus’, ‘sea urchin’, ‘starfish’, ‘sea cucumber’, as well as ‘eel’, ‘shark’ and ‘ray’, though not ‘turtle’ |
-| Woleaian    | ixar       | ‘fish’ ([Sohn and Tawerilmang 1976](../references.md#source-SohnandTawerilmang1976)). However, in the English-Woleaian finder list, under ‘fish’, the authors list terms for ‘dolphin’, whale’ as well as ‘eel’, ‘shark’ and ‘ray’, though not ‘turtle’, ‘octopus’ or ‘squid’.                                                  |
+| Woleaian    | ixar       | ‘fish’ ([Sohn and Tawerilmang 1976](../sources/SohnandTawerilmang1976)). However, in the English-Woleaian finder list, under ‘fish’, the authors list terms for ‘dolphin’, whale’ as well as ‘eel’, ‘shark’ and ‘ray’, though not ‘turtle’, ‘octopus’ or ‘squid’.                                                  |
 | Puluwatese  | yik, yikan | ‘fish, porpoises and whales but not squid’                                                                                                                                                                                                                                    |
 
 : Table 8.4       Semantic range of _&ast;ikan_ in Micronesian languages
@@ -293,14 +329,18 @@ Details follow of reflexes of _&ast;ikan_ in five Micronesian languages for whic
 
 All the languages sampled typically exclude turtles, molluscs and crustaceans. Some definitions include eels and cetaceans but others are indeterminate.
 
-8.2.2.3 Southeast Solomonic and Northwest Solomonic
+
+<a id="s-2-2-3"></a>
+
+### 2.2.3 Southeast Solomonic and Northwest Solomonic
+
 
 Informative definitions are available for a few Oceanic languages of the Solomon Islands. Among the following, all belong to the SE Solomonic group except Marovo, which is NW Solomonic. For each of Lau and Gela, two definitions are given, from different sources.
 
 |            |       |                                                                                                                                   |
 |:-----------|:------|:----------------------------------------------------------------------------------------------------------------------------------|
 | Arosi      | iʔa   | ‘fish, including sharks, rays; also porpoises, and possibly other marine animals’                                                 |
-| Lau        | iʔa   | ‘fish, any sea creature’ ([Fox 1955](../references.md#source-Fox1955))                                                                                               |
+| Lau        | iʔa   | ‘fish, any sea creature’ ([Fox 1955](../sources/Fox1955))                                                                                               |
 | Lau        | iʔa   | (1) ‘typical fish, sharks and rays’; (2) ‘extended to include large marine animals such as porpoises, whales, dugongs’ (Akimichi) |
 | To’aba’ita | iʔa   | ‘fish, sharks, rays, dolphins, whales, dugongs, turtles’ (F. Lichtenberk pers. comm.)                                             |
 | Gela       | iɣa   | ‘sea creature: fish, mollusc, crayfish, whale, squid, sea anemone, etc.’ (Fox)                                                    |
@@ -321,7 +361,11 @@ It can be seen that the witnesses largely agree in including sharks, rays, eels,
 | Gela (Foa.) | +              | +            | +                | +     | +        | +           | ?                | ?            | ?                 | 6+      |
 | Marovo      | +              | +            | +                | +     | +        | +           | +                | -            | +                 | 7       |
 
-8.2.2.4 Vanuatu
+
+<a id="s-2-2-4"></a>
+
+### 2.2.4 Vanuatu
+
 
 There are few informative definitions for reflexes of _&ast;ikan_ in Vanuatu languages.
 
@@ -349,7 +393,11 @@ Leaving aside the under-informative Mota and Tamambo definitions, we get Table 8
 | Anejom   | +              | +            | +                | +     | +        | +                | +            | -                 |       7 |
 | Paamese  | +              | +            | +                | +     | +        | +                | +            | +                 |       8 |
 
-8.2.2.5 The Admiralties
+
+<a id="s-2-2-5"></a>
+
+### 2.2.5 The Admiralties
+
 
 Definitions are given for _&ast;ikan_ reflexes in four Admiralties languages. The initial _n-_ they show is a reduced form of the POc article _&ast;na_ which has fused with the following noun.
 
@@ -373,7 +421,11 @@ Discarding the Loniu definition as under-informative, we get the comparative bre
 | Lenkau  | +              | +            | -                | (+)   | -        | -           | _                | _            | _                 | 2,4     |
 | Penchal | +              | +            | +                | (+)   | +        | -           | +                | -            | -                 | 5,7     |
 
-8.2.2.6 Western Oceanic
+
+<a id="s-2-2-6"></a>
+
+### 2.2.6 Western Oceanic
+
 
 Of the Western Oceanic reflexes that follow, only the definitions for Kilivila, Muyuw and Motu are reasonably informative. The latter are all Papuan Tip languages. It can be seen from Table 8.8 that two of the three Papuan Tip witnesses agree in including sharks, rays, eels and crocodiles but disagree over cetaceans and turtles.
 
@@ -419,7 +471,7 @@ The data loosely support the implicational scale given in Table 1. Some simplifi
 
 Why do speakers of various Oceanic languages (like people in many other places) place certain other kinds of animals in the same class as typical fish? Most likely the reasons were diverse. Some non-fish creatures look and behave rather like fish, e.g. whales, dolphins and dugongs to some extent resemble fish in the way they swim and in being completely aquatic. But what about turtles? Apart from being free-swimming bony animals that spend a lot of time at sea, turtles do not look or behave like fish. What they have in common with certain fish, perhaps, is that everywhere in the Pacific turtles are prized game, caught at sea. That leaves crocodiles, which resemble sharks in being fearsome creatures but otherwise share little in common with fish or turtles other than being free-swimming bony creatures.
 
-At any rate, the two senses of _&ast;ikan_ reflexes pose a problem for Berlin’s system of taxonomic ranks. If the ‘typical fish’ category counts as a life form, what is the status of extended categories such as ‘all water creatures’ or ‘all creatures that are free-swimming’ or ‘typical fish, eels, cetaceans, turtles and crocodiles’? Clearly, categories that contain creatures of such diverse appearance do not fit well with Berlin’s requirement (§1.2.3) that members of the same life form taxon share a distinctive morphotype or with Wierzbicka’s analogous requirement (§1.2.4) that one should be able to draw a generalized picture of the type. In order to convince Wierzbicka that in a language L, the extended sense of _&ast;ikan_ reflexes, encompassing turtles, crocodiles, dolphins, etc., is a true major generic in the same way that the narrower, sense applying to ‘typical fish’ is, we would have to show that speakers of L use the extended generic not just as a collective but also to refer to individual turtles, crocodiles and dolphins, e.g. ‘See that _ikan_ there. It’s a turtle.’ and ‘We caught ten _ikan_ and two of them were turtles.’ Unfortunately, this kind of data is almost completely lacking for the languages in our sample.
+At any rate, the two senses of _&ast;ikan_ reflexes pose a problem for Berlin’s system of taxonomic ranks. If the ‘typical fish’ category counts as a life form, what is the status of extended categories such as ‘all water creatures’ or ‘all creatures that are free-swimming’ or ‘typical fish, eels, cetaceans, turtles and crocodiles’? Clearly, categories that contain creatures of such diverse appearance do not fit well with Berlin’s requirement ([§1.2.3](../contributions/4-8#s-1-2-3)) that members of the same life form taxon share a distinctive morphotype or with Wierzbicka’s analogous requirement ([§1.2.4](../contributions/4-8#s-1-2-4)) that one should be able to draw a generalized picture of the type. In order to convince Wierzbicka that in a language L, the extended sense of _&ast;ikan_ reflexes, encompassing turtles, crocodiles, dolphins, etc., is a true major generic in the same way that the narrower, sense applying to ‘typical fish’ is, we would have to show that speakers of L use the extended generic not just as a collective but also to refer to individual turtles, crocodiles and dolphins, e.g. ‘See that _ikan_ there. It’s a turtle.’ and ‘We caught ten _ikan_ and two of them were turtles.’ Unfortunately, this kind of data is almost completely lacking for the languages in our sample.
 
 
 <a id="p-437"></a>
@@ -430,7 +482,7 @@ At any rate, the two senses of _&ast;ikan_ reflexes pose a problem for Berlin’
 ## 3. POc _&ast;pinaŋoda_
 
 
-More light might be shed on the scope of POc _&ast;ikan_ if it could be shown to contrast with another generic having a complementary meaning. There is a candidate. [Clark](../references.md#source-Clark1991) ([1991](../references.md#source-Clark1991)) provides an insightful reconstruction of the history of a POc term, _&ast;pinaŋoda_, that referred to a class of sea creatures that evidently stood in contrast to _&ast;ikan_. The following discussion is based largely on his account.
+More light might be shed on the scope of POc _&ast;ikan_ if it could be shown to contrast with another generic having a complementary meaning. There is a candidate. [Clark](../sources/Clark1991) ([1991](../sources/Clark1991)) provides an insightful reconstruction of the history of a POc term, _&ast;pinaŋoda_, that referred to a class of sea creatures that evidently stood in contrast to _&ast;ikan_. The following discussion is based largely on his account.
 
 Dictionaries of some Polynesian languages explicitly mention a two-way contrast between a reflex of PPn _&ast;ika_, denoting fish and other large aquatic vertebrates such as dolphins and turtles and a term, reflecting PPn _&ast;fiŋota_, that denotes forms of sea life other than &ast;ika, but especially molluscs and other invertebrates found on the reef. Compare, for example, the Tongan and Samoan entries in the following comparison:
 
@@ -506,9 +558,9 @@ Clark remarks that in some contemporary Oceanic languages _&ast;pinaŋoda_ refle
 ## 4. POc _&ast;sisiq_
 
 
-Oceanic speech communities that have access to reefs and beaches typically distinguish many kinds of molluscs. Speakers of Wayan Fijian, for example, have approximately 140 names for kinds of bivalve and gastropod shellfish, of which about 100 are gastropods. This is a domain, then, where one might expect to find one or more high-order taxonomic categories in Oceanic languages, a point made by [Clark](../references.md#source-Clark1981) ([1981](../references.md#source-Clark1981)).
+Oceanic speech communities that have access to reefs and beaches typically distinguish many kinds of molluscs. Speakers of Wayan Fijian, for example, have approximately 140 names for kinds of bivalve and gastropod shellfish, of which about 100 are gastropods. This is a domain, then, where one might expect to find one or more high-order taxonomic categories in Oceanic languages, a point made by [Clark](../sources/Clark1981) ([1981](../sources/Clark1981)).
 
-We have already seen that a reflex of _&ast;pinaŋoda_ ‘seafood gathered on the reef’ has developed into a generic for shellfish in Dobuan, Kilivila, Tolai and Nguna, as well as in certain Polynesian languages. [Clark](../references.md#source-Clark1981) ([1981](../references.md#source-Clark1981):268, 1991:79) also cites, as Polynesian examples of a generic that encompassed both bivalves and gastropods, Marquesan (Ua Pou dialect) _puukava_, Tahitian _puu_ and _puupuu_, Rennellese _hatu ʔatua_, and East Futuna and Tokelauan _figota_.
+We have already seen that a reflex of _&ast;pinaŋoda_ ‘seafood gathered on the reef’ has developed into a generic for shellfish in Dobuan, Kilivila, Tolai and Nguna, as well as in certain Polynesian languages. [Clark](../sources/Clark1981) ([1981](../sources/Clark1981):268, 1991:79) also cites, as Polynesian examples of a generic that encompassed both bivalves and gastropods, Marquesan (Ua Pou dialect) _puukava_, Tahitian _puu_ and _puupuu_, Rennellese _hatu ʔatua_, and East Futuna and Tokelauan _figota_.
 
 However, no widespread cognate set has been found that consistently serves as a general name for shellfish. In fact, most Oceanic languages do not have such a taxon. It is more common to find a generic that refers to edible gastropods, or at least to a large class of edible gastropods, and a generic that refers to a large class of bivalves. But, once again, hardly any such terms have widespread cognates.
 
@@ -674,7 +726,11 @@ POc _&ast;manuk_ is a well attested form whose semantic range certainly included
 ### 5.2. Variation in semantic scope of reflexes of &ast;manuk
 
 
-8.5.2.1 Polynesian
+
+<a id="s-5-2-1"></a>
+
+### 5.2.1 Polynesian
+
 
 ```
  Tongan            manu        ‘animal, esp. bird but applied also to quadrupeds, reptiles,
@@ -743,7 +799,7 @@ In Futunan, Uvean, (and occasionally) Rarotongan, _manu_ can be extended to all 
          Maori              +       -        -        -         -       -        1
 ```
 
-Cecil Brown, in a paper on the development of life form taxa in Polynesian languages, expresses doubts about the two-sense reconstruction. He concludes ([Brown 1981](../references.md#source-Brown1981):94) that ‘bird’ probably ‘constituted the primary, if not the only zoological reference’ of PPn _&ast;manu_. If I understand him correctly, Brown prefers to interpret the fact that Tongan, Niuean, Samoan, Tikopia, Rennellese, Rarotongan, etc. agree in having a second, wider sense of _&ast;manu_, as the result of semantic extensions made independently several times in the history of the Polynesian languages. He points out the importance of ecological factors. While birds must have been very prominent creatures in all the islands of the Pacific, most of the islands settled by Polynesians would have had very few land animals other than birds and small invertebrates. All had lizards, a very few had snakes, otherwise there were only those animals brought by humans: rats, dogs and (sometimes) pigs. When, in the post-European contact era, new quadrupeds (such as cattle, horses and goats) arrived it would have been natural to extend the reflex of _&ast;manu_ to these.
+Cecil Brown, in a paper on the development of life form taxa in Polynesian languages, expresses doubts about the two-sense reconstruction. He concludes ([Brown 1981](../sources/Brown1981):94) that ‘bird’ probably ‘constituted the primary, if not the only zoological reference’ of PPn _&ast;manu_. If I understand him correctly, Brown prefers to interpret the fact that Tongan, Niuean, Samoan, Tikopia, Rennellese, Rarotongan, etc. agree in having a second, wider sense of _&ast;manu_, as the result of semantic extensions made independently several times in the history of the Polynesian languages. He points out the importance of ecological factors. While birds must have been very prominent creatures in all the islands of the Pacific, most of the islands settled by Polynesians would have had very few land animals other than birds and small invertebrates. All had lizards, a very few had snakes, otherwise there were only those animals brought by humans: rats, dogs and (sometimes) pigs. When, in the post-European contact era, new quadrupeds (such as cattle, horses and goats) arrived it would have been natural to extend the reflex of _&ast;manu_ to these.
 
 However, it seems to me more likely that _&ast;manu_ was already polysemous in PPn. The evidence indicating that PPn had a synonym for _&ast;manu_ in its narrower sense, namely the compound _&ast;manu-lele_ ‘birds, bats, flying insects’ (lit. ‘flying _manu_’) is consistent with the view that _&ast;manu_ had two senses in PPn. The evidence from Fijian and Rotuman (see below) also supports a polysemous reconstruction. Be that as it may, there can be little doubt that in the Polynesian languages ecological factors have motivated both extensions and contractions in the semantic range of reflexes of POc _&ast;manuk_.
 
@@ -768,7 +824,11 @@ However, it seems to me more likely that _&ast;manu_ was already polysemous in P
                           2.    +          +       +         -         -        -       3
 ```
 
-8.5.2.2 Rotuman and Fijian
+
+<a id="s-5-2-2"></a>
+
+### 5.2.2 Rotuman and Fijian
+
 
 Rotuman and the Fijian languages reflect only a reduplicated form _&ast;manu-manu_. In Rotuman this term denotes land animals other than humans. In Wayan it denotes all creatures. In Bauan its narrower sense refers to birds and its wider sense includes all creatures. In all three languages a compound consisting of a reflex of _&ast;manu-manu_ plus a verb/adjective meaning ‘to fly, flying’ is used to distinguish birds and other flying animals from terrestrial animals.
 
@@ -782,7 +842,11 @@ Rotuman and the Fijian languages reflect only a reduplicated form _&ast;manu-man
                                      (2) ‘sometimes used to denote land animals in contrast to ma                                     rine animals, such as ika. fish and fish-like creatures’
 ```
 
-8.5.2.3 Micronesian
+
+<a id="s-5-2-3"></a>
+
+### 5.2.3 Micronesian
+
 
 ```
  Kiribati           man                  ‘animal (including fish), beast, insect, etc.’; ‘numeral
@@ -794,7 +858,7 @@ Rotuman and the Fijian languages reflect only a reduplicated form _&ast;manu-man
  Woleaian           mal                  (1) ‘animal, bird, animate object’; (2) ‘thing, inanimate
                                          object’
                                      (these are listed as homonyms by [Sohn and Tawerilmang
-                                     1976](../references.md#source-SohnandTawerilmang1976); note also mal ‘numeral classifier for animate beings
+                                     1976](../sources/SohnandTawerilmang1976); note also mal ‘numeral classifier for animate beings
                                      including humans’)
  Mokilese         mahn               ‘mammal, fruit bat, lizard, monitor, worm, bug, bird’
  Marshallese      men                ‘thing’
@@ -827,7 +891,11 @@ It can be seen that in this sample of Nuclear Micronesian languages most reflect
 
 It is likely that the primary sense of the PMic noun _&ast;man_ was at least as broad as ‘land creatures other than humans’ and that this form had already become a classifier for humans and animals.
 
-8.5.2.4 Other Oceanic groups
+
+<a id="s-5-2-4"></a>
+
+### 5.2.4 Other Oceanic groups
+
 
 Outside of the Nuclear Micronesian and Central Pacific groups, reflexes of _&ast;manuk_ generally have the narrower meaning ‘creature with wings: bird, bat, flying insect’. However, the paucity of good dictionaries for Oceanic languages in most regions of Melanesia limits our confidence in some of the glosses. The semantic range of reflexes of POc _&ast;manuk_ in some Oceanic languages other than Nuclear Micronesian and Central Pacific is shown in Table 8.15.
 
@@ -862,7 +930,7 @@ Meso-Melanesian
  cf. also
      Marovo            oloko     (1) ‘all flying creatures including large and small bats’
                                  (2) ‘animal, including all mobile land animals’ ([Hviding
-                                 2005](../references.md#source-Hviding2005):175)
+                                 2005](../sources/Hviding2005):175)
 North New Guinea
   Kairiru              myan      ‘bird’
   Manam                maŋ       ‘bird, fowl’
@@ -922,12 +990,12 @@ What does the total range of comparisons tell us about the semantic range of POc
 
 In terms of accounting for the distribution of meanings across subgroups, the most economical interpretation of the full range of comparative evidence in POc is to assume that _&ast;manuk_ referred only to winged or flying creatures: birds, bats and flying insects. This meaning dominates in subgroups other than Micronesian and Central Pacific. The wider meanings displayed by some daughter languages are best regarded as post-POc innovations.
 
-This conclusion is consistent with the fact that outside of Oceanic, cognates of _&ast;manuk_ generally refer to chickens or to birds in general but not to quadrupeds or marine animals. [Blust](../references.md#source-Blust2002) ([2002](../references.md#source-Blust2002)) attributes to PMP _&ast;manuk_ the meaning ‘chicken (domestic fowl)’ on the basis of widespread reflexes in Western and Central MP languages. He also reconstructs a reduplicated form PMP _&ast;manu-manuk_ meaning ‘bird’, widely reflected with this sense in WMP languages. Blust argues that PAn had an unrelated term for ‘bird’ namely _&ast;ayam_, which was replaced in this function by _&ast;manu-manuk_ in PMP. In PMP _&ast;ayam_ came to mean ‘domestic animal (of any sort)’.
+This conclusion is consistent with the fact that outside of Oceanic, cognates of _&ast;manuk_ generally refer to chickens or to birds in general but not to quadrupeds or marine animals. [Blust](../sources/Blust2002) ([2002](../sources/Blust2002)) attributes to PMP _&ast;manuk_ the meaning ‘chicken (domestic fowl)’ on the basis of widespread reflexes in Western and Central MP languages. He also reconstructs a reduplicated form PMP _&ast;manu-manuk_ meaning ‘bird’, widely reflected with this sense in WMP languages. Blust argues that PAn had an unrelated term for ‘bird’ namely _&ast;ayam_, which was replaced in this function by _&ast;manu-manuk_ in PMP. In PMP _&ast;ayam_ came to mean ‘domestic animal (of any sort)’.
 
 
 <a id="p-450"></a>
 
-Given that birds are the dominant indigenous land fauna in the island groups of Remote Oceania, and that there were no mammals native to this region, other than bats, it is not surprising that the generic term for birds and bats should be extended to other land animals (see discussion in §5.2.1). Here it seems is a case where a change in the meaning of a POc biotaxon can be attributed to changes in the range of animal life encountered by speakers of Oceanic daughter languages as they moved into new environments.
+Given that birds are the dominant indigenous land fauna in the island groups of Remote Oceania, and that there were no mammals native to this region, other than bats, it is not surprising that the generic term for birds and bats should be extended to other land animals (see discussion in [§5.2.1](../contributions/4-8#s-5-2-1)). Here it seems is a case where a change in the meaning of a POc biotaxon can be attributed to changes in the range of animal life encountered by speakers of Oceanic daughter languages as they moved into new environments.
 
 
 <a id="s-6"></a>
@@ -941,7 +1009,7 @@ Given that birds are the dominant indigenous land fauna in the island groups of 
 ### 6.1. Reflexes of POc _&ast;manu-manuk_ in Papuan Tip, SE Solomonic and Polynesian
 
 
-Osmond (this volume, ch.7) observes that reflexes of a form _&ast;manu-manuk_, meaning approximately ‘insects and other small invertebrates’ (corresponding to the English vernacular category ‘insects’)[^10] are found in three widely separated subgroups of Oceanic: Papuan Tip, Southeast Solomonic and Polynesian. In certain languages in each of these groups the reflex of _&ast;manu-manuk_ stands beside and contrasts with a reflex of _&ast;manuk_, meaning approximately ‘birds and other flying creatures’. Reduplications of _&ast;manuk_, but with rather different meanings, are also found in Lou (Admiralties), Fijian and Rotuman (see §5.2).
+Osmond (this volume, ch.7) observes that reflexes of a form _&ast;manu-manuk_, meaning approximately ‘insects and other small invertebrates’ (corresponding to the English vernacular category ‘insects’)[^10] are found in three widely separated subgroups of Oceanic: Papuan Tip, Southeast Solomonic and Polynesian. In certain languages in each of these groups the reflex of _&ast;manu-manuk_ stands beside and contrasts with a reflex of _&ast;manuk_, meaning approximately ‘birds and other flying creatures’. Reduplications of _&ast;manuk_, but with rather different meanings, are also found in Lou (Admiralties), Fijian and Rotuman (see [§5.2](../contributions/4-8#s-5-2)).
 
 In the definitions cited below from dictionary sources it is likely that the English gloss ‘insect’ is generally used in its vernacular sense.[^10]
 
@@ -989,9 +1057,9 @@ These data yield the rather simple implicational scale in Table 8.16. It can be 
 
 It might seem a straightforward matter to conclude that _&ast;manu-manuk_ was a generic or collective term for insects in general. However, two complicating factors must be addressed.
 
-In many Oceanic languages a semi-productive use of nominal reduplication is to name a taxon which resembles that named by the simple form but is smaller or otherwise atypical — not quite the real thing (for discussion of this function of reduplication in Oceanic see [Ross 2008a](../references.md#source-Ross2008a): 50-51). Given such a mechanism, we must consider the possibility that a reduplicated form of _&ast;manuk_ developed independently in Papuan Tip, Southeast Solomonic and Polynesian. On the formal level, such parallel development would not be surprising. However, it seems unlikely that the meaning of the reduplicated derivative would in both cases have been ‘insects, creepy crawlies’.
+In many Oceanic languages a semi-productive use of nominal reduplication is to name a taxon which resembles that named by the simple form but is smaller or otherwise atypical — not quite the real thing (for discussion of this function of reduplication in Oceanic see [Ross 2008a](../sources/Ross2008a): 50-51). Given such a mechanism, we must consider the possibility that a reduplicated form of _&ast;manuk_ developed independently in Papuan Tip, Southeast Solomonic and Polynesian. On the formal level, such parallel development would not be surprising. However, it seems unlikely that the meaning of the reduplicated derivative would in both cases have been ‘insects, creepy crawlies’.
 
-The other complicating factor is that a case can be made for attributing another sense to POc _&ast;manu-manuk_, roughly ‘all creatures’ or ‘all creatures other than those that live in water’. It was noted above (§5.2.2) that reflexes of _&ast;manu-manuk_ have this broader range of reference in Lou, Rotuman and the Fijian languages. However, I prefer to regard the Lou, Rotuman and Fijian uses as post-POc innovations, in which the reflex of _&ast;manu-manuk_ replaced the _&ast;manuk_ reflex as the general term for creatures or land creatures. Thus the conclusion that _&ast;manu-manuk_ existed in POc as a general term for insects and other small land invertebrates still stands.[^11] Some languages, chiefly in Polynesia, have narrowed its application use to just one or a few insects but in one language its scope has been extended to encompass all living things.
+The other complicating factor is that a case can be made for attributing another sense to POc _&ast;manu-manuk_, roughly ‘all creatures’ or ‘all creatures other than those that live in water’. It was noted above ([§5.2.2](../contributions/4-8#s-5-2-2)) that reflexes of _&ast;manu-manuk_ have this broader range of reference in Lou, Rotuman and the Fijian languages. However, I prefer to regard the Lou, Rotuman and Fijian uses as post-POc innovations, in which the reflex of _&ast;manu-manuk_ replaced the _&ast;manuk_ reflex as the general term for creatures or land creatures. Thus the conclusion that _&ast;manu-manuk_ existed in POc as a general term for insects and other small land invertebrates still stands.[^11] Some languages, chiefly in Polynesia, have narrowed its application use to just one or a few insects but in one language its scope has been extended to encompass all living things.
 
 
 <a id="p-452"></a>
@@ -1016,22 +1084,22 @@ Let us now return briefly to two questions asked at the outset. First, are the v
 
 Variations in definitions given to reflexes of _&ast;ikan_, _&ast;sisiq_, _&ast;manuk_ and _&ast;manu-manuk_ do appear to conform to implication scales, roughly those sketched in Tables 8.1, 8.9, 8.11 and 8.16, respectively. (We leave aside _&ast;pinaŋoda_, which was a collective rather than a true generic.) However, the nature of the data are such that we can only give approximate analyses. Undoubtedly, finer-grained data and analysis would show that this picture is too simple. While my main focus has been on the meanings of these five etyma, the foregoing question might also be asked of non-cognate terms that refer to ‘the same’ kinds of semantic categories. A wider comparative study that included non-cognate generic terms for kinds of animals would provide a broader base for testing hypotheses about implicational scales. However, such a study must be left for another occasion.
 
-Finally, why have such marked differences arisen in the semantic scope of these five POc terms? Can some of the changes be attributed to differences in the range of animal life encountered by different communities? All I will say here is that Oceanic islands differ considerably in the richness of their land fauna, with atolls, and small, geographically remote high islands having extremely impoverished fauna and that this variation may have played a part in the semantic histories of two of the five terms considered here, _&ast;manuk_ and _&ast;manu-manuk_. [Brown](../references.md#source-Brown1981) ([1981](../references.md#source-Brown1981)) has already pointed to the dominance of birds over other large land animals as a possible driver of semantic change in _&ast;manuk_ reflexes (see §5.2.1). But the other three terms all refer to aquatic (chiefly marine) animals and, leaving aside crocodiles and dugongs, the main types of marine fauna are fairly well represented throughout tropical Oceania. It follows that shifts in the referential range of reflexes of POc _&ast;ikan_, _&ast;pinaŋoda_ and _&ast;sisiq_ must be explained in terms of other factors.
+Finally, why have such marked differences arisen in the semantic scope of these five POc terms? Can some of the changes be attributed to differences in the range of animal life encountered by different communities? All I will say here is that Oceanic islands differ considerably in the richness of their land fauna, with atolls, and small, geographically remote high islands having extremely impoverished fauna and that this variation may have played a part in the semantic histories of two of the five terms considered here, _&ast;manuk_ and _&ast;manu-manuk_. [Brown](../sources/Brown1981) ([1981](../sources/Brown1981)) has already pointed to the dominance of birds over other large land animals as a possible driver of semantic change in _&ast;manuk_ reflexes (see [§5.2.1](../contributions/4-8#s-5-2-1)). But the other three terms all refer to aquatic (chiefly marine) animals and, leaving aside crocodiles and dugongs, the main types of marine fauna are fairly well represented throughout tropical Oceania. It follows that shifts in the referential range of reflexes of POc _&ast;ikan_, _&ast;pinaŋoda_ and _&ast;sisiq_ must be explained in terms of other factors.
 
 
 ## Notes
 
 [^1]: I am indebted to Frank Lichtenberk. John Lynch, Meredith Osmond. Malcolm Ross and Anna Wierzbicka for valuable comments on a draft of this paper, to John Lynch for pointing to additional Vanuatu and New Caledonian comparisons, and to Paul Geraghty, Frank Lichtenberk and the late Nigel Oram, for providing information about the generic terms for ‘fish’ in Standard Fijian, To’aba’ita and Motu, respectively.
 
-[^2]: The discussion that follows draws heavily on [Cruse](../references.md#source-Cruse1986) ([1986](../references.md#source-Cruse1986)) and [Wierzbicka](../references.md#source-Wierzbicka1984) ([1984](../references.md#source-Wierzbicka1984), [1996](../references.md#source-Wierzbicka1996)).
+[^2]: The discussion that follows draws heavily on [Cruse](../sources/Cruse1986) ([1986](../sources/Cruse1986)) and [Wierzbicka](../sources/Wierzbicka1984) ([1984](../sources/Wierzbicka1984), [1996](../sources/Wierzbicka1996)).
 
-[^3]: [Berlin](../references.md#source-Berlin1992) ([1992](../references.md#source-Berlin1992)) and Wierzbicka (1994, 1996) argue strongly against the position taken by some commentators that a hierarchy of kinds is absent from or marginal to folk biological classifications.
+[^3]: [Berlin](../sources/Berlin1992) ([1992](../sources/Berlin1992)) and Wierzbicka (1994, 1996) argue strongly against the position taken by some commentators that a hierarchy of kinds is absent from or marginal to folk biological classifications.
 
-[^4]: Almost fifty years ago [Conklin](../references.md#source-Conklin1962) ([1962](../references.md#source-Conklin1962):144) laid down a set of desiderata for dictionaries, especially for the provision of systematic information about folk taxonomies. (Conklin had bilingual dictionaries in mind but the same standards should apply to monolingual dictionaries.) Ideally, a dictionary should provide: 1. consistent marking of each entry as to its status as a lexical unit and taxon, its immediately subordinate taxa and superordinate taxon, and all coordinate taxa included with it in this next higher taxon …; 2. differential marking of translation labels and of definitions; 3. concise indication of distinctive attributes which define categories belonging to analysed lexical sets: 4. systematic cross-referencing to maximal taxa in all major subhierarchies, to referential synonyms, and to all units involved in categoric overlap; and 5. frequent use of structural charts and diagrams.
+[^4]: Almost fifty years ago [Conklin](../sources/Conklin1962) ([1962](../sources/Conklin1962):144) laid down a set of desiderata for dictionaries, especially for the provision of systematic information about folk taxonomies. (Conklin had bilingual dictionaries in mind but the same standards should apply to monolingual dictionaries.) Ideally, a dictionary should provide: 1. consistent marking of each entry as to its status as a lexical unit and taxon, its immediately subordinate taxa and superordinate taxon, and all coordinate taxa included with it in this next higher taxon …; 2. differential marking of translation labels and of definitions; 3. concise indication of distinctive attributes which define categories belonging to analysed lexical sets: 4. systematic cross-referencing to maximal taxa in all major subhierarchies, to referential synonyms, and to all units involved in categoric overlap; and 5. frequent use of structural charts and diagrams.
 
-[^5]: One reason is that the authors of the dictionaries concerned are from Australia and NZ, where most people understand shellfish to refer just to molluscs with shells ([Pawley 2004](../references.md#source-Pawley2004)).
+[^5]: One reason is that the authors of the dictionaries concerned are from Australia and NZ, where most people understand shellfish to refer just to molluscs with shells ([Pawley 2004](../sources/Pawley2004)).
 
-[^6]: _&ast;paŋoda_. in turn, was probably diachronically a morphologically complex verb, reflecting the PMP prefix _&ast;paN-_ ‘actor focus verb derivative’ plus a root, where &ast;V represents a nasal consonant whose point of articula tion was homorganic with and replaced the initial consonant of the root. Compare POc _&ast;kan-i_ ‘to eat sth.’ and _&ast;paŋ-an_ 'to eat (intr)’ and other examples in [Ross](../references.md#source-Ross1998c) ([1998c](../references.md#source-Ross1998c): 29-30). This suggests that _&ast;paŋoda_ was an intransitive verb, one that referred to the general act of gathering seafood on the reef but could not be used to single out particular things gathered. The root in this verb was most likely POc _&ast;koda_ or _&ast;qoda_ ‘(v) eat raw seafood (flesh of fish or molluscs)’, '(n) raw seafood’ ([Geraghty 1983](../references.md#source-Geraghty1983). [Lichtenberk 1994](../references.md#source-Lichtenberk1994)). with PMP antecedent _&ast;qe(n)taq_ (Blust 1972).
+[^6]: _&ast;paŋoda_. in turn, was probably diachronically a morphologically complex verb, reflecting the PMP prefix _&ast;paN-_ ‘actor focus verb derivative’ plus a root, where &ast;V represents a nasal consonant whose point of articula tion was homorganic with and replaced the initial consonant of the root. Compare POc _&ast;kan-i_ ‘to eat sth.’ and _&ast;paŋ-an_ 'to eat (intr)’ and other examples in [Ross](../sources/Ross1998c) ([1998c](../sources/Ross1998c): 29-30). This suggests that _&ast;paŋoda_ was an intransitive verb, one that referred to the general act of gathering seafood on the reef but could not be used to single out particular things gathered. The root in this verb was most likely POc _&ast;koda_ or _&ast;qoda_ ‘(v) eat raw seafood (flesh of fish or molluscs)’, '(n) raw seafood’ ([Geraghty 1983](../sources/Geraghty1983). [Lichtenberk 1994](../sources/Lichtenberk1994)). with PMP antecedent _&ast;qe(n)taq_ (Blust 1972).
 
 [^7]: The sole internal Oceanic evidence for reconstructing final _&ast;q_ resides in New Caledonian reflexes. North and Central Vanuatu languages often reflect _&ast;siseq_ and a few point to _&ast;sisaq_.
 
@@ -1041,4 +1109,4 @@ Finally, why have such marked differences arisen in the semantic scope of these 
 
 [^10]: The _Shorter Oxford English Dictionary_ gives the following definition of the popular use of ‘insect’: “… in pop. use comprising, besides the animals scientifically so called (… [animals of class Insecta]), many other arthropods, as spiders, mites, centipedes, wood-lice, etc. and other invertebrates, as the ’coral insect’; still applied by the uneducated to earth-worms, snails, etc. and even some small invertebrates, as frogs and tortoises.” The authors of the SOED seem to have forgotten that the folk taxonomies of the ‘uneducated’ are as worthy as those of the ‘educated’!
 
-[^11]: [Blust](../references.md#source-Blust2002) ([2002](../references.md#source-Blust2002)) reconstructs a reduplicated form PMP _&ast;manu-manuk_ meaning ‘bird’, widely reflected with this sense in WMP languages, alongside PMP _&ast;manuk_ ‘chicken’.
+[^11]: [Blust](../sources/Blust2002) ([2002](../sources/Blust2002)) reconstructs a reduplicated form PMP _&ast;manu-manuk_ meaning ‘bird’, widely reflected with this sense in WMP languages, alongside PMP _&ast;manuk_ ‘chicken’.

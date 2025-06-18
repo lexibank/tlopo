@@ -1,6 +1,6 @@
 [Osmond, M.](.smallcaps)
 
-An earlier version of this chapter is included in [Lynch and Pat, eds,](../references.md#source-LynchPat1996) ([1996](../references.md#source-LynchPat1996)). I am grateful to Andrew Pawley and Malcolm Ross who have contributed substantially to the preparation of this chapter, to Atholl Anderson for his comments and to Jean Kennedy for drawing my attention to P.H. (Holly) McEldowney's thesis (1995), which contains a wealth of information on fishing techniques in the Admiralties.
+An earlier version of this chapter is included in [Lynch and Pat, eds,](../sources/LynchPat1996) ([1996](../sources/LynchPat1996)). I am grateful to Andrew Pawley and Malcolm Ross who have contributed substantially to the preparation of this chapter, to Atholl Anderson for his comments and to Jean Kennedy for drawing my attention to P.H. (Holly) McEldowney's thesis (1995), which contains a wealth of information on fishing techniques in the Admiralties.
 
 
 <a id="s-1"></a>
@@ -28,7 +28,7 @@ Most Oceanic languages have a wide range of terms for different kinds of nets. T
 <i>&ast;puket</i>
 </td>
 <td>
-[N] '<span>dragnet</span>'; [V] '<span>surround, engulf</span>' (<a href="../references.md#source-Blust1972b">Blust1972b</a>)
+[N] '<span>dragnet</span>'; [V] '<span>surround, engulf</span>' (<a href="../sources/Blust1972b">Blust1972b</a>)
 </td>
 </tr>
 <tr>
@@ -40,57 +40,57 @@ Most Oceanic languages have a wide range of terms for different kinds of nets. T
 '<span>fishing net, seine</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Andra</td><td><i>hu</i></td>
+<td>Adm</td><td><a href="../languages/andra">Andra</a></td><td><i>hu</i></td>
 <td>
 '<span>large rectangular net, used in pairs</span>' (<span>McEldowney</span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kove</td><td><i>puo</i></td>
+<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td><i>puo</i></td>
 <td>
 '<span>seine net</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Gumawana</td><td><i>uwosi</i></td>
+<td>PT</td><td><a href="../languages/gumawana">Gumawana</a></td><td><i>uwosi</i></td>
 <td>
 '<span>net for fishing and for trapping turtle</span>' (<span>final <em>-i</em> suggests a borrowing from Suauic</span>)</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>huo</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>huo</i></td>
 <td>
 '<span>kangaroo net</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nakanai</td><td><i>vuo</i></td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>vuo</i></td>
 <td>
 '<span>seine net</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Bali</td><td><i>vuɣoto</i></td>
+<td>MM</td><td><a href="../languages/bali">Bali</a></td><td><i>vuɣoto</i></td>
 <td>
 '<span>fishing net</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>huʔo</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>huʔo</i></td>
 <td>
 '<span>large net, seine net</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>huʔo</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>huʔo</i></td>
 <td>
 '<span>seine net</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kiribatese</td><td><i>ikot-</i></td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>ikot-</i></td>
 <td>
 '<span>bring together, gather, collect</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Mokilese</td><td><i>uk</i></td>
+<td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td><i>uk</i></td>
 <td>
 '<span>round net</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Woleaian</td><td><i>uxo</i></td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>uxo</i></td>
 <td>
 '<span>fish net</span>'</td>
 </tr>
@@ -110,22 +110,22 @@ Reflexes of _&ast;pukot_ meaning specifically 'seine' occur in both WOc (Kove, N
 '<span>fishing net</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Balawaia</td><td><i>leke</i></td>
+<td>PT</td><td><a href="../languages/balawaia">Balawaia</a></td><td><i>leke</i></td>
 <td>
 '<span>fishing net</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>reke</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>reke</i></td>
 <td>
 '<span>fine fishing net, seine</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Roro</td><td><i>reʔe</i></td>
+<td>PT</td><td><a href="../languages/roro">Roro</a></td><td><i>reʔe</i></td>
 <td>
 '<span>fishing net</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Vitu</td><td><i>neke</i></td>
+<td>MM</td><td><a href="../languages/vitu">Vitu</a></td><td><i>neke</i></td>
 <td>
 '<span>fishing net, fish trap</span>' (<span><em>n-</em> for expected <em>**r-</em></span>)</td>
 </tr>
@@ -135,31 +135,31 @@ Reflexes of _&ast;pukot_ meaning specifically 'seine' occur in both WOc (Kove, N
 <i>&ast;dreke</i>
 </td>
 <td>
-'<span>recess, cavity, pocket of a seine net</span>' (<a href="../references.md#source-Biggs1965">Biggs1965</a>)
+'<span>recess, cavity, pocket of a seine net</span>' (<a href="../sources/Biggs1965">Biggs1965</a>)
 </td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>dreke</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>dreke</i></td>
 <td>
 '<span>hold of a boat</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>dreke</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>dreke</i></td>
 <td>
 '<span>hollow or cavity in a thing</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Rotuman</td><td><i>reke</i></td>
+<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td><i>reke</i></td>
 <td>
 '<span>pocket of a seine net</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>leke</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>leke</i></td>
 <td>
 '<span>small room or recess</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rarotongan</td><td><i>reke</i></td>
+<td>Pn</td><td><a href="../languages/rarotongan">Rarotongan</a></td><td><i>reke</i></td>
 <td>
 '<span>end of a net</span>'</td>
 </tr>
@@ -176,7 +176,7 @@ _&ast;reke_ perhaps also referred to a seine net, but its Eastern Oceanic reflex
 <i>&ast;lawa(n,q)</i>
 </td>
 <td>
-'<span>k.o. fishnet</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>k.o. fishnet</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -188,32 +188,32 @@ _&ast;reke_ perhaps also referred to a seine net, but its Eastern Oceanic reflex
 '<span>k.o. fishnet</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Loniu</td><td><i>law</i></td>
+<td>Adm</td><td><a href="../languages/loniu">Loniu</a></td><td><i>law</i></td>
 <td>
 '<span>k.o. long narrow fishnet</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Andra</td><td><i>lau</i></td>
+<td>Adm</td><td><a href="../languages/andra">Andra</a></td><td><i>lau</i></td>
 <td>
 '<span>long medium-mesh barrier net, held upright by floats and weights and secured by men at intervals</span>' (<span>McEldowney</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>rawa</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>rawa</i></td>
 <td>
 '<span>small net</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>lawa</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>lawa</i></td>
 <td>
 '<span>the name of a creeper from which twine for nets is made</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>lawa</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>lawa</i></td>
 <td>
 '<span>fishing net</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>lawa</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>lawa</i></td>
 <td>
 '<span>fishing net</span>'</td>
 </tr>
@@ -231,51 +231,51 @@ _&ast;reke_ perhaps also referred to a seine net, but its Eastern Oceanic reflex
 <i>&ast;ku(p,pʷ)ena</i>
 </td>
 <td>
-'<span>fishing net</span>' (<a href="../references.md#source-Blust1981a">Blust1981a</a>)
+'<span>fishing net</span>' (<a href="../sources/Blust1981a">Blust1981a</a>)
 </td>
 </tr>
 <tr>
-<td>Adm</td><td>Mussau</td><td><i>uena</i></td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>uena</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Adm</td><td>Loniu</td><td><i>kupʷen</i></td>
+<td>Adm</td><td><a href="../languages/loniu">Loniu</a></td><td><i>kupʷen</i></td>
 <td>
 '<span>long rectangular fish net</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tolai</td><td><i>ubene</i></td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>ubene</i></td>
 <td>
 '<span>fish net; any net or net-like thing; spider's web</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>ʔubena</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>ʔubena</i></td>
 <td>
 '<span>large net</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Nguna</td><td><i>kupʷena</i></td>
+<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td><i>kupʷena</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>SV</td><td>Lenakel</td><td><i>na-kapun</i></td>
+<td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td><i>na-kapun</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Tuvalu</td><td><i>kupeŋa</i></td>
+<td>Pn</td><td><a href="../languages/tuvalu">Tuvalu</a></td><td><i>kupeŋa</i></td>
 <td>
 '<span>large heavy net for communal fishing</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>kupeŋa</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>kupeŋa</i></td>
 <td>
 '<span>fishing net: generic</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>kupeŋa</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>kupeŋa</i></td>
 <td>
 '<span>net: generic</span>' (<span>usually refers to fishing net</span>)</td>
 </tr>
@@ -283,16 +283,16 @@ _&ast;reke_ perhaps also referred to a seine net, but its Eastern Oceanic reflex
 
 
 
-The fourth term, _&ast;ku(p,pʷ)ena_, is the most widespread term of the four, and arguably the best bet for a POc generic term for fishing nets. Our files list more than forty cognates from all major subgroups. In Tuvalu ([Koch n.d.](../references.md#source-Kochnd): 30) the _kupeŋa_ is "a primitive kind of net … large and heavy and knotted from rolled coconut fibre twine … affixed to two poles tied together at one end forming a n acute angle; large cowrie shells are fixed under the edge of the third side". Two men hold the poles, and the net is tilted so the fish can swim into it. In parts of Polynesia, the term is used as a generic. On Niuatoputapu (Tonga), _kupeŋa_ is the term used for all netting techniques, as opposed to _tau_ (angling) or _uku_ (diving) ([Dye 1983](../references.md#source-Dye1983): 252-254). Dye lists _kupeŋa fakamamaha_ 'netting with the ebbing tide ' ; _kupeŋa ʔava_ 'netting for _ʔava_ (milkfish)'; _kupeŋa hokohoka_, in which a handled net is used in rough surf; _kupeŋa sili pulou_, where the common throw net, about three metres across, is used to catch bait fish; and so on. In Rennell, the term evidently subsumes all kinds of nets. Although [Elbert](../references.md#source-Elbert1975) ([1975](../references.md#source-Elbert1975)) defines _kupeŋa_ as 'fine-meshed fishing net', he includes _kupeŋa tape peka_ 'flying fox snaring net', as well as six kinds of fishing nets labelled with compound terms beginning with _kupeŋa_. The same general term _kupeŋa_ 'net, traditionally of hibiscus fibre' is found in Tikopia, with particular types named as compounds (_kupeŋa tā save_ 'pole net for flying fish', _kupeŋa fukifuki_ 'pole net for reef work') and _mata kupeŋa_ referring to net mesh.
+The fourth term, _&ast;ku(p,pʷ)ena_, is the most widespread term of the four, and arguably the best bet for a POc generic term for fishing nets. Our files list more than forty cognates from all major subgroups. In Tuvalu ([Koch n.d.](../sources/Kochnd): 30) the _kupeŋa_ is "a primitive kind of net … large and heavy and knotted from rolled coconut fibre twine … affixed to two poles tied together at one end forming a n acute angle; large cowrie shells are fixed under the edge of the third side". Two men hold the poles, and the net is tilted so the fish can swim into it. In parts of Polynesia, the term is used as a generic. On Niuatoputapu (Tonga), _kupeŋa_ is the term used for all netting techniques, as opposed to _tau_ (angling) or _uku_ (diving) ([Dye 1983](../sources/Dye1983): 252-254). Dye lists _kupeŋa fakamamaha_ 'netting with the ebbing tide ' ; _kupeŋa ʔava_ 'netting for _ʔava_ (milkfish)'; _kupeŋa hokohoka_, in which a handled net is used in rough surf; _kupeŋa sili pulou_, where the common throw net, about three metres across, is used to catch bait fish; and so on. In Rennell, the term evidently subsumes all kinds of nets. Although [Elbert](../sources/Elbert1975) ([1975](../sources/Elbert1975)) defines _kupeŋa_ as 'fine-meshed fishing net', he includes _kupeŋa tape peka_ 'flying fox snaring net', as well as six kinds of fishing nets labelled with compound terms beginning with _kupeŋa_. The same general term _kupeŋa_ 'net, traditionally of hibiscus fibre' is found in Tikopia, with particular types named as compounds (_kupeŋa tā save_ 'pole net for flying fish', _kupeŋa fukifuki_ 'pole net for reef work') and _mata kupeŋa_ referring to net mesh.
 
-Figure 27a: POc _&ast;ku(p,pʷ)ena_ 'fishing net' - generic term. (from [Nevermann 1933](../references.md#source-Nevermann1933):89)
+Figure 27a: POc _&ast;ku(p,pʷ)ena_ 'fishing net' - generic term. (from [Nevermann 1933](../sources/Nevermann1933):89)
 
 
 <a id="p-214"></a>
 
-Figure 27b: Possibly POc _&ast;pukot_ 'a seine net', with wooden floats (POc _&ast;utoŋ_) and stone sinkers (POc _&ast;patu_) (from [Nevermann 1933](../references.md#source-Nevermann1933):89)
+Figure 27b: Possibly POc _&ast;pukot_ 'a seine net', with wooden floats (POc _&ast;utoŋ_) and stone sinkers (POc _&ast;patu_) (from [Nevermann 1933](../sources/Nevermann1933):89)
 
-Figure 27c: Another kind of _&ast;ku(p,pʷ)ena_. We lack a specific reconstruction for a handnet. (from [Nevermann 1933](../references.md#source-Nevermann1933):89)
+Figure 27c: Another kind of _&ast;ku(p,pʷ)ena_. We lack a specific reconstruction for a handnet. (from [Nevermann 1933](../sources/Nevermann1933):89)
 
 The techniques that involve large nets usually require use of floats and sinkers. We have a reconstruction for net float:
 
@@ -306,57 +306,57 @@ The techniques that involve large nets usually require use of floats and sinkers
 '<span>float of fishing net</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Gitua</td><td><i>uton</i></td>
+<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td><i>uton</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>PT</td><td>Bwaidoga</td><td><i>utoɣa</i></td>
+<td>PT</td><td><a href="../languages/bwaidoga">Bwaidoga</a></td><td><i>utoɣa</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>MM</td><td>Nakanai</td><td><i>uto</i></td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>uto</i></td>
 <td>
 '<span>handle or stick of fish net</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>uo</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>uo</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>uto</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>uto</i></td>
 <td>
 [V] '<span>come above the surface in water</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Ponapean</td><td><i>ūs</i></td>
+<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td><i>ūs</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Mic</td><td>Satawalese</td><td><i>wūs, wuso-</i></td>
+<td>Mic</td><td><a href="../languages/satawalese">Satawalese</a></td><td><i>wūs, wuso-</i></td>
 <td>
 '<span>any kind of wood that floats well</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>uto-uto</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>uto-uto</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Fij</td><td>Rotuman</td><td><i>ut</i></td>
+<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td><i>ut</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>uto</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>uto</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Rarotongan</td><td><i>uto</i></td>
+<td>Pn</td><td><a href="../languages/rarotongan">Rarotongan</a></td><td><i>uto</i></td>
 <td>
 </td>
 </tr>
@@ -378,7 +378,7 @@ The only terms I can locate for sinker are reflexes of POc _&ast;patu_ 'stone', 
 <i>&ast;buliq</i>
 </td>
 <td>
-'<span>cowrie shell</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>cowrie shell</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -390,12 +390,12 @@ The only terms I can locate for sinker are reflexes of POc _&ast;patu_ 'stone', 
 '<span>cowrie shell; cowrie shell used as net sinker</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>puli</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>puli</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Tuvalu</td><td><i>pule</i></td>
+<td>Pn</td><td><a href="../languages/tuvalu">Tuvalu</a></td><td><i>pule</i></td>
 <td>
 </td>
 </tr>
@@ -415,37 +415,37 @@ Other reconstructions that can be included within the vocabulary of nets are:
 '<span>netting needle</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Kilivila</td><td><i>(va)sia</i></td>
+<td>PT</td><td><a href="../languages/kilivila">Kilivila</a></td><td><i>(va)sia</i></td>
 <td>
 '<span>needle</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kiribatese</td><td><i>rika</i></td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>rika</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Fij</td><td>Rotuman</td><td><i>siʔa</i></td>
+<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td><i>siʔa</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>sika (ni lawa)</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>sika (ni lawa)</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>hika</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>hika</i></td>
 <td>
 '<span>mesh needle, used in making nets</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>East Futunan</td><td><i>sika</i></td>
+<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td><i>sika</i></td>
 <td>
 '<span>shuttle used for net-making</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Hawaiian</td><td><i>hiʔa</i></td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>hiʔa</i></td>
 <td>
 '<span>shuttle or needle for making nets</span>'</td>
 </tr>
@@ -465,32 +465,32 @@ Figure 28: POc &ast;sika 'netting needle'
 '<span>mesh of net</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kove</td><td><i>mata</i></td>
+<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td><i>mata</i></td>
 <td>
 '<span>net gauge</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Molima</td><td><i>mata-</i></td>
+<td>PT</td><td><a href="../languages/molima">Molima</a></td><td><i>mata-</i></td>
 <td>
 '<span>net gauge</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>mā</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>mā</i></td>
 <td>
 '<span>hole; opening; mesh of net</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Kwaio</td><td><i>mā</i></td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>mā</i></td>
 <td>
 '<span>k.o. fish weir; space through which birds frequently fly, where traps are set up</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>mata</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>mata</i></td>
 <td>
 '<span>mesh of net</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Hawaiian</td><td><i>maka</i></td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>maka</i></td>
 <td>
 '<span>mesh of net</span>'</td>
 </tr>
@@ -512,17 +512,17 @@ Another term for net gauge is found in Eastern Oceania:
 '<span>net gauge</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>yava (ni lawa)</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>yava (ni lawa)</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>afa</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>afa</i></td>
 <td>
 '<span>mesh stick</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>ʔaha</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>ʔaha</i></td>
 <td>
 </td>
 </tr>
@@ -551,17 +551,17 @@ Some communities use a scareline for fishing, in which leaves are tied to a long
 '<span>dragline, scareline, made from rope and coconut leaves</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>rau (sole)</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>rau (sole)</i></td>
 <td>
 '<span>barrier of leaves used in a sole rau or ara-rau fish drive</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>au</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>au</i></td>
 <td>
 '<span>long fishing net made of rope and coconut leaves</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>rau</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>rau</i></td>
 <td>
 '<span>sweep with a net</span>'</td>
 </tr>
@@ -590,7 +590,7 @@ Nonetheless, the linguistic evidence leaves us in no doubt that POc speakers wer
 <i>&ast;hapen</i>
 </td>
 <td>
-'<span>fishing line</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>fishing line</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -599,46 +599,46 @@ Nonetheless, the linguistic evidence leaves us in no doubt that POc speakers wer
 <i>&ast;apon</i>
 </td>
 <td>
-'<span>fishing line</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>fishing line</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
-<td>Adm</td><td>Drehet</td><td><i>cap</i></td>
+<td>Adm</td><td><a href="../languages/drehet">Drehet</a></td><td><i>cap</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>MM</td><td>Petats</td><td><i>ahon</i></td>
+<td>MM</td><td><a href="../languages/petats">Petats</a></td><td><i>ahon</i></td>
 <td>
 '<span>string</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>(rau ni) avo(lo)</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>(rau ni) avo(lo)</i></td>
 <td>
 '<span>leaf kite for fishing</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kiribatese</td><td><i>ao</i></td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>ao</i></td>
 <td>
 '<span>fibre of coconut husk, fishline, twine</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kosraean</td><td><i>æ</i></td>
+<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td><i>æ</i></td>
 <td>
 '<span>string, fishing line, rope, thread, cord</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>ðavo</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>ðavo</i></td>
 <td>
 [v] '<span>fish with rod (and line)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>afo</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>afo</i></td>
 <td>
 '<span>cord, fishing line</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>afo</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>afo</i></td>
 <td>
 </td>
 </tr>
@@ -653,8 +653,8 @@ Nonetheless, the linguistic evidence leaves us in no doubt that POc speakers wer
 <i>&ast;kawil</i>
 </td>
 <td>
-'<span>hook</span>' (<a href="../references.md#source-Blust1972a">Blust1972a</a>)
-; '<span>fish hook</span>' (<a href="../references.md#source-Dahl1973">Dahl1973</a>)
+'<span>hook</span>' (<a href="../sources/Blust1972a">Blust1972a</a>)
+; '<span>fish hook</span>' (<a href="../sources/Dahl1973">Dahl1973</a>)
 </td>
 </tr>
 <tr>
@@ -666,47 +666,47 @@ Nonetheless, the linguistic evidence leaves us in no doubt that POc speakers wer
 [N] '<span>hook; fishhook</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Baluan</td><td><i>kow</i></td>
+<td>Adm</td><td><a href="../languages/baluan">Baluan</a></td><td><i>kow</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>NNG</td><td>Kairiru</td><td><i>qawil</i></td>
+<td>NNG</td><td><a href="../languages/kairiru">Kairiru</a></td><td><i>qawil</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>MM</td><td>Tangga</td><td><i>auil</i></td>
+<td>MM</td><td><a href="../languages/tangga">Tangga</a></td><td><i>auil</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>MM</td><td>Roviana</td><td><i>gaili</i></td>
+<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td><i>gaili</i></td>
 <td>
 '<span>fishhook made from pearlshell and turtle shell, used in trolling</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>ʔawi</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>ʔawi</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>gau</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>gau</i></td>
 <td>
 '<span>fishhook</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Anejom</td><td><i>in-ɣowoc</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>in-ɣowoc</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>kau</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>kau</i></td>
 <td>
 '<span>fishhook of any kind</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tuvalu</td><td><i>kau</i></td>
+<td>Pn</td><td><a href="../languages/tuvalu">Tuvalu</a></td><td><i>kau</i></td>
 <td>
 '<span>fishhook, generic</span>'</td>
 </tr>
@@ -731,27 +731,27 @@ Figure 29: POc _&ast;kawil_ 'fish hook ', POc _&ast;ta(g,k)o_ '(barbless?) fish 
 '<span>(barbless ?) fishhook</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Bola (Harua)</td><td><i>toga</i></td>
+<td>MM</td><td><a href="../languages/bolaharua">Bola (Harua)</a></td><td><i>toga</i></td>
 <td>
 '<span>fishhook</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Maringe</td><td><i>tʰaɣo</i></td>
+<td>MM</td><td><a href="../languages/maringe">Maringe</a></td><td><i>tʰaɣo</i></td>
 <td>
 '<span>fishhook</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Bugotu</td><td><i>taɣo</i></td>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>taɣo</i></td>
 <td>
 '<span>fishhook</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>aʔo</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>aʔo</i></td>
 <td>
 '<span>fishing rod</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rarotongan</td><td><i>toko</i></td>
+<td>Pn</td><td><a href="../languages/rarotongan">Rarotongan</a></td><td><i>toko</i></td>
 <td>
 '<span>an old type of wooden fishing hook (no barb)</span>'</td>
 </tr>
@@ -759,7 +759,7 @@ Figure 29: POc _&ast;kawil_ 'fish hook ', POc _&ast;ta(g,k)o_ '(barbless?) fish 
 
 
 
-The extension of a meaning from a material to something made from that material is very common across languages (viz. English _glass_/_a glass_, _cork_/_a cork_). Examples occur in Oceanic languages as well (Bauan _gasau_ 'a reed ; an arrow ', Tolai _vat_ 'a stone, a sinker'). POc speakers evidently made fishhooks from a variety of shells, and in some daughter languages the term for a particular shell has become the term for a fishhook (made from that shell?). For instance, POc _&ast;kima_ 'clamshell' is reflected in some Central Papuan languages as _kimai_ 'fishhook' ([Ross 1994](../references.md#source-Ross1994a)a: 404). A similar example is:
+The extension of a meaning from a material to something made from that material is very common across languages (viz. English _glass_/_a glass_, _cork_/_a cork_). Examples occur in Oceanic languages as well (Bauan _gasau_ 'a reed ; an arrow ', Tolai _vat_ 'a stone, a sinker'). POc speakers evidently made fishhooks from a variety of shells, and in some daughter languages the term for a particular shell has become the term for a fishhook (made from that shell?). For instance, POc _&ast;kima_ 'clamshell' is reflected in some Central Papuan languages as _kimai_ 'fishhook' ([Ross 1994](../sources/Ross1994a)a: 404). A similar example is:
 
 <table id="1-8-4-None-217-POc-qunap-a">
 <tr>
@@ -768,7 +768,7 @@ The extension of a meaning from a material to something made from that material 
 <i>&ast;qunap</i>
 </td>
 <td>
-'<span>scales</span>' (<a href="../references.md#source-Dempwolff1938">Dempwolff1938</a>)
+'<span>scales</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
 </td>
 </tr>
 <tr>
@@ -780,52 +780,52 @@ The extension of a meaning from a material to something made from that material 
 '<span>turtle shell, fishhook</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Rauto</td><td><i>a-una</i></td>
+<td>NNG</td><td><a href="../languages/rauto">Rauto</a></td><td><i>a-una</i></td>
 <td>
 '<span>fishhook</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tinputz</td><td><i>unā</i></td>
+<td>MM</td><td><a href="../languages/tinputz">Tinputz</a></td><td><i>unā</i></td>
 <td>
 '<span>hook; fishhook</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Longgu</td><td><i>ūnai</i></td>
+<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td><i>ūnai</i></td>
 <td>
 '<span>fishhook</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Ghari</td><td><i>unua-na</i></td>
+<td>SES</td><td><a href="../languages/ghari">Ghari</a></td><td><i>unua-na</i></td>
 <td>
 '<span>turtle scales (not turtle shell)</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>una-na</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>una-na</i></td>
 <td>
 '<span>tortoiseshell</span>' (<span>una 'fish scales'</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>ʔuna</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>ʔuna</i></td>
 <td>
 '<span>outer shell (of turtle +)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>una</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>una</i></td>
 <td>
 '<span>scale; scale of hawk's bill turtle, i.e. tortoise-shell</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tuvalu</td><td><i>una</i></td>
+<td>Pn</td><td><a href="../languages/tuvalu">Tuvalu</a></td><td><i>una</i></td>
 <td>
 '<span>turtle shell</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>una</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>una</i></td>
 <td>
 '<span>carapace of marine turtle</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Hawaiian</td><td><i>una</i></td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>una</i></td>
 <td>
 '<span>shell of turtle</span>'</td>
 </tr>
@@ -833,7 +833,7 @@ The extension of a meaning from a material to something made from that material 
 
 
 
-Final _&ast;-p_ is reconstructed because this item is almost certainly identical to POc _&ast;qunap_ 'fish scales'. The Arosi (SES) verb derived from this term, _unahi-_ 'remove shell from turtle, scale a fish' (see Ch. 6, §5.4), reflects _&ast;-p-_ and refers to the removal of both turtle shell and fish scales.
+Final _&ast;-p_ is reconstructed because this item is almost certainly identical to POc _&ast;qunap_ 'fish scales'. The Arosi (SES) verb derived from this term, _unahi-_ 'remove shell from turtle, scale a fish' (see [Ch. 6, §5.4](../contributions/1-6#s-5-4)), reflects _&ast;-p-_ and refers to the removal of both turtle shell and fish scales.
 
 
 <a id="p-218"></a>
@@ -854,102 +854,102 @@ We have evidence, both archaeological and linguistic, that trolling lures were a
 '<span>fish bait, trolling lure, trolling hook</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Ramoaaina</td><td><i>bain</i></td>
+<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>bain</i></td>
 <td>
 '<span>bait</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Teop</td><td><i>beana</i></td>
+<td>MM</td><td><a href="../languages/teop">Teop</a></td><td><i>beana</i></td>
 <td>
 '<span>bait</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Mono-Alu</td><td><i>beana</i></td>
+<td>MM</td><td><a href="../languages/monoalu">Mono-Alu</a></td><td><i>beana</i></td>
 <td>
 '<span>bait</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>'Are'are</td><td><i>pasa</i></td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>pasa</i></td>
 <td>
 '<span>a barbless bonito fishhook</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>'Are'are</td><td><i>pā</i></td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>pā</i></td>
 <td>
 '<span>fish bait</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>pasa</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>pasa</i></td>
 <td>
 '<span>bonito lure of clamshell</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>pā</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>pā</i></td>
 <td>
 '<span>bait</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>bā</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>bā</i></td>
 <td>
 '<span>bait for fish, food to entice into a trap</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>pea</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>pea</i></td>
 <td>
 '<span>bait; to entice by a bait</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Lenakel</td><td><i>nə-pien</i></td>
+<td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td><i>nə-pien</i></td>
 <td>
 '<span>bait</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Kwamera</td><td><i>nə-piien</i></td>
+<td>SV</td><td><a href="../languages/kwamera">Kwamera</a></td><td><i>nə-piien</i></td>
 <td>
 '<span>bait</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Anejom</td><td><i>ne-pyañ</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>ne-pyañ</i></td>
 <td>
 '<span>bait</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>bā</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>bā</i></td>
 <td>
 '<span>trolling line with lure</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>baya</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>baya</i></td>
 <td>
 '<span>earthworm (earthworms are used for bait)</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>bā</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>bā</i></td>
 <td>
 '<span>Tongan variety of fishhook</span>' (<span>vakasavu ba 'troll'</span>)</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>baða</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>baða</i></td>
 <td>
 '<span>worm (hence bait for fishing)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>pā</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>pā</i></td>
 <td>
 '<span>fish hook, especially for catching bonito</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>pā</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>pā</i></td>
 <td>
 '<span>pearlshell iure; spinner including lure and hook</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tuvalu</td><td><i>pā</i></td>
+<td>Pn</td><td><a href="../languages/tuvalu">Tuvalu</a></td><td><i>pā</i></td>
 <td>
 '<span>bonito lure, generally made from mother-of-pearl shell</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tokelauan</td><td><i>pā</i></td>
+<td>Pn</td><td><a href="../languages/tokelauan">Tokelauan</a></td><td><i>pā</i></td>
 <td>
 '<span>generic term for trolling hook (<em>pa si malau</em>, <em>pa si aseu</em> etc.). All are made with pearlshell shanks and turtle-shell points</span>'</td>
 </tr>
@@ -971,7 +971,7 @@ John Lynch (pers.comm.) points out that the final _-ñ_ of Anejom _ne-pyañ_ ref
 <i>&ast;paniŋ</i>
 </td>
 <td>
-'<span>bait; fodder</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>bait; fodder</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -983,27 +983,27 @@ John Lynch (pers.comm.) points out that the final _-ñ_ of Anejom _ne-pyañ_ ref
 '<span>bait</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Gitua</td><td><i>bani</i></td>
+<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td><i>bani</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>PT</td><td>Tawala</td><td><i>bani</i></td>
+<td>PT</td><td><a href="../languages/tawala">Tawala</a></td><td><i>bani</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>PT</td><td>Molima</td><td><i>bani</i></td>
+<td>PT</td><td><a href="../languages/molima">Molima</a></td><td><i>bani</i></td>
 <td>
 [v] '<span>fish with hook and line</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Ramoaaina</td><td><i>ban</i></td>
+<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>ban</i></td>
 <td>
 '<span>bait; use for bait</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Ponapean</td><td><i>pān</i></td>
+<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td><i>pān</i></td>
 <td>
 '<span>bait, lure</span>'</td>
 </tr>
@@ -1026,7 +1026,7 @@ A form PMP/POc _&ast;baŋi_ 'bait', is reconstructable on the basis of Javanese 
 <i>&ast;bubu</i>
 </td>
 <td>
-'<span>conical bamboo basket trap for fish</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>conical bamboo basket trap for fish</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -1038,32 +1038,32 @@ A form PMP/POc _&ast;baŋi_ 'bait', is reconstructable on the basis of Javanese 
 '<span>basketry fish trap</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Lou</td><td><i>pup</i></td>
+<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td><i>pup</i></td>
 <td>
 '<span>bamboo basket trap for fish</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nakanai</td><td><i>vuvu</i></td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>vuvu</i></td>
 <td>
 '<span>k.o. fish trap</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>huhu</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>huhu</i></td>
 <td>
 '<span>large wickerwork eel trap</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kiribatese</td><td><i>ū</i></td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>ū</i></td>
 <td>
 '<span>trap for moray eel</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Puluwatese</td><td><i>wū</i></td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>wū</i></td>
 <td>
 '<span>fish trap</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>vuvu</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>vuvu</i></td>
 <td>
 '<span>long narrow fish trap made of bamboo</span>'</td>
 </tr>
@@ -1074,7 +1074,7 @@ A form PMP/POc _&ast;baŋi_ 'bait', is reconstructable on the basis of Javanese 
 
 <a id="p-220"></a>
 
-Figure 31: POc _&ast;pupu_ 'basketry fish trap' (from [Nevermann 1934](../references.md#source-Nevermann1934):226)
+Figure 31: POc _&ast;pupu_ 'basketry fish trap' (from [Nevermann 1934](../sources/Nevermann1934):226)
 
 The term is widely attested. It is noteworthy that we have no Polynesian cognates. Instead we find PPn _&ast;fīnaki_ (Tongan _finaki_, Rarotongan _ʔinaki_ 'fish trap'; Hawaiian _hīnaʔi_ 'k.o. basket fish trap').
 
@@ -1094,22 +1094,22 @@ The term is widely attested. It is noteworthy that we have no Polynesian cognate
 '<span>fence, wall, enclosure</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Mussau</td><td><i>bala-bala</i></td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>bala-bala</i></td>
 <td>
 '<span>fence</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>bā (ni ika)</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>bā (ni ika)</i></td>
 <td>
 '<span>fish weir</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>pā</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>pā</i></td>
 <td>
 '<span>fence, wall, enclosure, especially for fish trap, made of stone or sticks</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rarotongan</td><td><i>pā</i></td>
+<td>Pn</td><td><a href="../languages/rarotongan">Rarotongan</a></td><td><i>pā</i></td>
 <td>
 '<span>fish weir of stone walls</span>'</td>
 </tr>
@@ -1117,7 +1117,7 @@ The term is widely attested. It is noteworthy that we have no Polynesian cognate
 
 
 
-The POc term _&ast;baRa_ 'fence, wall, enclosure' (Ch. 3, §3.6) has evidently acquired an additional specialised meaning in the Central Pacific, where it refers to a fish trap made of stone or sometimes of sticks. (The Lou (Admiralties) term _pas_ 'stone fish corral' has unexplained _-s_, and at this stage cannot be accepted as a cognate.) In Oceania, walls of stone or coral are constructed across channels in the reef to catch fish on a falling tide. In the Cook Islands (Rarotonga), _pā_ has become a generic. [Buck](../references.md#source-Buck1927) ([1927](../references.md#source-Buck1927):298) writes that:
+The POc term _&ast;baRa_ 'fence, wall, enclosure' ([Ch. 3, §3.6](../contributions/1-3#s-3-6)) has evidently acquired an additional specialised meaning in the Central Pacific, where it refers to a fish trap made of stone or sometimes of sticks. (The Lou (Admiralties) term _pas_ 'stone fish corral' has unexplained _-s_, and at this stage cannot be accepted as a cognate.) In Oceania, walls of stone or coral are constructed across channels in the reef to catch fish on a falling tide. In the Cook Islands (Rarotonga), _pā_ has become a generic. [Buck](../sources/Buck1927) ([1927](../sources/Buck1927):298) writes that:
 
 > Most of the _pa_ are very old, having been laid down far back in pre-European times. The channels were studied and the course taken by fish observed. The lines of the walls were laid down with such skil l and accuracy that any departure from them ends in failure. The wall s are made o f loose coral rock. The most important weirs are named, and are owned by particular families. No outsider can use a weir without permission from the hereditary owners.
 
@@ -1136,7 +1136,7 @@ He describes various types of weirs, for example, _pa kiokio_ (roughly Z-shaped)
 <i>&ast;tuba</i>
 </td>
 <td>
-'<span>Derris fish poison</span>' (<a href="../references.md#source-Dempwolff1938">Dempwolff1938</a>)
+'<span>Derris fish poison</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
 </td>
 </tr>
 <tr>
@@ -1148,62 +1148,62 @@ He describes various types of weirs, for example, _pa kiokio_ (roughly Z-shaped)
 '<span>Derris fish poison</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Aria</td><td><i>tuva</i></td>
+<td>NNG</td><td><a href="../languages/aria">Aria</a></td><td><i>tuva</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>NNG</td><td>Kove</td><td><i>tuva</i></td>
+<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td><i>tuva</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>PT</td><td>Molima</td><td><i>tuva</i></td>
+<td>PT</td><td><a href="../languages/molima">Molima</a></td><td><i>tuva</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>PT</td><td>Kilivila</td><td><i>tuva</i></td>
+<td>PT</td><td><a href="../languages/kilivila">Kilivila</a></td><td><i>tuva</i></td>
 <td>
 '<span>poisonous root used for fishing</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>tuha</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>tuha</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>MM</td><td>Vitu</td><td><i>tuva</i></td>
+<td>MM</td><td><a href="../languages/vitu">Vitu</a></td><td><i>tuva</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>MM</td><td>Tigak</td><td><i>tua</i></td>
+<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td><i>tua</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>MM</td><td>Teop</td><td><i>suva</i></td>
+<td>MM</td><td><a href="../languages/teop">Teop</a></td><td><i>suva</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>tuva</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>tuva</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>uha, uhe</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>uha, uhe</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>NCV</td><td>Uripiv</td><td><i>na-tuv</i></td>
+<td>NCV</td><td><a href="../languages/uripiv">Uripiv</a></td><td><i>na-tuv</i></td>
 <td>
 '<span>fish poison vine</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>tuva</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>tuva</i></td>
 <td>
 </td>
 </tr>
@@ -1224,22 +1224,22 @@ He describes various types of weirs, for example, _pa kiokio_ (roughly Z-shaped)
 '<span>vine used for fish poison</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Lou</td><td><i>pun</i></td>
+<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td><i>pun</i></td>
 <td>
 '<span>vine used for fish poison</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tolai</td><td><i>vun</i></td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>vun</i></td>
 <td>
 '<span>root with which fish are poisoned; to kill or benumb fish with poison of this name</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Roviana</td><td><i>buna</i></td>
+<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td><i>buna</i></td>
 <td>
 '<span>littoral vine (macerated and thrown into rock pools, it stupefies fish)</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Lenakel</td><td><i>no-un</i></td>
+<td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td><i>no-un</i></td>
 <td>
 '<span>fish poison</span>'</td>
 </tr>
@@ -1259,12 +1259,12 @@ From North New Guinea and New Ireland we have been able to reconstruct a lower-l
 '<span>Derris root</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Gitua</td><td><i>(waro)mali(ŋ)</i></td>
+<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td><i>(waro)mali(ŋ)</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>MM</td><td>Nalik</td><td><i>mal-mal</i></td>
+<td>MM</td><td><a href="../languages/nalik">Nalik</a></td><td><i>mal-mal</i></td>
 <td>
 </td>
 </tr>
@@ -1272,15 +1272,15 @@ From North New Guinea and New Ireland we have been able to reconstruct a lower-l
 
 
 
-## FIXME:    PWOc _&ast;(m,mʷ)ali_ (incorrectly given as _&ast;maRi_ in vol. 1, ch.8, §7) is reconstructed on the basis of North New Guinea and Meso-Melanesian languages.
+## FIXME:    PWOc _&ast;(m,mʷ)ali_ (incorrectly given as _&ast;maRi_ in [vol. 1, ch.8, §7](../contributions/1-8#s-7)) is reconstructed on the basis of North New Guinea and Meso-Melanesian languages.
 
-The method of stunning fish by throwing pounded Derris root into pools is widespread, and the three terms seem to have identical reference, although Derris eliptica is not mentioned specifically in relation to _&ast;puna_. Describing the technique used by Sa'a speakers, a Southeast Solomons language, [Ivens](../references.md#source-Ivens1927) ([1927](../references.md#source-Ivens1927) (reissued 1972):389) writes that:
+The method of stunning fish by throwing pounded Derris root into pools is widespread, and the three terms seem to have identical reference, although Derris eliptica is not mentioned specifically in relation to _&ast;puna_. Describing the technique used by Sa'a speakers, a Southeast Solomons language, [Ivens](../sources/Ivens1927) ([1927](../sources/Ivens1927) (reissued 1972):389) writes that:
 
 > … fish in streams are poisoned by a preparation. The bark of the edible Barringtonia tree, the one with red flowers, is stripped off and heated in the fue to bring out its bitter qualities. It is then beaten into shreds with stones in water and thrown into the place chosen. Along with it they use the grated nuts of the barringtonia speciosa [sic.], a littoral tree. A third ingredient is made from pounded sections of a creeper called uhe, the juices of which are very bitter.
 
 The last ingredient is obviously a variant of _uha_, a reflex of POc _&ast;tupa_.
 
-The kernel of the fruit of Barringtonia asiatica (POc _&ast;putun_) is used for poisoning water in Samoa, while the Fijians use the outer portion of the same fruit ([Blackwood 1935](../references.md#source-Blackwood1935):354-355), but I have not been able to reconstruct a term for this.
+The kernel of the fruit of Barringtonia asiatica (POc _&ast;putun_) is used for poisoning water in Samoa, while the Fijians use the outer portion of the same fruit ([Blackwood 1935](../sources/Blackwood1935):354-355), but I have not been able to reconstruct a term for this.
 
 
 <a id="s-8"></a>
@@ -1295,7 +1295,7 @@ The kernel of the fruit of Barringtonia asiatica (POc _&ast;putun_) is used for 
 <i>&ast;damaR</i>
 </td>
 <td>
-'<span>resin, torch, light</span>' (<a href="../references.md#source-Dempwolff1938">Dempwolff1938</a>)
+'<span>resin, torch, light</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
 </td>
 </tr>
 <tr>
@@ -1307,32 +1307,32 @@ The kernel of the fruit of Barringtonia asiatica (POc _&ast;putun_) is used for 
 [N] '<span>torch</span>'; [V] '<span>fish at night with torch</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Lou</td><td><i>(ka)ram</i></td>
+<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td><i>(ka)ram</i></td>
 <td>
 '<span>torch</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Lou</td><td><i>ram-ram</i></td>
+<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td><i>ram-ram</i></td>
 <td>
 '<span>fish at night by torchlight</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>rama-rama</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>rama-rama</i></td>
 <td>
 '<span>lamp of coconut shell filled with oil</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>ama</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>ama</i></td>
 <td>
 [V] '<span>fish at night by torch-light; torch made of coconut spathes bound together</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>lama</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>lama</i></td>
 <td>
 '<span>torch (made of dry coconut leaflets +); fishing with torches</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>rama</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>rama</i></td>
 <td>
 '<span>torch; eeling with torches</span>'</td>
 </tr>
@@ -1340,7 +1340,7 @@ The kernel of the fruit of Barringtonia asiatica (POc _&ast;putun_) is used for 
 
 
 
-Night-fishing is still a popular and widespread activity throughout the region. To attract the fish, a torch is used which consists of dried coconut fronds or spathes bound together to burn slowly over a long period. In many languages the same term refers both to the torch and to the activity. In Tonga, _lama_ can simply be prefixed to the names of other fishing techniques to indicate that it is carried out at night (e.g. _lama fakasiosio_ 'go spear-fishing at night'). (The ambiguity of the initial consonant _&ast;(d)r-_ is touched on in Chapter 2, §3.1.3.)
+Night-fishing is still a popular and widespread activity throughout the region. To attract the fish, a torch is used which consists of dried coconut fronds or spathes bound together to burn slowly over a long period. In many languages the same term refers both to the torch and to the activity. In Tonga, _lama_ can simply be prefixed to the names of other fishing techniques to indicate that it is carried out at night (e.g. _lama fakasiosio_ 'go spear-fishing at night'). (The ambiguity of the initial consonant _&ast;(d)r-_ is touched on in [Chapter 2, §3.1.3](../contributions/1-2#s-3-1-3).)
 
 
 <a id="p-222"></a>
@@ -1351,7 +1351,7 @@ Night-fishing is still a popular and widespread activity throughout the region. 
 ## 9. Pointed weapons
 
 
-Most Oceanic languages contain a number of terms for spear, and it is probable that POc was no exception. There are various ways in which spears can be physically distinguished. There may be a distinction between fishing, fowling and fighting spears. Often, but not always, fishing spears have three or more prongs. Shorter spears can be used for thrusting, longer spears for hurling. Spears can be multi-barbed, have a single barb, or be barbless. They can be made with a head that separates from the shaft. Every language community will name its spears according to combinations of these and possibly other properties. Although we have been able to reconstruct perhaps six POc terms, it has been difficult to distinguish between them, other than to single out _&ast;tara_ and _&ast;kuj(u,i)r_ as probably fish spears. At the generic level-and that is itself a flexible category which can include arrows, and possibly other pointed weapons such as darts and spikes - _&ast;qio(r,R)_ seems to have the widest distribution, although it does not occur east of Vanuatu. For the Central Pacific, _&ast;sao(t)_ seems the most likely generic term. In POc times, some spears would have had obsidian heads, and the term used for these was evidently &ast;koto 'obsidian head of spear' (Ch. 4, §4.1.3).
+Most Oceanic languages contain a number of terms for spear, and it is probable that POc was no exception. There are various ways in which spears can be physically distinguished. There may be a distinction between fishing, fowling and fighting spears. Often, but not always, fishing spears have three or more prongs. Shorter spears can be used for thrusting, longer spears for hurling. Spears can be multi-barbed, have a single barb, or be barbless. They can be made with a head that separates from the shaft. Every language community will name its spears according to combinations of these and possibly other properties. Although we have been able to reconstruct perhaps six POc terms, it has been difficult to distinguish between them, other than to single out _&ast;tara_ and _&ast;kuj(u,i)r_ as probably fish spears. At the generic level-and that is itself a flexible category which can include arrows, and possibly other pointed weapons such as darts and spikes - _&ast;qio(r,R)_ seems to have the widest distribution, although it does not occur east of Vanuatu. For the Central Pacific, _&ast;sao(t)_ seems the most likely generic term. In POc times, some spears would have had obsidian heads, and the term used for these was evidently &ast;koto 'obsidian head of spear' ([Ch. 4, §4.1.3](../contributions/1-4#s-4-1-3)).
 
 <table id="1-8-9-None-222-POc-saot-a">
 <tr>
@@ -1360,7 +1360,7 @@ Most Oceanic languages contain a number of terms for spear, and it is probable t
 <i>&ast;saet</i>
 </td>
 <td>
-[N, v] '<span>spear</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+[N, v] '<span>spear</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -1372,37 +1372,37 @@ Most Oceanic languages contain a number of terms for spear, and it is probable t
 [N] '<span>spear</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Sye</td><td><i>sau</i></td>
+<td>SV</td><td><a href="../languages/sye">Sye</a></td><td><i>sau</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>sā</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>sā</i></td>
 <td>
 '<span>spear; harpoon</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Rotuman</td><td><i>jao</i></td>
+<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td><i>jao</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>tao</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>tao</i></td>
 <td>
 '<span>spear; javelin</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>tao</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>tao</i></td>
 <td>
 '<span>spear or dart for fishing, fighting, fowling</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Hawaiian</td><td><i>kao</i></td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>kao</i></td>
 <td>
 '<span>dart; fish spear; javelin; spike as on the tail of a stingray</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rarotongan</td><td><i>tao</i></td>
+<td>Pn</td><td><a href="../languages/rarotongan">Rarotongan</a></td><td><i>tao</i></td>
 <td>
 '<span>short throwing spear</span>'</td>
 </tr>
@@ -1420,72 +1420,72 @@ Most Oceanic languages contain a number of terms for spear, and it is probable t
 '<span>spear, arrow</span>' (<span>Ross 1994a:464</span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td>Lukep</td><td><i>yu</i></td>
+<td>NNG</td><td><a href="../languages/lukep">Lukep</a></td><td><i>yu</i></td>
 <td>
 '<span>arrow; spear traditionally used for pig hunting and fighting</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kaiwa</td><td><i>ī</i></td>
+<td>NNG</td><td><a href="../languages/kaiwa">Kaiwa</a></td><td><i>ī</i></td>
 <td>
 '<span>arrow</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Manam</td><td><i>io</i></td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>io</i></td>
 <td>
 '<span>long lance, whose wooden spear point has prongs on four sides</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Uvol</td><td><i>io</i></td>
+<td>NNG</td><td><a href="../languages/uvol">Uvol</a></td><td><i>io</i></td>
 <td>
 '<span>arrow</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Anuki</td><td><i>io</i></td>
+<td>PT</td><td><a href="../languages/anuki">Anuki</a></td><td><i>io</i></td>
 <td>
 '<span>spear</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Bwaidoga</td><td><i>ɣio</i></td>
+<td>PT</td><td><a href="../languages/bwaidoga">Bwaidoga</a></td><td><i>ɣio</i></td>
 <td>
 '<span>spear</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Kalokalo</td><td><i>gio</i></td>
+<td>PT</td><td><a href="../languages/kalokalo">Kalokalo</a></td><td><i>gio</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>PT</td><td>Tawala</td><td><i>iyola</i></td>
+<td>PT</td><td><a href="../languages/tawala">Tawala</a></td><td><i>iyola</i></td>
 <td>
 '<span>fish spear</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Balawaia</td><td><i>gio</i></td>
+<td>PT</td><td><a href="../languages/balawaia">Balawaia</a></td><td><i>gio</i></td>
 <td>
 '<span>spear</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>io</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>io</i></td>
 <td>
 '<span>spear</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Konomala</td><td><i>iu</i></td>
+<td>MM</td><td><a href="../languages/konomala">Konomala</a></td><td><i>iu</i></td>
 <td>
 '<span>shoot; arrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tangga</td><td><i>iu</i></td>
+<td>MM</td><td><a href="../languages/tangga">Tangga</a></td><td><i>iu</i></td>
 <td>
 '<span>fish spear</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>īo</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>īo</i></td>
 <td>
 '<span>a war arrow; a poisoned spear</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Nguna</td><td><i>na-io</i></td>
+<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td><i>na-io</i></td>
 <td>
 '<span>spear</span>'</td>
 </tr>
@@ -1496,7 +1496,7 @@ Most Oceanic languages contain a number of terms for spear, and it is probable t
 
 <a id="p-223"></a>
 
-Figure 32: POc _&ast;qio(r,R)_, POc _&ast;sao(t)_, POc _&ast;bako_ all 'spear' or 'k.o. spear' (the above are Admiralties spears from [Nevermann 1934](../references.md#source-Nevermann1934):345)
+Figure 32: POc _&ast;qio(r,R)_, POc _&ast;sao(t)_, POc _&ast;bako_ all 'spear' or 'k.o. spear' (the above are Admiralties spears from [Nevermann 1934](../sources/Nevermann1934):345)
 
 As a subset of the above, certain NNG languages have inserted a medial consonant derived from epenthetic glides: Kove _iðo_ 'spear'; Bariai _ido_ 'arrow'; Gitua _izo_ 'spear'; Wogeo _iwo_ 'spear'. This appears to be a local feature, but not attributable to a common protolanguage.
 
@@ -1507,7 +1507,7 @@ As a subset of the above, certain NNG languages have inserted a medial consonant
 <i>&ast;baŋkaw</i>
 </td>
 <td>
-'<span>barbless spear</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>barbless spear</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -1519,17 +1519,17 @@ As a subset of the above, certain NNG languages have inserted a medial consonant
 '<span>spear</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Hoava</td><td><i>ba-bao</i></td>
+<td>MM</td><td><a href="../languages/hoava">Hoava</a></td><td><i>ba-bao</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>SES</td><td>Malango</td><td><i>bao</i></td>
+<td>SES</td><td><a href="../languages/malango">Malango</a></td><td><i>bao</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>SES</td><td>West Guadalcanal</td><td><i>bao</i></td>
+<td>SES</td><td><a href="../languages/westguadalcanal">West Guadalcanal</a></td><td><i>bao</i></td>
 <td>
 </td>
 </tr>
@@ -1549,57 +1549,57 @@ As a subset of the above, certain NNG languages have inserted a medial consonant
 '<span>fish spear</span>' (<span>based on Ross 1994a</span>)</td>
 </tr>
 <tr>
-<td>PT</td><td>Kalokalo</td><td><i>kudila</i></td>
+<td>PT</td><td><a href="../languages/kalokalo">Kalokalo</a></td><td><i>kudila</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>PT</td><td>Iduna</td><td><i>hudila</i></td>
+<td>PT</td><td><a href="../languages/iduna">Iduna</a></td><td><i>hudila</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>udi</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>udi</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>MM</td><td>Nakanai</td><td><i>kusi</i></td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>kusi</i></td>
 <td>
 '<span>multi-pronged fish spear</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Notsi</td><td><i>kucil(a)</i></td>
+<td>MM</td><td><a href="../languages/notsi">Notsi</a></td><td><i>kucil(a)</i></td>
 <td>
 '<span>arrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Siar</td><td><i>kusur</i></td>
+<td>MM</td><td><a href="../languages/siar">Siar</a></td><td><i>kusur</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>MM</td><td>Meramera</td><td><i>kusul(u)</i></td>
+<td>MM</td><td><a href="../languages/meramera">Meramera</a></td><td><i>kusul(u)</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>MM</td><td>Kandas</td><td><i>(kabo)kusur</i></td>
+<td>MM</td><td><a href="../languages/kandas">Kandas</a></td><td><i>(kabo)kusur</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>MM</td><td>Laghu</td><td><i>kuroho</i></td>
+<td>MM</td><td><a href="../languages/laghu">Laghu</a></td><td><i>kuroho</i></td>
 <td>
 '<span>spear</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Kwamera</td><td><i>kahar-kahar</i></td>
+<td>SV</td><td><a href="../languages/kwamera">Kwamera</a></td><td><i>kahar-kahar</i></td>
 <td>
 '<span>type of arrowhead made of three prongs, used for spearing fish</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tuvalu</td><td><i>koho</i></td>
+<td>Pn</td><td><a href="../languages/tuvalu">Tuvalu</a></td><td><i>koho</i></td>
 <td>
 '<span>thrusting spear</span>' (<span>Nanumaga dialect; <em>u</em> &gt; <em>o</em> unexpected</span>)</td>
 </tr>
@@ -1624,42 +1624,42 @@ Figure 33: POc _&ast;kuj(u,i)r_, POc _&ast;tara_ 'fish spear'
 '<span>fish spear</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Mussau</td><td><i>tala(ŋai)</i></td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>tala(ŋai)</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>PT</td><td>Molima</td><td><i>tala(beya)</i></td>
+<td>PT</td><td><a href="../languages/molima">Molima</a></td><td><i>tala(beya)</i></td>
 <td>
 '<span>spear with double or triple point</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Molima</td><td><i>tala(dabadaba)</i></td>
+<td>PT</td><td><a href="../languages/molima">Molima</a></td><td><i>tala(dabadaba)</i></td>
 <td>
 '<span>k.o. spear</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tolai</td><td><i>ta-tara</i></td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>ta-tara</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>tala</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>tala</i></td>
 <td>
 '<span>sharp-pointed object; barb; prong</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rapanui</td><td><i>tara</i></td>
+<td>Pn</td><td><a href="../languages/rapanui">Rapanui</a></td><td><i>tara</i></td>
 <td>
 '<span>hom; thorn; spur</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Mangareva</td><td><i>tara</i></td>
+<td>Pn</td><td><a href="../languages/mangareva">Mangareva</a></td><td><i>tara</i></td>
 <td>
 '<span>spine; hom; thorn</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Anutan</td><td><i>tara</i></td>
+<td>Pn</td><td><a href="../languages/anutan">Anutan</a></td><td><i>tara</i></td>
 <td>
 '<span>fishhook barb</span>'</td>
 </tr>
@@ -1679,47 +1679,47 @@ It seems from Western Oceanic and Mussau glosses that the original POc meaning o
 [N, V] '<span>spear (weapon retained in the hand)</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Manam</td><td><i>sua(pu)</i></td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>sua(pu)</i></td>
 <td>
 [N] '<span>fish spear</span>'; [V] '<span>spear</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Poeng</td><td><i>sue</i></td>
+<td>NNG</td><td><a href="../languages/poeng">Poeng</a></td><td><i>sue</i></td>
 <td>
 '<span>bone, needle</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>sua</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>sua</i></td>
 <td>
 '<span>spear without barbs</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Longgu</td><td><i>sua</i></td>
+<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td><i>sua</i></td>
 <td>
 [N] '<span>spear</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Longgu</td><td><i>sua-</i></td>
+<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td><i>sua-</i></td>
 <td>
 [VT] '<span>pull out (spear, stick +)</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>sua</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>sua</i></td>
 <td>
 '<span>spear</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Kwaio</td><td><i>sua</i></td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>sua</i></td>
 <td>
 '<span>spear</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>sua(k)</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>sua(k)</i></td>
 <td>
 '<span>stab; pierce with a spear (retaining hold of the weapon); husk a coconut</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>sua</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>sua</i></td>
 <td>
 '<span>thrust</span>'</td>
 </tr>
@@ -1727,7 +1727,7 @@ It seems from Western Oceanic and Mussau glosses that the original POc meaning o
 
 
 
-Other terms used to describe the action of spearing are derived from POc _&ast;soka_, _soka -i-_ (V) 'pierce; stab, poke hole in (s.t.)' (Ch. 9, §4.1). The following is a lower-level reconstruction for spear:
+Other terms used to describe the action of spearing are derived from POc _&ast;soka_, _soka -i-_ (V) 'pierce; stab, poke hole in (s.t.)' ([Ch. 9, §4.1](../contributions/1-9#s-4-1)). The following is a lower-level reconstruction for spear:
 
 
 <a id="p-225"></a>
@@ -1742,12 +1742,12 @@ Other terms used to describe the action of spearing are derived from POc _&ast;s
 '<span>k.o. spear</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Tamambo</td><td><i>sari</i></td>
+<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td><i>sari</i></td>
 <td>
 '<span>spear</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>sai-sai</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>sai-sai</i></td>
 <td>
 '<span>arrow or spear with three or more prongs, used for fish, bats +</span>'</td>
 </tr>
@@ -1764,7 +1764,7 @@ The bow, although evidently not as widespread as the spear, is used both for fig
 <i>&ast;busuR</i>
 </td>
 <td>
-'<span>hunting bow</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>; <a href="../references.md#source-Dempwolff1938">Dempwolff1938</a>)
+'<span>hunting bow</span>' (<a href="../sources/Blust1995">Blust1995</a>; <a href="../sources/Dempwolff1938">Dempwolff1938</a>)
 </td>
 </tr>
 <tr>
@@ -1776,27 +1776,27 @@ The bow, although evidently not as widespread as the spear, is used both for fig
 '<span>bow and arrow</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kis</td><td><i>us</i></td>
+<td>NNG</td><td><a href="../languages/kis">Kis</a></td><td><i>us</i></td>
 <td>
 '<span>arrow</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Kuni</td><td><i>budu</i></td>
+<td>PT</td><td><a href="../languages/kuni">Kuni</a></td><td><i>budu</i></td>
 <td>
 '<span>arrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Petats</td><td><i>husul</i></td>
+<td>MM</td><td><a href="../languages/petats">Petats</a></td><td><i>husul</i></td>
 <td>
 '<span>bow</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>S.E. Ambrym</td><td><i>his</i></td>
+<td>NCV</td><td><a href="../languages/seambrym">S.E. Ambrym</a></td><td><i>his</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>vuðu</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>vuðu</i></td>
 <td>
 '<span>bow</span>'</td>
 </tr>
@@ -1811,7 +1811,7 @@ The bow, although evidently not as widespread as the spear, is used both for fig
 <i>&ast;panaq</i>
 </td>
 <td>
-'<span>shoot</span>' (<a href="../references.md#source-Dempwolff1938">Dempwolff1938</a>)
+'<span>shoot</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
 </td>
 </tr>
 <tr>
@@ -1831,62 +1831,62 @@ The bow, although evidently not as widespread as the spear, is used both for fig
 '<span>shoot</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Tuam</td><td><i>paneg</i></td>
+<td>NNG</td><td><a href="../languages/tuam">Tuam</a></td><td><i>paneg</i></td>
 <td>
 '<span>bow</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Mapos Buang</td><td><i>vaneh</i></td>
+<td>NNG</td><td><a href="../languages/maposbuang">Mapos Buang</a></td><td><i>vaneh</i></td>
 <td>
 '<span>shoot</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Medebur</td><td><i>pan</i></td>
+<td>NNG</td><td><a href="../languages/medebur">Medebur</a></td><td><i>pan</i></td>
 <td>
 '<span>bow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tolai</td><td><i>panak</i></td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>panak</i></td>
 <td>
 '<span>bow for shooting</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>vanahi-</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>vanahi-</i></td>
 <td>
 '<span>shoot at</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Kwaio</td><td><i>fana</i></td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>fana</i></td>
 <td>
 '<span>hunt</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>vene</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>vene</i></td>
 <td>
 '<span>shoot with a pointed arrow</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Tamambo</td><td><i>(i)vine</i></td>
+<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td><i>(i)vine</i></td>
 <td>
 '<span>arrow</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Fortsenal</td><td><i>vinai-</i></td>
+<td>NCV</td><td><a href="../languages/fortsenal">Fortsenal</a></td><td><i>vinai-</i></td>
 <td>
 '<span>shoot (with arrow)</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kiribatese</td><td><i>pana</i></td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>pana</i></td>
 <td>
 '<span>shoot at fish with band of rubber and long arrow</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>vana</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>vana</i></td>
 <td>
 '<span>shoot with arrow or gun</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>(kau)fana</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>(kau)fana</i></td>
 <td>
 '<span>bow</span>'</td>
 </tr>
@@ -1894,7 +1894,7 @@ The bow, although evidently not as widespread as the spear, is used both for fig
 
 
 
-With regard to the reconstruction of _&ast;(p,pʷ)_, see Chapter 2, §2.1.
+With regard to the reconstruction of _&ast;(p,pʷ)_, see [Chapter 2, §2.1](../contributions/1-2#s-2-1).
 
 <table id="1-8-9-None-225-POc-tiba-a">
 <tr>
@@ -1914,102 +1914,102 @@ With regard to the reconstruction of _&ast;(p,pʷ)_, see Chapter 2, §2.1.
 '<span>shoot with dart, arrow</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Dobu</td><td><i>tupu</i></td>
+<td>PT</td><td><a href="../languages/dobu">Dobu</a></td><td><i>tupu</i></td>
 <td>
 '<span>bow, arrow</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Tawala</td><td><i>diba</i></td>
+<td>PT</td><td><a href="../languages/tawala">Tawala</a></td><td><i>diba</i></td>
 <td>
 '<span>small pretend spear</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Taboro</td><td><i>diba</i></td>
+<td>PT</td><td><a href="../languages/taboro">Taboro</a></td><td><i>diba</i></td>
 <td>
 '<span>spear, fish spear</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>diba</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>diba</i></td>
 <td>
 '<span>arrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Notsi</td><td><i>tipi</i></td>
+<td>MM</td><td><a href="../languages/notsi">Notsi</a></td><td><i>tipi</i></td>
 <td>
 '<span>shoot</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Roviana</td><td><i>tupi</i></td>
+<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td><i>tupi</i></td>
 <td>
 '<span>arrow or dart</span>' (<span>vowel metathesis</span>)</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>tigʷa</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>tigʷa</i></td>
 <td>
 '<span>blunt arrow for birds; shoot (not in fighting)</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>tigʷaŋ</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>tigʷaŋ</i></td>
 <td>
 '<span>shoot and hit</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Tamambo</td><td><i>tibua</i></td>
+<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td><i>tibua</i></td>
 <td>
 '<span>shoot an arrow</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Raga</td><td><i>tibʷa</i></td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>tibʷa</i></td>
 <td>
 '<span>shoot</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Atchin</td><td><i>cip</i></td>
+<td>NCV</td><td><a href="../languages/atchin">Atchin</a></td><td><i>cip</i></td>
 <td>
 '<span>blunt arrow</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Paamese</td><td><i>a-tuvo</i></td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>a-tuvo</i></td>
 <td>
 '<span>arrow</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Paamese</td><td><i>tuvo</i></td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>tuvo</i></td>
 <td>
 '<span>shoot</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Nguna</td><td><i>na-tipʷa</i></td>
+<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td><i>na-tipʷa</i></td>
 <td>
 '<span>arrow, (fish) spine, (pine) needle</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Nguna</td><td><i>tipe-</i></td>
+<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td><i>tipe-</i></td>
 <td>
 '<span>shoot with bow</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>tiga</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>tiga</i></td>
 <td>
 '<span>reed dart, used in game of veitiqa</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>tigʷe</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>tigʷe</i></td>
 <td>
 '<span>throw reed or dart horizontally controlled by end of forefinger, with aim of making dart skip up when it hits ground</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>tika</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>tika</i></td>
 <td>
 '<span>k.o. arrow thrown in game</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>teka</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>teka</i></td>
 <td>
 '<span>dart used in a traditional game</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Hawaiian</td><td><i>keʔa</i></td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>keʔa</i></td>
 <td>
 '<span>dart, bow; shoot with bow and arrow</span>'</td>
 </tr>
@@ -2029,7 +2029,7 @@ The glosses of the reflexes of POc _&ast;tibʷa(ŋ)_ suggest strongly that it re
 <i>&ast;deles</i>
 </td>
 <td>
-'<span>bowstring</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>bowstring</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -2041,32 +2041,32 @@ The glosses of the reflexes of POc _&ast;tibʷa(ŋ)_ suggest strongly that it re
 '<span>bowstring</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>'Are'are</td><td><i>i-roro</i></td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>i-roro</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>i-lolo</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>i-lolo</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>lolo</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>lolo</i></td>
 <td>
 '<span>bend, flex; bent, flexed</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>(ka)lolo</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>(ka)lolo</i></td>
 <td>
 '<span>bent to one side by excessive burden on shoulder</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>(ka)roro</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>(ka)roro</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Tahitian</td><td><i>(a)roro</i></td>
+<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td><i>(a)roro</i></td>
 <td>
 '<span>stay to mast of canoe</span>'</td>
 </tr>
@@ -2082,7 +2082,7 @@ The Fijian and the Tahitian cognates have strayed semantically, yet still retain
 ## 10. Club
 
 
-Across the Pacific, the kind of weapon that is labelled 'club' varies from the great knobbed, obsidian-studded roots that can be seen in the Bishop Museum in Honolulu, to the flat round stone clubs of the Motu (_gahi_), to the smaller, lighter throwing clubs of Fiji (_i ula_: [Clunie 1977](../references.md#source-Clunie1977)), and to the Kiribatese _kati-popuki_ - about four feet long, pointed at both ends, used for warding off a spear, making a thrust, or wielding as a club (Hudson 1841, quoted in [Koch 1986](../references.md#source-Koch1986):249), which might equally be classified as a shield or lance. I consider these to be more or less marginal examples of what is basically a blunt, heavy instrument, wielded in the hand for bludgeoning.
+Across the Pacific, the kind of weapon that is labelled 'club' varies from the great knobbed, obsidian-studded roots that can be seen in the Bishop Museum in Honolulu, to the flat round stone clubs of the Motu (_gahi_), to the smaller, lighter throwing clubs of Fiji (_i ula_: [Clunie 1977](../sources/Clunie1977)), and to the Kiribatese _kati-popuki_ - about four feet long, pointed at both ends, used for warding off a spear, making a thrust, or wielding as a club (Hudson 1841, quoted in [Koch 1986](../sources/Koch1986):249), which might equally be classified as a shield or lance. I consider these to be more or less marginal examples of what is basically a blunt, heavy instrument, wielded in the hand for bludgeoning.
 
 In the Southeast Solomons, Fiji and Polynesia at least (I have little information from Western Oceania), clubs have an importance beyond that of simply weapons. They often carry ceremonial weight. Many are heirlooms with names and magical powers. Special reverence is accorded the war club. To the extent that it is possible to distinguish war clubs from hunting clubs, I do not intend to delve further into the culture and terminology of the former. It is my guess that hunting clubs would have carried less cultural significance, and as a result, been labelled more broadly. Two terms have been reconstructed.[^5] In each case I have included all known cognates. It will be apparent that neither reconstruction is particularly soundly based. Nor do their cognates provide much information as to the shape, material or specific function of each club:
 
@@ -2099,27 +2099,27 @@ In the Southeast Solomons, Fiji and Polynesia at least (I have little informatio
 [N, v] '<span>club</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Molima</td><td><i>pulu(mai)</i></td>
+<td>PT</td><td><a href="../languages/molima">Molima</a></td><td><i>pulu(mai)</i></td>
 <td>
 '<span>war club, wooden and flat-sided, used to kill by hitting throat or back of neck</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Teop</td><td><i>varu</i></td>
+<td>MM</td><td><a href="../languages/teop">Teop</a></td><td><i>varu</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>NCV</td><td>Paamese</td><td><i>vau(lev)</i></td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>vau(lev)</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>SV</td><td>Lenakel</td><td><i>nɛ-pɛrāu</i></td>
+<td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td><i>nɛ-pɛrāu</i></td>
 <td>
 '<span>club wielded by the leader of various dances in a nɛkoviār (dance cycle)</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>ravu(ta)</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>ravu(ta)</i></td>
 <td>
 '<span>club s.o. or s.t.</span>' (<span>metathesis</span>)</td>
 </tr>
@@ -2139,17 +2139,17 @@ and an even more questionable reconstruction, in view of irregular final vowels:
 '<span>(stone?) club</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>gahi</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>gahi</i></td>
 <td>
 '<span>flat stone club</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Fagani</td><td><i>ɣafe</i></td>
+<td>SES</td><td><a href="../languages/fagani">Fagani</a></td><td><i>ɣafe</i></td>
 <td>
 '<span>club</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>afui</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>afui</i></td>
 <td>
 '<span>k.o. club</span>'</td>
 </tr>
@@ -2173,42 +2173,42 @@ and an even more questionable reconstruction, in view of irregular final vowels:
 '<span>stone; slingshot</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Vitu</td><td><i>(ta)maga</i></td>
+<td>MM</td><td><a href="../languages/vitu">Vitu</a></td><td><i>(ta)maga</i></td>
 <td>
 '<span>slingshot</span>' (<span>maga-maga 'sand'</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td>Bulu</td><td><i>(ta)maga</i></td>
+<td>MM</td><td><a href="../languages/bulu">Bulu</a></td><td><i>(ta)maga</i></td>
 <td>
 '<span>slingshot</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nakanai</td><td><i>(tu)maga</i></td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>(tu)maga</i></td>
 <td>
 '<span>sling made of bark-cloth, used for hunting birds and bats</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Talise</td><td><i>maka(ra)</i></td>
+<td>SES</td><td><a href="../languages/talise">Talise</a></td><td><i>maka(ra)</i></td>
 <td>
 '<span>stone</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>maka(tā)</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>maka(tā)</i></td>
 <td>
 '<span>sling</span>' (<span><em>maka</em> 'stone, rock', <em>tā</em> 'hit'</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>maka</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>maka</i></td>
 <td>
 '<span>stone for sling; sling for hurling stones</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rarotongan</td><td><i>maka</i></td>
+<td>Pn</td><td><a href="../languages/rarotongan">Rarotongan</a></td><td><i>maka</i></td>
 <td>
 [v] '<span>throw; hurl; sling</span>'; [N] '<span>sling, stone</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tahitian</td><td><i>maʔa</i></td>
+<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td><i>maʔa</i></td>
 <td>
 [N, V] '<span>sling</span>'</td>
 </tr>
@@ -2226,12 +2226,12 @@ and an even more questionable reconstruction, in view of irregular final vowels:
 '<span>sling; to tum round and round</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Bilur</td><td><i>aio</i></td>
+<td>MM</td><td><a href="../languages/bilur">Bilur</a></td><td><i>aio</i></td>
 <td>
 '<span>slingshot</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>ʔaro(rabu)</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>ʔaro(rabu)</i></td>
 <td>
 [N] '<span>sling</span>' (<span><em>ʔaro</em> 'turn round and round', <em>rabu</em> (V) 'strike or knock s.t. '</span>)</td>
 </tr>
@@ -2242,7 +2242,7 @@ and an even more questionable reconstruction, in view of irregular final vowels:
 
 <a id="p-228"></a>
 
-Slingshots would have been used for hunting birds, flying foxes and perhaps the cuscus.[^6] Although it is assumed that ordinary well-shaped stones were used, [Green](../references.md#source-Green1979) ([1979](../references.md#source-Green1979): 39) has documented a pointed-end Tridacna shell slingstone from Main Reef Islands circa 1000 BC.
+Slingshots would have been used for hunting birds, flying foxes and perhaps the cuscus.[^6] Although it is assumed that ordinary well-shaped stones were used, [Green](../sources/Green1979) ([1979](../sources/Green1979): 39) has documented a pointed-end Tridacna shell slingstone from Main Reef Islands circa 1000 BC.
 
 
 <a id="s-12"></a>
@@ -2257,7 +2257,7 @@ Slingshots would have been used for hunting birds, flying foxes and perhaps the 
 <i>&ast;suja</i>
 </td>
 <td>
-'<span>bamboo trail or pitfall spike</span>' (<a href="../references.md#source-Blust1976b">Blust1976b</a>)
+'<span>bamboo trail or pitfall spike</span>' (<a href="../sources/Blust1976b">Blust1976b</a>)
 </td>
 </tr>
 <tr>
@@ -2269,12 +2269,12 @@ Slingshots would have been used for hunting birds, flying foxes and perhaps the 
 '<span>sharpened stake set in ground to stop or wound animals or enemies</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Sursurunga</td><td><i>sus</i></td>
+<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td><i>sus</i></td>
 <td>
 '<span>sharp-pointed stick, used in traps or for breaking coconuts open; make holes in</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>suda</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>suda</i></td>
 <td>
 '<span>stake set slanting and sharpened in a pit for the enemy</span>'</td>
 </tr>
@@ -2302,92 +2302,92 @@ Birds are caught for food throughout the region, often by netting or by ground s
 [N] '<span>snare</span>'; [V] '<span>tie by encircling, ensnare</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Lukep</td><td><i>wit</i></td>
+<td>NNG</td><td><a href="../languages/lukep">Lukep</a></td><td><i>wit</i></td>
 <td>
 '<span>tie by encircling</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Lukep</td><td><i>wit(kala)</i></td>
+<td>NNG</td><td><a href="../languages/lukep">Lukep</a></td><td><i>wit(kala)</i></td>
 <td>
 '<span>tie together</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Lukep</td><td><i>pit</i></td>
+<td>NNG</td><td><a href="../languages/lukep">Lukep</a></td><td><i>pit</i></td>
 <td>
 '<span>snare, trap; to trap</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Mangap</td><td><i>mbit</i></td>
+<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td><i>mbit</i></td>
 <td>
 '<span>tie up with rope, fasten</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Mangap</td><td><i>(na)pit-pit</i></td>
+<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td><i>(na)pit-pit</i></td>
 <td>
 '<span>snare, trap for rats, pigs, bandicoot</span>' (<span><em>na-</em> indicates a borrowing from Kilenge</span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td>Poeng</td><td><i>(sam)pite</i></td>
+<td>NNG</td><td><a href="../languages/poeng">Poeng</a></td><td><i>(sam)pite</i></td>
 <td>
 '<span>tie securely, tighten</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Poeng</td><td><i>(bago)pita</i></td>
+<td>NNG</td><td><a href="../languages/poeng">Poeng</a></td><td><i>(bago)pita</i></td>
 <td>
 '<span>fasten (to help it to float)</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Takia</td><td><i>pite(lak)</i></td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>pite(lak)</i></td>
 <td>
 '<span>tie on (as grass-skirt)</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Sursurunga</td><td><i>puti</i></td>
+<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td><i>puti</i></td>
 <td>
 '<span>tie together</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Ramoaaina</td><td><i>pita</i></td>
+<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>pita</i></td>
 <td>
 '<span>hang up in the house; tie to the end of anything</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Ramoaaina</td><td><i>pit</i></td>
+<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>pit</i></td>
 <td>
 '<span>tie</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Ramoaaina</td><td><i>pit-pit</i></td>
+<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>pit-pit</i></td>
 <td>
 '<span>line, snare</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Ramoaaina</td><td><i>piti</i></td>
+<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>piti</i></td>
 <td>
 [v] '<span>snare</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>piti-</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>piti-</i></td>
 <td>
 '<span>tie</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>West Guadalcanal</td><td><i>piti</i></td>
+<td>SES</td><td><a href="../languages/westguadalcanal">West Guadalcanal</a></td><td><i>piti</i></td>
 <td>
 '<span>tie</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Longgu</td><td><i>piti-</i></td>
+<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td><i>piti-</i></td>
 <td>
 '<span>trap an animal's leg; tie s.t. around ankle or wrist</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tokelauan</td><td><i>fi-fita</i></td>
+<td>Pn</td><td><a href="../languages/tokelauan">Tokelauan</a></td><td><i>fi-fita</i></td>
 <td>
 '<span>(garments) be too tight</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>ɸita</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>ɸita</i></td>
 <td>
 '<span>firm, secure, fast</span>'</td>
 </tr>
@@ -2395,7 +2395,7 @@ Birds are caught for food throughout the region, often by netting or by ground s
 
 
 
-With regard to the reconstruction of _&ast;(p,pʷ)_, see Chapter 2, §2.1.
+With regard to the reconstruction of _&ast;(p,pʷ)_, see [Chapter 2, §2.1](../contributions/1-2#s-2-1).
 
 
 <a id="p-229"></a>
@@ -2410,17 +2410,17 @@ With regard to the reconstruction of _&ast;(p,pʷ)_, see Chapter 2, §2.1.
 '<span>noose, snare</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>tar</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>tar</i></td>
 <td>
 [V] '<span>lay (net +)</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>dai</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>dai</i></td>
 <td>
 '<span>snare or trap for catching animals</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>tai</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>tai</i></td>
 <td>
 '<span>snare or trap for catching animals</span>'</td>
 </tr>
@@ -2438,7 +2438,7 @@ Another widespread method of catching birds involves the use of birdlime. Hooley
 
 > The sap of this tree (dagXem) is used as birdlime for catching birds. The sap is collected in a length of bamboo and is then heated over a fire. When it is boiling a stick is dipped in and twisted and the sap adhering to it is chewed to make it soft and then wrapped in cordyline leaves. The sap is then spread on a suitable tree branch so that when birds come to eat the fruit of that tree they are caught. (from word list held on computer file at ANU)
 
-[Blust](../references.md#source-Blust1983) ([1983](../references.md#source-Blust1983)-84a) has reconstructed Proto WMP _&ast;pikat_ or _&ast;piket_ 'birdlime' and _&ast;mamikat_ or _&ast;makiket_ 'snare birds with birdlime', but I have not been able to locate any Oceanic reflexes. The reconstruction given below evidently refers generally to gum or resin, although in one instance, in Arosi, it is the first element in a compound, _buruhasi_, meaning 'bird trap'. The second element, _hasi_, means 'adhere'.
+[Blust](../sources/Blust1983) ([1983](../sources/Blust1983)-84a) has reconstructed Proto WMP _&ast;pikat_ or _&ast;piket_ 'birdlime' and _&ast;mamikat_ or _&ast;makiket_ 'snare birds with birdlime', but I have not been able to locate any Oceanic reflexes. The reconstruction given below evidently refers generally to gum or resin, although in one instance, in Arosi, it is the first element in a compound, _buruhasi_, meaning 'bird trap'. The second element, _hasi_, means 'adhere'.
 
 <table id="1-8-14-None-229-POc-bulit-a">
 <tr>
@@ -2447,7 +2447,7 @@ Another widespread method of catching birds involves the use of birdlime. Hooley
 <i>&ast;bulit, pulit</i>
 </td>
 <td>
-'<span>caulk, fill up a hole or crack with viscous material</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>caulk, fill up a hole or crack with viscous material</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -2459,37 +2459,37 @@ Another widespread method of catching birds involves the use of birdlime. Hooley
 '<span>gum; resin</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tolai</td><td><i>bulit</i></td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>bulit</i></td>
 <td>
 '<span>gum of any tree, especially that used for putty or gum</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nakanai</td><td><i>bulubulu(aga)</i></td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>bulubulu(aga)</i></td>
 <td>
 '<span>plant with sticky fruit used for catching birds</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>buru(hasi)</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>buru(hasi)</i></td>
 <td>
 '<span>bird trap; gum of banyan or other tree put at intervals along a pole</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Lenakel</td><td><i>(noua-neha)pʷit</i></td>
+<td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td><i>(noua-neha)pʷit</i></td>
 <td>
 '<span>sap, glue</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>bulu-bulut(i)</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>bulu-bulut(i)</i></td>
 <td>
 '<span>(soil) sticky, doggy</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Rotuman</td><td><i>pulu</i></td>
+<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td><i>pulu</i></td>
 <td>
 '<span>gum; sap</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>East Uvean</td><td><i>pulu</i></td>
+<td>Pn</td><td><a href="../languages/eastuvean">East Uvean</a></td><td><i>pulu</i></td>
 <td>
 '<span>resin</span>'</td>
 </tr>
@@ -2508,7 +2508,7 @@ Evidence comes both directly from the existence of artefacts themselves in archa
 
 <a id="p-230"></a>
 
-[Spriggs](../references.md#source-Spriggs1997a) ([1997a](../references.md#source-Spriggs1997a): 114) summarises non-vegetable food traces from an Eloaue site on Mussau, east of the Admiralties, believed to have been occupied between about 3,500 and 2,500 years ago. (Eloaue is a low, flat, coral island south-east of the high island of Mussau.)
+[Spriggs](../sources/Spriggs1997a) ([1997a](../sources/Spriggs1997a): 114) summarises non-vegetable food traces from an Eloaue site on Mussau, east of the Admiralties, believed to have been occupied between about 3,500 and 2,500 years ago. (Eloaue is a low, flat, coral island south-east of the high island of Mussau.)
 
 > Large quantities of shell rllidden occurred in the site …The three Oceanic domesticates, pig, dog and chicken, were present but only in smal l numbers. 95 per cent of the bone was of fish, mainly inshore species, and turtle. Present too in small quantities were porpoise, reptiles, birds, rats and also the phalanger Spilocuscus maculatus (p. 117).
 
@@ -2525,11 +2525,11 @@ Artefacts are considered alongside the linguistic evidence. With regard to angli
 | _&ast;bayan_         | 'trolling lure'          |
 | _&ast;bani_, _&ast;baŋi_ | 'bait; fodder'           |
 
-Of these items, fishhooks have proved the most useful in developing local culture sequences. One-piece fishhooks made from several kinds of shell are now well documented from a number of Lapita sites, ranging from Talepakemalai (Mussau) to Lolokoka (Niuatoputapu, Tonga), one site at the latter dating back to about 2800 BP. "Most of the Mussau hooks are fairly large (about 5 cm in shank length) and were probably designed for hand-lining from canoes, in order to catch larger benthic species such as groupers. A few hooks are smaller, however, and could have been used for taking smaller species on reefs and along coastlines." ([Kirch 1997](../references.md#source-Kirch1997): 200). Most hooks so far found are of Turbo, Trochus and pearlshell. Linguistic evidence supports clamshell and tortoiseshell. Presumably all of these were used, as well as the less durable coconut shell, bone and Pemphis acidula wood, which are in use today. Also from Mussau sites come examples of carefully crafted lures made from Trochus shell. These trolling lures "are streamlined for hydrodynamic lift in the water, and have finely carved grooves for attaching both the line and hackles (probably feathers or pig bristles) near the recurved point". (pp.200-201)
+Of these items, fishhooks have proved the most useful in developing local culture sequences. One-piece fishhooks made from several kinds of shell are now well documented from a number of Lapita sites, ranging from Talepakemalai (Mussau) to Lolokoka (Niuatoputapu, Tonga), one site at the latter dating back to about 2800 BP. "Most of the Mussau hooks are fairly large (about 5 cm in shank length) and were probably designed for hand-lining from canoes, in order to catch larger benthic species such as groupers. A few hooks are smaller, however, and could have been used for taking smaller species on reefs and along coastlines." ([Kirch 1997](../sources/Kirch1997): 200). Most hooks so far found are of Turbo, Trochus and pearlshell. Linguistic evidence supports clamshell and tortoiseshell. Presumably all of these were used, as well as the less durable coconut shell, bone and Pemphis acidula wood, which are in use today. Also from Mussau sites come examples of carefully crafted lures made from Trochus shell. These trolling lures "are streamlined for hydrodynamic lift in the water, and have finely carved grooves for attaching both the line and hackles (probably feathers or pig bristles) near the recurved point". (pp.200-201)
 
-More elaborate two-piece fishhooks with separate shank and point were apparently a later development, appearing in Eastern Polynesia and possibly originating in the Marquesas Islands ([Bellwood 1987](../references.md#source-Bellwood1987):58).
+More elaborate two-piece fishhooks with separate shank and point were apparently a later development, appearing in Eastern Polynesia and possibly originating in the Marquesas Islands ([Bellwood 1987](../sources/Bellwood1987):58).
 
-A pertinent observation on the connection between present-day fishing techniques and those of the early Lapita settlers is made by [Kirch and Yen](../references.md#source-KirchYen1982) ([1982](../references.md#source-KirchYen1982)) in their study of the prehistory of Tikopia (initial settlement dates to around 2875-2750 BP). They have assembled a collection of one-piece fishhooks and three distinctive early trolling hooks made from trochus shell, which are associated with Lapita sites. They note (p.243) that:
+A pertinent observation on the connection between present-day fishing techniques and those of the early Lapita settlers is made by [Kirch and Yen](../sources/KirchYen1982) ([1982](../sources/KirchYen1982)) in their study of the prehistory of Tikopia (initial settlement dates to around 2875-2750 BP). They have assembled a collection of one-piece fishhooks and three distinctive early trolling hooks made from trochus shell, which are associated with Lapita sites. They note (p.243) that:
 
 
 <a id="p-231"></a>
@@ -2582,7 +2582,7 @@ The pointed weapon terminology consists of:
 
 232                  Meredith Osmond
 
-The only archaeological evidence we have for spears, bows and arrows, darts, etc. would seem to be obsidian and bone spear points. Triangular-sectioned obsidian blades are an artefact form produced only in the Manus Group and were almost certainly spearpoints ([Spriggs 1997a](../references.md#source-Spriggs1997a):163). They were manufactured in the vicinity of the main obsidian sources in the Lou Island area by 2100 BP (pp. 162-164). [Green](../references.md#source-Green1979) ([1979](../references.md#source-Green1979):39) documents a bone spear-point from Main Reef Islands circa 3100 BP.
+The only archaeological evidence we have for spears, bows and arrows, darts, etc. would seem to be obsidian and bone spear points. Triangular-sectioned obsidian blades are an artefact form produced only in the Manus Group and were almost certainly spearpoints ([Spriggs 1997a](../sources/Spriggs1997a):163). They were manufactured in the vicinity of the main obsidian sources in the Lou Island area by 2100 BP (pp. 162-164). [Green](../sources/Green1979) ([1979](../sources/Green1979):39) documents a bone spear-point from Main Reef Islands circa 3100 BP.
 
 I can find no archaeological evidence for any kind of club, our two (weakly supported) terms notwithstanding:
 
@@ -2591,7 +2591,7 @@ I can find no archaeological evidence for any kind of club, our two (weakly supp
 | _&ast;paru_ | (N, V) 'club' |
 | _&ast;gapi_ | 'stone? club' |
 
-However, for the slingshot we have pointed-end tridachna shell slingstones from Main Reef Islands documented by [Green](../references.md#source-Green1979) ([1979](../references.md#source-Green1979):39):
+However, for the slingshot we have pointed-end tridachna shell slingstones from Main Reef Islands documented by [Green](../sources/Green1979) ([1979](../sources/Green1979):39):
 
 |         |                              |
 |:--------|:-----------------------------|

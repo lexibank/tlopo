@@ -8,18 +8,18 @@
 
 This chapter and the following one are an attempt to discover something of the way in which Proto Oceanic speakers experienced and conceptualised their environment. We begin by giving examples taken from the ethnographic literature of how several different Oceanic-speaking peoples describe parts of their environment. We then examine evidence, provided by cognate sets and lexical reconstructions, concerning details of the inanimate land environment known to speakers of Proto Oceanic and certain of its daughter languages. We deal first with the land and landforms, and include vegetation cover only when it is part of a topographical feature.[^1] Seascape is dealt with in the following chapter.
 
-[Malinowski](../references.md#source-Malinowski1922) ([1922](../references.md#source-Malinowski1922), [1935](../references.md#source-Malinowski1935)) has provided us with a detailed account of the Kiriwina people of the Trobriand Islands, a coral atoll system consisting of one big island (Kiriwina), two of moderate size, and a number of smaller ones surrounding a shallow lagoon. Kiriwina is flat, with no hills or mountains. The Kiriwina word for ‘mountain’ is _koya_, usually in reference to distant mountains on D’Entrecasteaux Islands occasionally visible in the south. Malinowski’s description of the settled environment is centred on an origin myth ‘hole of emergence’ [_bwala_], which is the basis of their land tenure system. Terms or descriptions in square brackets have been added from elsewhere in the text.
+[Malinowski](../sources/Malinowski1922) ([1922](../sources/Malinowski1922), [1935](../sources/Malinowski1935)) has provided us with a detailed account of the Kiriwina people of the Trobriand Islands, a coral atoll system consisting of one big island (Kiriwina), two of moderate size, and a number of smaller ones surrounding a shallow lagoon. Kiriwina is flat, with no hills or mountains. The Kiriwina word for ‘mountain’ is _koya_, usually in reference to distant mountains on D’Entrecasteaux Islands occasionally visible in the south. Malinowski’s description of the settled environment is centred on an origin myth ‘hole of emergence’ [_bwala_], which is the basis of their land tenure system. Terms or descriptions in square brackets have been added from elsewhere in the text.
 
 > With such a hole of emergence there is always connected a village [_valu_], or part of a village, and a territory, or what we might call an assortment of lands, both of which belong to the people who came out of the hole. As a rule this comprises some waste land [_kaibutia_ ‘barren land, useless for gardening’], a tabooed grove or two [_boma_], a portion of the _rayboag_ [the narrow coral ridge] and perhaps one or two fields in the _dumya_ ([inland] swamps); in every case it includes a large portion of cultivable bush (_odila_), divided into a number of fields [_kubila_], which are subdivided into plots. Those villages which are near the open sea own a part of the eastern seashore (_momola_) with a fishing and bathing beach and a few sheds for their canoes. On the lagoon the beach is called _kavolawa_ and here canoes are kept. Thus a hole of emergence is always the centre of a contingent territory which encloses a village or part of it, and affords the following economic opportunities to its members: access to fertile, cultivable soil, invariably; at times access to navigation and fishing areas; a certain district for recreation and, of course, a system of roads communicating with other villages. (1935:343)
 
 
 <a id="p-36"></a>
 
-A second example is from Edvard Hviding’s _Guardians of Marovo Lagoon_, an account of the way of life of the Marovo speaking people from New Georgia in the western Solomons ([Hviding 1996](../references.md#source-Hviding1996)). The lagoon itself is vast, a largely enclosed area of shallow sea strewn with islands and reef patches and rimmed by barrier reef islands. It lies on the eastern edge of a high volcanic island covered in lush tropical rainforest and fringed with mangrove swamps. For their livelihood the people depend on a system of shifting agriculture and marine fishing. ‘Important dietary supplements are provided by hunting, focused on feral pigs, birds and marsupials in the rainforest, and by gathering shellfish from the reefs and mangroves, as well as nuts, fruits and leafy greens from garden fallows and forests’ (p.42). The main zones of local environmental classification are shown in Figure 2. They represent the _puava_ or ancestral territories of a kinship group (_butubutu_) to which Marovo people belong. _Puava_ has both a restricted sense, ‘soil, ground’ and a general one, the latter encompassing the total ancestral estate, reaching ‘from the peaks and ridges of the mainland upper mountains to the open sea outside the barrier reef’ (p.137).
+A second example is from Edvard Hviding’s _Guardians of Marovo Lagoon_, an account of the way of life of the Marovo speaking people from New Georgia in the western Solomons ([Hviding 1996](../sources/Hviding1996)). The lagoon itself is vast, a largely enclosed area of shallow sea strewn with islands and reef patches and rimmed by barrier reef islands. It lies on the eastern edge of a high volcanic island covered in lush tropical rainforest and fringed with mangrove swamps. For their livelihood the people depend on a system of shifting agriculture and marine fishing. ‘Important dietary supplements are provided by hunting, focused on feral pigs, birds and marsupials in the rainforest, and by gathering shellfish from the reefs and mangroves, as well as nuts, fruits and leafy greens from garden fallows and forests’ (p.42). The main zones of local environmental classification are shown in Figure 2. They represent the _puava_ or ancestral territories of a kinship group (_butubutu_) to which Marovo people belong. _Puava_ has both a restricted sense, ‘soil, ground’ and a general one, the latter encompassing the total ancestral estate, reaching ‘from the peaks and ridges of the mainland upper mountains to the open sea outside the barrier reef’ (p.137).
 
 <a id="fig-2"> </a>
 
-![Figure 2: Marovo coastal profile (reproduced from [Hviding 1996](../references.md#source-Hviding1996):138 with the permission of the University of Hawai’i Press)](../../raw/vol2/maps/fig_2.png)
+![Figure 2: Marovo coastal profile (reproduced from [Hviding 1996](../sources/Hviding1996):138 with the permission of the University of Hawai’i Press)](../../raw/vol2/maps/fig_2.png)
 
 
 
@@ -47,7 +47,7 @@ In his discussion of land tenure (p.332), Firth refers to the _tofi_, areas of m
 
 Although these examples include many terms for which we can find no cognates, the features they label have much in common. They represent the places where most of the daily activities of their inhabitants are centred, from the forested areas where they hunt, to garden land in its various stages, to coastal swamp and sand, to the lagoon and reef, to islands and the open sea beyond.
 
-A number of the nouns reconstructed in this chapter and the next functioned as both common nouns and as local nouns, as their modern reflexes continue to do. For example, _&ast;qutan_ as a common noun denoted the bush or bushland, while its local-noun use in the prepositional phrase _&ast;i qutan_ could have either the expected sense ‘in the bush’ or the directional sense ‘(up) inland’. For further discussion and reconstruction of local-noun senses, see Chapter 8, §2.
+A number of the nouns reconstructed in this chapter and the next functioned as both common nouns and as local nouns, as their modern reflexes continue to do. For example, _&ast;qutan_ as a common noun denoted the bush or bushland, while its local-noun use in the prepositional phrase _&ast;i qutan_ could have either the expected sense ‘in the bush’ or the directional sense ‘(up) inland’. For further discussion and reconstruction of local-noun senses, see [Chapter 8, §2](../contributions/2-8#s-2).
 
 The rest of this chapter is organised under the following headings: land mass, coastal features, inland topographical features, land defined by vegetation, inland water features, mineral substances, fire, and destructive natural events. Details of seascape will be dealt with in Chapter 4.
 
@@ -84,7 +84,7 @@ Reflexes of both POc _&ast;panua_ (vol. 1, p.62) and _&ast;tanoq_[^2] are widely
 <i>&ast;banua</i>
 </td>
 <td>
-'<span>inhabited territory, where a community’s gardens, houses and other possessions are</span>' (<a href="../references.md#source-Blust1987">Blust1987</a>)
+'<span>inhabited territory, where a community’s gardens, houses and other possessions are</span>' (<a href="../sources/Blust1987">Blust1987</a>)
 </td>
 </tr>
 <tr>
@@ -93,131 +93,131 @@ Reflexes of both POc _&ast;panua_ (vol. 1, p.62) and _&ast;tanoq_[^2] are widely
 <i>&ast;panua</i>
 </td>
 <td>
-'<span>inhabited area or territory</span>'; '<span>community together with its land and things on it</span>'; '<span>land, not sea</span>'; '<span>(with reference to weather and the day/night cycle) the visible world, land and sky</span>' (<a href="../references.md#source-Pawley1985">Pawley1985</a>)
+'<span>inhabited area or territory</span>'; '<span>community together with its land and things on it</span>'; '<span>land, not sea</span>'; '<span>(with reference to weather and the day/night cycle) the visible world, land and sky</span>' (<a href="../sources/Pawley1985">Pawley1985</a>)
 </td>
 </tr>
 <tr>
-<td>Adm</td><td>Mussau</td><td><i>anua</i></td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>anua</i></td>
 <td>
 '<span>land</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Penchal</td><td><i>panu</i></td>
+<td>Adm</td><td><a href="../languages/penchal">Penchal</a></td><td><i>panu</i></td>
 <td>
 '<span>village</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Gedaged</td><td><i>panu</i></td>
+<td>NNG</td><td><a href="../languages/gedaged">Gedaged</a></td><td><i>panu</i></td>
 <td>
 '<span>village, settlement, hamlet</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Manam</td><td><i>anua</i></td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>anua</i></td>
 <td>
 '<span>village</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Tami</td><td><i>panu</i></td>
+<td>NNG</td><td><a href="../languages/tami">Tami</a></td><td><i>panu</i></td>
 <td>
 '<span>house</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>hanua</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>hanua</i></td>
 <td>
 '<span>village, town</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Molima</td><td><i>vanua</i></td>
+<td>PT</td><td><a href="../languages/molima">Molima</a></td><td><i>vanua</i></td>
 <td>
 '<span>house</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Kilivila</td><td><i>valu</i></td>
+<td>PT</td><td><a href="../languages/kilivila">Kilivila</a></td><td><i>valu</i></td>
 <td>
 '<span>land; any open space which may be inhabited</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Vitu</td><td><i>vanua</i></td>
+<td>MM</td><td><a href="../languages/vitu">Vitu</a></td><td><i>vanua</i></td>
 <td>
 '<span>garden</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tabar</td><td><i>vanua</i></td>
+<td>MM</td><td><a href="../languages/tabar">Tabar</a></td><td><i>vanua</i></td>
 <td>
 '<span>house</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Taiof</td><td><i>fan</i></td>
+<td>MM</td><td><a href="../languages/taiof">Taiof</a></td><td><i>fan</i></td>
 <td>
 '<span>village</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Bugotu</td><td><i>vanua</i></td>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>vanua</i></td>
 <td>
 '<span>land, island</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>fanua</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>fanua</i></td>
 <td>
 '<span>land, the earth, world; weather</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>'Are'are</td><td><i>hanua</i></td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>hanua</i></td>
 <td>
 '<span>land, country, village place, country; the area where a person lives, where his possessions are</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>vanua</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>vanua</i></td>
 <td>
 '<span>land, island, village, place</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Lenakel</td><td><i>na-uanu</i></td>
+<td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td><i>na-uanu</i></td>
 <td>
 '<span>village</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Anejom</td><td><i>in-henou</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>in-henou</i></td>
 <td>
 '<span>taro swamp</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Nemi</td><td><i>bʷan(guc)</i></td>
+<td>NCal</td><td><a href="../languages/nemi">Nemi</a></td><td><i>bʷan(guc)</i></td>
 <td>
 '<span>soil</span>' (<span><em>guc</em> ‘earth’</span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td>Woleaian</td><td><i>farɨw</i></td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>farɨw</i></td>
 <td>
 '<span>land, island</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Rotuman</td><td><i>hanua</i></td>
+<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td><i>hanua</i></td>
 <td>
 '<span>land, country, place; native land or place, home</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>vanua</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>vanua</i></td>
 <td>
 '<span>land (not sea), territory, region, place, community, country; (in expressions for weather) the visible world, land, sea and sky</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>fonua</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>fonua</i></td>
 <td>
 '<span>land, country, territory, place; people (of the land)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>fanua</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>fanua</i></td>
 <td>
 '<span>land; afterbirth</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tahitian</td><td><i>fenua</i></td>
+<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td><i>fenua</i></td>
 <td>
 '<span>land</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Hawaiian</td><td><i>honua</i></td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>honua</i></td>
 <td>
 '<span>land, earth</span>'</td>
 </tr>
@@ -346,7 +346,7 @@ cf. also: Other examples refer to more planetary aspects, such as the day/night 
 
 <a id="p-41"></a>
 
-POc _&ast;tanoq_ ‘earth, ground, soil; land’ has already been reconstructed in vol. 1, p.119, as a term relevant to horticulture. As a common noun its denotations ranged from the soil beneath one’s feet to the total land mass on which one lived. Besides its use as a common noun, it was also used as a local noun with meanings like ‘down on the ground, down below’ (Ch.8, §2.2.5).
+POc _&ast;tanoq_ ‘earth, ground, soil; land’ has already been reconstructed in vol. 1, p.119, as a term relevant to horticulture. As a common noun its denotations ranged from the soil beneath one’s feet to the total land mass on which one lived. Besides its use as a common noun, it was also used as a local noun with meanings like ‘down on the ground, down below’ ([Ch.8, §2.2.5](../contributions/2-8#s-2-2-5)).
 
 <table id="2-3-2-1-41-POc-tanoq-a">
 <tr>
@@ -355,7 +355,7 @@ POc _&ast;tanoq_ ‘earth, ground, soil; land’ has already been reconstructed 
 <i>&ast;taneq</i>
 </td>
 <td>
-'<span>earth, land</span>' (<a href="../references.md#source-Dempwolff1938">Dempwolff1938</a>)
+'<span>earth, land</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
 </td>
 </tr>
 <tr>
@@ -367,87 +367,87 @@ POc _&ast;tanoq_ ‘earth, ground, soil; land’ has already been reconstructed 
 '<span>earth, ground, soil; land</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Loniu</td><td><i>(ko)tan</i></td>
+<td>Adm</td><td><a href="../languages/loniu">Loniu</a></td><td><i>(ko)tan</i></td>
 <td>
 '<span>earth</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Lou</td><td><i>tan</i></td>
+<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td><i>tan</i></td>
 <td>
 '<span>loose soil</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Gedaged</td><td><i>tan</i></td>
+<td>NNG</td><td><a href="../languages/gedaged">Gedaged</a></td><td><i>tan</i></td>
 <td>
 '<span>soil, ground, land, garden, earth, world</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Takia</td><td><i>tan</i></td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>tan</i></td>
 <td>
 '<span>ground, earth, land</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kove</td><td><i>tano</i></td>
+<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td><i>tano</i></td>
 <td>
 '<span>earth, sand</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kove</td><td><i>tano(pu)</i></td>
+<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td><i>tano(pu)</i></td>
 <td>
 '<span>mainland (of New Britain)</span>' (<span><em>pu</em> ‘base, basis’</span>)</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>tano</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>tano</i></td>
 <td>
 '<span>earth, soil, country, land</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Minaveha</td><td><i>tano</i></td>
+<td>PT</td><td><a href="../languages/minaveha">Minaveha</a></td><td><i>tano</i></td>
 <td>
 '<span>dirt</span>' (<span><em>tanopi</em> ‘earth, ground, world’</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td>Bugotu</td><td><i>tano</i></td>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>tano</i></td>
 <td>
 '<span>earth, ground</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>ano</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>ano</i></td>
 <td>
 '<span>ground, garden ground</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>ano</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>ano</i></td>
 <td>
 '<span>ground, earth, soil, the land</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Raga</td><td><i>tano</i></td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>tano</i></td>
 <td>
 '<span>earth</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Lewo</td><td><i>tano</i></td>
+<td>NCV</td><td><a href="../languages/lewo">Lewo</a></td><td><i>tano</i></td>
 <td>
 '<span>earth, land</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Kwamera</td><td><i>təna</i></td>
+<td>SV</td><td><a href="../languages/kwamera">Kwamera</a></td><td><i>təna</i></td>
 <td>
 '<span>earth, ground; land, island, country</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Iaai</td><td><i>kɔnɔ</i></td>
+<td>NCal</td><td><a href="../languages/iaai">Iaai</a></td><td><i>kɔnɔ</i></td>
 <td>
 '<span>earth, ground</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kiribatese</td><td><i>tano</i></td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>tano</i></td>
 <td>
 '<span>earth, ground, soil</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Woleaian</td><td><i>tar</i></td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>tar</i></td>
 <td>
 '<span>earth, ground, soil</span>'</td>
 </tr>
@@ -507,7 +507,7 @@ cf. also: Certain conventional phrases, such as the following, indicate the sema
 </table>
 
 
-The term _&ast;tanoq_ disappears in Fiji and Polynesia, where the concept of ‘earth, soil’ is denoted by reflexes of PCP _&ast;gʷele_, PPn _&ast;kele_ (see §7.6).
+The term _&ast;tanoq_ disappears in Fiji and Polynesia, where the concept of ‘earth, soil’ is denoted by reflexes of PCP _&ast;gʷele_, PPn _&ast;kele_ (see [§7.6](../contributions/2-3#s-7-6)).
 
 
 <a id="p-42"></a>
@@ -518,7 +518,7 @@ The term _&ast;tanoq_ disappears in Fiji and Polynesia, where the concept of ‘
 ### 2.2. Island
 
 
-Two POc terms are glossed ‘island’. These were probably reserved for small islands. Of our reconstructions, it seems that _&ast;nusa_ was a common noun in POc, but Southeast Solomonic, Fijian and Polynesian reflexes seem to reflect _&ast;qa-nusa_, with the local adverb formative _&ast;qa-_ (Ch.8, §2.1). The expected meaning of _&ast;qa-nusa_ is something like ‘at our own island’, and this is in accord with the use of its reflexes in placenames. The Micronesian reflexes, however, suggest that the prefixed form has also come to be used as a common noun.
+Two POc terms are glossed ‘island’. These were probably reserved for small islands. Of our reconstructions, it seems that _&ast;nusa_ was a common noun in POc, but Southeast Solomonic, Fijian and Polynesian reflexes seem to reflect _&ast;qa-nusa_, with the local adverb formative _&ast;qa-_ ([Ch.8, §2.1](../contributions/2-8#s-2-1)). The expected meaning of _&ast;qa-nusa_ is something like ‘at our own island’, and this is in accord with the use of its reflexes in placenames. The Micronesian reflexes, however, suggest that the prefixed form has also come to be used as a common noun.
 
 <table id="2-3-2-2-42-POc-nusa-a">
 <tr>
@@ -527,7 +527,7 @@ Two POc terms are glossed ‘island’. These were probably reserved for small i
 <i>&ast;nusa</i>
 </td>
 <td>
-'<span>island</span>' (<a href="../references.md#source-Dempwolff1938">Dempwolff1938</a>)
+'<span>island</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
 </td>
 </tr>
 <tr>
@@ -547,72 +547,72 @@ Two POc terms are glossed ‘island’. These were probably reserved for small i
 '<span>at our own island</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Bariai</td><td><i>(i)nu</i></td>
+<td>NNG</td><td><a href="../languages/bariai">Bariai</a></td><td><i>(i)nu</i></td>
 <td>
 '<span>island</span>' (<span>&lt; POc <em>*i nusa</em> ‘at (our) island’</span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td>Takia</td><td><i>nui</i></td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>nui</i></td>
 <td>
 '<span>island, reef</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Gedaged</td><td><i>nui</i></td>
+<td>NNG</td><td><a href="../languages/gedaged">Gedaged</a></td><td><i>nui</i></td>
 <td>
 '<span>island</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Gapapaiwa</td><td><i>nua</i></td>
+<td>PT</td><td><a href="../languages/gapapaiwa">Gapapaiwa</a></td><td><i>nua</i></td>
 <td>
 '<span>island</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Dobu</td><td><i>nua</i></td>
+<td>PT</td><td><a href="../languages/dobu">Dobu</a></td><td><i>nua</i></td>
 <td>
 '<span>coral reef, coral patch</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nduke</td><td><i>nusa</i></td>
+<td>MM</td><td><a href="../languages/nduke">Nduke</a></td><td><i>nusa</i></td>
 <td>
 '<span>island</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Roviana</td><td><i>nusa</i></td>
+<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td><i>nusa</i></td>
 <td>
 '<span>island</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>(a)nuta</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>(a)nuta</i></td>
 <td>
 '<span>the name of a small island</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>nu-nuta</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>nu-nuta</i></td>
 <td>
 '<span>island</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>(a)nuta</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>(a)nuta</i></td>
 <td>
 '<span>island (only in names)</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Xârâcùù</td><td><i>nɨi</i></td>
+<td>NCal</td><td><a href="../languages/xaracuu">Xârâcùù</a></td><td><i>nɨi</i></td>
 <td>
 '<span>island</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Satawalese</td><td><i>(a)lɨt</i></td>
+<td>Mic</td><td><a href="../languages/satawalese">Satawalese</a></td><td><i>(a)lɨt</i></td>
 <td>
 '<span>small island</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Woleaian</td><td><i>(ya)rɨta</i></td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>(ya)rɨta</i></td>
 <td>
 '<span>small uninhabited island</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>(a)nuða</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>(a)nuða</i></td>
 <td>
 '<span>element in place names of small offshore islands</span>'</td>
 </tr>
@@ -634,97 +634,97 @@ The primary role of _&ast;motus_ in POc appears to have been as a stative verb, 
 [N] '<span>island, detached reef</span>'; '<span>(V) become, be broken off, severed</span>' (<span>vol. 1, p.247</span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td>Bing</td><td><i>mōt</i></td>
+<td>NNG</td><td><a href="../languages/bing">Bing</a></td><td><i>mōt</i></td>
 <td>
 '<span>island</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Manam</td><td><i>motu</i></td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>motu</i></td>
 <td>
 '<span>island</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Yabem</td><td><i>meʔ</i></td>
+<td>NNG</td><td><a href="../languages/yabem">Yabem</a></td><td><i>meʔ</i></td>
 <td>
 '<span>reef</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Numbami</td><td><i>motu</i></td>
+<td>NNG</td><td><a href="../languages/numbami">Numbami</a></td><td><i>motu</i></td>
 <td>
 '<span>reef</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>motu-motu</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>motu-motu</i></td>
 <td>
 '<span>island; detached portion of reef</span>' (<span><em>motu</em> ‘to break, as a string’</span>)</td>
 </tr>
 <tr>
-<td>PT</td><td>Hula</td><td><i>mou</i></td>
+<td>PT</td><td><a href="../languages/hula">Hula</a></td><td><i>mou</i></td>
 <td>
 '<span>island</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>mou</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>mou</i></td>
 <td>
 '<span>be broken off</span>' (<span><em>malau mou</em> ‘an islet’, <em>hau mou</em> ‘an isolated rock’</span>)</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>(vanua)mʷot</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>(vanua)mʷot</i></td>
 <td>
 '<span>island</span>' (<span>lit. ‘land broken off’</span>)</td>
 </tr>
 <tr>
-<td>SV</td><td>Lenakel</td><td><i>(tən)murh</i></td>
+<td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td><i>(tən)murh</i></td>
 <td>
 '<span>island</span>' (<span>tən ‘earth, land’</span>)</td>
 </tr>
 <tr>
-<td>Fij</td><td>Rotuman</td><td><i>mofu</i></td>
+<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td><i>mofu</i></td>
 <td>
 '<span>rock (in the sea)</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>motu, (ya)motu</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>motu, (ya)motu</i></td>
 <td>
 '<span>small detached reef</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>motu</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>motu</i></td>
 <td>
 '<span>island</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>motu</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>motu</i></td>
 <td>
 '<span>island; break, become separated</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>motu</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>motu</i></td>
 <td>
 '<span>to break, sever</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>motu hatu</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>motu hatu</i></td>
 <td>
 '<span>reef rock island</span>' (<span><em>hatu</em> ‘rock’</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>motu</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>motu</i></td>
 <td>
 '<span>island; severed</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tahitian</td><td><i>motu</i></td>
+<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td><i>motu</i></td>
 <td>
 '<span>islet; be cut, severed</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>motu</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>motu</i></td>
 <td>
 '<span>island</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Hawaiian</td><td><i>moku</i></td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>moku</i></td>
 <td>
 '<span>island; sever, cut</span>'</td>
 </tr>
@@ -735,7 +735,7 @@ The primary role of _&ast;motus_ in POc appears to have been as a stative verb, 
 
 <a id="p-43"></a>
 
-Cognates of PWOc _&ast;(s,t)imuR_ (below) may reflect POc _&ast;timu(R)_ ‘wind bringing light rain’ (from PMP _&ast;timuR_ ‘south or east wind’) (cf. Ch. 5, §4.2). Waruno Mahdi suggests (pers. comm.) that there has been semantic drift from wind to cloud to cloud over island, a traditional navigator’s way of locating islands. Alternatively, there may be an unrelated word, at least in PWOc:
+Cognates of PWOc _&ast;(s,t)imuR_ (below) may reflect POc _&ast;timu(R)_ ‘wind bringing light rain’ (from PMP _&ast;timuR_ ‘south or east wind’) (cf. [Ch. 5, §4.2](../contributions/2-5#s-4-2)). Waruno Mahdi suggests (pers. comm.) that there has been semantic drift from wind to cloud to cloud over island, a traditional navigator’s way of locating islands. Alternatively, there may be an unrelated word, at least in PWOc:
 
 <table id="2-3-2-2-43-PWOc-stimur-a">
 <tr>
@@ -747,27 +747,27 @@ Cognates of PWOc _&ast;(s,t)imuR_ (below) may reflect POc _&ast;timu(R)_ ‘wind
 '<span>island</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Muyuw</td><td><i>sim, simulan</i></td>
+<td>PT</td><td><a href="../languages/muyuw">Muyuw</a></td><td><i>sim, simulan</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>PT</td><td>Iduna</td><td><i>himula</i></td>
+<td>PT</td><td><a href="../languages/iduna">Iduna</a></td><td><i>himula</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>PT</td><td>Dobu</td><td><i>simula</i></td>
+<td>PT</td><td><a href="../languages/dobu">Dobu</a></td><td><i>simula</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>PT</td><td>Kilivila</td><td><i>simla</i></td>
+<td>PT</td><td><a href="../languages/kilivila">Kilivila</a></td><td><i>simla</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>MM</td><td>Sursurunga</td><td><i>sim</i></td>
+<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td><i>sim</i></td>
 <td>
 </td>
 </tr>
@@ -784,7 +784,7 @@ Although the next reconstructed form is traceable back to PMP as a verb, its use
 <i>&ast;qatuR</i>
 </td>
 <td>
-[V] '<span>pave with stones; pile or stack up, arrange, order, put in sequence</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+[V] '<span>pave with stones; pile or stack up, arrange, order, put in sequence</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -796,7 +796,7 @@ Although the next reconstructed form is traceable back to PMP as a verb, its use
 [N] '<span>number of things in a line, row</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Anejom</td><td><i>n-at(hat)</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>n-at(hat)</i></td>
 <td>
 '<span>line of stones</span>' (<span>inhat ‘stone’</span>)</td>
 </tr>
@@ -809,52 +809,52 @@ Although the next reconstructed form is traceable back to PMP as a verb, its use
 '<span>number of things in a line, row, as a chain of islands</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Rotuman</td><td><i>afu</i></td>
+<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td><i>afu</i></td>
 <td>
 '<span>number of things in a line, row</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>atu</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>atu</i></td>
 <td>
 '<span>first element in name of island chain, e.g. <em>atu Yasawa</em></span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>yatu</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>yatu</i></td>
 <td>
 '<span>first element in name of island chain</span>' (<span>e.g. <em>Yatu Lau</em> ‘the Lau islands’</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>ʔotu</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>ʔotu</i></td>
 <td>
 '<span>row, line, series, chain or long group (e.g. of islands)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>atu</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>atu</i></td>
 <td>
 '<span>row of things, group</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>atu motu</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>atu motu</i></td>
 <td>
 '<span>group of islands</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>ʔatu</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>ʔatu</i></td>
 <td>
 [N] '<span>generation; row, column, group, as of islands, stones, posts, people</span>'; [V] '<span>be of the same generation</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>atu</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>atu</i></td>
 <td>
 '<span>row (as of chairs); range (as of hills); chain (as of lakes); set, row (as of teeth)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>atu motu</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>atu motu</i></td>
 <td>
 '<span>group of islands, archipelago</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Nanumean</td><td><i>atu</i></td>
+<td>Pn</td><td><a href="../languages/nanumean">Nanumean</a></td><td><i>atu</i></td>
 <td>
 '<span>group or chain of islands</span>' (<span><em>atu fenua elise</em> ‘the whole Ellice group’, <em>atu paipai</em> ‘the whole world’</span>)</td>
 </tr>
@@ -879,7 +879,7 @@ This section treats named features of the coastal landscape other than shore ree
 ### 3.1. Beach, shore
 
 
-Two POc reconstructions can be made for ‘beach’. One, _&ast;qone_, seems primarily to have meant ‘sand’, but the sense ‘sandy beach’ is also quite widely reflected (see §7.5). The other reconstruction, _&ast;biker_, is less firmly based. However, it is possible that the terms from Huon Gulf languages listed below may also be reflexes. If they are, then the reconstruction should be _&ast;bʷiker_.
+Two POc reconstructions can be made for ‘beach’. One, _&ast;qone_, seems primarily to have meant ‘sand’, but the sense ‘sandy beach’ is also quite widely reflected (see [§7.5](../contributions/2-3#s-7-5)). The other reconstruction, _&ast;biker_, is less firmly based. However, it is possible that the terms from Huon Gulf languages listed below may also be reflexes. If they are, then the reconstruction should be _&ast;bʷiker_.
 
 <table id="2-3-3-1-44-POc-bbiker-a">
 <tr>
@@ -891,47 +891,47 @@ Two POc reconstructions can be made for ‘beach’. One, _&ast;qone_, seems pri
 '<span>beach, esp. sandy beach</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Bali</td><td><i>bikere</i></td>
+<td>MM</td><td><a href="../languages/bali">Bali</a></td><td><i>bikere</i></td>
 <td>
 '<span>beach</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Bulu</td><td><i>bike</i></td>
+<td>MM</td><td><a href="../languages/bulu">Bulu</a></td><td><i>bike</i></td>
 <td>
 '<span>beach</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Kwamera</td><td><i>nə-pəkər</i></td>
+<td>SV</td><td><a href="../languages/kwamera">Kwamera</a></td><td><i>nə-pəkər</i></td>
 <td>
 '<span>sand, sandy beach</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kiribatese</td><td><i>bike</i></td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>bike</i></td>
 <td>
 '<span>beach, sand, sand bank, sandy soil</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Mortlockese</td><td><i>ppɛ</i></td>
+<td>Mic</td><td><a href="../languages/mortlockese">Mortlockese</a></td><td><i>ppɛ</i></td>
 <td>
 '<span>beach, sand</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Puluwatese</td><td><i>ppi</i></td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>ppi</i></td>
 <td>
 '<span>sand, sand beach, sand spit</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Ponapean</td><td><i>pīk</i></td>
+<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td><i>pīk</i></td>
 <td>
 '<span>sand</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Ponapean</td><td><i>pika-pik</i></td>
+<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td><i>pika-pik</i></td>
 <td>
 '<span>sandy</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Woleaian</td><td><i>pix(a)</i></td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>pix(a)</i></td>
 <td>
 '<span>small island, islet</span>'</td>
 </tr>
@@ -1006,112 +1006,112 @@ The reflexes of POc _&ast;nuku_ are semantically diverse, ranging from ‘sand�
 '<span>sandy ground, sand bank, sand spit</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kove</td><td><i>nū</i></td>
+<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td><i>nū</i></td>
 <td>
 '<span>small offshore island</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Vaghua</td><td><i>nəɣə</i></td>
+<td>MM</td><td><a href="../languages/vaghua">Vaghua</a></td><td><i>nəɣə</i></td>
 <td>
 '<span>island</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Varisi</td><td><i>nuɣu</i></td>
+<td>MM</td><td><a href="../languages/varisi">Varisi</a></td><td><i>nuɣu</i></td>
 <td>
 '<span>island</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Babatana</td><td><i>nu-nu</i></td>
+<td>MM</td><td><a href="../languages/babatana">Babatana</a></td><td><i>nu-nu</i></td>
 <td>
 '<span>island</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>nuɣu</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>nuɣu</i></td>
 <td>
 '<span>a flat and sandy place near the beach</span>'; '<span>a reef far out at sea, larger than sembe mbuto</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>nu-nuɣu</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>nu-nuɣu</i></td>
 <td>
 '<span>quicksand</span>'; '<span>a river bar</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>(mu)nuɣu</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>(mu)nuɣu</i></td>
 <td>
 '<span>sand bar at river mouth; island in river</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>nū</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>nū</i></td>
 <td>
 '<span>flat ground near the shore</span>'; '<span>coral reef where it juts out, seaward part of reef</span>'; '<span>flat sandy land just above the beach</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Kwaio</td><td><i>nuʔu</i></td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>nuʔu</i></td>
 <td>
 '<span>margins of sand, area of strand immediately above the beach</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>nu-nuʔu</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>nu-nuʔu</i></td>
 <td>
 '<span>sand on the beach, sandy soil</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>(mara)nuʔu</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>(mara)nuʔu</i></td>
 <td>
 '<span>a river flat, plain made by river, sandy level ground near the shore</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>nuku</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>nuku</i></td>
 <td>
 '<span>sand</span>' (<span>nuku-nuku ‘sandy’</span>)</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>uðu ni nuku</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>uðu ni nuku</i></td>
 <td>
 '<span>sandbank jutting out into the sea</span>' (<span><em>uðu</em> ‘nose’</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>nuku</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>nuku</i></td>
 <td>
 '<span>land, country, place</span>' (<span>obsolete</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>nuku</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>nuku</i></td>
 <td>
 '<span>element in place names</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>nuku</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>nuku</i></td>
 <td>
 '<span>legendary isles or settlements of the gods; a part of place names</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>nuʔu</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>nuʔu</i></td>
 <td>
 '<span>village, home</span>' (<span><em>nuʔutūloto</em> ‘islet’</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>nuku</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>nuku</i></td>
 <td>
 '<span>dwelling, settlement, island where settlement situated. Used in many Tikopia house names</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Marquesan</td><td><i>nuku-</i></td>
+<td>Pn</td><td><a href="../languages/marquesan">Marquesan</a></td><td><i>nuku-</i></td>
 <td>
 '<span>first element in many place names</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tahitian</td><td><i>nuʔu</i></td>
+<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td><i>nuʔu</i></td>
 <td>
 '<span>earth, land (only as part of place names)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tuamotuan</td><td><i>nuku</i></td>
+<td>Pn</td><td><a href="../languages/tuamotuan">Tuamotuan</a></td><td><i>nuku</i></td>
 <td>
 '<span>earth, land</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>nuku</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>nuku</i></td>
 <td>
 '<span>the earth, generally personified; wide extent of the land, fenua</span>'</td>
 </tr>
@@ -1119,14 +1119,14 @@ The reflexes of POc _&ast;nuku_ are semantically diverse, ranging from ‘sand�
 
 
 
-Coastlines, particularly island coastlines, may be characterised as ‘windward coast’ or ‘leeward coast’ in latitudes where tradewinds blow for most of the year. Marovo (MM), for instance, has parallel terms for the ocean-facing side of a barrier island, _kale-lupa_ (_kale_ ‘side’, _lupa_ ‘the beaches, reefs and seascape on the outer or windward side of the barrier reef’) and the lagoon-facing side, _kale-kogu_ (_kogu_ ‘lagoon’). Roviana (MM) refers to the ocean side of an island as _vuragarena_, which [Waterhouse](../references.md#source-Waterhouse1949) ([1949](../references.md#source-Waterhouse1949)) contrasts with _tutupeka_. Kia (MM) adapts body part terms for ‘back’ and ‘belly’, _taguru-mo_ ‘windward side of island’ and _tia-mo_ ‘leeward side of island’. Sa’a (SES) has _asi matawa_ ‘weather shore’ and _asi mae_ ‘lee shore’.
+Coastlines, particularly island coastlines, may be characterised as ‘windward coast’ or ‘leeward coast’ in latitudes where tradewinds blow for most of the year. Marovo (MM), for instance, has parallel terms for the ocean-facing side of a barrier island, _kale-lupa_ (_kale_ ‘side’, _lupa_ ‘the beaches, reefs and seascape on the outer or windward side of the barrier reef’) and the lagoon-facing side, _kale-kogu_ (_kogu_ ‘lagoon’). Roviana (MM) refers to the ocean side of an island as _vuragarena_, which [Waterhouse](../sources/Waterhouse1949) ([1949](../sources/Waterhouse1949)) contrasts with _tutupeka_. Kia (MM) adapts body part terms for ‘back’ and ‘belly’, _taguru-mo_ ‘windward side of island’ and _tia-mo_ ‘leeward side of island’. Sa’a (SES) has _asi matawa_ ‘weather shore’ and _asi mae_ ‘lee shore’.
 
 
 <a id="p-46"></a>
 
 In Chapter 4 we have reconstructed PEOc _&ast;tasik maquri(p)_ ‘open sea; ocean on the weather side; weather shore’ (literally ‘live sea’) and PEOc _&ast;tasi mate_ ‘sheltered sea, lee shore’ (literally ‘dead sea’), terms which, from their reflexes, may apply both to the sea or to the affected coastline.
 
-The reconstruction below, PEOc _&ast;liku_, is glossed ‘windward side’, but it seems likely that its reflexes are members of a larger set reflecting PMP _&ast;likuD_, POc _&ast;liku(r)_ ‘person’s back’ whose reflexes are used in a number of languages with the senses ‘back of s.t.’, ‘outside’ (Ch.8, §2.3.5). The use of reflexes of this term for ‘windward side’ reflects the fact that the outside of a barrier reef is its windward side.
+The reconstruction below, PEOc _&ast;liku_, is glossed ‘windward side’, but it seems likely that its reflexes are members of a larger set reflecting PMP _&ast;likuD_, POc _&ast;liku(r)_ ‘person’s back’ whose reflexes are used in a number of languages with the senses ‘back of s.t.’, ‘outside’ ([Ch.8, §2.3.5](../contributions/2-8#s-2-3-5)). The use of reflexes of this term for ‘windward side’ reflects the fact that the outside of a barrier reef is its windward side.
 
 <table id="2-3-3-1-46-PEOc-liku-a">
 <tr>
@@ -1138,22 +1138,22 @@ The reconstruction below, PEOc _&ast;liku_, is glossed ‘windward side’, but 
 '<span>windward side</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Marshallese</td><td><i>liki</i></td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>liki</i></td>
 <td>
 '<span>ocean side of; outside</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kiribatese</td><td><i>(āi)niku</i></td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>(āi)niku</i></td>
 <td>
 '<span>ocean side of coral islands</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>liku</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>liku</i></td>
 <td>
 '<span>windward side</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuatoputapu</td><td><i>liku</i></td>
+<td>Pn</td><td><a href="../languages/niuatoputapu">Niuatoputapu</a></td><td><i>liku</i></td>
 <td>
 '<span>windward side</span>'</td>
 </tr>
@@ -1170,7 +1170,7 @@ Similarly, terms located for the leeward or sheltered side include reflexes of a
 <i>&ast;duŋduŋ</i>
 </td>
 <td>
-'<span>sheltered as from wind, rain or sun</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>sheltered as from wind, rain or sun</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -1182,17 +1182,17 @@ Similarly, terms located for the leeward or sheltered side include reflexes of a
 '<span>calm, sheltered</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>rūrū</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>rūrū</i></td>
 <td>
 '<span>calm</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>gugu</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>gugu</i></td>
 <td>
 '<span>be calm, sheltered, to leeward</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Hawaiian</td><td><i>lulu</i></td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>lulu</i></td>
 <td>
 '<span>calm area leeward of an island</span>'</td>
 </tr>
@@ -1220,17 +1220,17 @@ The gloss of our next reconstruction, POc _&ast;tobʷa_ is soundly based for PEO
 '<span>bay, harbour; belly, stomach</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Tench</td><td><i>tova</i></td>
+<td>Adm</td><td><a href="../languages/tench">Tench</a></td><td><i>tova</i></td>
 <td>
 '<span>belly</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Marovo</td><td><i>toba</i></td>
+<td>MM</td><td><a href="../languages/marovo">Marovo</a></td><td><i>toba</i></td>
 <td>
 '<span>elevated barrier reefs</span>' (<span>i.e. islands enclosing sheltered water</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td>Roviana</td><td><i>toba</i></td>
+<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td><i>toba</i></td>
 <td>
 '<span>name of barrier island</span>'</td>
 </tr>
@@ -1243,27 +1243,27 @@ The gloss of our next reconstruction, POc _&ast;tobʷa_ is soundly based for PEO
 '<span>bay</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Tolo</td><td><i>tobana</i></td>
+<td>SES</td><td><a href="../languages/tolo">Tolo</a></td><td><i>tobana</i></td>
 <td>
 '<span>abdomen, belly</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>apʷa-apʷa</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>apʷa-apʷa</i></td>
 <td>
 '<span>bay, indentation in coast</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>obʷa-obʷa</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>obʷa-obʷa</i></td>
 <td>
 '<span>bay, harbour</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>toqa(i)</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>toqa(i)</i></td>
 <td>
 '<span>belly</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>toba</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>toba</i></td>
 <td>
 '<span>bay or gulf</span>'</td>
 </tr>
@@ -1286,27 +1286,27 @@ The next set has specific reference to ‘bay’ only in Polynesia. As a POc ter
 '<span>be open, gape</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>haga</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>haga</i></td>
 <td>
 [ADJ] '<span>open</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tolai</td><td><i>paŋaŋa</i></td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>paŋaŋa</i></td>
 <td>
 '<span>be open, yawn, gape</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>(a)faŋa</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>(a)faŋa</i></td>
 <td>
 '<span>open wide, gape</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Tolo</td><td><i>(o)vana</i></td>
+<td>SES</td><td><a href="../languages/tolo">Tolo</a></td><td><i>(o)vana</i></td>
 <td>
 '<span>opening</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>waŋa</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>waŋa</i></td>
 <td>
 '<span>gape</span>'</td>
 </tr>
@@ -1319,27 +1319,27 @@ The next set has specific reference to ‘bay’ only in Polynesia. As a POc ter
 '<span>bay</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>faŋa</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>faŋa</i></td>
 <td>
 '<span>small or private beach</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>faŋa</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>faŋa</i></td>
 <td>
 '<span>bay</span>' (<span><em>matā-faŋa</em> ‘beach, shore’</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tahitian</td><td><i>faʔa</i></td>
+<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td><i>faʔa</i></td>
 <td>
 '<span>valley, low place among the hills</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>ɸaŋa</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>ɸaŋa</i></td>
 <td>
 '<span>bay, harbour, estuary</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Hawaiian</td><td><i>hana</i></td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>hana</i></td>
 <td>
 '<span>bay, valley (in place names)</span>'</td>
 </tr>
@@ -1365,27 +1365,27 @@ Polynesian languages use a compound for the mouth of a river, with elements deri
 '<span>mouth of river</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>mui-vai</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>mui-vai</i></td>
 <td>
 '<span>mouth of river</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>muli-vai</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>muli-vai</i></td>
 <td>
 '<span>mouth of river</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>East Futunan</td><td><i>muli-vai</i></td>
+<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td><i>muli-vai</i></td>
 <td>
 '<span>mouth of river</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>muri-wai</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>muri-wai</i></td>
 <td>
 '<span>backwater, lagoon at mouth of river</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Hawaiian</td><td><i>muli-wai</i></td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>muli-wai</i></td>
 <td>
 '<span>mouth of river; pool near river mouth (as behind sandbar)</span>'</td>
 </tr>
@@ -1453,7 +1453,7 @@ The suffixed _-a_ of PPn _&ast;utu-a_ below reflects the POc locative nominalisi
 <i>&ast;ijuŋ, ujuŋ</i>
 </td>
 <td>
-'<span>nose</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>nose</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -1465,37 +1465,37 @@ The suffixed _-a_ of PPn _&ast;utu-a_ below reflects the POc locative nominalisi
 '<span>nose; cape</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Bing</td><td><i>uyu</i></td>
+<td>NNG</td><td><a href="../languages/bing">Bing</a></td><td><i>uyu</i></td>
 <td>
 '<span>headland, point, nose</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>idu(ka)</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>idu(ka)</i></td>
 <td>
 '<span>headland</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nakanai</td><td><i>(ma)isu</i></td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>(ma)isu</i></td>
 <td>
 '<span>nose; cape</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tinputz</td><td><i>ihun</i></td>
+<td>MM</td><td><a href="../languages/tinputz">Tinputz</a></td><td><i>ihun</i></td>
 <td>
 '<span>nose; cape, point</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>ihu</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>ihu</i></td>
 <td>
 '<span>nose; cape</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>uðu</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>uðu</i></td>
 <td>
 '<span>nose; cape, mountain peak</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rapanui</td><td><i>ihu</i></td>
+<td>Pn</td><td><a href="../languages/rapanui">Rapanui</a></td><td><i>ihu</i></td>
 <td>
 '<span>nose; headland, point</span>'</td>
 </tr>
@@ -1516,47 +1516,47 @@ The suffixed _-a_ of PPn _&ast;utu-a_ below reflects the POc locative nominalisi
 '<span>projecting land</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>udu</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>udu</i></td>
 <td>
 '<span>stick out, project</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>udu ni vanua</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>udu ni vanua</i></td>
 <td>
 '<span>headland</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>utua</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>utua</i></td>
 <td>
 '<span>be conspicuous</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>East Uvean</td><td><i>utua</i></td>
+<td>Pn</td><td><a href="../languages/eastuvean">East Uvean</a></td><td><i>utua</i></td>
 <td>
 '<span>point, promontory</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>utua</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>utua</i></td>
 <td>
 '<span>point, cape</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Kapingamarangi</td><td><i>utua</i></td>
+<td>Pn</td><td><a href="../languages/kapingamarangi">Kapingamarangi</a></td><td><i>utua</i></td>
 <td>
 '<span>projecting point in reef</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tuvalu</td><td><i>utua</i></td>
+<td>Pn</td><td><a href="../languages/tuvalu">Tuvalu</a></td><td><i>utua</i></td>
 <td>
 '<span>that part of shore visible at low tide</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Takuu</td><td><i>utua</i></td>
+<td>Pn</td><td><a href="../languages/takuu">Takuu</a></td><td><i>utua</i></td>
 <td>
 '<span>land normally under sea but exposed by low tide</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tokelauan</td><td><i>utua</i></td>
+<td>Pn</td><td><a href="../languages/tokelauan">Tokelauan</a></td><td><i>utua</i></td>
 <td>
 '<span>shelving reef</span>'</td>
 </tr>
@@ -1578,27 +1578,27 @@ Reflexes of the next item, POc _&ast;ŋoro-ŋorok_ with the gloss ‘cape’ are
 '<span>cape</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Sursurunga</td><td><i>ŋor-ŋor</i></td>
+<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td><i>ŋor-ŋor</i></td>
 <td>
 '<span>headland, point of land jutting out into the sea</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Longgu</td><td><i>ñora-ñora</i></td>
+<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td><i>ñora-ñora</i></td>
 <td>
 '<span>headland, point</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>ŋo-ŋora</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>ŋo-ŋora</i></td>
 <td>
 '<span>nose; point, headland, cape</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>ŋora-ŋora</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>ŋora-ŋora</i></td>
 <td>
 '<span>cape</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>ŋora-ŋora</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>ŋora-ŋora</i></td>
 <td>
 '<span>cape, isthmus</span>'</td>
 </tr>
@@ -1619,67 +1619,67 @@ Reflexes of the next item, POc _&ast;ŋoro-ŋorok_ with the gloss ‘cape’ are
 '<span>nose</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Sio</td><td><i>i-ŋo-ŋoro</i></td>
+<td>NNG</td><td><a href="../languages/sio">Sio</a></td><td><i>i-ŋo-ŋoro</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>NNG</td><td>Amara</td><td><i>(s)ŋorek(a)</i></td>
+<td>NNG</td><td><a href="../languages/amara">Amara</a></td><td><i>(s)ŋorek(a)</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>NNG</td><td>Kairiru</td><td><i>ŋaRi(-)</i></td>
+<td>NNG</td><td><a href="../languages/kairiru">Kairiru</a></td><td><i>ŋaRi(-)</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>MM</td><td>Notsi</td><td><i>ŋul-ŋul</i></td>
+<td>MM</td><td><a href="../languages/notsi">Notsi</a></td><td><i>ŋul-ŋul</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>MM</td><td>Madak</td><td><i>ŋo-ŋo</i></td>
+<td>MM</td><td><a href="../languages/madak">Madak</a></td><td><i>ŋo-ŋo</i></td>
 <td>
 '<span>nasal mucus</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tangga</td><td><i>ŋoro-ŋoro</i></td>
+<td>MM</td><td><a href="../languages/tangga">Tangga</a></td><td><i>ŋoro-ŋoro</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>MM</td><td>Patpatar</td><td><i>ŋar-ŋaro</i></td>
+<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td><i>ŋar-ŋaro</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>MM</td><td>Ramoaaina</td><td><i>ŋir-ŋiro</i></td>
+<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>ŋir-ŋiro</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>MM</td><td>Selau</td><td><i>ŋor-ŋoro</i></td>
+<td>MM</td><td><a href="../languages/selau">Selau</a></td><td><i>ŋor-ŋoro</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>MM</td><td>Varisi</td><td><i>i-ŋoro</i></td>
+<td>MM</td><td><a href="../languages/varisi">Varisi</a></td><td><i>i-ŋoro</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>MM</td><td>Ririo</td><td><i>ni-ŋir</i></td>
+<td>MM</td><td><a href="../languages/ririo">Ririo</a></td><td><i>ni-ŋir</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>ŋo-ŋora-</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>ŋo-ŋora-</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>SES</td><td>N Malaitan</td><td><i>ŋo-ŋoro-</i></td>
+<td>SES</td><td><a href="../languages/nmalaitan">N Malaitan</a></td><td><i>ŋo-ŋoro-</i></td>
 <td>
 </td>
 </tr>
@@ -1699,12 +1699,12 @@ The final reconstruction, PEOc _&ast;mata_ ‘point of land, headland’ is evid
 '<span>point of land, headland</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Nyelâyu</td><td><i>mā(lã pʰwēmʷa)</i></td>
+<td>NCal</td><td><a href="../languages/nyelayu">Nyelâyu</a></td><td><i>mā(lã pʰwēmʷa)</i></td>
 <td>
 '<span>point of the mainland (= south)</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Nêlêmwâ</td><td><i>mā(wamʷa)</i></td>
+<td>NCal</td><td><a href="../languages/nelemwa">Nêlêmwâ</a></td><td><i>mā(wamʷa)</i></td>
 <td>
 '<span>point of the mainland (= south)</span>'</td>
 </tr>
@@ -1714,31 +1714,31 @@ The final reconstruction, PEOc _&ast;mata_ ‘point of land, headland’ is evid
 <i>&ast;mata</i>
 </td>
 <td>
-'<span>point of land, headland; point, blade, cutting-edge (of a weapon or instrument)</span>' (<a href="../references.md#source-BiggsandClark1993">BiggsandClark1993</a>)
+'<span>point of land, headland; point, blade, cutting-edge (of a weapon or instrument)</span>' (<a href="../sources/BiggsandClark1993">BiggsandClark1993</a>)
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>mata</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>mata</i></td>
 <td>
 '<span>a point of land</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>East Futunan</td><td><i>mata</i></td>
+<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td><i>mata</i></td>
 <td>
 '<span>point of land, cape</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>mata henua </i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>mata henua </i></td>
 <td>
 '<span>western end of Rennell Island</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>mata</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>mata</i></td>
 <td>
 '<span>point of land, headland</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tuamotuan</td><td><i>mata</i></td>
+<td>Pn</td><td><a href="../languages/tuamotuan">Tuamotuan</a></td><td><i>mata</i></td>
 <td>
 '<span>point of land, headland</span>'</td>
 </tr>
@@ -1773,77 +1773,77 @@ Even quite small islands can be dominated by high peaks. While a number of peaks
 '<span>mountain, hill</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Manam</td><td><i>oro</i></td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>oro</i></td>
 <td>
 '<span>go landwards (away from the sea)</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Lamogai</td><td><i>oro</i></td>
+<td>NNG</td><td><a href="../languages/lamogai">Lamogai</a></td><td><i>oro</i></td>
 <td>
 '<span>mountain</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Sissano</td><td><i>ol</i></td>
+<td>NNG</td><td><a href="../languages/sissano">Sissano</a></td><td><i>ol</i></td>
 <td>
 '<span>mountain</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>oro-ro</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>oro-ro</i></td>
 <td>
 '<span>mountain</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Balawaia</td><td><i>ɣolo</i></td>
+<td>PT</td><td><a href="../languages/balawaia">Balawaia</a></td><td><i>ɣolo</i></td>
 <td>
 '<span>mountain</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Kilivila</td><td><i>koya</i></td>
+<td>PT</td><td><a href="../languages/kilivila">Kilivila</a></td><td><i>koya</i></td>
 <td>
 '<span>mountain</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Mono-Alu</td><td><i>olo</i></td>
+<td>MM</td><td><a href="../languages/monoalu">Mono-Alu</a></td><td><i>olo</i></td>
 <td>
 '<span>hill</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>ɣoro</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>ɣoro</i></td>
 <td>
 '<span>back country, forest-covered interior hills</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lengo</td><td><i>ɣo-ɣoro</i></td>
+<td>SES</td><td><a href="../languages/lengo">Lengo</a></td><td><i>ɣo-ɣoro</i></td>
 <td>
 '<span>mountain</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>oro</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>oro</i></td>
 <td>
 '<span>high</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kosraean</td><td><i>ɔl</i></td>
+<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td><i>ɔl</i></td>
 <td>
 '<span>mountain</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>koro</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>koro</i></td>
 <td>
 '<span>an eminence</span>'; '<span>fortified village</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>ogo</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>ogo</i></td>
 <td>
 '<span>mountain, hill, slope</span>' (<span>loss of initial k- irreg.</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>koro</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>koro</i></td>
 <td>
 '<span>fort</span>'; '<span>barrier of sand or stone against sea</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Hawaiian</td><td><i>olo</i></td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>olo</i></td>
 <td>
 '<span>hill</span>' (<span>obsolete now except in place names</span>)</td>
 </tr>
@@ -1861,62 +1861,62 @@ Even quite small islands can be dominated by high peaks. While a number of peaks
 '<span>inland mountain country, highlands interior</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Kia</td><td><i>soloso</i></td>
+<td>MM</td><td><a href="../languages/kia">Kia</a></td><td><i>soloso</i></td>
 <td>
 '<span>mountainous interior, bush</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Marovo</td><td><i>soloso</i></td>
+<td>MM</td><td><a href="../languages/marovo">Marovo</a></td><td><i>soloso</i></td>
 <td>
 '<span>remote interior of large islands; the world</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Roviana</td><td><i>soloso</i></td>
+<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td><i>soloso</i></td>
 <td>
 '<span>inland, away from the beach</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Tolo</td><td><i>solo</i></td>
+<td>SES</td><td><a href="../languages/tolo">Tolo</a></td><td><i>solo</i></td>
 <td>
 '<span>isolated areas in the middle of the island (Guadalcanal), the middle of the bush</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>tolo</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>tolo</i></td>
 <td>
 '<span>mountain, hill country, interior of island; land</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Kwaio</td><td><i>tolo</i></td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>tolo</i></td>
 <td>
 '<span>mountains, mountainous</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>tolo</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>tolo</i></td>
 <td>
 '<span>hill</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>toro</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>toro</i></td>
 <td>
 '<span>a hill (rare use); the interior, inland country of the hills</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Marshallese</td><td><i>tɔḷʷ</i></td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>tɔḷʷ</i></td>
 <td>
 '<span>mountain</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Ponapean</td><td><i>tōl</i></td>
+<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td><i>tōl</i></td>
 <td>
 '<span>small mountain</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>ðolo</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>ðolo</i></td>
 <td>
 '<span>highland country</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>ðolo</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>ðolo</i></td>
 <td>
 '<span>inland country, mountain country</span>'</td>
 </tr>
@@ -1934,17 +1934,17 @@ Even quite small islands can be dominated by high peaks. While a number of peaks
 '<span>mountain</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Sursurunga</td><td><i>puŋ-puŋ</i></td>
+<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td><i>puŋ-puŋ</i></td>
 <td>
 '<span>mountain</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Ulawa</td><td><i>huŋa-huŋa(ʔa)</i></td>
+<td>SES</td><td><a href="../languages/ulawa">Ulawa</a></td><td><i>huŋa-huŋa(ʔa)</i></td>
 <td>
 '<span>mound, hillock</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>huŋa-huŋa</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>huŋa-huŋa</i></td>
 <td>
 '<span>hill, mountain</span>'</td>
 </tr>
@@ -1957,17 +1957,17 @@ Even quite small islands can be dominated by high peaks. While a number of peaks
 '<span>upper surface</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>fuŋa</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>fuŋa</i></td>
 <td>
 '<span>surface, top</span>' (<span>e.g. <em>fuŋavai</em> ‘surface of water’</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>fuŋa</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>fuŋa</i></td>
 <td>
 '<span>top, upper surface</span>' (<span>e.g. <em>fuŋavaka</em> ‘deck of boat’</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td>Anutan</td><td><i>puŋa(penua)</i></td>
+<td>Pn</td><td><a href="../languages/anutan">Anutan</a></td><td><i>puŋa(penua)</i></td>
 <td>
 '<span>summit; the highest point of an island</span>'</td>
 </tr>
@@ -1985,7 +1985,7 @@ Even quite small islands can be dominated by high peaks. While a number of peaks
 <i>&ast;buku</i>
 </td>
 <td>
-'<span>node (as in bamboo or sugarcane); joint; knuckle; knot in wood, string or rope</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>; <a href="../references.md#source-Dempwolff1938">Dempwolff1938</a>)
+'<span>node (as in bamboo or sugarcane); joint; knuckle; knot in wood, string or rope</span>' (<a href="../sources/Blust1995">Blust1995</a>; <a href="../sources/Dempwolff1938">Dempwolff1938</a>)
 </td>
 </tr>
 <tr>
@@ -1997,77 +1997,77 @@ Even quite small islands can be dominated by high peaks. While a number of peaks
 '<span>mound, knob, joint; hill (?)</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Manam</td><td><i>buku</i></td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>buku</i></td>
 <td>
 '<span>mountain; knuckle</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Wogeo</td><td><i>buku</i></td>
+<td>NNG</td><td><a href="../languages/wogeo">Wogeo</a></td><td><i>buku</i></td>
 <td>
 '<span>knee</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Mangap</td><td><i>bukū-nu</i></td>
+<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td><i>bukū-nu</i></td>
 <td>
 '<span>knob, joint, hump</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Gedaged</td><td><i>buku-n</i></td>
+<td>NNG</td><td><a href="../languages/gedaged">Gedaged</a></td><td><i>buku-n</i></td>
 <td>
 '<span>knot, on tree or cord</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Notsi</td><td><i>buk</i></td>
+<td>MM</td><td><a href="../languages/notsi">Notsi</a></td><td><i>buk</i></td>
 <td>
 '<span>mountain</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Patpatar</td><td><i>buku</i></td>
+<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td><i>buku</i></td>
 <td>
 '<span>knee</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nakanai</td><td><i>buku</i></td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>buku</i></td>
 <td>
 [V] '<span>swell</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nakanai</td><td><i>bu-buku</i></td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>bu-buku</i></td>
 <td>
 '<span>knot in a tree</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Minigir</td><td><i>buku-buku</i></td>
+<td>MM</td><td><a href="../languages/minigir">Minigir</a></td><td><i>buku-buku</i></td>
 <td>
 '<span>elbow, knee</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Siar</td><td><i>buk</i></td>
+<td>MM</td><td><a href="../languages/siar">Siar</a></td><td><i>buk</i></td>
 <td>
 '<span>elbow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tolai</td><td><i>buk</i></td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>buk</i></td>
 <td>
 '<span>boil, lump, corner</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Nêlêmwâ</td><td><i>bū-</i></td>
+<td>NCal</td><td><a href="../languages/nelemwa">Nêlêmwâ</a></td><td><i>bū-</i></td>
 <td>
 '<span>mound, hillock</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>buku</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>buku</i></td>
 <td>
 '<span>anything knotted or humped</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>puku-puku</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>puku-puku</i></td>
 <td>
 '<span>rounded, blunt-headed</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Hawaiian</td><td><i>puʔu</i></td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>puʔu</i></td>
 <td>
 '<span>any kind of protuberance, from a pimple to a hill</span>'</td>
 </tr>
@@ -2087,67 +2087,67 @@ Reflexes of _&ast;pʷotu_ refer consistently to ‘mountain’ only in MM langua
 '<span>protuberance, bulge; mountain(?)</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Bali-Vitu</td><td><i>potu</i></td>
+<td>MM</td><td><a href="../languages/balivitu">Bali-Vitu</a></td><td><i>potu</i></td>
 <td>
 '<span>mountain</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Lavongai</td><td><i>put</i></td>
+<td>MM</td><td><a href="../languages/lavongai">Lavongai</a></td><td><i>put</i></td>
 <td>
 '<span>mountain</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tigak</td><td><i>put</i></td>
+<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td><i>put</i></td>
 <td>
 '<span>mountain</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Kara (West)</td><td><i>fut</i></td>
+<td>MM</td><td><a href="../languages/karawest">Kara (West)</a></td><td><i>fut</i></td>
 <td>
 '<span>mountain</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nalik</td><td><i>fut</i></td>
+<td>MM</td><td><a href="../languages/nalik">Nalik</a></td><td><i>fut</i></td>
 <td>
 '<span>mountain</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tabar</td><td><i>potu</i></td>
+<td>MM</td><td><a href="../languages/tabar">Tabar</a></td><td><i>potu</i></td>
 <td>
 '<span>mountain</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Lihir</td><td><i>pot-pot</i></td>
+<td>MM</td><td><a href="../languages/lihir">Lihir</a></td><td><i>pot-pot</i></td>
 <td>
 '<span>mountain</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Madak</td><td><i>put</i></td>
+<td>MM</td><td><a href="../languages/madak">Madak</a></td><td><i>put</i></td>
 <td>
 '<span>mountain</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Marovo</td><td><i>botu</i></td>
+<td>MM</td><td><a href="../languages/marovo">Marovo</a></td><td><i>botu</i></td>
 <td>
 '<span>hill, top of hill</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Roviana</td><td><i>botu-botu</i></td>
+<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td><i>botu-botu</i></td>
 <td>
 '<span>mounds for planting yams; hillocks</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>pou-potu</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>pou-potu</i></td>
 <td>
 '<span>bulge, swell</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>pou-pou</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>pou-pou</i></td>
 <td>
 '<span>round object; knot of bowstring, knot in wood</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Anejom</td><td><i>(no)pte-</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>(no)pte-</i></td>
 <td>
 '<span>node (bamboo, sugarcane)</span>'</td>
 </tr>
@@ -2164,46 +2164,46 @@ In Polynesia the typical term for mountain is a reflex of _&ast;maquŋa_.
 <i>&ast;maquŋa</i>
 </td>
 <td>
-'<span>mountain</span>' (<a href="../references.md#source-BiggsandClark1993">BiggsandClark1993</a>)
+'<span>mountain</span>' (<a href="../sources/BiggsandClark1993">BiggsandClark1993</a>)
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>mouŋa</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>mouŋa</i></td>
 <td>
 '<span>mountain</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>maʔuŋa</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>maʔuŋa</i></td>
 <td>
 '<span>hill, residence</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>moʔuŋa</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>moʔuŋa</i></td>
 <td>
 '<span>hill, mountain</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>East Futunan</td><td><i>maʔuŋa</i></td>
+<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td><i>maʔuŋa</i></td>
 <td>
 '<span>mountain</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>mauŋa</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>mauŋa</i></td>
 <td>
 '<span>hill, mountain</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>mauŋa</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>mauŋa</i></td>
 <td>
 '<span>hill, mountain peak</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>mauŋa</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>mauŋa</i></td>
 <td>
 '<span>mountain</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Hawaiian</td><td><i>mauna</i></td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>mauna</i></td>
 <td>
 '<span>mountain</span>'</td>
 </tr>
@@ -2226,12 +2226,12 @@ Note also the following PEOc reconstruction:
 '<span>headland, mountain peak</span>' (<span>POc <em>qulu ‘head’, ni ‘of’, </em>panua ‘land’</span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td>Trukese</td><td><i>wɨɾɨ-ɾ fəɾɨ </i></td>
+<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td><i>wɨɾɨ-ɾ fəɾɨ </i></td>
 <td>
 '<span>cape, point (of an island)</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>ulu ni vanua </i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>ulu ni vanua </i></td>
 <td>
 '<span>mountain</span>'</td>
 </tr>
@@ -2248,36 +2248,36 @@ A compound term for mountain ridge (‘back’ + ‘bone’) is reconstructable 
 <i>&ast;tuqa-siwi</i>
 </td>
 <td>
-'<span>mountain ridge</span>' (<a href="../references.md#source-BiggsandClark1993">BiggsandClark1993</a>)
+'<span>mountain ridge</span>' (<a href="../sources/BiggsandClark1993">BiggsandClark1993</a>)
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>tuʔa-hivi</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>tuʔa-hivi</i></td>
 <td>
 '<span>ridge</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>tuʔa-sivi</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>tuʔa-sivi</i></td>
 <td>
 '<span>coastal ridge, mountain ridge; backbone</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>tua-sivi</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>tua-sivi</i></td>
 <td>
 '<span>ridge (of backbone, chain of hills etc.)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tokelauan</td><td><i>tua-hivi</i></td>
+<td>Pn</td><td><a href="../languages/tokelauan">Tokelauan</a></td><td><i>tua-hivi</i></td>
 <td>
 '<span>ridge (of mountain, house etc)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>tua-hiwi</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>tua-hiwi</i></td>
 <td>
 '<span>ridge of a hill, rising ground</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Hawaiian</td><td><i>kua-hiwi</i></td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>kua-hiwi</i></td>
 <td>
 '<span>mountain, high hill</span>'</td>
 </tr>
@@ -2303,42 +2303,42 @@ We have included two POc reconstructions glossed ‘valley’, although the seco
 '<span>valley, ravine</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Mussau</td><td><i>mala(le)</i></td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>mala(le)</i></td>
 <td>
 '<span>valley</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Takia</td><td><i>mal(paon)</i></td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>mal(paon)</i></td>
 <td>
 '<span>cliff</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Ramoaaina</td><td><i>mala</i></td>
+<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>mala</i></td>
 <td>
 '<span>valley, gorge, gully, ravine</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tolai</td><td><i>male</i></td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>male</i></td>
 <td>
 '<span>valley</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Babatana</td><td><i>mala(ku)</i></td>
+<td>MM</td><td><a href="../languages/babatana">Babatana</a></td><td><i>mala(ku)</i></td>
 <td>
 '<span>valley</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>mara(rohiana)</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>mara(rohiana)</i></td>
 <td>
 '<span>narrow waterless pass, ravine, valley between high hills</span>' (<span><em>rohi</em> ‘groove’</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>mara(wai)</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>mara(wai)</i></td>
 <td>
 '<span>river course, valley</span>' (<span><em>wai</em> ‘water, river’</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>mara(gohu-gohu)</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>mara(gohu-gohu)</i></td>
 <td>
 '<span>slopes of a river valley</span>' (<span><em>gohu</em> ‘river flat, lower valley’</span>)</td>
 </tr>
@@ -2356,12 +2356,12 @@ We have included two POc reconstructions glossed ‘valley’, although the seco
 '<span>valley</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Patpatar</td><td><i>salil</i></td>
+<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td><i>salil</i></td>
 <td>
 '<span>valley</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>'Are'are</td><td><i>tari</i></td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>tari</i></td>
 <td>
 '<span>valley</span>'</td>
 </tr>
@@ -2400,32 +2400,32 @@ We have one POc reconstruction for ‘cliff’. Two further reconstructions are 
 '<span>steep rocky ground, cliff</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Lou</td><td><i>pʷak</i></td>
+<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td><i>pʷak</i></td>
 <td>
 '<span>cave</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Buang</td><td><i>pkɛ</i></td>
+<td>NNG</td><td><a href="../languages/buang">Buang</a></td><td><i>pkɛ</i></td>
 <td>
 '<span>cliff; a steep rocky place</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Bariai</td><td><i>per-per</i></td>
+<td>NNG</td><td><a href="../languages/bariai">Bariai</a></td><td><i>per-per</i></td>
 <td>
 '<span>cliff</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Molima</td><td><i>vakala</i></td>
+<td>PT</td><td><a href="../languages/molima">Molima</a></td><td><i>vakala</i></td>
 <td>
 '<span>steep rocky ground, cliff</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>haga-haga</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>haga-haga</i></td>
 <td>
 '<span>cliff</span>' (<span>g for exp. ɣ</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td>Patpatar</td><td><i>par-para</i></td>
+<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td><i>par-para</i></td>
 <td>
 '<span>cliff</span>'</td>
 </tr>
@@ -2443,7 +2443,7 @@ We have one POc reconstruction for ‘cliff’. Two further reconstructions are 
 '<span>coastal cliff</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>bari (ni vatu)</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>bari (ni vatu)</i></td>
 <td>
 '<span>(rock) cliff, precipice</span>'</td>
 </tr>
@@ -2456,22 +2456,22 @@ We have one POc reconstruction for ‘cliff’. Two further reconstructions are 
 '<span>cliff</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rarotongan</td><td><i>pari</i></td>
+<td>Pn</td><td><a href="../languages/rarotongan">Rarotongan</a></td><td><i>pari</i></td>
 <td>
 '<span>cliff</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tahitian</td><td><i>pari</i></td>
+<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td><i>pari</i></td>
 <td>
 '<span>cliff overhanging sea</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>pari</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>pari</i></td>
 <td>
 '<span>cliff</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Hawaiian</td><td><i>pali</i></td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>pali</i></td>
 <td>
 '<span>cliff</span>'</td>
 </tr>
@@ -2486,51 +2486,51 @@ We have one POc reconstruction for ‘cliff’. Two further reconstructions are 
 <i>&ast;mato</i>
 </td>
 <td>
-'<span>precipice, steep place, cliff</span>' (<a href="../references.md#source-BiggsandClark1993">BiggsandClark1993</a>)
+'<span>precipice, steep place, cliff</span>' (<a href="../sources/BiggsandClark1993">BiggsandClark1993</a>)
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>mato</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>mato</i></td>
 <td>
 '<span>precipice, cliff face</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>mato</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>mato</i></td>
 <td>
 '<span>deep narrow gorge, inland precipice</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>East Uvean</td><td><i>mato</i></td>
+<td>Pn</td><td><a href="../languages/eastuvean">East Uvean</a></td><td><i>mato</i></td>
 <td>
 '<span>very steep slope</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>mato</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>mato</i></td>
 <td>
 '<span>cliff, rock face</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rarotongan</td><td><i>mato</i></td>
+<td>Pn</td><td><a href="../languages/rarotongan">Rarotongan</a></td><td><i>mato</i></td>
 <td>
 '<span>cliff, face of a precipice</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tuamotuan</td><td><i>mato</i></td>
+<td>Pn</td><td><a href="../languages/tuamotuan">Tuamotuan</a></td><td><i>mato</i></td>
 <td>
 '<span>steep, precipitous, a cliff</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Anutan</td><td><i>mato</i></td>
+<td>Pn</td><td><a href="../languages/anutan">Anutan</a></td><td><i>mato</i></td>
 <td>
 '<span>cliff</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tahitian</td><td><i>mato</i></td>
+<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td><i>mato</i></td>
 <td>
 '<span>a craggy rock or precipice</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>mato</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>mato</i></td>
 <td>
 '<span>deep valley</span>'</td>
 </tr>
@@ -2556,32 +2556,32 @@ Although terms exist in many languages for cave, we have no evidence of cognacy 
 '<span>cave</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>ʔana</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>ʔana</i></td>
 <td>
 '<span>cave, cavern, den</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>ana</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>ana</i></td>
 <td>
 '<span>cave, den</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>ana</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>ana</i></td>
 <td>
 '<span>cave</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>ʔana</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>ʔana</i></td>
 <td>
 '<span>cave</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>ana</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>ana</i></td>
 <td>
 '<span>cave, rock shelter</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tahitian</td><td><i>ana</i></td>
+<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td><i>ana</i></td>
 <td>
 '<span>cave</span>'</td>
 </tr>
@@ -2610,22 +2610,22 @@ Almost every language for which we have extensive lexical data has a term meanin
 '<span>flat land</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Bwaidoga</td><td><i>(awa)lau</i></td>
+<td>PT</td><td><a href="../languages/bwaidoga">Bwaidoga</a></td><td><i>(awa)lau</i></td>
 <td>
 '<span>flat area; plain (where the airstrip is); (any) flat area in the mountains as well as on the coast</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Bwaidoga</td><td><i>lau(beù)</i></td>
+<td>PT</td><td><a href="../languages/bwaidoga">Bwaidoga</a></td><td><i>lau(beù)</i></td>
 <td>
 '<span>flat land, plain (used of town)</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Bwaidoga</td><td><i>lau(beùmanata)</i></td>
+<td>PT</td><td><a href="../languages/bwaidoga">Bwaidoga</a></td><td><i>lau(beùmanata)</i></td>
 <td>
 '<span>flat area without any mountains</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Bwaidoga</td><td><i>lau(beùya)</i></td>
+<td>PT</td><td><a href="../languages/bwaidoga">Bwaidoga</a></td><td><i>lau(beùya)</i></td>
 <td>
 '<span>(on the) plain (of flat coastal strip)</span>'</td>
 </tr>
@@ -2646,27 +2646,27 @@ Almost every language for which we have extensive lexical data has a term meanin
 '<span>lowland</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>āu lalo</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>āu lalo</i></td>
 <td>
 '<span>low-lying land</span>' (<span>lalo ‘place lower down’</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>lau</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>lau</i></td>
 <td>
 '<span>level area of land, plain</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>lau(fanua)</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>lau(fanua)</i></td>
 <td>
 '<span>flat land</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>rau-rau</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>rau-rau</i></td>
 <td>
 '<span>flat expanse</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>rau raro</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>rau raro</i></td>
 <td>
 '<span>lowland in vicinity of shore</span>' (<span><em>lalo</em> LOC ‘down, below’</span>)</td>
 </tr>
@@ -2680,7 +2680,7 @@ Almost every language for which we have extensive lexical data has a term meanin
 ## 5. Land defined by vegetation
 
 
-The following reconstructions include terms for particular kinds of land, identified primarily by vegetation. POc &ast;nuku ‘sandy ground’ may also be included here (see §3.1 for cognate set)
+The following reconstructions include terms for particular kinds of land, identified primarily by vegetation. POc &ast;nuku ‘sandy ground’ may also be included here (see [§3.1](../contributions/2-3#s-3-1) for cognate set)
 
 
 <a id="s-5-1"></a>
@@ -2697,7 +2697,7 @@ The three following cognate sets are repeated from vol. 1, pp.118–119.
 <i>&ast;quCaN</i>
 </td>
 <td>
-'<span>scrubland, bush</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>scrubland, bush</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -2717,92 +2717,92 @@ The three following cognate sets are repeated from vol. 1, pp.118–119.
 '<span>bushland, hinterland</span>' (<span>vol. 1, p.118</span>)</td>
 </tr>
 <tr>
-<td>Adm</td><td>Mussau</td><td><i>utana</i></td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>utana</i></td>
 <td>
 '<span>garden</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Manam</td><td><i>(a)uta</i></td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>(a)uta</i></td>
 <td>
 '<span>inland</span>' (<span>&lt; POc <em>*qa-qutan</em></span>)</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>uda</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>uda</i></td>
 <td>
 '<span>bush, forest</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Bwaidoga</td><td><i>ɣudana</i></td>
+<td>PT</td><td><a href="../languages/bwaidoga">Bwaidoga</a></td><td><i>ɣudana</i></td>
 <td>
 '<span>forest</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Misima</td><td><i>ulan</i></td>
+<td>PT</td><td><a href="../languages/misima">Misima</a></td><td><i>ulan</i></td>
 <td>
 '<span>forest</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nakanai</td><td><i>huta-huta</i></td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>huta-huta</i></td>
 <td>
 '<span>general term for small plants and leaves; trash</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Tolo</td><td><i>uta</i></td>
+<td>SES</td><td><a href="../languages/tolo">Tolo</a></td><td><i>uta</i></td>
 <td>
 '<span>garden</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>uta</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>uta</i></td>
 <td>
 '<span>bush, forest, unoccupied land; the inland country</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Nguna</td><td><i>uta</i></td>
+<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td><i>uta</i></td>
 <td>
 '<span>inland</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>S.E. Ambrym</td><td><i>ut</i></td>
+<td>NCV</td><td><a href="../languages/seambrym">S.E. Ambrym</a></td><td><i>ut</i></td>
 <td>
 '<span>place, area, land, shore, island, homeland, weather</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Paamese</td><td><i>ut</i></td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>ut</i></td>
 <td>
 '<span>shore, when contrasted with sea</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Nemi</td><td><i>kuc</i></td>
+<td>NCal</td><td><a href="../languages/nemi">Nemi</a></td><td><i>kuc</i></td>
 <td>
 '<span>forest</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kosraean</td><td><i>wʌt</i></td>
+<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td><i>wʌt</i></td>
 <td>
 '<span>area inland or towards the mountains</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Rotuman</td><td><i>ufa</i></td>
+<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td><i>ufa</i></td>
 <td>
 '<span>land (from the sea); interior (from the coast)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>ʔuta</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>ʔuta</i></td>
 <td>
 '<span>land (not sea); interior or inland (not coast)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>uta</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>uta</i></td>
 <td>
 '<span>inland, shore, ashore</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>uta</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>uta</i></td>
 <td>
 '<span>ashore; on the side towards the land</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>uta</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>uta</i></td>
 <td>
 '<span>inland area</span>'</td>
 </tr>
@@ -2810,7 +2810,7 @@ The three following cognate sets are repeated from vol. 1, pp.118–119.
 
 
 
-The Mussau and Tolo reflexes mean ‘garden’: this change of meaning is probably due to the fact that, in Melanesia, gardens are often remote from the village and surrounded by bushland, so that to go to the garden is to go into the bush. POc &ast;qutan was also a local noun for the direction of the bush, namely ‘inland’ (Ch.8, §2.2.1).
+The Mussau and Tolo reflexes mean ‘garden’: this change of meaning is probably due to the fact that, in Melanesia, gardens are often remote from the village and surrounded by bushland, so that to go to the garden is to go into the bush. POc &ast;qutan was also a local noun for the direction of the bush, namely ‘inland’ ([Ch.8, §2.2.1](../contributions/2-8#s-2-2-1)).
 
 
 <a id="p-55"></a>
@@ -2825,32 +2825,32 @@ The Mussau and Tolo reflexes mean ‘garden’: this change of meaning is probab
 '<span>forest, bushland, scrub, land in its natural uncultivated state</span>' (<span>vol. 1, p.119</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>ao</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>ao</i></td>
 <td>
 [N] '<span>forest, land never brought under cultivation</span>'; [V] '<span>be overgrown, become forest</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Rotuman</td><td><i>vao</i></td>
+<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td><i>vao</i></td>
 <td>
 '<span>forest, large number of trees or big plants growing together</span>' (<span>poss. Pn loan</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>vao</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>vao</i></td>
 <td>
 '<span>forest, bushland, scrub, land in its natural uncultivated state</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>vao</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>vao</i></td>
 <td>
 [N] '<span>bush, forest; weeds; tall grass</span>'; [ADJ] '<span>of the forest, wild</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tahitian</td><td><i>vao</i></td>
+<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td><i>vao</i></td>
 <td>
 '<span>wilds, wilderness</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>wao</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>wao</i></td>
 <td>
 '<span>forest</span>'</td>
 </tr>
@@ -2869,7 +2869,7 @@ The next POc reconstruction contrasts with _&ast;quma_ ‘garden, cultivated lan
 <i>&ast;talun</i>
 </td>
 <td>
-'<span>fallow land</span>' (<a href="../references.md#source-Dempwolff1938">Dempwolff1938</a>)
+'<span>fallow land</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
 </td>
 </tr>
 <tr>
@@ -2881,32 +2881,32 @@ The next POc reconstruction contrasts with _&ast;quma_ ‘garden, cultivated lan
 '<span>old garden, fallow land, land returning to secondary growth</span>' (<span>vol. 1, p.118</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>talu</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>talu</i></td>
 <td>
 '<span>forest land which has been previously cultivated</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Kwaio</td><td><i>alu</i></td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>alu</i></td>
 <td>
 '<span>garden of second or third crop</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Kwaio</td><td><i>alu (sīsī)</i></td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>alu (sīsī)</i></td>
 <td>
 '<span>an old garden plot returning to secondary growth, beginning to be overgrown</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>alu</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>alu</i></td>
 <td>
 '<span>garden ground, last year’s garden</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>elu</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>elu</i></td>
 <td>
 '<span>last year’s yam garden</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>aru</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>aru</i></td>
 <td>
 '<span>an overgrown garden; land formerly used for a garden; a dug garden</span>'</td>
 </tr>
@@ -2919,32 +2919,32 @@ The next POc reconstruction contrasts with _&ast;quma_ ‘garden, cultivated lan
 '<span>weeds, fallow</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>talu-talu</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>talu-talu</i></td>
 <td>
 '<span>land out of cultivation</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>tagu-tagu</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>tagu-tagu</i></td>
 <td>
 '<span>begin to be brush-covered, of a fallow garden</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>talu-talu</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>talu-talu</i></td>
 <td>
 '<span>fresh growth of weeds</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>taru-taru</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>taru-taru</i></td>
 <td>
 '<span>cultivation plot</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>taru-taru</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>taru-taru</i></td>
 <td>
 '<span>weeds, herbs</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Hawaiian</td><td><i>kalu-kalu</i></td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>kalu-kalu</i></td>
 <td>
 '<span>k.o. fern</span>'</td>
 </tr>
@@ -2970,7 +2970,7 @@ A number of reconstructions are loosely glossed ‘swamp’. In wordlists these 
 <i>&ast;danaw</i>
 </td>
 <td>
-'<span>inland lake, pond</span>' (<a href="../references.md#source-Blust1999">Blust1999</a>)
+'<span>inland lake, pond</span>' (<a href="../sources/Blust1999">Blust1999</a>)
 </td>
 </tr>
 <tr>
@@ -2982,67 +2982,67 @@ A number of reconstructions are loosely glossed ‘swamp’. In wordlists these 
 '<span>lake, swamp</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Bam</td><td><i>dano</i></td>
+<td>NNG</td><td><a href="../languages/bam">Bam</a></td><td><i>dano</i></td>
 <td>
 '<span>lagoon</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Kia</td><td><i>rano</i></td>
+<td>MM</td><td><a href="../languages/kia">Kia</a></td><td><i>rano</i></td>
 <td>
 '<span>swamp</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>'Are'are</td><td><i>ro-rono</i></td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>ro-rono</i></td>
 <td>
 '<span>mangrove swamp</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Nemi</td><td><i>dan</i></td>
+<td>NCal</td><td><a href="../languages/nemi">Nemi</a></td><td><i>dan</i></td>
 <td>
 '<span>lake, pond</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Xârâcùù</td><td><i>ne-dɛ̃</i></td>
+<td>NCal</td><td><a href="../languages/xaracuu">Xârâcùù</a></td><td><i>ne-dɛ̃</i></td>
 <td>
 '<span>lake, marsh</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Woleaian</td><td><i>ẓano</i></td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>ẓano</i></td>
 <td>
 '<span>lake, large swamp</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Rotuman</td><td><i>rano</i></td>
+<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td><i>rano</i></td>
 <td>
 '<span>swamp, marsh</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>drano</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>drano</i></td>
 <td>
 '<span>lake, freshwater swamp</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>drano</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>drano</i></td>
 <td>
 '<span>lake, pond</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>gano</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>gano</i></td>
 <td>
 '<span>lake</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>lano</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>lano</i></td>
 <td>
 '<span>lake</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rapanui</td><td><i>rano</i></td>
+<td>Pn</td><td><a href="../languages/rapanui">Rapanui</a></td><td><i>rano</i></td>
 <td>
 '<span>swamp</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Mangareva</td><td><i>rano</i></td>
+<td>Pn</td><td><a href="../languages/mangareva">Mangareva</a></td><td><i>rano</i></td>
 <td>
 '<span>swamp</span>'</td>
 </tr>
@@ -3057,7 +3057,7 @@ A number of reconstructions are loosely glossed ‘swamp’. In wordlists these 
 <i>&ast;paja</i>
 </td>
 <td>
-'<span>swamp</span>' (<a href="../references.md#source-Dempwolff1938">Dempwolff1938</a>)
+'<span>swamp</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
 </td>
 </tr>
 <tr>
@@ -3069,22 +3069,22 @@ A number of reconstructions are loosely glossed ‘swamp’. In wordlists these 
 '<span>swamp</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Kilivila</td><td><i>pasa</i></td>
+<td>PT</td><td><a href="../languages/kilivila">Kilivila</a></td><td><i>pasa</i></td>
 <td>
 '<span>mangrove swamp</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Sursurunga</td><td><i>pesa</i></td>
+<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td><i>pesa</i></td>
 <td>
 '<span>swamp</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Marshallese</td><td><i>pat</i></td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>pat</i></td>
 <td>
 '<span>swamp</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Puluwatese</td><td><i>pāt, pata-</i></td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>pāt, pata-</i></td>
 <td>
 '<span>swamp</span>'</td>
 </tr>
@@ -3107,57 +3107,57 @@ The next term is reconstructable in two forms, as either _&ast;gopu_ or _&ast;ko
 '<span>pond, lagoon, swamp</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Hula</td><td><i>kovu</i></td>
+<td>PT</td><td><a href="../languages/hula">Hula</a></td><td><i>kovu</i></td>
 <td>
 '<span>pond, lake</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>gohu</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>gohu</i></td>
 <td>
 '<span>lake, lagoon</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Roro</td><td><i>obu</i></td>
+<td>PT</td><td><a href="../languages/roro">Roro</a></td><td><i>obu</i></td>
 <td>
 '<span>lagoon, pond</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Lala</td><td><i>ovu</i></td>
+<td>PT</td><td><a href="../languages/lala">Lala</a></td><td><i>ovu</i></td>
 <td>
 '<span>swamp</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Teop</td><td><i>kopu(a)</i></td>
+<td>MM</td><td><a href="../languages/teop">Teop</a></td><td><i>kopu(a)</i></td>
 <td>
 '<span>deep</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Solos</td><td><i>kopu-kopu</i></td>
+<td>MM</td><td><a href="../languages/solos">Solos</a></td><td><i>kopu-kopu</i></td>
 <td>
 '<span>lagoon</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Marovo</td><td><i>kopi</i></td>
+<td>MM</td><td><a href="../languages/marovo">Marovo</a></td><td><i>kopi</i></td>
 <td>
 '<span>lake, pool (any size)</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Roviana</td><td><i>kopi</i></td>
+<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td><i>kopi</i></td>
 <td>
 '<span>pond, lake</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>ʔofu</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>ʔofu</i></td>
 <td>
 '<span>brackish water</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>'Are'are</td><td><i>(a)kohu</i></td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>(a)kohu</i></td>
 <td>
 '<span>swamp, swampy ground</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>gohu</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>gohu</i></td>
 <td>
 '<span>river flat, lower valley; flat between coast and hills</span>'</td>
 </tr>
@@ -3184,7 +3184,7 @@ In the next two sets, emphasis is perhaps on the mud itself rather than on a mud
 <i>&ast;pitak</i>
 </td>
 <td>
-'<span>mud</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>mud</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -3196,22 +3196,22 @@ In the next two sets, emphasis is perhaps on the mud itself rather than on a mud
 '<span>mud</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Lou</td><td><i>pʷi-pʷire</i></td>
+<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td><i>pʷi-pʷire</i></td>
 <td>
 '<span>mud, swamp</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Wedau</td><td><i>biɣa-biɣa</i></td>
+<td>PT</td><td><a href="../languages/wedau">Wedau</a></td><td><i>biɣa-biɣa</i></td>
 <td>
 '<span>swamp, mud</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nakanai</td><td><i>pita</i></td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>pita</i></td>
 <td>
 '<span>mud</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>pʷī-pʷī</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>pʷī-pʷī</i></td>
 <td>
 '<span>mud, slush</span>'</td>
 </tr>
@@ -3229,32 +3229,32 @@ In the next two sets, emphasis is perhaps on the mud itself rather than on a mud
 '<span>swamp, mud</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Seimat</td><td><i>pona-pon</i></td>
+<td>Adm</td><td><a href="../languages/seimat">Seimat</a></td><td><i>pona-pon</i></td>
 <td>
 '<span>bog, esp. sago swamp</span>' (<span>Smythe</span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kove</td><td><i>paŋa-paŋa</i></td>
+<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td><i>paŋa-paŋa</i></td>
 <td>
 '<span>swamp, mud</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Lusi</td><td><i>paŋ-paŋa</i></td>
+<td>NNG</td><td><a href="../languages/lusi">Lusi</a></td><td><i>paŋ-paŋa</i></td>
 <td>
 '<span>swamp, mud</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kilenge</td><td><i>pa-paŋa</i></td>
+<td>NNG</td><td><a href="../languages/kilenge">Kilenge</a></td><td><i>pa-paŋa</i></td>
 <td>
 '<span>swamp, mud</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Bariai</td><td><i>paŋa-paŋa</i></td>
+<td>NNG</td><td><a href="../languages/bariai">Bariai</a></td><td><i>paŋa-paŋa</i></td>
 <td>
 '<span>mud</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>'Are'are</td><td><i>pona</i></td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>pona</i></td>
 <td>
 '<span>swamp, swampy ground</span>'</td>
 </tr>
@@ -3274,52 +3274,52 @@ The final two reconstructed forms in this section probably referred to wet taro 
 '<span>taro swamp</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Kwaio</td><td><i>gʷele-gʷele(na)</i></td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>gʷele-gʷele(na)</i></td>
 <td>
 '<span>bottom of taro corm</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>bʷera</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>bʷera</i></td>
 <td>
 '<span>swamp</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Cèmuhî</td><td><i>bʷɛ̄lɛ̄</i></td>
+<td>NCal</td><td><a href="../languages/cemuhi">Cèmuhî</a></td><td><i>bʷɛ̄lɛ̄</i></td>
 <td>
 '<span>irrigated taro field</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Pwapwa</td><td><i>gʷala</i></td>
+<td>NCal</td><td><a href="../languages/pwapwa">Pwapwa</a></td><td><i>gʷala</i></td>
 <td>
 '<span>irrigated taro field</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Mokilese</td><td><i>pʷɛl</i></td>
+<td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td><i>pʷɛl</i></td>
 <td>
 '<span>taro swamp</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Puluwatese</td><td><i>pʷə̄l</i></td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>pʷə̄l</i></td>
 <td>
 '<span>swamp garden</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Ponapean</td><td><i>(lɛ̄)pʷɛl</i></td>
+<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td><i>(lɛ̄)pʷɛl</i></td>
 <td>
 '<span>taro patch, bog; large swamp</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>pega</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>pega</i></td>
 <td>
 '<span>mud, mud puddle, swamp</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>pera</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>pera</i></td>
 <td>
 '<span>mud; swampy lake shore land in which taro planted</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>West Futunan</td><td><i>pera</i></td>
+<td>Pn</td><td><a href="../languages/westfutunan">West Futunan</a></td><td><i>pera</i></td>
 <td>
 '<span>mud, mire</span>'</td>
 </tr>
@@ -3340,27 +3340,27 @@ The final two reconstructed forms in this section probably referred to wet taro 
 '<span>swamp; taro swamp</span>' (<span>see vol. 1, p.139</span>)</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>vuði</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>vuði</i></td>
 <td>
 '<span>taro garden under wet cultivation</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>husi</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>husi</i></td>
 <td>
 '<span>swamp, esp. wet-land taro patch</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>(tau)fusi</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>(tau)fusi</i></td>
 <td>
 '<span>swamp, marsh; patch of ground irrigated for purpose of growing taro</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>East Futunan</td><td><i>vusi(ga)</i></td>
+<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td><i>vusi(ga)</i></td>
 <td>
 '<span>pondfield</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>hūhi</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>hūhi</i></td>
 <td>
 [N] '<span>swamp</span>'</td>
 </tr>
@@ -3400,147 +3400,147 @@ In POc a single word, _&ast;waiR_, evidently denoted both ‘fresh water’ and 
 '<span>fresh water; river, stream</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Lou</td><td><i>wei</i></td>
+<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td><i>wei</i></td>
 <td>
 '<span>fresh water</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Baluan</td><td><i>wei</i></td>
+<td>Adm</td><td><a href="../languages/baluan">Baluan</a></td><td><i>wei</i></td>
 <td>
 '<span>fresh water</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Nali</td><td><i>(polo)way</i></td>
+<td>Adm</td><td><a href="../languages/nali">Nali</a></td><td><i>(polo)way</i></td>
 <td>
 '<span>river</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Likum</td><td><i>gʷay</i></td>
+<td>Adm</td><td><a href="../languages/likum">Likum</a></td><td><i>gʷay</i></td>
 <td>
 '<span>fresh water</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Likum</td><td><i>gʷway (selo)</i></td>
+<td>Adm</td><td><a href="../languages/likum">Likum</a></td><td><i>gʷway (selo)</i></td>
 <td>
 '<span>river</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Sori-Harengan</td><td><i>gay</i></td>
+<td>Adm</td><td><a href="../languages/soriharengan">Sori-Harengan</a></td><td><i>gay</i></td>
 <td>
 '<span>fresh water; river</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>(sina)vai</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>(sina)vai</i></td>
 <td>
 '<span>river</span>' (<span>lit. ‘mother of waters’; as a single word, <em>vai</em> has been replaced by <em>ranu</em> ‘water’</span>)</td>
 </tr>
 <tr>
-<td>PT</td><td>Hula</td><td><i>wai</i></td>
+<td>PT</td><td><a href="../languages/hula">Hula</a></td><td><i>wai</i></td>
 <td>
 '<span>river</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>kʷai</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>kʷai</i></td>
 <td>
 '<span>water</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Kwaio</td><td><i>kʷai</i></td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>kʷai</i></td>
 <td>
 '<span>river; water</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>'Are'are</td><td><i>wai</i></td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>wai</i></td>
 <td>
 '<span>fresh water; moisture, sap, juice; river</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>wei</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>wei</i></td>
 <td>
 '<span>fresh water; stream, river</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>wai</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>wai</i></td>
 <td>
 '<span>water</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Raga</td><td><i>wai</i></td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>wai</i></td>
 <td>
 '<span>fresh water</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Tangoa</td><td><i>wai</i></td>
+<td>NCV</td><td><a href="../languages/tangoa">Tangoa</a></td><td><i>wai</i></td>
 <td>
 '<span>water</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Paamese</td><td><i>oai</i></td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>oai</i></td>
 <td>
 '<span>fresh water</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Kwamera</td><td><i>n-ui</i></td>
+<td>SV</td><td><a href="../languages/kwamera">Kwamera</a></td><td><i>n-ui</i></td>
 <td>
 '<span>fresh water</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Anejom</td><td><i>in-wai</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>in-wai</i></td>
 <td>
 '<span>fresh water</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Nemi</td><td><i>we</i></td>
+<td>NCal</td><td><a href="../languages/nemi">Nemi</a></td><td><i>we</i></td>
 <td>
 '<span>fresh water</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Xârâcùù</td><td><i>kʷwe</i></td>
+<td>NCal</td><td><a href="../languages/xaracuu">Xârâcùù</a></td><td><i>kʷwe</i></td>
 <td>
 '<span>fresh water</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Rotuman</td><td><i>vai</i></td>
+<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td><i>vai</i></td>
 <td>
 '<span>water; natural water-hole or bathing pool; well</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>wai</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>wai</i></td>
 <td>
 '<span>water, liquid of any kind</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>vai</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>vai</i></td>
 <td>
 '<span>liquid, esp. fresh water</span>' (<span>as opposed to tahi ‘saltwater’</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>vai(tupu)</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>vai(tupu)</i></td>
 <td>
 '<span>spring, well, or water from a spring or well</span>' (<span>tupu ‘to spring up, come into existence’</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>vai</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>vai</i></td>
 <td>
 '<span>water (esp. fresh water as opposed to salt water)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>bai</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>bai</i></td>
 <td>
 '<span>water (usually fresh, although salt water found inland may be called bai, as may the lake in the centre of Rennell Island); juice, sauce, liquid</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>vai</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>vai</i></td>
 <td>
 '<span>water, esp. fresh running</span>' (<span>as opp. to <em>nupu</em> ‘pool of still water’</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>wai</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>wai</i></td>
 <td>
 '<span>water; liquid, oil, etc.</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Hawaiian</td><td><i>wai</i></td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>wai</i></td>
 <td>
 '<span>water, liquid of any kind other than sea water; juice, sap, honey; any liquid discharged from the body, as blood, semen; river, stream (in place-names)</span>'</td>
 </tr>
@@ -3560,7 +3560,7 @@ The form _&ast;dranum_ below is reflected by most witnesses, but some languages 
 <i>&ast;daNum</i>
 </td>
 <td>
-'<span>water — potable, drinking, fresh</span>' (<a href="../references.md#source-Blust1999">Blust1999</a>)
+'<span>water — potable, drinking, fresh</span>' (<a href="../sources/Blust1999">Blust1999</a>)
 </td>
 </tr>
 <tr>
@@ -3572,117 +3572,117 @@ The form _&ast;dranum_ below is reflected by most witnesses, but some languages 
 '<span>fresh water</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Lou</td><td><i>ronu-n</i></td>
+<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td><i>ronu-n</i></td>
 <td>
 '<span>juice</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Loniu</td><td><i>an</i></td>
+<td>Adm</td><td><a href="../languages/loniu">Loniu</a></td><td><i>an</i></td>
 <td>
 '<span>fresh water, lake, river</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Seimat</td><td><i>kanu</i></td>
+<td>Adm</td><td><a href="../languages/seimat">Seimat</a></td><td><i>kanu</i></td>
 <td>
 '<span>fresh water, rain water</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>ranu</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>ranu</i></td>
 <td>
 '<span>water, juice, liquid</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Sursurunga</td><td><i>dan</i></td>
+<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td><i>dan</i></td>
 <td>
 '<span>fresh water, river</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Vitu</td><td><i>dranu</i></td>
+<td>MM</td><td><a href="../languages/vitu">Vitu</a></td><td><i>dranu</i></td>
 <td>
 '<span>fresh water</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nakanai</td><td><i>lalu</i></td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>lalu</i></td>
 <td>
 '<span>fresh water</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tolai</td><td><i>danim</i></td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>danim</i></td>
 <td>
 '<span>water; river, creek, pool of fresh water</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Teop</td><td><i>ran</i></td>
+<td>MM</td><td><a href="../languages/teop">Teop</a></td><td><i>ran</i></td>
 <td>
 '<span>stream</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Halia</td><td><i>ramun</i></td>
+<td>MM</td><td><a href="../languages/halia">Halia</a></td><td><i>ramun</i></td>
 <td>
 '<span>fresh water</span>' (<span>metathesis</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td>Bugotu</td><td><i>lanu</i></td>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>lanu</i></td>
 <td>
 [V] '<span>bale</span>'; '<span>a baler</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>danu</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>danu</i></td>
 <td>
 '<span>bale out water</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Raga</td><td><i>danu</i></td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>danu</i></td>
 <td>
 '<span>brackish spring water</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Uripiv</td><td><i>dranu</i></td>
+<td>NCV</td><td><a href="../languages/uripiv">Uripiv</a></td><td><i>dranu</i></td>
 <td>
 '<span>muddy water</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Namakir</td><td><i>ran</i></td>
+<td>NCV</td><td><a href="../languages/namakir">Namakir</a></td><td><i>ran</i></td>
 <td>
 '<span>water</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Puluwatese</td><td><i>rān</i></td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>rān</i></td>
 <td>
 '<span>water, liquid of any kind, pond</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Woleaian</td><td><i>ṣarɨ</i></td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>ṣarɨ</i></td>
 <td>
 '<span>liquid, fresh water, water well, lake</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>dranu</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>dranu</i></td>
 <td>
 [V] '<span>be fresh, of water</span>' (<span>wai dranu ‘fresh water’</span>)</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>dranu</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>dranu</i></td>
 <td>
 [ADJ] '<span>fresh, pure, of water</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>lanu</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>lanu</i></td>
 <td>
 '<span>clear liquid</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>lanu</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>lanu</i></td>
 <td>
 '<span>wash in fresh water</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>ranu</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>ranu</i></td>
 <td>
 '<span>flow, of water</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tuvalu</td><td><i>lanu</i></td>
+<td>Pn</td><td><a href="../languages/tuvalu">Tuvalu</a></td><td><i>lanu</i></td>
 <td>
 '<span>amniotic fluid</span>'</td>
 </tr>
@@ -3707,22 +3707,22 @@ We have one lower-level reconstruction for a river branch.
 '<span>river branch, tributary</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>maŋa</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>maŋa</i></td>
 <td>
 '<span>V-shaped bend where a tributary meets the main stream</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kiribatese</td><td><i>mʷāŋa</i></td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>mʷāŋa</i></td>
 <td>
 '<span>branching off, branch road, limb of a tree</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>maŋa</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>maŋa</i></td>
 <td>
 [V] '<span>fork, branch out, divide</span>'; [N] '<span>branch, fork</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>maŋa</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>maŋa</i></td>
 <td>
 '<span>branch of a river</span>'</td>
 </tr>
@@ -3745,7 +3745,7 @@ For coastal dwellers, fresh water is often obtained from springs. PAn _&ast;Cebu
 <i>&ast;Cebuj</i>
 </td>
 <td>
-'<span>spring of water</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>spring of water</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -3754,7 +3754,7 @@ For coastal dwellers, fresh water is often obtained from springs. PAn _&ast;Cebu
 <i>&ast;tebuR, tubuR</i>
 </td>
 <td>
-'<span>spring of water</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>spring of water</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -3766,97 +3766,97 @@ For coastal dwellers, fresh water is often obtained from springs. PAn _&ast;Cebu
 '<span>freshwater spring on the beach, often brackish</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Minaveha</td><td><i>tovo(ha)</i></td>
+<td>PT</td><td><a href="../languages/minaveha">Minaveha</a></td><td><i>tovo(ha)</i></td>
 <td>
 '<span>spring of water</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Kia</td><td><i>futu</i></td>
+<td>MM</td><td><a href="../languages/kia">Kia</a></td><td><i>futu</i></td>
 <td>
 '<span>water spring</span>' (<span>metathesis</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>tuvu</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>tuvu</i></td>
 <td>
 '<span>a well</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>ʔufu</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>ʔufu</i></td>
 <td>
 '<span>mixed fresh and sea water in the lagoon</span>' (<span>initial glottal unexpected</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td>Kwaio</td><td><i>ufu</i></td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>ufu</i></td>
 <td>
 '<span>spring, flowing stream</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>'Are'are</td><td><i>ohu-ohu(a)</i></td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>ohu-ohu(a)</i></td>
 <td>
 '<span>brackish water</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>'Are'are</td><td><i>uhu</i></td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>uhu</i></td>
 <td>
 '<span>a backwater, brackish water; spring of fresh water on the sea shore</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>(mara)ohu</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>(mara)ohu</i></td>
 <td>
 '<span>pool with salt and fresh water mixed</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>uhu</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>uhu</i></td>
 <td>
 '<span>backwater, brackish water</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>(mara)ohu(a)</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>(mara)ohu(a)</i></td>
 <td>
 '<span>brackish, of water on shore</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>uhu</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>uhu</i></td>
 <td>
 '<span>a well dug by the shore; rivulets of salt water from reef to sea; brackish water on the reef</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>tov</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>tov</i></td>
 <td>
 '<span>spring below high water mark; the brackish water of such a spring</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>tuvu</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>tuvu</i></td>
 <td>
 [N] '<span>spring of fresh water on the beach</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>tuvu-ca</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>tuvu-ca</i></td>
 <td>
 [V] '<span>add fresh water to s.t.</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>tufu</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>tufu</i></td>
 <td>
 '<span>spring of water, esp. one on the beach</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>East Futunan</td><td><i>tufu</i></td>
+<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td><i>tufu</i></td>
 <td>
 '<span>spring of water, usually on the beach</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>tuhu</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>tuhu</i></td>
 <td>
 '<span>natural salt-water ponds connected underground with the sea</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>tufu</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>tufu</i></td>
 <td>
 '<span>pool or spring of fresh water near the shore</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>tufu</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>tufu</i></td>
 <td>
 '<span>spring of brackish water</span>'</td>
 </tr>
@@ -3876,7 +3876,7 @@ Polynesian languages have a well-attested term for ‘spring’ which continues 
 <i>&ast;punaŋ</i>
 </td>
 <td>
-'<span>source, origin</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>source, origin</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -3896,67 +3896,67 @@ Polynesian languages have a well-attested term for ‘spring’ which continues 
 [N] '<span>a spring</span>'; [V] '<span>bubble or well up (of water)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>puna</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>puna</i></td>
 <td>
 '<span>spring up, bubble up</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>puna</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>puna</i></td>
 <td>
 '<span>spurt forth</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>(vai)puna</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>(vai)puna</i></td>
 <td>
 '<span>spring of water. Used instead of <em>vaitupu</em> if the water rises up like a fountain</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>East Futunan</td><td><i>puna</i></td>
+<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td><i>puna</i></td>
 <td>
 '<span>(water) spring, spurt forth</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Pukapukan</td><td><i>puna</i></td>
+<td>Pn</td><td><a href="../languages/pukapukan">Pukapukan</a></td><td><i>puna</i></td>
 <td>
 '<span>water spring</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>puna</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>puna</i></td>
 <td>
 '<span>spring, source</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tuvalu</td><td><i>puna</i></td>
+<td>Pn</td><td><a href="../languages/tuvalu">Tuvalu</a></td><td><i>puna</i></td>
 <td>
 '<span>(water) bubble or boil</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rarotongan</td><td><i>puna</i></td>
+<td>Pn</td><td><a href="../languages/rarotongan">Rarotongan</a></td><td><i>puna</i></td>
 <td>
 '<span>spring</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tokelauan</td><td><i>puna</i></td>
+<td>Pn</td><td><a href="../languages/tokelauan">Tokelauan</a></td><td><i>puna</i></td>
 <td>
 '<span>spring</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Anutan</td><td><i>puna</i></td>
+<td>Pn</td><td><a href="../languages/anutan">Anutan</a></td><td><i>puna</i></td>
 <td>
 '<span>spring of water</span>' (<span>Yen</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>puna</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>puna</i></td>
 <td>
 '<span>spring, well up, flow</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tuamotuan</td><td><i>puna</i></td>
+<td>Pn</td><td><a href="../languages/tuamotuan">Tuamotuan</a></td><td><i>puna</i></td>
 <td>
 '<span>spring, well up, flow</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Hawaiian</td><td><i>puna</i></td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>puna</i></td>
 <td>
 '<span>spring (of water)</span>'</td>
 </tr>
@@ -3964,7 +3964,7 @@ Polynesian languages have a well-attested term for ‘spring’ which continues 
 
 
 
-The next reconstruction, in its simple form _&ast;pura(q)_, was primarily a verb ‘bubble up’. Its reduplicated form may have served as a noun denoting a spring as it does in several Southeast Solomonic witnesses and in Bauan Fijian. Among several similar forms (see Ch.4, §2.5), Blust (ACD) lists PMP _&ast;budaq_ ‘foam, bubbles, lather, scum, froth’, continued as POc _&ast;pura-puraq_ ‘foam, bubbles, bubble up’. The related forms include POc _&ast;puro_ ‘bubble up, (hot spring) boil’ (p.83).
+The next reconstruction, in its simple form _&ast;pura(q)_, was primarily a verb ‘bubble up’. Its reduplicated form may have served as a noun denoting a spring as it does in several Southeast Solomonic witnesses and in Bauan Fijian. Among several similar forms (see [Ch.4, §2.5](../contributions/2-4#s-2-5)), Blust (ACD) lists PMP _&ast;budaq_ ‘foam, bubbles, lather, scum, froth’, continued as POc _&ast;pura-puraq_ ‘foam, bubbles, bubble up’. The related forms include POc _&ast;puro_ ‘bubble up, (hot spring) boil’ (p.83).
 
 <table id="2-3-6-2-61-POc-puraq-a">
 <tr>
@@ -3973,7 +3973,7 @@ The next reconstruction, in its simple form _&ast;pura(q)_, was primarily a verb
 <i>&ast;budaq</i>
 </td>
 <td>
-'<span>foam, bubbles, lather, scum, froth</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>foam, bubbles, lather, scum, froth</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -3982,76 +3982,76 @@ The next reconstruction, in its simple form _&ast;pura(q)_, was primarily a verb
 <i>&ast;pura(q), pura-pura(q)</i>
 </td>
 <td>
-[V] '<span>bubble up, as spring of water</span>'; [N] '<span>spring; foam, bubbles, bubble up</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+[V] '<span>bubble up, as spring of water</span>'; [N] '<span>spring; foam, bubbles, bubble up</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
-<td>Adm</td><td>Mussau</td><td><i>ula-ula</i></td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>ula-ula</i></td>
 <td>
 '<span>bubble up</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Kilivila</td><td><i>ūla</i></td>
+<td>PT</td><td><a href="../languages/kilivila">Kilivila</a></td><td><i>ūla</i></td>
 <td>
 '<span>source</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>vura</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>vura</i></td>
 <td>
 '<span>bubble up</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>vuraɣa ni beti</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>vuraɣa ni beti</i></td>
 <td>
 [N] '<span>spring</span>' (<span><em>beti</em> ‘water’</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td>Tolo</td><td><i>vura-vura(na)</i></td>
+<td>SES</td><td><a href="../languages/tolo">Tolo</a></td><td><i>vura-vura(na)</i></td>
 <td>
 '<span>fountain, spring of water</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Longgu</td><td><i>vula-vula</i></td>
+<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td><i>vula-vula</i></td>
 <td>
 '<span>spring</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Kwaio</td><td><i>fula-fula</i></td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>fula-fula</i></td>
 <td>
 '<span>spring of water</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>hura</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>hura</i></td>
 <td>
 '<span>(water from a spring) gush out</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>hura-hura</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>hura-hura</i></td>
 <td>
 '<span>a spring</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>vura</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>vura</i></td>
 <td>
 '<span>(water) spring forth, rise up</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>vuro</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>vuro</i></td>
 <td>
 '<span>volcanic vent, hot spring</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>vure</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>vure</i></td>
 <td>
 '<span>(water) spring up</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>i-vure-vure</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>i-vure-vure</i></td>
 <td>
 '<span>a spring, source of water</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>vure</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>vure</i></td>
 <td>
 [V] '<span>spring up, well up</span>'; [N] '<span>spring</span>'; '<span>source of things</span>'</td>
 </tr>
@@ -4082,22 +4082,22 @@ A number of languages use a compound, translatable literally as ‘eye of water�
 '<span>spring of water, source of a river</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Anejom</td><td><i>nemta-n-wai</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>nemta-n-wai</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>mata ni wai</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>mata ni wai</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>mata-vai</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>mata-vai</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>mata-vai</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>mata-vai</i></td>
 <td>
 </td>
 </tr>
@@ -4160,7 +4160,7 @@ The following reconstruction, POc _&ast;sa[p,b]u(q)_, is used both as a verb ‘
 <i>&ast;sabuq</i>
 </td>
 <td>
-'<span>drop, fall</span>' (<a href="../references.md#source-Blust1989">Blust1989: 162</a>)
+'<span>drop, fall</span>' (<a href="../sources/Blust1989">Blust1989: 162</a>)
 </td>
 </tr>
 <tr>
@@ -4172,42 +4172,42 @@ The following reconstruction, POc _&ast;sa[p,b]u(q)_, is used both as a verb ‘
 [N] '<span>waterfall</span>'; [V] '<span>(water) fall</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Buang</td><td><i>(bel) rabu</i></td>
+<td>NNG</td><td><a href="../languages/buang">Buang</a></td><td><i>(bel) rabu</i></td>
 <td>
 '<span>waterfall</span>' (<span>bel ‘water</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td>Ghari</td><td><i>sa-savu</i></td>
+<td>SES</td><td><a href="../languages/ghari">Ghari</a></td><td><i>sa-savu</i></td>
 <td>
 '<span>waterfall</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Fortsenal</td><td><i>sevu</i></td>
+<td>NCV</td><td><a href="../languages/fortsenal">Fortsenal</a></td><td><i>sevu</i></td>
 <td>
 '<span>waterfall</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>savu</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>savu</i></td>
 <td>
 '<span>waterfall</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>savu</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>savu</i></td>
 <td>
 [V] '<span>(liquid) flow or run down, fall like a waterfall</span>'; [N] '<span>waterfall</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>hafu</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>hafu</i></td>
 <td>
 '<span>trickle down; small waterfall</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>sahu</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>sahu</i></td>
 <td>
 '<span>to drip, flow, as water or blood</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>āfu</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>āfu</i></td>
 <td>
 '<span>waterfall</span>'</td>
 </tr>
@@ -4230,17 +4230,17 @@ POc _&ast;tape_ has been reconstructed in Chapter 4 as both a noun and verb mean
 '<span>waterfall; flow</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Lou</td><td><i>tapet</i></td>
+<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td><i>tapet</i></td>
 <td>
 '<span>waterfall</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Tawala</td><td><i>tapa-tapana</i></td>
+<td>PT</td><td><a href="../languages/tawala">Tawala</a></td><td><i>tapa-tapana</i></td>
 <td>
 '<span>waterfall/rapids</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tolai</td><td><i>tavit</i></td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>tavit</i></td>
 <td>
 [VI] '<span>to run, of water</span>' (<span><em>tava</em> ‘water’</span>)</td>
 </tr>
@@ -4254,7 +4254,7 @@ POc _&ast;tape_ has been reconstructed in Chapter 4 as both a noun and verb mean
 ## 7. Mineral substances (stone, obsidian, lime, pumice, sand, earth, salt)
 
 
-The mineral substance most highly valued by POc speakers would have been hard, easily flakeable stone, ideally obsidian or flint, used to make razors, axes and knives. Obsidian was traded in the Bismarck Archipelago even in pre-Lapita times, but the range of the trade increased dramatically when Lapita settlements appeared in the late second millennium BC ([Kirch 1997](../references.md#source-Kirch1997), [Spriggs 1997a](../references.md#source-Spriggs1997a), [Summerhayes 2000a](../references.md#source-Summerhayes2000a)).
+The mineral substance most highly valued by POc speakers would have been hard, easily flakeable stone, ideally obsidian or flint, used to make razors, axes and knives. Obsidian was traded in the Bismarck Archipelago even in pre-Lapita times, but the range of the trade increased dramatically when Lapita settlements appeared in the late second millennium BC ([Kirch 1997](../sources/Kirch1997), [Spriggs 1997a](../sources/Spriggs1997a), [Summerhayes 2000a](../sources/Summerhayes2000a)).
 
 
 <a id="s-7-1"></a>
@@ -4271,7 +4271,7 @@ The generic term for ‘stone’ or ‘rock’ was POc _&ast;patu_.
 <i>&ast;batu</i>
 </td>
 <td>
-'<span>stone</span>' (<a href="../references.md#source-Blust1999">Blust1999</a>)
+'<span>stone</span>' (<a href="../sources/Blust1999">Blust1999</a>)
 </td>
 </tr>
 <tr>
@@ -4283,187 +4283,187 @@ The generic term for ‘stone’ or ‘rock’ was POc _&ast;patu_.
 '<span>stone, rock</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Mussau</td><td><i>atu</i></td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>atu</i></td>
 <td>
 '<span>stone, rock</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Seimat</td><td><i>hatu</i></td>
+<td>Adm</td><td><a href="../languages/seimat">Seimat</a></td><td><i>hatu</i></td>
 <td>
 '<span>stone, rock</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Kaniet</td><td><i>fatu</i></td>
+<td>Adm</td><td><a href="../languages/kaniet">Kaniet</a></td><td><i>fatu</i></td>
 <td>
 '<span>stone, rock</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Takia</td><td><i>pat</i></td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>pat</i></td>
 <td>
 '<span>stone, rock</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Gedaged</td><td><i>pat</i></td>
+<td>NNG</td><td><a href="../languages/gedaged">Gedaged</a></td><td><i>pat</i></td>
 <td>
 '<span>stone, rock, pebble</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kove</td><td><i>patu</i></td>
+<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td><i>patu</i></td>
 <td>
 '<span>stone, rock</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Kilivila</td><td><i>vatu</i></td>
+<td>PT</td><td><a href="../languages/kilivila">Kilivila</a></td><td><i>vatu</i></td>
 <td>
 '<span>big stone, rock</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Sursurunga</td><td><i>batu</i></td>
+<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td><i>batu</i></td>
 <td>
 '<span>k.o. coral rock found in the ocean and only underwater</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tolai</td><td><i>vat</i></td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>vat</i></td>
 <td>
 '<span>stone, rock</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Halia</td><td><i>hatu</i></td>
+<td>MM</td><td><a href="../languages/halia">Halia</a></td><td><i>hatu</i></td>
 <td>
 '<span>stone (coral, limestone)</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Teop</td><td><i>vasu</i></td>
+<td>MM</td><td><a href="../languages/teop">Teop</a></td><td><i>vasu</i></td>
 <td>
 '<span>stone, rock</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Roviana</td><td><i>patu</i></td>
+<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td><i>patu</i></td>
 <td>
 '<span>stone, rock</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>vatu</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>vatu</i></td>
 <td>
 '<span>stone, rock</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>fou, fau</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>fou, fau</i></td>
 <td>
 '<span>stone, rock</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>'Are'are</td><td><i>hau</i></td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>hau</i></td>
 <td>
 '<span>stone, rock</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>heu</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>heu</i></td>
 <td>
 '<span>stone, rock</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>hau</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>hau</i></td>
 <td>
 '<span>stone, rock; coral</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>vat, vatu</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>vat, vatu</i></td>
 <td>
 '<span>stone, rock</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Tamambo</td><td><i>vatu</i></td>
+<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td><i>vatu</i></td>
 <td>
 '<span>stone, rock</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Paamese</td><td><i>a-hatu</i></td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>a-hatu</i></td>
 <td>
 '<span>stone, rock</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Sye</td><td><i>n-vat</i></td>
+<td>SV</td><td><a href="../languages/sye">Sye</a></td><td><i>n-vat</i></td>
 <td>
 '<span>stone, rock</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Anejom</td><td><i>in-hat</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>in-hat</i></td>
 <td>
 '<span>stone, rock</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Nemi</td><td><i>paik</i></td>
+<td>NCal</td><td><a href="../languages/nemi">Nemi</a></td><td><i>paik</i></td>
 <td>
 '<span>stone, rock</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Iaai</td><td><i>veto</i></td>
+<td>NCal</td><td><a href="../languages/iaai">Iaai</a></td><td><i>veto</i></td>
 <td>
 '<span>stone, rock</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Cèmuhî</td><td><i>pei</i></td>
+<td>NCal</td><td><a href="../languages/cemuhi">Cèmuhî</a></td><td><i>pei</i></td>
 <td>
 '<span>stone, rock</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kiribatese</td><td><i>ati-</i></td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>ati-</i></td>
 <td>
 '<span>prefix for stone, rocks in compounds</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Puluwatese</td><td><i>fawɨ-</i></td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>fawɨ-</i></td>
 <td>
 '<span>stone, coral, rock</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Woleaian</td><td><i>faɨ-</i></td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>faɨ-</i></td>
 <td>
 '<span>stone, rock</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>fatu</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>fatu</i></td>
 <td>
 '<span>stone, rock</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>patu</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>patu</i></td>
 <td>
 '<span>stone, rock</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>hatu</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>hatu</i></td>
 <td>
 '<span>stone, rock, coral</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>fatu</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>fatu</i></td>
 <td>
 '<span>stone, rock</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Takuu</td><td><i>fatu</i></td>
+<td>Pn</td><td><a href="../languages/takuu">Takuu</a></td><td><i>fatu</i></td>
 <td>
 '<span>stone, rock, coral</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>fatu</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>fatu</i></td>
 <td>
 '<span>stone, rock</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Ifira-Mele</td><td><i>fatu</i></td>
+<td>Pn</td><td><a href="../languages/ifiramele">Ifira-Mele</a></td><td><i>fatu</i></td>
 <td>
 '<span>stone, rock</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>ɸatu</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>ɸatu</i></td>
 <td>
 '<span>stone, rock</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Hawaiian</td><td><i>haku</i></td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>haku</i></td>
 <td>
 '<span>stone, rock</span>'</td>
 </tr>
@@ -4486,62 +4486,62 @@ The form below is a reduplication of POc _&ast;maga_ ‘stone; slingshot’ (vol
 '<span>small stones, pebbles, gravel</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Mangap</td><td><i>maŋ-māŋga</i></td>
+<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td><i>maŋ-māŋga</i></td>
 <td>
 '<span>fine sand by the river</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kove</td><td><i>maɣa-maɣa</i></td>
+<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td><i>maɣa-maɣa</i></td>
 <td>
 '<span>mixed firm and soft ground, as at the edge of a swamp</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kilenge</td><td><i>(na)maɣa</i></td>
+<td>NNG</td><td><a href="../languages/kilenge">Kilenge</a></td><td><i>(na)maɣa</i></td>
 <td>
 '<span>sand</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Adzera</td><td><i>maga-maŋk</i></td>
+<td>NNG</td><td><a href="../languages/adzera">Adzera</a></td><td><i>maga-maŋk</i></td>
 <td>
 '<span>sand</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Minaveha</td><td><i>maga-ma</i></td>
+<td>PT</td><td><a href="../languages/minaveha">Minaveha</a></td><td><i>maga-ma</i></td>
 <td>
 '<span>sand</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Vitu</td><td><i>maga-maga</i></td>
+<td>MM</td><td><a href="../languages/vitu">Vitu</a></td><td><i>maga-maga</i></td>
 <td>
 '<span>sand</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Meramera</td><td><i>maga-maga</i></td>
+<td>MM</td><td><a href="../languages/meramera">Meramera</a></td><td><i>maga-maga</i></td>
 <td>
 '<span>sand, earth</span>' (<span><em>tumaga</em> ‘sling’</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td>Nakanai</td><td><i>maga(sa)</i></td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>maga(sa)</i></td>
 <td>
 '<span>earth, ground</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Woleaian</td><td><i>(faɨ̈)mʷaxa</i></td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>(faɨ̈)mʷaxa</i></td>
 <td>
 '<span>gravel</span>' (<span><em>faü</em> ‘numeral classifier for round objects such as stones, balls, nuts’</span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td>Sonsorolese</td><td><i>(fatü)maka</i></td>
+<td>Mic</td><td><a href="../languages/sonsorolese">Sonsorolese</a></td><td><i>(fatü)maka</i></td>
 <td>
 '<span>gravel, pebble</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>maka-maka</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>maka-maka</i></td>
 <td>
 '<span>little stones, pebbles</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>maʔa-maʔa</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>maʔa-maʔa</i></td>
 <td>
 '<span>small stones, pebbles</span>'</td>
 </tr>
@@ -4567,37 +4567,37 @@ Two reconstructions for obsidian were proposed in volume 1 (p.93), one at POc le
 '<span>flint, obsidian, stone with a cutting edge</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Takia</td><td><i>nad</i></td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>nad</i></td>
 <td>
 '<span>obsidian, volcanic glass</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>nadi</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>nadi</i></td>
 <td>
 '<span>stone</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Dobu</td><td><i>nadi-nadi</i></td>
+<td>PT</td><td><a href="../languages/dobu">Dobu</a></td><td><i>nadi-nadi</i></td>
 <td>
 '<span>rock, stone</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>nadi</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>nadi</i></td>
 <td>
 '<span>flint</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Bugotu</td><td><i>nadi</i></td>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>nadi</i></td>
 <td>
 '<span>flint</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>(fou)nagi</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>(fou)nagi</i></td>
 <td>
 '<span>flint</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>nagi</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>nagi</i></td>
 <td>
 '<span>flint, obsidian</span>'</td>
 </tr>
@@ -4615,37 +4615,37 @@ Two reconstructions for obsidian were proposed in volume 1 (p.93), one at POc le
 '<span>obsidian</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kove</td><td><i>ali-ali</i></td>
+<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td><i>ali-ali</i></td>
 <td>
 '<span>obsidian</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Lusi</td><td><i>ali-ali</i></td>
+<td>NNG</td><td><a href="../languages/lusi">Lusi</a></td><td><i>ali-ali</i></td>
 <td>
 '<span>obsidian</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Gedaged</td><td><i>yaliŋ</i></td>
+<td>NNG</td><td><a href="../languages/gedaged">Gedaged</a></td><td><i>yaliŋ</i></td>
 <td>
 '<span>obsidian (a splinter of it serves as a razor)</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Duau</td><td><i>kalilia</i></td>
+<td>PT</td><td><a href="../languages/duau">Duau</a></td><td><i>kalilia</i></td>
 <td>
 '<span>arrow</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Sudest</td><td><i>kayina</i></td>
+<td>PT</td><td><a href="../languages/sudest">Sudest</a></td><td><i>kayina</i></td>
 <td>
 '<span>knife</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nakanai</td><td><i>hali</i></td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>hali</i></td>
 <td>
 '<span>obsidian; razor formerly made from obsidian</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Meramera</td><td><i>ali</i></td>
+<td>MM</td><td><a href="../languages/meramera">Meramera</a></td><td><i>ali</i></td>
 <td>
 '<span>obsidian</span>'</td>
 </tr>
@@ -4662,7 +4662,7 @@ Two reconstructions for obsidian were proposed in volume 1 (p.93), one at POc le
 ### 7.3. Coral, limestone
 
 
-POc _&ast;laje_ was the general term for coral as the substance from which reefs are formed. It was also used to refer more specifically to living coral of the branching kind, in contrast with, for instance, POc _&ast;buŋa_ ‘smooth, round coral’. The cognate sets for _&ast;laje_ and _&ast;buŋa_ are included in Chapter 4, §3.1.
+POc _&ast;laje_ was the general term for coral as the substance from which reefs are formed. It was also used to refer more specifically to living coral of the branching kind, in contrast with, for instance, POc _&ast;buŋa_ ‘smooth, round coral’. The cognate sets for _&ast;laje_ and _&ast;buŋa_ are included in [Chapter 4, §3.1](../contributions/2-4#s-3-1).
 
 Dead coral was evidently valued as coral rubble (POc _&ast;giri-giri_), and as a source of the lime (POc _&ast;qapu(R)_), taken with betel nut.
 
@@ -4676,62 +4676,62 @@ Dead coral was evidently valued as coral rubble (POc _&ast;giri-giri_), and as a
 '<span>coral, coral rubble</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>giri-giri</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>giri-giri</i></td>
 <td>
 '<span>coral</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Iduna</td><td><i>gili-gili</i></td>
+<td>PT</td><td><a href="../languages/iduna">Iduna</a></td><td><i>gili-gili</i></td>
 <td>
 '<span>coral</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Dobu</td><td><i>gili-gili</i></td>
+<td>PT</td><td><a href="../languages/dobu">Dobu</a></td><td><i>gili-gili</i></td>
 <td>
 '<span>coral, broken</span>' (<span><em>gili</em> ‘coral’</span>)</td>
 </tr>
 <tr>
-<td>PT</td><td>Suau (Daui)</td><td><i>gili</i></td>
+<td>PT</td><td><a href="../languages/suaudaui">Suau (Daui)</a></td><td><i>gili</i></td>
 <td>
 '<span>coral</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>gere-gere</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>gere-gere</i></td>
 <td>
 '<span>gravel</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>kili-kili</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>kili-kili</i></td>
 <td>
 '<span>gravel</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>kili-kili</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>kili-kili</i></td>
 <td>
 '<span>gravel</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>kigi-kigi</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>kigi-kigi</i></td>
 <td>
 '<span>pebble, gravel, coral rubble</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Pukapukan</td><td><i>kili-kili</i></td>
+<td>Pn</td><td><a href="../languages/pukapukan">Pukapukan</a></td><td><i>kili-kili</i></td>
 <td>
 '<span>coral gravel</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>ʔili-ʔili</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>ʔili-ʔili</i></td>
 <td>
 '<span>gravel</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>kiri-kiri</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>kiri-kiri</i></td>
 <td>
 '<span>gravel</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Hawaiian</td><td><i>ʔili-ʔili</i></td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>ʔili-ʔili</i></td>
 <td>
 '<span>pebble</span>'</td>
 </tr>
@@ -4748,7 +4748,7 @@ The chewing of betel nut, combined with lime and pepper as a stimulant, is wides
 <i>&ast;qapuR</i>
 </td>
 <td>
-'<span>lime, calcium</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>lime, calcium</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -4760,87 +4760,87 @@ The chewing of betel nut, combined with lime and pepper as a stimulant, is wides
 '<span>lime, burnt coral or limestone</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Likum</td><td><i>ah</i></td>
+<td>Adm</td><td><a href="../languages/likum">Likum</a></td><td><i>ah</i></td>
 <td>
 '<span>lime, burnt coral or limestone</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Lou</td><td><i>kɔp</i></td>
+<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td><i>kɔp</i></td>
 <td>
 '<span>lime; lime gourd</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Wuvulu</td><td><i>afu</i></td>
+<td>Adm</td><td><a href="../languages/wuvulu">Wuvulu</a></td><td><i>afu</i></td>
 <td>
 '<span>lime in lime gourd</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Seimat</td><td><i>wapu</i></td>
+<td>Adm</td><td><a href="../languages/seimat">Seimat</a></td><td><i>wapu</i></td>
 <td>
 '<span>lime, prepared coral</span>' (<span>Smythe</span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td>Gitua</td><td><i>avu</i></td>
+<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td><i>avu</i></td>
 <td>
 '<span>lime (calcium oxide)</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Lukep</td><td><i>kau</i></td>
+<td>NNG</td><td><a href="../languages/lukep">Lukep</a></td><td><i>kau</i></td>
 <td>
 '<span>lime: made of cooked and crushed coral</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Takia</td><td><i>kau</i></td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>kau</i></td>
 <td>
 '<span>lime, burnt coral or limestone</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Mekeo</td><td><i>apu</i></td>
+<td>PT</td><td><a href="../languages/mekeo">Mekeo</a></td><td><i>apu</i></td>
 <td>
 '<span>lime, burnt coral or limestone</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Roro</td><td><i>abu</i></td>
+<td>PT</td><td><a href="../languages/roro">Roro</a></td><td><i>abu</i></td>
 <td>
 '<span>lime, burnt coral or limestone</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>ahu</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>ahu</i></td>
 <td>
 '<span>lime, burnt coral or limestone</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Bali</td><td><i>kavu</i></td>
+<td>MM</td><td><a href="../languages/bali">Bali</a></td><td><i>kavu</i></td>
 <td>
 '<span>betel lime</span>' (<span>k for ɣ unexpected</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td>Nakanai</td><td><i>havu</i></td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>havu</i></td>
 <td>
 '<span>lime for chewing with areca nut, made from clam shell</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>avu</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>avu</i></td>
 <td>
 '<span>lime holder; slaked lime</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>safu</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>safu</i></td>
 <td>
 '<span>lime, burnt coral or limestone</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>'Are'are</td><td><i>sahu</i></td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>sahu</i></td>
 <td>
 '<span>lime, burnt coral or limestone</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>ahu</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>ahu</i></td>
 <td>
 '<span>lime; branching coral</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Bauro</td><td><i>ahu</i></td>
+<td>SES</td><td><a href="../languages/bauro">Bauro</a></td><td><i>ahu</i></td>
 <td>
 '<span>lime, burnt coral or limestone</span>'</td>
 </tr>
@@ -4869,27 +4869,27 @@ Pumice is a porous solidified lava that floats and is also useful as an abrasive
 '<span>pumice</span>' (<span>lit. ‘floating stone’</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td>Kwaio</td><td><i>fou manu-manu </i></td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>fou manu-manu </i></td>
 <td>
 '<span>pumice</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>'Are'are</td><td><i>hau manu-manu </i></td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>hau manu-manu </i></td>
 <td>
 '<span>pumice</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>fou manu-manu </i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>fou manu-manu </i></td>
 <td>
 '<span>pumice</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>hau manu-manu </i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>hau manu-manu </i></td>
 <td>
 '<span>pumice</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>fatu manu </i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>fatu manu </i></td>
 <td>
 '<span>pumice</span>'</td>
 </tr>
@@ -4908,31 +4908,31 @@ Proto Micronesian had its own term for pumice, probably preposed by &ast;fatu �
 <i>&ast;(fatu) wāni</i>
 </td>
 <td>
-'<span>pumice</span>' (<a href="../references.md#source-Marck1994">Marck1994</a>)
+'<span>pumice</span>' (<a href="../sources/Marck1994">Marck1994</a>)
 </td>
 </tr>
 <tr>
-<td>Mic</td><td>Kiribatese</td><td><i>wān</i></td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>wān</i></td>
 <td>
 '<span>pumice</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kosraean</td><td><i>yot-wen</i></td>
+<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td><i>yot-wen</i></td>
 <td>
 '<span>basalt</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Mokilese</td><td><i>wɛ̄n</i></td>
+<td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td><i>wɛ̄n</i></td>
 <td>
 '<span>pumice</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Satawalese</td><td><i>(wu)wan</i></td>
+<td>Mic</td><td><a href="../languages/satawalese">Satawalese</a></td><td><i>(wu)wan</i></td>
 <td>
 '<span>pumice</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Woleaian</td><td><i>(u)wāri</i></td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>(u)wāri</i></td>
 <td>
 '<span>lava rock</span>'</td>
 </tr>
@@ -4952,37 +4952,37 @@ A distinctive term, PCP _&ast;vuqa(i)ŋa_, is reflected in Fijian and Polynesian
 '<span>pumice; whetstone, grindstone</span>' (<span>vol. 1, p.94</span>)</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>vuaiŋō</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>vuaiŋō</i></td>
 <td>
 '<span>pumicestone, pumice; used for scouring coconut-shell cups</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>fuʔo-fuʔaŋa</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>fuʔo-fuʔaŋa</i></td>
 <td>
 '<span>pumice</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>East Futunan</td><td><i>fuʔaŋa</i></td>
+<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td><i>fuʔaŋa</i></td>
 <td>
 '<span>grindstone, whetstone</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>fuaŋa</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>fuaŋa</i></td>
 <td>
 '<span>whetstone</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Ifira-Mele</td><td><i>foaŋa</i></td>
+<td>Pn</td><td><a href="../languages/ifiramele">Ifira-Mele</a></td><td><i>foaŋa</i></td>
 <td>
 '<span>pumice</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Mangareva</td><td><i>hoaŋa</i></td>
+<td>Pn</td><td><a href="../languages/mangareva">Mangareva</a></td><td><i>hoaŋa</i></td>
 <td>
 '<span>volcanic stone used as hone or sharpener</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>hōaŋa</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>hōaŋa</i></td>
 <td>
 '<span>sandstone used in grinding stone</span>'</td>
 </tr>
@@ -5008,7 +5008,7 @@ There is a well-attested POc term for ‘sand’ which continues a PAn etymon (s
 <i>&ast;qenay</i>
 </td>
 <td>
-'<span>sand</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>sand</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -5017,141 +5017,141 @@ There is a well-attested POc term for ‘sand’ which continues a PAn etymon (s
 <i>&ast;qone</i>
 </td>
 <td>
-'<span>sand, sandy beach</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>sand, sandy beach</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
-<td>Adm</td><td>Lou</td><td><i>kone</i></td>
+<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td><i>kone</i></td>
 <td>
 '<span>sand, beach</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Loniu</td><td><i>(teʔe)won</i></td>
+<td>Adm</td><td><a href="../languages/loniu">Loniu</a></td><td><i>(teʔe)won</i></td>
 <td>
 '<span>sand, sandy soil</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Bipi</td><td><i>won</i></td>
+<td>Adm</td><td><a href="../languages/bipi">Bipi</a></td><td><i>won</i></td>
 <td>
 '<span>sand</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Nyindrou</td><td><i>on</i></td>
+<td>Adm</td><td><a href="../languages/nyindrou">Nyindrou</a></td><td><i>on</i></td>
 <td>
 '<span>sand</span>'</td>
 </tr>
 <tr>
-<td>SJ</td><td>Bongo</td><td><i>on</i></td>
+<td>SJ</td><td><a href="../languages/bongo">Bongo</a></td><td><i>on</i></td>
 <td>
 '<span>sand</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Wogeo</td><td><i>one</i></td>
+<td>NNG</td><td><a href="../languages/wogeo">Wogeo</a></td><td><i>one</i></td>
 <td>
 '<span>beach</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kairiru</td><td><i>un</i></td>
+<td>NNG</td><td><a href="../languages/kairiru">Kairiru</a></td><td><i>un</i></td>
 <td>
 '<span>beach</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>kone</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>kone</i></td>
 <td>
 '<span>beach; sea coast</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tabar</td><td><i>kone</i></td>
+<td>MM</td><td><a href="../languages/tabar">Tabar</a></td><td><i>kone</i></td>
 <td>
 '<span>beach</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nduke</td><td><i>(kara)kone</i></td>
+<td>MM</td><td><a href="../languages/nduke">Nduke</a></td><td><i>(kara)kone</i></td>
 <td>
 '<span>sand</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>'Are'are</td><td><i>ōne</i></td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>ōne</i></td>
 <td>
 '<span>sand, beach sand, beach</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>one</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>one</i></td>
 <td>
 '<span>sand</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Kwaio</td><td><i>one</i></td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>one</i></td>
 <td>
 '<span>sand; beach</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>one</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>one</i></td>
 <td>
 '<span>sand</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>one</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>one</i></td>
 <td>
 '<span>shore, beach</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>one</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>one</i></td>
 <td>
 '<span>sand</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Raga</td><td><i>one</i></td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>one</i></td>
 <td>
 '<span>sand, beach</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Lonwolwol</td><td><i>won</i></td>
+<td>NCV</td><td><a href="../languages/lonwolwol">Lonwolwol</a></td><td><i>won</i></td>
 <td>
 '<span>sand</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Nêlêmwâ</td><td><i>on</i></td>
+<td>NCal</td><td><a href="../languages/nelemwa">Nêlêmwâ</a></td><td><i>on</i></td>
 <td>
 '<span>sand</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Nemi</td><td><i>kon</i></td>
+<td>NCal</td><td><a href="../languages/nemi">Nemi</a></td><td><i>kon</i></td>
 <td>
 '<span>sand</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>ʔone</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>ʔone</i></td>
 <td>
 '<span>sand</span>' (<span>in compounds</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td>Nanumean</td><td><i>one</i></td>
+<td>Pn</td><td><a href="../languages/nanumean">Nanumean</a></td><td><i>one</i></td>
 <td>
 '<span>sand, soil</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>ʔone</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>ʔone</i></td>
 <td>
 '<span>sand, sand or rubble beach; to be plentiful as sands (poetic)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>one</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>one</i></td>
 <td>
 '<span>sand, sandy beach</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rarotongan</td><td><i>one</i></td>
+<td>Pn</td><td><a href="../languages/rarotongan">Rarotongan</a></td><td><i>one</i></td>
 <td>
 '<span>general name for soil, earth, sand, gravel</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>one</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>one</i></td>
 <td>
 '<span>beach; sand, mud; in various names for different kinds of soil</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Hawaiian</td><td><i>one</i></td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>one</i></td>
 <td>
 '<span>sand; sandy; silt; poetic name for land</span>'</td>
 </tr>
@@ -5171,7 +5171,7 @@ A reduplicated form of the above can also be reconstructed. This may have denote
 <i>&ast;qenay qenay</i>
 </td>
 <td>
-'<span>sandy</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>sandy</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -5183,62 +5183,62 @@ A reduplicated form of the above can also be reconstructed. This may have denote
 '<span>sand, sandy</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Roviana</td><td><i>on-one</i></td>
+<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td><i>on-one</i></td>
 <td>
 '<span>sand</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>one-one</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>one-one</i></td>
 <td>
 '<span>black sand</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Kwaio</td><td><i>one-one</i></td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>one-one</i></td>
 <td>
 '<span>sandy soil</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>one-one</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>one-one</i></td>
 <td>
 '<span>a sandy beach</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Tamambo</td><td><i>one-one</i></td>
+<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td><i>one-one</i></td>
 <td>
 '<span>sand</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>ʔone-ʔone</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>ʔone-ʔone</i></td>
 <td>
 '<span>sand</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>one-one</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>one-one</i></td>
 <td>
 '<span>sand</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>one-one</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>one-one</i></td>
 <td>
 '<span>sand</span>' (<span>one-onea ‘sandy, be sandy’</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>ʔone-ʔone</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>ʔone-ʔone</i></td>
 <td>
 '<span>sandy, dry, crumbling, powdery, as over-dry grated coconuts</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>one-one</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>one-one</i></td>
 <td>
 '<span>sandy; sand-coloured</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rarotongan</td><td><i>one-one</i></td>
+<td>Pn</td><td><a href="../languages/rarotongan">Rarotongan</a></td><td><i>one-one</i></td>
 <td>
 '<span>sandy, dirty, gritty</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>one-one</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>one-one</i></td>
 <td>
 '<span>earth, soil; land</span>'</td>
 </tr>
@@ -5252,7 +5252,7 @@ A reduplicated form of the above can also be reconstructed. This may have denote
 ### 7.6. Earth, soil
 
 
-Two POc terms meaning ‘soil’ are well-supported: _&ast;tanoq_ appears to have had three senses, (i) ‘earth, soil (as substance)’; (ii) ‘land, ground (as area or as opposed to sea)’ (this chapter, §2.1 and vol. 1, p.119), and (iii) ‘down on the ground, down below (as location)’ (Ch.8, §2.2.5). POc _&ast;pʷay(a)_ was probably limited to the first meaning.
+Two POc terms meaning ‘soil’ are well-supported: _&ast;tanoq_ appears to have had three senses, (i) ‘earth, soil (as substance)’; (ii) ‘land, ground (as area or as opposed to sea)’ (this chapter, [§2.1](../contributions/2-3#s-2-1) and vol. 1, p.119), and (iii) ‘down on the ground, down below (as location)’ ([Ch.8, §2.2.5](../contributions/2-8#s-2-2-5)). POc _&ast;pʷay(a)_ was probably limited to the first meaning.
 
 Some soils contained pigments useful in both body and pot decoration. Although various wordlists include terms for red, white or yellow clay, we have not been able to reconstruct terms. Teeth-blackening was practised among Western Oceanic speakers (PWOc _&ast;tapal_ ‘substance used to blacken teeth’; vol. 1, p.101), but it is unclear from the literature whether the substance was mineral or vegetable matter .
 
@@ -5266,37 +5266,37 @@ Some soils contained pigments useful in both body and pot decoration. Although v
 '<span>soil, earth</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Titan</td><td><i>pʷa(ñ)</i></td>
+<td>Adm</td><td><a href="../languages/titan">Titan</a></td><td><i>pʷa(ñ)</i></td>
 <td>
 '<span>ground, down, land</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Poeng</td><td><i>pae</i></td>
+<td>NNG</td><td><a href="../languages/poeng">Poeng</a></td><td><i>pae</i></td>
 <td>
 '<span>soil used to blacken teeth</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Kilivila</td><td><i>pʷai-pʷaia</i></td>
+<td>PT</td><td><a href="../languages/kilivila">Kilivila</a></td><td><i>pʷai-pʷaia</i></td>
 <td>
 '<span>real soil</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Gumawana</td><td><i>poya-poya</i></td>
+<td>PT</td><td><a href="../languages/gumawana">Gumawana</a></td><td><i>poya-poya</i></td>
 <td>
 '<span>ground, dirt, earth</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Muyuw</td><td><i>pʷe-pʷay</i></td>
+<td>PT</td><td><a href="../languages/muyuw">Muyuw</a></td><td><i>pʷe-pʷay</i></td>
 <td>
 '<span>ground, land, earth, soil, dirt</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Molima</td><td><i>pʷaya-pʷaya</i></td>
+<td>PT</td><td><a href="../languages/molima">Molima</a></td><td><i>pʷaya-pʷaya</i></td>
 <td>
 '<span>dust</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>pʷei(nā)</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>pʷei(nā)</i></td>
 <td>
 '<span>the garden ground just above the beach</span>'</td>
 </tr>
@@ -5321,57 +5321,57 @@ There is also a POc form, _&ast;pʷiRa_, whose reflexes are, geographically, app
 '<span>earth</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Numbami</td><td><i>puta</i></td>
+<td>NNG</td><td><a href="../languages/numbami">Numbami</a></td><td><i>puta</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>NNG</td><td>Kela</td><td><i>puk</i></td>
+<td>NNG</td><td><a href="../languages/kela">Kela</a></td><td><i>puk</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>NNG</td><td>Hote</td><td><i>pik</i></td>
+<td>NNG</td><td><a href="../languages/hote">Hote</a></td><td><i>pik</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>NNG</td><td>Kis</td><td><i>bula</i></td>
+<td>NNG</td><td><a href="../languages/kis">Kis</a></td><td><i>bula</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>NNG</td><td>Kaiep</td><td><i>bir</i></td>
+<td>NNG</td><td><a href="../languages/kaiep">Kaiep</a></td><td><i>bir</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>MM</td><td>Notsi</td><td><i>pulə</i></td>
+<td>MM</td><td><a href="../languages/notsi">Notsi</a></td><td><i>pulə</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>MM</td><td>Tabar</td><td><i>pira</i></td>
+<td>MM</td><td><a href="../languages/tabar">Tabar</a></td><td><i>pira</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>MM</td><td>Lihir</td><td><i>puol</i></td>
+<td>MM</td><td><a href="../languages/lihir">Lihir</a></td><td><i>puol</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>MM</td><td>Lamasong</td><td><i>pua</i></td>
+<td>MM</td><td><a href="../languages/lamasong">Lamasong</a></td><td><i>pua</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>MM</td><td>Barok</td><td><i>pu</i></td>
+<td>MM</td><td><a href="../languages/barok">Barok</a></td><td><i>pu</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Fij</td><td>Rotuman</td><td><i>pera</i></td>
+<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td><i>pera</i></td>
 <td>
 '<span>earth, soil</span>' (<span>Schmidt</span>)</td>
 </tr>
@@ -5391,67 +5391,67 @@ Central Pacific shows an innovation in replacing _&ast;tano(q)_ with _&ast;gʷel
 '<span>earth, soil</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>gele</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>gele</i></td>
 <td>
 '<span>earth, soil</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>gʷele</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>gʷele</i></td>
 <td>
 '<span>earth</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>kele-kele</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>kele-kele</i></td>
 <td>
 '<span>earth, soil</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>kele</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>kele</i></td>
 <td>
 '<span>to be dirty, muddy; residue</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>kele</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>kele</i></td>
 <td>
 '<span>mud, dirt or clay, in water or left behind as a sediment</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>kele-kele</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>kele-kele</i></td>
 <td>
 '<span>land, soil, dirt, earth, ground</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>East Futunan</td><td><i>kele</i></td>
+<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td><i>kele</i></td>
 <td>
 '<span>earth</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>kege</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>kege</i></td>
 <td>
 '<span>earth, ground, dirt, land, soil, world</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>ʔele</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>ʔele</i></td>
 <td>
 '<span>k.o. compact brown or red soil or stone</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>ʔele-ʔele</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>ʔele-ʔele</i></td>
 <td>
 '<span>earth, soil</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>kere</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>kere</i></td>
 <td>
 '<span>earth, ground, soil; ritual uncleanliness</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>kere-kere</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>kere-kere</i></td>
 <td>
 '<span>soiled, muddy</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>kere-</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>kere-</i></td>
 <td>
 '<span>earth (in compounds only)</span>'</td>
 </tr>
@@ -5490,42 +5490,42 @@ Clay was used in pot manufacture, which was practised by POc speakers (see vol. 
 '<span>clay; cooking pot</span>' (<span>Milke 1965, Ross 1996c gloss ‘clay’ only</span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td>Bing</td><td><i>rar</i></td>
+<td>NNG</td><td><a href="../languages/bing">Bing</a></td><td><i>rar</i></td>
 <td>
 '<span>clay</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Gedaged</td><td><i>l̥al̥</i></td>
+<td>NNG</td><td><a href="../languages/gedaged">Gedaged</a></td><td><i>l̥al̥</i></td>
 <td>
 '<span>clay, used by the Yabob and Bilibil people to make pots</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>raro</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>raro</i></td>
 <td>
 '<span>clay</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Halia</td><td><i>lolo</i></td>
+<td>MM</td><td><a href="../languages/halia">Halia</a></td><td><i>lolo</i></td>
 <td>
 '<span>cooking pot</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Uruava</td><td><i>raro</i></td>
+<td>MM</td><td><a href="../languages/uruava">Uruava</a></td><td><i>raro</i></td>
 <td>
 '<span>cooking pot</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Roviana</td><td><i>raro</i></td>
+<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td><i>raro</i></td>
 <td>
 '<span>pot, cooking vessel</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Yuanga</td><td><i>ḍō</i></td>
+<td>NCal</td><td><a href="../languages/yuanga">Yuanga</a></td><td><i>ḍō</i></td>
 <td>
 '<span>soil, clay; cooking pot</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Nyelâyu</td><td><i>dō</i></td>
+<td>NCal</td><td><a href="../languages/nyelayu">Nyelâyu</a></td><td><i>dō</i></td>
 <td>
 '<span>soil, earth; cooking pot</span>'</td>
 </tr>
@@ -5539,7 +5539,7 @@ Clay was used in pot manufacture, which was practised by POc speakers (see vol. 
 ### 7.8. Salt
 
 
-POc _&ast;maqasin_ seems to have been both a stative verb meaning ‘be salty’ (vol. 1, p.159) and a noun meaning ‘salt’. Its PMP antecedent _&ast;ma-qasin_, however, was purely a stative verb meaning ‘be salty’, derived from the noun _&ast;qasin_ ‘salty taste, salt’ (ACD). Like a number of other PMP stative verbs derived with _&ast;ma-_ from nouns, the prefix of _&ast;maqasin_ became fossilised in POc ([Evans & Ross 2001](../references.md#source-EvansandRoss2001)).
+POc _&ast;maqasin_ seems to have been both a stative verb meaning ‘be salty’ (vol. 1, p.159) and a noun meaning ‘salt’. Its PMP antecedent _&ast;ma-qasin_, however, was purely a stative verb meaning ‘be salty’, derived from the noun _&ast;qasin_ ‘salty taste, salt’ (ACD). Like a number of other PMP stative verbs derived with _&ast;ma-_ from nouns, the prefix of _&ast;maqasin_ became fossilised in POc ([Evans & Ross 2001](../sources/EvansandRoss2001)).
 
 <table id="2-3-7-8-70-POc-maqasin-a">
 <tr>
@@ -5548,7 +5548,7 @@ POc _&ast;maqasin_ seems to have been both a stative verb meaning ‘be salty’
 <i>&ast;ma-qasin</i>
 </td>
 <td>
-'<span>salty</span>' (<span>PAn <em>qasiN, PMP </em>qasin ‘saltiness, salty taste</span>) (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>salty</span>' (<span>PAn <em>qasiN, PMP </em>qasin ‘saltiness, salty taste</span>) (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -5560,77 +5560,77 @@ POc _&ast;maqasin_ seems to have been both a stative verb meaning ‘be salty’
 [V] '<span>be salty</span>'; [N] '<span>salt</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Mussau</td><td><i>masini</i></td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>masini</i></td>
 <td>
 '<span>salty</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Bing</td><td><i>mahas</i></td>
+<td>NNG</td><td><a href="../languages/bing">Bing</a></td><td><i>mahas</i></td>
 <td>
 '<span>sea; seawater</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Gedaged</td><td><i>mas</i></td>
+<td>NNG</td><td><a href="../languages/gedaged">Gedaged</a></td><td><i>mas</i></td>
 <td>
 '<span>sea, ocean, sea water, saltwater; salt</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kove</td><td><i>masi-masi</i></td>
+<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td><i>masi-masi</i></td>
 <td>
 '<span>salty</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Sengseng</td><td><i>masiŋin</i></td>
+<td>NNG</td><td><a href="../languages/sengseng">Sengseng</a></td><td><i>masiŋin</i></td>
 <td>
 '<span>salty</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Manam</td><td><i>makasi</i></td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>makasi</i></td>
 <td>
 '<span>ocean, saltwater, salt</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nakanai</td><td><i>ma-masi</i></td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>ma-masi</i></td>
 <td>
 '<span>salty</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Meramera</td><td><i>masi</i></td>
+<td>MM</td><td><a href="../languages/meramera">Meramera</a></td><td><i>masi</i></td>
 <td>
 '<span>salt, sour</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Bugotu</td><td><i>mahi</i></td>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>mahi</i></td>
 <td>
 '<span>deep sea</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Cèmuhî</td><td><i>màt, màlɛ̀</i></td>
+<td>NCal</td><td><a href="../languages/cemuhi">Cèmuhî</a></td><td><i>màt, màlɛ̀</i></td>
 <td>
 '<span>salty</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Rotuman</td><td><i>mɔsi</i></td>
+<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td><i>mɔsi</i></td>
 <td>
 '<span>salt</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>māsi(ma)</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>māsi(ma)</i></td>
 <td>
 '<span>salt obtained by evaporation from seawater</span>' (<span>origin of <em>-ma</em> unknown</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>māsi(ma)</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>māsi(ma)</i></td>
 <td>
 '<span>salt</span>' (<span>origin of <em>-ma</em> unknown</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>masi</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>masi</i></td>
 <td>
 '<span>k.o. food made with breadfruit fermented in pit</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tahitian</td><td><i>mahi</i></td>
+<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td><i>mahi</i></td>
 <td>
 '<span>acid, fermented; breadfruit preserved by fermenting</span>'</td>
 </tr>
@@ -5641,7 +5641,7 @@ POc _&ast;maqasin_ seems to have been both a stative verb meaning ‘be salty’
 
 <a id="p-71"></a>
 
-PAn _&ast;qasiRa_ ‘salt’ has Oceanic reflexes. Despite the formal resemblance to PAn _&ast;qasiN_ / PMP _&ast;qasin_ ‘salt’, the supporting data in the[ ACD ](../references.md#source-Blust1995)show clearly that these are distinct etyma. Blust (ACD) interprets the SES reflexes as reflexes of _&ast;tasik_ ‘sea’ (see Ch.4, §2.1) with an added suffix _-la_, but it seems far more likely that they reflect POc _&ast;qasiRa_ ‘salt’.
+PAn _&ast;qasiRa_ ‘salt’ has Oceanic reflexes. Despite the formal resemblance to PAn _&ast;qasiN_ / PMP _&ast;qasin_ ‘salt’, the supporting data in the[ ACD ](../sources/Blust1995)show clearly that these are distinct etyma. Blust (ACD) interprets the SES reflexes as reflexes of _&ast;tasik_ ‘sea’ (see [Ch.4, §2.1](../contributions/2-4#s-2-1)) with an added suffix _-la_, but it seems far more likely that they reflect POc _&ast;qasiRa_ ‘salt’.
 
 <table id="2-3-7-8-71-POc-qasira-a">
 <tr>
@@ -5650,7 +5650,7 @@ PAn _&ast;qasiRa_ ‘salt’ has Oceanic reflexes. Despite the formal resemblanc
 <i>&ast;qasiRa</i>
 </td>
 <td>
-'<span>salt</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>salt</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -5662,22 +5662,22 @@ PAn _&ast;qasiRa_ ‘salt’ has Oceanic reflexes. Despite the formal resemblanc
 '<span>salt</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Gitua</td><td><i>asira</i></td>
+<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td><i>asira</i></td>
 <td>
 '<span>residue of salt spray</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>asila</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>asila</i></td>
 <td>
 '<span>salt</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Kwaio</td><td><i>asila</i></td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>asila</i></td>
 <td>
 '<span>salt</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Lewo</td><td><i>sī</i></td>
+<td>NCV</td><td><a href="../languages/lewo">Lewo</a></td><td><i>sī</i></td>
 <td>
 '<span>salt</span>'</td>
 </tr>
@@ -5695,7 +5695,7 @@ Oceanic languages generally have a sizeable vocabulary relating to fire. The pre
 
 Oceanic languages, by and large, make similar lexical distinctions to everyday English when talking about chemistry of fire, but the matches are not exact. Many Oceanic primary terms (single morpheme lexemes) are polysemous or have a rather broad range of reference, e.g. in a given language the same term may denote both ‘ashes’ and ‘fireplace’, or ‘ash’ and ‘soot’, or ‘live coals’ and ‘embers’. English too, is vague or general in many of its primary terms, and relies on compounds and phrasal expressions to make finer distinctions, for example embers has a broad range of reference, as shown by such conventional descriptive expressions as live coals, glowing embers, dying embers, dull black embers, hot ash, white ash.
 
-The kinds of lexical distinctions commonly made in Oceanic languages in this semantic domain can be exemplified by comparing Mota, of the Banks Is., Vanuatu ([Codrington and Palmer 1896](../references.md#source-CodringtonandPalmer1896)) and Kiriwina of the Trobriand Is., Milne Bay Province, Papua New Guinea (Lawton pers. comm.).
+The kinds of lexical distinctions commonly made in Oceanic languages in this semantic domain can be exemplified by comparing Mota, of the Banks Is., Vanuatu ([Codrington and Palmer 1896](../sources/CodringtonandPalmer1896)) and Kiriwina of the Trobriand Is., Milne Bay Province, Papua New Guinea (Lawton pers. comm.).
 
 Mota has the general term _av_ ‘fire’ and at least nine terms for kinds of burning and emissions fom fire: _gao_ ‘burn (intr.)’, _gao-serlawalawa_ ‘burn with flame’, _pepe-roworowo_ ‘(of sparks, flames) fly up, flare, flash’, _malawo-av_ ‘fire flaming high’, _gara-mwea-av_ (N) ‘flame’, _lawa_ (V) ‘to blaze, flame’, _lolowo_ ‘to flare, flame’, _taŋaŋoi_ ‘(fire) almost gone out’, _asu_ (N) ‘smoke’, (V) ‘emit smoke, go up as smoke’. Mota also distinguishes the following stages in the reduction of wood by burning: _gar-taŋasul_ ‘firestick, burning log or stick’, _gao-searag_ ‘(of fuel) burn from middle to outside’, _gao-taweraga_ ‘burn down into embers’, _mata-were-av_ ‘live embers’, _tawene_ ‘a live coal, single live ember’, _taweris_ ‘dull black embers’, _gar-taweris_ ‘black embers, charcoal’, _taŋarnai_ ‘fine ashes’, _tuwus_ ‘the accumulation of ashes in a fireplace’, _tarowo_ ‘ashes, white ashes of burnt out wood’. It can be seen that about half of these 21 Mota terms are compounds. Some dictionaries of Oceanic languages are weak in coverage of compounds and for this reason their listings of fire terms are probably deficient.
 
@@ -5719,7 +5719,7 @@ The PAn name for fire, _&ast;Sapuy_, is among the more stable terms in the lexic
 <i>&ast;Sapuy</i>
 </td>
 <td>
-'<span>fire</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>fire</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -5731,62 +5731,62 @@ The PAn name for fire, _&ast;Sapuy_, is among the more stable terms in the lexic
 '<span>fire</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Wuvulu</td><td><i>afi</i></td>
+<td>Adm</td><td><a href="../languages/wuvulu">Wuvulu</a></td><td><i>afi</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>NNG</td><td>Gitua</td><td><i>yap</i></td>
+<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td><i>yap</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>NNG</td><td>Numbami</td><td><i>yawi</i></td>
+<td>NNG</td><td><a href="../languages/numbami">Numbami</a></td><td><i>yawi</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>lahi</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>lahi</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>MM</td><td>Nakanai</td><td><i>havi</i></td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>havi</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>av</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>av</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>NCV</td><td>Merlav</td><td><i>aı</i></td>
+<td>NCV</td><td><a href="../languages/merlav">Merlav</a></td><td><i>aı</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>NCV</td><td>Tasmate</td><td><i>apu</i></td>
+<td>NCV</td><td><a href="../languages/tasmate">Tasmate</a></td><td><i>apu</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Mic</td><td>Kiribatese</td><td><i>ai</i></td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>ai</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Mic</td><td>Woleaian</td><td><i>yaf</i></td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>yaf</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>afi</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>afi</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Hawaiian</td><td><i>ahi</i></td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>ahi</i></td>
 <td>
 </td>
 </tr>
@@ -5794,7 +5794,7 @@ The PAn name for fire, _&ast;Sapuy_, is among the more stable terms in the lexic
 
 
 
-In some Oceanic languages reflexes of POc _&ast;api_ are also used as a verb meaning ‘be on fire, burn’. However, this does not appear to have been the case in POc. There are stronger candidates for the verbal meaning (see §8.3 below).
+In some Oceanic languages reflexes of POc _&ast;api_ are also used as a verb meaning ‘be on fire, burn’. However, this does not appear to have been the case in POc. There are stronger candidates for the verbal meaning (see [§8.3](../contributions/2-3#s-8-3) below).
 
 
 <a id="s-8-2"></a>
@@ -5811,7 +5811,7 @@ Blust (ACD) reconstructs PMP _&ast;luten_ ‘firewood’ based on WMP: LongWat _
 <i>&ast;luten</i>
 </td>
 <td>
-'<span>firewood</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>firewood</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -5820,7 +5820,7 @@ Blust (ACD) reconstructs PMP _&ast;luten_ ‘firewood’ based on WMP: LongWat _
 <i>&ast;aliten, aluten</i>
 </td>
 <td>
-'<span>firebrand</span>'; '<span>unconsumed wood in a fire</span>'; '<span>charred wood</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>firebrand</span>'; '<span>unconsumed wood in a fire</span>'; '<span>charred wood</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -5832,17 +5832,17 @@ Blust (ACD) reconstructs PMP _&ast;luten_ ‘firewood’ based on WMP: LongWat _
 [N] '<span>firebrand; piece of burning wood</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Takia</td><td><i>yalit</i></td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>yalit</i></td>
 <td>
 '<span>piece of wood with fire burning in it</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Gedaged</td><td><i>yalit</i></td>
+<td>NNG</td><td><a href="../languages/gedaged">Gedaged</a></td><td><i>yalit</i></td>
 <td>
 '<span>piece of charred wood</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Swit</td><td><i>alit</i></td>
+<td>NNG</td><td><a href="../languages/swit">Swit</a></td><td><i>alit</i></td>
 <td>
 '<span>piece of charred wood</span>'</td>
 </tr>
@@ -5855,42 +5855,42 @@ Blust (ACD) reconstructs PMP _&ast;luten_ ‘firewood’ based on WMP: LongWat _
 '<span>(?) firebrand</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>lito</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>lito</i></td>
 <td>
 '<span>firewood</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Motlav</td><td><i>na-let</i></td>
+<td>NCV</td><td><a href="../languages/motlav">Motlav</a></td><td><i>na-let</i></td>
 <td>
 '<span>firewood</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Anejom</td><td><i>(n)ijis</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>(n)ijis</i></td>
 <td>
 '<span>torch</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>lito</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>lito</i></td>
 <td>
 '<span>wave a firebrand to keep it alight</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>lito</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>lito</i></td>
 <td>
 '<span>shake firebrand to keep it alight</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>lito-lito</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>lito-lito</i></td>
 <td>
 '<span>travel by light of burning stick</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>East Futunan</td><td><i>lito</i></td>
+<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td><i>lito</i></td>
 <td>
 '<span>shake a coconut leaf to make it burn</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Hawaiian</td><td><i>liko</i></td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>liko</i></td>
 <td>
 '<span>glowing, sparkling, burning</span>'</td>
 </tr>
@@ -5937,47 +5937,47 @@ It appears that most Oceanic languages use a single term to refer to both ‘hot
 [N] '<span>(?) embers, glowing coals</span>'; [V] '<span>(?) burn brightly</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tinputz</td><td><i>oran</i></td>
+<td>MM</td><td><a href="../languages/tinputz">Tinputz</a></td><td><i>oran</i></td>
 <td>
 '<span>glowing embers</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Halia</td><td><i>korana</i></td>
+<td>MM</td><td><a href="../languages/halia">Halia</a></td><td><i>korana</i></td>
 <td>
 '<span>live coal, ember</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Maringe</td><td><i>ɣo-ɣola</i></td>
+<td>MM</td><td><a href="../languages/maringe">Maringe</a></td><td><i>ɣo-ɣola</i></td>
 <td>
 '<span>scorched</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>'Are'are</td><td><i>kora</i></td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>kora</i></td>
 <td>
 '<span>charcoal, embers, ash</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>'Are'are</td><td><i>ora</i></td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>ora</i></td>
 <td>
 '<span>fireplace</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>'Are'are</td><td><i>ʔora-ʔora</i></td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>ʔora-ʔora</i></td>
 <td>
 '<span>dust, ashes</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Ulawa</td><td><i>ora</i></td>
+<td>SES</td><td><a href="../languages/ulawa">Ulawa</a></td><td><i>ora</i></td>
 <td>
 '<span>ashes</span>'; '<span>to flame, burn brightly</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>ʔora, ʔora-ʔora</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>ʔora, ʔora-ʔora</i></td>
 <td>
 '<span>blaze</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>kora</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>kora</i></td>
 <td>
 [N] '<span>spark; fire, fuel</span>'; [V] '<span>gleam</span>'</td>
 </tr>
@@ -6002,67 +6002,67 @@ The following cognate set is tentatively attributed to a POc etymon glossed ‘l
 '<span>low-burning remnants of a fire</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Vitu</td><td><i>ɣabulo</i></td>
+<td>MM</td><td><a href="../languages/vitu">Vitu</a></td><td><i>ɣabulo</i></td>
 <td>
 '<span>grey ash</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Malasanga</td><td><i>gavura</i></td>
+<td>NNG</td><td><a href="../languages/malasanga">Malasanga</a></td><td><i>gavura</i></td>
 <td>
 '<span>grey ash</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Malalamai</td><td><i>gawur</i></td>
+<td>NNG</td><td><a href="../languages/malalamai">Malalamai</a></td><td><i>gawur</i></td>
 <td>
 '<span>grey ash</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tolai</td><td><i>kavolo</i></td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>kavolo</i></td>
 <td>
 '<span>cinders</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Laghu</td><td><i>kɔfuru</i></td>
+<td>MM</td><td><a href="../languages/laghu">Laghu</a></td><td><i>kɔfuru</i></td>
 <td>
 '<span>ashes</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Kilokaka</td><td><i>kɔfru</i></td>
+<td>MM</td><td><a href="../languages/kilokaka">Kilokaka</a></td><td><i>kɔfru</i></td>
 <td>
 '<span>ashes</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Roviana</td><td><i>kavuru</i></td>
+<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td><i>kavuru</i></td>
 <td>
 '<span>dust</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Maringe</td><td><i>kʰo-kobru</i></td>
+<td>MM</td><td><a href="../languages/maringe">Maringe</a></td><td><i>kʰo-kobru</i></td>
 <td>
 '<span>charcoal</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nduke</td><td><i>kavuru</i></td>
+<td>MM</td><td><a href="../languages/nduke">Nduke</a></td><td><i>kavuru</i></td>
 <td>
 '<span>dust</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>kou-kovuru</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>kou-kovuru</i></td>
 <td>
 '<span>embers</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>ko-kovuru</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>ko-kovuru</i></td>
 <td>
 '<span>soot</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Bugotu</td><td><i>kou-kovuru</i></td>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>kou-kovuru</i></td>
 <td>
 '<span>ember</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>kavuru</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>kavuru</i></td>
 <td>
 '<span>burning end of piece of wood</span>'</td>
 </tr>
@@ -6082,57 +6082,57 @@ Charcoal is likely to have been distinctively named in Proto Oceanic. Carbonised
 '<span>charcoal, charred wood</span>'; '<span>(?) coals, embers</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Anejom</td><td><i>(inhu)mala</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>(inhu)mala</i></td>
 <td>
 '<span>charcoal</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kiribatese</td><td><i>marara</i></td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>marara</i></td>
 <td>
 '<span>charcoal</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Marshallese</td><td><i>mælle</i></td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>mælle</i></td>
 <td>
 '<span>embers, charcoal</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>malala</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>malala</i></td>
 <td>
 '<span>charcoal, carbon</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>malala-ʔi afi</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>malala-ʔi afi</i></td>
 <td>
 '<span>embers</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>malala</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>malala</i></td>
 <td>
 '<span>charcoal</span>'; '<span>(of firelight) glow</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>magaga</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>magaga</i></td>
 <td>
 '<span>charcoal, soot</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>mararā</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>mararā</i></td>
 <td>
 '<span>charcoal</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Takuu</td><td><i>malla</i></td>
+<td>Pn</td><td><a href="../languages/takuu">Takuu</a></td><td><i>malla</i></td>
 <td>
 '<span>red hot</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rarotongan</td><td><i>mārara</i></td>
+<td>Pn</td><td><a href="../languages/rarotongan">Rarotongan</a></td><td><i>mārara</i></td>
 <td>
 '<span>burn with a low, clear glow</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Mangaia</td><td><i>marara</i></td>
+<td>Pn</td><td><a href="../languages/mangaia">Mangaia</a></td><td><i>marara</i></td>
 <td>
 '<span>glowing coals</span>'</td>
 </tr>
@@ -6202,42 +6202,42 @@ POc used at least two terms to denote ashes. These had distinct but overlapping 
 '<span>ashes</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>rahu-rahu</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>rahu-rahu</i></td>
 <td>
 '<span>ashes</span>'; '<span>fireplace</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>ravu</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>ravu</i></td>
 <td>
 '<span>ashes</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Longgu</td><td><i>ravu</i></td>
+<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td><i>ravu</i></td>
 <td>
 '<span>ashes</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>rahu(-na)</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>rahu(-na)</i></td>
 <td>
 '<span>ashes</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>dravu</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>dravu</i></td>
 <td>
 '<span>ashes, slacked lime</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>dravu(sā)</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>dravu(sā)</i></td>
 <td>
 '<span>ashes of wood</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>(mata)dravu</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>(mata)dravu</i></td>
 <td>
 '<span>fireplace, hearth</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>ravu</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>ravu</i></td>
 <td>
 '<span>ashes</span>'</td>
 </tr>
@@ -6250,37 +6250,37 @@ POc used at least two terms to denote ashes. These had distinct but overlapping 
 '<span>ashes</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>efu-efu</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>efu-efu</i></td>
 <td>
 '<span>ashes</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>efu</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>efu</i></td>
 <td>
 '<span>ash</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>efu-efu</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>efu-efu</i></td>
 <td>
 '<span>ashes</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>lefu-lefu</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>lefu-lefu</i></td>
 <td>
 '<span>ashes</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>rehu</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>rehu</i></td>
 <td>
 '<span>fine dust, haze, mist, spray</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>(puŋa)rehu</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>(puŋa)rehu</i></td>
 <td>
 '<span>ashes</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>(ŋa)rahu</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>(ŋa)rahu</i></td>
 <td>
 '<span>charcoal; any black pigment; cinders</span>'</td>
 </tr>
@@ -6297,7 +6297,7 @@ Blust (ACD) attributes, to varying Austronesian interstages, a number of fairly 
 <i>&ast;qabu</i>
 </td>
 <td>
-'<span>ashes</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>ashes</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -6309,72 +6309,72 @@ Blust (ACD) attributes, to varying Austronesian interstages, a number of fairly 
 '<span>ashes, dust</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Mussau</td><td><i>au</i></td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>au</i></td>
 <td>
 '<span>ashes</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Gitua</td><td><i>avu-avu</i></td>
+<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td><i>avu-avu</i></td>
 <td>
 '<span>ashes</span>'</td>
 </tr>
 <tr>
-<td>SJ</td><td>Sobei</td><td><i>afu</i></td>
+<td>SJ</td><td><a href="../languages/sobei">Sobei</a></td><td><i>afu</i></td>
 <td>
 '<span>ashes</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Iduna</td><td><i>avu</i></td>
+<td>PT</td><td><a href="../languages/iduna">Iduna</a></td><td><i>avu</i></td>
 <td>
 '<span>ashes</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Bali</td><td><i>ɣavu</i></td>
+<td>MM</td><td><a href="../languages/bali">Bali</a></td><td><i>ɣavu</i></td>
 <td>
 '<span>ashes</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Teop</td><td><i>avu</i></td>
+<td>MM</td><td><a href="../languages/teop">Teop</a></td><td><i>avu</i></td>
 <td>
 '<span>ashes</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Tamambo</td><td><i>(batui) avu</i></td>
+<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td><i>(batui) avu</i></td>
 <td>
 '<span>ashes</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Raga</td><td><i>avu</i></td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>avu</i></td>
 <td>
 '<span>ashes</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Tolomako</td><td><i>avu</i></td>
+<td>NCV</td><td><a href="../languages/tolomako">Tolomako</a></td><td><i>avu</i></td>
 <td>
 '<span>ashes</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>yavu</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>yavu</i></td>
 <td>
 '<span>burnt up, consumed</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>(bula)avu</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>(bula)avu</i></td>
 <td>
 '<span>consumed by fire</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>efu</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>efu</i></td>
 <td>
 '<span>dust</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>efu-efu</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>efu-efu</i></td>
 <td>
 '<span>dust</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Hawaiian</td><td><i>ehu</i></td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>ehu</i></td>
 <td>
 '<span>dust</span>'</td>
 </tr>
@@ -6397,72 +6397,72 @@ However, many Western Oceanic languages have forms that point to a form &ast;kap
 '<span>ash, dust, cinders</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Manam</td><td><i>gopu</i></td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>gopu</i></td>
 <td>
 '<span>ashes, dust</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kove</td><td><i>gavu-gavu</i></td>
+<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td><i>gavu-gavu</i></td>
 <td>
 '<span>ashes</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Wogeo</td><td><i>gefu</i></td>
+<td>NNG</td><td><a href="../languages/wogeo">Wogeo</a></td><td><i>gefu</i></td>
 <td>
 '<span>ashes</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kairiru</td><td><i>kʸaf</i></td>
+<td>NNG</td><td><a href="../languages/kairiru">Kairiru</a></td><td><i>kʸaf</i></td>
 <td>
 '<span>ashes</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>kahu</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>kahu</i></td>
 <td>
 '<span>ashes</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Hula</td><td><i>kavu</i></td>
+<td>PT</td><td><a href="../languages/hula">Hula</a></td><td><i>kavu</i></td>
 <td>
 '<span>ashes</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Dobu</td><td><i>kau</i></td>
+<td>PT</td><td><a href="../languages/dobu">Dobu</a></td><td><i>kau</i></td>
 <td>
 '<span>dust</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Dobu</td><td><i>(kari)kau</i></td>
+<td>PT</td><td><a href="../languages/dobu">Dobu</a></td><td><i>(kari)kau</i></td>
 <td>
 '<span>ashes</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tolai</td><td><i>kabu</i></td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>kabu</i></td>
 <td>
 '<span>dust, ashes, cinders</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Sisiqa</td><td><i>kau</i></td>
+<td>MM</td><td><a href="../languages/sisiqa">Sisiqa</a></td><td><i>kau</i></td>
 <td>
 '<span>ashes</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Babatana</td><td><i>kau</i></td>
+<td>MM</td><td><a href="../languages/babatana">Babatana</a></td><td><i>kau</i></td>
 <td>
 '<span>dust</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Katazi</td><td><i>kau</i></td>
+<td>MM</td><td><a href="../languages/katazi">Katazi</a></td><td><i>kau</i></td>
 <td>
 '<span>ashes</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Ghanongga</td><td><i>kau</i></td>
+<td>MM</td><td><a href="../languages/ghanongga">Ghanongga</a></td><td><i>kau</i></td>
 <td>
 '<span>ashes</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Lungga</td><td><i>kavu</i></td>
+<td>MM</td><td><a href="../languages/lungga">Lungga</a></td><td><i>kavu</i></td>
 <td>
 '<span>ashes</span>'</td>
 </tr>
@@ -6470,9 +6470,9 @@ However, many Western Oceanic languages have forms that point to a form &ast;kap
 
 
 
-It is noteworthy that in this set the NNG reflexes show initial _&ast;g-_, whilst PT and MM languages all show an unexpected fortis reflex of _&ast;k_ rather than the usual lenis reflex. One possible explanation for this is that, at some stage, perhaps in PWOc, reflexes of POc _&ast;qapu_ were contaminated by association with reflexes of POc _&ast;(g,k)abu_ ‘burn, firewood’ (see §8.3 below).
+It is noteworthy that in this set the NNG reflexes show initial _&ast;g-_, whilst PT and MM languages all show an unexpected fortis reflex of _&ast;k_ rather than the usual lenis reflex. One possible explanation for this is that, at some stage, perhaps in PWOc, reflexes of POc _&ast;qapu_ were contaminated by association with reflexes of POc _&ast;(g,k)abu_ ‘burn, firewood’ (see [§8.3](../contributions/2-3#s-8-3) below).
 
-In some Oceanic languages reflexes of POc _&ast;qapu_ ‘ashes, dust’ fell together formally with reflexes of _&ast;qapu(R)_ ‘lime’ (see §7.3 above). Because lime is a powdery substance (made by roasting calcerous rock, such as coral or limestone, and used in some Oceanic societies for ritual and decorative purposes and for consumption with betel nut) this meaning may have been regarded as related to ‘dust’ and ‘ashes’.
+In some Oceanic languages reflexes of POc _&ast;qapu_ ‘ashes, dust’ fell together formally with reflexes of _&ast;qapu(R)_ ‘lime’ (see [§7.3](../contributions/2-3#s-7-3) above). Because lime is a powdery substance (made by roasting calcerous rock, such as coral or limestone, and used in some Oceanic societies for ritual and decorative purposes and for consumption with betel nut) this meaning may have been regarded as related to ‘dust’ and ‘ashes’.
 
 
 <a id="s-8-3"></a>
@@ -6492,57 +6492,57 @@ A number of terms for the general process of burning or being on fire can be rec
 [V] '<span>burn, be on fire</span>'; [N] '<span>(?) firewood</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Wab</td><td><i>gabu</i></td>
+<td>NNG</td><td><a href="../languages/wab">Wab</a></td><td><i>gabu</i></td>
 <td>
 '<span>smoke</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>gabu-(a)</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>gabu-(a)</i></td>
 <td>
 '<span>burn</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Dobu</td><td><i>gabu</i></td>
+<td>PT</td><td><a href="../languages/dobu">Dobu</a></td><td><i>gabu</i></td>
 <td>
 '<span>burn</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Kilivila</td><td><i>-gabu</i></td>
+<td>PT</td><td><a href="../languages/kilivila">Kilivila</a></td><td><i>-gabu</i></td>
 <td>
 '<span>burn</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Muyuw</td><td><i>gab, gob</i></td>
+<td>PT</td><td><a href="../languages/muyuw">Muyuw</a></td><td><i>gab, gob</i></td>
 <td>
 '<span>burn</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>(sina)ʔabu</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>(sina)ʔabu</i></td>
 <td>
 '<span>glow (of fire)</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Tolomako</td><td><i>ɣapu</i></td>
+<td>NCV</td><td><a href="../languages/tolomako">Tolomako</a></td><td><i>ɣapu</i></td>
 <td>
 '<span>fire, firewood</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Makura</td><td><i>(na)kam</i></td>
+<td>NCV</td><td><a href="../languages/makura">Makura</a></td><td><i>(na)kam</i></td>
 <td>
 '<span>fire</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Sesake</td><td><i>(na)kapu</i></td>
+<td>NCV</td><td><a href="../languages/sesake">Sesake</a></td><td><i>(na)kapu</i></td>
 <td>
 '<span>fire, firewood</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Kwamera</td><td><i>(N)apw</i></td>
+<td>SV</td><td><a href="../languages/kwamera">Kwamera</a></td><td><i>(N)apw</i></td>
 <td>
 '<span>fire</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Anejom</td><td><i>(N)ɣapʷ</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>(N)ɣapʷ</i></td>
 <td>
 '<span>fire</span>'</td>
 </tr>
@@ -6595,42 +6595,42 @@ cf. also:
 '<span>burn, be on fire, in flames</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Manam</td><td><i>bula</i></td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>bula</i></td>
 <td>
 [V] '<span>light (a fire)</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Puluwatese</td><td><i>pʷɨl</i></td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>pʷɨl</i></td>
 <td>
 [V] '<span>burn, be lighted, in flames</span>'; [N] '<span>flame</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Woleaian</td><td><i>pʷura</i></td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>pʷura</i></td>
 <td>
 '<span>burn, light up</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Woleaian</td><td><i>pʷupʷura</i></td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>pʷupʷura</i></td>
 <td>
 [N] '<span>flame, blinking of light</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>bula</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>bula</i></td>
 <td>
 [V] '<span>be on fire, burn</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>bula</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>bula</i></td>
 <td>
 [V] '<span>be on fire, burn</span>'; [N] '<span>conflagration</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>bula-ni-a</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>bula-ni-a</i></td>
 <td>
 '<span>burn s.t., set s.t. ablaze</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Rotuman</td><td><i>pula</i></td>
+<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td><i>pula</i></td>
 <td>
 [V] '<span>catch alight, burn, flare up suddenly</span>'; [N] '<span>flame, (lightning) flash</span>'</td>
 </tr>
@@ -6714,32 +6714,32 @@ cf. also:
 '<span>be on fire, alight, flaming</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Torau</td><td><i>uda</i></td>
+<td>MM</td><td><a href="../languages/torau">Torau</a></td><td><i>uda</i></td>
 <td>
 '<span>fire</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kiribatese</td><td><i>ura</i></td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>ura</i></td>
 <td>
 '<span>flame</span>'; '<span>passion</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kiribatese</td><td><i>ura maka</i></td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>ura maka</i></td>
 <td>
 '<span>flaming, blazing</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>(ða)udre</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>(ða)udre</i></td>
 <td>
 '<span>alight, burning, flaming</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>(ða)udra(-va)</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>(ða)udra(-va)</i></td>
 <td>
 '<span>set s.t. alight</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>udre</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>udre</i></td>
 <td>
 '<span>alight, burning</span>'</td>
 </tr>
@@ -6752,22 +6752,22 @@ cf. also:
 '<span>burn brightly</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>ulo</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>ulo</i></td>
 <td>
 '<span>burn, be alight, catch fire; shine</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>uga</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>uga</i></td>
 <td>
 [V] '<span>flame; shine, flash; be very red</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Luangiua</td><td><i>ula</i></td>
+<td>Pn</td><td><a href="../languages/luangiua">Luangiua</a></td><td><i>ula</i></td>
 <td>
 '<span>flame</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>ura</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>ura</i></td>
 <td>
 [V] '<span>blaze, flame, burn brightly, glow</span>'</td>
 </tr>
@@ -6804,107 +6804,107 @@ POc, like some of its daughter languages, seems to have distinct terms for smoke
 '<span>smoke</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Mussau</td><td><i>asu</i></td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>asu</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Adm</td><td>Wuvulu</td><td><i>aku</i></td>
+<td>Adm</td><td><a href="../languages/wuvulu">Wuvulu</a></td><td><i>aku</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>PT</td><td>Dobu</td><td><i>ʔasu</i></td>
+<td>PT</td><td><a href="../languages/dobu">Dobu</a></td><td><i>ʔasu</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>PT</td><td>Mekeo</td><td><i>aku</i></td>
+<td>PT</td><td><a href="../languages/mekeo">Mekeo</a></td><td><i>aku</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>NNG</td><td>Bukawa</td><td><i>(ya)wasu</i></td>
+<td>NNG</td><td><a href="../languages/bukawa">Bukawa</a></td><td><i>(ya)wasu</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>NNG</td><td>Mapos Buang</td><td><i>aru</i></td>
+<td>NNG</td><td><a href="../languages/maposbuang">Mapos Buang</a></td><td><i>aru</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>MM</td><td>Bali</td><td><i>ɣazu</i></td>
+<td>MM</td><td><a href="../languages/bali">Bali</a></td><td><i>ɣazu</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>MM</td><td>Torau</td><td><i>asu</i></td>
+<td>MM</td><td><a href="../languages/torau">Torau</a></td><td><i>asu</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>NNG</td><td>Amara</td><td><i>aso</i></td>
+<td>NNG</td><td><a href="../languages/amara">Amara</a></td><td><i>aso</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>SES</td><td>'Are'are</td><td><i>rasu</i></td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>rasu</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>sasu</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>sasu</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>asu-(na), asu-ʔasu</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>asu-(na), asu-ʔasu</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Mic</td><td>Puluwatese</td><td><i>yāt</i></td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>yāt</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>asu</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>asu</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>NCV</td><td>Tamambo</td><td><i>asu</i></td>
+<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td><i>asu</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>NCV</td><td>Paamese</td><td><i>(e)asu</i></td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>(e)asu</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>ʔahu</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>ʔahu</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>ahu</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>ahu</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>asu</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>asu</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>au, au-ahi</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>au, au-ahi</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Rarotongan</td><td><i>au</i></td>
+<td>Pn</td><td><a href="../languages/rarotongan">Rarotongan</a></td><td><i>au</i></td>
 <td>
 </td>
 </tr>
@@ -6924,47 +6924,47 @@ In the following cognate set, Polynesian languages show unexpected _o_ for _&ast
 [V] '<span>emit smoke or steam</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Bebeli</td><td><i>kuvuk</i></td>
+<td>NNG</td><td><a href="../languages/bebeli">Bebeli</a></td><td><i>kuvuk</i></td>
 <td>
 [N] '<span>smoke</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Kia</td><td><i>gufu(-na)</i></td>
+<td>MM</td><td><a href="../languages/kia">Kia</a></td><td><i>gufu(-na)</i></td>
 <td>
 [N] '<span>smoke</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Kilokaka</td><td><i>kufu</i></td>
+<td>MM</td><td><a href="../languages/kilokaka">Kilokaka</a></td><td><i>kufu</i></td>
 <td>
 [N] '<span>smoke</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Maringe</td><td><i>ɣuf(la)</i></td>
+<td>MM</td><td><a href="../languages/maringe">Maringe</a></td><td><i>ɣuf(la)</i></td>
 <td>
 '<span>to steam, as from an earth oven</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Nokuku</td><td><i>kuv-kuvu</i></td>
+<td>NCV</td><td><a href="../languages/nokuku">Nokuku</a></td><td><i>kuv-kuvu</i></td>
 <td>
 '<span>ashes</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>gu-guvu</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>gu-guvu</i></td>
 <td>
 '<span>steam; heat; hot; lukewarm</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Bugotu</td><td><i>gu-guvu</i></td>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>gu-guvu</i></td>
 <td>
 '<span>be hot, heat</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>kuvu</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>kuvu</i></td>
 <td>
 '<span>vapour: smoke, steam, dust, spray</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>kuvu</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>kuvu</i></td>
 <td>
 '<span>steam, give off steam</span>'</td>
 </tr>
@@ -6977,27 +6977,27 @@ In the following cognate set, Polynesian languages show unexpected _o_ for _&ast
 [V] '<span>emit smoke</span>'; [N] '<span>(?) smoke</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>kofu</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>kofu</i></td>
 <td>
 '<span>emit smoke</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>kohu</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>kohu</i></td>
 <td>
 '<span>emit smoke or steam</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Sikaiana</td><td><i>(au)kohu</i></td>
+<td>Pn</td><td><a href="../languages/sikaiana">Sikaiana</a></td><td><i>(au)kohu</i></td>
 <td>
 [N] '<span>smoke</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>kofu</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>kofu</i></td>
 <td>
 '<span>emit smoke</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Anutan</td><td><i>ko-kopu</i></td>
+<td>Pn</td><td><a href="../languages/anutan">Anutan</a></td><td><i>ko-kopu</i></td>
 <td>
 [N] '<span>smoke</span>'</td>
 </tr>
@@ -7020,17 +7020,17 @@ PCP _&ast;kobulu_, possibly meaning ‘thick smoke or cloud’ is indicated by r
 '<span>(?) thick smoke, heavy cloud</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>kubou</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>kubou</i></td>
 <td>
 [N] '<span>smoke</span>' (<span>metathesis and irregular loss of <em>l</em> in context <em>oū</em></span>)</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>kōbulu</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>kōbulu</i></td>
 <td>
 [N] '<span>smoke</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>kōpuru</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>kōpuru</i></td>
 <td>
 '<span>heavy passing clouds</span>'; '<span>fusty, mouldy</span>'</td>
 </tr>
@@ -7067,37 +7067,37 @@ Widely scattered languages use a reflex of POc _&ast;maya_ ‘tongue’ (either 
 [N] '<span>flame</span>' (<span>lit. ‘tongue’ or ‘tongue of fire’</span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td>Mangap</td><td><i>you mia-na</i></td>
+<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td><i>you mia-na</i></td>
 <td>
 '<span>flame</span>' (<span>lit. ‘tongue of fire’</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>mea, mea-mea(hana hunge)</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>mea, mea-mea(hana hunge)</i></td>
 <td>
 '<span>flame</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>'Are'are</td><td><i>mea</i></td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>mea</i></td>
 <td>
 '<span>spark</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>mea</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>mea</i></td>
 <td>
 '<span>flame, tongue of fire, light of fire or torch</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Sye</td><td><i>(nelwa)me</i></td>
+<td>SV</td><td><a href="../languages/sye">Sye</a></td><td><i>(nelwa)me</i></td>
 <td>
 '<span>tongue, flame</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Anejom</td><td><i>(nalua)me</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>(nalua)me</i></td>
 <td>
 '<span>flame</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>yame-yame (ni buka)</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>yame-yame (ni buka)</i></td>
 <td>
 '<span>flame</span>'</td>
 </tr>
@@ -7146,52 +7146,52 @@ cf. also: the following, where there is semantic correspondence even though one 
 '<span>(?) glow or flame of fire</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Adzera</td><td><i>bururuŋ</i></td>
+<td>NNG</td><td><a href="../languages/adzera">Adzera</a></td><td><i>bururuŋ</i></td>
 <td>
 '<span>burn, be on fire</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>hururu</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>hururu</i></td>
 <td>
 '<span>blaze</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>huru-hururu</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>huru-hururu</i></td>
 <td>
 '<span>flare up</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tolai</td><td><i>puluŋ</i></td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>puluŋ</i></td>
 <td>
 '<span>flame</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Kia</td><td><i>buruŋu</i></td>
+<td>MM</td><td><a href="../languages/kia">Kia</a></td><td><i>buruŋu</i></td>
 <td>
 '<span>sparks</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Ghanongga</td><td><i>vuru-vuruŋu</i></td>
+<td>MM</td><td><a href="../languages/ghanongga">Ghanongga</a></td><td><i>vuru-vuruŋu</i></td>
 <td>
 '<span>flame</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Talise</td><td><i>vuru</i></td>
+<td>SES</td><td><a href="../languages/talise">Talise</a></td><td><i>vuru</i></td>
 <td>
 '<span>burn</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Malagheti</td><td><i>vuru</i></td>
+<td>SES</td><td><a href="../languages/malagheti">Malagheti</a></td><td><i>vuru</i></td>
 <td>
 '<span>burn</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>huru</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>huru</i></td>
 <td>
 [V & N] '<span>glow</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>huru-huru</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>huru-huru</i></td>
 <td>
 '<span>diffused glow</span>'</td>
 </tr>
@@ -7221,42 +7221,42 @@ There are several cognate sets pointing to PEOc forms denoting burning with a pa
 '<span>burn brightly</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Kwaio</td><td><i>mā</i></td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>mā</i></td>
 <td>
 '<span>flame</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kiribatese</td><td><i>maka</i></td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>maka</i></td>
 <td>
 '<span>power, force, ardour</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>kama</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>kama</i></td>
 <td>
 '<span>burn</span>' (<span>metathesis</span>)</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>maka(liva)</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>maka(liva)</i></td>
 <td>
 '<span>flash upon</span>' (<span><em>liva</em> ‘lightning’</span>)</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>(rā)maka</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>(rā)maka</i></td>
 <td>
 '<span>shining from a distance</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>maka</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>maka</i></td>
 <td>
 '<span>alight with glow, burn without flame</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>makalo maka</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>makalo maka</i></td>
 <td>
 '<span>glowing embers</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tahitian</td><td><i>ʔama</i></td>
+<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td><i>ʔama</i></td>
 <td>
 '<span>burn</span>' (<span>metathesis</span>)</td>
 </tr>
@@ -7284,12 +7284,12 @@ cf. also:
 '<span>burn with glow</span>' (<span>cf. *kalo-kalo ‘glimmer’</span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kiribatese</td><td><i>mʷākaro</i></td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>mʷākaro</i></td>
 <td>
 '<span>embers, live coals, charoal; burning without flames</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>makalo</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>makalo</i></td>
 <td>
 '<span>turn to embers; glow, be red hot</span>'</td>
 </tr>
@@ -7302,27 +7302,27 @@ cf. also:
 [V] '<span>(of fire) crackle and spark</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>makala</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>makala</i></td>
 <td>
 '<span>emit sparks with a crackling noise</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>East Uvean</td><td><i>makala</i></td>
+<td>Pn</td><td><a href="../languages/eastuvean">East Uvean</a></td><td><i>makala</i></td>
 <td>
 '<span>(of fire) crackle</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>makaga</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>makaga</i></td>
 <td>
 '<span>crackle, rattle, rumble</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>makago-kago</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>makago-kago</i></td>
 <td>
 '<span>emit sparks, as a fire</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>makaro</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>makaro</i></td>
 <td>
 '<span>be dimly visible</span>'</td>
 </tr>
@@ -7340,32 +7340,32 @@ cf. also:
 '<span>glimmer</span>' (<span>cf. <em>*makalo</em> ‘burn with glow’</span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kiribatese</td><td><i>-karo-karo</i></td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>-karo-karo</i></td>
 <td>
  (<span>base in 3 words, all meaning ‘glimmer, glow’</span>)</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>kalo-kalo</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>kalo-kalo</i></td>
 <td>
 '<span>star</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Pukapukan</td><td><i>kalo-kalo(awi)</i></td>
+<td>Pn</td><td><a href="../languages/pukapukan">Pukapukan</a></td><td><i>kalo-kalo(awi)</i></td>
 <td>
 '<span>sparks of fire</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>ʔalo-i-afi</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>ʔalo-i-afi</i></td>
 <td>
 '<span>sparks</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>ʔalo-ʔalo</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>ʔalo-ʔalo</i></td>
 <td>
 '<span>(red) flower of Erythrina tree</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>kalo-kalo</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>kalo-kalo</i></td>
 <td>
 '<span>(red) flower of Erythrina tree</span>'</td>
 </tr>
@@ -7384,7 +7384,7 @@ Although contemporary languages generally have names for ‘soot’, ‘spark’
 ## 9. Destructive natural events
 
 
-Because of their location on an unstable part of the earth’s crust, many parts of the Oceanic region experience earth movements and volcanic activity, sometimes on a catastrophic scale. Minor earth tremors are commonplace. Earth tremors in turn can give rise to such events as tidal waves and landslides, the latter sometimes triggered as well by frequent heavy rain. In addition to these, fluctuations in climate sometimes result in flooding or drought. In some Oceanic societies such destructive natural events were attributed to supernatural forces, as were inexplicable events like whirlwinds and whirlpools ([Osmond 2000](../references.md#source-Osmond2000)). Map 9 shows the location of earthquake areas and active volcanoes in the region.
+Because of their location on an unstable part of the earth’s crust, many parts of the Oceanic region experience earth movements and volcanic activity, sometimes on a catastrophic scale. Minor earth tremors are commonplace. Earth tremors in turn can give rise to such events as tidal waves and landslides, the latter sometimes triggered as well by frequent heavy rain. In addition to these, fluctuations in climate sometimes result in flooding or drought. In some Oceanic societies such destructive natural events were attributed to supernatural forces, as were inexplicable events like whirlwinds and whirlpools ([Osmond 2000](../sources/Osmond2000)). Map 9 shows the location of earthquake areas and active volcanoes in the region.
 
 
 <a id="s-9-1"></a>
@@ -7404,7 +7404,7 @@ Parts of New Guinea and Island Melanesia have a long history of volcanic activit
 '<span>volcano</span>'; '<span>(?) matter emitted from volcano</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Takia</td><td><i>banai</i></td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>banai</i></td>
 <td>
 '<span>to spring up out of a hole, of liquid</span>'</td>
 </tr>
@@ -7414,41 +7414,41 @@ Parts of New Guinea and Island Melanesia have a long history of volcanic activit
 <i>&ast;banoi</i>
 </td>
 <td>
-'<span>volcano, volcanic ash</span>' (<a href="../references.md#source-Clark1996">Clark1996</a>)
+'<span>volcano, volcanic ash</span>' (<a href="../sources/Clark1996">Clark1996</a>)
 </td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>panoi</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>panoi</i></td>
 <td>
 '<span>Hades, the abode of the dead</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Tamambo</td><td><i>banoi</i></td>
+<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td><i>banoi</i></td>
 <td>
 '<span>volcanic ash</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Uripiv</td><td><i>benu</i></td>
+<td>NCV</td><td><a href="../languages/uripiv">Uripiv</a></td><td><i>benu</i></td>
 <td>
 '<span>fine volcanic ash</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Paamese</td><td><i>vanei</i></td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>vanei</i></td>
 <td>
 '<span>volcano</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Namakir</td><td><i>bane</i></td>
+<td>NCV</td><td><a href="../languages/namakir">Namakir</a></td><td><i>bane</i></td>
 <td>
 '<span>volcano</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Nguna</td><td><i>na-panoi</i></td>
+<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td><i>na-panoi</i></td>
 <td>
 '<span>volcano</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>S.E. Ambrym</td><td><i>venu</i></td>
+<td>NCV</td><td><a href="../languages/seambrym">S.E. Ambrym</a></td><td><i>venu</i></td>
 <td>
 '<span>volcano</span>'</td>
 </tr>
@@ -7461,7 +7461,7 @@ Parts of New Guinea and Island Melanesia have a long history of volcanic activit
 
 <a id="map-9"> </a>
 
-![Map 9: Active volcanoes and earthquake areas in the south-west Pacific (after [Brookfield and Hart 1971](../references.md#source-BrookfieldandHart1971): 33)](../../raw/vol2/maps/map_9.png)
+![Map 9: Active volcanoes and earthquake areas in the south-west Pacific (after [Brookfield and Hart 1971](../sources/BrookfieldandHart1971): 33)](../../raw/vol2/maps/map_9.png)
 
 
 
@@ -7480,32 +7480,32 @@ The next reconstruction belongs to a set of formally similar items with meanings
 '<span>bubble up, boil, as hot spring</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kove</td><td><i>pulou</i></td>
+<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td><i>pulou</i></td>
 <td>
 '<span>come up, as a spring</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Molima</td><td><i>pulo</i></td>
+<td>PT</td><td><a href="../languages/molima">Molima</a></td><td><i>pulo</i></td>
 <td>
 '<span>bubbles</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Kilivila</td><td><i>polu</i></td>
+<td>PT</td><td><a href="../languages/kilivila">Kilivila</a></td><td><i>polu</i></td>
 <td>
 [V] '<span>boil</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tolai</td><td><i>vuru</i></td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>vuru</i></td>
 <td>
 '<span>pumice, volvanic dust, lava</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>huro-huro</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>huro-huro</i></td>
 <td>
 [V] '<span>bubble, boil, be churned up</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>vuro</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>vuro</i></td>
 <td>
 '<span>volcanic vent, hot spring</span>'</td>
 </tr>
@@ -7533,12 +7533,12 @@ While the following two cognate sets are presumably related, we cannot unite the
 '<span>earthquake</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Mussau</td><td><i>ruke-ruke</i></td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>ruke-ruke</i></td>
 <td>
 '<span>earthquake</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tinputz</td><td><i>rik-rik</i></td>
+<td>MM</td><td><a href="../languages/tinputz">Tinputz</a></td><td><i>rik-rik</i></td>
 <td>
 '<span>earthquake</span>'; [V] '<span>quake</span>'</td>
 </tr>
@@ -7566,12 +7566,12 @@ cf. also:
 '<span>earthquake</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Manam</td><td><i>rike</i></td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>rike</i></td>
 <td>
 '<span>earthquake</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Manam</td><td><i>(mʷa)rike</i></td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>(mʷa)rike</i></td>
 <td>
 [N, V] '<span>earthquake, quake</span>'</td>
 </tr>
@@ -7584,32 +7584,32 @@ cf. also:
 '<span>earthquake</span>' (<span>the etymology of mafu- is unknown</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>mafuike</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>mafuike</i></td>
 <td>
 '<span>earthquake</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>mofuike</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>mofuike</i></td>
 <td>
 '<span>earthquake</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>mahuike</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>mahuike</i></td>
 <td>
 '<span>deity who causes earthquakes</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>mafuiʔe</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>mafuiʔe</i></td>
 <td>
 '<span>earthquake; deity from whom fire was obtained</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>East Futunan</td><td><i>mafuike</i></td>
+<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td><i>mafuike</i></td>
 <td>
 '<span>earthquake</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>mahuika</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>mahuika</i></td>
 <td>
 '<span>deity from whom fire was obtained by Maaui-tikitiki</span>'</td>
 </tr>
@@ -7617,7 +7617,7 @@ cf. also:
 
 
 
-In several of the following cognate sets, the term for earthquake is closely related to the verb meaning ‘to shake’. Some form of onomatopoeic wordplay may explain the similarity of form between the various sets. For instance, Onin and Sekar, CEMP languages spoken in West New Guinea, both record _nuni_ ‘earthquake’ while Yotafa on the north coast lists _nioni_ ‘earthquake’ ([Smits & Voorhoeve 1992](../references.md#source-SmitsandVoorhoeve1992):34).
+In several of the following cognate sets, the term for earthquake is closely related to the verb meaning ‘to shake’. Some form of onomatopoeic wordplay may explain the similarity of form between the various sets. For instance, Onin and Sekar, CEMP languages spoken in West New Guinea, both record _nuni_ ‘earthquake’ while Yotafa on the north coast lists _nioni_ ‘earthquake’ ([Smits & Voorhoeve 1992](../sources/SmitsandVoorhoeve1992):34).
 
 
 <a id="p-84"></a>
@@ -7629,7 +7629,7 @@ In several of the following cognate sets, the term for earthquake is closely rel
 <i>&ast;ninih</i>
 </td>
 <td>
-'<span>shake, tremble, rock</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>shake, tremble, rock</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -7641,32 +7641,32 @@ In several of the following cognate sets, the term for earthquake is closely rel
 [V] '<span>shake, quake</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Gedaged</td><td><i>nini</i></td>
+<td>NNG</td><td><a href="../languages/gedaged">Gedaged</a></td><td><i>nini</i></td>
 <td>
 '<span>swing, oscillate, shake, rock</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Mapos Buang</td><td><i>(i-)nɛl</i></td>
+<td>NNG</td><td><a href="../languages/maposbuang">Mapos Buang</a></td><td><i>(i-)nɛl</i></td>
 <td>
 '<span>earthquake</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Mumeng</td><td><i>(zenag) nɛr</i></td>
+<td>NNG</td><td><a href="../languages/mumeng">Mumeng</a></td><td><i>(zenag) nɛr</i></td>
 <td>
 '<span>earthquake</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Patpatar</td><td><i>ninir</i></td>
+<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td><i>ninir</i></td>
 <td>
 '<span>shake, quake</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>nini</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>nini</i></td>
 <td>
 '<span>tremble, quake with fear or anger</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>nini-nini</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>nini-nini</i></td>
 <td>
 '<span>shiver with cold</span>'</td>
 </tr>
@@ -7683,7 +7683,7 @@ In a number of northwest and southeast Solomons languages, the term for earthqua
 <i>&ast;uyuŋ</i>
 </td>
 <td>
-'<span>shake; earthquake</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>shake; earthquake</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -7695,42 +7695,42 @@ In a number of northwest and southeast Solomons languages, the term for earthqua
 [V] '<span>shake, quake</span>'; [N] '<span>earthquake</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Halia</td><td><i>nun</i></td>
+<td>MM</td><td><a href="../languages/halia">Halia</a></td><td><i>nun</i></td>
 <td>
 '<span>earthquake</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nduke</td><td><i>nunu</i></td>
+<td>MM</td><td><a href="../languages/nduke">Nduke</a></td><td><i>nunu</i></td>
 <td>
 '<span>earthquake</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Babatana</td><td><i>nunu</i></td>
+<td>MM</td><td><a href="../languages/babatana">Babatana</a></td><td><i>nunu</i></td>
 <td>
 '<span>earthquake</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Hoava</td><td><i>niu</i></td>
+<td>MM</td><td><a href="../languages/hoava">Hoava</a></td><td><i>niu</i></td>
 <td>
 '<span>shake; earthquake</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Roviana</td><td><i>niu</i></td>
+<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td><i>niu</i></td>
 <td>
 '<span>shake; earthquake</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>'Are'are</td><td><i>nu-nunu</i></td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>nu-nunu</i></td>
 <td>
 '<span>earthquake</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>nunu</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>nunu</i></td>
 <td>
 '<span>earthquake</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Kwaio</td><td><i>nunu</i></td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>nunu</i></td>
 <td>
 '<span>earthquake</span>'</td>
 </tr>
@@ -7756,47 +7756,47 @@ In a number of northwest and southeast Solomons languages, the term for earthqua
 [N] '<span>earthquake</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>anu</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>anu</i></td>
 <td>
 '<span>shake</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>anu-anu</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>anu-anu</i></td>
 <td>
 '<span>earthquake</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Bugotu</td><td><i>añu</i></td>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>añu</i></td>
 <td>
 '<span>shake, of earthquake; earthquake</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>anu</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>anu</i></td>
 <td>
 '<span>shake, quake</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>anu-anu</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>anu-anu</i></td>
 <td>
 '<span>earthquake</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Kwaio</td><td><i>anu(leʔeni)</i></td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>anu(leʔeni)</i></td>
 <td>
 '<span>shake, jostle, knock down by shaking</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>'Are'are</td><td><i>anu(i)</i></td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>anu(i)</i></td>
 <td>
 '<span>shake, move</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>enu, enu-enu</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>enu, enu-enu</i></td>
 <td>
 '<span>be loose, unstable</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>anu(kaʔa)</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>anu(kaʔa)</i></td>
 <td>
 '<span>tremble and go cold with fear</span>'</td>
 </tr>
@@ -7814,22 +7814,22 @@ In a number of northwest and southeast Solomons languages, the term for earthqua
 [V] '<span>shake</span>'; [N] '<span>earthquake</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>rir</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>rir</i></td>
 <td>
 [V] '<span>quake</span>'; '<span>earthquake</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Raga</td><td><i>ruru(i)</i></td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>ruru(i)</i></td>
 <td>
 '<span>shake</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Paamese</td><td><i>(a)lū</i></td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>(a)lū</i></td>
 <td>
 '<span>earthquake</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Nguna</td><td><i>(na)ruru</i></td>
+<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td><i>(na)ruru</i></td>
 <td>
 '<span>earthquake</span>'</td>
 </tr>
@@ -7846,7 +7846,7 @@ In a number of northwest and southeast Solomons languages, the term for earthqua
 ### 9.3. Landslide
 
 
-POc _&ast;solo_ was probably a verb, but its reflexes refer, inter alia, to landslides in several daughter languages. They are also found in Puluwatese (Mic), linked to star names, to refer to stars sinking towards the horizon (see Ch. 6, §5.4.2).
+POc _&ast;solo_ was probably a verb, but its reflexes refer, inter alia, to landslides in several daughter languages. They are also found in Puluwatese (Mic), linked to star names, to refer to stars sinking towards the horizon (see [Ch. 6, §5.4.2](../contributions/2-6#s-5-4-2)).
 
 <table id="2-3-9-3-85-POc-solo-a">
 <tr>
@@ -7858,77 +7858,77 @@ POc _&ast;solo_ was probably a verb, but its reflexes refer, inter alia, to land
 '<span>sink down, subside; landslide</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Marovo</td><td><i>(ta)ju-julu</i></td>
+<td>MM</td><td><a href="../languages/marovo">Marovo</a></td><td><i>(ta)ju-julu</i></td>
 <td>
 '<span>landslide</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Babatana</td><td><i>jolo</i></td>
+<td>MM</td><td><a href="../languages/babatana">Babatana</a></td><td><i>jolo</i></td>
 <td>
 '<span>subside</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>to-toli(ŋi)</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>to-toli(ŋi)</i></td>
 <td>
 '<span>landslide</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Woleaian</td><td><i>toro</i></td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>toro</i></td>
 <td>
 '<span>disappear, submerge, go out of sight, vanish</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Marshallese</td><td><i>tal</i></td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>tal</i></td>
 <td>
 '<span>sink, submerge</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Satawalese</td><td><i>tol</i></td>
+<td>Mic</td><td><a href="../languages/satawalese">Satawalese</a></td><td><i>tol</i></td>
 <td>
 '<span>disappear from sight</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Rotuman</td><td><i>solo</i></td>
+<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td><i>solo</i></td>
 <td>
 '<span>sink down</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>ho-holo</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>ho-holo</i></td>
 <td>
 '<span>slip</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>holo</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>holo</i></td>
 <td>
 '<span>collapse, cave in</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>East Futunan</td><td><i>solo</i></td>
+<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td><i>solo</i></td>
 <td>
 '<span>collapse, cave in; landslide</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>solo</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>solo</i></td>
 <td>
 '<span>slide, slip; landslide</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>soro</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>soro</i></td>
 <td>
 '<span>rub, grate; landslide</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tahitian</td><td><i>horo</i></td>
+<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td><i>horo</i></td>
 <td>
 '<span>landslide</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>horo</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>horo</i></td>
 <td>
 '<span>landslide</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Hawaiian</td><td><i>holo</i></td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>holo</i></td>
 <td>
 '<span>landslide</span>'</td>
 </tr>
@@ -7954,32 +7954,32 @@ POc _&ast;solo_ was probably a verb, but its reflexes refer, inter alia, to land
 '<span>landslip</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>matoba</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>matoba</i></td>
 <td>
 '<span>landslip</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Bugotu</td><td><i>matoba</i></td>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>matoba</i></td>
 <td>
 '<span>landslip</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Longgu</td><td><i>toba</i></td>
+<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td><i>toba</i></td>
 <td>
 [VI] '<span>(land) slip</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>maoba</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>maoba</i></td>
 <td>
 '<span>landslip</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Raga</td><td><i>matova</i></td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>matova</i></td>
 <td>
 '<span>landslip, flood</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Paamese</td><td><i>matehe</i></td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>matehe</i></td>
 <td>
 '<span>landslide, slip</span>'</td>
 </tr>
@@ -7993,7 +7993,7 @@ POc _&ast;solo_ was probably a verb, but its reflexes refer, inter alia, to land
 ### 9.4. Tidal wave
 
 
-No POc term denoting tidal wave has been reconstructed. In contemporary languages, terms for tidal wave are compounds, with the first element often a reflex of _&ast;tasik_ ‘sea’ (Ch.4, §2.1) or _&ast;[u]Ruap_ ‘high tide’ (§2.6). These terms do not usually distinguish tsunamis, caused by undersea earth movements, from floods caused by a combination of high tide and strong wind. In any case, catastrophic tidal waves probably occur only once or twice a century, and affect only localised places. Although a number of terms for ‘tidal wave’ have been collected, and are listed below, cognates exist only within low level subgroups.
+No POc term denoting tidal wave has been reconstructed. In contemporary languages, terms for tidal wave are compounds, with the first element often a reflex of _&ast;tasik_ ‘sea’ ([Ch.4, §2.1](../contributions/2-4#s-2-1)) or _&ast;[u]Ruap_ ‘high tide’ ([§2.6](../contributions/2-3#s-2-6)). These terms do not usually distinguish tsunamis, caused by undersea earth movements, from floods caused by a combination of high tide and strong wind. In any case, catastrophic tidal waves probably occur only once or twice a century, and affect only localised places. Although a number of terms for ‘tidal wave’ have been collected, and are listed below, cognates exist only within low level subgroups.
 
 <table id="2-3-9-4-85-adm-mussau-manugagaga">
 <tr>
@@ -8128,7 +8128,7 @@ A PMP term for ‘flood’ (V and N) is continued in two known Oceanic witnesses
 <i>&ast;bahaq</i>
 </td>
 <td>
-'<span>a flood; overflow, be in flood</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>; <a href="../references.md#source-Dempwolff1938">Dempwolff1938</a>)
+'<span>a flood; overflow, be in flood</span>' (<a href="../sources/Blust1995">Blust1995</a>; <a href="../sources/Dempwolff1938">Dempwolff1938</a>)
 </td>
 </tr>
 <tr>
@@ -8137,16 +8137,16 @@ A PMP term for ‘flood’ (V and N) is continued in two known Oceanic witnesses
 <i>&ast;pa(a)q</i>
 </td>
 <td>
-'<span>overflow, flood</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>overflow, flood</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>(lua) hā</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>(lua) hā</i></td>
 <td>
 '<span>high spring tide</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>fā</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>fā</i></td>
 <td>
 '<span>(of a river) to overflow, be in flood</span>'</td>
 </tr>
@@ -8163,7 +8163,7 @@ As a compound with the term for fresh water, POc _&ast;waiR pa(a)q_ ‘river flo
 <i>&ast;wahir bahaq</i>
 </td>
 <td>
-'<span>floodwaters</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>floodwaters</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -8175,7 +8175,7 @@ As a compound with the term for fresh water, POc _&ast;waiR pa(a)q_ ‘river flo
 '<span>river floodwaters</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>vai fā </i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>vai fā </i></td>
 <td>
 '<span>flood (from a river), river in flood</span>'</td>
 </tr>
@@ -8183,7 +8183,7 @@ As a compound with the term for fresh water, POc _&ast;waiR pa(a)q_ ‘river flo
 
 
 
-Flooding for coastal dwellers on small Oceanic islands is likely to be the result of an unusually high tide (POc _&ast;[u]Ruap_ ‘high tide; to flow in of tide’, see Ch.4, §2.6), rather than heavy rain. King tides or spring tides are phenomena which occur at regular intervals, so are unlikely to be of more than nuisance value except when exacerbated by high winds. Terms for tidal flooding may be compounds including reflexes of _&ast;[u]Ruap_, or a related form (_&ast;[ma-]uRua(p)_ ‘flood, be flooded’) (Sa’a _lua hā_ ‘high spring tide’, Mota _rue lava_ ‘large tide’, Bauan Fijian _ua luvu_ ‘submerging tide’). Other POc terms include reflexes of _&ast;lolo_ (V) ‘flood’, and _&ast;lomak_ (N,V) ‘flood, of sea’.
+Flooding for coastal dwellers on small Oceanic islands is likely to be the result of an unusually high tide (POc _&ast;[u]Ruap_ ‘high tide; to flow in of tide’, see [Ch.4, §2.6](../contributions/2-4#s-2-6)), rather than heavy rain. King tides or spring tides are phenomena which occur at regular intervals, so are unlikely to be of more than nuisance value except when exacerbated by high winds. Terms for tidal flooding may be compounds including reflexes of _&ast;[u]Ruap_, or a related form (_&ast;[ma-]uRua(p)_ ‘flood, be flooded’) (Sa’a _lua hā_ ‘high spring tide’, Mota _rue lava_ ‘large tide’, Bauan Fijian _ua luvu_ ‘submerging tide’). Other POc terms include reflexes of _&ast;lolo_ (V) ‘flood’, and _&ast;lomak_ (N,V) ‘flood, of sea’.
 
 <table id="2-3-9-5-86-POc-mauruap-a">
 <tr>
@@ -8195,22 +8195,22 @@ Flooding for coastal dwellers on small Oceanic islands is likely to be the resul
 '<span>flood, be flooded</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Manam</td><td><i>urua</i></td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>urua</i></td>
 <td>
 '<span>flood, torrent</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Molima</td><td><i>moluva</i></td>
+<td>PT</td><td><a href="../languages/molima">Molima</a></td><td><i>moluva</i></td>
 <td>
 '<span>flood</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Dobu</td><td><i>muluwa</i></td>
+<td>PT</td><td><a href="../languages/dobu">Dobu</a></td><td><i>muluwa</i></td>
 <td>
 '<span>flood</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Tamambo</td><td><i>moruae</i></td>
+<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td><i>moruae</i></td>
 <td>
 '<span>flood, big river</span>'</td>
 </tr>
@@ -8239,22 +8239,22 @@ Flooding for coastal dwellers on small Oceanic islands is likely to be the resul
 [V] '<span>flood</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Andra</td><td><i>lolo(mat)</i></td>
+<td>Adm</td><td><a href="../languages/andra">Andra</a></td><td><i>lolo(mat)</i></td>
 <td>
 '<span>windward part of reef flat, covered at high tide</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Gedaged</td><td><i>lolo(ani)</i></td>
+<td>NNG</td><td><a href="../languages/gedaged">Gedaged</a></td><td><i>lolo(ani)</i></td>
 <td>
 [V] '<span>inundate, flood, drown, stream over, flow over, cause to sink under water</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>lolo</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>lolo</i></td>
 <td>
 '<span>beginning to rise, of the tide</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>lolo</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>lolo</i></td>
 <td>
 [V] '<span>overflow</span>'; [N] '<span>flood</span>'</td>
 </tr>
@@ -8272,17 +8272,17 @@ Flooding for coastal dwellers on small Oceanic islands is likely to be the resul
 [N,V] '<span>flood, of sea</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Takia</td><td><i>lom</i></td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>lom</i></td>
 <td>
 '<span>flood</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Gedaged</td><td><i>lom, lom-lom</i></td>
+<td>NNG</td><td><a href="../languages/gedaged">Gedaged</a></td><td><i>lom, lom-lom</i></td>
 <td>
 '<span>the dirty water that flows off after rain, the water that lies around after rain</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Sursurunga</td><td><i>lom-lom</i></td>
+<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td><i>lom-lom</i></td>
 <td>
 '<span>high tide, flood</span>'</td>
 </tr>
@@ -8292,31 +8292,31 @@ Flooding for coastal dwellers on small Oceanic islands is likely to be the resul
 <i>&ast;lo(o)ma, lo(o)maki</i>
 </td>
 <td>
-'<span>flood caused by high seas or tides</span>' (<a href="../references.md#source-BiggsandClark1993">BiggsandClark1993</a>)
+'<span>flood caused by high seas or tides</span>' (<a href="../sources/BiggsandClark1993">BiggsandClark1993</a>)
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>lōmaki</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>lōmaki</i></td>
 <td>
 [N] '<span>flood, deluge</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>East Futunan</td><td><i>lōmaki</i></td>
+<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td><i>lōmaki</i></td>
 <td>
 '<span>flooded as by large waves</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>West Uvean</td><td><i>lo-loma</i></td>
+<td>Pn</td><td><a href="../languages/westuvean">West Uvean</a></td><td><i>lo-loma</i></td>
 <td>
 '<span>sea flood, tide</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>roma</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>roma</i></td>
 <td>
 '<span>flood, flood tide, stream, current</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tuamotuan</td><td><i>roma</i></td>
+<td>Pn</td><td><a href="../languages/tuamotuan">Tuamotuan</a></td><td><i>roma</i></td>
 <td>
 '<span>flood</span>'</td>
 </tr>
@@ -8333,31 +8333,31 @@ The reconstruction below appears to have referred to flooding or gushing.
 <i>&ast;ñoro</i>
 </td>
 <td>
-'<span>flood, gush, flow everywhere</span>' (<a href="../references.md#source-Blust1998b">Blust1998b</a>)
+'<span>flood, gush, flow everywhere</span>' (<a href="../sources/Blust1998b">Blust1998b</a>)
 </td>
 </tr>
 <tr>
-<td>Adm</td><td>Lou</td><td><i>noro</i></td>
+<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td><i>noro</i></td>
 <td>
 '<span>flood</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Mangap</td><td><i>no-nor</i></td>
+<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td><i>no-nor</i></td>
 <td>
 '<span>tidal wave, flood</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Halia</td><td><i>nolo</i></td>
+<td>MM</td><td><a href="../languages/halia">Halia</a></td><td><i>nolo</i></td>
 <td>
 '<span>flood</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tolai</td><td><i>noro</i></td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>noro</i></td>
 <td>
 '<span>to pour forth, gush, flow quickly</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Anejom</td><td><i>ya</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>ya</i></td>
 <td>
 '<span>flow everywhere, out of control</span>'</td>
 </tr>
@@ -8396,7 +8396,7 @@ The meanings of the prefix _&ast;qā-_, and the alternative form _&ast;pua-_ (bl
 '<span>(?) whirlwind, rainbow</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>ga-siosio</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>ga-siosio</i></td>
 <td>
 '<span>rainbow</span>' (<span>see note above</span>)</td>
 </tr>
@@ -8409,47 +8409,47 @@ The meanings of the prefix _&ast;qā-_, and the alternative form _&ast;pua-_ (bl
 '<span>whirlwind, waterspout</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>hio-hio</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>hio-hio</i></td>
 <td>
 '<span>whirlwind, tornado</span>' (<span>from McEwen. Sperlich gives tiotio.</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>ʔa-hiohio</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>ʔa-hiohio</i></td>
 <td>
 '<span>whirlwind</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>East Futunan</td><td><i>ʔā-siosio</i></td>
+<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td><i>ʔā-siosio</i></td>
 <td>
 '<span>waterspout</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>ā-siosio</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>ā-siosio</i></td>
 <td>
 '<span>whirlwind</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tokelauan</td><td><i>ā-hiohio</i></td>
+<td>Pn</td><td><a href="../languages/tokelauan">Tokelauan</a></td><td><i>ā-hiohio</i></td>
 <td>
 '<span>whirlwind, waterspout</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rarotongan</td><td><i>puā-ʔioʔio</i></td>
+<td>Pn</td><td><a href="../languages/rarotongan">Rarotongan</a></td><td><i>puā-ʔioʔio</i></td>
 <td>
 '<span>whirlwind</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tahitian</td><td><i>pua-hiohio</i></td>
+<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td><i>pua-hiohio</i></td>
 <td>
 '<span>whirlwind, cyclone</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>ā-fiofio</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>ā-fiofio</i></td>
 <td>
 '<span>whirlwind</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Hawaiian</td><td><i>pua-hiohio</i></td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>pua-hiohio</i></td>
 <td>
 '<span>whirlwind</span>'</td>
 </tr>
@@ -8469,27 +8469,27 @@ The next item may be associated in some way with POc _&ast;piro_ ‘twist togeth
 '<span>whirlwind, waterspout</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kove</td><td><i>vili-viliu</i></td>
+<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td><i>vili-viliu</i></td>
 <td>
 '<span>small whirlwind</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Kilivila</td><td><i>vi-vilu(wa)</i></td>
+<td>PT</td><td><a href="../languages/kilivila">Kilivila</a></td><td><i>vi-vilu(wa)</i></td>
 <td>
 '<span>whirlwind, waterspout</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Wedau</td><td><i>viri-viri(toto)</i></td>
+<td>PT</td><td><a href="../languages/wedau">Wedau</a></td><td><i>viri-viri(toto)</i></td>
 <td>
 '<span>whirlwind, waterspout</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Roviana</td><td><i>vi-viru(a)</i></td>
+<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td><i>vi-viru(a)</i></td>
 <td>
 '<span>waterspout</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Ghari</td><td><i>viru</i></td>
+<td>SES</td><td><a href="../languages/ghari">Ghari</a></td><td><i>viru</i></td>
 <td>
 '<span>waterspout</span>'</td>
 </tr>
@@ -8502,27 +8502,27 @@ The next item may be associated in some way with POc _&ast;piro_ ‘twist togeth
 '<span>eddy, whirlpool</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Kwaio</td><td><i>libo</i></td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>libo</i></td>
 <td>
 '<span>eddy in stream, whirlpool</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>lipo, lipo-lipo</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>lipo, lipo-lipo</i></td>
 <td>
 '<span>ripples</span>' (<span>not incl. in Sperlich</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>(mā)ripo-ripo</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>(mā)ripo-ripo</i></td>
 <td>
 '<span>whirl</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tahitian</td><td><i>ripo-ripo</i></td>
+<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td><i>ripo-ripo</i></td>
 <td>
 '<span>wavelets in a ring</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>ripo</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>ripo</i></td>
 <td>
 '<span>eddy, whirlpool</span>'</td>
 </tr>

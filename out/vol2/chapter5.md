@@ -6,7 +6,7 @@
 ## 1. Introduction
 
 
-The reconstruction of any terminology brings its own peculiar problems. In this case, the challenge was associated with the fact that meteorological conditions are not the same throughout the Austronesian speaking area. It is a necessary inference that as Austronesian speakers settled the regions they now occupy, they encountered new conditions which required adaptations in their terminology. Thus the meanings of the terms in a given language need to be related to the weather conditions which occur where the language is spoken. For this reason, §2 gives a short account of Pacific wind systems, while in §3 the weather patterns that Austronesian speakers encountered during their (largely eastward) migrations are described. Less trivially, a hypothesis about the semantic structure of POc speakers’ weather terminology must rest on a hypothesis about where POc was spoken — and the same is true of any protolanguage for which weather terms are reconstructed. My assumption here that POc was spoken in the Bismarck Archipelago. I return to this matter in the concluding section.[^1]
+The reconstruction of any terminology brings its own peculiar problems. In this case, the challenge was associated with the fact that meteorological conditions are not the same throughout the Austronesian speaking area. It is a necessary inference that as Austronesian speakers settled the regions they now occupy, they encountered new conditions which required adaptations in their terminology. Thus the meanings of the terms in a given language need to be related to the weather conditions which occur where the language is spoken. For this reason, [§2](../contributions/2-5#s-2) gives a short account of Pacific wind systems, while in [§3](../contributions/2-5#s-3) the weather patterns that Austronesian speakers encountered during their (largely eastward) migrations are described. Less trivially, a hypothesis about the semantic structure of POc speakers’ weather terminology must rest on a hypothesis about where POc was spoken — and the same is true of any protolanguage for which weather terms are reconstructed. My assumption here that POc was spoken in the Bismarck Archipelago. I return to this matter in the concluding section.[^1]
 
 
 <a id="s-2"></a>
@@ -72,18 +72,18 @@ It is clear from this account of wind systems in Austronesian speaking areas tha
 
 Table 3 summarises the seasonal conditions pertaining in various Austronesian speaking areas. It is at best a crude summary, as local conditions may change considerably from one side of an island to the other, especially where orographic rain occurs. The locations are set out in very roughly the sequence in which I assume them (on the basis of Figure 1) to have been occupied by Austronesian speakers.
 
-I assume that Proto Malayo-Polynesian was spoken in the northerly part of the Philippines. Here the northeast trades prevail in the SHS, but are replaced by monsoonal southerlies in the SHW. On the larger islands this means that east-facing slopes receive orographic rain during the trades and convectional rains in the monsoon, whilst west- facing slopes get orographic rain during the monsoon and have drought during the trades ([Alip & Borlaza 1984](../references.md#source-AlipandBorlaza1984)). During the monsoon typhoons often strike the northern and central islands, but [Benedek](../references.md#source-Benedek1991) ([1991](../references.md#source-Benedek1991):13) reports for the islands between the Philippines and Taiwan that there is sometimes a period when the sea is becalmed and the heat becomes intolerable.
+I assume that Proto Malayo-Polynesian was spoken in the northerly part of the Philippines. Here the northeast trades prevail in the SHS, but are replaced by monsoonal southerlies in the SHW. On the larger islands this means that east-facing slopes receive orographic rain during the trades and convectional rains in the monsoon, whilst west- facing slopes get orographic rain during the monsoon and have drought during the trades ([Alip & Borlaza 1984](../sources/AlipandBorlaza1984)). During the monsoon typhoons often strike the northern and central islands, but [Benedek](../sources/Benedek1991) ([1991](../sources/Benedek1991):13) reports for the islands between the Philippines and Taiwan that there is sometimes a period when the sea is becalmed and the heat becomes intolerable.
 
 As Austronesian speakers moved south into Mindanao and then Borneo, Sulawesi and perhaps Halmahera, they left the trade winds behind and entered the equatorial region with two monsoon seasons where rain falls all the year round. North of the equator, the accustomed monsoonal southerlies or southwesterlies continued in the SHW, but in the SHS the northeast trades became the northeast monsoon as they accumulated moisture prior to crossing the Equator. When our travellers crossed the Equator, they experienced a reorientation of wind directions: the southerly monsoon of the SHW became decidedly southeasterly or easterly, whilst the northeast monsoon of the SHS veered to the northwest or west.
 
-Even in the equatorial zone, there is some seasonal variation in rainfall, the peak occurring in the SHS when the airflow is from Asia to Australia. This difference became more pronounced the further south and east (i.e. the closer to Australia) Austronesian speakers moved, and Sumba and Timor are quite dry during the SHW when the easterly monsoon brings dry air from Australia. By the time it reaches western Indonesia or moves north of the Equator and becomes the southwest monsoon, its winds have become humid and a source of rain, so that Sumatra and Borneo have no dry season, whilst Java divides into a wet west (from orographic rain) and a dry east ([McDivitt 1984](../references.md#source-Mcdivitt1984)).
+Even in the equatorial zone, there is some seasonal variation in rainfall, the peak occurring in the SHS when the airflow is from Asia to Australia. This difference became more pronounced the further south and east (i.e. the closer to Australia) Austronesian speakers moved, and Sumba and Timor are quite dry during the SHW when the easterly monsoon brings dry air from Australia. By the time it reaches western Indonesia or moves north of the Equator and becomes the southwest monsoon, its winds have become humid and a source of rain, so that Sumatra and Borneo have no dry season, whilst Java divides into a wet west (from orographic rain) and a dry east ([McDivitt 1984](../sources/Mcdivitt1984)).
 
 When Austronesian speakers travelled eastwards, probably from Halmahera, and moved along the north coast of the island of New Guinea, they gradually experienced a lessening of the effects of the southeast monsoon, as the central cordillera provided an increasingly large obstacle to it. The northwest monsoon of the SHS continued to provide the rainy season, however.
 
 
 <a id="p-125"></a>
 
-As the migrants emerged from the lee of the cordillera onto the Huon Peninsula and crossed to New Britain, two things occurred which presumably came to be reflected in POc terminology. First, they had left the monsoonal region behind them, and during the SHS they experienced the fairly windless rainy season of the ITCZ, with some sporadic northwesterly winds. Secondly they encountered for the first time the southeast trades of the SHW, during which the north coasts of the Huon Peninsula and of New Britain have their dry season, whilst their south coasts suffer torrential orographic rain ([Howlett 1967](../references.md#source-Howlett1967):36–38). As they later spread around the coasts and offshore islands of Papua New Guinea and into the Bismarck Archipelago and then the New Georgia group of the northwest Solomons, they continued to encounter this and other kinds of local variation, but the southeast trades always continued to be the prevailing winds.
+As the migrants emerged from the lee of the cordillera onto the Huon Peninsula and crossed to New Britain, two things occurred which presumably came to be reflected in POc terminology. First, they had left the monsoonal region behind them, and during the SHS they experienced the fairly windless rainy season of the ITCZ, with some sporadic northwesterly winds. Secondly they encountered for the first time the southeast trades of the SHW, during which the north coasts of the Huon Peninsula and of New Britain have their dry season, whilst their south coasts suffer torrential orographic rain ([Howlett 1967](../sources/Howlett1967):36–38). As they later spread around the coasts and offshore islands of Papua New Guinea and into the Bismarck Archipelago and then the New Georgia group of the northwest Solomons, they continued to encounter this and other kinds of local variation, but the southeast trades always continued to be the prevailing winds.
 
 : Table 3: Approximate summary of seasons in some Pacific locations
 
@@ -136,7 +136,7 @@ The generic term for ‘wind’ in POc was _&ast;aŋin_, which continues PMP _&a
 <i>&ast;haŋin</i>
 </td>
 <td>
-'<span>air, wind</span>' (<a href="../references.md#source-Dempwolff1938">Dempwolff1938</a>)
+'<span>air, wind</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
 </td>
 </tr>
 <tr>
@@ -148,67 +148,67 @@ The generic term for ‘wind’ in POc was _&ast;aŋin_, which continues PMP _&a
 '<span>wind</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Mangap</td><td><i>yaŋ</i></td>
+<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td><i>yaŋ</i></td>
 <td>
 '<span>rain</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Bing</td><td><i>yaŋ</i></td>
+<td>NNG</td><td><a href="../languages/bing">Bing</a></td><td><i>yaŋ</i></td>
 <td>
 '<span>wind</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Minaveha</td><td><i>yagina</i></td>
+<td>PT</td><td><a href="../languages/minaveha">Minaveha</a></td><td><i>yagina</i></td>
 <td>
 '<span>wind</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Wedau</td><td><i>ðaɣina</i></td>
+<td>PT</td><td><a href="../languages/wedau">Wedau</a></td><td><i>ðaɣina</i></td>
 <td>
 '<span>wind</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Balawaia</td><td><i>aɣi</i></td>
+<td>PT</td><td><a href="../languages/balawaia">Balawaia</a></td><td><i>aɣi</i></td>
 <td>
 '<span>wind</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>lai</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>lai</i></td>
 <td>
 '<span>wind</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Konomala</td><td><i>yaŋin</i></td>
+<td>MM</td><td><a href="../languages/konomala">Konomala</a></td><td><i>yaŋin</i></td>
 <td>
 '<span>wind</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Port Sandwich</td><td><i>n-ean</i></td>
+<td>NCV</td><td><a href="../languages/portsandwich">Port Sandwich</a></td><td><i>n-ean</i></td>
 <td>
 '<span>wind</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kiribatese</td><td><i>aŋ</i></td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>aŋ</i></td>
 <td>
 '<span>wind</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Woleaian</td><td><i>yaŋ</i></td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>yaŋ</i></td>
 <td>
 '<span>wind</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>ðaŋi</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>ðaŋi</i></td>
 <td>
 '<span>wind</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>aŋi</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>aŋi</i></td>
 <td>
 '<span>(wind, breeze) blow</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>aŋi</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>aŋi</i></td>
 <td>
 '<span>(wind, breeze) blow</span>'</td>
 </tr>
@@ -231,37 +231,37 @@ Three terms for winds of differing strengths are reconstructable. POc _&ast;jaŋ
 [N] '<span>strong wind</span>'; [V] '<span>be windy</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Bing</td><td><i>sāŋ</i></td>
+<td>NNG</td><td><a href="../languages/bing">Bing</a></td><td><i>sāŋ</i></td>
 <td>
 '<span>wind strong directly against</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Mapos Buang</td><td><i>saŋ</i></td>
+<td>NNG</td><td><a href="../languages/maposbuang">Mapos Buang</a></td><td><i>saŋ</i></td>
 <td>
 '<span>strong winds which blow up the valley around November</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>daŋi</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>daŋi</i></td>
 <td>
 '<span>wind</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>deŋi</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>deŋi</i></td>
 <td>
 '<span>wind</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Nemi</td><td><i>dān</i></td>
+<td>NCal</td><td><a href="../languages/nemi">Nemi</a></td><td><i>dān</i></td>
 <td>
 '<span>wind</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>(ma)taŋi</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>(ma)taŋi</i></td>
 <td>
 [N] '<span>wind</span>'; [V] '<span>be windy</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>(ma)taŋi</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>(ma)taŋi</i></td>
 <td>
 [N] '<span>wind</span>'; [V] '<span>be windy, stormy</span>'</td>
 </tr>
@@ -287,67 +287,67 @@ Three terms for winds of differing strengths are reconstructable. POc _&ast;jaŋ
 [N] '<span>breeze</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Lou</td><td><i>soso</i></td>
+<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td><i>soso</i></td>
 <td>
 '<span>wind, breeze</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Titan</td><td><i>só-soú-n</i></td>
+<td>Adm</td><td><a href="../languages/titan">Titan</a></td><td><i>só-soú-n</i></td>
 <td>
 '<span>wind from a particular direction</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kilenge</td><td><i>-sou</i></td>
+<td>NNG</td><td><a href="../languages/kilenge">Kilenge</a></td><td><i>-sou</i></td>
 <td>
 '<span>(wind) blow</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Bilibil</td><td><i>sau</i></td>
+<td>NNG</td><td><a href="../languages/bilibil">Bilibil</a></td><td><i>sau</i></td>
 <td>
 '<span>rain</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Poeng</td><td><i>saū</i></td>
+<td>NNG</td><td><a href="../languages/poeng">Poeng</a></td><td><i>saū</i></td>
 <td>
 '<span>wind; large, damaging with black, foreboding sky</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Solos</td><td><i>seou-ŋ</i></td>
+<td>MM</td><td><a href="../languages/solos">Solos</a></td><td><i>seou-ŋ</i></td>
 <td>
 '<span>wind</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>sau(toŋa)</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>sau(toŋa)</i></td>
 <td>
 '<span>north wind</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>ðau-ðau</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>ðau-ðau</i></td>
 <td>
 '<span>light to moderate wind, of early mornings and early evenings</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>ðau-ðau</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>ðau-ðau</i></td>
 <td>
 '<span>land breeze</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rapanui</td><td><i>hau</i></td>
+<td>Pn</td><td><a href="../languages/rapanui">Rapanui</a></td><td><i>hau</i></td>
 <td>
 '<span>breeze, wind; blow freshly; cool</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Hawaiian</td><td><i>hau</i></td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>hau</i></td>
 <td>
 '<span>cool breeze</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>hau</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>hau</i></td>
 <td>
 '<span>wind, breeze</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>West Futunan</td><td><i>sau</i></td>
+<td>Pn</td><td><a href="../languages/westfutunan">West Futunan</a></td><td><i>sau</i></td>
 <td>
 '<span>(wind) blow; sound of wind</span>'</td>
 </tr>
@@ -365,57 +365,57 @@ Three terms for winds of differing strengths are reconstructable. POc _&ast;jaŋ
 [N] '<span>breeze</span>'; [V] '<span>blow gently</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Lukep (Pono)</td><td><i>muru</i></td>
+<td>NNG</td><td><a href="../languages/lukeppono">Lukep (Pono)</a></td><td><i>muru</i></td>
 <td>
 '<span>breeze</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Mangap</td><td><i>mīri</i></td>
+<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td><i>mīri</i></td>
 <td>
 '<span>wind</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Mangap</td><td><i>mir-mīri</i></td>
+<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td><i>mir-mīri</i></td>
 <td>
 '<span>little breeze</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kilenge</td><td><i>na-mule</i></td>
+<td>NNG</td><td><a href="../languages/kilenge">Kilenge</a></td><td><i>na-mule</i></td>
 <td>
 '<span>wind</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Yabem</td><td><i>mu</i></td>
+<td>NNG</td><td><a href="../languages/yabem">Yabem</a></td><td><i>mu</i></td>
 <td>
 '<span>wind</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tabar</td><td><i>mur</i></td>
+<td>MM</td><td><a href="../languages/tabar">Tabar</a></td><td><i>mur</i></td>
 <td>
 '<span>wind</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Rotuman</td><td><i>mure</i></td>
+<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td><i>mure</i></td>
 <td>
 '<span>blow gently</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>mudre</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>mudre</i></td>
 <td>
 [V] '<span>(wind) blow gently</span>'; [N] '<span>cool breeze</span>'; [ADJ] '<span>cool, breezy</span>' (<span><em>-dr-</em> for expected <em>*-r-</em></span>)</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>mure</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>mure</i></td>
 <td>
 '<span>(breeze) blow lightly</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>muri-muri</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>muri-muri</i></td>
 <td>
 '<span>breeze</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tuamotuan</td><td><i>mure</i></td>
+<td>Pn</td><td><a href="../languages/tuamotuan">Tuamotuan</a></td><td><i>mure</i></td>
 <td>
 '<span>fail (of breath)</span>'</td>
 </tr>
@@ -473,57 +473,57 @@ Another term for wind was POc _&ast;mal(i,e)u_, but it is not possible to determ
 '<span>wind</span>'</td>
 </tr>
 <tr>
-<td>SJ</td><td>Sobei</td><td><i>maro</i></td>
+<td>SJ</td><td><a href="../languages/sobei">Sobei</a></td><td><i>maro</i></td>
 <td>
 '<span>wind</span>' (<span><em>-o</em> &lt; <em>*-ew</em></span>)</td>
 </tr>
 <tr>
-<td>PT</td><td>Tawala</td><td><i>malewa</i></td>
+<td>PT</td><td><a href="../languages/tawala">Tawala</a></td><td><i>malewa</i></td>
 <td>
 '<span>favourable wind, wind from behind</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Lavongai</td><td><i>malu</i></td>
+<td>MM</td><td><a href="../languages/lavongai">Lavongai</a></td><td><i>malu</i></td>
 <td>
 '<span>(wind) blow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Kara (West)</td><td><i>maliu</i></td>
+<td>MM</td><td><a href="../languages/karawest">Kara (West)</a></td><td><i>maliu</i></td>
 <td>
 '<span>wind</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nalik</td><td><i>maliu</i></td>
+<td>MM</td><td><a href="../languages/nalik">Nalik</a></td><td><i>maliu</i></td>
 <td>
 '<span>wind</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Notsi</td><td><i>mal</i></td>
+<td>MM</td><td><a href="../languages/notsi">Notsi</a></td><td><i>mal</i></td>
 <td>
 '<span>wind</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Madak</td><td><i>man-man</i></td>
+<td>MM</td><td><a href="../languages/madak">Madak</a></td><td><i>man-man</i></td>
 <td>
 '<span>wind</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Maringe</td><td><i>maloa</i></td>
+<td>MM</td><td><a href="../languages/maringe">Maringe</a></td><td><i>maloa</i></td>
 <td>
 '<span>air, open space</span>' (<span><em>-oa</em> &lt; <em>*-ewa</em></span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td>Mokilese</td><td><i>mɛl-mɛl</i></td>
+<td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td><i>mɛl-mɛl</i></td>
 <td>
 '<span>storm, typhoon</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Ponapean</td><td><i>mɛli-mɛl</i></td>
+<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td><i>mɛli-mɛl</i></td>
 <td>
 '<span>windstorm, typhoon</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Woleaian</td><td><i>marɨ-mer</i></td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>marɨ-mer</i></td>
 <td>
 '<span>storm, typhoon</span>'</td>
 </tr>
@@ -531,11 +531,11 @@ Another term for wind was POc _&ast;mal(i,e)u_, but it is not possible to determ
 
 
 
-In [Ross](../references.md#source-Ross1995c) ([1995c](../references.md#source-Ross1995c)) I wrote:
+In [Ross](../sources/Ross1995c) ([1995c](../sources/Ross1995c)) I wrote:
 
 > my attempts to reconstruct POc terms for ‘typhoon’, ‘cyclone’ and ‘whirlwind’ have failed completely. On reflection, this is not surprising, as I have hypothesised that POc was spoken in the Bismarcks — too close to the Equator and to the ITCZ to be affected by winds of this kind.
 
-[Lynch](../references.md#source-Lynch1997) ([1997](../references.md#source-Lynch1997)), however, points out that there is a South Vanuatu reflex of PAn _&ast;baRiuS_ ‘typhoon’, and that POc _&ast;paRiu_ ‘cyclone’ is therefore reconstructable. The lack of reflexes elsewhere is perhaps to be attributed, then, to their loss in languages whose speakers do not normally experience cyclones.
+[Lynch](../sources/Lynch1997) ([1997](../sources/Lynch1997)), however, points out that there is a South Vanuatu reflex of PAn _&ast;baRiuS_ ‘typhoon’, and that POc _&ast;paRiu_ ‘cyclone’ is therefore reconstructable. The lack of reflexes elsewhere is perhaps to be attributed, then, to their loss in languages whose speakers do not normally experience cyclones.
 
 <table id="2-5-4-1-128-POc-pariu-a">
 <tr>
@@ -555,7 +555,7 @@ In [Ross](../references.md#source-Ross1995c) ([1995c](../references.md#source-Ro
 '<span>cyclone</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Anejom</td><td><i>(n)eheyo</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>(n)eheyo</i></td>
 <td>
 '<span>cyclone, hurricane</span>'</td>
 </tr>
@@ -568,7 +568,7 @@ In [Ross](../references.md#source-Ross1995c) ([1995c](../references.md#source-Ro
 
 Although a number of etyma referring to a wind seem to have been used both as a noun denoting that wind and as a verb expressing the action of the particular wind, there are also several reconstructable POc terms which seem to have been primarily used as verbs of blowing with reference to winds or people.
 
-Three of these, _&ast;upi_, _&ast;ipu_ and _&ast;i(p,pʷ)i_, are clearly related to each other phonologically. The pair _&ast;upi_ and _&ast;ipu_ ‘blow’ are strikingly parallel to POc _&ast;ubi_/_&ast;ibu_ ‘half coconut shell used as a drinking cup’, and it is possible that both pairs were generated at the same time by the application of a single rule (or similar wordplay) to the pre-existing member of each pair. In the case of POc _&ast;upi_/_&ast;ipu_ ‘blow’, it seems likely that the pre-existing member was _&ast;ipu_, since it can be traced back to PMP _&ast;ibut_ ‘breeze, draught of wind’, and that _&ast;upi_ was the late-generated form. However, its generation predates POc, as Blust has reconstructed PCEMP _&ast;upi_ ‘(wind, person) blow’ (1993).[^7] Similarly, the generation of the pair _&ast;ubi_/_&ast;ibu_ ‘half coconut shell …’ also predates POc, as both forms are reconstructable in Proto Eastern Malayo-Polynesian ([Blust 1978a](../references.md#source-Blust1978a)).
+Three of these, _&ast;upi_, _&ast;ipu_ and _&ast;i(p,pʷ)i_, are clearly related to each other phonologically. The pair _&ast;upi_ and _&ast;ipu_ ‘blow’ are strikingly parallel to POc _&ast;ubi_/_&ast;ibu_ ‘half coconut shell used as a drinking cup’, and it is possible that both pairs were generated at the same time by the application of a single rule (or similar wordplay) to the pre-existing member of each pair. In the case of POc _&ast;upi_/_&ast;ipu_ ‘blow’, it seems likely that the pre-existing member was _&ast;ipu_, since it can be traced back to PMP _&ast;ibut_ ‘breeze, draught of wind’, and that _&ast;upi_ was the late-generated form. However, its generation predates POc, as Blust has reconstructed PCEMP _&ast;upi_ ‘(wind, person) blow’ (1993).[^7] Similarly, the generation of the pair _&ast;ubi_/_&ast;ibu_ ‘half coconut shell …’ also predates POc, as both forms are reconstructable in Proto Eastern Malayo-Polynesian ([Blust 1978a](../sources/Blust1978a)).
 
 <table id="2-5-4-1-129-POc-upi-a">
 <tr>
@@ -577,7 +577,7 @@ Three of these, _&ast;upi_, _&ast;ipu_ and _&ast;i(p,pʷ)i_, are clearly related
 <i>&ast;upi</i>
 </td>
 <td>
-'<span>(wind, person) blow</span>' (<a href="../references.md#source-Blust1993">Blust1993</a>)
+'<span>(wind, person) blow</span>' (<a href="../sources/Blust1993">Blust1993</a>)
 </td>
 </tr>
 <tr>
@@ -589,97 +589,97 @@ Three of these, _&ast;upi_, _&ast;ipu_ and _&ast;i(p,pʷ)i_, are clearly related
 '<span>(wind, person) blow</span>' (<span>cf. vol. 1, pp.107–108</span>)</td>
 </tr>
 <tr>
-<td>Adm</td><td>Seimat</td><td><i>uhi</i></td>
+<td>Adm</td><td><a href="../languages/seimat">Seimat</a></td><td><i>uhi</i></td>
 <td>
 '<span>blow on the fire</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Mangap</td><td><i>-wi</i></td>
+<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td><i>-wi</i></td>
 <td>
 '<span>(wind) blow</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Apalik</td><td><i>uwi</i></td>
+<td>NNG</td><td><a href="../languages/apalik">Apalik</a></td><td><i>uwi</i></td>
 <td>
 '<span>northwest monsoon</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Takia</td><td><i>-wi</i></td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>-wi</i></td>
 <td>
 '<span>(wind) blow</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Yabem</td><td><i>yu</i></td>
+<td>NNG</td><td><a href="../languages/yabem">Yabem</a></td><td><i>yu</i></td>
 <td>
 '<span>(s.o.) blow</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kaiwa</td><td><i>u</i></td>
+<td>NNG</td><td><a href="../languages/kaiwa">Kaiwa</a></td><td><i>u</i></td>
 <td>
 '<span>(wind) blow</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Hote (Misim)</td><td><i>yuv</i></td>
+<td>NNG</td><td><a href="../languages/misim">Hote (Misim)</a></td><td><i>yuv</i></td>
 <td>
 '<span>(wind) blow</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Vehes</td><td><i>vin</i></td>
+<td>NNG</td><td><a href="../languages/vehes">Vehes</a></td><td><i>vin</i></td>
 <td>
 '<span>wind</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Mangga</td><td><i>va-vi</i></td>
+<td>NNG</td><td><a href="../languages/mangga">Mangga</a></td><td><i>va-vi</i></td>
 <td>
 '<span>wind</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Medebur</td><td><i>-wi</i></td>
+<td>NNG</td><td><a href="../languages/medebur">Medebur</a></td><td><i>-wi</i></td>
 <td>
 '<span>(wind) blow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tabar</td><td><i>uvi</i></td>
+<td>MM</td><td><a href="../languages/tabar">Tabar</a></td><td><i>uvi</i></td>
 <td>
 '<span>(wind) blow</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>uvi-uvi</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>uvi-uvi</i></td>
 <td>
 '<span>blow with the breath, play pipes</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>ufi</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>ufi</i></td>
 <td>
 '<span>blow with the mouth; blow a conch or panpipes</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>uhi</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>uhi</i></td>
 <td>
 '<span>blow, breathe on</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>uw</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>uw</i></td>
 <td>
 '<span>blow with the mouth, or of wind</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Raga</td><td><i>uvi</i></td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>uvi</i></td>
 <td>
 '<span>blow</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Paamese</td><td><i>uhi</i></td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>uhi</i></td>
 <td>
 '<span>blow</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>uvi, uvu</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>uvi, uvu</i></td>
 <td>
 '<span>(fire, flute) be blown with the mouth, (ball, balloon) inflated, blown up</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>uvi</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>uvi</i></td>
 <td>
 '<span>blow s.t. with the mouth</span>'</td>
 </tr>
@@ -702,32 +702,32 @@ In a number of NNG languages in the region of the Vitiaz Strait and the Huon Gul
 '<span>wind</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Atui</td><td><i>uvin</i></td>
+<td>NNG</td><td><a href="../languages/atui">Atui</a></td><td><i>uvin</i></td>
 <td>
 '<span>wind</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kaiwa</td><td><i>(wa)vin</i></td>
+<td>NNG</td><td><a href="../languages/kaiwa">Kaiwa</a></td><td><i>(wa)vin</i></td>
 <td>
 '<span>wind</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Duwet</td><td><i>fiŋ-fiŋ</i></td>
+<td>NNG</td><td><a href="../languages/duwet">Duwet</a></td><td><i>fiŋ-fiŋ</i></td>
 <td>
 '<span>wind</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Dangal</td><td><i>fiŋ</i></td>
+<td>NNG</td><td><a href="../languages/dangal">Dangal</a></td><td><i>fiŋ</i></td>
 <td>
 '<span>(wind) blow</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Silisili</td><td><i>fiᵑg</i></td>
+<td>NNG</td><td><a href="../languages/silisili">Silisili</a></td><td><i>fiᵑg</i></td>
 <td>
 '<span>wind</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Adzera</td><td><i>fi-fiŋ</i></td>
+<td>NNG</td><td><a href="../languages/adzera">Adzera</a></td><td><i>fi-fiŋ</i></td>
 <td>
 '<span>strong, fierce wind</span>'</td>
 </tr>
@@ -742,7 +742,7 @@ In a number of NNG languages in the region of the Vitiaz Strait and the Huon Gul
 <i>&ast;ibut</i>
 </td>
 <td>
-'<span>breeze, draught of wind</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>breeze, draught of wind</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -754,42 +754,42 @@ In a number of NNG languages in the region of the Vitiaz Strait and the Huon Gul
 '<span>(wind) blow</span>' (<span>cf. vol. 1, pp.107–108</span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td>Bing</td><td><i>yu</i></td>
+<td>NNG</td><td><a href="../languages/bing">Bing</a></td><td><i>yu</i></td>
 <td>
 '<span>(wind) blow</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Sissano</td><td><i>-iu</i></td>
+<td>NNG</td><td><a href="../languages/sissano">Sissano</a></td><td><i>-iu</i></td>
 <td>
 '<span>(wind) blow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tinputz</td><td><i>viu</i></td>
+<td>MM</td><td><a href="../languages/tinputz">Tinputz</a></td><td><i>viu</i></td>
 <td>
 '<span>(wind) blow</span>' (<span>metathesis</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td>Mono</td><td><i>ihu</i></td>
+<td>MM</td><td><a href="../languages/mono">Mono</a></td><td><i>ihu</i></td>
 <td>
 '<span>(wind) blow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Lungga</td><td><i>ivu</i></td>
+<td>MM</td><td><a href="../languages/lungga">Lungga</a></td><td><i>ivu</i></td>
 <td>
 '<span>blow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Roviana</td><td><i>ivu-a</i></td>
+<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td><i>ivu-a</i></td>
 <td>
 '<span>blow on (fire), blow into (conch)</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Maringe</td><td><i>ifu</i></td>
+<td>MM</td><td><a href="../languages/maringe">Maringe</a></td><td><i>ifu</i></td>
 <td>
 '<span>blow</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Bugotu</td><td><i>ifu</i></td>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>ifu</i></td>
 <td>
 '<span>blow (fire, pan-pipes)</span>'</td>
 </tr>
@@ -809,32 +809,32 @@ It seems likely that the form _&ast;i(p,pʷ)i_ is the result of an idiosyncratic
 '<span>(wind, person) blow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Ramoaaina</td><td><i>ipi</i></td>
+<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>ipi</i></td>
 <td>
 '<span>(wind) blow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tolai</td><td><i>ipi</i></td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>ipi</i></td>
 <td>
 '<span>(wind) blow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Teop</td><td><i>ivi</i></td>
+<td>MM</td><td><a href="../languages/teop">Teop</a></td><td><i>ivi</i></td>
 <td>
 '<span>(wind) blow</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>ifi</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>ifi</i></td>
 <td>
 '<span>blow with the mouth; blow or blow into or play (a whistle, or wind instrument)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>ifi</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>ifi</i></td>
 <td>
 '<span>blow smoke</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>ihi</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>ihi</i></td>
 <td>
 '<span>blow, of wind</span>'</td>
 </tr>
@@ -854,63 +854,63 @@ Two other forms meaning ‘blow’ are also reconstructable. These are also form
 '<span>(wind) blow</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Aria</td><td><i>-pu</i></td>
+<td>NNG</td><td><a href="../languages/aria">Aria</a></td><td><i>-pu</i></td>
 <td>
 '<span>(wind) blow</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Sengseng</td><td><i>pe-puh</i></td>
+<td>NNG</td><td><a href="../languages/sengseng">Sengseng</a></td><td><i>pe-puh</i></td>
 <td>
 '<span>wind</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Numbami</td><td><i>pusie</i></td>
+<td>NNG</td><td><a href="../languages/numbami">Numbami</a></td><td><i>pusie</i></td>
 <td>
 '<span>(wind) blow</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Patep</td><td><i>plu</i></td>
+<td>NNG</td><td><a href="../languages/patep">Patep</a></td><td><i>plu</i></td>
 <td>
 '<span>blow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Konomala</td><td><i>fus</i></td>
+<td>MM</td><td><a href="../languages/konomala">Konomala</a></td><td><i>fus</i></td>
 <td>
 '<span>(wind) blow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Minigir</td><td><i>vusu</i></td>
+<td>MM</td><td><a href="../languages/minigir">Minigir</a></td><td><i>vusu</i></td>
 <td>
 '<span>(wind) blow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tolai</td><td><i>vu</i></td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>vu</i></td>
 <td>
 '<span>(wind) blow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Hahon</td><td><i>vus</i></td>
+<td>MM</td><td><a href="../languages/hahon">Hahon</a></td><td><i>vus</i></td>
 <td>
 '<span>wind</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tinputz</td><td><i>vuh</i></td>
+<td>MM</td><td><a href="../languages/tinputz">Tinputz</a></td><td><i>vuh</i></td>
 <td>
 '<span>wind</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Sye</td><td><i>o-vosi</i></td>
+<td>SV</td><td><a href="../languages/sye">Sye</a></td><td><i>o-vosi</i></td>
 <td>
-'<span>wind</span>' (<a href="../references.md#source-Lynch1978b">Lynch1978b</a>)
+'<span>wind</span>' (<a href="../sources/Lynch1978b">Lynch1978b</a>)
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>pusi</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>pusi</i></td>
 <td>
 '<span>(wind) blow; blow (flute)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>pu-puhi</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>pu-puhi</i></td>
 <td>
 '<span>blow (as the wind, a whale); shoot (as a gun)</span>'</td>
 </tr>
@@ -930,7 +930,7 @@ The initial _p-_ of the Pn items reflects POc _&ast;b-_ or _&ast;pʷ-_: hence th
 <i>&ast;pu+put</i>
 </td>
 <td>
-'<span>blow</span>' (<a href="../references.md#source-Zorc1994">Zorc1994</a>)
+'<span>blow</span>' (<a href="../sources/Zorc1994">Zorc1994</a>)
 </td>
 </tr>
 <tr>
@@ -950,22 +950,22 @@ The initial _p-_ of the Pn items reflects POc _&ast;b-_ or _&ast;pʷ-_: hence th
 '<span>(wind) blow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Kara (West)</td><td><i>fifit</i></td>
+<td>MM</td><td><a href="../languages/karawest">Kara (West)</a></td><td><i>fifit</i></td>
 <td>
 '<span>(wind) blow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Siar</td><td><i>fut</i></td>
+<td>MM</td><td><a href="../languages/siar">Siar</a></td><td><i>fut</i></td>
 <td>
 '<span>(wind) blow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Selau</td><td><i>wut</i></td>
+<td>MM</td><td><a href="../languages/selau">Selau</a></td><td><i>wut</i></td>
 <td>
 '<span>(wind) blow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Papapana</td><td><i>pute</i></td>
+<td>MM</td><td><a href="../languages/papapana">Papapana</a></td><td><i>pute</i></td>
 <td>
 '<span>wind</span>'</td>
 </tr>
@@ -979,7 +979,7 @@ The initial _p-_ of the Pn items reflects POc _&ast;b-_ or _&ast;pʷ-_: hence th
 ### 4.2. Seasonal winds
 
 
-If POc speakers lived in the Bismarcks, then they encountered two seasons: the dry, when the southeast trades blew with reasonable consistency, and the wet, when there were sporadic northwesterly winds. The POc terms for the winds associated with these seasons were respectively _&ast;raki_ and _&ast;apaRat_. They may also have referred to the seasons, with typical weather and wind direction as inevitable components of their meanings, as well as having associations with navigability and agriculture. Modern uses of wind terms suggest strongly that they also served as terms for cardinal directions in POc, and that the two major wind directions were perhaps the only cardinal directions for POc speakers (Ch. 8, §1).
+If POc speakers lived in the Bismarcks, then they encountered two seasons: the dry, when the southeast trades blew with reasonable consistency, and the wet, when there were sporadic northwesterly winds. The POc terms for the winds associated with these seasons were respectively _&ast;raki_ and _&ast;apaRat_. They may also have referred to the seasons, with typical weather and wind direction as inevitable components of their meanings, as well as having associations with navigability and agriculture. Modern uses of wind terms suggest strongly that they also served as terms for cardinal directions in POc, and that the two major wind directions were perhaps the only cardinal directions for POc speakers ([Ch. 8, §1](../contributions/2-8#s-1)).
 
 POc _&ast;raki_ ‘southeast trades’ has no obvious non-Oceanic cognates. This is hardly surprising. When Austronesian speakers came out of the lee of the New Guinea cordillera into the Bismarcks and encountered the southeast trades of the SHW and the attendant dry season, they met what was for them a new phenomenon. The only part of Indonesia with a similar season is in the southeast in the area around Timor, where the southeast monsoon brings a dry season. But it is unlikely that people ancestral to Oceanic speakers migrated via that area.
 
@@ -1000,102 +1000,102 @@ A selection of data supporting the reconstruction of _&ast;raki_ follows.
 '<span>southeast trades</span>' (<span>probably also ‘dry season when the southeast trades blow’</span>)</td>
 </tr>
 <tr>
-<td>Adm</td><td>Lou</td><td><i>ra</i></td>
+<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td><i>ra</i></td>
 <td>
 '<span>northeast, northeast wind</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Titan</td><td><i>ⁿray</i></td>
+<td>Adm</td><td><a href="../languages/titan">Titan</a></td><td><i>ⁿray</i></td>
 <td>
 '<span>wind from the mainland, mountain breeze, blows at night</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kove</td><td><i>hai</i></td>
+<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td><i>hai</i></td>
 <td>
 '<span>southeast trade, year</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Bariai</td><td><i>rai</i></td>
+<td>NNG</td><td><a href="../languages/bariai">Bariai</a></td><td><i>rai</i></td>
 <td>
 '<span>year</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Gitua</td><td><i>rak</i></td>
+<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td><i>rak</i></td>
 <td>
 '<span>southeast trade</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Lukep</td><td><i>rai</i></td>
+<td>NNG</td><td><a href="../languages/lukep">Lukep</a></td><td><i>rai</i></td>
 <td>
 '<span>year</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Mangap</td><td><i>rak-rak</i></td>
+<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td><i>rak-rak</i></td>
 <td>
 '<span>fresh morning (during windy season)</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Tami</td><td><i>lai</i></td>
+<td>NNG</td><td><a href="../languages/tami">Tami</a></td><td><i>lai</i></td>
 <td>
 '<span>southeast trade</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Maleu</td><td><i>na-lai</i></td>
+<td>NNG</td><td><a href="../languages/maleu">Maleu</a></td><td><i>na-lai</i></td>
 <td>
 '<span>southeast trade</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Ali</td><td><i>rai</i></td>
+<td>NNG</td><td><a href="../languages/ali">Ali</a></td><td><i>rai</i></td>
 <td>
 '<span>southeast trade</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Tumleo</td><td><i>riei</i></td>
+<td>NNG</td><td><a href="../languages/tumleo">Tumleo</a></td><td><i>riei</i></td>
 <td>
 '<span>southeast trade</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Vitu</td><td><i>raɣi</i></td>
+<td>MM</td><td><a href="../languages/vitu">Vitu</a></td><td><i>raɣi</i></td>
 <td>
 '<span>southeast trade</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Bulu</td><td><i>laɣi</i></td>
+<td>MM</td><td><a href="../languages/bulu">Bulu</a></td><td><i>laɣi</i></td>
 <td>
 '<span>southeast trade</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tigak</td><td><i>rei</i></td>
+<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td><i>rei</i></td>
 <td>
 '<span>wind</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Lewo</td><td><i>lagi(pesoi)</i></td>
+<td>NCV</td><td><a href="../languages/lewo">Lewo</a></td><td><i>lagi(pesoi)</i></td>
 <td>
 '<span>east wind</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Marshallese</td><td><i>ṛɯak</i></td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>ṛɯak</i></td>
 <td>
 '<span>south, summer</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Ponapean</td><td><i>rāk</i></td>
+<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td><i>rāk</i></td>
 <td>
 '<span>breadfruit season, season of plenty</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Woleaian</td><td><i>ẓaxi</i></td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>ẓaxi</i></td>
 <td>
 '<span>year, age, summer season</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>draki</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>draki</i></td>
 <td>
 '<span>weather</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>draki</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>draki</i></td>
 <td>
 '<span>weather</span>'</td>
 </tr>
@@ -1108,52 +1108,52 @@ A selection of data supporting the reconstruction of _&ast;raki_ follows.
 '<span>southwesterly quandrant, southwest wind and weather associated with it</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>laki</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>laki</i></td>
 <td>
 '<span>west</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>East Uvean</td><td><i>laki</i></td>
+<td>Pn</td><td><a href="../languages/eastuvean">East Uvean</a></td><td><i>laki</i></td>
 <td>
 '<span>southeast or southwest wind</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Pukapukan</td><td><i>laki</i></td>
+<td>Pn</td><td><a href="../languages/pukapukan">Pukapukan</a></td><td><i>laki</i></td>
 <td>
 '<span>southwest wind</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>laʔi</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>laʔi</i></td>
 <td>
 '<span>southwest veering to northwest</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tokelauan</td><td><i>laki</i></td>
+<td>Pn</td><td><a href="../languages/tokelauan">Tokelauan</a></td><td><i>laki</i></td>
 <td>
 '<span>hurricane season and westerly quarter winds that blow during it</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Anutan</td><td><i>laki</i></td>
+<td>Pn</td><td><a href="../languages/anutan">Anutan</a></td><td><i>laki</i></td>
 <td>
 '<span>the whole southwestern quadrant; westerly or southwesterly wind; the period of the year when the wind is from that quarter</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>gaki</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>gaki</i></td>
 <td>
 [N] '<span>west or southwest wind</span>'; [V] '<span>(of this wind) blow</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Takuu</td><td><i>laki</i></td>
+<td>Pn</td><td><a href="../languages/takuu">Takuu</a></td><td><i>laki</i></td>
 <td>
 '<span>season of westerly winds</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Hawaiian</td><td><i>laʔi</i></td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>laʔi</i></td>
 <td>
 '<span>calm, stillness, quiet (of sea, sky, wind)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tuamotuan</td><td><i>raki</i></td>
+<td>Pn</td><td><a href="../languages/tuamotuan">Tuamotuan</a></td><td><i>raki</i></td>
 <td>
 '<span>wind from southwesterly quadrant</span>'</td>
 </tr>
@@ -1161,7 +1161,7 @@ A selection of data supporting the reconstruction of _&ast;raki_ follows.
 
 
 
-Much of the data for the reconstruction of PPn wind directions is drawn from [Biggs and Clark](../references.md#source-BiggsandClark1993) ([1993](../references.md#source-BiggsandClark1993)), but the glosses of the protoforms are mine. For example, for PPn _&ast;laki_ Biggs and Clark give the gloss ‘the westerly quarter, wind from that quarter and weather associated with it’. If this were its denotation, we might expect reflexes to range in meaning between northwest and southwest, but no reflex denotes a direction north of west. From this I infer that it denoted the southwesterly quadrant. Similar argumentation applies to PPn _&ast;toŋa_ ‘southeasterly quadrant, southeast wind’ and PPn _&ast;tokelau_ ‘northwesterly quadrant, north-west winds’ below.
+Much of the data for the reconstruction of PPn wind directions is drawn from [Biggs and Clark](../sources/BiggsandClark1993) ([1993](../sources/BiggsandClark1993)), but the glosses of the protoforms are mine. For example, for PPn _&ast;laki_ Biggs and Clark give the gloss ‘the westerly quarter, wind from that quarter and weather associated with it’. If this were its denotation, we might expect reflexes to range in meaning between northwest and southwest, but no reflex denotes a direction north of west. From this I infer that it denoted the southwesterly quadrant. Similar argumentation applies to PPn _&ast;toŋa_ ‘southeasterly quadrant, southeast wind’ and PPn _&ast;tokelau_ ‘northwesterly quadrant, north-west winds’ below.
 
 
 <a id="p-133"></a>
@@ -1183,84 +1183,84 @@ POc _&ast;apaRat_ ‘northwest wind’ has non-Oceanic cognates. It is descended
 <i>&ast;habaRat</i>
 </td>
 <td>
-'<span>west monsoon</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>; <a href="../references.md#source-Dempwolff1938">Dempwolff1938</a>)
+'<span>west monsoon</span>' (<a href="../sources/Blust1995">Blust1995</a>; <a href="../sources/Dempwolff1938">Dempwolff1938</a>)
 </td>
 </tr>
 <tr>
-<td>WMP</td><td>Belau</td><td><i>ŋəbarð</i></td>
+<td>WMP</td><td><a href="../languages/belau">Belau</a></td><td><i>ŋəbarð</i></td>
 <td>
-'<span>west wind</span>' (<a href="../references.md#source-Josephs1990">Josephs1990</a>)
+'<span>west wind</span>' (<a href="../sources/Josephs1990">Josephs1990</a>)
 </td>
 </tr>
 <tr>
-<td>WMP</td><td>Yami</td><td><i>kavalat-an</i></td>
+<td>WMP</td><td><a href="../languages/yami">Yami</a></td><td><i>kavalat-an</i></td>
 <td>
-'<span>west or southwest wind</span>' (<a href="../references.md#source-Benedek1991">Benedek1991</a>)
+'<span>west or southwest wind</span>' (<a href="../sources/Benedek1991">Benedek1991</a>)
 </td>
 </tr>
 <tr>
-<td>WMP</td><td>Itbayat</td><td><i>havayat</i></td>
+<td>WMP</td><td><a href="../languages/itbayat">Itbayat</a></td><td><i>havayat</i></td>
 <td>
 '<span>west wind (blows from late July to September)</span>'</td>
 </tr>
 <tr>
-<td>None</td><td>Tagalog</td><td><i>habagat</i></td>
+<td>None</td><td><a href="../languages/tagalog">Tagalog</a></td><td><i>habagat</i></td>
 <td>
 '<span>west or southwest wind; monsoon</span>'</td>
 </tr>
 <tr>
-<td>WMP</td><td>Bikol</td><td><i>habagat</i></td>
+<td>WMP</td><td><a href="../languages/bikol">Bikol</a></td><td><i>habagat</i></td>
 <td>
 '<span>south wind</span>'</td>
 </tr>
 <tr>
-<td>None</td><td>Cebuano</td><td><i>habagat</i></td>
+<td>None</td><td><a href="../languages/cebuano">Cebuano</a></td><td><i>habagat</i></td>
 <td>
 '<span>strong wind that hits Cebu from the southwest, common from June to September</span>'</td>
 </tr>
 <tr>
-<td>WMP</td><td>Manobo</td><td><i>evaɣat</i></td>
+<td>WMP</td><td><a href="../languages/manobo">Manobo</a></td><td><i>evaɣat</i></td>
 <td>
-'<span>the strongest wind: the northeast monsoon</span>' (<a href="../references.md#source-Elkins1968">Elkins1968</a>)
+'<span>the strongest wind: the northeast monsoon</span>' (<a href="../sources/Elkins1968">Elkins1968</a>)
 </td>
 </tr>
 <tr>
-<td>WMP</td><td>Tiruray</td><td><i>barat</i></td>
+<td>WMP</td><td><a href="../languages/tiruray">Tiruray</a></td><td><i>barat</i></td>
 <td>
 '<span>the rainy season</span>'</td>
 </tr>
 <tr>
-<td>WMP</td><td>Aceh</td><td><i>barat</i></td>
+<td>WMP</td><td><a href="../languages/aceh">Aceh</a></td><td><i>barat</i></td>
 <td>
 '<span>west, westerly</span>'</td>
 </tr>
 <tr>
-<td>WMP</td><td>Old Javanese</td><td><i>barat</i></td>
+<td>WMP</td><td><a href="../languages/oldjavanese">Old Javanese</a></td><td><i>barat</i></td>
 <td>
 '<span>strong wind, storm; west</span>'</td>
 </tr>
 <tr>
-<td>None</td><td>Wolio</td><td><i>bara</i></td>
+<td>None</td><td><a href="../languages/wolio">Wolio</a></td><td><i>bara</i></td>
 <td>
 '<span>west, west monsoon</span>'</td>
 </tr>
 <tr>
-<td>None</td><td>Manggarai</td><td><i>warat</i></td>
+<td>None</td><td><a href="../languages/manggarai">Manggarai</a></td><td><i>warat</i></td>
 <td>
 '<span>rainy season (primarily in January and February); violent storm</span>'</td>
 </tr>
 <tr>
-<td>None</td><td>Buru</td><td><i>fahat</i></td>
+<td>None</td><td><a href="../languages/buru">Buru</a></td><td><i>fahat</i></td>
 <td>
 '<span>west monsoon</span>'</td>
 </tr>
 <tr>
-<td>SHWNG</td><td>Numfor</td><td><i>barek</i></td>
+<td>SHWNG</td><td><a href="../languages/numfor">Numfor</a></td><td><i>barek</i></td>
 <td>
 '<span>west</span>'</td>
 </tr>
 <tr>
-<td>SHWNG</td><td>Numfor</td><td><i>(wam)barek</i></td>
+<td>SHWNG</td><td><a href="../languages/numfor">Numfor</a></td><td><i>(wam)barek</i></td>
 <td>
 '<span>west wind or monsoon</span>'</td>
 </tr>
@@ -1277,7 +1277,7 @@ POc _&ast;apaRat_ probably also denoted the accompanying wet season (SHS). The g
 <i>&ast;habaRat</i>
 </td>
 <td>
-'<span>west monsoon</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>; <a href="../references.md#source-Dempwolff1938">Dempwolff1938</a>)
+'<span>west monsoon</span>' (<a href="../sources/Blust1995">Blust1995</a>; <a href="../sources/Dempwolff1938">Dempwolff1938</a>)
 </td>
 </tr>
 <tr>
@@ -1289,112 +1289,112 @@ POc _&ast;apaRat_ probably also denoted the accompanying wet season (SHS). The g
 '<span>northwest wind; wet season when northwesterlies blow and sea is rough</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Mussau</td><td><i>apae</i></td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>apae</i></td>
 <td>
 '<span>strong wind, storm wind</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Wuvulu</td><td><i>afā</i></td>
+<td>Adm</td><td><a href="../languages/wuvulu">Wuvulu</a></td><td><i>afā</i></td>
 <td>
 '<span>northwest wind</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Drehet</td><td><i>yaha</i></td>
+<td>Adm</td><td><a href="../languages/drehet">Drehet</a></td><td><i>yaha</i></td>
 <td>
 '<span>stormy season, generally from November to March; strong wind and rough sea from the northwest</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kove</td><td><i>awaha</i></td>
+<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td><i>awaha</i></td>
 <td>
 '<span>rain</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Gitua</td><td><i>yavara</i></td>
+<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td><i>yavara</i></td>
 <td>
 '<span>north wind</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Tami</td><td><i>yawal</i></td>
+<td>NNG</td><td><a href="../languages/tami">Tami</a></td><td><i>yawal</i></td>
 <td>
 '<span>northwest wind</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kairiru</td><td><i>yavar</i></td>
+<td>NNG</td><td><a href="../languages/kairiru">Kairiru</a></td><td><i>yavar</i></td>
 <td>
 '<span>northwest wind, makes sea rough</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Muyuw</td><td><i>yavat</i></td>
+<td>PT</td><td><a href="../languages/muyuw">Muyuw</a></td><td><i>yavat</i></td>
 <td>
 '<span>west, west wind</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Iduna</td><td><i>yavalata</i></td>
+<td>PT</td><td><a href="../languages/iduna">Iduna</a></td><td><i>yavalata</i></td>
 <td>
 '<span>rains with wind from the northwest in February and March</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Tawala</td><td><i>yawalata</i></td>
+<td>PT</td><td><a href="../languages/tawala">Tawala</a></td><td><i>yawalata</i></td>
 <td>
 '<span>light rain from southwest during dry season</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>lahara</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>lahara</i></td>
 <td>
 '<span>northwest wind, season of northwest wind</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Bali</td><td><i>vurata</i></td>
+<td>MM</td><td><a href="../languages/bali">Bali</a></td><td><i>vurata</i></td>
 <td>
 '<span>northwest wind</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nakanai</td><td><i>le-avala</i></td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>le-avala</i></td>
 <td>
 '<span>year, wet season</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Kara (East)</td><td><i>yefet</i></td>
+<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td><i>yefet</i></td>
 <td>
 '<span>wet season</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Barok</td><td><i>awat</i></td>
+<td>MM</td><td><a href="../languages/barok">Barok</a></td><td><i>awat</i></td>
 <td>
 '<span>year</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Siar</td><td><i>yahrat</i></td>
+<td>MM</td><td><a href="../languages/siar">Siar</a></td><td><i>yahrat</i></td>
 <td>
 '<span>year</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tinputz</td><td><i>ivat</i></td>
+<td>MM</td><td><a href="../languages/tinputz">Tinputz</a></td><td><i>ivat</i></td>
 <td>
 '<span>strong wind</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Nêlêmwâ</td><td><i>(w)āvac</i></td>
+<td>NCal</td><td><a href="../languages/nelemwa">Nêlêmwâ</a></td><td><i>(w)āvac</i></td>
 <td>
 '<span>north wind</span>' (<span>Lynch pers. comm.</span>)</td>
 </tr>
 <tr>
-<td>NCal</td><td>Pije</td><td><i>(y)avec</i></td>
+<td>NCal</td><td><a href="../languages/pije">Pije</a></td><td><i>(y)avec</i></td>
 <td>
 '<span>north wind</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Fwai</td><td><i>(y)avec</i></td>
+<td>NCal</td><td><a href="../languages/fwai">Fwai</a></td><td><i>(y)avec</i></td>
 <td>
 '<span>north wind</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Nemi</td><td><i>(y)avec, (y)aec</i></td>
+<td>NCal</td><td><a href="../languages/nemi">Nemi</a></td><td><i>(y)avec, (y)aec</i></td>
 <td>
 '<span>north wind</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Jawe</td><td><i>(y)aec</i></td>
+<td>NCal</td><td><a href="../languages/jawe">Jawe</a></td><td><i>(y)aec</i></td>
 <td>
 '<span>north wind</span>'</td>
 </tr>
@@ -1407,57 +1407,57 @@ POc _&ast;apaRat_ probably also denoted the accompanying wet season (SHS). The g
 '<span>storm, gale, hurricane</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>ðavā</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>ðavā</i></td>
 <td>
 '<span>storm, strong wind bringing rain</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>afā</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>afā</i></td>
 <td>
 '<span>hurricane, gale or very severe storm</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>afā</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>afā</i></td>
 <td>
 '<span>storm, hurricane, gale</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>afā</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>afā</i></td>
 <td>
 '<span>storm, hurricane</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tokelauan</td><td><i>afā</i></td>
+<td>Pn</td><td><a href="../languages/tokelauan">Tokelauan</a></td><td><i>afā</i></td>
 <td>
 '<span>storm, hurricane</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>East Futunan</td><td><i>afā</i></td>
+<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td><i>afā</i></td>
 <td>
 '<span>storm, hurricane</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>East Uvean</td><td><i>afā</i></td>
+<td>Pn</td><td><a href="../languages/eastuvean">East Uvean</a></td><td><i>afā</i></td>
 <td>
 '<span>storm, hurricane</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>ahā</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>ahā</i></td>
 <td>
 '<span>storm, hurricane</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>West Futunan</td><td><i>afa</i></td>
+<td>Pn</td><td><a href="../languages/westfutunan">West Futunan</a></td><td><i>afa</i></td>
 <td>
 '<span>gale, storm winds, hurricane winds</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tuamotuan</td><td><i>āfā</i></td>
+<td>Pn</td><td><a href="../languages/tuamotuan">Tuamotuan</a></td><td><i>āfā</i></td>
 <td>
 '<span>(storm) break forth violently</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>āfā</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>āfā</i></td>
 <td>
 '<span>storm, hurricane</span>'</td>
 </tr>
@@ -1523,7 +1523,7 @@ The Micronesian forms are odd in two ways. Firstly, if sound correspondences are
 </tr>
 </table>
 
-Blust (ACD) takes it that PMP _&ast;habaRat_ ‘southwest monsoon season, wet season’ formed a pair with PMP _&ast;timuR_, implying that the latter referred to the northeast trades and the dry season. However, such a pairing seems to have arisen among the WMP languages of Indonesia, where reflexes of _&ast;habaRat_ mean ‘west’ and of _&ast;timuR_ ‘east’. In Philippine languages, where we might expect the PMP sense to be retained, reflexes of _&ast;timuR_ refer to a south or east wind, but not a monsoonal wind. (The PMP term for northeast trades seems to have been _&ast;qamíh-an_,[^8] lost when Austronesian speakers crossed into the southern hemisphere.) PMP _&ast;timuR_ also has reflexes in Oceanic languages, and POc _&ast;timu(R)_ seems to have meant ‘wind bringing light rain’. In Papuan Tip languages forms which appear to reflect _&ast;timu(R)_ have undergone a curious semantic shift and now mean ‘island’ (Ch. 3, §2.2). Relevant data are listed below.
+Blust (ACD) takes it that PMP _&ast;habaRat_ ‘southwest monsoon season, wet season’ formed a pair with PMP _&ast;timuR_, implying that the latter referred to the northeast trades and the dry season. However, such a pairing seems to have arisen among the WMP languages of Indonesia, where reflexes of _&ast;habaRat_ mean ‘west’ and of _&ast;timuR_ ‘east’. In Philippine languages, where we might expect the PMP sense to be retained, reflexes of _&ast;timuR_ refer to a south or east wind, but not a monsoonal wind. (The PMP term for northeast trades seems to have been _&ast;qamíh-an_,[^8] lost when Austronesian speakers crossed into the southern hemisphere.) PMP _&ast;timuR_ also has reflexes in Oceanic languages, and POc _&ast;timu(R)_ seems to have meant ‘wind bringing light rain’. In Papuan Tip languages forms which appear to reflect _&ast;timu(R)_ have undergone a curious semantic shift and now mean ‘island’ ([Ch. 3, §2.2](../contributions/2-3#s-2-2)). Relevant data are listed below.
 
 <table id="2-5-4-2-135-PMP-timur-a">
 <tr>
@@ -1535,49 +1535,49 @@ Blust (ACD) takes it that PMP _&ast;habaRat_ ‘southwest monsoon season, wet se
 '<span>south or east wind</span>' (<span>Dempwolff 1938: ‘wind bringing rain’; Zorc 1994: ‘rain wind from southeast’</span>)</td>
 </tr>
 <tr>
-<td>WMP</td><td>Belau</td><td><i>ðíməs</i></td>
+<td>WMP</td><td><a href="../languages/belau">Belau</a></td><td><i>ðíməs</i></td>
 <td>
-'<span>south wind</span>' (<a href="../references.md#source-Josephs1990">Josephs1990</a>)
+'<span>south wind</span>' (<a href="../sources/Josephs1990">Josephs1990</a>)
 </td>
 </tr>
 <tr>
-<td>None</td><td>Tagalog</td><td><i>tīmog</i></td>
+<td>None</td><td><a href="../languages/tagalog">Tagalog</a></td><td><i>tīmog</i></td>
 <td>
 '<span>south</span>'</td>
 </tr>
 <tr>
-<td>None</td><td>Cebuano</td><td><i>tímug</i></td>
+<td>None</td><td><a href="../languages/cebuano">Cebuano</a></td><td><i>tímug</i></td>
 <td>
-'<span>wind that hits Cebu from the east</span>' (<a href="../references.md#source-Wolff1972">Wolff1972</a>)
+'<span>wind that hits Cebu from the east</span>' (<a href="../sources/Wolff1972">Wolff1972</a>)
 </td>
 </tr>
 <tr>
-<td>WMP</td><td>Bilaan</td><td><i>timul</i></td>
+<td>WMP</td><td><a href="../languages/bilaan">Bilaan</a></td><td><i>timul</i></td>
 <td>
 '<span>south</span>'</td>
 </tr>
 <tr>
-<td>WMP</td><td>Malagasy</td><td><i>a-tsimu</i></td>
+<td>WMP</td><td><a href="../languages/malagasy">Malagasy</a></td><td><i>a-tsimu</i></td>
 <td>
 '<span>south</span>'</td>
 </tr>
 <tr>
-<td>WMP</td><td>Aceh</td><td><i>timu</i></td>
+<td>WMP</td><td><a href="../languages/aceh">Aceh</a></td><td><i>timu</i></td>
 <td>
 '<span>east</span>'</td>
 </tr>
 <tr>
-<td>WMP</td><td>Indonesian</td><td><i>timur</i></td>
+<td>WMP</td><td><a href="../languages/indonesian">Indonesian</a></td><td><i>timur</i></td>
 <td>
 '<span>east</span>'</td>
 </tr>
 <tr>
-<td>WMP</td><td>Sasak</td><td><i>timuq</i></td>
+<td>WMP</td><td><a href="../languages/sasak">Sasak</a></td><td><i>timuq</i></td>
 <td>
 '<span>east</span>'</td>
 </tr>
 <tr>
-<td>None</td><td>Buru</td><td><i>timo</i></td>
+<td>None</td><td><a href="../languages/buru">Buru</a></td><td><i>timo</i></td>
 <td>
 '<span>east</span>'</td>
 </tr>
@@ -1598,47 +1598,47 @@ Blust (ACD) takes it that PMP _&ast;habaRat_ ‘southwest monsoon season, wet se
 '<span>wind bringing light rain</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Takia</td><td><i>tim</i></td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>tim</i></td>
 <td>
 '<span>wind</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Ali</td><td><i>tim</i></td>
+<td>NNG</td><td><a href="../languages/ali">Ali</a></td><td><i>tim</i></td>
 <td>
 '<span>dew</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Iduna</td><td><i>himula</i></td>
+<td>PT</td><td><a href="../languages/iduna">Iduna</a></td><td><i>himula</i></td>
 <td>
 '<span>island</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Dobu</td><td><i>simula</i></td>
+<td>PT</td><td><a href="../languages/dobu">Dobu</a></td><td><i>simula</i></td>
 <td>
 '<span>island</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>si-simu</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>si-simu</i></td>
 <td>
 '<span>light shower</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Ramoaaina</td><td><i>timtim</i></td>
+<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>timtim</i></td>
 <td>
 '<span>drizzle; of rain</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>timu</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>timu</i></td>
 <td>
 '<span>be rainy, rain</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Anutan</td><td><i>timu</i></td>
+<td>Pn</td><td><a href="../languages/anutan">Anutan</a></td><td><i>timu</i></td>
 <td>
 '<span>light rain, drizzle</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>jimu-jimu</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>jimu-jimu</i></td>
 <td>
 '<span>heavy blowing, almost a hurricane</span>'</td>
 </tr>
@@ -1646,9 +1646,9 @@ Blust (ACD) takes it that PMP _&ast;habaRat_ ‘southwest monsoon season, wet se
 
 
 
-In Fijian and Polynesian languages the reflexes of POc _&ast;raki_ ‘southeast trades’ and _&ast;apaRat_ ‘northwest wind’ listed above reflect shifts in meaning. In Fijian languages, reflexes of _&ast;raki_ mean ‘weather’, whilst Polynesian reflexes point to PPn _&ast;laki_ ‘southwesterly quandrant, southwest wind and weather associated with it’ ([Biggs & Clark 1993](../references.md#source-BiggsandClark1993)), i.e. a shift from southeast to southwest. In both Fijian and Polynesian languages, reflexes of POc _&ast;apaRat_ point to PCP _&ast;avā_ ‘storm, gale, hurricane’.
+In Fijian and Polynesian languages the reflexes of POc _&ast;raki_ ‘southeast trades’ and _&ast;apaRat_ ‘northwest wind’ listed above reflect shifts in meaning. In Fijian languages, reflexes of _&ast;raki_ mean ‘weather’, whilst Polynesian reflexes point to PPn _&ast;laki_ ‘southwesterly quandrant, southwest wind and weather associated with it’ ([Biggs & Clark 1993](../sources/BiggsandClark1993)), i.e. a shift from southeast to southwest. In both Fijian and Polynesian languages, reflexes of POc _&ast;apaRat_ point to PCP _&ast;avā_ ‘storm, gale, hurricane’.
 
-The closest functional equivalents to POc _&ast;raki_ and _&ast;apaRat_ in PPn were evidently PPn _&ast;toŋa_ ‘southeasterly quadrant, southeast wind’ and PPn _&ast;tokelau_ ‘northwesterly quadrant, northwest winds’. Whereas the POc terms evidently referred prototypically to seasonal winds, the central meanings of the PPn terms seem to have been winds from a certain portion—apparently a quadrant—of the compass, as the reflexes below indicate and as [Åkerblom](../references.md#source-Akerblom1968) ([1968](../references.md#source-Akerblom1968):52) has observed. In Rarotongan, for example, _toŋa_ refers to winds from south-by-west to south-southeast (but prototypically to south), _tokerau_ to winds from northwest-by-north to west-northwest (prototypically to northwest); in Pukapukan _toŋa_ refers to winds from south-by-east to southeast-by-south (but prototypically to south- southeast), _tokelau_ to winds from north to northwest ([Lewis 1972](../references.md#source-Lewis1972):74–75). Åkerblom goes a step further and suggests that neither term refers specifically to the trade wind. However, he recognises that throughout Polynesia a feature of the meaning of each is the prevailing wind and that they are often used with reference to the southeast trades and to northwest storm winds.
+The closest functional equivalents to POc _&ast;raki_ and _&ast;apaRat_ in PPn were evidently PPn _&ast;toŋa_ ‘southeasterly quadrant, southeast wind’ and PPn _&ast;tokelau_ ‘northwesterly quadrant, northwest winds’. Whereas the POc terms evidently referred prototypically to seasonal winds, the central meanings of the PPn terms seem to have been winds from a certain portion—apparently a quadrant—of the compass, as the reflexes below indicate and as [Åkerblom](../sources/Akerblom1968) ([1968](../sources/Akerblom1968):52) has observed. In Rarotongan, for example, _toŋa_ refers to winds from south-by-west to south-southeast (but prototypically to south), _tokerau_ to winds from northwest-by-north to west-northwest (prototypically to northwest); in Pukapukan _toŋa_ refers to winds from south-by-east to southeast-by-south (but prototypically to south- southeast), _tokelau_ to winds from north to northwest ([Lewis 1972](../sources/Lewis1972):74–75). Åkerblom goes a step further and suggests that neither term refers specifically to the trade wind. However, he recognises that throughout Polynesia a feature of the meaning of each is the prevailing wind and that they are often used with reference to the southeast trades and to northwest storm winds.
 
 The ancestry of PPn _&ast;toŋa_ is unclear, and I return to this below. Data supporting its reconstruction are as follows:
 
@@ -1662,89 +1662,89 @@ The ancestry of PPn _&ast;toŋa_ is unclear, and I return to this below. Data su
 '<span>southeasterly quadrant, southeast wind</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>toŋa</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>toŋa</i></td>
 <td>
 '<span>south wind</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>toŋa</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>toŋa</i></td>
 <td>
 [N] '<span>south</span>'; [V] '<span>(wind) be south</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>East Uvean</td><td><i>toŋa</i></td>
+<td>Pn</td><td><a href="../languages/eastuvean">East Uvean</a></td><td><i>toŋa</i></td>
 <td>
 '<span>south wind</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>East Futunan</td><td><i>toŋa</i></td>
+<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td><i>toŋa</i></td>
 <td>
 '<span>south (wind)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Pukapukan</td><td><i>toŋa</i></td>
+<td>Pn</td><td><a href="../languages/pukapukan">Pukapukan</a></td><td><i>toŋa</i></td>
 <td>
-'<span>south-southeast wind</span>' (<a href="../references.md#source-Lewis1972">Lewis1972: 75</a>)
+'<span>south-southeast wind</span>' (<a href="../sources/Lewis1972">Lewis1972: 75</a>)
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>toŋa</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>toŋa</i></td>
 <td>
 '<span>east</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>toŋa</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>toŋa</i></td>
 <td>
 '<span>south wind</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tuvalu</td><td><i>toŋa</i></td>
+<td>Pn</td><td><a href="../languages/tuvalu">Tuvalu</a></td><td><i>toŋa</i></td>
 <td>
 '<span>south</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>toŋa</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>toŋa</i></td>
 <td>
 '<span>east, east wind, trade wind; winter</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>West Futunan</td><td><i>toŋa</i></td>
+<td>Pn</td><td><a href="../languages/westfutunan">West Futunan</a></td><td><i>toŋa</i></td>
 <td>
 '<span>south</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rapanui</td><td><i>toŋa</i></td>
+<td>Pn</td><td><a href="../languages/rapanui">Rapanui</a></td><td><i>toŋa</i></td>
 <td>
 '<span>autumn, winter</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rarotongan</td><td><i>toŋa</i></td>
+<td>Pn</td><td><a href="../languages/rarotongan">Rarotongan</a></td><td><i>toŋa</i></td>
 <td>
-'<span>one of the wind quarters, south or southerly</span>'; '<span>south wind</span>' (<a href="../references.md#source-Lewis1972">Lewis1972: 74</a>)
+'<span>one of the wind quarters, south or southerly</span>'; '<span>south wind</span>' (<a href="../sources/Lewis1972">Lewis1972: 74</a>)
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Mangareva</td><td><i>toŋa</i></td>
+<td>Pn</td><td><a href="../languages/mangareva">Mangareva</a></td><td><i>toŋa</i></td>
 <td>
 '<span>south wind</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tahitian</td><td><i>toʔa</i></td>
+<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td><i>toʔa</i></td>
 <td>
 '<span>south wind</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>toŋa</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>toŋa</i></td>
 <td>
 '<span>south</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tuamotuan</td><td><i>toŋa</i></td>
+<td>Pn</td><td><a href="../languages/tuamotuan">Tuamotuan</a></td><td><i>toŋa</i></td>
 <td>
 '<span>wind from southerly or easterly quarter</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Hawaiian</td><td><i>kona</i></td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>kona</i></td>
 <td>
 '<span>leeward (i.e. south or southwest)</span>'</td>
 </tr>
@@ -1767,49 +1767,49 @@ PPn _&ast;tokelau_ ‘northwesterly quadrant, northwest winds’ reflects POc _&
 '<span>(?) northerly wind</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Baluan</td><td><i>tolaw</i></td>
+<td>Adm</td><td><a href="../languages/baluan">Baluan</a></td><td><i>tolaw</i></td>
 <td>
 '<span>north wind</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Nyindrou</td><td><i>tolau</i></td>
+<td>Adm</td><td><a href="../languages/nyindrou">Nyindrou</a></td><td><i>tolau</i></td>
 <td>
 '<span>north</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kairiru</td><td><i>tolau</i></td>
+<td>NNG</td><td><a href="../languages/kairiru">Kairiru</a></td><td><i>tolau</i></td>
 <td>
 '<span>non-seasonal south wind, makes sea rough</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Paamese</td><td><i>tōlau</i></td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>tōlau</i></td>
 <td>
 '<span>northeast wind</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Atchin</td><td><i>tola</i></td>
+<td>NCV</td><td><a href="../languages/atchin">Atchin</a></td><td><i>tola</i></td>
 <td>
 '<span>northwest wind</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Nguna</td><td><i>tokolau</i></td>
+<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td><i>tokolau</i></td>
 <td>
 '<span>northwest wind</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Namakir</td><td><i>tokolo</i></td>
+<td>NCV</td><td><a href="../languages/namakir">Namakir</a></td><td><i>tokolo</i></td>
 <td>
 '<span>northwest wind</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>tokalau</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>tokalau</i></td>
 <td>
 '<span>easterly wind</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>tokalau</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>tokalau</i></td>
 <td>
-'<span>northeast wind; third of compass from N to roughly WSW</span>' (<a href="../references.md#source-Neyret1950">Neyret1950</a>)
+'<span>northeast wind; third of compass from N to roughly WSW</span>' (<a href="../sources/Neyret1950">Neyret1950</a>)
 </td>
 </tr>
 <tr>
@@ -1818,84 +1818,84 @@ PPn _&ast;tokelau_ ‘northwesterly quadrant, northwest winds’ reflects POc _&
 <i>&ast;tokelau</i>
 </td>
 <td>
-'<span>northwesterly quadrant, northwest winds</span>' (<a href="../references.md#source-BiggsandClark1993">BiggsandClark1993</a>)
+'<span>northwesterly quadrant, northwest winds</span>' (<a href="../sources/BiggsandClark1993">BiggsandClark1993</a>)
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>tokelau</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>tokelau</i></td>
 <td>
 '<span>north</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>East Futunan</td><td><i>tokelau</i></td>
+<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td><i>tokelau</i></td>
 <td>
 '<span>northerly wind</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Pukapukan</td><td><i>tokelau (iti)</i></td>
+<td>Pn</td><td><a href="../languages/pukapukan">Pukapukan</a></td><td><i>tokelau (iti)</i></td>
 <td>
-'<span>north wind</span>' (<a href="../references.md#source-Lewis1972">Lewis1972: 75</a>)
+'<span>north wind</span>' (<a href="../sources/Lewis1972">Lewis1972: 75</a>)
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Pukapukan</td><td><i>tokelau (matua)</i></td>
+<td>Pn</td><td><a href="../languages/pukapukan">Pukapukan</a></td><td><i>tokelau (matua)</i></td>
 <td>
-'<span>northwest wind</span>' (<a href="../references.md#source-Lewis1972">Lewis1972: 75</a>)
+'<span>northwest wind</span>' (<a href="../sources/Lewis1972">Lewis1972: 75</a>)
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>tokegau</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>tokegau</i></td>
 <td>
 '<span>northwest wind</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>toʔelau</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>toʔelau</i></td>
 <td>
 '<span>trade wind from northeast to east-southeast</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tuvalu</td><td><i>tokelau</i></td>
+<td>Pn</td><td><a href="../languages/tuvalu">Tuvalu</a></td><td><i>tokelau</i></td>
 <td>
 '<span>north, northerly wind</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Takuu</td><td><i>tokorau</i></td>
+<td>Pn</td><td><a href="../languages/takuu">Takuu</a></td><td><i>tokorau</i></td>
 <td>
 '<span>north, northerly wind</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Sikaiana</td><td><i>tokelau</i></td>
+<td>Pn</td><td><a href="../languages/sikaiana">Sikaiana</a></td><td><i>tokelau</i></td>
 <td>
 '<span>north</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Luangiua</td><td><i>koʔolau</i></td>
+<td>Pn</td><td><a href="../languages/luangiua">Luangiua</a></td><td><i>koʔolau</i></td>
 <td>
 '<span>north</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>tokerau</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>tokerau</i></td>
 <td>
 '<span>north wind</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rarotongan</td><td><i>tokerau</i></td>
+<td>Pn</td><td><a href="../languages/rarotongan">Rarotongan</a></td><td><i>tokerau</i></td>
 <td>
-'<span>northwest wind</span>' (<a href="../references.md#source-Lewis1972">Lewis1972: 74</a>)
+'<span>northwest wind</span>' (<a href="../sources/Lewis1972">Lewis1972: 74</a>)
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Hawaiian</td><td><i>koʔolau</i></td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>koʔolau</i></td>
 <td>
 '<span>windward (northeast) sides of Hawaiian islands.</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Marquesan</td><td><i>tokoʔau</i></td>
+<td>Pn</td><td><a href="../languages/marquesan">Marquesan</a></td><td><i>tokoʔau</i></td>
 <td>
 '<span>north or northwest wind</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Anutan</td><td><i>tokerau</i></td>
+<td>Pn</td><td><a href="../languages/anutan">Anutan</a></td><td><i>tokerau</i></td>
 <td>
 '<span>approximately north; northerly wind</span>'</td>
 </tr>
@@ -1903,7 +1903,7 @@ PPn _&ast;tokelau_ ‘northwesterly quadrant, northwest winds’ reflects POc _&
 
 
 
-POc _&ast;tokalau(r)_ ‘(?) northerly wind’ reflects two PMP morphemes, as [Dempwolff](../references.md#source-Dempwolff1938) ([1938](../references.md#source-Dempwolff1938):134) observed. The first appears to be PMP _&ast;tekas_ ‘come to rest in a place’ (ACD), the second PMP _&ast;lahud_ ‘downriver, towards the sea’. It is not clear how the POc meaning is derived from the glosses of these morphemes, and probable that POc _&ast;toka-lau(r)_ was a lexicalised unit.
+POc _&ast;tokalau(r)_ ‘(?) northerly wind’ reflects two PMP morphemes, as [Dempwolff](../sources/Dempwolff1938) ([1938](../sources/Dempwolff1938):134) observed. The first appears to be PMP _&ast;tekas_ ‘come to rest in a place’ (ACD), the second PMP _&ast;lahud_ ‘downriver, towards the sea’. It is not clear how the POc meaning is derived from the glosses of these morphemes, and probable that POc _&ast;toka-lau(r)_ was a lexicalised unit.
 
 
 <a id="p-138"></a>
@@ -1950,72 +1950,72 @@ POc _&ast;karak(a)_ seems to have referred to a strong southeast trade wind. Som
 '<span>(strong?) southeast trade</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Lukep</td><td><i>karaka</i></td>
+<td>NNG</td><td><a href="../languages/lukep">Lukep</a></td><td><i>karaka</i></td>
 <td>
 '<span>southeast trade</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Bing</td><td><i>karag</i></td>
+<td>NNG</td><td><a href="../languages/bing">Bing</a></td><td><i>karag</i></td>
 <td>
 '<span>southeast trade, blows off the sea strongly in August and September</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Bilibil</td><td><i>karag</i></td>
+<td>NNG</td><td><a href="../languages/bilibil">Bilibil</a></td><td><i>karag</i></td>
 <td>
 '<span>dry wind</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Gedaged</td><td><i>kìl̥ag</i></td>
+<td>NNG</td><td><a href="../languages/gedaged">Gedaged</a></td><td><i>kìl̥ag</i></td>
 <td>
 '<span>southeast trade</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Takia</td><td><i>karag-arag</i></td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>karag-arag</i></td>
 <td>
 '<span>a light southeast wind which appears as part of the initial development of the southeast trade in April</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Gapapaiwa</td><td><i>kara-karata</i></td>
+<td>PT</td><td><a href="../languages/gapapaiwa">Gapapaiwa</a></td><td><i>kara-karata</i></td>
 <td>
 '<span>east wind</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>ara</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>ara</i></td>
 <td>
 '<span>southeast wind</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Talise</td><td><i>ɣara-ɣara</i></td>
+<td>SES</td><td><a href="../languages/talise">Talise</a></td><td><i>ɣara-ɣara</i></td>
 <td>
 '<span>wind</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Malango</td><td><i>hara-hara</i></td>
+<td>SES</td><td><a href="../languages/malango">Malango</a></td><td><i>hara-hara</i></td>
 <td>
 '<span>wind</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Birao</td><td><i>hara-hara</i></td>
+<td>SES</td><td><a href="../languages/birao">Birao</a></td><td><i>hara-hara</i></td>
 <td>
 '<span>wind</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Longgu</td><td><i>ara</i></td>
+<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td><i>ara</i></td>
 <td>
 '<span>a cool, pleasant wind from the southeast</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>āra</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>āra</i></td>
 <td>
 '<span>southeast trades, violent wind</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Kwaio</td><td><i>ala</i></td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>ala</i></td>
 <td>
 '<span>southeast wind</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Woleaian</td><td><i>aẓa</i></td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>aẓa</i></td>
 <td>
 '<span>south wind</span>'</td>
 </tr>
@@ -2038,37 +2038,37 @@ Two other terms which apparently referred to the southeast trades are given belo
 '<span>southeast trade wind</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kove</td><td><i>marau</i></td>
+<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td><i>marau</i></td>
 <td>
 '<span>light wind from the sea</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Bariai</td><td><i>marau</i></td>
+<td>NNG</td><td><a href="../languages/bariai">Bariai</a></td><td><i>marau</i></td>
 <td>
 '<span>wind</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Bam</td><td><i>marau(lo)</i></td>
+<td>NNG</td><td><a href="../languages/bam">Bam</a></td><td><i>marau(lo)</i></td>
 <td>
 '<span>southeast trade</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Vitu</td><td><i>marau</i></td>
+<td>MM</td><td><a href="../languages/vitu">Vitu</a></td><td><i>marau</i></td>
 <td>
 '<span>north wind</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>'Are'are</td><td><i>marāu</i></td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>marāu</i></td>
 <td>
 '<span>southeast trades</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>marāu</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>marāu</i></td>
 <td>
 '<span>southeast trades</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>marāu</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>marāu</i></td>
 <td>
 '<span>southeast trades</span>'</td>
 </tr>
@@ -2086,32 +2086,32 @@ Two other terms which apparently referred to the southeast trades are given belo
 '<span>southerly wind</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Bing</td><td><i>yowan</i></td>
+<td>NNG</td><td><a href="../languages/bing">Bing</a></td><td><i>yowan</i></td>
 <td>
 '<span>wind, a cold easterly wind across the land which brings the rain</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Takia</td><td><i>yawan</i></td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>yawan</i></td>
 <td>
 '<span>a southerly wind associated with moderately heavy seas</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Iduna</td><td><i>yawana</i></td>
+<td>PT</td><td><a href="../languages/iduna">Iduna</a></td><td><i>yawana</i></td>
 <td>
 '<span>wind from the sea</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Tawala</td><td><i>yawana</i></td>
+<td>PT</td><td><a href="../languages/tawala">Tawala</a></td><td><i>yawana</i></td>
 <td>
 '<span>south wind, wind from the south</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Suau</td><td><i>yawana</i></td>
+<td>PT</td><td><a href="../languages/suau">Suau</a></td><td><i>yawana</i></td>
 <td>
 '<span>northwest monsoon</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Misima</td><td><i>yavana</i></td>
+<td>PT</td><td><a href="../languages/misima">Misima</a></td><td><i>yavana</i></td>
 <td>
 '<span>southerly wind</span>'</td>
 </tr>
@@ -2131,85 +2131,85 @@ One more term, _&ast;aqura_, seems to have served both as a generic wind term an
 '<span>wind, possibly southeast trade</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Nauna</td><td><i>eul</i></td>
+<td>Adm</td><td><a href="../languages/nauna">Nauna</a></td><td><i>eul</i></td>
 <td>
-'<span>wind</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>wind</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
-<td>Adm</td><td>Penchal</td><td><i>aul</i></td>
+<td>Adm</td><td><a href="../languages/penchal">Penchal</a></td><td><i>aul</i></td>
 <td>
-'<span>wind</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>wind</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
-<td>Adm</td><td>Lou</td><td><i>our</i></td>
+<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td><i>our</i></td>
 <td>
 '<span>wind</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Pak</td><td><i>ouh</i></td>
+<td>Adm</td><td><a href="../languages/pak">Pak</a></td><td><i>ouh</i></td>
 <td>
-'<span>wind</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>wind</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
-<td>NNG</td><td>Tuam</td><td><i>yawur</i></td>
+<td>NNG</td><td><a href="../languages/tuam">Tuam</a></td><td><i>yawur</i></td>
 <td>
 '<span>wind</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Mutu</td><td><i>yagur</i></td>
+<td>NNG</td><td><a href="../languages/mutu">Mutu</a></td><td><i>yagur</i></td>
 <td>
 '<span>wind</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Malai</td><td><i>yagur</i></td>
+<td>NNG</td><td><a href="../languages/malai">Malai</a></td><td><i>yagur</i></td>
 <td>
 '<span>wind</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Sio</td><td><i>wɔr̃a</i></td>
+<td>NNG</td><td><a href="../languages/sio">Sio</a></td><td><i>wɔr̃a</i></td>
 <td>
 '<span>northwest monsoon</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Numbami</td><td><i>aula</i></td>
+<td>NNG</td><td><a href="../languages/numbami">Numbami</a></td><td><i>aula</i></td>
 <td>
 '<span>wind</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Takia</td><td><i>ur</i></td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>ur</i></td>
 <td>
 '<span>air</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Ali</td><td><i>ur</i></td>
+<td>NNG</td><td><a href="../languages/ali">Ali</a></td><td><i>ur</i></td>
 <td>
 '<span>wind</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>laura(bada)</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>laura(bada)</i></td>
 <td>
 '<span>southeast trade wind</span>' (<span>bada ‘big’</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td>Kwaio</td><td><i>au</i></td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>au</i></td>
 <td>
 '<span>southeast wind, wind from sea</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kosraean</td><td><i>ɛir</i></td>
+<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td><i>ɛir</i></td>
 <td>
 '<span>north</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Ponapean</td><td><i>(pali)eir</i></td>
+<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td><i>(pali)eir</i></td>
 <td>
 '<span>south</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Carolinian</td><td><i>ə̄r</i></td>
+<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td><i>ə̄r</i></td>
 <td>
 '<span>south</span>'</td>
 </tr>
@@ -2293,7 +2293,7 @@ The cognate set below indicates that speakers of several daughter languages adop
 <i>&ast;linaw</i>
 </td>
 <td>
-'<span>be clear</span>' (<a href="../references.md#source-Dempwolff1938">Dempwolff1938</a>)
+'<span>be clear</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
 </td>
 </tr>
 <tr>
@@ -2302,81 +2302,81 @@ The cognate set below indicates that speakers of several daughter languages adop
 <i>&ast;ma-lino</i>
 </td>
 <td>
-'<span>calm</span>' (<a href="../references.md#source-Grace1969">Grace1969</a>)
+'<span>calm</span>' (<a href="../sources/Grace1969">Grace1969</a>)
 </td>
 </tr>
 <tr>
-<td>NNG</td><td>Kove</td><td><i>malilo</i></td>
+<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td><i>malilo</i></td>
 <td>
 '<span>calm</span>' (<span>consonant assimilation</span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td>Atui</td><td><i>mullil</i></td>
+<td>NNG</td><td><a href="../languages/atui">Atui</a></td><td><i>mullil</i></td>
 <td>
 '<span>soft</span>' (<span>consonant assimilation</span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td>Takia</td><td><i>malin</i></td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>malin</i></td>
 <td>
 '<span>calm</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Manam</td><td><i>malino</i></td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>malino</i></td>
 <td>
 '<span>calm</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Bam</td><td><i>malin</i></td>
+<td>NNG</td><td><a href="../languages/bam">Bam</a></td><td><i>malin</i></td>
 <td>
 '<span>calm</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Balawaia</td><td><i>maino</i></td>
+<td>PT</td><td><a href="../languages/balawaia">Balawaia</a></td><td><i>maino</i></td>
 <td>
 '<span>calm</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Gabadi</td><td><i>maino</i></td>
+<td>PT</td><td><a href="../languages/gabadi">Gabadi</a></td><td><i>maino</i></td>
 <td>
 '<span>calm</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Vitu</td><td><i>manilo</i></td>
+<td>MM</td><td><a href="../languages/vitu">Vitu</a></td><td><i>manilo</i></td>
 <td>
 '<span>calm</span>' (<span>metathesis</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td>Nakanai</td><td><i>malilo</i></td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>malilo</i></td>
 <td>
 '<span>calm</span>' (<span>consonant assimilation</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td>Lavongai</td><td><i>malila</i></td>
+<td>MM</td><td><a href="../languages/lavongai">Lavongai</a></td><td><i>malila</i></td>
 <td>
 '<span>calm</span>' (<span>consonant assimilation</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td>Minigir</td><td><i>malila</i></td>
+<td>MM</td><td><a href="../languages/minigir">Minigir</a></td><td><i>malila</i></td>
 <td>
 '<span>calm</span>' (<span>consonant assimilation</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td>Mono</td><td><i>malilo</i></td>
+<td>MM</td><td><a href="../languages/mono">Mono</a></td><td><i>malilo</i></td>
 <td>
 '<span>calm</span>' (<span>consonant assimilation</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>manino</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>manino</i></td>
 <td>
 '<span>transparent, clear</span>' (<span>consonant assimilation</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>melino</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>melino</i></td>
 <td>
 '<span>at peace</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tuamotuan</td><td><i>marino</i></td>
+<td>Pn</td><td><a href="../languages/tuamotuan">Tuamotuan</a></td><td><i>marino</i></td>
 <td>
 '<span>calm</span>'</td>
 </tr>
@@ -2394,7 +2394,7 @@ The cognate set below indicates that speakers of several daughter languages adop
 <i>&ast;(d,r)apu</i>
 </td>
 <td>
-'<span>still, calm, quiet</span>' (<a href="../references.md#source-Blust1972b">Blust1972b</a>)
+'<span>still, calm, quiet</span>' (<a href="../sources/Blust1972b">Blust1972b</a>)
 </td>
 </tr>
 <tr>
@@ -2406,37 +2406,37 @@ The cognate set below indicates that speakers of several daughter languages adop
 '<span>still, calm, windless</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Nyindrou</td><td><i>ⁿra-dah</i></td>
+<td>Adm</td><td><a href="../languages/nyindrou">Nyindrou</a></td><td><i>ⁿra-dah</i></td>
 <td>
 '<span>breeze</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Petats</td><td><i>marah</i></td>
+<td>MM</td><td><a href="../languages/petats">Petats</a></td><td><i>marah</i></td>
 <td>
 '<span>calm</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Halia</td><td><i>maraha</i></td>
+<td>MM</td><td><a href="../languages/halia">Halia</a></td><td><i>maraha</i></td>
 <td>
 '<span>calm</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Taiof</td><td><i>madav</i></td>
+<td>MM</td><td><a href="../languages/taiof">Taiof</a></td><td><i>madav</i></td>
 <td>
 '<span>calm</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Teop</td><td><i>mara</i></td>
+<td>MM</td><td><a href="../languages/teop">Teop</a></td><td><i>mara</i></td>
 <td>
 '<span>calm</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>maravu</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>maravu</i></td>
 <td>
 [N] '<span>a calm (at sea)</span>'; [V, ADJ] '<span>(sea) calm,</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>maravu</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>maravu</i></td>
 <td>
 '<span>(sea) calm, still, windless</span>'</td>
 </tr>
@@ -2458,27 +2458,27 @@ PEOc _&ast;ma-lua(s)_ ‘soft, gentle, (weather) calm’ is descended from POc _
 '<span>soft</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Notsi</td><td><i>məlus</i></td>
+<td>MM</td><td><a href="../languages/notsi">Notsi</a></td><td><i>məlus</i></td>
 <td>
 '<span>soft</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Konomala</td><td><i>(ma)mlas</i></td>
+<td>MM</td><td><a href="../languages/konomala">Konomala</a></td><td><i>(ma)mlas</i></td>
 <td>
 '<span>soft</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Siar</td><td><i>(ma)maluas</i></td>
+<td>MM</td><td><a href="../languages/siar">Siar</a></td><td><i>(ma)maluas</i></td>
 <td>
 '<span>soft</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Ramoaaina</td><td><i>(mal)malua</i></td>
+<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>(mal)malua</i></td>
 <td>
 '<span>soft</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nehan</td><td><i>(mal)malua(n)</i></td>
+<td>MM</td><td><a href="../languages/nehan">Nehan</a></td><td><i>(mal)malua(n)</i></td>
 <td>
 '<span>soft</span>'</td>
 </tr>
@@ -2491,37 +2491,37 @@ PEOc _&ast;ma-lua(s)_ ‘soft, gentle, (weather) calm’ is descended from POc _
 '<span>soft, gentle, (weather) calm</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>malua</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>malua</i></td>
 <td>
 '<span>soft</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>'Are'are</td><td><i>mārūrū</i></td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>mārūrū</i></td>
 <td>
 '<span>soft, gentle, flexible</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Ponapean</td><td><i>malu-n</i></td>
+<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td><i>malu-n</i></td>
 <td>
 '<span>calm, of the sea</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Mokilese</td><td><i>molu-n</i></td>
+<td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td><i>molu-n</i></td>
 <td>
 '<span>calm or fine, of weather</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Mortlockese</td><td><i>maləwa-ləw</i></td>
+<td>Mic</td><td><a href="../languages/mortlockese">Mortlockese</a></td><td><i>maləwa-ləw</i></td>
 <td>
 '<span>peaceful</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Puluwatese</td><td><i>malɨwa-lɨ</i></td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>malɨwa-lɨ</i></td>
 <td>
 '<span>to be easy or slow, to be calm (as the sea), to be gentle</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>mālua</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>mālua</i></td>
 <td>
 '<span>gently, slowly, quietly</span>'</td>
 </tr>
@@ -2541,57 +2541,57 @@ PWOc _&ast;siwaRop_/_&ast;niwaRop_ ‘calm, peaceful’ may well have expressed 
 '<span>(weather) calm, peaceful</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Dobu</td><td><i>siwalowa</i></td>
+<td>PT</td><td><a href="../languages/dobu">Dobu</a></td><td><i>siwalowa</i></td>
 <td>
 '<span>calm</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Molima</td><td><i>hiwalova, niwalova</i></td>
+<td>PT</td><td><a href="../languages/molima">Molima</a></td><td><i>hiwalova, niwalova</i></td>
 <td>
 '<span>calm</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Iduna</td><td><i>niwalova</i></td>
+<td>PT</td><td><a href="../languages/iduna">Iduna</a></td><td><i>niwalova</i></td>
 <td>
 '<span>stillness, season without wind, calm, peace (no fighting)</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Are</td><td><i>niworoa</i></td>
+<td>PT</td><td><a href="../languages/are">Are</a></td><td><i>niworoa</i></td>
 <td>
 '<span>calm</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Kilivila</td><td><i>niwal</i></td>
+<td>PT</td><td><a href="../languages/kilivila">Kilivila</a></td><td><i>niwal</i></td>
 <td>
 '<span>calm</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Taboro</td><td><i>(a)siure-ure</i></td>
+<td>PT</td><td><a href="../languages/taboro">Taboro</a></td><td><i>(a)siure-ure</i></td>
 <td>
 '<span>calm</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Sursurunga</td><td><i>siaroh</i></td>
+<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td><i>siaroh</i></td>
 <td>
 '<span>peaceful (as waves), calm</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Siar</td><td><i>siarof</i></td>
+<td>MM</td><td><a href="../languages/siar">Siar</a></td><td><i>siarof</i></td>
 <td>
 '<span>calm</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Solos</td><td><i>sianoh</i></td>
+<td>MM</td><td><a href="../languages/solos">Solos</a></td><td><i>sianoh</i></td>
 <td>
 '<span>calm</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Selau</td><td><i>sarowo</i></td>
+<td>MM</td><td><a href="../languages/selau">Selau</a></td><td><i>sarowo</i></td>
 <td>
 '<span>calm</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Teop</td><td><i>hiarovo</i></td>
+<td>MM</td><td><a href="../languages/teop">Teop</a></td><td><i>hiarovo</i></td>
 <td>
 '<span>good weather after a rain</span>'</td>
 </tr>
@@ -2617,7 +2617,7 @@ The locus of much of the weather was of course POc _&ast;laŋit_, the sky, and t
 <i>&ast;laŋiC</i>
 </td>
 <td>
-'<span>sky</span>' (<a href="../references.md#source-Dempwolff1938">Dempwolff1938</a>)
+'<span>sky</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
 </td>
 </tr>
 <tr>
@@ -2637,122 +2637,122 @@ The locus of much of the weather was of course POc _&ast;laŋit_, the sky, and t
 '<span>sky, weather</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Tench</td><td><i>raŋiti</i></td>
+<td>Adm</td><td><a href="../languages/tench">Tench</a></td><td><i>raŋiti</i></td>
 <td>
 '<span>rain</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Titan</td><td><i>laŋ</i></td>
+<td>Adm</td><td><a href="../languages/titan">Titan</a></td><td><i>laŋ</i></td>
 <td>
 '<span>sky; heaven</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Malalamai</td><td><i>laŋ</i></td>
+<td>NNG</td><td><a href="../languages/malalamai">Malalamai</a></td><td><i>laŋ</i></td>
 <td>
 '<span>cloud</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Buang</td><td><i>yagk</i></td>
+<td>NNG</td><td><a href="../languages/buang">Buang</a></td><td><i>yagk</i></td>
 <td>
 '<span>sky</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Manam</td><td><i>laŋ</i></td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>laŋ</i></td>
 <td>
 '<span>sky, heavens</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kaiep</td><td><i>laŋit</i></td>
+<td>NNG</td><td><a href="../languages/kaiep">Kaiep</a></td><td><i>laŋit</i></td>
 <td>
 '<span>thunder</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Bali</td><td><i>laŋiti</i></td>
+<td>MM</td><td><a href="../languages/bali">Bali</a></td><td><i>laŋiti</i></td>
 <td>
 '<span>sky</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tigak</td><td><i>laŋit</i></td>
+<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td><i>laŋit</i></td>
 <td>
 '<span>rain</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tabar</td><td><i>raŋiti</i></td>
+<td>MM</td><td><a href="../languages/tabar">Tabar</a></td><td><i>raŋiti</i></td>
 <td>
 '<span>sky</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Siar</td><td><i>laŋit</i></td>
+<td>MM</td><td><a href="../languages/siar">Siar</a></td><td><i>laŋit</i></td>
 <td>
 '<span>sky</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nehan</td><td><i>laŋit</i></td>
+<td>MM</td><td><a href="../languages/nehan">Nehan</a></td><td><i>laŋit</i></td>
 <td>
 '<span>sky</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Halia</td><td><i>laŋic</i></td>
+<td>MM</td><td><a href="../languages/halia">Halia</a></td><td><i>laŋic</i></td>
 <td>
 '<span>rain; sky</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Alu</td><td><i>laiti</i></td>
+<td>MM</td><td><a href="../languages/alu">Alu</a></td><td><i>laiti</i></td>
 <td>
 '<span>rain</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Kwaio</td><td><i>laŋi</i></td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>laŋi</i></td>
 <td>
 '<span>sky, heavens</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>raŋi</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>raŋi</i></td>
 <td>
 '<span>rain</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Raga</td><td><i>laŋi</i></td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>laŋi</i></td>
 <td>
 '<span>wind</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Paamese</td><td><i>alaŋ</i></td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>alaŋ</i></td>
 <td>
 '<span>wind</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Lewo</td><td><i>laŋi</i></td>
+<td>NCV</td><td><a href="../languages/lewo">Lewo</a></td><td><i>laŋi</i></td>
 <td>
 '<span>wind</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Marshallese</td><td><i>laŋ</i></td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>laŋ</i></td>
 <td>
 '<span>sky, heavens</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Woleaian</td><td><i>raŋi</i></td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>raŋi</i></td>
 <td>
 '<span>sky; typhoon, rainstorm, wind</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>(vū-ni)-laŋi</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>(vū-ni)-laŋi</i></td>
 <td>
 '<span>horizon</span>' (<span>lit. ‘base of sky’</span>)</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>(lewe-ni)-laŋi</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>(lewe-ni)-laŋi</i></td>
 <td>
 '<span>full moon</span>' (<span>lit. ‘flesh of sky’</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>laŋi</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>laŋi</i></td>
 <td>
 '<span>sky, heavens</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>laŋi</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>laŋi</i></td>
 <td>
 '<span>sky, heavens</span>'</td>
 </tr>
@@ -2775,47 +2775,47 @@ PNGOc _&ast;sabam_ ‘sky’ is also reconstructable. It is not clear how this c
 '<span>sky</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Malai</td><td><i>sabam</i></td>
+<td>NNG</td><td><a href="../languages/malai">Malai</a></td><td><i>sabam</i></td>
 <td>
 '<span>sky</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Sio</td><td><i>saba</i></td>
+<td>NNG</td><td><a href="../languages/sio">Sio</a></td><td><i>saba</i></td>
 <td>
 '<span>sky</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Bing</td><td><i>sɔm</i></td>
+<td>NNG</td><td><a href="../languages/bing">Bing</a></td><td><i>sɔm</i></td>
 <td>
 '<span>sky</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Dami</td><td><i>sa</i></td>
+<td>NNG</td><td><a href="../languages/dami">Dami</a></td><td><i>sa</i></td>
 <td>
 '<span>sky</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Bilibil</td><td><i>sabat</i></td>
+<td>NNG</td><td><a href="../languages/bilibil">Bilibil</a></td><td><i>sabat</i></td>
 <td>
 '<span>sky</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Ubir</td><td><i>safam</i></td>
+<td>PT</td><td><a href="../languages/ubir">Ubir</a></td><td><i>safam</i></td>
 <td>
 '<span>sky</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Are</td><td><i>sapama</i></td>
+<td>PT</td><td><a href="../languages/are">Are</a></td><td><i>sapama</i></td>
 <td>
 '<span>sky</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Bwaidoga</td><td><i>ɣabama</i></td>
+<td>PT</td><td><a href="../languages/bwaidoga">Bwaidoga</a></td><td><i>ɣabama</i></td>
 <td>
 '<span>sky</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Kilivila</td><td><i>labuma</i></td>
+<td>PT</td><td><a href="../languages/kilivila">Kilivila</a></td><td><i>labuma</i></td>
 <td>
 '<span>sky</span>'</td>
 </tr>
@@ -2835,72 +2835,72 @@ The generic term for ‘cloud’ in POc was _&ast;qaRoq_.
 '<span>cloud (generic)</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Dobu</td><td><i>yaloa</i></td>
+<td>PT</td><td><a href="../languages/dobu">Dobu</a></td><td><i>yaloa</i></td>
 <td>
 '<span>cloud</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Sariba</td><td><i>yaloi</i></td>
+<td>PT</td><td><a href="../languages/sariba">Sariba</a></td><td><i>yaloi</i></td>
 <td>
 '<span>cloud</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Misima</td><td><i>yalu-yalu</i></td>
+<td>PT</td><td><a href="../languages/misima">Misima</a></td><td><i>yalu-yalu</i></td>
 <td>
 '<span>cloud</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Maringe</td><td><i>maloa</i></td>
+<td>MM</td><td><a href="../languages/maringe">Maringe</a></td><td><i>maloa</i></td>
 <td>
 '<span>sky</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Bugotu</td><td><i>(ma)alo(a)</i></td>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>(ma)alo(a)</i></td>
 <td>
 '<span>sky</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>salo</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>salo</i></td>
 <td>
 '<span>sky</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Kwaio</td><td><i>lalo</i></td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>lalo</i></td>
 <td>
 '<span>sky</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>(mei)salo</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>(mei)salo</i></td>
 <td>
 '<span>cloud</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>aro</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>aro</i></td>
 <td>
 '<span>sky</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>ō</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>ō</i></td>
 <td>
 '<span>cloud</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>(ka)ō</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>(ka)ō</i></td>
 <td>
 '<span>cloud</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>ʔao</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>ʔao</i></td>
 <td>
 '<span>cloud(s)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>ao</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>ao</i></td>
 <td>
 '<span>cloud</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Hawaiian</td><td><i>ao</i></td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>ao</i></td>
 <td>
 '<span>any kind of cloud</span>'</td>
 </tr>
@@ -2917,7 +2917,7 @@ The four terms below each possibly denoted a type of cloud. POc &ast;rodo(ŋ) me
 <i>&ast;rendeŋ</i>
 </td>
 <td>
-'<span>wet season</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>wet season</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -2929,27 +2929,27 @@ The four terms below each possibly denoted a type of cloud. POc &ast;rodo(ŋ) me
 '<span>rain cloud</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Talise</td><td><i>ro-rodo</i></td>
+<td>SES</td><td><a href="../languages/talise">Talise</a></td><td><i>ro-rodo</i></td>
 <td>
 '<span>cloud</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>'Are'are</td><td><i>roto</i></td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>roto</i></td>
 <td>
 '<span>cloudy, black cloud, squall</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>ro-rodo</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>ro-rodo</i></td>
 <td>
 '<span>a cloud</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Fortsenal</td><td><i>koko</i></td>
+<td>NCV</td><td><a href="../languages/fortsenal">Fortsenal</a></td><td><i>koko</i></td>
 <td>
 '<span>rain cloud</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Raga</td><td><i>dodo</i></td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>dodo</i></td>
 <td>
 '<span>rain cloud</span>'</td>
 </tr>
@@ -2967,42 +2967,42 @@ The four terms below each possibly denoted a type of cloud. POc &ast;rodo(ŋ) me
 '<span>k.o. cloud (possibly storm cloud)</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Mangap</td><td><i>gubur</i></td>
+<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td><i>gubur</i></td>
 <td>
 '<span>dark cloud</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Sepa</td><td><i>kuba</i></td>
+<td>NNG</td><td><a href="../languages/sepa">Sepa</a></td><td><i>kuba</i></td>
 <td>
 '<span>rain</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Are</td><td><i>guba</i></td>
+<td>PT</td><td><a href="../languages/are">Are</a></td><td><i>guba</i></td>
 <td>
 '<span>cloud</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Gapapaiwa</td><td><i>guva</i></td>
+<td>PT</td><td><a href="../languages/gapapaiwa">Gapapaiwa</a></td><td><i>guva</i></td>
 <td>
 '<span>cloud</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Maopa</td><td><i>kupa</i></td>
+<td>PT</td><td><a href="../languages/maopa">Maopa</a></td><td><i>kupa</i></td>
 <td>
 '<span>rain</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>guba</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>guba</i></td>
 <td>
 '<span>sky; heavens; a northwest squall</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Gabadi</td><td><i>upa</i></td>
+<td>PT</td><td><a href="../languages/gabadi">Gabadi</a></td><td><i>upa</i></td>
 <td>
 '<span>rain</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Mekeo</td><td><i>ufa</i></td>
+<td>PT</td><td><a href="../languages/mekeo">Mekeo</a></td><td><i>ufa</i></td>
 <td>
 '<span>sky, heavens</span>'</td>
 </tr>
@@ -3023,32 +3023,32 @@ The four terms below each possibly denoted a type of cloud. POc &ast;rodo(ŋ) me
 '<span>k.o. cloud</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Uvol</td><td><i>ulu</i></td>
+<td>NNG</td><td><a href="../languages/uvol">Uvol</a></td><td><i>ulu</i></td>
 <td>
 '<span>cloud</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Lavongai</td><td><i>ulu-l</i></td>
+<td>MM</td><td><a href="../languages/lavongai">Lavongai</a></td><td><i>ulu-l</i></td>
 <td>
 '<span>fog</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>'Are'are</td><td><i>uru</i></td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>uru</i></td>
 <td>
 '<span>cloud, heaven, sky, top</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>uru</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>uru</i></td>
 <td>
 '<span>white clouds</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>uru-uru</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>uru-uru</i></td>
 <td>
 '<span>black rainclouds</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>(bara)uru</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>(bara)uru</i></td>
 <td>
 '<span>evening bank of clouds; heavy masses of dark clouds</span>'</td>
 </tr>
@@ -3066,27 +3066,27 @@ The four terms below each possibly denoted a type of cloud. POc &ast;rodo(ŋ) me
 '<span>k.o. cloud</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Titan</td><td><i>pala</i></td>
+<td>Adm</td><td><a href="../languages/titan">Titan</a></td><td><i>pala</i></td>
 <td>
 '<span>cloud, light white clouds</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tabar</td><td><i>bara-bara</i></td>
+<td>MM</td><td><a href="../languages/tabar">Tabar</a></td><td><i>bara-bara</i></td>
 <td>
 '<span>cloud</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Lihir</td><td><i>(lo)bal-bal</i></td>
+<td>MM</td><td><a href="../languages/lihir">Lihir</a></td><td><i>(lo)bal-bal</i></td>
 <td>
 '<span>cloud</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tangga</td><td><i>bal-bal</i></td>
+<td>MM</td><td><a href="../languages/tangga">Tangga</a></td><td><i>bal-bal</i></td>
 <td>
 '<span>cloud</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>bara(uru)</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>bara(uru)</i></td>
 <td>
 '<span>evening bank of clouds; heavy masses of dark clouds</span>'</td>
 </tr>
@@ -3103,7 +3103,7 @@ There are a number of reconstructable POc terms some of whose reflexes mean ‘c
 <i>&ast;Ra(m)bun</i>
 </td>
 <td>
-'<span>haze</span>' (<a href="../references.md#source-Blust1972b">Blust1972b</a>)
+'<span>haze</span>' (<a href="../sources/Blust1972b">Blust1972b</a>)
 </td>
 </tr>
 <tr>
@@ -3115,47 +3115,47 @@ There are a number of reconstructable POc terms some of whose reflexes mean ‘c
 '<span>haze, mist</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Drehet</td><td><i>kxɔ-kxɔh</i></td>
+<td>Adm</td><td><a href="../languages/drehet">Drehet</a></td><td><i>kxɔ-kxɔh</i></td>
 <td>
 '<span>cloud</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Bariai</td><td><i>lau-lau</i></td>
+<td>NNG</td><td><a href="../languages/bariai">Bariai</a></td><td><i>lau-lau</i></td>
 <td>
 '<span>cloud</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Kilivila</td><td><i>loa-lova</i></td>
+<td>PT</td><td><a href="../languages/kilivila">Kilivila</a></td><td><i>loa-lova</i></td>
 <td>
 '<span>cloud</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Bugotu</td><td><i>lavo</i></td>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>lavo</i></td>
 <td>
 '<span>haze, vapour; misty, hazy</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lengo</td><td><i>lavo</i></td>
+<td>SES</td><td><a href="../languages/lengo">Lengo</a></td><td><i>lavo</i></td>
 <td>
 '<span>fog</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Longgu</td><td><i>lavo</i></td>
+<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td><i>lavo</i></td>
 <td>
 '<span>fog</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>lafo</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>lafo</i></td>
 <td>
 '<span>cloud</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Kwaio</td><td><i>lafo</i></td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>lafo</i></td>
 <td>
 '<span>cloud</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>'Are'are</td><td><i>raho</i></td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>raho</i></td>
 <td>
 '<span>haze, mist, fog, cloud</span>'</td>
 </tr>
@@ -3165,26 +3165,26 @@ There are a number of reconstructable POc terms some of whose reflexes mean ‘c
 <i>&ast;ma-Ravu</i>
 </td>
 <td>
-'<span>fog, mist</span>' (<a href="../references.md#source-Clark1996">Clark1996</a>)
+'<span>fog, mist</span>' (<a href="../sources/Clark1996">Clark1996</a>)
 </td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>marav</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>marav</i></td>
 <td>
 '<span>dim, misty</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Raga</td><td><i>marav</i></td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>marav</i></td>
 <td>
 '<span>mist</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Paamese</td><td><i>mahu-mahu</i></td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>mahu-mahu</i></td>
 <td>
 '<span>cloud</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Nguna</td><td><i>(na)mavu</i></td>
+<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td><i>(na)mavu</i></td>
 <td>
 '<span>fog, mist</span>'</td>
 </tr>
@@ -3207,42 +3207,42 @@ The meanings of the set below are intriguing: their common denominator seems to 
 '<span>(?) misty rain</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Mussau</td><td><i>bao</i></td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>bao</i></td>
 <td>
 '<span>rain</span>'</td>
 </tr>
 <tr>
-<td>SJ</td><td>Kayupulau</td><td><i>bʷau</i></td>
+<td>SJ</td><td><a href="../languages/kayupulau">Kayupulau</a></td><td><i>bʷau</i></td>
 <td>
 '<span>cloud</span>'</td>
 </tr>
 <tr>
-<td>SJ</td><td>Ormu</td><td><i>wawu</i></td>
+<td>SJ</td><td><a href="../languages/ormu">Ormu</a></td><td><i>wawu</i></td>
 <td>
 '<span>cloud</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Iduna</td><td><i>bowa</i></td>
+<td>PT</td><td><a href="../languages/iduna">Iduna</a></td><td><i>bowa</i></td>
 <td>
 '<span>rainbow</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Kilivila</td><td><i>bʷabʷau</i></td>
+<td>PT</td><td><a href="../languages/kilivila">Kilivila</a></td><td><i>bʷabʷau</i></td>
 <td>
 '<span>rain clouds</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Sudest</td><td><i>bʷao</i></td>
+<td>PT</td><td><a href="../languages/sudest">Sudest</a></td><td><i>bʷao</i></td>
 <td>
 '<span>rainbow</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>kʷafo</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>kʷafo</i></td>
 <td>
 '<span>mist, cloud</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Kwaio</td><td><i>gʷafo</i></td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>gʷafo</i></td>
 <td>
 '<span>mist</span>'</td>
 </tr>
@@ -3259,7 +3259,7 @@ The items below—POc _&ast;kapu(t)_/_&ast;kopu_ ‘low cloud, mist, fog’ and 
 <i>&ast;kabut</i>
 </td>
 <td>
-'<span>mist</span>' (<a href="../references.md#source-Dempwolff1938">Dempwolff1938</a>)
+'<span>mist</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
 </td>
 </tr>
 <tr>
@@ -3271,47 +3271,47 @@ The items below—POc _&ast;kapu(t)_/_&ast;kopu_ ‘low cloud, mist, fog’ and 
 '<span>low cloud, mist, fog</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Titan</td><td><i>aúu</i></td>
+<td>Adm</td><td><a href="../languages/titan">Titan</a></td><td><i>aúu</i></td>
 <td>
 '<span>low lying clouds, mist, not raining</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Takia</td><td><i>kau-kau</i></td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>kau-kau</i></td>
 <td>
 '<span>fog</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kairiru</td><td><i>qafu-f</i></td>
+<td>NNG</td><td><a href="../languages/kairiru">Kairiru</a></td><td><i>qafu-f</i></td>
 <td>
 '<span>fog</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kove</td><td><i>ɣau-ɣau</i></td>
+<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td><i>ɣau-ɣau</i></td>
 <td>
 '<span>misty</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>ɣahu</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>ɣahu</i></td>
 <td>
 '<span>mist; fog at sea; haze</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Roro</td><td><i>abu</i></td>
+<td>PT</td><td><a href="../languages/roro">Roro</a></td><td><i>abu</i></td>
 <td>
 '<span>fog</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Mekeo</td><td><i>apu, apu-apu</i></td>
+<td>PT</td><td><a href="../languages/mekeo">Mekeo</a></td><td><i>apu, apu-apu</i></td>
 <td>
 '<span>fog, cloud</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Kara (West)</td><td><i>kauf</i></td>
+<td>MM</td><td><a href="../languages/karawest">Kara (West)</a></td><td><i>kauf</i></td>
 <td>
 '<span>fog</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Talise</td><td><i>ɣavu</i></td>
+<td>SES</td><td><a href="../languages/talise">Talise</a></td><td><i>ɣavu</i></td>
 <td>
 '<span>fog</span>'</td>
 </tr>
@@ -3357,57 +3357,57 @@ It seems likely that &ast;kopu already occurred in POc as a doublet of _&ast;kap
 '<span>low cloud, mist, fog</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Lou</td><td><i>kɔp-kɔp</i></td>
+<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td><i>kɔp-kɔp</i></td>
 <td>
 '<span>dust; fog, mist</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Drehet</td><td><i>kopʷ(ieh)</i></td>
+<td>Adm</td><td><a href="../languages/drehet">Drehet</a></td><td><i>kopʷ(ieh)</i></td>
 <td>
 '<span>mist, fog</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Molima</td><td><i>kʷau</i></td>
+<td>PT</td><td><a href="../languages/molima">Molima</a></td><td><i>kʷau</i></td>
 <td>
 '<span>cloud</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Mono</td><td><i>(ma)kohu</i></td>
+<td>MM</td><td><a href="../languages/mono">Mono</a></td><td><i>(ma)kohu</i></td>
 <td>
 '<span>fog</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Laghu</td><td><i>kō</i></td>
+<td>MM</td><td><a href="../languages/laghu">Laghu</a></td><td><i>kō</i></td>
 <td>
 '<span>fog</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Bauro</td><td><i>kʷahu</i></td>
+<td>SES</td><td><a href="../languages/bauro">Bauro</a></td><td><i>kʷahu</i></td>
 <td>
 '<span>fog</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Raga</td><td><i>govu</i></td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>govu</i></td>
 <td>
 '<span>clouded</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>govu</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>govu</i></td>
 <td>
 '<span>light clouds covering land</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Mangareva</td><td><i>kou</i></td>
+<td>Pn</td><td><a href="../languages/mangareva">Mangareva</a></td><td><i>kou</i></td>
 <td>
 '<span>clouds low on the peaks of the hills</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tahitian</td><td><i>ohu</i></td>
+<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td><i>ohu</i></td>
 <td>
 '<span>cloud settled on the mountain tops</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Marquesan</td><td><i>kohu</i></td>
+<td>Pn</td><td><a href="../languages/marquesan">Marquesan</a></td><td><i>kohu</i></td>
 <td>
 '<span>fog, haze</span>'</td>
 </tr>
@@ -3428,57 +3428,57 @@ It seems likely that &ast;kopu already occurred in POc as a doublet of _&ast;kap
 '<span>mist</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Malai</td><td><i>gafu-f</i></td>
+<td>NNG</td><td><a href="../languages/malai">Malai</a></td><td><i>gafu-f</i></td>
 <td>
 '<span>fog</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Amara</td><td><i>(a)gau-gau</i></td>
+<td>NNG</td><td><a href="../languages/amara">Amara</a></td><td><i>(a)gau-gau</i></td>
 <td>
 '<span>fog</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Arove</td><td><i>gau-gau</i></td>
+<td>NNG</td><td><a href="../languages/arove">Arove</a></td><td><i>gau-gau</i></td>
 <td>
 '<span>fog</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Tawala</td><td><i>gahu</i></td>
+<td>PT</td><td><a href="../languages/tawala">Tawala</a></td><td><i>gahu</i></td>
 <td>
 '<span>fog</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Minigir</td><td><i>gavulu</i></td>
+<td>MM</td><td><a href="../languages/minigir">Minigir</a></td><td><i>gavulu</i></td>
 <td>
 '<span>cloud</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tolai</td><td><i>gavul</i></td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>gavul</i></td>
 <td>
 '<span>fog, mist</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>gavu</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>gavu</i></td>
 <td>
 '<span>mist, haze</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Kwara’ae</td><td><i>goh</i></td>
+<td>SES</td><td><a href="../languages/kwaraae">Kwara’ae</a></td><td><i>goh</i></td>
 <td>
 '<span>fog</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Langalanga</td><td><i>gafu</i></td>
+<td>SES</td><td><a href="../languages/langalanga">Langalanga</a></td><td><i>gafu</i></td>
 <td>
 '<span>fog</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>gahu</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>gahu</i></td>
 <td>
 '<span>mist, be misty</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>ka-kapu</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>ka-kapu</i></td>
 <td>
 '<span>mist</span>'</td>
 </tr>
@@ -3486,7 +3486,7 @@ It seems likely that &ast;kopu already occurred in POc as a doublet of _&ast;kap
 
 
 
-As if this were not already complicated enough, a further curiosity is the reconstruction of Proto Nuclear Polynesian _&ast;kapuqa_ ‘cloud’ ([Biggs & Clark 1993](../references.md#source-BiggsandClark1993)), which either entails the addition of _&ast;-qa_ to a reflex of POc _&ast;kapu(t)_ or _&ast;gapu(l)_ or is a derivative of the PPn verb _&ast;kaputi_ ‘cover over’.
+As if this were not already complicated enough, a further curiosity is the reconstruction of Proto Nuclear Polynesian _&ast;kapuqa_ ‘cloud’ ([Biggs & Clark 1993](../sources/BiggsandClark1993)), which either entails the addition of _&ast;-qa_ to a reflex of POc _&ast;kapu(t)_ or _&ast;gapu(l)_ or is a derivative of the PPn verb _&ast;kaputi_ ‘cover over’.
 
 <table id="2-5-5-2-146-PNPn-kapuqa-a">
 <tr>
@@ -3498,27 +3498,27 @@ As if this were not already complicated enough, a further curiosity is the recon
 '<span>cloud</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rapanui</td><td><i>kapuʔa</i></td>
+<td>Pn</td><td><a href="../languages/rapanui">Rapanui</a></td><td><i>kapuʔa</i></td>
 <td>
 '<span>fog, haze, mist</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Hawaiian</td><td><i>ʔōpua</i></td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>ʔōpua</i></td>
 <td>
 '<span>puffy clouds, as banked up near the horizon</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>K’maringi</td><td><i>gabua</i></td>
+<td>Pn</td><td><a href="../languages/kmaringi">K’maringi</a></td><td><i>gabua</i></td>
 <td>
 '<span>raincloud (sign of rain)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>kapua</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>kapua</i></td>
 <td>
 '<span>cloud, mist</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rarotongan</td><td><i>kāpua</i></td>
+<td>Pn</td><td><a href="../languages/rarotongan">Rarotongan</a></td><td><i>kāpua</i></td>
 <td>
 '<span>cloud, mist</span>'</td>
 </tr>
@@ -3541,7 +3541,7 @@ The most widely reflected POc word for ‘rain’ (both verb and noun) is _&ast;
 <i>&ast;quZaL</i>
 </td>
 <td>
-'<span>rain</span>' (<a href="../references.md#source-Blust1969">Blust1969</a>; <a href="../references.md#source-Dempwolff1938">Dempwolff1938</a>)
+'<span>rain</span>' (<a href="../sources/Blust1969">Blust1969</a>; <a href="../sources/Dempwolff1938">Dempwolff1938</a>)
 </td>
 </tr>
 <tr>
@@ -3561,102 +3561,102 @@ The most widely reflected POc word for ‘rain’ (both verb and noun) is _&ast;
 '<span>(N, V) rain</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Malasanga</td><td><i>kuya</i></td>
+<td>NNG</td><td><a href="../languages/malasanga">Malasanga</a></td><td><i>kuya</i></td>
 <td>
 '<span>rain</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Poeng</td><td><i>kue</i></td>
+<td>NNG</td><td><a href="../languages/poeng">Poeng</a></td><td><i>kue</i></td>
 <td>
 '<span>rain</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Takia</td><td><i>ui</i></td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>ui</i></td>
 <td>
 '<span>rain</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Numbami</td><td><i>usana</i></td>
+<td>NNG</td><td><a href="../languages/numbami">Numbami</a></td><td><i>usana</i></td>
 <td>
 '<span>rain</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kaiwa</td><td><i>ur</i></td>
+<td>NNG</td><td><a href="../languages/kaiwa">Kaiwa</a></td><td><i>ur</i></td>
 <td>
 '<span>rain</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Manam</td><td><i>ura</i></td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>ura</i></td>
 <td>
 '<span>rain</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Are</td><td><i>kusana</i></td>
+<td>PT</td><td><a href="../languages/are">Are</a></td><td><i>kusana</i></td>
 <td>
 '<span>rain</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Balawaia</td><td><i>ɣura</i></td>
+<td>PT</td><td><a href="../languages/balawaia">Balawaia</a></td><td><i>ɣura</i></td>
 <td>
 '<span>rain</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Bali</td><td><i>ɣuzaŋa</i></td>
+<td>MM</td><td><a href="../languages/bali">Bali</a></td><td><i>ɣuzaŋa</i></td>
 <td>
 '<span>rain</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Lihir</td><td><i>uos</i></td>
+<td>MM</td><td><a href="../languages/lihir">Lihir</a></td><td><i>uos</i></td>
 <td>
 '<span>rain</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Teop</td><td><i>huan</i></td>
+<td>MM</td><td><a href="../languages/teop">Teop</a></td><td><i>huan</i></td>
 <td>
 '<span>rain</span>' (<span>metathesis</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td>Maringe</td><td><i>(na)uha</i></td>
+<td>MM</td><td><a href="../languages/maringe">Maringe</a></td><td><i>(na)uha</i></td>
 <td>
 '<span>rain</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Bugotu</td><td><i>uha</i></td>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>uha</i></td>
 <td>
 '<span>rain</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Longgu</td><td><i>uta</i></td>
+<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td><i>uta</i></td>
 <td>
 '<span>rain</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>uta</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>uta</i></td>
 <td>
 '<span>rain</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Fortsenal</td><td><i>usa</i></td>
+<td>NCV</td><td><a href="../languages/fortsenal">Fortsenal</a></td><td><i>usa</i></td>
 <td>
 '<span>rain</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Woleaian</td><td><i>uta</i></td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>uta</i></td>
 <td>
 '<span>rain</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>uða</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>uða</i></td>
 <td>
 '<span>rain</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>ʔuha</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>ʔuha</i></td>
 <td>
 '<span>rain.</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>ua</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>ua</i></td>
 <td>
 '<span>rain</span>'</td>
 </tr>
@@ -3677,92 +3677,92 @@ The most widely reflected POc word for ‘rain’ (both verb and noun) is _&ast;
 '<span>rain, rain cloud</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Loniu</td><td><i>kaʔæh</i></td>
+<td>Adm</td><td><a href="../languages/loniu">Loniu</a></td><td><i>kaʔæh</i></td>
 <td>
 '<span>cloud</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Lele</td><td><i>kanrah</i></td>
+<td>Adm</td><td><a href="../languages/lele">Lele</a></td><td><i>kanrah</i></td>
 <td>
 '<span>cloud</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Bulu</td><td><i>kadavu</i></td>
+<td>MM</td><td><a href="../languages/bulu">Bulu</a></td><td><i>kadavu</i></td>
 <td>
 '<span>rain</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Meramera</td><td><i>adavu</i></td>
+<td>MM</td><td><a href="../languages/meramera">Meramera</a></td><td><i>adavu</i></td>
 <td>
 '<span>rain</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Kara (East)</td><td><i>rafui</i></td>
+<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td><i>rafui</i></td>
 <td>
 '<span>rain</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nalik</td><td><i>dafur</i></td>
+<td>MM</td><td><a href="../languages/nalik">Nalik</a></td><td><i>dafur</i></td>
 <td>
 '<span>rain</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Konomala</td><td><i>daf</i></td>
+<td>MM</td><td><a href="../languages/konomala">Konomala</a></td><td><i>daf</i></td>
 <td>
 '<span>rain</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Banoni</td><td><i>ɣarau</i></td>
+<td>MM</td><td><a href="../languages/banoni">Banoni</a></td><td><i>ɣarau</i></td>
 <td>
 '<span>rain</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Piva</td><td><i>ɣaravu</i></td>
+<td>MM</td><td><a href="../languages/piva">Piva</a></td><td><i>ɣaravu</i></td>
 <td>
 '<span>rain</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kiribatese</td><td><i>karau</i></td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>karau</i></td>
 <td>
 '<span>rain, heaven, sky</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kosraean</td><td><i>kʌṣao</i></td>
+<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td><i>kʌṣao</i></td>
 <td>
 '<span>sky, heaven</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Marshallese</td><td><i>keṛaw</i></td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>keṛaw</i></td>
 <td>
 '<span>cloud, overcast</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Ponapean</td><td><i>kec̣ew</i></td>
+<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td><i>kec̣ew</i></td>
 <td>
 '<span>rain, to rain</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Mokilese</td><td><i>kɔsɔw</i></td>
+<td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td><i>kɔsɔw</i></td>
 <td>
 '<span>cloud</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Trukese</td><td><i>kuc̣ū-</i></td>
+<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td><i>kuc̣ū-</i></td>
 <td>
 '<span>cloud</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Puluwatese</td><td><i>woṛow</i></td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>woṛow</i></td>
 <td>
 '<span>white cloud</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Carolinian</td><td><i>uṣow</i></td>
+<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td><i>uṣow</i></td>
 <td>
 '<span>rain</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Woleaian</td><td><i>xoṣou</i></td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>xoṣou</i></td>
 <td>
 '<span>rain</span>'</td>
 </tr>
@@ -3780,27 +3780,27 @@ The most widely reflected POc word for ‘rain’ (both verb and noun) is _&ast;
 '<span>rain</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Aria</td><td><i>rugu</i></td>
+<td>NNG</td><td><a href="../languages/aria">Aria</a></td><td><i>rugu</i></td>
 <td>
 '<span>rain</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Mangga</td><td><i>ruq</i></td>
+<td>NNG</td><td><a href="../languages/mangga">Mangga</a></td><td><i>ruq</i></td>
 <td>
 '<span>rain</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kumaru Mumeng</td><td><i>ruk</i></td>
+<td>NNG</td><td><a href="../languages/kumarumumeng">Kumaru Mumeng</a></td><td><i>ruk</i></td>
 <td>
 '<span>rain</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Roviana</td><td><i>ruku</i></td>
+<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td><i>ruku</i></td>
 <td>
 '<span>rain</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Hoava</td><td><i>ruku</i></td>
+<td>MM</td><td><a href="../languages/hoava">Hoava</a></td><td><i>ruku</i></td>
 <td>
 '<span>rain</span>'</td>
 </tr>
@@ -3823,42 +3823,42 @@ A semantically related term was POc _&ast;bata_, which, to judge from a constell
 '<span>(?) raindrop, (?) rain cloud</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Apalik</td><td><i>(e)vat</i></td>
+<td>NNG</td><td><a href="../languages/apalik">Apalik</a></td><td><i>(e)vat</i></td>
 <td>
 '<span>cloud</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Atui</td><td><i>vat</i></td>
+<td>NNG</td><td><a href="../languages/atui">Atui</a></td><td><i>vat</i></td>
 <td>
 '<span>cloud, sky</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Akolet</td><td><i>(e)wat</i></td>
+<td>NNG</td><td><a href="../languages/akolet">Akolet</a></td><td><i>(e)wat</i></td>
 <td>
 '<span>cloud</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Kara (West)</td><td><i>bata</i></td>
+<td>MM</td><td><a href="../languages/karawest">Kara (West)</a></td><td><i>bata</i></td>
 <td>
 '<span>cloud</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tabar</td><td><i>bata</i></td>
+<td>MM</td><td><a href="../languages/tabar">Tabar</a></td><td><i>bata</i></td>
 <td>
 '<span>rain</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Sursurunga</td><td><i>bət</i></td>
+<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td><i>bət</i></td>
 <td>
 '<span>sky; cloud</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tolai</td><td><i>bata</i></td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>bata</i></td>
 <td>
 '<span>rain, to rain</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Siar</td><td><i>bat</i></td>
+<td>MM</td><td><a href="../languages/siar">Siar</a></td><td><i>bat</i></td>
 <td>
 '<span>rain</span>'</td>
 </tr>
@@ -3871,22 +3871,22 @@ A semantically related term was POc _&ast;bata_, which, to judge from a constell
 '<span>raindrop</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>pata</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>pata</i></td>
 <td>
 '<span>raindrop</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Hawaiian</td><td><i>paka</i></td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>paka</i></td>
 <td>
 '<span>raindrop</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>pata</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>pata</i></td>
 <td>
 '<span>raindrop</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Marquesan</td><td><i>pata</i></td>
+<td>Pn</td><td><a href="../languages/marquesan">Marquesan</a></td><td><i>pata</i></td>
 <td>
 '<span>raindrop</span>'</td>
 </tr>
@@ -3906,22 +3906,22 @@ POc _&ast;(d,dr)im(a)-(d,dr)im(a)_ evidently meant ‘drizzle, light rain’. I 
 '<span>drizzle, light rain</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Lou</td><td><i>rim-rim</i></td>
+<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td><i>rim-rim</i></td>
 <td>
 '<span>light rain</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Iduna</td><td><i>dima-dima</i></td>
+<td>PT</td><td><a href="../languages/iduna">Iduna</a></td><td><i>dima-dima</i></td>
 <td>
 '<span>drizzle, rain of small drops that takes a long time to stop</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tolai</td><td><i>ri-rimi</i></td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>ri-rimi</i></td>
 <td>
 '<span>drizzling rain</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Ramoaaina</td><td><i>rim-rim</i></td>
+<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>rim-rim</i></td>
 <td>
 '<span>drizzle, sprinkle</span>'</td>
 </tr>
@@ -3941,72 +3941,72 @@ In search of other terms associated in one way or another with rain, I tried to 
 '<span>rainbow</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>nunua</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>nunua</i></td>
 <td>
 '<span>change colour</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Araki</td><td><i>nuenue</i></td>
+<td>NCV</td><td><a href="../languages/araki">Araki</a></td><td><i>nuenue</i></td>
 <td>
 '<span>rainbow</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Tamambo</td><td><i>nuenue</i></td>
+<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td><i>nuenue</i></td>
 <td>
 '<span>rainbow</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>East Futunan</td><td><i>nuanua</i></td>
+<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td><i>nuanua</i></td>
 <td>
 '<span>rainbow</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>East Uvean</td><td><i>nuanua</i></td>
+<td>Pn</td><td><a href="../languages/eastuvean">East Uvean</a></td><td><i>nuanua</i></td>
 <td>
 '<span>rainbow</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Pukapukan</td><td><i>nuanua</i></td>
+<td>Pn</td><td><a href="../languages/pukapukan">Pukapukan</a></td><td><i>nuanua</i></td>
 <td>
 '<span>rainbow</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tuvalu</td><td><i>nuanua</i></td>
+<td>Pn</td><td><a href="../languages/tuvalu">Tuvalu</a></td><td><i>nuanua</i></td>
 <td>
 '<span>rainbow</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>nuanua</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>nuanua</i></td>
 <td>
 '<span>rainbow</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tokelauan</td><td><i>nuanua</i></td>
+<td>Pn</td><td><a href="../languages/tokelauan">Tokelauan</a></td><td><i>nuanua</i></td>
 <td>
 '<span>rainbow</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tahitian</td><td><i>(ā)nuanua</i></td>
+<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td><i>(ā)nuanua</i></td>
 <td>
 '<span>rainbow</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>(ā)niwaniwa</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>(ā)niwaniwa</i></td>
 <td>
 '<span>rainbow</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tuamotuan</td><td><i>(a)nuanua</i></td>
+<td>Pn</td><td><a href="../languages/tuamotuan">Tuamotuan</a></td><td><i>(a)nuanua</i></td>
 <td>
 '<span>rainbow</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Hawaiian</td><td><i>(ā)nuenue</i></td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>(ā)nuenue</i></td>
 <td>
 '<span>rainbow</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Marquesan</td><td><i>(ā)nuanua</i></td>
+<td>Pn</td><td><a href="../languages/marquesan">Marquesan</a></td><td><i>(ā)nuanua</i></td>
 <td>
 '<span>rainbow</span>'</td>
 </tr>
@@ -4026,7 +4026,7 @@ For ‘dew’, a few reflexes of a PMP term occur.
 <i>&ast;lamuR</i>
 </td>
 <td>
-'<span>dew</span>' (<a href="../references.md#source-Dempwolff1938">Dempwolff1938</a>)
+'<span>dew</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
 </td>
 </tr>
 <tr>
@@ -4038,22 +4038,22 @@ For ‘dew’, a few reflexes of a PMP term occur.
 '<span>dew</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Iduna</td><td><i>numura</i></td>
+<td>PT</td><td><a href="../languages/iduna">Iduna</a></td><td><i>numura</i></td>
 <td>
 '<span>dew</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Kilivila</td><td><i>numla</i></td>
+<td>PT</td><td><a href="../languages/kilivila">Kilivila</a></td><td><i>numla</i></td>
 <td>
 '<span>fog</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Lala</td><td><i>lamu</i></td>
+<td>PT</td><td><a href="../languages/lala">Lala</a></td><td><i>lamu</i></td>
 <td>
 '<span>dew</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Balawaia</td><td><i>amo</i></td>
+<td>PT</td><td><a href="../languages/balawaia">Balawaia</a></td><td><i>amo</i></td>
 <td>
 '<span>dew</span>'</td>
 </tr>
@@ -4067,7 +4067,7 @@ For ‘dew’, a few reflexes of a PMP term occur.
 ### 5.4. Thunder and lightning
 
 
-I have reconstructed five separate terms for ‘lightning’. POc _&ast;qu(s,j)ila(k)_ seems to be the generic term for lightning, inherited from Proto Malayo-Polynesian. The glosses of reflexes of PNGOc _&ast;lamaR_ imply that this item may have referred to lightning and thunder together. The other three reconstructions are _&ast;pilak_ ‘lightning’, _&ast;pitik_ ‘lightning’, _&ast;la(p,pʷ)a(r,R)_ ‘lightning, phosphorescence’. Whilst these may have referred to different kinds of lightning (e.g. sheet and forked) is also possible that they were descriptive or metaphorical terms. It is reasonably clear, for example, that PNNG _&ast;kila(m,p)_ ‘lightning’ was a reflex of PMP _&ast;kila(p,b)_ ‘flash, sparkle’, (and that POc _&ast;qu(s,j)ila(k)_ ‘lightning’ reflects PMP _&ast;silak_ ‘beam of light’; cf. [Dempwolff 1938](../references.md#source-Dempwolff1938):153).
+I have reconstructed five separate terms for ‘lightning’. POc _&ast;qu(s,j)ila(k)_ seems to be the generic term for lightning, inherited from Proto Malayo-Polynesian. The glosses of reflexes of PNGOc _&ast;lamaR_ imply that this item may have referred to lightning and thunder together. The other three reconstructions are _&ast;pilak_ ‘lightning’, _&ast;pitik_ ‘lightning’, _&ast;la(p,pʷ)a(r,R)_ ‘lightning, phosphorescence’. Whilst these may have referred to different kinds of lightning (e.g. sheet and forked) is also possible that they were descriptive or metaphorical terms. It is reasonably clear, for example, that PNNG _&ast;kila(m,p)_ ‘lightning’ was a reflex of PMP _&ast;kila(p,b)_ ‘flash, sparkle’, (and that POc _&ast;qu(s,j)ila(k)_ ‘lightning’ reflects PMP _&ast;silak_ ‘beam of light’; cf. [Dempwolff 1938](../sources/Dempwolff1938):153).
 
 <table id="2-5-5-4-149-POc-qusjilak-a">
 <tr>
@@ -4076,7 +4076,7 @@ I have reconstructed five separate terms for ‘lightning’. POc _&ast;qu(s,j)i
 <i>&ast;qusilak</i>
 </td>
 <td>
-'<span>lightning</span>' (<a href="../references.md#source-Ross1988">Ross1988</a>)
+'<span>lightning</span>' (<a href="../sources/Ross1988">Ross1988</a>)
 </td>
 </tr>
 <tr>
@@ -4088,47 +4088,47 @@ I have reconstructed five separate terms for ‘lightning’. POc _&ast;qu(s,j)i
 '<span>lightning</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Nauna</td><td><i>kocil</i></td>
+<td>Adm</td><td><a href="../languages/nauna">Nauna</a></td><td><i>kocil</i></td>
 <td>
 '<span>lightning</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Seimat</td><td><i>usil</i></td>
+<td>Adm</td><td><a href="../languages/seimat">Seimat</a></td><td><i>usil</i></td>
 <td>
 '<span>lightning</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Malalamai</td><td><i>uzila</i></td>
+<td>NNG</td><td><a href="../languages/malalamai">Malalamai</a></td><td><i>uzila</i></td>
 <td>
 '<span>lightning</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Tami</td><td><i>kujil</i></td>
+<td>NNG</td><td><a href="../languages/tami">Tami</a></td><td><i>kujil</i></td>
 <td>
 '<span>lightning</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Yabem</td><td><i>osiʔ</i></td>
+<td>NNG</td><td><a href="../languages/yabem">Yabem</a></td><td><i>osiʔ</i></td>
 <td>
 '<span>lightning</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Bukawa</td><td><i>siʔ</i></td>
+<td>NNG</td><td><a href="../languages/bukawa">Bukawa</a></td><td><i>siʔ</i></td>
 <td>
 '<span>lightning</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>ʔuhila</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>ʔuhila</i></td>
 <td>
 [N] '<span>lightning</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>East Uvean</td><td><i>ʔuhila</i></td>
+<td>Pn</td><td><a href="../languages/eastuvean">East Uvean</a></td><td><i>ʔuhila</i></td>
 <td>
 [N] '<span>lightning</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>uila</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>uila</i></td>
 <td>
 [N] '<span>lightning</span>'</td>
 </tr>
@@ -4143,7 +4143,7 @@ I have reconstructed five separate terms for ‘lightning’. POc _&ast;qu(s,j)i
 <i>&ast;bilak</i>
 </td>
 <td>
-'<span>lightning</span>' (<a href="../references.md#source-Dempwolff1925">Dempwolff1925</a>)
+'<span>lightning</span>' (<a href="../sources/Dempwolff1925">Dempwolff1925</a>)
 </td>
 </tr>
 <tr>
@@ -4155,102 +4155,102 @@ I have reconstructed five separate terms for ‘lightning’. POc _&ast;qu(s,j)i
 '<span>lightning</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kove</td><td><i>pelaka</i></td>
+<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td><i>pelaka</i></td>
 <td>
 '<span>lightning</span>' (<span>final consonant retained: borrowing from Bali?</span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td>Bariai</td><td><i>pir</i></td>
+<td>NNG</td><td><a href="../languages/bariai">Bariai</a></td><td><i>pir</i></td>
 <td>
 '<span>thunder</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Mangap</td><td><i>bil</i></td>
+<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td><i>bil</i></td>
 <td>
 '<span>flash, lightning</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Dami</td><td><i>fili</i></td>
+<td>NNG</td><td><a href="../languages/dami">Dami</a></td><td><i>fili</i></td>
 <td>
 [V] '<span>lightning</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Medebur</td><td><i>vilik</i></td>
+<td>NNG</td><td><a href="../languages/medebur">Medebur</a></td><td><i>vilik</i></td>
 <td>
 '<span>lightning</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Bola</td><td><i>vila</i></td>
+<td>MM</td><td><a href="../languages/bola">Bola</a></td><td><i>vila</i></td>
 <td>
 '<span>lightning</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nalik</td><td><i>uilak</i></td>
+<td>MM</td><td><a href="../languages/nalik">Nalik</a></td><td><i>uilak</i></td>
 <td>
 '<span>lightning</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Sursurunga</td><td><i>pil</i></td>
+<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td><i>pil</i></td>
 <td>
 '<span>lightning</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nehan</td><td><i>pil</i></td>
+<td>MM</td><td><a href="../languages/nehan">Nehan</a></td><td><i>pil</i></td>
 <td>
 '<span>thunder</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Solos</td><td><i>pina</i></td>
+<td>MM</td><td><a href="../languages/solos">Solos</a></td><td><i>pina</i></td>
 <td>
 '<span>thunder</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Teop</td><td><i>pira</i></td>
+<td>MM</td><td><a href="../languages/teop">Teop</a></td><td><i>pira</i></td>
 <td>
 '<span>thunder</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Banoni</td><td><i>pina</i></td>
+<td>MM</td><td><a href="../languages/banoni">Banoni</a></td><td><i>pina</i></td>
 <td>
 '<span>lightning</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Maringe</td><td><i>fila</i></td>
+<td>MM</td><td><a href="../languages/maringe">Maringe</a></td><td><i>fila</i></td>
 <td>
 '<span>thunder</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Talise</td><td><i>(pila)pila</i></td>
+<td>SES</td><td><a href="../languages/talise">Talise</a></td><td><i>(pila)pila</i></td>
 <td>
 '<span>lightning</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Longgu</td><td><i>pila(ðia)</i></td>
+<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td><i>pila(ðia)</i></td>
 <td>
 [N, V] '<span>lightning</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>hira(ia)</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>hira(ia)</i></td>
 <td>
 '<span>lightning</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>vila</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>vila</i></td>
 <td>
 '<span>lightning</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Raga</td><td><i>vilehi</i></td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>vilehi</i></td>
 <td>
 '<span>lightning</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Paamese</td><td><i>(a)hile</i></td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>(a)hile</i></td>
 <td>
 '<span>lightning</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Nguna</td><td><i>(na)vila</i></td>
+<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td><i>(na)vila</i></td>
 <td>
 '<span>lightning</span>'</td>
 </tr>
@@ -4271,7 +4271,7 @@ I have reconstructed five separate terms for ‘lightning’. POc _&ast;qu(s,j)i
 '<span>lightning</span>'</td>
 </tr>
 <tr>
-<td>CMP</td><td>Selaru</td><td><i>hitik</i></td>
+<td>CMP</td><td><a href="../languages/selaru">Selaru</a></td><td><i>hitik</i></td>
 <td>
 '<span>lightning</span>' (<span>Coward</span>)</td>
 </tr>
@@ -4284,22 +4284,22 @@ I have reconstructed five separate terms for ‘lightning’. POc _&ast;qu(s,j)i
 '<span>lightning</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Manam</td><td><i>pitik(awa)</i></td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>pitik(awa)</i></td>
 <td>
 '<span>lightning</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Wogeo</td><td><i>fitik</i></td>
+<td>NNG</td><td><a href="../languages/wogeo">Wogeo</a></td><td><i>fitik</i></td>
 <td>
 '<span>lightning</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>viti</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>viti</i></td>
 <td>
 '<span>lightning</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Malango</td><td><i>vitih(i-a)</i></td>
+<td>SES</td><td><a href="../languages/malango">Malango</a></td><td><i>vitih(i-a)</i></td>
 <td>
 [V] '<span>lightning</span>'</td>
 </tr>
@@ -4317,53 +4317,53 @@ I have reconstructed five separate terms for ‘lightning’. POc _&ast;qu(s,j)i
 '<span>lightning, phosphorescence</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Sengseng</td><td><i>(pe)lap</i></td>
+<td>NNG</td><td><a href="../languages/sengseng">Sengseng</a></td><td><i>(pe)lap</i></td>
 <td>
 '<span>lightning</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tigak</td><td><i>lapak</i></td>
+<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td><i>lapak</i></td>
 <td>
 '<span>lightning</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Kara (West)</td><td><i>lapai</i></td>
+<td>MM</td><td><a href="../languages/karawest">Kara (West)</a></td><td><i>lapai</i></td>
 <td>
 '<span>lightning</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tomoip</td><td><i>lap</i></td>
+<td>MM</td><td><a href="../languages/tomoip">Tomoip</a></td><td><i>lap</i></td>
 <td>
 '<span>thunder</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Halia</td><td><i>(ka)naha</i></td>
+<td>MM</td><td><a href="../languages/halia">Halia</a></td><td><i>(ka)naha</i></td>
 <td>
 '<span>lightning</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Torau</td><td><i>(si)nava</i></td>
+<td>MM</td><td><a href="../languages/torau">Torau</a></td><td><i>(si)nava</i></td>
 <td>
 '<span>lightning</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Mono</td><td><i>(ilai)laha</i></td>
+<td>MM</td><td><a href="../languages/mono">Mono</a></td><td><i>(ilai)laha</i></td>
 <td>
 '<span>lightning</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Pileni</td><td><i>lapa</i></td>
+<td>Pn</td><td><a href="../languages/pileni">Pileni</a></td><td><i>lapa</i></td>
 <td>
-'<span>deep phosphorescent light, distinct from surface phosphorescence, occurring at a depth of from about 1 to 6 feet</span>' (<a href="../references.md#source-Lewis1972">Lewis1972: 208</a>)
+'<span>deep phosphorescent light, distinct from surface phosphorescence, occurring at a depth of from about 1 to 6 feet</span>' (<a href="../sources/Lewis1972">Lewis1972: 208</a>)
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>lapa(sia)</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>lapa(sia)</i></td>
 <td>
 '<span>dazzled by the sun.</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tokelauan</td><td><i>lapa</i></td>
+<td>Pn</td><td><a href="../languages/tokelauan">Tokelauan</a></td><td><i>lapa</i></td>
 <td>
 '<span>flash of lightning</span>'</td>
 </tr>
@@ -4383,37 +4383,37 @@ Despite the formal variations in the cognate set above, its members are regular 
 '<span>lightning</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Malalamai</td><td><i>lem</i></td>
+<td>NNG</td><td><a href="../languages/malalamai">Malalamai</a></td><td><i>lem</i></td>
 <td>
 '<span>lightning</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Manam</td><td><i>lama-lama</i></td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>lama-lama</i></td>
 <td>
 '<span>thunder</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Molima</td><td><i>namala</i></td>
+<td>PT</td><td><a href="../languages/molima">Molima</a></td><td><i>namala</i></td>
 <td>
 '<span>lightning</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Tawala</td><td><i>nama-namala</i></td>
+<td>PT</td><td><a href="../languages/tawala">Tawala</a></td><td><i>nama-namala</i></td>
 <td>
 '<span>lightning, bright, glitter</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Misima</td><td><i>(pi)namal</i></td>
+<td>PT</td><td><a href="../languages/misima">Misima</a></td><td><i>(pi)namal</i></td>
 <td>
 '<span>lightning</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Sariba</td><td><i>nama-namali</i></td>
+<td>PT</td><td><a href="../languages/sariba">Sariba</a></td><td><i>nama-namali</i></td>
 <td>
 '<span>lightning</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Hula</td><td><i>rama-rama</i></td>
+<td>PT</td><td><a href="../languages/hula">Hula</a></td><td><i>rama-rama</i></td>
 <td>
 '<span>lightning</span>'</td>
 </tr>
@@ -4431,7 +4431,7 @@ Despite the formal variations in the cognate set above, its members are regular 
 <i>&ast;kila(p,b)</i>
 </td>
 <td>
-'<span>flash, sparkle</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>; <a href="../references.md#source-Dempwolff1925">Dempwolff1925</a>)
+'<span>flash, sparkle</span>' (<a href="../sources/Blust1995">Blust1995</a>; <a href="../sources/Dempwolff1925">Dempwolff1925</a>)
 </td>
 </tr>
 <tr>
@@ -4451,37 +4451,37 @@ Despite the formal variations in the cognate set above, its members are regular 
 '<span>lightning</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Gitua</td><td><i>kila-kila</i></td>
+<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td><i>kila-kila</i></td>
 <td>
 '<span>lightning</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Lukep</td><td><i>kili</i></td>
+<td>NNG</td><td><a href="../languages/lukep">Lukep</a></td><td><i>kili</i></td>
 <td>
 '<span>lightning</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Poeng</td><td><i>kilama</i></td>
+<td>NNG</td><td><a href="../languages/poeng">Poeng</a></td><td><i>kilama</i></td>
 <td>
 '<span>lightning</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Roinji</td><td><i>kirap</i></td>
+<td>NNG</td><td><a href="../languages/roinji">Roinji</a></td><td><i>kirap</i></td>
 <td>
 '<span>thunder</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Bing</td><td><i>kin</i></td>
+<td>NNG</td><td><a href="../languages/bing">Bing</a></td><td><i>kin</i></td>
 <td>
 '<span>lightning</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Takia</td><td><i>-ki-kilawi</i></td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>-ki-kilawi</i></td>
 <td>
 '<span>thunder and lightning</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>ʔi-ʔila</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>ʔi-ʔila</i></td>
 <td>
 '<span>(of reflected light) shine, glisten, sparkle, twinkle</span>'</td>
 </tr>
@@ -4498,7 +4498,7 @@ POc appears to have had two basic roots for thunder, _&ast;kuru_ and _&ast;pʷar
 <i>&ast;guruq</i>
 </td>
 <td>
-'<span>noise, tumult</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>noise, tumult</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -4510,37 +4510,37 @@ POc appears to have had two basic roots for thunder, _&ast;kuru_ and _&ast;pʷar
 '<span>thunder</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kove</td><td><i>ku-kururu</i></td>
+<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td><i>ku-kururu</i></td>
 <td>
 '<span>thunder</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Bola</td><td><i>kururu</i></td>
+<td>MM</td><td><a href="../languages/bola">Bola</a></td><td><i>kururu</i></td>
 <td>
 '<span>thunder</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>kururu</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>kururu</i></td>
 <td>
 '<span>thunder</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>(a)kuru</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>(a)kuru</i></td>
 <td>
 [N, V] '<span>thunder</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Kahua</td><td><i>(ɣu)ɣuru(hia)</i></td>
+<td>SES</td><td><a href="../languages/kahua">Kahua</a></td><td><i>(ɣu)ɣuru(hia)</i></td>
 <td>
 '<span>thunder</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>kuru</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>kuru</i></td>
 <td>
 [N, V] '<span>thunder</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>kuru-kuru</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>kuru-kuru</i></td>
 <td>
 [N, V] '<span>thunder</span>'</td>
 </tr>
@@ -4555,7 +4555,7 @@ POc appears to have had two basic roots for thunder, _&ast;kuru_ and _&ast;pʷar
 <i>&ast;guruq</i>
 </td>
 <td>
-'<span>noise, tumult</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>noise, tumult</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -4567,87 +4567,87 @@ POc appears to have had two basic roots for thunder, _&ast;kuru_ and _&ast;pʷar
 '<span>thunder, make loud noise</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Drehet</td><td><i>kuruh</i></td>
+<td>Adm</td><td><a href="../languages/drehet">Drehet</a></td><td><i>kuruh</i></td>
 <td>
 '<span>thunder</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Takia</td><td><i>-gurur</i></td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>-gurur</i></td>
 <td>
 '<span>noise rumbling, thunder, crackling</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Buang</td><td><i>klu</i></td>
+<td>NNG</td><td><a href="../languages/buang">Buang</a></td><td><i>klu</i></td>
 <td>
 '<span>roar, thunder, explode; like falling or running water, – like a waterfall, or thunder</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Sukurum</td><td><i>(mu)ᵑkuru</i></td>
+<td>NNG</td><td><a href="../languages/sukurum">Sukurum</a></td><td><i>(mu)ᵑkuru</i></td>
 <td>
 '<span>thunder</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Ulau-Suain</td><td><i>gururu</i></td>
+<td>NNG</td><td><a href="../languages/ulausuain">Ulau-Suain</a></td><td><i>gururu</i></td>
 <td>
 '<span>thunder</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Misima</td><td><i>gulu(mʷawa)</i></td>
+<td>PT</td><td><a href="../languages/misima">Misima</a></td><td><i>gulu(mʷawa)</i></td>
 <td>
 '<span>thunder</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>guru</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>guru</i></td>
 <td>
 '<span>noise, clamour</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Balawaia</td><td><i>ɣulu</i></td>
+<td>PT</td><td><a href="../languages/balawaia">Balawaia</a></td><td><i>ɣulu</i></td>
 <td>
 '<span>loud noise</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Lala</td><td><i>ulu</i></td>
+<td>PT</td><td><a href="../languages/lala">Lala</a></td><td><i>ulu</i></td>
 <td>
 '<span>thunder</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Ramoaaina</td><td><i>(pa)guru</i></td>
+<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>(pa)guru</i></td>
 <td>
 '<span>(thunder, wind in stomach) make a rumbling noise</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Teop</td><td><i>guru</i></td>
+<td>MM</td><td><a href="../languages/teop">Teop</a></td><td><i>guru</i></td>
 <td>
 '<span>thunder</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Halia</td><td><i>gururu</i></td>
+<td>MM</td><td><a href="../languages/halia">Halia</a></td><td><i>gururu</i></td>
 <td>
 '<span>it thunders</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tinputz</td><td><i>guguruh</i></td>
+<td>MM</td><td><a href="../languages/tinputz">Tinputz</a></td><td><i>guguruh</i></td>
 <td>
 [V] '<span>thunder</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Maringe</td><td><i>gu-gulu</i></td>
+<td>MM</td><td><a href="../languages/maringe">Maringe</a></td><td><i>gu-gulu</i></td>
 <td>
 '<span>thunder</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>guru</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>guru</i></td>
 <td>
 '<span>(thunder) rumble</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lengo</td><td><i>gururu</i></td>
+<td>SES</td><td><a href="../languages/lengo">Lengo</a></td><td><i>gururu</i></td>
 <td>
 '<span>thunder</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>guru-guru</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>guru-guru</i></td>
 <td>
 '<span>thunder</span>'</td>
 </tr>
@@ -4668,42 +4668,42 @@ POc appears to have had two basic roots for thunder, _&ast;kuru_ and _&ast;pʷar
 '<span>thunder</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Gitua</td><td><i>gururuŋ</i></td>
+<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td><i>gururuŋ</i></td>
 <td>
 '<span>thunder</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Sengseng</td><td><i>kulu-ŋ</i></td>
+<td>NNG</td><td><a href="../languages/sengseng">Sengseng</a></td><td><i>kulu-ŋ</i></td>
 <td>
 '<span>thunder</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Avau</td><td><i>ruŋ-ruŋ</i></td>
+<td>NNG</td><td><a href="../languages/avau">Avau</a></td><td><i>ruŋ-ruŋ</i></td>
 <td>
 '<span>thunder</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Akolet</td><td><i>ŋu-gruŋ</i></td>
+<td>NNG</td><td><a href="../languages/akolet">Akolet</a></td><td><i>ŋu-gruŋ</i></td>
 <td>
 '<span>thunder</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Bebeli</td><td><i>gu-gurun</i></td>
+<td>NNG</td><td><a href="../languages/bebeli">Bebeli</a></td><td><i>gu-gurun</i></td>
 <td>
 '<span>thunder</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Uvol</td><td><i>kuruŋ</i></td>
+<td>NNG</td><td><a href="../languages/uvol">Uvol</a></td><td><i>kuruŋ</i></td>
 <td>
 '<span>thunder</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tigak</td><td><i>guŋ</i></td>
+<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td><i>guŋ</i></td>
 <td>
 '<span>thunder</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Longgu</td><td><i>gururua</i></td>
+<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td><i>gururua</i></td>
 <td>
 '<span>thunder, small thunder, clap of thunder heard in the late afternoon when you get late afternoon rain; a storm</span>'</td>
 </tr>
@@ -4721,87 +4721,87 @@ POc appears to have had two basic roots for thunder, _&ast;kuru_ and _&ast;pʷar
 '<span>thunder</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Gitua</td><td><i>palaki</i></td>
+<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td><i>palaki</i></td>
 <td>
 '<span>thunder</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Gumawana</td><td><i>(lo)pala-pala</i></td>
+<td>PT</td><td><a href="../languages/gumawana">Gumawana</a></td><td><i>(lo)pala-pala</i></td>
 <td>
 [V] '<span>thunder</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Ubir</td><td><i>(wa)ferer</i></td>
+<td>PT</td><td><a href="../languages/ubir">Ubir</a></td><td><i>(wa)ferer</i></td>
 <td>
 '<span>loud thunder</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Tawala</td><td><i>palele</i></td>
+<td>PT</td><td><a href="../languages/tawala">Tawala</a></td><td><i>palele</i></td>
 <td>
 '<span>thunder</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Muyuw</td><td><i>pala-pal</i></td>
+<td>PT</td><td><a href="../languages/muyuw">Muyuw</a></td><td><i>pala-pal</i></td>
 <td>
 '<span>thunder</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Kara (East)</td><td><i>(va)barak</i></td>
+<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td><i>(va)barak</i></td>
 <td>
 '<span>thunder</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Notsi</td><td><i>pal-pallek</i></td>
+<td>MM</td><td><a href="../languages/notsi">Notsi</a></td><td><i>pal-pallek</i></td>
 <td>
 '<span>thunder</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tabar</td><td><i>para-para</i></td>
+<td>MM</td><td><a href="../languages/tabar">Tabar</a></td><td><i>para-para</i></td>
 <td>
 '<span>thunder</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Lihir</td><td><i>palal</i></td>
+<td>MM</td><td><a href="../languages/lihir">Lihir</a></td><td><i>palal</i></td>
 <td>
 '<span>thunder</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Sursurunga</td><td><i>pər</i></td>
+<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td><i>pər</i></td>
 <td>
 '<span>thunder</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Patpatar</td><td><i>par-parara</i></td>
+<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td><i>par-parara</i></td>
 <td>
 '<span>thunder</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>pʷararā</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>pʷararā</i></td>
 <td>
 '<span>thunder</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kiribatese</td><td><i>pā</i></td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>pā</i></td>
 <td>
 '<span>thunder</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kosraean</td><td><i>pʌlæl</i></td>
+<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td><i>pʌlæl</i></td>
 <td>
 '<span>thunder</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Mokilese</td><td><i>palar</i></td>
+<td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td><i>palar</i></td>
 <td>
 '<span>thunder</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Puluwatese</td><td><i>pac̣c̣</i></td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>pac̣c̣</i></td>
 <td>
 '<span>thunder</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Carolinian</td><td><i>pac̣c̣</i></td>
+<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td><i>pac̣c̣</i></td>
 <td>
 '<span>thunder</span>'</td>
 </tr>
@@ -4819,12 +4819,12 @@ POc appears to have had two basic roots for thunder, _&ast;kuru_ and _&ast;pʷar
 '<span>thunder</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Mussau</td><td><i>pala-palaŋa</i></td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>pala-palaŋa</i></td>
 <td>
 '<span>thunder</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Drehet</td><td><i>palaŋ</i></td>
+<td>Adm</td><td><a href="../languages/drehet">Drehet</a></td><td><i>palaŋ</i></td>
 <td>
 '<span>thunder accompanied by lightning</span>'</td>
 </tr>
@@ -4845,25 +4845,25 @@ It may seem to the reader that I have turned the _Wörter und Sachen_ technique 
 
 The final step in the method of terminological reconstruction is to examine the hypothesised terminology to see if it needs modification in the light of the reconstructions which have been made. If POc reconstructions can be made for unpredicted items (say for hurricanes and cyclones), or POc reconstuctions cannot be made for expected terms, then we must re-examine the initial hypothesis.
 
-Meteorological terms (PAn _&ast;baRiuS_ ‘typhoon’ and _&ast;qamiS(-an)_ ‘north, cold season’) are among those that have been used as supporting evidence to locate the Proto Austronesian homeland ([Blust 1984–85](../references.md#source-Blust198485), [Pawley & Ross 1993](../references.md#source-PawleyandRoss1993)). In the present case, I have been able to reconstruct the POc terms I expected on the hypothesis that the POc speech community was located in the Bismarck Archipelago (except ‘rainbow’) and have not found that the data forced me to reconstruct unpredicted meteorological terms. So we can say that the hypothesis that POc was spoken in the Bismarck Archipelago has not been disconfirmed by this study.
+Meteorological terms (PAn _&ast;baRiuS_ ‘typhoon’ and _&ast;qamiS(-an)_ ‘north, cold season’) are among those that have been used as supporting evidence to locate the Proto Austronesian homeland ([Blust 1984–85](../sources/Blust198485), [Pawley & Ross 1993](../sources/PawleyandRoss1993)). In the present case, I have been able to reconstruct the POc terms I expected on the hypothesis that the POc speech community was located in the Bismarck Archipelago (except ‘rainbow’) and have not found that the data forced me to reconstruct unpredicted meteorological terms. So we can say that the hypothesis that POc was spoken in the Bismarck Archipelago has not been disconfirmed by this study.
 
 
 ## Notes
 
 [^1]: This is a revised version of a paper published in Oceanic Linguistics 34:261–304 (1995). My thanks go to Andrew Pawley, Gerard Ward, Robert Blust, Robert Bugenhagen, Ann Chowning, Ross Clark, Mark Donohue, Alex François, Paul Geraghty, Charles Grimes, Waruno Mahdi and Meredith Osmond for their comments on earlier versions of this chapter.
 
-[^2]: This section is based on general information about wind systems culled from [Monkhouse](../references.md#source-Monkhouse1966) ([1966](../references.md#source-Monkhouse1966): Chs. 16 and 18), [Hare](../references.md#source-Hare1984) ([1984](../references.md#source-Hare1984)), [Lamb](../references.md#source-Lamb1984) ([1984](../references.md#source-Lamb1984)) and [Irwin](../references.md#source-Irwin1992) ([1992](../references.md#source-Irwin1992)) and on information about Pacific weather from [Howlett](../references.md#source-Howlett1967) ([1967](../references.md#source-Howlett1967):36–38), Brookfield with Hart (1971:5–13), [Cotter](../references.md#source-Cotter1984) ([1984](../references.md#source-Cotter1984)); [Gentilli](../references.md#source-Gentilli1984) ([1984](../references.md#source-Gentilli1984)), and the Atlas of the South Pacific (New Zealand Government Printing Office, 1986). One difficulty that I encountered in writing this short conspectus was that there is disagreement in the literature about the weather patterns at some Pacific locations.
+[^2]: This section is based on general information about wind systems culled from [Monkhouse](../sources/Monkhouse1966) ([1966](../sources/Monkhouse1966): Chs. 16 and 18), [Hare](../sources/Hare1984) ([1984](../sources/Hare1984)), [Lamb](../sources/Lamb1984) ([1984](../sources/Lamb1984)) and [Irwin](../sources/Irwin1992) ([1992](../sources/Irwin1992)) and on information about Pacific weather from [Howlett](../sources/Howlett1967) ([1967](../sources/Howlett1967):36–38), Brookfield with Hart (1971:5–13), [Cotter](../sources/Cotter1984) ([1984](../sources/Cotter1984)); [Gentilli](../sources/Gentilli1984) ([1984](../sources/Gentilli1984)), and the Atlas of the South Pacific (New Zealand Government Printing Office, 1986). One difficulty that I encountered in writing this short conspectus was that there is disagreement in the literature about the weather patterns at some Pacific locations.
 
-[^3]: A geographer expert in this field would probably consider this definition an oversimplification, but it will suffice for present purposes ([Gentilli 1984](../references.md#source-Gentilli1984):389).
+[^3]: A geographer expert in this field would probably consider this definition an oversimplification, but it will suffice for present purposes ([Gentilli 1984](../sources/Gentilli1984):389).
 
-[^4]: As well as the sources indicated in the text, this section relied quite heavily on [Brookfield and Hart](../references.md#source-BrookfieldandHart1971) ([1971](../references.md#source-BrookfieldandHart1971)), [Gentilli](../references.md#source-Gentilli1984) ([1984](../references.md#source-Gentilli1984)), and the Atlas of the South Pacific (New Zealand Government Printing Office, 1986).
+[^4]: As well as the sources indicated in the text, this section relied quite heavily on [Brookfield and Hart](../sources/BrookfieldandHart1971) ([1971](../sources/BrookfieldandHart1971)), [Gentilli](../sources/Gentilli1984) ([1984](../sources/Gentilli1984)), and the Atlas of the South Pacific (New Zealand Government Printing Office, 1986).
 
 [^5]: Tuvalu is today Polynesian speaking, but may well once have been colonised by the people who first entered the Gilberts. I use the term ‘Gilberts’ here to denote the island group, rather than ‘Kiribati’, which denotes the national entity that also includes the Phoenix and Line Islands.
 
 [^6]: Tawala _malewa_ includes the final _-a_ which is added after a final consonant, indicating that at an interstage ancestral to Tawala _&ast;malew_, rather than _&ast;maleu_, should be reconstructed.
 
-[^7]: [Blust](../references.md#source-Blust1993) ([1993](../references.md#source-Blust1993)) derives PCEMP _&ast;upi_ from PMP _&ast;hiup_ ‘blow’, and it is possible that the generation of pairs was triggered by the existence of similar forms with close meanings.
+[^7]: [Blust](../sources/Blust1993) ([1993](../sources/Blust1993)) derives PCEMP _&ast;upi_ from PMP _&ast;hiup_ ‘blow’, and it is possible that the generation of pairs was triggered by the existence of similar forms with close meanings.
 
-[^8]: [Tsuchida](../references.md#source-Tsuchida1976) ([1976](../references.md#source-Tsuchida1976)) reconstructs PAn _&ast;qamiS_ ‘north wind’. Philippine reflexes indicate that the locative suffix _&ast;-an_ had been appended in PMP, giving _&ast;qamíh-an_, reflected in Isneg _amiyān_ ‘monsoon wind’, Casiguran Dumagat _amian_ ‘northeast wind’, Tagalog _amíhan_ ‘northeast wind’, Bikol _amíhan_ ‘northeast trade wind’, Maranao _amian_ ‘northwest wind’.
+[^8]: [Tsuchida](../sources/Tsuchida1976) ([1976](../sources/Tsuchida1976)) reconstructs PAn _&ast;qamiS_ ‘north wind’. Philippine reflexes indicate that the locative suffix _&ast;-an_ had been appended in PMP, giving _&ast;qamíh-an_, reflected in Isneg _amiyān_ ‘monsoon wind’, Casiguran Dumagat _amian_ ‘northeast wind’, Tagalog _amíhan_ ‘northeast wind’, Bikol _amíhan_ ‘northeast trade wind’, Maranao _amian_ ‘northwest wind’.
 
 [^9]: Ramoaaina _tailaur_ ‘wind from New Ireland direction’ (basically east) seems to reflect another compound, where the first morpheme may reflect POc _&ast;tasik_ ‘sea, saltwater’.

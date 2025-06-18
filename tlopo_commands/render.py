@@ -50,7 +50,7 @@ def run(args):
         # `cognatesetreferences.csv_FormTable`
         # `cognatesetreferences.csv_glosses.csv`
         q = """
-select f.cldf_id, l.`Group`, l.cldf_name, l.is_proto, f.cldf_value 
+select f.cldf_id, l.`Group`, l.cldf_name, l.cldf_id, l.is_proto, f.cldf_value 
 from 
   `cognatesetreferences.csv_FormTable` as csrf 
   join formtable as f on (csrf.formtable_cldf_id = f.cldf_id)
@@ -177,6 +177,9 @@ order by g.cldf_formReference
                 cldf,
                 template_dir=ds.dir / 'templates',
                 func_dict=dict(
+                    href_source=lambda srcid: '../sources/' + srcid,
+                    href_language=lambda lid: '../languages/' + lid,
+                    href_chapter=lambda cid, anchor: '../contributions/{}#{}'.format(cid, anchor),
                     get_reconstruction=f,
                     get_cfs=cfs,
                     get_cfitems=cfitems,

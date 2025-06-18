@@ -26,7 +26,7 @@ For presentation purposes plant part terminologies are divided into the followin
 
 <a id="p-86"></a>
 
-: Table 4.1    Some terms for parts of the coconut in Tikopia ([Firth 1985](../references.md#source-Firth1985))
+: Table 4.1    Some terms for parts of the coconut in Tikopia ([Firth 1985](../sources/Firth1985))
 
 |            |                                                                                                                                                                                                                                                                                 |
 |:-----------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -39,9 +39,9 @@ For presentation purposes plant part terminologies are divided into the followin
 | _sakilo_   | (N) Immature coconut leaf, of pale colour; used traditionally as decoration for some ritual objects, as a shelf in _Resiake_ temple, or sign of taboo on orchard.                                                                                                               |
 | _taume_    | (N) Spathe or sheathing-leaf of flower of coconut palm; when dry used for fuel. Traditionally supplied fire for the ritual dancing in _Marae_.                                                                                                                                  |
 
-It is not claimed that such categories are necessarily salient in Oceanic societies, but they are based to some extent on the lexical distinctions found in modern Oceanic languages. For example, the category 'stems of woody plants' is based on the fact that a number of modern Oceanic languages appear to have distinct terms for woody and non-woody plant stems (e.g. Wayan _gai_ 'woody stem or trunk of a shrub or tree' vs. _kasa_ 'stem of a shrub or small plant, leaf-stalk or petiole stem of a leaf, flower or fruit'). The single category 'outer coverings', including meanings such as bark, skin or peel and husk, is based on the fact that many Oceanic languages appear to have one term that denotes the outer covering of fruits (peel, rind) and of stems (bark, soft leaf-like skin). For example, Wayan _taba_ can refer to any sort of outer covering or layer, including the bark of a tree and the rind or husk of fruit. For each of these twelve categories Oceanic languages tend to have a general term, though this is not the case in all languages. Thus, while Oceanic languages tend to have a single term that can refer to the outer covering of different parts of a plant, there are languages in which there is no such general term, but rather several terms with a much narrower semantic range. For example, Nduke has three specific terms: _tutupa-_ 'bark of a tree ', _poko-_ 'husk or covering of grain' and _pululu_ 'cover of fruit found on some palms', but does not appear to have a general term that refers to all outer coverings of plants. Languages which do have a general term for a particular category may also have more specific terms within the category, as we see in the cases of Wayan and Tikopia in §2.1.
+It is not claimed that such categories are necessarily salient in Oceanic societies, but they are based to some extent on the lexical distinctions found in modern Oceanic languages. For example, the category 'stems of woody plants' is based on the fact that a number of modern Oceanic languages appear to have distinct terms for woody and non-woody plant stems (e.g. Wayan _gai_ 'woody stem or trunk of a shrub or tree' vs. _kasa_ 'stem of a shrub or small plant, leaf-stalk or petiole stem of a leaf, flower or fruit'). The single category 'outer coverings', including meanings such as bark, skin or peel and husk, is based on the fact that many Oceanic languages appear to have one term that denotes the outer covering of fruits (peel, rind) and of stems (bark, soft leaf-like skin). For example, Wayan _taba_ can refer to any sort of outer covering or layer, including the bark of a tree and the rind or husk of fruit. For each of these twelve categories Oceanic languages tend to have a general term, though this is not the case in all languages. Thus, while Oceanic languages tend to have a single term that can refer to the outer covering of different parts of a plant, there are languages in which there is no such general term, but rather several terms with a much narrower semantic range. For example, Nduke has three specific terms: _tutupa-_ 'bark of a tree ', _poko-_ 'husk or covering of grain' and _pululu_ 'cover of fruit found on some palms', but does not appear to have a general term that refers to all outer coverings of plants. Languages which do have a general term for a particular category may also have more specific terms within the category, as we see in the cases of Wayan and Tikopia in [§2.1](../contributions/3-4#s-2-1).
 
-Modern Oceanic languages also tend to have terms for parts of particular types of plants, usually those which are of some cultural or economic importance. Thus in Tikopia there is a term, _fetī_, that denotes turmeric roots, reflecting their importance as the source of turmeric pigment (_reŋa_) that was traditionally used for the decoration of people and objects and was a highly valued item ([Firth 1985](../references.md#source-Firth1985): 393-394). In Wayan there is a specific term for the sap of the kauri tree, a tree which does not actually grow in Waya Island, but whose sap is important for the glazes of pots ([Pawley & Sayaba 2003](../references.md#source-PawleyandSayaba2003)). The cultural importance of the parts of particular kinds of plants that are labelled in Oceanic languages can be shown by the names and uses of different parts of the coconut palm in Tikopia, given in Table 4.1.
+Modern Oceanic languages also tend to have terms for parts of particular types of plants, usually those which are of some cultural or economic importance. Thus in Tikopia there is a term, _fetī_, that denotes turmeric roots, reflecting their importance as the source of turmeric pigment (_reŋa_) that was traditionally used for the decoration of people and objects and was a highly valued item ([Firth 1985](../sources/Firth1985): 393-394). In Wayan there is a specific term for the sap of the kauri tree, a tree which does not actually grow in Waya Island, but whose sap is important for the glazes of pots ([Pawley & Sayaba 2003](../sources/PawleyandSayaba2003)). The cultural importance of the parts of particular kinds of plants that are labelled in Oceanic languages can be shown by the names and uses of different parts of the coconut palm in Tikopia, given in Table 4.1.
 
 
 <a id="p-87"></a>
@@ -60,11 +60,11 @@ Modern Oceanic languages also tend to have terms for parts of particular types o
 | 'leaf            | —                        | _hineguli_    | —                          | —                    | —            |
 | 'stem sheath'    | —                        | —             | —                          | —                    | _basili_     |
 
-As the same types of plants are often culturally and economically important in Oceanic societies, languages tend to have specific plant pant terms for the same types of plants, including coconuts, bananas, pandanus, breadfruit, yams and taros. For example, ([Ross 1996d](../references.md#source-Ross1996d): 183-185) reconstructs _&ast;pudi_ as a general term for bananas in POc and a number of terms that denoted particular types of bananas. Alongside terms for types of bananas modern Oceanic languages tend to have terms for certain parts of the banana plant, such as the suckers, flowers and bunches of fruit as demonstrated by Table 4.2.
+As the same types of plants are often culturally and economically important in Oceanic societies, languages tend to have specific plant pant terms for the same types of plants, including coconuts, bananas, pandanus, breadfruit, yams and taros. For example, ([Ross 1996d](../sources/Ross1996d): 183-185) reconstructs _&ast;pudi_ as a general term for bananas in POc and a number of terms that denoted particular types of bananas. Alongside terms for types of bananas modern Oceanic languages tend to have terms for certain parts of the banana plant, such as the suckers, flowers and bunches of fruit as demonstrated by Table 4.2.
 
 The remainder of this chapter examines the terms for the parts of plants (both general and specific) which can be reconstructed for POc. The chapter is organised using the twelve categories listed above, each section beginning with some comments on the way in which the semantic category is lexified in modern Oceanic languages. Data from three languages, Nduke (MM), Wayan Fijian and Tikopia (Pn) are presented to demonstrate the lexical distinctions that occur in modern Oceanic languages, before the probable POc lexemes and their meanings are discussed.
 
-In many modern Oceanic languages part-whole relationships, including the parts of plants, are expressed by direct possessive constructions, such that the nominal denoting the part takes the possessive suffixes. For example, in the Kwaio (SES) phrase _lama-na ʔai_ 'the tree's flowers', the nominal _lama-_ 'flower' takes the 3SG possessive suffix _-na_ indexing the person and number of the whole (i.e. the tree) of which it is a part ([Keesing 1985](../references.md#source-Keesing1985): 107). Part-whole relationships were probably expressed by the same type of construction in POc, and so many of the nominals denoting the parts of plants that are reconstructed here would have often (or always) occurred with a possessive suffix.
+In many modern Oceanic languages part-whole relationships, including the parts of plants, are expressed by direct possessive constructions, such that the nominal denoting the part takes the possessive suffixes. For example, in the Kwaio (SES) phrase _lama-na ʔai_ 'the tree's flowers', the nominal _lama-_ 'flower' takes the 3SG possessive suffix _-na_ indexing the person and number of the whole (i.e. the tree) of which it is a part ([Keesing 1985](../sources/Keesing1985): 107). Part-whole relationships were probably expressed by the same type of construction in POc, and so many of the nominals denoting the parts of plants that are reconstructed here would have often (or always) occurred with a possessive suffix.
 
 
 <a id="p-88"></a>
@@ -157,7 +157,7 @@ _uru_              (N) 1. head; crest, top 2. principal part, source etc. _Uru o
 ## 2. Plant part terms reconstructable for POc
 
 
-The main stems or trunks of woody plants are of considerable importance within Oceanic societies for the construction of houses and other buildings, and canoes, as well as for making bowls and various other wooden artefacts. [Ivens](../references.md#source-Ivens1927) ([1927](../references.md#source-Ivens1927): 149-150, 375-377) describes the construction of and materials used for houses and canoes on Mala Island in the southeastern Solomon Islands, including the use of two types of hardwood trees, _hata_ and _mamahuʔe_, for the posts which support the ridgepole of houses, and another two hardwood trees, _mawa_ and _iola_, for the keel and hull of canoes, respectively.[^2] Woods would have had equal importance in POc society in building houses (vol.1, ch.3), and making household artefacts (vol.1, ch.4) and canoes (vol.1, ch.7). For example, Green & Pawley (vol.1, ch.3, §3.4) reconstruct three POc terms that referred to the posts of a house, namely _&ast;aRiRi_ 'post', _&ast;turu(s)_ 'post' and _&ast;bou_ '(?) main bearers supporting raised floor or roof structure, or centre post supporting ridge pole', and based on ethnographic evidence such posts were likely constructed from the trunks of hardwood trees.
+The main stems or trunks of woody plants are of considerable importance within Oceanic societies for the construction of houses and other buildings, and canoes, as well as for making bowls and various other wooden artefacts. [Ivens](../sources/Ivens1927) ([1927](../sources/Ivens1927): 149-150, 375-377) describes the construction of and materials used for houses and canoes on Mala Island in the southeastern Solomon Islands, including the use of two types of hardwood trees, _hata_ and _mamahuʔe_, for the posts which support the ridgepole of houses, and another two hardwood trees, _mawa_ and _iola_, for the keel and hull of canoes, respectively.[^2] Woods would have had equal importance in POc society in building houses (vol.1, ch.3), and making household artefacts (vol.1, ch.4) and canoes (vol.1, ch.7). For example, Green & Pawley ([vol.1, ch.3, §3.4](../contributions/1-3#s-3-4)) reconstruct three POc terms that referred to the posts of a house, namely _&ast;aRiRi_ 'post', _&ast;turu(s)_ 'post' and _&ast;bou_ '(?) main bearers supporting raised floor or roof structure, or centre post supporting ridge pole', and based on ethnographic evidence such posts were likely constructed from the trunks of hardwood trees.
 
 
 <a id="s-2-1"></a>
@@ -167,7 +167,7 @@ The main stems or trunks of woody plants are of considerable importance within O
 
 Many modern Oceanic languages have a general term denoting the main stem or trunk of a woody plant, alongside a number of more specific terms relating to woody stems (see Table 4.3).[^3] For example, Wayan _gai_ 'woody stem or trunk of a shrub or tree' and Tikopia _kuaŋa_ 'waist; trunk' are general terms that are used alongside more specific ones denoting different sections of a trunk, such as Wayan _gina_ 'base of a tree-trunk or woody stem', _ŋau_ 'main or centre section of trunk' and _golo_ 'top section of a tree trunk or a woody stem'. Modern Oceanic languages typically also have terms for different kinds of wood within a tree trunk. Thus Tikopia has a contrast between _tai_, the heartwood or dense inner wood of a tree trunk and _kanofi_, the sapwood or soft outer layers of wood between the heartwood and the bark, while Nduke has a specific term, _lolaŋa_, for the soft inner part of palms or pandanus.
 
-An apparently general term for tree trunk can be reconstructed for POc, namely _&ast;pata(ŋ)_. It seems likely that POc _&ast;pata(ŋ)_ referred to the main stem of plants denoted by _&ast;kayu_ 'tree or shrub'. As mentioned in ch.3 (§4.3) palms were probably not considered to be _&ast;kayu_ by POc speakers, but there is no evidence to suggest that the trunks of palms were labelled differently from the trunks of woody trees. Palm trunks seem to be of considerable importance for construction in Oceanic societies, although the different properties of palm trunks and trunks of woody plants may result in different uses.
+An apparently general term for tree trunk can be reconstructed for POc, namely _&ast;pata(ŋ)_. It seems likely that POc _&ast;pata(ŋ)_ referred to the main stem of plants denoted by _&ast;kayu_ 'tree or shrub'. As mentioned in ch.3 ([§4.3](../contributions/3-4#s-4-3)) palms were probably not considered to be _&ast;kayu_ by POc speakers, but there is no evidence to suggest that the trunks of palms were labelled differently from the trunks of woody trees. Palm trunks seem to be of considerable importance for construction in Oceanic societies, although the different properties of palm trunks and trunks of woody plants may result in different uses.
 
 <table id="3-4-2-1-89-POc-pata-a">
 <tr>
@@ -176,7 +176,7 @@ An apparently general term for tree trunk can be reconstructed for POc, namely _
 <i>&ast;bataŋ</i>
 </td>
 <td>
-'<span>stalk, trunk</span>' (<a href="../references.md#source-Dempwolff1938">Dempwolff1938</a>)
+'<span>stalk, trunk</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
 </td>
 </tr>
 <tr>
@@ -185,31 +185,31 @@ An apparently general term for tree trunk can be reconstructed for POc, namely _
 <i>&ast;pata(ŋ)</i>
 </td>
 <td>
-'<span>tree trunk</span>' (<a href="../references.md#source-Benderetal2003">Benderetal2003</a>)
+'<span>tree trunk</span>' (<a href="../sources/Benderetal2003">Benderetal2003</a>)
 </td>
 </tr>
 <tr>
-<td>Adm</td><td>Lou</td><td><i>pata-</i></td>
+<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td><i>pata-</i></td>
 <td>
 '<span>stem or trunk</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Titan</td><td><i>patá-</i></td>
+<td>Adm</td><td><a href="../languages/titan">Titan</a></td><td><i>patá-</i></td>
 <td>
 '<span>trunk, stem</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Paamese</td><td><i>vat(i-āi)</i></td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>vat(i-āi)</i></td>
 <td>
 '<span>trunk of tree</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Trukese</td><td><i>(nee-)fasaŋa</i></td>
+<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td><i>(nee-)fasaŋa</i></td>
 <td>
 '<span>torso, trunk</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Pulo-Annan</td><td><i>ðāta, ðata-</i></td>
+<td>Mic</td><td><a href="../languages/puloannan">Pulo-Annan</a></td><td><i>ðāta, ðata-</i></td>
 <td>
 '<span>tree trunk</span>'</td>
 </tr>
@@ -231,7 +231,7 @@ As mentioned above, Oceanic languages have terms denoting different parts of woo
 <i>&ast;puqun</i>
 </td>
 <td>
-'<span>base of tree, source, origin</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>base of tree, source, origin</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -243,112 +243,112 @@ As mentioned above, Oceanic languages have terms denoting different parts of woo
 '<span>base of tree; source, origin</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Bing</td><td><i>fuw</i></td>
+<td>NNG</td><td><a href="../languages/bing">Bing</a></td><td><i>fuw</i></td>
 <td>
 '<span>base of tree</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Gedaged</td><td><i>fu-</i></td>
+<td>NNG</td><td><a href="../languages/gedaged">Gedaged</a></td><td><i>fu-</i></td>
 <td>
 '<span>origin, beginning, start</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Takia</td><td><i>fu-</i></td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>fu-</i></td>
 <td>
 '<span>originator, host; base, as in base of a tree</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Poeng</td><td><i>pu-</i></td>
+<td>NNG</td><td><a href="../languages/poeng">Poeng</a></td><td><i>pu-</i></td>
 <td>
 '<span>base, source of s.t.</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Wampur</td><td><i>hugu-</i></td>
+<td>NNG</td><td><a href="../languages/wampur">Wampur</a></td><td><i>hugu-</i></td>
 <td>
 '<span>base, trunk</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Misima</td><td><i>pú-</i></td>
+<td>PT</td><td><a href="../languages/misima">Misima</a></td><td><i>pú-</i></td>
 <td>
 '<span>(tree) base; (axe, knife) end; (its) cause</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Muyuw</td><td><i>wowu-</i></td>
+<td>PT</td><td><a href="../languages/muyuw">Muyuw</a></td><td><i>wowu-</i></td>
 <td>
 '<span>(tree) base</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nakanai</td><td><i>vuhu-</i></td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>vuhu-</i></td>
 <td>
 '<span>(tree) trunk or base, (leaf) stem, (pearl shell) base; first part of story; reason; origin (story of one's ancestry)</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>fū</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>fū</i></td>
 <td>
 '<span>stock, root, origin</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>hū</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>hū</i></td>
 <td>
 '<span>real, pem1anent</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>hū</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>hū</i></td>
 <td>
 '<span>the beginning, origin</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Xârâcùù</td><td><i>pū</i></td>
+<td>NCal</td><td><a href="../languages/xaracuu">Xârâcùù</a></td><td><i>pū</i></td>
 <td>
 '<span>source, origin, beginning</span>' (<span>cf. pu-kwaa 'base of tree'</span>)</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>vū-</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>vū-</i></td>
 <td>
 '<span>bottom, basis, root (tuberous, bulbous)</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>vū</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>vū</i></td>
 <td>
 '<span>root, tap root, bulbous root, base, basis, cause, origin</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Rotuman</td><td><i>hū</i></td>
+<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td><i>hū</i></td>
 <td>
 '<span>(tree) lower end</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>fuʔu</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>fuʔu</i></td>
 <td>
 '<span>complete tree or plant</span>' (<span>as <em>infuʔu niu</em> 'coconut tree'</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>fū</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>fū</i></td>
 <td>
 '<span>trunk of a tree near the root, base of a mast</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>pū</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>pū</i></td>
 <td>
 '<span>heart or centre of tree</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Marquesan</td><td><i>pū</i></td>
+<td>Pn</td><td><a href="../languages/marquesan">Marquesan</a></td><td><i>pū</i></td>
 <td>
 '<span>tree trunk</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Hawaiian</td><td><i>pū</i></td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>pū</i></td>
 <td>
 '<span>tree, cluster of several stalks, as of banana, pandanus or kava; clump, as of sugar cane</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rarotongan</td><td><i>pū</i></td>
+<td>Pn</td><td><a href="../languages/rarotongan">Rarotongan</a></td><td><i>pū</i></td>
 <td>
 '<span>stem; chief, root, origin, source, cause</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>pū</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>pū</i></td>
 <td>
 '<span>bunch, bundle, anything growing in a bunch, tuft, heap, stack</span>'</td>
 </tr>
@@ -368,7 +368,7 @@ Terms with similar meanings to Wayan _ŋau_ 'main or centre section of trunk' an
 <i>&ast;qulu</i>
 </td>
 <td>
-'<span>head; top part; leader, chief; headwaters; handle of a bladed implement; prow of a boat; first, first-born</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>head; top part; leader, chief; headwaters; handle of a bladed implement; prow of a boat; first, first-born</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -377,41 +377,41 @@ Terms with similar meanings to Wayan _ŋau_ 'main or centre section of trunk' an
 <i>&ast;qulu-</i>
 </td>
 <td>
-'<span>head, top part, hair of the head</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>head, top part, hair of the head</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
-<td>Adm</td><td>Nauna</td><td><i>kulu-n (kıy)</i></td>
+<td>Adm</td><td><a href="../languages/nauna">Nauna</a></td><td><i>kulu-n (kıy)</i></td>
 <td>
 '<span>(tree) top</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Takia</td><td><i>ulu-</i></td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>ulu-</i></td>
 <td>
 '<span>top part of tree</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Puluwatese</td><td><i>wɨl</i></td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>wɨl</i></td>
 <td>
 '<span>budding leaf, top of tree</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Rotuman</td><td><i>ulu(ŋa)</i></td>
+<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td><i>ulu(ŋa)</i></td>
 <td>
 '<span>(tree, house, hill) top, summit</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Pukapukan</td><td><i>(ka)ulu</i></td>
+<td>Pn</td><td><a href="../languages/pukapukan">Pukapukan</a></td><td><i>(ka)ulu</i></td>
 <td>
 '<span>the top or crown of a tree</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tahitian</td><td><i>(a)uru</i></td>
+<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td><i>(a)uru</i></td>
 <td>
 '<span>top ends of small twigs or branches</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>(ka)uru</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>(ka)uru</i></td>
 <td>
 '<span>the head of a tree</span>'</td>
 </tr>
@@ -433,17 +433,17 @@ Terms for different types of wood or tissue in woody stems are present in Wayan,
 '<span>(heart)wood</span>' (<span>POLLEX</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>tahi</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>tahi</i></td>
 <td>
 '<span>hard wood or solid centre of certain kinds of trees</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>tai</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>tai</i></td>
 <td>
 [N] '<span>hard timber, heartwood</span>'; [ADJ] '<span>very hard</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>taia</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>taia</i></td>
 <td>
 [N] '<span>hard core, heartwood of (exogenous) trees</span>'; [v] '<span>(of exogenous trees) be mature enough to have a hard core (and therefore be used as timber)</span>'</td>
 </tr>
@@ -464,17 +464,17 @@ Terms for different types of wood or tissue in woody stems are present in Wayan,
 '<span>sapwood</span>' (<span>POLLEX; <em>*tea</em> 'white'</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tokelauan</td><td><i>taitea</i></td>
+<td>Pn</td><td><a href="../languages/tokelauan">Tokelauan</a></td><td><i>taitea</i></td>
 <td>
 '<span>the soft white wood of Cordia subcordata</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Hawaiian</td><td><i>kaikea</i></td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>kaikea</i></td>
 <td>
 '<span>sap, sapwood</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>taitea</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>taitea</i></td>
 <td>
 '<span>white wood, sapwood</span>'</td>
 </tr>
@@ -494,32 +494,32 @@ POc _&ast;uso_ 'umbilical cord, core' may also have been used to refer to the co
 '<span>umbilical cord, core innards or digestive organs of a shellfish</span>' (<span>Pawley forthcoming</span>)</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>udo</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>udo</i></td>
 <td>
 '<span>navel</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>uto</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>uto</i></td>
 <td>
 '<span>core</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>uto</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>uto</i></td>
 <td>
 '<span>pith, core</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>iso</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>iso</i></td>
 <td>
 '<span>innards, especially digestive organs of mollusc; pith, soft inner tissue of e.g. tree ferns; core of certain fruits (e.g. pineapple, breadfruit)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>uho</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>uho</i></td>
 <td>
 '<span>navel, cord pith, core, core-like centre</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>uho, iho</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>uho, iho</i></td>
 <td>
 '<span>umbilical cord, heart (of a tree), pith, inside, kernel</span>'</td>
 </tr>
@@ -549,57 +549,57 @@ POc _&ast;baRa-baRa_ is a well-supported reconstruction, both in terms of form a
 '<span>stem or stalk of non-woody plants, such as taro and banana, probably also the soft stems of leaves</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Tawala</td><td><i>palapala</i></td>
+<td>PT</td><td><a href="../languages/tawala">Tawala</a></td><td><i>palapala</i></td>
 <td>
 '<span>(plant) main stalk, stalk of mustard leaf eaten with betel nut</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Bauro</td><td><i>parapara</i></td>
+<td>SES</td><td><a href="../languages/bauro">Bauro</a></td><td><i>parapara</i></td>
 <td>
 '<span>stalk of flowers; involucre of flower, sheath of leaves</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kiribatese</td><td><i>ba</i></td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>ba</i></td>
 <td>
 '<span>leaf, palm, midrib of palm leaf</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kosraean</td><td><i>pᴂ</i></td>
+<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td><i>pᴂ</i></td>
 <td>
 '<span>stalk (of taro or banana), stem</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Marshallese</td><td><i>pap</i></td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>pap</i></td>
 <td>
 '<span>coconut frond, midrib of frond</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Satawalese</td><td><i>-pᴂ</i></td>
+<td>Mic</td><td><a href="../languages/satawalese">Satawalese</a></td><td><i>-pᴂ</i></td>
 <td>
 '<span>counting classifier for coconut or taro leaves</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Woleaian</td><td><i>-pā</i></td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>-pā</i></td>
 <td>
 '<span>numeral classifier for chained or strung objects such as palm fronds, leis, shell belts</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Ponapean</td><td><i>pā</i></td>
+<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td><i>pā</i></td>
 <td>
 '<span>leaf of any large-leaved plant such as taro</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>bā</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>bā</i></td>
 <td>
 '<span>stalk of taro leaves (only)</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>bābā</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>bābā</i></td>
 <td>
 '<span>leaf-stalk (petiole) or stem of certan single-stemmed plants whose leaves unfold from the stalk, especially taro, banana and leaf-stalk of palms</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Yasawa</td><td><i>bābā</i></td>
+<td>Fij</td><td><a href="../languages/yasawa">Yasawa</a></td><td><i>bābā</i></td>
 <td>
 '<span>stalk or stem of certain large-leafed plants, especially taro, banana, coconut.</span>'</td>
 </tr>
@@ -669,7 +669,7 @@ Proto Austronesian _&ast;daqan_ 'branch', continued as POc _&ast;raqan_ 'branch 
 <i>&ast;daqan</i>
 </td>
 <td>
-'<span>branch</span>' (<a href="../references.md#source-Blust1993">Blust1993</a>)
+'<span>branch</span>' (<a href="../sources/Blust1993">Blust1993</a>)
 </td>
 </tr>
 <tr>
@@ -678,36 +678,36 @@ Proto Austronesian _&ast;daqan_ 'branch', continued as POc _&ast;raqan_ 'branch 
 <i>&ast;raqan</i>
 </td>
 <td>
-'<span>branch of tree or other plant</span>' (<a href="../references.md#source-Ross1988">Ross1988</a>)
+'<span>branch of tree or other plant</span>' (<a href="../sources/Ross1988">Ross1988</a>)
 </td>
 </tr>
 <tr>
-<td>Adm</td><td>Drehet</td><td><i>(i)ⁿra</i></td>
+<td>Adm</td><td><a href="../languages/drehet">Drehet</a></td><td><i>(i)ⁿra</i></td>
 <td>
 '<span>branch</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Misima</td><td><i>la</i></td>
+<td>PT</td><td><a href="../languages/misima">Misima</a></td><td><i>la</i></td>
 <td>
 '<span>(tree) branch</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>raɣa</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>raɣa</i></td>
 <td>
 '<span>fruit-bearing palm branch</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Siar</td><td><i>rakan</i></td>
+<td>MM</td><td><a href="../languages/siar">Siar</a></td><td><i>rakan</i></td>
 <td>
 '<span>(tree) branch</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Sursurunga</td><td><i>rəkən</i></td>
+<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td><i>rəkən</i></td>
 <td>
 '<span>(tree) branch</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>rā-na</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>rā-na</i></td>
 <td>
 '<span>(tree) branch</span>'</td>
 </tr>
@@ -717,76 +717,76 @@ Proto Austronesian _&ast;daqan_ 'branch', continued as POc _&ast;raqan_ 'branch 
 <i>&ast;raa, ra-ra-</i>
 </td>
 <td>
-'<span>branch</span>' (<a href="../references.md#source-Clark1996">Clark1996</a>)
+'<span>branch</span>' (<a href="../sources/Clark1996">Clark1996</a>)
 </td>
 </tr>
 <tr>
-<td>NCV</td><td>Raga</td><td><i>ra-ra-</i></td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>ra-ra-</i></td>
 <td>
 '<span>branch</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Kiai</td><td><i>ra-ra-</i></td>
+<td>NCV</td><td><a href="../languages/kiai">Kiai</a></td><td><i>ra-ra-</i></td>
 <td>
 '<span>wing</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Nguna</td><td><i>a-raa</i></td>
+<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td><i>a-raa</i></td>
 <td>
 '<span>branch</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Anejom</td><td><i>nra-</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>nra-</i></td>
 <td>
 '<span>branch</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kosraean</td><td><i>læ</i></td>
+<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td><i>læ</i></td>
 <td>
 '<span>(tree) branch, twig, limb</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Woleaian</td><td><i>z̧aa</i></td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>z̧aa</i></td>
 <td>
 '<span>(tree) branch, bough, twig</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Carolinian</td><td><i>rǣ</i></td>
+<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td><i>rǣ</i></td>
 <td>
 '<span>(tree) branches</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Trukese</td><td><i>rǣ</i></td>
+<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td><i>rǣ</i></td>
 <td>
 '<span>branch (with leaves)</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Rotuman</td><td><i>rã</i></td>
+<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td><i>rã</i></td>
 <td>
 '<span>branch, bough</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>lã</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>lã</i></td>
 <td>
 '<span>(tree) branch; carries connotation of being small or the smaller part of a whole</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>rã</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>rã</i></td>
 <td>
 '<span>stem; twig; minor branch of tree, as opposed to <em>maŋa</em>, a major branch</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>East Futunan</td><td><i>laʔa-laʔa</i></td>
+<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td><i>laʔa-laʔa</i></td>
 <td>
 '<span>small branch</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>gaʔa</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>gaʔa</i></td>
 <td>
 '<span>branch</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>lãlã</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>lãlã</i></td>
 <td>
 '<span>branch</span>'</td>
 </tr>
@@ -806,7 +806,7 @@ POc _&ast;rako(q)_ 'branch, twig' is supported by reflexes in two Papuan Tip lan
 <i>&ast;daŋkeq</i>
 </td>
 <td>
-'<span>branch</span>' (<a href="../references.md#source-Blust1986">Blust1986</a>)
+'<span>branch</span>' (<a href="../sources/Blust1986">Blust1986</a>)
 </td>
 </tr>
 <tr>
@@ -818,17 +818,17 @@ POc _&ast;rako(q)_ 'branch, twig' is supported by reflexes in two Papuan Tip lan
 '<span>branch, twig</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Gumawana</td><td><i>lao</i></td>
+<td>PT</td><td><a href="../languages/gumawana">Gumawana</a></td><td><i>lao</i></td>
 <td>
 '<span>a branch</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>rako-</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>rako-</i></td>
 <td>
 '<span>a twig</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>rako-rako</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>rako-rako</i></td>
 <td>
 '<span>young, small wood</span>'</td>
 </tr>
@@ -845,7 +845,7 @@ Similarly, POc _&ast;raga(q)_ 'branch' is supported by reflexes in a small numbe
 <i>&ast;daŋkaq</i>
 </td>
 <td>
-'<span>branch</span>' (<a href="../references.md#source-Blust1986">Blust1986</a>)
+'<span>branch</span>' (<a href="../sources/Blust1986">Blust1986</a>)
 </td>
 </tr>
 <tr>
@@ -857,27 +857,27 @@ Similarly, POc _&ast;raga(q)_ 'branch' is supported by reflexes in a small numbe
 '<span>branch</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Gapapaiwa</td><td><i>raga-</i></td>
+<td>PT</td><td><a href="../languages/gapapaiwa">Gapapaiwa</a></td><td><i>raga-</i></td>
 <td>
 '<span>branch; limb</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Tawala</td><td><i>laga-</i></td>
+<td>PT</td><td><a href="../languages/tawala">Tawala</a></td><td><i>laga-</i></td>
 <td>
 '<span>branch</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Iduna</td><td><i>laga(ni-)</i></td>
+<td>PT</td><td><a href="../languages/iduna">Iduna</a></td><td><i>laga(ni-)</i></td>
 <td>
 '<span>branch</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Marovo</td><td><i>raga (hae)</i></td>
+<td>MM</td><td><a href="../languages/marovo">Marovo</a></td><td><i>raga (hae)</i></td>
 <td>
 '<span>branch</span>' (<span><em>hae</em> 'tree'</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td>Vangunu</td><td><i>raga</i></td>
+<td>MM</td><td><a href="../languages/vangunu">Vangunu</a></td><td><i>raga</i></td>
 <td>
 '<span>branch</span>'</td>
 </tr>
@@ -897,7 +897,7 @@ POc also had two morphologically related forms _&ast;saŋa_ and _&ast;ma-saŋa_ 
 <i>&ast;saŋa</i>
 </td>
 <td>
-'<span>bifurcation, to branch</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>bifurcation, to branch</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -909,57 +909,57 @@ POc also had two morphologically related forms _&ast;saŋa_ and _&ast;ma-saŋa_ 
 '<span>fork (in tree), forked stick or post, crotch</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Lou</td><td><i>saɛ-n</i></td>
+<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td><i>saɛ-n</i></td>
 <td>
 [N] '<span>lower branch</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Titan</td><td><i>cáŋa</i></td>
+<td>Adm</td><td><a href="../languages/titan">Titan</a></td><td><i>cáŋa</i></td>
 <td>
 '<span>fork in crotch; straddle, climb straddling</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Titan</td><td><i>cáŋa-n(key)</i></td>
+<td>Adm</td><td><a href="../languages/titan">Titan</a></td><td><i>cáŋa-n(key)</i></td>
 <td>
 '<span>fork of a tree</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Gedaged</td><td><i>saŋa-n</i></td>
+<td>NNG</td><td><a href="../languages/gedaged">Gedaged</a></td><td><i>saŋa-n</i></td>
 <td>
 '<span>crotch, groin, bifurcation, fork</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>taŋa</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>taŋa</i></td>
 <td>
 '<span>the V -shaped groove in a mainpost</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Kwaio</td><td><i>taŋa-na</i></td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>taŋa-na</i></td>
 <td>
 '<span>groin</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>taŋa-na</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>taŋa-na</i></td>
 <td>
 '<span>a crotch; fork of the legs</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>saŋa</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>saŋa</i></td>
 <td>
 '<span>a fork, crotch, forked stick or post</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kosraean</td><td><i>ṣeŋ</i></td>
+<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td><i>ṣeŋ</i></td>
 <td>
 [N] '<span>(spearhead, fishhook) barb, prong, fish fins appearing above the surface of the water</span>'; [VI] '<span>to fork, branch out, bifurcate</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>saŋa</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>saŋa</i></td>
 <td>
 [N] '<span>a crotch</span>'; [ADJ] '<span>crotched, especially of a branch which forms a crotch with a tree</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>soŋa-soŋa</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>soŋa-soŋa</i></td>
 <td>
 '<span>fork or joint between two protruding things; point or end of a protruding object; have many branches (e.g. tree, coral)</span>'</td>
 </tr>
@@ -979,72 +979,72 @@ POc _&ast;ma-saŋa_ is reconstructed with both verbal and nominal functions. Its
 '<span>to be branching or forked (vi); branch (of tree, river, path), fork, crotch (N)</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Lou</td><td><i>mosa, mosoŋa-n</i></td>
+<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td><i>mosa, mosoŋa-n</i></td>
 <td>
 '<span>crotch; place where branch divides</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Kara (East)</td><td><i>məsaŋe-na</i></td>
+<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td><i>məsaŋe-na</i></td>
 <td>
 '<span>fork of tree</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Tolo</td><td><i>masaŋa-na</i></td>
+<td>SES</td><td><a href="../languages/tolo">Tolo</a></td><td><i>masaŋa-na</i></td>
 <td>
 '<span>branch or fork of a road, river or tree</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>mataŋa</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>mataŋa</i></td>
 <td>
 '<span>forked; to spread fingers or limbs; (tree) branch; branch in road; the middle</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>mataŋa-na</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>mataŋa-na</i></td>
 <td>
 '<span>(frog) legs</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>mataŋā</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>mataŋā</i></td>
 <td>
 '<span>branching; growing together, of two or more things; starfish</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Kwaio</td><td><i>mataŋa-na</i></td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>mataŋa-na</i></td>
 <td>
 '<span>crotch, branching place</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>mataŋa</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>mataŋa</i></td>
 <td>
 '<span>doubled, forked</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Tamambo</td><td><i>masaŋa</i></td>
+<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td><i>masaŋa</i></td>
 <td>
 '<span>branch</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Araki</td><td><i>nᫀasaŋa</i></td>
+<td>NCV</td><td><a href="../languages/araki">Araki</a></td><td><i>nᫀasaŋa</i></td>
 <td>
 '<span>forked</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Sye</td><td><i>ne-msoŋ</i></td>
+<td>SV</td><td><a href="../languages/sye">Sye</a></td><td><i>ne-msoŋ</i></td>
 <td>
 '<span>fork in tree</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>mahaŋa</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>mahaŋa</i></td>
 <td>
 '<span>branch, fork, crotch</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>mahaŋa</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>mahaŋa</i></td>
 <td>
 '<span>forked (of a path)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>masaŋa(saŋa)</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>masaŋa(saŋa)</i></td>
 <td>
 '<span>road fork, branching</span>'</td>
 </tr>
@@ -1055,7 +1055,7 @@ POc _&ast;ma-saŋa_ is reconstructed with both verbal and nominal functions. Its
 
 <a id="p-97"></a>
 
-PPn _&ast;maŋa_ 'branch, fork; branching, forked' is a well-supported reconstruction. A possible non-Polynesian cognate is Kiribati _mʷāŋa_ 'branch, limb of tree', but [Harrison](../references.md#source-Harrison1994) ([1994](../references.md#source-Harrison1994): 345) suggests that this may be a Polynesian loan. It is possible that PPn _&ast;maŋa_ 'branch, fork' is historically related to POc _&ast;ma-saŋa_ 'to be branching, branch' with irregular loss of _&ast;s_, but this is not certain. Most Polynesian languages reflect one or other form, but not both. However, Niuean reflects both forms and with very similar meanings, and in Tongan both forms have similar nominal meanings, but the reflex of _&ast;maŋa_ also has a verbal meaning.
+PPn _&ast;maŋa_ 'branch, fork; branching, forked' is a well-supported reconstruction. A possible non-Polynesian cognate is Kiribati _mʷāŋa_ 'branch, limb of tree', but [Harrison](../sources/Harrison1994) ([1994](../sources/Harrison1994): 345) suggests that this may be a Polynesian loan. It is possible that PPn _&ast;maŋa_ 'branch, fork' is historically related to POc _&ast;ma-saŋa_ 'to be branching, branch' with irregular loss of _&ast;s_, but this is not certain. Most Polynesian languages reflect one or other form, but not both. However, Niuean reflects both forms and with very similar meanings, and in Tongan both forms have similar nominal meanings, but the reflex of _&ast;maŋa_ also has a verbal meaning.
 
 <table id="3-4-2-3-97-PPn-maa-a">
 <tr>
@@ -1067,47 +1067,47 @@ PPn _&ast;maŋa_ 'branch, fork; branching, forked' is a well-supported reconstru
 '<span>branch, fork; branching, forked</span>' (<span>POLLEX</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>maŋa</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>maŋa</i></td>
 <td>
 [vi] '<span>fork, branch out, branch off, become divided into two or more branches; to step across s.t.</span>'; [N] '<span>branch, fork, crotch, bifurcation; stride</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>maŋa</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>maŋa</i></td>
 <td>
 '<span>forked</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>West Uvean</td><td><i>maŋa</i></td>
+<td>Pn</td><td><a href="../languages/westuvean">West Uvean</a></td><td><i>maŋa</i></td>
 <td>
 '<span>branch</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>maŋa</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>maŋa</i></td>
 <td>
 '<span>segmentary division, e.g. subsidiary tuber or corm in root vegetables; (tree, coral +) branch; offshoot, bifurcation</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>maŋa</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>maŋa</i></td>
 <td>
 [N] '<span>(tree, road +)fork</span>'; [v] '<span>divide into two, fork</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Luangiua</td><td><i>maŋa</i></td>
+<td>Pn</td><td><a href="../languages/luangiua">Luangiua</a></td><td><i>maŋa</i></td>
 <td>
 '<span>branch</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rapanui</td><td><i>maŋa-maŋa</i></td>
+<td>Pn</td><td><a href="../languages/rapanui">Rapanui</a></td><td><i>maŋa-maŋa</i></td>
 <td>
 '<span>bifurcation, branching off</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>maŋa</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>maŋa</i></td>
 <td>
 '<span>(tree) branch</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Hawaiian</td><td><i>mana</i></td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>mana</i></td>
 <td>
 [N] '<span>(tree, road, stream) branch, limb, crotch; crosspi1ece, as of the cross; a line projecting from another line</span>'; [vi] '<span>variant, version, as of a tale; branch out, spread out</span>'</td>
 </tr>
@@ -1166,7 +1166,7 @@ Besides a general term for roots, _&ast;wakaR-_, POc had at least three other mo
 <i>&ast;wakaR</i>
 </td>
 <td>
-'<span>root</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>root</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -1178,127 +1178,127 @@ Besides a general term for roots, _&ast;wakaR-_, POc had at least three other mo
 '<span>roots (in general)</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Mussau</td><td><i>oa</i></td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>oa</i></td>
 <td>
 '<span>root</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Numbami</td><td><i>woka</i></td>
+<td>NNG</td><td><a href="../languages/numbami">Numbami</a></td><td><i>woka</i></td>
 <td>
 '<span>root</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Bali</td><td><i>vakara</i></td>
+<td>MM</td><td><a href="../languages/bali">Bali</a></td><td><i>vakara</i></td>
 <td>
 '<span>root</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nakanai</td><td><i>ua</i></td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>ua</i></td>
 <td>
 '<span>radial roots of a tree</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nduke</td><td><i>aɣara-</i></td>
+<td>MM</td><td><a href="../languages/nduke">Nduke</a></td><td><i>aɣara-</i></td>
 <td>
 '<span>general term for roots of any plant</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Kusaghe</td><td><i>aɣoro</i></td>
+<td>MM</td><td><a href="../languages/kusaghe">Kusaghe</a></td><td><i>aɣoro</i></td>
 <td>
 '<span>root</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>oɣa</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>oɣa</i></td>
 <td>
 '<span>small roots</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Bugotu</td><td><i>oɣa-</i></td>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>oɣa-</i></td>
 <td>
 '<span>root</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Kahua</td><td><i>vaɣa-na</i></td>
+<td>SES</td><td><a href="../languages/kahua">Kahua</a></td><td><i>vaɣa-na</i></td>
 <td>
 '<span>root</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Santa Ana</td><td><i>waɣa-na</i></td>
+<td>SES</td><td><a href="../languages/santaana">Santa Ana</a></td><td><i>waɣa-na</i></td>
 <td>
 '<span>root</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Lewo</td><td><i>yaka</i></td>
+<td>NCV</td><td><a href="../languages/lewo">Lewo</a></td><td><i>yaka</i></td>
 <td>
 '<span>kind of root, edible</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>N. Tanna</td><td><i>nokə-</i></td>
+<td>SV</td><td><a href="../languages/ntanna">N. Tanna</a></td><td><i>nokə-</i></td>
 <td>
 '<span>root</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Lenakel</td><td><i>nukə-</i></td>
+<td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td><i>nukə-</i></td>
 <td>
 '<span>root</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Xârâcùù</td><td><i>kwɛ̄-</i></td>
+<td>NCal</td><td><a href="../languages/xaracuu">Xârâcùù</a></td><td><i>kwɛ̄-</i></td>
 <td>
 '<span>root</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Nemi</td><td><i>wā-</i></td>
+<td>NCal</td><td><a href="../languages/nemi">Nemi</a></td><td><i>wā-</i></td>
 <td>
 '<span>root</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kosraean</td><td><i>okæ</i></td>
+<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td><i>okæ</i></td>
 <td>
 [N] '<span>root</span>'; [vi] '<span>begin to have roots</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Marshallese</td><td><i>ɔkaṛ</i></td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>ɔkaṛ</i></td>
 <td>
 '<span>root</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Trukese</td><td><i>wār</i></td>
+<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td><i>wār</i></td>
 <td>
 '<span>(tree) root</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Trukese</td><td><i>wāra-n</i></td>
+<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td><i>wāra-n</i></td>
 <td>
 '<span>its root</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Woleaian</td><td><i>wexaẓ</i></td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>wexaẓ</i></td>
 <td>
 '<span>root</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Carolinian</td><td><i>wār</i></td>
+<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td><i>wār</i></td>
 <td>
 '<span>roots of a tree or plant</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>waka-</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>waka-</i></td>
 <td>
 '<span>root of a plant (fibrous)</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>waka-</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>waka-</i></td>
 <td>
 '<span>root or roots of plant, fibrous roots</span>' (<span>cf. <em>waka-tu</em> 'taproot'</span>)</td>
 </tr>
 <tr>
-<td>Fij</td><td>Rotuman</td><td><i>vaʔa</i></td>
+<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td><i>vaʔa</i></td>
 <td>
 '<span>(fibrous) roots</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>vaka</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>vaka</i></td>
 <td>
 '<span>(plant) root; be woody, stringy; grow roots</span>'</td>
 </tr>
@@ -1316,7 +1316,7 @@ cf. also:
 </table>
 
 
-Blust associates Label _wakir_ with PCEMP _&ast;wakir_ 'kind of root'. However, there being no other Oceanic reflexes of this etymon, it seems likely that this is an irregular reflex of _&ast;wakaR_. Some Micronesian languages including Marshallese _ɔkar_, Chuukese _wār_, _wāra-n_, Carolinian _wār_ and Woleaian _wexaẓ_  point to a PMic variant _&ast;wakara-_ ([Bender et al. 2003](../references.md#source-Benderetal2003): 104), presumably inalienably possessed and reflected in Chuukese _wāra-n_.[^8]
+Blust associates Label _wakir_ with PCEMP _&ast;wakir_ 'kind of root'. However, there being no other Oceanic reflexes of this etymon, it seems likely that this is an irregular reflex of _&ast;wakaR_. Some Micronesian languages including Marshallese _ɔkar_, Chuukese _wār_, _wāra-n_, Carolinian _wār_ and Woleaian _wexaẓ_  point to a PMic variant _&ast;wakara-_ ([Bender et al. 2003](../sources/Benderetal2003): 104), presumably inalienably possessed and reflected in Chuukese _wāra-n_.[^8]
 
 Blust (ACD) also reconstructs a PEMP term _&ast;wakaR-i_ 'root', which is reflected in a number of Oceanic languages. Although Blust (ACD) posits an apparent morpheme boundary between the root _&ast;wakaR_ and an ending _&ast;-i_, he comments that the morphology of the longer form remains obscure, and does not suggest any meaning difference between _&ast;wakaR_ and _&ast;wakaR-i_. It was probably an alternant inalienably possessed form.[^9]
 
@@ -1330,7 +1330,7 @@ Blust (ACD) also reconstructs a PEMP term _&ast;wakaR-i_ 'root', which is reflec
 <i>&ast;wakaR-i</i>
 </td>
 <td>
-'<span>root</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>root</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -1342,32 +1342,32 @@ Blust (ACD) also reconstructs a PEMP term _&ast;wakaR-i_ 'root', which is reflec
 '<span>root</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Dami</td><td><i>warei</i></td>
+<td>NNG</td><td><a href="../languages/dami">Dami</a></td><td><i>warei</i></td>
 <td>
 '<span>root</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Tambotalo</td><td><i>uari-</i></td>
+<td>NCV</td><td><a href="../languages/tambotalo">Tambotalo</a></td><td><i>uari-</i></td>
 <td>
 '<span>root</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Aore</td><td><i>wari</i></td>
+<td>NCV</td><td><a href="../languages/aore">Aore</a></td><td><i>wari</i></td>
 <td>
 '<span>root</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Araki</td><td><i>xuari</i></td>
+<td>NCV</td><td><a href="../languages/araki">Araki</a></td><td><i>xuari</i></td>
 <td>
 '<span>root</span>' (<span>metathesis</span>)</td>
 </tr>
 <tr>
-<td>NCV</td><td>Nduindui</td><td><i>ka-kwari</i></td>
+<td>NCV</td><td><a href="../languages/nduindui">Nduindui</a></td><td><i>ka-kwari</i></td>
 <td>
 '<span>root</span>' (<span>metathesis</span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td>Nauruan</td><td><i>awori-n</i></td>
+<td>Mic</td><td><a href="../languages/nauruan">Nauruan</a></td><td><i>awori-n</i></td>
 <td>
 '<span>root</span>'</td>
 </tr>
@@ -1375,7 +1375,7 @@ Blust (ACD) also reconstructs a PEMP term _&ast;wakaR-i_ 'root', which is reflec
 
 
 
-[Dempwolff](../references.md#source-Dempwolff1938) ([1938](../references.md#source-Dempwolff1938)) reconstructs PMP _aka(r)_ 'root' as a doublet of _wakaR_ 'root'. Blust (ACD) notes that all non-Oceanic cognates with an initial _a-_ are in languages which regularly lose word-initial _&ast;w-_, thus providing no evidence for the presence or absence of _&ast;w-_. Several Oceanic languages have forms which do suggest a POc doublet form _&ast;aka(r,R)_. None of the forms below are regular reflexes of _&ast;wakaR_ 'root'.
+[Dempwolff](../sources/Dempwolff1938) ([1938](../sources/Dempwolff1938)) reconstructs PMP _aka(r)_ 'root' as a doublet of _wakaR_ 'root'. Blust (ACD) notes that all non-Oceanic cognates with an initial _a-_ are in languages which regularly lose word-initial _&ast;w-_, thus providing no evidence for the presence or absence of _&ast;w-_. Several Oceanic languages have forms which do suggest a POc doublet form _&ast;aka(r,R)_. None of the forms below are regular reflexes of _&ast;wakaR_ 'root'.
 
 <table id="3-4-2-4-100-POc-akarr-a">
 <tr>
@@ -1384,31 +1384,31 @@ Blust (ACD) also reconstructs a PEMP term _&ast;wakaR-i_ 'root', which is reflec
 <i>&ast;aka(r,R)</i>
 </td>
 <td>
-'<span>root</span>' (<a href="../references.md#source-Dempwolff1938">Dempwolff1938</a>)
+'<span>root</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
 </td>
 </tr>
 <tr>
-<td>Adm</td><td>Lou</td><td><i>akɔ-n</i></td>
+<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td><i>akɔ-n</i></td>
 <td>
 '<span>root</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Ramoaaina</td><td><i>akar</i></td>
+<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>akar</i></td>
 <td>
 '<span>root</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>aka</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>aka</i></td>
 <td>
 '<span>root, have roots; send out roots</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>aka</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>aka</i></td>
 <td>
 '<span>(banyan) aerial rootlet</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>aʔa</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>aʔa</i></td>
 <td>
 '<span>root</span>'</td>
 </tr>
@@ -1418,7 +1418,7 @@ Blust (ACD) also reconstructs a PEMP term _&ast;wakaR-i_ 'root', which is reflec
 
 Thus POc apparently had three very similar forms, _&ast;wakaR_, _&ast;wakaRi-_ and _&ast;aka(r,R)_, all 'root'. If _&ast;wakaRi-_ is an altemant inalienably possessed form, then only _&ast;aka(r,R)_ requires explanation. No modern languages have been found to retain more than one of the four forms, suggesting that there was no semantic difference among them. POc _&ast;wakaR_ 'root' is the most widely reflected in modern Oceanic languages and reflects a Proto Austronesian form.
 
-The POc term for 'buttress roots' was _&ast;lali(c,t)_. This is a more or less regular reflex of PMP _&ast;dalij_, reconstructed by Blust (ACD ). The expected POc initial liquid is †_&ast;r-_, but it has undergone assimilation to the intervocalic liquid, giving _&ast;lal-_ rather that †_&ast;ral-_. The same change is found in POc _&ast;lalom_ 'inside', reflecting PMP _&ast;Dalem_ (vol.2, ch.8, §2.3.1). The expected final consonant is POc _&ast;-c_. The only languages to reflect a final consonant are Tolai and Ramoaaina, in both of which the expected reflex is zero, but instead we find _-t_.
+The POc term for 'buttress roots' was _&ast;lali(c,t)_. This is a more or less regular reflex of PMP _&ast;dalij_, reconstructed by Blust (ACD ). The expected POc initial liquid is †_&ast;r-_, but it has undergone assimilation to the intervocalic liquid, giving _&ast;lal-_ rather that †_&ast;ral-_. The same change is found in POc _&ast;lalom_ 'inside', reflecting PMP _&ast;Dalem_ ([vol.2, ch.8, §2.3.1](../contributions/2-8#s-2-3-1)). The expected final consonant is POc _&ast;-c_. The only languages to reflect a final consonant are Tolai and Ramoaaina, in both of which the expected reflex is zero, but instead we find _-t_.
 
 <table id="3-4-2-4-100-POc-lalict-a">
 <tr>
@@ -1427,7 +1427,7 @@ The POc term for 'buttress roots' was _&ast;lali(c,t)_. This is a more or less r
 <i>&ast;dalij</i>
 </td>
 <td>
-'<span>buttress roots</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>buttress roots</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -1439,47 +1439,47 @@ The POc term for 'buttress roots' was _&ast;lali(c,t)_. This is a more or less r
 '<span>buttress roots</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Lou</td><td><i>lil, lila-n</i></td>
+<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td><i>lil, lila-n</i></td>
 <td>
 '<span>exposed root or vein</span>' (<span>vowel metathesis</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td>Tolai</td><td><i>lalit</i></td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>lalit</i></td>
 <td>
 '<span>space between the buttresses of a tree</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Ramoaaina</td><td><i>lalit</i></td>
+<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>lalit</i></td>
 <td>
 '<span>buttresses of trees</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>lali</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>lali</i></td>
 <td>
 '<span>buttress roots of some trees</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Bugotu</td><td><i>lali-(ña)</i></td>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>lali-(ña)</i></td>
 <td>
 '<span>buttress of tree</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Kwara’ae</td><td><i>lali</i></td>
+<td>SES</td><td><a href="../languages/kwaraae">Kwara’ae</a></td><td><i>lali</i></td>
 <td>
 '<span>root</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Kwaio</td><td><i>lali</i></td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>lali</i></td>
 <td>
 '<span>big tree root</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>rari-na</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>rari-na</i></td>
 <td>
 '<span>root</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Bauro</td><td><i>rari-na</i></td>
+<td>SES</td><td><a href="../languages/bauro">Bauro</a></td><td><i>rari-na</i></td>
 <td>
 '<span>buttress root</span>'</td>
 </tr>
@@ -1490,7 +1490,7 @@ The POc term for 'buttress roots' was _&ast;lali(c,t)_. This is a more or less r
 
 <a id="p-101"></a>
 
-The POc reconstruction _&ast;Ramut_ 'fine, hair-like roots' is a revision of [Geraghty's](../references.md#source-Geraghty1990) ([1990](../references.md#source-Geraghty1990): 69) PEOc reconstruction _&ast;Ramu-_ 'hair, fibre'.[^10] Extra data suggest that this form had a primary meaning 'hair-like roots' and in a number of languages has been extended to refer to other fine fibrous things. Data from the Meso-Melanesian languages support the reconstruction of a final consonant in POc. In Papuan Tip languages _&ast;Ramut_ appears to have become the general term for roots.
+The POc reconstruction _&ast;Ramut_ 'fine, hair-like roots' is a revision of [Geraghty's](../sources/Geraghty1990) ([1990](../sources/Geraghty1990): 69) PEOc reconstruction _&ast;Ramu-_ 'hair, fibre'.[^10] Extra data suggest that this form had a primary meaning 'hair-like roots' and in a number of languages has been extended to refer to other fine fibrous things. Data from the Meso-Melanesian languages support the reconstruction of a final consonant in POc. In Papuan Tip languages _&ast;Ramut_ appears to have become the general term for roots.
 
 <table id="3-4-2-4-101-POc-ramut-a">
 <tr>
@@ -1499,61 +1499,61 @@ The POc reconstruction _&ast;Ramut_ 'fine, hair-like roots' is a revision of [Ge
 <i>&ast;Ramut</i>
 </td>
 <td>
-'<span>fine, hair-like roots</span>' (<a href="../references.md#source-Geraghty1990">Geraghty1990: 69</a>)
+'<span>fine, hair-like roots</span>' (<a href="../sources/Geraghty1990">Geraghty1990: 69</a>)
 </td>
 </tr>
 <tr>
-<td>NNG</td><td>Lukep (Pono)</td><td><i>rami</i></td>
+<td>NNG</td><td><a href="../languages/lukeppono">Lukep (Pono)</a></td><td><i>rami</i></td>
 <td>
 '<span>roots</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Gumawana</td><td><i>lam</i></td>
+<td>PT</td><td><a href="../languages/gumawana">Gumawana</a></td><td><i>lam</i></td>
 <td>
 '<span>root</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Sariba</td><td><i>lam</i></td>
+<td>PT</td><td><a href="../languages/sariba">Sariba</a></td><td><i>lam</i></td>
 <td>
 '<span>root</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>ramu</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>ramu</i></td>
 <td>
 '<span>root</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tolai</td><td><i>ramu-</i></td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>ramu-</i></td>
 <td>
 '<span>feele:rs of a lobster</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Mono-Alu</td><td><i>lamutu-na</i></td>
+<td>MM</td><td><a href="../languages/monoalu">Mono-Alu</a></td><td><i>lamutu-na</i></td>
 <td>
 '<span>root</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Varisi</td><td><i>ramutu-na</i></td>
+<td>MM</td><td><a href="../languages/varisi">Varisi</a></td><td><i>ramutu-na</i></td>
 <td>
 '<span>root</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>(lau)lamu</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>(lau)lamu</i></td>
 <td>
 '<span>hairs on mango; fibre of coconut</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Ghari</td><td><i>lamu-na</i></td>
+<td>SES</td><td><a href="../languages/ghari">Ghari</a></td><td><i>lamu-na</i></td>
 <td>
 '<span>root</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Tolo</td><td><i>lamu-na</i></td>
+<td>SES</td><td><a href="../languages/tolo">Tolo</a></td><td><i>lamu-na</i></td>
 <td>
 '<span>(plant, tree +)root</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>ramu-ramu</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>ramu-ramu</i></td>
 <td>
 '<span>small fibrous aerial roots; loose ends of a bag, hanging string etc.</span>'</td>
 </tr>
@@ -1563,7 +1563,7 @@ The POc reconstruction _&ast;Ramut_ 'fine, hair-like roots' is a revision of [Ge
 
 Finally, there is some evidence that POc also had a term that denoted mangrove roots. Blust (ACD) reconstructs PMP _&ast;wakat_ 'mangrove root' along with a possible doublet _&ast;waket_. He notes that the loss of final consonants in most Oceanic languages makes it difficult to distinguish between reflexes of PMP _&ast;wakaR_ 'root' and _&ast;wakat_ 'mangrove root', but states that close attention to semantics suggests that only _&ast;wakaR_ 'root' survived in POc. Although I have found no reflexes of _&ast;wak[a,e]t_ in Oceanic languages which retain word-final consonants, the presence of both _&ast;wakaR_ 'roots (in general)' and _&ast;wako(t)_ 'mangrove root' in POc is suggested by the apparently distinct reflexes in Kosraean, namely _ɒkɒk_ 'mangrove root' and _okᴂ_ '(N) root'; (vi) 'begin to have roots'. Tawala _wakoya_ 'mangrove' supports the reconstruction of POc _&ast;wako(t)_ with an _&ast;o_, reflecting PMP _&ast;waket_.
 
-In English 'mangrove' refers to a variety of trees and shrubs that grow in coastal swamps and tidal estuaries and are characterised by their ability to tolerate salt water and their possession of different forms of aerial roots (OED). Species of the genus Rhizophora which grow in the wetter outer areas of the mangrove swamp have interlacing prop-roots, whereas those of the genus Bruguiera tend to grow in drier areas with pneumatophores (breathing roots) projecting upward above the surface of the mud. Non-Oceanic cognates suggest that PMP _&ast;wak[a,e]t_ 'mangrove root' probably referred to the prop-roots of Rhizophora mangroves. A few Western Malaya-Polynesian reflexes specifically denote prop-roots of mangroves and Central Malaya-Polynesian reflexes, which mostly refer to the mangrove tree rather than the root, tend to denote Rhizophora mangroves too. Thus it seems likely that POc _&ast;wako(t)_ also referred to the prop-roots of Rhizophora mangroves and not simply the aerial roots of mangroves in general. Ross (ch.6, §2.1) suggests that POc _&ast;wako(t)_ may also have served as a generic term for Rhizophora, citing the glosses below which refer to the tree and not just the roots.
+In English 'mangrove' refers to a variety of trees and shrubs that grow in coastal swamps and tidal estuaries and are characterised by their ability to tolerate salt water and their possession of different forms of aerial roots (OED). Species of the genus Rhizophora which grow in the wetter outer areas of the mangrove swamp have interlacing prop-roots, whereas those of the genus Bruguiera tend to grow in drier areas with pneumatophores (breathing roots) projecting upward above the surface of the mud. Non-Oceanic cognates suggest that PMP _&ast;wak[a,e]t_ 'mangrove root' probably referred to the prop-roots of Rhizophora mangroves. A few Western Malaya-Polynesian reflexes specifically denote prop-roots of mangroves and Central Malaya-Polynesian reflexes, which mostly refer to the mangrove tree rather than the root, tend to denote Rhizophora mangroves too. Thus it seems likely that POc _&ast;wako(t)_ also referred to the prop-roots of Rhizophora mangroves and not simply the aerial roots of mangroves in general. Ross ([ch.6, §2.1](../contributions/3-6#s-2-1)) suggests that POc _&ast;wako(t)_ may also have served as a generic term for Rhizophora, citing the glosses below which refer to the tree and not just the roots.
 
 
 <a id="p-102"></a>
@@ -1611,7 +1611,7 @@ In English 'mangrove' refers to a variety of trees and shrubs that grow in coast
 <i>&ast;waket</i>
 </td>
 <td>
-'<span>mangrove root</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>mangrove root</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -1623,22 +1623,22 @@ In English 'mangrove' refers to a variety of trees and shrubs that grow in coast
 '<span>mangrove root</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Tawala</td><td><i>wakoya</i></td>
+<td>PT</td><td><a href="../languages/tawala">Tawala</a></td><td><i>wakoya</i></td>
 <td>
 '<span>mangrove</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kosraean</td><td><i>ɒk-ɒk</i></td>
+<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td><i>ɒk-ɒk</i></td>
 <td>
 '<span>mangrove root</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Mokilese</td><td><i>ak</i></td>
+<td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td><i>ak</i></td>
 <td>
 '<span>mangrove</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Ponapean</td><td><i>ak</i></td>
+<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td><i>ak</i></td>
 <td>
 '<span>generic for mangroves</span>'</td>
 </tr>
@@ -1663,7 +1663,7 @@ A generic term for leaf, POc _&ast;raun_, is clearly reconstructable and reflect
 <i>&ast;dahun</i>
 </td>
 <td>
-'<span>leaf</span>' (<a href="../references.md#source-Blust1993">Blust1993</a>)
+'<span>leaf</span>' (<a href="../sources/Blust1993">Blust1993</a>)
 </td>
 </tr>
 <tr>
@@ -1675,177 +1675,177 @@ A generic term for leaf, POc _&ast;raun_, is clearly reconstructable and reflect
 '<span>leaf, general term for leaves of all types of plants</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Titan</td><td><i>laú-n</i></td>
+<td>Adm</td><td><a href="../languages/titan">Titan</a></td><td><i>laú-n</i></td>
 <td>
 '<span>leaf, hair, feathers</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Lou</td><td><i>rɛi-n</i></td>
+<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td><i>rɛi-n</i></td>
 <td>
 '<span>leaf</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Manam</td><td><i>dau</i></td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>dau</i></td>
 <td>
 '<span>leaf; (temporary) dwelling</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Mangseng</td><td><i>ðioŋ</i></td>
+<td>NNG</td><td><a href="../languages/mangseng">Mangseng</a></td><td><i>ðioŋ</i></td>
 <td>
 '<span>leaf, feather</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Poeng</td><td><i>lau</i></td>
+<td>NNG</td><td><a href="../languages/poeng">Poeng</a></td><td><i>lau</i></td>
 <td>
 '<span>leaf; paper; (roof) tin; grass roof; letter</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Lukep (Pono)</td><td><i>rau</i></td>
+<td>NNG</td><td><a href="../languages/lukeppono">Lukep (Pono)</a></td><td><i>rau</i></td>
 <td>
 '<span>paper, leaf, kina notes</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Lukep (Pono)</td><td><i>raunu</i></td>
+<td>NNG</td><td><a href="../languages/lukeppono">Lukep (Pono)</a></td><td><i>raunu</i></td>
 <td>
 '<span>leaf, hair</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Sissano-Arop</td><td><i>royn</i></td>
+<td>NNG</td><td><a href="../languages/sissanoarop">Sissano-Arop</a></td><td><i>royn</i></td>
 <td>
 '<span>leaf, cloth</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Hote</td><td><i>ŋauŋ</i></td>
+<td>NNG</td><td><a href="../languages/hote">Hote</a></td><td><i>ŋauŋ</i></td>
 <td>
 '<span>hair; leaf</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Gumawana</td><td><i>yao</i></td>
+<td>PT</td><td><a href="../languages/gumawana">Gumawana</a></td><td><i>yao</i></td>
 <td>
 '<span>leaf</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>rau</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>rau</i></td>
 <td>
 '<span>leaf</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>rau</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>rau</i></td>
 <td>
 '<span>a leaf</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>rau-rau</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>rau-rau</i></td>
 <td>
 '<span>leaves, foliage, leafage</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Tolo</td><td><i>rau</i></td>
+<td>SES</td><td><a href="../languages/tolo">Tolo</a></td><td><i>rau</i></td>
 <td>
 '<span>(plants, tree +) leaves</span>' (<span>generic</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td>Longgu</td><td><i>rau-i</i></td>
+<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td><i>rau-i</i></td>
 <td>
 '<span>leaf</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>rau</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>rau</i></td>
 <td>
 '<span>leaf; prefix to names of trees</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>nau-i</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>nau-i</i></td>
 <td>
 '<span>a leaf, flake</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>nau-nau-na</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>nau-nau-na</i></td>
 <td>
 '<span>its leaves</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Ambae</td><td><i>rau</i></td>
+<td>NCV</td><td><a href="../languages/ambae">Ambae</a></td><td><i>rau</i></td>
 <td>
 '<span>leaf</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Xârâcùù</td><td><i>nɛ̃</i></td>
+<td>NCal</td><td><a href="../languages/xaracuu">Xârâcùù</a></td><td><i>nɛ̃</i></td>
 <td>
 '<span>leaf; ornamental feather</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Paicî</td><td><i>doo-e</i></td>
+<td>NCal</td><td><a href="../languages/paici">Paicî</a></td><td><i>doo-e</i></td>
 <td>
 '<span>(its) leaf</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Iaai</td><td><i>lã-</i></td>
+<td>NCal</td><td><a href="../languages/iaai">Iaai</a></td><td><i>lã-</i></td>
 <td>
 '<span>leaf</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kiribatese</td><td><i>rau</i></td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>rau</i></td>
 <td>
 '<span>thatch made of pandanus leaves</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kosraean</td><td><i>ṣa</i></td>
+<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td><i>ṣa</i></td>
 <td>
 '<span>leaf</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Trukese</td><td><i>ṭṣə̄</i></td>
+<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td><i>ṭṣə̄</i></td>
 <td>
 '<span>leaf, sheet</span>' (<span>cf. <em>ṭṣə̄ rii</em> 'coconut leaf, as distinct from frond'</span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td>Woleaian</td><td><i>ṣø</i></td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>ṣø</i></td>
 <td>
 '<span>leaf, foliage, leafage</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Carolinian</td><td><i>ṣə̄</i></td>
+<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td><i>ṣə̄</i></td>
 <td>
 '<span>leaf with broad surface, as a banana or taro leaf</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>drau</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>drau</i></td>
 <td>
 '<span>leaf of a tree, a hair of the head</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>rau</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>rau</i></td>
 <td>
 '<span>leaf; a hair (of head); page, leaf of paper</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>raurau</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>raurau</i></td>
 <td>
 '<span>leaves; greens, leafy vegetables</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>lau</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>lau</i></td>
 <td>
 '<span>leaf; sheet, layer of paper or board</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>lau</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>lau</i></td>
 <td>
 '<span>leaf</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>rau</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>rau</i></td>
 <td>
  (<span>classifier for flat objects, hence 'leaf, sheet' etc</span>); '<span>sago leaf thatch sheet</span>'; '<span>thatch (generic)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>rau (rakau)</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>rau (rakau)</i></td>
 <td>
 '<span>(tree) leaves; vegetation, vegetable food</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>lau</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>lau</i></td>
 <td>
 '<span>leaf; blade; thatch</span>'</td>
 </tr>
@@ -1908,20 +1908,20 @@ Anejom is in between these two extremes with some compound terms, such as _neri-
 
 <a id="p-106"></a>
 
-Also of note is that many languages have distinctive labels for leaves of the same sets of plants. So the languages in Table 4.8 all have names for coconut fronds, for pandanus leaves, and for taro leaves, while with other types of plants, such as betel pepper or sago, only one or two of the languages have specific terms. It is apparent that the types of leaves which have distinctive names in a language are those which have some cultural use or other significance. Thus many Oceanic languages have several terms for coconut leaves, apparently reflecting the different uses of different growth stages of them within Oceanic societies. [Firth](../references.md#source-Firth1985) ([1985](../references.md#source-Firth1985): 92-293) writes of the great variety of uses of parts of a coconut palm in Tikopia, including 'fresh leaves for floor mats (_tapakau_) and rough baskets (_popora_); dry leaves for torches (_afi_); and immature leaves (_sakilo_) for decoration'. Lewo has three terms that denote coconut leaves, namely _mamaru_ 'leaf of coconut (green)', _masuge_ 'coconut leaf dry' and _purukupi_ 'coconut frond', distinguishing between green and dry coconut leaves. This distinction is one that is often lexicalised in Oceanic languages. Thus Wayan _basilele_ 'coconut leaf, dry or green' versus _sāsā_ 'dry coconut leaf, Lou _liɛn_ 'unopened coconut leaf versus _sulan_ 'dry coconut leaf and Chuukese _pāyiɾɨ_ 'coconut leaf and _wupʷut_ 'young coconut leaf (still light in colour)'. In other languages, such as Takia, the different terms for coconut leaves seem to directly reflect different uses, thus _bombom_ 'coconut leaves (used for roofing)' and _luŋ_ 'coconut leaf (used for perpetual fire)'. The significance of the terms for dry coconut leaves also seems to be related to usage, for torches (e.g. Ramoaaina _ulu_ 'leaf of coconut palm, (coconut leaf) torch') or for various woven items, including mats, baskets and the roofing and walls of houses (e.g. Manam _rigina_ 'coconut fronds (plaited), used as mats and roofing and siding for houses', Lukep _sal_ 'coconut leaf fence/enclosure' and Sursurunga _ber_ 'coconut leaf; mat made from coconut leaf).
+Also of note is that many languages have distinctive labels for leaves of the same sets of plants. So the languages in Table 4.8 all have names for coconut fronds, for pandanus leaves, and for taro leaves, while with other types of plants, such as betel pepper or sago, only one or two of the languages have specific terms. It is apparent that the types of leaves which have distinctive names in a language are those which have some cultural use or other significance. Thus many Oceanic languages have several terms for coconut leaves, apparently reflecting the different uses of different growth stages of them within Oceanic societies. [Firth](../sources/Firth1985) ([1985](../sources/Firth1985): 92-293) writes of the great variety of uses of parts of a coconut palm in Tikopia, including 'fresh leaves for floor mats (_tapakau_) and rough baskets (_popora_); dry leaves for torches (_afi_); and immature leaves (_sakilo_) for decoration'. Lewo has three terms that denote coconut leaves, namely _mamaru_ 'leaf of coconut (green)', _masuge_ 'coconut leaf dry' and _purukupi_ 'coconut frond', distinguishing between green and dry coconut leaves. This distinction is one that is often lexicalised in Oceanic languages. Thus Wayan _basilele_ 'coconut leaf, dry or green' versus _sāsā_ 'dry coconut leaf, Lou _liɛn_ 'unopened coconut leaf versus _sulan_ 'dry coconut leaf and Chuukese _pāyiɾɨ_ 'coconut leaf and _wupʷut_ 'young coconut leaf (still light in colour)'. In other languages, such as Takia, the different terms for coconut leaves seem to directly reflect different uses, thus _bombom_ 'coconut leaves (used for roofing)' and _luŋ_ 'coconut leaf (used for perpetual fire)'. The significance of the terms for dry coconut leaves also seems to be related to usage, for torches (e.g. Ramoaaina _ulu_ 'leaf of coconut palm, (coconut leaf) torch') or for various woven items, including mats, baskets and the roofing and walls of houses (e.g. Manam _rigina_ 'coconut fronds (plaited), used as mats and roofing and siding for houses', Lukep _sal_ 'coconut leaf fence/enclosure' and Sursurunga _ber_ 'coconut leaf; mat made from coconut leaf).
 
-Pandanus leaves are often more important than coconut leaves for weaving in Oceanic societies. [Firth](../references.md#source-Firth1985) ([1985](../references.md#source-Firth1985): 105-106, 186) describes the use of the leaves of different types of pandanus for weaving in Tikopia. Thus the leaves of _fara_ 'pandanus, narrow stiff leaves, single tall trunk' are used for coarse mats and sewing coconut fibre bags and the leaves of _kie_ 'pandanus (sp. similar to Pandanus odoratissimus)' are used for fine mats. However, it seems that languages tend to only have a single term for pandanus leaves, if they have one at all. The situation with sago leaves is somewhat similar. Most dictionaries have terms which denote sago leaf thatch, and sago leaves are clearly the most used leaf for making thatch amongst Oceanic societies, but a term for sago leaves is found in only a scattering of languages (e.g. Titan _kaliŋat_ 'sago leaf (shingles)', Mapos Buang _ngemŋ_ 'sago leaves (used for making grass skirts)', Mangap _ram_ 'new leaves of sago (used for decoration)' and Tolo _hatsira_ 'sago palm leaf).
+Pandanus leaves are often more important than coconut leaves for weaving in Oceanic societies. [Firth](../sources/Firth1985) ([1985](../sources/Firth1985): 105-106, 186) describes the use of the leaves of different types of pandanus for weaving in Tikopia. Thus the leaves of _fara_ 'pandanus, narrow stiff leaves, single tall trunk' are used for coarse mats and sewing coconut fibre bags and the leaves of _kie_ 'pandanus (sp. similar to Pandanus odoratissimus)' are used for fine mats. However, it seems that languages tend to only have a single term for pandanus leaves, if they have one at all. The situation with sago leaves is somewhat similar. Most dictionaries have terms which denote sago leaf thatch, and sago leaves are clearly the most used leaf for making thatch amongst Oceanic societies, but a term for sago leaves is found in only a scattering of languages (e.g. Titan _kaliŋat_ 'sago leaf (shingles)', Mapos Buang _ngemŋ_ 'sago leaves (used for making grass skirts)', Mangap _ram_ 'new leaves of sago (used for decoration)' and Tolo _hatsira_ 'sago palm leaf).
 
 Names for types of taro leaves, on the other hand, are apparently distinguished in Oceanic languages on the basis of their value as food. For instance, Kaulong has three terms _pasu_ 'taro leaf (mature)', _sulak_ 'taro leaf (young)' and _talan_ 'taro leaves that are not suitable for eating'. In other languages there will be a single term for taro leaves (e.g. Arosi _bʷara_ 'leaf of taro' and Drehet _moruŋ_ 'taro leaf).
 
 
 <a id="p-107"></a>
 
-How many terms for specific types of leaves can be reconstructed for POc? Across the languages in Table 4.8 it can be seen that not many of the terms are cognate. Thus while all the languages have terms for coconut and taro leaves, none of the terms are cognate. This is in part not unexpected as the terms in Table 4.8 often refer to coconut leaves of different growth stages. So while Anejom has terms for dry coconut leaves, one of the Arosi terms and the Niuean term denote coconut leaves in general. But even looking at just the terms for dry coconut leaves in Table 4.8, there are still no forms that are cognate (e.g. Iduna _tafa_ '(dry) coconut leaves used as torch', Arosi _buroŋa_ 'dry coconut leaf, Anejom _inmatiθve_ 'dry coconut leaf' and _nilev_ 'dry coconut-leaf used in making house-wall'). Table 4.8 seems to typify a general trend across Oceanic languages, such that while languages have terms with similar meanings they are not often cognate. Certain terms associated with coconut fronds are nonetheless reconstructable, and their meaning also includes a function for which they are used: POc _&ast;sulu(q)_ 'dry coconut leaf torch; dry coconut leaf and POc _&ast;ramaR_ 'coconut leaf used as a torch when fishing' (ch.12, §5.1.2), and POc _&ast;no(k,g)o_ 'midrib or spine of coconut leaflet; broom made therefrom' (ch.12, §5.1.3).
+How many terms for specific types of leaves can be reconstructed for POc? Across the languages in Table 4.8 it can be seen that not many of the terms are cognate. Thus while all the languages have terms for coconut and taro leaves, none of the terms are cognate. This is in part not unexpected as the terms in Table 4.8 often refer to coconut leaves of different growth stages. So while Anejom has terms for dry coconut leaves, one of the Arosi terms and the Niuean term denote coconut leaves in general. But even looking at just the terms for dry coconut leaves in Table 4.8, there are still no forms that are cognate (e.g. Iduna _tafa_ '(dry) coconut leaves used as torch', Arosi _buroŋa_ 'dry coconut leaf, Anejom _inmatiθve_ 'dry coconut leaf' and _nilev_ 'dry coconut-leaf used in making house-wall'). Table 4.8 seems to typify a general trend across Oceanic languages, such that while languages have terms with similar meanings they are not often cognate. Certain terms associated with coconut fronds are nonetheless reconstructable, and their meaning also includes a function for which they are used: POc _&ast;sulu(q)_ 'dry coconut leaf torch; dry coconut leaf and POc _&ast;ramaR_ 'coconut leaf used as a torch when fishing' ([ch.12, §5.1.2](../contributions/3-12#s-5-1-2)), and POc _&ast;no(k,g)o_ 'midrib or spine of coconut leaflet; broom made therefrom' ([ch.12, §5.1.3](../contributions/3-12#s-5-1-3)).
 
-Pandanus and sago leaves were apparently as important as coconut leaves in many traditional Oceanic societies. A POc term _&ast;qatop_ 'thatch, roof can be reconstructed (see vol.1, ch.3, §3.4), with reflexes in many languages that refer specifically to sago-leaf thatch. In SE Solomonic and North-Central Vanuatu languages reflexes of this term denote the sago palm, as well as sago-leaf thatch. In Arosi that _ao_ 'sago palm' can refer to the leaves is evident from compounds such as _adodo ao_ 'to lay together the leaves in bundles', _susuʔi ao_ 'layers of sewn leaves put ready for thatching' and _taba ao_ 'to go out and cut sago palm leaves'. However, reflexes of POc _&ast;qatop_ that refer specifically to sago palm leaves are not widespread, and so unlike POc _&ast;sulu(q)_, a secondary 'leaf' meaning does not appear to be reconstructable. In fact, there does not seem to have been a distinctive term for sago leaves, although a number of modern languages do have such terms. The same is true for pandanus leaves. They appear to be much used for weaving in many regions of Oceania and known for finer weaving than coconut leaves, but a distinctive term does not appear to be reconstructable for POc. [Bender et al.](../references.md#source-Benderetal2003) ([2003](../references.md#source-Benderetal2003): 52) reconstruct a Proto Micronesian form _&ast;maŋu_ 'pandanus leaf, but the etymology of this form is unclear. [Geraghty](../references.md#source-Geraghty1990) ([1990](../references.md#source-Geraghty1990): 64) suggests it is a reflex of POc _&ast;maRaŋo_ 'to be dry, withered', supported by the formal correspondence and the fact that in a number of Micronesian languages the meanings are restricted to dry pandanus leaves and in Ponapean _mɛŋ_ has the meaning 'withered, dry, dead vegetation'. Ross (ch.11, §2.5) suggests that Marshallese _māŋ_ 'pandanus leaves', Chuukese _məŋ_ 'pandanus leaf, especially when softened by a shell' and Woleaian _maŋɨ_ 'pandanus leaf are reflexes of POc _&ast;mʷaŋa_ 'Pandanus sp., perhaps Pandanus conoideus' supported by Kosraean _mʷeŋ_ 'pandanus'. It seems likely that there has been a conflation of these two POc terms in Proto Micronesian. Ross reconstructs several POc terms for different types of pandanus and it is possible that these terms could be used to refer to the leaves as well as the tree, especially as only the leaves of certain kinds of pandanus would have been valued for weaving.
+Pandanus and sago leaves were apparently as important as coconut leaves in many traditional Oceanic societies. A POc term _&ast;qatop_ 'thatch, roof can be reconstructed (see [vol.1, ch.3, §3.4](../contributions/1-3#s-3-4)), with reflexes in many languages that refer specifically to sago-leaf thatch. In SE Solomonic and North-Central Vanuatu languages reflexes of this term denote the sago palm, as well as sago-leaf thatch. In Arosi that _ao_ 'sago palm' can refer to the leaves is evident from compounds such as _adodo ao_ 'to lay together the leaves in bundles', _susuʔi ao_ 'layers of sewn leaves put ready for thatching' and _taba ao_ 'to go out and cut sago palm leaves'. However, reflexes of POc _&ast;qatop_ that refer specifically to sago palm leaves are not widespread, and so unlike POc _&ast;sulu(q)_, a secondary 'leaf' meaning does not appear to be reconstructable. In fact, there does not seem to have been a distinctive term for sago leaves, although a number of modern languages do have such terms. The same is true for pandanus leaves. They appear to be much used for weaving in many regions of Oceania and known for finer weaving than coconut leaves, but a distinctive term does not appear to be reconstructable for POc. [Bender et al.](../sources/Benderetal2003) ([2003](../sources/Benderetal2003): 52) reconstruct a Proto Micronesian form _&ast;maŋu_ 'pandanus leaf, but the etymology of this form is unclear. [Geraghty](../sources/Geraghty1990) ([1990](../sources/Geraghty1990): 64) suggests it is a reflex of POc _&ast;maRaŋo_ 'to be dry, withered', supported by the formal correspondence and the fact that in a number of Micronesian languages the meanings are restricted to dry pandanus leaves and in Ponapean _mɛŋ_ has the meaning 'withered, dry, dead vegetation'. Ross ([ch.11, §2.5](../contributions/3-11#s-2-5)) suggests that Marshallese _māŋ_ 'pandanus leaves', Chuukese _məŋ_ 'pandanus leaf, especially when softened by a shell' and Woleaian _maŋɨ_ 'pandanus leaf are reflexes of POc _&ast;mʷaŋa_ 'Pandanus sp., perhaps Pandanus conoideus' supported by Kosraean _mʷeŋ_ 'pandanus'. It seems likely that there has been a conflation of these two POc terms in Proto Micronesian. Ross reconstructs several POc terms for different types of pandanus and it is possible that these terms could be used to refer to the leaves as well as the tree, especially as only the leaves of certain kinds of pandanus would have been valued for weaving.
 
-POc _&ast;gal(a,o)_ 'taro leaves' is tentatively reconstructed by Ross (this volume, ch.9, §2.2.1), supported by the cognate set below.
+POc _&ast;gal(a,o)_ 'taro leaves' is tentatively reconstructed by Ross (this volume, [ch.9, §2.2.1](../contributions/3-9#s-2-2-1)), supported by the cognate set below.
 
 <table id="3-4-2-5-107-POc-galao-a">
 <tr>
@@ -1930,31 +1930,31 @@ POc _&ast;gal(a,o)_ 'taro leaves' is tentatively reconstructed by Ross (this vol
 <i>&ast;gal(a,o)</i>
 </td>
 <td>
-'<span>taro leaves</span>' (<a href="../references.md#source-Ross1996d">Ross1996d: 190</a>)
+'<span>taro leaves</span>' (<a href="../sources/Ross1996d">Ross1996d: 190</a>)
 </td>
 </tr>
 <tr>
-<td>Adm</td><td>Baluan</td><td><i>gal</i></td>
+<td>Adm</td><td><a href="../languages/baluan">Baluan</a></td><td><i>gal</i></td>
 <td>
 '<span>taro</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Labu</td><td><i>ka</i></td>
+<td>NNG</td><td><a href="../languages/labu">Labu</a></td><td><i>ka</i></td>
 <td>
 '<span>taro</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nakanai</td><td><i>gala-gala</i></td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>gala-gala</i></td>
 <td>
 '<span>taro leaves</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Vitu</td><td><i>galo</i></td>
+<td>MM</td><td><a href="../languages/vitu">Vitu</a></td><td><i>galo</i></td>
 <td>
 '<span>taro leaves</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Kwaio</td><td><i>gala-</i></td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>gala-</i></td>
 <td>
 '<span>taro shoot</span>'</td>
 </tr>
@@ -1965,7 +1965,7 @@ POc _&ast;gal(a,o)_ 'taro leaves' is tentatively reconstructed by Ross (this vol
 
 <a id="p-108"></a>
 
-[Ross](../references.md#source-Ross1996d) ([1996d](../references.md#source-Ross1996d): 175) also reconstructs POc _&ast;was(i,a)_ 'edible greens, Abelmoschus manihot (syn. Hibiscus manihot)' that apparently denoted edible green leaves, as well as the most salient member of the class, Abelmoschus manihot.
+[Ross](../sources/Ross1996d) ([1996d](../sources/Ross1996d): 175) also reconstructs POc _&ast;was(i,a)_ 'edible greens, Abelmoschus manihot (syn. Hibiscus manihot)' that apparently denoted edible green leaves, as well as the most salient member of the class, Abelmoschus manihot.
 
 
 <a id="s-2-6"></a>
@@ -1975,9 +1975,9 @@ POc _&ast;gal(a,o)_ 'taro leaves' is tentatively reconstructed by Ross (this vol
 
 As can be seen from Table 4.9 Nduke, Wayan and Tikopia all have several terms for the new growth of plants. Wayan, for example, has _ðuli_ 'sucker of plant', _sō_ 'young, tender leaves at the top of a plant', _gau_ 'suckers', _tubu_ 'new growth, young shoot or sprout' and _bēbē_ 'suckers or shoots of taro or tobacco plant'. Wayan also has a more specific term, _soba_, that denotes banana suckers. Tikopia also has a number of general terms for the new growth of plants, and a term _roro_ that specifically denotes the new growth of a coconut palm. In the data for Nduke, on the other hand, there are a number of general terms for suckers and shoots, but none that denote the new growth of particular kinds of plants only.
 
-The number of terms for shoots and suckers in modern Oceanic languages reflects the importance of these parts in the propagation of food crops. [French-Wright](../references.md#source-FrenchWright1983) ([1983](../references.md#source-FrenchWright1983): 193) notes that taros, yams, bananas and breadfruit 'are fairly easily generated by means of suckers' and that 'today many daughter communities rarely use seeds, although the gourd, which is grown from seed, is an exception'. He also writes that 'the POc gardener probably relied to a large extent upon seedlings, cuttings and seed tubers for the propagation of food plants', and he reconstructs a number of POc terms that provide evidence for such horticultural practices.
+The number of terms for shoots and suckers in modern Oceanic languages reflects the importance of these parts in the propagation of food crops. [French-Wright](../sources/FrenchWright1983) ([1983](../sources/FrenchWright1983): 193) notes that taros, yams, bananas and breadfruit 'are fairly easily generated by means of suckers' and that 'today many daughter communities rarely use seeds, although the gourd, which is grown from seed, is an exception'. He also writes that 'the POc gardener probably relied to a large extent upon seedlings, cuttings and seed tubers for the propagation of food plants', and he reconstructs a number of POc terms that provide evidence for such horticultural practices.
 
-The most general term for shoots or suckers in POc appears to have been _&ast;[s,j]uli(q)_, reconstructed as _&ast;suli(q)_ by [French-Wright](../references.md#source-FrenchWright1983) ([1983](../references.md#source-FrenchWright1983): 78). [Ross](../references.md#source-Ross1996d) ([1996d](../references.md#source-Ross1996d): 179) reconstructs POc _&ast;[s,j]uli(q)_ with a general meaning of propagation material (e.g. cutting or shoot), as well as the more specific meaning of banana or taro shoot, as it is this more specific meaning that is reflected in many modern Oceanic languages. The Mota, Wayan and Tongan glosses suggest that this term could be used figuratively to refer to one's children or offspring.
+The most general term for shoots or suckers in POc appears to have been _&ast;[s,j]uli(q)_, reconstructed as _&ast;suli(q)_ by [French-Wright](../sources/FrenchWright1983) ([1983](../sources/FrenchWright1983): 78). [Ross](../sources/Ross1996d) ([1996d](../sources/Ross1996d): 179) reconstructs POc _&ast;[s,j]uli(q)_ with a general meaning of propagation material (e.g. cutting or shoot), as well as the more specific meaning of banana or taro shoot, as it is this more specific meaning that is reflected in many modern Oceanic languages. The Mota, Wayan and Tongan glosses suggest that this term could be used figuratively to refer to one's children or offspring.
 
 The initial consonant is uncertain because Manam and Tawala reflect _&ast;s_ and not _&ast;j_, but Numbami, Lukep and Gela reflect _&ast;j_ and not _&ast;s_. In the other languages the initial consonant reflects both _&ast;s_ and _&ast;j_.
 
@@ -1988,7 +1988,7 @@ The initial consonant is uncertain because Manam and Tawala reflect _&ast;s_ and
 <i>&ast;suliq</i>
 </td>
 <td>
-'<span>runner, sucker, shoot</span>' (<a href="../references.md#source-Blust1972a">Blust1972a</a>)
+'<span>runner, sucker, shoot</span>' (<a href="../sources/Blust1972a">Blust1972a</a>)
 </td>
 </tr>
 <tr>
@@ -1997,111 +1997,111 @@ The initial consonant is uncertain because Manam and Tawala reflect _&ast;s_ and
 <i>&ast;[s,j]uli(q)</i>
 </td>
 <td>
-'<span>banana or taro sucker, slip, cultting, shoot (i.e. propagation material)</span>' (<a href="../references.md#source-Ross1996d">Ross1996d: 179</a>)
+'<span>banana or taro sucker, slip, cultting, shoot (i.e. propagation material)</span>' (<a href="../sources/Ross1996d">Ross1996d: 179</a>)
 </td>
 </tr>
 <tr>
-<td>Adm</td><td>Lou</td><td><i>sili-n</i></td>
+<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td><i>sili-n</i></td>
 <td>
 '<span>(banana, pineapple) sprout</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Loniu</td><td><i>cili</i></td>
+<td>Adm</td><td><a href="../languages/loniu">Loniu</a></td><td><i>cili</i></td>
 <td>
 '<span>sprout, especially banana shoot</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Tami</td><td><i>jili</i></td>
+<td>NNG</td><td><a href="../languages/tami">Tami</a></td><td><i>jili</i></td>
 <td>
 '<span>taro sucker</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Numbami</td><td><i>duli</i></td>
+<td>NNG</td><td><a href="../languages/numbami">Numbami</a></td><td><i>duli</i></td>
 <td>
 '<span>taro sucker</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Manam</td><td><i>suli</i></td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>suli</i></td>
 <td>
 '<span>banana slip, cutting</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Tawala</td><td><i>huni</i></td>
+<td>PT</td><td><a href="../languages/tawala">Tawala</a></td><td><i>huni</i></td>
 <td>
 '<span>taro</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Kilivila</td><td><i>uli</i></td>
+<td>PT</td><td><a href="../languages/kilivila">Kilivila</a></td><td><i>uli</i></td>
 <td>
 '<span>taro</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>dui</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>dui</i></td>
 <td>
 '<span>banana pllant</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Ramoaaina</td><td><i>ul-ul</i></td>
+<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>ul-ul</i></td>
 <td>
 '<span>put forth new leaves; of tan (tree sp.) only</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>duli</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>duli</i></td>
 <td>
 '<span>a sucker, of banana</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>suliu</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>suliu</i></td>
 <td>
 '<span>sucker from roots of a plant, shoot from tubers</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>sulu-i</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>sulu-i</i></td>
 <td>
 '<span>sucker, met. children, offspring</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Sye</td><td><i>nelye-</i></td>
+<td>SV</td><td><a href="../languages/sye">Sye</a></td><td><i>nelye-</i></td>
 <td>
 '<span>sucker, shoot</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Anejom</td><td><i>nisci-</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>nisci-</i></td>
 <td>
 '<span>(plant) shoot</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kosraean</td><td><i>sulu-n</i></td>
+<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td><i>sulu-n</i></td>
 <td>
 '<span>young shoot of, sprout of</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>ðuli</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>ðuli</i></td>
 <td>
 '<span>(plant, esp. banana, taro) sucker</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>suli</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>suli</i></td>
 <td>
 '<span>(plant, esp. banana, taro) sucker</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>huli</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>huli</i></td>
 <td>
 '<span>shoot, sprout, twig, or sucker; scion, descendant</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>huli</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>huli</i></td>
 <td>
 '<span>shoot, young plant</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>suli</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>suli</i></td>
 <td>
 '<span>(obsolete) sucker of a banana plant, heir</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Hawaiian</td><td><i>huli</i></td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>huli</i></td>
 <td>
 '<span>taro top, used for planting</span>'</td>
 </tr>
@@ -2145,7 +2145,7 @@ The initial consonant is uncertain because Manam and Tawala reflect _&ast;s_ and
 
 <a id="p-110"></a>
 
-[French-Wright](../references.md#source-FrenchWright1983) ([1983](../references.md#source-FrenchWright1983): 60) also reconstructs a very similar term with the meaning 'to transplant'. Again there is variation in the initial consonant with Roviana reflecting POc _&ast;j_ and Arosi reflecting POc _&ast;s_. He suggests (1983: 61-62) that _&ast;(s,j)uli_ could be used in POc to denote the practice of growing taros from suckers which are left in the ground when the mature taro is harvested and then transplanted when a new garden has been prepared, and to the transplanting of fruit trees grown initially from seeds, but replanted to a carefully chosen spot when still small. However, the POc reconstruction with this meaning is not well supported, as it is reflected in only one NW Solomonic and one SE Solomonic language.
+[French-Wright](../sources/FrenchWright1983) ([1983](../sources/FrenchWright1983): 60) also reconstructs a very similar term with the meaning 'to transplant'. Again there is variation in the initial consonant with Roviana reflecting POc _&ast;j_ and Arosi reflecting POc _&ast;s_. He suggests (1983: 61-62) that _&ast;(s,j)uli_ could be used in POc to denote the practice of growing taros from suckers which are left in the ground when the mature taro is harvested and then transplanted when a new garden has been prepared, and to the transplanting of fruit trees grown initially from seeds, but replanted to a carefully chosen spot when still small. However, the POc reconstruction with this meaning is not well supported, as it is reflected in only one NW Solomonic and one SE Solomonic language.
 
 <table id="3-4-2-6-110-POc-sjuli-a">
 <tr>
@@ -2154,16 +2154,16 @@ The initial consonant is uncertain because Manam and Tawala reflect _&ast;s_ and
 <i>&ast;(s,j)uli</i>
 </td>
 <td>
-'<span>to transplant</span>' (<a href="../references.md#source-FrenchWright1983">FrenchWright1983: 60</a>)
+'<span>to transplant</span>' (<a href="../sources/FrenchWright1983">FrenchWright1983: 60</a>)
 </td>
 </tr>
 <tr>
-<td>MM</td><td>Roviana</td><td><i>zuli</i></td>
+<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td><i>zuli</i></td>
 <td>
 '<span>to transplant seedlings etc</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>(u)suri</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>(u)suri</i></td>
 <td>
 '<span>to transplant</span>' (<span>source of u- not known.</span>)</td>
 </tr>
@@ -2171,7 +2171,7 @@ The initial consonant is uncertain because Manam and Tawala reflect _&ast;s_ and
 
 
 
-From the fact that modern languages tend to have several forms that denote new growth of plants, we would expect the same to be true of POc, but other terms with similar meanings are not easily reconstructable. However, there are two nominal terms which appear to be candidates. [Bender et al.](../references.md#source-Benderetal2003) ([2003](../references.md#source-Benderetal2003): 28) reconstruct Proto Oceanic _&ast;qili_ 'sprout, shoot' supported by reflexes in Micronesian languages and Nakanai. The combination of the lack of an initial consonant in the Micronesian languages and an initial _h-_ in Nakanai support the reconstruction of an initial _&ast;q_ in POc, and neither the Micronesian forms nor the Nakanai form are plausible reflexes of POc _&ast;[s,j]uli(q)_.
+From the fact that modern languages tend to have several forms that denote new growth of plants, we would expect the same to be true of POc, but other terms with similar meanings are not easily reconstructable. However, there are two nominal terms which appear to be candidates. [Bender et al.](../sources/Benderetal2003) ([2003](../sources/Benderetal2003): 28) reconstruct Proto Oceanic _&ast;qili_ 'sprout, shoot' supported by reflexes in Micronesian languages and Nakanai. The combination of the lack of an initial consonant in the Micronesian languages and an initial _h-_ in Nakanai support the reconstruction of an initial _&ast;q_ in POc, and neither the Micronesian forms nor the Nakanai form are plausible reflexes of POc _&ast;[s,j]uli(q)_.
 
 <table id="3-4-2-6-110-POc-qili-a">
 <tr>
@@ -2180,36 +2180,36 @@ From the fact that modern languages tend to have several forms that denote new g
 <i>&ast;qili</i>
 </td>
 <td>
-[N] '<span>sprout, shoot (esp. of banana or taro)</span>' (<a href="../references.md#source-Benderetal2003">Benderetal2003</a>)
+[N] '<span>sprout, shoot (esp. of banana or taro)</span>' (<a href="../sources/Benderetal2003">Benderetal2003</a>)
 </td>
 </tr>
 <tr>
-<td>MM</td><td>Nakanai</td><td><i>hili</i></td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>hili</i></td>
 <td>
 '<span>sprout of banana or something similar</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Marshallese</td><td><i>yil</i></td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>yil</i></td>
 <td>
 '<span>taro sprout; immature taro plant</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Ponapean</td><td><i>ili</i></td>
+<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td><i>ili</i></td>
 <td>
 '<span>(banana, breadfruit, taro) sucker</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Trukese</td><td><i>iɾi</i></td>
+<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td><i>iɾi</i></td>
 <td>
 '<span>(banana, taro, bamboo) shoot, short sucker, runner</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Woleaian</td><td><i>iɾi</i></td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>iɾi</i></td>
 <td>
 '<span>young shoots surrounding an old plant; a young plant</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Carolinian</td><td><i>il-il</i></td>
+<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td><i>il-il</i></td>
 <td>
 '<span>young taro shoots which develop from the mature taro root</span>'</td>
 </tr>
@@ -2232,22 +2232,22 @@ A third possible POc term for the new growth of plants is _&ast;rama_. This is n
 '<span>shoot, new leaf, seedling</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Lou</td><td><i>rɔmɔ-n</i></td>
+<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td><i>rɔmɔ-n</i></td>
 <td>
 '<span>taro shoot</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Mangap</td><td><i>ram</i></td>
+<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td><i>ram</i></td>
 <td>
 '<span>new leaves of sago, used for decoration</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Lukep (Pono)</td><td><i>lam</i></td>
+<td>NNG</td><td><a href="../languages/lukeppono">Lukep (Pono)</a></td><td><i>lam</i></td>
 <td>
 '<span>sago palm leaf decoration made from top shoot</span>' (<span>for †<em>ram</em></span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td>Sissano-Arop</td><td><i>rama-n</i></td>
+<td>NNG</td><td><a href="../languages/sissanoarop">Sissano-Arop</a></td><td><i>rama-n</i></td>
 <td>
 '<span>seedling, shoot, plant</span>'</td>
 </tr>
@@ -2267,57 +2267,57 @@ Taro is propagated by planting either the tops of large corms or the small sucke
 '<span>taro seedling</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Mutu</td><td><i>(do)uwe</i></td>
+<td>NNG</td><td><a href="../languages/mutu">Mutu</a></td><td><i>(do)uwe</i></td>
 <td>
 '<span>seed</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Tami</td><td><i>uwe</i></td>
+<td>NNG</td><td><a href="../languages/tami">Tami</a></td><td><i>uwe</i></td>
 <td>
 '<span>taro seedling</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Yabem</td><td><i>ʋwı</i></td>
+<td>NNG</td><td><a href="../languages/yabem">Yabem</a></td><td><i>ʋwı</i></td>
 <td>
 '<span>seedling</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Are</td><td><i>ube</i></td>
+<td>PT</td><td><a href="../languages/are">Are</a></td><td><i>ube</i></td>
 <td>
 '<span>taro tops for planting</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Gapapaiwa</td><td><i>uve</i></td>
+<td>PT</td><td><a href="../languages/gapapaiwa">Gapapaiwa</a></td><td><i>uve</i></td>
 <td>
 '<span>taro tops for planting</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Tawala</td><td><i>uwe</i></td>
+<td>PT</td><td><a href="../languages/tawala">Tawala</a></td><td><i>uwe</i></td>
 <td>
 '<span>taro seedling</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>uhe</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>uhe</i></td>
 <td>
 '<span>the end of yam, kept for planting, any seed for planting</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>uha</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>uha</i></td>
 <td>
 '<span>taro sp.</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Nyelâyu</td><td><i>(uk)owe</i></td>
+<td>NCal</td><td><a href="../languages/nyelayu">Nyelâyu</a></td><td><i>(uk)owe</i></td>
 <td>
 '<span>taro seedling</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Yuanga</td><td><i>uva</i></td>
+<td>NCal</td><td><a href="../languages/yuanga">Yuanga</a></td><td><i>uva</i></td>
 <td>
 '<span>taro seedling</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Pwapwa</td><td><i>upe</i></td>
+<td>NCal</td><td><a href="../languages/pwapwa">Pwapwa</a></td><td><i>upe</i></td>
 <td>
 '<span>taro seedling</span>'</td>
 </tr>
@@ -2325,7 +2325,7 @@ Taro is propagated by planting either the tops of large corms or the small sucke
 
 
 
-POc also appears to have had a couple of verbal terms that denoted new growth, including _&ast;tupul_ 'to send out new growth' ([French-Wright 1983](../references.md#source-FrenchWright1983): 78) and _&ast;pʷer(e)_ 'to sprout, grow' (see vol.1, ch.5, §9 for the reconstruction of other terms denoting growth).[^11]
+POc also appears to have had a couple of verbal terms that denoted new growth, including _&ast;tupul_ 'to send out new growth' ([French-Wright 1983](../sources/FrenchWright1983): 78) and _&ast;pʷer(e)_ 'to sprout, grow' (see [vol.1, ch.5, §9](../contributions/1-5#s-9) for the reconstruction of other terms denoting growth).[^11]
 
 <table id="3-4-2-6-111-POc-tupul-a">
 <tr>
@@ -2334,21 +2334,21 @@ POc also appears to have had a couple of verbal terms that denoted new growth, i
 <i>&ast;tupul</i>
 </td>
 <td>
-'<span>to send out new growth</span>' (<a href="../references.md#source-FrenchWright1983">FrenchWright1983: 78</a>)
+'<span>to send out new growth</span>' (<a href="../sources/FrenchWright1983">FrenchWright1983: 78</a>)
 </td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>tuhu-tuhu</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>tuhu-tuhu</i></td>
 <td>
 '<span>young shoot</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Roviana</td><td><i>tuvulu</i></td>
+<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td><i>tuvulu</i></td>
 <td>
 '<span>send out new growth, of trees that have been cut down</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>tuvu</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>tuvu</i></td>
 <td>
 '<span>shoot up, as of a tree</span>'</td>
 </tr>
@@ -2366,7 +2366,7 @@ POc also appears to have had a couple of verbal terms that denoted new growth, i
 '<span>to sprout, grow</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Lou</td><td><i>pʷe-pʷer</i></td>
+<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td><i>pʷe-pʷer</i></td>
 <td>
 [v] '<span>sprout</span>'</td>
 </tr>
@@ -2376,21 +2376,21 @@ POc also appears to have had a couple of verbal terms that denoted new growth, i
 <i>&ast;pʷere</i>
 </td>
 <td>
-'<span>to sprout, blossom</span>' (<a href="../references.md#source-Benderetal2003">Benderetal2003: 74</a>)
+'<span>to sprout, blossom</span>' (<a href="../sources/Benderetal2003">Benderetal2003: 74</a>)
 </td>
 </tr>
 <tr>
-<td>Mic</td><td>Kiribatese</td><td><i>pʷe-pʷe</i></td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>pʷe-pʷe</i></td>
 <td>
 [v] '<span>give off shoots</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Ponapean</td><td><i>pʷɛr</i></td>
+<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td><i>pʷɛr</i></td>
 <td>
 '<span>appear, blossom (of fruit and flowers)</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Carolinian</td><td><i>pʷær</i></td>
+<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td><i>pʷær</i></td>
 <td>
 [v] '<span>emerge, sprout; go all the way through a hole or tunnel</span>'; [N] '<span>sprout</span>'</td>
 </tr>
@@ -2435,7 +2435,7 @@ POc appears to have had two general terms for flower, _&ast;puŋa_, which contin
 <i>&ast;buŋa</i>
 </td>
 <td>
-'<span>flower, blossom; to flower, bear flowers; first-born child; skin rash, prickly heat; speckled (offish)</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>flower, blossom; to flower, bear flowers; first-born child; skin rash, prickly heat; speckled (offish)</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -2444,56 +2444,56 @@ POc appears to have had two general terms for flower, _&ast;puŋa_, which contin
 <i>&ast;puŋa</i>
 </td>
 <td>
-'<span>flower, blossom</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>flower, blossom</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
-<td>SES</td><td>Longgu</td><td><i>vuŋa</i></td>
+<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td><i>vuŋa</i></td>
 <td>
 [vi] '<span>to bud, blossom; to flower</span>'; [N] '<span>a bunch</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Lonwolwol</td><td><i>wuŋi-</i></td>
+<td>NCV</td><td><a href="../languages/lonwolwol">Lonwolwol</a></td><td><i>wuŋi-</i></td>
 <td>
 '<span>flower of</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Paamese</td><td><i>huŋe-</i></td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>huŋe-</i></td>
 <td>
 '<span>flower; tiny immature fruit on plants with no flowers</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Sesake</td><td><i>na-vuŋa</i></td>
+<td>NCV</td><td><a href="../languages/sesake">Sesake</a></td><td><i>na-vuŋa</i></td>
 <td>
 '<span>flower</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Lenakel</td><td><i>nouŋə-</i></td>
+<td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td><i>nouŋə-</i></td>
 <td>
 '<span>flower</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Xârâcùù</td><td><i>pũ</i></td>
+<td>NCal</td><td><a href="../languages/xaracuu">Xârâcùù</a></td><td><i>pũ</i></td>
 <td>
 '<span>flower</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Iaai</td><td><i>vʌŋo</i></td>
+<td>NCal</td><td><a href="../languages/iaai">Iaai</a></td><td><i>vʌŋo</i></td>
 <td>
 '<span>flower</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>fuŋa</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>fuŋa</i></td>
 <td>
 [N] '<span>flower, blossom</span>'; [V] '<span>be in bloom</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tokelauan</td><td><i>fuŋa</i></td>
+<td>Pn</td><td><a href="../languages/tokelauan">Tokelauan</a></td><td><i>fuŋa</i></td>
 <td>
 '<span>flower, blossom</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Luangiua</td><td><i>puŋa</i></td>
+<td>Pn</td><td><a href="../languages/luangiua">Luangiua</a></td><td><i>puŋa</i></td>
 <td>
 '<span>coconut flower, coconut seeds</span>'</td>
 </tr>
@@ -2513,36 +2513,36 @@ The Fijian, Polynesian and Nakanai forms below suggest the reconstruction of _&a
 <i>&ast;see</i>
 </td>
 <td>
-'<span>flower</span>' (<a href="../references.md#source-Geraghty1983">Geraghty1983</a>)
+'<span>flower</span>' (<a href="../sources/Geraghty1983">Geraghty1983</a>)
 </td>
 </tr>
 <tr>
-<td>MM</td><td>Nakanai</td><td><i>se-sē</i></td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>se-sē</i></td>
 <td>
 '<span>flower; blossom; (tobacco) seeds</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>sē-</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>sē-</i></td>
 <td>
 [N] '<span>flower</span>'; [v] '<span>flower, be in blossom</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>sē</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>sē</i></td>
 <td>
 [N] '<span>flower, blossom</span>'; [v] '<span>blossom, bloom, flower</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>sē</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>sē</i></td>
 <td>
 '<span>occasional pronunciation of sei (flower) in possessives, e.g. se rakau (flower of plant)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>East Futunan</td><td><i>sē</i></td>
+<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td><i>sē</i></td>
 <td>
 '<span>to flower, blossom; a flower</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Sikaiana</td><td><i>sē</i></td>
+<td>Pn</td><td><a href="../languages/sikaiana">Sikaiana</a></td><td><i>sē</i></td>
 <td>
 '<span>flower, bud</span>'</td>
 </tr>
@@ -2562,42 +2562,42 @@ A very similar form, _&ast;sei_, appears to be reconstructable for Proto Central
 '<span>flower, especially as an ornament</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>sei</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>sei</i></td>
 <td>
 '<span>flower of the vadra or balawa (pandanus)</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>sei</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>sei</i></td>
 <td>
 '<span>yellow flower of the vadra pandanus tree</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>sei</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>sei</i></td>
 <td>
 '<span>ornamentation (e.g. flower) placed behind the ear</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>hei</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>hei</i></td>
 <td>
 [N] '<span>floral decoration for bride</span>'; [v] '<span>place a flower in hair or behind ear</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>sei</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>sei</i></td>
 <td>
 '<span>ornament in the lobe of the ear</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>sei</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>sei</i></td>
 <td>
 '<span>flower, especially as in decoration, e.g. in ear lobe, hence any ear ornament</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>sei</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>sei</i></td>
 <td>
 '<span>flower worn as ornament (behind ear or in hair)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tokelauan</td><td><i>hei</i></td>
+<td>Pn</td><td><a href="../languages/tokelauan">Tokelauan</a></td><td><i>hei</i></td>
 <td>
 '<span>ear or hair ornament of flower or leaf</span>'</td>
 </tr>
@@ -2646,7 +2646,7 @@ Just as with leaf terms, modern Oceanic languages tend to have one or two more s
 
 Table 4.11 gives the terms for 'fruit' and related meanings in Nduke, Wayan Fijian and Tikopia. All three languages have generic terms for fruit and specific terms relating to bananas.
 
-The term 'fruit' in English has a number of senses, including: '1. vegetable products in general, that are fit to be used as food by men and animals … 2. the edible product of a plant or tree, consisting of the seed and its envelope, esp. the latter when it is of juicy pulpy nature … 5. the seed of a plant or tree regarded as the means of reproduction, together with its envelope' (OED). With terms glossed as 'fruit' in the dictionaries of Oceanic languages it is often difficult to determine which of the English senses are present in the meaning of the Oceanic term. [Ross](../references.md#source-Ross1996d) ([1996d](../references.md#source-Ross1996d): 208-209) concludes that POc _&ast;puaq_, the general term for 'fruit', denoted fruit as a plant part and plant product, rather than a food category. The number of reflexes of _&ast;puaq_ that are glossed as 'seed' suggests that its meaning encompassed both the seed and its envelope (see §2.9).
+The term 'fruit' in English has a number of senses, including: '1. vegetable products in general, that are fit to be used as food by men and animals … 2. the edible product of a plant or tree, consisting of the seed and its envelope, esp. the latter when it is of juicy pulpy nature … 5. the seed of a plant or tree regarded as the means of reproduction, together with its envelope' (OED). With terms glossed as 'fruit' in the dictionaries of Oceanic languages it is often difficult to determine which of the English senses are present in the meaning of the Oceanic term. [Ross](../sources/Ross1996d) ([1996d](../sources/Ross1996d): 208-209) concludes that POc _&ast;puaq_, the general term for 'fruit', denoted fruit as a plant part and plant product, rather than a food category. The number of reflexes of _&ast;puaq_ that are glossed as 'seed' suggests that its meaning encompassed both the seed and its envelope (see [§2.9](../contributions/3-4#s-2-9)).
 
 <table id="3-4-2-8-115-POc-puaq-a">
 <tr>
@@ -2655,7 +2655,7 @@ The term 'fruit' in English has a number of senses, including: '1. vegetable pro
 <i>&ast;buaq</i>
 </td>
 <td>
-'<span>fruit</span>' (<a href="../references.md#source-Dempwolff1938">Dempwolff1938</a>)
+'<span>fruit</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
 </td>
 </tr>
 <tr>
@@ -2664,131 +2664,131 @@ The term 'fruit' in English has a number of senses, including: '1. vegetable pro
 <i>&ast;puaq</i>
 </td>
 <td>
-'<span>fruit: generic for fruit as a part of plants, the seed and its envelope (N); to bear fruit (v)</span>' (<a href="../references.md#source-Ross1996d">Ross1996d</a>)
+'<span>fruit: generic for fruit as a part of plants, the seed and its envelope (N); to bear fruit (v)</span>' (<a href="../sources/Ross1996d">Ross1996d</a>)
 </td>
 </tr>
 <tr>
-<td>NNG</td><td>Gitua</td><td><i>pua</i></td>
+<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td><i>pua</i></td>
 <td>
 '<span>seed, egg</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Wedau</td><td><i>ua</i></td>
+<td>PT</td><td><a href="../languages/wedau">Wedau</a></td><td><i>ua</i></td>
 <td>
 '<span>fruit</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>hua-hua</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>hua-hua</i></td>
 <td>
 '<span>fruit, bear fruit</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Mekeo</td><td><i>pua</i></td>
+<td>PT</td><td><a href="../languages/mekeo">Mekeo</a></td><td><i>pua</i></td>
 <td>
 '<span>seed</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tabar</td><td><i>ua-ua</i></td>
+<td>MM</td><td><a href="../languages/tabar">Tabar</a></td><td><i>ua-ua</i></td>
 <td>
 '<span>seed</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Label</td><td><i>hua</i></td>
+<td>MM</td><td><a href="../languages/label">Label</a></td><td><i>hua</i></td>
 <td>
 '<span>seed</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Teop</td><td><i>vua</i></td>
+<td>MM</td><td><a href="../languages/teop">Teop</a></td><td><i>vua</i></td>
 <td>
 '<span>fruit, seed</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Roviana</td><td><i>vua</i></td>
+<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td><i>vua</i></td>
 <td>
 '<span>fruit</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Maringe</td><td><i>vua</i></td>
+<td>MM</td><td><a href="../languages/maringe">Maringe</a></td><td><i>vua</i></td>
 <td>
 '<span>fruit</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>vua-vua</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>vua-vua</i></td>
 <td>
 '<span>fruit; seed; flower</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>fu-fua</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>fu-fua</i></td>
 <td>
 '<span>fruit</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>hua</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>hua</i></td>
 <td>
 '<span>fruit; counter for fruit, stones, eggs, fish etc; round or lump-like objects; bear fruit</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Raga</td><td><i>vwa-i-</i></td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>vwa-i-</i></td>
 <td>
 '<span>fruit</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Big Nambas</td><td><i>na-va-</i></td>
+<td>NCV</td><td><a href="../languages/bignambas">Big Nambas</a></td><td><i>na-va-</i></td>
 <td>
 '<span>fruit</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Nguna</td><td><i>na-waa</i></td>
+<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td><i>na-waa</i></td>
 <td>
 '<span>fruit</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Sye</td><td><i>(no)vwa-</i></td>
+<td>SV</td><td><a href="../languages/sye">Sye</a></td><td><i>(no)vwa-</i></td>
 <td>
 '<span>seed</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Sye</td><td><i>(no)vwa(haɣ)</i></td>
+<td>SV</td><td><a href="../languages/sye">Sye</a></td><td><i>(no)vwa(haɣ)</i></td>
 <td>
 '<span>fruit of any tree</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Anejom</td><td><i>(no)howa-</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>(no)howa-</i></td>
 <td>
 '<span>fruit</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Trukese</td><td><i>wuwa</i></td>
+<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td><i>wuwa</i></td>
 <td>
 '<span>fruit, berry</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Carolinian</td><td><i>uwa</i></td>
+<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td><i>uwa</i></td>
 <td>
 '<span>fruit, flower</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>vua</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>vua</i></td>
 <td>
 [N] '<span>fruit; results, products, offspring</span>'; [v] '<span>(plant) bear fruit; (project, etc.) produce results, bear fruit; (people, animal stock) increase, multiply</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>fua</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>fua</i></td>
 <td>
 [N] '<span>fruit; result; egg</span>'; [v] '<span>bear fruit</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>fua</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>fua</i></td>
 <td>
 [N] '<span>fruit, berry, nut, egg shell, shellfish</span>'; [v] '<span>swell</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>fua</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>fua</i></td>
 <td>
 '<span>fruit; objects similar to fruit, such as fish or bird eggs, but not <em>fatu kai</em> (seeds of plants)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>fua</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>fua</i></td>
 <td>
 [N] '<span>fruit; flower, bloom; egg; produce</span>'; [v] '<span>produce; bear fruit</span>'</td>
 </tr>
@@ -2808,7 +2808,7 @@ POc also had several terms that for clusters or bunches of fruit. The most gener
 <i>&ast;puŋu</i>
 </td>
 <td>
-'<span>bunch, cluster (of grain, fruit, areca nuts, etc.)</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>bunch, cluster (of grain, fruit, areca nuts, etc.)</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -2817,61 +2817,61 @@ POc also had several terms that for clusters or bunches of fruit. The most gener
 <i>&ast;puŋu</i>
 </td>
 <td>
-'<span>bunch or cluster of fruit or nuts</span>' (<a href="../references.md#source-Ross1996d">Ross1996d: 185</a>)
+'<span>bunch or cluster of fruit or nuts</span>' (<a href="../sources/Ross1996d">Ross1996d: 185</a>)
 </td>
 </tr>
 <tr>
-<td>Adm</td><td>Loniu</td><td><i>he-puŋ</i></td>
+<td>Adm</td><td><a href="../languages/loniu">Loniu</a></td><td><i>he-puŋ</i></td>
 <td>
 '<span>one duster (as of areca nuts)</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Titan</td><td><i>sa-buŋ</i></td>
+<td>Adm</td><td><a href="../languages/titan">Titan</a></td><td><i>sa-buŋ</i></td>
 <td>
 '<span>one duster (as of areca nuts)</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Yabem</td><td><i>buŋ</i></td>
+<td>NNG</td><td><a href="../languages/yabem">Yabem</a></td><td><i>buŋ</i></td>
 <td>
 '<span>bunch (of bananas etc)</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Patep</td><td><i>bun</i></td>
+<td>NNG</td><td><a href="../languages/patep">Patep</a></td><td><i>bun</i></td>
 <td>
 '<span>bundle; of timbers, green etc; tie (into a bunch)</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nduke</td><td><i>vuŋu-</i></td>
+<td>MM</td><td><a href="../languages/nduke">Nduke</a></td><td><i>vuŋu-</i></td>
 <td>
 '<span>bunch or cluster of nuts or fruit</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>vuŋu</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>vuŋu</i></td>
 <td>
 '<span>grain of maize or com; pod, bunch, cluster of fruit</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>fuŋu</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>fuŋu</i></td>
 <td>
 '<span>bear fruit or seed; a bunch</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Kwaio</td><td><i>fuŋu</i></td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>fuŋu</i></td>
 <td>
 '<span>bearing fruit; bunch offruit</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>'Are'are</td><td><i>hunu</i></td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>hunu</i></td>
 <td>
 '<span>bear fruit, be in fruit; bunch, bundle</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>huŋu-</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>huŋu-</i></td>
 <td>
 '<span>a bunch or cluster offruit</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>vuŋ</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>vuŋ</i></td>
 <td>
 '<span>a bunch of fruit or coconuts, Canarium almonds (but not bananas or pandanus)</span>'</td>
 </tr>
@@ -2879,7 +2879,7 @@ POc also had several terms that for clusters or bunches of fruit. The most gener
 
 
 
-POc _&ast;jamu(qa,a)_, on the other hand, apparently referred to clusters of fruit, or flowers, on palms. This term is reflected with such a meaning in Kairiru, Rotuman and Rarotongan, but in other languages, such as Wayan and Tikopia, reflexes have come to denote the spathe or the covering of a coconut flower cluster. The addition of this latter meaning appears to be restricted to Central Pacific languages, and so is not reconstructed as a secondary meaning for the POc term. The Polynesian forms here are taken to be reflexes that have undergone metathesis ([Geraghty 1986](../references.md#source-Geraghty1986): 301).
+POc _&ast;jamu(qa,a)_, on the other hand, apparently referred to clusters of fruit, or flowers, on palms. This term is reflected with such a meaning in Kairiru, Rotuman and Rarotongan, but in other languages, such as Wayan and Tikopia, reflexes have come to denote the spathe or the covering of a coconut flower cluster. The addition of this latter meaning appears to be restricted to Central Pacific languages, and so is not reconstructed as a secondary meaning for the POc term. The Polynesian forms here are taken to be reflexes that have undergone metathesis ([Geraghty 1986](../sources/Geraghty1986): 301).
 
 <table id="3-4-2-8-116-POc-jamuqaa-a">
 <tr>
@@ -2888,46 +2888,46 @@ POc _&ast;jamu(qa,a)_, on the other hand, apparently referred to clusters of fru
 <i>&ast;jamu(qa,a)</i>
 </td>
 <td>
-'<span>cluster of flowers or fruit, usually palms</span>' (<a href="../references.md#source-Ross1989b">Ross1989b: 474</a>)
+'<span>cluster of flowers or fruit, usually palms</span>' (<a href="../sources/Ross1989b">Ross1989b: 474</a>)
 </td>
 </tr>
 <tr>
-<td>NNG</td><td>Kairiru</td><td><i>jyam</i></td>
+<td>NNG</td><td><a href="../languages/kairiru">Kairiru</a></td><td><i>jyam</i></td>
 <td>
 '<span>bunch of palm fruit</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Gedaged</td><td><i>damu</i></td>
+<td>NNG</td><td><a href="../languages/gedaged">Gedaged</a></td><td><i>damu</i></td>
 <td>
 '<span>a bunch, cluster (of nuts or fruit)</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Rotuman</td><td><i>jamuʔa</i></td>
+<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td><i>jamuʔa</i></td>
 <td>
 '<span>branching flower and fruit stem of coconut or fan palm</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>sāmoa</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>sāmoa</i></td>
 <td>
 '<span>hard sheath or calyx enclosing flower of coconut (used as torch); coconut flower before sheath bursts</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>toume</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>toume</i></td>
 <td>
 '<span>coconut spathe, often used for torches</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>taume</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>taume</i></td>
 <td>
 '<span>coconut spathe, when dry used for fuel</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tuvalu</td><td><i>taume</i></td>
+<td>Pn</td><td><a href="../languages/tuvalu">Tuvalu</a></td><td><i>taume</i></td>
 <td>
 '<span>fruit-bearing coconut shoot; coconut spathe</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rarotongan</td><td><i>taume</i></td>
+<td>Pn</td><td><a href="../languages/rarotongan">Rarotongan</a></td><td><i>taume</i></td>
 <td>
 '<span>coconut spathe</span>' (<span>but examples refer clearly to spadix [flower spike]</span>)</td>
 </tr>
@@ -2947,7 +2947,7 @@ POc also had a distinct term, _&ast;qitiŋ_, that denoted a hand or bunch of ban
 <i>&ast;qitiŋ</i>
 </td>
 <td>
-'<span>bunch of bananas</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>bunch of bananas</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -2959,32 +2959,32 @@ POc also had a distinct term, _&ast;qitiŋ_, that denoted a hand or bunch of ban
 '<span>a hand or bunch of bananas</span>' (<span>based on ACD</span>)</td>
 </tr>
 <tr>
-<td>PT</td><td>Gumawana</td><td><i>kisi</i></td>
+<td>PT</td><td><a href="../languages/gumawana">Gumawana</a></td><td><i>kisi</i></td>
 <td>
 '<span>hand of bananas</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Sursurunga</td><td><i>ŋiti-n</i></td>
+<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td><i>ŋiti-n</i></td>
 <td>
 '<span>hand of bananas</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Roviana</td><td><i>itiŋi-na</i></td>
+<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td><i>itiŋi-na</i></td>
 <td>
 '<span>a hand of bananas</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>iti (ni vudi)</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>iti (ni vudi)</i></td>
 <td>
 '<span>the stem of a bunch of bananas</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Lau</td><td><i>ī</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>ī</i></td>
 <td>
 '<span>hand of bananas</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Rotuman</td><td><i>ifi</i></td>
+<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td><i>ifi</i></td>
 <td>
 '<span>hand of bananas; (small kinds of fruit) bunch, cluster</span>'</td>
 </tr>
@@ -3004,22 +3004,22 @@ Also attributable to POc is a distinct term for the stem of fruit, probably deno
 '<span>stem of fruit, especially banana</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Lou</td><td><i>kolu(ɛn)</i></td>
+<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td><i>kolu(ɛn)</i></td>
 <td>
 '<span>fruit stem</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Poeng</td><td><i>kule-na</i></td>
+<td>NNG</td><td><a href="../languages/poeng">Poeng</a></td><td><i>kule-na</i></td>
 <td>
 '<span>(banana) stem</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>kulo</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>kulo</i></td>
 <td>
 '<span>(banana) stem</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Marshallese</td><td><i>kəlᶭæ</i></td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>kəlᶭæ</i></td>
 <td>
 '<span>fruit stem; stalk, leaf-stem, petiole</span>'</td>
 </tr>
@@ -3077,62 +3077,62 @@ In a number of modern Oceanic languages, including Manam, Carolinian and Tikopia
 '<span>stone, rock; seed</span>' (<span>vo1.2, ch.3, §7.1</span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td>Lukep (Pono)</td><td><i>patu-</i></td>
+<td>NNG</td><td><a href="../languages/lukeppono">Lukep (Pono)</a></td><td><i>patu-</i></td>
 <td>
 '<span>small seeds such as com, melon, carrots etc</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Takia</td><td><i>patu-</i></td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>patu-</i></td>
 <td>
 '<span>seed, (small) fruit of tree, nut, egg; coin</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Manam</td><td><i>patu</i></td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>patu</i></td>
 <td>
 '<span>stone, seed, money</span>'</td>
 </tr>
 <tr>
-<td>None</td><td>Tubetube</td><td><i>patu</i></td>
+<td>None</td><td><a href="../languages/tubetube">Tubetube</a></td><td><i>patu</i></td>
 <td>
 '<span>seed</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Siar</td><td><i>patu-n</i></td>
+<td>MM</td><td><a href="../languages/siar">Siar</a></td><td><i>patu-n</i></td>
 <td>
 '<span>seed</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Marovo</td><td><i>patu-na</i></td>
+<td>MM</td><td><a href="../languages/marovo">Marovo</a></td><td><i>patu-na</i></td>
 <td>
 '<span>seed</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Tolo</td><td><i>vatu-na</i></td>
+<td>SES</td><td><a href="../languages/tolo">Tolo</a></td><td><i>vatu-na</i></td>
 <td>
 '<span>seed</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kiribatese</td><td><i>ati</i></td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>ati</i></td>
 <td>
 '<span>seed, (fruit) pips; block of coral, rock, stone; islet</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Carolinian</td><td><i>fāy</i></td>
+<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td><i>fāy</i></td>
 <td>
 '<span>stone, rock, seed, testicles</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>fatu-fatu</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>fatu-fatu</i></td>
 <td>
 '<span>stone, rock; knob, knot, nodule, kernel; protuberent or kernel-like body-part (e.g. knuckle, adam's apple etc)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Emae</td><td><i>fatu</i></td>
+<td>Pn</td><td><a href="../languages/emae">Emae</a></td><td><i>fatu</i></td>
 <td>
 '<span>seed</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>fatu</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>fatu</i></td>
 <td>
 '<span>hear1t; seed, pip; grain; core, essence</span>'</td>
 </tr>
@@ -3143,7 +3143,7 @@ In a number of modern Oceanic languages, including Manam, Carolinian and Tikopia
 
 <a id="p-119"></a>
 
-[Holzknecht](../references.md#source-Holzknecht1989) ([1989](../references.md#source-Holzknecht1989): 87) presents data from a number of Markham (NNG) languages to support the reconstruction of POc _&ast;lija(n)_ 'seed', the primary meaning of which was probably 'nit, louse egg' ([Ross 1989b](../references.md#source-Ross1989b): 481-482). More detailed Oceanic data indicates that the POc form was _&ast;lisaq_ 'nit, louse egg', reflecting an earlier PAn term _&ast;liseqeS_ 'nit, louse egg' ([Blust 2002](../references.md#source-Blust2002)), and that a second form, _&ast;lejaŋ_ 'nit', is reconstructable for PWOc. Reflexes of POc _&ast;lisaq_ 'nit, louse egg' with the meaning 'seed' occur in Sa'a (SES) and Wusi (NCV), so it is possible that this was a secondary meaning in PEOc. The exact reference of PEOc _&ast;lisa_ 'seed' is unclear, but it probably denoted small seeds like grain at least, and may have referred more generally to the seeds of plants. The 'seed' meaning of reflexes of PWOc _&ast;lejan_ in several Markham (NNG) languages, including Adzera _niju-n_ 'seed' and N Watut _nejo_ 'seed', indicate that a similar shift in meaning has also occurTed with reflexes of this form.
+[Holzknecht](../sources/Holzknecht1989) ([1989](../sources/Holzknecht1989): 87) presents data from a number of Markham (NNG) languages to support the reconstruction of POc _&ast;lija(n)_ 'seed', the primary meaning of which was probably 'nit, louse egg' ([Ross 1989b](../sources/Ross1989b): 481-482). More detailed Oceanic data indicates that the POc form was _&ast;lisaq_ 'nit, louse egg', reflecting an earlier PAn term _&ast;liseqeS_ 'nit, louse egg' ([Blust 2002](../sources/Blust2002)), and that a second form, _&ast;lejaŋ_ 'nit', is reconstructable for PWOc. Reflexes of POc _&ast;lisaq_ 'nit, louse egg' with the meaning 'seed' occur in Sa'a (SES) and Wusi (NCV), so it is possible that this was a secondary meaning in PEOc. The exact reference of PEOc _&ast;lisa_ 'seed' is unclear, but it probably denoted small seeds like grain at least, and may have referred more generally to the seeds of plants. The 'seed' meaning of reflexes of PWOc _&ast;lejan_ in several Markham (NNG) languages, including Adzera _niju-n_ 'seed' and N Watut _nejo_ 'seed', indicate that a similar shift in meaning has also occurTed with reflexes of this form.
 
 <table id="3-4-2-9-119-PEOc-lisa-a">
 <tr>
@@ -3152,7 +3152,7 @@ In a number of modern Oceanic languages, including Manam, Carolinian and Tikopia
 <i>&ast;li(ŋ)sa</i>
 </td>
 <td>
-'<span>nit, louse's egg</span>' (<a href="../references.md#source-Blust1972b">Blust1972b</a>)
+'<span>nit, louse's egg</span>' (<a href="../sources/Blust1972b">Blust1972b</a>)
 </td>
 </tr>
 <tr>
@@ -3164,12 +3164,12 @@ In a number of modern Oceanic languages, including Manam, Carolinian and Tikopia
 '<span>nit, louse egg; seed</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>lite</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>lite</i></td>
 <td>
 '<span>seed, kernel</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Wusi</td><td><i>lise</i></td>
+<td>NCV</td><td><a href="../languages/wusi">Wusi</a></td><td><i>lise</i></td>
 <td>
 '<span>seed</span>'</td>
 </tr>
@@ -3177,7 +3177,7 @@ In a number of modern Oceanic languages, including Manam, Carolinian and Tikopia
 
 
 
-As noted in §2.8, POc _&ast;puaq_ was another term that could refer to the seeds of a plant as part of a broader meaning that also encompassed 'fruit'. A number of Oceanic languages have a distinct term for the seeds of the breadfruit, but as can be seen from the following list, the modern terms are rarely cognate.
+As noted in [§2.8](../contributions/3-4#s-2-8), POc _&ast;puaq_ was another term that could refer to the seeds of a plant as part of a broader meaning that also encompassed 'fruit'. A number of Oceanic languages have a distinct term for the seeds of the breadfruit, but as can be seen from the following list, the modern terms are rarely cognate.
 
 ```
    Adm:  Lou           komʷit-     'breadfruit seed'
@@ -3191,7 +3191,7 @@ As noted in §2.8, POc _&ast;puaq_ was another term that could refer to the seed
    Mic:  Carolinian    bʷuxili     'edibl1e seeds from one variety of breadfruit'
 ```
 
-The data given by [Ross](../references.md#source-Ross1996d) ([1996d](../references.md#source-Ross1996d): 188) allow the reconstruction of PWOc _&ast;kalijo_ 'edible kernel of breadfruit segments', but no term with this meaning is reconstructable for POc.
+The data given by [Ross](../sources/Ross1996d) ([1996d](../sources/Ross1996d): 188) allow the reconstruction of PWOc _&ast;kalijo_ 'edible kernel of breadfruit segments', but no term with this meaning is reconstructable for POc.
 
 <table id="3-4-2-9-119-PWOc-kalijo-a">
 <tr>
@@ -3203,48 +3203,48 @@ The data given by [Ross](../references.md#source-Ross1996d) ([1996d](../referenc
 '<span>edible kernel of breadfruit segments</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Mangap</td><td><i>kiliizi</i></td>
+<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td><i>kiliizi</i></td>
 <td>
 '<span>breadfruit seed</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Sio</td><td><i>kalinzo</i></td>
+<td>NNG</td><td><a href="../languages/sio">Sio</a></td><td><i>kalinzo</i></td>
 <td>
 '<span>breadfruit seed</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Malasanga</td><td><i>kariro</i></td>
+<td>NNG</td><td><a href="../languages/malasanga">Malasanga</a></td><td><i>kariro</i></td>
 <td>
 '<span>breadfruit fruit</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Lukep (Pono)</td><td><i>kadidi</i></td>
+<td>NNG</td><td><a href="../languages/lukeppono">Lukep (Pono)</a></td><td><i>kadidi</i></td>
 <td>
 '<span>breadfruit seed</span>' (<span><em>*-l-</em> assimilated to <em>-d-</em></span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td>Takia</td><td><i>alid</i></td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>alid</i></td>
 <td>
 '<span>breadfruit seed</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Manam</td><td><i>kaizo</i></td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>kaizo</i></td>
 <td>
 '<span>edible breadfruit seed</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Ali</td><td><i>alic</i></td>
+<td>NNG</td><td><a href="../languages/ali">Ali</a></td><td><i>alic</i></td>
 <td>
 '<span>breadfnuit</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Halia</td><td><i>ariro</i></td>
+<td>MM</td><td><a href="../languages/halia">Halia</a></td><td><i>ariro</i></td>
 <td>
-'<span>Artocarpus leeuwenii</span>' (<a href="../references.md#source-GlennonandGlennon2005">GlennonandGlennon2005</a>)
+'<span>Artocarpus leeuwenii</span>' (<a href="../sources/GlennonandGlennon2005">GlennonandGlennon2005</a>)
 </td>
 </tr>
 <tr>
-<td>MM</td><td>Teop</td><td><i>ariko</i></td>
+<td>MM</td><td><a href="../languages/teop">Teop</a></td><td><i>ariko</i></td>
 <td>
 '<span>seed of breadfruit tree</span>'</td>
 </tr>
@@ -3267,22 +3267,22 @@ The breadfruit is a syncarp, a compound fruit with many segments arranged around
 '<span>breadfruit flower, breadfruit core</span>' (<span>Blust 1972b: *malo(n) 'core of the breadfruit'</span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td>Bariai</td><td><i>malo</i></td>
+<td>NNG</td><td><a href="../languages/bariai">Bariai</a></td><td><i>malo</i></td>
 <td>
 '<span>breadfruit flower</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Gedaged</td><td><i>malo-</i></td>
+<td>NNG</td><td><a href="../languages/gedaged">Gedaged</a></td><td><i>malo-</i></td>
 <td>
 '<span>core of the breadfruit</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>malo</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>malo</i></td>
 <td>
 '<span>core of the breadfruit</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>malo</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>malo</i></td>
 <td>
 '<span>flower-spike of the breadfruit</span>'</td>
 </tr>
@@ -3307,7 +3307,7 @@ In many modern Oceanic languages the same word is used for skin (of animals and 
 <i>&ast;kulit</i>
 </td>
 <td>
-[N] '<span>skin</span>' (<a href="../references.md#source-Dempwolff1938">Dempwolff1938</a>)
+[N] '<span>skin</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
 </td>
 </tr>
 <tr>
@@ -3316,7 +3316,7 @@ In many modern Oceanic languages the same word is used for skin (of animals and 
 <i>&ast;kulit-i</i>
 </td>
 <td>
-[vT] '<span>to remove the skin ofs.t., to remove bark from a tree</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+[vT] '<span>to remove the skin ofs.t., to remove bark from a tree</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -3325,7 +3325,7 @@ In many modern Oceanic languages the same word is used for skin (of animals and 
 <i>&ast;kulit</i>
 </td>
 <td>
-[N] '<span>skin (of animals, people, fruit), bark (of trees)</span>' (<a href="../references.md#source-Ross1988">Ross1988</a>)
+[N] '<span>skin (of animals, people, fruit), bark (of trees)</span>' (<a href="../sources/Ross1988">Ross1988</a>)
 </td>
 </tr>
 <tr>
@@ -3337,102 +3337,102 @@ In many modern Oceanic languages the same word is used for skin (of animals and 
 [vT] '<span>to skin s.t., to remove bark from a tree</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Titan</td><td><i>kuli-n</i></td>
+<td>Adm</td><td><a href="../languages/titan">Titan</a></td><td><i>kuli-n</i></td>
 <td>
 '<span>skin</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Lukep (Pono)</td><td><i>kuli-</i></td>
+<td>NNG</td><td><a href="../languages/lukeppono">Lukep (Pono)</a></td><td><i>kuli-</i></td>
 <td>
 '<span>skin, bark</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Misima</td><td><i>kúnis</i></td>
+<td>PT</td><td><a href="../languages/misima">Misima</a></td><td><i>kúnis</i></td>
 <td>
 '<span>(humans, animals, fish, food) skin</span>'; '<span>(tree) bark</span>'; '<span>(fish) scales</span>'; '<span>(coconut) husk</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nakanai</td><td><i>kuli-kuli</i></td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>kuli-kuli</i></td>
 <td>
 '<span>skin (a piece rather than the whole); bark; peel</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nakanai</td><td><i>kulisi</i></td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>kulisi</i></td>
 <td>
 '<span>(skin) have scrape; remove tree bark or fruit skin</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Ramoaaina</td><td><i>kuliti</i></td>
+<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>kuliti</i></td>
 <td>
 '<span>peel off in flakes</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>(ɣui)ɣuli</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>(ɣui)ɣuli</i></td>
 <td>
 [N] '<span>skin</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>ɣuliti</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>ɣuliti</i></td>
 <td>
 [v] '<span>peel skin or bark</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Bugotu</td><td><i>(ɣui)ɣuli-ña</i></td>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>(ɣui)ɣuli-ña</i></td>
 <td>
 [N] '<span>skin,, bark</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Bugotu</td><td><i>ɣuliti</i></td>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>ɣuliti</i></td>
 <td>
 [v] '<span>flay, skin</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Tolo</td><td><i>huli-na</i></td>
+<td>SES</td><td><a href="../languages/tolo">Tolo</a></td><td><i>huli-na</i></td>
 <td>
 '<span>(human, fruit) skin; (tree) bark</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Kwara’ae</td><td><i>ʔuli-ʔuli</i></td>
+<td>SES</td><td><a href="../languages/kwaraae">Kwara’ae</a></td><td><i>ʔuli-ʔuli</i></td>
 <td>
 '<span>bark, skin with flesh</span>' (<span>thicker than <em>taʔetaʔe</em> 'skin, bark, husk'</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>ʔuri-na</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>ʔuri-na</i></td>
 <td>
 '<span>human skin, animals, roots, fruits; inner tree bark</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Lonwolwol</td><td><i>ul</i></td>
+<td>NCV</td><td><a href="../languages/lonwolwol">Lonwolwol</a></td><td><i>ul</i></td>
 <td>
 '<span>(human, tree) skin</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Paamese</td><td><i>uli-</i></td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>uli-</i></td>
 <td>
 '<span>tree bark (especially the fibrous kind which easily peels off in long strips and can be used for tying things)</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kiribatese</td><td><i>kun</i></td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>kun</i></td>
 <td>
 '<span>skin, peel, bark, crust, membrane, book cover</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kosraean</td><td><i>kolo-</i></td>
+<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td><i>kolo-</i></td>
 <td>
 '<span>skin, peel, bark, hide, rind, pillow case</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Rotuman</td><td><i>ʔuti</i></td>
+<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td><i>ʔuti</i></td>
 <td>
 '<span>skin, peel, bark, crust</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>kuli-</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>kuli-</i></td>
 <td>
 [N] '<span>skin, peel, bark</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>kulit-a</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>kulit-a</i></td>
 <td>
 [v] '<span>peel cooked taro or food cooked in water; strip off the skin or bark of a tree</span>'</td>
 </tr>
@@ -3484,67 +3484,67 @@ In Proto Remote Oceanic there is evidence for doublet forms _&ast;kulit_ and _&a
 '<span>skin, bark</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Namakir</td><td><i>kili-n</i></td>
+<td>NCV</td><td><a href="../languages/namakir">Namakir</a></td><td><i>kili-n</i></td>
 <td>
 '<span>skin, bark</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Marshallese</td><td><i>kit</i></td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>kit</i></td>
 <td>
 '<span>skin</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Mokilese</td><td><i>kili-</i></td>
+<td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td><i>kili-</i></td>
 <td>
 '<span>skin, bark, peel, hide</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Mortlockese</td><td><i>kili-n</i></td>
+<td>Mic</td><td><a href="../languages/mortlockese">Mortlockese</a></td><td><i>kili-n</i></td>
 <td>
 '<span>skin, bark (3s)</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Trukese</td><td><i>sīɾ-</i></td>
+<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td><i>sīɾ-</i></td>
 <td>
 '<span>skin, bark</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Woleaian</td><td><i>xiɾ</i></td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>xiɾ</i></td>
 <td>
 '<span>bark, skin</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Carolinian</td><td><i>xīl</i></td>
+<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td><i>xīl</i></td>
 <td>
 '<span>skin, bark</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Ulithian</td><td><i>xili-</i></td>
+<td>Mic</td><td><a href="../languages/ulithian">Ulithian</a></td><td><i>xili-</i></td>
 <td>
 '<span>bark, skin</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>kili</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>kili</i></td>
 <td>
 '<span>skin; peel; rind; bark</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>kili</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>kili</i></td>
 <td>
 '<span>bark; skin</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>kiri</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>kiri</i></td>
 <td>
 '<span>(human, animal) skin; (tree) bark</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>East Futunan</td><td><i>kili</i></td>
+<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td><i>kili</i></td>
 <td>
 '<span>skin; bark, (fruit) peel</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Hawaiian</td><td><i>ʔili</i></td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>ʔili</i></td>
 <td>
 '<span>skin, complexion, hide, scalp, bark, rind, peel</span>'</td>
 </tr>
@@ -3589,7 +3589,7 @@ The Oceanic data, shown in the cognate set below, suggest the reconstruction of 
 <i>&ast;belit, bulit</i>
 </td>
 <td>
-'<span>viscous, sticky</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>viscous, sticky</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -3609,117 +3609,117 @@ The Oceanic data, shown in the cognate set below, suggest the reconstruction of 
 [vT] '<span>to stick something to something</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Lou</td><td><i>pulut</i></td>
+<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td><i>pulut</i></td>
 <td>
 '<span>sticky</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Titan</td><td><i>βulút-i</i></td>
+<td>Adm</td><td><a href="../languages/titan">Titan</a></td><td><i>βulút-i</i></td>
 <td>
 '<span>stick to s.t. (VT)</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nakanai</td><td><i>bulu</i></td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>bulu</i></td>
 <td>
 '<span>soup, any liquid</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nakanai</td><td><i>bulu-bulu-</i></td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>bulu-bulu-</i></td>
 <td>
 '<span>sap of tree</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Ramoaaina</td><td><i>bulit</i></td>
+<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>bulit</i></td>
 <td>
 '<span>stick, glue; sap; the sap of the breafruit tree</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Siar</td><td><i>polo-n</i></td>
+<td>MM</td><td><a href="../languages/siar">Siar</a></td><td><i>polo-n</i></td>
 <td>
 '<span>sap of a tree</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Kwaio</td><td><i>buluʔ-ia</i></td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>buluʔ-ia</i></td>
 <td>
 '<span>caulk, tamp a post; gum; mix together</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>'Are'are</td><td><i>puru-i-</i></td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>puru-i-</i></td>
 <td>
 '<span>gum, stick, caulk joints of canoe planks with puttynut</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>pulu</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>pulu</i></td>
 <td>
 '<span>pitch, gum, native cement; a nut, Parinarium laurinum, is scraped on rough coral rock and darkened in colour with a mixture of charcoal and the juice of the oʔa tree; the cement hardens almost immediately</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>put, pulu</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>put, pulu</i></td>
 <td>
 '<span>gum of trees, particularly of Canarium; torch; tattoo done with Canarium gum; birdlime, to catch birds with; to stick</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>pulut</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>pulut</i></td>
 <td>
 '<span>to make stick (VT)</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Ambae</td><td><i>bulu</i></td>
+<td>NCV</td><td><a href="../languages/ambae">Ambae</a></td><td><i>bulu</i></td>
 <td>
 '<span>sap of Canarium, used in the making of tattoos</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Ambae</td><td><i>bulus-i</i></td>
+<td>NCV</td><td><a href="../languages/ambae">Ambae</a></td><td><i>bulus-i</i></td>
 <td>
 '<span>to join (VT)</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Marshallese</td><td><i>pᶭil</i></td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>pᶭil</i></td>
 <td>
 '<span>sap, chewing gum</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kosraean</td><td><i>ful</i></td>
+<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td><i>ful</i></td>
 <td>
 '<span>breadfruit sap</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Pulo-Annan</td><td><i>vʷunɨ-</i></td>
+<td>Mic</td><td><a href="../languages/puloannan">Pulo-Annan</a></td><td><i>vʷunɨ-</i></td>
 <td>
 '<span>sap, gum,, glue</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>bulu</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>bulu</i></td>
 <td>
 '<span>adhere, be attached, stick to a surface; be patched, sealed, filled (of a tooth), have s.t. glued on top to cover it</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>bulu-bulu</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>bulu-bulu</i></td>
 <td>
 '<span>be patched, sealed with a patch; be sticky, gluey, adhesive, doggy</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>bulut-i-</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>bulut-i-</i></td>
 <td>
 '<span>to patch s.t., stick a patch on s.t.</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Rotuman</td><td><i>pulu</i></td>
+<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td><i>pulu</i></td>
 <td>
 '<span>sap, gum:; any adhesive substance -gum, paste, sealing-wax, solder etc; chewing gum</span>' (<span>cf. pulpulu 'sticky'</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>pulu</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>pulu</i></td>
 <td>
 '<span>white sap, especially of breadfruit tree</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>pupulu</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>pupulu</i></td>
 <td>
 '<span>sticky, adhesive</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>pulu</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>pulu</i></td>
 <td>
 '<span>breadfruit gum, used as putty especially for caulking canoes; chewing gum; rubber</span>'</td>
 </tr>
@@ -3762,7 +3762,7 @@ As can be seen from Table 4.15 Wayan, Tikopia and Nduke all have a single term f
 | __Tikopia__      |                                                                                                                                           |
 | _sina_           | (N) Thorn, spine.                                                                                                                         |
 
-Proto Austronesian _&ast;Cenek_ 'thorn' (ACD) appears to be reflected within Oceanic only by the Bauan Fijian verb _tono-ka_ 'to pierce, poke'. [Ross](../references.md#source-Ross1996d) ([1996d](../references.md#source-Ross1996d): 189) reconstructs _&ast;ruRi_ as the general term for thorns and spines in POc, noting that some reflexes (e.g. Lou and Lukep) refer specifically to the barbs of sago leaves and bark, and the Titan reflex to the sago plant itself. Reflexes of this term have only been found in Admiralty, North New Guinea and Papuan Tip languages. While Bilibil, Takia and Kis and Gapapaiwa reflect POc _&ast;druRi_, Numbami and Mapos-Buang and Iduna reflect _&ast;ruRi_, and the Admiralty forms are compatible with either _&ast;ruRi_ or _&ast;druRi_.
+Proto Austronesian _&ast;Cenek_ 'thorn' (ACD) appears to be reflected within Oceanic only by the Bauan Fijian verb _tono-ka_ 'to pierce, poke'. [Ross](../sources/Ross1996d) ([1996d](../sources/Ross1996d): 189) reconstructs _&ast;ruRi_ as the general term for thorns and spines in POc, noting that some reflexes (e.g. Lou and Lukep) refer specifically to the barbs of sago leaves and bark, and the Titan reflex to the sago plant itself. Reflexes of this term have only been found in Admiralty, North New Guinea and Papuan Tip languages. While Bilibil, Takia and Kis and Gapapaiwa reflect POc _&ast;druRi_, Numbami and Mapos-Buang and Iduna reflect _&ast;ruRi_, and the Admiralty forms are compatible with either _&ast;ruRi_ or _&ast;druRi_.
 
 <table id="3-4-2-12-125-POc-drruri-a">
 <tr>
@@ -3771,7 +3771,7 @@ Proto Austronesian _&ast;Cenek_ 'thorn' (ACD) appears to be reflected within Oce
 <i>&ast;duRi</i>
 </td>
 <td>
-'<span>thorns</span>' (<a href="../references.md#source-Dempwolff1938">Dempwolff1938</a>)
+'<span>thorns</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
 </td>
 </tr>
 <tr>
@@ -3783,52 +3783,52 @@ Proto Austronesian _&ast;Cenek_ 'thorn' (ACD) appears to be reflected within Oce
 '<span>thorns</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Lou</td><td><i>ruwi</i></td>
+<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td><i>ruwi</i></td>
 <td>
 '<span>barbs on sago bark</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Titan</td><td><i>nrúwi</i></td>
+<td>Adm</td><td><a href="../languages/titan">Titan</a></td><td><i>nrúwi</i></td>
 <td>
 '<span>a type of sago which has a lot of thorns</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Bilibil</td><td><i>dur</i></td>
+<td>NNG</td><td><a href="../languages/bilibil">Bilibil</a></td><td><i>dur</i></td>
 <td>
 '<span>thorn</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Lukep (Pono)</td><td><i>riri(ni)</i></td>
+<td>NNG</td><td><a href="../languages/lukeppono">Lukep (Pono)</a></td><td><i>riri(ni)</i></td>
 <td>
 '<span>sharp points on sago and pandanus leaves (IP noun)</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Takia</td><td><i>duduru-</i></td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>duduru-</i></td>
 <td>
 '<span>thorn (inalienable)</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kis</td><td><i>dulu</i></td>
+<td>NNG</td><td><a href="../languages/kis">Kis</a></td><td><i>dulu</i></td>
 <td>
 '<span>thorn</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Numbami</td><td><i>luli</i></td>
+<td>NNG</td><td><a href="../languages/numbami">Numbami</a></td><td><i>luli</i></td>
 <td>
 '<span>thorn</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Mapos Buang</td><td><i>ruru(k)</i></td>
+<td>NNG</td><td><a href="../languages/maposbuang">Mapos Buang</a></td><td><i>ruru(k)</i></td>
 <td>
 '<span>thorn</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Gapapaiwa</td><td><i>tuiri-na</i></td>
+<td>PT</td><td><a href="../languages/gapapaiwa">Gapapaiwa</a></td><td><i>tuiri-na</i></td>
 <td>
 '<span>his bone</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Iduna</td><td><i>lulu</i></td>
+<td>PT</td><td><a href="../languages/iduna">Iduna</a></td><td><i>lulu</i></td>
 <td>
 '<span>bone</span>'</td>
 </tr>
@@ -3836,7 +3836,7 @@ Proto Austronesian _&ast;Cenek_ 'thorn' (ACD) appears to be reflected within Oce
 
 
 
-[Blust](../references.md#source-Blust1976b) ([1976b](../references.md#source-Blust1976b)) reconstructs POc _&ast;poto(k)_ 'thorn, barb of stingray'. However, while the 'thorn' meaning is well-supported, the 'stingray barb' meaning appears to be restricted to Central Pacific languages, and so may not have been present in POc.
+[Blust](../sources/Blust1976b) ([1976b](../sources/Blust1976b)) reconstructs POc _&ast;poto(k)_ 'thorn, barb of stingray'. However, while the 'thorn' meaning is well-supported, the 'stingray barb' meaning appears to be restricted to Central Pacific languages, and so may not have been present in POc.
 
 <table id="3-4-2-12-125-POc-potok-a">
 <tr>
@@ -3845,36 +3845,36 @@ Proto Austronesian _&ast;Cenek_ 'thorn' (ACD) appears to be reflected within Oce
 <i>&ast;poto(k)</i>
 </td>
 <td>
-'<span>thorn, barb of stingray</span>' (<a href="../references.md#source-Blust1976b">Blust1976b</a>)
+'<span>thorn, barb of stingray</span>' (<a href="../sources/Blust1976b">Blust1976b</a>)
 </td>
 </tr>
 <tr>
-<td>Adm</td><td>Titan</td><td><i>poto-n</i></td>
+<td>Adm</td><td><a href="../languages/titan">Titan</a></td><td><i>poto-n</i></td>
 <td>
 '<span>thorn</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>voto</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>voto</i></td>
 <td>
 '<span>a thorn, prickle; root of bodily hair (not of the head)</span>' (<span>cf. <em>voto-ka</em> 'to prick' (vT)</span>)</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>voto</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>voto</i></td>
 <td>
 '<span>thorn, prickle; spike or spines of a fish; gooseflesh</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>foto</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>foto</i></td>
 <td>
 '<span>barb of stingray</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>foto</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>foto</i></td>
 <td>
 '<span>thorn, barb, spike, bristle (used both literally and figuratively, describing personal characteristics)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>foto</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>foto</i></td>
 <td>
 '<span>sting (of stingray)</span>'</td>
 </tr>
@@ -3885,7 +3885,7 @@ Proto Austronesian _&ast;Cenek_ 'thorn' (ACD) appears to be reflected within Oce
 
 <a id="p-126"></a>
 
-In a number of languages terms for 'thorn' reflect POc terms that are best reconstructed with the meaning 'needle'. Thus POc _&ast;saRum_ 'needle, tattooing needle (typically made from wing-bone of flying fox)' (vol.1, ch.4, §3.2.1) is reflected in Carolinian _tou-tow_ as the general term for thorns of plants. The same is true of the Sa'a reflex of POc _&ast;sika_ 'netting needle' (vol.1, ch.8, §2). [Milke](../references.md#source-Milke1961) ([1961](../references.md#source-Milke1961)) reconstructs _&ast;sika_ for POc with the meaning 'netting needle, thorn', but the 'thorn' meaning appears to be reflected only in Sa'a _sike_ 'thorn', suggesting that the original meaning was 'netting needle' and that the Sa'a form is innovative.
+In a number of languages terms for 'thorn' reflect POc terms that are best reconstructed with the meaning 'needle'. Thus POc _&ast;saRum_ 'needle, tattooing needle (typically made from wing-bone of flying fox)' ([vol.1, ch.4, §3.2.1](../contributions/1-4#s-3-2-1)) is reflected in Carolinian _tou-tow_ as the general term for thorns of plants. The same is true of the Sa'a reflex of POc _&ast;sika_ 'netting needle' ([vol.1, ch.8, §2](../contributions/1-8#s-2)). [Milke](../sources/Milke1961) ([1961](../sources/Milke1961)) reconstructs _&ast;sika_ for POc with the meaning 'netting needle, thorn', but the 'thorn' meaning appears to be reflected only in Sa'a _sike_ 'thorn', suggesting that the original meaning was 'netting needle' and that the Sa'a form is innovative.
 
 
 <a id="s-3"></a>
@@ -3897,7 +3897,7 @@ This chapter presents more than 40 POc reconstructions of terms that denote the 
 
 Modern Oceanic languages also tend to have extensive terminologies for the parts of the coconut palm, its fruit and their uses (Table 4.1 ). Chapter 12 is devoted to this topic.
 
-The number of general plant part terms reconstructed for POc, over 30, is similar to the numbers of such terms in Wayan (nearly 50), Tikopia (nearly 50) and Nduke (over 30). However, these modern languages have a much larger number of terms for the parts of particular types of plants (nearly 20 in all three languages), than can be reconstructed for POc (7 terms in this chapter). This difference was particularly apparent with the terms for leaves. Table 4.8 gave a selection of the range of terms for leaves in a number of Oceanic languages, demonstrating how modern Oceanic languages typically have several terms for the leaves of particular types of plants, including coconut, taro and pandanus. [Ross](../references.md#source-Ross1996d) ([1996d](../references.md#source-Ross1996d)) reconstructs POc terms for taro leaves (_&ast;gal(a,o)_) and palm fronds (_&ast;[pa]paq[a-]_), and POc _&ast;sulu(q)_ 'coconut leaf torch' could probably also refer to dry coconut leaves, but other terms for the leaves of particular types of plants do not appear to be reconstructable.
+The number of general plant part terms reconstructed for POc, over 30, is similar to the numbers of such terms in Wayan (nearly 50), Tikopia (nearly 50) and Nduke (over 30). However, these modern languages have a much larger number of terms for the parts of particular types of plants (nearly 20 in all three languages), than can be reconstructed for POc (7 terms in this chapter). This difference was particularly apparent with the terms for leaves. Table 4.8 gave a selection of the range of terms for leaves in a number of Oceanic languages, demonstrating how modern Oceanic languages typically have several terms for the leaves of particular types of plants, including coconut, taro and pandanus. [Ross](../sources/Ross1996d) ([1996d](../sources/Ross1996d)) reconstructs POc terms for taro leaves (_&ast;gal(a,o)_) and palm fronds (_&ast;[pa]paq[a-]_), and POc _&ast;sulu(q)_ 'coconut leaf torch' could probably also refer to dry coconut leaves, but other terms for the leaves of particular types of plants do not appear to be reconstructable.
 
 Table 4.2 shows the range of terms in a number of modern languages for parts of banana plants. Many Oceanic languages, including Lou, Iduna, Gapapaiwa, Gumawana, Ramoaaina, Gela, Longgu, Wayan, and E Futunan, have tenms that specifically denote the new shoots or suckers of banana plants, but such a specific term does not appear to be reconstructable for POc. Rather, POc _&ast;[s,j]uli(q)_ apparently denote:d propagation material in general (including suckers and shoots), though it may have referred especially to the suckers of banana and taro. Modern Oceanic languages also tend to have more specific terms for bunches of bananas than can be reconstructed for POc. Thus Lou has a term _pɔrɔk_ denoting a new bunch of bananas and several terms for hands of bananas, including _topʷan_ 'first banana hand', _ŋɔrɛn_ 'last hand of bananas', _sɛt_ 'one hand of bananas' and _turɛt_ 'two hands of bananas'. For POc only the more general term _&ast;qitiŋ_ 'hand of bananas' can be reconstructed.
 
@@ -3927,9 +3927,9 @@ It is unlikely that the structure and detail of the POc terminology for plant pa
 
 [^8]: Marshallese _pɛrwaŋ_ denotes the stalk inside a bunch of bananas or breadfruit.
 
-[^2]: [Ivens](../references.md#source-Ivens1929) ([1929](../references.md#source-Ivens1929)) gives the following definitions of these Sa'a terms: _hata_ 'a tree, hardwood, used to make gongs'; _mamahuʔe_ 'a tree, used for houseposts, quickset'; _mawa_ 'a tree, red wood, strong smelling when chopped and causing vomiting, used for keels of canoes'; and _iola_ '1. canoe, 2. a village, metaphorically from canoe, 3. a tree, used to make canoe planks'.
+[^2]: [Ivens](../sources/Ivens1929) ([1929](../sources/Ivens1929)) gives the following definitions of these Sa'a terms: _hata_ 'a tree, hardwood, used to make gongs'; _mamahuʔe_ 'a tree, used for houseposts, quickset'; _mawa_ 'a tree, red wood, strong smelling when chopped and causing vomiting, used for keels of canoes'; and _iola_ '1. canoe, 2. a village, metaphorically from canoe, 3. a tree, used to make canoe planks'.
 
-[^3]: In this and later tables Nduke, Wayan and Tikopia entries are from [Scales](../references.md#source-Scalesnd) ([n.d.](../references.md#source-Scalesnd)), [Pawley & Sayaba](../references.md#source-PawleyandSayaba2003) ([2003](../references.md#source-PawleyandSayaba2003)) and [Firth](../references.md#source-Firth1985) ([1985](../references.md#source-Firth1985)) respectively. The orthographies of the original entries have been replaced by the one used here (ch.1, §4.2).
+[^3]: In this and later tables Nduke, Wayan and Tikopia entries are from [Scales](../sources/Scalesnd) ([n.d.](../sources/Scalesnd)), [Pawley & Sayaba](../sources/PawleyandSayaba2003) ([2003](../sources/PawleyandSayaba2003)) and [Firth](../sources/Firth1985) ([1985](../sources/Firth1985)) respectively. The orthographies of the original entries have been replaced by the one used here ([ch.1, §4.2](../contributions/3-1#s-4-2)).
 
 [^4]: With final _-ŋa_ this form apparently reflects POc final _&ast;-ŋ_ and added _-a_, perhaps an inalienably possessed form of the noun.
 
@@ -3937,20 +3937,20 @@ It is unlikely that the structure and detail of the POc terminology for plant pa
 
 [^6]: The origin of final _-ŋa_ is unclear.
 
-[^7]: It is unclear whether Motu _rako_ 'twig' is inherited or is borrowed from another Papuan Tip language. The usual reflexes of POc _&ast;-k-_ are Motu _-ɣ-_ or zero, not _-k-_. [Ross](../references.md#source-Ross1994a) ([1994](../references.md#source-Ross1994a)a) shows that Motu has borrowed lexicon from a southeast Papuan language; _rako_ may be such a borrowing. However, he also lists inherited items in which _&ast;k_ is reflected as Motu _-k-_. Note that Motu _rako_ 'twig' cannot regularly reflect POc _&ast;raga(q)_, as _&ast;g_ is reflected as Motu _g_.
+[^7]: It is unclear whether Motu _rako_ 'twig' is inherited or is borrowed from another Papuan Tip language. The usual reflexes of POc _&ast;-k-_ are Motu _-ɣ-_ or zero, not _-k-_. [Ross](../sources/Ross1994a) ([1994](../sources/Ross1994a)a) shows that Motu has borrowed lexicon from a southeast Papuan language; _rako_ may be such a borrowing. However, he also lists inherited items in which _&ast;k_ is reflected as Motu _-k-_. Note that Motu _rako_ 'twig' cannot regularly reflect POc _&ast;raga(q)_, as _&ast;g_ is reflected as Motu _g_.
 
-[^8]: Blust (ACD) suggests that the Micronesian data plus Bali _vakara_ 'root' support the reconstruction of a POc (unbound?) form _&ast;wakaR-a_ 'root'. As Bali _vakara_ 'root' is a regular reflex of POc _&ast;wakaR_ I have not reconstructed this form. There are a few other Proto Micronesian etyma that retain a POc final consonant and add _&ast;-a_; e.g. POc _&ast;pata(ŋ)_ is reflected as both _&ast;fata_ and _&ast;fataŋa_ 'tree trunk' in Proto Micronesian ([Bender et al. 2003](../references.md#source-Benderetal2003): 24).
+[^8]: Blust (ACD) suggests that the Micronesian data plus Bali _vakara_ 'root' support the reconstruction of a POc (unbound?) form _&ast;wakaR-a_ 'root'. As Bali _vakara_ 'root' is a regular reflex of POc _&ast;wakaR_ I have not reconstructed this form. There are a few other Proto Micronesian etyma that retain a POc final consonant and add _&ast;-a_; e.g. POc _&ast;pata(ŋ)_ is reflected as both _&ast;fata_ and _&ast;fataŋa_ 'tree trunk' in Proto Micronesian ([Bender et al. 2003](../sources/Benderetal2003): 24).
 
 [^9]: Editor's note: The morphology of POc inalienably possessed nouns with a stem-final consonant is obscure. Some reflexes suggest that a vowel was added before the suffix-initial consonant, e.g. _&ast;wakaR-i-ña_ 'its root', others that the stem-final consonant was lost, e.g. &ast;waka-ña.
 
 [^10]: Although Geraghty's reconstructions are all to the level of PEOc, he implies that _&ast;Ramu-_ 'hair, fibre' could be attributed to POc by giving Proto Papuan Tip _&ast;ramu_ 'root' as part of the supporting data.
 
-[^11]: [French-Wright](../references.md#source-FrenchWright1983) ([1983](../references.md#source-FrenchWright1983): 79) also reconstructs POc _&ast;kaka(R,d,l)_ 'to sprout' and _&ast;pisi_ 'to bud, of leaves; to blossom', but neither of these reconstructions is well-supported.
+[^11]: [French-Wright](../sources/FrenchWright1983) ([1983](../sources/FrenchWright1983): 79) also reconstructs POc _&ast;kaka(R,d,l)_ 'to sprout' and _&ast;pisi_ 'to bud, of leaves; to blossom', but neither of these reconstructions is well-supported.
 
-[^12]: [Sperlich](../references.md#source-Sperlich1997) ([1997](../references.md#source-Sperlich1997): 85) writes that Niuean _fua_ 'has a wide meaning range, mainly related to natural phenomena of growth, offspring, swelling and protective encasement used by various animals and plants'.
+[^12]: [Sperlich](../sources/Sperlich1997) ([1997](../sources/Sperlich1997): 85) writes that Niuean _fua_ 'has a wide meaning range, mainly related to natural phenomena of growth, offspring, swelling and protective encasement used by various animals and plants'.
 
-[^13]: [Blust](../references.md#source-Blust1976b) ([1976b](../references.md#source-Blust1976b)) reconstructs a term _&ast;kuRo_ 'stem, trunk' on the basis of Gela _kulo_ 'stem of a banana' and Samoan _ʔuo_ 'short thick log (about six feet long)', but the additional data presented above indicate that the Samoan form is not cognate, and that the POc term was more restricted in its meaning.
+[^13]: [Blust](../sources/Blust1976b) ([1976b](../sources/Blust1976b)) reconstructs a term _&ast;kuRo_ 'stem, trunk' on the basis of Gela _kulo_ 'stem of a banana' and Samoan _ʔuo_ 'short thick log (about six feet long)', but the additional data presented above indicate that the Samoan form is not cognate, and that the POc term was more restricted in its meaning.
 
 [^14]: Reflects &ast;kaligo rather than &ast;kalijo.
 
-[^15]: The _-ʔia_ ending of Kwaio _buluʔia_ probably reflects the transitive suffix and 3SG object suffix. While there is no corresponding intransitive form †_bulu_, Kwaio does have other forms that look to be derived from an original base _&ast;bulu_, such as _bulua_ 'squeeze together' and _iola bulubulu_ 'a traditional composite canoe' (_iola_ 'canoe') ([Keesing 1975](../references.md#source-Keesing1975): 29).
+[^15]: The _-ʔia_ ending of Kwaio _buluʔia_ probably reflects the transitive suffix and 3SG object suffix. While there is no corresponding intransitive form †_bulu_, Kwaio does have other forms that look to be derived from an original base _&ast;bulu_, such as _bulua_ 'squeeze together' and _iola bulubulu_ 'a traditional composite canoe' (_iola_ 'canoe') ([Keesing 1975](../sources/Keesing1975): 29).

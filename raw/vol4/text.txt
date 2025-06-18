@@ -285,7 +285,7 @@ __block__
 - their place within a working hypothesis of the relevant POc terminology (e.g., are terms complementary —‘bow’ implies ‘arrow’; ‘seine net’ implies ‘floats’ and ‘weights’? Are there different levels of classification—generic, specific, and so on?).
 
 For example, it proved possible to reconstruct the following POc terms for tying with cords
-(vol.l, ch.9, §10):
+(vol.1, ch.9, §10):
 
 __block__
 - POc _*buku_ ‘tie (a knot); fasten’
@@ -303,7 +303,7 @@ about the specific denotation of the item, and in the case of _*kiti_ this preve
 of a more specific meaning. The verb _*buku_ can be identified as the generic term for tying
 a knot because of its derivational relationship (by zero derivation) with a noun whose denotation
 is clearly generic, _*buku_ ‘node (as in bamboo or sugarcane); joint; knuckle; knot in
-wood, string or rope’ (vol.l, ch.4, §3.2). Reconstruction of the meaning of *p wita as ‘tie by
+wood, string or rope’ (vol.1, ch.4, §3.2). Reconstruction of the meaning of *p wita as ‘tie by
 encircling’ is supported by the meanings of the Lukep, Takia and Longgu reflexes, respectively
 ‘tie by encircling’, ‘tie on (as grass-skirt)’, and ‘trap an animal’s leg; tie s.t. around
 ankle or wrist’: Lukep and Takia are North New Guinea languages, whilst Longgu is SE
@@ -315,7 +315,7 @@ Micronesian, and Samoan is Polynesian. The meaning of _*pisi_ is similarly recon
 reference to the meanings of its Mono-Alu, Mota, Port Sandwich, Nguna and Fijian reflexes.
 
      Often, however, the authors have been less fortunate in the information available to them.
-For example, Osmond (vol.l, ch.8, §9) reconstructs six POc terms broadly glossed as ‘spear’.
+For example, Osmond (vol.1, ch.8, §9) reconstructs six POc terms broadly glossed as ‘spear’.
 Multiple terms for implements within one language imply that these items were used extensively
 and possibly in specialised ways. Can we throw light on these specialised ways?
 Unfortunately, some of the word lists and dictionaries available give minimal glosses, e.g.
@@ -718,7 +718,7 @@ PEOc, and Grace (1969), who applied it to POc. It has been used with a number of
 separated by a slash in Table 1.2. The second, introduced by Ross (1988), is the one generally
 used in this work. The terms ‘oral grade’ and ‘nasal grade’ were used by Grace (1969) and
 have become conventional among Oceanic linguists to refer to the outcomes of certain sound
-changes that occurred between PMP and POc (vol.l, ch.2, §2.4).
+changes that occurred between PMP and POc (vol.1, ch.2, §2.4).
 
 
 1.4 Conventions common to the series
@@ -5217,7 +5217,7 @@ fin forming a sail-like structure which folds
 into a groove. The swordfish (_Xiphias gladius_) is readily known by its particularly long blade-like rostrum. The adult swordfish differs
 from the marlin and sailfish in having no scales. The name for the sailfish in PMP and POc,
  _*saku-layaR_, is a compound, derived from _*saku_ ‘needlefish, garfish, long toms’ (§13) plus
- _*layaR_ ‘sail’ (see vol.l, p. 194). Referential range in reflexes often includes swordfishes and
+ _*layaR_ ‘sail’ (see vol.1, p. 194). Referential range in reflexes often includes swordfishes and
 marlin as well as sailfishes, although the first two lack the sail-like dorsal fin.
 
 <
@@ -8675,7 +8675,7 @@ concentric striae, including _Psammobidae_ and _Tellinidae_.
                                                                 Aquatic invertebrates    191
 
 <
-POc *kasi (v) ‘to scrape; scraper or grater made from robust circular bivalve shell, such as Asaphis and cockles’; (N) ‘shellfish taxon, esp. _Asaphis spp._’ (cf. vol.l, pp.162, 238-240)
+POc *kasi (v) ‘to scrape; scraper or grater made from robust circular bivalve shell, such as Asaphis and cockles’; (N) ‘shellfish taxon, esp. _Asaphis spp._’ (cf. vol.1, pp.162, 238-240)
   PT:  Tawala         kahi           ‘pearl shell’
   MM:  Nakanai        kasi           ‘mussel or clam; mussel shell used as knife’
   Fij: Rotuman        ʔɔsi           ‘cockle, shell much used for scraping’
@@ -8741,7 +8741,7 @@ grater’. It is likely that POc _*kuku(r)_ was polysemous, referring both to fo
 various kinds of shells and to mussels, which were used as scrapers.
 
 <
-POc *kuku(r) ‘mussel sp. or spp., used as food grater or scraper’ (see vol.l, p. 161)
+POc *kuku(r) ‘mussel sp. or spp., used as food grater or scraper’ (see vol.1, p. 161)
   Adm: Lou          kuki            ‘shell used to scrape coconut’
   NNG: Takia        kuk             ‘shellfish: _Anadara sp._, cockle shell’
   NNG: Kove         kuku            ‘little black horse mussel’
@@ -12601,8 +12601,7 @@ POc *iku(R) ‘tail, of quadruped, some birds and possibly fish’ (cf ch. 5, §
 [2] Isneg _motoŋ_ ‘mouth’. Iban _muncoŋ_ 'protruding, sticking out. esp. of jaw or lips', Toba Batak _munsuŋ_ ‘beak,
  snout’, Malay _moncoŋ_ ‘snout’, Wolio _muncu_ ‘(outside of the) mouth, beak, snout’.
 
-[3] Both _*ŋuju_ and _*muju_ were also apparently used for the carved prow of a canoe, i.e. its ‘beak’: see vol.l,
- p.189.
+[3] Both _*ŋuju_ and _*muju_ were also apparently used for the carved prow of a canoe, i.e. its ‘beak’: see vol.1, p.189.
 
 278     Ross Clark
 
@@ -12684,7 +12683,7 @@ __formgroup__
   Pn:       Maori         hua                ‘fruit, egg’
 
     Despite the great variety in the form and construction of birds’ nests (note PMic *fata
-‘platform, nest’ from POc *patar ‘platform’, vol.l, p.57 and p. 190), a common term can be
+‘platform, nest’ from POc *patar ‘platform’, vol.1, p.57 and p. 190), a common term can be
 reconstructed (sometimes stated as also applying to nests or dens of animals).
 
 <
@@ -12805,7 +12804,7 @@ POc *ta(p,pʷ)a ‘glide, soar’
 >
 
 <
-POc *toki ‘peck’ (also perhaps of fish nibbling at bait) (cf. *toki ‘chop’, vol.l, p.250)
+POc *toki ‘peck’ (also perhaps of fish nibbling at bait) (cf. *toki ‘chop’, vol.1, p.250)
   MM:  Patpatar       tōk          ‘peck (food)’
   SES: Tolo           tokia
 PMic *toki ‘bite, peck’ (Bender et al. 2003)

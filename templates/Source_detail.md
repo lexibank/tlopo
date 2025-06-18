@@ -1,1 +1,1 @@
-[{{ ml_label }}](../references.md#source-{{ ctx.id }})
+[{{ ml_label }}]({{ href_source(ctx.id) }})

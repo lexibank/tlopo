@@ -14,9 +14,9 @@ The products of the coconut palm are labelled by a complex terminology whose anc
 ## 2. The coconut palm
 
 
-Growing to between 20 and 30m in height, coconut palms are found in profusion along coasts and on lowlands throughout the Oceanic-speaking region. They need well drained, sandy soil, more than 1000 mm rain per year and plenty of sunlight. Because they tolerate salinity, they often grow along beaches ([French 1986](../references.md#source-French1986): 31). Coconuts appear to have spread from southeast Asia both naturally (coconuts float) and anthropogenically (carried in the canoes of early settlers).[^1]
+Growing to between 20 and 30m in height, coconut palms are found in profusion along coasts and on lowlands throughout the Oceanic-speaking region. They need well drained, sandy soil, more than 1000 mm rain per year and plenty of sunlight. Because they tolerate salinity, they often grow along beaches ([French 1986](../sources/French1986): 31). Coconuts appear to have spread from southeast Asia both naturally (coconuts float) and anthropogenically (carried in the canoes of early settlers).[^1]
 
-Just about every part of the palm and the fruit is used in traditional societies, and many of these parts are named. Because of the salience of the coconut in Oceanic cultures and because different uses are made of it at different stages of its growth, it is common for the fruit and palm to be given different names at different growth stages. These names are reconstructed in §3. Names for the parts of the fruit are reconstructed in §4 and for the parts of the palm other than the fruit in §5.
+Just about every part of the palm and the fruit is used in traditional societies, and many of these parts are named. Because of the salience of the coconut in Oceanic cultures and because different uses are made of it at different stages of its growth, it is common for the fruit and palm to be given different names at different growth stages. These names are reconstructed in [§3](../contributions/3-12#s-3). Names for the parts of the fruit are reconstructed in [§4](../contributions/3-12#s-4) and for the parts of the palm other than the fruit in [§5](../contributions/3-12#s-5).
 
 
 <a id="s-2-1"></a>
@@ -36,7 +36,7 @@ POc _&ast;niuR_ appears to have been used in at least two senses: the fruit at a
 <i>&ast;niuR</i>
 </td>
 <td>
-'<span>coconut, Cocos nucifera; ripe coconut (growth stage of C. nucifera)</span>' (<a href="../references.md#source-Dempwolff1938">Dempwolff1938</a>)
+'<span>coconut, Cocos nucifera; ripe coconut (growth stage of C. nucifera)</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
 </td>
 </tr>
 <tr>
@@ -48,213 +48,213 @@ POc _&ast;niuR_ appears to have been used in at least two senses: the fruit at a
 '<span>coconut palm and/or fruit, Cocos nucifera</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Loniu</td><td><i>niu</i></td>
+<td>Adm</td><td><a href="../languages/loniu">Loniu</a></td><td><i>niu</i></td>
 <td>
-'<span>coconut</span>' (<a href="../references.md#source-Nevermann1934">Nevermann1934</a>)
+'<span>coconut</span>' (<a href="../sources/Nevermann1934">Nevermann1934</a>)
 </td>
 </tr>
 <tr>
-<td>Adm</td><td>Titan</td><td><i>niw</i></td>
+<td>Adm</td><td><a href="../languages/titan">Titan</a></td><td><i>niw</i></td>
 <td>
 '<span>coconut, completely ripe</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kove</td><td><i>niu</i></td>
+<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td><i>niu</i></td>
 <td>
 '<span>coconut</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Numbami</td><td><i>niwila</i></td>
+<td>NNG</td><td><a href="../languages/numbami">Numbami</a></td><td><i>niwila</i></td>
 <td>
 '<span>coconut</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kaiwa</td><td><i>niuk</i></td>
+<td>NNG</td><td><a href="../languages/kaiwa">Kaiwa</a></td><td><i>niuk</i></td>
 <td>
 '<span>coconut</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Lukep (Pono)</td><td><i>(matuk) niu</i></td>
+<td>NNG</td><td><a href="../languages/lukeppono">Lukep (Pono)</a></td><td><i>(matuk) niu</i></td>
 <td>
 '<span>green coconut</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Gapapaiwa</td><td><i>niura</i></td>
+<td>PT</td><td><a href="../languages/gapapaiwa">Gapapaiwa</a></td><td><i>niura</i></td>
 <td>
 '<span>coconut</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Iamalele</td><td><i>niula</i></td>
+<td>PT</td><td><a href="../languages/iamalele">Iamalele</a></td><td><i>niula</i></td>
 <td>
 '<span>coconut (tree, nut, meat)</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Tawala</td><td><i>neula</i></td>
+<td>PT</td><td><a href="../languages/tawala">Tawala</a></td><td><i>neula</i></td>
 <td>
 '<span>coconut</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Sariba</td><td><i>niu</i></td>
+<td>PT</td><td><a href="../languages/sariba">Sariba</a></td><td><i>niu</i></td>
 <td>
 '<span>coconut</span>' (<span>archaic</span>)</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>niu</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>niu</i></td>
 <td>
 '<span>coconut tree and mature fruit</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Bola</td><td><i>niu</i></td>
+<td>MM</td><td><a href="../languages/bola">Bola</a></td><td><i>niu</i></td>
 <td>
 '<span>coconut</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nalik</td><td><i>nur</i></td>
+<td>MM</td><td><a href="../languages/nalik">Nalik</a></td><td><i>nur</i></td>
 <td>
 '<span>coconut</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tabar</td><td><i>niu</i></td>
+<td>MM</td><td><a href="../languages/tabar">Tabar</a></td><td><i>niu</i></td>
 <td>
 '<span>coconut</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Mono-Alu</td><td><i>niunu</i></td>
+<td>MM</td><td><a href="../languages/monoalu">Mono-Alu</a></td><td><i>niunu</i></td>
 <td>
 '<span>coconut</span>'</td>
 </tr>
 <tr>
-<td>TM</td><td>Buma</td><td><i>luro</i></td>
+<td>TM</td><td><a href="../languages/burna">Buma</a></td><td><i>luro</i></td>
 <td>
 '<span>coconut</span>'</td>
 </tr>
 <tr>
-<td>TM</td><td>Nebao</td><td><i>na-nə</i></td>
+<td>TM</td><td><a href="../languages/nebao">Nebao</a></td><td><i>na-nə</i></td>
 <td>
 '<span>coconut</span>'</td>
 </tr>
 <tr>
-<td>TM</td><td>Asumboa</td><td><i>u-ñio</i></td>
+<td>TM</td><td><a href="../languages/asuboa">Asumboa</a></td><td><i>u-ñio</i></td>
 <td>
 '<span>coconut</span>'</td>
 </tr>
 <tr>
-<td>TM</td><td>Tanibili</td><td><i>no-ñio</i></td>
+<td>TM</td><td><a href="../languages/tanibili">Tanibili</a></td><td><i>no-ñio</i></td>
 <td>
 '<span>coconut</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>niu</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>niu</i></td>
 <td>
 '<span>coconut palm, nut</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Kwaio</td><td><i>niu</i></td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>niu</i></td>
 <td>
 '<span>coconut</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>niu</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>niu</i></td>
 <td>
 '<span>coconut</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Nokuku</td><td><i>niu</i></td>
+<td>NCV</td><td><a href="../languages/nokuku">Nokuku</a></td><td><i>niu</i></td>
 <td>
 '<span>coconut</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Raga</td><td><i>niu</i></td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>niu</i></td>
 <td>
 '<span>coconut</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Uripiv</td><td><i>ne-ni</i></td>
+<td>NCV</td><td><a href="../languages/uripiv">Uripiv</a></td><td><i>ne-ni</i></td>
 <td>
 '<span>coconut</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Paamese</td><td><i>a-nii</i></td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>a-nii</i></td>
 <td>
 '<span>green coconut w. soft flesh</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Lewo</td><td><i>niu</i></td>
+<td>NCV</td><td><a href="../languages/lewo">Lewo</a></td><td><i>niu</i></td>
 <td>
 '<span>green drinking nut</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>South Efate</td><td><i>na-niu</i></td>
+<td>NCV</td><td><a href="../languages/southefate">South Efate</a></td><td><i>na-niu</i></td>
 <td>
 '<span>coconut</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Nêlêmwâ</td><td><i>nu</i></td>
+<td>NCal</td><td><a href="../languages/nelemwa">Nêlêmwâ</a></td><td><i>nu</i></td>
 <td>
 '<span>coconut</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Iaai</td><td><i>(wa)nu</i></td>
+<td>NCal</td><td><a href="../languages/iaai">Iaai</a></td><td><i>(wa)nu</i></td>
 <td>
 '<span>coconut</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Xârâcùù</td><td><i>nũ</i></td>
+<td>NCal</td><td><a href="../languages/xaracuu">Xârâcùù</a></td><td><i>nũ</i></td>
 <td>
 '<span>coconut</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kiribatese</td><td><i>nii</i></td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>nii</i></td>
 <td>
 '<span>coconut</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kosraean</td><td><i>nu</i></td>
+<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td><i>nu</i></td>
 <td>
 '<span>coconut</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Mokilese</td><td><i>ni</i></td>
+<td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td><i>ni</i></td>
 <td>
 '<span>coconut</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Marshallese</td><td><i>niy</i></td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>niy</i></td>
 <td>
 '<span>coconut</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Ponapean</td><td><i>nī</i></td>
+<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td><i>nī</i></td>
 <td>
 '<span>coconut</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Woleaian</td><td><i>lǖ</i></td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>lǖ</i></td>
 <td>
 '<span>coconut</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Puluwatese</td><td><i>nɨ̄</i></td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>nɨ̄</i></td>
 <td>
 '<span>coconut</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Trukese</td><td><i>nɨ̄</i></td>
+<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td><i>nɨ̄</i></td>
 <td>
 '<span>coconut</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>niu</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>niu</i></td>
 <td>
 '<span>coconut palm, nut</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>niu</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>niu</i></td>
 <td>
 '<span>coconut palm, nut</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>niu</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>niu</i></td>
 <td>
 '<span>coconut palm, nut</span>'</td>
 </tr>
@@ -281,9 +281,9 @@ The growth stages are distinguished according to the states of the various parts
 ### 3.1. Growth stage terminologies
 
 
-In the Oceanic view of the coconut's life cycle, the first stage is the formation of the tiny fruit from the bud. The fruit then acquires liquid, then soft flesh, and becomes a green drinking coconut. The main reason to pick the nut at this stage is to drink its water: a big nut contains up to one litre. As it matures, the outer skin turns from green to brown, and the flesh becomes harder and thereby suitable for scraping as a food ingredient and for wringing to produce coconut 'milk' or 'cream' (vol.1, ch.6, §5.8, and ch.9, §2.2 and §7). The liquid becomes less and less drinkable. At this stage the coconut falls from the tree, the liquid solidifies into a spongy mass (the 'apple') and finally, given appropriate circumstances, germination occurs and the coconut sprouts to become a new palm. This contrasts markedly with a botanist's view of the coconut's life cycle (e.g. M. [Foale 2003](../references.md#source-Foale2003): 43--50), which begins with germination, describes the stages of leaf production and culminates in flowering and fruiting. The botanist's view focusses on the palm, the Oceanic view on the fruit.
+In the Oceanic view of the coconut's life cycle, the first stage is the formation of the tiny fruit from the bud. The fruit then acquires liquid, then soft flesh, and becomes a green drinking coconut. The main reason to pick the nut at this stage is to drink its water: a big nut contains up to one litre. As it matures, the outer skin turns from green to brown, and the flesh becomes harder and thereby suitable for scraping as a food ingredient and for wringing to produce coconut 'milk' or 'cream' ([vol.1, ch.6, §5.8](../contributions/1-6#s-5-8), and [ch.9, §2.2](../contributions/3-9#s-2-2) and [§7](../contributions/3-12#s-7)). The liquid becomes less and less drinkable. At this stage the coconut falls from the tree, the liquid solidifies into a spongy mass (the 'apple') and finally, given appropriate circumstances, germination occurs and the coconut sprouts to become a new palm. This contrasts markedly with a botanist's view of the coconut's life cycle (e.g. M. [Foale 2003](../sources/Foale2003): 43--50), which begins with germination, describes the stages of leaf production and culminates in flowering and fruiting. The botanist's view focusses on the palm, the Oceanic view on the fruit.
 
-Sample growth stage terminologies from seven well distributed Oceanic languages are listed below. The Petats terminology is from an ethnography, the others from dictionaries. The Petats, Mota, Anejom, Wayan and Tikopia stages are given in chronological order by their sources, whilst the Gumawana and Arosi stages were gleaned from dictionaries one term at a time and we have ordered them as best we can. The terminologies vary in size from 8 stages to 14, but we should probably not take these differences too seriously, for reasons discussed in association with Table 12.1. The number of stages seems to be about right: [Glennon & Glennon](../references.md#source-GlennonandGlennon2005) ([2005](../references.md#source-GlennonandGlennon2005)) list 7 for Nehan, [Fox](../references.md#source-Fox1955) ([1955](../references.md#source-Fox1955)) 7 for Gela, T. [Crowley](../references.md#source-Crowley1992) ([1992](../references.md#source-Crowley1992)) 11 for Paamese, [Thieberger](../references.md#source-Thieberger2006b) ([2006b](../references.md#source-Thieberger2006b)) 10 for S Efate, [Abo et al.](../references.md#source-Aboetal1976) ([1976](../references.md#source-Aboetal1976)) 8-10 for Marshallese,[^5] [Churchward](../references.md#source-Churchward1959) ([1959](../references.md#source-Churchward1959)) 11 for Tongan. [Waterhouse](../references.md#source-Waterhouse1949) ([1949](../references.md#source-Waterhouse1949)) lists 18 for Roviana, in order but unfortunately not glossed.
+Sample growth stage terminologies from seven well distributed Oceanic languages are listed below. The Petats terminology is from an ethnography, the others from dictionaries. The Petats, Mota, Anejom, Wayan and Tikopia stages are given in chronological order by their sources, whilst the Gumawana and Arosi stages were gleaned from dictionaries one term at a time and we have ordered them as best we can. The terminologies vary in size from 8 stages to 14, but we should probably not take these differences too seriously, for reasons discussed in association with Table 12.1. The number of stages seems to be about right: [Glennon & Glennon](../sources/GlennonandGlennon2005) ([2005](../sources/GlennonandGlennon2005)) list 7 for Nehan, [Fox](../sources/Fox1955) ([1955](../sources/Fox1955)) 7 for Gela, T. [Crowley](../sources/Crowley1992) ([1992](../sources/Crowley1992)) 11 for Paamese, [Thieberger](../sources/Thieberger2006b) ([2006b](../sources/Thieberger2006b)) 10 for S Efate, [Abo et al.](../sources/Aboetal1976) ([1976](../sources/Aboetal1976)) 8-10 for Marshallese,[^5] [Churchward](../sources/Churchward1959) ([1959](../sources/Churchward1959)) 11 for Tongan. [Waterhouse](../sources/Waterhouse1949) ([1949](../sources/Waterhouse1949)) lists 18 for Roviana, in order but unfortunately not glossed.
 
 
 <a id="p-358"></a>
@@ -302,7 +302,7 @@ The first three terminologies, for Gumawana, Petats and Arosi, have sets of term
 | _nadaiyada_      | 'dry and fallen'               |
 | _tabona_         | 'sprouted'                     |
 
-| Petats (MM):    | 11 stages ([Blackwood 1935](../references.md#source-Blackwood1935): 310)                                    |
+| Petats (MM):    | 11 stages ([Blackwood 1935](../sources/Blackwood1935): 310)                                    |
 |:----------------|:-------------------------------------------------------------------|
 | _teo_           | 'very young nut'                                                   |
 | _pesis_, _peli_ | 'young nut before it contains liquid'                              |
@@ -316,7 +316,7 @@ The first three terminologies, for Gumawana, Petats and Arosi, have sets of term
 | _tus_, _alaun_  | 'nut which has become dry and fallen to the ground'                |
 | _hala_          | 'nut which has sprouted'                                           |
 
-| Arosi (SES):    | 12 stages ([Fox 1978](../references.md#source-Fox1978))                                            |
+| Arosi (SES):    | 12 stages ([Fox 1978](../sources/Fox1978))                                            |
 |:----------------|:----------------------------------------------------------------|
 | _ʔoraamai_      | 'the first bud of a coconut'                                    |
 | _kopu_          | 'newly formed fruit'                                            |
@@ -334,9 +334,9 @@ The first three terminologies, for Gumawana, Petats and Arosi, have sets of term
 
 <a id="p-359"></a>
 
-The order of the Mota items below is that given by [Codrington & Palmer](../references.md#source-CodringtonandPalmer1896) ([1896](../references.md#source-CodringtonandPalmer1896): 84), except that we have added _vara_, not included among their growth stage terms. However, their definitions (scattered under the various entries in the dictionary) suggest that their sequencing may be wrong, as _pulutyar_ and _pepeya_ appear to belong before _vusa maremare_ (see discussion in association with Table 12.1).
+The order of the Mota items below is that given by [Codrington & Palmer](../sources/CodringtonandPalmer1896) ([1896](../sources/CodringtonandPalmer1896): 84), except that we have added _vara_, not included among their growth stage terms. However, their definitions (scattered under the various entries in the dictionary) suggest that their sequencing may be wrong, as _pulutyar_ and _pepeya_ appear to belong before _vusa maremare_ (see discussion in association with Table 12.1).
 
-| Mota (NCV):     | 14 stages ([Codrington & Palmer 1896](../references.md#source-CodringtonandPalmer1896))                                                     |
+| Mota (NCV):     | 14 stages ([Codrington & Palmer 1896](../sources/CodringtonandPalmer1896))                                                     |
 |:----------------|:-----------------------------------------------------------------------------------------|
 | _wovaŋ_         | 'bud'                                                                                    |
 | _matmateɣapun_  | 'just set, like the eye of a yapun crab'                                                 |
@@ -357,7 +357,7 @@ The last three terminologies, Anejom, Wayan Fijian and Tikopia, differ from thos
 
 Anejom and Tikopia also recognise respectively three and four stages of sprouted coconut, but it can be argued that these are growth stages of the palm, not of the fruit. The other languages may have corresponding terms that are not listed as coconut growth stages.
 
-| Anejom (SV):              | 11 stages ([Lynch 2001c](../references.md#source-Lynch2001c))                                             |
+| Anejom (SV):              | 11 stages ([Lynch 2001c](../sources/Lynch2001c))                                             |
 |:--------------------------|:--------------------------------------------------------------------|
 | _nacomʷ_                  | 'flower'                                                            |
 | _nohowa-nhuau_            | 'very small coconut' (lit. 'fruit a.boil')                          |
@@ -374,7 +374,7 @@ Anejom and Tikopia also recognise respectively three and four stages of sprouted
 
 <a id="p-360"></a>
 
-| Wayan Fijian (Fij):   | 7 stages ([Pawley & Sayaba 2003](../references.md#source-PawleyandSayaba2003))                                                                                                                                                                   |
+| Wayan Fijian (Fij):   | 7 stages ([Pawley & Sayaba 2003](../sources/PawleyandSayaba2003))                                                                                                                                                                   |
 |:----------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | _bū takeri_           | 'very small coconut' (lit. 'fruit a.boil')                                                                                                                                                        |
 | _sula_                | 'immature stage, before flesh has formed; full of liquid'                                                                                                                                         |
@@ -384,7 +384,7 @@ Anejom and Tikopia also recognise respectively three and four stages of sprouted
 | _sama_                | 'fully mature, old, a stage when no juice is left inside the nut and the flesh is oily and no longer edible but ready to be dried for copra or to be grated and squeezed to obtain coconut cream' |
 | _vara_                | 'ripe coconut, germinating; spongy flesh in kernel of ripe coconut'                                                                                                                               |
 
-| Tikopia (Pn):        | 11 stages ([Firth 1985](../references.md#source-Firth1985))                                                                 |
+| Tikopia (Pn):        | 11 stages ([Firth 1985](../sources/Firth1985))                                                                 |
 |:---------------------|:---------------------------------------------------------------------------------------|
 | _foi kārekāre_       | 'very young with soft shell' (joi classifier, karekare 'very young plant')             |
 | _niu mata kaere_     | 'young with soft shell and flesh barely formed' (lit. 'coconut unripe very.young')     |
@@ -429,7 +429,7 @@ This means that stages 2, 6, 9 and 12, shown in bold in Table 12.1 are the effec
 
 <a id="p-362"></a>
 
-| Tongan (Pn):        | 11 stages ([Churchward 1959](../references.md#source-Churchward1959))               |
+| Tongan (Pn):        | 11 stages ([Churchward 1959](../sources/Churchward1959))               |
 |:--------------------|:------------------------------------------|
 | _po-niu_            | 'newly formed coconut'                    |
 | _niu ŋono_          |                                           |
@@ -455,7 +455,7 @@ Reconstructions for the four landmark stages, 2, 6, 9 and 12, are presented firs
 ### 3.2. Growth stage 2: very small newly formed fruit
 
 
-Two weakly supported etyma, POc _&ast;(q)a-bʷaji_ and PEOc _&ast;kiripʷa_, can be offered for stage 2, 'very small newly formed fruit'.[^8] The former may contain the root _&ast;bʷaji_, which also occurs in POc _&ast;bʷaji-bʷaji_ 'coconut growth stage 4 or 5' (§3.6).
+Two weakly supported etyma, POc _&ast;(q)a-bʷaji_ and PEOc _&ast;kiripʷa_, can be offered for stage 2, 'very small newly formed fruit'.[^8] The former may contain the root _&ast;bʷaji_, which also occurs in POc _&ast;bʷaji-bʷaji_ 'coconut growth stage 4 or 5' ([§3.6](../contributions/3-12#s-3-6)).
 
 <table id="3-12-3-2-362-POc-qabaji-a">
 <tr>
@@ -467,12 +467,12 @@ Two weakly supported etyma, POc _&ast;(q)a-bʷaji_ and PEOc _&ast;kiripʷa_, can
 '<span>coconut growth stage 2: very small newly formed fruit</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Kara (East)</td><td><i>vəbos</i></td>
+<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td><i>vəbos</i></td>
 <td>
 '<span>undeveloped coconut</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Kwamera</td><td><i>(i)apʷas</i></td>
+<td>SV</td><td><a href="../languages/kwamera">Kwamera</a></td><td><i>(i)apʷas</i></td>
 <td>
 '<span>small coconut, coconut fruit bud</span>'</td>
 </tr>
@@ -490,17 +490,17 @@ Two weakly supported etyma, POc _&ast;(q)a-bʷaji_ and PEOc _&ast;kiripʷa_, can
 '<span>coconut growth stage 2: very small newly formed fruit</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>'Are'are</td><td><i>kiriwa</i></td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>kiriwa</i></td>
 <td>
 '<span>immature coconut</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Mokilese</td><td><i>kiripʷ</i></td>
+<td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td><i>kiripʷ</i></td>
 <td>
 '<span>young coconut up to one inch in diameter</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Ponapean</td><td><i>kurupʷ</i></td>
+<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td><i>kurupʷ</i></td>
 <td>
 '<span>immature coconut before teaching the growth stage called <em>ūpʷ</em></span>'</td>
 </tr>
@@ -529,33 +529,33 @@ Two forms can be reconstructed for landmark stage 6, 'green drinkable coconut wi
 '<span>coconut growth stage 6: green, drinkable</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Hula</td><td><i>kalu</i></td>
+<td>PT</td><td><a href="../languages/hula">Hula</a></td><td><i>kalu</i></td>
 <td>
 '<span>half ripened coconut</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>karu</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>karu</i></td>
 <td>
 '<span>young drinking coconut</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Lala</td><td><i>alu-ʔalu</i></td>
+<td>PT</td><td><a href="../languages/lala">Lala</a></td><td><i>alu-ʔalu</i></td>
 <td>
 '<span>young drinking coconut</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Petats</td><td><i>ka-karut</i></td>
+<td>MM</td><td><a href="../languages/petats">Petats</a></td><td><i>ka-karut</i></td>
 <td>
-'<span>nut containing liquid before flesh appears</span>' (<a href="../references.md#source-Blackwood1935">Blackwood1935</a>)
+'<span>nut containing liquid before flesh appears</span>' (<a href="../sources/Blackwood1935">Blackwood1935</a>)
 </td>
 </tr>
 <tr>
-<td>SES</td><td>Longgu</td><td><i>ʔaru</i></td>
+<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td><i>ʔaru</i></td>
 <td>
 '<span>a coconut ready to drink and eat</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>'Are'are</td><td><i>aru</i></td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>aru</i></td>
 <td>
 '<span>green drinking coconut</span>'</td>
 </tr>
@@ -575,27 +575,27 @@ The other term, _&ast;polo_, is less well reflected. Glosses pointing to growth 
 '<span>coconut growth stage 6: green, drinkable</span>' (<span>?</span>)</td>
 </tr>
 <tr>
-<td>Adm</td><td>Lou</td><td><i>puɔl</i></td>
+<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td><i>puɔl</i></td>
 <td>
 '<span>coconut</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Barok</td><td><i>polo</i></td>
+<td>MM</td><td><a href="../languages/barok">Barok</a></td><td><i>polo</i></td>
 <td>
 '<span>young drinking coconut</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Sursurunga</td><td><i>pol</i></td>
+<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td><i>pol</i></td>
 <td>
 '<span>young drinking coconut</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Label</td><td><i>polo</i></td>
+<td>MM</td><td><a href="../languages/label">Label</a></td><td><i>polo</i></td>
 <td>
 '<span>coconut water, young drinking coconut</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Siar</td><td><i>polo</i></td>
+<td>MM</td><td><a href="../languages/siar">Siar</a></td><td><i>polo</i></td>
 <td>
 '<span>coconut water</span>'</td>
 </tr>
@@ -618,7 +618,7 @@ Reconstructable terms for stage 9, 'ripe, flesh hardened', are POc _&ast;matuqu_
 <i>&ast;matu(qu)</i>
 </td>
 <td>
-'<span>dry coconut</span>' (<a href="../references.md#source-Blust1978a">Blust1978a</a>)
+'<span>dry coconut</span>' (<a href="../sources/Blust1978a">Blust1978a</a>)
 </td>
 </tr>
 <tr>
@@ -630,137 +630,137 @@ Reconstructable terms for stage 9, 'ripe, flesh hardened', are POc _&ast;matuqu_
 '<span>coconut growth stage 9: ripe, flesh hardened</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Lukep (Pono)</td><td><i>matuk</i></td>
+<td>NNG</td><td><a href="../languages/lukeppono">Lukep (Pono)</a></td><td><i>matuk</i></td>
 <td>
 '<span>coconut (generic)</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Atui</td><td><i>(ka)mutuk</i></td>
+<td>NNG</td><td><a href="../languages/atui">Atui</a></td><td><i>(ka)mutuk</i></td>
 <td>
 '<span>ripe coconut</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Roinji</td><td><i>mutuɣo-na</i></td>
+<td>NNG</td><td><a href="../languages/roinji">Roinji</a></td><td><i>mutuɣo-na</i></td>
 <td>
 '<span>ripe coconut</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Matukar</td><td><i>matiwa-n</i></td>
+<td>NNG</td><td><a href="../languages/matukar">Matukar</a></td><td><i>matiwa-n</i></td>
 <td>
 '<span>ripe coconut</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Sariba</td><td><i>matuli-na</i></td>
+<td>PT</td><td><a href="../languages/sariba">Sariba</a></td><td><i>matuli-na</i></td>
 <td>
 '<span>ripe coconut, ready to fall</span>' (<span>-li- &lt; ?</span>)</td>
 </tr>
 <tr>
-<td>PT</td><td>Sudest</td><td><i>matu</i></td>
+<td>PT</td><td><a href="../languages/sudest">Sudest</a></td><td><i>matu</i></td>
 <td>
 '<span>dry coconut</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mwotlap</td><td><i>na-mtiɣ</i></td>
+<td>NCV</td><td><a href="../languages/mwotlap">Mwotlap</a></td><td><i>na-mtiɣ</i></td>
 <td>
 '<span>coconut (generic)</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>matiɣ</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>matiɣ</i></td>
 <td>
 '<span>coconut (generic)</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Ambae</td><td><i>matui</i></td>
+<td>NCV</td><td><a href="../languages/ambae">Ambae</a></td><td><i>matui</i></td>
 <td>
 '<span>coconut (generic)</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Nokuku</td><td><i>metui</i></td>
+<td>NCV</td><td><a href="../languages/nokuku">Nokuku</a></td><td><i>metui</i></td>
 <td>
 '<span>coconut (generic)</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Tape</td><td><i>mətiu</i></td>
+<td>NCV</td><td><a href="../languages/tape">Tape</a></td><td><i>mətiu</i></td>
 <td>
 '<span>ripe coconut</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Big Nambas</td><td><i>nᫀətu</i></td>
+<td>NCV</td><td><a href="../languages/bignambas">Big Nambas</a></td><td><i>nᫀətu</i></td>
 <td>
 '<span>ripe coconut</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Avava</td><td><i>(ani) met-met</i></td>
+<td>NCV</td><td><a href="../languages/avava">Avava</a></td><td><i>(ani) met-met</i></td>
 <td>
 '<span>dry coconut but not fallen</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Port Sandwich</td><td><i>marue</i></td>
+<td>NCV</td><td><a href="../languages/portsandwich">Port Sandwich</a></td><td><i>marue</i></td>
 <td>
 '<span>ripe coconut</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Paamese</td><td><i>matou</i></td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>matou</i></td>
 <td>
 '<span>dry coconut</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Lewo</td><td><i>maru</i></td>
+<td>NCV</td><td><a href="../languages/lewo">Lewo</a></td><td><i>maru</i></td>
 <td>
 '<span>coconut (generic)</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Ura</td><td><i>na-mda</i></td>
+<td>SV</td><td><a href="../languages/ura">Ura</a></td><td><i>na-mda</i></td>
 <td>
 '<span>green, starting to dry</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Sye</td><td><i>na-mte</i></td>
+<td>SV</td><td><a href="../languages/sye">Sye</a></td><td><i>na-mte</i></td>
 <td>
 '<span>ripe coconut</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Anejom</td><td><i>(neañ)metou</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>(neañ)metou</i></td>
 <td>
 '<span>drinking coconut with hard flesh</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Iaai</td><td><i>o-mɨṭ</i></td>
+<td>NCal</td><td><a href="../languages/iaai">Iaai</a></td><td><i>o-mɨṭ</i></td>
 <td>
 '<span>ripe, yellow</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Xârâcùù</td><td><i>nû-mʌtʌ</i></td>
+<td>NCal</td><td><a href="../languages/xaracuu">Xârâcùù</a></td><td><i>nû-mʌtʌ</i></td>
 <td>
 '<span>ripe coconut</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Marshallese</td><td><i>məcə(wipᶭ)</i></td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>məcə(wipᶭ)</i></td>
 <td>
 '<span>coconut, nearly ripe</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Rotuman</td><td><i>mafu</i></td>
+<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td><i>mafu</i></td>
 <td>
 '<span>mature and hard (of wood), lumpy (ofpudding), ripe and hard (of coconuts)</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>madū</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>madū</i></td>
 <td>
 '<span>dry (of wood and mature coconuts)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>(niu) motuʔu</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>(niu) motuʔu</i></td>
 <td>
 '<span>coconut growth stage: ripe</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>East Futunan</td><td><i>(niu) mataʔu</i></td>
+<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td><i>(niu) mataʔu</i></td>
 <td>
 '<span>very ripe dry coconut</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Takuu</td><td><i>matuu</i></td>
+<td>Pn</td><td><a href="../languages/takuu">Takuu</a></td><td><i>matuu</i></td>
 <td>
 '<span>coconut growth stage: mature coconut</span>'</td>
 </tr>
@@ -780,36 +780,36 @@ The Fijian gloss below calls into question the gloss of POc _&ast;kulu_. However
 <i>&ast;kulu</i>
 </td>
 <td>
-'<span>coconut growth stage 9: ripe, flesh hardened</span>' (<a href="../references.md#source-FrenchWright1983">FrenchWright1983</a>)
+'<span>coconut growth stage 9: ripe, flesh hardened</span>' (<a href="../sources/FrenchWright1983">FrenchWright1983</a>)
 </td>
 </tr>
 <tr>
-<td>MM</td><td>Tangga</td><td><i>kulu</i></td>
+<td>MM</td><td><a href="../languages/tangga">Tangga</a></td><td><i>kulu</i></td>
 <td>
 '<span>fully grown drinking coconut</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Uvol</td><td><i>kul-kuli</i></td>
+<td>NNG</td><td><a href="../languages/uvol">Uvol</a></td><td><i>kul-kuli</i></td>
 <td>
 '<span>ripe coconut</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>'Are'are</td><td><i>ʔuru-ʔuru</i></td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>ʔuru-ʔuru</i></td>
 <td>
 '<span>ripe coconut</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>ʔulu-ʔulu</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>ʔulu-ʔulu</i></td>
 <td>
 '<span>ripe coconut</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Araki</td><td><i>holo</i></td>
+<td>NCV</td><td><a href="../languages/araki">Araki</a></td><td><i>holo</i></td>
 <td>
 '<span>coconut</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>kulu-kulu</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>kulu-kulu</i></td>
 <td>
 '<span>the youngest stage of the coconut</span>'</td>
 </tr>
@@ -834,7 +834,7 @@ cf. also:
 </table>
 
 
-The reconstruction of POc _&ast;maRaŋo_ 'coconut growth stage 9: ripe, flesh hardened (or stage 10: dry and ready to fall)' entails a phonological problem. I assumed in vol. 2 (ch.7, §5.6) that reflexes of this term were cognate with reflexes of POc _&ast;[ma]raŋo_ 'become withered (of vegetation)', reconstructed by Osmond in vol. 1 (ch.5, §9.4). I assumed further that both reflected PMP _&ast;(ma)Raŋaw_ and that the POc form was _&ast;[ma]Raŋo_, regularly reflecting the PMP form. As I noted in vol.2, this is problematic, as Southeast Solomonic reflexes of the form _raŋo_ 'be withered' reflect POc _&ast;r_, not _&ast;R_.
+The reconstruction of POc _&ast;maRaŋo_ 'coconut growth stage 9: ripe, flesh hardened (or stage 10: dry and ready to fall)' entails a phonological problem. I assumed in [vol. 2 (ch.7, §5.6](../contributions/2-7#s-5-6)) that reflexes of this term were cognate with reflexes of POc _&ast;[ma]raŋo_ 'become withered (of vegetation)', reconstructed by Osmond in [vol. 1 (ch.5, §9.4](../contributions/1-5#s-9-4)). I assumed further that both reflected PMP _&ast;(ma)Raŋaw_ and that the POc form was _&ast;[ma]Raŋo_, regularly reflecting the PMP form. As I noted in vol.2, this is problematic, as Southeast Solomonic reflexes of the form _raŋo_ 'be withered' reflect POc _&ast;r_, not _&ast;R_.
 
 
 <a id="p-365"></a>
@@ -852,7 +852,7 @@ Other than the items mentioned in the previous paragraph, none of the items belo
 <i>&ast;(ma)Raŋaw</i>
 </td>
 <td>
-'<span>dry</span>' (<a href="../references.md#source-Blust1981b">Blust1981b</a>)
+'<span>dry</span>' (<a href="../sources/Blust1981b">Blust1981b</a>)
 </td>
 </tr>
 <tr>
@@ -864,77 +864,77 @@ Other than the items mentioned in the previous paragraph, none of the items belo
 '<span>coconut growth stage 9: ripe, flesh hardened (or stage 10: dry and ready to fall)</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Medebur</td><td><i>meraŋu-ŋ</i></td>
+<td>NNG</td><td><a href="../languages/medebur">Medebur</a></td><td><i>meraŋu-ŋ</i></td>
 <td>
 '<span>ripe coconut</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kairiru</td><td><i>maraŋ</i></td>
+<td>NNG</td><td><a href="../languages/kairiru">Kairiru</a></td><td><i>maraŋ</i></td>
 <td>
 '<span>ripe coconut</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Meramera</td><td><i>mala</i></td>
+<td>MM</td><td><a href="../languages/meramera">Meramera</a></td><td><i>mala</i></td>
 <td>
 '<span>ripe coconut</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Kara (East)</td><td><i>məyaŋ</i></td>
+<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td><i>məyaŋ</i></td>
 <td>
 '<span>dry coconut</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nalik</td><td><i>maraŋ</i></td>
+<td>MM</td><td><a href="../languages/nalik">Nalik</a></td><td><i>maraŋ</i></td>
 <td>
 '<span>ripe coconut</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Lihir</td><td><i>malan</i></td>
+<td>MM</td><td><a href="../languages/lihir">Lihir</a></td><td><i>malan</i></td>
 <td>
 '<span>ripe coconut</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Barok</td><td><i>maŋa</i></td>
+<td>MM</td><td><a href="../languages/barok">Barok</a></td><td><i>maŋa</i></td>
 <td>
 '<span>ripe coconut</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Susurunga</td><td><i>maraŋ</i></td>
+<td>MM</td><td><a href="../languages/susurunga">Susurunga</a></td><td><i>maraŋ</i></td>
 <td>
 '<span>(be) old, dry; (old) coconut with lots of meat and little milk</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Patpatar</td><td><i>maraŋa</i></td>
+<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td><i>maraŋa</i></td>
 <td>
 '<span>dry coconut</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Baelelea</td><td><i>maleŋa</i></td>
+<td>SES</td><td><a href="../languages/baelelea">Baelelea</a></td><td><i>maleŋa</i></td>
 <td>
 '<span>coconut</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Naman</td><td><i>(neni) meraŋ</i></td>
+<td>NCV</td><td><a href="../languages/naman">Naman</a></td><td><i>(neni) meraŋ</i></td>
 <td>
 '<span>ripe coconut</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Neve’ei</td><td><i>(nani) meraŋ</i></td>
+<td>NCV</td><td><a href="../languages/neveei">Neve’ei</a></td><td><i>(nani) meraŋ</i></td>
 <td>
 '<span>ripe coconut</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Larëvat</td><td><i>(nən) meraŋ</i></td>
+<td>NCV</td><td><a href="../languages/larevat">Larëvat</a></td><td><i>(nən) meraŋ</i></td>
 <td>
 '<span>ripe coconut</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Nese</td><td><i>(nani) naraŋ</i></td>
+<td>NCV</td><td><a href="../languages/nese">Nese</a></td><td><i>(nani) naraŋ</i></td>
 <td>
 '<span>ripe coconut</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Tape</td><td><i>meaŋ</i></td>
+<td>NCV</td><td><a href="../languages/tape">Tape</a></td><td><i>meaŋ</i></td>
 <td>
 '<span>green coconut with flesh that has become hard and water that has begun to go fizzy</span>' (<span>J. Lynch, pers. comm.</span>)</td>
 </tr>
@@ -952,57 +952,57 @@ Other than the items mentioned in the previous paragraph, none of the items belo
 '<span>become withered (ofvegetation)</span>' (<span>vol. 1, ch.5, §9.4</span>)</td>
 </tr>
 <tr>
-<td>Adm</td><td>Mussau</td><td><i>malaŋo</i></td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>malaŋo</i></td>
 <td>
 '<span>dry</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Manam</td><td><i>maraŋo</i></td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>maraŋo</i></td>
 <td>
 '<span>dry, arid</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Susurunga</td><td><i>maraŋ</i></td>
+<td>MM</td><td><a href="../languages/susurunga">Susurunga</a></td><td><i>maraŋ</i></td>
 <td>
 '<span>(be) old, dry; (old) coconut with lots of meat and little milk</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tolai</td><td><i>ma-raŋa</i></td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>ma-raŋa</i></td>
 <td>
 '<span>withered, dry (leaves, husk, tree)</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Selau</td><td><i>raŋo</i></td>
+<td>MM</td><td><a href="../languages/selau">Selau</a></td><td><i>raŋo</i></td>
 <td>
 '<span>dry</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Bugotu</td><td><i>raŋo</i></td>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>raŋo</i></td>
 <td>
 '<span>wither (leaves, yam vines)</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>raŋo</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>raŋo</i></td>
 <td>
 '<span>be withered, dry (esp. yams when vine withers)</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>raŋo</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>raŋo</i></td>
 <td>
 '<span>withered, dead (of grass, green boughs + )</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>raŋo</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>raŋo</i></td>
 <td>
 '<span>become dried up in the course of nature</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Tape</td><td><i>məraŋ</i></td>
+<td>NCV</td><td><a href="../languages/tape">Tape</a></td><td><i>məraŋ</i></td>
 <td>
 '<span>(of wood, leaves) dry</span>' (<span>J. Lynch, pers. comm.</span>)</td>
 </tr>
 <tr>
-<td>SV</td><td>Kwamera</td><td><i>(kahi)mareŋi</i></td>
+<td>SV</td><td><a href="../languages/kwamera">Kwamera</a></td><td><i>(kahi)mareŋi</i></td>
 <td>
 '<span>turning brown</span>'</td>
 </tr>
@@ -1036,9 +1036,9 @@ cf. also:
 ### 3.5. Growth stage 12: sprouting
 
 
-Growth stage 12, the sprouted coconut, is evidently strongly associated in Oceanic minds with the spongy mass (the 'apple ') inside it - the coagulated remains of the coconut water, eaten as a delicacy in many parts of Oceania ([Peekel 1984](../references.md#source-Peekel1984): 65). Terms for the spongy mass inside the sprouting nut are given in §4.3.
+Growth stage 12, the sprouted coconut, is evidently strongly associated in Oceanic minds with the spongy mass (the 'apple ') inside it - the coagulated remains of the coconut water, eaten as a delicacy in many parts of Oceania ([Peekel 1984](../sources/Peekel1984): 65). Terms for the spongy mass inside the sprouting nut are given in [§4.3](../contributions/3-12#s-4-3).
 
-The cognate set below apparently reflects POc _&ast;tubuq_ 'grow, swell' (vol.1, ch.5, §9.2), with the added meaning '(plant) sprout'. Probably, as in Taboro _niu tubu-na_, the verb was used attributively with the term for coconut to denote growth stage 12.
+The cognate set below apparently reflects POc _&ast;tubuq_ 'grow, swell' ([vol.1, ch.5, §9.2](../contributions/1-5#s-9-2)), with the added meaning '(plant) sprout'. Probably, as in Taboro _niu tubu-na_, the verb was used attributively with the term for coconut to denote growth stage 12.
 
 <table id="3-12-3-5-366-pt-taboro-niutubuna">
 <tr>
@@ -1083,37 +1083,37 @@ POc _&ast;tabʷa_ 'coconut growth stage 12: sprouted' is formally similar to but
 '<span>coconut growth stage 12: sprouted</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Ulau-Suain</td><td><i>tabu-ñ</i></td>
+<td>NNG</td><td><a href="../languages/ulausuain">Ulau-Suain</a></td><td><i>tabu-ñ</i></td>
 <td>
 '<span>young drinking coconut</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Ali</td><td><i>tapu-ŋ</i></td>
+<td>NNG</td><td><a href="../languages/ali">Ali</a></td><td><i>tapu-ŋ</i></td>
 <td>
 '<span>young drinking coconut</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Dobu</td><td><i>tabʷa(-anuwa)</i></td>
+<td>PT</td><td><a href="../languages/dobu">Dobu</a></td><td><i>tabʷa(-anuwa)</i></td>
 <td>
 '<span>coconut sprouted</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Gumawana</td><td><i>tabo</i></td>
+<td>PT</td><td><a href="../languages/gumawana">Gumawana</a></td><td><i>tabo</i></td>
 <td>
 '<span>a shoot; flesh inside a coconut that has sprouted</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Gumawana</td><td><i>tabo-na</i></td>
+<td>PT</td><td><a href="../languages/gumawana">Gumawana</a></td><td><i>tabo-na</i></td>
 <td>
 '<span>coconut growth stage: coconut that has sprouted</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Raga</td><td><i>tabʷe(-laha)</i></td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>tabʷe(-laha)</i></td>
 <td>
 '<span>coconut shell drinking cup</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Anejom</td><td><i>na-tpʷa(-neañ)</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>na-tpʷa(-neañ)</i></td>
 <td>
 '<span>spongy mass formed in a coconut that has started to shoot</span>'</td>
 </tr>
@@ -1183,72 +1183,72 @@ Three terms, POc _&ast;kubu_, POc _&ast;bʷaji-bʷaji_ and PWOc _&ast;pʷiga_, d
 '<span>coconut growth stage 3, 4 or 5: young and green</span>' (<span>ACD: *umpu: 'young coconut?'</span>)</td>
 </tr>
 <tr>
-<td>Adm</td><td>Wuvulu</td><td><i>upu</i></td>
+<td>Adm</td><td><a href="../languages/wuvulu">Wuvulu</a></td><td><i>upu</i></td>
 <td>
-'<span>mature coconut with meat</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>mature coconut with meat</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
-<td>Adm</td><td>Aua</td><td><i>upu</i></td>
+<td>Adm</td><td><a href="../languages/aua">Aua</a></td><td><i>upu</i></td>
 <td>
-'<span>young coconut</span>' (<a href="../references.md#source-Blust1978b">Blust1978b: 131</a>)
+'<span>young coconut</span>' (<a href="../sources/Blust1978b">Blust1978b: 131</a>)
 </td>
 </tr>
 <tr>
-<td>Adm</td><td>Seimat</td><td><i>up</i></td>
+<td>Adm</td><td><a href="../languages/seimat">Seimat</a></td><td><i>up</i></td>
 <td>
-'<span>coconut</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>coconut</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
-<td>MM</td><td>Solos</td><td><i>kubo</i></td>
+<td>MM</td><td><a href="../languages/solos">Solos</a></td><td><i>kubo</i></td>
 <td>
 '<span>young drinking coconut</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Petats</td><td><i>kuvo</i></td>
+<td>MM</td><td><a href="../languages/petats">Petats</a></td><td><i>kuvo</i></td>
 <td>
 '<span>nut with meat a little firmer than the prototypical drinking coconut</span>' (<span>see Petats terminology above</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td>Tinputz</td><td><i>(oē) kupū</i></td>
+<td>MM</td><td><a href="../languages/tinputz">Tinputz</a></td><td><i>(oē) kupū</i></td>
 <td>
 '<span>green coconut with meat</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Roviana</td><td><i>kubo(lokuhu)</i></td>
+<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td><i>kubo(lokuhu)</i></td>
 <td>
 '<span>very young coconut</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Longgu</td><td><i>kobu</i></td>
+<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td><i>kobu</i></td>
 <td>
 '<span>young coconut that has no meat, only water</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>kopu</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>kopu</i></td>
 <td>
 '<span>newly formed fruit</span>' (<span>see Arosi terminology above; probably a borrowing from another SES language</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>ʔobu</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>ʔobu</i></td>
 <td>
 '<span>drinking nut</span>' (<span>see Arosi terminology above</span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kosraean</td><td><i>uf</i></td>
+<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td><i>uf</i></td>
 <td>
-'<span>young coconut</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>young coconut</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
-<td>Mic</td><td>Ponapean</td><td><i>ūpʷ</i></td>
+<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td><i>ūpʷ</i></td>
 <td>
-'<span>drinking coconut</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>drinking coconut</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
-<td>Mic</td><td>Mokilese</td><td><i>upʷ</i></td>
+<td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td><i>upʷ</i></td>
 <td>
 '<span>coconut stage, unripe, younger than a drinking coconut</span>'</td>
 </tr>
@@ -1268,27 +1268,27 @@ POc _&ast;bʷaji-bʷaji_ appears to have denoted either stage 4 (young, green, l
 '<span>coconut growth stage 4 or 5</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Mussau</td><td><i>pasi-pasi-na</i></td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>pasi-pasi-na</i></td>
 <td>
 '<span>young drinking coconut</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Gumawana</td><td><i>bosi-bosi</i></td>
+<td>PT</td><td><a href="../languages/gumawana">Gumawana</a></td><td><i>bosi-bosi</i></td>
 <td>
 '<span>large green drinkable coconut still on the tree</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Kilivila</td><td><i>bʷai-bʷai</i></td>
+<td>PT</td><td><a href="../languages/kilivila">Kilivila</a></td><td><i>bʷai-bʷai</i></td>
 <td>
 '<span>young drinking coconut</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Misima</td><td><i>bʷal-bʷal</i></td>
+<td>PT</td><td><a href="../languages/misima">Misima</a></td><td><i>bʷal-bʷal</i></td>
 <td>
 '<span>young coconut with water but no meat</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Sudest</td><td><i>bʷadi-bʷadi</i></td>
+<td>PT</td><td><a href="../languages/sudest">Sudest</a></td><td><i>bʷadi-bʷadi</i></td>
 <td>
 '<span>coconut</span>'</td>
 </tr>
@@ -1299,7 +1299,7 @@ POc _&ast;bʷaji-bʷaji_ appears to have denoted either stage 4 (young, green, l
 
 <a id="p-368"></a>
 
-[Ross](../references.md#source-Ross1996d) ([1996d](../references.md#source-Ross1996d)) suggested that the cognate set reflecting PWOc _&ast;pʷiga_ implied a stage 5 meaning 'just drinkable' because in both PT languages and Roviana we find the apparently independent semantic development in meaning to 'drinking vessel'. The element _ku-_ in Ramoaaina _ku-bika_ occurs in coconut terms in a number of Meso-Melanesian languages, and it is evidently cognate with Nehan _ku_ 'coconut oil'. The prefixed element in the Muyuw and Dobu terms may or may not be cognate.
+[Ross](../sources/Ross1996d) ([1996d](../sources/Ross1996d)) suggested that the cognate set reflecting PWOc _&ast;pʷiga_ implied a stage 5 meaning 'just drinkable' because in both PT languages and Roviana we find the apparently independent semantic development in meaning to 'drinking vessel'. The element _ku-_ in Ramoaaina _ku-bika_ occurs in coconut terms in a number of Meso-Melanesian languages, and it is evidently cognate with Nehan _ku_ 'coconut oil'. The prefixed element in the Muyuw and Dobu terms may or may not be cognate.
 
 <table id="3-12-3-6-368-PWOc-piga-a">
 <tr>
@@ -1311,42 +1311,42 @@ POc _&ast;bʷaji-bʷaji_ appears to have denoted either stage 4 (young, green, l
 '<span>coconut growth stage 3, 4 or 5: young and green</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Suau (Daui)</td><td><i>biga-biga-na</i></td>
+<td>PT</td><td><a href="../languages/suaudaui">Suau (Daui)</a></td><td><i>biga-biga-na</i></td>
 <td>
 '<span>young drinking coconut</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Kilivila</td><td><i>viga</i></td>
+<td>PT</td><td><a href="../languages/kilivila">Kilivila</a></td><td><i>viga</i></td>
 <td>
 '<span>cup, drinking vessel</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Muyuw</td><td><i>(kʷa)vig</i></td>
+<td>PT</td><td><a href="../languages/muyuw">Muyuw</a></td><td><i>(kʷa)vig</i></td>
 <td>
 '<span>half coconut shell used as cup</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Dobu</td><td><i>(ke)iga</i></td>
+<td>PT</td><td><a href="../languages/dobu">Dobu</a></td><td><i>(ke)iga</i></td>
 <td>
 '<span>cup</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Maisin</td><td><i>vuga</i></td>
+<td>PT</td><td><a href="../languages/maisin">Maisin</a></td><td><i>vuga</i></td>
 <td>
 '<span>cup</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Ramoaaina</td><td><i>(ku)bika</i></td>
+<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>(ku)bika</i></td>
 <td>
 '<span>coconut growth stage before a green drinking coconut</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nduke</td><td><i>bika</i></td>
+<td>MM</td><td><a href="../languages/nduke">Nduke</a></td><td><i>bika</i></td>
 <td>
 '<span>small green coconut</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Roviana</td><td><i>piga</i></td>
+<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td><i>piga</i></td>
 <td>
 '<span>coconut shell used as a bottle</span>'</td>
 </tr>
@@ -1354,7 +1354,7 @@ POc _&ast;bʷaji-bʷaji_ appears to have denoted either stage 4 (young, green, l
 
 
 
-In vol. 2 (ch. 7, §5.6) POc _&ast;goRu_ 'dry, of vegetation; coconut growth stage: dry and ready to fall' was reconstructed. This gloss places a lot of weight on the Mota gloss: taken together the glosses suggest a stage 9 or 10 meaning, i.e. either 'ripe' or 'dry and ready to fall' . Lavukaleve, the non-Austronesian language of the Russell Islands (central Solomons) has _ŋgolus_ 'old dry coconut' (Angela Terrill, pers. comm.), apparently borrowed from a NW Solomonic language that regularly retained POc final consonants. For this reason, we tentatively reconstruct POc final _&ast;-s_ here.
+In [vol. 2 (ch. 7, §5.6](../contributions/2-7#s-5-6)) POc _&ast;goRu_ 'dry, of vegetation; coconut growth stage: dry and ready to fall' was reconstructed. This gloss places a lot of weight on the Mota gloss: taken together the glosses suggest a stage 9 or 10 meaning, i.e. either 'ripe' or 'dry and ready to fall' . Lavukaleve, the non-Austronesian language of the Russell Islands (central Solomons) has _ŋgolus_ 'old dry coconut' (Angela Terrill, pers. comm.), apparently borrowed from a NW Solomonic language that regularly retained POc final consonants. For this reason, we tentatively reconstruct POc final _&ast;-s_ here.
 
 <table id="3-12-3-6-368-POc-magorus-a">
 <tr>
@@ -1363,41 +1363,41 @@ In vol. 2 (ch. 7, §5.6) POc _&ast;goRu_ 'dry, of vegetation; coconut growth sta
 <i>&ast;[ma-]goRu(s)</i>
 </td>
 <td>
-'<span>dry, of vegetation; coconut growth stage 9 or 10: ripe, perhaps dry and ready to fall</span>' (<a href="../references.md#source-Ross1996d">Ross1996d</a>)
+'<span>dry, of vegetation; coconut growth stage 9 or 10: ripe, perhaps dry and ready to fall</span>' (<a href="../sources/Ross1996d">Ross1996d</a>)
 </td>
 </tr>
 <tr>
-<td>NNG</td><td>Malai</td><td><i>gor-gori</i></td>
+<td>NNG</td><td><a href="../languages/malai">Malai</a></td><td><i>gor-gori</i></td>
 <td>
 '<span>ripe coconut</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Mamusi</td><td><i>kolu-ŋana</i></td>
+<td>NNG</td><td><a href="../languages/mamusi">Mamusi</a></td><td><i>kolu-ŋana</i></td>
 <td>
 '<span>ripe coconut</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nakanai</td><td><i>ma-golu</i></td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>ma-golu</i></td>
 <td>
 '<span>dried up, withered; of a coconut, dry enough to fall</span>' (<span>A. Chowning, pers. comm.</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td>Lengo</td><td><i>golu</i></td>
+<td>SES</td><td><a href="../languages/lengo">Lengo</a></td><td><i>golu</i></td>
 <td>
 '<span>coconut flesh</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>kor</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>kor</i></td>
 <td>
 '<span>coconut in its last condition before it falls from the tree; dry (of other things too)</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Atchin</td><td><i>kor</i></td>
+<td>NCV</td><td><a href="../languages/atchin">Atchin</a></td><td><i>kor</i></td>
 <td>
 '<span>dry coconut</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Uripiv</td><td><i>(na-ni) kur</i></td>
+<td>NCV</td><td><a href="../languages/uripiv">Uripiv</a></td><td><i>(na-ni) kur</i></td>
 <td>
 '<span>mature coconut (with firm meat and dry husk)</span>'</td>
 </tr>
@@ -1411,7 +1411,7 @@ In vol. 2 (ch. 7, §5.6) POc _&ast;goRu_ 'dry, of vegetation; coconut growth sta
 ## 4. Parts of the coconut fruit
 
 
-Terms for coconut parts are divided here into parts of the fruit (this section) and parts of the palm (§5). As we noted earlier _&ast;niuR_ denoted both the palm and the fruit. POc speakers evidently distinguished between them by calling the palm _&ast;puqun ni niuR_, literally 'trunk of coconut') and the fruit _&ast;puaq ni niuR_ 'fruit of coconut', reflected in Bauan and Wayan Fijian as _vu ni niu_ and _vua ni niu_ and in Tongan as _fuʔu ni niu_ and _foʔi niu_ (ch.2, §7.1.3).
+Terms for coconut parts are divided here into parts of the fruit (this section) and parts of the palm ([§5](../contributions/3-12#s-5)). As we noted earlier _&ast;niuR_ denoted both the palm and the fruit. POc speakers evidently distinguished between them by calling the palm _&ast;puqun ni niuR_, literally 'trunk of coconut') and the fruit _&ast;puaq ni niuR_ 'fruit of coconut', reflected in Bauan and Wayan Fijian as _vu ni niu_ and _vua ni niu_ and in Tongan as _fuʔu ni niu_ and _foʔi niu_ ([ch.2, §7.1.3](../contributions/3-2#s-7-1-3)).
 
 
 <a id="p-369"></a>
@@ -1426,11 +1426,11 @@ In traditional times a palm bore between 5 and 30 coconuts a year, depending on 
 
 The fruit parts for which reconstructions are provided here are thus:
 
-- coconut water (§4.1)
-- hardened flesh and its products (§4.2)
-- the 'apple' (§4.3)
-- the husk (§4.4)
-- the shell (§4.5)
+- coconut water ([§4.1](../contributions/3-12#s-4-1))
+- hardened flesh and its products ([§4.2](../contributions/3-12#s-4-2))
+- the 'apple' ([§4.3](../contributions/3-12#s-4-3))
+- the husk ([§4.4](../contributions/3-12#s-4-4))
+- the shell ([§4.5](../contributions/3-12#s-4-5))
 
 
 <a id="s-4-1"></a>
@@ -1438,7 +1438,7 @@ The fruit parts for which reconstructions are provided here are thus:
 ### 4.1. Coconut water
 
 
-POc _&ast;suRuq_ appears to have denoted drinkable liquids in general, including soups, but perhaps excluding plain water: its range clearly included coconut water. No more specialised designation for coconut water has been reconstructed, and it seems likely that the terms for a green drinking coconut (§3.3) were also used for the water inside it.[^13]
+POc _&ast;suRuq_ appears to have denoted drinkable liquids in general, including soups, but perhaps excluding plain water: its range clearly included coconut water. No more specialised designation for coconut water has been reconstructed, and it seems likely that the terms for a green drinking coconut ([§3.3](../contributions/3-12#s-3-3)) were also used for the water inside it.[^13]
 
 <table id="3-12-4-1-369-POc-suruq-a">
 <tr>
@@ -1450,122 +1450,122 @@ POc _&ast;suRuq_ appears to have denoted drinkable liquids in general, including
 '<span>sap, soup, drinkable liquid derived from plants, fruits or trees</span>' (<span>Milke 1961: <em>*suRu(q)</em></span>)</td>
 </tr>
 <tr>
-<td>Adm</td><td>Loniu</td><td><i>cuy</i></td>
+<td>Adm</td><td><a href="../languages/loniu">Loniu</a></td><td><i>cuy</i></td>
 <td>
 '<span>soup</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Titan</td><td><i>sui</i></td>
+<td>Adm</td><td><a href="../languages/titan">Titan</a></td><td><i>sui</i></td>
 <td>
 '<span>half-ripe coconut</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kove</td><td><i>suhu</i></td>
+<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td><i>suhu</i></td>
 <td>
 '<span>drinkable liquids; also tears, saliva</span>' (<span>A. Chowning, pers. comm.</span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td>Gitua</td><td><i>suru</i></td>
+<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td><i>suru</i></td>
 <td>
 '<span>coconut water, soup</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Gitua</td><td><i>suru-suru</i></td>
+<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td><i>suru-suru</i></td>
 <td>
 '<span>saliva</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Bing</td><td><i>sur</i></td>
+<td>NNG</td><td><a href="../languages/bing">Bing</a></td><td><i>sur</i></td>
 <td>
 '<span>coconut water, soup</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Manam</td><td><i>suru</i></td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>suru</i></td>
 <td>
 '<span>soup</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Yabem</td><td><i>sulu</i></td>
+<td>NNG</td><td><a href="../languages/yabem">Yabem</a></td><td><i>sulu</i></td>
 <td>
 '<span>soup</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Yabem</td><td><i>(awa)sulu</i></td>
+<td>NNG</td><td><a href="../languages/yabem">Yabem</a></td><td><i>(awa)sulu</i></td>
 <td>
 '<span>saliva</span>' (<span>i.e. 'sap of mouth', <em>awa-</em> 'mouth'</span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kaiwa</td><td><i>ro-ruk</i></td>
+<td>NNG</td><td><a href="../languages/kaiwa">Kaiwa</a></td><td><i>ro-ruk</i></td>
 <td>
 '<span>soup</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kaiwa</td><td><i>(avo)rulu-</i></td>
+<td>NNG</td><td><a href="../languages/kaiwa">Kaiwa</a></td><td><i>(avo)rulu-</i></td>
 <td>
 '<span>saliva</span>' (<span>i.e. 'sap of mouth', <em>avo-</em> 'mouth'</span>)</td>
 </tr>
 <tr>
-<td>PT</td><td>Dobu</td><td><i>sulu</i></td>
+<td>PT</td><td><a href="../languages/dobu">Dobu</a></td><td><i>sulu</i></td>
 <td>
 '<span>coconut water</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Molima</td><td><i>sulu</i></td>
+<td>PT</td><td><a href="../languages/molima">Molima</a></td><td><i>sulu</i></td>
 <td>
 '<span>coconut water</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Bali</td><td><i>zuruka</i></td>
+<td>MM</td><td><a href="../languages/bali">Bali</a></td><td><i>zuruka</i></td>
 <td>
 '<span>coconut water</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Halia</td><td><i>siru</i></td>
+<td>MM</td><td><a href="../languages/halia">Halia</a></td><td><i>siru</i></td>
 <td>
 '<span>soup</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tinputz</td><td><i>hun</i></td>
+<td>MM</td><td><a href="../languages/tinputz">Tinputz</a></td><td><i>hun</i></td>
 <td>
 '<span>coconut water</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Mono-Alu</td><td><i>lulu</i></td>
+<td>MM</td><td><a href="../languages/monoalu">Mono-Alu</a></td><td><i>lulu</i></td>
 <td>
 '<span>soup</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>To'aba'ita</td><td><i>sulu</i></td>
+<td>SES</td><td><a href="../languages/toabaita">To'aba'ita</a></td><td><i>sulu</i></td>
 <td>
 '<span>juice, liquid of fruit; broth, sauce, gravy</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>suru</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>suru</i></td>
 <td>
 '<span>coconut water; k.o. yam soup</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Raga</td><td><i>hu-</i></td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>hu-</i></td>
 <td>
 '<span>oil, liquid, juice, semen</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Paamese</td><td><i>sii-</i></td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>sii-</i></td>
 <td>
 '<span>juice</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Nguna</td><td><i>na-su(a)</i></td>
+<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td><i>na-su(a)</i></td>
 <td>
 '<span>coconut water, juice, soup</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>sū</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>sū</i></td>
 <td>
 '<span>be moist; (taro) be watery</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>su(a)</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>su(a)</i></td>
 <td>
 '<span>liquid, fluid; jouice; coconut milk; soup</span>'</td>
 </tr>
@@ -1588,17 +1588,17 @@ The weakly attested etymon POc _&ast;namo_ may have denoted 'coconut water' or a
 '<span>coconut water</span>'; '<span>coconut growth stage: 3, 4 or 5: young and green</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Bulu</td><td><i>namo</i></td>
+<td>MM</td><td><a href="../languages/bulu">Bulu</a></td><td><i>namo</i></td>
 <td>
 '<span>coconut water</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Bola</td><td><i>namo</i></td>
+<td>MM</td><td><a href="../languages/bola">Bola</a></td><td><i>namo</i></td>
 <td>
 '<span>coconut water</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>South Efate</td><td><i>namʷ</i></td>
+<td>NCV</td><td><a href="../languages/southefate">South Efate</a></td><td><i>namʷ</i></td>
 <td>
 '<span>coconut growth stage: young, green, liquid but no flesh yet</span>'</td>
 </tr>
@@ -1614,7 +1614,7 @@ The weakly attested etymon POc _&ast;namo_ may have denoted 'coconut water' or a
 
 When the coconut is ripe, the hardened flesh is either removed from the shell and cut up, or scraped from the shell using a coconut scraper. Scraping produces parings which are then squeezed to produce coconut milk.[^14]
 
-The best candidate for 'coconut flesh' is POc _&ast;kanoŋ_, a fossilised reflex of PMP _&ast;kan-en_ 'something to be eaten, food', itself a nominalisation of the PMP verb 'eat', _&ast;kaʔen_, or _&ast;kan_ in the context of certain affixes. POc _&ast;kanoŋ_ had evidently lost its expected sense and denoted 'flesh, inner substance, coconut flesh'. The morphology of POc nominalisations is discussed in vol.1 (ch.2, §3.2.1).[^15]
+The best candidate for 'coconut flesh' is POc _&ast;kanoŋ_, a fossilised reflex of PMP _&ast;kan-en_ 'something to be eaten, food', itself a nominalisation of the PMP verb 'eat', _&ast;kaʔen_, or _&ast;kan_ in the context of certain affixes. POc _&ast;kanoŋ_ had evidently lost its expected sense and denoted 'flesh, inner substance, coconut flesh'. The morphology of POc nominalisations is discussed in [vol.1 (ch.2, §3.2.1](../contributions/1-2#s-3-2-1)).[^15]
 
 <table id="3-12-4-2-370-POc-kano-a">
 <tr>
@@ -1634,32 +1634,32 @@ The best candidate for 'coconut flesh' is POc _&ast;kanoŋ_, a fossilised reflex
 '<span>flesh, inner substance, coconut flesh</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Tuam</td><td><i>anoŋa</i></td>
+<td>NNG</td><td><a href="../languages/tuam">Tuam</a></td><td><i>anoŋa</i></td>
 <td>
 '<span>seed, fruit</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Malalamai</td><td><i>anuŋa</i></td>
+<td>NNG</td><td><a href="../languages/malalamai">Malalamai</a></td><td><i>anuŋa</i></td>
 <td>
 '<span>coconut flesh</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Lukep (Pono)</td><td><i>kano-</i></td>
+<td>NNG</td><td><a href="../languages/lukeppono">Lukep (Pono)</a></td><td><i>kano-</i></td>
 <td>
 '<span>fruit (of, e.g., breadfruit), inner substance</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Sio</td><td><i>kanaŋo</i></td>
+<td>NNG</td><td><a href="../languages/sio">Sio</a></td><td><i>kanaŋo</i></td>
 <td>
 '<span>coconut flesh</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tangga</td><td><i>kono</i></td>
+<td>MM</td><td><a href="../languages/tangga">Tangga</a></td><td><i>kono</i></td>
 <td>
 '<span>coconut flesh</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>ʔano</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>ʔano</i></td>
 <td>
 '<span>bulb, tuber, part of tree below ground</span>'</td>
 </tr>
@@ -1672,32 +1672,32 @@ The best candidate for 'coconut flesh' is POc _&ast;kanoŋ_, a fossilised reflex
 '<span>flesh, seed</span>' (<span>POLLEX</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>kano</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>kano</i></td>
 <td>
 '<span>flesh, substance</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>ka-kano</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>ka-kano</i></td>
 <td>
 '<span>flesh, contents or substance</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Pukapukan</td><td><i>kano</i></td>
+<td>Pn</td><td><a href="../languages/pukapukan">Pukapukan</a></td><td><i>kano</i></td>
 <td>
 '<span>the real or essential part of something</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>kano</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>kano</i></td>
 <td>
 '<span>flesh or meat of anything; substance</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>ʔa-ʔano</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>ʔa-ʔano</i></td>
 <td>
 '<span>flesh; kernel, meat, including meat of coconut</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Hawaiian</td><td><i>ʔano</i></td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>ʔano</i></td>
 <td>
 '<span>kind, nature, character, color, meaning</span>'</td>
 </tr>
@@ -1720,52 +1720,52 @@ PWOc _&ast;lamati_ seems to have designated dry coconut flesh, but has undergone
 '<span>dry coconut flesh</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Poeng</td><td><i>lamasi</i></td>
+<td>NNG</td><td><a href="../languages/poeng">Poeng</a></td><td><i>lamasi</i></td>
 <td>
 '<span>coconut</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Sissano</td><td><i>(new-)lamat</i></td>
+<td>NNG</td><td><a href="../languages/sissano">Sissano</a></td><td><i>(new-)lamat</i></td>
 <td>
 '<span>coconut meat</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tigak</td><td><i>lamas</i></td>
+<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td><i>lamas</i></td>
 <td>
 '<span>dried coconut meat for copra</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Kara (East)</td><td><i>ləməs</i></td>
+<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td><i>ləməs</i></td>
 <td>
 '<span>coconut meat, dried coconut meat for copra</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Gumawana</td><td><i>(naku-)lamata</i></td>
+<td>PT</td><td><a href="../languages/gumawana">Gumawana</a></td><td><i>(naku-)lamata</i></td>
 <td>
 '<span>coconut growth stage: starts turning brown</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Lihir</td><td><i>lames</i></td>
+<td>MM</td><td><a href="../languages/lihir">Lihir</a></td><td><i>lames</i></td>
 <td>
 '<span>coconut</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Sursurunga</td><td><i>lamas</i></td>
+<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td><i>lamas</i></td>
 <td>
 '<span>coconut, coconut palm</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Patpatar</td><td><i>ləmas</i></td>
+<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td><i>ləmas</i></td>
 <td>
 '<span>dry coconut</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tolai–Nodup</td><td><i>lamai</i></td>
+<td>MM</td><td><a href="../languages/tolainodup">Tolai–Nodup</a></td><td><i>lamai</i></td>
 <td>
 '<span>coconut</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Kandas</td><td><i>lamas</i></td>
+<td>MM</td><td><a href="../languages/kandas">Kandas</a></td><td><i>lamas</i></td>
 <td>
 '<span>coconut</span>'</td>
 </tr>
@@ -1793,52 +1793,52 @@ The reconstructions below relate to the process of squeezing coconut flesh to pr
 '<span>coconut pulp; pudding made by squeezing</span>'; '<span>grind</span>' (<span>perhaps</span>)</td>
 </tr>
 <tr>
-<td>Adm</td><td>Lou</td><td><i>pɔr</i></td>
+<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td><i>pɔr</i></td>
 <td>
 '<span>coconut cream</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Drehet</td><td><i>puroŋ</i></td>
+<td>Adm</td><td><a href="../languages/drehet">Drehet</a></td><td><i>puroŋ</i></td>
 <td>
 '<span>coconut pulp</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Lukep (Pono)</td><td><i>poroŋ</i></td>
+<td>NNG</td><td><a href="../languages/lukeppono">Lukep (Pono)</a></td><td><i>poroŋ</i></td>
 <td>
 '<span>taro cake</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Takia</td><td><i>furoŋ</i></td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>furoŋ</i></td>
 <td>
 '<span>pudding made of banana/taro and canarium nuts</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Atui</td><td><i>pur</i></td>
+<td>NNG</td><td><a href="../languages/atui">Atui</a></td><td><i>pur</i></td>
 <td>
 '<span>scrape coconut</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Akolet</td><td><i>puru</i></td>
+<td>NNG</td><td><a href="../languages/akolet">Akolet</a></td><td><i>puru</i></td>
 <td>
 '<span>scrape coconut</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nakanai</td><td><i>pulo</i></td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>pulo</i></td>
 <td>
 '<span>squeeze coconut cream onto food before cooking</span>' (<span>A. Chowning, pers. comm.</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td>Kara (East)</td><td><i>pur</i></td>
+<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td><i>pur</i></td>
 <td>
 '<span>mah: coconut milk</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Patpatar</td><td><i>polon</i></td>
+<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td><i>polon</i></td>
 <td>
 '<span>coconut milk</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Ramoaaina</td><td><i>pur</i></td>
+<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>pur</i></td>
 <td>
 '<span>squeeze coconut milk onto food</span>'</td>
 </tr>
@@ -1849,7 +1849,7 @@ The reconstructions below relate to the process of squeezing coconut flesh to pr
 
 <a id="p-372"></a>
 
-The distinction between 'coconut cream' and 'coconut milk' is fuzzy. The cream is the first product of squeezing, whereas the milk is the product of further squeezing after water has been added (M. [Foale 2003](../references.md#source-Foale2003): 87). The POc term for coconut milk and coconut cream was _&ast;g(o,u)reŋ_ 'coconut milk, coconut cream', also apparently a nominalisation, but one for which no corresponding verb is known.
+The distinction between 'coconut cream' and 'coconut milk' is fuzzy. The cream is the first product of squeezing, whereas the milk is the product of further squeezing after water has been added (M. [Foale 2003](../sources/Foale2003): 87). The POc term for coconut milk and coconut cream was _&ast;g(o,u)reŋ_ 'coconut milk, coconut cream', also apparently a nominalisation, but one for which no corresponding verb is known.
 
 <table id="3-12-4-2-372-POc-goure-a">
 <tr>
@@ -1861,27 +1861,27 @@ The distinction between 'coconut cream' and 'coconut milk' is fuzzy. The cream i
 '<span>coconut milk, coconut cream</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Bariai</td><td><i>goreŋa</i></td>
+<td>NNG</td><td><a href="../languages/bariai">Bariai</a></td><td><i>goreŋa</i></td>
 <td>
 '<span>coconut milk (from dry coconuts, not for drinking)</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Tuam</td><td><i>goreŋ</i></td>
+<td>NNG</td><td><a href="../languages/tuam">Tuam</a></td><td><i>goreŋ</i></td>
 <td>
 '<span>coconut milk</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kapin</td><td><i>(ma)goleŋ</i></td>
+<td>NNG</td><td><a href="../languages/kapin">Kapin</a></td><td><i>(ma)goleŋ</i></td>
 <td>
 '<span>coconut</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Ubir</td><td><i>uren</i></td>
+<td>PT</td><td><a href="../languages/ubir">Ubir</a></td><td><i>uren</i></td>
 <td>
 '<span>coconut oil</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Tawala</td><td><i>gulena</i></td>
+<td>PT</td><td><a href="../languages/tawala">Tawala</a></td><td><i>gulena</i></td>
 <td>
 '<span>coconut milk</span>'</td>
 </tr>
@@ -1891,51 +1891,51 @@ The distinction between 'coconut cream' and 'coconut milk' is fuzzy. The cream i
 <i>&ast;ar(e,o)ŋ, ar(e,o)ŋu-</i>
 </td>
 <td>
-'<span>coconut cream, scraped coconut meat</span>' (<a href="../references.md#source-Benderetal2003">Benderetal2003</a>)
+'<span>coconut cream, scraped coconut meat</span>' (<a href="../sources/Benderetal2003">Benderetal2003</a>)
 </td>
 </tr>
 <tr>
-<td>Mic</td><td>Kiribatese</td><td><i>(te)aoŋ</i></td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>(te)aoŋ</i></td>
 <td>
 '<span>scraped coconut mixed with other food</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Marshallese</td><td><i>yalᶭ</i></td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>yalᶭ</i></td>
 <td>
 '<span>coconut milk</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Ponapean</td><td><i>ɛriŋ</i></td>
+<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td><i>ɛriŋ</i></td>
 <td>
 '<span>ripe coconut</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Mokilese</td><td><i>ɔriŋ</i></td>
+<td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td><i>ɔriŋ</i></td>
 <td>
 '<span>brown stage of coconut</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Trukese</td><td><i>arɨŋ</i></td>
+<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td><i>arɨŋ</i></td>
 <td>
 '<span>coconut cream</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Carolinian</td><td><i>arɨŋ</i></td>
+<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td><i>arɨŋ</i></td>
 <td>
 '<span>coconut cream</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Woleaian</td><td><i>yaẓeŋɨ</i></td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>yaẓeŋɨ</i></td>
 <td>
 '<span>coconut cream, bone marrow, coconut milk</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Sonsorolese</td><td><i>yaləŋɨ</i></td>
+<td>Mic</td><td><a href="../languages/sonsorolese">Sonsorolese</a></td><td><i>yaləŋɨ</i></td>
 <td>
 '<span>coconut cream</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Pulo-Annan</td><td><i>yalaŋi</i></td>
+<td>Mic</td><td><a href="../languages/puloannan">Pulo-Annan</a></td><td><i>yalaŋi</i></td>
 <td>
 '<span>coconut milk</span>'</td>
 </tr>
@@ -1952,7 +1952,7 @@ Coconut oil, produced by boiling the milk, was apparently regarded as a form of 
 <i>&ast;meñak</i>
 </td>
 <td>
-'<span>fat, grease</span>' (<a href="../references.md#source-Dempwolff1938">Dempwolff1938</a>)
+'<span>fat, grease</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
 </td>
 </tr>
 <tr>
@@ -1961,61 +1961,61 @@ Coconut oil, produced by boiling the milk, was apparently regarded as a form of 
 <i>&ast;moñak</i>
 </td>
 <td>
-'<span>fat, oil, cream, coconut cream; tasty</span>' (<a href="../references.md#source-Blust1978b">Blust1978b</a>)
+'<span>fat, oil, cream, coconut cream; tasty</span>' (<a href="../sources/Blust1978b">Blust1978b</a>)
 </td>
 </tr>
 <tr>
-<td>Adm</td><td>Mussau</td><td><i>mona</i></td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>mona</i></td>
 <td>
 '<span>fat, tas~y</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Manam</td><td><i>mona-mona</i></td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>mona-mona</i></td>
 <td>
 '<span>tasty</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kairiru</td><td><i>moñeq</i></td>
+<td>NNG</td><td><a href="../languages/kairiru">Kairiru</a></td><td><i>moñeq</i></td>
 <td>
 '<span>food</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Sariba</td><td><i>mo-mona-</i></td>
+<td>PT</td><td><a href="../languages/sariba">Sariba</a></td><td><i>mo-mona-</i></td>
 <td>
 '<span>coconut oil, grease, pig fat</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tabar</td><td><i>monaki</i></td>
+<td>MM</td><td><a href="../languages/tabar">Tabar</a></td><td><i>monaki</i></td>
 <td>
 '<span>fat</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Lihir</td><td><i>maniok</i></td>
+<td>MM</td><td><a href="../languages/lihir">Lihir</a></td><td><i>maniok</i></td>
 <td>
 '<span>fat</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Lamasong</td><td><i>monok</i></td>
+<td>MM</td><td><a href="../languages/lamasong">Lamasong</a></td><td><i>monok</i></td>
 <td>
 '<span>coconut cream</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Madak</td><td><i>monouk</i></td>
+<td>MM</td><td><a href="../languages/madak">Madak</a></td><td><i>monouk</i></td>
 <td>
 '<span>fat</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Barok</td><td><i>manok</i></td>
+<td>MM</td><td><a href="../languages/barok">Barok</a></td><td><i>manok</i></td>
 <td>
 '<span>fat</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tolai</td><td><i>monoi</i></td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>monoi</i></td>
 <td>
 '<span>fat</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>mona</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>mona</i></td>
 <td>
 '<span>coconut cream</span>'</td>
 </tr>
@@ -2043,7 +2043,7 @@ The reconstruction of POc _&ast;paraq_ entails a small phonological puzzle. For 
 <i>&ast;para</i>
 </td>
 <td>
-'<span>coconut embryo</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>coconut embryo</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -2055,123 +2055,123 @@ The reconstruction of POc _&ast;paraq_ entails a small phonological puzzle. For 
 '<span>spongy mass inside sprouting nut; brain</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Titan</td><td><i>pare-n</i></td>
+<td>Adm</td><td><a href="../languages/titan">Titan</a></td><td><i>pare-n</i></td>
 <td>
 '<span>brain, sprout</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Bariai</td><td><i>para</i></td>
+<td>NNG</td><td><a href="../languages/bariai">Bariai</a></td><td><i>para</i></td>
 <td>
 [v] '<span>sprout</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Bariai</td><td><i>pata-ŋa</i></td>
+<td>NNG</td><td><a href="../languages/bariai">Bariai</a></td><td><i>pata-ŋa</i></td>
 <td>
 '<span>brain</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Iduna</td><td><i>valaga</i></td>
+<td>PT</td><td><a href="../languages/iduna">Iduna</a></td><td><i>valaga</i></td>
 <td>
 '<span>seed inside coconut; old yam</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Kilivila</td><td><i>valiga</i></td>
+<td>PT</td><td><a href="../languages/kilivila">Kilivila</a></td><td><i>valiga</i></td>
 <td>
-'<span>coconut sprout, coconut sponge</span>' (<a href="../references.md#source-Malinowski1935b">Malinowski1935b: 112</a>)
+'<span>coconut sprout, coconut sponge</span>' (<a href="../sources/Malinowski1935b">Malinowski1935b: 112</a>)
 </td>
 </tr>
 <tr>
-<td>PT</td><td>Hula</td><td><i>vala</i></td>
+<td>PT</td><td><a href="../languages/hula">Hula</a></td><td><i>vala</i></td>
 <td>
 '<span>spongy ball inside sprouting coconut</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Sinaugoro</td><td><i>vara</i></td>
+<td>PT</td><td><a href="../languages/sinaugoro">Sinaugoro</a></td><td><i>vara</i></td>
 <td>
 '<span>inner part, brain, inner part of coconut</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tolai</td><td><i>varai</i></td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>varai</i></td>
 <td>
 '<span>sprouted coconut</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Siar</td><td><i>arai</i></td>
+<td>MM</td><td><a href="../languages/siar">Siar</a></td><td><i>arai</i></td>
 <td>
 '<span>young soft coconut</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nehan</td><td><i>uara</i></td>
+<td>MM</td><td><a href="../languages/nehan">Nehan</a></td><td><i>uara</i></td>
 <td>
 '<span>coconut shoot; edible growth inside mature coconut/coconut with shoot, used for planting</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Petats</td><td><i>hala</i></td>
+<td>MM</td><td><a href="../languages/petats">Petats</a></td><td><i>hala</i></td>
 <td>
 '<span>sprouted coconut</span>' (<span>see Petats terminology above</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td>Halia</td><td><i>hala</i></td>
+<td>MM</td><td><a href="../languages/halia">Halia</a></td><td><i>hala</i></td>
 <td>
 '<span>sprouted coconut</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>vara</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>vara</i></td>
 <td>
 '<span>a fallen coconut beginning to grow and showing leaf</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Longgu</td><td><i>vara</i></td>
+<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td><i>vara</i></td>
 <td>
 '<span>a coconut seedling ready for planting; the solid, sweet part of an old coconut (where the liquid has become solid)</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>vara</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>vara</i></td>
 <td>
 '<span>the shoot, plumule, of the coconut, as it forms first within the nut, afterwards when it shoots outside, and finally as growing up from the radicle</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Raga</td><td><i>vara</i></td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>vara</i></td>
 <td>
 '<span>sprouting coconut</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>N Ambrym</td><td><i>var</i></td>
+<td>NCV</td><td><a href="../languages/nambrym">N Ambrym</a></td><td><i>var</i></td>
 <td>
 '<span>spongy kernel of a mature coconut</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Lonwolwol</td><td><i>vaa</i></td>
+<td>NCV</td><td><a href="../languages/lonwolwol">Lonwolwol</a></td><td><i>vaa</i></td>
 <td>
 '<span>the spongy kernel of a mature coconut</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Paamese</td><td><i>a-hai</i></td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>a-hai</i></td>
 <td>
 '<span>sprouting coconut</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Lewo</td><td><i>(puru)ve</i></td>
+<td>NCV</td><td><a href="../languages/lewo">Lewo</a></td><td><i>(puru)ve</i></td>
 <td>
 '<span>sprouting coconut</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Nguna</td><td><i>na-vare</i></td>
+<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td><i>na-vare</i></td>
 <td>
 '<span>sprouting coconut</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Namakir</td><td><i>var</i></td>
+<td>NCV</td><td><a href="../languages/namakir">Namakir</a></td><td><i>var</i></td>
 <td>
 '<span>sprouting coconut</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Nguna</td><td><i>na-vare</i></td>
+<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td><i>na-vare</i></td>
 <td>
 '<span>sprouting coconut</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>South Efate</td><td><i>n-far</i></td>
+<td>NCV</td><td><a href="../languages/southefate">South Efate</a></td><td><i>n-far</i></td>
 <td>
 '<span>spongy mass in sprouting coconut</span>'</td>
 </tr>
@@ -2181,41 +2181,41 @@ The reconstruction of POc _&ast;paraq_ entails a small phonological puzzle. For 
 <i>&ast;na-vəraq</i>
 </td>
 <td>
-'<span>sprouting coconut and/or its pith</span>' (<a href="../references.md#source-Lynch2001c">Lynch2001c: 232</a>)
+'<span>sprouting coconut and/or its pith</span>' (<a href="../sources/Lynch2001c">Lynch2001c: 232</a>)
 </td>
 </tr>
 <tr>
-<td>SV</td><td>Lenakel</td><td><i>(nien-u)via</i></td>
+<td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td><i>(nien-u)via</i></td>
 <td>
 '<span>sprouting coconut</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Kwamera</td><td><i>nu-vera</i></td>
+<td>SV</td><td><a href="../languages/kwamera">Kwamera</a></td><td><i>nu-vera</i></td>
 <td>
 '<span>sprouting coconut</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Sye</td><td><i>ne-vre</i></td>
+<td>SV</td><td><a href="../languages/sye">Sye</a></td><td><i>ne-vre</i></td>
 <td>
 '<span>sprouting coconut</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Ura</td><td><i>ne-vla</i></td>
+<td>SV</td><td><a href="../languages/ura">Ura</a></td><td><i>ne-vla</i></td>
 <td>
 '<span>sprouting coconut</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Fwai</td><td><i>(dō)vala</i></td>
+<td>NCal</td><td><a href="../languages/fwai">Fwai</a></td><td><i>(dō)vala</i></td>
 <td>
 '<span>sprouting coconut</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Nemi</td><td><i>(doo)vala</i></td>
+<td>NCal</td><td><a href="../languages/nemi">Nemi</a></td><td><i>(doo)vala</i></td>
 <td>
 '<span>sprouting coconut</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Jawe</td><td><i>(sep) vala</i></td>
+<td>NCal</td><td><a href="../languages/jawe">Jawe</a></td><td><i>(sep) vala</i></td>
 <td>
 '<span>sprouting coconut</span>'</td>
 </tr>
@@ -2225,61 +2225,61 @@ The reconstruction of POc _&ast;paraq_ entails a small phonological puzzle. For 
 <i>&ast;fara</i>
 </td>
 <td>
-'<span>core (of breadfruit, coconut, pandanus)</span>' (<a href="../references.md#source-Benderetal2003">Benderetal2003</a>)
+'<span>core (of breadfruit, coconut, pandanus)</span>' (<a href="../sources/Benderetal2003">Benderetal2003</a>)
 </td>
 </tr>
 <tr>
-<td>Mic</td><td>Trukese</td><td><i>faar</i></td>
+<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td><i>faar</i></td>
 <td>
 '<span>core of a breadfruit</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Trukese</td><td><i>fara-n</i></td>
+<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td><i>fara-n</i></td>
 <td>
 '<span>core of</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Puluwatese</td><td><i>faar</i></td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>faar</i></td>
 <td>
 '<span>core of breadfruit, sponge of coconut</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Puluwatese</td><td><i>fercæ-n</i></td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>fercæ-n</i></td>
 <td>
 '<span>core of</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Woleaian</td><td><i>faare</i></td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>faare</i></td>
 <td>
 '<span>core of a breadfruit</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Woleaian</td><td><i>fera-li</i></td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>fera-li</i></td>
 <td>
 '<span>core of</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Ponapean</td><td><i>paar</i></td>
+<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td><i>paar</i></td>
 <td>
 '<span>spongy centre of sprouting coconut</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Ponapean</td><td><i>par</i></td>
+<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td><i>par</i></td>
 <td>
 '<span>to sprout (of coconuts)</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Mokilese</td><td><i>par</i></td>
+<td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td><i>par</i></td>
 <td>
 '<span>sprouting coconut</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>vara</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>vara</i></td>
 <td>
 '<span>spongy flesh in the kernel of a coconut before it shoots; a coconut in this stage or just shooting</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>vara</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>vara</i></td>
 <td>
 '<span>ripe coconut, germinating; spongy flesh in kernel of ripe coconut</span>'</td>
 </tr>
@@ -2299,7 +2299,7 @@ We observed above that POc _&ast;paraq_ 'coconut embryo' was also used to refer 
 <i>&ast;hutek</i>
 </td>
 <td>
-'<span>brain, marrow</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>brain, marrow</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -2311,97 +2311,97 @@ We observed above that POc _&ast;paraq_ 'coconut embryo' was also used to refer 
 '<span>brain, pith, marrow</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Mapos Buang</td><td><i>yuto</i></td>
+<td>NNG</td><td><a href="../languages/maposbuang">Mapos Buang</a></td><td><i>yuto</i></td>
 <td>
 '<span>brain</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Bariai</td><td><i>(i)uto-uto</i></td>
+<td>NNG</td><td><a href="../languages/bariai">Bariai</a></td><td><i>(i)uto-uto</i></td>
 <td>
 '<span>brain</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Gitua</td><td><i>uto</i></td>
+<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td><i>uto</i></td>
 <td>
 '<span>pith, centre of tree (particularly sago)</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Lukep</td><td><i>kuto(na)</i></td>
+<td>NNG</td><td><a href="../languages/lukep">Lukep</a></td><td><i>kuto(na)</i></td>
 <td>
 '<span>head</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Malasanga</td><td><i>koto(na)</i></td>
+<td>NNG</td><td><a href="../languages/malasanga">Malasanga</a></td><td><i>koto(na)</i></td>
 <td>
 '<span>head</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Mangseng</td><td><i>ut</i></td>
+<td>NNG</td><td><a href="../languages/mangseng">Mangseng</a></td><td><i>ut</i></td>
 <td>
 '<span>brain</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kis</td><td><i>ut</i></td>
+<td>NNG</td><td><a href="../languages/kis">Kis</a></td><td><i>ut</i></td>
 <td>
 '<span>brain</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kaiep</td><td><i>uto(ŋ)</i></td>
+<td>NNG</td><td><a href="../languages/kaiep">Kaiep</a></td><td><i>uto(ŋ)</i></td>
 <td>
 '<span>brain</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Sariba</td><td><i>uto</i></td>
+<td>PT</td><td><a href="../languages/sariba">Sariba</a></td><td><i>uto</i></td>
 <td>
 '<span>brain</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Iduna</td><td><i>uto-na</i></td>
+<td>PT</td><td><a href="../languages/iduna">Iduna</a></td><td><i>uto-na</i></td>
 <td>
 '<span>flesh ofcoconut</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Misima</td><td><i>utu(waul)</i></td>
+<td>PT</td><td><a href="../languages/misima">Misima</a></td><td><i>utu(waul)</i></td>
 <td>
 '<span>brain</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>(au) uto-na</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>(au) uto-na</i></td>
 <td>
 '<span>pith</span>' (<span>au 'tree'</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td>'Are'are</td><td><i>uo(-woi)</i></td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>uo(-woi)</i></td>
 <td>
 '<span>pith, heart (of tree)</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Sa'a</td><td><i>uo</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>uo</i></td>
 <td>
 '<span>the inner skin of rattan cane, pith</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>uo</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>uo</i></td>
 <td>
 '<span>the flesh, edible part of a yam</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>uto-i</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>uto-i</i></td>
 <td>
 '<span>pith, the inner part, if hard, within the bark</span>'; '<span>pith</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>uto</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>uto</i></td>
 <td>
 '<span>heart; pith of a tree</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>uto-i</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>uto-i</i></td>
 <td>
 '<span>pith, the inner part, if hard, within the bark</span>'; '<span>pith</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Trukese</td><td><i>ɔ̄t</i></td>
+<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td><i>ɔ̄t</i></td>
 <td>
 '<span>coconut sprout, the soft spongy centre of a coconut</span>'</td>
 </tr>
@@ -2414,62 +2414,62 @@ We observed above that POc _&ast;paraq_ 'coconut embryo' was also used to refer 
 '<span>brain; pith of a tree; inner part of something; spongy mass in sprouting coconut</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>ʔuto</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>ʔuto</i></td>
 <td>
 '<span>(of a coconut) beginning to sprout; soft kernel or "apple" of a sprouting nut; brain</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>East Futunan</td><td><i>ʔuto</i></td>
+<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td><i>ʔuto</i></td>
 <td>
 '<span>brains; sprouting coconut</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>East Uvean</td><td><i>ʔuto</i></td>
+<td>Pn</td><td><a href="../languages/eastuvean">East Uvean</a></td><td><i>ʔuto</i></td>
 <td>
 '<span>brains; spongy mass in sprouting coconut</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Emae</td><td><i>uto</i></td>
+<td>Pn</td><td><a href="../languages/emae">Emae</a></td><td><i>uto</i></td>
 <td>
 '<span>sprouting coconut</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>ʔuto</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>ʔuto</i></td>
 <td>
 '<span>sponge, as of coconut, ivory nut</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>ʔuto (?ugu)</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>ʔuto (?ugu)</i></td>
 <td>
 '<span>brains</span>' (<span>= 'head sponge'</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>uto</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>uto</i></td>
 <td>
 '<span>spongy substance in old coconut</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Luangiua</td><td><i>ʔuko</i></td>
+<td>Pn</td><td><a href="../languages/luangiua">Luangiua</a></td><td><i>ʔuko</i></td>
 <td>
 '<span>sprouting coconut</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Nukuria</td><td><i>udo</i></td>
+<td>Pn</td><td><a href="../languages/nukuria">Nukuria</a></td><td><i>udo</i></td>
 <td>
 '<span>soft wood around the centre of a tree trunk</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Marquesan</td><td><i>(?ehi)uto</i></td>
+<td>Pn</td><td><a href="../languages/marquesan">Marquesan</a></td><td><i>(?ehi)uto</i></td>
 <td>
 '<span>sprouting coconut</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Mangareva</td><td><i>uto</i></td>
+<td>Pn</td><td><a href="../languages/mangareva">Mangareva</a></td><td><i>uto</i></td>
 <td>
 '<span>marrow; spongy mass in old coconuts</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rarotongan</td><td><i>uto</i></td>
+<td>Pn</td><td><a href="../languages/rarotongan">Rarotongan</a></td><td><i>uto</i></td>
 <td>
 '<span>germinated coconut; kernel or white spongy substance found inside a germinated coconut</span>'</td>
 </tr>
@@ -2492,12 +2492,12 @@ The less widely reflected terms PAdm _&ast;puto-_, POc _&ast;pʷiras_ and PWOc _
 '<span>spongy mass inside sprouting nut</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Loniu</td><td><i>putɔ</i></td>
+<td>Adm</td><td><a href="../languages/loniu">Loniu</a></td><td><i>putɔ</i></td>
 <td>
 '<span>core, especially of coconut</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Titan</td><td><i>ʙuto-n</i></td>
+<td>Adm</td><td><a href="../languages/titan">Titan</a></td><td><i>ʙuto-n</i></td>
 <td>
 '<span>coconut sprout, the soft spongy center of a coconut</span>'</td>
 </tr>
@@ -2515,28 +2515,28 @@ The less widely reflected terms PAdm _&ast;puto-_, POc _&ast;pʷiras_ and PWOc _
 '<span>pithy ball inside sprouted coconut</span>' (<span>ACD: *pirV</span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td>Gitua</td><td><i>pir</i></td>
+<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td><i>pir</i></td>
 <td>
 '<span>white pithy ball inside sprouted coconut</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Tuam</td><td><i>pir</i></td>
+<td>NNG</td><td><a href="../languages/tuam">Tuam</a></td><td><i>pir</i></td>
 <td>
-'<span>germinating nut</span>' (<a href="../references.md#source-Freedman1967">Freedman1967: 335</a>)
+'<span>germinating nut</span>' (<a href="../sources/Freedman1967">Freedman1967: 335</a>)
 </td>
 </tr>
 <tr>
-<td>NNG</td><td>Lukep (Pono)</td><td><i>pir</i></td>
+<td>NNG</td><td><a href="../languages/lukeppono">Lukep (Pono)</a></td><td><i>pir</i></td>
 <td>
 '<span>coconut sprout</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Roviana</td><td><i>piraha</i></td>
+<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td><i>piraha</i></td>
 <td>
 '<span>sprouting coconut</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>pira</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>pira</i></td>
 <td>
 '<span>coconut on ground showing leaf</span>'</td>
 </tr>
@@ -2546,26 +2546,26 @@ The less widely reflected terms PAdm _&ast;puto-_, POc _&ast;pʷiras_ and PWOc _
 <i>&ast;pir, piri-</i>
 </td>
 <td>
-'<span>groor lump under the skin, spongy core of mature coconut</span>' (<a href="../references.md#source-Benderetal2003">Benderetal2003</a>)
+'<span>groor lump under the skin, spongy core of mature coconut</span>' (<a href="../sources/Benderetal2003">Benderetal2003</a>)
 </td>
 </tr>
 <tr>
-<td>Mic</td><td>Marshallese</td><td><i>pər</i></td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>pər</i></td>
 <td>
 '<span>small sprouted coconut; swelling, tumour</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Puluwatese</td><td><i>pir</i></td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>pir</i></td>
 <td>
 '<span>coconut sponge beginning to form; growth or lump under the skin</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Trukese</td><td><i>piir, piri-n</i></td>
+<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td><i>piir, piri-n</i></td>
 <td>
 '<span>hard lump or growth under the skin</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Trukese</td><td><i>piri-(n taka)</i></td>
+<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td><i>piri-(n taka)</i></td>
 <td>
 '<span>spore of the ripe coconut when beginning to form</span>'</td>
 </tr>
@@ -2586,22 +2586,22 @@ The less widely reflected terms PAdm _&ast;puto-_, POc _&ast;pʷiras_ and PWOc _
 '<span>spongy mass inside sprouting nut; sprouted coconut</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Gapapaiwa</td><td><i>go-go-na</i></td>
+<td>PT</td><td><a href="../languages/gapapaiwa">Gapapaiwa</a></td><td><i>go-go-na</i></td>
 <td>
 '<span>spongy centre of a sprouting coconut</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Tawala</td><td><i>ko-ko</i></td>
+<td>PT</td><td><a href="../languages/tawala">Tawala</a></td><td><i>ko-ko</i></td>
 <td>
 '<span>coconut sprouted</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Sudest</td><td><i>ɣaɣə</i></td>
+<td>PT</td><td><a href="../languages/sudest">Sudest</a></td><td><i>ɣaɣə</i></td>
 <td>
 '<span>spongy centre of a sprouting coconut</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Ramoaaina</td><td><i>gawa-ina</i></td>
+<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>gawa-ina</i></td>
 <td>
 '<span>spongy centre of a sprouting coconut</span>'</td>
 </tr>
@@ -2615,7 +2615,7 @@ The less widely reflected terms PAdm _&ast;puto-_, POc _&ast;pʷiras_ and PWOc _
 ### 4.4. Coconut husk
 
 
-Fibre from coconut husks ('coir' < Malay _kayar_ 'rope') is used for floor matting, brushes, ropes and strainers. Husks and shells are used for fuel.[^17] Most Oceanic languages have distinct terms for the husk of coconuts, probably reflecting its importance for cordage and for fuel ([Firth 1985](../references.md#source-Firth1985): 369). For example, in Kiribati there are names for all the operations involved in making string from _benu_ 'coconut husk (for making string)', namely _tao-benu_ 'soaking the benu'; _tae-benu_ 'taking it out of the soaking pit'; _tiri-benu_ 'beating the _benu_ to clean it'; _ake-ake_ or _ake-a te benu_ 'to hackle it'; _bo-binoka_ 'to arrange benu ready for twisting'; _kakano_ 'twist the _benu_ on thigh to make string' ([Sabatier 1971](../references.md#source-Sabatier1971): 63).
+Fibre from coconut husks ('coir' < Malay _kayar_ 'rope') is used for floor matting, brushes, ropes and strainers. Husks and shells are used for fuel.[^17] Most Oceanic languages have distinct terms for the husk of coconuts, probably reflecting its importance for cordage and for fuel ([Firth 1985](../sources/Firth1985): 369). For example, in Kiribati there are names for all the operations involved in making string from _benu_ 'coconut husk (for making string)', namely _tao-benu_ 'soaking the benu'; _tae-benu_ 'taking it out of the soaking pit'; _tiri-benu_ 'beating the _benu_ to clean it'; _ake-ake_ or _ake-a te benu_ 'to hackle it'; _bo-binoka_ 'to arrange benu ready for twisting'; _kakano_ 'twist the _benu_ on thigh to make string' ([Sabatier 1971](../sources/Sabatier1971): 63).
 
 Doublet forms, POc _&ast;punut_ and _&ast;pʷenu(t)_, both 'coconut husk', appear to be reconstructable. Blust (ACD) also reconstructs the PMP doublets _&ast;bunut_ and _&ast;benut_. PMP _&ast;bunut_ is clearly the source of POc _&ast;punut_, but PMP _&ast;benut_ is just as clearly not the source of _&ast;pʷenu(t)_, as its expected POc reflex would be †_&ast;ponut_. Instead, _&ast;pʷenu(t)_ reflects a shift of the rounding feature of _&ast;-u-_ forward to _&ast;p-_. The change is not regular, and perhaps the result of vowel dissimilation. The Nduke, Bugotu, Gela, Longgu and Puluwatese point to an initial labiovelar.
 
@@ -2634,96 +2634,96 @@ Doublet forms, POc _&ast;punut_ and _&ast;pʷenu(t)_, both 'coconut husk', appea
 <i>&ast;punut</i>
 </td>
 <td>
-'<span>coconut husk, fibres on coconut husk</span>' (<a href="../references.md#source-Ross1996d">Ross1996d</a>)
+'<span>coconut husk, fibres on coconut husk</span>' (<a href="../sources/Ross1996d">Ross1996d</a>)
 </td>
 </tr>
 <tr>
-<td>NNG</td><td>Tuam</td><td><i>pun-pun</i></td>
+<td>NNG</td><td><a href="../languages/tuam">Tuam</a></td><td><i>pun-pun</i></td>
 <td>
 '<span>coconut husk</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Bing</td><td><i>fun-fūn</i></td>
+<td>NNG</td><td><a href="../languages/bing">Bing</a></td><td><i>fun-fūn</i></td>
 <td>
 '<span>coconut husk fibre; husk a coconut</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Lukep (Pono)</td><td><i>pun-pun</i></td>
+<td>NNG</td><td><a href="../languages/lukeppono">Lukep (Pono)</a></td><td><i>pun-pun</i></td>
 <td>
 '<span>coconut husk</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Takia</td><td><i>funu(dan)</i></td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>funu(dan)</i></td>
 <td>
 '<span>coconut husk</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Maeng</td><td><i>putu-n</i></td>
+<td>NNG</td><td><a href="../languages/maeng">Maeng</a></td><td><i>putu-n</i></td>
 <td>
 '<span>coconut husk</span>' (<span>metathesis</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td>Vitu</td><td><i>vinuta</i></td>
+<td>MM</td><td><a href="../languages/vitu">Vitu</a></td><td><i>vinuta</i></td>
 <td>
 </td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>bunu</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>bunu</i></td>
 <td>
 '<span>coconut husk</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Roro</td><td><i>punu</i></td>
+<td>PT</td><td><a href="../languages/roro">Roro</a></td><td><i>punu</i></td>
 <td>
 '<span>coconut husk</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Ramoaaina</td><td><i>punut</i></td>
+<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>punut</i></td>
 <td>
 '<span>beard</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nehan</td><td><i>pitunu</i></td>
+<td>MM</td><td><a href="../languages/nehan">Nehan</a></td><td><i>pitunu</i></td>
 <td>
 '<span>coconut husk</span>' (<span>metathesis</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td>Halia</td><td><i>putunu</i></td>
+<td>MM</td><td><a href="../languages/halia">Halia</a></td><td><i>putunu</i></td>
 <td>
 '<span>coconut husk</span>' (<span>metathesis</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td>Nduke</td><td><i>punutu</i></td>
+<td>MM</td><td><a href="../languages/nduke">Nduke</a></td><td><i>punutu</i></td>
 <td>
 '<span>fibrous epidermis round the base of a coconut frond; looks like an open-weave cloth, and used for straining milk from squeezed coconut flesh</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Bugotu</td><td><i>vunu-</i></td>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>vunu-</i></td>
 <td>
 '<span>outer skin of canarium almond</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Nokuku</td><td><i>wun</i></td>
+<td>NCV</td><td><a href="../languages/nokuku">Nokuku</a></td><td><i>wun</i></td>
 <td>
 '<span>coconut husk</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Kiai</td><td><i>vunu-</i></td>
+<td>NCV</td><td><a href="../languages/kiai">Kiai</a></td><td><i>vunu-</i></td>
 <td>
 '<span>husk, threads, fibre</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Atchin</td><td><i>no-un</i></td>
+<td>NCV</td><td><a href="../languages/atchin">Atchin</a></td><td><i>no-un</i></td>
 <td>
 '<span>plait,ed string of coconut fibre</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>South Efate</td><td><i>na-un</i></td>
+<td>NCV</td><td><a href="../languages/southefate">South Efate</a></td><td><i>na-un</i></td>
 <td>
 '<span>husk</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tuvalu</td><td><i>funu</i></td>
+<td>Pn</td><td><a href="../languages/tuvalu">Tuvalu</a></td><td><i>funu</i></td>
 <td>
 '<span>pubic hair</span>'</td>
 </tr>
@@ -2743,71 +2743,71 @@ Evidence for the word-final _&ast;t_ of POc _&ast;pʷenu(t)_ is indirect. The Nd
 <i>&ast;pʷenu(t)</i>
 </td>
 <td>
-'<span>coconut husk</span>' (<a href="../references.md#source-Ross1996d">Ross1996d</a>)
+'<span>coconut husk</span>' (<a href="../sources/Ross1996d">Ross1996d</a>)
 </td>
 </tr>
 <tr>
-<td>MM</td><td>Meramera</td><td><i>ven-venu</i></td>
+<td>MM</td><td><a href="../languages/meramera">Meramera</a></td><td><i>ven-venu</i></td>
 <td>
 '<span>coconut husk</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tangga</td><td><i>pinu-ŋ</i></td>
+<td>MM</td><td><a href="../languages/tangga">Tangga</a></td><td><i>pinu-ŋ</i></td>
 <td>
 '<span>coconut husk</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nduke</td><td><i>pe-penete-</i></td>
+<td>MM</td><td><a href="../languages/nduke">Nduke</a></td><td><i>pe-penete-</i></td>
 <td>
 '<span>husk of a mature coconut; thick coir or fibre that makes up the inside of the husk</span>' (<span>for †_penutu</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td>Maringe</td><td><i>pʷetu</i></td>
+<td>MM</td><td><a href="../languages/maringe">Maringe</a></td><td><i>pʷetu</i></td>
 <td>
 '<span>coconut husk</span>' (<span>metathesis, followed by loss of final consonant</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td>Bugotu</td><td><i>penutu</i></td>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>penutu</i></td>
 <td>
 '<span>coconut husk</span>' (<span>borrowed from a NW Solomonic language</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td>Gela</td><td><i>penu</i></td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>penu</i></td>
 <td>
 '<span>coconut, outer husk, wound around foot as protection</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Longgu</td><td><i>penu</i></td>
+<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td><i>penu</i></td>
 <td>
 '<span>the outside husked part of the coconut, when it has rotted</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>henu-</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>henu-</i></td>
 <td>
 '<span>husk; bark; mollusc shell</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Puluwatese</td><td><i>(ese) pə̄n</i></td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>(ese) pə̄n</i></td>
 <td>
 '<span>shell, peel, husk</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Rotuman</td><td><i>henu</i></td>
+<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td><i>henu</i></td>
 <td>
 '<span>husk of coconut or large pandanus nut</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>venu(ki)</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>venu(ki)</i></td>
 <td>
 '<span>fibres of coconut husk beaten ready for twisting into sinnet</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>fenū</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>fenū</i></td>
 <td>
 '<span>make a join in plaiting etc</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>fenu</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>fenu</i></td>
 <td>
 '<span>twist, spin a cord, strand of a garment, warp (in weaving); a single element in basketry</span>'</td>
 </tr>
@@ -2821,7 +2821,7 @@ Evidence for the word-final _&ast;t_ of POc _&ast;pʷenu(t)_ is indirect. The Nd
 ### 4.5. Coconut shell
 
 
-There was apparently no dedicated POc term for a coconut shell, but there were a number of terms for the utensils made from them. The following utensil terms are reconstructed in vol.1 (ch.4, §2.2)
+There was apparently no dedicated POc term for a coconut shell, but there were a number of terms for the utensils made from them. The following utensil terms are reconstructed in [vol.1 (ch.4, §2.2](../contributions/1-4#s-2-2))
 
 - POc _&ast;(b,bʷ)ilo_ 'coconut shell used as liquid container'
 - POc _&ast;lasa_ 'coconut half-shell cup'
@@ -2839,17 +2839,17 @@ There was apparently no dedicated POc term for a coconut shell, but there were a
 
 The growing period of a coconut palm from the germination of a nut to the production of new coconuts is 4--10 years. Generally, no use is made of the palm during its growing period, but once the palm is productive, its various parts, like the coconut itself, have a large variety of uses. Understanding the parts of the palm entails understanding how its fronds grow (see Figure 12.2):
 
-> The crown of the palm is made up of 20--35 fronds, depending on how favourable the growing environment is. The fronds emerging in sequence from the central bud of the palm conform to a set geometrical pattern of angular separation around the circumference of the palm trunk. … If frond 1 in a series is given the azimuth angle of zero degrees, frond 2 will be located at plus or minus 140 degrees, frond 3 at 280 degrees, frond 4 past the starting angle at 60 degrees on the second circuit … (M. [Foale 2003](../references.md#source-Foale2003): 48).
+> The crown of the palm is made up of 20--35 fronds, depending on how favourable the growing environment is. The fronds emerging in sequence from the central bud of the palm conform to a set geometrical pattern of angular separation around the circumference of the palm trunk. … If frond 1 in a series is given the azimuth angle of zero degrees, frond 2 will be located at plus or minus 140 degrees, frond 3 at 280 degrees, frond 4 past the starting angle at 60 degrees on the second circuit … (M. [Foale 2003](../sources/Foale2003): 48).
 
-A new frond is supported at its base by a netlike brown fibrous epidermis so thick, tough and regular that it looks almost machine-made. It protects the tender growing area from physical injury, supporting the new leaf until it is mature, after which it drops to the ground and is collected for a number of uses. [Arber](../references.md#source-Arber1922) ([1922](../references.md#source-Arber1922)) labelled it the 'coiffe' or 'pellicule'[^20] - but these terms have not caught on and it is often omitted from western descriptions of the coconut palm - yet its POc names are among the most easily reconstructed terms for a part of the coconut palm. We will call this material 'frond netting' in order to distinguish it clearly from the better known source of fibre, the coir of the coconut husk (§4.4).
+A new frond is supported at its base by a netlike brown fibrous epidermis so thick, tough and regular that it looks almost machine-made. It protects the tender growing area from physical injury, supporting the new leaf until it is mature, after which it drops to the ground and is collected for a number of uses. [Arber](../sources/Arber1922) ([1922](../sources/Arber1922)) labelled it the 'coiffe' or 'pellicule'[^20] - but these terms have not caught on and it is often omitted from western descriptions of the coconut palm - yet its POc names are among the most easily reconstructed terms for a part of the coconut palm. We will call this material 'frond netting' in order to distinguish it clearly from the better known source of fibre, the coir of the coconut husk ([§4.4](../contributions/3-12#s-4-4)).
 
-A new flower bunch (inflorescence), from which coconuts eventually emerge, appears at the base of the frond that has reached the 1Oth to 12th position down from the youngest emerging frond. The flower bunch is encased in a spear-like sheath (the spathe) which protrudes as much as a metre from the inner side of the base of its accompanying frond. The tough skin of the spathe splits and shrinks back somewhat, exposing the inflorescence (M. [Foale 2003](../references.md#source-Foale2003): 47).[^21] The multi-branch flower stalk (spadix) becomes the stalk of a new bunch of coconuts.
+A new flower bunch (inflorescence), from which coconuts eventually emerge, appears at the base of the frond that has reached the 1Oth to 12th position down from the youngest emerging frond. The flower bunch is encased in a spear-like sheath (the spathe) which protrudes as much as a metre from the inner side of the base of its accompanying frond. The tough skin of the spathe splits and shrinks back somewhat, exposing the inflorescence (M. [Foale 2003](../sources/Foale2003): 47).[^21] The multi-branch flower stalk (spadix) becomes the stalk of a new bunch of coconuts.
 
 Table 4.1 of Chapter 4 shows part of the coconut terminology ofTikopia, which is typical of Oceanic languages in its coverage. The parts of the coconut palm that are typically named are:
 
-- the frond and its parts (§5 .1)
-- frond netting (§5.2)
-- the spathe and the infloresence (§5.3)
+- the frond and its parts ([§5 .1](../contributions/3-12#s-5-1))
+- frond netting ([§5.2](../contributions/3-12#s-5-2))
+- the spathe and the infloresence ([§5.3](../contributions/3-12#s-5-3))
 
 Coconuts     3 79
 
@@ -2859,7 +2859,7 @@ Coconuts     3 79
 
 
 
-Some parts of the palm are labelled with terms that are used for parts of plants in general. For example, Oceanic languages do not have a distinct name for the trunk of a coconut palm and nor presumably did POc. Instead, POc _&ast;puqu(n)_ 'base of tree, source, origin' (ch.4, §2.1) was apparently used, and the trunk of a coconut palm-and by metonymy the palm as a whole-was probably _&ast;puqun ni niuR_ (ch.2, §7.1.3). The coconut trunk is sometimes used for flooring and bearers, but it is difficult to trim and by no means the best material for these purposes ([O'Collins & Lamothe 1989](../references.md#source-OCollinsandLamothe1989), [Kwa'ioloa & Burt 2001](../references.md#source-KwaioloaandBurt2001): 192). The young leaf shoots of the coconut palm, which are sometimes eaten ([French 1986](../references.md#source-French1986): 31), have a distinct name only in Central Pacific languages (PCP _&ast;tō-rau_, where the second element reflects POc _&ast;raun_ 'leaf; ch.4, §2.5, cf. Table 4.7), but are otherwise labelled with whatever term is used for leaf-shoots (ch.4, §2.6).
+Some parts of the palm are labelled with terms that are used for parts of plants in general. For example, Oceanic languages do not have a distinct name for the trunk of a coconut palm and nor presumably did POc. Instead, POc _&ast;puqu(n)_ 'base of tree, source, origin' ([ch.4, §2.1](../contributions/3-4#s-2-1)) was apparently used, and the trunk of a coconut palm-and by metonymy the palm as a whole-was probably _&ast;puqun ni niuR_ ([ch.2, §7.1.3](../contributions/3-2#s-7-1-3)). The coconut trunk is sometimes used for flooring and bearers, but it is difficult to trim and by no means the best material for these purposes ([O'Collins & Lamothe 1989](../sources/OCollinsandLamothe1989), [Kwa'ioloa & Burt 2001](../sources/KwaioloaandBurt2001): 192). The young leaf shoots of the coconut palm, which are sometimes eaten ([French 1986](../sources/French1986): 31), have a distinct name only in Central Pacific languages (PCP _&ast;tō-rau_, where the second element reflects POc _&ast;raun_ 'leaf; [ch.4, §2.5](../contributions/3-4#s-2-5), cf. Table 4.7), but are otherwise labelled with whatever term is used for leaf-shoots ([ch.4, §2.6](../contributions/3-4#s-2-6)).
 
 
 <a id="s-5-1"></a>
@@ -2869,9 +2869,13 @@ Some parts of the palm are labelled with terms that are used for parts of plants
 
 Coconut fronds are 4--6 m long and have a thick stalk (petiole) which narrows into a central spine or midrib (rachis) from which grow leaflets (pinnae) 60-90cm in length. Fronds serve as roofing material for shelters. Their leaflets are used to make baskets, and the dried ribs of the leaflets are bound together to make brooms.
 
-As noted in ch.4, §2.5, Oceanic languages tend to have more than one term for the coconut frond, distinguishing between the green frond on the palm and the fallen, dried brown frond.
+As noted in [ch.4, §2.5](../contributions/3-4#s-2-5), Oceanic languages tend to have more than one term for the coconut frond, distinguishing between the green frond on the palm and the fallen, dried brown frond.
 
-12.5.1.1 Green fronds
+
+<a id="s-5-1-1"></a>
+
+### 5.1.1 Green fronds
+
 
 Whether there was a single POc word denoting a green frond is debatable. Scattered languages use compounds meaning 'leaf of coconut' (Titan _lau-niw_, Anejom _neri-neañ_, Niuean _lau-niu_, each literally 'leaf-coconut' ) or 'branch of coconut' (Nehan _raŋ-kuen_, literally 'branch-coconut'). There is thus some evidence for reconstructing _&ast;raun ni niuR_ 'leaf of coconut' and/or _&ast;raqan ni niuR_ 'branch of coconut'.
 
@@ -2890,17 +2894,17 @@ Possible candidates for this meaning are POc _&ast;usiri_ and PWOc _&ast;pagal_.
 '<span>palm frond or midrib of a frond</span>' (<span>?</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td>Nehan</td><td><i>usiri</i></td>
+<td>MM</td><td><a href="../languages/nehan">Nehan</a></td><td><i>usiri</i></td>
 <td>
 '<span>backbone; backbone of the small leaves of the coconut frond, sago palm, all palms</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Paamese</td><td><i>o-usil</i></td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>o-usil</i></td>
 <td>
 '<span>frond</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>South Efate</td><td><i>sēr</i></td>
+<td>NCV</td><td><a href="../languages/southefate">South Efate</a></td><td><i>sēr</i></td>
 <td>
 '<span>frond</span>'</td>
 </tr>
@@ -2928,32 +2932,32 @@ cf. also:
 '<span>palm frond</span>' (<span>?</span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kove</td><td><i>paɣa-paɣa</i></td>
+<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td><i>paɣa-paɣa</i></td>
 <td>
 '<span>coconut frond</span>' (<span>A. Chowning, pers. comm.</span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td>Tuam</td><td><i>peleŋga-n</i></td>
+<td>NNG</td><td><a href="../languages/tuam">Tuam</a></td><td><i>peleŋga-n</i></td>
 <td>
 '<span>base of a coconut frond</span>' (<span>metathesis</span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td>Mangap</td><td><i>(pal)paaŋga, (sul)paaŋga</i></td>
+<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td><i>(pal)paaŋga, (sul)paaŋga</i></td>
 <td>
 '<span>palm frond</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Bulu</td><td><i>pagal(i)</i></td>
+<td>MM</td><td><a href="../languages/bulu">Bulu</a></td><td><i>pagal(i)</i></td>
 <td>
 '<span>frond</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Lihir</td><td><i>palaŋ</i></td>
+<td>MM</td><td><a href="../languages/lihir">Lihir</a></td><td><i>palaŋ</i></td>
 <td>
 '<span>sago leaf</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Ramoaaina</td><td><i>pagal</i></td>
+<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>pagal</i></td>
 <td>
 '<span>coconut leaf stem</span>'</td>
 </tr>
@@ -2985,7 +2989,7 @@ cf. also:
 </table>
 
 
-[Ross](../references.md#source-Ross1996d) ([1996d](../references.md#source-Ross1996d): 204) reconstructed POc _&ast;[pa]paq[a-]_, apparently denoting the frond of any palm. It reflects PMP _&ast;pa(q)paq_ 'frond of a palm' ([Blust 1989](../references.md#source-Blust1989)). There is reasonable evidence that POc _&ast;[pa]paq[a-]_ occurred, but its meaning is unclear. Only the Arosi and Ellicean reflexes mean 'palm frond'. Its Meso-Melanesian reflexes simply mean 'leaf', whilst its Polynesian reflexes imply that PPn _faʔa_ meant the stalk of large leaves of various plants.
+[Ross](../sources/Ross1996d) ([1996d](../sources/Ross1996d): 204) reconstructed POc _&ast;[pa]paq[a-]_, apparently denoting the frond of any palm. It reflects PMP _&ast;pa(q)paq_ 'frond of a palm' ([Blust 1989](../sources/Blust1989)). There is reasonable evidence that POc _&ast;[pa]paq[a-]_ occurred, but its meaning is unclear. Only the Arosi and Ellicean reflexes mean 'palm frond'. Its Meso-Melanesian reflexes simply mean 'leaf', whilst its Polynesian reflexes imply that PPn _faʔa_ meant the stalk of large leaves of various plants.
 
 <table id="3-12-5-1-380-POc-papaqa-a">
 <tr>
@@ -2994,7 +2998,7 @@ cf. also:
 <i>&ast;pa(q)paq</i>
 </td>
 <td>
-'<span>frond of a palm</span>' (<a href="../references.md#source-Blust1989">Blust1989</a>)
+'<span>frond of a palm</span>' (<a href="../sources/Blust1989">Blust1989</a>)
 </td>
 </tr>
 <tr>
@@ -3003,106 +3007,106 @@ cf. also:
 <i>&ast;[pa]paq[a-]</i>
 </td>
 <td>
-'<span>frond of a palm</span>' (<span>?</span>) (<a href="../references.md#source-Ross1996d">Ross1996d</a>)
+'<span>frond of a palm</span>' (<span>?</span>) (<a href="../sources/Ross1996d">Ross1996d</a>)
 </td>
 </tr>
 <tr>
-<td>MM</td><td>Bola</td><td><i>paga</i></td>
+<td>MM</td><td><a href="../languages/bola">Bola</a></td><td><i>paga</i></td>
 <td>
 '<span>leaf</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Lavongai</td><td><i>pa</i></td>
+<td>MM</td><td><a href="../languages/lavongai">Lavongai</a></td><td><i>pa</i></td>
 <td>
 '<span>leaf</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Kara (East)</td><td><i>paka</i></td>
+<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td><i>paka</i></td>
 <td>
 '<span>leaf</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Kara (West)</td><td><i>faka</i></td>
+<td>MM</td><td><a href="../languages/karawest">Kara (West)</a></td><td><i>faka</i></td>
 <td>
 '<span>leaf</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nalik</td><td><i>fəkə</i></td>
+<td>MM</td><td><a href="../languages/nalik">Nalik</a></td><td><i>fəkə</i></td>
 <td>
 '<span>leaf</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tabar</td><td><i>(paka)paka</i></td>
+<td>MM</td><td><a href="../languages/tabar">Tabar</a></td><td><i>(paka)paka</i></td>
 <td>
 '<span>leaf</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Sursurunga</td><td><i>pəkə</i></td>
+<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td><i>pəkə</i></td>
 <td>
 '<span>leaf</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Patpatar</td><td><i>paka</i></td>
+<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td><i>paka</i></td>
 <td>
 '<span>leaf</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Label</td><td><i>paka</i></td>
+<td>MM</td><td><a href="../languages/label">Label</a></td><td><i>paka</i></td>
 <td>
 '<span>leaf</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Siar</td><td><i>paka</i></td>
+<td>MM</td><td><a href="../languages/siar">Siar</a></td><td><i>paka</i></td>
 <td>
 '<span>leaf</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Teop</td><td><i>paka</i></td>
+<td>MM</td><td><a href="../languages/teop">Teop</a></td><td><i>paka</i></td>
 <td>
 '<span>leaf</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Arosi</td><td><i>haha-na</i></td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>haha-na</i></td>
 <td>
 '<span>palm frond, branch of a palm or tree that has no branches, as sago palms, coconut, cycad, screw palm</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>faʔa</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>faʔa</i></td>
 <td>
 '<span>lower portion of leaf stalk of banana, taro, or giant taro (Alocasia macrorrhiza)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>fā</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>fā</i></td>
 <td>
 '<span>(plant) stalk</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>fā</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>fā</i></td>
 <td>
 '<span>leaf stem of fleshy plant</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Rennellese</td><td><i>haʔa</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>haʔa</i></td>
 <td>
 '<span>(taro, banana, papaya) stalk</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>fā</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>fā</i></td>
 <td>
 '<span>stalk, stem of taro, banana and certain other plants</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tuvalu</td><td><i>fā</i></td>
+<td>Pn</td><td><a href="../languages/tuvalu">Tuvalu</a></td><td><i>fā</i></td>
 <td>
 '<span>base end of a coconut midrib</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Nukuoro</td><td><i>hā</i></td>
+<td>Pn</td><td><a href="../languages/nukuoro">Nukuoro</a></td><td><i>hā</i></td>
 <td>
 '<span>coconut palm frond</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Hawaiian</td><td><i>hā</i></td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>hā</i></td>
 <td>
 '<span>stalk that supports the leaf and enfolds the stem of certain plants, as taro, sugarcane, layers in a banana stump</span>'</td>
 </tr>
@@ -3113,9 +3117,13 @@ cf. also:
 
 <a id="p-381"></a>
 
-12.5.1.2 Dried fronds
 
-One of the main uses of dry coconut fronds is as torches, and in a number of languages there is a polysemous term meaning 'dry coconut leaf and '(coconut leaf) torch' (e.g. Misima _wita_ '(go) fishing with a lamp; dry coconut leaves; light made by burning dry coconut leaves' and NE Ambae here 'dry coconut leaf; dry coconut leaf lit and used as a torch'). [Milke](../references.md#source-Milke1961) ([1961](../references.md#source-Milke1961)) reconstructs _&ast;sulu(q)_ 'dry coconut leaf torch' for POc (see also vol.1, ch.6, §2.3). On the basis of the reflexes of this form it seems likely that as in the case of NE Ambae here, 'dry coconut leaf' was a secondary meaning. Thus, languages like Lukep, Ramoaaina, Uripiv, Mokilese and Tongan have reflexes with both meanings, and in other languages such as Longgu and Southeast Ambrym it is only the coconut leaf meaning which has been retained.
+<a id="s-5-1-2"></a>
+
+### 5.1.2 Dried fronds
+
+
+One of the main uses of dry coconut fronds is as torches, and in a number of languages there is a polysemous term meaning 'dry coconut leaf and '(coconut leaf) torch' (e.g. Misima _wita_ '(go) fishing with a lamp; dry coconut leaves; light made by burning dry coconut leaves' and NE Ambae here 'dry coconut leaf; dry coconut leaf lit and used as a torch'). [Milke](../sources/Milke1961) ([1961](../sources/Milke1961)) reconstructs _&ast;sulu(q)_ 'dry coconut leaf torch' for POc (see also [vol.1, ch.6, §2.3](../contributions/1-6#s-2-3)). On the basis of the reflexes of this form it seems likely that as in the case of NE Ambae here, 'dry coconut leaf' was a secondary meaning. Thus, languages like Lukep, Ramoaaina, Uripiv, Mokilese and Tongan have reflexes with both meanings, and in other languages such as Longgu and Southeast Ambrym it is only the coconut leaf meaning which has been retained.
 
 <table id="3-12-5-1-381-POc-suluq-a">
 <tr>
@@ -3124,7 +3132,7 @@ One of the main uses of dry coconut fronds is as torches, and in a number of lan
 <i>&ast;suluq</i>
 </td>
 <td>
-'<span>torch</span>' (<a href="../references.md#source-Dempwolff1938">Dempwolff1938</a>)
+'<span>torch</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
 </td>
 </tr>
 <tr>
@@ -3133,91 +3141,91 @@ One of the main uses of dry coconut fronds is as torches, and in a number of lan
 <i>&ast;sulu(q)</i>
 </td>
 <td>
-'<span>dry coconut leaf torch; dry coconut leaf</span>' (<a href="../references.md#source-Milke1961">Milke1961</a>)
+'<span>dry coconut leaf torch; dry coconut leaf</span>' (<a href="../sources/Milke1961">Milke1961</a>)
 </td>
 </tr>
 <tr>
-<td>Adm</td><td>Lou</td><td><i>sula-n</i></td>
+<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td><i>sula-n</i></td>
 <td>
 '<span>dry coconut leaf</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Titan</td><td><i>cul</i></td>
+<td>Adm</td><td><a href="../languages/titan">Titan</a></td><td><i>cul</i></td>
 <td>
 '<span>torch made from coconut fronds for scorching canoes or for fishing at night</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Lukep (Pono)</td><td><i>sul</i></td>
+<td>NNG</td><td><a href="../languages/lukeppono">Lukep (Pono)</a></td><td><i>sul</i></td>
 <td>
 '<span>dry coconut leaf; torch, traditionally made of dry coconut leaves</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Takia</td><td><i>sul</i></td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>sul</i></td>
 <td>
 '<span>a torch made from dried coconut fronds</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Ramoaaina</td><td><i>ulu</i></td>
+<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>ulu</i></td>
 <td>
 '<span>leaf of a coconut palm; coconut leaf or torch</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Longgu</td><td><i>sulu</i></td>
+<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td><i>sulu</i></td>
 <td>
 '<span>leaf, especially of coconut</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Uripiv</td><td><i>na-sul</i></td>
+<td>NCV</td><td><a href="../languages/uripiv">Uripiv</a></td><td><i>na-sul</i></td>
 <td>
 '<span>coconut frond (especially a dry one); a light (the traditional use for dry coconut fronds)</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>S.E. Ambrym</td><td><i>o-sil</i></td>
+<td>NCV</td><td><a href="../languages/seambrym">S.E. Ambrym</a></td><td><i>o-sil</i></td>
 <td>
 '<span>coconut frond</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>Paamese</td><td><i>(ou-i-)silu</i></td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>(ou-i-)silu</i></td>
 <td>
 '<span>coconut frond</span>' (<span>ou 'leaf</span>)</td>
 </tr>
 <tr>
-<td>NCV</td><td>Nguna</td><td><i>na-sulu</i></td>
+<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td><i>na-sulu</i></td>
 <td>
 '<span>torch, flashlight, lamp, light</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Lenakel</td><td><i>(nə-kou-i-)səl</i></td>
+<td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td><i>(nə-kou-i-)səl</i></td>
 <td>
 '<span>coconut frond stalk</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td>Anejom</td><td><i>ni-sel</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>ni-sel</i></td>
 <td>
 '<span>coconut leaf midrib</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kiribatese</td><td><i>rin</i></td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>rin</i></td>
 <td>
 '<span>dry coconut leaves used for torches</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Mokilese</td><td><i>til</i></td>
+<td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td><i>til</i></td>
 <td>
 '<span>dry coconut frond, torch</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Rotuman</td><td><i>sulu</i></td>
+<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td><i>sulu</i></td>
 <td>
 '<span>coconut spathe; coconut spathe torch; fish by light of burning coconut spathe</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>hulu</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>hulu</i></td>
 <td>
 '<span>dry coconut or banana leaves; show a light or give a light, with lantern or torch</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>hulu</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>hulu</i></td>
 <td>
 '<span>torch (traditionally made of wooden fibres); to shine, give off light</span>'</td>
 </tr>
@@ -3257,12 +3265,12 @@ PWOc _&ast;daki_ had a similar meaning.
 '<span>dry coconut leaf torch</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Iduna</td><td><i>daki</i></td>
+<td>PT</td><td><a href="../languages/iduna">Iduna</a></td><td><i>daki</i></td>
 <td>
 '<span>dry coconut leaf torch</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Susurunga</td><td><i>dək</i></td>
+<td>MM</td><td><a href="../languages/susurunga">Susurunga</a></td><td><i>dək</i></td>
 <td>
 '<span>dry coconut leaf torch</span>'</td>
 </tr>
@@ -3270,7 +3278,7 @@ PWOc _&ast;daki_ had a similar meaning.
 
 
 
-POc _&ast;ramaR_ 'coconut leaf used as a torch when fishing', reflecting PMP _&ast;damaR_ 'resin, torch, light', is also reconstructable ([Ross 1996d](../references.md#source-Ross1996d): 205; vol.1, ch. 8, § 8).[^22] All reflexes indicate that this term denoted a torch - and specifically a torch used for fishing - rather just a coconut frond. The Lou and Tongan reflexes suggest that the _&ast;ramaR_ may also have been used as a verb.
+POc _&ast;ramaR_ 'coconut leaf used as a torch when fishing', reflecting PMP _&ast;damaR_ 'resin, torch, light', is also reconstructable ([Ross 1996d](../sources/Ross1996d): 205; [vol.1, ch. 8, § 8](../contributions/1-8#s-8)).[^22] All reflexes indicate that this term denoted a torch - and specifically a torch used for fishing - rather just a coconut frond. The Lou and Tongan reflexes suggest that the _&ast;ramaR_ may also have been used as a verb.
 
 <table id="3-12-5-1-382-POc-ramar-a">
 <tr>
@@ -3279,7 +3287,7 @@ POc _&ast;ramaR_ 'coconut leaf used as a torch when fishing', reflecting PMP _&a
 <i>&ast;damaR</i>
 </td>
 <td>
-'<span>torch, light</span>' (<a href="../references.md#source-Dempwolff1938">Dempwolff1938</a>)
+'<span>torch, light</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
 </td>
 </tr>
 <tr>
@@ -3291,52 +3299,52 @@ POc _&ast;ramaR_ 'coconut leaf used as a torch when fishing', reflecting PMP _&a
 '<span>coconut leaf used as a torch when fishing</span>' (<span>Capelll943</span>)</td>
 </tr>
 <tr>
-<td>Adm</td><td>Lou</td><td><i>(ka)ram</i></td>
+<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td><i>(ka)ram</i></td>
 <td>
 '<span>torch</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td>Lou</td><td><i>ram-ram</i></td>
+<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td><i>ram-ram</i></td>
 <td>
 [v] '<span>fish at night by torchlight</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Kara (East)</td><td><i>lamak</i></td>
+<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td><i>lamak</i></td>
 <td>
 '<span>coconut leafused as a torch</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>rama</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>rama</i></td>
 <td>
 '<span>cast light on</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Bauan</td><td><i>rama-rama</i></td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>rama-rama</i></td>
 <td>
 '<span>lamp of coconut shell filled with oil</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>ama</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>ama</i></td>
 <td>
 [v] '<span>fish at night by torch-light; torch made of coconut spathes bound together</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>ama</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>ama</i></td>
 <td>
 '<span>search for crabs, etc. with a torch</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>rama</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>rama</i></td>
 <td>
 [N] '<span>torch of dry coconut frond</span>'; [v] '<span>fish with torches</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>lama</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>lama</i></td>
 <td>
 '<span>torch (made of dry coconut leaflets +); fishing with torches</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Māori</td><td><i>rama</i></td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>rama</i></td>
 <td>
 '<span>torch; eeling with torches</span>'</td>
 </tr>
@@ -3371,12 +3379,12 @@ PWOc _&ast;bita_ appears to have the same range of meaning. Although there are o
 '<span>dry coconut frond, dry coconut frond torch; fish at night</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Misima</td><td><i>wita</i></td>
+<td>PT</td><td><a href="../languages/misima">Misima</a></td><td><i>wita</i></td>
 <td>
 '<span>dry coconut leaves; light made by burning dry coconut leaves; (go) fishing with a lamp</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nehan</td><td><i>bita</i></td>
+<td>MM</td><td><a href="../languages/nehan">Nehan</a></td><td><i>bita</i></td>
 <td>
 '<span>dry coconut frond, dry coconut frond torch; fish at night</span>'</td>
 </tr>
@@ -3384,7 +3392,11 @@ PWOc _&ast;bita_ appears to have the same range of meaning. Although there are o
 
 
 
-12.5.1.3 Midrib of the frond
+
+<a id="s-5-1-3"></a>
+
+### 5.1.3 Midrib of the frond
+
 
 Modern languages tend to have a distinctive term for the midrib or spine of a coconut frond, e.g. Iduna _domoluluna_ '(main) stalk of coconut leaf', Nduke _kilikava-_ 'stem of coconut frond, especially at thick end', Wayan Fijian _bālotu_ 'a coconut frond stalk stripped of its leaflets; the stem of the coconut frond, used for firewood and torches'. There are two candidate terms for this meaning, POc _&ast;bala(p,b)a(q)_ and POc _&ast;sasaRi_. Both may have denoted both the palm frond and the midrib - unsurprisingly, as a midrib is accompanied by its leaflets until they are stripped off.
 
@@ -3395,7 +3407,7 @@ Modern languages tend to have a distinctive term for the midrib or spine of a co
 <i>&ast;p<al>a(q)paq</i>
 </td>
 <td>
-'<span>midrib of coconut frond</span>' (<a href="../references.md#source-Dempwolff1925">Dempwolff1925</a>)
+'<span>midrib of coconut frond</span>' (<a href="../sources/Dempwolff1925">Dempwolff1925</a>)
 </td>
 </tr>
 <tr>
@@ -3407,7 +3419,7 @@ Modern languages tend to have a distinctive term for the midrib or spine of a co
 '<span>palm branch; midrib of palm frond</span>' (<span>Ross 1996d: <em>*palapa(q)</em></span>)</td>
 </tr>
 <tr>
-<td>Adm</td><td>Loniu</td><td><i>palapa</i></td>
+<td>Adm</td><td><a href="../languages/loniu">Loniu</a></td><td><i>palapa</i></td>
 <td>
 '<span>branch, especially of palm tree</span>' (<span>for †<em>palaha</em></span>)</td>
 </tr>
@@ -3420,22 +3432,22 @@ Modern languages tend to have a distinctive term for the midrib or spine of a co
 '<span>stalk and midrib of a coconut frond</span>' (<span>POLLEX</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>palalafa</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>palalafa</i></td>
 <td>
 '<span>stalk (or stalk and midrib) of a coconut leaf</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Emae</td><td><i>pararafa</i></td>
+<td>Pn</td><td><a href="../languages/emae">Emae</a></td><td><i>pararafa</i></td>
 <td>
 '<span>base of fallen coconut frond, still attached to tree</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Pukapukan</td><td><i>palelawa</i></td>
+<td>Pn</td><td><a href="../languages/pukapukan">Pukapukan</a></td><td><i>palelawa</i></td>
 <td>
 '<span>midrib of coconut leaf</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>pararafa</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>pararafa</i></td>
 <td>
 '<span>stem of coconut frond, used as small stirrer for liquids, tiny mallet in tattooing</span>'</td>
 </tr>
@@ -3465,22 +3477,22 @@ The Fijian reflex of _&ast;sasaRi_ makes the reconstruction of its meaning somew
 '<span>midrib of coconut frond</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Kove</td><td><i>sasali</i></td>
+<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td><i>sasali</i></td>
 <td>
 '<span>midrib</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Bariai</td><td><i>sasal</i></td>
+<td>NNG</td><td><a href="../languages/bariai">Bariai</a></td><td><i>sasal</i></td>
 <td>
 '<span>midrib</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Mangap</td><td><i>sasar</i></td>
+<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td><i>sasar</i></td>
 <td>
 '<span>midrib of a coconut leaf</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td>Longgu</td><td><i>sali-sali</i></td>
+<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td><i>sali-sali</i></td>
 <td>
 '<span>rip a leaf along its midrib</span>'</td>
 </tr>
@@ -3501,7 +3513,11 @@ cf. also:
 
 <a id="p-384"></a>
 
-12.5.1.4 Spine/stalk of leaflet
+
+<a id="s-5-1-4"></a>
+
+### 5.1.4 Spine/stalk of leaflet
+
 
 Our sources often do not distinguish clearly between the frond and the leaflet (both are labelled 'leaf'). The main use of coconut leaflets is that their dried spines are very commonly bound together to make brooms, and terms for the spine or stalk of leaflet typically relate to this use. Thus Manam _sinoka_ 'spine of coconut leaves, used for making brooms', Ramoaaina _noko_ 'broom, coconut leaf spine' and Carolinian sow 'spine of the coconut leaf (used in weaving, making brooms)'. POc _&ast;no(k,g)o_ evidently denoted both the spines and the broom.
 
@@ -3512,26 +3528,26 @@ Our sources often do not distinguish clearly between the frond and the leaflet (
 <i>&ast;no(k,g)o</i>
 </td>
 <td>
-'<span>midrib or spine of coconut leaflet; broom made therefrom</span>' (<a href="../references.md#source-Benderetal2003">Benderetal2003: 61</a>)
+'<span>midrib or spine of coconut leaflet; broom made therefrom</span>' (<a href="../sources/Benderetal2003">Benderetal2003: 61</a>)
 </td>
 </tr>
 <tr>
-<td>NNG</td><td>Lukep (Pono)</td><td><i>noŋ-noŋ</i></td>
+<td>NNG</td><td><a href="../languages/lukeppono">Lukep (Pono)</a></td><td><i>noŋ-noŋ</i></td>
 <td>
 '<span>spine of a coconut leaflet</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Sio</td><td><i>noŋgo</i></td>
+<td>NNG</td><td><a href="../languages/sio">Sio</a></td><td><i>noŋgo</i></td>
 <td>
 '<span>centre strip of coconut leaf (used in brooms)</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Ramoaaina</td><td><i>noko</i></td>
+<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>noko</i></td>
 <td>
 '<span>midrib, small leaf stem; coconut leaf spine; broom</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Tolai</td><td><i>noko</i></td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>noko</i></td>
 <td>
 '<span>midrib of the leaflets of a coconut branch; broom, especiallly one made from these leaflets</span>'</td>
 </tr>
@@ -3544,22 +3560,22 @@ Our sources often do not distinguish clearly between the frond and the leaflet (
 '<span>midrib of a coconut frond or leaf</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kiribatese</td><td><i>noko</i></td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>noko</i></td>
 <td>
 '<span>midrib of side leaves of coconut palm</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Marshallese</td><td><i>nᶭɔkʷ</i></td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>nᶭɔkʷ</i></td>
 <td>
 '<span>midrib of a coconut leaf</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kosraean</td><td><i>nɒk</i></td>
+<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td><i>nɒk</i></td>
 <td>
 '<span>midrib</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Mokilese</td><td><i>nok</i></td>
+<td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td><i>nok</i></td>
 <td>
 '<span>coconut leaf midrib</span>'</td>
 </tr>
@@ -3575,7 +3591,7 @@ Our sources often do not distinguish clearly between the frond and the leaflet (
 
 The protective netting at the base of the new coconut frond has the appearance of an open-weave cloth and is used in Oceanic societies for straining liquids, and particularly for wringing coconut 'milk' out of coconut flesh.
 
-Two POc terms are reconstructable. The first, _&ast;kaka_ seems to have denoted the netting material itself, or perhaps the young frond within it. The second, _&ast;Runut_, perhaps denoted the material in its function as a strainer.[^23] In vol.1 (ch.6, §5.6) a metathesised form _&ast;nuRut_ is also reconstructed on the basis of the Motu, Tolai and Mota reflexes. It is possible that this form did indeed occur, but it is also possible that metathesis occurred independently in two or three locations. Misima _lulusi_ and Tawala _luluhi_ are borrowings from a Suauic language like Saliba: the addition of _-i_ after final consonants is unique to Suauic. These two forms and Saliba _lulusi_ all display consonant assimilation (the expected Saliba form is †_lunusi_) and it is impossible to tell whether they reflect _&ast;Runut_ or _&ast;nuRut_.
+Two POc terms are reconstructable. The first, _&ast;kaka_ seems to have denoted the netting material itself, or perhaps the young frond within it. The second, _&ast;Runut_, perhaps denoted the material in its function as a strainer.[^23] In [vol.1 (ch.6, §5.6](../contributions/1-6#s-5-6)) a metathesised form _&ast;nuRut_ is also reconstructed on the basis of the Motu, Tolai and Mota reflexes. It is possible that this form did indeed occur, but it is also possible that metathesis occurred independently in two or three locations. Misima _lulusi_ and Tawala _luluhi_ are borrowings from a Suauic language like Saliba: the addition of _-i_ after final consonants is unique to Suauic. These two forms and Saliba _lulusi_ all display consonant assimilation (the expected Saliba form is †_lunusi_) and it is impossible to tell whether they reflect _&ast;Runut_ or _&ast;nuRut_.
 
 <table id="3-12-5-2-384-POc-kaka-a">
 <tr>
@@ -3587,17 +3603,17 @@ Two POc terms are reconstructable. The first, _&ast;kaka_ seems to have denoted 
 '<span>young coconut frond; coconut frond netting protecting young frond</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Patpatar</td><td><i>kaka</i></td>
+<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td><i>kaka</i></td>
 <td>
 '<span>new coconut frond that has not opened yet</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>North Efate</td><td><i>kak</i></td>
+<td>NCV</td><td><a href="../languages/northefate">North Efate</a></td><td><i>kak</i></td>
 <td>
 '<span>coconut mat, mesh formed by the coconut palm, used for straining liquids</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td>South Efate</td><td><i>kak</i></td>
+<td>NCV</td><td><a href="../languages/southefate">South Efate</a></td><td><i>kak</i></td>
 <td>
 '<span>coconut mesh</span>'</td>
 </tr>
@@ -3610,42 +3626,42 @@ Two POc terms are reconstructable. The first, _&ast;kaka_ seems to have denoted 
 '<span>clothlike fibre surrounding base of coconut fronds</span>' (<span>POLLEX</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tongan</td><td><i>kaka</i></td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>kaka</i></td>
 <td>
 '<span>fibrous integument at the top of coconut palms</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Niuean</td><td><i>(lau)kaka</i></td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>(lau)kaka</i></td>
 <td>
 '<span>the fibrous wrapping round the base of a young coconut frond</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tikopia</td><td><i>kaka</i></td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>kaka</i></td>
 <td>
 '<span>fibre of base of coconut palm (not sago palm) used traditionally to make filter sheet in turmeric extraction etc</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>East Futunan</td><td><i>kaka</i></td>
+<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td><i>kaka</i></td>
 <td>
 '<span>brown fibrous material that grows on coconut tree</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>ʔaʔa</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>ʔaʔa</i></td>
 <td>
 '<span>coarse fibrous material found at the base of coconut leaves and used for strainers etc</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Nukuoro</td><td><i>gaga</i></td>
+<td>Pn</td><td><a href="../languages/nukuoro">Nukuoro</a></td><td><i>gaga</i></td>
 <td>
 '<span>fibrous sheathing (at the base of the petiole sheath of the flower) of the coconut tree</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Tahitian</td><td><i>ʔaʔa</i></td>
+<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td><i>ʔaʔa</i></td>
 <td>
 '<span>brown fibrous membrane at base of coconut fronds; similar substance at base of leaves of sugarcane, bamboo and reeds</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Hawaiian</td><td><i>ʔa-ʔaʔa</i></td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>ʔa-ʔaʔa</i></td>
 <td>
 '<span>coconut cloth, vascular bundles in taro corm, chaff; fibrous</span>'</td>
 </tr>
@@ -3663,7 +3679,7 @@ Two POc terms are reconstructable. The first, _&ast;kaka_ seems to have denoted 
 <i>&ast;Runut</i>
 </td>
 <td>
-'<span>plant fibres</span>' (<a href="../references.md#source-Blust1984">Blust1984</a>)
+'<span>plant fibres</span>' (<a href="../sources/Blust1984">Blust1984</a>)
 </td>
 </tr>
 <tr>
@@ -3672,81 +3688,81 @@ Two POc terms are reconstructable. The first, _&ast;kaka_ seems to have denoted 
 <i>&ast;Runut</i>
 </td>
 <td>
-'<span>sheath around base of coconut frond, used as strainer</span>' (<a href="../references.md#source-Ross1996d">Ross1996d: 203</a>)
+'<span>sheath around base of coconut frond, used as strainer</span>' (<a href="../sources/Ross1996d">Ross1996d: 203</a>)
 </td>
 </tr>
 <tr>
-<td>NNG</td><td>Gitua</td><td><i>run</i></td>
+<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td><i>run</i></td>
 <td>
 '<span>sheath around base of coconut frond, used as strainer</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Misima</td><td><i>lulúsi</i></td>
+<td>PT</td><td><a href="../languages/misima">Misima</a></td><td><i>lulúsi</i></td>
 <td>
 '<span>fine matting growing around base of coconut leaves, used as a sieve</span>' (<span>Suauic borrowing</span>)</td>
 </tr>
 <tr>
-<td>PT</td><td>Tawala</td><td><i>luluhi</i></td>
+<td>PT</td><td><a href="../languages/tawala">Tawala</a></td><td><i>luluhi</i></td>
 <td>
 [N] '<span>sheath around base of coconut frond</span>'; [v] '<span>strain, purify, improve</span>' (<span>Suauic borrowing</span>)</td>
 </tr>
 <tr>
-<td>PT</td><td>Sariba</td><td><i>lulusi</i></td>
+<td>PT</td><td><a href="../languages/sariba">Sariba</a></td><td><i>lulusi</i></td>
 <td>
 '<span>coconut tissue, used as a strainer</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td>Motu</td><td><i>nuru</i></td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>nuru</i></td>
 <td>
 '<span>fibrous substance that grows around base of coconut frond; the stipule; coarse cloth; a sack</span>' (<span>metathesis</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td>Tolai</td><td><i>nirut</i></td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>nirut</i></td>
 <td>
 '<span>leaf-root mesh of coconut tree</span>' (<span>metathesis and vowell dissimilation</span>)</td>
 </tr>
 <tr>
-<td>NCV</td><td>Mota</td><td><i>nir</i></td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>nir</i></td>
 <td>
 '<span>fibrous spathe of coconut frond, used to strain sago</span>' (<span>metathesis and vowel dissimilation</span>)</td>
 </tr>
 <tr>
-<td>NCV</td><td>Paamese</td><td><i>(ä)un</i></td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>(ä)un</i></td>
 <td>
 '<span>cloth-like material at top of coconut tree</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td>Pije</td><td><i>uñ</i></td>
+<td>NCal</td><td><a href="../languages/pije">Pije</a></td><td><i>uñ</i></td>
 <td>
 '<span>fibrous spathe of coconut frond; husk of coconut</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Kiribatese</td><td><i>iŋ</i></td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>iŋ</i></td>
 <td>
 '<span>fibre enveloping base of palm leaf and attaching it to the trunk, used as a filter</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Puluwatese</td><td><i>(ese) wɨn</i></td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>(ese) wɨn</i></td>
 <td>
 '<span>coconut cloth</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td>Ulithian</td><td><i>ɨl</i></td>
+<td>Mic</td><td><a href="../languages/ulithian">Ulithian</a></td><td><i>ɨl</i></td>
 <td>
 '<span>coconut cloth</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td>Wayan</td><td><i>unu</i></td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>unu</i></td>
 <td>
 '<span>strainer for kava, in earlier times made of bark cloth, now usually muslin or any fine cloth</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>East Futunan</td><td><i>unu</i></td>
+<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td><i>unu</i></td>
 <td>
 '<span>kava strainer made of bourao fibres</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td>Samoan</td><td><i>unu</i></td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>unu</i></td>
 <td>
 '<span>woven wringer, used to extract dye from shreds of Bischofia tree bark etc</span>'</td>
 </tr>
@@ -3769,9 +3785,9 @@ Two POc terms are reconstructable. The first, _&ast;kaka_ seems to have denoted 
 
 
 
-There was perhaps no separate term in most Oceanic languages for the inflorescence of the coconut. Some languages do have separate noncognate terms for coconut blossoms, e.g. Gapapaiwa _sisina_, Gumawana _niyola_, Misima _lámun_, Paamese _voha_, Anejom _nacomʷ_, but far fewer than have a term for 'spathe'. Perhaps they were simply 'flowers', labelled by the general term POc _&ast;puŋa_ 'flower, blossom' (ch.4, §2.7).
+There was perhaps no separate term in most Oceanic languages for the inflorescence of the coconut. Some languages do have separate noncognate terms for coconut blossoms, e.g. Gapapaiwa _sisina_, Gumawana _niyola_, Misima _lámun_, Paamese _voha_, Anejom _nacomʷ_, but far fewer than have a term for 'spathe'. Perhaps they were simply 'flowers', labelled by the general term POc _&ast;puŋa_ 'flower, blossom' ([ch.4, §2.7](../contributions/3-4#s-2-7)).
 
-Terms for the boat-shaped spathe, shown in Figure 12.3, and for the spadix (the branching flower stalk which becomes the stalk of a bunch of coconuts) are more common, although some languages do not distinguish between the two, whilst others have more than one term. The spathe is used for firewood and as a bowl or tray. Sugary sap can be tapped from the flower stalk ([French 1986](../references.md#source-French1986): 31). Sample terms are listed below. PPn had a term _&ast;loso-loso_ 'coconut spadix; coconut spathe' (POLLEX), reflected in most Polynesian languages.
+Terms for the boat-shaped spathe, shown in Figure 12.3, and for the spadix (the branching flower stalk which becomes the stalk of a bunch of coconuts) are more common, although some languages do not distinguish between the two, whilst others have more than one term. The spathe is used for firewood and as a bowl or tray. Sugary sap can be tapped from the flower stalk ([French 1986](../sources/French1986): 31). Sample terms are listed below. PPn had a term _&ast;loso-loso_ 'coconut spadix; coconut spathe' (POLLEX), reflected in most Polynesian languages.
 
 <table id="3-12-5-3-386-adm-titan-parol">
 <tr>
@@ -3860,7 +3876,7 @@ Terms for the boat-shaped spathe, shown in Figure 12.3, and for the spadix (the 
 </tr>
 </table>
 
-The Wayan and Tikopia terms above reflect POc _&ast;jamu((q)a)_ which, however, evidently had the more general sense 'cluster of flowers or fruit, usually palms' (ch.4, §2. 8). If there was a dedicated POc term for the coconut spathe and/or spadix, we have been unable to reconstruct it.
+The Wayan and Tikopia terms above reflect POc _&ast;jamu((q)a)_ which, however, evidently had the more general sense 'cluster of flowers or fruit, usually palms' ([ch.4, §2. 8](../contributions/3-4#s-2-8)). If there was a dedicated POc term for the coconut spathe and/or spadix, we have been unable to reconstruct it.
 
 
 <a id="p-387"></a>
@@ -3878,7 +3894,7 @@ The importance of the coconut in POc culture is attested - as we might expect - 
 
 [^1]: The English word 'coconut' is used here for both the palm and the fruit. The intended referent is, we hope, obvious from context.
 
-[^2]: This section represents a re-run of the corresponding research reported in [Ross](../references.md#source-Ross1996d) ([1996d](../references.md#source-Ross1996d)) based on a larger range of data.
+[^2]: This section represents a re-run of the corresponding research reported in [Ross](../sources/Ross1996d) ([1996d](../sources/Ross1996d)) based on a larger range of data.
 
 [^3]: In Lukep the term _matuk niu_ denotes a green drinking coconut.
 
@@ -3890,7 +3906,7 @@ The importance of the coconut in POc culture is attested - as we might expect - 
 
 [^7]: Churchward does not supply glosses for some terms. The gloss for _niu mata_ is our inference.
 
-[^8]: In [Ross](../references.md#source-Ross1996d) ([1996d](../references.md#source-Ross1996d)) this form was reconstructed with the stage 1 meaning of 'coconut fruit bud', but the sense common to the two reflexes implies a stage 2 gloss.
+[^8]: In [Ross](../sources/Ross1996d) ([1996d](../sources/Ross1996d)) this form was reconstructed with the stage 1 meaning of 'coconut fruit bud', but the sense common to the two reflexes implies a stage 2 gloss.
 
 [^9]: A possible non-Oceanic cognate is Old Balinese _karu_ 'coconut shell' (Modern Balinese _kau_).
 
@@ -3900,13 +3916,13 @@ The importance of the coconut in POc culture is attested - as we might expect - 
 
 [^12]: Under plantation conditions a palm may bear up to 60 nuts a year. Palms may live up to 100 years, but their bearing capacity decreases towards zero in later life.
 
-[^13]: In [Ross](../references.md#source-Ross1996d) ([1996d](../references.md#source-Ross1996d)) POc _&ast;polo_ was glossed 'coconut water', but the glosses of its reflexes make it more likely that it was a term for a drinking coconut, and so it is included here in §3.3.
+[^13]: In [Ross](../sources/Ross1996d) ([1996d](../sources/Ross1996d)) POc _&ast;polo_ was glossed 'coconut water', but the glosses of its reflexes make it more likely that it was a term for a drinking coconut, and so it is included here in [§3.3](../contributions/3-12#s-3-3).
 
-[^14]: Verbs for removing the flesh from the shell are reconstructed in vol.1, ch.9, §3 .7, for scraping in vol.1, ch.9, §2.2.
+[^14]: Verbs for removing the flesh from the shell are reconstructed in [vol.1, ch.9, §3 .7](../contributions/1-9#s-3-7), for scraping in [vol.1, ch.9, §2.2](../contributions/1-9#s-2-2).
 
-[^15]: Productive nominalisations of reflexes of POc _&ast;kani_ 'eat' in Oceanic languages usually mean 'staple food' and by extension 'food in general' (ch.2, §6.1).
+[^15]: Productive nominalisations of reflexes of POc _&ast;kani_ 'eat' in Oceanic languages usually mean 'staple food' and by extension 'food in general' ([ch.2, §6.1](../contributions/3-2#s-6-1)).
 
-[^16]: [Lynch](../references.md#source-Lynch2001c) ([2001c](../references.md#source-Lynch2001c)) reconstructs PSV _&ast;nə-vutoy_ 'brain' with an unexpected initial _&ast;v-_ reflected in Anejom _h-_. Its resemblance to PAdm _&ast;puto-_ is probably accidental, as its reflexes only denote 'brain' and it is probably a reflex of POc _&ast;qutok_ in which PSV _&ast;v-_ (normally < POc _&ast;p-_) is an idiosyncratic innovation. <table id="3-12-4-3-375-sv-anejom-nhutuma">
+[^16]: [Lynch](../sources/Lynch2001c) ([2001c](../sources/Lynch2001c)) reconstructs PSV _&ast;nə-vutoy_ 'brain' with an unexpected initial _&ast;v-_ reflected in Anejom _h-_. Its resemblance to PAdm _&ast;puto-_ is probably accidental, as its reflexes only denote 'brain' and it is probably a reflex of POc _&ast;qutok_ in which PSV _&ast;v-_ (normally < POc _&ast;p-_) is an idiosyncratic innovation. <table id="3-12-4-3-375-sv-anejom-nhutuma">
 <tr>
 <td>SV</td>
 <td>Anejom</td>
@@ -3923,7 +3939,7 @@ The importance of the coconut in POc culture is attested - as we might expect - 
 </tr>
 </table>
 
-[^17]: Terms for husking and breaking open a coconut are reconstructed in vol.1, ch.6, §5.5.
+[^17]: Terms for husking and breaking open a coconut are reconstructed in [vol.1, ch.6, §5.5](../contributions/1-6#s-5-5).
 
 [^18]: The initial consonant of this form is irregular, as POc _&ast;p_ > _p_ or _h_ in Motu.
 
@@ -3933,6 +3949,6 @@ The importance of the coconut in POc culture is attested - as we might expect - 
 
 [^21]: The spathe is quite woody, and in parts of Asia fallen spathes are boiled, dried and waxed to produce boat-shaped bowls.
 
-[^22]: In vol.1, ch.S, §8, the reconstructed form is _&ast;(d)rama(R)_, but initial _&ast;dr-_ (as opposed to _&ast;r-_) is not required by the data. Final _-R_ is apparently reflected in Kara _-k_. The usual Kara reflex of _&ast;-R_ is _-i_; _-k_ is the normal reflex in neighbouring Tigak.
+[^22]: In vol.1, ch.S, [§8](../contributions/3-12#s-8), the reconstructed form is _&ast;(d)rama(R)_, but initial _&ast;dr-_ (as opposed to _&ast;r-_) is not required by the data. Final _-R_ is apparently reflected in Kara _-k_. The usual Kara reflex of _&ast;-R_ is _-i_; _-k_ is the normal reflex in neighbouring Tigak.
 
-[^23]: vol.1, ch.6, §5.6, refers to the frond netting as the 'spathe' of the frond. Technically this is correct, but we prefer not to use the term here in order to avoid confusion with the spathe of the coconut flower (§5 .3).
+[^23]: [vol.1, ch.6, §5.6](../contributions/1-6#s-5-6), refers to the frond netting as the 'spathe' of the frond. Technically this is correct, but we prefer not to use the term here in order to avoid confusion with the spathe of the coconut flower ([§5 .3](../contributions/3-12#s-5-3)).
