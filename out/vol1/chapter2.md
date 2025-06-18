@@ -1,6 +1,4 @@
-# Proto Oceanic Phonology and Morphology
-
-by Ross, M.
+[Ross, M.](.smallcaps)
 
 
 <a id="s-1"></a>

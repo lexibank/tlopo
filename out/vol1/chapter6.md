@@ -1,6 +1,4 @@
-# Food Preparation
-
-by Lichtenberk, F. and Osmond, M.
+[Lichtenberk, F. and Osmond, M.](.smallcaps)
 
 
 <a id="s-1"></a>
@@ -199,7 +197,7 @@ A second term is POc _&ast;usu(q,p)_, from PMP _&ast;usuq_ whose primary meaning
 <tr>
 <td>MM</td><td>Tolai</td><td><i>ū</i></td>
 <td>
-(VT,VI) '<span>wipe</span>'</td>
+[VT,VI] '<span>wipe</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Gela</td><td><i>uhu</i></td>
@@ -537,12 +535,12 @@ Green and Pawley (Ch. 3, §3.6) note a general term for fireplace or hearth, PMP
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>ravu</i></td>
 <td>
-'<span>ashes</span>'</td>
+'<span>ashes</span>' (<span><em>mata-ravu</em> 'fireplace'</span>)</td>
 </tr>
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>dravu</i></td>
 <td>
-'<span>ashes</span>'</td>
+'<span>ashes</span>' (<span><em>matā-dravu</em> 'fireplace'</span>)</td>
 </tr>
 <tr>
 <td>Pn</td><td>Samoan</td><td><i>(magā)lafu</i></td>
@@ -764,7 +762,7 @@ A far more soundly based reconstruction is POc _&ast;qumun_ 'oven made with hot 
 <tr>
 <td>SV</td><td>Kwamera</td><td><i>n-umun</i></td>
 <td>
-'<span>earth oven</span>'</td>
+'<span>earth oven</span>' (<span>n- is a fossil article</span>)</td>
 </tr>
 <tr>
 <td>Mic</td><td>Kiribatese</td><td><i>umun-</i></td>
@@ -1398,7 +1396,7 @@ Two verbs are reconstructable for POc with the meaning 'boil'. The problem is th
 <i>&ast;nasu(q)</i>
 </td>
 <td>
-(V) '<span>boil; steam (?)</span>'</td>
+[V] '<span>boil; steam (?)</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Gitua</td><td><i>na-nazu</i></td>
@@ -1444,7 +1442,7 @@ Two verbs are reconstructable for POc with the meaning 'boil'. The problem is th
 <i>&ast;napu</i>
 </td>
 <td>
-(v) '<span>steam (?), boil (?)</span>'</td>
+[v] '<span>steam (?), boil (?)</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Kairiru</td><td><i>nau</i></td>
@@ -1587,7 +1585,7 @@ cf. also:
 <td>Tongan</td>
 <td><i>lala</i></td>
 <td>
-'<span>(place) uninhabited, empty or almost so</span>'; '<span>half-cook, cook lightly (fish)</span>'; '<span>taxon of shrubs inc. Vitex trifolia, Dendrolobium umbellatum and Wikstroemia foetida</span>'</td>
+'<span>half-cook, cook lightly (fish)</span>'</td>
 </tr>
 </table>
 
@@ -1688,14 +1686,6 @@ Two similar terms for wrapping food for cooking (baking or roasting), POc _&ast;
 '<span>wrap, cover; cover food prior to cooking</span>' (<span>Lichtenberk has *apu</span>)</td>
 </tr>
 <tr>
-<td><strong>PPn</strong></td><td> </td>
-<td>
-<i>&ast;kafu</i>
-</td>
-<td>
-(N) '<span>clothing or covering for the body</span>'; (V) '<span>cover the body</span>'</td>
-</tr>
-<tr>
 <td>NNG</td><td>Manam</td><td><i>avu</i></td>
 <td>
 '<span>wrap up, bandage</span>'</td>
@@ -1751,6 +1741,14 @@ Two similar terms for wrapping food for cooking (baking or roasting), POc _&ast;
 '<span>wrap, cover, cook on embers in wrapper</span>'</td>
 </tr>
 <tr>
+<td><strong>PPn</strong></td><td> </td>
+<td>
+<i>&ast;kafu</i>
+</td>
+<td>
+[N] '<span>clothing or covering for the body</span>'; [V] '<span>cover the body</span>'</td>
+</tr>
+<tr>
 <td>Pn</td><td>Niuean</td><td><i>kaputi</i></td>
 <td>
 '<span>overspread, cover the whole surface</span>'</td>
@@ -1763,7 +1761,7 @@ Two similar terms for wrapping food for cooking (baking or roasting), POc _&ast;
 <tr>
 <td>Pn</td><td>Samoan</td><td><i>ʔafu</i></td>
 <td>
-(V) '<span>draw (sheet + over the body)</span>'; (N) '<span>fine mats for presentation</span>'</td>
+[V] '<span>draw (sheet + over the body)</span>'; [N] '<span>fine mats for presentation</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tikopia</td><td><i>kafu</i></td>
@@ -1799,15 +1797,7 @@ Two similar terms for wrapping food for cooking (baking or roasting), POc _&ast;
 <i>&ast;kopu</i>
 </td>
 <td>
-(v) '<span>wrap (food in a certain way (?) for cooking), bundle, wrap</span>' (<span>Lichtenberk</span>)</td>
-</tr>
-<tr>
-<td><strong>PPn</strong></td><td> </td>
-<td>
-<i>&ast;kofu</i>
-</td>
-<td>
-(N) '<span>clothing; leaf-wrapped parcel of food</span>'; (V) '<span>wrap food in leaves</span>'</td>
+[v] '<span>wrap (food in a certain way (?) for cooking), bundle, wrap</span>' (<span>Lichtenberk</span>)</td>
 </tr>
 <tr>
 <td>MM</td><td>Nakanai</td><td><i>kobu</i></td>
@@ -1843,6 +1833,14 @@ Two similar terms for wrapping food for cooking (baking or roasting), POc _&ast;
 <td>Fij</td><td>Bauan</td><td><i>kovu</i></td>
 <td>
 '<span>tie up vakalolo (k.o. pudding) or fish in banana leaves</span>'</td>
+</tr>
+<tr>
+<td><strong>PPn</strong></td><td> </td>
+<td>
+<i>&ast;kofu</i>
+</td>
+<td>
+[N] '<span>clothing; leaf-wrapped parcel of food</span>'; [V] '<span>wrap food in leaves</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>kofu</i></td>
@@ -2359,7 +2357,7 @@ Lichtenberk (p.277) records two main ways of preserving food in Oceania. One is 
 <i>&ast;Capa</i>
 </td>
 <td>
-(V) '<span>smoke fish or meat for preservation</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+[V] '<span>smoke fish or meat for preservation</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -2368,7 +2366,7 @@ Lichtenberk (p.277) records two main ways of preserving food in Oceania. One is 
 <i>&ast;tapa</i>
 </td>
 <td>
-(V) '<span>dry food by heat to preserve it; smoke food</span>' (<span>Lichtenberk</span>)</td>
+[V] '<span>dry food by heat to preserve it; smoke food</span>' (<span>Lichtenberk</span>)</td>
 </tr>
 <tr>
 <td>MM</td><td>Roviana</td><td><i>tava</i></td>
@@ -2388,7 +2386,7 @@ In addition, Blust offers the following:
 <i>&ast;pa[kaj-qasu</i>
 </td>
 <td>
-(v) '<span>smoke, fumigate</span>' (<span>from <em>pa[ka] 'causative' + PMP </em>qasu (N) 'smoke, fumes, steam'</span>); (v) '<span>(fire) smoke</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+[v] '<span>smoke, fumigate</span>' (<span>from <em>pa[ka] 'causative' + PMP </em>qasu (N) 'smoke, fumes, steam'</span>); [v] '<span>(fire) smoke</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -2397,12 +2395,12 @@ In addition, Blust offers the following:
 <i>&ast;pa[ka]-qasu</i>
 </td>
 <td>
-(V) '<span>smoke, cure by smoking</span>'</td>
+[V] '<span>smoke, cure by smoking</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Trukese</td><td><i>ātɨ</i></td>
 <td>
-(V) '<span>smoke, steam; cause to be smoked or steamed (for curing)</span>'</td>
+[V] '<span>smoke, steam; cause to be smoked or steamed (for curing)</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Rotuman</td><td><i>fak-asu</i></td>
@@ -2417,7 +2415,7 @@ In addition, Blust offers the following:
 <tr>
 <td>Pn</td><td>Samoan</td><td><i>faʔ-asu</i></td>
 <td>
-(V) '<span>smoke (fish or meat); fumigate</span>'</td>
+[V] '<span>smoke (fish or meat); fumigate</span>'</td>
 </tr>
 </table>
 
@@ -2432,7 +2430,7 @@ Malcolm Ross (pers.comm.) reconstructs:
 <i>&ast;pa(r,R)a</i>
 </td>
 <td>
-(V) '<span>dry by smoking</span>'</td>
+[V] '<span>dry by smoking</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Lukep</td><td><i>para</i></td>
@@ -2883,11 +2881,6 @@ Foodstuffs such as tubers and coconut meat are often grated before further proce
 '<span>scratch</span>'; '<span>bivalve (Geloina coaxana), found in mangrove swamp; knife or food scraper made from its unmodified shell; broken coconut shell</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Nakanai</td><td><i>kasi</i></td>
-<td>
-'<span>scratch</span>'; '<span>bivalve (Geloina coaxana), found in mangrove swamp; knife or food scraper made from its unmodified shell; broken coconut shell</span>'</td>
-</tr>
-<tr>
 <td>MM</td><td>Simbo</td><td><i>kasi-kasi</i></td>
 <td>
 '<span>scratch the soil as a bush turkey</span>'</td>
@@ -3051,7 +3044,7 @@ A number of formally similar terms have been reconstructed for the action of scr
 <tr>
 <td>PT</td><td>Motu</td><td><i>ari-</i></td>
 <td>
-(V) '<span>mark, indent (bottom of canoe with stones +)</span>'</td>
+[V] '<span>mark, indent (bottom of canoe with stones +)</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Bulu</td><td><i>kari</i></td>
@@ -3061,7 +3054,7 @@ A number of formally similar terms have been reconstructed for the action of scr
 <tr>
 <td>MM</td><td>Maringe</td><td><i>kai-kari</i></td>
 <td>
-(VT) '<span>scrape off (e.g. mud from one's feet), remove with scraping action, usually with implement like a piece of bamboo</span>'</td>
+[VT] '<span>scrape off (e.g. mud from one's feet), remove with scraping action, usually with implement like a piece of bamboo</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Gela</td><td><i>kari</i></td>
@@ -3446,12 +3439,12 @@ Lichtenberk comments (pp. 280-281) on the recurring sound symbolism evident in t
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>varoki</i></td>
 <td>
-(VT) '<span>cut s.t. with a saw</span>'</td>
+[VT] '<span>cut s.t. with a saw</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>varo</i></td>
 <td>
-(V) '<span>file, saw, or rasp</span>'</td>
+[V] '<span>file, saw, or rasp</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Māori</td><td><i>faro, fa-faro</i></td>
@@ -3482,7 +3475,7 @@ Lichtenberk lists a number of terms for the action of peeling. The first is a tr
 <i>&ast;kulit</i>
 </td>
 <td>
-(N) '<span>skin</span>'; (V) '<span>peel, remove skin of s.t.</span>'</td>
+[N] '<span>skin</span>'; [V] '<span>peel, remove skin of s.t.</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
@@ -3490,7 +3483,7 @@ Lichtenberk lists a number of terms for the action of peeling. The first is a tr
 <i>&ast;kulit, kulit-i-</i>
 </td>
 <td>
-(N) '<span>skin</span>'; (v) '<span>peel, remove skin of s.t., bark (a tree)</span>'</td>
+[N] '<span>skin</span>'; [v] '<span>peel, remove skin of s.t., bark (a tree)</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Sengseng</td><td><i>kul</i></td>
@@ -3510,27 +3503,27 @@ Lichtenberk lists a number of terms for the action of peeling. The first is a tr
 <tr>
 <td>MM</td><td>Tolai</td><td><i>kulit</i></td>
 <td>
-(V) '<span>peel off, remove bark, remove skin</span>'</td>
+[V] '<span>peel off, remove bark, remove skin</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Simbo</td><td><i>guli, guli-</i></td>
 <td>
-(V) '<span>skin, pare skin off</span>'</td>
+[V] '<span>skin, pare skin off</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Gela</td><td><i>guli, guliti-</i></td>
 <td>
-(V) '<span>skin, bark (shin or a tree +); take the scab off a sore</span>'</td>
+[V] '<span>skin, bark (shin or a tree +); take the scab off a sore</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Arosi</td><td><i>ʔuri</i></td>
 <td>
-(V) '<span>peel</span>'</td>
+[V] '<span>peel</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>kuli</i></td>
 <td>
-(N) '<span>skin, bark, peel</span>'</td>
+[N] '<span>skin, bark, peel</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>kulit-</i></td>
@@ -3566,7 +3559,7 @@ Lichtenberk lists a number of terms for the action of peeling. The first is a tr
 <tr>
 <td>NNG</td><td>Manam</td><td><i>sisi(ʔ)</i></td>
 <td>
-(v) '<span>peel, pare (sweet potatoes, bananas +), bark (tree)</span>'</td>
+[v] '<span>peel, pare (sweet potatoes, bananas +), bark (tree)</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Numbami</td><td><i>sisi</i></td>
@@ -3624,7 +3617,7 @@ Lichtenberk lists a number of terms for the action of peeling. The first is a tr
 <tr>
 <td>NNG</td><td>Mangap</td><td><i>pīli</i></td>
 <td>
-(V) '<span>husk (com, pitpit +)</span>'</td>
+[V] '<span>husk (com, pitpit +)</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Kairiru</td><td><i>pil</i></td>
@@ -3692,7 +3685,7 @@ Lichtenberk lists a number of terms for the action of peeling. The first is a tr
 <i>&ast;qunap-i-</i>
 </td>
 <td>
-(V) '<span>scale fish</span>' (<span>from POc *qunap 'fish scale; turtle shell'</span>)</td>
+[V] '<span>scale fish</span>' (<span>from POc *qunap 'fish scale; turtle shell'</span>)</td>
 </tr>
 <tr>
 <td>PT</td><td>Motu</td><td><i>unahi-</i></td>
@@ -3731,7 +3724,7 @@ The following term may have referred both to the husking of coconuts and to the 
 <i>&ast;kojom-</i>
 </td>
 <td>
-(N) '<span>husking stick</span>'</td>
+[N] '<span>husking stick</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
@@ -3739,7 +3732,7 @@ The following term may have referred both to the husking of coconuts and to the 
 <i>&ast;kojom, kojom-i</i>
 </td>
 <td>
-(V) '<span>husk (coconuts)</span>'</td>
+[V] '<span>husk (coconuts)</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Lou</td><td><i>os</i></td>
@@ -3789,12 +3782,12 @@ The following term may have referred both to the husking of coconuts and to the 
 <tr>
 <td>SES</td><td>Arosi</td><td><i>koto</i></td>
 <td>
-(V) '<span>spear, crush (areca nut with pestle)</span>'</td>
+[V] '<span>spear, crush (areca nut with pestle)</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Mota</td><td><i>goso</i></td>
 <td>
-(v) '<span>husk a coconut with a pointed stick</span>'</td>
+[v] '<span>husk a coconut with a pointed stick</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Mota</td><td><i>(i)goso</i></td>
@@ -3814,7 +3807,7 @@ The following term may have referred both to the husking of coconuts and to the 
 <tr>
 <td>Mic</td><td>Mokilese</td><td><i>kotom</i></td>
 <td>
-(V) '<span>husk with a husking stick</span>'</td>
+[V] '<span>husk with a husking stick</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Kiribatese</td><td><i>koro</i></td>
@@ -3873,17 +3866,17 @@ POc _&ast;soka_, _soka-i-_ (V) 'pierce; stab' (see Ch. 9, §4.1) (Lichtenberk ha
 <i>&ast;potak, potak-i-</i>
 </td>
 <td>
-(VT) '<span>crack s.t. open, split s.t. open (such as nuts, coconuts)</span>' (<span>cf. Ch. 9, §3.8</span>)</td>
+[VT] '<span>crack s.t. open, split s.t. open (such as nuts, coconuts)</span>' (<span>cf. Ch. 9, §3.8</span>)</td>
 </tr>
 <tr>
 <td>Adm</td><td>Loniu</td><td><i>pot</i></td>
 <td>
-(VI) '<span>be broken, be chopped down</span>'</td>
+[VI] '<span>be broken, be chopped down</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Titan</td><td><i>pot</i></td>
 <td>
-(VI) '<span>(wooden objects) be broken</span>'</td>
+[VI] '<span>(wooden objects) be broken</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Malasanga</td><td><i>pota</i></td>
@@ -3913,22 +3906,22 @@ POc _&ast;soka_, _soka-i-_ (V) 'pierce; stab' (see Ch. 9, §4.1) (Lichtenberk ha
 <tr>
 <td>SES</td><td>Sa'a</td><td><i>hoa</i></td>
 <td>
-(vI) '<span>make an incision in; remove and separate</span>'</td>
+[vI] '<span>make an incision in; remove and separate</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Sa'a</td><td><i>hoai</i></td>
 <td>
-(VT) </td>
+[VT] </td>
 </tr>
 <tr>
 <td>SES</td><td>Arosi</td><td><i>hoa</i></td>
 <td>
-(VI) '<span>divide, cleave asunder, separate</span>'</td>
+[VI] '<span>divide, cleave asunder, separate</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Arosi</td><td><i>hoai, hoari</i></td>
 <td>
-(VT) </td>
+[VT] </td>
 </tr>
 <tr>
 <td>NCV</td><td>Mota</td><td><i>wota</i></td>
@@ -4130,7 +4123,7 @@ The most common method of straining, necessary for processing such foodstuffs as
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>(ða)vuta</i></td>
 <td>
-(VT) '<span>pull up, eradicate</span>'</td>
+[VT] '<span>pull up, eradicate</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>fusi-ʔi</i></td>
@@ -4282,11 +4275,11 @@ Lichtenberk includes several terms for squeezing or wringing:
 cf. also: 
 <table>
 <tr>
-<td>SES</td>
-<td>Arosi</td>
+<td>PT</td>
+<td>Gumawana</td>
 <td><i>bibi</i></td>
 <td>
-'<span>crush, squeeze, crowd</span>'</td>
+'<span>squeeze (boil +)</span>'</td>
 </tr>
 <tr>
 <td>PT</td>
@@ -4296,11 +4289,11 @@ cf. also:
 '<span>squeeze up against something</span>'</td>
 </tr>
 <tr>
-<td>PT</td>
-<td>Gumawana</td>
+<td>SES</td>
+<td>Arosi</td>
 <td><i>bibi</i></td>
 <td>
-'<span>squeeze (boil +)</span>'</td>
+'<span>crush, squeeze, crowd</span>'</td>
 </tr>
 </table>
 

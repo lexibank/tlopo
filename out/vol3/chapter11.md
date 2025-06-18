@@ -1,6 +1,4 @@
-# Nut and fruit trees
-
-by Malcolm Ross
+[Malcolm Ross](.smallcaps)
 
 
 <a id="s-1"></a>
@@ -82,14 +80,6 @@ Marshallese _kaŋal_ 'Pisonia grandis' looks as if it is a borrowing from a lang
 </td>
 <td>
 '<span>canarium almond, Canarium indicum</span>'</td>
-</tr>
-<tr>
-<td><strong>PEOc</strong></td><td> </td>
-<td>
-<i>&ast;[qa]ŋaRi</i>
-</td>
-<td>
-'<span>canarium almond, Canarium spp.</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Lou</td><td><i>kane</i></td>
@@ -178,6 +168,14 @@ Marshallese _kaŋal_ 'Pisonia grandis' looks as if it is a borrowing from a lang
 <td>
 '<span>Canarium indicum</span>' (<a href="../references.md#source-Evans1999">Evans1999: 39</a>)
 </td>
+</tr>
+<tr>
+<td><strong>PEOc</strong></td><td> </td>
+<td>
+<i>&ast;[qa]ŋaRi</i>
+</td>
+<td>
+'<span>canarium almond, Canarium spp.</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Bugotu</td><td><i>ŋali</i></td>
@@ -455,14 +453,6 @@ Blust (ACD) argues that [Dempwolff](../references.md#source-Dempwolff1938) ([193
 '<span>Tahitian chestnut, Inocarpus fagifer</span>'</td>
 </tr>
 <tr>
-<td><strong>PEOc</strong></td><td> </td>
-<td>
-<i>&ast;ipi</i>
-</td>
-<td>
-'<span>Tahitian chestnut, Inocarpus fagifer</span>'</td>
-</tr>
-<tr>
 <td>Adm</td><td>Mussau</td><td><i>ii</i></td>
 <td>
 '<span>Tahitian chestnut</span>'</td>
@@ -521,6 +511,14 @@ Blust (ACD) argues that [Dempwolff](../references.md#source-Dempwolff1938) ([193
 <td>MM</td><td>Maringe</td><td><i>na-ifi</i></td>
 <td>
 '<span>Tahitian chestnut, Inocarpus fagifer</span>' (<span>W. McClatchey, pers. comm.</span>)</td>
+</tr>
+<tr>
+<td><strong>PEOc</strong></td><td> </td>
+<td>
+<i>&ast;ipi</i>
+</td>
+<td>
+'<span>Tahitian chestnut, Inocarpus fagifer</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Kiribatese</td><td><i>ibi</i></td>
@@ -1018,31 +1016,6 @@ Comments in the agronomic literature about the relative insignificance of T. cat
 </td>
 </tr>
 <tr>
-<td><strong>PEOc</strong></td><td> </td>
-<td>
-<i>&ast;talise</i>
-</td>
-<td>
-'<span>Terminalia catappa</span>'</td>
-</tr>
-<tr>
-<td><strong>PSV</strong></td><td> </td>
-<td>
-<i>&ast;nə-talis</i>
-</td>
-<td>
-'<span>Terminalia catappa</span>' (<a href="../references.md#source-Lynch2001c">Lynch2001c</a>)
-</td>
-</tr>
-<tr>
-<td><strong>PCP</strong></td><td> </td>
-<td>
-<i>&ast;talise</i>
-</td>
-<td>
-'<span>Terminalia catappa</span>'</td>
-</tr>
-<tr>
 <td>Adm</td><td>Seimat</td><td><i>talil</i></td>
 <td>
 '<span>Terminalia sp.</span>' (<a href="../references.md#source-Sorensen1950">Sorensen1950</a>)
@@ -1159,6 +1132,14 @@ Comments in the agronomic literature about the relative insignificance of T. cat
 '<span>Terminalia catappa</span>'</td>
 </tr>
 <tr>
+<td><strong>PEOc</strong></td><td> </td>
+<td>
+<i>&ast;talise</i>
+</td>
+<td>
+'<span>Terminalia catappa</span>'</td>
+</tr>
+<tr>
 <td>SES</td><td>Gela</td><td><i>talihe</i></td>
 <td>
 '<span>Terminalia catappa</span>'</td>
@@ -1204,6 +1185,15 @@ Comments in the agronomic literature about the relative insignificance of T. cat
 '<span>Terminalia catappa</span>'</td>
 </tr>
 <tr>
+<td><strong>PSV</strong></td><td> </td>
+<td>
+<i>&ast;nə-talis</i>
+</td>
+<td>
+'<span>Terminalia catappa</span>' (<a href="../references.md#source-Lynch2001c">Lynch2001c</a>)
+</td>
+</tr>
+<tr>
 <td>SV</td><td>Sye</td><td><i>nteli</i></td>
 <td>
 '<span>Terminalia catappa</span>'</td>
@@ -1215,6 +1205,14 @@ Comments in the agronomic literature about the relative insignificance of T. cat
 </tr>
 <tr>
 <td>SV</td><td>Anejom</td><td><i>n-tejeθ</i></td>
+<td>
+'<span>Terminalia catappa</span>'</td>
+</tr>
+<tr>
+<td><strong>PCP</strong></td><td> </td>
+<td>
+<i>&ast;talise</i>
+</td>
 <td>
 '<span>Terminalia catappa</span>'</td>
 </tr>
@@ -1291,15 +1289,6 @@ Two other POc terms possibly denoted Terminalia species: _&ast;tapoRa_ and _&ast
 </td>
 </tr>
 <tr>
-<td><strong>PEOc</strong></td><td> </td>
-<td>
-<i>&ast;tapoRa</i>
-</td>
-<td>
-'<span>Terminalia spp.</span>' (<a href="../references.md#source-Geraghty1990">Geraghty1990</a>)
-</td>
-</tr>
-<tr>
 <td>NNG</td><td>Takia</td><td><i>tapal</i></td>
 <td>
 '<span>nut tree, like Canarium, but less oily</span>'</td>
@@ -1308,6 +1297,15 @@ Two other POc terms possibly denoted Terminalia species: _&ast;tapoRa_ and _&ast
 <td>MM</td><td>Nehan</td><td><i>tauol</i></td>
 <td>
 '<span>Inocarpus fagifer</span>' (<a href="../references.md#source-GlennonandGlennon2005">GlennonandGlennon2005</a>)
+</td>
+</tr>
+<tr>
+<td><strong>PEOc</strong></td><td> </td>
+<td>
+<i>&ast;tapoRa</i>
+</td>
+<td>
+'<span>Terminalia spp.</span>' (<a href="../references.md#source-Geraghty1990">Geraghty1990</a>)
 </td>
 </tr>
 <tr>
@@ -1836,15 +1834,6 @@ Figure 11.5: Left Pandanus tectorius: A, tree at its tallest; B, young plant whe
 '<span>Pandanus sp.</span>'</td>
 </tr>
 <tr>
-<td><strong>PSV</strong></td><td> </td>
-<td>
-<i>&ast;na-va(i,y)u</i>
-</td>
-<td>
-'<span>Pandanus sp.</span>' (<a href="../references.md#source-Lynch2004a">Lynch2004a</a>)
-</td>
-</tr>
-<tr>
 <td>NCV</td><td>Ambae</td><td><i>ve-veo</i></td>
 <td>
 '<span>Pandanus sp.</span>'</td>
@@ -1868,6 +1857,15 @@ Figure 11.5: Left Pandanus tectorius: A, tree at its tallest; B, young plant whe
 <td>NCV</td><td>Baki</td><td><i>(buru)vewo</i></td>
 <td>
 '<span>Pandanus sp.</span>'</td>
+</tr>
+<tr>
+<td><strong>PSV</strong></td><td> </td>
+<td>
+<i>&ast;na-va(i,y)u</i>
+</td>
+<td>
+'<span>Pandanus sp.</span>' (<a href="../references.md#source-Lynch2004a">Lynch2004a</a>)
+</td>
 </tr>
 <tr>
 <td>SV</td><td>Sye</td><td><i>na-(ri)vyu</i></td>
@@ -2133,18 +2131,18 @@ Another interpretation of the data is also possible, namely that the items liste
 cf. also: 
 <table>
 <tr>
-<td>Mic</td>
-<td>Kosraean</td>
-<td><i>mᶭeŋ</i></td>
-<td>
-'<span>pandanus</span>'</td>
-</tr>
-<tr>
 <td>PT</td>
 <td>Maisin</td>
 <td><i>moŋgi</i></td>
 <td>
 '<span>Pandanus sp.</span>'</td>
+</tr>
+<tr>
+<td>Mic</td>
+<td>Kosraean</td>
+<td><i>mᶭeŋ</i></td>
+<td>
+'<span>pandanus</span>'</td>
 </tr>
 <tr>
 <td>Mic</td>
@@ -2647,23 +2645,6 @@ Figure 11.8: Burckella obovata: A, tree; B, flowering shoot; C, shoot bearing fr
 '<span>Burckella obovata</span>' (<span>Blust 1978b: 38-39: <em>*ñatu</em>; Ross 1996d</span>)</td>
 </tr>
 <tr>
-<td><strong>PEOc</strong></td><td> </td>
-<td>
-<i>&ast;ñatuq</i>
-</td>
-<td>
-'<span>Burckella obovata</span>'</td>
-</tr>
-<tr>
-<td><strong>PSV</strong></td><td> </td>
-<td>
-<i>&ast;nə-yatuq</i>
-</td>
-<td>
-'<span>Burckella obovata</span>' (<a href="../references.md#source-Lynch2001c">Lynch2001c</a>)
-</td>
-</tr>
-<tr>
 <td>Adm</td><td>Mussau</td><td><i>natu</i></td>
 <td>
 '<span>Burckella obovata</span>'</td>
@@ -2769,6 +2750,14 @@ Figure 11.8: Burckella obovata: A, tree; B, flowering shoot; C, shoot bearing fr
 '<span>Burckella obovata</span>'</td>
 </tr>
 <tr>
+<td><strong>PEOc</strong></td><td> </td>
+<td>
+<i>&ast;ñatuq</i>
+</td>
+<td>
+'<span>Burckella obovata</span>'</td>
+</tr>
+<tr>
 <td>SES</td><td>Sa'a</td><td><i>nau</i></td>
 <td>
 '<span>a fruit tree, teak</span>'</td>
@@ -2812,6 +2801,15 @@ Figure 11.8: Burckella obovata: A, tree; B, flowering shoot; C, shoot bearing fr
 <td>NCV</td><td>Nguna</td><td><i>na-natu</i></td>
 <td>
 '<span>Burckella obovata</span>'</td>
+</tr>
+<tr>
+<td><strong>PSV</strong></td><td> </td>
+<td>
+<i>&ast;nə-yatuq</i>
+</td>
+<td>
+'<span>Burckella obovata</span>' (<a href="../references.md#source-Lynch2001c">Lynch2001c</a>)
+</td>
 </tr>
 <tr>
 <td>SV</td><td>Sye</td><td><i>yetu</i></td>
@@ -2873,15 +2871,6 @@ The alternative answer is that there were inedible or barely edible Citrus speci
 </td>
 <td>
 '<span>citrus fruit or citrus-like fruit, perhaps Clymenia polyandra</span>' (<a href="../references.md#source-Lynch1984">Lynch1984</a>)
-</td>
-</tr>
-<tr>
-<td><strong>PSV</strong></td><td> </td>
-<td>
-<i>&ast;ne-molis</i>
-</td>
-<td>
-'<span>citrus fruit</span>' (<a href="../references.md#source-Lynch2001c">Lynch2001c</a>)
 </td>
 </tr>
 <tr>
@@ -3000,6 +2989,15 @@ The alternative answer is that there were inedible or barely edible Citrus speci
 '<span>citrus fruit</span>'</td>
 </tr>
 <tr>
+<td><strong>PSV</strong></td><td> </td>
+<td>
+<i>&ast;ne-molis</i>
+</td>
+<td>
+'<span>citrus fruit</span>' (<a href="../references.md#source-Lynch2001c">Lynch2001c</a>)
+</td>
+</tr>
+<tr>
 <td>SV</td><td>Sye</td><td><i>ne-mli</i></td>
 <td>
 '<span>citrus fruit</span>'</td>
@@ -3092,16 +3090,16 @@ POc _&ast;i(u)bu_ 'Corynocarpus cribbianus' is tentatively reconstructed - 'tent
 cf. also: 
 <table>
 <tr>
-<td>NCV</td>
-<td>Apma</td>
-<td><i>tabʷi</i></td>
+<td>SES</td>
+<td>Lengo</td>
+<td><i>tebu</i></td>
 <td>
-'<span>Corynocarpus similis</span>'(<a href="../references.md#source-WalterandSam2002">WalterandSam2002</a>)
+'<span>Corynocarpus cribbianus</span>'(<a href="../references.md#source-HendersonandHancock1988">HendersonandHancock1988</a>)
 </td>
 </tr>
 <tr>
 <td>SES</td>
-<td>Lengo</td>
+<td>To'aba'ita</td>
 <td><i>tebu</i></td>
 <td>
 '<span>Corynocarpus cribbianus</span>'(<a href="../references.md#source-HendersonandHancock1988">HendersonandHancock1988</a>)
@@ -3116,11 +3114,11 @@ cf. also:
 </td>
 </tr>
 <tr>
-<td>SES</td>
-<td>To'aba'ita</td>
-<td><i>tebu</i></td>
+<td>NCV</td>
+<td>Apma</td>
+<td><i>tabʷi</i></td>
 <td>
-'<span>Corynocarpus cribbianus</span>'(<a href="../references.md#source-HendersonandHancock1988">HendersonandHancock1988</a>)
+'<span>Corynocarpus similis</span>'(<a href="../references.md#source-WalterandSam2002">WalterandSam2002</a>)
 </td>
 </tr>
 </table>
@@ -3348,15 +3346,8 @@ cf. also:
 <table>
 <tr>
 <td>SES</td>
-<td>Arosi</td>
-<td><i>ʔāi</i></td>
-<td>
-'<span>mango</span>'</td>
-</tr>
-<tr>
-<td>SES</td>
-<td>Fagani</td>
-<td><i>ɣāi</i></td>
+<td>West Guadalcanal</td>
+<td><i>ɣoai</i></td>
 <td>
 '<span>mango</span>'</td>
 </tr>
@@ -3369,8 +3360,15 @@ cf. also:
 </tr>
 <tr>
 <td>SES</td>
-<td>West Guadalcanal</td>
-<td><i>ɣoai</i></td>
+<td>Arosi</td>
+<td><i>ʔāi</i></td>
+<td>
+'<span>mango</span>'</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>Fagani</td>
+<td><i>ɣāi</i></td>
 <td>
 '<span>mango</span>'</td>
 </tr>
@@ -3440,31 +3438,6 @@ The POc term for P. pinnata was _&ast;tawan_, reflected in all major Oceanic sub
 <td><strong>POc</strong></td><td> </td>
 <td>
 <i>&ast;tawan</i>
-</td>
-<td>
-'<span>Pometia pinnata</span>'</td>
-</tr>
-<tr>
-<td><strong>PEOc</strong></td><td> </td>
-<td>
-<i>&ast;tawan</i>
-</td>
-<td>
-'<span>Pometia pinnata</span>'</td>
-</tr>
-<tr>
-<td><strong>PSV</strong></td><td> </td>
-<td>
-<i>&ast;na-ntawa(n)</i>
-</td>
-<td>
-'<span>Pometia pinnata</span>' (<a href="../references.md#source-Lynch2001c">Lynch2001c</a>)
-</td>
-</tr>
-<tr>
-<td><strong>PCP</strong></td><td> </td>
-<td>
-<i>&ast;tawa</i>
 </td>
 <td>
 '<span>Pometia pinnata</span>'</td>
@@ -3562,6 +3535,14 @@ The POc term for P. pinnata was _&ast;tawan_, reflected in all major Oceanic sub
 '<span>Pometia pinnata</span>'</td>
 </tr>
 <tr>
+<td><strong>PEOc</strong></td><td> </td>
+<td>
+<i>&ast;tawan</i>
+</td>
+<td>
+'<span>Pometia pinnata</span>'</td>
+</tr>
+<tr>
 <td>SES</td><td>Lengo</td><td><i>tao</i></td>
 <td>
 '<span>Pometia pinnata</span>' (<a href="../references.md#source-HendersonandHancock1988">HendersonandHancock1988</a>)
@@ -3634,6 +3615,15 @@ The POc term for P. pinnata was _&ast;tawan_, reflected in all major Oceanic sub
 '<span>Pometia pinnata</span>'</td>
 </tr>
 <tr>
+<td><strong>PSV</strong></td><td> </td>
+<td>
+<i>&ast;na-ntawa(n)</i>
+</td>
+<td>
+'<span>Pometia pinnata</span>' (<a href="../references.md#source-Lynch2001c">Lynch2001c</a>)
+</td>
+</tr>
+<tr>
 <td>SV</td><td>Sye</td><td><i>ntau</i></td>
 <td>
 '<span>Pometia pinnata</span>'</td>
@@ -3650,6 +3640,14 @@ The POc term for P. pinnata was _&ast;tawan_, reflected in all major Oceanic sub
 </tr>
 <tr>
 <td>SV</td><td>Anejom</td><td><i>netva</i></td>
+<td>
+'<span>Pometia pinnata</span>'</td>
+</tr>
+<tr>
+<td><strong>PCP</strong></td><td> </td>
+<td>
+<i>&ast;tawa</i>
+</td>
 <td>
 '<span>Pometia pinnata</span>'</td>
 </tr>
@@ -3739,22 +3737,6 @@ There was a single widely reflected POc term, _&ast;quRis_. I have assumed below
 '<span>Spondias cytherea</span>' (<span>Grace 1969 (Wilhelm Milke, pers. comm.: <em>*quRi</em>); Ross 1996d</span>)</td>
 </tr>
 <tr>
-<td><strong>PSV</strong></td><td> </td>
-<td>
-<i>&ast;na-viris</i>
-</td>
-<td>
-'<span>Spondias cytherea</span>' (<span>Lynch 21004a</span>)</td>
-</tr>
-<tr>
-<td><strong>PCP</strong></td><td> </td>
-<td>
-<i>&ast;wī</i>
-</td>
-<td>
-'<span>Spondias cytherea</span>'</td>
-</tr>
-<tr>
 <td>Adm</td><td>Loniu</td><td><i>wi</i></td>
 <td>
 '<span>Spondias cytherea</span>'</td>
@@ -3821,6 +3803,14 @@ There was a single widely reflected POc term, _&ast;quRis_. I have assumed below
 '<span>Spondias cytherea</span>'</td>
 </tr>
 <tr>
+<td><strong>PSV</strong></td><td> </td>
+<td>
+<i>&ast;na-viris</i>
+</td>
+<td>
+'<span>Spondias cytherea</span>' (<span>Lynch 21004a</span>)</td>
+</tr>
+<tr>
 <td>SV</td><td>Sye</td><td><i>ne-viwi</i></td>
 <td>
 </td>
@@ -3839,6 +3829,14 @@ There was a single widely reflected POc term, _&ast;quRis_. I have assumed below
 <td>SV</td><td>Anejom</td><td><i>n-huri</i></td>
 <td>
 '<span>Dracontomelon vitiensis</span>'</td>
+</tr>
+<tr>
+<td><strong>PCP</strong></td><td> </td>
+<td>
+<i>&ast;wī</i>
+</td>
+<td>
+'<span>Spondias cytherea</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>wī</i></td>
@@ -4163,39 +4161,6 @@ The POc term for S. malaccense was _&ast;kapika_, reflected in all major Oceanic
 </td>
 </tr>
 <tr>
-<td><strong>PWOc</strong></td><td> </td>
-<td>
-<i>&ast;kapika</i>
-</td>
-<td>
-'<span>Syzygium malaccense</span>'</td>
-</tr>
-<tr>
-<td><strong>PEOc</strong></td><td> </td>
-<td>
-<i>&ast;kapika</i>
-</td>
-<td>
-'<span>Syzygium malaccense</span>'</td>
-</tr>
-<tr>
-<td><strong>PSV</strong></td><td> </td>
-<td>
-<i>&ast;na-ɣaviɣ</i>
-</td>
-<td>
-'<span>Syzygium malaccense</span>' (<a href="../references.md#source-Lynch2001c">Lynch2001c</a>)
-</td>
-</tr>
-<tr>
-<td><strong>PCP</strong></td><td> </td>
-<td>
-<i>&ast;kavika</i>
-</td>
-<td>
-'<span>Syzygium malaccense</span>'</td>
-</tr>
-<tr>
 <td>Adm</td><td>Mussau</td><td><i>kaviu</i></td>
 <td>
 '<span>Syzygium samarangense</span>' (<span>-u fort-a</span>)</td>
@@ -4210,6 +4175,14 @@ The POc term for S. malaccense was _&ast;kapika_, reflected in all major Oceanic
 <td>Adm</td><td>Lou</td><td><i>keik</i></td>
 <td>
 '<span>large variety of Malay apple, Syzygium gomata</span>'</td>
+</tr>
+<tr>
+<td><strong>PWOc</strong></td><td> </td>
+<td>
+<i>&ast;kapika</i>
+</td>
+<td>
+'<span>Syzygium malaccense</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Poeng</td><td><i>gaiva</i></td>
@@ -4249,6 +4222,14 @@ The POc term for S. malaccense was _&ast;kapika_, reflected in all major Oceanic
 </tr>
 <tr>
 <td>MM</td><td>Babatana</td><td><i>kapika</i></td>
+<td>
+'<span>Syzygium malaccense</span>'</td>
+</tr>
+<tr>
+<td><strong>PEOc</strong></td><td> </td>
+<td>
+<i>&ast;kapika</i>
+</td>
 <td>
 '<span>Syzygium malaccense</span>'</td>
 </tr>
@@ -4323,6 +4304,15 @@ The POc term for S. malaccense was _&ast;kapika_, reflected in all major Oceanic
 '<span>Malay apple</span>'</td>
 </tr>
 <tr>
+<td><strong>PSV</strong></td><td> </td>
+<td>
+<i>&ast;na-ɣaviɣ</i>
+</td>
+<td>
+'<span>Syzygium malaccense</span>' (<a href="../references.md#source-Lynch2001c">Lynch2001c</a>)
+</td>
+</tr>
+<tr>
 <td>SV</td><td>Lenakel</td><td><i>nə-kəvək</i></td>
 <td>
 '<span>Syzygium malaccense</span>'</td>
@@ -4349,6 +4339,14 @@ The POc term for S. malaccense was _&ast;kapika_, reflected in all major Oceanic
 </tr>
 <tr>
 <td>NCal</td><td>Xârâcùù</td><td><i>kʌɨ</i></td>
+<td>
+'<span>Syzygium malaccense</span>'</td>
+</tr>
+<tr>
+<td><strong>PCP</strong></td><td> </td>
+<td>
+<i>&ast;kavika</i>
+</td>
 <td>
 '<span>Syzygium malaccense</span>'</td>
 </tr>
@@ -4588,15 +4586,6 @@ The cognate set below allows only a PEOc reconstruction. The one Western Oceanic
 '<span>Finschia cloroxantha</span>'</td>
 </tr>
 <tr>
-<td><strong>PSV</strong></td><td> </td>
-<td>
-<i>&ast;na-(i)gam</i>
-</td>
-<td>
-'<span>Finschia cloroxantha</span>' (<a href="../references.md#source-Lynch2001c">Lynch2001c</a>)
-</td>
-</tr>
-<tr>
 <td>SES</td><td>Kwara’ae</td><td><i>(a)kama</i></td>
 <td>
 '<span>Finschia cloroxantha</span>'</td>
@@ -4616,6 +4605,15 @@ The cognate set below allows only a PEOc reconstruction. The one Western Oceanic
 <td>NCV</td><td>Apma</td><td><i>(wa)gam</i></td>
 <td>
 '<span>Finschia cloroxantha</span>'</td>
+</tr>
+<tr>
+<td><strong>PSV</strong></td><td> </td>
+<td>
+<i>&ast;na-(i)gam</i>
+</td>
+<td>
+'<span>Finschia cloroxantha</span>' (<a href="../references.md#source-Lynch2001c">Lynch2001c</a>)
+</td>
 </tr>
 <tr>
 <td>SV</td><td>Sye</td><td><i>ne-iŋkom</i></td>
@@ -4700,18 +4698,18 @@ Although reflexes of PWOc _&ast;lapuka_ mean 'breadfruit' in some languages, the
 cf. also: 
 <table>
 <tr>
-<td>NCV</td>
-<td>Araki</td>
-<td><i>levu</i></td>
-<td>
-'<span>breadfruit, Artocarpus altilis</span>'</td>
-</tr>
-<tr>
 <td>SES</td>
 <td>Kwara’ae</td>
 <td><i>rakʷa-na</i></td>
 <td>
 '<span>Parartocarpus venenosa</span>'</td>
+</tr>
+<tr>
+<td>NCV</td>
+<td>Araki</td>
+<td><i>levu</i></td>
+<td>
+'<span>breadfruit, Artocarpus altilis</span>'</td>
 </tr>
 </table>
 

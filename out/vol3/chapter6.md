@@ -1,6 +1,4 @@
-# Wild plants of the mangrove: swamp
-
-by Malcolm Ross
+[Malcolm Ross](.smallcaps)
 
 
 <a id="s-1"></a>
@@ -194,31 +192,6 @@ POc _&ast;toŋoR_ was fairly clearly the generic term for mangroves. It also see
 </td>
 </tr>
 <tr>
-<td><strong>PEOc</strong></td><td> </td>
-<td>
-<i>&ast;toŋoR</i>
-</td>
-<td>
-'<span>mangrove</span>'</td>
-</tr>
-<tr>
-<td><strong>PSV</strong></td><td> </td>
-<td>
-<i>&ast;na-doŋa(q)</i>
-</td>
-<td>
-'<span>mangrove, Rhizophora spp.</span>' (<a href="../references.md#source-Lynch2001c">Lynch2001c</a>)
-</td>
-</tr>
-<tr>
-<td><strong>PCP</strong></td><td> </td>
-<td>
-<i>&ast;toŋo</i>
-</td>
-<td>
-'<span>mangrove, probably Bruguiera gymnorrhiza; mangroves (generic)</span>'</td>
-</tr>
-<tr>
 <td>Adm</td><td>Mussau</td><td><i>toŋo</i></td>
 <td>
 '<span>mangrove sp. with edible fruit</span>'</td>
@@ -305,6 +278,14 @@ POc _&ast;toŋoR_ was fairly clearly the generic term for mangroves. It also see
 '<span>Rhizophora spp.</span>' (<span>W. McClatchey, pers. comm.</span>)</td>
 </tr>
 <tr>
+<td><strong>PEOc</strong></td><td> </td>
+<td>
+<i>&ast;toŋoR</i>
+</td>
+<td>
+'<span>mangrove</span>'</td>
+</tr>
+<tr>
 <td>SES</td><td>Gela</td><td><i>toŋo</i></td>
 <td>
 '<span>a mangrove</span>'</td>
@@ -360,6 +341,15 @@ POc _&ast;toŋoR_ was fairly clearly the generic term for mangroves. It also see
 '<span>mangrove</span>'</td>
 </tr>
 <tr>
+<td><strong>PSV</strong></td><td> </td>
+<td>
+<i>&ast;na-doŋa(q)</i>
+</td>
+<td>
+'<span>mangrove, Rhizophora spp.</span>' (<a href="../references.md#source-Lynch2001c">Lynch2001c</a>)
+</td>
+</tr>
+<tr>
 <td>SV</td><td>Sye</td><td><i>(ne)tuŋo</i></td>
 <td>
 '<span>mangrove, Rhizophora sp.</span>'</td>
@@ -398,6 +388,14 @@ POc _&ast;toŋoR_ was fairly clearly the generic term for mangroves. It also see
 <td>Mic</td><td>Ponapean</td><td><i>c̣oŋ</i></td>
 <td>
 '<span>mangrove sp., bark of which is used for dyeing</span>'</td>
+</tr>
+<tr>
+<td><strong>PCP</strong></td><td> </td>
+<td>
+<i>&ast;toŋo</i>
+</td>
+<td>
+'<span>mangrove, probably Bruguiera gymnorrhiza; mangroves (generic)</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>toŋo</i></td>
@@ -723,15 +721,6 @@ Lynch (2004) reconstructs PSOc _&ast;(t,d)oto(q)_, noting, 'Final _&ast;-o_ is o
 '<span>sticky liquids including the sap of (some?) trees</span>'; '<span>a mangrove tree, probably Excoecaria agallocha</span>' (<span>Lynch 2004a: PSOc <em>*(t,d)oto(q)</em></span>)</td>
 </tr>
 <tr>
-<td><strong>PSV</strong></td><td> </td>
-<td>
-<i>&ast;na-tetaq</i>
-</td>
-<td>
-'<span>Excoecaria agallocha</span>' (<a href="../references.md#source-Lynch2001c">Lynch2001c</a>)
-</td>
-</tr>
-<tr>
 <td>MM</td><td>Bola</td><td><i>toto</i></td>
 <td>
 '<span>Cerbera manghas</span>' (<a href="../references.md#source-Powell1976">Powell1976</a>)
@@ -766,6 +755,15 @@ Lynch (2004) reconstructs PSOc _&ast;(t,d)oto(q)_, noting, 'Final _&ast;-o_ is o
 <td>NCV</td><td>Uripiv</td><td><i>na-tot</i></td>
 <td>
 '<span>Excoecaria agallocha</span>'</td>
+</tr>
+<tr>
+<td><strong>PSV</strong></td><td> </td>
+<td>
+<i>&ast;na-tetaq</i>
+</td>
+<td>
+'<span>Excoecaria agallocha</span>' (<a href="../references.md#source-Lynch2001c">Lynch2001c</a>)
+</td>
 </tr>
 <tr>
 <td>SV</td><td>Sye</td><td><i>yate</i></td>
@@ -1004,14 +1002,6 @@ POc _&ast;tapi(l)_ is problematic because only the Muyuw reflex has a secure glo
 </td>
 </tr>
 <tr>
-<td><strong>PPn</strong></td><td> </td>
-<td>
-<i>&ast;leki-leki</i>
-</td>
-<td>
-'<span>puzzlenut tree, Xylocarpus sp.</span>'</td>
-</tr>
-<tr>
 <td>Fij</td><td>Rotuman</td><td><i>leki-leki</i></td>
 <td>
 '<span>Xylocarpus granatum</span>'</td>
@@ -1025,6 +1015,14 @@ POc _&ast;tapi(l)_ is problematic because only the Muyuw reflex has a secure glo
 <td>Fij</td><td>Bauan</td><td><i>legi-legi</i></td>
 <td>
 '<span>Xylocarpus granatum</span>'</td>
+</tr>
+<tr>
+<td><strong>PPn</strong></td><td> </td>
+<td>
+<i>&ast;leki-leki</i>
+</td>
+<td>
+'<span>puzzlenut tree, Xylocarpus sp.</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>leki-leki</i></td>

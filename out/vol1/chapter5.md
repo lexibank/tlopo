@@ -1,6 +1,4 @@
-# Horticultural Practices
-
-by Osmond, M.
+[Osmond, M.](.smallcaps)
 
 
 <a id="s-1"></a>
@@ -87,7 +85,7 @@ For swidden agriculturalists, land could be classified in one of three ways - as
 <tr>
 <td>NNG</td><td>Sengseng</td><td><i>kum</i></td>
 <td>
-(v) '<span>work (in general)</span>'</td>
+[v] '<span>work (in general)</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td>Molima</td><td><i>ʔuma</i></td>
@@ -780,7 +778,7 @@ It seems from its reflexes that POc _&ast;quma_ meant 'clear land for a garden' 
 <tr>
 <td>Adm</td><td>Loniu</td><td><i>cani</i></td>
 <td>
-(VT) '<span>clear, cut down bush or sugarcane</span>'</td>
+[VT] '<span>clear, cut down bush or sugarcane</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Loniu</td><td><i>(pono)sani</i></td>
@@ -994,7 +992,7 @@ The following reconstruction may refer particularly to the action of burning gra
 <tr>
 <td>MM</td><td>Nehan</td><td><i>suk</i></td>
 <td>
-(ADJ) '<span>burnt</span>'; (v) '<span>singe</span>'</td>
+[ADJ] '<span>burnt</span>'; [v] '<span>singe</span>'</td>
 </tr>
 </table>
 
@@ -1045,12 +1043,12 @@ Reflexes of POc _&ast;tunu_ 'roast on embers or in fire; burn (grass +); make de
 <tr>
 <td>PT</td><td>Gapapaiwa</td><td><i>vao</i></td>
 <td>
-(VT) '<span>grow, plant</span>'; (N) '<span>garden</span>'</td>
+[VT] '<span>grow, plant</span>'; [N] '<span>garden</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Gela</td><td><i>vavo</i></td>
 <td>
-(VT) '<span>weed</span>'</td>
+[VT] '<span>weed</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Lau</td><td><i>fofo</i></td>
@@ -1065,12 +1063,12 @@ Reflexes of POc _&ast;tunu_ 'roast on embers or in fire; burn (grass +); make de
 <tr>
 <td>SES</td><td>Arosi</td><td><i>haho</i></td>
 <td>
-(V) '<span>weed</span>'</td>
+[V] '<span>weed</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Mota</td><td><i>wowo(r)</i></td>
 <td>
-(V) '<span>weed</span>'</td>
+[V] '<span>weed</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>vovo</i></td>
@@ -1108,7 +1106,7 @@ Reflexes of POc _&ast;tunu_ 'roast on embers or in fire; burn (grass +); make de
 <tr>
 <td>SES</td><td>Tolo</td><td><i>rubo(a)</i></td>
 <td>
-(v) '<span>weed</span>'</td>
+[v] '<span>weed</span>'</td>
 </tr>
 </table>
 
@@ -1300,11 +1298,32 @@ Both _&ast;kali_ and _&ast;keli_ are reconstructable for POc, and both apparentl
 cf. also: 
 <table>
 <tr>
-<td>SES</td>
-<td>Arosi</td>
-<td><i>giri</i></td>
+<td>Adm</td>
+<td>Mussau</td>
+<td><i>kai</i></td>
 <td>
-'<span>dig with a stick</span>'</td>
+</td>
+</tr>
+<tr>
+<td>Adm</td>
+<td>Mussau</td>
+<td><i>(ka)kaia</i></td>
+<td>
+'<span>bury</span>'</td>
+</tr>
+<tr>
+<td>MM</td>
+<td>Patpatar</td>
+<td><i>kil</i></td>
+<td>
+'<span>dig (with a stick)</span>'</td>
+</tr>
+<tr>
+<td>MM</td>
+<td>Ramoaaina</td>
+<td><i>kil</i></td>
+<td>
+</td>
 </tr>
 <tr>
 <td>MM</td>
@@ -1321,11 +1340,11 @@ cf. also:
 </td>
 </tr>
 <tr>
-<td>SV</td>
-<td>Lenakel</td>
-<td><i>il</i></td>
+<td>SES</td>
+<td>Arosi</td>
+<td><i>giri</i></td>
 <td>
-</td>
+'<span>dig with a stick</span>'</td>
 </tr>
 <tr>
 <td>NCV</td>
@@ -1335,30 +1354,9 @@ cf. also:
 '<span>dig, dig for</span>'</td>
 </tr>
 <tr>
-<td>Adm</td>
-<td>Mussau</td>
-<td><i>(ka)kaia</i></td>
-<td>
-'<span>bury</span>'</td>
-</tr>
-<tr>
-<td>Adm</td>
-<td>Mussau</td>
-<td><i>kai</i></td>
-<td>
-</td>
-</tr>
-<tr>
-<td>MM</td>
-<td>Patpatar</td>
-<td><i>kil</i></td>
-<td>
-'<span>dig (with a stick)</span>'</td>
-</tr>
-<tr>
-<td>MM</td>
-<td>Ramoaaina</td>
-<td><i>kil</i></td>
+<td>SV</td>
+<td>Lenakel</td>
+<td><i>il</i></td>
 <td>
 </td>
 </tr>
@@ -2336,7 +2334,7 @@ Proto Oceanic _&ast;sopu_ referred to yam planting. This much is clear from the 
 <tr>
 <td>SES</td><td>Kwaio</td><td><i>tofu(a)</i></td>
 <td>
-(v) '<span>cut things up</span>'</td>
+[v] '<span>cut things up</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>'Are'are</td><td><i>tohu(a)</i></td>
@@ -2624,17 +2622,17 @@ cf. also:
 <table>
 <tr>
 <td>MM</td>
-<td>Meramera</td>
-<td><i>danu</i></td>
-<td>
-(V) '<span>plant</span>'</td>
-</tr>
-<tr>
-<td>MM</td>
 <td>Nakanai</td>
 <td><i>galu</i></td>
 <td>
-(v) '<span>plant</span>'</td>
+[v] '<span>plant</span>'</td>
+</tr>
+<tr>
+<td>MM</td>
+<td>Meramera</td>
+<td><i>danu</i></td>
+<td>
+[V] '<span>plant</span>'</td>
 </tr>
 </table>
 
@@ -2992,7 +2990,7 @@ Although any plant may become dry and droop through lack of water, it is a featu
 '<span>withered, dry (leaves, husk, tree)</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Halia</td><td><i>raŋo</i></td>
+<td>MM</td><td>Selau</td><td><i>raŋo</i></td>
 <td>
 '<span>dry</span>'</td>
 </tr>
@@ -3109,7 +3107,7 @@ We have not identified a reconstruction specifically for the digging up of tuber
 <i>&ast;kawi(t), kawit-i-</i>
 </td>
 <td>
-(V) '<span>hook, catch hold of; fruit crook</span>' (<a href="../references.md#source-FrenchWright1983">FrenchWright1983</a>)
+[V] '<span>hook, catch hold of; fruit crook</span>' (<a href="../references.md#source-FrenchWright1983">FrenchWright1983</a>)
 </td>
 </tr>
 <tr>
@@ -3125,7 +3123,7 @@ We have not identified a reconstruction specifically for the digging up of tuber
 <tr>
 <td>MM</td><td>Nakanai</td><td><i>kau</i></td>
 <td>
-(V) '<span>hook, as in hooking fruit down from a tree</span>'</td>
+[V] '<span>hook, as in hooking fruit down from a tree</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Gela</td><td><i>kauti</i></td>
@@ -3289,7 +3287,7 @@ The following sets, all relating to plucking by hand, have formal similarities, 
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>ðavut(a)</i></td>
 <td>
-(VT) '<span>pull up, eradicate</span>'</td>
+[VT] '<span>pull up, eradicate</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>ðavu</i></td>
@@ -3475,18 +3473,18 @@ cf. also:
 cf. also: 
 <table>
 <tr>
-<td>PT</td>
-<td>Motu</td>
-<td><i>baki</i></td>
-<td>
-'<span>break, of bread, sago +</span>'</td>
-</tr>
-<tr>
 <td>NNG</td>
 <td>Sengseng</td>
 <td><i>pak</i></td>
 <td>
 '<span>collect bedpoles by breaking off long straight branches or trunks</span>'</td>
+</tr>
+<tr>
+<td>PT</td>
+<td>Motu</td>
+<td><i>baki</i></td>
+<td>
+'<span>break, of bread, sago +</span>'</td>
 </tr>
 <tr>
 <td>Pn</td>

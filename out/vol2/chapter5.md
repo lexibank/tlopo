@@ -1,6 +1,4 @@
-# Meteorological phenomena
-
-by Malcolm Ross
+[Malcolm Ross](.smallcaps)
 
 
 <a id="s-1"></a>
@@ -230,7 +228,7 @@ Three terms for winds of differing strengths are reconstructable. POc _&ast;jaŋ
 <i>&ast;jaŋi</i>
 </td>
 <td>
-(N) '<span>strong wind</span>'; (V) '<span>be windy</span>'</td>
+[N] '<span>strong wind</span>'; [V] '<span>be windy</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Bing</td><td><i>sāŋ</i></td>
@@ -260,12 +258,12 @@ Three terms for winds of differing strengths are reconstructable. POc _&ast;jaŋ
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>(ma)taŋi</i></td>
 <td>
-(N) '<span>wind</span>'; (V) '<span>be windy</span>'</td>
+[N] '<span>wind</span>'; [V] '<span>be windy</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Samoan</td><td><i>(ma)taŋi</i></td>
 <td>
-(N) '<span>wind</span>'; (V) '<span>be windy, stormy</span>'</td>
+[N] '<span>wind</span>'; [V] '<span>be windy, stormy</span>'</td>
 </tr>
 </table>
 
@@ -278,7 +276,7 @@ Three terms for winds of differing strengths are reconstructable. POc _&ast;jaŋ
 <i>&ast;sau</i>
 </td>
 <td>
-(V) '<span>(breeze) blow</span>'; (N) '<span>breeze</span>'</td>
+[V] '<span>(breeze) blow</span>'; [N] '<span>breeze</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
@@ -286,7 +284,7 @@ Three terms for winds of differing strengths are reconstructable. POc _&ast;jaŋ
 <i>&ast;sau-ŋ(a)</i>
 </td>
 <td>
-(N) '<span>breeze</span>'</td>
+[N] '<span>breeze</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Lou</td><td><i>soso</i></td>
@@ -364,7 +362,7 @@ Three terms for winds of differing strengths are reconstructable. POc _&ast;jaŋ
 <i>&ast;mur[i,e]</i>
 </td>
 <td>
-(N) '<span>breeze</span>'; (V) '<span>blow gently</span>'</td>
+[N] '<span>breeze</span>'; [V] '<span>blow gently</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Lukep (Pono)</td><td><i>muru</i></td>
@@ -404,7 +402,7 @@ Three terms for winds of differing strengths are reconstructable. POc _&ast;jaŋ
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>mudre</i></td>
 <td>
-(V) '<span>(wind) blow gently</span>'; (N) '<span>cool breeze</span>'; (ADJ) '<span>cool, breezy</span>' (<span><em>-dr-</em> for expected <em>*-r-</em></span>)</td>
+[V] '<span>(wind) blow gently</span>'; [N] '<span>cool breeze</span>'; [ADJ] '<span>cool, breezy</span>' (<span><em>-dr-</em> for expected <em>*-r-</em></span>)</td>
 </tr>
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>mure</i></td>
@@ -962,7 +960,7 @@ The initial _p-_ of the Pn items reflects POc _&ast;b-_ or _&ast;pʷ-_: hence th
 '<span>(wind) blow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Halia</td><td><i>wut</i></td>
+<td>MM</td><td>Selau</td><td><i>wut</i></td>
 <td>
 '<span>(wind) blow</span>'</td>
 </tr>
@@ -1000,14 +998,6 @@ A selection of data supporting the reconstruction of _&ast;raki_ follows.
 </td>
 <td>
 '<span>southeast trades</span>' (<span>probably also ‘dry season when the southeast trades blow’</span>)</td>
-</tr>
-<tr>
-<td><strong>PPn</strong></td><td> </td>
-<td>
-<i>&ast;laki</i>
-</td>
-<td>
-'<span>southwesterly quandrant, southwest wind and weather associated with it</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Lou</td><td><i>ra</i></td>
@@ -1110,6 +1100,14 @@ A selection of data supporting the reconstruction of _&ast;raki_ follows.
 '<span>weather</span>'</td>
 </tr>
 <tr>
+<td><strong>PPn</strong></td><td> </td>
+<td>
+<i>&ast;laki</i>
+</td>
+<td>
+'<span>southwesterly quandrant, southwest wind and weather associated with it</span>'</td>
+</tr>
+<tr>
 <td>Pn</td><td>Niuean</td><td><i>laki</i></td>
 <td>
 '<span>west</span>'</td>
@@ -1142,7 +1140,7 @@ A selection of data supporting the reconstruction of _&ast;raki_ follows.
 <tr>
 <td>Pn</td><td>Rennellese</td><td><i>gaki</i></td>
 <td>
-(N) '<span>west or southwest wind</span>'; (V) '<span>(of this wind) blow</span>'</td>
+[N] '<span>west or southwest wind</span>'; [V] '<span>(of this wind) blow</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Takuu</td><td><i>laki</i></td>
@@ -1291,14 +1289,6 @@ POc _&ast;apaRat_ probably also denoted the accompanying wet season (SHS). The g
 '<span>northwest wind; wet season when northwesterlies blow and sea is rough</span>'</td>
 </tr>
 <tr>
-<td><strong>PCP</strong></td><td> </td>
-<td>
-<i>&ast;avā</i>
-</td>
-<td>
-'<span>storm, gale, hurricane</span>'</td>
-</tr>
-<tr>
 <td>Adm</td><td>Mussau</td><td><i>apae</i></td>
 <td>
 '<span>strong wind, storm wind</span>'</td>
@@ -1407,6 +1397,14 @@ POc _&ast;apaRat_ probably also denoted the accompanying wet season (SHS). The g
 <td>NCal</td><td>Jawe</td><td><i>(y)aec</i></td>
 <td>
 '<span>north wind</span>'</td>
+</tr>
+<tr>
+<td><strong>PCP</strong></td><td> </td>
+<td>
+<i>&ast;avā</i>
+</td>
+<td>
+'<span>storm, gale, hurricane</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>ðavā</i></td>
@@ -1671,7 +1669,7 @@ The ancestry of PPn _&ast;toŋa_ is unclear, and I return to this below. Data su
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>toŋa</i></td>
 <td>
-(N) '<span>south</span>'; (V) '<span>(wind) be south</span>'</td>
+[N] '<span>south</span>'; [V] '<span>(wind) be south</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>East Uvean</td><td><i>toŋa</i></td>
@@ -1726,12 +1724,6 @@ The ancestry of PPn _&ast;toŋa_ is unclear, and I return to this below. Data su
 </td>
 </tr>
 <tr>
-<td>Pn</td><td>Rarotongan</td><td><i>toŋa</i></td>
-<td>
-'<span>one of the wind quarters, south or southerly</span>'; '<span>south wind</span>' (<a href="../references.md#source-Lewis1972">Lewis1972: 74</a>)
-</td>
-</tr>
-<tr>
 <td>Pn</td><td>Mangareva</td><td><i>toŋa</i></td>
 <td>
 '<span>south wind</span>'</td>
@@ -1773,15 +1765,6 @@ PPn _&ast;tokelau_ ‘northwesterly quadrant, northwest winds’ reflects POc _&
 </td>
 <td>
 '<span>(?) northerly wind</span>'</td>
-</tr>
-<tr>
-<td><strong>PPn</strong></td><td> </td>
-<td>
-<i>&ast;tokelau</i>
-</td>
-<td>
-'<span>northwesterly quadrant, northwest winds</span>' (<a href="../references.md#source-BiggsandClark1993">BiggsandClark1993</a>)
-</td>
 </tr>
 <tr>
 <td>Adm</td><td>Baluan</td><td><i>tolaw</i></td>
@@ -1827,6 +1810,15 @@ PPn _&ast;tokelau_ ‘northwesterly quadrant, northwest winds’ reflects POc _&
 <td>Fij</td><td>Bauan</td><td><i>tokalau</i></td>
 <td>
 '<span>northeast wind; third of compass from N to roughly WSW</span>' (<a href="../references.md#source-Neyret1950">Neyret1950</a>)
+</td>
+</tr>
+<tr>
+<td><strong>PPn</strong></td><td> </td>
+<td>
+<i>&ast;tokelau</i>
+</td>
+<td>
+'<span>northwesterly quadrant, northwest winds</span>' (<a href="../references.md#source-BiggsandClark1993">BiggsandClark1993</a>)
 </td>
 </tr>
 <tr>
@@ -2441,7 +2433,7 @@ The cognate set below indicates that speakers of several daughter languages adop
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>maravu</i></td>
 <td>
-(N) '<span>a calm (at sea)</span>'; (V, ADJ) '<span>(sea) calm,</span>'</td>
+[N] '<span>a calm (at sea)</span>'; [V, ADJ] '<span>(sea) calm,</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>maravu</i></td>
@@ -2464,14 +2456,6 @@ PEOc _&ast;ma-lua(s)_ ‘soft, gentle, (weather) calm’ is descended from POc _
 </td>
 <td>
 '<span>soft</span>'</td>
-</tr>
-<tr>
-<td><strong>PEOc</strong></td><td> </td>
-<td>
-<i>&ast;ma-lua(s)</i>
-</td>
-<td>
-'<span>soft, gentle, (weather) calm</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Notsi</td><td><i>məlus</i></td>
@@ -2497,6 +2481,14 @@ PEOc _&ast;ma-lua(s)_ ‘soft, gentle, (weather) calm’ is descended from POc _
 <td>MM</td><td>Nehan</td><td><i>(mal)malua(n)</i></td>
 <td>
 '<span>soft</span>'</td>
+</tr>
+<tr>
+<td><strong>PEOc</strong></td><td> </td>
+<td>
+<i>&ast;ma-lua(s)</i>
+</td>
+<td>
+'<span>soft, gentle, (weather) calm</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Gela</td><td><i>malua</i></td>
@@ -2594,7 +2586,7 @@ PWOc _&ast;siwaRop_/_&ast;niwaRop_ ‘calm, peaceful’ may well have expressed 
 '<span>calm</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Halia</td><td><i>sarowo</i></td>
+<td>MM</td><td>Selau</td><td><i>sarowo</i></td>
 <td>
 '<span>calm</span>'</td>
 </tr>
@@ -3123,15 +3115,6 @@ There are a number of reconstructable POc terms some of whose reflexes mean ‘c
 '<span>haze, mist</span>'</td>
 </tr>
 <tr>
-<td><strong>PNCV</strong></td><td> </td>
-<td>
-<i>&ast;ma-Ravu</i>
-</td>
-<td>
-'<span>fog, mist</span>' (<a href="../references.md#source-Clark1996">Clark1996</a>)
-</td>
-</tr>
-<tr>
 <td>Adm</td><td>Drehet</td><td><i>kxɔ-kxɔh</i></td>
 <td>
 '<span>cloud</span>'</td>
@@ -3175,6 +3158,15 @@ There are a number of reconstructable POc terms some of whose reflexes mean ‘c
 <td>SES</td><td>'Are'are</td><td><i>raho</i></td>
 <td>
 '<span>haze, mist, fog, cloud</span>'</td>
+</tr>
+<tr>
+<td><strong>PNCV</strong></td><td> </td>
+<td>
+<i>&ast;ma-Ravu</i>
+</td>
+<td>
+'<span>fog, mist</span>' (<a href="../references.md#source-Clark1996">Clark1996</a>)
+</td>
 </tr>
 <tr>
 <td>NCV</td><td>Mota</td><td><i>marav</i></td>
@@ -3342,7 +3334,7 @@ The Bali and Fijian forms below are problematic, as they reflect POc &ast;kabu(t
 <td>Bauan</td>
 <td><i>kabu</i></td>
 <td>
-'<span>sow or scatter small seeds</span>'; '<span>mist</span>'</td>
+'<span>mist</span>'</td>
 </tr>
 <tr>
 <td>Fij</td>
@@ -3831,14 +3823,6 @@ A semantically related term was POc _&ast;bata_, which, to judge from a constell
 '<span>(?) raindrop, (?) rain cloud</span>'</td>
 </tr>
 <tr>
-<td><strong>PPn</strong></td><td> </td>
-<td>
-<i>&ast;pata</i>
-</td>
-<td>
-'<span>raindrop</span>'</td>
-</tr>
-<tr>
 <td>NNG</td><td>Apalik</td><td><i>(e)vat</i></td>
 <td>
 '<span>cloud</span>'</td>
@@ -3877,6 +3861,14 @@ A semantically related term was POc _&ast;bata_, which, to judge from a constell
 <td>MM</td><td>Siar</td><td><i>bat</i></td>
 <td>
 '<span>rain</span>'</td>
+</tr>
+<tr>
+<td><strong>PPn</strong></td><td> </td>
+<td>
+<i>&ast;pata</i>
+</td>
+<td>
+'<span>raindrop</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Niuean</td><td><i>pata</i></td>
@@ -4128,17 +4120,17 @@ I have reconstructed five separate terms for ‘lightning’. POc _&ast;qu(s,j)i
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>ʔuhila</i></td>
 <td>
-(N) '<span>lightning</span>'</td>
+[N] '<span>lightning</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>East Uvean</td><td><i>ʔuhila</i></td>
 <td>
-(N) '<span>lightning</span>'</td>
+[N] '<span>lightning</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Samoan</td><td><i>uila</i></td>
 <td>
-(N) '<span>lightning</span>'</td>
+[N] '<span>lightning</span>'</td>
 </tr>
 </table>
 
@@ -4180,7 +4172,7 @@ I have reconstructed five separate terms for ‘lightning’. POc _&ast;qu(s,j)i
 <tr>
 <td>NNG</td><td>Dami</td><td><i>fili</i></td>
 <td>
-(V) '<span>lightning</span>'</td>
+[V] '<span>lightning</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Medebur</td><td><i>vilik</i></td>
@@ -4235,7 +4227,7 @@ I have reconstructed five separate terms for ‘lightning’. POc _&ast;qu(s,j)i
 <tr>
 <td>SES</td><td>Longgu</td><td><i>pila(ðia)</i></td>
 <td>
-(N, V) '<span>lightning</span>'</td>
+[N, V] '<span>lightning</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Arosi</td><td><i>hira(ia)</i></td>
@@ -4279,17 +4271,17 @@ I have reconstructed five separate terms for ‘lightning’. POc _&ast;qu(s,j)i
 '<span>lightning</span>'</td>
 </tr>
 <tr>
+<td>CMP</td><td>Selaru</td><td><i>hitik</i></td>
+<td>
+'<span>lightning</span>' (<span>Coward</span>)</td>
+</tr>
+<tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
 <i>&ast;pitik</i>
 </td>
 <td>
 '<span>lightning</span>'</td>
-</tr>
-<tr>
-<td>CMP</td><td>Selaru</td><td><i>hitik</i></td>
-<td>
-'<span>lightning</span>' (<span>Coward</span>)</td>
 </tr>
 <tr>
 <td>NNG</td><td>Manam</td><td><i>pitik(awa)</i></td>
@@ -4309,7 +4301,7 @@ I have reconstructed five separate terms for ‘lightning’. POc _&ast;qu(s,j)i
 <tr>
 <td>SES</td><td>Malango</td><td><i>vitih(i-a)</i></td>
 <td>
-(V) '<span>lightning</span>'</td>
+[V] '<span>lightning</span>'</td>
 </tr>
 </table>
 
@@ -4535,7 +4527,7 @@ POc appears to have had two basic roots for thunder, _&ast;kuru_ and _&ast;pʷar
 <tr>
 <td>SES</td><td>Arosi</td><td><i>(a)kuru</i></td>
 <td>
-(N, V) '<span>thunder</span>'</td>
+[N, V] '<span>thunder</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Kahua</td><td><i>(ɣu)ɣuru(hia)</i></td>
@@ -4545,12 +4537,12 @@ POc appears to have had two basic roots for thunder, _&ast;kuru_ and _&ast;pʷar
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>kuru</i></td>
 <td>
-(N, V) '<span>thunder</span>'</td>
+[N, V] '<span>thunder</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>kuru-kuru</i></td>
 <td>
-(N, V) '<span>thunder</span>'</td>
+[N, V] '<span>thunder</span>'</td>
 </tr>
 </table>
 
@@ -4637,7 +4629,7 @@ POc appears to have had two basic roots for thunder, _&ast;kuru_ and _&ast;pʷar
 <tr>
 <td>MM</td><td>Tinputz</td><td><i>guguruh</i></td>
 <td>
-(V) '<span>thunder</span>'</td>
+[V] '<span>thunder</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Maringe</td><td><i>gu-gulu</i></td>
@@ -4736,7 +4728,7 @@ POc appears to have had two basic roots for thunder, _&ast;kuru_ and _&ast;pʷar
 <tr>
 <td>PT</td><td>Gumawana</td><td><i>(lo)pala-pala</i></td>
 <td>
-(V) '<span>thunder</span>'</td>
+[V] '<span>thunder</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td>Ubir</td><td><i>(wa)ferer</i></td>

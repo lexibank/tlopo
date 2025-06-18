@@ -1,6 +1,4 @@
-# Time
-
-by Malcolm Ross
+[Malcolm Ross](.smallcaps)
 
 
 <a id="s-1"></a>
@@ -348,14 +346,6 @@ All Polynesian reflexes point back to PPn _&ast;pō_ (for expected _&ast;poŋi_,
 '<span>night, day of twenty-four hours</span>'</td>
 </tr>
 <tr>
-<td><strong>PPn</strong></td><td> </td>
-<td>
-<i>&ast;pō</i>
-</td>
-<td>
-'<span>night, day of twenty-four hours</span>'</td>
-</tr>
-<tr>
 <td>Adm</td><td>Mussau</td><td><i>bo</i></td>
 <td>
 '<span>night</span>'</td>
@@ -644,6 +634,14 @@ All Polynesian reflexes point back to PPn _&ast;pō_ (for expected _&ast;poŋi_,
 <td>Fij</td><td>Wayan</td><td><i>boŋi</i></td>
 <td>
 '<span>night</span>'</td>
+</tr>
+<tr>
+<td><strong>PPn</strong></td><td> </td>
+<td>
+<i>&ast;pō</i>
+</td>
+<td>
+'<span>night, day of twenty-four hours</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>pō</i></td>
@@ -1149,7 +1147,7 @@ The primary meaning of POc _&ast;qaco_ was ‘sun’, but it was also used for �
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>ʔaho</i></td>
 <td>
-(N) '<span>day</span>'</td>
+'<span>day</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Samoan</td><td><i>aso</i></td>
@@ -1214,7 +1212,7 @@ The primary meaning of POc _&ast;qaco_ was ‘sun’, but it was also used for �
 <tr>
 <td>MM</td><td>Tigak</td><td><i>siŋan</i></td>
 <td>
-(V) '<span>(sun) shine</span>' (<span>metathesis</span>)</td>
+'<span>(sun) shine</span>' (<span>metathesis</span>)</td>
 </tr>
 <tr>
 <td>SES</td><td>Lau</td><td><i>sina</i></td>
@@ -1279,14 +1277,6 @@ The POc term for the first few hours of daylight was _&ast;boŋi-boŋi_, self-ev
 '<span>early morning from dawn to 9 or 10 a.m.</span>'</td>
 </tr>
 <tr>
-<td><strong>PPn</strong></td><td> </td>
-<td>
-<i>&ast;poŋi-poŋi</i>
-</td>
-<td>
-'<span>(N, V) morning</span>'</td>
-</tr>
-<tr>
 <td>PT</td><td>Gapapaiwa</td><td><i>boi-boi</i></td>
 <td>
 '<span>morning; from sunrise to about 10 a.m.</span>'</td>
@@ -1340,6 +1330,14 @@ The POc term for the first few hours of daylight was _&ast;boŋi-boŋi_, self-ev
 <td>Mic</td><td>Kiribatese</td><td><i>boŋi-boŋ</i></td>
 <td>
 '<span>twilight</span>'</td>
+</tr>
+<tr>
+<td><strong>PPn</strong></td><td> </td>
+<td>
+<i>&ast;poŋi-poŋi</i>
+</td>
+<td>
+'<span>(N, V) morning</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>poŋi-poŋi</i></td>
@@ -1602,7 +1600,7 @@ Others have a noun phrase whose head is ‘sun, daylight’, modified by ‘big�
 <tr>
 <td>Pn</td><td>Rennellese</td><td><i>ʔaoʔatea</i></td>
 <td>
-(N, V) '<span>(be) early afternoon</span>'</td>
+[N, V] '<span>(be) early afternoon</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Hawaiian</td><td><i>awakea</i></td>
@@ -1671,7 +1669,7 @@ Just one term is reconstructable for this period of the day, POc _&ast;Rapi_.
 <tr>
 <td>NNG</td><td>Lukep (Pono)</td><td><i>rai</i></td>
 <td>
-(N) '<span>afternoon from about 2 p.m. to darkness</span>'</td>
+[N] '<span>afternoon from about 2 p.m. to darkness</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Sio</td><td><i>la-la</i></td>
@@ -1711,12 +1709,12 @@ Just one term is reconstructable for this period of the day, POc _&ast;Rapi_.
 <tr>
 <td>PT</td><td>Gapapaiwa</td><td><i>ravi</i></td>
 <td>
-(ADV) '<span>afternoon; evening, from about 3 to 7 p.m.</span>'</td>
+[ADV] '<span>afternoon; evening, from about 3 to 7 p.m.</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td>Gumawana</td><td><i>lavi-lavi</i></td>
 <td>
-(ADV) '<span>evening/late afternoon</span>'</td>
+[ADV] '<span>evening/late afternoon</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td>Iduna</td><td><i>lavi-lavi</i></td>
@@ -1726,12 +1724,12 @@ Just one term is reconstructable for this period of the day, POc _&ast;Rapi_.
 <tr>
 <td>PT</td><td>Sinaugoro</td><td><i>lavi-lavi</i></td>
 <td>
-(N) '<span>afternoon</span>'</td>
+[N] '<span>afternoon</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td>Motu</td><td><i>(ado)rahi</i></td>
 <td>
-(N) '<span>late afternoon/evening</span>' (<span><em>ado</em> ‘sun’ [not used independently]</span>)</td>
+[N] '<span>late afternoon/evening</span>' (<span><em>ado</em> ‘sun’ [not used independently]</span>)</td>
 </tr>
 <tr>
 <td>MM</td><td>Bali</td><td><i>(ga)ravi</i></td>
@@ -1756,7 +1754,7 @@ Just one term is reconstructable for this period of the day, POc _&ast;Rapi_.
 <tr>
 <td>MM</td><td>Sursurunga</td><td><i>rah-rah</i></td>
 <td>
-(N) '<span>afternoon</span>'</td>
+[N] '<span>afternoon</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Label</td><td><i>rah</i></td>
@@ -1766,7 +1764,7 @@ Just one term is reconstructable for this period of the day, POc _&ast;Rapi_.
 <tr>
 <td>MM</td><td>Ramoaaina</td><td><i>(malu)rap</i></td>
 <td>
-(V) '<span>evening</span>'</td>
+[V] '<span>evening</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Tolai</td><td><i>ravi(an)</i></td>
@@ -1806,7 +1804,7 @@ Just one term is reconstructable for this period of the day, POc _&ast;Rapi_.
 <tr>
 <td>SES</td><td>Longgu</td><td><i>(zao)lavi</i></td>
 <td>
-(N) '<span>evening</span>'</td>
+[N] '<span>evening</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Lau</td><td><i>(sau)lafi</i></td>
@@ -2791,15 +2789,7 @@ The reconstructions below are repeated from Chapter 8, but only reflexes with a 
 <i>&ast;i muqa, qa-muqa, muqa-muqa</i>
 </td>
 <td>
-(ADV) '<span>in front, formerly</span>'</td>
-</tr>
-<tr>
-<td><strong>PWOc</strong></td><td> </td>
-<td>
-<i>&ast;muga</i>
-</td>
-<td>
-'<span>front; be in front; formerly</span>'</td>
+'<span>in front, formerly</span>' (<span>p.257</span>)</td>
 </tr>
 <tr>
 <td>Adm</td><td>Mussau</td><td><i>mu-mua</i></td>
@@ -2834,7 +2824,7 @@ The reconstructions below are repeated from Chapter 8, but only reflexes with a 
 <tr>
 <td>NCV</td><td>Port Sandwich</td><td><i>(a)mo</i></td>
 <td>
-(POSTVERBAL ADV) '<span>before</span>'</td>
+[POSTVERBAL ADV] '<span>before</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Woleaian</td><td><i>[i]mʷowa-</i></td>
@@ -2855,6 +2845,14 @@ The reconstructions below are repeated from Chapter 8, but only reflexes with a 
 <td>Pn</td><td>Samoan</td><td><i>(ana)mua</i></td>
 <td>
 '<span>formerly, in those days</span>'</td>
+</tr>
+<tr>
+<td><strong>PWOc</strong></td><td> </td>
+<td>
+<i>&ast;muga</i>
+</td>
+<td>
+'<span>front; be in front; formerly</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Bariai</td><td><i>muga(eai)</i></td>
@@ -2919,7 +2917,7 @@ The reconstructions below are repeated from Chapter 8, but only reflexes with a 
 <i>&ast;i muri, muri-muri</i>
 </td>
 <td>
-'<span>at the back, later</span>'</td>
+'<span>at the back, later</span>' (<span>p.261</span>)</td>
 </tr>
 <tr>
 <td>Adm</td><td>Titan</td><td><i>muri-n</i></td>
@@ -3134,22 +3132,22 @@ It is hard to avoid the conclusion that _&ast;tuqaRi_ ‘(be) long ago; old (of 
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>tuei</i></td>
 <td>
-(V, ADJ) '<span>take a long time; be slow, late</span>'</td>
+[V, ADJ] '<span>take a long time; be slow, late</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>tuai</i></td>
 <td>
-(V) '<span>be slow, late</span>'</td>
+[V] '<span>be slow, late</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>(mai) tuai</i></td>
 <td>
-(PP) '<span>from of old, since very early times</span>'</td>
+[PP] '<span>from of old, since very early times</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Samoan</td><td><i>tuai</i></td>
 <td>
-(V) '<span>be late, be delayed</span>'</td>
+[V] '<span>be late, be delayed</span>'</td>
 </tr>
 </table>
 
@@ -3224,7 +3222,7 @@ By distances within a day, I mean expressions corresponding to English ‘last n
 <td>Kilivila</td>
 <td><i>bogi</i></td>
 <td>
-'<span>night; darkness</span>'; '<span>night</span>'</td>
+'<span>night</span>'</td>
 </tr>
 <tr>
 <td>PT</td>
@@ -3327,12 +3325,12 @@ The POc base for ‘yesterday’ was _&ast;ñoRap_. A few reflexes reflect accre
 <tr>
 <td>NNG</td><td>Mangap</td><td><i>nēri</i></td>
 <td>
-(ADV) '<span>yesterday, subjectively recent time, just recently</span>'</td>
+[ADV] '<span>yesterday, subjectively recent time, just recently</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Sio</td><td><i>nola</i></td>
 <td>
-(ADV) '<span>yesterday; any unspecified prior time or day</span>'</td>
+[ADV] '<span>yesterday; any unspecified prior time or day</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Kilenge</td><td><i>nola</i></td>
@@ -3367,7 +3365,7 @@ The POc base for ‘yesterday’ was _&ast;ñoRap_. A few reflexes reflect accre
 <tr>
 <td>NNG</td><td>Takia</td><td><i>nor</i></td>
 <td>
-(ADV) '<span>yesterday, recently</span>'</td>
+[ADV] '<span>yesterday, recently</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Numbami</td><td><i>nolowa</i></td>
@@ -3450,7 +3448,7 @@ The POc base for ‘yesterday’ was _&ast;ñoRap_. A few reflexes reflect accre
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Halia</td><td><i>narowa</i></td>
+<td>MM</td><td>Selau</td><td><i>narowa</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
@@ -3777,7 +3775,7 @@ The term below reflects POc _&ast;boŋi_ ‘night, day of twenty-four hours’ p
 <tr>
 <td>MM</td><td>Ramoaaina</td><td><i>nabuŋ</i></td>
 <td>
-(ADV) '<span>yesterday</span>'</td>
+[ADV] '<span>yesterday</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Kandas</td><td><i>nubuŋ</i></td>
@@ -3809,16 +3807,9 @@ The term below reflects POc _&ast;boŋi_ ‘night, day of twenty-four hours’ p
 cf. also: 
 <table>
 <tr>
-<td>SES</td>
-<td>Gela</td>
-<td><i>(i)boŋi</i></td>
-<td>
-'<span>yesterday</span>'</td>
-</tr>
-<tr>
-<td>MM</td>
-<td>Hahon</td>
-<td><i>(ro)bon</i></td>
+<td>NNG</td>
+<td>Kairiru</td>
+<td><i>(ra)buŋ</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
@@ -3830,23 +3821,9 @@ cf. also:
 '<span>yesterday</span>' (<span><em>wak</em> &lt; POc <em>*qaco</em> ‘sun’</span>)</td>
 </tr>
 <tr>
-<td>NNG</td>
-<td>Kairiru</td>
-<td><i>(ra)buŋ</i></td>
-<td>
-'<span>yesterday</span>'</td>
-</tr>
-<tr>
-<td>NCV</td>
-<td>Labo</td>
-<td><i>(lo)ᵐbun</i></td>
-<td>
-'<span>yesterday</span>'</td>
-</tr>
-<tr>
-<td>NCV</td>
-<td>Port Sandwich</td>
-<td><i>(xi)ᵐboŋ</i></td>
+<td>PT</td>
+<td>Tawala</td>
+<td><i>pom</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
@@ -3858,9 +3835,30 @@ cf. also:
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>PT</td>
-<td>Tawala</td>
-<td><i>pom</i></td>
+<td>MM</td>
+<td>Hahon</td>
+<td><i>(ro)bon</i></td>
+<td>
+'<span>yesterday</span>'</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>Gela</td>
+<td><i>(i)boŋi</i></td>
+<td>
+'<span>yesterday</span>'</td>
+</tr>
+<tr>
+<td>NCV</td>
+<td>Port Sandwich</td>
+<td><i>(xi)ᵐboŋ</i></td>
+<td>
+'<span>yesterday</span>'</td>
+</tr>
+<tr>
+<td>NCV</td>
+<td>Labo</td>
+<td><i>(lo)ᵐbun</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
@@ -3961,12 +3959,12 @@ The term below is clearly the same root as _&ast;Rapi_/_&ast;Rapi-Rapi_ ‘late 
 <tr>
 <td>PT</td><td>Gapapaiwa</td><td><i>ravi-ravi</i></td>
 <td>
-(ADV) '<span>yesterday</span>'</td>
+[ADV] '<span>yesterday</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Bola</td><td><i>ravi</i></td>
 <td>
-(ADV) '<span>yesterday</span>'</td>
+[ADV] '<span>yesterday</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Meramera</td><td><i>lavi</i></td>
@@ -4123,7 +4121,7 @@ We might expect that just as POc _&ast;na-boŋi_ (p.327), with the past formativ
 <td>Gedaged</td>
 <td><i>boŋ(anip)</i></td>
 <td>
-'<span>at the end of night, tomorrow</span>'; '<span>tomorrow</span>'</td>
+'<span>tomorrow</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
@@ -4340,7 +4338,7 @@ POc _&ast;ma-pua_ ‘tomorrow’ is reconstructable from the rather skewed cogna
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Halia</td><td><i>mawu</i></td>
+<td>MM</td><td>Selau</td><td><i>mawu</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
@@ -4405,24 +4403,10 @@ cf. also:
 <table>
 <tr>
 <td>SES</td>
-<td>'Are'are</td>
-<td><i>itani</i></td>
-<td>
-'<span>tomorrow</span>'</td>
-</tr>
-<tr>
-<td>SES</td>
 <td>Longgu</td>
 <td><i>dañi</i></td>
 <td>
-(V) '<span>tomorrow; daylight</span>'</td>
-</tr>
-<tr>
-<td>NCV</td>
-<td>Port Sandwich</td>
-<td><i>(pe)an</i></td>
-<td>
-'<span>tomorrow</span>'</td>
+[V] '<span>tomorrow; daylight</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
@@ -4432,9 +4416,23 @@ cf. also:
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
+<td>SES</td>
+<td>'Are'are</td>
+<td><i>itani</i></td>
+<td>
+'<span>tomorrow</span>'</td>
+</tr>
+<tr>
 <td>NCV</td>
 <td>Sakao</td>
 <td><i>(lak)ren</i></td>
+<td>
+'<span>tomorrow</span>'</td>
+</tr>
+<tr>
+<td>NCV</td>
+<td>Port Sandwich</td>
+<td><i>(pe)an</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
@@ -4451,22 +4449,6 @@ There is also a variety of forms that seem to reflect a root _&ast;tuqu_ ‘tomo
 <td><strong>POc</strong></td><td> </td>
 <td>
 <i>&ast;la-tuqu</i>
-</td>
-<td>
-'<span>tomorrow</span>'</td>
-</tr>
-<tr>
-<td><strong>ProtoNorthwestSolomonic</strong></td><td> </td>
-<td>
-<i>&ast;na-tuqu</i>
-</td>
-<td>
-'<span>tomorrow</span>'</td>
-</tr>
-<tr>
-<td><strong>PPn</strong></td><td> </td>
-<td>
-<i>&ast;a(r,l)etuqu</i>
 </td>
 <td>
 '<span>tomorrow</span>'</td>
@@ -4512,6 +4494,14 @@ There is also a variety of forms that seem to reflect a root _&ast;tuqu_ ‘tomo
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
+<td><strong>ProtoNorthwestSolomonic</strong></td><td> </td>
+<td>
+<i>&ast;na-tuqu</i>
+</td>
+<td>
+'<span>tomorrow</span>'</td>
+</tr>
+<tr>
 <td>MM</td><td>Papapana</td><td><i>natui</i></td>
 <td>
 '<span>tomorrow</span>'</td>
@@ -4523,6 +4513,14 @@ There is also a variety of forms that seem to reflect a root _&ast;tuqu_ ‘tomo
 </tr>
 <tr>
 <td>MM</td><td>Maringe</td><td><i>natuʔu</i></td>
+<td>
+'<span>tomorrow</span>'</td>
+</tr>
+<tr>
+<td><strong>PPn</strong></td><td> </td>
+<td>
+<i>&ast;a(r,l)etuqu</i>
+</td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
@@ -4974,7 +4972,7 @@ Apparently an alternative way of expressing ‘the day after tomorrow’ in POc 
 <tr>
 <td>NNG</td><td>Poeng</td><td><i>(ŋa)voŋa-lua</i></td>
 <td>
-(ADV) '<span>day after tomorrow</span>'</td>
+[ADV] '<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Kandas</td><td><i>ura-buŋ</i></td>
@@ -5407,7 +5405,7 @@ A scattering of languages reflect the past formative with either _&ast;ŋaican_ 
 '<span>when (past)?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Halia</td><td><i>naŋsa</i></td>
+<td>MM</td><td>Selau</td><td><i>naŋsa</i></td>
 <td>
 '<span>when?</span>'</td>
 </tr>

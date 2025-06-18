@@ -1665,7 +1665,7 @@ POc *panua (1) ‘inhabited area or territory’; (2) ‘community together with
  NCV:  Mota         vanua               ‘land, island, village, place’
  SV:   Lenakel      na-uanu             ‘village’
  SV:   Anejom       in-henou            ‘taro swamp’
- NCal: Nemi         bʷan(guc)           ‘soil’ (guc ‘earth’)
+ NCal: Nemi         bʷan(guc)           ‘soil’ (_guc_ ‘earth’)
  Mic:  Woleaian     farɨw               ‘land, island’
  Fij:  Rotuman      hanua               ‘land, country, place; native land or place, home’
  Fij:  Bauan        vanua               ‘land (not sea), territory, region, place, community, country; (in expressions for weather) the visible world, land, sea and sky’
@@ -1673,7 +1673,7 @@ POc *panua (1) ‘inhabited area or territory’; (2) ‘community together with
  Pn:   Samoan       fanua               ‘land; afterbirth’
  Pn:   Tahitian     fenua               ‘land’
  Pn:   Hawaiian     honua               ‘land, earth’
- cf. also: Examples of phrasal expressions containing reflexes of *panua
+ cf. also: Examples of phrasal expressions containing reflexes of _*panua_
  PT:   Kiriwina     |vilouwokuva valu|  ‘uninhabited land’
  PT:   Kiriwina     |kabinai valu|      ‘good garden land’
  SES:  Sa’a         |henue hū|          ‘solid land, dry land, heritage’
@@ -1721,7 +1721,7 @@ POc *tanoq ‘earth, ground, soil; land’
  NCal: Iaai        kɔnɔ              ‘earth, ground’
  Mic:  Kiribati    tano              ‘earth, ground, soil’
  Mic:  Woleaian    tar               ‘earth, ground, soil’
- cf. also: Certain conventional phrases, such as the following, indicate the semantic range of reflexes of *tanoq
+ cf. also: Certain conventional phrases, such as the following, indicate the semantic range of reflexes of _*tanoq_
  NNG:  Gedaged     |tan wululu |     ‘fine soil’
  NNG:  Gedaged     |tan fufulek|     ‘planet earth’
  PT:   Minaveha    |tano bigana|     ‘fertile land’
@@ -1775,7 +1775,7 @@ _*motus_ may have been applied only to islets, isolated rocks and detached reefs
 larger islands more suitable for habitation.
 
 <
-POc *motus (N) ‘island, detached reef; (V) become, be broken off, severed’ (vol. 1, p.247)
+POc *motus (N) ‘island, detached reef’; ‘(V) become, be broken off, severed’ (vol. 1, p.247)
  NNG: Bing            mōt            ‘island’
  NNG: Manam           motu           ‘island’
  NNG: Yabem           meʔ            ‘reef’
@@ -6256,8 +6256,7 @@ PPn *toŋa ‘southeasterly quadrant, southeast wind’
  Pn:    Tikopia         toŋa             ‘east, east wind, trade wind; winter’
  Pn:    W.Futunan       toŋa             ‘south’
  Pn:    Rapanui         toŋa             ‘autumn, winter’
- Pn:    Rarotongan      toŋa             ‘one of the wind quarters, south or southerly ’
- Pn:    Rarotongan      toŋa             ‘south wind’ (Lewis 1972:74)
+ Pn:    Rarotongan      toŋa             ‘one of the wind quarters, south or southerly’; ‘south wind’ (Lewis 1972:74)
  Pn:    Mangareva       toŋa             ‘south wind’
  Pn:    Tahitian        toʔa             ‘south wind’
  Pn:    Maori           toŋa             ‘south’
@@ -11541,7 +11540,7 @@ and ‘north-west’ are equivalent respectively to ‘to one’s left when faci
 one’s right when facing the sea’ if one is on the west coast of New Ireland.
 
 <
-PWOc (N LOC) *pa
+PWOc (N LOC) *pa ‘to one’s left when facing the sea’
 PWOc (ADV) *qa-pa ‘to one’s left when facing the sea’
  NNG: Manam        (a)wa          (N) ‘to one’s left when facing the sea’
  MM:  Vitu         (ɣe)va         (ADV) ‘downwards’
@@ -11549,7 +11548,7 @@ PWOc (ADV) *qa-pa ‘to one’s left when facing the sea’
 >
 
 <
-PWOc (N LOC) *ta
+PWOc (N LOC) *ta ‘to one’s right when facing the sea’
 PWOc (ADV) *qa-ta ‘to one’s right when facing the sea’
  NNG: Manam          (a)ta          (N) ‘to one’s right when facing the sea’
  MM:  Vitu           (ɣe)ta         (ADV) ‘upwards’
@@ -11675,8 +11674,7 @@ reflexes below suggest that it was also used as a POc local noun.
 
 <
 PAn *laŋiC ‘sky’ (Dempwolff 1938)
-POc (N) *laŋit ‘sky, weather’
-POc (N LOC) *laŋit ‘up top, high up’
+POc *laŋit (N) ‘sky, weather’; (N LOC) ‘up top, high up’
  Yap: Yapese             lǣŋ            ‘up’
  SES: Lau                |(i) laŋi-|    ‘up, above’
  SES: Kwaio              laŋi-          ‘space above’

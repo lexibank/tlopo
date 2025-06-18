@@ -1,6 +1,4 @@
-# Staple foods: root crops, bananas, breadfruit and sago
-
-by Malcolm Ross
+[Malcolm Ross](.smallcaps)
 
 
 <a id="s-1"></a>
@@ -309,15 +307,6 @@ Three other terms can be reconstructed from cognate sets some of whose members a
 '<span>Dioscorea sp. or perhaps a cultivar of D. alata</span>'</td>
 </tr>
 <tr>
-<td><strong>PSV</strong></td><td> </td>
-<td>
-<i>&ast;-mʷariq</i>
-</td>
-<td>
-'<span>Dioscorea sp.</span>' (<a href="../references.md#source-Lynch2001c">Lynch2001c: 234</a>)
-</td>
-</tr>
-<tr>
 <td>Adm</td><td>Titan</td><td><i>mʷare(n)</i></td>
 <td>
 '<span>a big yam</span>'</td>
@@ -357,6 +346,15 @@ Three other terms can be reconstructed from cognate sets some of whose members a
 <td>NCV</td><td>South Efate</td><td><i>n-mʷal</i></td>
 <td>
 '<span>Dioscorea sp.</span>'</td>
+</tr>
+<tr>
+<td><strong>PSV</strong></td><td> </td>
+<td>
+<i>&ast;-mʷariq</i>
+</td>
+<td>
+'<span>Dioscorea sp.</span>' (<a href="../references.md#source-Lynch2001c">Lynch2001c: 234</a>)
+</td>
 </tr>
 <tr>
 <td>SV</td><td>Sye</td><td><i>(n-uv)mori</i></td>
@@ -425,7 +423,7 @@ POc _&ast;pʷasepe_ 'Dioscorea alata variety(?)' is of interest, because it also
 '<span>Dioscorea alata</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Halia</td><td><i>wesewe</i></td>
+<td>MM</td><td>Selau</td><td><i>wesewe</i></td>
 <td>
 '<span>Dioscorea alata</span>'</td>
 </tr>
@@ -435,10 +433,10 @@ cf. also:
 <table>
 <tr>
 <td>PT</td>
-<td>'Auhelawa</td>
-<td><i>ateya</i></td>
+<td>Molima</td>
+<td><i>atea</i></td>
 <td>
-'<span>yam</span>'</td>
+'<span>greater yam</span>'</td>
 </tr>
 <tr>
 <td>PT</td>
@@ -452,14 +450,14 @@ cf. also:
 <td>Duau</td>
 <td><i>kʷatea</i></td>
 <td>
-'<span>lesser yam</span>'; '<span>yam</span>'</td>
+'<span>yam</span>'; '<span>lesser yam</span>'</td>
 </tr>
 <tr>
 <td>PT</td>
-<td>Molima</td>
-<td><i>atea</i></td>
+<td>'Auhelawa</td>
+<td><i>ateya</i></td>
 <td>
-'<span>greater yam</span>'</td>
+'<span>yam</span>'</td>
 </tr>
 <tr>
 <td>PT</td>
@@ -492,15 +490,6 @@ POc _&ast;pʷatika_ evidently referred to the potato yam, D. bulbifera, because 
 </td>
 <td>
 '<span>potato yam, aerial yam, Dioscorea bulbifera</span>'</td>
-</tr>
-<tr>
-<td><strong>PSV</strong></td><td> </td>
-<td>
-<i>&ast;(nə-tai-)bʷatɣV</i>
-</td>
-<td>
-'<span>yam sp.</span>' (<a href="../references.md#source-Lynch2001c">Lynch2001c</a>)
-</td>
 </tr>
 <tr>
 <td>Adm</td><td>Lou</td><td><i>puet</i></td>
@@ -541,6 +530,15 @@ POc _&ast;pʷatika_ evidently referred to the potato yam, D. bulbifera, because 
 <td>SES</td><td>Kwara’ae</td><td><i>(dau)fasia</i></td>
 <td>
 '<span>Dioscorea bulbifera cultivars</span>' (<a href="../references.md#source-HendersonandHancock1988">HendersonandHancock1988</a>)
+</td>
+</tr>
+<tr>
+<td><strong>PSV</strong></td><td> </td>
+<td>
+<i>&ast;(nə-tai-)bʷatɣV</i>
+</td>
+<td>
+'<span>yam sp.</span>' (<a href="../references.md#source-Lynch2001c">Lynch2001c</a>)
 </td>
 </tr>
 <tr>
@@ -672,7 +670,7 @@ cf. also:
 <td>Wayan</td>
 <td><i>mami</i></td>
 <td>
-'<span>cooking banana with short thick fruit; sweet-tasting, but skin remains green and flesh hard even when ripe</span>'; '<span>cooking banana, sweet-tasting</span>'</td>
+'<span>cooking banana with short thick fruit; sweet-tasting, but skin remains green and flesh hard even when ripe</span>'</td>
 </tr>
 </table>
 
@@ -1295,7 +1293,7 @@ The leaves of Colocasia esculenta are eaten as a green vegetable in many parts o
 <i>&ast;gal(a,o)</i>
 </td>
 <td>
-'<span>taro leaves</span>' (<a href="../references.md#source-Ross1996d">Ross1996d: 190</a>)
+'<span>taro leaves</span>' (<span>?</span>) (<a href="../references.md#source-Ross1996d">Ross1996d: 190</a>)
 </td>
 </tr>
 <tr>
@@ -2529,15 +2527,6 @@ The glosses of the four terms below are vague, both because the glosses of prese
 '<span>banana cultivar</span>'</td>
 </tr>
 <tr>
-<td><strong>PSV</strong></td><td> </td>
-<td>
-<i>&ast;n-ban</i>
-</td>
-<td>
-'<span>banana (generic)</span>' (<a href="../references.md#source-Lynch2004a">Lynch2004a</a>)
-</td>
-</tr>
-<tr>
 <td>Adm</td><td>Loniu</td><td><i>pakɔw</i></td>
 <td>
 '<span>k.o. wild banana</span>'</td>
@@ -2556,6 +2545,15 @@ The glosses of the four terms below are vague, both because the glosses of prese
 <td>SES</td><td>Dori'o</td><td><i>baʔu</i></td>
 <td>
 '<span>banana</span>'</td>
+</tr>
+<tr>
+<td><strong>PSV</strong></td><td> </td>
+<td>
+<i>&ast;n-ban</i>
+</td>
+<td>
+'<span>banana (generic)</span>' (<a href="../references.md#source-Lynch2004a">Lynch2004a</a>)
+</td>
 </tr>
 <tr>
 <td>SV</td><td>Sye</td><td><i>ni-mpa</i></td>
@@ -2638,21 +2636,21 @@ There is evidence for PWOc _&ast;pudi-pudi_ 'wild banana', a transparent redupli
 <td>Mangap</td>
 <td><i>pin-pin</i></td>
 <td>
-'<span>wild banana</span>' (<span><em>pin</em> 'banana'</span>)</td>
+'<span>wild banana</span>'</td>
 </tr>
 <tr>
 <td>PT</td>
 <td>Sudest</td>
 <td><i>ɣudu-ɣudu</i></td>
 <td>
-'<span>wild banana seeds</span>' (<span><em>yudu</em> 'banana'</span>)</td>
+'<span>wild banana seeds</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
 <td>Ramoaaina</td>
 <td><i>udu-udu</i></td>
 <td>
-'<span>wild banana</span>' (<span><em>un</em> 'banana'</span>)</td>
+'<span>wild banana</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
@@ -2735,15 +2733,6 @@ A fourth term, Proto Remote Oceanic _&ast;maRi_ 'breadfruit', is limited to Sout
 </td>
 <td>
 '<span>breadfruit, Artocarpus altilis</span>'</td>
-</tr>
-<tr>
-<td><strong>PChk</strong></td><td> </td>
-<td>
-<i>&ast;kulu</i>
-</td>
-<td>
-'<span>Barringtonia asiatica</span>' (<a href="../references.md#source-Benderetal2003">Benderetal2003</a>)
-</td>
 </tr>
 <tr>
 <td>Adm</td><td>Mussau</td><td><i>ulu</i></td>
@@ -2849,6 +2838,15 @@ A fourth term, Proto Remote Oceanic _&ast;maRi_ 'breadfruit', is limited to Sout
 <td>Pn</td><td>Samoan</td><td><i>ʔulu</i></td>
 <td>
 '<span>breadfruit</span>'</td>
+</tr>
+<tr>
+<td><strong>PChk</strong></td><td> </td>
+<td>
+<i>&ast;kulu</i>
+</td>
+<td>
+'<span>Barringtonia asiatica</span>' (<a href="../references.md#source-Benderetal2003">Benderetal2003</a>)
+</td>
 </tr>
 <tr>
 <td>Mic</td><td>Trukese</td><td><i>kuun</i></td>
@@ -3432,22 +3430,6 @@ There was apparently just one POc term for the sago palm, namely POc _&ast;Rabia
 '<span>sago, Metroxylon spp., mainly Metroxylon sagu (syn. Metroxylon rumphii)</span>' (<span>Grace 1969: <em>*r(a,u)bia</em></span>)</td>
 </tr>
 <tr>
-<td><strong>PCP</strong></td><td> </td>
-<td>
-<i>&ast;abia</i>
-</td>
-<td>
-'<span>Polynesian arrowroot, Tacca leontopetaloides</span>'</td>
-</tr>
-<tr>
-<td><strong>PPn</strong></td><td> </td>
-<td>
-<i>&ast;pia</i>
-</td>
-<td>
-'<span>Polynesian arrowroot, Tacca leontopetaloides</span>'</td>
-</tr>
-<tr>
 <td>Adm</td><td>Seimat</td><td><i>api</i></td>
 <td>
 '<span>sago</span>' (<a href="../references.md#source-Sorensen1950">Sorensen1950</a>)
@@ -3545,9 +3527,25 @@ There was apparently just one POc term for the sago palm, namely POc _&ast;Rabia
 '<span>Metroxylon warburgii</span>'</td>
 </tr>
 <tr>
+<td><strong>PCP</strong></td><td> </td>
+<td>
+<i>&ast;abia</i>
+</td>
+<td>
+'<span>Polynesian arrowroot, Tacca leontopetaloides</span>'</td>
+</tr>
+<tr>
 <td>Fij</td><td>Bauan</td><td><i>yabia</i></td>
 <td>
 '<span>arrowroot, starch, Tacca leontopetaloides</span>'</td>
+</tr>
+<tr>
+<td><strong>PPn</strong></td><td> </td>
+<td>
+<i>&ast;pia</i>
+</td>
+<td>
+'<span>Polynesian arrowroot, Tacca leontopetaloides</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Samoan</td><td><i>pia</i></td>

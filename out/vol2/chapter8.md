@@ -1,6 +1,4 @@
-# Talking about space: terms of location and direction
-
-by Malcolm Ross
+[Malcolm Ross](.smallcaps)
 
 
 <a id="s-1"></a>
@@ -126,7 +124,7 @@ The preposition _&ast;i_, which occurred before local nouns, is widely reflected
 <i>&ast;i</i>
 </td>
 <td>
-(PREP) '<span>g:locative</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+[PREP] '<span>g:locative</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -145,12 +143,12 @@ The preposition _&ast;i_, which occurred before local nouns, is widely reflected
 <tr>
 <td>Adm</td><td>Penchal</td><td><i>i</i></td>
 <td>
-(PREP)  (<span>locative, temporal, allative, instrumental</span>)</td>
+[PREP]  (<span>locative, temporal, allative, instrumental</span>)</td>
 </tr>
 <tr>
 <td>Adm</td><td>Lou</td><td><i>e</i></td>
 <td>
-(PREP)  (<span>locative, allative</span>)</td>
+[PREP]  (<span>locative, allative</span>)</td>
 </tr>
 <tr>
 <td>NNG</td><td>Manam</td><td><i>e-</i></td>
@@ -165,7 +163,7 @@ The preposition _&ast;i_, which occurred before local nouns, is widely reflected
 <tr>
 <td>PT</td><td>Sudest</td><td><i>e</i></td>
 <td>
-(PREP)  (<span>locative</span>)</td>
+[PREP]  (<span>locative</span>)</td>
 </tr>
 <tr>
 <td>MM</td><td>Tigak</td><td><i>e</i></td>
@@ -175,7 +173,7 @@ The preposition _&ast;i_, which occurred before local nouns, is widely reflected
 <tr>
 <td>MM</td><td>Kara</td><td><i>i</i></td>
 <td>
-(PREP)  (<span>locative</span>)</td>
+[PREP]  (<span>locative</span>)</td>
 </tr>
 <tr>
 <td>MM</td><td>Nalik</td><td><i>i-</i></td>
@@ -195,7 +193,7 @@ The preposition _&ast;i_, which occurred before local nouns, is widely reflected
 <tr>
 <td>MM</td><td>Sursurunga</td><td><i>i</i></td>
 <td>
-(PREP)  (<span>locative, temporal</span>)</td>
+[PREP]  (<span>locative, temporal</span>)</td>
 </tr>
 <tr>
 <td>MM</td><td>Ramoaaina</td><td><i>i-</i></td>
@@ -205,7 +203,7 @@ The preposition _&ast;i_, which occurred before local nouns, is widely reflected
 <tr>
 <td>MM</td><td>Halia</td><td><i>i</i></td>
 <td>
-(PREP)  (<span>locative</span>)</td>
+[PREP]  (<span>locative</span>)</td>
 </tr>
 <tr>
 <td>MM</td><td>Taiof</td><td><i>i</i></td>
@@ -215,7 +213,7 @@ The preposition _&ast;i_, which occurred before local nouns, is widely reflected
 <tr>
 <td>SES</td><td>Bugotu</td><td><i>i</i></td>
 <td>
-(PREP)  (<span>locative</span>)</td>
+[PREP]  (<span>locative</span>)</td>
 </tr>
 <tr>
 <td>SES</td><td>Gela</td><td><i>i</i></td>
@@ -225,7 +223,7 @@ The preposition _&ast;i_, which occurred before local nouns, is widely reflected
 <tr>
 <td>SES</td><td>Lengo</td><td><i>i</i></td>
 <td>
-(PREP)  (<span>locative</span>)</td>
+[PREP]  (<span>locative</span>)</td>
 </tr>
 <tr>
 <td>SES</td><td>Longgu</td><td><i>i</i></td>
@@ -240,37 +238,37 @@ The preposition _&ast;i_, which occurred before local nouns, is widely reflected
 <tr>
 <td>SES</td><td>Kwaio</td><td><i>i</i></td>
 <td>
-(PREP)  (<span>locative</span>)</td>
+[PREP]  (<span>locative</span>)</td>
 </tr>
 <tr>
 <td>SES</td><td>Kwara’ae</td><td><i>i</i></td>
 <td>
-(PREP)  (<span>locative</span>)</td>
+[PREP]  (<span>locative</span>)</td>
 </tr>
 <tr>
 <td>SES</td><td>Sa'a</td><td><i>i</i></td>
 <td>
-(PREP)  (<span>locative</span>)</td>
+[PREP]  (<span>locative</span>)</td>
 </tr>
 <tr>
 <td>SES</td><td>Arosi</td><td><i>i</i></td>
 <td>
-(PREP)  (<span>locative</span>)</td>
+[PREP]  (<span>locative</span>)</td>
 </tr>
 <tr>
 <td>NCV</td><td>Mota</td><td><i>i</i></td>
 <td>
-(PREP)  (<span>locative</span>)</td>
+[PREP]  (<span>locative</span>)</td>
 </tr>
 <tr>
 <td>NCV</td><td>Merlav</td><td><i>i</i></td>
 <td>
-(PREP)  (<span>locative</span>)</td>
+[PREP]  (<span>locative</span>)</td>
 </tr>
 <tr>
 <td>NCV</td><td>Nguna</td><td><i>e-</i></td>
 <td>
-(PREP)  (<span>locative</span>)</td>
+[PREP]  (<span>locative</span>)</td>
 </tr>
 <tr>
 <td>SV</td><td>Kwamera</td><td><i>i-</i></td>
@@ -295,47 +293,47 @@ The preposition _&ast;i_, which occurred before local nouns, is widely reflected
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>i</i></td>
 <td>
-(PREP)  (<span>locative</span>)</td>
+[PREP]  (<span>locative</span>)</td>
 </tr>
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>e</i></td>
 <td>
-(PREP)  (<span>locative</span>)</td>
+[PREP]  (<span>locative</span>)</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>i, ʔi</i></td>
 <td>
-(PREP)  (<span>locative</span>)</td>
+[PREP]  (<span>locative</span>)</td>
 </tr>
 <tr>
 <td>Pn</td><td>Niuafo’ou</td><td><i>ʔi</i></td>
 <td>
-(PREP)  (<span>locative</span>)</td>
+[PREP]  (<span>locative</span>)</td>
 </tr>
 <tr>
 <td>Pn</td><td>East Futunan</td><td><i>i</i></td>
 <td>
-(PREP)  (<span>locative</span>)</td>
+[PREP]  (<span>locative</span>)</td>
 </tr>
 <tr>
 <td>Pn</td><td>East Uvean</td><td><i>ʔi</i></td>
 <td>
-(PREP)  (<span>locative</span>)</td>
+[PREP]  (<span>locative</span>)</td>
 </tr>
 <tr>
 <td>Pn</td><td>Samoan</td><td><i>i</i></td>
 <td>
-(PREP)  (<span>locative</span>)</td>
+[PREP]  (<span>locative</span>)</td>
 </tr>
 <tr>
 <td>Pn</td><td>Pileni</td><td><i>i</i></td>
 <td>
-(PREP)  (<span>locative</span>)</td>
+[PREP]  (<span>locative</span>)</td>
 </tr>
 <tr>
 <td>Pn</td><td>Marquesan</td><td><i>ʔi</i></td>
 <td>
-(PREP)  (<span>locative</span>)</td>
+[PREP]  (<span>locative</span>)</td>
 </tr>
 </table>
 
@@ -475,7 +473,7 @@ As a common noun POc _&ast;qutan_ meant ‘bushland, hinterland’ (vol. 1, p.11
 <i>&ast;qutan</i>
 </td>
 <td>
-'<span>bushland, hinterland</span>'</td>
+[(N) ] '<span>bushland, hinterland</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
@@ -483,7 +481,7 @@ As a common noun POc _&ast;qutan_ meant ‘bushland, hinterland’ (vol. 1, p.11
 <i>&ast;qutan</i>
 </td>
 <td>
-'<span>bushland, hinterland</span>'</td>
+[(N) ] '<span>bushland, hinterland</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
@@ -491,7 +489,7 @@ As a common noun POc _&ast;qutan_ meant ‘bushland, hinterland’ (vol. 1, p.11
 <i>&ast;qa-qutan</i>
 </td>
 <td>
-'<span>in the bush, inland</span>'</td>
+[(ADV) ] '<span>in the bush, inland</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Manam</td><td><i>-uta</i></td>
@@ -501,7 +499,7 @@ As a common noun POc _&ast;qutan_ meant ‘bushland, hinterland’ (vol. 1, p.11
 <tr>
 <td>NNG</td><td>Manam</td><td><i>(a)uta</i></td>
 <td>
-'<span>inland</span>'</td>
+[N] '<span>inland</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Mota</td><td><i>uta</i></td>
@@ -511,22 +509,22 @@ As a common noun POc _&ast;qutan_ meant ‘bushland, hinterland’ (vol. 1, p.11
 <tr>
 <td>NCV</td><td>Ambae</td><td><i>(a)ute</i></td>
 <td>
-(ADV) '<span>up in the bush</span>'</td>
+[ADV] '<span>up in the bush</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Tamambo</td><td><i>(a)uta</i></td>
 <td>
-(ADV) '<span>inland direction</span>'</td>
+[ADV] '<span>inland direction</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Paamese</td><td><i>ut</i></td>
 <td>
-(N LOC) '<span>ashore</span>'</td>
+[N LOC] '<span>ashore</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Lewo</td><td><i>ura</i></td>
 <td>
-(N LOC) '<span>ashore</span>'</td>
+[N LOC] '<span>ashore</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Nguna</td><td><i>uta</i></td>
@@ -536,27 +534,27 @@ As a common noun POc _&ast;qutan_ meant ‘bushland, hinterland’ (vol. 1, p.11
 <tr>
 <td>SV</td><td>Lenakel</td><td><i>-ət, -it</i></td>
 <td>
-(DIR) '<span>upwards</span>'</td>
+[DIR] '<span>upwards</span>'</td>
 </tr>
 <tr>
 <td>SV</td><td>Kwamera</td><td><i>(p)uta</i></td>
 <td>
-(N LOC) '<span>up, upwards, on top of</span>'</td>
+[N LOC] '<span>up, upwards, on top of</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Kosraean</td><td><i>wʌt</i></td>
 <td>
-'<span>area inland or towards the mountains</span>'</td>
+[N] '<span>area inland or towards the mountains</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Marshallese</td><td><i>(e)ɒ̄c</i></td>
 <td>
-(N) '<span>interior of an island</span>'</td>
+[N] '<span>interior of an island</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Mokilese</td><td><i>(e)wic</i></td>
 <td>
-(N) '<span>inland</span>'</td>
+[N] '<span>inland</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Rotuman</td><td><i>ufa</i></td>
@@ -566,32 +564,32 @@ As a common noun POc _&ast;qutan_ meant ‘bushland, hinterland’ (vol. 1, p.11
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>ʔuta</i></td>
 <td>
-'<span>inland (from shore); shore, land (from sea)</span>'</td>
+[N LOC] '<span>inland (from shore); shore, land (from sea)</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Niuafo’ou</td><td><i>(ŋā)ʔuta</i></td>
 <td>
-(N LOC) '<span>upland</span>'</td>
+[N LOC] '<span>upland</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Samoan</td><td><i>uta</i></td>
 <td>
-(ADV) '<span>on shore, inland</span>'</td>
+[ADV] '<span>on shore, inland</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Samoan</td><td><i>i uta</i></td>
 <td>
-(N LOC) '<span>on the side facing the land</span>' (<span>as opposed to <em>i tai</em> ‘on the side facing the sea’</span>)</td>
+[N LOC] '<span>on the side facing the land</span>' (<span>as opposed to <em>i tai</em> ‘on the side facing the sea’</span>)</td>
 </tr>
 <tr>
 <td>Pn</td><td>Samoan</td><td><i>(ŋā)ʔuta</i></td>
 <td>
-(ADV) '<span>to shore, in an inland direction</span>'</td>
+[ADV] '<span>to shore, in an inland direction</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Pileni</td><td><i>(ɣa)uta</i></td>
 <td>
-(N LOC) '<span>shore, village location on shore, inland</span>'</td>
+[N LOC] '<span>shore, village location on shore, inland</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tikopia</td><td><i>(ŋa)uta</i></td>
@@ -606,7 +604,7 @@ As a common noun POc _&ast;qutan_ meant ‘bushland, hinterland’ (vol. 1, p.11
 <tr>
 <td>Pn</td><td>Marquesan</td><td><i>uta</i></td>
 <td>
-(N LOC) '<span>towards the mountain</span>'</td>
+[N LOC] '<span>towards the mountain</span>'</td>
 </tr>
 </table>
 
@@ -624,7 +622,7 @@ The cognate set below has fewer members that the one above, but appears to refle
 <i>&ast;loŋa</i>
 </td>
 <td>
-'<span>inland</span>'</td>
+[(N) ] '<span>inland</span>'; [(N LOC) ] '<span>inland</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
@@ -632,15 +630,7 @@ The cognate set below has fewer members that the one above, but appears to refle
 <i>&ast;loŋa</i>
 </td>
 <td>
-'<span>inland</span>'</td>
-</tr>
-<tr>
-<td><strong>PPn</strong></td><td> </td>
-<td>
-<i>&ast;luŋa</i>
-</td>
-<td>
-'<span>top, space above, up top</span>' (<span><em>-u-</em> for expected <em>*-o-</em></span>)</td>
+[(N) ] '<span>inland</span>'; [(N LOC) ] '<span>inland</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Bariai</td><td><i>loŋa</i></td>
@@ -660,7 +650,7 @@ The cognate set below has fewer members that the one above, but appears to refle
 <tr>
 <td>SES</td><td>Longgu</td><td><i>loŋa</i></td>
 <td>
-(N LOC) '<span>direction towards bush</span>'</td>
+[N LOC] '<span>direction towards bush</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Kwaio</td><td><i>(i ka)loŋa</i></td>
@@ -670,37 +660,45 @@ The cognate set below has fewer members that the one above, but appears to refle
 <tr>
 <td>Mic</td><td>Marshallese</td><td><i>-lʌŋ</i></td>
 <td>
-(DIR) '<span>upward</span>'</td>
+[DIR] '<span>upward</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Puluwatese</td><td><i>-loŋ</i></td>
 <td>
-(DIR) '<span>inland</span>'</td>
+[DIR] '<span>inland</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Woleaian</td><td><i>roŋ</i></td>
 <td>
-(DIR) '<span>inland</span>'</td>
+[DIR] '<span>inland</span>'</td>
+</tr>
+<tr>
+<td><strong>PPn</strong></td><td> </td>
+<td>
+<i>&ast;luŋa</i>
+</td>
+<td>
+'<span>top, space above, up top</span>' (<span><em>-u-</em> for expected <em>*-o-</em></span>)</td>
 </tr>
 <tr>
 <td>Pn</td><td>Niuean</td><td><i>luŋa</i></td>
 <td>
-(N LOC) '<span>above, upon, top</span>'</td>
+[N LOC] '<span>above, upon, top</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Niuafo’ou</td><td><i>(ʔo)luŋa</i></td>
 <td>
-(N LOC) '<span>up</span>'</td>
+[N LOC] '<span>up</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Samoan</td><td><i>luŋa</i></td>
 <td>
-(N LOC) '<span>top, space above, up top</span>'</td>
+[N LOC] '<span>top, space above, up top</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Pileni</td><td><i>luŋa</i></td>
 <td>
-(N LOC) '<span>top, up, east</span>'</td>
+[N LOC] '<span>top, up, east</span>'</td>
 </tr>
 </table>
 
@@ -730,7 +728,7 @@ It is unlikely that POc &ast;laman normally occurred as a local noun, as only tw
 <i>&ast;laur</i>
 </td>
 <td>
-'<span>sea, seawards</span>'</td>
+[(N LOC) ] '<span>sea, seawards</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
@@ -738,7 +736,7 @@ It is unlikely that POc &ast;laman normally occurred as a local noun, as only tw
 <i>&ast;qa-laur</i>
 </td>
 <td>
-'<span>in a seaward direction</span>'</td>
+[(ADV) ] '<span>in a seaward direction</span>'</td>
 </tr>
 <tr>
 <td>Yap</td><td>Yapese</td><td><i>lʔāy</i></td>
@@ -753,7 +751,7 @@ It is unlikely that POc &ast;laman normally occurred as a local noun, as only tw
 <tr>
 <td>NNG</td><td>Manam</td><td><i>(i)lau</i></td>
 <td>
-(N) '<span>seawards</span>'</td>
+[N] '<span>seawards</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Nakanai</td><td><i>(go)lau</i></td>
@@ -793,12 +791,12 @@ It is unlikely that POc &ast;laman normally occurred as a local noun, as only tw
 <tr>
 <td>NCV</td><td>Ambae</td><td><i>(a)lau</i></td>
 <td>
-(ADV) '<span>down by the sea</span>'</td>
+[ADV] '<span>down by the sea</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Tamambo</td><td><i>(a)lau</i></td>
 <td>
-(ADV) '<span>seawards, shore direction</span>'</td>
+[ADV] '<span>seawards, shore direction</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Paamese</td><td><i>(a)lau</i></td>
@@ -828,7 +826,7 @@ It is unlikely that POc &ast;laman normally occurred as a local noun, as only tw
 <i>&ast;tasik</i>
 </td>
 <td>
-'<span>sea, salt water</span>'; '<span>at sea</span>'</td>
+[(N) ] '<span>sea, salt water</span>'; [(N LOC) ] '<span>at sea</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
@@ -836,7 +834,7 @@ It is unlikely that POc &ast;laman normally occurred as a local noun, as only tw
 <i>&ast;tasik</i>
 </td>
 <td>
-'<span>sea, salt water</span>'; '<span>at sea</span>'</td>
+[(N) ] '<span>sea, salt water</span>'; [(N LOC) ] '<span>at sea</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Lihir</td><td><i>(i) tes</i></td>
@@ -856,7 +854,7 @@ It is unlikely that POc &ast;laman normally occurred as a local noun, as only tw
 <tr>
 <td>SES</td><td>Longgu</td><td><i>asi</i></td>
 <td>
-(N LOC) '<span>seawards</span>'</td>
+[N LOC] '<span>seawards</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Kwaio</td><td><i>(i) asi</i></td>
@@ -866,32 +864,32 @@ It is unlikely that POc &ast;laman normally occurred as a local noun, as only tw
 <tr>
 <td>SV</td><td>Lenakel</td><td><i>(i)rhe</i></td>
 <td>
-(ADV) '<span>at/to sea</span>'</td>
+[ADV] '<span>at/to sea</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>taði</i></td>
 <td>
-(N LOC) '<span>coast, seashore, sea, from the perspective of the land</span>'</td>
+[N LOC] '<span>coast, seashore, sea, from the perspective of the land</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Niuafo’ou</td><td><i>(ŋā)tai</i></td>
 <td>
-(N LOC) '<span>outer sea</span>'</td>
+[N LOC] '<span>outer sea</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Samoan</td><td><i>tai</i></td>
 <td>
-(ADV) '<span>at sea</span>' (<span><em>i tai</em> ‘on the side facing the sea’, as opposed to <em>i uta</em> ‘on the side facing the land’</span>)</td>
+[ADV] '<span>at sea</span>' (<span><em>i tai</em> ‘on the side facing the sea’, as opposed to <em>i uta</em> ‘on the side facing the land’</span>)</td>
 </tr>
 <tr>
 <td>Pn</td><td>Samoan</td><td><i>(ŋā)tai</i></td>
 <td>
-(ADV) '<span>to sea</span>'</td>
+[ADV] '<span>to sea</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Marquesan</td><td><i>tai</i></td>
 <td>
-(N LOC) '<span>sea</span>'</td>
+[N LOC] '<span>sea</span>'</td>
 </tr>
 </table>
 
@@ -908,7 +906,7 @@ The items reconstructed above for ‘inland’ and ‘seawards’ were orientati
 <i>&ast;pa</i>
 </td>
 <td>
-</td>
+[(N LOC) ] '<span>to one’s left when facing the sea</span>'</td>
 </tr>
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
@@ -916,22 +914,22 @@ The items reconstructed above for ‘inland’ and ‘seawards’ were orientati
 <i>&ast;qa-pa</i>
 </td>
 <td>
-'<span>to one’s left when facing the sea</span>'</td>
+[(ADV) ] '<span>to one’s left when facing the sea</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Manam</td><td><i>(a)wa</i></td>
 <td>
-(N) '<span>to one’s left when facing the sea</span>'</td>
+[N] '<span>to one’s left when facing the sea</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Vitu</td><td><i>(ɣe)va</i></td>
 <td>
-(ADV) '<span>downwards</span>'</td>
+[ADV] '<span>downwards</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Nalik</td><td><i>pa</i></td>
 <td>
-(N LOC) '<span>south-east</span>'</td>
+[N LOC] '<span>south-east</span>'</td>
 </tr>
 </table>
 
@@ -944,7 +942,7 @@ The items reconstructed above for ‘inland’ and ‘seawards’ were orientati
 <i>&ast;ta</i>
 </td>
 <td>
-</td>
+[(N LOC) ] '<span>to one’s right when facing the sea</span>'</td>
 </tr>
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
@@ -952,22 +950,22 @@ The items reconstructed above for ‘inland’ and ‘seawards’ were orientati
 <i>&ast;qa-ta</i>
 </td>
 <td>
-'<span>to one’s right when facing the sea</span>'</td>
+[(ADV) ] '<span>to one’s right when facing the sea</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Manam</td><td><i>(a)ta</i></td>
 <td>
-(N) '<span>to one’s right when facing the sea</span>'</td>
+[N] '<span>to one’s right when facing the sea</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Vitu</td><td><i>(ɣe)ta</i></td>
 <td>
-(ADV) '<span>upwards</span>'</td>
+[ADV] '<span>upwards</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Nalik</td><td><i>ta</i></td>
 <td>
-(N LOC) '<span>north-west</span>'</td>
+[N LOC] '<span>north-west</span>'</td>
 </tr>
 </table>
 
@@ -998,7 +996,7 @@ The cognate set attesting POc _&ast;Rumaq_ ‘house’ was presented in vol. 1, 
 <i>&ast;Rumaq</i>
 </td>
 <td>
-'<span>house</span>'; '<span>home</span>'</td>
+[(N)] '<span>house</span>'; [(N LOC) ] '<span>home</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
@@ -1006,7 +1004,7 @@ The cognate set attesting POc _&ast;Rumaq_ ‘house’ was presented in vol. 1, 
 <i>&ast;Rumaq</i>
 </td>
 <td>
-'<span>house</span>'; '<span>home</span>'</td>
+[(N)] '<span>house</span>'; [(N LOC) ] '<span>home</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
@@ -1014,12 +1012,12 @@ The cognate set attesting POc _&ast;Rumaq_ ‘house’ was presented in vol. 1, 
 <i>&ast;qa-Rumaq</i>
 </td>
 <td>
-'<span>at home</span>'</td>
+[(ADV) ] '<span>at home</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td>Sariba</td><td><i>numa</i></td>
 <td>
-(N LOC) '<span>home</span>'</td>
+[N LOC] '<span>home</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Nakanai</td><td><i>(go)luma</i></td>
@@ -1039,22 +1037,22 @@ The cognate set attesting POc _&ast;Rumaq_ ‘house’ was presented in vol. 1, 
 <tr>
 <td>MM</td><td>Taiof</td><td><i>numa</i></td>
 <td>
-(N LOC) '<span>home</span>'</td>
+[N LOC] '<span>home</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Tamambo</td><td><i>(a)imo</i></td>
 <td>
-(ADV) '<span>at home</span>'</td>
+[ADV] '<span>at home</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Paamese</td><td><i>(tela)im</i></td>
 <td>
-(N LOC) '<span>home</span>'</td>
+[N LOC] '<span>home</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Lewo</td><td><i>umʷa</i></td>
 <td>
-(N LOC) '<span>home</span>'</td>
+[N LOC] '<span>home</span>'</td>
 </tr>
 <tr>
 <td>SV</td><td>Lenakel</td><td><i>īmʷa</i></td>
@@ -1076,7 +1074,8 @@ POc _&ast;tanoq_ is reconstructed as a common noun meaning ‘earth, soil, groun
 <i>&ast;taneq</i>
 </td>
 <td>
-'<span>earth, land</span>'</td>
+'<span>earth, land</span>' (<a href="../references.md#source-Dempwolff1938">Dempwolff1938</a>)
+</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
@@ -1084,7 +1083,7 @@ POc _&ast;tanoq_ is reconstructed as a common noun meaning ‘earth, soil, groun
 <i>&ast;tanoq</i>
 </td>
 <td>
-'<span>earth, soil, ground; land</span>'</td>
+[(N)] '<span>earth, soil, ground; land</span>'; [(N LOC) ] '<span>earth, soil, ground; land</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
@@ -1092,7 +1091,7 @@ POc _&ast;tanoq_ is reconstructed as a common noun meaning ‘earth, soil, groun
 <i>&ast;tanoq</i>
 </td>
 <td>
-'<span>earth, soil, ground; land</span>'</td>
+[(N)] '<span>earth, soil, ground; land</span>'; [(N LOC) ] '<span>earth, soil, ground; land</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
@@ -1100,17 +1099,17 @@ POc _&ast;tanoq_ is reconstructed as a common noun meaning ‘earth, soil, groun
 <i>&ast;qa-tanoq</i>
 </td>
 <td>
-'<span>down on the ground, down below</span>'</td>
+[(ADV) ] '<span>down on the ground, down below</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Loniu</td><td><i>tan</i></td>
 <td>
-(ADV) '<span>down</span>'</td>
+[ADV] '<span>down</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Takia</td><td><i>tan (na)</i></td>
 <td>
-(N + POSTPOSITION) '<span>on the ground, down below</span>'</td>
+[N + POSTPOSITION] '<span>on the ground, down below</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td>Gumawana</td><td><i>tono</i></td>
@@ -1193,7 +1192,7 @@ The items listed under ‘cf. also’ below reflect a Proto North Bougainville f
 <i>&ast;atas</i>
 </td>
 <td>
-'<span>top; space above</span>'; '<span>up top</span>'</td>
+[(N) ] '<span>top; space above</span>'; [(N LOC) ] '<span>up top</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
@@ -1201,7 +1200,7 @@ The items listed under ‘cf. also’ below reflect a Proto North Bougainville f
 <i>&ast;atas</i>
 </td>
 <td>
-'<span>top; space above</span>'; '<span>up top</span>'</td>
+[(N) ] '<span>top; space above</span>'; [(N LOC) ] '<span>up top</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Ali</td><td><i>yat</i></td>
@@ -1311,7 +1310,7 @@ The items listed under ‘cf. also’ below reflect a Proto North Bougainville f
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>ata</i></td>
 <td>
-(N LOC) '<span>top, above; interior of a mountainous island, up the hill, inland</span>'</td>
+[N LOC] '<span>top, above; interior of a mountainous island, up the hill, inland</span>'</td>
 </tr>
 </table>
 
@@ -1319,17 +1318,17 @@ cf. also:
 <table>
 <tr>
 <td>MM</td>
-<td>Halia</td>
-<td><i>(i)yasa</i></td>
+<td>Solos</td>
+<td><i>yas</i></td>
 <td>
-'<span>up (there)</span>'</td>
+'<span>top</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
-<td>Halia</td>
-<td><i>(pal)yasa</i></td>
+<td>Solos</td>
+<td><i>(i)yas</i></td>
 <td>
-'<span>upwards</span>'</td>
+'<span>up (there)</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
@@ -1347,17 +1346,24 @@ cf. also:
 </tr>
 <tr>
 <td>MM</td>
-<td>Solos</td>
-<td><i>(i)yas</i></td>
+<td>Halia</td>
+<td><i>(i)yasa</i></td>
 <td>
 '<span>up (there)</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
-<td>Solos</td>
-<td><i>yas</i></td>
+<td>Halia</td>
+<td><i>(pal)yasa</i></td>
 <td>
-'<span>top</span>'</td>
+'<span>upwards</span>'</td>
+</tr>
+<tr>
+<td>MM</td>
+<td>Selau</td>
+<td><i>(i)yasa</i></td>
+<td>
+'<span>up (there)</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
@@ -1390,15 +1396,7 @@ POc _&ast;laŋit_ ‘sky, weather’ is reconstructed as a common noun in Chapte
 <i>&ast;laŋit</i>
 </td>
 <td>
-'<span>sky, weather</span>'; '<span>up top, high up</span>'</td>
-</tr>
-<tr>
-<td><strong>POc</strong></td><td> </td>
-<td>
-<i>&ast;laŋit</i>
-</td>
-<td>
-'<span>sky, weather</span>'; '<span>up top, high up</span>'</td>
+[N] '<span>sky, weather</span>'; [N LOC] '<span>up top, high up</span>'</td>
 </tr>
 <tr>
 <td>Yap</td><td>Yapese</td><td><i>lǣŋ</i></td>
@@ -1445,7 +1443,7 @@ It is less clear whether POc _&ast;laka_ ‘up above’ was a noun or a verb. In
 <i>&ast;laka</i>
 </td>
 <td>
-'<span>up above</span>'</td>
+[(N LOC) ] '<span>up above</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
@@ -1453,7 +1451,7 @@ It is less clear whether POc _&ast;laka_ ‘up above’ was a noun or a verb. In
 <i>&ast;qa-laka</i>
 </td>
 <td>
-'<span>in an upward direction</span>'</td>
+[(ADV) ] '<span>in an upward direction</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Takia</td><td><i>lak (na)</i></td>
@@ -1540,7 +1538,7 @@ The forms listed below under ‘cf. also’ are similar in form to those listed 
 <i>&ast;liwaŋ, liwa-, liwaŋa-</i>
 </td>
 <td>
-'<span>open space, space between, middle</span>'</td>
+[(N) ] '<span>open space, space between, middle</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
@@ -1548,7 +1546,7 @@ The forms listed below under ‘cf. also’ are similar in form to those listed 
 <i>&ast;liwaŋ</i>
 </td>
 <td>
-'<span>in the middle</span>'</td>
+[(N LOC) ] '<span>in the middle</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Loniu</td><td><i>(lɔhɔ)luwa-</i></td>
@@ -1628,31 +1626,17 @@ The forms listed below under ‘cf. also’ are similar in form to those listed 
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>liwa</i></td>
 <td>
-(N) '<span>ocean far from land</span>'; (ADV) '<span>far from habitation</span>'</td>
+[N] '<span>ocean far from land</span>'; [ADV] '<span>far from habitation</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>(mā)liwa</i></td>
 <td>
-(N) '<span>space between, interstice</span>'</td>
+[N] '<span>space between, interstice</span>'</td>
 </tr>
 </table>
 
 cf. also: 
 <table>
-<tr>
-<td>SV</td>
-<td>Kwamera</td>
-<td><i>(i)rua</i></td>
-<td>
-'<span>outside</span>'</td>
-</tr>
-<tr>
-<td>SV</td>
-<td>Lenakel</td>
-<td><i>(i)lua</i></td>
-<td>
-'<span>outside</span>'</td>
-</tr>
 <tr>
 <td>MM</td>
 <td>Minigir</td>
@@ -1664,6 +1648,20 @@ cf. also:
 <td>MM</td>
 <td>Tolai</td>
 <td><i>(na)lua</i></td>
+<td>
+'<span>outside</span>'</td>
+</tr>
+<tr>
+<td>SV</td>
+<td>Lenakel</td>
+<td><i>(i)lua</i></td>
+<td>
+'<span>outside</span>'</td>
+</tr>
+<tr>
+<td>SV</td>
+<td>Kwamera</td>
+<td><i>(i)rua</i></td>
 <td>
 '<span>outside</span>'</td>
 </tr>
@@ -1719,20 +1717,12 @@ In Polynesian languages reflexes of _&ast;lalo-_/_&ast;lalom_ denote the region 
 <i>&ast;lalo-, lalom</i>
 </td>
 <td>
-'<span>inside</span>'</td>
-</tr>
-<tr>
-<td><strong>PPn</strong></td><td> </td>
-<td>
-<i>&ast;lalo</i>
-</td>
-<td>
-'<span>region underneath</span>'</td>
+[(N, N LOC) ] '<span>inside</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Mussau</td><td><i>(e)lom(e)</i></td>
 <td>
-(ADV) '<span>inside</span>'</td>
+[ADV] '<span>inside</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Gitua</td><td><i>lolo-</i></td>
@@ -1930,6 +1920,14 @@ In Polynesian languages reflexes of _&ast;lalo-_/_&ast;lalom_ denote the region 
 '<span>inside</span>'</td>
 </tr>
 <tr>
+<td><strong>PPn</strong></td><td> </td>
+<td>
+<i>&ast;lalo</i>
+</td>
+<td>
+'<span>region underneath</span>'</td>
+</tr>
+<tr>
 <td>Pn</td><td>Tongan</td><td><i>lalo</i></td>
 <td>
 '<span>below, under</span>'</td>
@@ -1962,7 +1960,7 @@ There is, of course, also a possibility that _&ast;lalo-_ has undergone haplolog
 <i>&ast;lo-</i>
 </td>
 <td>
-'<span>inside</span>'</td>
+[(N LOC) ] '<span>inside</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Titan</td><td><i>lo(n-um)</i></td>
@@ -2040,7 +2038,7 @@ There is, of course, also a possibility that _&ast;lalo-_ has undergone haplolog
 <i>&ast;la-</i>
 </td>
 <td>
-'<span>inside</span>'; (PREP) '<span>in</span>'</td>
+[(N LOC) ] '<span>inside</span>'; [PREP] '<span>in</span>'</td>
 </tr>
 <tr>
 <td>Yap</td><td>Yapese</td><td><i>lā-n</i></td>
@@ -2078,15 +2076,7 @@ POc _&ast;loto-_ ‘space within a concave object’ is not well supported. It h
 <i>&ast;loto</i>
 </td>
 <td>
-'<span>space within a concave object</span>' (<span>see p.248 for full cognate set</span>)</td>
-</tr>
-<tr>
-<td><strong>PPn</strong></td><td> </td>
-<td>
-<i>&ast;loto</i>
-</td>
-<td>
-'<span>inside</span>'</td>
+[(N, N LOC) ] '<span>space within a concave object</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Loniu</td><td><i>lɔtiyɛ-</i></td>
@@ -2097,6 +2087,14 @@ POc _&ast;loto-_ ‘space within a concave object’ is not well supported. It h
 <td>Fij</td><td>Wayan</td><td><i>loto-</i></td>
 <td>
 '<span>bottom, lowest part (e.g. of kava bowl)</span>'</td>
+</tr>
+<tr>
+<td><strong>PPn</strong></td><td> </td>
+<td>
+<i>&ast;loto</i>
+</td>
+<td>
+'<span>inside</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>loto</i></td>
@@ -2131,7 +2129,7 @@ In many Oceanic languages the word for ‘inside’ is the reflex of a POc body-
 <i>&ast;bʷal(o,a)-, bʷal(o,a)k</i>
 </td>
 <td>
-'<span>belly; hollow space</span>'; (N LOC) '<span>inside</span>'</td>
+[(N) ] '<span>belly; hollow space</span>'; [N LOC] '<span>inside</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Nyindrou</td><td><i>bolo-n</i></td>
@@ -2141,7 +2139,7 @@ In many Oceanic languages the word for ‘inside’ is the reflex of a POc body-
 <tr>
 <td>Adm</td><td>Titan</td><td><i>pólo-n</i></td>
 <td>
-(PREP) '<span>among, inside</span>'</td>
+[PREP] '<span>among, inside</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Kairiru</td><td><i>balai</i></td>
@@ -2218,7 +2216,7 @@ In many Oceanic languages the word for ‘inside’ is the reflex of a POc body-
 <i>&ast;tinaqe-</i>
 </td>
 <td>
-'<span>intestines; ?? (N LOC) inside</span>'</td>
+[(N)] '<span>intestines; ?? (N LOC) inside</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Drehet</td><td><i>kxine</i></td>
@@ -2276,15 +2274,7 @@ No reflexes occur in Central Pacific languages. In Fijian, _&ast;papa-_, _&ast;p
 <i>&ast;papa-, pa-, papak, pak</i>
 </td>
 <td>
-'<span>underneath, lower surface, bottom, underside</span>'</td>
-</tr>
-<tr>
-<td><strong>ProtoMesoMelanesian</strong></td><td> </td>
-<td>
-<i>&ast;pake-</i>
-</td>
-<td>
-'<span>underneath, underside</span>'</td>
+[(N, N LOC) ] '<span>underneath, lower surface, bottom, underside</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Mussau</td><td><i>pak(e)</i></td>
@@ -2407,6 +2397,14 @@ No reflexes occur in Central Pacific languages. In Fijian, _&ast;papa-_, _&ast;p
 '<span>underneath</span>'</td>
 </tr>
 <tr>
+<td><strong>ProtoMesoMelanesian</strong></td><td> </td>
+<td>
+<i>&ast;pake-</i>
+</td>
+<td>
+'<span>underneath, underside</span>'</td>
+</tr>
+<tr>
 <td>MM</td><td>Bali</td><td><i>va-vake(ni)</i></td>
 <td>
 '<span>down (there)</span>'</td>
@@ -2506,7 +2504,7 @@ The second term, POc _&ast;gabʷari-_ meant ‘the area underneath a raised hous
 <i>&ast;ruku-</i>
 </td>
 <td>
-'<span>underneath, undersurface (?)</span>'</td>
+[(N, N LOC) ] '<span>underneath, undersurface (?)</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Bulu</td><td><i>luku(va)-</i></td>
@@ -2574,7 +2572,7 @@ The second term, POc _&ast;gabʷari-_ meant ‘the area underneath a raised hous
 <i>&ast;gabʷari-</i>
 </td>
 <td>
-'<span>the area underneath a raised house</span>'</td>
+[(N, N LOC) ] '<span>the area underneath a raised house</span>' (<span>vol. 1, p.51</span>)</td>
 </tr>
 <tr>
 <td>Adm</td><td>Titan</td><td><i>kapʷaliŋ</i></td>
@@ -2649,7 +2647,7 @@ The second term, POc _&ast;gabʷari-_ meant ‘the area underneath a raised hous
 <i>&ast;puqu-, puqun</i>
 </td>
 <td>
-'<span>base, foundation, origin, source, reason</span>'</td>
+[(N, N LOC) ] '<span>base, foundation, origin, source, reason</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Loniu</td><td><i>puʔu-</i></td>
@@ -2762,7 +2760,7 @@ The Kiribati (Mic) reflex of POc _&ast;papo[-]_ also has the meaning ‘outside�
 <i>&ast;papo[-], po[-]</i>
 </td>
 <td>
-'<span>upper surface, top</span>'</td>
+[(N, N LOC) ] '<span>upper surface, top</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Mussau</td><td><i>po(na)</i></td>
@@ -2782,7 +2780,7 @@ The Kiribati (Mic) reflex of POc _&ast;papo[-]_ also has the meaning ‘outside�
 <tr>
 <td>NNG</td><td>Takia</td><td><i>fo</i></td>
 <td>
-(POSTPOSITION) '<span>on</span>'</td>
+[POSTPOSITION] '<span>on</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Numbami</td><td><i>wao-</i></td>
@@ -2969,7 +2967,7 @@ Given the tendency for body-part terms to be used by metaphorical extension as r
 <i>&ast;qulu[-]</i>
 </td>
 <td>
-'<span>head, (head) hair</span>'; (N LOC) '<span>top part</span>'</td>
+[(N)] '<span>head, (head) hair</span>'; [N LOC] '<span>top part</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Mussau</td><td><i>ulu (bo)</i></td>
@@ -3157,7 +3155,7 @@ This expectation is at least partly fulfilled. We can reconstruct POc _&ast;[pʷ
 <i>&ast;[pʷa]pʷaRa[-]</i>
 </td>
 <td>
-'<span>cheek, side of head</span>'; (N LOC) '<span>side</span>'</td>
+[(N) ] '<span>cheek, side of head</span>'; [N LOC] '<span>side</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Kairiru</td><td><i>poreq</i></td>
@@ -3209,32 +3207,11 @@ This expectation is at least partly fulfilled. We can reconstruct POc _&ast;[pʷ
 cf. also: 
 <table>
 <tr>
-<td>SES</td>
-<td>Arosi</td>
-<td><i>baba</i></td>
+<td>NNG</td>
+<td>Rauto</td>
+<td><i>vava-</i></td>
 <td>
-'<span>cheek, temples; side (of a stream +)</span>'; '<span>slab, board</span>'</td>
-</tr>
-<tr>
-<td>Fij</td>
-<td>Bauan</td>
-<td><i>baba</i></td>
-<td>
-'<span>large fish, like a snake, with a large mouth</span>'; '<span>side of s.t., cheek bone; side of a canoe</span>'; '<span>side planks of canoe</span>'</td>
-</tr>
-<tr>
-<td>SES</td>
-<td>Kwaio</td>
-<td><i>baba</i></td>
-<td>
-'<span>flat</span>'; '<span>side, cheek</span>'</td>
-</tr>
-<tr>
-<td>SES</td>
-<td>Lau</td>
-<td><i>baba</i></td>
-<td>
-'<span>flat; long side board of canoe</span>'; '<span>long side board of canoe</span>'; '<span>side; long side board of canoe</span>'</td>
+'<span>side</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
@@ -3251,18 +3228,39 @@ cf. also:
 '<span>side</span>'</td>
 </tr>
 <tr>
-<td>NNG</td>
-<td>Rauto</td>
-<td><i>vava-</i></td>
-<td>
-'<span>side</span>'</td>
-</tr>
-<tr>
 <td>SJ</td>
 <td>Sobei</td>
 <td><i>popa</i></td>
 <td>
 '<span>cheek</span>'</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>Kwaio</td>
+<td><i>baba</i></td>
+<td>
+'<span>side, cheek</span>'</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>Lau</td>
+<td><i>baba</i></td>
+<td>
+'<span>side; long side board of canoe</span>'</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>Arosi</td>
+<td><i>baba</i></td>
+<td>
+'<span>cheek, temples; side (of a stream +)</span>'</td>
+</tr>
+<tr>
+<td>Fij</td>
+<td>Bauan</td>
+<td><i>baba</i></td>
+<td>
+'<span>side of s.t., cheek bone; side of a canoe</span>'</td>
 </tr>
 </table>
 
@@ -3338,7 +3336,7 @@ POc _&ast;bali_ denoted ‘one of two (opposing) sides or parts’.
 <i>&ast;bali[-]</i>
 </td>
 <td>
-'<span>one of two (opposing) sides or parts</span>'</td>
+[(N, N LOC) ] '<span>one of two (opposing) sides or parts</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Gela</td><td><i>bali</i></td>
@@ -3417,7 +3415,7 @@ There are two other reconstructions from which terms for ‘side’ are derived.
 <i>&ast;siriŋ</i>
 </td>
 <td>
-'<span>side, edge</span>'</td>
+[(N, N LOC) ] '<span>side, edge</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Dami</td><td><i>siri-</i></td>
@@ -3445,7 +3443,7 @@ There are two other reconstructions from which terms for ‘side’ are derived.
 <i>&ast;tapa-</i>
 </td>
 <td>
-'<span>side, outside</span>'</td>
+[(N, N LOC) ] '<span>side, outside</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Ambae</td><td><i>tava(lu)-</i></td>
@@ -3562,7 +3560,7 @@ The terms in the set below could tempt us to reconstruct POc _&ast;luku-_ ‘sid
 <td>Wayan</td>
 <td><i>liku</i></td>
 <td>
-(N LOC) '<span>back side of the island</span>'; '<span>windward side</span>'</td>
+(N LOC) '<span>back side of the island</span>'</td>
 </tr>
 </table>
 
@@ -3585,7 +3583,7 @@ According to [Blust](../references.md#source-Blust1997) ([1997](../references.md
 <i>&ast;qaro-, qarop</i>
 </td>
 <td>
-'<span>face</span>'; (N LOC) '<span>front</span>'</td>
+[(N) ] '<span>face</span>'; [N LOC] '<span>front</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Mangap</td><td><i>kere-</i></td>
@@ -3662,7 +3660,7 @@ As the glosses indicate, POc _&ast;muqa[-]_ had the temporal sense of ‘time be
 <i>&ast;muqa[-]</i>
 </td>
 <td>
-'<span>front</span>'</td>
+[(N LOC) ] '<span>front</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
@@ -3678,7 +3676,7 @@ As the glosses indicate, POc _&ast;muqa[-]_ had the temporal sense of ‘time be
 <i>&ast;i muqa, qa-muqa, muqa-muqa</i>
 </td>
 <td>
-(ADV) '<span>in front, formerly</span>'</td>
+[ADV] '<span>in front, formerly</span>'</td>
 </tr>
 <tr>
 <td>Yap</td><td>Yapese</td><td><i>mʔōn</i></td>
@@ -3741,7 +3739,7 @@ As the glosses indicate, POc _&ast;muqa[-]_ had the temporal sense of ‘time be
 '<span>in front</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Halia</td><td><i>(to)mua-na</i></td>
+<td>MM</td><td>Selau</td><td><i>(to)mua-na</i></td>
 <td>
 '<span>old</span>'</td>
 </tr>
@@ -3870,7 +3868,7 @@ Although _&ast;muqa_ and _&ast;muga_ are formally similar, a historical relation
 <i>&ast;muga</i>
 </td>
 <td>
-'<span>front; be in front; formerly</span>'</td>
+[(?? N LOC, V) ] '<span>front; be in front; formerly</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Bariai</td><td><i>muga</i></td>
@@ -3955,7 +3953,7 @@ Although _&ast;muqa_ and _&ast;muga_ are formally similar, a historical relation
 <tr>
 <td>MM</td><td>Nakanai</td><td><i>ma-muga</i></td>
 <td>
-(RELATIONAL N) '<span>front</span>'</td>
+[RELATIONAL N] '<span>front</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Ramoaaina</td><td><i>(nə)mugə</i></td>
@@ -4001,7 +3999,7 @@ The body-part terms whose reflexes are often used for ‘front’ are POc _&ast;
 <i>&ast;mata[-]</i>
 </td>
 <td>
-'<span>eye; face</span>'; (N LOC) '<span>front</span>'</td>
+[(N)] '<span>eye; face</span>'; [N LOC] '<span>front</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Lusi</td><td><i>mata-</i></td>
@@ -4134,7 +4132,7 @@ The body-part terms whose reflexes are often used for ‘front’ are POc _&ast;
 <i>&ast;nako[-]</i>
 </td>
 <td>
-'<span>face, front</span>'</td>
+[(N, N LOC)] '<span>face, front</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Pak</td><td><i>nogo(gi)</i></td>
@@ -4300,7 +4298,7 @@ It appears that the PMP root _&ast;udehi_ was also inherited into POc as the bas
 <i>&ast;muri[-]</i>
 </td>
 <td>
-'<span>be behind, be after; back part, rear, behind, space to the rear of, time after; (canoe) stern; space outside</span>'</td>
+[(N, N LOC) ] '<span>be behind, be after; back part, rear, behind, space to the rear of, time after; (canoe) stern; space outside</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
@@ -4559,12 +4557,12 @@ The reflexes below contain a Northwest Solomonic innovation whereby Proto Northw
 '<span>back of s.t.; s.o.’s back</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Halia</td><td><i>muri-</i></td>
+<td>MM</td><td>Selau</td><td><i>muri-</i></td>
 <td>
 '<span>back of s.t</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Halia</td><td><i>mur</i></td>
+<td>MM</td><td>Selau</td><td><i>mur</i></td>
 <td>
 '<span>s.o.’s back</span>'</td>
 </tr>
@@ -4620,7 +4618,7 @@ The semantic and formal similarity of the reflexes of POc _&ast;burit_ below to 
 <i>&ast;burit</i>
 </td>
 <td>
-'<span>hind part, rear, back</span>'; (N, N LOC) '<span>back part, rear, behind, space to the rear of, time after; (canoe) stern</span>'; (ADV) '<span>behind, afterwards</span>'</td>
+'<span>hind part, rear, back</span>'; [N, N LOC] '<span>back part, rear, behind, space to the rear of, time after; (canoe) stern</span>'; [ADV] '<span>behind, afterwards</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Kela</td><td><i>ᵐburi(ya)</i></td>
@@ -4708,7 +4706,7 @@ One body-part term occurs with fair frequency with the sense of ‘back part of,
 <i>&ast;takuRu[-]</i>
 </td>
 <td>
-'<span>(s.o.’s) back</span>'</td>
+[(N, ? N LOC) ] '<span>(s.o.’s) back</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Titan</td><td><i>lákulo-</i></td>
@@ -4743,7 +4741,7 @@ One body-part term occurs with fair frequency with the sense of ‘back part of,
 <tr>
 <td>MM</td><td>Nalik</td><td><i>toru-</i></td>
 <td>
-(N LOC) '<span>space behind</span>' (<span>e.g. <em>la toru-gu</em> [PREP N LOC-P:1SG] ‘behind me’</span>)</td>
+[N LOC] '<span>space behind</span>' (<span>e.g. <em>la toru-gu</em> [PREP N LOC-P:1SG] ‘behind me’</span>)</td>
 </tr>
 <tr>
 <td>MM</td><td>Minigir</td><td><i>tauru-</i></td>
@@ -4798,17 +4796,17 @@ One body-part term occurs with fair frequency with the sense of ‘back part of,
 <tr>
 <td>NCV</td><td>Ambae</td><td><i>tagu-</i></td>
 <td>
-(N LOC) '<span>space behind</span>'</td>
+[N LOC] '<span>space behind</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Raga</td><td><i>(a)taɣu-</i></td>
 <td>
-(N LOC) '<span>behind</span>'</td>
+[N LOC] '<span>behind</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Port Sandwich</td><td><i>(a)rax</i></td>
 <td>
-(N LOC) '<span>behind</span>'</td>
+[N LOC] '<span>behind</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Lonwolwol</td><td><i>tao-</i></td>
@@ -4833,7 +4831,7 @@ One body-part term occurs with fair frequency with the sense of ‘back part of,
 <tr>
 <td>NCV</td><td>Nguna</td><td><i>(e)daku</i></td>
 <td>
-(ADV) '<span>at the back, behind; after</span>'</td>
+[ADV] '<span>at the back, behind; after</span>'</td>
 </tr>
 <tr>
 <td>SV</td><td>Sye</td><td><i>(n)toc(-noki)</i></td>
@@ -4853,7 +4851,7 @@ One body-part term occurs with fair frequency with the sense of ‘back part of,
 <tr>
 <td>SV</td><td>Anejom</td><td><i>(i)taɣ</i></td>
 <td>
-(ADV) '<span>behind</span>' (<span>e.g. <em>itaɣ a niomʷ</em> [ADV PREP N] ‘behind the house’</span>)</td>
+[ADV] '<span>behind</span>' (<span>e.g. <em>itaɣ a niomʷ</em> [ADV PREP N] ‘behind the house’</span>)</td>
 </tr>
 <tr>
 <td>NCal</td><td>Nyelâyu</td><td><i>dū-</i></td>
@@ -4893,7 +4891,7 @@ One body-part term occurs with fair frequency with the sense of ‘back part of,
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>takū</i></td>
 <td>
-(N LOC) '<span>behind</span>'</td>
+[N LOC] '<span>behind</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>daku-</i></td>
@@ -4948,7 +4946,7 @@ The interrogative local noun ‘where?’ was POc _&ast;pai_. Micronesian reflex
 <i>&ast;pai, i pai</i>
 </td>
 <td>
-'<span>where at?</span>'</td>
+[(N LOC) ] '<span>where at?</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Bebeli</td><td><i>ehae</i></td>
@@ -5205,7 +5203,7 @@ Also found are forms which appear to reflect _&ast;pea_, _&ast;pia_ and, in Poly
 <td>Niuean</td>
 <td><i>fē</i></td>
 <td>
-'<span>when (future)?</span>'; '<span>where?</span>'</td>
+'<span>where?</span>'</td>
 </tr>
 <tr>
 <td>Pn</td>
@@ -5352,7 +5350,7 @@ Also found are forms which appear to reflect _&ast;pea_, _&ast;pia_ and, in Poly
 <td>Māori</td>
 <td><i>hia</i></td>
 <td>
-'<span>difficulty</span>' (<span>for †*hita</span>); '<span>desire, want</span>' (<span>prefix on small group of words such as eat, drink etc.</span>); '<span>where?</span>'</td>
+'<span>where?</span>'</td>
 </tr>
 <tr>
 <td>Pn</td>
@@ -5643,7 +5641,7 @@ The most widely reflected of these is _&ast;sipo_, the generic verb of downward 
 <i>&ast;sipo</i>
 </td>
 <td>
-'<span>go down, downwards</span>' (<span>see also p.271</span>)</td>
+'<span>go down, downwards</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Mussau</td><td><i>sio</i></td>
@@ -5668,12 +5666,12 @@ The most widely reflected of these is _&ast;sipo_, the generic verb of downward 
 <tr>
 <td>NNG</td><td>Bariai</td><td><i>(ga)dio</i></td>
 <td>
-(DIR) '<span>downward</span>'</td>
+[DIR] '<span>downward</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Gitua</td><td><i>zio(vave)</i></td>
 <td>
-(DIR) '<span>downward</span>'</td>
+[DIR] '<span>downward</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Tuam</td><td><i>(i)zi(la)</i></td>
@@ -5683,7 +5681,7 @@ The most widely reflected of these is _&ast;sipo_, the generic verb of downward 
 <tr>
 <td>NNG</td><td>Yabem</td><td><i>siʔ</i></td>
 <td>
-(DIR) '<span>downward</span>'</td>
+[DIR] '<span>downward</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Bing</td><td><i>siy</i></td>
@@ -5698,22 +5696,22 @@ The most widely reflected of these is _&ast;sipo_, the generic verb of downward 
 <tr>
 <td>NNG</td><td>Manam</td><td><i>-ria</i></td>
 <td>
-(DIR) '<span>downward; to one’s left when facing sea</span>'</td>
+[DIR] '<span>downward; to one’s left when facing sea</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Kaiep</td><td><i>(a)si</i></td>
 <td>
-(DIR) '<span>downward</span>'</td>
+[DIR] '<span>downward</span>'</td>
 </tr>
 <tr>
 <td>SJ</td><td>Sobei</td><td><i>-si</i></td>
 <td>
-(DIR) '<span>downward</span>'</td>
+[DIR] '<span>downward</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td>Tawala</td><td><i>-hi</i></td>
 <td>
-(DIR) '<span>towards addressee</span>'</td>
+[DIR] '<span>towards addressee</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td>Sinaugoro</td><td><i>(va-)riɣo</i></td>
@@ -5748,7 +5746,7 @@ The most widely reflected of these is _&ast;sipo_, the generic verb of downward 
 <tr>
 <td>SES</td><td>Sa'a</td><td><i>siho</i></td>
 <td>
-(DIR) '<span>downward</span>'</td>
+[DIR] '<span>downward</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Merei</td><td><i>sio</i></td>
@@ -5763,7 +5761,7 @@ The most widely reflected of these is _&ast;sipo_, the generic verb of downward 
 <tr>
 <td>SV</td><td>Sye</td><td><i>-sep, -hep</i></td>
 <td>
-(DIR) '<span>downward</span>'</td>
+[DIR] '<span>downward</span>'</td>
 </tr>
 <tr>
 <td>SV</td><td>Sye</td><td><i>yep</i></td>
@@ -5773,27 +5771,27 @@ The most widely reflected of these is _&ast;sipo_, the generic verb of downward 
 <tr>
 <td>NCal</td><td>Xârâcùù</td><td><i>βē</i></td>
 <td>
-(DEM) '<span>coming down</span>'</td>
+[DEM] '<span>coming down</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Kosraean</td><td><i>-yɛ</i></td>
 <td>
-(DIR) '<span>downward</span>'</td>
+[DIR] '<span>downward</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Mokilese</td><td><i>-ti</i></td>
 <td>
-(DIR) '<span>downward</span>'</td>
+[DIR] '<span>downward</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Puluwatese</td><td><i>-tiw</i></td>
 <td>
-(DIR) '<span>downward, west</span>'</td>
+[DIR] '<span>downward, west</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>ðivo</i></td>
 <td>
-(DIR) '<span>downward</span>'</td>
+[DIR] '<span>downward</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>ðivo-ðivo</i></td>
@@ -5803,27 +5801,27 @@ The most widely reflected of these is _&ast;sipo_, the generic verb of downward 
 <tr>
 <td>Fij</td><td>Yasawa</td><td><i>ðivo</i></td>
 <td>
-(DIR) '<span>downward</span>'</td>
+[DIR] '<span>downward</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>hifo</i></td>
 <td>
-(DIR) '<span>downward</span>'</td>
+[DIR] '<span>downward</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Samoan</td><td><i>ifo</i></td>
 <td>
-(DIR) '<span>downward</span>'</td>
+[DIR] '<span>downward</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Pileni</td><td><i>ifo</i></td>
 <td>
-(DIR) '<span>downward</span>'</td>
+[DIR] '<span>downward</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Rennellese</td><td><i>iho</i></td>
 <td>
-(V, DIR) '<span>downward; seaward; northward, westward</span>'</td>
+[V, DIR] '<span>downward; seaward; northward, westward</span>'</td>
 </tr>
 </table>
 
@@ -5878,12 +5876,12 @@ The most widely reflected of these is _&ast;sipo_, the generic verb of downward 
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>sobu</i></td>
 <td>
-'<span>go down</span>'; (DIR) '<span>downward</span>'</td>
+'<span>go down</span>'; [DIR] '<span>downward</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Boumaa</td><td><i>sobu</i></td>
 <td>
-'<span>go down</span>'; (DIR) '<span>downward</span>'</td>
+'<span>go down</span>'; [DIR] '<span>downward</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Rotuman</td><td><i>jopu</i></td>
@@ -6040,7 +6038,7 @@ The forms listed below also seem to constitute a cognate set, but, as the questi
 <tr>
 <td>SJ</td><td>Sobei</td><td><i>-so</i></td>
 <td>
-(DIR) '<span>downward</span>'</td>
+[DIR] '<span>downward</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Tigak</td><td><i>(i)sua</i></td>
@@ -6050,12 +6048,12 @@ The forms listed below also seem to constitute a cognate set, but, as the questi
 <tr>
 <td>MM</td><td>Notsi</td><td><i>(bi-)dū</i></td>
 <td>
-(adverb) '<span>from below</span>'</td>
+[adverb] '<span>from below</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Notsi</td><td><i>(ta-)dū</i></td>
 <td>
-(adverb) '<span>from the west</span>'</td>
+[adverb] '<span>from the west</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Longgu</td><td><i>su</i></td>
@@ -6075,7 +6073,7 @@ The forms listed below also seem to constitute a cognate set, but, as the questi
 <tr>
 <td>NCal</td><td>Nêlêmwâ</td><td><i>du</i></td>
 <td>
-(DIR) '<span>downward</span>'</td>
+[DIR] '<span>downward</span>'</td>
 </tr>
 <tr>
 <td>NCal</td><td>Nêlêmwâ</td><td><i>tu</i></td>
@@ -6085,7 +6083,7 @@ The forms listed below also seem to constitute a cognate set, but, as the questi
 <tr>
 <td>NCal</td><td>Nyelâyu</td><td><i>-du</i></td>
 <td>
-(DIR) '<span>downward</span>'</td>
+[DIR] '<span>downward</span>'</td>
 </tr>
 <tr>
 <td>NCal</td><td>Nyelâyu</td><td><i>tu</i></td>
@@ -6113,12 +6111,12 @@ POc &ast;wau ‘go seawards’ and _&ast;bala_ ‘move downward (?)’ are also 
 <tr>
 <td>NNG</td><td>Bam</td><td><i>wau(la)</i></td>
 <td>
-(DIR) '<span>downward</span>'</td>
+[DIR] '<span>downward</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Sissano</td><td><i>eu</i></td>
 <td>
-(DIR) '<span>downward</span>'</td>
+[DIR] '<span>downward</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td>Gumawana</td><td><i>-iwo</i></td>
@@ -6128,12 +6126,12 @@ POc &ast;wau ‘go seawards’ and _&ast;bala_ ‘move downward (?)’ are also 
 <tr>
 <td>Mic</td><td>Puluwatese</td><td><i>-wow</i></td>
 <td>
-(DIR) '<span>seaward</span>' (<span>contrast -waw ‘towards addressee’</span>)</td>
+[DIR] '<span>seaward</span>' (<span>contrast -waw ‘towards addressee’</span>)</td>
 </tr>
 <tr>
 <td>Mic</td><td>Woleaian</td><td><i>waɨ</i></td>
 <td>
-(DIR) '<span>seaward</span>'</td>
+[DIR] '<span>seaward</span>'</td>
 </tr>
 </table>
 
@@ -6156,7 +6154,7 @@ POc &ast;wau ‘go seawards’ and _&ast;bala_ ‘move downward (?)’ are also 
 <tr>
 <td>MM</td><td>Tolai</td><td><i>ba</i></td>
 <td>
-(DIR) '<span>downward</span>'</td>
+[DIR] '<span>downward</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td>Gumawana</td><td><i>-bala</i></td>
@@ -6166,7 +6164,7 @@ POc &ast;wau ‘go seawards’ and _&ast;bala_ ‘move downward (?)’ are also 
 <tr>
 <td>Fij</td><td>Nadroga</td><td><i>bale</i></td>
 <td>
-(DIR) '<span>downward</span>'</td>
+[DIR] '<span>downward</span>'</td>
 </tr>
 </table>
 
@@ -6228,7 +6226,7 @@ The generic verb of upward movement was POc _&ast;sake_ ‘go upward, go southea
 <tr>
 <td>NNG</td><td>Yabem</td><td><i>-sa</i></td>
 <td>
-(DIR clause-final) '<span>upward</span>'</td>
+[DIR clause-final] '<span>upward</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Gedaged</td><td><i>-sa</i></td>
@@ -6248,7 +6246,7 @@ The generic verb of upward movement was POc _&ast;sake_ ‘go upward, go southea
 <tr>
 <td>NNG</td><td>Manam</td><td><i>-raʔe</i></td>
 <td>
-'<span>move up, move to one’s right when facing sea</span>'; (DIR) '<span>upward</span>'</td>
+'<span>move up, move to one’s right when facing sea</span>'; [DIR] '<span>upward</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Ali</td><td><i>-ha</i></td>
@@ -6258,12 +6256,12 @@ The generic verb of upward movement was POc _&ast;sake_ ‘go upward, go southea
 <tr>
 <td>NNG</td><td>Sissano</td><td><i>ha</i></td>
 <td>
-(DIR) '<span>upward</span>'</td>
+[DIR] '<span>upward</span>'</td>
 </tr>
 <tr>
 <td>SJ</td><td>Sobei</td><td><i>-sa[sa]</i></td>
 <td>
-(DIR) '<span>upward</span>'</td>
+[DIR] '<span>upward</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td>Tawala</td><td><i>-gae</i></td>
@@ -6288,7 +6286,7 @@ The generic verb of upward movement was POc _&ast;sake_ ‘go upward, go southea
 <tr>
 <td>MM</td><td>Bali</td><td><i>zaɣe</i></td>
 <td>
-'<span>(sun) rise</span>'; (DIR) '<span>upward</span>'</td>
+'<span>(sun) rise</span>'; [DIR] '<span>upward</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Nakanai</td><td><i>sahe</i></td>
@@ -6318,12 +6316,12 @@ The generic verb of upward movement was POc _&ast;sake_ ‘go upward, go southea
 <tr>
 <td>MM</td><td>Banoni</td><td><i>sai</i></td>
 <td>
-(DIR) '<span>upward</span>'</td>
+[DIR] '<span>upward</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Mono-Alu</td><td><i>sae</i></td>
 <td>
-(DIR) '<span>upward</span>'</td>
+[DIR] '<span>upward</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Roviana</td><td><i>saɣe(la)</i></td>
@@ -6363,7 +6361,7 @@ The generic verb of upward movement was POc _&ast;sake_ ‘go upward, go southea
 <tr>
 <td>SES</td><td>Sa'a</td><td><i>taʔe</i></td>
 <td>
-'<span>up, inland</span>'</td>
+[DIR] '<span>up, inland</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Arosi</td><td><i>taʔe</i></td>
@@ -6393,7 +6391,7 @@ The generic verb of upward movement was POc _&ast;sake_ ‘go upward, go southea
 <tr>
 <td>SV</td><td>S.W. Tanna</td><td><i>-hak(ta)</i></td>
 <td>
-(DIR) '<span>upward</span>'</td>
+[DIR] '<span>upward</span>'</td>
 </tr>
 <tr>
 <td>SV</td><td>Sye</td><td><i>saɣ</i></td>
@@ -6403,32 +6401,32 @@ The generic verb of upward movement was POc _&ast;sake_ ‘go upward, go southea
 <tr>
 <td>Mic</td><td>Kosraean</td><td><i>-ɛk</i></td>
 <td>
-(DIR) '<span>upward</span>'</td>
+[DIR] '<span>upward</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Marshallese</td><td><i>tak</i></td>
 <td>
-'<span>(sun) rise</span>'; (DIR) '<span>upward</span>'</td>
+'<span>(sun) rise</span>'; [DIR] '<span>upward</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Mokilese</td><td><i>-ta</i></td>
 <td>
-(DIR) '<span>upward</span>'</td>
+[DIR] '<span>upward</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Puluwatese</td><td><i>-tæ</i></td>
 <td>
-(DIR) '<span>upward</span>'</td>
+[DIR] '<span>upward</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Woleaian</td><td><i>tax</i></td>
 <td>
-(DIR) '<span>upward, eastward</span>'</td>
+[DIR] '<span>upward, eastward</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>ðake</i></td>
 <td>
-(DIR) '<span>upward, eastward</span>'</td>
+[DIR] '<span>upward, eastward</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>ðake</i></td>
@@ -6438,17 +6436,17 @@ The generic verb of upward movement was POc _&ast;sake_ ‘go upward, go southea
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>hake</i></td>
 <td>
-'<span>go upward, esp. from the sea to the land</span>'; (DIR) '<span>upward</span>'</td>
+'<span>go upward, esp. from the sea to the land</span>'; [DIR] '<span>upward</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Samoan</td><td><i>aʔe</i></td>
 <td>
-(DIR) '<span>upward</span>'</td>
+[DIR] '<span>upward</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Pileni</td><td><i>-ake</i></td>
 <td>
-(DIR) '<span>upward</span>'</td>
+[DIR] '<span>upward</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Marquesan</td><td><i>aʔe</i></td>
@@ -6583,17 +6581,17 @@ Above I noted François’ (2004a) reconstruction of POc speakers’ use of term
 <tr>
 <td>SV</td><td>Anejom</td><td><i>-se[h]</i></td>
 <td>
-(DIR) '<span>down, north, west</span>'</td>
+[DIR] '<span>down, north, west</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Woleaian</td><td><i>tiw</i></td>
 <td>
-(DIR) '<span>downward, westward</span>'</td>
+[DIR] '<span>downward, westward</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Rennellese</td><td><i>iho</i></td>
 <td>
-(V, DIR) '<span>downward; seaward; northward, westward</span>'</td>
+[V, DIR] '<span>downward; seaward; northward, westward</span>'</td>
 </tr>
 </table>
 
@@ -6615,7 +6613,7 @@ Above I noted François’ (2004a) reconstruction of POc speakers’ use of term
 <tr>
 <td>NCV</td><td>Mwotlap</td><td><i>hag</i></td>
 <td>
-(DIR) '<span>(on land) eastward, (at sea) south-eastward</span>'</td>
+[DIR] '<span>(on land) eastward, (at sea) south-eastward</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Ambae</td><td><i>hage</i></td>
@@ -6630,27 +6628,27 @@ Above I noted François’ (2004a) reconstruction of POc speakers’ use of term
 <tr>
 <td>SV</td><td>Anejom</td><td><i>-tʃai</i></td>
 <td>
-(DIR) '<span>upward, southward, eastward</span>'</td>
+[DIR] '<span>upward, southward, eastward</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Kiribatese</td><td><i>rake</i></td>
 <td>
-'<span>(sun) rise</span>'; (DIR) '<span>upward, eastward</span>'</td>
+'<span>(sun) rise</span>'; [DIR] '<span>upward, eastward</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Woleaian</td><td><i>tax</i></td>
 <td>
-(DIR) '<span>upward, eastward</span>'</td>
+[DIR] '<span>upward, eastward</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>ðake</i></td>
 <td>
-(DIR) '<span>upward, eastward</span>'</td>
+[DIR] '<span>upward, eastward</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Rennellese</td><td><i>ake</i></td>
 <td>
-(V, DIR) '<span>upward; inland; southward, eastward</span>'</td>
+[V, DIR] '<span>upward; inland; southward, eastward</span>'</td>
 </tr>
 </table>
 
@@ -6710,12 +6708,12 @@ François also alludes to members of the Polynesian sets below. However, these a
 <tr>
 <td>Pn</td><td>Samoan</td><td><i>sa-saʔe</i></td>
 <td>
-(ADV) '<span>in the east</span>'</td>
+[ADV] '<span>in the east</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Samoan</td><td><i>(ŋā-ŋ)aʔe</i></td>
 <td>
-(ADV) '<span>eastward</span>'</td>
+[ADV] '<span>eastward</span>'</td>
 </tr>
 </table>
 
@@ -6751,52 +6749,52 @@ The meanings of the items listed below overlap substantially with reflexes of th
 <i>&ast;sipo</i>
 </td>
 <td>
-'<span>go downward</span>'; (ADV) '<span>downwards, down below</span>'</td>
+'<span>go downward</span>'; [ADV] '<span>downwards, down below</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Kove</td><td><i>sio</i></td>
 <td>
-(ADV) '<span>down below</span>'</td>
+[ADV] '<span>down below</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Lusi</td><td><i>sio</i></td>
 <td>
-(ADV) '<span>below, down there</span>'</td>
+[ADV] '<span>below, down there</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Bariai</td><td><i>(ga)dio</i></td>
 <td>
-(DIR) '<span>downward</span>'</td>
+[ADV] '<span>downward</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Kwaio</td><td><i>(ʔai)sifo</i></td>
 <td>
-(ADV) '<span>downwards, northwesterly</span>'</td>
+[ADV] '<span>downwards, northwesterly</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Merei</td><td><i>(ai)sio</i></td>
 <td>
-(ADV) '<span>down here</span>'</td>
+[ADV] '<span>down here</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Araki</td><td><i>sivo(su)</i></td>
 <td>
-(ADV) '<span>down there</span>' (<span><em>-su</em> DEM</span>)</td>
+[ADV] '<span>down there</span>' (<span><em>-su</em> DEM</span>)</td>
 </tr>
 <tr>
 <td>SV</td><td>Sye</td><td><i>(ye)hep</i></td>
 <td>
-(ADV) '<span>down here</span>'</td>
+[ADV] '<span>down here</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Samoan</td><td><i>si-sifo</i></td>
 <td>
-(ADV) '<span>in the west</span>'</td>
+[ADV] '<span>in the west</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Samoan</td><td><i>(ŋā-ŋa)ifo</i></td>
 <td>
-(ADV) '<span>westward</span>'</td>
+[ADV] '<span>westward</span>'</td>
 </tr>
 </table>
 
@@ -6809,7 +6807,7 @@ The meanings of the items listed below overlap substantially with reflexes of th
 <i>&ast;sake</i>
 </td>
 <td>
-'<span>go upward</span>'; (ADV) '<span>upwards, up top</span>'</td>
+'<span>go upward</span>'; [ADV] '<span>upwards, up top</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Mussau</td><td><i>sae-sae(na)</i></td>
@@ -6819,72 +6817,72 @@ The meanings of the items listed below overlap substantially with reflexes of th
 <tr>
 <td>NNG</td><td>Lusi</td><td><i>sai</i></td>
 <td>
-(ADV) '<span>on top, above</span>'</td>
+[ADV] '<span>on top, above</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Bariai</td><td><i>(ga)dae</i></td>
 <td>
-(ADV) '<span>above</span>'</td>
+[ADV] '<span>above</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Tuam</td><td><i>(i)za</i></td>
 <td>
-(ADV) '<span>upwards</span>'</td>
+[ADV] '<span>upwards</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Gitua</td><td><i>sage</i></td>
 <td>
-(ADV) '<span>up above</span>'</td>
+[ADV] '<span>up above</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td>Motu</td><td><i>dae-</i></td>
 <td>
-(N) '<span>above</span>'</td>
+[N] '<span>above</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Siar</td><td><i>sai(gali)</i></td>
 <td>
-(ADV) '<span>up there, over there</span>'</td>
+[ADV] '<span>up there, over there</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Label</td><td><i>sa</i></td>
 <td>
-(ADV) '<span>up there</span>'</td>
+[ADV] '<span>up there</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Label</td><td><i>(u)sa</i></td>
 <td>
-(ADV) '<span>upwards</span>'</td>
+[ADV] '<span>upwards</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Minigir</td><td><i>(ke-na)sa</i></td>
 <td>
-(ADV) '<span>up there</span>'</td>
+[ADV] '<span>up there</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Merei</td><td><i>(ai)sa</i></td>
 <td>
-(ADV) '<span>up here</span>'</td>
+[ADV] '<span>up here</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Araki</td><td><i>saha(su)</i></td>
 <td>
-(ADV) '<span>up there</span>'</td>
+[ADV] '<span>up there</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Paamese</td><td><i>(ne)sa</i></td>
 <td>
-(N LOC) '<span>up, above, on top</span>'</td>
+[N LOC] '<span>up, above, on top</span>'</td>
 </tr>
 <tr>
 <td>SV</td><td>Sye</td><td><i>(ya)haɣ</i></td>
 <td>
-(ADV) '<span>up here</span>'</td>
+[ADV] '<span>up here</span>'</td>
 </tr>
 <tr>
 <td>NCal</td><td>Iaai</td><td><i>(e)ðə̄</i></td>
 <td>
-(ADV) '<span>upward, inland</span>'</td>
+[ADV] '<span>upward, inland</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Kiribatese</td><td><i>rake</i></td>
@@ -6894,27 +6892,27 @@ The meanings of the items listed below overlap substantially with reflexes of th
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>ðake</i></td>
 <td>
-(DIR) '<span>upwards</span>'</td>
+[DIR] '<span>upwards</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>ðake</i></td>
 <td>
-(N LOC) '<span>up, above</span>'</td>
+[N LOC] '<span>up, above</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>ha-hake</i></td>
 <td>
-'<span>east</span>'; (ADJ) '<span>eastern</span>'</td>
+[N] '<span>east</span>'; [ADJ] '<span>eastern</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Samoan</td><td><i>sa-saʔe</i></td>
 <td>
-(N LOC) '<span>east</span>'</td>
+[N LOC] '<span>east</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Samoan</td><td><i>(ŋā-ŋ)aʔe</i></td>
 <td>
-(ADV) '<span>eastward</span>'</td>
+[ADV] '<span>eastward</span>'</td>
 </tr>
 </table>
 
@@ -7049,7 +7047,7 @@ Also reconstructable is the POc form _&ast;ma_, reflected in WOc and CEOc langua
 <i>&ast;mai, ma</i>
 </td>
 <td>
-'<span>come</span>'; (DIR) '<span>towards speaker</span>'</td>
+'<span>come</span>'; [DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Mussau</td><td><i>mae</i></td>
@@ -7064,12 +7062,12 @@ Also reconstructable is the POc form _&ast;ma_, reflected in WOc and CEOc langua
 <tr>
 <td>Adm</td><td>Loniu</td><td><i>-mɛ</i></td>
 <td>
-'<span>come</span>'; (DIR) '<span>towards speaker</span>'</td>
+'<span>come</span>'; [DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Aua</td><td><i>-mai</i></td>
 <td>
-(DIR) '<span>towards speaker</span>'</td>
+[DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Mangap</td><td><i>-ma</i></td>
@@ -7109,7 +7107,7 @@ Also reconstructable is the POc form _&ast;ma_, reflected in WOc and CEOc langua
 <tr>
 <td>NNG</td><td>Manam</td><td><i>mai</i></td>
 <td>
-'<span>move towards speaker from neither up nor down</span>'; (DIR) '<span>towards speaker</span>'</td>
+'<span>move towards speaker from neither up nor down</span>'; [DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Kairiru</td><td><i>-myai</i></td>
@@ -7119,7 +7117,7 @@ Also reconstructable is the POc form _&ast;ma_, reflected in WOc and CEOc langua
 <tr>
 <td>SJ</td><td>Sobei</td><td><i>-(e)ma</i></td>
 <td>
-(DIR) '<span>towards speaker</span>'</td>
+[DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
 <td>SJ</td><td>Sobei</td><td><i>-ma</i></td>
@@ -7129,7 +7127,7 @@ Also reconstructable is the POc form _&ast;ma_, reflected in WOc and CEOc langua
 <tr>
 <td>PT</td><td>Tawala</td><td><i>mai</i></td>
 <td>
-(DIR) '<span>towards speaker</span>'</td>
+[DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td>Gumawana</td><td><i>-ma</i></td>
@@ -7139,12 +7137,12 @@ Also reconstructable is the POc form _&ast;ma_, reflected in WOc and CEOc langua
 <tr>
 <td>PT</td><td>Sariba</td><td><i>ma</i></td>
 <td>
-(DIR) '<span>hither</span>'</td>
+[DIR] '<span>hither</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td>Sudest</td><td><i>ma</i></td>
 <td>
-(DIR) '<span>towards speaker</span>'</td>
+[DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td>Sinaugoro</td><td><i>(iaɣo)ma</i></td>
@@ -7154,7 +7152,7 @@ Also reconstructable is the POc form _&ast;ma_, reflected in WOc and CEOc langua
 <tr>
 <td>PT</td><td>Sinaugoro</td><td><i>-ma</i></td>
 <td>
-(preverbal clitic) '<span>near speaker</span>'</td>
+[preverbal clitic] '<span>near speaker</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td>Sinaugoro</td><td><i>-ma(riɣo)</i></td>
@@ -7179,7 +7177,7 @@ Also reconstructable is the POc form _&ast;ma_, reflected in WOc and CEOc langua
 <tr>
 <td>MM</td><td>Bulu</td><td><i>mai</i></td>
 <td>
-(DIR) '<span>towards speaker</span>'</td>
+[DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Bola (Harua)</td><td><i>mai</i></td>
@@ -7197,7 +7195,7 @@ Also reconstructable is the POc form _&ast;ma_, reflected in WOc and CEOc langua
 '<span>come</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Halia</td><td><i>(la)ma</i></td>
+<td>MM</td><td>Selau</td><td><i>(la)ma</i></td>
 <td>
 '<span>come</span>'</td>
 </tr>
@@ -7214,7 +7212,7 @@ Also reconstructable is the POc form _&ast;ma_, reflected in WOc and CEOc langua
 <tr>
 <td>MM</td><td>Banoni</td><td><i>ma</i></td>
 <td>
-(DIR) '<span>towards speaker</span>'</td>
+[DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Banoni</td><td><i>(tai)ma</i></td>
@@ -7229,7 +7227,7 @@ Also reconstructable is the POc form _&ast;ma_, reflected in WOc and CEOc langua
 <tr>
 <td>MM</td><td>Babatana</td><td><i>me</i></td>
 <td>
-(DIR) '<span>towards speaker</span>'</td>
+[DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Hoava</td><td><i>mae</i></td>
@@ -7244,22 +7242,22 @@ Also reconstructable is the POc form _&ast;ma_, reflected in WOc and CEOc langua
 <tr>
 <td>SES</td><td>Bugotu</td><td><i>mai</i></td>
 <td>
-'<span>come</span>'; (DIR) '<span>towards speaker</span>'</td>
+'<span>come</span>'; [DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Gela</td><td><i>mai</i></td>
 <td>
-'<span>come</span>'; (DIR) '<span>towards speaker</span>'</td>
+'<span>come</span>'; [DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Longgu</td><td><i>mai</i></td>
 <td>
-(DIR) '<span>towards speaker</span>'</td>
+[DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Kwaio</td><td><i>mai</i></td>
 <td>
-(DIR) '<span>towards speaker</span>'</td>
+[DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Kwaio</td><td><i>(leka)mai</i></td>
@@ -7269,22 +7267,22 @@ Also reconstructable is the POc form _&ast;ma_, reflected in WOc and CEOc langua
 <tr>
 <td>NCV</td><td>Mwotlap</td><td><i>mɛ</i></td>
 <td>
-(DIR) '<span>towards speaker</span>'</td>
+[DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Ambae</td><td><i>-mai, -mei, -ai</i></td>
 <td>
-(DIR) '<span>towards speaker</span>'</td>
+[DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Merei</td><td><i>ma</i></td>
 <td>
-(DIR) '<span>towards addressee</span>'</td>
+[DIR] '<span>towards addressee</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Araki</td><td><i>ma</i></td>
 <td>
-(DIR) '<span>towards speaker</span>'</td>
+[DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Tamambo</td><td><i>mai</i></td>
@@ -7304,12 +7302,12 @@ Also reconstructable is the POc form _&ast;ma_, reflected in WOc and CEOc langua
 <tr>
 <td>SV</td><td>Sye</td><td><i>(-mpe-lo-)m</i></td>
 <td>
-(DIR) '<span>towards speaker</span>'</td>
+[DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
 <td>SV</td><td>Anejom</td><td><i>-(pa)m</i></td>
 <td>
-(DIR) '<span>towards speaker</span>' (<span><em>pan</em> ‘away from speaker’</span>)</td>
+[DIR] '<span>towards speaker</span>' (<span><em>pan</em> ‘away from speaker’</span>)</td>
 </tr>
 <tr>
 <td>SV</td><td>Anejom</td><td><i>(ha)m, (apa)m</i></td>
@@ -7319,7 +7317,7 @@ Also reconstructable is the POc form _&ast;ma_, reflected in WOc and CEOc langua
 <tr>
 <td>NCal</td><td>Nêlêmwâ</td><td><i>me</i></td>
 <td>
-(DIR) '<span>towards speaker</span>'</td>
+[DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
 <td>NCal</td><td>Nêlêmwâ</td><td><i>ō-me</i></td>
@@ -7329,22 +7327,22 @@ Also reconstructable is the POc form _&ast;ma_, reflected in WOc and CEOc langua
 <tr>
 <td>NCal</td><td>Nyelâyu</td><td><i>-me</i></td>
 <td>
-(DIR) '<span>towards speaker</span>'</td>
+[DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
 <td>NCal</td><td>Xârâcùù</td><td><i>mɛ̃</i></td>
 <td>
-(DEM) '<span>near speaker</span>'</td>
+[DEM] '<span>near speaker</span>'</td>
 </tr>
 <tr>
 <td>NCal</td><td>Iaai</td><td><i>(jē)m</i></td>
 <td>
-(DIR) '<span>towards speaker</span>'</td>
+[DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Kosraean</td><td><i>-ma</i></td>
 <td>
-(DIR) '<span>towards speaker</span>'</td>
+[DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Kiribatese</td><td><i>mai</i></td>
@@ -7354,37 +7352,37 @@ Also reconstructable is the POc form _&ast;ma_, reflected in WOc and CEOc langua
 <tr>
 <td>Fij</td><td>Nadroga</td><td><i>mā, mei</i></td>
 <td>
-(DIR) '<span>towards speaker</span>'</td>
+[DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>mai</i></td>
 <td>
-(DIR) '<span>towards speaker</span>'</td>
+[DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>mai</i></td>
 <td>
-(DIR) '<span>towards speaker</span>'</td>
+[DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Boumaa</td><td><i>mai</i></td>
 <td>
-(DIR) '<span>towards speaker</span>'</td>
+[DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>mai</i></td>
 <td>
-'<span>come</span>'; (DIR) '<span>towards speaker</span>'</td>
+'<span>come</span>'; [DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Samoan</td><td><i>mai</i></td>
 <td>
-(DIR) '<span>towards speaker</span>'</td>
+[DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Marquesan</td><td><i>mai</i></td>
 <td>
-(DIR) '<span>towards speaker</span>'</td>
+[DIR] '<span>towards speaker</span>'</td>
 </tr>
 </table>
 
@@ -7405,42 +7403,42 @@ In a number of languages POc _&ast;mai_/_&ast;ma_ is reflected as a preposition 
 <i>&ast;mai, ma</i>
 </td>
 <td>
-'<span>come</span>'; (DIR) '<span>towards speaker</span>'</td>
+'<span>come</span>'; [DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td>Tawala</td><td><i>mei</i></td>
 <td>
-(PREP) '<span>like, resembling</span>'</td>
+[PREP] '<span>like, resembling</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Meramera</td><td><i>maʔ-</i></td>
 <td>
-(R-)  (<span>ablative</span>)</td>
+[R-]  (<span>ablative</span>)</td>
 </tr>
 <tr>
 <td>MM</td><td>Lamasong</td><td><i>ma-</i></td>
 <td>
-(R-)  (<span>ablative</span>)</td>
+[R-]  (<span>ablative</span>)</td>
 </tr>
 <tr>
 <td>MM</td><td>Madak</td><td><i>me-</i></td>
 <td>
-(R-)  (<span>ablative</span>)</td>
+[R-]  (<span>ablative</span>)</td>
 </tr>
 <tr>
 <td>MM</td><td>Barok</td><td><i>mu-</i></td>
 <td>
-(R-)  (<span>ablative</span>)</td>
+[R-]  (<span>ablative</span>)</td>
 </tr>
 <tr>
 <td>MM</td><td>Konomala</td><td><i>mə</i></td>
 <td>
-(R)  (<span>ablative</span>)</td>
+[R]  (<span>ablative</span>)</td>
 </tr>
 <tr>
 <td>MM</td><td>Patpatar</td><td><i>ma-</i></td>
 <td>
-(R-)  (<span>ablative</span>)</td>
+[R-]  (<span>ablative</span>)</td>
 </tr>
 <tr>
 <td>MM</td><td>Patpatar</td><td><i>ma</i></td>
@@ -7450,12 +7448,12 @@ In a number of languages POc _&ast;mai_/_&ast;ma_ is reflected as a preposition 
 <tr>
 <td>MM</td><td>Label</td><td><i>mi-</i></td>
 <td>
-(R-)  (<span>ablative</span>)</td>
+[R-]  (<span>ablative</span>)</td>
 </tr>
 <tr>
 <td>MM</td><td>Tolai</td><td><i>ma-, ma-ma-</i></td>
 <td>
-(R-)  (<span>ablative</span>)</td>
+[R-]  (<span>ablative</span>)</td>
 </tr>
 <tr>
 <td>SES</td><td>Longgu</td><td><i>mi</i></td>
@@ -7465,7 +7463,7 @@ In a number of languages POc _&ast;mai_/_&ast;ma_ is reflected as a preposition 
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>mai</i></td>
 <td>
-(PREP)  (<span>ablative</span>)</td>
+[PREP]  (<span>ablative</span>)</td>
 </tr>
 </table>
 
@@ -7480,7 +7478,7 @@ One other POc morpheme with the same meanings as _&ast;mai_ may be reconstructab
 <i>&ast;pʷati</i>
 </td>
 <td>
-'<span>come</span>'; (DIR) '<span>towards speaker</span>'</td>
+'<span>come</span>'; [DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Wogeo</td><td><i>(e)wot</i></td>
@@ -7549,17 +7547,17 @@ Some of the reflexes of _&ast;ua_ can be confused with those of POc _&ast;pa_ an
 <i>&ast;ua</i>
 </td>
 <td>
-'<span>go towards addressee</span>'; (DIR) '<span>towards addressee</span>'</td>
+'<span>go towards addressee</span>'; [DIR] '<span>towards addressee</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Seimat</td><td><i>-wa</i></td>
 <td>
-(DIR) '<span>away from speaker</span>'</td>
+[DIR] '<span>away from speaker</span>'</td>
 </tr>
 <tr>
 <td>SJ</td><td>Sobei</td><td><i>-(e)wo</i></td>
 <td>
-(DIR) '<span>away from speaker</span>'</td>
+[DIR] '<span>away from speaker</span>'</td>
 </tr>
 <tr>
 <td>SJ</td><td>Sobei</td><td><i>-wo</i></td>
@@ -7569,12 +7567,12 @@ Some of the reflexes of _&ast;ua_ can be confused with those of POc _&ast;pa_ an
 <tr>
 <td>PT</td><td>Gumawana</td><td><i>-wo</i></td>
 <td>
-(DIR) '<span>towards addressee</span>'</td>
+[DIR] '<span>towards addressee</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td>Sariba</td><td><i>-wa</i></td>
 <td>
-(DIR) '<span>thither</span>'</td>
+[DIR] '<span>thither</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td>Kilivila</td><td><i>-wa</i></td>
@@ -7584,7 +7582,7 @@ Some of the reflexes of _&ast;ua_ can be confused with those of POc _&ast;pa_ an
 <tr>
 <td>PT</td><td>Sudest</td><td><i>-wo</i></td>
 <td>
-(DIR) '<span>away from speaker</span>'</td>
+[DIR] '<span>away from speaker</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td>Sudest</td><td><i>wa</i></td>
@@ -7594,7 +7592,7 @@ Some of the reflexes of _&ast;ua_ can be confused with those of POc _&ast;pa_ an
 <tr>
 <td>PT</td><td>Lala</td><td><i>-ovo</i></td>
 <td>
-(DIR) '<span>away</span>'</td>
+[DIR] '<span>away</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Bali</td><td><i>ua</i></td>
@@ -7604,23 +7602,23 @@ Some of the reflexes of _&ast;ua_ can be confused with those of POc _&ast;pa_ an
 <tr>
 <td>MM</td><td>Tolai</td><td><i>vue</i></td>
 <td>
-(DIR) '<span>away</span>'</td>
+[DIR] '<span>away</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Halia</td><td><i>wa</i></td>
 <td>
-(DIR) '<span>towards (a specified destination)</span>' (<a href="../references.md#source-Ross1982">Ross1982: 44–45</a>)
+[DIR] '<span>towards (a specified destination)</span>' (<a href="../references.md#source-Ross1982">Ross1982: 44–45</a>)
 </td>
 </tr>
 <tr>
 <td>Fij</td><td>Nadroga</td><td><i>wā</i></td>
 <td>
-(DIR) '<span>thither</span>'</td>
+[DIR] '<span>thither</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>ā</i></td>
 <td>
-(DIR) '<span>thither</span>'</td>
+[DIR] '<span>thither</span>'</td>
 </tr>
 </table>
 
@@ -7635,12 +7633,12 @@ In a number of languages POc _&ast;ua_ is reflected as a preposition or a relato
 <i>&ast;ua</i>
 </td>
 <td>
-'<span>go towards addressee</span>'; (DIR) '<span>towards addressee</span>'</td>
+'<span>go towards addressee</span>'; [DIR] '<span>towards addressee</span>'</td>
 </tr>
 <tr>
 <td>Yap</td><td>Yapese</td><td><i>u</i></td>
 <td>
-(PREP)  (<span>locative, ablative</span>)</td>
+[PREP]  (<span>locative, ablative</span>)</td>
 </tr>
 <tr>
 <td>PT</td><td>Tawala</td><td><i>u</i></td>
@@ -7655,7 +7653,7 @@ In a number of languages POc _&ast;ua_ is reflected as a preposition or a relato
 <tr>
 <td>PT</td><td>Muyuw</td><td><i>u, wa</i></td>
 <td>
-(PREP)  (<span>locative, allative</span>)</td>
+[PREP]  (<span>locative, allative</span>)</td>
 </tr>
 <tr>
 <td>MM</td><td>Bulu</td><td><i>o</i></td>
@@ -7670,42 +7668,42 @@ In a number of languages POc _&ast;ua_ is reflected as a preposition or a relato
 <tr>
 <td>MM</td><td>Meramera</td><td><i>u-</i></td>
 <td>
-(R-)  (<span>allative</span>)</td>
+[R-]  (<span>allative</span>)</td>
 </tr>
 <tr>
 <td>MM</td><td>Lamasong</td><td><i>u-</i></td>
 <td>
-(R-)  (<span>allative</span>)</td>
+[R-]  (<span>allative</span>)</td>
 </tr>
 <tr>
 <td>MM</td><td>Madak</td><td><i>u-</i></td>
 <td>
-(R-)  (<span>allative</span>)</td>
+[R-]  (<span>allative</span>)</td>
 </tr>
 <tr>
 <td>MM</td><td>Barok</td><td><i>u-</i></td>
 <td>
-(R-)  (<span>allative</span>)</td>
+[R-]  (<span>allative</span>)</td>
 </tr>
 <tr>
 <td>MM</td><td>Sursurunga</td><td><i>u(r)</i></td>
 <td>
-(R)  (<span>allative</span>)</td>
+[R]  (<span>allative</span>)</td>
 </tr>
 <tr>
 <td>MM</td><td>Tangga</td><td><i>ua, u</i></td>
 <td>
-(R)  (<span>allative; <em>ua w</em> DEM, <em>u</em> elsewhere</span>)</td>
+[R]  (<span>allative; <em>ua w</em> DEM, <em>u</em> elsewhere</span>)</td>
 </tr>
 <tr>
 <td>MM</td><td>Konomala</td><td><i>uə</i></td>
 <td>
-(R)  (<span>allative</span>)</td>
+[R]  (<span>allative</span>)</td>
 </tr>
 <tr>
 <td>MM</td><td>Patpatar</td><td><i>u-</i></td>
 <td>
-(R-)  (<span>allative</span>)</td>
+[R-]  (<span>allative</span>)</td>
 </tr>
 <tr>
 <td>MM</td><td>Patpatar</td><td><i>u</i></td>
@@ -7715,12 +7713,12 @@ In a number of languages POc _&ast;ua_ is reflected as a preposition or a relato
 <tr>
 <td>MM</td><td>Label</td><td><i>u-</i></td>
 <td>
-(R-)  (<span>allative</span>)</td>
+[R-]  (<span>allative</span>)</td>
 </tr>
 <tr>
 <td>MM</td><td>Kandas</td><td><i>u-</i></td>
 <td>
-(R-)  (<span>allative</span>)</td>
+[R-]  (<span>allative</span>)</td>
 </tr>
 <tr>
 <td>MM</td><td>Kandas</td><td><i>u</i></td>
@@ -7730,32 +7728,32 @@ In a number of languages POc _&ast;ua_ is reflected as a preposition or a relato
 <tr>
 <td>MM</td><td>Ramoaaina</td><td><i>u-</i></td>
 <td>
-(R-)  (<span>allative</span>)</td>
+[R-]  (<span>allative</span>)</td>
 </tr>
 <tr>
 <td>MM</td><td>Ramoaaina</td><td><i>u</i></td>
 <td>
-(PREP)  (<span>locative, allative</span>)</td>
+[PREP]  (<span>locative, allative</span>)</td>
 </tr>
 <tr>
 <td>MM</td><td>Minigir</td><td><i>u-</i></td>
 <td>
-(R-)  (<span>allative</span>)</td>
+[R-]  (<span>allative</span>)</td>
 </tr>
 <tr>
 <td>MM</td><td>Tolai</td><td><i>u-</i></td>
 <td>
-(R-)  (<span>allative</span>)</td>
+[R-]  (<span>allative</span>)</td>
 </tr>
 <tr>
 <td>SES</td><td>Longgu</td><td><i>vu</i></td>
 <td>
-(R)  (<span>allative, towards</span>)</td>
+[R]  (<span>allative, towards</span>)</td>
 </tr>
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>vuā, vei</i></td>
 <td>
-(PREP)  (<span>locative, allative, dative, cause</span>)</td>
+[PREP]  (<span>locative, allative, dative, cause</span>)</td>
 </tr>
 </table>
 
@@ -7781,17 +7779,17 @@ Other reflexes of &ast;ua apparently occur as demonstratives in a number of lang
 <i>&ast;ua</i>
 </td>
 <td>
-'<span>go towards addressee</span>'; (DIR) '<span>towards addressee</span>'; (DEM) '<span>away from speaker</span>' (<span>anaphoric</span>)</td>
+'<span>go towards addressee</span>'; [DIR] '<span>towards addressee</span>'; [DEM] '<span>away from speaker</span>' (<span>anaphoric</span>)</td>
 </tr>
 <tr>
 <td>NNG</td><td>Lusi</td><td><i>(ɣe-ra)wa</i></td>
 <td>
-(LOC) '<span>away from speaker</span>'</td>
+[LOC] '<span>away from speaker</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Lusi</td><td><i>(ne-dua)wa</i></td>
 <td>
-(PRO) '<span>that one remote from speaker</span>' (<span>cf. <em>ne-dua</em> (PRO) ‘away from speaker’</span>)</td>
+[PRO] '<span>that one remote from speaker</span>' (<span>cf. <em>ne-dua</em> (PRO) ‘away from speaker’</span>)</td>
 </tr>
 <tr>
 <td>NNG</td><td>Bariai</td><td><i>oa</i></td>
@@ -7811,12 +7809,12 @@ Other reflexes of &ast;ua apparently occur as demonstratives in a number of lang
 <tr>
 <td>PT</td><td>Kilivila</td><td><i>-we</i></td>
 <td>
-(ADN AFFIX) '<span>away from speaker</span>'</td>
+[ADN AFFIX] '<span>away from speaker</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td>Lala</td><td><i>uʔa</i></td>
 <td>
-(PRO) </td>
+[PRO] </td>
 </tr>
 <tr>
 <td>Mic</td><td>Kosraean</td><td><i>æ</i></td>
@@ -7861,12 +7859,12 @@ Irregular loss of initial _&ast;w-_ is reflected in New Caledonian and Central P
 <i>&ast;watu</i>
 </td>
 <td>
-'<span>go towards addressee</span>'; (DIR) '<span>towards addressee</span>'</td>
+'<span>go towards addressee</span>'; [DIR] '<span>towards addressee</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Aua</td><td><i>-wau</i></td>
 <td>
-(DIR) '<span>away from speaker</span>'</td>
+[DIR] '<span>away from speaker</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Yabem</td><td><i>-wàʔ</i></td>
@@ -7891,37 +7889,37 @@ Irregular loss of initial _&ast;w-_ is reflected in New Caledonian and Central P
 <tr>
 <td>MM</td><td>Roviana</td><td><i>atu-atu</i></td>
 <td>
-(INTERJECTION)  (<span>implying movement away, of speaker or addressee</span>)</td>
+[INTERJECTION]  (<span>implying movement away, of speaker or addressee</span>)</td>
 </tr>
 <tr>
 <td>SES</td><td>Gela</td><td><i>(g)atu</i></td>
 <td>
-(DIR) '<span>away from speaker</span>'</td>
+[DIR] '<span>away from speaker</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Bugotu</td><td><i>atu</i></td>
 <td>
-(DIR) '<span>away from speaker</span>'</td>
+[DIR] '<span>away from speaker</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Kwaio</td><td><i>ka[ʔ]u</i></td>
 <td>
-(DIR) '<span>thither</span>'</td>
+[DIR] '<span>thither</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Lau</td><td><i>kou</i></td>
 <td>
-(DIR) '<span>away from speaker</span>'</td>
+[DIR] '<span>away from speaker</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Longgu</td><td><i>hou</i></td>
 <td>
-(DIR) '<span>thither</span>'</td>
+[DIR] '<span>thither</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Arosi</td><td><i>wou</i></td>
 <td>
-(DIR) '<span>thither</span>'</td>
+[DIR] '<span>thither</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Sa'a</td><td><i>wau</i></td>
@@ -7941,57 +7939,57 @@ Irregular loss of initial _&ast;w-_ is reflected in New Caledonian and Central P
 <tr>
 <td>NCal</td><td>Nemi</td><td><i>-ec</i></td>
 <td>
-(DIR) '<span>away from speaker</span>'</td>
+[DIR] '<span>away from speaker</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Kiribatese</td><td><i>wati</i></td>
 <td>
-(DIR) '<span>away, hence</span>'</td>
+[DIR] '<span>away, hence</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Kosraean</td><td><i>-ɔt</i></td>
 <td>
-(DIR) '<span>towards addressee</span>'</td>
+[DIR] '<span>towards addressee</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Marshallese</td><td><i>wac</i></td>
 <td>
-(DIR) '<span>towards addressee</span>'</td>
+[DIR] '<span>towards addressee</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Mokilese</td><td><i>-wɛ</i></td>
 <td>
-(DIR) '<span>towards addressee</span>'</td>
+[DIR] '<span>towards addressee</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Puluwatese</td><td><i>-waw</i></td>
 <td>
-(DIR) '<span>towards addressee</span>'</td>
+[DIR] '<span>towards addressee</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>ati</i></td>
 <td>
-(DIR) '<span>away from speaker towards addressee or elsewhere</span>'</td>
+[DIR] '<span>away from speaker towards addressee or elsewhere</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Nabukelevu</td><td><i>atu</i></td>
 <td>
-(DIR) '<span>outwards or away from speaker’s point of reference</span>'</td>
+[DIR] '<span>outwards or away from speaker’s point of reference</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>atu</i></td>
 <td>
-(DIR) '<span>away from speaker towards addressee or elsewhere; onward in time</span>'</td>
+[DIR] '<span>away from speaker towards addressee or elsewhere; onward in time</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Niuean</td><td><i>atu</i></td>
 <td>
-(DIR) '<span>away from speaker towards addressee</span>'</td>
+[DIR] '<span>away from speaker towards addressee</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Samoan</td><td><i>atu</i></td>
 <td>
-(DIR) '<span>away from speaker towards addressee</span>'</td>
+[DIR] '<span>away from speaker towards addressee</span>'</td>
 </tr>
 </table>
 
@@ -8023,12 +8021,12 @@ Just as POc _&ast;mai_ ‘come’ had a short form _&ast;ma_, so POc _&ast;lako_
 <i>&ast;lako, la</i>
 </td>
 <td>
-(V) '<span>go (to)</span>'; (DIR) '<span>away from speaker</span>'</td>
+[V] '<span>go (to)</span>'; [DIR] '<span>away from speaker</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Mussau</td><td><i>la</i></td>
 <td>
-(DIR) '<span>away from speaker</span>'</td>
+[DIR] '<span>away from speaker</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Mussau</td><td><i>lao</i></td>
@@ -8038,7 +8036,7 @@ Just as POc _&ast;mai_ ‘come’ had a short form _&ast;ma_, so POc _&ast;lako_
 <tr>
 <td>Adm</td><td>Loniu</td><td><i>-la</i></td>
 <td>
-(DIR) '<span>away from speaker</span>'</td>
+[DIR] '<span>away from speaker</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Loniu</td><td><i>-lɛ</i></td>
@@ -8063,7 +8061,7 @@ Just as POc _&ast;mai_ ‘come’ had a short form _&ast;ma_, so POc _&ast;lako_
 <tr>
 <td>NNG</td><td>Mangap</td><td><i>-sa-la</i></td>
 <td>
-(VF) '<span>ascend away from speaker</span>'</td>
+[VF] '<span>ascend away from speaker</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Sio</td><td><i>lɔ</i></td>
@@ -8078,7 +8076,7 @@ Just as POc _&ast;mai_ ‘come’ had a short form _&ast;ma_, so POc _&ast;lako_
 <tr>
 <td>NNG</td><td>Manam</td><td><i>laʔo</i></td>
 <td>
-(DIR) '<span>away from speaker</span>'</td>
+[DIR] '<span>away from speaker</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Manam</td><td><i>-la[ʔo]</i></td>
@@ -8098,7 +8096,7 @@ Just as POc _&ast;mai_ ‘come’ had a short form _&ast;ma_, so POc _&ast;lako_
 <tr>
 <td>PT</td><td>Gumawana</td><td><i>-na</i></td>
 <td>
-(DIR) '<span>away from speaker and addressee</span>'</td>
+[DIR] '<span>away from speaker and addressee</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td>Sariba</td><td><i>lao</i></td>
@@ -8113,7 +8111,7 @@ Just as POc _&ast;mai_ ‘come’ had a short form _&ast;ma_, so POc _&ast;lako_
 <tr>
 <td>PT</td><td>Sinaugoro</td><td><i>-a</i></td>
 <td>
-(preverbal clitic) '<span>away from speaker and addressee</span>'</td>
+[preverbal clitic] '<span>away from speaker and addressee</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td>Motu</td><td><i>la</i></td>
@@ -8133,7 +8131,7 @@ Just as POc _&ast;mai_ ‘come’ had a short form _&ast;ma_, so POc _&ast;lako_
 <tr>
 <td>MM</td><td>Banoni</td><td><i>nau</i></td>
 <td>
-(DIR) '<span>away from speaker</span>'</td>
+[DIR] '<span>away from speaker</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Torau</td><td><i>lao</i></td>
@@ -8143,7 +8141,7 @@ Just as POc _&ast;mai_ ‘come’ had a short form _&ast;ma_, so POc _&ast;lako_
 <tr>
 <td>MM</td><td>Babatana</td><td><i>ka</i></td>
 <td>
-(DIR) '<span>away from speaker</span>'</td>
+[DIR] '<span>away from speaker</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Hoava</td><td><i>la</i></td>
@@ -8188,7 +8186,7 @@ Just as POc _&ast;mai_ ‘come’ had a short form _&ast;ma_, so POc _&ast;lako_
 <tr>
 <td>NCal</td><td>Cèmuhî</td><td><i>-lɛ</i></td>
 <td>
-(DIR) '<span>away from speaker</span>'</td>
+[DIR] '<span>away from speaker</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Kiribatese</td><td><i>nako</i></td>
@@ -8198,32 +8196,32 @@ Just as POc _&ast;mai_ ‘come’ had a short form _&ast;ma_, so POc _&ast;lako_
 <tr>
 <td>Mic</td><td>Kosraean</td><td><i>-læ</i></td>
 <td>
-(DIR) '<span>away from speaker</span>'</td>
+[DIR] '<span>away from speaker</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Marshallese</td><td><i>lᶭɒk</i></td>
 <td>
-(DIR) '<span>away from speaker</span>'</td>
+[DIR] '<span>away from speaker</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Mokilese</td><td><i>-la</i></td>
 <td>
-(DIR) '<span>away from speaker</span>'</td>
+[DIR] '<span>away from speaker</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Puluwatese</td><td><i>-lɔ</i></td>
 <td>
-(DIR) '<span>away, south</span>'</td>
+[DIR] '<span>away, south</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Woleaian</td><td><i>rax</i></td>
 <td>
-(DIR) '<span>away from speaker</span>'</td>
+[DIR] '<span>away from speaker</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Ulithian</td><td><i>loxo</i></td>
 <td>
-(DIR) '<span>away from speaker</span>'</td>
+[DIR] '<span>away from speaker</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>lako</i></td>
@@ -8309,7 +8307,7 @@ As noted in §3.3, some reflexes of POc _&ast;pano_ indicate that it was also a 
 <i>&ast;pano</i>
 </td>
 <td>
-'<span>go away</span>'; (DIR) '<span>away from speaker</span>'; '<span>move in a transverse direction</span>'</td>
+'<span>go away</span>'; [DIR] '<span>away from speaker</span>'; '<span>move in a transverse direction</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Vitu</td><td><i>vano</i></td>
@@ -8324,7 +8322,7 @@ As noted in §3.3, some reflexes of POc _&ast;pano_ indicate that it was also a 
 <tr>
 <td>SES</td><td>Bugotu</td><td><i>vano</i></td>
 <td>
-'<span>go, come</span>'; (DIR) '<span>thither</span>'; '<span>beyond, more</span>' (<span>used in comparisons</span>)</td>
+'<span>go, come</span>'; [DIR] '<span>thither</span>'; '<span>beyond, more</span>' (<span>used in comparisons</span>)</td>
 </tr>
 <tr>
 <td>SES</td><td>Gela</td><td><i>vano</i></td>
@@ -8344,7 +8342,7 @@ As noted in §3.3, some reflexes of POc _&ast;pano_ indicate that it was also a 
 <tr>
 <td>NCV</td><td>Mwotlap</td><td><i>van</i></td>
 <td>
-(DIR) '<span>thither</span>'</td>
+[DIR] '<span>thither</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Ambae</td><td><i>vano</i></td>
@@ -8364,17 +8362,17 @@ As noted in §3.3, some reflexes of POc _&ast;pano_ indicate that it was also a 
 <tr>
 <td>NCV</td><td>Lonwolwol</td><td><i>van</i></td>
 <td>
-'<span>go, pass (and so also of time); continue (to do s.t.)</span>'; (DIR) '<span>away</span>'</td>
+'<span>go, pass (and so also of time); continue (to do s.t.)</span>'; [DIR] '<span>away</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>S.E. Ambrym</td><td><i>haen</i></td>
 <td>
-(N) '<span>going, departure</span>'</td>
+[N] '<span>going, departure</span>'</td>
 </tr>
 <tr>
 <td>SV</td><td>Lenakel</td><td><i>-pən</i></td>
 <td>
-(DIR) '<span>distant</span>'</td>
+[DIR] '<span>distant</span>'</td>
 </tr>
 <tr>
 <td>SV</td><td>Lenakel</td><td><i>vən, (a)vən</i></td>
@@ -8384,7 +8382,7 @@ As noted in §3.3, some reflexes of POc _&ast;pano_ indicate that it was also a 
 <tr>
 <td>SV</td><td>Anejom</td><td><i>-pan</i></td>
 <td>
-(DIR) '<span>away from speaker</span>'</td>
+[DIR] '<span>away from speaker</span>'</td>
 </tr>
 <tr>
 <td>SV</td><td>Anejom</td><td><i>han, (a)pan</i></td>
@@ -8394,7 +8392,7 @@ As noted in §3.3, some reflexes of POc _&ast;pano_ indicate that it was also a 
 <tr>
 <td>NCal</td><td>Nêlêmwâ</td><td><i>ve</i></td>
 <td>
-(DIR) '<span>in a transverse direction</span>'</td>
+[DIR] '<span>in a transverse direction</span>'</td>
 </tr>
 <tr>
 <td>NCal</td><td>Nêlêmwâ</td><td><i>o</i></td>
@@ -8404,7 +8402,7 @@ As noted in §3.3, some reflexes of POc _&ast;pano_ indicate that it was also a 
 <tr>
 <td>NCal</td><td>Nyelâyu</td><td><i>-van</i></td>
 <td>
-(DIR) '<span>in a transverse direction</span>'</td>
+[DIR] '<span>in a transverse direction</span>'</td>
 </tr>
 <tr>
 <td>NCal</td><td>Nyelâyu</td><td><i>van</i></td>
@@ -8414,7 +8412,7 @@ As noted in §3.3, some reflexes of POc _&ast;pano_ indicate that it was also a 
 <tr>
 <td>NCal</td><td>Nemi</td><td><i>en</i></td>
 <td>
-(DIR) '<span>in a transverse direction</span>'</td>
+[DIR] '<span>in a transverse direction</span>'</td>
 </tr>
 <tr>
 <td>NCal</td><td>Nemi</td><td><i>hen</i></td>
@@ -8429,12 +8427,12 @@ As noted in §3.3, some reflexes of POc _&ast;pano_ indicate that it was also a 
 <tr>
 <td>NCal</td><td>Xârâcùù</td><td><i>fɛ</i></td>
 <td>
-(DEM) '<span>away from speaker</span>'</td>
+[DEM] '<span>away from speaker</span>'</td>
 </tr>
 <tr>
 <td>NCal</td><td>Iaai</td><td><i>hããŋ</i></td>
 <td>
-(DIR) '<span>away from speaker crosswise</span>'</td>
+[DIR] '<span>away from speaker crosswise</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Niuean</td><td><i>fano</i></td>
@@ -8479,7 +8477,7 @@ POc _&ast;pano_ evidently had a short form _&ast;pa_, giving a pair analogous to
 <i>&ast;pa</i>
 </td>
 <td>
-'<span>go away; move in a transverse direction</span>'; (V AUX) '<span>go and …</span>'</td>
+'<span>go away; move in a transverse direction</span>'; [V AUX] '<span>go and …</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Lukep (Pono)</td><td><i>pa</i></td>
@@ -8499,17 +8497,17 @@ POc _&ast;pano_ evidently had a short form _&ast;pa_, giving a pair analogous to
 <tr>
 <td>PT</td><td>Motu</td><td><i>ha</i></td>
 <td>
-(V AUX) '<span>go and …</span>'</td>
+[V AUX] '<span>go and …</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Gela</td><td><i>va</i></td>
 <td>
-(V AUX) '<span>be going to …</span>'</td>
+[V AUX] '<span>be going to …</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Mota</td><td><i>va</i></td>
 <td>
-'<span>go, come</span>'; (V AUX) '<span>go on …-ing</span>'</td>
+'<span>go, come</span>'; [V AUX] '<span>go on …-ing</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Araki</td><td><i>v̈a</i></td>
@@ -8539,7 +8537,7 @@ POc _&ast;pano_ evidently had a short form _&ast;pa_, giving a pair analogous to
 <tr>
 <td>SV</td><td>Sye</td><td><i>-mpe</i></td>
 <td>
-(DIR) '<span>away from speaker</span>'</td>
+[DIR] '<span>away from speaker</span>'</td>
 </tr>
 <tr>
 <td>SV</td><td>Sye</td><td><i>-ve</i></td>
@@ -8611,12 +8609,12 @@ Functionally and semantically the members of the small cognate set below resembl
 <i>&ast;[y]aku</i>
 </td>
 <td>
-'<span>go (to)</span>'; (DIR) '<span>away from speaker</span>'</td>
+'<span>go (to)</span>'; [DIR] '<span>away from speaker</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Loniu</td><td><i>yaw</i></td>
 <td>
-(DIR) '<span>away</span>'</td>
+[DIR] '<span>away</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Kele</td><td><i>aw</i></td>
@@ -8653,12 +8651,12 @@ POc _&ast;tani_ was a prepositional verb, reconstructed by [Pawley](../reference
 <i>&ast;tani</i>
 </td>
 <td>
-(PREPV) '<span>(go) away from</span>'</td>
+[PREPV] '<span>(go) away from</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td>Motu</td><td><i>tani</i></td>
 <td>
-(PREPV) '<span>away from</span>'</td>
+[PREPV] '<span>away from</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td>Mekeo</td><td><i>-ani</i></td>
@@ -8668,27 +8666,27 @@ POc _&ast;tani_ was a prepositional verb, reconstructed by [Pawley](../reference
 <tr>
 <td>NCV</td><td>Merlav</td><td><i>dani-</i></td>
 <td>
-(PREPV) '<span>away from</span>'</td>
+[PREPV] '<span>away from</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Ambae</td><td><i>dene</i></td>
 <td>
-(PREPV) '<span>away from</span>'</td>
+[PREPV] '<span>away from</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Sesake</td><td><i>deni-</i></td>
 <td>
-(PREPV) '<span>away from</span>'</td>
+[PREPV] '<span>away from</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>tani</i></td>
 <td>
-(DIR) '<span>away, elsewhere</span>'</td>
+[DIR] '<span>away, elsewhere</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Boumaa</td><td><i>tani</i></td>
 <td>
-(DIR) '<span>away</span>'</td>
+[DIR] '<span>away</span>'</td>
 </tr>
 </table>
 

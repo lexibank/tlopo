@@ -1,6 +1,4 @@
-# Green vegetables and figs
-
-by Malcolm Ross
+[Malcolm Ross](.smallcaps)
 
 
 <a id="s-1"></a>
@@ -47,15 +45,6 @@ POc _&ast;wasa_ primarily denoted A. manihot, evidently the most salient and com
 </td>
 <td>
 '<span>Abelmoschus manihot; green vegetables in general</span>' (<a href="../references.md#source-FrenchWright1983">FrenchWright1983</a>)
-</td>
-</tr>
-<tr>
-<td><strong>PSV</strong></td><td> </td>
-<td>
-<i>&ast;nə-was</i>
-</td>
-<td>
-'<span>Abelmoschus manihot</span>' (<a href="../references.md#source-Lynch2001c">Lynch2001c</a>)
 </td>
 </tr>
 <tr>
@@ -123,6 +112,15 @@ POc _&ast;wasa_ primarily denoted A. manihot, evidently the most salient and com
 <td>NCV</td><td>Mota</td><td><i>as</i></td>
 <td>
 '<span>a convolvulus, Ipomoea sp.</span>'</td>
+</tr>
+<tr>
+<td><strong>PSV</strong></td><td> </td>
+<td>
+<i>&ast;nə-was</i>
+</td>
+<td>
+'<span>Abelmoschus manihot</span>' (<a href="../references.md#source-Lynch2001c">Lynch2001c</a>)
+</td>
 </tr>
 <tr>
 <td>SV</td><td>Kwamera</td><td><i>nu-vas</i></td>
@@ -592,17 +590,17 @@ Among the many ferns eaten in Melanesia, there is just one tree-fern genus for w
 '<span>tree fern, Cycas or Cyathea sp.</span>'</td>
 </tr>
 <tr>
+<td>NNG</td><td>Kove</td><td><i>va-vala</i></td>
+<td>
+'<span>cycad</span>'</td>
+</tr>
+<tr>
 <td><strong>ProtoRemoteOceanic</strong></td><td> </td>
 <td>
 <i>&ast;(b,bʷ)ala</i>
 </td>
 <td>
 '<span>Cyathea sp.</span>'</td>
-</tr>
-<tr>
-<td>NNG</td><td>Kove</td><td><i>va-vala</i></td>
-<td>
-'<span>cycad</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Nguna</td><td><i>na-pʷala</i></td>
@@ -930,22 +928,6 @@ It is probable that _&ast;qayawan_ denoted a strangler fig taxon. The Gedaged, K
 </td>
 </tr>
 <tr>
-<td><strong>PCP</strong></td><td> </td>
-<td>
-<i>&ast;qayawa</i>
-</td>
-<td>
-'<span>Ficus spp.</span>'</td>
-</tr>
-<tr>
-<td><strong>PPn</strong></td><td> </td>
-<td>
-<i>&ast;qawa</i>
-</td>
-<td>
-'<span>banyan tree, Ficus prolixa (?)</span>'</td>
-</tr>
-<tr>
 <td>Adm</td><td>Wuvulu</td><td><i>aiwa</i></td>
 <td>
 '<span>banyan tree</span>'</td>
@@ -1068,6 +1050,14 @@ It is probable that _&ast;qayawan_ denoted a strangler fig taxon. The Gedaged, K
 </td>
 </tr>
 <tr>
+<td><strong>PCP</strong></td><td> </td>
+<td>
+<i>&ast;qayawa</i>
+</td>
+<td>
+'<span>Ficus spp.</span>'</td>
+</tr>
+<tr>
 <td>Fij</td><td>Bauan</td><td><i>yaðawa</i></td>
 <td>
 '<span>banyan tree, Ficus sp.</span>'</td>
@@ -1081,6 +1071,14 @@ It is probable that _&ast;qayawan_ denoted a strangler fig taxon. The Gedaged, K
 <td>Fij</td><td>Rotuman</td><td><i>äeva</i></td>
 <td>
 '<span>banyan tree</span>'</td>
+</tr>
+<tr>
+<td><strong>PPn</strong></td><td> </td>
+<td>
+<i>&ast;qawa</i>
+</td>
+<td>
+'<span>banyan tree, Ficus prolixa (?)</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>ʔovava</i></td>
@@ -1190,14 +1188,6 @@ The items under 'cf. also' are probably not cognate. Three of them point to a te
 '<span>banyan tree, medium-sized Ficus spp., not stranglers</span>' (<span>Biggs 1965: *baka; Ross 1996d</span>)</td>
 </tr>
 <tr>
-<td><strong>ProtoRemoteOceanic</strong></td><td> </td>
-<td>
-<i>&ast;baga</i>
-</td>
-<td>
-'<span>Ficus spp.; generic for Ficus?</span>'</td>
-</tr>
-<tr>
 <td>MM</td><td>Sursurunga</td><td><i>pak</i></td>
 <td>
 '<span>tree sp.</span>'</td>
@@ -1217,6 +1207,14 @@ The items under 'cf. also' are probably not cognate. Three of them point to a te
 <td>
 '<span>Ficus wassa</span>' (<a href="../references.md#source-HendersonandHancock1988">HendersonandHancock1988: 125</a>)
 </td>
+</tr>
+<tr>
+<td><strong>ProtoRemoteOceanic</strong></td><td> </td>
+<td>
+<i>&ast;baga</i>
+</td>
+<td>
+'<span>Ficus spp.; generic for Ficus?</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Mota</td><td><i>paka</i></td>
@@ -1328,16 +1326,16 @@ cf. also:
 <tr>
 <td>Adm</td>
 <td>Mussau</td>
-<td><i>baga(laim)</i></td>
+<td><i>paka</i></td>
 <td>
-'<span>large variety of Malay apple, Syzygium gomata</span>'</td>
+'<span>Terminalia catappa</span>'</td>
 </tr>
 <tr>
 <td>Adm</td>
 <td>Mussau</td>
-<td><i>paka</i></td>
+<td><i>baga(laim)</i></td>
 <td>
-'<span>Terminalia catappa</span>'</td>
+'<span>large variety of Malay apple, Syzygium gomata</span>'</td>
 </tr>
 <tr>
 <td>Adm</td>
@@ -1437,24 +1435,6 @@ POc _&ast;pʷabosi_ is the most likely candidate for a term denoting F. wassa. A
 '<span>freestanding small or medium-sized Ficus sp., probably F. wassa</span>'</td>
 </tr>
 <tr>
-<td><strong>PSOc</strong></td><td> </td>
-<td>
-<i>&ast;(b(a,o))bosi</i>
-</td>
-<td>
-'<span>Ficus sp.</span>' (<a href="../references.md#source-Lynch2004a">Lynch2004a</a>)
-</td>
-</tr>
-<tr>
-<td><strong>PSV</strong></td><td> </td>
-<td>
-<i>&ast;na-bVbosi</i>
-</td>
-<td>
-'<span>Ficus sp.</span>' (<a href="../references.md#source-Lynch2004a">Lynch2004a</a>)
-</td>
-</tr>
-<tr>
 <td>NNG</td><td>Bing</td><td><i>bubōs</i></td>
 <td>
 '<span>wild fig tree (poor quality wood)</span>'</td>
@@ -1518,6 +1498,15 @@ POc _&ast;pʷabosi_ is the most likely candidate for a term denoting F. wassa. A
 '<span>Ficus sp.</span>'</td>
 </tr>
 <tr>
+<td><strong>PSOc</strong></td><td> </td>
+<td>
+<i>&ast;(b(a,o))bosi</i>
+</td>
+<td>
+'<span>Ficus sp.</span>' (<a href="../references.md#source-Lynch2004a">Lynch2004a</a>)
+</td>
+</tr>
+<tr>
 <td>NCV</td><td>Mwotlap</td><td><i>no-woh</i></td>
 <td>
 '<span>Ficus aspera</span>'</td>
@@ -1526,6 +1515,15 @@ POc _&ast;pʷabosi_ is the most likely candidate for a term denoting F. wassa. A
 <td>NCV</td><td>Apma</td><td><i>wowos</i></td>
 <td>
 '<span>Ficus wassa</span>'</td>
+</tr>
+<tr>
+<td><strong>PSV</strong></td><td> </td>
+<td>
+<i>&ast;na-bVbosi</i>
+</td>
+<td>
+'<span>Ficus sp.</span>' (<a href="../references.md#source-Lynch2004a">Lynch2004a</a>)
+</td>
 </tr>
 <tr>
 <td>SV</td><td>Kwamera</td><td><i>nu-kʷesi</i></td>
@@ -1842,17 +1840,17 @@ The gloss of PNCV _&ast;buliva_ is clearly Ficus scabra (a species found only in
 </td>
 </tr>
 <tr>
+<td>SES</td><td>Kwara’ae</td><td><i>bu-bulia</i></td>
+<td>
+'<span>Ficus austrina</span>'</td>
+</tr>
+<tr>
 <td><strong>PNCV</strong></td><td> </td>
 <td>
 <i>&ast;buliva</i>
 </td>
 <td>
 '<span>Ficus scabra</span>'</td>
-</tr>
-<tr>
-<td>SES</td><td>Kwara’ae</td><td><i>bu-bulia</i></td>
-<td>
-'<span>Ficus austrina</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Mota</td><td><i>puliva</i></td>

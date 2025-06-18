@@ -1,6 +1,4 @@
-# Other cultivated plants
-
-by Malcolm Ross
+[Malcolm Ross](.smallcaps)
 
 
 <a id="s-1"></a>
@@ -391,7 +389,7 @@ Frantisek [Lichtenberk](../references.md#source-Lichtenberk1998) ([1998](../refe
 <i>&ast;buaq</i>
 </td>
 <td>
-'<span>fruit</span>' (<a href="../references.md#source-Dempwolff1938">Dempwolff1938</a>)
+'<span>fruit</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -517,7 +515,7 @@ Frantisek [Lichtenberk](../references.md#source-Lichtenberk1998) ([1998](../refe
 '<span>Areca catechu</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Halia</td><td><i>boko</i></td>
+<td>MM</td><td>Selau</td><td><i>boko</i></td>
 <td>
 '<span>Areca catechu</span>'</td>
 </tr>
@@ -778,39 +776,6 @@ The best supported hypothesis appears to be that Piper methysticum is a domestic
 </td>
 </tr>
 <tr>
-<td><strong>ProtoRemoteOceanic</strong></td><td> </td>
-<td>
-<i>&ast;kawa</i>
-</td>
-<td>
-'<span>kava</span>'; '<span>ginger, fish-poison plants</span>' (<span>presumably</span>)</td>
-</tr>
-<tr>
-<td><strong>PNCV</strong></td><td> </td>
-<td>
-<i>&ast;kea</i>
-</td>
-<td>
-'<span>kava; sour, bitter</span>' (<a href="../references.md#source-Lynch2004a">Lynch2004a</a>)
-</td>
-</tr>
-<tr>
-<td><strong>PCP</strong></td><td> </td>
-<td>
-<i>&ast;kawa</i>
-</td>
-<td>
-'<span>kava, Piper sp., fish-poison plants; sour, bitter</span>'; '<span>Zingiber spp.</span>' (<span>probably also</span>)</td>
-</tr>
-<tr>
-<td><strong>PPn</strong></td><td> </td>
-<td>
-<i>&ast;kawa</i>
-</td>
-<td>
-'<span>kava; sour, bitter</span>'</td>
-</tr>
-<tr>
 <td>Adm</td><td>Baluan</td><td><i>kau</i></td>
 <td>
 '<span>Piper subbullatum</span>' (<a href="../references.md#source-Ambrose1991">Ambrose1991</a>)
@@ -840,6 +805,23 @@ The best supported hypothesis appears to be that Piper methysticum is a domestic
 <td>MM</td><td>Maringe</td><td><i>kʰori</i></td>
 <td>
 '<span>(use) fish poison</span>'</td>
+</tr>
+<tr>
+<td><strong>ProtoRemoteOceanic</strong></td><td> </td>
+<td>
+<i>&ast;kawa</i>
+</td>
+<td>
+'<span>kava</span>'; '<span>ginger, fish-poison plants</span>' (<span>presumably</span>)</td>
+</tr>
+<tr>
+<td><strong>PNCV</strong></td><td> </td>
+<td>
+<i>&ast;kea</i>
+</td>
+<td>
+'<span>kava; sour, bitter</span>' (<a href="../references.md#source-Lynch2004a">Lynch2004a</a>)
+</td>
 </tr>
 <tr>
 <td>NCV</td><td>Lehali</td><td><i>n-ɣa</i></td>
@@ -887,6 +869,14 @@ The best supported hypothesis appears to be that Piper methysticum is a domestic
 '<span>brackish water</span>' (<span><em>wi</em> 'water'</span>)</td>
 </tr>
 <tr>
+<td><strong>PCP</strong></td><td> </td>
+<td>
+<i>&ast;kawa</i>
+</td>
+<td>
+'<span>kava, Piper sp., fish-poison plants; sour, bitter</span>'; '<span>Zingiber spp.</span>' (<span>probably also</span>)</td>
+</tr>
+<tr>
 <td>Fij</td><td>Bauan</td><td><i>(wā)gawa-gawa</i></td>
 <td>
 '<span>Piper betle</span>'</td>
@@ -905,6 +895,14 @@ The best supported hypothesis appears to be that Piper methysticum is a domestic
 <td>Fij</td><td>(many dialects)</td><td><i>kawa</i></td>
 <td>
 '<span>k.o. round fish-trap with mouth on top, made from Derris vines</span>'</td>
+</tr>
+<tr>
+<td><strong>PPn</strong></td><td> </td>
+<td>
+<i>&ast;kawa</i>
+</td>
+<td>
+'<span>kava; sour, bitter</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>kava</i></td>
@@ -1129,7 +1127,7 @@ The term reconstructed as &ast;qauR 'bamboo spp.' below was probably the generic
 <td>Tolai</td>
 <td><i>kaur</i></td>
 <td>
-'<span>k. o. bamboo</span>'; '<span>bamboo, generic</span>' (<span><em><em>k~q_ _</em>r~R</em></span>); '<span>Bambusa vulgaris</span>'</td>
+'<span>Bambusa vulgaris</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
@@ -1143,7 +1141,7 @@ The term reconstructed as &ast;qauR 'bamboo spp.' below was probably the generic
 <td>Tolai</td>
 <td><i>kaur goragoro</i></td>
 <td>
-'<span>k. o. bamboo of which flutes are made</span>'; '<span>Schizostachyum lima</span>'</td>
+'<span>Schizostachyum lima</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
@@ -1263,7 +1261,7 @@ Among languages which retain a reflex of the final consonant, Mussau and Petats 
 '<span>bamboo</span>' (<span><em><em>k_ _</em>d~dr</em></span>)</td>
 </tr>
 <tr>
-<td>MM</td><td>Halia</td><td><i>kawur</i></td>
+<td>MM</td><td>Selau</td><td><i>kawur</i></td>
 <td>
 '<span>bamboo</span>' (<span><em><em>k_ _</em>r~R~d~dr</em></span>)</td>
 </tr>
@@ -1345,7 +1343,7 @@ Among languages which retain a reflex of the final consonant, Mussau and Petats 
 <tr>
 <td>NCV</td><td>Nguna</td><td><i>na-au</i></td>
 <td>
-'<span>wild cane, reed; flute, mouth organ</span>'</td>
+'<span>wild cane, reed; flute, mouth organ</span>' (<span><em>*k~q</em></span>)</td>
 </tr>
 <tr>
 <td>SV</td><td>Sye</td><td><i>n-au</i></td>
@@ -1689,18 +1687,18 @@ Hus (Adm) _ʙu_ 'bamboo' corresponds regularly with the NCV items below, implyin
 '<span>(made of) bamboo</span>'</td>
 </tr>
 <tr>
+<td>Adm</td><td>Hus</td><td><i>ʙu</i></td>
+<td>
+'<span>bamboo</span>' (<a href="../references.md#source-Nevermann1934">Nevermann1934</a>)
+</td>
+</tr>
+<tr>
 <td><strong>PNCV</strong></td><td> </td>
 <td>
 <i>&ast;bue</i>
 </td>
 <td>
 '<span>(made of) bamboo</span>' (<a href="../references.md#source-Clark1996">Clark1996</a>)
-</td>
-</tr>
-<tr>
-<td>Adm</td><td>Hus</td><td><i>ʙu</i></td>
-<td>
-'<span>bamboo</span>' (<a href="../references.md#source-Nevermann1934">Nevermann1934</a>)
 </td>
 </tr>
 <tr>
@@ -1805,14 +1803,6 @@ POc _&ast;tuRi-tuRi_ 'A. moluccana' is reconstructed below. It is quite widely s
 '<span>candlenut tree, Aleurites moluccana</span>' (<span>?</span>)</td>
 </tr>
 <tr>
-<td><strong>PCP</strong></td><td> </td>
-<td>
-<i>&ast;tui-tui</i>
-</td>
-<td>
-'<span>candlenut tree, Aleurites moluccana</span>'</td>
-</tr>
-<tr>
 <td>PT</td><td>Motu</td><td><i>turi-turi</i></td>
 <td>
 '<span>Cordia subcordata</span>'</td>
@@ -1821,6 +1811,14 @@ POc _&ast;tuRi-tuRi_ 'A. moluccana' is reconstructed below. It is quite widely s
 <td>PT</td><td>Roro</td><td><i>curi-curi</i></td>
 <td>
 '<span>tree sp., with wood used for making drums</span>'</td>
+</tr>
+<tr>
+<td><strong>PCP</strong></td><td> </td>
+<td>
+<i>&ast;tui-tui</i>
+</td>
+<td>
+'<span>candlenut tree, Aleurites moluccana</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>tui-tui</i></td>
@@ -1917,14 +1915,6 @@ POc _&ast;malo_ probably denoted B. papyrifera, the tree which throughout much o
 </td>
 </tr>
 <tr>
-<td><strong>PPn</strong></td><td> </td>
-<td>
-<i>&ast;malo</i>
-</td>
-<td>
-'<span>barkcloth loin garment</span>' (<span>POLLEX</span>)</td>
-</tr>
-<tr>
 <td>NNG</td><td>Kove</td><td><i>malo</i></td>
 <td>
 '<span>male genital covering</span>' (<span>A. Chowning, pers. comm.</span>)</td>
@@ -1974,6 +1964,14 @@ POc _&ast;malo_ probably denoted B. papyrifera, the tree which throughout much o
 <td>Fij</td><td>Bauan</td><td><i>malo</i></td>
 <td>
 '<span>Broussonetia papyrifera; hence the native cloth made from it and the former native male dress, passed between the thighs and fastened with a girdle</span>'</td>
+</tr>
+<tr>
+<td><strong>PPn</strong></td><td> </td>
+<td>
+<i>&ast;malo</i>
+</td>
+<td>
+'<span>barkcloth loin garment</span>' (<span>POLLEX</span>)</td>
 </tr>
 <tr>
 <td>Pn</td><td>Emae</td><td><i>maro</i></td>
@@ -2160,23 +2158,6 @@ The distributions of POc &ast;fiofiu and &ast;kurat are complementary: &ast;kura
 </td>
 </tr>
 <tr>
-<td><strong>PEOc</strong></td><td> </td>
-<td>
-<i>&ast;kurat</i>
-</td>
-<td>
-'<span>M orinda citrifolia</span>'</td>
-</tr>
-<tr>
-<td><strong>PSV</strong></td><td> </td>
-<td>
-<i>&ast;na-ɣura(t,c)</i>
-</td>
-<td>
-'<span>Morinda citrifolia</span>' (<a href="../references.md#source-Lynch2001c">Lynch2001c</a>)
-</td>
-</tr>
-<tr>
 <td>MM</td><td>Lihir</td><td><i>ulet</i></td>
 <td>
 '<span>Morinda sp.</span>'</td>
@@ -2205,6 +2186,14 @@ The distributions of POc &ast;fiofiu and &ast;kurat are complementary: &ast;kura
 <td>MM</td><td>Roviana</td><td><i>ɣurata</i></td>
 <td>
 '<span>Morinda citrifolia</span>'</td>
+</tr>
+<tr>
+<td><strong>PEOc</strong></td><td> </td>
+<td>
+<i>&ast;kurat</i>
+</td>
+<td>
+'<span>M orinda citrifolia</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Longgu</td><td><i>ʔura</i></td>
@@ -2266,6 +2255,15 @@ The distributions of POc &ast;fiofiu and &ast;kurat are complementary: &ast;kura
 <td>NCV</td><td>South Efate</td><td><i>na-kur</i></td>
 <td>
 '<span>Morinda citrifolia</span>'</td>
+</tr>
+<tr>
+<td><strong>PSV</strong></td><td> </td>
+<td>
+<i>&ast;na-ɣura(t,c)</i>
+</td>
+<td>
+'<span>Morinda citrifolia</span>' (<a href="../references.md#source-Lynch2001c">Lynch2001c</a>)
+</td>
 </tr>
 <tr>
 <td>SV</td><td>Sye</td><td><i>noɣrat</i></td>
@@ -2372,15 +2370,6 @@ but I am unable to determine how they differed in meaning from each other or fro
 </td>
 </tr>
 <tr>
-<td><strong>PSV</strong></td><td> </td>
-<td>
-<i>&ast;(i)tuv</i>
-</td>
-<td>
-'<span>Derris sp. usually trifoliata</span>' (<a href="../references.md#source-Lynch2004a">Lynch2004a</a>)
-</td>
-</tr>
-<tr>
 <td>Adm</td><td>Seimat</td><td><i>tu[hi]</i></td>
 <td>
 '<span>Derris sp.</span>' (<a href="../references.md#source-Sorensen1950">Sorensen1950</a>)
@@ -2455,6 +2444,15 @@ but I am unable to determine how they differed in meaning from each other or fro
 <td>NCV</td><td>Uripiv</td><td><i>na-tuv</i></td>
 <td>
 '<span>fish poison vine</span>'</td>
+</tr>
+<tr>
+<td><strong>PSV</strong></td><td> </td>
+<td>
+<i>&ast;(i)tuv</i>
+</td>
+<td>
+'<span>Derris sp. usually trifoliata</span>' (<a href="../references.md#source-Lynch2004a">Lynch2004a</a>)
+</td>
 </tr>
 <tr>
 <td>SV</td><td>Sye</td><td><i>(nos)(i)tup</i></td>
@@ -2612,15 +2610,6 @@ PWOc _&ast;(m,mʷ)ali_ (incorrectly given as _&ast;maRi_ in vol. 1, ch.8, §7) i
 </td>
 </tr>
 <tr>
-<td><strong>PMic</strong></td><td> </td>
-<td>
-<i>&ast;upa</i>
-</td>
-<td>
-'<span>Derris vine</span>' (<a href="../references.md#source-Benderetal2003">Benderetal2003</a>)
-</td>
-</tr>
-<tr>
 <td>SV</td><td>Sye</td><td><i>na-vup</i></td>
 <td>
 </td>
@@ -2628,6 +2617,15 @@ PWOc _&ast;(m,mʷ)ali_ (incorrectly given as _&ast;maRi_ in vol. 1, ch.8, §7) i
 <tr>
 <td>SV</td><td>Anejom</td><td><i>no-hop(ɣev)</i></td>
 <td>
+</td>
+</tr>
+<tr>
+<td><strong>PMic</strong></td><td> </td>
+<td>
+<i>&ast;upa</i>
+</td>
+<td>
+'<span>Derris vine</span>' (<a href="../references.md#source-Benderetal2003">Benderetal2003</a>)
 </td>
 </tr>
 <tr>
@@ -2833,7 +2831,7 @@ The root above was the source of the POc term for 'yellow', _&ast;yaŋo-yaŋo_:
 <tr>
 <td>NCV</td><td>Mota</td><td><i>aŋo-aŋo</i></td>
 <td>
-'<span>yellow</span>' (<span><em>aŋo</em> ‘turmeric’</span>)</td>
+'<span>yellow</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Woleaian</td><td><i>yaŋo-yaŋo</i></td>
@@ -3298,14 +3296,6 @@ cf. also:
 '<span>taxon consisting of Cordylinefruticosa and Dracaena angustifolia</span>' (<span>Milke 1968: *diRi; Ross 1988</span>)</td>
 </tr>
 <tr>
-<td><strong>PCP</strong></td><td> </td>
-<td>
-<i>&ast;jĩ</i>
-</td>
-<td>
-'<span>taxon consisting of Cordyline fruticosa and Dracaena angustifolia</span>'</td>
-</tr>
-<tr>
 <td>Adm</td><td>Mussau</td><td><i>sii</i></td>
 <td>
 '<span>banyan, Ficus sp.</span>'</td>
@@ -3502,6 +3492,14 @@ cf. also:
 '<span>Cordyline fruticosa</span>'</td>
 </tr>
 <tr>
+<td><strong>PCP</strong></td><td> </td>
+<td>
+<i>&ast;jĩ</i>
+</td>
+<td>
+'<span>taxon consisting of Cordyline fruticosa and Dracaena angustifolia</span>'</td>
+</tr>
+<tr>
 <td>Fij</td><td>Rotuman</td><td><i>jĩ</i></td>
 <td>
 '<span>plant with ornamental leaves and a sweet root: Cordyline fruticosa</span>'</td>
@@ -3593,8 +3591,7 @@ Medial parenthesised _&ast;-q-_ is reconstructed in POc _&ast;kaRi(q)a_ on the a
 <tr>
 <td>SES</td><td>Kwara’ae</td><td><i>ka-kali</i></td>
 <td>
-'<span>Hornstedtia lycostoma</span>' (<a href="../references.md#source-HendersonandHancock1988">HendersonandHancock1988</a>)
-</td>
+'<span>Hornstedtia lycostoma</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Mota</td><td><i>karia</i></td>
@@ -3930,15 +3927,6 @@ The forms listed below are clearly cognate, but it is not clear whether or how m
 '<span>spider lily, Crinum asiaticum</span>'</td>
 </tr>
 <tr>
-<td><strong>PSOc</strong></td><td> </td>
-<td>
-<i>&ast;mʷalak</i>
-</td>
-<td>
-'<span>spider lily, Crinum asiaticum</span>' (<a href="../references.md#source-Lynch2004a">Lynch2004a</a>)
-</td>
-</tr>
-<tr>
 <td>NNG</td><td>Kairiru</td><td><i>mlak(ap)</i></td>
 <td>
 '<span>Crinum asiaticum</span>'</td>
@@ -3947,6 +3935,15 @@ The forms listed below are clearly cognate, but it is not clear whether or how m
 <td>PT</td><td>Kilivila</td><td><i>mola(bau)</i></td>
 <td>
 '<span>a lily, Crinum asiaticum</span>'</td>
+</tr>
+<tr>
+<td><strong>PSOc</strong></td><td> </td>
+<td>
+<i>&ast;mʷalak</i>
+</td>
+<td>
+'<span>spider lily, Crinum asiaticum</span>' (<a href="../references.md#source-Lynch2004a">Lynch2004a</a>)
+</td>
 </tr>
 <tr>
 <td>NCV</td><td>Mwotlap</td><td><i>mʷ[a]lak</i></td>
@@ -4073,14 +4070,6 @@ This finding is not at odds with the historical fact that the modern pumpkin was
 '<span>pumpkin, Cucurbita moschata ?</span>'</td>
 </tr>
 <tr>
-<td><strong>PSV</strong></td><td> </td>
-<td>
-<i>&ast;na-r(o,u)r(o,u)(q)</i>
-</td>
-<td>
-'<span>pumpkin, gourd</span>'</td>
-</tr>
-<tr>
 <td>NNG</td><td>Sio</td><td><i>waru</i></td>
 <td>
 '<span>pumpkin</span>'</td>
@@ -4124,6 +4113,14 @@ This finding is not at odds with the historical fact that the modern pumpkin was
 <td>PT</td><td>Misima</td><td><i>bonu-bonu</i></td>
 <td>
 '<span>pumpkin</span>'</td>
+</tr>
+<tr>
+<td><strong>PSV</strong></td><td> </td>
+<td>
+<i>&ast;na-r(o,u)r(o,u)(q)</i>
+</td>
+<td>
+'<span>pumpkin, gourd</span>'</td>
 </tr>
 <tr>
 <td>SV</td><td>Lenakel</td><td><i>(noua)ne-lulu</i></td>

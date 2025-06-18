@@ -1,6 +1,4 @@
-# Introducing Proto Oceanic plant names
-
-by Malcolm Ross
+[Malcolm Ross](.smallcaps)
 
 
 <a id="s-1"></a>
@@ -275,25 +273,17 @@ The term _&ast;qutan_ appears to have denoted uncultivated land in general, whet
 </td>
 </tr>
 <tr>
+<td>PT</td><td>Misima</td><td><i>walu-walu</i></td>
+<td>
+'<span>the bush</span>'</td>
+</tr>
+<tr>
 <td><strong>ProtoMalaitaMakira</strong></td><td> </td>
 <td>
 <i>&ast;[walu]walu</i>
 </td>
 <td>
 '<span>the world; uncultivated bush</span>'</td>
-</tr>
-<tr>
-<td><strong>PPn</strong></td><td> </td>
-<td>
-<i>&ast;wao</i>
-</td>
-<td>
-'<span>forest</span>'</td>
-</tr>
-<tr>
-<td>PT</td><td>Misima</td><td><i>walu-walu</i></td>
-<td>
-'<span>the bush</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Kwaio</td><td><i>kʷalu</i></td>
@@ -309,6 +299,14 @@ The term _&ast;qutan_ appears to have denoted uncultivated land in general, whet
 <td>SES</td><td>Arosi</td><td><i>waru-waru</i></td>
 <td>
 '<span>the inhabited world generally, all the known islands</span>'</td>
+</tr>
+<tr>
+<td><strong>PPn</strong></td><td> </td>
+<td>
+<i>&ast;wao</i>
+</td>
+<td>
+'<span>forest</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>vao</i></td>
@@ -330,32 +328,19 @@ The term _&ast;qutan_ appears to have denoted uncultivated land in general, whet
 cf. also: 
 <table>
 <tr>
-<td>Mic</td>
-<td>Carolinian</td>
-<td><i>wal(lap)</i></td>
-<td>
-'<span>dense: forest, thickly forested area</span>'</td>
-</tr>
-<tr>
-<td>Mic</td>
-<td>Carolinian</td>
-<td><i>walɨ-wal</i></td>
-<td>
-'<span>forest, jungle</span>'</td>
-</tr>
-<tr>
 <td>SES</td>
 <td>Gela</td>
 <td><i>ao</i></td>
 <td>
-(V) '<span>be overgrown, become forest</span>'; '<span>forest, land never brought under cultivation</span>'</td>
+'<span>forest, land never brought under cultivation</span>'</td>
 </tr>
 <tr>
-<td>Mic</td>
-<td>Mortlockese</td>
-<td><i>wali-wel</i></td>
+<td>None</td>
+<td>PMic</td>
+<td><i>walu</i></td>
 <td>
-'<span>forest</span>'</td>
+'<span>vegetation, forest</span>'(<a href="../references.md#source-Benderetal2003">Benderetal2003</a>)
+</td>
 </tr>
 <tr>
 <td>Mic</td>
@@ -366,17 +351,10 @@ cf. also:
 </tr>
 <tr>
 <td>Mic</td>
-<td>Puluwatese</td>
-<td><i>wāl</i></td>
+<td>Mortlockese</td>
+<td><i>wali-wel</i></td>
 <td>
-'<span>forest, jungle</span>'</td>
-</tr>
-<tr>
-<td>Fij</td>
-<td>Rotuman</td>
-<td><i>vao</i></td>
-<td>
-'<span>forest, large number of trees or big plants growing together</span>'</td>
+'<span>forest</span>'</td>
 </tr>
 <tr>
 <td>Mic</td>
@@ -384,6 +362,34 @@ cf. also:
 <td><i>wənɨ-wən</i></td>
 <td>
 '<span>vegetation, bush</span>'</td>
+</tr>
+<tr>
+<td>Mic</td>
+<td>Puluwatese</td>
+<td><i>wāl</i></td>
+<td>
+'<span>forest, jungle</span>'</td>
+</tr>
+<tr>
+<td>Mic</td>
+<td>Carolinian</td>
+<td><i>walɨ-wal</i></td>
+<td>
+'<span>forest, jungle</span>'</td>
+</tr>
+<tr>
+<td>Mic</td>
+<td>Carolinian</td>
+<td><i>wal(lap)</i></td>
+<td>
+'<span>dense: forest, thickly forested area</span>'</td>
+</tr>
+<tr>
+<td>Fij</td>
+<td>Rotuman</td>
+<td><i>vao</i></td>
+<td>
+'<span>forest, large number of trees or big plants growing together</span>'</td>
 </tr>
 </table>
 
@@ -698,6 +704,34 @@ POc _&ast;kanaŋ_ and its variant _&ast;kanan_, both 'staple food, food in gener
 cf. also: 
 <table>
 <tr>
+<td>None</td>
+<td>PAdm</td>
+<td><i>kani-an</i></td>
+<td>
+'<span>staple food</span>'</td>
+</tr>
+<tr>
+<td>Adm</td>
+<td>Nyindrou</td>
+<td><i>kani-a</i></td>
+<td>
+'<span>staple food</span>'</td>
+</tr>
+<tr>
+<td>None</td>
+<td>PNNG</td>
+<td><i>kani-ŋa</i></td>
+<td>
+'<span>food</span>'</td>
+</tr>
+<tr>
+<td>NNG</td>
+<td>Sengseng</td>
+<td><i>kini-ŋ</i></td>
+<td>
+'<span>food in general; animal protein in particular</span>' (<span>A. Chowning, pers. comm.</span>)</td>
+</tr>
+<tr>
 <td>NNG</td>
 <td>Bariai</td>
 <td><i>an-ŋa</i></td>
@@ -706,38 +740,17 @@ cf. also:
 </tr>
 <tr>
 <td>NNG</td>
-<td>Bing</td>
-<td><i>ani-ŋ</i></td>
-<td>
-'<span>banana</span>'</td>
-</tr>
-<tr>
-<td>NNG</td>
-<td>Hote</td>
-<td><i>ani-ŋ</i></td>
-<td>
-'<span>taro</span>'</td>
-</tr>
-<tr>
-<td>PT</td>
-<td>Hula</td>
-<td><i>ani</i></td>
-<td>
-'<span>banana</span>'</td>
-</tr>
-<tr>
-<td>NCV</td>
-<td>Lewo</td>
-<td><i>k<in>ani-ena</i></td>
-<td>
-'<span>staple food, as opposed to meat and greens</span>'</td>
-</tr>
-<tr>
-<td>NNG</td>
 <td>Lukep (Pono)</td>
 <td><i>kani-ŋ</i></td>
 <td>
 '<span>yam</span>'</td>
+</tr>
+<tr>
+<td>NNG</td>
+<td>Bing</td>
+<td><i>ani-ŋ</i></td>
+<td>
+'<span>banana</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
@@ -754,11 +767,25 @@ cf. also:
 '<span>food</span>'</td>
 </tr>
 <tr>
-<td>PT</td>
-<td>Mekeo</td>
-<td><i>ani-ani</i></td>
+<td>NNG</td>
+<td>Poeng</td>
+<td><i>kani-ŋ</i></td>
 <td>
 '<span>food</span>'</td>
+</tr>
+<tr>
+<td>NNG</td>
+<td>Hote</td>
+<td><i>ani-ŋ</i></td>
+<td>
+'<span>taro</span>'</td>
+</tr>
+<tr>
+<td>None</td>
+<td>PPT</td>
+<td><i>kani-kani</i></td>
+<td>
+'<span>staple food</span>'</td>
 </tr>
 <tr>
 <td>PT</td>
@@ -769,10 +796,45 @@ cf. also:
 </tr>
 <tr>
 <td>PT</td>
+<td>Taboro</td>
+<td><i>ɣani-ɣani</i></td>
+<td>
+'<span>food</span>'</td>
+</tr>
+<tr>
+<td>PT</td>
+<td>Taboro</td>
+<td><i>ɣani</i></td>
+<td>
+'<span>short cooking banana</span>'</td>
+</tr>
+<tr>
+<td>PT</td>
+<td>Hula</td>
+<td><i>ani</i></td>
+<td>
+'<span>banana</span>'</td>
+</tr>
+<tr>
+<td>PT</td>
 <td>Motu</td>
 <td><i>ani-ani</i></td>
 <td>
-(VI) '<span>eat; food</span>'; '<span>food</span>'</td>
+'<span>food</span>'</td>
+</tr>
+<tr>
+<td>PT</td>
+<td>Mekeo</td>
+<td><i>ani-ani</i></td>
+<td>
+'<span>food</span>'</td>
+</tr>
+<tr>
+<td>None</td>
+<td>ProtoMesoMelanesian</td>
+<td><i>k<in>ani</i></td>
+<td>
+'<span>staple food</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
@@ -783,43 +845,8 @@ cf. also:
 </tr>
 <tr>
 <td>MM</td>
-<td>Nehan</td>
-<td><i>ni-eini</i></td>
-<td>
-'<span>food</span>'</td>
-</tr>
-<tr>
-<td>Adm</td>
-<td>Nyindrou</td>
-<td><i>kani-a</i></td>
-<td>
-'<span>staple food</span>'</td>
-</tr>
-<tr>
-<td>NCV</td>
-<td>Paamese</td>
-<td><i>ani-ene</i></td>
-<td>
-'<span>staple food, as opposed to meat and greens</span>'</td>
-</tr>
-<tr>
-<td>MM</td>
 <td>Patpatar</td>
 <td><i>ni-an</i></td>
-<td>
-'<span>food</span>'</td>
-</tr>
-<tr>
-<td>NNG</td>
-<td>Poeng</td>
-<td><i>kani-ŋ</i></td>
-<td>
-'<span>food</span>'</td>
-</tr>
-<tr>
-<td>NCV</td>
-<td>Raga</td>
-<td><i>ɣ<in>a-ɣani-ana</i></td>
 <td>
 '<span>food</span>'</td>
 </tr>
@@ -832,38 +859,52 @@ cf. also:
 </tr>
 <tr>
 <td>MM</td>
+<td>Tolai</td>
+<td><i>ni-an</i></td>
+<td>
+'<span>food</span>'</td>
+</tr>
+<tr>
+<td>MM</td>
+<td>Nehan</td>
+<td><i>ni-eini</i></td>
+<td>
+'<span>food</span>'</td>
+</tr>
+<tr>
+<td>MM</td>
 <td>Roviana</td>
 <td><i>ɣ<in>ani</i></td>
 <td>
 '<span>food</span>'</td>
 </tr>
 <tr>
-<td>NNG</td>
-<td>Sengseng</td>
-<td><i>kini-ŋ</i></td>
+<td>None</td>
+<td>PNCV</td>
+<td><i>k<in>ani-ana</i></td>
 <td>
-'<span>food in general; animal protein in particular</span>' (<span>A. Chowning, pers. comm.</span>)</td>
+'<span>staple food</span>'</td>
 </tr>
 <tr>
-<td>PT</td>
-<td>Taboro</td>
-<td><i>ɣani</i></td>
-<td>
-'<span>short cooking banana</span>'</td>
-</tr>
-<tr>
-<td>PT</td>
-<td>Taboro</td>
-<td><i>ɣani-ɣani</i></td>
+<td>NCV</td>
+<td>Raga</td>
+<td><i>ɣ<in>a-ɣani-ana</i></td>
 <td>
 '<span>food</span>'</td>
 </tr>
 <tr>
-<td>MM</td>
-<td>Tolai</td>
-<td><i>ni-an</i></td>
+<td>NCV</td>
+<td>Paamese</td>
+<td><i>ani-ene</i></td>
 <td>
-'<span>food</span>'</td>
+'<span>staple food, as opposed to meat and greens</span>'</td>
+</tr>
+<tr>
+<td>NCV</td>
+<td>Lewo</td>
+<td><i>k<in>ani-ena</i></td>
+<td>
+'<span>staple food, as opposed to meat and greens</span>'</td>
 </tr>
 </table>
 

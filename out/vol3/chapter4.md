@@ -1,6 +1,4 @@
-# Parts of plants
-
-by Bethwyn Evans
+[Bethwyn Evans](.smallcaps)
 
 
 <a id="s-1"></a>
@@ -442,12 +440,12 @@ Terms for different types of wood or tissue in woody stems are present in Wayan,
 <tr>
 <td>Pn</td><td>Tikopia</td><td><i>tai</i></td>
 <td>
-(N) '<span>hard timber, heartwood</span>'; (ADJ) '<span>very hard</span>'</td>
+[N] '<span>hard timber, heartwood</span>'; [ADJ] '<span>very hard</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Samoan</td><td><i>taia</i></td>
 <td>
-(N) '<span>hard core, heartwood of (exogenous) trees</span>'; (v) '<span>(of exogenous trees) be mature enough to have a hard core (and therefore be used as timber)</span>'</td>
+[N] '<span>hard core, heartwood of (exogenous) trees</span>'; [v] '<span>(of exogenous trees) be mature enough to have a hard core (and therefore be used as timber)</span>'</td>
 </tr>
 </table>
 
@@ -684,15 +682,6 @@ Proto Austronesian _&ast;daqan_ 'branch', continued as POc _&ast;raqan_ 'branch 
 </td>
 </tr>
 <tr>
-<td><strong>PNCV</strong></td><td> </td>
-<td>
-<i>&ast;raa, ra-ra-</i>
-</td>
-<td>
-'<span>branch</span>' (<a href="../references.md#source-Clark1996">Clark1996</a>)
-</td>
-</tr>
-<tr>
 <td>Adm</td><td>Drehet</td><td><i>(i)ⁿra</i></td>
 <td>
 '<span>branch</span>'</td>
@@ -721,6 +710,15 @@ Proto Austronesian _&ast;daqan_ 'branch', continued as POc _&ast;raqan_ 'branch 
 <td>SES</td><td>Arosi</td><td><i>rā-na</i></td>
 <td>
 '<span>(tree) branch</span>'</td>
+</tr>
+<tr>
+<td><strong>PNCV</strong></td><td> </td>
+<td>
+<i>&ast;raa, ra-ra-</i>
+</td>
+<td>
+'<span>branch</span>' (<a href="../references.md#source-Clark1996">Clark1996</a>)
+</td>
 </tr>
 <tr>
 <td>NCV</td><td>Raga</td><td><i>ra-ra-</i></td>
@@ -913,7 +911,7 @@ POc also had two morphologically related forms _&ast;saŋa_ and _&ast;ma-saŋa_ 
 <tr>
 <td>Adm</td><td>Lou</td><td><i>saɛ-n</i></td>
 <td>
-(N) '<span>lower branch</span>'</td>
+[N] '<span>lower branch</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Titan</td><td><i>cáŋa</i></td>
@@ -953,12 +951,12 @@ POc also had two morphologically related forms _&ast;saŋa_ and _&ast;ma-saŋa_ 
 <tr>
 <td>Mic</td><td>Kosraean</td><td><i>ṣeŋ</i></td>
 <td>
-(N) '<span>(spearhead, fishhook) barb, prong, fish fins appearing above the surface of the water</span>'; (VI) '<span>to fork, branch out, bifurcate</span>'</td>
+[N] '<span>(spearhead, fishhook) barb, prong, fish fins appearing above the surface of the water</span>'; [VI] '<span>to fork, branch out, bifurcate</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>saŋa</i></td>
 <td>
-(N) '<span>a crotch</span>'; (ADJ) '<span>crotched, especially of a branch which forms a crotch with a tree</span>'</td>
+[N] '<span>a crotch</span>'; [ADJ] '<span>crotched, especially of a branch which forms a crotch with a tree</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>soŋa-soŋa</i></td>
@@ -1071,7 +1069,7 @@ PPn _&ast;maŋa_ 'branch, fork; branching, forked' is a well-supported reconstru
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>maŋa</i></td>
 <td>
-(vi) '<span>fork, branch out, branch off, become divided into two or more branches; to step across s.t.</span>'; (N) '<span>branch, fork, crotch, bifurcation; stride</span>'</td>
+[vi] '<span>fork, branch out, branch off, become divided into two or more branches; to step across s.t.</span>'; [N] '<span>branch, fork, crotch, bifurcation; stride</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Niuean</td><td><i>maŋa</i></td>
@@ -1091,7 +1089,7 @@ PPn _&ast;maŋa_ 'branch, fork; branching, forked' is a well-supported reconstru
 <tr>
 <td>Pn</td><td>Samoan</td><td><i>maŋa</i></td>
 <td>
-(N) '<span>(tree, road +)fork</span>'; (v) '<span>divide into two, fork</span>'</td>
+[N] '<span>(tree, road +)fork</span>'; [v] '<span>divide into two, fork</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Luangiua</td><td><i>maŋa</i></td>
@@ -1111,7 +1109,7 @@ PPn _&ast;maŋa_ 'branch, fork; branching, forked' is a well-supported reconstru
 <tr>
 <td>Pn</td><td>Hawaiian</td><td><i>mana</i></td>
 <td>
-(N) '<span>(tree, road, stream) branch, limb, crotch; crosspi1ece, as of the cross; a line projecting from another line</span>'; (vi) '<span>variant, version, as of a tale; branch out, spread out</span>'</td>
+[N] '<span>(tree, road, stream) branch, limb, crotch; crosspi1ece, as of the cross; a line projecting from another line</span>'; [vi] '<span>variant, version, as of a tale; branch out, spread out</span>'</td>
 </tr>
 </table>
 
@@ -1257,7 +1255,7 @@ Besides a general term for roots, _&ast;wakaR-_, POc had at least three other mo
 <tr>
 <td>Mic</td><td>Kosraean</td><td><i>okæ</i></td>
 <td>
-(N) '<span>root</span>'; (vi) '<span>begin to have roots</span>'</td>
+[N] '<span>root</span>'; [vi] '<span>begin to have roots</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Marshallese</td><td><i>ɔkaṛ</i></td>
@@ -2182,7 +2180,7 @@ From the fact that modern languages tend to have several forms that denote new g
 <i>&ast;qili</i>
 </td>
 <td>
-(N) '<span>sprout, shoot (esp. of banana or taro)</span>' (<a href="../references.md#source-Benderetal2003">Benderetal2003</a>)
+[N] '<span>sprout, shoot (esp. of banana or taro)</span>' (<a href="../references.md#source-Benderetal2003">Benderetal2003</a>)
 </td>
 </tr>
 <tr>
@@ -2368,6 +2366,11 @@ POc also appears to have had a couple of verbal terms that denoted new growth, i
 '<span>to sprout, grow</span>'</td>
 </tr>
 <tr>
+<td>Adm</td><td>Lou</td><td><i>pʷe-pʷer</i></td>
+<td>
+[v] '<span>sprout</span>'</td>
+</tr>
+<tr>
 <td><strong>PMic</strong></td><td> </td>
 <td>
 <i>&ast;pʷere</i>
@@ -2377,14 +2380,9 @@ POc also appears to have had a couple of verbal terms that denoted new growth, i
 </td>
 </tr>
 <tr>
-<td>Adm</td><td>Lou</td><td><i>pʷe-pʷer</i></td>
-<td>
-(v) '<span>sprout</span>'</td>
-</tr>
-<tr>
 <td>Mic</td><td>Kiribatese</td><td><i>pʷe-pʷe</i></td>
 <td>
-(v) '<span>give off shoots</span>'</td>
+[v] '<span>give off shoots</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Ponapean</td><td><i>pʷɛr</i></td>
@@ -2394,7 +2392,7 @@ POc also appears to have had a couple of verbal terms that denoted new growth, i
 <tr>
 <td>Mic</td><td>Carolinian</td><td><i>pʷær</i></td>
 <td>
-(v) '<span>emerge, sprout; go all the way through a hole or tunnel</span>'; (N) '<span>sprout</span>'</td>
+[v] '<span>emerge, sprout; go all the way through a hole or tunnel</span>'; [N] '<span>sprout</span>'</td>
 </tr>
 </table>
 
@@ -2452,7 +2450,7 @@ POc appears to have had two general terms for flower, _&ast;puŋa_, which contin
 <tr>
 <td>SES</td><td>Longgu</td><td><i>vuŋa</i></td>
 <td>
-(vi) '<span>to bud, blossom; to flower</span>'; (N) '<span>a bunch</span>'</td>
+[vi] '<span>to bud, blossom; to flower</span>'; [N] '<span>a bunch</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Lonwolwol</td><td><i>wuŋi-</i></td>
@@ -2487,7 +2485,7 @@ POc appears to have had two general terms for flower, _&ast;puŋa_, which contin
 <tr>
 <td>Pn</td><td>Samoan</td><td><i>fuŋa</i></td>
 <td>
-(N) '<span>flower, blossom</span>'; (V) '<span>be in bloom</span>'</td>
+[N] '<span>flower, blossom</span>'; [V] '<span>be in bloom</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tokelauan</td><td><i>fuŋa</i></td>
@@ -2526,12 +2524,12 @@ The Fijian, Polynesian and Nakanai forms below suggest the reconstruction of _&a
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>sē-</i></td>
 <td>
-(N) '<span>flower</span>'; (v) '<span>flower, be in blossom</span>'</td>
+[N] '<span>flower</span>'; [v] '<span>flower, be in blossom</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>sē</i></td>
 <td>
-(N) '<span>flower, blossom</span>'; (v) '<span>blossom, bloom, flower</span>'</td>
+[N] '<span>flower, blossom</span>'; [v] '<span>blossom, bloom, flower</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tikopia</td><td><i>sē</i></td>
@@ -2581,7 +2579,7 @@ A very similar form, _&ast;sei_, appears to be reconstructable for Proto Central
 <tr>
 <td>Pn</td><td>Niuean</td><td><i>hei</i></td>
 <td>
-(N) '<span>floral decoration for bride</span>'; (v) '<span>place a flower in hair or behind ear</span>'</td>
+[N] '<span>floral decoration for bride</span>'; [v] '<span>place a flower in hair or behind ear</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Rennellese</td><td><i>sei</i></td>
@@ -2772,17 +2770,17 @@ The term 'fruit' in English has a number of senses, including: '1. vegetable pro
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>vua</i></td>
 <td>
-(N) '<span>fruit; results, products, offspring</span>'; (v) '<span>(plant) bear fruit; (project, etc.) produce results, bear fruit; (people, animal stock) increase, multiply</span>'</td>
+[N] '<span>fruit; results, products, offspring</span>'; [v] '<span>(plant) bear fruit; (project, etc.) produce results, bear fruit; (people, animal stock) increase, multiply</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>fua</i></td>
 <td>
-(N) '<span>fruit; result; egg</span>'; (v) '<span>bear fruit</span>'</td>
+[N] '<span>fruit; result; egg</span>'; [v] '<span>bear fruit</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Niuean</td><td><i>fua</i></td>
 <td>
-(N) '<span>fruit, berry, nut, egg shell, shellfish</span>'; (v) '<span>swell</span>'</td>
+[N] '<span>fruit, berry, nut, egg shell, shellfish</span>'; [v] '<span>swell</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tikopia</td><td><i>fua</i></td>
@@ -2792,7 +2790,7 @@ The term 'fruit' in English has a number of senses, including: '1. vegetable pro
 <tr>
 <td>Pn</td><td>Samoan</td><td><i>fua</i></td>
 <td>
-(N) '<span>fruit; flower, bloom; egg; produce</span>'; (v) '<span>produce; bear fruit</span>'</td>
+[N] '<span>fruit; flower, bloom; egg; produce</span>'; [v] '<span>produce; bear fruit</span>'</td>
 </tr>
 </table>
 
@@ -3068,8 +3066,7 @@ In a number of modern Oceanic languages, including Manam, Carolinian and Tikopia
 <i>&ast;batu</i>
 </td>
 <td>
-'<span>stone</span>' (<a href="../references.md#source-Blust1999">Blust1999</a>)
-</td>
+'<span>stone</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
@@ -3310,7 +3307,7 @@ In many modern Oceanic languages the same word is used for skin (of animals and 
 <i>&ast;kulit</i>
 </td>
 <td>
-(N) '<span>skin</span>' (<a href="../references.md#source-Dempwolff1938">Dempwolff1938</a>)
+[N] '<span>skin</span>' (<a href="../references.md#source-Dempwolff1938">Dempwolff1938</a>)
 </td>
 </tr>
 <tr>
@@ -3319,7 +3316,7 @@ In many modern Oceanic languages the same word is used for skin (of animals and 
 <i>&ast;kulit-i</i>
 </td>
 <td>
-(vT) '<span>to remove the skin ofs.t., to remove bark from a tree</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+[vT] '<span>to remove the skin ofs.t., to remove bark from a tree</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -3328,7 +3325,7 @@ In many modern Oceanic languages the same word is used for skin (of animals and 
 <i>&ast;kulit</i>
 </td>
 <td>
-(N) '<span>skin (of animals, people, fruit), bark (of trees)</span>' (<a href="../references.md#source-Ross1988">Ross1988</a>)
+[N] '<span>skin (of animals, people, fruit), bark (of trees)</span>' (<a href="../references.md#source-Ross1988">Ross1988</a>)
 </td>
 </tr>
 <tr>
@@ -3337,7 +3334,7 @@ In many modern Oceanic languages the same word is used for skin (of animals and 
 <i>&ast;kulit-i-</i>
 </td>
 <td>
-(vT) '<span>to skin s.t., to remove bark from a tree</span>'</td>
+[vT] '<span>to skin s.t., to remove bark from a tree</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Titan</td><td><i>kuli-n</i></td>
@@ -3372,22 +3369,22 @@ In many modern Oceanic languages the same word is used for skin (of animals and 
 <tr>
 <td>SES</td><td>Gela</td><td><i>(ɣui)ɣuli</i></td>
 <td>
-(N) '<span>skin</span>'</td>
+[N] '<span>skin</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Gela</td><td><i>ɣuliti</i></td>
 <td>
-(v) '<span>peel skin or bark</span>'</td>
+[v] '<span>peel skin or bark</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Bugotu</td><td><i>(ɣui)ɣuli-ña</i></td>
 <td>
-(N) '<span>skin,, bark</span>'</td>
+[N] '<span>skin,, bark</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Bugotu</td><td><i>ɣuliti</i></td>
 <td>
-(v) '<span>flay, skin</span>'</td>
+[v] '<span>flay, skin</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Tolo</td><td><i>huli-na</i></td>
@@ -3432,12 +3429,12 @@ In many modern Oceanic languages the same word is used for skin (of animals and 
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>kuli-</i></td>
 <td>
-(N) '<span>skin, peel, bark</span>'</td>
+[N] '<span>skin, peel, bark</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>kulit-a</i></td>
 <td>
-(v) '<span>peel cooked taro or food cooked in water; strip off the skin or bark of a tree</span>'</td>
+[v] '<span>peel cooked taro or food cooked in water; strip off the skin or bark of a tree</span>'</td>
 </tr>
 </table>
 
@@ -3601,7 +3598,7 @@ The Oceanic data, shown in the cognate set below, suggest the reconstruction of 
 <i>&ast;bul[i,u]t</i>
 </td>
 <td>
-(N) '<span>sap (of plant) or other sticky substance</span>'; (vT) '<span>be sticky</span>' (<span>Capell1943: *bulu(t)</span>)</td>
+[N] '<span>sap (of plant) or other sticky substance</span>'; [vT] '<span>be sticky</span>' (<span>Capell1943: *bulu(t)</span>)</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
@@ -3609,7 +3606,7 @@ The Oceanic data, shown in the cognate set below, suggest the reconstruction of 
 <i>&ast;bulut-i-</i>
 </td>
 <td>
-(vT) '<span>to stick something to something</span>'</td>
+[vT] '<span>to stick something to something</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Lou</td><td><i>pulut</i></td>
@@ -3735,7 +3732,7 @@ cf. also:
 <td>Arosi</td>
 <td><i>buru</i></td>
 <td>
-'<span>Pleiades</span>' (<span><em>buru-buru</em> ‘firefly’</span>); '<span>cuttlefish ink</span>'; '<span>tree species, Parinarium laurinum; the gum is used to caulk canoes</span>'</td>
+'<span>tree species, Parinarium laurinum; the gum is used to caulk canoes</span>'</td>
 </tr>
 </table>
 

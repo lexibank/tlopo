@@ -7918,8 +7918,7 @@ POc *kasi 'k.o. mussel, used as food scraper; scratch, scrape out or off' (Licht
  NNG: Sengseng         kas              'scratch an itch; rub; to itch'
  PT:  Tawala           kahi             'pearlshell'
  PT:  Muyuw            kas              'scratch'
- MM:  Nakanai          kasi             'scratch'
- MM:  Nakanai          kasi             'bivalve (Geloina coaxana), found in mangrove swamp; knife or food scraper made from its unmodified shell; broken coconut shell'
+ MM:  Nakanai          kasi             'scratch'; 'bivalve (Geloina coaxana), found in mangrove swamp; knife or food scraper made from its unmodified shell; broken coconut shell'
  MM:  Simbo            kasi-kasi        'scratch the soil as a bush turkey'
  SES: Lau              kasi             'adze, chop; knock a nut with a stone on another stone'
  Fij: Rotuman          ʔasi             'cockle; shell much used for scraping'
@@ -9548,7 +9547,6 @@ For the cognate set, see Ch. 4, §3.1.
 
 <
 POc *jila 'boom or yard of (triangular) sail'
-  Adm: Seimat         sil
   Adm: Seimat         sil                'booms of triangular sail' (Haddon)
   Adm: Penchal        cil                'sheet of sail'
   Adm: Lou            (e)sil
@@ -14381,7 +14379,6 @@ PAn root *-kit 'join along the length' (Blust 1988: 111-112)
 POc *kiti[-] 'tie, bind'
    NNG: Yabem            kiʔ                 'tie'
    MM:  Nakanai          kisi                'fasten; tie; tie up'
-   MM:  Nakanai          kisi                'tie'
    MM:  Solos            kit                 'tie'
    MM:  Teop             kisi                'fasten, tie, bundle'
    MM:  Taiof            kic-kic             'tie'

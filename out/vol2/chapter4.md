@@ -1,6 +1,4 @@
-# The Seascape
-
-by Meredith Osmond and Andrew Pawley and Malcolm Ross
+[Meredith Osmond and Andrew Pawley and Malcolm Ross](.smallcaps)
 
 
 <a id="s-1"></a>
@@ -46,14 +44,6 @@ Four POc words denoting ‘sea’ have been reconstructed: _&ast;tasik_, _&ast;m
 </td>
 <td>
 '<span>sea, salt water</span>'</td>
-</tr>
-<tr>
-<td><strong>PPn</strong></td><td> </td>
-<td>
-<i>&ast;tahi</i>
-</td>
-<td>
-'<span>shallow sea near shore or in lagoon, salt water; tide</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Loniu</td><td><i>tas</i></td>
@@ -211,6 +201,14 @@ Four POc words denoting ‘sea’ have been reconstructed: _&ast;tasik_, _&ast;m
 '<span>the sea</span>'</td>
 </tr>
 <tr>
+<td><strong>PPn</strong></td><td> </td>
+<td>
+<i>&ast;tahi</i>
+</td>
+<td>
+'<span>shallow sea near shore or in lagoon, salt water; tide</span>'</td>
+</tr>
+<tr>
 <td>Pn</td><td>Tongan</td><td><i>tahi</i></td>
 <td>
 '<span>sea, sea-water, tide</span>'</td>
@@ -349,7 +347,7 @@ POc _&ast;masawa(n,ŋ)_ has reflexes in both Western Oceanic and Eastern Oceanic
 <tr>
 <td>SES</td><td>Bugotu</td><td><i>maha</i></td>
 <td>
-(V) '<span>be deep of sea, (N) the deep sea</span>'</td>
+[V] '<span>be deep of sea, (N) the deep sea</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>'Are'are</td><td><i>matāwa</i></td>
@@ -604,15 +602,6 @@ Listed below are common-noun reflexes of _&ast;laur_. However, these are few and
 '<span>sea, seawards</span>'</td>
 </tr>
 <tr>
-<td><strong>PMic</strong></td><td> </td>
-<td>
-<i>&ast;lau</i>
-</td>
-<td>
-'<span>pool, pond</span>' (<a href="../references.md#source-Marck1994">Marck1994: 313</a>)
-</td>
-</tr>
-<tr>
 <td>NNG</td><td>Gedaged</td><td><i>lau</i></td>
 <td>
 '<span>the high seas, an open unenclosed portion of the sea</span>'</td>
@@ -646,6 +635,15 @@ Listed below are common-noun reflexes of _&ast;laur_. However, these are few and
 <td>NCV</td><td>Raga</td><td><i>(a)lau</i></td>
 <td>
 '<span>on beach, on lee side</span>'</td>
+</tr>
+<tr>
+<td><strong>PMic</strong></td><td> </td>
+<td>
+<i>&ast;lau</i>
+</td>
+<td>
+'<span>pool, pond</span>' (<a href="../references.md#source-Marck1994">Marck1994: 313</a>)
+</td>
 </tr>
 <tr>
 <td>Mic</td><td>Kosraean</td><td><i>lʌ-lʌ</i></td>
@@ -826,7 +824,7 @@ Several terms denoting current or flow of water can be reconstructed for POc. Re
 <i>&ast;qaRus</i>
 </td>
 <td>
-(N) '<span>current</span>'; (V) '<span>flow</span>' (<a href="../references.md#source-Dempwolff1938">Dempwolff1938</a>)
+[N] '<span>current</span>'; [V] '<span>flow</span>' (<a href="../references.md#source-Dempwolff1938">Dempwolff1938</a>)
 </td>
 </tr>
 <tr>
@@ -835,7 +833,7 @@ Several terms denoting current or flow of water can be reconstructed for POc. Re
 <i>&ast;qaRus</i>
 </td>
 <td>
-(N) '<span>current</span>'; (V) '<span>flow</span>'</td>
+[N] '<span>current</span>'; [V] '<span>flow</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td>Motu</td><td><i>aru</i></td>
@@ -1002,7 +1000,7 @@ The bare PAn verb _&ast;qañud_ ‘drift on a current, carried away by flowing w
 <tr>
 <td>Adm</td><td>Seimat</td><td><i>man</i></td>
 <td>
-(VI) '<span>drift, float on a current</span>'</td>
+[VI] '<span>drift, float on a current</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Sa'a</td><td><i>manu</i></td>
@@ -1080,7 +1078,7 @@ The bare PAn verb _&ast;qañud_ ‘drift on a current, carried away by flowing w
 <i>&ast;tape</i>
 </td>
 <td>
-(V) '<span>(current) flow</span>'; (N) '<span>current, flow</span>'</td>
+[V] '<span>(current) flow</span>'; [N] '<span>current, flow</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td>Motu</td><td><i>taha (i rame)</i></td>
@@ -1090,12 +1088,12 @@ The bare PAn verb _&ast;qañud_ ‘drift on a current, carried away by flowing w
 <tr>
 <td>SES</td><td>Bugotu</td><td><i>tave</i></td>
 <td>
-(V) '<span>flow</span>'</td>
+[V] '<span>flow</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Gela</td><td><i>tave</i></td>
 <td>
-(V) '<span>(liquids, air) flow</span>'</td>
+[V] '<span>(liquids, air) flow</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Lau</td><td><i>afe</i></td>
@@ -1105,7 +1103,7 @@ The bare PAn verb _&ast;qañud_ ‘drift on a current, carried away by flowing w
 <tr>
 <td>SES</td><td>Kwaio</td><td><i>afe</i></td>
 <td>
-(V) '<span>flow, drip, run down, dissolve</span>'; (N) '<span>current</span>'</td>
+[V] '<span>flow, drip, run down, dissolve</span>'; [N] '<span>current</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Kwaio</td><td><i>afe-afe</i></td>
@@ -1115,7 +1113,7 @@ The bare PAn verb _&ast;qañud_ ‘drift on a current, carried away by flowing w
 <tr>
 <td>SES</td><td>Sa'a</td><td><i>ahe</i></td>
 <td>
-(N) '<span>surf; currents from wind or tide</span>'; (V) '<span>flow</span>'</td>
+[N] '<span>surf; currents from wind or tide</span>'; [V] '<span>flow</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>'Are'are</td><td><i>ʔahe</i></td>
@@ -1125,7 +1123,7 @@ The bare PAn verb _&ast;qañud_ ‘drift on a current, carried away by flowing w
 <tr>
 <td>SES</td><td>Arosi</td><td><i>ahe</i></td>
 <td>
-(V) '<span>(current) flow</span>'</td>
+[V] '<span>(current) flow</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Arosi</td><td><i>ahe(ra)</i></td>
@@ -1135,7 +1133,7 @@ The bare PAn verb _&ast;qañud_ ‘drift on a current, carried away by flowing w
 <tr>
 <td>NCV</td><td>Paamese</td><td><i>tahe</i></td>
 <td>
-(N) '<span>wave</span>'</td>
+[N] '<span>wave</span>'</td>
 </tr>
 <tr>
 <td>NCal</td><td>Nemi</td><td><i>davec</i></td>
@@ -1145,12 +1143,12 @@ The bare PAn verb _&ast;qañud_ ‘drift on a current, carried away by flowing w
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>dave</i></td>
 <td>
-(V) '<span>(liquids in a small stream) flow</span>'</td>
+[V] '<span>(liquids in a small stream) flow</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Niuean</td><td><i>tafe</i></td>
 <td>
-(V) '<span>flow</span>'</td>
+[V] '<span>flow</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>tafe</i></td>
@@ -1181,7 +1179,7 @@ The bare PAn verb _&ast;qañud_ ‘drift on a current, carried away by flowing w
 <tr>
 <td>Pn</td><td>Tikopia</td><td><i>tafe</i></td>
 <td>
-(N) '<span>current</span>'; (V) '<span>drift at sea; trickle</span>'</td>
+[N] '<span>current</span>'; [V] '<span>drift at sea; trickle</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>West Futunan</td><td><i>tafe</i></td>
@@ -1191,12 +1189,12 @@ The bare PAn verb _&ast;qañud_ ‘drift on a current, carried away by flowing w
 <tr>
 <td>Pn</td><td>Emae</td><td><i>tafe</i></td>
 <td>
-(V) '<span>flow</span>'</td>
+[V] '<span>flow</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Hawaiian</td><td><i>kahe</i></td>
 <td>
-(V) '<span>flow</span>'</td>
+[V] '<span>flow</span>'</td>
 </tr>
 </table>
 
@@ -1212,7 +1210,7 @@ The bare PAn verb _&ast;qañud_ ‘drift on a current, carried away by flowing w
 <i>&ast;qaluR(?)</i>
 </td>
 <td>
-(V) '<span>flow</span>' (<a href="../references.md#source-Blust1999">Blust1999</a>)
+[V] '<span>flow</span>' (<a href="../references.md#source-Blust1999">Blust1999</a>)
 </td>
 </tr>
 <tr>
@@ -1246,12 +1244,12 @@ The bare PAn verb _&ast;qañud_ ‘drift on a current, carried away by flowing w
 <tr>
 <td>SES</td><td>Lau</td><td><i>alilo</i></td>
 <td>
-(V) '<span>shift, of wind</span>'; '<span>an eddy</span>'</td>
+[V] '<span>shift, of wind</span>'; '<span>an eddy</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>'Are'are</td><td><i>arir(oʔa)</i></td>
 <td>
-(N,V) '<span>eddy, of wind</span>'</td>
+[N,V] '<span>eddy, of wind</span>'</td>
 </tr>
 </table>
 
@@ -1272,17 +1270,17 @@ The bare PAn verb _&ast;qañud_ ‘drift on a current, carried away by flowing w
 <i>&ast;saliR</i>
 </td>
 <td>
-(V) '<span>flow, float, drift</span>'</td>
+[V] '<span>flow, float, drift</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Meramera</td><td><i>sali</i></td>
 <td>
-(V) '<span>flow</span>'</td>
+[V] '<span>flow</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Nakanai</td><td><i>sali</i></td>
 <td>
-(V) '<span>flow</span>'</td>
+[V] '<span>flow</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Mota</td><td><i>sale</i></td>
@@ -1569,7 +1567,7 @@ cf. also:
 <i>&ast;loka</i>
 </td>
 <td>
-(N) '<span>high sea or tide, heavy breakers</span>'; (V) '<span>be high, rough, of sea or surf</span>'</td>
+[N] '<span>high sea or tide, heavy breakers</span>'; [V] '<span>be high, rough, of sea or surf</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Lou</td><td><i>loka</i></td>
@@ -1584,7 +1582,7 @@ cf. also:
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>loka</i></td>
 <td>
-(N) '<span>heavy breakers over a reef, very heavy tides that flow inland, floods</span>'; (V) '<span>break, of breakers, tidal wave</span>' (<span><em>ua loka</em> ‘tidal wave’</span>)</td>
+[N] '<span>heavy breakers over a reef, very heavy tides that flow inland, floods</span>'; [V] '<span>break, of breakers, tidal wave</span>' (<span><em>ua loka</em> ‘tidal wave’</span>)</td>
 </tr>
 <tr>
 <td>Pn</td><td>Niuean</td><td><i>loka</i></td>
@@ -1620,17 +1618,17 @@ cf. also:
 '<span>(waves) pound the coast, as at high tide</span>'</td>
 </tr>
 <tr>
+<td>Fij</td><td>Bauan</td><td><i>bari</i></td>
+<td>
+'<span>nibble at a hard thing, as waves against a rock face</span>'</td>
+</tr>
+<tr>
 <td><strong>PPn</strong></td><td> </td>
 <td>
 <i>&ast;pali</i>
 </td>
 <td>
 '<span>to pound the coast, as at high tide</span>'</td>
-</tr>
-<tr>
-<td>Fij</td><td>Bauan</td><td><i>bari</i></td>
-<td>
-'<span>nibble at a hard thing, as waves against a rock face</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tongareva</td><td><i>pari</i></td>
@@ -1714,7 +1712,7 @@ There is an additional formal complication, namely that PMP _&ast;bujeq_ seems t
 <tr>
 <td>MM</td><td>Tolai</td><td><i>bua</i></td>
 <td>
-(N) '<span>foam of the sea</span>'; (V) '<span>foam, bubble, boil</span>'</td>
+[N] '<span>foam of the sea</span>'; [V] '<span>foam, bubble, boil</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Arosi</td><td><i>(ʔa)buta</i></td>
@@ -1808,7 +1806,7 @@ cf. also:
 <tr>
 <td>Mic</td><td>Woleaian</td><td><i>ɸuẓo-ɸuẓ</i></td>
 <td>
-(N,V) '<span>bubbles, foam, froth</span>'</td>
+[N,V] '<span>bubbles, foam, froth</span>'</td>
 </tr>
 </table>
 
@@ -1838,7 +1836,7 @@ cf. also:
 <tr>
 <td>PT</td><td>Kilivila</td><td><i>polu</i></td>
 <td>
-(N) '<span>foam, spray</span>' (<span>vowel metathesis</span>)</td>
+[N] '<span>foam, spray</span>' (<span>vowel metathesis</span>)</td>
 </tr>
 <tr>
 <td>MM</td><td>Nakanai</td><td><i>pu-puso</i></td>
@@ -1848,7 +1846,7 @@ cf. also:
 <tr>
 <td>SES</td><td>Sa'a</td><td><i>huto-huto</i></td>
 <td>
-(N) '<span>froth, foam</span>'</td>
+[N] '<span>froth, foam</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Arosi</td><td><i>huto-huto</i></td>
@@ -1868,12 +1866,12 @@ cf. also:
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>vuso</i></td>
 <td>
-(N,V) '<span>froth, foam</span>'</td>
+[N,V] '<span>froth, foam</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Niuean</td><td><i>fiho</i></td>
 <td>
-(N) '<span>froth, foam</span>'</td>
+[N] '<span>froth, foam</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>fiho</i></td>
@@ -1883,7 +1881,7 @@ cf. also:
 <tr>
 <td>Pn</td><td>West Futunan</td><td><i>fiso</i></td>
 <td>
-(V) '<span>foam, bubble</span>'</td>
+[V] '<span>foam, bubble</span>'</td>
 </tr>
 </table>
 
@@ -1930,7 +1928,7 @@ The reconstruction for low tide, POc _&ast;maqati_, which continues a PAn form, 
 <i>&ast;maqati</i>
 </td>
 <td>
-(N) '<span>low tide; dry reef</span>'; (V) '<span>ebb; dry, of reef</span>'</td>
+[N] '<span>low tide; dry reef</span>'; [V] '<span>ebb; dry, of reef</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Mussau</td><td><i>mati</i></td>
@@ -2135,7 +2133,7 @@ The reconstruction for low tide, POc _&ast;maqati_, which continues a PAn form, 
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>mati</i></td>
 <td>
-(V) '<span>ebb, of the tide, as opposed to the flow</span>'; '<span>part of the reef exposed at low tide</span>'</td>
+[V] '<span>ebb, of the tide, as opposed to the flow</span>'; '<span>part of the reef exposed at low tide</span>'</td>
 </tr>
 </table>
 
@@ -2164,7 +2162,7 @@ POc _&ast;[ma]maca_ ‘dry up, evaporate’, has some reflexes which refer to lo
 <i>&ast;[ma]maca</i>
 </td>
 <td>
-(V) '<span>dry up, evaporate, be empty of liquid</span>'; (N) '<span>low tide</span>'</td>
+[V] '<span>dry up, evaporate, be empty of liquid</span>'; [N] '<span>low tide</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Kove</td><td><i>mamasa</i></td>
@@ -2366,7 +2364,7 @@ POc _&ast;Ruap_ has been long-established as a term for high tide, with a PMP an
 <i>&ast;[u]Ruap</i>
 </td>
 <td>
-(N) '<span>high tide</span>'; (V) '<span>flow in, of tide</span>'; (N) '<span>wave</span>'</td>
+[N] '<span>high tide</span>'; [V] '<span>flow in, of tide</span>'; [N] '<span>wave</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Lou</td><td><i>ua</i></td>
@@ -2386,7 +2384,7 @@ POc _&ast;Ruap_ has been long-established as a term for high tide, with a PMP an
 <tr>
 <td>SES</td><td>Gela</td><td><i>lua</i></td>
 <td>
-'<span>full tide</span>'; (V) '<span>flow, of tide</span>'</td>
+'<span>full tide</span>'; [V] '<span>flow, of tide</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Lau</td><td><i>lua</i></td>
@@ -2466,7 +2464,7 @@ POc _&ast;ma-[u]Ruap_ and its counterpart, _&ast;ma-qati_ ‘low tide; be low ti
 <i>&ast;[ma-]uRua(p)</i>
 </td>
 <td>
-'<span>flood, be flooded</span>'</td>
+'<span>flood, be flooded</span>' (<span>from p.86</span>)</td>
 </tr>
 <tr>
 <td>NNG</td><td>Manam</td><td><i>urua</i></td>
@@ -2802,14 +2800,6 @@ POc _&ast;buŋa_ ‘smooth round coral’ is evidently derived from PMP _&ast;bu
 '<span>smooth, round coral</span>'</td>
 </tr>
 <tr>
-<td><strong>PPn</strong></td><td> </td>
-<td>
-<i>&ast;puŋa</i>
-</td>
-<td>
-'<span>coral rock</span>'</td>
-</tr>
-<tr>
 <td>NNG</td><td>Takia</td><td><i>buŋ</i></td>
 <td>
 '<span>large white coral</span>'</td>
@@ -2843,6 +2833,14 @@ POc _&ast;buŋa_ ‘smooth round coral’ is evidently derived from PMP _&ast;bu
 <td>Fij</td><td>Bauan</td><td><i>vuŋa</i></td>
 <td>
 '<span>a porous coral rock in the sea</span>'</td>
+</tr>
+<tr>
+<td><strong>PPn</strong></td><td> </td>
+<td>
+<i>&ast;puŋa</i>
+</td>
+<td>
+'<span>coral rock</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Niuean</td><td><i>puŋa</i></td>
@@ -3206,7 +3204,7 @@ However, further evidence supporting oda as a term for ‘reef’ lies in two re
 <td>Motu</td>
 <td><i>haoda</i></td>
 <td>
-'<span>to fish</span>'; (V) '<span>fish</span>'</td>
+(V) '<span>fish</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
@@ -3220,21 +3218,21 @@ However, further evidence supporting oda as a term for ‘reef’ lies in two re
 <td>Gela</td>
 <td><i>vaŋoda</i></td>
 <td>
-(V) '<span>collect food on the reef.</span>'; (N) '<span>shellfish, crustaceans and echinoderms gathered on the reef</span>'; '<span>collect food on the reef; anything on the reef; gatherer of reef food</span>'</td>
+'<span>collect food on the reef; anything on the reef; gatherer of reef food</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
 <td>Sa'a</td>
 <td><i>haŋoda</i></td>
 <td>
-'<span>Haliotis, abalone</span>'; '<span>haliotis (sea ear) used as bait for crayfish</span>'</td>
+'<span>haliotis (sea ear) used as bait for crayfish</span>'</td>
 </tr>
 <tr>
 <td>NCV</td>
 <td>Mota</td>
 <td><i>vaŋona</i></td>
 <td>
-'<span>catch fish with a line, get shell-fish, etc. for a relish</span>'; '<span>catch fish with a line; get shellfish on the reef or in a canoe</span>'</td>
+'<span>catch fish with a line; get shellfish on the reef or in a canoe</span>'</td>
 </tr>
 <tr>
 <td>NCV</td>
@@ -3506,7 +3504,7 @@ Isolated patches of submerged reef occur in the open sea between the outer (barr
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>ŋalo</i></td>
 <td>
-(VI) '<span>sink, submerge</span>'</td>
+[VI] '<span>sink, submerge</span>'</td>
 </tr>
 </table>
 
@@ -3864,14 +3862,6 @@ The final nasal of _&ast;sawa(n,ŋ)_ is unexpected but attested in languages tha
 '<span>channel, passage</span>'</td>
 </tr>
 <tr>
-<td><strong>PPn</strong></td><td> </td>
-<td>
-<i>&ast;awa</i>
-</td>
-<td>
-'<span>channel, passage through reef</span>' (<span>Biggs &amp; Clark 1993; loss of initial <em>*s-</em> is unexpected</span>)</td>
-</tr>
-<tr>
 <td>Adm</td><td>Wuvulu</td><td><i>tawa</i></td>
 <td>
 '<span>channel, passage between islands</span>'</td>
@@ -3884,7 +3874,7 @@ The final nasal of _&ast;sawa(n,ŋ)_ is unexpected but attested in languages tha
 <tr>
 <td>NNG</td><td>Yabem</td><td><i>sawa</i></td>
 <td>
-'<span>space, empty area</span>'; (ADJ) '<span>empty</span>'</td>
+'<span>space, empty area</span>'; [ADJ] '<span>empty</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td>Dobu</td><td><i>ʔawa</i></td>
@@ -3974,7 +3964,15 @@ The final nasal of _&ast;sawa(n,ŋ)_ is unexpected but attested in languages tha
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>ðawa</i></td>
 <td>
-(N LOC) '<span>(i) (when speaker is on coast) the beach or reef flat; (ii) (when speaker is inland) the coast, seaside</span>'</td>
+[N LOC] '<span>(i) (when speaker is on coast) the beach or reef flat; (ii) (when speaker is inland) the coast, seaside</span>'</td>
+</tr>
+<tr>
+<td><strong>PPn</strong></td><td> </td>
+<td>
+<i>&ast;awa</i>
+</td>
+<td>
+'<span>channel, passage through reef</span>' (<span>Biggs &amp; Clark 1993; loss of initial <em>*s-</em> is unexpected</span>)</td>
 </tr>
 <tr>
 <td>Pn</td><td>Niuean</td><td><i>ava</i></td>
@@ -4090,14 +4088,6 @@ POc _&ast;wasas_ seems basically to have denoted a space between two points, exp
 '<span>passage, space between, particularly at sea, distance between two points</span>'</td>
 </tr>
 <tr>
-<td><strong>PPn</strong></td><td> </td>
-<td>
-<i>&ast;wasa</i>
-</td>
-<td>
-'<span>open sea; space, distance, especially at sea</span>' (<span>not in Biggs and Clark 1993, which has PPn <em>*wā</em> ‘interval of space or time’</span>)</td>
-</tr>
-<tr>
 <td>PT</td><td>Gumawana</td><td><i>(neg)wasa</i></td>
 <td>
 '<span>sea</span>'</td>
@@ -4126,6 +4116,14 @@ POc _&ast;wasas_ seems basically to have denoted a space between two points, exp
 <td>Fij</td><td>Bauan</td><td><i>wasa-wasa</i></td>
 <td>
 '<span>sea, ocean</span>'</td>
+</tr>
+<tr>
+<td><strong>PPn</strong></td><td> </td>
+<td>
+<i>&ast;wasa</i>
+</td>
+<td>
+'<span>open sea; space, distance, especially at sea</span>' (<span>not in Biggs and Clark 1993, which has PPn <em>*wā</em> ‘interval of space or time’</span>)</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>vaha</i></td>

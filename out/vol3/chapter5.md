@@ -1,6 +1,4 @@
-# Wild plants of the coastal strand
-
-by Malcolm Ross
+[Malcolm Ross](.smallcaps)
 
 
 <a id="s-1"></a>
@@ -186,14 +184,6 @@ No reconstruction can be made for another beach creeper, Canavalia rosea (syn. C
 '<span>taxon of beach creepers; perhaps prototypically Ipomoea grandiflora and Ipomoea pes-caprae</span>'</td>
 </tr>
 <tr>
-<td><strong>ProtoEasternPolynesian</strong></td><td> </td>
-<td>
-<i>&ast;fue</i>
-</td>
-<td>
-'<span>gourd, Lagenaria siceraria</span>'</td>
-</tr>
-<tr>
 <td>Adm</td><td>Lou</td><td><i>pʷi-pʷi</i></td>
 <td>
 '<span>vine which grows on the sand</span>'</td>
@@ -336,6 +326,14 @@ No reconstruction can be made for another beach creeper, Canavalia rosea (syn. C
 '<span>Convolvulus sp.</span>'</td>
 </tr>
 <tr>
+<td><strong>ProtoEasternPolynesian</strong></td><td> </td>
+<td>
+<i>&ast;fue</i>
+</td>
+<td>
+'<span>gourd, Lagenaria siceraria</span>'</td>
+</tr>
+<tr>
 <td>Pn</td><td>Tahitian</td><td><i>hue</i></td>
 <td>
 '<span>gourd, calabash</span>'</td>
@@ -426,9 +424,24 @@ The following comparison is due to Blust (ACD), who associates it with PMP _&ast
 cf. also: 
 <table>
 <tr>
+<td>None</td>
+<td>PChk</td>
+<td><i>adɨ-adɨ</i></td>
+<td>
+'<span>Wedelia biflora</span>'(<a href="../references.md#source-Benderetal2003">Benderetal2003</a>)
+</td>
+</tr>
+<tr>
 <td>Mic</td>
 <td>Mortlockese</td>
 <td><i>ɛtiyet</i></td>
+<td>
+'<span>Wedelia biflora</span>'</td>
+</tr>
+<tr>
+<td>Mic</td>
+<td>Trukese</td>
+<td><i>ətɨwət</i></td>
 <td>
 '<span>Wedelia biflora</span>'</td>
 </tr>
@@ -443,13 +456,6 @@ cf. also:
 <td>Mic</td>
 <td>Satawalese</td>
 <td><i>yatiyat</i></td>
-<td>
-'<span>Wedelia biflora</span>'</td>
-</tr>
-<tr>
-<td>Mic</td>
-<td>Trukese</td>
-<td><i>ətɨwət</i></td>
 <td>
 '<span>Wedelia biflora</span>'</td>
 </tr>
@@ -715,14 +721,6 @@ The term _&ast;jasi_ is reconstructed for PCEMP and POc (rather than PEOc, as th
 '<span>Cordia subcordata</span>'</td>
 </tr>
 <tr>
-<td><strong>PPn</strong></td><td> </td>
-<td>
-<i>&ast;tahi</i>
-</td>
-<td>
-'<span>heartwood, including that of Cordia subcordata</span>'</td>
-</tr>
-<tr>
 <td>SES</td><td>Kwara’ae</td><td><i>(fofo)tasi</i></td>
 <td>
 '<span>Cordia subcordata</span>'</td>
@@ -731,6 +729,14 @@ The term _&ast;jasi_ is reconstructed for PCEMP and POc (rather than PEOc, as th
 <td>NCV</td><td>Nduindui</td><td><i>(fifai) na-tahi</i></td>
 <td>
 '<span>Cordia subcordata</span>'</td>
+</tr>
+<tr>
+<td><strong>PPn</strong></td><td> </td>
+<td>
+<i>&ast;tahi</i>
+</td>
+<td>
+'<span>heartwood, including that of Cordia subcordata</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>tahi</i></td>
@@ -837,46 +843,6 @@ The Seimat and Micronesian forms reflect POc †_&ast;biŋi-biŋi_ rather than _
 '<span>Hernandia nymphaeifolia</span>' (<span>PNCV Clark 1996; PEOc Geraghty 1990</span>)</td>
 </tr>
 <tr>
-<td><strong>PEOc</strong></td><td> </td>
-<td>
-<i>&ast;biRi-biRi</i>
-</td>
-<td>
-'<span>k.o. shore tree, Hernandia nymphaeifolia</span>'</td>
-</tr>
-<tr>
-<td><strong>PNCV</strong></td><td> </td>
-<td>
-<i>&ast;biri-biri</i>
-</td>
-<td>
-'<span>k.o. shore tree, Hernandia nymphaeifolia</span>'</td>
-</tr>
-<tr>
-<td><strong>PMic</strong></td><td> </td>
-<td>
-<i>&ast;piŋi-piŋi</i>
-</td>
-<td>
-'<span>Hernandia nymphaeifolia</span>'</td>
-</tr>
-<tr>
-<td><strong>PCP</strong></td><td> </td>
-<td>
-<i>&ast;bībī</i>
-</td>
-<td>
-'<span>Hernandia spp.</span>'</td>
-</tr>
-<tr>
-<td><strong>PPn</strong></td><td> </td>
-<td>
-<i>&ast;pi-pi</i>
-</td>
-<td>
-'<span>k.o. shore tree, Hernandia nymphaeifolia</span>' (<span>exp form is †<em>*pīpī</em></span>)</td>
-</tr>
-<tr>
 <td>Adm</td><td>Seimat</td><td><i>biŋi-biŋi</i></td>
 <td>
 '<span>Hernandia ovigera</span>' (<a href="../references.md#source-Sorensen1950">Sorensen1950</a>)
@@ -928,6 +894,14 @@ The Seimat and Micronesian forms reflect POc †_&ast;biŋi-biŋi_ rather than _
 '<span>beach tree, sap injures the eyes</span>' (<span>perhaps Excoecaria agallocha</span>)</td>
 </tr>
 <tr>
+<td><strong>PEOc</strong></td><td> </td>
+<td>
+<i>&ast;biRi-biRi</i>
+</td>
+<td>
+'<span>k.o. shore tree, Hernandia nymphaeifolia</span>'</td>
+</tr>
+<tr>
 <td>SES</td><td>Gela</td><td><i>bi-bili</i></td>
 <td>
 '<span>k.o. tree</span>'</td>
@@ -941,6 +915,14 @@ The Seimat and Micronesian forms reflect POc †_&ast;biŋi-biŋi_ rather than _
 <td>SES</td><td>Arosi</td><td><i>biri-biri</i></td>
 <td>
 '<span>tree sp.</span>'</td>
+</tr>
+<tr>
+<td><strong>PNCV</strong></td><td> </td>
+<td>
+<i>&ast;biri-biri</i>
+</td>
+<td>
+'<span>k.o. shore tree, Hernandia nymphaeifolia</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Mwotlap</td><td><i>biy-biy</i></td>
@@ -988,6 +970,14 @@ The Seimat and Micronesian forms reflect POc †_&ast;biŋi-biŋi_ rather than _
 '<span>Hernandia nymphaeifolia</span>'</td>
 </tr>
 <tr>
+<td><strong>PMic</strong></td><td> </td>
+<td>
+<i>&ast;piŋi-piŋi</i>
+</td>
+<td>
+'<span>Hernandia nymphaeifolia</span>'</td>
+</tr>
+<tr>
 <td>Mic</td><td>Kiribatese</td><td><i>piŋi-piŋ</i></td>
 <td>
 '<span>Thespesia populnea and probably Hernandia nymphaeifolia</span>'</td>
@@ -998,9 +988,25 @@ The Seimat and Micronesian forms reflect POc †_&ast;biŋi-biŋi_ rather than _
 '<span>Hernandia nymphaeifolia</span>'</td>
 </tr>
 <tr>
+<td><strong>PCP</strong></td><td> </td>
+<td>
+<i>&ast;bībī</i>
+</td>
+<td>
+'<span>Hernandia spp.</span>'</td>
+</tr>
+<tr>
 <td>Fij</td><td>Wayan</td><td><i>wiri-wiri</i></td>
 <td>
 '<span>Thespesia populnea</span>' (<span>borrowing: exp form is †<em>bībī</em></span>)</td>
+</tr>
+<tr>
+<td><strong>PPn</strong></td><td> </td>
+<td>
+<i>&ast;pi-pi</i>
+</td>
+<td>
+'<span>k.o. shore tree, Hernandia nymphaeifolia</span>' (<span>exp form is †<em>*pīpī</em></span>)</td>
 </tr>
 <tr>
 <td>Pn</td><td>Niuean</td><td><i>pi-pi</i></td>
@@ -1094,31 +1100,6 @@ The POc term for Hibiscus tiliaceus was _&ast;paRu_. Blust (ACD) suggests that i
 '<span>Hibiscus tiliaceus</span>'</td>
 </tr>
 <tr>
-<td><strong>PEOc</strong></td><td> </td>
-<td>
-<i>&ast;paRu</i>
-</td>
-<td>
-'<span>Hibiscus tiliaceus</span>'</td>
-</tr>
-<tr>
-<td><strong>PSV</strong></td><td> </td>
-<td>
-<i>&ast;nə-vau</i>
-</td>
-<td>
-'<span>Hibiscus tiliaceus</span>' (<a href="../references.md#source-Lynch2001c">Lynch2001c</a>)
-</td>
-</tr>
-<tr>
-<td><strong>PCP</strong></td><td> </td>
-<td>
-<i>&ast;vau</i>
-</td>
-<td>
-'<span>Hibiscus tiliaceus</span>'</td>
-</tr>
-<tr>
 <td>Adm</td><td>Lou</td><td><i>po</i></td>
 <td>
 '<span>Hibiscus tiliaceus</span>'</td>
@@ -1199,6 +1180,14 @@ The POc term for Hibiscus tiliaceus was _&ast;paRu_. Blust (ACD) suggests that i
 '<span>Hibiscus tiliaceus</span>'</td>
 </tr>
 <tr>
+<td><strong>PEOc</strong></td><td> </td>
+<td>
+<i>&ast;paRu</i>
+</td>
+<td>
+'<span>Hibiscus tiliaceus</span>'</td>
+</tr>
+<tr>
 <td>SES</td><td>Gela</td><td><i>valu</i></td>
 <td>
 '<span>tree sp.</span>'</td>
@@ -1259,6 +1248,15 @@ The POc term for Hibiscus tiliaceus was _&ast;paRu_. Blust (ACD) suggests that i
 '<span>Hibiscus tiliaceus</span>'</td>
 </tr>
 <tr>
+<td><strong>PSV</strong></td><td> </td>
+<td>
+<i>&ast;nə-vau</i>
+</td>
+<td>
+'<span>Hibiscus tiliaceus</span>' (<a href="../references.md#source-Lynch2001c">Lynch2001c</a>)
+</td>
+</tr>
+<tr>
 <td>SV</td><td>Sye</td><td><i>n-vau</i></td>
 <td>
 '<span>Hibiscus tiliaceus</span>'</td>
@@ -1285,6 +1283,14 @@ The POc term for Hibiscus tiliaceus was _&ast;paRu_. Blust (ACD) suggests that i
 </tr>
 <tr>
 <td>NCal</td><td>Nyelâyu</td><td><i>paɣi</i></td>
+<td>
+'<span>Hibiscus tiliaceus</span>'</td>
+</tr>
+<tr>
+<td><strong>PCP</strong></td><td> </td>
+<td>
+<i>&ast;vau</i>
+</td>
 <td>
 '<span>Hibiscus tiliaceus</span>'</td>
 </tr>
@@ -1370,35 +1376,17 @@ The cognate set below contains a number of puzzles. It has just one Western Ocea
 '<span>Hibiscus sp.</span>'</td>
 </tr>
 <tr>
+<td>MM</td><td>Kokota</td><td><i>fayalo</i></td>
+<td>
+</td>
+</tr>
+<tr>
 <td><strong>ProtoSoutheastSolomonic</strong></td><td> </td>
 <td>
 <i>&ast;vaɣalo</i>
 </td>
 <td>
 '<span>Hibiscus tiliaceus</span>'</td>
-</tr>
-<tr>
-<td><strong>PNCV</strong></td><td> </td>
-<td>
-<i>&ast;bʷakala</i>
-</td>
-<td>
-'<span>Hibiscus sp.</span>' (<a href="../references.md#source-Clark1996">Clark1996</a>)
-</td>
-</tr>
-<tr>
-<td><strong>PSV</strong></td><td> </td>
-<td>
-<i>&ast;na-bʷaz</i>
-</td>
-<td>
-'<span>Hibiscus sp.</span>' (<a href="../references.md#source-Lynch2001c">Lynch2001c</a>)
-</td>
-</tr>
-<tr>
-<td>MM</td><td>Kokota</td><td><i>fayalo</i></td>
-<td>
-</td>
 </tr>
 <tr>
 <td>SES</td><td>Bugotu</td><td><i>vaɣaðo</i></td>
@@ -1438,6 +1426,15 @@ The cognate set below contains a number of puzzles. It has just one Western Ocea
 '<span>Hibiscus tiliaceus</span>'</td>
 </tr>
 <tr>
+<td><strong>PNCV</strong></td><td> </td>
+<td>
+<i>&ast;bʷakala</i>
+</td>
+<td>
+'<span>Hibiscus sp.</span>' (<a href="../references.md#source-Clark1996">Clark1996</a>)
+</td>
+</tr>
+<tr>
 <td>NCV</td><td>Mwotlap</td><td><i>na-bʷɣal</i></td>
 <td>
 '<span>Hibiscus rosa-sinensis</span>'</td>
@@ -1473,6 +1470,15 @@ The cognate set below contains a number of puzzles. It has just one Western Ocea
 '<span>Hibiscus rosa-sinensis</span>'</td>
 </tr>
 <tr>
+<td><strong>PSV</strong></td><td> </td>
+<td>
+<i>&ast;na-bʷaz</i>
+</td>
+<td>
+'<span>Hibiscus sp.</span>' (<a href="../references.md#source-Lynch2001c">Lynch2001c</a>)
+</td>
+</tr>
+<tr>
 <td>SV</td><td>Anejom</td><td><i>n-pʷaz</i></td>
 <td>
 '<span>Hibiscus sp.</span>'</td>
@@ -1493,15 +1499,15 @@ cf. also:
 <table>
 <tr>
 <td>SES</td>
-<td>Kwara’ae</td>
-<td><i>fakusu</i></td>
+<td>Lau</td>
+<td><i>fakaso</i></td>
 <td>
 '<span>Hibiscus tiliaceus</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
-<td>Lau</td>
-<td><i>fakaso</i></td>
+<td>Kwara’ae</td>
+<td><i>fakusu</i></td>
 <td>
 '<span>Hibiscus tiliaceus</span>'</td>
 </tr>
@@ -1532,14 +1538,6 @@ Pemphis acidula is a small twisted beach tree (Figure 5.4, left) with very hard,
 <td>
 '<span>Pemphis acidula</span>' (<a href="../references.md#source-Geraghty1990">Geraghty1990: PEOc *ŋiRa</a>)
 </td>
-</tr>
-<tr>
-<td><strong>PCP</strong></td><td> </td>
-<td>
-<i>&ast;ŋi(a)-ŋia</i>
-</td>
-<td>
-'<span>Pemphis acidula</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td>Misima</td><td><i>nila-nila</i></td>
@@ -1593,6 +1591,14 @@ Pemphis acidula is a small twisted beach tree (Figure 5.4, left) with very hard,
 </tr>
 <tr>
 <td>Mic</td><td>Woleaian</td><td><i>(xai)ŋiy</i></td>
+<td>
+'<span>Pemphis acidula</span>'</td>
+</tr>
+<tr>
+<td><strong>PCP</strong></td><td> </td>
+<td>
+<i>&ast;ŋi(a)-ŋia</i>
+</td>
 <td>
 '<span>Pemphis acidula</span>'</td>
 </tr>
@@ -1691,31 +1697,6 @@ PEMP _&ast;nasu-nasu_ is reconstructed on the basis of the Oceanic data here, pl
 '<span>Scaevola taccada</span>'</td>
 </tr>
 <tr>
-<td><strong>PSV</strong></td><td> </td>
-<td>
-<i>&ast;na-nas</i>
-</td>
-<td>
-'<span>tree sp., Scaevola sp.</span>' (<a href="../references.md#source-Lynch2001c">Lynch2001c</a>)
-</td>
-</tr>
-<tr>
-<td><strong>PMic</strong></td><td> </td>
-<td>
-<i>&ast;na-nasu</i>
-</td>
-<td>
-'<span>Scaevola sp.</span>'</td>
-</tr>
-<tr>
-<td><strong>PPn</strong></td><td> </td>
-<td>
-<i>&ast;ŋasu</i>
-</td>
-<td>
-'<span>a seaside shrub, Scaevola sp.</span>'</td>
-</tr>
-<tr>
 <td>Adm</td><td>Pak</td><td><i>na-nas</i></td>
 <td>
 '<span>Scaevola sp. (Nevermann 1934)</span>'</td>
@@ -1746,6 +1727,15 @@ PEMP _&ast;nasu-nasu_ is reconstructed on the basis of the Oceanic data here, pl
 '<span>Scaevola taccada</span>'</td>
 </tr>
 <tr>
+<td><strong>PSV</strong></td><td> </td>
+<td>
+<i>&ast;na-nas</i>
+</td>
+<td>
+'<span>tree sp., Scaevola sp.</span>' (<a href="../references.md#source-Lynch2001c">Lynch2001c</a>)
+</td>
+</tr>
+<tr>
 <td>SV</td><td>Sye</td><td><i>na-ni-na-ni</i></td>
 <td>
 '<span>Scaevola sp.</span>'</td>
@@ -1759,6 +1749,14 @@ PEMP _&ast;nasu-nasu_ is reconstructed on the basis of the Oceanic data here, pl
 <td>SV</td><td>Anejom</td><td><i>na-naθ</i></td>
 <td>
 '<span>Scaevola cylindrica</span>'</td>
+</tr>
+<tr>
+<td><strong>PMic</strong></td><td> </td>
+<td>
+<i>&ast;na-nasu</i>
+</td>
+<td>
+'<span>Scaevola sp.</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Marshallese</td><td><i>(kə)n-nʷat</i></td>
@@ -1775,6 +1773,14 @@ PEMP _&ast;nasu-nasu_ is reconstructed on the basis of the Oceanic data here, pl
 <td>
 '<span>half-flower, Scaevola sp.</span>' (<a href="../references.md#source-Benderetal2003">Benderetal2003</a>)
 </td>
+</tr>
+<tr>
+<td><strong>PPn</strong></td><td> </td>
+<td>
+<i>&ast;ŋasu</i>
+</td>
+<td>
+'<span>a seaside shrub, Scaevola sp.</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>ŋahu</i></td>
@@ -2028,22 +2034,6 @@ Reconstructing the PPn form from the cognate set below is tricky. There are two 
 '<span>Tournefortia argentea</span>' (<span>POLLEX</span>)</td>
 </tr>
 <tr>
-<td><strong>PNPn</strong></td><td> </td>
-<td>
-<i>&ast;tausinu</i>
-</td>
-<td>
-'<span>Tournefortia argentea</span>'</td>
-</tr>
-<tr>
-<td><strong>PNPn</strong></td><td> </td>
-<td>
-<i>&ast;tausunu</i>
-</td>
-<td>
-'<span>Tournefortia argentea</span>'</td>
-</tr>
-<tr>
 <td>Pn</td><td>Tongan</td><td><i>touhuni</i></td>
 <td>
 '<span>Tournefortia argentea</span>'</td>
@@ -2060,6 +2050,14 @@ Reconstructing the PPn form from the cognate set below is tricky. There are two 
 </tr>
 <tr>
 <td>Pn</td><td>Samoan</td><td><i>tausuni</i></td>
+<td>
+'<span>Tournefortia argentea</span>'</td>
+</tr>
+<tr>
+<td><strong>PNPn</strong></td><td> </td>
+<td>
+<i>&ast;tausinu</i>
+</td>
 <td>
 '<span>Tournefortia argentea</span>'</td>
 </tr>
@@ -2087,6 +2085,14 @@ Reconstructing the PPn form from the cognate set below is tricky. There are two 
 <td>Pn</td><td>Māori</td><td><i>tauhinu</i></td>
 <td>
 '<span>shrub sp., Pomaderris phylicaefolia</span>'</td>
+</tr>
+<tr>
+<td><strong>PNPn</strong></td><td> </td>
+<td>
+<i>&ast;tausunu</i>
+</td>
+<td>
+'<span>Tournefortia argentea</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Anutan</td><td><i>tauunu</i></td>
@@ -2207,14 +2213,6 @@ In PPn the two forms would similarly have fallen together as _&ast;lala_, but he
 '<span>shrub sp., Vitex trifolia</span>'</td>
 </tr>
 <tr>
-<td><strong>PPn</strong></td><td> </td>
-<td>
-<i>&ast;lala</i>
-</td>
-<td>
-'<span>shrub, probably Vitex sp.</span>'</td>
-</tr>
-<tr>
 <td>MM</td><td>Patpatar</td><td><i>dala</i></td>
 <td>
 '<span>Vitex trifolia</span>'</td>
@@ -2238,6 +2236,14 @@ In PPn the two forms would similarly have fallen together as _&ast;lala_, but he
 <td>Fij</td><td>Wayan</td><td><i>drala</i></td>
 <td>
 '<span>Vitex trifolia</span>'</td>
+</tr>
+<tr>
+<td><strong>PPn</strong></td><td> </td>
+<td>
+<i>&ast;lala</i>
+</td>
+<td>
+'<span>shrub, probably Vitex sp.</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>lala</i></td>
@@ -2411,13 +2417,6 @@ The Muyuw, Sursurunga, Tangga and Mwotlap forms all reflect POc &ast;-l-. Muyuw 
 cf. also: 
 <table>
 <tr>
-<td>MM</td>
-<td>Lihir</td>
-<td><i>yal-yal</i></td>
-<td>
-'<span>Flagellaria indica</span>'</td>
-</tr>
-<tr>
 <td>PT</td>
 <td>Muyuw</td>
 <td><i>weled</i></td>
@@ -2425,18 +2424,11 @@ cf. also:
 '<span>Flagellaria sp.</span>'</td>
 </tr>
 <tr>
-<td>NCV</td>
-<td>Mwotlap</td>
-<td><i>(ɣa)wol</i></td>
+<td>MM</td>
+<td>Lihir</td>
+<td><i>yal-yal</i></td>
 <td>
-'<span>Flagellaria sp.</span>'</td>
-</tr>
-<tr>
-<td>NCV</td>
-<td>South Efate</td>
-<td><i>n-ala</i></td>
-<td>
-'<span>Flagellaria sp.</span>'</td>
+'<span>Flagellaria indica</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
@@ -2452,6 +2444,20 @@ cf. also:
 <td>
 '<span>vine used in catching fish</span>'(<a href="../references.md#source-Bell1946">Bell1946: 317</a>)
 </td>
+</tr>
+<tr>
+<td>NCV</td>
+<td>Mwotlap</td>
+<td><i>(ɣa)wol</i></td>
+<td>
+'<span>Flagellaria sp.</span>'</td>
+</tr>
+<tr>
+<td>NCV</td>
+<td>South Efate</td>
+<td><i>n-ala</i></td>
+<td>
+'<span>Flagellaria sp.</span>'</td>
 </tr>
 </table>
 
@@ -2613,14 +2619,6 @@ Figure 5.8: Barringtonia asiatica.
 '<span>Barringtonia asiatica</span>' (<span>Biggs 196:5: <em>*putu</em>; French-Wright 1983</span>)</td>
 </tr>
 <tr>
-<td><strong>PEOc</strong></td><td> </td>
-<td>
-<i>&ast;putu(n)</i>
-</td>
-<td>
-'<span>Barringtonia asiatica</span>'</td>
-</tr>
-<tr>
 <td>Adm</td><td>Seimat</td><td><i>hut</i></td>
 <td>
 '<span>Barringtonia asiatica</span>' (<a href="../references.md#source-Sorensen1950">Sorensen1950</a>)
@@ -2743,6 +2741,14 @@ Figure 5.8: Barringtonia asiatica.
 </tr>
 <tr>
 <td>MM</td><td>Kokota</td><td><i>putu</i></td>
+<td>
+'<span>Barringtonia asiatica</span>'</td>
+</tr>
+<tr>
+<td><strong>PEOc</strong></td><td> </td>
+<td>
+<i>&ast;putu(n)</i>
+</td>
 <td>
 '<span>Barringtonia asiatica</span>'</td>
 </tr>
@@ -2986,22 +2992,6 @@ Other reconstructions glossed 'Calophyllum inophyllum' are Proto Meso-Melanesian
 </td>
 </tr>
 <tr>
-<td><strong>ProtoRemoteOceanic</strong></td><td> </td>
-<td>
-<i>&ast;vitaquR</i>
-</td>
-<td>
-'<span>Calophyllum inophyllum</span>'</td>
-</tr>
-<tr>
-<td><strong>PCP</strong></td><td> </td>
-<td>
-<i>&ast;vetaqu</i>
-</td>
-<td>
-'<span>Calophyllum inophyllum</span>'</td>
-</tr>
-<tr>
 <td>Adm</td><td>Mussau</td><td><i>[ŋ]itau</i></td>
 <td>
 '<span>Calophyllum, coastal variety, tree from which slitgong is made</span>'</td>
@@ -3061,6 +3051,14 @@ Other reconstructions glossed 'Calophyllum inophyllum' are Proto Meso-Melanesian
 <td>MM</td><td>Marovo</td><td><i>vi-vijolo</i></td>
 <td>
 '<span>Calophyllum vitiense</span>'</td>
+</tr>
+<tr>
+<td><strong>ProtoRemoteOceanic</strong></td><td> </td>
+<td>
+<i>&ast;vitaquR</i>
+</td>
+<td>
+'<span>Calophyllum inophyllum</span>'</td>
 </tr>
 <tr>
 <td>SV</td><td>Sye</td><td><i>na-viⁿru</i></td>
@@ -3124,6 +3122,14 @@ Other reconstructions glossed 'Calophyllum inophyllum' are Proto Meso-Melanesian
 </tr>
 <tr>
 <td>Mic</td><td>Ponapean</td><td><i>isow</i></td>
+<td>
+'<span>Calophyllum inophyllum</span>'</td>
+</tr>
+<tr>
+<td><strong>PCP</strong></td><td> </td>
+<td>
+<i>&ast;vetaqu</i>
+</td>
 <td>
 '<span>Calophyllum inophyllum</span>'</td>
 </tr>
@@ -3519,8 +3525,22 @@ PCEMP _&ast;talo_ is reconstructed on the basis of the data here and Ngadha (CMP
 cf. also: 
 <table>
 <tr>
+<td>None</td>
+<td>PCP</td>
+<td><i>dilo</i></td>
+<td>
+'<span>Calophyllum inophyllum</span>'</td>
+</tr>
+<tr>
 <td>Fij</td>
 <td>Bauan</td>
+<td><i>dilo</i></td>
+<td>
+'<span>Calophyllum inophyllum</span>'</td>
+</tr>
+<tr>
+<td>Fij</td>
+<td>Wayan</td>
 <td><i>dilo</i></td>
 <td>
 '<span>Calophyllum inophyllum</span>'</td>
@@ -3538,13 +3558,6 @@ cf. also:
 <td><i>tilo</i></td>
 <td>
 '<span>crown of a tree</span>'</td>
-</tr>
-<tr>
-<td>Fij</td>
-<td>Wayan</td>
-<td><i>dilo</i></td>
-<td>
-'<span>Calophyllum inophyllum</span>'</td>
 </tr>
 </table>
 
@@ -3623,15 +3636,6 @@ So many reflexes of _&ast;aRu_ have an initial _y-_ (or other accretion) that it
 </td>
 <td>
 '<span>a shore tree, Casuarina equisetifolia</span>' (<a href="../references.md#source-Blust1972b">Blust1972b</a>)
-</td>
-</tr>
-<tr>
-<td><strong>PEOc</strong></td><td> </td>
-<td>
-<i>&ast;yaRu</i>
-</td>
-<td>
-'<span>Casuarina equisetifolia</span>' (<a href="../references.md#source-Geraghty1990">Geraghty1990</a>)
 </td>
 </tr>
 <tr>
@@ -3759,6 +3763,15 @@ So many reflexes of _&ast;aRu_ have an initial _y-_ (or other accretion) that it
 <td>MM</td><td>Maringe</td><td><i>ñ-aru</i></td>
 <td>
 '<span>Casuarina equisetifolia</span>' (<span>W. McClatchey, pers. comm.</span>)</td>
+</tr>
+<tr>
+<td><strong>PEOc</strong></td><td> </td>
+<td>
+<i>&ast;yaRu</i>
+</td>
+<td>
+'<span>Casuarina equisetifolia</span>' (<a href="../references.md#source-Geraghty1990">Geraghty1990</a>)
+</td>
 </tr>
 <tr>
 <td>SES</td><td>Bugotu</td><td><i>aru</i></td>
@@ -4080,23 +4093,6 @@ As noted in §4.1.8, the expected reflex of POc _&ast;rarap_ 'Indian coral tree,
 '<span>coral tree, Erythrina spp.</span>' (<span>see text</span>)</td>
 </tr>
 <tr>
-<td><strong>PEOc</strong></td><td> </td>
-<td>
-<i>&ast;rarap</i>
-</td>
-<td>
-'<span>Indian coral tree, Erythrina variegata</span>'</td>
-</tr>
-<tr>
-<td><strong>PSV</strong></td><td> </td>
-<td>
-<i>&ast;na-rap</i>
-</td>
-<td>
-'<span>Indian coral tree, Erythrina variegata</span>' (<a href="../references.md#source-Lynch2001c">Lynch2001c</a>)
-</td>
-</tr>
-<tr>
 <td>PT</td><td>Bwaidoga</td><td><i>lalava</i></td>
 <td>
 '<span>Erythrina variegata</span>'</td>
@@ -4131,6 +4127,14 @@ As noted in §4.1.8, the expected reflex of POc _&ast;rarap_ 'Indian coral tree,
 <td>MM</td><td>Maringe</td><td><i>grara</i></td>
 <td>
 '<span>Erythrina orientalis</span>' (<span>W. McClatchey, pers. comm.</span>)</td>
+</tr>
+<tr>
+<td><strong>PEOc</strong></td><td> </td>
+<td>
+<i>&ast;rarap</i>
+</td>
+<td>
+'<span>Indian coral tree, Erythrina variegata</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Gela</td><td><i>rara</i></td>
@@ -4196,6 +4200,15 @@ As noted in §4.1.8, the expected reflex of POc _&ast;rarap_ 'Indian coral tree,
 <td>NCV</td><td>Lewo</td><td><i>(puru)tē</i></td>
 <td>
 '<span>Erythrina variegata</span>'</td>
+</tr>
+<tr>
+<td><strong>PSV</strong></td><td> </td>
+<td>
+<i>&ast;na-rap</i>
+</td>
+<td>
+'<span>Indian coral tree, Erythrina variegata</span>' (<a href="../references.md#source-Lynch2001c">Lynch2001c</a>)
+</td>
 </tr>
 <tr>
 <td>SV</td><td>Sye</td><td><i>na-rap</i></td>
@@ -4380,14 +4393,6 @@ POc _&ast;buRat_ was apparently the specific term for Fagraea berteroana. Centra
 '<span>Fagraea berteroana</span>'</td>
 </tr>
 <tr>
-<td><strong>PPn</strong></td><td> </td>
-<td>
-<i>&ast;pua</i>
-</td>
-<td>
-'<span>taxon including Fagraea herteroana and Guettarda speciosa</span>'</td>
-</tr>
-<tr>
 <td>MM</td><td>Roviana</td><td><i>bu-burata</i></td>
 <td>
 '<span>Fagraea berteroana</span>'</td>
@@ -4458,6 +4463,14 @@ POc _&ast;buRat_ was apparently the specific term for Fagraea berteroana. Centra
 <td>Fij</td><td>Bauan</td><td><i>bua</i></td>
 <td>
 '<span>Fagraea spp.</span>'</td>
+</tr>
+<tr>
+<td><strong>PPn</strong></td><td> </td>
+<td>
+<i>&ast;pua</i>
+</td>
+<td>
+'<span>taxon including Fagraea herteroana and Guettarda speciosa</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Niuean</td><td><i>pua</i></td>
@@ -4566,17 +4579,17 @@ POc _&ast;buRat_ was apparently the specific term for Fagraea berteroana. Centra
 '<span>Guettarda speciosa or Fagraea sp.</span>'</td>
 </tr>
 <tr>
+<td>Fij</td><td>Bauan</td><td><i>bua-bua</i></td>
+<td>
+'<span>tree with very hard incorruptible wood, used for making the posts of houses, Fagraea gracilipes</span>'</td>
+</tr>
+<tr>
 <td><strong>PPn</strong></td><td> </td>
 <td>
 <i>&ast;pua-pua</i>
 </td>
 <td>
 '<span>Guettarda speciosa</span>'</td>
-</tr>
-<tr>
-<td>Fij</td><td>Bauan</td><td><i>bua-bua</i></td>
-<td>
-'<span>tree with very hard incorruptible wood, used for making the posts of houses, Fagraea gracilipes</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>puopua</i></td>
@@ -4746,22 +4759,6 @@ G. speciosa is sometimes labelled with the same term as the epiphyte Fagraea ber
 '<span>Guettarda speciosa</span>'</td>
 </tr>
 <tr>
-<td><strong>PSV</strong></td><td> </td>
-<td>
-<i>&ast;na-(v,w)an(vu)</i>
-</td>
-<td>
-'<span>Guettarda speciosa</span>'</td>
-</tr>
-<tr>
-<td><strong>PPn</strong></td><td> </td>
-<td>
-<i>&ast;(f,p)ano</i>
-</td>
-<td>
-'<span>Guettarda speciosa</span>'</td>
-</tr>
-<tr>
 <td>PT</td><td>Muyuw</td><td><i>pano-pan</i></td>
 <td>
 '<span>Guettarda sp.</span>'</td>
@@ -4773,6 +4770,14 @@ G. speciosa is sometimes labelled with the same term as the epiphyte Fagraea ber
 </tr>
 <tr>
 <td>NCV</td><td>South Efate</td><td><i>n-fan</i></td>
+<td>
+'<span>Guettarda speciosa</span>'</td>
+</tr>
+<tr>
+<td><strong>PSV</strong></td><td> </td>
+<td>
+<i>&ast;na-(v,w)an(vu)</i>
+</td>
 <td>
 '<span>Guettarda speciosa</span>'</td>
 </tr>
@@ -4793,6 +4798,14 @@ G. speciosa is sometimes labelled with the same term as the epiphyte Fagraea ber
 </tr>
 <tr>
 <td>NCal</td><td>Iaai</td><td><i>φeñi</i></td>
+<td>
+'<span>Guettarda speciosa</span>'</td>
+</tr>
+<tr>
+<td><strong>PPn</strong></td><td> </td>
+<td>
+<i>&ast;(f,p)ano</i>
+</td>
 <td>
 '<span>Guettarda speciosa</span>'</td>
 </tr>
@@ -4847,6 +4860,11 @@ POc _&ast;qope_ appears to have been the term for Gyrocarpus americanus. Only on
 '<span>Gyrocarpus americanus</span>'</td>
 </tr>
 <tr>
+<td>Adm</td><td>Titan</td><td><i>ñ-ow</i></td>
+<td>
+'<span>tree sp. used for making canoes</span>'</td>
+</tr>
+<tr>
 <td><strong>PNCV</strong></td><td> </td>
 <td>
 <i>&ast;(q)ove</i>
@@ -4854,11 +4872,6 @@ POc _&ast;qope_ appears to have been the term for Gyrocarpus americanus. Only on
 <td>
 '<span>Gyrocarpus americanus</span>' (<a href="../references.md#source-Clark1996">Clark1996</a>)
 </td>
-</tr>
-<tr>
-<td>Adm</td><td>Titan</td><td><i>ñ-ow</i></td>
-<td>
-'<span>tree sp. used for making canoes</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Mota</td><td><i>ovi</i></td>
@@ -5102,22 +5115,6 @@ Two forms denoting Pisonia species are reconstructable. POc _&ast;[a]nuliŋ_ may
 '<span>taxon of littoral trees, including Pisonia spp. and Gyrocarpus americanus</span>' (<span>Geraghty 1983 *puka 'Hernandia pisonia'</span>)</td>
 </tr>
 <tr>
-<td><strong>PCP</strong></td><td> </td>
-<td>
-<i>&ast;buka</i>
-</td>
-<td>
-'<span>taxon of littoral trees, including Pisonia spp., Hernandia nymphaeifolia and Gyrocarpus americanus</span>'</td>
-</tr>
-<tr>
-<td><strong>PPn</strong></td><td> </td>
-<td>
-<i>&ast;puka-tea</i>
-</td>
-<td>
-'<span>Pisonia sp. or spp.</span>' (<span><em>puka 'Pisonia sp.', </em>tea 'white'</span>)</td>
-</tr>
-<tr>
 <td>NCV</td><td>Ambae</td><td><i>boɣa</i></td>
 <td>
 '<span>Pisonia umbellifera</span>'</td>
@@ -5171,6 +5168,14 @@ Two forms denoting Pisonia species are reconstructable. POc _&ast;[a]nuliŋ_ may
 <td>Mic</td><td>Ponapean</td><td><i>puek</i></td>
 <td>
 '<span>tulip tree sp.</span>'</td>
+</tr>
+<tr>
+<td><strong>PCP</strong></td><td> </td>
+<td>
+<i>&ast;buka</i>
+</td>
+<td>
+'<span>taxon of littoral trees, including Pisonia spp., Hernandia nymphaeifolia and Gyrocarpus americanus</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>buka(ni vuda)</i></td>
@@ -5309,6 +5314,14 @@ Two forms denoting Pisonia species are reconstructable. POc _&ast;[a]nuliŋ_ may
 '<span>Pisonia umbellifera ?, Pisonia grandis ?</span>'</td>
 </tr>
 <tr>
+<td><strong>PPn</strong></td><td> </td>
+<td>
+<i>&ast;puka-tea</i>
+</td>
+<td>
+'<span>Pisonia sp. or spp.</span>' (<span><em>puka 'Pisonia sp.', </em>tea 'white'</span>)</td>
+</tr>
+<tr>
 <td>Pn</td><td>Niuean</td><td><i>pukatea</i></td>
 <td>
 '<span>Pisonia grandis</span>'</td>
@@ -5374,25 +5387,17 @@ POLLEX2 and [Geraghty](../references.md#source-Geraghty2004) ([2004](../referenc
 '<span>a coastal forest tree, perhaps Pongamia pinnata</span>'</td>
 </tr>
 <tr>
+<td>MM</td><td>Teop</td><td><i>pes</i></td>
+<td>
+'<span>Pongamia pinnata</span>'</td>
+</tr>
+<tr>
 <td><strong>PCP</strong></td><td> </td>
 <td>
 <i>&ast;vesi</i>
 </td>
 <td>
 '<span>a coastal forest tree taxon including Pongamia pinnata and Intsia bijuga</span>'</td>
-</tr>
-<tr>
-<td><strong>PPn</strong></td><td> </td>
-<td>
-<i>&ast;fesi</i>
-</td>
-<td>
-'<span>Intsia bijuga</span>'</td>
-</tr>
-<tr>
-<td>MM</td><td>Teop</td><td><i>pes</i></td>
-<td>
-'<span>Pongamia pinnata</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>vesi</i></td>
@@ -5406,6 +5411,14 @@ POLLEX2 and [Geraghty](../references.md#source-Geraghty2004) ([2004](../referenc
 </tr>
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>vesi, vesi (dū)</i></td>
+<td>
+'<span>Intsia bijuga</span>'</td>
+</tr>
+<tr>
+<td><strong>PPn</strong></td><td> </td>
+<td>
+<i>&ast;fesi</i>
+</td>
 <td>
 '<span>Intsia bijuga</span>'</td>
 </tr>
@@ -5445,30 +5458,6 @@ The POc term was _&ast;arop_, with a reduplicated reflex in PCP (and Bugotu). In
 <td><strong>POc</strong></td><td> </td>
 <td>
 <i>&ast;qarop</i>
-</td>
-<td>
-'<span>Premna spp.</span>'</td>
-</tr>
-<tr>
-<td><strong>PCP</strong></td><td> </td>
-<td>
-<i>&ast;aro-aro</i>
-</td>
-<td>
-'<span>Premna spp.</span>'</td>
-</tr>
-<tr>
-<td><strong>PPn</strong></td><td> </td>
-<td>
-<i>&ast;alo-alo</i>
-</td>
-<td>
-'<span>Premna sp.</span>'</td>
-</tr>
-<tr>
-<td><strong>PPn</strong></td><td> </td>
-<td>
-<i>&ast;walo-walo</i>
 </td>
 <td>
 '<span>Premna spp.</span>'</td>
@@ -5533,12 +5522,28 @@ The POc term was _&ast;arop_, with a reduplicated reflex in PCP (and Bugotu). In
 '<span>Premna integrifolia</span>'</td>
 </tr>
 <tr>
+<td><strong>PCP</strong></td><td> </td>
+<td>
+<i>&ast;aro-aro</i>
+</td>
+<td>
+'<span>Premna spp.</span>'</td>
+</tr>
+<tr>
 <td>Fij</td><td>Wayan</td><td><i>ar-aro</i></td>
 <td>
 '<span>Premna spp.</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>yaro-yaro</i></td>
+<td>
+'<span>Premna sp.</span>'</td>
+</tr>
+<tr>
+<td><strong>PPn</strong></td><td> </td>
+<td>
+<i>&ast;alo-alo</i>
+</td>
 <td>
 '<span>Premna sp.</span>'</td>
 </tr>
@@ -5556,6 +5561,14 @@ The POc term was _&ast;arop_, with a reduplicated reflex in PCP (and Bugotu). In
 <td>Pn</td><td>Samoan</td><td><i>alo-alo (tai)</i></td>
 <td>
 '<span>a beach shrub, Clerodendrum inerme</span>'</td>
+</tr>
+<tr>
+<td><strong>PPn</strong></td><td> </td>
+<td>
+<i>&ast;walo-walo</i>
+</td>
+<td>
+'<span>Premna spp.</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>East Uvean</td><td><i>valo-valo</i></td>

@@ -1,6 +1,4 @@
-# Acts of Impact, Force and Change of State
-
-by Ross, M., Clark, R. and Osmond, M.
+[Ross, M. and Clark, R. and Osmond, M.](.smallcaps)
 
 
 <a id="s-1"></a>
@@ -178,7 +176,7 @@ The generic term for any kind of wearing down by friction was  POc _&ast;asa(q)_
 <i>&ast;kirkir</i>
 </td>
 <td>
-(v) '<span>file, rasp</span>' (<a href="../references.md#source-Blust1977a">Blust1977a</a>)
+[V] '<span>file, rasp</span>' (<a href="../references.md#source-Blust1977a">Blust1977a</a>)
 </td>
 </tr>
 <tr>
@@ -207,7 +205,7 @@ The generic term for any kind of wearing down by friction was  POc _&ast;asa(q)_
 <tr>
 <td>PT</td><td>Motu</td><td><i>iri</i></td>
 <td>
-(N) '<span>saw</span>'</td>
+[N] '<span>saw</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td>Motu</td><td><i>iri-ri</i></td>
@@ -222,7 +220,7 @@ The generic term for any kind of wearing down by friction was  POc _&ast;asa(q)_
 <tr>
 <td>Pn</td><td>Tokelauan</td><td><i>kili</i></td>
 <td>
-(v) '<span>file, rasp</span>'</td>
+[V] '<span>file, rasp</span>'</td>
 </tr>
 </table>
 
@@ -245,12 +243,12 @@ The generic term for any kind of wearing down by friction was  POc _&ast;asa(q)_
 <tr>
 <td>NNG</td><td>Mangseng</td><td><i>kir(oŋa)</i></td>
 <td>
-(N) '<span>file</span>' (<span><em>-oŋa</em> NOM</span>)</td>
+[N] '<span>file</span>' (<span>-oŋa NOM</span>)</td>
 </tr>
 <tr>
 <td>SES</td><td>Gela</td><td><i>gi-giri</i></td>
 <td>
-(N) '<span>rasp; a saw</span>'</td>
+[N] '<span>rasp; a saw</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Lau</td><td><i>giri-giri</i></td>
@@ -262,18 +260,18 @@ The generic term for any kind of wearing down by friction was  POc _&ast;asa(q)_
 cf. also: 
 <table>
 <tr>
-<td>PT</td>
-<td>Motu</td>
-<td><i>riri</i></td>
-<td>
-'<span>grate (yams +)</span>'</td>
-</tr>
-<tr>
 <td>NNG</td>
 <td>Takia</td>
 <td><i>riri</i></td>
 <td>
 '<span>grate, pulverise by rubbing against s.t. rough; rasp</span>'</td>
+</tr>
+<tr>
+<td>PT</td>
+<td>Motu</td>
+<td><i>riri</i></td>
+<td>
+'<span>grate (yams +)</span>'</td>
 </tr>
 </table>
 
@@ -360,7 +358,7 @@ POc _&ast;karu(t)_, _&ast;karut-i-_ seems to have referred to scratching with fi
 <tr>
 <td>NCV</td><td>Nguna</td><td><i>karuti</i></td>
 <td>
-(VT) '<span>scratch</span>'</td>
+[VT] '<span>scratch</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Marshallese</td><td><i>kar</i></td>
@@ -501,7 +499,7 @@ We retain the pairs of forms below, because this interpretation is not conclusiv
 <i>&ast;kara(s), karas-i-</i>
 </td>
 <td>
-'<span>peel or scrape skin off tubers</span>' (<span>Lichtenberk</span>)</td>
+'<span>peel or scrape skin off tubers</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Mussau</td><td><i>kalasi</i></td>
@@ -521,7 +519,7 @@ We retain the pairs of forms below, because this interpretation is not conclusiv
 <tr>
 <td>MM</td><td>Maringe</td><td><i>ka-krasi</i></td>
 <td>
-'<span>scrape off potato or taro skin, using a shell</span>' (<span>also kekesi</span>)</td>
+'<span>scrape off potato or taro skin, using a shell</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Arosi</td><td><i>karasi</i></td>
@@ -590,7 +588,8 @@ cf. also:
 <i>&ast;kari(s), karis-i-</i>
 </td>
 <td>
-'<span>scrape (tubers, coconuts)</span>' (<span>Lichtenberk</span>); '<span>scratch a mark on s.t.</span>'</td>
+'<span>scrape (tubers, coconuts)</span>' (<a href="../references.md#source-Lichtenberk1994">Lichtenberk1994</a>)
+; '<span>scratch a mark on s.t.</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Kove</td><td><i>karisi</i></td>
@@ -610,7 +609,7 @@ cf. also:
 <tr>
 <td>PT</td><td>Motu</td><td><i>ari-</i></td>
 <td>
-(V) '<span>mark, indent (as bottom of canoe with stones)</span>'</td>
+[V] '<span>mark, indent (as bottom of canoe with stones)</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Bulu</td><td><i>kari</i></td>
@@ -620,7 +619,7 @@ cf. also:
 <tr>
 <td>MM</td><td>Maringe</td><td><i>kai-kari</i></td>
 <td>
-(VT) '<span>scrape off (e.g. mud from one's feet), remove with scraping action, usually with implement like a piece of bamboo</span>'</td>
+[VT] '<span>scrape off (e.g. mud from one's feet), remove with scraping action, usually with implement like a piece of bamboo</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Gela</td><td><i>kari</i></td>
@@ -747,7 +746,7 @@ Note that _&ast;kori(s)_ may have occurred in POc, but its WOc reflexes would be
 <tr>
 <td>NCV</td><td>Mota</td><td><i>(vin)gar</i></td>
 <td>
-'<span>cockle shell, used to cut yam vines and to scrape out meat from coconut</span>' (<span>vin from viniu 'skin, bark, husk, partic. of coconut'</span>)</td>
+'<span>cockle shell, used to cut yam vines and to scrape out meat from coconut</span>' (<span><em>vin</em> from <em>viniu</em> 'skin, bark, husk, partic. of coconut'</span>)</td>
 </tr>
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>kai</i></td>
@@ -825,7 +824,7 @@ Note that _&ast;kori(s)_ may have occurred in POc, but its WOc reflexes would be
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>(i)koi</i></td>
 <td>
-'<span>shellfish</span>'</td>
+'<span>shellfish</span>' (<span><em>i-</em> &lt; POc <em>*i-</em> INS</span>)</td>
 </tr>
 </table>
 
@@ -915,25 +914,25 @@ Note that _&ast;kori(s)_ may have occurred in POc, but its WOc reflexes would be
 cf. also: 
 <table>
 <tr>
-<td>SES</td>
-<td>Lau</td>
-<td><i>kesi</i></td>
+<td>PT</td>
+<td>Motu</td>
+<td><i>ka-kasi</i></td>
 <td>
-'<span>scrape off burnt outside after roasting taro; strike a match</span>'</td>
+'<span>scratch, scrape</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
 <td>Maringe</td>
 <td><i>ke-kesi</i></td>
 <td>
-(VT) '<span>scrape roasted potato, taro or yam skins</span>'</td>
+[VT] '<span>scrape roasted potato, taro or yam skins</span>'</td>
 </tr>
 <tr>
-<td>PT</td>
-<td>Motu</td>
-<td><i>ka-kasi</i></td>
+<td>SES</td>
+<td>Lau</td>
+<td><i>kesi</i></td>
 <td>
-'<span>scratch, scrape</span>'</td>
+'<span>scrape off burnt outside after roasting taro; strike a match</span>'</td>
 </tr>
 </table>
 
@@ -1063,7 +1062,7 @@ The two PEOc items below straddle the semantic divide between this section and t
 <tr>
 <td>SES</td><td>Arosi</td><td><i>taro(hi)</i></td>
 <td>
-(VT) '<span>brush off dirt, clean yam tubers; rub, massage</span>'</td>
+[VT] '<span>brush off dirt, clean yam tubers; rub, massage</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>(i)sakaro</i></td>
@@ -1136,12 +1135,12 @@ The two PEOc items below straddle the semantic divide between this section and t
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>varoki</i></td>
 <td>
-(VT) '<span>cut s.t. with a saw</span>'</td>
+[VT] '<span>cut s.t. with a saw</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>varo</i></td>
 <td>
-(V) '<span>file, saw, or rasp</span>'</td>
+[v] '<span>file, saw, or rasp</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Māori</td><td><i>faro, fa-faro</i></td>
@@ -1196,7 +1195,7 @@ Rubbing in Oceanic languages is roughly divisible into two semantic categories: 
 <tr>
 <td>MM</td><td>Tolai</td><td><i>ū</i></td>
 <td>
-(VT,VI) '<span>wipe</span>'</td>
+[VT, VI] '<span>wipe</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Gela</td><td><i>uhu</i></td>
@@ -1496,7 +1495,7 @@ Of the verbs reconstructed below, POc _&ast;salap_ refers to the action performe
 <tr>
 <td>MM</td><td>Tolai</td><td><i>avu(lar)</i></td>
 <td>
-(VT) '<span>brush or wipe off, as dust with the hand</span>'</td>
+[VT] '<span>brush or wipe off, as dust with the hand</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Talise</td><td><i>savu(lano)</i></td>
@@ -1727,7 +1726,7 @@ The evidence suggests that _&ast;taRa(q)_ 'adze' already had a corresponding ver
 <i>&ast;taRa(q)</i>
 </td>
 <td>
-(N, V) '<span>adze</span>'</td>
+[N. V] '<span>adze</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
@@ -1740,7 +1739,7 @@ The evidence suggests that _&ast;taRa(q)_ 'adze' already had a corresponding ver
 <tr>
 <td>NNG</td><td>Takia</td><td><i>tare</i></td>
 <td>
-(VT) '<span>cut, hew, as with an axe</span>'</td>
+[VT] '<span>cut, hew, as with an axe</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Manam</td><td><i>tara</i></td>
@@ -1750,7 +1749,7 @@ The evidence suggests that _&ast;taRa(q)_ 'adze' already had a corresponding ver
 <tr>
 <td>PT</td><td>Motu</td><td><i>tarai-</i></td>
 <td>
-(V) '<span>adze, chop, cut wood</span>'</td>
+[V] '<span>adze, chop, cut wood</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td>Iduna</td><td><i>tala-</i></td>
@@ -1760,7 +1759,7 @@ The evidence suggests that _&ast;taRa(q)_ 'adze' already had a corresponding ver
 <tr>
 <td>PT</td><td>Dobu</td><td><i>tala</i></td>
 <td>
-(VT) '<span>fell a tree, cut out a canoe; lance flesh</span>'</td>
+[VT] '<span>fell a tree, cut out a canoe; lance flesh</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td>Gapapaiwa</td><td><i>tara</i></td>
@@ -1810,7 +1809,7 @@ The evidence suggests that _&ast;taRa(q)_ 'adze' already had a corresponding ver
 <tr>
 <td>Mic</td><td>Kiribatese</td><td><i>ta-tā</i></td>
 <td>
-(v) '<span>adze</span>'</td>
+[V] '<span>adze</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Carolinian</td><td><i>sār</i></td>
@@ -1913,7 +1912,7 @@ The POc term for an obsidian blade was apparently _&ast;koto_ (Ch. 4, §4.1.3) a
 <tr>
 <td>SES</td><td>Arosi</td><td><i>koto</i></td>
 <td>
-(V) '<span>spear</span>'</td>
+[V] '<span>spear</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Arosi</td><td><i>oto</i></td>
@@ -2033,7 +2032,7 @@ POc _&ast;utu(s)_, _&ast;utus-i-_ appears to have been a generic verb of severin
 <tr>
 <td>SES</td><td>Bugotu</td><td><i>utuhi</i></td>
 <td>
-(VT) '<span>sever, cut off, cut in two</span>'</td>
+[VT] '<span>sever, cut off, cut in two</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Mota</td><td><i>ut</i></td>
@@ -2093,18 +2092,18 @@ POc _&ast;utu(s)_, _&ast;utus-i-_ appears to have been a generic verb of severin
 cf. also: 
 <table>
 <tr>
-<td>Fij</td>
-<td>Bauan</td>
-<td><i>gutu, gutuv(a)</i></td>
-<td>
-'<span>cut off, sever</span>'</td>
-</tr>
-<tr>
 <td>MM</td>
 <td>Maringe</td>
 <td><i>kusu</i></td>
 <td>
 '<span>sever, cut off, break (rope-like object)</span>'</td>
+</tr>
+<tr>
+<td>Fij</td>
+<td>Bauan</td>
+<td><i>gutu, gutuv(a)</i></td>
+<td>
+'<span>cut off, sever</span>'</td>
 </tr>
 </table>
 
@@ -2123,7 +2122,7 @@ In the following set, the occurrence of stative perfective glosses like 'torn', 
 <tr>
 <td>Adm</td><td>Loniu</td><td><i>mot</i></td>
 <td>
-(VI) '<span>be broken, break</span>'</td>
+[VI] '<span>be broken, break</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td>Motu</td><td><i>motu</i></td>
@@ -2138,17 +2137,17 @@ In the following set, the occurrence of stative perfective glosses like 'torn', 
 <tr>
 <td>MM</td><td>Tolai</td><td><i>mutu</i></td>
 <td>
-(VT) '<span>cut out, as a canoe etc.; to cut up as timber; to cut down</span>'</td>
+[VT] '<span>cut out, as a canoe etc.; to cut up as timber; to cut down</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Bugotu</td><td><i>(ka)moto</i></td>
 <td>
-(ADJ) '<span>cut off, broken off short</span>'</td>
+[ADJ] '<span>cut off, broken off short</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Lau</td><td><i>mū</i></td>
 <td>
-(vI) '<span>cease, be discontinued; separated, severed</span>'</td>
+[vI] '<span>cease, be discontinued; separated, severed</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Lau</td><td><i>moi</i></td>
@@ -2158,7 +2157,7 @@ In the following set, the occurrence of stative perfective glosses like 'torn', 
 <tr>
 <td>SES</td><td>Sa'a</td><td><i>mou</i></td>
 <td>
-(VI) '<span>be broken off</span>'</td>
+[VI] '<span>be broken off</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Mota</td><td><i>mut</i></td>
@@ -2325,20 +2324,6 @@ cf. also:
 <table>
 <tr>
 <td>Fij</td>
-<td>Bauan</td>
-<td><i>mudu</i></td>
-<td>
-'<span>be cut off, ceased, ended, amputated</span>'</td>
-</tr>
-<tr>
-<td>Fij</td>
-<td>Bauan</td>
-<td><i>muduk(a)</i></td>
-<td>
-(VT) '<span>cut off, cause to cease</span>'</td>
-</tr>
-<tr>
-<td>Fij</td>
 <td>Wayan</td>
 <td><i>mudu</i></td>
 <td>
@@ -2349,7 +2334,21 @@ cf. also:
 <td>Wayan</td>
 <td><i>muduki-</i></td>
 <td>
-(VT) '<span>cut s.t. off, amputate; bring s.t. to an end</span>' (<span>also muduvi, but in less common use</span>)</td>
+[VT] '<span>cut s.t. off, amputate; bring s.t. to an end</span>' (<span>also muduvi, but in less common use</span>)</td>
+</tr>
+<tr>
+<td>Fij</td>
+<td>Bauan</td>
+<td><i>mudu</i></td>
+<td>
+'<span>be cut off, ceased, ended, amputated</span>'</td>
+</tr>
+<tr>
+<td>Fij</td>
+<td>Bauan</td>
+<td><i>muduk(a)</i></td>
+<td>
+[VT] '<span>cut off, cause to cease</span>'</td>
 </tr>
 </table>
 
@@ -2439,7 +2438,7 @@ cf. also:
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>koti</i></td>
 <td>
-'<span>clip, shear, cut off small things</span>'</td>
+'<span>clip, shear, cut off small things</span>' (<span>esp. with a shell or sliver of bamboo</span>)</td>
 </tr>
 <tr>
 <td>Pn</td><td>Niuean</td><td><i>koti</i></td>
@@ -2536,7 +2535,7 @@ cf. also:
 <tr>
 <td>SES</td><td>Gela</td><td><i>pusi</i></td>
 <td>
-(VT) '<span>cut off</span>'</td>
+[VT] '<span>cut off</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>West Guadalcanal</td><td><i>vusi</i></td>
@@ -2644,17 +2643,17 @@ cf. also:
 <table>
 <tr>
 <td>Fij</td>
-<td>Bauan</td>
-<td><i>ðebe(ta)</i></td>
-<td>
-'<span>cut in thin slices (bread, cake); cut in two (cloth, rope, stem of bunch of bananas); circumcise, superincise (polite term)</span>'</td>
-</tr>
-<tr>
-<td>Fij</td>
 <td>Wayan</td>
 <td><i>ðebe(ti)</i></td>
 <td>
 '<span>cut s.t. open (esp. soft or flexible things), cut s.t. off or up, slice s.t., dissect</span>'</td>
+</tr>
+<tr>
+<td>Fij</td>
+<td>Bauan</td>
+<td><i>ðebe(ta)</i></td>
+<td>
+'<span>cut in thin slices (bread, cake); cut in two (cloth, rope, stem of bunch of bananas); circumcise, superincise (polite term)</span>'</td>
 </tr>
 </table>
 
@@ -2804,7 +2803,7 @@ The reconstructions below are separated from those of splitting in §3.8largely 
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>vasi</i></td>
 <td>
-(VT) '<span>cut s.t. to a point; cut off the bark</span>'</td>
+[VT] '<span>cut s.t. to a point; cut off the bark</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>vasi</i></td>
@@ -2899,25 +2898,25 @@ cf. also:
 <tr>
 <td>SES</td><td>Tolo</td><td><i>poha</i></td>
 <td>
-(VT) '<span>hammer, smash (with a stone)</span>'</td>
+[VT] '<span>hammer, smash (with a stone)</span>'</td>
 </tr>
 </table>
 
 cf. also: 
 <table>
 <tr>
-<td>Mic</td>
-<td>Carolinian</td>
-<td><i>pax</i></td>
-<td>
-(VI) '<span>be cut, split</span>'</td>
-</tr>
-<tr>
 <td>Fij</td>
 <td>Wayan</td>
 <td><i>boka(ti-)</i></td>
 <td>
 '<span>split or cut s.t. in half with a blow; cut s.t. up in this way (e.g. coconut, breadfruit, wood)</span>'</td>
+</tr>
+<tr>
+<td>Mic</td>
+<td>Carolinian</td>
+<td><i>pax</i></td>
+<td>
+[VI] '<span>be cut, split</span>'</td>
 </tr>
 </table>
 
@@ -3055,7 +3054,7 @@ The two items below, POc _&ast;taba(s)_, _&ast;taba(s)-i-_ 'cut' and POc _&ast;t
 <tr>
 <td>Mic</td><td>Woleaian</td><td><i>tefa</i></td>
 <td>
-(VT) '<span>cut, slice</span>'</td>
+[VT] '<span>cut, slice</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Trukese</td><td><i>safeti</i></td>
@@ -3065,7 +3064,7 @@ The two items below, POc _&ast;taba(s)_, _&ast;taba(s)-i-_ 'cut' and POc _&ast;t
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>tavā</i></td>
 <td>
-'<span>(of flesh of living or dead body) make a long but superficial cut</span>' (<span>Milner</span>); (VT) '<span>cut with a knife, as meat from a carcass</span>' (<span>Capell</span>)</td>
+'<span>(of flesh of living or dead body) make a long but superficial cut</span>' (<span>Milner</span>); [VT] '<span>cut with a knife, as meat from a carcass</span>' (<span>Capell</span>)</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>tafa</i></td>
@@ -3103,17 +3102,17 @@ The reconstruction of POc _&ast;sapʷi_, as distinct from _&ast;sapi_ (§3.7), i
 <tr>
 <td>Adm</td><td>Loniu</td><td><i>sah</i></td>
 <td>
-(VT) '<span>chop, carve, sharpen, whittle</span>'</td>
+[VT] '<span>chop, carve, sharpen, whittle</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Loniu</td><td><i>sehi</i></td>
 <td>
-(VT) '<span>chip, carve, sharpen, whittle</span>'</td>
+[VT] '<span>chip, carve, sharpen, whittle</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Loniu</td><td><i>sehi-sah</i></td>
 <td>
-(VI) '<span>carve, whittle</span>'</td>
+[VI] '<span>carve, whittle</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Mangap</td><td><i>sap</i></td>
@@ -3148,7 +3147,7 @@ The reconstruction of POc _&ast;sapʷi_, as distinct from _&ast;sapi_ (§3.7), i
 <tr>
 <td>MM</td><td>Tolai</td><td><i>api</i></td>
 <td>
-(VT) '<span>dress wood by chipping it; to level</span>'</td>
+[VT] '<span>dress wood by chipping it; to level</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Bauro</td><td><i>tapi-</i></td>
@@ -3186,7 +3185,7 @@ The reconstruction of POc _&ast;sapʷi_, as distinct from _&ast;sapi_ (§3.7), i
 <tr>
 <td>MM</td><td>Tolai</td><td><i>kala</i></td>
 <td>
-(VT) '<span>cut out as a canoe</span>'</td>
+[VT] '<span>cut out as a canoe</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Tolo</td><td><i>kala</i></td>
@@ -3443,7 +3442,7 @@ The two verbs reconstructed below referred to cutting, but the glosses of their 
 <tr>
 <td>SES</td><td>Sa'a</td><td><i>olo</i></td>
 <td>
-(VT) '<span>cut the ends off</span>' (<span>oLo pwau 'cut hair'</span>)</td>
+[VT] '<span>cut the ends off</span>' (<span>oLo pwau 'cut hair'</span>)</td>
 </tr>
 <tr>
 <td>SES</td><td>Arosi</td><td><i>ʔoro</i></td>
@@ -3715,7 +3714,7 @@ POc _&ast;tosi_ 'score, split, pull apart lengthwise' is included here because i
 <i>&ast;kulit</i>
 </td>
 <td>
-(N) '<span>skin</span>'; (V) '<span>peel, remove skin of s.t.</span>'</td>
+[N] '<span>skin</span>'; [v] '<span>peel, remove skin of s.t.</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
@@ -3723,7 +3722,7 @@ POc _&ast;tosi_ 'score, split, pull apart lengthwise' is included here because i
 <i>&ast;kulit, kulit-i-</i>
 </td>
 <td>
-(N) '<span>skin</span>'; (v) '<span>peel, remove skin of s.t., bark (a tree)</span>'</td>
+[N] '<span>skin</span>'; [V] '<span>peel, remove skin of s.t., bark (a tree)</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Sengseng</td><td><i>kul</i></td>
@@ -3743,27 +3742,27 @@ POc _&ast;tosi_ 'score, split, pull apart lengthwise' is included here because i
 <tr>
 <td>MM</td><td>Tolai</td><td><i>kulit</i></td>
 <td>
-(V) '<span>peel off, remove bark, remove skin</span>'</td>
+[V] '<span>peel off, remove bark, remove skin</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Simbo</td><td><i>guli, guli-</i></td>
 <td>
-(V) '<span>skin, pare skin off</span>'</td>
+[V] '<span>skin, pare skin off</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Gela</td><td><i>guli, guliti-</i></td>
 <td>
-(V) '<span>skin, bark (shin or a tree +); take the scab off a sore</span>'</td>
+[V] '<span>skin, bark (shin or a tree +); take the scab off a sore</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Arosi</td><td><i>ʔuri</i></td>
 <td>
-(V) '<span>peel</span>'</td>
+[V] '<span>peel</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>kuli</i></td>
 <td>
-(N) '<span>skin, bark, peel</span>'</td>
+[N] '<span>skin, bark, peel</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>kulit-</i></td>
@@ -3871,7 +3870,7 @@ Of the Polynesian reflexes, we have, on grounds of meaning, attributed Rennelles
 <tr>
 <td>NNG</td><td>Manam</td><td><i>sisi(ʔ)</i></td>
 <td>
-(v) '<span>peel, pare (sweet potatoes, bananas +), bark (tree)</span>'</td>
+[v] '<span>peel, pare (sweet potatoes, bananas +), bark (tree)</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Numbami</td><td><i>sisi</i></td>
@@ -3891,7 +3890,7 @@ Of the Polynesian reflexes, we have, on grounds of meaning, attributed Rennelles
 <tr>
 <td>SES</td><td>Gela</td><td><i>hihi</i></td>
 <td>
-'<span>scoop out the white flesh of a coconut; push out, prise out; open (tin +)</span>'</td>
+[VT] '<span>scoop out the white flesh of a coconut; push out, prise out; open (tin +)</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Mota</td><td><i>sis</i></td>
@@ -3957,7 +3956,7 @@ Of the Polynesian reflexes, we have, on grounds of meaning, attributed Rennelles
 <tr>
 <td>SES</td><td>Sa'a</td><td><i>lisi</i></td>
 <td>
-(VT) '<span>cut off a piece or section</span>'</td>
+[VT] '<span>cut off a piece or section</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>isi(a)</i></td>
@@ -4278,7 +4277,7 @@ The item above shows a sporadic change from POc _&ast;a_ to PEOc _&ast;e_. This 
 <tr>
 <td>NNG</td><td>Mangap</td><td><i>pīli</i></td>
 <td>
-(V) '<span>husk (com, pitpit +)</span>'</td>
+[v] '<span>husk (com, pitpit +)</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Kairiru</td><td><i>pil</i></td>
@@ -4356,7 +4355,7 @@ There are a number of verbs of splitting, apparently distinguished by the exact 
 <tr>
 <td>PT</td><td>Motu</td><td><i>pola(i)</i></td>
 <td>
-(VT) '<span>split a log into two or four pieces</span>'</td>
+[VT] '<span>split a log into two or four pieces</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Nakanai</td><td><i>(sulu)pola</i></td>
@@ -4394,17 +4393,17 @@ cf. also:
 <table>
 <tr>
 <td>Fij</td>
+<td>Wayan</td>
+<td><i>bola</i></td>
+<td>
+'<span>be cut open, split down the middle (e.g. melon, shellfish); have a long incision made (in surgery)</span>'</td>
+</tr>
+<tr>
+<td>Fij</td>
 <td>Bauan</td>
 <td><i>bola(a)</i></td>
 <td>
 '<span>cleave with an axe</span>'</td>
-</tr>
-<tr>
-<td>Fij</td>
-<td>Wayan</td>
-<td><i>bola</i></td>
-<td>
-'<span>basket, especially four-cornered type with lid</span>'; '<span>be cut open, split down the middle (e.g. melon, shellfish); have a long incision made (in surgery)</span>'</td>
 </tr>
 </table>
 
@@ -4431,7 +4430,7 @@ cf. also:
 <tr>
 <td>NNG</td><td>Mangap</td><td><i>paala</i></td>
 <td>
-(VT) '<span>break, cut, split into two</span>'</td>
+[VT] '<span>break, cut, split into two</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Lukep</td><td><i>pala</i></td>
@@ -4446,7 +4445,7 @@ cf. also:
 <tr>
 <td>NNG</td><td>Poeng</td><td><i>pale</i></td>
 <td>
-(VT) '<span>split into strips</span>'</td>
+[VT] '<span>split into strips</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td>Misima</td><td><i>pʷal</i></td>
@@ -4491,17 +4490,17 @@ cf. also:
 <tr>
 <td>Mic</td><td>Woleaian</td><td><i>fela</i></td>
 <td>
-(VT) '<span>cut, hew with an axe</span>'</td>
+[VT] '<span>cut, hew with an axe</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Carolinian</td><td><i>fala</i></td>
 <td>
-(VT) '<span>chop, split, cut wood or other relatively large objects with machete, axe or hand</span>'</td>
+[VT] '<span>chop, split, cut wood or other relatively large objects with machete, axe or hand</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Carolinian</td><td><i>fal</i></td>
 <td>
-(VI) '<span>carve, do adze work</span>'</td>
+[VI] '<span>carve, do adze work</span>'</td>
 </tr>
 </table>
 
@@ -4530,12 +4529,12 @@ The forms above suggest the following history. The POc form was (on MP evidence)
 <tr>
 <td>Adm</td><td>Loniu</td><td><i>pot</i></td>
 <td>
-(VI) '<span>be broken, be chopped down</span>'</td>
+[VI] '<span>be broken, be chopped down</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Titan</td><td><i>pot</i></td>
 <td>
-(VI) '<span>(wooden objects) be broken</span>'</td>
+[VI] '<span>(wooden objects) be broken</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Malasanga</td><td><i>pota</i></td>
@@ -4575,22 +4574,22 @@ The forms above suggest the following history. The POc form was (on MP evidence)
 <tr>
 <td>SES</td><td>Sa'a</td><td><i>hoa</i></td>
 <td>
-(vI) '<span>make an incision in; remove and separate</span>'</td>
+[VI] '<span>make an incision in; remove and separate</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Sa'a</td><td><i>hoai</i></td>
 <td>
-(VT) </td>
+[VT] </td>
 </tr>
 <tr>
 <td>SES</td><td>Arosi</td><td><i>hoa</i></td>
 <td>
-(VI) '<span>divide, cleave asunder, separate</span>'</td>
+[VI] '<span>divide, cleave asunder, separate</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Arosi</td><td><i>hoai, hoari</i></td>
 <td>
-(VT) </td>
+[VT] </td>
 </tr>
 <tr>
 <td>NCV</td><td>Mota</td><td><i>wota</i></td>
@@ -4642,18 +4641,18 @@ The forms above suggest the following history. The POc form was (on MP evidence)
 cf. also: 
 <table>
 <tr>
-<td>Fij</td>
-<td>Bauan</td>
-<td><i>bete</i></td>
-<td>
-'<span>break brittle things</span>'</td>
-</tr>
-<tr>
 <td>SES</td>
 <td>Gela</td>
 <td><i>voti</i></td>
 <td>
 '<span>break open (coconut +), split, split up</span>'</td>
+</tr>
+<tr>
+<td>Fij</td>
+<td>Bauan</td>
+<td><i>bete</i></td>
+<td>
+'<span>break brittle things</span>'</td>
 </tr>
 </table>
 
@@ -4700,7 +4699,7 @@ cf. also:
 <tr>
 <td>SES</td><td>Sa'a</td><td><i>kakasi</i></td>
 <td>
-(VT) '<span>tear, split</span>'</td>
+[VT] '<span>tear, split</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Arosi</td><td><i>kaka, kakasi</i></td>
@@ -4769,7 +4768,7 @@ cf. also:
 <tr>
 <td>SES</td><td>Sa'a</td><td><i>hite</i></td>
 <td>
-(VI) '<span>split; to hit, strike, arrive at</span>'</td>
+[VI] '<span>split; to hit, strike, arrive at</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Arosi</td><td><i>hita</i></td>
@@ -4855,7 +4854,7 @@ Verbs of tearing refer basically to forcible separation.
 <i>&ast;saRek-i-</i>
 </td>
 <td>
-(VT) '<span>tear off, uproot</span>' (<a href="../references.md#source-FrenchWright1983">FrenchWright1983: _*saRe_ 'tear'</a>)
+[VT] '<span>tear off, uproot</span>' (<a href="../references.md#source-FrenchWright1983">FrenchWright1983: _*saRe_ 'tear'</a>)
 </td>
 </tr>
 <tr>
@@ -4866,7 +4865,7 @@ Verbs of tearing refer basically to forcible separation.
 <tr>
 <td>NNG</td><td>Manam</td><td><i>sereki</i></td>
 <td>
-(VT) '<span>tear, cut up</span>'</td>
+[VT] '<span>tear, cut up</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td>Motu</td><td><i>dare</i></td>
@@ -4911,7 +4910,7 @@ Verbs of tearing refer basically to forcible separation.
 <tr>
 <td>Mic</td><td>Woleaian</td><td><i>tāri(ŋa)</i></td>
 <td>
-(VT) '<span>rip, tear</span>'</td>
+[VT] '<span>rip, tear</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Rotuman</td><td><i>sae</i></td>
@@ -5100,7 +5099,7 @@ The terms listed below entail formal and semantic overlaps to a seemingly embara
 <i>&ast;(su)su(k)</i>
 </td>
 <td>
-'<span>anything used to pierce, prick</span>' (<span>cf. Ch. 9, §4.1</span>); (V) '<span>pierce, prick, sew</span>'</td>
+'<span>anything used to pierce, prick</span>'; [V] '<span>pierce, prick, sew</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Gitua</td><td><i>zuzu</i></td>
@@ -5120,12 +5119,12 @@ The terms listed below entail formal and semantic overlaps to a seemingly embara
 <tr>
 <td>SES</td><td>Gela</td><td><i>susu(ihu)</i></td>
 <td>
-'<span>hole in septum in nose; nose stick; strengthening sticks through thatch of house ridge</span>' (<span><em>ihu</em> 'nose'</span>)</td>
+'<span>hole in septum in nose; nose stick; strengthening sticks through thatch of house ridge</span>' (<span>ihu 'nose'</span>)</td>
 </tr>
 <tr>
 <td>SES</td><td>Lau</td><td><i>susu</i></td>
 <td>
-(V) '<span>point, prick, impale, pierce, poke out with a stick, sting, darn</span>'</td>
+[v] '<span>point, prick, impale, pierce, poke out with a stick, sting, darn</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Mota</td><td><i>sus</i></td>
@@ -5268,7 +5267,7 @@ The terms listed below entail formal and semantic overlaps to a seemingly embara
 <tr>
 <td>PT</td><td>Magori</td><td><i>turi</i></td>
 <td>
-(V) '<span>thread, sew</span>'</td>
+[V] '<span>thread, sew</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td>Lala</td><td><i>kuli(kuli)</i></td>
@@ -5356,7 +5355,7 @@ The terms listed below entail formal and semantic overlaps to a seemingly embara
 <tr>
 <td>SES</td><td>Arosi</td><td><i>suri(ao)</i></td>
 <td>
-'<span>needle for sewing thatch</span>' (<span><em>suri-suri</em> 'bone', <em>ao</em> 'sago palm '</span>)</td>
+'<span>needle for sewing thatch</span>' (<span><em>suri-suri</em> 'bone', <em>ao</em> 'sago palm'</span>)</td>
 </tr>
 <tr>
 <td>NCV</td><td>Mota</td><td><i>su-sur</i></td>
@@ -5429,7 +5428,7 @@ The terms listed below entail formal and semantic overlaps to a seemingly embara
 <i>&ast;soka, soka-i-</i>
 </td>
 <td>
-(VT) '<span>pierce; stab, poke hole in (s.t.)</span>'</td>
+[VT] '<span>pierce; stab, poke hole in (s.t.)</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Lou</td><td><i>sɔk(mat)</i></td>
@@ -5484,7 +5483,7 @@ The terms listed below entail formal and semantic overlaps to a seemingly embara
 <tr>
 <td>MM</td><td>Sursurunga</td><td><i>so(i)</i></td>
 <td>
-(VT) '<span>poke hole in (s.t.): spear, strike, hit; sow, plant, break ground</span>'</td>
+[VT] '<span>poke hole in (s.t.): spear, strike, hit; sow, plant, break ground</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Tangga</td><td><i>sok</i></td>
@@ -5537,7 +5536,7 @@ The terms listed below entail formal and semantic overlaps to a seemingly embara
 <i>&ast;sua</i>
 </td>
 <td>
-(N, V) '<span>spear (weapon retained in the hand)</span>'</td>
+[N, v] '<span>spear (weapon retained in the hand)</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Manam</td><td><i>sua(pu)</i></td>
@@ -5557,12 +5556,12 @@ The terms listed below entail formal and semantic overlaps to a seemingly embara
 <tr>
 <td>SES</td><td>Longgu</td><td><i>sua</i></td>
 <td>
-(N) '<span>spear</span>'</td>
+[N] '<span>spear</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Longgu</td><td><i>sua-</i></td>
 <td>
-(VT) '<span>pull out (spear, stick +)</span>'</td>
+[VT] '<span>pull out (spear, stick +)</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Lau</td><td><i>sua</i></td>
@@ -5621,17 +5620,17 @@ None of the first three reconstructions is particularly well supported by the ev
 <tr>
 <td>PT</td><td>Motu</td><td><i>(a)uru</i></td>
 <td>
-(ADV) '<span>clean through</span>' (<span>as compound in verbs; zero for expected <em>h</em> as reflex of POc <em>*p</em></span>)</td>
+[ADV] '<span>clean through</span>' (<span>as compound in verbs; zero for expected <em>h</em> as reflex of POc <em>*p</em></span>)</td>
 </tr>
 <tr>
 <td>MM</td><td>Tolai</td><td><i>vuru(e)</i></td>
 <td>
-(VT) '<span>turn, bore</span>'</td>
+[VT] '<span>turn, bore</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Tolai</td><td><i>vur</i></td>
 <td>
-(VT) '<span>tattoo by boring pits in the skin, into which the sap of young coconuts or lime is injected; to bore pits into anything, esp. into taro as a private mark</span>'</td>
+[VT] '<span>tattoo by boring pits in the skin, into which the sap of young coconuts or lime is injected; to bore pits into anything, esp. into taro as a private mark</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Tolo</td><td><i>vuru-, vuruki-</i></td>
@@ -5687,10 +5686,10 @@ cf. also:
 <table>
 <tr>
 <td>PT</td>
-<td>Motu</td>
-<td><i>(i)budu</i></td>
+<td>Tawala</td>
+<td><i>buhu</i></td>
 <td>
-'<span>brace (instrument for boring a hole)</span>'</td>
+'<span>bore</span>' (<span>&lt; PPT <em>*busu</em></span>)</td>
 </tr>
 <tr>
 <td>PT</td>
@@ -5701,10 +5700,10 @@ cf. also:
 </tr>
 <tr>
 <td>PT</td>
-<td>Tawala</td>
-<td><i>buhu</i></td>
+<td>Motu</td>
+<td><i>(i)budu</i></td>
 <td>
-'<span>bore</span>' (<span>&lt; PPT <em>*busu</em></span>)</td>
+'<span>brace (instrument for boring a hole)</span>'</td>
 </tr>
 </table>
 
@@ -5741,7 +5740,7 @@ cf. also:
 <tr>
 <td>MM</td><td>Tolai</td><td><i>bari</i></td>
 <td>
-(VT) '<span>bore</span>'</td>
+[VT] '<span>bore</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Ramoaaina</td><td><i>bari</i></td>
@@ -5800,7 +5799,7 @@ The following item may be reconstructable only for PEOc. The two WOc items have 
 <tr>
 <td>SES</td><td>Kwaio</td><td><i>falo-falo</i></td>
 <td>
-(N) '<span>drill</span>'</td>
+[N] '<span>drill</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>'Are'are</td><td><i>haro-</i></td>
@@ -5935,7 +5934,7 @@ The most general term for 'hit' in POc was _&ast;punuq_, _&ast;punuq-i-_, often 
 <tr>
 <td>NNG</td><td>Manam</td><td><i>um</i></td>
 <td>
-(VT) '<span>hit</span>'</td>
+[VT] '<span>hit</span>'</td>
 </tr>
 <tr>
 <td>SJ</td><td>Sobei</td><td><i>fun</i></td>
@@ -6071,7 +6070,7 @@ The most general term for 'hit' in POc was _&ast;punuq_, _&ast;punuq-i-_, often 
 '<span>fight</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Halia</td><td><i>ib</i></td>
+<td>MM</td><td>Selau</td><td><i>ib</i></td>
 <td>
 '<span>chop</span>'</td>
 </tr>
@@ -6299,7 +6298,7 @@ The items below, POc _&ast;tutuk_, _&ast;tuki-_ and _&ast;putu(k)_/_&ast;butu(k)
 <i>&ast;tuqtuq</i>
 </td>
 <td>
-(v) '<span>hammer, pound, crush</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+[v] '<span>hammer, pound, crush</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -6348,7 +6347,7 @@ The items below, POc _&ast;tutuk_, _&ast;tuki-_ and _&ast;putu(k)_/_&ast;butu(k)
 <tr>
 <td>PT</td><td>Molima</td><td><i>tutu</i></td>
 <td>
-(v) '<span>tap, break open a nut, pound, strike</span>'</td>
+[v] '<span>tap, break open a nut, pound, strike</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td>Muyuw</td><td><i>tut</i></td>
@@ -6368,12 +6367,12 @@ The items below, POc _&ast;tutuk_, _&ast;tuki-_ and _&ast;putu(k)_/_&ast;butu(k)
 <tr>
 <td>MM</td><td>Tolai</td><td><i>tut</i></td>
 <td>
-(V) '<span>hammer, strike with a stone, pound up</span>'</td>
+[V] '<span>hammer, strike with a stone, pound up</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Tolai</td><td><i>tu-tutuk</i></td>
 <td>
-(N) '<span>hammer</span>'</td>
+[N] '<span>hammer</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Roviana</td><td><i>tutu</i></td>
@@ -6421,7 +6420,7 @@ The items below, POc _&ast;tutuk_, _&ast;tuki-_ and _&ast;putu(k)_/_&ast;butu(k)
 <i>&ast;tuki-</i>
 </td>
 <td>
-(v) '<span>pound</span>'</td>
+[v] '<span>pound</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Loniu</td><td><i>tuku(wɛy)</i></td>
@@ -6451,7 +6450,7 @@ The items below, POc _&ast;tutuk_, _&ast;tuki-_ and _&ast;putu(k)_/_&ast;butu(k)
 <tr>
 <td>MM</td><td>Maringe</td><td><i>tuge</i></td>
 <td>
-(V) '<span>hammer, pound, esp. food in a bowl with a mallet</span>'</td>
+[V] '<span>hammer, pound, esp. food in a bowl with a mallet</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Maringe</td><td><i>tʰuge</i></td>
@@ -6466,7 +6465,7 @@ The items below, POc _&ast;tutuk_, _&ast;tuki-_ and _&ast;putu(k)_/_&ast;butu(k)
 <tr>
 <td>NCV</td><td>Nguna</td><td><i>tuki-</i></td>
 <td>
-(V) '<span>hammer, pound, hit with stone</span>'</td>
+[V] '<span>hammer, pound, hit with stone</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Marshallese</td><td><i>cuk-cuk</i></td>
@@ -6476,7 +6475,7 @@ The items below, POc _&ast;tutuk_, _&ast;tuki-_ and _&ast;putu(k)_/_&ast;butu(k)
 <tr>
 <td>Mic</td><td>Mokilese</td><td><i>cuk</i></td>
 <td>
-(V) '<span>pound</span>'</td>
+[V] '<span>pound</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>tuki-</i></td>
@@ -6581,7 +6580,7 @@ POc &ast;putu(k) and &ast;butu(k), morphological variants of the same verb (Ch. 
 <tr>
 <td>MM</td><td>Nakanai</td><td><i>butu, butu-butu</i></td>
 <td>
-(V) '<span>sound a slitgong, especially to beat it loudly and call out at the same time</span>'</td>
+[V] '<span>sound a slitgong, especially to beat it loudly and call out at the same time</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Longgu</td><td><i>butu-butu</i></td>
@@ -6793,7 +6792,7 @@ The verbs reconstructed below denote a variety of kinds of hitting:
 <i>&ast;baki-</i>
 </td>
 <td>
-(VT) '<span>strike one against another, knock, clap</span>'</td>
+[VT] '<span>strike one against another, knock, clap</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Ponapean</td><td><i>pak</i></td>
@@ -6803,7 +6802,7 @@ The verbs reconstructed below denote a variety of kinds of hitting:
 <tr>
 <td>Mic</td><td>Carolinian</td><td><i>paxu</i></td>
 <td>
-(VT) '<span>cut s.t., sever, prune, amputate, split in half</span>'</td>
+[VT] '<span>cut s.t., sever, prune, amputate, split in half</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Pukapukan</td><td><i>paki</i></td>
@@ -7066,7 +7065,7 @@ The final item is reconstructable only for PCP and appears to be derived from a 
 <i>&ast;(v,b)asu</i>
 </td>
 <td>
-'<span>a drum</span>'; (V) '<span>drum, thump</span>'</td>
+'<span>a drum</span>'; [V] '<span>drum, thump</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>vaðu</i></td>
@@ -7144,7 +7143,7 @@ The remaining verbs in this subsection all appear to have been used transitively
 <i>&ast;pʷosa(k)</i>
 </td>
 <td>
-(VI) '<span>break, shatter, crack open; (egg) hatch</span>'</td>
+[VI] '<span>break, shatter, crack open; (egg) hatch</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
@@ -7152,7 +7151,7 @@ The remaining verbs in this subsection all appear to have been used transitively
 <i>&ast;pʷosak-i-</i>
 </td>
 <td>
-(VT) '<span>break, shatter, crack open</span>'</td>
+[VT] '<span>break, shatter, crack open</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Teop</td><td><i>(va)bō-bōha</i></td>
@@ -7172,12 +7171,12 @@ The remaining verbs in this subsection all appear to have been used transitively
 <tr>
 <td>SES</td><td>Gela</td><td><i>boha</i></td>
 <td>
-(VT) '<span>burst; break, smash s.t. brittle, as a shell or china</span>'</td>
+[VT] '<span>burst; break, smash s.t. brittle, as a shell or china</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Gela</td><td><i>ta-boha</i></td>
 <td>
-(PASS) '<span>broken, smashed, burst</span>'</td>
+[PASS] '<span>broken, smashed, burst</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Bugotu</td><td><i>poha</i></td>
@@ -7295,7 +7294,7 @@ The remaining verbs in this subsection all appear to have been used transitively
 <i>&ast;(p,pʷ)oga(q)</i>
 </td>
 <td>
-(VI) '<span>burst open, split open</span>'</td>
+[VI] '<span>burst open, split open</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Drehet</td><td><i>pʷok</i></td>
@@ -7375,7 +7374,7 @@ The remaining verbs in this subsection all appear to have been used transitively
 <tr>
 <td>SES</td><td>Sa'a</td><td><i>hokai, hokasi</i></td>
 <td>
-(VT) '<span>burst, split open</span>'</td>
+[VT] '<span>burst, split open</span>'</td>
 </tr>
 </table>
 
@@ -7478,7 +7477,7 @@ The remaining verbs in this subsection all appear to have been used transitively
 <tr>
 <td>NNG</td><td>Takia</td><td><i>fite</i></td>
 <td>
-(VT) '<span>break up, break open, split</span>'</td>
+[VT] '<span>break up, break open, split</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Takia</td><td><i>(gi)fte</i></td>
@@ -7605,7 +7604,7 @@ The remaining verbs in this subsection all appear to have been used transitively
 <tr>
 <td>MM</td><td>Simbo</td><td><i>poraki</i></td>
 <td>
-(VT,VI) '<span>break; breaking</span>'</td>
+[VT,VI] '<span>break; breaking</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Tolo</td><td><i>vora(na)</i></td>
@@ -7630,12 +7629,12 @@ The remaining verbs in this subsection all appear to have been used transitively
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>voro</i></td>
 <td>
-(VI) '<span>break, crack, fracture, be broken</span>'</td>
+[VI] '<span>break, crack, fracture, be broken</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>voroki</i></td>
 <td>
-(VT) '<span>break or crack s.t. brittle</span>'</td>
+[VT] '<span>break or crack s.t. brittle</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>vorok(a)</i></td>
@@ -7651,7 +7650,7 @@ cf. also:
 <td>Tolai</td>
 <td><i>(vata)bora</i></td>
 <td>
-(VT) '<span>break, of brittle things</span>'</td>
+[VT] '<span>break, of brittle things</span>'</td>
 </tr>
 </table>
 
@@ -7682,7 +7681,7 @@ cf. also:
 <tr>
 <td>SES</td><td>Arosi</td><td><i>rabo(asi)</i></td>
 <td>
-(VT) '<span>explode</span>'</td>
+[VT] '<span>explode</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Arosi</td><td><i>rabo(a)</i></td>
@@ -7804,7 +7803,7 @@ The second set also seems to reflect a single PAn root, namely _&ast;-pak_ 'brea
 <i>&ast;puti-</i>
 </td>
 <td>
-'<span>pick, pluck (feathers), pull out (weeds +)</span>' (<span>cf. Ch. 9. §6.1</span>)</td>
+'<span>pick, pluck (feathers), pull out (weeds +)</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Numbami</td><td><i>uti</i></td>
@@ -7824,7 +7823,7 @@ The second set also seems to reflect a single PAn root, namely _&ast;-pak_ 'brea
 <tr>
 <td>PT</td><td>Lala</td><td><i>buku</i></td>
 <td>
-'<span>pluck</span>' (<span><em>b</em> for expected <em>p</em></span>)</td>
+'<span>pluck</span>' (<span>b for expected p</span>)</td>
 </tr>
 <tr>
 <td>MM</td><td>Patpatar</td><td><i>hut</i></td>
@@ -7889,7 +7888,7 @@ The second set also seems to reflect a single PAn root, namely _&ast;-pak_ 'brea
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>vuti</i></td>
 <td>
-(VI) '<span>be plucked, picked</span>'; (VT) '<span>pick or pluck things, do the picking or plucking</span>'</td>
+[VI] '<span>be plucked, picked</span>'; [VT] '<span>pick or pluck things, do the picking or plucking</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>vuti-</i></td>
@@ -7981,7 +7980,7 @@ POc _&ast;puti-_ above bears a close formal resemblance to POc _&ast;pʷuti[-] '
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>ðavut(a)</i></td>
 <td>
-(VT) '<span>pull up, eradicate</span>'</td>
+[VT] '<span>pull up, eradicate</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>hafu(le)</i></td>
@@ -8024,7 +8023,7 @@ cf. also:
 <tr>
 <td>NNG</td><td>Lukep</td><td><i>tau(rai)</i></td>
 <td>
-'<span>pick</span>' (<span><em>-rai</em> &lt; POc <em>*-(r,R)-aki</em></span>)</td>
+'<span>pick</span>' (<span>-rai &lt; POc *-(r,R)akL</span>)</td>
 </tr>
 <tr>
 <td>PT</td><td>Bwaidoga</td><td><i>tavu(na)</i></td>
@@ -8200,18 +8199,18 @@ cf. also:
 cf. also: 
 <table>
 <tr>
-<td>PT</td>
-<td>Motu</td>
-<td><i>baki</i></td>
-<td>
-'<span>break, of bread, sago +</span>'</td>
-</tr>
-<tr>
 <td>NNG</td>
 <td>Sengseng</td>
 <td><i>pak</i></td>
 <td>
 '<span>collect bedpoles by breaking off long straight branches or trunks</span>'</td>
+</tr>
+<tr>
+<td>PT</td>
+<td>Motu</td>
+<td><i>baki</i></td>
+<td>
+'<span>break, of bread, sago +</span>'</td>
 </tr>
 <tr>
 <td>Pn</td>
@@ -8374,7 +8373,7 @@ cf. also:
 <tr>
 <td>MM</td><td>Simbo</td><td><i>kiniti</i></td>
 <td>
-(VT) '<span>pinch</span>'</td>
+[VT] '<span>pinch</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Gela</td><td><i>ɣini</i></td>
@@ -8394,12 +8393,12 @@ cf. also:
 <tr>
 <td>SES</td><td>Lau</td><td><i>ʔini(fi)</i></td>
 <td>
-(VT) '<span>pinch, pick or pluck, e.g. betel leaf</span>'</td>
+[VT] '<span>pinch, pick or pluck, e.g. betel leaf</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Arosi</td><td><i>ʔini</i></td>
 <td>
-(VT) '<span>pinch, nip, hold with fingers</span>'</td>
+[VT] '<span>pinch, nip, hold with fingers</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Mota</td><td><i>ginit</i></td>
@@ -8579,7 +8578,7 @@ The verb below appears to be derived from a noun PMP/POc _&ast;kawit_ 'hook '. T
 <tr>
 <td>SES</td><td>Sa'a</td><td><i>i-kau</i></td>
 <td>
-'<span>hooked stick for fruit-picking</span>' (<span><em>i-</em> &lt; POc <em>*i</em> INS</span>)</td>
+'<span>hooked stick for fruit-picking</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Arosi</td><td><i>kau</i></td>
@@ -8599,7 +8598,7 @@ The verb below appears to be derived from a noun PMP/POc _&ast;kawit_ 'hook '. T
 <tr>
 <td>NCV</td><td>Mota</td><td><i>i-kau</i></td>
 <td>
-'<span>the cleft bamboo used to twitch off almonds, breadfruit +</span>' (<span><em>i-</em> &lt; POc <em>*i</em> INS</span>)</td>
+'<span>the cleft bamboo used to twitch off almonds, breadfruit +</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Kosraean</td><td><i>kai</i></td>
@@ -8686,7 +8685,7 @@ POc evidently had a substantial number of verbs used of squeezing or wringing so
 <i>&ast;(p,pʷ)i(p,pʷ)i(t)</i>
 </td>
 <td>
-'<span>press, wring, squeeze s.t. (e.g. in order to extract liquid)</span>' (<span>cf. Ch. 9, §7</span>)</td>
+'<span>press, wring, squeeze s.t. (e.g. in order to extract liquid)</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Kove</td><td><i>vivi</i></td>
@@ -8743,11 +8742,11 @@ POc evidently had a substantial number of verbs used of squeezing or wringing so
 cf. also: 
 <table>
 <tr>
-<td>SES</td>
-<td>Arosi</td>
+<td>PT</td>
+<td>Gumawana</td>
 <td><i>bibi</i></td>
 <td>
-'<span>crush, squeeze, crowd</span>'</td>
+'<span>squeeze (boil +)</span>'</td>
 </tr>
 <tr>
 <td>PT</td>
@@ -8757,11 +8756,11 @@ cf. also:
 '<span>squeeze up against something</span>'</td>
 </tr>
 <tr>
-<td>PT</td>
-<td>Gumawana</td>
+<td>SES</td>
+<td>Arosi</td>
 <td><i>bibi</i></td>
 <td>
-'<span>squeeze (boil +)</span>'</td>
+'<span>crush, squeeze, crowd</span>'</td>
 </tr>
 </table>
 
@@ -8870,7 +8869,7 @@ cf. also:
 <i>&ast;posi-</i>
 </td>
 <td>
-'<span>squeeze, wring (coconuts to extract cream +)</span>' (<span>cf. Ch. 9, §7</span>)</td>
+'<span>squeeze, wring (coconuts to extract cream +)</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td>Kilivila</td><td><i>poli</i></td>
@@ -9006,16 +9005,16 @@ cf. also:
 <tr>
 <td>NNG</td>
 <td>Mangap</td>
-<td><i>(-par)bi-bīzi</i></td>
+<td><i>bi-bīzi</i></td>
 <td>
-'<span>squeeze oneself into, crowd together into</span>'</td>
+'<span>squeeze, be tight, tighten</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
 <td>Mangap</td>
-<td><i>bi-bīzi</i></td>
+<td><i>(-par)bi-bīzi</i></td>
 <td>
-'<span>squeeze, be tight, tighten</span>'</td>
+'<span>squeeze oneself into, crowd together into</span>'</td>
 </tr>
 </table>
 
@@ -9149,7 +9148,7 @@ It seems likely that in some languages reflexes of POc _&ast;poRo(s)_ 'squeeze o
 <td>Wayan</td>
 <td><i>viloði-</i></td>
 <td>
-'<span>squeeze and strain s.t.; wring out wet clothes</span>'; '<span>squeeze and strain s.t. ; wring out wet clothes</span>'</td>
+'<span>squeeze and strain s.t.; wring out wet clothes</span>'</td>
 </tr>
 </table>
 
@@ -9482,7 +9481,7 @@ The verbs in this section have to do with twisting, plaiting and braiding in gen
 <tr>
 <td>SES</td><td>Sa'a</td><td><i>hiri</i></td>
 <td>
-(v) '<span>lap with string, bind spears or arrows</span>'</td>
+[v] '<span>lap with string, bind spears or arrows</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Arosi</td><td><i>hiri</i></td>
@@ -9517,7 +9516,7 @@ The verbs in this section have to do with twisting, plaiting and braiding in gen
 <tr>
 <td>Mic</td><td>Kosraean</td><td><i>pɨr(aki)</i></td>
 <td>
-(V) '<span>braid, plait</span>'</td>
+[V] '<span>braid, plait</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Rotuman</td><td><i>hiri</i></td>
@@ -9585,7 +9584,7 @@ cf. also:
 <tr>
 <td>Pn</td><td>Hawaiian</td><td><i>hili-hili</i></td>
 <td>
-(v) '<span>braid, plait, string</span>'</td>
+[V] '<span>braid, plait, string</span>'</td>
 </tr>
 </table>
 
@@ -9657,7 +9656,7 @@ The two terms below have undoubtedly been conflated in some languages, but the d
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>fio</i></td>
 <td>
-(VI) '<span>mix, mingle</span>'</td>
+[VI] '<span>mix, mingle</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Nukuoro</td><td><i>hilo-</i></td>
@@ -9674,18 +9673,18 @@ The two terms below have undoubtedly been conflated in some languages, but the d
 cf. also: 
 <table>
 <tr>
-<td>SES</td>
-<td>Arosi</td>
-<td><i>piro</i></td>
-<td>
-'<span>plait the edge of a bag</span>'</td>
-</tr>
-<tr>
 <td>PT</td>
 <td>Gapapaiwa</td>
 <td><i>piro</i></td>
 <td>
 '<span>tangle; braid</span>'</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>Arosi</td>
+<td><i>piro</i></td>
+<td>
+'<span>plait the edge of a bag</span>'</td>
 </tr>
 <tr>
 <td>Mic</td>
@@ -9739,7 +9738,7 @@ cf. also:
 <tr>
 <td>NCV</td><td>Paamese</td><td><i>vilesi</i></td>
 <td>
-(VT) '<span>turn around, turn over</span>'</td>
+[VT] '<span>turn around, turn over</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>vilo</i></td>
@@ -9786,18 +9785,18 @@ cf. also:
 cf. also: 
 <table>
 <tr>
-<td>Pn</td>
-<td>Ifira-Mele</td>
-<td><i>polōsi(a)</i></td>
+<td>NNG</td>
+<td>Poeng</td>
+<td><i>bulosi</i></td>
 <td>
-'<span>twist</span>'</td>
+'<span>bore</span>'</td>
 </tr>
 <tr>
-<td>SES</td>
-<td>Lau</td>
-<td><i>bulo-bulo</i></td>
+<td>MM</td>
+<td>Nakanai</td>
+<td><i>pulo</i></td>
 <td>
-'<span>twist</span>'</td>
+'<span>squeeze (grated coconut +)</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
@@ -9807,25 +9806,25 @@ cf. also:
 '<span>squeeze (grated coconut +)</span>'</td>
 </tr>
 <tr>
-<td>MM</td>
-<td>Nakanai</td>
-<td><i>pulo</i></td>
-<td>
-'<span>squeeze (grated coconut +)</span>'; '<span>squeeze coconut cream onto food before cooking</span>' (<span>A. Chowning, pers. comm.</span>)</td>
-</tr>
-<tr>
-<td>NNG</td>
-<td>Poeng</td>
-<td><i>bulosi</i></td>
-<td>
-'<span>bore</span>'</td>
-</tr>
-<tr>
 <td>SES</td>
 <td>Sa'a</td>
 <td><i>pulo</i></td>
 <td>
-(VI) '<span>reach, turn back, return</span>'; '<span>turn over, twist</span>'</td>
+'<span>turn over, twist</span>'</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>Lau</td>
+<td><i>bulo-bulo</i></td>
+<td>
+'<span>twist</span>'</td>
+</tr>
+<tr>
+<td>Pn</td>
+<td>Ifira-Mele</td>
+<td><i>polōsi(a)</i></td>
+<td>
+'<span>twist</span>'</td>
 </tr>
 </table>
 
@@ -9853,12 +9852,12 @@ An unrelated PPn term has been reconstructed for the same process, _&ast;amo_ 'p
 <tr>
 <td>MM</td><td>Tolai</td><td><i>loe</i></td>
 <td>
-(V) '<span>twist, coil</span>'</td>
+[V] '<span>twist, coil</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Tolai</td><td><i>lo-loi</i></td>
 <td>
-(v) '<span>roll or coil (strips of shell money)</span>'</td>
+[V] '<span>roll or coil (strips of shell money)</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Kwaio</td><td><i>loi</i></td>
@@ -9970,7 +9969,7 @@ An unrelated PPn term has been reconstructed for the same process, _&ast;amo_ 'p
 <tr>
 <td>Mic</td><td>Mokilese</td><td><i>pit</i></td>
 <td>
-(VT) '<span>wind (rope)</span>'</td>
+[VT] '<span>wind (rope)</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Woleaian</td><td><i>fitī</i></td>
@@ -10137,17 +10136,17 @@ cf. also:
 <table>
 <tr>
 <td>Fij</td>
-<td>Bauan</td>
-<td><i>gili</i></td>
-<td>
-'<span>twist or rub in the hands</span>'</td>
-</tr>
-<tr>
-<td>Fij</td>
 <td>Nadroga</td>
 <td><i>gili-</i></td>
 <td>
 '<span>braid</span>'</td>
+</tr>
+<tr>
+<td>Fij</td>
+<td>Bauan</td>
+<td><i>gili</i></td>
+<td>
+'<span>twist or rub in the hands</span>'</td>
 </tr>
 </table>
 
@@ -10237,12 +10236,12 @@ The term below bears a formal and semantic resemblance to POc &ast;piri 'twist' 
 <tr>
 <td>SES</td><td>Longgu</td><td><i>loʔu-</i></td>
 <td>
-(VT) '<span>bend</span>'</td>
+[VT] '<span>bend</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Longgu</td><td><i>loʔu-loʔu</i></td>
 <td>
-(VI) '<span>bend back and forth</span>'</td>
+[VI] '<span>bend back and forth</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Arosi</td><td><i>roʔu(ni)</i></td>
@@ -10337,12 +10336,12 @@ The second verb, _&ast;bukuti_, is odd, in that it implies a PMP root _&ast;&ast
 <tr>
 <td>MM</td><td>Roviana</td><td><i>puku</i></td>
 <td>
-(V) '<span>tie or knot</span>'</td>
+[V] '<span>tie or knot</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Woleaian</td><td><i>ɸugo-ɸugo</i></td>
 <td>
-(V) '<span>knot, tie</span>'</td>
+[V] '<span>knot, tie</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>buku</i></td>
@@ -10360,7 +10359,7 @@ The second verb, _&ast;bukuti_, is odd, in that it implies a PMP root _&ast;&ast
 <i>&ast;bukuti</i>
 </td>
 <td>
-(VT) '<span>tie (a knot); fasten</span>'</td>
+[VT] '<span>tie (a knot); fasten</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Ririo</td><td><i>pukici</i></td>
@@ -10375,22 +10374,22 @@ The second verb, _&ast;bukuti_, is odd, in that it implies a PMP root _&ast;&ast
 <tr>
 <td>Mic</td><td>Marshallese</td><td><i>pʷiwciy</i></td>
 <td>
-(VT) '<span>knot</span>'</td>
+[VT] '<span>knot</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Woleaian</td><td><i>ɸugosii</i></td>
 <td>
-(VT) '<span>knot</span>'</td>
+[VT] '<span>knot</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Trukese</td><td><i>pʷukeey</i></td>
 <td>
-(VT) '<span>knot</span>'</td>
+[VT] '<span>knot</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>bukuti</i></td>
 <td>
-(VT) '<span>knot</span>'</td>
+[VT] '<span>knot</span>'</td>
 </tr>
 </table>
 
@@ -10405,7 +10404,7 @@ The verb POc _&ast;pʷita_ 'tie by encircling' was evidently used of tying a cor
 <i>&ast;pʷita, pʷita-i-</i>
 </td>
 <td>
-(V) '<span>tie by encircling, ensnare</span>'</td>
+'<span>tie by encircling, ensnare</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Lukep</td><td><i>wit</i></td>
@@ -10470,7 +10469,7 @@ The verb POc _&ast;pʷita_ 'tie by encircling' was evidently used of tying a cor
 <tr>
 <td>MM</td><td>Ramoaaina</td><td><i>piti</i></td>
 <td>
-(v) '<span>snare</span>'</td>
+[V] '<span>snare</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Gela</td><td><i>piti-</i></td>
@@ -10581,12 +10580,12 @@ POc _&ast;paqu(s)_, _&ast;paqus-i-_ was apparently used of tying together larger
 <tr>
 <td>SES</td><td>Arosi</td><td><i>hoʔosi</i></td>
 <td>
-(VT) '<span>bind, fasten, tie</span>'</td>
+[VT] '<span>bind, fasten, tie</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Sa'a</td><td><i>hoʔosi</i></td>
 <td>
-(VT) '<span>bind</span>'</td>
+[VT] '<span>bind</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Raga</td><td><i>vauhi-</i></td>
@@ -10601,22 +10600,22 @@ POc _&ast;paqu(s)_, _&ast;paqus-i-_ was apparently used of tying together larger
 <tr>
 <td>Mic</td><td>Marshallese</td><td><i>yawyəw</i></td>
 <td>
-(VI) '<span>bind with sennit; lash</span>'</td>
+[VI] '<span>bind with sennit; lash</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Marshallese</td><td><i>yawitʷ</i></td>
 <td>
-(VT) '<span>bind with sennit; lash</span>'</td>
+[VT] '<span>bind with sennit; lash</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Woleaian</td><td><i>fø̄fø</i></td>
 <td>
-(VI) '<span>tie, bind</span>'</td>
+[VI] '<span>tie, bind</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Woleaian</td><td><i>fø̄t(agiy)</i></td>
 <td>
-(VT) '<span>anchor, tie</span>'</td>
+[VT] '<span>anchor, tie</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>vauð(a)</i></td>
@@ -10753,12 +10752,7 @@ The item below, POc _&ast;kiti_ 'tie, bind', is reconstructed at POc level becau
 <tr>
 <td>MM</td><td>Nakanai</td><td><i>kisi</i></td>
 <td>
-'<span>fasten; tie; tie up</span>'; '<span>tie</span>'</td>
-</tr>
-<tr>
-<td>MM</td><td>Nakanai</td><td><i>kisi</i></td>
-<td>
-'<span>fasten; tie; tie up</span>'; '<span>tie</span>'</td>
+'<span>fasten; tie; tie up</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Solos</td><td><i>kit</i></td>
@@ -10893,7 +10887,7 @@ POc had a number of verbs expressing the various ways in which heat can be appli
 <i>&ast;raraŋ, raŋ-i-</i>
 </td>
 <td>
-'<span>heat s.t. or warm oneself by fire</span>'</td>
+'<span>heat s.t. or warm oneself by fire</span>' (<span>see ChA, §3.1.1</span>)</td>
 </tr>
 <tr>
 <td>NNG</td><td>Manam</td><td><i>raraŋ</i></td>
@@ -11058,7 +11052,7 @@ POc had a number of verbs expressing the various ways in which heat can be appli
 <tr>
 <td>MM</td><td>Nehan</td><td><i>suk</i></td>
 <td>
-(ADJ) '<span>burnt</span>'; (v) '<span>singe</span>'</td>
+[ADJ] '<span>burnt</span>'; [V] '<span>singe</span>'</td>
 </tr>
 </table>
 
@@ -11099,7 +11093,7 @@ cf. also:
 <tr>
 <td>NNG</td><td>Poeng</td><td><i>to</i></td>
 <td>
-(VI) '<span>burn</span>'</td>
+[VI] '<span>burn</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>tutu</i></td>
@@ -11147,7 +11141,7 @@ cf. also:
 <tr>
 <td>NNG</td><td>Poeng</td><td><i>toŋe</i></td>
 <td>
-(VT) '<span>burn</span>'</td>
+[VT] '<span>burn</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>tuni</i></td>

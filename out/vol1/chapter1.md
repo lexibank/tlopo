@@ -1,6 +1,4 @@
-# Introduction
-
-by Ross, M., Pawley, A. and Osmond, M.
+[Ross, M. and Pawley A. and Osmond, M.](.smallcaps)
 
 
 <a id="s-1"></a>

@@ -1,6 +1,4 @@
-# Canoes and Seafaring
-
-by Pawley, A. and Pawley, M.
+[Pawley, A. and Pawley, M.](.smallcaps)
 
 
 <a id="s-1"></a>
@@ -125,14 +123,6 @@ POc _&ast;waga_ (phonetically [waŋga] with [ŋg] being a single phoneme) is wid
 '<span>outrigger canoe</span>'</td>
 </tr>
 <tr>
-<td><strong>POc</strong></td><td> </td>
-<td>
-<i>&ast;waga</i>
-</td>
-<td>
-'<span>large sailing canoe</span>'; '<span>canoe (generic)</span>'</td>
-</tr>
-<tr>
 <td>None</td><td>Buru</td><td><i>waga</i></td>
 <td>
 '<span>boat, canoe</span>'</td>
@@ -166,6 +156,14 @@ POc _&ast;waga_ (phonetically [waŋga] with [ŋg] being a single phoneme) is wid
 <td>None</td><td>Waropen</td><td><i>wa</i></td>
 <td>
 '<span>boat, canoe</span>'</td>
+</tr>
+<tr>
+<td><strong>POc</strong></td><td> </td>
+<td>
+<i>&ast;waga</i>
+</td>
+<td>
+'<span>large sailing canoe</span>'; '<span>canoe (generic)</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Wuvulu</td><td><i>wa</i></td>
@@ -349,22 +347,6 @@ and:
 '<span>outrigger canoe, dugout canoe</span>'</td>
 </tr>
 <tr>
-<td><strong>PCEMP</strong></td><td> </td>
-<td>
-<i>&ast;ba(ŋ)ka</i>
-</td>
-<td>
-'<span>canoe</span>'</td>
-</tr>
-<tr>
-<td><strong>POc</strong></td><td> </td>
-<td>
-<i>&ast;paka</i>
-</td>
-<td>
-'<span>ship</span>'</td>
-</tr>
-<tr>
 <td>Fma</td><td>Kuvalan</td><td><i>baŋka</i></td>
 <td>
 '<span>canoe</span>'</td>
@@ -410,6 +392,14 @@ and:
 '<span>canoe</span>'</td>
 </tr>
 <tr>
+<td><strong>PCEMP</strong></td><td> </td>
+<td>
+<i>&ast;ba(ŋ)ka</i>
+</td>
+<td>
+'<span>canoe</span>'</td>
+</tr>
+<tr>
 <td>None</td><td>Larike</td><td><i>haka</i></td>
 <td>
 </td>
@@ -423,6 +413,14 @@ and:
 <td>CMP</td><td>Kola</td><td><i>boka</i></td>
 <td>
 </td>
+</tr>
+<tr>
+<td><strong>POc</strong></td><td> </td>
+<td>
+<i>&ast;paka</i>
+</td>
+<td>
+'<span>ship</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Roviana</td><td><i>vaka</i></td>
@@ -472,14 +470,6 @@ The next term is reconstructable as far back as PMP. But note the disagreement b
 '<span>outrigger float</span>'</td>
 </tr>
 <tr>
-<td><strong>POc</strong></td><td> </td>
-<td>
-<i>&ast;kati(R)</i>
-</td>
-<td>
-'<span>(small) outrigger canoe or canoe hull</span>'</td>
-</tr>
-<tr>
 <td>None</td><td>Malay</td><td><i>katir</i></td>
 <td>
 </td>
@@ -507,12 +497,20 @@ The next term is reconstructable as far back as PMP. But note the disagreement b
 <tr>
 <td>None</td><td>Cebuano</td><td><i>katig</i></td>
 <td>
-(N) '<span>float of the outrigger</span>'; (V) '<span>provide a boat with outrigger</span>'</td>
+[N] '<span>float of the outrigger</span>'; [V] '<span>provide a boat with outrigger</span>'</td>
 </tr>
 <tr>
 <td>WMP</td><td>Sasak</td><td><i>katir</i></td>
 <td>
 '<span>carry between two persons</span>'</td>
+</tr>
+<tr>
+<td><strong>POc</strong></td><td> </td>
+<td>
+<i>&ast;kati(R)</i>
+</td>
+<td>
+'<span>(small) outrigger canoe or canoe hull</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Manam</td><td><i>kati</i></td>
@@ -583,15 +581,7 @@ If POc _&ast;kati(R)_ referred to a small outrigger canoe, then the following se
 <i>&ast;n-tol</i>
 </td>
 <td>
-(V) '<span>large canoe</span>'</td>
-</tr>
-<tr>
-<td><strong>ProtoSoutheastSolomonic</strong></td><td> </td>
-<td>
-<i>&ast;tola</i>
-</td>
-<td>
-'<span>plank-built canoe</span>'</td>
+[V] '<span>large canoe</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Titan</td><td><i>drol</i></td>
@@ -642,6 +632,14 @@ If POc _&ast;kati(R)_ referred to a small outrigger canoe, then the following se
 <td>Adm</td><td>Loniu</td><td><i>ton</i></td>
 <td>
 </td>
+</tr>
+<tr>
+<td><strong>ProtoSoutheastSolomonic</strong></td><td> </td>
+<td>
+<i>&ast;tola</i>
+</td>
+<td>
+'<span>plank-built canoe</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Bugotu</td><td><i>tola</i></td>
@@ -705,14 +703,6 @@ No term for double canoe can safely be reconstructed for any very early Austrone
 '<span>double canoe</span>'</td>
 </tr>
 <tr>
-<td><strong>PPn</strong></td><td> </td>
-<td>
-<i>&ast;faʔurua</i>
-</td>
-<td>
-'<span>double canoe</span>'</td>
-</tr>
-<tr>
 <td>SES</td><td>Lau</td><td><i>foorua</i></td>
 <td>
 '<span>outrigger canoe</span>'</td>
@@ -726,6 +716,14 @@ No term for double canoe can safely be reconstructed for any very early Austrone
 <td>Fij</td><td>Rotuman</td><td><i>foulua</i></td>
 <td>
 '<span>ship</span>' (<span>probably a Pn borrowing</span>)</td>
+</tr>
+<tr>
+<td><strong>PPn</strong></td><td> </td>
+<td>
+<i>&ast;faʔurua</i>
+</td>
+<td>
+'<span>double canoe</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Niuean</td><td><i>faulua, foulua</i></td>
@@ -760,10 +758,10 @@ cf. also:
 </tr>
 <tr>
 <td>Pn</td>
-<td>Hawaiian</td>
-<td><i>waʔa kau-lua</i></td>
+<td>Samoan</td>
+<td><i>fau-tasi</i></td>
 <td>
-'<span>double canoe</span>' (<span>vs <em>waʔa kau-kasi</em> 'single-hulled canoe'</span>)</td>
+'<span>large whaleboat</span>' (<span>possibly a nineteenth century coinage</span>)</td>
 </tr>
 <tr>
 <td>Pn</td>
@@ -774,10 +772,10 @@ cf. also:
 </tr>
 <tr>
 <td>Pn</td>
-<td>Samoan</td>
-<td><i>fau-tasi</i></td>
+<td>Hawaiian</td>
+<td><i>waʔa kau-lua</i></td>
 <td>
-'<span>large whaleboat</span>' (<span>possibly a nineteenth century coinage</span>)</td>
+'<span>double canoe</span>' (<span>vs <em>waʔa kau-kasi</em> 'single-hulled canoe'</span>)</td>
 </tr>
 </table>
 
@@ -902,16 +900,8 @@ A possible cognate occurs in a single Western Oceanic language, Mekeo of the Cen
 <i>&ast;dakit</i>
 </td>
 <td>
-(N) '<span>raft</span>'; (V) '<span>join along the length</span>' (<a href="../references.md#source-Blust1986">Blust1986</a>)
+[N] '<span>raft</span>'; [V] '<span>join along the length</span>' (<a href="../references.md#source-Blust1986">Blust1986</a>)
 </td>
-</tr>
-<tr>
-<td><strong>POc</strong></td><td> </td>
-<td>
-<i>&ast;raki(t)</i>
-</td>
-<td>
-'<span>raft; join outrigger, join two hulls</span>'</td>
 </tr>
 <tr>
 <td>None</td><td>Aklanon</td><td><i>gākit</i></td>
@@ -956,7 +946,7 @@ A possible cognate occurs in a single Western Oceanic language, Mekeo of the Cen
 <tr>
 <td>None</td><td>Wolio</td><td><i>rakii</i></td>
 <td>
-(v) '<span>join along the length</span>'</td>
+[v] '<span>join along the length</span>'</td>
 </tr>
 <tr>
 <td>None</td><td>Balangaw</td><td><i>dakit</i></td>
@@ -982,6 +972,14 @@ A possible cognate occurs in a single Western Oceanic language, Mekeo of the Cen
 <td>CMP</td><td>Taliabo</td><td><i>(ka)haŋkiʔ</i></td>
 <td>
 '<span>raft</span>' (<span>Charles Grimes, pers.comm.</span>)</td>
+</tr>
+<tr>
+<td><strong>POc</strong></td><td> </td>
+<td>
+<i>&ast;raki(t)</i>
+</td>
+<td>
+'<span>raft; join outrigger, join two hulls</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td>Motu</td><td><i>rai</i></td>
@@ -1048,14 +1046,6 @@ The comparisons below and in §2.5point to the use by speakers of PMP and its im
 '<span>plank (of boat +), strake</span>'</td>
 </tr>
 <tr>
-<td><strong>POc</strong></td><td> </td>
-<td>
-<i>&ast;baban, bapan</i>
-</td>
-<td>
-'<span>plank</span>'; '<span>canoe plank or strake</span>'</td>
-</tr>
-<tr>
 <td>None</td><td>Malay</td><td><i>papan</i></td>
 <td>
 </td>
@@ -1079,6 +1069,14 @@ The comparisons below and in §2.5point to the use by speakers of PMP and its im
 <td>None</td><td>Buru</td><td><i>papa-n</i></td>
 <td>
 </td>
+</tr>
+<tr>
+<td><strong>POc</strong></td><td> </td>
+<td>
+<i>&ast;baban, bapan</i>
+</td>
+<td>
+'<span>plank</span>'; '<span>canoe plank or strake</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td>Molima</td><td><i>baba</i></td>
@@ -1226,16 +1224,8 @@ We can reconstruct PMP _&ast;kiRam_ 'adze/axe' and _&ast;taRaqi_ (V) 'adze, carv
 <i>&ast;seŋkar</i>
 </td>
 <td>
-'<span>cross-seat in boat, thwart</span>' (<a href="../references.md#source-Blust1972b">Blust1972b: *soka</a>)
+'<span>cross-seat in boat, thwart</span>' (<a href="../references.md#source-Blust1972b">Blust1972b</a>)
 </td>
-</tr>
-<tr>
-<td><strong>POc</strong></td><td> </td>
-<td>
-<i>&ast;soka(r)</i>
-</td>
-<td>
-'<span>thwart</span>'; '<span>bracing timber, crossbeam</span>' (<span>cf. Ch. 7, §2.5</span>)</td>
 </tr>
 <tr>
 <td>WMP</td><td>Iban</td><td><i>seŋka</i></td>
@@ -1251,6 +1241,14 @@ We can reconstruct PMP _&ast;kiRam_ 'adze/axe' and _&ast;taRaqi_ (V) 'adze, carv
 <td>None</td><td>Tagalog</td><td><i>saŋkal</i></td>
 <td>
 </td>
+</tr>
+<tr>
+<td><strong>POc</strong></td><td> </td>
+<td>
+<i>&ast;soka(r)</i>
+</td>
+<td>
+'<span>thwart</span>'; '<span>bracing timber, crossbeam</span>' (<span>cf. Ch. 3, §3.4</span>)</td>
 </tr>
 <tr>
 <td>Mic</td><td>Kiribatese</td><td><i>oka</i></td>
@@ -1491,7 +1489,7 @@ See also PPn _&ast;tau-muri_ 'afterdeck' (§2.10)
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>(tau-)muʔa</i></td>
 <td>
-(V) '<span>steer for s.t.</span>'; (N) '<span>prow</span>'; (N) '<span>aim, goal</span>'</td>
+[V] '<span>steer for s.t.</span>'; [N] '<span>prow</span>'; [N] '<span>aim, goal</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Samoan</td><td><i>(tau-)mua</i></td>
@@ -1525,14 +1523,6 @@ In many regions of Oceania larger canoes are constructed with a projecting headb
 </td>
 <td>
 '<span>projecting headboard of prow, often with ornately carved figurehead</span>'</td>
-</tr>
-<tr>
-<td><strong>PWOc</strong></td><td> </td>
-<td>
-<i>&ast;ŋuju</i>
-</td>
-<td>
-'<span>carved prow</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Mussau</td><td><i>uru(gila)</i></td>
@@ -1590,6 +1580,14 @@ In many regions of Oceania larger canoes are constructed with a projecting headb
 '<span>end-piece at head</span>' (<span>vs Laʔau hope 'end-piece at stern'</span>)</td>
 </tr>
 <tr>
+<td><strong>PWOc</strong></td><td> </td>
+<td>
+<i>&ast;ŋuju</i>
+</td>
+<td>
+'<span>carved prow</span>'</td>
+</tr>
+<tr>
 <td>PT</td><td>Iduna</td><td><i>mudu</i></td>
 <td>
 '<span>carved prow</span>'</td>
@@ -1630,7 +1628,7 @@ While outrigger canoes with simple dugout hull are suitable for inshore sailing,
 <tr>
 <td>Fij</td><td>Rotuman</td><td><i>fau</i></td>
 <td>
-(V) '<span>cover</span>'</td>
+[V] '<span>cover</span>'; [N] '<span>cover</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>tau</i></td>
@@ -1733,7 +1731,7 @@ On medium-sized and large canoes a platform is sometimes built over the hull and
 <tr>
 <td>Adm</td><td>Seimat</td><td><i>paca</i></td>
 <td>
-'<span>canoe platform</span>'</td>
+'<span>canoe platform</span>' (<span>Haddon</span>)</td>
 </tr>
 <tr>
 <td>PT</td><td>Kilivila</td><td><i>pita-patile</i></td>
@@ -1839,14 +1837,6 @@ The meaning 'outrigger float' can be attributed to PMP _&ast;(c,s)a(R)man_. This
 '<span>outrigger float</span>'</td>
 </tr>
 <tr>
-<td><strong>POc</strong></td><td> </td>
-<td>
-<i>&ast;saman</i>
-</td>
-<td>
-'<span>outrigger float</span>'</td>
-</tr>
-<tr>
 <td>None</td><td>Sangir</td><td><i>sahemaŋ</i></td>
 <td>
 </td>
@@ -1890,6 +1880,14 @@ The meaning 'outrigger float' can be attributed to PMP _&ast;(c,s)a(R)man_. This
 <td>CMP</td><td>Ujir (Aru Is.)</td><td><i>arman</i></td>
 <td>
 </td>
+</tr>
+<tr>
+<td><strong>POc</strong></td><td> </td>
+<td>
+<i>&ast;saman</i>
+</td>
+<td>
+'<span>outrigger float</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Wuvulu</td><td><i>tama-ne</i></td>
@@ -2096,17 +2094,17 @@ A POc reconstruction for the connective sticks (stanchions, struts) was made by 
 '<span>connective sticks or stanchions attaching floats to booms</span>'</td>
 </tr>
 <tr>
+<td>SHWNG</td><td>Numfor</td><td><i>fakok</i></td>
+<td>
+ (<span><em>k</em> for <em>*t</em> regular</span>)</td>
+</tr>
+<tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
 <i>&ast;patoto</i>
 </td>
 <td>
 '<span>connective sticks attaching float</span>'</td>
-</tr>
-<tr>
-<td>SHWNG</td><td>Numfor</td><td><i>fakok</i></td>
-<td>
- (<span><em>k</em> for <em>*t</em> regular</span>)</td>
 </tr>
 <tr>
 <td>NNG</td><td>Gedaged</td><td><i>patot</i></td>
@@ -2290,14 +2288,6 @@ A PMP term for 'sail' (the object) is continued in all the major subgroups:
 '<span>sail</span>'</td>
 </tr>
 <tr>
-<td><strong>POc</strong></td><td> </td>
-<td>
-<i>&ast;layaR</i>
-</td>
-<td>
-'<span>sail</span>'</td>
-</tr>
-<tr>
 <td>None</td><td>Malay</td><td><i>layar</i></td>
 <td>
 </td>
@@ -2320,12 +2310,20 @@ A PMP term for 'sail' (the object) is continued in all the major subgroups:
 <tr>
 <td>None</td><td>Cebuano</td><td><i>layag</i></td>
 <td>
-(N) '<span>sail of a boat</span>'; (V) '<span>put up the sail for a boat to sail</span>'</td>
+[N] '<span>sail of a boat</span>'; [V] '<span>put up the sail for a boat to sail</span>'</td>
 </tr>
 <tr>
 <td>None</td><td>Buru</td><td><i>lā</i></td>
 <td>
 </td>
+</tr>
+<tr>
+<td><strong>POc</strong></td><td> </td>
+<td>
+<i>&ast;layaR</i>
+</td>
+<td>
+'<span>sail</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Gedaged</td><td><i>lai</i></td>
@@ -2340,7 +2338,7 @@ A PMP term for 'sail' (the object) is continued in all the major subgroups:
 <tr>
 <td>NNG</td><td>Yabem</td><td><i>lac</i></td>
 <td>
-(N) '<span>sail of a boat, a canoe</span>'; (v) '<span>sail, sail across, sail or steer a canoe towards a goal</span>'</td>
+[N] '<span>sail of a boat, a canoe</span>'; [v] '<span>sail, sail across, sail or steer a canoe towards a goal</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td>Dobu</td><td><i>naia</i></td>
@@ -2421,12 +2419,7 @@ The following form is well attested though its reflexes show a range of meanings
 <tr>
 <td>Adm</td><td>Seimat</td><td><i>sil</i></td>
 <td>
-; '<span>booms of triangular sail</span>' (<span>Haddon</span>)</td>
-</tr>
-<tr>
-<td>Adm</td><td>Seimat</td><td><i>sil</i></td>
-<td>
-; '<span>booms of triangular sail</span>' (<span>Haddon</span>)</td>
+'<span>booms of triangular sail</span>' (<span>Haddon</span>)</td>
 </tr>
 <tr>
 <td>Adm</td><td>Penchal</td><td><i>cil</i></td>
@@ -2461,7 +2454,7 @@ The following form is well attested though its reflexes show a range of meanings
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>sila</i></td>
 <td>
-(N) '<span>yard, for a sail to hang from</span>'; (V) '<span>shorten the sheet of a sail</span>'</td>
+[N] '<span>yard, for a sail to hang from</span>'; [V] '<span>shorten the sheet of a sail</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Samoan</td><td><i>tila</i></td>
@@ -2530,7 +2523,7 @@ POc or PCP _&ast;jila_ has commonly (e.g. [Blust 1976a](../references.md#source-
 <tr>
 <td>Pn</td><td>Samoan</td><td><i>ʔau-tū</i></td>
 <td>
-(N) '<span>core, centre, main theme</span>'; (V) '<span>centre around, revolve around s.t.</span>'</td>
+[N] '<span>core, centre, main theme</span>'; [V] '<span>centre around, revolve around s.t.</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Māori</td><td><i>(rā) kau-tū</i></td>
@@ -2542,18 +2535,18 @@ POc or PCP _&ast;jila_ has commonly (e.g. [Blust 1976a](../references.md#source-
 cf. also: 
 <table>
 <tr>
-<td>PT</td>
-<td>Motu</td>
-<td><i>au tubua</i></td>
-<td>
-'<span>mast, centre post of a house</span>' (<span><em>au</em> 'wood, stick', <em>tubua</em> 'upright'</span>)</td>
-</tr>
-<tr>
 <td>Adm</td>
 <td>Seimat</td>
 <td><i>kau ehu</i></td>
 <td>
 '<span>mast</span>'</td>
+</tr>
+<tr>
+<td>PT</td>
+<td>Motu</td>
+<td><i>au tubua</i></td>
+<td>
+'<span>mast, centre post of a house</span>' (<span><em>au</em> 'wood, stick', <em>tubua</em> 'upright'</span>)</td>
 </tr>
 </table>
 
@@ -2666,20 +2659,12 @@ A PMP term for steering oar is well supported. Contemporary languages which reta
 <i>&ast;quli(n,ŋ)</i>
 </td>
 <td>
-(N) '<span>steering oar</span>'; (V) '<span>steer</span>'</td>
-</tr>
-<tr>
-<td><strong>POc</strong></td><td> </td>
-<td>
-<i>&ast;quliŋ</i>
-</td>
-<td>
-(N) '<span>rudder</span>'; (V) '<span>steer</span>'</td>
+[N] '<span>steering oar</span>'; [V] '<span>steer</span>'</td>
 </tr>
 <tr>
 <td>None</td><td>Cebuano</td><td><i>ulin</i></td>
 <td>
-(N) '<span>stem</span>'; (V) '<span>steer (a boat from the stem)</span>'</td>
+[N] '<span>stem</span>'; [V] '<span>steer (a boat from the stem)</span>'</td>
 </tr>
 <tr>
 <td>None</td><td>Maranao</td><td><i>olin</i></td>
@@ -2704,7 +2689,7 @@ A PMP term for steering oar is well supported. Contemporary languages which reta
 <tr>
 <td>None</td><td>Sangir</td><td><i>uliŋ</i></td>
 <td>
-(N) '<span>rudder</span>'; (v) '<span>steer</span>'</td>
+[N] '<span>rudder</span>'; [v] '<span>steer</span>'</td>
 </tr>
 <tr>
 <td>None</td><td>Wolio</td><td><i>uli</i></td>
@@ -2714,7 +2699,15 @@ A PMP term for steering oar is well supported. Contemporary languages which reta
 <tr>
 <td>CMP</td><td>Roti</td><td><i>uli</i></td>
 <td>
-(N) '<span>rudder</span>'; (V) '<span>steer</span>'</td>
+[N] '<span>rudder</span>'; [V] '<span>steer</span>'</td>
+</tr>
+<tr>
+<td><strong>POc</strong></td><td> </td>
+<td>
+<i>&ast;quliŋ</i>
+</td>
+<td>
+[N] '<span>rudder</span>'; [V] '<span>steer</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Lou</td><td><i>kuli(p)</i></td>
@@ -2739,7 +2732,7 @@ A PMP term for steering oar is well supported. Contemporary languages which reta
 <tr>
 <td>PT</td><td>Molima</td><td><i>kuliga</i></td>
 <td>
-(N) '<span>steering oar</span>'; (V) '<span>steer</span>'</td>
+[N] '<span>steering oar</span>'; [V] '<span>steer</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td>Kilivila</td><td><i>kuliga</i></td>
@@ -2749,7 +2742,7 @@ A PMP term for steering oar is well supported. Contemporary languages which reta
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>uli</i></td>
 <td>
-(N) '<span>steering oar, rudder, helm</span>'; (V) '<span>steer</span>'</td>
+[N] '<span>steering oar, rudder, helm</span>'; [V] '<span>steer</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>ʔuli</i></td>
@@ -2791,16 +2784,8 @@ A single base can be reconstructed, used both as a verb '(boat +) be loaded, car
 <i>&ast;lujan, ujan</i>
 </td>
 <td>
-(V) '<span>load (a vessel)</span>'; (N) '<span>load, cargo</span>' (<a href="../references.md#source-Blust1986">Blust1986</a>)
+[V] '<span>load (a vessel)</span>'; [N] '<span>load, cargo</span>' (<a href="../references.md#source-Blust1986">Blust1986</a>)
 </td>
-</tr>
-<tr>
-<td><strong>POc</strong></td><td> </td>
-<td>
-<i>&ast;ujan, ujan-i-, lujan</i>
-</td>
-<td>
-(v) '<span>load (a boat)</span>'; (N) '<span>cargo, freight</span>'</td>
 </tr>
 <tr>
 <td>None</td><td>Tagalog</td><td><i>lulan</i></td>
@@ -2810,7 +2795,15 @@ A single base can be reconstructed, used both as a verb '(boat +) be loaded, car
 <tr>
 <td>WMP</td><td>Makassarese</td><td><i>luraŋ</i></td>
 <td>
-(V) '<span>load</span>'</td>
+[V] '<span>load</span>'</td>
+</tr>
+<tr>
+<td><strong>POc</strong></td><td> </td>
+<td>
+<i>&ast;ujan, ujan-i-, lujan</i>
+</td>
+<td>
+[v] '<span>load (a boat)</span>'; [N] '<span>cargo, freight</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Nauna</td><td><i>us</i></td>
@@ -2860,7 +2853,7 @@ A single base can be reconstructed, used both as a verb '(boat +) be loaded, car
 <tr>
 <td>Mic</td><td>Puluwatese</td><td><i>wutan</i></td>
 <td>
-(v) '<span>loaded</span>'; (N) '<span>cargo, load</span>'</td>
+[v] '<span>loaded</span>'; [N] '<span>cargo, load</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>usa</i></td>
@@ -2870,12 +2863,12 @@ A single base can be reconstructed, used both as a verb '(boat +) be loaded, car
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>uta</i></td>
 <td>
-(v) '<span>carry a cargo</span>'; (N) '<span>cargo, freight</span>'</td>
+[v] '<span>carry a cargo</span>'; [N] '<span>cargo, freight</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Samoan</td><td><i>uta</i></td>
 <td>
-(V) '<span>carry a cargo</span>'; (N) '<span>cargo, freight</span>'</td>
+[V] '<span>carry a cargo</span>'; [N] '<span>cargo, freight</span>'</td>
 </tr>
 </table>
 
@@ -2896,20 +2889,12 @@ There are two well-established PMP terms to do with paddling, _&ast;be(R)(c,s)ay
 <i>&ast;be(R)(c,s)ay</i>
 </td>
 <td>
-(N) '<span>(canoe) paddle</span>'; (V) '<span>paddle</span>'</td>
-</tr>
-<tr>
-<td><strong>POc</strong></td><td> </td>
-<td>
-<i>&ast;pose</i>
-</td>
-<td>
-(N) '<span>(canoe) paddle</span>'; (V) '<span>paddle</span>'</td>
+[N] '<span>(canoe) paddle</span>'; [V] '<span>paddle</span>'</td>
 </tr>
 <tr>
 <td>None</td><td>Aklanon</td><td><i>bugsay</i></td>
 <td>
-(N) '<span>paddle</span>'</td>
+[N] '<span>paddle</span>'</td>
 </tr>
 <tr>
 <td>None</td><td>Cebuano</td><td><i>bugsay</i></td>
@@ -2919,62 +2904,70 @@ There are two well-established PMP terms to do with paddling, _&ast;be(R)(c,s)ay
 <tr>
 <td>WMP</td><td>Ngaju Dayak</td><td><i>besei</i></td>
 <td>
-(v) '<span>paddle</span>'</td>
+[v] '<span>paddle</span>'</td>
 </tr>
 <tr>
 <td>WMP</td><td>Buginese</td><td><i>wise</i></td>
 <td>
-(N) '<span>paddle</span>'</td>
+[N] '<span>paddle</span>'</td>
 </tr>
 <tr>
 <td>None</td><td>Wolio</td><td><i>bose</i></td>
 <td>
-(N) '<span>paddle</span>'</td>
+[N] '<span>paddle</span>'</td>
 </tr>
 <tr>
 <td>CMP</td><td>Taliabo</td><td><i>bose</i></td>
 <td>
-(N) '<span>paddle</span>'</td>
+[N] '<span>paddle</span>'</td>
 </tr>
 <tr>
 <td>None</td><td>Buru</td><td><i>sai</i></td>
 <td>
-(V) '<span>paddle</span>'</td>
+[V] '<span>paddle</span>'</td>
 </tr>
 <tr>
 <td>None</td><td>Buru</td><td><i>sahi-n</i></td>
 <td>
-(N) '<span>paddle</span>'</td>
+[N] '<span>paddle</span>'</td>
+</tr>
+<tr>
+<td><strong>POc</strong></td><td> </td>
+<td>
+<i>&ast;pose</i>
+</td>
+<td>
+[N] '<span>(canoe) paddle</span>'; [V] '<span>paddle</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Manam</td><td><i>ore</i></td>
 <td>
-(N) '<span>paddle</span>'</td>
+[N] '<span>paddle</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td>Motu</td><td><i>hode</i></td>
 <td>
-(N) '<span>paddle</span>'</td>
+[N] '<span>paddle</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td>Suau</td><td><i>wose</i></td>
 <td>
-(N) '<span>paddle</span>'</td>
+[N] '<span>paddle</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Roviana</td><td><i>vose</i></td>
 <td>
-(N) '<span>paddle</span>'</td>
+[N] '<span>paddle</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Gela</td><td><i>vohe</i></td>
 <td>
-(N) '<span>paddle</span>'</td>
+[N] '<span>paddle</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Lau</td><td><i>fote</i></td>
 <td>
-(N) '<span>paddle</span>'</td>
+[N] '<span>paddle</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Sa'a</td><td><i>hote</i></td>
@@ -2984,27 +2977,27 @@ There are two well-established PMP terms to do with paddling, _&ast;be(R)(c,s)ay
 <tr>
 <td>NCV</td><td>Mota</td><td><i>wose</i></td>
 <td>
-(N) '<span>paddle</span>'</td>
+[N] '<span>paddle</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>voðe</i></td>
 <td>
-(V) '<span>paddle</span>'</td>
+[V] '<span>paddle</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>(i)voðe</i></td>
 <td>
-(N) '<span>paddle</span>' (<span><em>i-</em> &lt; POc <em>*i-</em> INS</span>)</td>
+[N] '<span>paddle</span>' (<span><em>i-</em> &lt; POc <em>*i-</em> INS</span>)</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>fohe</i></td>
 <td>
-(N) '<span>paddle</span>'</td>
+[N] '<span>paddle</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Samoan</td><td><i>foe</i></td>
 <td>
-(N) '<span>paddle</span>'</td>
+[N] '<span>paddle</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Hawaiian</td><td><i>hoe</i></td>
@@ -3025,7 +3018,32 @@ There are two well-established PMP terms to do with paddling, _&ast;be(R)(c,s)ay
 <i>&ast;pa-luja</i>
 </td>
 <td>
-(V) '<span>paddle</span>'</td>
+[V] '<span>paddle</span>'; [N] '<span>paddle</span>'</td>
+</tr>
+<tr>
+<td>WMP</td><td>Nias</td><td><i>aluxa</i></td>
+<td>
+[N] '<span>paddle</span>'</td>
+</tr>
+<tr>
+<td>WMP</td><td>Sichule</td><td><i>luga</i></td>
+<td>
+[N] '<span>paddle</span>'</td>
+</tr>
+<tr>
+<td>WMP</td><td>Sichule</td><td><i>feluxa</i></td>
+<td>
+[V] '<span>paddle</span>'</td>
+</tr>
+<tr>
+<td>None</td><td>Toba Batak</td><td><i>luga</i></td>
+<td>
+[v] '<span>row</span>'</td>
+</tr>
+<tr>
+<td>WMP</td><td>Isneg</td><td><i>piloxa</i></td>
+<td>
+'<span>oars and paddles of a canoe</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
@@ -3033,32 +3051,7 @@ There are two well-established PMP terms to do with paddling, _&ast;be(R)(c,s)ay
 <i>&ast;paluca</i>
 </td>
 <td>
-(V) '<span>paddle</span>'</td>
-</tr>
-<tr>
-<td>WMP</td><td>Nias</td><td><i>aluxa</i></td>
-<td>
-(N) '<span>paddle</span>'</td>
-</tr>
-<tr>
-<td>WMP</td><td>Sichule</td><td><i>luga</i></td>
-<td>
-(N) '<span>paddle</span>'</td>
-</tr>
-<tr>
-<td>WMP</td><td>Sichule</td><td><i>feluxa</i></td>
-<td>
-(V) '<span>paddle</span>'</td>
-</tr>
-<tr>
-<td>None</td><td>Toba Batak</td><td><i>luga</i></td>
-<td>
-(v) '<span>row</span>'</td>
-</tr>
-<tr>
-<td>WMP</td><td>Isneg</td><td><i>piloxa</i></td>
-<td>
-'<span>oars and paddles of a canoe</span>'</td>
+[V] '<span>paddle</span>'; [N] '<span>paddle</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Likum</td><td><i>heluh</i></td>
@@ -3073,17 +3066,17 @@ There are two well-established PMP terms to do with paddling, _&ast;be(R)(c,s)ay
 <tr>
 <td>SES</td><td>Arosi</td><td><i>haruta</i></td>
 <td>
-(V) '<span>paddle</span>'</td>
+[V] '<span>paddle</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Lau</td><td><i>falita, faluta</i></td>
 <td>
-(V) '<span>paddle</span>'; (N) '<span>canoe</span>'</td>
+[V] '<span>paddle</span>'; [N] '<span>canoe</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Lonwolwol</td><td><i>faloh</i></td>
 <td>
-(V) '<span>paddle</span>'</td>
+[V] '<span>paddle</span>'; [N] '<span>paddle</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Paamese</td><td><i>valis, valus</i></td>
@@ -3128,7 +3121,7 @@ A third form attributable to PEOc, _&ast;sua(C)_, also has some reflexes glossed
 <i>&ast;sua(C)</i>
 </td>
 <td>
-(V) '<span>scull, row with oar held vertically</span>'</td>
+[V] '<span>scull, row with oar held vertically</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>'Are'are</td><td><i>sua(hi)</i></td>
@@ -3148,22 +3141,22 @@ A third form attributable to PEOc, _&ast;sua(C)_, also has some reflexes glossed
 <tr>
 <td>NCV</td><td>Mota</td><td><i>sua</i></td>
 <td>
-(v) '<span>paddle, make a canoe voyage</span>'</td>
+[v] '<span>paddle, make a canoe voyage</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Mota</td><td><i>sua(va)</i></td>
 <td>
-(N) '<span>paddling, canoe voyage</span>'</td>
+[N] '<span>paddling, canoe voyage</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Raga</td><td><i>hua</i></td>
 <td>
-(V) '<span>paddle</span>'</td>
+[V] '<span>paddle</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Tangoa</td><td><i>sua</i></td>
 <td>
-(V) '<span>paddle</span>'</td>
+[V] '<span>paddle</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Rotuman</td><td><i>sua</i></td>
@@ -3190,6 +3183,20 @@ A third form attributable to PEOc, _&ast;sua(C)_, also has some reflexes glossed
 cf. also: 
 <table>
 <tr>
+<td>Fij</td>
+<td>Wayan</td>
+<td><i>due</i></td>
+<td>
+'<span>scull, propel a boat by putting an oar or pole vertically into the water and twisting it about</span>'</td>
+</tr>
+<tr>
+<td>Fij</td>
+<td>Wayan</td>
+<td><i>i-due</i></td>
+<td>
+[N] '<span>paddle, oar</span>'</td>
+</tr>
+<tr>
 <td>Pn</td>
 <td>Samoan</td>
 <td><i>sua(ti)</i></td>
@@ -3202,20 +3209,6 @@ cf. also:
 <td><i>sua(ti)</i></td>
 <td>
 '<span>balance pole of sailing canoe</span>'</td>
-</tr>
-<tr>
-<td>Fij</td>
-<td>Wayan</td>
-<td><i>due</i></td>
-<td>
-'<span>scull, propel a boat by putting an oar or pole vertically into the water and twisting it about</span>'</td>
-</tr>
-<tr>
-<td>Fij</td>
-<td>Wayan</td>
-<td><i>i-due</i></td>
-<td>
-(N) '<span>paddle, oar</span>'</td>
 </tr>
 <tr>
 <td>Pn</td>
@@ -3270,7 +3263,7 @@ PMP _&ast;teken_ 'pole, staff' was evidently continued in POc both as a noun _&a
 <tr>
 <td>PT</td><td>Motu</td><td><i>do, doa</i></td>
 <td>
-(V) '<span>pole (a canoe)</span>'</td>
+[V] '<span>pole (a canoe)</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td>Motu</td><td><i>to</i></td>
@@ -3328,10 +3321,10 @@ cf. also:
 <table>
 <tr>
 <td>None</td>
-<td>Javanese</td>
-<td><i>teken</i></td>
+<td>Sangir</td>
+<td><i>tekiŋ</i></td>
 <td>
-'<span>cane, walking stick</span>'</td>
+'<span>staff</span>'</td>
 </tr>
 <tr>
 <td>None</td>
@@ -3342,10 +3335,10 @@ cf. also:
 </tr>
 <tr>
 <td>None</td>
-<td>Sangir</td>
-<td><i>tekiŋ</i></td>
+<td>Javanese</td>
+<td><i>teken</i></td>
 <td>
-'<span>staff</span>'</td>
+'<span>cane, walking stick</span>'</td>
 </tr>
 </table>
 
@@ -3371,14 +3364,6 @@ Three terms to do with bailing water from a vessel can be reconstructed at the P
 '<span>bailer</span>'</td>
 </tr>
 <tr>
-<td><strong>POc</strong></td><td> </td>
-<td>
-<i>&ast;lima(s), nima(s)</i>
-</td>
-<td>
-'<span>bailer</span>'</td>
-</tr>
-<tr>
 <td>None</td><td>Cebuano</td><td><i>limas</i></td>
 <td>
 '<span>bailer</span>'; '<span>bilge water</span>'; '<span>bail water out</span>'</td>
@@ -3395,6 +3380,14 @@ Three terms to do with bailing water from a vessel can be reconstructed at the P
 </tr>
 <tr>
 <td>CMP</td><td>Boano</td><td><i>limate</i></td>
+<td>
+'<span>bailer</span>'</td>
+</tr>
+<tr>
+<td><strong>POc</strong></td><td> </td>
+<td>
+<i>&ast;lima(s), nima(s)</i>
+</td>
 <td>
 '<span>bailer</span>'</td>
 </tr>
@@ -3446,14 +3439,6 @@ The following PMP reconstruction is given by [Blust](../references.md#source-Blu
 '<span>scoop or bail out</span>'</td>
 </tr>
 <tr>
-<td><strong>POc</strong></td><td> </td>
-<td>
-<i>&ast;asu</i>
-</td>
-<td>
-(V) '<span>scoop or ladle out</span>'; (N) '<span>ladle, bailer</span>'</td>
-</tr>
-<tr>
 <td>None</td><td>Javanese</td><td><i>aŋsu</i></td>
 <td>
 '<span>draw water</span>'</td>
@@ -3462,6 +3447,14 @@ The following PMP reconstruction is given by [Blust](../references.md#source-Blu
 <td>None</td><td>Buru</td><td><i>asu-k</i></td>
 <td>
 '<span>scoop, dip or bail (water) with a scooper</span>'</td>
+</tr>
+<tr>
+<td><strong>POc</strong></td><td> </td>
+<td>
+<i>&ast;asu</i>
+</td>
+<td>
+[V] '<span>scoop or ladle out</span>'; [N] '<span>ladle, bailer</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Wuvulu</td><td><i>atu</i></td>
@@ -3496,7 +3489,7 @@ The following PMP reconstruction is given by [Blust](../references.md#source-Blu
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>yaðu</i></td>
 <td>
-(V) '<span>ladle, scoop</span>'</td>
+[V] '<span>ladle, scoop</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>ohu</i></td>
@@ -3506,7 +3499,7 @@ The following PMP reconstruction is given by [Blust](../references.md#source-Blu
 <tr>
 <td>Pn</td><td>Samoan</td><td><i>asu</i></td>
 <td>
-(v) '<span>scoop, ladle or bail out liquid</span>'</td>
+[v] '<span>scoop, ladle or bail out liquid</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Māori</td><td><i>ahu</i></td>
@@ -3529,7 +3522,7 @@ The next comparison shows a PPn term for 'bailer' and 'bail', derived from a PMP
 <i>&ast;tatā</i>
 </td>
 <td>
-(V) '<span>bail out</span>'; (N) '<span>bailer</span>'</td>
+[V] '<span>bail out</span>'; [N] '<span>bailer</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>tatā</i></td>
@@ -3592,7 +3585,7 @@ Seagoing canoes in many places carry a heap of sand, or an old clay pot or woode
 <tr>
 <td>Pn</td><td>Rennellese</td><td><i>tā-ŋahu</i></td>
 <td>
-(N) '<span>fire</span>'; (v) '<span>build a fire for illumination</span>'</td>
+[N] '<span>fire</span>'; [v] '<span>build a fire for illumination</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>East Uvean</td><td><i>ta-lafu</i></td>
@@ -3656,14 +3649,6 @@ A PMP term for canoe rollers or skids is well attested, with reflexes in Philipp
 '<span>rollers, skids or blocks to move or raise a boat</span>'</td>
 </tr>
 <tr>
-<td><strong>POc</strong></td><td> </td>
-<td>
-<i>&ast;laŋon</i>
-</td>
-<td>
-(N) '<span>rollers</span>'; (V) '<span>place rollers under a canoe</span>'</td>
-</tr>
-<tr>
 <td>None</td><td>Maranao</td><td><i>laŋen</i></td>
 <td>
 '<span>rollers</span>'</td>
@@ -3679,9 +3664,17 @@ A PMP term for canoe rollers or skids is well attested, with reflexes in Philipp
 '<span>rollers</span>'</td>
 </tr>
 <tr>
+<td><strong>POc</strong></td><td> </td>
+<td>
+<i>&ast;laŋon</i>
+</td>
+<td>
+[N] '<span>rollers</span>'; [V] '<span>place rollers under a canoe</span>'</td>
+</tr>
+<tr>
 <td>SES</td><td>Arosi</td><td><i>(i)raŋo</i></td>
 <td>
-(N) '<span>roller for canoe</span>'; (V) '<span>place rollers under a canoe</span>' (<span><em>i-</em> &lt; POc <em>*i-</em> INS</span>)</td>
+[N] '<span>roller for canoe</span>'; [V] '<span>place rollers under a canoe</span>' (<span><em>i-</em> &lt; POc <em>*i-</em> INS</span>)</td>
 </tr>
 <tr>
 <td>Mic</td><td>Kiribatese</td><td><i>naŋo</i></td>
@@ -3716,7 +3709,7 @@ A PMP term for canoe rollers or skids is well attested, with reflexes in Philipp
 <tr>
 <td>Pn</td><td>Samoan</td><td><i>laŋo</i></td>
 <td>
-(N) '<span>support, prop, pillow, bolster</span>'</td>
+[N] '<span>support, prop, pillow, bolster</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Rennellese</td><td><i>gaŋo</i></td>
@@ -3726,7 +3719,7 @@ A PMP term for canoe rollers or skids is well attested, with reflexes in Philipp
 <tr>
 <td>Pn</td><td>Tikopia</td><td><i>raŋo</i></td>
 <td>
-(N) '<span>canoe skid or block</span>'; (V) '<span>support (canoe +)</span>'</td>
+[N] '<span>canoe skid or block</span>'; [V] '<span>support (canoe +)</span>'</td>
 </tr>
 </table>
 
@@ -3747,15 +3740,7 @@ There are two fairly well-supported PMP reconstructions to do with anchoring. In
 <i>&ast;sauq</i>
 </td>
 <td>
-(N) '<span>anchor</span>'; (V) '<span>be anchored</span>'</td>
-</tr>
-<tr>
-<td><strong>POc</strong></td><td> </td>
-<td>
-<i>&ast;jau(q)</i>
-</td>
-<td>
-'<span>be anchored or moored, come to anchor or rest</span>'</td>
+[N] '<span>anchor</span>'; [V] '<span>be anchored</span>'</td>
 </tr>
 <tr>
 <td>None</td><td>Tagalog</td><td><i>sawoq</i></td>
@@ -3786,6 +3771,14 @@ There are two fairly well-supported PMP reconstructions to do with anchoring. In
 <td>SHWNG</td><td>Numfor</td><td><i>sau</i></td>
 <td>
 '<span>anchorage</span>'</td>
+</tr>
+<tr>
+<td><strong>POc</strong></td><td> </td>
+<td>
+<i>&ast;jau(q)</i>
+</td>
+<td>
+'<span>be anchored or moored, come to anchor or rest</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Arosi</td><td><i>dau</i></td>
@@ -3852,14 +3845,6 @@ The PMP and POc term _&ast;sawaŋ_ or _&ast;sawaq_ appears to have been the conv
 '<span>opening used by boats to pass through, channel or strait, safe passage or anchorage</span>'</td>
 </tr>
 <tr>
-<td><strong>POc</strong></td><td> </td>
-<td>
-<i>&ast;sawaŋ</i>
-</td>
-<td>
-'<span>channel in reef giving passage to boats, landing place, anchorage</span>'</td>
-</tr>
-<tr>
 <td>WMP</td><td>Chamorro</td><td><i>sagwaʔ</i></td>
 <td>
 '<span>channel, inlet of water, narrow passage in reef</span>'</td>
@@ -3868,6 +3853,14 @@ The PMP and POc term _&ast;sawaŋ_ or _&ast;sawaq_ appears to have been the conv
 <td>None</td><td>Malay</td><td><i>sawaŋ</i></td>
 <td>
 '<span>breakwater</span>'</td>
+</tr>
+<tr>
+<td><strong>POc</strong></td><td> </td>
+<td>
+<i>&ast;sawaŋ</i>
+</td>
+<td>
+'<span>channel in reef giving passage to boats, landing place, anchorage</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Lou</td><td><i>(mara)sa</i></td>
@@ -3978,14 +3971,14 @@ cf. also:
 <td>Tongan</td>
 <td><i>ava</i></td>
 <td>
-'<span>hole, aperture</span>'; '<span>passage, opening</span>' (<span>for †<em>ʔava</em></span>)</td>
+'<span>hole, aperture</span>'</td>
 </tr>
 <tr>
 <td>Pn</td>
 <td>Tongan</td>
 <td><i>vaha</i></td>
 <td>
-'<span>space between, strait, channel</span>'; '<span>space between; space, distance, especially at sea</span>'</td>
+'<span>space between, strait, channel</span>'</td>
 </tr>
 </table>
 
@@ -4138,14 +4131,6 @@ A number of terms can be reconstructed at PMP or lower levels for concepts to do
 '<span>embark, be aboard, ride (on a vessel +)</span>'</td>
 </tr>
 <tr>
-<td><strong>POc</strong></td><td> </td>
-<td>
-<i>&ast;sake</i>
-</td>
-<td>
-'<span>embark, ride on a canoe</span>' (<span>prefix to numerals denoting number of crew carried by a canoe</span>)</td>
-</tr>
-<tr>
 <td>None</td><td>Cebuano</td><td><i>sakay</i></td>
 <td>
 '<span>travel by sea, embark, ride on (a boat +)</span>'</td>
@@ -4174,6 +4159,14 @@ A number of terms can be reconstructed at PMP or lower levels for concepts to do
 <td>CMP</td><td>Selaru</td><td><i>sai</i></td>
 <td>
 '<span>climb, go up, ride, mount</span>'</td>
+</tr>
+<tr>
+<td><strong>POc</strong></td><td> </td>
+<td>
+<i>&ast;sake</i>
+</td>
+<td>
+'<span>embark, ride on a canoe</span>' (<span>prefix to numerals denoting number of crew carried by a canoe</span>)</td>
 </tr>
 <tr>
 <td>SES</td><td>Lau</td><td><i>tae</i></td>
@@ -4247,14 +4240,6 @@ In the following set the Central Pacific forms clearly refer to long-distance sa
 '<span>go down to the sea or coast</span>'</td>
 </tr>
 <tr>
-<td><strong>POc</strong></td><td> </td>
-<td>
-<i>&ast;palau(r)</i>
-</td>
-<td>
-'<span>go to sea, make a sea voyage</span>'</td>
-</tr>
-<tr>
 <td>None</td><td>Cebuano</td><td><i>palawud</i></td>
 <td>
 '<span>go to sea</span>'</td>
@@ -4268,6 +4253,14 @@ In the following set the Central Pacific forms clearly refer to long-distance sa
 <td>WMP</td><td>Tukang Besi</td><td><i>henaʔu</i></td>
 <td>
 '<span>descend, go seawards, go west</span>'</td>
+</tr>
+<tr>
+<td><strong>POc</strong></td><td> </td>
+<td>
+<i>&ast;palau(r)</i>
+</td>
+<td>
+'<span>go to sea, make a sea voyage</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Tolo</td><td><i>vola-volau</i></td>
@@ -4297,7 +4290,7 @@ In the following set the Central Pacific forms clearly refer to long-distance sa
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>volau</i></td>
 <td>
-(v) '<span>make a sea voyage</span>'; (N) '<span>boat house</span>'</td>
+[v] '<span>make a sea voyage</span>'; [N] '<span>boat house</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>folau</i></td>
@@ -4382,6 +4375,11 @@ Lawrence Reid (pers.comm.) suggests that the Malayo-Polynesian forms derive from
 '<span>steer a course (in navigating)</span>'</td>
 </tr>
 <tr>
+<td>SHWNG</td><td>Numfor</td><td><i>kar</i></td>
+<td>
+'<span>row (while facing one's destination)</span>'</td>
+</tr>
+<tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
 <i>&ast;taRi</i>
@@ -4390,14 +4388,9 @@ Lawrence Reid (pers.comm.) suggests that the Malayo-Polynesian forms derive from
 '<span>steer a course</span>'</td>
 </tr>
 <tr>
-<td>SHWNG</td><td>Numfor</td><td><i>kar</i></td>
-<td>
-'<span>row (while facing one's destination)</span>'</td>
-</tr>
-<tr>
 <td>PT</td><td>Motu</td><td><i>tari</i></td>
 <td>
-(N) '<span>rudder, steer oar</span>'; (v) '<span>steer a canoe</span>'</td>
+[N] '<span>rudder, steer oar</span>'; [v] '<span>steer a canoe</span>'</td>
 </tr>
 </table>
 
@@ -4413,22 +4406,6 @@ The sound correspondences are regular, but one would like further cognates to st
 </td>
 <td>
 '<span>tack, sail to windward</span>'</td>
-</tr>
-<tr>
-<td><strong>POc</strong></td><td> </td>
-<td>
-<i>&ast;pilu(k)</i>
-</td>
-<td>
-'<span>tack</span>'</td>
-</tr>
-<tr>
-<td><strong>PCP</strong></td><td> </td>
-<td>
-<i>&ast;sua</i>
-</td>
-<td>
-'<span>tack</span>'</td>
 </tr>
 <tr>
 <td>None</td><td>Javanese</td><td><i>biluk</i></td>
@@ -4451,9 +4428,25 @@ The sound correspondences are regular, but one would like further cognates to st
 '<span>tack</span>'</td>
 </tr>
 <tr>
+<td><strong>POc</strong></td><td> </td>
+<td>
+<i>&ast;pilu(k)</i>
+</td>
+<td>
+'<span>tack</span>'</td>
+</tr>
+<tr>
 <td>SES</td><td>Sa'a</td><td><i>hilu-hilu</i></td>
 <td>
 '<span>zigzag</span>'</td>
+</tr>
+<tr>
+<td><strong>PCP</strong></td><td> </td>
+<td>
+<i>&ast;sua</i>
+</td>
+<td>
+'<span>tack</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Rotuman</td><td><i>sua</i></td>

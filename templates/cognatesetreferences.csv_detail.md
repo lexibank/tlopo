@@ -8,14 +8,14 @@
 <i>&ast;{{ form }}</i>
 </td>
 <td>
-{% for g, cmt, pos, srcs in glosses[fid] %}{% if pos %}({{ pos }}) {% endif %}'{{ g|markdown }}'{% if cmt %} ({{ cmt|markdown }}){% endif %}{% if srcs %}
+{% for g, cmt, pos, srcs in glosses[fid] %}{% if pos %}[{{ pos }}] {% endif %}'{{ g|markdown }}'{% if cmt %} ({{ cmt|markdown }}){% endif %}{% if srcs %}
  ({% for srcid, pages in srcs %}<a href="../references.md#source-{{ srcid }}">{{ srcid }}{% if pages %}: {{ pages }}{% endif %}</a>{% if loop.last == False %}; {% endif %}{% endfor %})
 {% endif %}{% if loop.last == False %}; {% endif %}{% endfor %}
 </td>
 {% else: %}
 <td>{{ group }}</td><td>{{ lname }}</td><td><i>{{ form }}</i></td>
 <td>
-{% for g, cmt, pos, srcs in glosses[fid] %}{% if pos %}({{ pos }}) {% endif %}{% if g %}'{{ g|markdown }}'{% endif %}{% if cmt %} ({{ cmt|markdown }}){% endif %}{% if srcs %}
+{% for g, cmt, pos, srcs in glosses[fid] %}{% if pos %}[{{ pos }}] {% endif %}{% if g %}'{{ g|markdown }}'{% endif %}{% if cmt %} ({{ cmt|markdown }}){% endif %}{% if srcs %}
  ({% for srcid, pages in srcs %}<a href="../references.md#source-{{ srcid }}">{{ srcid }}{% if pages %}: {{ pages }}{% endif %}</a>{% if loop.last == False %}; {% endif %}{% endfor %})
 {% endif %}{% if loop.last == False %}; {% endif %}{% endfor %}
 </td>
@@ -33,7 +33,7 @@ cf. also: {{ key[1] or '' }}
 <td>{{ lname }}</td>
 <td><i>{{ form }}</i></td>
 <td>
-{% for g, cmt, pos, srcs in glosses %}{% if pos %}({{ pos }}) {% endif %}{% if g %}'{{ g|markdown }}'{% endif %}{% if cmt %} ({{ cmt|markdown }}){% endif %}{% if srcs %}
+{% for g, cmt, pos, srcs in glosses %}{% if pos %}[{{ pos }}] {% endif %}{% if g %}'{{ g|markdown }}'{% endif %}{% if cmt %} ({{ cmt|markdown }}){% endif %}{% if srcs %}
 ({% for srcid, pages in srcs %}<a href="../references.md#source-{{ srcid }}">{{ srcid }}{% if pages %}: {{ pages }}{% endif %}</a>{% if loop.last == False %}; {% endif %}{% endfor %})
 {% endif %}{% if loop.last == False %}; {% endif %}{% endfor %}
 </td>

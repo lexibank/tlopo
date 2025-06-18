@@ -1,6 +1,4 @@
-# Architectural Forms and Settlement Patterns
-
-by Green, R. and Pawley, A.
+[Green, R. and Pawley, A.](.smallcaps)
 
 
 <a id="s-1"></a>
@@ -905,12 +903,12 @@ The following group of ten cognate sets indicate that early Austronesian dwellin
 <tr>
 <td>Mic</td><td>Kiribatese</td><td><i>ato</i></td>
 <td>
-(N) '<span>thatch of coconut leaves</span>'</td>
+[N] '<span>thatch of coconut leaves</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Kiribatese</td><td><i>ato-</i></td>
 <td>
-(V) '<span>thatch a house with ato</span>'</td>
+[V] '<span>thatch a house with ato</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Mokilese</td><td><i>ɔc</i></td>
@@ -960,7 +958,7 @@ A second POc term for thatch is reconstructable, namely _&ast;rau(n)_, whose pri
 <tr>
 <td>Mic</td><td>Kiribatese</td><td><i>rau-</i></td>
 <td>
-(V) '<span>thatch s.t.</span>'</td>
+[V] '<span>thatch s.t.</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>rau</i></td>
@@ -1307,17 +1305,17 @@ cf. also:
 </tr>
 <tr>
 <td>SES</td>
-<td>Gela</td>
-<td><i>bou</i></td>
-<td>
-'<span>(timber) hard or seasoned</span>'</td>
-</tr>
-<tr>
-<td>SES</td>
 <td>Lau</td>
 <td><i>bou</i></td>
 <td>
 '<span>seasoned log</span>'</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>Gela</td>
+<td><i>bou</i></td>
+<td>
+'<span>(timber) hard or seasoned</span>'</td>
 </tr>
 </table>
 
@@ -2673,17 +2671,17 @@ cf. also:
 </tr>
 <tr>
 <td>NCV</td>
-<td>Nguna</td>
-<td><i>varea</i></td>
-<td>
-'<span>men's house</span>'</td>
-</tr>
-<tr>
-<td>NCV</td>
 <td>Raga</td>
 <td><i>a-vare</i></td>
 <td>
 '<span>outside the house</span>'</td>
+</tr>
+<tr>
+<td>NCV</td>
+<td>Nguna</td>
+<td><i>varea</i></td>
+<td>
+'<span>men's house</span>'</td>
 </tr>
 </table>
 
@@ -2702,15 +2700,6 @@ For POc _&ast;malaqai_, [Milke](../references.md#source-Milke1968) ([1968](../re
 '<span>(?) open space in a settlement</span>'</td>
 </tr>
 <tr>
-<td><strong>PPn</strong></td><td> </td>
-<td>
-<i>&ast;malaqe</i>
-</td>
-<td>
-'<span>open, cleared space used as meeting place or ceremonial place</span>' (<a href="../references.md#source-Biggs1993">Biggs1993</a>)
-</td>
-</tr>
-<tr>
 <td>NNG</td><td>Yabem</td><td><i>melaʔ</i></td>
 <td>
 '<span>village</span>'</td>
@@ -2719,6 +2708,15 @@ For POc _&ast;malaqai_, [Milke](../references.md#source-Milke1968) ([1968](../re
 <td>PT</td><td>Wedau</td><td><i>melagai</i></td>
 <td>
 '<span>village</span>'</td>
+</tr>
+<tr>
+<td><strong>PPn</strong></td><td> </td>
+<td>
+<i>&ast;malaqe</i>
+</td>
+<td>
+'<span>open, cleared space used as meeting place or ceremonial place</span>' (<a href="../references.md#source-Biggs1993">Biggs1993</a>)
+</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>malaʔe</i></td>
@@ -2810,13 +2808,6 @@ Another POc term whose reflexes in a few daughter languages now mean 'village' i
 cf. also: 
 <table>
 <tr>
-<td>Fij</td>
-<td>Bauan</td>
-<td><i>lala</i></td>
-<td>
-'<span>(esp. land) empty, unoccupied, uninhabited</span>'</td>
-</tr>
-<tr>
 <td>NCV</td>
 <td>Lonwolwol</td>
 <td><i>har</i></td>
@@ -2824,11 +2815,18 @@ cf. also:
 '<span>dancing place, ceremonial clearing in village</span>'</td>
 </tr>
 <tr>
+<td>Fij</td>
+<td>Bauan</td>
+<td><i>lala</i></td>
+<td>
+'<span>(esp. land) empty, unoccupied, uninhabited</span>'</td>
+</tr>
+<tr>
 <td>Pn</td>
 <td>Tongan</td>
 <td><i>lala</i></td>
 <td>
-'<span>(place) uninhabited, empty or almost so</span>'; '<span>half-cook, cook lightly (fish)</span>'; '<span>taxon of shrubs inc. Vitex trifolia, Dendrolobium umbellatum and Wikstroemia foetida</span>'</td>
+'<span>(place) uninhabited, empty or almost so</span>'</td>
 </tr>
 </table>
 

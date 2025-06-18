@@ -1,6 +1,4 @@
-# Were turtles fish in Proto Oceanic? Semantic reconstruction and change in some terms for animal categories in Oceanic languages
-
-by Andrew Pawley
+[Andrew Pawley](.smallcaps)
 
 > __fish__. An animal that inhabits the water. (Samuel Johnson, English dictionary, 1755)
 

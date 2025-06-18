@@ -76,11 +76,12 @@ where csrf.`cognatesetreferences.csv_cldf_id` = ?
                      join `cfitems.csv` as c on (cf.cldf_id = c.Cfset_ID) \
                      join formtable as f on (c.cldf_formReference = f.cldf_id) \
                      join languagetable as l on f.cldf_languageReference = l.cldf_id \
-                     left join `glosses.csv` as g on f.cldf_id = g.cldf_formReference \
+                     left join `cfitems.csv_glosses.csv` as cfg on c.cldf_id = cfg.`cfitems.csv_cldf_id`
+                     left join `glosses.csv` as g on cfg.`glosses.csv_cldf_id` = g.cldf_id
                      left join `glosses.csv_SourceTable` as gs \
                                on gs.`glosses.csv_cldf_id` = g.cldf_id
             where cf.cognatesetreference_id = ?
-            order by cf.cldf_id, l.cldf_name, f.cldf_value, g.cldf_name \
+            order by cf.cldf_id, c.ordinal \
             """
         res = collections.OrderedDict()
         for cfid, rows in itertools.groupby(db.query(q, (rid,)), lambda r: r[0]):
@@ -94,7 +95,8 @@ where csrf.`cognatesetreferences.csv_cldf_id` = ?
                                                                 lambda r: (r[6], r[7], r[8])):
                     res[(cfid, rows[0][1])][-1][-1].append(
                         (g, cmt, pos, [(r[-2], r[-1]) for r in sources if r[-2]]))
-        return res
+        return collections.OrderedDict(
+            ((k[0], (k[1] or '').replace('*', '&ast;')), v) for k, v in res.items())
 
     def cfitems(cfid):
         q = """
@@ -103,8 +105,9 @@ from
       `cf.csv` as cf
       join `cfitems.csv` as c on (cf.cldf_id = c.Cfset_ID)
       join formtable as f on (c.cldf_formReference = f.cldf_id)
-      join languagetable as l on f.cldf_languageReference = l.cldf_id
-      left join `glosses.csv` as g on f.cldf_id = g.cldf_formReference
+      join languagetable as l on f.cldf_languageReference = l.cldf_id      
+      left join `cfitems.csv_glosses.csv` as cfg on c.cldf_id = cfg.`cfitems.csv_cldf_id`
+      left join `glosses.csv` as g on cfg.`glosses.csv_cldf_id` = g.cldf_id
       left join `glosses.csv_SourceTable` as gs on gs.`glosses.csv_cldf_id` = g.cldf_id
 where cf.cldf_id = ?
 """

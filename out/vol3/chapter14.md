@@ -1,6 +1,4 @@
-# Concluding notes
-
-by Malcolm Ross
+[Malcolm Ross](.smallcaps)
 
 
 <a id="s-1"></a>

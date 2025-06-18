@@ -1,6 +1,4 @@
-# Wild plants of primary lowland tropical rain forest
-
-by Malcolm Ross
+[Malcolm Ross](.smallcaps)
 
 
 <a id="s-1"></a>
@@ -479,23 +477,6 @@ The Meso-Melanesian forms below, apparently reflecting Proto Meso-Melanesian _&a
 </td>
 </tr>
 <tr>
-<td><strong>PCP</strong></td><td> </td>
-<td>
-<i>&ast;m(w)aso-koi</i>
-</td>
-<td>
-'<span>perfume tree, Cananga odorata</span>' (<a href="../references.md#source-Milke1961">Milke1961</a>)
-</td>
-</tr>
-<tr>
-<td><strong>PPn</strong></td><td> </td>
-<td>
-<i>&ast;mosokoi</i>
-</td>
-<td>
-'<span>Cananga odorata</span>'</td>
-</tr>
-<tr>
 <td>Adm</td><td>Mussau</td><td><i>mosou</i></td>
 <td>
 '<span>wild cinnamon, Cinnamomum sp.</span>'</td>
@@ -597,6 +578,15 @@ The Meso-Melanesian forms below, apparently reflecting Proto Meso-Melanesian _&a
 '<span>wild cinnamon, Cinnamomum sp.</span>'</td>
 </tr>
 <tr>
+<td><strong>PCP</strong></td><td> </td>
+<td>
+<i>&ast;m(w)aso-koi</i>
+</td>
+<td>
+'<span>perfume tree, Cananga odorata</span>' (<a href="../references.md#source-Milke1961">Milke1961</a>)
+</td>
+</tr>
+<tr>
 <td>Fij</td><td>Wayan</td><td><i>mākosoi</i></td>
 <td>
 '<span>Cananga odorata</span>' (<span>metathesis</span>)</td>
@@ -605,6 +595,14 @@ The Meso-Melanesian forms below, apparently reflecting Proto Meso-Melanesian _&a
 <td>Fij</td><td>Bauan</td><td><i>makosoi</i></td>
 <td>
 '<span>Cananga odorata</span>' (<span>metathesis</span>)</td>
+</tr>
+<tr>
+<td><strong>PPn</strong></td><td> </td>
+<td>
+<i>&ast;mosokoi</i>
+</td>
+<td>
+'<span>Cananga odorata</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>mohokoi</i></td>
@@ -740,22 +738,6 @@ Two terms are reconstructable: POc _&ast;raqu(p)_ and PNCV _&ast;katabola_. The 
 '<span>New Guinea walnut, Dracontomelon dao</span>'</td>
 </tr>
 <tr>
-<td><strong>ProtoRemoteOceanic</strong></td><td> </td>
-<td>
-<i>&ast;raqu</i>
-</td>
-<td>
-'<span>dragon plum tree, Dracontomelon dao</span>'</td>
-</tr>
-<tr>
-<td><strong>PCP</strong></td><td> </td>
-<td>
-<i>&ast;(tawa)raqu</i>
-</td>
-<td>
-'<span>dragon plum tree, Dracontomelon vitiense</span>'</td>
-</tr>
-<tr>
 <td>Adm</td><td>Mussau</td><td><i>ra</i></td>
 <td>
 '<span>Dracontomelon dao</span>'</td>
@@ -794,6 +776,14 @@ Two terms are reconstructable: POc _&ast;raqu(p)_ and PNCV _&ast;katabola_. The 
 <td>MM</td><td>Patpatar</td><td><i>loh</i></td>
 <td>
 '<span>Dracontomelon dao</span>' (<span>for †<em>ro</em></span>)</td>
+</tr>
+<tr>
+<td><strong>ProtoRemoteOceanic</strong></td><td> </td>
+<td>
+<i>&ast;raqu</i>
+</td>
+<td>
+'<span>dragon plum tree, Dracontomelon dao</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Mwotlap</td><td><i>ye</i></td>
@@ -839,6 +829,14 @@ Two terms are reconstructable: POc _&ast;raqu(p)_ and PNCV _&ast;katabola_. The 
 <td>SV</td><td>Kwamera</td><td><i>nə-rai</i></td>
 <td>
 '<span>Dracontomelon dao</span>'</td>
+</tr>
+<tr>
+<td><strong>PCP</strong></td><td> </td>
+<td>
+<i>&ast;(tawa)raqu</i>
+</td>
+<td>
+'<span>dragon plum tree, Dracontomelon vitiense</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>(tawa)rau</i></td>
@@ -964,15 +962,6 @@ POc _&ast;maqota_ perhaps denoted a taxon including several Dysoxylum species. A
 '<span>Dysoxylum spp.</span>'</td>
 </tr>
 <tr>
-<td><strong>PSV</strong></td><td> </td>
-<td>
-<i>&ast;na-mtaw</i>
-</td>
-<td>
-'<span>Dysoxylum sp.</span>' (<a href="../references.md#source-Lynch2001c">Lynch2001c</a>)
-</td>
-</tr>
-<tr>
 <td>PT</td><td>Muyuw</td><td><i>(a)mʷakot</i></td>
 <td>
 '<span>a 20-metre Dysoxylum sp.</span>'</td>
@@ -991,6 +980,15 @@ POc _&ast;maqota_ perhaps denoted a taxon including several Dysoxylum species. A
 <td>NCV</td><td>Mota</td><td><i>ma-maota</i></td>
 <td>
 '<span>tree sp.</span>'</td>
+</tr>
+<tr>
+<td><strong>PSV</strong></td><td> </td>
+<td>
+<i>&ast;na-mtaw</i>
+</td>
+<td>
+'<span>Dysoxylum sp.</span>' (<a href="../references.md#source-Lynch2001c">Lynch2001c</a>)
+</td>
 </tr>
 <tr>
 <td>SV</td><td>Sye</td><td><i>ni-mtu</i></td>
@@ -1234,14 +1232,6 @@ PCP _&ast;manaui_ 'Garuga floribunda', also below, appears cognate with the PNCV
 '<span>Garuga floribunda</span>' (<span>from data in Wheatley 1992</span>)</td>
 </tr>
 <tr>
-<td><strong>PCP</strong></td><td> </td>
-<td>
-<i>&ast;manaui</i>
-</td>
-<td>
-'<span>Garuga floribunda</span>'</td>
-</tr>
-<tr>
 <td>NCV</td><td>Mota</td><td><i>mʷa-mʷalau</i></td>
 <td>
 '<span>Garuga floribunda</span>'</td>
@@ -1268,6 +1258,14 @@ PCP _&ast;manaui_ 'Garuga floribunda', also below, appears cognate with the PNCV
 </tr>
 <tr>
 <td>NCV</td><td>Tolomako</td><td><i>na-malaus</i></td>
+<td>
+'<span>Garuga floribunda</span>'</td>
+</tr>
+<tr>
+<td><strong>PCP</strong></td><td> </td>
+<td>
+<i>&ast;manaui</i>
+</td>
 <td>
 '<span>Garuga floribunda</span>'</td>
 </tr>
@@ -1372,22 +1370,6 @@ Polynesian languages, meanwhile, have reapplied the PCP reflex of POc _&ast;pesi
 '<span>a taxon of hardwood trees including Intsia bijuga</span>' (<span>?</span>)</td>
 </tr>
 <tr>
-<td><strong>PEOc</strong></td><td> </td>
-<td>
-<i>&ast;toRa(s)</i>
-</td>
-<td>
-'<span>a hardwood tree, Intsia bijuga</span>'</td>
-</tr>
-<tr>
-<td><strong>PPn</strong></td><td> </td>
-<td>
-<i>&ast;toa</i>
-</td>
-<td>
-'<span>Casuarina equisetifolia</span>' (<span>POLLEX</span>)</td>
-</tr>
-<tr>
 <td>Adm</td><td>Seimat</td><td><i>tor</i></td>
 <td>
 '<span>Intsia bijuga</span>' (<span>-r fort -ŋ: borrowed?</span>) (<a href="../references.md#source-Sorensen1950">Sorensen1950</a>)
@@ -1432,6 +1414,14 @@ Polynesian languages, meanwhile, have reapplied the PCP reflex of POc _&ast;pesi
 <td>MM</td><td>Maringe</td><td><i>tʰola</i></td>
 <td>
 '<span>type of large softwood tree; canoe with two upraised ends</span>'</td>
+</tr>
+<tr>
+<td><strong>PEOc</strong></td><td> </td>
+<td>
+<i>&ast;toRa(s)</i>
+</td>
+<td>
+'<span>a hardwood tree, Intsia bijuga</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Lau</td><td><i>ola</i></td>
@@ -1508,6 +1498,14 @@ Polynesian languages, meanwhile, have reapplied the PCP reflex of POc _&ast;pesi
 <td>Fij</td><td>Bauan</td><td><i>doa</i></td>
 <td>
 '<span>the heartwood of a tree, solid and dark</span>'</td>
+</tr>
+<tr>
+<td><strong>PPn</strong></td><td> </td>
+<td>
+<i>&ast;toa</i>
+</td>
+<td>
+'<span>Casuarina equisetifolia</span>' (<span>POLLEX</span>)</td>
 </tr>
 <tr>
 <td>Pn</td><td>Niuean</td><td><i>toa</i></td>
@@ -1755,14 +1753,6 @@ In view of this variation we can be sure only that POc _&ast;kalaka_ denoted a s
 '<span>Planchonella sp.</span>'</td>
 </tr>
 <tr>
-<td><strong>PCP</strong></td><td> </td>
-<td>
-<i>&ast;kalaka</i>
-</td>
-<td>
-'<span>Planchonella sp.</span>'</td>
-</tr>
-<tr>
 <td>NNG</td><td>Kairiru</td><td><i>lalak</i></td>
 <td>
 '<span>Planchonella obovoidea</span>'</td>
@@ -1781,6 +1771,14 @@ In view of this variation we can be sure only that POc _&ast;kalaka_ denoted a s
 <td>NCV</td><td>Uripiv</td><td><i>na-klak</i></td>
 <td>
 '<span>Planchonella/ Pouteria spp.</span>'</td>
+</tr>
+<tr>
+<td><strong>PCP</strong></td><td> </td>
+<td>
+<i>&ast;kalaka</i>
+</td>
+<td>
+'<span>Planchonella sp.</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>galaka</i></td>
@@ -1846,17 +1844,17 @@ The glosses in the cognate set below imply that PCP _&ast;bau_ had the meaning w
 '<span>hardwood taxon</span>' (<span>see above</span>)</td>
 </tr>
 <tr>
+<td>MM</td><td>Teop</td><td><i>bau</i></td>
+<td>
+'<span>Leea tetramera</span>'</td>
+</tr>
+<tr>
 <td><strong>PCP</strong></td><td> </td>
 <td>
 <i>&ast;bau</i>
 </td>
 <td>
 '<span>hardwood taxon</span>' (<span>see above</span>)</td>
-</tr>
-<tr>
-<td>MM</td><td>Teop</td><td><i>bau</i></td>
-<td>
-'<span>Leea tetramera</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>bau</i></td>
@@ -2227,14 +2225,6 @@ Riwo and Takia reflect Proto Bel _&ast;payaRi_. The presence of the final conson
 cf. also: 
 <table>
 <tr>
-<td>MM</td>
-<td>Babatana</td>
-<td><i>vadaka</i></td>
-<td>
-'<span>Vitex cofassus</span>'(<a href="../references.md#source-McClatcheyetal2005">McClatcheyetal2005</a>)
-</td>
-</tr>
-<tr>
 <td>NNG</td>
 <td>Riwo</td>
 <td><i>paiaɬi</i></td>
@@ -2248,6 +2238,14 @@ cf. also:
 <td><i>peari</i></td>
 <td>
 '<span>tree with very hard and durable wood</span>'(<a href="../references.md#source-Mager1952">Mager1952</a>)
+</td>
+</tr>
+<tr>
+<td>MM</td>
+<td>Babatana</td>
+<td><i>vadaka</i></td>
+<td>
+'<span>Vitex cofassus</span>'(<a href="../references.md#source-McClatcheyetal2005">McClatcheyetal2005</a>)
 </td>
 </tr>
 </table>
@@ -2299,14 +2297,6 @@ Figure 7.7: Left Bischofia javanica, Java cedar: A, tree; B compound leaf; C, br
 '<span>tree sp., Bischofia javanica</span>' (<span>POLLEX</span>)</td>
 </tr>
 <tr>
-<td><strong>PCP</strong></td><td> </td>
-<td>
-<i>&ast;koka</i>
-</td>
-<td>
-'<span>tree sp., Bischofia javanica</span>'</td>
-</tr>
-<tr>
 <td>SES</td><td>Ulawa</td><td><i>ʔoʔa</i></td>
 <td>
 '<span>Bischofia javanica</span>' (<span>W. McClatchey, pers. comm.</span>)</td>
@@ -2341,6 +2331,14 @@ Figure 7.7: Left Bischofia javanica, Java cedar: A, tree; B compound leaf; C, br
 <td>NCV</td><td>South Efate</td><td><i>n-kok</i></td>
 <td>
 '<span>Bischofia javanica</span>'</td>
+</tr>
+<tr>
+<td><strong>PCP</strong></td><td> </td>
+<td>
+<i>&ast;koka</i>
+</td>
+<td>
+'<span>tree sp., Bischofia javanica</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>koka</i></td>
@@ -2651,6 +2649,11 @@ Although Diospyros species are well known sub-canopy trees, widely mentioned in 
 </td>
 </tr>
 <tr>
+<td>NCV</td><td>Mwotlap</td><td><i>(ɣ[ʋ])nʋm</i></td>
+<td>
+'<span>Diospyros ferrea</span>'</td>
+</tr>
+<tr>
 <td><strong>ProtoSouthMelanesian</strong></td><td> </td>
 <td>
 <i>&ast;n(e,i)mo</i>
@@ -2658,11 +2661,6 @@ Although Diospyros species are well known sub-canopy trees, widely mentioned in 
 <td>
 '<span>Diospyros spp.</span>' (<a href="../references.md#source-Lynch2004a">Lynch2004a</a>)
 </td>
-</tr>
-<tr>
-<td>NCV</td><td>Mwotlap</td><td><i>(ɣ[ʋ])nʋm</i></td>
-<td>
-'<span>Diospyros ferrea</span>'</td>
 </tr>
 <tr>
 <td>SV</td><td>Sye</td><td><i>nimu(ŋlei)</i></td>
@@ -2752,15 +2750,6 @@ A reasonable (but not the only) interpretation of the data below is that POc _&a
 '<span>Euodia spp.</span>'</td>
 </tr>
 <tr>
-<td><strong>PSV</strong></td><td> </td>
-<td>
-<i>&ast;na-bʷus(Vn)</i>
-</td>
-<td>
-'<span>whitewood, Alphitonia zizyphoides</span>' (<a href="../references.md#source-Lynch2001c">Lynch2001c</a>)
-</td>
-</tr>
-<tr>
 <td>MM</td><td>Nehan</td><td><i>bouh</i></td>
 <td>
 '<span>Euodia hortensis</span>'</td>
@@ -2779,6 +2768,15 @@ A reasonable (but not the only) interpretation of the data below is that POc _&a
 <td>MM</td><td>Roviana</td><td><i>bosi</i></td>
 <td>
 '<span>Euodia elleryana</span>' (<a href="../references.md#source-Record1945">Record1945</a>)
+</td>
+</tr>
+<tr>
+<td><strong>PSV</strong></td><td> </td>
+<td>
+<i>&ast;na-bʷus(Vn)</i>
+</td>
+<td>
+'<span>whitewood, Alphitonia zizyphoides</span>' (<a href="../references.md#source-Lynch2001c">Lynch2001c</a>)
 </td>
 </tr>
 <tr>
@@ -2864,14 +2862,6 @@ Most of the terms below are from NCV languages, and they present a minor puzzle.
 '<span>Kleinhovia hospita</span>'</td>
 </tr>
 <tr>
-<td><strong>PNCV</strong></td><td> </td>
-<td>
-<i>&ast;ma(t,d)aga</i>
-</td>
-<td>
-'<span>Kleinhovia hospita</span>'</td>
-</tr>
-<tr>
 <td>MM</td><td>Bola</td><td><i>maitaga</i></td>
 <td>
 '<span>Kleinhovia hospita</span>' (<a href="../references.md#source-Arentzetal1989">Arentzetal1989: 94</a>)
@@ -2897,6 +2887,14 @@ Most of the terms below are from NCV languages, and they present a minor puzzle.
 <td>SES</td><td>Santa Ana</td><td><i>magaka</i></td>
 <td>
 '<span>Kleinhovia hospita</span>' (<span>metathesis of PSES *mataga</span>)</td>
+</tr>
+<tr>
+<td><strong>PNCV</strong></td><td> </td>
+<td>
+<i>&ast;ma(t,d)aga</i>
+</td>
+<td>
+'<span>Kleinhovia hospita</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Mwotlap</td><td><i>na-mʷtak</i></td>
@@ -3116,16 +3114,9 @@ Proto Meso-Melanesian _&ast;p(i,u)lakis_ and POc _&ast;paqu_, both 'Kleinhovia h
 cf. also: 
 <table>
 <tr>
-<td>SES</td>
-<td>Kwaio</td>
-<td><i>fae-fae</i></td>
-<td>
-'<span>tree sp.</span>'</td>
-</tr>
-<tr>
-<td>SES</td>
-<td>Kwara’ae</td>
-<td><i>fae-fae</i></td>
+<td>MM</td>
+<td>Mono-Alu</td>
+<td><i>(la)hai</i></td>
 <td>
 '<span>Kleinhovia hospita</span>'</td>
 </tr>
@@ -3137,11 +3128,18 @@ cf. also:
 '<span>Kleinhovia hospita</span>'</td>
 </tr>
 <tr>
-<td>MM</td>
-<td>Mono-Alu</td>
-<td><i>(la)hai</i></td>
+<td>SES</td>
+<td>Kwara’ae</td>
+<td><i>fae-fae</i></td>
 <td>
 '<span>Kleinhovia hospita</span>'</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>Kwaio</td>
+<td><i>fae-fae</i></td>
+<td>
+'<span>tree sp.</span>'</td>
 </tr>
 </table>
 
@@ -3275,15 +3273,6 @@ The reconstruction that emerges from the discussion above is POc _&ast;daRaka_, 
 '<span>wild nutmeg, Myristica sp.</span>'</td>
 </tr>
 <tr>
-<td><strong>PSV</strong></td><td> </td>
-<td>
-<i>&ast;na-(dr,d)ani</i>
-</td>
-<td>
-'<span>wild nutmeg, Myristica fatua</span>' (<a href="../references.md#source-Lynch2004a">Lynch2004a</a>)
-</td>
-</tr>
-<tr>
 <td>NCV</td><td>Mota</td><td><i>na-raɣa</i></td>
 <td>
 '<span>nutmeg</span>'</td>
@@ -3331,6 +3320,15 @@ The reconstruction that emerges from the discussion above is POc _&ast;daRaka_, 
 <td>NCV</td><td>South Efate</td><td><i>n-ra</i></td>
 <td>
 '<span>Myristica fatua</span>'</td>
+</tr>
+<tr>
+<td><strong>PSV</strong></td><td> </td>
+<td>
+<i>&ast;na-(dr,d)ani</i>
+</td>
+<td>
+'<span>wild nutmeg, Myristica fatua</span>' (<a href="../references.md#source-Lynch2004a">Lynch2004a</a>)
+</td>
 </tr>
 <tr>
 <td>SV</td><td>Sye</td><td><i>na-nre</i></td>
@@ -3390,22 +3388,6 @@ POc _&ast;qatita_. Of the Western Oceanic forms, Wogeo _kətita_ and Kara _katit
 '<span>the putty nut, probably Parinari laurina and Parinari glaberrima</span>' (<span>ACD: *qatita</span>)</td>
 </tr>
 <tr>
-<td><strong>PWOc</strong></td><td> </td>
-<td>
-<i>&ast;katita</i>
-</td>
-<td>
-'<span>the putty nut, probably Parinari laurina and Parinari glaberrima</span>'</td>
-</tr>
-<tr>
-<td><strong>PEOc</strong></td><td> </td>
-<td>
-<i>&ast;qatita</i>
-</td>
-<td>
-'<span>the putty nut, probably Parinari laurina and Parinari glaberrima</span>'</td>
-</tr>
-<tr>
 <td>Adm</td><td>Likum</td><td><i>ketik</i></td>
 <td>
 '<span>putty nut, Parinari laurina</span>'</td>
@@ -3419,6 +3401,14 @@ POc _&ast;qatita_. Of the Western Oceanic forms, Wogeo _kətita_ and Kara _katit
 <td>Adm</td><td>Lou</td><td><i>kerit</i></td>
 <td>
 '<span>putty nut, Parinari laurina</span>'</td>
+</tr>
+<tr>
+<td><strong>PWOc</strong></td><td> </td>
+<td>
+<i>&ast;katita</i>
+</td>
+<td>
+'<span>the putty nut, probably Parinari laurina and Parinari glaberrima</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Kove</td><td><i>atita</i></td>
@@ -3454,6 +3444,14 @@ POc _&ast;qatita_. Of the Western Oceanic forms, Wogeo _kətita_ and Kara _katit
 <td>MM</td><td>Teop</td><td><i>asita</i></td>
 <td>
 '<span>putty nut</span>'</td>
+</tr>
+<tr>
+<td><strong>PEOc</strong></td><td> </td>
+<td>
+<i>&ast;qatita</i>
+</td>
+<td>
+'<span>the putty nut, probably Parinari laurina and Parinari glaberrima</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Baegu</td><td><i>saia</i></td>
@@ -3954,23 +3952,6 @@ On the basis of the non-Oceanic data supporting Blust's reconstruction of PMP _&
 </td>
 </tr>
 <tr>
-<td><strong>PEOc</strong></td><td> </td>
-<td>
-<i>&ast;piRu(q)</i>
-</td>
-<td>
-'<span>fan palm, umbrella palm</span>' (<a href="../references.md#source-Geraghty1990">Geraghty1990</a>)
-</td>
-</tr>
-<tr>
-<td><strong>PCP</strong></td><td> </td>
-<td>
-<i>&ast;viu</i>
-</td>
-<td>
-'<span>fan palm, umbrella palm, Pritchardia pacifica</span>'</td>
-</tr>
-<tr>
 <td>NNG</td><td>Kove</td><td><i>pilu</i></td>
 <td>
 '<span>Licuala sp.</span>'</td>
@@ -3999,6 +3980,15 @@ On the basis of the non-Oceanic data supporting Blust's reconstruction of PMP _&
 <td>MM</td><td>Mono-Alu</td><td><i>hiuru</i></td>
 <td>
 '<span>Licuala lauterbachii</span>' (<span>W. McClatchey, pers. comm.</span>)</td>
+</tr>
+<tr>
+<td><strong>PEOc</strong></td><td> </td>
+<td>
+<i>&ast;piRu(q)</i>
+</td>
+<td>
+'<span>fan palm, umbrella palm</span>' (<a href="../references.md#source-Geraghty1990">Geraghty1990</a>)
+</td>
 </tr>
 <tr>
 <td>SES</td><td>Gela</td><td><i>vilu</i></td>
@@ -4074,6 +4064,14 @@ On the basis of the non-Oceanic data supporting Blust's reconstruction of PMP _&
 '<span>a kind of palm tree</span>'</td>
 </tr>
 <tr>
+<td><strong>PCP</strong></td><td> </td>
+<td>
+<i>&ast;viu</i>
+</td>
+<td>
+'<span>fan palm, umbrella palm, Pritchardia pacifica</span>'</td>
+</tr>
+<tr>
 <td>Fij</td><td>Bauan</td><td><i>viu</i></td>
 <td>
 '<span>Pritchardia pacifica</span>'</td>
@@ -4145,14 +4143,6 @@ Reflexes of POc _&ast;wasi-wasi_ 'Abroma augusta' are found with this meaning on
 '<span>Abroma augusta</span>'</td>
 </tr>
 <tr>
-<td><strong>ProtoRemoteOceanic</strong></td><td> </td>
-<td>
-<i>&ast;wasi-wasi</i>
-</td>
-<td>
-'<span>Sterculia vitiensis</span>' (<span>from data in Wheatley 1992, Lynch 2004a</span>)</td>
-</tr>
-<tr>
 <td>MM</td><td>Kara (East)</td><td><i>(ka)us-vas</i></td>
 <td>
 '<span>Abroma augusta</span>'</td>
@@ -4171,6 +4161,14 @@ Reflexes of POc _&ast;wasi-wasi_ 'Abroma augusta' are found with this meaning on
 <td>SES</td><td>Kwara’ae</td><td><i>kʷasi-kʷasi</i></td>
 <td>
 '<span>Abroma augusta</span>'</td>
+</tr>
+<tr>
+<td><strong>ProtoRemoteOceanic</strong></td><td> </td>
+<td>
+<i>&ast;wasi-wasi</i>
+</td>
+<td>
+'<span>Sterculia vitiensis</span>' (<span>from data in Wheatley 1992, Lynch 2004a</span>)</td>
 </tr>
 <tr>
 <td>NCV</td><td>Ambae</td><td><i>wah-wah</i></td>
@@ -4238,17 +4236,17 @@ The plant with the largest fronds (1.5m long) on New Ireland, Angiopteris evecta
 '<span>edible roots of certain plants ?</span>' (<span>POLLEX2</span>)</td>
 </tr>
 <tr>
+<td>Fij</td><td>Bauan</td><td><i>naði</i></td>
+<td>
+'<span>the greater roots of the yaqona plant</span>'</td>
+</tr>
+<tr>
 <td><strong>PPn</strong></td><td> </td>
 <td>
 <i>&ast;nas(e,i)</i>
 </td>
 <td>
 '<span>giant fern, Angiopteris evecta, with edible root</span>'</td>
-</tr>
-<tr>
-<td>Fij</td><td>Bauan</td><td><i>naði</i></td>
-<td>
-'<span>the greater roots of the yaqona plant</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Samoan</td><td><i>nase</i></td>
@@ -4434,6 +4432,11 @@ The tree designated by PSV _&ast;n-mobʷol_ was evidently also a large species, 
 </td>
 </tr>
 <tr>
+<td>NCV</td><td>Mota</td><td><i>maploa</i></td>
+<td>
+'<span>a tree, with smooth scented leaves and bark</span>'</td>
+</tr>
+<tr>
 <td><strong>PSV</strong></td><td> </td>
 <td>
 <i>&ast;n-mobʷol</i>
@@ -4441,11 +4444,6 @@ The tree designated by PSV _&ast;n-mobʷol_ was evidently also a large species, 
 <td>
 '<span>Garcinia sp.</span>' (<a href="../references.md#source-Lynch2004a">Lynch2004a</a>)
 </td>
-</tr>
-<tr>
-<td>NCV</td><td>Mota</td><td><i>maploa</i></td>
-<td>
-'<span>a tree, with smooth scented leaves and bark</span>'</td>
 </tr>
 <tr>
 <td>SV</td><td>Sye</td><td><i>mompol</i></td>
@@ -4478,14 +4476,6 @@ If the NW Solomonic items under 'cf. also', all glossed Cominsia gigantea (Maran
 </td>
 </tr>
 <tr>
-<td><strong>PPn</strong></td><td> </td>
-<td>
-<i>&ast;sinu</i>
-</td>
-<td>
-'<span>Phaleria sp.</span>'</td>
-</tr>
-<tr>
 <td>SES</td><td>Gela</td><td><i>sinu</i></td>
 <td>
 '<span>k.o. shore tree</span>'</td>
@@ -4504,6 +4494,14 @@ If the NW Solomonic items under 'cf. also', all glossed Cominsia gigantea (Maran
 <td>Fij</td><td>Rotuman</td><td><i>huni</i></td>
 <td>
 '<span>flowering bush, Phaleria disperma</span>' (<span>metathesis: Pn borrowing</span>)</td>
+</tr>
+<tr>
+<td><strong>PPn</strong></td><td> </td>
+<td>
+<i>&ast;sinu</i>
+</td>
+<td>
+'<span>Phaleria sp.</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>huni</i></td>
@@ -4555,13 +4553,6 @@ cf. also:
 </tr>
 <tr>
 <td>MM</td>
-<td>Marovo</td>
-<td><i>sinu</i></td>
-<td>
-'<span>Cominsia gigantea</span>'</td>
-</tr>
-<tr>
-<td>MM</td>
 <td>Nduke</td>
 <td><i>zinu</i></td>
 <td>
@@ -4571,6 +4562,13 @@ cf. also:
 <td>MM</td>
 <td>Roviana</td>
 <td><i>zinu</i></td>
+<td>
+'<span>Cominsia gigantea</span>'</td>
+</tr>
+<tr>
+<td>MM</td>
+<td>Marovo</td>
+<td><i>sinu</i></td>
 <td>
 '<span>Cominsia gigantea</span>'</td>
 </tr>
@@ -4607,23 +4605,6 @@ The presence of _-i-_ in Kwaio and Kwara'ae _kʷailasi_ and Lau _koilasi_ probab
 </td>
 <td>
 '<span>tree sp. with poisonous sap, Semecarpus forstenii</span>'</td>
-</tr>
-<tr>
-<td><strong>PSOc</strong></td><td> </td>
-<td>
-<i>&ast;walasi</i>
-</td>
-<td>
-'<span>Semecarpus vitiensis</span>'</td>
-</tr>
-<tr>
-<td><strong>PSV</strong></td><td> </td>
-<td>
-<i>&ast;na-ɣilas</i>
-</td>
-<td>
-'<span>Semecarpus vitiensis</span>' (<a href="../references.md#source-Lynch2001c">Lynch2001c</a>)
-</td>
 </tr>
 <tr>
 <td>Adm</td><td>Loniu</td><td><i>walas</i></td>
@@ -4686,6 +4667,14 @@ The presence of _-i-_ in Kwaio and Kwara'ae _kʷailasi_ and Lau _koilasi_ probab
 '<span>tree sp. with juice causing sores</span>'</td>
 </tr>
 <tr>
+<td><strong>PSOc</strong></td><td> </td>
+<td>
+<i>&ast;walasi</i>
+</td>
+<td>
+'<span>Semecarpus vitiensis</span>'</td>
+</tr>
+<tr>
 <td>NCV</td><td>Mwotlap</td><td><i>leh</i></td>
 <td>
 '<span>Semecarpus vitiensis</span>'</td>
@@ -4739,6 +4728,15 @@ The presence of _-i-_ in Kwaio and Kwara'ae _kʷailasi_ and Lau _koilasi_ probab
 <td>NCV</td><td>South Efate</td><td><i>n-las</i></td>
 <td>
 '<span>Semecarpus vitiensis</span>'</td>
+</tr>
+<tr>
+<td><strong>PSV</strong></td><td> </td>
+<td>
+<i>&ast;na-ɣilas</i>
+</td>
+<td>
+'<span>Semecarpus vitiensis</span>' (<a href="../references.md#source-Lynch2001c">Lynch2001c</a>)
+</td>
 </tr>
 <tr>
 <td>SV</td><td>Sye</td><td><i>no-ule</i></td>
@@ -5023,22 +5021,6 @@ Several forms below reflect PAn _&ast;lateŋ_ with a prefixed syllable: POc _&as
 </td>
 </tr>
 <tr>
-<td><strong>PWOc</strong></td><td> </td>
-<td>
-<i>&ast;[ja]latoŋ</i>
-</td>
-<td>
-'<span>nettle tree, Dendrocnide sp., perhaps D. warburgii</span>'</td>
-</tr>
-<tr>
-<td><strong>PEOc</strong></td><td> </td>
-<td>
-<i>&ast;[ja]lato</i>
-</td>
-<td>
-'<span>nettle tree, Dendrocnide sp.</span>'</td>
-</tr>
-<tr>
 <td>Adm</td><td>Lou</td><td><i>lalat</i></td>
 <td>
 '<span>Laportea and Dendrocnide spp.</span>' (<a href="../references.md#source-Blust1996b">Blust1996b</a>)
@@ -5093,6 +5075,14 @@ Several forms below reflect PAn _&ast;lateŋ_ with a prefixed syllable: POc _&as
 </td>
 </tr>
 <tr>
+<td><strong>PWOc</strong></td><td> </td>
+<td>
+<i>&ast;[ja]latoŋ</i>
+</td>
+<td>
+'<span>nettle tree, Dendrocnide sp., perhaps D. warburgii</span>'</td>
+</tr>
+<tr>
 <td>NNG</td><td>Kove</td><td><i>lato</i></td>
 <td>
 '<span>Dendrocnide excelsa</span>' (<a href="../references.md#source-Chowning2001">Chowning2001: 83</a>)
@@ -5127,6 +5117,14 @@ Several forms below reflect PAn _&ast;lateŋ_ with a prefixed syllable: POc _&as
 <td>MM</td><td>Roviana</td><td><i>jilatoŋo</i></td>
 <td>
 '<span>k.o. nettle</span>'</td>
+</tr>
+<tr>
+<td><strong>PEOc</strong></td><td> </td>
+<td>
+<i>&ast;[ja]lato</i>
+</td>
+<td>
+'<span>nettle tree, Dendrocnide sp.</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Gela</td><td><i>(haŋa)lato</i></td>
@@ -5680,7 +5678,7 @@ A number of Oceanic terms translate as 'ghost ear'. Blust suggests that this ref
 <td>Bauan</td>
 <td><i>daliŋa ni kalou</i></td>
 <td>
-'<span>fungus (lit: ear of spirit)</span>'; '<span>mushroom</span>' (<span>lit. ‘god__s ear’</span>); </td>
+</td>
 </tr>
 <tr>
 <td>Pn</td>

@@ -12355,11 +12355,10 @@ POc *pʷasepe 'Dioscorea alata variety(?)'
 cf. also:
   PT: Molima         atea             'greater yam'
   PT: Dobu           kʷatea           'yam'
-  PT: Duau           kʷatea           'yam'
+  PT: Duau           kʷatea           'yam'; 'lesser yam'
   PT: 'Auhelawa      ateya            'yam'
   PT: Suau (Saliba)  kʷatea           'greater yam, Dioscorea alata; yam (generic)'
   PT: Tubetube       kʷatea           'greater yam'
-  PT: Duau           kʷatea           'lesser yam'
 >
 
 9.2.1.3 Dioscorea bulbifera, potato yam, aerial yam, air potato (Dioscoreaceae)

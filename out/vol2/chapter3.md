@@ -1,6 +1,4 @@
-# The Landscape
-
-by Meredith Osmond and Andrew Pawley and Malcolm Ross
+[Meredith Osmond and Andrew Pawley and Malcolm Ross](.smallcaps)
 
 
 <a id="s-1"></a>
@@ -186,7 +184,7 @@ Reflexes of both POc _&ast;panua_ (vol. 1, p.62) and _&ast;tanoq_[^2] are widely
 <tr>
 <td>NCal</td><td>Nemi</td><td><i>bʷan(guc)</i></td>
 <td>
-'<span>soil</span>' (<span>guc ‘earth’</span>)</td>
+'<span>soil</span>' (<span><em>guc</em> ‘earth’</span>)</td>
 </tr>
 <tr>
 <td>Mic</td><td>Woleaian</td><td><i>farɨw</i></td>
@@ -225,21 +223,14 @@ Reflexes of both POc _&ast;panua_ (vol. 1, p.62) and _&ast;tanoq_[^2] are widely
 </tr>
 </table>
 
-cf. also: Examples of phrasal expressions containing reflexes of *panua
+cf. also: Examples of phrasal expressions containing reflexes of _&ast;panua_
 <table>
 <tr>
-<td>Pn</td>
-<td>Anutan</td>
-<td><i>puŋa penua</i></td>
+<td>PT</td>
+<td>Kilivila</td>
+<td><i>vilouwokuva valu</i></td>
 <td>
-'<span>summit; highest point of an island</span>'</td>
-</tr>
-<tr>
-<td>Fij</td>
-<td>Bauan</td>
-<td><i>vanua liwa</i></td>
-<td>
-'<span>land far away from settlements</span>'</td>
+'<span>uninhabited land</span>'</td>
 </tr>
 <tr>
 <td>PT</td>
@@ -247,13 +238,6 @@ cf. also: Examples of phrasal expressions containing reflexes of *panua
 <td><i>kabinai valu</i></td>
 <td>
 '<span>good garden land</span>'</td>
-</tr>
-<tr>
-<td>PT</td>
-<td>Kilivila</td>
-<td><i>vilouwokuva valu</i></td>
-<td>
-'<span>uninhabited land</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
@@ -270,35 +254,56 @@ cf. also: Examples of phrasal expressions containing reflexes of *panua
 '<span>hill country</span>'</td>
 </tr>
 <tr>
-<td>Pn</td>
-<td>Tongan</td>
-<td><i>fonua lahi</i></td>
-<td>
-'<span>mainland</span>'</td>
-</tr>
-<tr>
 <td>Fij</td>
 <td>Wayan</td>
 <td><i>udu ni vanua</i></td>
 <td>
 '<span>headland</span>'</td>
 </tr>
+<tr>
+<td>Fij</td>
+<td>Bauan</td>
+<td><i>vanua liwa</i></td>
+<td>
+'<span>land far away from settlements</span>'</td>
+</tr>
+<tr>
+<td>Pn</td>
+<td>Anutan</td>
+<td><i>puŋa penua</i></td>
+<td>
+'<span>summit; highest point of an island</span>'</td>
+</tr>
+<tr>
+<td>Pn</td>
+<td>Tongan</td>
+<td><i>fonua lahi</i></td>
+<td>
+'<span>mainland</span>'</td>
+</tr>
 </table>
 cf. also: Other examples refer to more planetary aspects, such as the day/night cycle and weather
 <table>
 <tr>
-<td>Fij</td>
-<td>Bauan</td>
-<td><i>boŋi na vanua</i></td>
+<td>NNG</td>
+<td>Manam</td>
+<td><i>anua izara</i></td>
 <td>
-'<span>become night</span>' (<span>lit. ‘land is nighted’</span>)</td>
+'<span>dawn</span>'</td>
 </tr>
 <tr>
-<td>Fij</td>
-<td>Bauan</td>
-<td><i>siŋa na vanua</i></td>
+<td>NNG</td>
+<td>Manam</td>
+<td><i>anua idaradara</i></td>
 <td>
-'<span>become daylight</span>' (<span>lit. ‘land is sunned’</span>)</td>
+'<span>evening glow</span>'</td>
+</tr>
+<tr>
+<td>PT</td>
+<td>Motu</td>
+<td><i>hanua boi</i></td>
+<td>
+'<span>night</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
@@ -315,25 +320,18 @@ cf. also: Other examples refer to more planetary aspects, such as the day/night 
 '<span>sunny weather</span>'</td>
 </tr>
 <tr>
-<td>NNG</td>
-<td>Manam</td>
-<td><i>anua idaradara</i></td>
+<td>Fij</td>
+<td>Bauan</td>
+<td><i>boŋi na vanua</i></td>
 <td>
-'<span>evening glow</span>'</td>
+'<span>become night</span>' (<span>lit. ‘land is nighted’</span>)</td>
 </tr>
 <tr>
-<td>NNG</td>
-<td>Manam</td>
-<td><i>anua izara</i></td>
+<td>Fij</td>
+<td>Bauan</td>
+<td><i>siŋa na vanua</i></td>
 <td>
-'<span>dawn</span>' (<span><em>anua idaradara</em> 'evening glow'</span>)</td>
-</tr>
-<tr>
-<td>PT</td>
-<td>Motu</td>
-<td><i>hanua boi</i></td>
-<td>
-'<span>night</span>'</td>
+'<span>become daylight</span>' (<span>lit. ‘land is sunned’</span>)</td>
 </tr>
 <tr>
 <td>Pn</td>
@@ -357,7 +355,8 @@ POc _&ast;tanoq_ ‘earth, ground, soil; land’ has already been reconstructed 
 <i>&ast;taneq</i>
 </td>
 <td>
-'<span>earth, land</span>'</td>
+'<span>earth, land</span>' (<a href="../references.md#source-Dempwolff1938">Dempwolff1938</a>)
+</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
@@ -454,21 +453,14 @@ POc _&ast;tanoq_ ‘earth, ground, soil; land’ has already been reconstructed 
 </tr>
 </table>
 
-cf. also: Certain conventional phrases, such as the following, indicate the semantic range of reflexes of *tanoq
+cf. also: Certain conventional phrases, such as the following, indicate the semantic range of reflexes of _&ast;tanoq_
 <table>
 <tr>
-<td>SES</td>
-<td>Arosi</td>
-<td><i>ano mamata</i></td>
+<td>NNG</td>
+<td>Gedaged</td>
+<td><i>tan wululu </i></td>
 <td>
-'<span>land as opposed to sea</span>' (<span>lit. ‘dry land’</span>)</td>
-</tr>
-<tr>
-<td>SES</td>
-<td>Arosi</td>
-<td><i>ano sada</i></td>
-<td>
-'<span>flat country</span>'</td>
+'<span>fine soil</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
@@ -476,13 +468,6 @@ cf. also: Certain conventional phrases, such as the following, indicate the sema
 <td><i>tan fufulek</i></td>
 <td>
 '<span>planet earth</span>'</td>
-</tr>
-<tr>
-<td>NNG</td>
-<td>Gedaged</td>
-<td><i>tan wululu </i></td>
-<td>
-'<span>fine soil</span>'</td>
 </tr>
 <tr>
 <td>PT</td>
@@ -504,6 +489,20 @@ cf. also: Certain conventional phrases, such as the following, indicate the sema
 <td><i>ano hū</i></td>
 <td>
 '<span>land as opposed to sea</span>'</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>Arosi</td>
+<td><i>ano sada</i></td>
+<td>
+'<span>flat country</span>'</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>Arosi</td>
+<td><i>ano mamata</i></td>
+<td>
+'<span>land as opposed to sea</span>' (<span>lit. ‘dry land’</span>)</td>
 </tr>
 </table>
 
@@ -632,7 +631,7 @@ The primary role of _&ast;motus_ in POc appears to have been as a stative verb, 
 <i>&ast;motus</i>
 </td>
 <td>
-(N) '<span>island, detached reef; (V) become, be broken off, severed</span>' (<span>vol. 1, p.247</span>)</td>
+[N] '<span>island, detached reef</span>'; '<span>(V) become, be broken off, severed</span>' (<span>vol. 1, p.247</span>)</td>
 </tr>
 <tr>
 <td>NNG</td><td>Bing</td><td><i>mōt</i></td>
@@ -667,7 +666,7 @@ The primary role of _&ast;motus_ in POc appears to have been as a stative verb, 
 <tr>
 <td>SES</td><td>Sa'a</td><td><i>mou</i></td>
 <td>
-(VI) '<span>be broken off</span>'</td>
+'<span>be broken off</span>' (<span><em>malau mou</em> ‘an islet’, <em>hau mou</em> ‘an isolated rock’</span>)</td>
 </tr>
 <tr>
 <td>NCV</td><td>Mota</td><td><i>(vanua)mʷot</i></td>
@@ -785,7 +784,7 @@ Although the next reconstructed form is traceable back to PMP as a verb, its use
 <i>&ast;qatuR</i>
 </td>
 <td>
-(V) '<span>pave with stones; pile or stack up, arrange, order, put in sequence</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+[V] '<span>pave with stones; pile or stack up, arrange, order, put in sequence</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -794,7 +793,12 @@ Although the next reconstructed form is traceable back to PMP as a verb, its use
 <i>&ast;qatu(R)</i>
 </td>
 <td>
-(N) '<span>number of things in a line, row</span>'</td>
+[N] '<span>number of things in a line, row</span>'</td>
+</tr>
+<tr>
+<td>SV</td><td>Anejom</td><td><i>n-at(hat)</i></td>
+<td>
+'<span>line of stones</span>' (<span>inhat ‘stone’</span>)</td>
 </tr>
 <tr>
 <td><strong>PCP</strong></td><td> </td>
@@ -803,11 +807,6 @@ Although the next reconstructed form is traceable back to PMP as a verb, its use
 </td>
 <td>
 '<span>number of things in a line, row, as a chain of islands</span>'</td>
-</tr>
-<tr>
-<td>SV</td><td>Anejom</td><td><i>n-at(hat)</i></td>
-<td>
-'<span>line of stones</span>' (<span>inhat ‘stone’</span>)</td>
 </tr>
 <tr>
 <td>Fij</td><td>Rotuman</td><td><i>afu</i></td>
@@ -842,7 +841,7 @@ Although the next reconstructed form is traceable back to PMP as a verb, its use
 <tr>
 <td>Pn</td><td>Rennellese</td><td><i>ʔatu</i></td>
 <td>
-(N) '<span>generation; row, column, group, as of islands, stones, posts, people</span>'; (V) '<span>be of the same generation</span>'</td>
+[N] '<span>generation; row, column, group, as of islands, stones, posts, people</span>'; [V] '<span>be of the same generation</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Samoan</td><td><i>atu</i></td>
@@ -956,8 +955,8 @@ cf. also: the following Huon Gulf terms:
 </tr>
 <tr>
 <td>NNG</td>
-<td>Hote (Misim)</td>
-<td><i>ɣek</i></td>
+<td>Yabem</td>
+<td><i>gʷeʔ</i></td>
 <td>
 '<span>sea</span>'</td>
 </tr>
@@ -970,7 +969,7 @@ cf. also: the following Huon Gulf terms:
 </tr>
 <tr>
 <td>NNG</td>
-<td>Patep</td>
+<td>Hote (Misim)</td>
 <td><i>ɣek</i></td>
 <td>
 '<span>sea</span>'</td>
@@ -984,8 +983,8 @@ cf. also: the following Huon Gulf terms:
 </tr>
 <tr>
 <td>NNG</td>
-<td>Yabem</td>
-<td><i>gʷeʔ</i></td>
+<td>Patep</td>
+<td><i>ɣek</i></td>
 <td>
 '<span>sea</span>'</td>
 </tr>
@@ -1221,14 +1220,6 @@ The gloss of our next reconstruction, POc _&ast;tobʷa_ is soundly based for PEO
 '<span>bay, harbour; belly, stomach</span>'</td>
 </tr>
 <tr>
-<td><strong>PEOc</strong></td><td> </td>
-<td>
-<i>&ast;tobʷa</i>
-</td>
-<td>
-'<span>bay</span>'</td>
-</tr>
-<tr>
 <td>Adm</td><td>Tench</td><td><i>tova</i></td>
 <td>
 '<span>belly</span>'</td>
@@ -1242,6 +1233,14 @@ The gloss of our next reconstruction, POc _&ast;tobʷa_ is soundly based for PEO
 <td>MM</td><td>Roviana</td><td><i>toba</i></td>
 <td>
 '<span>name of barrier island</span>'</td>
+</tr>
+<tr>
+<td><strong>PEOc</strong></td><td> </td>
+<td>
+<i>&ast;tobʷa</i>
+</td>
+<td>
+'<span>bay</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Tolo</td><td><i>tobana</i></td>
@@ -1287,17 +1286,9 @@ The next set has specific reference to ‘bay’ only in Polynesia. As a POc ter
 '<span>be open, gape</span>'</td>
 </tr>
 <tr>
-<td><strong>PPn</strong></td><td> </td>
-<td>
-<i>&ast;faŋa</i>
-</td>
-<td>
-'<span>bay</span>'</td>
-</tr>
-<tr>
 <td>PT</td><td>Motu</td><td><i>haga</i></td>
 <td>
-(ADJ) '<span>open</span>'</td>
+[ADJ] '<span>open</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Tolai</td><td><i>paŋaŋa</i></td>
@@ -1318,6 +1309,14 @@ The next set has specific reference to ‘bay’ only in Polynesia. As a POc ter
 <td>NCV</td><td>Mota</td><td><i>waŋa</i></td>
 <td>
 '<span>gape</span>'</td>
+</tr>
+<tr>
+<td><strong>PPn</strong></td><td> </td>
+<td>
+<i>&ast;faŋa</i>
+</td>
+<td>
+'<span>bay</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>faŋa</i></td>
@@ -1466,22 +1465,6 @@ The suffixed _-a_ of PPn _&ast;utu-a_ below reflects the POc locative nominalisi
 '<span>nose; cape</span>'</td>
 </tr>
 <tr>
-<td><strong>PCP</strong></td><td> </td>
-<td>
-<i>&ast;uju</i>
-</td>
-<td>
-(V) '<span>project</span>'</td>
-</tr>
-<tr>
-<td><strong>PPn</strong></td><td> </td>
-<td>
-<i>&ast;utu-a</i>
-</td>
-<td>
-'<span>projecting land</span>'</td>
-</tr>
-<tr>
 <td>NNG</td><td>Bing</td><td><i>uyu</i></td>
 <td>
 '<span>headland, point, nose</span>'</td>
@@ -1515,6 +1498,22 @@ The suffixed _-a_ of PPn _&ast;utu-a_ below reflects the POc locative nominalisi
 <td>Pn</td><td>Rapanui</td><td><i>ihu</i></td>
 <td>
 '<span>nose; headland, point</span>'</td>
+</tr>
+<tr>
+<td><strong>PCP</strong></td><td> </td>
+<td>
+<i>&ast;uju</i>
+</td>
+<td>
+[V] '<span>project</span>'</td>
+</tr>
+<tr>
+<td><strong>PPn</strong></td><td> </td>
+<td>
+<i>&ast;utu-a</i>
+</td>
+<td>
+'<span>projecting land</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>udu</i></td>
@@ -1660,7 +1659,7 @@ Reflexes of the next item, POc _&ast;ŋoro-ŋorok_ with the gloss ‘cape’ are
 </td>
 </tr>
 <tr>
-<td>MM</td><td>Halia</td><td><i>ŋor-ŋoro</i></td>
+<td>MM</td><td>Selau</td><td><i>ŋor-ŋoro</i></td>
 <td>
 </td>
 </tr>
@@ -1700,15 +1699,6 @@ The final reconstruction, PEOc _&ast;mata_ ‘point of land, headland’ is evid
 '<span>point of land, headland</span>'</td>
 </tr>
 <tr>
-<td><strong>PPn</strong></td><td> </td>
-<td>
-<i>&ast;mata</i>
-</td>
-<td>
-'<span>point of land, headland; point, blade, cutting-edge (of a weapon or instrument)</span>' (<a href="../references.md#source-BiggsandClark1993">BiggsandClark1993</a>)
-</td>
-</tr>
-<tr>
 <td>NCal</td><td>Nyelâyu</td><td><i>mā(lã pʰwēmʷa)</i></td>
 <td>
 '<span>point of the mainland (= south)</span>'</td>
@@ -1717,6 +1707,15 @@ The final reconstruction, PEOc _&ast;mata_ ‘point of land, headland’ is evid
 <td>NCal</td><td>Nêlêmwâ</td><td><i>mā(wamʷa)</i></td>
 <td>
 '<span>point of the mainland (= south)</span>'</td>
+</tr>
+<tr>
+<td><strong>PPn</strong></td><td> </td>
+<td>
+<i>&ast;mata</i>
+</td>
+<td>
+'<span>point of land, headland; point, blade, cutting-edge (of a weapon or instrument)</span>' (<a href="../references.md#source-BiggsandClark1993">BiggsandClark1993</a>)
+</td>
 </tr>
 <tr>
 <td>Pn</td><td>Niuean</td><td><i>mata</i></td>
@@ -1935,14 +1934,6 @@ Even quite small islands can be dominated by high peaks. While a number of peaks
 '<span>mountain</span>'</td>
 </tr>
 <tr>
-<td><strong>PPn</strong></td><td> </td>
-<td>
-<i>&ast;fuŋa</i>
-</td>
-<td>
-'<span>upper surface</span>'</td>
-</tr>
-<tr>
 <td>MM</td><td>Sursurunga</td><td><i>puŋ-puŋ</i></td>
 <td>
 '<span>mountain</span>'</td>
@@ -1956,6 +1947,14 @@ Even quite small islands can be dominated by high peaks. While a number of peaks
 <td>SES</td><td>Arosi</td><td><i>huŋa-huŋa</i></td>
 <td>
 '<span>hill, mountain</span>'</td>
+</tr>
+<tr>
+<td><strong>PPn</strong></td><td> </td>
+<td>
+<i>&ast;fuŋa</i>
+</td>
+<td>
+'<span>upper surface</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Niuean</td><td><i>fuŋa</i></td>
@@ -1986,7 +1985,7 @@ Even quite small islands can be dominated by high peaks. While a number of peaks
 <i>&ast;buku</i>
 </td>
 <td>
-'<span>node (as in bamboo or sugarcane); joint; knuckle; knot in wood, string or rope</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+'<span>node (as in bamboo or sugarcane); joint; knuckle; knot in wood, string or rope</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>; <a href="../references.md#source-Dempwolff1938">Dempwolff1938</a>)
 </td>
 </tr>
 <tr>
@@ -2030,7 +2029,7 @@ Even quite small islands can be dominated by high peaks. While a number of peaks
 <tr>
 <td>MM</td><td>Nakanai</td><td><i>buku</i></td>
 <td>
-(V) '<span>swell</span>'</td>
+[V] '<span>swell</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Nakanai</td><td><i>bu-buku</i></td>
@@ -2444,17 +2443,17 @@ We have one POc reconstruction for ‘cliff’. Two further reconstructions are 
 '<span>coastal cliff</span>'</td>
 </tr>
 <tr>
+<td>Fij</td><td>Bauan</td><td><i>bari (ni vatu)</i></td>
+<td>
+'<span>(rock) cliff, precipice</span>'</td>
+</tr>
+<tr>
 <td><strong>PPn</strong></td><td> </td>
 <td>
 <i>&ast;pali</i>
 </td>
 <td>
 '<span>cliff</span>'</td>
-</tr>
-<tr>
-<td>Fij</td><td>Bauan</td><td><i>bari (ni vatu)</i></td>
-<td>
-'<span>(rock) cliff, precipice</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Rarotongan</td><td><i>pari</i></td>
@@ -2611,22 +2610,6 @@ Almost every language for which we have extensive lexical data has a term meanin
 '<span>flat land</span>'</td>
 </tr>
 <tr>
-<td><strong>PPn</strong></td><td> </td>
-<td>
-<i>&ast;rau</i>
-</td>
-<td>
-'<span>flat land</span>'</td>
-</tr>
-<tr>
-<td><strong>PPn</strong></td><td> </td>
-<td>
-<i>&ast;rau-lalo</i>
-</td>
-<td>
-'<span>lowland</span>'</td>
-</tr>
-<tr>
 <td>PT</td><td>Bwaidoga</td><td><i>(awa)lau</i></td>
 <td>
 '<span>flat area; plain (where the airstrip is); (any) flat area in the mountains as well as on the coast</span>'</td>
@@ -2645,6 +2628,22 @@ Almost every language for which we have extensive lexical data has a term meanin
 <td>PT</td><td>Bwaidoga</td><td><i>lau(beùya)</i></td>
 <td>
 '<span>(on the) plain (of flat coastal strip)</span>'</td>
+</tr>
+<tr>
+<td><strong>PPn</strong></td><td> </td>
+<td>
+<i>&ast;rau</i>
+</td>
+<td>
+'<span>flat land</span>'</td>
+</tr>
+<tr>
+<td><strong>PPn</strong></td><td> </td>
+<td>
+<i>&ast;rau-lalo</i>
+</td>
+<td>
+'<span>lowland</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>āu lalo</i></td>
@@ -2715,7 +2714,7 @@ The three following cognate sets are repeated from vol. 1, pp.118–119.
 <i>&ast;qutan</i>
 </td>
 <td>
-'<span>bushland, hinterland</span>'</td>
+'<span>bushland, hinterland</span>' (<span>vol. 1, p.118</span>)</td>
 </tr>
 <tr>
 <td>Adm</td><td>Mussau</td><td><i>utana</i></td>
@@ -2725,7 +2724,7 @@ The three following cognate sets are repeated from vol. 1, pp.118–119.
 <tr>
 <td>NNG</td><td>Manam</td><td><i>(a)uta</i></td>
 <td>
-'<span>inland</span>'</td>
+'<span>inland</span>' (<span>&lt; POc <em>*qa-qutan</em></span>)</td>
 </tr>
 <tr>
 <td>PT</td><td>Motu</td><td><i>uda</i></td>
@@ -2828,12 +2827,12 @@ The Mussau and Tolo reflexes mean ‘garden’: this change of meaning is probab
 <tr>
 <td>SES</td><td>Gela</td><td><i>ao</i></td>
 <td>
-'<span>forest, land never brought under cultivation</span>'; (V) '<span>be overgrown, become forest</span>'</td>
+[N] '<span>forest, land never brought under cultivation</span>'; [V] '<span>be overgrown, become forest</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Rotuman</td><td><i>vao</i></td>
 <td>
-'<span>forest, large number of trees or big plants growing together</span>'</td>
+'<span>forest, large number of trees or big plants growing together</span>' (<span>poss. Pn loan</span>)</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>vao</i></td>
@@ -2843,7 +2842,7 @@ The Mussau and Tolo reflexes mean ‘garden’: this change of meaning is probab
 <tr>
 <td>Pn</td><td>Samoan</td><td><i>vao</i></td>
 <td>
-(N) '<span>bush, forest; weeds; tall grass</span>'; (ADJ) '<span>of the forest, wild</span>'</td>
+[N] '<span>bush, forest; weeds; tall grass</span>'; [ADJ] '<span>of the forest, wild</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tahitian</td><td><i>vao</i></td>
@@ -2870,7 +2869,7 @@ The next POc reconstruction contrasts with _&ast;quma_ ‘garden, cultivated lan
 <i>&ast;talun</i>
 </td>
 <td>
-'<span>fallow land</span>' (<a href="../references.md#source-Blust1972b">Blust1972b</a>)
+'<span>fallow land</span>' (<a href="../references.md#source-Dempwolff1938">Dempwolff1938</a>)
 </td>
 </tr>
 <tr>
@@ -2880,14 +2879,6 @@ The next POc reconstruction contrasts with _&ast;quma_ ‘garden, cultivated lan
 </td>
 <td>
 '<span>old garden, fallow land, land returning to secondary growth</span>' (<span>vol. 1, p.118</span>)</td>
-</tr>
-<tr>
-<td><strong>PPn</strong></td><td> </td>
-<td>
-<i>&ast;talu-talu</i>
-</td>
-<td>
-'<span>weeds, fallow</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Gela</td><td><i>talu</i></td>
@@ -2918,6 +2909,14 @@ The next POc reconstruction contrasts with _&ast;quma_ ‘garden, cultivated lan
 <td>SES</td><td>Arosi</td><td><i>aru</i></td>
 <td>
 '<span>an overgrown garden; land formerly used for a garden; a dug garden</span>'</td>
+</tr>
+<tr>
+<td><strong>PPn</strong></td><td> </td>
+<td>
+<i>&ast;talu-talu</i>
+</td>
+<td>
+'<span>weeds, fallow</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Niuean</td><td><i>talu-talu</i></td>
@@ -3363,7 +3362,7 @@ The final two reconstructed forms in this section probably referred to wet taro 
 <tr>
 <td>Pn</td><td>Māori</td><td><i>hūhi</i></td>
 <td>
-(N) '<span>swamp</span>'</td>
+[N] '<span>swamp</span>'</td>
 </tr>
 </table>
 
@@ -3625,7 +3624,7 @@ The form _&ast;dranum_ below is reflected by most witnesses, but some languages 
 <tr>
 <td>SES</td><td>Bugotu</td><td><i>lanu</i></td>
 <td>
-(V) '<span>bale</span>'; '<span>a baler</span>'</td>
+[V] '<span>bale</span>'; '<span>a baler</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Arosi</td><td><i>danu</i></td>
@@ -3660,12 +3659,12 @@ The form _&ast;dranum_ below is reflected by most witnesses, but some languages 
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>dranu</i></td>
 <td>
-(V) '<span>be fresh, of water</span>' (<span>wai dranu ‘fresh water’</span>)</td>
+[V] '<span>be fresh, of water</span>' (<span>wai dranu ‘fresh water’</span>)</td>
 </tr>
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>dranu</i></td>
 <td>
-(ADJ) '<span>fresh, pure, of water</span>'</td>
+[ADJ] '<span>fresh, pure, of water</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Niuean</td><td><i>lanu</i></td>
@@ -3720,7 +3719,7 @@ We have one lower-level reconstruction for a river branch.
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>maŋa</i></td>
 <td>
-(V) '<span>fork, branch out, divide</span>'; (N) '<span>branch, fork</span>'</td>
+[V] '<span>fork, branch out, divide</span>'; [N] '<span>branch, fork</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Māori</td><td><i>maŋa</i></td>
@@ -3829,12 +3828,12 @@ For coastal dwellers, fresh water is often obtained from springs. PAn _&ast;Cebu
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>tuvu</i></td>
 <td>
-(N) '<span>spring of fresh water on the beach</span>'</td>
+[N] '<span>spring of fresh water on the beach</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>tuvu-ca</i></td>
 <td>
-(V) '<span>add fresh water to s.t.</span>'</td>
+[V] '<span>add fresh water to s.t.</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>tufu</i></td>
@@ -3894,7 +3893,7 @@ Polynesian languages have a well-attested term for ‘spring’ which continues 
 <i>&ast;puna</i>
 </td>
 <td>
-(N) '<span>a spring</span>'; (V) '<span>bubble or well up (of water)</span>'</td>
+[N] '<span>a spring</span>'; [V] '<span>bubble or well up (of water)</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Niuean</td><td><i>puna</i></td>
@@ -3983,7 +3982,7 @@ The next reconstruction, in its simple form _&ast;pura(q)_, was primarily a verb
 <i>&ast;pura(q), pura-pura(q)</i>
 </td>
 <td>
-(V) '<span>bubble up, as spring of water</span>'; (N) '<span>spring; foam, bubbles, bubble up</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+[V] '<span>bubble up, as spring of water</span>'; [N] '<span>spring; foam, bubbles, bubble up</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -4004,7 +4003,7 @@ The next reconstruction, in its simple form _&ast;pura(q)_, was primarily a verb
 <tr>
 <td>SES</td><td>Gela</td><td><i>vuraɣa ni beti</i></td>
 <td>
-(N) '<span>spring</span>' (<span><em>beti</em> ‘water’</span>)</td>
+[N] '<span>spring</span>' (<span><em>beti</em> ‘water’</span>)</td>
 </tr>
 <tr>
 <td>SES</td><td>Tolo</td><td><i>vura-vura(na)</i></td>
@@ -4054,7 +4053,7 @@ The next reconstruction, in its simple form _&ast;pura(q)_, was primarily a verb
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>vure</i></td>
 <td>
-(V) '<span>spring up, well up</span>'; (N) '<span>spring</span>'; '<span>source of things</span>'</td>
+[V] '<span>spring up, well up</span>'; [N] '<span>spring</span>'; '<span>source of things</span>'</td>
 </tr>
 </table>
 
@@ -4170,7 +4169,7 @@ The following reconstruction, POc _&ast;sa[p,b]u(q)_, is used both as a verb ‘
 <i>&ast;sa[p,b]u(q)</i>
 </td>
 <td>
-(N) '<span>waterfall</span>'; (V) '<span>(water) fall</span>'</td>
+[N] '<span>waterfall</span>'; [V] '<span>(water) fall</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Buang</td><td><i>(bel) rabu</i></td>
@@ -4195,7 +4194,7 @@ The following reconstruction, POc _&ast;sa[p,b]u(q)_, is used both as a verb ‘
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>savu</i></td>
 <td>
-(V) '<span>(liquid) flow or run down, fall like a waterfall</span>'; (N) '<span>waterfall</span>'</td>
+[V] '<span>(liquid) flow or run down, fall like a waterfall</span>'; [N] '<span>waterfall</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>hafu</i></td>
@@ -4243,7 +4242,7 @@ POc _&ast;tape_ has been reconstructed in Chapter 4 as both a noun and verb mean
 <tr>
 <td>MM</td><td>Tolai</td><td><i>tavit</i></td>
 <td>
-(VI) '<span>to run, of water</span>' (<span><em>tava</em> ‘water’</span>)</td>
+[VI] '<span>to run, of water</span>' (<span><em>tava</em> ‘water’</span>)</td>
 </tr>
 </table>
 
@@ -5558,7 +5557,7 @@ POc _&ast;maqasin_ seems to have been both a stative verb meaning ‘be salty’
 <i>&ast;maqasin</i>
 </td>
 <td>
-(V) '<span>be salty</span>'; (N) '<span>salt</span>'</td>
+[V] '<span>be salty</span>'; [N] '<span>salt</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Mussau</td><td><i>masini</i></td>
@@ -5830,15 +5829,7 @@ Blust (ACD) reconstructs PMP _&ast;luten_ ‘firewood’ based on WMP: LongWat _
 <i>&ast;alito(n)</i>
 </td>
 <td>
-(N) '<span>firebrand; piece of burning wood</span>'</td>
-</tr>
-<tr>
-<td><strong>PEOc</strong></td><td> </td>
-<td>
-<i>&ast;lito</i>
-</td>
-<td>
-'<span>(?) firebrand</span>'</td>
+[N] '<span>firebrand; piece of burning wood</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Takia</td><td><i>yalit</i></td>
@@ -5854,6 +5845,14 @@ Blust (ACD) reconstructs PMP _&ast;luten_ ‘firewood’ based on WMP: LongWat _
 <td>NNG</td><td>Swit</td><td><i>alit</i></td>
 <td>
 '<span>piece of charred wood</span>'</td>
+</tr>
+<tr>
+<td><strong>PEOc</strong></td><td> </td>
+<td>
+<i>&ast;lito</i>
+</td>
+<td>
+'<span>(?) firebrand</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Mota</td><td><i>lito</i></td>
@@ -5901,17 +5900,17 @@ cf. also:
 <table>
 <tr>
 <td>NNG</td>
-<td>Dami</td>
-<td><i>galit</i></td>
-<td>
-'<span>embers</span>'</td>
-</tr>
-<tr>
-<td>NNG</td>
 <td>Tami</td>
 <td><i>kalit</i></td>
 <td>
 '<span>ashes</span>' (<span>indicating earlier <em>*(q,k)alitV</em></span>)</td>
+</tr>
+<tr>
+<td>NNG</td>
+<td>Dami</td>
+<td><i>galit</i></td>
+<td>
+'<span>embers</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
@@ -5935,7 +5934,7 @@ It appears that most Oceanic languages use a single term to refer to both ‘hot
 <i>&ast;koran</i>
 </td>
 <td>
-(N) '<span>(?) embers, glowing coals</span>'; (V) '<span>(?) burn brightly</span>'</td>
+[N] '<span>(?) embers, glowing coals</span>'; [V] '<span>(?) burn brightly</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Tinputz</td><td><i>oran</i></td>
@@ -5980,7 +5979,7 @@ It appears that most Oceanic languages use a single term to refer to both ‘hot
 <tr>
 <td>Pn</td><td>Māori</td><td><i>kora</i></td>
 <td>
-(N) '<span>spark; fire, fuel</span>'; (V) '<span>gleam</span>'</td>
+[N] '<span>spark; fire, fuel</span>'; [V] '<span>gleam</span>'</td>
 </tr>
 </table>
 
@@ -6143,15 +6142,22 @@ cf. also:
 <table>
 <tr>
 <td>MM</td>
-<td>Babatana</td>
-<td><i>ŋgala</i></td>
+<td>Bareke</td>
+<td><i>ŋgalala</i></td>
 <td>
 '<span>flame</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
-<td>Bareke</td>
+<td>Vangunu</td>
 <td><i>ŋgalala</i></td>
+<td>
+'<span>flame</span>'</td>
+</tr>
+<tr>
+<td>MM</td>
+<td>Babatana</td>
+<td><i>ŋgala</i></td>
 <td>
 '<span>flame</span>'</td>
 </tr>
@@ -6161,13 +6167,6 @@ cf. also:
 <td><i>mahala</i></td>
 <td>
 '<span>cinders, charcoal</span>'</td>
-</tr>
-<tr>
-<td>MM</td>
-<td>Vangunu</td>
-<td><i>ŋgalala</i></td>
-<td>
-'<span>flame</span>'</td>
 </tr>
 </table>
 
@@ -6184,8 +6183,7 @@ POc used at least two terms to denote ashes. These had distinct but overlapping 
 <i>&ast;dapuR</i>
 </td>
 <td>
-'<span>hearth, fireplace</span>' (<a href="../references.md#source-Dempwolff1938">Dempwolff1938</a>)
-</td>
+'<span>hearth, fireplace</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
@@ -6199,14 +6197,6 @@ POc used at least two terms to denote ashes. These had distinct but overlapping 
 <td><strong>POc</strong></td><td> </td>
 <td>
 <i>&ast;rapu-rapu(R)</i>
-</td>
-<td>
-'<span>ashes</span>'</td>
-</tr>
-<tr>
-<td><strong>PPn</strong></td><td> </td>
-<td>
-<i>&ast;refu, refurefu</i>
 </td>
 <td>
 '<span>ashes</span>'</td>
@@ -6248,6 +6238,14 @@ POc used at least two terms to denote ashes. These had distinct but overlapping 
 </tr>
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>ravu</i></td>
+<td>
+'<span>ashes</span>'</td>
+</tr>
+<tr>
+<td><strong>PPn</strong></td><td> </td>
+<td>
+<i>&ast;refu, refurefu</i>
+</td>
 <td>
 '<span>ashes</span>'</td>
 </tr>
@@ -6491,7 +6489,7 @@ A number of terms for the general process of burning or being on fire can be rec
 <i>&ast;(k,g)abu</i>
 </td>
 <td>
-(V) '<span>burn, be on fire</span>'; (N) '<span>(?) firewood</span>'</td>
+[V] '<span>burn, be on fire</span>'; [N] '<span>(?) firewood</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Wab</td><td><i>gabu</i></td>
@@ -6553,13 +6551,6 @@ A number of terms for the general process of burning or being on fire can be rec
 cf. also: 
 <table>
 <tr>
-<td>Fij</td>
-<td>Bauan</td>
-<td><i>buka</i></td>
-<td>
-'<span>firewood</span>' (<span>? metathesis</span>)</td>
-</tr>
-<tr>
 <td>NNG</td>
 <td>Dami</td>
 <td><i>kau</i></td>
@@ -6571,7 +6562,14 @@ cf. also:
 <td>Tolai</td>
 <td><i>kabu</i></td>
 <td>
-'<span>ashes, cinders</span>'; '<span>dust, ashes, cinders</span>'</td>
+'<span>ashes, cinders</span>'</td>
+</tr>
+<tr>
+<td>Fij</td>
+<td>Bauan</td>
+<td><i>buka</i></td>
+<td>
+'<span>firewood</span>' (<span>? metathesis</span>)</td>
 </tr>
 </table>
 
@@ -6599,12 +6597,12 @@ cf. also:
 <tr>
 <td>NNG</td><td>Manam</td><td><i>bula</i></td>
 <td>
-(V) '<span>light (a fire)</span>'</td>
+[V] '<span>light (a fire)</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Puluwatese</td><td><i>pʷɨl</i></td>
 <td>
-(V) '<span>burn, be lighted, in flames</span>'; (N) '<span>flame</span>'</td>
+[V] '<span>burn, be lighted, in flames</span>'; [N] '<span>flame</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Woleaian</td><td><i>pʷura</i></td>
@@ -6614,17 +6612,17 @@ cf. also:
 <tr>
 <td>Mic</td><td>Woleaian</td><td><i>pʷupʷura</i></td>
 <td>
-(N) '<span>flame, blinking of light</span>'</td>
+[N] '<span>flame, blinking of light</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>bula</i></td>
 <td>
-(V) '<span>be on fire, burn</span>'</td>
+[V] '<span>be on fire, burn</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>bula</i></td>
 <td>
-(V) '<span>be on fire, burn</span>'; (N) '<span>conflagration</span>'</td>
+[V] '<span>be on fire, burn</span>'; [N] '<span>conflagration</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>bula-ni-a</i></td>
@@ -6634,12 +6632,26 @@ cf. also:
 <tr>
 <td>Fij</td><td>Rotuman</td><td><i>pula</i></td>
 <td>
-(V) '<span>catch alight, burn, flare up suddenly</span>'; (N) '<span>flame, (lightning) flash</span>'</td>
+[V] '<span>catch alight, burn, flare up suddenly</span>'; [N] '<span>flame, (lightning) flash</span>'</td>
 </tr>
 </table>
 
 cf. also: 
 <table>
+<tr>
+<td>None</td>
+<td>PPn</td>
+<td><i>mula</i></td>
+<td>
+'<span>burst into flame</span>'</td>
+</tr>
+<tr>
+<td>Pn</td>
+<td>Niuean</td>
+<td><i>mumula</i></td>
+<td>
+'<span>flare up</span>'</td>
+</tr>
 <tr>
 <td>Pn</td>
 <td>Māori</td>
@@ -6656,10 +6668,17 @@ cf. also:
 </tr>
 <tr>
 <td>Pn</td>
-<td>Niuean</td>
-<td><i>mumula</i></td>
+<td>Rarotongan</td>
+<td><i>mura</i></td>
 <td>
-'<span>flare up</span>'</td>
+'<span>burn, glow, flame; show red</span>'</td>
+</tr>
+<tr>
+<td>None</td>
+<td>PPn</td>
+<td><i>pula</i></td>
+<td>
+'<span>shine, glow</span>'</td>
 </tr>
 <tr>
 <td>Pn</td>
@@ -6667,13 +6686,6 @@ cf. also:
 <td><i>pula</i></td>
 <td>
 '<span>shine, glow (of new moon)</span>'</td>
-</tr>
-<tr>
-<td>Pn</td>
-<td>Rarotongan</td>
-<td><i>mura</i></td>
-<td>
-'<span>burn, glow, flame; show red</span>'</td>
 </tr>
 <tr>
 <td>Pn</td>
@@ -6700,14 +6712,6 @@ cf. also:
 </td>
 <td>
 '<span>be on fire, alight, flaming</span>'</td>
-</tr>
-<tr>
-<td><strong>PPn</strong></td><td> </td>
-<td>
-<i>&ast;ula</i>
-</td>
-<td>
-'<span>burn brightly</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Torau</td><td><i>uda</i></td>
@@ -6740,6 +6744,14 @@ cf. also:
 '<span>alight, burning</span>'</td>
 </tr>
 <tr>
+<td><strong>PPn</strong></td><td> </td>
+<td>
+<i>&ast;ula</i>
+</td>
+<td>
+'<span>burn brightly</span>'</td>
+</tr>
+<tr>
 <td>Pn</td><td>Tongan</td><td><i>ulo</i></td>
 <td>
 '<span>burn, be alight, catch fire; shine</span>'</td>
@@ -6747,7 +6759,7 @@ cf. also:
 <tr>
 <td>Pn</td><td>Rennellese</td><td><i>uga</i></td>
 <td>
-(V) '<span>flame; shine, flash; be very red</span>'</td>
+[V] '<span>flame; shine, flash; be very red</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Luangiua</td><td><i>ula</i></td>
@@ -6757,7 +6769,7 @@ cf. also:
 <tr>
 <td>Pn</td><td>Tikopia</td><td><i>ura</i></td>
 <td>
-(V) '<span>blaze, flame, burn brightly, glow</span>'</td>
+[V] '<span>blaze, flame, burn brightly, glow</span>'</td>
 </tr>
 </table>
 
@@ -6909,30 +6921,22 @@ In the following cognate set, Polynesian languages show unexpected _o_ for _&ast
 <i>&ast;kupu(k)</i>
 </td>
 <td>
-(V) '<span>emit smoke or steam</span>'</td>
-</tr>
-<tr>
-<td><strong>PPn</strong></td><td> </td>
-<td>
-<i>&ast;kofu</i>
-</td>
-<td>
-(V) '<span>emit smoke</span>'; (N) '<span>(?) smoke</span>'</td>
+[V] '<span>emit smoke or steam</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Bebeli</td><td><i>kuvuk</i></td>
 <td>
-(N) '<span>smoke</span>'</td>
+[N] '<span>smoke</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Kia</td><td><i>gufu(-na)</i></td>
 <td>
-(N) '<span>smoke</span>'</td>
+[N] '<span>smoke</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Kilokaka</td><td><i>kufu</i></td>
 <td>
-(N) '<span>smoke</span>'</td>
+[N] '<span>smoke</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Maringe</td><td><i>ɣuf(la)</i></td>
@@ -6965,6 +6969,14 @@ In the following cognate set, Polynesian languages show unexpected _o_ for _&ast
 '<span>steam, give off steam</span>'</td>
 </tr>
 <tr>
+<td><strong>PPn</strong></td><td> </td>
+<td>
+<i>&ast;kofu</i>
+</td>
+<td>
+[V] '<span>emit smoke</span>'; [N] '<span>(?) smoke</span>'</td>
+</tr>
+<tr>
 <td>Pn</td><td>Tongan</td><td><i>kofu</i></td>
 <td>
 '<span>emit smoke</span>'</td>
@@ -6977,7 +6989,7 @@ In the following cognate set, Polynesian languages show unexpected _o_ for _&ast
 <tr>
 <td>Pn</td><td>Sikaiana</td><td><i>(au)kohu</i></td>
 <td>
-(N) '<span>smoke</span>'</td>
+[N] '<span>smoke</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tikopia</td><td><i>kofu</i></td>
@@ -6987,7 +6999,7 @@ In the following cognate set, Polynesian languages show unexpected _o_ for _&ast
 <tr>
 <td>Pn</td><td>Anutan</td><td><i>ko-kopu</i></td>
 <td>
-(N) '<span>smoke</span>'</td>
+[N] '<span>smoke</span>'</td>
 </tr>
 </table>
 
@@ -7010,12 +7022,12 @@ PCP _&ast;kobulu_, possibly meaning ‘thick smoke or cloud’ is indicated by r
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>kubou</i></td>
 <td>
-(N) '<span>smoke</span>' (<span>metathesis and irregular loss of <em>l</em> in context <em>oū</em></span>)</td>
+[N] '<span>smoke</span>' (<span>metathesis and irregular loss of <em>l</em> in context <em>oū</em></span>)</td>
 </tr>
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>kōbulu</i></td>
 <td>
-(N) '<span>smoke</span>'</td>
+[N] '<span>smoke</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Māori</td><td><i>kōpuru</i></td>
@@ -7027,18 +7039,18 @@ PCP _&ast;kobulu_, possibly meaning ‘thick smoke or cloud’ is indicated by r
 cf. also: 
 <table>
 <tr>
-<td>NCal</td>
-<td>Ajië</td>
-<td><i>kemɔru</i></td>
-<td>
-'<span>fire</span>'</td>
-</tr>
-<tr>
 <td>MM</td>
 <td>Ughele</td>
 <td><i>ɣambuzu</i></td>
 <td>
 '<span>smoke</span>'</td>
+</tr>
+<tr>
+<td>NCal</td>
+<td>Ajië</td>
+<td><i>kemɔru</i></td>
+<td>
+'<span>fire</span>'</td>
 </tr>
 </table>
 
@@ -7052,7 +7064,7 @@ Widely scattered languages use a reflex of POc _&ast;maya_ ‘tongue’ (either 
 <i>&ast;maya (ni) (api)</i>
 </td>
 <td>
-(N) '<span>flame</span>' (<span>lit. ‘tongue’ or ‘tongue of fire’</span>)</td>
+[N] '<span>flame</span>' (<span>lit. ‘tongue’ or ‘tongue of fire’</span>)</td>
 </tr>
 <tr>
 <td>NNG</td><td>Mangap</td><td><i>you mia-na</i></td>
@@ -7101,9 +7113,9 @@ cf. also: the following, where there is semantic correspondence even though one 
 '<span>flames</span>' (<span>‘tongues of fire’</span>)</td>
 </tr>
 <tr>
-<td>SV</td>
-<td>Kwamera</td>
-<td><i>nəami napw</i></td>
+<td>NNG</td>
+<td>Takia</td>
+<td><i>yai bale-na</i></td>
 <td>
 '<span>flame</span>' (<span>‘tongue of fire’</span>)</td>
 </tr>
@@ -7112,12 +7124,12 @@ cf. also: the following, where there is semantic correspondence even though one 
 <td>Mapos Buang</td>
 <td><i>daɣen</i></td>
 <td>
-'<span>flame</span>'; '<span>tongue</span>'</td>
+'<span>tongue</span>'; '<span>flame</span>'</td>
 </tr>
 <tr>
-<td>NNG</td>
-<td>Takia</td>
-<td><i>yai bale-na</i></td>
+<td>SV</td>
+<td>Kwamera</td>
+<td><i>nəami napw</i></td>
 <td>
 '<span>flame</span>' (<span>‘tongue of fire’</span>)</td>
 </tr>
@@ -7176,7 +7188,7 @@ cf. also: the following, where there is semantic correspondence even though one 
 <tr>
 <td>Pn</td><td>Māori</td><td><i>huru</i></td>
 <td>
-'<span>glow</span>'</td>
+[V & N] '<span>glow</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Māori</td><td><i>huru-huru</i></td>
@@ -7272,14 +7284,6 @@ cf. also:
 '<span>burn with glow</span>' (<span>cf. *kalo-kalo ‘glimmer’</span>)</td>
 </tr>
 <tr>
-<td><strong>PPn</strong></td><td> </td>
-<td>
-<i>&ast;makala</i>
-</td>
-<td>
-(V) '<span>(of fire) crackle and spark</span>'</td>
-</tr>
-<tr>
 <td>Mic</td><td>Kiribatese</td><td><i>mʷākaro</i></td>
 <td>
 '<span>embers, live coals, charoal; burning without flames</span>'</td>
@@ -7288,6 +7292,14 @@ cf. also:
 <td>Fij</td><td>Wayan</td><td><i>makalo</i></td>
 <td>
 '<span>turn to embers; glow, be red hot</span>'</td>
+</tr>
+<tr>
+<td><strong>PPn</strong></td><td> </td>
+<td>
+<i>&ast;makala</i>
+</td>
+<td>
+[V] '<span>(of fire) crackle and spark</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>makala</i></td>
@@ -7392,6 +7404,11 @@ Parts of New Guinea and Island Melanesia have a long history of volcanic activit
 '<span>volcano</span>'; '<span>(?) matter emitted from volcano</span>'</td>
 </tr>
 <tr>
+<td>NNG</td><td>Takia</td><td><i>banai</i></td>
+<td>
+'<span>to spring up out of a hole, of liquid</span>'</td>
+</tr>
+<tr>
 <td><strong>PNCV</strong></td><td> </td>
 <td>
 <i>&ast;banoi</i>
@@ -7399,11 +7416,6 @@ Parts of New Guinea and Island Melanesia have a long history of volcanic activit
 <td>
 '<span>volcano, volcanic ash</span>' (<a href="../references.md#source-Clark1996">Clark1996</a>)
 </td>
-</tr>
-<tr>
-<td>NNG</td><td>Takia</td><td><i>banai</i></td>
-<td>
-'<span>to spring up out of a hole, of liquid</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Mota</td><td><i>panoi</i></td>
@@ -7480,7 +7492,7 @@ The next reconstruction belongs to a set of formally similar items with meanings
 <tr>
 <td>PT</td><td>Kilivila</td><td><i>polu</i></td>
 <td>
-(V) '<span>boil</span>'</td>
+[V] '<span>boil</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Tolai</td><td><i>vuru</i></td>
@@ -7490,7 +7502,7 @@ The next reconstruction belongs to a set of formally similar items with meanings
 <tr>
 <td>SES</td><td>Arosi</td><td><i>huro-huro</i></td>
 <td>
-(V) '<span>bubble, boil, be churned up</span>'</td>
+[V] '<span>bubble, boil, be churned up</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Mota</td><td><i>vuro</i></td>
@@ -7528,7 +7540,7 @@ While the following two cognate sets are presumably related, we cannot unite the
 <tr>
 <td>MM</td><td>Tinputz</td><td><i>rik-rik</i></td>
 <td>
-'<span>earthquake</span>'; (V) '<span>quake</span>'</td>
+'<span>earthquake</span>'; [V] '<span>quake</span>'</td>
 </tr>
 </table>
 
@@ -7554,14 +7566,6 @@ cf. also:
 '<span>earthquake</span>'</td>
 </tr>
 <tr>
-<td><strong>PPn</strong></td><td> </td>
-<td>
-<i>&ast;mafu-ike</i>
-</td>
-<td>
-'<span>earthquake</span>' (<span>the etymology of mafu- is unknown</span>)</td>
-</tr>
-<tr>
 <td>NNG</td><td>Manam</td><td><i>rike</i></td>
 <td>
 '<span>earthquake</span>'</td>
@@ -7569,7 +7573,15 @@ cf. also:
 <tr>
 <td>NNG</td><td>Manam</td><td><i>(mʷa)rike</i></td>
 <td>
-(N, V) '<span>earthquake, quake</span>'</td>
+[N, V] '<span>earthquake, quake</span>'</td>
+</tr>
+<tr>
+<td><strong>PPn</strong></td><td> </td>
+<td>
+<i>&ast;mafu-ike</i>
+</td>
+<td>
+'<span>earthquake</span>' (<span>the etymology of mafu- is unknown</span>)</td>
 </tr>
 <tr>
 <td>Pn</td><td>Niuean</td><td><i>mafuike</i></td>
@@ -7626,7 +7638,7 @@ In several of the following cognate sets, the term for earthquake is closely rel
 <i>&ast;[ni]nir</i>
 </td>
 <td>
-(V) '<span>shake, quake</span>'</td>
+[V] '<span>shake, quake</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Gedaged</td><td><i>nini</i></td>
@@ -7680,7 +7692,7 @@ In a number of northwest and southeast Solomons languages, the term for earthqua
 <i>&ast;ŋ-iu(ŋ)</i>
 </td>
 <td>
-(V) '<span>shake, quake</span>'; (N) '<span>earthquake</span>'</td>
+[V] '<span>shake, quake</span>'; [N] '<span>earthquake</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Halia</td><td><i>nun</i></td>
@@ -7733,7 +7745,7 @@ In a number of northwest and southeast Solomons languages, the term for earthqua
 <i>&ast;añu</i>
 </td>
 <td>
-(V) '<span>shake</span>'</td>
+[V] '<span>shake</span>'</td>
 </tr>
 <tr>
 <td><strong>PSS</strong></td><td> </td>
@@ -7741,7 +7753,7 @@ In a number of northwest and southeast Solomons languages, the term for earthqua
 <i>&ast;añu-añu</i>
 </td>
 <td>
-(N) '<span>earthquake</span>'</td>
+[N] '<span>earthquake</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Gela</td><td><i>anu</i></td>
@@ -7799,12 +7811,12 @@ In a number of northwest and southeast Solomons languages, the term for earthqua
 <i>&ast;ruru</i>
 </td>
 <td>
-(V) '<span>shake</span>'; (N) '<span>earthquake</span>'</td>
+[V] '<span>shake</span>'; [N] '<span>earthquake</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Mota</td><td><i>rir</i></td>
 <td>
-(V) '<span>quake</span>'; '<span>earthquake</span>'</td>
+[V] '<span>quake</span>'; '<span>earthquake</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Raga</td><td><i>ruru(i)</i></td>
@@ -7931,7 +7943,7 @@ POc _&ast;solo_ was probably a verb, but its reflexes refer, inter alia, to land
 <i>&ast;to(b,p)a</i>
 </td>
 <td>
-(VI) '<span>(land) slip</span>'</td>
+[VI] '<span>(land) slip</span>'</td>
 </tr>
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
@@ -7954,7 +7966,7 @@ POc _&ast;solo_ was probably a verb, but its reflexes refer, inter alia, to land
 <tr>
 <td>SES</td><td>Longgu</td><td><i>toba</i></td>
 <td>
-(VI) '<span>(land) slip</span>'</td>
+[VI] '<span>(land) slip</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Arosi</td><td><i>maoba</i></td>
@@ -8031,7 +8043,7 @@ No POc term denoting tidal wave has been reconstructed. In contemporary language
 <td>Gela</td>
 <td><i>lua-lua</i></td>
 <td>
-'<span>boil over, as food cooked in bamboo; to spit out</span>'; '<span>flood, tidal wave</span>' (<span><em>lua</em> ‘full tide’</span>)</td>
+'<span>flood, tidal wave</span>' (<span><em>lua</em> ‘full tide’</span>)</td>
 </tr>
 <tr>
 <td>SES</td>
@@ -8216,7 +8228,7 @@ Flooding for coastal dwellers on small Oceanic islands is likely to be the resul
 <i>&ast;lebleb</i>
 </td>
 <td>
-(V) '<span>flood</span>'</td>
+[V] '<span>flood</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
@@ -8224,7 +8236,7 @@ Flooding for coastal dwellers on small Oceanic islands is likely to be the resul
 <i>&ast;lolo</i>
 </td>
 <td>
-(V) '<span>flood</span>'</td>
+[V] '<span>flood</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Andra</td><td><i>lolo(mat)</i></td>
@@ -8234,7 +8246,7 @@ Flooding for coastal dwellers on small Oceanic islands is likely to be the resul
 <tr>
 <td>NNG</td><td>Gedaged</td><td><i>lolo(ani)</i></td>
 <td>
-(V) '<span>inundate, flood, drown, stream over, flow over, cause to sink under water</span>'</td>
+[V] '<span>inundate, flood, drown, stream over, flow over, cause to sink under water</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>lolo</i></td>
@@ -8244,7 +8256,7 @@ Flooding for coastal dwellers on small Oceanic islands is likely to be the resul
 <tr>
 <td>Pn</td><td>Samoan</td><td><i>lolo</i></td>
 <td>
-(V) '<span>overflow</span>'; (N) '<span>flood</span>'</td>
+[V] '<span>overflow</span>'; [N] '<span>flood</span>'</td>
 </tr>
 </table>
 
@@ -8257,16 +8269,7 @@ Flooding for coastal dwellers on small Oceanic islands is likely to be the resul
 <i>&ast;lomak</i>
 </td>
 <td>
-(N,V) '<span>flood, of sea</span>'</td>
-</tr>
-<tr>
-<td><strong>PPn</strong></td><td> </td>
-<td>
-<i>&ast;lo(o)ma, lo(o)maki</i>
-</td>
-<td>
-'<span>flood caused by high seas or tides</span>' (<a href="../references.md#source-BiggsandClark1993">BiggsandClark1993</a>)
-</td>
+[N,V] '<span>flood, of sea</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Takia</td><td><i>lom</i></td>
@@ -8284,9 +8287,18 @@ Flooding for coastal dwellers on small Oceanic islands is likely to be the resul
 '<span>high tide, flood</span>'</td>
 </tr>
 <tr>
+<td><strong>PPn</strong></td><td> </td>
+<td>
+<i>&ast;lo(o)ma, lo(o)maki</i>
+</td>
+<td>
+'<span>flood caused by high seas or tides</span>' (<a href="../references.md#source-BiggsandClark1993">BiggsandClark1993</a>)
+</td>
+</tr>
+<tr>
 <td>Pn</td><td>Tongan</td><td><i>lōmaki</i></td>
 <td>
-(N) '<span>flood, deluge</span>'</td>
+[N] '<span>flood, deluge</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>East Futunan</td><td><i>lōmaki</i></td>
@@ -8384,17 +8396,17 @@ The meanings of the prefix _&ast;qā-_, and the alternative form _&ast;pua-_ (bl
 '<span>(?) whirlwind, rainbow</span>'</td>
 </tr>
 <tr>
+<td>NCV</td><td>Mota</td><td><i>ga-siosio</i></td>
+<td>
+'<span>rainbow</span>' (<span>see note above</span>)</td>
+</tr>
+<tr>
 <td><strong>PPn</strong></td><td> </td>
 <td>
 <i>&ast;qā-siosio</i>
 </td>
 <td>
 '<span>whirlwind, waterspout</span>'</td>
-</tr>
-<tr>
-<td>NCV</td><td>Mota</td><td><i>ga-siosio</i></td>
-<td>
-'<span>rainbow</span>' (<span>see note above</span>)</td>
 </tr>
 <tr>
 <td>Pn</td><td>Niuean</td><td><i>hio-hio</i></td>
@@ -8457,14 +8469,6 @@ The next item may be associated in some way with POc _&ast;piro_ ‘twist togeth
 '<span>whirlwind, waterspout</span>'</td>
 </tr>
 <tr>
-<td><strong>PEOc</strong></td><td> </td>
-<td>
-<i>&ast;libo</i>
-</td>
-<td>
-'<span>eddy, whirlpool</span>'</td>
-</tr>
-<tr>
 <td>NNG</td><td>Kove</td><td><i>vili-viliu</i></td>
 <td>
 '<span>small whirlwind</span>'</td>
@@ -8488,6 +8492,14 @@ The next item may be associated in some way with POc _&ast;piro_ ‘twist togeth
 <td>SES</td><td>Ghari</td><td><i>viru</i></td>
 <td>
 '<span>waterspout</span>'</td>
+</tr>
+<tr>
+<td><strong>PEOc</strong></td><td> </td>
+<td>
+<i>&ast;libo</i>
+</td>
+<td>
+'<span>eddy, whirlpool</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Kwaio</td><td><i>libo</i></td>

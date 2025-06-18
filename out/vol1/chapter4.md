@@ -1,6 +1,4 @@
-# Household Artefacts
-
-by Osmond, M. and Ross, M.
+[Osmond, M. and Ross, M.](.smallcaps)
 
 
 <a id="s-1"></a>
@@ -214,15 +212,15 @@ cf. also:
 <table>
 <tr>
 <td>PT</td>
-<td>Lala</td>
-<td><i>vodu</i></td>
+<td>Motu</td>
+<td><i>hodu</i></td>
 <td>
 '<span>narrow-necked water pot</span>'</td>
 </tr>
 <tr>
 <td>PT</td>
-<td>Motu</td>
-<td><i>hodu</i></td>
+<td>Lala</td>
+<td><i>vodu</i></td>
 <td>
 '<span>narrow-necked water pot</span>'</td>
 </tr>
@@ -541,6 +539,27 @@ cf. also:
 <table>
 <tr>
 <td>SES</td>
+<td>Tolo</td>
+<td><i>tabili</i></td>
+<td>
+'<span>wooden vessel used to smash nut kernels in</span>'</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>Longgu</td>
+<td><i>tabili</i></td>
+<td>
+'<span>bowl shaped like a vase, used for mashing taro to make pudding</span>'</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>Kwaio</td>
+<td><i>tabili</i></td>
+<td>
+'<span>big wooden bowl</span>'</td>
+</tr>
+<tr>
+<td>SES</td>
 <td>'Are'are</td>
 <td><i>tapire</i></td>
 <td>
@@ -559,27 +578,6 @@ cf. also:
 <td><i>tābili</i></td>
 <td>
 '<span>wooden bowl for crushing yaqona roots</span>'</td>
-</tr>
-<tr>
-<td>SES</td>
-<td>Kwaio</td>
-<td><i>tabili</i></td>
-<td>
-'<span>big wooden bowl</span>'</td>
-</tr>
-<tr>
-<td>SES</td>
-<td>Longgu</td>
-<td><i>tabili</i></td>
-<td>
-'<span>bowl shaped like a vase, used for mashing taro to make pudding</span>'</td>
-</tr>
-<tr>
-<td>SES</td>
-<td>Tolo</td>
-<td><i>tabili</i></td>
-<td>
-'<span>wooden vessel used to smash nut kernels in</span>'</td>
 </tr>
 </table>
 
@@ -682,18 +680,18 @@ PSS _&ast;popo_ 'wooden bowl' is reconstructable (Gela _popo_ 'a bowl', 'Are'are
 cf. also: the following probable loans from Polynesia:
 <table>
 <tr>
-<td>Mic</td>
-<td>Kiribatese</td>
-<td><i>kumete</i></td>
-<td>
-'<span>kind of wooden mortar trough; hollow, empty, concave; thin, ravenous (hungry)</span>'</td>
-</tr>
-<tr>
 <td>NCV</td>
 <td>Mota</td>
 <td><i>wumeto</i></td>
 <td>
 '<span>wooden bowl used for stone-boiling</span>'</td>
+</tr>
+<tr>
+<td>Mic</td>
+<td>Kiribatese</td>
+<td><i>kumete</i></td>
+<td>
+'<span>kind of wooden mortar trough; hollow, empty, concave; thin, ravenous (hungry)</span>'</td>
 </tr>
 </table>
 
@@ -795,7 +793,7 @@ One of the most widely-used containers was the coconut-shell cup, for which we h
 '<span>dish, bowl, any open utensil; shell of a coconut</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Halia</td><td><i>las</i></td>
+<td>MM</td><td>Selau</td><td><i>las</i></td>
 <td>
 '<span>young drinking coconut</span>'</td>
 </tr>
@@ -1148,12 +1146,12 @@ A number of terms are reconstructable for the plug, probably of rolled leaves, u
 <tr>
 <td>NNG</td><td>Manam</td><td><i>ro-zoŋa</i></td>
 <td>
-(N) '<span>plug</span>'</td>
+[N] '<span>plug</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Adzera</td><td><i>nzoŋan</i></td>
 <td>
-(V) '<span>plug</span>'</td>
+[V] '<span>plug</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Gela</td><td><i>do-doŋa-na</i></td>
@@ -1187,12 +1185,12 @@ This is a nominalisation of the verb below (cf. Ch. 2, §3.2.1):
 <tr>
 <td>NNG</td><td>Gitua</td><td><i>zozon</i></td>
 <td>
-(V) '<span>plug, stop</span>'</td>
+[V] '<span>plug, stop</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Tami</td><td><i>jojoŋ</i></td>
 <td>
-(N, V) '<span>cork</span>'</td>
+[N, V] '<span>cork</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Gedaged</td><td><i>dod</i></td>
@@ -1202,12 +1200,12 @@ This is a nominalisation of the verb below (cf. Ch. 2, §3.2.1):
 <tr>
 <td>NNG</td><td>Numbami</td><td><i>dodoŋa</i></td>
 <td>
-(V) '<span>plug</span>' (<span>epenthetic <em>-a</em></span>)</td>
+[V] '<span>plug</span>' (<span>epenthetic <em>-a</em></span>)</td>
 </tr>
 <tr>
 <td>NNG</td><td>Yabem</td><td><i>sòŋ</i></td>
 <td>
-(v) '<span>plug</span>'</td>
+[v] '<span>plug</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Manam</td><td><i>rozoŋ</i></td>
@@ -1232,7 +1230,7 @@ Two other etyma are reconstructable in the domain 'lid, cover, stopper', but it 
 <i>&ast;buruŋ(a)</i>
 </td>
 <td>
-(N) '<span>cover, plug</span>' (<span>?</span>)</td>
+[N] '<span>cover, plug</span>' (<span>?</span>)</td>
 </tr>
 <tr>
 <td>Adm</td><td>Drehet</td><td><i>(na)puluŋ</i></td>
@@ -1242,12 +1240,12 @@ Two other etyma are reconstructable in the domain 'lid, cover, stopper', but it 
 <tr>
 <td>MM</td><td>Patpatar</td><td><i>buruŋ</i></td>
 <td>
-(N) '<span>cover</span>'</td>
+[N] '<span>cover</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Ramoaaina</td><td><i>buru-buruŋ</i></td>
 <td>
-(N) '<span>cover</span>'</td>
+[N] '<span>cover</span>'</td>
 </tr>
 </table>
 
@@ -2045,7 +2043,7 @@ The distinction between weaving and plaiting is not clear even in English, altho
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>fatu</i></td>
 <td>
-(V) '<span>fold; begin the making of a mat; construct the framework of a house</span>'</td>
+[V] '<span>fold; begin the making of a mat; construct the framework of a house</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Samoan</td><td><i>fatu</i></td>
@@ -2139,7 +2137,7 @@ The distinction between weaving and plaiting is not clear even in English, altho
 <tr>
 <td>NCV</td><td>Mota</td><td><i>vau</i></td>
 <td>
-(v) '<span>mat, plait, weave (mats, baskets)</span>'</td>
+[v] '<span>mat, plait, weave (mats, baskets)</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Nguna</td><td><i>vausi-</i></td>
@@ -2167,13 +2165,13 @@ The distinction between weaving and plaiting is not clear even in English, altho
 <i>&ast;tiki</i>
 </td>
 <td>
-(V) '<span>plait (mat +)</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+[V] '<span>plait (mat +)</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
 <td>Adm</td><td>Lou</td><td><i>tik</i></td>
 <td>
-(v) '<span>plait (mats, baskets)</span>'</td>
+[v] '<span>plait (mats, baskets)</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Loniu</td><td><i>tiʔi</i></td>
@@ -2246,7 +2244,7 @@ The distinction between weaving and plaiting is not clear even in English, altho
 <tr>
 <td>NCV</td><td>Paamese</td><td><i>hai</i></td>
 <td>
-(VT) '<span>weave, make fence</span>'</td>
+[VT] '<span>weave, make fence</span>'</td>
 </tr>
 </table>
 
@@ -2323,12 +2321,12 @@ The simplest material for tying would have been lengths of vine or rattan, or st
 <tr>
 <td>MM</td><td>Tolai</td><td><i>loe</i></td>
 <td>
-(V) '<span>twist, coil</span>'</td>
+[V] '<span>twist, coil</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Tolai</td><td><i>lo-loi</i></td>
 <td>
-(v) '<span>roll or coil (strips of shell money)</span>'</td>
+[v] '<span>roll or coil (strips of shell money)</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Kwaio</td><td><i>loi</i></td>
@@ -2373,7 +2371,7 @@ An unrelated PPn term has been reconstructed for the same process, _&ast;amo_ 'p
 <tr>
 <td>SES</td><td>Arosi</td><td><i>ari</i></td>
 <td>
-(N) '<span>rope</span>'; (v) '<span>plait</span>'</td>
+[N] '<span>rope</span>'; [v] '<span>plait</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Arosi</td><td><i>ari(heda)</i></td>
@@ -2398,12 +2396,12 @@ An unrelated PPn term has been reconstructed for the same process, _&ast;amo_ 'p
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>tali</i></td>
 <td>
-(v) '<span>plait, weave; rope</span>'</td>
+[v] '<span>plait, weave; rope</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>tali</i></td>
 <td>
-(v) '<span>plait, interweave</span>'</td>
+[v] '<span>plait, interweave</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Anutan</td><td><i>tari</i></td>
@@ -2483,7 +2481,7 @@ An unrelated PPn term has been reconstructed for the same process, _&ast;amo_ 'p
 <tr>
 <td>SES</td><td>Sa'a</td><td><i>hiri</i></td>
 <td>
-(v) '<span>lap with string, bind spears or arrows</span>'</td>
+[v] '<span>lap with string, bind spears or arrows</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Arosi</td><td><i>hiri</i></td>
@@ -2518,7 +2516,7 @@ An unrelated PPn term has been reconstructed for the same process, _&ast;amo_ 'p
 <tr>
 <td>Mic</td><td>Kosraean</td><td><i>pɨr(aki)</i></td>
 <td>
-(V) '<span>braid, plait</span>'</td>
+[V] '<span>braid, plait</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Rotuman</td><td><i>hiri</i></td>
@@ -2588,7 +2586,7 @@ cf. also:
 <tr>
 <td>Pn</td><td>Hawaiian</td><td><i>hili-hili</i></td>
 <td>
-(v) '<span>braid, plait, string</span>'</td>
+[v] '<span>braid, plait, string</span>'</td>
 </tr>
 </table>
 
@@ -2636,7 +2634,7 @@ Reduplication was regularly used to form intransitive verbs from verbs which wer
 <tr>
 <td>NCV</td><td>Paamese</td><td><i>vilesi-</i></td>
 <td>
-(VT) '<span>turn around, tum over</span>'</td>
+[VT] '<span>turn around, tum over</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>vulo</i></td>
@@ -3018,7 +3016,7 @@ cf. also:
 <tr>
 <td>SES</td><td>Lau</td><td><i>susu</i></td>
 <td>
-(V) '<span>point, prick, impale, pierce, poke out with a stick, sting, darn</span>'</td>
+[V] '<span>point, prick, impale, pierce, poke out with a stick, sting, darn</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Mota</td><td><i>sus</i></td>
@@ -3130,7 +3128,7 @@ The following term for needle, POc _&ast;saRum_, evidently had specific referenc
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>sau</i></td>
 <td>
-(v) '<span>prick, as in tattooing</span>'</td>
+[v] '<span>prick, as in tattooing</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>(i)sau</i></td>
@@ -3493,17 +3491,17 @@ The following are possibly related to the set above but all reflect an extra _&a
 '<span>adze</span>'</td>
 </tr>
 <tr>
+<td>Adm</td><td>Loniu</td><td><i>taku(wen)</i></td>
+<td>
+'<span>dig (s.t.) with adze</span>'</td>
+</tr>
+<tr>
 <td><strong>PCP</strong></td><td> </td>
 <td>
 <i>&ast;taku</i>
 </td>
 <td>
 '<span>cutting implement made from shell of turtle or Tridacna shell</span>'</td>
-</tr>
-<tr>
-<td>Adm</td><td>Loniu</td><td><i>taku(wen)</i></td>
-<td>
-'<span>dig (s.t.) with adze</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>taku</i></td>
@@ -3545,7 +3543,7 @@ The following are possibly related to the set above but all reflect an extra _&a
 <i>&ast;taRa(q)</i>
 </td>
 <td>
-(N, V) '<span>adze</span>'</td>
+[N, V] '<span>adze</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
@@ -3558,7 +3556,7 @@ The following are possibly related to the set above but all reflect an extra _&a
 <tr>
 <td>NNG</td><td>Takia</td><td><i>tare</i></td>
 <td>
-(VT) '<span>cut, hew, as with an axe</span>'</td>
+[VT] '<span>cut, hew, as with an axe</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Manam</td><td><i>tara</i></td>
@@ -3568,7 +3566,7 @@ The following are possibly related to the set above but all reflect an extra _&a
 <tr>
 <td>PT</td><td>Motu</td><td><i>tarai-</i></td>
 <td>
-(V) '<span>adze, chop, cut wood</span>'</td>
+[V] '<span>adze, chop, cut wood</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td>Molima</td><td><i>tala</i></td>
@@ -3578,7 +3576,7 @@ The following are possibly related to the set above but all reflect an extra _&a
 <tr>
 <td>PT</td><td>Dobu</td><td><i>tala</i></td>
 <td>
-(VT) '<span>fell a tree, cut out a canoe; lance flesh</span>'</td>
+[VT] '<span>fell a tree, cut out a canoe; lance flesh</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Tabar</td><td><i>tara</i></td>
@@ -3618,7 +3616,7 @@ The following are possibly related to the set above but all reflect an extra _&a
 <tr>
 <td>Mic</td><td>Kiribatese</td><td><i>ta-tā</i></td>
 <td>
-(v) '<span>adze</span>'</td>
+[v] '<span>adze</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Carolinian</td><td><i>sār</i></td>
@@ -3845,18 +3843,18 @@ Although PCP _&ast;sele_ 'knife; cut with a knife' seems to have cognates elsewh
 cf. also: 
 <table>
 <tr>
-<td>MM</td>
-<td>Lihir</td>
-<td><i>sele</i></td>
-<td>
-'<span>knife</span>'</td>
-</tr>
-<tr>
 <td>NNG</td>
 <td>Lukep</td>
 <td><i>sele</i></td>
 <td>
 '<span>machete</span>'</td>
+</tr>
+<tr>
+<td>MM</td>
+<td>Lihir</td>
+<td><i>sele</i></td>
+<td>
+'<span>knife</span>'</td>
 </tr>
 <tr>
 <td>NCal</td>
@@ -4069,7 +4067,7 @@ Obsidian, glass-hard volcanic stone found on Lou Island (Admiralties), on Fergus
 <tr>
 <td>SES</td><td>Arosi</td><td><i>koto</i></td>
 <td>
-(V) '<span>spear</span>'</td>
+[V] '<span>spear</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Arosi</td><td><i>oto</i></td>
@@ -4307,7 +4305,7 @@ From its form it is clear that PCP _&ast;vuqa(i)ŋa_ is a nominalisation. The co
 <i>&ast;kirkir</i>
 </td>
 <td>
-(v) '<span>file, rasp</span>' (<a href="../references.md#source-Blust1977a">Blust1977a</a>)
+[v] '<span>file, rasp</span>' (<a href="../references.md#source-Blust1977a">Blust1977a</a>)
 </td>
 </tr>
 <tr>
@@ -4341,7 +4339,7 @@ From its form it is clear that PCP _&ast;vuqa(i)ŋa_ is a nominalisation. The co
 <tr>
 <td>PT</td><td>Motu</td><td><i>iri</i></td>
 <td>
-(N) '<span>saw</span>'</td>
+[N] '<span>saw</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td>Motu</td><td><i>iri-ri</i></td>
@@ -4356,7 +4354,7 @@ From its form it is clear that PCP _&ast;vuqa(i)ŋa_ is a nominalisation. The co
 <tr>
 <td>Pn</td><td>Tokelauan</td><td><i>kili</i></td>
 <td>
-(v) '<span>file, rasp</span>'</td>
+[v] '<span>file, rasp</span>'</td>
 </tr>
 </table>
 
@@ -4379,12 +4377,12 @@ From its form it is clear that PCP _&ast;vuqa(i)ŋa_ is a nominalisation. The co
 <tr>
 <td>NNG</td><td>Mangseng</td><td><i>kir(oŋa)</i></td>
 <td>
-(N) '<span>file</span>' (<span><em>-oŋa</em> NOM</span>)</td>
+[N] '<span>file</span>' (<span><em>-oŋa</em> NOM</span>)</td>
 </tr>
 <tr>
 <td>SES</td><td>Gela</td><td><i>gi-giri</i></td>
 <td>
-(N) '<span>rasp; a saw</span>'</td>
+[N] '<span>rasp; a saw</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Lau</td><td><i>giri-giri</i></td>
@@ -4396,18 +4394,18 @@ From its form it is clear that PCP _&ast;vuqa(i)ŋa_ is a nominalisation. The co
 cf. also: 
 <table>
 <tr>
-<td>PT</td>
-<td>Motu</td>
-<td><i>riri</i></td>
-<td>
-'<span>grate (yams +)</span>'</td>
-</tr>
-<tr>
 <td>NNG</td>
 <td>Takia</td>
 <td><i>riri</i></td>
 <td>
 '<span>grate, pulverise by rubbing against s.t. rough; rasp</span>'</td>
+</tr>
+<tr>
+<td>PT</td>
+<td>Motu</td>
+<td><i>riri</i></td>
+<td>
+'<span>grate (yams +)</span>'</td>
 </tr>
 </table>
 
@@ -4490,17 +4488,17 @@ cf. also:
 <table>
 <tr>
 <td>SES</td>
+<td>Lau</td>
+<td><i>ʔaba</i></td>
+<td>
+'<span>hand, arm, wing; leaf, frond, cloth; portion, part</span>'</td>
+</tr>
+<tr>
+<td>SES</td>
 <td>Arosi</td>
 <td><i>ʔaba</i></td>
 <td>
 '<span>wing, limb; leaf (of banana +)</span>'</td>
-</tr>
-<tr>
-<td>SES</td>
-<td>Lau</td>
-<td><i>ʔaba</i></td>
-<td>
-'<span>hand, arm, wing; leaf, frond, cloth; portion, part</span>'; '<span>wing, hand, arm, foreleg</span>'</td>
 </tr>
 </table>
 
@@ -4591,18 +4589,18 @@ We have a reconstruction for the mallet used in beating _tapa_ which goes back a
 '<span>tapa-beating mallet</span>'</td>
 </tr>
 <tr>
+<td>WMP</td><td>Uma</td><td><i>ike</i></td>
+<td>
+'<span>tapa-beating mallet</span>' (<a href="../references.md#source-Kennedy1934">Kennedy1934: 237</a>)
+</td>
+</tr>
+<tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
 <i>&ast;ike</i>
 </td>
 <td>
 '<span>tapa beater</span>'</td>
-</tr>
-<tr>
-<td>WMP</td><td>Uma</td><td><i>ike</i></td>
-<td>
-'<span>tapa-beating mallet</span>' (<a href="../references.md#source-Kennedy1934">Kennedy1934: 237</a>)
-</td>
 </tr>
 <tr>
 <td>SES</td><td>Sa'a</td><td><i>iki (ʔoʔo)</i></td>
@@ -4800,7 +4798,7 @@ Perhaps surprisingly, there is no widely reflected item for 'grass-skirt' or, mo
 <i>&ast;nai</i>
 </td>
 <td>
-(V) '<span>woman's grass (shredded leaf?) skirt</span>'</td>
+[V] '<span>woman's grass (shredded leaf?) skirt</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Loniu</td><td><i>nay</i></td>
@@ -5122,12 +5120,12 @@ The term tattoo is Polynesian in origin:
 <i>&ast;tatau</i>
 </td>
 <td>
-(N, V) '<span>tattoo</span>'</td>
+[N, V] '<span>tattoo</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>tā-tatau</i></td>
 <td>
-(V) '<span>tattoo</span>'</td>
+[V] '<span>tattoo</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Samoan</td><td><i>tatau</i></td>
@@ -5167,12 +5165,12 @@ A different term for tattooing is reflected in some Southeast Solomonic and Micr
 <i>&ast;make</i>
 </td>
 <td>
-(N, V) '<span>tattoo</span>'</td>
+[N, V] '<span>tattoo</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>'Are'are</td><td><i>make</i></td>
 <td>
-(V) '<span>tattoo, draw</span>'</td>
+[V] '<span>tattoo, draw</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Puluwatese</td><td><i>mæk</i></td>
@@ -5187,7 +5185,7 @@ A different term for tattooing is reflected in some Southeast Solomonic and Micr
 <tr>
 <td>Mic</td><td>Carolinian</td><td><i>mæk</i></td>
 <td>
-(N, v) '<span>tattoo, mark, drawing, writing</span>'</td>
+[N, v] '<span>tattoo, mark, drawing, writing</span>'</td>
 </tr>
 </table>
 
@@ -5365,14 +5363,6 @@ A similar reconstruction, referring both to a particular shell and to an ornamen
 </td>
 </tr>
 <tr>
-<td><strong>PCP</strong></td><td> </td>
-<td>
-<i>&ast;jiva</i>
-</td>
-<td>
-'<span>pearl oyster</span>' (<span>metathesis</span>)</td>
-</tr>
-<tr>
 <td>NNG</td><td>Manam</td><td><i>sai</i></td>
 <td>
 '<span>pearlshell spoon</span>'</td>
@@ -5401,6 +5391,14 @@ A similar reconstruction, referring both to a particular shell and to an ornamen
 <td>SES</td><td>Arosi</td><td><i>dahi</i></td>
 <td>
 '<span>gold-lipped pearlshell</span>'</td>
+</tr>
+<tr>
+<td><strong>PCP</strong></td><td> </td>
+<td>
+<i>&ast;jiva</i>
+</td>
+<td>
+'<span>pearl oyster</span>' (<span>metathesis</span>)</td>
 </tr>
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>civa</i></td>
@@ -5460,17 +5458,17 @@ cf. also:
 <table>
 <tr>
 <td>PT</td>
-<td>Molima</td>
-<td><i>sapi-sapi</i></td>
-<td>
-'<span>large red shell discs sewn to belt</span>'</td>
-</tr>
-<tr>
-<td>PT</td>
 <td>Muyuw</td>
 <td><i>lap</i></td>
 <td>
 '<span>red discs in string of veigun (shell wealth)</span>'</td>
+</tr>
+<tr>
+<td>PT</td>
+<td>Molima</td>
+<td><i>sapi-sapi</i></td>
+<td>
+'<span>large red shell discs sewn to belt</span>'</td>
 </tr>
 </table>
 
@@ -5545,7 +5543,7 @@ We have not reconstructed a word for 'necklace', but we can reconstruct the verb
 <tr>
 <td>PT</td><td>Magori</td><td><i>turi</i></td>
 <td>
-(V) '<span>thread, sew</span>'</td>
+[V] '<span>thread, sew</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td>Lala</td><td><i>kuli-kuli</i></td>
@@ -5636,15 +5634,6 @@ POc inherited _&ast;saRu_ 'comb' from PMP. However, Remote Oceanic reflexes refl
 </td>
 </tr>
 <tr>
-<td><strong>ProtoRemoteOceanic</strong></td><td> </td>
-<td>
-<i>&ast;seru</i>
-</td>
-<td>
-'<span>comb</span>' (<a href="../references.md#source-Milke1968">Milke1968</a>)
-</td>
-</tr>
-<tr>
 <td>NNG</td><td>Manam</td><td><i>saru</i></td>
 <td>
 </td>
@@ -5665,6 +5654,15 @@ POc inherited _&ast;saRu_ 'comb' from PMP. However, Remote Oceanic reflexes refl
 </td>
 </tr>
 <tr>
+<td><strong>ProtoRemoteOceanic</strong></td><td> </td>
+<td>
+<i>&ast;seru</i>
+</td>
+<td>
+'<span>comb</span>' (<a href="../references.md#source-Milke1968">Milke1968</a>)
+</td>
+</tr>
+<tr>
 <td>NCV</td><td>Nguna</td><td><i>seru</i></td>
 <td>
 </td>
@@ -5677,17 +5675,17 @@ POc inherited _&ast;saRu_ 'comb' from PMP. However, Remote Oceanic reflexes refl
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>(i)seru</i></td>
 <td>
-(N) '<span>comb</span>' (<span>i- &lt; POc *i- INS</span>)</td>
+[N] '<span>comb</span>' (<span>i- &lt; POc *i- INS</span>)</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>helu</i></td>
 <td>
-(V) '<span>comb, (bird) preen</span>'; (N) '<span>comb</span>'</td>
+[V] '<span>comb, (bird) preen</span>'; [N] '<span>comb</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Samoan</td><td><i>selu</i></td>
 <td>
-(N, v) '<span>comb</span>'</td>
+[N, v] '<span>comb</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Māori</td><td><i>heru(a)</i></td>
@@ -6444,7 +6442,7 @@ Although words for musical instruments are candidates for borrowing, the fact th
 <tr>
 <td>MM</td><td>Tolai</td><td><i>avu(lar)</i></td>
 <td>
-(VT) '<span>brush or wipe off, as dust with the hand</span>'</td>
+[VT] '<span>brush or wipe off, as dust with the hand</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Talise</td><td><i>savu(lano)</i></td>
@@ -6594,25 +6592,25 @@ Figure 17: POc &ast;salap 'broom'
 cf. also: 
 <table>
 <tr>
+<td>MM</td>
+<td>Tolai</td>
+<td><i>are</i></td>
+<td>
+'<span>clear away</span>'</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>Sa'a</td>
+<td><i>sā-sala</i></td>
+<td>
+'<span>be clear, not touching the ground</span>'</td>
+</tr>
+<tr>
 <td>SES</td>
 <td>Arosi</td>
 <td><i>ma-sara</i></td>
 <td>
 '<span>burnt-off garden</span>'</td>
-</tr>
-<tr>
-<td>Fij</td>
-<td>Bauan</td>
-<td><i>ðara</i></td>
-<td>
-'<span>clear a walk of rubbish</span>'</td>
-</tr>
-<tr>
-<td>Fij</td>
-<td>Bauan</td>
-<td><i>ðara-ðara</i></td>
-<td>
-'<span>cleared, clean of weeds</span>'</td>
 </tr>
 <tr>
 <td>NCV</td>
@@ -6629,25 +6627,25 @@ cf. also:
 '<span>sweep</span>'</td>
 </tr>
 <tr>
-<td>SES</td>
-<td>Sa'a</td>
-<td><i>sā-sala</i></td>
-<td>
-'<span>be clear, not touching the ground</span>'</td>
-</tr>
-<tr>
-<td>MM</td>
-<td>Tolai</td>
-<td><i>are</i></td>
-<td>
-'<span>clear away</span>'</td>
-</tr>
-<tr>
 <td>Fij</td>
 <td>Wayan</td>
 <td><i>ðara</i></td>
 <td>
 '<span>clear a garden (burn off dried vegetation) for planting</span>'</td>
+</tr>
+<tr>
+<td>Fij</td>
+<td>Bauan</td>
+<td><i>ðara</i></td>
+<td>
+'<span>clear a walk of rubbish</span>'</td>
+</tr>
+<tr>
+<td>Fij</td>
+<td>Bauan</td>
+<td><i>ðara-ðara</i></td>
+<td>
+'<span>cleared, clean of weeds</span>'</td>
 </tr>
 </table>
 
@@ -6712,7 +6710,7 @@ Use of a wooden headrest as a pillow is widespread. Terms can be traced back to 
 <tr>
 <td>SES</td><td>Bugotu</td><td><i>uluŋa</i></td>
 <td>
-(N) '<span>pillow</span>'; (V) '<span>pillow (the head)</span>'</td>
+[N] '<span>pillow</span>'; [V] '<span>pillow (the head)</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Gela</td><td><i>uluŋa</i></td>
@@ -6722,7 +6720,7 @@ Use of a wooden headrest as a pillow is widespread. Terms can be traced back to 
 <tr>
 <td>SES</td><td>Ulawa</td><td><i>uluŋa</i></td>
 <td>
-(V) '<span>pillow, serve as a pillow</span>'</td>
+[V] '<span>pillow, serve as a pillow</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Mota</td><td><i>uluŋa</i></td>
@@ -6742,7 +6740,7 @@ Use of a wooden headrest as a pillow is widespread. Terms can be traced back to 
 <tr>
 <td>Mic</td><td>Ponapean</td><td><i>uluŋ</i></td>
 <td>
-(VT) '<span>use as pillow</span>'</td>
+[VT] '<span>use as pillow</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Trukese</td><td><i>wɨ̄n</i></td>

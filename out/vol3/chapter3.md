@@ -1,6 +1,4 @@
-# Ethnobotanical classification
-
-by Bethwyn Evans
+[Bethwyn Evans](.smallcaps)
 
 
 <a id="s-1"></a>
@@ -1382,7 +1380,7 @@ Evidence from non-Oceanic languages suggests that _&ast;lumut_ may have been the
 <tr>
 <td>MM</td><td>Tolai</td><td><i>limut</i></td>
 <td>
-(N) '<span>green colour or mossy growth on a canoe which has been standing in the water, seaweed, slime</span>'; (ADJ) '<span>green, blue, moss-green, colour of moss</span>'</td>
+[N] '<span>green colour or mossy growth on a canoe which has been standing in the water, seaweed, slime</span>'; [ADJ] '<span>green, blue, moss-green, colour of moss</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Ramoaaina</td><td><i>limut</i></td>
@@ -1738,7 +1736,7 @@ A number of modern Oceanic languages have a category of plants that is glossed a
 <td>Takia</td>
 <td><i>ud</i></td>
 <td>
-'<span>grass and weeds (generic)</span>'; '<span>weed, wild grass (generic)</span>'</td>
+'<span>weed, wild grass (generic)</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>

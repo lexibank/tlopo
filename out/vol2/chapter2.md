@@ -1,6 +1,4 @@
-# Locating Proto Oceanic
-
-by Pawley, A.
+[Pawley, A.](.smallcaps)
 
 
 <a id="s-1"></a>

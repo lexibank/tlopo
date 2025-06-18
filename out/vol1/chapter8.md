@@ -1,6 +1,4 @@
-# Fishing and Hunting Implements
-
-by Osmond, M.
+[Osmond, M.](.smallcaps)
 
 An earlier version of this chapter is included in [Lynch and Pat, eds,](../references.md#source-LynchPat1996) ([1996](../references.md#source-LynchPat1996)). I am grateful to Andrew Pawley and Malcolm Ross who have contributed substantially to the preparation of this chapter, to Atholl Anderson for his comments and to Jean Kennedy for drawing my attention to P.H. (Holly) McEldowney's thesis (1995), which contains a wealth of information on fishing techniques in the Admiralties.
 
@@ -30,7 +28,7 @@ Most Oceanic languages have a wide range of terms for different kinds of nets. T
 <i>&ast;puket</i>
 </td>
 <td>
-(N) '<span>dragnet</span>'; (V) '<span>surround, engulf</span>' (<a href="../references.md#source-Blust1972b">Blust1972b</a>)
+[N] '<span>dragnet</span>'; [V] '<span>surround, engulf</span>' (<a href="../references.md#source-Blust1972b">Blust1972b</a>)
 </td>
 </tr>
 <tr>
@@ -112,15 +110,6 @@ Reflexes of _&ast;pukot_ meaning specifically 'seine' occur in both WOc (Kove, N
 '<span>fishing net</span>'</td>
 </tr>
 <tr>
-<td><strong>PCP</strong></td><td> </td>
-<td>
-<i>&ast;dreke</i>
-</td>
-<td>
-'<span>recess, cavity, pocket of a seine net</span>' (<a href="../references.md#source-Biggs1965">Biggs1965</a>)
-</td>
-</tr>
-<tr>
 <td>PT</td><td>Balawaia</td><td><i>leke</i></td>
 <td>
 '<span>fishing net</span>'</td>
@@ -139,6 +128,15 @@ Reflexes of _&ast;pukot_ meaning specifically 'seine' occur in both WOc (Kove, N
 <td>MM</td><td>Vitu</td><td><i>neke</i></td>
 <td>
 '<span>fishing net, fish trap</span>' (<span><em>n-</em> for expected <em>**r-</em></span>)</td>
+</tr>
+<tr>
+<td><strong>PCP</strong></td><td> </td>
+<td>
+<i>&ast;dreke</i>
+</td>
+<td>
+'<span>recess, cavity, pocket of a seine net</span>' (<a href="../references.md#source-Biggs1965">Biggs1965</a>)
+</td>
 </tr>
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>dreke</i></td>
@@ -330,7 +328,7 @@ The techniques that involve large nets usually require use of floats and sinkers
 <tr>
 <td>NCV</td><td>Mota</td><td><i>uto</i></td>
 <td>
-(V) '<span>come above the surface in water</span>'</td>
+[V] '<span>come above the surface in water</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Ponapean</td><td><i>ūs</i></td>
@@ -632,7 +630,7 @@ Nonetheless, the linguistic evidence leaves us in no doubt that POc speakers wer
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>ðavo</i></td>
 <td>
-(v) '<span>fish with rod (and line)</span>'</td>
+[v] '<span>fish with rod (and line)</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>afo</i></td>
@@ -665,7 +663,7 @@ Nonetheless, the linguistic evidence leaves us in no doubt that POc speakers wer
 <i>&ast;kawil</i>
 </td>
 <td>
-(N) '<span>hook; fishhook</span>'</td>
+[N] '<span>hook; fishhook</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Baluan</td><td><i>kow</i></td>
@@ -997,7 +995,7 @@ John Lynch (pers.comm.) points out that the final _-ñ_ of Anejom _ne-pyañ_ ref
 <tr>
 <td>PT</td><td>Molima</td><td><i>bani</i></td>
 <td>
-(v) '<span>fish with hook and line</span>'</td>
+[v] '<span>fish with hook and line</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Ramoaaina</td><td><i>ban</i></td>
@@ -1306,7 +1304,7 @@ The kernel of the fruit of Barringtonia asiatica (POc _&ast;putun_) is used for 
 <i>&ast;(d)rama(R)</i>
 </td>
 <td>
-(N) '<span>torch</span>'; (V) '<span>fish at night with torch</span>'</td>
+[N] '<span>torch</span>'; [V] '<span>fish at night with torch</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Lou</td><td><i>(ka)ram</i></td>
@@ -1326,7 +1324,7 @@ The kernel of the fruit of Barringtonia asiatica (POc _&ast;putun_) is used for 
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>ama</i></td>
 <td>
-(V) '<span>fish at night by torch-light; torch made of coconut spathes bound together</span>'</td>
+[V] '<span>fish at night by torch-light; torch made of coconut spathes bound together</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Samoan</td><td><i>lama</i></td>
@@ -1362,7 +1360,7 @@ Most Oceanic languages contain a number of terms for spear, and it is probable t
 <i>&ast;saet</i>
 </td>
 <td>
-(N, v) '<span>spear</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
+[N, v] '<span>spear</span>' (<a href="../references.md#source-Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -1371,7 +1369,7 @@ Most Oceanic languages contain a number of terms for spear, and it is probable t
 <i>&ast;sao(t)</i>
 </td>
 <td>
-(N) '<span>spear</span>'</td>
+[N] '<span>spear</span>'</td>
 </tr>
 <tr>
 <td>SV</td><td>Sye</td><td><i>sau</i></td>
@@ -1678,12 +1676,12 @@ It seems from Western Oceanic and Mussau glosses that the original POc meaning o
 <i>&ast;sua</i>
 </td>
 <td>
-(N, V) '<span>spear (weapon retained in the hand)</span>'</td>
+[N, V] '<span>spear (weapon retained in the hand)</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Manam</td><td><i>sua(pu)</i></td>
 <td>
-(N) '<span>fish spear</span>'; (V) '<span>spear</span>'</td>
+[N] '<span>fish spear</span>'; [V] '<span>spear</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Poeng</td><td><i>sue</i></td>
@@ -1698,12 +1696,12 @@ It seems from Western Oceanic and Mussau glosses that the original POc meaning o
 <tr>
 <td>SES</td><td>Longgu</td><td><i>sua</i></td>
 <td>
-(N) '<span>spear</span>'</td>
+[N] '<span>spear</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Longgu</td><td><i>sua-</i></td>
 <td>
-(VT) '<span>pull out (spear, stick +)</span>'</td>
+[VT] '<span>pull out (spear, stick +)</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Lau</td><td><i>sua</i></td>
@@ -2098,7 +2096,7 @@ In the Southeast Solomons, Fiji and Polynesia at least (I have little informatio
 <i>&ast;paru</i>
 </td>
 <td>
-(N, v) '<span>club</span>'</td>
+[N, v] '<span>club</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td>Molima</td><td><i>pulu(mai)</i></td>
@@ -2207,12 +2205,12 @@ and an even more questionable reconstruction, in view of irregular final vowels:
 <tr>
 <td>Pn</td><td>Rarotongan</td><td><i>maka</i></td>
 <td>
-(v) '<span>throw; hurl; sling</span>'; (N) '<span>sling, stone</span>'</td>
+[v] '<span>throw; hurl; sling</span>'; [N] '<span>sling, stone</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tahitian</td><td><i>maʔa</i></td>
 <td>
-(N, V) '<span>sling</span>'</td>
+[N, V] '<span>sling</span>'</td>
 </tr>
 </table>
 
@@ -2235,7 +2233,7 @@ and an even more questionable reconstruction, in view of irregular final vowels:
 <tr>
 <td>SES</td><td>Arosi</td><td><i>ʔaro(rabu)</i></td>
 <td>
-(N) '<span>sling</span>' (<span><em>ʔaro</em> 'turn round and round', <em>rabu</em> (V) 'strike or knock s.t. '</span>)</td>
+[N] '<span>sling</span>' (<span><em>ʔaro</em> 'turn round and round', <em>rabu</em> (V) 'strike or knock s.t. '</span>)</td>
 </tr>
 </table>
 
@@ -2301,7 +2299,7 @@ Birds are caught for food throughout the region, often by netting or by ground s
 <i>&ast;pʷita, pʷita-i-</i>
 </td>
 <td>
-(N) '<span>snare</span>'; (V) '<span>tie by encircling, ensnare</span>'</td>
+[N] '<span>snare</span>'; [V] '<span>tie by encircling, ensnare</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Lukep</td><td><i>wit</i></td>
@@ -2366,7 +2364,7 @@ Birds are caught for food throughout the region, often by netting or by ground s
 <tr>
 <td>MM</td><td>Ramoaaina</td><td><i>piti</i></td>
 <td>
-(v) '<span>snare</span>'</td>
+[v] '<span>snare</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Gela</td><td><i>piti-</i></td>
@@ -2414,7 +2412,7 @@ With regard to the reconstruction of _&ast;(p,pʷ)_, see Chapter 2, §2.1.
 <tr>
 <td>NCV</td><td>Mota</td><td><i>tar</i></td>
 <td>
-(V) '<span>lay (net +)</span>'</td>
+[V] '<span>lay (net +)</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>dai</i></td>

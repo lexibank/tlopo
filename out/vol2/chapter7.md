@@ -1,6 +1,4 @@
-# Properties of inanimate objects
-
-by Malcolm Ross
+[Malcolm Ross](.smallcaps)
 
 
 <a id="s-1"></a>
@@ -739,14 +737,6 @@ Also apparently reconstructable are _&ast;drik(i)_, _&ast;liki_, _&ast;siki_ and
 '<span>small</span>'</td>
 </tr>
 <tr>
-<td><strong>PWOc</strong></td><td> </td>
-<td>
-<i>&ast;siki</i>
-</td>
-<td>
-'<span>small</span>'</td>
-</tr>
-<tr>
 <td>MM</td><td>Torau</td><td><i>kiki-(na)</i></td>
 <td>
 </td>
@@ -775,6 +765,14 @@ Also apparently reconstructable are _&ast;drik(i)_, _&ast;liki_, _&ast;siki_ and
 <td>NCV</td><td>Port Sandwich</td><td><i>kekei</i></td>
 <td>
 </td>
+</tr>
+<tr>
+<td><strong>PWOc</strong></td><td> </td>
+<td>
+<i>&ast;siki</i>
+</td>
+<td>
+'<span>small</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Adzera</td><td><i>(i)siʔ</i></td>
@@ -817,14 +815,6 @@ There is good evidence that POc had at least two lexicalised possessee-like attr
 '<span>her/his mother; big, biggest</span>'</td>
 </tr>
 <tr>
-<td><strong>POc</strong></td><td> </td>
-<td>
-<i>&ast;natu-ña</i>
-</td>
-<td>
-'<span>her/his child; small, smallest</span>'</td>
-</tr>
-<tr>
 <td>Adm</td><td>Bipi</td><td><i>tinan</i></td>
 <td>
 '<span>big</span>'</td>
@@ -858,6 +848,14 @@ There is good evidence that POc had at least two lexicalised possessee-like attr
 <td>NCV</td><td>Fortsenal</td><td><i>tina-na</i></td>
 <td>
 '<span>mother, huge, large</span>'</td>
+</tr>
+<tr>
+<td><strong>POc</strong></td><td> </td>
+<td>
+<i>&ast;natu-ña</i>
+</td>
+<td>
+'<span>her/his child; small, smallest</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Drehet</td><td><i>neči</i></td>
@@ -1281,7 +1279,7 @@ Two terms for ‘short’ are reconstructed. All the supporting data for _&ast;t
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>boto</i></td>
 <td>
-(postposed particle) '<span>restrictive, only, just</span>'</td>
+[postposed particle] '<span>restrictive, only, just</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Rotuman</td><td><i>pofo</i></td>
@@ -1329,7 +1327,7 @@ A POc verbal root _&ast;sauq_ (V) ‘be far away’ is reconstructable.
 <i>&ast;sauq</i>
 </td>
 <td>
-(V) '<span>be far away</span>'</td>
+[V] '<span>be far away</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
@@ -1337,22 +1335,22 @@ A POc verbal root _&ast;sauq_ (V) ‘be far away’ is reconstructable.
 <i>&ast;sau-sauq</i>
 </td>
 <td>
-(ADV) '<span>far away</span>'</td>
+[ADV] '<span>far away</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td>Tawala</td><td><i>dau</i></td>
 <td>
-(V) '<span>be far</span>'</td>
+[V] '<span>be far</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td>Tawala</td><td><i>dau-dau-na</i></td>
 <td>
-(ADJ) '<span>far, long</span>'</td>
+[ADJ] '<span>far, long</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td>Motu</td><td><i>dau-dau</i></td>
 <td>
-(ADV) '<span>far away</span>'</td>
+[ADV] '<span>far away</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Bali</td><td><i>zauku</i></td>
@@ -1397,7 +1395,7 @@ A POc verbal root _&ast;sauq_ (V) ‘be far away’ is reconstructable.
 <tr>
 <td>SES</td><td>Longgu</td><td><i>tau</i></td>
 <td>
-(V) '<span>be far</span>'</td>
+[V] '<span>be far</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Kwaio</td><td><i>tau</i></td>
@@ -1412,27 +1410,27 @@ A POc verbal root _&ast;sauq_ (V) ‘be far away’ is reconstructable.
 <tr>
 <td>NCV</td><td>Raga</td><td><i>hau(tu)</i></td>
 <td>
-(ADV) '<span>far</span>'</td>
+[ADV] '<span>far</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Paamese</td><td><i>sau(tin)</i></td>
 <td>
-(ADV) '<span>far</span>'</td>
+[ADV] '<span>far</span>'</td>
 </tr>
 <tr>
 <td>SV</td><td>N. Tanna</td><td><i>(i)sou</i></td>
 <td>
-(ADV) '<span>far</span>'</td>
+[ADV] '<span>far</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Kiribatese</td><td><i>rā-roa</i></td>
 <td>
-(ADV) '<span>far</span>'</td>
+[ADV] '<span>far</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Ponapean</td><td><i>tō</i></td>
 <td>
-(ADJ) '<span>distant, far off</span>'</td>
+[ADJ] '<span>distant, far off</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Mokilese</td><td><i>tō</i></td>
@@ -1452,12 +1450,12 @@ A POc verbal root _&ast;sauq_ (V) ‘be far away’ is reconstructable.
 <tr>
 <td>Mic</td><td>Woleaian</td><td><i>ttāw</i></td>
 <td>
-(ADV) '<span>far</span>'</td>
+[ADV] '<span>far</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Rotuman</td><td><i>sou-sou</i></td>
 <td>
-(ADV) '<span>far</span>'</td>
+[ADV] '<span>far</span>'</td>
 </tr>
 </table>
 
@@ -1482,15 +1480,7 @@ A POc verbal root _&ast;sauq_ (V) ‘be far away’ is reconstructable.
 <i>&ast;ma-sauq</i>
 </td>
 <td>
-(V) '<span>be far away</span>'</td>
-</tr>
-<tr>
-<td><strong>PWOc</strong></td><td> </td>
-<td>
-<i>&ast;ka-sauq</i>
-</td>
-<td>
-(V) '<span>be far away</span>'</td>
+[V] '<span>be far away</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Mussau</td><td><i>masau</i></td>
@@ -1498,19 +1488,27 @@ A POc verbal root _&ast;sauq_ (V) ‘be far away’ is reconstructable.
 '<span>far away</span>'</td>
 </tr>
 <tr>
+<td><strong>PWOc</strong></td><td> </td>
+<td>
+<i>&ast;ka-sauq</i>
+</td>
+<td>
+[V] '<span>be far away</span>'</td>
+</tr>
+<tr>
 <td>NNG</td><td>Takia</td><td><i>asau</i></td>
 <td>
-(ADV, ADJ) '<span>far away</span>'</td>
+[ADV, ADJ] '<span>far away</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Manam</td><td><i>kasau</i></td>
 <td>
-(ADJ) '<span>far away</span>'</td>
+[ADJ] '<span>far away</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Manam</td><td><i>kasau(ba)</i></td>
 <td>
-(ADV) '<span>far away</span>'</td>
+[ADV] '<span>far away</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Babatana</td><td><i>köu</i></td>
@@ -1609,17 +1607,17 @@ POc _&ast;raŋi_ appears to be descended from PMP _&ast;dani_. The replacement o
 <tr>
 <td>SES</td><td>Lau</td><td><i>garaŋi</i></td>
 <td>
-(ADV) '<span>near</span>'</td>
+[ADV] '<span>near</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Kwaio</td><td><i>galani, galaŋi</i></td>
 <td>
-(ADV) '<span>near</span>'</td>
+[ADV] '<span>near</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Kwaio</td><td><i>galani-a, galaŋi-a</i></td>
 <td>
-(V) '<span>be near</span>'</td>
+[V] '<span>be near</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Arosi</td><td><i>garaŋi</i></td>
@@ -1647,17 +1645,17 @@ POc _&ast;raŋi_ appears to be descended from PMP _&ast;dani_. The replacement o
 <tr>
 <td>Adm</td><td>Mussau</td><td><i>kala-kalangi-na</i></td>
 <td>
-(ADV) '<span>near</span>'</td>
+[ADV] '<span>near</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Mangap</td><td><i>kolouŋa-na</i></td>
 <td>
-(ADV) '<span>near</span>'</td>
+[ADV] '<span>near</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Poeng</td><td><i>ko-koroŋo</i></td>
 <td>
-(ADV) '<span>near</span>'</td>
+[ADV] '<span>near</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Gela</td><td><i>ɣaraŋi</i></td>
@@ -1715,7 +1713,7 @@ There was also a POc term &ast;tata ‘near’, perhaps an adverb:
 <i>&ast;tata</i>
 </td>
 <td>
-(ADV) '<span>near</span>'</td>
+[ADV] '<span>near</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Lungga</td><td><i>tata</i></td>
@@ -1730,7 +1728,7 @@ There was also a POc term &ast;tata ‘near’, perhaps an adverb:
 <tr>
 <td>MM</td><td>Roviana</td><td><i>tata</i></td>
 <td>
-(ADV) '<span>near</span>'</td>
+[ADV] '<span>near</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Hoava</td><td><i>tata</i></td>
@@ -1745,7 +1743,7 @@ There was also a POc term &ast;tata ‘near’, perhaps an adverb:
 <tr>
 <td>Pn</td><td>Tahitian</td><td><i>fa-tata</i></td>
 <td>
-(ADV) '<span>near</span>'</td>
+[ADV] '<span>near</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Māori</td><td><i>tata</i></td>
@@ -1804,7 +1802,7 @@ There was also a POc term &ast;tata ‘near’, perhaps an adverb:
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>tafola</i></td>
 <td>
-(VI) '<span>be spread out, scattered about</span>'</td>
+[VI] '<span>be spread out, scattered about</span>'</td>
 </tr>
 </table>
 
@@ -2922,12 +2920,12 @@ One colour term of the form _&ast;ma-_ + ROOT has no known non-Oceanic cognates.
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>karawa</i></td>
 <td>
-(V) '<span>be blue, blue-green, green</span>'</td>
+[V] '<span>be blue, blue-green, green</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>kara-karawa</i></td>
 <td>
-(V, ADJ) '<span>blue, blue-green, green</span>'</td>
+[V, ADJ] '<span>blue, blue-green, green</span>'</td>
 </tr>
 </table>
 
@@ -3046,14 +3044,14 @@ One colour term of the form _&ast;ma-_ + ROOT has no known non-Oceanic cognates.
 <td>Kairiru</td>
 <td><i>mera-mer</i></td>
 <td>
-'<span>red</span>'</td>
+'<span>red</span>' (<span><em>mer</em> ‘red paint’</span>)</td>
 </tr>
 <tr>
 <td>NNG</td>
 <td>Kairiru</td>
 <td><i>yaŋ-yaŋ</i></td>
 <td>
-'<span>yellow</span>'</td>
+'<span>yellow</span>' (<span><em>yaŋ</em> ‘yellow paint, white or yellow skinned people’</span>)</td>
 </tr>
 </table>
 
@@ -3174,14 +3172,14 @@ One colour term of the form _&ast;ma-_ + ROOT has no known non-Oceanic cognates.
 <td>Mota</td>
 <td><i>aŋo-aŋo</i></td>
 <td>
-'<span>yellow</span>' (<span><em>aŋo</em> ‘turmeric’</span>)</td>
+'<span>yellow</span>'</td>
 </tr>
 <tr>
 <td>NCV</td>
 <td>Mota</td>
 <td><i>aŋo</i></td>
 <td>
-'<span>turmeric</span>'; '<span>turmeric; yellow</span>'</td>
+'<span>turmeric; yellow</span>'</td>
 </tr>
 </table>
 
@@ -3324,7 +3322,7 @@ From these examples we see that the colour term is often derived from a noun who
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>aŋo-aŋo</i></td>
 <td>
-(V, ADJ) '<span>(be) yellow</span>'</td>
+[V, ADJ] '<span>(be) yellow</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>eŋa-eŋa</i></td>
@@ -3628,7 +3626,7 @@ The term _&ast;raba(r)_ may have denoted the property ‘flat’, but there are 
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>raba</i></td>
 <td>
-(N) '<span>breadth, width</span>'; (ADJ) '<span>broad, wide</span>'</td>
+[N] '<span>breadth, width</span>'; [ADJ] '<span>broad, wide</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Nadroga</td><td><i>raba</i></td>
@@ -3641,17 +3639,17 @@ cf. also:
 <table>
 <tr>
 <td>Pn</td>
-<td>Samoan</td>
-<td><i>lafa-lafa</i></td>
-<td>
-'<span>flat; the level top of a mountain</span>'</td>
-</tr>
-<tr>
-<td>Pn</td>
 <td>Tongan</td>
 <td><i>lafa-lafa</i></td>
 <td>
 '<span>flat</span>'</td>
+</tr>
+<tr>
+<td>Pn</td>
+<td>Samoan</td>
+<td><i>lafa-lafa</i></td>
+<td>
+'<span>flat; the level top of a mountain</span>'</td>
 </tr>
 </table>
 
@@ -3743,22 +3741,22 @@ The data require that we reconstruct two variants for each of the three terms. T
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>koto</i></td>
 <td>
-(V) '<span>lie down</span>'; (ADJ) '<span>extended, stretched out</span>'</td>
+[V] '<span>lie down</span>'; [ADJ] '<span>extended, stretched out</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>to-koto</i></td>
 <td>
-(V) '<span>lie down</span>'</td>
+[V] '<span>lie down</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Samoan</td><td><i>ta-ʔoto</i></td>
 <td>
-(V) '<span>lie down</span>'</td>
+[V] '<span>lie down</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Māori</td><td><i>ta-koto</i></td>
 <td>
-(V) '<span>lie down</span>'</td>
+[V] '<span>lie down</span>'</td>
 </tr>
 </table>
 
@@ -4357,14 +4355,6 @@ Two POc terms, _&ast;[ma]lumu_ and _&ast;ma-luas_, express ‘soft, gentle’.
 '<span>soft, gentle, easy</span>'</td>
 </tr>
 <tr>
-<td><strong>PPn</strong></td><td> </td>
-<td>
-<i>&ast;malū</i>
-</td>
-<td>
-'<span>soft (of a substance), calm (of day, sea)</span>' (<span>irregular loss of <em>*-m-</em> in all Polynesian reflexes</span>)</td>
-</tr>
-<tr>
 <td>NNG</td><td>Bariai</td><td><i>marum</i></td>
 <td>
 '<span>soft</span>'</td>
@@ -4407,7 +4397,7 @@ Two POc terms, _&ast;[ma]lumu_ and _&ast;ma-luas_, express ‘soft, gentle’.
 <tr>
 <td>SES</td><td>Arosi</td><td><i>rumu</i></td>
 <td>
-'<span>oil</span>' (<span>cf. rumu-rumu 'moss'</span>)</td>
+'<span>oil</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Arosi</td><td><i>marumu-rumu</i></td>
@@ -4438,6 +4428,14 @@ Two POc terms, _&ast;[ma]lumu_ and _&ast;ma-luas_, express ‘soft, gentle’.
 <td>Fij</td><td>Bauan</td><td><i>malumu</i></td>
 <td>
 '<span>weak, faint, sick, soft</span>'</td>
+</tr>
+<tr>
+<td><strong>PPn</strong></td><td> </td>
+<td>
+<i>&ast;malū</i>
+</td>
+<td>
+'<span>soft (of a substance), calm (of day, sea)</span>' (<span>irregular loss of <em>*-m-</em> in all Polynesian reflexes</span>)</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>malū</i></td>
@@ -5135,7 +5133,7 @@ The other cognate set meaning ‘cold’ appears to reflect both _&ast;malaso_ �
 <i>&ast;malaso-ŋ</i>
 </td>
 <td>
-(N) '<span>cold</span>'</td>
+[N] '<span>cold</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Roinji</td><td><i>malasu(na)</i></td>
@@ -5170,12 +5168,12 @@ The other cognate set meaning ‘cold’ appears to reflect both _&ast;malaso_ �
 <tr>
 <td>NCV</td><td>Mota</td><td><i>malaso</i></td>
 <td>
-(N) '<span>cold</span>'</td>
+[N] '<span>cold</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Uripiv</td><td><i>melas</i></td>
 <td>
-(N) '<span>cold</span>'</td>
+[N] '<span>cold</span>'</td>
 </tr>
 <tr>
 <td>SV</td><td>Lenakel</td><td><i>mhal</i></td>
@@ -5221,7 +5219,7 @@ The English words ‘dry’ and ‘wet’ are polysemous. The meanings of ‘dry
 <tr>
 <td>MM</td><td>Ramoaaina</td><td><i>polo</i></td>
 <td>
-(V) '<span>wet, muddy, swampy</span>'; (N) '<span>liquid, fluid</span>'</td>
+[V] '<span>wet, muddy, swampy</span>'; [N] '<span>liquid, fluid</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>bulu-bulu</i></td>
@@ -5271,7 +5269,7 @@ POc _&ast;karaŋo_ is obviously formally related to _&ast;[ma]raŋo_, but its re
 <i>&ast;[ma]maca</i>
 </td>
 <td>
-(V) '<span>dry up, evaporate, be empty of liquid</span>'; (N) '<span>low tide</span>'</td>
+[V] '<span>dry up, evaporate, be empty of liquid</span>'; [N] '<span>low tide</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Aua</td><td><i>mamaha</i></td>
@@ -5499,7 +5497,7 @@ POc _&ast;[ma-](r,R)aŋo_ displays a phonological problem. Apparent non-Oceanic 
 '<span>withered, dry (leaves, husk, tree)</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Halia</td><td><i>raŋo</i></td>
+<td>MM</td><td>Selau</td><td><i>raŋo</i></td>
 <td>
 '<span>dry</span>'</td>
 </tr>

@@ -1,6 +1,4 @@
-# Navigation and the heavens
-
-by Meredith Osmond
+[Meredith Osmond](.smallcaps)
 
 
 <a id="s-1"></a>
@@ -376,14 +374,6 @@ Reconstruction of a POc term for the sun itself is not clearcut. Blust has recon
 </td>
 </tr>
 <tr>
-<td><strong>POc</strong></td><td> </td>
-<td>
-<i>&ast;qaco</i>
-</td>
-<td>
-'<span>sun, daytime</span>'</td>
-</tr>
-<tr>
 <td>WMP</td><td>Itbayat</td><td><i>araw</i></td>
 <td>
 '<span>sun</span>'</td>
@@ -432,6 +422,14 @@ Reconstruction of a POc term for the sun itself is not clearcut. Blust has recon
 <td>CMP</td><td>Yamdena</td><td><i>lere</i></td>
 <td>
 '<span>sun; day</span>'</td>
+</tr>
+<tr>
+<td><strong>POc</strong></td><td> </td>
+<td>
+<i>&ast;qaco</i>
+</td>
+<td>
+'<span>sun, daytime</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Ponam</td><td><i>al</i></td>
@@ -562,7 +560,7 @@ Reconstruction of a POc term for the sun itself is not clearcut. Blust has recon
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>ʔaho</i></td>
 <td>
-(N) '<span>day</span>'; (V) '<span>be day or daylight</span>'</td>
+[N] '<span>day</span>'; [V] '<span>be day or daylight</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Rennellese</td><td><i>ʔaso</i></td>
@@ -612,7 +610,7 @@ Proto Nuclear Polynesian shows a split between &ast;qaso ‘day, as a period of 
 <tr>
 <td>Pn</td><td>Rennellese</td><td><i>ʔao</i></td>
 <td>
-(N) '<span>day, daylight</span>'; (V) '<span>be daylight</span>'</td>
+[N] '<span>day, daylight</span>'; [V] '<span>be daylight</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Rarotongan</td><td><i>ao</i></td>
@@ -627,7 +625,7 @@ Proto Nuclear Polynesian shows a split between &ast;qaso ‘day, as a period of 
 <tr>
 <td>Pn</td><td>Māori</td><td><i>ao</i></td>
 <td>
-(N) '<span>daytime as opposed to night</span>'; (VI) '<span>dawn, become day</span>'</td>
+[N] '<span>daytime as opposed to night</span>'; [VI] '<span>dawn, become day</span>'</td>
 </tr>
 </table>
 
@@ -834,7 +832,7 @@ The preceding cognate set may ultimately be connected with the following one. Ho
 <i>&ast;[dr,r]aqā</i>
 </td>
 <td>
-(N) '<span>sun’s heat, sunlight</span>'; (VI) '<span>(sun) shine, be hot, be bright</span>'</td>
+[N] '<span>sun’s heat, sunlight</span>'; [VI] '<span>(sun) shine, be hot, be bright</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
@@ -842,7 +840,72 @@ The preceding cognate set may ultimately be connected with the following one. Ho
 <i>&ast;[dr,r]aqa-ŋi</i>
 </td>
 <td>
-(VT) '<span>shine on</span>'</td>
+[VT] '<span>shine on</span>'</td>
+</tr>
+<tr>
+<td>NNG</td><td>Mapos Buang</td><td><i>rŋ(ah)</i></td>
+<td>
+'<span>daytime</span>'</td>
+</tr>
+<tr>
+<td>PT</td><td>Motu</td><td><i>rarai(a)</i></td>
+<td>
+[VT] '<span>shine, of sun and moon</span>'</td>
+</tr>
+<tr>
+<td>MM</td><td>Tigak</td><td><i>gan(ias)</i></td>
+<td>
+'<span>daytime</span>'</td>
+</tr>
+<tr>
+<td>SES</td><td>Bugotu</td><td><i>raŋi</i></td>
+<td>
+[VI] '<span>shine, of sun</span>'</td>
+</tr>
+<tr>
+<td>SES</td><td>Lau</td><td><i>rā</i></td>
+<td>
+'<span>sunlight</span>'</td>
+</tr>
+<tr>
+<td>SES</td><td>Lau</td><td><i>rara</i></td>
+<td>
+[VI] '<span>shine, be hot, warm</span>'</td>
+</tr>
+<tr>
+<td>SES</td><td>Lau</td><td><i>raraŋi</i></td>
+<td>
+[VT] '<span>shine upon</span>'</td>
+</tr>
+<tr>
+<td>SES</td><td>'Are'are</td><td><i>rārā</i></td>
+<td>
+'<span>scorch, singe, of sun and fire</span>'</td>
+</tr>
+<tr>
+<td>SES</td><td>Sa'a</td><td><i>rā, rārā</i></td>
+<td>
+[V] '<span>shine brightly</span>'; [N] '<span>the sun’s light, radiance</span>'</td>
+</tr>
+<tr>
+<td>SES</td><td>Arosi</td><td><i>rā</i></td>
+<td>
+[V] '<span>be hot, bright; shine</span>'</td>
+</tr>
+<tr>
+<td>SES</td><td>Arosi</td><td><i>rārā(na)</i></td>
+<td>
+[N] '<span>sunshine, heat of sun or fire</span>'; [VI] '<span>shine, be hot</span>'</td>
+</tr>
+<tr>
+<td>SES</td><td>Arosi</td><td><i>rāŋi</i></td>
+<td>
+[VT] '<span>shine on</span>'</td>
+</tr>
+<tr>
+<td>Fij</td><td>Wayan</td><td><i>drā</i></td>
+<td>
+[VI] '<span>(sun, moon, star) shine</span>'</td>
 </tr>
 <tr>
 <td><strong>PPn</strong></td><td> </td>
@@ -853,74 +916,9 @@ The preceding cognate set may ultimately be connected with the following one. Ho
 '<span>sun</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td>Mapos Buang</td><td><i>rŋ(ah)</i></td>
-<td>
-'<span>daytime</span>'</td>
-</tr>
-<tr>
-<td>PT</td><td>Motu</td><td><i>rarai(a)</i></td>
-<td>
-(VT) '<span>shine, of sun and moon</span>'</td>
-</tr>
-<tr>
-<td>MM</td><td>Tigak</td><td><i>gan(ias)</i></td>
-<td>
-'<span>daytime</span>'</td>
-</tr>
-<tr>
-<td>SES</td><td>Bugotu</td><td><i>raŋi</i></td>
-<td>
-(VI) '<span>shine, of sun</span>'</td>
-</tr>
-<tr>
-<td>SES</td><td>Lau</td><td><i>rā</i></td>
-<td>
-'<span>sunlight</span>'</td>
-</tr>
-<tr>
-<td>SES</td><td>Lau</td><td><i>rara</i></td>
-<td>
-(VI) '<span>shine, be hot, warm</span>'</td>
-</tr>
-<tr>
-<td>SES</td><td>Lau</td><td><i>raraŋi</i></td>
-<td>
-(VT) '<span>shine upon</span>'</td>
-</tr>
-<tr>
-<td>SES</td><td>'Are'are</td><td><i>rārā</i></td>
-<td>
-'<span>scorch, singe, of sun and fire</span>'</td>
-</tr>
-<tr>
-<td>SES</td><td>Sa'a</td><td><i>rā, rārā</i></td>
-<td>
-(V) '<span>shine brightly</span>'; (N) '<span>the sun’s light, radiance</span>'</td>
-</tr>
-<tr>
-<td>SES</td><td>Arosi</td><td><i>rā</i></td>
-<td>
-(V) '<span>be hot, bright; shine</span>'</td>
-</tr>
-<tr>
-<td>SES</td><td>Arosi</td><td><i>rārā(na)</i></td>
-<td>
-(N) '<span>sunshine, heat of sun or fire</span>'; (VI) '<span>shine, be hot</span>'</td>
-</tr>
-<tr>
-<td>SES</td><td>Arosi</td><td><i>rāŋi</i></td>
-<td>
-(VT) '<span>shine on</span>'</td>
-</tr>
-<tr>
-<td>Fij</td><td>Wayan</td><td><i>drā</i></td>
-<td>
-(VI) '<span>(sun, moon, star) shine</span>'</td>
-</tr>
-<tr>
 <td>Pn</td><td>Tongan</td><td><i>laʔā</i></td>
 <td>
-(N) '<span>sun</span>'; (VI) '<span>be sunny</span>'</td>
+[N] '<span>sun</span>'; [VI] '<span>be sunny</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Niuean</td><td><i>laā</i></td>
@@ -935,7 +933,7 @@ The preceding cognate set may ultimately be connected with the following one. Ho
 <tr>
 <td>Pn</td><td>Rennellese</td><td><i>gaʔā</i></td>
 <td>
-(N) '<span>sun</span>'; (V) '<span>sun, sunbathe, dry in the sun</span>'</td>
+[N] '<span>sun</span>'; [V] '<span>sun, sunbathe, dry in the sun</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Māori</td><td><i>rā</i></td>
@@ -970,7 +968,7 @@ The following set focuses on effects of the sun’s heat as opposed to its light
 <i>&ast;raraŋ</i>
 </td>
 <td>
-(VI) '<span>be warm, hot, of sun; be warmed or heated by fire or sun</span>'</td>
+[VI] '<span>be warm, hot, of sun; be warmed or heated by fire or sun</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
@@ -978,7 +976,7 @@ The following set focuses on effects of the sun’s heat as opposed to its light
 <i>&ast;[ra]raŋ-i</i>
 </td>
 <td>
-(VT) '<span>warm, dry s.o., s.t. by sun or fire</span>'</td>
+[VT] '<span>warm, dry s.o., s.t. by sun or fire</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td>Molima</td><td><i>lala</i></td>
@@ -988,12 +986,12 @@ The following set focuses on effects of the sun’s heat as opposed to its light
 <tr>
 <td>MM</td><td>Tolai</td><td><i>raŋ, raraŋ</i></td>
 <td>
-(VT) '<span>scorch, dry, warm, by sun or fire</span>'</td>
+[VT] '<span>scorch, dry, warm, by sun or fire</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Bugotu</td><td><i>raraŋi</i></td>
 <td>
-(VT) '<span>heat</span>'</td>
+[VT] '<span>heat</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Tolo</td><td><i>raŋi-</i></td>
@@ -1003,7 +1001,7 @@ The following set focuses on effects of the sun’s heat as opposed to its light
 <tr>
 <td>SES</td><td>'Are'are</td><td><i>rara</i></td>
 <td>
-(VI) '<span>be warm, hot, of sun</span>'</td>
+[VI] '<span>be warm, hot, of sun</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>'Are'are</td><td><i>rarani-</i></td>
@@ -1033,22 +1031,22 @@ The following set focuses on effects of the sun’s heat as opposed to its light
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>rara</i></td>
 <td>
-(VI) '<span>(patient subject) heated, warmed</span>'; '<span>(pot) fired, baked</span>'; '<span>(fish) smoked</span>'</td>
+[VI] '<span>(patient subject) heated, warmed</span>'; '<span>(pot) fired, baked</span>'; '<span>(fish) smoked</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>rarani</i></td>
 <td>
-(VT) '<span>warm s.t.</span>' (<span>n for exp. ŋ</span>)</td>
+[VT] '<span>warm s.t.</span>' (<span>n for exp. ŋ</span>)</td>
 </tr>
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>rara</i></td>
 <td>
-(VI) '<span>warm oneself at a fire</span>'</td>
+[VI] '<span>warm oneself at a fire</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Bauan</td><td><i>raraŋ-</i></td>
 <td>
-(VT) '<span>reheat food by a fire, sear banana leaves</span>'</td>
+[VT] '<span>reheat food by a fire, sear banana leaves</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>ā</i></td>
@@ -1092,7 +1090,7 @@ Yet another contender for the POc term for sun is _&ast;sinaR_, which Blust (199
 <i>&ast;sinaR</i>
 </td>
 <td>
-(V) '<span>shine</span>'; (N) '<span>sun</span>'</td>
+[V] '<span>shine</span>'; [N] '<span>sun</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td>Mussau</td><td><i>sinaka</i></td>
@@ -1117,12 +1115,12 @@ Yet another contender for the POc term for sun is _&ast;sinaR_, which Blust (199
 <tr>
 <td>MM</td><td>Lavongai</td><td><i>sinaŋ</i></td>
 <td>
-(N) '<span>sun</span>'; (V) '<span>(sun) shine</span>'</td>
+[N] '<span>sun</span>'; [V] '<span>(sun) shine</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Tigak</td><td><i>siŋan</i></td>
 <td>
-(V) '<span>(sun) shine</span>' (<span>metathesis</span>)</td>
+[V] '<span>(sun) shine</span>' (<span>metathesis</span>)</td>
 </tr>
 <tr>
 <td>SES</td><td>Lau</td><td><i>sina</i></td>
@@ -1137,7 +1135,7 @@ Yet another contender for the POc term for sun is _&ast;sinaR_, which Blust (199
 <tr>
 <td>SES</td><td>'Are'are</td><td><i>sina</i></td>
 <td>
-(V) '<span>shine, brighten</span>'; (N) '<span>light, brightness</span>'</td>
+[V] '<span>shine, brighten</span>'; [N] '<span>light, brightness</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Sa'a</td><td><i>sineli</i></td>
@@ -1157,7 +1155,7 @@ Yet another contender for the POc term for sun is _&ast;sinaR_, which Blust (199
 <tr>
 <td>Mic</td><td>Trukese</td><td><i>ttira</i></td>
 <td>
-(V) '<span>shine</span>'; (N) '<span>ray, brightness, beam</span>'</td>
+[V] '<span>shine</span>'; [N] '<span>ray, brightness, beam</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Puluwatese</td><td><i>tin</i></td>
@@ -1172,7 +1170,7 @@ Yet another contender for the POc term for sun is _&ast;sinaR_, which Blust (199
 <tr>
 <td>Mic</td><td>Satawalese</td><td><i>ttin</i></td>
 <td>
-(V) '<span>shine</span>'; (N) '<span>ray, brightness, beam</span>'</td>
+[V] '<span>shine</span>'; [N] '<span>ray, brightness, beam</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Rotuman</td><td><i>sina</i></td>
@@ -2250,14 +2248,6 @@ In Polynesia and Micronesia a different term, translatable literally as ‘small
 '<span>name given to a significant star cluster</span>'</td>
 </tr>
 <tr>
-<td><strong>PPn</strong></td><td> </td>
-<td>
-<i>&ast;mataliki</i>
-</td>
-<td>
-'<span>Pleiades</span>'</td>
-</tr>
-<tr>
 <td>Mic</td><td>Marshallese</td><td><i>mæcɛt-ṛikṛik</i></td>
 <td>
 '<span>a constellation, stars in Sagittarius</span>' (<span>lit. ‘small face/eyes’</span>)</td>
@@ -2271,6 +2261,14 @@ In Polynesia and Micronesia a different term, translatable literally as ‘small
 <td>Mic</td><td>Lamotrek</td><td><i>mairik</i></td>
 <td>
 '<span>name for the fourth month</span>'</td>
+</tr>
+<tr>
+<td><strong>PPn</strong></td><td> </td>
+<td>
+<i>&ast;mataliki</i>
+</td>
+<td>
+'<span>Pleiades</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>mataliki</i></td>
@@ -3754,7 +3752,7 @@ The POc term usually contrasted with _&ast;sake_ ‘to go up, upwards’ is _&as
 <tr>
 <td>Mic</td><td>Carolinian</td><td><i>tubʷul</i></td>
 <td>
-(N) '<span>setting, setting position of stars etc.</span>'</td>
+[N] '<span>setting, setting position of stars etc.</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Woleaian</td><td><i>tuɸu</i></td>

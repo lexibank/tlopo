@@ -1,6 +1,4 @@
-# The coconut palm
-
-by Malcolm Ross and Bethwyn Evans
+[Malcolm Ross and Bethwyn Evans](.smallcaps)
 
 
 <a id="s-1"></a>
@@ -974,7 +972,7 @@ Other than the items mentioned in the previous paragraph, none of the items belo
 '<span>withered, dry (leaves, husk, tree)</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td>Halia</td><td><i>raŋo</i></td>
+<td>MM</td><td>Selau</td><td><i>raŋo</i></td>
 <td>
 '<span>dry</span>'</td>
 </tr>
@@ -1055,7 +1053,7 @@ The cognate set below apparently reflects POc _&ast;tubuq_ 'grow, swell' (vol.1,
 <td>Motu</td>
 <td><i>tubu</i></td>
 <td>
-'<span>grow; fennent; swell</span>'; '<span>grow; ferment; swell</span>'; '<span>sprouted coconut</span>'</td>
+'<span>sprouted coconut</span>'</td>
 </tr>
 <tr>
 <td>PT</td>
@@ -1125,6 +1123,13 @@ cf. also:
 <table>
 <tr>
 <td>Pn</td>
+<td>West Futunan</td>
+<td><i>tafa</i></td>
+<td>
+'<span>coconut when meat has jellied and milk is still sweet</span>'</td>
+</tr>
+<tr>
+<td>Pn</td>
 <td>East Uvean</td>
 <td><i>tāfā</i></td>
 <td>
@@ -1143,13 +1148,6 @@ cf. also:
 <td><i>tāfā</i></td>
 <td>
 '<span>coconut in developing stage with only water inside</span>'</td>
-</tr>
-<tr>
-<td>Pn</td>
-<td>West Futunan</td>
-<td><i>tafa</i></td>
-<td>
-'<span>coconut when meat has jellied and milk is still sweet</span>'</td>
 </tr>
 </table>
 
@@ -1636,14 +1634,6 @@ The best candidate for 'coconut flesh' is POc _&ast;kanoŋ_, a fossilised reflex
 '<span>flesh, inner substance, coconut flesh</span>'</td>
 </tr>
 <tr>
-<td><strong>PPn</strong></td><td> </td>
-<td>
-<i>&ast;[ka-]kano</i>
-</td>
-<td>
-'<span>flesh, seed</span>' (<span>POLLEX</span>)</td>
-</tr>
-<tr>
 <td>NNG</td><td>Tuam</td><td><i>anoŋa</i></td>
 <td>
 '<span>seed, fruit</span>'</td>
@@ -1672,6 +1662,14 @@ The best candidate for 'coconut flesh' is POc _&ast;kanoŋ_, a fossilised reflex
 <td>SES</td><td>Arosi</td><td><i>ʔano</i></td>
 <td>
 '<span>bulb, tuber, part of tree below ground</span>'</td>
+</tr>
+<tr>
+<td><strong>PPn</strong></td><td> </td>
+<td>
+<i>&ast;[ka-]kano</i>
+</td>
+<td>
+'<span>flesh, seed</span>' (<span>POLLEX</span>)</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>kano</i></td>
@@ -1863,15 +1861,6 @@ The distinction between 'coconut cream' and 'coconut milk' is fuzzy. The cream i
 '<span>coconut milk, coconut cream</span>'</td>
 </tr>
 <tr>
-<td><strong>PMic</strong></td><td> </td>
-<td>
-<i>&ast;ar(e,o)ŋ, ar(e,o)ŋu-</i>
-</td>
-<td>
-'<span>coconut cream, scraped coconut meat</span>' (<a href="../references.md#source-Benderetal2003">Benderetal2003</a>)
-</td>
-</tr>
-<tr>
 <td>NNG</td><td>Bariai</td><td><i>goreŋa</i></td>
 <td>
 '<span>coconut milk (from dry coconuts, not for drinking)</span>'</td>
@@ -1895,6 +1884,15 @@ The distinction between 'coconut cream' and 'coconut milk' is fuzzy. The cream i
 <td>PT</td><td>Tawala</td><td><i>gulena</i></td>
 <td>
 '<span>coconut milk</span>'</td>
+</tr>
+<tr>
+<td><strong>PMic</strong></td><td> </td>
+<td>
+<i>&ast;ar(e,o)ŋ, ar(e,o)ŋu-</i>
+</td>
+<td>
+'<span>coconut cream, scraped coconut meat</span>' (<a href="../references.md#source-Benderetal2003">Benderetal2003</a>)
+</td>
 </tr>
 <tr>
 <td>Mic</td><td>Kiribatese</td><td><i>(te)aoŋ</i></td>
@@ -2057,24 +2055,6 @@ The reconstruction of POc _&ast;paraq_ entails a small phonological puzzle. For 
 '<span>spongy mass inside sprouting nut; brain</span>'</td>
 </tr>
 <tr>
-<td><strong>PSV</strong></td><td> </td>
-<td>
-<i>&ast;na-vəraq</i>
-</td>
-<td>
-'<span>sprouting coconut and/or its pith</span>' (<a href="../references.md#source-Lynch2001c">Lynch2001c: 232</a>)
-</td>
-</tr>
-<tr>
-<td><strong>PMic</strong></td><td> </td>
-<td>
-<i>&ast;fara</i>
-</td>
-<td>
-'<span>core (of breadfruit, coconut, pandanus)</span>' (<a href="../references.md#source-Benderetal2003">Benderetal2003</a>)
-</td>
-</tr>
-<tr>
 <td>Adm</td><td>Titan</td><td><i>pare-n</i></td>
 <td>
 '<span>brain, sprout</span>'</td>
@@ -2082,7 +2062,7 @@ The reconstruction of POc _&ast;paraq_ entails a small phonological puzzle. For 
 <tr>
 <td>NNG</td><td>Bariai</td><td><i>para</i></td>
 <td>
-(v) '<span>sprout</span>'</td>
+[v] '<span>sprout</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Bariai</td><td><i>pata-ŋa</i></td>
@@ -2196,6 +2176,15 @@ The reconstruction of POc _&ast;paraq_ entails a small phonological puzzle. For 
 '<span>spongy mass in sprouting coconut</span>'</td>
 </tr>
 <tr>
+<td><strong>PSV</strong></td><td> </td>
+<td>
+<i>&ast;na-vəraq</i>
+</td>
+<td>
+'<span>sprouting coconut and/or its pith</span>' (<a href="../references.md#source-Lynch2001c">Lynch2001c: 232</a>)
+</td>
+</tr>
+<tr>
 <td>SV</td><td>Lenakel</td><td><i>(nien-u)via</i></td>
 <td>
 '<span>sprouting coconut</span>'</td>
@@ -2229,6 +2218,15 @@ The reconstruction of POc _&ast;paraq_ entails a small phonological puzzle. For 
 <td>NCal</td><td>Jawe</td><td><i>(sep) vala</i></td>
 <td>
 '<span>sprouting coconut</span>'</td>
+</tr>
+<tr>
+<td><strong>PMic</strong></td><td> </td>
+<td>
+<i>&ast;fara</i>
+</td>
+<td>
+'<span>core (of breadfruit, coconut, pandanus)</span>' (<a href="../references.md#source-Benderetal2003">Benderetal2003</a>)
+</td>
 </tr>
 <tr>
 <td>Mic</td><td>Trukese</td><td><i>faar</i></td>
@@ -2311,14 +2309,6 @@ We observed above that POc _&ast;paraq_ 'coconut embryo' was also used to refer 
 </td>
 <td>
 '<span>brain, pith, marrow</span>'</td>
-</tr>
-<tr>
-<td><strong>PPn</strong></td><td> </td>
-<td>
-<i>&ast;quto</i>
-</td>
-<td>
-'<span>brain; pith of a tree; inner part of something; spongy mass in sprouting coconut</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td>Mapos Buang</td><td><i>yuto</i></td>
@@ -2414,6 +2404,14 @@ We observed above that POc _&ast;paraq_ 'coconut embryo' was also used to refer 
 <td>Mic</td><td>Trukese</td><td><i>ɔ̄t</i></td>
 <td>
 '<span>coconut sprout, the soft spongy centre of a coconut</span>'</td>
+</tr>
+<tr>
+<td><strong>PPn</strong></td><td> </td>
+<td>
+<i>&ast;quto</i>
+</td>
+<td>
+'<span>brain; pith of a tree; inner part of something; spongy mass in sprouting coconut</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>ʔuto</i></td>
@@ -2517,15 +2515,6 @@ The less widely reflected terms PAdm _&ast;puto-_, POc _&ast;pʷiras_ and PWOc _
 '<span>pithy ball inside sprouted coconut</span>' (<span>ACD: *pirV</span>)</td>
 </tr>
 <tr>
-<td><strong>PMic</strong></td><td> </td>
-<td>
-<i>&ast;pir, piri-</i>
-</td>
-<td>
-'<span>groor lump under the skin, spongy core of mature coconut</span>' (<a href="../references.md#source-Benderetal2003">Benderetal2003</a>)
-</td>
-</tr>
-<tr>
 <td>NNG</td><td>Gitua</td><td><i>pir</i></td>
 <td>
 '<span>white pithy ball inside sprouted coconut</span>'</td>
@@ -2550,6 +2539,15 @@ The less widely reflected terms PAdm _&ast;puto-_, POc _&ast;pʷiras_ and PWOc _
 <td>SES</td><td>Gela</td><td><i>pira</i></td>
 <td>
 '<span>coconut on ground showing leaf</span>'</td>
+</tr>
+<tr>
+<td><strong>PMic</strong></td><td> </td>
+<td>
+<i>&ast;pir, piri-</i>
+</td>
+<td>
+'<span>groor lump under the skin, spongy core of mature coconut</span>' (<a href="../references.md#source-Benderetal2003">Benderetal2003</a>)
+</td>
 </tr>
 <tr>
 <td>Mic</td><td>Marshallese</td><td><i>pər</i></td>
@@ -2965,13 +2963,6 @@ cf. also:
 <table>
 <tr>
 <td>MM</td>
-<td>Ririo</td>
-<td><i>pagar(eve)</i></td>
-<td>
-'<span>branch</span>'</td>
-</tr>
-<tr>
-<td>MM</td>
 <td>Vaghua</td>
 <td><i>pagar(a)</i></td>
 <td>
@@ -2981,6 +2972,13 @@ cf. also:
 <td>MM</td>
 <td>Varisi</td>
 <td><i>pagar(a)</i></td>
+<td>
+'<span>branch</span>'</td>
+</tr>
+<tr>
+<td>MM</td>
+<td>Ririo</td>
+<td><i>pagar(eve)</i></td>
 <td>
 '<span>branch</span>'</td>
 </tr>
@@ -3300,7 +3298,7 @@ POc _&ast;ramaR_ 'coconut leaf used as a torch when fishing', reflecting PMP _&a
 <tr>
 <td>Adm</td><td>Lou</td><td><i>ram-ram</i></td>
 <td>
-'<span>fish at night by torchlight</span>'</td>
+[v] '<span>fish at night by torchlight</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td>Kara (East)</td><td><i>lamak</i></td>
@@ -3320,7 +3318,7 @@ POc _&ast;ramaR_ 'coconut leaf used as a torch when fishing', reflecting PMP _&a
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>ama</i></td>
 <td>
-(V) '<span>fish at night by torch-light; torch made of coconut spathes bound together</span>'</td>
+[v] '<span>fish at night by torch-light; torch made of coconut spathes bound together</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Niuean</td><td><i>ama</i></td>
@@ -3330,7 +3328,7 @@ POc _&ast;ramaR_ 'coconut leaf used as a torch when fishing', reflecting PMP _&a
 <tr>
 <td>Pn</td><td>Tikopia</td><td><i>rama</i></td>
 <td>
-(N) '<span>torch of dry coconut frond</span>'; (v) '<span>fish with torches</span>'</td>
+[N] '<span>torch of dry coconut frond</span>'; [v] '<span>fish with torches</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Samoan</td><td><i>lama</i></td>
@@ -3409,17 +3407,17 @@ Modern languages tend to have a distinctive term for the midrib or spine of a co
 '<span>palm branch; midrib of palm frond</span>' (<span>Ross 1996d: <em>*palapa(q)</em></span>)</td>
 </tr>
 <tr>
+<td>Adm</td><td>Loniu</td><td><i>palapa</i></td>
+<td>
+'<span>branch, especially of palm tree</span>' (<span>for †<em>palaha</em></span>)</td>
+</tr>
+<tr>
 <td><strong>PPn</strong></td><td> </td>
 <td>
 <i>&ast;palalafa</i>
 </td>
 <td>
 '<span>stalk and midrib of a coconut frond</span>' (<span>POLLEX</span>)</td>
-</tr>
-<tr>
-<td>Adm</td><td>Loniu</td><td><i>palapa</i></td>
-<td>
-'<span>branch, especially of palm tree</span>' (<span>for †<em>palaha</em></span>)</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>palalafa</i></td>
@@ -3518,14 +3516,6 @@ Our sources often do not distinguish clearly between the frond and the leaflet (
 </td>
 </tr>
 <tr>
-<td><strong>PMic</strong></td><td> </td>
-<td>
-<i>&ast;noko</i>
-</td>
-<td>
-'<span>midrib of a coconut frond or leaf</span>'</td>
-</tr>
-<tr>
 <td>NNG</td><td>Lukep (Pono)</td><td><i>noŋ-noŋ</i></td>
 <td>
 '<span>spine of a coconut leaflet</span>'</td>
@@ -3544,6 +3534,14 @@ Our sources often do not distinguish clearly between the frond and the leaflet (
 <td>MM</td><td>Tolai</td><td><i>noko</i></td>
 <td>
 '<span>midrib of the leaflets of a coconut branch; broom, especiallly one made from these leaflets</span>'</td>
+</tr>
+<tr>
+<td><strong>PMic</strong></td><td> </td>
+<td>
+<i>&ast;noko</i>
+</td>
+<td>
+'<span>midrib of a coconut frond or leaf</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td>Kiribatese</td><td><i>noko</i></td>
@@ -3589,14 +3587,6 @@ Two POc terms are reconstructable. The first, _&ast;kaka_ seems to have denoted 
 '<span>young coconut frond; coconut frond netting protecting young frond</span>'</td>
 </tr>
 <tr>
-<td><strong>PPn</strong></td><td> </td>
-<td>
-<i>&ast;kaka</i>
-</td>
-<td>
-'<span>clothlike fibre surrounding base of coconut fronds</span>' (<span>POLLEX</span>)</td>
-</tr>
-<tr>
 <td>MM</td><td>Patpatar</td><td><i>kaka</i></td>
 <td>
 '<span>new coconut frond that has not opened yet</span>'</td>
@@ -3610,6 +3600,14 @@ Two POc terms are reconstructable. The first, _&ast;kaka_ seems to have denoted 
 <td>NCV</td><td>South Efate</td><td><i>kak</i></td>
 <td>
 '<span>coconut mesh</span>'</td>
+</tr>
+<tr>
+<td><strong>PPn</strong></td><td> </td>
+<td>
+<i>&ast;kaka</i>
+</td>
+<td>
+'<span>clothlike fibre surrounding base of coconut fronds</span>' (<span>POLLEX</span>)</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>kaka</i></td>
@@ -3665,7 +3663,8 @@ Two POc terms are reconstructable. The first, _&ast;kaka_ seems to have denoted 
 <i>&ast;Runut</i>
 </td>
 <td>
-'<span>plant fibres</span>' (<span>Blust 1983-84a</span>)</td>
+'<span>plant fibres</span>' (<a href="../references.md#source-Blust1984">Blust1984</a>)
+</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
@@ -3689,7 +3688,7 @@ Two POc terms are reconstructable. The first, _&ast;kaka_ seems to have denoted 
 <tr>
 <td>PT</td><td>Tawala</td><td><i>luluhi</i></td>
 <td>
-(N) '<span>sheath around base of coconut frond</span>'; (v) '<span>strain, purify, improve</span>' (<span>Suauic borrowing</span>)</td>
+[N] '<span>sheath around base of coconut frond</span>'; [v] '<span>strain, purify, improve</span>' (<span>Suauic borrowing</span>)</td>
 </tr>
 <tr>
 <td>PT</td><td>Sariba</td><td><i>lulusi</i></td>

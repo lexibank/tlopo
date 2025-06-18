@@ -1,6 +1,4 @@
-# Wild plants of secondary lowland rain forest and grassland
-
-by Malcolm Ross
+[Malcolm Ross](.smallcaps)
 
 
 <a id="s-1"></a>
@@ -57,30 +55,6 @@ POc _&ast;ka[(r,l)a]qabusi_ appears to have denoted a taxon including at least A
 '<span>Acalypha spp.</span>'</td>
 </tr>
 <tr>
-<td><strong>PEOc</strong></td><td> </td>
-<td>
-<i>&ast;ka(r,l)aqabusi</i>
-</td>
-<td>
-'<span>Acalypha sp.</span>'</td>
-</tr>
-<tr>
-<td><strong>PSV</strong></td><td> </td>
-<td>
-<i>&ast;na-ɣniabʷus</i>
-</td>
-<td>
-'<span>Acalypha sp.</span>'</td>
-</tr>
-<tr>
-<td><strong>PCP</strong></td><td> </td>
-<td>
-<i>&ast;ka(r,l)aqabusi</i>
-</td>
-<td>
-'<span>Acalypha spp.</span>'</td>
-</tr>
-<tr>
 <td>MM</td><td>Kara (East)</td><td><i>kavus</i></td>
 <td>
 '<span>Acalypha longispica</span>' (<span>zero for †-1- or t-r-</span>)</td>
@@ -106,6 +80,14 @@ POc _&ast;ka[(r,l)a]qabusi_ appears to have denoted a taxon including at least A
 '<span>Acalypha caturus</span>' (<span>W. McClatchey, pers. comm.</span>)</td>
 </tr>
 <tr>
+<td><strong>PEOc</strong></td><td> </td>
+<td>
+<i>&ast;ka(r,l)aqabusi</i>
+</td>
+<td>
+'<span>Acalypha sp.</span>'</td>
+</tr>
+<tr>
 <td>SES</td><td>Kwara’ae</td><td><i>ʔalabusi</i></td>
 <td>
 '<span>Acalypha grandis</span>'</td>
@@ -126,6 +108,14 @@ POc _&ast;ka[(r,l)a]qabusi_ appears to have denoted a taxon including at least A
 '<span>Acalypha sp.</span>'</td>
 </tr>
 <tr>
+<td><strong>PSV</strong></td><td> </td>
+<td>
+<i>&ast;na-ɣniabʷus</i>
+</td>
+<td>
+'<span>Acalypha sp.</span>'</td>
+</tr>
+<tr>
 <td>SV</td><td>Sye</td><td><i>no-ɣnompi</i></td>
 <td>
 '<span>Acalypha sp.</span>'</td>
@@ -134,6 +124,14 @@ POc _&ast;ka[(r,l)a]qabusi_ appears to have denoted a taxon including at least A
 <td>SV</td><td>Anejom</td><td><i>ne-ɣñopʷoθ</i></td>
 <td>
 '<span>Acalypha sp.</span>'</td>
+</tr>
+<tr>
+<td><strong>PCP</strong></td><td> </td>
+<td>
+<i>&ast;ka(r,l)aqabusi</i>
+</td>
+<td>
+'<span>Acalypha spp.</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>karabusi</i></td>
@@ -398,23 +396,6 @@ The POc term _&ast;mʷala(q)u_ almost certainly denoted the Bismarcks species G.
 '<span>Glochidion philippicum</span>' (<span>Paul Geraghty: <em>*m(e,o)la(q)u</em>, see Lynch 2001c: 240</span>)</td>
 </tr>
 <tr>
-<td><strong>ProtoRemoteOceanic</strong></td><td> </td>
-<td>
-<i>&ast;mʷala(q)u</i>
-</td>
-<td>
-'<span>Glochidion spp.</span>'</td>
-</tr>
-<tr>
-<td><strong>PSV</strong></td><td> </td>
-<td>
-<i>&ast;na-mel(p)au</i>
-</td>
-<td>
-'<span>Glochidion spp.</span>' (<a href="../references.md#source-Lynch2001c">Lynch2001c</a>)
-</td>
-</tr>
-<tr>
 <td>PT</td><td>Muyuw</td><td><i>(ya)manau</i></td>
 <td>
 '<span>Garcinia sp.</span>' (<span>Damon 1995</span>)</td>
@@ -438,6 +419,14 @@ The POc term _&ast;mʷala(q)u_ almost certainly denoted the Bismarcks species G.
 <td>MM</td><td>Teop</td><td><i>muaeru</i></td>
 <td>
 '<span>Glochidion sp.</span>'</td>
+</tr>
+<tr>
+<td><strong>ProtoRemoteOceanic</strong></td><td> </td>
+<td>
+<i>&ast;mʷala(q)u</i>
+</td>
+<td>
+'<span>Glochidion spp.</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td>Mwotlap</td><td><i>maluw</i></td>
@@ -464,6 +453,15 @@ The POc term _&ast;mʷala(q)u_ almost certainly denoted the Bismarcks species G.
 <td>NCV</td><td>Paamese</td><td><i>maiao</i></td>
 <td>
 '<span>Glochidion spp.</span>'</td>
+</tr>
+<tr>
+<td><strong>PSV</strong></td><td> </td>
+<td>
+<i>&ast;na-mel(p)au</i>
+</td>
+<td>
+'<span>Glochidion spp.</span>' (<a href="../references.md#source-Lynch2001c">Lynch2001c</a>)
+</td>
 </tr>
 <tr>
 <td>SV</td><td>Sye</td><td><i>na-melpau</i></td>
@@ -611,22 +609,6 @@ POc _&ast;koka_ probably denoted several Macaranga species. Known reflexes with 
 '<span>Macaranga spp.</span>'</td>
 </tr>
 <tr>
-<td><strong>PEOc</strong></td><td> </td>
-<td>
-<i>&ast;koka</i>
-</td>
-<td>
-'<span>tree sp., Bischofia javanica</span>' (<span>POLLEX</span>)</td>
-</tr>
-<tr>
-<td><strong>PCP</strong></td><td> </td>
-<td>
-<i>&ast;koka</i>
-</td>
-<td>
-'<span>tree sp., Bischofia javanica</span>'</td>
-</tr>
-<tr>
 <td>MM</td><td>Patpatar</td><td><i>koka</i></td>
 <td>
 '<span>Macaranga quadriglandulosa</span>'</td>
@@ -650,6 +632,22 @@ POc _&ast;koka_ probably denoted several Macaranga species. Known reflexes with 
 <td>NCV</td><td>Mwotlap</td><td><i>no-ɣoɣ</i></td>
 <td>
 '<span>Macaranga tanarius</span>'</td>
+</tr>
+<tr>
+<td><strong>PEOc</strong></td><td> </td>
+<td>
+<i>&ast;koka</i>
+</td>
+<td>
+'<span>tree sp., Bischofia javanica</span>' (<span>POLLEX</span>)</td>
+</tr>
+<tr>
+<td><strong>PCP</strong></td><td> </td>
+<td>
+<i>&ast;koka</i>
+</td>
+<td>
+'<span>tree sp., Bischofia javanica</span>' (<span>see ch.7, §5.1</span>)</td>
 </tr>
 </table>
 
@@ -1001,14 +999,6 @@ There is disagreement among cognates with regard to the final _&ast;-aqi_ of POc
 '<span>shrub or tree sp., Pipturus sp.; bark used for cordage</span>'</td>
 </tr>
 <tr>
-<td><strong>PPn</strong></td><td> </td>
-<td>
-<i>&ast;q[a,o]loŋā</i>
-</td>
-<td>
-'<span>shrub or tree sp., Pipturus sp.; bark used for cordage</span>'</td>
-</tr>
-<tr>
 <td>Fij</td><td>Wayan</td><td><i>rōmē</i></td>
 <td>
 '<span>generic for three spp. of Urticaceae: Boehmeria virgata, Leucosyke corymbulosa and Pipturus argenteus</span>'</td>
@@ -1018,6 +1008,14 @@ There is disagreement among cognates with regard to the final _&ast;-aqi_ of POc
 <td>
 '<span>Pipturus sp.</span>' (<a href="../references.md#source-Geraghty1990">Geraghty1990: 91</a>)
 </td>
+</tr>
+<tr>
+<td><strong>PPn</strong></td><td> </td>
+<td>
+<i>&ast;q[a,o]loŋā</i>
+</td>
+<td>
+'<span>shrub or tree sp., Pipturus sp.; bark used for cordage</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>ʔoloŋā</i></td>
@@ -1097,14 +1095,6 @@ A number of groups in Indonesia and Melanesia practised ritual tooth-blackening 
 '<span>Rhus taitensis</span>'</td>
 </tr>
 <tr>
-<td><strong>PPn</strong></td><td> </td>
-<td>
-<i>&ast;tawahi</i>
-</td>
-<td>
-'<span>Rhus taitensis</span>' (<span>POLLEX</span>)</td>
-</tr>
-<tr>
 <td>MM</td><td>Lavongai</td><td><i>tuas</i></td>
 <td>
 '<span>Rhus taitensis</span>'</td>
@@ -1139,6 +1129,14 @@ A number of groups in Indonesia and Melanesia practised ritual tooth-blackening 
 <td>Fij</td><td>Wayan</td><td><i>tawa(rau)</i></td>
 <td>
 '<span>Rhus taitensis</span>' (<span>obsolete term; Gardner &amp; Pawley 2006</span>)</td>
+</tr>
+<tr>
+<td><strong>PPn</strong></td><td> </td>
+<td>
+<i>&ast;tawahi</i>
+</td>
+<td>
+'<span>Rhus taitensis</span>' (<span>POLLEX</span>)</td>
 </tr>
 <tr>
 <td>Pn</td><td>Tongan</td><td><i>tavahi</i></td>
@@ -1269,14 +1267,6 @@ POc _&ast;maRako_ 'Trichospermum peekelii' is an unproblematic reconstruction.
 </td>
 </tr>
 <tr>
-<td><strong>PCP</strong></td><td> </td>
-<td>
-<i>&ast;mako</i>
-</td>
-<td>
-'<span>Trichospermum richii</span>' (<span>for expected †*mako</span>)</td>
-</tr>
-<tr>
 <td>MM</td><td>Lavongai</td><td><i>maŋau</i></td>
 <td>
 '<span>Trichospermum pleiostigmum</span>'</td>
@@ -1311,6 +1301,14 @@ POc _&ast;maRako_ 'Trichospermum peekelii' is an unproblematic reconstruction.
 <td>
 '<span>Trichospermum inmac</span>' (<a href="../references.md#source-Wheatley1992">Wheatley1992: 233</a>)
 </td>
+</tr>
+<tr>
+<td><strong>PCP</strong></td><td> </td>
+<td>
+<i>&ast;mako</i>
+</td>
+<td>
+'<span>Trichospermum richii</span>' (<span>for expected †*mako</span>)</td>
 </tr>
 <tr>
 <td>Fij</td><td>Wayan</td><td><i>mako</i></td>
@@ -1871,15 +1869,6 @@ A reed-like grass dominant on dry hillsides, Miscanthus floridulus grows to abou
 '<span>Miscanthus floridulus</span>'</td>
 </tr>
 <tr>
-<td><strong>PSV</strong></td><td> </td>
-<td>
-<i>&ast;na-(v)iuŋ</i>
-</td>
-<td>
-'<span>wild cane</span>' (<a href="../references.md#source-Lynch2001c">Lynch2001c</a>)
-</td>
-</tr>
-<tr>
 <td>MM</td><td>Nduke</td><td><i>piu</i></td>
 <td>
 '<span>Miscanthus floridulus</span>' (<span>unexpected final consonant deletion</span>)</td>
@@ -1908,6 +1897,15 @@ A reed-like grass dominant on dry hillsides, Miscanthus floridulus grows to abou
 <td>NCV</td><td>Avava</td><td><i>viaʙ</i></td>
 <td>
 '<span>Miscanthus floridulus</span>'</td>
+</tr>
+<tr>
+<td><strong>PSV</strong></td><td> </td>
+<td>
+<i>&ast;na-(v)iuŋ</i>
+</td>
+<td>
+'<span>wild cane</span>' (<a href="../references.md#source-Lynch2001c">Lynch2001c</a>)
+</td>
 </tr>
 <tr>
 <td>SV</td><td>Sye</td><td><i>(nre)n-yuŋ</i></td>
@@ -1966,14 +1964,6 @@ The reconstruction below originates with [French-Wright](../references.md#source
 '<span>cane or reed taxon, including Saccharum spontaneum</span>' (<span>Milke 1968: <em>piso 'k.o. reed'; French-Wright 1983: </em>piso</span>)</td>
 </tr>
 <tr>
-<td><strong>PEOc</strong></td><td> </td>
-<td>
-<i>&ast;piso</i>
-</td>
-<td>
-'<span>Saccharum sp.</span>'</td>
-</tr>
-<tr>
 <td>NNG</td><td>Mangap</td><td><i>mbiizi</i></td>
 <td>
 '<span>reed, pitpit type plant</span>'</td>
@@ -2002,6 +1992,14 @@ The reconstruction below originates with [French-Wright](../references.md#source
 <td>MM</td><td>Tabar</td><td><i>viso</i></td>
 <td>
 '<span>bamboo</span>'</td>
+</tr>
+<tr>
+<td><strong>PEOc</strong></td><td> </td>
+<td>
+<i>&ast;piso</i>
+</td>
+<td>
+'<span>Saccharum sp.</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td>Gela</td><td><i>viho</i></td>
