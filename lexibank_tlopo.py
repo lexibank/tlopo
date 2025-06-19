@@ -1,3 +1,4 @@
+import shutil
 import pathlib
 import collections
 
@@ -292,6 +293,22 @@ class Dataset(BaseDataset):
                 gloss_ids.append(og['ID'])
         return gloss_ids
 
+    def iter_figures(self, md, vol):
+        from pycldf.ext.markdown import CLDFMarkdownLink
+
+        source = self.raw_dir / 'vol{}'.format(vol) / 'maps'
+        figs = []
+
+        def repl(ml):
+            if ml.table_or_fname == 'MediaTable':
+                mtype, vnum, fignum = ml.objid.split('-', maxsplit=2)  # translate to filename!
+                p = source / '{}_{}.png'.format(mtype, fignum.replace('_', '.'))
+                if p.exists():
+                    figs.append((ml.objid, ml.label, p))
+
+        CLDFMarkdownLink.replace(md, repl)
+        yield from figs
+
     def cmd_makecldf(self, args):
         self.schema(args.writer.cldf, with_borrowings=False)
         self.local_schema(args.writer.cldf)
@@ -326,10 +343,26 @@ class Dataset(BaseDataset):
             mddir = self.cldf_dir.joinpath(vol.dir.name)
             mddir.mkdir(exist_ok=True)
             for num, chapter in vol.chapters.items():
-                #
-                # FIXME: Add text to MediaTable!
-                #
-                mddir.joinpath('chapter{}.md'.format(num)).write_text(chapter.text)
+                for fid, label, p in self.iter_figures(chapter.text, vol.num):
+                    shutil.copy(p, mddir / p.name)
+                    args.writer.objects['MediaTable'].append(dict(
+                        ID=fid,
+                        Name='Volume {} {}'.format(vol.num, p.stem),
+                        Description=label,
+                        Download_URL=str(mddir.joinpath(p.name).relative_to(self.cldf_dir)),
+                        Media_Type='image/png',
+                    ))
+                p = mddir.joinpath('chapter{}.md'.format(num))
+                p.write_text(chapter.text, encoding='utf-8')
+                args.writer.objects['MediaTable'].append(dict(
+                    ID='{}-{}-text'.format(vol.num, num),
+                    Name='Volume {} Chapter {}'.format(vol.num, num),
+                    Description='Chapter text formatted as CLDF Markdown document',
+                    Download_URL=str(p.relative_to(self.cldf_dir)),
+                    Media_Type='text/markdown',
+                    Conforms_To='CLDF Markdown',
+                ))
+                # look for and copy figures and maps!
                 args.writer.objects['ContributionTable'].append(dict(
                     ID='{}-{}'.format(vol.num, num),
                     Name=chapter.bib['title'],
@@ -496,7 +529,15 @@ class Dataset(BaseDataset):
         Gloss
         - number
         """
-        #cldf.add_component('MediaTable')
+        cldf.add_component(
+            'MediaTable',
+            {
+                'name': 'Chapter_ID',
+                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#contributionReference'},
+            {
+                'name': 'Conforms_To',
+                'propertyUrl': 'http://purl.org/dc/terms/conformsTo'},
+        )
         cldf.add_columns('CognatesetTable', 'Level')
         cldf.add_columns(
             'cf.csv',
@@ -508,9 +549,6 @@ class Dataset(BaseDataset):
             'ContributionTable',
             {'name': 'Volume_Number', 'datatype': 'integer'},
             'Volume',
-            {
-                'name': 'Chapter_Text_ID',
-                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#mediaReference'},
         )
         cldf.add_table(
             'cognatesetreferences.csv',

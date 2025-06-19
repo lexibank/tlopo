@@ -17,6 +17,8 @@ from markdown import markdown
 
 from cldfviz.text import render
 from pycldf.db import Database
+from pycldf.media import MediaTable
+from clldutils.misc import data_url
 
 from lexibank_tlopo import Dataset
 
@@ -38,6 +40,7 @@ def run(args):
     if not out.exists():
         out.mkdir()
     cldf = ds.cldf_reader()
+    media = {f.row['ID']: f for f in MediaTable(cldf)}
     #
     # Must precompute data for cognatesetreferences and store with cldf!
     #
@@ -180,7 +183,7 @@ order by g.cldf_formReference
                     href_source=lambda srcid: '../sources/' + srcid,
                     href_language=lambda lid: '../languages/' + lid,
                     href_chapter=lambda cid, anchor: '../contributions/{}#{}'.format(cid, anchor),
-                    #href_media=lambda...
+                    href_media=lambda mid: data_url(media[mid].read(), 'image/png'),
                     get_reconstruction=f,
                     get_cfs=cfs,
                     get_cfitems=cfitems,

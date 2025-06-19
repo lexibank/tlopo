@@ -1,0 +1,1 @@
+![{{ ml_label }}]({{ href_media(ctx.id) }})
