@@ -38,9 +38,9 @@ The divide between Near and Remote Oceania is also an important one for fauna an
 
 Even in marine life the difference is marked. The reefs of the Bismarck and Solomons show a much richer diversty of fish, molluscs, echinoderms, crustacea, seaweeds, and other edible life than those of Remote Oceanic.
 
-<a id="map-5"> </a>
+<a id="map-2-5.png"> </a>
 
-![Map 5: Major biogeographic regions of Island SE Asia and the Pacific: Sundaland, Wallacea, Near Oceania and Remote Oceania](../../raw/vol2/maps/map_5.png)
+![Map 5: Major biogeographic regions of Island SE Asia and the Pacific: Sundaland, Wallacea, Near Oceania and Remote Oceania](MediaTable#cldf:map-2-5.png)
 
 
 
@@ -87,9 +87,9 @@ In the Bismarcks after 3200 BP, the earliest Lapita pottery style, known as Earl
 
 Locating Proto Oceanic   23
 
-<a id="map-6"> </a>
+<a id="map-2-6.png"> </a>
 
-![Map 6: Lapita sites in the south-west Pacific (after [Spriggs 1995](../sources/Spriggs1995): 113)](../../raw/vol2/maps/map_6.png)
+![Map 6: Lapita sites in the south-west Pacific (after [Spriggs 1995](../sources/Spriggs1995): 113)](MediaTable#cldf:map-2-6.png)
 
 
 
@@ -208,9 +208,9 @@ The archipelago is richly endowed with reefs and almost every type of reef and r
 
 <a id="p-32"></a>
 
-<a id="map-7"> </a>
+<a id="map-2-7.png"> </a>
 
-![Map 7: The Bismarck Archipelago, Bougainville and the adjacent coast of New Guinea](../../raw/vol2/maps/map_7.png)
+![Map 7: The Bismarck Archipelago, Bougainville and the adjacent coast of New Guinea](MediaTable#cldf:map-2-7.png)
 
 
 

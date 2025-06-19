@@ -1416,9 +1416,9 @@ Terms for coconut parts are divided here into parts of the fruit (this section) 
 
 <a id="p-369"></a>
 
-<a id="fig-12.1"> </a>
+<a id="fig-3-12.1.png"> </a>
 
-![Figure 12.1: Parts of a coconut](../../raw/vol3/maps/fig_12.1.png)
+![Figure 12.1: Parts of a coconut](MediaTable#cldf:fig-3-12.1.png)
 
 
 
@@ -2853,9 +2853,9 @@ Table 4.1 of Chapter 4 shows part of the coconut terminology ofTikopia, which is
 
 Coconuts     3 79
 
-<a id="fig-12.2"> </a>
+<a id="fig-3-12.2.png"> </a>
 
-![Figure 12.2: Parts of a coconut palm](../../raw/vol3/maps/fig_12.2.png)
+![Figure 12.2: Parts of a coconut palm](MediaTable#cldf:fig-3-12.2.png)
 
 
 
@@ -3779,9 +3779,9 @@ Two POc terms are reconstructable. The first, _&ast;kaka_ seems to have denoted 
 ### 5.3. The spathe, the inflorescence and the spadix
 
 
-<a id="fig-12.3"> </a>
+<a id="fig-3-12.3.png"> </a>
 
-![Figure 12.3: Coconut blossom and spathe), Flower bunch (inflorescence)](../../raw/vol3/maps/fig_12.3.png)
+![Figure 12.3: Coconut blossom and spathe), Flower bunch (inflorescence)](MediaTable#cldf:fig-3-12.3.png)
 
 
 

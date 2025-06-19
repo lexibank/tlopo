@@ -33,9 +33,9 @@ Pottery is one of the more distinctive features of the Lapita culture, here held
 
 There is fair agreement across Oceanic languages about the structure of the terminology -Ross provides evidence from NNG, PT, Admiralties and Fijian languages which all have terms (not necessarily cognate) for pot (generic), cooking pot, water jar, bowl/dish and frying pan (see Figure 4) - and we have PMP reconstructions in support of corresponding POc terms. However, our cognate sets are disappointingly small. Of our reconstructions, the cooking pot/generic term is the most soundly based.
 
-<a id="fig-4"> </a>
+<a id="fig-1-4.png"> </a>
 
-![Figure 4: Typical pot shapes (from [Ross 1996c](../sources/Ross1996c)) (a) cooking pot: POc _&ast;kuran_, POc _&ast;bʷafja_ (b) water jar: POc _&ast;kalala(ŋ)_, PNGOc _&ast;bʷad(r)i_ (c) bowl: PPT _&ast;na(q)u(q)_ (d) frying pan: POc _&ast;palafja_](../../raw/vol1/maps/fig_4.png)
+![Figure 4: Typical pot shapes (from [Ross 1996c](../sources/Ross1996c)) (a) cooking pot: POc _&ast;kuran_, POc _&ast;bʷafja_ (b) water jar: POc _&ast;kalala(ŋ)_, PNGOc _&ast;bʷad(r)i_ (c) bowl: PPT _&ast;na(q)u(q)_ (d) frying pan: POc _&ast;palafja_](MediaTable#cldf:fig-1-4.png)
 
 
 
@@ -465,7 +465,7 @@ Both cooking pots and narrow-necked water jars may have utilised lids. In additi
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
-<i>&ast;tup-a(n,ŋ)</i>
+<i>&ast;tup-a((n,ŋ))</i>
 </td>
 <td>
 '<span>lid, cover</span>'</td>
@@ -614,9 +614,9 @@ cf. also:
 </table>
 
 
-<a id="fig-5"> </a>
+<a id="fig-1-5.png"> </a>
 
-![Figure 5: POc _&ast;tabiRa_ 'wooden bowl'](../../raw/vol1/maps/fig_5.png)
+![Figure 5: POc _&ast;tabiRa_ 'wooden bowl'](MediaTable#cldf:fig-1-5.png)
 
 
 
@@ -927,9 +927,9 @@ One of the most widely-used containers was the coconut-shell cup, for which we h
 
 
 
-<a id="fig-6"> </a>
+<a id="fig-1-6.png"> </a>
 
-![Figure 6: POc _&ast;(b,bʷ)ilo_ 'coconut shell used as liquid container', POc _&ast;lasa_, POc _&ast;ubi_/_&ast;ibu_ 'coconut half shell-cup'](../../raw/vol1/maps/fig_6.png)
+![Figure 6: POc _&ast;(b,bʷ)ilo_ 'coconut shell used as liquid container', POc _&ast;lasa_, POc _&ast;ubi_/_&ast;ibu_ 'coconut half shell-cup'](MediaTable#cldf:fig-1-6.png)
 
 
 
@@ -1390,9 +1390,9 @@ There is one other kind of container associated with Melanesians other than the 
 
 The final _-i_ of Mussau _ra-ramuti_ suggests that this reflects a transitive verb _&ast;d(r)amut-i-_, perhaps 'add lime to a chew of betel nut'.
 
-<a id="fig-8"> </a>
+<a id="fig-1-8.png"> </a>
 
-![Figure 8: POc _&ast;d(r)amut_ 'lime spatula'](../../raw/vol1/maps/fig_8.png)
+![Figure 8: POc _&ast;d(r)amut_ 'lime spatula'](MediaTable#cldf:fig-1-8.png)
 
 
 
@@ -1691,9 +1691,9 @@ This form is unlikely to be of POc ancestry, as medial _&ast;-e-_ is rare in POc
 
 <a id="p-79"></a>
 
-<a id="fig-9"> </a>
+<a id="fig-1-9.png"> </a>
 
-![Figure 9: Reconstructions (non-specific) include: POc _&ast;katu(m,ŋ)_ 'basket', POc _&ast;laka_ 'basket ', POc _&ast;tab(w)e_ 'basket, probably small', POc _&ast;taŋa_ 'basket or bag, small, used for personal effects' (after [Koch 1986](../sources/Koch1986): 104 and n.d.:59)](../../raw/vol1/maps/fig_9.png)
+![Figure 9: Reconstructions (non-specific) include: POc _&ast;katu(m,ŋ)_ 'basket', POc _&ast;laka_ 'basket ', POc _&ast;tab(w)e_ 'basket, probably small', POc _&ast;taŋa_ 'basket or bag, small, used for personal effects' (after [Koch 1986](../sources/Koch1986): 104 and n.d.:59)](MediaTable#cldf:fig-1-9.png)
 
 
 
@@ -3237,9 +3237,9 @@ The following term for needle, POc _&ast;saRum_, evidently had specific referenc
 
 <a id="p-88"></a>
 
-<a id="fig-10"> </a>
+<a id="fig-1-10.png"> </a>
 
-![Figure 10: POc _&ast;kiRam_ 'stone adze, axe', POc _&ast;matau_ 'axe', POc _&ast;taku_, POc _&ast;taRa(q)_ 'adze'](../../raw/vol1/maps/fig_10.png)
+![Figure 10: POc _&ast;kiRam_ 'stone adze, axe', POc _&ast;matau_ 'axe', POc _&ast;taku_, POc _&ast;taRa(q)_ 'adze'](MediaTable#cldf:fig-1-10.png)
 
 
 
@@ -3982,9 +3982,9 @@ Although the following Admiralties set bears a superficial similarity to the CP 
 
 Obsidian, glass-hard volcanic stone found on Lou Island (Admiralties), on Fergusson Island in the D'Entrecasteaux group, at Talasea (Willaumez Peninsula of New Britain) and Banks Island, Vanuatu, and, from its traces in excavated Lapita sites, a much sought-after trade item among early Oceanic speakers, serves as a fine cutting edge. POc _&ast;nad(r)i_ is reconstructable, although in places it refers only to hard stone (with a cutting edge?). _&ast;qa(r,R)iŋ_ is reconstructable only for PWOc. Reflexes of POc &ast;koto refer to a variety of uses of the material and suggest that its primary meaning was 'obsidian cutting edge':
 
-<a id="fig-11"> </a>
+<a id="fig-1-11.png"> </a>
 
-![Figure 11: POc _&ast;nad(r)i_ 'flint, obsidian, stone with a cutting edge'; POc &ast;koto 'obsidian knife or blade'](../../raw/vol1/maps/fig_11.png)
+![Figure 11: POc _&ast;nad(r)i_ 'flint, obsidian, stone with a cutting edge'; POc &ast;koto 'obsidian knife or blade'](MediaTable#cldf:fig-1-11.png)
 
 
 
@@ -4513,9 +4513,9 @@ The material used to make bark-cloth or tapa in the Pacific area is obtained mai
 
 Bark-cloth is a significant item in Indonesia and in the eastern Oceanic region, particularly Polynesia, but also Santa Cruz, New Caledonia and Fiji. However, it does not feature strongly in the western Oceanic region. Ivens wrote (1918: 186) that although bark-cloth (_tapa_) was made in Melanesia, it never figured as an article of clothing, and its main use was to form a kind of shawl in which the baby was slung when carried from the shoulder. Ivens was probably speaking from a Solomons perspective. [Kooijman](../sources/Kooijman1972) ([1972](../sources/Kooijman1972):446) quotes reports by Chalmers and Gill (1885) which mention bark-cloth from Collingwood Bay and the Gulf of Papua (both PT); while in the Northern Province of south-east Papua, for instance, bark-cloth is a prestigious valuable. In parts of New Britain it was used to bind the heads of young babies to achieve the desired elongated skull shape (Ann Chowning, pers.comm.). Kooijman (pp.446-453) points out that the descriptions of the manufacture of New Guinea bark-cloth and the study of the museum material indicate that, as a rule, this _tapa_ is relatively thick and stiff and made from Ficus and Artocarpus varieties, rather than from Broussonetia. He believes that the latter was probably not used for _tapa_ cloth in New Guinea. He records little mention of bark-cloth use in Micronesia, other than the wearing of _tapa_ ponchos in Ponape. [Yen](../sources/Yen1973) ([1973](../sources/Yen1973):83), in his examination of the origins of Oceanic agriculture, describes the cultivation of paper mulberry, as a pruned shrub for the production of bark for cloth, as ceasing west of the Melanesia/Polynesia border area.
 
-<a id="fig-12"> </a>
+<a id="fig-1-12.png"> </a>
 
-![Figure 12: POc &ast;ike 'tapa beater'](../../raw/vol1/maps/fig_12.png)
+![Figure 12: POc &ast;ike 'tapa beater'](MediaTable#cldf:fig-1-12.png)
 
 
 
@@ -5381,9 +5381,9 @@ The kinds of designs used in tattooing, as on pottery and carved objects, and to
 
 
 
-<a id="fig-13"> </a>
+<a id="fig-1-13.png"> </a>
 
-![Figure 13: POc _&ast;bara_ 'plaited cane armlet' (from [Nevermann 1934](../sources/Nevermann1934): 151)](../../raw/vol1/maps/fig_13.png)
+![Figure 13: POc _&ast;bara_ 'plaited cane armlet' (from [Nevermann 1934](../sources/Nevermann1934): 151)](MediaTable#cldf:fig-1-13.png)
 
 
 
@@ -5702,9 +5702,9 @@ We have not reconstructed a word for 'necklace', but we can reconstruct the verb
 ### 5.5.1 Comb
 
 
-<a id="fig-14"> </a>
+<a id="fig-1-14.png"> </a>
 
-![Figure 14: POc _&ast;saRu_ 'comb'](../../raw/vol1/maps/fig_14.png)
+![Figure 14: POc _&ast;saRu_ 'comb'](MediaTable#cldf:fig-1-14.png)
 
 
 
@@ -5974,9 +5974,9 @@ Other musical instruments mentioned in the ethnographic literature include Jew's
 
 <a id="p-107"></a>
 
-<a id="fig-15"> </a>
+<a id="fig-1-15.png"> </a>
 
-![Figure 15: POc _&ast;tapuRi(q)_ 'triton shell trumpet' (from [Nevermann 1933](../sources/Nevermann1933):218) POc _&ast;kauR_ 'bamboo wind instrument'](../../raw/vol1/maps/fig_15.png)
+![Figure 15: POc _&ast;tapuRi(q)_ 'triton shell trumpet' (from [Nevermann 1933](../sources/Nevermann1933):218) POc _&ast;kauR_ 'bamboo wind instrument'](MediaTable#cldf:fig-1-15.png)
 
 
 
@@ -6177,9 +6177,9 @@ Reflexes of POc _&ast;upi_/_&ast;ipu_ 'blow' or compounds containing it, commonl
 
 This relatively small drum, easily carried, is of wood, with the end covered in (lizard) skin. [Chowning](../sources/Chowning1991) ([1991](../sources/Chowning1991): 59) has noted that on the north coast of New Guinea and in some parts of west New Britain the name for the instrument is suspiciously close to the word for 'monitor lizard' (Sengseng _pahiyo_ 'drum', _apahiya_ 'lizard'). Drumming is produced with the hand, and typically accompanies dances. [Ivens](../sources/Ivens1927) ([1927](../sources/Ivens1927) (reissued 1972): 169) reports that "a true drum of wood with skin stretched over it, such as is used in New Guinea and Torres Straits, is not found on Mala [Malaita] and Ulawa".
 
-<a id="fig-16"> </a>
+<a id="fig-1-16.png"> </a>
 
-![Figure 16: POc &ast;kude 'hourglass drum'](../../raw/vol1/maps/fig_16.png)
+![Figure 16: POc &ast;kude 'hourglass drum'](MediaTable#cldf:fig-1-16.png)
 
 
 

@@ -8,9 +8,9 @@
 
 This is the first of a set of five volumes bringing together the results of recent work on the lexicon of the Proto Oceanic (POc) language.[^1] Volume 1 deals with material culture, volume 2 with the physical world including landscape and conceptions of location, meteorology, astronomy and time, volume 3 with flora and fauna, volume 4 with terminologies centring on human beings, including the body and basic human conditions and activities, and social organisation, and volume 5 with grammatical (closed) categories including adjectives, pronouns, and number. Volume 5, as it is planned at the time of writing, will also include an index to the POc and other reconstructions presented in the whole work, as well as an English-to-POc finderlist and a list of all languages cited, together with their subgroups.
 
-<a id="map-1"> </a>
+<a id="map-1-1.png"> </a>
 
-![Map 1: The Austronesian phylum and major language groups $ cldfbench cldfviz.map --language-properties Group cldf --language-properties-colormaps '{"Fma":"#FFFBD5","WMP":"#FEE391","CMP":"#FB9A29","SHWNG":"#D95F0E","Adm":"#993404","Fij":"#993404","IJ":"#993404","Mic":"#993404","MM":"#993404","NCal":"#993404","NCV":"#993404","NNG":"#993404","Pn":"#993404","PT":"#993404","SES":"#993404","SJ":"#993404","SV":"#993404","TM":"#993404","Yap":"#993404"}' --out map.svg --format svg --pacific-centered --no-legend --height 20 --width 30 --projection Mollweide --with-ocean --no-borders --padding-bottom 3 --padding-top 3 --markersize 10](../../raw/vol1/maps/map_1.png)
+![Map 1: The Austronesian phylum and major language groups $ cldfbench cldfviz.map --language-properties Group cldf --language-properties-colormaps '{"Fma":"#FFFBD5","WMP":"#FEE391","CMP":"#FB9A29","SHWNG":"#D95F0E","Adm":"#993404","Fij":"#993404","IJ":"#993404","Mic":"#993404","MM":"#993404","NCal":"#993404","NCV":"#993404","NNG":"#993404","Pn":"#993404","PT":"#993404","SES":"#993404","SJ":"#993404","SV":"#993404","TM":"#993404","Yap":"#993404"}' --out map.svg --format svg --pacific-centered --no-legend --height 20 --width 30 --projection Mollweide --with-ocean --no-borders --padding-bottom 3 --padding-top 3 --markersize 10](MediaTable#cldf:map-1-1.png)
 
 
 
@@ -126,9 +126,9 @@ Although the subgrouping of Austronesian languages and questions about which pro
 
 Within Oceanic we assume a minimum of three primary subgroups: Western Oceanic, Admiralties (Adm), and Eastern Oceanic (see Map 3). Western Oceanic and Admiralties are reasonably well founded, and have been defined by [Ross](../sources/Ross1988) ([1988](../sources/Ross1988)). The St Matthias group, also a possible primary subgroup (represented here only by Mussau), is here included with Admiralties.[^6] Eastern Oceanic ('Central/Eastern Oceanic' in the terminology of [Ross 1994b](../sources/Ross1994b)) includes all other Oceanic languages.[^7] Eastern Oceanic does not meet normal subgrouping criteria (i.e. no shared innovations define the whole group), but treating them as a unit ensures a rigorous criterion for recognising a reconstruction as POc: it must have reflexes in at least two of the subgroups that are generally regarded as primary, or possibly primary, branches of Oceanic.[^8] Both here and at the interstages described below, no reconstruction is made if there are grounds to infer borrowing from one subgroup to another.[^9] Occasionally, we make use of data from Yapese, which may also be a single-member primary subgroup of Oceanic ([Ross 1996a](../sources/Ross1996a)), but we have not treated it as a subgroup for the purpose of reconstruction (i.e. reflexes of an etymon in Yapese and in just one of the three primary subgroups listed above would not be enough to justify a reconstruction).
 
-<a id="map-3"> </a>
+<a id="map-1-3.png"> </a>
 
-![Map 3: Higher-order subgroups of Oceanic languages used in this work for the purposes of reconstruction](../../raw/vol1/maps/map_3.png)
+![Map 3: Higher-order subgroups of Oceanic languages used in this work for the purposes of reconstruction](MediaTable#cldf:map-1-3.png)
 
 
 
@@ -145,9 +145,9 @@ As noted above, it is likely that Eastern Oceanic is not a primary subgroup, but
 
 We ask the reader to be mindful of the fact that we have provided this diagram as an aid to presentation: as soon as one draws a tree diagram, one has to choose among alternative hypotheses and draw all nodes as if they were equally well supported. This is far from the case. One can find more convincing evidence for some parts of this tree than for others, and, although these differences are not important to our reconstructions, we would not wish Figure 1 to be taken as a definitive representation of our current assumptions about Oceanic subgrouping.
 
-<a id="map-4"> </a>
+<a id="map-1-4.png"> </a>
 
-![Map 4: Groups of Oceanic languages in north-west Melanesia: the Admiralties and St Matthias groups and the subgroups of Western Oceanic](../../raw/vol1/maps/map_4.png)
+![Map 4: Groups of Oceanic languages in north-west Melanesia: the Admiralties and St Matthias groups and the subgroups of Western Oceanic](MediaTable#cldf:map-1-4.png)
 
 
 

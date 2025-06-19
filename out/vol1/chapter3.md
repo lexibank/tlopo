@@ -61,9 +61,9 @@ The earliest Lapita sites are in the Bismarck Archipelago. There the distinctive
 
 <a id="p-42"></a>
 
-<a id="map-5"> </a>
+<a id="map-1-5.png"> </a>
 
-![Map 5: Lapita sites in the south-west Pacific (after [Spriggs 1995](../sources/Spriggs1995): 113)](../../raw/vol1/maps/map_5.png)
+![Map 5: Lapita sites in the south-west Pacific (after [Spriggs 1995](../sources/Spriggs1995): 113)](MediaTable#cldf:map-1-5.png)
 
 
 
@@ -141,9 +141,9 @@ Note also the gender arrangements and symbolic structures of relations within an
 
 <a id="p-46"></a>
 
-<a id="fig-2"> </a>
+<a id="fig-1-2.png"> </a>
 
-![Figure 2: Typical Baegu (Malaita, Solomon Islands) dwelling and community layout (from [Oliver 1989](../sources/Oliver1989):335) (Baegu terms are _luma_ 'dwelling house, _lalo_ 'women's sleeping quarters', _beu_ 'men's house', _bisi_ 'menstrual hut')](../../raw/vol1/maps/fig_2.png)
+![Figure 2: Typical Baegu (Malaita, Solomon Islands) dwelling and community layout (from [Oliver 1989](../sources/Oliver1989):335) (Baegu terms are _luma_ 'dwelling house, _lalo_ 'women's sleeping quarters', _beu_ 'men's house', _bisi_ 'menstrual hut')](MediaTable#cldf:fig-1-2.png)
 
 
 
@@ -642,9 +642,9 @@ It is probably significant that this cognate set is restricted to the Southeast 
 
 <a id="p-52"></a>
 
-<a id="fig-3a"> </a>
+<a id="fig-1-3a.png"> </a>
 
-![Figure 3a: POc _&ast;Rumaq_ 'house'  POc _&ast;qatop_ 'thatch, roof', POc _&ast;kataman_ 'doorway', POc _&ast;tete_ 'ladder or log bridge', POc _&ast;gabʷari_ 'area underneath house'](../../raw/vol1/maps/fig_3a.png)
+![Figure 3a: POc _&ast;Rumaq_ 'house'  POc _&ast;qatop_ 'thatch, roof', POc _&ast;kataman_ 'doorway', POc _&ast;tete_ 'ladder or log bridge', POc _&ast;gabʷari_ 'area underneath house'](MediaTable#cldf:fig-1-3a.png)
 
 
 
@@ -716,9 +716,9 @@ _&ast;kataman_ probably referred to an entrance with its wooden framework. From 
 
 <a id="p-53"></a>
 
-<a id="fig-3b"> </a>
+<a id="fig-1-3b.png"> </a>
 
-![Figure 3b: POc _&ast;Rumaq_ 'house', POc _&ast;pupuŋ-an_ 'ridgepole', POc _&ast;kaso_ 'rafter', POc _&ast;aRiRi_ 'post', POc _&ast;turu(s)_ 'post', POc _&ast;bou_ 'main bearers supporting raised floor/roof or centre post supporting ridgepole, POc _&ast;soko(r)_ 'bracing timber, crossbeam'](../../raw/vol1/maps/fig_3b.png)
+![Figure 3b: POc _&ast;Rumaq_ 'house', POc _&ast;pupuŋ-an_ 'ridgepole', POc _&ast;kaso_ 'rafter', POc _&ast;aRiRi_ 'post', POc _&ast;turu(s)_ 'post', POc _&ast;bou_ 'main bearers supporting raised floor/roof or centre post supporting ridgepole, POc _&ast;soko(r)_ 'bracing timber, crossbeam'](MediaTable#cldf:fig-1-3b.png)
 
 
 

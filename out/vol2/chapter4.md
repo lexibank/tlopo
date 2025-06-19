@@ -2942,9 +2942,9 @@ In Polynesian languages, reflexes of _&ast;puŋa_ typically contrast with those 
 
 Coral reefs are a dominant feature not only of atolls, but also of the coastal environments of parts of mainland New Guinea and of many of the high islands of the tropical Pacific. Reef systems can be loosely classified into atolls, fringing reefs which border shores, and barrier reefs which are some distance offshore. Although many atolls are in fact islands, some consist only of reef.
 
-<a id="fig-3"> </a>
+<a id="fig-2-3.png"> </a>
 
-![Figure 3: Reef forms](../../raw/vol2/maps/fig_3.png)
+![Figure 3: Reef forms](MediaTable#cldf:fig-2-3.png)
 
 
 
@@ -3311,9 +3311,9 @@ Raymond Firth in his Tikopia–English dictionary (1985:613) provides an illustr
 
 A second Polynesian example comes from Niuatoputapu, an island with a volcanic ridge and fringing reef located halfway between Tonga and Samoa. [Dye](../sources/Dye1983) ([1983](../sources/Dye1983):246) records a local division of the marine environment into four major biotopes: the reef flat (_namo_) including littoral zones, the shallow salt-water lagoon (_tahi_), the living fringing and barrier reef fronts (_mataʔuluʔulu_) and the open ocean (_moana_). The reef flat and reef edge are further divided into leeward and windward zones, although Dye gives the local name only for the windward reef flat, _lafo-lafo_.
 
-<a id="fig-4"> </a>
+<a id="fig-2-4.png"> </a>
 
-![Figure 4: Tikopia reef profile ([Firth 1985](../sources/Firth1985):613, reproduced with permission)](../../raw/vol2/maps/fig_4.png)
+![Figure 4: Tikopia reef profile ([Firth 1985](../sources/Firth1985):613, reproduced with permission)](MediaTable#cldf:fig-2-4.png)
 
 
 

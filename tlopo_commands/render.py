@@ -180,6 +180,7 @@ order by g.cldf_formReference
                     href_source=lambda srcid: '../sources/' + srcid,
                     href_language=lambda lid: '../languages/' + lid,
                     href_chapter=lambda cid, anchor: '../contributions/{}#{}'.format(cid, anchor),
+                    #href_media=lambda...
                     get_reconstruction=f,
                     get_cfs=cfs,
                     get_cfitems=cfitems,

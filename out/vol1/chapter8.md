@@ -182,7 +182,7 @@ _&ast;reke_ perhaps also referred to a seine net, but its Eastern Oceanic reflex
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td>
-<i>&ast;lawa(n,q)</i>
+<i>&ast;lawa((n,q))</i>
 </td>
 <td>
 '<span>k.o. fishnet</span>'</td>

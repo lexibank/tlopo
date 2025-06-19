@@ -159,7 +159,7 @@ class Dataset(BaseDataset):
         #    for m in CROSS_REF_PATTERN.finditer(line):
         #        print(m.string[m.start():m.end()])
         #return
-        langs = {r['Name']: r for r in self.raw_dir.joinpath('vol1').read_csv('languages.csv', dicts=True)}
+        langs = {r['Name']: r for r in self.etc_dir.read_csv('languages.csv', dicts=True)}
         for v in list(langs.values()):
             for alt in v['Alternative_Names'].split('; '):
                 langs[alt] = v
@@ -298,7 +298,7 @@ class Dataset(BaseDataset):
 
         args.writer.cldf.sources = Sources.from_file(self.etc_dir / 'sources.bib')
 
-        langs = {r['Name']: r for r in self.raw_dir.joinpath('vol1').read_csv('languages.csv', dicts=True)}
+        langs = {r['Name']: r for r in self.etc_dir.read_csv('languages.csv', dicts=True)}
         reconstructions = []
         for v in list(langs.values()):
             for alt in v['Alternative_Names'].split('; '):

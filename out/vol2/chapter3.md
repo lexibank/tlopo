@@ -17,9 +17,9 @@ This chapter and the following one are an attempt to discover something of the w
 
 A second example is from Edvard Hviding’s _Guardians of Marovo Lagoon_, an account of the way of life of the Marovo speaking people from New Georgia in the western Solomons ([Hviding 1996](../sources/Hviding1996)). The lagoon itself is vast, a largely enclosed area of shallow sea strewn with islands and reef patches and rimmed by barrier reef islands. It lies on the eastern edge of a high volcanic island covered in lush tropical rainforest and fringed with mangrove swamps. For their livelihood the people depend on a system of shifting agriculture and marine fishing. ‘Important dietary supplements are provided by hunting, focused on feral pigs, birds and marsupials in the rainforest, and by gathering shellfish from the reefs and mangroves, as well as nuts, fruits and leafy greens from garden fallows and forests’ (p.42). The main zones of local environmental classification are shown in Figure 2. They represent the _puava_ or ancestral territories of a kinship group (_butubutu_) to which Marovo people belong. _Puava_ has both a restricted sense, ‘soil, ground’ and a general one, the latter encompassing the total ancestral estate, reaching ‘from the peaks and ridges of the mainland upper mountains to the open sea outside the barrier reef’ (p.137).
 
-<a id="fig-2"> </a>
+<a id="fig-2-2.png"> </a>
 
-![Figure 2: Marovo coastal profile (reproduced from [Hviding 1996](../sources/Hviding1996):138 with the permission of the University of Hawai’i Press)](../../raw/vol2/maps/fig_2.png)
+![Figure 2: Marovo coastal profile (reproduced from [Hviding 1996](../sources/Hviding1996):138 with the permission of the University of Hawai’i Press)](MediaTable#cldf:fig-2-2.png)
 
 
 
@@ -68,9 +68,9 @@ Reflexes of both POc _&ast;panua_ (vol. 1, p.62) and _&ast;tanoq_[^2] are widely
 
 <a id="p-39"></a>
 
-<a id="map-8"> </a>
+<a id="map-2-8.png"> </a>
 
-![Map 8: Tikopia (after Firth 1936:xxii)](../../raw/vol2/maps/map_8.png)
+![Map 8: Tikopia (after Firth 1936:xxii)](MediaTable#cldf:map-2-8.png)
 
 
 
@@ -7459,9 +7459,9 @@ Parts of New Guinea and Island Melanesia have a long history of volcanic activit
 
 <a id="p-82"></a>
 
-<a id="map-9"> </a>
+<a id="map-2-9.png"> </a>
 
-![Map 9: Active volcanoes and earthquake areas in the south-west Pacific (after [Brookfield and Hart 1971](../sources/BrookfieldandHart1971): 33)](../../raw/vol2/maps/map_9.png)
+![Map 9: Active volcanoes and earthquake areas in the south-west Pacific (after [Brookfield and Hart 1971](../sources/BrookfieldandHart1971): 33)](MediaTable#cldf:map-2-9.png)
 
 
 

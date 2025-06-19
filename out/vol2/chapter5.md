@@ -19,17 +19,17 @@ The main planetary surface wind system affecting tropical regions consists of th
 
 <a id="p-120"></a>
 
-<a id="map-10"> </a>
+<a id="map-2-10.png"> </a>
 
-![Map 10: Prevailing winds in the Indian and Pacific Oceans during the southern hemisphere winter (July)](../../raw/vol2/maps/map_10.png)
+![Map 10: Prevailing winds in the Indian and Pacific Oceans during the southern hemisphere winter (July)](MediaTable#cldf:map-2-10.png)
 
 
 
 Meteorological phenomena   121
 
-<a id="map-11"> </a>
+<a id="map-2-11.png"> </a>
 
-![Map 11: Prevailing winds in the Indian and Pacific Oceans during the southern hemisphere summer (January)](../../raw/vol2/maps/map_11.png)
+![Map 11: Prevailing winds in the Indian and Pacific Oceans during the southern hemisphere summer (January)](MediaTable#cldf:map-2-11.png)
 
 
 
