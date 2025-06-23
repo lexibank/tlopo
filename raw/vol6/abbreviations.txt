@@ -1,0 +1,69 @@
+              Abbreviations
+
+Abbreviations are listed below, except for the kinship notation used in Chapter 2 (see
+§2.2.2) and glosses of pronominals. Bound pronominals are glossed in accordance with the
+schema X:nYZ, where X is one of D (disjunctive = free), O (object), P (possessor), S (subject)
+A (agent subject); n is 1, 2 or 3, indicating person; Y is optional and is either I (inclusive) or
+E (exclusive); and Z is one of S (singular), D (dual), P (plural) or A (augmented).
+
+
+*xxx   xxx is a reconstructed form                 MM      Meso-Melanesia
+†xxx   xxx is the expected but not attested        N       noun
+          form                                     NCal New Caledonia and Loyalty Islands
+ACC    accusative                                  NCV North/Central Vanuatu
+ACD    Blust & Trussel (2020)                      NML     numeral
+ADDR kinship term used to address s.o.             NNG North New Guinea
+ADJ    adjective                                   NOM     nominaliser
+Adm Admiralties and St Matthias                    PAdm Proto Admiralty
+ART    article                                     PAn Proto Austronesian
+ASSOC associative marker                           PCEMP Proto Central/Eastern Malayo-
+ATTRIB attributive                                   Polynesian
+C      complementiser                              PCL     possessive classifier
+CAUS causative                                     PCP Proto Central Pacific
+CEMP Central/Easter                                PEMP Proto Eastern Malayo-Polynesian
+          Malayo-Polynesian                        PEOc Proto Eastem Oceanic
+CJ     conjunction                                 PEPn Proto Eastern Polynesian
+CLF    numeral classifier                          PGMic Proto Greater Micronesian
+cMP central Malayo-Polynesian                      PL       plural
+CMP Central Malayo-Polynesian                      PMic Proto Micronesian
+DEM    demonstrative                               PMP      Proto Malayo-Polynesian
+DIR    directional (vol.2:267–282)                 Pn       Polynesian
+EOc Eastern Oceanic                                PNCV Proto North/Central Vanuatu
+ePOc early Proto Oceanic                           PNGOc Proto New Guinea Oceanic
+Fij    Fijian                                      PNNG Proto North New Guinea
+HAB    habitual                                    PNPn Proto Nuclear Polynesian
+IRR    irrealis                                    POc      Proto Oceanic
+ITR    intransitive form                           POLLEX Clark & Biggs (2006)
+LIG    ligature                                    PPn      Proto Polynesian
+Mic    Nuclear Micronesia                          PREP     preposition
+
+                                              xxvi
+                                 Abbreviatons xxvii
+
+
+
+PROc  Proto Remote Oceanic
+PSOc  Proto Southem Oceanic
+PSV   Proto South Vanuatu
+PT    Papuan Tip
+PURP  purposive
+PWOc Proto Western Oceanic
+R     realis
+REDUP reduplication
+S     singular
+SEQ   sequential
+s.o.  someone
+s.t.  something
+SES   Southeast Solomonic
+SHWNG South Halmahera/West New
+           Guinea
+SJ    Sarmi/Jayapura
+SV    South Vanuatu
+TM    Temotu
+TR    transitive marker
+V     verb
+VI    intransitive verb
+VSt   stative verb
+VT    transitive verb
+WEA World Ethnographic Atlas
+wMP western Malayo-Polynesian
