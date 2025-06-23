@@ -11868,22 +11868,17 @@ sacrificed in atonement (Keesing 1982:69).
 
 <
 POc *uraki ‘make an offering to the gods’
- PT:    Kilivila           ula-ula1       (N) ‘an offering made to a ghost [baloma] as
-                                          payment for magic (often fish) (Malinowski
-                                          1948:182)
- SES: Sa’a                 uraʔi          (VI) ‘make an offering to a ghost’
-                           uraʔi-ŋe       ‘offering made to a ghost; relics include
-                                          porpoise teeth etc. worn by priest round neck
-                                          when going to battle; if to a ghost shark,
-                                          thrown into sea’ (Ivens 1927:179)
- SES: Arosi                uraʔi          (N) ‘sacrifices at Birubiru rock, of money etc.’
- SES: Bauro                uragi          ‘make an offering’
- SES: Owa                  uraage         ‘make an offering to spirits by s.o. wishing to
-                                          die’
+ PT:  Kilivila    ula-ula1    (N) ‘an offering made to a ghost [baloma] as payment for magic (often fish) (Malinowski 1948:182)
+ SES: Sa’a        uraʔi       (VI) ‘make an offering to a ghost’
+ SES: Sa’a        uraʔi-ŋe    ‘offering made to a ghost; relics include porpoise teeth etc. worn by priest round neck when going to battle; if to a ghost shark, thrown into sea’ (Ivens 1927:179)
+ SES: Arosi       uraʔi       (N) ‘sacrifices at Birubiru rock, of money etc.’
+ SES: Bauro       uragi       ‘make an offering’
+ SES: Owa         uraage      ‘make an offering to spirits by s.o. wishing to die’
 >
 
 Bauan Fijian distinguishes between offerings made for atonement, i soro, and those made in
 thanksgiving, i madrali.
+
    In Polynesia Williamson writes (1937:121):
 
 __blockquote__
@@ -11899,16 +11894,14 @@ from the ancestral gods.
 
 <
 PPn *taumafa ‘ceremonial food; offering to the gods’
-  Pn:   Tongan             taumafa         ‘food, drink, smoke (regal)’
-  Pn:   Niuean             taumafa         ‘eat, used to chiefs only’
-  Pn:   Rennellese         taumaha         ‘dedicate food or hail the gods or ancestors’
-  Pn:   Samoan             taaumafa        ‘eat (polite)’
-  Pn:   Tikopia            taumafa         ‘portion of food allocated to a person in a
-                                           distribution; traditional offering of food to
-                                           gods or ancestors’
-  Pn:   W Futunan          taumafa         ‘offering’
-  Pn;   Maori              taumaha         ‘spell recited when food offered to gods’
-  Pn:   Hawaiian           kaumaha         ‘offering, sacrifice’
+  Pn: Tongan         taumafa     ‘food, drink, smoke (regal)’
+  Pn: Niuean         taumafa     ‘eat, used to chiefs only’
+  Pn: Rennellese     taumaha     ‘dedicate food or hail the gods or ancestors’
+  Pn: Samoan         taaumafa    ‘eat (polite)’
+  Pn: Tikopia        taumafa     ‘portion of food allocated to a person in a distribution; traditional offering of food to gods or ancestors’
+  Pn: W Futunan      taumafa     ‘offering’
+  Pn: Maori          taumaha     ‘spell recited when food offered to gods’
+  Pn: Hawaiian       kaumaha     ‘offering, sacrifice’
 >
 
 [1] Malinowski in fact writes ulaʔula, but he tends to add an incorrect glottal stop between vowels (see
@@ -11923,21 +11916,16 @@ general terms for compensation.
 
 <
 PEOc *soso ‘to expiate, compensate’
-  SES: Longgu              toto                 ‘pay compensation’
-  SES: Sa’a                toto                 (VT) ‘propitiate a ghost with sacrifice; pay a
-                                                fine’
-                               toto akalo       ‘a sacrifice burnt whole or killed and thrown
-                                                away, pig, dog, cuscus, to remove ceremonial
-                                                defilement’
-   SES:      ’Are’are          haʔa-toto(a)     ‘propitiate’ (haʔa CAUSATIVE)
-   SES:      Kwaio             toto             ‘compensate, pay a fine’
-   SES:      Lau               toto             ‘pay a fine’
-   SES:      Arosi             toto             ‘to pay a fine, give money to be reconciled’
-   SES:      Owa               toto-mara        ‘pay compensation to’ (mara ‘?’)
-   Fij:      Bauan             soso-ya          (VT) ‘to give in exchange, replace; atone,
-                                                expiate’
-                               i-sosoi          (N) ‘thing given in exchange; reparation,
-                                                expiation’
+  SES: Longgu       toto             ‘pay compensation’
+  SES: Sa’a         toto             (VT) ‘propitiate a ghost with sacrifice; pay a fine’
+  SES: Sa’a         toto akalo       ‘a sacrifice burnt whole or killed and thrown away, pig, dog, cuscus, to remove ceremonial defilement’
+  SES: ’Are’are     haʔa-toto(a)     ‘propitiate’ (haʔa CAUSATIVE)
+  SES: Kwaio        toto             ‘compensate, pay a fine’
+  SES: Lau          toto             ‘pay a fine’
+  SES: Arosi        toto             ‘to pay a fine, give money to be reconciled’
+  SES: Owa          toto-mara        ‘pay compensation to’ (mara ‘?’)
+  Fij: Bauan        soso-ya          (VT) ‘to give in exchange, replace; atone, expiate’
+  Fij: Bauan        i-sosoi          (N) ‘thing given in exchange; reparation, expiation’
 >
 
 8.2.4.1 First fruits
@@ -12020,14 +12008,11 @@ diagrammatic summary of the ancestral Polynesian ritual cycle, but that meaning 
 narrower example of a more general PPn term for any allocated portion of food.
 
 PPn *qinati ‘share, allocated portion of food’; ‘first fruits rituals?’ (Kirch & Green 2001)
-  Pn: Tongan          ʔinasi ‘share, allotted portion, quota’; (in old Tonga) ‘presentation
-                                of food to the Tuʔitonga [supreme chief] in a way that came
-                                to be regarded as inconsistent with the Christian religion’
-  Pn:    Rennellese ʔinati     ‘food share’
-  Pn:    Samoan     inati      ‘part, portion, share, first fruits’
-  Pn:    Tokelauan inati       ‘group of people who receive a share from a community-
-                                owned asset; the share received’
-  Pn:    Maori        inati    ‘portion, share of food at a feast’
+  Pn: Tongan      ʔinasi ‘share, allotted portion, quota’; (in old Tonga) ‘presentation of food to the Tuʔitonga [supreme chief] in a way that came to be regarded as inconsistent with the Christian religion’
+  Pn: Rennellese  ʔinati     ‘food share’
+  Pn: Samoan      inati      ‘part, portion, share, first fruits’
+  Pn: Tokelauan   inati       ‘group of people who receive a share from a community-owned asset; the share received’
+  Pn: Maori       inati    ‘portion, share of food at a feast’
 >
 
                                                            Magic and the supernatural 259
@@ -12142,26 +12127,25 @@ __blockquote__
 
 <
 PPn *taaula[-qatua] ‘priest, medium, shaman’ (POc *qatuan ‘deity, supernatural being’)
-  Pn:    Tongan              taula        ‘priest or priestess’
-  Pn:    Niuean              taula-atua   ‘shaman or priest of heathen times’
-  Pn:    Rennellese          tauga        ‘a medium, one possessed; a prophet’
-  Pn:    Pukapukan           taula-atua   ‘a person who can perform miracles or foresee
-                                          the future’
-  Pn:    Samoan              taula(aitu)  ‘priest, only with reference to the old
-                                          religion’ (Williamson 1967:407) (POc *qanitu
-                                          ‘spirit of the dead)
-  Pn:    Rarotongan          taura-atua   ‘sorcerer, priest of the ancient gods’
-  Pn:    Tikopia             taura-atua   ‘traditional spirit medium’
-  Pn:    Maori               taaura       ‘priest who accompanies an army’
-  Pn:    Hawaiian            kaaula       ‘prophet, seer’
+  Pn: Tongan         taula        ‘priest or priestess’
+  Pn: Niuean         taula-atua   ‘shaman or priest of heathen times’
+  Pn: Rennellese     tauga        ‘a medium, one possessed; a prophet’
+  Pn: Pukapukan      taula-atua   ‘a person who can perform miracles or foresee the future’
+  Pn: Samoan         taula(aitu)  ‘priest, only with reference to the old religion’ (Williamson 1967:407) (POc *qanitu ‘spirit of the dead)
+  Pn: Rarotongan     taura-atua   ‘sorcerer, priest of the ancient gods’
+  Pn: Tikopia        taura-atua   ‘traditional spirit medium’
+  Pn: Maori          taaura       ‘priest who accompanies an army’
+  Pn: Hawaiian       kaaula       ‘prophet, seer’
+>
+
    Some Eastern Polynesian languages use reflexes of *tafuŋa, a variant form of PPn
 *tufuŋa ‘expert, skilled craftsman’ to refer specifically to those with priestly duties.
-    Pn:     Tahitian             tahuʔa           1) ‘expert craftsman’; 2) ‘specialist in magic,
-                                                  primarily a spirit medium and curer’
-    Pn:     Tuamotuan            tahuuŋa          ‘expert; priest’
-    Pn:     Maori                tohuŋa           1) ‘skilled person’; 2) ‘wizard, priest’
-    Pn:     Hawaiian             kahuna           ‘priest, minister, sorcerer, expert in any
-                                                  profession’
+
+__formgroup__
+    Pn: Tahitian      tahuʔa       (1) ‘expert craftsman’; (2) ‘specialist in magic, primarily a spirit medium and curer’
+    Pn: Tuamotuan     tahuuŋa      ‘expert; priest’
+    Pn: Maori         tohuŋa       (1) ‘skilled person’; (2) ‘wizard, priest’
+    Pn: Hawaiian      kahuna       ‘priest, minister, sorcerer, expert in any profession’
 >
 
    In practice, most magic is performed by men, since nearly all the tasks for which it is
@@ -12214,18 +12198,16 @@ qatua):
 
 <
 PCP *waga ‘spirit medium’ (from POc *waga ‘canoe’?)
-  Fij:  Wayan              waga-waga ‘spirit medium, person through whom a spirit
-                                         speaks’’
-  Fij:  Bauan              waga-waga ‘the body assumed by a kalou-vū [ancestral
-                                         spirit] for purposes of self-manifestations’
+  Fij: Wayan           waga-waga       ‘spirit medium, person through whom a spirit speaks’
+  Fij: Bauan           waga-waga       ‘the body assumed by a kalou-vū [ancestral spirit] for purposes of self-manifestations’
 PPn *waka ‘medium or bodily abode of a god’
-  Pn:   Tongan             vaka          ‘bodily abode of a supernatural being’
-  Pn:   E Uvean            vaka          ‘spirit medium’
-  Pn:   Maori              waka          ‘medium of an atua’
-PNPn *waka atua ‘spirit medium (POc *qatuan ‘deity, supernatural being’)
-  Pn:   Anutan             vaka atua     ‘spirit medium’
-  Pn:   Rennellese         baka ʔatua    ‘representative of the gods’
-  Pn:   Tikopia            vaka atua     ‘spirit medium’
+  Pn:  Tongan          vaka            ‘bodily abode of a supernatural being’
+  Pn:  E Uvean         vaka            ‘spirit medium’
+  Pn:  Maori           waka            ‘medium of an atua’
+PNPn *|waka atua| ‘spirit medium (POc *qatuan ‘deity, supernatural being’)
+  Pn:  Anutan          |vaka atua |    ‘spirit medium’
+  Pn:  Rennellese      |baka ʔatua|    ‘representative of the gods’
+  Pn:  Tikopia         |vaka atua |    ‘spirit medium’
 >
 
    One role commonly employed by shamans is that of identifying the person or spirit
@@ -12371,15 +12353,14 @@ means of not only ensnaring the souls of others but also of restoring them (p.27
 
 <
 Proto Papuan Tip *baravu ‘sorcery’; *(tau)baravu ‘sorcerer’
-  PT:    Dobu              barau           (N) ‘sorcery’; (VI, VT) ‘kill or afflict by sorcery’
-                           (to)barau       ‘sorcerer’ (on to- see vol.5, §2.2.1.2)
-  PT:    Molima            balawu          ‘sorcery’
-                           (to)balawu      ‘sorcerer’
-  PT:    Wedau             baravu          (N) ‘sorcery’; (V) ‘to practise
-                                           sorcery’ (Seligman 1910)
-  PT:    Gumawana          balau           ‘sorcery’
-  PT:    Motu              ba-balau (tau-na) ‘sorcerer’ (for exp. †balahu)
-                           ba-balau (kara-na) ‘sorcery’ (kara ‘conduct, customs’)
+  PT: Dobu       barau                (N) ‘sorcery’; (VI, VT) ‘kill or afflict by sorcery’
+  PT: Dobu       (to)barau            ‘sorcerer’ (on to- see vol.5, §2.2.1.2)
+  PT: Molima     balawu               ‘sorcery’
+  PT: Molima     (to)balawu           ‘sorcerer’
+  PT: Wedau      baravu               (N) ‘sorcery’; (V) ‘to practise sorcery’ (Seligman 1910)
+  PT: Gumawana   balau                ‘sorcery’
+  PT: Motu       |ba-balau (tau-na)|  ‘sorcerer’ (for exp. †balahu)
+  PT: Motu       |ba-balau (kara-na)| ‘sorcery’ (kara ‘conduct, customs’)
 >
 
 However, a search through available sources throws up the terms listed below. They all bear
@@ -12393,16 +12374,16 @@ similar senses is close to zero. A plausible inference is that the word itself w
 have evil power and was distorted for that reason.
 
 __formgroup__
-  Adm: Lou                    pʷalop       ‘sorcerer’s magic’
-  NNG: Mapos Buang            paɾaʁək      ‘sorcery, black magic’
-  PT:  Kilivila               bʷagau       ‘sorcery’
-                              (to)bu-bʷagau ‘sorcerer’
-  NCV: Lewo                   pʷuruwap     ‘sorcerer’
+  Adm: Lou             pʷalop         ‘sorcerer’s magic’
+  NNG: Mapos Buang     paɾaʁək        ‘sorcery, black magic’
+  PT:  Kilivila        bʷagau         ‘sorcery’
+  PT:  Kilivila        (to)bu-bʷagau  ‘sorcerer’
+  NCV: Lewo            pʷuruwap       ‘sorcerer’
 
 cf. also:
 
 __formgroup__
-   NCV: Raga                  barahuva        ‘salvation’
+   NCV: Raga           barahuva        ‘salvation’
 
 Raga barahuva appears under ‘cf. also’ because it is glossed ‘salvation’: is this a Christian
 missionary re-use of an old word?
@@ -12415,13 +12396,9 @@ Proto Papuan Tip *baravu above.
 
 <
 PWOc *bara ‘poison, magic employed to affect another person’
- NNG: Arop-Lukep          bar           (N) ‘poison, magic; ancestral relic’
- NNG: Takia               bar           ‘incantation, blessing, religious ceremony,
-                                        song’
- MM: Nehan                (uel)bara(ŋa) (N) ‘power; poison, magical power, love
-                                        magic, seducing charm, war magic; hot as a
-                                        pepper, strong’ (uel- RECIPROCAL, - ŋa
-                                        NOMINALISER)
+ NNG: Arop-Lukep     bar           (N) ‘poison, magic; ancestral relic’
+ NNG: Takia          bar           ‘incantation, blessing, religious ceremony, song’
+ MM: Nehan           (uel)bara(ŋa) (N) ‘power; poison, magical power, love magic, seducing charm, war magic; hot as a pepper, strong’ (uel- RECIPROCAL, - ŋa NOMINALISER)
 >
 
    Without further reflexes it is impossible to know if the following form, reconstructable
@@ -12429,11 +12406,10 @@ to PNGOc, relates only to black magic or to spells in general.
 
 <
 Proto New Guinea Oceanic *nabʷa ‘a spell’
-  NNG: Manam nabʷa            ‘spell usually resulting in rapid death’ (Wedgwood
-                               1934-35)
-  PT:    Dobu     nabʷa(sua) (N) ‘magic spell’; (V) ‘to utter magic spell’ (-sua ‘?’)
+  NNG: Manam   nabʷa          ‘spell usually resulting in rapid death’ (Wedgwood 1934-35)
+  PT:  Dobu    nabʷa(sua) (N) ‘magic spell’; (V) ‘to utter magic spell’ (-sua ‘?’)
 cf. also:
-   Adm: Titan         nam           ‘sorcery, magic, spirits’
+  Adm: Titan   nam            ‘sorcery, magic, spirits’
 >
 
 8.4.1 Sorcery using leavings
@@ -12498,6 +12474,7 @@ part is set aside as a form of homage to the ancestors.
 following apply consistently across subgroups and are thought likely to accord with the
 practice of POc society.
 
+__block__
     •   Magic was effected by invoking the ancestors/gods or spirits through spells
         consisting of learned words and actions.
     •   Spells were believed to originate with ancestors and were passed down with care.
@@ -12533,7 +12510,7 @@ various linguists and anthropologists since Capell (1938–39) including Blust (
 Blevins (2008). A Proto Eastern Oceanic reconstruction *mana (VSt) ‘to have supernatural
 power from ancestral spirits as manifest in successful outcomes; be efficacious’; (N) ‘efficacy,
 success’, is well supported, but to raise it to POc we need either cognates from Oceanic
-languages outside the Eastern Oceanic subgroup2 or from Austronesian languages external to
+languages outside the Eastern Oceanic subgroup[2] or from Austronesian languages external to
 Oceanic. A few questionable cognates in the MM and PT linkages of Western Oceanic have
 either markedly different meanings or are in languages where the possibility of borrowing is
 high. Both Blust and Blevins propose POc reconstructions, in each case attributing a
@@ -12583,7 +12560,7 @@ more concerned by the word’s etymology than its exact meaning.
     Firth, writing of the belief as understood in Tikopia, agreed with Williamson:
 
 __blockquote__
-      A possible translation of manu4 or mana in Tikopia would … appear to be ‘success’ or
+      A possible translation of manu[4] or mana in Tikopia would … appear to be ‘success’ or
       ‘successful’, which can embody reference both to the ability of man and to tangible
       results. …. Another possible translation of manu is ‘efficacy’ or ‘to be efficacious’.
       Here the emphasis again is on the fact that the activity works, that it performs the
@@ -12640,110 +12617,63 @@ Cognate sources are given when they are other than the regular dictionary source
 Appendix A, or when these are contrasted with a second source.
 
 <
-PEOc *mana (vst) ‘to have supernatural power from ancestral spirits as manifest in
-  successful outcomes; be efficacious’; (N) ‘efficacy, success’
+PEOc *mana (vst) ‘to have supernatural power from ancestral spirits as manifest in successful outcomes; be efficacious’; (N) ‘efficacy, success’
   SES: Bugotu      mana           (N) ‘spiritual or magical power’
-                   mana-ŋi        (VT) ‘to empower’
-  SES: Gela        mana           (V) ‘be efficacious from spiritual power obtained from
-                                  charms, prayers, intercourse with ancestors or spirits’;
-                                  (N) ‘efficacy, success, power, authority’
-                   mana-ŋi        (VT) ‘to make successful, efficient; empower, authorise;
-                                  rule over’
+  SES: Bugotu      mana-ŋi        (VT) ‘to empower’
+  SES: Gela        mana           (V) ‘be efficacious from spiritual power obtained from charms, prayers, intercourse with ancestors or spirits’; (N) ‘efficacy, success, power, authority’
+  SES: Gela        mana-ŋi        (VT) ‘to make successful, efficient; empower, authorise; rule over’
   SES: Ghari       mana           ‘truth, true, correct’
-                   mana-lia       (V) ‘powerful, efficacious’
+  SES: Ghari       mana-lia       (V) ‘powerful, efficacious’
   SES: Lengo       mana           (N) ‘power’
-  SES: Longgu nanama              (V) ‘be successful through the favour of the
-                                  spirits’ (Hogbin 1936:245) (metathesis)
-                   ma-manā        (N) ‘supernatural power possessed by spirits’ (a successful
-                                  man either has ma manā or to be ma manā (Hogbin
-                                  1936:259)
-  SES: Lau         ma-mana        (V) ‘be efficacious (of medicine), grow well (of trees),
-                                  spiritually or magically powerful; prosperous, lucky, in
-                                  good health; be true, fulfilled; impart spiritual or magical
-                                  power; of ghost, empower a person’
-                   ma-mana-a (N) ‘spiritual or magical power’
-  SES: To’aba’ita ma-mana         (V) ‘be real, true; be efficacious, effective’ (Lichtenberk);
-                                  (N) ‘blessing, prosperity; ancestrally conferred power’;
-                                  (V) ‘impart spiritual or magical power’ (Hogbin 1936:259)
-                   ma-mana-a (N) ‘ancestrally conferred power’
-  SES: Kwaio        na-nama       (V) ‘be effective, fulfilled, confirmed, realised; “work”; of
-                                  ancestor, support, protect, empower’ (Keesing 1984)
-                                  (metathesis)
-                    nanama-ŋā (N) ‘protection, efficacy, good luck, blessing, realisation’
-  SES: Sa’a         na-nama       (V) ‘be powerful, exercise force’ (in material rather than
-                                  metaphysical sense; contrast saka ‘spiritual power’) (Ivens
-                                  1927:186) (metathesis)
-                    na-nama-ŋa (N) ‘power’
-  SES: Ulawa        mana          ‘ending in invocations, meaning unknown’ (Ivens 1927)
-                    na-nama       (V) ‘spiritually powerful’ (metathesis)
-  SES: ’Are’are na-nāma           (V) ‘be strong, powerful in metaphysical sense’; (N) ‘s.t.
-                                  extraordinary, effected by a spiritual power’ (metathesis)
-  SES: Arosi        mena ~ mana (N) ‘spiritual power in adaro [ghost or spirit] etc.’
-Proto Torres-Banks *mana ‘supernatural power held by a person or thing; magic
-  force’ (François 2013:237)
-  NCV: Mota         mana          (V) ‘to have invisible spiritual force or influence’;
-                                  (N) ‘an invisible spiritual force or influence’ (Codrington &
-                                  Palmer 1896)
-                    manə          (N) ‘supernatural power held by a person or thing; magic
-                                  force’ (François 2013)
-  NCV: Nokuku me-mana             ‘miracle, miraculous’
-  NCV: Lombaha mana-gi            ‘miracle’
-  NCV: Vao          man           ‘magic’
-PMic *mana, mana-mana (V) ‘be efficacious, have supernatural power’; (N) ‘efficacy,
-  supernatural power’ (Bender et. al. 2003a)
-  Mic: Marshallese man-man (V) ‘haunted, having supernatural powers, taboo’
-  Mic: Chuukese mana              (vi) ‘have divine, magical or supernatural power’
-  Mic: Puluwatese mana-man (N) ‘divine, supernatural or miraculous power; (V) ‘to have
-                                  such’
-  Mic: Satawalese mala-man (V) ‘be efficacious, have supernatural power’; (N) efficacy,
-                                  supernatural power’
-  Mic: Mokilese       man-man (vi) ‘spiritually powerful, able to do magic without
-                                  artifice’, (N) ‘magic, spiritual power’
-  Mic: Ponapean mana-man (V) ‘magical, mysterious, spiritual’; (N) ‘spiritual power’
-  Mic: Woleaian ke-maẓ            (N) ‘miracle, power’; (V) ‘be powerful as a ghost’
-  Mic: Carolinian leme-lem (V) ‘to be in authority, have power or control’
-  Fij: Rotuman        mana        (V) ‘supernatural, miraculous, possessed of or manifesting
-                                  supernatural power or extraordinary efficacy’
-  Fij: Bauan          mana        (N) ‘supernatural power, a sign, a token, omen’; (adj)
-                                  ‘possessing suspernatural qualities’ (Capell 1941)
-                      mana        (VSt) ‘be effectual; efficient, as a remedy; wonder
-                                  working’; (V) ‘a word used when addressing a heathen
-                                  deity: so be it, let it be so’; (N) ‘a sign or omen; a wonder
-                                  or miracle’ (Hazlewood 1850)
-  Fij:   Wayan        mana     (V) ‘(of a person) be able to make things happen, be
-                               effective, have creative power, (of events which are
-                               predicted, wished or worked for) come true, happen, be
-                               realised; (N) ‘power to make things happen, creative
-                               power; the act of coming true’
-                    mana-mana (V) ‘be wishful, desire or want s.t. to happen that one has
-                               worked for’ (Pawley & Sayaba 2022)
+  SES: Longgu      nanama         (V) ‘be successful through the favour of the spirits’ (Hogbin 1936:245) (metathesis)
+  SES: Longgu      ma-manā        (N) ‘supernatural power possessed by spirits’ (a successful man either has ma manā or to be ma manā (Hogbin 1936:259)
+  SES: Lau         ma-mana        (V) ‘be efficacious (of medicine), grow well (of trees), spiritually or magically powerful; prosperous, lucky, in good health; be true, fulfilled; impart spiritual or magical power; of ghost, empower a person’
+  SES: Lau         ma-mana-a      (N) ‘spiritual or magical power’
+  SES: To’aba’ita  ma-mana        (V) ‘be real, true; be efficacious, effective’ (Lichtenberk); (N) ‘blessing, prosperity; ancestrally conferred power’; (V) ‘impart spiritual or magical power’ (Hogbin 1936:259)
+  SES: To’aba’ita  ma-mana-a      (N) ‘ancestrally conferred power’
+  SES: Kwaio       na-nama        (V) ‘be effective, fulfilled, confirmed, realised; “work”; of ancestor, support, protect, empower’ (Keesing 1984) (metathesis)
+  SES: Kwaio       nanama-ŋā      (N) ‘protection, efficacy, good luck, blessing, realisation’
+  SES: Sa’a        na-nama        (V) ‘be powerful, exercise force’ (in material rather than metaphysical sense; contrast saka ‘spiritual power’) (Ivens 1927:186) (metathesis)
+  SES: Sa’a        na-nama-ŋa     (N) ‘power’
+  SES: Ulawa       mana           ‘ending in invocations, meaning unknown’ (Ivens 1927)
+  SES: Ulawa       na-nama        (V) ‘spiritually powerful’ (metathesis)
+  SES: ’Are’are    na-nāma        (V) ‘be strong, powerful in metaphysical sense’; (N) ‘s.t. extraordinary, effected by a spiritual power’ (metathesis)
+  SES: Arosi       mena~mana      (N) ‘spiritual power in adaro [ghost or spirit] etc.’
+Proto Torres-Banks *mana ‘supernatural power held by a person or thing; magic force’ (François 2013:237)
+  NCV: Mota        mana           (V) ‘to have invisible spiritual force or influence’; (N) ‘an invisible spiritual force or influence’ (Codrington & Palmer 1896)
+  NCV: Mota        manə           (N) ‘supernatural power held by a person or thing; magic force’ (François 2013)
+  NCV: Nokuku      me-mana        ‘miracle, miraculous’
+  NCV: Lombaha     mana-gi        ‘miracle’
+  NCV: Vao         man            ‘magic’
+PMic *mana, mana-mana (V) ‘be efficacious, have supernatural power’; (N) ‘efficacy, supernatural power’ (Bender et. al. 2003a)
+  Mic: Marshallese man-man        (V) ‘haunted, having supernatural powers, taboo’
+  Mic: Chuukese    mana           (vi) ‘have divine, magical or supernatural power’
+  Mic: Puluwatese  mana-man       (N) ‘divine, supernatural or miraculous power; (V) ‘to have such’
+  Mic: Satawalese  mala-man       (V) ‘be efficacious, have supernatural power’; (N) efficacy, supernatural power’
+  Mic: Mokilese    man-man        (vi) ‘spiritually powerful, able to do magic without artifice’, (N) ‘magic, spiritual power’
+  Mic: Ponapean    mana-man       (V) ‘magical, mysterious, spiritual’; (N) ‘spiritual power’
+  Mic: Woleaian    ke-maẓ         (N) ‘miracle, power’; (V) ‘be powerful as a ghost’
+  Mic: Carolinian  leme-lem       (V) ‘to be in authority, have power or control’
+  Fij: Rotuman     mana           (V) ‘supernatural, miraculous, possessed of or manifesting supernatural power or extraordinary efficacy’
+  Fij: Bauan       mana           (N) ‘supernatural power, a sign, a token, omen’; (adj) ‘possessing suspernatural qualities’ (Capell 1941)
+  Fij: Bauan       mana           (VSt) ‘be effectual; efficient, as a remedy; wonder working’; (V) ‘a word used when addressing a heathen deity: so be it, let it be so’; (N) ‘a sign or omen; a wonder or miracle’ (Hazlewood 1850)
+  Fij: Wayan       mana           (V) ‘(of a person) be able to make things happen, be effective, have creative power, (of events which are predicted, wished or worked for) come true, happen, be realised; (N) ‘power to make things happen, creative power; the act of coming true’
+  Fij: Wayan       mana-mana      (V) ‘be wishful, desire or want s.t. to happen that one has worked for’ (Pawley & Sayaba 2022)
 PPn *mana (N) ‘supernatural power, effectiveness, prestige’; (V) ‘be efficacious’ (POLLEX)
-  Pn: Niuean      mana         (V) ‘powerful’; (N) ‘power, authority; miracle, magic (of
-                               supernatural phenomena)’
-  Pn: Tongan mana              (vi) ‘supernatural, superhuman, miraculous; attended or
-                               accompanied by supernatural happenings’
-                  mana         (N) ‘miracle; supernatural power or influence’
-  Pn: Pukapukan mana           (N) ‘power, right, influence, authority of an individual’
-                  mana-mana ‘magic, magical’
-  Pn: Samoan mana              (N) ‘supernatural power’ (Milner 1966)
-                  mana         (N) ‘supernatural power’; (V) ‘to exert supernatural
-                               power’ (Pratt 1911)
-                  ma-mana      ‘be powerful, compelling’ (Milner); ‘to do wonders,
-                               supernatural power’ (Pratt)
-  Pn: Nukuoro mana             (N) ‘supernatural power’
-  Pn: Tikopia mana             (V) ‘efficacious’; (N) ‘power of extraordinary non-physical
-                               quality, trad. believed derived from gods and ancestors
-                               (essentially pragmatic in being demonstrated only by
-                               concrete results); while trad. associated with chiefs, can be
-                               attributed to other persons, esp. when of rank as indicated
-                               by special powers e.g. in healing or predication’
-  Pn: Rarotongan mana          (V) ‘having authority and the rights and prestige it confers,
-                               effectual, binding’
-  Pn: Tahitian mana            (N) ‘power, might, influence’
-  Pn: Maori       mana         (N) ‘authority, control; power, supernatural force’ (V) ‘be
-                               effectual, take effect’ (Williams 1975); ‘potent, effective,
-                               fulfilled’ (Gudgeon 1885)
-  Pn: Hawaiian mana            (N) ‘supernatural or divine power’
+  Pn:  Niuean      mana           (V) ‘powerful’; (N) ‘power, authority; miracle, magic (of supernatural phenomena)’
+  Pn:  Tongan      mana           (vi) ‘supernatural, superhuman, miraculous; attended or accompanied by supernatural happenings’
+  Pn:  Tongan      mana           (N) ‘miracle; supernatural power or influence’
+  Pn:  Pukapukan   mana           (N) ‘power, right, influence, authority of an individual’
+  Pn:  Pukapukan   mana-mana      ‘magic, magical’
+  Pn:  Samoan      mana           (N) ‘supernatural power’ (Milner 1966)
+  Pn:  Samoan      mana           (N) ‘supernatural power’; (V) ‘to exert supernatural power’ (Pratt 1911)
+  Pn:  Samoan      ma-mana        ‘be powerful, compelling’ (Milner); ‘to do wonders, supernatural power’ (Pratt)
+  Pn:  Nukuoro     mana           (N) ‘supernatural power’
+  Pn:  Tikopia     mana           (V) ‘efficacious’; (N) ‘power of extraordinary non-physical quality, trad. believed derived from gods and ancestors (essentially pragmatic in being demonstrated only by concrete results); while trad. associated with chiefs, can be attributed to other persons, esp. when of rank as indicated by special powers e.g. in healing or predication’
+  Pn:  Rarotongan  mana           (V) ‘having authority and the rights and prestige it confers, effectual, binding’
+  Pn:  Tahitian    mana           (N) ‘power, might, influence’
+  Pn:  Maori       mana           (N) ‘authority, control; power, supernatural force’ (V) ‘be effectual, take effect’ (Williams 1975); ‘potent, effective, fulfilled’ (Gudgeon 1885)
+  Pn:  Hawaiian mana              (N) ‘supernatural or divine power’
 >
 
 272 Meredith Osmond
