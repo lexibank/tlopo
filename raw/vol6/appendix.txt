@@ -1,0 +1,180 @@
+             Appendix A: Sources of lexical data
+
+
+
+A.1 Introduction
+Below are listed data sources used in cognate sets supporting the reconstructions in this
+volume. These sources are divided into published data collections which collate lexical
+material from a number of languages (A.2) and sources for single languages, published and
+unpublished (A.3).
+   Material was drawn from additional sources, many of them ethnographies, in the course of
+writing chapter 2 on kinship and chapter 14 on counting and numerals, and these are listed in
+the appendices to these chapters.
+
+
+A.2 Published data collections covering more than one language
+We have made use of a number of published or publicly available data collections, each of
+which collates data across part or all of Oceanic:
+    Austronesian as a whole, including Oceanic: Tryon 1995; Blust & Trussel 2020; Blust,
+        Trussel & Smith 2023; and Greenhill, Blust & Gray 2008 (all last accessed 28 April
+        2023)
+    Admiralties: Smythe 1975; Blust 2021
+    Western Oceanic: Ross’s field data 1978-1982 (see below)
+    Languages of the Rai Coast (northeast New Guinea): Lincoln 1978
+    Languages of the Morobe Province: Hooley 1971
+    Solomon Islands (including Temotu): Tryon & Hackman 1983
+    Vanuatu: Tryon 1976; Clark 2009 (north and central); Lynch 2001 (south)
+    Micronesian: Bender et al. 2003a; b
+    Polynesian: Clark & Biggs 2006, abbreviated as POLLEX (there is now an online version
+        at http://pollex.org.nz/about/, last accessed 28 April 2023); see Greenhill & Clark
+        2011)
+   Ross’s field data from WOc languages spoken in Papua New Guinea and the western
+Solomons were collected from around 1978 to 1982. These were collated into files
+covering various regions during the research leading to the publication of Ross (1988),
+and their sources are listed in the appendices of that work. These files are archived at
+                                                569
+570   Appendix A
+
+
+ https://doi.org/10.5281/zenodo.7878855. Many of the original lists as collected and
+accompanying recordings made on cassette tape are archived at https://catalog.paradisec.org.au/
+collections/MR1/.
+
+
+A.3 Single-language sources, published and unpublished
+The listing of single-language sources below, by alphabetical order of language, shows
+published and unpublished sources that are listed in the references (ppXXX) and also
+unpublished sources that do not readily lend themselves to listing as standard references.
+The language names are as listed in Appendix B.
+   These unpublished sources consist mostly of electronic files. A few are mimeos or
+typescripts. Dates are given where they are known, but in many cases the materials are
+undated. They include electronic files and manuscripts of dictionaries in progress. Many of
+these were generously made available by individual members of the Papua New Guinea
+branch of the Summer Institute of Linguistics, others by its Technical Studies department,
+mostly in the late 1970s or early 1980s. These are marked ‘SIL’ below. Others were kindly
+provided by colleagues, in some cases more recently, while we were researching for the
+volumes of The lexicon of Proto Oceanic. These are marked ‘unpub’.
+
+Adzera: Karl Holzknecht, unpub.                  Cèmuhî: Rivierre 1994
+Amara: Thurston 1996a                            Chuukese: Goodenough & Sugita 1990,
+Anejom ̃ : Lynch & Tepahae 2001                     1991
+Anus: Grace 1971                                 Daakaka: von Prince 2012, 2017
+Araki: François 2002                             Dami: George Elliott, SIL.
+’Are’are: Geerts 1970                            Dawawa: Martin Knauber and Beate
+Aria: Thurston 1996b                                Knauber, SIL.
+Arosi: Fox 1978                                  Dehu: Tryon 1967
+Babatana: McClatchey 2007                        Dobu: J.W. Dixon 1928; Grant 1953;
+Baluan: Schokkin 2015                               Lithgow & Lithgow 2007a
+Banoni: Lincoln 2005                             Drehet: Stephan Beard, SIL.
+Bariai: Gallagher 2008                           Drubea: Paita & Shintani 1983
+Bauan: Capell 1941                               East Kara: Perry Schlie and Virginia Schlie,
+Belep: McCracken 2012                               SIL; Dryer 2012
+Bing: Simons & Simons 1977; Doug                 East Uvean: Rensch 1986
+   Bennett, SIL                                  Fwâi: Haudricourt & Ozanne-Rivierre 1982
+Bola: Goodenough 1997; van den Berg &            Gao: Johanna Whiteley 2012, unpub.
+   Wiebe 2019                                    Gapapaiwa: McGuckin & McGuckin 1992
+Boumā: R. M. W. Dixon 1988                       Gedaged: Mager 1952
+Bugotu: Ivens 1940a                              Gela: Fox 1955
+Bukawa: Eckermann 2007                           Gitua: Lincoln 1977
+Bulu: Goodenough 1997                            Gumawana: Clif Olson, SIL.
+Buma: François 2021                              Haku: Allen & Allen 2005
+Bunama: Lithgow 2007                             Hawaiian: Pukui & Elbert 1971, 1986
+Carolinian: Jackson & Marck 1991                 Hote: Marguerite Muzzey, SIL
+                                                                Data sources    571
+
+
+Iaai: Ozanne-Rivierre 1984                 Minaveha: Nenegemo & Lovell 1995
+Iamalele: Beaumont & Beaumont 2007         Mindiri: Lincoln 1978
+Iduna: Huckett et al. 1992                 Misima: S. Callister et al. 2005; Bill
+Ifira-Mele: Clark 1998                         Callister, SIL
+Jawe: Haudricourt & Ozanne-Rivierre 1982   Mokilese: Harrison & Albert 1977
+Kairiru: Wivell 1981                       Molima: Chowning 1958
+Kaniet: Smythe 1975                        Mota: Codrington & Palmer 1896
+Kaulong: Craig Throop, SIL                 Motu: Lister-Turner & Clark 1954
+Kayupulau: Grace 1971                      Mouk: Thurston 1996b
+Kilivila: Senft 1986; Lawton 2021          Mussau: Blust 1984
+Kiribati: Sabatier 1971                    Mutu: Bugenhagen & Bugenhagen 2007b;
+Kokota: Palmer 2007a                           Alice Pomponio, unpub.
+Kosraean: Lee 1976                         Muyuw: Lithgow & Lithgow 1974, 2007b
+Kove: Chowning 2009                        Mwotlap: François 2023
+Kubokota: Chambers 2018                    Nakanai: Chowning & Goodenough 2016
+Kwaio: Keesing 1975                        Nalik: Volker 2020
+Kwamera: Lindstrom 1981, 1986              Namakir: Sperlich 2019
+Label: Peekel 1930                         Nanumea: Ranby 1980
+Labu: Siegel 1984                          Nduke: Ian Scales, unpub.
+Lamogai: Thurston 1996b                    Nehan: Glennon & Glennon 2005
+Lau: Fox 1974                              Nêlêmwa: Bril 2000
+Lavongai: Fast & Fast 1989                 Nemi: Haudricourt & Ozanne-Rivierre
+Lenakel: Lynch 1977                            1982
+Lewo: Robert Early, unpub.                 Nengone: Tryon & Dubois 1969
+Lolovoli: Hyslop 2001                      Niuean: Sperlich 1997
+Longgu: Deborah Hill, unpub.               Nixumwak: Bril 2000
+Loniu: Hamel 1994                          Notsi: Leland Erickson & Laurinda
+Lonwolwol: Paton 1973                          Erickson, SIL
+Lou: Blust 1998a; Robert Stutzman &        Nukuoro: Carroll & Soulik 1973
+     Verna Stutzman, SIL                   Numbami: Joel Bradshaw, unpub.
+Lukep: Jeffrey D’Jernes and Lucille        Nyelâyu: Ozanne-Rivierre 1998
+     D’Jernes, SIL                         Nyindrou: Bill Martin, SIL
+Madak: Bob Lee, SIL                        Owa: Mellow 2014
+Manam: Böhm 1975; Stephen Blewett &        Paamese: T. Crowley 1992
+     Kim Blewett, SIL                      Paicî: Rivierre 1983
+Mangap: Bugenhagen & Bugenhagen 2007       Patpatar: Ed Condra, SIL
+Mangseng: Lloyd Milligan, SIL              Pije: Haudricourt & Ozanne-Rivierre 1982
+Māori: Williams 1971                       Pingelapese: Good & Welley 1989
+Mapos Buang: Rambok & Hooley 2010          Piva: Peter Lincoln 1976a
+Maringe: White et al. 1988                 Ponapean: Rehg & Sohl 1979
+Marovo: Hviding 1995                       Puluwatese: Elbert 1972, 1974
+Marshallese: Abo et al. 1976               Ramoaaina: Lisbeth Fritzell and Robyn
+Mato: McHenry, Stober & Troolin 1996           Davies, SIL
+Matukar: Barth 2012                        Riwo: Mager 1952
+Mengen: Fred Madden, SIL                   Roinji: McHenry, Stober & Troolin 1996
+Meramera: Goodenough 1997                  Rotuman: Churchward 1940
+572   Appendix A
+
+
+Roviana: Waterhouse 1949                    Uruava: Palmer 2007b
+Sa’a: Ivens 1918, 1929a                     Utaha: Lynch 1983d
+Samoan: Pratt 1862; Milner 1966             Varisi: Fr Stephen Farrant, unpub.
+Seimat: W. Smythe, unpub.                   Vurës: Malau 2016
+Sengseng: Chowning 1996                     Wab: Lincoln 1978
+Siar: Rowe 2005; Frowein 2011; Larry        Wampar: Fischer & Beer 2017
+    Erdman, SIL                             Wayan: Pawley & Sayaba 2022
+Sikaiana: Donner 2012                       Wedau: Jennings 1956
+Sinaugoro (Balawaia): Tauberschmidt         Woleaian: Sohn & Tawerilmang 1976
+    1995, 2007                              Wuvulu: Hafford 2014
+Sio: Stephen Clark and Dawn Clark, SIL      Xârâcùù: Moyse-Faurie & Néchérö-Joredié
+Sissano: Stephen Whitacre, SIL                 1986
+Sobei: Ajamiseba, Kafiar & Silzer 1987      Yabem: Zahn 1982
+Sonsorolese: Capell 1969                    Yapese: Jensen 1977
+South Efate: Thieberger 2006b, 2011
+Southeast Ambrym: Parker 1970
+Southwest Tanna: Lynch 1982
+Sudest: Anderson 2007
+Sursurunga: Samson et al. 2018; Don
+    Hutchisson, SIL
+Sye: T. Crowley 2000; Lynch 2001b
+Takia: Salme Bugenhagen & Judy Rehberg,
+    SIL; Curtis Thomas, SIL; Bruce Waters
+    SIL; Malcolm Ross, unpub.
+Tamambo: Jauncey 2011
+Tami: Bamler 1900
+Tangga: Bell 1977
+Tawala: Bryan Ezard, SIL
+Tenis: Lithgow & Claassen 1968
+Teop: Schwartz et al. 2007; David Snyder,
+    SIL
+Tigak: Beaumont 1979
+Tikopia: Firth 1985
+Tinputz: Roman Hostetler, SIL.
+Titan: Bowern 2011; Keith Lusk, SIL
+To’aba’ita: Lichtenberk 2008a
+Tokelauan: Simona 1986
+Tolai: Lanyon-Orgill 1962; Rickard et al
+    1964
+Tolo: S. Crowley 1986
+Tongan: Churchward 1959
+Tumleo: Schultze 1911
+Ughele: Frostad 2012
+Ulawa: Ivens 1918
+Unua: Pearce 2015
+Ura: Lynch 1983c

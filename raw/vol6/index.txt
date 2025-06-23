@@ -1,0 +1,1933 @@
+            Index of reconstructions by protolanguage
+
+Protolanguages are ordered from the top of the Austronesian tree downward, but with all
+branches of Western Oceanic before Eastern Oceanic: see Figures 1.1 and 1.5 (pp.11, 28).
+    In alphabetising reconstructions, an upper-case character follows the corresponding lower-
+case character (thus R follows r); ɣ follows g; ñ follows n; ŋ follows ñ; the digraph dr follows
+d; a superscripted character is treated like the corresponding unsuperscripted character; and
+macrons, parentheses and brackets are ignored. Because reconstructions that contain brackets
+represent two or more alternative reconstructions (for bracketing conventions see Table 1.1),
+where the alternatives would appear at different points in the index, they are spelt out as
+alternative reconstructions and appear at the appropriate point in alphabetical order. Thus POc
+*[bu]bui, ‘grandparent, grandchild’ occurs at two points in the index, as *bubui and as *bui,
+and PAn *qaL(i,u)Cu ‘ghost, spirit of the dead; owl’ as *qaLiCu and *qaLuCu.
+    Verbs with intransitive and transitive forms are often shown with both forms in a single
+entry. Thus POc *butu, *butuR-i- ‘stamp foot, tread, kick’, ‘stamp on, tread on, trample’ or
+POc *panaq, *panaq-i- ‘shoot’.
+    Reconstructed PSV nouns consisting of *n(V)-, *e- or *i- ‘article’ + root and verbs
+consisting of *a- or *e- + root are alphabetised by the root, thus PSV *mʷane-, [na-]
+‘♀brother’.
+
+
+Proto Austronesian (PAn)                          *duSa ‘two’ 455
+*amax ‘father’ 85                                 *enem ‘six’ 463
+*asa ‘one’ 448                                    *esa ‘one’ 448
+*bajaq ‘tell, inform, ask, enquire, know,         *ina ‘mother, mother’s sister’ 89
+   understand’ 383                                *isa ‘one’ 448
+*beli ‘buy’ 408                                   *kaka ‘elder sibling’ 116
+*beRay ‘give’ 422                                 *kuŋkuŋ ‘slitgong’ 204
+*bubu ‘grandparent, grandchild’ 108               *lima ‘five, hand’ 461
+*Cakaw, ‘steal’ 423                               *mamah ‘father, father’s brother’ 85
+*Caŋis ‘to weep, cry; mourn; beseech’             *pakpak ‘to clap, sound of clapping or
+   217                                               flapping’ 222
+*da-duSa‘two, of people’ 457                      *paliSi ‘taboo, ritual restriction; purifying
+*damaR ‘tree resin used in torches (?)’              rite’ 294
+   307                                            *panaq ‘throw s.t. at a target; shoot with
+*depah ‘fathom’ 558                                  bow and arrow’ 231
+
+
+                                             691
+692 Index of reconstructions by protolanguage
+
+
+*pijax ‘how many? how much?’ 474              *duha ‘two’ 455
+*pitu ‘seven’ 464                             *epat ‘four’ 459
+*qaLiCu ‘ghost, spirit of the dead; owl’      *hipaR ‘sibling-in-law (probably of the
+   236                                           same sex only)’ 128
+*qaLiŋu ‘shadow, reflection’ 242              *ihap ‘count’ 439
+*qasawa ‘spouse’ 125                          *ina ‘mother, mother’s sister’ 89
+*qauR ‘bamboo sp.’ 198                        *ina-y ‘mother (ADDR)’ 90
+*qudip ‘life; alive’ 240                      *kaka ‘elder s.s. sibling’ 116
+*Rumaq ‘dwelling house’ 177                   *kamaliR ‘men’s house’ 179
+*sa-puluq ‘10’ 468                            *kunu ‘it is said, people say…’ 395
+*Sepat ‘four’ 459                             *kuwá ‘say’ 379
+*Si-ka-NUMERAL                                *ma-qudip ‘living, alive; grow, flourish;
+   ‘prefix for ordinal numerals’ 479             fresh; heal, cure, revive, recover’; (n)
+*Siwa ‘nine’ 466                                 ‘vital principle, soul, spirit; flame’ 240
+*ta-amax ‘father’ 83                          *mama ‘father, father’s brother’ 85
+*ta-ina ‘mother’ 87                           *matuqa ‘mother’s brother, mother’s
+*telu ‘three’ 457                                brother’s wife, wife’s parent’ 95
+*tepeŋ ‘to measure quantities, as amounts     *nana ‘mother’ 89
+   of grain’ 566                              *ŋeni ‘beg, ask for’ 389
+*walu ‘eight’ 465                             *ŋuŋ, *ŋu(ŋ)-ŋuŋ ‘buzz, hum’ 209
+                                              *paka-NUMERAL (FREQUENTATIVE ADVERB)
+Proto Malayo-Polynesian (PMP)                    ‘NUMERAL times’ 480
+*ama ‘father, father’s brother’ 85            *panakaw ‘steal’ 423
+*ampu ‘grandparent, grandchild’ 107           *pened ‘stopped up, plugged’ 419
+*aya ‘respect term for a member of ego’s      *qaninu ‘shadow, reflection’ 242
+   parents’ generation’ 98                    *qanitu ‘ghost, ancestral spirit; nature
+*balay ‘public building’; ‘unwalled              spirit; corpse; owl; various plants’ 236
+   building’ 179                              *qanunu ‘shadow, reflection’ 242
+*balu ‘some, some more’ 474                   *qatuan ‘deity’ 245
+*batuR ‘plait, weave’ 219                     *sa ŋa puluq ‘10’ 470
+*beli (N) ‘value, price; marriage             *sa ŋa Ratus ‘100’ 470
+   prestations, brideprice’; (v) ‘purchase’   *sa-Ratus ‘100’ 469
+   408                                        *saŋa ‘bifurcation, fork of a branch’ 555
+*beRay ‘give, present gifts to; gift’ 422     *saRup ‘sing in unison’ 212
+*bubu ‘grandparent, grandchild’ 108           *siwa ‘nine’ 466
+*bubu-y ‘grandparent, grandchild’ 109         *t-ama ‘father, father’s brother’ 83
+*buluq ‘a constellation, the Pleiades’ 309    *taji ‘younger s.s. sibling’ 2
+*cikep ‘catch with the hands’ 229             *takaw ‘steal’ 423
+*datu ‘chief; leader, lineage priest, head    *taŋis ‘to cry’ 217
+   of family, prince, grandparent, title      *tapuRiq ‘conch shell trumpet’ 196
+   given to a sovereign, shaman, ancestor
+   in the female line’ 156
+                                         Index of reconstructions by protolanguage 693
+
+
+*taqun ‘period of a year’ (?); ‘recurrent      *saŋa ‘crotch, fork of the legs; span, fork
+    seasonal cycle, especially yam season         of the fingers’ 555
+    cycle’ 298                                 *tampu ‘grandparent, grandchild’ 107
+*tina ‘mother, mother’s sister’ 87             *taRam (V) ‘answer, agree’ 391
+*tulali ‘bamboo nose flute’ 200                *tu ‘child, offspring’ 101
+*tumpu ‘grandparent, grandchild’ 105           *tuqa ‘mother’s brother’ 95
+*tuRaŋ ‘kinsman, relative (undefined)’         *wanse ‘divide’ 415
+    123                                        *wase ‘divide’ 415
+*umpu ‘grandparent, grandchild’ 107            *wawa ‘grandparent, grandchild’ 109
+*zaŋan ‘handspan’ 555
+                                               Proto Oceanic (POc)
+Proto Philippine                               *NUMERAL-NUMERAL            ‘NUMERAL by
+*nana ‘older female relative (ADDR)’ 89           NUMERAL’; ‘NUMERAL at a time’;
+                                                  ‘NUMERAL each’ 481
+                                               *[sa]Ratus ‘100’ 469
+Proto Central-Eastern Malayo-                  *[tau]laki ‘marry; married person’ 135
+   Polynesian (PCEMP)                          *abu[a] ‘grandparent, grandchild’ 107
+*bai ‘say’ 381                                 *ama ‘father, father’s brother’ 85
+*buu ‘conch shell trumpet’ 196                 *aya ‘member of EGO’s parents’
+*matay ‘money, payment, medium of                 generation (respectful address term)’
+   commercial exchange’ 410                       98
+*pati ‘four’ 460                               *baki ‘strike one against another, knock,
+*tambu ‘forbidden, taboo’ 285                     clap’ 222
+*wari ‘sing, song’ 208                         *balau ‘lie (by exaggeration?)’ 397
+                                               *bawa[-] ‘great-great-grandparent, great-
+Proto Eastern Malayo-Polynesian                   great-grandchild’ 111
+   (PEMP)                                      *bogo-bogo ‘jew’s harp’ 201
+*aya- ‘father’s sister, mother’ 98             *bubu ‘grandparent, grandchild’ 108
+*b‹in›ai ‘woman, wife’ 127                     *bubui ‘grandparent, grandchild’ 109
+*babinay ‘♂sister’ 118                         *bugo-bugo ‘jew’s harp’ 201
+*bawa ‘great-great-grandparent, great-         *bui ‘grandparent, grandchild’ 109
+   great-grandchild’ 111                       *buku ‘debt’ 418
+*boRe ‘give’ 422                               *bulu(q) ‘a constellation, the Pleiades’
+*matuqa ‘mother’s brother’ 95                     309
+*muaqanay ‘♀brother’ 119                       *buŋV (CLF) ‘bunch (of fruit, esp.
+*nai ‘mother (ADDR)’ 90                           betelnut?)’ 489
+*natu ‘child, offspring’ 99                    *butu, *butuR-i- ‘stamp foot, tread, kick’,
+*nene ‘mother’ (ADDR) 90                          ‘stamp on, tread on, trample’ 224
+*ŋkaŋka ‘parent’s sibling’ (?) 93              *buu ‘conch shell trumpet’ 196
+*pat ‘four’ 459                                *bʷaku (V) ‘to sing, dance’ 210
+*qatu ‘child, offspring’ 101                   *bʷala ‘say, speak’ 383
+                                               *dramaR (sense uncertain) 307
+694 Index of reconstructions by protolanguage
+
+
+*garamut ‘slitgong’ 205                    *mama ‘father, father’s brother’ 85
+*iap, *iap-i- ‘count’ 439                  *manu (CLF) ‘animate’ 487
+*-ika, *ika- (CLF) ‘unit of 10’ 498        *manuk ‘bird; Bird constellation
+*i-ka-NUMERAL                                 including Canopus, Sirius, Procyon’
+    ‘prefix for ordinal numerals’ 479         342
+*ina ‘mother, mother’s sister’ 89          *maqurip (V) ‘be alive, live, flourish; be
+*ipaR, *ipa- ‘s.s. sibling-in-law’ 128        in good health’; (N) ‘soul, life force’
+*ipu ‘blow; native flute’ 199                 240
+*isa ‘one’ (ATTRIBUTIVE); (?) INDEFINITE   *masi ‘magic; perform magic’ 250
+    ARTICLE 448                            *mate (N) ‘price’; (v) ‘transact’ 410
+*kabi-ña ‘chief’ 171                       *matu(q)a ‘mother’s brother’ 95
+*kaci- ‘younger s.s. sibling’ 114          *mʷaja ‘play, have fun’ 228
+*kai (CLF) ‘long, rigid object; wooden     *mʷal(i)aw(i,a)- (?) ‘spirit, living or dead’
+    object; tree’ 485                         239*mʷane, PNCal, ‘♀brother’ 120
+*kaka ‘elder s.s. sibling (ADDR), elder    *mʷala ‘? person of low social status’;
+    parallel cousin (ADDR)’ 116               173
+*kaka ‘parent’s sibling’ (?) 93            *mʷalala (N) ‘cleared land, clearing’, (V)
+*kamali(R) ‘men’s meeting house’ 179          ‘clear land’ 183
+*kanam ‘sing, song’ 209                    *mʷaqane- ‘♀brother’, ♀male parallel
+*kapʷat ‘call or speak loudly’ 397            cousin (?) 119
+*kawe(C) ‘woman, wife’ ? 127               *mʷar(i)aw(i,a)- (?) ‘spirit, living or dead’
+*kina- ‘mother’ 89                            239
+*koŋkoŋ ‘slitgong’ 204                     *mʷaR(i)aw(i,a)- (?) ‘spirit, living or
+*kopi ‘bamboo; bamboo flute’ 198              dead’ 239
+*koro ‘fenced-in area’; ‘? settlement      *nai ‘mother (ADDR)’ 90
+    fortified by barrier’ 182              *ñaña ‘mother, mother’s sister’ 89
+*koron ‘lie, tell a lie’ 396               *natu- ‘child, s.s. sibling’s child, parallel
+*kʷa, *kʷai- ‘say, tell’ 379                  cousin’s child, mother’s brother’s
+*kʷaro ‘call out a greeting’ 393              child’ 76, 99, 100
+*lagar ‘dance accompanied by singing’      *nene ‘mother’ 90
+    222                                    *nima- (CLF) ‘hand, arm’ 463
+*lami ‘tell a lie’ 397                     *noŋi ‘beg, ask (for s.t.)’ 389
+*lapat ‘big, great’ 171                    *nunu ‘shadow of person, likeness,
+*lawa ‘♂sister’s child (?), mother’s          reflection; soul that may leave the
+    brother’ 102                              body in dreams’ 242
+*lima ‘five’ 461                           *-ŋapa (CLF) ‘fathom’ 560
+*luku ‘count’ 440                          *-ŋapuluq (CLF) ‘unit of 10’ 501
+*mako (N,V) ‘dance’ 221                    *ŋoni ‘beg, ask (for s.t.)’ 389
+*makubu- ‘grandchild; kin two              *ŋulu ‘in a whisper’ 398
+    generations below ego’ 77, 110         *ŋulu-ŋulu (V) ‘whisper’ 398
+*malaqai ‘? public space in a village,     *ŋuŋu ‘hum’ 209
+    village plaza’ 182                     *oli-oli ‘a lullaby’ 216
+                                         Index of reconstructions by protolanguage 695
+
+
+*onom ‘six’ 463                                 *pera ‘? settlement, open space associated
+*pa-NUMERAL (FREQUENTATIVE ADVERB)                 with a house or settlement’ 181
+   ‘NUMERAL times’ 480                          *pica ‘how many? how much?’ 474
+*pa-NUMERAL-*ña ordinal numeral form            *pi(g,k)o ‘bamboo wind instrument’ 199
+   478                                          *pine ‘woman, wife’ (ACD: 127
+*pacu, *pacua- ‘♂sister’s child’ (?) 103        *pitu ‘seven’ 464
+*paila ‘greet/welcome loudly;                   *poli (V) ‘to barter, purchase by
+   exclamation of welcome’ 393                     exchange’; (N) ‘price, brideprice;
+*painako ‘steal’ 424                               value’ 408
+*paka-NUMERAL (FREQUENTATIVE ADVERB)            *poli-poli ‘trade, barter 409
+   ‘NUMERAL times’ 480                          *ponot ‘to close up; be full, complete’ 419
+*paka-NUMERAL-*ña ordinal numeral               *pua (CLF) ‘default inanimate; round
+   form 478                                        object’ 483
+*pala, *pala-i- ‘give’ 423                      *pui, *pui (CLF) ‘bunch, group’ 490
+*pale ‘building for storage or public use,      *-pua (CLF) ‘10 roundish objects’ 508
+   open-sided building, shed’ 179               *pʷa, *pʷai- ‘say, tell’ 381
+*pali ‘ritually restricted or prohibited’ 294   *pʷaca(q) (N) ‘word, speech, language’;
+*palu ‘some, a few’ 474                            (V) ‘speak 383
+*panako ‘steal’ 423                             *pʷaca(q)i- ‘speak (s.t.), say (s.t.)’ 383
+*panaq ‘bow’ 231                                *pʷaja(R) (VI) ‘clap hands’ 223
+*panaq, *panaq-i- ‘shoot’ 231                   *pʷajaR-i (VT) ‘slap with open hand’ 223
+*pani- ‘give’ 422                               *pʷanaq ‘bow’ 231
+*panua ‘land, territory, inhabited place,       *pʷanaq, *pʷanaq-i- ‘shoot’ 231
+   community, etc 183                           *qalawa ‘♂sister’s child (?), mother’s
+*paŋi ‘four’ 461                                   brother’ 102
+*papaq[a]- (CLF) ‘coconut frond’ 505            *qanitu ‘ancestral spirit, spirit of the dead’
+*papine- ‘♂sister’, ♂female parallel               236
+   cousin’ 118                                  *qanunu ‘shadow of person, likeness,
+*paq[a]- (CLF) ‘coconut frond’ 505                 reflection; soul that may leave the
+*paRi ‘generic term for cat’s cradle’ 229          body in dreams’ 242
+*pasu, *pasua- ‘♂sister’s child’ (?) 103        *qapa (CLF) ‘flat object; sheet of s.t.; leaf’
+*pat ‘four’ 459                                    488
+*pata ‘long cylindrical object; tree trunk’     *qasawa ‘spouse’. ‘marry’ (?) 125, 134
+   488                                          *qata ‘soul, spirit; shadow, reflection’ 243
+*pati ‘four’ 460                                *qatu- ‘child: offspring of ego or of s.s.
+*pato, *patoli- ‘say or call s.o.’s name;          sibling’ 101
+   say, speak’ 393                              *qatuan ‘deity, supernatural being’ 245
+*patu(R) ‘plait, weave’ 219                     *qauR ‘bamboo; bamboo wind
+*pela ‘greet/welcome loudly; exclamation           instrument’ 198
+   of welcome’ 393                              *qiti, *qi (CLF) ‘hand of bananas’ 489
+*pelapela ‘shout, exclaim’ 393                  *ra-rua ‘two, of people’ 457
+*penako ‘steal’ 424                             *rali ‘slitgong’ 205
+696 Index of reconstructions by protolanguage
+
+
+*raŋi ‘a song to accompany dance’, 210         *tai ‘one’ 452
+*raun (CLF) ‘leaf’ 506                         *takunu ‘tell a story, narrate’ 215
+*rawa ‘parent- or child-in-law’ 132            *tama- ‘father, father’s brother, mother’s
+*roŋoR ‘hear’ 214                                  sister’s husband’ 83
+*ropa (N) ‘fathom: with arms extended,         *taŋis, *taŋis-i ‘cry, wail, lament, for
+   length from finger tips to finger tips’ ;       humans; for animals to make a sound
+   (v) ‘measure in s’ 558                          appropriate to their character; for
+*roroŋoR ‘to sound, be audible’ 214                musical instruments to sound’ 217
+*rua ‘two’ 455                                 *tapuRiq ‘triton shell: Charonia tritonis; a
+*rupʷas, *rupʷasi- ‘tell lies to s.o.,             triton shell trumpet’ 196
+   deceive s.o.’ 396                           *tara(s), taras-i- ‘distribute, divide up,
+*Rumaq ‘dwelling house’ 177                        share’ 417
+*sa ‘one’ (ATTRIBUTIVE); (?) INDEFINITE        *tari ‘some’; 474
+   ARTICLE 448                                 *taRam, *taRami- ‘allow, agree, co-
+*sa ŋa puluq ‘10’ 470                              operate’ 391
+*sa ŋa Ratus ‘100’ 470                         *tata ‘address term for any male called
+*sa-puluq ‘10’ 468                                 “father’’ and for other senior males’ 86
+*sagar (N,V) ‘dance’ 220                       *tau ‘animate; person’ 486
+*saŋa- ‘fork (in tree), forked stick or        *tau-mate ‘corpse; spirit of the dead’ 237
+   branch; crotch, fork of the legs; span,     *tibʷa(ŋ) ‘dart, arrow’ 230
+   fork of the fingers’ 555                    *tina ‘mother, mother’s sister’ 87
+*saRa ‘shell money made from small             *tolu ‘three’ 457
+   shells’ 411                                 *topoŋ ‘to measure; to mark (for cutting);
+*saRu(p) ‘sing in unison’ 212                      to try (s.t.) out’ 566
+*sese- ‘great-great-grandparent (?)’ 111       *tu- ‘child: offspring of ego or of s.s.
+*sikop ‘catch with the hands’ 229                  sibling’ 101
+*siwa ‘nine’ 466                               *tua- ‘o.s. sibling-in-law, older than ego’;
+*soli, *soli(t,ŋ)-i- ‘distribute, pass to          131
+   another’ 417                                *tuaka- ‘elder s.s. sibling, elder parallel
+*soRo(p), *soRo(p)i- ‘call, summon’ 394            cousin’ 115
+*suga, *sugai- ‘ask s.o. for .s.t.’ 390        *tubu- ‘grandparent, grandchild’,
+*ta INDEFINITE ARTICLE; (?) ‘one’ 450              mother’s brother (?) 105
+*ta-sa ‘one’ (serial) 449                      *tubuqan ‘supernatural being’ 246
+*ta-si ‘one’ 449c                              *tulali ‘bamboo nose flute’ 200
+*ta(u)-lapat ‘chief’ or ‘big man’ 169          *tuqa ‘mother’s brother’ 95
+                                               *tuRaŋ ‘friend, companion; relative of
+*tabu (VSt) ‘forbidden, prohibited’; (N)
+                                                   ego’s generation’ 123
+   ‘prohibition’ 285
+                                               *tusu- ‘forefinger’ 557
+*tabu- ‘grandparent, grandchild’ 107
+                                               *ubu ‘grandparent, grandchild’ 107
+*tabuna ‘dehortative: “don’t!”’ 295
+                                               *udolu ‘all, whole’ 473
+*taci- ‘younger s.s. sibling, parallel
+                                               *upi ‘blow; native flute’ 199
+   cousin’s younger s.s. child’; ‘o.s.
+                                               *uraki ‘make an offering to the gods’ 256
+   sibling-in-law, younger than 2, 130
+                                         Index of reconstructions by protolanguage 697
+
+
+*wali ‘paint, smear, rub on’ 225               Proto Eastern Admiralty
+*walu ‘eight’ 465                              *-cala (CLF) ‘path’ 503
+*waRa, *waRai- ‘say (s.t.), tell (s.o. to do   *-fatV (CLF) ‘container, bag, basket’ 502
+  s.t.)’ 384                                   *-koro (CLF) ‘village’ 503
+*wari ‘sing, song’ 208                         *-ŋatu (CLF) ‘unit of 100’ 501
+*wase ‘distribute (food at a feast), divide
+                                               *-polV (CLF) ‘(longitudinal?) half’ 503
+  up, count out’ 415
+*wawa ‘grandparent, grandchild’ 109
+                                               Proto Western Oceanic (PWOc)
+*wawa ‘mother’s brother’ 96
+                                               *baqe ‘wing (?), hand’ 526
+NUMERAL-*ña         ‘ordinal numeral form’
+                                               *bara ‘poison, magic employed to affect
+  476
+                                                  another person’ 266
+                                               *kud(e,u) ‘hourglass drum’ 203
+Possibly Proto Oceanic (POc?)
+                                               *kul(a,e) ‘exchange, buy’ 409
+*kai-sa ‘one’ (serial) 455
+                                               *pile ‘speak negatively or scornfully to
+*nanasa, *nanasai- ‘ask’ 386
+                                                  (s.o.)’ 396
+*peRe ‘give’ 422
+                                               *sowa, *sowai- ‘say, speak’ 383
+*qata ‘person’ 487
+                                               *tore ‘ask, enquire’ (?) 387
+*sa-kai ‘one’ 454
+                                               *varis ‘mother’s brother, ♂father-in-law’
+*ta-kai ‘other’ 454
+                                                  96
+*waRo (CLF) ‘a string of a specified
+   number of a product’ 490                    Proto New Guinea Oceanic
+                                               *bara(q)um ‘spirit of dead person’ 238
+Proto Admiralty (PAd)                          *mʷaria(b,w)a- ‘spirit, perhaps of a
+*-buŋu (CLF) ‘cluster, bundle (usually of         person’ 239
+   fruit)’ 489                                 *nabʷa ‘a spell’ 266
+*-fu, (ə-) DEFAULT NUMERAL CLASSIFIER
+   484                                         Proto Papuan Tip (PPT)
+*-kaba (CLF) ‘flat object; leaf’ 488           *(tau)baravu ‘sorcerer’ 265
+*-kai (CLF) ‘long rigid object; tree’ 485      *baravu ‘sorcery’ 265
+*-mʷaw (CLF) ‘animate; person (?) 502          *ika- (CLF)‘10 of s.t.’
+*-ŋafulu (CLF) ‘unit of 10’ 501                *kai[u]- (CLF) ‘default inanimate classifier
+*-potV (CLF) ‘fire, firewood’ 502                 (?); long rigid object; wooden thing’
+*-Ruma (CLF) ‘house’ 502                          486
+*mʷalaw(i,a)- ‘spirit, perhaps of the dead’    *manu- (CLF) ‘animal’ 487
+   239                                         *tau- (CLF) ‘human; male human (?)’ 503
+*nana ‘parent- or child-in-law’ (?) 133        *ta ‘one’ 450
+*ñana ‘parent- or child-in-law’ (?) 133        *waRo- (CLF) ‘a bundle of coconuts’ 490
+*saŋafulV ‘10’ 470
+*saŋatV ‘100’ 470                              Proto Sudest-Nimoa
+                                               *ta[ɣa] ‘one’ 450
+Proto Western Admiralty
+*tai ‘one’ 452                                 Proto Kilivila
+698 Index of reconstructions by protolanguage
+
+
+*ova- (CLF) ‘fathom; double-arm span’           Proto Southeast Solomonic (PSES)
+   559                                          *iva- ‘♀sister-in-law’, 129
+*ta-za ‘one’ 449                                *kesa ‘one’ (serial) 455
+                                                *kunu ‘gossip, talk negatively about s.o.’
+Proto North Mainland/D’Entrecasteaux                395
+*ta-mo[qa]- ‘one’ 450                           *mʷai-mʷane ‘o.s. sibling, cross-sex
+                                                    cross-cousin’ 119
+Proto Bwaidoga                                  *sa-kai ‘one’ (ATTRIBUTIVE) 454
+*sa-qe-ana ‘one’ 454                            *suga, *sug(a,e)ti- ‘desire (s.t.), ask for
+                                                    (s.t.)’ 390
+Proto Central Papuan                            *tadalo ‘ghost, spirit’ 238
+*ta ‘one’ 450                                   *tidalo ‘ghost, spirit’ 238
+                                                *vanaɣo ‘steal’ 424
+Proto NW Solomonic                              *vavine- ‘♂sister’ 119
+*ratus ‘100’ 469                                *waRa- ‘speak’ 385
+                                                *wati ‘spouse’ 126
+Proto Eastern Oceanic (PEOc)
+*apu ‘house foundation’ 180                     Proto Malaita-Makira
+*bata ‘speak, utter’ 384                        *adalo ‘ghost, spirit’ 238
+*kai ‘call out to (s.o.), say forcefully’ 394   *ɣai, *ɣai(li)- ‘shout to s.o., insist on s.t.’
+*mana (VSt) ‘to have supernatural power             394
+   from ancestral spirits as manifest in        *ili- ‘say’ 387
+   successful outcomes; be efficacious’;        *mola ‘usual, merely; permitted’ 293
+   (n) ‘efficacy, success’ 271                  *pʷela (CLF) ‘1000 coconuts’ 501
+*noqi ‘ask for, beg’ (?) 390                    *sinola (CLF) ‘10 large fish, 10 collections
+*paRage ‘tree sp., Pangium edule; dance             of ten yams, or ten branches of s.t.’
+   rattles’ 202                                     500
+*pono ‘to settle a debt; complete, close        *yaru, *yaruʔ-i ‘invoke a spirit, make
+   up’ 419                                          imprecations, put a spell on someone
+*sori(t) ‘lie, tell a lie’ 396                      over something’ 252
+*soso ‘expiate, compensate, propitiate’
+   257, 420                                     Proto Malaitan
+*sui ‘pay, redeem a debt’ 419                   *a-ariki ‘unmarried girl, maiden,
+*[ta]tata ‘stammer’ (?) 398                        daughter’ 172
+*tau panua ‘person belonging to a place,
+   land owner’ 192                              Proto Remote Oceanic (PROc)
+*tubuqa ‘spirit being (possibly guardian        *kato (V) ’speak a foreign language’; (N)
+   spirit)’ 246                                    ‘speech, language, foreign language’
+*tukunu ‘tell a story, tell news’ 215              398
+*vaizu, *vaizuni- ‘ask, enquire’ 387            *[ro]roŋoR (V) ‘sing; chant, recite
+*wati ‘spouse’ 126                                 traditional lore’; (N) ‘traditional lore’
+                                                   214
+                                          Index of reconstructions by protolanguage 699
+
+
+*taku ‘brother-in-law’ 129                      *vavine- ‘♂sister’ 119
+*u(C)unu ‘Aldebaran’ 341                        *viti ‘speak, say’ 386
+                                                *voza ‘clap, slap, strike’ 223
+Proto Southern Oceanic                          *vʷara ‘speak, say, call’ 385
+*nunu ‘shadow, image, reflection, soul’         *vʷasa ‘speak, say’ 383
+   243                                          *vʷavʷa ‘mother’s brother, father’s sister’
+                                                   96
+Proto North-Central Vanuatu (PNCV)
+*[ta]taro ‘pray, wish for’ 253                  Proto North Vanuatu
+*abu[a] ‘grandparent, grandchild’ 107           *te-wa[le] ‘one’ 453
+*alawa ‘sister’s child’ 103
+*asoa- ‘spouse’ 125                             Proto Torres-Banks
+*buku ‘debt’ 419                                *mana ‘supernatural power held by a
+*bʷalika ‘parent- or child-in-law’ 134             person or thing; magic force’ 272
+*ina ‘mother, mother’s sister’ 89               *mʷakoto + ‘fresh/wet Panax grass’ ≈
+*kai ‘call out (to s.o.), vocalise loudly’         April–May 338
+    395                                         *mʷakoto raŋo ‘dry grass’ ≈ May–June
+*kai-masi ‘sorcerer’ 250                           338
+*kamali ‘men’s house’ 180                       *mʷonu ‘thunder’ 277
+*mako ‘boys’ dance’ 221                         *ud gogona ‘bitter (palolo)’ ≈ September
+*makubu ‘grandchild’ 110                           337
+*mama ‘father’ 86                               *ud lava ‘big palolo’ ≈ November–
+*matu(q)a ‘mother’s brother’ 95                    December 337
+*qalawa ‘sister’s child’ 103                    *ud were ‘rump of palolo’ ≈ December–
+*qata- ‘soul, spirit’ 243                          January 337
+*qata-mate ‘ghost; spirit of dead person’
+    237                                         Proto Central Vanuatu
+*ra-tina- ‘mother’ 88                           *tau-wia ‘brother-in-law’ 130
+*sa-wa ‘one’ 448
+*sale ‘jump, dance’ 222                         Proto North Malakula
+*tama- ‘father, father’s brother’ 84            *sa-ɣa-l ‘one’ 448
+*taRamʷi ‘allow, accept, agree’ 392
+*tina ‘mother’ 88                               Proto Cesntral-West Malakula
+*tovo ‘measure’ 567                             *sava[ɣ,m] ‘one’ 448
+*tubu- ‘grandparent, grandchild’ 106
+*tukunu ‘story, tell a story’ 215               Proto Efate
+*usi ‘ask’ 388                                  *si-kai ‘one’ 454
+*vanako ‘steal’ 424
+*vaRage ‘tree sp., Pangium edule, fruit         Proto Southern Vanuatu (PSV)
+    used as dance rattles’ 202                  *-tua- ‘elder s.s. sibling’ 115
+*vareqa ‘outside, public space’ 181             *[va]vine-, na- ‘♂sister’ 119
+*vava ‘speak, say’ 382                          *alwə- ‘♂sister’s son’ ? 103
+700 Index of reconstructions by protolanguage
+
+
+*cinV-, ri- ‘mother, mother’s sister’ 88      *anitu ‘god, spirit’ 236
+*maɣubʷu- ‘grandchild’ 110                    *fa(s,S)ua ‘o.s. sibling’s child’ 103
+*mata- ‘mother’s brother, spouse’s father,    *fale ‘meeting house’ 179
+    parent’s sister’s husband’ 95             *fali ‘engage in ceremonial rite’ 294
+*mʷane-, [na-] ‘♀brother’ 120                 *kai ‘inform’ 380
+*natu ‘child’ 100                             *kata (N,V) speech, language, foreign
+*ri-(t,c)inV- ‘mother, mother’s sister’ 88        language’; ‘talk, chatter, talk a foreign
+*tbu-, [e-] ‘grandparent’ 106                     language’ 398
+*tinV-, ri- ‘mother, mother’s sister’ 88      *kayinaŋa ‘clan, folk, tribe, stock’ 191
+*tme-, e- ‘father, father’s brother’ 84       *kisi (CLF) ‘small, little’ 506
+*tpu-, [e-] ‘grandparent’ 106                 *-kisi (CLF) ‘small parts of s.t.’ 506
+                                              *kua ‘Dolphin constellation, a
+Proto New Caledonia (PNCal)                       constellation including Cassiopeia and
+*iva- ‘♀sister-in-law’, 129                       approximately equivalent to Aries’ 347
+*qasao- ‘spouse’ 126                          *mana, mana-mana (V) ‘be efficacious,
+*tama- ‘father, father’s brother’ 84              have supernatural power’; (N)
+*tasi- ‘younger s.s. sibling’ 113                 ‘efficacy, supernatural power’ 272
+*tina- ‘mother, mother’s sister’ 88           *manu ‘bird; Bird constellation consisting
+*tta ‘one’ 451                                    of Canopus, Sirius, and Procyon’ 342
+*tuka- ‘elder s.s. sibling’ 115               *māti-ciki ‘stars in Sagittarius’ 345
+*tuᵐbu- ‘grandparent’ 106                     *māti-lapa ‘the star Altair (or perhaps the
+                                                  constellation Aquila including Altair)’
+Proto Far North New Caledonia                     346
+*pʷa-     (CLF) ‘round object; time’ 484      *mʷāne- ‘♀brother’ 120
+                                              *natu ‘child’ 100
+Proto Micronesian (PMic)                      *ŋafa ‘fathom’ 560
+*-ai        (CLF) ‘long slender object’ 486   *paa (CLF) ‘leaf and stalk, frond’ 505
+*-bui (CLF) ‘group, herd’ 490                 *pʷā (VT) ‘tell’ 382
+*-cau (CLF) ‘thin ( flat object), leaf’ 506   *pʷuku (CLF) ‘node, joint, knot, knee’ 506
+*-dau (CLF) ‘animate; person’ 487             *pʷutu ‘step, tread, apply one’s foot’ 224
+*-fata (CLF) ‘long cylindrical object; tree   *sumʷuru ‘the star Antares’ 344
+   trunk’ 488                                 *tama ‘father, father’s brother’ 84
+*-kai (CLF) ‘plant, tree, stick’ 486          *te- ‘one’ (ATTRIBUTIVE) 453
+*-manu (CLF) ‘animate’ 487                    *tina ‘mother, mother’s sister’ 88
+*-mʷanū (CLF) ‘length from elbow to           *tupʷu ‘grandparent, grandchild’ 106
+   finger tips’ 564                           *ūnu ‘Aldebaran’ 341
+*-ŋawulu (CLF) ‘unit of 10’ 504               *waSe, *waSe-ki ‘count’ 416
+*-pʷoŋi (CLF) ‘night’ 506
+*-pʷukua (CLF) ‘100’ 506                      Proto Central Micronesian
+*-sukumV (CLF) ‘package, packet’ 505          *-papa (CLF) ‘flat object’ 507
+*-ua DEFAULT NUMERAL CLASSIFIER 484
+                                              Proto Western Micronesian
+                                         Index of reconstructions by protolanguage 701
+
+
+*laka ‘stars in the constellation Pegasus’     *taɨdā ‘about April; the constellation
+   345                                            Equuleus’ 345
+*telu-telu ‘about August; three stars of       *te-ŋa-ratʉ ‘1000’ 471
+   Orion’s Belt’ 341                           *yalimadaɨ ‘Andromeda (within *kua
+                                                  constellation)’ 347
+Proto Ponapeic-Chuukic                         *yaŋa ‘finger span’ 555
+*mʷakariker ‘about July; the Pleiades’
+   341                                         Proto Central Pacific (PCP)
+*tarobolu ‘about October, the                  *kai ‘points scored in a game’ 233
+   constellation Corvus’ 343                   *kʷai ‘say, tell’ 380
+                                               *lali ‘wooden drum or gong’ 206
+Proto Chuukic (PChk)                           *lasu ‘tell a lie, deceive’ 396
+*aremoi ‘about November; the star              *lavo ‘game played with discs’ 232
+   Arcturus’ 343                               *mata- (CLF) ‘10 fish; 10 taro’ 491
+*cēwu ‘about December, January;                *ŋʷaqane- ‘♀brother’ 120
+   constellation Corona Borealis 343           *rau ‘100’ 499
+*dila-wupʷa ‘distance from outstretched        *sau ‘chiefly authority or rule’; 154
+   finger-tip to mid-chest 562                 *se(q)a ‘k.o. dance’ 222
+*elu-elu ‘about August; three stars of         *soli[-] ‘give’ 417
+   Orion’s Belt’ 341                           *tigʷa ‘dart, to throw a dart’ 230
+*icci ‘about September, the constellation      *tuqi ‘ceremonial title of the paramount
+   Leo’ 342                                        chief of a region’ 157
+*ka-tudu ‘finger, finger length’ 557           *vai ‘cat’s cradle, general term’ 229
+*kapʷata ‘call loudly, shout’ 397              *valau ‘canoe house’ 180
+*kua ‘porpoise; May/June; huge                 *vasu ‘♂sister’s child’ 103
+   constellation including Cassiopeia and      *volau ‘canoe house’ 180
+   Aries’ 346                                  *waga ‘spirit medium’ 262
+*laka ‘about May; stars in the                 *wase ‘divide; separate’ 416
+   constellation Pegasus’ 345
+*manu ‘about September; Bird                   Proto Polynesian (PPn)
+   constellation consisting of Canopus,        *fai ‘cat’s cradle, string games’ 229
+   Sirius, and Procyon’342                     *faka-afu maquri ‘a month name, April–
+*māti-ciki ‘about February; stars in              May’ 356
+   Sagittarius’ 344                            *faka-afu-mate ‘a month name, May’ 356
+*māti-lapa ‘about March; the star Altair       *faka-qariki ‘(act) in the manner of a
+   (or perhaps the constellation Aquila           chief’ 154
+   including Altair)’ 345                      *faka-qariki ‘make into a chief’ 154
+*məəl ‘about February; the star Vega in        *faka-seke ‘slide deliberately, surf’ 233
+   Lyra’ 344                                   *fana ‘shoot with arrow’ 231
+*pata ‘spoken, said, uttered’ 384              *fanaŋa ‘story intended for entertainment
+*sumʷuru ‘about January; the star                 and usually containing repetitions of a
+   Antares’ 343                                   short chant’ 212
+702 Index of reconstructions by protolanguage
+
+
+*faŋo ‘bamboo nose flute’; 200               *lisa muqa (?) ‘December’ 354
+*faŋu ‘breathe, blow through nose’ 200       *lisa muri (?) ‘January’ 354
+*faŋu-faŋu ‘nose-flute’ 200                  *loloŋo ‘sing, song’ 214
+*faqe(e) ‘mother, mother’s sister’ 91        *makupu-na ‘kin of two or more
+*faqele ‘woman who is pregnant or has            descending generations’ 110
+   recently given birth’ 92                  *mana (N,V) ‘thunder’ 277
+*fasu ‘♂sister’s child’ 103                  *maqā ‘s.s. sibling-in-law’ 129
+*fati ‘tune, melody’ 219                     *masakitaŋa ‘father’s sister’ 99
+*fatu ‘weave, compose 219                    *mataliki ‘Pleiades’ 350
+*fatu, *fatu kāiŋa ‘leader of the *kāiŋa’    *matuqa ‘parent’ 92
+   156                                       *mātuqa ‘parents’ 92
+*fosa ‘♂son, ♂brother’s son’ 102             *nafa ‘a wooden drum’ 206
+*fua ‘weigh, measure’ 567                    *noa ‘be common, worthless’ 293
+*-fua (CLF) ‘10 tens or scores of certain    *ŋafua ‘be allowed’ 293
+   food items’ (?) 485, 508                  *ŋakumi (CLF) ‘ten fathoms’ 565
+*fuŋao-ai ‘parent-in-law’ 133                *oli ‘move to and fro, move rhythmically’
+*fuŋao, *fuŋaona ‘child-in-law’ 133              216
+*haŋa ‘span (measurement)’ (pollex); 556     *paki (N) ‘paddle-shaped instrument used
+*huqi ‘ask (a question)’ 388                     when dancing’; (v) ‘slap’ 222
+*kainaŋa ‘clan, unilineal descent group’;    *palau ‘lie by exaggeration’ 397
+   ‘cognatic descent group’; (3)             *pasu ‘drum, to drum, thump’ 206
+   ‘populace, commoners’ 158                 *pū ‘triton shell trumpet’ 197
+*kainaŋa ‘descent group, headed by an        *qahawa-, *qahawana ‘spouse’ 126
+   *qariki “chief”’; ‘the subjects of a      *qahawa(n,ŋ)a ‘marry’ 126
+   chief, the common people’ ; ‘a land-      *qaŋa-qaŋa ‘soul, spirit’ 244
+   holding exogamous descent group           *qariki ‘chief, person of chiefly rank’ 152
+   tracing descent from a common             *qariki-tia ‘be occupied by a chief or
+   ancestor and headed by an *qariki’            chiefs, have a chief or chiefs present’
+   191                                           154
+*kapa ‘flap, of wings or stretched out       *qata ‘spirit, soul; shadow (not shade),
+   arms’ 214                                     reflection, image’ 244
+*-kau (CLF) ‘a score, 10 pairs’ 509          *qatua ‘supernatural being’; 245
+*kofe ‘bamboo sp. 198                        *qilāmutu ‘♂sister’s child’ 104
+*koloa ‘valuable possessions’ 413            *qinati ‘share, allocated portion of food’;
+*kumi (CLF) ‘ten fathoms’ 565                    258
+*lafo ‘tossing game (like quoits) played     *qutete ‘jew’s harp’ 201
+   with asymmetrical discs’ 232              *rau ‘100’ 499
+*laŋi ‘one of sufficiently high rank to be   *sa INDEFINITE ARTICLE 449
+   honoured or treated as one in             *sau ‘chiefly authority or rule’; 154
+   authority’ 155                            *se[ŋa]-fui ‘set of 5 pairs (of coconuts
+*laŋi ‘sing, song’ 210                           etc)’ 490
+*lau ‘recite, count, list’ 441               *sili ‘ask questions’ 388
+                                       Index of reconstructions by protolanguage 703
+
+
+*siliŋa kelekele ‘June’ 351                  *wahe ‘divide, separate’ 416
+*siliŋa maqa ‘July’ 352                      *wai muqa ‘February–March’ 355
+*siwa ‘sing and dance’ (pollex) 211          *wai muri ‘March–April’ 355
+*sui ‘exchange, change, replace’ 419         *waka ‘medium or bodily abode of a god’
+*ta(a)-kalo ‘to play; a game’ 228              262
+*taaula[-qatua] ‘priest, medium, shaman’     *welo ‘thrust, as in spearing’ 233
+    261
+*tahi-, tahina ‘younger s.s. sibling’ 113    Proto Tongic      *taha ‘one; another’
+*tākelo ‘name of a star or stars, possibly      449
+    in Orion constellation’ 355
+*taki- DISTRIBUTIVE PREFIX 482               Proto Nuclear Polynesian (PNPn)
+*takulua ‘a bright star’ 352                 *aŋa ‘span formed by thumb and little (?)
+*tala ‘tell stories; tale, story’ 216           finger; measure’ 556
+*tala-noa ‘talk uselessly’ 216               *faka-afu ‘a month name, April–May’ 356
+*[talo]talo (V) ‘to invoke supernatural      *kai ‘traditional story’ 216, 380
+    intervention; pray’; (N) ‘spell,         *kakai ‘traditional story’ 216
+    incantation’ 253                         *kapa ‘dance to accompany ritual chant’
+*tama ‘woman or couple’s child or               214
+    classificatory child, esp. son’ 101      *kau- (CLF) ‘10 roundish objects’ 510
+*tama-, *tamana ‘father, father’s brother’   *kau-unu-unu ‘June’ 350
+    85                                       *masakitaŋa ‘father’s sister’ 99
+*taqokete ‘elder s.s. sibling’ 116           *mataliki ‘month name, June’ 350
+*taqoŋa ‘valuable, alienable property’ 412   *matuqa ‘parent, parent’s sibling; old,
+*tau ‘count, tell’ 440                          mature (of a person)’ 92
+*taumafa ‘ceremonial food; offering to       *munifa ‘November–December’ 353
+    the gods’ 256                            *oli-oli ‘a chant’ 216
+*te-rau ‘100’ 499                            *oloamanu ‘August’ 352
+*teka ‘roll, rotate, spin’ 232               *palolo muli ‘second (major) spawning of
+*tika ‘dart, darts game; to throw a dart’       the palolo worm; month name,
+    230                                         October–November’ 353
+*toka- (CLF) ‘person’ 509                    *palolo muqa ‘first (minor) spawning of
+*tua-fafine ‘♂sister ’ 120                      the palolo worm; month name,
+*tua-fine ‘♂sister’ 120                         September—October’ 353
+*tua-ŋaqane ‘♀brother’ 121                   *pese ‘sing; song, chant’ 212
+*tuaka-, *tuakana ‘elder s.s. sibling’ 116   *qilāmutu ‘♂sister’s child’ 104
+*tupe ‘disc used in game of *lafo’ 232       *se INDEFINITE ARTICLE 449
+*tupu-, tupuna ‘kin of the second and        *tāfao ‘to play’ 228
+    further ascending generations’ 106       *tai-, taina ‘younger s.s. sibling’ 113
+*tupuqa ‘supernatural being’ 246             *takaoŋa ‘January’ 354
+*tuqa-tina ‘mother’s brother’ 94             *tākelo ‘Orion’s Belt or Betelgeuse:
+*tuqi ‘ceremonial title of the paramount        January’ 355
+    chief of a region’ 157                   *takulua ‘Sirius; July’ 352
+704 Index of reconstructions by protolanguage
+
+
+*taqo-kete ‘s.s. sibling’ 117
+*tasi ‘one’ 449
+*toe utua ‘February’ 356
+*tupu-, tupuna ‘kin of the second and
+   further ascending generations’ 106
+*unu-unu ‘June’ 350
+*utua muli ‘February’ 355
+*utua muqa ‘January’ 354
+*waka atua ‘spirit medium 262
+*tolu ‘three; the stars of Orion’s Belt;
+   June’ 352
+
+Proto Samoic
+*fua- ‘unit of ten’ 510
+*lau- ‘unit of ten’ 510
+*tino- (CLF) ‘animate being’ 509
+
+Proto Eastern Polynesian (PEPn)
+*irāmutu ‘sibling’s child’ 104
+*matuqa ‘parent, parent’s sibling’ 92
+*muriafa ‘November–December’ 354
+*noqi ‘ask for, solicit’ 390
+*taqokete ‘s.s. sibling-in-law’ 117
+*tua-fine ‘♂sister’ 120
+*tupuna ‘kin of two or more ascending
+   generations’ 107
+            Alphabetical index of reconstructions
+
+In alphabetising reconstructions, an upper-case character follows the corresponding lower-
+case character (thus R follows r); ɣ follows g; ñ follows n; ŋ follows ñ; the digraph dr follows
+d; a superscripted character is treated like the corresponding unsuperscripted character; and
+macrons, parentheses and brackets are ignored. Because reconstructions that contain brackets
+represent two or more alternative reconstructions (for bracketing conventions see Table 1.1),
+where the alternatives would appear at different points in the index, they are spelt out as
+alternative reconstructions and appear at the appropriate point in alphabetical order. Thus POc
+*[bu]bui, ‘grandparent, grandchild’ occurs at two points in the index, as *bubui and as *bui,
+and PAn *qaL(i,u)Cu ‘ghost, spirit of the dead; owl’ as *qaLiCu and *qaLuCu.
+    Verbs with intransitive and transitive forms are often shown with both forms in a single
+entry. Thus POc *butu, *butuR-i- ‘stamp foot, tread, kick’, ‘stamp on, tread on, trample’ or
+POc *panaq, *panaq-i- ‘shoot’.
+    Reconstructed PSV nouns consisting of *n(V)-, *e- or *i- ‘article’ + root and verbs
+consisting of *a- or *e- + root are alphabetised by the root, thus PSV *mʷane-, [na-]
+‘♀brother’.
+
+*a-ariki , Proto Malaitan, ‘unmarried girl,         *aremoi, PChk, ‘about November; the star
+    maiden, daughter’ 172                               Arcturus’ 344
+*abu[a], POc, PNCV, ‘grandparent,                   *ariki, a-, Proto Malaitan, ‘unmarried
+    grandchild’ 107                                     girl, maiden, daughter’ 172
+*adalo, Proto Malaita-Makira, ‘ghost,               *asa, PAn, ‘one’ 448
+    spirit’ 238                                     *asoa-, PNCV, ‘spouse’ 125
+*-ai, PMic, (CLF) ‘long slender object’ 486         *aya, PMP, ‘respect term for a member of
+*alawa, PNCV, ‘sister’s child’ 103                      ego’s parents’ generation’ 98
+*alwə-, PSV, ‘♂sister’s son’ ? 103                  *aya, POc, ‘member of EGO’s parents’
+*ama, PMP, POc, ‘father, father’s brother’              generation (respectful address term)’
+    85                                                  98
+*amax, PAn, ‘father’ 85                             *aya-, PEMP, ‘father’s sister, mother’ 98
+*ampu, PMP, ‘grandparent, grandchild’               *babinay, PEMP, ‘♂sister’ 118
+    107                                             *bai, PCEMP, ‘say’ 381
+*anitu, PMic, ‘god, spirit’ 236                     *bajaq, PAn, ‘tell, inform, ask, enquire,
+*aŋa, PNPn, ‘span formed by thumb and                   know, understand’ 383
+    little (?) finger; measure’ 556                 *baki, POc, ‘strike one against another,
+*apu, PEOc, ‘house foundation’ 180                      knock, clap’ 222
+                                                    *balau, POc, ‘lie (by exaggeration?)’ 397
+
+                                              705
+706 Alphabetical index of reconstructions
+
+
+*balay, PMP, ‘public building’; ‘unwalled      *butu, *butuR-i-, POc, ‘stamp foot, tread,
+    building’ 179                                   kick’, ‘stamp on, tread on, trample’
+*balu, PMP, ‘some, some more’ 474                   224
+*baqe, PWOc, ‘wing (?), hand’ 526              *buu , PCEMP, POc,
+*bara, PWOc, ‘poison, magic employed                ‘conch shell trumpet’ 196
+    to affect another person’ 266              *bʷaku, POc, (V) ‘to sing, dance’ 210
+*bara(q)um, PNGOc, ‘spirit of dead             *bʷala, POc, ‘say, speak’ 383
+    person’ 238                                *bʷalika, PNCV, ‘parent- or child-in-law’
+*baravu, PPT, ‘sorcery’ 265                         134
+*bata, PEOc, ‘speak, utter’ 384                *-cala, Proto Eastern Admiralty, (CLF)
+*batuR, PMP, ‘plait, weave’ 219                     ‘path’ 503
+*bawa, PEMP, ‘great-great-grandparent,         *-cau, PMic, (CLF) ‘thin ( flat object), leaf’
+    great-great-grandchild’ 111                     506
+*bawa[-], POc, ‘great-great-grandparent,       *cēwu, PChk, ‘about December, January;
+    great-great-grandchild’ 111                     constellation Corona Borealis (lit. 344
+*beli, PAn, ‘buy’ 408                          *cikep, PMP, ‘catch with the hands’ 229
+*beli, PMP, (N) ‘value, price; marriage        *cinV-, ri-, PSV, ‘mother, mother’s sister’
+    prestations, brideprice’; (v) ‘purchase’        88
+    408                                        *Cakaw, PAn, ‘steal’ 423
+*beRay, PAn, ‘give’ 422                        *Caŋis, PAn, ‘to weep, cry; mourn;
+*beRay, PMP, ‘give, present gifts to; gift’         beseech’ 217
+    422                                        *da-duSa, PAn, ‘two, of people’ 457
+*b‹in›ai, PEMP, ‘woman, wife’ 127              *damaR, PAn, ‘tree resin used in torches
+*bogo-bogo, POc, ‘jew’s harp’ 201                   (?)’ 307
+*boRe, PEMP, ‘give’ 422                        *datu, PMP, ‘chief; leader, lineage priest,
+*bubu, PAn, PMP, POc, ‘grandparent,                 head of family, prince, grandparent,
+    grandchild’ 108                                 title given to a sovereign, shaman,
+*bubui, POc, ‘grandparent, grandchild’              ancestor in the female line’ 156
+    109                                        *-dau, PMic, (CLF) ‘animate; person’ 487
+*bubu-y, PMP, ‘grandparent, grandchild’        *depah, PAn, ‘fathom’ 558
+    109                                        *dila-wupʷa, PChk, ‘distance from
+*bugo-bugo, POc, ‘jew’s harp’ 201                   outstretched finger-tip to mid-chest
+*bui, POc, ‘grandparent, grandchild’ 109            562
+*-bui, PMic, (CLF) ‘group, herd’ 490           *duha, PMP, ‘two’ 455
+*buku, PNCV, ‘debt’ 419                        *duSa, PAn, ‘two’ 455
+*buku, POc, ‘debt’ 418                         *dramaR , POc, (sense uncertain) 307
+*bulu(q), POc, ‘a constellation, the           *elu-elu, PChk, ‘about August; three stars
+    Pleiades’ 309                                   of Orion’s Belt’ 342
+*buluq, PMP, ‘a constellation, the             *enem, PAn, ‘six’ 463
+    Pleiades’ 309                              *epat, PMP, ‘four’ 459
+*-buŋu, PAdm, (CLF) ‘cluster, bundle           *esa, PAn, ‘one’ 448
+    (usually of fruit)’ 489                    *fai, PPn, ‘cat’s cradle, string games’ 229
+*buŋV, POc, (CLF) ‘bunch (of fruit, esp.       *faka-afu, PNPn, ‘a month name, April–
+    betelnut?)’ 489                                 May’ 356
+                                               Alphabetical index of reconstructions 707
+
+
+*faka-afu maquri, PPn, ‘a month name,          *ɣai, *ɣai(li)-, Proto Malaita-Makira, ‘shout
+    April–May’ 356                                 to s.o., insist on s.t.’ 394
+*faka-afu-mate, PPn, ‘a month name,            *haŋa, PPn, ‘span (measurement)’ (pollex);
+    May’ 356                                       556
+*faka-qariki, PPn, ‘(act) in the manner of     *hipaR, PMP, ‘sibling-in-law (probably of
+    a chief’ 154                                    the same sex only)’ 128
+*faka-qariki, PPn, ‘make into a chief’ 154     *huqi, PPn, ‘ask (a question)’ 388
+*faka-seke, PPn, ‘slide deliberately, surf’    *iap, *iap-i-, POc, ‘count’ 439
+    233                                        *icci, PChk, ‘about September, the
+*fale, PMic, ‘meeting house’ 179                    constellation Leo’ (lit. 343
+*fali, PMic, ‘engage in ceremonial rite’       *ihap, PMP, ‘count’ 439
+    294                                        *-ika, *ika-, POc, (CLF) ‘unit of 10’ 498
+*fana, PPn, ‘shoot with arrow’ 231             *ika-, PPT, (CLF) ‘10 of s.t.’
+*fanaŋa, PPn, ‘story intended for              *i-ka-NUMERAL, PMP, POc
+    entertainment and usually containing            ‘prefix for ordinal numerals’ 479
+    repetitions of a short chant’ 212          *ili-, Proto Malaita-Makira, ‘say’ 387
+*faŋo, PPn, ‘bamboo nose flute’; 200           *ina, PAn, PMP, PNCV, POc, ‘mother,
+*faŋu, PPn, ‘breathe, blow through nose’            mother’s sister’ 89
+    200                                        *ina-y, PMP, ‘mother (ADDR)’ 90
+*faŋu-faŋu, PPn, ‘nose-flute’ 200              *ipaR, *ipa-, POc, ‘s.s. sibling-in-law’
+*faqe(e), PPn, ‘mother, mother’s sister’ 91         128
+*faqele, PPn, ‘woman who is pregnant or        *ipu, POc, ‘blow; native flute’ 199
+    has recently given birth’ 92               *irāmutu, PEPn, ‘sibling’s child’ 104
+*fasu, PPn, ‘♂sister’s child’ 103              *isa, PAn, ‘one’ 448
+*fa(s,S)ua, PMic, ‘o.s. sibling’s child’ 103   *isa, POc, ‘one’ (ATTRIBUTIVE); (?)
+*-fata, PMic, (CLF) ‘long cylindrical               INDEFINITE ARTICLE 448
+    object; tree trunk’ 488                    *iva-, PSES, PNCal, ‘♀sister-in-law’, 129
+*fati, PPn, ‘tune, melody’ 219                 *-kaba, PAdm, (CLF) ‘flat object; leaf’ 488
+*fatu, PPn, ‘weave, compose 219                *kabi-ña, POc, ‘chief’ 171
+*fatu, *fatu kāiŋa, PPn, ‘leader of the        *kaci-, POc, ‘younger s.s. sibling’ 114
+    *kāiŋa’ 156                                *-kai, PAdm, (CLF) ‘long rigid object; tree’
+*-fatV, Proto Eastern Admiralty, (CLF)              485
+    ‘container, bag, basket’ 502               *kai, PCP, ‘points scored in a game’ 233
+*fosa, PPn, ‘♂son, ♂brother’s son’ 102         *kai, PEOc, ‘call out to (s.o.), say
+*-fu, (ə-), PAdm, DEFAULT NUMERAL                   forcefully’ 394
+    CLASSIFIER 484                             *kai, PMic, ‘inform’ 380
+*-fua, PPn, (CLF) ‘10 tens or scores of        *-kai, PMic, (CLF) ‘plant, tree, stick’ 486
+    certain food items’ (?) 485, 508           *kai, PNCV, ‘call out (to s.o.), vocalise
+*fua, PPn, ‘weigh, measure’ 567                     loudly’ 395
+*fua-, Proto Samoic, ‘unit of ten’ 510         *kai, PNPn, ‘traditional story’ 216, 380
+*fuŋao, *fuŋaona, PPn, ‘child-in-law’ 133      *kai, POc, (CLF) ‘long, rigid object;
+*fuŋao-ai, PPn, ‘parent-in-law’ 133                 wooden object; tree’ 485
+*garamut, POc, ‘slitgong’ 205                  *kai-masi, PNCV, ‘sorcerer’ 250
+*gigi, Proto Kimbe, ‘count, tally’ 527
+708 Alphabetical index of reconstructions
+
+
+*kai-sa, POc?, ‘one’ (serial) 455               *kayinaŋa, PMic, ‘clan, folk, tribe, stock’
+*kai[u]-, PPT, (CLF) ‘default inanimate             191
+    classifier (?); long rigid object;          *kesa, PSES, ‘one’ (serial) 455
+    wooden thing’ 486                           *kina-, POc, ‘mother’ 89
+*kainaŋa, PPn, ‘clan, unilineal descent         *kisi, PMic, (CLF) ‘small, little’ 506
+    group’; ‘cognatic descent group’; (3)       *-kisi, PMic , (CLF) ‘small parts of s.t.’ 506
+    ‘populace, commoners’ 158                   *kofe, PPn, ‘bamboo sp. 198
+*kainaŋa, PPn, ‘descent group, headed by        *koloa, PPn, ‘valuable possessions’ 413
+    an *qariki “chief”’; ‘the subjects of a     *koŋkoŋ, POc, ‘slitgong’ 204
+    chief, the common people’ ; ‘a land-        *kopi, POc, ‘bamboo; bamboo flute’ 198
+    holding exogamous descent group             *koro, POc, ‘fenced-in area’; ‘?
+    tracing descent from a common                   settlement fortified by barrier’ 182
+    ancestor and headed by an *qariki’          *-koro, Proto Eastern Admiralty, (CLF)
+    191                                             ‘village’ 503
+*kaka, PAn, ‘elder sibling’ 116                 *koron, POc, ‘lie, tell a lie’ 396
+*kaka, PMP, ‘elder s.s. sibling’ 116            *kua, PChk, ‘porpoise; May/June; huge
+*kaka, POc, ‘elder s.s. sibling (ADDR),             constellation including Cassiopeia
+    elder parallel cousin (ADDR)’ 116               and Aries’ 347
+*kaka, POc, ‘parent’s sibling’ (?) 93           *kua, PMic, ‘Dolphin constellation, a
+*kakai, PNPn, ‘traditional story’ 216               constellation including Cassiopeia
+*kamali, PNCV, ‘men’s house’ 180                    and approximately equivalent to
+*kamali(R), POc, ‘men’s meeting house’              Aries’ 347
+    179                                         *kud(e,u), PWOc, ‘hourglass drum’ 203
+*kamaliR, PMP, ‘men’s house’ 179                *kul(a,e), PWOc, ‘exchange, buy’ 409
+*kanam, POc, ‘sing, song’ 209                   *kumi, Proto-Polynesian, (CLF) ‘ten
+*kapa, PNPn, ‘dance to accompany ritual             fathoms’ 565
+    chant’ 214                                  *kunu, PMP, ‘it is said, people say…’ 395
+*kapa, PPn, ‘flap, of wings or stretched        *kunu, PSES, ‘gossip, talk negatively
+    out arms’ 214                                   about s.o.’ 395
+*kapʷat, POc, ‘call or speak loudly’ 397        *kuŋkuŋ, PAn, ‘slitgong’ 204
+*kapʷata, PChk, ‘call loudly, shout’ 397        *kuwá, PMP, ‘say’ 379
+*kata, PMic, (N,V) speech, language,            *kʷa, *kʷai-, POc, ‘say, tell’ 379
+    foreign language’; ‘talk, chatter, talk a   *kʷai, PCP, ‘say, tell’ 380
+    foreign language’ 398                       *kʷaro, POc, ‘call out a greeting’ 393
+*kato, PROc, (V) ’speak a foreign               *lafo, PPn, ‘tossing game (like quoits)
+    language’; (N) ‘speech, language,               played with asymmetrical discs’ 232
+    foreign language’ 398                       *lagar, POc, ‘dance accompanied by
+*ka-tudu, PChk, ‘finger, finger length’             singing’ 222
+    557                                         *laka, PChk, ‘about May; stars in the
+*-kau, PPn, (CLF) ‘a score, 10 pairs’ 509           constellation Pegasus’ 346
+*kau-, PNPn, (CLF) ‘10 roundish objects’        *laka, PWMic, ‘stars in the constellation
+    510                                             Pegasus’ 346
+*kau-unu-unu, PNPn, ‘June’ 351                  *lali, PCP, ‘wooden drum or gong’ 206
+*kawe(C), POc, ‘woman, wife’ ? 127              *lami, POc, ‘tell a lie’ 397
+                                             Alphabetical index of reconstructions 709
+
+
+*laŋi, PPn, ‘one of sufficiently high rank   *manu, PChk, ‘about September; Bird
+    to be honoured or treated as one in         constellation consisting of Canopus,
+    authority’ 155                              Sirius, and Procyon’ (lit. 343
+*laŋi, PPn, ‘sing, song’ 210                 *-manu, PMic, (CLF) ‘animate’ 487
+*lapat, POc, ‘big, great’ 171                *manu, PMic, ‘bird; Bird constellation
+*lasu, PCP, ‘tell a lie, deceive’ 396           consisting of Canopus, Sirius, and
+*lau, PPn, ‘recite, count, list’ 441            Procyon’ 342
+*lau-, Proto Samoic, ‘unit of ten’ 510       *manu, POc, (CLF) ‘animate’ 487
+*lavo, PCP, ‘game played with discs’ 232     *manu-, PPT, (CLF) ‘animal’ 487
+*lawa, POc, ‘♂sister’s child (?), mother’s   *manuk, POc, ‘bird; Bird constellation
+    brother’ 102                                including Canopus, Sirius, Procyon’
+*lima, PAn, ‘five, hand’ 461                    342
+*lima, POc, ‘five’ 461                       *maqā, PPn, ‘s.s. sibling-in-law’ 129
+*lisa muqa (?), PPn, ‘December’ 354          *ma-qudip, PMP, ‘living, alive; grow,
+*lisa muri (?), PPn, ‘January’ 355              flourish; fresh; heal, cure, revive,
+*loloŋo, PPn, ‘sing, song’ 214                  recover’; (n) ‘vital principle, soul,
+*luku, POc, ‘count’ 440                         spirit; flame’ 240
+*maɣubʷu-, PSV, ‘grandchild’ 110             *maqurip, POc, (V) ‘be alive, live,
+*mako, PNCV, ‘boys’ dance’ 221                  flourish; be in good health’; (N) ‘soul,
+*mako, POc, (N,V) ‘dance’ 221                   life force’ 240
+*makubu, PNCV, ‘grandchild’ 110              *masakitaŋa, PPn, PNPn, ‘father’s sister’
+*makubu-, POc, ‘grandchild; kin two             99
+    generations below ego’ 77, 110           *masi, POc, ‘magic; perform magic’ 250
+*makupu-na, PPn, ‘kin of two or more         *mata-, PCP, (CLF) ‘10 fish; 10 taro’ 491
+    descending generations’ 110              *mata-, PSV, ‘mother’s brother, spouse’s
+*malaqai, POc, ‘? public space in a             father, parent’s sister’s husband’ 95
+    village, village plaza’ 182              *mataliki, PNPn, ‘month name, June’ 350
+*mama, PMP, POc, ‘father, father’s           *mataliki, PPn, ‘Pleiades’ 350
+    brother’ 85                              *matay, PCEMP, ‘money, payment,
+*mama, PNCV, ‘father’ 86                        medium of commercial exchange’
+*mamah, PAn, ‘father, father’s brother’ 85      410
+*mana, PEOc, (VSt) ‘to have supernatural     *mate, POc, (N) ‘price’; (v) ‘transact’ 410
+    power from ancestral spirits as          *māti-ciki, PChk, ‘about February; stars
+    manifest in successful outcomes; be         in Sagittarius’ 345
+    efficacious’; (n) ‘efficacy, success’    *māti-ciki, PMic, ‘stars in Sagittarius’ 345
+    271                                      *māti-lapa, PChk, ‘about March; the star
+*mana, PPn, (N,V) ‘thunder’ 277                 Altair (or perhaps the constellation
+*mana, Proto Torres-Banks, ‘supernatural        Aquila including Altair)’ 346
+    power held by a person or thing;         *māti-lapa, PMic, ‘the star Altair (or
+    magic force’ 272                            perhaps the constellation Aquila
+*mana, mana-mana, PMic, (V) ‘be                 including Altair)’ 346
+    efficacious, have supernatural           *matu(q)a, POc, PNCV, ‘mother’s
+    power’; (N) ‘efficacy, supernatural         brother’ 95
+    power’ 272
+710 Alphabetical index of reconstructions
+
+
+*matuqa, PEPn, ‘parent, parent’s sibling’       *mʷaria(b,w)a-, PNGOc, ‘spirit, perhaps
+   92                                               of a person’ 239
+*matuqa, PMP, ‘mother’s brother,                *mʷar(i)aw(i,a)- (?), POc, ‘spirit, living
+   mother’s brother’s wife, wife’s                  or dead’ 239
+   parent’ 95                                   *mʷaR(i)aw(i,a)- (?), POc, ‘spirit, living
+*matuqa, PPn, ‘parent’ 92                           or dead’ 239
+*mātuqa, PPn, ‘parents’ 92                      *-mʷaw, PAdm, (CLF) ‘animate; person (?)
+*matuqa, PNPn, ‘parent, parent’s sibling;           502
+   old, mature (of a person)’ 92                *mʷonu, Proto Torres-Banks, ‘thunder’
+*matuqa, PEMP ‘mother’s brother’ 95                 277
+*məəl, PChk, ‘about February; the star          *nana, PAdm, ‘parent- or child-in-law’ (?)
+   Vega in Lyra’ 345                                133
+*mola , Proto Malaita-Makira, ‘usual,           *nabʷa, PNGOc, ‘a spell’ 266
+   merely; permitted’ 293                       *nafa, PPn, ‘a wooden drum’ 206
+*muaqanay, PEMP, ‘♀brother’ 119                 *nai, PEMP, POc, ‘mother (ADDR)’ 90
+*munifa, PNPn, ‘November–December’              *nana, PMP, ‘mother’ 89
+   354                                          *nana, Proto Philippine, ‘older female
+*muriafa, PEPn, ‘November–December’                 relative (ADDR)’ 89
+   354                                          *nanasa, *nanasai-, POc?, ‘ask’ 386
+*mʷai-mʷane, PSES, ‘o.s. sibling, cross-        *natu, PEMP, ‘child, offspring’ 99
+   sex cross-cousin’ 119                        *natu, PSV, PMic, ‘child’ 100
+*mʷaja, POc, ‘play, have fun’ 228               *natu-, POc, ‘child, s.s. sibling’s child,
+*mʷakariker, Proto Ponapeic-Chuukic,                parallel cousin’s child, mother’s
+   ‘about July; the Pleiades’ 341                   brother’s child’ 76, 99, 100
+*mʷakoto +, Proto Torres-Banks, ‘fresh/         *nene, POc, ‘mother’ 90
+   wet Panax grass’ ≈ April–May 339             *nene , PEMP, ‘mother’ (ADDR) 90
+*mʷakoto raŋo, Proto Torres-Banks, ‘dry         *nima-, POc, (CLF) ‘hand, arm’ 463
+   grass’ ≈ May–June 339                        *noa, PPn, ‘be common, worthless’ 293
+*mʷala, POc, ‘? person of low social            *noŋi, POc, ‘beg, ask (for s.t.)’ 389
+   status’; 173                                 *noqi, PEOc, ‘ask for, beg’ (?) 390
+*mʷalala, POc, (N) ‘cleared land,               *noqi, PEPn, ‘ask for, solicit’ 390
+   clearing’, (V) ‘clear land’ 183              *nunu, POc, ‘shadow of person, likeness,
+*mʷalaw(i,a)-, PAdm, ‘spirit, perhaps of            reflection; soul that may leave the
+   the dead’ 239                                    body in dreams’ 242
+*mʷal(i)aw(i,a)- (?), POc, ‘spirit, living or   *nunu, PSOc, ‘shadow, image, reflection,
+   dead’ 239*mʷane, PNCal, ‘♀brother’               soul’ 243
+   120                                          NUMERAL-*ña, POc, ‘ordinal numeral
+*mʷāne-, PMic, ‘♀brother’ 120                       form’ 476
+*mʷane-, [na-], PSV, ‘♀brother’ 120             *ñana, PAdm, ‘parent- or child-in-law’ (?)
+*-mʷanū, PMic, (CLF) ‘length from elbow             133
+   to finger tips’ 564                          *ñaña, POc, ‘mother, mother’s sister’ 89
+*mʷaqane-, POc, ‘♀brother’, ♀male               *ŋafa, PMic, ‘fathom’ 560
+   parallel cousin (?) 119                      *ŋafua, PPn, ‘be allowed’ 293
+                                                *-ŋafulu, PAdm, (CLF) ‘unit of 10’ 501
+                                             Alphabetical index of reconstructions 711
+
+
+*ŋakumi, Proto-Polynesian, (CLF) ‘ten        *paki, PPn, (N) ‘paddle-shaped instrument
+     fathoms’ 565                                used when dancing’; (v) ‘slap’ 222
+*-ŋapa, POc, (CLF) ‘fathom’ 560              *pakpak, PAn, ‘to clap, sound of clapping
+*-ŋapuluq, POc, (CLF) ‘unit of 10’ 501           or flapping’ 222
+*-ŋatu, Proto Eastern Admiralty, (CLF)       *pala, *pala-i-, POc, ‘give’ 423
+     ‘unit of 100’ 501                       *palau, PPn, ‘lie by exaggeration’ 397
+*-ŋawulu, PMic, (CLF) ‘unit of 10’ 504       *pale, POc, ‘building for storage or public
+*ŋeni, PMP, ‘beg, ask for’ 389                   use, open-sided building, shed’ 179
+*ŋkaŋka, PEMP, ‘parent’s sibling’ (?) 93     *pali, POc, ‘ritually restricted or
+*ŋoni, POc, ‘beg, ask (for s.t.)’ 389            prohibited’ 294
+*ŋulu, POc, ‘in a whisper’ 398               *paliSi, PAn, ‘taboo, ritual restriction;
+*ŋulu-ŋulu , POc, (V) ‘whisper’ 398              purifying rite’ 294
+* NUMERAL-NUMERAL, POc,‘NUMERAL by           *palolo muli, PNPn, ‘second (major)
+     NUMERAL’; ‘NUMERAL at a time’;              spawning of the palolo worm; month
+     ‘NUMERAL each’ 481                          name, October–November’ 353
+*ŋuŋ, *ŋu(ŋ)-ŋuŋ, PMP, ‘buzz, hum’ 209       *palolo muqa, PNPn, ‘first (minor)
+*ŋuŋu, POc, ‘hum’ 209                            spawning of the palolo worm; month
+*ŋʷaqane-, PCP, ‘♀brother’ 120                   name, September—October’ 353
+*oli, PPn, ‘move to and fro, move            *palu, POc, ‘some, a few’ 474
+     rhythmically’ 216                       *panakaw, PMP, ‘steal’ 423
+*oli-oli, PNPn, ‘a chant’ 216                *panako, POc, ‘steal’ 423
+*oli-oli, POc, ‘a lullaby’ 216               *panaq, PAn, ‘throw s.t. at a target; shoot
+*oloamanu, PNPn, ‘August’ 352                    with bow and arrow’ 231
+*onom, POc, ‘six’ 463                        *panaq, POc, ‘bow’ 231
+*ova-, Proto Kilivila, (CLF) ‘fathom;        *panaq, *panaq-i-, POc, ‘shoot’ 231
+     double-arm span’ 559                    *pani-, POc, ‘give’ 422
+*pa-NUMERAL, POc, (FREQUENTATIVE             *panua, POc, ‘land, territory, inhabited
+     ADVERB) ‘NUMERAL times’ 480                 place, community, etc 183
+*pa-NUMERAL-*ña, POc, ‘ordinal numeral       *paŋi, POc, ‘four’ 461
+     form’ 478                               *-papa, Proto Central Micronesian, (CLF)
+*paa, PMic, (CLF) ‘leaf and stalk, frond’        ‘flat object’ 507
+     505                                     *papaq[a]-, POc, (CLF) ‘coconut frond’
+*pacu, *pacua-, POc, ‘♂sister’s child’ (?)       505
+     103                                     *papine-, POc, ‘♂sister’, ♂female
+*paila, POc, ‘greet/welcome loudly;              parallel cousin’ 118
+     exclamation of welcome’ 393             *paq[a]-, POc, (CLF) ‘coconut frond’ 505
+*painako, POc, ‘steal’ 424                   *paRage, PEOc, ‘tree sp., Pangium edule;
+*paka-NUMERAL, PMP, (FREQUENTATIVE               dance rattles’ 202
+     ADVERB) ‘NUMERAL times’ 480             *paRi, POc, ‘generic term for cat’s cradle’
+*paka-NUMERAL, POc, (FREQUENTATIVE               229
+     ADVERB) ‘NUMERAL times’ 480             *pasu, PPn, ‘drum, to drum, thump’ 206
+*paka-NUMERAL-*ña, POc, ‘ordinal             *pasu, *pasua-, POc, ‘♂sister’s child’ (?)
+     numeral form’ 478                           103
+                                             *pat, PEMP, POc, ‘four’ 459
+712 Alphabetical index of reconstructions
+
+
+*pata, PChk, ‘spoken, said, uttered’ 384     *pui, *pui, POc, (CLF) ‘bunch, group’ 490
+*pata, POc, ‘long cylindrical object; tree   *pʷā, PMic, (VT) ‘tell’ 382
+    trunk’ 488                               *pʷa-, Proto Far North New Caledonia,
+*pati, PCEMP, POc, ‘four’ 460                    (CLF) ‘round object; time’ 484
+*pato, *patoli-, POc, ‘say or call s.o.’s    *pʷa, *pʷai-, POc, ‘say, tell’ 381
+    name; say, speak’ 393                    *pʷaca(q), POc, (N) ‘word, speech,
+*patu(R), POc, ‘plait, weave’ 219                language’; (V) ‘speak 383
+*pela, POc, ‘greet/welcome loudly;           *pʷaca(q)i-, POc, ‘speak (s.t.), say (s.t.)’
+    exclamation of welcome’ 393                  383
+*pelapela, POc, ‘shout, exclaim’ 393         *pʷaja(R), POc, (VI) ‘clap hands’ 223
+*penako, POc, ‘steal’ 424                    *pʷajaR-i , POc, (VT) ‘slap with open
+*pened, PMP, ‘stopped up, plugged’ 419           hand’ 223
+*pera, POc, ‘? settlement, open space        *pʷanaq, POc, ‘bow’ 231
+    associated with a house or settlement’   *pʷanaq, *pʷanaq-i-, POc, ‘shoot’ 231
+    181                                      *pʷela, Proto Malaita-Makira, (CLF) ‘1000
+*peRe, POc?, ‘give’ 422                          coconuts’ 501
+*pese, PNPn, ‘sing; song, chant’ 212         *-pʷoŋi, PMic, (CLF) ‘night’ 506
+*pica, POc, ‘how many? how much?’ 474        *pʷuku, PMic, (CLF) ‘node, joint, knot,
+*pigo, POc, ‘bamboo wind instrument’             knee’ 506
+    199                                      *-pʷukua, PMic, (CLF) ‘100’ 506
+*pijax, PAn, ‘how many? how much?’           *pʷutu, PMic, ‘step, tread, apply one’s
+    474                                          foot’ 224
+*piko, POc, ‘bamboo wind instrument’         *qalawa, PNCV, ‘sister’s child’ 103
+    199                                      *qalawa, POc, ‘♂sister’s child (?),
+*pile, PWOc, ‘speak negatively or                mother’s brother’ 102
+    scornfully to (s.o.)’ 396                *qanunu, POc, ‘shadow of person,
+*pine, POc, ‘woman, wife’ (ACD: 127              likeness, reflection; soul that may
+*pitu, PAn, POc, ‘seven’ 464                     leave the body in dreams’ 242
+*poli, POc, (V) ‘to barter, purchase by      *qahawa-, *qahawana, PPn, ‘spouse’ 126
+    exchange’; (N) ‘price, brideprice;       *qahawa(n,ŋ)a, PPn, ‘marry’ 126
+    value’ 408                               *qaLiCu, PAn, ‘ghost, spirit of the dead;
+*poli-poli, POc, ‘trade, barter 409              owl’ 236
+*-polV, Proto Eastern Admiralty, (CLF)       *qaLiŋu, PAn, ‘shadow, reflection’ 242
+    ‘(longitudinal?) half’ 503               *qaninu, PMP, ‘shadow, reflection’ 242
+*pono, PEOc, ‘to settle a debt; complete,    *qanunu, PMP, ‘shadow, reflection’ 242
+    close up’ 419                            *qanunu, POc, ‘shadow of person,
+*ponot, POc, ‘to close up; be full,              likeness, reflection; soul that may
+    complete’ 419                                leave the body in dreams’ 242
+*-potV, PAdm, (CLF) ‘fire, firewood’ 502     *qanitu, PMP, ‘ghost, ancestral spirit;
+*pū, PPn, ‘triton shell trumpet’ 197             nature spirit; corpse; owl; various
+*-pua, POc, (CLF) ‘10 roundish objects’          plants’ 236
+    508                                      *qanitu, POc, ‘ancestral spirit, spirit of
+*pua, POc, (CLF) ‘default inanimate;             the dead’ 236
+    round object’ 483                        *qaŋa-qaŋa, PPn, ‘soul, spirit’ 244
+                                              Alphabetical index of reconstructions 713
+
+
+*qapa, POc, (CLF) ‘flat object; sheet of      *raun, POc, (CLF) ‘leaf’ 506
+    s.t.; leaf’ 488                           *rawa, POc, ‘parent- or child-in-law’ 132
+*qariki, PPn, ‘chief, person of chiefly       *ri-(t,c)inV-, PSV, ‘mother, mother’s
+    rank’ 152                                      sister’ 88
+*qariki-tia, PPn, ‘be occupied by a chief     *roŋoR, POc, ‘hear’ 214
+    or chiefs, have a chief or chiefs         *roŋoR, PROc, (V) ‘sing; chant, recite
+    present’ 154                                   traditional lore’; (N) ‘traditional lore’
+*qasao-, PNCal, ‘spouse’ 126                       214
+*qasawa, PAn, POc, ‘spouse’ 125               *ropa, POc, (N) ‘fathom: with arms
+*qasawa, POc, ‘marry’ (?) 134                      extended, length from finger tips to
+*qata, POc, ‘soul, spirit; shadow,                 finger tips’ ; (v) ‘measure in fathoms’
+    reflection’ 243                                558
+*qata, POc?, ‘person’ 487                     *roroŋoR, POc, ‘to sound, be audible’ 214
+*qata, PPn, ‘spirit, soul; shadow (not        *roroŋoR, PROc, (V) ‘sing; chant, recite
+    shade), reflection, image’ 244                 traditional lore’; (N) ‘traditional lore’
+*qata-, PNCV, ‘soul, spirit’ 243                   214
+*qata-mate, PNCV, ‘ghost; spirit of dead      *rua, POc, ‘two’ 455
+    person’ 237                               *rupʷas, *rupʷasi-, POc, ‘tell lies to s.o.,
+*qatu, PEMP, ‘child, offspring’ 101                deceive s.o.’ 396
+*qatu-, POc, ‘child: offspring of ego or of   *-Ruma, PAdm, (CLF) ‘house’ 502
+    s.s. sibling’ 101                         *Rumaq, PAn, POc, ‘dwelling house’ 177
+*qatua, PPn, ‘supernatural being’; 245        *sa, POc, ‘one’ (ATTRIBUTIVE); (?)
+*qatuan, PMP, ‘deity’ 245                          INDEFINITE ARTICLE 448
+*qatuan, POc, ‘deity, supernatural being’     *sa, PPn, INDEFINITE ARTICLE 449
+    245                                       *sa ŋa puluq, PMP, POc, ‘10’ 470
+*qauR, PAn, ‘bamboo sp.’ 198                  *sa ŋa Ratus, PMP, POc, ‘100’ 470
+*qauR, POc, ‘bamboo; bamboo wind              *sa-ɣa-l, Proto N Malakula, ‘one’ 448
+    instrument’ 198                           *sa-kai, POc?, ‘one’ 454
+*qilāmutu, PPn, PNPn, ‘♂sister’s child’       *sa-kai, PSES, ‘one’ (ATTRIBUTIVE) 454
+    104                                       *sa-puluq, PAn, POc, ‘10’ 468
+*qinati, PPn, ‘share, allocated portion of    *sa-qe-ana, Proto Bwaidoga, ‘one’ 454
+    food’; 258                                *sa-Ratus, PMP, ‘100’ 469
+*qiti, *qi, POc, (CLF) ‘hand of bananas’      *sa-wa, PNCV, ‘one’ 448
+    489                                       *[sa]Ratus, POc, ‘100’ 469
+*qudip, PAn, ‘life; alive’ 240                *sagar, POc, (N,V) ‘dance’ 220
+*qutete, PPn, ‘jew’s harp’ 201                *sale, PNCV, ‘jump, dance’ 222
+*rali , POc, ‘slitgong’ 205                   *saŋa, PEMP, ‘crotch, fork of the legs;
+*raŋi, POc, ‘a song to accompany dance’,           span, fork of the fingers’ 555
+    210                                       *saŋa, PMP, ‘bifurcation, fork of a
+*ra-rua, POc, ‘two, of people’ 457                 branch’ 555
+*ra-tina-, PNCV, ‘mother’ 88                  *saŋa-, POc, ‘fork (in tree), forked stick
+*ratus, Proto NW Solomonic, ‘100’ 469              or branch; crotch, fork of the legs;
+*rau, PCP, ‘100’ 499                               span, fork of the fingers’ 555
+*rau, PPn, ‘100’ 499                          *saŋafulV, PAdm, ‘10’ 470
+714 Alphabetical index of reconstructions
+
+
+*saŋatV, PAdm, ‘100’ 470                        *sumʷuru, PMic, ‘the star Antares’ 344
+*saRa, POc, ‘shell money made from              *Sepat, PAn, ‘four’ 459
+     small shells’ 411                          *Si-ka-NUMERAL, PAn,
+*saRu(p), POc, ‘sing in unison’ 212                  ‘prefix for ordinal numerals’ 479
+*saRup, PMP, ‘sing in unison’ 212               *Siwa, PAn, ‘nine’ 466
+*sau, PCP, PPn, ‘chiefly authority or           *t-ama, PMP, ‘father, father’s brother’ 83
+     rule’; 154                                 *ta, POc, INDEFINITE ARTICLE; (?) ‘one’
+*sava[ɣ,m], Proto CW Malakula, ‘one’                 450
+     448                                        *ta, PPT, Proto Central Papuan, ‘one’ 450
+*se , PNPn, INDEFINITE ARTICLE 449              *ta(a)-kalo, PPn, ‘to play; a game’ 228
+*se(q)a, PCP, ‘k.o. dance’ 222                  *ta-amax, PAn, ‘father’ 83
+*se[ŋa]-fui, PPn, ‘set of 5 pairs (of           *taaula[-qatua], PPn, ‘priest, medium,
+     coconuts etc)’ 490                              shaman’ 261
+*sese-, POc, ‘great-great-grandparent (?)’      *tabu, POc, (VSt) ‘forbidden, prohibited’;
+     111                                             (N) ‘prohibition’ 285
+*si-kai, Proto Efate, ‘one’ 454                 *tabu-, POc, ‘grandparent, grandchild’
+*sikop, POc, ‘catch with the hands’ 229              107
+*sili, PPn, ‘ask questions’ 388                 *tabuna, POc, ‘dehortative: “don’t!”’ 295
+*siliŋa kelekele, PPn, ‘June’ 351               *taci-, POc, ‘younger s.s. sibling, parallel
+*siliŋa maqa, PPn, ‘July’ 352                        cousin’s younger s.s. child’; ‘o.s.
+*sinola, Proto Malaita-Makira, (CLF) ‘10             sibling-in-law, younger than ego’ 112,
+     large fish, 10 collections of ten yams,         130
+     or ten branches of s.t.’ 500               *tadalo, PSES, ‘ghost, spirit’ 238
+*siwa, PMP, POc, ‘nine’ 466                     *tāfao, PNPn, ‘to play’ 228
+*siwa, PPn, ‘sing and dance’ (pollex) 211       *ta[ɣa], Proto Sudest-Nimoa, ‘one’ 450
+*soli, *soli(t,ŋ)-i-, POc, ‘distribute, pass    *taha, Proto Tongic, ‘one; another’ 449
+     to another’ 417                            *tahi-, tahina, PPn, ‘younger s.s. sibling’
+*soli[-], PCP, ‘give’ 417                            113
+*sori(t), PEOc, ‘lie, tell a lie’ 396           *tai, POc, Proto Western Admiralty, ‘one’
+*soRo(p), *soRo(p)i-, POc, ‘call,                    452
+     summon’ 394                                *tai-, taina, PNPn, ‘younger s.s. sibling’
+*soso, PEOc, ‘expiate, compensate,                   113
+     propitiate’ 257, 420                       *taɨdā, PChk, ‘about April; the
+*sowa, *sowai-, PWOc, ‘say, speak’ 383               constellation Equuleus’ 346
+*suga, *sug(a,e)ti-, PSES, ‘desire (s.t.),      *ta-ina, PAn, ‘mother’ 87
+     ask for (s.t.)’ 390                        *taji, PMP, ‘younger s.s. sibling’ 2
+*suga, *sugai-, POc, ‘ask s.o. for .s.t.’ 390   *ta-kai, POc?, ‘other’ 454
+*sui, PEOc, ‘pay, redeem a debt’ 419            *takaoŋa, PNPn, ‘January’ 354
+*sui, PPn, ‘exchange, change, replace’          *takaw, PMP, ‘steal’ 423
+     419                                        *tākelo, PNPn, ‘Orion’s Belt or
+*-sukumV, PMic, (CLF) ‘package, packet’              Betelgeuse: January’ 355
+     505                                        *tākelo, PPn, ‘name of a star or stars,
+*sumʷuru, PChk, ‘about January; the star             possibly in Orion constellation’ 356
+     Antares’ 344                               *taki- , PPn, DISTRIBUTIVE PREFIX 482
+                                               Alphabetical index of reconstructions 715
+
+
+*taku, PROc, ‘brother-in-law’ 129              *tarobolu, Proto Ponapeic-Chuukic,
+*takulua, PNPn, ‘Sirius; July’ 352                  ‘about October, the constellation
+*takulua, PPn, ‘a bright star’ 352                  Corvus’ 343
+*takunu, POc, ‘tell a story, narrate’ 215      *taRam, PEMP, (V) ‘answer, agree’ 391
+*tala, PPn, ‘tell stories; tale, story’ 216    *taRam, *taRami-, POc, ‘allow, agree, co-
+*tala-noa, PPn, ‘talk uselessly’ 216                operate’ 391
+*ta-lapat, POc, ‘chief’ or ‘big man’ 169       *taRamʷi, PNCV, ‘allow, accept, agree’
+*[talo]talo, PPn, (V) ‘to invoke                    392
+    supernatural intervention; pray’; (N)      *ta-sa, POc, ‘one’ (serial) 449
+    ‘spell, incantation’ 253                   *tasi, PNPn, ‘one’ 449
+*tama, PMic, ‘father, father’s brother’ 84     *tasi-, PNCal, ‘younger s.s. sibling’ 113
+*tama, PPn, ‘woman or couple’s child or        *ta-si, POc, ‘one’ 449
+    classificatory child, esp. son’ 101        *tata, POc, ‘address term for any male
+*tama-, PNCV, PNCal, ‘father, father’s              called “father’’ and for other senior
+    brother’ 84                                     males’ 86
+*tama-, POc, ‘father, father’s brother,        *tata, PEOc, ‘stammer’ (?) 398
+    mother’s sister’s husband’ 83              *tataro, PNCV, ‘pray, wish for’ 253
+*tama-, *tamana, PPn, ‘father, father’s        *tatata, PEOc, ‘stammer’ (?) 398
+    brother’ 85                                *tau, POc, (CLF) ‘animate; person’ 486
+*ta-mo[qa]-, Proto North Mainland/             *tau-, PPT, (CLF) ‘human; male human
+    D’Entrecasteaux, ‘one’ 450                      (?)’
+*tambu, PCEMP, ‘forbidden, taboo’ 285          *tau, PPn, ‘count, tell’ 440
+*tampu, PEMP, ‘grandparent, grandchild’        *tau-lapat, POc, ‘chief’ or ‘big man’ 169
+    107                                        *tau-mate, POc, ‘corpse; spirit of the
+*taŋis, PMP, ‘to cry’ 217                           dead’ 237
+*taŋis, *taŋis-i, POc, ‘cry, wail, lament,     *tau panua, PEOc, ‘person belonging to a
+    for humans; for animals to make a               place, land owner’ 192
+    sound appropriate to their character;      *tau-wia, Proto Central Vanuatu, ‘brother-
+    for musical instruments to sound’ 217           in-law’ 130
+*tapuRiq, PMP, ‘conch shell trumpet’ 196       *(tau)baravu, PPT, ‘sorcerer’ 265
+*tapuRiq, POc, ‘triton shell: Charonia         *[tau]laki, POc, ‘marry; married person’
+    tritonis; a triton shell trumpet’ 196           135
+*taqo-kete, PNPn, ‘s.s. sibling’ 117           *taumafa, PPn, ‘ceremonial food; offering
+*taqokete, PEPn, ‘s.s. sibling-in-law’ 117          to the gods’ 256
+*taqokete, PPn, ‘elder s.s. sibling’ 116       *ta-za, Proto Kilivila, ‘one’ 449
+*taqoŋa, PPn, ‘valuable, alienable             *te-, PMic, ‘one’ (ATTRIBUTIVE) 453
+    property’ 412                              *teka, PPn, ‘roll, rotate, spin’ 232
+*taqun, PMP, ‘period of a year’ (?);           *telu, PAn, ‘three’ 457
+    ‘recurrent seasonal cycle, especially      *telu-telu, PWMic, ‘about August; three
+    yam season cycle’ 298                           stars of Orion’s Belt’ 342
+*tara(s), taras-i-, POc, ‘distribute, divide   *te-ŋa-ratʉ, PChk, ‘1000’ 471
+    up, share’ 417                             *tepeŋ, PAn, ‘to measure quantities, as
+*tari, POc, ‘some’; 474                             amounts of grain’ 566
+*taro, PNCV, ‘pray, wish for’ 253              *te-rau, PPn, ‘100’ 499
+716 Alphabetical index of reconstructions
+
+
+*te-wa[le], Proto North Vanuatu, ‘one’         *tubu-, PNCV, ‘grandparent, grandchild’
+     453                                           106
+*tibʷa(ŋ), POc, ‘dart, arrow’ 230              *tubu-, POc, ‘grandparent, grandchild’,
+*tidalo, PSES, ‘ghost, spirit’ 238                 mother’s brother (?) 105
+*tigʷa, PCP, ‘dart, to throw a dart’ 230       *tubuqa, PEOc, ‘spirit being (possibly
+*tika, PPn, ‘dart, darts game; to throw a          guardian spirit)’ 246
+     dart’ 230                                 *tubuqan, POc, ‘supernatural being’ 246
+*tina, PMic, ‘mother, mother’s sister’ 88      *tuka-, PNCal, ‘elder s.s. sibling’ 115
+*tina, PMP, POc, ‘mother, mother’s sister’     *tukunu, PEOc, ‘tell a story, tell news’
+     87                                            215
+*tina, PNCV, ‘mother’ 88                       *tukunu, PNCV, ‘story, tell a story’ 215
+*tina-, PNCal, ‘mother, mother’s sister’       *tulali, PMP, POc, ‘bamboo nose flute’
+     88                                            200
+*tino-, Proto Samoic, (CLF) ‘animate           *tuᵐbu-, PNCal, ‘grandparent’ 106
+     being’ 509                                *tumpu, PMP, ‘grandparent, grandchild’
+*tinV-, ri-, PSV, ‘mother, mother’s sister’        105
+     88                                        *tupe, PPn, ‘disc used in game of *lafo’
+*tme-, e-, PSV, ‘father, father’s brother’         232
+     84                                        *tupu-, tupuna, PPn, PNPn, ‘kin of the
+*tbu-, [e-], PSV, ‘grandparent’ 106                second and further ascending
+*toe utua, PNPn, ‘February’ 356                    generations’ 106
+*toka-, PPn, (CLF) ‘person’ 509                *tupuna, PEPn, ‘kin of two or more
+*tolu, PNPn?, ‘three; the stars of Orion’s         ascending generations’ 107
+     Belt; June’ 351                           *tupuqa, PPn, ‘supernatural being’ 246
+*tolu, POc, ‘three’ 457                        *tupʷu, PMic, ‘grandparent, grandchild’
+*topoŋ, POc, ‘to measure; to mark (for             106
+     cutting); to try (s.t.) out’ 566          *tuqa, PEMP, POc, ‘mother’s brother’ 95
+*tore, PWOc, ‘ask, enquire’ (?) 387            *tuqa-tina, PPn, ‘mother’s brother’ 94
+*tovo, PNCV, ‘measure’ 567                     *tuqi, PCP, PPn, ‘ceremonial title of the
+*tpu-, [e-], PSV, ‘grandparent’ 106                paramount chief of a region’ 157
+*tta, Proto New Caledonia, ‘one’ 451           *tuRaŋ, PMP, ‘kinsman, relative
+*tu, PEMP, ‘child, offspring’ 101                  (undefined)’ 123
+*tu-, POc, ‘child: offspring of ego or of      *tuRaŋ, POc, ‘friend, companion; relative
+     s.s. sibling’ 101                             of ego’s generation’ 123
+*tua-, POc, ‘o.s. sibling-in-law, older than   *tusu-, POc, ‘forefinger’ 557
+     ego’; 131                                 *uunu, PROc, ‘Aldebaran’ 341
+*-tua-, PSV, ‘elder s.s. sibling’ 115          *-ua , PMic, DEFAULT NUMERAL
+*tua-fafine, PPn, ‘♂sister ’ 120                   CLASSIFIER 484
+*tua-fine, PPn, PEPn, ‘♂sister’ 120            *ubu, POc, ‘grandparent, grandchild’ 107
+*tua-ŋaqane, PPn, ‘♀brother’ 121               *uCunu, PROc, ‘Aldebaran’ 341
+*tuaka-, POc, ‘elder s.s. sibling, elder       *ud gogona, Proto Torres-Banks, ‘bitter
+     parallel cousin’ 115                          (palolo)’ ≈ September 338
+*tuaka-, *tuakana, PPn, ‘elder s.s. sibling’   *ud lava, Proto Torres-Banks, ‘big palolo’
+     116                                           ≈ November–December 338
+                                               Alphabetical index of reconstructions 717
+
+
+*ud were, Proto Torres-Banks, ‘rump of         *walu, PAn, POc, ‘eight’ 465
+     palolo’ ≈ December–January 338            *wanse, PEMP, ‘divide’ 415
+*udolu, POc, ‘all, whole’ 473                  *wari, PCEMP, POc, ‘sing, song’ 208
+*umpu, PMP, ‘grandparent, grandchild’          *waRa-, PSES, ‘speak’ 385
+     107                                       *waRa, *waRai-, POc, ‘say (s.t.), tell (s.o.
+*ūnu, PMic, ‘Aldebaran’ 341                        to do s.t.)’ 384
+*unu-unu, PNPn, ‘June’ 350                     *waRo, POc?, (CLF) ‘a string of a
+*upi, POc, ‘blow; native flute’ 199                specified number of a product’ 490
+*uraki, POc, ‘make an offering to the          *waRo-, PPT, (CLF) ‘a bundle of coconuts’
+     gods’ 256                                     490
+*usi, PNCV, ‘ask’ 388                          *wase, PEMP, ‘divide’ 415
+*utua muli, PNPn, ‘February’ 355               *wase, POc, ‘distribute (food at a feast),
+*utua muqa, PNPn, ‘January’ 355                    divide up, count out’ 415
+*vai, PCP, ‘cat’s cradle, general term’ 229    *wase, PCP, ‘divide; separate’ 416
+*vaizu, *vaizuni-, PEOc, ‘ask, enquire’        *waSe, *waSe-ki, PMic, ‘count’ 416
+     387                                       *wati, PEOc, PSES, ‘spouse’ 126
+*valau, PCP, ‘canoe house’ 180                 *wawa, PEMP, POc, ‘grandparent,
+*vanaɣo, PSS, ‘steal’ 424                          grandchild’ 109
+*vanako, PNCV, ‘steal’ 424                     *wawa, POc, ‘mother’s brother’ 96
+*vareqa, PNCV, ‘outside, public space’         *welo, PPn, ‘thrust, as in spearing’ 233
+     181                                       *yalimadaɨ, PChk, ‘Andromeda (within
+*varis, PWOc, ‘mother’s brother,                   *kua constellation)’ 348
+     ♂father-in-law’ 96                        *yaŋa, PChk, ‘finger span’ 555
+*vaRage, PNCV, ‘tree sp., Pangium              *yaru, *yaruʔ-i , Proto Malaita-Makira,
+     edule, fruit used as dance rattles’ 202       ‘invoke a spirit, make imprecations,
+*vasu, PCP, ‘♂sister’s child’ 103                  put a spell on someone over
+*vava, PNCV, ‘speak, say’ 382                      something’ 252
+*vavine-, PSES, PNCV, ‘♂sister’ 119            *zaŋan, PMP, ‘handspan’ 555
+*[va]vine-, na-, PSV, ‘♂sister’ 119
+*viti, PNCV, ‘speak, say’ 386
+*volau, PCP, ‘canoe house’ 180
+*voza, PNCV, ‘clap, slap, strike’ 223
+*vʷara, PNCV, ‘speak, say, call’ 385
+*vʷasa, PNCV, ‘speak, say’ 383
+*vʷavʷa, PNCV, ‘mother’s brother,
+     father’s sister’ 96
+*waga, PCP, ‘spirit medium’ 262
+*wahe, PPn, ‘divide, separate’ 416
+*wai muqa, PPn, ‘February–March’ 356
+*wai muri, PPn, ‘March–April’ 356
+*waka, PPn, ‘medium or bodily abode of
+     a god’ 262
+*waka atua, PNPn, ‘spirit medium 262
+*wali, POc, ‘paint, smear, rub on’ 225
+            Index of glosses
+
+
+Most entries in this index refer to the gloss of a reconstruction. Language names are not listed
+here: see Appendix B.
+   A number of items indexed here are kin terms. Partly because of Oceanic kinship
+organisation, these are indexed here under genderless entries: ‘child’, ‘cousin’, ‘grand-’,
+‘great-’, ‘parent’, ‘sibling’, ‘spouse’. For example, for ‘mother’ see under ‘parent’.
+
+
+♀sister, see sibling, same-sex
+♂brother, see sibling, same-sex
+accept (PNCV *taRamʷi) 392
+agree (PEMP *taRam, POc *taRam, *taRami-) 391, (PNCV *taRamʷi) 392
+alienable property (PPn *taqoŋa) 412
+alive (PAn *qudip, PMP *ma-qudip, POc *maqurip) 240
+all (POc *udolu) 473
+allow (POc *taRam, *taRami-) 391, (PNCV *taRamʷi) 392
+ancestral spirit (PMP, POc *qanitu) 236
+animal (PPT *manu-) 487
+animal sound (POc *taŋis, *taŋis-i) 217
+another (Proto Tongic *taha) 449
+answer (PEMP *taRam) 391
+April (Proto Torres-Banks *mʷakoto +) 339, (PChk *taɨdā) 346, (PPn *wai muri) 356,
+   (PPn *faka-afu maquri, PNPn *faka-afu) 356
+arm (POc *nima-) 463
+arrow (POc *tibʷa(ŋ)) 230
+ask (PAn *bajaq) 383, (POc? *nanasa, *nanasai-) 386, (PEOc *vaizu, *vaizuni-,
+   PWOc *tore) 387, (PNCV *usi, PPn *huqi, *sili) 388
+ask for (PMP *ŋeni, POc *noŋi/ŋoni) 389, (POc *suga, *sugai-, PSES *suga,
+   *sug(a,e)ti-, PEOc, PEPn *noqi) 390
+audible (be) (POc *roroŋoR) 214
+August (PWMic *telu-telu, PChk *elu-elu) 342, (PNPn *oloamanu) 352
+aunt, see parent’s sibling
+bamboo (PAn *qauR, POc *kopi, *qauR, PPn *kofe) 198
+barter (POc *poli) 408, (POc *poli-poli) 409
+be allowed (PPn *ŋafua) 293
+
+                                             719
+720 Index of glosses
+
+
+be common (PPn *noa) 293
+be full (POc *ponot) 419
+beg (PMP *ŋeni, POc *noŋi/ŋoni) 389, (PEOc *noqi) 390
+beseech (PAn *Caŋis) 217
+big (POc *lapat) 171
+big man (POc *ta(u)-lapat) 169
+blow (POc *upi/*ipu) 199
+blow through nose (PPn *faŋu) 200
+bow (POc *p⁽ʷ⁾anaq) 231
+breathe (PPn *faŋu) 200
+brideprice (PMP *beli, POc *poli) 408
+brother, see under sibling
+brother-in-law, see also sibling-in-law (PROc *taku) 129, (Proto Central Vanuatu *tau-
+   wia) 130
+buildings, see canoe house, dwelling house, men’s meeting house, public building
+buy (PAn, PMP *beli) 408, (PWOc *kul(a,e)) 409
+buzz (PMP *ŋuŋ, *ŋu(ŋ)-ŋuŋ) 209
+by exaggeration (POc *balau, PPn *palau) 397
+call (PNCV *vʷara) 385, (POc *soRo(p), *soRo(p)i-) 394
+call loudly (PChk *kapʷata) 397
+call or speak loudly (POc *kapʷat) 397
+call out (to s.o.) (PNCV *kai) 395
+call out a greeting (POc *kʷaro) 393
+call out to (s.o.) (PEOc *kai) 394
+call s.o.’s name (POc *pato, *patoli-) 393
+canoe house (PCP *v(a,o)lau) 180
+cat’s cradle (POc *paRi, PCP *vai, PPn *fai) 229
+catch with the hands (PMP *cikep, POc *sikop) 229
+ceremonial food (PPn *taumafa) 256
+ceremonial rite (engage in) (PMic *fali) 294
+change (PPn *sui) 419
+chant (PNPn *pese) 212, (PROc *[ro]roŋoR) 214, (PNPn *oli-oli) 216
+chatter (PMic *kata) 398
+chief (PPn *qariki) 152, (PMP *datu) 156, (PCP, PPn *tuqi) 157, (POc *ta(u)-lapat)
+   169, (POc *kabi-ña) 171
+chief, act like a (PPn *faka-qariki) 154
+chief, make into a (PPn *faka-qariki) 154
+chief(s), occupied by (PPn *qariki-tia) 154
+chiefly authority or rule (PCP, PPn *sau) 154
+child, offspring (PEMP *natu) 99, (POc *natu-) 76, 100, (PSV *natu-, PMic *natu)
+   100, (PEMP *qatu, *tu, POc *qatu-, *tu) 101
+         man’s son, ♂brother’s son (PPn *fosa) 102
+         son (PPn *tama) 101
+child’s spouse, see also spouse’s parent/child’s spouse (reciprocal) (PPn *fuŋao,
+   *fuŋaona) 133
+child-in-law, see child’s spouse
+                                                              Index of glosses 721
+
+
+clan (PPn *kainaŋa) 158, (PMic *kayinaŋa) 191
+clap hands (PAn *pakpak, POc *baki) 222, (POc *pʷaja(R), PNCV *voza) 223
+classifiers, see numeral classifiers
+clear land (POc *mʷalala) 183
+close (s.t.) up (POc *ponot, PEOc *pono) 419
+co-operate (POc *taRam, *taRami-) 391
+coconut frond (POc *[pa]paq[a]-) 505
+commoners (PPn *kainaŋa) 158
+community (POc *panua) 183
+companion (POc *tuRaŋ) 123
+compensate (PEOc *soso) 257, (PEOc *soso) 420
+complete (s.t.) (POc *ponot, PEOc *pono) 419
+compose (PPn *fatu) 219
+constellations of stars, see star constellations
+corpse (PMP *qanitu) 236, (POc *tau-mate) 237
+count (POc *wase) 415, (PMic *waSe, *waSe-ki) 416, (PMP *ihap, POc *iap, *iap-i-)
+   439, (POc *luku, PPn *tau) 440, (PPn *lau) 441, (Proto Kimbe *gigi) 527
+cousin 123
+         ♀male parallel (POc *mʷaqane-) 119
+         ♂female parallel (POc *papine-) 118
+         opposite-sex cross-cousin (PSES *mʷai-mʷane) 119
+         parallel elder (POc *tuaka-) 115, (POc *kaka) 116
+         mother’s brother’s child (POc *natu-) 76
+cousin’s child
+         child of same-sex parallel cousin (POc *natu-) 76
+         younger, of same-sex parallel cousin (POc *taci-) 112
+cross-cousin, see under cousin
+cross-sibling, see under sibling, opposite-sex.
+cry (PAn *Caŋis, PMP *taŋis, POc *taŋis, *taŋis-i) 217
+cycle (chronological) (POc *taqun) 298
+dance (POc *bʷaku) 210, PPn *siwa) 211, (PPn *oli) 216, (POc *sagar) 220, (POc,
+   PNCV *mako) 221, (PNCV *sale, PCP *se(q)a) 222
+dance accompanied by ritual chant (PNPn *kapa) 214
+dance accompanied by singing (POc *lagar) 222
+dart (PCP *tigʷa, POc *tibʷa(ŋ), PPn *tika) 230
+daughter, see child; girl, unmarried
+debt (POc *buku) 418, (PNCV *buku) 419
+deceive (POc *rupʷas, *rupʷasi-, PCP *lasu) 396
+December (Proto Torres-Banks *ud lava, *ud were) 338, (PChk *cēwu) 344, (PNPn
+   *munifa) 353, (PPn *lisa muqa, PEPn *muriafa) 354
+dehortative “don’t” (POc *tabuna) 290
+deity (PMic *anitu) 236, (PMP, POc *qatuan) 245
+descent group (PPn *kainaŋa) 158, (PPn *kainaŋa) 191
+desire (PSES *suga, *sug(a,e)ti-) 390
+disc used in game of *lafo (PPn *tupe) 232
+distribute (POc *wase) 415, (POc *soli, *soli(t,ŋ)-i-, *tara(s), *taras-i-) 417
+722 Index of glosses
+
+
+DISTRIBUTIVE PREFIX (PPn *taki- ) 482
+divide up (PEMP *wa(n)se, POc *wase) 415, (PCP *wase, PPn *wahe) 416, (POc
+    *tara(s), *taras-i-) 417
+“don’t!” (POc *tabuna) 295
+drum 203
+         drum, to (PPn *pasu) 206
+         hourglass (PWOc *kud(u,e)) 203
+         slitgong (PAn *kuŋkuŋ, POc *koŋkoŋ) 204, (POc *garamut, *rali) 205, (PCP
+             *lali) 206
+         slitgong, small (PPn *nafa) 206
+dwelling house (PAn *Rumaq, POc *Rumaq, ) 177
+efficacy (PEOc *mana) 271, (PMic *mana, *mana-mana) 272
+eight (PAn, POc *walu) 465
+enquire (PAn *bajaq) 383, (PEOc *vaizu, *vaizuni-, PWOc *tore) 387
+etc (POc *panua) 183
+exchange (POc *poli) 408, (PWOc *kul(a,e)) 409, (PPn *sui) 419
+exclaim (POc *pelapela) 393
+expiate (PEOc *soso) 257
+father, see parent
+father’s sister, see under parent’s sibling
+father-in-law, see under spouse’s parent
+February (PChk *məəl, *māti-ciki) 344, (PPn *wai muqa, PNPn *toe utua, *utua muli)
+    355
+fenced-in area (POc *koro) 182
+few, a (POc *palu) 474
+five (PAn, POc *lima) 461
+flap (of wings or outstretched arms) (PPn *kapa) 214
+flourish (PMP *ma-qudip, POc *maqurip) 240
+flute (POc *upi/*ipu) 199
+         bamboo flute (POc *kopi) 198
+         bamboo nose flute (PMP, POc *tulalim PPn *faŋo, *faŋu-faŋu) 200
+         bamboo wind instrument (POc *qauR) 198, (POc *pi(g,k)o) 199
+food (PPn *taumafa) 256
+         allocated portion of food (PPn *qinati) 258
+forbidden (PCEMP *tambu, POc *tabu) 285
+forefinger (POc *tusu-) 557
+foreign language (PMic *kata, PROc *kato) 398
+fortified settlement (POc *koro) 182
+foundation of house (PEOc *apu) 180
+four (PAn *Sepat, PMP *epat, PEMP *pat, POc *pat) 459, (PCEMP,POc *pati) 460,
+    (POc *paŋi) 461
+friend (POc *tuRaŋ) 123
+frond (PMic *paa) 505
+game (PPn *ta(a)-kalo) 228, (PPn *lafo) 232
+game played with discs (PCP *lavo) 232
+                                                              Index of glosses 723
+
+
+ghost (PAn *qaNiCu, PMP *qanitu) 236, (PNCV *qata-mate) 237, (Proto Malaita-
+   Makira *adalo, PSES *t(i,a)dalo) 238
+gift (PMP *beRay) 422
+girl, unmarried (Proto Malaitan *a-ariki) 172
+give (PCP *soli[-]) 417, (PAn *beRay, PMP *beRay, PEMP *boRe, POc *pani-) 422,
+   (POc? *peRe) 422, (POc *pala, *pala-i-) 423
+gossip (PSES *kunu) 395
+grandparent (see also grandparent/grandchild (reciprocal)) (PSV *[e-]t(p,b)u-, PPn,
+   PNPn *tupu-, tupuna) 106, (PEPn *tupuna) 107
+grandchild (see also grandparent/grandchild (reciprocal)) (POc *makubu-) 77, 110,
+   (PNCV *makubu, PSV *maɣubʷu-, PPn *makupu-na) 110
+grandparent/grandchild (reciprocal) (PMP *tumpu, POc *tubu-) 105, (PNCV *tubu-,
+   PMic *tupʷu) 106, (PMP *ampu, *umpu, PEMP *tampu, POc *tabu-, *abu[a], *ubu,
+   PNCV *abu[a]) 107, (PAn, PMP, POc *bubu) 108, (PMP *bubu-y, PEMP *wawa,
+   POc *[bu]bui, *wawa) 109
+great (POc *lapat) 171
+great-grandchild (PPn *makupu-na) 110
+great-grandparent (PPn, PNPn *tupu-, tupuna) 106, (PEPn *tupuna) 107
+great-great-grandchild (PEMP *bawa, POc *bawa[-], *sese) 111
+greet loudly (POc *paila, *pela) 393
+grow (PMP *ma-qudip) 240
+hand (PAn *lima) 461, (POc *nima-) 463, (PWOc *baqe) 526
+have chief(s) present (PPn *qariki-tia) 154
+have fun (POc *mʷaja) 228
+hear (POc *roŋoR) 214
+high ranking (Person) (PPn *laŋi) 155
+hourglass drum (PWOc *kud(u,e)) 203
+house, see dwelling house
+how many? how much? (PAn *pijax, POc *pica) 474
+hum (PMP *ŋuŋ, *ŋu(ŋ)-ŋuŋ, POc *ŋuŋu) 209
+hundred (PMP *sa-Ratus, POc *[sa]Ratus, Proto NW Solomonic *ratus) 469, (PMP,
+   POc *sa ŋa Ratus, PAdm *saŋatV) 470, (PChk *te-ŋa-ratʉ) 471, (PCP *rau) 499,
+   (PPn *[te]rau) 499, (PMic *-pʷukua) 506
+husband, see spouse
+image (PSOc *nunu) 243, (PPn *qata) 244
+inanimate (POc *pua) 483, (PPT *kai[u]-) 486
+incantation (PPn *[talo]talo) 253
+INDEFINITE ARTICLE (POc *(i)sa) 448, (PNPn *se , PPn *sa) 449, (POc *ta) 450
+inform (PMic *kai) 380, (PAn *bajaq) 383
+inhabited place (POc *panua) 183
+insist (Proto Malaita-Makira *ɣai, *ɣai(li)-) 394
+invoke a spirit (Proto Malaita-Makira *yaru, *yaruʔ-i ) 252
+invoke supernatural intervention (PPn *[talo]talo) 253
+January (Proto Torres-Banks *ud were) 338, (PChk *cēwu, *sumʷuru) 343, (PPn *lisa
+   muri, PNPn *takaoŋa, *utua muqa) 354, (PNPn *tākelo) 355
+jew's harp (POc *b(u,o)go-b(u,o)go, PPn *qutete) 201
+724 Index of glosses
+
+
+joint (PMic *pʷuku) 506
+July (Proto Ponapeic-Chuukic *mʷakariker) 341, (PPn *siliŋa maqa) 351, (PNPn
+    *takulua) 352
+jump (PNCV *sale) 222
+June (Proto Torres-Banks *mʷakoto raŋo) 339, (PChk *kua) 347, (PNPn *mataliki,
+    *[kau]unu-unu) 351, (PNPn? *tolu, PPn *siliŋa kelekele) 351
+kick (POc *butu. *butuR-i-, PMic *pʷutu) 224
+kinship terms, see entries beginning with child, cousin, grand-, great-, parent, sibling,
+    spouse
+kinsman (PMP *tuRaŋ) 123
+knee (PMic *pʷuku) 506
+knock (POc *baki) 222
+knot (PMic *pʷuku) 506
+know (PAn *bajaq) 383
+lament (POc *taŋis, *taŋis-i) 217
+land (POc *panua) 183
+landowner (PEOc *tau panua) 192
+language (POc *pʷaca(q)) 383, (PMic *kata, PROc *kato) 398
+leader (PPn *fatu, *fatu kāiŋa) 156
+lie, tell a (POc *rupʷas, *rupʷasi-, *koron, PEOc *sori(t), PCP *lasu) 396, (POc
+    *balau, *lami, PPn *palau) 397
+life, life force (PAn *qudip, POc *maqurip) 240
+likeness (POc *[qa]nunu) 242
+list (PPn *lau) 441
+live (POc *maqurip) 240
+living (PMP *ma-qudip) 240
+lullaby (POc *oli-oli) 216
+magic (POc *masi) 250
+          magic (employed to affect another person) (PWOc *bara) 266
+          magic force (Proto Torres-Banks *mana) 272
+maiden (Proto Malaitan *a-ariki) 172
+make imprecations (Proto Malaita-Makira *yaru, *yaruʔ-i ) 252
+March (PChk *māti-lapa) 346, (PPn *wai muqa, *wai muri) 355
+mark (for cutting) (POc *topoŋ) 566
+marriage prestations (PMP *beli) 408
+married person (POc *[tau]laki) 135
+marry (PPn *qahawa(n,ŋ)a) 126, (POc *qasawa) 134, (POc *[tau]laki) 135
+mature (of a person) (PNPn *matuqa) 92
+May (Proto Torres-Banks *mʷakoto raŋo) 339, (PChk *laka) 346, (PChk *kua) 347,
+    (PPn *faka-afu maquri, *faka-afu-mate, PNPn *faka-afu) 356
+measure (POc *topoŋ) 566, ((PNCV *tovo, PPn *fua) 567
+measure quantities (PAn *tepeŋ) 566
+measurement, see units of measurement
+medium (PPn *taaula[-qatua]) 261, (PPn *waka) 262
+melody (PPn *fati) 219
+men’s meeting house (PMP *kamaliR, POc *kamali(R), PNCV *kamali) 179
+                                                                     Index of glosses 725
+
+
+merely (Proto Malaita-Makira *mola ) 293
+money (PCEMP *matay) 410
+month names, see January etc.
+Month names, see Lunar month names
+mother, see parent.
+mother-in-law, see spouse’s parent
+mother’s brother, see under parent’s sibling
+mourn (PAn *Caŋis) 217
+move rhythmically (PPn *oli) 216
+music (PPn *fati) 219
+musical instruments, see drum, flute, jew’s harp, rattles, trumpet
+narrate (POc *takunu) 215
+nature spirit (PMP *qanitu) 236
+nephew, see sibling’s child, ♂sister’s child
+niece, see sibling’s child; see mother’s brother/♂sister’s child (reciprocal) under parent’s
+   sibling
+nine (PAn *Siwa, PMP *siwa, POc *siwa) 466
+node (PMic *pʷuku) 506
+November (Proto Torres-Banks *ud lava) 338, (PChk *aremoi) 344, (PNPn *munifa)
+   353, (PEPn *muriafa) 354
+numeral classifiers, see also collections of ten under ten
+        animate (POc *tau, *manu) 486, (PPT *manu-, PMic *-dau, *-manu) 487,
+            (PAdm *-mʷaw) 502, (Proto Samoic *tino-) 509
+        bananas, hand of (POc *qiti, *qi) 489, (POc *-iti) 501
+        bunch, bundle, cluster (POc *buŋV, PAdm *-buŋu) 489, (POc *pui, *pui) 490
+        coconuts, bundle of (PPT *waRo-) 490
+        coconuts, string of five pairs (PPn *se[ŋa]-fui) 490
+        coconuts, a thousand (Proto Malaita-Makira *pʷela) 501
+        container, bag, basket (Proto Eastern Admiralty *-fatV) 502
+        default classifier (POc *pua) 483, (PAdm *-(ə)fu, Proto Far North New
+            Caledonia *pʷa-, PMic *-ua) 484, (PPT *kai[u]-) 486
+        fathom (POc *-ŋapa) 560
+        fire, firewood (PAdm *-potV) 502
+        fish, ten (PCP *mata-) 491
+        flat object (Proto Central Micronesian *-papa) 507
+        frond of palm (POc *[pa]paq[a]-) 505
+        group, herd (POc *pui, PMic *-bui) 490
+        half (Proto Eastern Admiralty *-polV) 503
+        house (PAdm *-Ruma) 502
+        hundred (unit of) (Proto Eastern Admiralty *-ŋatu) 501, (PMic *-pʷukua) 506
+        leaf (POc *qapa, PAdm *-kaba) 488, (PMic *-cau) 506
+        leaf and stalk (PMic *paa) 505
+        long cylindrical object ((POc *pata, PMic *-fata) 488
+        long object (POc *kai) 485
+        long rigid object (PAdm *-kai) 485, (PPT *kai[u]-) 486
+        long slender object (PMic *-ai) 486
+726 Index of glosses
+
+
+         night (PMic *-pʷoŋi) 506
+         package (PMic *-sukumV) 505
+         path (Proto Eastern Admiralty *-cala) 503
+         person (POc *tau, *manu) 486, (PAdm *-mʷaw) 502, (PMic *-dau) 487, (PPn
+             *toka-) 509
+         plant (PMic *-kai) 486
+         rigid object (POc *kai, PAdm *-kai) 485
+         score (twenty) (PPn *-kau) 509
+         small parts of s.t. (PMic *-kisi) 506
+         stick (PMic *-kai) 486
+         string of a specified number of a product (POc *waRo) 490
+         tree (POc *kai, PAdm *-kai) 485, (PMic *-kai) 486
+         tree trunk (POc *pata, PMic *-fata) 488
+         village (Proto Eastern Admiralty *koro) 503
+         wooden object (POc *kai) 485, (PPT *kai[u]-) 486
+numerals, see one, two, three etc.
+October (Proto Ponapeic-Chuukic *tarobolu) 343, (PNPn *palolo muli, *palolo muqa)
+   353
+offering to the gods (POc *uraki, PPn *taumafa) 256
+offspring, see child
+old (PNPn *matuqa) 92
+older female relative (ADDR) (Proto Philippine *nana) 89
+one (PAn *asa, *esa, *isa, PNCV *sa-wa, Proto N Malakula *sa-ɣa-l, Proto CW
+   Malakula *sava[ɣ,m]) 448, (POc *ta-sa, *ta-si, Proto Kilivila *ta-za, Proto Tongic
+   *taha, PNPn *tasi) 449, (POc, PPT *ta, Proto Sudest-Nimoa *ta[ɣa], Proto North
+   Mainland/D’Entrecasteaux *ta-mo[qa]-) 450, (Proto New Caledonia *tta) 451, (POc
+   *tai, Proto Western Admiralty *tai-) 452, (Proto North Vanuatu *te-wa[le], PMic
+   *te-) 453, (POc? *sa-kai, Proto Bwaidoga *sa-qe-ana, Proto Efate *si-kai, PSES
+   *sa-kai) 454, (POc? *kai-sa, PSES *kesa) 455
+open space associated with a house or settlement (POc *pera) 181
+open-sided building (POc *pale) 179
+opposite-sex sibling, see under sibling
+ordinal numeral form (POc NUMERAL-*ña) 476, (POc *pa[ka]-NUMERAL-*ña) 478,
+   (PAn *Si-ka-NUMERAL, PMP, POc *i-ka-NUMERAL) 479
+other (POc? *ta-kai) 454
+outside (PNCV *vareqa) 181
+owl (PAn *qaNiCu, PMP *qanitu) 236
+paddle-shaped dancing instrument (PPn *paki) 222
+paint (POc *wali) 225
+Pangium *edule (PEOc *paRage, PNCV *vaRage) 202
+parallel cousin, see under cousin
+paramount chief of a region (PCP, PPn *tuqi) 157
+parent (PPn, PNPn, PEPn *matuqa) 92
+         father (PAn *ta-amax, PMP *t-ama, POc *tama-) 83, (PNCV, PNCal *tama-,
+             PSV *e-tme-, PMic *tama) 84, (PAn *amax, *mamah, PMP, POc *ama, PMP,
+             POc *mama, PPn *tama-, *tamana) 85, (POc *tata, PNCV *mama) 86
+                                                                Index of glosses 727
+
+
+        mother (PAn *ta-ina, PMP, POc *tina) 87, (PNCV *tina, *ra-tina-, PSV *ri-
+            (t,c)inV-, PNCal *tina-, PMic *tina) 88, (PAn, PMP, POc, PNCV *ina, PMP
+            *nana, POc *kina-, *ñaña) 89, (PEMP *ina-y, PEMP, POc *nai, PEMP, POc
+            *nene) 90, (PPn *faqe(e)) 91, (PEMP *aya-) 98
+parent’s sibling (PNPn, PEPn *matuqa) 92, (PEMP *ŋkaŋka, POc *kaka) 93
+        father’s brother (PMP *t-ama, POc *tama-) 83, (PNCV, PNCal *tama-, PSV
+            *e-tme-, PMic *tama) 84, (PAn *amax, *mamah, PMP, POc *ama, PMP, POc
+            *mama, PPn *tama-, *tamana) 85, (PNCV *mama) 86
+        father’s sister (PEMP *aya-) 98, (PPn, PNPn *masakitaŋa) 99
+        mother’s brother (PPn *tuqa-tina) 94, (PEMP *[ma]tuqa, PMP *matuqa, POc
+            *[ma]tuqa-, PNCV *matu(q)a-, PSV *mata-) 95, (POc *wawa, PWOc
+            *varis) 96, (POc *[qa]lawa) 102
+        mother’s brother/♂sister’s child (reciprocal) (POc *[qa]lawa) 102
+        mother’s sister (POc *tina) 87, (PSV *ri-(t,c)inV-, PNCal *tina-, PMic *tina)
+            88, (PAn, PMP, POc, PNCV *ina, POc *ñaña) 89, (PEMP *ina-y, PEMP,
+            POc *nai, PEMP, POc *nene) 90, (PPn *faqe(e)) 91, (PEMP *aya-) 98
+parent’s sibling’s spouse
+        mother’s sister’s husband (POc *tama-) 83
+        parent’s sister’s husband (PSV *mata-) 95
+parent-in-law, see spouse’s parent
+parents (PPn *mātuqa) 92
+pay (PEOc *sui) 419
+payment (PCEMP *matay) 410
+period of a year (PMP *taqun) 298
+permitted (Proto Malaita-Makira *mola ) 293
+person (POc *tau) 486, (POc? *qata) 487, (PPn *toka-) 509
+        person belonging to a place (PEOc *tau panua) 192
+        person of chiefly rank (PPn *qariki) 152
+        person of low social status, (POc *mʷala) 173
+plait (PMP *batuR, POc *patu(R)) 219
+play (POc *mʷaja) 228
+        play (a game) (PNPn *tāfao, PPn *ta(a)-kalo) 228
+plugged (PMP *pened) 419
+points scored in a game (PCP *kai) 233
+poison (PWOc *bara) 266
+populace (PPn *kainaŋa) 158
+porpoise (PChk *kua) 347
+pray (PNCV *[ta]taro, PPn *[talo]talo) 253
+pregnant woman (PPn *faqele) 92
+price (PMP *beli, POc *poli) 408, (POc *mate) 410
+priest (PPn *taaula[-qatua]) 261
+prohibited (POc *tabu) 285, (POc *pali) 294
+propitiate (PEOc *soso) 420
+public building (PMP *balay, POc *pale, PMic *fale) 179
+public space in a village (PNCV *vareqa) 181, (POc *malaqai) 182
+purchase (PMP *beli, POc *poli) 408
+728 Index of glosses
+
+
+purifying rite (PAn *paliSi) 294
+put a spell on s.o. over s.t. (Proto Malaita-Makira *yaru, *yaruʔ-i ) 252
+question (PPn *huqi, *sili) 388
+rattles used in dancing (PEOc *paRage, PNCV *vaRage) 202
+recite (PROc *[ro]roŋoR) 214, (PPn *lau) 441
+redeem a debt (PEOc *sui) 419
+reflection (PAn *qaLiŋu, PMP *qan[i,u]nu, POc *[qa]nunu) 242, (POc *qata, PSOc
+    *nunu) 243, (PPn *qata) 244
+relative (undefined) (PMP, POc *tuRaŋ) 123
+replace (PPn *sui) 419
+resin used in torches (PAn *damaR) 307
+respect term for a member of ego’s parent’s generation (PMP *aya) 98
+ritual restriction (PAn *paliSi) 294
+ritually restricted (POc *pali) 294
+roll (PPn *teka) 232
+rub on (POc *wali) 225
+said (PChk *pata) 384
+         said (it is) (PMP *kunu) 395
+same-sex sibling, see under sibling
+say (PMP *kuwá, POc *kʷa, *kʷai-) 379, (PCP *kʷai) 380, (PCEMP *bai, POc *pʷa,
+    *pʷai-) 381, (PNCV *vava) 382, (PNCV *vʷasa, POc *bʷala, *pʷaca(q)i-) 383,
+    (PWOc *sowa, *sowai-) 383, (POc *waRa, *waRai-) 384, (PNCV *vʷara) 385,
+    (PNCV *viti) 386, (Proto Malaita-Makira *ili-) 387, (POc *pato, *patoli-) 393,
+    (PMP *kunu) 395
+         say forcefully (PEOc *kai) 394
+         say s.o.’s name (POc *pato, *patoli-) 393
+seasonal cycle (POc *taqun) 298
+second (major) spawning of the palolo worm (PNPn *palolo muli) 354
+separate (PCP *wase, PPn *wahe) 416
+September (Proto Torres-Banks *ud gogona) 338, (PChk *icci, *manu) 343, (PNPn
+    *palolo muqa) 353
+set of 5 pairs (of coconuts etc) (PPn *se[ŋa]-fui) 490
+settle a debt (PEOc *pono) 419
+settlement (POc *pera) 181, (POc *koro) 182
+seven (PAn, POc *pitu) 464
+shadow (PAn *qaLiŋu, PMP *qan[i,u]nu) 242, (POc *qata, PSOc *nunu) 243, (PPn
+    *qata) 244
+         shadow of person (POc *[qa]nunu) 242
+shaman (PPn *taaula[-qatua]) 261
+share (PPn *qinati) 258, (POc *tara(s), *taras-i-) 417
+shed (POc *pale) 179
+sheet of s.t. (POc *qapa) 488
+shell money (POc *saRa) 411
+shoot with bow and arrow (PAn *panaq, POc *p⁽ʷ⁾anaq, *p⁽ʷ⁾anaq-i-. PPn *fana) 231
+shout (POc *pelapela) 393, (Proto Malaita-Makira *ɣai, ɣai(li)-) 394, (PChk *kapʷata)
+    397
+                                                               Index of glosses 729
+
+
+sibling
+         ♀brother (PEMP *muaqanay, POc *mʷaqane-) 119, (PSV *ma-mʷane-, PMic
+             *mʷāne-, PNCal *mʷane, PCP *ŋʷaqane-) 120, (PPn *tua-ŋaqane) 121
+         ♂sister (PEMP *babinay, POc *papine-) 118, (PSES, PNCV *vavine-, PSV
+             *na-[va]vine-) 119, (PPn, PEPn *tua-fine, PPn *tua-fafine) 120
+         opposite-sex (PSES *mʷai-mʷane) 119
+         opposite-sex older (POc *tua-) 131
+         same-sex (PNPn *taqo-kete) 116
+         same-sex younger (PMP *taji, POc *taci-) 112, (PNCal *tasi-, PNPn *tai-,
+             taina, PPn *tahi-, tahina) 113, (POc *kaci-) 114
+         same-sex elder (POc *tuaka-, PSV *-tua-, PNCal *tuka-) 115, (PAn, PMP,
+             POc *kaka, PPn *taqokete, *tuaka-, *tuakana) 116
+sibling’s child (PNCV *(q)alawa) 103, (PPn, PNPn *qilāmutu, PEPn *irāmutu) 104
+         ♂sister’s child (POc *[qa]lawa) 102, ((PNCV *(q)alawa, PSV *alwə-) 103,
+             POc *pa(s,c)u, *pa(s,c)ua-, PCP *vasu, PPn *fasu) 103, (PPn, PNPn
+             *qilāmutu) 104
+         opposite-sex sibling’s child (PMic *fa(s,S)ua) 103
+         same-sex sibling’s child (POc *natu-) 76, (POc *qatu-, *tu) 101
+sibling-in-law
+         opposite-sex older (POc *tua-) 131
+         opposite-sex younger (POc *taci-) 130
+         same-sex (PEPn *taqokete) 117, (PMP *hipaR, POc *ipaR/*ipa-) 128, (PSES
+             *iva-, PNCal *iva-, PPn *maqā) 129
+sing, see song
+sister, see under sibling
+sister-in-law, see sibling-in-law
+six (PAn *enem, POc *onom) 463
+slap (PPn *paki) 222, (PNCV *voza, POc *pʷajaR-i ) 223
+slide deliberately (PPn *faka-seke) 233
+slitgong (PAn *kuŋkuŋ, POc *koŋkoŋ) 204, (POc *garamut, *rali) 205, (PCP *lali) 206
+slitgong, small (PPn *nafa) 206
+smear (POc *wali) 225
+solicit (PEPn *noqi) 390
+some (PMP *balu, POc *palu, *tari) 474
+son, see child
+song (PCEMP, POc *wari) 208, (POc *kanam) 209, (POc *bʷaku, POc *raŋi, PPn
+    *laŋi) 210, (PPn *siwa) 211, (PNPn *pese) 212, (PROc *[ro]roŋoR, PPn *loloŋo)
+    214
+         sing in unison (PMP *saRup, POc *saRu(p)) 212
+sorcerer (PNCV *kai-masi) 250, (PPT *(tau)baravu) 265
+sorcery (PPT *baravu) 265
+soul (POc *maqurip) 240, (PNCV *qata-, POc *qata, PSOc *nunu) 243, (PPn *qaŋa-
+    qaŋa, *qata) 244
+         soul that may leave the body in dreams (POc *[qa]nunu) 242
+sound (POc *taŋis, *taŋis-i) 217
+         make a sound (POc *roroŋoR) 214
+730 Index of glosses
+
+
+         sound of clapping or flapping (PAn *pakpak) 222
+         sound of musical instrument (POc *taŋis, *taŋis-i) 217
+speak (PNCV *vava) 382, (PNCV *vʷasa, POc *bʷala, *pʷaca(q)) 383, (POc
+   *pʷaca(q)i-, PWOc *sowa, *sowai-) 383, (PEOc *bata) 384, (PNCV *vʷara, PSES
+   *waRa-) 385, (PNCV *viti) 386, (POc *pato, *patoli-) 393, (PROc *kato) 398
+         speak negatively to (PWOc *pile) 396
+speech (POc *pʷaca(q)) 383, (PMic *kata, PROc *kato) 398
+spell (Proto Malaita-Makira *yaru, *yaruʔ-i ) 252, (PPn *[talo]talo) 253, (PNGOc
+   *nabʷa) 266
+spin (PPn *teka) 232
+spirit (PAn *qaNiCu, PMic *anitu, PMP, POc *qanitu) 236, (PNCV *qata-mate, POc
+   *tau-mate) 237, (Proto Malaita-Makira *adalo, PSES *t(i,a)dalo) 238, (POc
+   *mʷa(l,r,R)(i)aw(i,a)- (?) ) 239, (PNCV *qata-, POc *qata) 243, (PPn *qaŋa-qaŋa,
+   *qata) 244
+         guardian spirit (PEOc *tubuqa) 246
+         spirit of a person (PNGOc *mʷaria(b,w)a-) 239
+         spirit of the dead (PAn *qaNiCu, POc *qanitu) 236, ((POc *tau-mate, PNCV
+            *qata-mate) 237, (PNGOc *bara(q)um) 238, (PAdm *mʷalaw(i,a)-) 239,
+         spirit medium (PCP *waga, PNPn *waka atua) 262
+spoken (PChk *pata) 384
+spouse (PAn *qasawa, POc *qasawa-, PNCV *asoa-) 125, (PEOc, PSES *wati, PNCal
+   *qasao-, PPn *qahawa-, *qahawana) 126
+         wife (PEMP *b‹in›ai, POc *pine, POc *kawe(C)) 127
+spouse’s parent (PPn *fuŋao-ai) 133
+         spouse’s father (PSV *mata-) 95
+         spouse’s parent/child’s spouse (reciprocal) (POc *rawa) 132, (PAdm *(ñ,n)ana)
+            133, (PNCV *bʷalika) 134
+         wife’s father (PWOc *varis) 96
+         wife's parent (PMP *matuqa) 95
+stammer (PEOc *[ta]tata) 398
+stamp foot (POc *butu. *butuR-i-) 224
+star constellations
+         Aquila (PMic, PChk *māti-lapa) 345
+         Corona Borealis (PChk *cēwu) 343
+         Bird constellation (includes Canopus, Sirius and Procyon) (POc *manuk, PMic
+            *manu) 341, (PChk *manu) 342
+         Corvus (Proto Ponapeic-Chuukic *tarobolu) 342
+         Dolphin constellation (Aries and Cassiopeia) (PMic, PChk *kua) 346
+         Equuleus (PChk *taɨdā) 345
+         Leo (PChk *icci) 342
+         Orion’s Belt (three stars) (Proto Western Micronesian *telu-telu, PChk *elu-elu)
+            341, (PNPn *tākelo) 356
+         Pegasus (Proto Western Micronesian, PChk *laka 345)
+         Pleiades (PMP *buluq, POc *bulu(q)) 309, (Proto Ponapeic-Chuukic
+            *mʷakariker) 340, (PPn *mataliki) 349, (PNPn *mataliki) 350
+         Sagittarius (PMic, PChk *māti-ciki) 344
+                                                                  Index of glosses 731
+
+
+star names
+         a bright star (PPn *takulua) 352
+         Aldebaran (PROc *u(C)unu( 340), PMic *ūnu) 341
+         Altair (PMic, PChk *māti-lapa) 345
+         Andromeda (PChk *yalimadaɨ) 347
+         Antares (PMic, PChk *sumʷuru) 343
+         Arcturus (PChk *aremoi) 343
+         Betelgeuse (PNPn *tākelo) 356
+         Corvus (Proto Ponapeic-Chuukic *tarobolu) 343
+         Sirius (PNPn *takulua) 352
+         Vega (PChk *məəl) 344
+steal (PAn *Cakaw, PMP *panakaw, *takaw) 423, (POc *panako) 423, (PNCV
+    *vanako, POc *painako, *penako, PSS *vanaɣo) 424
+step (PMic *pʷutu) 224
+stopped up (PMP *pened) 419
+story (PNCV *tukunu) 215, (PPn *tala) 216
+         story type, intended for entertainment (PPn *fanaŋa) 212
+         traditional story (PNPn *[ka]kai) 216, (PNPn *kai) 380
+strike (PNCV *voza) 223
+         strike one against another (POc *baki) 222
+string (N) (POc? *waRo) 490
+string games (POc *paRi, PCP *vai, PPn *fai) 229
+subjects of a chief (PPn *kainaŋa) 191
+success (PEOc *mana) 271
+summon (POc *soRo(p), *soRo(p)i-) 394
+supernatural being (POc *qatuan, PPn *qatua) 245, (POc *tubuqan, PPn *tupuqa) 246
+supernatural power (PEOc *mana) 271, (Proto Torres-Banks *mana, PMic *mana,
+    *mana-mana) 272
+surf (PPn *faka-seke) 233
+taboo (PCEMP *tambu) 285, (PAn *paliSi) 294
+talk (PMic *kata) 398
+         talk negatively about s.o. (PSES *kunu) 395
+         talk uselessly (PPn *tala-noa) 216
+tally (Proto Kimbe *gigi) 527
+tell (POc *kʷa, *kʷai-) 379, (PCP *kʷai) 380, (POc *pʷa, *pʷai-) 381, (PMic *pʷā)
+    382, (PAn *bajaq) 383, (POc *waRa, *waRai-) 384, (PPn *tau) 440
+         tell a lie (POc *rupʷas, *rupʷasi-, *koron, PEOc *sori(t), PCP *lasu) 396, (POc
+             *balau, *lami, PPn *palau) 397
+         tell news (PEOc *tukunu) 215
+         tell a story (PEOc, PNCV *tukunu) 215, (POc *takunu) 215, (PPn *tala) 216
+ten (PAn *sa-puluq) 468, (POc *sa-puluq) 468, (PMP, POc *sa ŋa puluq) 470, (PAdm
+    *saŋafulV) 470
+         collections of ten (numeral classifiers):
+         ten (unit of) (POc *-ika, *ika-) 498, (POc *-ŋapuluq, PAdm *-ŋafulu) 501,
+             (PPT ika-) 503, (PMic *-ŋawulu, *-ik[a,e]) 504, (Proto Samoic *fua-, *lau-)
+             510
+732 Index of glosses
+
+
+          ten branches of s.t. (Proto Malaita-Makira *sinola) 500
+          ten fathoms (Proto-Polynesian *(ŋa)kumi) 565
+          ten fish (PCP *mata-) 491
+          ten roundish objects (POc *-pua) 508, (PNPn *kau-) 510
+          ten collections of ten (100) or ten scores (200) of certain food items (PPn *-fua)
+              485, 508
+          ten collections of ten yams (Proto Malaita-Makira **sinola) 500
+          ten large fish (Proto Malaita-Makira **sinola) 500
+          ten taro (PCP *mata-) 491
+territory (POc *panua) 183
+thousand (PChk *te-ŋa-ratʉ) 471
+three (PAn *telu, POc *tolu) 457
+throw
+          dart (PCP *tigʷa, PPn *tika) 230
+          s.t. at a target (PAn *panaq) 231
+thrust (a spear) (PPn *welo) 233
+thump (PPn *pasu) 206
+thunder (PPn *mana, Proto Torres-Banks*mʷonu) 277
+time (Proto Far North New Caledonia *pʷa-) 484
+tossing game (like quoits) played with asymmetrical discs (PPn *lafo) 232
+trade (POc *poli-poli) 409
+traditional lore (PROc *[ro]roŋoR) 214
+trample (POc *butu, *butuR-i-) 224
+transact (POc *mate) 410
+tread (POc *butu. *butuR-i-, PMic *pʷutu) 224
+tree sp. (PEOc *paRage, PNCV *vaRage) 202
+trumpet, conch/Triton shell (PMP, POc *tapuRiq, PCEMP, POc *buu ) 196, (PPn *pū)
+   197
+try (s.t.) out (POc *topoŋ) 566
+tune (PPn *fati) 219
+two (PAn *duSa, PMP *duha, POc *rua) 455
+          two (human beings) (PAn *da-duSa, POc *ra-rua) 457
+uncle, see parent’s sibling, parent’s sibling’s spouse
+understand (PAn *bajaq) 383
+units of measurement
+          cubit (PMic *-mʷanū) 564
+          fathom (PAn *depah, POc *ropa) 558, (Proto Kilivila *ova-) 559, (POc *-
+              ŋapa, PMic *ŋafa) 560
+          finger segment (one) (PChk *makoto-ciki) 557
+          finger segments, two (PChk *makoto-lapa 557
+          finger-length (PChk *ka-tudu) 557
+          half-fathom (PChk *dila-wupʷa) 562
+          hand span (PMP *zaŋan, POc *saŋa-, PChk *yaŋa) 555, (PPn *haŋa, PNPn
+              *aŋa) 556
+          ten fathoms (Proto-Polynesian *(ŋa)kumi) 565
+unmarried girl (Proto Malaitan *a-ariki) 172
+                                                              Index of glosses 733
+
+
+unwalled building (PMP *balay) 179
+usual (Proto Malaita-Makira *mola ) 293
+utter (PEOc *bata, PChk *pata) 384
+valuable (PPn *taqoŋa) 412
+valuables (PPn *koloa) 413
+value (PMP *beli, POc *poli) 408
+village public space (PNCV *vareqa) 181, (POc *malaqai) 182
+vocalise loudly (PNCV *kai) 395
+wail (POc *taŋis, *taŋis-i) 217
+weave (PMP *batuR, POc *patu(R), PPn *fatu) 219
+weep (PAn *Caŋis) 217
+weigh (PPn *fua) 567
+welcome (POc *paila, *pela) 393
+whisper (V) (POc *ŋulu-ŋulu ) 398
+whisper (N) (POc *ŋulu) 398
+whole (POc *udolu) 473
+wife, see spouse
+wing (PWOc *baqe) 526
+wish for (PNCV *[ta]taro) 253
+woman (PEMP *b‹in›ai, POc *kawe(C), *pine) 127
+        woman who has recently given birth (PPn *faqele) 92
+word (POc *pʷaca(q)) 383
+worthless (PPn *noa) 293
+yam season cycle (POc *taqun) 298
+
