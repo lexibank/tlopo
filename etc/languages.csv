@@ -283,6 +283,7 @@ magori,Magori,PT,Western Oceanic | Papuan Tip [PT] | Central Papuan,,,mago1248,-
 ouma,Ouma,PT,Western Oceanic | Papuan Tip [PT] | Central Papuan,,,ouma1237,-10.23,149.10
 maopa,Maopa,PT,Western Oceanic | Papuan Tip [PT] | Central Papuan,Keapara,= dialect of Keapara,maop1237,-10.1342,147.95
 motu,Motu,PT,Western Oceanic | Papuan Tip [PT] | Central Papuan,,,motu1246,-9.67492,147.424
+wmotu,W Motu,PT,Western Oceanic | Papuan Tip [PT] | Central Papuan,,,west2526,-9.67492,147.424
 roro,Roro,PT,Western Oceanic | Papuan Tip [PT] | Central Papuan,,,roro1238,-8.67145,146.544
 mekeo,Mekeo,PT,Western Oceanic | Papuan Tip [PT] | Central Papuan,Mekeo (East); E Mekeo; E. Mekeo,,meke1243,-8.24,146.59
 yoba,Yoba,PT,Western Oceanic | Papuan Tip [PT] | Central Papuan,,,yoba1237,-10.22,149.28
@@ -315,6 +316,7 @@ lihir,Lihir,MM,Western Oceanic | Meso-Melanesian [MM] | New Ireland/Northwest So
 notsi,Notsi,MM,Western Oceanic | Meso-Melanesian [MM] | New Ireland/Northwest Solomonic | Tabar linkage,Nochi,,nots1237,-3.0557,151.661
 tabar,Tabar,MM,Western Oceanic | Meso-Melanesian [MM] | New Ireland/Northwest Solomonic | Tabar linkage,,,mand1440,-2.7828,151.95600000000002
 barok,Barok,MM,Western Oceanic | Meso-Melanesian [MM] | New Ireland/Northwest Solomonic | Madak linkage,,,baro1253,-3.47672,152.19299999999998
+usenbarok,Usen Barok,MM,Western Oceanic | Meso-Melanesian [MM] | New Ireland/Northwest Solomonic | Madak linkage,,,usen1237,-3.47672,152.19299999999998
 lamasong,Lamasong,MM,Western Oceanic | Meso-Melanesian [MM] | New Ireland/Northwest Solomonic | Madak linkage,Lamusong; Lavatbura; North Madak,,lamu1255,-3.21903,151.728
 madak,Madak,MM,Western Oceanic | Meso-Melanesian [MM] | New Ireland/Northwest Solomonic | Madak linkage,Mandak,,mada1285,-3.34342,151.967
 bilur,Bilur,MM,Western Oceanic | Meso-Melanesian [MM] | New Ireland/Northwest Solomonic | St George linkage | South New Ireland,,,bilu1244,-4.39732,152.334
@@ -554,6 +556,7 @@ ajie,Ajië,NCal,Eastern Oceanic | New Caledonia [NCal] | New Caledonia proper,Aj
 jawe,Jawe,NCal,Eastern Oceanic | New Caledonia [NCal] | New Caledonia proper,,,jawe1237,-20.66,164.68
 tinrin,Tinrin,NCal,Eastern Oceanic | New Caledonia [NCal] | New Caledonia proper,,,tiri1258,-21.81,165.79
 drubea,Drubea,NCal,Eastern Oceanic | New Caledonia [NCal] | New Caledonia proper,,,dumb1241,-22.09,166.53
+kwenyii,Kwênyii,NCal,Eastern Oceanic | New Caledonia [NCal] | New Caledonia proper,,,kwen1247,-22.55,167.44
 dehu,Dehu,NCal,Eastern Oceanic | New Caledonia [NCal] | Loyalties,Drehu,,dehu1237,-20.8892,167.22899999999998
 iaai,Iaai,NCal,Eastern Oceanic | New Caledonia [NCal] | Loyalties,,,iaai1238,-20.63,166.59
 nengone,Nengone,NCal,Eastern Oceanic | New Caledonia [NCal] | Loyalties,,,neng1238,-21.5305,167.964
@@ -596,6 +599,7 @@ wvitilevu,W Viti Levu,Fij,Eastern Oceanic | Central Pacific [Fij and Pn] | Easte
 rewa,Rewa,Fij,Eastern Oceanic | Central Pacific [Fij and Pn] | Eastern Fijian,,,,,
 lautaveuni,"Lau, Taveuni",Fij,Eastern Oceanic | Central Pacific [Fij and Pn] | Eastern Fijian,,,,,
 lomaiviti,Lomaiviti,Fij,Eastern Oceanic | Central Pacific [Fij and Pn] | Eastern Fijian,,,,,
+moala,Moala,Fij,Eastern Oceanic | Central Pacific [Fij and Pn] | Eastern Fijian,,,,,
 wailevu,Wailevu,Fij,Eastern Oceanic | Central Pacific [Fij and Pn] | Eastern Fijian,,,,,
 rakiraki,Rakiraki,Fij,Eastern Oceanic | Central Pacific [Fij and Pn] | Eastern Fijian,,,,,
 verata,Verata,Fij,Eastern Oceanic | Central Pacific [Fij and Pn] | Eastern Fijian,,,,,

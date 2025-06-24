@@ -3771,7 +3771,7 @@ PMic *tama ‘father, father’s brother’ (Hage & Marck 2002)
   Fij:  Moala          tama-           ‘father, father’s brother’, P{PsG}S, FMZS, MH, WMB
 PPn *tama-, *tama-na ‘father, father’s brother’ (Pawley 1981:284; Marck 1996)
   Pn:   Tongan         tama(i)         ‘father, father’s brother’ (Völkel 2015)
-  Pn:   Samoan         tamā            ‘father, father’s brother’ etc (Holmes 1957)
+  Pn:   Samoan         tamā            ‘father, father’s brother’, etc (Holmes 1957)
   Pn:   Rennellese     tama-, tamana   ‘father, father’s brother’, FZH, FFBDH, F{PsG}S, MH, MZH, EF
   Pn:   Pileni         tamo            ‘father, father’s brother’, MZH
 >
