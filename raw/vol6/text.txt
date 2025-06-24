@@ -43,11 +43,9 @@ Canberra, June 2023
                                                                                                 © Malcolm Ross 2015
        100o   120o   140o                  160o   180o           160o         140o                  120o
                      Map 1.1 Oceanic and non-Oceanic Austronesian languages
-1               Introduction
+
 
-                MALCOLM ROSS, ANDREW PAWLEY AND MEREDITH OSMOND
-
-
+1               Introduction
 
 
 1.1 Aims[1]
@@ -1484,11 +1482,14 @@ derivational morphology (Reid 2000).
 
 
    This still leaves two questions about the origin of POc consonant grade unanswered:
+
+__block__
 (a) How did the POc splits come about?
 (b) Do POc “nasal-grade” consonants have a nasal origin?
+
 As a result of new research based on the POc reconstructions in volumes 1–5, we have a
 partial answer to (a) and a definitive answer to (b), shown in the righthand panel of Figure
-1.6. Following Proto X (§1.8.1), this panel shows two further interstages, “ePOc” and POc.
+ 1.6. Following Proto X (§1.8.1), this panel shows two further interstages, “ePOc” and POc.
 “POc” denotes the language reconstructed in these volumes, equated with its state
 immediately before its break-up into daughter-languages (Pawley 2008a); and “ePOc”
 denotes “early POc”, a stage sometime before POc, but after its speakers settled in the
@@ -1557,7 +1558,7 @@ between PMP and POc.
 
    PMP nasal + obstruent clusters are reflected as POc unitary phonemes. In fact their POc
 outcomes appear to be the same as those of PMP voiceless and voiced obstruents in Table
-1.6, but we argue below in §1.8.2.4 that this is incorrect, and reconstruct ePOc prenasalised
+ 1.6, but we argue below in §1.8.2.4 that this is incorrect, and reconstruct ePOc prenasalised
 rather than voiced outcomes in Table 1.7. The PMP clusters are shown in the table as
 *-Np-/*-Nb- etc as there are instances where the cluster is not homorganic. Some are the
 result of reduplication of a monosyllable, e.g., PAn/PMP *demdem ‘dark, gloomy,
@@ -1621,10 +1622,10 @@ initially.
 different points of articulation.
 
     With regard to PMP *t, there is a mismatch between the findings reported in Table
-1.6 and Table 1.7. The former reports that PMP *t did not undergo the merger-and-split
+ 1.6 and Table 1.7. The former reports that PMP *t did not undergo the merger-and-split
 sequence that affected PMP *p and *s, and therefore did not give rise to POc “nasal-
 grade” (voiced) reflexes. Hence PMP initial *t is never reflected as POc *d. But Table
-1.7 reports three POc etyma reflecting PMP *-nt-, namely the P:1INC.PL suffix *-ⁿda (<
+ 1.7 reports three POc etyma reflecting PMP *-nt-, namely the P:1INC.PL suffix *-ⁿda (<
 PMP *-nta < *=ni-ta; Blust 1977a), *puⁿdi ‘banana’ (< PMP *punti) and *maⁿdala(q) ‘the
 morning star’ (< PMP *mantalaq-). This was the sole source of “nasal-grade” reflexes of
 *t, and the overall rarity of earlier nasal + obstruent sequences explains why POc has so
@@ -3321,7 +3322,7 @@ Loyalties and Micronesia makes it likely that the sense ‘mother’s brother’
 antiquity.
 
 <
-POc *natu-‘child, s.s. sibling’s child, parallel cousin’s child, mother’s brother’s child’
+POc *natu- ‘child, s.s. sibling’s child, parallel cousin’s child, mother’s brother’s child’
  Adm: Pak              naro-                ‘child’, ♀MBC
  PT:  Kilivila         latu-                ‘child’, ♂MBC
  MM: Tolai             tama-                ‘father, child’, MBC (Trevitt 1940)
@@ -3363,7 +3364,7 @@ POc *makubu- ‘grandchild; kin two generations below ego’
  NCV: Nguna               sūli             ‘grandchild’, BCC, ♀MBCC
  NCV: Ninde               neiʙü-           ‘grandchild’, MBDS, ♂MBSS
  Fij:   Lautoka           viaŋo-           ‘grandchild’, WZC, MBCC
- Fij:   Tavuki            makubu           ‘grandchild’, BCC, MBCC,
+ Fij:   Tavuki            makubu           ‘grandchild’, BCC, MBCC
 >
 
    NE Ambae and Trevitt’s Tolai also suggest that father’s mother, father’s sister (FZ), FZD,
@@ -3390,7 +3391,7 @@ __formgroup__
 among the data in §2.4.1.2.1
 
 <
-POc *tama-‘father, father’s mother, mother’s sister’s husband, father’s sister’s son, father’s sister’s daughter’s son, father’s sister’s daughter’s daughter’s son’
+POc *tama- ‘father, father’s mother, mother’s sister’s husband, father’s sister’s son, father’s sister’s daughter’s son, father’s sister’s daughter’s daughter’s son’
  Adm: Yapese          ci-timo(ŋo)-      ‘father’, FB, MZH, FZS
  Adm: Pak             dramo-, tamo-        ‘father’, FB, ♀FZS (Mead 1934:347–349)
  Adm: Bipi            tama                 ‘father’, FB, ♀FZS (Mead 1934:350–351)
@@ -3721,7 +3722,7 @@ POc *tama- ‘father, father’s brother, mother’s sister’s husband’ (Milk
   NNG:  Patep          ma              ‘father, father’s brother’
   PT:   Sudest         rama-           ‘father’
   PT:   Kilivila       tama-           ‘father’, FB, FZS, PZH (Malinowski 1929; Lounsbury 1965)
-  PT:   Dobu           tama-           ‘father, father’s brother’ etc, MZH etc
+  PT:   Dobu           tama-           ‘father, father’s brother’, etc, MZH etc
   PT:   Yamalele       tama            ‘father, father’s brother’, MZH
   PT:   Sinaugoro      tama-           ‘father, father’s brother’, MZH
   PT:   W Mekeo        ama             ‘father, parent’s brother’, ZH
@@ -3730,23 +3731,23 @@ POc *tama- ‘father, father’s brother, mother’s sister’s husband’ (Milk
   MM:   E Kara         tama-           ‘father’
   MM:   Lamusong       tama-           ‘father, father’s brother’, MZH, FFF, MMF
   MM:   Tolai          tama-           ‘father, father’s brother’, ♂MZH (Fingleton 1986)
-  MM:   Nehan          tama-           ‘father, father’s brother’ etc (Nachman 1978)
+  MM:   Nehan          tama-           ‘father, father’s brother’, etc (Nachman 1978)
   MM:   Hahon          tama-           ‘father, father’s brother’, FZH
-  MM:   Banoni         tama-           ‘father, father’s brother’, F{PsG}S, MZH)
+  MM:   Banoni         tama-           ‘father, father’s brother’, F{PsG}S, MZH
   MM:   Varisi         tama-           ‘father, father’s brother’, FZH, MZH
   MM:   Marovo         tama-           ‘father, father’s brother’, FZH, FZS
-  MM:   Maringe        kma-            ‘father, father’s brother’+
+  MM:   Maringe        kma-            ‘father, father’s brother’
   SES:  Bugotu         tama-           ‘father’, PB (Bogesi 1948)
   SES:  To’aba’ita     (θa)ama-        ‘father’
   SES:  Kwara’ae       ama-            ‘father, father’s brother’, MZH (nearly obsolete)
   SES:  Sa’a           ama-            ‘father’, FZH
-  SES:  Bauro          (w)ama          ‘father, father’s brother’ etc (wa- MASC)
+  SES:  Bauro          (w)ama          ‘father, father’s brother’, etc (wa- MASC)
 PNCV *tama- ‘father, father’s brother’ (Clark 2009)
   NCV:  Mota           tama-           ‘father, father’s brother’, MZH, FZS, FZDS, FMB, BS (Needham 1960; Vienne 1984)
   NCV:  Lombaha        tama-           ‘father, father’s brother’, FZS, BS (Allen 1964a)
   NCV:  Raga           tama-           ‘father’, FZS, FZDS, ZDH, ♀DH
   NCV:  Akei           tama-           ‘father, father’s brother’, FGS, FGSS, FZSS, FZH, MZH (Guiart 1958)
-  NCV:  Araki          rann̼ a-         ‘father, father’s brother’, MZH
+  NCV:  Araki          rann̼a-          ‘father, father’s brother’, MZH
   NCV:  SE Ambrym      tamo            ‘father’ (Lynch 1996)
   NCV:  Neve’ei        teme-           ‘father’, FB, FZS
   NCV:  Namakir        tama-           ‘father’
@@ -3756,7 +3757,7 @@ PSV *e-tme- ‘father, father’s brother’ (Lynch 2001b)
   SV:   Anejom         e-tma-          ‘father’, FB, FZH
 PNCal *tama- ‘father, father’s brother’ (Ozanne-Rivierre 2000)
   NCal: Belep          cama-           ‘father, father’s brother’, MZH
-  NCal: Nêlêmwa        kã̄ mã           ‘father, father’s brother’
+  NCal: Nêlêmwa        kã̄mã           ‘father, father’s brother’
   NCal: Drubea         tẽ̄-             ‘father, father’s brother’
   NCal: Iaai           kame-           ‘father, father’s brother’
 PMic *tama ‘father, father’s brother’ (Hage & Marck 2002)
@@ -3764,7 +3765,7 @@ PMic *tama ‘father, father’s brother’ (Hage & Marck 2002)
   Mic:  Marshallese    cema-           ‘father, father’s brother’, ♂EF, ♂EFB (Spoehr 1949a)
   Mic:  Puluwatese     hām, hæmæ-      ‘father, father’s brother’, FZS
   Mic:  Woleaian       tama-           ‘father’ (Hage & Marck 2002)
-  Mic   Chuukese       seme-           ‘father, parent’s brother’, PF, FZS, FZDS, EF, EPB, EPF, EPMH, PMH, PZH, MH (Goodenough 1951)
+  Mic:  Chuukese       seme-           ‘father, parent’s brother’, PF, FZS, FZDS, EF, EPB, EPF, EPMH, PMH, PZH, MH (Goodenough 1951)
   Fij:  Wayan          tama-           ‘father, father’s brother’, MZH
   Fij:  Bauan          tama-           ‘father, father’s brother’
   Fij:  Moala          tama-           ‘father, father’s brother’, P{PsG}S, FMZS, MH, WMB
