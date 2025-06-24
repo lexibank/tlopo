@@ -3896,16 +3896,16 @@ languages.
 PAn *ta-ina ‘mother’ (ACD)
 PMP *tina ‘mother, mother’s sister’ (ACD, Blust 1980a)
 POc *tina ‘mother, mother’s sister’ (Milke 1958a: ‘mother’)
-  Adm:  Baluan           tina-              ‘mother, mother’s sister’, MFBD, etc.
+  Adm:  Baluan           tina-              ‘mother, mother’s sister’, MFBD, etc
   Adm:  Pak              hi-rino-           ‘mother’, PZ, FZD, FZDD, FFBD, FFBDD
   Adm:  Bipi             tine               ‘mother, mother’s sister’, ♀MFZSD, ♂ZW
   Adm:  Nyindrou         tine-              ‘mother, mother’s sister’
-  SJ:   Sobei            tina-              ‘mother’ mother’s younger sister
+  SJ:   Sobei            tina-              ‘mother, mother’s younger sister’
   NNG:  Tuam             tina-              ‘mother’
-  NNG:  Sio              tino-              ‘mother, mother’s sister’ etc (Groves 1934b)
+  NNG:  Sio              tino-              ‘mother, mother’s sister’, etc (Groves 1934b)
   NNG:  Lukep (Pono)     tina-              ‘mother’
-  NNG:  Aria             tna-               ‘mother, mother’s sister’, F(PsG}D
-  NNG:  Takia            tna-               ‘mother, mother’s sister’ etc
+  NNG:  Aria             tna-               ‘mother, mother’s sister’, F{PsG}D
+  NNG:  Takia            tna-               ‘mother, mother’s sister’, etc
   NNG:  Wogeo            tina-              ‘mother’, PZ, PBW, WZ, ♂BW
   NNG:  Yabem            tɪna-              ‘mother’
   NNG:  Adzera           rina-              ‘mother, mother’s sister’, FBW
@@ -3920,23 +3920,24 @@ POc *tina ‘mother, mother’s sister’ (Milke 1958a: ‘mother’)
   MM:   Nehan            tina-              ‘mother’ (Glennon & Glennon 2006)
   MM:   Hahon            cina-              ‘mother’, PZ, FBW
   MM:   Banoni           cinna              ‘mother, mother’s sister’, M{PsG}D, FW, FBW
-  MM:   Varisi           sina-              ‘mother, mother’s sister’, MBW, FZ,FBW
+  MM:   Varisi           sina-              ‘mother, mother’s sister’, MBW, FZ, FBW
   MM:   Marovo           tina-              ‘mother, mother’s sister’, BW
   SES:  Gela             tina-              ‘mother, mother’s sister’, FZ
   SES:  Lengo            tina-              ‘mother’
   SES:  To’aba’ita       θa-ina-            ‘mother’
-  SES:  E Arosi          ina-               ‘mother, mother’s sister’ etc
+  SES:  E Arosi          ina-               ‘mother, mother’s sister’, etc
   SES:  Bauro            ka-ina-            ‘mother’ (ka- FEM)
-PNCV *tina (Clark 2009), *ra-tina- ‘mother, mother’s sister’
+PNCV *tina ‘mother, mother’s sister’ (Clark 2009)
+PNCV *ra-tina- ‘mother, mother’s sister’
   NCV:  Vurës            re-tna-            ‘mother’
   NCV:  Nokuku           tina-              ‘mother’
   NCV:  Araki            ra-rna-            ‘mother, mother’s sister’, FBW
-  NCV:  Lonwolwol        i-rña-             ‘father’s sister
+  NCV:  Lonwolwol        i-rña-             ‘father’s sister’
   NCV:  S Paamese        la-tino-           ‘mother’
   NCV:  Neve’ei          sena-              ‘mother, mother’s sister’, FZSW
 PSV *ri-(t,c)inV- ‘mother, mother’s sister’ (Lynch 2001b)
   SV:   Sye              n-rin(me)-         ‘mother, mother’s sister’
-  SV:   Kwamera          ri-nn̥ u-           ‘mother, mother’s sister’, FW, FBW, EFZ, FFZD
+  SV:   Kwamera          ri-nn̥u-            ‘mother, mother’s sister’, FW, FBW, EFZ, FFZD
   SV:   Anejom           ri-si-             ‘mother, mother’s sister’, MBW
 PNCal *tina- ‘mother, mother’s sister’ (Ozanne-Rivierre 2000)
   NCal: Nemi             tne-               ‘mother, mother’s sister’
@@ -3974,7 +3975,7 @@ POc *ina ‘mother, mother’s sister’
  NNG: Sengseng         ina                 ‘mother’ (ADDR) (Chowning 1991)
  PT:  Bwaidoga         ina-                ‘mother, mother’s sister’, FZ
  PT:  W Motu           ina                 ‘mother, mother’s sister’, FBW (Lister-Turner & Clark 1954)
- MM:  Maututu Nakanai  ila                     ‘mother’ (Goodenough 1997)
+ MM:  Maututu Nakanai  ila                   ‘mother’ (Goodenough 1997)
  MM:  Meramera         ina                   ‘mother’ (Goodenough 1997)
  MM:  W Kara           ina                   ‘mother’
  SES: Gela             ino                   ‘mother’, PZ
