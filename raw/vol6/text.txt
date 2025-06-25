@@ -20208,7 +20208,7 @@ PNCV *vanako ‘steal’
   NCV: Big Nambas      ð̼nah-i           (VT) ‘steal’
   NCV: Port Sandwich   vönaxö           ‘steal’
   NCV: Ninde           venaʔ            ‘steal’
-  NCV: Neve’ei         ve-venαʔ         (VI) ‘steal’
+  NCV: Neve’ei         ve-venaʔ         (VI) ‘steal’
   NCV: Neve’ei         venokh           (VT) ‘steal’
   NCV: Paamese         henaa            (VI) ‘steal’
   NCV: Lewo            vinau            ‘steal’
@@ -20892,7 +20892,8 @@ becoming ripe for replacement.
 
 <
 PMP *ihap ‘count’ (ACD)
-POc *iap (VI), *iap-i- (VT) ‘count’
+POc *iap (VI) ‘count’
+POc *iap-i- (VT) ‘count’
  NNG: Tami                 yau               ‘count’
  NNG: Bing                 (su)yiy-ai        ‘count’
  PT:    Maisin             (ko)yav-i         ‘count’
@@ -21238,22 +21239,22 @@ appear to reflect a distinct but homophonous morpheme participating in some of t
 forms for ‘one’ either alone or as their first syllable (§14.4.1).
 
 <
-POc *ka- ATTRIBUTIVE
- Adm: Mussau       ɣa-, ka-, ko- ATTRIB (ɣa-: 2, 4-9; ka- 1, 10; ko- 3) (Brownie & Brownie 2007:48–51)
- MM: Tangga        ka-           SERIAL (all) (Maurer 1966:74)
- MM: Vaghua        ka-           FOSSIL (1–9)
- MM: Varisi        ka-           FOSSIL (1–9)
- MM: Simbo         ka-           FOSSIL (1–3, 8)
- MM: Kubokota      ka-           ATTRIB (4–9) (Chambers 2009:84)
- MM: Roviana       ka-           FOSSIL (2)
- MM: Ughele        ka-           ATTRIB (all; also SERIAL with 1-2) (Frostad 2012:58)
- MM: Marovo        ka-           FOSSIL (2)
- MM: Vangunu       ka-           FOSSIL (2)
- MM: Mbareke       ka-           FOSSIL (2, 4–9)
- NCV: Tamambo      a-            FOSSIL (1–9; W dialect ɣa-)
- SV: Utaha         ka-           FOSSIL (2-3)
- SV: Lenakel       ka-, ke-, kə- FOSSIL (2-9)
- SV: Kwamera       ka-, ku-, kə- FOSSIL (2–5)
+POc *ka- [ATTRIBUTIVE]
+ Adm: Mussau       |ɣa-, ka-, ko-| [ATTRIB] (ɣa-: 2, 4-9; ka- 1, 10; ko- 3) (Brownie & Brownie 2007:48–51)
+ MM: Tangga        ka-           [SERIAL] (all) (Maurer 1966:74)
+ MM: Vaghua        ka-           [FOSSIL] (1–9)
+ MM: Varisi        ka-           [FOSSIL] (1–9)
+ MM: Simbo         ka-           [FOSSIL] (1–3, 8)
+ MM: Kubokota      ka-           [ATTRIB] (4–9) (Chambers 2009:84)
+ MM: Roviana       ka-           [FOSSIL] (2)
+ MM: Ughele        ka-           [ATTRIB] (all; also SERIAL with 1-2) (Frostad 2012:58)
+ MM: Marovo        ka-           [FOSSIL] (2)
+ MM: Vangunu       ka-           [FOSSIL] (2)
+ MM: Mbareke       ka-           [FOSSIL] (2, 4–9)
+ NCV: Tamambo      a-            [FOSSIL] (1–9; W dialect ɣa-)
+ SV: Utaha         ka-           [FOSSIL] (2-3)
+ SV: Lenakel       |ka-, ke-, kə-| [FOSSIL] (2-9)
+ SV: Kwamera       |ka-, ku-, kə-| [FOSSIL] (2–5)
 >
 
                                                         Numerals, classifiers and counting 447
@@ -21313,7 +21314,7 @@ often reflect further additions.
 
 <
 PAn *isa, *esa, *asa ‘one’ (ACD)
-POc *(i)sa ‘one’ (attributive); (?) INDEFINITE ARTICLE
+POc *(i)sa ‘one’ (attributive); (?) [INDEFINITE ARTICLE]
   NNG: Mangap              sa                 ‘some’
   NNG: Barim               sa                 ‘some’
   NNG: Amara               so                 ‘some’
@@ -21331,12 +21332,12 @@ PNCV *sa-wa ‘one’
   NCV: Lonwolwol           hu                 ‘one’
   NCV: Lendamboi           sua                ‘one’
   NCV: Unua                soɣa               ‘one’
-  NCV: Maskelynes          sua                ‘one’; SPECIFIC ARTICLE
+  NCV: Maskelynes          sua                ‘one’; [SPECIFIC ARTICLE]
 Proto N Malakula *sa-ɣa-l ‘one’
   NCV: Malua Bay           sxa(l)             ‘one’
   NCV: Tirax               haxa(l)            ‘a’; ‘one’
   NCV: Navwien             (i)saɣa(l)         ‘one’
-Proto CW Malakula *sava[ɣ,m]‘one’
+Proto CW Malakula *sava[ɣ,m] ‘one’
   NCV: Neve’ei             sava(ɣ)            ‘one’
   NCV: Neverver            (i)sɣa(m)          ‘one’
   NCV: Avava               sap(m)             ‘a’; ‘one’
@@ -21344,14 +21345,14 @@ Proto CW Malakula *sava[ɣ,m]‘one’
   NCal: Xârâcùù          ʃā                ‘one’
   Mic: Kosraean          so(ko)            ‘other’
   Mic: Pulo Annian       de-               ‘one’
-PPn *sa INDEFINITE ARTICLE (Clark 1976:50)
-  Pn:    Tongan          ha                INDEFINITE ARTICLE
-  Pn:    Niue            ha                SINGULAR INDEFINITE ARTICLE
-PNPn *se INDEFINITE ARTICLE (Clark 1976:50)
-  Pn:    E Futunan       se                INDEFINITE ARTICLE
-  Pn:    Rennellese      he                SINGULAR, NON-SPECIFIC ARTICLE
-  Pn:    Pukapukan       e                 INDEFINITE ARTICLE
-  Pn:    Hawaiian        he                INDEFINITE ARTICLE
+PPn *sa [INDEFINITE ARTICLE] (Clark 1976:50)
+  Pn:    Tongan          ha                [INDEFINITE ARTICLE]
+  Pn:    Niue            ha                [SINGULAR INDEFINITE ARTICLE]
+PNPn *se [INDEFINITE ARTICLE] (Clark 1976:50)
+  Pn:    E Futunan       se                [INDEFINITE ARTICLE]
+  Pn:    Rennellese      he                [SINGULAR, NON-SPECIFIC ARTICLE]
+  Pn:    Pukapukan       e                 [INDEFINITE ARTICLE]
+  Pn:    Hawaiian        he                [INDEFINITE ARTICLE]
 >
 
 [14] Pawley (1966:53) and Clark (1999:197) treat PNPn *se ‘non-specific determiner’ as historically distinct
@@ -21378,8 +21379,12 @@ Proto Tongic *taha ‘one; another’
   Pn:     Tongan      taha               ‘one; someone, anyone; person; other, another’
   Pn:     Niue        taha               ‘one, any, an; singly, by itself; another’
   Pn:     Niuafo’ou   taha               ‘one’
+>
+
 Clark (1999) takes PNPn *tasi to be an idiosyncratic development from PPn *tasa, and these
 forms are listed below with apparent cognates that may imply POc *ta-si.
+
+__formgroup__
  SJ:    Yamna         tes                ‘one’
  SJ:    Sobei         tesesesi           ‘one’
  NCV: Uripiv (Atchin) (i)tes             ‘one’ (SERIAL)
@@ -21396,7 +21401,7 @@ PNPn *tasi ‘one’
  Pn: Mangareva        (e)tai, taʔi       ‘one’
  Pn: Marquesan        tahi               ‘one’
  Pn: Maori            tahi               ‘one’
->
+
 
 450 Malcolm Ross
 
@@ -21416,7 +21421,7 @@ final -n or -na is a singular marker reflecting POc *-ña, which, suffixed to an
 adjective, marked a noun phrase as singular.
 
 <
-POc *ta INDEFINITE ARTICLE; (?) ‘one’
+POc *ta (?) ‘one’ (INDEFINITE ARTICLE)
   NNG: Bariai            (e)ta            ‘some, any’
   NNG: Mbula             ta               ‘one’
   NNG: Mbula             tata(ŋa)         ‘a few’
@@ -21426,7 +21431,7 @@ POc *ta INDEFINITE ARTICLE; (?) ‘one’
   NNG: Yabem             ta(gɛŋ)          ‘one’
   NNG: Yabem             ta-ɛŋ, tɛŋ       ‘a, some’
 PPT *ta ‘one’
-Proto Sudest-Nimoa*-ta[ɣa] ‘one’
+Proto Sudest-Nimoa *-ta[ɣa] ‘one’
   PT:    Sudest          ra, re(ɣa)       ‘one’
   PT:    Nimoa           -ta(ga)          ‘one’
   PT:    Misima          (e)te(ga)        ‘one’
