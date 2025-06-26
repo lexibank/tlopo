@@ -3542,21 +3542,18 @@ but
 : Table 2.14 PMP and POc variant terms for close blood relatives
 
 __table__
-                          PMP            POc              PMP            POc           PMP         POc
-‘father’                  *ama           *ama             *tama          *tama-        *mama       *mama
-‘mother’                  *ina           *ina             *tina-         *tina-        *nana a     *nana
-                          *umpu          *ubu             *tumpu         *tubu-
-‘grandparent, grandchild’ (*impu)        —                (*timpu)       *tibu-        *bubu       *bubu
-                          *ampu          *abu             —  b
-                                                                         *tabu-
-‘younger s.s. sibling’    *huaji, *haji (*aci)
-                                       c
-                                                          *tuaji, *taji *taci-
-                                                                       c
-                                                                                       —           —
-‘elder s.s. sibling’      *aka           —                (*teka)        *tua-, *tuaka *kaka       *kaka
+                          | PMP             | POc     | PMP             | POc           | PMP      |   POc
+‘father’                  | *ama            | *ama    | *tama           | *tama-        | *mama    |   *mama
+‘mother’                  | *ina            | *ina    | *tina-          | *tina-        | *nana a  |   *nana
+                          | *umpu           | *ubu    | *tumpu          | *tubu-        |          |
+‘grandparent, grandchild’ | (*impu)         | —       | (*timpu)        | *tibu-        | *bubu    |   *bubu
+                          | *ampu           | *abu    | —  b            | *tabu-        |          |
+‘younger s.s. sibling’    | *huaji, *haji c | (*aci)  | *tuaji, *taji c | *taci-        | —        |   —
+‘elder s.s. sibling’      | *aka            | —       | (*teka)         | *tua-, *tuaka | *kaka    |   *kaka
+
 Note: Parentheses indicate that a form is very weakly attested, i.e. 2-3 WMP reflexes in ACD.
 Bolding indicates that a PAn form can be reconstructed.
+
 a
   ACD: Proto Philippine *nana ‘term of address for older female relative’.
 b,
@@ -3746,13 +3743,13 @@ POc *ama ‘father, father’s brother’
   PT:   Tawala             ama-              ‘father’
 >
 
-   POc *mama either was an address term or was descended from one, as the ACD gloss
+   POc _*mama_ either was an address term or was descended from one, as the ACD gloss
 notes. Chowning (1991) also thinks that POc *mama was an address term, as it has this
 function all along the north coast of Papua New Guinea.
 
    It seems that the denotation of *mama changed in Proto New Caledonian to ‘elder s.s.
 sibling’. Indeed, the change may have been earlier, as this is also its meaning in Neve’ei. This
-appears to be an extension of seniority status to elder s.s. siblings which also affects *tata
+appears to be an extension of seniority status to elder s.s. siblings which also affects _*tata_
 below.
 
 <
@@ -3796,7 +3793,7 @@ PNCV *mama ‘father’ (Clark 2009; Proto North Vanuatu *mama)
 
 86 Malcolm Ross and Jeffrey C. Marck
 
-   A more widely distributed POc address term is *tata, used for anyone called ‘father’ (F,
+   A more widely distributed POc address term is _*tata_, used for anyone called ‘father’ (F,
 FB, MZH etc) and by extension for other senior males, primarily elder s.s. siblings and any
 mother’s brother. In some languages this extension has become entrenched. In Notsi, for
 example, the term denotes both ‘mother’s brother’ and his reciprocal, ‘♂sister’s child’.
@@ -3835,8 +3832,8 @@ POc *tata ‘address term for any male called “father’’ and for other seni
 
 2.4.1.2.2   Mother, mother’s sister
 
-The first four terms below are those shown in Table 2.14: POc *tina-, *ina, *kina- and *(ñ,n)ana.
-These are followed by two address terms, POc *nai and *nene, and finally PPn *faqe(e).
+The first four terms below are those shown in Table 2.14: POc _*tina-_, _*ina_, _*kina-_ and _*(ñ,n)ana_.
+These are followed by two address terms, POc _*nai_ and _*nene_, and finally PPn _*faqe(e)_.
 
    Lynch (1996) provides commentary on the fact that POc *tina- is more frequently
 replaced by another lexical item than POc *tama- ‘father’. This is especially so in EOc
@@ -3921,18 +3918,18 @@ was present in POc. It is not clear how this might have differed from *tina-.
 PAn *ina ‘mother, mother’s sister’ (ACD)
 PMP *ina ‘mother, mother’s sister’ (ACD)
 POc *ina ‘mother, mother’s sister’
- Adm: Titan            ina                 ‘mother’
- NNG: Sengseng         ina                 ‘mother’ (ADDR) (Chowning 1991)
- PT:  Bwaidoga         ina-                ‘mother, mother’s sister’, FZ
- PT:  W Motu           ina                 ‘mother, mother’s sister’, FBW (Lister-Turner & Clark 1954)
- MM:  Maututu Nakanai  ila                   ‘mother’ (Goodenough 1997)
- MM:  Meramera         ina                   ‘mother’ (Goodenough 1997)
- MM:  W Kara           ina                   ‘mother’
- SES: Gela             ino                   ‘mother’, PZ
+ Adm: Titan            ina          ‘mother’
+ NNG: Sengseng         ina          ‘mother’ (ADDR) (Chowning 1991)
+ PT:  Bwaidoga         ina-         ‘mother, mother’s sister’, FZ
+ PT:  W Motu           ina          ‘mother, mother’s sister’, FBW (Lister-Turner & Clark 1954)
+ MM:  Maututu Nakanai  ila          ‘mother’ (Goodenough 1997)
+ MM:  Meramera         ina          ‘mother’ (Goodenough 1997)
+ MM:  W Kara           ina          ‘mother’
+ SES: Gela             ino          ‘mother’, PZ
 PNCV *ina ‘mother, mother’s sister’
- NCV: N Ambrym         ina                   ‘father’s sister’, BD, MFM, {PsG}SD, FFFZ, BSSD, ZSDD, MFZDD, {PoG}ZDDD, MBW, FFMBW, ZDSW, SSD, EMM, ♂D, ♂DSSW, ♂SWBW, ♀SDD, ♀DSW, HZD (Franjieh 2012:226, 371)
- NCV: Port Sandwich    ina                     ‘mother’
- SV:  Lenakel          inə-                    ‘mother, mother’s sister’
+ NCV: N Ambrym         ina          ‘father’s sister’, BD, MFM, {PsG}SD, FFFZ, BSSD, ZSDD, MFZDD, {PoG}ZDDD, MBW, FFMBW, ZDSW, SSD, EMM, ♂D, ♂DSSW, ♂SWBW, ♀SDD, ♀DSW, HZD (Franjieh 2012:226, 371)
+ NCV: Port Sandwich    ina          ‘mother’
+ SV:  Lenakel          inə-         ‘mother, mother’s sister’
 >
 
    Only three Oceanic reflexes of *kina- occur in the available data, but their distribution
@@ -3945,9 +3942,9 @@ POc *kina- ‘mother’
  MM: Bola            kina-             ‘mother’
 >
 
-   Chowning (1991) reconstructs *(ñ,n)ana as an address term. Although few of our
+   Chowning (1991) reconstructs _*(ñ,n)ana_ as an address term. Although few of our
 examples are explicitly glossed as addressed terms, she is very probably right. Several Fijian
-and Pn languages reflect *nau ‘mother’, an apparent Proto Central Pacific innovation
+and Pn languages reflect _*nau_ ‘mother’, an apparent Proto Central Pacific innovation
 
 <
 PMP *nana ‘mother’ (ACD: Proto Philippine *nana ‘term of address for older female relative’)
@@ -3989,8 +3986,8 @@ PCP *nana, *nau ‘mother, mother’s sister’, (ADDR) (Chowning 1991)
 90 Malcolm Ross and Jeffrey C. Marck
 
 
-   Blust (1979) reconstructs a set of PMP address terms in *-y, continued as POc *-i, whence
-POc *inai. Normally, PMP *-ay becomes POc *-e (Table 1.4 in §1.8.1), but this is apparently
+   Blust (1979) reconstructs a set of PMP address terms in _*-y_, continued as POc _*-i_, whence
+POc _*inai_. Normally, PMP _*-ay_ becomes POc _*-e_ (Table 1.4 in §1.8.1), but this is apparently
 a case where an often-used address term does not undergo a regular phonological change (cf
 de Carvalho 2020).
 
@@ -4005,31 +4002,31 @@ POc *nai ‘mother (ADDR)’
   MM:  Babatana          nai            ‘mother’
 >
 
-PEMP/POc *nene below may reflect reduplication(s) of *nai above.
+PEMP/POc _*nene_ below may reflect reduplication(s) of _*nai_ above.
 
 <
 PEMP *nene (ADDR) ‘mother’
-  SH:   Sawai           nene                 ‘mother’ (Whisler 1996)
-  RA:   Ambel           nén                  ‘mother, mother’s sister’, FBW
+  SH:   Sawai           nene          ‘mother’ (Whisler 1996)
+  RA:   Ambel           nén           ‘mother, mother’s sister’, FBW
 POc *nene ‘mother’
-  NNG:  Mindiri         nen                  ‘mother’
-  NNG:  Kaiep (Terebu)  nen                  ‘mother’
-  SJ:   Sobei           nen                  ‘mother’
-  MM:   Usen Barok      nene-                ‘mother, mother’s sister’
-  NCal: Kwênyii         nènè-                ‘mother, mother’s sister’
-  NCal: Nengone         nene                 ‘mother, mother’s sister’ (Ozanne-Rivierre 2000)
-  Fij:  Nadi            nēnē                 ‘mother’
+  NNG:  Mindiri         nen           ‘mother’
+  NNG:  Kaiep (Terebu)  nen           ‘mother’
+  SJ:   Sobei           nen           ‘mother’
+  MM:   Usen Barok      nene-         ‘mother, mother’s sister’
+  NCal: Kwênyii         nènè-         ‘mother, mother’s sister’
+  NCal: Nengone         nene          ‘mother, mother’s sister’ (Ozanne-Rivierre 2000)
+  Fij:  Nadi            nēnē          ‘mother’
 >
 
                                                                                          Kinship terms 91
 
 
-   In a number of forms in the *tina- and *(ñ,n)ana cognate sets above the term for ‘mother’
-is preceded by a proclitic or prefix that reflects putative POc *drV- (Lynch 1996).28 These
+   In a number of forms in the _*tina-_ and _*(ñ,n)ana_ cognate sets above the term for ‘mother’
+is preceded by a proclitic or prefix that reflects putative POc _*drV-_ (Lynch 1996).[28] These
 forms are repeated together below. In Lavongai and Tigak, at least, this morpheme is still
-productive, and precedes any noun that denotes a mother, e.g. Lavongai ri təsi-m [HON
-parallel.sibling-P:2SG]‘your sister’ (speaker is female, and her sister is a mother) (Fast 1990).
-Beaumont (1979) shows that Tigak ri- also precedes a mother’s proper name. Fast and
+productive, and precedes any noun that denotes a mother, e.g. Lavongai _ri təsi-m_
+[HON parallel.sibling-P:2SG] ‘your sister’ (speaker is female, and her sister is a mother) (Fast 1990).
+Beaumont (1979) shows that Tigak _ri-_ also precedes a mother’s proper name. Fast and
 Beaumont both gloss it as a prefix denoting respect for a mother. Lynch (1996) notes, on the
 other hand, that the SV reflexes are only found on the noun ‘mother’.
 
@@ -4058,11 +4055,11 @@ __formgroup__
      NCV: Raga             ra-tahi               ‘mother’, MMM, ZDDD
 
 Presumably the three last examples, from the Lombaha and Lolovoli dialects of NE Ambae
-and from Raga, use reflexes of POc *taci- ‘younger s.s. sibling’ originally made reference to
+and from Raga, use reflexes of POc _*taci-_ ‘younger s.s. sibling’ originally made reference to
 a mother’s sibling.
 
-   In a number of Pn languages *tina- is replaced by a reflex of PPn *faqe(e). The second list
-of terms below, extracted from POLLEX, suggests that it may derived from PPn *faqele
+   In a number of Pn languages _*tina-_ is replaced by a reflex of PPn _*faqe(e)_. The second list
+of terms below, extracted from POLLEX, suggests that it may derived from PPn _*faqele_
 ‘woman who is pregnant or has recently given birth’.
 
 <
@@ -4074,7 +4071,7 @@ PPn *faqe(e) ‘mother, mother’s sister’
   Pn: Māori           ϕaea                 ‘mother’
 >
 
-[28]  The one reflex that does not fit this consonant correspondence is Paamese la-, for †ra-.
+[28]  The one reflex that does not fit this consonant correspondence is Paamese _la-_, for †_ra-_.
 
 92 Malcolm Ross and Jeffrey C. Marck
 
@@ -4086,12 +4083,12 @@ PPn *faqele ‘woman who is pregnant or has recently given birth’
 >
 
 2.4.1.2.3    Parent
-As far as we can tell, POc did not have a dedicated term for ‘parent’. PPn *matuqa meant
+As far as we can tell, POc did not have a dedicated term for ‘parent’. PPn _*matuqa_ meant
 ‘parent’ but, as a number of the glosses below show, it also retained its earlier sense ‘old,
-mature (of a person)’ (vol.4:68). There is just one clue that reflexes of *matuqa may have
-meant ‘parent’ earlier than PPn. This is Gapapaiwa (PT) *madua ‘mother’.
+mature (of a person)’ (vol.4:68). There is just one clue that reflexes of _*matuqa_ may have
+meant ‘parent’ earlier than PPn. This is Gapapaiwa (PT) _*madua_ ‘mother’.
 
-   Further below are reflexes of the distinct PPn form *mātuqa ‘parents’.
+   Further below are reflexes of the distinct PPn form _*mātuqa_ ‘parents’.
 
 <
 PPn *matuqa ‘parent’ (Marck 1996)
@@ -4112,9 +4109,9 @@ Proto Eastern Polynesian *matuqa ‘parent, parent’s sibling’ (Marck 1996)
   Pn: Hawaiian        makua               ‘parent’
 >
 
-   PPn *mātuqa ‘parents’ was the plural form of *matuqa ‘parent’, as widespread reflexes
+   PPn _*mātuqa_ ‘parents’ was the plural form of _*matuqa_ ‘parent’, as widespread reflexes
 demonstrate. In some languages *mātuqa has lost the plural feature and become ‘parent[s]’,
-presumably to distinguish the ‘parent’ meaning from other meanings of *matuqa: Tuvalu and
+presumably to distinguish the ‘parent’ meaning from other meanings of _*matuqa_: Tuvalu and
 Nukuoro ‘old’, Rennellese ‘husband’.
 
 <
@@ -4132,13 +4129,13 @@ PPn *mātuqa ‘parents’ (Marck 1996)
   Pn: Māori           mātua          ‘parents, relatives of parent’s generation’
 >
 
-[29] Firth has matūa. This is an error (A. Pawley, pers. comm.)
+[29] Firth has _matūa_. This is an error (A. Pawley, pers. comm.)
 
                                                                              Kinship terms 93
 
 
 EPn languages have replaced dedicated terms for ‘father’ and ‘mother’ with a reflex of POc
-*matuqa plus a term meaning ‘male’ or ‘female’, as shown here.
+_*matuqa_ plus a term meaning ‘male’ or ‘female’, as shown here.
 
 __formgroup__
   Pn: Rapa               |metūa vahine|   ‘mother’
@@ -4149,7 +4146,7 @@ __formgroup__
   Pn: Hawaiian           makua-kāne     ‘father’
 
 Niue and Pukapuka appear to have acquired their terms from an EPn languages. The Niue
-terrn matua is EPn in form, not Tongic.
+term _matua_ is EPn in form, not Tongic.
 
 __formgroup__
   Pn: Niue               |matua fifine|   ‘mother’
@@ -4159,12 +4156,12 @@ __formgroup__
 
 2.4.1.2.4   Parent’s sibling
 
-A number of apparent reflexes of PEMP/POc *kaka ‘elder s.s. sibling (ADDR)’ (§2.4.1.5.2) are
+A number of apparent reflexes of PEMP/POc _*kaka_ ‘elder s.s. sibling (ADDR)’ (§2.4.1.5.2) are
 used of a father’s or mother’s sibling. It is not clear whether there was a PEMP or POc term
 with this meaning, or whether an extension of the term to a parent’s sibling occurred
 independently in various languages.
 
-   Curiously, no SHWNG language reflects *kaka ‘elder s.s. sibling’, but both *kaka terms
+   Curiously, no SHWNG language reflects _*kaka_ ‘elder s.s. sibling’, but both _*kaka_ terms
 are reflected in Oceanic languages, although not in the same language.
 
    The listing of definitions of the Kwamera term below from Lindstrom (1981) has been
@@ -4206,33 +4203,33 @@ various locations the term for MB is the same as the term for some other relatio
 These terms are listed as members of cognate sets in the relevant subsections.
 
     In a number of SE Solomonic languages the term for MB and ♂ZC reflects POc *tubu-
-‘grandparent, grandchild’ (§2.4.1.4.1). In Lele (Adm) the *tubu- reflex is used of MB, MF
+‘grandparent, grandchild’ (§2.4.1.4.1). In Lele (Adm) the _*tubu-_ reflex is used of MB, MF
 and MMB; in Malalamai (NNG) of MB; and in Drubea (NCal) of MB and EF. Since this
 term is often used for all members of the grandparent generation, it seems that MB has been
 promoted by a generation.
 
-    In a few languages a reflex of *tama- or *tata ‘father’ (§2.4.1.2.1) is applied to all blood
-relations of father’s generation, including MB. Instances of *tama- used in this way are Iduna
-and W Mekeo (both PT) and of *tata Vitu (MM). There are also languages where a *tata
+    In a few languages a reflex of _*tama-_ or _*tata_ ‘father’ (§2.4.1.2.1) is applied to all blood
+relations of father’s generation, including MB. Instances of _*tama-_ used in this way are Iduna
+and W Mekeo (both PT) and of _*tata_ Vitu (MM). There are also languages where a _*tata_
 reflex specifically denotes MB. In Notsi and Lamusong (MM) it denotes MB and ♂ZC, in
 Vurës (NCV) MB and FZH.
 
-    In Chuukic (Mic) languages, reflexes of POc *mʷaqane ‘♀brother’ have lost the o.s.
+    In Chuukic (Mic) languages, reflexes of POc _*mʷaqane_ ‘♀brother’ have lost the o.s.
 sibling sense, but are combined with the term for ‘big’ in a compound literally meaning ‘big
-brother (of female)’ but actually denoting MB (§2.4.1.5.3). Ali (NNG) məne-, Kwara’ae
-(SES) wai and Tavuki (Fij) ŋane, all ‘mother’s brother’, are also reflexes of *mʷaqane, and
+brother (of female)’ but actually denoting MB (§2.4.1.5.3). Ali (NNG) _məne-_, Kwara’ae
+(SES) _wai_ and Tavuki (Fij) _ŋane_, all ‘mother’s brother’, are also reflexes of _*mʷaqane_, and
 one may speculate that they too once co-occurred with a term for ‘big’. Conversely the terms
 for MB in two languages of the New Ireland region, Lavongai lavə and Ramoaaina ləba, both
-reflect POc *lapʷat ‘big’, and perhaps reflect a similar compound but with loss of the
+reflect POc _*lapʷat_ ‘big’, and perhaps reflect a similar compound but with loss of the
 *mʷaqane element.
 
     Although few, there are also MB terms that seem once to have more literally meant
-‘brother of mother’. In the Loyalty Islands (NCal) we find Iaai ma-hiñe- and Drehu mā-θin,
-both ‘MB’ (Ozanne-Rivierre 2000), where hiñe- and θin respectively mean ‘mother’. PPn
-*tuqa-tina is presumably derived from POc *tuqa ‘mature, full-grown, ripe, old’ (vol.5:67–
-68)30 and *tina- ‘mother’ (§2.4.1.2.2). Note that PPn *tuqa- here is not the same element as
-*tua- (< POc *tuRaŋ) in PPn o.s. sibling terms (§2.4.1.5.3). It is, however, the root of PPn
-*ma-tuqa below.
+‘brother of mother’. In the Loyalty Islands (NCal) we find Iaai _ma-hiñe-_ and Drehu _mā-θin_,
+both ‘MB’ (Ozanne-Rivierre 2000), where _hiñe-_ and _θin_ respectively mean ‘mother’. PPn
+_*tuqa-tina_ is presumably derived from POc _*tuqa_ ‘mature, full-grown, ripe, old’ (vol.5:67–68)[30]
+and _*tina-_ ‘mother’ (§2.4.1.2.2). Note that PPn _*tuqa-_ here is not the same element as
+_*tua-_ (< POc _*tuRaŋ_) in PPn o.s. sibling terms (§2.4.1.5.3). It is, however, the root of PPn
+_*ma-tuqa_ below.
 
 <
 PPn *tuqa-tina ‘mother’s brother’ (Pawley 1981:284)
@@ -4247,14 +4244,14 @@ PPn *tuqa-tina ‘mother’s brother’ (Pawley 1981:284)
                                                                              Kinship terms 95
 
 
-    Blust (1980b) argues that *matuqa was the PMP term for ‘mother’s brother, wife’s father’.
+    Blust (1980b) argues that _*matuqa_ was the PMP term for ‘mother’s brother, wife’s father’.
 Blust (1994) extends the definition to include any parent-in-law. The Oceanic evidence for
-this extension is not substantial. Instead, MM and SES reflexes of POc *matu(q)a- more
+this extension is not substantial. Instead, MM and SES reflexes of POc _*matu(q)a-_ more
 often reflect the reciprocal extension to ♂ZC. However, as many data are given a simple gloss
 without an expansion, one cannot put much weight on this fact.
 
-    PPn *matuqa- was the term for ‘parent’ (§2.4.1.2.3). Probably this is not derived from
-POc *matu(q)a ‘mother’s brother’. Rather, both terms ultimately reflect ‘old, mature (of a
+    PPn _*matuqa-_ was the term for ‘parent’ (§2.4.1.2.3). Probably this is not derived from
+POc _*matu(q)a_ ‘mother’s brother’. Rather, both terms ultimately reflect ‘old, mature (of a
 person)’ (vol.4:68).
 
 <
@@ -4285,16 +4282,15 @@ PSV *mata- ‘mother’s brother, spouse’s father, parent’s sister’s husba
   SV:  Anejom            mata               ‘mother’s brother’, MZH, EF
 >
 
-   The term *wawa occurs both as grandparent (§2.4.1.4.1) and as MB. The set supporting
-*wawa ‘MB’ is considerable. Possibly *wawa ‘grandparent’ and *wawa ‘MB’ were
+   The term _*wawa_ occurs both as grandparent (§2.4.1.4.1) and as MB. The set supporting
+_*wawa_ ‘MB’ is considerable. Possibly _*wawa_ ‘grandparent’ and _*wawa_ ‘MB’ were
 homophones with separate origins, rather than one being extended to include the other, as the
-sets are largely distinct in geographic distribution, and no reflex of *wawa has both senses.
-96 Malcolm Ross and Jeffrey C. Marck
-
-
+sets are largely distinct in geographic distribution, and no reflex of _*wawa_ has both senses.
 Terms consisting of a reduplicated syllable tend to have originated as address terms derived
-from the final syllable of the reference term. In this case the possible source of *wawa is
-phonetic rather than phonemic, as *matua was phonetically *[matuwa].
+from the final syllable of the reference term. In this case the possible source of _*wawa_ is
+phonetic rather than phonemic, as _*matua_ was phonetically *[matuwa].
+
+96 Malcolm Ross and Jeffrey C. Marck
 
 <
 POc *wawa ‘mother’s brother’ (Milke 1965: PNGOc)
@@ -4327,7 +4323,7 @@ cf. also:
  PT:  Sudest           ɣa-               ‘mother’s brother’
 >
 
-   Scattered across PT and MM are reflexes of PWOc *varis. Its original meaning was
+   Scattered across PT and MM are reflexes of PWOc _*varis_. Its original meaning was
 presumably ‘mother’s brother’, which in accordance with cross-cousin marriage
 simultaneously meant ‘♂father-in-law’. Its reflexes have undergone various restrictions or
 extensions of meaning.
@@ -4349,49 +4345,47 @@ PWOc *varis ‘mother’s brother, ♂father-in-law’
 2.4.1.2.6    Father’s sister and POc *aya
 
 Milke (1958a) believed that POc had no term for ‘father’s sister’ (FZ). Blust (1980a) argued
-that PMP *aya had this meaning, but this attribution is not supported by any non-Oceanic
-reflex glossed ‘father’s sister’. Chowning rejects PMP *aya in her comment on Blust (1980a),
-and omits POc *aya ‘father’s sister’ from her list of POc kinship terms in Chowning (1991).
+that PMP _*aya_ had this meaning, but this attribution is not supported by any non-Oceanic
+reflex glossed ‘father’s sister’. Chowning rejects PMP _*aya_ in her comment on Blust (1980a),
+and omits POc _*aya_ ‘father’s sister’ from her list of POc kinship terms in Chowning (1991).
 Blust and Chowning both argue their case on anthropological grounds. The case based on
 lexical data is presented below and shows that POc *aya seems to have been a respect term
 mainly denoting members of the parental generation.
 
-    Blust (1980a, 1994) has argued that PMP *aya- meant ‘FZ, FZH’. However, he admits
+    Blust (1980a, 1994) has argued that PMP _*aya-_ meant ‘FZ, FZH’. However, he admits
 that this is less secure than other reconstructions for members of the parental generation, and
 the ACD shows as broad a range of meanings. Reflexes in WMP languages have glosses that
 include ‘mother’s brother’, ‘father’, ‘mother’, ‘aunt’, ‘uncle’ (the last two without further
-specification). CMP glosses include ‘father’, ‘mother’ and ‘uncle’.31 Oceanic reflexes of POc
-*aya- fall into five groups according to their glosses: father’s sister, mother’s brother, mother,
+specification). CMP glosses include ‘father’, ‘mother’ and ‘uncle’.[31] Oceanic reflexes of POc
+_*aya-_ fall into five groups according to their glosses: father’s sister, mother’s brother, mother,
 father and grandparent.
 
     Reconstructing more than one homophonous POc term is not an option, as four of the five
 glosses refer to members of the parents’ generation. Blust (1980a:216) points out that if
 cross-cousin marriage were symmetrical and *aya meant FZ, then it would have had the
-secondary sense ‘spouse’s mother’, but there is no evidence that it did (cf *matuqa ‘MB’ in
+secondary sense ‘spouse’s mother’, but there is no evidence that it did (cf _*matuqa_ ‘MB’ in
 §2.4.1.2.5).
 
     The ACD cites instances from geographically dispersed WMP languages and Kei (CMP)
-where a reflex of PMP *aya was a respect term, sometimes a term of great respect:
+where a reflex of PMP _*aya_ was a respect term, sometimes a term of great respect:
 
-Tausug (NW Borneo)      aya ‘term of respect for male nobility (sultan, datuq) of the same
-                             generation as one’s father (including father)’
-Iban (C Borneo)         ayaʔ ‘term of address for men of speaker’s father’s generation;
-                             term of reference for the hearer’s father’
-Malay                   ayah ‘father; sire; more respectful than bapaʔ’
-Balinese                ayah ‘father’ (refined speech)
-Dampelas (Sulawesi)     aya ‘mother’ (address form)
-Makassarese (Sulawesi)  aya ‘mother’ (for persons of high rank), ‘mother’s younger sister’
-Kei                     yai ‘father’ (address form used by small children, and in
-                             mourning songs)
+__tablenh__
+Tausug (NW Borneo)     | aya | ‘term of respect for male nobility (sultan, datuq) of the same generation as one’s father (including father)’
+Iban (C Borneo)        | ayaʔ | ‘term of address for men of speaker’s father’s generation; term of reference for the hearer’s father’
+Malay                  | ayah | ‘father; sire; more respectful than bapaʔ’
+Balinese               | ayah | ‘father’ (refined speech)
+Dampelas (Sulawesi)    | aya | ‘mother’ (address form)
+Makassarese (Sulawesi) | aya | ‘mother’ (for persons of high rank), ‘mother’s younger sister’
+Kei                    | yai | ‘father’ (address form used by small children, and in mourning songs)
 
 A reasonable hypothesis is that POc *aya too was a respectful address term used of a member
 of EGO’s parents’ generation, and that its application has tended to be narrowed in different
 ways in various regions. This leaves one puzzle: why do none of the reflexes embrace, say,
 both ‘mother’ and ‘father’, or both FZ and MB?
 
-   Several reflexes have accreted y-, but this is as expected for a term with initial *a-.
+   Several reflexes have accreted _y-_, but this is as expected for a term with initial _*a-_.
 
-[31] Limited Formosan data suggest that PAn *aya may have meant ‘mother’.
+[31] Limited Formosan data suggest that PAn _*aya_ may have meant ‘mother’.
 
 98 Malcolm Ross and Jeffrey C. Marck
 
@@ -4437,6 +4431,7 @@ POc *aya ‘member of EGO’s parents’ generation (respectful address term)’
 >
 
    Only one Oceanic FZ term is well supported, namely PPn *masakitaŋa.
+
                                                                                Kinship terms 99
 
 <
