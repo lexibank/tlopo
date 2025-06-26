@@ -3104,6 +3104,7 @@ __table__
        Sinesip         M      F       M                           C       C
        Nguna           FZ     F       FZ     G      F      FZ     C       C     G  G
        Ifira-Mele      FZ     F       FZ                          C       C
+
        1
          Father’s mother is also called by the FZ term.
        2
@@ -3279,8 +3280,6 @@ from a past two-state situation.
 
 76 Malcolm Ross and Jeffrey C. Marck
 
-
-
     In the POc terminology in Figure 2 the slots with terms in square brackets are essentially
 gaps. No distinct terms can be reconstructed for them. They are in the lineages that involve
 cross-cousins: father’s sister and her descendants and mother’s brother’s descendants. The
@@ -3364,24 +3363,24 @@ __formgroup__
   PT:  Kilivila         tabu-              ‘grandparent’, FZ, FZD, FZDD (Malinowski 1929; Lounsbury 1965)
   MM:  Tolai            tubu-              ‘grandparent’, FZ, FZD, FZDD (Trevitt 1940)
 
-   In NE Ambae the brother of the father’s lineal female is called *tama- ‘father’, i.e. FMB, F
-(and FB), FZS, FZDS and FZDDS are all *tama-. Again there is respectable evidence for this
+   In NE Ambae the brother of the father’s lineal female is called _*tama-_ ‘father’, i.e. FMB, F
+(and FB), FZS, FZDS and FZDDS are all _*tama-_. Again there is respectable evidence for this
 among the data in §2.4.1.2.1
 
 <
 POc *tama- ‘father, father’s mother, mother’s sister’s husband, father’s sister’s son, father’s sister’s daughter’s son, father’s sister’s daughter’s daughter’s son’
  Adm: Yapese          ci-timo(ŋo)-      ‘father’, FB, MZH, FZS
- Adm: Pak             dramo-, tamo-        ‘father’, FB, ♀FZS (Mead 1934:347–349)
- Adm: Bipi            tama                 ‘father’, FB, ♀FZS (Mead 1934:350–351)
- PT:  Kilivila        tama-                ‘father’, FB, PZH, FZS (Malinowski 1929; Lounsbury 1965)
- NCV: Mota            tama-                ‘father’, FB, MZH, FZS
- NCV: Lombaha         tama-                ‘father’, FB, FZS
- NCV: Longana         tama-                ‘father’, FB, FZS
- NCV: Akei            tama-                ‘father’, FB, FBS, FZS
- NCV: Daakaka         timya-               ‘father’, FB, FZS
- NCV: Ninde           tama-                ‘father’, FB, MZH, FZS
- NCV: Nguna           mama                 ‘father’, MZH, FZS, FZDS, FZDDS
- Mic: Chuukese        seme-                ‘father’, PB, FZS, FZDS
+ Adm: Pak             dramo-, tamo-     ‘father’, FB, ♀FZS (Mead 1934:347–349)
+ Adm: Bipi            tama              ‘father’, FB, ♀FZS (Mead 1934:350–351)
+ PT:  Kilivila        tama-             ‘father’, FB, PZH, FZS (Malinowski 1929; Lounsbury 1965)
+ NCV: Mota            tama-             ‘father’, FB, MZH, FZS
+ NCV: Lombaha         tama-             ‘father’, FB, FZS
+ NCV: Longana         tama-             ‘father’, FB, FZS
+ NCV: Akei            tama-             ‘father’, FB, FBS, FZS
+ NCV: Daakaka         timya-            ‘father’, FB, FZS
+ NCV: Ninde           tama-             ‘father’, FB, MZH, FZS
+ NCV: Nguna           mama              ‘father’, MZH, FZS, FZDS, FZDDS
+ Mic: Chuukese        seme-             ‘father’, PB, FZS, FZDS
 >
 
 78 Malcolm Ross and Jeffrey C. Marck
@@ -3390,7 +3389,7 @@ POc *tama- ‘father, father’s mother, mother’s sister’s husband, father�
    Collectively, the evidence above is respectable support for the hypothesis that the gaps in
 the POc tree are there because POc has a stage B. Some of the bracketed terms in Figure 2 are
 reconstructed not by the comparative method but by local inference. For example, if mother’s
-brother’s child was labelled *natu-, otherwise ‘child’, then mother’s brother’s child’s child
+brother’s child was labelled _*natu-_, otherwise ‘child’, then mother’s brother’s child’s child
 was probably labelled *makubu-, otherwise ‘grandchild’.
 
 2.4 Reconstructing Proto Oceanic kinship terms
@@ -3404,19 +3403,19 @@ languages to see whether a term is reconstructable to PEMP—and therefore inher
 POc—and have cited relevant SHWNG data. SHWNG languages fall into four subgroups:
 South Halmahera (SH), Raja Ampat (RA), Bomberai (Bom) and Cenderawasih Bay (CB).
 
-    Some PPn kin terms are shown with two forms, like *tina- and *tinana ‘mother’ (Pawley
-1967:262–263; Wilson 1982:35–60, 96-99). The first term of the pair, like other items ending
+    Some PPn kin terms are shown with two forms, like _*tina-_ and _*tinana_ ‘mother’
+(Pawley 1967:262–263; Wilson 1982:35–60, 96-99). The first term of the pair, like other items ending
 in a hyphen, retained POc direct possession of kin terms whereby the possessor suffix was
 added directly to the stem (vol.1:32; vol.5:75–76), but this occurred only with a singular
 possessor.[22] With a non-singular possessor and optionally with a singular possessor an indirect
-possession construction was used, e.g. PPn *t-o-tā tama-na [ART-PCL-P:1PL father-P:3SG] ‘our
+possession construction was used, e.g. PPn _*t-o-tā tama-na_ [ART-PCL-P:1PL father-P:3SG] ‘our
 father’ (Wilson 1982:97). In the indirect construction the possessed noun retained a fossil
-reflex of the POc *-ña P:3SG, giving the second term of the pair.
+reflex of the POc _*-ña_ P:3SG, giving the second term of the pair.
 
-[22] The PPn suffixes were *-ku P:1SG, *-u P:2SG and *-na P:3SG, reflecting POc *-gu, *-mu and *-ña.
-     Loss of POc *-m in the PPn P:2SG form is irregular. All Pn languages retain PPn *-na P:3SG in the
-     terms under discussion, at least as a fossil. PPn *-u P:2SG is reflected in the Pn Outlier languages
-     Rennellese, Mae, Tikopia, Pileni, Ifira-Mele and W Futunan. The last three also reflect *-ku P:1SG. In
+[22] The PPn suffixes were _*-ku_ P:1SG, _*-u_ P:2SG and _*-na_ P:3SG, reflecting POc _*-gu_, _*-mu_ and _*-ña_.
+     Loss of POc _*-m_ in the PPn P:2SG form is irregular. All Pn languages retain PPn _*-na_ P:3SG in the
+     terms under discussion, at least as a fossil. PPn _*-u_ P:2SG is reflected in the Pn Outlier languages
+     Rennellese, Mae, Tikopia, Pileni, Ifira-Mele and W Futunan. The last three also reflect _*-ku_ P:1SG. In
      vol 5:75 Ross writes, ‘Most Oceanic languages outside Polynesia make a grammatical distinction
      between directly and indirectly possessed nouns….’ This implies that Pn languages do not make this
      distinction, but this discussion shows that some do, albeit within narrow bounds.
@@ -3428,10 +3427,10 @@ continuum, a term is glossed with a single term, e.g. ‘father’, yet, given t
 terminologies are classificatory, it is almost certain that a ‘father’ term has wider reference
 that includes ‘father’s brother’ and ‘mother’s sister’s husband’. However, defining the ‘father’
 term as denoting F, FB and MZH in many cases does not cover the term’s actual denotation,
-which may well be potentially boundless (see §2.2.3). A few publications, e.g. Fingleton
-(1986) on Tolai, offer definitions of this kind. The usual ethnographic gloss, however, is a
-long string of relatives, like Elbert & Monberg’s (1965:13) gloss of Rennellese tama-/
-tamana: F, FB, FZH, FFBDH, FFBS, FMZS, MH, FMZDH, MZH, MMZDH, HF, WF. A string of this
+which may well be potentially boundless (see §2.2.3). A few publications, e.g. Fingleton (1986)
+on Tolai, offer definitions of this kind. The usual ethnographic gloss, however, is a
+long string of relatives, like Elbert & Monberg’s (1965:13) gloss of Rennellese _tama-_/_tamana_:
+F, FB, FZH, FFBDH, FFBS, FMZS, MH, FMZDH, MZH, MMZDH, HF, WF. A string of this
 kind is sometimes difficult to interpret, as it omits a relationship that is implied if the term
 denotes a boundless class. Does this mean that the authors have omitted a possible gloss? We
 cannot tell, as ethnographers do not always explicate the structure of the kinship system, but
@@ -3474,64 +3473,37 @@ find a reference term that reflects an early address term.
 : Table 2.12     POc variant terms for close blood relatives
 
 __table__
-                           1               2             3                               4
- ‘father’                  *ama            *tama-        (*kama)                         *mama               (§2.4.1.2.1)
- ‘mother’                  *ina            *tina-        *kina                           *nana               (§2.4.1.2.2)
-                           *ubu            *tubu-        *kubu
- ‘grandparent, grandchild’ —               *tibu-        —                               *bubu               (§2.4.1.4.1)
-                           *abu            *tabu-        —
- ‘younger s.s. sibling’    *aci            *taci-        *kaci                           —                   (§2.4.1.5.1)
- ‘elder s.s. sibling’      —               *tua-,*tuaka- —                               *kaka               (§2.4.1.5.2)
+                           | 1       |        2            | 3           |         4       |
+ ‘father’                  | *ama    |        *tama-       | (*kama)     |         *mama   |     (§2.4.1.2.1)
+ ‘mother’                  | *ina    |        *tina-       | *kina       |         *nana   |     (§2.4.1.2.2)
+                           | *ubu    |        *tubu-       | *kubu       |                 |
+ ‘grandparent, grandchild’ | —       |        *tibu-       | —           |         *bubu   |     (§2.4.1.4.1)
+                           | *abu    |        *tabu-       | —           |                 |
+ ‘younger s.s. sibling’    | *aci    |        *taci-       | *kaci       |         —       |     (§2.4.1.5.1)
+ ‘elder s.s. sibling’      | —       |        *tua-,*tuaka-| —           |         *kaka   |     (§2.4.1.5.2)
 
 
 : Table 2.13 Distribution by Oceanic subgroups/regions of POc variant terms for close blood relatives
 
 __table__
-column: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
-SHWNG y y y y y y     y y y y y       y y y
-           *mama
-                                                                *tibu-
-                                                                         *abu
-                                                                                *tabu-
-                                                                                         *aci
-                                                                                                *taci-
-                                                                                                         *kasi-
-                                                                                                                  *tua-
-                                                                                                                          *tuaka-
-                                                                                                                                    *kaka
-           *kama
-            *ama
-            *tama-
+column: | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21
+SHWNG   | y | y | y | y | y | y |   | y | y | y  | y  | y  |    | y  | y  | y  |    |    |    |    |
+POc | *ama | *tama- | *kama | *mama | *ina | *tina | *kina | *ñaña | *ubu | *kubu- | *tubu- | *bubu | *tibu- | *abu | *tabu- | *aci | *taci- | *kasi- | *tua- | *tuaka- | *kaka
+Mussau  |   | y |   |   |   |   | y |   |   |    | y  |    |    |    |    |    | y  |    | y  |    |
+Adm     |   | y |   |   | y | y |   | y |   |    | y  | y  |    | y  | y  |    | y  |    |    |    |
+NNG     | y | y | y | y | y | y | y | y | y |    | y  | y  | y  | y  | y  | y  | y  |    | y  | y  | y
+PT      | y | y | y | y | y | y |   |   |   | y  | y  | y  |    |    |    |    | y  |    | y  | y  |
+Kb      |   | y |   |   | y | y | y | y |   |    | y  |    |    | y  |    |    | y  |    | y  | y  |
+MM      |   | y |   | y | y | y |   | y |   |    | y  | y  | y  |    |    |    | y  | y  | y  | y  |
+NWS     |   | y |   | y |   | y |   |   | y |    | y  | y  | y  |    |    | y  | y  | y  |    | y  | y
+SES     |   | y |   | y |   | y |   | y |   |    |    |    |    |    |    |    | y  | y  | y  | y  | y
+NCV     |   | y |   | y | y | y |   | y | y |    | y  | y  | y  | y  | y  |    | y  |    | y  | y  |
+SV      |   | y |   | y |   | y |   |   |   |    | y  |    |    |    |    |    | y  |    | y  |    |
+NCal    |   | y |   | y |   | y |   | y |   |    | y  |    |    | y  |    |    | y  |    | y  | y  |
+Mic     |   | y |   |   |   | y |   |   |   |    | y  |    |    |    |    |    | y  |    |    |    |
+Fij     |   | y |   |   |   | y |   | y |   |    | y  | y  |    |    |    |    | y  |    | y  | y  |
+Pn      |   | y |   |   |   | y |   | y | y |    | y  | y  |    |    |    |    | y  |    |    | y  |
 
-
-            *ina
-            *tina-
-            *kina
-            *ñaña
-            *ubu
-            *kubu-
-                                               *tubu-
-                                                        *bubu
-
-
-
-
-POc
-
-Mussau         y                y                y                                              y                 y
-Adm            y         y y        y            y y            y y                             y
-NNG        y y y y y y y y y                     y y y y y y                                    y                 y       y         y
-PT         y y y y y y                       y y y                                              y                 y       y
-Kb             y         y y y y                 y              y                               y                 y       y
-MM             y      y y y         y            y y y                                          y        y        y       y
-NWS            y      y      y          y        y y y                  y                       y        y                y         y
-SES            y      y      y      y                                                           y        y        y       y         y
-NCV            y      y y y         y y          y y y y y                                      y                 y       y
-SV             y      y      y                   y                                              y                 y
-NCal           y      y      y      y            y              y                               y                 y       y
-Mic            y             y                   y                                              y
-Fij            y             y      y            y y                                            y                 y       y
-Pn             y             y      y y          y y                                            y                         y
 ‘y’ means ‘yes, there are reflexes of the item at the head of the column’.
 
                                                                                        Kinship terms 81
