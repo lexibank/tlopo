@@ -2417,7 +2417,7 @@ Whereas _&ast;[ma]tuqa_ probably referred mainly to animates and to the vegetabl
 '<span>half-ripe</span>'</td>
 </tr>
 <tr>
-<td>None</td><td><a href="../languages/tubetube">Tubetube</a></td><td><i>matuli</i></td>
+<td>PT</td><td><a href="../languages/tubetube">Tubetube</a></td><td><i>matuli</i></td>
 <td>
 '<span>ripe</span>'</td>
 </tr>

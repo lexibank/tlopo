@@ -191,13 +191,9 @@ class Dataset(BaseDataset):
                 # else:
                 #    print('+++', rec.gloss, glosses[0], rec.gloss == glosses[0])
                 #print(rec)
-                allps += len(rec.protoforms)
                 words += len(rec.reflexes)
                 #if 'Arch' in rec.cat1:
                 #    print(rec)
-                for pf in rec.protoforms:
-                    pfs.update([str(pf)])
-                    per_pl[pf.lang].append(pf)
                 for w in rec.reflexes:
                     reflexes.update([str(w)])
                 if 1:#i < 15:
@@ -222,6 +218,8 @@ class Dataset(BaseDataset):
             #for k, v in bycat.items():
             #     print(k, v)
             #print(vol.igts)
+            for i, rec in enumerate(vol.formgroups):
+                str(rec)
             list(vol.chapters)
 
     def add_form(self, writer, protoform_or_reflex, gloss2id, langs, poc_gloss='none'):
@@ -329,8 +327,8 @@ class Dataset(BaseDataset):
 
         fgs = []
         for vol in range(1, 7):
-            if vol not in {1, 2, 3, 4, 5}:
-                continue
+            #if vol not in {1, 2, 3, 4, 5}:
+            #    continue
             t = self.raw_dir / 'vol{}'.format(vol) / 'text.txt'
             if not t.exists():
                 continue
@@ -414,7 +412,7 @@ class Dataset(BaseDataset):
 
                     forms.append(lex)
                     self.add_glosses(args.writer, pf, lex['ID'], words[(pf.lang, pf.form)][1], gloss_ids)
-                    if j == 0:
+                    if pflex is None:
                         pflex = lex
                 else:
                     assert isinstance(pf, Reflex)

@@ -809,7 +809,7 @@ The best supported hypothesis appears to be that Piper methysticum is a domestic
 '<span>k.o. ginger</span>'</td>
 </tr>
 <tr>
-<td>None</td><td><a href="../languages/tubetube">Tubetube</a></td><td><i>kalava</i></td>
+<td>PT</td><td><a href="../languages/tubetube">Tubetube</a></td><td><i>kalava</i></td>
 <td>
 '<span>Piper subbullatum (?)</span>' (<span>metathesis</span>)</td>
 </tr>
@@ -1486,7 +1486,7 @@ Reflexes of POc &ast;bʷau 'bamboo' are largely complementary to those of &ast;q
 '<span>bamboo</span>'</td>
 </tr>
 <tr>
-<td>None</td><td><a href="../languages/tubetube">Tubetube</a></td><td><i>bau-bau</i></td>
+<td>PT</td><td><a href="../languages/tubetube">Tubetube</a></td><td><i>bau-bau</i></td>
 <td>
 '<span>bamboo</span>'</td>
 </tr>

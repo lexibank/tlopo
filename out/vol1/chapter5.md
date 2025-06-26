@@ -3209,7 +3209,7 @@ The following sets, all relating to plucking by hand, have formal similarities, 
 '<span>pluck feathers from a bird</span>'</td>
 </tr>
 <tr>
-<td>None</td><td><a href="../languages/tubetube">Tubetube</a></td><td><i>pupu</i></td>
+<td>PT</td><td><a href="../languages/tubetube">Tubetube</a></td><td><i>pupu</i></td>
 <td>
 '<span>pull off (leaves from tree +)</span>'</td>
 </tr>

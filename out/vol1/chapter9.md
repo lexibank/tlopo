@@ -4240,7 +4240,7 @@ The contrast between PEOc _&ast;sapi_ and POc _&ast;sapʷi_ 'carve into shape, t
 '<span>bite with teeth, husk coconut husks into smaller layers</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/boumaa">Boumaa</a></td><td><i>ʔati[-]</i></td>
+<td>Fij</td><td><a href="../languages/boumaa">Boumā</a></td><td><i>ʔati[-]</i></td>
 <td>
 '<span>bite</span>'</td>
 </tr>
@@ -7758,7 +7758,7 @@ The second set also seems to reflect a single PAn root, namely _&ast;-pak_ 'brea
 '<span>pluck feathers from a bird</span>'</td>
 </tr>
 <tr>
-<td>None</td><td><a href="../languages/tubetube">Tubetube</a></td><td><i>pupu</i></td>
+<td>PT</td><td><a href="../languages/tubetube">Tubetube</a></td><td><i>pupu</i></td>
 <td>
 '<span>pull off (leaves from tree +)</span>'</td>
 </tr>

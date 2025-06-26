@@ -3092,7 +3092,7 @@ In a number of modern Oceanic languages, including Manam, Carolinian and Tikopia
 '<span>stone, seed, money</span>'</td>
 </tr>
 <tr>
-<td>None</td><td><a href="../languages/tubetube">Tubetube</a></td><td><i>patu</i></td>
+<td>PT</td><td><a href="../languages/tubetube">Tubetube</a></td><td><i>patu</i></td>
 <td>
 '<span>seed</span>'</td>
 </tr>

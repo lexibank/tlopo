@@ -841,7 +841,7 @@ Several terms denoting current or flow of water can be reconstructed for POc. Re
 '<span>current of river or sea</span>'</td>
 </tr>
 <tr>
-<td>None</td><td><a href="../languages/tubetube">Tubetube</a></td><td><i>kalusi</i></td>
+<td>PT</td><td><a href="../languages/tubetube">Tubetube</a></td><td><i>kalusi</i></td>
 <td>
 '<span>current (in the sea)</span>'</td>
 </tr>
@@ -1430,7 +1430,7 @@ Reflexes of POc _&ast;ŋalu(n)_ in some languages refer to ocean waves in genera
 '<span>breakers, surf</span>'</td>
 </tr>
 <tr>
-<td>None</td><td><a href="../languages/tubetube">Tubetube</a></td><td><i>yalu</i></td>
+<td>PT</td><td><a href="../languages/tubetube">Tubetube</a></td><td><i>yalu</i></td>
 <td>
 '<span>backwash from wave breaking on the beach</span>'</td>
 </tr>

@@ -155,7 +155,7 @@ order by g.cldf_formReference
     if args.chapter:
         v, _, c = args.chapter.partition('-')
 
-    for vol in "12345":
+    for vol in "123456":
         if v and vol != v:
             continue
         md = ds.raw_dir.joinpath('vol{}'.format(vol)).read_json('md.json')

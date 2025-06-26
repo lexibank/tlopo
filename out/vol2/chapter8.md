@@ -5887,7 +5887,7 @@ The most widely reflected of these is _&ast;sipo_, the generic verb of downward 
 '<span>go down</span>'; [DIR] '<span>downward</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/boumaa">Boumaa</a></td><td><i>sobu</i></td>
+<td>Fij</td><td><a href="../languages/boumaa">Boumā</a></td><td><i>sobu</i></td>
 <td>
 '<span>go down</span>'; [DIR] '<span>downward</span>'</td>
 </tr>
@@ -7389,7 +7389,7 @@ Also reconstructable is the POc form _&ast;ma_, reflected in WOc and CEOc langua
 [DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/boumaa">Boumaa</a></td><td><i>mai</i></td>
+<td>Fij</td><td><a href="../languages/boumaa">Boumā</a></td><td><i>mai</i></td>
 <td>
 [DIR] '<span>towards speaker</span>'</td>
 </tr>
@@ -8708,7 +8708,7 @@ POc _&ast;tani_ was a prepositional verb, reconstructed by [Pawley](../sources/P
 [DIR] '<span>away, elsewhere</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/boumaa">Boumaa</a></td><td><i>tani</i></td>
+<td>Fij</td><td><a href="../languages/boumaa">Boumā</a></td><td><i>tani</i></td>
 <td>
 [DIR] '<span>away</span>'</td>
 </tr>

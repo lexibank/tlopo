@@ -475,7 +475,7 @@ cf. also:
 '<span>greater yam, Dioscorea alata; yam (generic)</span>'</td>
 </tr>
 <tr>
-<td>None</td>
+<td>PT</td>
 <td>Tubetube</td>
 <td><i>kʷatea</i></td>
 <td>
@@ -2231,7 +2231,7 @@ The likelihood that banana domestication first occurred in New Guinea, and that 
 '<span>banana</span>'</td>
 </tr>
 <tr>
-<td>None</td><td><a href="../languages/tubetube">Tubetube</a></td><td><i>udi</i></td>
+<td>PT</td><td><a href="../languages/tubetube">Tubetube</a></td><td><i>udi</i></td>
 <td>
 '<span>banana</span>'</td>
 </tr>

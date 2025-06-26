@@ -26,27 +26,11 @@ Canberra, June 2023
 
 
 
-                                            xxviii
-xxix
-
-
-
-
-                                                                                     Austronesian
-                                                                                     Papuan
-                                                                                                                  20o
-                            Marianas Is.
-                                                  O C E A N I C                                            Equator 0o
-                                                                                                                 20o
-                                                         'ATA
-                                                                                                                  40o
-                                                                                                © Malcolm Ross 2015
-       100o   120o   140o                  160o   180o           160o         140o                  120o
-                     Map 1.1 Oceanic and non-Oceanic Austronesian languages
 
 
 1               Introduction
 
+Map 1.1: Oceanic and non-Oceanic Austronesian languages
 
 1.1 Aims[1]
 
@@ -80,8 +64,8 @@ New Zealand.
     School of Pacific and Asian Studies and its successor, the College of Asia and the Pacific, at the
     Australian National University.
 
-[3] Ethnologue (Eberhard et al. 2022) lists 513 Oceanic languages, Glottolog 4.6 (Hammarström et al.
-    2022) lists 521. The two Micronesian exceptions are Chamorro in the Marianas and Palau, both
+[3] Ethnologue (Eberhard et al. 2022) lists 513 Oceanic languages, Glottolog 4.6 (Hammarström et al. 2022)
+    lists 521. The two Micronesian exceptions are Chamorro in the Marianas and Palau, both
     apparently single-language branches within western Malayo-Polynesian (see Figure 1.5). There is broad
     agreement that speakers of pre-Chamorro migrated from the northern Philippines, but the origin of
     Palauan remains a mystery (Blust 2000a; Reid 2002; Smith 2017). Zobel 2002 gives an alternative view.
@@ -103,7 +87,7 @@ lexical material should also be a rich source of data for various kinds of purel
 research, e.g. on subgrouping (as in §1.8 and §1.9), phonological change, semantic change
 and semantic structure (e.g. colexification) in the 500 or so daughter languages.
 
-   Volume 1 of The lexicon of Proto Oceanic reconstructs terms associated with material
+   Volume 1 of _The lexicon of Proto Oceanic_ reconstructs terms associated with material
 culture. Volumes 2, 3 and 4 examine relevant sets of cognate terms that provide insights
 into how POc speakers viewed their environment. Volume 2 deals with the geophysical
 or inanimate environment, and volumes 3 and 4 treat plants and animals respectively.
@@ -159,14 +143,14 @@ hugely in length. Each chapter concerns a semantic domain. For some of these
 domains—kinship, seasonal cycles, counting—we found a wealth of data and were
 dealing with internally structured closed classes of lexemes whose presentation required
 numerous tables (and diagrams in the case of kinship). For other domains—the spirit
-world, measurement—there was limited lexical material, and for yet others—*mana,
-*tabu—the author chose to limit domains to single concepts considered by others to be key
+world, measurement—there was limited lexical material, and for yet others—_*mana_,
+_*tabu_—the author chose to limit domains to single concepts considered by others to be key
 cultural concepts in the Oceanic lexicon.
 
    Chapters 2 to 5 of this volume are concerned with POc speakers’ social organisation.
 Chapter 2 is a detailed reconstruction of kinship terms and structures. Chapter 3, by the
-late Per Hage, is a slightly edited and abridged version of a paper first published in The
-Journal of the Polynesian Society in 2007. It complements chapter 2 by using evidence
+late Per Hage, is a slightly edited and abridged version of a paper first published in
+_The Journal of the Polynesian Society_ in 2007. It complements chapter 2 by using evidence
 from disciplines other than linguistics to answer the question, “Was POc society
 matrilineal?” Chapter 4 returns to a much discussed issue, reconstructing terms
 associated with chieftainship and rank in POc and examining the consequences of this
@@ -180,9 +164,9 @@ music, song, dance and games.
 supernatural. Chapter 7 concerns the beings that inhabited the POc spirit world.
 Chapters 8 and 9 both deal with human manipulation of the supernatural. Chapter 8
 takes a broad look at magic, while chapter 9 focuses on the reconstruction of PEOc
-*mana, a term that has been much discussed by Pacific anthropologists and denotes the
+_*mana_, a term that has been much discussed by Pacific anthropologists and denotes the
 pervasive supernatural power given by ancestral spirits to certain powerful individuals to
-ensure their success. Chapter 10 analyses the meanings of the POc term *tabu, which
+ensure their success. Chapter 10 analyses the meanings of the POc term _*tabu_, which
 has reflexes throughout Oceanic. It meant ‘prohibited’, but in certain EOc languages it
 also attributes an aura of sanctity to the ‘prohibited’ person or object.
 
@@ -237,13 +221,13 @@ have made only limited use of them.
 
    Comparative lexical studies have been carried out for several lower-order subgroups
 of Oceanic: for Proto Polynesian by Biggs (resulting in Walsh & Biggs 1966, Biggs,
-Walsh & Waqa 1970 and subsequent versions of the POLLEX file, including Biggs &
-Clark 1993, Clark & Biggs 2006 and online as Greenhill & Clark 2011); for Proto
-Micronesian by scholars associated with the University of Hawai‘i (Bender et al. 1983,
-2003a,b); for the ancestor of the Banks and Torres languages by Alexandre François
-(several unpublished manuscripts); for Proto North and Central Vanuatu by Clark
-(2009); for Proto Southern Vanuatu by Lynch (2001b); for New Caledonia by Ozanne-
-Rivierre (1992), Haudricourt & Ozanne-Rivierre (1982) and Geraghty (1989); for Proto
+Walsh & Waqa 1970 and subsequent versions of the POLLEX file, including Biggs & Clark 1993,
+Clark & Biggs 2006 and online as Greenhill & Clark 2011); for Proto
+Micronesian by scholars associated with the University of Hawai‘i (Bender et al. 1983, 2003a,b);
+for the ancestor of the Banks and Torres languages by Alexandre François
+(several unpublished manuscripts); for Proto North and Central Vanuatu by Clark (2009);
+for Proto Southern Vanuatu by Lynch (2001b); for New Caledonia by Ozanne-Rivierre (1992),
+Haudricourt & Ozanne-Rivierre (1982) and Geraghty (1989); for Proto
 SE Solomonic by Levy (1980) and Lichtenberk (1988); for Proto Central Pacific by
 Hockett (1976), Geraghty (1983, 1986, 1996, together with a number of unpublished
 papers); for Proto Eastern Oceanic by Biggs (1965), Cashmore (1969), Levy (1980), and
@@ -256,8 +240,8 @@ and Ross (1994).
     Robert Blust of the University of Hawai‘i, in a series of papers (1970, 1980a,
 1983-84a, 1986, 1989) published extensive, alphabetically ordered, lexical
 reconstructions (with supporting cognate sets) for interstages earlier than POc,
-especially for Proto Austronesian, Proto Malayo-Polynesian and Proto Eastern Malayo-
-Polynesian. He has also written several papers investigating specific semantic fields
+especially for Proto Austronesian, Proto Malayo-Polynesian and Proto Eastern Malayo-Polynesian.
+He has also written several papers investigating specific semantic fields
 (Blust 1980b, 1982b, 1987, 1994). Blust & Trussel had a major work in progress, the on-
 line Austronesian Comparative Dictionary (ACD), which brings together Blust’s
 reconstructions for Proto Austronesian and lower-order stages up to mid 2020, when the
@@ -326,8 +310,8 @@ concepts recur and so are likely to have been present in POc. Secondly, a search
 for cognate sets (§1.4.2), i.e. words from different languages that appear to be descended
 from the same protoform, from which forms can be reconstructed to match each
 meaning in this hypothesised terminology. The search is not restricted to members of the
-Oceanic subgroup; if a term found in an Oceanic language proves to have external (non-
-Oceanic) cognates, the POc antiquity of that term will be confirmed and additional
+Oceanic subgroup; if a term found in an Oceanic language proves to have external (non-Oceanic)
+cognates, the POc antiquity of that term will be confirmed and additional
 evidence concerning its meaning will be provided. Thirdly, the hypothesised
 terminology is re-examined to see if it needs modification in the light of the
 reconstructions. There are cases, highlighted in the various contributions to these
@@ -361,39 +345,40 @@ compared with regard to:
 __block__
 •   their specific denotations, where these are known;
 •   the geographic and genealogical distribution of these denotations (i.e. are the glosses
-    from which the protogloss is reconstructed well distributed? );
+    from which the protogloss is reconstructed well distributed?);
 •   any derivational relationships to other reconstructions;
 •   their place within a working hypothesis of the relevant POc terminology (e.g., are
     terms complementary —‘bow’ implies ‘arrow’; ‘seine net’ implies ‘floats’ and
     ‘weights’? Are there different levels of classification—generic, specific, and so
-    on? ).
+    on?).
 
 For example, it proved possible to reconstruct the following POc terms for tying with cords
 (vol.1:290–293):
 
-    POc *buku ‘tie (a knot); fasten’
-    POc *pʷita ‘tie by encircling’
-    POc *paqu(s), *paqus-i- ‘bind, lash; construct (canoe +) by lashing together’
-    POc *pisi ‘bind up, tie up, wind round, wrap’
-    POc *kiti ‘tie, bind’
+__block__
+-    POc _*buku_ ‘tie (a knot); fasten’
+-    POc _*pʷita_ ‘tie by encircling’
+-    POc _*paqu(s)_, _*paqus-i-_ ‘bind, lash; construct (canoe +) by lashing together’
+-    POc _*pisi_ ‘bind up, tie up, wind round, wrap’
+-    POc _*kiti_ ‘tie, bind’
 
 In each of the supporting cognate sets from contemporary languages there are a number
 of items whose glosses in the dictionaries or word lists are too vague to tell the analyst
-anything about the specific denotation of the item, and in the case of *kiti this prevents
-the assignment of a more specific meaning. The verb *buku can be identified as the
+anything about the specific denotation of the item, and in the case of _*kiti_ this prevents
+the assignment of a more specific meaning. The verb _*buku_ can be identified as the
 generic term for tying a knot because of its derivational relationship (by zero derivation)
-with a noun whose denotation is clearly generic, *buku ‘node (as in bamboo or
+with a noun whose denotation is clearly generic, _*buku_ ‘node (as in bamboo or
 sugarcane); joint; knuckle; knot in wood, string or rope’ (vol.1:85–86). Other senses are
 extensions of this meaning (vol.2:50, vol.5:159, 175–176, 341). Reconstruction of the
-meaning of *pʷita as ‘tie by encircling’ is supported by the meanings of the Lukep,
+meaning of _*pʷita_ as ‘tie by encircling’ is supported by the meanings of the Lukep,
 Takia and Longgu reflexes, respectively ‘tie by encircling’, ‘tie on (as grass-skirt)’, and
 ‘trap an animal’s leg; tie s.t. around ankle or wrist’: Lukep and Takia are North New
 Guinea languages, whilst Longgu is SE Solomonic. Reconstruction of the meaning of
-*paqu(s), *paqus-i- as ‘bind, lash; construct (canoe +) by tying together’ is supported by
+_*paqu(s)_, _*paqus-i-_ as ‘bind, lash; construct (canoe +) by tying together’ is supported by
 the meanings of the Takia, Kiribati and Samoan reflexes, respectively ‘tie, bind;
 construct (a canoe)’, ‘construct (canoe, house)’, and ‘make, construct (wooden objects,
 canoes +)’: Takia is a North New Guinea language, Kiribati is Micronesian, and Samoan
-is Polynesian. The meaning of *pisi is similarly reconstructed by reference to the
+is Polynesian. The meaning of _*pisi_ is similarly reconstructed by reference to the
 meanings of its Mono-Alu, Mota, Port Sandwich, Nguna and Fijian reflexes.
 
     Often, however, the authors have been less fortunate in the information available to
@@ -426,22 +411,23 @@ example, the initial consonant of the reflexes of the three words below is the s
 three items (and for numerous others).[6] In each language all instances of initial *p- have
 evolved “regularly”, i.e., in the same way.
 
-            POc                  *papine               *pisiko                *pat[i] [7]         *p-
-                                 ‘woman’               ‘meat, flesh’          ‘four’
-    Adm: Aua                     pifine                pirio                  —                  p-
-    Adm: Baluan                  pein                  pusio                  pa-                p-
-    NNG: Numbami                 —                     wiso                   wata               w-
-    PT:  Kilivila                vivila                viliy-na               -vasi              v-
-    PT:  Yamalele                vavine                viɣo                   —                  v-
-    PT:  Sinaugoro               vavine                vi-viɣo                vasi-vasi          v-
-    PT:  Motu                    hahine                hidio                  hani               h-
-    MM: Tolai                    vavina                vio                    -vat               v-
-    MM: Vaghua                   vavene                vəzəɣo                 -vac               v-
-    SES: Arosi                   haihine               hasiʔo                 hai                h-
-    NCV: Mota                    vavine                visoɣo-i               vat                v-
-    Mic: Woleaian                faifile               fitixo                 faa-               f-
-    Fij: Wayan                   vavine                viðiko                 vā                 v-
-    Pn:  Samoan                  fefine                —                      fā                 f-
+__table__
+            POc         |         _*papine_     |          _*pisiko_        |        _*pat[i]_ [7]  |       _*p-_
+                        |         ‘woman’     |          ‘meat, flesh’  |        ‘four’       |
+    Adm: Aua            |         _pifine_      |          _pirio_          |        —            |      _p-_
+    Adm: Baluan         |         _pein_        |          _pusio_          |        _pa-_        |      _p-_
+    NNG: Numbami        |         —             |          _wiso_           |        _wata_       |      _w-_
+    PT:  Kilivila       |         _vivila_      |          _viliy-na_       |        _-vasi_      |      _v-_
+    PT:  Yamalele       |         _vavine_      |          _viɣo_           |        —            |      _v-_
+    PT:  Sinaugoro      |         _vavine_      |          _vi-viɣo_        |        _vasi-vasi_  |      _v-_
+    PT:  Motu           |         _hahine_      |          _hidio_          |        _hani_       |      _h-_
+    MM: Tolai           |         _vavina_      |          _vio_            |        _-vat_       |      _v-_
+    MM: Vaghua          |         _vavene_      |          _vəzəɣo_         |        _-vac_       |      _v-_
+    SES: Arosi          |         _haihine_     |          _hasiʔo_         |        _hai_        |      _h-_
+    NCV: Mota           |         _vavine_      |          _visoɣo-i_       |        _vat_        |      _v-_
+    Mic: Woleaian       |         _faifile_     |          _fitixo_         |        _faa-_       |      _f-_
+    Fij: Wayan          |         _vavine_      |          _viðiko_         |        _vā_         |      _v-_
+    Pn:  Samoan         |         _fefine_      |          —              |        _fā_           |      _f-_
 
 The grouping to which each language belongs is indicated by an abbreviation on the left
 (§1.5.1).
@@ -467,22 +453,21 @@ Cristobal-Malaitan; Pawley (1972) and Tryon & Hackman (1983) for SE Solomonic;
 Ross & Næss (2007) for Temotu; François (pers. comm.) for the Banks and Torres
 Islands of Vanuatu; Tryon (1976) and Clark (2009) for North and Central Vanuatu;
 Lynch (2001b) for Southern Vanuatu; Geraghty (1989), Haudricourt & Ozanne-Rivierre
-(1982), Ozanne-Rivierre (1992, 1995) and Lynch (2015) for New Caledonia; Jackson
-(1986) and Bender et al. (2003a,b) for Micronesian; Geraghty (1986) for Central Pacific;
+(1982), Ozanne-Rivierre (1992, 1995) and Lynch (2015) for New Caledonia; Jackson (1986)
+and Bender et al. (2003a, 2003b) for Micronesian; Geraghty (1986) for Central Pacific;
 and Biggs (1978) for Polynesian. We have also done additional work on North and
 Central Vanuatu and New Caledonia ourselves.
 
    For non-Oceanic languages we have referred to sound correspondences given by
 Tsuchida (1976) for Formosan languages; by Zorc (1977, 1986) and Reid (1982) for the
 Philippines; by Adelaar (1992) and Nothofer (1975) for Malay and Javanese; by
-Sneddon (1984) for Sulawesi; by Collins (1983) for central Maluku; by Grimes &
-Edwards (in prep.) for what is conventionally known as CMP; and by Blust (1978a) and
-Kamholz (2014) for SHWNG.
+Sneddon (1984) for Sulawesi; by Collins (1983) for central Maluku; by Grimes & Edwards (in prep.)
+for what is conventionally known as CMP; and by Blust (1978a) and Kamholz (2014) for SHWNG.
 
    Regular sound correspondences can be interfered with in various ways: by phonetic
 conditioning that the analyst has not identified (see, e.g., Blust 1996), by borrowing (for
-an extreme Oceanic case, see Grace 1996), or by the frequency of an item’s use (Bybee
-1994). We have tried at least to note, and sometimes to account for, irregularities in
+an extreme Oceanic case, see Grace 1996), or by the frequency of an item’s use (Bybee 1994).
+We have tried at least to note, and sometimes to account for, irregularities in
 cognate sets.
 
 
@@ -505,7 +490,7 @@ two very closely related languages Mussau and Tench.
 
                                                                  .           .
 
-Figure 1.2:           Schematic diagram showing the subgrouping of Oceanic Austronesian languages.
+Figure 1.1:           Schematic diagram showing the subgrouping of Oceanic Austronesian languages.
                                                                                                                                                                              Introduction 11
 12 Malcolm Ross, Andrew Pawley and Meredith Osmond
 
@@ -544,7 +529,7 @@ this kind of contact (see the discussion in §15.8.1).
     The term “linkage” occurs in several of the italicised labels in Figure 1.1. The
 distinction between a subgroup and a linkage is important in reconstruction.[8]
 
-    A subgroup is defined by a set of coterminous innovations that are inferred to have
+    A __subgroup__ is defined by a set of coterminous innovations that are inferred to have
 occurred in its common ancestor (its protolanguage).[9] By “coterminous” is meant that all
 the innovations are shared by all the languages of the group.[10] This is the situation in
 Figure 1.2.[11] Languages A and B share a set of innovations and form one subgroup.
@@ -577,7 +562,7 @@ set. But E and F also share innovations with G, H and J, forming a subgroup EFGH
 intersects with CDEF. What is more, E and F share further innovations with H and G
 respectively; that is, E and F each reflect innovations that are coterminous neither with
 those that define CDEF, nor with those that define EFGHJ. This intertwining of groups
-formed by intersecting innovation domains is a linkage (an ‘innovation-linked group’ in
+formed by intersecting innovation domains is a __linkage__ (an ‘innovation-linked group’ in
 Pawley & Ross 1995). Its boundary can be defined, but no tree that accounts for all
 innovations can be drawn. If no tree can be drawn, then no protolanguage can be
 posited, and, since a reconstruction must belong to a protolanguage, strictly speaking
@@ -606,10 +591,9 @@ history can be difficult.
 
 [12] In this discussion of linkages, ‘language’ is used to mean ‘language or dialect’.
 
-  14 Malcolm Ross, Andrew Pawley and Meredith Osmond
 
 
-Map 1.1: Western Oceanic
+Map 1.3: Oceanic language groups in northwest Melanesia: the Admiralties and St Matthias groups and the subgroups of Western Oceanic.
 
                                                                                            Introduction 15
 
@@ -649,8 +633,8 @@ SE Solomonic (Pawley & Green 1984).
 
    A linkage sometimes consists of some but not all of the languages descended from a
 single parent. The Western Oceanic linkage (reflects the innovations of POc, but no
-innovation is exclusive to the whole of Western Oceanic (although the merger of POc *r
-and *R comes close). However, the languages of its three component linkages (Map
+innovation is exclusive to the whole of Western Oceanic (although the merger of POc _*r_
+and _*R_ comes close). However, the languages of its three component linkages (Map
 1.1)—North New Guinea, Papuan Tip and Meso-Melanesian—display complex patterns
 of intersecting innovations.[14] The WOc linkage is evidently descended from the dialects
 of POc that were left behind in the Bismarck Archipelago after speakers of the
@@ -697,14 +681,14 @@ agreements in their meanings is much more important than the number of cognates.
 enough to make a secure reconstruction if a cognate set occurs in just two languages in a
 family, with agreement in meaning, with two provisos. The first is that the two
 languages belong to different primary groups, and the second that there is no reason to
-suspect that the resemblances are due to borrowing or chance. The PMP term *(h)abij
-‘twins’ is reflected in several western Malayo-Polynesian languages (e.g. Batak apid
+suspect that the resemblances are due to borrowing or chance. The PMP term _*(h)abij_
+‘twins’ is reflected in several western Malayo-Polynesian languages (e.g. Batak _apid_
 ‘twins, double (fused) banana’) but, when the reconstruction was made, only one
-Oceanic reflex was known,[15] namely Roviana avisi ‘twins of the same sex’ (vol. 5, §2.6).
+Oceanic reflex was known,[15] namely Roviana _avisi_ ‘twins of the same sex’ (vol. 5, §2.6).
 Because Roviana belongs to a different first-order branch of Malayo-Polynesian from
 the western Malayo-Polynesian witnesses (cf Figure 1.5) and because there is virtually
 no chance that the agreement is due to borrowing or chance similarity, this distribution
-was enough to justify the reconstruction of PMP *(h)abij, POc *apic ‘twins’.
+was enough to justify the reconstruction of PMP _*(h)abij_, POc _*apic_ ‘twins’.
 
 [15] A second Oceanic reflex, ’Are’are rapi ‘a twin; two stones in one fruit’, was later added in the ACD.
 
@@ -729,6 +713,7 @@ Bismarcks; vol.2, ch.2) and the early eastward spread of Oceanic speakers, this 
 a criterion. Instead, we assume two hypothetical nodes not shown in the tree in Figure
 1.1.[17] These are
 
+__block__
 •     Remote Oceanic, comprising Southern Oceanic, Micronesian and Central Pacific;
 •     Eastern Oceanic, comprising SE Solomonic and Remote Oceanic.[18]
 
@@ -869,30 +854,30 @@ meaning.
 
 20 Malcolm Ross, Andrew Pawley and Meredith Osmond
 
-
-PMP *balay ‘public building’ (Blust 1987), ‘unwalled building’ (Waterson 1993)
+<
+PMP *balay ‘public building’ (Blust 1987); ‘unwalled building’ (Waterson 1993)
 POc *pale ‘building for storage or public use, open-sided building, shed’
- Adm: Lou                  pal                ‘canoe hut’
- Adm: Mussau               ale                ‘house’
- NNG: Yabem                ale                ‘house’
- NNG: Lukep (Pono) para                       ‘yam house’
- MM: Tolai                 pal                ‘house, room’
- MM: Mono-Alu              hale-hale          ‘public building’
- SES: Arosi                hare               ‘shed for yams’ (E Arosi), ‘house with side of
-                                              roof only, made in garden’ (W Arosi)
- SES: Bauro                hare               ‘canoe house, men’s house’
- SES: Sa’a                 hale               ‘yam shed outside a garden’
- SES: Kwaio                fale               ‘hut for childbirth’
- MM: Gela                  hale               ‘house’
- NCV: Raga                 vale               ‘house, hut, garden house’
- NCV: Nokuku               vale               ‘shelter’
-                           val-val            ‘garden shelter’
+ Adm: Lou               pal           ‘canoe hut’
+ Adm: Mussau            ale           ‘house’
+ NNG: Yabem             ale           ‘house’
+ NNG: Lukep (Pono)      para          ‘yam house’
+ MM: Tolai              pal           ‘house, room’
+ MM: Mono-Alu           hale-hale     ‘public building’
+ SES: Arosi             hare          ‘shed for yams’ (E Arosi); ‘house with side of roof only, made in garden’ (W Arosi)
+ SES: Bauro             hare          ‘canoe house, men’s house’
+ SES: Sa’a              hale          ‘yam shed outside a garden’
+ SES: Kwaio             fale          ‘hut for childbirth’
+ MM: Gela               hale          ‘house’
+ NCV: Raga              vale          ‘house, hut, garden house’
+ NCV: Nokuku            vale          ‘shelter’
+ NCV: Nokuku            val-val       ‘garden shelter’
 PMic *fale ‘meeting house’ (Bender et al. 2003a)
- Mic: Puluwat              fǣl                ‘meeting house’
- Mic: Woleai               fal, fale-         ‘men’s house, club house’
- Fij:    Bauan             vale               ‘house’
- Pn:     Samoan            fale               ‘house’
- Pn:     Hawaiian          hale               ‘house’
+ Mic: Puluwat           fǣl           ‘meeting house’
+ Mic: Woleai            fal, fale-    ‘men’s house, club house’
+ Fij: Bauan             vale          ‘house’
+ Pn:  Samoan            fale          ‘house’
+ Pn:  Hawaiian          hale          ‘house’
+>
 
    In putting together cognate sets, we have sometimes found apparent or uncertain
 reflexes which do not quite ‘fit’ the set: either they display a phonological irregularity or
@@ -905,18 +890,27 @@ convention is adopted of prefixing each language name with the abbreviation for 
 genealogical or geographic group to which the language belongs, so that the distribution
 of a cognate set is more immediately obvious. The abbreviations are:
 
-     Yap:     Yapese (one language)             TM:      Temotu
-     Adm:     Admiralty and Mussau/Tench        NCV:     North/Central Vanuatu
-     NNG:     North New Guinea                  SV:      South Vanuatu
-     SJ:      Sarmi/Jayapura                    NCal:    New Caledonia and Loyalties
-     PT:      Papuan Tip                        Mic:     Micronesian
-     MM:      Meso-Melanesian                   Fij:     Fijian and Rotuman
-     SES:     Southeast Solomonic               Pn:      Polynesian
+__tablenh__
+     Yap:   |  Yapese (one language)
+     Adm:   |  Admiralty and Mussau/Tench
+     NNG:   |  North New Guinea
+     SJ:    |  Sarmi/Jayapura
+     PT:    |  Papuan Tip
+     MM:    |  Meso-Melanesian
+     SES:   |  Southeast Solomonic
+     TM:    |  Temotu
+     NCV:   |  North/Central Vanuatu
+     SV:    |  South Vanuatu
+     NCal:  |  New Caledonia and Loyalties
+     Mic:   |  Micronesian
+     Fij:   |  Fijian and Rotuman
+     Pn:    |  Polynesian
 
 We have sought to be consistent in always listing these groups in the same order, but
 contributors vary in the ordering of languages within groups.
 
                                           Introduction 21
+
 Map 1.4: Groups of Oceanic languages used in cognate sets
 
 22 Malcolm Ross, Andrew Pawley and Meredith Osmond
@@ -981,44 +975,45 @@ usually noted.
     Although there are accepted or standard orthographies for a number of the languages
 from which data are cited here, all data are transcribed as far as possible into a standard
 phonemic orthography based on that used by Ross (1988:3–4) in order to facilitate
-comparison.[21] This means, for example, that the j of the German-based orthographies of
-Yabem and Gedaged becomes y, Yabem c becomes ʔ, Gedaged z becomes ɬ and so on;
-the ng of English-based orthographies becomes ŋ; and Fijian g, q and c become ŋ, g and
-ð respectively.
+comparison.[21] This means, for example, that the _j_ of the German-based orthographies of
+Yabem and Gedaged becomes _y_, Yabem _c_ becomes _ʔ_, Gedaged _z_ becomes _ɬ_ and so on;
+the _ng_ of English-based orthographies becomes _ŋ_; and Fijian _g_, _q_ and _c_ become _ŋ_, _g_ and
+_ð_ respectively.
 
     The following symbols have more or less their usual IPA (Interenational Phonetic
-Association) values: ð, ɢ, ɣ, h, k, l, ʟ, ɬ, ʎ, m, n, ŋ, ñ, p, q, χ, ɾ, r, s, t, w, x, z, ʔ, a, æ, e, ɛ, ə, i, ɨ,
-o, œ, ɔ, ʌ, u, ɯ. As far as possible, however, our orthography is phonemic and does not show
+Association) values: _ð_, _ɢ_, _ɣ_, _h_, _k_, _l_, _ʟ_, _ɬ_, _ʎ_, _m_, _n_, _ŋ_, _ñ_, _p_, _q_,
+_χ_, _ɾ_, _r_, _s_, _t_, _w_, _x_, _z_, _ʔ_, _a_, _æ_, _e_, _ɛ_, _ə_, _i_, _ɨ_,
+_o_, _œ_, _ɔ_, _ʌ_, _u_, _ɯ_. As far as possible, however, our orthography is phonemic and does not show
 allophonic variation, so that there are instances where a symbol does not have its usual
-phonetic value. For example, Wayan Fijian k is a voiceless stop word-initially but [k] is in
-free or stylistic variation with [ɣ] word-medially. The voiced stops b, d, g and the voiced
-bilabial trill ʙ are prenasalised in some languages, but prenasalisation is not written unless it is
-phonemically distinctive. Where a language has just one rhotic, we usually write r, despite
+phonetic value. For example, Wayan Fijian _k_ is a voiceless stop word-initially but [k] is in
+free or stylistic variation with [ɣ] word-medially. The voiced stops _b_, _d_, _g_ and the voiced
+bilabial trill _ʙ_ are prenasalised in some languages, but prenasalisation is not written unless it is
+phonemically distinctive. Where a language has just one rhotic, we usually write _r_, despite
 the fact that that rhotic is sometimes a flap. Other orthographic symbols (with values in IPA)
 are:
 
-               f     [ɸ, f]        voiceless bilabial or (less often) labio-dental fricative
-               v     [β, v]        voiced bilabial or (less often) labio-dental fricative
-               c     [ts], [ʧ]     voiceless alveolar or palatal affricate
-               j     [ʣ], [ʤ]      voiced alveolar or palatal affricate
-               y     [j]           palatal glide
-               dr    [ⁿr]          prenasalised voiced alveolar trill (as in Fijian)
-               ö     [ø]           rounded mid front vowel
-               ü     [y]           rounded high front vowel
+__tablenh__
+               _f_   |  [ɸ, f]    |    voiceless bilabial or (less often) labio-dental fricative
+               _v_   |  [β, v]    |    voiced bilabial or (less often) labio-dental fricative
+               _c_   |  [ts], [ʧ] |    voiceless alveolar or palatal affricate
+               _j_   |  [ʣ], [ʤ]  |    voiced alveolar or palatal affricate
+               _y_   |  [j]       |    palatal glide
+               _dr_  |  [ⁿr]      |    prenasalised voiced alveolar trill (as in Fijian)
+               _ö_   |  [ø]       |    rounded mid front vowel
+               _ü_   |  [y]       |    rounded high front vowel
 
 Other superscripts and diacritics are as follows:
 
 __block__
-•     contrastive long vowels are represented by a macron, e.g. ā;
-•     contrastive vowel nasalisation is represented by a tilde, e.g. ã;
-•     high and low tone are represented respectively by an acute and a grave accent, e.g. é, è;[22]
-•     labialisation is marked by a superscript w, e.g. pʷ;
-•     velarisation is marked by a superscript ɯ, e.g. pᵚ;
-•     contrastive aspiration is marked by a superscript h, e.g. pʰ;
-•     contrastive devoicing is marked by a small circle beneath, e.g. n̥ ;
-•     apicolabials are represented by the corresponding apical symbol and the linguolabial
-      diacritic (the ‘seagull’), e.g. t̼ ;
-•     retroflexes are represented by the corresponding apical symbol with a dot beneath, e.g. ṛ.
+•     contrastive long vowels are represented by a macron, e.g. _ā_;
+•     contrastive vowel nasalisation is represented by a tilde, e.g. _ã_;
+•     high and low tone are represented respectively by an acute and a grave accent, e.g. _é_, _è_;[22]
+•     labialisation is marked by a superscript w, e.g. _pʷ_;
+•     velarisation is marked by a superscript ɯ, e.g. _pᵚ_;
+•     contrastive aspiration is marked by a superscript h, e.g. _pʰ_;
+•     contrastive devoicing is marked by a small circle beneath, e.g. _n̥_;
+•     apicolabials are represented by the corresponding apical symbol and the linguolabial diacritic (the ‘seagull’), e.g. _t̼_;
+•     retroflexes are represented by the corresponding apical symbol with a dot beneath, e.g. _ṛ_.
 
 [21] The main reason for retaining Ross’s orthography was that the electronic files initially used in this
      project were drawn in large part from those used in the research reported in Ross (1988).
@@ -1036,8 +1031,8 @@ indicated by a hyphen at the beginning or end of the base. This applies particul
 possessor suffixes on directly possessed nouns (see §2.2). Where an inflexional morpheme
 cannot readily be omitted, it is separated from its base by a hyphen. This may happen
 because of complicated morphophonemics or because the morpheme is always present, like
-the attributive -n in some NNG and Admiralties languages and prefixed reflexes of the POc
-article *na in scattered languages. When a reflex is itself polymorphemic (i.e. the
+the attributive _-n_ in some NNG and Admiralties languages and prefixed reflexes of the POc
+article _*na_ in scattered languages. When a reflex is itself polymorphemic (i.e. the
 morphemes reflect morphemes present in the reconstructed etymon) or contains a
 reduplication, the morphemes or reduplicates are also separated by a hyphen.
 
@@ -1053,7 +1048,7 @@ others are represented simply by the dialect name, e.g. Iduna, noted in Appendix
 
 1.5.3 Conventions used in representing reconstructions
 
-Reconstructions are marked with an asterisk, e.g. *Rumaq ‘dwelling house’, in keeping
+Reconstructions are marked with an asterisk, e.g. _*Rumaq_ ‘dwelling house’, in keeping
 with the standard convention in historical linguistics. POc reconstructions, and also
 PWOc and PNGOc reconstructions, are given in the orthography of §1.7. For
 reconstructions at higher-order interstages the orthographies are those used by Blust in
@@ -1062,7 +1057,7 @@ given in the standard orthography adopted for data (§4.2). Geraghty’s (1986) 
 orthography, for example, is based on Standard Fijian spelling, and is converted into our
 standard orthography in the same way as Fijian spelling is. In practice, this means that
 the orthographies for PEOc, Proto Remote Oceanic and PCP are the same as for POc, except that a
-distinction between *p and *v is recognised and *R is generally absent from PCP.[23]
+distinction between _*p_ and _*v_ is recognised and _*R_ is generally absent from PCP.[23]
 Biggs and Clark’s PPn reconstructions are in any case written in an orthography
 identical to our standard. Bracketing and segmentation conventions in protoforms are
 shown in Table 1.1.
@@ -1072,8 +1067,11 @@ many cases decisive evidence for retention or loss can be found in those Oceanic
 languages that usually retain final consonants. However, there are some cases where it
 is uncertain whether POc kept a PMP final, as when a PMP etymon is not attested in
 an Oceanic language that consistently retains POc final consonants. An example is
+_*-d_ in PMP *palahud ‘go down to the sea or coast’, a term reflected in Oceanic only
+inlanguages that regularly lose POc final consonants. In such cases the consonant is
+reconstructed in parentheses, e.g. POc _*palau(r)_ ‘go to sea, make a sea voyage’.
 
-[23] Geraghty (1990:91) records a small number of cases where certain Fijian dialects retain POc *R as l,
+[23] Geraghty (1990:91) records a small number of cases where certain Fijian dialects retain POc _*R_ as _l_,
      indicating that it was retained sporadically in PCP. It is always lost in his ‘Tokalau Fijian’ and in
      Polynesian.
 
@@ -1083,29 +1081,26 @@ an Oceanic language that consistently retains POc final consonants. An example i
 : Table 1.1.      Bracketing and segmentation conventions in protoforms
 
 __tablenh__
-       (x)          it cannot be determined whether x was present
-        (x,y)       either x or y was present
-        [x]         the item is reconstructable in two forms, one with and one without x
-        [x,y]       the item is reconstructable in two forms, one with x and one with y
-        x-y         x and y are separate morphemes
-        x-          x takes an enclitic or a suffix
-        ‹x›         x is an infix
+       (x)        |  it cannot be determined whether x was present
+        (x,y)     |  either x or y was present
+        [x]       |  the item is reconstructable in two forms, one with and one without x
+        [x,y]     |  the item is reconstructable in two forms, one with x and one with y
+        x-y       |  x and y are separate morphemes
+        x-        |  x takes an enclitic or a suffix
+        ‹x›       |  x is an infix
 
-*-d in PMP *palahud ‘go down to the sea or coast’, a term reflected in Oceanic only
-inlanguages that regularly lose POc final consonants. In such cases the consonant is
-reconstructed in parentheses, e.g. POc *palau(r) ‘go to sea, make a sea voyage’.
 
    In presenting words that display anomalies of form, it is often necessary to posit an
-expected form. For example, in §14.6.5.1, the Banoni term raus ‘100’ is accompanied by
-the note “metathesis of †rasu”, i.e. ‘metathesis of expected rasu’. In this volume we use
+expected form. For example, in §14.6.5.1, the Banoni term _raus_ ‘100’ is accompanied by
+the note “metathesis of †_rasu_”, i.e. ‘metathesis of expected _rasu_’. In this volume we use
 a less widely employed convention and mark expected forms with a dagger, to
 distinguish an expected form both from reconstructions and real data.[24] Sometimes we
 need to refer to a reconstructed form that one would expect as the regular reflex of an
 established POc etymon, but which does not occur because an irregular sound change
 has occurred. In such cases the dagger and asterisk conventions are used together. For
-example, in vol. 5:99, we reconstruct PNCV *kaRo ‘vine, rope; vein’. It is descended,
-however, from POc *waRo(c) ‘vine, creeper; string, rope; vein, tendon’, and the
-expected PNCV form, referred to in our discussion there, would be †*waRo. The dagger
+example, in vol. 5:99, we reconstruct PNCV _*kaRo_ ‘vine, rope; vein’. It is descended,
+however, from POc _*waRo(c)_ ‘vine, creeper; string, rope; vein, tendon’, and the
+expected PNCV form, referred to in our discussion there, would be †_*waRo_. The dagger
 marks it as expected but unattested.
 
    When historical linguists compile cognate sets they commonly retain word for word
@@ -1122,15 +1117,15 @@ reconstruction at the head of the set, i.e. the reconstruction which they reflec
    Where necessary, we use ‘(N)’ to indicate that a gloss is a noun, and ‘(V)’, ‘(VI)’,
 ‘(VT)’ or ‘(VSt)’ to indicate that it is a verb, intransitive verb, transitive verb or stative
 verb. Because in many environments transitive verbs were regularly formed from the
-intransitive stem by adding the suffix *-i- (vol. 5:24), in many cases the intransitive and
-transitive verbs are simply shown in sequence, e.g. POc *qalo(p), *qalop-i- ‘beckon
+intransitive stem by adding the suffix _*-i-_ (vol. 5:24), in many cases the intransitive and
+transitive verbs are simply shown in sequence, e.g. POc _*qalo(p)_, _*qalop-i-_ ‘beckon
 with the palm downward, wave’. In such cases, the first verb is always intransitive, the
-second (in *-i-) transitive.
+second (in _*-i-_) transitive.
 
    Within glosses we use the conventional abbreviations ‘k.o.’ (as in ‘k.o. yam’) for
 ‘kind of’, ‘s.o.’ for ‘someone’ and ‘s.t.’ for ‘something’.
 
-[24] Another convention sometimes used for this purpose is a double asterisk, e.g. **tau: we prefer the
+[24] Another convention sometimes used for this purpose is a double asterisk, e.g. _**tau_: we prefer the
      dagger on aesthetic grounds.
 
 26 Malcolm Ross, Andrew Pawley and Meredith Osmond
@@ -1140,16 +1135,15 @@ second (in *-i-) transitive.
                                Shadings are explained in §1.8.2
 
 __table__
-                     labialised                                          labialised uvular
-                     bilabial   bilabial dental alveolar   palatal velar velar
-  stop voiceless     *pʷ        *p       *t                *c      *k    *kʷ        *q
-  stop voiced        *bʷ        *b              *d         *j      *g
-  trill                                         *r
-  prenasalised trill                            *dr
-  nasal              *mʷ        *m              *n         *ñ      *ŋ
-  fricative                                     *s
-  lateral                                       *l
-  approximant        *w                                    *y
+                   | labialised bilabial |  bilabial | dental | alveolar |  palatal | velar | labialised velar | uvular
+  stop voiceless     | *pʷ     |   *p    |   *t |         |      *c  |    *k |   *kʷ   |     *q
+  stop voiced        | *bʷ     |   *b    |      |    *d   |      *j  |    *g |         |
+  trill              |         |         |      |   *r    |          |       |         |
+  prenasalised trill |         |         |      |   *dr   |          |       |         |
+  nasal              | *mʷ     |   *m    |      |    *n   |      *ñ  |    *ŋ |         |
+  fricative          |         |         |      |   *s    |          |       |         |
+  lateral            |         |         |      |   *l    |          |       |         |
+  approximant        | *w      |         |      |         |      *y  |       |         |
 
 
 1.6 Proto Oceanic bound morphology
@@ -1194,12 +1188,8 @@ __tablenh__
      Grace                   *mp   *ŋp/*mpw *nt                *nd             *nj         *ŋk
              nasal grade
      Ross                    *b          *bʷ         *d    *dr/*nr             *j          *g
-
-
      Grace      *m    *ŋm/*mw      *n           *ñ        *ŋ         *w    *y         *l    *q   *R
      Ross       *m         *mʷ     *n           *ñ        *ŋ         *w    *y         *l    *q   *R
-
-
                           Grace     *i         *e     *a        *o        *u
                           Ross      *i         *e     *a        *o        *u
 
@@ -1230,11 +1220,11 @@ Proto Central/Eastern Malayo-Polynesian. This leads to a re-evaluation in §1.9.
 where Proto Oceanic came from.
 
    The conventions used in Figure 1.5 are those outlined in §1.4.3.1 for Figure 1.1. Thus
-Formosan languages in Figure 1.5 indicates a collection of languages descended (along with
+_Formosan languages_ in Figure 1.5 indicates a collection of languages descended (along with
 PMP) from PAn (Blust 1999). They are spoken in Taiwan, but do not form a subgroup. There
 was no ‘“Proto Formosan”, as Formosan languages and language groups are all descended
-directly from PAn. Despite references to “Proto Western Malayo-Polynesian”, Western
-Malayo-Polynesian languages have never been seriously considered a subgroup
+directly from PAn. Despite references to “Proto Western Malayo-Polynesian”,
+_Western Malayo-Polynesian languages_ have never been seriously considered a subgroup
 of Austronesian (Ross 1995; Adelaar 2004). Smith (2017) provides a set of hypotheses
 about the groups that make up WMP.[25] Their common ancestor is PMP. Recent years
 have seen renewed research into the Central Malayo-Polynesian languages and those of
@@ -1265,7 +1255,7 @@ interstages, PCEMP and PEMP (Blust 1978), are only weakly defined.
 
 
 
-Map 1.5 The Austronesian language family and the major subgroups according to the standard hypothesis
+Map 1.5: The Austronesian language family and the major subgroups according to the standard hypothesis
 
 30 Malcolm Ross, Andrew Pawley and Meredith Osmond
 
@@ -1273,23 +1263,25 @@ Map 1.5 The Austronesian language family and the major subgroups according to th
 : Table 1.4. Correspondences between PMP and POc protophonemes as currently understood
 
 __tablenh__
-     PAn                        *p, *b      —     *t, *C         *d, *r    *s, *z     *j        *k, *g   —
-     PMP                        *p, *b      —       *t           *d, *r    *s, *z     *j        *k, *g   —
-               oral grade:       *p         *pʷ     *t            *r         *s       *c         *k      *kʷ
-     POc
-               nasal grade:         *b      *bʷ        *d         *dr            *j              *g      —
+     PAn      |                |  *p, *b   |   —   |  *t, *C    |     *d, *r |   *s, *z   |  *j     |   *k, *g |  —
+     PMP      |                |  *p, *b   |   —   |    *t      |     *d, *r |   *s, *z   |  *j     |   *k, *g |  —
+              | oral grade:    |   *p      |   *pʷ |    *t      |      *r    |     *s     |  *c     |    *k    |  *kʷ
+     POc      |                |           |       |            |            |            |         |          |
+              | nasal grade:   |      *b   |   *bʷ |       *d   |      *dr   |         *j |         |    *g    |  —
 
-     PAn           *m         —      *n, *-L(-)   *ñ        *ŋ    *w      *y    *l, *L-    *q      *R    *S
-     PMP           *m         —          *n       *ñ        *ŋ    *w      *y       *l      *q      *R    *h
-     POc           *m        *mʷ         *n       *ñ        *ŋ    *w      *y       *l      *q      *R    *0̸
+__tablenh__
+     PAn      |     *m   |      —   |   *n, *-L(-) |  *ñ    |    *ŋ |   *w  |    *y  |  *l, *L- |   *q   |   *R |   *S
+     PMP      |     *m   |      —   |       *n     |  *ñ    |    *ŋ |   *w  |    *y  |     *l   |   *q   |   *R |   *h
+     POc      |     *m   |     *mʷ  |       *n     |  *ñ    |    *ŋ |   *w  |    *y  |     *l   |   *q   |   *R |   *0̸
 
-     PAn/PMP      *i, *-uy(-)      *e [ə],* -aw    *-ay           *a       *u
-     POc               *i               *o          *e            *a       *u
+__tablenh__
+     PAn/PMP  |    *i, *-uy(-)  |    *e [ə],* -aw |   *-ay   |        *a   |    *u
+     POc      |         *i      |         *o      |    *e    |        *a   |    *u
 
    The Oceanic subgroup is defined by a set of shared innovations relative to PMP. It was on
-the basis of some of these that Dempwolff (1927, 1937) first recognised his Urmelanesisch
+the basis of some of these that Dempwolff (1927, 1937) first recognised his _Urmelanesisch_
 (‘Proto Melanesian’) as a major Austronesian subgroup. In the 1937 work he also recognised
-that Polynesian languages shared the innovations of Urmelanesisch, and so the concept of an
+that Polynesian languages shared the innovations of _Urmelanesisch_, and so the concept of an
 Oceanic subgroup entered the literature. However, naming it took a while. Grace (1955)
 defined the borders of the new subgroup and called it “Eastern Malayo-Polynesian”.[26]
 
@@ -1305,14 +1297,15 @@ reconstructions fairly often.
    Certain POc innovations exclusive to Oceanic languages are immediately visible in the
 form of a number of mergers and splits, highlighted in colour in Table 1.4.
 
-(a) The PMP voiced/voiceless pairs *p/*b, *k/*g and *s/*z and the PMP pair *d/*r each
-    merged respectively as *p, *k, *s and *r in an interstage that we label ‘Proto X’
-(b) Proto X *p, *k, *s and *r then split to give POc “oral-grade” *p, *k, *s and *r and
-    “nasal-grade” *b, *g, *j and *dr (the “grade” terms are explained in §1.8.2). Although
-    *t did not participate in the merger in (a), *t did participate in the split, with POc oral-
-    grade *t and nasal-grade *d.
-(c) A small complication is that PMP *j did not participate in the merger in (a), but did
-    participate in the split in (b), its POc nasal grade merging with that of *s.
+__block__
+(a) The PMP voiced/voiceless pairs _*p_/_*b_, _*k_/_*g_ and _*s_/_*z_ and the PMP pair _*d_/_*r_ each
+    merged respectively as _*p_, _*k_, _*s_ and _*r_ in an interstage that we label ‘Proto X’
+(b) Proto X _*p_, _*k_, _*s_ and _*r_ then split to give POc “oral-grade” _*p_, _*k_, _*s_ and _*r_ and
+    “nasal-grade” _*b_, _*g_, _*j_ and _*dr_ (the “grade” terms are explained in §1.8.2). Although
+    _*t_ did not participate in the merger in (a), _*t_ did participate in the split, with POc oral-grade
+    _*t_ and nasal-grade _*d_.
+(c) A small complication is that PMP _*j_ did not participate in the merger in (a), but did
+    participate in the split in (b), its POc nasal grade merging with that of _*s_.
 
    Ozanne-Rivierre (1992) suggests that the corresponding *t/*d merger was hindered by
 the mismatch in point of articulation between dental *t and alveolar *d, a mismatch attested
@@ -1324,8 +1317,6 @@ effect of (a) and (b): each of the PMP pairs *p/*b, *k/*g, *s/*z and *d/*r first
 then split. The set of changes in (a) and (b) alone is unusual enough to be strong evidence
 for the integrity of the Oceanic subgroup.
 
-   Another set of innovations is the introduction of the labiovelars *pʷ, *bʷ, *mʷ and *kʷ
-into Proto Oceanic (Blust 1981b; Lynch 2002; Ross 2011). Many items containing a
 
 [26] Blust (1978a) redefined this label as also including the SHWNG languages.
 
@@ -1333,83 +1324,90 @@ into Proto Oceanic (Blust 1981b; Lynch 2002; Ross 2011). Many items containing a
 
 
 
-Table 1.5. Examples of PMP reconstructions and their POc continuations showing the
-           effects of the mergers and splits giving rise to POc consonant grade
-segment   PMP                  POc                 grade          gloss
-*p-       pitu                 pitu                oral           seven
-*p-       punay                bune                nasal          pigeon
-*-p-      hapuy                api                 oral           fire
-*-mp-     t-umpu               tubu                nasal          ancestor
-*b-       bulan                pulan               oral           moon
-*b-       beRek                boRok               nasal          pig
-*-b-      qabu                 qapu                oral           ashes
-*-mb-     ambit                abit                nasal          hold in hand
-*t-       taqun                taqun               oral           year
-*t-       —                    —                   (nasal)        —
-*-t-      qutin                qutin               oral           penis
-*-nt-     -nta                 -da                 nasal          P:1INC.PL
-*-nt-     punti                pudi                nasal          banana
-*d-       duha                 rua                 oral           two
-*d-       daRaq                draRaq              nasal          fresh water
-*-d-      kuden                kuron               oral           cooking pot
-*-nd-     pandan               padran              nasal          pandanus
-*s-s-     susu                 susu                oral           breast
-*s-       siRi                 jiRi                nasal          a shrub: Cordyline
-*-s-      ŋusuq                ŋuju-               nasal          lips, snout, beak
-*z-       zaqat                saqat               oral           bad
-*-z-      quzan                qusan               oral           rain
-*z-       zalan                jalan               nasal          path, road
-*-z-      tazim                tajim               nasal          sharp
-*k-       kali                 kali                oral           dig
-*k-       kumuR                gumu                nasal          gargle, rinse mouth
-*-k-      seka                 soka                oral           pierce, stab
-*-ŋk-     laŋkaw               lago                nasal          tall, long
-*g-       gaway                kawe                oral           octopus tentacle
-*g-       gemgem               gogom               nasal          hold in fist
-*-g-      liget                likot               oral           turn, rotate
-*-g-      —                    —                   (nasal)        —
+: Table 1.5. Examples of PMP reconstructions and their POc continuations showing the effects of the mergers and splits giving rise to POc consonant grade
+
+__table__
+segment |  PMP         |         POc       |         grade     |     gloss
+_*p-_   |  _pitu_      |         _pitu_    |         oral      |     seven
+_*p-_   |  _punay_     |         _bune_    |         nasal     |     pigeon
+_*-p-_  |  _hapuy_     |         _api_     |         oral      |     fire
+_*-mp-_ |  _t-umpu_    |         _tubu_    |         nasal     |     ancestor
+_*b-_   |  _bulan_     |         _pulan_   |         oral      |     moon
+_*b-_   |  _beRek_     |         _boRok_   |         nasal     |     pig
+_*-b-_  |  _qabu_      |         _qapu_    |         oral      |     ashes
+_*-mb-_ |  _ambit_     |         _abit_    |         nasal     |     hold in hand
+_*t-_   |  _taqun_     |         _taqun_   |         oral      |     year
+_*t-_   |  —           |         —         |         (nasal)   |     —
+_*-t-_  |  _qutin_     |         _qutin_   |         oral      |     penis
+_*-nt-_ |  _-nta_      |         _-da_     |         nasal     |     P:1INC.PL
+_*-nt-_ |  _punti_     |         _pudi_    |         nasal     |     banana
+_*d-_   |  _duha_      |         _rua_     |         oral      |     two
+_*d-_   |  _daRaq_     |         _draRaq_  |         nasal     |     fresh water
+_*-d-_  |  _kuden_     |         _kuron_   |         oral      |     cooking pot
+_*-nd-_ |  _pandan_    |         _padran_  |         nasal     |     pandanus
+_*s-s-_ |  _susu_      |         _susu_    |         oral      |     breast
+_*s-_   |  _siRi_      |         _jiRi_    |         nasal     |     a shrub: Cordyline
+_*-s-_  |  _ŋusuq_     |         _ŋuju-_   |         nasal     |     lips, snout, beak
+_*z-_   |  _zaqat_     |         _saqat_   |         oral      |     bad
+_*-z-_  |  _quzan_     |         _qusan_   |         oral      |     rain
+_*z-_   |  _zalan_     |         _jalan_   |         nasal     |     path, road
+_*-z-_  |  _tazim_     |         _tajim_   |         nasal     |     sharp
+_*k-_   |  _kali_      |         _kali_    |         oral      |     dig
+_*k-_   |  _kumuR_     |         _gumu_    |         nasal     |     gargle, rinse mouth
+_*-k-_  |  _seka_      |         _soka_    |         oral      |     pierce, stab
+_*-ŋk-_ |  _laŋkaw_    |         _lago_    |         nasal     |     tall, long
+_*g-_   |  _gaway_     |         _kawe_    |         oral      |     octopus tentacle
+_*g-_   |  _gemgem_    |         _gogom_   |         nasal     |     hold in fist
+_*-g-_  |  _liget _    |         _likot_   |         oral      |     turn, rotate
+_*-g-_  |  —           |         —         |         (nasal)   |     —
 
 32 Malcolm Ross, Andrew Pawley and Meredith Osmond
 
 
+   Another set of innovations is the introduction of the labiovelars _*pʷ_, _*bʷ_, _*mʷ_ and _*kʷ_
+into Proto Oceanic (Blust 1981b; Lynch 2002; Ross 2011). Many items containing a
 labiovelar lack non-Oceanic cognates, and some, at least, must have been borrowed into
-POc from neighbouring Papuan languages. For example, *mʷapo(q) ‘taro’ was
+POc from neighbouring Papuan languages. For example, _*mʷapo(q)_ ‘taro’ was
 apparently borrowed by POc speakers as they copied taro-growing techniques from
 Papuan speakers (vol.3, p267). In some inherited items a labial became a labiovelar next to
 a round vowel, but it is not clear whether the labiovelar actually occurred in POc. Thus a
-number of Oceanic languages reflect *tamʷata ‘man, husband’, derived from *tau ‘body,
-person’ + *mataq ‘unripe, immature, young’, but we cannot be sure whether *tamʷata or
-*taumata(q) was the POc form (vol. 5:43–44).
+number of Oceanic languages reflect _*tamʷata_ ‘man, husband’, derived from _*tau_ ‘body,
+person’ + _*mataq_ ‘unripe, immature, young’, but we cannot be sure whether _*tamʷata_ or
+_*taumata(q)_ was the POc form (vol. 5:43–44).
 
    Collectively, innovations affecting the vowels are also exclusive to Oceanic, although
 individually each of them occurs in various non-Oceanic languages:
-(i) PMP *e, phonetically [ə], became POc *o.
-(ii) PMP word-final diphthongs *-uy(-), *-aw and *-ay were simplified to POc *-i, *-o and
-     *-e respectively, the first two thereby merging with plain vowels.[27]
+
+__block__
+(i) PMP _*e_, phonetically [ə], became POc _*o_.
+(ii) PMP word-final diphthongs _*-uy(-)_, _*-aw_ and _*-ay_ were simplified to POc _*-i_, _*-o_ and
+     _*-e_ respectively, the first two thereby merging with plain vowels.[27]
 
     A further innovation that has come to light during work on these volumes concerns
-certain PMP trisyllabic roots with *-e- (*[ə]) as the nucleus of their penultimate syllable.
-These trisyllables lost *-e- in POc, along with one consonant of the resulting consonant
+certain PMP trisyllabic roots with _*-e-_ (*[ə]) as the nucleus of their penultimate syllable.
+These trisyllables lost _*-e-_ in POc, along with one consonant of the resulting consonant
 cluster:
 
-     PMP *biseqak              POc *pisa(k)~*pisak-i- ‘split’ (vol. 1:261)
-     PMP *ma-udehi             POc *muri ‘be behind’ (vol. 2:251)
-     PMP *tuqelan              POc *tuqan ‘bone’ (vol. 5:85)
-     PMP *baReqaŋ              POc *paRa(ŋ) ‘molar tooth’ (vol. 5:133),
-     PMP *buteliR              POc * putiR ‘wart’ (vol. 5:344).
-     PMP *buqeni               POc *puni ‘ringworm, Tinea imbricata’ (vol. 5:346)
-     PMP *ma-heyaq             POc *maya(q) ‘shy, embarrassed; ashamed’ (vol. 5:585).
+__tablenh__
+     PMP *biseqak       |       POc *pisa(k)~*pisak-i- ‘split’ (vol. 1:261)
+     PMP *ma-udehi      |       POc *muri ‘be behind’ (vol. 2:251)
+     PMP *tuqelan       |       POc *tuqan ‘bone’ (vol. 5:85)
+     PMP *baReqaŋ       |       POc *paRa(ŋ) ‘molar tooth’ (vol. 5:133),
+     PMP *buteliR       |       POc * putiR ‘wart’ (vol. 5:344).
+     PMP *buqeni        |       POc *puni ‘ringworm, Tinea imbricata’ (vol. 5:346)
+     PMP *ma-heyaq      |       POc *maya(q) ‘shy, embarrassed; ashamed’ (vol. 5:585).
 
 The conditioning of this change remains unclear, as it did not affect the etyma below:
 
-  PMP *maqesak           POc *maosak ‘ripe, cooked’ (vol.1:157),
-  PMP *baqeRu            POc *paqoRu ‘new’ (vol.2:203),
-  PMP *qateluR           POc *qatoluR ‘egg’ (vol.4:278)
-  PMP *qulej-an          POc *quloc-a(n) ‘maggoty’ (vol.4:415).
+__tablenh__
+  PMP *maqesak       |    POc *maosak ‘ripe, cooked’ (vol.1:157),
+  PMP *baqeRu        |    POc *paqoRu ‘new’ (vol.2:203),
+  PMP *qateluR       |    POc *qatoluR ‘egg’ (vol.4:278)
+  PMP *qulej-an      |    POc *quloc-a(n) ‘maggoty’ (vol.4:415).
 
-PMP *qalejaw/POc *qaco ‘daylight, sun’ (vol. 2, pp153–155) appears exceptionally to
-have lost the first consonant of the cluster, but there is evidence that a PAn variant *qajaw
-was ancestral to POc *qaco.
+PMP _*qalejaw_/POc _*qaco_ ‘daylight, sun’ (vol. 2, pp153–155) appears exceptionally to
+have lost the first consonant of the cluster, but there is evidence that a PAn variant _*qajaw_
+was ancestral to POc _*qaco_.
 
 1.8.2 Reinterpreting the origins and distribution of POc oral- and nasal-grade consonants
 
@@ -1426,30 +1424,18 @@ that had been recognised by Dempwolff (1927).
 
                                                                                             Introduction 33
 
-
-__table__
-         Dempwolff 1927                   Ross 1988 and vols 1–5                  The current proposal
-            *p    ~ *mp                 PMP          *p        *b           PMP        *p        *b *mp *mb
-PMP
-                  *b ~ *mb
-                                        Proto X           *p                Proto X         *p
-                                                                            ePOc       *p        *b      *ᵐb
-POc            *p     ~     *b          POc          *p         *b          POc        *p             *b
-              (O)          (N)                      (O)        (N)
-
-(O) = “oral grade”; (N) = “nasal grade”.
-            Figure 1.6 Three analyses of the phonological history of POc *p and *b
+Figure 1.6: Three analyses of the phonological history of POc *p and *b
 
     Dempwolff inferred that PMP *p and *b, for example, merged as POc *p, while PMP
 *mp and *mb merged as POc *b.28 He made parallel assumptions about PMP *k/*g
-versus PMP *ŋk/*ŋg, and PMP *s/*z/*j versus PMP *ns/*nz/*nj.29 He also assumed that,
+versus PMP *ŋk/*ŋg, and PMP *s/*z/*j versus PMP *ns/*nz/*nj.[29] He also assumed that,
 e.g., PMP *p and *mp, or *b and *mb, were in free variation and that they became
 fossilised randomly in each Oceanic daughter-language, such that a word might begin with
 a reflex of *p in one daughter-language but a reflex of *mp in another.
 
     Despite the obvious improbability of this assumption and the frequent discussions of
 consonant grade, reviewed by Grace (1990), the randomness assumption was maintained in
-some form until the publication of Ross (1988).30 The latter found that in the vast majority of
+some form until the publication of Ross (1988).[30] The latter found that in the vast majority of
 POc etyma with one or more “graded” consonants, the grade of each consonant can be
 reconstructed unambiguously because its Oceanic reflexes agree in grade, a finding supported
 by the cognate sets in the present work. The illusion of randomness had two sources. First,
@@ -1506,7 +1492,7 @@ Figure 1.6, where the grey of the prenasalised obstruents indicates their rarity
 1.8.2.1 The POc voiceless and voiced obstruents
 
    Our database of POc reconstructions from volumes 1–5, along with their PMP ancestral
-forms (drawn directly from the ACD), contains 729 etyma.31 In total these reconstructions
+forms (drawn directly from the ACD), contains 729 etyma.[31] In total these reconstructions
 contain 429 initial and medial instances of the the PMP obstruents listed in the leftmost
 column of Table 1.6. The columns headed ‘> POc’ show the voiceless and voiced
 outcomes of the PMP phonemes (prenasalised ePOc outcomes are discussed in the next
@@ -1514,17 +1500,19 @@ subsection). To the right of each POc obstruent in Table 1.6 are shown its numbe
 instances as an absolute figure and as a percentage of the PMP obstruent in the leftmost
 column.
 
-      Table 1.6. Instances of PMP obstruents and their POc voiceless and voiced reflexes
-                                   POc voiceless reflexes POc voiced reflexes
-                   PMP      total > POc       total    % > POc total        %
-                   *p          94 *p            82 87.2 *b          12 12.8
-                   *b         128 *p           101 78.9 *b          27 21.1
-                   *s          75 *s            69 92.0 *j            6    8.0
-                   *z          14 *s            10 71.4 *j            4 28.6
-                   *-j-        17 *-c-          13 76.5 *-j-          4 23.5
-                   *k          93 *k            91 97.8 *g            2    2.2
-                   *g           8 *k             8 100.0 (*g)         0
-                   *C         429 *Cvoiceless  374 87.2 *Cvoiced    55 12.8
+: Table 1.6. Instances of PMP obstruents and their POc voiceless and voiced reflexes
+
+__table__
+        |         | POc voiceless reflexes | | | POc voiced reflexes | |
+  PMP   |   total | > POc       | total|    %  | > POc    | total  |       %
+  *p    |      94 | *p          |   82 | 87.2  | *b       |    12  | 12.8
+  *b    |     128 | *p          |  101 | 78.9  | *b       |    27  | 21.1
+  *s    |      75 | *s          |   69 | 92.0  | *j       |      6 |    8.0
+  *z    |      14 | *s          |   10 | 71.4  | *j       |      4 |  28.6
+  *-j-  |      17 | *-c-        |   13 | 76.5  | *-j-     |      4 |  23.5
+  *k    |      93 | *k          |   91 | 97.8  | *g       |      2 |    2.2
+  *g    |       8 | *k          |    8 | 100.0 | (*g)     |     0  |
+  *C    |     429 | *Cvoiceless |  374 | 87.2  | *Cvoiced |    55  |  12.8
 
 
 [31] This total excludes POc reconstructions for which no ancestor was found in the ACD.
@@ -1564,22 +1552,22 @@ rather than voiced outcomes in Table 1.7. The PMP clusters are shown in the tabl
 result of reduplication of a monosyllable, e.g., PAn/PMP *demdem ‘dark, gloomy,
 overcast’, attested with -md- in Formosan and many Philippine reflexes (ACD), but
 becoming *dendem at some intermediate interstage and thence POc *rodrom (vol.2:308).
-POc *-dr- is a unitary phoneme reflecting earlier *-nd- (PCEMP *-nd- according to Blust
-1977b).
+POc *-dr- is a unitary phoneme reflecting earlier *-nd- (PCEMP *-nd- according to Blust 1977b).
 
-       Table 1.7. Instances of PMP nasal + obstruent clusters and their POc reflexes
-                                           POc voiceless    ePOc prenasalised
-                                             reflexes           reflexes
-                     PMP           total   > POc    total   > ePOc        total
-                     *-Np-            4    *-p-        2    *-ᵐb-            2
-                     *-Nb-           12    *-p-        5    *-ᵐb-            7
-                     *-Nk-           13    *-k-        8    *-ᵑg-            5
-                     *-Ng-            2    *-k-        0    *-ᵑg-            2
-                     *-Nt-            6    *-t-        3    *-ⁿd-            3
-                     *-Nd-            3    *-r-        1    *-ⁿr-            2
-                     *-Ns-            2    *-s-        1    *-ñj-            1
-                     *-Nz-            1    *-s-        1    *-ñj-            0
-                     totals          44               21                    22
+: Table 1.7. Instances of PMP nasal + obstruent clusters and their POc reflexes
+
+__table__
+             |         |  POc voiceless reflexes | |   ePOc prenasalised reflexes | |
+  PMP        |   total |  > POc |   total          |  > ePOc   |     total
+  *-Np-      |      4  |  *-p-  |      2           |  *-ᵐb-    |        2
+  *-Nb-      |     12  |  *-p-  |      5           |  *-ᵐb-    |        7
+  *-Nk-      |     13  |  *-k-  |      8           |  *-ᵑg-    |        5
+  *-Ng-      |      2  |  *-k-  |      0           |  *-ᵑg-    |        2
+  *-Nt-      |      6  |  *-t-  |      3           |  *-ⁿd-    |        3
+  *-Nd-      |      3  |  *-r-  |      1           |  *-ⁿr-    |        2
+  *-Ns-      |      2  |  *-s-  |      1           |  *-ñj-    |        1
+  *-Nz-      |      1  |  *-s-  |      1           |  *-ñj-    |        0
+  totals     |     44  |        |     21           |           |       22
 
 36 Malcolm Ross, Andrew Pawley and Meredith Osmond
 
@@ -1594,10 +1582,11 @@ reduplications.
     The ACD includes just four PCEMP items which contain nasal + obstruent clusters and have
 no cognates outside CEMP. They are:[32]
 
-     PCEMP *tambu                POc *tabu       ‘forbidden, taboo’ (this volume, chapter 10)
-     PCEMP *kandoRa              POc *kadroRa ‘cuscus’ (vol. 4:225)
-     PCEMP *waŋka                POc *waga       ‘canoe’ (vol. 1:178)
-     PCEMP *mans[ə,a]r           POc *mʷaja(r,R) ‘bandicoot’ (vol. 4:228)
+__tablenh__
+     PCEMP *tambu          |      POc *tabu       | ‘forbidden, taboo’ (this volume, chapter 10)
+     PCEMP *kandoRa        |      POc *kadroRa    | ‘cuscus’ (vol. 4:225)
+     PCEMP *waŋka          |      POc *waga       | ‘canoe’ (vol. 1:178)
+     PCEMP *mans[ə,a]r     |      POc *mʷaja(r,R) | ‘bandicoot’ (vol. 4:228)
 
     Table 1.5 illustrates the fact that voiced and prenasalised obstruents are conventionally
 treated as a single—nasal-grade—POc category, as their reflexes in almost all Oceanic
@@ -1616,7 +1605,7 @@ grade” obstruents actually reflect PMP plain voiceless or voiced obstruents (T
 PMP nasal + obstruent clusters were always medial (Table 1.7). They never occurred
 initially.
 
-1.8.2.3 PMP *t, *d and *r
+1.8.2.3 PMP _*t_, _*d_ and _*r_
 
     We have seen that PMP *t and *d did not form a voiceless/voiced pair, as they had
 different points of articulation.
@@ -1641,7 +1630,7 @@ few reflexes of *-nt-.
     POc *r and *dr, outcomes of the split of PMP/Proto X *d, have conventionally been
 treated as one of the POc oral-/nasal-grade phoneme pairs (§1.8.2.1). Within the earlier
 framework this characterisation was correct, as the POc phonological contrast was
-evidently *[r] vs *[n(d)r].33 However, we have above recast the conventional POc oral-/
+evidently *[r] vs *[n(d)r].[33] However, we have above recast the conventional POc oral-/
 nasal-grade pairings as voiceless/voiced pairings. But the feature that distinguishes *dr
 from *r is prenasalisation, not voicing, so it does not belong to this pair set.
 
@@ -1672,18 +1661,51 @@ ancient retentions.[34] We refer to these five languages as the “distinction-r
 languages”.
 
    The obstruent series in the distinction-retaining languages are:
-     Mangap                    Sio                               Tami
-     p   t  k                  pʷ p          t     k             pʷ p        t     s     k      kʷ
-     b   d  g                  bʷ b          d     g             bʷ b        d     j     g      gʷ
-     ᵐb ⁿd ᵑg                  ᵐbʷ ᵐb        ⁿd    ᵑg            ᵐbʷ ᵐb      ⁿd    nj    ᵑg     ᵑgʷ
-                 Numbami                                Sudest
-                 p    t    s    k                       pʷ p     t    s     k     kʷ
-                 b    d    z    g                       bʷ b     d    j     g     gʷ
-                 -ᵐb- -ⁿd- -ⁿz- -ᵑg-                    ᵐbʷ ᵐb   ⁿd   nj    ᵑg    ᵑgʷ
+
+: Mangap
+
+__tablenh__
+     p  | t  | k
+     b  | d  | g
+     ᵐb |ⁿd  |ᵑg
+
+: Sio
+
+__tablenh__
+   pʷ | p      |     t  |    k
+   bʷ | b      |     d  |    g
+  ᵐbʷ | ᵐb     |    ⁿd  |   ᵑg
+
+: Tami
+
+__tablenh__
+   pʷ | p     |    t  |    s  |    k   |    kʷ
+   bʷ | b     |    d  |    j  |    g   |    gʷ
+  ᵐbʷ | ᵐb    |   ⁿd  |   nj  |   ᵑg   |   ᵑgʷ
+
+: Numbami
+
+__tablenh__
+                 p  |   t   |  s  |   k
+                 b  |   d   |  z  |   g
+               -ᵐb- | -ⁿd-  | -ⁿz- | -ᵑg-
+
+: Sudest
+
+__tablenh__
+    pʷ | p    |  t   |  s    |  k   |   kʷ
+    bʷ | b    |  d   |  j    |  g   |   gʷ
+   ᵐbʷ | ᵐb   | ⁿd   | nj    | ᵑg   |  ᵑgʷ
+
 
    A preliminary search for cognate sets reflecting POc etyma that include prenasalised
 consonants reveals an interesting pattern. A small group of etyma is almost always
 reflected with the prenasalised consonant intact, while a larger collection of etyma is
+reflected unpredictably with a mixture of plain voiced and prenasalised voiced reflexes.
+This larger collection suggests that in these items, plain and prenasalised consonants are
+gradually falling together into a single category. The membership of the small group of
+cognate sets is significant, as its members include some sets that reflect POc etyma that
+on independent evidence contained prenasalised obstruents in PMP or PCEMP.
 
 [33] The POc digraph ‹dr› was adopted from Fijian orthography to represent POc *[ndr], the reflex of *dr in
    some Admiralties languages (Ross 1988:322) and in most Fijian dialects (Geraghty 1983:184).
@@ -1693,33 +1715,29 @@ reflected with the prenasalised consonant intact, while a larger collection of e
 38 Malcolm Ross, Andrew Pawley and Meredith Osmond
 
 
-reflected unpredictably with a mixture of plain voiced and prenasalised voiced reflexes.
-This larger collection suggests that in these items, plain and prenasalised consonants are
-gradually falling together into a single category. The membership of the small group of
-cognate sets is significant, as its members include some sets that reflect POc etyma that
-on independent evidence contained prenasalised obstruents in PMP or PCEMP.
-
    Thus Blust (1977a) reconstructs PMP possessor suffixes that were prenasalised
 because they consisted of the morph ni + pronoun. They retain their prenasalised
 obstruents in ePOc:
 
-     *-ᵑgu     P:1SG        < PMP *-ŋku < *=ni-ku
-     *-ⁿda     P:1INC.PL    < PMP *-nta < *=ni-ta
-     *-dra     P:3PL        < PMP *-nda < *=ni-da
+__tablenh__
+     *-ᵑgu  |   P:1SG      |  < PMP *-ŋku < *=ni-ku
+     *-ⁿda  |   P:1INC.PL  |  < PMP *-nta < *=ni-ta
+     *-dra  |   P:3PL      |  < PMP *-nda < *=ni-da
 
 The first two of these are reflected in the distinction-retaining languages. The P:3PL
-suffix was replaced by PWOc *-dri.35 At some point prenasalisation has been copied
+suffix was replaced by PWOc *-dri.[35] At some point prenasalisation has been copied
 onto this etymon.
 
-                  P:1SG     P:1INC.PL     P:3PL
-     PMP          *-ŋku     *-nta         *-nda
-     ePOc         *-ᵑgu     *-ⁿda         *-ⁿra
-     POc          *-gu      *-da          *-dra, PWOc *-dri
-     Mangap       -ŋ        -ndV          -n
-     Sio          -ŋgu      -nda          -nzi
-     Tami         -ŋ        -n            -n
-     Numbami      -ŋgi      -ndi          -ndi
-     Sudest       -ŋgu      -nda          -nji
+__table__
+             |     P:1SG  |   P:1INC.PL |    P:3PL
+     PMP     |     *-ŋku  |   *-nta     |    *-nda
+     ePOc    |     *-ᵑgu  |   *-ⁿda     |    *-ⁿra
+     POc     |     *-gu   |   *-da      |    *-dra, PWOc *-dri
+     Mangap  |     -ŋ     |   -ndV      |    -n
+     Sio     |     -ŋgu   |   -nda      |    -nzi
+     Tami    |     -ŋ     |   -n        |    -n
+     Numbami |     -ŋgi   |   -ndi      |    -ndi
+     Sudest  |     -ŋgu   |   -nda      |    -nji
 
 Further etyma with independent evidence of PMP or PCEMP prenasalised obstruents
 and reflected in the distinction-retaining languages are given below. A few comments are
@@ -1727,15 +1745,16 @@ necessary. The blanks represent cases where, as far as we know, the etymon is no
 reflected in the relevant language. This pattern reflects the level of lexical replacement
 in Oceanic languages around the coasts of New Guinea.
 
-               ‘pandanus’            ‘sago’          ‘canoe’       ‘betelnut’    ‘banana’
-     PMP/PCEMP *paŋdan               *R(a,u)mbia     *waŋka        *buaq         *punti
-     ePOc      *paⁿran               *Raᵐbia         waᵑga         *ᵐbuaq        puⁿdi
-     POc       *padran               *Rabia          *waga         *buaq         *pudi
-     Mangap            pānda         —               wōŋgo         mbu           pin
-     Sio               ponda         rambia          woŋga         —             —
-     Tami              —             lambi           waŋ           mbu           pun
-     Numbami           —             —               waŋga         buwa          undi
-     Sudest            —             mbi             waŋga         —             —
+__table__
+              | ‘pandanus’        |    ‘sago’      |    ‘canoe’  |     ‘betelnut’ |   ‘banana’
+     PMP/PCEMP| *paŋdan           |    *R(a,u)mbia |    *waŋka   |     *buaq      |   *punti
+     ePOc     | *paⁿran           |    *Raᵐbia     |    waᵑga    |     *ᵐbuaq     |   puⁿdi
+     POc      | *padran           |    *Rabia      |    *waga    |     *buaq      |   *pudi
+     Mangap   |         pānda     |    —           |    wōŋgo    |     mbu        |   pin
+     Sio      |         ponda     |    rambia      |    woŋga    |     —          |   —
+     Tami     |         —         |    lambi       |    waŋ      |     mbu        |   pun
+     Numbami  |         —         |    —           |    waŋga    |     buwa       |   undi
+     Sudest   |         —         |    mbi         |    waŋga    |     —          |   —
 
 PMP *paŋdan acquired its nasal + stop sequence by losing *-u- from PAn *paŋudaN,
 leaving no doubt that the POc form had a prenasalised consonant. The evidence for the
@@ -1838,7 +1857,7 @@ innovations across subgroups, and thus no evidence for a putative Proto Central 
 Polynesian.
 
     Blust (1993, 2009) views the CMP languages as a linkage on the basis of innovations that
-chain (§1.4.3.1) various groups together,38 but Grimes & Edwards find little evidence to
+chain (§1.4.3.1) various groups together,[38] but Grimes & Edwards find little evidence to
 support such an analysis. Blust’s arguments for PCEMP have evoked vigorous criticism
 (Donohue & Grimes 2008; Schapper 2011) and responses (Blust 2009, 2012). The lack of
 evidence for Proto Central Malayo-Polynesian logically entails abandoning PCEMP as well,
@@ -1886,9 +1905,10 @@ Might not the next dictionary of a non-EMP language include a cognate that rende
 innovation non-exclusive and thereby non-probative? Of the 53 innovations, Ross (in
 prep.) rejects 32, or 60%, for the following reasons:
 
+__block__
 •     Eight are also found in one of the CMP groups to the west and south of SHWNG.
       The groups are, in Grimes & Edwards’ terminology, Seram-Tanimbar-Bomberai (6
-      innovations), Ambon-Seram (2), and Sula-Buru (1) (Map 1.6).40
+      innovations), Ambon-Seram (2), and Sula-Buru (1) (Map 1.6).[40]
 •     Seven have cognates in WMP languages.
 •     For 14, Ross was unable to verify the supporting data. Their PMP reconstructions
       are absent from the ACD, implying that Blust later abandoned them.
@@ -1914,7 +1934,7 @@ languages of “linguistic Wallacea” (Schapper 2016), or, more simply in the p
 as Wallacean.
 
     Table 1.8 shows innovations in consonants in the protolanguages of Oceanic and various
-Wallacean subgroups including SHWNG and others clustered close to it.41 The table makes
+Wallacean subgroups including SHWNG and others clustered close to it.[41] The table makes
 no reference to innovations that occur in smaller subgroups within those shown. Often one
 or more of the innovations listed in the table does not occur in a subgroup’s parent language
 but does occur in lower-order subgroup(s) within it. This is part and parcel of the Wallacean
@@ -1934,38 +1954,36 @@ pressures on similar consonant systems is as likely a cause as shared inheritanc
 : Table 1.8. Consonant innovations in the parent languages of Oceanic and Wallacean subgroups (key beneath table)
 
 __table__
-                                           SH-
-             PMP >                Oc                  AS       STB       Aru     SuBu
-                                           WNG
-             *p > *f                        yes        yes       yes      init
-             *p > *f > *h                                                 med
-             *p > *b              some
-             *b > *p|*β           some       yes                 yes       yes
-             *t > *s/_*i                     yes
-             *mp/*mb > *ᵐb        some       yes                 yes        ?
-             *mp/*mb > *ᵐp                             yes
-             *nt/*nd > *ⁿd                   yes       yes       yes       yes
-             *d > *d-r-           some       yes       yes
-             *d > *r              some                           yes       yes      yes
-             *d > *dr [ⁿr]        some
-             *d/*z > *d                                yes
-             *d/*z > *r                                yes
-             *d/*l > *r                      yes
-             *-j-/*s > *s                    yes
-             *-j-/*s > *j [ɟ]     some
-             *-j-/*l > *l                              yes                         some
-             *-j- > 0̸                                                             some
-             *-j-/*R > *R                              yes                 yes
-             *z/*s > *s            yes
-             *z/*y merge                                                   yes
-             *ŋ > *n                                   yes
-             *q > *0̸                        yes      some                 yes      yes
-             *qa- etc lost                   yes      some                 yes      yes
-           • Oc = Oceanic; AS = Ambon-Seram; STB = Seram-Tanimbar-Bomberai; SuBu
-             = Sula-Buru.
-           • ‘some’ indicates that the change unpredictably applies to some etyma but not
-             others;
-           • an empty cell means ‘no’.
+             PMP >            |    Oc    |    SHWNG    |        AS |       STB |       Aru |     SuBu
+             *p > *f          |          |     yes     |    yes    |    yes    |   init    |
+             *p > *f > *h     |          |             |           |           |   med     |
+             *p > *b          |    some  |             |           |           |           |
+             *b > *p|*β       |    some  |      yes    |           |    yes    |    yes    |
+             *t > *s/_*i      |          |      yes    |           |           |           |
+             *mp/*mb > *ᵐb    |    some  |      yes    |           |    yes    |     ?     |
+             *mp/*mb > *ᵐp    |          |             |    yes    |           |           |
+             *nt/*nd > *ⁿd    |          |      yes    |    yes    |    yes    |    yes    |
+             *d > *d-r-       |    some  |      yes    |    yes    |           |           |
+             *d > *r          |    some  |             |           |    yes    |    yes    |   yes
+             *d > *dr [ⁿr]    |    some  |             |           |           |           |
+             *d/*z > *d       |          |             |    yes    |           |           |
+             *d/*z > *r       |          |             |    yes    |           |           |
+             *d/*l > *r       |          |      yes    |           |           |           |
+             *-j-/*s > *s     |          |      yes    |           |           |           |
+             *-j-/*s > *j [ɟ] |    some  |             |           |           |           |
+             *-j-/*l > *l     |          |             |    yes    |           |           |  some
+             *-j- > 0̸         |          |             |           |           |           | some
+             *-j-/*R > *R      |          |             |   yes     |           |   yes     |
+             *z/*s > *s        |    yes   |             |           |           |           |
+             *z/*y merge       |          |             |           |           |   yes     |
+             *ŋ > *n           |          |             |   yes     |           |           |
+             *q > *0̸          |          |     yes     |  some     |           |   yes     |  yes
+             *qa- etc lost     |          |     yes     |  some     |           |   yes     |  yes
+
+__block__
+• Oc = Oceanic; AS = Ambon-Seram; STB = Seram-Tanimbar-Bomberai; SuBu = Sula-Buru.
+• ‘some’ indicates that the change unpredictably applies to some etyma but not others;
+• an empty cell means ‘no’.
 
    The innovation listed as ‘*qa- etc lost’ in the bottom row of Table 1.8 needs an
 explanation. It refers to the fact that words of three or more syllables of which the first PMP
@@ -2009,20 +2027,20 @@ ePOc have three labial consonants, but they have developed along different route
 : Table 1.9. PMP obstruents and their PSHWNG and POc reflexes
 
 __table__
-                                   PMP                PSHWNG           POc
-                    Bilabial       *p                 *f               *p/*b
-                                   *b                 *p               *p/*b
-                                   *-Np-/*-Nb-        *b               *p/*ᵐb
-                    Dental         *t                 *t               *t
-                                   *-Nt-               *d               *ⁿd
-                    Alveolar       *d                 *r               *r/*dr
-                                   *-Nd-               *d              *dr
-                    Alveolar       *s                 *s               *s/*j
-                                   *z                 *z               *s/*j
-                                   *-Ns-/*-Nz-        ?                *s/*ñj ?
-                    Velar          *k                 *k               *k/*g ?
-                                   *g                 ?                *k
-                                   -Nk-/*-Ng-         *g                *ᵑg
+                               |    PMP           |     PSHWNG  |         POc
+                    Bilabial   |    *p            |     *f      |         *p/*b
+                               |    *b            |     *p      |         *p/*b
+                               |    *-Np-/*-Nb-   |     *b      |         *p/*ᵐb
+                    Dental     |    *t            |     *t      |         *t
+                               |    *-Nt-         |      *d     |          *ⁿd
+                    Alveolar   |    *d            |     *r      |         *r/*dr
+                               |    *-Nd-         |      *d     |         *dr
+                    Alveolar   |    *s            |     *s      |         *s/*j
+                               |    *z            |     *z      |         *s/*j
+                               |    *-Ns-/*-Nz-   |     ?       |         *s/*ñj ?
+                    Velar      |    *k            |     *k      |         *k/*g ?
+                               |    *g            |     ?       |         *k
+                               |    -Nk-/*-Ng-    |     *g      |          *ᵑg
 
 
 [42] The term “various” in Figure 1.7 refers to the fact that phonemes reflecting PMP nasal + obstruent
@@ -2031,13 +2049,6 @@ __table__
      reduplication of a syllable with a final nasal (§1.8.2.2).
 
                                                                             Introduction 45
-
-__table__
-         PMP            *p *b                       PMP        *p *b
-         various                *mp *mb             various            *mp *mb
-                                                    Proto X      *p
-                                                    ePOc       *p *b            *ᵐb
-         PSHWNG         *f *p      *b               POc        *p          *b
 
 Figure 1.7: The phonological histories of PSHWNG and POc reflexes of PMP *p and *b
 
@@ -2058,19 +2069,6 @@ that Blust’s PEMP hypothesis is not valid, even though it was perfectly reason
 it was proposed forty-five years ago. The question is, what do we replace it with? It is
 now obvious that it is not a Wallacean offshoot, so where did it come from,
 genealogically? We don’t know.
-
-__pre__
-                   Proto Austronesian
-
-            Formosan                 Proto
-            languages           Malayo-Polynesian
-
-                    Western Malayo-             ???????
-                      Polynesian
-                      languages
-
-                                   Wallacean               Proto Oceanic
-                                   languages
 
 Figure 1.8: Schematic diagram showing the implications of our analysis for the genealogy of the Austronesian family.
 
@@ -2103,8 +2101,8 @@ system to which they belonged.
 
     A number of linguists and anthropologists have treated kinship terms as a window into the
 social organisation of present and past kinship systems. Works that reconstruct Oceanic social
-organisation in this way include Rivers (1914), Blust (1981a), Pawley & Green (1984), Hage
-(1999, 2001a, ch.3 of this volume) and Turner (2007). Moving further back in time, early
+organisation in this way include Rivers (1914), Blust (1981a), Pawley & Green (1984),
+Hage (1999, 2001a, ch.3 of this volume) and Turner (2007). Moving further back in time, early
 Austronesian kinship systems are reconstructed by Blust (1980a, 1980b, 1994).
 
     In this chapter we touch on the reconstruction of social organisation only as it relates to
@@ -2127,11 +2125,11 @@ reprinted as chapter 3 of this volume.
 48 Malcolm Ross and Jeffrey C. Marck
 
 
-    This chapter builds on earlier attempts to reconstruct a POc kinship terminology. Wilhelm
-Milke’s 1938 paper on POc sibling terms built on a collection of data remarkable at the time,
+    This chapter builds on earlier attempts to reconstruct a POc kinship terminology.
+Wilhelm Milke’s 1938 paper on POc sibling terms built on a collection of data remarkable at the time,
 and was expanded twenty years later (Milke 1958a) into a full reconstruction of the POc
-terminology. He further added to it in later papers (Milke 1965:345–346; 1968:158–161,
-167). Pawley (1981) and Pawley & Green (1984) provide a listing of POc kinship terms
+terminology. He further added to it in later papers (Milke 1965:345–346; 1968:158–161, 167).
+Pawley (1981) and Pawley & Green (1984) provide a listing of POc kinship terms
 which largely follows Milke’s. Chowning (1991) includes a critique of previous
 reconstructions and presents a modified version of the POc terminology. The present chapter
 is based on a fresh analysis of a larger database that digitisation makes possible, with the
@@ -2158,15 +2156,15 @@ longest part (§2.4) reconstructs POc kinship terms themselves.
 
 2.2 Introducing Oceanic kinship terminologies
 
-   This section examines the terminology in Nakanai,3 a MM language of New Britain, as an
+   This section examines the terminology in Nakanai,[3] a MM language of New Britain, as an
 example of the distinctions often encoded in Oceanic terminologies. Figure 2.1 shows the
 Nakanai terms for blood relatives, Figure 2.2 for in-laws.
 
    Before turning to Nakanai, two matters need an explanation. First, as explained in vol.1:32
-and in vol.5:75-76, most Oceanic languages outside Polynesian4 reflect a POc grammatical
+and in vol.5:75-76, most Oceanic languages outside Polynesian[4] reflect a POc grammatical
 distinction between directly and indirectly possessed nouns (Lichtenberk 1985). A directly
 possessed POc noun took a possessor suffix, marked here with a following hyphen (e.g.
-*tama- ‘father’: *tama-gu ‘my father’, *tama-mu ‘your (singular) father’, *tama-ña ‘his/her
+_*tama-_ ‘father’: _*tama-gu_ ‘my father’, _*tama-mu_ ‘your (singular) father’, _*tama-ña_ ‘his/her
 father’ etc), whereas an indirectly possessed noun required no suffix. Directly possessed
 nouns are inalienable; that is, they are items that usually do not exist without a possessor.
 
@@ -2252,7 +2250,7 @@ sex parents. The classifying attribute of Oceanic kinship terms is discussed fur
     The last few paragraphs have touched on various attributes of kinship terminologies in
 general. Their presence or absence in Nakanai and English is summed up in Table 2.1.
 Presence is shown by a tick. A particular attribute may or may not be reflected in a
-terminology.6 For example, English has no terms that depend on sex relative to EGO.
+terminology.[6] For example, English has no terms that depend on sex relative to EGO.
 
     ‘Sex of linking relative’ refers to the contrast between, e.g. ‘father’s brother’ and
 ‘mother’s brother’.
@@ -2260,21 +2258,21 @@ terminology.6 For example, English has no terms that depend on sex relative to E
 : Table 2.1 Attributes and values of Nakanai and English terms
 
 __table__
-           Attribute                           Nakanai     English     values of terms
-           generations distinguished            ✔            ✔          –2, –1, 0, +1, +2 etc
-           sex of ALTER                         ✔            ✔          male, female, either
-           sex relative to EGO                  ✔                       same, opposite, either
-           sex of linking relative              ✔                       same, male, female
-           seniority within generation          ✔                       elder, younger, none
-           reciprocity across generations       ✔                       yes, no
-           affinity                             ✔            ✔          blood relative, in-law
+           Attribute                       |    Nakanai  |   English  |   values of terms
+           generations distinguished       |     ✔       |     ✔      |    –2, –1, 0, +1, +2 etc
+           sex of ALTER                    |     ✔       |     ✔      |    male, female, either
+           sex relative to EGO             |     ✔       |            |    same, opposite, either
+           sex of linking relative         |     ✔       |            |    same, male, female
+           seniority within generation     |     ✔       |            |    elder, younger, none
+           reciprocity across generations  |     ✔       |            |    yes, no
+           affinity                        |     ✔       |     ✔      |    blood relative, in-law
 
 
 2.2.2 ‘Parallel’, ‘cross’ and kinship notation
 
 As noted above, ethnographers use the terms ‘parallel cousin’ for cousins related to EGO via
 mother’s sister or father’s brother and ‘cross-cousin’ for those related to EGO via mother’s
-brother or father’s sister.7 Similar terms are sometimes used of siblings, such that a ‘s.s.
+brother or father’s sister.[7] Similar terms are sometimes used of siblings, such that a ‘s.s.
 sibling’ is a sibling of the same sex as EGO and a ‘cross-sibling’ or ‘cross-sex sibling’ is of the
 opposite sex to EGO. This usage is inconsistent, as ‘parallel cousin’ and ‘cross-cousin’ refer to
 their parent’s sex, not their own, and the latter sometimes needs to be stipulated as in ‘same-
@@ -2284,12 +2282,25 @@ sex cross-cousin’ or ‘opposite-sex cross-cousin’. For consistency’s sake
 : Table 2.2 Abbreviating kinship terms
 
 __tablenh__
-      M mother         (NB not ‘Male’)              Z     sister      (Z, as S is reserved for ‘son’)
-      F    father  (NB not ‘Female’)      B               brother
-      P    parent                         G               sibling  (Latin germāna, germānus)
-      W    wife                           D               daughter
-      H    husband (French épouse, époux) S               son
-      E    spouse                         C               child
+ M  |  mother |        (NB not ‘Male’)
+ F  |  father | (NB not ‘Female’)
+ P  |  parent |
+
+__tablenh__
+ Z  |   sister  |    (Z, as S is reserved for ‘son’)
+ B  |  brother  |
+ G  |   sibling | (Latin germāna, germānus)
+
+__tablenh__
+ W  |  wife    |
+ H  |  husband | (French épouse, époux)
+ E  |  spouse  |
+
+__tablenh__
+ D  |             daughter
+ S  |             son
+ C  |             child
+
 
 [6] Kroeber (1909) proposed the original list of attributes, put to use with small
     modifications in Murdock’s (1949) monumental survey of kinship terminologies.
@@ -2303,7 +2314,7 @@ __tablenh__
 
     In the interests of space, glosses in cognate sets (§2.4) and figures employ a version of the
 conventional ethnographic abbreviations for kinship terms. Its basic building blocks are
-shown in Table 2.2. In each of the four quadrants of the table, the third abbreviation, an
+shown in Table 2.2. In each of the four sub-table, the third abbreviation, an
 innovation borrowed from Hage (2001b), embraces the two categories above it. These
 capture Oceanic categories and reduce abbreviations so that, for example, ‘parent’s sibling’ is
 expressed as ‘PG’, instead of the more conventional ‘FB, MB, FZ, MZ’. The syntax of these
@@ -2312,10 +2323,11 @@ terms is straightforward, e.g. MZ ‘mother’s sister’, EGC ‘spouse’s sib
     There are four modifiers, each abbreviated as a lower-case letter preceding one of the
 letters in Table 2.2. They are:
 
-    s same sex as EGO
-    o opposite sex to EGO
-    y younger than EGO within EGO’s generation
-    e elder than EGO within EGO’s generation
+__tablenh__
+    s | same sex as EGO
+    o | opposite sex to EGO
+    y | younger than EGO within EGO’s generation
+    e | elder than EGO within EGO’s generation
 
 Thus oC ‘opposite sex child’; ysG ‘younger same-sex sibling’.
 
@@ -2336,10 +2348,10 @@ father’s children belong to his wife’s division. Among EGO’s closer relati
 members of EGO’s generation who are of another division are cross-cousins. Being of a
 different division from EGO, they are possible marriage candidates.
 
-    Nakanai kin terms for members of EGO’s generation as are shown in Table 2.4. The values
+    Nakanai kin terms for members of EGO’s generation are shown in Table 2.4. The values
 of the four relevant attributes (see Table 2.1) are shown in the four rightmost columns. Each
-term is defined by a unique set of values. The cross-cousin term lavo- encodes neither
-referent’s sex nor relative sex. Its salient feature is a social one: a lavo- can be married by
+term is defined by a unique set of values. The cross-cousin term _lavo-_ encodes neither
+referent’s sex nor relative sex. Its salient feature is a social one: a _lavo-_ can be married by
 EGO.
 
     The terms for members of G+1 and G–1 are shown in Table 2.4. Of the seven terms, four
@@ -2347,10 +2359,10 @@ are reciprocal, giving two entries, ‘+1’ and ‘–1’ in the ‘Generation
 terms in Table 2.3 are defined by a different set of attributes from those in Table 2.4, i.e.
 they make different distinctions.
 
-    Terms at G+1 in Figure 2.3 and at G–1 in Figure 2.4 follow a rule. The wife of any tama-
-is a tila- and vice versa. The wife of any hala- is an isa- and vice versa. This accounts, for
-example, for the fact that in Figure 2.3 father’s sister’s husband is labelled hala- and
-mother’s sister’s husband tama-.
+    Terms at G+1 in Figure 2.3 and at G–1 in Figure 2.4 follow a rule. The wife of any _tama-_
+is a _tila-_ and vice versa. The wife of any _hala-_ is an _isa-_ and vice versa. This accounts, for
+example, for the fact that in Figure 2.3 father’s sister’s husband is labelled _hala-_ and
+mother’s sister’s husband _tama-_.
 
 [8] In conventional notation, FBS, FBD, MZS, MZD.
 
@@ -2364,16 +2376,16 @@ Table 2.4 Nakanai kinship terms of EGO’s generation
                                                                                  Kinship terms 55
 
 
-    In Figure 2.1 there is just one reciprocal term for members of G+2 and G–2. This is tubu-
-‘grandparent/grandchild’. However, at G–2 tubu- is restricted to the grandchildren of EGO’s
+    In Figure 2.1 there is just one reciprocal term for members of G+2 and G–2. This is _tubu-_
+‘grandparent/grandchild’. However, at G–2 _tubu-_ is restricted to the grandchildren of EGO’s
 s.s. siblings and s.s. parallel cousins, whilst the grandchildren of o.s. siblings and o.s. parallel
-cousins are labelled lavo-. This also seems to be rule-governed. Because Nakanai society is
-matrilineal and EGO’s spouse is of a different division from ego, male EGO’s latu- ‘children’
-are not of his lineage or division, but his sister’s children, hala-, are. The situation is reversed
-if EGO is female: latu- are of her division, but isa- are not. The rule then stipulates one uses
-tubu- for the child of one’s latu-, but lavo- for the child of one’s hala- or isa-.
+cousins are labelled _lavo-_. This also seems to be rule-governed. Because Nakanai society is
+matrilineal and EGO’s spouse is of a different division from ego, male EGO’s _latu-_ ‘children’
+are not of his lineage or division, but his sister’s children, _hala-_, are. The situation is reversed
+if EGO is female: _latu-_ are of her division, but _isa-_ are not. The rule then stipulates one uses
+_tubu-_ for the child of one’s _latu-_, but _lavo-_ for the child of one’s _hala-_ or _isa-_.
 
-    The application of tubu- to the children of one’s cross-cousins, i.e. relatives of the same
+    The application of _tubu-_ to the children of one’s cross-cousins, i.e. relatives of the same
 generation as one’s children, not one’s grandchildren, is obscure, but is touched on in §2.3.3.
 
     In many Oceanic cultures the mother’s oldest living brother has the greatest authority
@@ -2381,7 +2393,7 @@ within his matriline to instruct his sister’s children on societal matters and
 about matters such as their marriages. The way in which this authority relates to that of the
 father, who does not belong to his children’s division, varies from society to society. The role
 of the mother’s oldest brother means that there is typically a dedicated term for mother’s
-brothers. In Nakanai this is hala-. The fact that in many Oceanic cultures mother’s oldest
+brothers. In Nakanai this is _hala-_. The fact that in many Oceanic cultures mother’s oldest
 brother had or has significant responsibilities towards his sister’s children (♂ZC) is enshrined
 in a special term that a male EGO uses to refer to those children. It also captures the fact that in
 a matrilineal society a man’s sister’s son is his heir. The special term for sister’s son/sister’s
@@ -2391,8 +2403,9 @@ child is sometimes the term for MB, used reciprocally, as it is in Nakanai (see 
     Figures 2.1 and 2.2 and Tables 2.3 and 2.4 are unavoidably limited in scope, and the
 classificatory senses of the terms are not presented fully. Classifying terms are wide in scope.
 Indeed, most cover a theoretically unbounded set of relationships. How can one capture the
-sets that these glosses represent? For tama-, for example, an exhaustive definition might be:
+sets that these glosses represent? For _tama-_, for example, an exhaustive definition might be:
 
+__block__
 • male blood relative of EGO’s father’s generation, related to EGO through EGO’s father’s
      male ancestors and their male descendants; and
 • husband of female blood relative of EGO’s mother’s generation; the female relative is
@@ -2401,12 +2414,12 @@ sets that these glosses represent? For tama-, for example, an exhaustive definit
    This definition includes ‘father’ and ‘father’s brother’ as primary referents. Both are
 grandfather’s sons, or FFS. They and grandfather’s brother’s son are great-grandfather’s
 grandsons—and so on. Tracking back through ego’s ancestry using the first part of the
-definition gives a set of glosses for tama-: FFS, FFFSS, FFFFSSS and so on, abbreviated as
+definition gives a set of glosses for _tama-_: FFS, FFFSS, FFFFSSS and so on, abbreviated as
 FnFSn, where the two instances of n are equal. Doing the same with the second part gives
 MnMDnH. Glosses of this kind, not used elsewhere in this chapter, serve to show that
 classifying terms denote theoretically unbounded but definable classes in many Oceanic
 languages, and are in this respect fundamentally different from English. The Tolai (MM), for
-example, who number in the tens of thousands, see themselves as all related9 and as members
+example, who number in the tens of thousands, see themselves as all related[9] and as members
 of one of the two Tolai divisions (moieties), and therefore as having a kin relationship with
 every other Tolai (Epstein 1969:122; Fingleton 1986:304).
 
@@ -2419,16 +2432,17 @@ every other Tolai (Epstein 1969:122; Fingleton 1986:304).
 56 Malcolm Ross and Jeffrey C. Marck
 
 
-   Ethnographers argue over whether a term like Nakanai tama- has one meaning or more
-than one.10 Those who argue for two or more meanings (polysemy) distinguish between a
-narrow sense, ‘father’, and a classificatory sense, FnFSn (Malinowski 1929:442, 495–96, 513,
-527; Lounsbury 1965; Scheffler 2003; Shapiro 2018). Those who argue for one meaning
-(monosemy) regard something like the definitions above as the appropriate gloss of tama-
+   Ethnographers argue over whether a term like Nakanai _tama-_ has one meaning or more
+than one.[10] Those who argue for two or more meanings (polysemy) distinguish between a
+narrow sense, ‘father’, and a classificatory sense, FnFSn (Malinowski 1929:442, 495–96, 513, 527;
+Lounsbury 1965; Scheffler 2003; Shapiro 2018). Those who argue for one meaning
+(monosemy) regard something like the definitions above as the appropriate gloss of _tama-_
 (Leach 1958, attacking Malinowski; Schneider 1984). The question for a linguist is, What
 would a dictionary definition look like, and why? Pawley & Sayaba’s draft dictionary of
 Wayan Fijian has the following (edited and reordered):
 
-     tama- 1. Father.
+__blockquote__
+     _tama-_ 1. Father.
      2. Classificatory father, one who is brother or classificatory brother to one’s father.
      3. Uncle, specifically the husband of one’s mother's sister or classificatory sister.
 
@@ -2482,12 +2496,12 @@ laterally as far as and including ego’s parents’ siblings are diagrammed, we
 representation of a terminology’s structure, as in Figures 2.3 and 2.4.
 
     Lowie (1928) categorised kinship terminologies, based on how they treat G+1. He called
-terminologies like Nakanai ‘bifurcate merging’—‘bifurcate’, because the terms for ‘mother’
+terminologies like Nakanai ‘__bifurcate merging__’—‘bifurcate’, because the terms for ‘mother’
 and ‘father’ are distinct, and ‘merging’ because each parent and her/his s.s. siblings are
 merged terminologically (called by the same term), but o.s. siblings are labelled differently
 (§2.2.3).
 
-    Lowie’s ‘generational’ category, where all uncles and aunts are treated as parents, turns
+    Lowie’s ‘__generational__’ category, where all uncles and aunts are treated as parents, turns
 up in a sprinkling of Oceanic languages (see later in this section).
 
 
@@ -2499,14 +2513,15 @@ Figure 2.4: Structure of English terminology, showing lineal terms
 
 
 
-    English, on the other hand, Lowie classed as ‘lineal’ because terms for ego’s ancestors and
+    English, on the other hand, Lowie classed as ‘__lineal__’ because terms for ego’s ancestors and
 descendants (‘lineal kin’), as well as siblings, are distinct from those for uncles, aunts and
 cousins (‘collateral kin’), which are all categorised by generation. There are no Oceanic lineal
 terminologies.[11]
 
    Murdock (1949) extends Lowie’s definitions by including G0 as well as G+1. Thus a
-bifurcate merging terminology is one in which is
+bifurcate merging terminology is one which is
 
+__block__
 1. bifurcate: there are distinct terms for ‘mother’ and ‘father’ (M ≠ F);
 2. merging:
      a.   EGO’s father and father’s brother are both called ‘father’ and EGO’s mother and
@@ -2553,64 +2568,34 @@ each breach occurs are shown in Table 2.5.
 
                                                                              Kinship terms 59
 
+: Table 2.5    Oceanic terminologies with bifurcate merging and breaches thereof
 
-       Table 2.5    Oceanic terminologies with bifurcate merging and breaches thereof
-         Bifurcate merging              FZ = M              FZ = M and      PGC = G
-                                                            MB = F
-Adm    Mussau, Sori, Lele, Pak,         Yapese              —               —
-       Baluan, Lou
-SJ and Yabem, Bukawa, Middle            Sobei, Wogeo,       —               o.s: Takia, Adzera,
-NNG Watut                               Mapos Buang                         Mapos Buang
-PT     Kilivila, Muyuw, Dobu,           Kalauna, Tubetube   N Mekeo         Bwaidoga,
-       Galea, Sudest,                                                       Sinaugoro (Saroa),
-                                                                            Motu, Roro, N
-                                                                            Mekeo
-MM       Nakanai, W Kara,               Nehan, Petats,   Simbo              Vitu (o.s.), Mono-
-         Lakurumau, Nalik, Lihir,       Hahon, Mono-Alu,                    Alu, Varisi, Simbo,
-         Notsi, Lamusong, Lelet, Usen   Nduke, Roviana,                     Nduke, Roviana
-         Barok, Sursurunga, Patpatar,   Marovo, Varisi
-         Tolai (both)
-SES      NWGR,a Baegu, E Arosi          Bugotu, Gela,       —               W Guadalcanal
-                                        Lengo, Birao,                       (Gae), Lengo,
-                                        Longgu, Kwaio,                      To'aba'ita, Kwaio,
-                                        Sa'a, Fagani, W                     Fagani, W Arosi,
-                                        Arosi, Owa                          Owa
-NCV      Araki, Raga, Big Nambas, N     Loh, Mota, Akei,    —               Loh
-         Ambrym, Nguna,                 NE Ambae,
-                                        Nduindui, Vao,
-                                        Ninde, Sinesip
-SV       Kwamera                        Anejom              —               —
-NCal     Belep, Nyelâyu, Yuanga,        —                   —               Nengone, Drehu, Iaai
-         Kumak, Fwai, Pwaamei,
-         Bwatoo, Wahmwaang,
-         Cèmuhî, Paicî, Arhâ, Ajië,
-         Xârâcùù, Xaragure, Numèè,
-         Kwenyii
-Mic      —                              Nauruan,            Chuukese        Marshallese (s.s.),
-                                        Marshallese,                        Satawalese,
-                                        Satawalese                          Chuukese, Lamotrek
-Fij      Wayan, Vuda, NW Viti           Cakaudrove,         —               Tavua,
-         Levu, Deuba, Kadavu,           Macuata                             MacuataTokatoka
-         Bauan, Nadrau, Tokatoka,
-         Moala, Matailobau, Lakeba
-Pn exc   Ifira-Mele, W Futunan          Rennellese,         Pukapuka         Tongan, Tokelau, E
-EPn                                     Takuu,                               Futunan, Rennellese
-                                        Luangiua,                            (s.s.), Anuta,
-                                        Sikaiana                             Tikopia, Pileni,
-                                                                             Luangiua, Sikaiana
-EPn            —                        —                   Tahitian, Māori, Rapa, Maori,
-                                                            Rapa, Hawaiian Tahitian, Marquesan,
-                                                                             Hawaiian
+__table__
+           |   Bifurcate merging       |  FZ = M   |  FZ = M and MB = F    | PGC = G
+Adm        | Mussau, Sori, Lele, Pak, Baluan, Lou |         Yapese     |         —      |         —
+SJ and NNG |  Yabem, Bukawa, Middle Watut   | Sobei, Wogeo,  Mapos Buang |       —      | o.s: _Takia_, _Adzera_, _Mapos Buang_
+PT         | Kilivila, Muyuw, Dobu, Galea, Sudest  |  Kalauna, Tubetube  | N Mekeo  | Bwaidoga, Sinaugoro (Saroa), Motu, Roro, N Mekeo
+MM         | Nakanai, W Kara, Lakurumau, Nalik, Lihir, Notsi, Lamusong, Lelet, Usen Barok, Sursurunga, Patpatar, Tolai (both) |     Nehan, Petats, Hahon, Mono-Alu, Nduke, Roviana, Marovo, Varisi |  Simbo     |         _Vitu_ (o.s.), Mono-Alu, Varisi, Simbo, Nduke, Roviana
+SES        | NWGR,a Baegu, E Arosi   | Bugotu, Gela, Lengo, Birao, Longgu, Kwaio, Sa'a, Fagani, W  Arosi, Owa | — | W Guadalcanal (Gae), Lengo, To'aba'ita, Kwaio, Fagani, W Arosi, Owa
+NCV        | Araki, Raga, Big Nambas, N Ambrym, Nguna  | Loh, Mota, Akei, NE Ambae, Nduindui, Vao, Ninde, Sinesip | — | Loh
+SV         | Kwamera          |              Anejom        |      —        |       —
+NCal       | Belep, Nyelâyu, Yuanga, Kumak, Fwai, Pwaamei, Bwatoo, Wahmwaang, Cèmuhî, Paicî, Arhâ, Ajië, Xârâcùù, Xaragure, Numèè, Kwenyii | — | — | Nengone, Drehu, Iaai
+Mic        | — | Nauruan, Marshallese, Satawalese | Chuukese | _Marshallese_ (s.s.), Satawalese, Chuukese, Lamotrek
+Fij        | Wayan, Vuda, NW Viti Levu, Deuba, Kadavu, Bauan, Nadrau, Tokatoka, Moala, Matailobau, Lakeba | Cakaudrove, Macuata | — | Tavua, MacuataTokatoka
+Pn exc EPn |  Ifira-Mele, W Futunan | Rennellese, Takuu, Luangiua, Sikaiana  | Pukapuka | Tongan, Tokelau, E Futunan, _Rennellese_ (s.s.), Anuta, Tikopia, Pileni, Luangiua, Sikaiana
+EPn         |   —         |               —     | Tahitian, Māori, Rapa, Hawaiian | Rapa, Maori, Tahitian, Marquesan, Hawaiian
+
 a. NWGR = Rivers’ (1914) Northwest ‘Guadalcanar’.
+
 60 Malcolm Ross and Jeffrey C. Marck
 
 
      Taking (3a) first, two breaches occur:
 
-     i.   EGO’s father’s sister is called by the term for mother/mother’s sister (FZ = M: 44 cases);
-
-     ii. EGO’s father’s sister and mother’s brother are called respectively by the terms for
-         mother/mother’s sister and father/father’s brother (FZ = M, MB = F: 8 cases);
+__block__
+i.  EGO’s father’s sister is called by the term for mother/mother’s sister (FZ = M: 44 cases);
+ii. EGO’s father’s sister and mother’s brother are called respectively by the terms for
+    mother/mother’s sister and father/father’s brother (FZ = M, MB = F: 8 cases);
 
    The case numbers tells us that FZ = M occurs far more often than MB = F. Furthermore,
 there is an implicational relationship such that MB = F only occurs where FZ = M occurs,
@@ -2626,11 +2611,11 @@ happened in Proto NW Solomonic and was inherited by its member languages.
 
    Turning to (3b), three breaches occur:
 
-     iii. EGO’s cross-cousin is called by a term for sibling/parallel cousin (MBC = FBC = FZC
-          = MZC = G, i.e. PGC = G); this may apply to
-         • only s.s. cross-cousins (2 cases);
-         • only o.s. cross-cousins (4 cases);
-         • all cross-cousins (40 cases).
+__block__
+iii. EGO’s cross-cousin is called by a term for sibling/parallel cousin (MBC = FBC = FZC = MZC = G, i.e. PGC = G); this may apply to
+     • only s.s. cross-cousins (2 cases);
+     • only o.s. cross-cousins (4 cases);
+     • all cross-cousins (40 cases).
 
 Terminologies in which the breach applies only to s.s. or only to o.s. cross-cousins are
 shown in italics in the rightmost column of Table 2.5.13
@@ -2660,32 +2645,20 @@ tendency toward a generational structure (Table 2.6, column 1).
 : Table 2.6 Oceanic kinship terminologies that tend toward Lowie’s generational structure
 
 __table__
-           1                      2                     3                    4
-           Only PGC = G           Only PGC = G and      PGC = G and FZ =     PGC = G and FZ =
-                                  FZ = M                M and MB = F         M and MB = F and
-                                                                             M= F
-  Adm      —                      —                  —                       —
-  SJ and   Takia, Adzera (o.s.)   Mapos Buang (o.s.) —                       —
-  NNG
-  PT       Bwaidoga,              —                     N Mekeo              —
-           Sinaugoro (Saroa),
-           Motu, Roro
-  MM       Vitu (o.s.)            Mono-Alu, Nduke,      Simbo                —
-                                  Roviana, Varisi
-  SES      W Guadalcanal          Lengo, Kwaio,         —                    —
-           (Gae), To'aba'ita,     Fagani, W Arosi,
-                                  Owa
-  NCV      Loh                    Loh                   —                    —
-  SV       —                      —                     —                    —
-  NCal     Nengone, Drehu,        —                     —                    —
-           Iaai
-  Mic      Lamotrek               Marshallese (s.s.),   Chuukese             —
-                                  Satawalese
-  Fij     Tavua,                  Macuata, Koroalau     —                    —
-  Pn      Tongan, Tokelau,        —                     Rennellese (s.s.),   Pukapuka
-  exc EPn E Futunan,, Anuta,                            W Futunan, Takuu,
-          Tikopia, Pileni,                              Luangiua, Sikaiana
-  EPn     Marquesan               —                     Rapa, Maori          Tahitian, Hawaiian
+             | 1            |  2                      |  3                              |   4
+             | Only PGC = G | Only PGC = G and FZ = M | PGC = G and FZ = M and MB = F   | PGC = G and FZ = M and MB  F and M = F
+  Adm        | —            |          —              |    —                            | —
+  SJ and NNG | _Takia_, _Adzera_ (o.s.) | _Mapos Buang_ (o.s.) | —                      | —
+  PT         | Bwaidoga, Sinaugoro (Saroa), Motu, Roro | — | N Mekeo                    | —
+  MM         | _Vitu_ (o.s.) | Mono-Alu, Nduke, Roviana, Varisi | Simbo                 | —
+  SES        | W Guadalcanal (Gae), To'aba'ita | Lengo, Kwaio, Fagani, W Arosi, Owa | — | —
+  NCV        | Loh          | Loh                     | —                               | —
+  SV         | —            | —                       | —                               | —
+  NCal       | Nengone, Drehu, Iaai | —               | —                               | —
+  Mic        | Lamotrek     | _Marshallese_ (s.s.), Satawalese | Chuukese               | —
+  Fij        | Tavua        | Macuata, Koroalau       | —                               | —
+  Pn exc EPn | Tongan, Tokelau, E Futunan, Anuta, Tikopia, Pileni | — | _Rennellese_ (s.s.), W Futunan, Takuu, Luangiua, Sikaiana  | Pukapuka
+  EPn        | Marquesan    |      —                  |   Rapa, Maori                   | Tahitian, Hawaiian
 
    Two groups in Table 2.6 deserve comment. The first of these is the Central Papuan
 subgroup of PT. Sinaugoro, Motu, Roro and North Mekeo are the Central Papuan
@@ -2713,9 +2686,9 @@ structure in Murdock’s (1949) classification of kinship terminologies.
 
 62 Malcolm Ross and Jeffrey C. Marck
 
-        Figure 2.5 Structure of the Roro terminology, showing bifurcate merging terms
+Figure 2.5: Structure of the Roro terminology, showing bifurcate merging terms
 
-                        Figure 2.6 Structure of the N Mekeo terminology
+Figure 2.6: Structure of the N Mekeo terminology
 
                                                                                        Kinship terms 63
 
@@ -2741,44 +2714,62 @@ than EGO, but o.s. siblings are divided into female (hatavile-) and male (hatama
 
     There are thus three sibling distinctions in Oceanic languages:
 
+__block__
 •    relative sex: same sex as EGO vs opposite sex from EGO (SG VS OG)
 •    seniority: younger than EGO vs elder than EGO (yG vs eG)
 •    ALTER’s sex (Z vs B)
 
 Eleven configurations of these distinctions occur in Oceanic languages, and Table 2.7
-shows the number of times each configuration occurs in the sample.15 Column 1 shows whether
+shows the number of times each configuration occurs in the sample.[15] Column 1 shows whether
+a terminology makes the relative sex distinction (y[es] or n[o]). If it does, then there are
+entries in columns 2 to 5. Columns 2 and 4 show whether the seniority distinction is applied
+respectively to s.s. and o.s. siblings. Columns 3 and 5 do the same for ALTER’s sex. But if
+column 1 shows that a terminology lacks the relative sex distinction, then columns 4 and 5
+are blank, because o.s. siblings are referred to by the same terms as s.s. siblings. For example,
+Nakanai makes the s.s./o.s. distinction (column 1), the seniority distinction for s.s. siblings
+(column 2), and uses different o.s. terms according to ALTER’s sex (column 5). It is thus one of
+the 17 languages with the configuration in row 6. The column totals show that only four
+terminologies distinguish ALTER’s sex in the terms for s.s. siblings, and that only three
+distinguish seniority of o.s. siblings. The four configurations that include one of these
+distinctions are shown in grey and are presumably the outcomes of local accidents.[16]
+Theoretically, 20 configurations are possible, but only 11 occur in Table 2.7—or more
+properly ten, as row 9 contains question marks for unknown values.[17] Whilst one can
+speculate about the reasons for the absence or near-absence of certain configurations, it is
+clear that they reflect absences from the POc terminology (§2.3.5). Table 2.8 shows the
+languages in the six most attested categories in Table 2.7.
 
-             Table 2.7 Distributions of sibling distinctions across Oceanic languages
-                           1           2             3            4             5
-              config.    sG/oG      ysG/esG        sZ/sB       yoG/eoG       oZ/oB Totals
-                    1      y           n             n            n             n       42
-                    2      y           n             n            n             y        9
-                    3      y           n             n            y             n        2
-                    4      y           n             y            n             n        3
-                    5      y           y             n            n             n       38
-                    6      y           y             n            n             y       17
-                    7      y           y             n            y             n        1
-                    8      y           y             y            n             y        1
-                    9      y           y             n            ?             ?        8
-                  10       n           n             n            —            —         5
-                  11       n           y             n            —            —        12
-              Total y     121          77             4             3          27
-              Total n      17          61           134           110          86
-                                                                          Grand total: 138
+: Table 2.7 Distributions of sibling distinctions across Oceanic languages
 
-[14] As shown in Table 2.5 some languages extend the terms used for siblings and parallel cousins to cross-
-     cousins, but this is discussed in §2.3.1.
+__table__
+                        |   1     |      2     |        3    |        4      |       5  |
+              config.   | sG/oG   |   ysG/esG  |      sZ/sB  |     yoG/eoG   |    oZ/oB | Totals
+                    1   |   y     |      n     |        n    |        n      |       n  |     42
+                    2   |   y     |      n     |        n    |        n      |       y  |      9
+                    3   |   y     |      n     |        n    |        y      |       n  |      2
+                    4   |   y     |      n     |        y    |        n      |       n  |      3
+                    5   |   y     |      y     |        n    |        n      |       n  |     38
+                    6   |   y     |      y     |        n    |        n      |       y  |     17
+                    7   |   y     |      y     |        n    |        y      |       n  |      1
+                    8   |   y     |      y     |        y    |        n      |       y  |      1
+                    9   |   y     |      y     |        n    |        ?      |       ?  |      8
+                  10    |   n     |      n     |        n    |        —      |      —   |      5
+                  11    |   n     |      y     |        n    |        —      |      —   |     12
+              Total y   |  121    |      77    |         4   |          3    |      27  |
+              Total n   |   17    |      61    |       134   |        110    |      86  |
+                        |         |            |             |               | Grand total: | 138
+
+[14] As shown in Table 2.5 some languages extend the terms used for siblings and parallel cousins to
+cross-cousins, but this is discussed in §2.3.1.
 
 [15] The sample has 138 languages rather than 139, as sibling data for Akei are inadequate.
 
 64 Malcolm Ross and Jeffrey C. Marck
 
+: Table 2.8 Terminologies according to the better represented configurations in Table 2.7
 
-
-    Table 2.8 Terminologies according to the better represented configurations in Table 2.7
-        Config 1           Config 2     Config 5        Config 6    Config    Config 11
-                                                                    10
-Adm Sori, Lele                           Pak            Baluan, Lou Yapese    Mussau
+__table__
+        Config 1           Config 2     Config 5        Config 6     Config 10   Config 11
+Adm     Sori, Lele                      Pak             Baluan, Lou  Yapese      Mussau
 SJ and Takia, Adzera        Mapos Buang, Wogeo, Yabem,
 NNG                         Lakurumau, Middle Watut
                             Roviana,
@@ -2821,25 +2812,8 @@ EPn                                                     Rapa,
                                                         Tahitian,
                                                         Marquesan,
                                                         Hawaiian
+
                                                                                      Kinship terms 65
-
-
-a terminology makes the relative sex distinction (y[es] or n[o]). If it does, then there are
-entries in columns 2 to 5. Columns 2 and 4 show whether the seniority distinction is applied
-respectively to s.s. and o.s. siblings. Columns 3 and 5 do the same for ALTER’s sex. But if
-column 1 shows that a terminology lacks the relative sex distinction, then columns 4 and 5
-are blank, because o.s. siblings are referred to by the same terms as s.s. siblings. For example,
-Nakanai makes the s.s./o.s. distinction (column 1), the seniority distinction for s.s. siblings
-(column 2), and uses different o.s. terms according to ALTER’s sex (column 5). It is thus one of
-the 17 languages with the configuration in row 6. The column totals show that only four
-terminologies distinguish ALTER’s sex in the terms for s.s. siblings, and that only three
-distinguish seniority of o.s. siblings. The four configurations that include one of these
-distinctions are shown in grey and are presumably the outcomes of local accidents.16
-Theoretically, 20 configurations are possible, but only 11 occur in Table 2.7—or more
-properly ten, as row 9 contains question marks for unknown values.17 Whilst one can
-speculate about the reasons for the absence or near-absence of certain configurations, it is
-clear that they reflect absences from the POc terminology (§2.3.5). Table 2.8 shows the
-languages in the six most attested categories in Table 2.7.
 
    In the vast majority of Oceanic languages, terms for parallel cousins are identical to those
 for siblings, but there is a dimension that is not represented here. In some languages, as one
@@ -2857,10 +2831,10 @@ Strangely, perhaps, discussion of terms for children is necessarily preceded by 
 to terms for father’s sister and mother’s brother, a topic in the discussion of bifurcate merging
 (§2.3.1). Their relevance here is that ‘mother’s brother’ and ‘sister’s child’ are the same
 (reciprocal) term in some languages. In other scattered languages, ‘mother’s brother’ is the
-same term as ‘father’s sister’.18 However, these two categories almost never overlap: that is,
+same term as ‘father’s sister’.[18] However, these two categories almost never overlap: that is,
 there is no language in the sample in which ‘mother’s brother’, ‘father’s sister’ and ‘sister’s
 child’ are all the same term. Two exceptions are the Fijian dialects Moala and Lakeba, where
-FZ, MB and ♂ZC are all vuŋo-.
+FZ, MB and ♂ZC are all _vuŋo-_.
 
 [16] They are Sye (SV) and Nakoroka Fijian (config. 3), Patpatar and both Tolai dialects (MM, config. 4),
      Sobei (SJ, config. 7) and Bukawa (NNG, config 8).
@@ -2894,7 +2868,9 @@ but does not retain this meaning. It is also used reciprocally for ♂ZC.
 enshrined in the terminology: FZ and ♀BC are referred to by the same term. These languages
 are Muyuw, Galea, and Motu (PT), and Vitu and Nakanai (MM). However, terms used only by
 
-                          Table 2.9 Terms for male EGO’s sister’s child
+: Table 2.9 Terms for male EGO’s sister’s child
+
+__table__
             1                                 2                                 3
             MB = ♂ZC                          MB, ♂ZC                           MB, ♂ZC = C
  Adm        Yapese, Mussau, Lele, Pak,       Baluan, Lou                        Sori (sG)
@@ -2968,6 +2944,7 @@ and Chuukese (Mic).
 
    Data on ‘grandchild’ terms are more complete, and fall into two categories:
 
+__block__
 •   a ‘grandparent’ term is used reciprocally of both grandparents and grandchildren;
 •   there is a dedicated ‘grandchild’ term.
 
@@ -2985,14 +2962,14 @@ well as children.
 
 68 Malcolm Ross and Jeffrey C. Marck
 
-         Figure 2.7 Structure of the NE Ambae terminology, with bifurcate merging terms
+Figure 2.7: Structure of the NE Ambae terminology, with bifurcate merging terms
 
 
 2.3.3 Generational skewing
 
     A small number of languages in the sample have ‘cross’ terms with extended meanings
 that are mostly quite unlike those in Nakanai. These are exemplified by NE Ambae, a north
-Vanuatu language (Figure 2.7).19
+Vanuatu language (Figure 2.7).[19]
 
     Within the merged portion of the terminology, the structure of NE Ambae (Figure 2.7)
 differs from Nakanai (Figure 2.3) only in the unusual addition of tue- ‘s.s. sibling’ as a cover
@@ -3007,7 +2984,7 @@ the same way as the children of the three tama- in the merged portion of the fig
     The right-hand ‘cross’ portion of the terminology is different. The children of EGO’s
 mother’s brother are called natu- ‘child’, and their children vaɣabui- ‘grandchild’.
 
-    The technical term for this phenomenon is ‘generational skewing’. On the left of the
+    The technical term for this phenomenon is ‘__generational skewing__’. On the left of the
 figure, ‘mother’, ‘father’ and the two sibling terms are used of women a generation or more
 below EGO’s mother. On the right of the figure, ‘child’ and ‘grandchild’ are used of
 individuals a generation above EGO’s child and grandchild. Skewing is also found in various
@@ -3019,7 +2996,7 @@ Trautmann & Whiteley 2012).
 
                                                                              Kinship terms 69
 
-       Figure 2.8 The structures of the two states of the Dobu kinship terminology
+Figure 2.8: The structures of the two states of the Dobu kinship terminology
 
    There is a plentiful literature on generationally skewed terminologies, asking how they
 come into being and what function they serve. However, a few things seem reasonably clear.
@@ -3071,6 +3048,7 @@ Fortune’s account of Dobu and its historical role.
     To ‘qualify’ as a fully skewed system the changes illustrated by NE Ambae in Figure 2.7
 are expected:
 
+__block__
 1. on the father’s side
      a. father’s sister’s matrilineal female descendants (FZD, FZDD, FZDDD) are referred
         to with the same term as FZ;
@@ -4091,7 +4069,7 @@ __formgroup__
      NCV: Lolsiwoi        ri-si-               ‘mother’ (Lynch 1996)
      NCV: Araki           ra-rna-              ‘mother, mother’s sister’, FBW
      NCV: S Paamese       la-tino-             ‘mother’
-     SV: Kwamera          ri-nn̥ u-             ‘mother, mother’s sister’, FW, FBW, EFZ, FFZD
+     SV: Kwamera          ri-nn̥u-              ‘mother, mother’s sister’, FW, FBW, EFZ, FFZD
      SV: Anejom           ri-si-               ‘mother, mother’s sister’, MBW
 
 Reflexes of this same morpheme are also in north Vanuatu, prefixed to other terms referring
@@ -4191,10 +4169,10 @@ EPn languages have replaced dedicated terms for ‘father’ and ‘mother’ wi
 *matuqa plus a term meaning ‘male’ or ‘female’, as shown here.
 
 __formgroup__
-  Pn: Rapa               metūa vahine   ‘mother’
-  Pn: Rapa               metūa tāne     ‘father’, FB
-  Pn: Tahitian           metua vahine   ‘mother’
-  Pn: Tahitian           metua tane     ‘father’
+  Pn: Rapa               |metūa vahine|   ‘mother’
+  Pn: Rapa               |metūa tāne  |   ‘father’, FB
+  Pn: Tahitian           |metua vahine|   ‘mother’
+  Pn: Tahitian           |metua tane  |   ‘father’
   Pn: Hawaiian           makua-hine     ‘mother’
   Pn: Hawaiian           makua-kāne     ‘father’
 
@@ -4202,10 +4180,10 @@ Niue and Pukapuka appear to have acquired their terms from an EPn languages. The
 terrn matua is EPn in form, not Tongic.
 
 __formgroup__
-  Pn: Niue               matua fifine   ‘mother’
-  Pn: Niue               matua tāne     ‘father’
-  Pn: Pukapuka           matua wawine   ‘mother’
-  Pn: Pukapuka           matua tāne.    ‘father’
+  Pn: Niue               |matua fifine|   ‘mother’
+  Pn: Niue               |matua tāne  |   ‘father’
+  Pn: Pukapuka           |matua wawine|   ‘mother’
+  Pn: Pukapuka           |matua tāne|     ‘father’
 
 2.4.1.2.4   Parent’s sibling
 
@@ -7347,7 +7325,7 @@ __formgroup__
  Pn: E Futunan   seka               ‘commoner, untitled person, of low birth’
  Pn: E Uvean     kai-fenua          ‘commoner, peasant’ (lit. ‘person of the land’)
  Pn: Samoan      tū-fanua           ‘person of lower rank, commoner’ (fanua ‘land’)
- Pn: Samoan      tau-fanua          (1) ‘commoner’, (2) ‘owner of land’
+ Pn: Samoan      tau-fanua          (1) ‘commoner’; (2) ‘owner of land’
  Pn: Samoan      |taŋata lautele|   ‘commoner’ (lautele ‘common, ordinary’)
 -Outliers
  Pn: Nukuoro     |ŋati taŋata|      ‘ordinary person, commoner, one of slight social value’ (ŋati ‘worthless, empty, useless’)
@@ -8124,10 +8102,10 @@ __formgroup__
    SES: Sa’a               mʷala               ‘people, commoners (as opposed to chiefs)’
    NCV: Mota               mala                ‘bad, poor’ (often used in depreciation)
    Mic: Marshallese        wān                 ‘trivial, common, worthless’
-   Mic: Marshallese        aṛʷmec wān          ‘commoner’ (lit. ‘worthless person’)
+   Mic: Marshallese        |aṛʷmec wān|        ‘commoner’ (lit. ‘worthless person’)
    Mic: Mokilese           mʷāl                ‘useless, disadvantaged, low (socially)’
    Mic: Ponapean           mʷāl                ‘common, useless, of no consequence’
-   Mic: Ponapean           aramas mʷāl         ‘commoner’ (lit. ‘person of no consequence’)
+   Mic: Ponapean           |aramas mʷāl|       ‘commoner’ (lit. ‘person of no consequence’)
 
 
 4.6 Conclusion
@@ -8597,7 +8575,7 @@ __formgroup__
   PT:  Kiriwina     valu            ‘any place, land, village, uninhabited land’
   PT:  Molima       vanua           ‘house’
   PT:  Molima       vanua-pou       ‘residents of a village’
-  PT:  Motu         hanua           ‘village; in compounds, ‘world subject to diurnal cycle’
+  PT:  Motu         hanua           ‘village’; ‘world subject to diurnal cycle’ (in compounds)
   PT:  Mekeo        panua           ‘social division in a village’
   MM:  Lakalai      la-valua        ‘the men’
   MM:  Lakalai      valua-gu        ‘members of my club’ (_-gu_ ‘my)
@@ -8630,8 +8608,8 @@ __formgroup__
   SV:  Lenakel      na-uanu         ‘village’
   Mic: Woleaian     faẓüw           ‘land, island’
   Mic: Puluwat      fanɨ            ‘land, island, islet, country’
-  Fij: Bauan        vanua           ‘land, country, community, place, confederation of clans’; in compounds, ‘world’ subject to diurnal cycle
-  Fij: Rotuman      hanua           ‘land, country, place, native land, home, people’; in compounds ‘world subject to diurnal cycle’
+  Fij: Bauan        vanua           ‘land, country, community, place, confederation of clans’; ‘world subject to diurnal cycle’ (in compounds)
+  Fij: Rotuman      hanua           ‘land, country, place, native land, home, people’; ‘world subject to diurnal cycle’ (in compounds)
   Fij: Rotuman      |hanua noho|    ‘dwelling place, village’ (noho ‘dwell’)
   Pn:  Tongan       fonua           ‘land, country, territory, place, people (of the land), grave’
   Pn:  Samoan       fanua           ‘land, field’
@@ -12782,7 +12760,7 @@ __formgroup__
   SES: Ghari       mana       ‘truth, true, correct’
   SES: To’aba’ita  ma-mana    ‘be real, true; be efficacious, effective’
   SES: Lau         ma-mana    ‘be efficacious (of medicine), grow well (of trees), spiritually or magically powerful; prosperous, lucky, in good health; be true, fulfilled; impart spiritual or magical power; of ghost, empower a person’
-  Fij: Wayan       mana       ‘(of a person) be able to make things happen, be effective, have creative power; (of events which are predicted, wished or worked for) come true, happen be realised’; (n) ‘power to make things happen, creative power, the act of coming true’
+  Fij: Wayan       mana       ‘(of a person) be able to make things happen, be effective, have creative power; (of events which are predicted, wished or worked for) come true, happen be realised’; (N) ‘power to make things happen, creative power, the act of coming true’
 
    In the sense of ‘becoming true’ mana may be linked to its use in invocations to the gods as
 noted in the closely related languages of Simbo and Roviana, in parts of the SE Solomons,
@@ -17053,12 +17031,12 @@ __formgroup__
 
 11.6.3 Half moon
 
-Fewer languages have a term for the half moon (the ‘quarter moon’ in western phase terminol-
-ogy) and a number of them mean ‘a piece of the moon’.
+Fewer languages have a term for the half moon (the ‘quarter moon’ in western phase terminology)
+and a number of them mean ‘a piece of the moon’.
 
 __formgroup__
   Adm: Drehet                |kisiʔe puŋ        |     [moon piece]
-  NNG: Kairiru               |qareo mʷaŋ/valuŋ  |     [moon piece]
+  NNG: Kairiru               |qareo [mʷaŋ,valuŋ]  |     [moon piece]
   NNG: Bariai                |taiko ilia        |     [moon piece]
   NNG: Mutu                  |kaiyo sirivu      |     [moon piece]
   NNG: Yabem                 |ayoŋ ŋa-makɛŋ(gɛŋ)|     [moon its-piece]
@@ -19066,19 +19044,19 @@ __formgroup__
      Adm: Nyindrou         aña                  ‘think, say’
      Adm: Kele             pe                   ‘say, wish, intend’
      NNG: Yabem            -be                  ‘say, want, will, desire, like, mean, think, intend’
-     NNG: Numbami          -ᵑgo                 ‘say, scold (s.o.), tell (s.t.), talk (to s.o.), intend (to do s.t.)
+     NNG: Numbami          -ᵑgo                 ‘say, scold (s.o.), tell (s.t.), talk (to s.o.), intend (to do s.t.)’
      NNG: Bariai           oaga                 ‘think, say’
      NNG: Kaulong          vo                   ‘talk, say, speak; suppose, intend’
      NNG: Mangap           -so                  ‘say, speak, communicate, talk, tell; think’
      NNG: Kairiru          wot                  ‘say; intend, wish’
-     PT:  Iamalele         vo                   ‘say, think’; quotative marker (= C)
+     PT:  Iamalele         vo                   ‘say, think’; [quotative marker] (= C)
      MM: Nakanai           vei                  ‘think, opine, talk, tell, say’
      MM: Sursurunga        ŋo-                  ‘say, think’
      MM: Teop              boha                 ‘think, say’
      SES: Gela             ne                   ‘say, think’
      SES: To’aba’ita      sore-                 ‘say, think’
      SES: Kwaio           ili-                  ‘say, tell, think’
-     TM: Aiwoo            -kæ/kɒ-               (VI/VT) ‘say, want’
+     TM: Aiwoo            -kæ, kɒ-               (VI,VT) ‘say, want’
      NCV: Lamen           vere                  ‘say, want’
 
 [16] These are not serial verb constructions, as the two verbs of a SVC match in reality status (realis or irrealis).
@@ -20067,7 +20045,7 @@ child 3SG-wash-3SG-BEN-1SG
 ‘He washed the child for me.’ (Lichtenberk 1983b:69)
 
 __formgroup__
- Adm:      Wuvulu       i-na-ware-fan-au.          ‘She told me’ [3SG-RLS-talk-give-1SG]
+ Adm:      Wuvulu       i-na-ware-fan-au           ‘She told me’; [3SG-RLS-talk-give-1SG]
  NNG:      Kove         i-pa-ɣau                   ‘he gives me (s.t.)’
  NNG:      Gitua        van-gau                    ‘give me (s.t.)’
  NNG:      Bing         panu-au                    ‘give me (s.t.)’
@@ -22822,11 +22800,11 @@ numeral is followed by a reflex of *na-ña, which Pearce (2015) translates as �
 possessive classifier; *-ña p:3sg).
 
 __formgroup__
-  NCV: Tirax             NML na-n
-  NCV: Avava             itV-NML nan        applies to 2-5 (etymology of itV- is not known)
-  NCV: Avava             NML nan            applies to 6 upward
-  NCV: Neve’ei           NML-nen (NP)       applies to 6 upward
-  NCV: Unua              NML nen
+  NCV: Tirax             |NML na-n|      ‘NML of it’
+  NCV: Avava             |itV-NML nan|   ‘NML of it’       (applies to 2-5; etymology of _itV-_ is not known)
+  NCV: Avava             |NML nan|       ‘NML of it’       (applies to 6 upward)
+  NCV: Neve’ei           |NML-nen|   (NP)  ‘NML of it’       (applies to 6 upward)
+  NCV: Unua              |NML nen|  ‘NML of it’
 
 The corresponding structure occurs in Kove (NNG):
 
@@ -22905,12 +22883,12 @@ causative prefix (see above). The former add the instrumental nominalising prefi
 variety of nominalising morphemes.
 
 __formgroup__
-  PT:  Lala                i-va-NML-na        i- INSTRUMENTAL NOM; va- CAUS; -na P:3S
-  MM: Kubokota             v<in>a-NML         <in> NOM; va- CAUS
-  NCV: NE Ambae            kai-NML-ki         kai- CLF (fossil); -ki NOM
-  NCV: Apma                NML-an             -an NOM
-  NCV: Uripiv              NML-Vn             -Vn NOM
-  NCV: Nahavaq             naʔay-NML-yen naʔay- CLF (fossil); -yen NOM
+  PT:  Lala                i-va-NML-na        (i- INSTRUMENTAL NOM; va- CAUS; -na P:3S)
+  MM: Kubokota             v<in>a-NML         (<in> NOM; va- CAUS)
+  NCV: NE Ambae            kai-NML-ki         (kai- CLF (fossil); -ki NOM)
+  NCV: Apma                NML-an             (-an NOM)
+  NCV: Uripiv              NML-Vn             (-Vn NOM)
+  NCV: Nahavaq             |naʔay-NML-yen naʔay-|  (CLF (fossil); -yen NOM)
 
                                                            Numerals, classifiers and counting 479
 
@@ -26700,7 +26678,7 @@ terms for lengths greater than the fathom, but these are lost to us.
 
 16.6.1 The fathom
 
-16 When both arms are stretched out sideways, the fathom is the measurement from the
+When both arms are stretched out sideways, the fathom is the measurement from the
 fingertips of one hand to the fingertips of the other. In English this has become principally a
 nautical term (1.8288 metres = 6 feet), but in Oceanic languages the measurement was
 applied in many locations to a length of shell money. It was and remains the basic unit in
@@ -26713,7 +26691,7 @@ functions. POc *ropa was a noun, and POc *-ŋapa a numeral classifier.
 
 <
 PAn *depah ‘fathom’ (ACD)
-POc *ropa (n) ‘fathom: with arms extended, length from finger tips to finger tips’ (ACD); (v) ‘measure in fathoms’
+POc *ropa (N) ‘fathom: with arms extended, length from finger tips to finger tips’ (ACD); (v) ‘measure in fathoms’
   Adm: Seimat          kaha(ina)    ‘fathom, measure by fathoms’[4]
   Adm: Levei-Drehet    (a)lap       ‘span; e.g., distance between fingertips of a person's extended arms’
   NNG: Tuam            rōv          ‘armspan’
@@ -26764,7 +26742,7 @@ change evidently reanalysed †*sa-ŋa-ropa as *sa-ŋa(ro)pa, resulting in forms
 
 8)      fathoms:             one            two             three
         POc                  *sa-ŋapa       *rua-ŋapa       *tolu-ŋapa
-        Loniu (Adm)5         ha-ŋah         maʔ-u-ŋeh       ma-culu-ŋah
+        Loniu (Adm)[5]         ha-ŋah         maʔ-u-ŋeh       ma-culu-ŋah
         Puluwat (Mic)        ye-ŋaf         rua-ŋaf         yelɨ-ŋaf
 
 Many of the reflexes below reflect a reanalysis of the classifier as a noun.
@@ -26772,7 +26750,7 @@ Many of the reflexes below reflect a reanalysis of the classifier as a noun.
 <
 POc *-ŋapa (CLF) ‘fathom’ (ACD)
  Adm: Lou               ŋap               (v) ‘measure’
- Adm: Titan             ŋa                (vt) ‘measure’
+ Adm: Titan             ŋa                (VT) ‘measure’
  Adm: Loniu             -ŋah              ‘fathom’
  Adm: Nali              -ŋah              ‘fathom’
  Adm: Nyindrou          ŋaha              ‘span’
@@ -26838,8 +26816,8 @@ __formgroup__
   SES: Arosi           duʔu          ‘fathom’
   NCal: Cèmuhî         [è]ādā        ‘fathom’
   NCal: Drehu          apæn          ‘to measure with the arms outstretched’
-  NCal: Drehu          n̥ āpæn       ‘a measure’
-  NCal: Nengone        n̥ aepan      ‘span (of arms)’
+  NCal: Drehu          n̥āpæn       ‘a measure’
+  NCal: Nengone        n̥aepan      ‘span (of arms)’
   Fij:  Wayan          katu          ‘fathom in length or depth, the arm-span with both arms extended’
   Fij:  Boumaa         ʔatu          ‘distance between finger tips with arms outstretched, fathom’
 
@@ -26875,14 +26853,14 @@ Other terms for the half-fathom include:
 
 __formgroup__
   NNG: Kove         vataŋa              ‘shell money measured to middle of sternum’
-  PT: Kilivila      sividoga            ‘unit of horizontal measurement, from fingertip to centre of chest (e.g. measuring the exact length of a yam)'
+  PT: Kilivila      sividoga            ‘unit of horizontal measurement, from fingertip to centre of chest (e.g. measuring the exact length of a yam)’
   MM: Teop          ato                 ‘unit of measurement: yard’
   MM: Banoni        |koci kobusu|       ‘half-fathom: finger tip to midline of breast’ (koci ‘cut’, kobusu ‘break’)
   MM: Babatana      |düli kürisi|       ‘centre of chest to tip of fingers: half-fathom’ (düli ‘tear apart’; kürisi ‘arm’)
   SES: Bugotu       |maða i sono|       ‘a measure, from finger-tip to breast-bone or throat’ (maða ‘bed mat’, sono ‘swallow’)
   SES: Gela         levutilima          ‘measure, chest to finger tips’
   SES: Longgu       |aba-i lima-i|      ‘half a fathom: from breast bone to finger tips’ (aba- ‘side’; lima- ‘(whole) arm’)
-  SES: To’aba’ita   ʔāʔaba or gʷaʔaba   ‘half-fathom: from centre of chest to fingertips of extended arm’ (ʔaba ‘hand, arm’)
+  SES: To’aba’ita   ʔāʔaba, gʷaʔaba   ‘half-fathom: from centre of chest to fingertips of extended arm’ (ʔaba ‘hand, arm’)
   SES: Arosi        ʔaba-i-rima         ‘a measure, from middle of chest to extended fingers’
   SES: Sa’a         |hahani ʔonoʔonoma| ‘measure: a half-fathom’
   NCV: Mota         |alo masalepei|     ‘measure from breastbone to finger-tips’
@@ -26959,7 +26937,7 @@ PMic *-mʷanū ‘length from elbow to finger tips’ (Bender et al. 2003a)
  Mic: Kiribati         -mʷanū            ‘elbow joint’
  Mic: Chuukese         -mʷalʉ            ‘length from inside elbow to finger tip, a cubit’
  Mic: Carolinian       -mʷalʉ            ‘length from inside elbow to finger tip, a cubit’
- Mic: Carolinian       -mʷalʉ̄(l peṣe)   ‘inside of the knee or elbow joint; inside of the knee’,
+ Mic: Carolinian       |-mʷalʉ̄(l peṣe)|   ‘inside of the knee or elbow joint; inside of the knee’
  Mic: Woleaian         -mʷarǖ            ‘length of forearm, from elbow to end of fingers; a cubit’
  Mic: Pulo Annian      -mʷaɾʉ            ‘length from elbow to fingertip’
  Mic: Sonsorol         -mʷar             ‘cubit’
@@ -26974,7 +26952,7 @@ PMic *-mʷanū ‘length from elbow to finger tips’ (Bender et al. 2003a)
 __formgroup__
   NNG: Mangap         yok                 ‘cubit’
   PT:  Gumawana       |[k]aba katuguyala| ‘length of one’s forearm’
-  MM: Babatana        pado körisi         ‘cubit, from elbow to finger tip’ (papado ‘joint’; körisi ‘arm’)
+  MM: Babatana        |pado körisi|         ‘cubit, from elbow to finger tip’ (papado ‘joint’; körisi ‘arm’)
   SES: Bugotu         |lopo i guema|      ‘a measure, from finger-tip to elbow-joint’ (lopo ‘be rolled up’, guema ‘fishing rod’)
   SES: Gela           levu                ‘measure from the elbow to finger tips’
   SES: Gela           louloɣulima         ‘measure, elbow to finger tips’
@@ -27042,15 +27020,15 @@ PAn *tepeŋ ‘to measure quantities, as amounts of grain’ (ACD: Formosan and 
 POc *topoŋ ‘to measure; to mark (for cutting); to try (s.t.) out’
  Adm: Mussau          tōŋ-i             ‘to mark, measure’
  Adm: Nyindrou        (mu)droh          ‘to measure out’
- NNG: Takia           tou               (n) ‘measure, mark, linear size’
+ NNG: Takia           tou               (N) ‘measure, mark, linear size’
  NNG: Mutu            tov               ‘to measure (e.g. house)’
- NNG: Numbami         (-aᵐbi) tuaŋ(ana) ‘to measure, judge, assess’ (-aᵐbi ‘hold, get, take’, tuaŋana (nominalisation) ‘measurement’)
+ NNG: Numbami         |(-aᵐbi) tuaŋ(ana)| ‘to measure, judge, assess’ (-aᵐbi ‘hold, get, take’, tuaŋana (nominalisation) ‘measurement’)
  NNG: Mengen          to[e]             ‘to measure’
  PT:   Yamalele       (ʔe)towava[i]     ‘to measure length’ (final -va unexplained)
  PT:   Motu           toho-a            ‘to try; to mark for cutting; to rule lines’
  MM: Nakanai          tovo              ‘to record, to measure, to try out’
  MM: Sursurunga       toho-i            ‘try’
- MM: Sursurunga       toh (pasi)        ‘to measure’ (pasi ‘get, acquire’)
+ MM: Sursurunga       |toh (pasi)|        ‘to measure’ (pasi ‘get, acquire’)
  SES: Tolo            tovo-a            ‘to try, attempt’
  SES: Longgu          tovo-a            ‘to test s.o. or s.t. (to see if any good); to measure (quantity of rice, sugar)’
  SES: Lau             tō-a              ‘to measure’
@@ -27070,7 +27048,7 @@ PNCV *tovo ‘measure’ (Clark 2009)
  NCV: N Ambrym        tɔu               ‘to measure’
  NCV: Paamese         te-toho-ni        ‘to imitate’
  NCV: Lewo            tou-tou-ni        ‘to measure, imitate’
- NCV: Nguna           to-towo           (n) ‘figure, amount; size’
+ NCV: Nguna           to-towo           (N) ‘figure, amount; size’
  NCV: S Efate         to-n              ‘to compare ; to measure’
 >
 
@@ -27085,14 +27063,14 @@ PPn *fua ‘weigh, measure’ (POLLEX)
   Pn: Tongan          fua                 ‘weigh, measure’
   Pn: Niuean          fua                 ‘to weigh’
   Pn: Samoan          fua                 ‘measure; size’
-  Pn: Tuvalu          fua-fua             (vt) ‘measure; correct’
+  Pn: Tuvalu          fua-fua             (VT) ‘measure; correct’
   Pn: E Futunan       fua                 ‘a measure, to measure’
   Pn: E Uvean         fua                 ‘a measure’
   Pn: K'marangi       hua                 ‘supervise’
 cf. also:
   PT: Ubir            ifofo-n            ‘to measure’
   MM: Madak           po                 ‘to measure’
-  MM: Patpatar        puo                (vt) ‘measure; price something; mark as unsuccessful’
+  MM: Patpatar        puo                (VT) ‘measure; price something; mark as unsuccessful’
 >
 
 16.8 Conclusions
