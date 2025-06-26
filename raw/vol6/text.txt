@@ -21422,39 +21422,39 @@ adjective, marked a noun phrase as singular.
 
 <
 POc *ta (?) ‘one’ (INDEFINITE ARTICLE)
-  NNG: Bariai            (e)ta            ‘some, any’
-  NNG: Mbula             ta               ‘one’
-  NNG: Mbula             tata(ŋa)         ‘a few’
-  NNG: Barim             ta               ‘one’
-  NNG: Sengseng          ta               ‘one’
-  NNG: Wogeo             ta               ‘one’
-  NNG: Yabem             ta(gɛŋ)          ‘one’
-  NNG: Yabem             ta-ɛŋ, tɛŋ       ‘a, some’
+  NNG:  Bariai              (e)ta            ‘some, any’
+  NNG:  Mbula               ta               ‘one’
+  NNG:  Mbula               tata(ŋa)         ‘a few’
+  NNG:  Barim               ta               ‘one’
+  NNG:  Sengseng            ta               ‘one’
+  NNG:  Wogeo               ta               ‘one’
+  NNG:  Yabem               ta(gɛŋ)          ‘one’
+  NNG:  Yabem               ta-ɛŋ, tɛŋ       ‘a, some’
 PPT *ta ‘one’
 Proto Sudest-Nimoa *-ta[ɣa] ‘one’
-  PT:    Sudest          ra, re(ɣa)       ‘one’
-  PT:    Nimoa           -ta(ga)          ‘one’
-  PT:    Misima          (e)te(ga)        ‘one’
+  PT:   Sudest              ra, re(ɣa)       ‘one’
+  PT:   Nimoa               -ta(ga)          ‘one’
+  PT:   Misima              (e)te(ga)        ‘one’
 Proto North Mainland/D’Entrecasteaux *ta-mo[qa]- ‘one’
-  PT:    Gumawana        ta-ya(mo)        ‘one’
-  PT:    Yamalele        (ʔai)ta(moga-na) ‘one’ (ʔai < POc *kai- CLF)
-  PT:    Ubir            (kai)ta(mom)     ‘one’ (kai < POc *kai- CLF)
-  PT:    Doga            ta(mo-na)        ‘one’
-  PT:    Minaveha        (ai)ta(mo(ata)) ‘one’ (ai < POc *kai- CLF)
-  PT:    Wedau           ta(gogi)         ‘one’
-  PT:    Suau (Bonalua) ta(ya)            ‘one’
+  PT:   Gumawana            ta-ya(mo)        ‘one’
+  PT:   Yamalele            (ʔai)ta(moga-na) ‘one’ (ʔai < POc *kai- CLF)
+  PT:   Ubir                (kai)ta(mom)     ‘one’ (kai < POc *kai- CLF)
+  PT:   Doga                ta(mo-na)        ‘one’
+  PT:   Minaveha            (ai)ta(mo(ata))  ‘one’ (ai < POc *kai- CLF)
+  PT:   Wedau               ta(gogi)         ‘one’
+  PT:   Suau (Bonalua)      ta(ya)           ‘one’
 Proto Central Papuan *ta ‘one’
-  PT:    Sinaugoro (Taboro) ta            ‘one’
-  PT:    Motu            ta, ta(mo-na )   ‘one’
-  PT:    Roro            ha(momo)         ‘one’
-  MM: Bola               ta(ku)           ‘one’
-  MM: E Kara            ta                      ‘one’
-  NCV: Bierebo          ta                      ‘one’
-  NCV: Lewo             ta(ŋa)                  ‘one’
+  PT:   Sinaugoro (Taboro)  ta               ‘one’
+  PT:   Motu                ta, ta(mo-na)    ‘one’
+  PT:   Roro                ha(momo)         ‘one’
+  MM:   Bola                ta(ku)           ‘one’
+  MM:   E Kara              ta               ‘one’
+  NCV:  Bierebo             ta               ‘one’
+  NCV:  Lewo                ta(ŋa)           ‘one’
 Proto New Caledonia *tta ‘one’
-  NCal: Voh-Koné        θā                      ‘one’
-  NCal: Paicî           cā-                     ‘one’
-  NCal: Ajië            ra                      ‘one’
+  NCal: Voh-Koné            θā               ‘one’
+  NCal: Paicî               cā-              ‘one’
+  NCal: Ajië                ra               ‘one’
 >
 
                                                         Numerals, classifiers and counting 451
@@ -21543,36 +21543,36 @@ form for ‘one’. It is perhaps an extended form of *ta (§14.4.1.1), but the 
 
 <
 POc *tai ‘one’
-Proto Western Admiralty tai- ‘one’
-  Adm: Kaniet            tē-                     ‘one’
-  Adm: Seimat            te-                     ‘one’
-  Adm: Wuvulu            ai                      ‘one’ (serial)
-  Adm: Wuvulu            e-                      ‘one’ (attributive)
-  SJ:    Kayupulau       tai                     ‘one’
-  SJ:    Tobati          tei                     ‘one’
-  NNG: Sio               tai(tu)                 ‘one’
-  NNG: Kaulong           te(hen)                 ‘one’
-  NNG: Gedaged           tai                     ‘one’
-  NNG: Kairiru           tai                     ‘one’, ‘some (uncountable)’
-  NNG: Numbami           te                      ‘a’
-  NNG: Hote              te                      ‘a’
-  PT:    Miniafia        tai(mon)                ‘one’
-  PT:    Kakabai           te(gana)         ‘one’
-  PT:    Sinaugoro (Balawaia) te(bona) ‘one’
-  TM:    Engdewo           ɞte              ‘one’ (attributive)
-  TM:    Engdewo           tete             ‘one’ (serial)
-  TM: Natügu               tesə             ‘one’ (serial) (< *tai-sa)
-  TM: Nebao                tua              ‘one’ (< *tai-wa ?)
+PWAd *tai- ‘one’
+  Adm: Kaniet              tē-              ‘one’
+  Adm: Seimat              te-              ‘one’
+  Adm: Wuvulu              ai               ‘one’ (serial)
+  Adm: Wuvulu              e-               ‘one’ (attributive)
+  SJ:  Kayupulau           tai              ‘one’
+  SJ:  Tobati              tei              ‘one’
+  NNG: Sio                 tai(tu)          ‘one’
+  NNG: Kaulong             te(hen)          ‘one’
+  NNG: Gedaged             tai              ‘one’
+  NNG: Kairiru             tai              ‘one’; ‘some (uncountable)’
+  NNG: Numbami             te               ‘a’
+  NNG: Hote                te               ‘a’
+  PT:  Miniafia            tai(mon)         ‘one’
+  PT:  Kakabai             te(gana)         ‘one’
+  PT:  Sinaugoro (Balawaia) te(bona)        ‘one’
+  TM:  Engdewo             ɞte              ‘one’ (attributive)
+  TM:  Engdewo             tete             ‘one’ (serial)
+  TM:  Natügu              tesə             ‘one’ (serial) (< *tai-sa)
+  TM:  Nebao               tua              ‘one’ (< *tai-wa ?)
   NCV: NE Ambae            te(a)            ‘one’ (serial)
   NCV: Merei               (e)se            ‘one’
   NCV: Araki               (he)se           ‘one’
-  NCV: Mavea ̋             te(a)            ‘one’
+  NCV: Mavea               te(a)            ‘one’
   NCV: Tamambo             (a)te(a)         ‘one’
   NCV: SE Ambrym           tei              ‘one’
   NCV: Paamese             tāi              ‘one’
   NCV: Lewo                tai              ‘a, some’ (INDEFINITE ARTICLE)
   NCV: Lewo                tā(ga)           ‘one’; ‘the same’ (attributive)
-Proto North Vanuatu *te-wa[le] ‘one’
+PNCV *te-wa[le] ‘one’
   NCV: Toga                tuwe             ‘one’
   NCV: Vurës (Mosina) (ni)tiwia(l)          ‘one’
   NCV: Mwotlap             (VI)tiwa(ɣ)      ‘one’
@@ -21593,7 +21593,7 @@ PMic *te- ‘one’ (attributive) (Harrison & Jackson 1984:66)
   Mic: Puluwat             ye-              ‘one’ (attributive)
   Mic: Woleaian            yet              ‘one’ (serial) (< *tai-sa)
   Mic: Woleaian            se-              ‘one’ (attributive)
-  Mic: Ponapean            ɛ̄t              ‘one’ (serial) (< *tai-sa)
+  Mic: Ponapean            ɛ̄t               ‘one’ (serial) (< *tai-sa)
   Mic: Ponapean            e-               ‘one’ (attributive)
 >
 
@@ -21786,7 +21786,7 @@ PAn *da-duSa ‘two, of people’ (ACD)
 POc *ra-rua ‘two, of people’ (ACD)
   NNG: Takia             raru               ‘2’
   PT:   Motu             rarua              ‘2, of persons’
-  SV: SW Tanna           (kəlikəlip kə)lalu ‘7’ (i.e. 5 + 2)
+  SV: SW Tanna           |(kəlikəlip kə)lalu| ‘7’ (i.e. 5 + 2)
 >
 
 14.4.2.2 Three
@@ -21965,7 +21965,7 @@ POc *pati ‘4’ (ACD; PEOc: Pawley 1972)
  NCV: Lewo              vari                 ‘4’
  NCV: Lelepa            pati                 ‘4’
  SV: SW Tanna           (ku)as               ‘4’ (ku- < POc *ka- ATTRIBUTIVE)
- Fij:   Wayan           vati-                PAUCAL PREFIX (e.g. vati-keta ‘a few of us’)
+ Fij:   Wayan           vati-                [PAUCAL PREFIX] (e.g. vati-keta ‘a few of us’)
 >
 
    POc *paŋi ‘4’ appears to be a variant of POc *pati above, of unknown etiology. Motu has
@@ -22037,7 +22037,7 @@ POc *lima ‘five’ (ACD)
  MM:  Mono-Alu        līma             ‘5’ (ime- ‘hand, arm’)
  MM:  Sisiqa          ləma             ‘5’
  MM:  Roviana         lima             ‘5’ (cf lima- ‘hand, arm’)
- MM:  Maringe         (fa)lima         ‘5’ (serial; fa- < POc *fa- ORDINAL
+ MM:  Maringe         (fa)lima         ‘5’ (serial; fa- < POc *fa- ORDINAL)
  SES: Bugotu          lima             ‘5’ (cf lima- ‘hand, arm’)
  SES: Birao           lima             ‘5’ (cf lima- ‘hand, arm’)
  SES: To’aba’ita      lima             ‘5’ (serial)
@@ -22048,7 +22048,7 @@ POc *lima ‘five’ (ACD)
  NCV: NE Ambae        lime             ‘5’ (cf lima- ‘hand, arm’)
  NCV: Raga            lima             ‘5’ (cf lima- ‘hand, arm’)
  NCV: Merei           lima             ‘5’
- NCV: Araki           lin̼ a            ‘5’ (cf lima- ‘hand, arm’)
+ NCV: Araki           lin̼a             ‘5’ (cf lima- ‘hand, arm’)
  NCV: Daakaka         lim              ‘5’
  NCV: Paamese         (e)lim           ‘5’
  NCV: Uripiv          (e)lim           ‘5’
@@ -22091,10 +22091,10 @@ reconstructed with the sense ‘5’.
 
 <
 POc *nima- ‘hand, arm’ (vol.5:160)
- NNG: Gitua             nima(da sirip)       ‘5’ (nima- ‘hand’; -da ‘our’)
+ NNG: Gitua             |nima(da sirip)|     ‘5’ (nima- ‘hand’; -da ‘our’)
  NNG: Bilbil            nima(-nta)           ‘5’ (nima- ‘hand’; -nta ‘our’)
  NNG: Mapos Buang       nəma(d-vaʁi)         ‘5’ (vaʁi ‘a side’)
- NNG: Numbami           nima (teula)         ‘5’ (teula ‘one side’)
+ NNG: Numbami           |nima (teula)|       ‘5’ (teula ‘one side’)
  SV: Anejom             nicma(n)             ‘5’ (cf nicma- ‘hand, arm’)
  Pn:  Tongan            nima                 ‘5; hand’
 >
@@ -22217,7 +22217,7 @@ POc *walu ‘8’
   MM: Notsi (archaic) wan           ‘8’
   MM: Sursurunga      wal           ‘8’
   MM: Tangga          wal           ‘8’
-  MM: Label           wal           ‘8
+  MM: Label           wal           ‘8’
   MM: Petats          (to)al        ‘8’ (to- < POc *tau- HUMAN CLASSIFIER)
   MM: Mono-Alu        alu           ‘8’
   MM: Ririo           zɔl           ‘8’ (z- is accreted before an initial vowel)
@@ -22232,11 +22232,11 @@ POc *walu ‘8’
   NCV: Nokuku         ɒlo           ‘8’
   NCV: Nese           (ɣ)oal        ‘8’
   Mic: Kosraean       ɒl            ‘8’ (SERIAL)
-  Mic: Kosraean       ɒl-           ‘8’(with suffixed classifier)
+  Mic: Kosraean       ɒl-           ‘8’ (with suffixed classifier)
   Mic: Kiribati       wani          ‘8’ (SERIAL)
-  Mic: Kiribati       wanu-         ‘8’(with suffixed classifier)
+  Mic: Kiribati       wanu-         ‘8’ (with suffixed classifier)
   Mic: Pohnpeian      (ɛ)wɛl        ‘8’ (SERIAL)
-  Mic: Pohnpeian      walu-         ‘8’(with suffixed classifier)
+  Mic: Pohnpeian      walu-         ‘8’ (with suffixed classifier)
   Mic: Woleaian       war           ‘8’ (SERIAL)
   Mic: Woleaian       wari-         ‘8’ (with suffixed classifier)
   Fij: Wayan          walu          ‘8’
@@ -22397,9 +22397,9 @@ sāvun seems to reflect *sapuluq rather than *saŋapuluq, as Teop does not regul
 <
 PMP *sa-Ratus ‘100’ (ACD)
 POc *[sa]Ratus ‘100’
- MM: Nakanai           salatu (sasa)         ‘100’ (sasa ‘one’)
+ MM: Nakanai           |salatu (sasa)|         ‘100’ (_sasa_ ‘one’)
 cf. also:
-Proto NW Solomonic *ratus ‘100’
+Proto Northwest Solomonic *ratus ‘100’
   MM: Solos            natus                 ‘100’
   MM: Taiof            natus                 ‘100’
   MM: Banoni           raus                  ‘100’ (methathesis of †rasu)
@@ -22441,8 +22441,8 @@ __table__
 470 Malcolm Ross
 
 <
-PMP *sa ŋa puluq ‘10’ (ACD)
-POc *sa ŋa puluq ‘10’
+PMP *|sa ŋa puluq| ‘10’ (ACD)
+POc *|sa ŋa puluq| ‘10’
 PAdm *saŋafulV ‘10’
   Adm: Mussau           saŋaulu        ‘10’
   Adm: Nauna            saŋahul        ‘10’
@@ -22451,7 +22451,7 @@ PAdm *saŋafulV ‘10’
   Adm: Ponam            saŋuf          ‘10’
   NNG: Amara            soŋoul         ‘10’
   NNG: Kove             saŋaulu        ‘10’
-  NNG: Maeng            taŋauna (ta)   ‘10’ (ta ‘one’)
+  NNG: Maeng            |taŋauna (ta)|   ‘10’ (_ta_ ‘one’)
   SJ:   Sobei           snafut         ‘10’
   PT:   Tubetube        sanaulu        ‘10’
   PT:   Motu            ahui           ‘10’ (combination form)
@@ -22484,8 +22484,8 @@ PAdm *saŋafulV ‘10’
 >
 
 <
-PMP *sa ŋa Ratus ‘100’ (ACD)
-POc *sa ŋa Ratus ‘100’
+PMP *|sa ŋa Ratus| ‘100’ (ACD)
+POc *|sa ŋa Ratus| ‘100’
 PAdm *saŋatV ‘100’
   Adm: Lou               soŋot             ‘100’
  Adm: Baluan             soŋot             ‘100’
@@ -22634,7 +22634,7 @@ examples below.
 POc *udolu ‘all, whole’ (PEOc: Pawley 1972)
  NNG: Bariai              do-dol         ‘whole’
  NNG: Poeng               (ka)rolu       ‘all’
- NNG: Wogeo               udol           ‘1000’ (Ross, fieldnotes), ‘200’ (Exter 2010)
+ NNG: Wogeo               udol           ‘1000’ (Ross, fieldnotes); ‘200’ (Exter 2010)
  NNG: Kairiru             wurol          ‘100’
  SES: Bugotu              udolu          ‘all, whole, complete’
  SES: Gela                udolu          ‘all, whole, complete’
@@ -22658,7 +22658,7 @@ POc *tari ‘some’; ‘many, all’ (Proto Northern New Hebrides/Banks: Pawley
  NNG: Sissano            tar-tar           ‘many’
  PT:     Sinaugoro       tari              ‘some’
  MM: Patpatar            tari              ‘some’
- SES: Arosi              (niu) tari        ‘a million coconuts’ (cf Table 14.9)
+ SES: Arosi              |(niu) tari|      ‘a million coconuts’ (cf Table 14.9)
  NCV: Toga               tɛr               ‘1000’
  NCV: Vurës              tar               ‘1000’
  NCV: Mwotlap            tɛy               ‘1000’
@@ -22787,7 +22787,7 @@ if a cardinal numeral occurs with a classifier or a fossil classifier, this is r
 ordinal form, as the listing below shows.
 
 <
-POc NUMERAL-*ña ‘ordinal numeral form’
+POc *NML-ña ‘ordinal numeral form’
  Adm: Mussau           [k,ɣ]a-NML-na
  PT:   Kilivila        CLF-NML-la
  PT:   Muyuw           kʷa-NML-n
@@ -22867,18 +22867,18 @@ Often there is also a 3SG possessor suffix as in the cognate set above. Where th
 presumably an alienable possession structure is used.
 
 <
-POc *pa[ka]-NUMERAL-*ña ‘ordinal numeral form’
+POc *pa[ka]-NML-ña ‘ordinal numeral form’
  PT:    Molima        ve-NML-na
  PT:    Gapapaiwa     vi-NML-[i]na
  PT:    Tawala        wi-NML-na
- PT:    Saliba        he-NML-3SG/PL
+ PT:    Saliba        he-NML-     (with 3SG/PL)
  PT:    Hula          va-NML-na
  PT:    Sinaugoro     vaɣa-NML-na
  MM: Bulu             vaɣa-NML
  MM: Nakanai          vaka-NML
- MM: Tungak           va-NML (i N)
+ MM: Tungak           |va-NML (i N)|
  MM: Kara             fa-NML-āna
- MM: Notsi            (N nan) a-NML (nan ART; a- CAUSATIVE)
+ MM: Notsi            |(N nan) a-NML| (nan ART; a- CAUSATIVE)
  MM: Patpatar         ha-NML
  MM: Tolai            va-NML-na
  MM: Nehan            ua-NML
@@ -22925,15 +22925,15 @@ in the modern languages are causative. Do they reflect a reduced form of POc *pa
 thus belong in the cognate set above? One cannot tell.
 
 <
-PAn *Si-ka-NUMERAL ‘prefix for ordinal numerals’ (ACD)
-PMP *i-ka-NUMERAL ‘prefix for ordinal numerals’ (ACD)
-POc *i-ka-NUMERAL ‘prefix for ordinal numerals’
+PAn *Si-ka-NML ‘prefix for ordinal numerals’ (ACD)
+PMP *i-ka-NML ‘prefix for ordinal numerals’ (ACD)
+POc *i-ka-NML ‘prefix for ordinal numerals’
   NCV: Namakir          ke-NML
   NCV: Nguna            ke-NML
   NCV: Lelepa           ke-NML
-  Mic: Kiribati         ka-NML (ni N) (ni ‘of’)
+  Mic: Kiribati         |ka-NML (ni N)| (ni ‘of’)
   Mic: Mokilese         ka-NML-CLF
-  Mic: Woleaian         xa/xe-NML-CLF-r (-r P:3SG)
+  Mic: Woleaian         [xa,xe]-NML-CLF-r (-r P:3SG)
   Mic: Sonsorol         xa-NML-ar (-ar P:3SG)
   Fij:   Nadrogā        ka-NML
   Fij:   Wayan          ikā-NML
@@ -22971,12 +22971,11 @@ C Vanuatu languages, on the other hand, retention of the POc structure is the ge
 
 
 <
-PMP *paka-X (X = NUMERAL) ‘X times’
-POc *pa[ka]-X (X = NUMERAL) ‘X times’ (frequentative adverb; e.g. *pa[ka]-lima ‘5
- times)
+PMP *paka-NML ‘NML times’
+POc *pa[ka]-NML ‘NML times’ (frequentative adverb; e.g. *pa[ka]-lima ‘5 times)
  NNG: Bariai          pa-NML
- NNG: Mbula           pa NML
- NNG: Maeng           pa NML
+ NNG: Mbula           |pa NML|
+ NNG: Maeng           |pa NML|
  PT:    Kilivila      siva-NML
  PT:    Sinaugoro     vaɣa-NML
  MM: Bulu             vaɣa-NML
@@ -22995,7 +22994,7 @@ POc *pa[ka]-X (X = NUMERAL) ‘X times’ (frequentative adverb; e.g. *pa[ka]-li
  NCV: Apma            va-NML
  NCV: Araki           ð̼aɣa-NML
  NCV: Tamambo         vaɣa-NML
- NCV: Daakaka         vya NML
+ NCV: Daakaka         |vya NML|
  NCV: Paamese         hā-NML
  NCV: Nese            vaɣa-NML
  NCV: Uripiv          va-NML
@@ -23003,14 +23002,14 @@ POc *pa[ka]-X (X = NUMERAL) ‘X times’ (frequentative adverb; e.g. *pa[ka]-li
  NCV: Aulua           baka-NML
  NCV: Baki            va-NML
  NCV: Namakir         baka-NML
- Mic: Mokilese        pak NML-w
+ Mic: Mokilese        |pak NML-w|
  Mic: Sonsorol        fa-NML
  Mic: Ulithian        xa-NML
  Fij:   Wayan         vaka-NML
  Fij:   Nadrogā       vā-NML
  Fij:   Bauan         vaka-NML
  Pn:    Samoan        faʔa-NML
- Pn:    Rennellese    haka-NML           ‘do X times’
+ Pn:    Rennellese    haka-NML           ‘do NML times’
 >
 
                                                    Numerals, classifiers and counting 481
@@ -23026,21 +23025,21 @@ languages reduplication is now incomplete or irregular: e.g. Nakanai CV-CV…, b
 lima-lima ‘5 by 5’.
 
 <
-PAn *X-X (X = NUMERAL) ‘X by X; X at a time; X each’ (e.g. *duSa-duSa ‘2 by 2’ etc)
-POc *X-X (X = NUMERAL) ‘X by X; X at a time; X each’ (e.g. *lima-lima ‘5 by 5’ etc)
+PAn *NML-NML ‘NML by NML; NML at a time; NML each’ (e.g. *duSa-duSa ‘2 by 2’ etc)
+POc *NML-NML ‘NML by NML; NML at a time; NML each’ (e.g. *lima-lima ‘5 by 5’ etc)
   NNG: Manam           rua-rua            ‘two at a time’
-                       wati-wati          ‘four each, four at a time’
-  NNG: Kairiru         tai tai            ‘one at a time’
-                       tuol tuol          ‘in threes; three at a time’
+  NNG: Manam           wati-wati          ‘four each, four at a time’
+  NNG: Kairiru         |tai tai|            ‘one at a time’
+  NNG: Kairiru         |tuol tuol|          ‘in threes; three at a time’
   NNG: Mangap          lu-a-lu            ‘two by two’
-                       tol-a-tol          ‘three by three’
+  NNG: Mangap          tol-a-tol          ‘three by three’
   NNG: Maleu           lua-lua            ‘two by two’
   NNG: Yabem           teleàʔ-teleàʔ      ‘three by three’
   NNG: Numbami         lua-lua            ‘two at a time’
   MM: Nakanai          ila-lua            ‘two by two’ (ilua ‘2’)
-                       iva-vā             ‘four by four’ (ivā ‘4’)
+  MM: Nakanai          iva-vā             ‘four by four’ (ivā ‘4’)
   MM: Tungak           poŋ-poŋua          ‘two by two’ (po-ŋua ‘2’)
-  MM: Patpatar         lim-liman na mār ‘500 each’ (na LIGATURE; mār ‘100’)
+  MM: Patpatar         |lim-liman na mār| ‘500 each’ (na LIGATURE; mār ‘100’)
   MM: Teop             bu-buaku           ‘two each’ (buaku ‘2’)
   SES: Bugotu          erua-rua           ‘two at a time, two apiece’
   SES: Gela            vati-vati          ‘four each’
@@ -23049,14 +23048,13 @@ POc *X-X (X = NUMERAL) ‘X by X; X at a time; X each’ (e.g. *lima-lima ‘5 b
   NCV: Tamambo         atolu-tolu-ɣi      ‘three at a time, three each’
   NCV: NE Ambae        kai-tolu-tolu      ‘three at a time’ (kai-tolu ‘3’)
   NCV: C Maewo         tewa-tewa          ‘one by one, one apiece’
-                       rua-rua            ‘two at a time, two apiece, by twos, double’
+  NCV: C Maewo         rua-rua            ‘two at a time, two apiece, by twos, double’
   NCV: Raga            ɣai-ru-rua-i       ‘by twos’
   NCV: Daakaka         lo-lo              ‘in pairs’
   NCV: Paamese         he-lua-lu          ‘in pairs, two by two (he- S:3S)’
   NCV: Uripiv          er-eru-i           ‘two each’
   NCV: Maskelynes      lo-rim-rim         ‘five each’
-  Fij:  Wayan          tolu-tolu          ‘in threes, as a threesome, group of threes, all
-                                          three’
+  Fij:  Wayan          tolu-tolu          ‘in threes, as a threesome, group of threes, all three’
 >
 
     PPn had a dedicated distributive morpheme, *taki-, prefixed to the numeral. Cognate with
@@ -23067,21 +23065,21 @@ evidence to confirm this.
 482 Malcolm Ross
 
 <
-PPn *taki- distributive prefix (Pawley 1970; POLLEX)
-  Pn:    Tongan            taki-            distributive prefix
-  Pn:    Niuean            taki-            distributive prefix
-  Pn:    Samoan            taʔi-            distributive prefix
-  Pn:    E Futunan         taki-            distributive prefix
+PPn *taki- [distributive prefix] (Pawley 1970; POLLEX)
+  Pn:    Tongan            taki-            [distributive prefix]
+  Pn:    Niuean            taki-            [distributive prefix]
+  Pn:    Samoan            taʔi-            [distributive prefix]
+  Pn:    E Futunan         taki-            [distributive prefix]
   Pn:    K’marangi         dagi-            ‘each, each of’
   Pn:    Rennellese        taki             ‘be different, have or be separate, each to have or be’
   Pn:    Takuu             tiki-            ‘each’ (distributive prefix)
-  Pn:    Tikopia           taki-            distributive particle
-  Pn:    Pukapukan         taki             distributive particle with numerals
-  Pn:    Rarotongan        taki-            distributive prefix
-  Pn:    Tuamotuan         taki-            distributive prefix
-  Pn:    Hawaiian          kaʔi-            distributive prefix
-  Pn:    Tahitian          taʔi-            distributive prefix
-  Pn:    Maori             taki-            distributive prefix
+  Pn:    Tikopia           taki-            [distributive particle]
+  Pn:    Pukapukan         taki             [distributive particle with numerals]
+  Pn:    Rarotongan        taki-            [distributive prefix]
+  Pn:    Tuamotuan         taki-            [distributive prefix]
+  Pn:    Hawaiian          kaʔi-            [distributive prefix]
+  Pn:    Tahitian          taʔi-            [distributive prefix]
+  Pn:    Maori             taki-            [distributive prefix]
 >
 
 14.6 Reconstructing POc numeral classifiers
@@ -23154,60 +23152,60 @@ appropriate or the speaker does not recall the appropriate classifier. Some sour
 the ‘general’ classifier .
 
 <
- CMP: Hawu               wuə SG, ɓuə PL     ‘round objects, buildings, their beams, furniture, boats, baskets, pots, locations, weeks, years’
- CMP: Kambera            wua, ᵐbua          ‘spherical objects’
- CMP: Tetun Fehan        fuan               ‘fruit, heart, whole roundish objects’
- SH: Buli                pu SG, pi- PL      ‘objects, 24-hour days, villages, weights, measures’
- CB: Ambai               bo-                ‘inanimate’
+ CMP:  Hawu              wuə, ɓuə       ‘round objects, buildings, their beams, furniture, boats, baskets, pots, locations, weeks, years’ (_wuə_ SG, _ɓuə_ PL)
+ CMP:  Kambera           wua, ᵐbua      ‘spherical objects’
+ CMP:  Tetun Fehan       fuan           ‘fruit, heart, whole roundish objects’
+ SH:   Buli              pu, pi-        ‘objects, 24-hour days, villages, weights, measures’ (_pu_ SG, _pi-_ PL)
+ CB:   Ambai             bo-            ‘inanimate’
 POc *pua ‘default inanimate; round object’ (POc *pua- ‘fruit’; vol.3:115–116) (PEOc *pua-qi, *po-qi ‘spherical classifier’; Pawley 1972:59)
- Adm: Mussau             -va                default (-va with 1; zero with other numerals)
-PAdm *-(ə)fu default
-  Adm: Wuvulu             -ua               default (with tens, hundreds, thousands)
-  Adm: Lou                -əp               default
-  Adm: Penchal            -p                default
-  Adm: Sivisa Titan       -o, -0̸           default
-  Adm: Ponam              -f                default (fossilised)
-  Adm: Kele               -[o]h             ‘round objects’; default
-  Adm: Kurti              -eh               default
-  Adm: Lele               -o                default
-  Adm: Loniu              -h                default
-  Adm: Levei-Tulu         -ʔep              ‘tree, canoe, vehicle, stick; sprout; clump’
-  Adm: Sori               -p                default
-  Adm: Bipi               -h                default
-  MM: Tungak              po-               FOSSIL
-  MM: Tiang               u-                FOSSIL
-  MM: E Kara              pa-               FOSSIL
-  MM: Nalik               u-, o-            FOSSIL
-  MM: Tabar               vo-               FOSSIL
-  MM: Lamusong            o-                FOSSIL
-  MM: Kandas              u-                FOSSIL
-  MM: Petats              ho-, hue-         FOSSIL
-  MM: Halia               huo-              FOSSIL
-  MM: Taiof               fo-               FOSSIL
-  MM: Banoni              va-               ‘round objects’
-  MM: Maringe             fa-               FOSSIL
-  SES: To’aba’ita         fV-               ‘small round plant products (fruit, nuts, tubers, corms, bulbs and more)’
-  SES: Arosi            hua                 ‘round objects’
-  TM: Äiwoo             u-, vi-            FOSSIL
-  TM: Tanibili          bu-, bo-           FOSSIL
-  NCV: Toga             va-                FOSSIL
-  NCV: Hiw              vi-                FOSSIL
-  NCV: Vera’a           fo̝ -              FOSSIL
-  NCV: Lemerig          vʊ-                FOSSIL
-  NCV: Mwotlap          vV-                FOSSIL
+ Adm:  Mussau            -va            [default] (-va with 1; zero with other numerals)
+PAdm *-(ə)fu [default]
+ Adm:  Wuvulu            -ua            [default] (with tens, hundreds, thousands)
+ Adm:  Lou               -əp            [default]
+ Adm:  Penchal           -p             [default]
+ Adm:  Sivisa Titan      -o, -ø         [default]
+ Adm:  Ponam             -f             [default] (fossilised)
+ Adm:  Kele              -[o]h          ‘round objects’; [default]
+ Adm:  Kurti             -eh            [default]
+ Adm:  Lele              -o             [default]
+ Adm:  Loniu             -h             [default]
+ Adm:  Levei-Tulu        -ʔep           ‘tree, canoe, vehicle, stick; sprout; clump’
+ Adm:  Sori              -p             [default]
+ Adm:  Bipi              -h             [default]
+ MM:   Tungak            po-            [FOSSIL]
+ MM:   Tiang             u-             [FOSSIL]
+ MM:   E Kara            pa-            [FOSSIL]
+ MM:   Nalik             u-, o-         [FOSSIL]
+ MM:   Tabar             vo-            [FOSSIL]
+ MM:   Lamusong          o-             [FOSSIL]
+ MM:   Kandas            u-             [FOSSIL]
+ MM:   Petats            ho-, hue-      [FOSSIL]
+ MM:   Halia             huo-           [FOSSIL]
+ MM:   Taiof             fo-            [FOSSIL]
+ MM:   Banoni            va-            ‘round objects’
+ MM:   Maringe           fa-            [FOSSIL]
+ SES:  To’aba’ita        fV-            ‘small round plant products (fruit, nuts, tubers, corms, bulbs and more)’
+ SES:  Arosi             hua            ‘round objects’
+ TM:   Äiwoo             u-, vi-        [FOSSIL]
+ TM:   Tanibili          bu-, bo-       [FOSSIL]
+ NCV:  Toga              va-            [FOSSIL]
+ NCV:  Hiw               vi-            [FOSSIL]
+ NCV:  Vera’a            fo̝-            [FOSSIL]
+ NCV:  Lemerig           vʊ-            [FOSSIL]
+ NCV:  Mwotlap           vV-            [FOSSIL]
 Proto Far North New Caledonia *pʷa- ‘round object; time’
-  NCal: Nyelâyu         pʷa-               ‘inanimate; time’
-  NCal: Nêlêmwa         pʷa-               ‘round object’
-  NCal: Kumak           pʷa-               ‘round object; day’
-PMic *-ua default numeral classifier (Jackson 1986:209)
-  Mic: Kosraean         -u                 DEFAULT
-  Mic: Kiribati         -ua                ‘fruit’; DEFAULT
-  Mic: Marshallese      -u                 DEFAULT (fossil in cilu '3'; Harrison & Jackson 1984)
-  Mic: Mokilese         -w                 DEFAULT INANIMATE
-  Mic: Chuukese         -ew                DEFAULT
-  Mic: Carolinian       -uw                DEFAULT INANIMATE
-  Mic: Woleaian         -uw                DEFAULT
-  Mic: Ulithian         -wo                DEFAULT
+ NCal: Nyelâyu           pʷa-           ‘inanimate; time’
+ NCal: Nêlêmwa           pʷa-           ‘round object’
+ NCal: Kumak             pʷa-           ‘round object; day’
+PMic *-ua [default numeral classifier] (Jackson 1986:209)
+ Mic:  Kosraean          -u             [DEFAULT]
+ Mic:  Kiribati          -ua            ‘fruit’; [DEFAULT]
+ Mic:  Marshallese       -u             [DEFAULT] (fossil in cilu '3'; Harrison & Jackson 1984)
+ Mic:  Mokilese          -w             [DEFAULT INANIMATE]
+ Mic:  Chuukese          -ew            [DEFAULT]
+ Mic:  Carolinian        -uw            [DEFAULT INANIMATE]
+ Mic:  Woleaian          -uw            [DEFAULT]
+ Mic:  Ulithian          -wo            [DEFAULT]
 PPn *-fua ‘10 tens or scores of certain food items’ (?) (see §14.6.9)
 >
 
@@ -23242,7 +23240,7 @@ and this is reason enough to reconstruct attributive *ka -and classifier *kai- s
 to assume that the two became conflated in NE Ambae.
 
 <
- CMP: Nauete         kai-             FOSSIL (on 2–9)
+ CMP: Nauete         kai-             [FOSSIL] (on 2–9)
  SH: Buli            ai-              ‘long object, tree, wood, house’
 POc *kai ‘long, rigid object; wooden object; tree’(POc *kayu ‘tree, wood’; vol.3:71–72)
  Yap: Yapese         kɛ̄              ‘tree, stemmed object, crabs, lobsters, grass-skirts, clans’ (incorporates ligature ɛ̄)
@@ -23264,25 +23262,25 @@ PAdm *-kai ‘long rigid object; tree’
 PPT *kai[u]- ‘default inanimate classifier (?); long rigid object; wooden thing’
  PT:  Kilivila       ke-, kai-        ‘long rigid object; wooden thing’
  PT:  Muyuw          kay-             ‘wooden thing’
- PT:  Misima         e-               FOSSIL
- PT:  Gumawana       ai-              FOSSIL
- PT:  Bunama         ʔe-              FOSSIL
- PT:  Dobu           ʔe-              FOSSIL
- PT:  Kalokalo       kai-             FOSSIL
- PT:  Aroma          ɣau-             INANIMATE (see text above)
+ PT:  Misima         e-               [FOSSIL]
+ PT:  Gumawana       ai-              [FOSSIL]
+ PT:  Bunama         ʔe-              [FOSSIL]
+ PT:  Dobu           ʔe-              [FOSSIL]
+ PT:  Kalokalo       kai-             [FOSSIL]
+ PT:  Aroma          ɣau-             [INANIMATE] (see text above)
  PT:  Hula           au-              ‘trees, long wooden objects’ (see text above)
  PT:  Balawaia       ɣau-             ‘banana’ (see text above)
  PT:  Motu           au-              ‘long things (spears, poles)’ (Lean 1991; vol.7:48) (see text above)
- MM:  Mono-Alu       e-               FOSSIL
- MM:  Torau          e-               FOSSIL
- NCV: NE Ambae       kai-             ATTRIBUTIVE
- NCV: Raga           ɣai-             FOSSIL
- NCV: Apma           ka-              FOSSIL
- NCV: Paamese        e-               FOSSIL
- NCV: Nese           ɣo-              FOSSIL
- NCV: Vao            ɣe-              FOSSIL
- NCV: Unua           ɣe-              FOSSIL
- NCV: Sesake         ke-              FOSSIL
+ MM:  Mono-Alu       e-               [FOSSIL]
+ MM:  Torau          e-               [FOSSIL]
+ NCV: NE Ambae       kai-             [ATTRIBUTIVE]
+ NCV: Raga           ɣai-             [FOSSIL]
+ NCV: Apma           ka-              [FOSSIL]
+ NCV: Paamese        e-               [FOSSIL]
+ NCV: Nese           ɣo-              [FOSSIL]
+ NCV: Vao            ɣe-              [FOSSIL]
+ NCV: Unua           ɣe-              [FOSSIL]
+ NCV: Sesake         ke-              [FOSSIL]
 PMic *-ai ‘long slender object’
 PMic *-kai ‘plant, tree, stick’ (PMic *kayu ‘wood, pole’; Bender et al. 2003a)
  Mic: Kiribati       -ai              ‘long objects; hardware, furniture, chests, barrels, timber, coconut leaf stems, fingers, teeth, large fish, sharks’
@@ -23304,15 +23302,15 @@ the Micronesian forms reflects prenasalisation, i.e. *-ŋa-tau > *-ŋ-tau > *-PM
 <
  CMP: Kambera         tau              ‘person’
 POc *tau ‘animate; person’ (POc *tau ‘person’; vol.5:40)
- PT: Kilivila         tau-, to-, te-   ‘human; male human’
+ PT: Kilivila         |tau-, to-, te-|   ‘human; male human’
  PT: Muyuw            te-              ‘man’
  MM: Nakanai          tau-, taho-      ‘person’
- MM: Nehan            to-              FOSSIL
- MM: Petats           to-              FOSSIL
- MM: Halia            to-              DEFAULT
- MM: Teop             tao-             FOSSIL
- MM: Papapana         tau-             FOSSIL
- MM: Banoni           to-              FOSSIL
+ MM: Nehan            to-              [FOSSIL]
+ MM: Petats           to-              [FOSSIL]
+ MM: Halia            to-              [DEFAULT]
+ MM: Teop             tao-             [FOSSIL]
+ MM: Papapana         tau-             [FOSSIL]
+ MM: Banoni           to-              [FOSSIL]
 PMic *-dau ‘animate; person’ (< *-ŋa-tau)
  Mic: Puluwatese      -ɽay             ‘human and other animate’ (< *-n-tau)
  Mic: Satawalese      -ɽai             ‘animate’ (< *-n-tau)
@@ -23352,7 +23350,7 @@ category (like *pua- and *kai- above) are more likely candidates for fossilisati
 <
   CB: Ambai             man-            ‘animate’
 POc *manu ‘animate’; ‘flying creatures and land animals’ (POc *manuk ‘birds, flying creatures’; vol.3:271–273)
-  Adm: Wuvulu           -manu           fossil in ʔolu-manu ‘3 non-humans’
+  Adm: Wuvulu           -manu           [fossil] (in ʔolu-manu); ‘3 non-humans’
   Adm: Awa              -mano           ‘bird’
   Adm: Penchal          -[mə]n          ‘animate’
   Adm: Ponam            -man            ‘person, spirit’
@@ -23362,7 +23360,7 @@ PPT *manu- ‘animal’
   Mic: Nauruan          -men            ‘animate’
 PMic *-manu ‘animate’
   Mic: Kiribati         -man
-  Mic: Marshallese      -man            ‘animate’ (fossil in e-man ‘4’
+  Mic: Marshallese      -man            ‘animate’; [fossil] (in e-man ‘4’)
   Mic: Mokilese         -men            ‘animate’
   Mic: Ponapean         -men            ‘animate’
   Mic: Puluwatese       -man            ‘animate’ (with 6–9)
@@ -23387,7 +23385,7 @@ PAdm *-kaba ‘flat object; leaf’
   Adm: Titan              -kap                 ‘plant’
   Adm: Kele               -kap                 ‘flat natural object’
   Adm: Loniu              -kap                 ‘leaf’
-  NCal: Nyelâyu           hava-                ‘flat pliable object: leaf, paper, fabric
+  NCal: Nyelâyu           hava-                ‘flat pliable object: leaf, paper, fabric’
   NCal: Nêlêmwa           hava-                ‘large flat object’
   NCal: Kumak             hava-                ‘flat object’
 >
@@ -23399,9 +23397,9 @@ POc *pata ‘long cylindrical object; tree trunk’ meets both criteria.
 POc *pata ‘long cylindrical object; tree trunk’ (POc *pata(ŋ) ‘tree trunk’; vol.3:87)
 PMic *-fata ‘long cylindrical object; tree trunk’ (Harrison & Jackson 1984; a. 2003)
  Mic: Mokilese            -pas               ‘long object’
- Mic: Ponapean            -pʷɔc ̣             ‘long objects inc. trees, vehicles, songs’
+ Mic: Ponapean            -pʷɔc̣              ‘long objects inc. trees, vehicles, songs’
  Mic: Puluwatese          -fɔr               ‘long object’
- Mic: Chuukese            -fɔc ̣              ‘long cylindrical object’
+ Mic: Chuukese            -fɔc̣               ‘long cylindrical object’
  Mic: Satawalese          -fɔɽ               ‘long object’
  Mic: Carolinian          -fɔʂ               ‘long object, as trees, canoes, pens’
  Mic: Woleaian            -faʂ               ‘long object’
@@ -23429,8 +23427,7 @@ individuals, not collections.
 glosses of its reflexes it seems that its primary use may have been for bunches of betelnuts.
 
 <
-POc *buŋV ‘bunch (of fruit, esp. betelnut?)’ (ACD: POc *buŋ(u) ‘bunch, cluster, of grain,
-  fruit, areca nuts, etc.’)
+POc *buŋV ‘bunch (of fruit, esp. betelnut?)’ (ACD: POc *buŋ(u) ‘bunch, cluster, of grain, fruit, areca nuts, etc.’)
 PAdm *-buŋu ‘cluster, bundle (usually of fruit)’
   Adm: Lou                  -pu             ‘clump’
   Adm: Baluan               -pu             ‘heap, bundle, group of (e.g. fruit or people)’
@@ -23470,7 +23467,7 @@ pui > PMic *-bui.
 490 Malcolm Ross
 
 <
-POc *pui, *pui ‘bunch, group’ (POc *pui ‘bunch, cluster, as of fruit’; ACD)23
+POc *pui, *pui ‘bunch, group’ (POc *pui ‘bunch, cluster, as of fruit’; ACD)[23]
   Adm: Lou                 -wi               ‘bunch’
   PT:    Sudest [24]       ui-               ‘bunch of bananas or betelnuts’
 PMic *-bui ‘group, herd’
@@ -23479,7 +23476,7 @@ PMic *-bui ‘group, herd’
   Mic: Puluwatese          -pʷi              ‘group’
 PPn *se[ŋa]-fui ‘set of 5 pairs (of coconuts etc)’
   Pn:    Takuu             (se)fui           ‘score (of coconuts)’
-  Pn:    Sikaiana          (se)hui           ‘10 (for birds, coconuts, copra, taro, fruits’)
+  Pn:    Sikaiana          (se)hui           ‘10 (for birds, coconuts, copra, taro, fruits)’
   Pn:    Nukuoro           (de)hui, (ŋa)hui ‘a 10 of coconuts’
 >
 
@@ -23511,7 +23508,7 @@ PPT *waRo- ‘a bundle of coconuts’
   SES: Longgu          alo           ‘10 fish’
   SES: Arosi           waro          ‘5 eels’
   SES: Sa'a            walo          ‘10 strings of shell money; 10 coconuts made into copra and strung together in halves’
-  SES: Owa             waro (iɣa)     ‘10 fish on string’ (iɣa ‘fish’)
+  SES: Owa             |waro (iɣa)|     ‘10 fish on string’ (iɣa ‘fish’)
   NCal: Nêlêmwa        wã-            ‘2 pair of dead flying foxes’
 >
 
@@ -23551,8 +23548,8 @@ PCP *mata- ‘10 fish; 10 taro’ (POLLEX: ‘10 fish’)
 ECs by various parameters, arguing that these distributions were largely true of POc, even if
 the forms cannot be reconstructed.
 
-   Of the 383 Oceanic languages from which data were collected, ECs were recorded for
-69. The total number of ECs recorded from these 69 languages was 394. This is simply a
+   Of the 383 Oceanic languages from which data were collected, ECs were recorded for 69.
+The total number of ECs recorded from these 69 languages was 394. This is simply a
 product of what linguists and ethnographers have recorded. It is not a sample in a
 statistical sense. What follow are thus only rough generalisations.
 
@@ -23564,8 +23561,8 @@ multiplicand, e.g. 3 in ‘a bundle of 3 coconuts’ or 10 in ‘a string of 10 
    What do ECs usually count? In Micronesian languages, where a classifier accompanies
 every counted item, coconuts, fish and breadfruit stand out as the items that are often
 accompanied by an EC. In SE Solomonic and Polynesian languages, on the other hand,
-only certain items require a classifier (Lichtenberk 2008b:264–265). Bender & Beller
-(2007b:226–228) ask why certain objects were counted specifically, while others were not.
+only certain items require a classifier (Lichtenberk 2008b:264–265). Bender & Beller (2007b:226–228)
+ask why certain objects were counted specifically, while others were not.
 After dismissing various answers that are not supported by reality, they conclude:
 
 __blockquote__
@@ -23586,7 +23583,7 @@ __blockquote__
 are almost universally counted with ECs in Oceanic languages that have them. There are
 also ECs for bananas across most of Oceania. Taro and yams are also frequently counted
 with ECs, but not in Micronesia, where they are less valued or less abundant than
-breadfruit.26 Betelnut, chewed as a stimulant across Near Oceania, is counted with ECs in
+breadfruit.[26] Betelnut, chewed as a stimulant across Near Oceania, is counted with ECs in
 Papuan Tip and in NW and SE Solomonic (it is not chewed in Remote Oceania).
 
     Except for betelnut, all the items named in the previous paragraph are foods and, as one
@@ -23818,8 +23815,8 @@ without being told that sugarcane thatch is counted in pairs, just as the Arosi 
 knows that this is true for breadfruit.
 
    Bender & Beller (2006b:384–385) analyse similar pairwise systems in the EPn languages
-Tahitian, Mangarevan and traditional Maori. Elbert’s (1988:187) Rennellese audience of
-1958 wondered why yams and breadfruit should be counted in pairs, and, as he writes later,
+Tahitian, Mangarevan and traditional Maori. Elbert’s (1988:187) Rennellese audience of 1958
+wondered why yams and breadfruit should be counted in pairs, and, as he writes later,
 without an EC (§14.1.2.4). Owens & Lean (2018:143), citing Beaglehole & Beaglehole
 (1938), note that coconuts are counted in pairs and that the terms used are in some cases
 identical to the ordinary numerals, i.e. listeners know that coconuts are counted this way.
@@ -23896,8 +23893,8 @@ bundles of 4’, where -ʔo was a bundle of 4. At this point the base-4 system d
 power of 4, and counting proceeds with the classifier -moro ‘unit of 16’, as far as fai-ma-
 moro [9×16] ‘144’.
 
-   The Wogeo (and Bam) numeral system, as reported by Exter (2010) and shown in Table
-14.12, has a base of 4. The complex numerals from kʷik ‘4’ upwards are easily parsed:33 kʷik
+   The Wogeo (and Bam) numeral system, as reported by Exter (2010) and shown in Table 14.12,
+has a base of 4. The complex numerals from kʷik ‘4’ upwards are easily parsed:33 kʷik
 bʷa-kobʷá [4+1] ‘5’, kʷik bʷa-ragó [4+2] ‘6’, kʷik bʷe-tol [4+3] ‘7’, kiki-rua [4×2] ‘8’, kiki-
 rua bʷa-kobʷá [(4×2)+1] ‘9’ and so on. If this were a pure base-4 system, the numerals would
 continue thus to 15 [(4×3)+3], followed by a new simple term for 16 [42]. But instead 16 is
@@ -23961,9 +23958,9 @@ mystery.
 
 <
 POc *-ika, *ika- ‘unit of 10’ (POc *ikan ‘fish’; vol.4:28–29)
- PT:  Kiriwina:        ika-              ‘10 of s.t.’
+ PT:  Kiriwina         ika-              ‘10 of s.t.’
  PT:  Nimoa (Sabari)   ie-               ‘10’
- PT:  Sudest           ya-, ye-, yo-     ‘10’
+ PT:  Sudest           |ya-, ye-, yo-|   ‘10’
 PMic *-ik[a,e] ‘10 of ??’
  Mic: Woleaian         -ix               ‘10 of anything except shells, coconuts and groups’ (Harrison and Jackson 1984:70)
  Mic: Mortlockese      -ek               ‘10 animate beings’
@@ -23994,7 +23991,7 @@ PCP *rau ‘100’ (POc *raun ‘leaf’, vol.3:103–104)
 PPn *[te]rau ‘100’
   Pn:    Tongan         -[ŋe]au     ‘100 pairs of sugarcane thatch’
   Pn:    Tongan         -au         ‘100 scores of coconuts or yams’
-  Pn:    Niue           te au       ‘100’
+  Pn:    Niue           |te au|     ‘100’
   Pn:    Samoan         se-lau      ‘100’
   Pn:    Niuafo’ou      te-au       ‘100’ (Tongan loan)
   Pn:    E Uvea         te-au       ‘100’ (Tongan loan)
@@ -24102,7 +24099,7 @@ breakup of PAdm, POc *ŋa had been lost, except as a fossil in PAdm *-ŋafulu �
 
 <
 POc *-ŋapuluq ‘unit of 10’ (cf §14.4.5.2)
-  Adm: Mussau            -ŋaulu                    ‘10’35
+  Adm: Mussau            -ŋaulu                    ‘10’[35]
 PAdm *-ŋafulu ‘unit of 10’
   Adm: Lou               -ŋoul                     ‘10’
   Adm: Baluan            -ŋal                      ‘10’
@@ -24314,7 +24311,7 @@ reconstruction is possible.
    Six classifiers with a Nauruan cognate can be reconstructed for PMic.
 
 <
-PGMic < POc *[pa]paq[a]- ‘coconut frond’ (vol 3:380–381)
+PGMic *[pa]paq[a]- ‘coconut frond’ (< POc; vol 3:380–381)
  Mic: Nauruan             -bɛ               ‘coconut frond’
 PMic *paa ‘leaf and stalk, frond’ (Bender et al. 2003a)
  Mic: Ponapean            -pa               ‘frond’
@@ -24326,8 +24323,9 @@ PMic *paa ‘leaf and stalk, frond’ (Bender et al. 2003a)
  Mic: Sonsorol            -pa               ‘coconut leaf, pandanus leaf’
 >
 
-<
 PGMic
+
+<
  Mic: Nauruan          -dume                          ‘packet’
 PMic *-sukumV ‘package, packet’
  Mic: Puluwatese       -tɨkɨm                         ‘package’
@@ -24341,26 +24339,25 @@ PMic *-sukumV ‘package, packet’
 506 Malcolm Ross
 
 <
-PGMic < POc *boŋi ‘night, 24-hour day’ (vol 2:295–297)
+PGMic *boŋi ‘night, 24-hour day’ (< POc; vol 2:295–297)
  Mic: Nauruan          -bumi             ‘night’
 PMic *-pʷoŋi ‘night’
  Mic: Kiribati         -poŋ              ‘day’
  Mic: Mokilese         -pʷoŋ             ‘days hence’
  Mic: Ponapean         -pʷoŋ             ‘night’
  Mic: Puluwatese       -pʷoŋ             ‘night’
- Mic: Carolinian       -bʷoŋ             ‘night (esp the taboo nights of a funeral
-                                         wake)’
+ Mic: Carolinian       -bʷoŋ             ‘night (esp the taboo nights of a funeral wake)’
  Mic: Sonsorol         -bɔŋi             ‘night, timespan’
  Mic: Ulithian         -boŋo             ‘night’
 >
 
 <
-PGMic < POc *raun ‘leaf’ (vol.3:103–104)
+PGMic *raun ‘leaf’ (< POc; vol.3:103–104)
  Mic: Nauruan              -ra-          ‘flat object’
 PMic *-cau ‘thin ( flat object), leaf’
- Mic: Ponapean             -c ̣e         ‘leaf, sheet’
+ Mic: Ponapean             -c̣e         ‘leaf, sheet’
  Mic: Puluwatese           -ɽə̄          ‘flat object’
- Mic: Chuukese             -c ̣ə         ‘leaflike, sheet’
+ Mic: Chuukese             -c̣ə         ‘leaflike, sheet’
  Mic: Satawalese           -ɽə           ‘flat object, e.g. leaf’
  Mic: Carolinian           -ʂə           ‘page, flat leaves, pieces of paper’
  Mic: Woleaian             -ʂə           ‘flat object’
@@ -24369,7 +24366,7 @@ PMic *-cau ‘thin ( flat object), leaf’
 >
 
 <
-PGMic < PMic *pʷuku ‘node, joint, knot, knee’ < POc *buku- ‘mound, knob, joint; (?) elbow, knee’ (vol.5:175)
+PGMic *pʷuku ‘node, joint, knot, knee’ (< PMic; < POc *buku- ‘mound, knob, joint; (?) elbow, knee’) (vol.5:175)
  Mic: Nauruan            -bu              ‘100’
 PMic *-pʷukua ‘100’
  Mic: Kosraean           -fok             ‘100’
@@ -24387,7 +24384,7 @@ PMic *-pʷukua ‘100’
 >
 
 <
-PGMic < PMic *kisi ‘small, little’ (Bender et al 2003a)
+PGMic *kisi ‘small, little’ (< PMic) (Bender et al 2003a)
  Mic: Nauruan             -kɛ               ‘small parts of s.t’
 PMic *-kisi ‘small parts of s.t.’
  Mic: Mokilese            -kic              ‘bit’
@@ -24523,7 +24520,7 @@ PPn *toka- ‘person’ (Clark 1999)
   Pn:   Samoan           toʔa-              ‘people’
   Pn:   Rennellese       toka-              ‘animates’
   Pn:   Takuu            taka-              ‘humans’
-  Pn:   Langiua          toka-              ‘humans’
+  Pn:   Luangiua         toka-              ‘humans’
   Pn:   Rarotongan       toko-              ‘humans’
   Pn:   Maori            toko-              ‘humans’
 >
@@ -24555,10 +24552,10 @@ Proto Samoic *tino- ‘animate being’
 <
 Proto Samoic *fua- ‘unit of ten’ (POLLEX)
   Pn:    Samoan           fua-       ‘10 coconuts’ (Pratt 1862: ‘10 fowls, breadfruit or shellfish’)
-  Pn:    Tuvalu           fua-       prefix indicating ‘ten times’
+  Pn:    Tuvalu           fua-       [prefix indicating ‘ten times’]
   Pn:    E Futunan        fua-       ‘unit of ten’
-  Pn:    Nukuoro          hua        numeral classifier, by tens, for fruit
-  Pn:    Tikopia          fua-       numeral prefix: ‘ten times’
+  Pn:    Nukuoro          hua        [numeral classifier, by tens, for fruit]
+  Pn:    Tikopia          fua-       [numeral prefix: ‘ten times’]
 >
 
 <
@@ -25751,8 +25748,8 @@ __table__
 process are likely to have a term reflecting *puluq. What can be said is that instances of *puluq
 did not arise via a (4c) process, to which we now turn.
 
-    Items reflecting *rua-lima ‘two hands = 5’ are shown separately in Map 15.5 and Table
-15.10. The presence of a single reflex in Tuam, far away from the geographic area formed by
+    Items reflecting *rua-lima ‘two hands = 5’ are shown separately in Map 15.5 and Table 15.10.
+The presence of a single reflex in Tuam, far away from the geographic area formed by
 all other reflexes in central and south Vanuatu and New Caledonia, is almost certainly the
 result of independent innovation.
 
@@ -25778,16 +25775,16 @@ in one significant feature.
 Belep arguably has a base-5-20 system (McCracken 2012), Nyelâyu and Nêlêmwa
 base-5-10-20 (Ozanne-Rivierre 1998; Bril 2014). The shared ancestor of the three languages,
 Proto Far North New Caledonia, had terms for 10 and 15: *rũnik and *tĩnik respectively.
-Tentatively, these reflect earlier *rua-lima (2×5) and *tolu-lima (3×5), as the forms for 2 and
-3 show that the initial consonants do reflect POc *r- and *t-. The morph -ni in *rũnik ‘and
+Tentatively, these reflect earlier *rua-lima (2×5) and *tolu-lima (3×5), as the forms for 2 and 3
+show that the initial consonants do reflect POc *r- and *t-. The morph -ni in *rũnik ‘and
 *tĩnik reflects *lima ‘5’: cf nearby Yuanga pɔ-ni [CLF-5] ‘5’ (Bril 2014), Pije/Jawe/Nemi nim
 ‘5’ (Haudricourt & Ozanne-Rivierre 1982). The origin of final *-k of *rũnik ‘and *tĩnik is
 unknown.
 
    Belep is conservative and continues to reflect *tĩnik ‘15’, which Nyelâyu and Nêlêmwa
 have lost. All three languages count 10+1, 10+2, 10+3, 10+4. Belep then counts 15, 15+1,
-15 +2, 15 +3, 15 +4 for 15 to 19, whereas Nyelâyu and Nêlêmwa count 10+5 to 10+9 for
-15 to 19.[13] In other words, Belep counts three rounds of a 5-cycle from 5 to 19, but Nyelâyu
+15+2, 15+3, 15+4 for 15 to 19, whereas Nyelâyu and Nêlêmwa count 10+5 to 10+9 for 15 to 19.[13]
+In other words, Belep counts three rounds of a 5-cycle from 5 to 19, but Nyelâyu
 and Nêlêmwa count one round of a 5-cycle from 5 to 9, and one round of a 10-cycle from 10
 to 19. Nêlêmwa numerals from 1 to 40 are included in Table 15.10. Thus the loss of *tĩnik
 ‘15’ and the consequent change in the numerals 15–19 turn the Nyelâyu and Nêlêmwa
@@ -25891,8 +25888,8 @@ __table__
 
    In light of this it is possible that many base-5-10 systems reflect (7b), simple
 replacement of 6 to 9 by additive numerals. There is support for this in situations where a
-decimal and a base-5-10 system coexist. An example is Notsi (New Ireland, MM; Table
-15.11), where the base-10 set is “used at mortuary feasts to count the pigs displayed on the
+decimal and a base-5-10 system coexist. An example is Notsi (New Ireland, MM; Table 15.11),
+where the base-10 set is “used at mortuary feasts to count the pigs displayed on the
 special platform by the feast organizer.” (Erickson & Erickson 1992) and the base-5-10
 system is used otherwise. Garde (2015:125–126) reports a similar situation in Sa (south
 Pentecost, NCV, Table 15.12), well away from Papuan influence. The base-5-10 system is in
@@ -25905,14 +25902,13 @@ contexts as follows:
 
 The difference between the forms for 2 to 5 in the two Sa systems leaves open the
 possibility that one system has been borrowed, but the two Notsi systems may indeed
-reflect the modification of the more formal base-10 system by everyday tally-based forms for
-6–9.
+reflect the modification of the more formal base-10 system by everyday tally-based forms for 6–9.
 
     There is, however, a piece of counter-evidence to this hypothesis. Oceanic languages that
 retain the POc decimal system intact reflect the POc decades *sa[ŋa]puluq ‘1×10’, *rua-
 ŋapuluq ‘2×10’, *tolu-ŋapuluq ‘3×10’, and so on. But many Oceanic languages retain a reflex
-of either *saŋapuluq or *ŋapuluq ‘10’ in the sense ‘unit of ten’ (§14.4.5.2), so that multiples of
-10 are formed as complex numerals reflecting, e.g. *ŋapuluq rua ‘10×2’, *rua saŋapuluq or
+of either *saŋapuluq or *ŋapuluq ‘10’ in the sense ‘unit of ten’ (§14.4.5.2), so that multiples of 10
+are formed as complex numerals reflecting, e.g. *ŋapuluq rua ‘10×2’, *rua saŋapuluq or
 *saŋapuluq rua (Table 14.6). If a base-5-10 system were formed from a decimal system just
 by replacement of 6 to 9, one would expect the POc decade forms to be retained, but this
 happens only in three closely related languages: Motu, Gabadi and Lala of the Central
@@ -26128,13 +26124,13 @@ __blockquote__
         Vanuatu shortly after the first wave of SM [southern Melanesian] Austronesians is not
         inherently implausible.
 
-   The issue was reopened recently by two groups of archaeogeneticists. Skoglund et al.
-(2016) found that the genomes of three individuals from the Lapita cemetery at Teouma on
+   The issue was reopened recently by two groups of archaeogeneticists. Skoglund et al. (2016)
+found that the genomes of three individuals from the Lapita cemetery at Teouma on
 Efate (central Vanuatu) matched those of Tongans (Blust’s ‘southern Mongoloids’), not those
 of modern niVanuatu. They hypothesised that the ‘Papuans’ who have made a large
 contribution to niVanuatu genomes arrived somewhat later. Posth et al. (2018) conducted a
-wider survey, and found that people with Papuan genomes had first arrived roughly around
-500 BC, not in a sudden “invasion” but over several centuries. This meant that they started to
+wider survey, and found that people with Papuan genomes had first arrived roughly around 500 BC,
+not in a sudden “invasion” but over several centuries. This meant that they started to
 arrive 500 years or perhaps less after the first Lapita settlement in Vanuatu. A second paper
 from the first group (Lipson et al. 2018) reaches a similar conclusion.
 
@@ -26564,7 +26560,8 @@ the case of New Guinea it may reflect contact with Papuan systems of measurement
 this is a matter for further research.
 
 <
-PMP *saŋa ‘bifurcation, fork of a branch’; *zaŋan ‘handspan’ (ACD)
+PMP *saŋa ‘bifurcation, fork of a branch’
+PMP *zaŋan ‘handspan’ (ACD)
 PEMP *saŋa ‘crotch, fork of the legs; span, fork of the fingers’ (ACD)
 POc *saŋa- ‘fork (in tree), forked stick or branch; crotch, fork of the legs; span, fork of the fingers’ (ACD) (vol.3:96; vol.5:173)
   NNG: Mangseng        ðaŋa          ‘fathom: length between two stretched arms’
@@ -26572,7 +26569,7 @@ POc *saŋa- ‘fork (in tree), forked stick or branch; crotch, fork of the legs;
   MM: Banoni           saŋa          ‘span of hand’
   SES: Gela            haŋa          ‘span, outstretched fingers’
   SES: ’Are’are        tana          ‘span, between thumb and first finger; to span with this measure’
-  SES: Sa’a            taŋa-a        (n) ‘a span’; (vt) ‘to span with the hand’
+  SES: Sa’a            taŋa-a        (N) ‘a span’; (VT) ‘to span with the hand’
   SES: Arosi           taŋa(a)       ‘a hand’s breadth, fingers extended’ (-a nominaliser)
 PChk *yaŋa ‘finger span’ (Bender et al. 2003b)
   Mic: Puluwatese      -yaŋ          ‘span’
@@ -26635,7 +26632,7 @@ POc, but there is no evidence for a reconstruction.
 
 <
   CMP: Kéo          fatə             ‘a finger segment’
-  MM: Babatana      papado tutuku    ‘distance between first and second finger joints’ (papado ‘joint’; tutuku ‘finger’)
+  MM: Babatana      |papado tutuku|  ‘distance between first and second finger joints’ (papado ‘joint’; tutuku ‘finger’)
  SES: Longgu        kidoi            ‘an inch; the length of one finger joint’
 PChk *makoto-ciki ‘length of one finger segment’ (-ciki ‘small’; Bender et al. 2003b)
  Mic: Carolinian    mʷɔwo-ṣix        ‘length of one finger segment’ (about an inch = 2.5 cm)
@@ -26717,7 +26714,7 @@ functions. POc *ropa was a noun, and POc *-ŋapa a numeral classifier.
 <
 PAn *depah ‘fathom’ (ACD)
 POc *ropa (n) ‘fathom: with arms extended, length from finger tips to finger tips’ (ACD); (v) ‘measure in fathoms’
-  Adm: Seimat          kaha(ina)    ‘fathom, measure by fathoms’4
+  Adm: Seimat          kaha(ina)    ‘fathom, measure by fathoms’[4]
   Adm: Levei-Drehet    (a)lap       ‘span; e.g., distance between fingertips of a person's extended arms’
   NNG: Tuam            rōv          ‘armspan’
   NNG: Kilenge         lewe         ‘armspan; fathom of shell money’
