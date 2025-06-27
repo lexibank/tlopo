@@ -5576,9 +5576,9 @@ following item betrays a similar pattern.
 118 Meredith Osmond
 
 <
-POc *(b,bʷ)aku(r,R) 'work a garden ' (Dempwolff 1938: POc *(p,b)agur (V) 'hoe')
+POc *(b,bʷ)aku(r,R) 'work a garden ' (Dempwolff 1938: POc _*(p,b)agur_ (V) 'hoe')
   PT:    Gumawana        bagula            'work in a garden'
-  PT:    Gumawana        baguli            'plant (s.t.)' (perhaps < POc **(b,bʷ)aku(r,R)-i)
+  PT:    Gumawana        baguli            'plant (s.t.)' (perhaps < POc _**(b,bʷ)aku(r,R)-i_)
   PT:    Kalokalo        bagula            'garden'
   PT:    Bwaidoga        bakula            'garden'
   PT:    Sudest          bakubaku          'ground (cleared near house)'
@@ -5601,7 +5601,7 @@ PMP *talun 'fallow land' (Blust 1972b)
 POc *talu(n) 'fallow land, land returning to secondary growth'
   SES:   Gela            talu              'forest land which has been previously cultivated'
   SES:   Kwaio           alu               'garden of second or third crop'
-  SES:   Kwaio           |alu (sīsī)|        'an old garden plot returning to secondary growth, beginning to be overgrown'
+  SES:   Kwaio           |alu (sīsī)|      'an old garden plot returning to secondary growth, beginning to be overgrown'
   SES:   Sa'a            alu               'last year's yam garden'
   SES:   Arosi           aru               'an overgrown garden; land formerly used for a garden; a dug garden'
   Pn:    Niuean          talu-talu         'land out of cultivation'
@@ -5668,7 +5668,7 @@ POc *tanoq 'earth, soil'
  SES: Bugotu             tano            'earth, ground'
  SES: Sa'a               ana             'ground, garden ground'
  SES: Arosi              ana             'ground, earth, soil, the land'
- NCV: Raga              tano            'earth'
+ NCV: Raga               tano            'earth'
  NCV: Lewo               tano            'earth, land'
  Mic: Kiribatese         tano            'earth, ground, soil'
  Mic: Woleaian           tal             'earth, ground, soil'
@@ -5723,7 +5723,7 @@ removed, together with any weeds which have survived the burning.
 addition, the following terms are reconstructable.
 
 <
-PAn *tebaS 'cut, clear vegetation' (Dempwolff (1938) reconstructed *teba 'land appropriated by clearing of forest') (ACD)
+PAn *tebaS 'cut, clear vegetation' (Dempwolff (1938) reconstructed _*teba_ 'land appropriated by clearing of forest') (ACD)
 POc *topa 'land cleared for a garden; land formerly planted as a garden'
   Fij:    Wayan              tova-tova    'garden plantation'
   Fij:    Bauan              tova         'flat piece of land, formerly planted with yams'
@@ -5809,7 +5809,7 @@ POc *soko(t), *sokot-i- 'burn (grass, rubbish +)'
  MM: Tangga               sok               '(fire) burn'
  MM: Nehan                suk               (ADJ) 'burnt' ; (v) 'singe'
   cf. also:
-  SES:    Arosi           togo               'make up a fire, set more wood on'
+ SES:    Arosi           togo               'make up a fire, set more wood on'
 >
 
     Reflexes of POc _*tunu_ 'roast on embers or in fire; burn (grass +); make decorative
@@ -5834,7 +5834,7 @@ POc *papo 'weed (a garden +)' (ACD)
 >
 
 <
-POc *rabut or *rubat 'uproot' (French-Wright 1983 has *(R,d)amput 'uproot ')
+POc *rabut or *rubat 'uproot' (French-Wright 1983 has _*(R,d)amput_ 'uproot ')
   MM: Tolai               rubat              'root up, pull up by the roots, raise taro +'
   MM: Roviana             rabutu             'pull out by the roots'
   SES: 'Are'are           rahu-i             'pull out, down, of grass, shrubs, trees, plants'
@@ -5944,8 +5944,8 @@ POc *waso 'digging stick'
 >
 
 Note also Sengseng (NNG) _e-suk_ 'digging stick' and East Fijian _oukit-a_ (V) 'root, dig up or
-loosen the ground with a stick ', both reflexes of POc _*(su)suk-i_ 'pierce, prick, sew' (Ch. 4,
-§3.2.1); also the Polynesian reflexes of POc _*kojom_ 'husking stick' which refer to 'digging
+loosen the ground with a stick ', both reflexes of POc _*(su)suk-i_ 'pierce, prick, sew'
+(Ch. 4, §3.2.1); also the Polynesian reflexes of POc _*kojom_ 'husking stick' which refer to 'digging
 stick' (Ch. 6, §5.5).
 
 
@@ -6037,7 +6037,7 @@ yam) and taro, the latter being grown in a separate plot.
 |     through, but yams and hanas have a regular season and only one crop. New ground is cleared
 |     for the yams and hanas every year, and the same ground is never planted twice, fertilizers
 |     being unknown. The old yam gardens serve for bananas and pawpaws, and for the planting of
-|     betel pepper, and the edible reed awalosi. Different words are used to denote the clearing for
+|     betel pepper, and the edible reed _awalosi_. Different words are used to denote the clearing for
 |     a yam garden, and the clearing for taro.
 
      In a description of traditional gardens on Manus Island in the Admiralties, McEldowney (1995:98) 
@@ -6056,16 +6056,16 @@ garden plots, where they remain while the plots undergo their cycle of fallow.
 peoples:
 
 |     A striking characteristic of what can now be interpreted as an independent origin of agriculture
-|     in western Melanesia is its emphasis on arboriculture-the culture of trees-Qrchards. Trees
+|     in western Melanesia is its emphasis on arboriculture - the culture of trees - orchards. Trees
 |     were transported Pacific-wide, carried by the itinerant colonist-cultivators, incorporated into
 |     all production systems and begot the typical village environs of Polynesia and Micronesia
 |   (Yen 1990). Some nut and fruit trees and sago dropped out before reaching the farther islands
 |   of the eastern and northern Pacific. Archaeological evidence for a well-developed arboriculture
 |   at least 3,500 years ago comes from the Mussau Islands, north of New Ireland (Kirch 1989).
 |   Arboreal species existing at this considerable time depth included: coconut, two or three
-|   species of Pandanus, Inocarpus fag ife r (the 'Tahitian chestnut', which remains one of the
+|   species of Pandanus, Inocarpus fagifer (the 'Tahitian chestnut', which remains one of the
 |   most important Oceanic arboricultural species), Canarium indicum (a nutritionally substantial
-|   'almond' -producing tree in Melanesia), Spondias dulcis (the vi-apple, now of very wide
+|   'almond'-producing tree in Melanesia), Spondias dulcis (the vi-apple, now of very wide
 |   distribution in the tropical Pacific), Pometia, Pangium, Terminalia, Burckella, Calophyllum,
 |   and others, including hardwood trees widely prized for woodworking.
 
@@ -6148,7 +6148,7 @@ __table__
 __greens__ | |
 POc  | _*bele_ | 'shrub species, Abelmoschus manihot (syn. Hibiscus manihot)'
 
-No doubt a variety of green leaves were eaten but other reconstructions (e.g. *kusa(q)) do
+No doubt a variety of green leaves were eaten but other reconstructions (e.g. _*kusa(q)_) do
 not permit a definition more precise than 'k.o. edible greens'.
 
 
@@ -6176,7 +6176,7 @@ POc  | _*qipi_     | 'Tahitian chestnut, Pacific chestnut, Inocarpus fagifer' (s
 No garden is complete or likely to succeed without an abundance of colourful and aromatic
 herbs and shrubs. In addition to their ornamental qualities, these herbs and shrubs play a
 major role in various forms of garden magic and ritual. Reconstructions for two such are
-*laqia 'ginger, Zingiber officinale', whose role is magical rather than culinary, and *yaŋo
+_*laqia_ 'ginger, Zingiber officinale', whose role is magical rather than culinary, and _*yaŋo_
 'turmeric, Curcuma longa', which has both an edible root and a rich orange pigment, of
 ritual significance in many Oceanic societies.
 
@@ -6472,8 +6472,8 @@ visits to Santa Cruz and Espiritu Santo at the beginning of the seventeenth cent
 species found in the lowlands (Nasturtium hybospermum). It is a widespread practice today
 for bunches of these plants, with seed pods, to be hung up to dry until such time as a new
 garden is prepared. The seeds are then broadcast into the soil surface. Other contenders
-may be legumes, such as the winged bean (Psophocarpus tetragonolobus)[8] and Lablab
-purpureus, both of which may date from pre-contact times (pers.comm. Michael Bourke).
+may be legumes, such as the winged bean (Psophocarpus tetragonolobus)[8] and Lablab purpureus,
+both of which may date from pre-contact times (pers.comm. Michael Bourke).
 The association of these or similar plants with POc speakers will, however, depend on our
 reconstruction of appropriate terms.
 
@@ -6534,14 +6534,12 @@ POc *tubuq 'grow, swell'
 
 5.9.3 Ripen
 
-   Chapter 6, §3.9contains two reconstructions, POc _*ma-osak_ 'ready to be eaten (because
+   Chapter 6, §3.9 contains two reconstructions, POc _*ma-osak_ 'ready to be eaten (because
 ripe or cooked)" and POc _*[ma-]noka_ 'be in good condition for eating; nicely ripe, well-cooked,
 soft'.
 
 
-
 5.9.4 Wither
-
 
   Although any plant may become dry and droop through lack of water, it is a feature of
 yam vines that the leaves turn yellow and drop off when the tubers are ready to harvest.
@@ -6644,7 +6642,7 @@ POc *sapu(t), *saput-i- 'pull out, pull up, pluck (fruit, nuts)'
 >
 
 <
-POc *tapu(t), *taput-i- 'strip (crops), pull off' (French-Wright 1983: *tapu)
+POc *tapu(t), *taput-i- 'strip (crops), pull off' (French-Wright 1983: _*tapu_)
   NNG: Lukep           tau(rai)          'pick' (_-rai_ < POc _*-(r,R)-aki_)
   PT:  Bwaidoga        tavu(na)          'harvest bananas'
   PT:  Motu            tapusi            'pull strongly, with jerk of a string, and possibly break it'
@@ -6851,9 +6849,8 @@ future events are placed in time by referring to yam crop cycles, thus according
 meaning equivalent to our concept of 'year' (PT: Kilivila _tetu_ 'small yam (the main staple);
 year'; NNG: Mapos Buang _ta_ 'year; a complete cycle of yam growing'; NCV: Paamese _ouh_
 'a yam; a year'). Similarly, Ivens (1927:358) writes, "Our [English] word year would be
-rendered in a Melanesian language (Sa'a halisi, Lau, Kwaiofalisi 'yam harvest, yam season,
+rendered in a Melanesian language (Sa'a _halisi_, Lau, Kwaio _falisi_ 'yam harvest, yam season,
 year'] by whatever is equivalent to the yam crop."
-
 
 
 5.14 Archaeological evidence
@@ -6878,7 +6875,7 @@ Kirch (1997: 203-205) writes:
 
 Among the food plants identified from archaeological sites are Canarium almond (Canarium indicum), 
 Indian almond (Terminalia catappa), the New Guinea walnut (Dracontomelon dao), 
-Pometia pinnata, Burckella obovata, Tahitian chestnut (lnocarpus fagiferus) and
+Pometia pinnata, Burckella obovata, Tahitian chestnut (Inocarpus fagiferus) and
 vi-apple (Spondias dulcis) (Kirch 1997: 206-207).
 
    The second source of evidence, modification of the landscape, supports the POc horticultural
@@ -6908,7 +6905,7 @@ digging stick for tillage (_*waso_), possibly a dibble stick for planting (for w
 reconstructed term other than that for digging stick) and a hooked stick (_*kawit_) for picking
 fruit and nuts. The POc reconstructions to do with horticulture refer primarily to gardening
 activities: clearing, burning, weeding, digging, planting, picking and gathering. Also represented
-are the processes undergone by the plants themselves-sprouting, growing, swelling, ripening,
+are the processes undergone by the plants themselves - sprouting, growing, swelling, ripening,
 withering.
 
    We have no evidence that any form of fertilising was used, apart from the occasional
@@ -6932,9 +6929,7 @@ taro and yams, together with related knowledge of growth stages, propensity for 
 propagation techniques for these and other garden plants such as sugar cane and bananas.
 
 
-
 6 Food preparation
-
 
 6.1 Introduction
 
@@ -6981,8 +6976,7 @@ piece of wood. We have a term specifically for the action of lighting a fire wit
 Note that the Central Pacific terms have unexplained vowel fronting.
 
 
-
-Figure 19: POc *suka, *suka-i 'make fire with fire-plough'
+Figure 19: POc _*suka_, _*suka-i_ 'make fire with fire-plough'
 
 <
 POc *suka, *suka-i- 'make fire with fire-plough'
@@ -7139,7 +7133,7 @@ POc *rapu(R) 'hearth, fireplace; ashes'
 There is a second term, PAn _*qabu_, POc _*qapu_, with similar reference. Blust (ACD) comments:
 "_*qabu_ is among the most widespread and stable morphemes in the Austronesian family. It
 referred to ashes, and prototypically to the ashes in the fireplace (hence its recurrent replacement
-of PMP *dapuR in the meaning 'hearth')."
+of PMP _*dapuR_ in the meaning 'hearth')."
 
 <
 PAn *qabu 'ash, cinder, powder' (ACD)
@@ -7196,7 +7190,7 @@ POc *qumun 'oven made with hot stones; cook in a stone or earth oven' (Chowning 
   SES: 'Are'are          ūmu                'stone oven'
   SES: Arosi             umu                'round stone oven, with loose stones on top'
   NCV: Mota              um                 'native oven'
-  SV:  Kwamera           n-umun             'earth oven' (n- is a fossil article)
+  SV:  Kwamera           n-umun             'earth oven' (_n-_ is a fossil article)
   Mic: Kiribatese        umun-              'put s.t. to cook on hot stones in earth oven'
   Pn:  Niuean            umu                'stone oven; food cooked in stone oven'
   Pn:  Samoan            umu                'stone oven, consisting of a shallow cavity lined with stones on which a fire is lit and cleared away before the food is laid on the hot stones'
@@ -7206,7 +7200,6 @@ POc *qumun 'oven made with hot stones; cook in a stone or earth oven' (Chowning 
 
 Chowning (1991: 55) argues that the gloss 'earth oven' is too restrictive, as raised ovens
 (covered with leaves rather than earth) as well as pit ovens are common in Oceania.
-
 
 
 6.2.7 Covering and uncovering an oven
@@ -7240,8 +7233,7 @@ POc *kapi(t), *kapit-i- 'grasp (with tongs)' (A few reflexes show unexpected _-s
                                                                        Food preparation     149
 
 
-
-Figure 21: POc *kapit 'tongs' (from Nevermann 1933: 102)
+Figure 21: POc _*kapit_ 'tongs' (from Nevermann_1933: 102)
 
   Lichtenberk adds a number of other terms which, as well as being used in relation to oven
 cooking, probably also have more general reference:
@@ -7319,11 +7311,10 @@ differences in the glosses for the witnesses most likely reflect differences in 
 backgrounds of the authors rather than differences in cooking methods."
 
 
-
 6.3.1 Cooking in stone oven
 
 <
-PEOc *papi- 'cook in oven with hot stones and leaves' (cf. PEOc *papia 'firewood, fuel' with cognates in Mic. and Pn.)
+PEOc *papi- 'cook in oven with hot stones and leaves' (cf. PEOc _*papia_ 'firewood, fuel' with cognates in Mic. and Pn.)
  SES: Lau              fafi            'put leaves on oven in cooking'
  SES: Kwaio            fafi            'cook in leaf oven'
  SES: 'Are'are         hahi-           'cook between hot stones'
@@ -7336,7 +7327,6 @@ stone oven, or by boiling by dropping hot stones into liquid)' (p.271), which he
 be POc, although he points out that all cognates are from either Northwest or Southeast
 Solomonic languages, and thus likely candidates for borrowing. We have opted here to label
 his reconstruction PSS.
-
 
 
 6.3.2 Roasting, burning, branding
@@ -7398,8 +7388,8 @@ practised in Oceania, 'boil' being the usual gloss. The difference between boili
 lies in the amount of liquid used. For boiling, the food is (more or less) entirely covered with
 the liquid; for steaming, only a small amount of liquid is used. If POc did have a lexical
 distinction between the two processes, there is some evidence, albeit weak, that the verb for
-'boil' was *nasu and that the one for 'steam' was *napu, It is also conceivable that of the two
-terms, *nasu was unmarked and could be used to refer to both types of process.
+'boil' was _*nasu_ and that the one for 'steam' was _*napu_, It is also conceivable that of the two
+terms, _*nasu_ was unmarked and could be used to refer to both types of process.
 
 <
 PAn *nasuk, *Nasu 'cook by boiling' (ACD)
@@ -7421,16 +7411,14 @@ POc *napu (v) 'steam (?), boil (?)'
   Fij: Bauan              navu               'cook in steam'
 >
 
-It is possible that the forms attributed to PPT *na(q)u(q) 'clay dish' in Chapter 4, §2.1.5, are
-also reflexes of *napu: see the discussion there.
-
+It is possible that the forms attributed to PPT _*na(q)u(q)_ 'clay dish' in Chapter 4, §2.1.5, are
+also reflexes of _*napu_: see the discussion there.
 
 
 6.3.5 Warming
 
-
    Lichtenberk contributes a POc term which he glosses as 'warm oneself by fire; warm up,
-reheat (esp. food)' . Ann Chowning has added cognates from Kove, Molima and Nakanai
+reheat (esp. food)'. Ann Chowning has added cognates from Kove, Molima and Nakanai
 which, like the Pukapuka term, refer to heating of leaves in preparation for mat making (see
 Chapter 4, §3.1.1).The POc gloss has been generalised accordingly.
 
@@ -7488,7 +7476,7 @@ may have been some blending of meaning in daughter languages. Lichtenberk sugges
 the two POc terms may have referred to different ways of wrapping food; Firth (1957), for
 instance, gives four terms for different ways of wrapping food in Tikopia. From the glosses
 below, it seems possible that _*kapu(t)_, _*kaput-i-_ referred to covering (as an earth oven is
-covered), whilst *kopu referred to the wrapping of the food in bundles. For both terms,
+covered), whilst _*kopu_ referred to the wrapping of the food in bundles. For both terms,
 reflexes indicate wider reference than to food alone. In Polynesia they have come to refer
 more specifically to clothing or blankets.
 
@@ -7500,7 +7488,7 @@ POc *kapu(t), *kaput-i- 'wrap, cover; cover food prior to cooking' (Lichtenberk 
   MM:  Nakanai        avu              'wrap s.t. up (e.g. _avu-kalebu_ - wrap up fish for cooking so that pieces of fish are separated by a layer of leaves)'
   MM:  Kara (East)    ɣəfute           'cover'
   SES: Lau            ʔafu             'wrap up; make a cigarette'
-  SES: To'aba'ita     ʔafu             'wrap s.t. (e.g. wrap fish--not pork--in a leaf for cooking)'
+  SES: To'aba'ita     ʔafu             'wrap s.t. (e.g. wrap fish - not pork - in a leaf for cooking)'
   SES: 'Are'are       ʔahu             'wrap, cover'
   SES: Arosi          ahui-            'wrap up'
   SES: E. Arosi       ahu(nu)          'broil on the embers in a leaf'
@@ -7674,7 +7662,7 @@ POc *tapa (V) 'dry food by heat to preserve it; smoke food' (Lichtenberk)
    In addition, Blust offers the following:
 
 <
-PMP *pa[kaj-qasu (v) 'smoke, fumigate' (from *pa[ka] 'causative' + PMP *qasu (N) 'smoke, fumes, steam'); (v) '(fire) smoke' (ACD)
+PMP *pa[kaj-qasu (v) 'smoke, fumigate' (from _*pa[ka]_ 'causative' + PMP _*qasu_ (N) 'smoke, fumes, steam'); (v) '(fire) smoke' (ACD)
 POc *pa[ka]-qasu (V) 'smoke, cure by smoking'
   Mic: Trukese        ātɨ              (V) 'smoke, steam; cause to be smoked or steamed (for curing)'
   Fij: Rotuman        fak-asu          'place in smoke'
@@ -7707,15 +7695,15 @@ carrying on longer sea voyages, and thus a prime suspect, along with its term, f
 Yen (1975) writes that in Melanesia fermentation appears to be practised only in Santa Cruz
 and ascribes its presence there to Polynesian influence. However, David Walsh has pointed
 out (pers.comm. with Lichtenberk) that fermentation is practised also in some areas in Vanuatu.
-(See the Namakir form mada below.) Ross (Food plants, vol. 3) points out that there is a
+(See the Namakir form _mada_ below.) Ross (Food plants, vol. 3) points out that there is a
 curious cross-over between the reflexes of PEOc _*mara_ 'preserved breadfruit' and POc
 _*madraR_ 'grow ripe, overripe', _*madraR-i-_ 'grow ripe, overripe from (s.t.) (?)'. In scattered
 languages in Vanuatu, Fiji and Micronesia, a reflex of _*madraR_/_*madraR-i-_ has taken over
 the 'preserved breadfruit' sense which we would instead expect to find associated with a
-reflex *mara. Since closely related languages both in Vanuatu and in Micronesia disagree as
+reflex _*mara_. Since closely related languages both in Vanuatu and in Micronesia disagree as
 to which term they reflect, Ross infers that the closeness of both form and meaning has led to
 confusion between the two terms, leading to more than one independent occurrence of crossover.
-POc *madraR seems to have been applied specifically to breadfruit and bananas, both of
+POc _*madraR_ seems to have been applied specifically to breadfruit and bananas, both of
 which become soft and mushy when overripe. Breadfruit and bananas are also the two
 foodstuffs which today are most commonly preserved by fermentation (Yen 1975). Chowning
 lists a Nakanai cognate which indicates that the original POc term may have meant simply
@@ -7763,7 +7751,7 @@ POc *madraR-i- 'grow ripe, overripe from (s.t.) (?)'
 >
 
   Other terms which in parts of Polynesia refer to fermented breadfruit are derived from
-POc *maqasin.
+POc _*maqasin_.
 
 <
 PAn *qasin 'salty' (Zorc 1994)
@@ -7803,25 +7791,24 @@ PWOc *walu 'sago beater' (Chowning 1991)
 long handle (Ann Chowning pers.comm.). Smaller wooden pestles are used for mashing
 foodstuffs like taro, banana and breadfruit, and for crushing nuts, particularly galip (Canarium)
 and betel (Areca) nuts. Sometimes stones are used, or wooden pestles with stone heads.
-Lithgow lists Muyuw (PT) kilakil 'stone-headed sago pounder', and Chowning (pers.comm.)
-records a Nakanai (MM) term mulumu 'pestle of wood or bone used for crushing almonds or
-areca nuts', from the verb mumu 'crush in a mortar'. Lichtenberk write (p.277) that:
+Lithgow lists Muyuw (PT) _kilakil_ 'stone-headed sago pounder', and Chowning (pers.comm.)
+records a Nakanai (MM) term _mulumu_ 'pestle of wood or bone used for crushing almonds or
+areca nuts', from the verb _mumu_ 'crush in a mortar'. Lichtenberk write (p.277) that:
 
 |      Pounded foods are widespread in Oceania (Yen 1975). In Pidgin and in English they are
 |      referred to as 'puddings' (although not all puddings require pounding). The usual main
 |      ingredient is tubers (taro, yam), cooked and pounded, mashed into a paste together with
 |      other ingredients such as coconut cream or nuts, and then usually recooked.
 
-   A large wooden bowl (POc *tabiRa, PCP *kumete, see Ch. 4, §2.2.1) was traditionally
-used as a mortar. Sago was pounded in a trough, stronger and hea vier than a bowl, and
+   A large wooden bowl (POc _*tabiRa_, PCP _*kumete_, see Ch. 4, §2.2.1) was traditionally
+used as a mortar. Sago was pounded in a trough, stronger and heavier than a bowl, and
 designed so that water could run off from one end. Only isolated terms have been located
-(Muyuw kas 'trough for sago-making'; Loniu _kupʷi_ 'trough in which sago is pounded').
+(Muyuw _kas_ 'trough for sago-making'; Loniu _kupʷi_ 'trough in which sago is pounded').
 
                                                                       Food preparation        161
 
 
-Figure 22: taro stamper (no reconstruction) (from Nevermann 1934: 192)
-PWOc *walu 'sago beater' (from Nevermann 1934: 174)
+Figure 22: taro stamper (no reconstruction) (from Nevermann_1934: 192) PWOc _*walu_ 'sago beater' (from Nevermann_1934: 174)
 
 
    As Blust (ACD) notes, terms dealing with the action of pounding frequently contain the
@@ -7874,9 +7861,8 @@ PEOc *kaRi 'scraper; bivalve sp., used as a scraper' (Geraghty 1990)
   SES: Gela             gali             'species mollusc, pelecypod, Asaphis deflorata, eaten'
   NCV: Mota             gar              'cockle'
   NCV: Mota             (vin)gar         'cockle shell, used to cut yam vines and to scrape out meat from coconut ' (vin from viniu 'skin, bark, husk, partic. of coconut')
-  Fij: Bauan            kai              'generic name of bivalve shellfish, Lamellibranchiata'
+  Fij: Bauan            kai              'generic name of bivalve shellfish, Lamelli branchiata'
 >
-
 
 
 Figure 23: POc _*kaRi_, POc _*koRi_ 'bivalve used as food scraper'
