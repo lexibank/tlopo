@@ -7956,7 +7956,7 @@ PEOc (POC?)[6] *kori(s), *koris-i- 'scrape (esp. coconuts), grate (esp. coconuts
     NCV: Lewo                koli                  'scrape (e.g. coconut)'
 >
 
-[6]   Depending on whether the NNG term is ascribed to *koRi or *kori(s), *koris-i-.
+[6]   Depending on whether the NNG term is ascribed to _*koRi_ or _*kori(s)_, _*koris-i-_.
 
 <
 PCEMP *isi 'peel, strip off; scrape (coconut)' (ACD)
@@ -8063,7 +8063,7 @@ POc *(p,pʷ)ilit 'peel by hand (fruit, cooked food)'
 
 <
 PMP *qunap 'scales' (Dempwolff 1938)
-POc *qunap-i- (V) 'scale fish' (from POc *qunap 'fish scale; turtle shell')
+POc *qunap-i- (V) 'scale fish' (from POc _*qunap_ 'fish scale; turtle shell')
  PT:  Motu           unahi-             'scale a fish'
  SES: Arosi          unahi-             'remove shell from turtle, scale a fish'
  Pn:  Hawaiian       unahi-             'fish scales; scaly; (V) scale'
@@ -8271,7 +8271,7 @@ _biri-yi_ 'squeeze coconut milk through fibre').
 |    extracted, whereas _*poRos_ and _*pirik_ took as their direct object a noun phrase referring to
 |    the liquid extracted. _*pipik_ and _*pisak_ referred to squeezing by pressing, while _*poji_ and
 |    _*losi_ referred to squeezing by wringing. The item _*pirik_ referred specifically to a wringing
-|    action, while *poRos may have been an unmarked term whose meaning subsumed both
+|    action, while _*poRos_ may have been an unmarked term whose meaning subsumed both
 |    pressing and wringing. (As Ann Chowning has pointed out [pers.comm.] there are two
 |    basic ways used to extract coconut cream: wringing coconut gratings through coconut
 |    'cloth', or squeezing them in one's hands.)
@@ -8573,7 +8573,7 @@ or Haddon and and Hornell (1938) or a source other than a published dictionary.
 general sense of 'canoe' or 'boat' that go back to an early stage or stages of Austronesian.
 While early Austronesian speakers probably had several different named types of craft, most
 of Haddon and Hornell's etymologies are false. Only one of their putative cognate sets can be
-attributed to an early Austronesian interstage-that pointing to PCEMP _*waŋka_, POc _*waga_.
+attributed to an early Austronesian interstage - that pointing to PCEMP _*waŋka_, POc _*waga_.
 
 178      Andrew and Medina Pawley
 
@@ -8625,7 +8625,7 @@ POc *waga (1) 'large sailing canoe'; (2) 'canoe (generic)'
 
 The primary sense of POc _*waga_ was perhaps 'large sailing canoe' in contrast to paddling
 canoes (dugouts and small outrigger canoes). This sense is widely reflected across subgroups
-of Oceanic. As the name of the largest and most prestigious type, *waga would have been a
+of Oceanic. As the name of the largest and most prestigious type, _*waga_ would have been a
 natural choice as a generic term for all types of canoe and in a number of languages the
 generic sense has become primary. An example is from Kilivila, the language of the Kiriwina
 people of the Trobriand Islands (reported by Haddon (1937:267-269), based on Malinowski
@@ -8639,7 +8639,7 @@ but with two clinker-built washstrakes on each side and twenty or more booms cov
 continuous platform. It carries a large, elongated steering oar worked by two men. The
 _nagega_ is larger and more seaworthy than the _masawa_, with higher sides and more carrying
 capacity and a central standing mast, as opposed to a leaning mast stepped within the hull
-and shored by a prop. The generic term for all these craft is waga. In another part of Papua,
+and shored by a prop. The generic term for all these craft is _waga_. In another part of Papua,
 around Samarai, Abel (1902:62) reports that _vaga_ is the generic for all kinds of sailing
 canoes, but evidently excluded canoes without outriggers or sails.
 
@@ -8688,14 +8688,14 @@ are not demonstrably cognate. In the first set, initial _w-_ is irregular, sugge
 borrowed words, though the source of the borrowing is unclear (Alexander Adelaar,
 pers.comm.). In the second set, the uncharacteristic occurrence of the cluster _ŋk_ in the Philippine
 and Formosan forms suggests borrowing from a Malayo-Javanic or Sulawesi source (Lawrence
-Reid, pers.comm.). Tagalog and Cebuano b are not the regular reflexes of PMP _*w_. At
+Reid, pers.comm.). Tagalog and Cebuano _b_ are not the regular reflexes of PMP _*w_. At
 present, most of the few coastal Austronesian-speaking communities left on Taiwan proper
 use large bamboo sailing rafts for fishing. However, there is evidence that in the nineteenth
 century other kinds of craft including double outriggers were in use. Scott (1982:337) cites
 an eighteenth century Chinese observer, Huang Shi-ching, describing a built-up dugout canoe
 called a _manka_ [or _banka_] as follows:
 
-|   A manka is a single tree trunk hollowed out, with wooden planks fastened on both sides
+|   A _manka_ is a single tree trunk hollowed out, with wooden planks fastened on both sides
 |   with rattans; since they have no putty for caulking and water easily enters, the barbarians
 |   keep baling with a ladle.
 
@@ -8811,7 +8811,7 @@ a multi-hulled craft, can be derived from the double canoe.
    No term for double canoe can safely be reconstructed for any very early Austronesian
 interstage. However, a number of Oceanic languages reflect the following form:
 
-[8] See Pawley and Green (1973), Green (1991 b) for the terms 'Near Oceania' and 'Remote Oceania'.
+[8] See Pawley and Green (1973), Green (1991b) for the terms 'Near Oceania' and 'Remote Oceania'.
 
 <
 PEOc *paqurua 'double canoe'
