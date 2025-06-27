@@ -3877,7 +3877,7 @@ POc *raraŋ, *raraŋ-i- 'heat s.t. or warm oneself by fire'
 4.3.2 Cord, twine
 
    The simplest material for tying would have been lengths of vine or rattan, or strips of
-suitable bark, such as hibiscus. (pOc *waRoc 'vine, creeper, rope, string'; POc _*quwe_ 'rattan'
+suitable bark, such as hibiscus. (POc _*waRoc_ 'vine, creeper, rope, string'; POc _*quwe_ 'rattan'
 (see Plants, vol. 3)). A strong light twine could be made by rolling fibres together on the thigh.
 The strongest cords and ropes are made by twisting or plaiting various kinds of fibres or
 rolled thread, principally coconut fibre or hibiscus bark.
@@ -3949,7 +3949,8 @@ PEOc *piri-piri 'twine round and round; thing made by braiding'[4]
   Pn:  Hawaiian          hili-hili           (v) 'braid, plait, string'
 >
 
-[4]  Oliver (1974: 139) describes cord making from "the flax-like piripiri (Cenchrus echinatus)" in Tahiti, quoting from Hendy (1927).
+[4]  Oliver (1974: 139) describes cord making from "the flax-like _piripiri_ (Cenchrus echinatus)"
+in Tahiti, quoting from Hendy (1927).
 
 
                                                                    Household artefacts         85
@@ -4095,7 +4096,7 @@ POc *saRum 'needle, tattooing needle' (typically made from wing-bone of flying f
   SES: Arosi         taru              'bat's bone for tattooing'
   SES: 'Are'are      taru(a)           'needle, the bones of a flying fox'
   Fij: Bauan         sau               (v) 'prick, as in tattooing'
-  Fij: Bauan         (i)sau            'needle' (i- < POc *i- INS)
+  Fij: Bauan         (i)sau            'needle' (_i-_ < POc _*i-_ INS)
   Pn:  Tongan        hau               'thin dagger, like a giant needle, used in spearing bonito'
   Pn:  Samoan        au                'needle, tattooing comb'
   Pn:  Tokelauan     au                'needle for sewing thatch; tattooing comb'
@@ -4182,7 +4183,7 @@ POc *(m,mʷ)ata- 'point, cutting edge, sharp projection ' (Grace 1969)
     Pn:  Tahitian            mata           'edge of a tool'
 >
 
-[5]   Takia -l- is the lenis reflex of POc *-t-.
+[5]   Takia _-l-_ is the lenis reflex of POc _*-t-_.
 
 The following are possibly related to the set above but all reflect an extra _*i_ (Loniu and
 Tawala reflect a possible POc _*mʷati_, the NNG items a putative _*(m,mʷ)aita_). It is possible that
@@ -4340,7 +4341,7 @@ is reconstructable only for PWOc. Reflexes of POc *koto refer to a variety of us
 material and suggest that its primary meaning was 'obsidian cutting edge':
 
 
-Figure 11: POc _*nad(r)i_ 'flint, obsidian, stone with a cutting edge'; POc *koto 'obsidian knife or blade'
+Figure 11: POc _*nad(r)i_ 'flint, obsidian, stone with a cutting edge'; POc _*koto_ 'obsidian knife or blade'
 
                                                                         Household artefacts     93
 
@@ -4395,7 +4396,7 @@ POc *(m,mʷ)ata 'cutting edge' (§4.1.1)
 
 4.4. 1. 4 Awl
 
-   MUlti-purpose piercing tools may have been carried, fashioned from bone, perhaps a pig's
+   Multi-purpose piercing tools may have been carried, fashioned from bone, perhaps a pig's
 femur. These were useful for piercing shells, splitting fibres for weaving, splitting areca nuts,
 separating coconut meat from its shell and such daily activities. They were probably also used
 to pierce earlobes and the nasal septum. Green (1979:39) lists a worked pig-tusk piercing tool
@@ -4409,8 +4410,8 @@ and PEOc _*paRo_ 'drill through, pierce, perforate' (see Chapter 9, §4.2, for t
 
 4.4. 1.5 Sharpening and grinding
 
-   There is evidence that all three of the basic methods for shaping stone-flaking (also
-called chipping), pecking and grinding-were practised in POc times (Oliver 1989: 144). We
+   There is evidence that all three of the basic methods for shaping stone - flaking (also
+called chipping), pecking and grinding - were practised in POc times (Oliver 1989: 144). We
 have several reconstructions for actions which include sharpening or grinding, but they may
 also refer to grating (foodstuffs), and at times to rasping and filing (wood and shell). Pumice,
 widely available in volcanic regions, was typically used for sharpening stone. Although we
@@ -4492,8 +4493,8 @@ artefacts by rubbing. Beaglehole wrote of the Tahitians, "All their [wood] work 
 acquires a certain neatness in the finishing for they polish every thing, even the side of a
 canoe or a Post of a house, with Coral sand rubbed on in the outer husk of a Cocoa nut and
 rays skin, which makes them very smooth and neat." (quoted in Oliver 1974: 134). The
-general term for this may have been POc *quju(r) 'rub, make smooth by rubbing' (see Ch. 9,
-§2.3). In at least one language (Woleaian in Micronesia) the term for a file is the same term
+general term for this may have been POc _*quju(r)_ 'rub, make smooth by rubbing' (see
+Ch. 9, §2.3). In at least one language (Woleaian in Micronesia) the term for a file is the same term
 as that for stingray (_faiya_ > PAn _*paRis_ 'stingray'), the skin of which serves as a fine
 abrasive.
 
@@ -4513,7 +4514,7 @@ significant source is the Pipturus species, used for _tapa_ particularly in Hawa
 
     Bark-cloth is a significant item in Indonesia and in the eastern Oceanic region, particularly
 Polynesia, but also Santa Cruz, New Caledonia and Fiji. However, it does not feature strongly
-in the western Oceanic region. Ivens wrote (1918: 186) that although bark-cloth (_tapa_) was
+in the western Oceanic region. Ivens (1918: 186) wrote that although bark-cloth (_tapa_) was
 made in Melanesia, it never figured as an article of clothing, and its main use was to form a
 kind of shawl in which the baby was slung when carried from the shoulder. Ivens was
 probably speaking from a Solomons perspective. Kooijman (1972:446) quotes reports by
@@ -4531,7 +4532,7 @@ of paper mulberry, as a pruned shrub for the production of bark for cloth, as ce
 the Melanesia/Polynesia border area.
 
 
-Figure 12: POc *ike 'tapa beater'
+Figure 12: POc _*ike_ 'tapa beater'
 
    Although terms can be located in WOc, none are cognate, and no POc term is reconstructable,
 apart from terms for the sources of raw material, POc _*(m,mʷ)ase_ 'wild mulberry, paper
@@ -4609,7 +4610,7 @@ POc *ike 'tapa beater'
 >
 
 [8]   Kennedy identified terms as 'Toradja' in central Sulawesi. This is now recognised as a group of around a
-  dozen related languages. The term ike 'barkcloth beater' exists in at least one of them, Uma. Thanks are due
+  dozen related languages. The term _ike_ 'barkcloth beater' exists in at least one of them, Uma. Thanks are due
   to Phil Quick for locating relevant texts.
 
 
@@ -4633,13 +4634,12 @@ clothing was worn, bark-cloth was undoubtedly the most substantial wearable mate
 and to a lesser extent, grass, were used to fashion skirts, aprons and G-strings.
 
 
-
 4.5.2. 1 Loincloth
 
    The following reconstruction of POc _*malo_ is soundly based, although there is doubt as to
 whether the term can be traced back to an earlier stage. Blust (1970: 133) proposes PMP
 _*maru_ 'loincloth', but notes the difficulty of reconciling the PMP form with the POc, with
-the latter having unexplained _*0_ for expected _*u_ and _*l_ for expected _*r_. There can be little
+the latter having unexplained _*o_ for expected _*u_ and _*l_ for expected _*r_. There can be little
 doubt that the POc term referred to bark-cloth and a garment made from that material.
 
 <
@@ -4684,7 +4684,6 @@ POc *tipi 'loincloth, man's garment'
 
 4.5.2.2 Grass or leaf skirt
 
-
    Perhaps surprisingly, there is no widely reflected item for 'grass-skirt' or, more accurately,
 'leaf skirt'. The set below has cognates in two primary subgroups, but, since the Admiralties
 and the north coast of New Guinea were connected by trading links, it may be due to
@@ -4697,7 +4696,6 @@ POc (?) *nai (V)'woman's grass (shredded leaf?) skirt'
   NNG: Gedaged            nai
   NNG: Kairiru            nai
 >
-
 
 Along much of that coast, reflexes of POc _*jiRi_ 'cordyline' are used for 'grass-skirt':
 
@@ -4738,7 +4736,6 @@ their reflexes have also come to apply to the covering of the body, PPn _*kafu_ 
 cover the body (with a blanket)' PPn _*kofu_ 'wrap up; clothing'.
 
 
-
 4.5.3 Paint, smear, anoint
 
    The practice of rubbing oil or grease on the body is known throughout the region, coconut
@@ -4756,7 +4753,7 @@ POc *lumu(k) 'oil, grease'
   MM:  Simbo        lumu         'oil, grease'
   MM:  Roviana      lumu-        'anoint'
   SES: 'Are'are     rumu         'seaweed; k.o. moss on trees, used in ceremonial purification, is wrung out over the head of a newborn baby when taken into somebody's house'
-  SES: Arosi        rumu         'oil' (cf. rumu-rumu 'moss')
+  SES: Arosi        rumu         'oil' (cf. _rumu-rumu_ 'moss')
   Fij: Bauan        lumu         'anoint with oil'
   cf. also:
   SES: 'Are'are     ruma         'oil, grease from pigs and coconuts, rubbed on the body to make it shiny'
@@ -4770,11 +4767,11 @@ POc *lumu(k) 'oil, grease'
 POc *pani 'apply oil or paint to the body' (Chowning 1991)
   NNG: Sengseng       pan               'paint designs on bark-cloth'
   MM:  Nakanai        vali              'apply paint, feathers, or other surface adornment to the head or body'
-  Mic: Kiribatese     |bani (kamaimai)| 'perfumed oil' (kamaimai 'molasses of toddy')
+  Mic: Kiribatese     |bani (kamaimai)| 'perfumed oil' (_kamaimai_ 'molasses of toddy')
   Fij: Bauan          vani              'put oil through hair with fingers'
   Pn:  Tongan         pani              'smear, besmear, daub, or stain; rub the head with oil'
   Pn:  Rennellese     pani              'anoint (head + with turmeric)'
-  Pn:  Samoan         pani              'dye the hair with the juice of pani (tree)'
+  Pn:  Samoan         pani              'dye the hair with the juice of _pani_ (tree)'
   Pn:  Maori          pani              'paint, besmear'
 >
 
@@ -4825,7 +4822,6 @@ group of Samoic Outliers (Anuta, Luangiua, Takuu, Tikopia) use reflexes of PPn _
 'axe' to refer to their tattooing chisel.
 
 102 Meredith Osmond and Malcolm Ross
-
 
 
    The term tattoo is Polynesian in origin:
@@ -4902,7 +4898,7 @@ POc *bara 'plaited cane armlet'
 >
 
 
-Figure 13: POc _*bara_ 'plaited cane armlet' (from Nevermann 1934: 151)
+Figure 13: POc _*bara_ 'plaited cane armlet' (from Nevermann_1934: 151)
 
    Spriggs (1997a: 88) lists the distinctive range of shell ornaments recovered from Lapita
 sites such as Eloaua in the Admiralties, Balof (New Ireland) and Arawe Islands south-west of
@@ -4912,13 +4908,13 @@ possible for armlets, pearlshell ornaments, ear decorations and for the act of s
 a necklace.
 
 <
-POc *[la]lak[o] 'trochus shell ; bracelet made from it'
+POc *[la]lak[o] 'trochus shell; bracelet made from it'
   MM:  Tolai         lalai            'trochus shell; armlet made from this'
   SES: Gela          laɣo             'cone shell'
   SES: Lau           lao              'cone shell'
   SES: Arosi         raʔo             'cone shell'
   NCV: Mota          lala             'univalve, top shell; bracelet made of it'
-  NCV: Raga          lala             'top shell, Troehus stellatus; shell armlet, ring'
+  NCV: Raga          lala             'top shell, Trochus stellatus; shell armlet, ring'
   Mic: Woleaian      lax              'bracelet'
 >
 
@@ -5058,7 +5054,7 @@ POc *su(w)at, *su(w)a[t,r]-i- 'comb (hair)'
    These fall into two main categories, a) wind instruments, and b) drums. Apart from the
 conch shell trumpet, the wind instruments recorded in the ethnographic literature are usually
 of bamboo, although Blackwood (1935: 413) describes a didgeridoo-type instrument, the
-mabu, used on Buka, which is made from the trunk of a small tree. Bamboo instruments are
+_mabu_, used on Buka, which is made from the trunk of a small tree. Bamboo instruments are
 often simply referred to by the term for bamboo. The drums are typically wooden; but
 occasionally lighter drums are made from larger varieties of bamboo. Where a skin head is
 required, as in the hourglass drums, the skin of the monitor lizard is used where available. In
@@ -5068,8 +5064,7 @@ Polynesia (Rarotonga), sharkskin has been recorded as a drum skin.
 dancing sticks, a stringed bow and rattles made from seed pods or strings of shells.
 
 
-
-4.6. 1 Conch shell trumpet
+4.6.1 Conch shell trumpet
 
 <
 PMP *tambuRi(q) 'conch shell trumpet' (ACD)
@@ -5093,8 +5088,7 @@ POc *tapuRi(q) 'triton shell: Charonia tritonis, used as trumpet'
 
 
 
-Figure 15: POc _*tapuRi(q)_ 'triton shell trumpet' (from Nevermann 1933:218)
-POc _*kauR_ 'bamboo wind instrument'
+Figure 15: POc _*tapuRi(q)_ 'triton shell trumpet' (from Nevermann_1933:218) POc _*kauR_ 'bamboo wind instrument'
 
   In Polynesia the triton shell trumpet is generally known as _puu_, an onomatopaeic word
 which in many languages is associated with concepts of blowing.
@@ -5138,7 +5132,7 @@ POc *kauR 'bamboo; bamboo wind instrument'
   MM:  Tolai        |kaur goragoro|   'k. o. bamboo of which flutes are made'
   SES: 'Are'are     ʔau               'bamboo; generic name for music and musical instruments; panpipes'
   SES: Sa'a         au                'panpipes'
-  SES: Arosi        ʔau(uhi-uhi)      'panpipes of bamboo' (uhi 'blow, breathe')
+  SES: Arosi        ʔau(uhi-uhi)      'panpipes of bamboo' (_uhi_ 'blow, breathe')
   NCV: Paamese      e-au              'bamboo; knife; slitgong fixed in ground'
   NCV: Namakir      ʔo                'bamboo; panpipe'
   NCV: Nguna        na-au             'wild cane, reed; flute, mouth organ'
@@ -5167,8 +5161,7 @@ wood with skin stretched over it, such as is used in New Guinea and Torres Strai
 found on Mala [Malaita] and Ulawa".
 
 
-
-Figure 16: POc *kude 'hourglass drum'
+Figure 16: POc _*kude_ 'hourglass drum'
 
 <
 POc *kude 'hourglass drum'
@@ -5187,7 +5180,6 @@ for either instrument, although there is a separate term for slitgong.
 
 
 4.6.4 Slitgong
-
 
    Slitgongs are carved from logs hollowed through a longitudinal slit, and beaten on one side
 of the lip, usually with a single heavy stick. They are often played in unison, with different
@@ -5265,7 +5257,7 @@ PWOc *bogo-bogo 'Jew's-harp'
 
 4.7 Other artefacts
 
-4.7. 1   Broom
+4.7.1   Broom
 
 <
 POc *sapu(r), *sapur-i- 'brush (dirt +) off (s.t.)' (where 's.t.' is the object)
@@ -5285,7 +5277,7 @@ POc *sapu(r), *sapur-i- 'brush (dirt +) off (s.t.)' (where 's.t.' is the object)
 >
 
 
-Figure 17: POc *salap 'broom'
+Figure 17: POc _*salap_ 'broom'
 
 <
 POc *tapi 'dust off, brush lightly'
@@ -5326,14 +5318,12 @@ POc *salap, *salap-i- 'sweep, broom'
 112 Meredith Osmond and Malcolm Ross
 
 
-
 4.7.2 Headrest
-
 
   Use of a wooden headrest as a pillow is widespread. Terms can be traced back to PMP:
 
 <
-PMP *qulun-an 'place where one rests the head: wooden headrest' (> PMP *qulun 'rest the head on') (ACD)
+PMP *qulun-an 'place where one rests the head: wooden headrest' (> PMP _*qulun_ 'rest the head on') (ACD)
 POc *quluŋ-an 'rest the head on; wooden headrest' (ACD)
  Adm: Loniu        kaluŋ           'pillow, orig. a wooden block'
  Adm: Seimat       ul-uluŋ         'rest the head'
@@ -5356,9 +5346,7 @@ POc *quluŋ-an 'rest the head on; wooden headrest' (ACD)
                                                                      Household artefacts        113
 
 
-
-
-Figure 18: POc _*quluŋ-an_ 'wooden headrest' (from Nevermann 1934:271)
+Figure 18: POc _*quluŋ-an_ 'wooden headrest' (from Nevermann_1934:271)
 
 <
 POc *kalik 'native wooden pillow'
@@ -5400,7 +5388,6 @@ arrow, and as a cutting verb.
 
                            114 Meredith Osmond and Malcolm Ross
 
-
     As one moves east, from N.W. Melanesia and the Solomons out into the Pacific, the range
 of plant and animal life becomes less, with coral atolls having the most restricted environments.
 Shell increases in importance, while hard stone capable of taking an edge becomes rare.
@@ -5409,7 +5396,7 @@ show increased specialization. Tattooing becomes more widespread. These are most
 indicators of developing elaborations after the break-up of POc.
 
     Household artefacts varied greatly in the degree to which they were manufactured. A
-few--coconut-shell containers and shell scrapers-would have been functional more or less in
+few - coconut-shell containers and shell scrapers - would have been functional more or less in
 their natural state. Most items were manufactured to some degree, either with use of tools or
 through skilful manipulation of the raw material. Axe and adze heads had to be shaped and
 fitted with a handle; wooden bowls required tools that cut and shaped and gouged, smaller
@@ -5430,7 +5417,7 @@ not one that could simply be copied by examining the final product.
 demonstrated a desire by their makers to produce something that was more than simply
 functional. Although this point is illustrated most vividly by archaeological findings dating
 back to POc times, particularly the early Lapita pots, the mere existence of such decorative
- items as earrings, arm rings and combs points to a desire for some SOlt of ornamentation,
+ items as earrings, arm rings and combs points to a desire for some sort of ornamentation,
 some kind of artistic expression.
 
 [11] See Ross (1996c) for more detail of these processes.
@@ -5477,9 +5464,9 @@ from POc to PEOc.
 
 [1] I am indebted to Michael Bourke, Ann Chowning and Matthew Spriggs for a host of useful comments, to
     Malcolm Ross for adding to and tidying up many of my reconstructions, and to Jean Kennedy who drew
-    my attention to P. H McEldowney's thesis, Subsistence intensification in the late prehistory of Manus.
+    my attention to P. H. McEldowney's thesis, _Subsistence intensification in the late prehistory of Manus_.
     For evidence of the association of Lapita people with the break-up and spread of Proto Oceanic see
-    Chapter 3, § l .
+    Chapter 3, §1.
 
 
 5.2 Background
@@ -5493,7 +5480,7 @@ although major droughts can occur from time to time. As Ann Chowning (pers.comm.
 out, one of the primary components of garden magic is weather magic. There is little seasonal
 variation in temperature. Most Austronesian settlement is close to the sea, where maximum
 temperatures are around 30-32 °C, with minima around 23 °C. Associated with these factors
-are high humidity and cloudiness (McAlpine, Keig & Falls 1983: 3, 61 -66). The natural
+are high humidity and cloudiness (McAlpine, Keig & Falls 1983: 3, 61-66). The natural
 vegetation cover is tropical forest. Even in the drier areas, savanna woodland is the natural
 plant cover.
 
@@ -5505,8 +5492,8 @@ however, may have been adopted from Papuan speakers who had practised agricultur
 New Guinea for millennia before Austronesian speakers arrived. Brookfield and Hart (1971)
 made an exhaustive survey of forty-four places, fourteen of which are Austronesian
 settlements[2], in order to identify, as best they could, the environment and land use in 'Old
-Melanesia', the region as it was before external forces began to radically modify the man-
-environment systems. These provide a good representative sample of traditional methods
+Melanesia', the region as it was before external forces began to radically modify the man-environment
+systems. These provide a good representative sample of traditional methods
 across the region, and incidentally cover the major linguistic subgroups from New Guinea to
 Fiji, together with the Samoic outlier of Tikopia. The factors they considered were location
 (distance from the sea), elevation, topography, rainfall regime, biotic environment (soil and
@@ -5525,6 +5512,7 @@ variations on the classic swidden or shifting cultivation system.' (p. 108)
 |   of the garden before planting, or else piled around stumps where it is of no direct use to the
 |   plant. Occasionally ash is piled around particular plants which are thought to benefit from
 |   such treatment, but not around others.
+
 |       There is sometimes a little crop segregation, but it is quite subsidiary … Most gardens are
 |   untidy, littered with the fallen trunks of trees and quickly invaded by weeds. Because of wild
 |   and domesticated pigs, most gardens are fenced. Weeding is sometimes done in the early
