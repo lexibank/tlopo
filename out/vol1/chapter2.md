@@ -22,35 +22,36 @@ This chapter is intended largely for historical linguists who have an interest i
 
 Work based on the sound correspondences ([Ch. 1, §3.3](../contributions/1-1#s-3-3)) of both Oceanic and non-Oceanic languages has resulted in the following reconstructed paradigms of POc consonants and vowels:
 
-```
-&ast;pʷ         &ast;p          &ast;t            &ast;c           &ast;k         &ast;q
-&ast;bʷ         &ast;b          &ast;d            &ast;j           &ast;g
-                        &ast;s
-&ast;mʷ         &ast;m          &ast;n            &ast;ñ           &ast;ŋ
-                        &ast;r                                    &ast;R
-                        &ast;dr
-                        &ast;l
-&ast;w                                    &ast;y
-```
+|     |     |     |     |     |     |
+|:----|:----|:----|:----|:----|:----|
+| &ast;pʷ | &ast;p  | &ast;t  | &ast;c  | &ast;k  | &ast;q  |
+| &ast;bʷ | &ast;b  | &ast;d  | &ast;j  | &ast;g  |     |
+|     |     | &ast;s  |     |     |     |
+| &ast;mʷ | &ast;m  | &ast;n  | &ast;ñ  | &ast;ŋ  |     |
+|     |     | &ast;r  |     |     | &ast;R  |
+|     |     | &ast;dr |     |     |     |
+|     |     | &ast;l  |     |     |     |
+| &ast;w  |     |     | &ast;y  |     |     |
 
-```
-            &ast;i                        &ast;u
-            &ast;e                        &ast;o
-                        &ast;a
-```
+|     |     |     |
+|:----|:----|:----|
+| &ast;i  |     | &ast;u  |
+| &ast;e  |     | &ast;o  |
+|     | &ast;a  |     |
 
 
 <a id="p-16"></a>
 
 The paradigm reconstructed by [Dempwolff](../sources/Dempwolff1937) ([1937](../sources/Dempwolff1937)) has been modified in various ways by [Haudricourt](../sources/Haudricourt1951) ([1951](../sources/Haudricourt1951)), [Milke](../sources/Milke1968) ([1968](../sources/Milke1968)), [Grace](../sources/Grace1969) ([1969](../sources/Grace1969)), [Wolff](../sources/Wolff1974) ([1974](../sources/Wolff1974)), [Blust](../sources/Blust1978b) ([1978b](../sources/Blust1978b)) and [Ross](../sources/Ross1988) ([1988](../sources/Ross1988), [1989b](../sources/Ross1989b), [1996d](../sources/Ross1996d)). The paradigm and orthography here are from [Ross](../sources/Ross1988) ([1988](../sources/Ross1988)), with the addition of _&ast;pʷ_.
 
-The reconstruction of _&ast;pʷ_ was first proposed (with little commentary) by [Blust](../sources/Blust1984) ([1984](../sources/Blust1984)), and used in reconstructions by [Ross](../sources/Ross1994a) ([1994](../sources/Ross1994a)a, 1996d). The POc consonant inventory reconstructed by [Ross](../sources/Ross1988) ([1988](../sources/Ross1988):93-94), as well as its orthographically somewhat different predecessor reconstructed by [Grace](../sources/Grace1969) ([1969](../sources/Grace1969); see [§2.4](../contributions/1-2#s-2-4)), included the pairs _&ast;p_ and _&ast;b_, _&ast;t_ and _&ast;d_, and _&ast;k_ and _&ast;g_,[^1] but only the single velarised bilabial _&ast;bʷ_ (Grace's _&ast;ŋp_); so the conclusion that _&ast;pʷ_ is also required by the data is not surprising. However, the reflexes of _&ast;pʷ_ have not been worked out as fully as those of other POc consonants (they are generally missing from the sources listed in [Chapter 1, §3.3](../contributions/1-1#s-3-3)), and unexplained inconsistencies remain among the small number of widely reflected items in which it is reconstructed. Reflexes which signal its presence are:
+The reconstruction of _&ast;pʷ_ was first proposed (with little commentary) by [Blust](../sources/Blust1984) ([1984](../sources/Blust1984)), and used in reconstructions by [Ross](../sources/Ross1994a) ([1994a](../sources/Ross1994a), [1996d](../sources/Ross1996d)). The POc consonant inventory reconstructed by [Ross](../sources/Ross1988) ([1988](../sources/Ross1988):93-94), as well as its orthographically somewhat different predecessor reconstructed by [Grace](../sources/Grace1969) ([1969](../sources/Grace1969); see [§2.4](../contributions/1-2#s-2-4)), included the pairs _&ast;p_ and _&ast;b_, _&ast;t_ and _&ast;d_, and _&ast;k_ and _&ast;g_,[^1] but only the single velarised bilabial _&ast;bʷ_ (Grace's _&ast;ŋp_); so the conclusion that _&ast;pʷ_ is also required by the data is not surprising. However, the reflexes of _&ast;pʷ_ have not been worked out as fully as those of other POc consonants (they are generally missing from the sources listed in [Chapter 1, §3.3](../contributions/1-1#s-3-3)), and unexplained inconsistencies remain among the small number of widely reflected items in which it is reconstructed. Reflexes which signal its presence are:
 
-a) velarised bilabials (usually _pʷ_) in contexts where they do not reflect _&ast;bʷ_; see _&ast;pʷaraq_, _&ast;pʷararaq_ 'thunder', _&ast;pʷatik_ 'potato yam, aerial yam, Dioscorea bulbifera', _&ast;ku(p,pʷ)ena_ 'fishing net';
-
-b) apparent fortis reflexes of _&ast;p_ in Western Oceanic and SES languages in environments where a lenis reflex is usually found; see _&ast;(p,pʷ)ilak_ 'lightning', _&ast;pʷaraq_, _&ast;pʷararaq_ 'thunder', _&ast;pʷatik_ 'potato yam, aerial yam, Dioscorea bulbifera', _&ast;pʷita_ 'snare; to snare', _&ast;(p,pʷ)aRaRa_ 'handle';
-
-c) apparent reflexes of _&ast;b_ or _&ast;bʷ_ in Polynesian or Nuclear Micronesian (and occasionally other) languages; see _&ast;la(p,pʷ)a(r,R)_ 'lightning, phosphorescence', _&ast;pʷaraq_, _&ast;pʷararaq_ 'thunder', _&ast;ku(p,pʷ)ena_ 'fishing net', _&ast;(p,pʷ)aRaRa_ 'handle'.
+a) velarised bilabials (usually _pʷ_) in contexts where they do not reflect _&ast;bʷ_;
+   see _&ast;pʷaraq_, _&ast;pʷararaq_ 'thunder', _&ast;pʷatik_ 'potato yam, aerial yam, Dioscorea bulbifera', _&ast;ku(p,pʷ)ena_ 'fishing net';
+b) apparent fortis reflexes of _&ast;p_ in Western Oceanic and SES languages in environments where a lenis reflex is usually found;
+   see _&ast;(p,pʷ)ilak_ 'lightning', _&ast;pʷaraq_, _&ast;pʷararaq_ 'thunder', _&ast;pʷatik_ 'potato yam, aerial yam, Dioscorea bulbifera', _&ast;pʷita_ 'snare; to snare', _&ast;(p,pʷ)aRaRa_ 'handle';
+c) apparent reflexes of _&ast;b_ or _&ast;bʷ_ in Polynesian or Nuclear Micronesian (and occasionally other) languages;
+   see _&ast;la(p,pʷ)a(r,R)_ 'lightning, phosphorescence', _&ast;pʷaraq_, _&ast;pʷararaq_ 'thunder', _&ast;ku(p,pʷ)ena_ 'fishing net', _&ast;(p,pʷ)aRaRa_ 'handle'.
 
 In some cases we reconstruct _&ast;(p,pʷ)_ as we are unsure whether the protophoneme was _&ast;pʷ_ or whether we are confronted by one of several other phenomena, including (i) borrowing, (ii) Western Oceanic and SES fortis reflexes of _&ast;p_, or (iii) velarisation before a rounded vowel in certain languages. As [Blust](../sources/Blust1981a) ([1981a](../sources/Blust1981a)) remarks with regard to POc _&ast;bʷ_ and _&ast;mʷ_, velarisation generally does not occur in non-Oceanic languages and sometimes occurs in POc etyma where non-Oceanic cognates give us no reason to expect it.
 
@@ -96,64 +97,79 @@ Oceanic languages reflect a set of shared innovations relative to PMP, and it wa
 
 The terms 'oral grade' and 'nasal grade' were used by [Grace](../sources/Grace1969) ([1969](../sources/Grace1969)) and have become conventional among Oceanic linguists to refer to the outcomes of (c) below. Grace's orthography roughly represents the pre-POc situation. The innovations which occurred over the pre-POc period were mergers and splits, the introduction of new phonemes, and one deletion, as follows:
 
-a)   The PMP voiced/voiceless pairs _&ast;p_, _&ast;b_ and _&ast;k_, _&ast;g_ merged respectively as early pre-POc _&ast;p_ and _&ast;k_. [Ozanne-Rivierre](../sources/OzanneRivierre1992) ([1992](../sources/OzanneRivierre1992)) suggests that the corresponding _&ast;t_, _&ast;d_ merger was hindered by their mismatch in point of articulation (dental vs alveolar).
-
-b)   The PMP pairs _&ast;s_, _&ast;Z_ and _&ast;d_, _&ast;r_ merged respectively as pre-POc _&ast;s_ and _&ast;d_ (phonetically probably [r], since Eastern Malayo-Polynesian cognates are liquids).
-
-c)   PMP and a number of its descendants had word-medial homorganic nasal + obstruent sequences (not in Table 1). Some instances of the pre-POc word-initial obstruents _&ast;p_, _&ast;t_, _&ast;k_, _&ast;d/r_, _&ast;s_ and _&ast;j_ also acquired a preceding homorganic nasal (the occurrence of this process is unpredictable and its causes largely unknown; cf. [§3.1.3](../contributions/1-2#s-3-1-3)). These sequences became the unitary early pre-POc phonemes _&ast;mp_, _&ast;nt_, _&ast;ŋk_, _&ast;nd/nr_ and _&ast;nj_, subsequently the POc prenasalised voiced obstruents _&ast;b_, _&ast;d_, _&ast;g_, _&ast;dr_, and _&ast;j_ (PMP nasal + _&ast;s_ and nasal + _&ast;j_ merged as pre-POc _&ast;nj_, POc _&ast;j_). It is possible that pre-POc _&ast;nt_, POc _&ast;d_ never occurred word-initially.
-
-d)   The labio-velars _&ast;pʷ_, _&ast;bʷ_ and _&ast;mʷ_ entered the language. Most of the items containing a labio-velar lack non-Oceanic cognates, and some, at least, must have been borrowed into POc from neighbouring Papuan languages. For example, it can be argued that _&ast;mʷapo(q)_ 'taro' was borrowed by POc speakers as they acquired more sophisticated taro-growing techniques from Papuan speakers ([Ross 1996d](../sources/Ross1996d)). A few of these items were inherited into POc, and the labio-velar was the reflex of a labial occurring next to a round vowel. However, it is not clear in these items that the labio-velar actually occurred in POc ([Blust 1981a](../sources/Blust1981a)). Thus a number of Oceanic languages reflect _&ast;tamʷata_ 'man, husband', derived from _&ast;tau_ 'body, person' + _&ast;mataq_ 'unripe, immature, young', but we cannot be sure whether this or _&ast;taumata(q)_ was the POc form.
-
+a)   The PMP voiced/voiceless pairs _&ast;p_, _&ast;b_ and _&ast;k_, _&ast;g_ merged respectively as early pre-POc
+     _&ast;p_ and _&ast;k_. [Ozanne-Rivierre](../sources/OzanneRivierre1992) ([1992](../sources/OzanneRivierre1992)) suggests that the corresponding _&ast;t_, _&ast;d_ merger was
+     hindered by their mismatch in point of articulation (dental vs alveolar).
+b)   The PMP pairs _&ast;s_, _&ast;Z_ and _&ast;d_, _&ast;r_ merged respectively as pre-POc _&ast;s_ and _&ast;d_ (phonetically
+     probably [r], since Eastern Malayo-Polynesian cognates are liquids).
+c)   PMP and a number of its descendants had word-medial homorganic nasal + obstruent
+     sequences (not in Table 1). Some instances of the pre-POc word-initial obstruents _&ast;p_, _&ast;t_,
+     _&ast;k_, _&ast;d/r_, _&ast;s_ and _&ast;j_ also acquired a preceding homorganic nasal (the occurrence of this
+     process is unpredictable and its causes largely unknown; cf. [§3.1.3](../contributions/1-2#s-3-1-3)). These sequences
+     became the unitary early pre-POc phonemes _&ast;mp_, _&ast;nt_, _&ast;ŋk_, _&ast;nd/nr_ and _&ast;nj_, subsequently
+     the POc prenasalised voiced obstruents _&ast;b_, _&ast;d_, _&ast;g_, _&ast;dr_, and _&ast;j_ (PMP nasal + _&ast;s_ and nasal
+     + _&ast;j_ merged as pre-POc _&ast;nj_, POc _&ast;j_). It is possible that pre-POc _&ast;nt_, POc _&ast;d_ never
+     occurred word-initially.
+d)   The labio-velars _&ast;pʷ_, _&ast;bʷ_ and _&ast;mʷ_ entered the language. Most of the items containing a
+     labio-velar lack non-Oceanic cognates, and some, at least, must have been borrowed
+     into POc from neighbouring Papuan languages. For example, it can be argued that
+     _&ast;mʷapo(q)_ 'taro' was borrowed by POc speakers as they acquired more sophisticated
+     taro-growing techniques from Papuan speakers ([Ross 1996d](../sources/Ross1996d)). A few of these items
+     were inherited into POc, and the labio-velar was the reflex of a labial occurring next to
+     a round vowel. However, it is not clear in these items that the labio-velar actually
+     occurred in POc ([Blust 1981a](../sources/Blust1981a)). Thus a number of Oceanic languages reflect _&ast;tamʷata_
+     'man, husband', derived from _&ast;tau_ 'body, person' + _&ast;mataq_ 'unripe, immature, young',
+     but we cannot be sure whether this or _&ast;taumata(q)_ was the POc form.
 e)   PMP _&ast;h_ was lost in POc.
-
-f)   PMP _&ast;e_, phonetically [ə], became POc _&ast;o_, and the PMP word-final diphthongs _&ast;-uy(-)_,[^3] _&ast;-aw_ and _&ast;-ay_ were simplified to POc _&ast;-i_, _&ast;-o_ and _&ast;-e_ respectively, the first two thereby merging with plain vowels.
+f)   PMP _&ast;e_, phonetically [ə], became POc _&ast;o_, and the PMP word-final diphthongs _&ast;-uy(-)_,[^3]
+        _&ast;-aw_ and _&ast;-ay_ were simplified to POc _&ast;-i_, _&ast;-o_ and _&ast;-e_ respectively, the first two thereby
+        merging with plain vowels.
 
 
 <a id="p-19"></a>
 
-Table 1: The phoneme systems of PMP and POc
+: Table 1: The phoneme systems of PMP and POc
 
-```
-PMP                               p, b                       t         d, r         s, z, Z        j       k, g
-POc       oral grade               p            pw           t         dlr             s           j         k
-Grace etc nasal grade             mp         I]p/mpw         nt       ndlnr                   nj            I]k
-POc            oral grade          p           pʷ            t         r              s            c         k
-Ross           nasal grade         b           bʷ            d         dr                     j              g
-```
+|           |             |          |            |      |           |               |      |     |          |
+|:----------|:------------|:---------|:-----------|:-----|:----------|:--------------|:-----|:----|:---------|
+| PMP       |             | _p_, _b_ |            | _t_  | _d_, _r_  | _s_, _z_, _Z_ |      | _j_ | _k_, _g_ |
+| POc       | oral grade  | _p_      | _pw_       | _t_  | _d_/_r_   | _s_           |      | _j_ | _k_      |
+| Grace etc | nasal grade | _mp_     | _ŋp_/_mpw_ | _nt_ | _nd_/_nr_ |               | _nj_ |     | _ŋk_     |
+| POc       | oral grade  | _p_      | _pʷ_       | _t_  | _r_       | _s_           |      | _c_ | _k_      |
+| Ross      | nasal grade | _b_      | _bʷ_       | _d_  | _dr_      |               | _j_  |     | _g_      |
 
-```
-PMP                m                     n    fi.       I]        w     Y              q           h        R
-POc Grace          m      I]mlmw         n    fi.       I]        w     Y              q           0        R
-POc Ross           m         mW          n    fi.       I]        w                    q           0        R
-                                                                        Y
-```
+|           |     |           |     |     |     |     |     |     |     |     |     |
+|:----------|:----|:----------|:----|:----|:----|:----|:----|:----|:----|:----|:----|
+| PMP       | _m_ |           | _n_ | _ñ_ | _ŋ_ | _w_ | _y_ | _l_ | _q_ | _h_ | _R_ |
+| POc Grace | _m_ | _ŋm_/_mw_ | _n_ | _ñ_ | _ŋ_ | _w_ | _y_ | _l_ | _q_ | ∅   | _R_ |
+| POc Ross  | _m_ | _mʷ_      | _n_ | _ñ_ | _ŋ_ | _w_ | _y_ | _l_ | _q_ | ∅   | _R_ |
 
-```
-PMP                             i, -uy(-)     e, -aw          -ay           a         u
-POc Grace etc.                                      0             e         a         u
-POc Ross                                            0             e         a         u
-```
+|                |               |            |       |     |     |
+|:---------------|:--------------|:-----------|:------|:----|:----|
+| PMP            | _i_, _-uy(-)_ | _e_, _-aw_ | _-ay_ | _a_ | _u_ |
+| POc Grace etc. | _i_           | _o_        | _e_   | _a_ | _u_ |
+| POc Ross       | _i_           | _o_        | _e_   | _a_ | _u_ |
 
 The combined effect of (a) and (c) is that each of the PMP pairs _&ast;p_, _&ast;b_ and _&ast;k_, _&ast;g_ first merged and then split. As a result, for example, PMP _&ast;p_ became either POc _&ast;p_ or POc _&ast;b_, and the same was true of PMP _&ast;b_, giving the kind of crossover seen in the initial consonants of these examples:
 
-| PMP                              | POc                           |
-|:---------------------------------|:------------------------------|
-| _&ast;panas_           'hot, warm'   | _&ast;panas_                      |
-| _&ast;punay_           'wild pigeon' | _&ast;bune_                       |
-| _&ast;baqeRuh_         'new'         | _&ast;paqoRu_                     |
-| _&ast;beRek_           'pig'         | _&ast;boRok_      'domestic pig'. |
+| PMP        |               | POc       |                 |
+|:-----------|:--------------|:----------|:----------------|
+| _&ast;panas_   | 'hot, warm'   | _&ast;panas_  |                 |
+| _&ast;punay_   | 'wild pigeon' | _&ast;bune_   |                 |
+| _&ast;baqeRuh_ | 'new'         | _&ast;paqoRu_ |                 |
+| _&ast;beRek_   | 'pig'         | _&ast;boRok_  | 'domestic pig'. |
 
 
 <a id="p-20"></a>
 
 Similarly, either PMP &ast;k or PMP &ast;g could become either POc &ast;k or POc &ast;g. For example,
 
-| PMP                              | POc                                         |
-|:---------------------------------|:--------------------------------------------|
-| _&ast;kuDen_           'cooking pot' | _&ast;kuron_                                    |
-| _&ast;kabut_           'mist'        | _&ast;gabu_                                     |
-| _&ast;gapgap_          'stammer'     | _&ast;kaka(p)_                                  |
-| _&ast;gemgem_          'make a fist' | _&ast;gugu(m)_ 'grasp in fist, clench fist'.[^4] |
+| PMP       |               | POc        |                                  |
+|:----------|:--------------|:-----------|:---------------------------------|
+| _&ast;kuDen_  | 'cooking pot' | _&ast;kuron_   |                                  |
+| _&ast;kabut_  | 'mist'        | _&ast;gabu_    |                                  |
+| _&ast;gapgap_ | 'stammer'     | _&ast;kaka(p)_ |                                  |
+| _&ast;gemgem_ | 'make a fist' | _&ast;gugu(m)_ | 'grasp in fist, clench fist'.[^4] |
 
 
 <a id="s-3"></a>
@@ -181,7 +197,7 @@ Verbs apparently took a proclitic cross-referencing their subject and, if transi
 
 <a id="s-3-1-1"></a>
 
-### 3.1.1 Verb classes
+#### 3.1.1. Verb classes
 
 
 We can reconstruct three major classes of POc intransitive verb on the basis of semantic and morphological criteria, as shown in Table 2.
@@ -191,7 +207,7 @@ We can reconstruct three major classes of POc intransitive verb on the basis of 
 |                 | 1                                         | 2                     | 3                   | 4                  |
 |:----------------|:------------------------------------------|:----------------------|:--------------------|:-------------------|
 |                 | inherently stative or inherently dynamic? | intransitive  subject | forms a transitive? | forms a causative? |
-| A verbs         | dynamic                                   | A                     | yes                 | yes                |
+| A verbs         | dynamic[^8]                                | A                     | yes                 | yes                |
 | U verbs         | neither                                   | U                     | yes                 | yes                |
 | U-stative verbs | stative                                   | U                     | no                  | yes                |
 
@@ -226,7 +242,7 @@ Although it is not difficult to identify the three verb classes in many modern O
 
 <a id="s-3-1-2"></a>
 
-### 3.1.2 Derivational morphology of verbs
+#### 3.1.2. Derivational morphology of verbs
 
 
 POc transitivising morphology was rather different from that of its Fijian reflexes above. POc verb roots were mostly disyllabic and, in line with POc phonotactics ([§2.2](../contributions/1-2#s-2-2)), either consonant-final or vowel-final, that is, (C)V(C)VC or (C)V(C)V. In most cases, the canonic shape of the root alone determined its transitivising morphology. The transitive of a consonant-final root was formed by adding the suffix _&ast;-i-_ between the root and the object enclitic. This suffix is known in the Oceanic literature as the '(close) transitive suffix' and was the same regardless of whether the root was A or U :
@@ -349,7 +365,7 @@ Again there are two reconstructable forms, POc _&ast;-aki_ and _&ast;-akini_. Th
 
 <a id="s-3-1-3"></a>
 
-### 3.1.3 Fossilised verbal morphology
+#### 3.1.3. Fossilised verbal morphology
 
 
 The morphology described in [§3.1.2](../contributions/1-2#s-3-1-2) was largely productive when POc diversified into daughter languages. There are a few patterns in our reconstructions of verbs, however, which reflect morphology that was already dead by this stage.
@@ -359,31 +375,31 @@ One of these is illustrated in (9), where intransitive forms descended from PAn 
 
 <a id="p-28"></a>
 
-| (12)   | PAn root   | &ast;-buC                       | 'weed, pull, pluck out' ([Blust 1988](../sources/Blust1988): 86-87)   |
-|:-------|:-----------|:----------------------------|:----------------------------------------------|
-|        | POc        | &ast;pupu(t), &ast;puti-            | 'pick (fruit +), pluck (feathers +)'          |
-|        | POc        | &ast;(s,j)apu(t), &ast;(s,j)aput-i- | 'pull out, pull up, pluck (fruit, nuts)'      |
-|        | POc        | &ast;tapu(t), &ast;taput-i          | 'strip (crops), pull off'                     |
+| (12)   | PAn root   | _&ast;-buC_                         | 'weed, pull, pluck out' ([Blust 1988](../sources/Blust1988): 86-87)   |
+|:-------|:-----------|:--------------------------------|:----------------------------------------------|
+|        | POc        | _&ast;pupu(t)_, _&ast;puti-_            | 'pick (fruit +), pluck (feathers +)'          |
+|        | POc        | _&ast;(s,j)apu(t)_, _&ast;(s,j)aput-i-_ | 'pull out, pull up, pluck (fruit, nuts)'      |
+|        | POc        | _&ast;tapu(t)_, _&ast;taput-i_          | 'strip (crops), pull off'                     |
 
 The pair _&ast;pupu(t)_, _&ast;puti-_ reflects PAn _&ast;buC-buC_ in accordance with the paradigm in (9), whilst the intransitive roots _&ast;(s,j)apu(t)_ and _&ast;taput_ apparently reflect PAn forms _&ast;&ast;sa-buC_ and _&ast;&ast;ta-buC_.[^20] 0ther such sets are:
 
-| (13)   | PAn root   | &ast;-pak    | 'break, crack, split' ([Blust 1988](../sources/Blust1988): 135-136)                 |
-|:-------|:-----------|:---------|:------------------------------------------------------------|
-|        | POc        | &ast;sapaki  | 'pluck off, break off (leaves) with the hand' ([Ch. 9, §6.1](../contributions/1-9#s-6-1)) |
-|        | POc        | &ast;paki    | 'pluck, break off (leaves) with the hand' ([Ch. 9, §6.1](../contributions/1-9#s-6-1))     |
-|        | POc        | &ast;lopa(k) | 'break' ([Ch. 9, §6.2](../contributions/1-9#s-6-2))                                       |
+| (13)   | PAn root   | _&ast;-pak_    | 'break, crack, split' ([Blust 1988](../sources/Blust1988): 135-136)                 |
+|:-------|:-----------|:-----------|:------------------------------------------------------------|
+|        | POc        | _&ast;sapaki_  | 'pluck off, break off (leaves) with the hand' ([Ch. 9, §6.1](../contributions/1-9#s-6-1)) |
+|        | POc        | _&ast;paki_    | 'pluck, break off (leaves) with the hand' ([Ch. 9, §6.1](../contributions/1-9#s-6-1))     |
+|        | POc        | _&ast;lopa(k)_ | 'break' ([Ch. 9, §6.2](../contributions/1-9#s-6-2))                                       |
 
-| (14)   | PAn root   | &ast;-Tuk               | 'knock, pound, beat ' ([Blust 1988](../sources/Blust1988): 160- 161) ([Ch. 9, §5.1](../contributions/1-9#s-5-1))   |
-|:-------|:-----------|:--------------------|:-------------------------------------------------------------|
-|        | POc        | &ast;tutuk, &ast;tuki-      | 'pound, mash by pounding, hammer, crack by hammering'        |
-|        | POc        | &ast;putu(k)            | 'repeatedly knock, pound, beat'                              |
-|        | POc        | &ast;butu(k), &ast;butuk-i- | 'repeatedly knock, pound, beat'                              |
+| (14)   | PAn root   | _&ast;-Tuk_                 | 'knock, pound, beat ' ([Blust 1988](../sources/Blust1988): 160- 161) ([Ch. 9, §5.1](../contributions/1-9#s-5-1))   |
+|:-------|:-----------|:------------------------|:-------------------------------------------------------------|
+|        | POc        | _&ast;tutuk_, _&ast;tuki-_      | 'pound, mash by pounding, hammer, crack by hammering'        |
+|        | POc        | _&ast;putu(k)_              | 'repeatedly knock, pound, beat'                              |
+|        | POc        | _&ast;butu(k)_, _&ast;butuk-i-_ | 'repeatedly knock, pound, beat'                              |
 
-| (15)   | PAn root   | &ast;-Tak               | 'sound of cracking, splitting, knocking' ([Blust 1988](../sources/Blust1988): 157- 158)   |
-|:-------|:-----------|:--------------------|:------------------------------------------------------------------|
-|        | POc        | &ast;potak, &ast;potak-i-   | 'crack open, split open, make incision' ([Ch. 9, §3.8](../contributions/1-9#s-3-8))             |
-|        | POc        | &ast;botak, &ast;botak-i-   | 'crack open, split open, make incision' ([Ch. 9, §3.8](../contributions/1-9#s-3-8))             |
-|        | POc        | &ast;pita(k), &ast;pitak-i- | 'break, split' ([Ch. 9, §5.2](../contributions/1-9#s-5-2))                                      |
+| (15)   | PAn root   | _&ast;-Tak_                 | 'sound of cracking, splitting, knocking' ([Blust 1988](../sources/Blust1988): 157- 158)   |
+|:-------|:-----------|:------------------------|:------------------------------------------------------------------|
+|        | POc        | _&ast;potak_, _&ast;potak-i-_   | 'crack open, split open, make incision' ([Ch. 9, §3.8](../contributions/1-9#s-3-8))             |
+|        | POc        | _&ast;botak_, _&ast;botak-i-_   | 'crack open, split open, make incision' ([Ch. 9, §3.8](../contributions/1-9#s-3-8))             |
+|        | POc        | _&ast;pita(k)_, _&ast;pitak-i-_ | 'break, split' ([Ch. 9, §5.2](../contributions/1-9#s-5-2))                                      |
 
 An additional complication consists in the fact that Blust finds PAn/PMP roots which differ only in the voicing of the root-initial consonant and which have similar meanings. Since PAn/PMP voicing distinctions were not retained in POc ([§2.4](../contributions/1-2#s-2-4)), their reflexes are indistinguishable in Oceanic languages. Thus POc _&ast;tupu(k)_, _&ast;tupu(k)-i-_ 'knock against', apparently reflecting PMP _&ast;tu(m)buk_ 'pound', is attributed by Blust (ACD) to the PAn root _&ast;-buk_ 'pound, thud, heavy splash' ([Blust 1988](../sources/Blust1988): 87-88). POc _&ast;sapu(k)_, _&ast;sapu(k)-i-_ 'hit', on the other hand, apparently reflecting PMP _&ast;sa(m)puk_ 'collide, bump into', is attributable to the PAn root _&ast;-puk_ 'throb, thud, clap, break' ([Blust 1988](../sources/Blust1988): 87-88) (cognate sets in [Ch. 9, §5.1](../contributions/1-9#s-5-1)).
 
@@ -397,11 +413,11 @@ The essence of the focus system is that the semantic role of the 'topic' (alias 
 | (16)   |                                 |                                                          |                                                        |                             |
 |:-------|:--------------------------------|:---------------------------------------------------------|:-------------------------------------------------------|:----------------------------|
 |        |                                 | nominalisations _or_ indicative independent imperfective | nominalisations _or_ indicative independent perfective | non-indicative or dependent |
-|        | Actor focus or intransitive     | _<um>_√                                                  | _<um-in>_√                                             | √                           |
+|        | Actor focus or intransitive     | _\<um>_√                                                 | _\<um-in>_√                                            | √                           |
 |        | Actor focus only                | _[ma]N-_√                                                | _naN-_√                                                | _paN-_√                     |
-|        | Patient focus or intransitive   | √_-en_                                                   | _<in>_√                                                | √_-a_                       |
-|        | Location focus                  | √_-an_                                                   | _<in>_√_-an_                                           | √_-i_                       |
-|        | Instrument or beneficiary focus | _i-_√                                                    | _i-<in>_√                                              | √_-án_                      |
+|        | Patient focus or intransitive   | √_-en_                                                   | _\<in>_√                                               | √_-a_                       |
+|        | Location focus                  | √_-an_                                                   | _\<in>_√_-an_                                          | √_-i_                       |
+|        | Instrument or beneficiary focus | _i-_√                                                    | _i-\<in>_√                                             | √_-án_                      |
 
 : The PMP verbal system (based on [Wolff 1973](../sources/Wolff1973) and [Ross 1995a](../sources/Ross1995a))
 
@@ -416,22 +432,24 @@ The systemic features relevant to this discussion are that (i) there were two se
 
 The historical relationship between the PMP and simpler POc system has intrigued various scholars ([Pawley & Reid 1980](../sources/PawleyReid1980), [Starosta, Pawley & Reid 1982](../sources/StarostaPawleyReid1982), [Wolff 1980](../sources/Wolff1980)). The POc system in (18) is set out in such a way that it corresponds with (16).
 
-| (18)   |                     | nominalisation imperfective   | nominalisation perfective   | verb         |
-|:-------|:--------------------|:------------------------------|:----------------------------|:-------------|
-|        | Intransitive        |                               |                             | √            |
-|        | (relic transitives) | (√-on)                        |                             | (paN-√, N-√) |
-|        | Transitive          | √-an                          | <in>√(-an)                  | √-i-         |
-|        | Applicative         | i-√                           |                             | √-aki[ni]-   |
-
 : The POc verbal system
+
+| (18)   |                     | nominalisation imperfective   | nominalisation perfective   | verb             |
+|:-------|:--------------------|:------------------------------|:----------------------------|:-----------------|
+|        | Intransitive        |                               |                             | √                |
+|        | (relic transitives) | (√_-on_)                      |                             | (_paN-_√, _N-_√) |
+|        | Transitive          | √_-an_                        | _\<in>_√(_-an_)             | √_-i-_           |
+|        | Applicative         | _i-_√                         |                             | √_-aki[ni]-_     |
 
 The stages by which the PMP system became the POc system lie beyond the scope of this chapter ([Ross 1997](../sources/Ross1997) provides a hypothesised sequence), but the main changes (not necessarily in diachronic order) were:
 
-a)      Instrument or beneficiary focus &ast;√-án was replaced by &ast;√-aki[ni]-. This change is also reflected in many languages in Indonesia.
-
-b)      PMP patient focus forms were lost, and the function of location focus forms was extended to include patient focus. These forms became the POc transitives.
-
-c)     The PMP indicative independent verbal forms lost their verbal functions and remained only as nominalisers, leaving the erstwhile non-indicative/dependent verbal forms as the only verbal forms.
+a) Instrument or beneficiary focus &ast;√_-án_ was replaced by &ast;√_-aki[ni]-_. This change is also
+   reflected in many languages in Indonesia.
+b) PMP patient focus forms were lost, and the function of location focus forms was
+   extended to include patient focus. These forms became the POc transitives.
+c) The PMP indicative independent verbal forms lost their verbal functions and remained
+   only as nominalisers, leaving the erstwhile non-indicative/dependent verbal forms as the
+   only verbal forms.
 
 
 <a id="p-30"></a>
@@ -454,13 +472,13 @@ In POc _&ast;panako_ and _&ast;paŋan_, we have clear cases where &ast;paN- is p
 
 A third set of morphological fossils also seems to date from the pre-POc period and may also be associated with the focus system. We find a number of POc verbs, mainly in Chapter 9, where the data support the reconstruction of a pair of forms differing in the grade (oral or nasal; cf. [§2.4](../contributions/1-2#s-2-4)) of their initial consonant. For the verbs in (20), the data justify the reconstruction of two forms. For those in (21), the case is not quite so clear, but there are forms which indicate that there may also have been a POc form with a nasal-grade initial.
 
-| (20)   | POc                                       | POc                 |
-|:-------|:------------------------------------------|:--------------------|
-|        | &ast;puru(k), &ast;puruk-i- 'pierce, bore (hole)' | &ast;buru               |
-|        | &ast;putu(k) 'repeatedly knock, pound, beat'  | &ast;butu(k), &ast;butuk-i- |
-|        | &ast;kiri 'file, rasp, saw'                   | &ast;giri               |
-|        | &ast;kora(s), &ast;koras-i- 'scrape out'          | &ast;gora(s), &ast;goras-i- |
-|        | &ast;rama(R) 'torch; fish with torch'         | &ast;drama(R)           |
+| (20)   | POc                                           | POc                     |
+|:-------|:----------------------------------------------|:------------------------|
+|        | _&ast;puru(k)_, _&ast;puruk-i-_ 'pierce, bore (hole)' | _&ast;buru_                 |
+|        | _&ast;putu(k)_ 'repeatedly knock, pound, beat'    | _&ast;butu(k)_, _&ast;butuk-i-_ |
+|        | _&ast;kiri_ 'file, rasp, saw'                     | _&ast;giri_                 |
+|        | _&ast;kora(s)_, _&ast;koras-i-_ 'scrape out'          | _&ast;gora(s)_, _&ast;goras-i-_ |
+|        | _&ast;rama(R)_ 'torch; fish with torch'           | _&ast;drama(R)_             |
 
 
 <a id="p-31"></a>
@@ -516,7 +534,7 @@ Nouns had a valency of either one or zero. A monovalent noun normally took a suf
 
 <a id="s-3-2-1"></a>
 
-### 3.2.1 Derivational morphology of nouns
+#### 3.2.1. Derivational morphology of nouns
 
 
 Morphemes which derive nouns have rather a complex history in Oceanic. As noted above ([§3.1.3](../contributions/1-2#s-3-1-3)), PMP nominalisations were identical to certain independent indicative forms of the verb. These are repeated in (23), with examples based on the root _&ast;kaʔen_ 'eat' to illustrate how the system apparently worked. The meanings based on the focus labels are the probable central meanings of these nominalisations: as in the modern languages, each affix must have had other senses too.
@@ -524,25 +542,25 @@ Morphemes which derive nouns have rather a complex history in Oceanic. As noted 
 
 <a id="p-33"></a>
 
-| (23)   | PMP        | nominalisation imperfective   | nominalisation perfective   | &ast;kaʔen 'eat'                              |
-|:-------|:-----------|:------------------------------|:----------------------------|:------------------------------------------|
-|        | Patient    | √-en                          | <in>√                       | &ast;kaʔen-en 'thing to be eaten, food'       |
-|        |            |                               |                             | &ast;k<in>aʔen 'thing eaten'                  |
-|        | Location   | √-an                          | <in>√-an                    | &ast;kaʔen-an 'place where one eats'          |
-|        |            |                               |                             | &ast;k<in>aʔen-an 'place where one has eaten' |
-|        | Instrument | i-√                           | (i-<in>√)                   | &ast;i-kaʔen 'thing one eats with'            |
+| (23)   | PMP        | nominalisation imperfective   | nominalisation perfective   | _&ast;kaʔen_ 'eat'                               |
+|:-------|:-----------|:------------------------------|:----------------------------|:---------------------------------------------|
+|        | Patient    | √_-en_                        | _\<in>_√                    | _&ast;kaʔen-en_ 'thing to be eaten, food'        |
+|        |            |                               |                             | _&ast;k\<in>aʔen_ 'thing eaten'                  |
+|        | Location   | √_-an_                        | _\<in>_√_-an_               | _&ast;kaʔen-an_ 'place where one eats'           |
+|        |            |                               |                             | _&ast;k\<in>aʔen-an_ 'place where one has eaten' |
+|        | Instrument | _i-_√                         | (_i-\<in>_√)                | _&ast;i-kaʔen_ 'thing one eats with'             |
 
 The affix combination _&ast;i-<in>_√ is parenthesised because I know of no reflexes of it as a nominaliser. Reflexes of _&ast;<in>_√-an are known only from Oceanic, and may reflect a local innovation.
 
 The corresponding POc nominalisations are tabulated in (24). Although the verbal focus system had disappeared in POc, it is reasonably clear that the nominalising morphology continued to be associated with semantic roles:
 
-| (24)   | POc        | nominalisation imperfective   | nominalisation perfective   | &ast;kani 'eat'                             |
-|:-------|:-----------|:------------------------------|:----------------------------|:----------------------------------------|
-|        | Patient    | (√-on)                        | <in>√                       | &ast;kano'1 'thing to be eaten, food'       |
-|        |            |                               |                             | &ast;k<imani 'thing eaten'                  |
-|        | Location   | √-an                          | <in>√-an                    | &ast;kan-an, &ast;kana'1 'place where one eats' |
-|        |            |                               |                             | &ast;k<iman-an 'place where one has eaten'  |
-|        | Instrument | i-√                           |                             | &ast;i-kani 'thing one eats with'           |
+| (24)   | POc        | nominalisation imperfective   | nominalisation perfective   | _&ast;kani_ 'eat'                              |
+|:-------|:-----------|:------------------------------|:----------------------------|:-------------------------------------------|
+|        | Patient    | (√_-on_)                      | _\<in>_√                    | _&ast;kanoŋ_ 'thing to be eaten, food'         |
+|        |            |                               |                             | _&ast;k\<in>ani_ 'thing eaten'                 |
+|        | Location   | √_-an_                        | _\<in>_√_-an_               | _&ast;kan-an_, _&ast;kanaŋ_ 'place where one eats' |
+|        |            |                               |                             | _&ast;k\<in>an-an_ 'place where one has eaten' |
+|        | Instrument | _i-_√                         |                             | _&ast;i-kani_ 'thing one eats with'            |
 
 The affix combination _&ast;√-on_ is parenthesised because it survived only in fossilised forms like POc _&ast;kanoŋ(a)_ 'flesh, meat, coconut flesh' ([Ross 1996d](../sources/Ross1996d): 174). However, it is clear that the rest of the system remained productive in POc (and much of it remains productive in various modern languages), as _&ast;<in>_ and _&ast;i-_, at least, were evidently added to the productive POc root, e.g. _&ast;kani_, not the stem &ast;kan reflecting PMP _&ast;kaʔen_. However, it is less clear that this is true of _&ast;-an_.
 
@@ -584,7 +602,7 @@ __igt__ (25) Bali-Vitu (MM): a. A       vaga  beini  ti           zaɣata. ARTIC
 ## 4. Assigning reconstructions to word classes
 
 
-Although we know with reasonable certainty what the open word classes were in POc and what their major subclasses were,[^27] we cannot always assign a reconstructed etymon to a single word class or subclass. Some items, of course, like _&ast;tama-_ 'father', _&ast;Rumaq_ 'house' and _&ast;kinit-i-_, are easily assigned: they are, respectively, a monovalent noun, a zero-valency noun and a transitive verb. Quite a number of the items we reconstruct are derived items, and their morphology allows us to assign them to a class. Relevant morphemes are described above in [§3.1.2](../contributions/1-2#s-3-1-2) and [§3.2.1](../contributions/1-2#s-3-2-1), Other items, especially zero-valency nouns and intransitive verbs, the comparative evidence suggests, could readily serve in more than one word class without any morphological change. Thus in cases like POc &ast;(p,pʷ)anaq (N) 'bow', (VI) 'shoot' (Ch. 8 , [§9](../contributions/1-2#s-9)) we assume that the etymon served as both a noun and verb in POc.
+Although we know with reasonable certainty what the open word classes were in POc and what their major subclasses were,[^27] we cannot always assign a reconstructed etymon to a single word class or subclass. Some items, of course, like _&ast;tama-_ 'father', _&ast;Rumaq_ 'house' and _&ast;kinit-i-_, are easily assigned: they are, respectively, a monovalent noun, a zero-valency noun and a transitive verb. Quite a number of the items we reconstruct are derived items, and their morphology allows us to assign them to a class. Relevant morphemes are described above in [§3.1.2](../contributions/1-2#s-3-1-2) and [§3.2.1](../contributions/1-2#s-3-2-1), Other items, especially zero-valency nouns and intransitive verbs, the comparative evidence suggests, could readily serve in more than one word class without any morphological change. Thus in cases like POc _&ast;(p,pʷ)anaq_ (N) 'bow', (VI) 'shoot' (Ch. 8 , [§9](../contributions/1-2#s-9)) we assume that the etymon served as both a noun and verb in POc.
 
 In other cases our data sources simply give insufficient or inaccurate information about word class and subclass memberships, so that we often do not know whether a disyllabic vowel-final verb base in a given language is transitive, intransitive or both. In the case of adjectival nouns and adjectival verbs, we cannot always be sure which of the two subclasses an etymon belonged to. Confronted with situations of this kind, we have not always attempted formally to assign POc etyma to their word classes, but allow our glosses and the hyphenation conventions referred to in the discussion above to speak for themselves.
 
@@ -643,4 +661,4 @@ In other cases our data sources simply give insufficient or inaccurate informati
 
 [^26]: The presence of _-n_ attests the earlier presence of a following vowel.
 
-[^27]: For more detailed information the reader is referred to [Pawley](../sources/Pawley1973) ([1973](../sources/Pawley1973): 126- 140), [Crowley](../sources/Crowley1985) ([1985](../sources/Crowley1985)), [Ross](../sources/Ross1998a) ([1998a](../sources/Ross1998a)).
+[^27]: For more detailed information the reader is referred to [Pawley](../sources/Pawley1973) ([1973](../sources/Pawley1973): 126-140), [Crowley](../sources/Crowley1985) ([1985](../sources/Crowley1985)), [Ross](../sources/Ross1998a) ([1998a](../sources/Ross1998a)).

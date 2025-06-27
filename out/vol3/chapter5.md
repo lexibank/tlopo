@@ -3003,7 +3003,7 @@ Its red wood is very hard and difficult to work when it is seasoned. The grain i
 
 Other species of Calophyllum grow inland, hence straight, and provide even better timber than C. inophyllum, including canoe hulls. C. kajewskii (syn. C. peekelii) is a rain forest tree than grows up to 50 m.
 
-There are a number of reconstructions with Calophyllum species as denotata. The most widely reflected is POc _&ast;pitaquR_, inherited from PMP, and it is reasonably clear that it denoted 'Calophyllum inophyllum'. The only evidence we have for the POc retention of PMP _&ast;-R_ is found in the reflexes in New Georgia languages: Nduke _vizolo_, Roviana _vi-vizolo_ and Marovo _vi-vijolo_. However, the expected form in these languages is †_vita(ɣ)uru_, and the actual forms must be outcomes of borrowing. The languages of the western Solomons have complex and ill understood borrowing histories ([Ross forthcoming](../sources/Rossforthcoming)) .
+There are a number of reconstructions with Calophyllum species as denotata. The most widely reflected is POc _&ast;pitaquR_, inherited from PMP, and it is reasonably clear that it denoted 'Calophyllum inophyllum'. The only evidence we have for the POc retention of PMP _&ast;-R_ is found in the reflexes in New Georgia languages: Nduke _vizolo_, Roviana _vi-vizolo_ and Marovo _vi-vijolo_. However, the expected form in these languages is †_vita(ɣ)uru_, and the actual forms must be outcomes of borrowing. The languages of the western Solomons have complex and ill understood borrowing histories ([Ross 2010b](../sources/Ross2010b)).
 
 Figure 5.9: Calophyllum inophyllum: A, mature tree; B, flowering shoot; C, fruit cluster.
 

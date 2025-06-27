@@ -8552,7 +8552,7 @@ But there are salient parts of Oceanic land environments for which we cannot rec
 
 [^3]: In vol. 1, p.189 the form POc _&ast;ijuŋ_ ‘projecting headboard of prow’ is erroneously given for &ast;(i,u)cuŋ. This is almost certainly the same etymon as that reconstructed here.
 
-[^4]: It is tempting to decide that this is the same term as POc &ast;koro (i) any fenced-in area’, (ii) settlement fortified by a palisade or ditch’ (Pawley 2005), on the basis that fortifications were typically situated on high ground. But there is strong evidence that there were two distinct terms at least as far back as POc.
+[^4]: It is tempting to decide that this is the same term as POc &ast;koro (i) any fenced-in area’, (ii) settlement fortified by a palisade or ditch’ ([Pawley 2005](../sources/Pawley2005)), on the basis that fortifications were typically situated on high ground. But there is strong evidence that there were two distinct terms at least as far back as POc.
 
 [^5]: Languages where kinds of swamp are lexically distinguished include Kiriwina _dumia_ ‘inland swamp’, _pasa_, _vamova_ ‘mangrove swamp’ and Kwaio _kunu_, _kū-kunu_ ‘saltwater mud’, _kunu-kunu_ ‘freshwater mud, swamp’. Also Ulawa _lo-lolo_ ‘swamp in which sago palms grow’ and closely related language Sa’a which has _lo-loŋo_ ‘mangrove swamp’.
 

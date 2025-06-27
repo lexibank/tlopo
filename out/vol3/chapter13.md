@@ -1944,8 +1944,7 @@ POc _&ast;malo_ probably denoted B. papyrifera, the tree which throughout much o
 <tr>
 <td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>malo</i></td>
 <td>
-'<span>barkcloth belt from dodoli tree, given to a boy at first initiation</span>' (<a href="../sources/Bohm1983">Bohm1983: 81</a>)
-</td>
+'<span>barkcloth belt from dodoli tree, given to a boy at first initiation</span>' (<span>Bohm 1983: 81</span>)</td>
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td><i>māl</i></td>

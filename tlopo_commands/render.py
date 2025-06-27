@@ -16,6 +16,7 @@ from jinja2.filters import FILTERS
 from markdown import markdown
 
 from cldfviz.text import render
+from clldutils.html import HTML
 from pycldf.db import Database
 from pycldf.media import MediaTable
 from clldutils.misc import data_url
@@ -32,6 +33,7 @@ FILTERS['markdown'] = md_string
 
 def register(parser):
     parser.add_argument('--chapter', default=None)
+    parser.add_argument('--index', action='store_true', default=False)
 
 
 def run(args):
@@ -45,6 +47,21 @@ def run(args):
     # Must precompute data for cognatesetreferences and store with cldf!
     #
     # create in-memory sqlite db!
+
+    if args.index:
+        for (vnum, vol), chapters in itertools.groupby(
+                cldf.iter_rows('ContributionTable'),
+                lambda r: (r['Volume_Number'], r['Volume'])
+        ):
+            print(HTML.h2('Volume {}: {}'.format(vnum, vol)))
+
+            l1 = []
+            for chapter in chapters:
+                secs = HTML.ol(*[HTML.li(HTML.a(t, href="vol{}/chapter{}.html#{}".format(vnum, chapter['ID'].split('-')[-1], a))) for l, a, t in chapter['Table_Of_Contents'] if l == 1])
+                l1.append(HTML.li(chapter['Name'], HTML.br(), HTML.i(chapter['Contributor']), secs))
+            print(HTML.html(HTML.body(HTML.ol(*l1))))
+
+        return
 
     db = Database(cldf)
     db.write_from_tg()

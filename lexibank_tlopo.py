@@ -153,7 +153,7 @@ class Dataset(BaseDataset):
 
     def cmd_download(self, args):
         from pytlopo.parser.refs import refs2bib
-        refs2bib(self.raw_dir.joinpath('vol5', 'references.txt').read_text(encoding='utf8').split('\n'))
+        refs2bib(self.raw_dir.joinpath('vol6', 'references.txt').read_text(encoding='utf8').split('\n'))
         return
         #from pytlopo.parser.refs import CROSS_REF_PATTERN
         #for line in self.raw_dir.joinpath('vol1').read('text.txt').split('\n'):
@@ -369,6 +369,7 @@ class Dataset(BaseDataset):
                     Citation=chapter.bib.text(),
                     Volume_Number=vol.num,
                     Volume=vol.metadata['title'],
+                    Table_Of_Contents=chapter.toc,
                 ))
 
         for lg in langs.values():
@@ -547,6 +548,7 @@ class Dataset(BaseDataset):
             'ContributionTable',
             {'name': 'Volume_Number', 'datatype': 'integer'},
             'Volume',
+            {'name': 'Table_Of_Contents', 'datatype': 'json'},
         )
         cldf.add_table(
             'cognatesetreferences.csv',
