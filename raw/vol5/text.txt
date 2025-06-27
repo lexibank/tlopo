@@ -154,19 +154,19 @@ Waqa 1970 and subsequent versions of the POLLEX file, including Biggs & Clark 19
 & Biggs 2006 and Greenhill & Clark 2011); for Proto Micronesian by scholars associated with
 the University of Hawai’i (Bender et al. 1983, 2003); for the ancestor of the Banks and Torres
 languages by Alexandre François (several unpublished manuscripts); for Proto North and
-Central Vanuatu by Clark (Clark 1996, 2009); for Proto Southern Vanuatu by Lynch (1978b,
-1996, 2001c); for New Caledonia by Ozanne-Rivierre (1992), Haudricourt & Ozanne-Rivierre
+Central Vanuatu by Clark (Clark 1996, 2009); for Proto Southern Vanuatu by Lynch (1978b, 1996b, 2001c);
+for New Caledonia by Ozanne-Rivierre (1992), Haudricourt & Ozanne-Rivierre
 (1982) and Geraghty (1989); for Proto SE Solomonic by Levy (1980) and Lichtenberk (1988);
 for Proto Central Pacific by Hockett (1976), Geraghty (1983, 1986, 1996, together with a
 number of unpublished papers); for Proto Eastern Oceanic by Biggs (1965), Cashmore (1969),
 Levy (1970), and Geraghty (1990); and for Proto Central Papuan by Pawley (1975), Lynch
-(1978a, 1980), and Ross (1994).
+(1978a, 1980), and Ross (1994a).
 
-    Robert Blust of the University of Hawai’i has, in a series of papers (1970, 1980a, 1983-84a,
+    Robert Blust of the University of Hawai’i has, in a series of papers (1970, 1980b, 1983-84a,
 1986, 1989) published extensive, alphabetically ordered, lexical reconstructions (with
 supporting cognate sets) for interstages earlier than POc, especially for Proto Austronesian,
 Proto Malayo-Polynesian and Proto Eastern Malayo-Polynesian. He has also written several
-papers investigating specific semantic fields (Blust 1980b, 1982b, 1987, 1994). Blust &
+papers investigating specific semantic fields (Blust 1980a, 1982b, 1987, 1994). Blust &
 Trussel have a major work in progress, the Austronesian Comparative Dictionary (ACD), which
 will bring together all Blust’s reconstructions for Proto Austronesian and lower-order stages.
 This is stored in electronic form at the University of Hawai’i.4 The version to which we refer
@@ -331,14 +331,14 @@ protolanguage was spoken where, remain in certain cases somewhat controversial, 
 impossible to proceed without making some assumptions about these matters. Figures 1 and 2
 are approximate renderings of our subgrouping assumptions. The upper part of the tree, shown
 in Figure 1, is due to Blust, originally presented in Blust (1977) and repeated with additional
-supporting evidence in subsequent publications (Blust 1978a, 1982, 1983-84b, 1993a, 2009a).[5]
+supporting evidence in subsequent publications (Blust 1978a, 1982, 1983-84b, 1993, 2009a).[5]
 The diagram of the lower (Oceanic) part of the tree in Figure 2 shows nine primary subgroups
 of Oceanic. Its rake-like structure indicates that no convincing body of shared innovations has
 been found to allow any of the nine subgroups to be combined into higher-order groupings.
 Sections 1.3.2.2, 1.3.2.3 and 1.3.2.4 offer some commentary on our subgrouping, and in
 §1.3.2.4 we explain how we handle the rake-like structure in making reconstructions.
 
-[5] For critical overviews of the literature on Austronesian subgrouping, see Ross (1995), Pawley (1999),
+[5] For critical overviews of the literature on Austronesian subgrouping, see Ross (1995b), Pawley (1999),
     Adelaar (2005) and Blust (2009a). The CEMP and Central Malayo-Polynesian linkages, and also
     PEMP, have been called into question, but these issues lie beyond our present scope (Donohue &
     Grimes 2008, Blust 2009b).
@@ -377,14 +377,14 @@ to the next, often resulting in a pattern such that the domains of various innov
 but are not coterminous.9 A number of Oceanic linkages have been recognised by scholars
 researching the history of the languages of Fiji (Geraghty 1983), of the Caroline Islands
 (Jackson 1983), of NW Melanesia (Ross 1988), of the SE Solomons (Lichtenberk 1988,
-1994a; Pawley 2011) and of Vanuatu (Tryon 1976, Clark 1985, Lynch 2000a, 2004c, François
+1994a; Pawley 2011) and of Vanuatu (Tryon 1976, Clark 1985, Lynch 2000c, 2004b, François
 2011a, 2014).10 A linkage may arise in at least three ways, but distinguishing between them is
 often impossible.
 
 
 [6] The two very closely related languages Mussau and Tench form a minor exception.
 
-[7] Chapter 4 of Lynch (2002) gives a recent account of these innovations.
+[7] Chapter 4 of Lynch (2002e) gives a recent account of these innovations.
 
 [8] In what follows, ‘language’ is used to mean ‘language or dialect’.
 
@@ -419,7 +419,7 @@ than one immediate parent, indicated in Figure 2 by a dashed line around the rel
 of languages. An example is the Fijian linkage, which represents the partial resynthesis of the
 Fiji-based descendants of earlier Western Central Pacific and Eastern Central Pacific linkages
 after Rotuman and Polynesian had split off from them (Geraghty & Pawley 1981, Geraghty
-1983, Pawley 1996b).12 Geraghty reconstructed the history of the Fijian linkage by painstaking
+1983, Pawley 1996c).[12] Geraghty reconstructed the history of the Fijian linkage by painstaking
 analysis of innovations from at least two stages in its history. From the earlier period Western
 Fijian languages share innovations with Rotuman and Eastern Fijian with Polynesian. From a
 more recent period Western Fijian and Eastern Fijian languages share innovations with each
@@ -427,12 +427,12 @@ other, reflecting their reintegration into a single linkage, within which the pr
 Eastern boundary has shifted relative to the (fuzzy) boundary of the earlier period.
 
     For most of the linkages noted in Figures 1 and 2 this kind of analysis is not available. For
-example, Blust (1993a) argues that CEMP was a linkage. But its history is far from clear. Does
+example, Blust (1993) argues that CEMP was a linkage. But its history is far from clear. Does
 CEMP perhaps include some languages that share history with languages to their west and
 others that share history with those to their north? The North/Central Vanuatu linkage, long
 assumed to be some sort of genealogical unit, appears to reflect the partial reintegration of at
 east two dialect networks, North Vanuatu and Central Vanuatu, that probably had not diverged
-greatly from each other, but the details of this history are difficult to elucidate (Lynch 2000a).[13]
+greatly from each other, but the details of this history are difficult to elucidate (Lynch 2000c).[13]
 
     The languages of a linkage have no identifiable exclusively shared parent.Yet we have
 found many instances in which a cognate set is limited to one of the linkages in Figures 1
@@ -476,12 +476,12 @@ Oceanic (Milke 1958, Pawley 1978), and etyma reflected in either NNG or PT (or b
 MM are labelled PWOc.
     SE Solomonic was established as a proper subgroup by Pawley (1972:98–110). Further
 support was provided by Levy (1979, 1980, n.d.), Tryon & Hackman (1983) and Lichtenberk
-(1988). Lichtenberk (1994) and Pawley (2011) look at the internal structure of SE Solomonic.
+(1988). Lichtenberk (1994b) and Pawley (2011) look at the internal structure of SE Solomonic.
     Temotu comprises the languages of the Reef Islands, Santa Cruz, Utupua and Vanikoro,
 located 400 km east of the main Solomons archipelago and to the north of Vanuatu (Map 3).
 Its identity as a proper subgroup of Oceanic was established by Ross & Næss (2007) and
 further supported by Næss & Boerger (2008).
-    The Southern Oceanic linkage as proposed by Lynch (1999, 2000a, 2001b, 2004c) is
+    The Southern Oceanic linkage as proposed by Lynch (1999, 2000c, 2001d, 2004b) is
 characterised by complex overlapping innovations, but by none that are reflected in all its
 member languages and would qualify it as a proper subgroup (see discussion in Lynch, Ross
 & Crowley 2002:112–114).14
@@ -595,7 +595,7 @@ these languages and in Admiralty does not support a POc reconstruction, but the 
 a reflex in one or more of these languages and one of Western Oceanic, Temotu and Eastern
 Oceanic does support one.
 
-    In chapter 2 (§4) of volume 2 Pawley discusses Blust’s (1998b) proposal that the primary
+    In chapter 2 (§4) of volume 2 Pawley discusses Blust’s (1998a) proposal that the primary
 split in Oceanic divides Admiralty from a subgroup embracing all other Oceanic languages.
 Pawley dubs the latter ‘Nuclear Oceanic’. If Blust’s subgrouping were accepted, then an
 etymon which lacked cognates outside Oceanic would need to be reflected both in an
@@ -639,12 +639,12 @@ Micronesian; by Geraghty (1986) for Central Pacific; by Biggs (1978) for Polynes
 
    For non-Oceanic languages we have referred to sound correspondences given by Tsuchida
 (1976) for Formosan languages; by Zorc (1977, 1986) and Reid (1982) for the Philippines; by
-Adelaar (1992) and Nothofer (1975) for Malay and Javanese; by Sneddon (1984) for
+Adelaar (1992b) and Nothofer (1975) for Malay and Javanese; by Sneddon (1984) for
 Sulawesi; by Collins (1983) for Central Maluku; and by Blust (1978a) for South Halmahera
 and Irian Jaya.
 
    We are aware that regular sound correspondences can be interfered with in various ways:
-by phonetic conditioning that the analyst has not identified (see, e.g., Blust (1996)), by
+by phonetic conditioning that the analyst has not identified (see, e.g., Blust (1996a)), by
 borrowing (for an extreme Oceanic case, see Grace 1996), or, as recent research suggests, by
 the frequency of an item’s use (Bybee 1994). We have tried at least to note, and sometimes to
 account for, irregularities in cognate sets.
@@ -663,7 +663,7 @@ PMP are discussed in §1.3.4.2.
    Table 2 shows two POc orthographies. The first was established by Biggs (1965), for
 PEOc, and Grace (1969), who applied it to POc. It has been used with a number of variants,
 separated by a slash in Table 2. The second, introduced by Ross (1988), is the one generally
-used in this work. One matter not discussed here is POc stress, for which see Lynch (2000b).
+used in this work. One matter not discussed here is POc stress, for which see Lynch (2000a).
                                                                                         Introduction 19
 
 
@@ -723,7 +723,7 @@ c)   PMP and a number of its descendants had word-medial homorganic nasal + obst
       PAn, PMP             *i, *-uy(-)        *e,* -aw           *-ay              *a               *u
       POc                       *i               *o               *e               *a               *u
 
-d)      The labiovelars *pʷ, *bʷ *mʷ and *kʷ entered the language (Blust 1981, Lynch 2002,
+d)      The labiovelars *pʷ, *bʷ *mʷ and *kʷ entered the language (Blust 1981a, Lynch 2002e,
         Ross 2011). Most of the items containing a labiovelar lack non-Oceanic cognates, and
         some, at least, must have been borrowed into POc from neighbouring Papuan languages.
         For example, it can be argued that *mʷapo(q) ‘taro’ was borrowed by POc speakers as
@@ -782,9 +782,9 @@ Many of the reconstructions in chapter 3 are of nouns denoting inalienably posse
 parts that entail the direct possession construction, which is described in §3.1.1.
     Chapters 4 and 6–11 are overwhelmingly concerned with the reconstruction of verbs
 denoting events and states.24 POc had only a rather small class of adjectives (properly,
-adjectival nouns; Ross 1998), and many states were encoded as verbs. The following
+adjectival nouns; Ross 1998a), and many states were encoded as verbs. The following
 subsections deal briefly with the morphology of POc verb stems. The POc verb complex is
-reconstructed by Pawley (2003). Verbs evidently took a proclitic indexing their subject and, if
+reconstructed by Pawley (2003b). Verbs evidently took a proclitic indexing their subject and, if
 transitive, an enclitic indexing their object, e.g. POc *i=kiniti=au ‘he pinched me’ (cf. Manam
 i-ʔint-a).25 In many daughter languages these are a prefix and a suffix, and their obligatory
 presence is often indicated in cognate-set data by a preceding and following hyphen.
@@ -828,7 +828,7 @@ version of the verb (which in this—but not every—case has the same form as t
      S:1S crush-O:3S ART sugarcane
      ‘I’m crushing the sugarcane.’
 Intransitive verbs of this kind are here called U-verbs (‘undergoer verbs’). Their existence in
-Fijian has long been recognised (Arms 1974, Biggs 1974, Foley 1976), and has also been
+Fijian has long been recognised (Arms 1974a, Biggs 1974, Foley 1976), and has also been
 documented for Longgu by Hill (1992) and for Hoava by Davis (2003:113). Evans
 (2003:26-32) suggests that U-verbs are quite common in Oceanic languages.
     Some Oceanic languages, like Fijian, have two other subclasses of intransitive verb. One is
@@ -1161,7 +1161,7 @@ labial. There is just one example of the latter, at the bottom of Table 8.37
 36
      Passives reflecting an allomorph of *<in> are found in Bola (MM), Nakanai (MM), and Natügu (TM)
      (van den Berg & Boerger 2011). Passives reflecting *-an occur in Bali-Vitu (MM) (van den Berg 2007),
-     Kara (MM) (Schlie 1984, Dryer 2013), Raga (NCV) (Walsh 1966, Crowley 2002b), Abma (NCV)
+     Kara (MM) (Schlie 1984, Dryer 2013), Raga (NCV) (Walsh 1966, Crowley 2002c), Abma (NCV)
      (Schneider 2010:56–57, 2011).
 37
      POc *muni may reflect *N + puni (§1.3.5.6) rather than *m-uni.
@@ -1858,9 +1858,9 @@ Guinea, Fijian, Polynesian – reflexes of *ta-mwataq are the general term for a
 
     There has been some debate about the form of this reconstruction. Almost all its reflexes
 point to POc *tamwataq (or *tamataq, as the labial feature of *mʷ has been unstable
-throughout the history of Oceanic),2 but scholars have pointed to Mussau taumata as reflecting
+throughout the history of Oceanic),[2] but scholars have pointed to Mussau taumata as reflecting
 POc *tau-mataq, the regular reflex of PMP *tau-mataq ‘person’. Either both forms occurred
-in POc dialects or, as Blust (1981:235) implies, the change from *tau-mataq to *tamwataq had
+in POc dialects or, as Blust (1981a: 235) implies, the change from *tau-mataq to *tamwataq had
 not occurred by the time Mussau (one of two members of a putative small first-order subgroup
 of Oceanic) separated from the rest of Oceanic. The discussion is in fact perhaps without
 foundation. The change entailed the coarticulation of the rounding gesture of *u in *tau-mataq
@@ -1871,7 +1871,7 @@ taumatu, not taumata, and taumatu is not a reflex of POc †*tau-mataq, so the r
 of the POc form *tamwataq is uncontested.
 
 <
-PMP *tau-mataq ‘person’ (Dempwolff, Blust 1993a)
+PMP *tau-mataq ‘person’ (Dempwolff, Blust 1993)
 POc *tamwataq ‘human being, especially in ordinary living form’ (Pawley 1985) (*mataq ‘raw, new, green’, vol.1:155)
   Adm: Loniu          amat          ‘human being, person, often used to refer only to males’
   Adm: Bipi           xamak         ‘person’
@@ -1903,7 +1903,7 @@ cf. also:
   Adm: Mussau         taumatu       ‘person, human being’
 >
 
-[2] For discussion, see Blust (1984) and Lynch (2002).
+[2] For discussion, see Blust (1984b) and Lynch (2002e).
                                                                                       People 45
 
 
@@ -1968,7 +1968,7 @@ soul, spirit’ reflects PMP *qatad ‘appearance, mark’ (§3.9.1).
 himself’; cf. §2.2.1.3).
 
 <
-PMP *qaRta ‘outsiders, alien people’ (Blust 1972b, ACD)
+PMP *qaRta ‘outsiders, alien people’ (Blust 1972c, ACD)
 POc *qata ‘person’ (François 2013)
  NNG:  Numbami            ata                ‘self’
  NNG:  Kaiwa              ate                ‘self’
@@ -2045,7 +2045,7 @@ PNCV *(qa)ta-dunu ‘individual, person’ (François 2013)
 >
 
 The identity of the second elements of the Proto South Vanuatu terms below is unknown
-(Lynch 2004b).
+(Lynch 2004e).
 
 <
 PSV *n-ata-mama(q), *i-ata-mama(q) ‘person’
@@ -2192,7 +2192,7 @@ occurred in different POc dialects, as no language reflects both. The expected f
 linkages of Western Oceanic. Much more widespread is POc *mwaqane, a curiously truncated
 variant of *maRuqane.
 
-    Blust (1982b) comments that the origin of the truncated form is problematic. Lynch (2002)
+    Blust (1982b) comments that the origin of the truncated form is problematic. Lynch (2002e)
 suggests two possible origins. Both assume that *-R- had been irregularly lost (it is
 sporadically lost in non-Oceanic languages too, perhaps because tetrasyllabic roots were
 dispreferred). The first hypothesis says that the *m- of *maRuqane became *mʷ- under the
@@ -2218,7 +2218,7 @@ Admiralties and across Remote Oceanic, establishing its POc origin.
 <
 PAn *RuqaLay ‘male, man’ (ACD)
 PMP *[ma]Ruqanay ‘male, man’ (ACD)
-POc *maRuqane ‘man, male’ (Blust 1993a)
+POc *maRuqane ‘man, male’ (Blust 1993)
   PT: Motu           maruane                      (N) ‘male’
   MM: Mono-Alu       manuale                      ‘male’ (metathesis)
   MM: Lungga         marane                       ‘man’
@@ -2255,7 +2255,7 @@ POc *mwaqane ‘man, male; brother (of woman)’ (Milke 1958: *mwane ‘brother 
   SV:   N Tanna        mʷanə-            ‘brother (of woman)’
   SV:   Whitesands     nəmwanə-           ‘brother (of woman)’
   SV:   Lenakel        nə-mʷanə-          ‘brother (of woman)’
-  NCal: Nixumwak       mʷala-             ‘brother of woman’ (Lynch 2002)
+  NCal: Nixumwak       mʷala-             ‘brother of woman’ (Lynch 2002e)
   NCal: Iaai           mañi-              ‘opposite sex sibling’
   Mic:  Kiribati       te-mʷāne           ‘man, male’
   Mic:  Kiribati       mʷāne              ‘male’
@@ -2267,7 +2267,7 @@ POc *mwaqane ‘man, male; brother (of woman)’ (Milke 1958: *mwane ‘brother 
   Mic:  Carolinian     mʷǣl               ‘man, male’
   Fij:  Bauan          ŋane               ‘sibling of opposite sex’
   Fij:  Wayan          ŋʷane              ‘sibling of opposite sex’
-  Fij:  Nadrau         umane              ‘male’ (Lynch 2002)
+  Fij:  Nadrau         umane              ‘male’ (Lynch 2002e)
   Pn:   Tongan         (tuo)ŋaʔane        ‘brother or male cousin of woman’
   Pn:   Samoan         (tua)ŋane          ‘brother of woman’
 >
@@ -2296,7 +2296,7 @@ POc *qata-mwaqane ‘man, male; brother (of woman)’
   MM: Nakanai           hatamale           (1) ‘man, male’; (2) ‘brother, woman speaking’
   MM: E Kara            tomekan            ‘man’
   MM: Vaghua            tamanə             ‘man’
-PSOc *qata-mʷaqane ‘man, male’ (Lynch 2004b)
+PSOc *qata-mʷaqane ‘man, male’ (Lynch 2004e)
   NCV: Hiw              təŋʷen             ‘male, man, husband’ (François 2013)
   NCV: Lehali           atŋʷan             ‘male, man, husband’ (François 2013)
   NCV: Volow            n-taŋmʷan          ‘male, man, husband’ (François 2013)
@@ -2482,11 +2482,11 @@ POc *qata-pine ‘woman, female’
   MM:  E Kara        tefin          ‘woman’
   MM:  W Kara        tefin          ‘woman’
   MM:  Nalik         rəfin          ‘woman’
-PSOc *qata-vine ‘woman, female’ (Lynch 2004b)
+PSOc *qata-vine ‘woman, female’ (Lynch 2004e)
   NCV: Mota          tavine         ‘woman, female’
   NCV: Uripiv        n-esevin       ‘woman, female’
   NCV: S Efate       tafin          ‘woman servant, slave’
-PSV *n-atavine, *i-atavine (Lynch 2004b)
+PSV *n-atavine, *i-atavine (Lynch 2004e)
   SV:  Sye           n-ahiven       ‘woman, female’
   SV:  Ura           y-arvin        ‘woman, female’
   SV:  Anejom        n-ataheñ       ‘girl, female; sister of male’
@@ -2780,12 +2780,12 @@ reflected as a rounded vowel. This can be attributed either to *kʷa- or to the 
 it.
 
 <
-POc *kʷawaq ‘baby, small child’ (Lynch 2004b: Proto Southern Melanesian *kawaq)
+POc *kʷawaq ‘baby, small child’ (Lynch 2004e: Proto Southern Melanesian *kawaq)
   PT:   Dawawa           wawai             ‘infant’
   PT:   Misima           wawaya            ‘baby, child’
   MM:   Tinputz          koaʔ              ‘child (before puberty), offspring’
   MM:   Teop             kua               ‘child’
-PSV *kova(q) ‘baby, small child’ (Lynch 2004b)
+PSV *kova(q) ‘baby, small child’ (Lynch 2004e)
   SV:   Lenakel          kova              ‘baby, small child’
   SV:   Kwamera          kova              ‘baby, small child’
   NCal: Pije             hawak, hyaok      ‘child’
@@ -3134,7 +3134,7 @@ POc *mad(r)awa ‘orphaned, separate’
  NNG: Mangap           mon-mōⁿdo         ‘orphans’
  NNG: Sio              muⁿdo(ro)         ‘orphan; illegitimate child; guardian’
  NNG: Numbami          maⁿdawa           ‘orphan’
-PNCV *madua ‘orphan; separate’ (Lynch 2004b, Clark 2009)
+PNCV *madua ‘orphan; separate’ (Lynch 2004e, Clark 2009)
  NCV: Mota             manua             ‘orphan’
  NCV: Mwotlap          na-mⁿdʊ           ‘orphan’
  NCV: Paamese          (ti)marue         ‘orphan’
@@ -3337,7 +3337,7 @@ and indirectly possessed nouns, and this distinction is reconstructable for Prot
 76 Meredith Osmond and Malcolm Ross
 
 
-(Lichtenberk 1985). As discussed briefly in vol.1:32, a directly possessed (= monovalent) noun
+(Lichtenberk 1985a). As discussed briefly in vol.1:32, a directly possessed (= monovalent) noun
 takes a suffix indicating its possessor (e.g. POc *qaqe- ‘leg’: *qaqe-gu ‘my leg’, *qaqe-mu
 ‘your (singular) leg’, *qaqe-ña ‘his/her leg’ etc), whereas an indirectly possessed
 (zero-valency) noun requires no suffix. Directly possessed nouns are said to be inalienably
@@ -3351,7 +3351,7 @@ the POc linker *qi (e.g. POc *pasu qi mata- ‘ridge of eye’ = ‘eyebrow ridg
 many languages the linker is lost and a compound occurs (e.g. Nguna vasu-mata ‘eyebrow’). In
 other languages *qi has been replaced by a reflex of *ni, which occurred with a zero-valency
 possessor noun. It is not clear whether the possessor suffix or the linker was obligatory in Proto
-Oceanic (Ross 1998a reconstructs the construction with *qi).
+Oceanic (Ross 1998c reconstructs the construction with *qi).
 
     Directly possessed nouns are here marked with a following hyphen, e.g. *qaqe- ‘leg’, in
 order to indicate that a possessor suffix was/is usually present.
@@ -3696,7 +3696,7 @@ Solomonic and Polynesian. In a number of languages the term for ‘red’ is bas
 ‘blood’ (vol.2:209).
 
 <
-PAn *daRaq ‘blood’ (Dyen 1953)
+PAn *daRaq ‘blood’ (Dyen 1953b)
 POc *draRa(q) ‘blood’
   Adm:  Mussau        rae-             ‘blood’
   Adm:  Mussau        ra(i)-ra(ia)     ‘red’
@@ -3801,7 +3801,7 @@ George’ is a large group, of which southern New Ireland microgroups and langua
 [4] Blust (ACD) takes *tuqelan ‘bone’ to have no Oceanic reflexes but reconstructs POc *tuqa with the sense
     ‘back’. Our data do not support this as the primary gloss.
 
-[5] Blust (1993a, 2009) reconstructed PCEMP *zuRi ‘bone’ as parent of POc *suRi, but the ACD now attributes
+[5] Blust (1993, 2009) reconstructed PCEMP *zuRi ‘bone’ as parent of POc *suRi, but the ACD now attributes
     its CMP reflexes to PMP *duRi ‘thorn, splinter, fishbone’, continued as POc *(dr,r)uRi ‘thorn’ (vol.1:125).
 
                                                                                  The human body 85
@@ -4425,7 +4425,7 @@ PEOc *pulu- ‘body hair, fur, feathers’ (Biggs 1965)
      manu, Anuta puru o manu, Hawaiian hulu manu).
 
 [12] In Vitu -k has been added to certain inalienables (van den Berg & Bachet 2006), perhaps reflecting the
-      POc free noun suffix *-ki, added to inalienables that were not possessed (Ross 2001:273–274).
+      POc free noun suffix *-ki, added to inalienables that were not possessed (Ross 2001b:273–274).
 
 [13] The gloss suggests that this form reflects a conflation of POc *pulu- ‘body hair’ and POc *puRu- ‘head
      hair’ (§3.3.7) resulting from a merger of the reflexes of POc *-l- and *-R-.
@@ -4855,7 +4855,7 @@ reflect contamination of one form by another formally and semantically similar f
 tions, as there is sufficient semantic and formal consistency within each set to justify this.
 There are several other reasons for this choice.
 
-    Lynch (2002) merges POc *bwatu(k) ‘head, top of’ and POc *pʷatu[ka]- ‘elbow, knee;
+    Lynch (2002e) merges POc *bwatu(k) ‘head, top of’ and POc *pʷatu[ka]- ‘elbow, knee;
 joint, node’ into a single set, but the initial labiovelar correspondences do not justify the
 merger. All reflexes of POc *pʷatu[ka]- in §3.6.8.1.1 reflect *pʷ-. All the reflexes of POc
 *bwatu(k) below reflect *bʷ-. Lynch also merges POc *pʷau- ‘head’ and PSOc *bʷau- ‘knee’,
@@ -4978,7 +4978,7 @@ POc *pwau- ‘head’
  MM:   Kokota           pau-                ‘head’
  MM:   Maringe          phaʔu-              ‘head’
  SES:  Bugotu           pau-                ‘head’[18]
-PSOc *bʷau- ‘head’ (Lynch 2004a)
+PSOc *bʷau- ‘head’ (Lynch 2004d)
  NCV:  Nakanamanga      pʷau-               ‘head’
  NCV:  Nguna            na-pʷau-            ‘head’
  NCV:  S Efate          pʷa-               ‘head’
@@ -5473,7 +5473,7 @@ POc *mata- ‘eye, face’ appears to have served both as a noun denoting the ey
 and as a relational local noun denoting the ‘front’ side of a person or object (vol.2:249).
 
 <
-PAn *maCa ‘eye; face’ (Blust 1999a)
+PAn *maCa ‘eye; face’ (Blust 1999)
 POc *mata- ‘eye, face’
   Adm:  Mussau           mata-         ‘eye, face’
   Adm:  Tenis            mata-         ‘eye’
@@ -5577,7 +5577,7 @@ i.e. ‘eyebrow ridge’, as opposed to other facial ridges, particularly the ch
 *-ña ‘his, her, its’ or *ni, a morpheme that marked the following noun phrase as the
 nonspecific possessor of an indirectly possessed noun, e.g. POc ?*pasu ni mata- ‘ridge of
 eye’. This reconstruction is odd, however, as POc *pasu- was directly possessed, and the
-nonspecific possessor of a directly possessed noun was introduced by *qi (Ross 1998a; also
+nonspecific possessor of a directly possessed noun was introduced by *qi (Ross 1998c; also
 §3.1.1), i.e. the expected form is POc *pasu qi mata-. In a number of languages the reflex of
 *ni has displaced *qi, and Nokuku may be one of these.
 
@@ -5599,7 +5599,7 @@ POc *pasu-mata- or *|pasu qi mata-| ‘eyebrow ridge’
  SES:  Bugotu          vahu-             ‘forehead, temple’
  SES:  Gela            vau-vahu-         ‘eyebrow’
  SES:  Arosi           hasu-hasu--       ‘eyebrow’
-PSOc *vasu ‘eyebrow’ (Lynch 2004a: Clark 2009: PNCV *vazu)
+PSOc *vasu ‘eyebrow’ (Lynch 2004d: Clark 2009: PNCV *vazu)
  NCV:  Nokuku          |pus-pusa-n meta-| ‘eyebrow’(meta- ‘eye’)
  NCV:  Tamambo         vasu-             ‘eyebrow’
  NCV:  NE Ambae        vahu-             ‘forehead above the eye, incl. eyebrow’
@@ -5798,7 +5798,7 @@ POc *icuŋ ‘nose’ (vol.1:189)
 
 
     There is also evidence for POc *bwa(l,R)usu- ‘nose’. Its SE Solomonic and Micronesian
-reflexes form part of the evidence on which Blust (1984, 2010) bases his Malaitan-
+reflexes form part of the evidence on which Blust (1984b, 2010) bases his Malaitan-
 Micronesian subgroup. In the context of the additional cognates listed here, his Proto
 Malaitan-Micronesian *pwaRusu- is less convincing as a uniquely shared innovation. Blust
 dismisses Lou pursu- as a ‘chance resemblance’ on the grounds that Lou -r- does not reflect
@@ -6115,7 +6115,7 @@ and Roro reflexes point to *maya-. The compound is reconstructed as *kara-maya- 
 *kara-mea-, on the model of *maya-.
 
 <
-PCEMP *maya ‘tongue’ (Blust 1993a)
+PCEMP *maya ‘tongue’ (Blust 1993)
 POc *maya- ‘tongue’
   NNG: Kove            mae-                    ‘tongue’
   NNG: Bariai          mae-                    ‘tongue’
@@ -6191,7 +6191,7 @@ glossed ‘bare one’s teeth, grin’. Since these forms were evidently verbs, 
 §4.7.2.
 
 <
-PAn *nipen ‘tooth’ (Blust 1999a)
+PAn *nipen ‘tooth’ (Blust 1999)
 POc *nipo- ‘tooth’
   NNG: Kaiwa            nivo-               ‘tooth’
   NNG: Numbami          niwo-               ‘tooth’
@@ -6318,7 +6318,7 @@ PWOc *mwao- ‘molar tooth’
 <
 POc *bati ‘canine tooth, tusk’
  NNG: Gedaged        bali          ‘canine tooth of dog; ornamental band for forehead made of dog’s teeth’
-PSOc *bati- ‘tusk, upper canine tooth’ (Lynch 2004a)
+PSOc *bati- ‘tusk, upper canine tooth’ (Lynch 2004d)
   NCV:  Mota         pati(u)-          ‘upper tusk in a boar’
   NCV:  Uripiv       bati-             ‘upper canine tooth, of pig, porpoise or person’
   NCV:  Araki        pwari-            ‘molar’
@@ -6597,7 +6597,7 @@ throat; voice’ remains unaccounted for, other than to note its similarity to P
 ‘neck, throat’.
 
 <
-PAn *liqeR ‘neck’ (Blust 1999a)
+PAn *liqeR ‘neck’ (Blust 1999)
 POc *[qa]liqoR ‘throat’
   NNG: Malalamai          alio(m)          ‘neck’
   NNG: Malasanga          kalio-           ‘throat’
@@ -6869,7 +6869,7 @@ carry under the arm’ (§6.6.2.10).
 PMP *qabin ‘hold or carry under the arm’ (ACD)
 POc *qapi-ŋa ‘armpit’ (Geraghty 1983: PEOc *qaviŋa)
   MM: Halia               apia(pits)        ‘armpit, carry under the arm’
-PSOc *qaviŋa ‘armpit; carry under the arm’ (Lynch 2004a)
+PSOc *qaviŋa ‘armpit; carry under the arm’ (Lynch 2004d)
   NCV: Mota               viŋa-i            ‘armpit’
   NCV: Raga               (mal)aviŋa-       ‘armpit’
   NCV: Paamese            hiŋo-             ‘armpit’
@@ -7070,7 +7070,7 @@ evidently also formed a verb ‘suck (at the breast)’ (see §4.3.2.3), but *su
 formally distinct from it as it was a directly possessed noun, i.e. it took a possessor suffix.
 
 <
-PAn *susu ‘breast’ (Blust 1999a)
+PAn *susu ‘breast’ (Blust 1999)
 POc *susu- ‘breast, milk’
 POc *susu ‘suckle’
   Adm: Mussau              susu-              ‘breast’
@@ -7150,7 +7150,7 @@ POc *taqe- ‘faeces’ or POc *tinaqe- ‘intestines’, but slight formal rese
 and the two latter terms is due to chance.
 
 <
-PAn *tiaL ‘belly’ (Blust 1999a)
+PAn *tiaL ‘belly’ (Blust 1999)
 POc *tia- ‘belly’
  Adm: Lou               tia-           ‘abdomen’
  Adm: Seimat            tīa-           ‘abdomen’
@@ -7290,7 +7290,7 @@ with final *-ŋ. In the absence of corroboratory evidence, we have not reconstru
 consonant, but note the possibility of doing so.
 
 <
-POc *bʷito- ‘navel, umbilical cord’ (Blust 1984: *bito)
+POc *bʷito- ‘navel, umbilical cord’ (Blust 1984b: *bito)
  Adm: Mussau              bito-              ‘navel’
  Adm: Drehet               pʷitie             ‘his/her navel’
  MM: Tigak                 vito-              ‘navel’
@@ -7452,7 +7452,7 @@ cf. also:
 <
 POc *b(w)oto- ‘buttocks’
   MM: Lavongai           voto-            ‘buttocks’
-PSOc *(b,bʷ)oto- ‘buttocks, bottom’ (Lynch 2004a)
+PSOc *(b,bʷ)oto- ‘buttocks, bottom’ (Lynch 2004d)
   NCV: Mota              pwote-           ‘buttock’
   NCV: Raga              boro-            ‘buttocks, bottom’
   NCV: Paamese           voto-            ‘buttocks, bottom’
@@ -7688,7 +7688,7 @@ pattern. Either *l- was sometimes nasalised to n- before a nasal-initial syllabl
 existed as doublets in POc.
 
 <
-PAn *[qa]lima ‘hand’ (Blust 1999a)
+PAn *[qa]lima ‘hand’ (Blust 1999)
 PMP *lima ‘hand’
 POc *lima-, *nima- ‘forearm and hand, arm and hand; five’
   Adm: Mussau             nima-            ‘hand, arm’
@@ -7873,7 +7873,7 @@ POc (Evans 2001:343).
 information about their reflexes is hard to find, but Lichtenberk (2008) glosses To’aba’ita
 (SES) mauli as an intransitive verb ‘be on the left’, which is also used attributively (e.g. maa
 mauli nau [eye be.on.left I] ‘my left eye’). The attributive use of stative verbs is normal in
-Oceanic languages (Ross 1998a). However, there is evidence that these terms also functioned
+Oceanic languages (Ross 1998c). However, there is evidence that these terms also functioned
 as nouns in phrasal constructions, as in Kwaio (SES) gula i mooli [side LINKER left] ‘lefthand
 side’ and Wayan Fijian lima i matau [hand LINKER right] ‘right hand’. Both phrasal
 expressions reflect the POc nonspecific possessor construction where the item after *qi was a
@@ -7956,7 +7956,7 @@ cf. also:
 
 
 <
-PAn *wanaL ‘right (side, hand, direction)’ (Blust 1999a, ACD)
+PAn *wanaL ‘right (side, hand, direction)’ (Blust 1999, ACD)
 POc *wanan ‘right side, right-hand’
   NNG: Gedaged             waŋ                ‘right hand, right side, dextral’
   NNG: Biliau              wan                ‘right-hand’
@@ -8016,7 +8016,7 @@ POc *kataqu ‘be on the right; right hand’
 >
 
 <
-PMP *ma-taqu ‘right side’ (Blust 1993a, ACD)
+PMP *ma-taqu ‘right side’ (Blust 1993, ACD)
 POc *mataqu ‘right-hand’
  Adm: Wuvulu              maʔau             ‘right’
  Adm: Aua                 maʔau             ‘right’
@@ -8209,7 +8209,7 @@ POc *tur ‘knee’
      in western MP languages.
 
 [36] Final -t reflects Proto Huon Gulf *-c, a formative added to directly possessed nouns lacking a possessor
-     (Ross 1988:144) which was apparently an irregular reflex of POc *-ki (Ross 2001).
+     (Ross 1988:144) which was apparently an irregular reflex of POc *-ki (Ross 2001b).
 
 170 Meredith Osmond and Malcolm Ross
 
@@ -8460,7 +8460,7 @@ POc *pwatu[ka]- ‘elbow, knee; joint, node’
 joint, node’ is not known. See the discussion in §3.4.2.
 
 <
-PSOc *bwau- ‘knee, joint’ (Lynch 2004a)
+PSOc *bwau- ‘knee, joint’ (Lynch 2004d)
   NCV: Mota                pwau-i            ‘knee’
   NCV: Mwotlap             nu-bʷu-k, nʊ-bʷʊ-n ‘my knee’; ‘his knee’
   NCV: Nokuku              pou               ‘knee’
@@ -9162,7 +9162,7 @@ nominalisation formed by infixing *<in> into PAn *Caqi ‘faeces’.48 Its refle
 relational local nouns in a few languages (§3.1.2 and vol.2:239).
 
 <
-PAn *Cinaqi ‘guts’ (Blust 1999a)
+PAn *Cinaqi ‘guts’ (Blust 1999)
 POc *tinaqe ‘intestines’ (vol.2:239)
   Adm: Mussau              tine-             ‘intestines’
   Adm: Drehet              kxine-            ‘inner part, inside’
@@ -9573,7 +9573,7 @@ _*[dr,r]anum_ ‘fresh water’ and also meant ‘bathe or wash in fresh water�
 196 Meredith Osmond and Malcolm Ross
 
 <
-PAn *daLum ‘water, potable, drinking, fresh’ (Blust 1999a)
+PAn *daLum ‘water, potable, drinking, fresh’ (Blust 1999)
 POc *[dr,r]anum ‘fresh water’ (vol.2:58)
 PPn *lanu (1) ‘bathe or wash in fresh water’; (2) ‘amniotic fluid’
   Pn:    Niuean        lanu                ‘clear liquid’
@@ -9610,7 +9610,7 @@ at various times, some members of the cognate sets below may be outcomes of inde
 replacement. Thus PPn _*lo-qi-mata_ ‘tears’ is well attested, suggesting that Hawaiian _wai maka_
 and Marquesan _vai-mata_ may reflect local innovations independent of Proto Remote Oceanic
 _*wai(R) ni mata_.
-(On _*qi_, see §3.1.1, Hooper 1985, Ross 1998a.)
+(On _*qi_, see §3.1.1, Hooper 1985, Ross 1998c.)
 
 <
 PEOc *|suRu qi mata| ‘tears’ (POc *suruq ‘juice, fluid’)
@@ -10036,7 +10036,7 @@ Proto Willaumez *hanu- ‘soul, shadow, reflection’ (Goodenough 1997)
                                                                          The human body 205
 
 <
-PSOc *nunu ‘shadow, image, reflection, soul’ (Lynch 2004a)
+PSOc *nunu ‘shadow, image, reflection, soul’ (Lynch 2004d)
   NCV: Mota            nunua-i              ‘the mental impression of sound or force, rather than actual impression, but taken to be real’
   NCV: Mwotlap         nini-                ‘shadow, reflection’
   NCV: Nokuku          nun, nuniu-          ‘shadow’
@@ -10092,7 +10092,7 @@ however, lies with Apalik _kasaŋ_. John Lynch adds that evidence from Tanna lan
 suggests that _*q_ was ancestral to these forms too (pers. comm. and see also Lynch 2001c:120).
 
 <
-PAn *ŋajan ‘name’ (Blust 1999a)
+PAn *ŋajan ‘name’ (Blust 1999)
 PMP *[ŋ]ajan ‘name’ (ACD)
 POc *[q]acaŋ, *[q]aca- ‘name’
   Adm: Wuvulu            aka-                ‘name’
@@ -10349,7 +10349,7 @@ unconscious, numb, paralysed’, as noted in §4.2.1, and if reduplicated, ‘be
 there were further extensions in meaning, some of them apparently already present in POc. The
 tabulation below presents an analysis of the meanings of verbal reflexes of POc _*mate_ in
 Mangap (NNG) _-mēte_, Gela (SES) _mate_, To’aba’ita (SES) _mae_ and Wayan Fijian _mate_ as they
-are given in dictionaries of these languages (Bugenhagen & Bugenhagen 2007, Fox 1955,
+are given in dictionaries of these languages (Bugenhagen & Bugenhagen 2007b, Fox 1955,
 Lichtenberk 2008, Pawley & Sayaba 2003).
 
 [1] This reduplicated usage appears to reflect lexicalisation of reduplication that in POc encoded and in
@@ -10544,7 +10544,7 @@ POc *qait-i- ‘have sexual intercourse with’ (ACD)
  MM:  Teop             isi                 ‘copulate’
  SES: Kwaio            laʔi                ‘copulate’
  SES: Kwaio            laʔi-               (VT) ‘have sexual intercourse with’
-PSV *a-ic-i ‘copulate’ (Lynch 2002)
+PSV *a-ic-i ‘copulate’ (Lynch 2002e)
  SV:  Sye              isi                 ‘copulate’
  SV:  SW Tanna         eis                 ‘copulate’
  SV:  Kwamera          eh-i                ‘copulate’
@@ -10604,7 +10604,7 @@ PPn *fai ‘copulate’ (POLLEX)
   Pn:     Pukapukan        wai                 ‘copulate’
   Pn:     Tuvaluan         fai                 ‘copulate’
 cf. also
-   SV:     Sye              evis               ‘copulate’ (Lynch 2002: PSV _*a-ivi(cj)_ ‘copulate’)
+   SV:     Sye              evis               ‘copulate’ (Lynch 2002e: PSV _*a-ivi(cj)_ ‘copulate’)
    SV:     Anejom           īhis               ‘copulate’
 >
 
@@ -11302,7 +11302,7 @@ meat or fish (contra the gloss ‘raw seafood; eat raw seafood’ in vol.4:438, 
 <
 PAn *qetaq ‘eat s.t. raw’ (ACD)
 PCEMP *qentaq ‘eat s.t. raw’(ACD)
-POc *[q,k]oda(q) ‘eat s.t. raw’(ACD) (Blust 1972a; Lichtenberk 1994b:269; ACD)[4]
+POc *[q,k]oda(q) ‘eat s.t. raw’(ACD) (Blust 1972b; Lichtenberk 1994:269; ACD)[4]
   PT:  Molima           oda           ‘eat raw food, of animals’
   PT:  Kilivila         koda          ‘eat something uncooked’
   MM:  Roviana          oda           ‘eat fish without relish or vegetables, etc.; eat garden produce, of pigs’
@@ -11399,7 +11399,7 @@ The object of the latter, either implied or specified, is typically sugarcane or
 section is concerned with chewing and eating, whilst chewing without eating is discussed in
 §4.3.1.3.
 
-   Lichtenberk (1994) and Ross, Clark and Osmond (vol.1:238) comment on the phonaesthetic
+   Lichtenberk (1994b) and Ross, Clark and Osmond (vol.1:238) comment on the phonaesthetic
 pattern _*kʷV[r,R,s]V-_[5] in POc terms meaning ‘scrape’. A similar pattern, but with initial _*ŋ-_,
 appears to be present in chewing verbs such as POc _*ŋari(s)_, _*ŋaris-i-_ ‘gnaw, of animals’ in
 this section and POc _*ŋasu_ (VI), _*ŋasi_ (VT) ‘chew (betelnut, sugarcane), bite into’ and PNNG
@@ -11861,12 +11861,12 @@ intransitive of ‘eat’ was formed with _*paN-_, whereas the intransitive of �
 formed with a prefix allomorph of the PMP infix *<um>, giving _*um-inum_ (§1.3.5.5). Non-
 Oceanic languages have sometimes lost initial _*u-_ (e.g. Malay minum), but there is evidence
 that it was still present at an immediately pre-Proto Oceanic stage, as it caused labialisation of
-_*m-_, giving POc _*mwinum_ rather than _*minum_ (Lynch 2002). This is attested both by reflexes
+_*m-_, giving POc _*mwinum_ rather than _*minum_ (Lynch 2002e). This is attested both by reflexes
 that retain mwi- and by those that have simplified _*mwi-_ to mu-.
 
 <
 PMP *um-inum (VI) ‘eat’ (ACD)
-POc *mwinum (VI) ‘drink’ (Lynch 2002)
+POc *mwinum (VI) ‘drink’ (Lynch 2002e)
   Adm: Bipi               mwin           ‘drink’
   NCV: Raga               mwinu          ‘drink’
   NCV: Lonwolwol          muen           ‘drink’
@@ -12002,7 +12002,7 @@ __formgroup__
     SES: Longgu               ʔinu                 (VI) ‘drink’
     SES: Longgu               ʔinu-vi              (VT) ‘drink s.t, soak s.t. up’
 
-[9] However, Blust (1993a, 2009b) argues that PCEMP/POc _*unum_ should be reconstructed alongside PCEMP/
+[9] However, Blust (1993, 2009b) argues that PCEMP/POc _*unum_ should be reconstructed alongside PCEMP/
     POc _*inum_ because the lack of western Malayo-Polynesian forms reflecting _*unum_ implies that such forms
     in CEMP languages are not the result of local changes but of the innovation of a PCEMP variant _*unum_.
 
@@ -12657,7 +12657,7 @@ PMic *masu ‘sated with food or drink’ (Bender et al., 2003)
 
 4.3.4 Swallowing
 
-Lynch (2001b) draws attention to the strange collection of hypothetically reconstructable POc
+Lynch (2001d) draws attention to the strange collection of hypothetically reconstructable POc
 forms for ‘swallow’—strange because they don’t reflect reconstructed PMP regularly and
 because they form an unusually large set of apparent variations on a single template.
 
@@ -12704,8 +12704,8 @@ restricted to Polynesia.
 
 <
 PCEMP *belen ‘swallow’ (ACD)
-POc *polo(m) (VI) ‘swallow’ (Lynch 2001b)
-POc *polom-i- (VT) ‘swallow’ (Lynch 2001b)
+POc *polo(m) (VI) ‘swallow’ (Lynch 2001d)
+POc *polom-i- (VT) ‘swallow’ (Lynch 2001d)
 PPn *folo, *folom-i ‘swallow, ingest’ (POLLEX)
   Pn:    Tongan            folo(-ʔi, -a)      ‘swallow’
   Pn:    Niuean            folo               (VT) ‘swallow (s.t.)’
@@ -12741,7 +12741,7 @@ happened independently at different places and times.
    Why might these changes have occurred (and recurred)? Again, the reason perhaps has to
 do with the fact that _*t-_ and _*-l-_ had a similar point of articulation. But this cannot be the
 whole reason, as the resulting combinations in Table 15, e.g. _*donom_, also have similar or
-identical points of articulation. Lynch (2000b) shows that stress in Proto Oceanic words fell on
+identical points of articulation. Lynch (2000a) shows that stress in Proto Oceanic words fell on
 the penultimate mora, i.e. _*tilóŋ_ and _*tilóm_,[18] and on transitives _*tilóŋi_ and _*tilómi_. Thus there
 would have been a strong tendency for the first syllable to be phonetically weakened or
 deleted, i.e. *[t(ə)ˈloŋ], *[t(ə)ˈlom], *[t(ə)ˈloŋi] and *[t(ə)ˈlomi], giving the initial cluster *[tl] in
@@ -12796,17 +12796,17 @@ POc (?) *tilo(m), *tilom-i ‘swallow’
 
 
    The POc forms _*tolo_(m)/_*tolom-i-_ and _*toloŋ_/_*toloŋ-i-_ with the vowel replacement
-proposed in (iii) have the scattered reflexes listed below. Lynch (2001b) points out that Proto
+proposed in (iii) have the scattered reflexes listed below. Lynch (2001d) points out that Proto
 New Caledonian _*tonom_ may reflect either POc _*tolom_ or POc _*tonom_, as _*-l-_ and _*-n-_ have
 merged.
 
 <
 PMP *tilen ‘swallow’ (ACD)
-POc *tolo(m) (VI) ‘swallow’ (Lynch 2001b)
-POc *tolom-i- (VT) ‘swallow’ (Lynch 2001b)
+POc *tolo(m) (VI) ‘swallow’ (Lynch 2001d)
+POc *tolom-i- (VT) ‘swallow’ (Lynch 2001d)
   Adm: Seimat              tolom-i            (VT) ‘swallow’
   NCV: Mota                tolo               ‘make a noise in the throat; belch’
-Proto New Caledonia *tonom ‘swallow’ (Lynch 2001b)
+Proto New Caledonia *tonom ‘swallow’ (Lynch 2001d)
   NCal: Nyelâyu            cẽlẽm              ‘swallow’
   NCal: Nêlêmwa            (va)ɣanom          ‘swallow’
   NCal: Cèmuhî             nēm(ihĩ)           ‘swallow’[20]
@@ -12815,8 +12815,8 @@ Proto New Caledonia *tonom ‘swallow’ (Lynch 2001b)
 
 <
 PMP *tilen ‘swallow’ (ACD)
-POc *toloŋ (VI) ‘swallow’(Lynch 2001b)
-POc *toloŋ-i- (VT) ‘swallow’(Lynch 2001b)
+POc *toloŋ (VI) ‘swallow’(Lynch 2001d)
+POc *toloŋ-i- (VT) ‘swallow’(Lynch 2001d)
  Adm: Drehet                -seleŋ            ‘swallow’
  NNG: Gedaged               -talaŋ-ani-       ‘swallow’
  NNG: Megiar                -tuluŋ-i-         ‘swallow’
@@ -12841,7 +12841,7 @@ Oceanic groups—Western Oceanic and South Vanuatu—one might reconstruct metat
 POc _*toŋol_/_*toŋol-i-_. However, given the absence of reflexes elsewhere in Oceanic, we assume
 that the metathesised forms in Western Oceanic and South Efate/South Vanuatu reflect separate
 innovations. The fact that South Efate here groups with South Vanuatu is unsurprising, as South
-Efate is the closest external relative of the South Vanuatu languages (Lynch 2000a).
+Efate is the closest external relative of the South Vanuatu languages (Lynch 2000c).
 
 [20] These forms have removed an initial _*tn-_ cluster by deleting initial _*t-_. Cf. footnote 22.
 
@@ -12851,8 +12851,8 @@ Efate is the closest external relative of the South Vanuatu languages (Lynch 200
 
 <
 PMP *tilen ‘swallow’ (ACD)
-POc *toloŋ (VI) ‘swallow’(Lynch 2001b)
-POc *toloŋ-i- (VT) ‘swallow’(Lynch 2001b)
+POc *toloŋ (VI) ‘swallow’(Lynch 2001d)
+POc *toloŋ-i- (VT) ‘swallow’(Lynch 2001d)
 PWOc *toŋol (VI) ‘swallow’
 PWOc *toŋol-i- (VTI) ‘swallow’
  NNG: Tami                toŋ                         ‘swallow’
@@ -12880,7 +12880,7 @@ PWOc *toŋol-i- (VTI) ‘swallow’
 PMP *tilen ‘swallow’ (ACD)
 POc *toloŋ (VI) ‘swallow’
 POc *toloŋ-i- (VT) ‘swallow’
-Proto S Efate/SV *a-tVŋol-i ‘swallow’ (Lynch 2001b)
+Proto S Efate/SV *a-tVŋol-i ‘swallow’ (Lynch 2001d)
   NCV: S Efate              tnol            ‘swallow’
   SV: Sye                   e-tŋol-i        ‘swallow’
   SV: Ura                   e-rŋel-i        ‘swallow’
@@ -12893,8 +12893,8 @@ intransitive and transitive forms is retained, final _*-m_ being retained in tra
 
 <
 PMP *tilen ‘swallow’ (ACD)
-POc *tolo(m) (VI) ‘swallow’ (Lynch 2001b)
-POc *tolom-i- (VT) ‘swallow’ (Lynch 2001b)
+POc *tolo(m) (VI) ‘swallow’ (Lynch 2001d)
+POc *tolom-i- (VT) ‘swallow’ (Lynch 2001d)
 PNNG *tono ‘swallow’
  NNG: Tuam                 -tona              ‘swallow’
   NNG: Malai             -ton                      ‘swallow’
@@ -12971,8 +12971,8 @@ to reconstruct these as POc alternants. Forms in d- occur only in NCV languages
 
 <
 PMP *tilen ‘swallow’ (ACD)
-POc *tolo(m) (VI) ‘swallow’ (Lynch 2001a)
-POc *tolom-i- (VT) ‘swallow’ (Lynch 2001a)
+POc *tolo(m) (VI) ‘swallow’ (Lynch 2001b)
+POc *tolom-i- (VT) ‘swallow’ (Lynch 2001b)
 PNCV *dolo (VI) ‘swallow’ (Clark 2009)
 PNCV *dolom-i- (VT) ‘swallow’ (Clark 2009)
  NCV: Mota                 nolo               ‘swallow’
@@ -13010,10 +13010,10 @@ reflects nasalisation of _*-l-_ as _*-n-_ and acoustic reinterpretation of a _*t
 
 <
 PMP *tilen ‘swallow’ (ACD)
-POc *tolo(m) (VI) ‘swallow’ (Lynch 2001b)
-POc *tolom-i- (VT) ‘swallow’ (Lynch 2001b)
-Proto Meso-Melanesian *konom (VI) ‘swallow’ (Lynch 2001b)
-Proto Meso-Melanesian *konom-i- (VT) ‘swallow’ (Lynch 2001b)
+POc *tolo(m) (VI) ‘swallow’ (Lynch 2001d)
+POc *tolom-i- (VT) ‘swallow’ (Lynch 2001d)
+Proto Meso-Melanesian *konom (VI) ‘swallow’ (Lynch 2001d)
+Proto Meso-Melanesian *konom-i- (VT) ‘swallow’ (Lynch 2001d)
  MM: Lavongai              konem              ‘swallow’
  MM: Lavongai              konomo             ‘throat’
  MM: Tigak                 kanam              ‘swallow’
@@ -13133,7 +13133,7 @@ Polynesian reflexes probably reflects _*kati_.
 266 Malcolm Ross and Meredith Osmond
 
 <
-PAn *kaRat ‘bite’ (Blust 1999a)
+PAn *kaRat ‘bite’ (Blust 1999)
 POc *kaRat (VI) ‘bite’
 POc *kaRat-i- (VT) ‘bite’
   Adm: Loniu               -yeti           (VT) ‘bite’
@@ -13714,7 +13714,7 @@ perhaps a euphemism which almost replaced the inherited term, POc _*(q)utut_ ‘
 there is just one known reflex. Other terms are also likely to have arisen via euphemism.
 
 <
-POc *bwisi ‘to fart’ (ACD: pisi; Lynch 2002: PEOc *bwisi ‘spurt out, fart’)
+POc *bwisi ‘to fart’ (ACD: pisi; Lynch 2002e: PEOc *bwisi ‘spurt out, fart’)
  Adm: Mussau                 pisi              ‘to fart, break wind’
  Adm: Loniu                  isi               ‘break wind’
  NNG: Gedaged                pis               ‘pass gases from the bowels’
@@ -14142,7 +14142,7 @@ PMP *liwaq ‘spit out, vomit’ (Dempwolff 1938: *livah)
 POc *luaq (VI) ‘eject forcefully from body; vomit, spit out, (?) discharge seminal fluid’
 POc *luaq-i (VT) ‘vomit on’
 POc *luaq-akin[i] (VT) ‘vomit s.t. up’
- Adm: Mussau        luek-i             ‘vomit’ (probably < POc *luaq-aki; Blust 1998:95)
+ Adm: Mussau        luek-i             ‘vomit’ (probably < POc *luaq-aki; Blust 1998a: 95)
  Adm: Lou           luek               ‘spit out’ (as above)
  NNG: Mangap        lua-i              ‘spit out of mouth’
  NNG: Gitua         lua                ‘vomit’
@@ -14784,7 +14784,7 @@ POc *ipu ‘(wind, person) blow’ (vol.1:107-108, vol.2:125)
 298 Malcolm Ross and Meredith Osmond
 
 <
-PCEMP *upi ‘(wind, person) blow’ (Blust, 1993a:180)
+PCEMP *upi ‘(wind, person) blow’ (Blust, 1993:180)
 POc *upi ‘(wind, person) blow’ (vol.1:107-108, vol.2:125)
   Adm: Seimat             uhi               ‘blow on the fire’
   NNG: Mangap             -wi               ‘(wind) blow’
@@ -14916,7 +14916,7 @@ set.
 <
 PAn *ma-Suab, *Suab (V)  ‘yawn; (N) yawning’ (ACD)
 PMP *ma-huab ‘(V) yawn, (N) yawning’ (ACD)
-PCEMP *mawab ‘(V) yawn, (N) yawning’ (Blust 1993a, ACD)
+PCEMP *mawab ‘(V) yawn, (N) yawning’ (Blust 1993, ACD)
 POc *mawap ‘(V) yawn, (N) yawning’
  Adm: Loniu             (yeli)maw        ‘yawn’
  Adm: Seimat            maw              ‘yawn’
@@ -14934,7 +14934,7 @@ POc *mawap ‘(V) yawn, (N) yawning’
   SES: Sa’a             (ahi)mawa        ‘yawn’
   NCV: Mwotlap          (ɣay)mʷa         ‘yawn’
   NCV: Nguna            mo-moa           ‘yawn’
-PSV *a-mu(y)av ‘yawn’ (Lynch 2002)
+PSV *a-mu(y)av ‘yawn’ (Lynch 2002e)
   SV: Sye               a-mʷap           ‘yawn’
   SV: Anejom            a-muya           ‘yawn’
 PMic *mawa ‘yawn, be open mouthed’
@@ -15323,9 +15323,9 @@ reflex of *[ma]turu(R) comes also to mean ‘lie’ is much rarer but is reflect
 Ireland languages below: Lavongai, Tigak and Tabar.
 
 <
-PAn *tuduR ‘sleep’ (Blust 1999a)
+PAn *tuduR ‘sleep’ (Blust 1999)
 PMP *[ma]tuduR, *[ma]tiduR ‘sleep’ (Blust 1993)
-POc *[ma]turu(R) (VI) ‘sleep, to be asleep’ (Blust 1998a: *matiruR)
+POc *[ma]turu(R) (VI) ‘sleep, to be asleep’ (Blust 1998b: *matiruR)
   Adm: Seimat             matihu              (VI) ‘sleep’
   Adm: Kaniet             matu                ‘sleep’
   Adm: Wuvulu             maʔiku              ‘sleep’
@@ -15646,7 +15646,7 @@ cf. also:
 The next set is almost in complementary geographic distribution to the *nipi/*mipi sets.
 
 <
-POc *(b,bʷ)o(l,R)e ‘to dream’ (Geraghty 1990: *boRe; Lynch 2002: PEOc *bwoRe)
+POc *(b,bʷ)o(l,R)e ‘to dream’ (Geraghty 1990: *boRe; Lynch 2002e: PEOc *bwoRe)
  MM: Tabar          (para)bore          ‘have a dream’
  SES: Lengo         bole                ‘dream’
  SES: Lau           (teo)bole           ‘to dream’ (teo ‘sleep’)
@@ -15838,7 +15838,7 @@ PSOc *bʷil(i,u) ‘close eyes’ (Lynch 2004)
 POc *malip ‘laugh’ has reflexes spread across several major Oceanic subgroups.
 
 <
-PCEMP *malip ‘laugh’ (Blust 1993a, ACD)
+PCEMP *malip ‘laugh’ (Blust 1993, ACD)
 POc *malip ‘laugh’ (ACD)
   Adm: Seimat              mal                (VI) ‘laugh’
   Adm: Seimat              malini             (VT) ‘laugh at’
@@ -17144,7 +17144,7 @@ that the Kaiwa, Numbami and the EOc reflexes of POc *kaRat added to their meanin
 344 Meredith Osmond
 
 <
-PAn *kaRat ‘bite’ (Blust 1999a)
+PAn *kaRat ‘bite’ (Blust 1999)
 POc *kaRat (VI) ‘bite’
 POc *kaRat-i (VT) ‘bite’
   NNG: Kaiwa               alas               ‘itchy’
@@ -18459,7 +18459,7 @@ apparent reflexes of *nopo(q). Wayan novo is the regular reflex, whereas nō is 
 Bauan no. The items listed under ‘cf. also’ may be cognate, but they display irregularities.
 
 <
-POc *nopo(q) ‘sit, stay, dwell’ (Milke 1968); ‘sit’ (Blust 1993a)
+POc *nopo(q) ‘sit, stay, dwell’ (Milke 1968); ‘sit’ (Blust 1993)
   PT:   Motu               noho               ‘dwell, remain’ (persons, not things)
   MM:   Patpatar           noh                ‘dwell, lie’
   SES:  Lau                nofo               ‘dwell, stop, stay’
@@ -18792,7 +18792,7 @@ en-dir), but not enough is known about pre-Oceanic diachronic morphology to allo
 pre-Oceanic reconstruction.[5]
 
 <
-PAn *diRi ‘stand’ (Blust 1999a)
+PAn *diRi ‘stand’ (Blust 1999)
 POc *madriRi ‘be standing upright’
   NNG: Bariai        -mad-madid            ‘stand’
   NNG: Kilenge       -mari                 ‘stand’
@@ -20235,7 +20235,7 @@ locomotion verbs, and their cognate sets are listed below. POc *loso and *kʷaya
 hand, denoted a physical activity other than locomotion and appear in chapter 7.
 
 <
-POc *kaRu ‘swim’ (Pawley 1976: Blust 1993a: *kakaRu)
+POc *kaRu ‘swim’ (Pawley 1976: Blust 1993: *kakaRu)
   Adm: Seimat            ki-kau          (VI) ‘wash’
   Adm: Titan             kaw             ‘swim’
   Adm: Nauna             kokaw           ‘swim’
@@ -20510,7 +20510,7 @@ POc *mule ‘return, restore’ (ACD)
  SV:  Anejom        (a-θu)mʷoc        ‘return’
 >
 
-    Blust (1983:11–13) draws attention to an idiosyncratic innovation shared by CMP and
+    Blust (1983b:11–13) draws attention to an idiosyncratic innovation shared by CMP and
 Oceanic languages. This is the raising of PMP *u- to *o- giving a PCEMP variant *oliq
 ‘return’, reflected in Oceanic only in SES languages.
 
@@ -21368,7 +21368,7 @@ PNCV *la-i ‘take, give’ (Clark 2009)
     Three further verbs which, like those above, denote simple caused movement, are
 reconstructed below. The first, POc *pa, is phonologically unusual in that its root is a
 monosyllabic CV form. Most POc roots are polysyllabic. The New Caledonian forms in this
-set are from Ozanne-Rivierre (2004).
+set are from Ozanne-Rivierre (2004b).
 
 <
 POc *pa, *pa-i- ‘get, take, bring’
@@ -21853,7 +21853,7 @@ evidence is conflicting. At the same time, the similarities in both form and mea
 probable that these items form a cognate set. PMP *baba could regularly have become either
 POc *baba or *papa. Clark (2009) correctly observes that NCV items reflect either PNCV/
 POc *baba or PNCV *bava (POc *bapa). One might reconstruct alternant POc forms, but
-there is a solution which unites the apparently conflicting lines of evidence. Lynch (2002)
+there is a solution which unites the apparently conflicting lines of evidence. Lynch (2002e)
 shows that PMP labials surface sporadically as POc labiovelars, and that the reflex of POc *pʷ
 in WOc languages is often a fortis p. The evidence below suggests that the initial POc
 consonant was indeed *pʷ, an inference supported by the rounded vowels of Poeng pope and
@@ -23870,7 +23870,7 @@ languages. The Tongan and Niuean reflexes below reflect PPn *uku rather than exp
 
 <
 POc *sugu(p) (VI) ‘wash by immersing oneself, dive’
-POc *sugup-i- (VT) ‘wash s.o. by immersing them; dive for s.t.’ (Blust 1984: *suku)
+POc *sugup-i- (VT) ‘wash s.o. by immersing them; dive for s.t.’ (Blust 1984b: *suku)
   NNG: Manam                 -ruku-           (VI, VT) ‘bathe, wash’ (-k- for †-g-)
   NNG: Bam                   -ruk-i-          ‘wash (child +)’ (-k- for †-g-)
   NNG: Yabem                 -sagu            ‘wash (child +)’
@@ -24491,7 +24491,7 @@ direct object. Typically they also have a number of transitive verbs for intenti
 activities comparable, for example, to English ‘peer’, ‘peep’, ‘glance’, ‘gaze’ and ‘stare’. Verbs
 which we might call ‘verbs of directed looking’ (look around, up, down, in, out, over, away, into
 etc.) are likely to be expressed in Oceanic languages by a serial verb construction or by a
-combination of verb and directional marker (cf. Ross 2003:256; Ross 2004a).
+combination of verb and directional marker (cf. Ross 2003b:256; Ross 2004a).
 
     Verbs of seeing and looking may also be used intransitively with the perceiver as subject.
 Examples are Motu ita (VI) ‘see, look’, ita-i- (VT) ‘look at s.t.’, Arosi rio (VI) ‘see’, rios-i (VT)
@@ -25484,7 +25484,7 @@ PPn *namu-aqa (VSt) ‘have a strong smell or flavour’
 >
 
 [9] There are many parallel cases of PMP disyllables of the form R-R (where R is a monosyllabic root)
-    being continued in Oceanic as R-i (Blust 1977, Ross 1998:24-25).
+    being continued in Oceanic as R-i (Blust 1977, Ross 1998c:24-25).
 
                                                                                     Perception 511
 
@@ -25531,7 +25531,7 @@ POc *mamis ‘to try by tasting; sweet’
 *-m- to a prenasalised stop *b, with subsequent devoicing.
 
 <
-POc *ñapi- (VT) ‘taste s.t.’ (Blust 1998a)
+POc *ñapi- (VT) ‘taste s.t.’ (Blust 1998b)
  Adm: Lou                    nap                 ‘taste’
  SES: Gela                   na-napi             (VT) ‘taste, lick s.t.’
  SES: Bugotu                 ñapi                (VT) ‘to bite, taste s.t.’
@@ -25990,7 +25990,7 @@ of both emotional and non-emotional cognitive states in the metaphors collected.
                                                                           Body part metaphors 523
 
 <
-PMP *dalem ‘inside, interior; seat of emotions’ (Blust 1993a: ‘inside, interior’)
+PMP *dalem ‘inside, interior; seat of emotions’ (Blust 1993: ‘inside, interior’)
 PCEMP *daləm ‘inside; mind, feelings’ (Blust 2009b:66)[5]
 POc (N, N Loc) *lalo-, *lalom ‘inside; seat of thoughts and emotions’
   NNG: Mutu         lolo-        ‘inside; metaphor for one’s feelings, emotions, intentions’
@@ -26121,7 +26121,7 @@ __formgroup__
 
 526 Meredith Osmond
 
-   In Kiriwina (PT; Lawton n.d.), BPMs that refer to a person’s feelings and inner states may
+   In Kiriwina (PT; Lawton n.d.b), BPMs that refer to a person’s feelings and inner states may
 come from the body (vovo-, from PWOc *popo- ‘the complete skin’; §3.2.1), mind (nano-6),
 belly (lopo-), head (daba-) and eye (mata-, from POc *mata-; §3.4.9.1). Thus:
 
@@ -26215,8 +26215,8 @@ formulae. As Senft translates it, “If I whisper magic, the magic(al formula) w
 belly to my larynx and then I whisper magic. I speak (the) magic(al formula).” (1998:89). The
 larynx is thus recognised as the active agent or vehicle of the brain and mind.
 
-   That this belief is widespread is demonstrated by the following phrases recorded by Firth
-(1985) in his Tikopia dictionary:
+   That this belief is widespread is demonstrated by the following phrases recorded by
+Firth (1985) in his Tikopia dictionary:
 
        te maanatu e fai i te manava, ki te atami ‘memory is produced in the belly by the mind’
        te atami te taŋata ena i na manava, fenatu ki na ŋutu, muna rei ‘the thoughts of a person are
@@ -26520,7 +26520,7 @@ rua ‘be of two minds, undecided, have doubt’ (§10.8) and *qate- p(w)atu ‘
 there is ample evidence across subgroups of particular feelings or thoughts being expressed by
 BPMs that share the same underlying metaphor. Expression of such concepts in this way is a
 well-established feature of Austronesian languages, apparently as far back as Proto
-Austronesian, as BPMs encoding emotions are found in Tsou (Huang 2000), which scholars
+Austronesian, as BPMs encoding emotions are found in Tsou (Huang 2000b), which scholars
 agree is either part of a three-language first-order Austronesian subgroup or a first-order
 subgroup in its own right. Blust (ACD) has partially reconstructed several PMP terms *X qatay,
 where the BPMs are consistently translatable as ‘afraid’ (literally ‘small liver’), ‘brave,
@@ -26650,7 +26650,7 @@ only by a MM language.
    There is a tendency for terms denoting abstractions to be metaphors that refer to less
 abstract concepts. Metaphors in turn are often encoded by complex lexemes; that is, lexemes
 made up of two or more simple lexemes. Complex lexemes include body-part metaphors
-(BPMs; ch.9), serial verb constructions (SVCs),3 and compounds derived from either of these,
+(BPMs; ch.9), serial verb constructions (SVCs),[3] and compounds derived from either of these,
 and apparently these have long been productive lexeme-creating devices, as they are also
 present in Central Malayo-Polynesian and South Halmahera/West New Guinea languages and
 were apparently constructions of Proto Central/Eastern Malayo-Polynesian. We can be sure
@@ -26671,7 +26671,7 @@ __block
 •   ACQUAINTED, e. g. ‘I know him well.’
 •   EXPERT, e. g. ‘I know how to plant yams.’
 
-[3] Oceanic SVCs are described by Crowley (2002) and in the contributions to Bril & Ozanne-Rivierre
+[3] Oceanic SVCs are described by Crowley (2002d) and in the contributions to Bril & Ozanne-Rivierre
     (2004).
 
                                                                                         Cognition 537
@@ -27026,7 +27026,7 @@ and it seems that in Oceanic languages OPINE verbs typically do not have this bl
     Second, OPINE is quite often expressed by a languages’s default verb of saying, so that in
 Baluan (Adm), for example, it is sometimes difficult to tell whether the speaker intends the
 complement of pʷa to be spoken or simply thought (Dineke Schokkin, pers. comm.).
-Bugenhagen & Bugenhagen (2007) gloss the Mangap sentence
+Bugenhagen & Bugenhagen (2007b) gloss the Mangap sentence
 
 __igt__
     Nio     aŋ-so    ina        aᵐbai        som
@@ -29647,7 +29647,7 @@ __igt__
 
 In some languages the ‘mind’ noun has been (half-)transformed into a verb, as in Lewo (NCV),
 where the transitive verbal suffix -ni is attached to the ‘mind’ noun sine- ‘guts’ and its possessor
-suffix, in this instance -la ‘their’ (Early 1994).
+suffix, in this instance -la ‘their’ (Early 1994a).
 
 __igt__
        sine-la-ni        0-̷ sape Palua 0-̷ va                e wa

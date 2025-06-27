@@ -1,1089 +1,438 @@
-              References
-
-
-Abo, Takaji, Byron Bender, Alfred Capelle & Tony DeBrum, 1976. Marshallese-English
-    dictionary. Honolulu: University of Hawaii Press.
-Adelaar, K. Alexander, 1992. Proto-Malayic. Canberra: Pacific Linguistics. (Pacific
-    Linguistics C-119)
-Adelaar, K. Alexander, 2005. The Austronesian languages of Asia and Madagascar: a
-    historical perspective. In K. Alexander Adelaar & Nikolaus P. Himmelmann, eds, The
-    Austronesian languages of Asia and Madagascar, 1–42. London: Routledge.
-Aikhenvald, Alexandra & Anne Storch, 2013. Linguistic expression of perception and
-    cognition: a typological glimpse. In Alexandra Aikhenvald & Anne Storch, eds,
-    Perception and cognition in language and culture, 1–45. Leiden: Brill.
-Allen, Jan & Jerry Allen, 2006. Halia dictionary. PDF, Summer Institute of Linguistics
-     Papua New Guinea Branch. (http://www.sil.org/pacific/png/abstract.asp?
-     id=928474550905)
-Ameka, Felix & James Essegbey, 2013. Serialising languages: Satellite-framed,
-   verb-framed or neither. Ghana Journal of Linguistics 2:19–38.
-Ameka, Felix K. & Stephen C. Levinson, 2007. Introduction: The typology and semantics
-   of locative predicates: postural, positionals, and other beasts. Linguistics 45:847–871.
-Amherst, L. & B. Thomson, 1901. The discovery of the Solomon Islands by Alvaro de
-   Mendaña in 1568. London: Hakluyt Society. In two vols.
-Anderson, E. S., 1978. Lexical universals of body-part terminology. In J. H. Greenberg,
-    ed., Universals of human language, vol.3, 335–368. Stanford University Press.
-Anderson, Michael. 2007. Sudest–English dictionary. (http://www.sil.org/pacific/png/
-    abstract.asp?id=48462)
-Arms, David G., 1974. Transitivity in Standard Fijian. PhD dissertation, University of
-   Michigan.
-Aske, Jon, 1989. Path predicates in English and Spanish: a closer look. Berkeley
-    Linguistics Society 15:1–14.
-Barth, Danielle, 2012. Matukar–English online talking dictionary, version 2.1. (http://
-    matukar.swarthmore.edu)
-Beaumont, Clive H., 1979. The Tigak language of New Ireland. Canberra: Pacific
-    Linguistics. (Pacific Linguistics B-58)
-Beaumont, John & Margaret Beaumont, 2007. Bonada ma ʔadi saivila: Iamalele–English/
-    English–Iamalele dictionary. Ukarumpa: Summer Institute of Linguistics. (http://
-    www.sil.org/pacific/png/abstract.asp?id=48957)
-642 References
-
-
-Bell, F. L. S., 1977. Tanga-English English-Tanga dictionary. Sydney: University of
-     Sydney. (Oceania Linguistic Monograph 21)
-Bender, Byron, Robert W. Hsu, Frederick H. Jackson, Kenneth L. Rehg, Stephen Trussell
-    and Judith Wang, 1983. Micronesian cognate sets. Computer file, Dept of Linguistics,
-    University of Hawaii.
-Bender, Byron, Ward H. Goodenough, Frederick H. Jackson, Jeffrey C. Marck, Kenneth L.
-    Rehg, Ho-min Sohn, Stephen Trussel and Judith Wang, 2003. Proto-Micronesian
-    reconstructions. Oceanic Linguistics 42:1-109, 271–358.
-Berg, René van den, 2007. An unusual passive in Western Oceanic: the case of Vitu.
-    Oceanic Linguistics 46:54-70.
-Berg, René van den & Peter Bachet, 2006. Vitu grammar sketch. Ukarumpa: Summer
-    Institute of Linguistics. (Data Papers in Papua New Guinea languages 5)
-Berg, René van den & Brenda H. Boerger, 2011. A Proto-Oceanic passive? Evidence from
-    Bola and Natügu. Oceanic Linguistics 50:221–246.
+Abo, Takaji, Byron Bender, Alfred Capelle & Tony DeBrum, 1976. Marshallese-English dictionary. Honolulu: University of Hawaii Press.
+Adelaar, K. Alexander, 1992. Proto-Malayic. Canberra: Pacific Linguistics. (Pacific Linguistics C-119)
+Adelaar, K. Alexander, 2005. The Austronesian languages of Asia and Madagascar: a historical perspective. In K. Alexander Adelaar & Nikolaus P. Himmelmann, eds, The Austronesian languages of Asia and Madagascar, 1–42. London: Routledge.
+Aikhenvald, Alexandra & Anne Storch, 2013. Linguistic expression of perception and cognition: a typological glimpse. In Alexandra Aikhenvald & Anne Storch, eds, Perception and cognition in language and culture, 1–45. Leiden: Brill.
+Allen, Jan & Jerry Allen, 2006. Halia dictionary. PDF, Summer Institute of Linguistics Papua New Guinea Branch. (http://www.sil.org/pacific/png/abstract.asp?id=928474550905)
+Ameka, Felix & James Essegbey, 2013. Serialising languages: Satellite-framed, verb-framed or neither. Ghana Journal of Linguistics 2:19–38.
+Ameka, Felix K. & Stephen C. Levinson, 2007. Introduction: The typology and semantics   of locative predicates: postural, positionals, and other beasts. Linguistics 45:847–871.
+Amherst, L. & B. Thomson, 1901. The discovery of the Solomon Islands by Alvaro de   Mendaña in 1568. London: Hakluyt Society. In two vols.
+Anderson, E. S., 1978. Lexical universals of body-part terminology. In J. H. Greenberg,    ed., Universals of human language, vol.3, 335–368. Stanford University Press.
+Anderson, Michael. 2007. Sudest–English dictionary. (http://www.sil.org/pacific/png/    abstract.asp?id=48462)
+Arms, David G., 1974. Transitivity in Standard Fijian. PhD dissertation, University of   Michigan.
+Aske, Jon, 1989. Path predicates in English and Spanish: a closer look. Berkeley    Linguistics Society 15:1–14.
+Barth, Danielle, 2012. Matukar–English online talking dictionary, version 2.1. (http://matukar.swarthmore.edu)
+Beaumont, Clive H., 1979. The Tigak language of New Ireland. Canberra: Pacific    Linguistics. (Pacific Linguistics B-58)
+Beaumont, John & Margaret Beaumont, 2007. Bonada ma ʔadi saivila: Iamalele–English/    English–Iamalele dictionary. Ukarumpa: Summer Institute of Linguistics. (http://www.sil.org/pacific/png/abstract.asp?id=48957)
+Bell, F. L. S., 1977. Tanga-English English-Tanga dictionary. Sydney: University of     Sydney. (Oceania Linguistic Monograph 21)
+Bender, Byron, Robert W. Hsu, Frederick H. Jackson, Kenneth L. Rehg, Stephen Trussell    and Judith Wang, 1983. Micronesian cognate sets. Computer file, Dept of Linguistics,    University of Hawaii.
+Bender, Byron, Ward H. Goodenough, Frederick H. Jackson, Jeffrey C. Marck, Kenneth L.    Rehg, Ho-min Sohn, Stephen Trussel and Judith Wang, 2003. Proto-Micronesian    reconstructions. Oceanic Linguistics 42:1-109, 271–358.
+Berg, René van den, 2007. An unusual passive in Western Oceanic: the case of Vitu.    Oceanic Linguistics 46:54-70.
+Berg, René van den & Peter Bachet, 2006. Vitu grammar sketch. Ukarumpa: Summer    Institute of Linguistics. (Data Papers in Papua New Guinea languages 5)
+Berg, René van den & Brenda H. Boerger, 2011. A Proto-Oceanic passive? Evidence from    Bola and Natügu. Oceanic Linguistics 50:221–246.
 Biggs, Bruce, 1965. Direct and indirect inheritance in Rotuman. Lingua 14:383-415.
-Biggs, Bruce, 1974. Some problems of Polynesian grammar. Journal of the Polynesian
-    Society, 83: 401–426.
-Biggs, Bruce, 1978. The history of Polynesian phonology. In S. A. Wurm & Lois
-    Carrington, eds, Second International Conference on Austronesian Linguistics:
-    Proceedings, 691-716. Canberra: Pacific Linguistics. (Pacific Linguistics C-61)
-Biggs, Bruce, 1995. Contemporary healing practices in East Futuna. In Clare Parsons, ed,
-    108–128.
-Biggs, Bruce, D. S. Walsh & Jocelyn Waqa, 1970. Proto-Polynesian reconstructions with
-    English to Proto-Polynesian finder list. : Department of Anthropology, Archaeology
-    and Linguistics, University of Auckland. (University of Auckland Working Papers in
-    Anthropology )
-Biggs, Bruce & Ross Clark, 1993. POLLEX: Polynesian lexicon. Unpublished electronic
-    files, Department of Anthropology, University of Auckland.
+Biggs, Bruce, 1974. Some problems of Polynesian grammar. Journal of the Polynesian    Society, 83: 401–426.
+Biggs, Bruce, 1978. The history of Polynesian phonology. In S. A. Wurm & Lois    Carrington, eds, Second International Conference on Austronesian Linguistics:    Proceedings, 691-716. Canberra: Pacific Linguistics. (Pacific Linguistics C-61)
+Biggs, Bruce, 1995. Contemporary healing practices in East Futuna. In Clare Parsons, ed,    108–128.
+Biggs, Bruce, D. S. Walsh & Jocelyn Waqa, 1970. Proto-Polynesian reconstructions with    English to Proto-Polynesian finder list. : Department of Anthropology, Archaeology    and Linguistics, University of Auckland. (University of Auckland Working Papers in    Anthropology )
+Biggs, Bruce & Ross Clark, 1993. POLLEX: Polynesian lexicon. Unpublished electronic    files, Department of Anthropology, University of Auckland.
 Blust, Robert A., 1970. Proto-Austronesian addenda. Oceanic Linguistics 9:104-162.
-Blust, Robert A., 1972a. Proto-Oceanic addenda with cognates in non-Oceanic
-    Austronesian languages: a preliminary list. University of Hawaii Working Papers in
-    Linguistics 4.1:1–43.
-Blust, Robert A., 1972b. Research notes: Note on PAn *qaR(CtT)a ‘outsiders, alien
-    people. Oceanic Linguistics 11.2:166–171.
-Blust, Robert A., 1977a. A rediscovered Austronesian comparative paradigm. Oceanic
-     Linguistics 16:1–51.
-Blust, Robert A., 1977b. The Proto-Austronesian pronouns and Austronesian subgrouping: a
-     preliminary report. University of Hawaii Working Papers in Linguistics 9/2:1-15.
-Blust, Robert A., 1978a. Eastern Malayo-Polynesian: A subgrouping argument. In S. A.
-     Wurm & Lois Carrington, eds, Second International Conference on Austronesian
-                                                                            References 643
-
-
-     Linguistics: Proceedings, 181-234. Canberra: Pacific Linguistics. (Pacific Linguistics
-     C-61)
-Blust, Robert A., 1978b. The Proto Oceanic palatals. Polynesian Society Memoir 43.
-     Wellington: The Polynesian Society.
+Blust, Robert A., 1972a. Proto-Oceanic addenda with cognates in non-Oceanic    Austronesian languages: a preliminary list. University of Hawaii Working Papers in    Linguistics 4.1:1–43.
+Blust, Robert A., 1972b. Research notes: Note on PAn *qaR(CtT)a ‘outsiders, alien    people. Oceanic Linguistics 11.2:166–171.
+Blust, Robert A., 1977a. A rediscovered Austronesian comparative paradigm. Oceanic     Linguistics 16:1–51.
+Blust, Robert A., 1977b. The Proto-Austronesian pronouns and Austronesian subgrouping: a     preliminary report. University of Hawaii Working Papers in Linguistics 9/2:1-15.
+Blust, Robert A., 1978a. Eastern Malayo-Polynesian: A subgrouping argument. In S. A.     Wurm & Lois Carrington, eds, Second International Conference on Austronesian     Linguistics: Proceedings, 181-234. Canberra: Pacific Linguistics. (Pacific Linguistics     C-61)
+Blust, Robert A., 1978b. The Proto Oceanic palatals. Polynesian Society Memoir 43.     Wellington: The Polynesian Society.
 Blust, Robert A., 1980a. Austronesian etymologies. Oceanic Linguistics 19:1–181.
-Blust, Robert A., 1980b. Early Austronesian social organization: The evidence of language.
-     Current Anthropology 21:205–226.
-Blust, Robert A., 1981. Some remarks on labiovelar correspondences in Oceanic languages.
-     In Jim Hollyman & Andrew Pawley, eds, Studies in Pacific languages and cultures in
-     honour of Bruce Biggs, 229–254. Auckland: Linguistic Society of New Zealand.
-Blust, Robert A., 1982a. The linguistic value of the Wallace Line. Bijdragen tot de Taal-,
-     Land- en Volkenkunde 138:231–250.
-Blust, Robert A., 1982b. The Proto Austronesian word for “female”. In Rainer Carle, C.
-     Rost & K. Stadtlander, eds, Gava: Studies in Austronesian languages and cultures
-     dedicated to Hans Kähler, 17–30. Berlin: Dietrich Reimer.
-Blust, Robert, A., 1983. More on the position of the languages of Eastern Indonesia.
-     Oceanic Linguistics 22–23:1–28.
-Blust, Robert A., 1983-84a. Austronesian etymologies II. Oceanic Linguistics 22-23:29–
-     149.
-Blust, Robert A., 1983-84b. More on the position of the languages of Eastern Indonesia.
-     Oceanic Linguistics 22-23:1–28.
-Blust, Robert A., 1984a. A Mussau vocabulary with phonological notes. In M. Ross, J.
-     Siegel, R. Blust M. Colburn & W. Seiler, eds, Papers in New Guinea Linguistics
-     No.23, 159–208. Canberra: Pacific Linguistics.
-Blust, Robert A., 1984b. Malaita-Micronesian: an Eastern Oceanic subgroup? Journal of the
-     Polynesian Society 93, 99–140.
+Blust, Robert A., 1980b. Early Austronesian social organization: The evidence of language.     Current Anthropology 21:205–226.
+Blust, Robert A., 1981. Some remarks on labiovelar correspondences in Oceanic languages.     In Jim Hollyman & Andrew Pawley, eds, Studies in Pacific languages and cultures in     honour of Bruce Biggs, 229–254. Auckland: Linguistic Society of New Zealand.
+Blust, Robert A., 1982a. The linguistic value of the Wallace Line. Bijdragen tot de Taal-,     Land- en Volkenkunde 138:231–250.
+Blust, Robert A., 1982b. The Proto Austronesian word for “female”. In Rainer Carle, C.     Rost & K. Stadtlander, eds, Gava: Studies in Austronesian languages and cultures     dedicated to Hans Kähler, 17–30. Berlin: Dietrich Reimer.
+Blust, Robert, A., 1983. More on the position of the languages of Eastern Indonesia.     Oceanic Linguistics 22–23:1–28.
+Blust, Robert A., 1983-84a. Austronesian etymologies II. Oceanic Linguistics 22-23:29–     149.
+Blust, Robert A., 1983-84b. More on the position of the languages of Eastern Indonesia.     Oceanic Linguistics 22-23:1–28.
+Blust, Robert A., 1984a. A Mussau vocabulary with phonological notes. In M. Ross, J.     Siegel, R. Blust M. Colburn & W. Seiler, eds, Papers in New Guinea Linguistics     No.23, 159–208. Canberra: Pacific Linguistics.
+Blust, Robert A., 1984b. Malaita-Micronesian: an Eastern Oceanic subgroup? Journal of the     Polynesian Society 93, 99–140.
 Blust, Robert A., 1986. Austronesian etymologies III. Oceanic Linguistics 25.1:1–123.
-Blust, Robert A., 1987. Lexical reconstruction and semantic reconstruction: the case of
-     Austronesian ‘house’ words. Diachronica 4:79–106.
-Blust, Robert A., 1988. Austronesian root theory: An essay on the limits of morphology.
-     Amsterdam: John Benjamins.
+Blust, Robert A., 1987. Lexical reconstruction and semantic reconstruction: the case of     Austronesian ‘house’ words. Diachronica 4:79–106.
+Blust, Robert A., 1988. Austronesian root theory: An essay on the limits of morphology.     Amsterdam: John Benjamins.
 Blust, Robert A., 1989. Austronesian etymologies IV. Oceanic Linguistics 28.2:111–180.
-Blust, Robert A., 1993a. Central and Central-Eastern Malayo-Polynesian. Oceanic
-     Linguistics 32.2:241–293.
-Blust, Robert A., 1993b. *S metathesis and the Formosan/Malayo-Polynesian language
-     boundary. In Øyvind Dahl, ed., Language – a doorway between human cultures:
-     Tributes to Dr Otto Chr. Dahl on his ninetieth birthday, 178–183. Oslo: Novus Forlag.
-Blust, Robert A., 1994. Proto Malayo-Polynesian sibling terms. In Andrew Pawley &
-     Malcolm Ross, eds, Austronesian terminologies: Continuity and change, 31–72.
-     Canberra: Pacific Linguistics. (Pacific Linguistics C-127)
-644 References
-
-
-Blust, Robert A., 1995. Austronesian Comparative Dictionary (ACD). Computer files.
-     Honolulu: University of Hawaii
-Blust, Robert A., 1996. The Neogrammarian Hypothesis and pandemic irregularity. In Mark
-     Durie & Malcolm Ross, eds, The comparative method reviewed: Regularity and
-     irregularity in language change, 135–156. Oxford: Oxford University Press.
-Blust, Robert A., 1997. Semantic change and the conceptualization of spatial relationships in
-     Austronesian languages. In Gunter Senft, ed, Referring to space: studies in
-     Austronesian and Papuan languages, 39–51. Oxford: Clarendon Press.
-Blust, Robert A., 1998a. A Lou vocabulary with phonological notes. In Darrell Tryon,
-    ed., Papers in Austronesian linguistics No. 5, 35–99. Canberra: Pacific Linguistics.
-    (Pacific Linguistics A-92)
-Blust, Robert A., 1998b. A note on higher-order subgroups in Oceanic. Oceanic Linguistics
-     37:182–188.
-Blust, Robert A., 1999a. Subgrouping, circularity and extinction: some issues in
-     Austronesian comparative linguistics. In E. Zeitoun & P. Jen-kuei Li, eds, 31–94.
-Blust, Robert A., 1999b. Why lexicostatistics doesn’t work: the ‘universal constant’
-     hypothesis and the Austronesian languages. In Colin Renfrew, April McMahon &
-     Larry Trask, eds, Time depth in historical linguistics, 311–332. Cambridge:
-     Macdonald Institute for Archaeological Research.Blust, Robert A., 2004.
-     Austronesian nasal substitution: a survey. Oceanic Linguistics 43:73-148.
-Blust, Robert A., 2004. Austronesian nasal substitution: a survey. Oceanic Linguistics
-     43.1:73–148.
-Blust, Robert A., 2009a. The Austronesian languages. Canberra: Pacific Linguistics. (Pacific
-     Linguistics 602)
-Blust, Robert A., 2009b. The position of the languages of Eastern Indonesia: A reply to
-    Donohue and Grimes. Oceanic Linguistics 48.1:36–77.
-Blust, Robert A., 2010. Squib: Malaita-Micronesian once again. Oceanic Linguistics
-    49.2:559–567.
-Blust, Robert A., 2011. The problem of doubleting in Austronesian languages. Oceanic
-    Linguistics 50.2:399–457.
-Blust, Robert, 2013. The Austronesian languages. Revised edition. Canberra:
-     Asia-Pacific Linguistics Open Access Monographs. (A-PL 008)
-Blust, Robert A. & Stephen Trussell, ongoing. Austronesian comparative dictionary, web
-     edition. Honolulu: Department of Linguistics, University of Hawai‘i. (http://
-     www.trussel2.com/ACD). Last consulted October 2015.
-Böhm, Karl, 1975. Das Leben einiger Inselvölker Neuguineas. Beobachtungen eines
-   Missionars auf den Vulkaninseln Manam, Boesa, Biem und Ubrub. St Augustin:
-   Anthropos-Institut.
-Böhm, Karl, 1983. The life of some island people of New Guinea. Berlin: Dietrich
-   Reimer Verlag.
-                                                                          References 645
-
-
-Bougainville, Louis de, 1772 (translated by J. R. Foster). A voyage round the world.
-    London: Nourse & T. Davies.
-Bowern, Claire, 2011. Sivisa Titan: sketch grammar, texts, vocabulary based on material
-   collected by P. Josef Meier and Po Minis. Honolulu: University of Hawaii Press.
-   (Oceanic Linguistics Special Publication 38)
-Bril, Isabelle & Françoise Ozanne-Rivierre, eds, 2004. Complex predicates in Oceanic
-      languages: studies in the dynamics of binding and boundness. Berlin: Mouton de
-      Gruyter.
-Buckley, H., 2007. Possible gouty arthritis in Lapita-associated skeletons from Teouma,
-    Efate Island, Central Vanuatu. Current Anthropology 48:741–749.
-Buckley, H, R., N. G. Tayles, M. J. Spriggs & S. Bedford, 2008. A preliminary report on
-    health and disease in early Lapita skeletons, Vanuatu: Possible biological costs of
-    island colonization. Journal of Island and Coastal Archaeology 3.87–114.
-Bugenhagen, Robert D., 1995. A grammar of Mangap-Mbula: an Austronesian language
-    of Papua New Guinea. Canberra: Pacific Linguistics. (Pacific Linguistics C-101)
-Bugenhagen, Robert D., 2001. Emotions and the nature of persons in Mbula. In Jean
-    Harkins and Anna Wierzbicka, eds, 69–114.
-Bugenhagen, Robert D., 2007. A grammar of the Tuam language. Unpublished
-    manuscript, Ukarumpa: Summer Institute of Linguistics.
-Bugenhagen, Salme & Robert D. Bugenhagen, 2007. Ro Ta Ipiyooto Sua Mbula Uunu:
-    Mbula-English Dictionary. Ukarumpa: Summer Institute of Linguistics, Papua New
-    Guinea Branch. (http://www.sil.org/pacific/png/abstract.asp?id=49817)
-Burley, David W. & Sean P. Connaughton, 2007. First Lapita settlement and its chronology
-     in Vava’u, Kingdom of Tonga. Radiocarbon 49:131–137.
-Bybee, Joan L., 1994. A view of phonology from a cognitive and functional perspective.
-    Cognitive Linguistics 5:285-305.
-Callister, Sandra et al, 1983. Baba Ana talisi ana buki: Misima dictionary. Ukarumpa:
-     Summer Institute of Linguistics. (http://www.sil.org/pacific/png/abstract.asp?
-     id=46404)
+Blust, Robert A., 1993a. Central and Central-Eastern Malayo-Polynesian. Oceanic     Linguistics 32.2:241–293.
+Blust, Robert A., 1993b. *S metathesis and the Formosan/Malayo-Polynesian language     boundary. In Øyvind Dahl, ed., Language – a doorway between human cultures:     Tributes to Dr Otto Chr. Dahl on his ninetieth birthday, 178–183. Oslo: Novus Forlag.
+Blust, Robert A., 1994. Proto Malayo-Polynesian sibling terms. In Andrew Pawley &     Malcolm Ross, eds, Austronesian terminologies: Continuity and change, 31–72.     Canberra: Pacific Linguistics. (Pacific Linguistics C-127)
+Blust, Robert A., 1995. Austronesian Comparative Dictionary (ACD). Computer files.     Honolulu: University of Hawaii
+Blust, Robert A., 1996. The Neogrammarian Hypothesis and pandemic irregularity. In Mark     Durie & Malcolm Ross, eds, The comparative method reviewed: Regularity and     irregularity in language change, 135–156. Oxford: Oxford University Press.
+Blust, Robert A., 1997. Semantic change and the conceptualization of spatial relationships in     Austronesian languages. In Gunter Senft, ed, Referring to space: studies in     Austronesian and Papuan languages, 39–51. Oxford: Clarendon Press.
+Blust, Robert A., 1998a. A Lou vocabulary with phonological notes. In Darrell Tryon,    ed., Papers in Austronesian linguistics No. 5, 35–99. Canberra: Pacific Linguistics.    (Pacific Linguistics A-92)
+Blust, Robert A., 1998b. A note on higher-order subgroups in Oceanic. Oceanic Linguistics     37:182–188.
+Blust, Robert A., 1999a. Subgrouping, circularity and extinction: some issues in     Austronesian comparative linguistics. In E. Zeitoun & P. Jen-kuei Li, eds, 31–94.
+Blust, Robert A., 1999b. Why lexicostatistics doesn’t work: the ‘universal constant’     hypothesis and the Austronesian languages. In Colin Renfrew, April McMahon &     Larry Trask, eds, Time depth in historical linguistics, 311–332. Cambridge:     Macdonald Institute for Archaeological Research.Blust, Robert A., 2004.     Austronesian nasal substitution: a survey. Oceanic Linguistics 43:73-148.
+Blust, Robert A., 2004. Austronesian nasal substitution: a survey. Oceanic Linguistics     43.1:73–148.
+Blust, Robert A., 2009a. The Austronesian languages. Canberra: Pacific Linguistics. (Pacific     Linguistics 602)
+Blust, Robert A., 2009b. The position of the languages of Eastern Indonesia: A reply to    Donohue and Grimes. Oceanic Linguistics 48.1:36–77.
+Blust, Robert A., 2010. Squib: Malaita-Micronesian once again. Oceanic Linguistics    49.2:559–567.
+Blust, Robert A., 2011. The problem of doubleting in Austronesian languages. Oceanic    Linguistics 50.2:399–457.
+Blust, Robert, 2013. The Austronesian languages. Revised edition. Canberra:     Asia-Pacific Linguistics Open Access Monographs. (A-PL 008)
+Blust, Robert A. & Stephen Trussell, ongoing. Austronesian comparative dictionary, web     edition. Honolulu: Department of Linguistics, University of Hawai‘i. (http://     www.trussel2.com/ACD). Last consulted October 2015.
+Böhm, Karl, 1975. Das Leben einiger Inselvölker Neuguineas. Beobachtungen eines   Missionars auf den Vulkaninseln Manam, Boesa, Biem und Ubrub. St Augustin:   Anthropos-Institut.
+Böhm, Karl, 1983. The life of some island people of New Guinea. Berlin: Dietrich   Reimer Verlag.
+Bougainville, Louis de, 1772 (translated by J. R. Foster). A voyage round the world.    London: Nourse & T. Davies.
+Bowern, Claire, 2011. Sivisa Titan: sketch grammar, texts, vocabulary based on material   collected by P. Josef Meier and Po Minis. Honolulu: University of Hawaii Press.   (Oceanic Linguistics Special Publication 38)
+Bril, Isabelle & Françoise Ozanne-Rivierre, eds, 2004. Complex predicates in Oceanic      languages: studies in the dynamics of binding and boundness. Berlin: Mouton de      Gruyter.
+Buckley, H., 2007. Possible gouty arthritis in Lapita-associated skeletons from Teouma,    Efate Island, Central Vanuatu. Current Anthropology 48:741–749.
+Buckley, H, R., N. G. Tayles, M. J. Spriggs & S. Bedford, 2008. A preliminary report on    health and disease in early Lapita skeletons, Vanuatu: Possible biological costs of    island colonization. Journal of Island and Coastal Archaeology 3.87–114.
+Bugenhagen, Robert D., 1995. A grammar of Mangap-Mbula: an Austronesian language    of Papua New Guinea. Canberra: Pacific Linguistics. (Pacific Linguistics C-101)
+Bugenhagen, Robert D., 2001. Emotions and the nature of persons in Mbula. In Jean    Harkins and Anna Wierzbicka, eds, 69–114.
+Bugenhagen, Robert D., 2007. A grammar of the Tuam language. Unpublished    manuscript, Ukarumpa: Summer Institute of Linguistics.
+Bugenhagen, Salme & Robert D. Bugenhagen, 2007. Ro Ta Ipiyooto Sua Mbula Uunu:    Mbula-English Dictionary. Ukarumpa: Summer Institute of Linguistics, Papua New    Guinea Branch. (http://www.sil.org/pacific/png/abstract.asp?id=49817)
+Burley, David W. & Sean P. Connaughton, 2007. First Lapita settlement and its chronology     in Vava’u, Kingdom of Tonga. Radiocarbon 49:131–137.
+Bybee, Joan L., 1994. A view of phonology from a cognitive and functional perspective.    Cognitive Linguistics 5:285-305.
+Callister, Sandra et al, 1983. Baba Ana talisi ana buki: Misima dictionary. Ukarumpa:     Summer Institute of Linguistics. (http://www.sil.org/pacific/png/abstract.asp?     id=46404)
 Capell, Arthur, 1941. A new Fijian dictionary. Sydney: Australasian Medical Publishing Co.
-Capell, Arthur, 1943. The linguistic position of South-Eastern Papua. Sydney: Australasian
-    Medical Publishing Company.
-Cashmore, Christine, 1969. Some Proto-Eastern Oceanic reconstructions with reflexes in
-    southeast Solomon Islands languages. Oceanic Linguistics 8:1–25.
-Cauchard, Aurélie, 2014. A study of space in Caac, an Oceanic language spoken in the north
-    of New Caledonia. PhD thesis, University of Manchester.
-Chowning, Ann, 1989. The doctor and the curer: Medical theory and practice in Kove. In A
-   continuing trial of treatment, eds, A S. Frankel & G. Lewis. Dordrecht: Kluwer
-   Academic Publishers 217–247.
-Chowning, Ann, 1996. Relations among languages of West New Britain: an assessment of
-   recent theories and evidence. In Malcolm Ross, ed., Studies in languages of New
-646 References
-
-
-     Britain and New Ireland. Vol.1: 7–62. Canberra: Pacific Linguistics. (Pacific
-     Linguistics C-135)
+Capell, Arthur, 1943. The linguistic position of South-Eastern Papua. Sydney: Australasian    Medical Publishing Company.
+Cashmore, Christine, 1969. Some Proto-Eastern Oceanic reconstructions with reflexes in    southeast Solomon Islands languages. Oceanic Linguistics 8:1–25.
+Cauchard, Aurélie, 2014. A study of space in Caac, an Oceanic language spoken in the north    of New Caledonia. PhD thesis, University of Manchester.
+Chowning, Ann, 1989. The doctor and the curer: Medical theory and practice in Kove. In A   continuing trial of treatment, eds, A S. Frankel & G. Lewis. Dordrecht: Kluwer   Academic Publishers 217–247.
+Chowning, Ann, 1996. Relations among languages of West New Britain: an assessment of   recent theories and evidence. In Malcolm Ross, ed., Studies in languages of New     Britain and New Ireland. Vol.1: 7–62. Canberra: Pacific Linguistics. (Pacific     Linguistics C-135)
 Chowning, Ann, 2009. Kove Vocabulary. PDF.
-Chowning, Ann & Ward H. Goodenough, 2014. A dictionary of the Lakalai (Nakanai)
-   language of New Britain, Papua New Guinea. Unpublished manuscript. (forthcoming
-   in Asia-Pacific Linguistics)
-Christian, F. W., 1899. The Caroline islands: Travel in the sea of little lands. London:
-     Methuen.
-Churchward, C. Maxwell, 1940. Rotuman grammar and dictionary. Sydney: Australasian
-    Medical Publishing Co.
+Chowning, Ann & Ward H. Goodenough, 2014. A dictionary of the Lakalai (Nakanai)   language of New Britain, Papua New Guinea. Unpublished manuscript. (forthcoming   in Asia-Pacific Linguistics)
+Christian, F. W., 1899. The Caroline islands: Travel in the sea of little lands. London:     Methuen.
+Churchward, C. Maxwell, 1940. Rotuman grammar and dictionary. Sydney: Australasian    Medical Publishing Co.
 Churchward, C. Maxwell, 1959. Tongan dictionary. Oxford: Oxford University Press.
-Clark, Geoffrey & Atholl Anderson, 2009. Colonisation and culture change in Fiji. In
-     Geoffrey Clark & Atholl Anderson, eds, The early prehistory of Fiji, 407–437.
-     Canberra: ANU E Press. (Terra Australis 31)
-Clark, Ross, 1973. Transitivity and case in eastern Oceanic languages. Oceanic Linguistics
-     12:559–606.
-Clark, Ross, 1985. Languages of north and central Vanuatu: groups, chains, clusters and
-     waves. In Andrew Pawley & Lois Carrington, eds, 199–236.
-Clark, Ross, 1996. North and Central Vanuatu languages: A comparative study. Unpublished
-     ms, University of Auckland.
-Clark, Ross, 2009. *Leo tuai: A comparative lexical study of North and Central Vanuatu
-     languages. Canberrra: Pacific Linguistics. (Pacific Linguistics 603)
-Clark, Ross & Bruce Biggs, 2006. POLLEX. Polynesian lexicon. Unpublished electronic
-     files. Dept. of Anthropology, University of Auckland.
-Clark, Stephen & Dawn Clark, 1995. Sio lexicon. Unpublished electronic file, Summer
-     Institute of Linguistics, Papua New Guinea Branch, Ukarumpa.
-Codrington, R. H., 1891. The Melanesians: Studies in their anthropology and folk-lore.
-    Oxford: Clarendon Press.
-Codrington, R. H., & J, Palmer, 1896. A dictionary of the language of Mota. London:
-    Society for Promoting Christian Knowledge.
-Collins, J. T., 1983. The historical relationships of the languages of Central Maluku.
-     Canberra: Pacific Linguistics. (Pacific Linguistics D-47)
-Croft, William, 2001. Syntactic categories and grammatical relations: the cognitive
-     organization of information. Chicago: University of Chicago Press.
-Croft, William & D. Alan Cruse, 2004. Cognitive linguistics. Cambridge: Cambridge
-     University Press.
-Croft, William, Jóhanna Barðdal, Willem Hollman, Violeta Sotirova & Chiaki Taoka, 2010.
-     Revising Talmy’s typological classification of complex events. In Hans C. Boas, ed,
-     Contrastive studies in construction grammar, 201–235. Amsterdam: John Benjamins.
-                                                                            References 647
-
-
-Crowley, Susan Smith, 1986. Tolo dictionary. Canberra: Pacific Linguistics. (Pacific
-    Linguistics C-91)
-Crowley, Terry, 1992. A dictionary of Paamese. Canberra: Pacific Linguistics. (Pacific
-    Linguistics C-121)
-Crowley, Terry, 2000. An Erromangan (Sye) dictionary. Canberra: Pacific Linguistics.
-    (Pacific Linguistics C-508)
-Crowley, Terry, 2002a. Raga. In John Lynch, Malcolm Ross & Terry Crowley, eds, 626–
-    637. Richmond: Curzon Press.
-Crowley, Terry, 2002b. Serial verbs in Oceanic: a descriptive typology. Oxford: Oxford
-    University Press.
-Davis, Karen, 2003. A grammar of the Hoava language, Western Solomons. Canberra:
-    Pacific Linguistics. (Pacific Linguistics 535)
-Dahl, O. C., 1981. Early phonetic and phonemic changes in Austronesian. Oslo: Instituttet
-    for Sammenlignende Kulturforskning.
-Dempwolff, Otto, 1938. Vergleichende Lautlehre des austronesischen Wortschatzes. Berlin:
-   Dietrich Reimer. (Beihefte zur Zeitschrift für Eingeborenen-Sprachen 3)
+Clark, Geoffrey & Atholl Anderson, 2009. Colonisation and culture change in Fiji. In     Geoffrey Clark & Atholl Anderson, eds, The early prehistory of Fiji, 407–437.     Canberra: ANU E Press. (Terra Australis 31)
+Clark, Ross, 1973. Transitivity and case in eastern Oceanic languages. Oceanic Linguistics     12:559–606.
+Clark, Ross, 1985. Languages of north and central Vanuatu: groups, chains, clusters and     waves. In Andrew Pawley & Lois Carrington, eds, 199–236.
+Clark, Ross, 1996. North and Central Vanuatu languages: A comparative study. Unpublished     ms, University of Auckland.
+Clark, Ross, 2009. *Leo tuai: A comparative lexical study of North and Central Vanuatu     languages. Canberrra: Pacific Linguistics. (Pacific Linguistics 603)
+Clark, Ross & Bruce Biggs, 2006. POLLEX. Polynesian lexicon. Unpublished electronic     files. Dept. of Anthropology, University of Auckland.
+Clark, Stephen & Dawn Clark, 1995. Sio lexicon. Unpublished electronic file, Summer     Institute of Linguistics, Papua New Guinea Branch, Ukarumpa.
+Codrington, R. H., 1891. The Melanesians: Studies in their anthropology and folk-lore.    Oxford: Clarendon Press.
+Codrington, R. H., & J, Palmer, 1896. A dictionary of the language of Mota. London:    Society for Promoting Christian Knowledge.
+Collins, J. T., 1983. The historical relationships of the languages of Central Maluku.     Canberra: Pacific Linguistics. (Pacific Linguistics D-47)
+Croft, William, 2001. Syntactic categories and grammatical relations: the cognitive     organization of information. Chicago: University of Chicago Press.
+Croft, William & D. Alan Cruse, 2004. Cognitive linguistics. Cambridge: Cambridge     University Press.
+Croft, William, Jóhanna Barðdal, Willem Hollman, Violeta Sotirova & Chiaki Taoka, 2010.     Revising Talmy’s typological classification of complex events. In Hans C. Boas, ed,     Contrastive studies in construction grammar, 201–235. Amsterdam: John Benjamins.
+Crowley, Susan Smith, 1986. Tolo dictionary. Canberra: Pacific Linguistics. (Pacific    Linguistics C-91)
+Crowley, Terry, 1992. A dictionary of Paamese. Canberra: Pacific Linguistics. (Pacific    Linguistics C-121)
+Crowley, Terry, 2000. An Erromangan (Sye) dictionary. Canberra: Pacific Linguistics.    (Pacific Linguistics C-508)
+Crowley, Terry, 2002a. Raga. In John Lynch, Malcolm Ross & Terry Crowley, eds, 626–    637. Richmond: Curzon Press.
+Crowley, Terry, 2002b. Serial verbs in Oceanic: a descriptive typology. Oxford: Oxford    University Press.
+Davis, Karen, 2003. A grammar of the Hoava language, Western Solomons. Canberra:    Pacific Linguistics. (Pacific Linguistics 535)
+Dahl, O. C., 1981. Early phonetic and phonemic changes in Austronesian. Oslo: Instituttet    for Sammenlignende Kulturforskning.
+Dempwolff, Otto, 1938. Vergleichende Lautlehre des austronesischen Wortschatzes. Berlin:   Dietrich Reimer. (Beihefte zur Zeitschrift für Eingeborenen-Sprachen 3)
 Dixon, J. W., 1970. Dobu-English dictionary. English-Dobu . Typescript.
 Dixon, J. W., n.d. English-Dobu dictionary. Salamo, PNG: The Uniting Church.
-Dixon, R. M. W., 1988. A grammar of Boumaa Fijian. Chicago: University of Chicago
-    Press.
-D’Jernes, Lucille S., 2002. Lukep (Pono). In John Lynch, Malcolm Ross and Terry Crowley,
-    eds, The Oceanic languages, 249–269. Richmond: Curzon Press.
-D’Jernes, Lucille S., 2013. The give and take of the verb root –kaua in Lukep (Pono) [apr].
-    Language and Linguistics in Melanesia 31:131–139.
-Donohue, Mark & Charles E. Grimes, 2008. Yet more on the position of the languages of
-    eastern Indonesia. Oceanic Linguistics 47:114-158.
-Dryer, Matthew S., 2013. A grammatical description of Kara-Lemakot. Asia-Pacific
-    Linguistics. (Asia-Pacific Linguistics 009) (http://pacling.anu.edu.au/materials/
-    Dryer2013Kara-Lemakot.pdf)
-Dyen, Isidore, 1953. The Proto-Malayo-Polynesian laryngeals. William Dwight Whitney
-    Linguistic Series. Baltimore: Linguistic Society of America.
-Dyen, Isidore & David F. Aberle, 1974. Lexical reconstruction: The case of the
-    Proto-Athapaskan kinship system. Cambridge: Cambridge University Press.
-Early, Robert, 1994. A grammar of Lewo, Vanuatu. PhD dissertation, RSPAS, Australian
-     National University.
-Early, Robert, 2000. Sit, stand, lie: posture verbs and imperfectives. In Bill Palmer & Paul
-     Geraghty, eds, 81–103.
-Elbert, Samuel H., 1972. Puluwat dictionary. Canberra: Pacific Linguistics. (Pacific
-     Linguistics C-24)
-648 References
-
-
-Elbert, Samuel H., 1975. Dictionary of the language of Rennell and Bellona. Copenhagen:
-     National Museum of Denmark.
-Ellis, William, 1829 (republished 1969). Polynesian researches. Rutland, Vermont & Tokyo:
-      Charles E. Tuttle Co.
-Enfield, N. & Anna Wierzbicka, eds, 2002. The body in description of emotion, pragmatics
-     and cognition. Amsterdam/Philadelphia: John Benjamins.
-Evans, Bethwyn, 1995. Reconstructing object markers in Oceanic languages. B.A.
-    Honours thesis, Australian National University.
-Evans, Bethwyn, 2003. A study of valency-changing devices in Proto Oceanic. Canberra:
-    Pacific Linguistics. (Pacific Linguistics 539)
-Evans, Bethwyn, ed., 2009. Discovering history through language: papers in honour of
-    Malcolm Ross. Canberra: Pacific Linguistics. (Pacific Linguistics 605)
-Evans, Bethwyn & Malcolm Ross, 2001. The history of Proto Oceanic *ma-. Oceanic
-    Linguistics 40.2:269–290.
-Evans, Nicholas and David Wilkins, 2000. In the mind’s ear: the semantic extensions of
-    perception verbs in Australian languages. Language 76.3:546–592.
-Eves, Richard, 1998. The magical body: Power, fame and meaning in a Melanesian society.
-    Amsterdam: Harwood.
-Fast, Lesley & Marianne Fast, 1989. Tungag word list. Unpublished manuscript, Summer
-     Institute of Linguistics Papua New Guinea Branch. (http://www.sil.org/pacific/png/
-     abstract.asp?id=928474554007)
-Fillmore, Charles J., 1982. Frame semantics. In Linguistic Society of Korea, ed, Linguistics
-     in the morning calm, 111–137. Seoul: Hanshin Publishing.
-Fillmore, Charles J., 1985. Frames and the semantics of understanding. Quaderni di
-     Semantica 6:222–254.
+Dixon, R. M. W., 1988. A grammar of Boumaa Fijian. Chicago: University of Chicago    Press.
+D’Jernes, Lucille S., 2002. Lukep (Pono). In John Lynch, Malcolm Ross and Terry Crowley,    eds, The Oceanic languages, 249–269. Richmond: Curzon Press.
+D’Jernes, Lucille S., 2013. The give and take of the verb root –kaua in Lukep (Pono) [apr].    Language and Linguistics in Melanesia 31:131–139.
+Donohue, Mark & Charles E. Grimes, 2008. Yet more on the position of the languages of    eastern Indonesia. Oceanic Linguistics 47:114-158.
+Dryer, Matthew S., 2013. A grammatical description of Kara-Lemakot. Asia-Pacific    Linguistics. (Asia-Pacific Linguistics 009) (http://pacling.anu.edu.au/materials/    Dryer2013Kara-Lemakot.pdf)
+Dyen, Isidore, 1953. The Proto-Malayo-Polynesian laryngeals. William Dwight Whitney    Linguistic Series. Baltimore: Linguistic Society of America.
+Dyen, Isidore & David F. Aberle, 1974. Lexical reconstruction: The case of the    Proto-Athapaskan kinship system. Cambridge: Cambridge University Press.
+Early, Robert, 1994. A grammar of Lewo, Vanuatu. PhD dissertation, RSPAS, Australian     National University.
+Early, Robert, 2000. Sit, stand, lie: posture verbs and imperfectives. In Bill Palmer & Paul     Geraghty, eds, 81–103.
+Elbert, Samuel H., 1972. Puluwat dictionary. Canberra: Pacific Linguistics. (Pacific     Linguistics C-24)
+Elbert, Samuel H., 1975. Dictionary of the language of Rennell and Bellona. Copenhagen:     National Museum of Denmark.
+Ellis, William, 1829 (republished 1969). Polynesian researches. Rutland, Vermont & Tokyo:      Charles E. Tuttle Co.
+Enfield, N. & Anna Wierzbicka, eds, 2002. The body in description of emotion, pragmatics     and cognition. Amsterdam/Philadelphia: John Benjamins.
+Evans, Bethwyn, 1995. Reconstructing object markers in Oceanic languages. B.A.    Honours thesis, Australian National University.
+Evans, Bethwyn, 2003. A study of valency-changing devices in Proto Oceanic. Canberra:    Pacific Linguistics. (Pacific Linguistics 539)
+Evans, Bethwyn, ed., 2009. Discovering history through language: papers in honour of    Malcolm Ross. Canberra: Pacific Linguistics. (Pacific Linguistics 605)
+Evans, Bethwyn & Malcolm Ross, 2001. The history of Proto Oceanic *ma-. Oceanic    Linguistics 40.2:269–290.
+Evans, Nicholas and David Wilkins, 2000. In the mind’s ear: the semantic extensions of    perception verbs in Australian languages. Language 76.3:546–592.
+Eves, Richard, 1998. The magical body: Power, fame and meaning in a Melanesian society.    Amsterdam: Harwood.
+Fast, Lesley & Marianne Fast, 1989. Tungag word list. Unpublished manuscript, Summer     Institute of Linguistics Papua New Guinea Branch. (http://www.sil.org/pacific/png/     abstract.asp?id=928474554007)
+Fillmore, Charles J., 1982. Frame semantics. In Linguistic Society of Korea, ed, Linguistics     in the morning calm, 111–137. Seoul: Hanshin Publishing.
+Fillmore, Charles J., 1985. Frames and the semantics of understanding. Quaderni di     Semantica 6:222–254.
 Firth, Raymond, 1936 (2nd edition 1957). We the Tikopia. London: Allen & Unwin.
 Firth, Raymond, 1967. Tikopia ritual and belief. London: George Allen & Unwin Ltd.
-Firth, Raymond, 1985. Tikopia-English dictionary. Auckland: Auckland University
-     Press, Oxford University Press.
-Foley, William A., 1976. Comparative syntax in Austronesian. Ph.D. dissertation,
-    University of California, Berkeley.
-Fortune, Reo, 1932 (reprinted 1963). Sorcerers of Dobu: the social anthropology of the
-     Dobu Islanders of the western Pacific. New York: E. P. Dutton.
-Fortune, Reo, 1934 (reprinted 1969).Manus religion. Lincoln: University of Nebraska
-     Press.
-Fox, Charles E., 1924. The threshold of the Pacific: an account of the social
-     organization, magic and religion of the people of San Cristoval in the Solomon
-     Islands. London: Keegan Paul, Trench, Trubner & Co.
-Fox, Charles E., 1955. A dictionary of the Nggela language (Florida, British Solomon
-     Islands). Auckland: The Unity Press.
-                                                                          References 649
-
-
-Fox, Charles E., 1974. Lau dictionary. Canberra: Pacific Linguistics. (Pacific Linguistics
-     C-25)
-Fox, Charles E., 1978. Arosi dictionary. Canberra: Pacific Linguistics. (Pacific
-     Linguistics C-57)
-François, Alexandre, 2005. Unravelling the history of the vowels of seventeen northern
-    Vanuatu languages. Oceanic Linguistics 44.2:443–504.
+Firth, Raymond, 1985. Tikopia-English dictionary. Auckland: Auckland University     Press, Oxford University Press.
+Foley, William A., 1976. Comparative syntax in Austronesian. Ph.D. dissertation,    University of California, Berkeley.
+Fortune, Reo, 1932 (reprinted 1963). Sorcerers of Dobu: the social anthropology of the     Dobu Islanders of the western Pacific. New York: E. P. Dutton.
+Fortune, Reo, 1934 (reprinted 1969).Manus religion. Lincoln: University of Nebraska     Press.
+Fox, Charles E., 1924. The threshold of the Pacific: an account of the social     organization, magic and religion of the people of San Cristoval in the Solomon     Islands. London: Keegan Paul, Trench, Trubner & Co.
+Fox, Charles E., 1955. A dictionary of the Nggela language (Florida, British Solomon     Islands). Auckland: The Unity Press.
+Fox, Charles E., 1974. Lau dictionary. Canberra: Pacific Linguistics. (Pacific Linguistics     C-25)
+Fox, Charles E., 1978. Arosi dictionary. Canberra: Pacific Linguistics. (Pacific     Linguistics C-57)
+François, Alexandre, 2005. Unravelling the history of the vowels of seventeen northern    Vanuatu languages. Oceanic Linguistics 44.2:443–504.
 François, Alexandre, 2008. Araki lexicon. (http://alex.francois.free.fr/Lex/Araki-Lexicon)
-François, Alexandre, 2009. The languages of Vanikoro: three lexicons and one grammar.
-    In Bethwyn Evans, ed, Discovering history through language: papers in honour of
-    Malcolm Ross, 103–126. Canberra: Pacific Linguistics.
-François, Alexandre, 2011a. Social ecology and language history in the northern Vanuatu
-    linkage: a tale of divergence and convergence. Journal of Historical Linguistics
-    1.2:175–246.
-François, Alexandre, 2011b. Where *R they all? The geography and history of *R-loss in
-    Southern Oceanic languages. Oceanic Linguistics 50.1:140–197.
-François, Alexandre, 2012. Diksoneri bavap to Motlap mi navap ta Franis tiwagmi In̄glis
-    (A Mwotlap French-English Dictionary, 2012 version) Electronic file. (http://
-    www.scribd.com/doc/81525185/
-    A-Mwotlap-French-English-Dictionary-2012-version)
-François, Alexandre, 2013. Shadows of bygone lives: the histories of spiritual words in
-    northern Vanuatu. In Robert Mailhammer, ed., Lexical and structural etymology:
-    Beyond word histories, 185–243. Berlin: De Gruyter Mouton. (Studies in Language
-    Change 11)
-François, Alexandre, 2014. Trees, waves and linkages: Models of language diversification.
-    In Claire Bowern & Bethwyn Evans, eds, The Routledge handbook of historical
-    linguistics, 161–189. London: Routledge.
-French-Wright, Renwick, 1983. Proto Oceanic horticultural practices. MA thesis, University
-    of Auckland.
-Frostad, Benedicte Haraldstad, 2012. A grammar of Ughele: An Oceanic language of
-     Solomon Islands. Utrecht: LOT Netherlands Graduate School of Linguistics. (LOT
-     316)
-Frowein, Friedel Martin, 2011. A grammar of Siar, an Oceanic language of New Ireland
-    Province, Papua New Guinea. PhD dissertation, LaTrobe University.
-Gallagher, Steve & Peirce Baehr, 2005. Bariai grammar sketch. Ukarumpa:Summer
-     Institute of Linguistics. (Data Papers in Papua New Guinea Languages 49)
-Garrett, Andrew, 2006. Convergence in the formation of Indo-European subgroups:
-    Phylogeny and chronology. In Peter Forster & Colin Renfrew, eds, Phylogenetic
-    methods and the prehistory of languages, 139–151. Cambridge: McDonald Institute for
-    Archaeological Research.
-Geerts, P., 1970. ’Are’are dictionary. Canberra: Pacific Linguistics. (Pacific Linguistics
-    C-14)
-650 References
-
-
-Geraghty, Paul, 1983. The history of the Fijian languages. Honolulu: University of
-    Hawaii Press. (Oceanic Linguistics special publication 19)
-Geraghty, Paul, 1986. The sound system of Proto Central Pacific. In P. Geraghty, L.
-    Carrington and S. Wurm, eds, Focal II: Papers from the Fourth International
-    Conference on Austronesian Linguistics, 289–312. Canberra: Pacific Linguistics.
-    (Pacific Linguistics C-94)
-Geraghty, Paul, 1989. The reconstruction of Proto-Southern Oceanic. In Ray Harlow &
-    Robin Hooper, eds, VICAL 1, Oceanic languages: Papers from the Fifth International
-    Conference on Austronesian Linguistics, Auckland, New Zealand, January 1988, 141–
-    156. Auckland: Linguistic Society of New Zealand.
-Geraghty, Paul, 1990. Proto-Eastern Oceanic *R and its reflexes. In Jeremy H. C. S.
-    Davidson, ed., Pacific Island languages: Essays in honour of G. B. Milner, 51-93.
-    London and Honolulu: School of Oriental and African Studies, University of London
-    & University of Hawaii Press.
-Geraghty, Paul, 1996. Problems with Proto Central Pacific. In John Lynch & Fa’afo Pat,
-    eds, Oceanic studies: Proceedings of the First International Conference on Oceanic
-    Linguistics, 83-91. Canberra: Pacific Linguistics. (Pacific Linguistics C-133)
-Geraghty, Paul, 2010. Advances in Central Pacific historical phonology. Paper presented
-    to the Eighth Conference on Oceanic Languages and Linguistics, Auckland.
-Geraghty, Paul & Andrew Pawley, 1981. The relative chronology of some innovations in the
-    Fijian languages. In Jim Hollyman & Andrew Pawley, eds, Studies in Pacific
-    languages and cultures: In honour of Bruce Biggs, 159–178. Auckland: Linguistic
-    Society of New Zealand.
-Gerber, Eleanor, 1985. Rage and obligation: Samoan emotion in conflict. In White &
-    Kirkpatrick, eds, 168–182.
-Glennon, John & Ariana Glennon, 2006. Nehan dictionary. Unpublished computer printout,
-    Summer Institute of Linguistics Papua New Guinea Branch.
-Good, Elaine M. & Weldis Welley, 1989. A preliminary grammar sketch, text and
-    vocabulary of Pingilapese. In Elaine M. Good & Weldis Welley, eds, Papers in
-    Kosraean and Ponapeic, 1–114. Canberra: Pacific Linguistics. (Pacific Linguistics
-    C-112)
-Goodenough, Ward H., 1997. Proto-Kimbe: a new analysis. Oceanic Linguistics 36:247–
-    311.
-Goodenough, Ward H. & Hiroshi Sugita, 1980. Trukese-English dictionary. Philadelphia:
-    American Philosophical Society.
-Goulden, Rick, 1982. A comparative study of Lusi and Bariai, two Austronesian languages
-    of West New Britain. MA dissertation, McMaster University, Hamilton, Ontario.
-Goulden, Rick, 1996. The Maleu and Bariai languages of West New Britain. In M. Ross,
-    ed., Studies in languages of New Britain and New Ireland, 63–144. Canberra: Pacific
-    Linguistics. (Pacific Linguistics C-135)
-Greenhill, Simon, & Ross Clark, 2011. POLLEX-Online: the Polynesian Lexical Project
-    Online. Oceanic Linguistics 50.2:551–559.
-                                                                           References 651
-
-
-Grace, George W., 1969. A Proto-Oceanic finder list. University of Hawaii Working Papers
-    in Linguistics 2:39–84.
-Grace, George W., 1971. Notes on the phonological history of the Austronesian languages of
-    the Sarmi coast. Oceanic Linguistics 10:11–37.
-Grace, George W., 1972. Research notes: A new Proto-Austronesian etymology. Oceanic
-    Linguistics 11.2:165.
-Grace, George, W., 1975. Canala dictionary (New Caledonia). Canberra: Pacific Linguisics.
-    (Pacific Linguistics C-2)
-Grace, George W., 1976. Grand Couli dictionary (New Caledonia). Canberra: Pacific
-    Linguistics. (Pacific Linguistics C-12)
-Grace, George W., 1996. Regularity of change in what?. In Mark Durie & Malcolm Ross,
-    eds, The comparative method reviewed: Regularity and irregularity in language
-    change, 157–179. Oxford: Oxford University Press.
-Grant, R. V., 1953. A school dictionary in the Dobu language. Rabaul, PNG: Methodist
-    Mission Press.
-Green, Roger C., 2003. The Lapita horizon and traditions: Signature for one set of Oceanic
-    migrations. In Christophe Sand, ed., Pacific archaeology: assessments and prospects:
-    Proceedings of the First International Conference for the 50th anniversary of the first
-    Lapita conference (July 1952). Noumea: New Caledonia Museum. (Les Cahiers de
-    l’Archélogie en Nouvelle-Caledonie 15)
-Green, Roger C., M. D. Jones & Peter J. Sheppard, 2008. The reconstructed environment
-    and absolute dating of SE-SZ-8 Lapita site on Nendo, Santa Cruz, Solomon Islands.
-    Archaeology in Oceania 43:49–61.
-Greenhill, S.J., Blust. R & R.D. Gray, 2008. The Austronesian Basic Vocabulary Database:
-    From bioinformatics to lexomics. Evolutionary Bioinformatics 4:271–283. (http://
-    language.psy.auckland.ac.nz/austronesian/) Consulted 31 July 2015.
-Greenhill, S.J. & Clark, Ross, 2011. POLLEX-Online: The Polynesian Lexicon Project
-    Online. Oceanic Linguistics 50:551–559. (http://pollex.org.nz/about/)
-Grimble, Rosemary, 1972. Migrations, myth and magic from the Gilbert Islands: early
-    writings of Sir Arthur Grimble. London & Boston: Routledge & Kegan Paul.
-Groube, L. M., 1993. Contradictions and malaria in Melanesian and Australian prehistory.
-    In M. Spriggs, D. Yen, W. Ambrose, R. Jones, A. Thorne & A. Andrews, eds, A
-    community of culture: the people and prehistory of the Pacific. Canberra: Dept. of
-    Prehistory, Research School of Pacific Studies, Australian National University, 164–
-    186.
-Guderian, Brad & Toni Guderian, 2002. Koluwawa grammar essentials. Unpublished ms.
-    Ukurumpa: Summer Institute of Linguistics.
-Hamel, Patricia J., 1994. A grammar and lexicon of Loniu, Papua New Guinea. Canberra:
-   Pacific Linguistics. (Pacific Linguistics C-103)
-Harkins, Jean & Anna Wierzbicka, 2001. Emotions in cross-linguistic perspective. Berlin &
-    New York: Mouton de Gruyter.
-652 References
-
-
-Harrison, Sheldon P. & Salich Albert, 1977. Mokilese-English dictionary. Honolulu:
-     University of Hawaii Press.
-Haudricourt, André G. & Françoise Ozanne-Rivierre, 1982. Dictionnaire thématique des
-    langues de la region de Hienghène (Nouvelle Caledonie), Pije, Fwâi, Nemi, Jawe:
-    Paris: SELAF.
+François, Alexandre, 2009. The languages of Vanikoro: three lexicons and one grammar.    In Bethwyn Evans, ed, Discovering history through language: papers in honour of    Malcolm Ross, 103–126. Canberra: Pacific Linguistics.
+François, Alexandre, 2011a. Social ecology and language history in the northern Vanuatu    linkage: a tale of divergence and convergence. Journal of Historical Linguistics    1.2:175–246.
+François, Alexandre, 2011b. Where *R they all? The geography and history of *R-loss in    Southern Oceanic languages. Oceanic Linguistics 50.1:140–197.
+François, Alexandre, 2012. Diksoneri bavap to Motlap mi navap ta Franis tiwagmi In̄glis    (A Mwotlap French-English Dictionary, 2012 version) Electronic file. (http://    www.scribd.com/doc/81525185/    A-Mwotlap-French-English-Dictionary-2012-version)
+François, Alexandre, 2013. Shadows of bygone lives: the histories of spiritual words in    northern Vanuatu. In Robert Mailhammer, ed., Lexical and structural etymology:    Beyond word histories, 185–243. Berlin: De Gruyter Mouton. (Studies in Language    Change 11)
+François, Alexandre, 2014. Trees, waves and linkages: Models of language diversification.    In Claire Bowern & Bethwyn Evans, eds, The Routledge handbook of historical    linguistics, 161–189. London: Routledge.
+French-Wright, Renwick, 1983. Proto Oceanic horticultural practices. MA thesis, University    of Auckland.
+Frostad, Benedicte Haraldstad, 2012. A grammar of Ughele: An Oceanic language of     Solomon Islands. Utrecht: LOT Netherlands Graduate School of Linguistics. (LOT     316)
+Frowein, Friedel Martin, 2011. A grammar of Siar, an Oceanic language of New Ireland    Province, Papua New Guinea. PhD dissertation, LaTrobe University.
+Gallagher, Steve & Peirce Baehr, 2005. Bariai grammar sketch. Ukarumpa:Summer     Institute of Linguistics. (Data Papers in Papua New Guinea Languages 49)
+Garrett, Andrew, 2006. Convergence in the formation of Indo-European subgroups:    Phylogeny and chronology. In Peter Forster & Colin Renfrew, eds, Phylogenetic    methods and the prehistory of languages, 139–151. Cambridge: McDonald Institute for    Archaeological Research.
+Geerts, P., 1970. ’Are’are dictionary. Canberra: Pacific Linguistics. (Pacific Linguistics    C-14)
+Geraghty, Paul, 1983. The history of the Fijian languages. Honolulu: University of    Hawaii Press. (Oceanic Linguistics special publication 19)
+Geraghty, Paul, 1986. The sound system of Proto Central Pacific. In P. Geraghty, L.    Carrington and S. Wurm, eds, Focal II: Papers from the Fourth International    Conference on Austronesian Linguistics, 289–312. Canberra: Pacific Linguistics.    (Pacific Linguistics C-94)
+Geraghty, Paul, 1989. The reconstruction of Proto-Southern Oceanic. In Ray Harlow &    Robin Hooper, eds, VICAL 1, Oceanic languages: Papers from the Fifth International    Conference on Austronesian Linguistics, Auckland, New Zealand, January 1988, 141–    156. Auckland: Linguistic Society of New Zealand.
+Geraghty, Paul, 1990. Proto-Eastern Oceanic *R and its reflexes. In Jeremy H. C. S.    Davidson, ed., Pacific Island languages: Essays in honour of G. B. Milner, 51-93.    London and Honolulu: School of Oriental and African Studies, University of London    & University of Hawaii Press.
+Geraghty, Paul, 1996. Problems with Proto Central Pacific. In John Lynch & Fa’afo Pat,    eds, Oceanic studies: Proceedings of the First International Conference on Oceanic    Linguistics, 83-91. Canberra: Pacific Linguistics. (Pacific Linguistics C-133)
+Geraghty, Paul, 2010. Advances in Central Pacific historical phonology. Paper presented    to the Eighth Conference on Oceanic Languages and Linguistics, Auckland.
+Geraghty, Paul & Andrew Pawley, 1981. The relative chronology of some innovations in the    Fijian languages. In Jim Hollyman & Andrew Pawley, eds, Studies in Pacific    languages and cultures: In honour of Bruce Biggs, 159–178. Auckland: Linguistic    Society of New Zealand.
+Gerber, Eleanor, 1985. Rage and obligation: Samoan emotion in conflict. In White &    Kirkpatrick, eds, 168–182.
+Glennon, John & Ariana Glennon, 2006. Nehan dictionary. Unpublished computer printout,    Summer Institute of Linguistics Papua New Guinea Branch.
+Good, Elaine M. & Weldis Welley, 1989. A preliminary grammar sketch, text and    vocabulary of Pingilapese. In Elaine M. Good & Weldis Welley, eds, Papers in    Kosraean and Ponapeic, 1–114. Canberra: Pacific Linguistics. (Pacific Linguistics    C-112)
+Goodenough, Ward H., 1997. Proto-Kimbe: a new analysis. Oceanic Linguistics 36:247–    311.
+Goodenough, Ward H. & Hiroshi Sugita, 1980. Trukese-English dictionary. Philadelphia:    American Philosophical Society.
+Goulden, Rick, 1982. A comparative study of Lusi and Bariai, two Austronesian languages    of West New Britain. MA dissertation, McMaster University, Hamilton, Ontario.
+Goulden, Rick, 1996. The Maleu and Bariai languages of West New Britain. In M. Ross,    ed., Studies in languages of New Britain and New Ireland, 63–144. Canberra: Pacific    Linguistics. (Pacific Linguistics C-135)
+Greenhill, Simon, & Ross Clark, 2011. POLLEX-Online: the Polynesian Lexical Project    Online. Oceanic Linguistics 50.2:551–559.
+Grace, George W., 1969. A Proto-Oceanic finder list. University of Hawaii Working Papers    in Linguistics 2:39–84.
+Grace, George W., 1971. Notes on the phonological history of the Austronesian languages of    the Sarmi coast. Oceanic Linguistics 10:11–37.
+Grace, George W., 1972. Research notes: A new Proto-Austronesian etymology. Oceanic    Linguistics 11.2:165.
+Grace, George, W., 1975. Canala dictionary (New Caledonia). Canberra: Pacific Linguisics.    (Pacific Linguistics C-2)
+Grace, George W., 1976. Grand Couli dictionary (New Caledonia). Canberra: Pacific    Linguistics. (Pacific Linguistics C-12)
+Grace, George W., 1996. Regularity of change in what?. In Mark Durie & Malcolm Ross,    eds, The comparative method reviewed: Regularity and irregularity in language    change, 157–179. Oxford: Oxford University Press.
+Grant, R. V., 1953. A school dictionary in the Dobu language. Rabaul, PNG: Methodist    Mission Press.
+Green, Roger C., 2003. The Lapita horizon and traditions: Signature for one set of Oceanic    migrations. In Christophe Sand, ed., Pacific archaeology: assessments and prospects:    Proceedings of the First International Conference for the 50th anniversary of the first    Lapita conference (July 1952). Noumea: New Caledonia Museum. (Les Cahiers de    l’Archélogie en Nouvelle-Caledonie 15)
+Green, Roger C., M. D. Jones & Peter J. Sheppard, 2008. The reconstructed environment    and absolute dating of SE-SZ-8 Lapita site on Nendo, Santa Cruz, Solomon Islands.    Archaeology in Oceania 43:49–61.
+Greenhill, S.J., Blust. R & R.D. Gray, 2008. The Austronesian Basic Vocabulary Database:    From bioinformatics to lexomics. Evolutionary Bioinformatics 4:271–283. (http://    language.psy.auckland.ac.nz/austronesian/) Consulted 31 July 2015.
+Greenhill, S.J. & Clark, Ross, 2011. POLLEX-Online: The Polynesian Lexicon Project    Online. Oceanic Linguistics 50:551–559. (http://pollex.org.nz/about/)
+Grimble, Rosemary, 1972. Migrations, myth and magic from the Gilbert Islands: early    writings of Sir Arthur Grimble. London & Boston: Routledge & Kegan Paul.
+Groube, L. M., 1993. Contradictions and malaria in Melanesian and Australian prehistory.    In M. Spriggs, D. Yen, W. Ambrose, R. Jones, A. Thorne & A. Andrews, eds, A    community of culture: the people and prehistory of the Pacific. Canberra: Dept. of    Prehistory, Research School of Pacific Studies, Australian National University, 164–    186.
+Guderian, Brad & Toni Guderian, 2002. Koluwawa grammar essentials. Unpublished ms.    Ukurumpa: Summer Institute of Linguistics.
+Hamel, Patricia J., 1994. A grammar and lexicon of Loniu, Papua New Guinea. Canberra:   Pacific Linguistics. (Pacific Linguistics C-103)
+Harkins, Jean & Anna Wierzbicka, 2001. Emotions in cross-linguistic perspective. Berlin &    New York: Mouton de Gruyter.
+Harrison, Sheldon P. & Salich Albert, 1977. Mokilese-English dictionary. Honolulu:     University of Hawaii Press.
+Haudricourt, André G. & Françoise Ozanne-Rivierre, 1982. Dictionnaire thématique des    langues de la region de Hienghène (Nouvelle Caledonie), Pije, Fwâi, Nemi, Jawe:    Paris: SELAF.
 Hill, Deborah, 1992. Longgu grammar. PhD dissertation, Australian National University.
-Hill, Deborah, 2016. Bride-price, baskets, and the semantic domain of ‘carrying’ in a
-      matrilineal society. Oceanic Linguistics 55.2.
-Hockett, C. F., 1976. The reconstruction of Proto Central Pacific. Anthropological
-    Linguistics 18.5:187–235.
+Hill, Deborah, 2016. Bride-price, baskets, and the semantic domain of ‘carrying’ in a      matrilineal society. Oceanic Linguistics 55.2.
+Hockett, C. F., 1976. The reconstruction of Proto Central Pacific. Anthropological    Linguistics 18.5:187–235.
 Hogbin, H. Ian, 1934. Native culture of Wogeo. Oceania 5:308–337.
-Hogbin H. Ian, 1947. Shame: a study of social conformity in a New Guinea village.
-    Oceania 17:273–288.
-Hogbin, H Ian, 1964. A Guadalcanal society: the Kaoka speakers. New York: Holt,
-    Reinhart & Winston.
-Hogbin, H. Ian, 1978. The leaders and the led: social control in Wogeo, New Guinea.
-    Melbourne: Melbourne University Press.
-Hooper, Robin, 1985. Proto Oceanic *qi. In Andrew Pawley & Lois Carrington, eds, 141–
-    167.
-Hopper, Paul J. & Sandra A. Thompson, 1980. Transitivity in grammar and discourse.
-    Language 56.2:251–299.
-Huang, Shuanfan, 2000. Language, emotion and body in Tsou. National Taiwan University
-    Working papers in Linguistics 3:87–109.
-Huang, Shuanfan & Michael Tanangkingsing, 2005. Reference to motion events in six
-    western Austronesian languages: toward a semantic typology. Oceanic Linguistics
-    44:307–340.
-Huckett, Joyce, Ramona Lucht & Adiloʼa Awadoudo, 1992. Iduna–English, English–
-    Iduna dictionary (manuscript). Ukarumpa: Summer Institute of Linguistics. (http://
-    www.sil.org/pacific/png/abstract.asp?id=51802)
-Hviding, Edvard, 1995. Of reef and rainforest: a dictionary of environment and resources
-    in Marovo Lagoon. Bergen: Centre for Development Studies, University of Bergen
-    & Western Province Division of Culture, Gizo, Solomon Islands.
-Hyslop, Catriona, 2001. The Lolovoli dialect of the North-East Ambae language, Vanuatu.
-    Canberra: Pacific Linguistics.
-Ivens, W. G., 1918. Dictionary and grammar of the language of Sa’a and Ulawa, Solomon
-     Islands,with appendices. Washington: Carnegie Institution of Washington. (Carnegie
-     Institution of Washington publication 253)
-Ivens, W. G., 1927 (reissued 1972). Melanesians of the South-east Solomon Islands. New
-     York: Benjamin Blom Inc.
-                                                                           References 653
-
-
-Ivens, W. G., 1929. A dictionary of the language of Sa’a (Mala) and Ulawa, South-east
-     Solomon Islands. London & Melbourne: Oxford University Press & Melbourne
-     University Press.
-Ivens, W. G., 1937. A grammar of the language of Florida, British Solomon Islands. Bulletin
-     of the School of Oriental and African Studies 8:1075–1110.
+Hogbin H. Ian, 1947. Shame: a study of social conformity in a New Guinea village.    Oceania 17:273–288.
+Hogbin, H Ian, 1964. A Guadalcanal society: the Kaoka speakers. New York: Holt,    Reinhart & Winston.
+Hogbin, H. Ian, 1978. The leaders and the led: social control in Wogeo, New Guinea.    Melbourne: Melbourne University Press.
+Hooper, Robin, 1985. Proto Oceanic *qi. In Andrew Pawley & Lois Carrington, eds, 141–    167.
+Hopper, Paul J. & Sandra A. Thompson, 1980. Transitivity in grammar and discourse.    Language 56.2:251–299.
+Huang, Shuanfan, 2000. Language, emotion and body in Tsou. National Taiwan University    Working papers in Linguistics 3:87–109.
+Huang, Shuanfan & Michael Tanangkingsing, 2005. Reference to motion events in six    western Austronesian languages: toward a semantic typology. Oceanic Linguistics    44:307–340.
+Huckett, Joyce, Ramona Lucht & Adiloʼa Awadoudo, 1992. Iduna–English, English–    Iduna dictionary (manuscript). Ukarumpa: Summer Institute of Linguistics. (http://    www.sil.org/pacific/png/abstract.asp?id=51802)
+Hviding, Edvard, 1995. Of reef and rainforest: a dictionary of environment and resources    in Marovo Lagoon. Bergen: Centre for Development Studies, University of Bergen    & Western Province Division of Culture, Gizo, Solomon Islands.
+Hyslop, Catriona, 2001. The Lolovoli dialect of the North-East Ambae language, Vanuatu.    Canberra: Pacific Linguistics.
+Ivens, W. G., 1918. Dictionary and grammar of the language of Sa’a and Ulawa, Solomon     Islands,with appendices. Washington: Carnegie Institution of Washington. (Carnegie     Institution of Washington publication 253)
+Ivens, W. G., 1927 (reissued 1972). Melanesians of the South-east Solomon Islands. New     York: Benjamin Blom Inc.
+Ivens, W. G., 1929. A dictionary of the language of Sa’a (Mala) and Ulawa, South-east     Solomon Islands. London & Melbourne: Oxford University Press & Melbourne     University Press.
+Ivens, W. G., 1937. A grammar of the language of Florida, British Solomon Islands. Bulletin     of the School of Oriental and African Studies 8:1075–1110.
 Ivens, W. G., 1940. A dictionary of the language of Bugotu. London: Royal Asiatic Society.
-Jackson, Frederick H., 1983. The internal and external relationships of the Trukic languges
-     of Micronesia. PhD dissertation, University of Hawaii.
-Jackson, Frederick H., 1986. On determining the external relationships of the Micronesian
-     languages. In Paul Geraghty, Lois Carrington & S. A. Wurm, eds, FOCAL II: Papers
-     from the Fourth International Conference on Austronesian Linguistics, 201-238.
-     Canberra: Pacific Linguistics. (Pacific Linguistics C-94)
-Jackson, Frederick H & Jeffrey C. Marck, 1991. Carolinian-English dictionary. Honolulu:
-     University of Hawaii Press.
-Jauncey, Dorothy, 2011. Dictionary of Tamambo, Malo. (http://paradisec.org.au/vandicts/
-    Tamambolexicon/index-english/main.htm)
-Jennings, A. P., 1956. Wedau-English dictionary. Dogura, PNG: The Diocesan Printing
-     Shop.
-Kaufman, Daniel. 2009. On *pa-, *pa‹R› and *pa‹ŋ›. Paper presented at the Eleventh
-    International Conference on Austronesian Linguistics (11-ICAL), June 22–26, 2009.
-    Aussois, France.
-Keesing, Roger M., 1975. Kwaio dictionary. Canberra: Pacific Linguistics. (Pacific
-    Linguistics C-35)
-Klamer, Marian, 2001. Phrasal emotion predicates in three languages of Eastern Indonesia.
-    In G. E, Booij & J. van Marle, eds, Yearbook of Morphology 2000, 97–122. Dordrecht:
-    Kluwer.
-Kopecka, Anetta & Bhuvana Narasimhan, eds, 2012. Events of putting and taking: a
-    cross-linguistic perspective. Amsterdam: John Benjamins.
-Kuehling, Susanne, 1998. The name of the gift. PhD dissertation, Dept. of Anthropology,
-    RSPAS, Australian National University.
-Lakoff, George & Mark Johnson, 1980. Metaphors we live by. Chicago: University of
-    Chicago Press.
-Lander, Y., T. A. Maisak & E. V. Rakhilina, 2012. Verbs of aquamotion: Semantic domains
-    and lexical systems. In Mila Dimitrova-Vulchanova & Emile van der Zee, eds, Motion
-    encoding in language and space, 67–83. Oxford: Oxford University Press.
-Lanyon-Orgill, Peter A., 1962. A dictionary of the Raluana language. Victoria BC: the
-    author.
-Lawton Ralph, 1993. Topics in the description of Kiriwina. In M. Ross, & J. Ezard, eds.
-    Canberra: Pacific Linguistics.
-Lawton, Ralph, n.d. Oh, my eye! Metaphor within the Kiriwinan verb. Unpublished ms. 40
-    pp.
-654 References
-
-
+Jackson, Frederick H., 1983. The internal and external relationships of the Trukic languges     of Micronesia. PhD dissertation, University of Hawaii.
+Jackson, Frederick H., 1986. On determining the external relationships of the Micronesian     languages. In Paul Geraghty, Lois Carrington & S. A. Wurm, eds, FOCAL II: Papers     from the Fourth International Conference on Austronesian Linguistics, 201-238.     Canberra: Pacific Linguistics. (Pacific Linguistics C-94)
+Jackson, Frederick H & Jeffrey C. Marck, 1991. Carolinian-English dictionary. Honolulu:     University of Hawaii Press.
+Jauncey, Dorothy, 2011. Dictionary of Tamambo, Malo. (http://paradisec.org.au/vandicts/    Tamambolexicon/index-english/main.htm)
+Jennings, A. P., 1956. Wedau-English dictionary. Dogura, PNG: The Diocesan Printing     Shop.
+Kaufman, Daniel. 2009. On *pa-, *pa‹R› and *pa‹ŋ›. Paper presented at the Eleventh    International Conference on Austronesian Linguistics (11-ICAL), June 22–26, 2009.    Aussois, France.
+Keesing, Roger M., 1975. Kwaio dictionary. Canberra: Pacific Linguistics. (Pacific    Linguistics C-35)
+Klamer, Marian, 2001. Phrasal emotion predicates in three languages of Eastern Indonesia.    In G. E, Booij & J. van Marle, eds, Yearbook of Morphology 2000, 97–122. Dordrecht:    Kluwer.
+Kopecka, Anetta & Bhuvana Narasimhan, eds, 2012. Events of putting and taking: a    cross-linguistic perspective. Amsterdam: John Benjamins.
+Kuehling, Susanne, 1998. The name of the gift. PhD dissertation, Dept. of Anthropology,    RSPAS, Australian National University.
+Lakoff, George & Mark Johnson, 1980. Metaphors we live by. Chicago: University of    Chicago Press.
+Lander, Y., T. A. Maisak & E. V. Rakhilina, 2012. Verbs of aquamotion: Semantic domains    and lexical systems. In Mila Dimitrova-Vulchanova & Emile van der Zee, eds, Motion    encoding in language and space, 67–83. Oxford: Oxford University Press.
+Lanyon-Orgill, Peter A., 1962. A dictionary of the Raluana language. Victoria BC: the    author.
+Lawton Ralph, 1993. Topics in the description of Kiriwina. In M. Ross, & J. Ezard, eds.    Canberra: Pacific Linguistics.
+Lawton, Ralph, n.d. Oh, my eye! Metaphor within the Kiriwinan verb. Unpublished ms. 40    pp.
 Lee, Kee-Dong, 1976. Kusaiean-English dictionary. Honolulu: University of Hawaii Press.
-Levin, Beth C., 1993. English verb classes and alternations. Chicago: University of
-    Chicago Press.
-Levinson, Stephen C., 2012. Preface. In Anetta Kopecka & Bhuvana Narasimhan, eds, xi–
-    xv. Amsterdam: John Benjamins.
-Levinson, Stephen C. & Penelope Brown, 2012. Put and take in Yélî Dnye, the Papuan
-    language of Rossel Island. In Anetta Kopecka & Bhuvana Narasimhan, eds, 273–295.
-    Amsterdam; John Benjamins.
-Levy, Richard S., 1979. The phonological history of the Bugotu-Nggelic languages and its
-    implications for Eastern Oceanic. Oceanic Linguistics 18:1–32.
-Levy, Richard S., 1980. Languages of the southeast Solomon islands and the reconstruction
-    of Proto Eastern Oceanic. In Paz Buenaventura Naylor, ed., Austronesian studies:
-    papers from the Second Eastern Conference on Austronesian Languages, 213–222.
-    Ann Arbor: University of Michigan, Center for South and Southeast Asian Studies.
-Levy, Richard S., n. d. Languages of the southeast Solomon Islands and the reconstruction
-    of Proto-Eastern Oceanic. Unpublished ms, University of Kentucky, Lexington.
-Levy, Richard S. & Nathan Smith, 1970. Proto-Eastern Oceanic reconstructions.
-    Unpublished computer printout, Dept. of Anthropology, University of British
-    Columbia.
-Levy, Robert I., 1973. Tahitians: Mind and experience in the Society Islands. Chicago:
-    University of Chicago Press.
-Lewis, M. Paul, Gary F. Simons & Charles D. Fennig, 2015. Ethnologue: Languages of
-    the World. Eighteenth edition. Dallas: SIL International. Online version: http://
-    www.ethnologue.com.
-Lichtenberk, Frantisek, 1983. A grammar of Manam. Honolulu: University of Hawaii Press.
-     (Oceanic Linguistics special publication 15).
-Lichtenberk, Frantisek, 1985. Possessive constructions in Oceanic languages and Proto
-     Oceanic. In Andrew Pawley & Lois Carrington, eds, 93–140.
-Lichtenberk, Frantisek, 1986. Leadership in Proto-Oceanic society: linguistic evidence.
-     Journal of the Polynesian Society 95.3:341–356.
-Lichtenberk, Frantisek, 1988. The Cristobal-Malaitan subgroup of Southeast Solomonic.
-     Oceanic Linguistics 27:24–62.
+Levin, Beth C., 1993. English verb classes and alternations. Chicago: University of    Chicago Press.
+Levinson, Stephen C., 2012. Preface. In Anetta Kopecka & Bhuvana Narasimhan, eds, xi–    xv. Amsterdam: John Benjamins.
+Levinson, Stephen C. & Penelope Brown, 2012. Put and take in Yélî Dnye, the Papuan    language of Rossel Island. In Anetta Kopecka & Bhuvana Narasimhan, eds, 273–295.    Amsterdam; John Benjamins.
+Levy, Richard S., 1979. The phonological history of the Bugotu-Nggelic languages and its    implications for Eastern Oceanic. Oceanic Linguistics 18:1–32.
+Levy, Richard S., 1980. Languages of the southeast Solomon islands and the reconstruction    of Proto Eastern Oceanic. In Paz Buenaventura Naylor, ed., Austronesian studies:    papers from the Second Eastern Conference on Austronesian Languages, 213–222.    Ann Arbor: University of Michigan, Center for South and Southeast Asian Studies.
+Levy, Richard S., n.d. Languages of the southeast Solomon Islands and the reconstruction    of Proto-Eastern Oceanic. Unpublished ms, University of Kentucky, Lexington.
+Levy, Richard S. & Nathan Smith, 1970. Proto-Eastern Oceanic reconstructions.    Unpublished computer printout, Dept. of Anthropology, University of British    Columbia.
+Levy, Robert I., 1973. Tahitians: Mind and experience in the Society Islands. Chicago:    University of Chicago Press.
+Lewis, M. Paul, Gary F. Simons & Charles D. Fennig, 2015. Ethnologue: Languages of    the World. Eighteenth edition. Dallas: SIL International. Online version: http://    www.ethnologue.com.
+Lichtenberk, Frantisek, 1983. A grammar of Manam. Honolulu: University of Hawaii Press.     (Oceanic Linguistics special publication 15).
+Lichtenberk, Frantisek, 1985. Possessive constructions in Oceanic languages and Proto     Oceanic. In Andrew Pawley & Lois Carrington, eds, 93–140.
+Lichtenberk, Frantisek, 1986. Leadership in Proto-Oceanic society: linguistic evidence.     Journal of the Polynesian Society 95.3:341–356.
+Lichtenberk, Frantisek, 1988. The Cristobal-Malaitan subgroup of Southeast Solomonic.     Oceanic Linguistics 27:24–62.
 Lichtenberk, Frantisek, 1994a. Reconstructing heterogeneity. Oceanic Linguistics 33:1–35.
-Lichtenberk, Frantisek, 1994b. The raw and the cooked: Proto-Oceanic terms for food
-     preparation. In Andrew Pawley & Malcolm Ross, eds, Austronesian terminologies:
-     Continuity and change, 267-288. Canberra: Pacific Linguistics. (Pacific Linguistics
-     C-127)
-Lichtenberk, Frantisek, 2000. Reciprocals without reflexives. In Zygmunt Frajzyngier,
-    ed., Reciprocals: forms and functions, 31–62. Amsterdam: John Benjamins.
-Lichtenberk, Frantisek, 2002. Posture verbs in Oceanic. In John Newman, ed., The
-     linguistics of sitting, standing and lying, 269–314. Amsterdam: John Benjamins.
-                                                                           References 655
-
-
-Lichtenberk, Frantisek, 2008. A dictionary of Toqabaqita. Canberra: Pacific Linguistics.
-     (Pacific Linguistics 592)
-Lincoln, Peter C., 1976. Rai Coast Austronesian language survey data, in two parts. Mimeo,
-    University of Hawai’i.
-Lindstrom, Lamont, 1986. Kwamera dictionary. Canberra: Pacific Linguistics. (Pacific
-    Linguistics C-95)
-Lister-Turner, R. & J. B. Clark, 1954. A dictionary of the Motu language of Papua. 2nd
-     ed. Sydney: NSW Government Printer.
-Lithgow, Daphne. 2007. Bunama–English dictionary, English–Bunama dictionary. (http://
-     www.sil.org/pacific/png/abstract.asp?id=49374)
-Lithgow, David, 1998. Muyuw: its relationship with its neighbours and the bilingualism of
-     its speakers. In Darrell Tryon, ed, Papers in Austronesian Linguistics No.5, 1–34.
-Lithgow, David & Oren Claassen, 1968. Languages of the New Ireland District. Port
-     Moresby: Department of Information and Extension Services.
-Lithgow, David & Daphne Lithgow, 1974. Muyuw dictionary. Ukarumpa: Summer Institute
-     of Linguistics.
-Lithgow, David & Daphne Lithgow, 2006. Dobu–English dictionary. Ukarumpa:
-     Summer Institute of Linguistics, Papua New Guinea Branch. (http://www-01.sil.org/
-     pacific/png/pubs/928474531131/Dobu_dict_2006.pdf)
-Ludvigson, Tomas, 1995. Healing in Central Esperitu Santo, Vanuatu. In Clare Parsons, ed,
-    51–64.
-Lutz, Catherine, 1985. Ethnopsychology compared to what? Explaining behavior and
-     consciousness among the Ifaluk. In White & Kirkpatrick, eds, 35–79.
-Lutz, Catherine, 1988. Unnatural emotions. Everyday sentiments on a Micronesian atoll.
-     Chicago & London: University of Chicago Press.
-Lynch, John, 1977. Lenakel dictionary. Canberra: Pacific Linguistics. (Pacific Linguistics
-    C-95)
-Lynch, John, 1978a. Proto-Central Papuan: A reassessment. Unpublished mimeo, University
-    of Papua New Guinea.
-Lynch, John, 1978b. Proto-South Hebridean and Proto-Oceanic. In S. A. Wurm & Lois
-    Carrington, eds, Second International Conference on Austronesian Linguistics:
-    Proceedings, 717-779. Canberra: Pacific Linguistics. (Pacific Linguistics C-61)
-Lynch, John, 1980. Proto-Central Papuan phonology. Port Moresby: University of Papua
-    New Guinea.
-Lynch, John, 1982. South-West Tanna grammar outline and vocabulary. In Papers in
-    Linguistics of Melanesia No 4, 1–92. Canberra: Pacific Linguistics. (Pacific
-    Linguistics A-64)
-Lynch, John, 1983. Ura grammar sketch and vocabulary. In John Lynch, ed., Studies in
-    the languages of Erromango, 148-183. Canberra: Pacific Linguistics. (Pacific
-    Linguistics C-79)
-656 References
-
-
-Lynch, John, 1996. South Vanuatu reconstructions. Unpublished electronic file, University
-    of the South Pacific, Port Vila.
-Lynch, John, 1999. Southern Oceanic linguistic history. In Le Pacifique de 5000 à 2000
-    avant le present: Supplements à l’histoire d’une colonization, 423–449. Paris: Institut
-    de Recherche pour le Développement.
-Lynch, John, 2000a. Linguistic subgrouping in Vanuatu and New Caledonia. In Bill Palmer
-    & Paul Geraghty, eds, 155–184.
+Lichtenberk, Frantisek, 1994b. The raw and the cooked: Proto-Oceanic terms for food     preparation. In Andrew Pawley & Malcolm Ross, eds, Austronesian terminologies:     Continuity and change, 267-288. Canberra: Pacific Linguistics. (Pacific Linguistics     C-127)
+Lichtenberk, Frantisek, 2000. Reciprocals without reflexives. In Zygmunt Frajzyngier,    ed., Reciprocals: forms and functions, 31–62. Amsterdam: John Benjamins.
+Lichtenberk, Frantisek, 2002. Posture verbs in Oceanic. In John Newman, ed., The     linguistics of sitting, standing and lying, 269–314. Amsterdam: John Benjamins.
+Lichtenberk, Frantisek, 2008. A dictionary of Toqabaqita. Canberra: Pacific Linguistics.     (Pacific Linguistics 592)
+Lincoln, Peter C., 1976. Rai Coast Austronesian language survey data, in two parts. Mimeo,    University of Hawai’i.
+Lindstrom, Lamont, 1986. Kwamera dictionary. Canberra: Pacific Linguistics. (Pacific    Linguistics C-95)
+Lister-Turner, R. & J. B. Clark, 1954. A dictionary of the Motu language of Papua. 2nd     ed. Sydney: NSW Government Printer.
+Lithgow, Daphne. 2007. Bunama–English dictionary, English–Bunama dictionary. (http://     www.sil.org/pacific/png/abstract.asp?id=49374)
+Lithgow, David, 1998. Muyuw: its relationship with its neighbours and the bilingualism of     its speakers. In Darrell Tryon, ed, Papers in Austronesian Linguistics No.5, 1–34.
+Lithgow, David & Oren Claassen, 1968. Languages of the New Ireland District. Port     Moresby: Department of Information and Extension Services.
+Lithgow, David & Daphne Lithgow, 1974. Muyuw dictionary. Ukarumpa: Summer Institute     of Linguistics.
+Lithgow, David & Daphne Lithgow, 2006. Dobu–English dictionary. Ukarumpa:     Summer Institute of Linguistics, Papua New Guinea Branch. (http://www-01.sil.org/     pacific/png/pubs/928474531131/Dobu_dict_2006.pdf)
+Ludvigson, Tomas, 1995. Healing in Central Esperitu Santo, Vanuatu. In Clare Parsons, ed,    51–64.
+Lutz, Catherine, 1985. Ethnopsychology compared to what? Explaining behavior and     consciousness among the Ifaluk. In White & Kirkpatrick, eds, 35–79.
+Lutz, Catherine, 1988. Unnatural emotions. Everyday sentiments on a Micronesian atoll.     Chicago & London: University of Chicago Press.
+Lynch, John, 1977. Lenakel dictionary. Canberra: Pacific Linguistics. (Pacific Linguistics    C-95)
+Lynch, John, 1978a. Proto-Central Papuan: A reassessment. Unpublished mimeo, University    of Papua New Guinea.
+Lynch, John, 1978b. Proto-South Hebridean and Proto-Oceanic. In S. A. Wurm & Lois    Carrington, eds, Second International Conference on Austronesian Linguistics:    Proceedings, 717-779. Canberra: Pacific Linguistics. (Pacific Linguistics C-61)
+Lynch, John, 1980. Proto-Central Papuan phonology. Port Moresby: University of Papua    New Guinea.
+Lynch, John, 1982. South-West Tanna grammar outline and vocabulary. In Papers in    Linguistics of Melanesia No 4, 1–92. Canberra: Pacific Linguistics. (Pacific    Linguistics A-64)
+Lynch, John, 1983. Ura grammar sketch and vocabulary. In John Lynch, ed., Studies in    the languages of Erromango, 148-183. Canberra: Pacific Linguistics. (Pacific    Linguistics C-79)
+Lynch, John, 1996. South Vanuatu reconstructions. Unpublished electronic file, University    of the South Pacific, Port Vila.
+Lynch, John, 1999. Southern Oceanic linguistic history. In Le Pacifique de 5000 à 2000    avant le present: Supplements à l’histoire d’une colonization, 423–449. Paris: Institut    de Recherche pour le Développement.
+Lynch, John, 2000a. Linguistic subgrouping in Vanuatu and New Caledonia. In Bill Palmer    & Paul Geraghty, eds, 155–184.
 Lynch, John, 2000b. Reconstructing Proto-Oceanic stress. Oceanic Linguistics 39:53–82.
 Lynch, John, 2000c. South Efate phonological history. Oceanic Linguistics 39:320–338.
-Lynch, John, 2001a. Some shared developments in pronouns in languages of Southern
-    Oceania. Oceanic Linguistics 40:33–66.
-Lynch, John, 2001b. Squib: Too much to swallow: On terms meaning ‘swallow’ in Oceanic
-    languages. Oceanic Linguistics 40:336–341.
-Lynch, John, 2001c. The linguistic history of Southern Vanuatu. Canberra: Pacific
-    Linguistics. (Pacific Linguistics 509)
-Lynch, John, 2002. The Proto-Oceanic labiovelars: some new observations. Oceanic
-    Linguistics 41:310–362.
-Lynch, John, 2004a. Proto Southern Oceanic reconstructions: body parts and substances.
-    Unpublished ms., University of the South Pacific, Port Vila.
-Lynch, John, 2004b. Proto Southern Oceanic reconstructions: categories of people.
-    Unpublished ms., University of the South Pacific, Port Vila.
-Lynch, John, 2004c. The Efate-Erromango problem in Vanuatu subgrouping. Oceanic
-    Linguistics 43:311–338.
-Lynch, John, 2015. The phonological history of Iaai. Language & Linguistics in
-    Melanesia 33:53–77.
-Lynch, John, Malcolm Ross & Terry Crowley, eds, 2002. The Oceanic languages.
-    Richmond, U.K.: Curzon Press.
-Lynch, John & Philip Tepahae, 2001. Anejom̃ dictionary: Diksonari blong Anejom̃ :
-    Nitasviitai a nijitas antas Anejom̃ . Canberra: Pacific Linguistics. (Pacific
-    Linguistics 510)
-Lynch, John & Darrell Tryon, 1983. Central–Eastern Oceanic: A subgrouping hypothesis.
-    paper presented to the Fifteenth Pacific Science Congress, Dunedin, New Zealand.
-Lynch, John & Darrell Tryon, 1985. Central-Eastern Oceanic: A subgrouping hypothesis. In
-    Andrew Pawley & Lois Carrington, eds, 31–52.
-Milke, Wilhelm, 1958. Zur inneren Gliederung und geschtichtlichen Stellung der
-    ozeanisch-Austronesischen Sprachen. Zeitschrift für Ethnologie 83:58–62.
-Macpherson, Cluny & La’avasa Macpherson, 1990. Samoan medical belief and practice.
-   Auckland: Auckland University Press.
-Mager, John F., 1952. Gedaged-English dictionary. Columbus, Ohio: American Lutheran
-   Church, Board of Foreign Missions.
-                                                                           References 657
-
-
-Malau, Catriona, 2011. Dictionary of Vurës. (http://paradisec.org.au/vandicts/
-    Vureslexicon/index-english/main.htm)
-Malinowski, Brontislaw, 1922. Argonauts of the Western Pacific. London: Routledge &
-    Keegan Paul.
-Markham, S. C., 1904. The voyages of Pedro Fernandes de Quiros, 1595–1601. London:
-    John Murray. In two vols.
+Lynch, John, 2001a. Some shared developments in pronouns in languages of Southern    Oceania. Oceanic Linguistics 40:33–66.
+Lynch, John, 2001b. Squib: Too much to swallow: On terms meaning ‘swallow’ in Oceanic    languages. Oceanic Linguistics 40:336–341.
+Lynch, John, 2001c. The linguistic history of Southern Vanuatu. Canberra: Pacific    Linguistics. (Pacific Linguistics 509)
+Lynch, John, 2002. The Proto-Oceanic labiovelars: some new observations. Oceanic    Linguistics 41:310–362.
+Lynch, John, 2004a. Proto Southern Oceanic reconstructions: body parts and substances.    Unpublished ms., University of the South Pacific, Port Vila.
+Lynch, John, 2004b. Proto Southern Oceanic reconstructions: categories of people.    Unpublished ms., University of the South Pacific, Port Vila.
+Lynch, John, 2004c. The Efate-Erromango problem in Vanuatu subgrouping. Oceanic    Linguistics 43:311–338.
+Lynch, John, 2015. The phonological history of Iaai. Language & Linguistics in    Melanesia 33:53–77.
+Lynch, John, Malcolm Ross & Terry Crowley, eds, 2002. The Oceanic languages.    Richmond, U.K.: Curzon Press.
+Lynch, John & Philip Tepahae, 2001. Anejom̃ dictionary: Diksonari blong Anejom̃ :    Nitasviitai a nijitas antas Anejom̃ . Canberra: Pacific Linguistics. (Pacific    Linguistics 510)
+Lynch, John & Darrell Tryon, 1983. Central–Eastern Oceanic: A subgrouping hypothesis.    paper presented to the Fifteenth Pacific Science Congress, Dunedin, New Zealand.
+Lynch, John & Darrell Tryon, 1985. Central-Eastern Oceanic: A subgrouping hypothesis. In    Andrew Pawley & Lois Carrington, eds, 31–52.
+Macpherson, Cluny & La’avasa Macpherson, 1990. Samoan medical belief and practice.   Auckland: Auckland University Press.
+Mager, John F., 1952. Gedaged-English dictionary. Columbus, Ohio: American Lutheran   Church, Board of Foreign Missions.
+Malau, Catriona, 2011. Dictionary of Vurës. (http://paradisec.org.au/vandicts/    Vureslexicon/index-english/main.htm)
+Malinowski, Brontislaw, 1922. Argonauts of the Western Pacific. London: Routledge &    Keegan Paul.
+Markham, S. C., 1904. The voyages of Pedro Fernandes de Quiros, 1595–1601. London:    John Murray. In two vols.
 McClatchey, Will, 2007. Babatana-English dictionary. PDF.
-McElhanon, K. A., 1977. Body image idioms in Irianese and Papua New Guinea languages.
-   Irian 6:3–27.
-McGuckin, Ed & Catherine McGuckin, 1992. Gapapaiwa field notes. Ukarumpa:
-   Summer Institute of Linguistics. (Dictionaries of Papua New Guinea 12)
-McHenry, Marisa, Scot Stober & David Troolin, 1996. Sociolinguistic survey: Mato [NIU]
-   and Ronji [ROE] languages, Morobe and Madang Provinces. Unpublished ms,
-   Summer Institute of Linguistics. Papua New Guinea Branch.
+McElhanon, K. A., 1977. Body image idioms in Irianese and Papua New Guinea languages.   Irian 6:3–27.
+McGuckin, Ed & Catherine McGuckin, 1992. Gapapaiwa field notes. Ukarumpa:   Summer Institute of Linguistics. (Dictionaries of Papua New Guinea 12)
+McHenry, Marisa, Scot Stober & David Troolin, 1996. Sociolinguistic survey: Mato [NIU]   and Ronji [ROE] languages, Morobe and Madang Provinces. Unpublished ms,   Summer Institute of Linguistics. Papua New Guinea Branch.
 McNeill, W. H., 1976. Plagues and peoples. New York: Anchor Press/Doubleday.
-Mikloucho-Maclay, Nikolai, 1975. New Guinea diaries: 1871–1883 (translated by C. L.
-    Sentinella). Madang, PNG: Kristen Press.
-Milke, Wilhelm, 1958. Zur inneren Gliederung und geschtichtlichen Stellung der
-    ozeanisch-Austronesischen Sprachen. Zeitschrift für Ethnologie 83:58-62.
-Milke Wilhelm, 1961. Beiträge zur ozeanischen Linguistik. Zeitschrift für Ethnoloogie 86:
-    162–182.
-Milke, Wilhelm, 1965. Comparative notes on the Austronesian languages of New Guinea.
-    Lingua 14:330–348.
+Mikloucho-Maclay, Nikolai, 1975. New Guinea diaries: 1871–1883 (translated by C. L.    Sentinella). Madang, PNG: Kristen Press.
+Milke, Wilhelm, 1958. Zur inneren Gliederung und geschtichtlichen Stellung der    ozeanisch-Austronesischen Sprachen. Zeitschrift für Ethnologie 83:58-62.
+Milke Wilhelm, 1961. Beiträge zur ozeanischen Linguistik. Zeitschrift für Ethnoloogie 86:    162–182.
+Milke, Wilhelm, 1965. Comparative notes on the Austronesian languages of New Guinea.    Lingua 14:330–348.
 Milke, Wilhelm, 1968. Proto-Oceanic addenda. Oceanic Linguistics 7.2:147–171.
 Milner, G. B., 1966. Samoan dictionary. Oxford: Oxford University Press.
-Moyse-Faurie, Claire, 2015. Existential and locative predication in Oceanic languages.
-   Unpublished paper (and handout from conference Diversity Linguistics: Retrospect
-   and Prospect, MPI-EVA, Leipzig, May 2015.
-Næss, Åshild, 2009. How transitive are EAT and DRINK verbs?. In John Newman, ed.,
-    27–43.
-Næss, Åshild, 2015. Voice at the crossroads: Symmetrical clause alternations in Äiwoo,
-   Reef Islands, Solomon Islands. Oceanic Linguistics 54:270–307.
-Næss, Åshild & Brenda H. Boerger, 2008. Reefs-Santa Cruz as Oceanic: evidence from
-   the verb complex. Oceanic Linguistics 47:186–213.
-Narasimhan, Bhuvana, Anetta Kopecka, Melissa Bowerman, Marianne Gullberg & Asifa
-    Majid, 2012. Putting and taking events: a cross-linguistic perspective. In Anetta
-    Kopecka & Bhuvana Narasimhan, eds, 1–18.
-Nenegemo, Tau & Larry Lee Lovell, 1995. Minaveha field notes. Ukarumpa: Summer
-    Institute of Linguistics. (Dictionaries in Papua New Guinea 14)
-658 References
-
-
-Newman, John, 2002. A cross-linguistic overview of the posture verbs ‘sit’, ‘stand’ and ‘lie’.
-   In John Newman, ed, The linguistics of sitting, standing and lying, 2–24. Amsterdam:
-   John Benjamins.
-Newman, John, 2009. A cross-linguistic overview of ‘eat’ and ‘drink’. In John Newman,
-   ed., The linguistics of eating and drinking, 1–26. Amsterdam: John Benjamins.
-Nothofer, Bernd, 1975. The reconstruction of Proto-Malayo-Javanic. The Hague: Martinus
-    Nijhoff. (Verhandelingen van het Koninklijk Instituut voor Taal-, Land- en
-    Volkenkunde 73)
-Nunn, Patrick, Roselyn Kumar, Sepeti Mataraba, T. Ishimura, J. Seeto, S. Rayawa, S.
-    Kuruyawa, A. Nasila, B. Oloni, A. R. Ram, P. Saunivalu, P. Singh and E. Tegu, 2004.
-    Early Lapita settlement at Bourewa, southwest Fiji. Archaeology in Oceania
-    39:139-143.
+Moyse-Faurie, Claire, 2015. Existential and locative predication in Oceanic languages.   Unpublished paper (and handout from conference Diversity Linguistics: Retrospect   and Prospect, MPI-EVA, Leipzig, May 2015.
+Næss, Åshild, 2009. How transitive are EAT and DRINK verbs?. In John Newman, ed.,    27–43.
+Næss, Åshild, 2015. Voice at the crossroads: Symmetrical clause alternations in Äiwoo,   Reef Islands, Solomon Islands. Oceanic Linguistics 54:270–307.
+Næss, Åshild & Brenda H. Boerger, 2008. Reefs-Santa Cruz as Oceanic: evidence from   the verb complex. Oceanic Linguistics 47:186–213.
+Narasimhan, Bhuvana, Anetta Kopecka, Melissa Bowerman, Marianne Gullberg & Asifa    Majid, 2012. Putting and taking events: a cross-linguistic perspective. In Anetta    Kopecka & Bhuvana Narasimhan, eds, 1–18.
+Nenegemo, Tau & Larry Lee Lovell, 1995. Minaveha field notes. Ukarumpa: Summer    Institute of Linguistics. (Dictionaries in Papua New Guinea 14)
+Newman, John, 2002. A cross-linguistic overview of the posture verbs ‘sit’, ‘stand’ and ‘lie’.   In John Newman, ed, The linguistics of sitting, standing and lying, 2–24. Amsterdam:   John Benjamins.
+Newman, John, 2009. A cross-linguistic overview of ‘eat’ and ‘drink’. In John Newman,   ed., The linguistics of eating and drinking, 1–26. Amsterdam: John Benjamins.
+Nothofer, Bernd, 1975. The reconstruction of Proto-Malayo-Javanic. The Hague: Martinus    Nijhoff. (Verhandelingen van het Koninklijk Instituut voor Taal-, Land- en    Volkenkunde 73)
+Nunn, Patrick, Roselyn Kumar, Sepeti Mataraba, T. Ishimura, J. Seeto, S. Rayawa, S.    Kuruyawa, A. Nasila, B. Oloni, A. R. Ram, P. Saunivalu, P. Singh and E. Tegu, 2004.    Early Lapita settlement at Bourewa, southwest Fiji. Archaeology in Oceania    39:139-143.
 Osmond, Meredith, 2003. Landscape. In Ross, Pawley & Osmond, eds, 35–86.
-Osmond, Meredith & Malcolm Ross, 1998. Household artefacts. In Ross, Pawley &
-   Osmond, eds, 67–114.
-Ozanne-Rivierre, Françoise, 1992. The Proto-Oceanic consonantal system and the
-    languages of New Caledonia. Oceanic Linguistics 31:191–207.
-Ozanne-Rivierre, Françoise, 1995. Structural changes in the languages of Northern New
-    Caledonia. Oceanic Linguistics 34:44–72.
-Ozanne-Rivierre, Françoise, 1998. Le nyelâyu de Balade (Nouvelle Caledonie). Paris:
-    Editions Peeters.
-Ozanne-Rivierre, Françoise, 2004. The evolution of the verb ‘take’ in New Caledonian
-    languages. In Isabelle Brill & Françoise Ozanne-Rivierre, eds, 331–346.
-Palmer, Bill, 2004. Kokota dictionary. Unpublished HTML file, work in progress,
-    University of Surrey. (http://www.surrey.ac.uk/lcts/bill.palmer/NWS_site/Kok/
-    dic.htm)
-Palmer, Bill & Paul Geraghty, eds, 2000. SICOL: Proceedings of the Second
-    International Conference on Oceanic Linguistics, 2: Historical and descriptive
-    studies. Canberra: Pacific Linguistics. (Pacific Linguistics 505)
-Parker, G. J., 1970. Southeast Ambrym dictionary. Canberra: Pacific Linguistics. (Pacific
-    Linguistics C-17)
-Parsons, Clare, ed, 1995. Healing practices in the South Pacific. Honolulu: The Institute
-    of Polynesian Studies.
+Osmond, Meredith & Malcolm Ross, 1998. Household artefacts. In Ross, Pawley &   Osmond, eds, 67–114.
+Ozanne-Rivierre, Françoise, 1992. The Proto-Oceanic consonantal system and the    languages of New Caledonia. Oceanic Linguistics 31:191–207.
+Ozanne-Rivierre, Françoise, 1995. Structural changes in the languages of Northern New    Caledonia. Oceanic Linguistics 34:44–72.
+Ozanne-Rivierre, Françoise, 1998. Le nyelâyu de Balade (Nouvelle Caledonie). Paris:    Editions Peeters.
+Ozanne-Rivierre, Françoise, 2004. The evolution of the verb ‘take’ in New Caledonian    languages. In Isabelle Brill & Françoise Ozanne-Rivierre, eds, 331–346.
+Palmer, Bill, 2004. Kokota dictionary. Unpublished HTML file, work in progress,    University of Surrey. (http://www.surrey.ac.uk/lcts/bill.palmer/NWS_site/Kok/    dic.htm)
+Palmer, Bill & Paul Geraghty, eds, 2000. SICOL: Proceedings of the Second    International Conference on Oceanic Linguistics, 2: Historical and descriptive    studies. Canberra: Pacific Linguistics. (Pacific Linguistics 505)
+Parker, G. J., 1970. Southeast Ambrym dictionary. Canberra: Pacific Linguistics. (Pacific    Linguistics C-17)
+Parsons, Clare, ed, 1995. Healing practices in the South Pacific. Honolulu: The Institute    of Polynesian Studies.
 Paton, W.F., 1973. Ambrym (Lonwolwol) dictionary. Canberra: Pacific Linguistics.
-Pawley, Andrew, 1972. On the internal relationships of eastern Oceanic languages. In Roger
-    C. Green & Marian Kelly, eds, 3: Studies in Oceanic culture history, 1–142. Honolulu:
-    Dept of Anthropology, Bishop Museum.
-Pawley, Andrew, 1973. Some problems in Proto Oceanic grammar. Oceanic Linguistics
-    12:103–188.
-                                                                            References 659
-
-
-Pawley, Andrew, 1975. The relationships of the Austronesian languages of central Papua. In
-    T. E. Dutton, ed., Studies in languages of central and south-east Papua, 3–106.
-    Canberra: Pacific Linguistics. (Pacific Linguistics C-29)
-Pawley, Andrew, 1976. Some new Oceanic lexical comparisons. Mimeo, University of
-    Auckland.
+Pawley, Andrew, 1972. On the internal relationships of eastern Oceanic languages. In Roger    C. Green & Marian Kelly, eds, 3: Studies in Oceanic culture history, 1–142. Honolulu:    Dept of Anthropology, Bishop Museum.
+Pawley, Andrew, 1973. Some problems in Proto Oceanic grammar. Oceanic Linguistics    12:103–188.
+Pawley, Andrew, 1975. The relationships of the Austronesian languages of central Papua. In    T. E. Dutton, ed., Studies in languages of central and south-east Papua, 3–106.    Canberra: Pacific Linguistics. (Pacific Linguistics C-29)
+Pawley, Andrew, 1976. Some new Oceanic lexical comparisons. Mimeo, University of    Auckland.
 Pawley, Andrew, 1977. On redefining ‘Eastern Oceanic’. Unpublished mimeo.
 Pawley, Andrew, 1978. The New Guinea Oceanic hypothesis. Kivung 11:99–151.
-Pawley, Andrew, 1981. Melanesian diversity and Polynesian homogeneity: a unified
-    explanation for language. In Jim Hollyman & Andrew Pawley, eds, Studies in
-    Pacific languages and cultures in honour of Bruce Biggs, 269–309. Auckland:
-    Linguistic Society of New Zealand.
-Pawley, Andrew, 1982a. Rubbishman commoner, big-man chief: Linguistic evidence for
-    hereditary chieftainship in Proto-Oceanic society. In J. Siikala, ed., Oceanic studies,
-    33–52. Helsinki: Finnish Anthropological Society.
-Pawley, Andrew, 1982b. The etymology of Samoan tāupōu. In R. Carle, M. Heinschke, P.
-    W. Pink, C. Rost & K. Stadtlander, eds, GAVA: Studies in Austronesian languages and
-    cultures dedicated to Hans Kähler, 263– 272. Berlin: Dietrich Reimer Verlag.
-Pawley, Andrew, 1985. Proto Oceanic terms for “person”: a problem in semantic
-    reconstruction. In V. Z. Acson & R. L. Leeds, eds, For Gordon Fairbanks. Oceanic
-    Linguistics Special Publication No. 20: 92–104. Honolulu: University of Hawaii
-    Press.
-Pawley, Andrew, 1996a. On the Polynesian subgroup as a problem for Irwin’s continuous
-    settlement hypothesis. In Janet Davidson, Geoffrey Irwin, Foss Leach, Andrew Pawley
-    & Dorothy Brown, eds, Oceanic culture history: Essays in honour of Roger Green,
-    387–410. Dunedin North: New Zealand Journal of Archaeology.
-Pawley, Andrew, 1996b. On the position of Rotuman. In Bernd Nothofer, ed.,
-    Reconstruction, classification, description: Festschrift in honor of Isidore Dyen, 85–
-    119. Hamburg: Abera-Verlag.
-Pawley, Andrew, 1997. Verbs of carrying in Wayan, a Western Fijian language. Handout
-    for a talk at the Third International Conference on Oceanic Linguistics, University
-    of Waikato, Hamilton, New Zealand.
-Pawley, Andrew, 1999. Chasing rainbows: implications of the rapid dispersal of
-    Austronesian languages for subgrouping and reconstruction. In Elizabeth Zeitoun
-    and Paul Jen-kuei Li, eds, 95–138.
-Pawley, Andrew, 2003. Grammatical categories and grammaticisation in the Oceanic
-    verb complex. In A. Riehl & M.T.C. Savella, eds, Papers presented at AFLA IX,
-    Cornell University, 2002, 149–172. Ithaca NY: Cornell University. (Cornell
-    Working Papers in Linguistics 19)
-Pawley, Andrew, 2005. The meaning(s) of Proto Oceanic *panua. In C. Gross, H. D.
-    Lyons & D. A. Counts, eds, A polymath anthropologist: Essays in honour of Ann
-    Chowning, 211–226. Auckland: Dept. of Anthropology, University of Auckland.
-    (Research in Anthropology and Linguistics Monograph Series 6)
-660 References
-
-
-Pawley, Andrew, 2008. Where and when was Proto Oceanic spoken? Linguistic and
-    archaeological evidence. In Yury A. Lander & Alexander K. Ogoblin, eds,
-    Language and text in the Austronesian world: Studies in honour of Ülo Sirk, 47–71.
-    Munich: Lincom Europa. (Studies in Austronesian Linguistics 06)
-Pawley, Andrew, 2009. The role of the Solomon Islands in the first settlement of Remote
-    Oceania: bringing linguistic evidence to an archaeological debate. In Alexander
-    Adelaar & Andrew Pawley, eds, Austronesian historical linguistics and culture history:
-    a festschrift for Robert Blust, 515–540. Canberra: Pacific Linguistics. (Pacific
-    Linguistics 601)
-Pawley, Andrew, 2011. On the position of Bugotu and Gela in the Guadalcanal-Nggelic
-    subgroup of Oceanic. Oceanic Linguistics 50:1–24.
-Pawley, Andrew & Roger C. Green, 1984. The Proto-Oceanic language community. Journal
-    of Pacific History 19:123–146.
-Pawley, Andrew & Malcolm Ross, 1995. The prehistory of Oceanic languages: a current
-    view. In Peter Bellwood, James Fox & Darrell Tryon, eds, The Austronesians:
-    historical and comparative perspectives, 39–74. Canberra: Department of
-    Anthropology, RSPAS,The Australian National University.
-Pawley, Andrew & Timoci Sayaba, 2003. Words of Waya: A dictionary of the Wayan
-    dialect of the Western Fijian language. Unpublished manuscript.
-Pawley, Andrew & Lois Carrington, eds, 1985. Austronesian linguistics at the 15th Pacific
-    Science Congress. Canberra: Pacific Linguistics. (Pacific Linguistics C-88)
-Pawley, Andrew & Malcolm Ross, eds, 1994. Austronesian terminologies: continuity and
-    change. Canberra: Pacific Linguistics. (Pacific Linguistics C-127)
+Pawley, Andrew, 1981. Melanesian diversity and Polynesian homogeneity: a unified    explanation for language. In Jim Hollyman & Andrew Pawley, eds, Studies in    Pacific languages and cultures in honour of Bruce Biggs, 269–309. Auckland:    Linguistic Society of New Zealand.
+Pawley, Andrew, 1982a. Rubbishman commoner, big-man chief: Linguistic evidence for    hereditary chieftainship in Proto-Oceanic society. In J. Siikala, ed., Oceanic studies,    33–52. Helsinki: Finnish Anthropological Society.
+Pawley, Andrew, 1982b. The etymology of Samoan tāupōu. In R. Carle, M. Heinschke, P.    W. Pink, C. Rost & K. Stadtlander, eds, GAVA: Studies in Austronesian languages and    cultures dedicated to Hans Kähler, 263– 272. Berlin: Dietrich Reimer Verlag.
+Pawley, Andrew, 1985. Proto Oceanic terms for “person”: a problem in semantic    reconstruction. In V. Z. Acson & R. L. Leeds, eds, For Gordon Fairbanks. Oceanic    Linguistics Special Publication No. 20: 92–104. Honolulu: University of Hawaii    Press.
+Pawley, Andrew, 1996a. On the Polynesian subgroup as a problem for Irwin’s continuous    settlement hypothesis. In Janet Davidson, Geoffrey Irwin, Foss Leach, Andrew Pawley    & Dorothy Brown, eds, Oceanic culture history: Essays in honour of Roger Green,    387–410. Dunedin North: New Zealand Journal of Archaeology.
+Pawley, Andrew, 1996b. On the position of Rotuman. In Bernd Nothofer, ed.,    Reconstruction, classification, description: Festschrift in honor of Isidore Dyen, 85–    119. Hamburg: Abera-Verlag.
+Pawley, Andrew, 1997. Verbs of carrying in Wayan, a Western Fijian language. Handout    for a talk at the Third International Conference on Oceanic Linguistics, University    of Waikato, Hamilton, New Zealand.
+Pawley, Andrew, 1999. Chasing rainbows: implications of the rapid dispersal of    Austronesian languages for subgrouping and reconstruction. In Elizabeth Zeitoun    and Paul Jen-kuei Li, eds, 95–138.
+Pawley, Andrew, 2003. Grammatical categories and grammaticisation in the Oceanic    verb complex. In A. Riehl & M.T.C. Savella, eds, Papers presented at AFLA IX,    Cornell University, 2002, 149–172. Ithaca NY: Cornell University. (Cornell    Working Papers in Linguistics 19)
+Pawley, Andrew, 2005. The meaning(s) of Proto Oceanic *panua. In C. Gross, H. D.    Lyons & D. A. Counts, eds, A polymath anthropologist: Essays in honour of Ann    Chowning, 211–226. Auckland: Dept. of Anthropology, University of Auckland.    (Research in Anthropology and Linguistics Monograph Series 6)
+Pawley, Andrew, 2008. Where and when was Proto Oceanic spoken? Linguistic and    archaeological evidence. In Yury A. Lander & Alexander K. Ogoblin, eds,    Language and text in the Austronesian world: Studies in honour of Ülo Sirk, 47–71.    Munich: Lincom Europa. (Studies in Austronesian Linguistics 06)
+Pawley, Andrew, 2009. The role of the Solomon Islands in the first settlement of Remote    Oceania: bringing linguistic evidence to an archaeological debate. In Alexander    Adelaar & Andrew Pawley, eds, Austronesian historical linguistics and culture history:    a festschrift for Robert Blust, 515–540. Canberra: Pacific Linguistics. (Pacific    Linguistics 601)
+Pawley, Andrew, 2011. On the position of Bugotu and Gela in the Guadalcanal-Nggelic    subgroup of Oceanic. Oceanic Linguistics 50:1–24.
+Pawley, Andrew & Roger C. Green, 1984. The Proto-Oceanic language community. Journal    of Pacific History 19:123–146.
+Pawley, Andrew & Malcolm Ross, 1995. The prehistory of Oceanic languages: a current    view. In Peter Bellwood, James Fox & Darrell Tryon, eds, The Austronesians:    historical and comparative perspectives, 39–74. Canberra: Department of    Anthropology, RSPAS,The Australian National University.
+Pawley, Andrew & Timoci Sayaba, 2003. Words of Waya: A dictionary of the Wayan    dialect of the Western Fijian language. Unpublished manuscript.
+Pawley, Andrew & Lois Carrington, eds, 1985. Austronesian linguistics at the 15th Pacific    Science Congress. Canberra: Pacific Linguistics. (Pacific Linguistics C-88)
+Pawley, Andrew & Malcolm Ross, eds, 1994. Austronesian terminologies: continuity and    change. Canberra: Pacific Linguistics. (Pacific Linguistics C-127)
 Powdermaker, Hortense, 1933. Life in Lesu. London: Williams & Norgate Ltd.
-Pratt, George, 1862. A Samoan dictionary. Samoa: The London Missionary Society's
-     Press.
-Pukui, Mary Kawena & Samuel Elbert, 1971. Hawaiian dictionary. Honolulu: University
-    of Hawaii Press.
-Rambok, Mose Lung & Bruce Hooley, 2010. Ḳapiya tateḳin Buang Vuheng-atov ayej:
-   Central Buang–English dictionary. Ukarumpa: Summer Institute of Linguistics,
-   Papua New Guinea Branch.
-Rehg, Kenneth L. & Damian G. Sohl, 1979. Ponapean-English dictionary. Honolulu:
-    University of Hawaii Press.
-Reid, Lawrence A., 1982. The demise of Proto-Philippines. In Amran Halim, Lois
-    Carrington & S. A. Wurm, eds, Papers from the Third International Conference on
-    Austronesian Linguistics, 2: 201–216. Canberra: Pacific Linguistics. (Pacific
-    Linguistics C-75)
-Rickard, R. H., 1964. A Kuanua dictionary. Additions by H. Fellman ca 1920, W. L. I
-    Lingood 1939; rev. and ed. by L. H. Wright. Original edition 1888 Rabaul, PNG:
-    Methodist Mission Press.
-Rivierre, Jean-Claude, 1994. Dictionnaire cèmuhî-français. Paris: SELAF/Peeters.
-     (Langues et Cultures du Pacifique 9)
-                                                                          References 661
-
-
+Pratt, George, 1862. A Samoan dictionary. Samoa: The London Missionary Society's     Press.
+Pukui, Mary Kawena & Samuel Elbert, 1971. Hawaiian dictionary. Honolulu: University    of Hawaii Press.
+Rambok, Mose Lung & Bruce Hooley, 2010. Ḳapiya tateḳin Buang Vuheng-atov ayej:   Central Buang–English dictionary. Ukarumpa: Summer Institute of Linguistics,   Papua New Guinea Branch.
+Rehg, Kenneth L. & Damian G. Sohl, 1979. Ponapean-English dictionary. Honolulu:    University of Hawaii Press.
+Reid, Lawrence A., 1982. The demise of Proto-Philippines. In Amran Halim, Lois    Carrington & S. A. Wurm, eds, Papers from the Third International Conference on    Austronesian Linguistics, 2: 201–216. Canberra: Pacific Linguistics. (Pacific    Linguistics C-75)
+Rickard, R. H., 1964. A Kuanua dictionary. Additions by H. Fellman ca 1920, W. L. I    Lingood 1939; rev. and ed. by L. H. Wright. Original edition 1888 Rabaul, PNG:    Methodist Mission Press.
+Rivierre, Jean-Claude, 1994. Dictionnaire cèmuhî-français. Paris: SELAF/Peeters.     (Langues et Cultures du Pacifique 9)
 Romilly, H. H., 1889. From my verandah in New Guinea. London: David Nutt.
-Ross, Malcolm, 1988. Proto Oceanic and the Austronesian languages of western Melanesia.
-    Canberra: Pacific Linguistics. (Pacific Linguistics C-98)
-Ross, Malcolm, 1994. Central Papuan culture history: Some lexical evidence. In Andrew
-    Pawley & Malcolm Ross, eds, Austronesian terminologies: Continuity and change,
-    389–479. Canberra: Pacific Linguistics. (Pacific Linguistics C-127)
-Ross, Malcolm, 1995. Some current issues in Austronesian linguistics. In D. T. Tryon, ed.,
-    Comparative Austronesian Dictionary, 1: Comparative Austronesian Dictionary, 45–
-    120. Berlin: Mouton de Gruyter.
-Ross, Malcolm, 1996a. Is Yapese Oceanic?. In Bernd Nothofer, ed., Reconstruction,
-    classification, description: Festschrift in honor of Isidore Dyen, 121–166. Hamburg:
-    Abera.
-Ross, Malcolm, 1996b. On the genetic affiliations of the Oceanic languages of Irian Jaya.
-    Oceanic Linguistics 35:259–271.
-Ross, Malcolm, 1998a. Phonology and grammar. In Ross, Pawley & Osmond, eds, 15–
-    35.
-Ross, Malcolm, 1998b. Possessive-like attribute constructions in the Oceanic languages of
-    northwest Melanesia. Oceanic Linguistics 38:234–276.
-Ross, Malcolm, 1998c. Proto-Oceanic adjectival categories and their morphosyntax.
-    Oceanic Linguistics 37:85–119.
-Ross, Malcolm, 2000. Proto Oceanic adjectival morphology: The suffix *‑[k]a. In S. R.
-    Fischer & W. B. Sperlich, eds, Leo Pasifika: Proceedings of the Fourth International
-    Conference on Oceanic Linguistics, Niue, 326–342. Auckland: Institute of Polynesian
-    Languages and Literatures.
-Ross, Malcolm, 2001. Proto Oceanic *i, *qi, and *ki. In Joel Bradshaw & Kenneth Rehg,
-    eds, Issues in Austronesian morphology, 259–278. Canberra: Pacific Linguistics.
-    (Pacific Linguistics 519)
-Ross, Malcolm, 2002. Final words: research themes in the history and typology of
-    western Austronesian languages. In Fay Wouk & Malcolm Ross, eds, The history
-    and typology of western Austronesian voice systems, 451–474. Canberra: Pacific
-    Linguistics. (Pacific Linguistics 518)
+Ross, Malcolm, 1988. Proto Oceanic and the Austronesian languages of western Melanesia.    Canberra: Pacific Linguistics. (Pacific Linguistics C-98)
+Ross, Malcolm, 1994. Central Papuan culture history: Some lexical evidence. In Andrew    Pawley & Malcolm Ross, eds, Austronesian terminologies: Continuity and change,    389–479. Canberra: Pacific Linguistics. (Pacific Linguistics C-127)
+Ross, Malcolm, 1995. Some current issues in Austronesian linguistics. In D. T. Tryon, ed.,    Comparative Austronesian Dictionary, 1: Comparative Austronesian Dictionary, 45–    120. Berlin: Mouton de Gruyter.
+Ross, Malcolm, 1996a. Is Yapese Oceanic?. In Bernd Nothofer, ed., Reconstruction,    classification, description: Festschrift in honor of Isidore Dyen, 121–166. Hamburg:    Abera.
+Ross, Malcolm, 1996b. On the genetic affiliations of the Oceanic languages of Irian Jaya.    Oceanic Linguistics 35:259–271.
+Ross, Malcolm, 1998a. Phonology and grammar. In Ross, Pawley & Osmond, eds, 15–    35.
+Ross, Malcolm, 1998b. Possessive-like attribute constructions in the Oceanic languages of    northwest Melanesia. Oceanic Linguistics 38:234–276.
+Ross, Malcolm, 1998c. Proto-Oceanic adjectival categories and their morphosyntax.    Oceanic Linguistics 37:85–119.
+Ross, Malcolm, 2000. Proto Oceanic adjectival morphology: The suffix *‑[k]a. In S. R.    Fischer & W. B. Sperlich, eds, Leo Pasifika: Proceedings of the Fourth International    Conference on Oceanic Linguistics, Niue, 326–342. Auckland: Institute of Polynesian    Languages and Literatures.
+Ross, Malcolm, 2001. Proto Oceanic *i, *qi, and *ki. In Joel Bradshaw & Kenneth Rehg,    eds, Issues in Austronesian morphology, 259–278. Canberra: Pacific Linguistics.    (Pacific Linguistics 519)
+Ross, Malcolm, 2002. Final words: research themes in the history and typology of    western Austronesian languages. In Fay Wouk & Malcolm Ross, eds, The history    and typology of western Austronesian voice systems, 451–474. Canberra: Pacific    Linguistics. (Pacific Linguistics 518)
 Ross, Malcolm, 2003. Talking about space. In Ross, Pawley & Osmond, eds, 220–283.
-Ross, Malcolm, 2004a. The grammaticization of directional verbs in Oceanic languages. In
-    Isabelle Bril & Françoise Ozanne-Rivierre, eds, 297–330.
-Ross, Malcolm, 2004b. The morphosyntactic typology of Oceanic languages. Language
-    and Linguistics 5:491–541.
-Ross, Malcolm, 2008a. A history of metatypy in the Bel languages. Journal of Language
-    Contact: Thema 2:149–164.
-Ross, Malcolm, 2008b. Plants. In M. Ross, A. Pawley & M. Osmond, eds, The lexicon of
-    Proto Oceanic. Vol.3. Plants.
-662 References
-
-
-Ross, Malcolm, 2008c. The integrity of the Austronesian language family: from Taiwan to
-    Oceania. In Alicia Sanchez-Mazas, Roger Blench, Malcolm Ross, Ilia Peiros & Marie
-    Lin, eds, Past human migrations in East Asia: matching archaeology, linguistics and
-    genetics, 161–181. London: RoutledgeCurzon.
-Ross, Malcolm, 2009. Proto Austronesian verbal morphology: a reappraisal. In
-    Alexander Adelaar & Andrew Pawley, eds, Austronesian historical linguistics and
-    culture history: a festschrift for Robert Blust, 295–326. Pacific Linguistics. (Pacific
-    Linguistics 601)
-Ross, Malcolm, 2010. Lexical history in the Northwest Solomonic languages: Evidence
-    for two waves of settlement in Bougainville and the northwestern Solomons. In John
-    Bowden, Nikolaus Himmelmann & Malcolm Ross, eds, A Journey through
-    Austronesian and Papuan Linguistic and Cultural Space: Papers in Honour of
-    Andrew K. Pawley, 245–270. Canberra: Pacific Linguistics. (Pacific Linguistics 615)
+Ross, Malcolm, 2004a. The grammaticization of directional verbs in Oceanic languages. In    Isabelle Bril & Françoise Ozanne-Rivierre, eds, 297–330.
+Ross, Malcolm, 2004b. The morphosyntactic typology of Oceanic languages. Language    and Linguistics 5:491–541.
+Ross, Malcolm, 2008a. A history of metatypy in the Bel languages. Journal of Language    Contact: Thema 2:149–164.
+Ross, Malcolm, 2008b. Plants. In M. Ross, A. Pawley & M. Osmond, eds, The lexicon of    Proto Oceanic. Vol.3. Plants.
+Ross, Malcolm, 2008c. The integrity of the Austronesian language family: from Taiwan to    Oceania. In Alicia Sanchez-Mazas, Roger Blench, Malcolm Ross, Ilia Peiros & Marie    Lin, eds, Past human migrations in East Asia: matching archaeology, linguistics and    genetics, 161–181. London: RoutledgeCurzon.
+Ross, Malcolm, 2009. Proto Austronesian verbal morphology: a reappraisal. In    Alexander Adelaar & Andrew Pawley, eds, Austronesian historical linguistics and    culture history: a festschrift for Robert Blust, 295–326. Pacific Linguistics. (Pacific    Linguistics 601)
+Ross, Malcolm, 2010. Lexical history in the Northwest Solomonic languages: Evidence    for two waves of settlement in Bougainville and the northwestern Solomons. In John    Bowden, Nikolaus Himmelmann & Malcolm Ross, eds, A Journey through    Austronesian and Papuan Linguistic and Cultural Space: Papers in Honour of    Andrew K. Pawley, 245–270. Canberra: Pacific Linguistics. (Pacific Linguistics 615)
 Ross, Malcolm, 2011. Proto-Oceanic *kʷ. Oceanic Linguistics 50:25–49.
-Ross, Malcolm, 2014. Reconstructing the history of languages in northwest New Britain:
-    Inheritance and contact. Journal of Historical Linguistics 4:84–132.
-Ross, Malcolm, 2015. Reconstructing Proto Austronesian verb classes. Language and
-    Linguistics 16:279–345.
-Ross, Malcolm, In press. Linguistic evidence for prehistory: Oceanic examples. Journal
-    of the Southeast Asian Linguistics Society .
-Ross, Malcolm, ed., 1996. Studies in languages of New Britain and New Ireland, 1:
-    Austronesian languages of the North New Guinea cluster in north-western New
-    Britain. Canberra: Pacific Linguistics (Pacific Linguistics C-135)
-Ross, Malcolm & Åshild Næss, 2007. An Oceanic origin for Äiwoo, the language of the
-    Reef Islands?. Oceanic Linguistics 46:456–498.
-Ross, Malcolm, Andrew Pawley & Meredith Osmond, eds, 1998. The lexicon of Proto
-    Oceanic. Vol.1 Material culture. Canberra: Pacific Linguistics.
-Ross, Malcolm, Andrew Pawley & Meredith Osmond, eds, 2003. The lexicon of Proto
-    Oceanic. Vol.2. The physical environment. Canberra: Pacific Linguistics.
-Ross, Malcolm, Andrew Pawley & Meredith Osmond, eds, 2008. The lexicon of Proto
-    Oceanic. Vol.3. Plants. Canberra: Pacific Linguistics.
-Ross, Malcolm, Andrew Pawley & Meredith Osmond, eds, 2011. The lexicon of Proto
-    Oceanic. Vol.4. Animals. Canberra: Pacific Linguistics.
-Ross, Malcolm, Ross Clark & Meredith Osmond, 1998. Acts of impact, force and change
-    of state. In Malcolm Ross, Andrew Pawley & Meredith Osmond, eds, 233–295.
-Sabatier, E., 1971. Gilbertese-English dictionary. Sydney: South Pacific Commission
-    Publications Bureau.
-Sand, Christophe, 2001. Evolutions in the Lapita cultural complex: a view from the
-    Southern Lapita Province. Archaeology in Oceania 36:65–76.
+Ross, Malcolm, 2014. Reconstructing the history of languages in northwest New Britain:    Inheritance and contact. Journal of Historical Linguistics 4:84–132.
+Ross, Malcolm, 2015. Reconstructing Proto Austronesian verb classes. Language and    Linguistics 16:279–345.
+Ross, Malcolm, in press. Linguistic evidence for prehistory: Oceanic examples. Journal    of the Southeast Asian Linguistics Society .
+Ross, Malcolm, ed., 1996. Studies in languages of New Britain and New Ireland, 1:    Austronesian languages of the North New Guinea cluster in north-western New    Britain. Canberra: Pacific Linguistics (Pacific Linguistics C-135)
+Ross, Malcolm & Åshild Næss, 2007. An Oceanic origin for Äiwoo, the language of the    Reef Islands?. Oceanic Linguistics 46:456–498.
+Ross, Malcolm, Andrew Pawley & Meredith Osmond, eds, 1998. The lexicon of Proto    Oceanic. Vol.1 Material culture. Canberra: Pacific Linguistics.
+Ross, Malcolm, Andrew Pawley & Meredith Osmond, eds, 2003. The lexicon of Proto    Oceanic. Vol.2. The physical environment. Canberra: Pacific Linguistics.
+Ross, Malcolm, Andrew Pawley & Meredith Osmond, eds, 2008. The lexicon of Proto    Oceanic. Vol.3. Plants. Canberra: Pacific Linguistics.
+Ross, Malcolm, Andrew Pawley & Meredith Osmond, eds, 2011. The lexicon of Proto    Oceanic. Vol.4. Animals. Canberra: Pacific Linguistics.
+Sabatier, E., 1971. Gilbertese-English dictionary. Sydney: South Pacific Commission    Publications Bureau.
+Sand, Christophe, 2001. Evolutions in the Lapita cultural complex: a view from the    Southern Lapita Province. Archaeology in Oceania 36:65–76.
 Sasa, Manabu, 1976. Human filariasis. Tokyo: University of Tokyo Press.
-                                                                            References 663
-
-
-Schlie, Perry & Virginia Schlie, 1993. A Kara phonology. In John M. Clifton, ed.,
-     Phonologies of Austronesian languages No.2, 99–130. Ukarumpa: Summer Institute of
-     Linguistics. (Data papers on Papua New Guinea Languages 40)
-Schlie, Virginia, 1984. Individuation and topicality as indices of transitivity: degrees of
-     passive in Kara. Paper presented to the Fourth International Conference on
-     Austronesian Linguistics.
-Schneider, Cynthia, 2010. A grammar of Abma: a language of Pentecost Island, Vanuatu.
-    Canberra: Pacific Linguistics . (Pacific Linguistics 608)
-Schneider, Cynthia, 2011. Na passive and na- associative in Abma: Shared properties;
-    shared origin? Oceanic Linguistics 50:380–398.
-Schokkin, Dineke, 2015. Ngolan panu tararap. A working dictionary of the Paluai language
-    of Baluan Island. Unpublished ms.
-Schwartz, Marcia L., Ruth Saovana Spriggs, Ulrike Mosel, Ruth Siimaa Rigamu, Jeremiah
-    Vaabero, and Naphtaly Maion, 2007. The Teop Lexical Database. Unpublished ms,
-    Seminar für Allgemeine und Vergleichende Sprachwissenschaft Christian Albrechts
-    Universität, Kiel. (http://www.linguistik.uni-kiel.de/
-    Teop_Lexical_Database_May07.pdf)
-Senft, Gunter, 1986. Kilivila: the language of the Trobriand Islanders. Berlin: Mouton de
-     Gruyter.
+Schlie, Perry & Virginia Schlie, 1993. A Kara phonology. In John M. Clifton, ed.,     Phonologies of Austronesian languages No.2, 99–130. Ukarumpa: Summer Institute of     Linguistics. (Data papers on Papua New Guinea Languages 40)
+Schlie, Virginia, 1984. Individuation and topicality as indices of transitivity: degrees of     passive in Kara. Paper presented to the Fourth International Conference on     Austronesian Linguistics.
+Schneider, Cynthia, 2010. A grammar of Abma: a language of Pentecost Island, Vanuatu.    Canberra: Pacific Linguistics . (Pacific Linguistics 608)
+Schneider, Cynthia, 2011. Na passive and na- associative in Abma: Shared properties;    shared origin? Oceanic Linguistics 50:380–398.
+Schokkin, Dineke, 2015. Ngolan panu tararap. A working dictionary of the Paluai language    of Baluan Island. Unpublished ms.
+Schwartz, Marcia L., Ruth Saovana Spriggs, Ulrike Mosel, Ruth Siimaa Rigamu, Jeremiah    Vaabero, and Naphtaly Maion, 2007. The Teop Lexical Database. Unpublished ms,    Seminar für Allgemeine und Vergleichende Sprachwissenschaft Christian Albrechts    Universität, Kiel. (http://www.linguistik.uni-kiel.de/    Teop_Lexical_Database_May07.pdf)
+Senft, Gunter, 1986. Kilivila: the language of the Trobriand Islanders. Berlin: Mouton de     Gruyter.
 Senft, Gunter, 1998. Body and mind in the Trobriand Islands. Ethos 26.1:73–104.
-Senft, Gunter, 2000. ‘Come’ and ‘go’ in Kilivila. In Bill Palmer & Paul Geraghty, eds, 105–
-     136.
-Seligman, C. G., 1910. The Melanesians of British New Guinea. Cambridge: The University
-     Press.
-Siegel, Jeff, 1984. Introduction to the Labu language. In Papers in New Guinea linguistics
-     No. 23, 83–159. Canberra: Pacific Linguistics. (Pacific Linguistics A-69)
-Simons, Gary F. & Linda Simons, 1977. A vocabulary of Biliau, an Austronesian
-    language of New Guinea, with notes on its development from Proto-Oceanic. : .
-    (Working Papers for the Language Variation and Limits to Communication Project
-    Cornell University 2) (http://www.sil.org/~simonsg/reprint/Biliau.pdf)
-Slobin Dan I., 2004. The many ways to search for a frog: Linguistic typology and the
-     expression of motion events. In Sven Strömqvist & Ludo Verhoven, eds, Relating
-     events in narrative, 2: Typological and contextual perspectives, 219–257. Mahwah NJ:
-     Lawrence Erlbaum.
-Smits, L. & C. L. Voorhoeve, eds, 1992. The J. C. Anceaux collection of wordlists of Irian
-    Jaya languages. A. Austronesian languages. Jayapura & Leiden: Irian Jaya Study
-    Centre, Indonesia, & Leiden University.
-Sneddon, J. N., 1984. Proto-Sangiric and the Sangiric languages. Canberra: Pacific
-    Linguistics. (Pacific Linguistics B-91)
-Sohn, Ho-min & Anthony F. Tawerilmang, 1976. Woleaian-English dictionary. Honolulu:
-    University of Hawaii Press.
-664 References
-
-
-Specht, Jim, 2007. Small islands in the big picture: the formative period of Lapita in the
-    Bismarck Archipelago. In Stuart Bedford, Christophe Sand & Sean P. Connaughton,
-    eds, Oceanic explorations: Lapita and western Pacific settlement, 51–70. Canberra:
-    ANU ePress. (Terra Australis 26)
-Sperlich, Wolfgang, ed., 1997. Tohi vagahau Niue: Niue language dictionary. Honolulu:
-     University of Hawaii Press.
-Stair, J. B., 1983. Old Samoa: flotsam and jetsam from the Pacific Ocean. Papakura, N.Z.:
-      R. McMillan.
-Sweetser, Eve, 1990. From etymology to pragmatics: metaphorical and cultural aspects of
-    semantic structure. Cambridge: Cambridge University Press.
-Talmy, Leonard, 1972. Semantic structures in English and Atsugewi. PhD dissertation,
-    University of California, Berkeley.
-Talmy, Leonard, 1974. Semantics and syntax of motion. In John Kimball, ed, Syntax and
-    semantics 4, 181–238. New York: Academic Press.
-Talmy, Leonard, 1985. Lexicalization patterns: semantic structure in lexical forms. In
-    Timothy Shopen, ed, Language typology and syntactic description, 3: Grammatical
-    categories and the lexicon, 57–149. Cambridge: Cambridge University Press.
-Talmy, Leonard, 1991. Path to realization: a typology of event conflation. Berkeley
-    Linguistics Society 17:480–519.
-Talmy, Leonard, 2000. Typology and process in concept structuring, 2: Towards a cognitive
-    semantics. Cambridge, MA: MIT Press.
-Talmy, Leonard, 2008. Main verb properties and equipollent framing. In Seyda Ozcaliskan,
-    ed, Crosslinguistic approaches to the psychology of language research in the tradition
-    of Dan Isaac Slobin, 389–402. London: Psychology Press.
-Thepkanjana Kingkarn, 1986. Serial verb constructions in Thai. PhD dissertation,
-    University of Michigan.
+Senft, Gunter, 2000. ‘Come’ and ‘go’ in Kilivila. In Bill Palmer & Paul Geraghty, eds, 105–     136.
+Seligman, C. G., 1910. The Melanesians of British New Guinea. Cambridge: The University     Press.
+Siegel, Jeff, 1984. Introduction to the Labu language. In Papers in New Guinea linguistics     No. 23, 83–159. Canberra: Pacific Linguistics. (Pacific Linguistics A-69)
+Simons, Gary F. & Linda Simons, 1977. A vocabulary of Biliau, an Austronesian    language of New Guinea, with notes on its development from Proto-Oceanic. : .    (Working Papers for the Language Variation and Limits to Communication Project    Cornell University 2) (http://www.sil.org/~simonsg/reprint/Biliau.pdf)
+Slobin Dan I., 2004. The many ways to search for a frog: Linguistic typology and the     expression of motion events. In Sven Strömqvist & Ludo Verhoven, eds, Relating     events in narrative, 2: Typological and contextual perspectives, 219–257. Mahwah NJ:     Lawrence Erlbaum.
+Smits, L. & C. L. Voorhoeve, eds, 1992. The J. C. Anceaux collection of wordlists of Irian    Jaya languages. A. Austronesian languages. Jayapura & Leiden: Irian Jaya Study    Centre, Indonesia, & Leiden University.
+Sneddon, J. N., 1984. Proto-Sangiric and the Sangiric languages. Canberra: Pacific    Linguistics. (Pacific Linguistics B-91)
+Sohn, Ho-min & Anthony F. Tawerilmang, 1976. Woleaian-English dictionary. Honolulu:    University of Hawaii Press.
+Specht, Jim, 2007. Small islands in the big picture: the formative period of Lapita in the    Bismarck Archipelago. In Stuart Bedford, Christophe Sand & Sean P. Connaughton,    eds, Oceanic explorations: Lapita and western Pacific settlement, 51–70. Canberra:    ANU ePress. (Terra Australis 26)
+Sperlich, Wolfgang, ed., 1997. Tohi vagahau Niue: Niue language dictionary. Honolulu:     University of Hawaii Press.
+Stair, J. B., 1983. Old Samoa: flotsam and jetsam from the Pacific Ocean. Papakura, N.Z.:      R. McMillan.
+Sweetser, Eve, 1990. From etymology to pragmatics: metaphorical and cultural aspects of    semantic structure. Cambridge: Cambridge University Press.
+Talmy, Leonard, 1972. Semantic structures in English and Atsugewi. PhD dissertation,    University of California, Berkeley.
+Talmy, Leonard, 1974. Semantics and syntax of motion. In John Kimball, ed, Syntax and    semantics 4, 181–238. New York: Academic Press.
+Talmy, Leonard, 1985. Lexicalization patterns: semantic structure in lexical forms. In    Timothy Shopen, ed, Language typology and syntactic description, 3: Grammatical    categories and the lexicon, 57–149. Cambridge: Cambridge University Press.
+Talmy, Leonard, 1991. Path to realization: a typology of event conflation. Berkeley    Linguistics Society 17:480–519.
+Talmy, Leonard, 2000. Typology and process in concept structuring, 2: Towards a cognitive    semantics. Cambridge, MA: MIT Press.
+Talmy, Leonard, 2008. Main verb properties and equipollent framing. In Seyda Ozcaliskan,    ed, Crosslinguistic approaches to the psychology of language research in the tradition    of Dan Isaac Slobin, 389–402. London: Psychology Press.
+Thepkanjana Kingkarn, 1986. Serial verb constructions in Thai. PhD dissertation,    University of Michigan.
 Thieberger, Nicholas, 2006. South Efate dictionary. Honolulu: University of Hawaii Press.
-Thieberger, Nicholas, 2011. Dictionary of South Efate. (http://paradisec.org.au/SELexicon/
-    index-english/main.htm)
-Thurston, William R., 1996a. Amara: An Austronesian language of northwestern New
-    Britain. In Malcolm Ross, ed., 197–248.
-Thurston, William R., 1996b. The Bibling languages of northwestern New Britain. In
-    Malcolm Ross, ed., 249–392.
-Tryon, Darrell T., 1976. New Hebrides languages: an internal classification. Canberra:
-    Pacific Linguistics. (Pacific Linguistics C-50)
-Tryon, Darrell T. & B. D. Hackman, 1983. Solomon Islands languages: an internal
-    classification. Canberra: Pacific Linguistics. (Pacific Linguistics C-72)
-Tsuchida, S., 1976. Reconstruction of Proto-Tsouic Phonology. Tokyo: Institute for the
-    Study of Language and Culture in Asia and Africa. (Study of languages and cultures of
-    Asia and Africa. Monograph Series 5 )
-                                                                           References 665
-
-
-Valentine, C. A., 1963. Men of anger and men of shame: Lakalai ethnopsychology and its
-    implications for sociopsychological theory. Ethnology 2.
-Viberg, Åke, 1984. The verbs of perception: a typological study. In Brian Butterworth,
-    Bernard Comrie & Östen Dahl, eds, Explanations for language universals, 123–162.
-    Berlin: Mouton de Gruyter.
-Walsh, D.S, 1966. The phonology and phrase structure of Raxa. M.A. thesis, University
-    of Auckland.
-Walsh, D. S. & Bruce Biggs, 1966. Proto-Polynesian word list 1. Auckland: Linguistic
-    Society of New Zealand. (Te Reo Monographs )
-Walter, Richard, 1989. Lapita fishing strategies: A review of the archaeological and
-    linguistic evidence. Pacific Studies 13:127-149.
-Waterhouse, J. H. L., 1949. Roviana and English dictionary. Revised and enlarged by L. M.
-    Jones. Sydney: Epworth.
-Wedgwood, Camilla, H., 1934. Sickness and its treatment in Manus Island, New Guinea.
-   Oceania 5:64–79 and 280–307.
+Thieberger, Nicholas, 2011. Dictionary of South Efate. (http://paradisec.org.au/SELexicon/    index-english/main.htm)
+Thurston, William R., 1996a. Amara: An Austronesian language of northwestern New    Britain. In Malcolm Ross, ed., 197–248.
+Thurston, William R., 1996b. The Bibling languages of northwestern New Britain. In    Malcolm Ross, ed., 249–392.
+Tryon, Darrell T., 1976. New Hebrides languages: an internal classification. Canberra:    Pacific Linguistics. (Pacific Linguistics C-50)
+Tryon, Darrell T. & B. D. Hackman, 1983. Solomon Islands languages: an internal    classification. Canberra: Pacific Linguistics. (Pacific Linguistics C-72)
+Tsuchida, S., 1976. Reconstruction of Proto-Tsouic Phonology. Tokyo: Institute for the    Study of Language and Culture in Asia and Africa. (Study of languages and cultures of    Asia and Africa. Monograph Series 5 )
+Valentine, C. A., 1963. Men of anger and men of shame: Lakalai ethnopsychology and its    implications for sociopsychological theory. Ethnology 2.
+Viberg, Åke, 1984. The verbs of perception: a typological study. In Brian Butterworth,    Bernard Comrie & Östen Dahl, eds, Explanations for language universals, 123–162.    Berlin: Mouton de Gruyter.
+Walsh, D.S, 1966. The phonology and phrase structure of Raxa. M.A. thesis, University    of Auckland.
+Walsh, D. S. & Bruce Biggs, 1966. Proto-Polynesian word list 1. Auckland: Linguistic    Society of New Zealand. (Te Reo Monographs )
+Walter, Richard, 1989. Lapita fishing strategies: A review of the archaeological and    linguistic evidence. Pacific Studies 13:127-149.
+Waterhouse, J. H. L., 1949. Roviana and English dictionary. Revised and enlarged by L. M.    Jones. Sydney: Epworth.
+Wedgwood, Camilla, H., 1934. Sickness and its treatment in Manus Island, New Guinea.   Oceania 5:64–79 and 280–307.
 Whistler, W. Arthur, 1992. Tongan herbal medicine. Honolulu: Isle Botanica.
 Whistler, W. Arthur, 1996. Samoan herbal medicine. Honolulu: Isle Botanica.
-White, Geoffrey M., 1985. Premises and purposes in Solomon Islands ethopsychology. In
-    White & Kirkpatrick, eds, 328–366.
-White, Geoffrey M. and John Kirkpatrick, eds, 1985. Person, self and experience: exploring
-    Pacific ethnopsychologies. Berkeley:University of California Press.
-White, Geoffrey M., Francis Kokhonigita & Hugo Pulomana, 1988. Cheke Holo (Maringe/
-    Higrano) dictionary. Canberra: Pacific Linguistics. (Pacific Linguistics C-97)
-Williams, H. W., 1975. A dictionary of the Maori language. Wellington: A. R. Shearer,
-     Government Printer.
-Wivell, Richard. 1981. Kairiru lexicon. Auckland: University of Auckland. (Working Papers
-    in Anthropology, Archaeology and Linguistics 59)
-Wolff, John U., 1973. Verbal inflection in Proto Austronesian. In Andrew Gonzalez, ed.,
-    Parangal kay Cecilio Lopez, 71–91.Quezon City: Linguistic Society of the Philippines.
-Wozna, Beata & Theresa Wilson, 2005. Seimat grammar essentials. Ukarumpa: Summer
-   Institute of Linguistics. (Data Papers on Papua New Guinea Languages 48)
-Zahn, H., 1917. Revised by J. F. Streicher, 1982. Jabem- (Yabem) English dictionary.
-    Canberra: Pacific Linguistics. (Pacific Linguistics C-68)
-Zeitoun, Elizabeth & Paul Jen-kuei Li, eds, 1999. Selected papers from the Eighth
-     International Conference on Austronesian Linguistics. Taipei: Institute of Linguistics
-     (Preparatory Office), Academia Sinica. (Symposium Series of the Institute of
-     Linguistics (Preparatory Office), Academia Sinica 1)
-Zeitoun, Elizabeth & Lillian M. Huang, 2000. Concerning ka-, an overlooked marker of
-     verbal derivation in Formosan languages. Oceanic Linguistics 39:391–414.
-666 References
-
-
-Zlatev, Jordan & Peerapat Yangklang, 2004. A third way to travel: The place of Thai in
-     motion-event typology. In Sven Strömqvist & Ludo Verhoven, eds, Relating events in
-     narrative, 2: Typological and contextual perspectives, 159–190. Mahwah NJ:
-     Lawrence Erlbaum.
-Zorc, R. David, 1977. The Bisayan dialects of the Philippines: Subgrouping and
-     reconstruction. Canberra: Pacific Linguistics. (Pacific Linguistics C-44)
-Zorc, R. David, 1986. The genetic relationships of Philippine languages. In Paul Geraghty,
-     Lois Carrington & S. A. Wurm, eds, FOCAL II: Papers from the Fourth International
-     Conference on Austronesian Linguistics, 147-173. Canberra: Pacific Linguistics.
-     (Pacific Linguistics C-94)
+White, Geoffrey M., 1985. Premises and purposes in Solomon Islands ethopsychology. In    White & Kirkpatrick, eds, 328–366.
+White, Geoffrey M. and John Kirkpatrick, eds, 1985. Person, self and experience: exploring    Pacific ethnopsychologies. Berkeley:University of California Press.
+White, Geoffrey M., Francis Kokhonigita & Hugo Pulomana, 1988. Cheke Holo (Maringe/    Higrano) dictionary. Canberra: Pacific Linguistics. (Pacific Linguistics C-97)
+Williams, H. W., 1975. A dictionary of the Maori language. Wellington: A. R. Shearer,     Government Printer.
+Wivell, Richard. 1981. Kairiru lexicon. Auckland: University of Auckland. (Working Papers    in Anthropology, Archaeology and Linguistics 59)
+Wolff, John U., 1973. Verbal inflection in Proto Austronesian. In Andrew Gonzalez, ed.,    Parangal kay Cecilio Lopez, 71–91.Quezon City: Linguistic Society of the Philippines.
+Wozna, Beata & Theresa Wilson, 2005. Seimat grammar essentials. Ukarumpa: Summer   Institute of Linguistics. (Data Papers on Papua New Guinea Languages 48)
+Zahn, H., 1917. Revised by J. F. Streicher, 1982. Jabem- (Yabem) English dictionary.    Canberra: Pacific Linguistics. (Pacific Linguistics C-68)
+Zeitoun, Elizabeth & Paul Jen-kuei Li, eds, 1999. Selected papers from the Eighth     International Conference on Austronesian Linguistics. Taipei: Institute of Linguistics     (Preparatory Office), Academia Sinica. (Symposium Series of the Institute of     Linguistics (Preparatory Office), Academia Sinica 1)
+Zeitoun, Elizabeth & Lillian M. Huang, 2000. Concerning ka-, an overlooked marker of     verbal derivation in Formosan languages. Oceanic Linguistics 39:391–414.
+Zlatev, Jordan & Peerapat Yangklang, 2004. A third way to travel: The place of Thai in     motion-event typology. In Sven Strömqvist & Ludo Verhoven, eds, Relating events in     narrative, 2: Typological and contextual perspectives, 159–190. Mahwah NJ:     Lawrence Erlbaum.
+Zorc, R. David, 1977. The Bisayan dialects of the Philippines: Subgrouping and     reconstruction. Canberra: Pacific Linguistics. (Pacific Linguistics C-44)
+Zorc, R. David, 1986. The genetic relationships of Philippine languages. In Paul Geraghty,     Lois Carrington & S. A. Wurm, eds, FOCAL II: Papers from the Fourth International     Conference on Austronesian Linguistics, 147-173. Canberra: Pacific Linguistics.     (Pacific Linguistics C-94)
 Zorc, R. David, 2007. Proto Austronesian reconstructions. Electronic database file.

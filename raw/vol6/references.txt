@@ -1,11 +1,3 @@
-            References
-
-
-
-Note: Pacific Linguistics publications with numbers below 600 or numbers preceded by
-A, B, C or D are accessible at https://openresearch-repository.anu.edu.au/handle/
-1885/132248.
-
 Abo, Takaji, Byron Bender, Alfred Capelle & Tony DeBrum, 1976. Marshallese-English
     dictionary. Honolulu: University of Hawaii Press. https://doi.org/
     10.1515/9780824887032
@@ -34,11 +26,6 @@ Allen, Michael, 1964a. Kinship terminology and marriage in Vanua Lava and east A
     The Journal of the Polynesian Society 73:315–323.
 ——, 1964b. The Nduindui: a study in the social structure of a New Hebridean
     community. PhD thesis, The Australian National University.
-
-                                          631
-632 References
-
-
 ——, 1984. Elders, chiefs and big men: Authority legitimation and political evolution in
     Melanesia. American Ethnologist 11:20-41. https://doi.org/10.1525/
     ae.1984.11.1.02a00020
@@ -82,9 +69,6 @@ Bamler, Georg, 1900. Bemerkungen zur Grammatik der Tami-Sprache. Zeitschrift fü
     afrikanische und ozeanische Sprachen 5:198-253.
 Barbour, Julie, 2012. A grammar of Neverver. Berlin: De Gruyter Mouton. https://
     doi.org/10.1515/9783110289619
-                                                                        References 633
-
-
 Barth, Danielle G., 2012. Matukar numerals contributed to Chan, ongoing.
 Battaglia, Debbora, 1991. On the bones of the serpent: person, memory and mortality in
     Sabari Island society. Chicago: University of Chicago Press.
@@ -126,9 +110,6 @@ Bender, Andrea & Sieghard Beller, 2006a. “Fanciful” or genuine? Bases and hi
 ——, 2006b. Numeral classifiers and counting systems in Polynesian and Micronesian
     Languages: common roots and cultural adaptations. Oceanic Linguistics 45:380–403.
     https://doi.org/10.1353/ol.2007.0000
-634 References
-
-
 ——, 2007a. Numeral classifiers in specific counting systems: Cultural context, linguistic
     principles, and cognitive implications. In Proceedings of the Annual Meeting of the
     Cognitive Science Society, 821–826. Merced: University of California, Merced.
@@ -170,9 +151,6 @@ Best, Elsdon, 1925. Games and pastimes of the Maori. Auckland: Whitcombe and
     Linguistics, University of Auckland. (University of Auckland Working Papers in
     Anthropology )
 Blackwood, Beatrice, 1935. Both sides of Buka Passage. Oxford: Clarendon Press.
-                                                                        References 635
-
-
 Blevins, Juliette, 2008. Some comparative notes on Proto-Oceanic *mana: inside and
     outside the Austronesian family. Oceanic Linguistics 47:253–274. https://doi.org/
     10.1353/ol.0.0022
@@ -215,9 +193,6 @@ Blust, Robert A., 1970. Proto-Austronesian addenda. Oceanic Linguistics 9:104-16
 ——, 1984. A Mussau vocabulary with phonological notes. In M. Ross, J. Siegel, R.
     Blust M. Colburn & W. Seiler, eds, Papers in New Guinea Linguistics No.23, 159–
     208. Canberra: Pacific Linguistics.
-636 References
-
-
 ——, 1986-87. Language and culture history: two case studies. Asian Perspectives
   27:205-227.
 ——, 1986. Austronesian etymologies III. Oceanic Linguistics 25.1:1-123. https://
@@ -261,9 +236,6 @@ Blust, Robert A., 1970. Proto-Austronesian addenda. Oceanic Linguistics 9:104-16
   Grimes. Oceanic Linguistics 48:36-77. https://doi.org/10.1353/ol.0.0034
 ——, 2013. The Austronesian languages. Revised edition. Canberra: Asia-Pacific
   Linguistics. (Asia-Pacific Linguistics 008)
-                                                                          References 637
-
-
 ——, 2021. Eight languages of the Admiralty Islands, Papua New Guinea. Port Moresby:
     Language & Linguistics in Melanesia. (LLM special issue 2021)
 ——, 2022. Rare, but real: Native nasal clusters in Northern Philippine languages.
@@ -307,9 +279,6 @@ Bradshaw, Joel, 1978. The development of an extra series of obstruents in Numbam
     Oceanic Linguistics 17:39-76. https://doi.org/10.2307/3622827
 —— 2001. Iwal grammar essentials, with comparative notes. In Andrew Pawley,
     Malcolm Ross & Darrell Tryon, eds, The boy from Bundaberg: Studies in
-638 References
-
-
      Melanesian linguistics in honour of Tom Dutton, 51-74. Canberra: Pacific
      Linguistics. (Pacific Linguistics 514)
 —— & Francisc Czobor, 2005. Otto Dempwolff's Grammar of the Jabêm language in
@@ -352,9 +321,6 @@ Burrows, Edwin G., 1933. Native music of the Tuamotus. Honolulu: Bernice P. Bish
      Museum. (Bernice P. Bishop Museum Bulletin 109)
 ——, 1936. Ethnology of Futuna. Honolulu: Bernice P. Bishop Museum. (Bernice P.
      Bishop Museum Bulletin 138)
-                                                                         References 639
-
-
 ——, 1938. Western Polynesia: a study in cultural differentiation. Göteborg: Göteborgs
     etnografiska museum. (Ethnologiska Studier 7)
 ——, 1939. Breed and border in Polynesia. American Anthropologist 41:1-21. https://
@@ -397,9 +363,6 @@ Carrier, James G. & Achsah Carrier, 1989. Wage, trade and exchange in Melanesia:
     Manus society in the modern state. Berkeley: University of California Press.
 Carroll, Vern, 1965. An outline of the structure of the language of Nukuoro. Journal of
     the Polynesian Society 74:192 - 226, 451 - 472.
-640 References
-
-
 —— & Tobias Soulik, 1973. Nukuoro lexicon. Honolulu: University Press of Hawaii.
     https://doi.org/10.1515/9780824887254
 Cashmore, Christine, 1969. Some Proto-Eastern Oceanic reconstructions with reflexes in
@@ -442,9 +405,6 @@ Chowning, Ann, 1958. A dictionary of Molima. Unpublished manuscript.
     10.1080/00664677.1965.9967207
 —— , 1973. An introduction to the peoples and cultures of Melanesia. Menlo Park, CA:
     Cummings.
-                                                                         References 641
-
-
 —— , 1977. An Introduction to the peoples and cultures of Melanesia. 2nd edn. Menlo
     Park, CA: Cummings.
 —— , 1979. Leadership in Melanesia. Journal of Pacific History 14:66-84. https://
@@ -487,9 +447,6 @@ Clark, Jeffrey R., 1995. Shit beautiful: Tambu and Kina revisited. Oceania 65:19
     Lapita: Distribution, chronology, society and subsistence, 37–59. Canberra:
     Australian National University Press. (Terra Australis 52) https://doi.org/10.22459/
     TA52.2019.02
-642 References
-
-
 Clark, Ross, 1975. Comment on Polynesian sibling terms. American Anthropologist
     77:85-88. https://doi.org/10.1525/aa.1975.77.1.02a00150
 ——, 1976. Aspects of Proto-Polynesian syntax. Auckland: Linguistic Society of New

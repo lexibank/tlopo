@@ -8360,7 +8360,7 @@ POc *tapuRiq (1) ‘generic for conch shells, esp. triton’s trumpet, Charonia 
   SES: Arosi        ahuri           ‘conch shell, triton; trumpet of this, blown only on solemn occasions, e.g. at a death’
   SES: Arosi        |ahuri (poru)|  ‘k.o. Cassis shell’
   SES: Sa’a         ehuri           ‘conch shell, blown as a summons’
-  TM:  Buma         teveliko        ‘triton shell’ (François In press)
+  TM:  Buma         teveliko        ‘triton shell’ (François 2011b)
   NCV: Mota         tawe            ‘conch shell’
   NCV: Mwotlap      na-tʊ           ‘conch shell’
   NCV: Lonwolwol    taviu           ‘conch shell (and sound)’
@@ -11166,7 +11166,7 @@ cf. also:
 >
 
 [7] Clark (2009) reconstructs PNCV *gu(R)io, but two Torres languages, Hiw and Lo-Toga. support inclusion of
- *-/(‘-(François In press).
+ _*-R-_ (François 2011b).
 
 [8] PMic *kua is likely to be a continuation of POc *kuRiap. *R is usually lost in Micronesian languages. Loss
  of *R would have yielded *kuia, and the reduction to *kuya and then *kua would follow a natural path.

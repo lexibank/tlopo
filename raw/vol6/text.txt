@@ -4531,11 +4531,11 @@ cf. also:
 
                                                                                 Kinship terms 101
 
-The Loniu and Bipi forms above, with initial ñ-, are anomalous (see Blust 1978b:48–51).
+The Loniu and Bipi forms above, with initial _ñ-_, are anomalous (see Blust 1978b:48–51).
 
-    There are two variant forms of POc *natu-, both probably present in POc. The first is
-*qatu, the other *tu. The latter is readily understood as an abbreviation of *natú-, with stress
-falling on penultimate -u- when a possessor affix is added. Its Oceanic reflexes are restricted
+    There are two variant forms of POc _*natu-_, both probably present in POc. The first is
+_*qatu_, the other _*tu_. The latter is readily understood as an abbreviation of _*natú-_, with stress
+falling on penultimate _-u-_ when a possessor affix is added. Its Oceanic reflexes are restricted
 to WOc.
 
 <
@@ -4560,16 +4560,15 @@ POc *tu- ‘child: offspring of ego or of s.s. sibling’
   MM: Marovo                tu-                 ‘child’, BC, BDC, ♀ZS, {PsG}C, WZ, EoGC
 >
 
-   The generic PPn term for ‘child’ was *tama. Its reflexes in languages outside EPn indicate
+   The generic PPn term for ‘child’ was _*tama_. Its reflexes in languages outside EPn indicate
 that more specifically it denoted ‘♀child’, and especially ‘♀son’. This implies a dedicated
-term for ‘♂son’ or ‘♂child’, and this space was evidently filled by PPn *fosa ‘♂son’ (Marck
-1996).
+term for ‘♂son’ or ‘♂child’, and this space was evidently filled by PPn _*fosa_ ‘♂son’ (Marck 1996).
 
-   PPn *tama is identical in form to the root of PPn *tama-/*tamana ‘father’ (§2.4.1.2.1).
+   PPn _*tama_ is identical in form to the root of PPn _*tama-_/_*tamana_ ‘father’ (§2.4.1.2.1).
 Since reciprocal uses of terms are frequent in Oceanic—‘grandparent’/‘grandchild’,
 ‘mother’s brother’/‘sister’s child’—it is reasonable to suppose that in some immediate
 ancestor of PPn the reflex of POc *tama came to be used reciprocally, and a distinction arose
-between suffixed *tama-/*tamana ‘father’ and unsuffixed *tama ‘child’.
+between suffixed _*tama-_/_*tamana_ ‘father’ and unsuffixed *tama ‘child’.
 
 <
 PPn *tama ‘woman or couple’s child or classificatory child, esp. son’ (Marck 1996)
