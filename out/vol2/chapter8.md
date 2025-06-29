@@ -13,18 +13,80 @@ Following [Levinson](../sources/Levinson1996) ([1996](../sources/Levinson1996)) 
 
 <a id="p-230"></a>
 
-<ol><li>A system of geographic directions based on a division of the environment that normally has a vertical (‘up’/‘down’) axis and a horizontal axis. On the horizontal axis European languages have the cardinal directions ‘north’, ‘south’, ‘east’ and ‘west’. In Oceanic languages there are usually two sets of geographic directions, one used on or near land, the other used at sea (cf. [Hill 1997](../sources/Hill1997), [François 2003](../sources/Francois2003), [2004a](../sources/Francois2004a)). Typically each has two subsystems. <ol><li>The land-based subsystems are (cf. [Ozanne-Rivierre 1997](../sources/OzanneRivierre1997)): <ol><li>one with an inland/seaward axis, sometimes with a transverse axis pointing left and right along the coast (each axis is typically denoted by a local noun in a local construction; p.232);</li> <li>one based on a river valley with an up/down axis (often using the vertical terms) and a transverse axis with one directionally neutral (‘across the valley’) term (each axis is typically expressed by a directional verb or other directional morpheme).</li></ol> <li>The sea-based subsystems both refer to a northwest–southeast axis, <ol><li>one using the terms for the northwest storm wind and the southeast trade wind (POc &ast;apaRat and &ast;raki respectively; [Ch. 5, §4.2](../contributions/2-5#s-4-2));</li> <li>the other applying the river valley subsystem with its up/down axis (and perhaps its transverse axis) metaphorically to the sea, such that ‘down’ is towards the northwest and ‘up’ towards the southeast ([François 2003](../sources/Francois2003), [2004a](../sources/Francois2004a)).</li></ol></ol> If we wanted to be particular, incidentally, we could label a number of geographic expressions ‘deictic-geographic’. To say that something is seawards, for example, is to place it in relation to the speaker. If the speaker were closer to the sea, the same referent might be ‘inland’.</li> <li>An intrinsic system specifies the location of an object in relation to a reference object. European languages often use prepositions for this purpose (in, on, under, over, beside). A few Oceanic languages also use adpositions, but in the majority a local construction is used. This is often an adpositional phrase containing a relational local noun, i.e. a noun that refers to a part of the reference object or to a location in relation to the reference object (‘inside’, ‘upper surface’, ‘top’, ‘underside’, ‘side’).</li> <li>Relative locations entail both the position of a reference person, often the speaker, and the position of a reference object. Relative locations look like intrinsic locations, but the latter do not entail a reference person ([Leech 1969](../sources/Leech1969):167–168). For example, ‘in front of the house’ is an intrinsic location because a house has a ‘front’. For an Oceanic speaker, this is the side with the ladder, balcony and door. But ‘in front of the tree’ is a relative location because a tree has no intrinsic front. When an English speaker uses this expression, s/he treats the tree as if it were facing her/him, and so the part of the tree that ‘faces’ the speaker is treated as its front. Thus the ‘front’ changes with a change in the speaker’s position. Similarly, ‘turn left’ entails a reference person—the addressee— and a reference object. The reference object is the addressee’s body, and the direction of ‘left’ varies according to the addressee’s location and which way s/he is facing. Relative locations are not used in Oceanic languages, however. Oceanic speakers use terms like ‘front’ and ‘left’ intrinsically. One does not talk about the ‘front’ of a tree, and ‘left’ is strictly an intrinsic part of the speaker’s body, not a direction ([Ozanne-Rivierre 1997](../sources/OzanneRivierre1997)). Instead, one uses the geographic system: ‘seawards of the tree’, ‘go left-along-the-coast’ (cf. [Hill 1997](../sources/Hill1997)).</li> <li>A deictic system is based on location relative to the speaker or to some other person and often also relative to the addressee. Deictic expressions are tied to the context of the individual speech act; they do not refer to fixed points in space. All languages probably have demonstratives of some kind (‘this’/‘that’, ‘here’/‘there’, ‘voici’/‘voilà’ etc). Many Oceanic languages in addition have deictic directional morphemes in their verb phrases (or sometimes in locative phrases) which indicate whether direction associated with the event is towards the speaker and/or, in some languages, towards the addressee.[^1]</li></ol>
+ 1. A system of __geographic__ directions based on a division of the environment that
+    normally has a vertical (‘up’/‘down’) axis and a horizontal axis. On the horizontal axis
+    European languages have the cardinal directions ‘north’, ‘south’, ‘east’ and ‘west’. In
+    Oceanic languages there are usually two sets of geographic directions, one used on or
+    near land, the other used at sea (cf. [Hill 1997](../sources/Hill1997), [François 2003](../sources/Francois2003), [2004a](../sources/Francois2004a)). Typically each
+    has two subsystems.
+    (a) The land-based subsystems are (cf. [Ozanne-Rivierre 1997](../sources/OzanneRivierre1997)):
+        (i)  one with an inland/seaward axis, sometimes with a transverse axis
+             pointing left and right along the coast (each axis is typically denoted by a
+             local noun in a local construction; p.232);
+        (ii) one based on a river valley with an up/down axis (often using the vertical
+             terms) and a transverse axis with one directionally neutral (‘across the
+             valley’) term (each axis is typically expressed by a directional verb or
+             other directional morpheme).
+    (b) The sea-based subsystems both refer to a northwest–southeast axis,
+        (i)  one using the terms for the northwest storm wind and the southeast trade
+             wind (POc &ast;apaRat and &ast;raki respectively; [Ch. 5, §4.2](../contributions/2-5#s-4-2));
+        (ii) the other applying the river valley subsystem with its up/down axis (and
+             perhaps its transverse axis) metaphorically to the sea, such that ‘down’ is
+             towards the northwest and ‘up’ towards the southeast ([François 2003](../sources/Francois2003), [2004a](../sources/Francois2004a)).
+    If we wanted to be particular, incidentally, we could label a number of geographic
+    expressions ‘deictic-geographic’. To say that something is seawards, for example, is to
+    place it in relation to the speaker. If the speaker were closer to the sea, the same
+    referent might be ‘inland’.
+ 2. An __intrinsic__ system specifies the location of an object in relation to a reference object.
+    European languages often use prepositions for this purpose (in, on, under, over,
+    beside). A few Oceanic languages also use adpositions, but in the majority a local
+    construction is used. This is often an adpositional phrase containing a relational local
+    noun, i.e. a noun that refers to a part of the reference object or to a location in relation
+    to the reference object (‘inside’, ‘upper surface’, ‘top’, ‘underside’, ‘side’).
+ 3. __Relative__ locations entail both the position of a reference person, often the speaker, and
+    the position of a reference object. Relative locations look like intrinsic locations, but
+    the latter do not entail a reference person ([Leech 1969](../sources/Leech1969):167–168). For example, ‘in
+    front of the house’ is an intrinsic location because a house has a ‘front’. For an
+    Oceanic speaker, this is the side with the ladder, balcony and door. But ‘in front of the
+    tree’ is a relative location because a tree has no intrinsic front. When an English
+    speaker uses this expression, s/he treats the tree as if it were facing her/him, and so the
+    part of the tree that ‘faces’ the speaker is treated as its front. Thus the ‘front’ changes
+    with a change in the speaker’s position. Similarly, ‘turn left’ entails a reference
+    person—the addressee— and a reference object. The reference object is the
+    addressee’s body, and the direction of ‘left’ varies according to the addressee’s
+    location and which way s/he is facing. Relative locations are not used in Oceanic
+    languages, however. Oceanic speakers use terms like ‘front’ and ‘left’ intrinsically.
+    One does not talk about the ‘front’ of a tree, and ‘left’ is strictly an intrinsic part of the
+    speaker’s body, not a direction ([Ozanne-Rivierre 1997](../sources/OzanneRivierre1997)). Instead, one uses the
+    geographic system: ‘seawards of the tree’, ‘go left-along-the-coast’ (cf. [Hill 1997](../sources/Hill1997)).
+ 4. A __deictic__ system is based on location relative to the speaker or to some other person
+    and often also relative to the addressee. Deictic expressions are tied to the context of
+    the individual speech act; they do not refer to fixed points in space. All languages
+    probably have demonstratives of some kind (‘this’/‘that’, ‘here’/‘there’, ‘voici’/‘voilà’
+    etc). Many Oceanic languages in addition have deictic directional morphemes in their
+    verb phrases (or sometimes in locative phrases) which indicate whether direction
+    associated with the event is towards the speaker and/or, in some languages, towards
+    the addressee.[^1]
 
 
 <a id="p-231"></a>
 
 Relationships between widespread Oceanic categories that probably existed in POc and systems of talking about space are summarised below.
 
-(a) Some local nouns ([§2](../contributions/2-8#s-2)) are used to express the directions of the vertical, inland/seaward and coastal axes of the geographic system. Overlapping with these semantically are local nouns that express locations and directions in the local environment that are part of the shared experience of speaker and addressee (‘home’, ‘bush’, ‘garden’ etc). There are also relational local nouns that express locations (‘inside’ etc) in the intrinsic system.
-
-(b) Directional morphemes ([§3](../contributions/2-8#s-3)) in verb phrases and in adjuncts are used in Oceanic languages to express geographic (vertical and valley-based) and deictic directions. In single-verb predicates and in serial verb constructions these morphemes are verbs. Elsewhere they are morphemes grammaticised from verbs. Grammaticisation had probably already occurred in some cases in Proto Oceanic ([Ross 2003](../sources/Ross2003)).[^2]
-
-(c) Demonstratives are used as static deictics. The reconstruction of demonstratives is not treated in this chapter.
+(a) Some __local nouns__ ([§2](../contributions/2-8#s-2)) are used to express the directions of the vertical,
+    inland/seaward and coastal axes of the _geographic_ system. Overlapping with
+    these semantically are local nouns that express locations and directions in the
+    local environment that are part of the shared experience of speaker and addressee
+    (‘home’, ‘bush’, ‘garden’ etc). There are also relational local nouns that express
+    locations (‘inside’ etc) in the _intrinsic_ system.
+(b) __Directional__ morphemes ([§3](../contributions/2-8#s-3)) in verb phrases and in adjuncts are used in Oceanic
+    languages to express _geographic_ (vertical and valley-based) and _deictic_
+    directions. In single-verb predicates and in serial verb constructions these
+    morphemes are verbs. Elsewhere they are morphemes grammaticised from
+    verbs. Grammaticisation had probably already occurred in some cases in Proto
+    Oceanic ([Ross 2003](../sources/Ross2003)).[^2]
+(c) __Demonstratives__ are used as static _deictics_. The reconstruction of demonstratives
+    is not treated in this chapter.
 
 We can illustrate the typical Oceanic system by summarising the system in Longgu (SES) as described by [Hill](../sources/Hill1992) ([1992](../sources/Hill1992), [1997](../sources/Hill1997), [2002](../sources/Hill2002)). Local nouns marking the axes of the geographic system are _asi_ ‘seawards’, _loŋa_ ‘inland’, _alaʔa_ ‘east’, _toli_ ‘west’, _vuʔa_ ‘down’, _laŋi_ ‘up’. Longgu has terms meaning ‘left’ and ‘right’, but their referents are the arms and the sides of the body, and they do not form part of the system of spatial orientation and are not local nouns. Where English would use ‘left’ or ‘right’, a Longgu speaker refers to _aʔae asi_ ‘the seawards leg’ or _aʔae longa-i_ ‘the inland leg’. ‘Nouns such as _komu_ ‘village’ and _luma_ ‘house’ function as place [local] nouns when their referent is the village or house considered to be the “home” location’ ([Hill 1997](../sources/Hill1997):103) and occur in different constructions from when they are used as common nouns (p.233). One of these constructions is with the preposition _i_ or with no preposition. Relational local nouns express intrinsic locations in relation to objects. For example, _ubu-_ ‘inside’ is treated as possessum in relation to the possessor _pera_ ‘basket’:
 
@@ -47,7 +109,54 @@ There is no one-to-one relationship between the geographic, intrinsic, and deict
 
 In POc and indeed throughout the history of many Oceanic subgroups there were three subclasses of noun: personal, common and local. These subclasses are defined by the constructions in which they occur. Since some nouns occur in a number of constructions, they are assigned to more than one subclass.
 
-<ol><li>Personal: personal proper names and kin terms used of known individuals. In POc a personal noun phrase construction consisted of the personal article &ast;i or &ast;e plus a personal noun,[^3] reflected in Taiof (MM) e Maras ‘Maras (proper name)’, e cina-nai (ART mother-P:3SG) ‘his/her mother’.[^4] In Longgu (SES) personal nouns occur without an article, but POc &ast;i is reflected in the ‘pronominal article’ in i gira ‘they’ and other free pronouns.</li> <li>Common: human nouns and non-human animates when not used of known individuals, as well as inanimates and abstract nouns. A common noun with a specific referent was in most cases preceded by the common article &ast;a or &ast;na, as in POc &ast;a/na Rumaq ‘a/the house’.[^5] The construction is reflected in Taiof a numa ‘a/the house’, a patu-re (ART head-P:3PL) ‘their heads’; Longgu a komu-i (ART village-SG) ‘the village’[^6]. If such a noun was used in an adjunct construction it was preceded by the sequence &ast;i ta-, as in POc &ast;i ta-ña Rumaq (PREP &ast;ta-P:3SG house) ‘at a/the house’.[^7] In this construction &ast;ta- was a monovalent semantically empty noun. In most Oceanic languages where this latter construction is reflected, however, &ast;i has dropped out, leaving &ast;ta- as a preposition.[^8] Hence Taiof ta-na patu-na tober (PREP-P:3SG head- P:3SG hill) ‘on top of the hill’, Longgu ta-na iola-i (PREP-P:3SG canoe-SG).</li> <li>Local: nouns used with reference to a specific location, a time, or an intrinsically located part of something. The POc local construction consisted of the preposition &ast;i plus a local noun, with no intervening article. Local nouns include: <ol><li>proper placenames;</li> <li>nouns denoting locations, including <ol><li>nouns denoting familiar places like ‘home’, ‘(own) village’, ‘(own) garden’, ‘bush’, ‘beach’ etc.;</li> <li>nouns denoting geographic directions, ‘down below’, ‘up above’;</li></ol> <li>temporal nouns;</li> <li>monovalent relational nouns, e.g. nouns denoting intrinsic parts, like ‘inside’, ‘upper surface or space above’, ‘lower surface’, ‘space beneath’ and so on;</li></ol> In Taiof a local noun may form a locative expression without a preposition (i.e. &ast;i has been lost), like koma-na matan below.[^9] A locative expression with a common noun must be formed with a preposition. <pre> E   Maras to   noŋos no-n       koma=na matan. ART Maras REAL dwell IMPF-P:3SG inside=ART ditch ‘Maras is in the ditch.’ </pre> In Longgu local and common nouns are preceded by different paradigms of relators and prepositions (the term ‘relator’ is explained on p.268): <pre> location         extent             direction ‘at’             ‘as far as’        ‘to, towards’ with a local noun               i                mi                 vu with a common noun              ta-              mi ta-             vu ta- </pre> Thus we find: <pre> e     la vu komu (local noun) S:3SG go R  village ‘s/he went towards her/his (home) village’ e     la vu   ta-na      iola  ŋaia (common noun) S:3SG go R    PREP-P:3SG canoe D:3SG ‘s/he went to her/his (canoe)’ </pre> When a local noun indicating a geographic direction follows a verb it may occur without a preposition or relator, e.g. lae asi ‘go seawards’.</li></ol>
+ 1. __Personal__: personal proper names and kin terms used of known individuals. In POc a
+    __personal noun phrase construction__ consisted of the personal article _&ast;i_ or _&ast;e_ plus a
+    personal noun,[^3] reflected in Taiof (MM) _e Maras_ ‘Maras (proper name)’, _e cina-nai_
+    (ART mother-P:3SG) ‘his/her mother’.[^4] In Longgu (SES) personal nouns occur without
+    an article, but POc _&ast;i_ is reflected in the ‘pronominal article’ in _i gira_ ‘they’ and other
+    free pronouns.
+ 2. __Common__: human nouns and non-human animates when not used of known
+    individuals, as well as inanimates and abstract nouns. A common noun with a specific
+    referent was in most cases preceded by the common article _&ast;a_ or _&ast;na_, as in POc _&ast;a_/_na_
+    _Rumaq_ ‘a/the house’.[^5] The construction is reflected in Taiof _a numa_ ‘a/the house’,
+    _a patu-re_ (ART head-P:3PL) ‘their heads’; Longgu _a komu-i_ (ART village-SG) ‘the
+    village’[^6]. If such a noun was used in an __adjunct construction__ it was preceded by the
+    sequence _&ast;i ta-_, as in POc _&ast;i ta-ña Rumaq_ (PREP &ast;ta-P:3SG house) ‘at a/the house’.[^7] In
+    this construction _&ast;ta-_ was a monovalent semantically empty noun. In most Oceanic
+    languages where this latter construction is reflected, however, _&ast;i_ has dropped out,
+    leaving _&ast;ta-_ as a preposition.[^8] Hence Taiof _ta-na patu-na tober_
+    (PREP-P:3SG head-P:3SG hill) ‘on top of the hill’, Longgu _ta-na iola-i_ (PREP-P:3SG canoe-SG).
+ 3. __Local__: nouns used with reference to a specific location, a time, or an intrinsically
+    located part of something. The POc __local construction__ consisted of the preposition &ast;i
+    plus a local noun, with no intervening article. Local nouns include:
+    (a) proper placenames;
+    (b)  nouns denoting locations, including
+         (i)  nouns denoting familiar places like ‘home’, ‘(own) village’, ‘(own) garden’, ‘bush’, ‘beach’ etc.;
+         (ii) nouns denoting geographic directions, ‘down below’, ‘up above’;
+    (c) temporal nouns;
+    (d) monovalent relational nouns, e.g. nouns denoting intrinsic parts, like ‘inside’, ‘upper surface or space  above’, ‘lower surface’, ‘space beneath’ and so on;
+    In Taiof a local noun may form a locative expression without a preposition (i.e. &ast;i has
+    been lost), like koma-na matan below.[^9] A locative expression with a common noun
+   must be formed with a preposition.
+
+__igt__ E   Maras to   noŋos no-n       koma=na matan. ART Maras REAL dwell IMPF-P:3SG inside=ART ditch ‘Maras is in the ditch.’
+
+   In Longgu local and common nouns are preceded by different paradigms of relators
+   and prepositions (the term ‘relator’ is explained on p.268):
+
+|                                                                            |
+|:---------------------------------------------------------------------------|
+| location         extent             direction                              |
+| ‘at’             ‘as far as’        ‘to, towards’                          |
+| with a local noun               i                mi                 vu     |
+| with a common noun              ta-              mi ta-             vu ta- |
+
+Thus we find:
+
+__igt__ e     la vu komu (local noun) S:3SG go R  village ‘s/he went towards her/his (home) village’ e     la vu   ta-na      iola  ŋaia (common noun) S:3SG go R    PREP-P:3SG canoe D:3SG ‘s/he went to her/his (canoe)’
+
+   When a local noun indicating a geographic direction follows a verb it may occur
+   without a preposition or relator, e.g. lae asi ‘go seawards’.
 
 
 <a id="p-233"></a>
@@ -67,7 +176,7 @@ Monovalent local nouns, often labelled ‘relational’ nouns in the literature,
 
 In POc the zero-valency/monovalent distinction was apparently not as sharp as it is in many modern Oceanic languages ([Lynch, Ross & Crowley 2002](../sources/Lynchetal2002):78–79), but there were semantically driven tendencies in the behaviour of nouns. When a noun was viewed as semantically inalienable, like the inside of an object, it was monovalent (i.e. directly possessed, with a possessor suffix), but the same noun could also have zero valency if used in a context where inalienability was irrelevant. For this reason, the relational nouns reconstructed in [§2.3](../contributions/2-8#s-2-3) have both monovalent and zero-valency forms, and we find cases where some reflexes of a relational noun are monovalent, others zero-valency.
 
-The major local nouns reconstructed below are listed here with simplified glosses, in two groups, relational and familiar-place/geographic. Where a noun is also reconstructed as a common noun, its common-noun gloss is also given, and where a local adverb in &ast;qa- is reconstructable this is also shown.
+The major local nouns reconstructed below are listed here with simplified glosses, in two groups, relational and familiar-place/geographic. Where a noun is also reconstructed as a common noun, its common-noun gloss is also given, and where a local adverb in _&ast;qa-_ is reconstructable this is also shown.
 
 
 <a id="p-235"></a>
@@ -710,7 +819,7 @@ The principal POc local noun meaning ‘seawards’ was _&ast;laur_, and it was 
 
 POc _&ast;tasik_ is quite often reflected as a local noun and presumably functioned as both a local and a common noun in POc. Occasional reflexes have meanings similar to those of POc _&ast;laur_, but most mean ‘at sea’, and this was presumably its POc meaning.
 
-It is unlikely that POc &ast;laman normally occurred as a local noun, as only two local noun reflexes have been found (Mussau [Adm] lamana ‘beach’, Tigak [MM] laman ‘down there, at the beach’).
+It is unlikely that POc _&ast;laman_ normally occurred as a local noun, as only two local noun reflexes have been found (Mussau [Adm] _lamana_ ‘beach’, Tigak [MM] _laman_ ‘down there, at the beach’).
 
 <table id="2-8-2-2-239-POc-laur-a">
 <tr>
@@ -776,7 +885,7 @@ It is unlikely that POc &ast;laman normally occurred as a local noun, as only tw
 <tr>
 <td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>lau, (i)lau</i></td>
 <td>
-'<span>seawards, shorewards from a speaker inland, (river) bank</span>' (<span>as opposed to i-loŋa ‘landwards, inland, towards land’</span>)</td>
+'<span>seawards, shorewards from a speaker inland, (river) bank</span>' (<span>as opposed to <em>i-loŋa</em> ‘landwards, inland, towards land’</span>)</td>
 </tr>
 <tr>
 <td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>lau</i></td>
@@ -898,7 +1007,7 @@ It is unlikely that POc &ast;laman normally occurred as a local noun, as only tw
 
 <a id="s-2-2-3"></a>
 
-### 2.2.3 Directions along the coastline
+#### 2.2.3. Directions along the coastline
 
 
 The items reconstructed above for ‘inland’ and ‘seawards’ were orientations at an angle to the coastline. Also recorded for a few languages are items referring to the two directions along the coastline. Possible PWOc candidates for these meanings are given below. Although the data are fragmentary, the fact that both members of the pair are recorded in widely separated languages supports their reconstruction. The Nalik glosses ‘south-east’ and ‘north-west’ are equivalent respectively to ‘to one’s left when facing the sea’ and ‘to one’s right when facing the sea’ if one is on the west coast of New Ireland.
@@ -1133,7 +1242,7 @@ POc _&ast;tanoq_ is reconstructed as a common noun meaning ‘earth, soil, groun
 <tr>
 <td>MM</td><td><a href="../languages/meramera">Meramera</a></td><td><i>tano(do)</i></td>
 <td>
-'<span>down there</span>' (<span>-do DEM</span>)</td>
+'<span>down there</span>' (<span><em>-do</em> DEM</span>)</td>
 </tr>
 <tr>
 <td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td><i>(a)tano</i></td>
@@ -1685,7 +1794,7 @@ __igt__ Tabar (MM): a) i    paki-na          mi  vanua PREP underneath-P:3SG ART
 
 <a id="p-245"></a>
 
-In these Lengo (SES) expressions the relational noun muri- ‘back’ performs a function similar to that of the English preposition behind.
+In these Lengo (SES) expressions the relational noun _muri-_ ‘back’ performs a function similar to that of the English preposition behind.
 
 __igt__ Lengo (SES): i    muri-e    na  vae PREP back-CSTR ART house ‘behind the house’ (more literally ‘at the house’s back’) i    muri-gu PREP back-P:1SG ‘behind me’
 
@@ -1899,7 +2008,7 @@ In Polynesian languages reflexes of _&ast;lalo-_/_&ast;lalom_ denote the region 
 '<span>inside, in</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>lalᶭ</i></td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>lalᵚ</i></td>
 <td>
 '<span>down, bottom, below, earth, world</span>'</td>
 </tr>
@@ -2163,7 +2272,7 @@ In many Oceanic languages the word for ‘inside’ is the reflex of a POc body-
 <tr>
 <td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>(ta ra) bala-na</i></td>
 <td>
-'<span>inside, in</span>' (<span>ta PREP, ra ART, bala- ‘belly, interior’</span>)</td>
+'<span>inside, in</span>' (<span><em>ta</em> PREP, <em>ra</em> ART, <em>bala-</em> ‘belly, interior’</span>)</td>
 </tr>
 <tr>
 <td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>bʷala</i></td>
@@ -2258,7 +2367,7 @@ In many Oceanic languages the word for ‘inside’ is the reflex of a POc body-
 
 The most widely reflected POc term for ‘underneath, underside’ is _&ast;papa-_, _&ast;papak_. This reflects PMP _&ast;babaq_, which Blust reconstructs as referring to the underside or lower surface of something (the change from PMP _&ast;-q_ to POc _&ast;-k_ is unexplained). In a number of Oceanic languages, its meaning also includes the space beneath something, e.g. a house (see the NNG reflexes below), and it is probable that this extension of meaning had already occurred in POc. Its zero-valency forms are the source of local adverbs meaning ‘below, down there’ in a number of languages.
 
-Scattered reflexes also suggest the reconstruction of monosyllabic forms without the first (reduplicated) syllable. An innovative monovalent form _&ast;pʷake-_ is reflected in Meso- Melanesian languages, apparently by the addition of _&ast;-e_ to the monosyllabic form _&ast;pak_.
+Scattered reflexes also suggest the reconstruction of monosyllabic forms without the first (reduplicated) syllable. An innovative monovalent form _&ast;pʷake-_ is reflected in Meso-Melanesian languages, apparently by the addition of _&ast;-e_ to the monosyllabic form _&ast;pak_.
 
 No reflexes occur in Central Pacific languages. In Fijian, _&ast;papa-_, _&ast;papak_ has been ousted by reflexes of POc _&ast;ruku-_ ‘underneath’ (see below), in Polynesian languages by reflexes of POc _&ast;lalom_ ‘inside’ (p.247).
 
@@ -2849,7 +2958,7 @@ The Kiribati (Mic) reflex of POc _&ast;papo[-]_ also has the meaning ‘outside�
 <tr>
 <td>SES</td><td><a href="../languages/baegu">Baegu</a></td><td><i>fafo(luma)</i></td>
 <td>
-'<span>thatch</span>' (<span>luma ‘house, building’</span>)</td>
+'<span>thatch</span>' (<span><em>luma</em> ‘house, building’</span>)</td>
 </tr>
 <tr>
 <td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>fafo-</i></td>
@@ -2971,7 +3080,7 @@ Given the tendency for body-part terms to be used by metaphorical extension as r
 <i>&ast;qulu[-]</i>
 </td>
 <td>
-[(N)] '<span>head, (head) hair</span>'; [N LOC] '<span>top part</span>'</td>
+[N] '<span>head, (head) hair</span>'; [N LOC] '<span>top part</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>ulu (bo)</i></td>
@@ -3086,7 +3195,7 @@ Given the tendency for body-part terms to be used by metaphorical extension as r
 <tr>
 <td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>(n)ulu(ŋout)</i></td>
 <td>
-'<span>at the top of the garden</span>' (<span>&lt; POc *na qulu ni qutan ART top PREP bush</span>)</td>
+'<span>at the top of the garden</span>' (<span>&lt; POc <em>*na qulu ni qutan</em> ART top PREP bush</span>)</td>
 </tr>
 <tr>
 <td>NCal</td><td><a href="../languages/nemi">Nemi</a></td><td><i>hule-n</i></td>
@@ -3164,7 +3273,7 @@ This expectation is at least partly fulfilled. We can reconstruct POc _&ast;[pʷ
 <tr>
 <td>NNG</td><td><a href="../languages/kairiru">Kairiru</a></td><td><i>poreq</i></td>
 <td>
-'<span>side of house</span>' (<span>-q unexplained</span>)</td>
+'<span>side of house</span>' (<span><em>-q</em> unexplained</span>)</td>
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/nalik">Nalik</a></td><td><i>par, pāran</i></td>
@@ -3269,7 +3378,7 @@ cf. also:
 </table>
 
 
-POc &ast;pʷala(ŋ) ‘side, part’ is reconstructable, but its exact sense is unclear.
+POc _&ast;pʷala(ŋ)_ ‘side, part’ is reconstructable, but its exact sense is unclear.
 
 <table id="2-8-2-3-254-POc-pala-a">
 <tr>
@@ -3432,7 +3541,7 @@ There are two other reconstructions from which terms for ‘side’ are derived.
 '<span>side</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>tuṛᶭu-</i></td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>tuṛᵚu-</i></td>
 <td>
 '<span>beside</span>'</td>
 </tr>
@@ -3798,7 +3907,7 @@ As the glosses indicate, POc _&ast;muqa[-]_ had the temporal sense of ‘time be
 '<span>front, first, tip, before</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>mᶭā-</i></td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>mᵚā-</i></td>
 <td>
 '<span>front</span>'</td>
 </tr>
@@ -5374,7 +5483,7 @@ Also found are forms which appear to reflect _&ast;pea_, _&ast;pia_ and, in Poly
 ## 3. Directional verbs
 
 
-Directional verbs can be conveniently divided into verbs of deictic direction (‘towards speaker’, ‘towards addressee’, ‘away from speaker and addressee’) and verbs of geographic direction, and especially vertical direction (‘go up’, ‘go down’).
+Directional verbs can be conveniently divided into verbs of __deictic direction__ (‘towards speaker’, ‘towards addressee’, ‘away from speaker and addressee’) and verbs of __geographic direction__, and especially vertical direction (‘go up’, ‘go down’).
 
 
 <a id="s-3-1"></a>
@@ -5451,9 +5560,9 @@ The main semantic domain of geographic direction verbs is that of vertical direc
 
 A pair of antonyms occurred in POc. These were the generic verbs of movement down and up:
 
-|                                                     |
-|:----------------------------------------------------|
-| &ast;sipo ‘go downward’               &ast;sake ‘go upward’ |
+|                       |                     |
+|:----------------------|:--------------------|
+| _&ast;sipo_ ‘go downward’ | _&ast;sake_ ‘go upward’ |
 
 As I noted earlier (p.229), POc apparently had a subsystem of geographic direction which was based on a river valley and had an up/down axis and a transverse axis with one directionally neutral (‘across the valley’) term. The terms used for ‘down the valley’ and ‘up the valley’ were evidently _&ast;sipo_ and _&ast;sake_. The transverse term was possibly _&ast;pano_, which also served as a verb of deictic direction and is reconstructed on p.289. However, there are no known Western Oceanic or Southeast Solomonic reflexes of _&ast;pano_ with this sense, so this may be a later innovation.
 
@@ -5591,7 +5700,7 @@ Recent work by [François](../sources/Francois2003) ([2003](../sources/Francois2
 '<span>east wind</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>ṛᶭak</i></td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>ṛᵚak</i></td>
 <td>
 '<span>south, summer</span>'</td>
 </tr>
@@ -5626,16 +5735,16 @@ In [Ross](../sources/Ross1995c) ([1995c](../sources/Ross1995c)) I suggested that
 
 <a id="s-3-3-1"></a>
 
-### 3.3.1 Downward movement
+#### 3.3.1. Downward movement
 
 
 Three possible verbs of downward movement are reconstructed below. They are:
 
-|     |        |                                 |
-|:----|:-------|:--------------------------------|
-| POc | &ast;sipo  | ‘go down, downwards’            |
-| POc | &ast;sobu  | ‘go downward, dive down’        |
-| POc | &ast;surup | ‘(?) enter, penetrate; go down’ |
+|     |          |                                 |
+|:----|:---------|:--------------------------------|
+| POc | _&ast;sipo_  | ‘go down, downwards’            |
+| POc | _&ast;sobu_  | ‘go downward, dive down’        |
+| POc | _&ast;surup_ | ‘(?) enter, penetrate; go down’ |
 
 The most widely reflected of these is _&ast;sipo_, the generic verb of downward movement. POc &ast;sobu seems also to have carried the meaning ‘dive down’, as several of its reflexes have to do with action in the sea. I also include POc _&ast;surup_ ‘enter, penetrate, go down’ here on account of reflexes with the gloss ‘go down’, but the latter are found only in Meso-Melanesian and Southeast Solomonic languages, and I question whether it had this sense in POc.
 
@@ -6105,7 +6214,7 @@ The forms listed below also seem to constitute a cognate set, but, as the questi
 
 <a id="p-273"></a>
 
-POc &ast;wau ‘go seawards’ and _&ast;bala_ ‘move downward (?)’ are also tentatively reconstructed, but they are not well supported.
+POc _&ast;wau_ ‘go seawards’ and _&ast;bala_ ‘move downward (?)’ are also tentatively reconstructed, but they are not well supported.
 
 <table id="2-8-3-3-273-POc-wau-a">
 <tr>
@@ -6134,7 +6243,7 @@ POc &ast;wau ‘go seawards’ and _&ast;bala_ ‘move downward (?)’ are also 
 <tr>
 <td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>-wow</i></td>
 <td>
-[DIR] '<span>seaward</span>' (<span>contrast -waw ‘towards addressee’</span>)</td>
+[DIR] '<span>seaward</span>' (<span>contrast <em>-waw</em> ‘towards addressee’</span>)</td>
 </tr>
 <tr>
 <td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>waɨ</i></td>
@@ -6181,7 +6290,7 @@ POc &ast;wau ‘go seawards’ and _&ast;bala_ ‘move downward (?)’ are also 
 
 <a id="s-3-3-2"></a>
 
-### 3.3.2 Upward movement
+#### 3.3.2. Upward movement
 
 
 The generic verb of upward movement was POc _&ast;sake_ ‘go upward, go southeast’, also used, for example, of boarding a canoe.
@@ -6751,7 +6860,7 @@ The important point about François’ reconstruction is that the equation of �
 
 <a id="s-3-3-4"></a>
 
-### 3.3.4 Geographic direction adverbs derived from verbs
+#### 3.3.4. Geographic direction adverbs derived from verbs
 
 
 In a scattering of Oceanic languages, the verbs POc _&ast;sipo_ ‘go downward’ (p.271) and POc _&ast;sake_ ‘go upward’ (p.273) are also reflected as (or as the roots of) locative and/or allative adverbs. These are distinct from directional adverbials in that they often form part of the locative demonstrative paradigm, with meanings like ‘down below’ and ‘up here’. These reflexes are sufficiently well distributed to arouse the suspicion, at least, that this was also one of their POc functions.
@@ -6946,7 +7055,7 @@ The meanings of the items listed below overlap substantially with reflexes of th
 
 <a id="s-3-4-1"></a>
 
-### 3.4.1 A note on deixis in Oceanic
+#### 3.4.1. A note on deixis in Oceanic
 
 
 Proto Oceanic deixis was person-oriented. That is, there were forms with the meanings ‘near speaker’, ‘near addressee’ and ‘distant from both speaker and addressee’. This pattern is well represented in Oceanic demonstrative forms right across the Pacific. Individual languages may lose a member of the paradigm, finishing up with a proximal/distal system. Some languages have reinterpreted the three-way system in terms of orientation to the speaker alone (‘near speaker’ vs ‘an intermediate distance from speaker’ vs ‘far from speaker’), but such languages are by no means as widespread as the person-oriented system. A good many languages have added members to the system, distinguishing, for example, between referents that can and cannot be seen by the speech act participants, or adding a member for referents the speaker points at, but none of these additions can be reconstructed as a POc category.
@@ -6982,7 +7091,7 @@ A reconstruction of POc demonstrative forms is beyond the scope of this chapter,
 
 <a id="p-279"></a>
 
-The person-oriented system of deixis was manifested not only in demonstratives, but also in the system of deictic directional verbs. POc had a system with at least three members: ‘come to[wards] speaker’, ‘go/come to[wards] addressee’ and ‘go to a point away from both speaker and addressee’, glossed here as ‘come’, ‘go:2’ and ‘go:3’ respectively. There were possibly two ‘go:3’ verbs, however. One licensed a location expression, i.e. its basic meaning was ‘go to’. The other simply meant ‘go away (from speaker)’ and did not license a location expression. Thus in Kele (Adm) there is a contrast between _la_ ‘go to’ and _aw_ ‘go away’ ([Ross 2002f](../sources/Ross2002f)). This suggests that POc had a four- member system, and I will assume this here. Against this is the fact that I have found no language in which a four-member system is preserved.
+The person-oriented system of deixis was manifested not only in demonstratives, but also in the system of deictic directional verbs. POc had a system with at least three members: ‘come to[wards] speaker’, ‘go/come to[wards] addressee’ and ‘go to a point away from both speaker and addressee’, glossed here as ‘come’, ‘go:2’ and ‘go:3’ respectively. There were possibly two ‘go:3’ verbs, however. One licensed a location expression, i.e. its basic meaning was ‘go to’. The other simply meant ‘go away (from speaker)’ and did not license a location expression. Thus in Kele (Adm) there is a contrast between _la_ ‘go to’ and _aw_ ‘go away’ ([Ross 2002f](../sources/Ross2002f)). This suggests that POc had a four-member system, and I will assume this here. Against this is the fact that I have found no language in which a four-member system is preserved.
 
 Three-member deictic directional verb systems are found right across Oceania,[^22] and a sample is given below. Some are reflected as directional enclitics, rather than as verbs. It is sometimes difficult to tell from a source whether the third member should be assigned to ‘go:3’ or ‘go away’. However, in languages where deictic directional verbs have become directional enclitics, the ‘go:3’ form has lost its capacity to license a location expression and inevitably means ‘go away’. Note that the two systems from the Admiralties make the contrast between ‘go:3’ and ‘go away’ which supports the reconstruction of a four-member system.
 
@@ -7005,7 +7114,7 @@ Three-member deictic directional verb systems are found right across Oceania,[^2
 
 <a id="s-3-4-2"></a>
 
-### 3.4.2 Reconstructing Proto Oceanic deictic directional forms
+#### 3.4.2. Reconstructing Proto Oceanic deictic directional forms
 
 
 The main deictic directional forms of POc, which account for the majority of the forms listed above, were as follows:
@@ -7788,9 +7897,9 @@ Proto South Vanuatu _&ast;un-_, which forms locative nouns from common nouns ([L
 
 <a id="p-285"></a>
 
-Longgu vu appears to be cognate with forms in the Malaita/Makira subgroup (SES) that reflect Proto Malaita/Makira _&ast;vua_ or _&ast;vuni_. [Lichtenberk](../sources/Lichtenberk1985b) ([1985b](../sources/Lichtenberk1985b)) attributes all these forms to POc _&ast;pani_ (V) ‘give’, (PREPV) ‘beneficiary case-marker’. The Malaita/Makira forms certainly have benefactive meanings, but Longgu _vu_ is clearly allative, and the best account of both its form and meaning is given by attributing it to _&ast;ua_ — although this means assuming that initial _&ast;v-_ has arisen by epenthesis. But what are we to do with the Malaita/Makira forms? The best explanation seems to be that there was a conflation of pre-Proto Malaita/Makira _&ast;vua_ ‘allative relator’ (cognate with Longgu _vu_ and reflecting POc _&ast;ua_) and _&ast;vani_ ‘beneficiary prepositional verb’ (reflecting POc _&ast;pani_), resulting in _&ast;vua_ with a benefactive function and _&ast;vuni_ with a form cobbled together from both items but in benefactive function.
+Longgu _vu_ appears to be cognate with forms in the Malaita/Makira subgroup (SES) that reflect Proto Malaita/Makira _&ast;vua_ or _&ast;vuni_. [Lichtenberk](../sources/Lichtenberk1985b) ([1985b](../sources/Lichtenberk1985b)) attributes all these forms to POc _&ast;pani_ (V) ‘give’, (PREPV) ‘beneficiary case-marker’. The Malaita/Makira forms certainly have benefactive meanings, but Longgu _vu_ is clearly allative, and the best account of both its form and meaning is given by attributing it to _&ast;ua_ — although this means assuming that initial _&ast;v-_ has arisen by epenthesis. But what are we to do with the Malaita/Makira forms? The best explanation seems to be that there was a conflation of pre-Proto Malaita/Makira _&ast;vua_ ‘allative relator’ (cognate with Longgu _vu_ and reflecting POc _&ast;ua_) and _&ast;vani_ ‘beneficiary prepositional verb’ (reflecting POc _&ast;pani_), resulting in _&ast;vua_ with a benefactive function and _&ast;vuni_ with a form cobbled together from both items but in benefactive function.
 
-This interpretation is supported by the Longgu dative verbal preposition _wini-_, which takes an object pronoun suffix when it governs a first or second person referent, e.g. _wini-o_ DATIVE-O:2SG ‘to you’, but assumes the allomorph wa- with a possessor pronoun suffix when it governs a third person, e.g. _wa-na_ DATIVE-P:3SG ‘to it/him/her’.[^29] As [Hill](../sources/Hill1992) ([1992](../sources/Hill1992):245) points out, _wa-_ overlaps semantically with _vu_ (< POc _&ast;ua_). It appears that _wini_ reflects POc _&ast;pani_ and _wa-_ POc _&ast;ua_, but the two form a single paradigm in Longgu. This inference would also explain the non-etymological initial _&ast;v-_ of _vu_: it is inherited from pre-Proto Malaita/Makira _&ast;vua_, where it resulted from ‘infection’ by _&ast;vani_.
+This interpretation is supported by the Longgu dative verbal preposition _wini-_, which takes an object pronoun suffix when it governs a first or second person referent, e.g. _wini-o_ DATIVE-O:2SG ‘to you’, but assumes the allomorph _wa-_ with a possessor pronoun suffix when it governs a third person, e.g. _wa-na_ DATIVE-P:3SG ‘to it/him/her’.[^29] As [Hill](../sources/Hill1992) ([1992](../sources/Hill1992):245) points out, _wa-_ overlaps semantically with _vu_ (< POc _&ast;ua_). It appears that _wini_ reflects POc _&ast;pani_ and _wa-_ POc _&ast;ua_, but the two form a single paradigm in Longgu. This inference would also explain the non-etymological initial _&ast;v-_ of _vu_: it is inherited from pre-Proto Malaita/Makira _&ast;vua_, where it resulted from ‘infection’ by _&ast;vani_.
 
 The Bauan Fijian forms are tentatively included in the set above. The form _vuā_ again has epenthetic _v-_, but its meaning and the parallel with the prepositional use of _mai_ suggest that it reflects _&ast;ua_. More specifically, _vuā_ apparently reflects pre-Fijian _&ast;vua-i-a_ (go.towards-TR-O:3SG) and means ‘to/for/from/with him/her’. The form _vei_ is more problematic. It may reflect either _&ast;vua-i_ (go.towards-ART) or _&ast;pa-i_ (go.away-ART). Either way, _&ast;i_ is the personal article. Semantically, it is also possibe that _&ast;pani_ ‘give’ has played a role in the history of these forms, as they have a dative function.
 
@@ -8223,7 +8332,7 @@ Just as POc _&ast;mai_ ‘come’ had a short form _&ast;ma_, so POc _&ast;lako_
 [DIR] '<span>away from speaker</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>lᶭɒk</i></td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>lᵚɒk</i></td>
 <td>
 [DIR] '<span>away from speaker</span>'</td>
 </tr>
@@ -8274,31 +8383,31 @@ It is reasonable to expect that the processes that have created prepositions and
 
 <a id="p-289"></a>
 
-|                                                                                          |
-|:-----------------------------------------------------------------------------------------|
-| POc &ast;lako, &ast;la ‘go (to)’; (DIR) ‘away from speaker’ (p.287)                              |
-| POc &ast;lalo-, &ast;lo-, &ast;la- (N LOC) ‘inside’ (p.246)                                          |
-| Adm: Loniu                 lo               (PREP) ‘in’                                  |
-| NNG: Arawe                 lu-O:, li-O:     (PREP w N PERS, PRO PERS) locative, allative |
-| NNG: Mamusi                la               (PREP) general                               |
-| PT:     Motu               lalo             ‘the inside, the mind’                       |
-| MM: Tigak                  lo               (PREP w N COM, N LOC) locative, temporal     |
-| MM: Tiang                  lə               (PREP) locative, temporal                    |
-| MM: Kara                   la               (PREP) locative                              |
-| MM: Nalik                  la               (PREP w N LOC) locative, temporal            |
-| MM: Notsi                  la(n)            (PREP) locative                              |
-| MM: Tangga                 lo               (PREP w N PERS, PRO PERS) locative           |
-| MM: Konomala               lə               (PREP w PLC, N LOC) locative, temporal       |
-| MM: Label                  la               (PREP w N LOC) locative, temporal            |
-| MM: Bilur                  la               (PREP w N LOC) locative                      |
-| NCV: Mota                  lo               (PREP) ‘in, inside’                          |
-| NCV: Tasiko                lo               (PREP) ‘in, inside’                          |
-| NCV: Mwotlap               lV-              (PREP prefixed to N LOC) locative, allative  |
-| NCV: NE Ambae              lo               (PREP w N LOC) locative                      |
-| NCV: Maewo                 le               (PREP) ‘in, inside’                          |
-| SV:     Lenakel            le               (PREP) locative, allative                    |
-| Mic:    Marshallese        (i)lɔ            (PREP) locative                              |
-| Mic:    Puluwat            le-              (PREP) ‘in, because of’                      |
+|     |                     |                    |                                              |
+|:----|:--------------------|:-------------------|:---------------------------------------------|
+| 1.  | POc                 | &ast;lako, &ast;la         | ‘go (to)’; (DIR) ‘away from speaker’ (p.287) |
+| 2.  | POc                 | &ast;lalo-, &ast;lo-, &ast;la- | (N LOC) ‘inside’ (p.246)                     |
+|     | Adm: Loniu          | lo                 | (PREP) ‘in’                                  |
+|     | NNG: Arawe          | lu-O:, li-O:       | (PREP w N PERS, PRO PERS) locative, allative |
+|     | NNG: Mamusi         | la                 | (PREP) general                               |
+|     | PT:     Motu        | lalo               | ‘the inside, the mind’                       |
+|     | MM: Tigak           | lo                 | (PREP w N COM, N LOC) locative, temporal     |
+|     | MM: Tiang           | lə                 | (PREP) locative, temporal                    |
+|     | MM: Kara            | la                 | (PREP) locative                              |
+|     | MM: Nalik           | la                 | (PREP w N LOC) locative, temporal            |
+|     | MM: Notsi           | la(n)              | (PREP) locative                              |
+|     | MM: Tangga          | lo                 | (PREP w N PERS, PRO PERS) locative           |
+|     | MM: Konomala        | lə                 | (PREP w PLC, N LOC) locative, temporal       |
+|     | MM: Label           | la                 | (PREP w N LOC) locative, temporal            |
+|     | MM: Bilur           | la                 | (PREP w N LOC) locative                      |
+|     | NCV: Mota           | lo                 | (PREP) ‘in, inside’                          |
+|     | NCV: Tasiko         | lo                 | (PREP) ‘in, inside’                          |
+|     | NCV: Mwotlap        | lV-                | (PREP prefixed to N LOC) locative, allative  |
+|     | NCV: NE Ambae       | lo                 | (PREP w N LOC) locative                      |
+|     | NCV: Maewo          | le                 | (PREP) ‘in, inside’                          |
+|     | SV:     Lenakel     | le                 | (PREP) locative, allative                    |
+|     | Mic:    Marshallese | (i)lɔ              | (PREP) locative                              |
+|     | Mic:    Puluwat     | le-                | (PREP) ‘in, because of’                      |
 
 Formally, items reflecting _&ast;lo_ presumably reflect _&ast;lo-_, one of the short forms of _&ast;lalo-_. It is tempting to attribute all forms reflecting _&ast;la_ to the short form of _&ast;lako_, but there is evidence against this. In Lihir (MM), _la_ is a short form of _lilie-_ ‘inside’ (reflecting _&ast;lalo-_), as we find phrases like the one below where _la_ must be a (relational) noun:
 
@@ -8572,7 +8681,7 @@ POc _&ast;pano_ evidently had a short form _&ast;pa_, giving a pair analogous to
 
 
 
-The meanings of reflexes of &ast;pa agree with those of _&ast;pano_, and the function of the Motu, Sinaugoro,[^32] Gela, and Mota reflexes of _&ast;pa_ (in three different subgroups) as a preverbal auxiliary is similar to that of the Sinaugoro reflexes of _&ast;ma_ and _&ast;la_ above. [Clark](../sources/Clark1996) ([1996](../sources/Clark1996)) notes that Nguna _vā_ ‘go’ is also described as a short form of _vano_. [Paton](../sources/Paton1973) ([1973](../sources/Paton1973)) describes Lonwolwol _va_ as a short form of _van_ ‘go, pass’, and therefore as a reflex of POc _&ast;pano_, but Blust (ACD) argues that his inference is unjustified since original medial nasals are otherwise retained in Lonwolwol. If, however, _va_ reflects POc _&ast;pa_, the objection disappears.
+The meanings of reflexes of _&ast;pa_ agree with those of _&ast;pano_, and the function of the Motu, Sinaugoro,[^32] Gela, and Mota reflexes of _&ast;pa_ (in three different subgroups) as a preverbal auxiliary is similar to that of the Sinaugoro reflexes of _&ast;ma_ and _&ast;la_ above. [Clark](../sources/Clark1996) ([1996](../sources/Clark1996)) notes that Nguna _vā_ ‘go’ is also described as a short form of _vano_. [Paton](../sources/Paton1973) ([1973](../sources/Paton1973)) describes Lonwolwol _va_ as a short form of _van_ ‘go, pass’, and therefore as a reflex of POc _&ast;pano_, but Blust (ACD) argues that his inference is unjustified since original medial nasals are otherwise retained in Lonwolwol. If, however, _va_ reflects POc _&ast;pa_, the objection disappears.
 
 This leaves a loose end. Blust (ACD) takes the cognate set above to reflect PCEMP _&ast;ba_ ‘go, go away, walk’. [Clark](../sources/Clark1996) ([1996](../sources/Clark1996)), on the other hand, infers that the set above and PCEMP _&ast;ba_ are etymologically separate. It is true that the forms attributed to POc _&ast;pa_ above could reflect PCEMP _&ast;ba_: there is no phonological objection to this. But there are just a few Oceanic forms which reflect a POc locomotion verb _&ast;ba_ ‘go’ (Tolai [MM] _ba_ ‘tread, go’, Talise [SES] _ba_ ‘go’), and it seems likely that this _&ast;ba_ reflects PCEMP _&ast;ba_, whilst POc _&ast;pa_ is the short form of _&ast;pano_.
 
@@ -8593,33 +8702,31 @@ The NNG items below, all from the Vitiaz Strait area, probably reflect conflatio
 
 Bound items below are shown with the suffix paradigm that they take, one of object (O:), disjunctive (D:) or possessor (P:). The gloss of each item is formulated as carefully as the data allow, but should not be treated too seriously, as there are likely to be gaps in the glosses.
 
-|                                                                                                        |
-|:-------------------------------------------------------------------------------------------------------|
-| 1.   POc &ast;pano, &ast;pa ‘go away; move in a transverse direction’ (p.289)                                  |
-| 2.   POc &ast;pani ‘give’, (PREPV) benefactive ([Pawley 1973](../sources/Pawley1973), [Lichtenberk 1985b](../sources/Lichtenberk1985b))                            |
-| 3.   PWOc &ast;pʷa (PREP) instrumental, comitative                                                         |
-| NNG: Kove                 pa, pa-O:       (PREP) locative, temporal, allative, ablative                |
-| NNG: Bariai               pa-O:           (PREP) locative, allative, ablative, benefactive             |
-| NNG: Malai                pa-D:           (PREP) allative, instrumental                                |
-| NNG: Gitua                pa-O:           (PREP) temporal, allative, benefactive, ablative, instrument |
-| NNG: Malalamai            pa-O:           (PREP) allative, benefactive                                 |
-| NNG: Lukep                pa-O:           (PREP) allative, benefactive                                 |
-| NNG: Malasanga            pa-O:           (PREP) benefactive, comitative                               |
-| NNG: Roinji               pa-P:/O:        (PREP) allative, benefactive                                 |
-| NNG: Sio                  pa-O:           (PREP) allative, benefactive                                 |
-| NNG: Tami                 pa, pa-D:       (PREP) temporal, benefactive                                 |
-| NNG: Mangap               pa, pa-O:       (PREP) locative, benefactive, ablative,                      |
-| instrumental                                                                                           |
-| NNG: Rauto                pa              (PREP w N PERS) locative, allative                           |
-| pe              (PREP w N COM, PRO PERS) locative,                                                     |
-| allative, instrumental                                                                                 |
-| PT:     Kiriwina          va              (PREP) ‘in the direction of’                                 |
-| MM:     Tiang             pa-P:           (PREP) locative, instrumental, comitative                    |
-| MM:      Nalik             pana            (PREP) locative, instrumental, comitative                   |
-| MM:      Label             ha              (PREP) locative                                             |
-| MM:      Roviana           pa              (PREP) locative, allative                                   |
-| MM:      Hoava             pa              (R, PREP w PLC, non-human N) locative, allative             |
-| NCV:     Nguna             pa(ki)          (PREP w PLC) allative                                       |
+|     |                  |            |                                                              |
+|:----|:-----------------|:-----------|:-------------------------------------------------------------|
+| 1.  | POc              | &ast;pano, &ast;pa | ‘go away; move in a transverse direction’ (p.289)            |
+| 2.  | POc              | &ast;pani      | ‘give’, (PREPV) benefactive ([Pawley 1973](../sources/Pawley1973), [Lichtenberk 1985b](../sources/Lichtenberk1985b)) |
+| 3.  | PWOc             | &ast;pʷa       | (PREP) instrumental, comitative                              |
+|     | NNG: Kove        | pa, pa-O:  | (PREP) locative, temporal, allative, ablative                |
+|     | NNG: Bariai      | pa-O:      | (PREP) locative, allative, ablative, benefactive             |
+|     | NNG: Malai       | pa-D:      | (PREP) allative, instrumental                                |
+|     | NNG: Gitua       | pa-O:      | (PREP) temporal, allative, benefactive, ablative, instrument |
+|     | NNG: Malalamai   | pa-O:      | (PREP) allative, benefactive                                 |
+|     | NNG: Lukep       | pa-O:      | (PREP) allative, benefactive                                 |
+|     | NNG: Malasanga   | pa-O:      | (PREP) benefactive, comitative                               |
+|     | NNG: Roinji      | pa-P:/O:   | (PREP) allative, benefactive                                 |
+|     | NNG: Sio         | pa-O:      | (PREP) allative, benefactive                                 |
+|     | NNG: Tami        | pa, pa-D:  | (PREP) temporal, benefactive                                 |
+|     | NNG: Mangap      | pa, pa-O:  | (PREP) locative, benefactive, ablative, instrumental         |
+|     | NNG: Rauto       | pa         | (PREP w N PERS) locative, allative                           |
+|     |                  | pe         | (PREP w N COM, PRO PERS) locative, allative, instrumental    |
+|     | PT:     Kiriwina | va         | (PREP) ‘in the direction of’                                 |
+|     | MM:     Tiang    | pa-P:      | (PREP) locative, instrumental, comitative                    |
+|     | MM:      Nalik   | pana       | (PREP) locative, instrumental, comitative                    |
+|     | MM:      Label   | ha         | (PREP) locative                                              |
+|     | MM:      Roviana | pa         | (PREP) locative, allative                                    |
+|     | MM:      Hoava   | pa         | (R, PREP w PLC, non-human N) locative, allative              |
+|     | NCV:     Nguna   | pa(ki)     | (PREP w PLC) allative                                        |
 
 
 <a id="p-293"></a>

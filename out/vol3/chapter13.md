@@ -357,7 +357,7 @@ One traditional stimulant, the betelnut, Areca catechu ([§2.2.1](../contributio
 
 <a id="s-2-2-1"></a>
 
-### 2.2.1 Areca catechu, betel palm, betelnut, TP buai, P bilnat, natnat (Arecaceae)
+#### 2.2.1. Areca catechu, betel palm, betelnut, TP buai, P bilnat, natnat (Arecaceae)
 
 
 Areca catechu is a slender palm which grows up to 30 m. Its crown is smaller relative to its height than that of a coconut, and leaflets are less densely spaced. A many-branched flower cluster develops below the leaf spathe, and the fruit develop from the flowers. The resulting branched cluster of fruit is a familiar sight in markets in lowland Papua New Guinea. The fruit consists of a seed enclosed in a thin green skin and a hard fibrous pericarp, i.e. husk (Figure 13.1, left).
@@ -608,7 +608,7 @@ Frantisek [Lichtenberk](../sources/Lichtenberk1998) ([1998](../sources/Lichtenbe
 
 <a id="s-2-2-2"></a>
 
-### 2.2.2 Piper betle (syn. Chavica betle), betel pepper, TP daka (Piperaceae)
+#### 2.2.2. Piper betle (syn. Chavica betle), betel pepper, TP daka (Piperaceae)
 
 
 The betel pepper vine, Piper betle, is a woody climber with catkins, pendulous spikes of berries in a crowded mass forming a cylindrical syncarp (a composite fruit) (Figure 13.1 , right). It climbs on Erythrina indica and Artocarpus incisa. The catkins and/or leaves are chewed with betelnut, Areca catechu ([§2.2.1](../contributions/3-13#s-2-2-1)), and lime throughout the Bismarck Archipelago and the Solomons ([Peekel 1984](../sources/Peekel1984): 124, [Kwa'ioloa & Burt 2001](../sources/KwaioloaandBurt2001):226, [Hviding 2005](../sources/Hviding2005): 115).
@@ -761,7 +761,7 @@ cf. also:
 
 <a id="s-2-2-3"></a>
 
-### 2.2.3 Piper methysticum, kava (Piperaceae)
+#### 2.2.3. Piper methysticum, kava (Piperaceae)
 
 
 Figure 13.2: Leaves, stem and plant habit of kava, Piper methysticum

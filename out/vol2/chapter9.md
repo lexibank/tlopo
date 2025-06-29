@@ -8,7 +8,24 @@
 
 The kinds of time and duration expressions that we might expect to find in a language are listed below. This categorisation could probably be applied to any language, Oceanic or otherwise, as it appears to have its basis in human cognition and universal experience rather than in the vagaries of English. Part 1 also indicates the structure of this chapter. Why part 2 is not part of that structure is explained below.
 
-<ol> <li>Times <ol> <li>Undirected: <ol> <li>times within cycles: ‘at midnight’, ‘at dawn’, ‘at midday’, ‘at full moon’, ‘at yam harvest’, ‘in daylight’, ‘in the morning’/‘in the afternoon’/‘in the evening’/‘in the night’;</li> <li>labelled sets of times within cycles: names of seasons or lunar months in a year, names of periods or days in a lunar month.</li> </ol> </li> <li>Directed: <ol start="3"> <li>purely deictic: ‘now’, ‘today’;</li> <li>vague distance: ‘in the past’/‘in the future’, ‘earlier’/‘later’, ‘long ago’;</li> <li>specified distance within a cycle or measured by cycles: ‘last night’/ ‘tonight’, ‘today’/‘yesterday’/‘tomorrow’, ‘two days ago’/‘two days hence’.</li> </ol> </li> </ol> </li> <li>Durations <ol start="3"> <li>from one time to another: <ol start="6"> <li>one time specified: ‘since yesterday’, ‘until tomorrow’;</li> <li>both times specified: ‘from yam harvest to taro harvest’;</li> </ol> </li> <li>length of time: ‘for a long time’.</li> </ol> </li> </ol>
+ 1. Times
+    a. Undirected:
+       (i)   times within cycles: ‘at midnight’, ‘at dawn’, ‘at midday’, ‘at full moon’,
+             ‘at yam harvest’, ‘in daylight’, ‘in the morning’/‘in the afternoon’/‘in the
+             evening’/‘in the night’;
+       (ii)  labelled sets of times within cycles: names of seasons or lunar months in a
+             year, names of periods or days in a lunar month.
+    b. Directed:
+       (iii) purely deictic: ‘now’, ‘today’;
+       (iv)  vague distance: ‘in the past’/‘in the future’, ‘earlier’/‘later’, ‘long ago’;
+       (v)   specified distance within a cycle or measured by cycles: ‘last night’/
+             ‘tonight’, ‘today’/‘yesterday’/‘tomorrow’, ‘two days ago’/‘two days
+             hence’.
+ 2. Durations
+    c. from one time to another:
+       (vi)  one time specified: ‘since yesterday’, ‘until tomorrow’;
+       (vii) both times specified: ‘from yam harvest to taro harvest’;
+    d. length of time: ‘for a long time’.</li>
 
 
 <a id="p-296"></a>
@@ -75,7 +92,11 @@ In most Oceanic languages, the times of the day form a rough taxonomy, with the 
 
 <a id="p-300"></a>
 
-<ol><li>night</li> <li>daytime <ol><li>early morning, from dawn to 9 or 10 a.m.</li> <li>middle of the day, from 9 or 10 a.m. to about 3 p.m.</li> <li>late afternoon and evening, from 3 p.m. to sunset</li> </ol></li> </ol>
+ 1. night
+ 2. daytime
+    (a) early morning, from dawn to 9 or 10 a.m.
+    (b) middle of the day, from 9 or 10 a.m. to about 3 p.m.
+    (c) late afternoon and evening, from 3 p.m. to sunset
 
 The first-order division is, as we might expect, into night and daytime. I have opted to put ‘night’ first, as POc _&ast;boŋi_ ‘night’ also served as the word for the twenty-four hour period. In Fijian, for example, certain feasts have names like _boŋi-lima_, literally ‘five nights’, denoting the fact that they last five days. In Hawaiian (Pn), the day began at sunset, and this is perhaps the case elsewhere in Oceania. The Motu (PT) expression _varani hanuaboi_ (‘yesterday’ + ‘night’) is interesting in this regard, as it means ‘two nights ago’. That is, the night belonging to yesterday is the one that precedes it rather than the one that follows it.
 
@@ -90,193 +111,176 @@ Below I give taxonomies drawn from Drehet (Adm), Takia (NNG), Gapapaiwa (PT), Ki
 
 <a id="p-301"></a>
 
-```
-Drehet (Adm)
- night                        [kom]piŋ N
-    midnight                  kxikilie-piŋ ADV (kxikilie ‘middle’, piŋ ‘night’)
-    pre-dawn                  hepwehe-laŋ ADV (laŋ ‘daytime’)
- daytime                      laŋ N
- morning                      kxepiŋ N (piŋ ‘night’)
-    dawn                      koŋ-tupurip ADV (koŋ ‘place’)
-    early morning             kxekxepiŋ N (kxepiŋ ‘morning’)
-    (at) sunrise              aŋ imi liki ADVP (aŋ ‘sun’, imi ‘come’, liki ‘up top’)
-                              aŋ yaʔaŋ ADVP (aŋ ‘sun’, yaʔaŋ ‘go through’)
- middle of day                —
-   (at) mid-morning           aŋ tikimiŋ mʷalaŋ ADVP (aŋ ‘sun’, tikimiŋ ‘be present’, mʷalaŋ ‘hill’)
-   (at) noon                  aŋ imi kxikilie koŋ ADVP (aŋ ‘sun’, imi ‘come’, kxikilie ‘middle’, koŋ
-                              ‘place’)
- afternoon/evening            piyih N
-    (at) sunset               aŋ ilie pʷiniek ADV (aŋ ‘sun’, ilie ‘go’, pʷiniek ‘down below’)
-                              upayah V
-```
+| Drehet (Adm)       |                                                                                |
+|:-------------------|:-------------------------------------------------------------------------------|
+| __night__          | _[kom]piŋ_ N                                                                   |
+| ‣ midnight         | _kxikilie-piŋ_ ADV (_kxikilie_ ‘middle’, piŋ ‘night’)                          |
+| ‣ pre-dawn         | _hepwehe-laŋ_ ADV (_laŋ_ ‘daytime’)                                            |
+| __daytime__        | _laŋ_ N                                                                        |
+| morning            | _kxepiŋ_ N (_piŋ_ ‘night’)                                                     |
+| ‣ dawn             | _koŋ-tupurip_ ADV (_koŋ_ ‘place’)                                              |
+| ‣ early morning    | _kxekxepiŋ_ N (_kxepiŋ_ ‘morning’)                                             |
+| ‣ (at) sunrise     | _aŋ imi liki_ ADVP (_aŋ_ ‘sun’, _imi_ ‘come’, _liki_ ‘up top’)                 |
+|                    | _aŋ yaʔaŋ_ ADVP (_aŋ_ ‘sun’, _yaʔaŋ_ ‘go through’)                             |
+| middle of day      | —                                                                              |
+| ‣ (at) mid-morning | _aŋ tikimiŋ mʷalaŋ_ ADVP (_aŋ_ ‘sun’, tikimiŋ ‘be present’, _mʷalaŋ_ ‘hill’)   |
+| ‣ (at) noon        | _aŋ imi kxikilie koŋ_ ADVP (_aŋ_ ‘sun’, _imi_ ‘come’, _kxikilie_ ‘middle’, koŋ |
+|                    | ‘place’)                                                                       |
+| afternoon/evening  | _piyih_ N                                                                      |
+| ‣ (at) sunset      | _aŋ ilie pʷiniek_ ADV (_aŋ_ ‘sun’, _ilie_ ‘go’, _pʷiniek_ ‘down below’)        |
+|                    | _upayah_ V                                                                     |
 
-```
-Takia (NNG)
- night                        tidom N
- daylight/daytime             ad, adad N (ad ‘sun’)
- sunrise to sunset            nal N
- morning[^7]                     tidomlom ADV (tidom ‘night’, lo ‘in’, mi ‘only’)
-    dawn                      salso, sasulo
- midday                       ad uyan, adian NP (ad ‘sun’, uyan ‘good’)
-   noon                       ad biben NP (ad ‘sun’, biben ‘its heart’)
- afternoon/evening[^8]           gurai, guraian (? < gurai uyan ‘evening’ + ‘good’) N, NP
-```
+| Takia (NNG)           |                                                                |
+|:----------------------|:---------------------------------------------------------------|
+| __night__             | _tidom_ N                                                      |
+| __daylight/daytime__  | _ad_, _adad_ N (_ad_ ‘sun’)                                    |
+| __sunrise to sunset__ | _nal_ N                                                        |
+| morning[^7]            | _tidomlom_ ADV (_tidom_ ‘night’, _lo_ ‘in’, _mi_ ‘only’)       |
+| ‣ dawn                | _salso_, _sasulo_                                              |
+| midday                | _ad uyan_, _adian_ NP (_ad_ ‘sun’, _uyan_ ‘good’)              |
+| ‣ noon                | _ad biben_ NP (_ad_ ‘sun’, _biben_ ‘its heart’)                |
+| afternoon/evening[^8]  | _gurai_, _guraian_ (? < _gurai uyan_ ‘evening’ + ‘good’) N, NP |
 
-```
-Gapapaiwa (PT)
- night                        didibara N
-    midnight                  pom baso NP (pom apparently archaic ‘night’)
-    just before sunrise       mara didibarai ADVP (mara ‘time’, didibara ‘night’, -i POSTP)
- daylight                 gabudara (archaic: ‘sun, day, time’) N, madeɣa N
- morning, sunrise to 10 a.m.
-                          boiboi N
-    sunrise, dawn             mara tomtom (mara ‘time’, tomtom ‘k.o. seaweed’)
-    just after sunrise        mara boiboi (mara ‘time’, boiboi ‘morning’)
- midday                       madeɣa pu NP (madeɣa ‘daylight’, pu ‘middle’)
- afternoon/evening, about 3 to 7 p.m.
-                        ravi ADV
-      about 3 to 5 p.m.       ravi madeɣinai ADVP (ravi ‘evening’, madeɣina ‘its light’, -i POSTP)
-      about 5 to 7 p.m.       ravi didibarai ADVP (ravi ‘evening’, didibara ‘night’, -i POSTP)
-      sundown                 ravi pikana NP (ravi ‘evening’)
-      sunset                  madeɣa ivokutuvi (madeɣa ‘daylight’)
-```
+| Gapapaiwa (PT)                       |                                                                            |
+|:-------------------------------------|:---------------------------------------------------------------------------|
+| __night__                            | _didibara_ N                                                               |
+| ‣ midnight                           | _pom baso_ NP (_pom_ apparently archaic ‘night’)                           |
+| ‣ just before sunrise                | _mara didibarai_ ADVP (_mara_ ‘time’, _didibara_ ‘night’, -i POSTP)        |
+| __daylight__                         | _gabudara_ (archaic: ‘sun, day, time’) N, _madeɣa_ N                       |
+| morning, sunrise to 10 a.m.          | _boiboi_ N                                                                 |
+| ‣ sunrise, dawn                      | _mara tomtom_ (_mara_ ‘time’, _tomtom_ ‘k.o. seaweed’)                     |
+| ‣ just after sunrise                 | _mara boiboi_ (_mara_ ‘time’, _boiboi_ ‘morning’)                          |
+| midday                               | _madeɣa pu_ NP (_madeɣa_ ‘daylight’, _pu_ ‘middle’)                        |
+| afternoon/evening, about 3 to 7 p.m. | _ravi_ ADV                                                                 |
+| ‣ about 3 to 5 p.m.                  | _ravi madeɣinai_ ADVP (_ravi_ ‘evening’, _madeɣina_ ‘its light’, -i POSTP) |
+| ‣ about 5 to 7 p.m.                  | _ravi didibarai_ ADVP (_ravi_ ‘evening’, _didibara_ ‘night’, -i POSTP)     |
+| ‣ sundown                            | _ravi pikana_ NP (_ravi_ ‘evening’)                                        |
+| ‣ sunset                             | _madeɣa ivokutuvi_ (_madeɣa_ ‘daylight’)                                   |
 
 
 <a id="p-302"></a>
 
-```
-Kiriwina (PT)
- night                        bogi/[b]ibog N/ADV
-      midnight                lubulotoula/elubulotoula N/ADV
-      first streak of dawn    bulubuvisiga ADV
-      halflight               dudubali
-      about 5 a.m.            kikivisiga
- daytime                      yam/iyam N/ADV
- morning, 6–9am               kaukwau, gabogi (bogi ‘night’)
-      early morning           o-lile-yam ADV
-      dawn                    isiga ADV
-      sunrise                 iyuwola kalasia VP (-yuwola ‘rise’, kalasia ‘sun’)
-      about 9 a.m.            ipokala valu (-pokala ‘present, give’, valu ‘land’)
- midday                       lalavi/ilalavi N/ADV
-      noon                    itowota kalasia VP (kalasia ‘sun’)
- afternoon/evening            kwayavi/ikwayavi N/ADV
-      about 3 p.m.            itobalia kalasia VP (kalasia ‘sun’)
-      sunset                  isalili kalasia VP (-salilia ‘drown’, kalasia ‘sun’)
-```
+| Kiriwina (PT)          |                                                            |
+|:-----------------------|:-----------------------------------------------------------|
+| __night__              | _bogi_/_[b]ibog_ N/ADV                                     |
+| ‣ midnight             | _lubulotoula_/_elubulotoula_ N/ADV                         |
+| ‣ first streak of dawn | _bulubuvisiga_ ADV                                         |
+| ‣ halflight            | _dudubali_                                                 |
+| ‣ about 5 a.m.         | _kikivisiga_                                               |
+| __daytime__            | _yam_/_iyam_ N/ADV                                         |
+| morning, 6–9am         | _kaukwau_, _gabogi_ (_bogi_ ‘night’)                       |
+| ‣ early morning        | _o-lile-yam_ ADV                                           |
+| ‣ dawn                 | _isiga_ ADV                                                |
+| ‣ sunrise              | _iyuwola kalasia_ VP (_-yuwola_ ‘rise’, _kalasia_ ‘sun’)   |
+| ‣ about 9 a.m.         | _ipokala valu_ (_-pokala_ ‘present, give’, _valu_ ‘land’)  |
+| midday                 | _lalavi_/_ilalavi_ N/ADV                                   |
+| ‣ noon                 | _itowota kalasia_ VP (_kalasia_ ‘sun’)                     |
+| afternoon/evening      | _kwayavi_/_ikwayavi_ N/ADV                                 |
+| ‣ about 3 p.m.         | _itobalia kalasia_ VP (_kalasia_ ‘sun’)                    |
+| ‣ sunset               | _isalili kalasia_ VP (_-salilia_ ‘drown’, _kalasia_ ‘sun’) |
 
-```
-Motu (PT)
- night                        hanuaboi N, boi N
-      middle of the night     malo N
-      midnight                malokihi, malo hevani
-      morning twilight        daba vaburana NP (vabura ‘twilight’)
- daylight                     rani N, V
- morning                      daba N
-      peep of dawn            daba e kinia VP (kinia ‘nip’)
-      first shafts of light   daba e rotoa VP (rotoa ‘cut in strips’)
-      light in the east       daba e daria VP (daria ‘husk, tear’)
-      light before sunrise    daba mamana NP (mama ‘light from lamp’)
-      dawn                    daba e mamaia VP (mamaia ‘chew’)
-      daybreak                daba matana NP (mata ‘eye’)
-      early morning           galuna
-      dawn ‘spreads’          daba e tataia VP (tataia ‘strike, hit’)
-      daylight                daba e rere VP, daba rere NP (rere ‘(go) from place to place’)
- daytime, sun                 dina N
-      about 9 a.m.            dina e taolara VP
-      9 a.m.–noon             dina e tubua VP (tubua ‘grow’)
-   midday                   adoata N (ado ‘sun’ [not used independently], ata ‘up above’)
-   about 3 p.m.             dina gelona NP
- afternoon/evening          adorahi N (ado ‘sun’ [not used independently])
-   (just before) sunset     dina kerekere VP, dina kerekerena NP (kerena ‘light reflected in
-                            the sea’)
-   evening twilight         mairu
-   7–8 p.m.                 adorahi gamagamana NP
-```
+| Motu (PT)               |                                                                                  |
+|:------------------------|:---------------------------------------------------------------------------------|
+| __night__               | _hanuaboi_ N, _boi_ N                                                            |
+| ‣ middle of the night   | _malo_ N                                                                         |
+| ‣ midnight              | _malokihi_, _malo hevani_                                                        |
+| ‣ morning twilight      | _daba vaburana_ NP (_vabura_ ‘twilight’)                                         |
+| __daylight__            | _rani_ N, V                                                                      |
+| morning                 | _daba_ N                                                                         |
+| ‣ peep of dawn          | _daba e kinia_ VP (_kinia_ ‘nip’)                                                |
+| ‣ first shafts of light | _daba e rotoa_ VP (_rotoa_ ‘cut in strips’)                                      |
+| ‣ light in the east     | _daba e daria_ VP (_daria_ ‘husk, tear’)                                         |
+| ‣ light before sunrise  | _daba mamana_ NP (_mama_ ‘light from lamp’)                                      |
+| ‣ dawn                  | _daba e mamaia_ VP (_mamaia_ ‘chew’)                                             |
+| ‣ daybreak              | _daba matana_ NP (_mata_ ‘eye’)                                                  |
+| ‣ early morning         | _galuna_                                                                         |
+| ‣ dawn ‘spreads’        | _daba e tataia_ VP (_tataia_ ‘strike, hit’)                                      |
+| ‣ daylight              | _daba e rere_ VP, _daba rere_ NP (_rere_ ‘(go) from place to place’)             |
+| daytime, sun            | _dina_ N                                                                         |
+| ‣ about 9 a.m.          | _dina e taolara_ VP                                                              |
+| ‣ 9 a.m.–noon           | _dina e tubua_ VP (_tubua_ ‘grow’)                                               |
+| ‣ midday                | _adoata_ N (_ado_ ‘sun’ [not used independently], _ata_ ‘up above’)              |
+| ‣ about 3 p.m.          | _dina gelona_ NP                                                                 |
+| afternoon/evening       | _adorahi_ N (_ado_ ‘sun’ [not used independently])                               |
+| ‣ (just before) sunset  | _dina kerekere_ VP, _dina kerekerena_ NP (_kerena_ ‘light reflected in the sea’) |
+| ‣ evening twilight      | _mairu_                                                                          |
+| ‣ 7–8 p.m.              | _adorahi gamagamana_ NP                                                          |
 
 
 <a id="p-303"></a>
 
-```
-Gela (SES)
- night                      boŋi N
-   all night, until morning dai-dani-hagi
-   midnight                 kutu ni boŋi NP (kutu ‘stomach, womb’, boŋi ‘night), boŋi hau
-                            (hau ‘raise, lift’)
-   cockcrow, 4 a.m.         danimarao
-   after cockcrow           labota
-   morning twilight         labota mulemule (mulemule ‘be nauseated’)
-   just before dawn         marao
- daytime                    dani N, daidani
- morning                    puipuŋi N
-   sunrise                  soga ni aho NP (soga ‘jump’)
-   dawn                     na dani te vavala VP
-   break, of dawn           lavahi V
- middle of the day          kutu ni dani NP (kutu ‘stomach, womb’, dani ‘daytime),
-                            danikama (kama ‘big’)
-   noon                     hinagota (hina ‘sunlight’), turinunu (turi ‘walk’, nunu ‘shadow’)
-   latter part of the day   levu ni dani (levu ‘side’)
- afternoon/evening          nulavi
- dusk                       lioliohahi
-```
+| Gela (SES)                 |                                                                                             |
+|:---------------------------|:--------------------------------------------------------------------------------------------|
+| __night__                  | _boŋi_ N                                                                                    |
+| ‣ all night, until morning | _dai-dani-hagi_                                                                             |
+| ‣ midnight                 | _kutu ni boŋi_ NP (_kutu_ ‘stomach, womb’, _boŋi_ ‘night), _boŋi hau_ (_hau_ ‘raise, lift’) |
+| ‣ cockcrow, 4 a.m.         | _danimarao_                                                                                 |
+| ‣ after cockcrow           | _labota_                                                                                    |
+| ‣ morning twilight         | _labota mulemule_ (_mulemule_ ‘be nauseated’)                                               |
+| ‣ just before dawn         | _marao_                                                                                     |
+| __daytime__                | _dani_ N, _daidani_                                                                         |
+| morning                    | _puipuŋi_ N                                                                                 |
+| ‣ sunrise                  | _soga ni aho_ NP (_soga_ ‘jump’)                                                            |
+| ‣ dawn                     | _na dani te vavala_ VP                                                                      |
+| ‣ break, of dawn           | _lavahi_ V                                                                                  |
+| middle of the day          | _kutu ni dani_ NP (_kutu_ ‘stomach, womb’, _dani_ ‘daytime), _danikama_ (_kama_ ‘big’)      |
+| ‣ noon                     | _hinagota_ (_hina_ ‘sunlight’), _turinunu_ (_turi_ ‘walk’, _nunu_ ‘shadow’)                 |
+| ‣ latter part of the day   | _levu ni dani_ (_levu_ ‘side’)                                                              |
+| afternoon/evening          | _nulavi_                                                                                    |
+| dusk                       | _lioliohahi_                                                                                |
 
-```
-Marshallese (Mic)
- night                      pɯoŋw V
-   midnight                 lukwən pɯoŋw N (lukwə- ‘middle’, pɯoŋw ‘night’)
- day                        ṛɯān N
- morning                    cippɯoŋw V (cip ‘rise’, pɯoŋw ‘night’)
-   sunrise                  takinalɯ (alɯ ‘sun’)
-   daybreak, dawn           okṛɯān V (okaṛɯ ‘root’, ṛɯān ‘day’), ṛɯāntak V (ṛɯān ‘day’, tak
-                            ‘upward’), ciṛɯān (ṛɯān ‘day’), corɯāntak V (co ‘appear’, ṛɯāntak
-                            ‘daybreak’), mɯəcawʌnene N, V
- noon                       raɛlɛp V
-   hottest time of day      pwiltəŋtəŋ N (pwil ‘hot’, təŋtəŋ ‘most’)
- evening                    cota V
-   sunset                   tulbkun alɯ (tulbk ‘go down’, alɯ ‘sun’)
-```
+| Marshallese (Mic)      |                                                                                                                                                                                         |
+|:-----------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| __night__              | _pᵚoŋw_ V                                                                                                                                                                               |
+| ‣  midnight            | _lukʷən pᵚoŋʷ_ N (_lukʷə-_ ‘middle’, _pᵚoŋʷ_ ‘night’)                                                                                                                                   |
+| __day__                | _ṛᵚān_ N                                                                                                                                                                                |
+| morning                | _cippᵚoŋʷ_ V (_cip_ ‘rise’, _pᵚoŋʷ_ ‘night’)                                                                                                                                            |
+| ‣  sunrise             | _takinalᵚ_ (_alᵚ_ ‘sun’)                                                                                                                                                                |
+| ‣  daybreak, dawn      | _ɔkṛᵚān_ V (_ɔkaṛᵚ_ ‘root’, _ṛᵚān_ ‘day’), _ṛᵚāntak_ V (_ṛᵚān_ ‘day’, _tak_ ‘upward’), _ciṛᵚān_ (_ṛᵚān_ ‘day’), _corᵚāntak_ V (_co_ ‘appear’, _ṛᵚāntak_ ‘daybreak’), _mᵚəcawʌnene_ N, V |
+| noon                   | _raɛlɛp_ V                                                                                                                                                                              |
+| ‣  hottest time of day | _pʷiltəŋtəŋ_ N (_pʷil_ ‘hot’, _təŋtəŋ_ ‘most’)                                                                                                                                          |
+| evening                | _cota V                                                                                                                                                                                 |
+| ‣  sunset              | _tulɒkun alᵚ (_tulɒk_ ‘go down’, _alᵚ_ ‘sun’)                                                                                                                                           |
 
 
 <a id="p-304"></a>
 
-```
-Wayan (Fij)
- night                       boŋi N, V
-      just after dark        aviavi boŋi N (aviavi ‘evening’, boŋi ‘night’)
-      midnight               boŋilevu V (boŋi ‘night’, levu ‘big’)
-      before sunrise         gwatagwata boŋiboŋi N, V (gwatagwata ‘morning’, boŋi ‘night’)
- daytime                     siŋa V
- morning                     gwatagwata V (gwata ‘go out before dawn’)
-      be nearly morning       mata gwatagwata
-      just before and around dawn gwatagwata ðakaðā
-      dawn                    gwatagwata tūtū V (gwatagwata ‘morning’, tūtū ‘exactly’)
-      dawn, daylight          ðeðe N, V (= ‘be light’)
- midday                  siŋa-levu V (siŋa ‘day’, levu ‘big’)
- late afternoon, evening aviavi V
-      mid-afternoon          aviavi tūtū N (aviavi ‘afternoon’, tūtū ‘exactly’)
-      almost twilight        sī-aviavi ðeðe V (sī-aviavi ‘twilight’, ðeðe ‘be light’)
-      afternoon twilight     sī-aviavi V
-      just before dusk       karati-avi V
-      be almost dusk         mata boŋi
-      dusk                   sī-aviavi karawa V (sī-aviavi ‘twilight’, karawa ‘blue-green’)
-```
+| Wayan (Fij)                   |                                                                      |
+|:------------------------------|:---------------------------------------------------------------------|
+| __night__                     | _boŋi_ N, V                                                          |
+| ‣ just after dark             | _aviavi boŋi_ N (_aviavi_ ‘evening’, _boŋi_ ‘night’)                 |
+| ‣ midnight                    | _boŋilevu_ V (_boŋi_ ‘night’, _levu_ ‘big’)                          |
+| ‣ before sunrise              | _gʷatagʷata boŋiboŋi_ N, V (_gʷatagʷata_ ‘morning’, _boŋi_ ‘night’)  |
+| __daytime__                   | _siŋa_ V                                                             |
+| morning                       | _gʷatagʷata_ V (_gʷata_ ‘go out before dawn’)                        |
+| ‣ be nearly morning           | _mata gʷatagʷata_                                                    |
+| ‣ just before and around dawn | _gʷatagʷata ðakaðā_                                                  |
+| ‣ dawn                        | _gʷatagʷata tūtū_ V (_gʷatagʷata_ ‘morning’, _tūtū_ ‘exactly’)       |
+| ‣ dawn, daylight              | _ðɵ̄ðɵ̄_ N, V (= ‘be light’)                                         |
+| midday                        | _siŋa-levu_ V (_siŋa_ ‘day’, _levu_ ‘big’)                           |
+| late afternoon, evening       | _aviavi_ V                                                           |
+| ‣ mid-afternoon               | _aviavi tūtū_ N (_aviavi_ ‘afternoon’, _tūtū_ ‘exactly’)             |
+| ‣ almost twilight             | _sī-aviavi ðɵ̄ðɵ̄_ V (_sī-aviavi_ ‘twilight’, _ðɵ̄ðɵ̄_ ‘be light’)   |
+| ‣ afternoon twilight          | _sī-aviavi_ V                                                        |
+| ‣ just before dusk            | _karati-avi_ V                                                       |
+| ‣ be almost dusk              | _mata boŋi_                                                          |
+| ‣ dusk                        | _sī-aviavi karawa_ V (_sī-aviavi_ ‘twilight’, _karawa_ ‘blue-green’) |
 
-```
-Niuean (Pn)
-Note: maŋa-aho, moŋo ‘part of day’
- night                 pō N/V
-      midnight               maŋa-aho tulotopō NP (pō ‘night’)
- daylight                    aho N
- morning                     poŋi-poŋi N
-      dawn                   maŋa-aho maheŋiheŋi NP (maheŋiheŋi ‘be twilight’)
-      sunrise                moŋo hake laā NP (hake ‘rise’, laā ‘sun’)
-      early morning          maŋa-aho kō moa NP (kō ‘crow’, moa ‘chicken’)
- middle of the day           —
-      broad daylight         aho-teka NP (aho ‘daylight’, -teka ‘very’), aho-tea
-      midday                 moŋo/maŋa-aho tūpou laā NP (tūpou ‘be directly above’, laā ‘sun’)
-      afternoon              moŋo/maŋa-aho pale laā NP (pale ‘turn’, laā ‘sun’)
- late afternoon, evening afi-afi N
-      sunset                 moŋo/maŋa-aho tō laā NP (tō ‘fall’, laā ‘sun’)
-```
+| Niuean (Pn)             | Note: maŋa-aho, moŋo ‘part of day’                                      |
+|:------------------------|:------------------------------------------------------------------------|
+| __night__               | _pō_ N/V                                                                |
+| ‣ midnight              | _maŋa-aho tulotopō_ NP (_pō_ ‘night’)                                   |
+| __daylight__            | _aho_ N                                                                 |
+| morning                 | _poŋi-poŋi_ N                                                           |
+| ‣ dawn                  | _maŋa-aho maheŋiheŋi_ NP (_maheŋiheŋi_ ‘be twilight’)                   |
+| ‣ sunrise               | _moŋo hake laā_ NP (_hake_ ‘rise’, _laā_ ‘sun’)                         |
+| ‣ early morning         | _maŋa-aho kō moa_ NP (_kō_ ‘crow’, _moa_ ‘chicken’)                     |
+| middle of the day       | —                                                                       |
+| ‣ broad daylight        | _aho-teka_ NP (_aho_ ‘daylight’, _-teka_ ‘very’), _aho-tea_             |
+| ‣ midday                | _moŋo/maŋa-aho tūpou laā_ NP (_tūpou_ ‘be directly above’, _laā_ ‘sun’) |
+| ‣ afternoon             | _moŋo/maŋa-aho pale laā_ NP (_pale_ ‘turn’, _laā_ ‘sun’)                |
+| late afternoon, evening | _afi-afi_ N                                                             |
+| ‣ sunset                | _moŋo/maŋa-aho tō laā_ NP (_tō_ ‘fall’, _laā_ ‘sun’)                    |
 
 
 <a id="s-2-2"></a>
@@ -289,42 +293,40 @@ Note: maŋa-aho, moŋo ‘part of day’
 
 A reconstructable taxonomy for POc is given below (the word-class labels are none too certain). The primary terms for ‘night’ and ‘daylight’ were evidently &ast;boŋi and &ast;raqani. No third-order terms are reconstructable.
 
-```
- night                   &ast;boŋi N, V ‘night, day of twenty-four hours’
-                         &ast;rodrom V ‘be dark, be night’
-                         &ast;marom V ‘be dark’
-  daylight               &ast;raqani N, V ‘daytime, daylight’
-                         &ast;qaco N ‘sun, daylight’
-                         &ast;sinaR N, V ‘shine, sun’
- morning                 &ast;boŋi-boŋi N, ADV ‘early morning from dawn to perhaps
-                           about 10 a.m.’
- middle of the day       —
- late afternoon, evening &ast;Rapi N, &ast;Rapi-Rapi ADV ‘late afternoon and evening,
-                           from about 3 p.m. to sunset’
-```
+|                         |                                                                                   |
+|:------------------------|:----------------------------------------------------------------------------------|
+| __night__               | _&ast;boŋi_ N, V ‘night, day of twenty-four hours’                                    |
+|                         | _&ast;rodrom_ V ‘be dark, be night’                                                   |
+|                         | _&ast;marom_ V ‘be dark’                                                              |
+| __daylight__            | _&ast;raqani_ N, V ‘daytime, daylight’                                                |
+|                         | _&ast;qaco_ N ‘sun, daylight’                                                         |
+|                         | _&ast;sinaR_ N, V ‘shine, sun’                                                        |
+| morning                 | _&ast;boŋi-boŋi_ N, ADV ‘early morning from dawn to perhaps about 10 a.m.’            |
+| middle of the day       | —                                                                                 |
+| late afternoon, evening | &ast;Rapi N, &ast;Rapi-Rapi ADV ‘late afternoon and evening, from about 3 p.m. to sunset’ |
 
-[Pawley](../sources/Pawleynd) ([n.d.](../sources/Pawleynd)) notes an idiomatic construction in which at least some of these terms co- occurred with POc _&ast;panua_ which, among other things, meant ‘the visible world, land and sky’ (vol. 1, p.62). The combination of _&ast;panua_ and _&ast;boŋi_, probably as a verb, is reflected in:
+[Pawley](../sources/Pawleynd) ([n.d.](../sources/Pawleynd)) notes an idiomatic construction in which at least some of these terms co-occurred with POc _&ast;panua_ which, among other things, meant ‘the visible world, land and sky’ (vol. 1, p.62). The combination of _&ast;panua_ and _&ast;boŋi_, probably as a verb, is reflected in:
 
-```
-  Motu (PT)                hanua-boi ‘night’
-  Wayan, Bauan (Fij)       boŋi na vanua ‘be night’
-  Rotuman (Fij)            hanua he poŋ ‘it is getting late, night is coming on’
-  Rennellese (Pn)          henua pō ‘night time’
-```
+|                    |                                                         |
+|:-------------------|:--------------------------------------------------------|
+| Motu (PT)          | _hanua-boi_ ‘night’                                     |
+| Wayan, Bauan (Fij) | _boŋi na vanua_ ‘be night’                              |
+| Rotuman (Fij)      | _hanua he poŋ_ ‘it is getting late, night is coming on’ |
+| Rennellese (Pn)    | _henua pō_ ‘night time’                                 |
 
 Presumably the combination meant something like ‘the world is becoming dark’. The expressions below reflect the same construction, with ‘night’ replaced by ‘daylight’:
 
-```
-  Lau (SES)               fanua sato ‘sunny weather’ (< POc &ast;qaco)
-  Wayan (Fij)             siŋa na vanua ‘be daylight’ (< POc &ast;sinaR)
-                          siŋa-levu na vanua ‘be midday’ (levu ‘big’)
-  Rotuman (Fij)           hanua ran ‘daylight, dawn’ (< POc &ast;raqani)
-```
+|               |                                                 |
+|:--------------|:------------------------------------------------|
+| Lau (SES)     | _fanua sato_ ‘sunny weather’ (< POc _&ast;qaco_)    |
+| Wayan (Fij)   | _siŋa na vanua_ ‘be daylight’ (< POc _&ast;sinaR_)  |
+|               | _siŋa-levu na vanua_ ‘be midday’ (_levu_ ‘big’) |
+| Rotuman (Fij) | _hanua ran_ ‘daylight, dawn’ (< POc _&ast;raqani_)  |
 
 
 <a id="s-2-2-1"></a>
 
-### 2.2.1 Night
+#### 2.2.1. Night
 
 
 POc _&ast;boŋi_ ‘night’ also meant ‘day of twenty-four hours’, to judge from the widely scattered reflexes with this meaning (see below NNG: Manam, Poeng; MM: Tolai; SES: Gela, Lau; NCV: Tamambo, Nokuku, Uripiv, Port Sandwich, Lonwolwol; Mic: Kiribatese; Pn: Samoan, Tuvalu, Nanumean, Rennellese, Hawaiian, Marquesan). Blust (ACD) notes that PMP _&ast;beRŋi_ is also reconstructable with both senses. The dual sense is not surprising: in European languages ‘day’ serves in the same way.
@@ -910,7 +912,7 @@ The two sets below probably do not reflect POc _&ast;rodrom_. Rather, _&ast;rodr
 
 <a id="s-2-2-2"></a>
 
-### 2.2.2 Daytime
+#### 2.2.2. Daytime
 
 
 The POc term which specifically denoted daylight was _&ast;raqani_, reconstructed in Chapter 6 (p.161), to which the reader is referred for further detail.
@@ -1029,7 +1031,7 @@ The POc term which specifically denoted daylight was _&ast;raqani_, reconstructe
 '<span>day</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>ṛᶭān</i></td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>ṛᵚān</i></td>
 <td>
 '<span>day, date</span>'</td>
 </tr>
@@ -1138,7 +1140,7 @@ The primary meaning of POc _&ast;qaco_ was ‘sun’, but it was also used for �
 '<span>sun</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>alᶭ</i></td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>alᵚ</i></td>
 <td>
 '<span>sun</span>'</td>
 </tr>
@@ -1274,7 +1276,7 @@ The primary meaning of POc _&ast;qaco_ was ‘sun’, but it was also used for �
 
 <a id="s-2-2-3"></a>
 
-### 2.2.3 Early morning: from dawn to 9 or 10 a.m.
+#### 2.2.3. Early morning: from dawn to 9 or 10 a.m.
 
 
 The POc term for the first few hours of daylight was _&ast;boŋi-boŋi_, self-evidently a reduplicated form of POc _&ast;boŋi_ ‘night’.
@@ -1400,16 +1402,16 @@ The POc term for the first few hours of daylight was _&ast;boŋi-boŋi_, self-ev
 
 Interestingly, terms for ‘early morning’ in some Oceanic languages that do not reflect _&ast;boŋi-boŋi_ nonetheless include that language’s root for ‘night’:
 
-|                   | night              | early morning                  |
-|:------------------|:-------------------|:-------------------------------|
-| Drehet (Adm)      | piŋ                | kxe-piŋ                        |
-| Lou (Adm)         | keli-peŋ           | pati-peŋ                       |
-| Loniu (Adm)       | peŋ                | ma-peŋ                         |
-| Bing (NNG)        | boŋan ‘last night’ | boŋ-sag (sag ‘only’)           |
-| Takia (NNG)       | tidom              | tidom-lom (lo ‘in’, mi ‘only’) |
-| Mapos Buang (NNG) | buk                | mon-buk                        |
-| Kiriwina (PT)     | bogi               | ga-bogi                        |
-| Marshallese (Mic) | pʷoŋ               | cip-pwoŋ (cip ‘rise’)          |
+|                   | night                | early morning                        |
+|:------------------|:---------------------|:-------------------------------------|
+| Drehet (Adm)      | _piŋ_                | _kxe-piŋ_                            |
+| Lou (Adm)         | _keli-peŋ_           | _pati-peŋ_                           |
+| Loniu (Adm)       | _peŋ_                | _ma-peŋ_                             |
+| Bing (NNG)        | _boŋan_ ‘last night’ | _boŋ-sag_ (_sag_ ‘only’)             |
+| Takia (NNG)       | _tidom_              | _tidom-lom_ (_lo_ ‘in’, _mi_ ‘only’) |
+| Mapos Buang (NNG) | _buk_                | _mon-buk_                            |
+| Kiriwina (PT)     | _bogi_               | _ga-bogi_                            |
+| Marshallese (Mic) | _pʷoŋ_               | _cip-pʷoŋ_ (cip ‘rise’)              |
 
 POc _&ast;puko_ ‘morning’ is only distributed over a certain area of Oceania — from New Britain to central Vanuatu — but this is enough to meet our criteria for POc reconstruction. To judge from the verbal morphology that occurs on a number of reflexes, _&ast;puko_ often occurred as a verb. Unfortunately none of the reflexes occurs with a gloss which would confirm that this referred to the same time period as POc _&ast;boŋi-boŋi_ ‘early morning’.
 
@@ -1547,25 +1549,25 @@ POc _&ast;puko_ ‘morning’ is only distributed over a certain area of Oceania
 
 <a id="s-2-2-4"></a>
 
-### 2.2.4 Middle of the day: from 9 or 10 a.m. to about 3 p.m.
+#### 2.2.4. Middle of the day: from 9 or 10 a.m. to about 3 p.m.
 
 
 Outside Polynesia, very few languages have a dedicated word for this part of the day, and those that do show no sign of cognation. Most languages have a phrasal expression, sometimes meaning ‘the middle of the day’:
 
-|                |                                                    |
-|:---------------|:---------------------------------------------------|
-| Loniu (Adm)    | tiko aŋ (tiko ‘middle’, aŋ ‘day, sun’)             |
-| Gapapaiwa (PT) | madeɣa pu (madeɣa ‘daylight’, pu ‘middle’)         |
-| Roviana (MM)   | korapa rane (korapa ‘middle’, rane ‘daylight’)     |
-| Gela (SES)     | kutu ni dani (kutu ‘stomach, womb’, dani ‘daytime) |
+|                |                                                          |
+|:---------------|:---------------------------------------------------------|
+| Loniu (Adm)    | _tiko aŋ_ (_tiko_ ‘middle’, _aŋ_ ‘day, sun’)             |
+| Gapapaiwa (PT) | _madeɣa pu_ (_madeɣa_ ‘daylight’, _pu_ ‘middle’)         |
+| Roviana (MM)   | _korapa rane_ (_korapa_ ‘middle’, _rane_ ‘daylight’)     |
+| Gela (SES)     | _kutu ni dani_ (_kutu_ ‘stomach, womb’, _dani_ ‘daytime) |
 
 Others have a noun phrase whose head is ‘sun, daylight’, modified by ‘big’ or ‘good’:
 
-|             |                                         |
-|:------------|:----------------------------------------|
-| Takia (NNG) | ad uyan, adian (ad ‘sun’, uyan ‘good’)  |
-| Gela (SES)  | dani-kama (dani ‘daylight’, kama ‘big’) |
-| Wayan (Fij) | siŋa-levu (siŋa ‘day’, levu ‘big’)      |
+|             |                                                |
+|:------------|:-----------------------------------------------|
+| Takia (NNG) | _ad uyan_, _adian_ (_ad_ ‘sun’, _uyan_ ‘good’) |
+| Gela (SES)  | _dani-kama_ (_dani_ ‘daylight’, _kama_ ‘big’)  |
+| Wayan (Fij) | _siŋa-levu_ (_siŋa_ ‘day’, _levu_ ‘big’)       |
 
 [Biggs and Clark](../sources/BiggsandClark1993) ([1993](../sources/BiggsandClark1993)) reconstruct PPn _&ast;qaho-atea_ ‘late morning and early afternoon’, from PPn _&ast;qaho_ ‘daylight’ and _&ast;qātea_ ‘clear, unobstructed’. The addition of Anejom reflexes raises the reconstruction to Proto Remote Oceanic _&ast;qaso-qatea_ (Lynch pers. comm.).
 
@@ -1648,7 +1650,7 @@ Others have a noun phrase whose head is ‘sun, daylight’, modified by ‘big�
 
 <a id="s-2-2-5"></a>
 
-### 2.2.5 Late afternoon and evening, from about 3 p.m. to sunset
+#### 2.2.5. Late afternoon and evening, from about 3 p.m. to sunset
 
 
 Just one term is reconstructable for this period of the day, POc _&ast;Rapi_.
@@ -1971,7 +1973,7 @@ There are also Micronesian reflexes. These are not listed above because they sho
 
 <a id="s-2-2-6"></a>
 
-### 2.2.6 Third-order terms for parts of the day
+#### 2.2.6. Third-order terms for parts of the day
 
 
 I have not been able to reconstruct any third-order terms for parts of the day. As the taxonomies above (pp.301–304) show, in modern Oceanic languages parts of the day smaller than ‘night’, ‘early morning’ and ‘late afternoon/evening’ are usually described by phrasal expressions. The only generalisation to be made is an obvious one—that ‘sunrise’ and ‘sunset’ are denoted by expressions meaning ‘the sun rises’ and ‘the sun sets’. Among the verbs for ‘rise’ and ‘set’ here were almost certainly _&ast;sake_ and _&ast;sipo_ respectively (see Ch. 6, pp.181–182 and Ch. 8, pp.271, 273).
@@ -2143,7 +2145,7 @@ The denotation of the first visible phase often makes reference to the moon’s 
 <td>Motu</td>
 <td><i>hua doɣaɣi</i></td>
 <td>
-'<span>new moon</span>' (<span>doɣaɣi ‘crescent shaped pearl shell ornament’</span>)</td>
+'<span>new moon</span>' (<span><em>doɣaɣi</em> ‘crescent shaped pearl shell ornament’</span>)</td>
 </tr>
 <tr>
 <td>MM</td>
@@ -2164,7 +2166,7 @@ The denotation of the first visible phase often makes reference to the moon’s 
 <td>Arosi</td>
 <td><i>siʔe-dahi</i></td>
 <td>
-'<span>a phase of the moon</span>' (<span>siʔe ‘rub fire’ or ‘stripes’, dahi ‘crescent shaped ornament made from gold-lipped pearlshell’</span>)</td>
+'<span>a phase of the moon</span>' (<span><em>siʔe</em> ‘rub fire’ or ‘stripes’, <em>dahi</em> ‘crescent shaped ornament made from gold-lipped pearlshell’</span>)</td>
 </tr>
 </table>
 
@@ -2283,14 +2285,14 @@ Mwotlap, where we know with reasonable certainly that the moon phases are roughl
 <td>Drehet</td>
 <td><i>puŋ rekxek</i></td>
 <td>
-'<span>moon phases: 1st and 3rd quarters</span>' (<span>puŋ ‘moon’, rekxek ‘a quarter, a piece’</span>)</td>
+'<span>moon phases: 1st and 3rd quarters</span>' (<span><em>puŋ</em> ‘moon’, <em>rekxek</em> ‘a quarter, a piece’</span>)</td>
 </tr>
 <tr>
 <td>NCV</td>
 <td>Mwotlap</td>
 <td><i>no-wol ɣaytɛ-ɣi</i></td>
 <td>
-'<span>one-third moon</span>' (<span>wol ‘moon’, ɣayte ‘half, piece’</span>)</td>
+'<span>one-third moon</span>' (<span><em>wol</em> ‘moon’, <em>ɣayte</em> ‘half, piece’</span>)</td>
 </tr>
 </table>
 
@@ -2389,7 +2391,7 @@ Probably the main seasons for POc speakers living in northwest Melanesia were me
 '<span>east wind</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>ṛᶭak</i></td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>ṛᵚak</i></td>
 <td>
 '<span>south, summer</span>'</td>
 </tr>
@@ -2863,7 +2865,7 @@ The reconstructions below are repeated from Chapter 8, but only reflexes with a 
 <tr>
 <td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>(ʔi) muʔa [-atu]</i></td>
 <td>
-'<span>formerly</span>' (<span>-atu DIR; p.279</span>)</td>
+'<span>formerly</span>' (<span><em>-atu</em> DIR; p.279</span>)</td>
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>(ana)mua</i></td>
@@ -3190,7 +3192,7 @@ POc temporal bases themselves were in general directionless, i.e. neutral betwee
 
 <a id="s-3-3-1"></a>
 
-### 3.3.1 Distances within a day
+#### 3.3.1. Distances within a day
 
 
 By distances within a day, I mean expressions corresponding to English ‘last night’, ‘tonight’, ‘this morning’, ‘this evening’. Oceanic data relating to these are very thin indeed. I suspect the main reason for this is that expressions consisting of ‘today’ or ‘yesterday’ plus ‘morning’ or ‘evening’ are often used, and they are simply not noted in dictionaries. For example:
@@ -3551,7 +3553,7 @@ The Southern Vanuatu members of the set below reflect a Proto South Vanuatu form
 <i>&ast;na-ñoRap</i>
 </td>
 <td>
-'<span>yesterday</span>' (<span><em>i na-ñoRap, </em>qa-na-ñoRap (?)</span>)</td>
+'<span>yesterday</span>' (<span><em><em>i na-ñoRap_, _</em>qa-na-ñoRap</em> (?)</span>)</td>
 </tr>
 <tr>
 <td>NNG</td><td><a href="../languages/lamogai">Lamogai</a></td><td><i>narnop</i></td>
@@ -4574,7 +4576,7 @@ There is also a variety of forms that seem to reflect a root _&ast;tuqu_ ‘tomo
 
 <a id="s-3-3-4"></a>
 
-### 3.3.4 A note on the derivations of ‘yesterday’ and ‘tomorrow’
+#### 3.3.4. A note on the derivations of ‘yesterday’ and ‘tomorrow’
 
 
 The derivational relationships (i) between POc _&ast;na-Rapi_ ‘yesterday’, _&ast;qa-na-Rapi_ ‘yesterday’ and POc _&ast;Rapi_ ‘evening’ and (ii) between POc _&ast;raqani_ ‘(become) daylight’ and POc _&ast;ma-raqani_ ‘tomorrow’ reflect a tendency across the world’s languages whereby terms for ‘yesterday’ and ‘tomorrow’ are derived from terms for ‘evening’ and ‘morning’ respectively. Terms meaning ‘in the evening’ and ‘in the morning’ lack temporal direction, but this is filled in by the presence of tense or (in some Oceanic languages) mood markers in the verb phrase, i.e. ‘in the evening’ is interpreted as ‘yesterday evening’, then comes by semantic extension to mean simply ‘yesterday’. A similar observation can be made for ‘tomorrow’. This interpretation is proposed by [Buck](../sources/Buck1949) ([1949](../sources/Buck1949):999–1000) for the similar derivations that are found for ‘tomorrow’ across much of the Indo-European family and for ‘yesterday’ in Modern Greek, and the Baltic and Slavonic languages. Parallel derivations have also occurred in Finnish and Estonian, in Turkic languages, in Arabic, in Pama-Nyungan and non-Pama-Nyungan Australian languages, in Siouan, in Chinese and in Japanese ([Ross 2001c](../sources/Ross2001c)).
@@ -4938,14 +4940,14 @@ The Proto Tanna (SV) and Proto Polynesian reflexes of _&ast;qa-na-_ lost the pas
 
 The contrast between _&ast;waRisa_ with and without _&ast;na-_ is reflected in the following pairs:
 
-|                    | &ast;waRisa  ‘day after tomorrow’   | &ast;[qa-]na-waRisa ‘day before yesterday’          |
-|:-------------------|:--------------------------------|:------------------------------------------------|
-| MM: Patpatar       | uaris                           | nauaris                                         |
-| MM: Tolai (Nodup)  | oari(a)                         | nari(a)                                         |
-| NCV: Mota          | arisa                           | anarisa                                         |
-| NCV: Port Sandwich | (x)ois                          | (xi)nois                                        |
-| SV: Sye            | wisas ‘five days hence’         | nowisas ‘five days ago’                         |
-| SV: Anejom         | (ho)viθ ‘three days from today’ | nviθ ‘day before yesterday, day after tomorrow’ |
+|                    | _&ast;waRisa_  ‘day after tomorrow’   | _&ast;[qa-]na-waRisa_ ‘day before yesterday’          |
+|:-------------------|:----------------------------------|:--------------------------------------------------|
+| MM: Patpatar       | _uaris_                           | _nauaris_                                         |
+| MM: Tolai (Nodup)  | _oari(a)_                         | _nari(a)_                                         |
+| NCV: Mota          | _arisa_                           | _anarisa_                                         |
+| NCV: Port Sandwich | _(x)ois_                          | _(xi)nois_                                        |
+| SV: Sye            | _wisas_ ‘five days hence’         | _nowisas_ ‘five days ago’                         |
+| SV: Anejom         | _(ho)viθ_ ‘three days from today’ | _nviθ_ ‘day before yesterday, day after tomorrow’ |
 
 
 <a id="p-334"></a>
@@ -5053,7 +5055,7 @@ Apparently an alternative way of expressing ‘the day after tomorrow’ in POc 
 
 <a id="s-3-3-6"></a>
 
-### 3.3.6 More than two days from now
+#### 3.3.6. More than two days from now
 
 
 A number of languages have terms meaning ‘in three days time’ (i.e. ‘the day after the day after tomorrow’) and ‘three days ago’, and some have similar terms for up to five days. However, there is no sign of cognacy among them, and it is difficult to reconstruct terms in lower-order proto languages, let alone POc.

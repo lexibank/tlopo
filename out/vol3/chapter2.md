@@ -138,7 +138,7 @@ These vegetation habitats are briefly described below, each with a listing of th
 
 <a id="s-3-1-1"></a>
 
-### 3.1.1 Coastal strand vegetation
+#### 3.1.1. Coastal strand vegetation
 
 
 Coastal strand vegetation falls into three zones, a herbaceous zone, beach scrub, and littoral forest.
@@ -163,7 +163,7 @@ As [Barrau](../sources/Barrau1955) ([1955](../sources/Barrau1955): 17) notes, in
 
 <a id="s-3-1-2"></a>
 
-### 3.1.2 Mangrove forest
+#### 3.1.2. Mangrove forest
 
 
 Mangrove forests occur on stretches of coastline sheltered from wave action or along estuaries or even on protected coral reefs, and especially in areas where there is regular rainfall which washes salt out of the soil. The mangrove forest may extend from seawater salinity on the seaward side to almost freshwater conditions on the landward side, where there is usually an abrupt transition to freshwater swamp forest. Mangrove forests are located in the intertidal zone, so the seaward margin undergoes much deeper twice-daily inundation than the landward margin. On the seaward margin species include A vicennia marina, Sonneratia caseolaris, S. alba and occasionally Ceriops tagal. Further landward Rhizophora and then Bruguiera species take over and the canopy assumes a forest stature. Towards its landward border the mangrove forest becomes more diverse, forming a canopy up to 25 m in height, and in the Bismarcks includes Lumnitzera littorea, Xylocarpus granatum, Excoecaria agallocha, Camptostemon schultzii, Heritiera littoralis, Intsia bijuga and Inocarpus fagifer. Intsia bijuga and Inocarpus fagifer are also common lowland rain forest and swamp forest trees. The more landward mangrove forest is more open and has an undergrowth of shrubs and low-stature trees including Dolichandrone spathacea and Myristica hollrungii. The Nypa fruticans palm also grows on the landward side of estuarine swamps (Paijmans 1976: 31-34, [Mueller-Dombois & Fosberg 1998](../sources/MuellerDomboisandFosberg1998):50--5 1).
@@ -176,7 +176,7 @@ In the Solomons Lumnitzera littorea, Ceriops tagal and Dolichandrone spathacea o
 
 <a id="s-3-1-3"></a>
 
-### 3.1.3 Freshwater swamp forest
+#### 3.1.3. Freshwater swamp forest
 
 
 Freshwater swamp forests occur on larger islands in areas where the water table, often brackish, is near the surface and during high-rainfall seasons sometimes above it. These locations are typically flat areas near the coast with poorly drained soils. In NW Island Melanesia, all large tracts of freshwater swamp forest are found in Bougainville and the Solomons. They are few and small in the Bismarcks: there are patches on the north coast of New Britain, two deltas in the south of New Ireland, and a small amount (about 7%) on Manus Island and Los Negros (Paijmans 1976:37-48, [Mueller-Dombois & Fosberg 1998](../sources/MuellerDomboisandFosberg1998):51-52,60,71, [Freyne & Bell 1982](../sources/FreyneandBell1982)). Since the homeland of POc speakers was quite clearly in the Bismarcks, no chap- ter in the present volume is devoted to freshwater swamp forest. The trees characteristic of this habitat are in any case all found elsewhere, usually in lowland rain forests.
@@ -184,7 +184,7 @@ Freshwater swamp forests occur on larger islands in areas where the water table,
 
 <a id="s-3-1-4"></a>
 
-### 3.1.4 Primary lowland rain forest
+#### 3.1.4. Primary lowland rain forest
 
 
 The most widely distributed natural vegetation habitat in NW Island Melanesia is lowland tropical rain forest. Its most important species belong to the genera Calophyllum, Campnosperma, Canarium, Cryptocarya, Dracontomelon, Ficus, Intsia, Octomeles, Pometia, Pterocymbium and Terminalia, along with Eucalyptus deglupta.
@@ -206,7 +206,7 @@ Much of the vegetation in NW Island Melanesia today is anthropogenic. It falls i
 
 <a id="s-3-2-1"></a>
 
-### 3.2.1 Garden vegetation
+#### 3.2.1. Garden vegetation
 
 
 
@@ -219,7 +219,7 @@ Garden vegetation today includes planted trees and sometimes wild trees that wer
 
 <a id="s-3-2-2"></a>
 
-### 3.2.2 Secondary lowland rain forest
+#### 3.2.2. Secondary lowland rain forest
 
 
 [Henderson & Hancock](../sources/HendersonandHancock1988) ([1988](../sources/HendersonandHancock1988): 323) give an account of the regrowth sequence in the Solomons. Secondary rain forest trees tend to be more light-demanding species, which include Acalypha grandis, Alphitonia incana, Hibiscus tiliaceus, Macaranga species, Melochia umbellata, Pipturus argenteus and Schleinitzia novo-guineensis, alongside planted species of M usa and Heliconia. As the fallow progresses, they lose their dominance to species typical of older regrowth such as Falcataria moluccana, Cananga odorata, Ficus species, Kleinhovia hospita, Rhus taitensis and Trichospermum psilocladum, along with the breadfruit and the mango and treeferns like Cyathea brackenridgei and C. lunulata. Gingers occur in the shrub layer, along with the palms Areca catechu and Caryota rumphiana. Finally, some of the large tree species of primary forest return, especially Pometia pinnata and Vitex cofassus.
@@ -232,7 +232,7 @@ Garden vegetation today includes planted trees and sometimes wild trees that wer
 
 <a id="s-3-2-3"></a>
 
-### 3.2.3 Grassland
+#### 3.2.3. Grassland
 
 
 Grasslands are quite rare in most of NW Island Melanesia, but occupy extensive areas of north Guadalcanal. They are dominated by kangaroo grass (Themeda australis), sword grass (Imperata cylindrica) and Pennisetum polystachion. They are usually maintained by regular burning. In less frequently burned areas Saccharum spontaneum and Miscanthus floridulus also occur. Phragmites karka and Cyperus species appear in more poorly drained areas ([Henderson & Hancock 1988](../sources/HendersonandHancock1988):318-319, Mueller-Dombois & Fosberg 1988: 56-57).
@@ -1140,7 +1140,7 @@ The first two categories appear at first sight to be rather similar, but the evi
 
 <a id="s-7-1-1"></a>
 
-### 7.1.1 Reflexes of POc _&ast;kayu_ 'tree, shrub'
+#### 7.1.1. Reflexes of POc _&ast;kayu_ 'tree, shrub'
 
 
 In several Western Oceanic languages some plant names begin with a prefix that means 'tree or shrub'. Examples from three languages are given below, together with the protoforms which they reflect. The three prefixes are Yabem _ka-_, Muyuw _a-_ and Patpatar _i-_, each of which is assumed to reflect POc _&ast;kayu_ 'tree'. Yabem _ka-_ occurs on most tree names, Muyuw _a-_ on many, and Patpatar _i-_ on just a few.[^17]
@@ -1252,7 +1252,7 @@ The inference to be drawn from these observations is that POc had a construction
 
 <a id="s-7-1-2"></a>
 
-### 7.1.2 POc _&ast;ka-_ in trisyllabic tree names
+#### 7.1.2. POc _&ast;ka-_ in trisyllabic tree names
 
 
 Among POc plant names trisyllables are rarer than disyllables, reflecting a pattern in POc stems generally. The first syllable of a number of trisyllables is reconstructed as _&ast;ka-_, with perhaps greater than chance frequency, and it seems probable that at least some of these also reflect the construction with _&ast;kayu_ posited above. Examples are:
@@ -1279,7 +1279,7 @@ The Bola (MM) reflex of POc _&ast;[ka]ŋaRi_ is _taŋari_, implying either repla
 
 <a id="s-7-1-3"></a>
 
-### 7.1.3 Reflexes of POc _&ast;puqu(n)_ 'tree, shrub' and _&ast;raun_ 'leaf'
+#### 7.1.3. Reflexes of POc _&ast;puqu(n)_ 'tree, shrub' and _&ast;raun_ 'leaf'
 
 
 In certain NCV languages tree names occur with one of two prefixes. In Tamambo, stems naming trees and large bushes (but not other plant types) are regularly prefixed with _vu-_ 'tree ', e.g. _vu-mambue_ 'chestnut tree ', _vu-niu_ 'coconut palm', _vu-ŋai-ŋai_ 'canarium nut tree' ([Jauncey 1997](../sources/Jauncey1997)). Vines, ferns, tubers and grasses are not prefixed with _vu-_, but Jauncey observes that 'some large kinds of bushes are marked as trees, but only if they do have a main central trunk'. This supports her inference that _vu-_ reflects POc _&ast;puqu(n)_ 'base of tree; source, origin' ([ch. 4, §2.1](../contributions/3-4#s-2-1)).
@@ -1351,7 +1351,7 @@ The classifier _faʔi_ is described by Deck as being used to count round, compac
 
 <a id="s-7-1-4"></a>
 
-### 7.1.4 POc _&ast;mala-_ 'resembling'
+#### 7.1.4. POc _&ast;mala-_ 'resembling'
 
 
 Plant names which begin with the POc prefix _&ast;mala-_ 'resembling' occur quite frequently in Oceanic languages.[^23] This has evidently been an important means of forming new plant names, most often by exploiting the resemblance of one tree to another.[^24] As in the reduplicative process described below ([§7.2](../contributions/3-2#s-7-2)), the tree denoted by a name with _&ast;mala-_ is generally inferior in some way to the one denoted by the plain root.

@@ -122,7 +122,7 @@ The remainder of this chapter is concerned with reconstructed forms for POc prop
 
 7.2.1 ‘big’/‘small’
 
-It was noted above that lexical replacement of terms for ‘big’ and ‘small’ is common, whilst ‘new’ has tended to remain constant since POc times. A moment’s reflection shows that this is also true in English, apparently because people tend to exaggerate size and to play word games with the terms for it. As well as _big_ we find _large_, _great_, _huge_, _gigantic_, _enormous_, _immense_, _colossal_, _mammoth_, _massive_, _prodigious_ and more recently _ginormous_ and _humungous_. However, what seem to have been the basic POc terms are reconstructable. They are _&ast;lapuat_ ‘big, large, important’, _&ast;qitik_, _&ast;qitek_ ‘small’ and _&ast;riki(t,q)_ ‘small’, and the circumstantial evidence presented above suggests that they were adjectival nouns. This inference is moderately supported in the case of _&ast;lapuat_ by the presence of two reflexes of the reduplicated intensified form _&ast;lap(u)-lapuat_ (Tigak _lap-lavu_, Marshallese _lɯap-lɯap_) and one of a reduplicated plural form _&ast;la-lapuat_ (Marshallese _lɯ-lɯap_). Both reduplication strategies characterised adjectival nouns in POc ([Ross 1998a](../sources/Ross1998a)).
+It was noted above that lexical replacement of terms for ‘big’ and ‘small’ is common, whilst ‘new’ has tended to remain constant since POc times. A moment’s reflection shows that this is also true in English, apparently because people tend to exaggerate size and to play word games with the terms for it. As well as _big_ we find _large_, _great_, _huge_, _gigantic_, _enormous_, _immense_, _colossal_, _mammoth_, _massive_, _prodigious_ and more recently _ginormous_ and _humungous_. However, what seem to have been the basic POc terms are reconstructable. They are _&ast;lapuat_ ‘big, large, important’, _&ast;qitik_, _&ast;qitek_ ‘small’ and _&ast;riki(t,q)_ ‘small’, and the circumstantial evidence presented above suggests that they were adjectival nouns. This inference is moderately supported in the case of _&ast;lapuat_ by the presence of two reflexes of the reduplicated intensified form _&ast;lap(u)-lapuat_ (Tigak _lap-lavu_, Marshallese _lɯap-lɯap_) and one of a reduplicated plural form _&ast;la-lapuat_ (Marshallese _lᵚ-lᵚap_). Both reduplication strategies characterised adjectival nouns in POc ([Ross 1998a](../sources/Ross1998a)).
 
 Elsewhere I have reconstructed the term for ‘big’ as &ast;labʷat ([Ross 1998a](../sources/Ross1998a):109), as the medial consonant in many of the forms below seems to reflect either _&ast;b_ or _&ast;bʷ_. The Loniu and SV forms offer apparent disambiguation in favour of _&ast;bʷ_. Whilst _&ast;labʷat_ must have occurred in the history of many of the forms below, it is not reflected by the Roviana, Hoava, SES, Mota or Raga forms, where the medial consonant appears to reflect _&ast;p_ The form _&ast;lapuat_ accounts for apparent reflexes of both _&ast;-bʷ-_ and _&ast;-p-_. The forms which appear to reflect _&ast;-p-_ do just that. Moreover, Tigak _lavu_, West Kara _labu_, Raga _lavoa_ and Bauan levu directly reflect medial _&ast;-pu-_.[^6] The forms which appear to reflect _&ast;-bʷ-_ also do just that, but this _&ast;-bʷ-_ reflects a later interstage: POc medial _&ast;-pua-_ became first _&ast;-pʷa-_, then _&ast;-bʷa-_.
 
@@ -280,17 +280,17 @@ The Mapos Buang and Mumeng Patep forms may be non-cognate, as their final -k ref
 '<span>big, important</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>lᶭap</i></td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>lᵚap</i></td>
 <td>
 '<span>great, large</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>lᶭ-lᶭap</i></td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>lᵚ-lᵚap</i></td>
 <td>
 '<span>great, large (PL)</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>lᶭap-lᶭap</i></td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>lᵚap-lᵚap</i></td>
 <td>
 '<span>very great, very large</span>'</td>
 </tr>
@@ -335,15 +335,15 @@ Inherited POc terms for ‘small’ were _&ast;qitik_, with a variant _&ast;qite
 
 In Proto Polynesian, _&ast;riki_ (reflecting POc _&ast;riki(t,q)_) had become plural, contrasting with PPn _&ast;qiti_ ‘small (SG)’ (from POc _&ast;qitik_), but there is no evidence that this had occurred at an earlier interstage. This contrast is reflected in the following compounds, which reflect PPn _&ast;tama_ ‘child’ (from POc _&ast;tama-_ ‘father’):
 
-| PPn        | &ast;tama-qiti   ‘child’   | &ast;tama-riki ‘children’   |
-|:-----------|:-----------------------|:------------------------|
-| Tongan     | (tama-siʔi)[^8]         | tama-iki                |
-| E Uvean    | (tama-siʔi)            | tama-liki               |
-| Rennellese | tama-ʔiti-ʔiti         | tama-giki               |
-| Hawaiian   | kama-iki (rare)        | kama-liʔi               |
-| Tahitian   | tama-iti               | tama-riʔi               |
-| Rarorongan | tama-iti               | tama-riki               |
-| Maori      | tama-iti               | tama-riki               |
+| PPn        | _&ast;tama-qiti_   ‘child’   | _&ast;tama-riki_ ‘children’   |
+|:-----------|:-------------------------|:--------------------------|
+| Tongan     | _(tama-siʔi)_[^8]         | _tama-iki_                |
+| E Uvean    | _(tama-siʔi)_            | _tama-liki_               |
+| Rennellese | _tama-ʔiti-ʔiti_         | _tama-giki_               |
+| Hawaiian   | _kama-iki (rare)_        | _kama-liʔi_               |
+| Tahitian   | _tama-iti_               | _tama-riʔi_               |
+| Rarorongan | _tama-iti_               | _tama-riki_               |
+| Maori      | _tama-iti_               | _tama-riki_               |
 
 The reconstruction of PPn _&ast;riki_ is complicated by the fact that Tongan has two forms: _iki_, reflecting _&ast;riki_, and _liki_, which occurs only in compounds. The latter may be a borrowing. On the other hand, it may reflect the separately reconstructable form POc _&ast;liki_ (see below). If it does, then we are left with the possibility that some of the Polynesian forms here attributed to POc _&ast;riki(t,q)_ instead reflect POc _&ast;liki_, as POc _&ast;r_ and _&ast;l_ have merged in all Polynesian languages other than Tongan and Niuean.
 
@@ -899,7 +899,7 @@ This seems to have remained a live metaphor for a long time (and is perhaps stil
 
 __igt__ Lewo (NCV): a. nari-n      sisi offspring-n child ‘a little kid’ (more literally ‘the offspring of children’) b. ane-n    laŋi mother-n wind ‘an immensely powerful hurricane’ (more literally ‘the mother of winds’)
 
-Similarly in Tinrin (New Caledonia) _hɯwɯ[n̡ã]_ is both ‘small’ and ‘child of, sprout of’.
+Similarly in Tinrin (New Caledonia) _hɯwɯ[ṇã]_ is both ‘small’ and ‘child of, sprout of’.
 
 [Matisoff](../sources/Matisoff1992) ([1992](../sources/Matisoff1992)) has examined ‘mother of’ and ‘child of’ constructions which serve as augmentatives and diminutives in a range of Asian languages. Interestingly, whilst he reports a number of cases where ‘mother of’ and ‘child of’ are lexicalised in collocations where they mean something like ‘the most important’ and ‘a component/member of’, in none of these cases do ‘mother of’ and ‘child of’ seem to have been lexicalised as independent lexemes meaning ‘large’ and ‘small’.
 
@@ -911,7 +911,7 @@ Similarly in Tinrin (New Caledonia) _hɯwɯ[n̡ã]_ is both ‘small’ and ‘c
 
 English (and other European languages) have several antonym pairs denoting dimensions. Tall refers to the longitudinal dimension of a vertically oriented object, long to the longitudinal dimension of a horizontally oriented object. Short is the antonym of both tall and long. Wide and narrow refer to the transverse dimension of a flat object, thick and thin to the transverse dimension of an object which is not flat. Far and near(by) refer to distances, not to objects.
 
-POc evidently made no horizontal/vertical distinction, so that _&ast;b(w)arapu_, _&ast;[ma]lago_ and _&ast;[ma]lawa_ were used for ‘tall’ and ‘long’, and the two latter items evidently also for ‘far’ ([§2.2.1](../contributions/2-7#s-2-2-1)). There are fewer reflexes of _&ast;tuku_ and _&ast;botoŋ_ ‘short’, so it is harder to know just how they were used ([§2.2.2](../contributions/2-7#s-2-2-2)).
+POc evidently made no horizontal/vertical distinction, so that _&ast;(b,bʷ)arapu_, _&ast;[ma]lago_ and _&ast;[ma]lawa_ were used for ‘tall’ and ‘long’, and the two latter items evidently also for ‘far’ ([§2.2.1](../contributions/2-7#s-2-2-1)). There are fewer reflexes of _&ast;tuku_ and _&ast;botoŋ_ ‘short’, so it is harder to know just how they were used ([§2.2.2](../contributions/2-7#s-2-2-2)).
 
 On the surface there appear to have been no POc etyma with the basic meanings ‘wide’ and ‘narrow’. However, it is just possible that _&ast;[ma]lawa_ simply denoted a large dimension, regardless of whether it was longitudinal (‘long’) or transverse (‘wide’). The evidence for this is indirect. POc _&ast;[ma]lawa_ ‘long, tall’ continues PMP _&ast;lawa_, glossed ‘wide’, but a number of non-Oceanic reflexes also mean long: Malagasy _lava_, Manggarai _lewe_, Ngadha _leva_, and Palue _lawa_ all mean ‘long’. Fordata _lawa_ is glossed ‘length’ (ACD). It therefore seems likely that PMP _&ast;lawa_ also meant ‘long’, and possible that POc _&ast;[ma]lawa_ meant both ‘wide’ and ‘long’.
 
@@ -1704,7 +1704,7 @@ POc _&ast;raŋi_ appears to be descended from PMP _&ast;dani_. The replacement o
 
 
 
-There was also a POc term &ast;tata ‘near’, perhaps an adverb:
+There was also a POc term _&ast;tata_ ‘near’, perhaps an adverb:
 
 <table id="2-7-2-2-207-POc-tata-a">
 <tr>
@@ -2106,7 +2106,7 @@ Two formally related terms are reconstructable for ‘thin’: _&ast;ma-tipi(s)_
 ## 3. Age
 
 
-Two POc terms for ‘new’ can be reconstructed: the adjectival noun _&ast;paqoRu_, which was also applied to animate beings in the sense of ‘young’ ([Pawley 1982b](../sources/Pawley1982b)), and _&ast;ka(l,r)abwa_, which has fewer reflexes, but as these occur in both MM and NCV languages, it must be reconstructed as POc. Meso-Melanesian reflexes of the latter reflect _&ast;-l-_, North and Central Vanuatu reflexes reflect _&ast;-r-_.
+Two POc terms for ‘new’ can be reconstructed: the adjectival noun _&ast;paqoRu_, which was also applied to animate beings in the sense of ‘young’ ([Pawley 1982b](../sources/Pawley1982b)), and _&ast;ka(l,r)abʷa_, which has fewer reflexes, but as these occur in both MM and NCV languages, it must be reconstructed as POc. Meso-Melanesian reflexes of the latter reflect _&ast;-l-_, North and Central Vanuatu reflexes reflect _&ast;-r-_.
 
 
 <a id="p-210"></a>
@@ -2969,7 +2969,7 @@ One colour term of the form _&ast;ma-_ + ROOT has no known non-Oceanic cognates.
 '<span>green, blue</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>maṛᶭɔṛᶭɔ</i></td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>maṛᵚɔṛᵚɔ</i></td>
 <td>
 '<span>green</span>'</td>
 </tr>
@@ -3406,7 +3406,7 @@ In the light of this discussion, I reconstruct two pairs of POc colour terms, _&
 <tr>
 <td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td><i>ɣenja(ɣa)</i></td>
 <td>
-'<span>blue-green</span>' (<span>ɣenja ‘k.o. blue-green fish’</span>)</td>
+'<span>blue-green</span>' (<span><em>ɣenja</em> ‘k.o. blue-green fish’</span>)</td>
 </tr>
 <tr>
 <td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td><i>kesa-kesa</i></td>
@@ -3707,7 +3707,7 @@ No term for ‘rough’ is reconstructable, but ‘smooth’, also with the sens
 
 One shape concept for which POc evidently had terms was ‘straight, level’. Reflexes of these terms often also include ‘true’ among their meanings, but I assume that the metaphorical extension was from shape to value (i.e. from visible to abstract), rather than vice versa.
 
-The data require that we reconstruct two variants for each of the three terms. Thus we reconstruct not only _&ast;[ma]koto_, whose canonic shape suggests that it is the inherited term, but also _&ast;ta-kodos_, which is derived from &ast;kodos ‘go straight; straighten’ (see p.196).[^21] I suspect that the verbs &ast;[ma]koto and &ast;kodos were separately inherited into POc (although no non-Oceanic cognates have been found) and that their formal similarity is attributable to derivation at an earlier stage, as POc _&ast;-t-_ and _&ast;-d-_ reflect PMP _&ast;-t-_ and _&ast;-nt-_ respectively. The Polynesian reflexes are attributed to the set with _&ast;-t-_ because of their similarity in meaning to Bauan koto. Formally, they could at least as well reflect POc &ast;ta-kodos.
+The data require that we reconstruct two variants for each of the three terms. Thus we reconstruct not only _&ast;[ma]koto_, whose canonic shape suggests that it is the inherited term, but also _&ast;ta-kodos_, which is derived from _&ast;kodos_ ‘go straight; straighten’ (see p.196).[^21] I suspect that the verbs _&ast;[ma]koto_ and _&ast;kodos_ were separately inherited into POc (although no non-Oceanic cognates have been found) and that their formal similarity is attributable to derivation at an earlier stage, as POc _&ast;-t-_ and _&ast;-d-_ reflect PMP _&ast;-t-_ and _&ast;-nt-_ respectively. The Polynesian reflexes are attributed to the set with _&ast;-t-_ because of their similarity in meaning to Bauan koto. Formally, they could at least as well reflect POc _&ast;ta-kodos_.
 
 <table id="2-7-5-1-219-POc-makoto-a">
 <tr>
@@ -3731,7 +3731,7 @@ The data require that we reconstruct two variants for each of the three terms. T
 <tr>
 <td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>oto</i></td>
 <td>
-'<span>go directly, straight; set face to do, stare straight at</span>' (<span>for expected *ɣoto</span>)</td>
+'<span>go directly, straight; set face to do, stare straight at</span>' (<span>for expected <em>*ɣoto</em></span>)</td>
 </tr>
 <tr>
 <td>SES</td><td><a href="../languages/westguadalcanal">West Guadalcanal</a></td><td><i>ɣoto</i></td>
@@ -3904,7 +3904,7 @@ The data require that we reconstruct two variants for each of the three terms. T
 
 <a id="p-220"></a>
 
-I have no explanation for the pair _&ast;mʷane-mʷane_ and _&ast;wane-wane_. Reflexes of the former occur in the Admiralties, Southeast Solomonic and New Caledonia, of the latter in the Schoutens and Micronesia. However, if the Ali reflex were non-cognate, then &ast;wane- wane would simply be a Nuclear Micronesian innovation.
+I have no explanation for the pair _&ast;mʷane-mʷane_ and _&ast;wane-wane_. Reflexes of the former occur in the Admiralties, Southeast Solomonic and New Caledonia, of the latter in the Schoutens and Micronesia. However, if the Ali reflex were non-cognate, then _&ast;wane-wane_ would simply be a Nuclear Micronesian innovation.
 
 <table id="2-7-5-1-220-POc-manemane-a">
 <tr>
@@ -5641,7 +5641,7 @@ POc _&ast;[ma-](r,R)aŋo_ displays a phonological problem. Apparent non-Oceanic 
 
 [^9]: This differs from the possessive-like attribute constructions reconstructed by [Ross](../sources/Ross1998b) ([1998b](../sources/Ross1998b)). There, the possessor is non-specific; here the possessor is apparently specific.
 
-[^10]: A PMP form with &ast;ma- is reflected by Palawan mblaŋkbw, Molbog molaŋkow, and Uma molaŋko, all ‘tall’ (data from Tryon, ed. 1995).
+[^10]: A PMP form with &ast;ma- is reflected by Palawan _mɒlaŋkɒw_, Molbog _molaŋkow_, and Uma _molaŋko_, all ‘tall’ (data from Tryon, ed. 1995).
 
 [^11]: Supporting evidence for PMP _&ast;dani_ is Kagayanen Manobo _dani_ (ADV) ‘near’, Dobel _ren_ (ADV) ‘near’. Evidence for _&ast;Sa-dani_ is Isneg (N. Cordilleran) _adanni_ (ADV) ‘near’, Limos Kalinga (C. Cordilleran) _adaní_ (ADV) ‘near’, N. Samareño, Samar-Leyte, Waray (Bisayan) _ha-ráni_, Masbateño, Sorsogon, Gubat (Danaw) _ha-raní_. Evidence for _&ast;ma-dani_ is Maranao, Iranun (Danaw) _ma-rani_, Ata, Dibabwon, Tigwa (Manobo) _ma-dani_, Ilianen _mi-rani_.
 

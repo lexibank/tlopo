@@ -36,7 +36,7 @@ A first consideration is the nature of the analytic apparatus needed to make sen
 
 <a id="s-1-2-1"></a>
 
-### 1.2.1 What are taxonomies?
+#### 1.2.1. What are taxonomies?
 
 
 A well-formed taxonomy is a system of semantic relations between lexical units that has the following properties:[^2] (i) Certain taxa stand in a class-inclusion or superordinate-hyponym relation. Thus, the statement _X is a fox terrier_ unilaterally entails that _X is a dog_, which in turn entails _X is an animal_. That is, _fox terrier_ is a hyponym of _dog_, which in turn is a hyponym of _animal_, (ii) Certain lexical units stand in a relation of incompatibility or contrast. Thus the statement _X is a fox terrier_ entails _X is not a labrador, alsatian or poodle_, and the statement _X is a dog_ entails _X is not a cat, seal or bear_, (iii) the hyponyms of a term X are _natural kinds_ of X. Thus, it can be said that _a fox terrier is a kind of dog_ and _a dog is a kind of animal_. A natural kind typically has many defining features (see [§1.2.2](../contributions/4-8#s-1-2-2)) but all other features are subordinate to the one that defines its place in the taxonomy, the fact that it is a kind of something (a sparrow is a kind of bird, a dog is a kind of animal, a trout is a kind of fish).
@@ -49,7 +49,7 @@ The relation implied by ‘natural kind’ is not identical to ‘class-inclusio
 
 <a id="s-1-2-2"></a>
 
-### 1.2.2 Defining natural kinds
+#### 1.2.2. Defining natural kinds
 
 
 Natural kinds cannot readily be defined analytically. For example, the difference between _dog_ and _bird_ cannot be reduced to one or two distinguishing features: the two differ in indefinitely many ways. It is not clear how one should answer a question like: _What is the meaning of dog_? Apart from mentioning that dogs are a kind of animal, should a definition say that they have four legs and a tail, are furry, are carnivorous, bark and howl, have a very keen sense of smell, are pack animals, that people have selectively bred them to create many breeds, and keep them as pets, and for hunting game, rounding up sheep and cattle, and guarding property, that they are not eaten (at least in English-speaking societies), and so on? What about the meaning of ‘bird’? Should a definition mention all and only the universally valid morphological attributes, that birds have feathers and two legs, two wings (some only vestigial) and a beak, and that they lay eggs? Which if any behavioural characteristics should it mention: that birds typically fly (not all do), that they make nests (not all do), that they have diverse calls, that many male and female pairs mate for life, that they are typically wild creatures but some species are domesticated, and so on?
@@ -59,7 +59,7 @@ Dictionary-makers typically baulk at the task of defining all the things that ma
 
 <a id="s-1-2-3"></a>
 
-### 1.2.3 The taxonomic ranks and naming principles proposed by [Berlin](../sources/Berlin1992) ([1992](../sources/Berlin1992))
+#### 1.2.3. The taxonomic ranks and naming principles proposed by [Berlin](../sources/Berlin1992) ([1992](../sources/Berlin1992))
 
 
 Folk taxonomies must have at least two levels but can have many levels, as indicated by the sequence: _berkshire_ > _pig_ > _animal_ > _creature_, or _pinnacle floribunda_ > _floribunda rose_ > _rose_ > _flower_ > _plant_. One way of distinguishing the levels is to refer to them as primary, secondary, tertiary, etc. or as first-order, second-order, third-order, etc.
@@ -97,7 +97,7 @@ At higher levels the methods and motives underpinning folk and scientific classi
 
 <a id="s-1-2-4"></a>
 
-### 1.2.4 Taxonomic generics vs collectives
+#### 1.2.4. Taxonomic generics vs collectives
 
 
 [Wierzbicka](../sources/Wierzbicka1984) ([1984](../sources/Wierzbicka1984), [1996](../sources/Wierzbicka1996)) has advanced methodological objections to certain claims made by anthropologists, linguists and psychologists about the nature and membership of categories in folk taxonomies. She points out that people’s intuitions about category membership can’t reliably be established by asking them simple questions like ‘Is X a kind of Y?’ or by asking them to sort cards with pictures. Instead you need to find out how people talk spontaneously about such matters and to apply a variety of linguistic tests designed to bring out people’s tacit knowledge.[^3]
@@ -112,7 +112,7 @@ This distinction between natural kinds and collectives will prove to be relevant
 
 <a id="s-1-2-5"></a>
 
-### 1.2.5 Problems inherent in the semantics of generics
+#### 1.2.5. Problems inherent in the semantics of generics
 
 
 For any generic term, the assumption that there is a single correct definition of its semantic range that can be uncovered by careful research is itself questionable. The fact is that members of a speech community often do not agree completely as to the scope of generics. The kind of variation is of the kind predicted by prototype theory ([Rosch 1973](../sources/Rosch1973), [1975a](../sources/Rosch1975a),b). Generally people agree on the membership of typical members of a class but disagree when it comes to marginal members. The definitions given in dictionaries tend to understate the amount of variation within the speech community.
@@ -139,7 +139,7 @@ It is important to recognize that speakers often distinguish two or more senses 
 
 <a id="s-1-2-6"></a>
 
-### 1.2.6 A modest objective
+#### 1.2.6. A modest objective
 
 
 Although I see the merit of Wierzbicka’s argument that definitions of a folk category should try to capture as fully as possible folk perceptions and knowledge about that category, the data to hand for Oceanic languages do not allow us to pursue such an objective (see [§1.2.7](../contributions/4-8#s-1-2-7)). My concern with definitions in this chapter is more modest: to find the referential range of a category, the kinds of animals that speakers of a language include in it, where ‘kinds’ can be defined in biological terms (whether this be simply the species, genus, family, etc. recognised by biologists, or features of morphology or behaviour that allow us to identify biological categories, such as a folk taxon that consists of birds and bats).
@@ -149,7 +149,7 @@ This objective might seem straightforward enough. But it is not, for reasons out
 
 <a id="s-1-2-7"></a>
 
-### 1.2.7 Shortcomings of dictionary definitions
+#### 1.2.7. Shortcomings of dictionary definitions
 
 
 For anyone wishing to compare taxonomies of flora and fauna in Oceanic languages a serious problem is the poor quality of definitions provided in dictionaries and other sources. Ideally, the taxonomies of a language should be inferable from information given in the dictionary.[^4]
@@ -219,7 +219,7 @@ The following discussion compares dictionary definitions of reflexes of POc _&as
 
 <a id="s-2-2-1"></a>
 
-### 2.2.1 Central Pacific
+#### 2.2.1. Central Pacific
 
 
 Relatively detailed definitions of reflexes of _&ast;ikan_ are available for many Central Pacific languages.
@@ -301,7 +301,7 @@ Rotuman and the Fijian languages agree in including eels and cephalopods, as wel
 
 <a id="s-2-2-2"></a>
 
-### 2.2.2 Micronesian
+#### 2.2.2. Micronesian
 
 
 Details follow of reflexes of _&ast;ikan_ in five Micronesian languages for which quite informative definitions are available. The semantic range exhibited by these definitions is summarised in Table 8.4.
@@ -332,7 +332,7 @@ All the languages sampled typically exclude turtles, molluscs and crustaceans. S
 
 <a id="s-2-2-3"></a>
 
-### 2.2.3 Southeast Solomonic and Northwest Solomonic
+#### 2.2.3. Southeast Solomonic and Northwest Solomonic
 
 
 Informative definitions are available for a few Oceanic languages of the Solomon Islands. Among the following, all belong to the SE Solomonic group except Marovo, which is NW Solomonic. For each of Lau and Gela, two definitions are given, from different sources.
@@ -364,7 +364,7 @@ It can be seen that the witnesses largely agree in including sharks, rays, eels,
 
 <a id="s-2-2-4"></a>
 
-### 2.2.4 Vanuatu
+#### 2.2.4. Vanuatu
 
 
 There are few informative definitions for reflexes of _&ast;ikan_ in Vanuatu languages.
@@ -396,7 +396,7 @@ Leaving aside the under-informative Mota and Tamambo definitions, we get Table 8
 
 <a id="s-2-2-5"></a>
 
-### 2.2.5 The Admiralties
+#### 2.2.5. The Admiralties
 
 
 Definitions are given for _&ast;ikan_ reflexes in four Admiralties languages. The initial _n-_ they show is a reduced form of the POc article _&ast;na_ which has fused with the following noun.
@@ -424,7 +424,7 @@ Discarding the Loniu definition as under-informative, we get the comparative bre
 
 <a id="s-2-2-6"></a>
 
-### 2.2.6 Western Oceanic
+#### 2.2.6. Western Oceanic
 
 
 Of the Western Oceanic reflexes that follow, only the definitions for Kilivila, Muyuw and Motu are reasonably informative. The latter are all Papuan Tip languages. It can be seen from Table 8.8 that two of the three Papuan Tip witnesses agree in including sharks, rays, eels and crocodiles but disagree over cetaceans and turtles.
@@ -729,7 +729,7 @@ POc _&ast;manuk_ is a well attested form whose semantic range certainly included
 
 <a id="s-5-2-1"></a>
 
-### 5.2.1 Polynesian
+#### 5.2.1. Polynesian
 
 
 ```
@@ -827,7 +827,7 @@ However, it seems to me more likely that _&ast;manu_ was already polysemous in P
 
 <a id="s-5-2-2"></a>
 
-### 5.2.2 Rotuman and Fijian
+#### 5.2.2. Rotuman and Fijian
 
 
 Rotuman and the Fijian languages reflect only a reduplicated form _&ast;manu-manu_. In Rotuman this term denotes land animals other than humans. In Wayan it denotes all creatures. In Bauan its narrower sense refers to birds and its wider sense includes all creatures. In all three languages a compound consisting of a reflex of _&ast;manu-manu_ plus a verb/adjective meaning ‘to fly, flying’ is used to distinguish birds and other flying animals from terrestrial animals.
@@ -845,7 +845,7 @@ Rotuman and the Fijian languages reflect only a reduplicated form _&ast;manu-man
 
 <a id="s-5-2-3"></a>
 
-### 5.2.3 Micronesian
+#### 5.2.3. Micronesian
 
 
 ```
@@ -894,7 +894,7 @@ It is likely that the primary sense of the PMic noun _&ast;man_ was at least as 
 
 <a id="s-5-2-4"></a>
 
-### 5.2.4 Other Oceanic groups
+#### 5.2.4. Other Oceanic groups
 
 
 Outside of the Nuclear Micronesian and Central Pacific groups, reflexes of _&ast;manuk_ generally have the narrower meaning ‘creature with wings: bird, bat, flying insect’. However, the paucity of good dictionaries for Oceanic languages in most regions of Melanesia limits our confidence in some of the glosses. The semantic range of reflexes of POc _&ast;manuk_ in some Oceanic languages other than Nuclear Micronesian and Central Pacific is shown in Table 8.15.

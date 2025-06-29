@@ -4,6 +4,8 @@
 
 1               Introduction
 
+Map 1: The Austronesian phylum and major language groups
+
 1.1 Aims
 
    Proto Oceanic (POc) is the immediate ancestor of the Oceanic subgroup of the
@@ -64,12 +66,14 @@ Taiwan, are separated by 70 degrees of latitude from its southernmost outpost, S
 Island in New Zealand.
 
    It is likely that the divergence of Oceanic from its nearest relatives, which are the
-Austronesian languages spoken around Cenderawasih Bay and in South Halmahera (Blust
-1978a), began when Austronesian speakers from the Cenderawasih Bay area moved
+Austronesian languages spoken around Cenderawasih Bay and in South Halmahera (Blust 1978a),
+began when Austronesian speakers from the Cenderawasih Bay area moved
 eastwards along the north coast of New Guinea and into the Bismarck Archipelago. There
 is a strong school of opinion that associates the subsequent break-up of POc with the rapid
 colonisation of Island Melanesia and the central Pacific by bearers of the Lapita culture
 between about 1500 and 1000 BC (see Map 2 and Chapter 2).
+
+Map 2: Geographic limits of historically known Oceanic speakers and of presently documented Lapita sites (after Kirch_1997: 17, 54)
 
    The present project aims to bring together a large corpus of lexical reconstructions for
 POc, with supporting cognate sets, organised according to semantic fields and using a
@@ -86,8 +90,8 @@ daughter languages.
 
    Reconstructions of POc phonology and lexicon began with Dempwolff’s pioneering
 work in the 1920s and 1930s. Dempwolff’s dictionary of reconstructions attributed to
-Proto Austronesian (PAn) (1938)—but equivalent in modern terms to Proto Malayo-
-Polynesian (PMP)—contains some 600 reconstructions with reflexes in Oceanic
+Proto Austronesian (PAn) (1938)—but equivalent in modern terms to Proto Malayo-Polynesian
+(PMP)—contains some 600 reconstructions with reflexes in Oceanic
 languages.
 
    Since the 1950s, POc and other early Oceanic interstage languages have been the
@@ -106,11 +110,11 @@ made only limited use of them.
 
 
     Comparative lexical studies have been carried out for several lower-order subgroups of
-Oceanic: for Proto Polynesian by Biggs (resulting in Walsh and Biggs (1966), Biggs et al.
-(1970) and subsequent versions of the POLLEX file, including Biggs and Clark (1993), the
+Oceanic: for Proto Polynesian by Biggs (resulting in Walsh and Biggs (1966), Biggs et al. (1970)
+and subsequent versions of the POLLEX file, including Biggs and Clark (1993), the
 version we have referred to in our work); for Proto Micronesian by scholars at the
-University of Hawaii (Bender et al. 1983); for Proto North/Central Vanuatu by Clark
-(1996); for Proto Southern Vanuatu by Lynch (1978b, 1996b, 2001c); for New Caledonia by
+University of Hawaii (Bender et al. 1983); for Proto North/Central Vanuatu by Clark (1996);
+for Proto Southern Vanuatu by Lynch (1978b, 1996b, 2001c); for New Caledonia by
 Ozanne-Rivierre (1992), Haudricourt and Ozanne-Rivierre (1982) and Geraghty (1989);
 for Proto Southeast Solomonic by Levy (1980) and Lichtenberk (1988); for Proto Central
 Pacific by Hockett (1976) and Geraghty (1983, 1986, and 1996, together with a number of
@@ -168,7 +172,6 @@ volume.
 4   Malcolm Ross, Andrew Pawley and Meredith Osmond
 
 
-
 1.3 Reconstructing the lexicon
 
    The lexical reconstructions presented in these volumes are arrived at using the standard
@@ -207,8 +210,8 @@ Oceanic culture history.
                                                                                Introduction    5
 
     Blust (1987:81) distinguishes between conventional ‘semantic reconstruction’, which
-asks, “What was the probable meaning of protomorpheme X?”, and Dyen and Aberle’s
-(1974) ‘lexical reconstruction’, where one asks, “What was the protomorpheme which
+asks, “What was the probable meaning of protomorpheme X?”, and Dyen and Aberle’s (1974)
+‘lexical reconstruction’, where one asks, “What was the protomorpheme which
 probably meant ‘X’?” At first sight, it might appear that terminological reconstruction is a
 version of lexical reconstruction. However, there are sharp differences. Lexical
 reconstruction applies a formal procedure: likely protomeanings are selected from among
@@ -223,39 +226,38 @@ approach. In terminological reconstruction the meanings of protomorphemes are no
 determined in advance. Instead, cognate sets are collected and their meanings are
 compared with regard to:
 
-__ul__
-their specific denotations, where these are known;
-the geographic and genetic distribution of these denotations (i.e. are the glosses from which the protogloss is reconstructed well distributed?);
-any derivational relationships to other reconstructions;
-their place within a working hypothesis of the relevant POc terminology (e.g., are terms complementary —‘bow’ implies ‘arrow’; ‘seine net’ implies ‘floats’ and ‘weights’? Are there different levels of classification—generic, specific, and so on?).
+__block__
+- their specific denotations, where these are known;
+- the geographic and genetic distribution of these denotations (i.e. are the glosses from which the protogloss is reconstructed well distributed?);
+- any derivational relationships to other reconstructions;
+- their place within a working hypothesis of the relevant POc terminology (e.g., are terms complementary —‘bow’ implies ‘arrow’; ‘seine net’ implies ‘floats’ and ‘weights’? Are there different levels of classification—generic, specific, and so on?).
 
 For example, it proved possible to reconstruct the following POc terms for tying with cords
 (vol.1, pp.291–293):
 
-__table__
-    Reconstruction | Gloss
-    POc *buku                |  ‘tie (a knot); fasten’
-    POc *pwita               |  ‘tie by encircling’
-    POc *paqu(s), *paqus-i-  |  ‘bind, lash; construct (canoe +) by lashing together’
-    POc *pisi                |  ‘bind up, tie up, wind round, wrap’
-    POc *kiti                |  ‘tie, bind’
+__tablenh__
+    POc _*buku_                |  ‘tie (a knot); fasten’
+    POc _*pʷita_               |  ‘tie by encircling’
+    POc _*paqu(s)_, _*paqus-i-_  |  ‘bind, lash; construct (canoe +) by lashing together’
+    POc _*pisi_                |  ‘bind up, tie up, wind round, wrap’
+    POc _*kiti_                |  ‘tie, bind’
 
 In each of the supporting cognate sets from contemporary languages there are a number of
 items whose glosses in the dictionaries or word lists are too vague to tell the analyst
 anything about the specific denotation of the item, and in the case of *kiti this prevents the
-assignment of a more specific meaning. The verb *buku can be identified as the generic
+assignment of a more specific meaning. The verb _*buku_ can be identified as the generic
 term for tying a knot because of its derivational relationship (by zero derivation) with a
-noun whose denotation is clearly generic, *buku ‘node (as in bamboo or sugarcane); joint;
+noun whose denotation is clearly generic, _*buku_ ‘node (as in bamboo or sugarcane); joint;
 knuckle; knot in wood, string or rope’ (vol. 1, p.85). Reconstruction of the meaning of
-*pwita as ‘tie by encircling’ is supported by the meanings of the Lukep, Takia and Longgu
+_*pʷita_ as ‘tie by encircling’ is supported by the meanings of the Lukep, Takia and Longgu
 reflexes, respectively ‘tie by encircling’, ‘tie on (as grass-skirt)’, and ‘trap an animal’s leg;
 tie s.t. around ankle or wrist’: Lukep and Takia are North New Guinea languages, whilst
-Longgu is Southeast Solomonic. Reconstruction of the meaning of *paqu(s), *paqus-i- as
+Longgu is Southeast Solomonic. Reconstruction of the meaning of _*paqu(s)_, _*paqus-i-_ as
 ‘bind, lash; construct (canoe +) by tying together’ is supported by the meanings of the
 Takia, Kiribati and Samoan reflexes, respectively ‘tie, bind; construct (a canoe)’,
 ‘construct (canoe, house)’, and ‘make, construct (wooden objects, canoes +)’: Takia is a
 North New Guinea language, Kiribati is Micronesian, and Samoan is Polynesian. The
-meaning of *pisi is similarly reconstructed by reference to the meanings of its Mono-Alu,
+meaning of _*pisi_ is similarly reconstructed by reference to the meanings of its Mono-Alu,
 Mota, Port Sandwich, Nguna and Fijian reflexes.
 
 6    Malcolm Ross, Andrew Pawley and Meredith Osmond
@@ -310,16 +312,11 @@ supporting evidence in subsequent publications (Blust 1978a, 1982, 1983–84b, 1
 
                                                                                       Introduction     7
 
-      Figure 1: Schematic diagram of the diversification of Austronesian languages
-                     (see the text with regard to its interpretation)
-      Note: Italics are used to indicate a group of languages or a language which have no
-      exclusively shared common ancestor. Thus Formosan languages indicates a collection of
-      languages descended (along with Proto Malayo-Polynesian) from Proto Austronesian. It is
-      assumed that there was no ‘Proto Formosan’.
+Figure 1: Schematic diagram of the diversification of Austronesian languages (see the text with regard to its interpretation) Note: Italics are used to indicate a group of languages or a language which have noexclusively shared common ancestor. Thus Formosan languages indicates a collection of languages descended (along with Proto Malayo-Polynesian) from Proto Austronesian. It is assumed that there was no ‘Proto Formosan’.
 
 8   Malcolm Ross, Andrew Pawley and Meredith Osmond
 
-Map 3, same as in vol 1
+Map 3: Higher-order supgroups of Oceanic languages used in this work for the purposes of reconstruction.
 
                                                                                           Introduction       9
 
@@ -339,8 +336,8 @@ rigorous criterion for recognising a reconstruction as POc: a reconstruction mus
 reflexes in at least two of the subgroups that are generally regarded as primary, or possibly
 primary, branches of Oceanic.[7] Both here and at the interstages described below, no
 reconstruction is made if there are grounds to infer borrowing from one subgroup to
-another.[8] Occasionally, we make use of data from Yapese, which may also be a single-
-member primary subgroup of Oceanic (Ross 1996a), but we have not treated it as a
+another.[8] Occasionally, we make use of data from Yapese, which may also be a single-member
+primary subgroup of Oceanic (Ross 1996a), but we have not treated it as a
 subgroup for the purpose of reconstruction (i.e. reflexes of an etymon in Yapese and in just
 one of the three primary subgroups listed above would not be enough to justify a
 reconstruction)
@@ -433,7 +430,7 @@ given language belongs.
 
 Introduction   11
 
-Map 4, same as in vol 1
+Map 4: Groups of Oceanic languages in north-west Melanesia: the Admiralties and St Matthias groups and the subgroups of Western Oceanic
 
 12   Malcolm Ross, Andrew Pawley and Meredith Osmond
 
@@ -472,21 +469,23 @@ sometimes to account for, irregularities in cognate sets.
    Work based on the sound correspondences of both Oceanic and non-Oceanic languages
 has resulted in the following reconstructed paradigm of POc phonemes:
 
-__pre__
-            *pw          *p          *t         *c         *k       *q
-            *bw          *b          *d         *j         *g
-                                     *s
-            *mw          *m          *n         *ñ         *ŋ
-                                     *r                             *R
-                                     *dr
-                                     *l
-            *w                                  *y
-                         *i                     *u
-                         *e                     *o
-                                     *a
+__tablenh__
+            _*pʷ_      |    _*p_   |    _*t_    |     _*c_   |      _*k_  |     _*q_
+            _*bʷ_      |    _*b_   |    _*d_    |     _*j_   |      _*g_  |
+                      |          |      _*s_    |          |          |
+            _*mʷ_      |    _*m_   |    _*n_    |     _*ñ_   |      _*ŋ_  |
+                      |         |       _*r_    |          |          |     _*R_
+                      |         |       _*dr_   |          |          |
+                      |         |       _*l_    |          |          |
+            _*w_      |         |             |     _*y_   |          |
+
+__tablenh__
+                         _*i_   |            |      _*u_
+                         _*e_   |            |      _*o_
+                              |       _*a_   |
 
 The orthography used here and in the POc reconstructions in this work is from Ross
-(1988), with the addition of *pw. POc phonology and its relationship to PMP is discussed in
+(1988), with the addition of _*pʷ_. POc phonology and its relationship to PMP is discussed in
 greater detail in vol. 1, Chapter 2, §2. Since the publication of vol. 1 of the present work,
 articles by John Lynch have appeared on POc stress (2000a) and POc labiovelar phonemes
 (2002e).
@@ -501,8 +500,9 @@ grade’ were used by Grace (1969) and have become conventional among Oceanic li
 to refer to the outcomes of certain sound changes that occurred between PMP and POc (see
 vol.1, Ch. 2).
 
-__pre__
-                                   Table 1: POc orthographies
+: Table 1: POc orthographies
+
+__tablenh__
 Grace etc. oral grade          p          pw              t        d/r          s                  j        k
            nasal grade         mp       ŋp/mpw           nt       nd/nr                 nj                 ŋk
 Ross         oral grade        p          pw             t         r            s                  c       k
@@ -609,22 +609,23 @@ converted into our standard orthography in the same way as Fijian. Biggs and Cla
 reconstructions are in any case written in an orthography identical to our standard.
 Bracketing and segmentation conventions in protoforms are shown in Table 2.
 
-__ul__
-             Table 2: Bracketing and segmentation conventions in protoforms
-       (x)      it cannot be determined whether x was present
-       (x, y)   either x or y was present
-       [x]      the item is reconstructable in two forms, one with and one without x
-       [x, y]   the item is reconstructable in two forms, one with x and one with y
-       x-y      x and y are separate morphemes
-       x-       x takes an enclitic or a suffix
-       ‹x›      x is an infix
+: Table 2: Bracketing and segmentation conventions in protoforms
+
+__tablenh__
+       (x)     | it cannot be determined whether x was present
+       (x, y)  | either x or y was present
+       [x]     | the item is reconstructable in two forms, one with and one without x
+       [x, y]  | the item is reconstructable in two forms, one with x and one with y
+       x-y     | x and y are separate morphemes
+       x-      | x takes an enclitic or a suffix
+       ‹x›     | x is an infix
 
     It happens fairly often that the final consonant in a higher-order reconstructed etymon
-(e.g. *-R in PMP *kamaliR ‘men’s house’) is not evidenced in any Oceanic reflex. Often
+(e.g. _*-R_ in PMP _*kamaliR_ ‘men’s house’) is not evidenced in any Oceanic reflex. Often
 POc final consonants are regularly lost in all the languages from which reflexes are drawn,
 and we therefore have no evidence as to whether or not the final consonant was retained in
 the POc etymon in question. In such a case, since we know that final consonants were
-usually retained in POc, the consonant is reconstructed in brackets (e.g. POc *kamali(R)).
+usually retained in POc, the consonant is reconstructed in brackets (e.g. POc _*kamali(R)_).
 
     When historical linguists compile cognate sets, they commonly retain the glosses given
 in the sources from which the items are taken. However, again in the interests of
@@ -750,8 +751,8 @@ mammal species (Flannery 1995), the Bismarcks have one bandicoot and one wallaby
 species, two phalanger species and four genera of rats, and the Solomons have one
 phalanger species and three genera of rats. (When it comes to mammals, it is only in bats
 that New Guinea and Northern Melanesia show a comparable diversity: New Guinea has
-about 70 bat species and the Bismarcks and Solomons about 58.) This diminution in land-
-dwelling biota must have greatly handicapped human colonists of Northern Melanesia
+about 70 bat species and the Bismarcks and Solomons about 58.) This diminution in land-dwelling
+biota must have greatly handicapped human colonists of Northern Melanesia
 dependent on hunting-and-gathering to get their food.
 
                                                               Locating Proto Oceanic      19
@@ -763,8 +764,8 @@ flora distribution. Roger Green (1991a: 495) notes that:
 |     all terrestrial mammals other than rats and mice or those which accompanied people
 |     reach their eastward limit in the Solomons. The same applies to all fresh-water
 |     mussels, and most of the Palaeo-Oriental land-snail fauna. Thirty Papuan and
-|     Malayan genera of birds find their eastern limits here, as do 162 genera of seed-
-|     plants, about 24% of the total.
+|     Malayan genera of birds find their eastern limits here, as do 162 genera of seed-plants,
+|     about 24% of the total.
 
    Even in marine life the difference is marked. The reefs of the Bismarck and Solomons
 show a much richer diversty of fish, molluscs, echinoderms, crustacea, seaweeds, and
@@ -822,8 +823,8 @@ of Halmahera and Timor, Alor and Pantar are home to some 750 ‘Papuan’ langua
 non-Austronesian languages indigenous to the region). These belong to more than a dozen
 genetic stocks and isolates which are on present evidence unrelatable to each other or to
 any languages outside of this region (Foley 1986, Ross 2005). Such extreme genetic
-diversity indicates a very long occupation of the New Guinea area. Small numbers of non-
-Austronesian languages are also present in New Britain, New Ireland, Bougainville and the
+diversity indicates a very long occupation of the New Guinea area. Small numbers of non-Austronesian
+languages are also present in New Britain, New Ireland, Bougainville and the
 central Solomons. These, too, fall into several different families, not on present evidence
 relatable to each other or to any other languages (Ross 2001a, 2005), a pattern that points
 to ancient local diversification. It is noteworthy that all the Papuan languages are confined
@@ -991,11 +992,11 @@ possibly the heavy, hinge-portioned Tridacna adze. The interisland trade in obsi
 practised by Lapita peoples was almost certainly based on trade systems that had existed in
 the Bismarcks since the Upper Pleistocene, but shows significant changes in the range and
 frequency of trade and in the degree of formal blade technology (Summerhayes 2000a, 2000b).
-Following Yen’s conclusion (1973, 1991) that a number of tree crops and plant
+Following Yen’s (1973, 1991) conclusion that a number of tree crops and plant
 domesticates such as Australimusa bananas, breadfruit, coconuts and sugarcane, were Near
 Oceania domesticates, Spriggs (1997a), Kirch (1996) and Green (1991b, 2003) suggest that
-these may have been added to the Lapita suite of crops as a result of contact with non-
-Lapita populations. However, Blust (1995b) provides evidence that certain of these plant
+these may have been added to the Lapita suite of crops as a result of contact with non-Lapita
+populations. However, Blust (1995b) provides evidence that certain of these plant
 domesticates were already familiar to Malayo-Polynesian speakers before the settlement of
 Near Oceania, and such items are better placed in the ‘indeterminate’ category.
 
@@ -1057,8 +1058,8 @@ be the two languages of the Mussau group, (Mussau-Emira and Tench), to the north
 New Ireland, for which evidence is limited. A third is the widely dispersed Western
 Oceanic linkage, which includes all the Austronesian languages of New Guinea from
 Jayapura east, and all those of New Britain, New Ireland and the western Solomons. A
-‘linkage’ refers to the descendants of a dialect network rather than a unified proto-
-language. The status of Western Oceanic as a subgroup is thus problematic insofar as it
+‘linkage’ refers to the descendants of a dialect network rather than a unified proto-language.
+The status of Western Oceanic as a subgroup is thus problematic insofar as it
 stems not from a discrete interstage but from a part of the Proto Oceanic dialect chain.
 Ross divides Western Oceanic into three branches, of which two (North New Guinea and
 Meso-Melanesian) have some representatives in the Bismarck Archipelago, and one,
@@ -1070,9 +1071,9 @@ result of movements away from a compact dispersal centre.
     The distribution of early Lapita sites in the Bismarck Archipelago indicates that
 Oceanic speaking communities were widely scattered over this region. More than 70
 findspots with Lapita pottery are known from the Bismarcks. But not all Lapita pottery
-users in the Bismarcks were Oceanic speakers. Pots certainly found their way into non-
-Austronesian communities, as exchange or trade goods. Only those sites that exhibit a
-range of features diagnostic of the full Lapita cultural complex — some 20 or so sites — can
+users in the Bismarcks were Oceanic speakers. Pots certainly found their way into non-Austronesian
+communities, as exchange or trade goods. Only those sites that exhibit a
+range of features diagnostic of the full Lapita cultural complex—some 20 or so sites—can
 be confidently associated with speakers of an Oceanic language.
 
     Permanent early Lapita settlements in the Bismarcks were largely confined to small
@@ -1301,7 +1302,7 @@ remarks by Blust (1998a:185–186):
 
 |      … This observation suggests that the linguistic history of Austronesian speakers in
 |      western Melanesia must have included episodes of extinction as well as episodes of
-|      expansion. At an earlier time, languages that preserved PMP *j as a distinct phoneme
+|      expansion. At an earlier time, languages that preserved PMP _*j_ as a distinct phoneme
 |      almost certainly were found on the north coast of New Guinea and in some other parts
 |      of the Bismarck Archipelago, in addition to the Admiralties.
 
@@ -1315,8 +1316,8 @@ Oceanic subgroup.
    But there remains another boundary problem. Languages are seldom regionally
 homogeneous. Suppose that during the several centuries after Pre Oceanic speakers arrived
 in the Bismarcks, a chain of mutually intelligible but gradually diverging dialects
-developed. Is there a single point in this period when we can say that the chain broke up—
-and which thus can be equated with Proto Oceanic? When does a collection of dialects
+developed. Is there a single point in this period when we can say that the chain broke up—and
+which thus can be equated with Proto Oceanic? When does a collection of dialects
 cease to be one language? The orthodox answer to the latter question is: when innovations
 cease to flow between the dialects. However, problems arise in applying this principle
 because innovations tend to spread across a dialect chain in irregular patterns, such that
@@ -1343,8 +1344,8 @@ New Caledonia, Fiji and West Polynesia had changed little from Proto Nuclear Oce
 it was spoken in the Bismarcks. First, a representative sample of languages from Remote
 Oceania yields reconstructions of a proto-phonology and a proto-morphosyntax
 (Pawley 1972, Clark 1973) that differ only slightly from reconstructions based on a sample
-representing the entire Oceanic subgroup (Blust 1978b, Evans 2003, Lynch,
-Ross & Crowley 2002, Ross 1998a). Second, the internal classification of Oceanic points to a rapid
+representing the entire Oceanic subgroup (Blust 1978b, Evans 2003, Lynch, Ross & Crowley 2002,
+Ross 1998a). Second, the internal classification of Oceanic points to a rapid
 linguistic movement from Near Oceania across the southwest Pacific as far east as Fiji and
 Western Polynesia. There are no well-defined higher-order groups of Oceanic whose
 distribution points to a significant pause in the chain of expansion from the Bismarcks to
@@ -1515,8 +1516,7 @@ which Marovo people belong. _Puava_ has both a restricted sense, ‘soil, ground
 general one, the latter encompassing the total ancestral estate, reaching ‘from the peaks and
 ridges of the mainland upper mountains to the open sea outside the barrier reef’ (p.137).
 
-Figure 2: Marovo coastal profile
-     (reproduced from Hviding 1996:138 with the permission of the University of Hawai’i Press)
+Figure 2: Marovo coastal profile (reproduced from Hviding_1996:138 with the permission of the University of Hawai’i Press)
 
    The next two examples are from Malaita in the Southeast Solomons. Walter Ivens
 writes about the salt-water people of Lau and Sa’a, two environments not unlike the
@@ -1641,7 +1641,7 @@ Evidence supporting final _*-q_ lies in the retention of a final vowel in Kwamer
                                          The landscape   39
 
 
-Map 8: Tikopia (after Firth 1936:xxii)
+Map 8: Tikopia (after Firth_1936:xxii)
 
 40   Meredith Osmond, Andrew Pawley and Malcolm Ross
 
@@ -1959,7 +1959,7 @@ _*laur_ can carry the same interpretation.
 
    The gloss of our next reconstruction, POc _*tobʷa_ is soundly based for PEOc, but
 depends for promotion to POc on reinterpretation of the name given to the barrier reef
-islands which enclose Marovo Lagoon. POc *tobwa is also the reconstructed form for
+islands which enclose Marovo Lagoon. POc _*tobʷa_ is also the reconstructed form for
 ‘belly, stomach, bag’ and it is possible that ‘bay’ is a metaphorical extension of the term.
 
 <
@@ -2129,7 +2129,7 @@ centred on mountain or mountainous country. POc _*puŋa-puŋa_ may have also den
 reconstructions, _*buku_ and _*pwotu_ referred rather to a protuberance or a bulge-shaped
 object.
 
-[4] It is tempting to decide that this is the same term as POc *koro (i) any fenced-in area’,
+[4] It is tempting to decide that this is the same term as POc _*koro_ ‘(i) any fenced-in area’,
 (ii) settlement fortified by a palisade or ditch’ (Pawley 2005), on the basis that fortifications
 were typically situated on high ground. But there is strong evidence that there were two
 distinct terms at least as far back as POc.
@@ -2299,7 +2299,7 @@ POc *pʷaka(r,R) ‘steep rocky ground, cliff’
  NNG: Buang            pkɛ             ‘cliff; a steep rocky place’
  NNG: Bariai           per-per         ‘cliff’
  PT:  Molima           vakala          ‘steep rocky ground, cliff’
- PT:  Motu             haga-haga       ‘cliff’ (g for exp. ɣ)
+ PT:  Motu             haga-haga       ‘cliff’ (_g_ for exp. _ɣ_)
  MM:  Patpatar         par-para        ‘cliff’
 >
 
@@ -2361,7 +2361,7 @@ POc *rau(n) ‘flat land’
  PT: Bwaidoga       lau(beùya)     ‘(on the) plain (of flat coastal strip)’
 PPn *rau ‘flat land’
 PPn *rau-lalo ‘lowland’
- Pn: Tongan         |āu lalo|      ‘low-lying land’ (lalo ‘place lower down’)
+ Pn: Tongan         |āu lalo|      ‘low-lying land’ (_lalo_ ‘place lower down’)
  Pn: Samoan         lau            ‘level area of land, plain’
  Pn: Samoan         lau(fanua)     ‘flat land’
  Pn: Tikopia        rau-rau        ‘flat expanse’
@@ -2427,8 +2427,7 @@ uncultivated rain forest was a place of tangled vines. However, Gela has two ter
 ‘forest’ (> _*wao_) and _alo_ ‘creeper, string’ (> _*waRoc_), indicating that there were two
 distinct terms at the time of POc or a little later, albeit with a possible common origin.
 
-    The next POc reconstruction contrasts with _*quma_ ‘garden, cultivated land’ (vol. 1,
-p.117)
+    The next POc reconstruction contrasts with _*quma_ ‘garden, cultivated land’ (vol. 1, p.117)
 
 <
 PMP *talun ‘fallow land’ (Dempwolff 1938)
@@ -2604,8 +2603,8 @@ POc *waiR ‘fresh water; river, stream’
  NCal: Xârâcùù         kʷwe            ‘fresh water’
  Fij:  Rotuman         vai             ‘water; natural water-hole or bathing pool; well’
  Fij:  Bauan           wai             ‘water, liquid of any kind’
- Pn:   Tongan          vai             ‘liquid, esp. fresh water’ (as opposed to tahi ‘saltwater’)
- Pn:   Tongan          vai(tupu)       ‘spring, well, or water from a spring or well’ (tupu ‘to spring up, come into existence’)
+ Pn:   Tongan          vai             ‘liquid, esp. fresh water’ (as opposed to _tahi_ ‘saltwater’)
+ Pn:   Tongan          vai(tupu)       ‘spring, well, or water from a spring or well’ (_tupu_ ‘to spring up, come into existence’)
  Pn:   Samoan          vai             ‘water (esp. fresh water as opposed to salt water)’
  Pn:   Rennellese      bai             ‘water (usually fresh, although salt water found inland may be called bai, as may the lake in the centre of Rennell Island); juice, sauce, liquid’
  Pn:   Tikopia         vai             ‘water, esp. fresh running’ (as opp. to _nupu_ ‘pool of still water’)
@@ -2960,7 +2959,7 @@ POc *qapu(R) ‘lime, burnt coral or limestone’
  PT:  Mekeo           apu                ‘lime, burnt coral or limestone’
  PT:  Roro            abu                ‘lime, burnt coral or limestone’
  PT:  Motu            ahu                ‘lime, burnt coral or limestone’
- MM:  Bali            kavu               ‘betel lime’ (k for ɣ unexpected)
+ MM:  Bali            kavu               ‘betel lime’ (_k_ for _ɣ_ unexpected)
  MM:  Nakanai         havu               ‘lime for chewing with areca nut, made from clam shell’
  SES: Gela            avu                ‘lime holder; slaked lime’
  SES: Lau             safu               ‘lime, burnt coral or limestone’
@@ -2990,7 +2989,7 @@ PEOc *|patu maqañur| ‘pumice’ (lit. ‘floating stone’)
 Other compound terms include Roviana (MM) _patu ale_ and Gela (SES) _vatu ali_, exhibiting
 reflexes of POc _*qaliR_ ‘drift, float’ rather than POc _*maqañur_ ‘floating, adrift’.
 
-   Proto Micronesian had its own term for pumice, probably preposed by *fatu ‘stone’.
+   Proto Micronesian had its own term for pumice, probably preposed by _*fatu_ ‘stone’.
 
 <
 PMic *|(fatu) wāni| ‘pumice’ (Marck 1994)
@@ -3070,7 +3069,7 @@ POc *|qone qone| ‘sand, sandy’
  NCV: Tamambo         one-one            ‘sand’
  Pn:  Tongan          ʔone-ʔone          ‘sand’
  Pn:  Niuean          one-one            ‘sand’
- Pn:  Samoan          one-one            ‘sand’ (one-onea ‘sandy, be sandy’)
+ Pn:  Samoan          one-one            ‘sand’ (_one-onea_ ‘sandy, be sandy’)
  Pn:  Rennellese      ʔone-ʔone          ‘sandy, dry, crumbling, powdery, as over-dry grated coconuts’
  Pn:  Tikopia         one-one            ‘sandy; sand-coloured’
  Pn:  Rarotongan      one-one            ‘sandy, dirty, gritty’
@@ -3156,8 +3155,8 @@ _*g-_) of POc _*g-_.
 
 70   Meredith Osmond, Andrew Pawley and Malcolm Ross
 
-   Clay was used in pot manufacture, which was practised by POc speakers (see vol. 1,
-pp.67–71). Although non-Oceanic cognates of POc _*raRo(q)_ refer to ground or earth, e.g.
+   Clay was used in pot manufacture, which was practised by POc speakers (see vol. 1, pp.67–71).
+Although non-Oceanic cognates of POc _*raRo(q)_ refer to ground or earth, e.g.
 Formosan Bunun _dalaq_ ‘ground (earth, land, place, soil)’; WMP Ilocano _daga_ ‘earth, land,
 soil’, and CMP Buru _rahe_ ‘ground’, we can infer that in POc, _*raRo(q)_ referred
 specifically to ‘clay’. In NNG and Papuan Tip witnesses, reflexes refer to clay. Meso-Melanesian
@@ -3362,8 +3361,8 @@ POc reconstruction for ‘cook over an open fire, roast over embers’, namely _
 
 74   Meredith Osmond, Andrew Pawley and Malcolm Ross
 
-   The following cognate set is tentatively attributed to a POc etymon glossed ‘low-
-burning remnants of a fire’. The Meso-Melanesian reflexes suggest ‘ash’ or ‘charcoal’.
+   The following cognate set is tentatively attributed to a POc etymon glossed ‘low-burning
+remnants of a fire’. The Meso-Melanesian reflexes suggest ‘ash’ or ‘charcoal’.
 However, the meaning ‘ash’ can be eliminated because there are much stronger candidates
 for this. The partial agreement between Tolai, Wayan Fijian and Gela points to low-burning residue of some sort.
 
@@ -3472,7 +3471,7 @@ POc *qapu ‘ashes, dust’
 
 76   Meredith Osmond, Andrew Pawley and Malcolm Ross
 
-However, many Western Oceanic languages have forms that point to a form *kapu
+However, many Western Oceanic languages have forms that point to a form _*kapu_
 meaning ‘ash, dust’, with initial _*k_ rather than _*q_.
 
 <
@@ -3778,7 +3777,7 @@ PNCV *banoi ‘volcano, volcanic ash’ (Clark 1996)
 
 82   Meredith Osmond, Andrew Pawley and Malcolm Ross
 
-Map 9: Active volcanoes and earthquake areas in the south-west Pacific (after Brookfield and Hart 1971: 33)
+Map 9: Active volcanoes and earthquake areas in the south-west Pacific (after Brookfield and Hart_1971: 33)
 
                                                                           The landscape     83
 
@@ -4057,7 +4056,7 @@ following set are uncertain.
 PEOc *siosio ‘(?) whirlwind, rainbow’
  NCV: Mota            ga-siosio       ‘rainbow’ (see note above)
 PPn *qā-siosio ‘whirlwind, waterspout’
- Pn:  Niuean          hio-hio         ‘whirlwind, tornado’ (from McEwen. Sperlich gives tiotio.)
+ Pn:  Niuean          hio-hio         ‘whirlwind, tornado’ (from McEwen. Sperlich gives _tiotio_.)
  Pn:  Tongan          ʔa-hiohio       ‘whirlwind’
  Pn:  E Futunan       ʔā-siosio       ‘waterspout’
  Pn:  Samoan          ā-siosio        ‘whirlwind’
@@ -4276,7 +4275,7 @@ beyond the reef, i.e. where the sudden change of depth is significant.
 <
 PCEMP *laman ‘deep’ (Blust 1984)
 POc *laman ‘deep sea beyond the reef’
- Adm: Mussau        lamana          ‘sea near the shore’ (cf. malioŋe ‘deep blue sea beyond the reef’)
+ Adm: Mussau        lamana          ‘sea near the shore’ (cf. _malioŋe_ ‘deep blue sea beyond the reef’)
  Adm: Penchal       lam             ‘deep sea beyond the reef’
  Adm: Loniu         laman           ‘deep sea just beyond the reef’
  NNG: Gitua         laman           ‘deep’
@@ -4607,8 +4606,8 @@ foam of the sea and the latter a more general term for foaming or slimy substanc
 
    There is an additional formal complication, namely that PMP _*bujeq_ seems to have two
 sets of reflexes in Oceanic languages, pointing to two POc forms: _*buso_ and POc _*puso_. It
-may be that POc indeed had both, _*buso_ perhaps a verb, _*puso_ a verb or a noun (see vol. 1,
-pp.30–31). Alternatively, forms apparently reflecting _*buso_ may represent a conflation of
+may be that POc indeed had both, _*buso_ perhaps a verb, _*puso_ a verb or a noun (see vol. 1, pp.30–31).
+Alternatively, forms apparently reflecting _*buso_ may represent a conflation of
 _*busa_ and _*puso_, implying that *buso did not in fact occur in POc.
 
 <
@@ -4731,8 +4730,8 @@ that in POc also, there were a number of compounds based on _*[u]Ruap_ and _*maq
 denoted specific kinds of high and low tide. However, on the evidence to hand we cannot
 recover the precise forms of such compounds.
 
-   The reconstruction for low tide, POc _*maqati_, which continues a PAn form, is a well-
-supported one. The same form is also widely attested in the sense ‘dry reef, reef exposed at
+   The reconstruction for low tide, POc _*maqati_, which continues a PAn form, is a well-supported
+one. The same form is also widely attested in the sense ‘dry reef, reef exposed at
 low tide’.
 
 <
@@ -4799,7 +4798,7 @@ POc *[ma]maca (V) ‘dry up, evaporate, be empty of liquid’; (N) ‘low tide�
  MM:   Nakanai        mamara       ‘(water) partly dried up by sun; extremely low tide’
  MM:   Ramoaaina      məma         ‘reef; low tide, shallow’
  MM:   Tolai          mamā         ‘reef; low tide; coral; shallow’
- MM:   Roviana        masa         ‘beach, sea shore’ (masa-masa ‘shallow’, masa herepata ‘very low tide’)
+ MM:   Roviana        masa         ‘beach, sea shore’ (_masa-masa_ ‘shallow’, _masa herepata_ ‘very low tide’)
  SES:  Gela           mamaha       ‘dry’
  SES:  Sa’a           mamata       ‘be high and dry, of a reef; be dry at low water’
  SES:  Arosi          mamata       ‘dry’
@@ -5426,7 +5425,7 @@ latter to open unlimited sea.
    There can be no doubt that the physical world outlined by reconstructions in this chapter
 is consistent with the nature of Lapita settlements as reconstructed by archaeologists and
 described in Chapter 2. The reconstruction of terms for the marine physical environment in
-this chapter is substantially better supported that the reconstruction of terms for the
+this chapter is substantially better supported than the reconstruction of terms for the
 terrestrial environment in Chapter 3. It includes a plethora of terms for the sea, for reefs,
 and for features associated with them, with such detail as submerged reefs and
 passageways through the reef for canoes, features relevant to human marine activities
@@ -5495,8 +5494,8 @@ period from (roughly) April to October.[2]
     The trades are noted for their consistency and force, especially over the eastern side of
 the ocean (Hawaii has quite consistent trade wind flow, bringing sunshine with sporadic
 cumulus and some humidity). Over the western Pacific (e.g. in the Bismarck Archipelago),
-they are less consistent because of monsoonal and other disturbances. Near their high-
-pressure source the trade winds are quite dry, but as they blow over the ocean towards the
+they are less consistent because of monsoonal and other disturbances. Near their high-pressure
+source the trade winds are quite dry, but as they blow over the ocean towards the
 Equator they pick up moisture which they deposit as orographic rain when they hit high
 islands. Orographic rainfall occurs when air is forced to ascend the side of a mountain
 range, and is particularly common where mountains lie parallel to the coast over which
@@ -5581,8 +5580,8 @@ winds from the south, varying to southeast and southwest as they blow in towards
 heated continent. This phenomenon can be seen in Map 10. The extension of the equatorial
 low into Australia in the SHS is less intense, but is sufficient to draw the northeast trades
 across the Equator, where they become the northwest monsoon, bringing cloudy and rainy
-weather to Indonesia and western and southern parts of the island of New Guinea (see Map
-11). From the perspective of this paper, the most important effect of the monsoon is that it
+weather to Indonesia and western and southern parts of the island of New Guinea (see Map 11).
+From the perspective of this paper, the most important effect of the monsoon is that it
 brings a marked seasonal reversal. Whereas the wet on non-monsoonal islands either
 consists of the windless rain of the ITCZ or of variable, stormy weather, the monsoon
 draws the trade winds across the Equator into the opposite hemisphere, eliminating the
@@ -5610,8 +5609,8 @@ been occupied by Austronesian speakers.
    I assume that Proto Malayo-Polynesian was spoken in the northerly part of the
 Philippines. Here the northeast trades prevail in the SHS, but are replaced by monsoonal
 southerlies in the SHW. On the larger islands this means that east-facing slopes receive
-orographic rain during the trades and convectional rains in the monsoon, whilst west-
-facing slopes get orographic rain during the monsoon and have drought during the trades
+orographic rain during the trades and convectional rains in the monsoon, whilst west-facing
+slopes get orographic rain during the monsoon and have drought during the trades
 (Alip & Borlaza 1984). During the monsoon typhoons often strike the northern and central
 islands, but Benedek (1991:13) reports for the islands between the Philippines and Taiwan
 that there is sometimes a period when the sea is becalmed and the heat becomes
@@ -5655,8 +5654,8 @@ terminology. First, they had left the monsoonal region behind them, and during t
 they experienced the fairly windless rainy season of the ITCZ, with some sporadic
 northwesterly winds. Secondly they encountered for the first time the southeast trades of
 the SHW, during which the north coasts of the Huon Peninsula and of New Britain have
-their dry season, whilst their south coasts suffer torrential orographic rain (Howlett
-1967:36–38). As they later spread around the coasts and offshore islands of Papua New
+their dry season, whilst their south coasts suffer torrential orographic rain (Howlett 1967:36–38).
+As they later spread around the coasts and offshore islands of Papua New
 Guinea and into the Bismarck Archipelago and then the New Georgia group of the
 northwest Solomons, they continued to encounter this and other kinds of local variation,
 but the southeast trades always continued to be the prevailing winds.
@@ -5745,7 +5744,7 @@ POc *aŋin ‘wind’
 
 
    Three terms for winds of differing strengths are reconstructable. POc _*jaŋi_ referred to a
-strong wind, _*sau_/_*sau-ŋ(a)_ and _*mur[i,e]_ to breezes. It seems that *sau was a verb (‘blow
+strong wind, _*sau_/_*sau-ŋ(a)_ and _*mur[i,e]_ to breezes. It seems that _*sau_ was a verb (‘blow
 freshly’), and _*sau-ŋ(a)_ a nominalisation referring to the breeze itself. I cannot reconstruct
 a difference in meaning between _*sau_ and _*mur[i,e]_.
 
@@ -5895,8 +5894,8 @@ POc *upi ‘(wind, person) blow’ (cf. vol. 1, pp.107–108)
 >
 
    In a number of NNG languages in the region of the Vitiaz Strait and the Huon Gulf, a
-nominalised form of *upi ‘blow’ has become the generic term for ‘wind’ (see vol. 1,
-pp.33–34 with regard to nominalising morphology):
+nominalised form of _*upi_ ‘blow’ has become the generic term for ‘wind’ (see vol. 1, pp.33–34
+with regard to nominalising morphology):
 
 
 
@@ -5985,8 +5984,7 @@ were respectively _*raki_ and _*apaRat_. They may also have referred to the seas
 typical weather and wind direction as inevitable components of their meanings, as well as
 having associations with navigability and agriculture. Modern uses of wind terms suggest
 strongly that they also served as terms for cardinal directions in POc, and that the two
-major wind directions were perhaps the only cardinal directions for POc speakers (Ch. 8,
-§1).
+major wind directions were perhaps the only cardinal directions for POc speakers (Ch. 8, §1).
 
    POc _*raki_ ‘southeast trades’ has no obvious non-Oceanic cognates. This is hardly
 surprising. When Austronesian speakers came out of the lee of the New Guinea cordillera
@@ -6169,7 +6167,7 @@ wind’:
 
 __formgroup__
  Mic: Ponapean           (nan-)par    ‘tradewind season’
- Proto Trukic       *parata      ‘tradewind’
+Proto Trukic       *parata      ‘tradewind’
  Mic: L. Mortlockese     paras        ‘rain that comes in due to wind’
  Mic: Woleaian           paẓasa       ‘tradewind’
 
@@ -6401,7 +6399,7 @@ POc *aqura ‘wind, possibly southeast trade’
  NNG: Numbami         aula             ‘wind’
  NNG: Takia           ur               ‘air ’
  NNG: Ali             ur               ‘wind’
- PT:  Motu            laura(bada)      ‘southeast trade wind’ (bada ‘big’)
+ PT:  Motu            laura(bada)      ‘southeast trade wind’ (_bada_ ‘big’)
  SES: Kwaio           au               ‘southeast wind, wind from sea’
  Mic: Kosraean        ɛir              ‘north’
  Mic: Ponapean        (pali)eir        ‘south’
@@ -6609,9 +6607,9 @@ POc *qaRoq ‘cloud (generic)’
  Pn:  Hawaiian       ao                ‘any kind of cloud’
 >
 
-   The four terms below each possibly denoted a type of cloud. POc *rodo(ŋ) meant ‘rain
-cloud’. PNGOc *guba(r,R) may have denoted a storm cloud, but it is impossible to
-attribute more exact meanings to POc *ulu or POc *bala.
+   The four terms below each possibly denoted a type of cloud. POc _*rodo(ŋ)_ meant ‘rain
+cloud’. PNGOc _*guba(r,R)_ may have denoted a storm cloud, but it is impossible to
+attribute more exact meanings to POc _*ulu_ or POc _*bala_.
 
 <
 PMP *rendeŋ ‘wet season’ (ACD)
@@ -6718,8 +6716,8 @@ POc *kapu(t) ‘low cloud, mist, fog’
  SES: Talise          ɣavu               ‘fog’
 >
 
-The Bali and Fijian forms below are problematic, as they reflect POc *kabu(t), not
-*kapu(t)
+The Bali and Fijian forms below are problematic, as they reflect POc _*kabu(t)_, not
+_*kapu(t)_
 
 __formgroup__
  MM: Vitu             ɣabu-ɣabu     ‘fog’
@@ -7441,8 +7439,8 @@ PPn *qaso ‘day, as period of time’
  Pn:  Tikopia         aso           ‘day (as time span)’
 >
 
-Proto Nuclear Polynesian shows a split between *qaso ‘day, as a period of time’ and
-*qaho ‘daytime, daylight’.
+Proto Nuclear Polynesian shows a split between _*qaso_ ‘day, as a period of time’ and
+_*qaho_ ‘daytime, daylight’.
 
 <
 PNPn *qaho ‘daytime, daylight’
@@ -7639,7 +7637,7 @@ POc *pulan ‘moon, month’ (ACD)
                                                          Navigation and the heavens     165
 
 
-In Polynesia *pulan is reflected as a verb, PPn _*pula_ ‘to glow’ (with PPn _*p_ instead of
+In Polynesia _*pulan_ is reflected as a verb, PPn _*pula_ ‘to glow’ (with PPn _*p_ instead of
 expected _*f_), and the moon is referred to by reflexes of PEOc _*ma[d]rama_.
 
 <
@@ -7752,7 +7750,8 @@ POc *ma-dala ‘the morning star’ (Blust 1972b)
    As in English, Venus often appears to have separate identities as Morning and Evening
 Star. The following illustrate:
 
-Morning Star:
+__Morning Star:__
+
 (i) compounds from ‘star’ + ‘daytime’
 
 <
@@ -7776,9 +7775,9 @@ PMic *|fitū rāni| ‘Morning Star’ ( > POc _*raqani_ ‘daytime, daylight’
 (ii) other compounds
 
 __formgroup__
-  NNG: Gedaged        |boi tinan |        ‘Morning Star’ (boi ‘star’, tinan ‘mother’ or ‘big’; cf. p.195)[13]
-  NNG: Manam          |goai zama |        ‘Morning Star’ (goai ‘star’, zama ‘tomorrow’)
-  PT:  Motu           |hisiu bada|        ‘Morning Star’ (hisiu ‘star’, bada ‘large’)
+  NNG: Gedaged        |boi tinan |        ‘Morning Star’ (_boi_ ‘star’, _tinan_ ‘mother’ or ‘big’; cf. p.195)[13]
+  NNG: Manam          |goai zama |        ‘Morning Star’ (_goai_ ‘star’, _zama_ ‘tomorrow’)
+  PT:  Motu           |hisiu bada|        ‘Morning Star’ (_hisiu_ ‘star’, _bada_ ‘large’)
 
 
 [13] POc _*tina_, literally ‘mother’, sometimes carries the interpretation ‘big’ in contrast to ‘child/small’.
@@ -7786,13 +7785,13 @@ __formgroup__
 168     Meredith Osmond
 
 
-Evening Star (various compounds):
+__Evening Star (various compounds):__
 
 __formgroup__
- MM:  Roviana          |govete pisi|    ‘Evening Star, Venus’ (govete ‘to flee, run away’, pisi ‘to sting or bite, as insects’)
- SES: To’aba’ita       bubufaŋa       ‘Evening Star’ (bubu ‘look at’, faŋa ‘eat; food’)
- SES: Lau              būbūfaŋa       ‘Evening Star’ (būbū ‘look at, gaze’, faŋa ‘to have a meal, food’)
- SES: Arosi            |maŋai ŋau|      ‘Evening Star’ (maŋa ‘eat’, ŋau ‘eat food’)
+ MM:  Roviana          |govete pisi|    ‘Evening Star, Venus’ (_govete_ ‘to flee, run away’, _pisi_ ‘to sting or bite, as insects’)
+ SES: To’aba’ita       bubufaŋa       ‘Evening Star’ (_bubu_ ‘look at’, _faŋa_ ‘eat; food’)
+ SES: Lau              būbūfaŋa       ‘Evening Star’ (_būbū_ ‘look at, gaze’, _faŋa_ ‘to have a meal, food’)
+ SES: Arosi            |maŋai ŋau|      ‘Evening Star’ (_maŋa_ ‘eat’, _ŋau_ ‘eat food’)
  Pn:  Tikopia          |fetū ramaŋa|   ‘Alternative name for evening star when standing in west, in monsoon nights’ (lit. ‘torchlight fishing star’)
  Pn:  Hawaiian         hōkū-kau-ʔōpae ‘Evening Star’ (lit. ‘star for placing shrimp’)
 
@@ -7837,15 +7836,15 @@ We also have various references to particular stars as Manuk’s head, Manuk’s
                                                               Navigation and the heavens         169
 
 __formgroup__
- Adm: Ninigo           mānifono                    ‘Sirius’ (fono ‘head’)
+ Adm: Ninigo           mānifono                    ‘Sirius’ (_fono_ ‘head’)
  Adm: Ninigo           mānitola                    ‘Procyon’
  Adm: Ninigo           mānihaiup                   ‘Canopus’ (Lewis 1994:406)
- Mic: Kiribati         pʷāpʷā-ni-man               ‘Sirius’ (pwāpwā ‘chest’)
- Mic: Kiribati         man-ati                     ‘Rigel’ (ati ‘heart’)
- Mic: Puluwatese       yinekin-mān                 ‘Sirius’ (yinek ‘body, trunk’)
- Pn:  Rennellese      |te tino-manu|               ‘three bright stars at the end of Taurus’ (tino ‘body’)
+ Mic: Kiribati         pʷāpʷā-ni-man               ‘Sirius’ (_pʷāpʷā_ ‘chest’)
+ Mic: Kiribati         man-ati                     ‘Rigel’ (_ati_ ‘heart’)
+ Mic: Puluwatese       yinekin-mān                 ‘Sirius’ (_yinek_ ‘body, trunk’)
+ Pn:  Rennellese      |te tino-manu|               ‘three bright stars at the end of Taurus’ (_tino_ ‘body’)
  Pn:  Anutan          |te kaokao o manu|           ‘Manuk’s armpit: a group of four small stars near Sirius; said to pass almost directly over Tikopia when approaching from Anuta’
- Pn:  Anutan          |te tino a manu|             ‘Sirius’ (tino ‘body’)
+ Pn:  Anutan          |te tino a manu|             ‘Sirius’ (_tino_ ‘body’)
  Pn:  Tikopia         |te opiŋa o manu|            ‘Manuk’s armpit’ (Feinberg 1988:101) (A Tikopian name but commonly used on Anuta.)
 
 
@@ -7993,7 +7992,7 @@ however, refer not to the Pleiades but probably to Sagittarius.
 
 <
 PEOc *mataliki ‘name given to a significant star cluster’
- Mic: Marshallese     mæcɛt-ṛikṛik ‘a constellation, stars in Sagittarius’ (lit. ‘small face/eyes’)
+ Mic: Marshallese     mæcɛt-ṛikṛik      ‘a constellation, stars in Sagittarius’ (lit. ‘small face/eyes’)
  Mic: Mortlockese     meisik            ‘stars in Hercules’
  Mic: Lamotrek        mairik            ‘name for the fourth month’
 PPn *mataliki ‘Pleiades’
@@ -8046,7 +8045,7 @@ PEOc *bubu ‘Southern Cross; triggerfish’
  SES: Arosi           |hua i bubu|     ‘Southern Cross; triggerfish’
  Mic: Mokilese        (lō)pʷu          ‘Southern Cross; triggerfish’
  Mic: Woleaian        pʷū              ‘Crux’
- Mic: Marshallese     |pɯubʷin ɛpɔ̄n |  ‘Crux, Southern Cross’ (_pɯupɯ_ ‘black triggerfish’)
+ Mic: Marshallese     |pᵚubʷin ɛpɔ̄n |  ‘Crux, Southern Cross’ (_pᵚupᵚ_ ‘black triggerfish’)
  Mic: Puluwatese      pʷupʷ            ‘Southern Cross; k.o. fish, perhaps triggerfish’
  Mic: Lamotrek        pup              ‘Southern Cross. Also called the leatherjacket fish’
  Mic: Carolinian      bʷūbʷ            ‘Southern Cross; triggerfish’
@@ -8071,8 +8070,8 @@ __formgroup__
 6.5.2.6 The Pointers
 
    The Pointers, Alpha and Beta Centauri, are widely referred to by compounds
-translatable as the ‘two men’. The Sa’a form is derived from POc _*mwaqane_ ‘man, male’,
-while the Polynesian examples are reflexes of POc _*tamwataq_ ‘living person’.
+translatable as the ‘two men’. The Sa’a form is derived from POc _*mʷaqane_ ‘man, male’,
+while the Polynesian examples are reflexes of POc _*tamʷataq_ ‘living person’.
 
 __formgroup__
   SES: Sa’a           |ro mʷane  |         ‘Pointers (to Southern Cross)’ (lit. ‘two men’)
@@ -8095,7 +8094,7 @@ utensil shape.
 __formgroup__
  SES: Sa’a           ireki               ‘the Southern Triangle’ (lit. ‘tongs’)
  SES: Lau            sākai               ‘bamboo tongs: name of constellation of six stars’
- Pn: Tikopia         |te ūkopi  |          ‘the Tongs (Taurus’s forehead), particularly Aldebaran’ (Feinberg 1988:101) (Firth has ūkofi)
+ Pn: Tikopia         |te ūkopi  |          ‘the Tongs (Taurus’s forehead), particularly Aldebaran’ (Feinberg 1988:101) (Firth has _ūkofi_)
  Pn: Anutan          |te aŋa-aŋa|          ‘the Tongs: a constellation consisting of seven stars from Taurus arranged in a V pattern’
 
 
@@ -8120,8 +8119,8 @@ Other names located for Aldebaran include:
 
 __formgroup__
  Mic: Kiribati         |te boto-n-aiai|   ‘Aldebaran (in Taurus)’ (lit. ‘base of ribs (aiai) of canoe’, because it stands in the V-shaped portion of Taurus) (Grimble 1931:241)
- Mic: Marshallese      lɯɔ̄c-lɯaplɯap ‘Aldebaran in Taurus’ (lit. ‘big bonito’)
- Pn: Tahitian          |ana muri|         ‘Aldebaran’ (Lewis 1994:403) (‘rear pillar supporting the sky’; cf. ana mua ‘front pillar, Antares)
+ Mic: Marshallese      lᵚɔ̄c-lᵚaplᵚap ‘Aldebaran in Taurus’ (lit. ‘big bonito’)
+ Pn: Tahitian          |ana muri|         ‘Aldebaran’ (Lewis 1994:403) (‘rear pillar supporting the sky’; cf. _ana mua_ ‘front pillar, Antares)
  Pn: Maori             wero-i-te-kokota ‘Aldebaran’ (‘herald of the digging season’)
 
 
@@ -8183,7 +8182,7 @@ referring at times to Venus.
 <
 PMic *(d,z)umuri ‘Antares’
  Mic: Kiribati       rimʷi(mata)         ‘Antares’
- Mic: Marshallese    tumɯuṛɯ            ‘Antares’
+ Mic: Marshallese    tumᵚuṛᵚ            ‘Antares’
  Mic: Ponapean       tumur               ‘Antares’
  Mic: Chuukese       tumʷur              ‘Antares’
  Mic: Mortlockese    tumur               ‘Scorpio’ (includes Antares)
@@ -8223,11 +8222,11 @@ Micronesian or for the lower-order Micronesian interstage of Proto-Chuukic.
 
 <
 PMic *lakV ‘stars in Pegasus’
- Mic: Marshallese        lɯak             ‘stars in Pegasus’
- Mic: Mortlockese        la               ‘Pegasus’
- Mic: Puluwatese         la               ‘star in Pegasus; month at beginning of breadfruit season, about May’
- Mic: Satawalese         na               ‘Alpheratz; about May’
- Mic: Woleaian           rax              ‘Pegasus’ (Alkire 1970:39)
+ Mic: Marshallese        lᵚak       ‘stars in Pegasus’
+ Mic: Mortlockese        la         ‘Pegasus’
+ Mic: Puluwatese         la         ‘star in Pegasus; month at beginning of breadfruit season, about May’
+ Mic: Satawalese         na         ‘Alpheratz; about May’
+ Mic: Woleaian           rax        ‘Pegasus’ (Alkire 1970:39)
 >
 
                                                            Navigation and the heavens         177
@@ -8252,13 +8251,13 @@ PChk *ukulīk ‘Cassiopeia’ (lit. ‘tail of fish’; POc *ikuR ‘tail’, *
  Mic: Carolinian     ɨkkɨnīx            ‘star or stars in constellation of Cassiopeia’
  Mic: Satawalese     exulix             ‘Cassiopeia’
  cf. also:
- Mic: Marshallese    |lᶭɔkʷan lᶭakeke|  ‘Cassiopeia’ (lit. ‘tail of porpoise’. _Lakeke_ is a constellation shaped like a porpoise)
+ Mic: Marshallese    |lᵚɔkʷan lᵚakeke|  ‘Cassiopeia’ (lit. ‘tail of porpoise’. _Lakeke_ is a constellation shaped like a porpoise)
 >
 
 6.5.2.13 Delphinus
 
 <
-PMic *tapia ‘Bowl constellation, approximately Delphinus’ (POc *tabiRa ‘wooden bowl’)
+PMic *tapia ‘Bowl constellation, approximately Delphinus’ (POc _*tabiRa_ ‘wooden bowl’)
  Mic: Marshallese       cæpe            ‘constellation: stars in Delphinus; bowl’
  Mic: Puluwatese        hæpiy           ‘bowl, calabash’
  Mic: Carolinian        sæpi            ‘constellation approximately Delphinus’
@@ -8298,7 +8297,7 @@ PChk *taropʷolu ‘constellation Corvus’
  Mic: Satawalese         sarapul       ‘Corvus’
  Mic: Woleaian           saẓeɸer      ‘Corvus; a summer month’
  Mic: Lamotrek           sorabol       ‘Corvus’ (lit. ‘viewer of the taro patches’)
- Mic: Sonsorolese        talebʷərᶭ     ‘name of a star’
+ Mic: Sonsorolese        talebʷərᵚ     ‘name of a star’
 >
 
 <
@@ -8320,7 +8319,7 @@ PChk *mul ‘Vega, brightest star in constellation Lyra’
 PChk *caw ‘Dip net constellation, approximately Corona Borealis’
  Mic: Puluwatese       ṛōw       ‘star and a month at the end of the breadfruit season, about December; hand net’
  Mic: Carolinian       ṣōw       ‘constellation approximately equivalent to Corona Borealis; dipping net’
- Mic: Satawalese       roe       ‘Corona Borealis, shaped like a dip net’ (roe lit. ‘dip net’)
+ Mic: Satawalese       roe       ‘Corona Borealis, shaped like a dip net’ (_roe_ lit. ‘dip net’)
  Mic: Woleaian         ṣoū       ‘a Corona Borealis star’
 >
 
@@ -8430,7 +8429,7 @@ including those stars not yet risen or already set, is a _kau panoŋa porau_.’
 group for voyaging’). Feinberg describes this as the Anutans’ single most important
 navigational tool.
 
-   For Tikopia, Firth offers a purely literal term of ara fetū ‘star path’, and compares it
+   For Tikopia, Firth offers a purely literal term of _ara fetū_ ‘star path’, and compares it
 with _ara a vaka_ ‘canoe path’, the latter presumably referring to the actual sea route.
 According to Grimble (1972:296), the Maori term for star path is also _ara fetū_.
 
@@ -8619,7 +8618,7 @@ detail in Chapter 5, where terms for seasonal winds and wind directions are reco
 
    Terms for seasonal winds also come to be applied to that section of the compass from
 which the winds blow. Frequent reference is made in the literature to ‘wind compasses’.
-Parsonson writes (1962:41) that ‘like the Arabs, the Polynesians divided the horizon into a
+Parsonson (1962:41) writes that ‘like the Arabs, the Polynesians divided the horizon into a
 greater or lesser number of points, the Tahitians into 16 parts, the Cook Islanders 32, to
 each of which corresponded a wind’. Lewis has recorded wind compasses in both the
 Southern Cooks and Pukapuka, the Tokelaus and Tahiti, and refers to rather more nebulous
@@ -8698,8 +8697,7 @@ flashes of light a metre or so below the surface, and is in constant motion.
 |     Its flashes dart out from the directions in which islands lie, or else flicker to and fro in
 |     line with these bearings. It is best seen ‘in the middle sea, 80–100 miles out’, but it
 |     invariably indicates the direction of land. As you approach land, it becomes scanty
-|     and finally disappears by the time the island (if an atoll) is well in sight. (Lewis
-|     1994:253)
+|     and finally disappears by the time the island (if an atoll) is well in sight. (Lewis 1994:253)
 
 186    Meredith Osmond
 
@@ -8734,8 +8732,8 @@ Satawalese, _hatag_ in Woleaian[20]). However, Lewis believes that the navigator
 from the Polynesian outlier Pileni, must have used a similar system. He writes:
 
 |      His [Tevake’s] ability to point out the direction of invisible islands whenever he
-|      wished is presumptive evidence that he was thinking in terms of some form of home-
-|      centre reference system.
+|      wished is presumptive evidence that he was thinking in terms of some form of homecentre
+|      reference system.
 
 and again,
 
@@ -8876,61 +8874,61 @@ Polynesian are listed in Table 4.
 
 __table__
 Term                   | POc                             |  PMic                   |  PPn
-sun                    | *qaco ‘sun, daytime’            |  *alo ‘sun’         |  *qaso ‘day as time span’
-                       |                                 |                         |  PNPn *qaho ‘daytime’
-                       | *raqani ‘daytime’               |  *rāni ‘day’            |  …
-                       | *[dr,r]aqaa ‘sun’s heat, light’ |                         |  *laqā ‘sun’
-                       | *raraŋ ‘be warm’                |  *raŋ                |  *rara ‘heat over fire’
-                       | *sinaR ‘to shine, sun’          |  *sina ‘light, shine’   |  *mā-sina ‘moon’
-moon                   | *pulan                          |  …                      |  *pula ‘to glow’
-                       | *(d)rama(R) ‘light’             |  *marama                |  *marama ‘moon’
-                       |                                 |                      |  *mā-rama ‘light, bright’
-star (generic)         | *pituqun                        |  *fitū                  |  *fetuqu
-Venus                  | *ma-dala                        |  *matal                 |  …
-                       | …                               |  *fituu rāni          | *fetuqu qaho ‘day star’
-Bird constellation     | *manuk                          |  *ma(a)nu               |  *manu
-Sirius?                | …                               |  …                      |  *takulua
-star in Orion          | …                               |  …                      |  *tākelo
-Orion’s Belt           | *tolu-                          |  *telu-                 |  *tolu-
-Pleiades               | *bulu(q)                        |  …                      |  …
-                       | …                               |  …                      |  *mataliki
-Southern Cross         | ? *paRi                         |  …                      |  …
-                       | …                               |  *pʷupʷu                |  …
-Pointers               | …                               |   …                     |  PNPn *rua taŋata
-Aldebaran              | …                               |  *u(C)unu               |  …
-Polaris                | …                               |  PChk *fitū mʷakut      |  …
-Altair                 | …                               |  PChk *mai-lapa         |  …
-Antares                | …                               |  *(d,z)umuri            |  …
-                       | …                               |  …                      |  PNPn *mele-mele
-                       |                                 |                         |  PCEPn *refua
-Pegasus                | …                               |  *lakV                  |  …
-Dolphin constellation  | …                               |  *kua                   |  …
-Cassiopeia             | …                               |  PChk *ukulīk           |  …
-Bowl constellation (Delphinus) | …                       |  *tapia                 |  …
-Arcturus               | …                               |  *aremoi                |  …
-Corvus constellation   | …                               |  PChk *taropʷolu        |  …
-Leo constellation      | …                               |  PChk *ici              |  …
-Vega                   | …                               |  PChk *mul              |  …
-Dip net constellation (Corona Borealis) | …              |  PChk *caw              |  …
-stars in Ursa Major    | …                               |  PChk *wuleko           |  …
-Equeleus constellation | …                               |  PChk *tə̄(d,z)a         |  …
-Magellanic Clouds      | …                               |  …                      | *maqafu
-Milky Way              | …                               |  …                      | *kaniwa
-sky                    | *laŋit                          |  *laŋi                  | *laŋi
-                       | …                               |  *kadawa ‘heavens’      | …
-horizon                | …                               |  PChk *pai-laŋi         | *tafa-qaki-laŋi
-star path (that which is steered for) | …                |  …                      | *kaweiŋa
-star rise              | *sake ‘to rise, upwards’        |  *sake                  | *hake ‘upwards’
-star set               | *sipo ‘to go down, downwards’   |  *tipwo                 | *hifo ‘downwards’
-                       | …    | *zolo ‘to descend, disappear (below horizon)’      | …
-ocean swell            | *ŋalu(n) ‘wave, swell’          |  *ŋalu ‘wave, swell’    | *ŋalu ‘wave’
-wave, swell            | *bayau ‘ocean swell, whether breaking or not’  |  *peau   | …
-lightning              | *lap(w)a(r,R)                   |  …                      | *lapa ‘flash of light’
-open sea               | *masawa(n,ŋ)                    |  *masawa                | *moana
-sea, salt water        | *tasik                          |  *tasi                  | *tahi ‘shallow sea’
-deep blue sea          | *laman                          |  …                      | …
-current                | *qaRus                          |  *aus                   | *qau
-reef                   | *sakaRu            |  *sakau ‘reef, shoal, reef island’   | *hakau ‘coral reef’
+sun                    | _*qaco_ ‘sun, daytime’            |  _*alo_ ‘sun’         |  _*qaso_ ‘day as time span’
+                       |                                 |                         |  PNPn _*qaho_ ‘daytime’
+                       | _*raqani_ ‘daytime’               |  _*rāni_ ‘day’            |  …
+                       | _*[dr,r]aqaa_ ‘sun’s heat, light’ |                         |  _*laqā_ ‘sun’
+                       | _*raraŋ_ ‘be warm’                |  _*raŋ_                |  _*rara_ ‘heat over fire’
+                       | _*sinaR_ ‘to shine, sun’          |  _*sina_ ‘light, shine’   |  _*mā-sina_ ‘moon’
+moon                   | _*pulan_                          |  …                      |  _*pula_ ‘to glow’
+                       | _*(d)rama(R)_ ‘light’             |  _*marama_                |  _*marama_ ‘moon’
+                       |                                 |                      |  _*mā-rama_ ‘light, bright’
+star (generic)         | _*pituqun_                        |  _*fitū_                  |  _*fetuqu_
+Venus                  | _*ma-dala_                        |  _*matal_                 |  …
+                       | …                               |  _*fituu rāni_          | _*fetuqu qaho_ ‘day star’
+Bird constellation     | _*manuk_                          |  _*ma(a)nu_               |  _*manu_
+Sirius?                | …                               |  …                      |  _*takulua_
+star in Orion          | …                               |  …                      |  _*tākelo_
+Orion’s Belt           | _*tolu-_                          |  _*telu-_                 |  _*tolu-_
+Pleiades               | _*bulu(q)_                        |  …                      |  …
+                       | …                               |  …                      |  _*mataliki_
+Southern Cross         | ? _*paRi_                         |  …                      |  …
+                       | …                               |  _*pʷupʷu_                |  …
+Pointers               | …                               |   …                     |  PNPn _*rua taŋata_
+Aldebaran              | …                               |  _*u(C)unu_               |  …
+Polaris                | …                               |  PChk _*fitū mʷakut_      |  …
+Altair                 | …                               |  PChk _*mai-lapa_         |  …
+Antares                | …                               |  _*(d,z)umuri_            |  …
+                       | …                               |  …                      |  PNPn _*mele-mele_
+                       |                                 |                         |  PCEPn _*refua_
+Pegasus                | …                               |  _*lakV_                  |  …
+Dolphin constellation  | …                               |  _*kua_                   |  …
+Cassiopeia             | …                               |  PChk _*ukulīk_           |  …
+Bowl constellation (Delphinus) | …                       |  _*tapia_                 |  …
+Arcturus               | …                               |  _*aremoi_                |  …
+Corvus constellation   | …                               |  PChk _*taropʷolu_        |  …
+Leo constellation      | …                               |  PChk _*ici_              |  …
+Vega                   | …                               |  PChk _*mul_              |  …
+Dip net constellation (Corona Borealis) | …              |  PChk _*caw_              |  …
+stars in Ursa Major    | …                               |  PChk _*wuleko_           |  …
+Equeleus constellation | …                               |  PChk _*tə̄(d,z)a_         |  …
+Magellanic Clouds      | …                               |  …                      | _*maqafu_
+Milky Way              | …                               |  …                      | _*kaniwa_
+sky                    | _*laŋit_                          |  _*laŋi_                  | _*laŋi_
+                       | …                               |  _*kadawa_ ‘heavens’      | …
+horizon                | …                               |  PChk _*pai-laŋi_         | _*tafa-qaki-laŋi_
+star path (that which is steered for) | …                |  …                      | _*kaweiŋa_
+star rise              | _*sake_ ‘to rise, upwards’        |  _*sake_                  | _*hake_ ‘upwards’
+star set               | _*sipo_ ‘to go down, downwards’   |  _*tipwo_                 | _*hifo_ ‘downwards’
+                       | …    | _*zolo_ ‘to descend, disappear (below horizon)’      | …
+ocean swell            | _*ŋalu(n)_ ‘wave, swell’          |  _*ŋalu_ ‘wave, swell’    | _*ŋalu_ ‘wave’
+wave, swell            | _*bayau_ ‘ocean swell, whether breaking or not’  |  _*peau_   | …
+lightning              | _*lap(w)a(r,R)_                   |  …                      | _*lapa_ ‘flash of light’
+open sea               | _*masawa(n,ŋ)_                    |  _*masawa_                | _*moana_
+sea, salt water        | _*tasik_                          |  _*tasi_                  | _*tahi_ ‘shallow sea’
+deep blue sea          | _*laman_                          |  …                      | …
+current                | _*qaRus_                          |  _*aus_                   | _*qau_
+reef                   | _*sakaRu_            |  _*sakau_ ‘reef, shoal, reef island’   | _*hakau_ ‘coral reef’
 
    From the table, it can be seen that _*manuk_ ‘bird’ and _*tolu_ ‘three’ for Orion’s Belt, are
 the only star reconstructions with reflexes in both Polynesian and Micronesian languages.
@@ -9256,7 +9254,7 @@ _*riki(t,q)_ ‘small’, and the circumstantial evidence presented above sugges
 adjectival nouns. This inference is moderately supported in the case of _*lapuat_ by the
 presence of two reflexes of the reduplicated intensified form _*lap(u)-lapuat_ (Tigak
 _lap-lavu_, Marshallese _lɯap-lɯap_) and one of a reduplicated plural form _*la-lapuat_
-(Marshallese _lɯ-lɯap_). Both reduplication strategies characterised adjectival nouns in POc
+(Marshallese _lᵚ-lᵚap_). Both reduplication strategies characterised adjectival nouns in POc
 (Ross 1998a).
 
     Elsewhere I have reconstructed the term for ‘big’ as *labʷat (Ross 1998a:109), as the
@@ -9311,9 +9309,9 @@ POc *lapuat ‘big, important’ (Lichtenberk 1986:350: *la(m)pat ‘(be) big, g
  SV:  N Tanna             empʷət             ‘big, important’
  SV:  Whitesands          epʷət              ‘big, important’
  SV:  Anejom              (a)lpʷas           ‘big, important’
- Mic: Marshallese         lᶭap               ‘great, large’
- Mic: Marshallese         lᶭ-lᶭap            ‘great, large (PL)’
- Mic: Marshallese         lᶭap-lᶭap          ‘very great, very large’
+ Mic: Marshallese         lᵚap               ‘great, large’
+ Mic: Marshallese         lᵚ-lᵚap            ‘great, large (PL)’
+ Mic: Marshallese         lᵚap-lᵚap          ‘very great, very large’
  Mic: Woleaian            rap                ‘big, important’
  Fij: Bauan               levu               ‘big, important’
  cf. also:
@@ -9345,14 +9343,14 @@ occurred at an earlier interstage. This contrast is reflected in the following c
 which reflect PPn _*tama_ ‘child’ (from POc _*tama-_ ‘father’):
 
 __table__
-      PPn                  |    *tama-qiti   ‘child’   |     *tama-riki ‘children’
-      Tongan               |    (tama-siʔi)[8]         |      tama-iki
-      E Uvean              |    (tama-siʔi)            |    tama-liki
-      Rennellese           |    tama-ʔiti-ʔiti         |    tama-giki
-      Hawaiian             |    kama-iki (rare)        |    kama-liʔi
-      Tahitian             |    tama-iti               |    tama-riʔi
-      Rarorongan           |    tama-iti               |    tama-riki
-      Maori                |    tama-iti               |    tama-riki
+      PPn                  |    _*tama-qiti_   ‘child’   |    _*tama-riki_ ‘children’
+      Tongan               |    _(tama-siʔi)_[8]         |    _tama-iki_
+      E Uvean              |    _(tama-siʔi)_            |    _tama-liki_
+      Rennellese           |    _tama-ʔiti-ʔiti_         |    _tama-giki_
+      Hawaiian             |    _kama-iki (rare)_        |    _kama-liʔi_
+      Tahitian             |    _tama-iti_               |    _tama-riʔi_
+      Rarorongan           |    _tama-iti_               |    _tama-riki_
+      Maori                |    _tama-iti_               |    _tama-riki_
 
 [8] Tongan and E. Uvean _-siʔi_ would reflect apparent PPn _*tiqi_, and are therefore perhaps metathesised
   reflexes of PPn _*qiti_.
@@ -9531,7 +9529,7 @@ b. ane-n    laŋi
    mother-n wind
    ‘an immensely powerful hurricane’ (more literally ‘the mother of winds’)
 
-Similarly in Tinrin (New Caledonia) _hɯwɯ[n̡ã]_ is both ‘small’ and ‘child of, sprout of’.
+Similarly in Tinrin (New Caledonia) _hɯwɯ[ṇã]_ is both ‘small’ and ‘child of, sprout of’.
 
    Matisoff (1992) has examined ‘mother of’ and ‘child of’ constructions which serve as
 augmentatives and diminutives in a range of Asian languages. Interestingly, whilst he
@@ -9550,7 +9548,7 @@ tall and long. Wide and narrow refer to the transverse dimension of a flat objec
 thin to the transverse dimension of an object which is not flat. Far and near(by) refer to
 distances, not to objects.
 
-    POc evidently made no horizontal/vertical distinction, so that _*b(w)arapu_, _*[ma]lago_
+    POc evidently made no horizontal/vertical distinction, so that _*(b,bʷ)arapu_, _*[ma]lago_
 and _*[ma]lawa_ were used for ‘tall’ and ‘long’, and the two latter items evidently also for
 ‘far’ (§2.2.1). There are fewer reflexes of _*tuku_ and _*botoŋ_ ‘short’, so it is harder to know
 just how they were used (§2.2.2).
@@ -9626,7 +9624,7 @@ POc *[ma]lago ‘long, tall’
  MM: Meramera          lago             ‘long’
 >
 
-[10] A PMP form with *ma- is reflected by Palawan mblaŋkbw, Molbog molaŋkow, and Uma molaŋko, all
+[10] A PMP form with *ma- is reflected by Palawan _mɒlaŋkɒw_, Molbog _molaŋkow_, and Uma _molaŋko_, all
    ‘tall’ (data from Tryon, ed. 1995).
 
 <
@@ -9808,7 +9806,7 @@ POc *pa-raŋi, *paka-raŋi ‘be near’
  SES: Kahua           haɣa-raŋi                    ‘near’
 >
 
-  There was also a POc term *tata ‘near’, perhaps an adverb:
+  There was also a POc term _*tata_ ‘near’, perhaps an adverb:
 
 <
 POc *tata (ADV) ‘near’
@@ -9938,7 +9936,7 @@ POc *manipis ‘thin’
 
    Two POc terms for ‘new’ can be reconstructed: the adjectival noun _*paqoRu_, which
 was also applied to animate beings in the sense of ‘young’ (Pawley 1982b), and
-_*ka(l,r)abwa_, which has fewer reflexes, but as these occur in both MM and NCV
+_*ka(l,r)abʷa_, which has fewer reflexes, but as these occur in both MM and NCV
 languages, it must be reconstructed as POc. Meso-Melanesian reflexes of the latter reflect
 _*-l-_, North and Central Vanuatu reflexes reflect _*-r-_.
 
@@ -10097,8 +10095,8 @@ _*-ka_, or both (see p.196).
 
     PMP terms were of the form _*ma-_ + ROOT. Blust (ACD) concludes that PMP had a
 classic three-term colour system, i.e. terms for black, white and red. Other terms were
-derived from terms for natural objects or, in the case of ‘green’, unripeness (see vol. 1,
-p.155). The same comments evidently applied to POc. The three PMP terms were _*ma-_
+derived from terms for natural objects or, in the case of ‘green’, unripeness (see vol. 1, p.155).
+The same comments evidently applied to POc. The three PMP terms were _*ma-_
 qitem ‘black, dark in colour’, _*ma-iRaq_ ‘red’, and _*ma-putiq_ ‘white, light in colour’. The
 first two are continued in POc _*maqeto(m)_ and POc _*meRaq_. Until recently, I thought that
 _*ma-putiq_ had been lost in POc and replaced by a plethora of terms, but two reflexes have
@@ -10171,7 +10169,7 @@ PEOc *marawa ‘green, blue’
  SES: Kwaio           malakʷa                  ‘green’
  SES: Arosi           marawā                   ‘green, blue (if bright)’
  Mic: Kiribati        māwawa                   ‘green, blue’
- Mic: Marshallese     maṛᶭɔṛᶭɔ                 ‘green’
+ Mic: Marshallese     maṛᵚɔṛᵚɔ                 ‘green’
 >
 
    Blust (2001) observes that colour terms with a reduplicated root are common in Oceanic
@@ -10234,8 +10232,7 @@ different languages, and it is sometimes hard to determine whether the reduplica
 already occurred in POc or whether the reduplicated forms result from independent parallel
 derivations. We can arrange cases on a rough cline. At one extreme is POc _*[yaŋo]yaŋo_
 ‘yellow’, whose reflexes occur so consistently across Oceania that it seems over-cautious
-not to reconstruct it. The base form was POc _*yaŋo_ ‘turmeric, Curcuma longa’ (Ross
-1996d:216).
+not to reconstruct it. The base form was POc _*yaŋo_ ‘turmeric, Curcuma longa’ (Ross 1996d:216).
 
 <
 POc *[yaŋo]yaŋo ‘yellow’
@@ -10335,7 +10332,7 @@ POc *keja-ka, *[keja]keja ‘green’
  MM:  Nakanai         ka-kesa          ‘green’
  NCV: Mota            gesa-gesa(ga)    ‘bright blue, or bright green’
  NCV: Raga            geha(ga)         ‘blue-green’
- NCV: Tamambo         ɣenja(ɣa)        ‘blue-green’ (ɣenja ‘k.o. blue-green fish’)
+ NCV: Tamambo         ɣenja(ɣa)        ‘blue-green’ (_ɣenja_ ‘k.o. blue-green fish’)
  NCV: Nguna           kesa-kesa        ‘blue’
  Pn:  Tikopia         kesa             ‘green, yellow-green, with suggestion of off-colour; greyish-green’
 >
@@ -10430,12 +10427,12 @@ vice versa.
 
     The data require that we reconstruct two variants for each of the three terms. Thus we
 reconstruct not only _*[ma]koto_, whose canonic shape suggests that it is the inherited term,
-but also _*ta-kodos_, which is derived from *kodos ‘go straight; straighten’ (see p.196).[21]
-I suspect that the verbs *[ma]koto and *kodos were separately inherited into POc (although
+but also _*ta-kodos_, which is derived from _*kodos_ ‘go straight; straighten’ (see p.196).[21]
+I suspect that the verbs _*[ma]koto_ and _*kodos_ were separately inherited into POc (although
 no non-Oceanic cognates have been found) and that their formal similarity is attributable to
 derivation at an earlier stage, as POc _*-t-_ and _*-d-_ reflect PMP _*-t-_ and _*-nt-_ respectively.
 The Polynesian reflexes are attributed to the set with _*-t-_ because of their similarity in
-meaning to Bauan koto. Formally, they could at least as well reflect POc *ta-kodos.
+meaning to Bauan koto. Formally, they could at least as well reflect POc _*ta-kodos_.
 
 [21] The Southeast Solomonic reflexes show unexplained loss of _*k_.
 
@@ -10443,7 +10440,7 @@ meaning to Bauan koto. Formally, they could at least as well reflect POc *ta-kod
 POc *[ma]koto ‘straight’
  MM:  Vitu         maɣoto          ‘straight; (ground) flat’
  MM:  Tolai        ot              ‘straight’
- SES: Gela         oto             ‘go directly, straight; set face to do, stare straight at’ (for expected *ɣoto)
+ SES: Gela         oto             ‘go directly, straight; set face to do, stare straight at’ (for expected _*ɣoto_)
  SES: W Guad.      ɣoto            ‘straight, correct’
  Fij: Bauan        koto            (V) ‘lie down’; (ADJ) ‘extended, stretched out’
  Pn:  Tongan       to-koto         (V) ‘lie down’
@@ -10489,8 +10486,8 @@ POc *[t,d]onu(p) ‘straight’[22]
 
    I have no explanation for the pair _*mʷane-mʷane_ and _*wane-wane_. Reflexes of the
 former occur in the Admiralties, Southeast Solomonic and New Caledonia, of the latter in
-the Schoutens and Micronesia. However, if the Ali reflex were non-cognate, then *wane-
-wane would simply be a Nuclear Micronesian innovation.
+the Schoutens and Micronesia. However, if the Ali reflex were non-cognate, then
+_*wane-wane_ would simply be a Nuclear Micronesian innovation.
 
 <
 POc *mʷane-mʷane ‘straight, direct; flat, level’ (ACD)
@@ -10967,62 +10964,61 @@ their expression in Oceanic languages.
 
 230     Malcolm Ross
 
-
-<ol><li>A system of geographic directions based on a division of the environment that
-     normally has a vertical (‘up’/‘down’) axis and a horizontal axis. On the horizontal axis
-     European languages have the cardinal directions ‘north’, ‘south’, ‘east’ and ‘west’. In
-     Oceanic languages there are usually two sets of geographic directions, one used on or
-     near land, the other used at sea (cf. Hill 1997, François 2003, 2004a). Typically each
-     has two subsystems.
-     <ol><li>The land-based subsystems are (cf. Ozanne-Rivierre 1997):
-         <ol><li>one with an inland/seaward axis, sometimes with a transverse axis
-              pointing left and right along the coast (each axis is typically denoted by a
-              local noun in a local construction; p.232);</li>
-             <li>one based on a river valley with an up/down axis (often using the vertical
-               terms) and a transverse axis with one directionally neutral (‘across the
-               valley’) term (each axis is typically expressed by a directional verb or
-               other directional morpheme).</li></ol>
-         <li>The sea-based subsystems both refer to a northwest–southeast axis,
-         <ol><li>one using the terms for the northwest storm wind and the southeast trade
-               wind (POc *apaRat and *raki respectively; Ch. 5, §4.2);</li>
-              <li>the other applying the river valley subsystem with its up/down axis (and
-               perhaps its transverse axis) metaphorically to the sea, such that ‘down’ is
-               towards the northwest and ‘up’ towards the southeast (François 2003,
-               2004a).</li></ol></ol>
-      If we wanted to be particular, incidentally, we could label a number of geographic
-      expressions ‘deictic-geographic’. To say that something is seawards, for example, is to
-      place it in relation to the speaker. If the speaker were closer to the sea, the same
-      referent might be ‘inland’.</li>
-    <li>An intrinsic system specifies the location of an object in relation to a reference object.
-      European languages often use prepositions for this purpose (in, on, under, over,
-      beside). A few Oceanic languages also use adpositions, but in the majority a local
-      construction is used. This is often an adpositional phrase containing a relational local
-      noun, i.e. a noun that refers to a part of the reference object or to a location in relation
-      to the reference object (‘inside’, ‘upper surface’, ‘top’, ‘underside’, ‘side’).</li>
-    <li>Relative locations entail both the position of a reference person, often the speaker, and
-      the position of a reference object. Relative locations look like intrinsic locations, but
-      the latter do not entail a reference person (Leech 1969:167–168). For example, ‘in
-      front of the house’ is an intrinsic location because a house has a ‘front’. For an
-      Oceanic speaker, this is the side with the ladder, balcony and door. But ‘in front of the
-      tree’ is a relative location because a tree has no intrinsic front. When an English
-      speaker uses this expression, s/he treats the tree as if it were facing her/him, and so the
-      part of the tree that ‘faces’ the speaker is treated as its front. Thus the ‘front’ changes
-      with a change in the speaker’s position. Similarly, ‘turn left’ entails a reference
-      person—the addressee— and a reference object. The reference object is the
-      addressee’s body, and the direction of ‘left’ varies according to the addressee’s
-      location and which way s/he is facing. Relative locations are not used in Oceanic
-      languages, however. Oceanic speakers use terms like ‘front’ and ‘left’ intrinsically.
-      One does not talk about the ‘front’ of a tree, and ‘left’ is strictly an intrinsic part of the
-      speaker’s body, not a direction (Ozanne-Rivierre 1997). Instead, one uses the
-      geographic system: ‘seawards of the tree’, ‘go left-along-the-coast’ (cf. Hill 1997).</li>
-    <li>A deictic system is based on location relative to the speaker or to some other person
-      and often also relative to the addressee. Deictic expressions are tied to the context of
-      the individual speech act; they do not refer to fixed points in space. All languages
-      probably have demonstratives of some kind (‘this’/‘that’, ‘here’/‘there’, ‘voici’/‘voilà’
-      etc). Many Oceanic languages in addition have deictic directional morphemes in their
-      verb phrases (or sometimes in locative phrases) which indicate whether direction
-      associated with the event is towards the speaker and/or, in some languages, towards
-      the addressee.[1]</li></ol>
+__block__
+ 1. A system of __geographic__ directions based on a division of the environment that
+    normally has a vertical (‘up’/‘down’) axis and a horizontal axis. On the horizontal axis
+    European languages have the cardinal directions ‘north’, ‘south’, ‘east’ and ‘west’. In
+    Oceanic languages there are usually two sets of geographic directions, one used on or
+    near land, the other used at sea (cf. Hill 1997, François 2003, 2004a). Typically each
+    has two subsystems.
+    (a) The land-based subsystems are (cf. Ozanne-Rivierre 1997):
+        (i)  one with an inland/seaward axis, sometimes with a transverse axis
+             pointing left and right along the coast (each axis is typically denoted by a
+             local noun in a local construction; p.232);
+        (ii) one based on a river valley with an up/down axis (often using the vertical
+             terms) and a transverse axis with one directionally neutral (‘across the
+             valley’) term (each axis is typically expressed by a directional verb or
+             other directional morpheme).
+    (b) The sea-based subsystems both refer to a northwest–southeast axis,
+        (i)  one using the terms for the northwest storm wind and the southeast trade
+             wind (POc *apaRat and *raki respectively; Ch. 5, §4.2);
+        (ii) the other applying the river valley subsystem with its up/down axis (and
+             perhaps its transverse axis) metaphorically to the sea, such that ‘down’ is
+             towards the northwest and ‘up’ towards the southeast (François 2003, 2004a).
+    If we wanted to be particular, incidentally, we could label a number of geographic
+    expressions ‘deictic-geographic’. To say that something is seawards, for example, is to
+    place it in relation to the speaker. If the speaker were closer to the sea, the same
+    referent might be ‘inland’.
+ 2. An __intrinsic__ system specifies the location of an object in relation to a reference object.
+    European languages often use prepositions for this purpose (in, on, under, over,
+    beside). A few Oceanic languages also use adpositions, but in the majority a local
+    construction is used. This is often an adpositional phrase containing a relational local
+    noun, i.e. a noun that refers to a part of the reference object or to a location in relation
+    to the reference object (‘inside’, ‘upper surface’, ‘top’, ‘underside’, ‘side’).
+ 3. __Relative__ locations entail both the position of a reference person, often the speaker, and
+    the position of a reference object. Relative locations look like intrinsic locations, but
+    the latter do not entail a reference person (Leech 1969:167–168). For example, ‘in
+    front of the house’ is an intrinsic location because a house has a ‘front’. For an
+    Oceanic speaker, this is the side with the ladder, balcony and door. But ‘in front of the
+    tree’ is a relative location because a tree has no intrinsic front. When an English
+    speaker uses this expression, s/he treats the tree as if it were facing her/him, and so the
+    part of the tree that ‘faces’ the speaker is treated as its front. Thus the ‘front’ changes
+    with a change in the speaker’s position. Similarly, ‘turn left’ entails a reference
+    person—the addressee— and a reference object. The reference object is the
+    addressee’s body, and the direction of ‘left’ varies according to the addressee’s
+    location and which way s/he is facing. Relative locations are not used in Oceanic
+    languages, however. Oceanic speakers use terms like ‘front’ and ‘left’ intrinsically.
+    One does not talk about the ‘front’ of a tree, and ‘left’ is strictly an intrinsic part of the
+    speaker’s body, not a direction (Ozanne-Rivierre 1997). Instead, one uses the
+    geographic system: ‘seawards of the tree’, ‘go left-along-the-coast’ (cf. Hill 1997).
+ 4. A __deictic__ system is based on location relative to the speaker or to some other person
+    and often also relative to the addressee. Deictic expressions are tied to the context of
+    the individual speech act; they do not refer to fixed points in space. All languages
+    probably have demonstratives of some kind (‘this’/‘that’, ‘here’/‘there’, ‘voici’/‘voilà’
+    etc). Many Oceanic languages in addition have deictic directional morphemes in their
+    verb phrases (or sometimes in locative phrases) which indicate whether direction
+    associated with the event is towards the speaker and/or, in some languages, towards
+    the addressee.[1]
 
 [1] I am very grateful to John Lynch for his help and advice in interpreting data from New Caledonian
   languages, to Alexandre François for sharing with me his work on Oceanic marine directions, and to
@@ -11033,22 +11029,21 @@ their expression in Oceanic languages.
    Relationships between widespread Oceanic categories that probably existed in POc and
 systems of talking about space are summarised below.
 
-   (a) Some local nouns (§2) are used to express the directions of the vertical,
-       inland/seaward and coastal axes of the geographic system. Overlapping with
-       these semantically are local nouns that express locations and directions in the
-       local environment that are part of the shared experience of speaker and addressee
-       (‘home’, ‘bush’, ‘garden’ etc). There are also relational local nouns that express
-       locations (‘inside’ etc) in the intrinsic system.
-
-   (b) Directional morphemes (§3) in verb phrases and in adjuncts are used in Oceanic
-       languages to express geographic (vertical and valley-based) and deictic
-       directions. In single-verb predicates and in serial verb constructions these
-       morphemes are verbs. Elsewhere they are morphemes grammaticised from
-       verbs. Grammaticisation had probably already occurred in some cases in Proto
-       Oceanic (Ross 2003).[2]
-
-   (c) Demonstratives are used as static deictics. The reconstruction of demonstratives
-       is not treated in this chapter.
+__block__
+(a) Some __local nouns__ (§2) are used to express the directions of the vertical,
+    inland/seaward and coastal axes of the _geographic_ system. Overlapping with
+    these semantically are local nouns that express locations and directions in the
+    local environment that are part of the shared experience of speaker and addressee
+    (‘home’, ‘bush’, ‘garden’ etc). There are also relational local nouns that express
+    locations (‘inside’ etc) in the _intrinsic_ system.
+(b) __Directional__ morphemes (§3) in verb phrases and in adjuncts are used in Oceanic
+    languages to express _geographic_ (vertical and valley-based) and _deictic_
+    directions. In single-verb predicates and in serial verb constructions these
+    morphemes are verbs. Elsewhere they are morphemes grammaticised from
+    verbs. Grammaticisation had probably already occurred in some cases in Proto
+    Oceanic (Ross 2003).[2]
+(c) __Demonstratives__ are used as static _deictics_. The reconstruction of demonstratives
+    is not treated in this chapter.
 
 [2] Note that two morphosyntactic categories were used to express the vertical dimension in POc: local nouns
   and directional verbs.
@@ -11102,59 +11097,65 @@ subclasses of noun: personal, common and local. These subclasses are defined by 
 constructions in which they occur. Since some nouns occur in a number of constructions,
 they are assigned to more than one subclass.
 
-<ol><li>Personal: personal proper names and kin terms used of known individuals. In POc a
-     personal noun phrase construction consisted of the personal article *i or *e plus a
-     personal noun,[3] reflected in Taiof (MM) e Maras ‘Maras (proper name)’, e cina-nai
-     (ART mother-P:3SG) ‘his/her mother’.[4] In Longgu (SES) personal nouns occur without
-     an article, but POc *i is reflected in the ‘pronominal article’ in i gira ‘they’ and other
-     free pronouns.</li>
-    <li>Common: human nouns and non-human animates when not used of known
-      individuals, as well as inanimates and abstract nouns. A common noun with a specific
-      referent was in most cases preceded by the common article *a or *na, as in POc *a/na
-      Rumaq ‘a/the house’.[5] The construction is reflected in Taiof a numa ‘a/the house’, a
-      patu-re (ART head-P:3PL) ‘their heads’; Longgu a komu-i (ART village-SG) ‘the
-      village’[6]. If such a noun was used in an adjunct construction it was preceded by the
-      sequence *i ta-, as in POc *i ta-ña Rumaq (PREP *ta-P:3SG house) ‘at a/the house’.[7] In
-      this construction *ta- was a monovalent semantically empty noun. In most Oceanic
-      languages where this latter construction is reflected, however, *i has dropped out,
-      leaving *ta- as a preposition.[8] Hence Taiof ta-na patu-na tober (PREP-P:3SG head-
-      P:3SG hill) ‘on top of the hill’, Longgu ta-na iola-i (PREP-P:3SG canoe-SG).</li>
-     <li>Local: nouns used with reference to a specific location, a time, or an intrinsically
-      located part of something. The POc local construction consisted of the preposition *i
-      plus a local noun, with no intervening article. Local nouns include:
-    <ol><li>proper placenames;</li>
-        <li>nouns denoting locations, including
-        <ol><li>nouns denoting familiar places like ‘home’, ‘(own) village’, ‘(own) garden’, ‘bush’, ‘beach’ etc.;</li>
-            <li>nouns denoting geographic directions, ‘down below’, ‘up above’;</li></ol>
-        <li>temporal nouns;</li>
-        <li>monovalent relational nouns, e.g. nouns denoting intrinsic parts, like ‘inside’, ‘upper surface or space above’, ‘lower surface’, ‘space beneath’ and so on;</li></ol>
-     In Taiof a local noun may form a locative expression without a preposition (i.e. *i has
-     been lost), like koma-na matan below.[9] A locative expression with a common noun
-     must be formed with a preposition.
-     <pre>
-         E   Maras to   noŋos no-n       koma=na matan.
-         ART Maras REAL dwell IMPF-P:3SG inside=ART ditch
-         ‘Maras is in the ditch.’
-     </pre>
-     In Longgu local and common nouns are preceded by different paradigms of relators
-     and prepositions (the term ‘relator’ is explained on p.268):
-     <pre>
-                                         location         extent             direction
-                                         ‘at’             ‘as far as’        ‘to, towards’
-         with a local noun               i                mi                 vu
-         with a common noun              ta-              mi ta-             vu ta-
-     </pre>
-     Thus we find:
-     <pre>
-        e     la vu komu (local noun)
-        S:3SG go R  village
-        ‘s/he went towards her/his (home) village’
-         e     la vu   ta-na      iola  ŋaia (common noun)
-         S:3SG go R    PREP-P:3SG canoe D:3SG
-         ‘s/he went to her/his (canoe)’
-     </pre>
-     When a local noun indicating a geographic direction follows a verb it may occur
-     without a preposition or relator, e.g. lae asi ‘go seawards’.</li></ol>
+__block__
+ 1. __Personal__: personal proper names and kin terms used of known individuals. In POc a
+    __personal noun phrase construction__ consisted of the personal article _*i_ or _*e_ plus a
+    personal noun,[3] reflected in Taiof (MM) _e Maras_ ‘Maras (proper name)’, _e cina-nai_
+    (ART mother-P:3SG) ‘his/her mother’.[4] In Longgu (SES) personal nouns occur without
+    an article, but POc _*i_ is reflected in the ‘pronominal article’ in _i gira_ ‘they’ and other
+    free pronouns.
+ 2. __Common__: human nouns and non-human animates when not used of known
+    individuals, as well as inanimates and abstract nouns. A common noun with a specific
+    referent was in most cases preceded by the common article _*a_ or _*na_, as in POc _*a_/_na_
+    _Rumaq_ ‘a/the house’.[5] The construction is reflected in Taiof _a numa_ ‘a/the house’,
+    _a patu-re_ (ART head-P:3PL) ‘their heads’; Longgu _a komu-i_ (ART village-SG) ‘the
+    village’[6]. If such a noun was used in an __adjunct construction__ it was preceded by the
+    sequence _*i ta-_, as in POc _*i ta-ña Rumaq_ (PREP *ta-P:3SG house) ‘at a/the house’.[7] In
+    this construction _*ta-_ was a monovalent semantically empty noun. In most Oceanic
+    languages where this latter construction is reflected, however, _*i_ has dropped out,
+    leaving _*ta-_ as a preposition.[8] Hence Taiof _ta-na patu-na tober_
+    (PREP-P:3SG head-P:3SG hill) ‘on top of the hill’, Longgu _ta-na iola-i_ (PREP-P:3SG canoe-SG).
+ 3. __Local__: nouns used with reference to a specific location, a time, or an intrinsically
+    located part of something. The POc __local construction__ consisted of the preposition *i
+    plus a local noun, with no intervening article. Local nouns include:
+    (a) proper placenames;
+    (b)  nouns denoting locations, including
+         (i)  nouns denoting familiar places like ‘home’, ‘(own) village’, ‘(own) garden’, ‘bush’, ‘beach’ etc.;
+         (ii) nouns denoting geographic directions, ‘down below’, ‘up above’;
+    (c) temporal nouns;
+    (d) monovalent relational nouns, e.g. nouns denoting intrinsic parts, like ‘inside’, ‘upper surface or space  above’, ‘lower surface’, ‘space beneath’ and so on;
+    In Taiof a local noun may form a locative expression without a preposition (i.e. *i has
+    been lost), like koma-na matan below.[9] A locative expression with a common noun
+   must be formed with a preposition.
+
+__igt__
+       E   Maras to   noŋos no-n       koma=na matan.
+       ART Maras REAL dwell IMPF-P:3SG inside=ART ditch
+       ‘Maras is in the ditch.’
+
+__block__
+   In Longgu local and common nouns are preceded by different paradigms of relators
+   and prepositions (the term ‘relator’ is explained on p.268):
+
+__tablenh__
+                                       location         extent             direction
+                                       ‘at’             ‘as far as’        ‘to, towards’
+       with a local noun               i                mi                 vu
+       with a common noun              ta-              mi ta-             vu ta-
+
+   Thus we find:
+
+__igt__
+      e     la vu komu (local noun)
+      S:3SG go R  village
+      ‘s/he went towards her/his (home) village’
+       e     la vu   ta-na      iola  ŋaia (common noun)
+       S:3SG go R    PREP-P:3SG canoe D:3SG
+       ‘s/he went to her/his (canoe)’
+
+__block__
+   When a local noun indicating a geographic direction follows a verb it may occur
+   without a preposition or relator, e.g. lae asi ‘go seawards’.
 
 [3] The distribution of these forms is not clear. Perhaps _*e_ was the POc phrase-initial form, _*i_ the
   phrase-internal form. It is also possible that the POc form was simply _*i_, and that this, like the
@@ -11240,7 +11241,7 @@ where some reflexes of a relational noun are monovalent, others zero-valency.
 
     The major local nouns reconstructed below are listed here with simplified glosses, in
 two groups, relational and familiar-place/geographic. Where a noun is also reconstructed
-as a common noun, its common-noun gloss is also given, and where a local adverb in *qa-
+as a common noun, its common-noun gloss is also given, and where a local adverb in _*qa-_
 is reconstructable this is also shown.
 
                                  Talking about space: terms of location and direction             235
@@ -11282,8 +11283,8 @@ __table__
 ‘back’ such that if any of these relational meanings is derived historically from a body-part
 term, so will be the meanings to the right of it. This is supported by the listing above, as
 ‘under’ and ‘on’/‘in’ are not derived from body-part nouns, but ‘front’ and ‘back’ are.
-Heine argues that this is a scale of increasing deictivity from left to right, but Bowden
-(1992:53) argues that ‘front’ and ‘back’ are based on body-part terms simply because
+Heine argues that this is a scale of increasing deictivity from left to right, but Bowden (1992:53)
+argues that ‘front’ and ‘back’ are based on body-part terms simply because
 entities in the landscape are not perceived as having intrinsic fronts and backs, i.e. Oceanic
 languages do not have a relative spatial system (p.230).
 
@@ -11485,8 +11486,8 @@ Chapter 4, which were common nouns.
 local and a common noun in POc. Occasional reflexes have meanings similar to those of
 POc _*laur_, but most mean ‘at sea’, and this was presumably its POc meaning.
 
-   It is unlikely that POc *laman normally occurred as a local noun, as only two local noun
-reflexes have been found (Mussau [Adm] lamana ‘beach’, Tigak [MM] laman ‘down
+   It is unlikely that POc _*laman_ normally occurred as a local noun, as only two local noun
+reflexes have been found (Mussau [Adm] _lamana_ ‘beach’, Tigak [MM] _laman_ ‘down
 there, at the beach’).
 
 <
@@ -11500,7 +11501,7 @@ POc (ADV) *qa-laur ‘in a seaward direction’
  MM:  Meramera        -lau         ‘beach’ (root of adverbials)
  MM:  Kokota          rauru        ‘seaward’
  SES: Bugotu          lau, (i)lau  ‘seawards’ (as opposed to i-loŋa ‘landwards, inland, towards land’)
- SES: Gela            lau, (i)lau  ‘seawards, shorewards from a speaker inland, (river) bank’ (as opposed to i-loŋa ‘landwards, inland, towards land’)
+ SES: Gela            lau, (i)lau  ‘seawards, shorewards from a speaker inland, (river) bank’ (as opposed to _i-loŋa_ ‘landwards, inland, towards land’)
  SES: Lau             lau          ‘north; open sea to the north’
  NCV: Mota            lau          ‘the beach, as approached from the land’
  NCV: NE Ambae        (a)lau       (ADV) ‘down by the sea’
@@ -11602,7 +11603,7 @@ POc (ADV) *qa-tanoq ‘down on the ground, down below’
  PT:   Gumawana        tono           ‘down’
  MM:   Harua           tano           ‘down there’
  MM:   Nakanai         (go)talo       ‘go down’
- MM:   Meramera        tano(do)       ‘down there’ (-do DEM)
+ MM:   Meramera        tano(do)       ‘down there’ (_-do_ DEM)
  NCV:  Tamambo         (a)tano        ‘down on the ground, downwards’
  NCV:  Paamese         dan            ‘down, below’
  NCV:  Lewo            tano           ‘underneath, downwards’
@@ -11778,7 +11779,7 @@ __igt__
 
                                      Talking about space: terms of location and direction                245
 
-In these Lengo (SES) expressions the relational noun muri- ‘back’ performs a function
+In these Lengo (SES) expressions the relational noun _muri-_ ‘back’ performs a function
 similar to that of the English preposition behind.
 
 __igt__
@@ -11878,7 +11879,7 @@ POc (N, N LOC) *lalo-, *lalom ‘inside’
  Mic:  Kiribati           (i)nano-n    ‘inside, in’
  Mic:  Kosraean           lʷal         ‘deep’
  Mic:  Marshallese        i-lɔwa       ‘inside, in’
- Mic:  Marshallese        lalᶭ         ‘down, bottom, below, earth, world’
+ Mic:  Marshallese        lalᵚ         ‘down, bottom, below, earth, world’
  Mic:  Ponapean           lɔlɛ         ‘inside (it)’
  Mic:  Chuukese           ɾɾɔɾ         ‘inside of’
  Mic:  Puluwatese         llɔn         ‘in it’
@@ -11961,7 +11962,7 @@ POc (N) *bʷal(o,a)-, *bʷal(o,a)k ‘belly; hollow space’; (N LOC) ‘inside�
  NNG: Kairiru          balai                ‘inside’
  MM:  Vitu             polok                ‘inside’
  MM:  Sursurunga       polgo                ‘inside’
- MM:  Tolai            |(ta ra) bala-na|    ‘inside, in’ (ta PREP, ra ART, bala- ‘belly, interior’)
+ MM:  Tolai            |(ta ra) bala-na|    ‘inside, in’ (_ta_ PREP, _ra_ ART, _bala-_ ‘belly, interior’)
  NCV: Raga             bʷala                ‘shell’
  NCV: Raga             bʷala(lolo)          ‘middle’
  NCV: Lonwolwol        bwele-n              ‘hollow vessel, empty shell’
@@ -11995,8 +11996,8 @@ occurred in POc. Its zero-valency forms are the source of local adverbs meaning 
 down there’ in a number of languages.
 
     Scattered reflexes also suggest the reconstruction of monosyllabic forms without the
-first (reduplicated) syllable. An innovative monovalent form _*pʷake-_ is reflected in Meso-
-Melanesian languages, apparently by the addition of _*-e_ to the monosyllabic form _*pak_.
+first (reduplicated) syllable. An innovative monovalent form _*pʷake-_ is reflected in
+Meso-Melanesian languages, apparently by the addition of _*-e_ to the monosyllabic form _*pak_.
 
     No reflexes occur in Central Pacific languages. In Fijian, _*papa-_, _*papak_ has been
 ousted by reflexes of POc _*ruku-_ ‘underneath’ (see below), in Polynesian languages by
@@ -12059,8 +12060,8 @@ with a denotation which has given rise to it in daughter languages.
 meaning of _*ruku-_ was perhaps more specific than that of _*papa-_. The latter was evidently
 the generic term for ‘underneath’. Perhaps *ruku- denoted the undersurface of something.
 
-   The second term, POc _*gabʷari-_ meant ‘the area underneath a raised house’ (vol. 1,
-p.51) and has come to mean ‘underneath’ in some languages by extension. POc _*puqu-_,
+   The second term, POc _*gabʷari-_ meant ‘the area underneath a raised house’ (vol. 1, p.51)
+and has come to mean ‘underneath’ in some languages by extension. POc _*puqu-_,
 _puqun_ had the relational meaning ‘base, foundation’ when used in association with an
 object, as well as the more abstract meaning ‘origin, source, reason’.
 
@@ -12156,7 +12157,7 @@ POc (N, N LOC) *papo[-], *po[-] ‘upper surface, top’
  MM:   Notsi            papa-           ‘topside’
  MM:   Tabar            popo-           ‘topside’
  MM:   Tangga           fo-             ‘topside’
- SES:  Baegu            fafo(luma)      ‘thatch’ (luma ‘house, building’)
+ SES:  Baegu            fafo(luma)      ‘thatch’ (_luma_ ‘house, building’)
  SES:  Lau              fafo-           ‘top’
  SES:  Longgu           vavo-           ‘top surface, space above’
  SES:  ’Are’are         haho-           ‘topside’
@@ -12186,7 +12187,7 @@ _*qulu[-]_, also acquired the meaning ‘top’.
 
 <
 PAn *qulu ‘head’ (ACD)
-POc (N)*qulu[-] ‘head, (head) hair’; (N LOC) ‘top part’
+POc *qulu[-] (N) ‘head, (head) hair’; (N LOC) ‘top part’
  Adm:  Mussau           |ulu (bo)|        ‘headwaters of a river’
  Adm:  Nauna            |kulu(n puli |    ‘(mountain) peak’
  NNG:  Yabem            lo-lo(ʔ)          ‘topside’
@@ -12209,7 +12210,7 @@ POc (N)*qulu[-] ‘head, (head) hair’; (N LOC) ‘top part’
  NCV:  NE Ambae         ulu-              ‘top’
  NCV:  Tamambo          ulu-              ‘top part’
  NCV:  Raga             ulu-              ‘space above’
- NCV:  Paamese          (n)ulu(ŋout)      ‘at the top of the garden’ (< POc *na qulu ni qutan ART top PREP bush)
+ NCV:  Paamese          (n)ulu(ŋout)      ‘at the top of the garden’ (< POc _*na qulu ni qutan_ ART top PREP bush)
  NCal: Nemi             hule-n            ‘top’
  Mic:  Kosraean         ulu-              ‘top’
  Fij:  Wayan            -ulu              ‘head or top part of an animal or thing’
@@ -12246,7 +12247,7 @@ have glosses which are associated with both items, suggesting conflation.
 <
 PCEMP *papaR ‘cheek, temple, side,’ (ACD)[14]
 POc (N) *[pʷa]pʷaRa[-] ‘cheek, side of head’; (N LOC) ‘side’
- NNG: Kairiru      poreq              ‘side of house’ (-q unexplained)
+ NNG: Kairiru      poreq              ‘side of house’ (_-q_ unexplained)
  MM: Nalik         par, pāran         ‘side’ (dialectal variants)
  MM: Tolai         papar, papara-     ‘side’
  MM: Minigir       papara             ‘side’
@@ -12268,7 +12269,7 @@ POc (N) *[pʷa]pʷaRa[-] ‘cheek, side of head’; (N LOC) ‘side’
 
 [14] Blust also gives ‘plank’ as a gloss. See text.
 
-   POc *pʷala(ŋ) ‘side, part’ is reconstructable, but its exact sense is unclear.
+   POc _*pʷala(ŋ)_ ‘side, part’ is reconstructable, but its exact sense is unclear.
 
 <
 PMP *balaŋ ‘side, part’ (ACD)
@@ -12313,7 +12314,7 @@ PMP *sidiŋ ‘border on, neighbour; peer, equal’ (ACD)
 POc (N, N LOC) *siriŋ ‘side, edge’
  NNG: Dami              siri-        ‘side’
  NNG: Takia             siriŋe-      ‘side’
- Mic: Marshallese       tuṛᶭu-       ‘beside’
+ Mic: Marshallese       tuṛᵚu-       ‘beside’
 >
 
 <
@@ -12436,7 +12437,7 @@ POc *|i muqa|, *qa-muqa *muqa-muqa (ADV) ‘in front, formerly’
  Mic: Nauruan           (ā)mʷō       ‘front’
  Mic: Kiribati          moa          ‘front, fore part’
  Mic: Woleaian          mmʷa-        ‘front, first, tip, before’
- Mic: Marshallese       mᶭā-         ‘front’
+ Mic: Marshallese       mᵚā-         ‘front’
  Mic: Marshallese       mʷāha-       ‘ahead of, before, in front of’
  Mic: Mokilese          mʷō-         ‘front’
  Mic: Ponapean          mʷowɛ-       ‘ahead of, in front of, before’
@@ -12864,17 +12865,16 @@ POc (?) (N LOC) *[i] pia ‘where at?’
 
 8.3 Directional verbs
 
-   Directional verbs can be conveniently divided into verbs of deictic direction (‘towards
+   Directional verbs can be conveniently divided into verbs of __deictic direction__ (‘towards
 speaker’, ‘towards addressee’, ‘away from speaker and addressee’) and verbs of
-geographic direction, and especially vertical direction (‘go up’, ‘go down’).
+__geographic direction__, and especially vertical direction (‘go up’, ‘go down’).
 
 
 8.3.1 Some Proto Oceanic serial verb constructions
 
     Directional verbs play an important role in certain serial verb constructions in Oceanic
 languages, and they evidently did so in POc, to judge both from the wide distribution of
-such constructions today and from grammaticised versions of these constructions (Ross
-2003).
+such constructions today and from grammaticised versions of these constructions (Ross 2003).
 
     Verbs of deictic direction occur in serial verb constructions of deictic direction, where
 they follow a verb of locomotion (transitive or intransitive) or a verb of geographic
@@ -13033,7 +13033,7 @@ islands, in some languages ‘downward’ also means ‘seaward’, and ‘upwar
 and up:
 
 __tablenh__
-        *sipo ‘go downward’               *sake ‘go upward’
+        _*sipo_ ‘go downward’       |        _*sake_ ‘go upward’
 
    As I noted earlier (p.229), POc apparently had a subsystem of geographic direction
 which was based on a river valley and had an up/down axis and a transverse axis with one
@@ -13075,7 +13075,7 @@ POc *raki ‘southeast trades’ (probably also ‘dry season when the southeast
  MM:  Vitu             raɣi            ‘southeast trade’
  MM:  Bulu             laɣi            ‘southeast trade’
  NCV: Lewo             lagi(pesoi)     ‘east wind’
- Mic: Marshallese      ṛᶭak            ‘south, summer’
+ Mic: Marshallese      ṛᵚak            ‘south, summer’
  Pn:  E Uvean          laki            ‘southeast or southwest wind’
  Pn:  Niuean           laki            ‘west’
  Pn:  Samoan           laʔi            ‘southwest veering to northwest’
@@ -13118,9 +13118,9 @@ and _*sake_. I return briefly to the reconstruction of _*sipo_ and _*sake_ as di
   Three possible verbs of downward movement are reconstructed below. They are:
 
 __tablenh__
-POc | *sipo  | ‘go down, downwards’
-POc | *sobu  | ‘go downward, dive down’
-POc | *surup | ‘(?) enter, penetrate; go down’
+POc | _*sipo_  | ‘go down, downwards’
+POc | _*sobu_  | ‘go downward, dive down’
+POc | _*surup_ | ‘(?) enter, penetrate; go down’
 
 The most widely reflected of these is _*sipo_, the generic verb of downward movement. POc
 *sobu seems also to have carried the meaning ‘dive down’, as several of its reflexes have
@@ -13244,7 +13244,7 @@ POc *[s,j]u[(a,u)] ‘go down vertically, fall’[20]
                                      Talking about space: terms of location and direction           273
 
 
-   POc *wau ‘go seawards’ and _*bala_ ‘move downward (?)’ are also tentatively
+   POc _*wau_ ‘go seawards’ and _*bala_ ‘move downward (?)’ are also tentatively
 reconstructed, but they are not well supported.
 
 <
@@ -13252,7 +13252,7 @@ POc *wau ‘go seawards’
  NNG: Bam                 wau(la)           (DIR) ‘downward’
  NNG: Sissano             eu                (DIR) ‘downward’
  PT:  Gumawana            -iwo              ‘move seaward’
- Mic: Puluwatese          -wow              (DIR) ‘seaward’ (contrast -waw ‘towards addressee’)
+ Mic: Puluwatese          -wow              (DIR) ‘seaward’ (contrast _-waw_ ‘towards addressee’)
  Mic: Woleaian            waɨ               (DIR) ‘seaward’
 >
 
@@ -13542,8 +13542,8 @@ away from both speaker and addressee’, glossed here as ‘come’, ‘go:2’ 
 respectively. There were possibly two ‘go:3’ verbs, however. One licensed a location
 expression, i.e. its basic meaning was ‘go to’. The other simply meant ‘go away (from
 speaker)’ and did not license a location expression. Thus in Kele (Adm) there is a contrast
-between _la_ ‘go to’ and _aw_ ‘go away’ (Ross 2002f). This suggests that POc had a four-
-member system, and I will assume this here. Against this is the fact that I have found no
+between _la_ ‘go to’ and _aw_ ‘go away’ (Ross 2002f). This suggests that POc had a four-member
+system, and I will assume this here. Against this is the fact that I have found no
 language in which a four-member system is preserved.
 
    Three-member deictic directional verb systems are found right across Oceania,[22] and a
@@ -13863,13 +13863,13 @@ POc *ua ‘go towards addressee’; (DIR) ‘towards addressee’
  Fij: Bauan              vuā, vei      (PREP) (locative, allative, dative, cause)
 >
 
-Proto South Vanuatu _*un-_, which forms locative nouns from common nouns (Lynch
-2001c:132), may also belong here.
+Proto South Vanuatu _*un-_, which forms locative nouns from common nouns (Lynch 2001c:132),
+may also belong here.
 
                                     Talking about space: terms of location and direction       285
 
 
-   Longgu vu appears to be cognate with forms in the Malaita/Makira subgroup (SES) that
+   Longgu _vu_ appears to be cognate with forms in the Malaita/Makira subgroup (SES) that
 reflect Proto Malaita/Makira _*vua_ or _*vuni_. Lichtenberk (1985b) attributes all these forms to
 POc _*pani_ (V) ‘give’, (PREPV) ‘beneficiary case-marker’. The Malaita/Makira forms
 certainly have benefactive meanings, but Longgu _vu_ is clearly allative, and the best
@@ -13883,7 +13883,7 @@ benefactive function.
 
    This interpretation is supported by the Longgu dative verbal preposition _wini-_, which
 takes an object pronoun suffix when it governs a first or second person referent, e.g. _wini-o_
-DATIVE-O:2SG ‘to you’, but assumes the allomorph wa- with a possessor pronoun suffix
+DATIVE-O:2SG ‘to you’, but assumes the allomorph _wa-_ with a possessor pronoun suffix
 when it governs a third person, e.g. _wa-na_ DATIVE-P:3SG ‘to it/him/her’.[29] As Hill
 (1992:245) points out, _wa-_ overlaps semantically with _vu_ (< POc _*ua_). It appears that _wini_
 reflects POc _*pani_ and _wa-_ POc _*ua_, but the two form a single paradigm in Longgu. This
@@ -14030,7 +14030,7 @@ POc *lako, *la (V)‘go (to)’; (DIR) ‘away from speaker’
  NCal: Cèmuhî           -lɛ             (DIR) ‘away from speaker’
  Mic:  Kiribati         nako            ‘go’
  Mic:  Kosraean         -læ             (DIR) ‘away from speaker’
- Mic:  Marshallese      lᶭɒk            (DIR) ‘away from speaker’
+ Mic:  Marshallese      lᵚɒk            (DIR) ‘away from speaker’
  Mic:  Mokilese         -la             (DIR) ‘away from speaker’
  Mic:  Puluwatese       -lɔ             (DIR) ‘away, south’
  Mic:  Woleaian         rax             (DIR) ‘away from speaker’
@@ -14058,29 +14058,29 @@ items reflect POc _*lalo-_, _*lo-_, _*la-_ (N LOC) ‘inside’ rather than POc 
                                  Talking about space: terms of location and direction      289
 
 __tablenh__
-POc *lako, *la ‘go (to)’; (DIR) ‘away from speaker’ (p.287)
-POc *lalo-, *lo-, *la- (N LOC) ‘inside’ (p.246)
- Adm: Loniu                 lo               (PREP) ‘in’
- NNG: Arawe                 lu-O:, li-O:     (PREP w N PERS, PRO PERS) locative, allative
- NNG: Mamusi                la               (PREP) general
- PT:     Motu               lalo             ‘the inside, the mind’
- MM: Tigak                  lo               (PREP w N COM, N LOC) locative, temporal
- MM: Tiang                  lə               (PREP) locative, temporal
- MM: Kara                   la               (PREP) locative
- MM: Nalik                  la               (PREP w N LOC) locative, temporal
- MM: Notsi                  la(n)            (PREP) locative
- MM: Tangga                 lo               (PREP w N PERS, PRO PERS) locative
- MM: Konomala               lə               (PREP w PLC, N LOC) locative, temporal
- MM: Label                  la               (PREP w N LOC) locative, temporal
- MM: Bilur                  la               (PREP w N LOC) locative
- NCV: Mota                  lo               (PREP) ‘in, inside’
- NCV: Tasiko                lo               (PREP) ‘in, inside’
- NCV: Mwotlap               lV-              (PREP prefixed to N LOC) locative, allative
- NCV: NE Ambae              lo               (PREP w N LOC) locative
- NCV: Maewo                 le               (PREP) ‘in, inside’
- SV:     Lenakel            le               (PREP) locative, allative
- Mic:    Marshallese        (i)lɔ            (PREP) locative
- Mic:    Puluwat            le-              (PREP) ‘in, because of’
+1. | POc | *lako, *la | ‘go (to)’; (DIR) ‘away from speaker’ (p.287)
+2. | POc | *lalo-, *lo-, *la- | (N LOC) ‘inside’ (p.246)
+   | Adm: Loniu              |   lo            |   (PREP) ‘in’
+   | NNG: Arawe              |   lu-O:, li-O:  |   (PREP w N PERS, PRO PERS) locative, allative
+   | NNG: Mamusi             |   la            |   (PREP) general
+   | PT:     Motu            |   lalo          |   ‘the inside, the mind’
+   | MM: Tigak               |   lo            |   (PREP w N COM, N LOC) locative, temporal
+   | MM: Tiang               |   lə            |   (PREP) locative, temporal
+   | MM: Kara                |   la            |   (PREP) locative
+   | MM: Nalik               |   la            |   (PREP w N LOC) locative, temporal
+   | MM: Notsi               |   la(n)         |   (PREP) locative
+   | MM: Tangga              |   lo            |   (PREP w N PERS, PRO PERS) locative
+   | MM: Konomala            |   lə            |   (PREP w PLC, N LOC) locative, temporal
+   | MM: Label               |   la            |   (PREP w N LOC) locative, temporal
+   | MM: Bilur               |   la            |   (PREP w N LOC) locative
+   | NCV: Mota               |   lo            |   (PREP) ‘in, inside’
+   | NCV: Tasiko             |   lo            |   (PREP) ‘in, inside’
+   | NCV: Mwotlap            |   lV-           |   (PREP prefixed to N LOC) locative, allative
+   | NCV: NE Ambae           |   lo            |   (PREP w N LOC) locative
+   | NCV: Maewo              |   le            |   (PREP) ‘in, inside’
+   | SV:     Lenakel         |   le            |   (PREP) locative, allative
+   | Mic:    Marshallese     |   (i)lɔ         |   (PREP) locative
+   | Mic:    Puluwat         |   le-           |   (PREP) ‘in, because of’
 
     Formally, items reflecting _*lo_ presumably reflect _*lo-_, one of the short forms of _*lalo-_.
 It is tempting to attribute all forms reflecting _*la_ to the short form of _*lako_, but there is
@@ -14187,10 +14187,10 @@ POc *pa ‘go away; move in a transverse direction’; (V AUX) ‘go and …’
  SV:   Sye              -ve           ‘go’
 >
 
-   The meanings of reflexes of *pa agree with those of _*pano_, and the function of the
+   The meanings of reflexes of _*pa_ agree with those of _*pano_, and the function of the
 Motu, Sinaugoro,[32] Gela, and Mota reflexes of _*pa_ (in three different subgroups) as a
-preverbal auxiliary is similar to that of the Sinaugoro reflexes of _*ma_ and _*la_ above. Clark
-(1996) notes that Nguna _vā_ ‘go’ is also described as a short form of _vano_. Paton (1973)
+preverbal auxiliary is similar to that of the Sinaugoro reflexes of _*ma_ and _*la_ above. Clark (1996)
+notes that Nguna _vā_ ‘go’ is also described as a short form of _vano_. Paton (1973)
 describes Lonwolwol _va_ as a short form of _van_ ‘go, pass’, and therefore as a reflex of POc
 _*pano_, but Blust (ACD) argues that his inference is unjustified since original medial nasals
 are otherwise retained in Lonwolwol. If, however, _va_ reflects POc _*pa_, the objection
@@ -14246,31 +14246,29 @@ the data allow, but should not be treated too seriously, as there are likely to 
 glosses.
 
 __tablenh__
- 1.   POc *pano, *pa ‘go away; move in a transverse direction’ (p.289)
- 2.   POc *pani ‘give’, (PREPV) benefactive (Pawley 1973, Lichtenberk 1985b)
- 3.   PWOc *pʷa (PREP) instrumental, comitative
- NNG: Kove                 pa, pa-O:       (PREP) locative, temporal, allative, ablative
- NNG: Bariai               pa-O:           (PREP) locative, allative, ablative, benefactive
- NNG: Malai                pa-D:           (PREP) allative, instrumental
- NNG: Gitua                pa-O:           (PREP) temporal, allative, benefactive, ablative, instrument
- NNG: Malalamai            pa-O:           (PREP) allative, benefactive
- NNG: Lukep                pa-O:           (PREP) allative, benefactive
- NNG: Malasanga            pa-O:           (PREP) benefactive, comitative
- NNG: Roinji               pa-P:/O:        (PREP) allative, benefactive
- NNG: Sio                  pa-O:           (PREP) allative, benefactive
- NNG: Tami                 pa, pa-D:       (PREP) temporal, benefactive
- NNG: Mangap               pa, pa-O:       (PREP) locative, benefactive, ablative,
-                                             instrumental
- NNG: Rauto                pa              (PREP w N PERS) locative, allative
-                           pe              (PREP w N COM, PRO PERS) locative,
-                                             allative, instrumental
- PT:     Kiriwina          va              (PREP) ‘in the direction of’
- MM:     Tiang             pa-P:           (PREP) locative, instrumental, comitative
- MM:      Nalik             pana            (PREP) locative, instrumental, comitative
- MM:      Label             ha              (PREP) locative
- MM:      Roviana           pa              (PREP) locative, allative
- MM:      Hoava             pa              (R, PREP w PLC, non-human N) locative, allative
- NCV:     Nguna             pa(ki)          (PREP w PLC) allative
+ 1. |  POc | *pano, *pa | ‘go away; move in a transverse direction’ (p.289)
+ 2. |  POc | *pani | ‘give’, (PREPV) benefactive (Pawley 1973, Lichtenberk 1985b)
+ 3. |  PWOc | *pʷa | (PREP) instrumental, comitative
+    |  NNG: Kove             |    pa, pa-O:     |  (PREP) locative, temporal, allative, ablative
+    |  NNG: Bariai           |    pa-O:         |  (PREP) locative, allative, ablative, benefactive
+    |  NNG: Malai            |    pa-D:         |  (PREP) allative, instrumental
+    |  NNG: Gitua            |    pa-O:         |  (PREP) temporal, allative, benefactive, ablative, instrument
+    |  NNG: Malalamai        |    pa-O:         |  (PREP) allative, benefactive
+    |  NNG: Lukep            |    pa-O:         |  (PREP) allative, benefactive
+    |  NNG: Malasanga        |    pa-O:         |  (PREP) benefactive, comitative
+    |  NNG: Roinji           |    pa-P:/O:      |  (PREP) allative, benefactive
+    |  NNG: Sio              |    pa-O:         |  (PREP) allative, benefactive
+    |  NNG: Tami             |    pa, pa-D:     |  (PREP) temporal, benefactive
+    |  NNG: Mangap           |    pa, pa-O:     |  (PREP) locative, benefactive, ablative, instrumental
+    |  NNG: Rauto            |    pa            |  (PREP w N PERS) locative, allative
+    |                        |    pe            |  (PREP w N COM, PRO PERS) locative, allative, instrumental
+    |  PT:     Kiriwina      |    va            |  (PREP) ‘in the direction of’
+    |  MM:     Tiang         |    pa-P:         |  (PREP) locative, instrumental, comitative
+    |  MM:      Nalik        |     pana         |   (PREP) locative, instrumental, comitative
+    |  MM:      Label        |     ha           |   (PREP) locative
+    |  MM:      Roviana      |     pa           |   (PREP) locative, allative
+    |  MM:      Hoava        |     pa           |   (R, PREP w PLC, non-human N) locative, allative
+    |  NCV:     Nguna        |     pa(ki)       |   (PREP w PLC) allative
 
                                Talking about space: terms of location and direction     293
 
@@ -14356,41 +14354,25 @@ otherwise, as it appears to have its basis in human cognition and universal expe
 rather than in the vagaries of English. Part 1 also indicates the structure of this chapter.
 Why part 2 is not part of that structure is explained below.
 
- <ol>
-  <li>Times
-   <ol>
-    <li>Undirected:
-     <ol>
-      <li>times within cycles: ‘at midnight’, ‘at dawn’, ‘at midday’, ‘at full moon’,
-            ‘at yam harvest’, ‘in daylight’, ‘in the morning’/‘in the afternoon’/‘in the
-            evening’/‘in the night’;</li>
-      <li>labelled sets of times within cycles: names of seasons or lunar months in a
-            year, names of periods or days in a lunar month.</li>
-     </ol>
-    </li>
-    <li>Directed:
-     <ol start="3">
-      <li>purely deictic: ‘now’, ‘today’;</li>
-      <li>vague distance: ‘in the past’/‘in the future’, ‘earlier’/‘later’, ‘long ago’;</li>
-      <li>specified distance within a cycle or measured by cycles: ‘last night’/
-              ‘tonight’, ‘today’/‘yesterday’/‘tomorrow’, ‘two days ago’/‘two days
-              hence’.</li>
-     </ol>
-    </li>
-   </ol>
-  </li>
-  <li>Durations
-   <ol start="3">
-    <li>from one time to another:
-     <ol start="6">
-      <li>one time specified: ‘since yesterday’, ‘until tomorrow’;</li>
-      <li>both times specified: ‘from yam harvest to taro harvest’;</li>
-     </ol>
-    </li>
-    <li>length of time: ‘for a long time’.</li>
-   </ol>
-  </li>
- </ol>
+__block__
+ 1. Times
+    a. Undirected:
+       (i)   times within cycles: ‘at midnight’, ‘at dawn’, ‘at midday’, ‘at full moon’,
+             ‘at yam harvest’, ‘in daylight’, ‘in the morning’/‘in the afternoon’/‘in the
+             evening’/‘in the night’;
+       (ii)  labelled sets of times within cycles: names of seasons or lunar months in a
+             year, names of periods or days in a lunar month.
+    b. Directed:
+       (iii) purely deictic: ‘now’, ‘today’;
+       (iv)  vague distance: ‘in the past’/‘in the future’, ‘earlier’/‘later’, ‘long ago’;
+       (v)   specified distance within a cycle or measured by cycles: ‘last night’/
+             ‘tonight’, ‘today’/‘yesterday’/‘tomorrow’, ‘two days ago’/‘two days
+             hence’.
+ 2. Durations
+    c. from one time to another:
+       (vi)  one time specified: ‘since yesterday’, ‘until tomorrow’;
+       (vii) both times specified: ‘from yam harvest to taro harvest’;
+    d. length of time: ‘for a long time’.</li>
 
 296     Malcolm Ross
 
@@ -14611,13 +14593,12 @@ primary and secondary taxa as follows:
 
 300    Malcolm Ross
 
-<ol><li>night</li>
-    <li>daytime
-    <ol><li>early morning, from dawn to 9 or 10 a.m.</li>
-        <li>middle of the day, from 9 or 10 a.m. to about 3 p.m.</li>
-        <li>late afternoon and evening, from 3 p.m. to sunset</li>
-    </ol></li>
-</ol>
+__block__
+ 1. night
+ 2. daytime
+    (a) early morning, from dawn to 9 or 10 a.m.
+    (b) middle of the day, from 9 or 10 a.m. to about 3 p.m.
+    (c) late afternoon and evening, from 3 p.m. to sunset
 
    The first-order division is, as we might expect, into night and daytime. I have opted to
 put ‘night’ first, as POc _*boŋi_ ‘night’ also served as the word for the twenty-four hour
@@ -14664,53 +14645,51 @@ of the parts of a compound, I have done so. Sources are given in Appendix 1.
 
                                                                                          Time    301
 
-__pre__
-Drehet (Adm)
- night                        [kom]piŋ N
-    midnight                  kxikilie-piŋ ADV (kxikilie ‘middle’, piŋ ‘night’)
-    pre-dawn                  hepwehe-laŋ ADV (laŋ ‘daytime’)
- daytime                      laŋ N
- morning                      kxepiŋ N (piŋ ‘night’)
-    dawn                      koŋ-tupurip ADV (koŋ ‘place’)
-    early morning             kxekxepiŋ N (kxepiŋ ‘morning’)
-    (at) sunrise              aŋ imi liki ADVP (aŋ ‘sun’, imi ‘come’, liki ‘up top’)
-                              aŋ yaʔaŋ ADVP (aŋ ‘sun’, yaʔaŋ ‘go through’)
- middle of day                —
-   (at) mid-morning           aŋ tikimiŋ mʷalaŋ ADVP (aŋ ‘sun’, tikimiŋ ‘be present’, mʷalaŋ ‘hill’)
-   (at) noon                  aŋ imi kxikilie koŋ ADVP (aŋ ‘sun’, imi ‘come’, kxikilie ‘middle’, koŋ
-                              ‘place’)
- afternoon/evening            piyih N
-    (at) sunset               aŋ ilie pʷiniek ADV (aŋ ‘sun’, ilie ‘go’, pʷiniek ‘down below’)
-                              upayah V
+__table__
+Drehet (Adm)        |
+ __night__          | _[kom]piŋ_ N
+ ‣ midnight         | _kxikilie-piŋ_ ADV (_kxikilie_ ‘middle’, piŋ ‘night’)
+ ‣ pre-dawn         | _hepwehe-laŋ_ ADV (_laŋ_ ‘daytime’)
+ __daytime__        | _laŋ_ N
+ morning            | _kxepiŋ_ N (_piŋ_ ‘night’)
+ ‣ dawn             | _koŋ-tupurip_ ADV (_koŋ_ ‘place’)
+ ‣ early morning    | _kxekxepiŋ_ N (_kxepiŋ_ ‘morning’)
+ ‣ (at) sunrise     | _aŋ imi liki_ ADVP (_aŋ_ ‘sun’, _imi_ ‘come’, _liki_ ‘up top’)
+                    | _aŋ yaʔaŋ_ ADVP (_aŋ_ ‘sun’, _yaʔaŋ_ ‘go through’)
+ middle of day      | —
+ ‣ (at) mid-morning | _aŋ tikimiŋ mʷalaŋ_ ADVP (_aŋ_ ‘sun’, tikimiŋ ‘be present’, _mʷalaŋ_ ‘hill’)
+ ‣ (at) noon        | _aŋ imi kxikilie koŋ_ ADVP (_aŋ_ ‘sun’, _imi_ ‘come’, _kxikilie_ ‘middle’, koŋ
+                    | ‘place’)
+ afternoon/evening  | _piyih_ N
+ ‣ (at) sunset      | _aŋ ilie pʷiniek_ ADV (_aŋ_ ‘sun’, _ilie_ ‘go’, _pʷiniek_ ‘down below’)
+                    | _upayah_ V
 
-__pre__
-Takia (NNG)
- night                        tidom N
- daylight/daytime             ad, adad N (ad ‘sun’)
- sunrise to sunset            nal N
- morning[7]                     tidomlom ADV (tidom ‘night’, lo ‘in’, mi ‘only’)
-    dawn                      salso, sasulo
- midday                       ad uyan, adian NP (ad ‘sun’, uyan ‘good’)
-   noon                       ad biben NP (ad ‘sun’, biben ‘its heart’)
- afternoon/evening[8]           gurai, guraian (? < gurai uyan ‘evening’ + ‘good’) N, NP
+__table__
+Takia (NNG) |
+ __night__             | _tidom_ N
+ __daylight/daytime__  | _ad_, _adad_ N (_ad_ ‘sun’)
+ __sunrise to sunset__ | _nal_ N
+ morning[7]            | _tidomlom_ ADV (_tidom_ ‘night’, _lo_ ‘in’, _mi_ ‘only’)
+ ‣ dawn                | _salso_, _sasulo_
+ midday                | _ad uyan_, _adian_ NP (_ad_ ‘sun’, _uyan_ ‘good’)
+ ‣ noon                | _ad biben_ NP (_ad_ ‘sun’, _biben_ ‘its heart’)
+ afternoon/evening[8]  | _gurai_, _guraian_ (? < _gurai uyan_ ‘evening’ + ‘good’) N, NP
 
-__pre__
-Gapapaiwa (PT)
- night                        didibara N
-    midnight                  pom baso NP (pom apparently archaic ‘night’)
-    just before sunrise       mara didibarai ADVP (mara ‘time’, didibara ‘night’, -i POSTP)
- daylight                 gabudara (archaic: ‘sun, day, time’) N, madeɣa N
- morning, sunrise to 10 a.m.
-                          boiboi N
-    sunrise, dawn             mara tomtom (mara ‘time’, tomtom ‘k.o. seaweed’)
-    just after sunrise        mara boiboi (mara ‘time’, boiboi ‘morning’)
- midday                       madeɣa pu NP (madeɣa ‘daylight’, pu ‘middle’)
- afternoon/evening, about 3 to 7 p.m.
-                        ravi ADV
-      about 3 to 5 p.m.       ravi madeɣinai ADVP (ravi ‘evening’, madeɣina ‘its light’, -i POSTP)
-      about 5 to 7 p.m.       ravi didibarai ADVP (ravi ‘evening’, didibara ‘night’, -i POSTP)
-      sundown                 ravi pikana NP (ravi ‘evening’)
-      sunset                  madeɣa ivokutuvi (madeɣa ‘daylight’)
+__table__
+Gapapaiwa (PT) |
+ __night__              | _didibara_ N
+ ‣ midnight             | _pom baso_ NP (_pom_ apparently archaic ‘night’)
+ ‣ just before sunrise  | _mara didibarai_ ADVP (_mara_ ‘time’, _didibara_ ‘night’, -i POSTP)
+ __daylight__           | _gabudara_ (archaic: ‘sun, day, time’) N, _madeɣa_ N
+ morning, sunrise to 10 a.m.|  _boiboi_ N
+ ‣ sunrise, dawn        | _mara tomtom_ (_mara_ ‘time’, _tomtom_ ‘k.o. seaweed’)
+ ‣ just after sunrise   | _mara boiboi_ (_mara_ ‘time’, _boiboi_ ‘morning’)
+ midday                 | _madeɣa pu_ NP (_madeɣa_ ‘daylight’, _pu_ ‘middle’)
+ afternoon/evening, about 3 to 7 p.m. | _ravi_ ADV
+ ‣ about 3 to 5 p.m.    | _ravi madeɣinai_ ADVP (_ravi_ ‘evening’, _madeɣina_ ‘its light’, -i POSTP)
+ ‣ about 5 to 7 p.m.    | _ravi didibarai_ ADVP (_ravi_ ‘evening’, _didibara_ ‘night’, -i POSTP)
+ ‣ sundown              | _ravi pikana_ NP (_ravi_ ‘evening’)
+ ‣ sunset               | _madeɣa ivokutuvi_ (_madeɣa_ ‘daylight’)
 
 [7] From sunrise until about 10 a.m. when the sun is high.
 
@@ -14718,131 +14697,125 @@ Gapapaiwa (PT)
 
 302      Malcolm Ross
 
-__pre__
-Kiriwina (PT)
- night                        bogi/[b]ibog N/ADV
-      midnight                lubulotoula/elubulotoula N/ADV
-      first streak of dawn    bulubuvisiga ADV
-      halflight               dudubali
-      about 5 a.m.            kikivisiga
- daytime                      yam/iyam N/ADV
- morning, 6–9am               kaukwau, gabogi (bogi ‘night’)
-      early morning           o-lile-yam ADV
-      dawn                    isiga ADV
-      sunrise                 iyuwola kalasia VP (-yuwola ‘rise’, kalasia ‘sun’)
-      about 9 a.m.            ipokala valu (-pokala ‘present, give’, valu ‘land’)
- midday                       lalavi/ilalavi N/ADV
-      noon                    itowota kalasia VP (kalasia ‘sun’)
- afternoon/evening            kwayavi/ikwayavi N/ADV
-      about 3 p.m.            itobalia kalasia VP (kalasia ‘sun’)
-      sunset                  isalili kalasia VP (-salilia ‘drown’, kalasia ‘sun’)
+__table__
+Kiriwina (PT) |
+ __night__              | _bogi_/_[b]ibog_ N/ADV
+ ‣ midnight             | _lubulotoula_/_elubulotoula_ N/ADV
+ ‣ first streak of dawn | _bulubuvisiga_ ADV
+ ‣ halflight            | _dudubali_
+ ‣ about 5 a.m.         | _kikivisiga_
+ __daytime__            | _yam_/_iyam_ N/ADV
+ morning, 6–9am         | _kaukwau_, _gabogi_ (_bogi_ ‘night’)
+ ‣ early morning        | _o-lile-yam_ ADV
+ ‣ dawn                 | _isiga_ ADV
+ ‣ sunrise              | _iyuwola kalasia_ VP (_-yuwola_ ‘rise’, _kalasia_ ‘sun’)
+ ‣ about 9 a.m.         | _ipokala valu_ (_-pokala_ ‘present, give’, _valu_ ‘land’)
+ midday                 | _lalavi_/_ilalavi_ N/ADV
+ ‣ noon                 | _itowota kalasia_ VP (_kalasia_ ‘sun’)
+ afternoon/evening      | _kwayavi_/_ikwayavi_ N/ADV
+ ‣ about 3 p.m.         | _itobalia kalasia_ VP (_kalasia_ ‘sun’)
+ ‣ sunset               | _isalili kalasia_ VP (_-salilia_ ‘drown’, _kalasia_ ‘sun’)
 
-__pre__
-Motu (PT)
- night                        hanuaboi N, boi N
-      middle of the night     malo N
-      midnight                malokihi, malo hevani
-      morning twilight        daba vaburana NP (vabura ‘twilight’)
- daylight                     rani N, V
- morning                      daba N
-      peep of dawn            daba e kinia VP (kinia ‘nip’)
-      first shafts of light   daba e rotoa VP (rotoa ‘cut in strips’)
-      light in the east       daba e daria VP (daria ‘husk, tear’)
-      light before sunrise    daba mamana NP (mama ‘light from lamp’)
-      dawn                    daba e mamaia VP (mamaia ‘chew’)
-      daybreak                daba matana NP (mata ‘eye’)
-      early morning           galuna
-      dawn ‘spreads’          daba e tataia VP (tataia ‘strike, hit’)
-      daylight                daba e rere VP, daba rere NP (rere ‘(go) from place to place’)
- daytime, sun                 dina N
-      about 9 a.m.            dina e taolara VP
-      9 a.m.–noon             dina e tubua VP (tubua ‘grow’)
-   midday                   adoata N (ado ‘sun’ [not used independently], ata ‘up above’)
-   about 3 p.m.             dina gelona NP
- afternoon/evening          adorahi N (ado ‘sun’ [not used independently])
-   (just before) sunset     dina kerekere VP, dina kerekerena NP (kerena ‘light reflected in
-                            the sea’)
-   evening twilight         mairu
-   7–8 p.m.                 adorahi gamagamana NP
+__table__
+Motu (PT) |
+ __night__               | _hanuaboi_ N, _boi_ N
+ ‣ middle of the night   | _malo_ N
+ ‣ midnight              | _malokihi_, _malo hevani_
+ ‣ morning twilight      | _daba vaburana_ NP (_vabura_ ‘twilight’)
+ __daylight__            | _rani_ N, V
+ morning                 | _daba_ N
+ ‣ peep of dawn          | _daba e kinia_ VP (_kinia_ ‘nip’)
+ ‣ first shafts of light | _daba e rotoa_ VP (_rotoa_ ‘cut in strips’)
+ ‣ light in the east     | _daba e daria_ VP (_daria_ ‘husk, tear’)
+ ‣ light before sunrise  | _daba mamana_ NP (_mama_ ‘light from lamp’)
+ ‣ dawn                  | _daba e mamaia_ VP (_mamaia_ ‘chew’)
+ ‣ daybreak              | _daba matana_ NP (_mata_ ‘eye’)
+ ‣ early morning         | _galuna_
+ ‣ dawn ‘spreads’        | _daba e tataia_ VP (_tataia_ ‘strike, hit’)
+ ‣ daylight              | _daba e rere_ VP, _daba rere_ NP (_rere_ ‘(go) from place to place’)
+ daytime, sun            | _dina_ N
+ ‣ about 9 a.m.          | _dina e taolara_ VP
+ ‣ 9 a.m.–noon           | _dina e tubua_ VP (_tubua_ ‘grow’)
+ ‣ midday                | _adoata_ N (_ado_ ‘sun’ [not used independently], _ata_ ‘up above’)
+ ‣ about 3 p.m.          | _dina gelona_ NP
+ afternoon/evening       | _adorahi_ N (_ado_ ‘sun’ [not used independently])
+ ‣ (just before) sunset  | _dina kerekere_ VP, _dina kerekerena_ NP (_kerena_ ‘light reflected in the sea’)
+ ‣ evening twilight      | _mairu_
+ ‣ 7–8 p.m.              | _adorahi gamagamana_ NP
 
                                                                                        Time     303
 
-__pre__
-Gela (SES)
- night                      boŋi N
-   all night, until morning dai-dani-hagi
-   midnight                 kutu ni boŋi NP (kutu ‘stomach, womb’, boŋi ‘night), boŋi hau
-                            (hau ‘raise, lift’)
-   cockcrow, 4 a.m.         danimarao
-   after cockcrow           labota
-   morning twilight         labota mulemule (mulemule ‘be nauseated’)
-   just before dawn         marao
- daytime                    dani N, daidani
- morning                    puipuŋi N
-   sunrise                  soga ni aho NP (soga ‘jump’)
-   dawn                     na dani te vavala VP
-   break, of dawn           lavahi V
- middle of the day          kutu ni dani NP (kutu ‘stomach, womb’, dani ‘daytime),
-                            danikama (kama ‘big’)
-   noon                     hinagota (hina ‘sunlight’), turinunu (turi ‘walk’, nunu ‘shadow’)
-   latter part of the day   levu ni dani (levu ‘side’)
- afternoon/evening          nulavi
- dusk                       lioliohahi
+__table__
+Gela (SES) |
+ __night__                  | _boŋi_ N
+ ‣ all night, until morning | _dai-dani-hagi_
+ ‣ midnight                 | _kutu ni boŋi_ NP (_kutu_ ‘stomach, womb’, _boŋi_ ‘night), _boŋi hau_ (_hau_ ‘raise, lift’)
+ ‣ cockcrow, 4 a.m.         | _danimarao_
+ ‣ after cockcrow           | _labota_
+ ‣ morning twilight         | _labota mulemule_ (_mulemule_ ‘be nauseated’)
+ ‣ just before dawn         | _marao_
+ __daytime__                | _dani_ N, _daidani_
+ morning                    | _puipuŋi_ N
+ ‣ sunrise                  | _soga ni aho_ NP (_soga_ ‘jump’)
+ ‣ dawn                     | _na dani te vavala_ VP
+ ‣ break, of dawn           | _lavahi_ V
+ middle of the day          | _kutu ni dani_ NP (_kutu_ ‘stomach, womb’, _dani_ ‘daytime), _danikama_ (_kama_ ‘big’)
+ ‣ noon                     | _hinagota_ (_hina_ ‘sunlight’), _turinunu_ (_turi_ ‘walk’, _nunu_ ‘shadow’)
+ ‣ latter part of the day   | _levu ni dani_ (_levu_ ‘side’)
+ afternoon/evening          | _nulavi_
+ dusk                       | _lioliohahi_
 
-__pre__
-Marshallese (Mic)
- night                      pɯoŋw V
-   midnight                 lukwən pɯoŋw N (lukwə- ‘middle’, pɯoŋw ‘night’)
- day                        ṛɯān N
- morning                    cippɯoŋw V (cip ‘rise’, pɯoŋw ‘night’)
-   sunrise                  takinalɯ (alɯ ‘sun’)
-   daybreak, dawn           okṛɯān V (okaṛɯ ‘root’, ṛɯān ‘day’), ṛɯāntak V (ṛɯān ‘day’, tak
-                            ‘upward’), ciṛɯān (ṛɯān ‘day’), corɯāntak V (co ‘appear’, ṛɯāntak
-                            ‘daybreak’), mɯəcawʌnene N, V
- noon                       raɛlɛp V
-   hottest time of day      pwiltəŋtəŋ N (pwil ‘hot’, təŋtəŋ ‘most’)
- evening                    cota V
-   sunset                   tulbkun alɯ (tulbk ‘go down’, alɯ ‘sun’)
+__table__
+Marshallese (Mic) |
+ __night__                |  _pᵚoŋw_ V
+ ‣  midnight              |  _lukʷən pᵚoŋʷ_ N (_lukʷə-_ ‘middle’, _pᵚoŋʷ_ ‘night’)
+ __day__                  |  _ṛᵚān_ N
+ morning                  |  _cippᵚoŋʷ_ V (_cip_ ‘rise’, _pᵚoŋʷ_ ‘night’)
+ ‣  sunrise               |  _takinalᵚ_ (_alᵚ_ ‘sun’)
+ ‣  daybreak, dawn        |  _ɔkṛᵚān_ V (_ɔkaṛᵚ_ ‘root’, _ṛᵚān_ ‘day’), _ṛᵚāntak_ V (_ṛᵚān_ ‘day’, _tak_ ‘upward’), _ciṛᵚān_ (_ṛᵚān_ ‘day’), _corᵚāntak_ V (_co_ ‘appear’, _ṛᵚāntak_ ‘daybreak’), _mᵚəcawʌnene_ N, V
+ noon                     |  _raɛlɛp_ V
+ ‣  hottest time of day   |  _pʷiltəŋtəŋ_ N (_pʷil_ ‘hot’, _təŋtəŋ_ ‘most’)
+ evening                  |  _cota V
+ ‣  sunset                |  _tulɒkun alᵚ (_tulɒk_ ‘go down’, _alᵚ_ ‘sun’)
 
 304      Malcolm Ross
 
-__pre__
-Wayan (Fij)
- night                       boŋi N, V
-      just after dark        aviavi boŋi N (aviavi ‘evening’, boŋi ‘night’)
-      midnight               boŋilevu V (boŋi ‘night’, levu ‘big’)
-      before sunrise         gwatagwata boŋiboŋi N, V (gwatagwata ‘morning’, boŋi ‘night’)
- daytime                     siŋa V
- morning                     gwatagwata V (gwata ‘go out before dawn’)
-      be nearly morning       mata gwatagwata
-      just before and around dawn gwatagwata ðakaðā
-      dawn                    gwatagwata tūtū V (gwatagwata ‘morning’, tūtū ‘exactly’)
-      dawn, daylight          ðeðe N, V (= ‘be light’)
- midday                  siŋa-levu V (siŋa ‘day’, levu ‘big’)
- late afternoon, evening aviavi V
-      mid-afternoon          aviavi tūtū N (aviavi ‘afternoon’, tūtū ‘exactly’)
-      almost twilight        sī-aviavi ðeðe V (sī-aviavi ‘twilight’, ðeðe ‘be light’)
-      afternoon twilight     sī-aviavi V
-      just before dusk       karati-avi V
-      be almost dusk         mata boŋi
-      dusk                   sī-aviavi karawa V (sī-aviavi ‘twilight’, karawa ‘blue-green’)
+__table__
+Wayan (Fij) |
+ __night__                     | _boŋi_ N, V
+ ‣ just after dark             | _aviavi boŋi_ N (_aviavi_ ‘evening’, _boŋi_ ‘night’)
+ ‣ midnight                    | _boŋilevu_ V (_boŋi_ ‘night’, _levu_ ‘big’)
+ ‣ before sunrise              | _gʷatagʷata boŋiboŋi_ N, V (_gʷatagʷata_ ‘morning’, _boŋi_ ‘night’)
+ __daytime__                   | _siŋa_ V
+ morning                       | _gʷatagʷata_ V (_gʷata_ ‘go out before dawn’)
+ ‣ be nearly morning           | _mata gʷatagʷata_
+ ‣ just before and around dawn | _gʷatagʷata ðakaðā_
+ ‣ dawn                        | _gʷatagʷata tūtū_ V (_gʷatagʷata_ ‘morning’, _tūtū_ ‘exactly’)
+ ‣ dawn, daylight              | _ðɵ̄ðɵ̄_ N, V (= ‘be light’)
+ midday                        | _siŋa-levu_ V (_siŋa_ ‘day’, _levu_ ‘big’)
+ late afternoon, evening       | _aviavi_ V
+ ‣ mid-afternoon               | _aviavi tūtū_ N (_aviavi_ ‘afternoon’, _tūtū_ ‘exactly’)
+ ‣ almost twilight             | _sī-aviavi ðɵ̄ðɵ̄_ V (_sī-aviavi_ ‘twilight’, _ðɵ̄ðɵ̄_ ‘be light’)
+ ‣ afternoon twilight          | _sī-aviavi_ V
+ ‣ just before dusk            | _karati-avi_ V
+ ‣ be almost dusk              | _mata boŋi_
+ ‣ dusk                        | _sī-aviavi karawa_ V (_sī-aviavi_ ‘twilight’, _karawa_ ‘blue-green’)
 
-__pre__
-Niuean (Pn)
-Note: maŋa-aho, moŋo ‘part of day’
- night                 pō N/V
-      midnight               maŋa-aho tulotopō NP (pō ‘night’)
- daylight                    aho N
- morning                     poŋi-poŋi N
-      dawn                   maŋa-aho maheŋiheŋi NP (maheŋiheŋi ‘be twilight’)
-      sunrise                moŋo hake laā NP (hake ‘rise’, laā ‘sun’)
-      early morning          maŋa-aho kō moa NP (kō ‘crow’, moa ‘chicken’)
- middle of the day           —
-      broad daylight         aho-teka NP (aho ‘daylight’, -teka ‘very’), aho-tea
-      midday                 moŋo/maŋa-aho tūpou laā NP (tūpou ‘be directly above’, laā ‘sun’)
-      afternoon              moŋo/maŋa-aho pale laā NP (pale ‘turn’, laā ‘sun’)
- late afternoon, evening afi-afi N
-      sunset                 moŋo/maŋa-aho tō laā NP (tō ‘fall’, laā ‘sun’)
+__table__
+Niuean (Pn) | Note: maŋa-aho, moŋo ‘part of day’
+ __night__                | _pō_ N/V
+ ‣ midnight               | _maŋa-aho tulotopō_ NP (_pō_ ‘night’)
+ __daylight__             | _aho_ N
+ morning                  | _poŋi-poŋi_ N
+ ‣ dawn                   | _maŋa-aho maheŋiheŋi_ NP (_maheŋiheŋi_ ‘be twilight’)
+ ‣ sunrise                | _moŋo hake laā_ NP (_hake_ ‘rise’, _laā_ ‘sun’)
+ ‣ early morning          | _maŋa-aho kō moa_ NP (_kō_ ‘crow’, _moa_ ‘chicken’)
+ middle of the day        | —
+ ‣ broad daylight         | _aho-teka_ NP (_aho_ ‘daylight’, _-teka_ ‘very’), _aho-tea_
+ ‣ midday                 | _moŋo/maŋa-aho tūpou laā_ NP (_tūpou_ ‘be directly above’, _laā_ ‘sun’)
+ ‣ afternoon              | _moŋo/maŋa-aho pale laā_ NP (_pale_ ‘turn’, _laā_ ‘sun’)
+ late afternoon, evening  | _afi-afi_ N
+ ‣ sunset                 | _moŋo/maŋa-aho tō laā_ NP (_tō_ ‘fall’, _laā_ ‘sun’)
 
 
 9.2.2 The day and times of day: reconstructions
@@ -14853,38 +14826,36 @@ Note: maŋa-aho, moŋo ‘part of day’
 certain). The primary terms for ‘night’ and ‘daylight’ were evidently *boŋi and *raqani.
 No third-order terms are reconstructable.
 
-__pre__
- night                   *boŋi N, V ‘night, day of twenty-four hours’
-                         *rodrom V ‘be dark, be night’
-                         *marom V ‘be dark’
-  daylight               *raqani N, V ‘daytime, daylight’
-                         *qaco N ‘sun, daylight’
-                         *sinaR N, V ‘shine, sun’
- morning                 *boŋi-boŋi N, ADV ‘early morning from dawn to perhaps
-                           about 10 a.m.’
- middle of the day       —
- late afternoon, evening *Rapi N, *Rapi-Rapi ADV ‘late afternoon and evening,
-                           from about 3 p.m. to sunset’
+__tablenh__
+ __night__              |     _*boŋi_ N, V ‘night, day of twenty-four hours’
+                        | _*rodrom_ V ‘be dark, be night’
+                        | _*marom_ V ‘be dark’
+  __daylight__          |     _*raqani_ N, V ‘daytime, daylight’
+                        | _*qaco_ N ‘sun, daylight’
+                        | _*sinaR_ N, V ‘shine, sun’
+ morning                | _*boŋi-boŋi_ N, ADV ‘early morning from dawn to perhaps about 10 a.m.’
+ middle of the day      | —
+ late afternoon, evening | *Rapi N, *Rapi-Rapi ADV ‘late afternoon and evening, from about 3 p.m. to sunset’
 
-    Pawley (n.d.) notes an idiomatic construction in which at least some of these terms co-
-occurred with POc _*panua_ which, among other things, meant ‘the visible world, land and
+    Pawley (n.d.) notes an idiomatic construction in which at least some of these terms co-occurred
+with POc _*panua_ which, among other things, meant ‘the visible world, land and
 sky’ (vol. 1, p.62). The combination of _*panua_ and _*boŋi_, probably as a verb, is reflected
 in:
 
-__pre__
-  Motu (PT)                hanua-boi ‘night’
-  Wayan, Bauan (Fij)       boŋi na vanua ‘be night’
-  Rotuman (Fij)            hanua he poŋ ‘it is getting late, night is coming on’
-  Rennellese (Pn)          henua pō ‘night time’
+__tablenh__
+  Motu (PT)            |    _hanua-boi_ ‘night’
+  Wayan, Bauan (Fij)   |    _boŋi na vanua_ ‘be night’
+  Rotuman (Fij)        |    _hanua he poŋ_ ‘it is getting late, night is coming on’
+  Rennellese (Pn)      |    _henua pō_ ‘night time’
 
 Presumably the combination meant something like ‘the world is becoming dark’. The
 expressions below reflect the same construction, with ‘night’ replaced by ‘daylight’:
 
-__pre__
-  Lau (SES)               fanua sato ‘sunny weather’ (< POc *qaco)
-  Wayan (Fij)             siŋa na vanua ‘be daylight’ (< POc *sinaR)
-                          siŋa-levu na vanua ‘be midday’ (levu ‘big’)
-  Rotuman (Fij)           hanua ran ‘daylight, dawn’ (< POc *raqani)
+__tablenh__
+  Lau (SES)            |   _fanua sato_ ‘sunny weather’ (< POc _*qaco_)
+  Wayan (Fij)          |   _siŋa na vanua_ ‘be daylight’ (< POc _*sinaR_)
+                       |   _siŋa-levu na vanua_ ‘be midday’ (_levu_ ‘big’)
+  Rotuman (Fij)        |   _hanua ran_ ‘daylight, dawn’ (< POc _*raqani_)
 
 
 9.2.2.1 Night
@@ -15074,7 +15045,7 @@ POc *raqani ‘daytime, daylight’
  NCV: Paamese            lani              ‘daybreak’
  SV:  Lenakel            n-ian             ‘day’
  SV:  Kwamera            ia-ran            ‘day’
- Mic: Marshallese        ṛᶭān              ‘day, date’
+ Mic: Marshallese        ṛᵚān              ‘day, date’
  Mic: Ponapean           rān               ‘day’
 >
 
@@ -15101,7 +15072,7 @@ POc *qaco ‘sun, daytime’
  SES: Sa’a           sato           ‘sun, sunshine, fine weather’
  NCV: Mota           loa            ‘sun’
  NCV: Namakura       ʔal            ‘sun’
- Mic: Marshallese    alᶭ            ‘sun’
+ Mic: Marshallese    alᵚ            ‘sun’
  Mic: Woleaian       yaro           ‘sun’
  Mic: Puluwatese     yælet          ‘sun’
  Pn:  Tongan         ʔaho           ‘day’
@@ -15170,14 +15141,14 @@ _*boŋi-boŋi_ nonetheless include that language’s root for ‘night’:
 
 __table__
                        |        night               |     early morning
-  Drehet (Adm)         |        piŋ                 |     kxe-piŋ
-  Lou (Adm)            |        keli-peŋ            |     pati-peŋ
-  Loniu (Adm)          |        peŋ                 |     ma-peŋ
-  Bing (NNG)           |        boŋan ‘last night’  |     boŋ-sag (sag ‘only’)
-  Takia (NNG)          |        tidom               |     tidom-lom (lo ‘in’, mi ‘only’)
-  Mapos Buang (NNG)    |        buk                 |     mon-buk
-  Kiriwina (PT)        |        bogi                |     ga-bogi
-  Marshallese (Mic)    |        pʷoŋ                |     cip-pwoŋ (cip ‘rise’)
+  Drehet (Adm)         |        _piŋ_                 |     _kxe-piŋ_
+  Lou (Adm)            |        _keli-peŋ_            |     _pati-peŋ_
+  Loniu (Adm)          |        _peŋ_                 |     _ma-peŋ_
+  Bing (NNG)           |        _boŋan_ ‘last night’  |     _boŋ-sag_ (_sag_ ‘only’)
+  Takia (NNG)          |        _tidom_               |     _tidom-lom_ (_lo_ ‘in’, _mi_ ‘only’)
+  Mapos Buang (NNG)    |        _buk_                 |     _mon-buk_
+  Kiriwina (PT)        |        _bogi_                |     _ga-bogi_
+  Marshallese (Mic)    |        _pʷoŋ_                |     _cip-pʷoŋ_ (cip ‘rise’)
 
    POc _*puko_ ‘morning’ is only distributed over a certain area of Oceania — from New
 Britain to central Vanuatu — but this is enough to meet our criteria for POc reconstruction.
@@ -15222,17 +15193,17 @@ and those that do show no sign of cognation. Most languages have a phrasal expre
 sometimes meaning ‘the middle of the day’:
 
 __tablenh__
- Loniu (Adm)         |      tiko aŋ (tiko ‘middle’, aŋ ‘day, sun’)
- Gapapaiwa (PT)      |      madeɣa pu (madeɣa ‘daylight’, pu ‘middle’)
- Roviana (MM)        |      korapa rane (korapa ‘middle’, rane ‘daylight’)
- Gela (SES)          |      kutu ni dani (kutu ‘stomach, womb’, dani ‘daytime)
+ Loniu (Adm)         |      _tiko aŋ_ (_tiko_ ‘middle’, _aŋ_ ‘day, sun’)
+ Gapapaiwa (PT)      |      _madeɣa pu_ (_madeɣa_ ‘daylight’, _pu_ ‘middle’)
+ Roviana (MM)        |      _korapa rane_ (_korapa_ ‘middle’, _rane_ ‘daylight’)
+ Gela (SES)          |      _kutu ni dani_ (_kutu_ ‘stomach, womb’, _dani_ ‘daytime)
 
 Others have a noun phrase whose head is ‘sun, daylight’, modified by ‘big’ or ‘good’:
 
 __tablenh__
- Takia (NNG)         |      ad uyan, adian (ad ‘sun’, uyan ‘good’)
- Gela (SES)          |      dani-kama (dani ‘daylight’, kama ‘big’)
- Wayan (Fij)         |      siŋa-levu (siŋa ‘day’, levu ‘big’)
+ Takia (NNG)         |      _ad uyan_, _adian_ (_ad_ ‘sun’, _uyan_ ‘good’)
+ Gela (SES)          |      _dani-kama_ (_dani_ ‘daylight’, _kama_ ‘big’)
+ Wayan (Fij)         |      _siŋa-levu_ (_siŋa_ ‘day’, _levu_ ‘big’)
 
    Biggs and Clark (1993) reconstruct PPn _*qaho-atea_ ‘late morning and early afternoon’,
 from PPn _*qaho_ ‘daylight’ and _*qātea_ ‘clear, unobstructed’. The addition of Anejom
@@ -15421,8 +15392,8 @@ apparently names days only from the 10th to the 20th day. The Lamotrek days, as 
 Christian (1899) are divided into two sections of respectively ten and twenty days.
 
 [14] Sources listing days of the moon’s age are Christian (1899:387–395) for Yapese, Ponapean, Lamotrek,
-   Mortlockese and Woleaian, Jackson and Marck (1991) for Carolinian, Lee (1976) for Kosraean, Tregear
-   (n.d.) for Hawai’ian, Tahitian, Marquesan, Rarotongan, Māori and Moriori, Stimson (1928) for Tahitian,
+   Mortlockese and Woleaian, Jackson and Marck (1991) for Carolinian, Lee (1976) for Kosraean,
+   Tregear (n.d.) for Hawai’ian, Tahitian, Marquesan, Rarotongan, Māori and Moriori, Stimson (1928) for Tahitian,
    Williams (1928) for Hawai’ian, Mangareva, Tahitian, Marquesan, Rarotongan, and Māori.
 
    Proto Micronesian and Proto Central–Eastern Polynesian sets of day names could
@@ -15444,10 +15415,10 @@ term for them, POc _*japi_ was reconstructed in vol. 1 (p.104). It is reflected 
 term below.
 
 __formgroup__
- PT:  Motu       |hua doɣaɣi|          ‘new moon’ (doɣaɣi ‘crescent shaped pearl shell ornament’)
+ PT:  Motu       |hua doɣaɣi|          ‘new moon’ (_doɣaɣi_ ‘crescent shaped pearl shell ornament’)
  MM:  Nakanai    mapa-le-gileme      ‘moon when it is small’ (lit. ‘payment for Gileme’: the reference is to a goldlip shell used in brideprice)
  MM:  Nakanai    kalisu              ‘noseplug of mother-of pearl; new moon’
- SES: Arosi      siʔe-dahi           ‘a phase of the moon’ (siʔe ‘rub fire’ or ‘stripes’, dahi ‘crescent shaped ornament made from gold-lipped pearlshell’)
+ SES: Arosi      siʔe-dahi           ‘a phase of the moon’ (_siʔe_ ‘rub fire’ or ‘stripes’, _dahi_ ‘crescent shaped ornament made from gold-lipped pearlshell’)
 
 Other descriptive terms also occur:
 
@@ -15489,8 +15460,8 @@ day after the moon’s appearance (whereas ‘the unripe moon’ seems to refer 
 7th). One other language, Drehet, has a similar term:
 
 __formgroup__
- Adm: Drehet    |puŋ rekxek|          ‘moon phases: 1st and 3rd quarters’ (puŋ ‘moon’, rekxek ‘a quarter, a piece’)
- NCV: Mwotlap   |no-wol ɣaytɛ-ɣi|     ‘one-third moon’ (wol ‘moon’, ɣayte ‘half, piece’)
+ Adm: Drehet    |puŋ rekxek|       ‘moon phases: 1st and 3rd quarters’ (_puŋ_ ‘moon’, _rekxek_ ‘a quarter, a piece’)
+ NCV: Mwotlap   |no-wol ɣaytɛ-ɣi|  ‘one-third moon’ (_wol_ ‘moon’, _ɣayte_ ‘half, piece’)
 
 Maringe has a term with an apparently similar meaning to Mwotlap:
 
@@ -15529,7 +15500,7 @@ POc *raki ‘dry season when the southeast trades blow’
  MM:  Bulu            laɣi           ‘southeast trade’
  MM:  Tigak           rei            ‘wind’
  NCV: Lewo            lagi(pesoi)    ‘east wind ’
- Mic: Marshallese     ṛᶭak           ‘south, summer’
+ Mic: Marshallese     ṛᵚak           ‘south, summer’
  Mic: Ponapean        rāk            ‘breadfruit season, season of plenty’
  Fij: Wayan           draki          ‘weather’
  Fij: Bauan           draki          ‘weather’
@@ -15730,7 +15701,7 @@ POc *|i muqa|, *qa-muqa *muqa-muqa ‘in front, formerly’ (p.257)
  NCV: Port Sandwich   (a)mo              (POSTVERBAL ADV) ‘before’
  Mic: Woleaian        [i]mʷowa-          ‘front, before’
  Mic: Woleaian        mʷ-mʷa-            ‘front, first, tip, before’
- Pn:  Tongan          |(ʔi) muʔa [-atu]| ‘formerly’ (-atu DIR; p.279)
+ Pn:  Tongan          |(ʔi) muʔa [-atu]| ‘formerly’ (_-atu_ DIR; p.279)
  Pn:  Samoan          (ana)mua           ‘formerly, in those days’
 PWOc *muga ‘front; be in front; formerly’
  NNG: Bariai          muga(eai)          ‘formerly’ (_-eai_ POSTP)
@@ -15776,7 +15747,7 @@ POc *|i muri|, *muri-muri ‘at the back, later’ (p.261)
                                                                                  Time     323
 
 <
-PMP * burit ‘hind part, rear, back’ (ACD)
+PMP *burit ‘hind part, rear, back’ (ACD)
 POc *burit ‘be behind, be after; back part, rear, behind, space to the rear of, time after; (canoe) stern’
 POc *|i burit| ‘behind, afterwards’ (p.262)
  SES: Lau                  |(i) buri|       ‘afterwards’
@@ -15933,7 +15904,7 @@ South Vanuatu, and these forms seem to reflect a metathesis of a reflex of _na-�
 _*na-Rañop_.
 
 <
-POc *na-ñoRap ‘yesterday’ (*i na-ñoRap, *qa-na-ñoRap (?))
+POc *na-ñoRap ‘yesterday’ (_*i na-ñoRap_, _*qa-na-ñoRap_ (?))
  NNG: Lamogai       narnop          ‘yesterday’ (< _*na-norap_: metathesis)
  MM:  Tabar         nenora          ‘yesterday’
  MM:  Nduke         nonoro          ‘yesterday’
@@ -16318,13 +16289,13 @@ POc *[qa-]na-waRisa ‘day before yesterday’
 The contrast between _*waRisa_ with and without _*na-_ is reflected in the following pairs:
 
 __table__
-                         |  *waRisa  ‘day after tomorrow’    | *[qa-]na-waRisa ‘day before yesterday’
-  MM: Patpatar           |  uaris                            | nauaris
-  MM: Tolai (Nodup)      |  oari(a)                          | nari(a)
-  NCV: Mota              |  arisa                            | anarisa
-  NCV: Port Sandwich     |  (x)ois                           | (xi)nois
-  SV: Sye                |  wisas ‘five days hence’          | nowisas ‘five days ago’
-  SV: Anejom             |  (ho)viθ ‘three days from today’  | nviθ ‘day before yesterday, day after tomorrow’
+                         |  _*waRisa_  ‘day after tomorrow’   | _*[qa-]na-waRisa_ ‘day before yesterday’
+  MM: Patpatar           |  _uaris_                            | _nauaris_
+  MM: Tolai (Nodup)      |  _oari(a)_                          | _nari(a)_
+  NCV: Mota              |  _arisa_                            | _anarisa_
+  NCV: Port Sandwich     |  _(x)ois_                           | _(xi)nois_
+  SV: Sye                |  _wisas_ ‘five days hence’          | _nowisas_ ‘five days ago’
+  SV: Anejom             |  _(ho)viθ_ ‘three days from today’  | _nviθ_ ‘day before yesterday, day after tomorrow’
 
 334   Malcolm Ross
 

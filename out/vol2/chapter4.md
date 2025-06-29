@@ -492,7 +492,7 @@ The PCEMP reconstruction in the next set is supported by cognates in the Central
 <tr>
 <td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>lamana</i></td>
 <td>
-'<span>sea near the shore</span>' (<span>cf. malioŋe ‘deep blue sea beyond the reef’</span>)</td>
+'<span>sea near the shore</span>' (<span>cf. <em>malioŋe</em> ‘deep blue sea beyond the reef’</span>)</td>
 </tr>
 <tr>
 <td>Adm</td><td><a href="../languages/penchal">Penchal</a></td><td><i>lam</i></td>
@@ -1910,7 +1910,7 @@ In addition to their daily ebb and flow, tides have a seasonal cycle, with extre
 
 In Wayan (spoken in the Wasaya group, western Fiji), terms for spring and neap tides include _ua kurakura_ ‘spring tide, highest tide of the month, when moon is full’, _ua qē_ ‘neap tide, very quickly turning high tide, a low high tide’, and _ðere uaua_ ‘very quickly turning low tide, a high low tide’. Wayan speakers also have a range of terms for high tides occurring at different times of day: _ua qwata_ ‘morning tide, be high tide in morning’, _ua siŋa_ ‘midday tide, be high tide at midday’, _ua vakiavi_ ‘late afternoon tide’, _ua avi_ ‘evening tide, be high tide at evening’ and _ua boŋi_ ‘night tide, be high tide at night’. It is probable that in POc also, there were a number of compounds based on _&ast;[u]Ruap_ and _&ast;maqati_ that denoted specific kinds of high and low tide. However, on the evidence to hand we cannot recover the precise forms of such compounds.
 
-The reconstruction for low tide, POc _&ast;maqati_, which continues a PAn form, is a well- supported one. The same form is also widely attested in the sense ‘dry reef, reef exposed at low tide’.
+The reconstruction for low tide, POc _&ast;maqati_, which continues a PAn form, is a well-supported one. The same form is also widely attested in the sense ‘dry reef, reef exposed at low tide’.
 
 <table id="2-4-2-6-103-POc-maqati-a">
 <tr>
@@ -2197,7 +2197,7 @@ POc _&ast;[ma]maca_ ‘dry up, evaporate’, has some reflexes which refer to lo
 <tr>
 <td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td><i>masa</i></td>
 <td>
-'<span>beach, sea shore</span>' (<span>masa-masa ‘shallow’, masa herepata ‘very low tide’</span>)</td>
+'<span>beach, sea shore</span>' (<span><em>masa-masa</em> ‘shallow’, <em>masa herepata</em> ‘very low tide’</span>)</td>
 </tr>
 <tr>
 <td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>mamaha</i></td>
@@ -4185,7 +4185,7 @@ Where a Polynesian language includes reflexes of both _&ast;moana_ (p.94) and _&
 ## 4. Conclusion
 
 
-There can be no doubt that the physical world outlined by reconstructions in this chapter is consistent with the nature of Lapita settlements as reconstructed by archaeologists and described in Chapter 2. The reconstruction of terms for the marine physical environment in this chapter is substantially better supported that the reconstruction of terms for the terrestrial environment in Chapter 3. It includes a plethora of terms for the sea, for reefs, and for features associated with them, with such detail as submerged reefs and passageways through the reef for canoes, features relevant to human marine activities rather than simply features that dominate the landscape. As we noted in the conclusion of Chapter 3, the main reason that terms for certain landscape features are not reconstructable is probably that early Oceanic speakers were on the move from one landscape to another. By the same token, the fact that a reasonably detailed seascape terminology is reconstructable implies (i) that the seascape and coastal environment remained fairly constant even when the landscape changed; and (ii) that the sea and the coastline were of crucial importance to the economies of Proto Oceanic speakers and their descendants. The constancy of speakers’ coastal environments does not mean that they are identical on all Pacific islands—for they are not. Rather, it implies that Oceanic speakers have had a strong tendency to seek out coastal environments of a certain kind, namely those with accessible reefs.
+There can be no doubt that the physical world outlined by reconstructions in this chapter is consistent with the nature of Lapita settlements as reconstructed by archaeologists and described in Chapter 2. The reconstruction of terms for the marine physical environment in this chapter is substantially better supported than the reconstruction of terms for the terrestrial environment in Chapter 3. It includes a plethora of terms for the sea, for reefs, and for features associated with them, with such detail as submerged reefs and passageways through the reef for canoes, features relevant to human marine activities rather than simply features that dominate the landscape. As we noted in the conclusion of Chapter 3, the main reason that terms for certain landscape features are not reconstructable is probably that early Oceanic speakers were on the move from one landscape to another. By the same token, the fact that a reasonably detailed seascape terminology is reconstructable implies (i) that the seascape and coastal environment remained fairly constant even when the landscape changed; and (ii) that the sea and the coastline were of crucial importance to the economies of Proto Oceanic speakers and their descendants. The constancy of speakers’ coastal environments does not mean that they are identical on all Pacific islands—for they are not. Rather, it implies that Oceanic speakers have had a strong tendency to seek out coastal environments of a certain kind, namely those with accessible reefs.
 
 
 ## Notes

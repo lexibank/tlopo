@@ -53,7 +53,7 @@ Because they are seasonal, communities dependent on fresh yams alone would under
 
 <a id="s-2-1-1"></a>
 
-### 2.1.1 Why so few yam terms?
+#### 2.1.1. Why so few yam terms?
 
 
 Today six yam species are found in Melanesia: D. alata, D. bulbifera, D. esculenta, D. pentaphylla, D. hispida, and D. nummularia ([Barrau 1955](../sources/Barrau1955): 56, [Bourke 1982](../sources/Bourke1982)). The first four are present throughout the region, but POc names can be reconstructed for only the first two. This is curious, because the two main garden yam species in NW Island Melanesia today are the greater yam, D. alata, and the lesser yam, D. esculenta. We might expect to reconstruct a POc term for at least the first four species, and certainly for D. esculenta, but no term for the latter can be reconstructed with certainty. Barrau (1965) suggests that D. nummularia, which he found cultivated in scattered locations throughout the Pacific,[^3] was also once much more widely cultivated than it is today. No term can be reconstructed for it, but this is likely to be an artifact of the data: no source offers a term for it.
@@ -72,7 +72,7 @@ The visible differences between D. alata, D. esculenta and D. bulbifera are show
 
 <a id="s-2-1-2"></a>
 
-### 2.1.2 Dioscorea alata, greater yam, water yam, winged yam, TP yam, P iam (Dioscoreaceae)
+#### 2.1.2. Dioscorea alata, greater yam, water yam, winged yam, TP yam, P iam (Dioscoreaceae)
 
 
 Left to themselves, D. alata tubers come in an amazing variety of forms, as shown in Figure 9.2. In various parts of Oceanic-speaking Melanesia - the Papuan Tip islands, Fiji, New Caledonia - farmers strove to produce yams with a regular form and giant length. [Barrau](../sources/Barrau1955) ([1955](../sources/Barrau1955): 57) mentions a 2.6 m yam seen in New Caledonia in 1953. These long yams were produced by hollowing out a cylindrical growing hole and lining it with wooden sticks to provide growth space for the tuber. More generally, the yield is maximised by staking the growing vine with a support 2-3m high.
@@ -487,7 +487,7 @@ cf. also:
 
 <a id="s-2-1-3"></a>
 
-### 2.1.3 Dioscorea bulbifera, potato yam, aerial yam, air potato (Dioscoreaceae)
+#### 2.1.3. Dioscorea bulbifera, potato yam, aerial yam, air potato (Dioscoreaceae)
 
 
 The terms 'potato yam' and 'aerial yam' reflect the fact that D. bulbifera has multiple aerial bulbils rather than a single basal tuber. Except in parts of Papua New Guinea it is not cultivated but quite commonly grows wild ([Barrau 1962](../sources/Barrau1962): 113). Its bulbils contain a toxin, dioscorine, and need to be cooked and grated, then washed continuously in fresh water for several hours ([Barrau 1955](../sources/Barrau1955): 59). In Papua New Guinea it is sometimes cultivated as a minor staple alongside the two major staple species, D. alata and D. esculenta ([Bourke 1982](../sources/Bourke1982)).
@@ -583,7 +583,7 @@ cf. also:
 
 <a id="s-2-1-4"></a>
 
-### 2.1.4 Dioscorea esculenta, lesser yam, prickly yam, TP mami, Ppana (Dioscoreaceae)
+#### 2.1.4. Dioscorea esculenta, lesser yam, prickly yam, TP mami, Ppana (Dioscoreaceae)
 
 
 Dioscorea esculenta has a prickly vine stem and winds clockwise around its stake, whereas D. alata winds anti-clockwise (Figure 9.1).
@@ -694,7 +694,7 @@ cf. also:
 
 <a id="s-2-1-5"></a>
 
-### 2.1.5 Other terms for yam
+#### 2.1.5. Other terms for yam
 
 
 Further terms for yam can be reconstructed, but it is unclear which species they denoted.
@@ -933,7 +933,7 @@ Most major food plant terms both in English and in Oceanic languages refer to a 
 
 <a id="s-2-2-1"></a>
 
-### 2.2.1 Colocasia esculenta (syn. C. antiquorum), taro, Asian taro, TP taro tru (Araceae)
+#### 2.2.1. Colocasia esculenta (syn. C. antiquorum), taro, Asian taro, TP taro tru (Araceae)
 
 
 Like the other Araceae, in its natural state Colocasia taro prefers a shady, damp (and even swampy) environment, which explains its cultivation in rain forest environments and the need for irrigation elsewhere. It is often grown on crudely terraced slopes, the terraces supported by tree trunks or stick fences. It is usually propagated by planting a section from the top of the tuber together with the plant's stem (the leaves are removed). Less often a cutting or a sucker from the side of the corm is used. [Ivens](../sources/Ivens1927) ([1927](../sources/Ivens1927): 355) reports from Ulawa that, because taro is not a seasonal crop, the farmer may simply cut the top off a newly pulled tuber and re-plant it immediately. Tubers are ready for harvesting 7-12 months after planting. It grows throughout the year, obviating the need for storage ([Barrau 1955](../sources/Barrau1955): 50-52).
@@ -1411,7 +1411,7 @@ Other terms for parts of the taro plant are reconstructed in chapter 4. They are
 
 <a id="s-2-2-2"></a>
 
-### 2.2.2 Cyrtosperma merkusii (syn. C. chamissonis, C. edule), swamp taro, giant taro, Pkakake, kakama, B wota taro (Araceae)
+#### 2.2.2. Cyrtosperma merkusii (syn. C. chamissonis, C. edule), swamp taro, giant taro, Pkakake, kakama, B wota taro (Araceae)
 
 
 At 4 metres tall swamp taro, Cyrtosperma merkusii, is a giant among the Araceae. It grows wild or is cultivated in swampy areas on many of the islands of Melanesia, Polynesia and Micronesia. Cyrtosperma taro is commonly grown in the mud directly behind the mangrove swamp ([Barrau 1955](../sources/Barrau1955): 25-26). In pre-European times it was cultivated in the Bismarcks (on Manus and New Ireland), the Solomons, Vanuatu, Micronesia, western Polynesia and parts of Fiji but not on mainland New Guinea, in New Caledonia, or in eastern Polynesia ([Barrau 1962](../sources/Barrau1962): 103, Andrew Pawley, pers. comm.). It tolerates saline swamps and requires little labour to cultivate ([Bourke 1982](../sources/Bourke1982)). Because of its suitability for marginal conditions, it is an important staple on atolls in Micronesia. Elsewhere it has only marginal importance as a food crop. It is propagated by planting cuttings in marshy ground, and the tuber, which may weigh up to 15 kg, is harvested only after three years or longer. It is usually cooked by baking ([Barrau 1955](../sources/Barrau1955): 53). Its huge waxy leaves are used in the Solomons for sealing stone ovens and for laying out food ([Henderson & Hancock 1988](../sources/HendersonandHancock1988): 29-30).
@@ -1689,7 +1689,7 @@ The items listed below denote 'swamp taro, Cyrtosperma merkusii' unless glossed 
 
 <a id="s-2-2-3"></a>
 
-### 2.2.3 Alocasia macrorrhizos (syn.A. macrorrhiza, A. indica), giant taro, elephant ear taro, P waeltaro (Araceae)
+#### 2.2.3. Alocasia macrorrhizos (syn.A. macrorrhiza, A. indica), giant taro, elephant ear taro, P waeltaro (Araceae)
 
 
 The giant taro, Alocasia macrorrhizos, growing to 3-4 m, is not strictly a root crop; it is the corm (i.e. the thick lower stem) that is eaten. It is present as a minor staple in much of New Guinea and the Bismarcks, but appears to have been grown as much for ceremonial significance as for eating ([Bourke 1982](../sources/Bourke1982)). Ann Chowning (pers. comm.) reports that among the Nakanai and the Sengseng of New Britain, giant taro is often eaten by people who are abstaining from Colocasia taro as an act of mourning for a dead relative. A. macrorrhizos is not mentioned at all in [Henderson and Hancock's](../sources/HendersonandHancock1988) ([1988](../sources/HendersonandHancock1988)) Solomons survey. [Barrau](../sources/Barrau1955) ([1955](../sources/Barrau1955): 54) says that it is found throughout Melanesia but only sometimes cultivated in gardens, [Hay](../sources/Hay1990) ([1990](../sources/Hay1990): 41-42) that it is uncommon in rural Papua New Guinea. Its calcium oxalate content is such that it requires lengthy baking or scalding with water several times.
@@ -1898,7 +1898,7 @@ The POc name for giant taro was _&ast;piRaq_, continuing a PMP etymon. The final
 
 <a id="s-2-2-4"></a>
 
-### 2.2.4 Another term for taro?
+#### 2.2.4. Another term for taro?
 
 
 The glosses suggest that the denotatum of POc _&ast;(p,b)oso_ below belonged to the Araceae family, but it is impossible to infer its identity from the available data.
@@ -1957,7 +1957,7 @@ Three other tubers are quite widely distributed in the Pacific. Two are the wild
 
 <a id="s-2-3-1"></a>
 
-### 2.3.1 Amorphophallus paeoniifolius (syn. A. campanulatus), wild arrowroot, elephant yam (Araceae)
+#### 2.3.1. Amorphophallus paeoniifolius (syn. A. campanulatus), wild arrowroot, elephant yam (Araceae)
 
 
 Amorphophallus paeoniifolius is a wild plant. In the Austronesian speaking areas of Papua New Guinea it is a minor staple only in parts of western New Britain and in coastal SE Papua New Guinea ([Bourke et al. 1998](../sources/Bourkeetal1998)). [Margetts](../sources/Margetts2005b) ([2005b](../sources/Margetts2005b)) notes of the latter region that A. paeoniifolius is traditionally grown but not very common as people do not go out of their way to cultivate it. It is not as valued as other taro types and does not play a role in feasts and wealth exchanges. In the Solomon Islands it is reported to have been a garden crop in parts of Choiseul and Malaita ([Henderson & Hancock 1988](../sources/HendersonandHancock1988): 32). [Barrau](../sources/Barrau1955) ([1955](../sources/Barrau1955): 55) reports that it is no longer cultivated anywhere in Melanesia.
@@ -1965,7 +1965,7 @@ Amorphophallus paeoniifolius is a wild plant. In the Austronesian speaking areas
 
 <a id="s-2-3-2"></a>
 
-### 2.3.2 Tacca leontopetaloides, Polynesian arrowroot (Taccaceae)
+#### 2.3.2. Tacca leontopetaloides, Polynesian arrowroot (Taccaceae)
 
 
 The tuber of Tacca leontopetaloides is bitter and requires considerable processing to produce a starch pudding somewhat like sago pudding. It was used in this way on the small islands of the SE Solomons and the Temotu Province, and in much of Polynesia ([Henderson & Hancock 1988](../sources/HendersonandHancock1988): 34) but apparently had only limited use in the Bismarcks.
@@ -2034,7 +2034,7 @@ For the Micronesian names of T. leontopetaloides, however, no origin has been fo
 
 <a id="s-2-3-3"></a>
 
-### 2.3.3 Pueraria lobata (syn. P. novo-guineensis, P. thunbergiana, P. triloba, P. hirsuta, P. neo-caledonica, Pachyrrhizus trilobus, P. montanus, P. Dolichos hirsutus, D. tuberosus, D. lobatus) (Fabaceae)
+#### 2.3.3. Pueraria lobata (syn. P. novo-guineensis, P. thunbergiana, P. triloba, P. hirsuta, P. neo-caledonica, Pachyrrhizus trilobus, P. montanus, P. Dolichos hirsutus, D. tuberosus, D. lobatus) (Fabaceae)
 
 
 Figure 9.4: Tuber and plant parts of Pueraria lobata
@@ -2747,7 +2747,7 @@ Two POc terms for 'breadfruit' are reconstructed with reasonable certainty, _&as
 
 <a id="p-282"></a>
 
-By far the most widespread and frequently reflected of the three is POc _&ast;kuluR_, inherited from PMP, with reflexes in the Admiralties and Mussau, North New Guinea, Papuan Tip, Bali-Vitu (MM), the Willaumez group (MM), New Caledonia and Central Pacific. It is apparently also reflected in the Chuukic subgroup of Micronesian with a change in denotation to Barringtonia asiatica. A variant form _&ast;kunuR_ is reflected in North New Guinea, languages of the Ngero-Vitiaz and Markham groups and in the Willaumez (MM) language Meramera (which has probably borrowed it from a Ngero-Vitiaz language).[^23] There are also possible reflexes of _&ast;kunuR_ in Papuan Tip languages, but these are open to two interpretations. One is that they indeed reflect _&ast;kunuR_. The other is that the Dobu, Kalokalo and Wedau forms below reflect _&ast;kuluR_, as POc _&ast;l_ is regularly refllected as _n_ in these languages, and that Suau and the Central Papuan languages (Balawaia, Motu, Roro and Mekeo) have borrowed from a language with a _n_. This second hypothesis encounters a problem. Although the Central Papuan languages have a number of loans from the Are-Taupota group to which Wedau belongs ([Ross 1994](../sources/Ross1994a)a), Suau shows no sign of such loans. What is more, Suau (Daui) _unuli_ and Suau (Kwato) _ʔunuli_ are the expected reflexes of _&ast;kunuR_, displaying a uniquely Suauic paragogic _-i_ after the earlier final consonant, and Wedau _kunori_ is clearly a loan from Suauic. Thus the first hypothesis is apparently correct: Papuan Tip languages also reflect _&ast;kunuR_. In consequence, _&ast;kunuR_ can be reconstructed to PNGOc, and it is tentatively marked thus below - 'tentatively', because we would expect all North New Guinea terms to reflect the PNGOc etymon, but some of the Bel languages (Bilibil, Gedaged and Takia) and all the Schouten languages (Wogeo, Manam, Ali and Sissano are cited below) instead reflect POc _&ast;kuluR_, and I have no explanation for this.
+By far the most widespread and frequently reflected of the three is POc _&ast;kuluR_, inherited from PMP, with reflexes in the Admiralties and Mussau, North New Guinea, Papuan Tip, Bali-Vitu (MM), the Willaumez group (MM), New Caledonia and Central Pacific. It is apparently also reflected in the Chuukic subgroup of Micronesian with a change in denotation to Barringtonia asiatica. A variant form _&ast;kunuR_ is reflected in North New Guinea, languages of the Ngero-Vitiaz and Markham groups and in the Willaumez (MM) language Meramera (which has probably borrowed it from a Ngero-Vitiaz language).[^23] There are also possible reflexes of _&ast;kunuR_ in Papuan Tip languages, but these are open to two interpretations. One is that they indeed reflect _&ast;kunuR_. The other is that the Dobu, Kalokalo and Wedau forms below reflect _&ast;kuluR_, as POc _&ast;l_ is regularly refllected as _n_ in these languages, and that Suau and the Central Papuan languages (Balawaia, Motu, Roro and Mekeo) have borrowed from a language with a _n_. This second hypothesis encounters a problem. Although the Central Papuan languages have a number of loans from the Are-Taupota group to which Wedau belongs ([Ross 1994a](../sources/Ross1994a)), Suau shows no sign of such loans. What is more, Suau (Daui) _unuli_ and Suau (Kwato) _ʔunuli_ are the expected reflexes of _&ast;kunuR_, displaying a uniquely Suauic paragogic _-i_ after the earlier final consonant, and Wedau _kunori_ is clearly a loan from Suauic. Thus the first hypothesis is apparently correct: Papuan Tip languages also reflect _&ast;kunuR_. In consequence, _&ast;kunuR_ can be reconstructed to PNGOc, and it is tentatively marked thus below - 'tentatively', because we would expect all North New Guinea terms to reflect the PNGOc etymon, but some of the Bel languages (Bilibil, Gedaged and Takia) and all the Schouten languages (Wogeo, Manam, Ali and Sissano are cited below) instead reflect POc _&ast;kuluR_, and I have no explanation for this.
 
 Reflexes of POc _&ast;baReko_ are found in New Ireland (MM), NW Solomonic (MM), SE Solomonic, Temotu, North-Central and Southern Vanuatu. In three Central Papuan languages, Lala, Roro and Kuni, the reflex of _&ast;baReko_ denotes 'sago palm', a shift from one starch source to another. In the sense 'breadfruit', reflexes of _&ast;kuluR_~_&ast;kunuR_ and _&ast;baReko_ are geographically in complementary distribution. The distribution of _&ast;baReko_ forms an uninterrupted block across much of Island Melanesia excluding New Caledonia, with reflexes of _&ast;kuluR_~_&ast;kunuR_ across most of the remaining Oceanic-speaking region. Just two reflexes of _&ast;baReko_ in the sense 'breadfruit' occur outside the block. One is Tawala _beleha_, which displays the wrong vowels and may be a chance resemblance. The other is Tomoip _buŋ-biria_.[^24] Tomoip is situated near the languages of the Mengen family (NNG), but it is a New Ireland outlier ([Ross 1988](../sources/Ross1988): 292-293) and as such is an extension from the block.
 

@@ -2874,7 +2874,7 @@ As noted in [ch.4, §2.5](../contributions/3-4#s-2-5), Oceanic languages tend to
 
 <a id="s-5-1-1"></a>
 
-### 5.1.1 Green fronds
+#### 5.1.1. Green fronds
 
 
 Whether there was a single POc word denoting a green frond is debatable. Scattered languages use compounds meaning 'leaf of coconut' (Titan _lau-niw_, Anejom _neri-neañ_, Niuean _lau-niu_, each literally 'leaf-coconut' ) or 'branch of coconut' (Nehan _raŋ-kuen_, literally 'branch-coconut'). There is thus some evidence for reconstructing _&ast;raun ni niuR_ 'leaf of coconut' and/or _&ast;raqan ni niuR_ 'branch of coconut'.
@@ -3120,7 +3120,7 @@ cf. also:
 
 <a id="s-5-1-2"></a>
 
-### 5.1.2 Dried fronds
+#### 5.1.2. Dried fronds
 
 
 One of the main uses of dry coconut fronds is as torches, and in a number of languages there is a polysemous term meaning 'dry coconut leaf and '(coconut leaf) torch' (e.g. Misima _wita_ '(go) fishing with a lamp; dry coconut leaves; light made by burning dry coconut leaves' and NE Ambae here 'dry coconut leaf; dry coconut leaf lit and used as a torch'). [Milke](../sources/Milke1961) ([1961](../sources/Milke1961)) reconstructs _&ast;sulu(q)_ 'dry coconut leaf torch' for POc (see also [vol.1, ch.6, §2.3](../contributions/1-6#s-2-3)). On the basis of the reflexes of this form it seems likely that as in the case of NE Ambae here, 'dry coconut leaf' was a secondary meaning. Thus, languages like Lukep, Ramoaaina, Uripiv, Mokilese and Tongan have reflexes with both meanings, and in other languages such as Longgu and Southeast Ambrym it is only the coconut leaf meaning which has been retained.
@@ -3395,7 +3395,7 @@ PWOc _&ast;bita_ appears to have the same range of meaning. Although there are o
 
 <a id="s-5-1-3"></a>
 
-### 5.1.3 Midrib of the frond
+#### 5.1.3. Midrib of the frond
 
 
 Modern languages tend to have a distinctive term for the midrib or spine of a coconut frond, e.g. Iduna _domoluluna_ '(main) stalk of coconut leaf', Nduke _kilikava-_ 'stem of coconut frond, especially at thick end', Wayan Fijian _bālotu_ 'a coconut frond stalk stripped of its leaflets; the stem of the coconut frond, used for firewood and torches'. There are two candidate terms for this meaning, POc _&ast;bala(p,b)a(q)_ and POc _&ast;sasaRi_. Both may have denoted both the palm frond and the midrib - unsurprisingly, as a midrib is accompanied by its leaflets until they are stripped off.
@@ -3516,7 +3516,7 @@ cf. also:
 
 <a id="s-5-1-4"></a>
 
-### 5.1.4 Spine/stalk of leaflet
+#### 5.1.4. Spine/stalk of leaflet
 
 
 Our sources often do not distinguish clearly between the frond and the leaflet (both are labelled 'leaf'). The main use of coconut leaflets is that their dried spines are very commonly bound together to make brooms, and terms for the spine or stalk of leaflet typically relate to this use. Thus Manam _sinoka_ 'spine of coconut leaves, used for making brooms', Ramoaaina _noko_ 'broom, coconut leaf spine' and Carolinian sow 'spine of the coconut leaf (used in weaving, making brooms)'. POc _&ast;no(k,g)o_ evidently denoted both the spines and the broom.

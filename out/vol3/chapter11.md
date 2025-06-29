@@ -1458,7 +1458,7 @@ All except P. dubius are sources of food, and the third and fourth are cultivate
 
 <a id="s-2-5-1"></a>
 
-### 2.5.1 Pandanus tectorius (syn. P. odoratissimus), coa.stal pandanus (Pandanaceae)
+#### 2.5.1. Pandanus tectorius (syn. P. odoratissimus), coa.stal pandanus (Pandanaceae)
 
 
 Pandanus tectorius usually grows just behind the shore line to a height of 5-10 m. Its leaves are 1-2 m long, flat sheets tapering to a point. The orange fruit is made up of 'fingers' 6--8 em long, 4--5cm wide, each consisting of 8--17 parallel nuts (Figure 11 .5, left). The species shows considerable variability, consistent with having been cultivated over a long period of time, and is often found near villages and old village sites ([Peekel 1984](../sources/Peekel1984):38, [Walter & Sam 2002](../sources/WalterandSam2002): 216--217). In NW Island Melanesia its use is patchy: it is used in Manus, the south coast of New Britain, in New Ireland and in Bougainville ([Bourke n.d.](../sources/Bourkend)).[^17]
@@ -1893,7 +1893,7 @@ Figure 11.5: Left Pandanus tectorius: A, tree at its tallest; B, young plant whe
 
 <a id="s-2-5-2"></a>
 
-### 2.5.2 Pandanus dubius (syn. P. compressus) (Pandanaceae)
+#### 2.5.2. Pandanus dubius (syn. P. compressus) (Pandanaceae)
 
 
 Nut and fruit trees      3 31
@@ -2023,7 +2023,7 @@ The POc term for P. dubius was _&ast;pakum_.[^20]
 
 <a id="s-2-5-3"></a>
 
-### 2.5.3 Pandanus conoideus, red fruit pandanus, TP marita (Pandanaceae)
+#### 2.5.3. Pandanus conoideus, red fruit pandanus, TP marita (Pandanaceae)
 
 
 Pandanus conoideus is a small tree, 4-7 m high, found in New Guinea, from the coasts up to an altitude of 2000 m.It is less common in the Bismarcks. It grows in damp, shady places around villages and on old village sites, and displays the variability typical of cultivation. Its trunk is covered in short sharp spikes, and the long leaves have spiked edges. Its syncarps are typically 20-40cm long, and sometimes reach 1 m and weigh as much as 10 kg. The fruit are bright red or occasionally yellow, and get their colour from the oil in the pericarp (Figure 11.6) ([French 1986](../sources/French1986):210, [Walter & Sam 2002](../sources/WalterandSam2002): 210--211.)
@@ -2186,7 +2186,7 @@ cf. also:
 
 <a id="s-2-5-4"></a>
 
-### 2.5.4 Pandanus lamekotensis (Pandanaceae)
+#### 2.5.4. Pandanus lamekotensis (Pandanaceae)
 
 
 [Peekel](../sources/Peekel1984) ([1984](../sources/Peekel1984): 41) remarks that Pandanus lamekotensis is readily distinguished from other species. However, I have otherwise found it mentioned only by [Kennedy & Clarke](../sources/KennedyandClarke2004) ([2004](../sources/KennedyandClarke2004)), who provide no additional information, and it is possible that its distribution is limited to New Ireland. Indeed, Peekel did not find it in the south of New Ireland or on the Gazelle Peninsula of New Britain. It grows only on swampy creek banks, 4--7 m high with from 5 to 8 leaves, and its fruit clusters are oval, not 'fingers'. The ripe fruits, like those of P. tectorius are sometimes sucked by New Ireland villagers.
@@ -2243,7 +2243,7 @@ cf. also:
 
 <a id="s-2-5-5"></a>
 
-### 2.5.5 Other names for Pandanus species
+#### 2.5.5. Other names for Pandanus species
 
 
 The four reconstructions below each denoted a species or a variety of Pandanus, but the glosses do not allow us to determine which.

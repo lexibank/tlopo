@@ -84,17 +84,17 @@ here.
 right, 11.3 (labels only); French & Bridle (1978): 9.1, 9.2, 9.5; French (1986): 7.3, 11.7;
 Gilman & Watson (1993): 7.7, left A; Henderson & Hancock (1988): 5.2, 5.7, 5.9, 5.12,
 5.14, 6.2, 7.6, 7.5 right, 7.7 right, 7.9, 7.10, 7.11, 8.1, 8.3, 9.8, 10.1, 10.3, 10.4, 10.5, 10.6,
-11.1left, 11.2, 11.4, 11 .5, 11 .8, 11.9, 11.10, 11.11, 13.1, 13 .3, 13 .6, 13 .10left; Henty(1969,
+11.1left, 11.2, 11.4, 11 .5, 11 .8, 11.9, 11.10, 11.11, 13.1, 13.3, 13.6, 13.10 left; Henty (1969,
 drawn by Damaris Pearce): 8.5 (left and right); Hopkins & Menzies (1995): 5.1 left, 5.6,
 5.13, 5.15; Jebb (1992, drawn by Rosemary Wise): 11.3 (drawing only); Johns (1976): 6.6,
 7.1, 7.2, 7.4, 7.5.left B & C, 7.7, left B & C, 7.8; Laycock (2003): 12.2; Merrill (1946): 5.1
 right, 5.4, 5.5, 5.8, 5.11 right, 6.4, 8.2, 13 .8, 13.10 right; J. Parham (1972): 6.5, 8.4.
 
      The following figures are from internet sources accessed in December 2007: 8.5 (middle)
-(http://www.weblio.jp/), 12.3 (http://waynesword.palomar.edu/terminfl .htrn), 13.4 B (http://
-www.ntbg.org/), 13.2 (http://membres.lycos.fr/verdammi/), 13.4 C & D (http://www. nation-
+(http://www.weblio.jp/), 12.3 (http://waynesword.palomar.edu/terminfl .htrn),
+13.4 B (http://www.ntbg.org/), 13.2 (http://membres.lycos.fr/verdammi/), 13.4 C & D (http://www. nation-
 aalherbarium.nl/, drawn by Anna Walsmit Sachs), 13.5 (http://www.desert-tropicals. com/).
-One figure is from an internet source accessed in August 2008: 10.2 (http://www. tropilab.com/
+One figure is from an internet source accessed in August 2008: 10.2 (http://www.tropilab.com/
 amaranth.htrnl).
 
                                                                    Acknowledgments      xxv
@@ -111,15 +111,16 @@ drawing in French 1986: 210), 13.7. The source of figure 5.10 is unknown.
 Malcolm Ross
 Canberra, 4th September 2008
 
-                                         JAPAN
+
 
 
-Map 2  Geographic limits of historically known Oceanic speakers and of presently documented
-Lapita sites (after Kirch 1997: 17, 54)
 
 
 1 Introduction
 
+Map 1: The Austronesian phylum and major language groups
+
+Map 2  Geographic limits of historically known Oceanic speakers and of presently documented Lapita sites (after Kirch_1997: 17, 54)
 
 1.1 Aims
 
@@ -137,8 +138,8 @@ a truly remarkable chapter in human prehistory-the colonisation by Austronesian 
 of the Indo-Pacific region in the period after about 2000 BC. The outcome was the largest
 of the world's well-established language families and (until the expansion of Indo-European
 after Columbus) the most widespread. The Austronesian family comprises more than 1,000
-distinct languages. Its eastern and western outliers, Madagascar and Easter Island, are two-
-thirds of a world apart, and its northernmost extensions, Hawaii and Taiwan, are separated
+distinct languages. Its eastern and western outliers, Madagascar and Easter Island, are two-thirds
+of a world apart, and its northernmost extensions, Hawaii and Taiwan, are separated
 by 70 degrees of latitude from its southernmost outpost, Stewart Island in New Zealand.
 
      It is likely that the divergence of Oceanic from its nearest relatives, which are the Austronesian
@@ -206,21 +207,21 @@ sub grouping of Oceanic languages.
 1.2 The relation of the current project to previous work
 
 Reconstructions of POc phonology and lexicon began with Dempwolff's pioneering work in
-the 1920s and 1930s. Dempwolff's dictionary of reconstructions attributed to Proto Austro-
-nesian (PAn) (1938)- but equivalent in modern terms to Proto Malaya-Polynesian (PMP)
-- contains some 600 reconstructions with reflexes in Oceanic languages.
+the 1920s and 1930s. Dempwolff's dictionary of reconstructions attributed to Proto Austronesian
+(PAn) (1938) - but equivalent in modern terms to Proto Malaya-Polynesian (PMP) - contains some
+600 reconstructions with reflexes in Oceanic languages.
 
                                                                                        Introduction     3
 
 
-     Since the 1950s, POc and other early Oceanic interstage languages have been the sub-
-ject of a considerable body of research. However, relatively few new reconstructions safely
+     Since the 1950s, POc and other early Oceanic interstage languages have been the subject
+of a considerable body of research. However, relatively few new reconstructions safely
 attributable to POc were added to Dempwolff's material until the 1970s. In 1969 George
 Grace made available as a working paper a compilation of reconstructions from various
 sources amounting to some 700 distinct items, attributed either to POc or to early Oceanic
 interstages. These materials were presented in a new orthography for POc, based largely on
-Biggs' (1965) orthography for an interstage he called Proto Eastern Oceanic. Updated com-
-pilations of Oceanic cognate sets were produced at the University of Hawaii in the period
+Biggs' (1965) orthography for an interstage he called Proto Eastern Oceanic. Updated compilations
+of Oceanic cognate sets were produced at the University of Hawaii in the period
 1977-1983 as part of a project directed by Grace and Pawley. These compilations and the
 supporting data are problematic in various respects and we have made only limited use of
 them.
@@ -230,8 +231,8 @@ of Oceanic: for Proto Polynesian by Biggs (resulting in Walsh & Biggs 1966, Bigg
 and subsequent versions of the POLLEX file, including Biggs & Clark (1993) and Clark & Biggs (2006);[5]
 for Proto Micronesian by scholars at the University of Hawaii (Bender et al. 1983, Bender et al. 2003);
 for Proto North-Central Vanuatu by Clark (1996, 2008);[6]
-for Proto Southern Vanuatu by Lynch (1978, 1996b, 2001); for New Caledonia by Ozanne-
-Rivierre (1992), Haudricourt & Ozanne-Rivierre (1982) and Geraghty (1989); for Proto SE
+for Proto Southern Vanuatu by Lynch (1978, 1996b, 2001); for New Caledonia by Ozanne-Rivierre (1992),
+Haudricourt & Ozanne-Rivierre (1982) and Geraghty (1989); for Proto SE
 Solomonic by Levy (1980) and Frantisek Lichtenberk (1988); for Proto Central Pacific by
 Hockett (1976), Geraghty (1983, 1986, 1996 together with a number of unpublished papers);
 for Proto Eastern Oceanic by Biggs (1965), Cashmore (1969), Levy & Smith (1970), and
@@ -248,8 +249,8 @@ will bring together all his reconstructions for Proto Austronesian and lower-ord
 is stored in electronic form at the University of Hawaii. The version to which we refer dates
 from 1998.
 
-     Several papers predating our project systematically investigated particular semantic do-
-mains in the lexicon of POc, e.g. Milke (1958), French-Wright (1983), Pawley (1982, 1985),
+     Several papers predating our project systematically investigated particular semantic
+domains in the lexicon of POc, e.g. Milke (1958), French-Wright (1983), Pawley (1982, 1985),
 Pawley & Green (1985), Frantisek Lichtenberk (1986), R. Walter (1989), and the various
 papers in Pawley & Ross (1994). Ross (1988) contains a substantial number of new POc
 lexical reconstructions, as well as proposed modifications to the reconstructed POc sound
@@ -275,50 +276,49 @@ otherwise referred to here.
 4   Malcolm Ross, Andrew Pawley and Meredith Osmond
 
 
-     As the present project proceeded, we came to realise that the form in which prelimi-
-nary publications were presented-namely as essays, each discussing cognate sets for a par-
-ticular semantic field at some length-would also be the best form for the presentation of
+     As the present project proceeded, we came to realise that the form in which preliminary
+publications were presented-namely as essays, each discussing cognate sets for a particular
+semantic field at some length-would also be the best form for the presentation of
 our final synthesis. A discursive treatment of individual terminologies, as opposed, say, to
 a dictionary-type listing of reconstructions with supporting cognate sets, makes it easier to
 relate the linguistic comparisons to relevant issues of culture history, language change, and
-methodology. Hence each of the present volumes has as its core a collection of analytic es-
-says. Some of these have been published or presented elsewhere, but are printed here in
+methodology. Hence each of the present volumes has as its core a collection of analytic essays.
+Some of these have been published or presented elsewhere, but are printed here in
 revised form. In some cases we have updated the earlier versions in the light of subsequent
-research, and, where appropriate, have inserted cross-references between contributions. Au-
-thorship is in some cases something of a problem, as a number of people have had a hand
+research, and, where appropriate, have inserted cross-references between contributions.
+Authorship is in some cases something of a problem, as a number of people have had a hand
 in collating the data, doing the reconstructions, and (re)writing for publication here. In most
-chapters, however, one person did the research which determined the structure of the termi-
-nology, and that person appears as the first or only author, and where another or others had
+chapters, however, one person did the research which determined the structure of the
+terminology, and that person appears as the first or only author, and where another or others had
 a substantial part in putting together the paper itself, they appear as the second and further
 authors.
 
 
 1.3 Reconstructing the lexicon
 
-The lexical reconstructions presented in these volumes are arrived at using the standard meth-
-ods of comparative linguistics, which require as preliminaries a theory of sub grouping (§3.2)
-and the working out of systematic sound correspondences among cognate vocabulary in con-
-temporary languages (§3 .3). As well as cognate: sets clearly attributable to POc, we have in-
-cluded some cognate sets which at this stage are attributable to various interstage languages,
+The lexical reconstructions presented in these volumes are arrived at using the standard methods
+of comparative linguistics, which require as preliminaries a theory of sub grouping (§3.2)
+and the working out of systematic sound correspondences among cognate vocabulary in contemporary
+languages (§3 .3). As well as cognate: sets clearly attributable to POc, we have included
+some cognate sets which at this stage are attributable to various interstage languages,
 particularly Proto Western and Proto Eastern Oceanic (but see §3.2 for definitions). We have
 set out to pay more careful attention to reconstmcting the semantics of POc forms than has
-generally been done in earlier work, treating words not as isolates but as parts of terminolo-
-gies.
+generally been done in earlier work, treating words not as isolates but as parts of terminologies.
 
 
 1.3.1 Terminological reconstruction
 
 Our method of doing 'terminological reconstruction' is as follows. First, the terminologies
-of present-day speakers of Oceanic languages are used as the basis for constructing a hy-
-pothesis about the semantic structure of a corresponding POc terminology, taking account of
+of present-day speakers of Oceanic languages are used as the basis for constructing a
+hypothesis about the semantic structure of a corresponding POc terminology, taking account of
 (i) ethnographic evidence, i.e. descriptions of the lifestyles of Oceanic communities and (ii)
 the geographical and physical resources of particular regions of Oceania. For example, by
 comparing terms in several languages for parts of an outrigger canoe, or for growth stages
 of a coconut, one can see which concepts recur and so are likely to have been present in
 POc. Secondly, a search is made for cognate sets from which forms can be reconstructed to
 match each meaning in this hypothesised terminology. The search is not restricted to mem-
-bers of the Oceanic subgroup; if a term found in an Oceanic language proves to have exter-
-nal (non-Oceanic) cognates, the POc antiquity of that term will be confirmed and additional
+bers of the Oceanic subgroup; if a term found in an Oceanic language proves to have external
+(non-Oceanic) cognates, the POc antiquity of that term will be confirmed and additional
 evidence concerning its meaning will be provided. Thirdly, the hypothesised terminology is
 re-examined to see if it needs modification in the light of the reconstructions. There are cases,
 highlighted in the various contributions to these volumes, where we were able to reconstruct
@@ -331,10 +331,10 @@ for Oceanic culture history.
 
 
     Blust (1987: 81) distinguishes between conventional 'semantic reconstruction', which
-asks, "What was the probable meaning of protomorpheme X?", and Dyen and Aberle's
-(1974) 'lexical reconstruction', where one asks, "What was the protomorpheme which prob-
-ably meant 'X'?" At first sight, it might appear that terminological reconstruction is aver-
-sion of lexical reconstruction. However, there are sharp differences. Lexical reconstruction
+asks, "What was the probable meaning of protomorpheme X?", and Dyen and Aberle's (1974)
+'lexical reconstruction', where one asks, "What was the protomorpheme which probably meant 'X'?"
+At first sight, it might appear that terminological reconstruction is aversion of lexical
+reconstruction. However, there are sharp differences. Lexical reconstruction
 applies a formal procedure: likely protomeanings are selected from among the glosses of
 words in available cognate sets, then an algorithm is applied to determine which meaning
 should be attributed to each set. This procedure may have unsatisfactory results, as Blust
@@ -345,53 +345,50 @@ be reconstructed for a form because none of the glosses of its reflexes is its p
 In terminological reconstruction the meanings ofprotomorphemes are not determined in ad-
 vance. Instead, cognate sets are collected and their meanings are compared with regard to:
 
-__ul__
-    • their specific denotations, where these are known;
-    • the geographic and genetic distribution of these denotations (i.e. are the glosses from which the protogloss is reconstructed well distributed?);
-    • any derivational relationships to other reconstructions;
-    • their place within a working hypothesis of the relevant POc terminology (e.g., are terms complementary -'bow' implies 'arrow'; 'seine net' implies 'floats' and 'weights'? Are there different levels of classification-generic, specific, and so on?).
+__block__
+- their specific denotations, where these are known;
+- the geographic and genetic distribution of these denotations (i.e. are the glosses from which the protogloss is reconstructed well distributed?);
+- any derivational relationships to other reconstructions;
+- their place within a working hypothesis of the relevant POc terminology (e.g., are terms complementary -'bow' implies 'arrow'; 'seine net' implies 'floats' and 'weights'? Are there different levels of classification-generic, specific, and so on?).
 
 For example, it proved possible to reconstruct the following POc terms for tying with cords
 (vol.1, ch.9, §10):
 
-- POc *buku 'tie (a knot); fasten'
-
-- POc *pwita 'tie by encircling'
-
-- POc *paqu(s), *paqus-i- 'bind, lash; construct (canoe +)by lashing together'
-
-- POc *pisi 'bind up, tie up, wind round, wrap'
-
-- POc *kiti 'tie, bind'
+__block__
+- POc _*buku_ 'tie (a knot); fasten'
+- POc _*pʷita_ 'tie by encircling'
+- POc _*paqu(s)_, _*paqus-i-_ 'bind, lash; construct (canoe +)by lashing together'
+- POc _*pisi_ 'bind up, tie up, wind round, wrap'
+- POc _*kiti_ 'tie, bind'
 
     In each of the supporting cognate sets from contemporary languages there are a number of
 items whose glosses in the dictionaries or word lists are too vague to tell the analyst anything
-about the specific denotation of the item, and in the case of* kiti this prevents the assignment
+about the specific denotation of the item, and in the case of _*kiti_ this prevents the assignment
 of a more specific meaning. The verb *buku can be identified as the generic term for tying
-a knot because of its derivational relationship (by zero derivation) with a noun whose deno-
-tation is clearly generic, *buku 'node (as in bamboo or sugarcane); joint; knuckle; knot in
-wood, string or rope' (vol.1, ch.4, §3.2). Reconstruction of the meaning of*pwita as 'tie by en-
-circling' is supported by the meanings of the Lukep, Takia and Longgu reflexes, respectively
-'tie by encircling', 'tie on (as grass-skirt)', and 'trap an animal' s leg; tie s.t. around ankle or
+a knot because of its derivational relationship (by zero derivation) with a noun whose denotation
+is clearly generic, _*buku_ 'node (as in bamboo or sugarcane); joint; knuckle; knot in
+wood, string or rope' (vol.1, ch.4, §3.2). Reconstruction of the meaning of _*pʷita_ as 'tie by
+encircling' is supported by the meanings of the Lukep, Takia and Longgu reflexes, respectively
+'tie by encircling', 'tie on (as grass-skirt)', and 'trap an animal's leg; tie s.t. around ankle or
 wrist': Lukep and Takia are North New Guinea languages, whilst Longgu is SE Solomonic.
-Reconstruction of the meaning of *paqu(s), *paqus-i- as 'bind, lash; construct (canoe +)
+Reconstruction of the meaning of _*paqu(s)_, _*paqus-i-_ as 'bind, lash; construct (canoe +)
 by tying together' is supported by the meanings of the Takia, Kiribati and Samoan reflexes,
 respectively 'tie, bind; construct (a canoe)', 'construct (canoe, house)', and 'make, construct
 (wooden objects, canoes + )': Takia is a North New Guinea language, Kiribati is Microne-
-sian, and Samoan is Polynesian. The meaning of*pisi is similarly reconstructed by reference
+sian, and Samoan is Polynesian. The meaning of _*pisi_ is similarly reconstructed by reference
 to the meanings of its Mono-Alu, Mota, Port Sandwich, Nguna and Fijian reflexes.
 
 6   Malcolm Ross, Andrew Pawley and Meredith Osmond
 
 
-     Often, however, the contributors have often been less fortunate in the information avail-
-able to them. For example, Osmond (vol.1, ch.8, §9) reconstructs six POc terms broadly
+     Often, however, the contributors have often been less fortunate in the information available
+to them. For example, Osmond (vol.1, ch.8, §9) reconstructs six POc terms broadly
 glossed as 'spear'. Multiple terms for implements within one language imply that these items
-were used extensively and possibly in specialised ways. Can we throw light on these spe-
-cialised ways? Unfortunately, some of the word lists and dictionaries available give minimal
+were used extensively and possibly in specialised ways. Can we throw light on these specialised
+ways? Unfortunately, some of the word lists and dictionaries available give minimal
 glosses, e.g. 'spear', for reflexes of the six reconstructions. What we need to know for each
-reflex is: what is the level of reference? Is it a term for all spears, or perhaps all pointed pro-
-jectiles including arrows and darts? Or does it refer to a particular kind of spear? Is it noun or
+reflex is: what is the level of reference? Is it a term for all spears, or perhaps all pointed
+projectiles including arrows and darts? Or does it refer to a particular kind of spear? Is it noun or
 verb or both? If a noun, does it refer to both the instrument and the activity? Most word lists
 are frustratingly short on detail. For this kind of detail, ethnographies have proved a more
 fruitful source of information than many word lists.
@@ -404,16 +401,17 @@ unambiguous gloss, or have we picked up an accidental bias, a secondary or dista
 meaning? Did etymon x refer to fishhook or the material from which the fishhook was made?
 Did etymon y refer to the slingshot or to the action of turning round and round?
 
+
 1.3.2 Sub grouping and reconstruction
 
 1.3.2.1 Subgrouping
 
-Although the subgrouping of Austronesian languages and questions about which protolan-
-guage was spoken where remain in some cases somewhat controversial, it is impossible to
-proceed without making some assumptions about these matters. Figures 1.1 and 1.2 are ap-
-proximate renderings of our subgrouping assumptions. The upper part of the tree, shown
-in Figure 1.1, is due to Blust, originally presented in Blust (1977b) and repeated with ad-
-ditional supporting evidence in subsequent publications (1978, 1982, 1983-84, 1993).[7] The
+Although the subgrouping of Austronesian languages and questions about which protolanguage
+was spoken where remain in some cases somewhat controversial, it is impossible to
+proceed without making some assumptions about these matters. Figures 1.1 and 1.2 are
+approximate renderings of our subgrouping assumptions. The upper part of the tree, shown
+in Figure 1.1, is due to Blust, originally presented in Blust (1977b) and repeated with
+additional supporting evidence in subsequent publications (1978, 1982, 1983-84, 1993).[7] The
 diagram of the lower (Oceanic) part of the tree in Figure 1.2 shows nine primary subgroups of
 Oceanic. Its rake-like structure indicates that no convincing body of shared innovations has
 been found to allow any of the nine subgroups to be combined into higher-order groupings.
@@ -424,50 +422,27 @@ we explain how we handle the rake-like structure in making reconstructions.
 
                                                                                         Introduction   7
 
-
-              Proto Austronesian
-                    (PAn)
-                          I
-                                    Proto
-    Formosan
-                              Malayo-Polynesian
-    languages
-                                   (PMP)
-                                                     I
-                Western Malaya-              Central/ Eastern
-                  Polynesian                Malaya--Polynesian
-                   languages                 linkage (CEMP)
-                               Central Malaya-                Proto Eastern
-                                 Polynesian                 Malaya-Polynesian
-                                  languages                     (PEMP)
-                                                Proto South
-                                                                              Proto Oceanic
-                                              Halmahera/West
-                                                                                  (POc)
-                                               New Guinea
-     Figure 1.1      Schematic diagram showing higher-order subgroups of Austronesian
-                                         languages.
-
+Figure 1.1: Schematic diagram showing higher-order subgroups of Austronesian languages.
 
 
 1.3.2.2 Kinds of subgroup
 
-In Figures 1.1 and 1.2 each node is either a single language,[8] usually a reconstructed pro-
-to language, or, in italics, a group of languag1es.
+In Figures 1.1 and 1.2 each node is either a single language,[8] usually a reconstructed
+proto language, or, in italics, a group of languag1es.
 
      Where a node is a proto language, its descendants form a proper subgroup (in the technical
 sense in which historical linguists use the term 'subgroup' ). A proper subgroup is identified
-by innovations shared by its member languages, i.e. it is 'innovation-defined' in the terminol-
-ogy of Pawley & Ross (1995). These innovations are assumed to have occurred just once in
-the subgroup' s protolanguage, i.e. the exclusively shared ancestor of its members. Thus lan-
-guages of the large Oceanic subgroup of Austronesian share a set of innovations relative to
+by innovations shared by its member languages, i.e. it is 'innovation-defined' in the terminology
+of Pawley & Ross (1995). These innovations are assumed to have occurred just once in
+the subgroup' s protolanguage, i.e. the exclusively shared ancestor of its members. Thus
+languages of the large Oceanic subgroup of Austronesian share a set of innovations relative to
 the earlier Austronesian stages shown in Figure 1.1 (Dempwolff 1934).[9] By inference these
 innovations occurred in their common ancestor, POc, and the claim that they are innovations
 is based on a comparison of reconstructed POc with reconstructed PMP. The innovations
-may be phonological (e.g. PMP *e, pronounced [g], and PMP *aw both became POc *o),
-morphological (e.g. POc acquired a morphological distinction between three kinds of pos-
-sessive relationship: food, drink and default), or lexical (e.g. PMP *limaw 'citrus fruit' was
-replaced by POc *molis).
+may be phonological (e.g. PMP _*e_, pronounced [g], and PMP _*aw_ both became POc _*o_),
+morphological (e.g. POc acquired a morphological distinction between three kinds of possessive
+relationship: food, drink and default), or lexical (e.g. PMP _*limaw_ 'citrus fruit' was
+replaced by POc _*molis_).
 
 [8] The two very closely related languages Mussau and Tench form a minor exception.
 
@@ -475,10 +450,7 @@ replaced by POc *molis).
 
                                                                    Proto Oceanic
 
-
-                      Figure 1.2        Schematic diagram showing the subgrouping of Oceanic Austronesian languages.
-
-
+Figure 1.2:  Schematic diagram showing the subgrouping of Oceanic Austronesian languages.
 
                                                                                                Introduction     9
 
@@ -493,7 +465,7 @@ Formosan languages and language groups are all descended directly from PAn.
 (an 'innovation-linked group' in the terminology of Pawley & Ross 1995) is a collection
 of usually quite closely related languages or dialects,[10] speakers of which were in sufficient
 contact at one time or another during their history for innovations to pass from one language
-to the next, often resulting in a pattern such 1chat the domains of various innovations overlap
+to the next, often resulting in a pattern such that the domains of various innovations overlap
 but are not coterminous.[11] A number of Oceanic linkages were recognised during the 1980s
 (Geraghty 1983, Pawley & Green 1984, Ross 1988).[12] A linkage may arise in at least three
 ways, but distinguishing between them is often impossible.
@@ -502,12 +474,12 @@ ways, but distinguishing between them is often impossible.
 innovations, perhaps because the parent did not exist as a unit for long enough to undergo
 any innovations of its own.[13]
 
-    Second, a linkage may consist of some but not all of the languages descended from a sin-
-gle parent. The Western Oceanic linkage reflects the innovations of POc, but no innovation
-is common to the whole of Western Oceanic (although the merger of POc *rand *R comes
-close). However, the languages of its three component linkages-North New Guinea, Papuan
-Tip and Meso-Melanesian-display complex patterns of overlapping innovations. The West-
-em Oceanic linkage appears to be descended from the dialects of POc that were left behind in
+    Second, a linkage may consist of some but not all of the languages descended from a single
+parent. The Western Oceanic linkage reflects the innovations of POc, but no innovation
+is common to the whole of Western Oceanic (although the merger of POc _*r_ and _*R_ comes
+close). However, the languages of its three component linkages - North New Guinea, Papuan
+Tip and Meso-Melanesian - display complex patterns of overlapping innovations. The Western
+Oceanic linkage appears to be descended from the dialects of POc that were left behind in
 the Bismarck Archipelago after speakers of the languages ancestral to the other eight primary
 subgroups in Figure 1.2 had moved away to the north or east. After these departures various
 innovations occurred. Each arose somewhere in the Western Oceanic dialect network and
@@ -515,11 +487,11 @@ spread to neighbouring dialects without reaching every dialect in the network.
 
     The third type of linkage is the result of contact among languages descended from more
 than one immediate parent. An example is the Fijian linkage, which represents a reintegration
-of parts of earlier Western and Eastern Fijian linkages (Geraghty & Pawley 1981, Geraghty
-1983, Pawley 1996b).[14] Geraghty reconstructed the history of the Fijian linkage by painstak-
-ing analysis of innovations from at least two stages in its history. From the earlier period
-Western Fijian languages share innovations with Rotuman and Eastern Fijian with Polynes-
-ian. From a more recent period Western Fijian and Eastern Fijian languages share innovations
+of parts of earlier Western and Eastern Fijian linkages (Geraghty & Pawley 1981, Geraghty 1983,
+Pawley 1996b).[14] Geraghty reconstructed the history of the Fijian linkage by painstaking
+analysis of innovations from at least two stages in its history. From the earlier period
+Western Fijian languages share innovations with Rotuman and Eastern Fijian with Polynesian.
+From a more recent period Western Fijian and Eastern Fijian languages share innovations
 with each other, reflecting their reintegration into a single linkage, within which the present
 Western/Eastern boundary has shifted relative to the (fuzzy) boundary of the earlier period.
 
@@ -543,31 +515,32 @@ here.
 10    Malcolm Ross, Andrew Pawley and Meredith Osmond
 
 
-     For most of the linkages noted in Figures 1.1 and 1.2 this kind of analysis is not avail-
-able. For example, Blust (1993) indicates that CEMP was a linkage. But its history is far from
+     For most of the linkages noted in Figures 1.1 and 1.2 this kind of analysis is not available.
+For example, Blust (1993) indicates that CEMP was a linkage. But its history is far from
 clear. Was there perhaps a PCEMP that was so shortlived that it underwent no innovations of
 its own? Or does CEMP perhaps include some languages that share history with languages to
 their west and others that share history with those to their north? The North/Central Vanuatu
-linkage, long assumed to be some sort of genealogical unit, appears to reflect the partial rein-
-tegration of at least two dialect networks, North Vanuatu and Central Vanuatu, that probably
+linkage, long assumed to be some sort of genealogical unit, appears to reflect the partial
+reintegration of at least two dialect networks, North Vanuatu and Central Vanuatu, that probably
 never diverged greatly from each other, but the details of this history are difficult to elucidate
 (Lynch 2000c).[15]
 
      The languages of a linkage have no identifiable exclusively shared parent. Yet we have
 found many instances in which a cognate set is limited to one of the linkages in Figures 1.1
-and 1.2: CEMP, Western Oceanic, New Guinea Oceanic, Southern Oceanic or the reinte-
-grated North and Central Vanuatu linkage. As with PEOc and Proto Remote Oceanic (§3.2.3), we think it is
+and 1.2: CEMP, Western Oceanic, New Guinea Oceanic, Southern Oceanic or the reintegrated
+North and Central Vanuatu linkage. As with PEOc and Proto Remote Oceanic (§3.2.3), we think it is
 preferable to attribute these reconstructions to a hypothetical protolanguage rather than to a
 higher node in the tree. Hence there are reconstructions labelled PCEMP, PWOc and so on.
-Again these apparent lexical innovations offer only the weakest evidence for the protolan-
-guage to which they are attributed. In addition to the explanations of the kinds offered for
-PEOc and Proto Remote Oceanic etyma in §3.2.3 it is possible, for example, that an innovatory 'PWOc' ety-
-mon arose when the Western Oceanic dialect network was still close-knit, and spread from
+Again these apparent lexical innovations offer only the weakest evidence for the protolanguage
+to which they are attributed. In addition to the explanations of the kinds offered for
+PEOc and Proto Remote Oceanic etyma in §3.2.3 it is possible, for example, that an innovatory 'PWOc'
+etymon arose when the Western Oceanic dialect network was still close-knit, and spread from
 dialect to dialect before the network broke into the two networks ancestral to its present-day
 first-order subgroups.
 
 [15] For a history of scholarly views of the subgrouping of North and Central Vanuatu languages see Clark
 (2008: § 1.3). For arguments supporting a NCV grouping, see Clark (2008: ch.4).
+
 
 1.3.2.3 Criteria for reconstruction
 
@@ -577,12 +550,12 @@ meanings is much more important than the number of cognates. It is enough to mak
 reconstruction if a cognate set occurs in just two languages in a family, with agreement in
 meaning, provided that the two languages belong to different primary subgroups and provided
 that there is no reason to suspect that the resemblances are due to borrowing or chance. The
-PMP term *apij 'twins' is reflected in several western Malaya-Polynesian languages (e.g.
-Batak apid 'twins, double (fused) banana') but only a single Oceanic reflex is known, namely
-Roviana avisi 'twins of the same sex'. Because Roviana belongs to a different first-order
+PMP term _*apij_ 'twins' is reflected in several western Malaya-Polynesian languages (e.g.
+Batak _apid_ 'twins, double (fused) banana') but only a single Oceanic reflex is known, namely
+Roviana _avisi_ 'twins of the same sex'. Because Roviana belongs to a different first-order
 branch of Malaya-Polynesian from the western Malaya-Polynesian witnesses and because
 there is virtually no chance that the agreement is due to borrowing or chance similarity, this
-distribution is enough to justify the reconstruction of PMP *apij, POc *apic 'twins'.
+distribution is enough to justify the reconstruction of PMP _*apij_, POc _*apic_ 'twins'.
 
     The rake-like form of Figure 1.2 almost certainly reflects the very rapid settlement of
 Oceania out of the Bismarcks,[16] but it confronts us with a methodological question. If we
@@ -616,8 +589,8 @@ who also express reservations about its status.
 
                                                                                                            ."
 
-                                                  Map 3   Groups of Oceanic languages used in cognate sets                                                                                    ......
-                                                                                                                                                                                              ......
+Map 3:   Groups of Oceanic languages used in cognate sets
+
 12   Malcolm Ross, Andrew Pawley and Meredith Osmond
 
 

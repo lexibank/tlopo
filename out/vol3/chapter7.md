@@ -3773,7 +3773,7 @@ It is not clear what connection (if any) the form below has with those above.
 
 <a id="s-5-11-1"></a>
 
-### 5.11.1 Caryota rumphiana, black palm, fishtail palm, TP waillimbum (Arecaceae)
+#### 5.11.1. Caryota rumphiana, black palm, fishtail palm, TP waillimbum (Arecaceae)
 
 
 Caryota rumphiana is the only palm in NW Island Melanesia with bipinnate fronds, i.e. the leaflets on either side of the midrib themselves have a central rib and are leaf-like (Figure 7.10, right). C. rumphiana stands 10--20 m high and has fruit the size of a cherry which hang in bunches from the top of its blackish trunk ([Peekel](../sources/Peekel1984) ([1984](../sources/Peekel1984)), [Kwa'ioloa & Burt 2001](../sources/KwaioloaandBurt2001): 187).
@@ -3931,7 +3931,7 @@ Tiny though the cognate set below is, the membership of its two members in diffe
 
 <a id="s-5-11-2"></a>
 
-### 5.11.2 Licuala spp., fan palm (Arecaceae)
+#### 5.11.2. Licuala spp., fan palm (Arecaceae)
 
 
 The leaves of the small palm Licuala ramsayi (syn. L. muelleri, L. peekelii), growing to about 5-10 m, serve for roofing in parts of the Bismarcks ([Powell 1976](../sources/Powell1976), [Peekel 1984](../sources/Peekel1984): 58). The Nakanai use them to wrap megapode eggs (A. Chowning, pers. comm.). The palm also serves decorative purposes: in the Ninigo Islands it is planted as an ornamental shrub ([Sorensen 1950](../sources/Sorensen1950)), and various writers note that its leaves are used for personal decoration.
@@ -4138,7 +4138,7 @@ The shrub layer is usually patchy because of lack of sunlight. A few small trees
 
 <a id="s-6-1-1"></a>
 
-### 6.1.1 Abroma augusta (Sterculiaceae)
+#### 6.1.1. Abroma augusta (Sterculiaceae)
 
 
 Abroma augusta is a small shrub 1-2m tall, more common in the highlands of New Guinea than in lowland forests ([French 1986](../sources/French1986), [Peekel 1984](../sources/Peekel1984): 373). On Malaita its white bark is used to make hanging baskets ([Kwa'ioloa & Burt2001](../sources/KwaioloaandBurt2001): 160). In parts of New Britain its bast provides rope for pig nets and for lashing house components and material used in making clothing, and bags ([Powell 1976](../sources/Powell1976), [Lentfer 2003](../sources/Lentfer2003)).
@@ -4237,7 +4237,7 @@ Reflexes of POc _&ast;wasi-wasi_ 'Abroma augusta' are found with this meaning on
 
 <a id="s-6-1-2"></a>
 
-### 6.1.2 Angiopteris evecta (syn.A. erecta), mule's foot fern (Marattiaceae)
+#### 6.1.2. Angiopteris evecta (syn.A. erecta), mule's foot fern (Marattiaceae)
 
 
 The plant with the largest fronds (1.5m long) on New Ireland, Angiopteris evecta is a large fern common in shady inland forest. The fronds rise from a massive rootstock, fleshy and moist, but fragrant when dry ([Peekel 1984](../sources/Peekel1984): 30). Because of their moisture, the Kwara'ae lay them out around garden boundaries to soften the soil in the belief that this will improve the quality of the taro ([Kwa'ioloa & Burt 2001](../sources/KwaioloaandBurt2001): 211).
@@ -4291,7 +4291,7 @@ The plant with the largest fronds (1.5m long) on New Ireland, Angiopteris evecta
 
 <a id="s-6-1-3"></a>
 
-### 6.1.3 Donax cannaiformis (syn. Clinogyne grandis, Maranta grandis, Thalia cannaeformis, Actoplanes cannaiformis, Donax arundastrum) (Marantaceae)
+#### 6.1.3. Donax cannaiformis (syn. Clinogyne grandis, Maranta grandis, Thalia cannaeformis, Actoplanes cannaiformis, Donax arundastrum) (Marantaceae)
 
 
 A leafy shrub, Donax cannaeformis has a rhizome from which rise erect smooth stems 1.5-3 m tall with spreading branches about 85cm long. It has elliptical leaves often with yellowish-white patches and white flowers and fruits, and grows in damp locations ([Peekel 1984](../sources/Peekel1984): 111). Its range is from SE Asia to the Solomons.
@@ -4356,7 +4356,7 @@ As the glosses below indicate, its stems are used in thatching, basket-making an
 
 <a id="s-6-1-4"></a>
 
-### 6.1.4 Garcinia spp. (Clusiaceae)
+#### 6.1.4. Garcinia spp. (Clusiaceae)
 
 
 Garcinia species grow in all sizes from small shrubs to tall canopy trees. The best known species is G. mangostana, the mangosteen, which grows up to 25 m high, but this is not indigenous to Oceania. The only indigenous species reported by [Peekel](../sources/Peekel1984) ([1984](../sources/Peekel1984): 376-377) in the Bismarcks is G. novo-guineensis (syn. G. warburgiana ), a tree just 5-10 m tall with small white flowers. It contains, especially in the roots, yellow latex which is used on New Ireland for painting ancestor pictures. This yellow is greenish and lighter than that from Curcuma (ch.l3, [§5.1](../contributions/3-7#s-5-1)).
@@ -4486,7 +4486,7 @@ The tree designated by PSV _&ast;n-mobʷol_ was evidently also a large species, 
 
 <a id="s-6-1-5"></a>
 
-### 6.1.5 Phaleria spp. (Thymelaeaceae)
+#### 6.1.5. Phaleria spp. (Thymelaeaceae)
 
 
 [Peekel](../sources/Peekel1984) ([1984](../sources/Peekel1984): 393) describes Phaleria coccinea as a climbing shrub, 2-4m high, with white flowers and red berries. No term is reconstructable earlier than PEOc _&ast;sinu_, glossed 'shore tree with scented white flowers' by [Geraghty](../sources/Geraghty1983) ([1983](../sources/Geraghty1983)). The Bauan gloss points to a taxon of shrubs whose sap causes irritation, including species of Phaleria, an inference supported by the Tongan and Samoan glosses.
@@ -4609,7 +4609,7 @@ cf. also:
 
 <a id="s-6-1-6"></a>
 
-### 6.1.6 Semecarpus forstenii, poisonwood, B naolasi, posentri, posenwud (Anacardiaceae)
+#### 6.1.6. Semecarpus forstenii, poisonwood, B naolasi, posentri, posenwud (Anacardiaceae)
 
 
 Semecarpus forstenii is a shrub or small tree 3-10m tall, with a corrosive black sap which destroys skin and inflicts painful wounds. Peekel calls it '[t]he most feared tree in the Bismarck Archipelago' ([Peekel 1984](../sources/Peekel1984): 328, [Kwa'ioloa & Burt 2001](../sources/KwaioloaandBurt2001): 121-122).
@@ -4818,7 +4818,7 @@ The only wild leafy shrub for which a reconstruction has been made is Hornstedti
 
 <a id="s-6-2-1"></a>
 
-### 6.2.1 Hornstedtia lycostoma (syn. H. scottiana) (Zingiberaceae)
+#### 6.2.1. Hornstedtia lycostoma (syn. H. scottiana) (Zingiberaceae)
 
 
 Hornstedtia lycostoma is a leafy shrub, 3-6m tall, a tall wild ginger with long leaves and red flowers that issue directly from the stem (Figure 7.11, left). The edible seeds are sweet and are gathered especially by children who sometimes eat so many that they become constipated ([Powell 1976](../sources/Powell1976), [Peekel 1984](../sources/Peekel1984): 105-106, [Kwa'ioloa & Burt 2001](../sources/KwaioloaandBurt2001): 195 [Hviding 2005](../sources/Hviding2005): 110).
@@ -4880,7 +4880,7 @@ Hornstedtia lycostoma is a leafy shrub, 3-6m tall, a tall wild ginger with long 
 
 <a id="s-6-3-1"></a>
 
-### 6.3.1 Calamus spp., rattan, lawyer cane, TP kanda, P loeaken (Arecaceae)
+#### 6.3.1. Calamus spp., rattan, lawyer cane, TP kanda, P loeaken (Arecaceae)
 
 
 There is a sense in which rattan could be assigned to the canopy, as it uses canopy trees as hosts and sometimes climbs as high as 50 m. At the same time, it is not a tree and it is convenient to treat it alongside other non-treelike plants.
@@ -4996,7 +4996,7 @@ POc _&ast;qu(w)e_[^33] presumably denoted all of the two or three species mentio
 
 <a id="s-6-3-2"></a>
 
-### 6.3.2 Dendrocnide and Laportea spp., nettle trees, TP salat,filas, Bnanggalat (Urticaceae)
+#### 6.3.2. Dendrocnide and Laportea spp., nettle trees, TP salat,filas, Bnanggalat (Urticaceae)
 
 
 Dendrocnide and Laportea species are nettles, i.e. plants with stinging hairs, often grouped together in the literature as 'nettles' or 'nettle trees'. The hairs remain in the skin, enabling the toxin in them to spread. Those mentioned below range from the 40-metre canopy tree D. excelsa to the small stinging herb L. interrupta. They are included here as shrubs simply because this is where a majority of their tokens belong.
@@ -5372,7 +5372,7 @@ Several forms below reflect PAn _&ast;lateŋ_ with a prefixed syllable: POc _&as
 
 <a id="s-6-3-3"></a>
 
-### 6.3.3 Lygodium spp. (Lygodiaceae)
+#### 6.3.3. Lygodium spp. (Lygodiaceae)
 
 
 Ferns of the genus Lygodium are climbing vines which wind around tree trunks. [Peekel](../sources/Peekel1984) ([1984](../sources/Peekel1984): 27, 30) writes that L. circinnatum (syn. L. dichotomum, L.jiexuosum) grows 3-6m long, L. trifurcatum, more delicate than L. circinnatum, grows 3-5m high, and L. scandens (syn. L. microphyllum) 1-3m long.
@@ -5491,7 +5491,7 @@ All are apparently used as binding material. The thicker L. circinnatum and, amo
 
 <a id="s-6-3-4"></a>
 
-### 6.3.4 Merremia spp. (Convolvulaceae)
+#### 6.3.4. Merremia spp. (Convolvulaceae)
 
 
 Merremia peltata (syn. Operculina peltata, Convulvulus peltatus, Ipomoea peltata) is a woody liana found throughout the rain forest, but it is particularly abundant in disturbed forest areas. The vine has the thickness of a human arm and grows 15-50 m high, with white-yellowish funnel-shaped flowers that resemble Morning Glory ([Peekel 1984](../sources/Peekel1984):467, [Pawley & Sayaba 2003](../sources/PawleyandSayaba2003), W. McClatchey, pers. comm.).
@@ -5557,7 +5557,7 @@ The Meso-Melanesian forms below other than Tolai _valearu_ reflect POc _&ast;pal
 
 <a id="s-6-3-5"></a>
 
-### 6.3.5 Asplenium nidus, bird's nest fern (Aspleniaceae)
+#### 6.3.5. Asplenium nidus, bird's nest fern (Aspleniaceae)
 
 
 The bird's nest fern, Asplenium nidus, usually grows as an epiphyte on the trunks or branches of trees in the rain forest or mangrove swamp. It has large simple fronds visually similar to banana leaves, growing to 50-150cm long and 10--20cm broad. The fronds are light green, often crinkled, with a black midrib. The fronds grow in clusters and roll back as they turn brown, creating a massive leaf nest where they are attached to the tree. It is an ideal understorey plant, as it thrives in warm, humid habitats in partial or full shade ([Peekel 1984](../sources/Peekel1984): 17, [Hviding 2005](../sources/Hviding2005): 124).

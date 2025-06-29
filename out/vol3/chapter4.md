@@ -3937,7 +3937,7 @@ It is unlikely that the structure and detail of the POc terminology for plant pa
 
 [^6]: The origin of final _-ŋa_ is unclear.
 
-[^7]: It is unclear whether Motu _rako_ 'twig' is inherited or is borrowed from another Papuan Tip language. The usual reflexes of POc _&ast;-k-_ are Motu _-ɣ-_ or zero, not _-k-_. [Ross](../sources/Ross1994a) ([1994](../sources/Ross1994a)a) shows that Motu has borrowed lexicon from a southeast Papuan language; _rako_ may be such a borrowing. However, he also lists inherited items in which _&ast;k_ is reflected as Motu _-k-_. Note that Motu _rako_ 'twig' cannot regularly reflect POc _&ast;raga(q)_, as _&ast;g_ is reflected as Motu _g_.
+[^7]: It is unclear whether Motu _rako_ 'twig' is inherited or is borrowed from another Papuan Tip language. The usual reflexes of POc _&ast;-k-_ are Motu _-ɣ-_ or zero, not _-k-_. [Ross](../sources/Ross1994a) ([1994a](../sources/Ross1994a)) shows that Motu has borrowed lexicon from a southeast Papuan language; _rako_ may be such a borrowing. However, he also lists inherited items in which _&ast;k_ is reflected as Motu _-k-_. Note that Motu _rako_ 'twig' cannot regularly reflect POc _&ast;raga(q)_, as _&ast;g_ is reflected as Motu _g_.
 
 [^8]: Blust (ACD) suggests that the Micronesian data plus Bali _vakara_ 'root' support the reconstruction of a POc (unbound?) form _&ast;wakaR-a_ 'root'. As Bali _vakara_ 'root' is a regular reflex of POc _&ast;wakaR_ I have not reconstructed this form. There are a few other Proto Micronesian etyma that retain a POc final consonant and add _&ast;-a_; e.g. POc _&ast;pata(ŋ)_ is reflected as both _&ast;fata_ and _&ast;fataŋa_ 'tree trunk' in Proto Micronesian ([Bender et al. 2003](../sources/Benderetal2003): 24).
 

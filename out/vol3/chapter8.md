@@ -1737,7 +1737,7 @@ Blust (ACD) reconstructs PAn _&ast;Riaq_ 'sword grass, Imperata cylindrica' on t
 
 <a id="p-252"></a>
 
-It is probable that the Central Papuan (Taboro, Hula, Motu and Doura) forms in the set below reflect borrowing from an intrusive Papuan Tip language, as they reflect _&ast;k-_ rather than _&ast;g-_ ([Ross 1994](../sources/Ross1994a)a: 408).
+It is probable that the Central Papuan (Taboro, Hula, Motu and Doura) forms in the set below reflect borrowing from an intrusive Papuan Tip language, as they reflect _&ast;k-_ rather than _&ast;g-_ ([Ross 1994a](../sources/Ross1994a): 408).
 
 <table id="3-8-3-1-252-POc-gurun-a">
 <tr>

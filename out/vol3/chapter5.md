@@ -487,7 +487,7 @@ cf. also:
 
 <a id="s-4-1-1"></a>
 
-### 4.1.1 Cordia subcordata, kerosene wood, island walnut, sea trumpet, Pacific rosewood, P. kerasin wud, B burao blong solwata (Boraginaceae)
+#### 4.1.1. Cordia subcordata, kerosene wood, island walnut, sea trumpet, Pacific rosewood, P. kerasin wud, B burao blong solwata (Boraginaceae)
 
 
 A twisted shore tree 8-15 m tall, Cordia subcordata (Figure 5.2, left) is well known for its very strong black-veined heartwood, which may remain as a skeleton after the rest of a dead tree has rotted away (W. McClatchey, pers. comm.). It occurs in varieties with orange and yellow flowers ([Peekel 1984](../sources/Peekel1984): 471, [Hviding 2005](../sources/Hviding2005): 131).
@@ -817,7 +817,7 @@ The term _&ast;jasi_ is reconstructed for PCEMP and POc (rather than PEOc, as th
 
 <a id="s-4-1-2"></a>
 
-### 4.1.2 Hernandia nymphaeifolia (syn. H. peltata), sea hearse tree, lantern tree, Bnambirimbiri, napiripiri, bluwud (Hernandiaceae)
+#### 4.1.2. Hernandia nymphaeifolia (syn. H. peltata), sea hearse tree, lantern tree, Bnambirimbiri, napiripiri, bluwud (Hernandiaceae)
 
 
 Figure 5.3 Hernandia nymphaeifolia, sea hearse tree
@@ -1086,7 +1086,7 @@ cf. also:
 
 <a id="s-4-1-3"></a>
 
-### 4.1.3 Hibiscus tiliaceus, beach hibiscus, TP mangas, P. B burao (Malvaceae)
+#### 4.1.3. Hibiscus tiliaceus, beach hibiscus, TP mangas, P. B burao (Malvaceae)
 
 
 Hibiscus tiliaceus is a small sprawling, tangled shore tree with small girth, a branching trunk and pale yellow flowers (Figure 5.2, right). It grows 5-15 m tall ([Peekel 1984](../sources/Peekel1984): 364, [Henderson & Hancock 1988](../sources/HendersonandHancock1988): 161). Barrau (1965) reports that the bark was eaten in New Caledonia, and almost every source agrees that it provides fibre to make cordage, mats and nets (e.g. [Floyd 1954](../sources/Floyd1954), [O'Collins & Lamothe 1989](../sources/OCollinsandLamothe1989), [Whistler 1991b](../sources/Whistler1991b): 29).
@@ -1529,7 +1529,7 @@ cf. also:
 
 <a id="s-4-1-4"></a>
 
-### 4.1.4 Pemphis acidula (Lythraceae)
+#### 4.1.4. Pemphis acidula (Lythraceae)
 
 
 
@@ -1685,7 +1685,7 @@ Pemphis acidula is a small twisted beach tree (Figure 5.4, left) with very hard,
 
 <a id="s-4-1-5"></a>
 
-### 4.1.5 Scaevola taccada (syn. S. koenigii, S. sericea, S.jrutescens ), Bhafflaoa (Goodeniaceae)
+#### 4.1.5. Scaevola taccada (syn. S. koenigii, S. sericea, S.jrutescens ), Bhafflaoa (Goodeniaceae)
 
 
 [Peekel](../sources/Peekel1984) ([1984](../sources/Peekel1984): 553) describes Scaevola taccada as a 'stiffly erect shrub with finger-thick fleshy green twigs, 2-4m tall' and 'common, on sandy beaches' (Figure 5.4, middle). The shrubs grow in dense clusters near the beach ([Hviding 2005](../sources/Hviding2005): 122). It is probably the best distributed plant on the Pacific islands, found on the smallest islets and the largest islands (W. Mc-Clatchey, pers. comm.). The light green leaves are somewhat succulent with a waxy covering and are alternately arranged along the stem. The white or cream flowers, often with purple streaks, are 8-12 mm long and have a pleasant smell. All five petals are on one side of the flower, so that they look as if they have been torn in half (hence the Bislama term _haf flaoa_). The fruit of S. taccada are fleshy white oblong berries of varying size, the smallest about 1 cm long.
@@ -1867,7 +1867,7 @@ PEMP _&ast;nasu-nasu_ is reconstructed on the basis of the Oceanic data here, pl
 
 <a id="s-4-1-6"></a>
 
-### 4.1.6 Thespesia populnea (syn. T. macrophylla), B burao blong solwota (Malvaceae)
+#### 4.1.6. Thespesia populnea (syn. T. macrophylla), B burao blong solwota (Malvaceae)
 
 
 Thespesia populnea is a tree typically 5-10 m and sometimes as much as 15m in height with large yellow flowers which have a brown centre (Figure 5.4, right). Its strong dark-brown heartwood is used to make hourglass drums in New Ireland. The bark is used as binding material ([Record 1945](../sources/Record1945), [Peekel 1984](../sources/Peekel1984): 369). In Tonga it is used in handicrafts, house parts and canoes, and extract from the scraped bark is given to babies to treat mouth infections ([Whistler 1991b](../sources/Whistler1991b): 86).
@@ -2038,7 +2038,7 @@ Thespesia populnea is a tree typically 5-10 m and sometimes as much as 15m in he
 
 <a id="s-4-1-7"></a>
 
-### 4.1.7 Tournifortia argentea (syn. Messerschmidia argentea), tree heliotrope, beach heliotrope (Boraginaceae)
+#### 4.1.7. Tournifortia argentea (syn. Messerschmidia argentea), tree heliotrope, beach heliotrope (Boraginaceae)
 
 
 Tournefortia argentea is a small heliotropic beach tree 5-8 m tall with silvery hairy leaves and white flowers. It has a short bole covered in deeply corrugated bark. Limited to beachside environments, it is tolerant of salt water ([Peekel 1984](../sources/Peekel1984):471-472, [Manner & Elevitch2006b](../sources/MannerandElevitch2006b)). At Marovo, where it is reported often to grow in association with Cordia subcordata ([§4.1.1](../contributions/3-5#s-4-1-1) ), children use the sticky sap to catch butterflies ([Hviding 2005](../sources/Hviding2005): 111).
@@ -2219,7 +2219,7 @@ The PMic form _&ast;cen_ 'Tournefortia argentea' looks at first sight as if it a
 
 <a id="s-4-1-8"></a>
 
-### 4.1.8 Vitex trifolia (syn. V. negundo) (Verbenaceae)
+#### 4.1.8. Vitex trifolia (syn. V. negundo) (Verbenaceae)
 
 
 
@@ -2349,7 +2349,7 @@ In PPn the two forms would similarly have fallen together as _&ast;lala_, but he
 
 <a id="s-4-2-1"></a>
 
-### 4.2.1 Flagellaria indica, supplejack, Bnavula (Flagellariaceae)
+#### 4.2.1. Flagellaria indica, supplejack, Bnavula (Flagellariaceae)
 
 
 Flagellaria indica is a climbing cane-like vine whose stem, 1-1.5cm thick, grows to a length of 3-6 m. The leaves are 20-40cm long and have a curling tendril at the apex with which the plant secures itself to its host.
@@ -2504,7 +2504,7 @@ cf. also:
 
 <a id="s-4-2-2"></a>
 
-### 4.2.2 Hoya spp. (Asclepiadaceae)
+#### 4.2.2. Hoya spp. (Asclepiadaceae)
 
 
 Leafy climbers of Hoya species are often found on the beach and around mangroves and beach trees ([Peekel 1984](../sources/Peekel1984): 455-457).

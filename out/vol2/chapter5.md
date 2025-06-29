@@ -38,7 +38,7 @@ Meteorological phenomena   121
 
 The trade winds and the ITCZ are two of the major ingredients of the weather in the region inhabited by Austronesian speakers. Map 10 provides a general overview for the period from (roughly) April to October.[^2]
 
-The trades are noted for their consistency and force, especially over the eastern side of the ocean (Hawaii has quite consistent trade wind flow, bringing sunshine with sporadic cumulus and some humidity). Over the western Pacific (e.g. in the Bismarck Archipelago), they are less consistent because of monsoonal and other disturbances. Near their high- pressure source the trade winds are quite dry, but as they blow over the ocean towards the Equator they pick up moisture which they deposit as orographic rain when they hit high islands. Orographic rainfall occurs when air is forced to ascend the side of a mountain range, and is particularly common where mountains lie parallel to the coast over which blow moist winds from the sea. This is the situation on the large islands of the Philippines; in Papua New Guinea on Manus Island, the tip of Papua, the Huon Peninsula and the island of New Britain; in the New Georgia group and on Guadalcanal in the Solomons; and on the high islands of Fiji. All of these experience heavy rain on their windward coasts during the trades, whilst areas in the lee of their mountain ranges remain relatively dry. In these areas the trades are therefore associated with rain (and sometimes with the rainiest season), whereas in most Pacific locations they bring the dry season.
+The trades are noted for their consistency and force, especially over the eastern side of the ocean (Hawaii has quite consistent trade wind flow, bringing sunshine with sporadic cumulus and some humidity). Over the western Pacific (e.g. in the Bismarck Archipelago), they are less consistent because of monsoonal and other disturbances. Near their high-pressure source the trade winds are quite dry, but as they blow over the ocean towards the Equator they pick up moisture which they deposit as orographic rain when they hit high islands. Orographic rainfall occurs when air is forced to ascend the side of a mountain range, and is particularly common where mountains lie parallel to the coast over which blow moist winds from the sea. This is the situation on the large islands of the Philippines; in Papua New Guinea on Manus Island, the tip of Papua, the Huon Peninsula and the island of New Britain; in the New Georgia group and on Guadalcanal in the Solomons; and on the high islands of Fiji. All of these experience heavy rain on their windward coasts during the trades, whilst areas in the lee of their mountain ranges remain relatively dry. In these areas the trades are therefore associated with rain (and sometimes with the rainiest season), whereas in most Pacific locations they bring the dry season.
 
 The ITCZ has weather effects of a different kind. It is a low-pressure belt with relatively little wind but various local perturbations. Incoming airflow has nowhere to go but up — in large numbers of isolated columns. Each island becomes capped with a cloud build-up resulting from evaporation due to the sun’s heat and there is thundery convectional rain, but little lee effect. Thus the ITCZ is characterised by frequent, more or less windless rainfall.
 
@@ -72,7 +72,7 @@ It is clear from this account of wind systems in Austronesian speaking areas tha
 
 Table 3 summarises the seasonal conditions pertaining in various Austronesian speaking areas. It is at best a crude summary, as local conditions may change considerably from one side of an island to the other, especially where orographic rain occurs. The locations are set out in very roughly the sequence in which I assume them (on the basis of Figure 1) to have been occupied by Austronesian speakers.
 
-I assume that Proto Malayo-Polynesian was spoken in the northerly part of the Philippines. Here the northeast trades prevail in the SHS, but are replaced by monsoonal southerlies in the SHW. On the larger islands this means that east-facing slopes receive orographic rain during the trades and convectional rains in the monsoon, whilst west- facing slopes get orographic rain during the monsoon and have drought during the trades ([Alip & Borlaza 1984](../sources/AlipandBorlaza1984)). During the monsoon typhoons often strike the northern and central islands, but [Benedek](../sources/Benedek1991) ([1991](../sources/Benedek1991):13) reports for the islands between the Philippines and Taiwan that there is sometimes a period when the sea is becalmed and the heat becomes intolerable.
+I assume that Proto Malayo-Polynesian was spoken in the northerly part of the Philippines. Here the northeast trades prevail in the SHS, but are replaced by monsoonal southerlies in the SHW. On the larger islands this means that east-facing slopes receive orographic rain during the trades and convectional rains in the monsoon, whilst west-facing slopes get orographic rain during the monsoon and have drought during the trades ([Alip & Borlaza 1984](../sources/AlipandBorlaza1984)). During the monsoon typhoons often strike the northern and central islands, but [Benedek](../sources/Benedek1991) ([1991](../sources/Benedek1991):13) reports for the islands between the Philippines and Taiwan that there is sometimes a period when the sea is becalmed and the heat becomes intolerable.
 
 As Austronesian speakers moved south into Mindanao and then Borneo, Sulawesi and perhaps Halmahera, they left the trade winds behind and entered the equatorial region with two monsoon seasons where rain falls all the year round. North of the equator, the accustomed monsoonal southerlies or southwesterlies continued in the SHW, but in the SHS the northeast trades became the northeast monsoon as they accumulated moisture prior to crossing the Equator. When our travellers crossed the Equator, they experienced a reorientation of wind directions: the southerly monsoon of the SHW became decidedly southeasterly or easterly, whilst the northeast monsoon of the SHS veered to the northwest or west.
 
@@ -219,7 +219,7 @@ The generic term for ‘wind’ in POc was _&ast;aŋin_, which continues PMP _&a
 
 <a id="p-127"></a>
 
-Three terms for winds of differing strengths are reconstructable. POc _&ast;jaŋi_ referred to a strong wind, _&ast;sau_/_&ast;sau-ŋ(a)_ and _&ast;mur[i,e]_ to breezes. It seems that &ast;sau was a verb (‘blow freshly’), and _&ast;sau-ŋ(a)_ a nominalisation referring to the breeze itself. I cannot reconstruct a difference in meaning between _&ast;sau_ and _&ast;mur[i,e]_.
+Three terms for winds of differing strengths are reconstructable. POc _&ast;jaŋi_ referred to a strong wind, _&ast;sau_/_&ast;sau-ŋ(a)_ and _&ast;mur[i,e]_ to breezes. It seems that _&ast;sau_ was a verb (‘blow freshly’), and _&ast;sau-ŋ(a)_ a nominalisation referring to the breeze itself. I cannot reconstruct a difference in meaning between _&ast;sau_ and _&ast;mur[i,e]_.
 
 <table id="2-5-4-1-127-POc-jai-a">
 <tr>
@@ -687,7 +687,7 @@ Three of these, _&ast;upi_, _&ast;ipu_ and _&ast;i(p,pʷ)i_, are clearly related
 
 
 
-In a number of NNG languages in the region of the Vitiaz Strait and the Huon Gulf, a nominalised form of &ast;upi ‘blow’ has become the generic term for ‘wind’ (see vol. 1, pp.33–34 with regard to nominalising morphology):
+In a number of NNG languages in the region of the Vitiaz Strait and the Huon Gulf, a nominalised form of _&ast;upi_ ‘blow’ has become the generic term for ‘wind’ (see vol. 1, pp.33–34 with regard to nominalising morphology):
 
 
 <a id="p-130"></a>
@@ -2191,7 +2191,7 @@ One more term, _&ast;aqura_, seems to have served both as a generic wind term an
 <tr>
 <td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>laura(bada)</i></td>
 <td>
-'<span>southeast trade wind</span>' (<span>bada ‘big’</span>)</td>
+'<span>southeast trade wind</span>' (<span><em>bada</em> ‘big’</span>)</td>
 </tr>
 <tr>
 <td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>au</i></td>
@@ -2908,7 +2908,7 @@ The generic term for ‘cloud’ in POc was _&ast;qaRoq_.
 
 
 
-The four terms below each possibly denoted a type of cloud. POc &ast;rodo(ŋ) meant ‘rain cloud’. PNGOc &ast;guba(r,R) may have denoted a storm cloud, but it is impossible to attribute more exact meanings to POc &ast;ulu or POc &ast;bala.
+The four terms below each possibly denoted a type of cloud. POc _&ast;rodo(ŋ)_ meant ‘rain cloud’. PNGOc _&ast;guba(r,R)_ may have denoted a storm cloud, but it is impossible to attribute more exact meanings to POc _&ast;ulu_ or POc _&ast;bala_.
 
 <table id="2-5-5-2-143-POc-rodo-a">
 <tr>
@@ -3319,7 +3319,7 @@ The items below—POc _&ast;kapu(t)_/_&ast;kopu_ ‘low cloud, mist, fog’ and 
 
 
 
-The Bali and Fijian forms below are problematic, as they reflect POc &ast;kabu(t), not &ast;kapu(t)
+The Bali and Fijian forms below are problematic, as they reflect POc _&ast;kabu(t)_, not _&ast;kapu(t)_
 
 <table id="2-5-5-2-145-mm-vitu-abuabu">
 <tr>
