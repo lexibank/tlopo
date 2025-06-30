@@ -5869,7 +5869,7 @@ languages and Kokota (MM, Santa Isabel) and in SES languages the terms mean ‘w
 
 <
 POc *kawe(C) ‘woman, wife’ (?) (Lynch 2004: PSOc *nawe ‘wife’)
-Proto Eastern Admiralty *n-awe- ‘spouse’
+PEAd *n-awe- ‘spouse’
   Adm: Lele               n-awe-         ‘spouse’ (reciprocal)
   Adm: Drehet             n-ewe          ‘spouse’
   NNG: Yabem              àwɪ            ‘woman; wife’
@@ -15776,7 +15776,7 @@ three lunar month names for Proto Torres-Banks, using Clark’s (2009) orthograp
 partially reconstruct two others.[24]
 
 <
-Proto Torres-Banks *|ud (?) gogona| ‘bitter (palolo)’ (≈ September)
+Proto Torres-Banks *|ud gogona| (?) ‘bitter (palolo)’ (≈ September)
   NCV: Loh                |wo ɣoɔnə |       ‘bitter (palolo)’ (≈ September) (_wo_ ‘month’?)
   NCV: Mota               |un ɣoɣona|       ‘bitter palolo’ (≈ September)
   NCV: Mwotlap            n-in-ɣon          ‘bitter palolo’ (≈ September)
@@ -24054,7 +24054,7 @@ PAdm *-ŋafulu ‘unit of 10’
 >
 
 <
-Proto Eastern Admiralty *-ŋatu ‘unit of 100’
+PEAd *-ŋatu ‘unit of 100’
   Adm: Lou                -ŋot               ‘100’
   Adm: Baluan             -ŋot               ‘100’
   Adm: Ponam              -ŋat               ‘100’
@@ -24117,7 +24117,7 @@ a POc origin, but there is no way of knowing whether or not they became classifi
 earlier than PAd.
 
 <
-Proto Eastern Admiralty *-fatV ‘container, bag, basket’
+PEAd *-fatV ‘container, bag, basket’
   Adm: Ponam             -fat               ‘bag’
   Adm: Kele              -hat               ‘container’
   Adm: Kurti             -hat               ‘basket’
@@ -24130,7 +24130,7 @@ Proto Eastern Admiralty *-fatV ‘container, bag, basket’
                                                      Numerals, classifiers and counting 503
 
 <
-Proto Eastern Admiralty *-polV ‘(longitudinal?) half’ (< POc *pʷali- ‘one half or side of something symmetrical’)
+PEAd *-polV ‘(longitudinal?) half’ (< POc *pʷali- ‘one half or side of something symmetrical’)
   Adm: Lou               -pol              ‘half: side of village’
   Adm: Baluan            -pʷol             ‘half of round object ’
   Adm: Ponam             -ʙul              ‘half of something broken lengthwise; one of pair’ (cog?)
@@ -24138,7 +24138,7 @@ Proto Eastern Admiralty *-polV ‘(longitudinal?) half’ (< POc *pʷali- ‘one
 >
 
 <
-Proto Eastern Admiralty *-cala ‘path’ (< POc *jalan ‘path’, vol.1:61–62)
+PEAd *-cala ‘path’ (< POc *jalan ‘path’, vol.1:61–62)
   Adm: Kele              -sal         ‘paths’
   Adm: Loniu             -can         ‘road, path, boundary’
   Adm: Levei             -saŋ         ‘path’
@@ -24146,7 +24146,7 @@ Proto Eastern Admiralty *-cala ‘path’ (< POc *jalan ‘path’, vol.1:61–6
 >
 
 <
-Proto Eastern Admiralty *-koro ‘village’ (POc *koro ‘fenced-in area’; ‘? settlement fortified by barrier’; §5.4)
+PEAd *-koro ‘village’ (POc *koro ‘fenced-in area’; ‘? settlement fortified by barrier’; §5.4)
   Adm: Kele              -kor              ‘village’
   Adm: Levei             -koŋ              ‘place/village/town/area’
   Adm: Nyindrou          -kon              ‘villages or places’

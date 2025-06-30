@@ -8751,7 +8751,7 @@ term for a large outrigger canoe (perhaps synonymous with _*waga_ in its narrowe
 
 <
 POc *tola 'large canoe' (?)
-Proto Eastern Admiralty *n-tol (V) 'large canoe'
+PEAd *n-tol (V) 'large canoe'
  Adm: Titan          drol
  Adm: Koro           dual
  Adm: Nali           droi
@@ -11841,7 +11841,7 @@ __formgroup__
  PT: Iduna   -tala-kʷane-kʷwane-     'cut one after another, chip at holding adze vertically'
  PT: Iduna   -tala-lukuwe-          'cut into'
  PT: Iduna   -tala-muhu-muhu-       'cut into tiny pieces (of wood)'
- PT: Iduna   -tala-bwa?e-bwa?e-     'chip round marks with sharp edge of knife'
+ PT: Iduna   -tala-bwaʔe-bwaʔe-     'chip round marks with sharp edge of knife'
  PT: Iduna   -tala-dobo-            'break with knife (of food, wood)'
  PT: Iduna   -tala-done-            'cut into'
  PT: Iduna   -tala-golohi-          'cut off, chop off (branches), (cause to) tear by cutting'

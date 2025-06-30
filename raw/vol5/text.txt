@@ -29114,7 +29114,7 @@ POc (VT) *matakut-i- ‘to fear (s.t.)’
   NCV: Tamambo           matahu           ‘be frightened’
   NCV: Tirax             mtaxit           ‘be frightened’
   NCV: Nguna             mataku           ‘afraid’
-PSV *a-metaɣ[VT] (VI) ‘be afraid, fear’ (Lynch 2001c)
+PSV *a-metaɣ (VI) ‘be afraid, fear’ (Lynch 2001c)
   SV:  Sie               emetet           (VI) ‘be afraid, fear’
   Mic: Carolinian        mesaxu, -a       (VI, VT) ‘have fear, be afraid’
   Mic: Ifaluk            metagu           ‘be afraid, anxious’

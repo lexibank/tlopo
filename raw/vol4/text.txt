@@ -1723,7 +1723,7 @@ PPn *nifa ‘_Sardinella sp._’ (Hooper 1994)
 POc *kʷaru ‘_Sardinella_, sardine’
   Adm: Titan        kʷal         ‘sardine’
   MM:  Marovo       karu(mehe)   ‘anchovy, found in river mouths’
-  Mic: Marshallese  kʷaṛᶭ-kʷaṛᶭ  ‘sardine’
+  Mic: Marshallese  kʷaṛᵚ-kʷaṛᵚ  ‘sardine’
 >
 
 40     Meredith Osmond
@@ -2495,8 +2495,8 @@ Yamdena (CMP), _bwa-watan_ ‘seahorse’ (_bwaye_ ‘crocodile’) which permit
 of the word for crocodile as the first element in an otherwise variable compound.
 
 <
-PMP *|buqaya + modifier| ‘Hippocampus sp., seahorse’ (Blust 2002)
-POc *|puqaya + modifier| ‘seahorse’
+PMP *|buqaya +| ‘Hippocampus sp., seahorse’ (+ modifier) (Blust 2002)
+POc *|puqaya +| ‘seahorse’ (+ modifier)
   NNG: Numbami       |yuwaya tina|     ‘seahorse’ (lit. ‘crocodile mother’)
   NNG: Bariai        |puaea gerei-rei| ‘seahorse’ (_puaea_ ‘crocodile’, _gereirei_ ‘newly-hatched’)
   MM:  Roviana       vu-vua            ‘seahorse’ (_vua_ ‘crocodile’)
@@ -5365,7 +5365,7 @@ POc *(ñ,n)opu(q) ‘_Synanceia spp._, stonefishes’
   NNG:  Kove          nou           ‘stonefish’
   NNG:  Tuam          nov           ‘stonefish’
   NNG:  Malai         nob           ‘stonefish’
-  NNG:  Tami          no?           ‘stonefish’
+  NNG:  Tami          noʔ           ‘stonefish’
   NNG:  Takia         nou           ‘stonefish’
   NNG:  Kaiep         nou           ‘stonefish’
   NNG:  Manam         nou           ‘stonefish’
@@ -5395,7 +5395,7 @@ PNCV *novu ‘scorpion, venomous fish’ (Clark 2009:158)
   Mic:  Kiribati      nou           ‘_Scorpaenidae_’
   Mic:  Chuukese      nou           ‘_S. verrucosa_, stonefish’
   Mic:  Puluwatese    nōw           ‘scorpionfish’
-PCP *novu ‘_Synanceja verrucosa_, stonefish’ (Geraghty: PCP *hovu)
+PCP *novu ‘_Synanceja verrucosa_, stonefish’ (Geraghty: PCP _*hovu_)
   Fij:  Rotuman       nohu          ‘fish that buries itself in the sand and can inflict a poisonous sting with its fin’
   Fij:  Bauan         novu          ‘fish of an ashen colour, resembling a stone, very rough horny skin’
   Fij:  Wayan         novu          ‘generic for all stonefish and certain scorpionfish which resemble stonefish in appearance and deadly sting’
@@ -5404,7 +5404,7 @@ PPn *nofu ‘Synaceja verrucosa, _Scorpaenidae spp._’ [Synanceiidae spp.] (Hoo
   Pn:   Niuean        nofu          ‘scorpionfish; stonefish’
   Pn:   E Uvean       nofu          ‘_S. verrucosa_’
   Pn:   Rennellese    nohu          ‘k.o. poisonous fish’
-  Pn:   Pukapukan     |nou (watu)|  ‘_S. verrucosa_’ (watu ‘stone’)
+  Pn:   Pukapukan     |nou (watu)|  ‘_S. verrucosa_’ (_watu_ ‘stone’)
   Pn:   Samoan        nofu          ‘k.o. fish with poisonous spines, Scorpaenopsis and Synanceia’
   Pn:   Tikopia       nofu          ‘stonefish’
   Pn:   Hawaiian      nohu          ‘scorpionfish’
@@ -13150,7 +13150,7 @@ large and conspicuous Egretta herons, which may have been the basis for a generi
 
 <
 POc *kao(i) ‘heron, probably _Egretta sp._’
-  Yap:   Yapese           ʔkãw, ?kow       ‘heron’
+  Yap:   Yapese           ʔkãw, ʔkow       ‘heron’
   Adm:   Nyindrou         kaoi             ‘heron’
   NNG:   Mengen (Poeng)   gao              ‘reef heron’
   PT:    Gapapaiwa        kou              ‘Reef Heron, Egretta sacra’
@@ -13431,14 +13431,14 @@ PEOc *Raŋa ‘duck’
   SES:  ’Are’are      (araʔa)rana  ‘wild duck’
   SES:  Sa’a          araŋa        ‘wild duck’
   Mic:  Namoluk       raŋ          ‘Spotbill Duck, Anas poecilorhyncha’
-  Mic:  Marshallese   ṛᶭaŋ         ‘wild duck’
-  Mic:  Marshallese   ṛᶭoŋa(npat)  ‘_Anas spp._’ (_pat_ ‘swamp’)
+  Mic:  Marshallese   ṛᵚaŋ         ‘wild duck’
+  Mic:  Marshallese   ṛᵚoŋa(npat)  ‘_Anas spp._’ (_pat_ ‘swamp’)
 cf. also: Probably borrowed from a SE Solomonic language:
   MM:   Marovo        araŋa        ‘Anas superciliosa’
 >
 
 
-[5] Note that Jackson & Marek (1991) consider Carolinian _ŋaŋa_ a loan from Chamorro _ŋaŋaʔ_ ‘duck’.
+[5] Note that Jackson & Marck (1991) consider Carolinian _ŋaŋa_ a loan from Chamorro _ŋaŋaʔ_ ‘duck’.
 
                                                                                           Birds    295
 
@@ -13454,7 +13454,7 @@ Proto South Melanesian *l(i)aŋ ‘duck’ (Lynch)[6]
   NCal:   Iaai           eŋ             ‘duck’
 >
 
-    PPn *toloa replaces *ŋaRa as the generic term for ‘duck’.
+    PPn _*toloa_ replaces _*ŋaRa_ as the generic term for ‘duck’.
 
 <
 PPn *toloa ‘duck’
@@ -13563,9 +13563,9 @@ cf. also:
 Oceanic speakers. (_H. leucogaster_ of the homeland is replaced in the Solomons by the very
 similar _H. sanfordi_.) So it is not surprising to find terms for this species literally meaning
 ‘big bird’ in a number of languages. In all but one of the following, the first element reflects
-POc *manuk ‘bird’, and the second is the local word for ‘big’. These second elements are
+POc _*manuk_ ‘bird’, and the second is the local word for ‘big’. These second elements are
 etymologically diverse, but Patpatar, Nehan and Puluwatese probably retain the POc form
-*lapuat ‘large’ (vol.2:190-191).
+_*lapuat_ ‘large’ (vol.2:190-191).
 
 <
 POc *manuk-lapuat (‘big bird’) ‘White-bellied Sea Eagle, Haliaeetus leucogaster’
@@ -13589,7 +13589,7 @@ __formgroup__
    Mic:    Puluwatese mallap            ‘frigate bird’
 
 
-    Two other sets are derived from the bird generic *manuk, though the second element is
+    Two other sets are derived from the bird generic _*manuk_, though the second element is
 less easy to identify.
 
 <
@@ -13717,7 +13717,7 @@ Proto Malaita-Makira *wakio ‘Osprey, Pandion haliaetus’
    SES:   Bauro        wakio
 >
 
-      The following may be cognate with PSOc *mala (§5.4.2 on p.303):
+      The following may be cognate with PSOc _*mala_ (§5.4.2 on p.303):
 
 <
 PNCal *bʷamara ‘fishing bird of prey’
@@ -13759,7 +13759,7 @@ cf. also:
                                                                                   Birds   301
 
 
-                         Figure 6.6   Aviceda subcrislata. Crested Baza
+Figure 6.6:   Aviceda subcrislata. Crested Baza
 
 <
 PNGOc *kisakisa ‘hawk or eagle’
@@ -13847,7 +13847,7 @@ birds identified during the 1958-59 Gilliard New Britain Expedition. The spellin
 
                                                                                   Birds   303
 
-                    Figure 6.7   Circus approximans, Pacific Marsh Harrier
+Figure 6.7:   Circus approximans, Pacific Marsh Harrier
 
    In Southern Oceania, the sea eagles are no longer present, and the familiar raptors are the
 goshawks (_Accipiter spp._) and the Pacific Marsh Harrier (Circus approximans)
@@ -13869,12 +13869,12 @@ PSOc *mala ‘hawk’ (John Lynch, pers. comm.)
   SV:  Anejom       in-mecɣapʷ      ‘Accipiter fasciatus, Circus approximans’
 cf. also: Borrowed from a North-Central Vanuatu language:
   Pn:  Ifira-Mele   mala            ‘Circus approximans’
-  Pn:  Ifira-Mele   mala-pʷēriki    ‘Peregrine Falcon, Falcoperegrinus’
+  Pn:  Ifira-Mele   mala-pʷēriki    ‘Peregrine Falcon, Falco peregrinus’
 >
 
-    The following could be an irregular development of *mala, the languages shown are all
-from Malakula, Vanuatu; however some of the Vanuatu reflexes of POc *p wa(r,R)a ‘hawk’
-above may belong here, being from languages in which */ and *R would both give zero in
+    The following could be an irregular development of _*mala_, the languages shown are all
+from Malakula, Vanuatu; however some of the Vanuatu reflexes of POc _*pʷa(r,R)a_ ‘hawk’
+above may belong here, being from languages in which _*l_ and _*R_ would both give zero in
 this environment.
 
 <
@@ -14762,7 +14762,7 @@ reaching as far as New Zealand.
 
 <
 POc *kaRa ‘male Eclectus Parrot, Eclectus roratus’’
-  NNG:  Yabem         kala?         ‘the green male parrot’
+  NNG:  Yabem         kalaʔ         ‘the green male parrot’
   NNG:  Bariai        kala          ‘parrot’
   NNG:  Kove          kaha          ‘parrot’
   NNG:  Lusi          kara          ‘parrot’
@@ -16228,11 +16228,11 @@ POc *saba(l) ‘petrel or albatross’
 >
 
 <
-Proto Remote Oceanic *|koro + modifier| ‘petrel’
+Proto Remote Oceanic *|koro +| ‘petrel’ (+ modifier)
   NCV: Namakir       koro(lik)     ‘black sea bird sp.’
   NCV: N Efate [12]   koro(liko)    ‘Wedge-tailed Shearwater, _Puffinus pacificus_’
   Mic: Kiribati      koro(paro)    ‘_Puffinus pacificus_’
-  Pn:  Tahitian      oro(matto)    ‘Pelecanusfiber, Little Grey Booby’ (Forster 1775)
+  Pn:  Tahitian      oro(matto)    ‘Pelecanus fiber, Little Grey Booby’ (Forster 1775)
 >
 
 <
@@ -16292,7 +16292,7 @@ PMic *tiku, *tuki ‘tropic-bird’ (Bender et al. 2003)
   Mic: Ponapean      sɨ̄k           ‘white sea bird sp.’
   Mic: Mokilese      cik
   Mic: Kosraean      sik           ‘bird sp.’
-  Mic: Marshallese   (lᶭokʷā)cɛk   ‘Red-tailed Tropic-bird, _Phaethon rubricauda_’
+  Mic: Marshallese   (lᵚokʷā)cɛk   ‘Red-tailed Tropic-bird, _Phaethon rubricauda_’
 cf. also: Probable borrowing from a Micronesian language:
   Yap: Yapese        yūg           ‘type of white dove-like bird with a long tail’
 >
@@ -16413,14 +16413,14 @@ cf. also: A Polynesian borrowing:
   Fij:  Rotuman      kanɔpu             (expected †_anɔʔu_)
 >
 
-    The following three forms suggest POc *kalau ‘booby’, but may be scattered cognates of
+    The following three forms suggest POc _*kalau_ ‘booby’, but may be scattered cognates of
 the previous set. The Nukuoro word is probably borrowed from Micronesia.
 
                                                                                   Birds   357
 
 __formgroup__
    NNG: Mangap      kalau              ‘bird sp.’
-   Mic: Marshallese kalᶭo              ‘_Sula leucogaster_’
+   Mic: Marshallese kalᵚo              ‘_Sula leucogaster_’
    Pn:  Nukuoro     kālau              ‘brown booby’
 
    This term is restricted to the central and northern Polynesian Outliers:
@@ -16748,7 +16748,7 @@ Proto Remote Oceanic *keke~*kaka ‘wader’
   Mic:  Puluwatese   (liye)kāk   ‘long-necked migratory shore bird’
   Mic:  Namoluk      (lia)kak    ‘Whimbrel, _Numenius phaeopus_’
   Mic:  Chuukese     (ɾiye)kak   ‘bird sp.’
-  Mic:  Marshallese  (lᶭa)kɛkɛ   ‘_Pluvialis fulva_, black variety in breeding plumage’
+  Mic:  Marshallese  (lᵚa)kɛkɛ   ‘_Pluvialis fulva_, black variety in breeding plumage’
   Mic:  Kiribati     kaka        ‘Bar-tailed Godwit, Limosa lapponica’
 cf. also: Probable borrowings from some Micronesian language are:
   Pn:   Nukuoro      kaka        ‘bird sp.’
@@ -16926,7 +16926,7 @@ POc *bʷauro ‘tern’
   NCV:    Port Sandwich  (li)ᵐbuer                  ‘seagull’
   NCal:   Nyelayu        bor(ivic)                  ‘sea bird’
   NCal:   Nelemwa        bor(iric)                  ‘tern, _Sterna spp._’
-  Mic:    Marshallese    pᶭōṛᶭ(ōc)                  ‘a white sea bird’
+  Mic:    Marshallese    pᵚōṛᵚ(ōc)                  ‘a white sea bird’
 >
 
 <
@@ -19086,7 +19086,7 @@ generic for worms and worm-like creatures, including caterpillars and millipedes
 it has reverted to its unreduplicated form, either as a generic for snakes and other snake-like
 creatures, or, as in Micronesia and Seimat, to refer to worms alone. In Micronesia there are
 no snakes except on Guam, where they have been introduced in comparatively recent times
-(Jeff Marek, pers. comm.), and hence there is no need to maintain the distinction. I have not
+(Jeff Marck, pers. comm.), and hence there is no need to maintain the distinction. I have not
 been able to ascertain if snakes are found in the Ninigo Islands, where Seimat is spoken.
 
 <
@@ -19094,7 +19094,7 @@ POc *mʷata-mʷata ‘generic for worms and worm-like creatures’
   Adm: Seimat         wat           ‘land worm’
   NNG: Kove           mota          ‘snake, eel, caterpillar’
   NNG: Bing           mut-muat      ‘caterpillar’
-  NNG: Yabem          moa?          ‘snake, and as first element in compounds (worm caterpillar, slug, snail and millipede)’
+  NNG: Yabem          moaʔ          ‘snake, and as first element in compounds (worm caterpillar, slug, snail and millipede)’
   PT:  Gapapaiwa     sulata(ramoa)  ‘caterpillar, worm (not earthworm’
   PT:  Bwaidoga      mota-mota      ‘grub, caterpillar which eats leaves of yams, taro etc.’
   PT:  Sudest        mʷata(wadi)    ‘a small black millipede’
@@ -20077,7 +20077,7 @@ Table 8.4.
 __tablenh__
  Kiribati    |   ika       | ‘fish: all swimming marine creatures including turtles, dugong, whales and porpoises, but not squid or octopus’
  Marshallese | ek          |  ‘fish’ (Abo et al. 1976) However, in the English-Marshallese finder list, under ‘fish’, the authors list terms for ‘dolphin’, ‘giant octopus’, and ‘jellyfish’ as well as ‘shark’, ‘eel’, but not ‘whale’ or ‘turtle’
- Carolinian |        ix    | ‘generic term for fish’ (Jackson and Marek 1991). However, in the English-Carolinian finder list, under ‘fish’, the authors list terms for ‘porpoise’, ‘whale’, ‘octopus’, ‘sea urchin’, ‘starfish’, ‘sea cucumber’, as well as ‘eel’, ‘shark’ and ‘ray’, though not ‘turtle’
+ Carolinian |        ix    | ‘generic term for fish’ (Jackson and Marck 1991). However, in the English-Carolinian finder list, under ‘fish’, the authors list terms for ‘porpoise’, ‘whale’, ‘octopus’, ‘sea urchin’, ‘starfish’, ‘sea cucumber’, as well as ‘eel’, ‘shark’ and ‘ray’, though not ‘turtle’
  Woleaian    |   ixar      | ‘fish’ (Sohn and Tawerilmang 1976). However, in the English-Woleaian finder list, under ‘fish’, the authors list terms for ‘dolphin’, whale’ as well as ‘eel’, ‘shark’ and ‘ray’, though not ‘turtle’, ‘octopus’ or ‘squid’.
  Puluwatese | yik, yikan  |        ‘fish, porpoises and whales but not squid’
 

@@ -80,19 +80,19 @@ Bridle, and I am grateful to both of them for allowing me to reproduce their sup
 here.
 
      Published sources of figures are as follows: Barrau (1962): 9.3, 9.7; Barrau (1965): 9.4,
-13.9; Conn (1995): 5.11 right; Danielsson & Danielsson (1983): 12.1; Evans (1999): 11.1
+ 13.9; Conn (1995): 5.11 right; Danielsson & Danielsson (1983): 12.1; Evans (1999): 11.1
 right, 11.3 (labels only); French & Bridle (1978): 9.1, 9.2, 9.5; French (1986): 7.3, 11.7;
 Gilman & Watson (1993): 7.7, left A; Henderson & Hancock (1988): 5.2, 5.7, 5.9, 5.12,
-5.14, 6.2, 7.6, 7.5 right, 7.7 right, 7.9, 7.10, 7.11, 8.1, 8.3, 9.8, 10.1, 10.3, 10.4, 10.5, 10.6,
-11.1left, 11.2, 11.4, 11 .5, 11 .8, 11.9, 11.10, 11.11, 13.1, 13.3, 13.6, 13.10 left; Henty (1969,
+ 5.14, 6.2, 7.6, 7.5 right, 7.7 right, 7.9, 7.10, 7.11, 8.1, 8.3, 9.8, 10.1, 10.3, 10.4, 10.5, 10.6,
+ 11.1left, 11.2, 11.4, 11 .5, 11 .8, 11.9, 11.10, 11.11, 13.1, 13.3, 13.6, 13.10 left; Henty (1969,
 drawn by Damaris Pearce): 8.5 (left and right); Hopkins & Menzies (1995): 5.1 left, 5.6,
-5.13, 5.15; Jebb (1992, drawn by Rosemary Wise): 11.3 (drawing only); Johns (1976): 6.6,
-7.1, 7.2, 7.4, 7.5.left B & C, 7.7, left B & C, 7.8; Laycock (2003): 12.2; Merrill (1946): 5.1
+ 5.13, 5.15; Jebb (1992, drawn by Rosemary Wise): 11.3 (drawing only); Johns (1976): 6.6,
+ 7.1, 7.2, 7.4, 7.5.left B & C, 7.7, left B & C, 7.8; Laycock (2003): 12.2; Merrill (1946): 5.1
 right, 5.4, 5.5, 5.8, 5.11 right, 6.4, 8.2, 13 .8, 13.10 right; J. Parham (1972): 6.5, 8.4.
 
      The following figures are from internet sources accessed in December 2007: 8.5 (middle)
 (http://www.weblio.jp/), 12.3 (http://waynesword.palomar.edu/terminfl .htrn),
-13.4 B (http://www.ntbg.org/), 13.2 (http://membres.lycos.fr/verdammi/), 13.4 C & D (http://www. nation-
+ 13.4 B (http://www.ntbg.org/), 13.2 (http://membres.lycos.fr/verdammi/), 13.4 C & D (http://www. nation-
 aalherbarium.nl/, drawn by Anna Walsmit Sachs), 13.5 (http://www.desert-tropicals. com/).
 One figure is from an internet source accessed in August 2008: 10.2 (http://www.tropilab.com/
 amaranth.htrnl).
@@ -597,7 +597,7 @@ Map 3:   Groups of Oceanic languages used in cognate sets
 If a cognate set occurs in two or all three of the groups in Remote Oceanic, the reconstruction
 is attributed to Proto Remote Oceanic (Proto Remote Oceanic ). If a cognate set occurs in one or more of the
 groups in Remote Oceanic and in SE Solomonic, it is attributed to Proto Eastern Oceanic
-(PEOc ). In this way we acknowledge that such reconstructions may represent an innovation
+(PEOc). In this way we acknowledge that such reconstructions may represent an innovation
 that postdates the spread of the early Oceanic speech community. There are enough Proto Remote Oceanic and
 PEOc reconstructions to suggest that such lexical innovations indeed occurred. This in turn
 provides weak evidence for Remote Oceanic and Eastern Oceanic subgroups, but evidence
@@ -624,10 +624,10 @@ through recent research (Pawley 2007).
 in at least two out of four criteria! groupings: Admiralties (or Yapese or Mussau), Western
 Oceanic, Temotu and our hypothetical Eastern Oceanic. Both here and at the hypothetical
 interstages defined above, no reconstruction is made if there are grounds to infer borrowing
-from one of these groupings to another.[19] We also reconstruct an etymon to POc if it is re-
-flected in just one of the four criteria! groupings and in a non-Oceanic Austronesian language
-(a member of one of the subgroups on the left branches in Figure 1.1 ), as illustrated above
-by the reconstruction of POc *apic 'twins'.
+from one of these groupings to another.[19] We also reconstruct an etymon to POc if it is
+reflected in just one of the four criteria! groupings and in a non-Oceanic Austronesian language
+(a member of one of the subgroups on the left branches in Figure 1.1), as illustrated above
+by the reconstruction of POc _*apic_ 'twins'.
 
 [19] Cases where such an inference can be made occur mostly at the boundary (in the Solomon Islands) between
 Western and Eastern Oceanic. Borrowing is likely (and is often reflected in unexpected sound correspondences)
@@ -637,11 +637,10 @@ ern Oceanic).
 
                                                                                         Introduction      13
 
-
     These criteria are identical to those appli1ed in volumes 1 and 2 except for the addition of
-Temotu (which figures in very few cognate sets). The establishment ofTemotu as a primary
-subgroup (Ross & Ncess 2007) postdates the: publication of volumes 1 and 2. Temotu com-
-prises the languages of the Reeflslands, Santa Cruz, Utupua and Vanikoro, located 400 km
+Temotu (which figures in very few cognate sets). The establishment of Temotu as a primary
+subgroup (Ross & Nᴂss 2007) postdates the publication of volumes 1 and 2. Temotu comprises
+the languages of the Reef Islands, Santa Cruz, Utupua and Vanikoro, located 400 km
 east of the main Solomons archipelago and to the north of Vanuatu (Map 3).
 
     There are indications that Yapese (a single-language subgroup) and Mussau and Tench (a
@@ -655,8 +654,8 @@ Oceanic does support one.
     In chapter 2 (§4) of volume 2 Pawley discusses Blust's (1998a) proposal that the primary
 split in Oceanic divides Admiralty from a subgroup embracing all other Oceanic languages.
 Pawley dubs the latter 'Nuclear Oceanic'. If Blust's subgrouping were accepted, then an
-etymon which lacked cognates outside Oceanic would need to be reflected both in an Ad-
-miralties language and in a non-Admiralties language for a POc reconstruction to be made.
+etymon which lacked cognates outside Oceanic would need to be reflected both in an Admiralties
+language and in a non-Admiralties language for a POc reconstruction to be made.
 Etyma with reflexes in both Western and Eastern Oceanic, but not in the Admiralties, would
 be reconstructed as Proto Nuclear Oceanic. Under the criteria outlined above, however, we
 attribute these reconstructions to POc. These criteria were used in volumes 1 and 2, and
@@ -667,30 +666,28 @@ for which (i) there are no Admiralties reflexes, and (ii) there is no higher-ord
 tion (i.e. PEMP, PCEMP, PMP or PAn), since the latter would be based on cognates outside
 Oceanic.
 
-[20] On the positions ofYapese and Mussau, see respectively Ross (1996a) and Ross (1988: 315-316, 331).
+[20] On the positions of Yapese and Mussau, see respectively Ross (1996a) and Ross (1988: 315-316, 331).
 
 1.3.2.4 Further notes on subgroups
 
-This section brings together brief notes on the subgroups in Figure 1.2 beyond those men-
-tioned in the discussion in §§3.2.3-3.2.2.
+This section brings together brief notes on the subgroups in Figure 1.2 beyond those mentioned
+in the discussion in §§3.2.3-3.2.2.
 
-__ul__
-    Admiralty is a proper subgroup (Ross 1988: ch.9).
+Admiralty is a proper subgroup (Ross 1988: ch.9).
 
-    Western Oceanic consists of the North New Guinea (NNG), Papuan Tip (PT), Meso-
-Melanesian (MM) linkages and the Sarmi/Jayapura (SJ) group (see Map 4). The last-named
-may belong to the NNG linkage, but this is uncertain (Ross 1996b). It is not shown in Fig-
-ure 1.2 and its languages do not play a crucial role in reconstruction. It is likely that the
+    Western Oceanic consists of the North New Guinea (NNG), Papuan Tip (PT), Meso-Melanesian
+(MM) linkages and the Sarmi/Jayapura (SJ) group (see Map 4). The last-named
+may belong to the NNG linkage, but this is uncertain (Ross 1996b). It is not shown in Figure 1.2
+and its languages do not play a crucial role in reconstruction. It is likely that the
 
 
-Map 4           Oceanic language groups in northwest Melanesia: the Admiralties and St Matthias groups and the
-                                                       subgroups of Western Oceanic
+Map 4: Oceanic language groups in northwest Melanesia: the Admiralties and St Matthias groups and the subgroups of Western Oceanic
 
                                                                                    Introduction     15
 
 
-NNG and PT groups form a super-group, the New Guinea Oceanic linkage, and so etyma re-
-flected only in NNG and PT languages are attributed to a putative Proto New Guinea Oceanic
+NNG and PT groups form a super-group, the New Guinea Oceanic linkage, and so etyma reflected
+only in NNG and PT languages are attributed to a putative Proto New Guinea Oceanic
 (Milke 1958, Pawley 1978), and etyma reflected in either NNG or PT (or both) and in MM
 are labelled PWOc.
 
@@ -698,15 +695,15 @@ are labelled PWOc.
 support was provided by Levy (1979, 1980, n.d.), Tryon & Hackman (1983) and Frantisek
 Lichtenberk (1988).
 
-    The Southern Oceanic linkage as proposed by Lynch (1999, 2000c, 2001, 2004) is charac-
-terised by complex overlapping innovations, but by none that are reflected in all its mem-
-ber languages and would qualify it as a proper subgroup (see discussion in Lynch et al.
-2002: 112-114).[21]
+    The Southern Oceanic linkage as proposed by Lynch (1999, 2000c, 2001, 2004) is
+characterised by complex overlapping innovations, but by none that are reflected in all its
+member languages and would qualify it as a proper subgroup (see discussion in Lynch et al. 2002: 112-114).[21]
 
     Micronesian is a proper subgroup (Jackson 1983, 1986, Bender et al. 2003).
-    Central Pacific is a proper subgroup, bult one defined by only a handful of shared inno-
-vations, indicating that the period of unity was short (Geraghty 1996). The high-order sub-
-grouping of Central Pacific is due to Geraghty (1983), except for the position of Rotuman,
+
+    Central Pacific is a proper subgroup, but one defined by only a handful of shared innovations,
+indicating that the period of unity was short (Geraghty 1996). The high-order sub-grouping of
+Central Pacific is due to Geraghty (1983), except for the position of Rotuman,
 due to Pawley (1996b). Within Central Pacific is another long recognised proper subgroup,
 Polynesian, for which Pawley (1996a) lists diagnostic innovations.
 
@@ -716,24 +713,24 @@ and 2.
 
 1.3.3 Sound correspondences
 
-As we noted above, reconstruction depends on working out the systematic sound correspon-
-dences among cognate vocabulary in contemporary languages and on having a working hy-
-pothesis about how the sounds of POc have: changed and are reflected in modern Oceanic
+As we noted above, reconstruction depends on working out the systematic sound correspondences
+among cognate vocabulary in contemporary languages and on having a working hypothesis
+about how the sounds of POc have: changed and are reflected in modern Oceanic
 languages. Working out sound correspondences even for twenty languages is a large task,
 and so we have relied heavily on our own previous work and the work of others. The sound
-correspondences we have used are those given by Ross (1988) for Western Oceanic and Ad-
-miralties; by Levy (1979, 1980) and Frantisek Lichtenberk (1988) for Cristobal-Malaitan, by
-Pawley (1972) and Tryon & Hackman (1983) for SE Solomonic; by Ross & Ncess (2007) for
-Temotu; by Tryon (1976) and Clark (1996, 2008) for North and Central Vanuatu; by Lynch
-(1978, 2001) for Southern Vanuatu; by Geraghty (1989) and Ozanne-Rivierre (1992) for
-New Caledonia; by Jackson (1986) and Ross (1996a) for Nuclear Micronesian; by Geraghty
-(1986) for Central Pacific; by Biggs (1978) for Polynesian; by Ross (1996a) for Yapese; and
+correspondences we have used are those given by Ross (1988) for Western Oceanic and
+Admiralties; by Levy (1979, 1980) and Frantisek Lichtenberk (1988) for Cristobal-Malaitan, by
+Pawley (1972) and Tryon & Hackman (1983) for SE Solomonic; by Ross & Nᴂss (2007) for
+Temotu; by Tryon (1976) and Clark (1996, 2008) for North and Central Vanuatu; by Lynch (1978, 2001)
+for Southern Vanuatu; by Geraghty (1989) and Ozanne-Rivierre (1992) for
+New Caledonia; by Jackson (1986) and Ross (1996a) for Nuclear Micronesian; by Geraghty (1986)
+for Central Pacific; by Biggs (1978) for Polynesian; by Ross (1996a) for Yapese; and
 by Ross (1996b) for Oceanic languages of Irian Jaya.
 
-    For non-Oceanic languages we have referred to sound correspondences given by Tsuchida
-(1976) for Formosan languages; by Zorc (1977, 1986) and Reid (1982) for the Philippines;
-by Adelaar (1992b) and Nothofer (1975) for Malay and Javanese; by Sneddon (1984) for Su-
-lawesi; by Collins (1983) for Central Maluku; and by Blust (1978a) for South Halmahera
+    For non-Oceanic languages we have referred to sound correspondences given by Tsuchida (1976)
+for Formosan languages; by Zorc (1977, 1986) and Reid (1982) for the Philippines;
+by Adelaar (1992b) and Nothofer (1975) for Malay and Javanese; by Sneddon (1984) for Sulawesi;
+by Collins (1983) for Central Maluku; and by Blust (1978a) for South Halmahera
 and Irian Jaya.
 
     We are well aware that regular sound correspondences can be interfered with in various
@@ -744,28 +741,31 @@ to account for, irregularities in cognate sets.
 
 16   Malcolm Ross, Andrew Pawley and Meredith Osmond
 
-__pre__
-                   Table 1.1       Reconstructed paradigm of POc phonemes
-                                   *pw      *p       *t         *c       *k    *q
-                                   *bw      *b       *d         *j       *g
-                                                     *s
-                                   *mw      *m       *n         *fi      *I)
-                                                     *r                        *R
-                                                     *dr
-                                                     *l
-                                   *w                           *y
-                                            *i                  *u
-                                            *e                  *o
-                                                     *a
+: Table 1.1       Reconstructed paradigm of POc phonemes
+
+__tablenh__
+                                   _*pʷ_    |  _*p_   |  _*t_     |    _*c_   |    _*k_  |  _*q_
+                                   _*bʷ_    |  _*b_   |  _*d_     |    _*j_   |    _*g_  |
+                                           |        |    _*s_     |          |          |
+                                   _*mʷ_    |  _*m_   |  _*n_     |    _*ñ_  |     _*ŋ_ |
+                                          |       |      _*r_     |         |        |  _*R_
+                                          |       |      _*dr_    |         |        |
+                                          |       |      _*l_     |         |        |
+                                   _*w_     |       |           |    _*y_   |        |
+
+__tablenh__
+                                            _*i_   |           |    _*u_
+                                            _*e_   |           |    _*o_
+                                                 |    _*a_     |
 
 
 
 1.3.4 POc phonology and orthography
 
 Work based on the sound correspondences of both Oceanic and non-Oceanic languages has
-resulted in the reconstructed paradigm of POc phonemes shown in Table 1.1. The orthog-
-raphy used here and in the POc reconstructions in this work is from Ross (1988), with the
-addition of *pw. POc phonology and its relationship to PMP is discussed in greater detail in
+resulted in the reconstructed paradigm of POc phonemes shown in Table 1.1. The orthography
+used here and in the POc reconstructions in this work is from Ross (1988), with the
+addition of _*pʷ_. POc phonology and its relationship to PMP is discussed in greater detail in
 Chapter 2 (§2) of volume 1. Since the publication of volume 1, articles by John Lynch have
 appeared on POc stress (2000) and POc labiovelar phonemes (2002).
 
@@ -776,8 +776,9 @@ used in this work. The terms 'oral grade' and 'nasal grade' were used by Grace (
 have become conventional among Oceanic linguists to refer to the outcomes of certain sound
 changes that occurred between PMP and POc (vol.1, ch.2, §2.4).
 
-__pre__
-             Table 1.2      POc orthographies after Grace (1969) and Ross (1988)
+: Table 1.2      POc orthographies after Grace (1969) and Ross (1988)
+
+__tablenh__
      Grace    oral grade      *p           *pw            *t          *d/ *r   *s          *j   *k
      Ross                     *p           *pw            *t            *r     *s          *c   *k
      Grace    nasal grade    *mp        *l)pl *mpw        *nt    *ndl *nr            *nj        *l)k
@@ -794,67 +795,63 @@ __pre__
 
 1.4.1 Chapter format
 
-Each of the contributions to these volumes concerns a particular POc 'terminology'. Gener-
-ally, each contribution begins with an introduction to the issues raised by the reconstruction
-of its particular terminology, and the bulk of each contribution consists of reconstructed et-
-yma with supporting data and a commentary on matters of meaning and form.
+Each of the contributions to these volumes concerns a particular POc 'terminology'. Generally,
+each contribution begins with an introduction to the issues raised by the reconstruction
+of its particular terminology, and the bulk of each contribution consists of reconstructed
+etyma with supporting data and a commentary on matters of meaning and form.
 
-    The reconstruction of POc *kayu 'tree' below, adapted from Chapter 3, §4.2, shows how
+    The reconstruction of POc _*kayu_ 'tree' below, adapted from Chapter 3, §4.2, shows how
 reconstructions and supporting cognate sets are presented. Above it is Dempwolff's earlier
 superordinate (PMP) reconstruction. Below it are supporting reflexes. Contributors vary in
-the degree to which they insert lower-order reconstructions like PPn *kau below. Lower-
-order reconstructions are sometimes given to clarify the relationship of reflexes to the higher-
-order reconstruction: Southern Vanuatu languages, for example, have undergone so much
-phonological change that a Proto Southern Vanuatu reconstruction helps explicate the rela-
-tionship between Southern Vanuatu reflexes and the POc reconstruction. In the set below the
+the degree to which they insert lower-order reconstructions like PPn _*kau_ below. Lower-order
+reconstructions are sometimes given to clarify the relationship of reflexes to the higher-order
+reconstruction: Southern Vanuatu languages, for example, have undergone so much
+phonological change that a Proto Southern Vanuatu reconstruction helps explicate the
+relationship between Southern Vanuatu reflexes and the POc reconstruction. In the set below the
 Proto Polynesian (PPn) reconstruction shows an extension in its meaning.
 
-__pre__
-PMP *kayu 'tree, wood, timber' (Dempwolflf 1938)
-POc *kayu 'tree or shrub: generic name for plants with woody stems and branches,
-  probably not including palms or tree-ferns; wood, stick'
-  Adm: Loniu             ke           'tree, wood'
-  Adm: Titan             kei          'firewood'
-  NNG: Lukep (Pono) kai               'tree, wood'
-  NNG: Takia             ai           'tree (generic), wood, firewood, plant'
-  PT:    Iduna           ai           'tree, plant, wood, fire, light'
-  PT:    Motu            au           'tree, firewood'
-  MM: Patpatar           ai-          'tree species, followed by name of species'
-  MM: Mono               au           'tree'
-  SES: Bugotu            yai-         'tree, shaft of spear'
-  SES: Kwaio            ʔai          'branch, tree, stick; woody plant (shrub, tree)'
-  NCV: NE Ambae          kai          'tree, wood'
-  NCV: Nguna             na-kau       'tree'
-  SV:    Anejom          in-yai       'tree, wood, often used for relatively small bushes'
-  NCal: Xaracuu                       'wood, tree (general term)'
-  Mic: Kiribati          kai          'wood (in general), tree, plant, stick'
-  Mic: Ulithian          -XaʔY        'counting classifier for trees'
-  Fij:   Kadavu          kaou         'tree, piece of wood, stick'
-  Fij:   Wayan           kai          'wood; generic for trees and shrubs, and
-                                      occasionally also low bushy plants; used in certain
-                                      compounds as generic for all plants; piece of wood,
-                                      stick'
-PPn *kau 'wood, timber, stalk, stem, handle" (POLLEX)
-  Pn:    Tongan          kau          'stalk, stem'
-  Pn:    Hawaiian       ʔau          'handle, staff, stem, bone of lower arm or leg'
+__tablenh__
+PMP | *kayu | 'tree, wood, timber' (Dempwolff 1938)
+POc | *kayu | 'tree or shrub: generic name for plants with woody stems and branches, probably not including palms or tree-ferns; wood, stick'
+  Adm: Loniu        |     ke       |    'tree, wood'
+  Adm: Titan        |     kei      |    'firewood'
+  NNG: Lukep (Pono) | kai          |     'tree, wood'
+  NNG: Takia        |     ai       |    'tree (generic), wood, firewood, plant'
+  PT:    Iduna      |     ai       |    'tree, plant, wood, fire, light'
+  PT:    Motu       |     au       |    'tree, firewood'
+  MM: Patpatar      |     ai-      |    'tree species, followed by name of species'
+  MM: Mono          |     au       |    'tree'
+  SES: Bugotu       |     yai-     |    'tree, shaft of spear'
+  SES: Kwaio        |    ʔai       |   'branch, tree, stick; woody plant (shrub, tree)'
+  NCV: NE Ambae     |     kai      |    'tree, wood'
+  NCV: Nguna        |     na-kau   |    'tree'
+  SV:    Anejom     |     in-ɣai   |    'tree, wood, often used for relatively small bushes'
+  NCal: Xaracuu     |     kʷãã     |        'wood, tree (general term)'
+  Mic: Kiribati     |     kai      |    'wood (in general), tree, plant, stick'
+  Mic: Ulithian     |     -xᴂy     |   'counting classifier for trees'
+  Fij:   Kadavu     |     kaðu     |    'tree, piece of wood, stick'
+  Fij:   Wayan      |     kai      |    'wood; generic for trees and shrubs, and occasionally also low bushy plants; used in certain compounds as generic for all plants; piece of wood, stick'
+PPn | *kau | 'wood, timber, stalk, stem, handle" (POLLEX)
+  Pn:    Tongan      |    kau    |      'stalk, stem'
+  Pn:    Hawaiian    |   ʔau     |     'handle, staff, stem, bone of lower arm or leg'
 
 18   Malcolm Ross, Andrew Pawley and Meredith Osmond
 
 
-    Because our supporting data are drawn from such a wide range oflanguages, the conven-
-tion is adopted of prefixing each language name with the abbreviation for the genealogical or
+    Because our supporting data are drawn from such a wide range of languages, the convention
+is adopted of prefixing each language name with the abbreviation for the genealogical or
 geographic group to which the language belongs, so that the distribution of a cognate set is
 more immediately obvious. Table 1.3 is a key to the labels. Figure § 1.2 shows the positions
 of these groups in the Oceanic tree. We have sought to be consistent in always listing these
 groups in the same order, but contributors vary in the ordering of languages within groups.
 
-    Lynch' s recent research on Southern Oceanic (§3 .2.4) renders the NCV group mildly
+    Lynch's recent research on Southern Oceanic (§3 .2.4) renders the NCV group mildly
 anomalous, although there is no doubt that it is an integrated dialect network. There are a
-number of etyma whose reflexes are confined to North and Central Vanuatu, and so we con-
-tinue to make 'Proto North/Central Vanuatu' reconstructions, even though these perhaps rep-
-resent a Southern Oceanic term that has been lost in southern Vanuatu and New Caledonia.
-Where the distribution of reflexes requires it, the chapters in this volume include reconstruc-
-tions for Proto Remote Oceanic and for PSOc. Etyma with these distributions were attributed to PEOc in
+number of etyma whose reflexes are confined to North and Central Vanuatu, and so we continue
+to make 'Proto North/Central Vanuatu' reconstructions, even though these perhaps represent
+a Southern Oceanic term that has been lost in southern Vanuatu and New Caledonia.
+Where the distribution of reflexes requires it, the chapters in this volume include reconstructions
+for Proto Remote Oceanic and for PSOc. Etyma with these distributions were attributed to PEOc in
 volumes 1 and 2, but the distributions are transparent, thanks to the presence of the group
 labels in cognate sets.
 
@@ -870,23 +867,23 @@ PWOc, PNGOc and PEOc are reconstructed because these may well also be POc etyma 
 which known reflexes are not well distributed (see discussion in §3.2.3). The contributors
 vary in the degree to which they reconstruct etyma for interstages further down the tree.
 
-__pre__
-             Table 1.3   Abbreviations for the                  or geographic groups
-     Yap:    Yapese (one language)
-     Adm:    Admiralty and Mussau/Tench
-     SJ:     Sarmi/Jayapura
-     NNG:    North New Guinea
-     PT:     Papuan Tip
-     MM:     Meso-Melanesian
-     SES:    Southeast Solomonic
-     TM:     Temotu
-     NCV:    North/Central Vanuatu, i.e. the reintegrated network formed by the North and
-             Central Vanuatu linkages
-     SV:     Southern Vanuatu
-     NCal:   Loyalty and New Caledonia
-     Mic:    Micronesian
-     Fij:   Fijian, i.e. the reintegrated network formed by Western and Eastern Fijian dialects
-     Pn:     Polynesian
+: Table 1.3   Abbreviations for the genealogical or geographic groups
+
+__tablenh__
+     Yap:  |  Yapese (one language)
+     Adm:  |  Admiralty and Mussau/Tench
+     SJ:   |  Sarmi/Jayapura
+     NNG:  |  North New Guinea
+     PT:   |  Papuan Tip
+     MM:   |  Meso-Melanesian
+     SES:  |  Southeast Solomonic
+     TM:   |  Temotu
+     NCV:  |  North/Central Vanuatu, i.e. the reintegrated network formed by the North and Central Vanuatu linkages
+     SV:   |  Southern Vanuatu
+     NCal: |  Loyalty and New Caledonia
+     Mic:  |  Micronesian
+     Fij:  | Fijian, i.e. the reintegrated network formed by Western and Eastern Fijian dialects
+     Pn:   |  Polynesian
 
                                                                                                        Introduction            19
 
@@ -894,14 +891,14 @@ __pre__
 Reconstructions for lower-order interstages are decreasingly likely to reflect POc etyma and
 may be the results of cultural change as Oceanic speakers moved further out into the Pacific.
 
-    Contributors have usually not sought to make fresh reconstructions at interstages super-
-ordinate to POc. What they have done, however, is to cite other scholars' reconstructions
+    Contributors have usually not sought to make fresh reconstructions at interstages superordinate
+to POc. What they have done, however, is to cite other scholars' reconstructions
 for higher-order interstages, as these represent a summary of the non-Oceanic evidence in
 support of a given POc reconstruction. These interstages are shown in Figure 1.1, together
 with their abbreviations.
 
     Sometimes non-Oceanic evidence has been found to support a POc reconstruction where
-no reconstruction at a higher-level interstag1;: has previously been made. In this case a new
+no reconstruction at a higher-level interstage has previously been made. In this case a new
 higher-order reconstruction is made, and the non-Oceanic evidence is given in a footnote.
 
     Whilst we have tried to use the internal organisation of the lexicons of Oceanic languages
@@ -913,35 +910,39 @@ information rather than ask the reader repeatedly to look elsewhere in the book.
 end of each volume and in the final volume are intended to make it easier to use the volumes
 collectively as a work of reference.
 
+
 1.4.2 Data
 
 Data sources are listed in Appendix 1.
 
      For some reconstructed etyma only a representative sample of reflexes is given. We have
 endeavoured to ensure, however, that in each case this sample not only is geographically and
-genetically representative, but also provides evidence to justify the shape of the reconstruc-
-tion. Where only a few reflexes are known to us, this is usually noted.
+genetically representative, but also provides evidence to justify the shape of the reconstruction.
+Where only a few reflexes are known to us, this is usually noted.
 
      Although there are accepted or standard orthographies for a number of the languages
 from which data are cited here, all data are transcribed into a standard orthography based on
 that used by Ross (1988: 3-4) in order to facilitate comparison.[22] This means, for example,
-that the j of the German-based orthographies of Yabem and Gedaged becomes y, Yabem c
-becomes?, Gedaged z becomes 1: and so on; the ng of English-based orthographies becomes
-                                                       o
-ŋ; and Fijian g, q and c become ŋ, g and respectively.
-     Unless otherwise indicated, the following symbols have their usual phonetic values: g,                               o,
-c, y, h, k, I, 1:, tC, m, n, ŋ, fi,p, q,x, r, r, s, t, w, x, z, ?, a,<f, e, c, CJ, i, i, o, ce, ɔ, t1., u, w. The voiced stops
-b, d, g and the voiced bilabial trill B are prenasalised in some languages, but prenasalisation
+that the _j_ of the German-based orthographies of Yabem and Gedaged becomes _y_, Yabem _c_
+becomes _ʔ_; Gedaged _z_ becomes _ɬ_ and so on; the _ng_ of English-based orthographies becomes
+_ŋ_ and Fijian _g_, _q_ and _c_ become _ŋ_, _g_ and _ð_ respectively.
+
+     Unless otherwise indicated, the following symbols have their usual phonetic values: _ð_, _g_,
+_ɢ_, _ɣ_, _h_, _k_, _l_, _ɬ_, _ʎ_, _m_, _n_, _ŋ_, _ñ_, _p_, _q_, _χ_, _ɾ_, _r_, _s_, _t_, _w_, _x_,
+_z_, _ʔ_, _a_, _ᴂ_, _e_, _ɛ_, _ə_, _i_, _ɨ_, _o_, _œ_, _ɔ_, _ʌ_, _u_, _ɯ_. The voiced stops
+_b_, _d_, _g_ and the voiced bilabial trill _ʙ_ are prenasalised in some languages, but prenasalisation
 is not written unless it is phonemically distinctive. Other orthographic symbols (with values
 in IPA) are:
-               f      [<jl, f]       voiceless bilabial or (less often) labio-dental fricative
-               v            v]       voiced bilabial or (less often) labio-dental fricative
-               c      [ts], [til     voiceless alveolar or palatal affricate
-               j      [ d>:], [cB]   voiced alveolar or palatal affricate
-               y      [j]            palatal glide
-               dr     ['T]           prenasalised voiced alveolar trill (as in Fijian)
-           0    [!Zl]       rounded mid front vowel
-           u    [y]         rounded high front vowel
+
+__tablenh__
+           _f_  |  [ɸ, f]     |  voiceless bilabial or (less often) labio-dental fricative
+           _v_  |  [β, v]     |  voiced bilabial or (less often) labio-dental fricative
+           _c_  |  [ts], [tʃ] |  voiceless alveolar or palatal affricate
+           _j_  |  [dz], [dʒ] |  voiced alveolar or palatal affricate
+           _y_  |  [j]        |  palatal glide
+           _dr_ |  [ⁿr]       |  prenasalised voiced alveolar trill (as in Fijian)
+           _ö_  |  [ø]        |  rounded mid front vowel
+           _ü_  |  [y]        |  rounded high front vowel
 
 [22] The main reason for retaining Ross' orthography was that the electronic files initially used in this project
 were drawn in large part from those used in the research reported in Ross (1988).
@@ -951,24 +952,24 @@ were drawn in large part from those used in the research reported in Ross (1988)
 
 Other superscripts and diacritics are as follows:
 
-__ul__
-     • contrastive long vowels are represented by a macron, e.g. a;
-     • contrastive vowel nasalisation in New Caledonian languages is represented by a circumflex, e.g. a;
-     • labialisation is marked by a superscript w, e.g. pw;
-     • velarisation is marked by a superscript UL, e.g. pw;
-     • contrastive aspiration is marked by a superscript h, e.g. ph;
-     • apicolabials are represented by the corresponding apical symbol and the linguolabial diacritic (the 'seagull' ), e.g.];
-     • retroflexes are represented by the corresponding apical symbol with a dot beneath, e.g. r.
+__block__
+- contrastive long vowels are represented by a macron, e.g. _ā_;
+- contrastive vowel nasalisation in New Caledonian languages is represented by a circumflex, e.g. _â_;
+- labialisation is marked by a superscript _w_, e.g. _pʷ_;
+- velarisation is marked by a superscript _ɯ_, e.g. _pᵚ_;
+- contrastive aspiration is marked by a superscript _h_, e.g. _pʰ_;
+- apicolabials are represented by the corresponding apical symbol and the linguolabial diacritic (the 'seagull' ), e.g. _tᫀ_;
+- retroflexes are represented by the corresponding apical symbol with a dot beneath, e.g. _ṛ_.
 
-    Except for inflexional morphemes, non-cognate portions of reflexes, i.e. derivational mor-
-phemes and non-cognate parts of compounds, are shown in parentheses(... ). Where an in-
-flexional morpheme is an affix or clitic and can readily be omitted, its omission is indicated
-by a hyphen at the beginning or end of the base. This applies particularly to possessor suf-
-fixes on directly possessed nouns (vol.1, ch.2, §3.2). Where an inflexional morpheme cannot
+    Except for inflexional morphemes, non-cognate portions of reflexes, i.e. derivational morphemes
+and non-cognate parts of compounds, are shown in parentheses (...). Where an inflexional
+morpheme is an affix or clitic and can readily be omitted, its omission is indicated
+by a hyphen at the beginning or end of the base. This applies particularly to possessor suffixes
+on directly possessed nouns (vol.1, ch.2, §3.2). Where an inflexional morpheme cannot
 readily be omitted, then it is separated from its base by a hyphen. This may happen because
-of complicated morphophonemics or because the morpheme is always present, like the ad-
-jectival -n in some NNG and Admiralties languages and prefixed reflexes of the POc article
-*na in scattered languages. When a reflex is itsellfpolymorphemic (i.e. the morphemes reflect
+of complicated morphophonemics or because the morpheme is always present, like the adjectival
+_-n_ in some NNG and Admiralties languages and prefixed reflexes of the POc article
+_*na_ in scattered languages. When a reflex is itself polymorphemic (i.e. the morphemes reflect
 morphemes present in the reconstructed etymon) or contains a reduplication, the morphemes
 or reduplicates are also separated by a hyphen.
 
@@ -977,59 +978,58 @@ subgroups, together with an index allowing the reader to find the subgroup to wh
 language belongs. Appendix B also includes alternative language names. The difficulty of
 deciding where the borderline between dialect and language lies, combined with the fact that
 these volumes contain work by a number of contributors, has resulted in some inconsistency
-in the naming of dialects in the cognate sets (cfthe cognate set supporting POc *kayu on ch.3,
-§4.2). Some occur in the form 'Kara (E)', i.e. the East dialect of the Kara language, or 'Lukep
+in the naming of dialects in the cognate sets (cf the cognate set supporting POc _*kayu_ on
+ch.3, §4.2). Some occur in the form 'Kara (E)', i.e. the East dialect of the Kara language, or 'Lukep
 (Pono)', i.e. the Pono dialect of the Lukep language, whilst others are represented simply by
 the dialect name, e.g. Iduna, noted in Appendix B as 'Iduna (= dialect of Bwaidoga)' .
 
 
 1.4.3 Conventions used in representing reconstructions
 
-Reconstructions are marked with an asterisk, e.g. *kayu 'tree ', in keeping with the standard
+Reconstructions are marked with an asterisk, e.g. _*kayu_ 'tree', in keeping with the standard
 convention in historical linguistics. POc reconstructions, and also PWOc, PEOc and PNGOc
-reconstructions, are given in the orthography of §3.4. For reconstructions at higher-order in-
-terstages the orthographies are those used by Blust in his various publications and the ACD.
+reconstructions, are given in the orthography of §3.4. For reconstructions at higher-order
+interstages the orthographies are those used by Blust in his various publications and the ACD.
 Reconstructions at lower-order interstages are given in the standard orthography adopted for
-data (§4.2). Geraghty' s (1986) PCP orthography, for example, is based on Standard Fijian
+data (§4.2). Geraghty's (1986) PCP orthography, for example, is based on Standard Fijian
 spelling, and is converted into our standard orthography in the same way as Fijian spelling is.
-In practice, this means that the orthographies for Proto Remote Oceanic and PCP are the same as for POc, ex-
-cept that a distinction between *p and *vis recognised and *R is absent. Biggs and Clark' s PPn
+In practice, this means that the orthographies for Proto Remote Oceanic and PCP are the same as for POc,
+except that a distinction between _*p_ and _*v_ is recognised and _*R_ is absent. Biggs and Clark's PPn
 reconstructions are in any case written in an orthography identical to our standard. Bracketing
 and segmentation conventions in protoforms are shown in Table 1.4.
 
                                                                                       Introduction      21
 
+: Table 1.4      Bracketing and segmentation conventions in protoforms
 
-__pre__
-             Table 1.4      Bracketing and segmentation conventions in protoforms
-            (x)       it cannot be determined whether x was present
-             (x,y)    either x or y was present
-             [x]      the item is reconstructable in two forms, one with and one without x
-             [ x,y]   the item is reconstructable in two forms, one with x and one withy
-             x- y     x and y are separate morphemes
-             x-       x takes an enclitic or a suffix
-             <X>      x is an infix
-
+__tablenh__
+            (x)     |  it cannot be determined whether x was present
+             (x,y)  |  either x or y was present
+             [x]    |  the item is reconstructable in two forms, one with and one without x
+             [x,y]  | the item is reconstructable in two forms, one with x and one withy
+             x-y    | x and y are separate morphemes
+             x-     |  x takes an enclitic or a suffix
+             <X>    |  x is an infix
 
 
      PMP final consonants are usually retained in POc. However, it happens fairly often that
-the final consonant in a higher-order reconstmcted etymon (e.g. *-R in PMP *kamaliR 'men's
+the final consonant in a higher-order reconstmcted etymon (e.g. _*-R_ in PMP _*kamaliR_ 'men's
 house') is not evidenced in any Oceanic refllex because POc final consonants are regularly
 lost in all the daughter languages from which reflexes are drawn, and we therefore have no
 evidence as to whether or not the final consonant was retained in the POc etymon in question.
-In such cases the consonant is reconstructed in brackets (e.g. POc *kamali(R)).
+In such cases the consonant is reconstructed in brackets (e.g. POc _*kamali(R)_).
 
-     In presenting words that display anomalies of form, it is often necessary to posit an ex-
-pected form. For example, in ch.2, §5, the Gela form ao is presented in support of PEOc
-*wao 'forest'. Given the reconstruction, however, we would expect the Gela form to be wao.
+     In presenting words that display anomalies of form, it is often necessary to posit an expected
+form. For example, in ch.2, §5, the Gela form ao is presented in support of PEOc
+_*wao_ 'forest'. Given the reconstruction, however, we would expect the Gela form to be _wao_.
 In this volume we use a less widely employed convention and mark expected forms with a
-dagger, e.g. twao, to distinguish them both from reconstructions and real data.[23]
+dagger, e.g. †_wao_, to distinguish them both from reconstructions and real data.[23]
 
      There are occasions on which we need to posit a hypothetical form in a reconstructed
-protolanguage. In such cases the dagger and asterisk conventions are used together. For ex-
-ample in ch.4, §2.4, POc *lali(c,t) 'buttress roots' is reconstructed. This is a reflex of PMP
-*dalij, but the first consonant has undergone assimilation to the second in POc: the expected
-(but unattested) POc form would be †*ralic.
+protolanguage. In such cases the dagger and asterisk conventions are used together. For example
+in ch.4, §2.4, POc _*lali(c,t)_ 'buttress roots' is reconstructed. This is a reflex of PMP
+_*dalij_, but the first consonant has undergone assimilation to the second in POc: the expected
+(but unattested) POc form would be _†*ralic_.
 
      When historical linguists compile cognate sets they commonly retain word for word the
 glosses given in the sources from which the items are taken. However, again in the interests
@@ -1049,19 +1049,19 @@ meaning is just a little too different from the rest of the set for us to assume
 than eliminate them our authors often include them below the cognate set under the rubric
 'cf. also'.
 
-
-[23] Another convention sometimes used for this purpose is a double asterisk, e.g. **wao: we prefer the dagger
+[23] Another convention sometimes used for this purpose is a double asterisk, e.g. _**wao_: we prefer the dagger
 on aesthetic grounds.
 
 22    Malcolm Ross, Andrew Pawley and Meredith Osmond
+
 
 1.5 Data sources and conventions specific to this volume
 
 1.5.1 Cognate sets and reconstructions
 
 As explained in §4.1, a cognate set is almost always headed by a reconstruction for the
-highest-order Oceanic protolanguage that the set allows us to infer. In this volume these re-
-constructions are mostly for Proto Oceanic, Proto Western Oceanic, Proto Eastern Oceanic
+highest-order Oceanic protolanguage that the set allows us to infer. In this volume these
+reconstructions are mostly for Proto Oceanic, Proto Western Oceanic, Proto Eastern Oceanic
 or Proto Remote Oceanic, and less often for Proto Southern Oceanic or Proto Central Pacific.
 Since Oceanic speakers spread across the Pacific from the Bismarck Archipelago to Fiji with
 remarkable speed, reconstructions at any of these interstages are likely to be early. Proto
@@ -1075,16 +1075,14 @@ PSOc term that has not survived in southern Vanuatu and New Caledonia.
      Proto Polynesian and Proto Micronesian terms that are not reconstructable to an earlier
 interstage are not given here, partly because they are likely to represent significantly later
 developments than the interstages enumerated in the previous paragraph, and partly because
-they are available elsewhere (Proto Polynesian in POLLEX and Proto Micronesian in Bender
-et al. 2003).
+they are available elsewhere (Proto Polynesian in POLLEX and Proto Micronesian in Bender et al. 2003).
 
      Lower-order reconstructions are also given within a cognate set in certain circumstances.
-If a term has undergone formal change or has been reapplied to a different plant at a par-
-ticular point in its history, then a reconstruction is given for the relevant interstage. Also
+If a term has undergone formal change or has been reapplied to a different plant at a particular
+point in its history, then a reconstruction is given for the relevant interstage. Also
 often included are Proto Southern Vanuatu reconstructions from Lynch (2001c, 2004a), as
 the phonological histories of Southern Vanuatu languages are far from transparent and the
 reconstruction often helps to illuminate the cognacy of SV items.
-
 
 
 1.5.2 Botanical and ethnographic information and vernacular names
@@ -1094,11 +1092,11 @@ listed in Appendix 1 after general data sources. Four works which provide Austro
 names in non-Oceanic languages have been of particular use in the search for cognates which
 allow the reconstruction of higher-order (PCEMP and PMP) plant names. These works are:
 
-__ul__
-     • A dictionary of Philippine plant names by Domingo A. Madulid (= Madulid 2001a, Madulid 2001b);
-     • De nuttige plan ten van I ndonesiif [The useful plants of Indonesia] by K. Heyne (= Heyne 1950): this is a catalogue of the useful plants oflndonesia, and includes indigenous plant names from various Indonesian languages of Indonesia;
-     • Dictionary of M anggarai plant names by Jilis A.J. Verheijen (= Verheijen 1982);
-     • Dictionary of plant names in the Lesser Sunda Islands by Jilis A.J. Verheijen (= Verheijen 1990).
+__block__
+- _A dictionary of Philippine plant names_ by Domingo A. Madulid (= Madulid 2001a, Madulid 2001b);
+- _De nuttige plan ten van Indonesë_ [The useful plants of Indonesia] by K. Heyne (= Heyne 1950): this is a catalogue of the useful plants oflndonesia, and includes indigenous plant names from various Indonesian languages of Indonesia;
+- _Dictionary of Manggarai plant names_ by Jilis A.J. Verheijen (= Verheijen 1982);
+- _Dictionary of plant names in the Lesser Sunda Islands_ by Jilis A.J. Verheijen (= Verheijen 1990).
 
 
                                                                            Introduction    23
@@ -1108,27 +1106,24 @@ Certain works which catalogue plants and give information about their forms, hab
 uses have been consulted over and over again, as will be obvious from the recurrence of
 certain references. They are:
 
-__ul__
-    • Flora of the Bismarck Archipelago for naturalists by P.G. Peekel (= Peekel 1984),
-      translated by E.E. Henty from the unpublished German manuscript Illustrierte Flora
-      des Bismarck-Archipelsfiir Natuifreunde, compiled by Peekel in New Ireland during the 1930s and completed at Vunapope (Gazelle Peninsula, New Britain) in 1947.
-    • A guide to the useful plants of Solomon Islands by C.P. Henderson and I.R. Hancock
-      (= Henderson & Hancock 1988)
-    • Na masu'u 'i Kwara'ae-Our forestofKwara'ae by Michael Kwa'ioloa and Ben Burt
-      (= Kwa'ioloa & Burt 2001)
-    • K iladi oro vivineidi ria tingitonga pa idere oro pa goana paMarovo-Reef and rainfor-
-      est: An environmental encyclopaedia of M arovo Lagoon, Solomon I stands by Edvard
-      Hviding (= Hviding 2005)
-    • Some common trees of the New Hebrides and their vernacular names by Sheila Gowers
-      (= Gowers 1976)
-    • A guide to the common trees of Vanuatu: With lists of their traditional uses and ni-
-      Vanuatu names by J.I. Wheatley (= Wheatley 1992)
+__block__
+- _Flora of the Bismarck Archipelago for naturalists_ by P.G. Peekel (= Peekel 1984),
+  translated by E.E. Henty from the unpublished German manuscript _Illustrierte Flora des Bismarck-Archipels für Natuifreunde_, compiled by Peekel in New Ireland during the 1930s and completed at Vunapope (Gazelle Peninsula, New Britain) in 1947.
+- _A guide to the useful plants of Solomon Islands_ by C.P. Henderson and I.R. Hancock
+  (= Henderson & Hancock 1988)
+- _Na masu'u 'i Kwara'ae - Our forest of Kwara'ae_ by Michael Kwa'ioloa and Ben Burt
+  (= Kwa'ioloa & Burt 2001)
+- _Kiladi oro vivineidi ria tingitonga pa idere oro pa goana pa Marovo-Reef and rainforest: An environmental encyclopaedia of Marovo Lagoon, Solomon Islands_ by Edvard
+  Hviding (= Hviding 2005)
+- _Some common trees of the New Hebrides and their vernacular names_ by Sheila Gowers
+  (= Gowers 1976)
+- _A guide to the common trees of Vanuatu: With lists of their traditional uses and ni-Vanuatu names_ by J.I. Wheatley (= Wheatley 1992)
 
 All six works contain vernacular plant names. Since the Bismarck Archipelago is central to
 the study of POc plant names, it is a pity that there is no modern work dealing with the plants
-of the region parallel to, say Henderson & Hancock (1988) for the Solomons or Wheatley
-(1992) for Vanuatu. The Guide to the trees of Papua New Guinea website (Conn & Damas
-2006) has been helpful, but still has many gaps in its coverage of the Bismarck Archipelago.
+of the region parallel to, say Henderson & Hancock (1988) for the Solomons or Wheatley (1992)
+for Vanuatu. The _Guide to the trees of Papua New Guinea_ website (Conn & Damas 2006) has been
+helpful, but still has many gaps in its coverage of the Bismarck Archipelago.
 Peekel's coverage is excellent and includes all plants (even seagrasses). Indeed his coverage
 is considerably better than that of either Henderson & Hancock (1988), which covers 'useful
 plants', or Wheatley (1992), which is restricted to trees. The ethnobotanical works on the
@@ -1138,23 +1133,23 @@ this is balanced by rather thin information about many plants.
     Pacific food plants have a literature of their own, and here three works were extensively
 consulted in addition to those listed above:
 
-__ul__
-    • Les plantes alimentaires de I' Oceanie: origines, distribution et usages [Food plants of Oceania: origins, distribution and uses] by Jacques Barrau (= Barrau 1962)
-    • Food plants of Papua New Guinea by Bruce R. French (= French 1986)
-    • Fruits of Oceania by Annie Walter and Chanel Sam (= Walter & Sam 2002)
+__block__
+- _Les plantes alimentaires de l'Oceanie: origines, distribution et usages_ [Food plants of Oceania: origins, distribution and uses] by Jacques Barrau (= Barrau 1962)
+- _Food plants of Papua New Guinea_ by Bruce R. French (= French 1986)
+- _Fruits of Oceania_ by Annie Walter and Chanel Sam (= Walter & Sam 2002)
 
 Of these only the last provides vernacular terms, with a strong bias towards Vanuatu.
 
 
 1.5.3 Scientific plant names
 
-The scientific names of plants are a minefield for the non-botanist, as there are often syn-
-onyms and the accepted name for a plant may change over time. In order to keep track of
+The scientific names of plants are a minefield for the non-botanist, as there are often synonyms
+and the accepted name for a plant may change over time. In order to keep track of
 synonyms frequent use was made of the International plant names index (IPNI = IPNI 2004)
 and the Australian plant names index (APNI = APNI 1991).
 
-    Linnaean families have undergone recent changes. For present purposes the most im-
-portant is that Leguminosae are subdivided into Cisalpiniaceae (formerly Cisalpinioideae),
+    Linnaean families have undergone recent changes. For present purposes the most important
+is that Leguminosae are subdivided into Cisalpiniaceae (formerly Cisalpinioideae),
 Fabaceae (formerly Papilionatae) and Mimosaceae (formerly Mimosoideae). Other changes
 relevant here are that Gramineae (grasses) are now Poaceae, and Palmae are now Arecaceae.
 
@@ -1166,11 +1161,14 @@ relevant here are that Gramineae (grasses) are now Poaceae, and Palmae are now A
 Wherever plant names in English and/or one of the three major Pacific pidgins are available,
 they are included in the section titles in chapters 5 to 13. Names in the three pidgins are
 marked with an abbreviation. Together with major sources of names, these are:
-TP: Tok Pisin (New Guinea pidgin), Mihalic (1971), French (1986)
-P: Pijin (Solomons pidgin), Jourdan (2002)
-B: Bislama (Vanuatu pidgin), Gowers (1976), Wheatley (1992), T. Crowley (1995)
+
+__block__
+- TP: Tok Pisin (New Guinea pidgin), Mihalic (1971), French (1986)
+- P: Pijin (Solomons pidgin), Jourdan (2002)
+- B: Bislama (Vanuatu pidgin), Gowers (1976), Wheatley (1992), T. Crowley (1995)
+
 The pidgin names are given to help some readers to recognise the plant under discussion. In
-Papua New Guinea it is common for both indig1;:nous people and expatriates to know a plant
+Papua New Guinea it is common for both indigenous people and expatriates to know a plant
 by its Tok Pisin name but to know neither an English nor a scientific name. The situation is
 presumably similar in the Solomon Islands and Vanuatu.
 
@@ -1213,12 +1211,10 @@ book into chapters. Ideally the classification should be one which has some basi
 terminologies, since the reconstruction of these terminologies is what we are about. Some
 obvious ways of classifying Oceanic plants are:
 
+__block__
 a. by use;
-
 b. by ethnobotanical category;
-
 c. by vegetation habitat;
-
 d. by whether the plant is wild, tended or cultivated.
 
 26   Malcolm Ross
@@ -1238,8 +1234,8 @@ the 140 species have a mean of 7.3 uses each, the coconut palm having the maximu
 with 113 species out of 140 being used medicinally. Sixty species provided construction
 timber (including 54 out of 62 tree species). Thirty-four species were used in canoe- or
 boat-building (including 30 tree species). Fifty-one species were used as firewood (including 43
-tree species). Thirty species provided dyes. Twenty-eight were used in making fishing equip-
-ment. And so on. The picture presented by Powell (1976) for New Guinea is similar.
+tree species). Thirty species provided dyes. Twenty-eight were used in making fishing equipment.
+And so on. The picture presented by Powell (1976) for New Guinea is similar.
 
     There is a vast literature on the medicinal uses of plants in Oceanic societies, but no attempt
 is made to review it in the pages of this book. Many plants have many different medicinal
@@ -1261,7 +1257,7 @@ A classification on this basis is certainly possible, but, as Evans points out, 
 categories like palms (ch.3, §4.3), 'clumps', bamboos, ferns and pandanus (ch.3, §4.8) which
 may or may not have been counted as _*kayu_ by POc speakers. Thus there were quite possibly
 a number of fairly small first-order categories in addition to the five for which Evans is able
-to reconstruct labels above. Candidates are *qauR, generic for bamboos (ch. 13, §3 .1), and
+to reconstruct labels above. Candidates are *qauR, generic for bamboos (ch. 13, §3.1), and
 _*padran_, generic for pandanus species as well as denoting the coastal pandanus,
 _Pandanus tectorius_ (ch.11, §2.5.1).
 
@@ -1287,12 +1283,12 @@ which have as a partial basis the ingredients of a typical Oceanic meal, describ
 plants are cultivated.
 
     Wild plants are then divided primarily by vegetation habitat: coastal strand vegetation,
-mangrove swamp, primary lowland rain forest, and secondary lowland rain forest and grass-
-land. This has the virtue of placing plants in their environments and in relationship to one
+mangrove swamp, primary lowland rain forest, and secondary lowland rain forest and grassland.
+This has the virtue of placing plants in their environments and in relationship to one
 another within the environment. Oceanic languages have names for types of location (even
 though the reconstruction of POc names for them is somewhat problematic, partly because
-the best described Oceanic environments are rather different from one another: see vol.2,
-ch.3, §1), and we can assume that this arrangement is at least not radically at odds with POc
+the best described Oceanic environments are rather different from one another: see vol.2, ch.3, §1),
+and we can assume that this arrangement is at least not radically at odds with POc
 speakers' conceptualisations of their environment,
 
     Food plants are divided first into the two major categories of the POc menu: _*kanaŋ_
@@ -1302,25 +1298,18 @@ palm. The last is treated in a separate chaplter because of the complexity of it
 terminology. A further chapter treats plants that are cultivated, but not primarily for food.
 
     The two chapters following this one, chapters 3 and 4, are by Bethwyn Evans, who treats
-the POc primary ethnobotanical classification and POc terms for parts of plants. The remain-
-ing chapters follow the outline just provided:
+the POc primary ethnobotanical classification and POc terms for parts of plants. The remaining
+chapters follow the outline just provided:
 
+__block__
    5. plants of the coastal strand
-
    6. plants of the mangrove swamp
-
    7. plants of primary lowland rain forest
-
    8. plants of secondary lowland rain forest and grassland
-
    9. staple food sources
-
   10. green vegetables
-
   11. nut and fruit trees
-
   12. the coconut palm
-
   13. other cultivated plants
 
     The placing of plants in the first four of these chapters is at times a little arbitrary, as the
@@ -1337,25 +1326,19 @@ trees form part of the overall agroforestry systems of NW Island Melanesian soci
 
 28    Malcolm Ross
 
-
 2.3 Vegetation habitats in NW Island Melanesia
 
 Five natural vegetation habitats are recognised by botanists in NW Island Melanesia. The
 types and their descriptions are drawn mainly from Mueller-Dombois & Fosberg (1998: 50--72).[2]
 Four of these are:
 
+__block__
  1. coastal strand vegetation:
-
-      a) herbaceous zone
-
-      b) beach scrub
-
-      c) littoral forest
-
+    a) herbaceous zone
+    b) beach scrub
+    c) littoral forest
  2. mangrove forest
-
  3. freshwater swamp forest
-
  4. primary lowland rain forest
 
 The fifth is the montane rain forest of New Britain, New Ireland and Bougainville, but this
@@ -1364,10 +1347,9 @@ this volume.
 
     In addition there are three anthropogenic vegetation habitats:
 
+__block__
  1. garden vegetation
-
  2. secondary lowland rain forest
-
  3. grassland
 
     These vegetation habitats are briefly described below, each with a listing of the species
@@ -1389,8 +1371,8 @@ slope with a herbaceous cover of creeping plants such as Ipomoea pes-caprae, Can
 sedges, including Thuarea involuta.
 
 [2] Descriptions of regional vegetation habitats are common in the botanical literature on the Pacific islands. One
-of the earliest (and surprisingly comprehensive) is Warburg (1899). Others include Barrau (1955), Paijmans
-(1976) and Mueller-Dombois & Fosberg (1998: 59). I have mostly followed the last, as it treats NW Island
+of the earliest (and surprisingly comprehensive) is Warburg (1899). Others include Barrau (1955),
+Paijmans (1976) and Mueller-Dombois & Fosberg (1998: 59). I have mostly followed the last, as it treats NW Island
 Melanesia as a separate floristic region and subdivides it into the Bismarcks, Bougainville and the Solomons.
 Paijmans (1976) sometimes provides significant additional detail, but he writes about 'New Guinea' without
 distinguishing between the mainland as a whole and the Bismarcks and Bougainville.
@@ -1420,7 +1402,8 @@ littoral forest borders immediately on the beach, and Barringtonia asiatica pred
 On coral islands where mixed littoral forest covers the whole island, the forest may include
 Diospyros, Myristica and Rhus species. In the Solomons the lower storey includes
 Diospyros species, Ficus austrina, Hibiscus tiliaceus, Kleinhovia hospita, Morinda citrifolia
-and Premna corymbosa (Paijmans 1976:29-20, Henderson & Hancock 1988:321, Mueller-Dombois & Fosberg 1998: 50, 59, 70).
+and Premna corymbosa (Paijmans 1976:29-20, Henderson & Hancock 1988:321,
+Mueller-Dombois & Fosberg 1998: 50, 59, 70).
 
      As Barrau (1955: 17) notes, in many areas the littoral forest has been replaced by coconut
 palms.
@@ -1443,12 +1426,12 @@ Inocarpus fagifer are also common lowland rain forest and swamp forest trees.
 The more landward mangrove forest is more open and has an undergrowth of shrubs and
 low-stature trees including Dolichandrone spathacea and Myristica hollrungii. The Nypa fruticans
 palm also grows on the landward side of estuarine swamps (Paijmans 1976: 31-34,
-Mueller-Dombois & Fosberg 1998:50--5 1).
+Mueller-Dombois & Fosberg 1998:50--51).
 
     In the Solomons Lumnitzera littorea, Ceriops tagal and Dolichandrone spathacea occur
 towards the landward border of the mangrove forest. Inland of these are Sonneratia species
 and Xylocarpus granatum and as the ground becomes less saline Calophyllum inophyllum,
-Fagraea racemosa, Heritiera littoralis,Intsia bijuga and Pandanus species, with an understorey
+Fagraea racemosa, Heritiera littoralis, Intsia bijuga and Pandanus species, with an understorey
 of ferns and the shrub Acanthus ebracteatus (Henderson & Hancock 1988: 319).
 
 30    Malcolm Ross
@@ -1463,8 +1446,8 @@ large tracts of freshwater swamp forest are found in Bougainville and the Solomo
 are few and small in the Bismarcks: there are patches on the north coast of New Britain, two
 deltas in the south of New Ireland, and a small amount (about 7%) on Manus Island and Los
 Negros (Paijmans 1976:37-48, Mueller-Dombois & Fosberg 1998:51-52,60,71, Freyne & Bell 1982).
-Since the homeland of POc speakers was quite clearly in the Bismarcks, no chap-
-ter in the present volume is devoted to freshwater swamp forest. The trees characteristic of
+Since the homeland of POc speakers was quite clearly in the Bismarcks, no chapter in the
+present volume is devoted to freshwater swamp forest. The trees characteristic of
 this habitat are in any case all found elsewhere, usually in lowland rain forests.
 
 2.3.1.4 Primary lowland rain forest
@@ -1478,8 +1461,8 @@ along with Eucalyptus deglupta.
  35 m, and other genera include Alstonia, Celtis, Cryptocarpus, Dysoxylum Elaeocarpus and
 Sterculia. The understorey in Bougainville includes trees of the genera Diospyros, Garcinia,
 Gnetum, Myristica, Syzygium and palms of the genera Areca, Caryota and Licuala, as well
-as bamboos, tree ferns (Cyathea) and Pandanus (Paijmans 1976:64-65, Mueller-Dombois
-& Fosberg 1998: 60--61).
+as bamboos, tree ferns (Cyathea) and Pandanus (Paijmans 1976:64-65,
+Mueller-Dombois & Fosberg 1998: 60--61).
 
      Lowland tropical rain forests are more species-rich than other kinds of vegetation but
  nonetheless grow poorer as one moves southeastward. In the Solomons there are twelve
@@ -1511,7 +1494,7 @@ Lapita villages were apparently typically located on or immediately behind the b
 many modern villages in the Bismarcks still are. When a contemporary village is on the beach,
 however, the gardens often lie a distance away in the rainforest, sometimes in the submontane
 foothills. Villagers in rain forest areas of NW Island Melanesia typically follow a system
-which has been labelled 'bush fallowing rotaltion'. The forest is cleared, the garden is planted
+which has been labelled 'bush fallowing rotation'. The forest is cleared, the garden is planted
 and harvested for about a year, then left fallow for 10--15 years. During the first two years of
 the fallow period, some crops continue to be harvested from the garden. Typically a family is
 entitled to use a number of garden plots which have been cleared by earlier generations and
@@ -1539,7 +1522,7 @@ coconut palms (chapter 12).
 Henderson & Hancock (1988: 323) give an account of the regrowth sequence in the Solomons.
 Secondary rain forest trees tend to be more light-demanding species, which include Acalypha grandis,
 Alphitonia incana, Hibiscus tiliaceus, Macaranga species, Melochia umbellata, Pipturus argenteus
-and Schleinitzia novo-guineensis, alongside planted species of M usa and Heliconia.
+and Schleinitzia novo-guineensis, alongside planted species of Musa and Heliconia.
 As the fallow progresses, they lose their dominance to species typical of older regrowth
 such as Falcataria moluccana, Cananga odorata, Ficus species, Kleinhovia hospita,
 Rhus taitensis and Trichospermum psilocladum, along with the breadfruit and the mango and
@@ -1555,7 +1538,7 @@ Hibiscus tiliaceus, and species of Macaranga and Ficus (Mueller-Dombois & Fosber
 Important secondary growth is dominated by species of Glochidion, Macaranga and Mallotus,
 along with species of Trema, Alphitonia, Casuarina, Trichospermum
 and Hibiscus, and the species Leucaena leucocephala, Kleinhovia hospita,
-Paraserianthes falcataria, M elanolepis multiglandulosa and Burckella obovata. There are also
+Paraserianthes falcataria, Melanolepis multiglandulosa and Burckella obovata. There are also
 primary forest trees that have not been removed: Canarium and Barringtonia species, breadfruit and
 Pangium edule. In older secondary forest Cananga, Endospermum, Canarium, Euodia, Laportea
 and Sterculia occur (Paijmans 1976: 59).
@@ -1597,7 +1580,7 @@ Syzygium malaccense, S. aqueum, Terminalia catappa and T. kaernbachii (A. Walter
 trees are usually individually owned and tended where they have grown in the forest, either
 naturally or from planted suckers. Forest growth is cleared away from around the base of
 the breadfruit tree, and it may be fenced. Breadfruit seedlings are often also transplanted to
-village areas and older plants may be propagated by planting-depending on location-seeds,
+village areas and older plants may be propagated by planting - depending on location - seeds,
 root cuttings or suckers.[4] In the Solomons most canarium trees are planted near villages, but
 some grow wild. Terminalia catappa and T. kaernbachii are also often planted, whilst other
 Terminalia species with edible kernels (T. copelandii, T. impediens) are harvested from the
@@ -1668,15 +1651,15 @@ orchard rather than the whole system of plant cultivation including garden, orch
 
 
      LeBlanc (2002) argues that for a population to adopt agriculture, it is necessary for it
-already to be sedentary. IfNW Island Melanesian populations encountered by arriving Austronesian
+already to be sedentary. If NW Island Melanesian populations encountered by arriving Austronesian
 speakers in New Britain, New Ireland, Manus, Buka and Bougainville did not already
 practise agriculture, they were almost certainly sedentary and would probably have
 shifted fairly rapidly to agriculture. The language map of New Britain, New Ireland and the
 Solomons offers circumstantial support for a hypothesis that these populations either did
 not have agriculture or were agriculturally inferior to the new arrivals. There are today tiny
 scattered groups each speaking its own Papuan language, surrounded by numerous Oceanic
-languages, a number of which show signs of Papuan influence in their phonology or gram-
-mar.[6] The implication of this linguistic geography is that there were once far more Papuan
+languages, a number of which show signs of Papuan influence in their phonology or grammar.[6]
+The implication of this linguistic geography is that there were once far more Papuan
 languages in NW Island Melanesia, but as their populations adopted agricultural practices
 from their Austronesian-speaking neighbours they also adopted their languages.
 
@@ -1697,7 +1680,7 @@ This is of course not direct evidence of Lapita tree-tending, but it is direct
 evidence that canarium nuts in particular were an important item of consumption among
 POc speakers. Kirch (1989) found circumstantial evidence for arboriculture in a Lapita assemblage
 on Mussau Island which included shells of Aleurites moluccana, Burckella, Canarium, coconut,
-Spondias cytherea, and Terminalia, peri carp of I nocarpus fagifer and seeds of Pometia pinnata.
+Spondias cytherea, and Terminalia, pericarp of Inocarpus fagifer and seeds of Pometia pinnata.
 
     We cannot take it for granted that agriculture in the POc period was the same as it is today,
 but there is reasonable evidence that it was not very different. Presumably the area of forest
@@ -1712,16 +1695,15 @@ broke up into daughter-languages.
 POc had terms denoting the contrast between land with natural primary vegetation and land
 cleared for gardening:
 
-- _*qutan_ 'bushland, hinterland; inland' (vol.1, ch.5, §3.3; vol.2, ch.3, §5.1 and ch.8,
-       §2.2.1)
-
+__block__
+- _*qutan_ 'bushland, hinterland; inland' (vol.1, ch.5, §3.3; vol.2, ch.3, §5.1 and ch.8, §2.2.1)
 - _*quma_ 'garden; to clear land for a garden' (vol.1, ch.5, §3.1)
 
                                                            Introducing Proto Oceanic plant names                35
 
 
 In a few languages the reflex of _*qutan_ means 'garden' (Mussau _utana_, Banoni _ɣitana_, Tolo
-_uta_, Nese _na-ut_), a seemingly odd reversal of meaning-odd until one recognises that a secondary
+_uta_, Nese _na-ut_), a seemingly odd reversal of meaning - odd until one recognises that a secondary
 sense of _*qutan_ was 'inland' (vol.2, ch.8, §2.2.1), itself a natural outcome of the fact
 that the bush is always inland in relation to a coastal village. Since gardens were also inland
 from a coastal village, and sometimes quite a distance inland, the inference that _*qutan_ is a
@@ -1731,19 +1713,19 @@ metonymous term for 'garden' entails only a small jump.
 fallow land, land returning to secondary growth' (vol.1, ch.5, §3.1; vol.2, ch.3, §5.1).
 
     The term _*qutan_ appears to have denoted uncultivated land in general, whether it was
-_*talu(n),_ land returning to secondary growth after cultivation, or bushland that had never been
+_*talu(n)_, land returning to secondary growth after cultivation, or bushland that had never been
 brought under cultivation. The term for the latter appears to have been POc _*[waRu]waRu-_
 'appears' because there are phonological problems in the data. On one hand Misima, Proto
 Malaita-Makira and PPn all reflect the reconstructed form regularly, assuming that final _*-o_
 of PPn _*wao_ reflects assimilation. On the other hand PMic medial _*-l-_ reflects POc *-l-, not
-_*-R-_. This irregularity is unexplained, but cannot be dismissed too lightly, as Proto Malaita-
-Makira _*[walu]walu_ could also reflect a form with POc _*-l-_. I reconstruct POc _*[waRu]waRu_
+_*-R-_. This irregularity is unexplained, but cannot be dismissed too lightly, as Proto Malaita-Makira
+_*[walu]walu_ could also reflect a form with POc _*-l-_. I reconstruct POc _*[waRu]waRu_
 because this explains a larger range of reflexes, but further data might lead to a revision.[7]
 
-[7] Gela ao may not be cognate, as the expected Gela form is t walu .
+[7] Gela _ao_ may not be cognate, as the expected Gela form is †_walu_.
 
 <
-POc *[waRu]waRu (?)'primary forest' (French-Wright 1983: *wao)[8]
+POc *[waRu]waRu (?)'primary forest' (French-Wright 1983: _*wao_)[8]
  PT:  Misima        walu-walu     'the bush'
 Proto Malaita-Makira *[walu]walu  'the world; uncultivated bush'
  SES: Kwaio         kʷalu         'unusable bush'
@@ -1766,7 +1748,7 @@ PMic *walu 'vegetation, forest' (Bender et al. 2003)
 >
 
 [8] This set is repeated in part from vol.1, ch.5, §3 .3 and vol.2, ch.3, §5 .1, where
-PEOc *wao 'forest' was reconstructed, following French-Wright (1983).
+PEOc _*wao_ 'forest' was reconstructed, following French-Wright (1983).
 
 36    Malcolm Ross
 
@@ -1779,11 +1761,10 @@ and the three terms reconstructed in vol.2, ch.3, §5.2, denoting swamps. As we 
 have no principled way of determining which te:rm(s) denoted mangrove swamps and which
 freshwater swamps.
 
-- POc *[dr,r]ano 'lake, swamp'
-
-- POc *pʷaca     'swamp'
-
-- POc *[g,k]opu  'pond, lagoon, swamp'
+__block__
+- POc _*[dr,r]ano_ 'lake, swamp'
+- POc _*pʷaca_     'swamp'
+- POc _*[g,k]opu_  'pond, lagoon, swamp'
 
     A minor piece of evidence that POc speakers recognised a division between wild and
 cultivated varieties of plants is that wild plant names are sometimes fully reduplicated forms
@@ -1804,13 +1785,13 @@ possible in communities without clay pots: a stone was heated in the fire and dr
 a container of water. Such containers might be (watertight) leaf baskets, a wooden bowl, a
 ground out rock or a large shell. Since boiling with such utensils can still be observed in parts
 of NW Island Melanesia, there is good reason to think that it occurred traditionally. Food was
-presumably also roasted in the fire or baked over it or-on special occasions-steamed in an
+presumably also roasted in the fire or baked over it or - on special occasions - steamed in an
 earth oven (for food preparation methods, see vol.1, ch.6).
 
 The lexicons of Oceanic languages usually distinguish two main categories of ingredient:
 
+__block__
 - starchy staples, including yams, taro, sweet potatoes and other root crops, cooking bananas and breadfruit;
-
 - the additional ingredients: coconut milk, leafy vegetables and protein foods (meat, fish, shellfish).
 
 Barrau (1955: 44) remarks on the existence of this division in New Caledonia, and translates
@@ -1848,11 +1829,11 @@ __tablenh__
 VERBS |  _-a             | 'eat' (POc _*kani_)
       |  _-a-kʷayakʷaya_ | 'eat meat alone' (_kʷayakʷaya-_ 'white ')
       |  _-kuda-taʔula_  | 'eat starchy vegetables and meat together'[10]
-v & N | _[-]onanaga_     | 'crave for meat' (v); 'craving for meat' (N)
+v&N   | _[-]onanaga_     | 'crave for meat' (v); 'craving for meat' (N)
 NOUNS |  _aʔa_           | 'food (generic), cultivated crops'
       |  _kevakeva_      | 'meat and fish, protein food'
 
-[10] _-kuda_ chew, __taʔula__ 'banana leaf under food', the latter presumably a reference to
+[10] _-kuda_ chew, _taʔula_ 'banana leaf under food', the latter presumably a reference to
 the fact that vegetables and meat are eaten together at features where food is laid out on banana leaves.
 
 : __Patpatar__ (MM) (Condra n.d.)
@@ -1867,7 +1848,7 @@ NOUNS |  _ni-an_       | 'food' (_ni-_ NOMINALISER)
 : __Sursurunga__ (MM) (Hutchisson n.d.)
 
 __tablenh__
-VERBS | _ani_, _ŋani_ | 'eat' (VT) (POc *kani)
+VERBS | _ani_, _ŋani_ | 'eat' (VT) (POc _*kani_)
 NOUNS | _namnam_    | 'food'
       | _gemnai_    | 'eat (s.t.) as an accompaniment to starchy food'
       | _balbal_    | 'starchy food, root vegetables'
@@ -1894,7 +1875,7 @@ VERBS | _ŋau_              |     'eat' (vT) (POc _*ŋau_ 'gnaw, chew')
       |  _ʔonari_          |      'eat only fish'
       |  _ŋau-bʷara-bʷara_ | 'eat one thing with relish' (_bʷara-bʷara_ 'fern sp.')
       |  _mamu_            |      'eat two kinds of food together'
-      |    _ŋau-kokona_    |    'eat only greens' (kokona 'smooth, slippery')
+      |    _ŋau-kokona_    |    'eat only greens' (_kokona_ 'smooth, slippery')
 NOUNS | _hinaŋa_           |    'starchy foods'
 
 : __Anejom__ (SV) (Lynch 2001a)
@@ -1902,10 +1883,10 @@ NOUNS | _hinaŋa_           |    'starchy foods'
 __tablenh__
 VERBS | _ɣiñ_        |  'eat' (vT) (POc *kani)
       |  _haŋ_       | 'eat' (vi) (POc *paŋan)
-      |  _topʷ-haŋ_  | 'eat starch without additions' (topw'just, merely, only')
+      |  _topʷ-haŋ_  | 'eat starch without additions' (_topʷ_ 'just, merely, only')
       |  _leɣleɣ_    |  'eat meat or fish without starch'
 N& v  |  _aθepyañ_  |  'eat meat or fish with taro' (vi, vT); 'meat or fish eaten with taro' (N)
-NOUNS | _in-haŋ_     |  'food, meal' (POc *paŋan)
+NOUNS | _in-haŋ_     |  'food, meal' (POc _*paŋan_)
       |  _ni-tai-ɣiñ_ | 'food (generic)' (lit. ART-thing-eat) (POc _*kani_)
       |  _ni-tai-haŋ_ | 'food (generic)' (lit. ART-thing-eat) (POc _*paŋan_)
 
@@ -1930,7 +1911,7 @@ VERBS | _kɨmɨs_  |   'eat'
       | _kʌfa_  |   'eat'
       | _kiyɔyɔi_| 'eat one kind of food without side dish'
       | _kokɒɛk_ | 'eat main dish without side dish'
-V&N   | _moŋo_     |'eat' (v); 'food' (N) (PMic *mʷaŋau 'eat (staple food)' (v); 'staple food' (N))
+V&N   | _moŋo_     |'eat' (v); 'food' (N) (PMic _*mʷaŋau_ 'eat (staple food)' (v); 'staple food' (N))
       | _ɛnʌt_   |     'eat a side dish of (s.t.)' (v); 'side dish' (N)
 NOUNS | _kiyɔyɔ_ |   'one kind of food eaten without side dish; naked'
       | _ɛnte_  |     'side-dish'
@@ -2004,8 +1985,8 @@ fish or meat.
     Fewer languages appear to have terms referring to eating leafy vegetables alone. Ramoaaina
 _odo_ and Arosi _ŋau-kokona_ are the only instances found in a survey of Oceanic dictionary
 sources. In Ross (1996d) I distinguished two categories of meal ingredient, starchy staples
-and leafy greens. With more dictionary data, it has become clear that the primary categori-
-sation of meal ingredients is into starch and additional ingredients, and that leafy vegetables
+and leafy greens. With more dictionary data, it has become clear that the primary categorisation
+of meal ingredients is into starch and additional ingredients, and that leafy vegetables
 are a subcategory of 'additional ingredients'.
 
     The ubiquitousness of verbs and nouns which presuppose the 'starchy food' (§6.1) and
@@ -2021,13 +2002,13 @@ are rarely exhaustive, sometimes referring to yams, sometimes to taro, sometimes
 root crops in general. This is, of course, often due to variations in the staples consumed from
 one area to another: taro is grown in wetter regions, yams in drier areas, and breadfruit on
 atolls. For New Guinea Bourke (in preparation) lists Colocasia taro, yams (Dioscorea esculenta
-and D. alata ), banana and sago as the most important staple foods before the arrival
+and D. alata), banana and sago as the most important staple foods before the arrival
 of the sweet potato. An early botanical account suggests that taro, some yam species, bananas
 and breadfruit probably formed the traditional staple foods of Pacific islanders
 (Guppy 1906: 412-415). Pawley & Sayaba (2003) define Wayan _maŋiti_ as including the staples
 bananas and breadfruit as well as root crops, and knowledge of Oceanic eating habits justifies
 assuming definitions of this kind of breadth for the corresponding terms in many Oceanic
-languages. The sago palm is included with othrr staples in chapter 9 because it serves as a
+languages. The sago palm is included with other staples in chapter 9 because it serves as a
 staple in some Oceanic societies and as a famine food in others.
 
     Two POc forms are reconstructed with the probable meaning 'starchy food' and hypernymously
@@ -2116,8 +2097,8 @@ when the erstwhile base, e.g. _*kan_, was a monosyllable. As a result, the forms
 have the base _*kani_, which never co-occurred with a nominalising affix in PAn and PMP.
 
      Several reflexes of POc _*kuta_ denote a major staple in the language concerned, either
-banana or yam, suggesting that the POc term denoted 'staple food'. However, it is also pos-
-sible that _*kuta_ was originally a specialised verb of eating, as the Gumawana, Iduna, Gela
+banana or yam, suggesting that the POc term denoted 'staple food'. However, it is also possible
+that _*kuta_ was originally a specialised verb of eating, as the Gumawana, Iduna, Gela
 and Tolo glosses imply.
 
 <
@@ -2179,9 +2160,9 @@ of meat, fish, or sauce' (Bender et al. 2003: 89).
 
 A number of Oceanic languages appear to use prefixes or reduplication in plant names as a
 means of categorising the plant thus named. However, this categorisation is more apparent
-than real. The prefixes described in §7 .1.1 and §7.1.4 and the reduplication described in
+than real. The prefixes described in §7.1.1 and §7.1.4 and the reduplication described in
 §7.2 reflect strategies for creating new plant names rather than direct reference to categories
-of plant. The prefixes described in §7 .1.3 are part of the debris left by an earlier numeral
+of plant. The prefixes described in §7.1.3 are part of the debris left by an earlier numeral
 classifier system.
 
 44    Malcolm Ross
@@ -2192,10 +2173,9 @@ classifier system.
 Three kinds of prefix stand out in the history of some Oceanic plant names reconstructed in
 this book:
 
+__block__
 - prefixes reflecting POc _*kayu_ 'tree, shrub' (§§7.1.1-7.1.2);
-
 - prefixes reflecting POc _*puqu(n)_ 'base of tree; source, origin' and _*raun_ 'leaf (§7.1.3);
-
 - the POc prefix _*mala-_ 'resembling' (§7.1.4);
 
 The first two categories appear at first sight to be rather similar, but the evidence suggests
@@ -2213,28 +2193,28 @@ _a-_ on many, and Patpatar _i-_ on just a few.[17]
 : NNG: Yabem _ka-_:
 
 __tablenh__
-  _ka-toʔ_             |        'mangrove'             |    POc  |     _*toŋoR_        |         ch.6, § 3.1
-  _ka-dada_            |        'k.o. grassland shrub' |    POc  |     _*jajal_         |         ch.l3, §6.4
-  _ka-bʷɛŋ_           |        'ironwood'             |    PWOc |     _*bʷana_         |         ch.7, §4.9
-  _ka-maʔ_             |        'Cordyline sp.'        |    PWOc |     _*mʷa(r,R)ep_    |         ch.l3, §6.2
-  _ka-bɔʔ_             |       'k.o. mangrove tree'    |   PWOc  |    _*baul_           |        ch.6, §2.1
+  _ka-toʔ_             |    'mangrove'             |    POc  |     _*toŋoR_        |         ch.6, § 3.1
+  _ka-dada_            |    'k.o. grassland shrub' |    POc  |     _*jajal_         |         ch.l3, §6.4
+  _ka-bʷɛŋ_           |    'ironwood'             |    PWOc |     _*bʷana_         |         ch.7, §4.9
+  _ka-maʔ_             |    'Cordyline sp.'        |    PWOc |     _*mʷa(r,R)ep_    |         ch.l3, §6.2
+  _ka-bɔʔ_             |   'k.o. mangrove tree'    |   PWOc  |    _*baul_           |        ch.6, §2.1
 
 : PT: Muyuw _a-_:
 
 __tablenh__
-  _a-mʷakot_           |        'Dysoxylum spp.'        |   POc       _*maqota_              |   ch.7, §4.5
-  _a-yayak_            |        'Myristica schleintzii' |   POc       _*(d,r)aRa(q,k)(a,i)_|   ch.7, §5.9
-  _a-gi-gaway_         |        'Ficus tinctoria'       |   POc       _*qayawan_             |   ch.10, §4
-  _a-nag_              |        'Cordia sp.'            |   PWOc      _*nagi_                |   ch.5, §4.1.1
-  _a-simʷal(gayas)_    |        'Glochidion sp.'        |   PWOc      _*ji(m,mʷ)(a,i)R_      |   ch.8, §2.4
-  _a-kobʷow_           |        'Macaranga tanarius'    |   PWOc      _*kobo_                  | ch.7, §2.5
+  _a-mʷakot_           |    'Dysoxylum spp.'        |   POc       _*maqota_              |   ch.7, §4.5
+  _a-yayak_            |    'Myristica schleintzii' |   POc       _*(d,r)aRa(q,k)(a,i)_|   ch.7, §5.9
+  _a-gi-gaway_         |    'Ficus tinctoria'       |   POc       _*qayawan_             |   ch.10, §4
+  _a-nag_              |    'Cordia sp.'            |   PWOc      _*nagi_                |   ch.5, §4.1.1
+  _a-simʷal(gayas)_    |    'Glochidion sp.'        |   PWOc      _*ji(m,mʷ)(a,i)R_      |   ch.8, §2.4
+  _a-kobʷow_           |    'Macaranga tanarius'    |   PWOc      _*kobo_                  | ch.7, §2.5
 
 : MM: Patpatar _i-_:
 
 __tablenh__
-  _i-nas-nas_          |        'Tournefortia argentea' |   POc   |    _*na[su]-nasu_     |       ch.5, §4.1.5
-  _i-walas_            |        'Semecarpus forstenii'  |   POc   |    _*[wa]lasi_        |       ch.7, §6.1.6
-  _i-kon_              |        'Heritiera littoralis'  |  POc    |   _*kayu (ni) qone_   |      ch.6, §4.4
+  _i-nas-nas_          |    'Tournefortia argentea' |   POc   |    _*na[su]-nasu_     |       ch.5, §4.1.5
+  _i-walas_            |    'Semecarpus forstenii'  |   POc   |    _*[wa]lasi_        |       ch.7, §6.1.6
+  _i-kon_              |    'Heritiera littoralis'  |  POc    |   _*kayu (ni) qone_   |      ch.6, §4.4
 
     A simple preliminary hypothesis is that these prefixes label their denotata as members of
 the POc _*kayu_ taxon, 'trees and shrubs' (ch.3, §4.2). But if this were so, we would expect to
@@ -2309,12 +2289,11 @@ grammar. For Wayan Fijian see Pawley & Sayaba (2003) and Gardner & Pawley (2006)
 46    Malcolm Ross
 
 
-
     In two cases, _ʔaisarufi_ and _ʔaininiu_, the tree is named for a resemblance to another plant.
 The tree _ʔaisaliŋa_, literally 'ear tree ', is so named because the leaf has 'ears' at its base. Two
 reasons are given for the name 'monitor lizard tree', _ʔaikame_: its bark is said to be like the
 skin of a monitor lizard, and the monitor lizard is said to take refuge in this tree when it is
-chased by a dog. The 'greybird tree ', _ʔaikusi_, is so named because its leaf bloom is like the
+chased by a dog. The 'greybird tree', _ʔaikusi_, is so named because its leaf bloom is like the
 feathers of a _kusi_ bird.
 
     The most striking feature of Kwara'ae _ʔai-_ is its distribution: it is never prefixed to a reflex
@@ -2347,7 +2326,7 @@ POc     |    _*kapika_        |     'Malay apple'        |   ch.11, §3.7
 PWOc    |    _*kasuwai_       |     'mango'              |    ch.11, §3.4
 PWOc    |    _*kapu(r,R)ik_   |     'k.o. wild melon'    |    ch. l3, §7.4
 POc     |    _*[ka]ŋaRi_      |     'canarium almond'    |   ch.11, §2.1
-POc     |    _*[ka]timun_     |     'cucurbit (generic)' |    ch. l3, §7.4
+POc     |    _*[ka]timun_     |     'cucurbit (generic)' |    ch. 13, §7.4
 
     The inference that _*ka-_ was indeed a prefix is strengthened by the fact that in the last two
 cases there are reflexes of forms with and without _*ka-_, i.e. _*kaŋaRi_ vs _*ŋaRi_, _*katimun_ vs
@@ -2374,8 +2353,8 @@ that 'some large kinds of bushes are marked as trees, but only if they do have a
 central trunk'. This supports her inference that _vu-_ reflects POc _*puqu(n)_ 'base of tree; source,
 origin' (ch. 4, §2.1).
 
-    Contrasting with _vu-_ is the prefix _ra-_ 'leaf of (ROOT)', reflecting POc _*raun_ 'leaf (ch.
-4, §2.5), e.g. _ra-ɣaviɣa_ 'leaf of Malay apple', _ra-ɣatabola_ 'leaf of Dracontomelon vitiense',
+    Contrasting with _vu-_ is the prefix _ra-_ 'leaf of (ROOT)', reflecting POc _*raun_ 'leaf'
+(ch. 4, §2.5), e.g. _ra-ɣaviɣa_ 'leaf of Malay apple', _ra-ɣatabola_ 'leaf of Dracontomelon vitiense',
 _ra-moli_ 'leaf of citrus tree'.
 
     Both prefixes derive countable units. Thus [_vu-_ROOT] means 'a tree of the kind denoted by
@@ -2391,10 +2370,9 @@ from which Tamambo _vu-_ and _ra-_ are derived. In Wayan Fijian we find the cons
 the first. Thus in a phrase like _rau ni kulu_ 'a breadfruit leaf', _kulu_ 'breadfruit' specifies the
 type of _rau_ 'leaf. For example:
 
+__block__
 - _vū_ 'base, bottom' in _vū ni niu_ 'a coconut palm', _vū ni kulu_ 'a breadfruit tree ', _vū ni koka_ 'a Bischofia javanica tree ';
-
 - _rau_ 'leaf' in _rau ni niu_ 'a coconut frond ', _rau ni kulu_ 'a breadfruit leaf', _rau ni koka_ 'a Bischofia javanica leaf;
-
 - _vua_ 'fruit' in _vua ni kulu_ 'fruit of breadfruit tree' (i.e. 'a breadfruit' ).
 
 Like Tamambo _vu-_, Wayan _vū_ 'base, bottom' is used metonymically to refer to whole trees.
@@ -2403,7 +2381,7 @@ _vū ni kai_ 'a tree/shrub ', _rau ni kai_ 'a leaf', _vua ni kai_ 'fruit of tree
 _tiki ni kai_ 'piece of wood, stick' (_tiki_ 'part, piece').
 
     Wayan, like other Fijian languages, here preserves a POc noun phrase construction which
-had a variety offunctions. Sometimes called the 'associative' construction in the literature of
+had a variety of functions. Sometimes called the 'associative' construction in the literature of
 Oceanic linguistics, this construction allowed one noun to be used as an attribute modifying
 another. It had two forms, the choice between them depending on whether the first (head)
 noun was a zero-valency noun or a monovalent noun.[19]
@@ -2431,7 +2409,6 @@ __table__
    units of class  |  _maʔe_     |   _māʔe_   |   …       |  …       |   _*mata qi?_      |   'eye'
    leaves          |  _raʔi_     |   _(gāʔe)_ |   …       |  …       |   _*raun qi_       |   'leaf
    clumps          |  _fiʔi_     |   _fūʔi_   |  _fi_, _fui_   |  _*fu(h)i_ |  PEOc _*pu qi_ (?) |   'clump'
-
 
 
      In the first variant of the construction, the head noun is a zero-valency noun:
@@ -2481,7 +2458,7 @@ and used principally for counting (1934: 7-10). These are listed in Table 2.1 al
 corresponding forms in closely related Kwaio and Lau, the Proto Polynesian classifiers
 reconstructed in POLLEX, and the POc nouns from which they are derived.
 
-     Several of the Kwara'ae classifiers share the form monosyllable + _-ʔi_ or _-?e_. Their
+     Several of the Kwara'ae classifiers share the form monosyllable + _-ʔi_ or _-ʔe_. Their
 common form reflects their shared origin in the POc construction [MONOVALENT NOUN _*qi_ NOUN]
 described above.[20] The likely POc usage from which the classifiers in Table 2.1 are derived
 is illustrated below:[21]
@@ -2497,7 +2474,7 @@ __igt__
 
      Some classifiers did not combine with _*qi_, either because they remained disyllabic or
 because they were derived from zero-valency nouns which instead headed the POc construction
-[ZERO-VALENCY NOUN _*ni_ NOUN] .
+[ZERO-VALENCY NOUN _*ni_ NOUN].
 
      The classifier _faʔi_ is described by Deck as being used to count round, compacted or heaped
 units, but it seems to me that, like reflexes of PMP _*buaq_ / POc _*puaq_ 'fruit' (ch.4, §2.8) in a
@@ -2635,7 +2612,7 @@ denote types of plants not encompassed by these five taxa are more difficult to 
 3.2 Ethnobiological classifications
 
 It seems to be a human universal to classify flora and fauna into what can be described as
-hierarchies of labelled taxa. For example, in Wayan Fijian _bau leke_ (dwarf bau), the name for
+hierarchies of labelled taxa. For example, in Wayan Fijian _bau leke_ (dwarf _bau_), the name for
 Planchonella garberi, a tree that grows in mid-altitude forests, is one of four kinds of _bau_, the
 generic term that refers to the Burckella, Manilkara, Palaquium and Planchonella species
 of the Sapotaceae family, woody trees used for making boats, chests and house posts. In
@@ -2652,7 +2629,7 @@ conference in 2004 where an earlier version of the paper was presented.
 
 54    Bethwyn Evans
 
- Figure 3.1 The hierarchical structure of ethnobiological classifications, exemplified by Wayan Fijian
+ Figure 3.1: The hierarchical structure of ethnobiological classifications, exemplified by Wayan Fijian
 
      Not only is the hierarchical classification of flora and fauna an apparent human universal,
 but the striking similarities in ethnobiological taxonomies across different societies from
@@ -2834,7 +2811,7 @@ for POc.
 
     Pawley (2000) describes differences in the stability of terms denoting different types of
 taxa within ethnobiological classifications of Oceanic languages. He finds that the modifying
-terms in binomial names for folk specifics ane much less stable than the terms for folk generics,
+terms in binomial names for folk specifics are much less stable than the terms for folk generics,
 and suggests that one explanation for this is that species show a wide range of distinctive
 morphological and ecological characteristics from which one is picked out and named by
 the modifier in a binomial label, and such modifiers are liable to be replaced by competing
@@ -3008,14 +2985,11 @@ _bau_
     Wood of some of these trees is used for boats, chests and house posts. Applied to the
     following species growing on Waya:
 
+__block__
     1. Burckella richii. large tree of low- to middle-altitudes, fruit green, fleshy, cylindrical, 4cm long;
-
     2. Manilkara vitiensis, smallish tree, often in exposed situations on coastal slopes;
-
     3. Palaquium fijiense. smallish uncommon tree of higher-altitude forest;
-
     4. Planchonella garberi (Sapotaceae).
-
     5. Planchonella grayana, a tree of coastal and inland forest, leaves larger and rounder than those of P. garberi.
 
     _bau leke_
@@ -3065,23 +3039,21 @@ appear to be the lowest level of named classification, as with rautolu and wa bi
 _rautolu_
 :   Generic, includes various _wā_ and shrub taxa with 3-partite leaves.
 
+__block__
     1. Canavalia rosea. Common vine of sandy foreshore, flowers pink-purple, pods about 10 x 2 cm,
        often wrinkled. Leaves said to have been used after childbirth in some way.
-
     2. Canavalia sericea. Local on sandy foreshore, the leaves silver-hairy.
-
     3. Jasminum degeneri.
-
     4. (obsolete) Melicope cucullata.
 
 _wā bitubitu_
 :   Generic, includes two species of strong-stemmed vines.
 
+__block__
     1. Smilax vitiensis (Smilacaceae). Forest vine, stems strong, round, sometimes with a few
        prickles, leaves oval to heart-shaped, leathery, with a pair of tendrils at the stem, red
        to black 1-3-seeded berries hanging together from a dangling stalk. Used for binding rafters
        and making fish-traps.
-
     2. Geitonoplesium cymosum (Smilacaceae). Slender but strong vine of forest understorey, small
        orange fruit with black glossy seeds.
 
@@ -3106,9 +3078,9 @@ _ō tirau_
 _sīlā_
 :   Generic, includes two large-seeded grass,es (Gramineae).
 
+__block__
     1. Coix lacrymajobi. Job's tears. Coarse grass, fertile parts with tear-shaped blueish bony
        structures that enclose the true seeds.
-
     2. Zea mays. Maize or sweet corn. Occasionally cultivated.
 
 
@@ -3512,8 +3484,8 @@ __formgroup__
 
     A Proto Micronesian form _*fadoka_ 'planted thing, cultivated plants' is reconstructable
 (Bender et al 2003:24), but appears to be restricted to meaning something that has been
-planted rather than all plants. This form looks to be a nominalisation of a Proto Microne-
-sian verbal _*fadoki_ 'to plant'.[5]
+planted rather than all plants. This form looks to be a nominalisation of a Proto Micronesian
+verbal _*fadoki_ 'to plant'.[5]
 
 [5] Osmond (1998: 132) reconstructs POc _*asok_ 'plant in holes in the ground', along with a Proto Western Oceanic
 form _*pasok-i-_ 'to plant sth (tubers etc)' that looks to be a form derived with the causative prefix _*pa-_. The
@@ -3525,7 +3497,7 @@ of _*pasok-i-_ 'to plant something' for POc.
 <
 PMic *fadoka 'planted thing, cultivated plants'
   Mic: Kiribati        aroka           'planted thing, cultivated plants'
-  Mic: Chuukese        fɔta-           (fromj;Jto- 'planting' and a noun-forming suffix)
+  Mic: Chuukese        fɔtā-           (from _fɔto-_ 'planting' and a noun-forming suffix)
   Mic: Woleaian        jato            'plant (N)'
   Mic: Carolinian      jɔto            'generic term for plants'
   Mic: Ulithian        fa-faxu         'plant (N)'
@@ -3580,7 +3552,7 @@ POc *kayu 'tree or shrub: generic name for plants with woody stems and branches,
   MM:   Patpatar       ai-          'tree species, followed by name of species'
   MM:   Mono           au           'tree'
   MM:   Nduke          ɣae          'general name for any kind of tree, bamboo, tree-ferns and other tall plants (except grass) that have woody stems'
-  SES:  Gela           ɣai          'branching plant, shrub or tree (i.e. balsam, croton and banyan are all yai, but not palm or coconut); wood, timber; firewood.'
+  SES:  Gela           ɣai          'branching plant, shrub or tree (i.e. balsam, croton and banyan are all _ɣai_, but not palm or coconut); wood, timber; firewood.'
   SES:  Bugotu         ɣai-         'tree, shaft of spear'
   SES:  Kwaio          ʔai          'branch, tree, stick; woody plant (shrub, tree)'
   SES:  Arosi          ʔai          'tree or plant with stem and branches; not used of a fern cycad, sago palm, coconut etc, but used of small plants, eg. balsam.'
@@ -3664,7 +3636,7 @@ not appear to be a conventional Kwara'ae usage.
     A term denoting palms as a category does not appear to be reconstructable for POc, and
 it seems likely that palms were considered primary taxa within the system. But was 'palm'
 a covert category for POc speakers, as it is today for Kwara'ae speakers? There is some evidence
-for this in that terms for different parts of palms, such as _*bala(p,b )a(q)_ 'palm branch'
+for this in that terms for different parts of palms, such as _*bala(p,b)a(q)_ 'palm branch'
 and _*[pa]paq[a-]_ 'frond of palm' are reconstructable, suggesting the recognition of a category
 of plants with similar morphological characteristics (Malcolm Ross pers. comm.). It is
 of course possible that the variation in the treatment of palms amongst the modern languages
@@ -3737,7 +3709,7 @@ POc *pali[s,j]i 'generic term for grasses and other grass-like plants' (Grace 19
   SES: Sa'a            ha-halisi          'grass'
   SES: Ulawa           hälisi             'grass, onion (late use)'
   NCV: Mota            valis              'a tall coarse grass; in recent use grass generally and onions'
-  NCV: Mwotlap         vlih               'grass, turf (Gramineae), Thuarea involuta' (na-plih)
+  NCV: Mwotlap         vlih               'grass, turf (Gramineae), Thuarea involuta' (_na-plih_)
   NCV: Wusi            palihi             'grass'
   NCV: Morouas         βalisi             'grass'
   SV:  Sye             (novl)ovsi         'buffalo grass (Stenotaphrum secundatum)' (cf. _novol_ 'kind of plant; initial element for plant names including a grass, a fern and two tree-ferns')
@@ -3831,7 +3803,7 @@ POc *lumut 'generic term for mosses, algaes and seaweeds' (Capell 1943)
   NCV: Mota          lumu(ta)        'moss'
   NCV: NEAmbae       lumu(si)        'moss'
   NCV: Malo          lum-lum         'moss, lichen; k.o. seaweed'
-  NCV: Vures         lum-lum         'moss, seaweed, algae' (cf. motumtum 'soft, slow')
+  NCV: Vures         lum-lum         'moss, seaweed, algae' (cf. _mölumlum_ 'soft, slow')
   NCV: Lewo          lum-lum         'slime in sea'
   NCV: Nguna         na-lumu-lumu    'moss, sponge, algae'
   NCV: Paamese       lum-lum         'moss, slime, seaweed'
@@ -3896,15 +3868,15 @@ POc *taliŋa 'generic term for mushrooms and fleshy fungi; ear' (ACD)
   NNG: Hote            taliŋ                 'mushroom'
   NNG: Sissano (Arop)  tɛlin                 'mushrooms, edible'
   MM:  Nakanai         taliga                'a small edible fungus, Lensites'
-  SES: Gela            taliŋa                'fungus, mushroom on mbiluma tree'
+  SES: Gela            taliŋa                'fungus, mushroom on _mbiluma_ tree'
   SES: Tolo            taliŋe                'generic name for mushrooms'
   SES: Kwaio           aliŋa                 'mushroom'
   SES: Sa'a            ʔäliŋe                'mushroom, large fungus'
   NCV: Paamese         |raliŋen asu|         'kind of fungus which grows on dry wood'
   SV:  Anejom          inticŋa-              'ear; initial element in a number of compounds denoting mushrooms'
-  SV:  Anejom          inticŋa-nɣai          'mushroom (arboreal)' (cf. in-yai 'tree')
+  SV:  Anejom          inticŋa-nɣai          'mushroom (arboreal)' (cf. _in-ɣai_ 'tree')
   SV:  Anejom          inticŋa-pʷohtan       'mushroom (terrestrial)'
-  SV:  Anejom          inticŋa-numu          'kind of edible mushroom' (cf. numu 'fish, marine creature')
+  SV:  Anejom          inticŋa-numu          'kind of edible mushroom' (cf. _numu_ 'fish, marine creature')
   Mic: Kiribati        taniŋaniba            'mushroom-like fungus growing on tree trunks. Myxomycetes: slime fungus'
   Mic: Mortlockese     sæliŋananu            'mushroom (lit. ear of ghost)'
   Mic: Woleaian        taɾiŋeripaç           'mushroom' (underlying form:  _taliŋali-paça_)
@@ -3956,7 +3928,7 @@ __formgroup__
     From this it seems possible that tree-ferns formed a higher-order taxon in POc, but no
 term appears to be reconstructable to back up such a hypothesis.
 
-    In Wayan balabala 'tree-ferns' contrasts with another primary taxon _diŋi_, a generic for at
+    In Wayan _balabala_ 'tree-ferns' contrasts with another primary taxon _diŋi_, a generic for at
 least two types of terrestrial ferns. In Kwara'ae _takuma_ 'Diplazium proliferum' is sometimes
 used to denote a collection of edible ferns that includes Diplazium proliferum Woodsiaceae,
 though more commonly ferns are referred to by their individual names. In other languages,
@@ -4071,7 +4043,7 @@ that for most plants folk generics denoting a particular 'scientific' species fo
 level of classification, for some food plants POc speakers appear to have used folk generics to
 refer to a cluster of similar species and other more specific terms to denote single species. This
 was seen above with _*[ka]ŋaRi_ 'canarium almond, Canarium indicum; Canarium species in
-general', and can be seen in Figure 3. 7 with regards to types of yams. Alongside the terms
+general', and can be seen in Figure 3.7 with regards to types of yams. Alongside the terms
 for specific species of yams, POc speakers also appear to have used _*qupi_ 'greater yam,
 Dioscorea alata; yam (generic)' to denote yams in general (ch.9, §2.1). The fine grade distinctions
 made in the naming and classification of food plants in POc can perhaps best be
@@ -4181,13 +4153,13 @@ __table__
                     | Lou (Adm)          | Iduna (PT)  | Gela (SES)             | Marshallese  (Mic) | Waya (Fij)
    'banana'[1]      | _mun_                | _galo_ [3]    | _vudi_                   | —                  | _vudi_
    'hand'           | _sɛt_, _turɛt_, _topʷan_ | _ihina_       | —                      | _ācɛn_               | _bā_
-   'bunch'          | _pɔrɔk_              | _waʔaina_     | _ɣaiɣai_,[4] _ɣaibala_ [5] | _yāc_, _wiṛᶭweṛᶭ_[7]   |
+   'bunch'          | _pɔrɔk_              | _waʔaina_     | _ɣaiɣai_,[4] _ɣaibala_ [5] | _yāc_, _wiṛᵚweṛᵚ_[7]   |
    'sucker, shoot'  | _supu_               | _wakaiya_     | _duli_, _nanaŋa_           | —                  | _soba_
-   'last fruit' [2] | _ŋɔrɛn_              | —           | _kukuru_, _loiloki_        | —                  | _kalikali_
+   'last fruit' [2] | _ŋɔrɛn_              | —             | _kukuru_, _loiloki_        | —                  | _kalikali_
    'flower'         | —                  | _buhihi_      | _lualako_ [6]            | —                  | _tido_ [6]
    'stem, stalk'    | —                  | _aina (galo)_ | _iti_, _kulo_              | _pɛrwaŋ_[8]          | —
    'leaf            | —                  | _hineguli_    | —                      | —                  | —
-   'stem sheath'    | —                  | —           | —                      | —                  | _basili_
+   'stem sheath'    | —                  | —             | —                      | —                  | _basili_
 
    [1] Generic term.
 
@@ -4201,13 +4173,13 @@ __table__
 
    [6] Gela _lualako_ and Wayan _tido_ are verbal forms meaning 'to flower (of a banana)'.
 
-   [7] Marshallese _wiṛᶭweṛᶭ_ can also be used for bunches of coconuts.
+   [7] Marshallese _wiṛᵚweṛᵚ_ can also be used for bunches of coconuts.
 
    [8] Marshallese _pɛrwaŋ_ denotes the stalk inside a bunch of bananas or breadfruit.
 
 
     As the same types of plants are often culturally and economically important in Oceanic societies,
-languages tend to have specific plant pant terms for the same types of plants, including
+languages tend to have specific plant part terms for the same types of plants, including
 coconuts, bananas, pandanus, breadfruit, yams and taros. For example, (Ross 1996d: 183-185)
 reconstructs _*pudi_ as a general term for bananas in POc and a number of terms that denoted
 particular types of bananas. Alongside terms for types of bananas modern Oceanic languages
@@ -4339,8 +4311,8 @@ trunks of hardwood trees.
 4.2.1 Stems of woody plants
 
 Many modern Oceanic languages have a general term denoting the main stem or trunk of a
-woody plant, alongside a number of more specific terms relating to woody stems (see Table
-4.3).[3] For example, Wayan _gai_ 'woody stem or trunk of a shrub or tree' and Tikopia _kuaŋa_
+woody plant, alongside a number of more specific terms relating to woody stems (see Table 4.3).[3]
+For example, Wayan _gai_ 'woody stem or trunk of a shrub or tree' and Tikopia _kuaŋa_
 'waist; trunk' are general terms that are used alongside more specific ones denoting different
 sections of a trunk, such as Wayan _gina_ 'base of a tree-trunk or woody stem', _ŋau_ 'main
 or centre section of trunk' and _golo_ 'top section of a tree trunk or a woody stem'. Modern
@@ -4398,13 +4370,13 @@ POc *puqu(n) 'base of tree; source, origin'
   PT:   Muyuw        wowu-        '(tree) base'
   MM:   Nakanai      vuhu-        '(tree) trunk or base, (leaf) stem, (pearl shell) base; first part of story; reason; origin (story of one's ancestry)'
   SES:  Lau          fū           'stock, root, origin'
-  SES:  Sa'a         hū           'real, pem1anent'
+  SES:  Sa'a         hū           'real, permanent'
   SES:  Arosi        hū           'the beginning, origin'
-  NCal: Xaracuu      pū           'source, origin, beginning' (cf. pu-kwaa 'base of tree')
+  NCal: Xaracuu      pū           'source, origin, beginning' (cf. _pū-kʷãã_ 'base of tree')
   Fij:  Bauan        vū-          'bottom, basis, root (tuberous, bulbous)'
   Fij:  Wayan        vū           'root, tap root, bulbous root, base, basis, cause, origin'
   Fij:  Rotuman      hū           '(tree) lower end'
-  Pn:   Tongan       fuʔu         'complete tree or plant' (as _infuʔu niu_ 'coconut tree')
+  Pn:   Tongan       fuʔu         'complete tree or plant' (as in _fuʔu niu_ 'coconut tree')
   Pn:   Niuean       fū           'trunk of a tree near the root, base of a mast'
   Pn:   Tikopia      pū           'heart or centre of tree'
   Pn:   Marquesan    pū           'tree trunk'
@@ -4537,16 +4509,16 @@ __Nduke__     |
 _kamu-_        |    The rings in the stem of bamboo, palms and grasses (like sugar-cane).
 _soyoto_       | The stem of a flower.
 _baɣutu-_      | Stem that supports the flowers, and later the fruit, of the coconut.
-_kilikava-_    | Stem of coconut frond, especially at thick end, used e.g to lay on ground to yotolo
-               | mola (push up a canoe at landing).
+_kilikava-_    | Stem of coconut frond, especially at thick end, used e.g to lay on ground to _ɣotolo mola_
+               | (push up a canoe at landing).
 __Wayan Fijian__ |
-_kasa_          |  Stem of a shrub or small plant, leaf-stalk or petiole stem of a leaf, flower or fruit; new shoots or suckers growing out from trunk or branch of a tree or from main stem of a banana plant. near syn. gau, rovuvaci.
+_kasa_          |  Stem of a shrub or small plant, leaf-stalk or petiole stem of a leaf, flower or fruit; new shoots or suckers growing out from trunk or branch of a tree or from main stem of a banana plant. near syn. _gau_, _rovuvaci_.
 _bābā_        |  Stalk or stem of leaves of certain large-leafed plants, esp. stem of taro, banana, coconut.
 _bālotu_      | A coconut leaf stalk stripped of its leaflets; the stem of the coconut leaf. Used for firewood and torches.
 __Tikopia__   |
 _kau_         |  (N) Stalk, stem supporting bunch of fruit, e.g. bananas, handle of implement.
 _fā_          |  (N) Leaf stem of a fleshy plant.
-_safe_        |  (N) Flower stem or fruiting bunch of banana. Tao ma tona safe (banana fruit) bake it in the oven on its stem (ritual procedure).
+_safe_        |  (N) Flower stem or fruiting bunch of banana. _Tao ma tona safe_ (banana fruit) bake it in the oven on its stem (ritual procedure).
 _pararafa_    |  (N) Stem of coconut frond, used traditionally to provide small stirrer for liquids, tiny mallet in tattooing; also used ritually in healing, smoothing temple sand etc.
 
 
@@ -4567,14 +4539,14 @@ functional differences between them are not so clear.
 __tablenh__
 __Nduke__  |
 _kapaha-_   |    A branch of a plant.
-_buru-_     |    The _vuŋu_ (fruiting branch) of pevu (coconut) or koke or haoro (the canarium trees), that is plentiful, producing many nuts.
+_buru-_     |    The _vuŋu_ (fruiting branch) of _pevu_ (coconut) or _koke_ or _haoro_ (the canarium trees), that is plentiful, producing many nuts.
 _vuŋu-_     |   A branch or stem bearing fruit, e.g. a bunch of coconuts or betel nut or bananas still attached to the stalk. Particularly this means a cut-down stem that has fruit attached.
 __Wayan Fijian__ |
 _tula_     |  1. Branch or twig of a woody tree; 2. An alternative way of doing or saying s.t., a paraphrase or different method or expression.
-_kāsalu_   | 1. Small branch, minor branch of a tree:. contr. tula; 2. (metaph.) Person of no account, of low rank; unimportant person.
+_kāsalu_   | 1. Small branch, minor branch of a tree:. contr. _tula_; 2. (metaph.) Person of no account, of low rank; unimportant person.
 __Tikopia__  |
 _maŋa_       | 1. (N) Segmentary division in generaL, e.g. subsidiary tuber or corms in root vegetables, 2. branch (of tree, coral etc), 3. offshoot, bifurcation, 4. abstract sense of variation (e.g. in language).
-_rā_          |  (N) Stem; twig; minor branch of tree, as opp. to maiJa, a major branch.
+_rā_          |  (N) Stem; twig; minor branch of tree, as opp. to _maŋa_, a major branch.
 _potunea_     |  (N) A small stick or branch.
 _kaŋokaŋo_    | (N) Twigs; small dead branches.
 
@@ -4662,7 +4634,7 @@ verbal reflex in Kosraean seems to be an innovation.
 PMP *saŋa 'bifurcation, to branch' (ACD)
 POc *saŋa 'fork (in tree), forked stick or post, crotch'
   Adm: Lou            saɛ-n        (N) 'lower branch'
-  Adm: Titan          cáŋa         'fork in       crotch; straddle, climb straddling'
+  Adm: Titan          cáŋa         'fork in tree, crotch; straddle, climb straddling'
   Adm: Titan          cáŋa-n(key)  'fork of a tree'
   NNG: Gedaged        saŋa-n       'crotch, groin, bifurcation, fork'
   SES: Lau            taŋa         'the V -shaped groove in a mainpost'
@@ -4766,14 +4738,14 @@ _suku_ |     Knobby growth protruding from trunk or branch of tree. near syn. _v
 _ribi_ |     Shin, shinbone; buttress root, projecting flank in lower trunk of certain trees. Timber good for handles; Projecting growth sometimes found in yam tubers.
 _nia_   |    Flesh or main substance of s.t. Thus: Flesh of an animal body, including meat, fat and marrow, in contrast to skin (_taba_) and bones (_tua_); Flesh or main edible part of fruit or root excluding the skin or rind; Tuber of root crop, e.g. taro, yam, sweet potato; Mature inner part of a tree, heartwood. near syn. doa; Lower part of stem of the kava plant (_aqona_) in contrast to the root (_waka_) and upper stem (_qai_); Substance or main content of a speech, book, etc.
 _vū_   |     Base, bottom; Root, taproot, bulbous root. cf. _waka_ fibrous root, _waka tū_ taproot; Origin, source, root; Cause.
-_waka_   |   Roots of a plant. contr. vu, root in sense of base, origin. Kava root, not yet ground.
+_waka_   |   Roots of a plant. contr. _vū_, root in sense of base, origin. Kava root, not yet ground.
 _draya_  |  Roots or root-hairs of any plant. near syn. waka, which is now more common in this sense.
 __Tikopia__ |
 _aka_      |   (N) Aerial rootlet, as of banyan.
 _vaiaka_   |   (N) Rootlet; spreading roots; aerial root.
-_raparapa_ |    (N) Flange; buttress (cf. raparapa rakau tree trunk buttress; bulging tree roots)
+_raparapa_ |    (N) Flange; buttress (cf. _raparapa rakau_ tree trunk buttress; bulging tree roots)
 _fosa_     |   (N) Root, esp. taro corm and other root vegetables.
-_futi_     |   (N) Base. Futi o te rakau roots of tree
+_futi_     |   (N) Base. _Futi o te rakau_ roots of tree
 _fetī_     |   (N) Turmeric root
 
                                                                                         Parts of plants       99
@@ -4803,7 +4775,7 @@ POc *wakaR 'roots (in general)'
   Mic:  Woleaian      wexaẓ            'root'
   Mic:  Carolinian    wār              'roots of a tree or plant'
   Fij:  Bauan         waka-            'root of a plant (fibrous)'
-  Fij:  Wayan         waka-            'root or roots of plant, fibrous roots' (cf. _waka-tu_ 'taproot')
+  Fij:  Wayan         waka-            'root or roots of plant, fibrous roots' (cf. _waka-tū_ 'taproot')
   Fij:  Rotuman       vaʔa             '(fibrous) roots'
   Pn:   Niuean        vaka             '(plant) root; be woody, stringy; grow roots'
 cf. also:
@@ -4825,8 +4797,8 @@ _*wakaR-i_. It was probably an alternant inalienably possessed form.[9]
 [8] Blust (ACD) suggests that the Micronesian data plus Bali _vakara_ 'root' support the reconstruction of a POc
 (unbound?) form _*wakaR-a_ 'root'. As Bali _vakara_ 'root' is a regular reflex of POc _*wakaR_ I have not
 reconstructed this form. There are a few other Proto Micronesian etyma that retain a POc final consonant and add
-_*-a_; e.g. POc _*pata(ŋ)_ is reflected as both _*fata_ and _*fataŋa_ 'tree trunk' in Proto Micronesian (Bender et al.
-2003: 24).
+_*-a_; e.g. POc _*pata(ŋ)_ is reflected as both _*fata_ and _*fataŋa_ 'tree trunk' in Proto Micronesian
+(Bender et al. 2003: 24).
 
 [9] Editor's note: The morphology of POc inalienably possessed nouns with a stem-final consonant is obscure.
 Some reflexes suggest that a vowel was added before the suffix-initial consonant, e.g. _*wakaR-i-ña_ 'its root',
@@ -4959,25 +4931,25 @@ _zaro-_    | The dead leaves of certain types of plants, e.g. banana and pawpaw 
 _hahau-_   | Dead coconut fronds that fall to the ground.
 _letu-_    | Coconut palm leaflet (i.e. those arranged along the midi stem of the frond). Does not apply to _goe_ 'sago', which has _vuvuru_ 'leaves' along the _kava_ 'frond'.
 __Wayan Fijian__ |
-_susuluka_ | Dry pandanus and banana leaves. contr. botata, dry breadfruit leaves.
-_rau_      | 1. Leaf. 2. A hair, hairs of the head. contr. vulu, head hair (as a whole).
+_susuluka_ | Dry pandanus and banana leaves. contr. _botata_, dry breadfruit leaves.
+_rau_      | 1. Leaf. 2. A hair, hairs of the head. contr. _vulu_, head hair (as a whole).
 _belebele_ | Young leaves of any plant.
 _tōrau_    | 1. Soft, white young leaves at the top of a coconut tree. Edible; 2. Soft, young leaves of any plant.
 _tua_      | (N) 1. Bone. 2. Rib of a leaf.
 _tuabou_   | 1. Spinal column, backbone; 2. Rib of a leaf.
-_sāsā_     | Dry coconut leaf. syn. basilele samasama.
-_basilele_ | 1. Coconut leaf, whether dry or still green and growing on the tree. syn. ro ni niu (lit. 'leaf of coconut'). cf. sasa. 2. Broom made of coconut leaf ribs.
+_sāsā_     | Dry coconut leaf. syn. _basilele samasama_.
+_basilele_ | 1. Coconut leaf, whether dry or still green and growing on the tree. syn. _rō ni niu_ (lit. 'leaf of coconut'). cf. _sāsā_. 2. Broom made of coconut leaf ribs.
 _botata_   | Dry breadfruit leaves.
 __Tikopia__ |
 _rau_      | Classifier for flat objects; hence leaf, sheet etc; also often used alone for sago leaf thatch sheets, and for thatch generic.
 _tauru_    | (N) Foliage, esp. collectively, as a mass ofleaves on a tree, spray of fern fronds etc.
-_siŋano_   | (N) Immature leaf of pandanus or coconut palm, used as decoration (manol)i).
+_siŋano_   | (N) Immature leaf of pandanus or coconut palm, used as decoration (_manoŋi_).
 _firoi_    | (N) Leaf base of palm.
-_mariŋa_   | (N) Small pinnules at base of palmate leaf etc. (e.g. mariŋa rau niu, mariŋa rau ota small coconut, sago pinnules).
-_sukusuku_ | (N) Tail, ending. Sukusuku o te rakau top, crest of tee, mass ofleafage. Also tauru o te rakau 'foliage of tree'.
+_mariŋa_   | (N) Small pinnules at base of palmate leaf etc. (e.g. _mariŋa rau niu_, _mariŋa rau ota_ small coconut, sago pinnules).
+_sukusuku_ | (N) Tail, ending. _Sukusuku o te rakau_ top, crest of tee, mass ofleafage. Also _tauru o te rakau_ 'foliage of tree'.
 _fāmātua_  | (N) Mature coconut frond.
-_sakilo_   | (N) Immature coconut leaf, of pale colour; used traditionally as decoration for some ritual objects, as a shelf in Resiake temple, or sign of taboo on orchard.
-_ŋausala_  | (N) Midrib of sago pinnule, used as pin for leaf thatch, leaf pads for oven cover; bundle used traditionally as i1 seru for beating rhythm in funeral lament.
+_sakilo_   | (N) Immature coconut leaf, of pale colour; used traditionally as decoration for some ritual objects, as a shelf in _Resiake_ temple, or sign of taboo on orchard.
+_ŋausala_  | (N) Midrib of sago pinnule, used as pin for leaf thatch, leaf pads for oven cover; bundle used traditionally as _ū seru_ for beating rhythm in funeral lament.
 
                                                                            Parts of plants   103
 
@@ -4997,7 +4969,7 @@ POc *wako(t) 'mangrove root'
 As well as a general term for leaf, Oceanic languages tend to have more specific terms referring
 either to leaves of particular kinds of plants, leaves at different stages of growth, and/or
 parts of leaves. For example, Wayan has a general term _rau_, three terms that specifically
-denote coconut leaves _sasa_, _basilele_ and _tōrau_, a term that refers to dry banana or pandanus
+denote coconut leaves _sāsā_, _basilele_ and _tōrau_, a term that refers to dry banana or pandanus
 leaves, _susuluka_, a term for young leaves, _belebele_, and two terms for the midrib of a leaf, _tua_
 and _tuabou_. Table 4.7 gives the different terms for leaves from Nduke, Wayan and Tikopia.
 
@@ -5034,7 +5006,7 @@ POc *raun 'leaf, general term for leaves of all types of plants'
   NCal: Iaai            lã-         'leaf'
   Mic:  Kiribati        rau         'thatch made of pandanus leaves'
   Mic:  Kosraean        ṣa          'leaf'
-  Mic:  Chuukese        ṭṣə̄         'leaf, sheet' (cf.  _ṭṣə̄ rii_ 'coconut leaf, as distinct from frond')
+  Mic:  Chuukese        ṭṣə̄         'leaf, sheet' (cf.  _ṭṣə̄ ɾii_ 'coconut leaf, as distinct from frond')
   Mic:  Woleaian        ṣø          'leaf, foliage, leafage'
   Mic:  Carolinian      ṣə̄          'leaf with broad surface, as a banana or taro leaf'
   Fij:  Bauan           drau        'leaf of a tree, a hair of the head'
@@ -5059,7 +5031,7 @@ for the leaves of each of a number of different plants, including coconut, panda
 taro and tobacco. These include terms for leaves used for different purposes. The Niuean
 dictionary, on the other hand, lists a number of terms for different leaves, but they are mostly
 compounds containing the general term for leaf, _lau_. Thus _launiu_, comprising _lau_ 'leaf' and
-_niu_ 'coconut' denotes 'coconut frond ', _laufa_ consisting of _lau_ 'leaf' and _fa_ 'pandanus'
+_niu_ 'coconut' denotes 'coconut frond ', _laufā_ consisting of _lau_ 'leaf' and _fā_ 'pandanus'
 denotes pandanus leaf' and _laumamanu_ comprising _lau_ 'leaf' and _mamanu_ 'a common fern,
 Phymatodes scolopendria' denotes 'fern leaves'.
 
@@ -5271,7 +5243,7 @@ POc *[s,j]uli(q) 'banana or taro sucker, slip, cultting, shoot (i.e. propagation
   NNG: Manam        suli          'banana slip, cutting'
   PT:  Tawala       huni          'taro'
   PT:  Kilivila     uli           'taro'
-  PT:  Motu         dui           'banana pllant'
+  PT:  Motu         dui           'banana plant'
   MM:  Ramoaaina    ul-ul         'put forth new leaves; of tan (tree sp.) only'
   SES: Gela         duli          'a sucker, of banana'
   NCV: Mota         suliu         'sucker from roots of a plant, shoot from tubers'
@@ -5333,7 +5305,7 @@ as it is reflected in only one NW Solomonic and one SE Solomonic language.
 <
 POc *(s,j)uli 'to transplant' (French-Wright 1983: 60)
   MM:     Roviana       zuli           'to transplant seedlings etc'
-  SES:    Arosi         (u)suri        'to transplant' (source of u- not known.)
+  SES:    Arosi         (u)suri        'to transplant' (source of _u-_ not known)
 >
 
     From the fact that modern languages tend to have several forms that denote new growth
@@ -5424,7 +5396,7 @@ _havoro_   | The general term for flower; to flower, blossom.
 _pelara-_  | 1. Wide open, of eye. 2. Any flower that closes at night and opens in the morning, e.g. hibiscus flowers.
 __Wayan Fijian__ |
 _sē_       | Blossom, bloom, flower. (N) Flower, blossom of s.t.
-_sei_      | Flower of the vadra pandanus tree. Yellow. vadra sei, (N) Tree (_kai_) taxon: Pandanus tectorius syn. _vadra_. Timber used for rafters; old leaves used to wrap cigars and for thatching.
+_sei_      | Flower of the _vadra_ pandanus tree. Yellow. _vadra sei_, (N) Tree (_kai_) taxon: Pandanus tectorius syn. _vadra_. Timber used for rafters; old leaves used to wrap cigars and for thatching.
 _waluwalu_ | Flower of the breadfruit. The fruit grows when the long thin flower drops.
 __Tikopia__ |
 _sei_      | Flower, especially as in decoration, e.g. in ear lobe, hence any ear ornament' Poss. occ. uttered as _sē_, _sē rakau_ flower of plant. Cf. _sesei_ flower (poss. plural of _sei_, archaic _sēsē_)
@@ -5441,14 +5413,14 @@ also have names for the flowers of specific types of plants, such as Tikopia _ka
 red flowers of coral tree (ŋatae 'Erythrina sp.')' and _viro_ 'sago flower'.
 
     POc appears to have had two general terms for flower, _*puŋa_, which continues PMP
-_*buŋa_, and _*se_, and it is not clear how they differed. Both forms are reflected most widely in
+_*buŋa_, and _*sē_, and it is not clear how they differed. Both forms are reflected most widely in
 Eastern Oceanic languages; in fact I have found no Western Oceanic cognates of _*puŋa_ and
-only one of _*se_.
+only one of _*sē_.
 
 <
 PMP *buŋa 'flower, blossom; to flower, bear flowers; first-born child; skin rash, prickly heat; speckled (offish)' (ACD)
 POc *puŋa 'flower, blossom' (ACD)
-  SES:  Longgu       vuŋa      (vi) 'to bud, blossom; to flower '; (N) 'a bunch'
+  SES:  Longgu       vuŋa      (vi) 'to bud, blossom; to flower'; (N) 'a bunch'
   NCV:  Lonwolwol    wuŋi-     'flower of'
   NCV:  Paamese      huŋe-     'flower; tiny immature fruit on plants with no flowers'
   NCV:  Sesake       na-vuŋa   'flower'
@@ -5478,7 +5450,7 @@ POc *see 'flower' (Geraghty 1983)
   MM:  Nakanai     se-sē     'flower; blossom; (tobacco) seeds'
   Fij: Bauan       sē-       (N) 'flower'; (v) 'flower, be in blossom'
   Fij: Wayan       sē        (N) 'flower, blossom'; (v) 'blossom, bloom, flower'
-  Pn:  Tikopian    sē        'occasional pronunciation of sei (flower) in possessives, e.g. se rakau (flower of plant)'
+  Pn:  Tikopian    sē        'occasional pronunciation of _sei_ (flower) in possessives, e.g. _sē rakau_ (flower of plant)'
   Pn:  Futunan     sē        'to flower, blossom; a flower'
   Pn:  Sikaiana    sē        'flower, bud'
 >
@@ -5490,8 +5462,8 @@ the ear or in the hair.
 
 <
 PCP *sei 'flower, especially as an ornament'
-  Fij: Bauan        sei       'flower of the vadra or balawa (pandanus)'
-  Fij: Wayan        sei       'yellow flower of the vadra pandanus tree'
+  Fij: Bauan        sei       'flower of the _vadra_ or _balawa_ (pandanus)'
+  Fij: Wayan        sei       'yellow flower of the _vadra_ pandanus tree'
   Pn:  Tongan       sei       'ornamentation (e.g. flower) placed behind the ear'
   Pn:  Niuean       hei       (N) 'floral decoration for bride'; (v) 'place a flower in hair or behind ear'
   Pn:  Rennellese   sei       'ornament in the lobe of the ear'
@@ -5523,16 +5495,16 @@ coconut flower.
 __tablenh__
 __Nduke__ |
 _malete-_ |   Fruit. _malet' pevu_ 'fruit of coconut', _malet' manioko_ 'pawpaw'. Can describe any kind of fruit, whether ripe or already fallen ..
-_mezu-_   |   To be ripe, of kino (cut-nut) or tat'lise (sea-almond) nuts (but not used of canarium nuts). This is determined by the skin of the fruit beginning to soften slightly and the nuts falling down by themselves.
-_udo-_    |   The spoilage of fruit that happens when fruit-fly or flying foxes attack it. Fruit that is _udo_ often drops to the ground prematurely. In coconuts udo happens when the fruit is still very young.
+_mezu-_   |   To be ripe, of _kino_ (cut-nut) or _tat'lise_ (sea-almond) nuts (but not used of canarium nuts). This is determined by the skin of the fruit beginning to soften slightly and the nuts falling down by themselves.
+_udo-_    |   The spoilage of fruit that happens when fruit-fly or flying foxes attack it. Fruit that is _udo_ often drops to the ground prematurely. In coconuts _udo_ happens when the fruit is still very young.
 _vara-_   |   A hand of bananas or _hea_ 'betelnuts', but not of _kino_ 'cutnuts (Barringtonia)' or _haoro_ 'Canarium nuts'. Refers to the separate 'hands' of betelnut or bananas that have been torn off from the full bunch.
 __Wayan Fijian__ |
 _vua_    |  1. Fruit; 2. (metaph.) Results, products, offspring. (v) 1. (sub. a plant.) Fruit, bear fruit; 2. (sub. a project, etc.) Produce results, bear fruit. 3. (sub. e.g. people, animal stock.) Increase, multiply.
 _vuata_  |  1. Crops, food plants, fruit or vegetables which are harvested. cf. _marawa_, _magiti_ 'vegetables'. 2. Returns, benefits, products of one's work, fruits of one's labour.
 _ua_     |  Bunch or cluster of fruit.
-_nia_    |  Flesh or main substance of s.t. Thus: 1. Flesh of an animal body, including meat, fat and marrow, in contrast to skin (_taba_) and bones (_tua_); 2. Flesh or main edible part of fruit or root excluding the skin or rind; 3. Tuber of root crop, e.g. taro, yam, sweet potato; 4. Mature inner part of a tree, heartwood. near syn. _doa_; 5. Lower part of stem of the kava plant (agona) in contrast to the root (waka) and upper stem (gai); 6. Substance or main content of a speech, book, etc.
+_nia_    |  Flesh or main substance of s.t. Thus: 1. Flesh of an animal body, including meat, fat and marrow, in contrast to skin (_taba_) and bones (_tua_); 2. Flesh or main edible part of fruit or root excluding the skin or rind; 3. Tuber of root crop, e.g. taro, yam, sweet potato; 4. Mature inner part of a tree, heartwood. near syn. _doa_; 5. Lower part of stem of the kava plant (agona) in contrast to the root (_waka_) and upper stem (_gai_); 6. Substance or main content of a speech, book, etc.
 _mārawa_ | 1. Ground crops, food-plants obtained from plants other than trees; uncooked vegetables, including root crops, bananas, sugarcane, corn, melons, etc. contr. _vuata_, fruits, _magiti_, food ready for eating or foodstuffs in general. 2. Used by some as a generic term for all food plants, including tree--crops or fruit.
-_bā_     |  Hand of bananas. ba i ata, (N) Top or upper hand. ba ira, (N) Bottom or lower hand.
+_bā_     |  Hand of bananas. _bā i ata_, (N) Top or upper hand. _bā i rā_, (N) Bottom or lower hand.
 _kalikali_ | 1. Groin, top of the leg where it joins the trunk (of person or animal). near syn. _qiriqiri_. 2. The lowest rows of bananas on a stalk, poorly developed. syn. _kalikali ni tiaina_.
 __Tikopia__ |
 _fua_       |  (N) 1. Fruit 2. Analogous objects to fruit, e.g. eggs of fish or birds.
@@ -5608,9 +5580,9 @@ POc *puŋu 'bunch or cluster of fruit or nuts' (Ross 1996d: 185)
   MM:  Nduke            vuŋu-          'bunch or cluster of nuts or fruit'
   SES: Gela             vuŋu           'grain of maize or com; pod, bunch, cluster of fruit'
   SES: Lau              fuŋu           'bear fruit or seed; a bunch'
-  SES: Kwaio            fuŋu           'bearing fruit; bunch offruit'
+  SES: Kwaio            fuŋu           'bearing fruit; bunch of fruit'
   SES: 'Are'are         hunu           'bear fruit, be in fruit; bunch, bundle'
-  SES: Arosi            huŋu-          'a bunch or cluster offruit'
+  SES: Arosi            huŋu-          'a bunch or cluster of fruit'
   NCV: Mota             vuŋ            'a bunch of fruit or coconuts, Canarium almonds (but not bananas or pandanus)'
 >
 
@@ -5663,7 +5635,7 @@ POc *kulo 'stem of fruit, especially banana'
   Adm: Lou             kolu(ɛn)     'fruit stem'
   NNG: Poeng           kule-na      '(banana) stem'
   SES: Gela            kulo         '(banana) stem'
-  Mic: Marshallese     kəlᶭæ        'fruit stem; stalk, leaf-stem, petiole'
+  Mic: Marshallese     kəlᵚæ        'fruit stem; stalk, leaf-stem, petiole'
 >
 
 
@@ -5757,7 +5729,7 @@ as part of a broader meaning that also encompassed 'fruit'. A number of Oceanic 
 have a distinct term for the seeds of the breadfruit, but as can be seen from the following list,
 the modern terms are rarely cognate.
 
-__pre__
+__formgroup__
    Adm:  Lou           komʷit-     'breadfruit seed'
    NNG:  Kaulong       emlu        'breadfruit seed'
    NNG:  Mangseng      salemi      'breadfruit seed'
@@ -5766,7 +5738,7 @@ __pre__
    MM:   Ramoaaina     tat         'breadfruit seed'
    SES:  Gela          dui         'breadfruit seed'
    Mic:  Kosraean      kɔlɔ        'breadfruit seed'
-   Mic:  Carolinian    bʷuxili     'edibl1e seeds from one variety of breadfruit'
+   Mic:  Carolinian    bʷuxili     'edible seeds from one variety of breadfruit'
 
    The data given by Ross (1996d: 188) allow the reconstruction of PWOc _*kalijo_ 'edible
 kernel of breadfruit segments', but no term with this meaning is reconstructable for POc.
@@ -5779,22 +5751,22 @@ PWOc *kalijo 'edible kernel of breadfruit segments'
   NNG: Lukep (Pono)  kadidi     'breadfruit seed' (_*-l-_ assimilated to _-d-_)
   NNG: Takia         alid       'breadfruit seed'
   NNG: Manam         kaizo      'edible breadfruit seed'
-  NNG: Ali           alic       'breadfnuit'
+  NNG: Ali           alic       'breadfruit'
   MM:  Halia         ariro      'Artocarpus leeuwenii' (Glennon & Glennon 2005)
   MM:  Teop          ariko      'seed of breadfruit tree' [14]
 >
 
-[14] Reflects *kaligo rather than *kalijo.
+[14] Reflects _*kaligo_ rather than _*kalijo_.
 
 120       Bethwyn Evans
 
 
     The breadfruit is a syncarp, a compound fruit with many segments arranged around the
-core, which itself is the spike of the original flower. POc *malo- denoted both the flower
+core, which itself is the spike of the original flower. POc _*malo-_ denoted both the flower
 spike and the fruit core.
 
 <
-POc *malo- 'breadfruit flower, breadfruit core' (Blust 1972b: *malo(n) 'core of the breadfruit')
+POc *malo- 'breadfruit flower, breadfruit core' (Blust 1972b: _*malo(n)_ 'core of the breadfruit')
   NNG: Bariai       malo          'breadfruit flower'
   NNG: Gedaged      malo-         'core of the breadfruit'
   Fij: Bauan        malo          'core of the breadfruit'
@@ -5865,7 +5837,7 @@ _pepenete-_ | Husk of a mature coconut, and also the thick coir or fibre that ma
 __Wayan Fijian__ |
 _sau_       | 1. Shell or endocarp of any organism; 2. Anything which has had the good parts taken out, which is reduced to its waste or useless parts; thus, waste material, offal, rind or husk of fruit, food refuse, etc; 3. Rubbish in general, refuse, garbage.
 _taba_      | Outer or covering layer. Thus: 1. Skin or hide; 2. Bark; 3. Rind or husk of fruit; 4. Shell or outer case (of egg, football); 5. Page or leaf of paper.
-_taliŋa_    | 1. Ear (of animal); 2. Carved knob or horn at base of curve on kiakavo club; 3. Sheath or calyx containing the seed and flower of certain fruits. Taliŋa ni kulu sheath or calyx containing the seed and flower of breadfruit; taliŋa ni tiaina sheath or calyx containing the seed and flower of banana.
+_taliŋa_    | 1. Ear (of animal); 2. Carved knob or horn at base of curve on _kiakavo_ club; 3. Sheath or calyx containing the seed and flower of certain fruits. _Taliŋa ni kulu_ sheath or calyx containing the seed and flower of breadfruit; _taliŋa ni tiaina_ sheath or calyx containing the seed and flower of banana.
 _basili_    | Dead skin of the stem of a banana plant.
 _sāmoa_     | 1. Hard sheath or calyx enclosing the flower of a coconut. Used as a torch.syn. _basiwara_. 2. Coconut flower before the sheath bursts.
 __Tikopia__ |
@@ -5907,23 +5879,23 @@ reconstructable for POc and are presented in chapter 12.
 
                                                                             Parts of plants   123
 
+
+4.2.11 Sap, resin
+
 : Table 4.14   Terms for sap or resin in Nduke, Wayan Fijian and Tikopia
 
 __tablenh__
 __Nduke__   |
 _oto-_      | The sap or gum of trees and some fruits (e.g. unripe pawpaw). _Oto_ appears when you cut the stem of a tree or plant.
 __Wayan Fijian__ |
-_toya_      | Sap of a tree, especially when runny. contr. bulei.
+_toya_      | Sap of a tree, especially when runny. contr. _būlei_.
 _būlei_     | 1. Gum, sticky sap exuded from tree or fruit. 2. Chewing gum.
-_makadre_   | (N) Resin or sap of the kauri pine (_dakua_), not present on Waya. cf. toya. Used for torches and for glazing pots.
+_makadre_   | (N) Resin or sap of the kauri pine (_dakua_), not present on Waya. cf. _toya_. Used for torches and for glazing pots.
 __Tikopia__ |
 _piki_      | 1. (V) Cling; stick to; adhere; clasp. 2. (N) Adhesive material: gum, resin etc from breadfruit and other trees.
 _vale_      | (N) Resin; also saliva.
 _toto_      | (N) 1. Blood. 2. Sap of plants and trees.
 
-
-
-4.2.11 Sap, resin
 
 Table 4.14 gives the terms for sap or resin in Nduke, Wayan and Tikopia. Nduke appears
 to have a single term _oto-_ 'the sap or gum of trees and some fruits'. Tikopia and Wayan, on
@@ -5943,7 +5915,7 @@ sap of the Canarium almond which is used for tattooing.
 
 <
 PAn *belit, *bulit 'viscous, sticky' (ACD)
-POc *bul[i,u]t (N) 'sap (of plant) or other sticky substance'; (vT) 'be sticky' (Capell1943: *bulu(t))
+POc *bul[i,u]t (N) 'sap (of plant) or other sticky substance'; (vT) 'be sticky' (Capell 1943: _*bulu(t)_)
 POc *bulut-i- (vT) 'to stick something to something'
   Adm: Lou           pulut         'sticky'
   Adm: Titan         βulút-i       'stick to s.t. (VT)'
@@ -5953,12 +5925,12 @@ POc *bulut-i- (vT) 'to stick something to something'
   MM:  Siar          polo-n        'sap of a tree'
   SES: Kwaio         buluʔ-ia      'caulk, tamp a post; gum; mix together' [15]
   SES: 'Are'are      puru-i-       'gum, stick, caulk joints of canoe planks with puttynut'
-  SES: Sa'a          pulu          'pitch, gum, native cement; a nut, Parinarium laurinum, is scraped on rough coral rock and darkened in colour with a mixture of charcoal and the juice of the oʔa tree; the cement hardens almost immediately'
+  SES: Sa'a          pulu          'pitch, gum, native cement; a nut, Parinarium laurinum, is scraped on rough coral rock and darkened in colour with a mixture of charcoal and the juice of the _oʔa_ tree; the cement hardens almost immediately'
   NCV: Mota          put, pulu     'gum of trees, particularly of Canarium; torch; tattoo done with Canarium gum; birdlime, to catch birds with; to stick'
   NCV: Mota          pulut         'to make stick (VT)'
   NCV: NEAmbae       bulu          'sap of Canarium, used in the making of tattoos'
   NCV: NEAmbae       bulus-i       'to join (VT)'
-  Mic: Marshallese   pᶭil          'sap, chewing gum'
+  Mic: Marshallese   pᵚil          'sap, chewing gum'
   Mic: Kosraean      ful           'breadfruit sap'
   Mic: Pulo-Annan    vʷunɨ-        'sap, gum,, glue'
   Fij: Wayan         bulu          'adhere, be attached, stick to a surface; be patched, sealed, filled (of a tooth), have s.t. glued on top to cover it'
@@ -6065,7 +6037,7 @@ _*(p,pʷ)enut_) and for the sheath of fibrous material around the base of a coco
 _*nuRut_). Many modern Oceanic languages have similar types of terms for outer coverings.
 
     Modern Oceanic languages also tend to have extensive terminologies for the parts of the
-coconut palm, its fruit and their uses (Table 4.1 ). Chapter 12 is devoted to this topic.
+coconut palm, its fruit and their uses (Table 4.1). Chapter 12 is devoted to this topic.
 
     The number of general plant part terms reconstructed for POc, over 30, is similar to the
 numbers of such terms in Wayan (nearly 50), Tikopia (nearly 50) and Nduke (over 30). However,
@@ -6083,7 +6055,7 @@ particular types of plants do not appear to be reconstructable.
 plants. Many Oceanic languages, including Lou, Iduna, Gapapaiwa, Gumawana, Ramoaaina,
 Gela, Longgu, Wayan, and E Futunan, have tenms that specifically denote the new shoots or
 suckers of banana plants, but such a specific term does not appear to be reconstructable for
-POc. Rather, POc _*[s,j]uli(q)_ apparently denote:d propagation material in general (including
+POc. Rather, POc _*[s,j]uli(q)_ apparently denoted propagation material in general (including
 suckers and shoots), though it may have referred especially to the suckers of banana and taro.
 Modern Oceanic languages also tend to have more specific terms for bunches of bananas than
 can be reconstructed for POc. Thus Lou has a term _pɔrɔk_ denoting a new bunch of bananas
@@ -12296,7 +12268,7 @@ POc *mʷaruqe 'Dioscorea sp. or perhaps a cultivar of D. alata'
   NCV: Paamese      a-marue       'k.o. wild yam'
   NCV: Lewo         mol-malu      'k.o. wild yam, ready before cultivated yams'
   NCV: Nguna        mʷālu         'k.o. yam like English potato'
-  NCV: Namakir      māro?         'k.o. taro'
+  NCV: Namakir      māroʔ         'k.o. taro'
   NCV: S Efate      n-mʷal        'Dioscorea sp.'
 PSV *-mʷariq 'Dioscorea sp.' (Lynch 2001c: 234)
   SV:  Sye          (n-uv)mori    'Dioscorea sp.' (_n-uv_ 'yam (generic)')
@@ -13451,7 +13423,7 @@ POc *baReko 'breadfruit' (French-Wright 1983)
   SES: Kwaio         baleʔo        'breadfruit tree, breadfruit'
   SES: Birao         baleho        'breadfruit'
   SES: Lau           bʷaleo        'breadfruit'
-  SES: Kwara'ae      baleo?        'breadfruit'
+  SES: Kwara'ae      baleoʔ        'breadfruit'
   SES: 'Are'are      pareʔo        'breadfruit'
   SES: Sa'a          pʷaleʔo       'breadfruit'
   SES: Arosi         bʷareʔo       'breadfruit'
@@ -15660,7 +15632,7 @@ PAdm *moña 'pandanus with long red or yellow fruit, probably Pandanus conoideus
   SES: Arosi          mʷa-mʷana    'Pandanus sp., leaves plaited'
 cf. also:
   PT:  Maisin [22]    moŋgi        'Pandanus sp.'
-  Mic: Kosraean       mᶭeŋ         'pandanus'
+  Mic: Kosraean       mᵚeŋ         'pandanus'
   Mic: Marshallese    māŋ          'pandanus leaves'
   Mic: Chuukese       mə̄ŋ          'pandanus leaf, especially when softened by a shell'
   Mic: Woleai         māŋü         'pandanus leaf'
@@ -16130,7 +16102,7 @@ PWOc *basi 'mango' (Ross 1996d)
   PT: Tawala      basi(awa)     'mango'
   PT: Sudest      mbaði         'mango'
   MM: Teop        bai           'mango'
-  MM: Tinputz     pᴂ?          'mango'
+  MM: Tinputz     pᴂʔ          'mango'
 >
 
 
@@ -17053,7 +17025,7 @@ POc *matuqu 'coconut growth stage 9: ripe, flesh hardened'
   SV:   Anejom         (neañ)metou     'drinking coconut with hard flesh'
   NCal: Iaai           o-mɨṭ           'ripe, yellow'
   NCal: Xaracuu        nû-mʌtʌ         'ripe coconut'
-  Mic:  Marshallese    məcə(wipᶭ)      'coconut, nearly ripe'
+  Mic:  Marshallese    məcə(wipᵚ)      'coconut, nearly ripe'
   Fij:  Rotuman        mafu            'mature and hard (of wood), lumpy (ofpudding), ripe and hard (of coconuts)'
   Fij:  Bauan          madū            'dry (of wood and mature coconuts)'
   Pn:   Tongan         |(niu) motuʔu|  'coconut growth stage: ripe'
@@ -17468,7 +17440,7 @@ POc *g(o,u)reŋ 'coconut milk, coconut cream'
  PT:  Tawala             gulena       'coconut milk'
 PMic *ar(e,o)ŋ, *ar(e,o)ŋu- 'coconut cream, scraped coconut meat' (Bender et al. 2003)
  Mic: Kiribati           (te)aoŋ      'scraped coconut mixed with other food'
- Mic: Marshallese        yalᶭ         'coconut milk'
+ Mic: Marshallese        yalᵚ         'coconut milk'
  Mic: Ponapean           ɛriŋ         'ripe coconut'
  Mic: Mokilese           ɔriŋ         'brown stage of coconut'
  Mic: Chuukese           arɨŋ         'coconut cream'
@@ -17601,11 +17573,11 @@ PPn *quto 'brain; pith of a tree; inner part of something; spongy mass in sprout
   Pn:  E Uvean         ʔuto           'brains; spongy mass in sprouting coconut'
   Pn:  Emae            uto            'sprouting coconut'
   Pn:  Rennellese      ʔuto           'sponge, as of coconut, ivory nut'
-  Pn:  Rennellese      |ʔuto (?ugu)|  'brains' (= 'head sponge')
+  Pn:  Rennellese      |ʔuto (ʔugu)|  'brains' (= 'head sponge')
   Pn:  Samoan          uto            'spongy substance in old coconut'
   Pn:  Luangiua        ʔuko           'sprouting coconut'
   Pn:  Nukuria         udo            'soft wood around the centre of a tree trunk'
-  Pn:  Marquesan       (?ehi)uto      'sprouting coconut'
+  Pn:  Marquesan       (ʔehi)uto      'sprouting coconut'
   Pn:  Mangarevan      uto            'marrow; spongy mass in old coconuts'
   Pn:  Rarotongan      uto            'germinated coconut; kernel or white spongy substance found inside a germinated coconut'
 >
@@ -18044,7 +18016,7 @@ POc *no(k,g)o 'midrib or spine of coconut leaflet; broom made therefrom' (Bender
   MM:  Tolai            noko         'midrib of the leaflets of a coconut branch; broom, especiallly one made from these leaflets'
 PMic *noko 'midrib of a coconut frond or leaf'
   Mic: Kiribati         noko         'midrib of side leaves of coconut palm'
-  Mic: Marshallese      nᶭɔkʷ        'midrib of a coconut leaf'
+  Mic: Marshallese      nᵚɔkʷ        'midrib of a coconut leaf'
   Mic: Kosraean         nɒk          'midrib'
   Mic: Mokilese         nok          'coconut leaf midrib'
 >
@@ -19569,7 +19541,7 @@ cf. also:
 
 <
 PMP *siRi 'Cordy line sp., Dracaena sp.' (Blust 1989)
-POc *jiRi 'taxon consisting of Cordylinefruticosa and Dracaena angustifolia' (Milke 1968: *diRi; Ross 1988)
+POc *jiRi 'taxon consisting of Cordylinefruticosa and Dracaena angustifolia' (Milke 1968: _*diRi_; Ross 1988)
   Adm:  Mussau         sii          'banyan, Ficus sp.'
   Adm:  Kurti          siy          'Dracaena sp.'
   Adm:  Wuvulu         ti           'Dracaena sp.'
@@ -19578,7 +19550,7 @@ POc *jiRi 'taxon consisting of Cordylinefruticosa and Dracaena angustifolia' (Mi
   NNG:  Malasanga      sir          'grass skirt'
   NNG:  Mindiri        (da)dir      'grass skirt'
   NNG:  Mapos Buang    sĩ           'tree sp., Euphorbeaceae'
-  NNG:  Wampur         rici?        'cordyline'
+  NNG:  Wampur         riciʔ        'cordyline'
   NNG:  Adzera         ji-ji        'cordyline'
   NNG:  Kairiru        jir          'small pandanus sp.'
   PT:   Wedau          diri         'Dracaena sp.'
