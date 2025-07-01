@@ -52,7 +52,7 @@ Modern Oceanic languages also tend to have terms for parts of particular types o
 |:-----------------|:-------------------------|:--------------|:---------------------------|:---------------------|:-------------|
 | 'banana'[^1]      | _mun_                    | _galo_ [^3]    | _vudi_                     | —                    | _vudi_       |
 | 'hand'           | _sɛt_, _turɛt_, _topʷan_ | _ihina_       | —                          | _ācɛn_               | _bā_         |
-| 'bunch'          | _pɔrɔk_                  | _waʔaina_     | _ɣaiɣai_,[^4] _ɣaibala_ [^5] | _yāc_, _wiṛᶭweṛᶭ_[^7] |              |
+| 'bunch'          | _pɔrɔk_                  | _waʔaina_     | _ɣaiɣai_,[^4] _ɣaibala_ [^5] | _yāc_, _wiṛᵚweṛᵚ_[^7] |              |
 | 'sucker, shoot'  | _supu_                   | _wakaiya_     | _duli_, _nanaŋa_           | —                    | _soba_       |
 | 'last fruit' [^2] | _ŋɔrɛn_                  | —             | _kukuru_, _loiloki_        | —                    | _kalikali_   |
 | 'flower'         | —                        | _buhihi_      | _lualako_ [^6]              | —                    | _tido_ [^6]   |
@@ -60,7 +60,7 @@ Modern Oceanic languages also tend to have terms for parts of particular types o
 | 'leaf            | —                        | _hineguli_    | —                          | —                    | —            |
 | 'stem sheath'    | —                        | —             | —                          | —                    | _basili_     |
 
-As the same types of plants are often culturally and economically important in Oceanic societies, languages tend to have specific plant pant terms for the same types of plants, including coconuts, bananas, pandanus, breadfruit, yams and taros. For example, ([Ross 1996d](../sources/Ross1996d): 183-185) reconstructs _&ast;pudi_ as a general term for bananas in POc and a number of terms that denoted particular types of bananas. Alongside terms for types of bananas modern Oceanic languages tend to have terms for certain parts of the banana plant, such as the suckers, flowers and bunches of fruit as demonstrated by Table 4.2.
+As the same types of plants are often culturally and economically important in Oceanic societies, languages tend to have specific plant part terms for the same types of plants, including coconuts, bananas, pandanus, breadfruit, yams and taros. For example, ([Ross 1996d](../sources/Ross1996d): 183-185) reconstructs _&ast;pudi_ as a general term for bananas in POc and a number of terms that denoted particular types of bananas. Alongside terms for types of bananas modern Oceanic languages tend to have terms for certain parts of the banana plant, such as the suckers, flowers and bunches of fruit as demonstrated by Table 4.2.
 
 The remainder of this chapter examines the terms for the parts of plants (both general and specific) which can be reconstructed for POc. The chapter is organised using the twelve categories listed above, each section beginning with some comments on the way in which the semantic category is lexified in modern Oceanic languages. Data from three languages, Nduke (MM), Wayan Fijian and Tikopia (Pn) are presented to demonstrate the lexical distinctions that occur in modern Oceanic languages, before the probable POc lexemes and their meanings are discussed.
 
@@ -290,7 +290,7 @@ As mentioned above, Oceanic languages have terms denoting different parts of woo
 <tr>
 <td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>hū</i></td>
 <td>
-'<span>real, pem1anent</span>'</td>
+'<span>real, permanent</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>hū</i></td>
@@ -300,7 +300,7 @@ As mentioned above, Oceanic languages have terms denoting different parts of woo
 <tr>
 <td>NCal</td><td><a href="../languages/xaracuu">Xârâcùù</a></td><td><i>pū</i></td>
 <td>
-'<span>source, origin, beginning</span>' (<span>cf. pu-kwaa 'base of tree'</span>)</td>
+'<span>source, origin, beginning</span>' (<span>cf. <em>pū-kʷãã</em> 'base of tree'</span>)</td>
 </tr>
 <tr>
 <td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>vū-</i></td>
@@ -320,7 +320,7 @@ As mentioned above, Oceanic languages have terms denoting different parts of woo
 <tr>
 <td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>fuʔu</i></td>
 <td>
-'<span>complete tree or plant</span>' (<span>as <em>infuʔu niu</em> 'coconut tree'</span>)</td>
+'<span>complete tree or plant</span>' (<span>as in <em>fuʔu niu</em> 'coconut tree'</span>)</td>
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>fū</i></td>
@@ -612,23 +612,23 @@ POc _&ast;baRa-baRa_ is a well-supported reconstruction, both in terms of form a
 
 : Table 4.4      Terms for stems of non-woody plants in Nduke, Wayan Fijian and Tikopia
 
-|                  |                                                                                                                                                                                                                       |
-|:-----------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| __Nduke__        |                                                                                                                                                                                                                       |
-| _kamu-_          | The rings in the stem of bamboo, palms and grasses (like sugar-cane).                                                                                                                                                 |
-| _soyoto_         | The stem of a flower.                                                                                                                                                                                                 |
-| _baɣutu-_        | Stem that supports the flowers, and later the fruit, of the coconut.                                                                                                                                                  |
-| _kilikava-_      | Stem of coconut frond, especially at thick end, used e.g to lay on ground to yotolo                                                                                                                                   |
-|                  | mola (push up a canoe at landing).                                                                                                                                                                                    |
-| __Wayan Fijian__ |                                                                                                                                                                                                                       |
-| _kasa_           | Stem of a shrub or small plant, leaf-stalk or petiole stem of a leaf, flower or fruit; new shoots or suckers growing out from trunk or branch of a tree or from main stem of a banana plant. near syn. gau, rovuvaci. |
-| _bābā_           | Stalk or stem of leaves of certain large-leafed plants, esp. stem of taro, banana, coconut.                                                                                                                           |
-| _bālotu_         | A coconut leaf stalk stripped of its leaflets; the stem of the coconut leaf. Used for firewood and torches.                                                                                                           |
-| __Tikopia__      |                                                                                                                                                                                                                       |
-| _kau_            | (N) Stalk, stem supporting bunch of fruit, e.g. bananas, handle of implement.                                                                                                                                         |
-| _fā_             | (N) Leaf stem of a fleshy plant.                                                                                                                                                                                      |
-| _safe_           | (N) Flower stem or fruiting bunch of banana. Tao ma tona safe (banana fruit) bake it in the oven on its stem (ritual procedure).                                                                                      |
-| _pararafa_       | (N) Stem of coconut frond, used traditionally to provide small stirrer for liquids, tiny mallet in tattooing; also used ritually in healing, smoothing temple sand etc.                                               |
+|                  |                                                                                                                                                                                                                           |
+|:-----------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| __Nduke__        |                                                                                                                                                                                                                           |
+| _kamu-_          | The rings in the stem of bamboo, palms and grasses (like sugar-cane).                                                                                                                                                     |
+| _soyoto_         | The stem of a flower.                                                                                                                                                                                                     |
+| _baɣutu-_        | Stem that supports the flowers, and later the fruit, of the coconut.                                                                                                                                                      |
+| _kilikava-_      | Stem of coconut frond, especially at thick end, used e.g to lay on ground to _ɣotolo mola_                                                                                                                                |
+|                  | (push up a canoe at landing).                                                                                                                                                                                             |
+| __Wayan Fijian__ |                                                                                                                                                                                                                           |
+| _kasa_           | Stem of a shrub or small plant, leaf-stalk or petiole stem of a leaf, flower or fruit; new shoots or suckers growing out from trunk or branch of a tree or from main stem of a banana plant. near syn. _gau_, _rovuvaci_. |
+| _bābā_           | Stalk or stem of leaves of certain large-leafed plants, esp. stem of taro, banana, coconut.                                                                                                                               |
+| _bālotu_         | A coconut leaf stalk stripped of its leaflets; the stem of the coconut leaf. Used for firewood and torches.                                                                                                               |
+| __Tikopia__      |                                                                                                                                                                                                                           |
+| _kau_            | (N) Stalk, stem supporting bunch of fruit, e.g. bananas, handle of implement.                                                                                                                                             |
+| _fā_             | (N) Leaf stem of a fleshy plant.                                                                                                                                                                                          |
+| _safe_           | (N) Flower stem or fruiting bunch of banana. _Tao ma tona safe_ (banana fruit) bake it in the oven on its stem (ritual procedure).                                                                                        |
+| _pararafa_       | (N) Stem of coconut frond, used traditionally to provide small stirrer for liquids, tiny mallet in tattooing; also used ritually in healing, smoothing temple sand etc.                                                   |
 
 
 <a id="s-2-3"></a>
@@ -647,14 +647,14 @@ Table 4.5 gives terms for branches in Nduke, Wayan and Tikopia. Nduke has a term
 |:-----------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | __Nduke__        |                                                                                                                                                                                                        |
 | _kapaha-_        | A branch of a plant.                                                                                                                                                                                   |
-| _buru-_          | The _vuŋu_ (fruiting branch) of pevu (coconut) or koke or haoro (the canarium trees), that is plentiful, producing many nuts.                                                                          |
+| _buru-_          | The _vuŋu_ (fruiting branch) of _pevu_ (coconut) or _koke_ or _haoro_ (the canarium trees), that is plentiful, producing many nuts.                                                                    |
 | _vuŋu-_          | A branch or stem bearing fruit, e.g. a bunch of coconuts or betel nut or bananas still attached to the stalk. Particularly this means a cut-down stem that has fruit attached.                         |
 | __Wayan Fijian__ |                                                                                                                                                                                                        |
 | _tula_           | 1. Branch or twig of a woody tree; 2. An alternative way of doing or saying s.t., a paraphrase or different method or expression.                                                                      |
-| _kāsalu_         | 1. Small branch, minor branch of a tree:. contr. tula; 2. (metaph.) Person of no account, of low rank; unimportant person.                                                                             |
+| _kāsalu_         | 1. Small branch, minor branch of a tree:. contr. _tula_; 2. (metaph.) Person of no account, of low rank; unimportant person.                                                                           |
 | __Tikopia__      |                                                                                                                                                                                                        |
 | _maŋa_           | 1. (N) Segmentary division in generaL, e.g. subsidiary tuber or corms in root vegetables, 2. branch (of tree, coral etc), 3. offshoot, bifurcation, 4. abstract sense of variation (e.g. in language). |
-| _rā_             | (N) Stem; twig; minor branch of tree, as opp. to maiJa, a major branch.                                                                                                                                |
+| _rā_             | (N) Stem; twig; minor branch of tree, as opp. to _maŋa_, a major branch.                                                                                                                               |
 | _potunea_        | (N) A small stick or branch.                                                                                                                                                                           |
 | _kaŋokaŋo_       | (N) Twigs; small dead branches.                                                                                                                                                                        |
 
@@ -916,7 +916,7 @@ POc also had two morphologically related forms _&ast;saŋa_ and _&ast;ma-saŋa_ 
 <tr>
 <td>Adm</td><td><a href="../languages/titan">Titan</a></td><td><i>cáŋa</i></td>
 <td>
-'<span>fork in crotch; straddle, climb straddling</span>'</td>
+'<span>fork in tree, crotch; straddle, climb straddling</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td><a href="../languages/titan">Titan</a></td><td><i>cáŋa-n(key)</i></td>
@@ -1146,14 +1146,14 @@ Besides a general term for roots, _&ast;wakaR-_, POc had at least three other mo
 | _ribi_           | Shin, shinbone; buttress root, projecting flank in lower trunk of certain trees. Timber good for handles; Projecting growth sometimes found in yam tubers.                                                                                                                                                                                                                                                                                                                               |
 | _nia_            | Flesh or main substance of s.t. Thus: Flesh of an animal body, including meat, fat and marrow, in contrast to skin (_taba_) and bones (_tua_); Flesh or main edible part of fruit or root excluding the skin or rind; Tuber of root crop, e.g. taro, yam, sweet potato; Mature inner part of a tree, heartwood. near syn. doa; Lower part of stem of the kava plant (_aqona_) in contrast to the root (_waka_) and upper stem (_qai_); Substance or main content of a speech, book, etc. |
 | _vū_             | Base, bottom; Root, taproot, bulbous root. cf. _waka_ fibrous root, _waka tū_ taproot; Origin, source, root; Cause.                                                                                                                                                                                                                                                                                                                                                                      |
-| _waka_           | Roots of a plant. contr. vu, root in sense of base, origin. Kava root, not yet ground.                                                                                                                                                                                                                                                                                                                                                                                                   |
+| _waka_           | Roots of a plant. contr. _vū_, root in sense of base, origin. Kava root, not yet ground.                                                                                                                                                                                                                                                                                                                                                                                                 |
 | _draya_          | Roots or root-hairs of any plant. near syn. waka, which is now more common in this sense.                                                                                                                                                                                                                                                                                                                                                                                                |
 | __Tikopia__      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | _aka_            | (N) Aerial rootlet, as of banyan.                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | _vaiaka_         | (N) Rootlet; spreading roots; aerial root.                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| _raparapa_       | (N) Flange; buttress (cf. raparapa rakau tree trunk buttress; bulging tree roots)                                                                                                                                                                                                                                                                                                                                                                                                        |
+| _raparapa_       | (N) Flange; buttress (cf. _raparapa rakau_ tree trunk buttress; bulging tree roots)                                                                                                                                                                                                                                                                                                                                                                                                      |
 | _fosa_           | (N) Root, esp. taro corm and other root vegetables.                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| _futi_           | (N) Base. Futi o te rakau roots of tree                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| _futi_           | (N) Base. _Futi o te rakau_ roots of tree                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | _fetī_           | (N) Turmeric root                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 
 
@@ -1290,7 +1290,7 @@ Besides a general term for roots, _&ast;wakaR-_, POc had at least three other mo
 <tr>
 <td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>waka-</i></td>
 <td>
-'<span>root or roots of plant, fibrous roots</span>' (<span>cf. <em>waka-tu</em> 'taproot'</span>)</td>
+'<span>root or roots of plant, fibrous roots</span>' (<span>cf. <em>waka-tū</em> 'taproot'</span>)</td>
 </tr>
 <tr>
 <td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td><i>vaʔa</i></td>
@@ -1581,25 +1581,25 @@ In English 'mangrove' refers to a variety of trees and shrubs that grow in coast
 | _hahau-_         | Dead coconut fronds that fall to the ground.                                                                                                                                                                                                                                                                    |
 | _letu-_          | Coconut palm leaflet (i.e. those arranged along the midi stem of the frond). Does not apply to _goe_ 'sago', which has _vuvuru_ 'leaves' along the _kava_ 'frond'.                                                                                                                                              |
 | __Wayan Fijian__ |                                                                                                                                                                                                                                                                                                                 |
-| _susuluka_       | Dry pandanus and banana leaves. contr. botata, dry breadfruit leaves.                                                                                                                                                                                                                                           |
-| _rau_            | 1. Leaf. 2. A hair, hairs of the head. contr. vulu, head hair (as a whole).                                                                                                                                                                                                                                     |
+| _susuluka_       | Dry pandanus and banana leaves. contr. _botata_, dry breadfruit leaves.                                                                                                                                                                                                                                         |
+| _rau_            | 1. Leaf. 2. A hair, hairs of the head. contr. _vulu_, head hair (as a whole).                                                                                                                                                                                                                                   |
 | _belebele_       | Young leaves of any plant.                                                                                                                                                                                                                                                                                      |
 | _tōrau_          | 1. Soft, white young leaves at the top of a coconut tree. Edible; 2. Soft, young leaves of any plant.                                                                                                                                                                                                           |
 | _tua_            | (N) 1. Bone. 2. Rib of a leaf.                                                                                                                                                                                                                                                                                  |
 | _tuabou_         | 1. Spinal column, backbone; 2. Rib of a leaf.                                                                                                                                                                                                                                                                   |
-| _sāsā_           | Dry coconut leaf. syn. basilele samasama.                                                                                                                                                                                                                                                                       |
-| _basilele_       | 1. Coconut leaf, whether dry or still green and growing on the tree. syn. ro ni niu (lit. 'leaf of coconut'). cf. sasa. 2. Broom made of coconut leaf ribs.                                                                                                                                                     |
+| _sāsā_           | Dry coconut leaf. syn. _basilele samasama_.                                                                                                                                                                                                                                                                     |
+| _basilele_       | 1. Coconut leaf, whether dry or still green and growing on the tree. syn. _rō ni niu_ (lit. 'leaf of coconut'). cf. _sāsā_. 2. Broom made of coconut leaf ribs.                                                                                                                                                 |
 | _botata_         | Dry breadfruit leaves.                                                                                                                                                                                                                                                                                          |
 | __Tikopia__      |                                                                                                                                                                                                                                                                                                                 |
 | _rau_            | Classifier for flat objects; hence leaf, sheet etc; also often used alone for sago leaf thatch sheets, and for thatch generic.                                                                                                                                                                                  |
 | _tauru_          | (N) Foliage, esp. collectively, as a mass ofleaves on a tree, spray of fern fronds etc.                                                                                                                                                                                                                         |
-| _siŋano_         | (N) Immature leaf of pandanus or coconut palm, used as decoration (manol)i).                                                                                                                                                                                                                                    |
+| _siŋano_         | (N) Immature leaf of pandanus or coconut palm, used as decoration (_manoŋi_).                                                                                                                                                                                                                                   |
 | _firoi_          | (N) Leaf base of palm.                                                                                                                                                                                                                                                                                          |
-| _mariŋa_         | (N) Small pinnules at base of palmate leaf etc. (e.g. mariŋa rau niu, mariŋa rau ota small coconut, sago pinnules).                                                                                                                                                                                             |
-| _sukusuku_       | (N) Tail, ending. Sukusuku o te rakau top, crest of tee, mass ofleafage. Also tauru o te rakau 'foliage of tree'.                                                                                                                                                                                               |
+| _mariŋa_         | (N) Small pinnules at base of palmate leaf etc. (e.g. _mariŋa rau niu_, _mariŋa rau ota_ small coconut, sago pinnules).                                                                                                                                                                                         |
+| _sukusuku_       | (N) Tail, ending. _Sukusuku o te rakau_ top, crest of tee, mass ofleafage. Also _tauru o te rakau_ 'foliage of tree'.                                                                                                                                                                                           |
 | _fāmātua_        | (N) Mature coconut frond.                                                                                                                                                                                                                                                                                       |
-| _sakilo_         | (N) Immature coconut leaf, of pale colour; used traditionally as decoration for some ritual objects, as a shelf in Resiake temple, or sign of taboo on orchard.                                                                                                                                                 |
-| _ŋausala_        | (N) Midrib of sago pinnule, used as pin for leaf thatch, leaf pads for oven cover; bundle used traditionally as i1 seru for beating rhythm in funeral lament.                                                                                                                                                   |
+| _sakilo_         | (N) Immature coconut leaf, of pale colour; used traditionally as decoration for some ritual objects, as a shelf in _Resiake_ temple, or sign of taboo on orchard.                                                                                                                                               |
+| _ŋausala_        | (N) Midrib of sago pinnule, used as pin for leaf thatch, leaf pads for oven cover; bundle used traditionally as _ū seru_ for beating rhythm in funeral lament.                                                                                                                                                  |
 
 
 <a id="p-103"></a>
@@ -1652,7 +1652,7 @@ In English 'mangrove' refers to a variety of trees and shrubs that grow in coast
 ### 2.5. Leaves
 
 
-As well as a general term for leaf, Oceanic languages tend to have more specific terms referring either to leaves of particular kinds of plants, leaves at different stages of growth, and/or parts of leaves. For example, Wayan has a general term _rau_, three terms that specifically denote coconut leaves _sasa_, _basilele_ and _tōrau_, a term that refers to dry banana or pandanus leaves, _susuluka_, a term for young leaves, _belebele_, and two terms for the midrib of a leaf, _tua_ and _tuabou_. Table 4.7 gives the different terms for leaves from Nduke, Wayan and Tikopia.
+As well as a general term for leaf, Oceanic languages tend to have more specific terms referring either to leaves of particular kinds of plants, leaves at different stages of growth, and/or parts of leaves. For example, Wayan has a general term _rau_, three terms that specifically denote coconut leaves _sāsā_, _basilele_ and _tōrau_, a term that refers to dry banana or pandanus leaves, _susuluka_, a term for young leaves, _belebele_, and two terms for the midrib of a leaf, _tua_ and _tuabou_. Table 4.7 gives the different terms for leaves from Nduke, Wayan and Tikopia.
 
 A generic term for leaf, POc _&ast;raun_, is clearly reconstructable and reflects an earlier Proto Austronesian term with a similar meaning. As some reflexes of _&ast;raun_ denote hair or fur, it seems likely that in POc _&ast;raun_ referred not only to broad surface leaves, but also to the needle-like leaves of casuarinas, but the glosses of most reflexes are not specific enough to determine if this is the case.
 
@@ -1797,7 +1797,7 @@ A generic term for leaf, POc _&ast;raun_, is clearly reconstructable and reflect
 <tr>
 <td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td><i>ṭṣə̄</i></td>
 <td>
-'<span>leaf, sheet</span>' (<span>cf. <em>ṭṣə̄ rii</em> 'coconut leaf, as distinct from frond'</span>)</td>
+'<span>leaf, sheet</span>' (<span>cf. <em>ṭṣə̄ ɾii</em> 'coconut leaf, as distinct from frond'</span>)</td>
 </tr>
 <tr>
 <td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>ṣø</i></td>
@@ -1856,7 +1856,7 @@ A generic term for leaf, POc _&ast;raun_, is clearly reconstructable and reflect
 
 <a id="p-104"></a>
 
-More specific leaf terms are not so easily reconstructable for POc. Modern languages tend to have a number of terms denoting the leaves of different types of plants. Table 4.8 shows the different leaf terms in Iduna (PT), Arosi (SES), Anejom (SV) and Niuean (Pn). As well as representing different regions of Oceania, these languages seem representative of the different ways leaf terms are lexicalised. Some languages, like Iduna, have distinct terms for the leaves of each of a number of different plants, including coconut, pandanus, sago, taro and tobacco. These include terms for leaves used for different purposes. The Niuean dictionary, on the other hand, lists a number of terms for different leaves, but they are mostly compounds containing the general term for leaf, _lau_. Thus _launiu_, comprising _lau_ 'leaf' and _niu_ 'coconut' denotes 'coconut frond ', _laufa_ consisting of _lau_ 'leaf' and _fa_ 'pandanus' denotes pandanus leaf' and _laumamanu_ comprising _lau_ 'leaf' and _mamanu_ 'a common fern, Phymatodes scolopendria' denotes 'fern leaves'.
+More specific leaf terms are not so easily reconstructable for POc. Modern languages tend to have a number of terms denoting the leaves of different types of plants. Table 4.8 shows the different leaf terms in Iduna (PT), Arosi (SES), Anejom (SV) and Niuean (Pn). As well as representing different regions of Oceania, these languages seem representative of the different ways leaf terms are lexicalised. Some languages, like Iduna, have distinct terms for the leaves of each of a number of different plants, including coconut, pandanus, sago, taro and tobacco. These include terms for leaves used for different purposes. The Niuean dictionary, on the other hand, lists a number of terms for different leaves, but they are mostly compounds containing the general term for leaf, _lau_. Thus _launiu_, comprising _lau_ 'leaf' and _niu_ 'coconut' denotes 'coconut frond ', _laufā_ consisting of _lau_ 'leaf' and _fā_ 'pandanus' denotes pandanus leaf' and _laumamanu_ comprising _lau_ 'leaf' and _mamanu_ 'a common fern, Phymatodes scolopendria' denotes 'fern leaves'.
 
 Anejom is in between these two extremes with some compound terms, such as _neri-neañ_ 'coconut frond' comprising _neri-_ 'leaf' and _neañ_ 'coconut', _neri-neto_ 'sugarcane leaf' consisting of _neri-_ 'leaf' and _neto_ 'sugarcane', and _nerintal_ 'taro-leaf' consisting of _neri-_ 'leaf' and _intal_ 'taro (generic)', and some distinct, synchronically unanalysable, lexical items for different leaf types, such as _nilev_ 'dry coconut-leaf used in making house-walls', _nevak_ 'dry pandanus leaf ready for weaving' and _narico_ 'leaf of sugarcane or wild cane (white and itchy)'. Other terms in Anejom, such as _inmatinɣat_ 'dry fallen pandanus leaf' and _inmatito_ 'dry leaves of sugarcane' are compounds consisting of _inmati-_ 'dry leaf of' and contracted forms of the plant names; _inmatiθve_ 'dry coconut leaf looks to be a similar compound although the second element is not clear. For other languages there are only a few leaf terms that denote leaves of specific kinds of plants. For example, Arosi has terms for the leaves of coconut, pandanus and taro.
 
@@ -2038,7 +2038,7 @@ The initial consonant is uncertain because Manam and Tawala reflect _&ast;s_ and
 <tr>
 <td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>dui</i></td>
 <td>
-'<span>banana pllant</span>'</td>
+'<span>banana plant</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>ul-ul</i></td>
@@ -2165,7 +2165,7 @@ The initial consonant is uncertain because Manam and Tawala reflect _&ast;s_ and
 <tr>
 <td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>(u)suri</i></td>
 <td>
-'<span>to transplant</span>' (<span>source of u- not known.</span>)</td>
+'<span>to transplant</span>' (<span>source of <em>u-</em> not known</span>)</td>
 </tr>
 </table>
 
@@ -2410,7 +2410,7 @@ POc also appears to have had a couple of verbal terms that denoted new growth, i
 | _pelara-_        | 1. Wide open, of eye. 2. Any flower that closes at night and opens in the morning, e.g. hibiscus flowers.                                                                                         |
 | __Wayan Fijian__ |                                                                                                                                                                                                   |
 | _sē_             | Blossom, bloom, flower. (N) Flower, blossom of s.t.                                                                                                                                               |
-| _sei_            | Flower of the vadra pandanus tree. Yellow. vadra sei, (N) Tree (_kai_) taxon: Pandanus tectorius syn. _vadra_. Timber used for rafters; old leaves used to wrap cigars and for thatching.         |
+| _sei_            | Flower of the _vadra_ pandanus tree. Yellow. _vadra sei_, (N) Tree (_kai_) taxon: Pandanus tectorius syn. _vadra_. Timber used for rafters; old leaves used to wrap cigars and for thatching.     |
 | _waluwalu_       | Flower of the breadfruit. The fruit grows when the long thin flower drops.                                                                                                                        |
 | __Tikopia__      |                                                                                                                                                                                                   |
 | _sei_            | Flower, especially as in decoration, e.g. in ear lobe, hence any ear ornament' Poss. occ. uttered as _sē_, _sē rakau_ flower of plant. Cf. _sesei_ flower (poss. plural of _sei_, archaic _sēsē_) |
@@ -2426,7 +2426,7 @@ POc also appears to have had a couple of verbal terms that denoted new growth, i
 
 Oceanic languages tend to have a general term that refers to blooms of any kind, like Nduke _havoro_ 'the general term for flower' and Wayan _sē_ 'blossom, bloom, flower'. Some languages also have names for the flowers of specific types of plants, such as Tikopia _kalokalo_ 'bright red flowers of coral tree (ŋatae 'Erythrina sp.')' and _viro_ 'sago flower'.
 
-POc appears to have had two general terms for flower, _&ast;puŋa_, which continues PMP _&ast;buŋa_, and _&ast;se_, and it is not clear how they differed. Both forms are reflected most widely in Eastern Oceanic languages; in fact I have found no Western Oceanic cognates of _&ast;puŋa_ and only one of _&ast;se_.
+POc appears to have had two general terms for flower, _&ast;puŋa_, which continues PMP _&ast;buŋa_, and _&ast;sē_, and it is not clear how they differed. Both forms are reflected most widely in Eastern Oceanic languages; in fact I have found no Western Oceanic cognates of _&ast;puŋa_ and only one of _&ast;sē_.
 
 <table id="3-4-2-7-112-POc-pua-a">
 <tr>
@@ -2534,7 +2534,7 @@ The Fijian, Polynesian and Nakanai forms below suggest the reconstruction of _&a
 <tr>
 <td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>sē</i></td>
 <td>
-'<span>occasional pronunciation of sei (flower) in possessives, e.g. se rakau (flower of plant)</span>'</td>
+'<span>occasional pronunciation of <em>sei</em> (flower) in possessives, e.g. <em>sē rakau</em> (flower of plant)</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td><i>sē</i></td>
@@ -2564,12 +2564,12 @@ A very similar form, _&ast;sei_, appears to be reconstructable for Proto Central
 <tr>
 <td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>sei</i></td>
 <td>
-'<span>flower of the vadra or balawa (pandanus)</span>'</td>
+'<span>flower of the <em>vadra</em> or <em>balawa</em> (pandanus)</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>sei</i></td>
 <td>
-'<span>yellow flower of the vadra pandanus tree</span>'</td>
+'<span>yellow flower of the <em>vadra</em> pandanus tree</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>sei</i></td>
@@ -2614,26 +2614,26 @@ Just as with leaf terms, modern Oceanic languages tend to have one or two more s
 
 : Table 4.11     Terms for fruits in Nduke, Wayan Fijian and Tikopia
 
-|                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-|:-----------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| __Nduke__        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| _malete-_        | Fruit. _malet' pevu_ 'fruit of coconut', _malet' manioko_ 'pawpaw'. Can describe any kind of fruit, whether ripe or already fallen ..                                                                                                                                                                                                                                                                                                                                                                  |
-| _mezu-_          | To be ripe, of kino (cut-nut) or tat'lise (sea-almond) nuts (but not used of canarium nuts). This is determined by the skin of the fruit beginning to soften slightly and the nuts falling down by themselves.                                                                                                                                                                                                                                                                                         |
-| _udo-_           | The spoilage of fruit that happens when fruit-fly or flying foxes attack it. Fruit that is _udo_ often drops to the ground prematurely. In coconuts udo happens when the fruit is still very young.                                                                                                                                                                                                                                                                                                    |
-| _vara-_          | A hand of bananas or _hea_ 'betelnuts', but not of _kino_ 'cutnuts (Barringtonia)' or _haoro_ 'Canarium nuts'. Refers to the separate 'hands' of betelnut or bananas that have been torn off from the full bunch.                                                                                                                                                                                                                                                                                      |
-| __Wayan Fijian__ |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| _vua_            | 1. Fruit; 2. (metaph.) Results, products, offspring. (v) 1. (sub. a plant.) Fruit, bear fruit; 2. (sub. a project, etc.) Produce results, bear fruit. 3. (sub. e.g. people, animal stock.) Increase, multiply.                                                                                                                                                                                                                                                                                         |
-| _vuata_          | 1. Crops, food plants, fruit or vegetables which are harvested. cf. _marawa_, _magiti_ 'vegetables'. 2. Returns, benefits, products of one's work, fruits of one's labour.                                                                                                                                                                                                                                                                                                                             |
-| _ua_             | Bunch or cluster of fruit.                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| _nia_            | Flesh or main substance of s.t. Thus: 1. Flesh of an animal body, including meat, fat and marrow, in contrast to skin (_taba_) and bones (_tua_); 2. Flesh or main edible part of fruit or root excluding the skin or rind; 3. Tuber of root crop, e.g. taro, yam, sweet potato; 4. Mature inner part of a tree, heartwood. near syn. _doa_; 5. Lower part of stem of the kava plant (agona) in contrast to the root (waka) and upper stem (gai); 6. Substance or main content of a speech, book, etc. |
-| _mārawa_         | 1. Ground crops, food-plants obtained from plants other than trees; uncooked vegetables, including root crops, bananas, sugarcane, corn, melons, etc. contr. _vuata_, fruits, _magiti_, food ready for eating or foodstuffs in general. 2. Used by some as a generic term for all food plants, including tree--crops or fruit.                                                                                                                                                                         |
-| _bā_             | Hand of bananas. ba i ata, (N) Top or upper hand. ba ira, (N) Bottom or lower hand.                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| _kalikali_       | 1. Groin, top of the leg where it joins the trunk (of person or animal). near syn. _qiriqiri_. 2. The lowest rows of bananas on a stalk, poorly developed. syn. _kalikali ni tiaina_.                                                                                                                                                                                                                                                                                                                  |
-| __Tikopia__      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| _fua_            | (N) 1. Fruit 2. Analogous objects to fruit, e.g. eggs of fish or birds.                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| _rere_           | (v) 1. Move with speed, rush 2. Develop from bud into fruit.                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| _kaureu_         | (N) Unripe, but damaged fruit, e.g banana bunch which must be cut to avoid loss.                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| _moa_            | (N) Banana fruit on stem in formative stage.                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+|                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|:-----------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| __Nduke__        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| _malete-_        | Fruit. _malet' pevu_ 'fruit of coconut', _malet' manioko_ 'pawpaw'. Can describe any kind of fruit, whether ripe or already fallen ..                                                                                                                                                                                                                                                                                                                                                                      |
+| _mezu-_          | To be ripe, of _kino_ (cut-nut) or _tat'lise_ (sea-almond) nuts (but not used of canarium nuts). This is determined by the skin of the fruit beginning to soften slightly and the nuts falling down by themselves.                                                                                                                                                                                                                                                                                         |
+| _udo-_           | The spoilage of fruit that happens when fruit-fly or flying foxes attack it. Fruit that is _udo_ often drops to the ground prematurely. In coconuts _udo_ happens when the fruit is still very young.                                                                                                                                                                                                                                                                                                      |
+| _vara-_          | A hand of bananas or _hea_ 'betelnuts', but not of _kino_ 'cutnuts (Barringtonia)' or _haoro_ 'Canarium nuts'. Refers to the separate 'hands' of betelnut or bananas that have been torn off from the full bunch.                                                                                                                                                                                                                                                                                          |
+| __Wayan Fijian__ |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| _vua_            | 1. Fruit; 2. (metaph.) Results, products, offspring. (v) 1. (sub. a plant.) Fruit, bear fruit; 2. (sub. a project, etc.) Produce results, bear fruit. 3. (sub. e.g. people, animal stock.) Increase, multiply.                                                                                                                                                                                                                                                                                             |
+| _vuata_          | 1. Crops, food plants, fruit or vegetables which are harvested. cf. _marawa_, _magiti_ 'vegetables'. 2. Returns, benefits, products of one's work, fruits of one's labour.                                                                                                                                                                                                                                                                                                                                 |
+| _ua_             | Bunch or cluster of fruit.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| _nia_            | Flesh or main substance of s.t. Thus: 1. Flesh of an animal body, including meat, fat and marrow, in contrast to skin (_taba_) and bones (_tua_); 2. Flesh or main edible part of fruit or root excluding the skin or rind; 3. Tuber of root crop, e.g. taro, yam, sweet potato; 4. Mature inner part of a tree, heartwood. near syn. _doa_; 5. Lower part of stem of the kava plant (agona) in contrast to the root (_waka_) and upper stem (_gai_); 6. Substance or main content of a speech, book, etc. |
+| _mārawa_         | 1. Ground crops, food-plants obtained from plants other than trees; uncooked vegetables, including root crops, bananas, sugarcane, corn, melons, etc. contr. _vuata_, fruits, _magiti_, food ready for eating or foodstuffs in general. 2. Used by some as a generic term for all food plants, including tree--crops or fruit.                                                                                                                                                                             |
+| _bā_             | Hand of bananas. _bā i ata_, (N) Top or upper hand. _bā i rā_, (N) Bottom or lower hand.                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| _kalikali_       | 1. Groin, top of the leg where it joins the trunk (of person or animal). near syn. _qiriqiri_. 2. The lowest rows of bananas on a stalk, poorly developed. syn. _kalikali ni tiaina_.                                                                                                                                                                                                                                                                                                                      |
+| __Tikopia__      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| _fua_            | (N) 1. Fruit 2. Analogous objects to fruit, e.g. eggs of fish or birds.                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| _rere_           | (v) 1. Move with speed, rush 2. Develop from bud into fruit.                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| _kaureu_         | (N) Unripe, but damaged fruit, e.g banana bunch which must be cut to avoid loss.                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| _moa_            | (N) Banana fruit on stem in formative stage.                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 
 
 <a id="p-115"></a>
@@ -2858,7 +2858,7 @@ POc also had several terms that for clusters or bunches of fruit. The most gener
 <tr>
 <td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>fuŋu</i></td>
 <td>
-'<span>bearing fruit; bunch offruit</span>'</td>
+'<span>bearing fruit; bunch of fruit</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>hunu</i></td>
@@ -2868,7 +2868,7 @@ POc also had several terms that for clusters or bunches of fruit. The most gener
 <tr>
 <td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>huŋu-</i></td>
 <td>
-'<span>a bunch or cluster offruit</span>'</td>
+'<span>a bunch or cluster of fruit</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>vuŋ</i></td>
@@ -3019,7 +3019,7 @@ Also attributable to POc is a distinct term for the stem of fruit, probably deno
 '<span>(banana) stem</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>kəlᶭæ</i></td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>kəlᵚæ</i></td>
 <td>
 '<span>fruit stem; stalk, leaf-stem, petiole</span>'</td>
 </tr>
@@ -3179,17 +3179,71 @@ In a number of modern Oceanic languages, including Manam, Carolinian and Tikopia
 
 As noted in [§2.8](../contributions/3-4#s-2-8), POc _&ast;puaq_ was another term that could refer to the seeds of a plant as part of a broader meaning that also encompassed 'fruit'. A number of Oceanic languages have a distinct term for the seeds of the breadfruit, but as can be seen from the following list, the modern terms are rarely cognate.
 
-```
-   Adm:  Lou           komʷit-     'breadfruit seed'
-   NNG:  Kaulong       emlu        'breadfruit seed'
-   NNG:  Mangseng      salemi      'breadfruit seed'
-   MM:   Bola          baki        'breadfruit seed'
-   MM:   Nakanai       kako        'breadfruit seed'
-   MM:   Ramoaaina     tat         'breadfruit seed'
-   SES:  Gela          dui         'breadfruit seed'
-   Mic:  Kosraean      kɔlɔ        'breadfruit seed'
-   Mic:  Carolinian    bʷuxili     'edibl1e seeds from one variety of breadfruit'
-```
+<table id="3-4-2-9-119-adm-lou-komit">
+<tr>
+<td>Adm</td>
+<td>Lou</td>
+<td><i>komʷit-</i></td>
+<td>
+'<span>breadfruit seed</span>'</td>
+</tr>
+<tr>
+<td>NNG</td>
+<td>Kaulong</td>
+<td><i>emlu</i></td>
+<td>
+'<span>breadfruit seed</span>'</td>
+</tr>
+<tr>
+<td>NNG</td>
+<td>Mangseng</td>
+<td><i>salemi</i></td>
+<td>
+'<span>breadfruit seed</span>'</td>
+</tr>
+<tr>
+<td>MM</td>
+<td>Bola</td>
+<td><i>baki</i></td>
+<td>
+'<span>breadfruit seed</span>'</td>
+</tr>
+<tr>
+<td>MM</td>
+<td>Nakanai</td>
+<td><i>kako</i></td>
+<td>
+'<span>breadfruit seed</span>'</td>
+</tr>
+<tr>
+<td>MM</td>
+<td>Ramoaaina</td>
+<td><i>tat</i></td>
+<td>
+'<span>breadfruit seed</span>'</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>Gela</td>
+<td><i>dui</i></td>
+<td>
+'<span>breadfruit seed</span>'</td>
+</tr>
+<tr>
+<td>Mic</td>
+<td>Kosraean</td>
+<td><i>kɔlɔ</i></td>
+<td>
+'<span>breadfruit seed</span>'</td>
+</tr>
+<tr>
+<td>Mic</td>
+<td>Carolinian</td>
+<td><i>bʷuxili</i></td>
+<td>
+'<span>edible seeds from one variety of breadfruit</span>'</td>
+</tr>
+</table>
 
 The data given by [Ross](../sources/Ross1996d) ([1996d](../sources/Ross1996d): 188) allow the reconstruction of PWOc _&ast;kalijo_ 'edible kernel of breadfruit segments', but no term with this meaning is reconstructable for POc.
 
@@ -3235,7 +3289,7 @@ The data given by [Ross](../sources/Ross1996d) ([1996d](../sources/Ross1996d): 1
 <tr>
 <td>NNG</td><td><a href="../languages/ali">Ali</a></td><td><i>alic</i></td>
 <td>
-'<span>breadfnuit</span>'</td>
+'<span>breadfruit</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/halia">Halia</a></td><td><i>ariro</i></td>
@@ -3255,7 +3309,7 @@ The data given by [Ross](../sources/Ross1996d) ([1996d](../sources/Ross1996d): 1
 
 <a id="p-120"></a>
 
-The breadfruit is a syncarp, a compound fruit with many segments arranged around the core, which itself is the spike of the original flower. POc &ast;malo- denoted both the flower spike and the fruit core.
+The breadfruit is a syncarp, a compound fruit with many segments arranged around the core, which itself is the spike of the original flower. POc _&ast;malo-_ denoted both the flower spike and the fruit core.
 
 <table id="3-4-2-9-120-POc-malo-a">
 <tr>
@@ -3264,7 +3318,7 @@ The breadfruit is a syncarp, a compound fruit with many segments arranged around
 <i>&ast;malo-</i>
 </td>
 <td>
-'<span>breadfruit flower, breadfruit core</span>' (<span>Blust 1972b: *malo(n) 'core of the breadfruit'</span>)</td>
+'<span>breadfruit flower, breadfruit core</span>' (<span>Blust 1972b: <em>*malo(n)</em> 'core of the breadfruit'</span>)</td>
 </tr>
 <tr>
 <td>NNG</td><td><a href="../languages/bariai">Bariai</a></td><td><i>malo</i></td>
@@ -3445,29 +3499,29 @@ In many modern Oceanic languages the same word is used for skin (of animals and 
 
 : Table 4.13   Terms for outer coverings in Nduke, Wayan Fijian and Tikopia
 
-|                  |                                                                                                                                                                                                                                                                                                           |
-|:-----------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| __Nduke__        |                                                                                                                                                                                                                                                                                                           |
-| _poko-_          | The husk or covering of grain. Variant: _popoko-_.                                                                                                                                                                                                                                                        |
-| _pululu_         | The cover over fruit found on some palm trees.                                                                                                                                                                                                                                                            |
-| _tutupa-_        | The bark of a tree.                                                                                                                                                                                                                                                                                       |
-| _punutu-_        | Fibrous epidermis round the base of a coconut frond. The punutu looks like an open-weave cloth, and is used for straining coconut 'milk' from squeezed coconut flesh .                                                                                                                                    |
-| _rereto-_        | Spathe of the coconut, the 'boat' that accompanies the flowers and baby coconuts. The flowers and fruits (coconuts) are themselves supported by the _baɣutu_ (stem).                                                                                                                                      |
-| _pepenete-_      | Husk of a mature coconut, and also the thick coir or fibre that makes up the inside of the husk.                                                                                                                                                                                                          |
-| __Wayan Fijian__ |                                                                                                                                                                                                                                                                                                           |
-| _sau_            | 1. Shell or endocarp of any organism; 2. Anything which has had the good parts taken out, which is reduced to its waste or useless parts; thus, waste material, offal, rind or husk of fruit, food refuse, etc; 3. Rubbish in general, refuse, garbage.                                                   |
-| _taba_           | Outer or covering layer. Thus: 1. Skin or hide; 2. Bark; 3. Rind or husk of fruit; 4. Shell or outer case (of egg, football); 5. Page or leaf of paper.                                                                                                                                                   |
-| _taliŋa_         | 1. Ear (of animal); 2. Carved knob or horn at base of curve on kiakavo club; 3. Sheath or calyx containing the seed and flower of certain fruits. Taliŋa ni kulu sheath or calyx containing the seed and flower of breadfruit; taliŋa ni tiaina sheath or calyx containing the seed and flower of banana. |
-| _basili_         | Dead skin of the stem of a banana plant.                                                                                                                                                                                                                                                                  |
-| _sāmoa_          | 1. Hard sheath or calyx enclosing the flower of a coconut. Used as a torch.syn. _basiwara_. 2. Coconut flower before the sheath bursts.                                                                                                                                                                   |
-| __Tikopia__      |                                                                                                                                                                                                                                                                                                           |
-| _kiri_           | (N) Skin (of man, animal); bark (of tree). Cf. _raukiri_ 'bark of tree' .                                                                                                                                                                                                                                 |
-| _moko_           | (N) Outer (covering), applied especially to bark, skin.                                                                                                                                                                                                                                                   |
-| _vākai_          | (N) Fibre of inner cortex of plants, esp. hibiscus; used for cord, pads for expressing coconut cream, pad for preparing kava and (dyed) ornament for pandanus mats.                                                                                                                                       |
-| _penu_           | (N) 1. Integument, outer covering of object, as shell, husk, rind etc.                                                                                                                                                                                                                                    |
-| _paku_           | (ADJ) 1. blunt 2. hard 3. rind, crust.                                                                                                                                                                                                                                                                    |
-| _puru_           | (N) Husk, primarily of coconut (_puru niu_), since no other palm nut husk of economic interest; a fibrous dense material used as fuel or for domestic purposes such as cleaning wooden bowls, but mainly as lashing or after special treatment, for preparation of sinnet cord.                           |
-| _taume_          | (N) Spathe or sheathing-leaf of flower of coconut palm; when dry used for fuel. Traditionally supplied fire for the ritual dancing in _Marae_.                                                                                                                                                            |
+|                  |                                                                                                                                                                                                                                                                                                                 |
+|:-----------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| __Nduke__        |                                                                                                                                                                                                                                                                                                                 |
+| _poko-_          | The husk or covering of grain. Variant: _popoko-_.                                                                                                                                                                                                                                                              |
+| _pululu_         | The cover over fruit found on some palm trees.                                                                                                                                                                                                                                                                  |
+| _tutupa-_        | The bark of a tree.                                                                                                                                                                                                                                                                                             |
+| _punutu-_        | Fibrous epidermis round the base of a coconut frond. The punutu looks like an open-weave cloth, and is used for straining coconut 'milk' from squeezed coconut flesh .                                                                                                                                          |
+| _rereto-_        | Spathe of the coconut, the 'boat' that accompanies the flowers and baby coconuts. The flowers and fruits (coconuts) are themselves supported by the _baɣutu_ (stem).                                                                                                                                            |
+| _pepenete-_      | Husk of a mature coconut, and also the thick coir or fibre that makes up the inside of the husk.                                                                                                                                                                                                                |
+| __Wayan Fijian__ |                                                                                                                                                                                                                                                                                                                 |
+| _sau_            | 1. Shell or endocarp of any organism; 2. Anything which has had the good parts taken out, which is reduced to its waste or useless parts; thus, waste material, offal, rind or husk of fruit, food refuse, etc; 3. Rubbish in general, refuse, garbage.                                                         |
+| _taba_           | Outer or covering layer. Thus: 1. Skin or hide; 2. Bark; 3. Rind or husk of fruit; 4. Shell or outer case (of egg, football); 5. Page or leaf of paper.                                                                                                                                                         |
+| _taliŋa_         | 1. Ear (of animal); 2. Carved knob or horn at base of curve on _kiakavo_ club; 3. Sheath or calyx containing the seed and flower of certain fruits. _Taliŋa ni kulu_ sheath or calyx containing the seed and flower of breadfruit; _taliŋa ni tiaina_ sheath or calyx containing the seed and flower of banana. |
+| _basili_         | Dead skin of the stem of a banana plant.                                                                                                                                                                                                                                                                        |
+| _sāmoa_          | 1. Hard sheath or calyx enclosing the flower of a coconut. Used as a torch.syn. _basiwara_. 2. Coconut flower before the sheath bursts.                                                                                                                                                                         |
+| __Tikopia__      |                                                                                                                                                                                                                                                                                                                 |
+| _kiri_           | (N) Skin (of man, animal); bark (of tree). Cf. _raukiri_ 'bark of tree' .                                                                                                                                                                                                                                       |
+| _moko_           | (N) Outer (covering), applied especially to bark, skin.                                                                                                                                                                                                                                                         |
+| _vākai_          | (N) Fibre of inner cortex of plants, esp. hibiscus; used for cord, pads for expressing coconut cream, pad for preparing kava and (dyed) ornament for pandanus mats.                                                                                                                                             |
+| _penu_           | (N) 1. Integument, outer covering of object, as shell, husk, rind etc.                                                                                                                                                                                                                                          |
+| _paku_           | (ADJ) 1. blunt 2. hard 3. rind, crust.                                                                                                                                                                                                                                                                          |
+| _puru_           | (N) Husk, primarily of coconut (_puru niu_), since no other palm nut husk of economic interest; a fibrous dense material used as fuel or for domestic purposes such as cleaning wooden bowls, but mainly as lashing or after special treatment, for preparation of sinnet cord.                                 |
+| _taume_          | (N) Spathe or sheathing-leaf of flower of coconut palm; when dry used for fuel. Traditionally supplied fire for the ritual dancing in _Marae_.                                                                                                                                                                  |
 
 
 <a id="p-122"></a>
@@ -3557,6 +3611,12 @@ Specific terms for the outer coverings of different parts of the coconut are als
 
 <a id="p-123"></a>
 
+
+<a id="s-2-11"></a>
+
+### 2.11. Sap, resin
+
+
 : Table 4.14   Terms for sap or resin in Nduke, Wayan Fijian and Tikopia
 
 |                  |                                                                                                                       |
@@ -3564,19 +3624,13 @@ Specific terms for the outer coverings of different parts of the coconut are als
 | __Nduke__        |                                                                                                                       |
 | _oto-_           | The sap or gum of trees and some fruits (e.g. unripe pawpaw). _Oto_ appears when you cut the stem of a tree or plant. |
 | __Wayan Fijian__ |                                                                                                                       |
-| _toya_           | Sap of a tree, especially when runny. contr. bulei.                                                                   |
+| _toya_           | Sap of a tree, especially when runny. contr. _būlei_.                                                                 |
 | _būlei_          | 1. Gum, sticky sap exuded from tree or fruit. 2. Chewing gum.                                                         |
-| _makadre_        | (N) Resin or sap of the kauri pine (_dakua_), not present on Waya. cf. toya. Used for torches and for glazing pots.   |
+| _makadre_        | (N) Resin or sap of the kauri pine (_dakua_), not present on Waya. cf. _toya_. Used for torches and for glazing pots. |
 | __Tikopia__      |                                                                                                                       |
 | _piki_           | 1. (V) Cling; stick to; adhere; clasp. 2. (N) Adhesive material: gum, resin etc from breadfruit and other trees.      |
 | _vale_           | (N) Resin; also saliva.                                                                                               |
 | _toto_           | (N) 1. Blood. 2. Sap of plants and trees.                                                                             |
-
-
-<a id="s-2-11"></a>
-
-### 2.11. Sap, resin
-
 
 Table 4.14 gives the terms for sap or resin in Nduke, Wayan and Tikopia. Nduke appears to have a single term _oto-_ 'the sap or gum of trees and some fruits'. Tikopia and Wayan, on the other hand, have several different terms. In Wayan _toya_ denotes sap, especially when it's runny, _būlei_ denotes sticky sap or gum, and _makadre_ denotes the gum or resin of the kauri tree which is used for glazing pots.
 
@@ -3598,7 +3652,7 @@ The Oceanic data, shown in the cognate set below, suggest the reconstruction of 
 <i>&ast;bul[i,u]t</i>
 </td>
 <td>
-[N] '<span>sap (of plant) or other sticky substance</span>'; [vT] '<span>be sticky</span>' (<span>Capell1943: *bulu(t)</span>)</td>
+[N] '<span>sap (of plant) or other sticky substance</span>'; [vT] '<span>be sticky</span>' (<span>Capell 1943: <em>*bulu(t)</em></span>)</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
@@ -3651,7 +3705,7 @@ The Oceanic data, shown in the cognate set below, suggest the reconstruction of 
 <tr>
 <td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>pulu</i></td>
 <td>
-'<span>pitch, gum, native cement; a nut, Parinarium laurinum, is scraped on rough coral rock and darkened in colour with a mixture of charcoal and the juice of the oʔa tree; the cement hardens almost immediately</span>'</td>
+'<span>pitch, gum, native cement; a nut, Parinarium laurinum, is scraped on rough coral rock and darkened in colour with a mixture of charcoal and the juice of the <em>oʔa</em> tree; the cement hardens almost immediately</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>put, pulu</i></td>
@@ -3674,7 +3728,7 @@ The Oceanic data, shown in the cognate set below, suggest the reconstruction of 
 '<span>to join (VT)</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>pᶭil</i></td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>pᵚil</i></td>
 <td>
 '<span>sap, chewing gum</span>'</td>
 </tr>
@@ -3895,11 +3949,11 @@ In a number of languages terms for 'thorn' reflect POc terms that are best recon
 
 This chapter presents more than 40 POc reconstructions of terms that denote the parts of plants. In general the number and types of terms that are reconstructable for POc within each of the 12 semantic categories are similar to those found in modern Oceanic languages. For example, modern languages tend to have several terms that refer to the roots of plants, typically including a term for roots in general and a number of more specific terms denoting different types of roots. Similarly, for POc a general term for roots, _&ast;wakaR_, and several more specific terms, _&ast;lali(t,c)_ 'buttress roots', _&ast;Ramut_ 'fine, hair-like roots' and _&ast;wako(t)_ 'mangrove (aerial) roots', can be reconstructed. The same is true for terms referring to outer coverings. POc _&ast;kulit_ denoted the skin of fruits and the bark of trees, as well as the skin of animals and people. Alongside _&ast;kulit_, POc also had specific terms for coconut husk (_&ast;punut_, _&ast;(p,pʷ)enut_) and for the sheath of fibrous material around the base of a coconut frond (_&ast;Runut_, _&ast;nuRut_). Many modern Oceanic languages have similar types of terms for outer coverings.
 
-Modern Oceanic languages also tend to have extensive terminologies for the parts of the coconut palm, its fruit and their uses (Table 4.1 ). Chapter 12 is devoted to this topic.
+Modern Oceanic languages also tend to have extensive terminologies for the parts of the coconut palm, its fruit and their uses (Table 4.1). Chapter 12 is devoted to this topic.
 
 The number of general plant part terms reconstructed for POc, over 30, is similar to the numbers of such terms in Wayan (nearly 50), Tikopia (nearly 50) and Nduke (over 30). However, these modern languages have a much larger number of terms for the parts of particular types of plants (nearly 20 in all three languages), than can be reconstructed for POc (7 terms in this chapter). This difference was particularly apparent with the terms for leaves. Table 4.8 gave a selection of the range of terms for leaves in a number of Oceanic languages, demonstrating how modern Oceanic languages typically have several terms for the leaves of particular types of plants, including coconut, taro and pandanus. [Ross](../sources/Ross1996d) ([1996d](../sources/Ross1996d)) reconstructs POc terms for taro leaves (_&ast;gal(a,o)_) and palm fronds (_&ast;[pa]paq[a-]_), and POc _&ast;sulu(q)_ 'coconut leaf torch' could probably also refer to dry coconut leaves, but other terms for the leaves of particular types of plants do not appear to be reconstructable.
 
-Table 4.2 shows the range of terms in a number of modern languages for parts of banana plants. Many Oceanic languages, including Lou, Iduna, Gapapaiwa, Gumawana, Ramoaaina, Gela, Longgu, Wayan, and E Futunan, have tenms that specifically denote the new shoots or suckers of banana plants, but such a specific term does not appear to be reconstructable for POc. Rather, POc _&ast;[s,j]uli(q)_ apparently denote:d propagation material in general (including suckers and shoots), though it may have referred especially to the suckers of banana and taro. Modern Oceanic languages also tend to have more specific terms for bunches of bananas than can be reconstructed for POc. Thus Lou has a term _pɔrɔk_ denoting a new bunch of bananas and several terms for hands of bananas, including _topʷan_ 'first banana hand', _ŋɔrɛn_ 'last hand of bananas', _sɛt_ 'one hand of bananas' and _turɛt_ 'two hands of bananas'. For POc only the more general term _&ast;qitiŋ_ 'hand of bananas' can be reconstructed.
+Table 4.2 shows the range of terms in a number of modern languages for parts of banana plants. Many Oceanic languages, including Lou, Iduna, Gapapaiwa, Gumawana, Ramoaaina, Gela, Longgu, Wayan, and E Futunan, have tenms that specifically denote the new shoots or suckers of banana plants, but such a specific term does not appear to be reconstructable for POc. Rather, POc _&ast;[s,j]uli(q)_ apparently denoted propagation material in general (including suckers and shoots), though it may have referred especially to the suckers of banana and taro. Modern Oceanic languages also tend to have more specific terms for bunches of bananas than can be reconstructed for POc. Thus Lou has a term _pɔrɔk_ denoting a new bunch of bananas and several terms for hands of bananas, including _topʷan_ 'first banana hand', _ŋɔrɛn_ 'last hand of bananas', _sɛt_ 'one hand of bananas' and _turɛt_ 'two hands of bananas'. For POc only the more general term _&ast;qitiŋ_ 'hand of bananas' can be reconstructed.
 
 
 <a id="p-127"></a>
@@ -3923,7 +3977,7 @@ It is unlikely that the structure and detail of the POc terminology for plant pa
 
 [^6]: Gela _lualako_ and Wayan _tido_ are verbal forms meaning 'to flower (of a banana)'.
 
-[^7]: Marshallese _wiṛᶭweṛᶭ_ can also be used for bunches of coconuts.
+[^7]: Marshallese _wiṛᵚweṛᵚ_ can also be used for bunches of coconuts.
 
 [^8]: Marshallese _pɛrwaŋ_ denotes the stalk inside a bunch of bananas or breadfruit.
 
@@ -3951,6 +4005,6 @@ It is unlikely that the structure and detail of the POc terminology for plant pa
 
 [^13]: [Blust](../sources/Blust1976b) ([1976b](../sources/Blust1976b)) reconstructs a term _&ast;kuRo_ 'stem, trunk' on the basis of Gela _kulo_ 'stem of a banana' and Samoan _ʔuo_ 'short thick log (about six feet long)', but the additional data presented above indicate that the Samoan form is not cognate, and that the POc term was more restricted in its meaning.
 
-[^14]: Reflects &ast;kaligo rather than &ast;kalijo.
+[^14]: Reflects _&ast;kaligo_ rather than _&ast;kalijo_.
 
 [^15]: The _-ʔia_ ending of Kwaio _buluʔia_ probably reflects the transitive suffix and 3SG object suffix. While there is no corresponding intransitive form †_bulu_, Kwaio does have other forms that look to be derived from an original base _&ast;bulu_, such as _bulua_ 'squeeze together' and _iola bulubulu_ 'a traditional composite canoe' (_iola_ 'canoe') ([Keesing 1975](../sources/Keesing1975): 29).

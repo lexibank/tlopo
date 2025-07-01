@@ -365,7 +365,7 @@ Areca catechu is a slender palm which grows up to 30 m. Its crown is smaller rel
 
 <a id="p-392"></a>
 
-Figure 13.1: Left: Areca catechu, betelnut: A, tree; B, portion of inflorescence; C, portion of fruit cluster; D, fruit: longitudinal section showing fibrous exocarp and inner chewed 'nut'. Right: Piper betle: E, plant; F, G, H, flowering shoots of three varieties.
+Figure 13.1: Left: Areca catechu, betelnut: __A__, tree; __B__, portion of inflorescence; __C__, portion of fruit cluster; __D__, fruit: longitudinal section showing fibrous exocarp and inner chewed 'nut'. Right: Piper betle: __E__, plant; __F__, __G__, __H__, flowering shoots of three varieties.
 
 Chewing betelnut as a stimulant is widespread in Papua New Guinea and the Solomon Islands, but not in other parts of the Pacific. Palms are grown in village groves or singly near houses. The seed may be chewed alone, but usually people chew a quid consisting of the seed, lime and a catkin or leaf of Piper betle ([§2.2.2](../contributions/3-13#s-2-2-2)) (Paijmans 1976: 135).[^1] Chewing the seed induces salivation, and if lime is present it turns the chewed mass bright red. Some people swallow all but the initial burst of saliva, whilst others spit out the red masticate. Initially, chewing leads to a very short-lived dizziness, folllowed by a sense of renewed wakefulness. In Papua New Guinea and parts of the Solomons chewing betelnut is a social ritual when people meet. Convention requires that the host offer betelnut to visitors ([Henderson & Hancock 1988](../sources/HendersonandHancock1988): 146). The husk of the fruit is sometimes used to clean the teeth after chewing, as the quid causes uncleaned teeth to turn dark brown.
 
@@ -1790,7 +1790,7 @@ Aleurites moluccana is a tree which grows to between 10 and 35 m in height, depe
 
 In Vanuatu A. moluccana is not cultivated, as planted seeds do not germinate well, but people protect new seedlings ([Walter & Sam 2002](../sources/WalterandSam2002): 88). In Fiji the tree occurs close to villages but not in the wild, implying that it is planted.
 
-Figure 13.4: Aleurites moluccana: A, tree; B, leaves and inflorescence; C, whole fruit; D, kernel (candlenut).
+Figure 13.4: Aleurites moluccana: __A__, tree; __B__, leaves and inflorescence; __C__, whole fruit; __D__, kernel (candlenut).
 
 The candlenut owes its name to the fact that in earlier times the nuts were threaded onto the midrib of a coconut palm leaf and lit, burning slowly one after another and giving a feeble light. The smoke given off is also a good insect repellant ([Sperlich 1997](../sources/Sperlich1997)). Charred seeds are used in New Ireland to make a sooty paint for blackening the face in mourning ([Peekel 1984](../sources/Peekel1984): 313) and by Ponapeans for making a black or brown dye. The oil extracted from them is also used as a paint base in New Britain ([Powell 1976](../sources/Powell1976)) and to polish wood in Fiji, where an extract of the seed is also used to scent the oil ([Gardner & Pawley 2006](../sources/GardnerandPawley2006)). The products of A. moluccana have numerous medicinal uses ([Walter & Sam 2002](../sources/WalterandSam2002): 89).
 
@@ -2053,7 +2053,7 @@ M. citrifolia is a tree with many uses in Oceanic speaking societies. Wild young
 
 <a id="p-407"></a>
 
-Figure 13.6: Left Morinda citrifolia, Indian mUtlberry: A, mature tree; B, shoot bearing leaves, fruit and flowers. Right Derris species: A, climbing plant; B, base of mature vine; C, woody vine stem; D, vine with leaves and pods; E, stem with inflorescence; F, immature leaf.
+Figure 13.6: __Left__ Morinda citrifolia, Indian mUtlberry: __A__, mature tree; __B__, shoot bearing leaves, fruit and flowers. __Right__ Derris species: __A__, climbing plant; __B__, base of mature vine; __C__, woody vine stem; __D__, vine with leaves and pods; __E__, stem with inflorescence; __F__, immature leaf.
 
 There were apparently two POc labels for M. citrifolia, &ast;fiofiu and &ast;kurat. If [Verheijen](../sources/Verheijen1990) ([1990](../sources/Verheijen1990): 86) has correctly identified the referent of Bima (CMP) nonu as M. citrifolia (he marks it with a question mark), then &ast;fiofiu is reconstructable for PCEMP and was inherited into POc. If Tagalog, Bisayan, Tausug nino M. citrifolia ([Madulid 2001a](../sources/Madulid2001a): 527) are also cognate with POc &ast;fiofiu, then PMP &ast;fiefiu is reconstructable. Milke reconstructed this etymon as POc &ast;fiofium with final &ast;-m, but the only reflexes with this segment are Gedaged nonom and Takia nom. Both languages lose POc final &ast;- VC, and it is more likely that -m in both languages irregularly reflects medial POc &ast;-fi-, with reduplication in Gedaged.
 
@@ -3304,7 +3304,7 @@ cf. also:
 <i>&ast;jiRi</i>
 </td>
 <td>
-'<span>taxon consisting of Cordylinefruticosa and Dracaena angustifolia</span>' (<span>Milke 1968: *diRi; Ross 1988</span>)</td>
+'<span>taxon consisting of Cordylinefruticosa and Dracaena angustifolia</span>' (<span>Milke 1968: <em>*diRi</em>; Ross 1988</span>)</td>
 </tr>
 <tr>
 <td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>sii</i></td>
@@ -3347,7 +3347,7 @@ cf. also:
 '<span>tree sp., Euphorbeaceae</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/wampur">Wampur</a></td><td><i>rici?</i></td>
+<td>NNG</td><td><a href="../languages/wampur">Wampur</a></td><td><i>riciʔ</i></td>
 <td>
 '<span>cordyline</span>'</td>
 </tr>
@@ -3922,7 +3922,7 @@ Crinum asiaticum is a large lily with long erect leaves that are arranged in a s
 
 <a id="p-422"></a>
 
-Figure 13.10: Left: Heliconia solomonensis: A, plant; B, mature inflorescence, open and showing fruit. Right: Crinum asiaticum, spider lily.
+Figure 13.10: Left: Heliconia solomonensis: __A__, plant; __B__, mature inflorescence, open and showing fruit. Right: Crinum asiaticum, spider lily.
 
 At Tinputz (Bougainville) the pounded roots of this plant were mixed with red iron oxide and the mixture was rubbed onto coconut palm trunks to ensure that they bore well ([Blackwood 1935](../sources/Blackwood1935): 311). The Nakanai of New Britain and the Marovo use the light-coloured leaf bases as trolling lures to catch large fish, in Marovo barracuda and Spanish mackerel ([Hviding 2005](../sources/Hviding2005): 103, [Floyd 1954](../sources/Floyd1954)). The Nakanai also use the leaves for making women's leaf skirts. In Marovo the leaves are used to treat bruises and fractures.
 

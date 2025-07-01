@@ -21,11 +21,8 @@ In this chapter, indeed in this volume, we are mainly concerned with NW Island M
 There are a number of ways in which one might classify plants as a basis for dividing this book into chapters. Ideally the classification should be one which has some basis in POc terminologies, since the reconstruction of these terminologies is what we are about. Some obvious ways of classifying Oceanic plants are:
 
 a. by use;
-
 b. by ethnobotanical category;
-
 c. by vegetation habitat;
-
 d. by whether the plant is wild, tended or cultivated.
 
 
@@ -37,7 +34,7 @@ d. by whether the plant is wild, tended or cultivated.
 ### 2.1. Classification by use
 
 
-Although use forms the basis of an important work on the plants of the Solomon Islands ([Henderson & Hancock 1988](../sources/HendersonandHancock1988)), so many named plants have multiple uses that this criterion is not a suitable basis for classification. Plants may provide food (starch, greens, fruit or nuts), construction materials (housing timber, canoe components, cordage), firewood, caulking, adornment, perfume, medicines, fish poison, parcelling, baskets and mats and more. The extent of multiple usages is highlighted by [Thaman](../sources/Thaman1994) ([1994](../sources/Thaman1994)), who analyses the uses of 140 plant species commonly found in the habitats of the Oceanic-speaking Pacific.[^1] He finds that the 140 species have a mean of 7.3 uses each, the coconut palm having the maximum of 125 uses and just two species having no uses. The most frequently reported use was medicinal, with 113 species out of 140 being used medicinally. Sixty species provided construction timber (including 54 out of 62 tree species). Thirty-four species were used in canoe- or boat-building (including 30 tree species). Fifty-one species were used as firewood (including 43 tree species). Thirty species provided dyes. Twenty-eight were used in making fishing equip- ment. And so on. The picture presented by [Powell](../sources/Powell1976) ([1976](../sources/Powell1976)) for New Guinea is similar.
+Although use forms the basis of an important work on the plants of the Solomon Islands ([Henderson & Hancock 1988](../sources/HendersonandHancock1988)), so many named plants have multiple uses that this criterion is not a suitable basis for classification. Plants may provide food (starch, greens, fruit or nuts), construction materials (housing timber, canoe components, cordage), firewood, caulking, adornment, perfume, medicines, fish poison, parcelling, baskets and mats and more. The extent of multiple usages is highlighted by [Thaman](../sources/Thaman1994) ([1994](../sources/Thaman1994)), who analyses the uses of 140 plant species commonly found in the habitats of the Oceanic-speaking Pacific.[^1] He finds that the 140 species have a mean of 7.3 uses each, the coconut palm having the maximum of 125 uses and just two species having no uses. The most frequently reported use was medicinal, with 113 species out of 140 being used medicinally. Sixty species provided construction timber (including 54 out of 62 tree species). Thirty-four species were used in canoe- or boat-building (including 30 tree species). Fifty-one species were used as firewood (including 43 tree species). Thirty species provided dyes. Twenty-eight were used in making fishing equipment. And so on. The picture presented by [Powell](../sources/Powell1976) ([1976](../sources/Powell1976)) for New Guinea is similar.
 
 There is a vast literature on the medicinal uses of plants in Oceanic societies, but no attempt is made to review it in the pages of this book. Many plants have many different medicinal uses, often varying from place to place, and, conversely, similar maladies are treated with preparations from many different plants in different places. This means that there is no real likelihood of reconstructing the medicinal uses to which early Oceanic speakers put individual plants. In chapters 5-8 medicinal uses of plants are mentioned for those Island NW Melanesian and niVanuatu societies for which a substantial body of ethnobotanical information is available (sources are listed in[ch 2, §5.2](../contributions/3-2#s-5-2)), but this is intended as a sample, not a survey.
 
@@ -47,7 +44,7 @@ There is a vast literature on the medicinal uses of plants in Oceanic societies,
 ### 2.2. Classification by ethnobotanical categocy
 
 
-The second possibility is ethnobotanical classification. In chapter 3 Evans reconstructs five major first-order categories of plant distinguished by POc speakers: _&ast;kayu_ 'tree, shrub', _&ast;waroc_ 'vine', _&ast;pali[s,j]i_ 'grass', _&ast;taliŋa_ 'mushroom' and _&ast;limut_ or _&ast;lumut_ 'moss, algae'. A classification on this basis is certainly possible, but, as Evans points out, there are residual categories like palms ([ch.3, §4.3](../contributions/3-3#s-4-3)), 'clumps', bamboos, ferns and pandanus ([ch.3, §4.8](../contributions/3-3#s-4-8)) which may or may not have been counted as _&ast;kayu_ by POc speakers. Thus there were quite possibly a number of fairly small first-order categories in addition to the five for which Evans is able to reconstruct labels above. Candidates are &ast;qauR, generic for bamboos ([ch. 13, §3 .1](../contributions/3-13#s-3-1)), and _&ast;padran_, generic for pandanus species as well as denoting the coastal pandanus, _Pandanus tectorius_ ([ch.11, §2.5.1](../contributions/3-11#s-2-5-1)).
+The second possibility is ethnobotanical classification. In chapter 3 Evans reconstructs five major first-order categories of plant distinguished by POc speakers: _&ast;kayu_ 'tree, shrub', _&ast;waroc_ 'vine', _&ast;pali[s,j]i_ 'grass', _&ast;taliŋa_ 'mushroom' and _&ast;limut_ or _&ast;lumut_ 'moss, algae'. A classification on this basis is certainly possible, but, as Evans points out, there are residual categories like palms ([ch.3, §4.3](../contributions/3-3#s-4-3)), 'clumps', bamboos, ferns and pandanus ([ch.3, §4.8](../contributions/3-3#s-4-8)) which may or may not have been counted as _&ast;kayu_ by POc speakers. Thus there were quite possibly a number of fairly small first-order categories in addition to the five for which Evans is able to reconstruct labels above. Candidates are &ast;qauR, generic for bamboos ([ch. 13, §3.1](../contributions/3-13#s-3-1)), and _&ast;padran_, generic for pandanus species as well as denoting the coastal pandanus, _Pandanus tectorius_ ([ch.11, §2.5.1](../contributions/3-11#s-2-5-1)).
 
 The largest problem with using ethnobotanical classification as a basis for categorising the reconstructions in this book, however, is practical: _&ast;kayu_ is a huge category, in need of subdivisions for which Evans finds no linguistic warrant.
 
@@ -64,29 +61,21 @@ The third and fourth classificatory approaches form the basis of the chapter div
 
 This mixed classification reflects the primary POc land use division between _&ast;qutan_ 'bushland, hinterland; inland', where wild plants grow, and _&ast;quma_ 'garden, plantation', where plants are cultivated.
 
-Wild plants are then divided primarily by vegetation habitat: coastal strand vegetation, mangrove swamp, primary lowland rain forest, and secondary lowland rain forest and grass- land. This has the virtue of placing plants in their environments and in relationship to one another within the environment. Oceanic languages have names for types of location (even though the reconstruction of POc names for them is somewhat problematic, partly because the best described Oceanic environments are rather different from one another: see [vol.2, ch.3, §1](../contributions/2-3#s-1)), and we can assume that this arrangement is at least not radically at odds with POc speakers' conceptualisations of their environment,
+Wild plants are then divided primarily by vegetation habitat: coastal strand vegetation, mangrove swamp, primary lowland rain forest, and secondary lowland rain forest and grassland. This has the virtue of placing plants in their environments and in relationship to one another within the environment. Oceanic languages have names for types of location (even though the reconstruction of POc names for them is somewhat problematic, partly because the best described Oceanic environments are rather different from one another: see [vol.2, ch.3, §1](../contributions/2-3#s-1)), and we can assume that this arrangement is at least not radically at odds with POc speakers' conceptualisations of their environment,
 
 Food plants are divided first into the two major categories of the POc menu: _&ast;kanaŋ_ 'starchy food, staples' and _&ast;tamaji_ 'additional ingredients to accompany starchy food'. The latter is included in three chapters, on green vegetables, nut and fruit trees, and the coconut palm. The last is treated in a separate chaplter because of the complexity of its associated terminology. A further chapter treats plants that are cultivated, but not primarily for food.
 
-The two chapters following this one, chapters 3 and 4, are by Bethwyn Evans, who treats the POc primary ethnobotanical classification and POc terms for parts of plants. The remain- ing chapters follow the outline just provided:
+The two chapters following this one, chapters 3 and 4, are by Bethwyn Evans, who treats the POc primary ethnobotanical classification and POc terms for parts of plants. The remaining chapters follow the outline just provided:
 
-5. plants of the coastal strand
-
-6. plants of the mangrove swamp
-
-7. plants of primary lowland rain forest
-
-8. plants of secondary lowland rain forest and grassland
-
-9. staple food sources
-
-10. green vegetables
-
-11. nut and fruit trees
-
-12. the coconut palm
-
-13. other cultivated plants
+   5. plants of the coastal strand
+   6. plants of the mangrove swamp
+   7. plants of primary lowland rain forest
+   8. plants of secondary lowland rain forest and grassland
+   9. staple food sources
+  10. green vegetables
+  11. nut and fruit trees
+  12. the coconut palm
+  13. other cultivated plants
 
 The placing of plants in the first four of these chapters is at times a little arbitrary, as the same plant may occur in more than one habitat type. Crossreferences are provided to take account of this.
 
@@ -103,29 +92,21 @@ The agronomic boundary between bush and garden is fuzzy in Oceanic food producti
 
 Five natural vegetation habitats are recognised by botanists in NW Island Melanesia. The types and their descriptions are drawn mainly from [Mueller-Dombois & Fosberg](../sources/MuellerDomboisandFosberg1998) ([1998](../sources/MuellerDomboisandFosberg1998): 50--72).[^2] Four of these are:
 
-1. coastal strand vegetation:
-
-a) herbaceous zone
-
-b) beach scrub
-
-c) littoral forest
-
-2. mangrove forest
-
-3. freshwater swamp forest
-
-4. primary lowland rain forest
+ 1. coastal strand vegetation:
+    a) herbaceous zone
+    b) beach scrub
+    c) littoral forest
+ 2. mangrove forest
+ 3. freshwater swamp forest
+ 4. primary lowland rain forest
 
 The fifth is the montane rain forest of New Britain, New Ireland and Bougainville, but this probably played little role, if any, in the lives of POc speakers and is not discussed further in this volume.
 
 In addition there are three anthropogenic vegetation habitats:
 
-1. garden vegetation
-
-2. secondary lowland rain forest
-
-3. grassland
+ 1. garden vegetation
+ 2. secondary lowland rain forest
+ 3. grassland
 
 These vegetation habitats are briefly described below, each with a listing of the species of which it is typically composed.
 
@@ -166,9 +147,9 @@ As [Barrau](../sources/Barrau1955) ([1955](../sources/Barrau1955): 17) notes, in
 #### 3.1.2. Mangrove forest
 
 
-Mangrove forests occur on stretches of coastline sheltered from wave action or along estuaries or even on protected coral reefs, and especially in areas where there is regular rainfall which washes salt out of the soil. The mangrove forest may extend from seawater salinity on the seaward side to almost freshwater conditions on the landward side, where there is usually an abrupt transition to freshwater swamp forest. Mangrove forests are located in the intertidal zone, so the seaward margin undergoes much deeper twice-daily inundation than the landward margin. On the seaward margin species include A vicennia marina, Sonneratia caseolaris, S. alba and occasionally Ceriops tagal. Further landward Rhizophora and then Bruguiera species take over and the canopy assumes a forest stature. Towards its landward border the mangrove forest becomes more diverse, forming a canopy up to 25 m in height, and in the Bismarcks includes Lumnitzera littorea, Xylocarpus granatum, Excoecaria agallocha, Camptostemon schultzii, Heritiera littoralis, Intsia bijuga and Inocarpus fagifer. Intsia bijuga and Inocarpus fagifer are also common lowland rain forest and swamp forest trees. The more landward mangrove forest is more open and has an undergrowth of shrubs and low-stature trees including Dolichandrone spathacea and Myristica hollrungii. The Nypa fruticans palm also grows on the landward side of estuarine swamps (Paijmans 1976: 31-34, [Mueller-Dombois & Fosberg 1998](../sources/MuellerDomboisandFosberg1998):50--5 1).
+Mangrove forests occur on stretches of coastline sheltered from wave action or along estuaries or even on protected coral reefs, and especially in areas where there is regular rainfall which washes salt out of the soil. The mangrove forest may extend from seawater salinity on the seaward side to almost freshwater conditions on the landward side, where there is usually an abrupt transition to freshwater swamp forest. Mangrove forests are located in the intertidal zone, so the seaward margin undergoes much deeper twice-daily inundation than the landward margin. On the seaward margin species include A vicennia marina, Sonneratia caseolaris, S. alba and occasionally Ceriops tagal. Further landward Rhizophora and then Bruguiera species take over and the canopy assumes a forest stature. Towards its landward border the mangrove forest becomes more diverse, forming a canopy up to 25 m in height, and in the Bismarcks includes Lumnitzera littorea, Xylocarpus granatum, Excoecaria agallocha, Camptostemon schultzii, Heritiera littoralis, Intsia bijuga and Inocarpus fagifer. Intsia bijuga and Inocarpus fagifer are also common lowland rain forest and swamp forest trees. The more landward mangrove forest is more open and has an undergrowth of shrubs and low-stature trees including Dolichandrone spathacea and Myristica hollrungii. The Nypa fruticans palm also grows on the landward side of estuarine swamps (Paijmans 1976: 31-34, [Mueller-Dombois & Fosberg 1998](../sources/MuellerDomboisandFosberg1998):50--51).
 
-In the Solomons Lumnitzera littorea, Ceriops tagal and Dolichandrone spathacea occur towards the landward border of the mangrove forest. Inland of these are Sonneratia species and Xylocarpus granatum and as the ground becomes less saline Calophyllum inophyllum, Fagraea racemosa, Heritiera littoralis,Intsia bijuga and Pandanus species, with an understorey of ferns and the shrub Acanthus ebracteatus ([Henderson & Hancock 1988](../sources/HendersonandHancock1988): 319).
+In the Solomons Lumnitzera littorea, Ceriops tagal and Dolichandrone spathacea occur towards the landward border of the mangrove forest. Inland of these are Sonneratia species and Xylocarpus granatum and as the ground becomes less saline Calophyllum inophyllum, Fagraea racemosa, Heritiera littoralis, Intsia bijuga and Pandanus species, with an understorey of ferns and the shrub Acanthus ebracteatus ([Henderson & Hancock 1988](../sources/HendersonandHancock1988): 319).
 
 
 <a id="p-30"></a>
@@ -179,7 +160,7 @@ In the Solomons Lumnitzera littorea, Ceriops tagal and Dolichandrone spathacea o
 #### 3.1.3. Freshwater swamp forest
 
 
-Freshwater swamp forests occur on larger islands in areas where the water table, often brackish, is near the surface and during high-rainfall seasons sometimes above it. These locations are typically flat areas near the coast with poorly drained soils. In NW Island Melanesia, all large tracts of freshwater swamp forest are found in Bougainville and the Solomons. They are few and small in the Bismarcks: there are patches on the north coast of New Britain, two deltas in the south of New Ireland, and a small amount (about 7%) on Manus Island and Los Negros (Paijmans 1976:37-48, [Mueller-Dombois & Fosberg 1998](../sources/MuellerDomboisandFosberg1998):51-52,60,71, [Freyne & Bell 1982](../sources/FreyneandBell1982)). Since the homeland of POc speakers was quite clearly in the Bismarcks, no chap- ter in the present volume is devoted to freshwater swamp forest. The trees characteristic of this habitat are in any case all found elsewhere, usually in lowland rain forests.
+Freshwater swamp forests occur on larger islands in areas where the water table, often brackish, is near the surface and during high-rainfall seasons sometimes above it. These locations are typically flat areas near the coast with poorly drained soils. In NW Island Melanesia, all large tracts of freshwater swamp forest are found in Bougainville and the Solomons. They are few and small in the Bismarcks: there are patches on the north coast of New Britain, two deltas in the south of New Ireland, and a small amount (about 7%) on Manus Island and Los Negros (Paijmans 1976:37-48, [Mueller-Dombois & Fosberg 1998](../sources/MuellerDomboisandFosberg1998):51-52,60,71, [Freyne & Bell 1982](../sources/FreyneandBell1982)). Since the homeland of POc speakers was quite clearly in the Bismarcks, no chapter in the present volume is devoted to freshwater swamp forest. The trees characteristic of this habitat are in any case all found elsewhere, usually in lowland rain forests.
 
 
 <a id="s-3-1-4"></a>
@@ -212,7 +193,7 @@ Much of the vegetation in NW Island Melanesia today is anthropogenic. It falls i
 
 <a id="p-31"></a>
 
-Lapita villages were apparently typically located on or immediately behind the beach, as many modern villages in the Bismarcks still are. When a contemporary village is on the beach, however, the gardens often lie a distance away in the rainforest, sometimes in the submontane foothills. Villagers in rain forest areas of NW Island Melanesia typically follow a system which has been labelled 'bush fallowing rotaltion'. The forest is cleared, the garden is planted and harvested for about a year, then left fallow for 10--15 years. During the first two years of the fallow period, some crops continue to be harvested from the garden. Typically a family is entitled to use a number of garden plots which have been cleared by earlier generations and which are at different stages of fallowing rotation. Children are taught which plots the family may use, which places are good for taro, which for yams, and so on, across the whole fallow area used by the family as well as in current gardens ([Kwa'ioloa & Burt 2001](../sources/KwaioloaandBurt2001): 30). If a family has enough garden plots, then there is no need to create new plots by clearing primary forest. If not, then either plots will be used more frequently (not an ideal choice) or a new plot will be created by clearing forest. If the fallow period is long enough and rainfall is sufficient, then primary regrowth occurs and the garden plot more or less merges back into the primary forest. If the land is reused too early, then eventually secondary forest replaces primary regrowth. In drier areas it is replaced by grassland ([Barrau 1955](../sources/Barrau1955): 17, 31, 1962: 45-47).
+Lapita villages were apparently typically located on or immediately behind the beach, as many modern villages in the Bismarcks still are. When a contemporary village is on the beach, however, the gardens often lie a distance away in the rainforest, sometimes in the submontane foothills. Villagers in rain forest areas of NW Island Melanesia typically follow a system which has been labelled 'bush fallowing rotation'. The forest is cleared, the garden is planted and harvested for about a year, then left fallow for 10--15 years. During the first two years of the fallow period, some crops continue to be harvested from the garden. Typically a family is entitled to use a number of garden plots which have been cleared by earlier generations and which are at different stages of fallowing rotation. Children are taught which plots the family may use, which places are good for taro, which for yams, and so on, across the whole fallow area used by the family as well as in current gardens ([Kwa'ioloa & Burt 2001](../sources/KwaioloaandBurt2001): 30). If a family has enough garden plots, then there is no need to create new plots by clearing primary forest. If not, then either plots will be used more frequently (not an ideal choice) or a new plot will be created by clearing forest. If the fallow period is long enough and rainfall is sufficient, then primary regrowth occurs and the garden plot more or less merges back into the primary forest. If the land is reused too early, then eventually secondary forest replaces primary regrowth. In drier areas it is replaced by grassland ([Barrau 1955](../sources/Barrau1955): 17, 31, 1962: 45-47).
 
 Garden vegetation today includes planted trees and sometimes wild trees that were present when the forest was cleared and are tended in situ (chapter 11), as well as the various staples (chapter 9) and plants grown as green vegetables (chapter 10). Trees vary from place to place but include breadfruit (Artocarpus altilis), mango (Mangifera indica), Malay apple (Syzygium malaccense), golden apples (Spondias cytherea), dragon plums (Dracontomelon dao and D. vitiense), canarium almonds (Canarium indicum and C. salomonense), Barringtonia edulis, Citrus (mostly recent introductions), guava (another recent introduction) and coconut palms (chapter 12).
 
@@ -222,9 +203,9 @@ Garden vegetation today includes planted trees and sometimes wild trees that wer
 #### 3.2.2. Secondary lowland rain forest
 
 
-[Henderson & Hancock](../sources/HendersonandHancock1988) ([1988](../sources/HendersonandHancock1988): 323) give an account of the regrowth sequence in the Solomons. Secondary rain forest trees tend to be more light-demanding species, which include Acalypha grandis, Alphitonia incana, Hibiscus tiliaceus, Macaranga species, Melochia umbellata, Pipturus argenteus and Schleinitzia novo-guineensis, alongside planted species of M usa and Heliconia. As the fallow progresses, they lose their dominance to species typical of older regrowth such as Falcataria moluccana, Cananga odorata, Ficus species, Kleinhovia hospita, Rhus taitensis and Trichospermum psilocladum, along with the breadfruit and the mango and treeferns like Cyathea brackenridgei and C. lunulata. Gingers occur in the shrub layer, along with the palms Areca catechu and Caryota rumphiana. Finally, some of the large tree species of primary forest return, especially Pometia pinnata and Vitex cofassus.
+[Henderson & Hancock](../sources/HendersonandHancock1988) ([1988](../sources/HendersonandHancock1988): 323) give an account of the regrowth sequence in the Solomons. Secondary rain forest trees tend to be more light-demanding species, which include Acalypha grandis, Alphitonia incana, Hibiscus tiliaceus, Macaranga species, Melochia umbellata, Pipturus argenteus and Schleinitzia novo-guineensis, alongside planted species of Musa and Heliconia. As the fallow progresses, they lose their dominance to species typical of older regrowth such as Falcataria moluccana, Cananga odorata, Ficus species, Kleinhovia hospita, Rhus taitensis and Trichospermum psilocladum, along with the breadfruit and the mango and treeferns like Cyathea brackenridgei and C. lunulata. Gingers occur in the shrub layer, along with the palms Areca catechu and Caryota rumphiana. Finally, some of the large tree species of primary forest return, especially Pometia pinnata and Vitex cofassus.
 
-[Mueller-Dombois & Fosberg](../sources/MuellerDomboisandFosberg1998) ([1998](../sources/MuellerDomboisandFosberg1998): 63) describe forest regrowth in Bougainville, but their stages are less clearly delineated than Henderson & Hancock's. Regrowth vegetation includes wild varieties of cultivated plants, along with Heliconia indica, gingers, Caryota palms, grasses (Imperata cylindrica, Paspalum, Pennisetum macrostachyum), Kleinhovia hospita, Hibiscus tiliaceus, and species of Macaranga and Ficus ([Mueller-Dombois & Fosberg 1998](../sources/MuellerDomboisandFosberg1998): 63). Important secondary growth is dominated by species of Glochidion, Macaranga and Mallotus, along with species of Trema, Alphitonia, Casuarina, Trichospermum and Hibiscus, and the species Leucaena leucocephala, Kleinhovia hospita, Paraserianthes falcataria, M elanolepis multiglandulosa and Burckella obovata. There are also primary forest trees that have not been removed: Canarium and Barringtonia species, breadfruit and Pangium edule. In older secondary forest Cananga, Endospermum, Canarium, Euodia, Laportea and Sterculia occur (Paijmans 1976: 59).
+[Mueller-Dombois & Fosberg](../sources/MuellerDomboisandFosberg1998) ([1998](../sources/MuellerDomboisandFosberg1998): 63) describe forest regrowth in Bougainville, but their stages are less clearly delineated than Henderson & Hancock's. Regrowth vegetation includes wild varieties of cultivated plants, along with Heliconia indica, gingers, Caryota palms, grasses (Imperata cylindrica, Paspalum, Pennisetum macrostachyum), Kleinhovia hospita, Hibiscus tiliaceus, and species of Macaranga and Ficus ([Mueller-Dombois & Fosberg 1998](../sources/MuellerDomboisandFosberg1998): 63). Important secondary growth is dominated by species of Glochidion, Macaranga and Mallotus, along with species of Trema, Alphitonia, Casuarina, Trichospermum and Hibiscus, and the species Leucaena leucocephala, Kleinhovia hospita, Paraserianthes falcataria, Melanolepis multiglandulosa and Burckella obovata. There are also primary forest trees that have not been removed: Canarium and Barringtonia species, breadfruit and Pangium edule. In older secondary forest Cananga, Endospermum, Canarium, Euodia, Laportea and Sterculia occur (Paijmans 1976: 59).
 
 
 <a id="p-32"></a>
@@ -247,7 +228,7 @@ The division of vegetation habitats into natural and anthropogenic reminds us th
 
 [Kennedy & Clarke](../sources/KennedyandClarke2004) ([2004](../sources/KennedyandClarke2004)) argue that there is no sensible line to be drawn between crops grown in gardens and crops acquired from the bush, because they together constitute an integrated system of resource management. They examine the literature on sago, canarium, pandanus, breadfruit and bananas, and show that all five have long been tended and transplanted in ways that have fundamentally altered the landscape. They list other plants with similarly long-term relationships with human beings: Gnetum gnemon, Inocarpus fagifer, Pangium edule and Pometia pinnata. We can add to this list at least Barringtonia edulis, B. novae-hiberniae, B. procera, Burckella obovata, Dracontomelon species, Spondias cytherea, Syzygium malaccense, S. aqueum, Terminalia catappa and T. kaernbachii (A. [Walter 1994](../sources/Walter1994)).
 
-Breadfruit (Artocarpus altilis) and canarium almond (C. indicum and C. salomonense) trees are usually individually owned and tended where they have grown in the forest, either naturally or from planted suckers. Forest growth is cleared away from around the base of the breadfruit tree, and it may be fenced. Breadfruit seedlings are often also transplanted to village areas and older plants may be propagated by planting-depending on location-seeds, root cuttings or suckers.[^4] In the Solomons most canarium trees are planted near villages, but some grow wild. Terminalia catappa and T. kaernbachii are also often planted, whilst other Terminalia species with edible kernels (T. copelandii, T. impediens) are harvested from the forest. Several Syzygium species have edible fruit (S. malaccense, S. aqueum) and are either tended within the forest or planted. Barringtonia edulis is commonly planted as a village fruit tree in the Solomons (Paijmans 1976: 123-124, [Evans 1999](../sources/Evans1999): 1).
+Breadfruit (Artocarpus altilis) and canarium almond (C. indicum and C. salomonense) trees are usually individually owned and tended where they have grown in the forest, either naturally or from planted suckers. Forest growth is cleared away from around the base of the breadfruit tree, and it may be fenced. Breadfruit seedlings are often also transplanted to village areas and older plants may be propagated by planting - depending on location - seeds, root cuttings or suckers.[^4] In the Solomons most canarium trees are planted near villages, but some grow wild. Terminalia catappa and T. kaernbachii are also often planted, whilst other Terminalia species with edible kernels (T. copelandii, T. impediens) are harvested from the forest. Several Syzygium species have edible fruit (S. malaccense, S. aqueum) and are either tended within the forest or planted. Barringtonia edulis is commonly planted as a village fruit tree in the Solomons (Paijmans 1976: 123-124, [Evans 1999](../sources/Evans1999): 1).
 
 The importance of tree crops to Pacific Islanders was first stressed by [Barrau](../sources/Barrau1955) ([1955](../sources/Barrau1955), 1963) and reinforced by [Yen](../sources/Yen1974a) ([1974a](../sources/Yen1974a)). They pointed out that fruits and nuts that were reported simply to be gathered were in fact tended in varying degrees as part of the agricultural system. This has been reaffirmed by other scholars, e.g. [Thaman](../sources/Thaman1989) ([1989](../sources/Thaman1989)), [Flavelle](../sources/Flavelle1991) ([1991](../sources/Flavelle1991)), A. [Walter](../sources/Walter1994) ([1994](../sources/Walter1994)), [McEldowney](../sources/Mceldowney1995) ([1995](../sources/Mceldowney1995)), [Hviding & Bayliss-Smith](../sources/HvidingandBaylissSmith2000) ([2000](../sources/HvidingandBaylissSmith2000): 23), [Chowning](../sources/Chowning2001) ([2001](../sources/Chowning2001): 77-78), [Walter & Sam](../sources/WalterandSam2002) ([2002](../sources/WalterandSam2002): 76--77) and [McClatchey et al.](../sources/McClatcheyetal2006a) ([2006a](../sources/McClatcheyetal2006a)). For example, on Baluan Island (Admiralties) McEldowney found 23 tree crops, 17 of which were fruit- or nut-bearing. All occurred in three different types of location: near villages, in orchards, and scattered across gardened land. [Kennedy & Clarke](../sources/KennedyandClarke2004) ([2004](../sources/KennedyandClarke2004)) point out that the situation is sometimes even more complicated, as the status of a crop can range from wild through tended to cultivated, i.e. planted and cloned, and wild varieties are often used alongside domesticated plants, i.e. propagated vegetatively by cuttings or by planting suckers.
 
@@ -263,9 +244,9 @@ The extent of agriculture in the Bismarck Archipelago before the arrival of POc 
 
 <a id="p-34"></a>
 
-[LeBlanc](../sources/LeBlanc2002) ([2002](../sources/LeBlanc2002)) argues that for a population to adopt agriculture, it is necessary for it already to be sedentary. IfNW Island Melanesian populations encountered by arriving Austronesian speakers in New Britain, New Ireland, Manus, Buka and Bougainville did not already practise agriculture, they were almost certainly sedentary and would probably have shifted fairly rapidly to agriculture. The language map of New Britain, New Ireland and the Solomons offers circumstantial support for a hypothesis that these populations either did not have agriculture or were agriculturally inferior to the new arrivals. There are today tiny scattered groups each speaking its own Papuan language, surrounded by numerous Oceanic languages, a number of which show signs of Papuan influence in their phonology or gram- mar.[^6] The implication of this linguistic geography is that there were once far more Papuan languages in NW Island Melanesia, but as their populations adopted agricultural practices from their Austronesian-speaking neighbours they also adopted their languages.
+[LeBlanc](../sources/LeBlanc2002) ([2002](../sources/LeBlanc2002)) argues that for a population to adopt agriculture, it is necessary for it already to be sedentary. If NW Island Melanesian populations encountered by arriving Austronesian speakers in New Britain, New Ireland, Manus, Buka and Bougainville did not already practise agriculture, they were almost certainly sedentary and would probably have shifted fairly rapidly to agriculture. The language map of New Britain, New Ireland and the Solomons offers circumstantial support for a hypothesis that these populations either did not have agriculture or were agriculturally inferior to the new arrivals. There are today tiny scattered groups each speaking its own Papuan language, surrounded by numerous Oceanic languages, a number of which show signs of Papuan influence in their phonology or grammar.[^6] The implication of this linguistic geography is that there were once far more Papuan languages in NW Island Melanesia, but as their populations adopted agricultural practices from their Austronesian-speaking neighbours they also adopted their languages.
 
-This does not mean that these populations simply shifted mode of subsistence. Foraging sedentism also seems to be a necessary precursor of agriculture ([Cohen 2002](../sources/Cohen2002)), and we have no reason to suppose that populations acquiring agriculture simply abandoned their previous practices. Rather it is a reasonable inference that they retained their hunting and tree-tending practices and combined these with newly acquired cultivation practices. It is thus possible that the hunting and tree-tending practices of early Lapita culture reflect at least in part an inheritance from pre-Lapita inhabitants of the Bismacks. What is certain is that about 1.3 kg of Canarium indicum and about 130 grams of Terminalia have been found in Lapita archaeological contexts in the Arawe Islands (off the southwest coast of New Britain) ([Matthews & Gosden 1997](../sources/MatthewsandGosden1997)). This is of course not direct evidence of Lapita tree-tending, but it is direct evidence that canarium nuts in particular were an important item of consumption among POc speakers. [Kirch](../sources/Kirch1989) ([1989](../sources/Kirch1989)) found circumstantial evidence for arboriculture in a Lapita assemblage on Mussau Island which included shells of Aleurites moluccana, Burckella, Canarium, coconut, Spondias cytherea, and Terminalia, peri carp of I nocarpus fagifer and seeds of Pometia pinnata.
+This does not mean that these populations simply shifted mode of subsistence. Foraging sedentism also seems to be a necessary precursor of agriculture ([Cohen 2002](../sources/Cohen2002)), and we have no reason to suppose that populations acquiring agriculture simply abandoned their previous practices. Rather it is a reasonable inference that they retained their hunting and tree-tending practices and combined these with newly acquired cultivation practices. It is thus possible that the hunting and tree-tending practices of early Lapita culture reflect at least in part an inheritance from pre-Lapita inhabitants of the Bismacks. What is certain is that about 1.3 kg of Canarium indicum and about 130 grams of Terminalia have been found in Lapita archaeological contexts in the Arawe Islands (off the southwest coast of New Britain) ([Matthews & Gosden 1997](../sources/MatthewsandGosden1997)). This is of course not direct evidence of Lapita tree-tending, but it is direct evidence that canarium nuts in particular were an important item of consumption among POc speakers. [Kirch](../sources/Kirch1989) ([1989](../sources/Kirch1989)) found circumstantial evidence for arboriculture in a Lapita assemblage on Mussau Island which included shells of Aleurites moluccana, Burckella, Canarium, coconut, Spondias cytherea, and Terminalia, pericarp of Inocarpus fagifer and seeds of Pometia pinnata.
 
 We cannot take it for granted that agriculture in the POc period was the same as it is today, but there is reasonable evidence that it was not very different. Presumably the area of forest that had been turned into gardens was less than it is today, and the areas of anthropogenic vegetation habitats were therefore also less extensive. But linguistic evidence ([§5](../contributions/3-2#s-5)) indicates that bush fallowing was already well established in NW Island Melanesia by the time POc broke up into daughter-languages.
 
@@ -278,17 +259,16 @@ We cannot take it for granted that agriculture in the POc period was the same as
 POc had terms denoting the contrast between land with natural primary vegetation and land cleared for gardening:
 
 - _&ast;qutan_ 'bushland, hinterland; inland' ([vol.1, ch.5, §3.3](../contributions/1-5#s-3-3); [vol.2, ch.3, §5.1](../contributions/2-3#s-5-1) and [ch.8, §2.2.1](../contributions/3-8#s-2-2-1))
-
 - _&ast;quma_ 'garden; to clear land for a garden' ([vol.1, ch.5, §3.1](../contributions/1-5#s-3-1))
 
 
 <a id="p-35"></a>
 
-In a few languages the reflex of _&ast;qutan_ means 'garden' (Mussau _utana_, Banoni _ɣitana_, Tolo _uta_, Nese _na-ut_), a seemingly odd reversal of meaning-odd until one recognises that a secondary sense of _&ast;qutan_ was 'inland' ([vol.2, ch.8, §2.2.1](../contributions/2-8#s-2-2-1)), itself a natural outcome of the fact that the bush is always inland in relation to a coastal village. Since gardens were also inland from a coastal village, and sometimes quite a distance inland, the inference that _&ast;qutan_ is a metonymous term for 'garden' entails only a small jump.
+In a few languages the reflex of _&ast;qutan_ means 'garden' (Mussau _utana_, Banoni _ɣitana_, Tolo _uta_, Nese _na-ut_), a seemingly odd reversal of meaning - odd until one recognises that a secondary sense of _&ast;qutan_ was 'inland' ([vol.2, ch.8, §2.2.1](../contributions/2-8#s-2-2-1)), itself a natural outcome of the fact that the bush is always inland in relation to a coastal village. Since gardens were also inland from a coastal village, and sometimes quite a distance inland, the inference that _&ast;qutan_ is a metonymous term for 'garden' entails only a small jump.
 
 Contrasting with _&ast;quma_ along the bush fallowing cycle was POc _&ast;talu(n)_ 'old garden, fallow land, land returning to secondary growth' ([vol.1, ch.5, §3.1](../contributions/1-5#s-3-1); [vol.2, ch.3, §5.1](../contributions/2-3#s-5-1)).
 
-The term _&ast;qutan_ appears to have denoted uncultivated land in general, whether it was _&ast;talu(n),_ land returning to secondary growth after cultivation, or bushland that had never been brought under cultivation. The term for the latter appears to have been POc _&ast;[waRu]waRu-_ 'appears' because there are phonological problems in the data. On one hand Misima, Proto Malaita-Makira and PPn all reflect the reconstructed form regularly, assuming that final _&ast;-o_ of PPn _&ast;wao_ reflects assimilation. On the other hand PMic medial _&ast;-l-_ reflects POc &ast;-l-, not _&ast;-R-_. This irregularity is unexplained, but cannot be dismissed too lightly, as Proto Malaita- Makira _&ast;[walu]walu_ could also reflect a form with POc _&ast;-l-_. I reconstruct POc _&ast;[waRu]waRu_ because this explains a larger range of reflexes, but further data might lead to a revision.[^7]
+The term _&ast;qutan_ appears to have denoted uncultivated land in general, whether it was _&ast;talu(n)_, land returning to secondary growth after cultivation, or bushland that had never been brought under cultivation. The term for the latter appears to have been POc _&ast;[waRu]waRu-_ 'appears' because there are phonological problems in the data. On one hand Misima, Proto Malaita-Makira and PPn all reflect the reconstructed form regularly, assuming that final _&ast;-o_ of PPn _&ast;wao_ reflects assimilation. On the other hand PMic medial _&ast;-l-_ reflects POc &ast;-l-, not _&ast;-R-_. This irregularity is unexplained, but cannot be dismissed too lightly, as Proto Malaita-Makira _&ast;[walu]walu_ could also reflect a form with POc _&ast;-l-_. I reconstruct POc _&ast;[waRu]waRu_ because this explains a larger range of reflexes, but further data might lead to a revision.[^7]
 
 <table id="3-2-5-None-35-POc-waruwaru-a">
 <tr>
@@ -297,7 +277,7 @@ The term _&ast;qutan_ appears to have denoted uncultivated land in general, whet
 <i>&ast;[waRu]waRu</i>
 </td>
 <td>
-'<span>primary forest</span>' (<a href="../sources/FrenchWright1983">FrenchWright1983: *wao</a>)
+'<span>primary forest</span>' (<a href="../sources/FrenchWright1983">FrenchWright1983: _*wao_</a>)
 </td>
 </tr>
 <tr>
@@ -427,11 +407,9 @@ cf. also:
 
 In volumes 1 and 2 a number of other POc terms for landscape features were reconstructed which correspond very roughly to the vegetation habitats listed in [§3](../contributions/3-2#s-3). The correspondence is rough because the POc terms denote landscape features, not vegetation habitats in the botanical sense. Such terms are POc _&ast;(b,bʷ)iker_ 'beach, esp. sandy beach' ([vol.2, ch.3, §3.1](../contributions/2-3#s-3-1))[^9] and the three terms reconstructed in [vol.2, ch.3, §5.2](../contributions/2-3#s-5-2), denoting swamps. As we note there, we have no principled way of determining which te:rm(s) denoted mangrove swamps and which freshwater swamps.
 
-- POc &ast;[dr,r]ano 'lake, swamp'
-
-- POc &ast;pʷaca     'swamp'
-
-- POc &ast;[g,k]opu  'pond, lagoon, swamp'
+- POc _&ast;[dr,r]ano_ 'lake, swamp'
+- POc _&ast;pʷaca_     'swamp'
+- POc _&ast;[g,k]opu_  'pond, lagoon, swamp'
 
 A minor piece of evidence that POc speakers recognised a division between wild and cultivated varieties of plants is that wild plant names are sometimes fully reduplicated forms of a cultivated variety or a similar cultivated plant species ([§7.2](../contributions/3-2#s-7-2)).
 
@@ -441,12 +419,11 @@ A minor piece of evidence that POc speakers recognised a division between wild a
 ## 6. The ingredients of an Oceanic meal
 
 
-People in traditional Oceanic-speaking villages ate one cooked meal a day, usually after the day's work. The meal typically consisted of starchy staples, made more appetising by the addition of coconut milk ([ch.12, §4.2](../contributions/3-12#s-4-2)), leafy vegetables (ch.10) and sometimes some meat or fish. Today the meal is most often boiled. Traditionally, boiling would have been common in communities which had clay pots. Will McClatchey (pers. comm.) points out that it was also possible in communities without clay pots: a stone was heated in the fire and dropped into a container of water. Such containers might be (watertight) leaf baskets, a wooden bowl, a ground out rock or a large shell. Since boiling with such utensils can still be observed in parts of NW Island Melanesia, there is good reason to think that it occurred traditionally. Food was presumably also roasted in the fire or baked over it or-on special occasions-steamed in an earth oven (for food preparation methods, see vol.1, ch.6).
+People in traditional Oceanic-speaking villages ate one cooked meal a day, usually after the day's work. The meal typically consisted of starchy staples, made more appetising by the addition of coconut milk ([ch.12, §4.2](../contributions/3-12#s-4-2)), leafy vegetables (ch.10) and sometimes some meat or fish. Today the meal is most often boiled. Traditionally, boiling would have been common in communities which had clay pots. Will McClatchey (pers. comm.) points out that it was also possible in communities without clay pots: a stone was heated in the fire and dropped into a container of water. Such containers might be (watertight) leaf baskets, a wooden bowl, a ground out rock or a large shell. Since boiling with such utensils can still be observed in parts of NW Island Melanesia, there is good reason to think that it occurred traditionally. Food was presumably also roasted in the fire or baked over it or - on special occasions - steamed in an earth oven (for food preparation methods, see vol.1, ch.6).
 
 The lexicons of Oceanic languages usually distinguish two main categories of ingredient:
 
 - starchy staples, including yams, taro, sweet potatoes and other root crops, cooking bananas and breadfruit;
-
 - the additional ingredients: coconut milk, leafy vegetables and protein foods (meat, fish, shellfish).
 
 [Barrau](../sources/Barrau1955) ([1955](../sources/Barrau1955): 44) remarks on the existence of this division in New Caledonia, and translates the terms for the categories as 'food' and 'condiments'.
@@ -475,7 +452,7 @@ The encoding of the two categories of ingredient in the lexicon varies from lang
 | VERBS | _-a             | 'eat' (POc _&ast;kani_)                            |
 |       | _-a-kʷayakʷaya_ | 'eat meat alone' (_kʷayakʷaya-_ 'white ')      |
 |       | _-kuda-taʔula_  | 'eat starchy vegetables and meat together'[^10] |
-| v & N | _[-]onanaga_    | 'crave for meat' (v); 'craving for meat' (N)   |
+| v&N   | _[-]onanaga_    | 'crave for meat' (v); 'craving for meat' (N)   |
 | NOUNS | _aʔa_           | 'food (generic), cultivated crops'             |
 |       | _kevakeva_      | 'meat and fish, protein food'                  |
 
@@ -493,7 +470,7 @@ The encoding of the two categories of ingredient in the lexicon varies from lang
 
 |       |               |                                                  |
 |:------|:--------------|:-------------------------------------------------|
-| VERBS | _ani_, _ŋani_ | 'eat' (VT) (POc &ast;kani)                           |
+| VERBS | _ani_, _ŋani_ | 'eat' (VT) (POc _&ast;kani_)                         |
 | NOUNS | _namnam_      | 'food'                                           |
 |       | _gemnai_      | 'eat (s.t.) as an accompaniment to starchy food' |
 |       | _balbal_      | 'starchy food, root vegetables'                  |
@@ -523,7 +500,7 @@ The encoding of the two categories of ingredient in the lexicon varies from lang
 |       | _ʔonari_          | 'eat only fish'                                        |
 |       | _ŋau-bʷara-bʷara_ | 'eat one thing with relish' (_bʷara-bʷara_ 'fern sp.') |
 |       | _mamu_            | 'eat two kinds of food together'                       |
-|       | _ŋau-kokona_      | 'eat only greens' (kokona 'smooth, slippery')          |
+|       | _ŋau-kokona_      | 'eat only greens' (_kokona_ 'smooth, slippery')        |
 | NOUNS | _hinaŋa_          | 'starchy foods'                                        |
 
 : __Anejom__ (SV) ([Lynch 2001a](../sources/Lynch2001a))
@@ -532,10 +509,10 @@ The encoding of the two categories of ingredient in the lexicon varies from lang
 |:------|:-------------|:--------------------------------------------------------------------------|
 | VERBS | _ɣiñ_        | 'eat' (vT) (POc &ast;kani)                                                    |
 |       | _haŋ_        | 'eat' (vi) (POc &ast;paŋan)                                                   |
-|       | _topʷ-haŋ_   | 'eat starch without additions' (topw'just, merely, only')                 |
+|       | _topʷ-haŋ_   | 'eat starch without additions' (_topʷ_ 'just, merely, only')              |
 |       | _leɣleɣ_     | 'eat meat or fish without starch'                                         |
 | N& v  | _aθepyañ_    | 'eat meat or fish with taro' (vi, vT); 'meat or fish eaten with taro' (N) |
-| NOUNS | _in-haŋ_     | 'food, meal' (POc &ast;paŋan)                                                 |
+| NOUNS | _in-haŋ_     | 'food, meal' (POc _&ast;paŋan_)                                               |
 |       | _ni-tai-ɣiñ_ | 'food (generic)' (lit. ART-thing-eat) (POc _&ast;kani_)                       |
 |       | _ni-tai-haŋ_ | 'food (generic)' (lit. ART-thing-eat) (POc _&ast;paŋan_)                      |
 
@@ -553,16 +530,16 @@ The encoding of the two categories of ingredient in the lexicon varies from lang
 
 : __Kosraean__ (Mic) (Lee 197 6)
 
-|       |           |                                                                                 |
-|:------|:----------|:--------------------------------------------------------------------------------|
-| VERBS | _kɨmɨs_   | 'eat'                                                                           |
-|       | _kʌfa_    | 'eat'                                                                           |
-|       | _kiyɔyɔi_ | 'eat one kind of food without side dish'                                        |
-|       | _kokɒɛk_  | 'eat main dish without side dish'                                               |
-| V&N   | _moŋo_    | 'eat' (v); 'food' (N) (PMic &ast;mʷaŋau 'eat (staple food)' (v); 'staple food' (N)) |
-|       | _ɛnʌt_    | 'eat a side dish of (s.t.)' (v); 'side dish' (N)                                |
-| NOUNS | _kiyɔyɔ_  | 'one kind of food eaten without side dish; naked'                               |
-|       | _ɛnte_    | 'side-dish'                                                                     |
+|       |           |                                                                                   |
+|:------|:----------|:----------------------------------------------------------------------------------|
+| VERBS | _kɨmɨs_   | 'eat'                                                                             |
+|       | _kʌfa_    | 'eat'                                                                             |
+|       | _kiyɔyɔi_ | 'eat one kind of food without side dish'                                          |
+|       | _kokɒɛk_  | 'eat main dish without side dish'                                                 |
+| V&N   | _moŋo_    | 'eat' (v); 'food' (N) (PMic _&ast;mʷaŋau_ 'eat (staple food)' (v); 'staple food' (N)) |
+|       | _ɛnʌt_    | 'eat a side dish of (s.t.)' (v); 'side dish' (N)                                  |
+| NOUNS | _kiyɔyɔ_  | 'one kind of food eaten without side dish; naked'                                 |
+|       | _ɛnte_    | 'side-dish'                                                                       |
 
 
 <a id="p-39"></a>
@@ -610,7 +587,7 @@ In the languages above, only two verbs mean something like 'eat starchy foods'. 
 
 A verb with the meaning 'crave fish or meat' is often found in Oceanic languages, reflecting the fact that in Oceanic speaking communities the main meal is often eaten without fish or meat.
 
-Fewer languages appear to have terms referring to eating leafy vegetables alone. Ramoaaina _odo_ and Arosi _ŋau-kokona_ are the only instances found in a survey of Oceanic dictionary sources. In [Ross](../sources/Ross1996d) ([1996d](../sources/Ross1996d)) I distinguished two categories of meal ingredient, starchy staples and leafy greens. With more dictionary data, it has become clear that the primary categori- sation of meal ingredients is into starch and additional ingredients, and that leafy vegetables are a subcategory of 'additional ingredients'.
+Fewer languages appear to have terms referring to eating leafy vegetables alone. Ramoaaina _odo_ and Arosi _ŋau-kokona_ are the only instances found in a survey of Oceanic dictionary sources. In [Ross](../sources/Ross1996d) ([1996d](../sources/Ross1996d)) I distinguished two categories of meal ingredient, starchy staples and leafy greens. With more dictionary data, it has become clear that the primary categorisation of meal ingredients is into starch and additional ingredients, and that leafy vegetables are a subcategory of 'additional ingredients'.
 
 The ubiquitousness of verbs and nouns which presuppose the 'starchy food' ([§6.1](../contributions/3-2#s-6-1)) and 'additional ingredients' ([§6.2](../contributions/3-2#s-6-2)) categories suggests strongly that these categories were already present in POc.
 
@@ -620,7 +597,7 @@ The ubiquitousness of verbs and nouns which presuppose the 'starchy food' ([§6.
 ### 6.1. Starchy food
 
 
-Staple food sources are easily grown starchy foods of vegetable origin that are high in food energy. Dictionary definitions of terms for 'staple food' or 'starchy food' in Oceanic languages are rarely exhaustive, sometimes referring to yams, sometimes to taro, sometimes to root crops in general. This is, of course, often due to variations in the staples consumed from one area to another: taro is grown in wetter regions, yams in drier areas, and breadfruit on atolls. For New Guinea Bourke (in preparation) lists Colocasia taro, yams (Dioscorea esculenta and D. alata ), banana and sago as the most important staple foods before the arrival of the sweet potato. An early botanical account suggests that taro, some yam species, bananas and breadfruit probably formed the traditional staple foods of Pacific islanders ([Guppy 1906](../sources/Guppy1906): 412-415). [Pawley & Sayaba](../sources/PawleyandSayaba2003) ([2003](../sources/PawleyandSayaba2003)) define Wayan _maŋiti_ as including the staples bananas and breadfruit as well as root crops, and knowledge of Oceanic eating habits justifies assuming definitions of this kind of breadth for the corresponding terms in many Oceanic languages. The sago palm is included with othrr staples in chapter 9 because it serves as a staple in some Oceanic societies and as a famine food in others.
+Staple food sources are easily grown starchy foods of vegetable origin that are high in food energy. Dictionary definitions of terms for 'staple food' or 'starchy food' in Oceanic languages are rarely exhaustive, sometimes referring to yams, sometimes to taro, sometimes to root crops in general. This is, of course, often due to variations in the staples consumed from one area to another: taro is grown in wetter regions, yams in drier areas, and breadfruit on atolls. For New Guinea Bourke (in preparation) lists Colocasia taro, yams (Dioscorea esculenta and D. alata), banana and sago as the most important staple foods before the arrival of the sweet potato. An early botanical account suggests that taro, some yam species, bananas and breadfruit probably formed the traditional staple foods of Pacific islanders ([Guppy 1906](../sources/Guppy1906): 412-415). [Pawley & Sayaba](../sources/PawleyandSayaba2003) ([2003](../sources/PawleyandSayaba2003)) define Wayan _maŋiti_ as including the staples bananas and breadfruit as well as root crops, and knowledge of Oceanic eating habits justifies assuming definitions of this kind of breadth for the corresponding terms in many Oceanic languages. The sago palm is included with other staples in chapter 9 because it serves as a staple in some Oceanic societies and as a famine food in others.
 
 Two POc forms are reconstructed with the probable meaning 'starchy food' and hypernymously 'food in general': _&ast;kanaŋ_ and _&ast;kuta_.
 
@@ -942,7 +919,7 @@ cf. also:
 
 A further twist is reflected in the forms under 'cf. also' above. The base of PMP _&ast;kan-an_ was _&ast;kan_. The base of the forms under 'cf. also' is POc _&ast;kani_. This reflects PMP _&ast;kan-i_, where _&ast;-i_ is a reflex of the PAn suffix _&ast;-i_ 'location focus, atemporal', reinterpreted as a transitiviser in POc ([Pawley & Reid 1980](../sources/PawleyReid1980); vol.1, ch.2, §[§3 .1.2](../contributions/3-2#s-3-1-2)-3) but lexicalised as part of the POc base when the erstwhile base, e.g. _&ast;kan_, was a monosyllable. As a result, the forms under 'cf. also' have the base _&ast;kani_, which never co-occurred with a nominalising affix in PAn and PMP.
 
-Several reflexes of POc _&ast;kuta_ denote a major staple in the language concerned, either banana or yam, suggesting that the POc term denoted 'staple food'. However, it is also pos- sible that _&ast;kuta_ was originally a specialised verb of eating, as the Gumawana, Iduna, Gela and Tolo glosses imply.
+Several reflexes of POc _&ast;kuta_ denote a major staple in the language concerned, either banana or yam, suggesting that the POc term denoted 'staple food'. However, it is also possible that _&ast;kuta_ was originally a specialised verb of eating, as the Gumawana, Iduna, Gela and Tolo glosses imply.
 
 <table id="3-2-6-1-42-POc-kuta-a">
 <tr>
@@ -1116,7 +1093,7 @@ The concept of 'additional ingredients' was also lexicalised in PMic _&ast;ta(l,
 ## 7. Apparent encodings of plant categorisations in Oceanic plant names
 
 
-A number of Oceanic languages appear to use prefixes or reduplication in plant names as a means of categorising the plant thus named. However, this categorisation is more apparent than real. The prefixes described in [§7 .1.1](../contributions/3-2#s-7-1-1) and [§7.1.4](../contributions/3-2#s-7-1-4) and the reduplication described in [§7.2](../contributions/3-2#s-7-2) reflect strategies for creating new plant names rather than direct reference to categories of plant. The prefixes described in [§7 .1.3](../contributions/3-2#s-7-1-3) are part of the debris left by an earlier numeral classifier system.
+A number of Oceanic languages appear to use prefixes or reduplication in plant names as a means of categorising the plant thus named. However, this categorisation is more apparent than real. The prefixes described in [§7.1.1](../contributions/3-2#s-7-1-1) and [§7.1.4](../contributions/3-2#s-7-1-4) and the reduplication described in [§7.2](../contributions/3-2#s-7-2) reflect strategies for creating new plant names rather than direct reference to categories of plant. The prefixes described in [§7.1.3](../contributions/3-2#s-7-1-3) are part of the debris left by an earlier numeral classifier system.
 
 
 <a id="p-44"></a>
@@ -1130,9 +1107,7 @@ A number of Oceanic languages appear to use prefixes or reduplication in plant n
 Three kinds of prefix stand out in the history of some Oceanic plant names reconstructed in this book:
 
 - prefixes reflecting POc _&ast;kayu_ 'tree, shrub' (§[§7.1.1](../contributions/3-2#s-7-1-1)-7.1.2);
-
 - prefixes reflecting POc _&ast;puqu(n)_ 'base of tree; source, origin' and _&ast;raun_ 'leaf ([§7.1.3](../contributions/3-2#s-7-1-3));
-
 - the POc prefix _&ast;mala-_ 'resembling' ([§7.1.4](../contributions/3-2#s-7-1-4));
 
 The first two categories appear at first sight to be rather similar, but the evidence suggests that they are derived from different POc constmctions and have different uses.
@@ -1243,7 +1218,7 @@ Significantly, for six out of seven the dictionary independently lists a meaning
 
 <a id="p-46"></a>
 
-In two cases, _ʔaisarufi_ and _ʔaininiu_, the tree is named for a resemblance to another plant. The tree _ʔaisaliŋa_, literally 'ear tree ', is so named because the leaf has 'ears' at its base. Two reasons are given for the name 'monitor lizard tree', _ʔaikame_: its bark is said to be like the skin of a monitor lizard, and the monitor lizard is said to take refuge in this tree when it is chased by a dog. The 'greybird tree ', _ʔaikusi_, is so named because its leaf bloom is like the feathers of a _kusi_ bird.
+In two cases, _ʔaisarufi_ and _ʔaininiu_, the tree is named for a resemblance to another plant. The tree _ʔaisaliŋa_, literally 'ear tree ', is so named because the leaf has 'ears' at its base. Two reasons are given for the name 'monitor lizard tree', _ʔaikame_: its bark is said to be like the skin of a monitor lizard, and the monitor lizard is said to take refuge in this tree when it is chased by a dog. The 'greybird tree', _ʔaikusi_, is so named because its leaf bloom is like the feathers of a _kusi_ bird.
 
 The most striking feature of Kwara'ae _ʔai-_ is its distribution: it is never prefixed to a reflex of a POc tree name. This implies that it is used productively for descriptive coinages and that it does not cooccur with roots that are felt to be tree names in their own right.
 
@@ -1267,7 +1242,7 @@ Among POc plant names trisyllables are rarer than disyllables, reflecting a patt
 | PWOc | _&ast;kasuwai_     | 'mango'               | [ch.11, §3.4](../contributions/3-11#s-3-4)   |
 | PWOc | _&ast;kapu(r,R)ik_ | 'k.o. wild melon'     | ch. l3, [§7.4](../contributions/3-2#s-7-4)  |
 | POc  | _&ast;[ka]ŋaRi_    | 'canarium almond'     | [ch.11, §2.1](../contributions/3-11#s-2-1)   |
-| POc  | _&ast;[ka]timun_   | 'cucurbit (generic)'  | ch. l3, [§7.4](../contributions/3-2#s-7-4)  |
+| POc  | _&ast;[ka]timun_   | 'cucurbit (generic)'  | [ch. 13, §7.4](../contributions/3-13#s-7-4)  |
 
 The inference that _&ast;ka-_ was indeed a prefix is strengthened by the fact that in the last two cases there are reflexes of forms with and without _&ast;ka-_, i.e. _&ast;kaŋaRi_ vs _&ast;ŋaRi_, _&ast;katimun_ vs _&ast;timun_, implying either that _&ast;ka-_ was an omissible prefix, or that _&ast;ka-_ was part of the stem but was reanalysed as an exemplar of the prefix and hence deleted.
 
@@ -1284,21 +1259,19 @@ The Bola (MM) reflex of POc _&ast;[ka]ŋaRi_ is _taŋari_, implying either repla
 
 In certain NCV languages tree names occur with one of two prefixes. In Tamambo, stems naming trees and large bushes (but not other plant types) are regularly prefixed with _vu-_ 'tree ', e.g. _vu-mambue_ 'chestnut tree ', _vu-niu_ 'coconut palm', _vu-ŋai-ŋai_ 'canarium nut tree' ([Jauncey 1997](../sources/Jauncey1997)). Vines, ferns, tubers and grasses are not prefixed with _vu-_, but Jauncey observes that 'some large kinds of bushes are marked as trees, but only if they do have a main central trunk'. This supports her inference that _vu-_ reflects POc _&ast;puqu(n)_ 'base of tree; source, origin' ([ch. 4, §2.1](../contributions/3-4#s-2-1)).
 
-Contrasting with _vu-_ is the prefix _ra-_ 'leaf of (ROOT)', reflecting POc _&ast;raun_ 'leaf ([ch. 4, §2.5](../contributions/3-4#s-2-5)), e.g. _ra-ɣaviɣa_ 'leaf of Malay apple', _ra-ɣatabola_ 'leaf of Dracontomelon vitiense', _ra-moli_ 'leaf of citrus tree'.
+Contrasting with _vu-_ is the prefix _ra-_ 'leaf of (ROOT)', reflecting POc _&ast;raun_ 'leaf' ([ch. 4, §2.5](../contributions/3-4#s-2-5)), e.g. _ra-ɣaviɣa_ 'leaf of Malay apple', _ra-ɣatabola_ 'leaf of Dracontomelon vitiense', _ra-moli_ 'leaf of citrus tree'.
 
 Both prefixes derive countable units. Thus [_vu-_ROOT] means 'a tree of the kind denoted by ROOT' and [_ra-_ROOT] means 'a leaf of the kind of tree denoted by ROOT'. This interpretation receives support from the fact that the prefixes also occur with _xai_ 'tree, wood': _vu-xai_ is 'a tree', i.e. _vu-_ denotes the unit and _xai_ the nature of the unit. POc _&ast;puqu(n)_ meant 'base of tree', but by metonymy acquired the sense 'a tree-like unit'. [François](../sources/Francois2002) ([2002](../sources/Francois2002): 50) reports that the Araki prefixes _vi-_ and _da-_ have similar functions to Tamambo _vu-_ and _ra-_ respectively.
 
 The corresponding forms in Fijian languages preserve largely unchanged the POc construction from which Tamambo _vu-_ and _ra-_ are derived. In Wayan Fijian we find the construction [NOUN _ni_ NOUN]. In the broadest terms, the second noun serves as an attribute of the first. Thus in a phrase like _rau ni kulu_ 'a breadfruit leaf', _kulu_ 'breadfruit' specifies the type of _rau_ 'leaf. For example:
 
 - _vū_ 'base, bottom' in _vū ni niu_ 'a coconut palm', _vū ni kulu_ 'a breadfruit tree ', _vū ni koka_ 'a Bischofia javanica tree ';
-
 - _rau_ 'leaf' in _rau ni niu_ 'a coconut frond ', _rau ni kulu_ 'a breadfruit leaf', _rau ni koka_ 'a Bischofia javanica leaf;
-
 - _vua_ 'fruit' in _vua ni kulu_ 'fruit of breadfruit tree' (i.e. 'a breadfruit' ).
 
 Like Tamambo _vu-_, Wayan _vū_ 'base, bottom' is used metonymically to refer to whole trees. As a result, like Tamambo _xai_, Wayan _kai_ 'tree, shrub' can serve as the second noun: _vū ni kai_ 'a tree/shrub ', _rau ni kai_ 'a leaf', _vua ni kai_ 'fruit of tree' (i.e. 'a fruit' ), _tiki ni kai_ 'piece of wood, stick' (_tiki_ 'part, piece').
 
-Wayan, like other Fijian languages, here preserves a POc noun phrase construction which had a variety offunctions. Sometimes called the 'associative' construction in the literature of Oceanic linguistics, this construction allowed one noun to be used as an attribute modifying another. It had two forms, the choice between them depending on whether the first (head) noun was a zero-valency noun or a monovalent noun.[^19]
+Wayan, like other Fijian languages, here preserves a POc noun phrase construction which had a variety of functions. Sometimes called the 'associative' construction in the literature of Oceanic linguistics, this construction allowed one noun to be used as an attribute modifying another. It had two forms, the choice between them depending on whether the first (head) noun was a zero-valency noun or a monovalent noun.[^19]
 
 
 <a id="p-48"></a>
@@ -1340,11 +1313,11 @@ This POc construction is also reflected in Kwara'ae plant naming, but in a rathe
 
 The morphemes _faʔi_ and _fiʔi_ belong to a set of classifiers described in Deck's grammar and used principally for counting (1934: 7-10). These are listed in Table 2.1 along with corresponding forms in closely related Kwaio and Lau, the Proto Polynesian classifiers reconstructed in POLLEX, and the POc nouns from which they are derived.
 
-Several of the Kwara'ae classifiers share the form monosyllable + _-ʔi_ or _-?e_. Their common form reflects their shared origin in the POc construction [MONOVALENT NOUN _&ast;qi_ NOUN] described above.[^20] The likely POc usage from which the classifiers in Table 2.1 are derived is illustrated below:[^21]
+Several of the Kwara'ae classifiers share the form monosyllable + _-ʔi_ or _-ʔe_. Their common form reflects their shared origin in the POc construction [MONOVALENT NOUN _&ast;qi_ NOUN] described above.[^20] The likely POc usage from which the classifiers in Table 2.1 are derived is illustrated below:[^21]
 
 __igt__ (2) POc: (Lynch et al. 2002: 74) a.   &ast;i-tolu     puaq qi pudi 3sG-three fruit of banana 'three bananas' (= '(there are) three fruit of banana') b.   &ast;i-tolu     puqun ni pudi 3sG-three trunk       of banana 'three banana trees' (= '(there are) three trees of banana')
 
-Some classifiers did not combine with _&ast;qi_, either because they remained disyllabic or because they were derived from zero-valency nouns which instead headed the POc construction [ZERO-VALENCY NOUN _&ast;ni_ NOUN] .
+Some classifiers did not combine with _&ast;qi_, either because they remained disyllabic or because they were derived from zero-valency nouns which instead headed the POc construction [ZERO-VALENCY NOUN _&ast;ni_ NOUN].
 
 The classifier _faʔi_ is described by Deck as being used to count round, compacted or heaped units, but it seems to me that, like reflexes of PMP _&ast;buaq_ / POc _&ast;puaq_ 'fruit' ([ch.4, §2.8](../contributions/3-4#s-2-8)) in a number of Austronesian languages, it is the default classifier for countable inanimate objects, i.e. it is used when no other classifier is more appropriate.[^22]
 
@@ -1456,13 +1429,13 @@ In Marovo (MM) several forms are found with a somewhat different semantic deriva
 
 [^6]: Madak (New Ireland) shares phonological features with its Papuan neighbour Kuot that are largely not shared by neighbouring Oceanic languages ([Ross 1994c](../sources/Ross1994c)). Several languages of western and southwest New Britain (Bebeli, Sengseng, Kaulong) mark human gender in certain ways that are otherwise unknown in Oceanic languages.
 
-[^7]: Gela ao may not be cognate, as the expected Gela form is t walu .
+[^7]: Gela _ao_ may not be cognate, as the expected Gela form is †_walu_.
 
-[^8]: This set is repeated in part from [vol.1, ch.5, §3 .3](../contributions/1-5#s-3-3) and [vol.2, ch.3, §5 .1](../contributions/2-3#s-5-1), where PEOc &ast;wao 'forest' was reconstructed, following [French-Wright](../sources/FrenchWright1983) ([1983](../sources/FrenchWright1983)).
+[^8]: This set is repeated in part from [vol.1, ch.5, §3 .3](../contributions/1-5#s-3-3) and [vol.2, ch.3, §5 .1](../contributions/2-3#s-5-1), where PEOc _&ast;wao_ 'forest' was reconstructed, following [French-Wright](../sources/FrenchWright1983) ([1983](../sources/FrenchWright1983)).
 
 [^9]: POc _&ast;qone_ 'sand, sandy beach' ([vol.2, ch.3, §7.5](../contributions/2-3#s-7-5)) appears primarily to denote the sand rather than the location as part of an island.
 
-[^10]: _-kuda_ chew, __taʔula__ 'banana leaf under food', the latter presumably a reference to the fact that vegetables and meat are eaten together at features where food is laid out on banana leaves.
+[^10]: _-kuda_ chew, _taʔula_ 'banana leaf under food', the latter presumably a reference to the fact that vegetables and meat are eaten together at features where food is laid out on banana leaves.
 
 [^11]: T. [Crowley](../sources/Crowley2000) ([2000](../sources/Crowley2000)) glosses _-etki_ 'eat something with something else', but his example suggests the gloss given here.
 

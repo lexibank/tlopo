@@ -735,7 +735,7 @@ Reconstructable terms for stage 9, 'ripe, flesh hardened', are POc _&ast;matuqu_
 '<span>ripe coconut</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>məcə(wipᶭ)</i></td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>məcə(wipᵚ)</i></td>
 <td>
 '<span>coconut, nearly ripe</span>'</td>
 </tr>
@@ -1900,7 +1900,7 @@ The distinction between 'coconut cream' and 'coconut milk' is fuzzy. The cream i
 '<span>scraped coconut mixed with other food</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>yalᶭ</i></td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>yalᵚ</i></td>
 <td>
 '<span>coconut milk</span>'</td>
 </tr>
@@ -2439,7 +2439,7 @@ We observed above that POc _&ast;paraq_ 'coconut embryo' was also used to refer 
 '<span>sponge, as of coconut, ivory nut</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>ʔuto (?ugu)</i></td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>ʔuto (ʔugu)</i></td>
 <td>
 '<span>brains</span>' (<span>= 'head sponge'</span>)</td>
 </tr>
@@ -2459,7 +2459,7 @@ We observed above that POc _&ast;paraq_ 'coconut embryo' was also used to refer 
 '<span>soft wood around the centre of a tree trunk</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/marquesan">Marquesan</a></td><td><i>(?ehi)uto</i></td>
+<td>Pn</td><td><a href="../languages/marquesan">Marquesan</a></td><td><i>(ʔehi)uto</i></td>
 <td>
 '<span>sprouting coconut</span>'</td>
 </tr>
@@ -3565,7 +3565,7 @@ Our sources often do not distinguish clearly between the frond and the leaflet (
 '<span>midrib of side leaves of coconut palm</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>nᶭɔkʷ</i></td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>nᵚɔkʷ</i></td>
 <td>
 '<span>midrib of a coconut leaf</span>'</td>
 </tr>
